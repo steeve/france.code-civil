@@ -1,23 +1,13 @@
 Article 111 quindecies
 ----
-Le récépissé de consignation est soumis au droit de timbre de dimension. Il est
-détaché d'un registre à souche et affecté d'un numéro d'ordre.
+Les personnes visées à l'article 111 quaterdecies doivent, lorsqu'elles n'ont
+pas en France de domicile ou de résidence fixe depuis plus de six mois, verser à
+la recette des impôts de leur choix avant tout exercice de leur activité, un
+dépôt non rémunéré dont le montant est fixé par arrêté (1).
 
-Le récépissé de consignation est délivré dans tous les chefs-lieux de
-département par le receveur divisionnaire des impôts (à Paris, par le receveur
-des non-résidents (1)).
+Ce dépôt ouvre droit à la délivrance d'un récépissé qui mentionne l'identité du
+déposant, sa commune de rattachement, la nature de l'activité qu'il exercera,
+les moyens d'exploitation ainsi que les identités et domiciles de ses préposés.
+En outre, il est délivré à chaque préposé une attestation spéciale.
 
-Les personnes qui ne peuvent ou ne veulent pas se transporter au chef-lieu du
-département peuvent déposer leur demande de récépissé de consignation dans une
-recette quelconque des impôts. Il leur est délivré, contre versement de la
-consignation visée à l'article 111 sexdecies une quittance provisoire qui leur
-tient lieu de récépissé de consignation pendant un délai maximal de quinze
-jours.
-
-Avant l'expiration de ce délai, le récépissé de consignation établi à leur nom
-est mis à leur disposition à la recette des impôts qu'elles ont désignée à cet
-effet. Elles ne peuvent toutefois retirer le récépissé qu'à la condition de
-remettre la quittance provisoire qui leur a été délivrée et de fournir les
-justifications et pièces prévues par l'article 111 sexdecies, premier alinéa.
-
-1) 9, rue d'Uzès, Paris (2e).
+(1) Annexe IV, art. 50 quindecies.

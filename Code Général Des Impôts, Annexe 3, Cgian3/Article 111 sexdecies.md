@@ -1,13 +1,8 @@
 Article 111 sexdecies
 ----
-Les personnes qui demandent la délivrance d'un récépissé de consignation sont
-tenues de justifier de leur identité ainsi que du lieu de leur domicile et,
-lorsque le demandeur est un ressortissant étranger, de la possession d'un titre
-de séjour valable sur le territoire national. Elles doivent également fournir
-une photographie récente de quatre centimètres de côté.
-
-Elles sont, en outre, tenues de verser, à titre de consignation, une somme
-fixée, suivant la nature des marchandises mises en vente, par arrêté ministériel
-(1).
-
-1) Annexe IV, art. 50 quindecies.
+Les personnes qui demandent la délivrance d'un récépissé de consignation doivent
+fournir une photographie récente d'elles-mêmes et de leurs préposés. Elles sont
+tenues de justifier de leur identité et du lieu de leur commune de rattachement
+ainsi que de l'identité et du domicile ou du lieu de la commune de rattachement
+de leurs préposés. Lorsque le demandeur est un ressortissant étranger, il doit
+être en possession d'un titre de séjour valable sur le territoire national.

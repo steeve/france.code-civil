@@ -1,11 +1,10 @@
 Article 111 octodecies
 ----
-En cas de cessation de leurs opérations comme en cas d'inscription au registre
-de commerce, les intéressés peuvent obtenir, sur leur demande, la restitution
-des sommes qu'ils ont versées en consignation. Cette restitution est effectuée à
-concurrence des trois quarts du montant de la consignation s'ils justifient
-avoir régulièrement acquitté les taxes sur le chiffre d'affaires, et en totalité
-s'ils justifient, en outre, avoir acquitté l'impôt sur le revenu.
+Le dépôt prévu à l'article 111 quindecies est restituable aux personnes qui
+justifient du paiement, de l'exonération ou de la non-exigibilité, pour la
+totalité de la période de validité du récépissé, de la taxe professionnelle, de
+la taxe sur la valeur ajoutée et des taxes assimilées et de l'impôt sur le
+revenu.
 
-Les demandes en restitution sont adressées à la direction des services fiscaux
-du département dans lequel a été délivré le premier récépissé de consignation.
+La demande de restitution est adressée au service des impôts visé à l'article
+111 novodecies.
