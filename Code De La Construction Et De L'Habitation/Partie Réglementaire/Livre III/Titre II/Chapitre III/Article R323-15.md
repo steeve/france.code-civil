@@ -1,7 +1,8 @@
 Article R323-15
 ----
-Ne donnent pas lieu à l'attribution de subventions les travaux qui bénéficient
-de concours financiers de l'Etat sous forme de bonifications d'intérêt, de
-primes à la construction convertibles ou non en bonifications d'intérêt, de
-prêts bonifiés à moyen et long terme du crédit agricole mutuel ou de subventions
-de l'agence nationale pour l'amélioration de l'habitat.
+Les logements et immeubles sur lesquels portent les travaux doivent avoir été
+achevés depuis au moins quinze ans, sauf dérogation accordée par le représentant
+de l'Etat dans le département, pour les travaux destinés à économiser l'énergie,
+à la réalisation d'économies de charges, au renforcement de la sécurité des
+biens et des personnes dans les immeubles, à l'amélioration de la vie
+quotidienne ou à conforter les bâtiments vis-à-vis des risques sismiques.

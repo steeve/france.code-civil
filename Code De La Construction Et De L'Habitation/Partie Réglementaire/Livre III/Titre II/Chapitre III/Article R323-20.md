@@ -1,4 +1,7 @@
 Article R323-20
 ----
-Le remboursement de la subvention peut être exigé si l'une des conditions
-définies par la présente sous-section n'est pas respectée.
+Les travaux doivent être achevés dans un délai de deux ans à compter de la date
+de la décision d'octroi de subvention.
+
+Une prorogation de ce délai peut être accordée par le représentant de l'Etat
+dans le département dans la limite d'un an.

@@ -1,4 +1,4 @@
 Article R323-18
 ----
-Les travaux doivent être commencés dans un délai d'un an à compter de la date de
-la décision d'octroi de subvention.
+La décision d'octroi de subvention doit être antérieure au début des travaux,
+sauf dérogation accordée par le représentant de l'Etat dans le département.
