@@ -5,7 +5,12 @@ nécessaires à la sécurité maritime et aérienne, à la défense nationale, �
 sécurité civile et ceux nécessaires au fonctionnement des aérodromes et des
 services publics portuaires autres que les ports de plaisance ne sont pas soumis
 aux dispositions du présent chapitre lorsque leur localisation répond à une
-nécessité technique impérative [*dérogation*]
+nécessité technique impérative.
+
+A titre exceptionnel, les stations d'épuration d'eaux usées avec rejet en mer,
+non liées à une opération d'urbanisation nouvelle, peuvent être autorisées
+conjointement par les ministres chargés de l'urbanisme et de l'environnement,
+par dérogation aux dispositions du présent chapitre.
 
 Les opérations engagées ou prévues dans les périmètres de l'opération
 d'aménagement du littoral du Languedoc-Roussillon, définis par les schémas

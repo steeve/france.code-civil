@@ -4,9 +4,15 @@ I. - Les terres nécessaires au maintien et au développement des activités
 agricoles, pastorales et forestières sont préservées. La nécessité de préserver
 ces terres s'apprécie au regard de leur rôle et de leur place dans les systèmes
 d'exploitation locaux. Sont également pris en compte leur situation par rapport
-au siège de l'exploitation, leur relief, leur pente et leur exposition. Seules
-les constructions nécessaires à ces activités ainsi que les équipements sportifs
+au siège de l'exploitation, leur relief, leur pente et leur exposition. Les
+constructions nécessaires à ces activités ainsi que les équipements sportifs
 liés notamment à la pratique du ski et de la randonnée peuvent y être autorisés.
+Peuvent être également autorisées, par arrêté préfectoral, après avis de la
+commission départementale des sites, dans un objectif de protection et de mise
+en valeur du patrimoine montagnard, la restauration ou la reconstruction
+d'anciens chalets d'alpage, ainsi que les extensions limitées de chalets
+d'alpage existants lorsque la destination est liée à une activité
+professionnelle saisonnière.
 
 II. - Les documents et décisions relatifs à l'occupation des sols comportent les
 dispositions propres à préserver les espaces, paysages et milieux

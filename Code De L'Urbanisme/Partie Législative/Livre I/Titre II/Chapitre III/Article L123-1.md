@@ -16,7 +16,7 @@ terrains produisant des denrées de qualité supérieure, l'existence de risques
 naturels prévisibles et de risques technologiques, la présence d'équipements
 spéciaux importants. Les plans d'occupation des sols déterminent l'affectation
 des sols selon l'usage principal qui doit en être fait ou la nature des
-activités dominantes qui peuvent y être exercées ;
+activités dominantes qui peuvent y être exercées.
 
 2° définir, en fonction des situations locales, les règles concernant le droit
 d'implanter des constructions, leur destination et leur nature.
@@ -44,10 +44,10 @@ conserver, à modifier ou à créer, y compris les rues ou sentiers piétonniers
 les pistes cyclables et délimiter les zones qui sont ou peuvent être aménagées
 en vue de la pratique du ski et les secteurs réservés aux remontées mécaniques
 en indiquant, le cas échéant, les équipements et aménagements qui peuvent y être
-prévus ; 7° Identifier et délimiter les quartiers, rues, monuments, sites,
-éléments de paysage et secteurs à protéger ou à mettre en valeur pour des motifs
-d'ordre esthétique, historique ou écologique et définir, le cas échéant, les
-prescriptions de nature à assurer leur protection ;.
+prévus ; 7° Identifier et localiser les éléments de paysage et délimiter les
+quartiers, rues, monuments, sites et secteurs à protéger ou à mettre en valeur
+pour des motifs d'ordre esthétique, historique ou écologique et définir, le cas
+échéant, les prescriptions de nature à assurer leur protection.
 
 8° fixer les emplacements réservés aux voies et ouvrages publics, aux
 installations d'intérêt général ainsi qu'aux espaces verts ;
@@ -57,11 +57,12 @@ inconstructibles quels que soient les équipements éventuels qui les desservent
 
 10° Délimiter les secteurs dans lesquels la délivrance du permis de construire
 peut être surbordonnée à la démolition de tout ou partie des bâtiments existants
-sur le terrain où l'implantation de la construction est envisagée. 11° Délimiter
-les zones dans lesquelles pourront s'implanter les magasins de commerce de
-détail dont l'octroi du permis de construire ou la réalisation est soumis à
-autorisation préalable de la commission d'équipement commercial par l'article L.
-451-5 du présent code.
+sur le terrain où l'implantation de la construction est envisagée.
+
+11° Délimiter les zones dans lesquelles pourront s'implanter les magasins de
+commerce de détail dont l'octroi du permis de construire ou la réalisation est
+soumis à autorisation préalable de la commission d'équipement commercial par
+l'article L. 451-5 du présent code.
 
 12° Délimiter les zones visées à l'article L. 372-3 du code des communes.
 
