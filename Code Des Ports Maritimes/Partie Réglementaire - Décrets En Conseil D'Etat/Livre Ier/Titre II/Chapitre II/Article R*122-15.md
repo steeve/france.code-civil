@@ -7,14 +7,16 @@ endroits du port principalement fréquentés par les usagers ;
 
 - de la consultation du conseil portuaire.
 
-Ces opérations sont effectuées à la diligence du chef du service maritime.
+Ces opérations sont effectuées à la diligence du directeur du port,
+simultanément ou successivement.
 
-Le conseil portuaire doit faire connaître son avis dans le délai de quinze
-jours.
+Le conseil portuaire fait connaître son avis dans le délai d'un mois à compter
+de la saisine.
 
-Le chef du service maritime dispose d'un délai de huit jours après la clôture de
-l'instruction pour en transmettre les résultats accompagnés de son avis au
-préfet du département.
+Dans le délai de quinze jours suivant la date la plus tardive d'achèvement des
+formalités de l'affichage ou de la consultation du conseil portuaire, le
+directeur du port transmet au préfet les projets de tarifs et les résultats de
+l'instruction accompagnés de son avis.
 
 Les tarifs et conditions d'usage projetés sont applicables quinze jours après
 leur transmission au préfet si, dans ce délai, le préfet n'a pas fait connaître
@@ -26,4 +28,4 @@ droit à l'expiration dudit délai.
 
 Aucune proposition de modification des tarifs et conditions d'usage n'est
 recevable avant l'expiration du délai de trois mois suivant la mise en
-application des tarifs et conditions précédents;
+application des tarifs et conditions précédents.

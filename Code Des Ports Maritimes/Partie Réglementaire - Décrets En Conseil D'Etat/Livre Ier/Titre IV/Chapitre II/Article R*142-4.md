@@ -1,7 +1,7 @@
 Article R*142-4
 ----
 Des sections permanentes peuvent être créées au sein des conseils portuaires
-constitués en vertu des dispositions de l'article R. 142-3 pour chacune des
+constitués en vertu des dispositions de l'article R. *142-3 pour chacune des
 activités de pêche, de commerce et de plaisance.
 
 Les sections permanentes instruisent, en vue de leur examen par le conseil

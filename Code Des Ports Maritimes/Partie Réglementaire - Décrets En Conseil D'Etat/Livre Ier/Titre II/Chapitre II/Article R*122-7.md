@@ -1,12 +1,6 @@
 Article R*122-7
 ----
-L'installation et l'exploitation d'outillages mis à la disposition du public
-dans les ports non autonomes de commerce ou les ports de pêche peuvent faire
-l'objet :
-
-- d'une concession d'outillage public ;
-
-- d'une autorisation d'outillage privé avec obligation de service public.
-
-Ces concessions et autorisations peuvent être accordées tant à des collectivités
-publiques qu'à des établissements publics ou à des entreprises privées.
+La réalisation, totale ou partielle, et l'exploitation d'outillages mis à la
+disposition du public dans les ports non autonomes de commerce ou de pêche de
+l'Etat peuvent faire l'objet de concessions accordées à des collectivités
+publiques, à des établissements publics ou à des entreprises privées.

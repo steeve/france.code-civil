@@ -6,8 +6,7 @@ De faire circuler ou stationner des véhicules sur les couronnements des quais e
 sur les caniveaux de grues et plus généralement sur tous les ouvrages non prévus
 pour cet usage ;
 
-De lancer à terre aucune marchandise depuis le bord d'un bâtiment, sans
-autorisation du directeur du port ;
+De lancer à terre toute marchandise que ce soit depuis le bord d'un navire ;
 
 D'embarquer ou de débarquer des marchandises susceptibles de dégrader les
 ouvrages portuaires, en particulier le couronnement des quais et le revêtement
