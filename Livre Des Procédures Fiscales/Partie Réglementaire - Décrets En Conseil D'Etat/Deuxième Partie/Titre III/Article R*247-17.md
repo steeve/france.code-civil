@@ -1,8 +1,8 @@
 Article R*247-17
 ----
-En application de l'article 24 modifié de la loi n° 85-98 du 25 janvier 1985,des
-remises, modérations ou transactions portant sur les créances fiscales peuvent
-être accordées, dans les limites et conditions fixées par l'article L247, aux
+En application de l'article L. 621-60 du code de commerce, des remises,
+modérations ou transactions portant sur les créances fiscales peuvent être
+accordées, dans les limites et conditions fixées par l'article L. 247, aux
 entreprises soumises à la procédure de redressement ou de liquidation
 judiciaires.
 

@@ -12,9 +12,9 @@ visite pour, notamment :
 a. Prendre connaissance de la déclaration spéciale si elle ne leur a pas été
 communiquée précédemment ;
 
-b. Consulter les documents comptables prévus au titre II du livre Ier du code du
-commerce, ainsi que tous les documents annexes ou justificatifs, en vue de
-s'assurer de la réalité des dépenses affectées à la recherche ;
+b. Consulter les documents comptables prévus par les articles L123-12 à L123-28
+du code du commerce, ainsi que tous les documents annexes ou justificatifs, en
+vue de s'assurer de la réalité des dépenses affectées à la recherche ;
 
 c. Consulter tous les documents techniques, effectuer toutes constatations
 matérielles, procéder à des vérifications techniques, en vue de s'assurer de la

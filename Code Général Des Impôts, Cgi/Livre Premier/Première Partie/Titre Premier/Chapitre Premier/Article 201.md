@@ -16,8 +16,7 @@ Le délai de soixante jours commence à courir :
 
 - lorsqu'il s'agit de la vente ou de la cession d'un fonds de commerce, du jour
 où la vente ou la cession a été publiée dans un journal d'annonces légales,
-conformément aux prescriptions du premier alinéa de l'article 3 de la loi du 17
-mars 1909, modifiée par les lois subséquentes ;
+conformément aux prescriptions de l'article L. 141-12 du code de commerce ;
 
 - lorsqu'il s'agit de la vente ou de la cession d'autres entreprises, du jour où
 l'acquéreur ou le cessionnaire a pris effectivement la direction des
@@ -28,15 +27,14 @@ définitive des établissements.
 
 2. (abrogé).
 
-3. Les contribuables ((assujettis à un régime réel d'imposition)) (M) (1) sont
-tenus de faire parvenir à l'administration, dans le délai de soixante jours
-déterminé comme indiqué au 1, outre les renseignements visés audit paragraphe,
-la déclaration de leur bénéfice réel accompagnée d'un résumé de leur compte de
-résultat.
+3. Les contribuables assujettis à un régime réel d'imposition sont tenus de
+faire parvenir à l'administration, dans le délai de soixante jours déterminé
+comme indiqué au 1, la déclaration de leur bénéfice réel accompagnée d'un résumé
+de leur compte de résultat.
 
 Pour la détermination du bénéfice réel, il est fait application des dispositions
-des articles 39 duodecies, 39 terdecies 1 et 2, et 39 quaterdecies à 39
-quindecies A.
+des articles 39 duodecies, des 1 et 2 de l'article 39 terdecies, et 39
+quaterdecies à quindecies A.
 
 Si les contribuables imposés d'après leur bénéfice réel ne produisent pas les
 déclarations ou renseignements visés au 1 et au premier alinéa du présent
@@ -45,17 +43,12 @@ bénéfice réel les justifications nécessaires, ils s'abstiennent de les donne
 dans les trente jours qui suivent la réception de l'avis qui leur est adressé à
 cet effet, les bases d'imposition sont arrêtées d'office.
 
-((3 bis. Les contribuables soumis au régime défini à l'article 50-0 qui cessent
+3 bis. Les contribuables soumis au régime défini à l'article 50-0 qui cessent
 leur activité en cours d'année sont tenus de faire parvenir à l'administration,
 dans le délai de soixante jours déterminé comme indiqué au 1, la déclaration et
-l'état mentionnés au 3 de l'article 50-0)) (M) (1).
+l'état mentionnés au 3 de l'article 50-0.
 
 4. Les dispositions du présent article sont applicables dans le cas de décès de
 l'exploitant. Dans ce cas, les ayants droit du défunt doivent produire les
 renseignements nécessaires pour l'établissement de l'impôt dans les six mois de
 la date du décès.
-
-(M) Modification.
-
-(1) Ces dispositions sont applicables pour la détermination des résultats des
-années 1999 et suivantes.

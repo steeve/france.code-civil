@@ -3,21 +3,16 @@ Article 1648 AA
 I. La taxe professionnelle afférente aux magasins de commerce de détail qui sont
 créés ou qui font l'objet d'une extension en exécution d'autorisations délivrées
 à compter du 1er janvier 1991 en application des dispositions des 1°, 2° et 3°
-de l'article 29 de la loi n° 73-1193 du 27 décembre 1973 d'orientation du
-commerce et de l'artisanat est soumise à une répartition intercommunale dans les
-conditions définies aux II, III et IV du présent article. Cette répartition ne
-s'applique qu'aux établissements dont l'autorisation au titre de la loi n°
-73-1193 du 27 décembre 1973 précitée et, s'il y a lieu, le permis de construire
-sont devenus définitifs.
+du I de l'article L. 720-5 du code de commerce est soumise à une répartition
+intercommunale dans les conditions définies aux II, III et IV du présent
+article. Cette répartition ne s'applique qu'aux établissements dont
+l'autorisation précitée et, s'il y a lieu, le permis de construire sont devenus
+définitifs.
 
 Pour les créations et extensions de magasins de commerce de détail qui font
 l'objet d'une autorisation délivrée en application des dispositions des 1°, 2°
-et 3° de l'article 29 de la loi n° 73-1193 du 27 décembre 1973 précitée, modifié
-par les articles 89 et 91 de la loi n° 96-314 du 12 avril 1996 portant diverses
-dispositions d'ordre économique et financier ou du I du même article tel qu'il
-est issu de la loi n° 96-603 du 5 juillet 1996 relative au développement et à la
-promotion du commerce et de l'artisanat, la répartition prévue au premier alinéa
-s'applique :
+et 3° du I de l'article L. 720-5 précité, la répartition prévue au premier
+alinéa s'applique :
 
 1° Aux créations de magasins d'une surface de vente supérieure à 1 000 mètres
 carrés ;
@@ -29,10 +24,10 @@ l'application de cette disposition, la surface de vente s'entend de celle
 résultant d'une construction ou de la transformation d'un immeuble.
 
 La répartition prévue aux premier et deuxiéme alinéas s'effectue entre les
-communes dont tout ou partie du territoire se trouve à une distance de 5
-kilomètres d'un point quelconque de l'ensemble commercial. Cette distance est
-portée à 10 kilomètres lorsque la surface de vente des magasins concernés est
-égale ou supérieure à 5 000 mètres carrés.
+communes dont tout ou partie du territoire se trouve à une distance de 5 km d'un
+point quelconque de l'ensemble commercial. Cette distance est portée à 10 km
+lorsque la surface de vente des magasins concernés est égale ou supérieure à 5
+000 mètres carrés.
 
 Les dispositions des premier, deuxième et troisième alinéas ne sont applicables
 ni dans les départements dont la densité de population excède 1 000 habitants au
@@ -45,7 +40,7 @@ les agglomérations nouvelles.
 II. Les bases communales de taxe professionnelle correspondant aux créations et
 extensions d'établissements résultant soit d'une construction nouvelle, soit de
 la transformation d'un immeuble déjà existant sont, après application s'il y a
-lieu des dispositions des premier et troisième alinéas du I de l'article 1648 A
+lieu des dispositions des premier et troisième alinéas du I de l'article 1648 A,
 taxées directement, à concurrence de 80 p. 100 de leur montant, au profit du
 fonds départemental de la taxe professionnelle prévu au premier alinéa du I du
 même article, selon le taux communal de taxe professionnelle.
@@ -53,9 +48,9 @@ même article, selon le taux communal de taxe professionnelle.
 Dans les communes membres d'une communauté de communes, le pourcentage fixé à
 l'alinéa précédent est ramené à 40 p. 100.
 
-Lorsque les communes bénéficiaires au titre du I ci-dessus sont situées dans des
+Lorsque les communes bénéficiaires au titre du I sont situées dans des
 départements distincts, les sommes perçues selon les modalités prévues aux
-premier et deuxième alinéa sont réparties entre les fonds de chacun des
+premier et deuxième alinéas sont réparties entre les fonds de chacun des
 départements concernés en proportion de la population de ces mêmes communes.
 
 Le pourcentage fixé aux premier et deuxième alinéas du II s'applique :
@@ -76,7 +71,7 @@ III. Les sommes que le ou les fonds départementaux de la taxe professionnelle
 perçoivent en application des dispositions du II sont :
 
 1° A concurrence de 85 p. 100 de leur montant, réparties, conformément aux
-dispositions du IV entre les communes bénéficiaires au titre du I ;
+dispositions du IV, entre les communes bénéficiaires au titre du I ;
 
 2° Pour le surplus, versées à un fonds régional dont les ressources sont
 réparties entre des fonds départementaux d'adaptation du commerce rural en
@@ -99,7 +94,7 @@ taxe professionnelle par habitant des communes appartenant au même groupe
 démographique.
 
 Lorsque la somme qui doit résulter de la répartition pour une commune est
-inférieure à 3 000 francs, le versement de cette somme n'est pas effectué.
+inférieure à 3 000 F, le versement de cette somme n'est pas effectué.
 
 Les sommes non distribuées en application des dispositions des quatre alinéas
 précédents viennent en augmentation des sommes à répartir entre les communes qui
@@ -120,7 +115,7 @@ département et par le président du conseil général ; elle comprend en outre 
 
 - un représentant de la chambre des métiers ;
 
-- deux personnalités qualifiées désignées par les co-présidents.
+- deux personnalités qualifiées désignées par les coprésidents.
 
 La répartition prévue au premier alinéa du V doit avoir pour objectif le
 maintien d'une présence commerciale harmonieuse en zone rurale.

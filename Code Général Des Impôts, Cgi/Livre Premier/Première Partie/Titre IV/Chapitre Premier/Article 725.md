@@ -19,8 +19,8 @@ droit à un bail ou du bénéfice d'une promesse de bail portant sur tout ou par
 d'un immeuble, sont applicables à tous actes ou conventions, quelles qu'en
 soient la nature, les modalités, la forme ou la qualification, qui ont pour
 effet, direct ou indirect, de transférer le droit à la jouissance d'immeubles ou
-de locaux entrant dans les prévisions du titre Ier du décret n° 53-960 du 30
-septembre 1953.
+de locaux entrant dans les prévisions des articles L. 145-1 à L. 145-3 du code
+de commerce.
 
 (1) Ce tarif s'applique aux actes passés et aux conventions conclues à compter
-du 10 mai 1993.
+du 1er décembre 1995.

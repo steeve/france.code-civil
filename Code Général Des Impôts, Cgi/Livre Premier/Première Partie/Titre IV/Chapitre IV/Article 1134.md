@@ -1,30 +1,30 @@
 Article 1134
 ----
-Sous réserve des dispositions de l'article 679 3°, sont exonérés des droits de
-timbre et d'enregistrement et, le cas échéant, dispensés de la formalité, les
+Sous réserve des dispositions du 3° de l'article 679, sont exonérés des droits
+de timbre et d'enregistrement et, le cas échéant, dispensés de la formalité, les
 lettres et accusés de réception, les renonciations, acceptations et
 consentements prévus :
 
-1° Aux articles L342-2, L343-3, L342-10 et L342-11 du code rural, le registre
-sur lequel les warrants sont inscrits, la copie des inscriptions d'emprunts, le
-certificat négatif et le certificat de radiation mentionnés aux articles L342-6
-et L342-7 du même code ;
+1° Aux articles L. 342-2, L. 343-3, L. 342-10 et L. 342-11 du code rural, ainsi
+que le registre sur lequel les warrants sont inscrits, la copie des inscriptions
+d'emprunts, le certificat négatif et le certificat de radiation mentionnés aux
+articles L. 342-6 et L. 342-7 du même code ;
 
-2° Par la loi du 8 août 1913 modifiée , relative au warrant hôtelier, le
+2° Par les articles L. 523-1 et L. 523-15 du code de commerce, ainsi que le
 registre sur lequel les warrants sont inscrits, la copie des inscriptions du
 warrant, le certificat négatif, le certificat de radiation mentionné à l'article
-7 de ladite loi;
+L. 523-7 dudit code ;
 
-3° Par la loi du 21 avril 1932 modifiée créant des warrants pétroliers, le
+3° Par les articles L. 524-1 à L. 524-21 du code de commerce, ainsi que le
 registre sur lequel les warrants pétroliers sont inscrits, la copie des
 inscriptions du warrant, le certificat négatif et le certificat de radiation
-mentionnés aux articles 4 et 5 de ladite loi;
+mentionnés aux articles L. 524-4 et L. 524-5 dudit code ;
 
-4° Par l'article 7, n° 5, du décret du 29 juillet 1939 relatif à l'office
+4° Par le 5 de l'article 7 du décret du 29 juillet 1939 relatif à l'office
 national interprofessionnel des céréales, pour les stocks de blé tendre ou dur,
-de farines ou de semoules, le registre sur lequel les warrants sont inscrits, la
-copie des inscriptions du warrant, le certificat négatif et le certificat de
-radiation;
+de farines ou de semoules, ainsi que le registre sur lequel les warrants sont
+inscrits, la copie des inscriptions du warrant, le certificat négatif et le
+certificat de radiation ;
 
 5° Par la loi du 12 septembre 1940 sur le financement des fabrications de
 démarrage faisant l'objet de lettres d'agrément, modifiée par l'ordonnance du 3

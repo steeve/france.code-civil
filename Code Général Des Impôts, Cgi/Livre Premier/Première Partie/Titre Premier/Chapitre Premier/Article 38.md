@@ -31,9 +31,8 @@ b. Pour les travaux d'entreprise donnant lieu à réception complète ou partiel
 avec réserves, ou à celle de la mise à la disposition du maître de l'ouvrage si
 elle est antérieure.
 
-La livraison [*définition*] au sens du premier alinéa s'entend de la remise
-matérielle du bien lorsque le contrat de vente comporte une clause de réserve de
-propriété.
+La livraison au sens du premier alinéa s'entend de la remise matérielle du bien
+lorsque le contrat de vente comporte une clause de réserve de propriété.
 
 Ces dispositions s'appliquent à la détermination des résultats imposables des
 exercices clos à compter du 31 décembre 1978. Les produits qui, en application
@@ -55,21 +54,21 @@ fonction du dernier cours de change et pris en compte pour la détermination du
 résultat imposable de l'exercice.
 
 Lorsque des établissements de crédit ou des entreprises d'investissement
-mentionnés à l'article 38 bis A évaluent les titre libellés en monnaie étrangère
-à la clôture de chaque exercice en fonction du dernier cours de change connu,
-les écarts de conversion constatés sont pris en compte pour la détermination du
-résultat imposable de l'exercice. A la clôture de chaque exercice, le prix de
-revient des titres est augmenté ou diminué, selon les cas, des écarts de
-conversion mentionnés à ce même alinéa. Toutefois, lorsque les établissements ou
-les entreprises concernés détiennent des titres d'investissement mentionnés à
-l'article 38 bis B et des titres de participation, libellés en monnaie étrangère
-et dont l'acquisition a été financée en francs, les écarts de conversion
-mentionnés au présent alinéa et constatés sur ces titres ne sont pas pris en
-compte dans le résultat fiscal de l'exercice ; dans ce cas, sur le plan fiscal,
-le prix de revient de ces titres ne tient pas compte des écarts de conversion.
-Ces dispositions sont applicables aux écarts de change relatifs à la période
-postérieure à l'ouverture du premier exercice clos à compter du 31 décembre
-1990.
+mentionnés au premier alinéa de l'article 38 bis A évaluent les titre libellés
+en monnaie étrangère à la clôture de chaque exercice en fonction du dernier
+cours de change connu, les écarts de conversion constatés sont pris en compte
+pour la détermination du résultat imposable de l'exercice. A la clôture de
+chaque exercice, le prix de revient des titres est augmenté ou diminué, selon
+les cas, des écarts de conversion mentionnés à ce même alinéa. Toutefois,
+lorsque les établissements ou les entreprises concernés détiennent des titres
+d'investissement mentionnés à l'article 38 bis B et des titres de participation,
+libellés en monnaie étrangère et dont l'acquisition a été financée en francs,
+les écarts de conversion mentionnés au présent alinéa et constatés sur ces
+titres ne sont pas pris en compte dans le résultat fiscal de l'exercice ; dans
+ce cas, sur le plan fiscal, le prix de revient de ces titres ne tient pas compte
+des écarts de conversion. Ces dispositions sont applicables aux écarts de change
+relatifs à la période postérieure à l'ouverture du premier exercice clos à
+compter du 31 décembre 1990.
 
 Pour l'exercice clos le 31 décembre 1998 ou la période d'imposition arrêtée à la
 même date, les écarts de conversion afférents aux devises, créances, dettes et
@@ -86,17 +85,15 @@ différence entre le prix de cession et la valeur des parts au bilan de
 l'entreprise.
 
 Par dérogation aux dispositions du premier alinéa, les sommes correspondant à la
-répartition, prévue au sixième alinéa de l'article 22 de la loi n° 88-1201 du 23
-décembre 1988 relative aux organismes de placement collectif en valeurs
-mobilières et portant création des fonds communs de créances, d'une fraction des
-actifs d'un fonds commun de placement à risques qui remplit les conditions
-prévues au II de l'article 163 quinquies B, sont affectées en priorité au
-remboursement des apports. L'excédent des sommes réparties sur le montant des
-apports est compris dans le résultat imposable de l'exercice au cours duquel cet
-excédent apparaît. Il est soumis au régime fiscal des plus-values à long terme
-dans la proportion existant entre le montant des apports effectués depuis au
-moins deux ans à la date de la répartition et le montant total des apports
-effectués à cette même date.
+répartition, prévue au sixième alinéa de l'article L. 214-36 du code monétaire
+et financier d'une fraction des actifs d'un fonds commun de placement à risques
+qui remplit les conditions prévues au II de l'article 163 quinquies B, sont
+affectées en priorité au remboursement des apports. L'excédent des sommes
+réparties sur le montant des apports est compris dans le résultat imposable de
+l'exercice au cours duquel cet excédent apparaît. Il est soumis au régime fiscal
+des plus-values à long terme dans la proportion existant entre le montant des
+apports effectués depuis au moins deux ans à la date de la répartition et le
+montant total des apports effectués à cette même date.
 
 5 bis. Le profit ou la perte résultant de l'échange de titres consécutif à la
 fusion ou à la scission de sociétés d'investissement à capital variable et de
@@ -131,7 +128,7 @@ clôture de l'exercice a pour clause exclusive de compenser le risque d'une
 opération de l'un des deux exercices suivants, traitée sur un marché de nature
 différente, l'imposition du profit réalisé sur le contrat est reportée au
 dénouement de celui-ci, à condition que les opérations dont la compensation est
-envisagée figurent sur le document prévu au 3°;
+envisagée figurent sur le document prévu au 3° ;
 
 2° bis Le profit sur un contrat à terme portant sur des devises et ayant pour
 seul objet la couverture du risque de change d'une opération future est imposé
@@ -140,16 +137,16 @@ cette dernière soit identifiée dès l'origine par un acte ou un engagement pr�
 et mesurable pris à l'égard d'un tiers. Les profits concernés et l'opération
 couverte doivent être mentionnés sur un document annexé à la déclaration des
 résultats de chaque exercice et établi conformément au modèle fixé par
-l'administration.
+l'administration ;
 
 3° Lorsqu'une entreprise a pris des positions symétriques, la perte sur une de
 ces positions n'est déductible du résultat imposable que pour la partie qui
 excède les gains non encore imposés sur les positions prises en sens inverse.
 
-Pour l'application de ces dispositions, une position [*définition*] s'entend de
-la détention directe ou indirecte, de contrats à terme d'instruments financiers,
-de valeurs mobilières, de devises, de titres de créances négociables, de prêts
-ou d'emprunts ou d'un engagement portant sur ces éléments.
+Pour l'application de ces dispositions, une position s'entend de la détention,
+directe ou indirecte, de contrats à terme d'instruments financiers, de valeurs
+mobilières, de devises, de titres de créances négociables, de prêts ou
+d'emprunts ou d'un engagement portant sur ces éléments.
 
 Des positions sont qualifiées de symétriques si leurs valeurs ou leurs
 rendements subissent des variations corrélées telles que le risque de variation
@@ -293,19 +290,18 @@ de l'acquisition. Le prix s'entend de la valeur actuelle pour les obligations.
 2° La différence entre la valeur actuelle d'une obligation assortie de droits de
 souscription et sa valeur de remboursement est considérée, pour l'imposition du
 souscripteur, comme une prime de remboursement. Toutefois, pour les titres émis
-avant le 1er janvier 1993, celle-ci n'est soumise aux dispositions du paragraphe
-I de l'article 238 septies B du code général des impôts que si son montant
-excède 15 p. 100 de la valeur actuelle de l'obligation.
+avant le 1er janvier 1993, celle-ci n'est soumise aux dispositions du de
+l'article 238 septies B que si son montant excède 15 p. 100 de la valeur
+actuelle de l'obligation.
 
 3° Les sommes reçues par une entreprise lors de l'émission de droits de
 souscription ou d'acquisition de valeurs mobilières sont comprises dans ses
 résultats imposables de l'exercice de péremption de ces droits lorsqu'ils n'ont
 pas été exercés.
 
-9. 1° L'application de la méthode d'évaluation prévue à l'article 340-4 de la
-loi n° 66-537 du 24 juillet 1966 modifiée sur les sociétés commerciales n'a pas
-d'incidence sur les résultats imposables, par dérogation aux 1 et 2 du présent
-article ;
+9. 1° L'application de la méthode d'évaluation prévue à l'article L. 232-5 du
+code de commerce n'a pas d'incidence sur les résultats imposables, par
+dérogation aux 1 et 2 du présent article ;
 
 2° Toutefois, les dispositions du quatorzième alinéa du 5° du 1 de l'article 39
 sont applicables à la fraction de la provision constituée à raison de l'écart

@@ -1,9 +1,9 @@
 Article 217 quinquies
 ----
-Pour la détermination de leurs résultats fiscaux, les sociétés peuvent réduire
+Pour la détermination de leurs résultats fiscaux, les sociétés peuvent déduire
 les charges exposées du fait de la levée des options de souscription ou d'achat
-d'actions consenties à leurs salariés en application des articles 208-1 à 208-8,
-modifiés, de la loi n° 66-537 du 21 juillet 1966 sur les sociétés commerciales.
+d'actions consenties à leurs salariés en application des articles L. 225-177 à
+L. 225-184 du code de commerce.
 
 Les dispositions de l'article 39 duodecies s'appliquent aux moins-values qui
 résultent de la différence entre le prix de souscription des actions par les

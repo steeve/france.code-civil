@@ -1,11 +1,12 @@
 Article 239 quater
 ----
 I. Les groupements d'intérêt économique constitués et fonctionnant dans les
-conditions prévues par l'ordonnance n° 67-821 du 23 septembre 1967 n'entrent pas
-dans le champ d'application du 1 de l'article 206, mais chacun de leurs membres
-est personnellement passible, pour la part des bénéfices correspondant à ses
-droits dans le groupement, soit de l'impôt sur le revenu, soit de l'impôt sur
-les sociétés s'il s'agit de personnes morales relevant de cet impôt.
+conditions prévues aux articles L. 251-1 à L. 251-23 du code de commerce
+n'entrent pas dans le champ d'application du 1 de l'article 206, mais chacun de
+leurs membres est personnellement passible, pour la part des bénéfices
+correspondant à ses droits dans le groupement, soit de l'impôt sur le revenu,
+soit de l'impôt sur les sociétés s'il s'agit de personnes morales relevant de
+cet impôt.
 
 Pour l'application de cette disposition, la répartition est effectuée dans les
 conditions fixées par le contrat de groupement ou, à défaut, par fractions

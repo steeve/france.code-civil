@@ -13,7 +13,7 @@ La réévaluation est obligatoire pour les sociétés cotées en Bourse, pour le
 sociétés dans lesquelles une société cotée détient une participation entrant
 dans le champ de l'établissement de comptes consolidés, ainsi que pour les
 autres sociétés commerciales faisant publiquement appel à l'épargne au sens de
-l'article 72 ((modifié)) (M) de la loi n° 66-537 du 24 juillet 1966.
+l'article L. 224-3 du code de commerce.
 
 Les immobilisations non amortissables sont réévaluées, en fonction de l'utilité
 que leur possession présente pour l'entreprise le 31 décembre 1976, à leur coût
@@ -32,7 +32,5 @@ comptabilité fixe les conditions d'application du présent article, notamment l
 techniques de réévaluation, et la nature des obligations incombant aux
 entreprises. Il adapte les dispositions des I à III au cas des professions
 libérales (1).
-
-(M) Modification.
 
 (1) Annexe II, art. 171 quinquies à 171 quaterdecies.

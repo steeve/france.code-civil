@@ -20,11 +20,10 @@ d'instruments financiers et de marchandises, ainsi que sur les marchés d'option
 négociables soumis à l'impôt sur le revenu à un taux proportionnel.
 
 Pour l'application du premier alinéa du présent e, le gain net retiré de la
-cession d'actions acquises dans les conditions prévues aux articles 208-1 à
-208-8-2 modifiés de la loi n° 66-537 du 24 juillet 1966 sur les sociétés
-commerciales est égal à la différence entre le prix effectif de cession des
-actions net des frais et taxes acquittés par le cédant et le prix de
-souscription ou d'achat majoré, le cas échéant, des rémunérations visées au
+cession d'actions acquises dans les conditions prévues aux articles L. 225-177 à
+L. 225-186 du code de commerce est égal à la différence entre le prix effectif
+de cession des actions net des frais et taxes acquittés par le cédant et le prix
+de souscription ou d'achat majoré, le cas échéant, des rémunérations visées au
 deuxième alinéa de l'article L. 242-1 du code de la sécurité sociale ;
 
 f) De tous revenus qui entrent dans la catégorie des bénéfices industriels et

@@ -21,9 +21,9 @@ des ouvrages et des matières confiées telle qu'énoncée à l'article 56 J
 quindecies ;
 
 b. Ou une comptabilité conforme, suivant le cas, aux prescriptions des articles
-8 à 11 du code de commerce ou aux spécifications du 3° du I de l'article 286 du
-code général des impôts si les documents prévus à cet article sont accompagnés
-de fiches de stock ou d'un inventaire permanent ;
+L. 123-12 à L. 123-17 du code de commerce ou aux spécifications du 3° du I de
+l'article 286 du code général des impôts si les documents prévus à cet article
+sont accompagnés de fiches de stock ou d'un inventaire permanent ;
 
 c. Ou un registre établi au moyen d'un logiciel assurant une gestion permanente
 des stocks, par référence de produits, permettant l'identification des ouvrages
