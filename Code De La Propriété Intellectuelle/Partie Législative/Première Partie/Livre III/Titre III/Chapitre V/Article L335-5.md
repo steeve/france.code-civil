@@ -1,19 +1,15 @@
 Article L335-5
 ----
-En cas de récidive des infractions définies aux trois précédents articles, les
-peines encourues sont portées au double.
+Dans le cas de condamnation fondée sur l'une des infractions définies aux trois
+précédents articles, le tribunal peut ordonner la fermeture totale ou partielle,
+définitive ou temporaire, pour une durée au plus de cinq ans, de l'établissement
+ayant servi à commettre l'infraction.
 
-En outre, le tribunal peut ordonner, soit à titre définitif, soit à titre
-temporaire, pour une durée n'excédant pas cinq ans, la fermeture de
-l'établissement exploité par le condamné.
-
-Lorsque cette mesure de fermeture a été prononcée, le personnel doit recevoir
-une indemnité égale à son salaire, augmentée de tous les avantages en nature,
-pendant la durée de la fermeture et au plus pendant six mois.
-
-Si les conventions collectives ou particulières prévoient, après licenciement,
-une indemnité supérieure, c'est celle-ci qui sera due. Toute infraction aux
-dispositions des deux alinéas qui précèdent sera punie d'un emprisonnement d'un
-à six mois et d'une amende de 150 F à 15 000 F.
-
-En cas de récidive, les peines seront portées au double.
+La fermeture temporaire ne peut entraîner ni rupture ni suspension du contrat de
+travail, ni aucun préjudice pécuniaire à l'encontre des salariés concernés.
+Lorsque la fermeture définitive entraîne le licenciement du personnel, elle
+donne lieu, en dehors de l'indemnité de préavis et de l'indemnité de
+licenciement, aux dommages et intérêts prévus aux articles L. 122-14-4 et L.
+122-14-5 du code du travail en cas de rupture de contrat de travail. Le
+non-paiement de ces indemnités est puni de six mois d'emprisonnement et de 25
+000 F d'amende [*sanctions pénales*].

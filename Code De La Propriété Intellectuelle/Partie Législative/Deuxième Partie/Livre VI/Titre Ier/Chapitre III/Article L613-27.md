@@ -14,4 +14,4 @@ propriétaire du brevet devant l'Institut national de la propriété industriell
 afin de présenter une rédaction de la revendication modifiée selon le dispositif
 du jugement. Le directeur de l'institut a le pouvoir de rejeter la revendication
 modifiée pour défaut de conformité au jugement, sous réserve d'un recours devant
-la cour d'appel de Paris.
+l'une des cours d'appel désignée conformément à l'article L. 411-4 du code.

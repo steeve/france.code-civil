@@ -11,7 +11,9 @@ Si l'action en contrefaçon a été engagée sur la base du seul brevet françai
 demandeur peut, à la reprise de l'instance, poursuivre celle-ci en substituant
 le brevet européen au brevet français pour les faits postérieurs à la date à
 laquelle le brevet français cesse de produire ses effets et pour les parties
-communes. Si une action en contrefaçon est intentée sur la base d'un brevet
+communes.
+
+Si une action en contrefaçon est intentée sur la base à la fois d'un brevet
 français et d'un brevet européen, ni les sanctions pénales ni les réparations
 civiles ne peuvent se cumuler.
 

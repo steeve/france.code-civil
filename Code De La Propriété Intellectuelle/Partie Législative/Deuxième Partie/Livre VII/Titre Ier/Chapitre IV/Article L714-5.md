@@ -7,8 +7,10 @@ dans l'enregistrement, pendant une période ininterrompue de cinq ans.
 Est assimilé à un tel usage :
 
 a) L'usage fait avec le consentement du propriétaire de la marque ou, pour les
-marques collectives, dans les conditions du règlement ; b) L'usage de la marque
-sous une forme modifiée n'en altérant pas le caractère distinctif ;
+marques collectives, dans les conditions du règlement ;
+
+b) L'usage de la marque sous une forme modifiée n'en altérant pas le caractère
+distinctif ;
 
 c) L'apposition de la marque sur des produits ou leur conditionnement
 exclusivement en vue de l'exportation.
@@ -20,8 +22,8 @@ concernés.
 
 L'usage sérieux de la marque commencé ou repris postérieurement à la période de
 cinq ans visée au premier alinéa du présent article n'y fait pas obstacle s'il a
-été seulement entrepris trois mois après que le propriétaire a eu connaissance
-de l'éventualité de la demande de déchéance.
+été entrepris dans les trois mois précédant la demande de déchéance et après que
+le propriétaire a eu connaissance de l'éventualité de cette demande.
 
 La preuve de l'exploitation incombe au propriétaire de la marque dont la
 déchéance est demandée. Elle peut être apportée par tous moyens.

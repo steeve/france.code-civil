@@ -18,12 +18,13 @@ conciliation instituée par l'article L. 615-21 ou au tribunal de grande
 instance.
 
 2. Toutes les autres inventions appartiennent au salarié. Toutefois, lorsqu'une
-invention est faite par un salarié, soit dans le domaine des activités de
-l'entreprise, soit par la connaissance ou l'utilisation des techniques ou de
-moyens spécifiques à l'entreprise, ou de données procurées par elle, l'employeur
-a le droit, dans des conditions et délais fixés par décret en Conseil d'Etat, de
-se faire attribuer la propriété ou la jouissance de tout ou partie des droits
-attachés au brevet protégeant l'invention de son salarié.
+invention est faite par un salarié soit dans le cours de l'exécution de ses
+fonctions, soit dans le domaine des activités de l'entreprise, soit par la
+connaissance ou l'utilisation des techniques ou de moyens spécifiques à
+l'entreprise, ou de données procurées par elle, l'employeur a le droit, dans des
+conditions et délais fixés par décret en Conseil d'Etat, de se faire attribuer
+la propriété ou la jouissance de tout ou partie des droits attachés au brevet
+protégeant l'invention de son salarié.
 
 Le salarié doit en obtenir un juste prix qui, à défaut d'accord entre les
 parties, est fixé par la commission de conciliation instituée par l'article L.

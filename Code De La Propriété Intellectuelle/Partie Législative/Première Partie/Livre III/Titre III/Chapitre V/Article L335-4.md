@@ -1,12 +1,12 @@
 Article L335-4
 ----
-Est punie d'un emprisonnement de trois mois à deux ans et d'une amende de 6 000
-F à 120 000 F ou de l'une de ces deux peines seulement toute fixation,
-reproduction, communication ou mise à disposition du public, à titre onéreux ou
-gratuit, ou toute télédiffusion d'une prestation, d'un phonogramme, d'un
-vidéogramme ou d'un programme, réalisée sans l'autorisation, lorsqu'elle est
-exigée, de l'artiste-interprète, du producteur de phonogrammes ou de
-vidéogrammes ou de l'entreprise de communication audiovisuelle.
+Est punie de deux ans d'emprisonnement et de 1 000 000 F d'amende [*sanctions
+pénales*] toute fixation, reproduction, communication ou mise à disposition du
+public, à titre onéreux ou gratuit, ou toute télédiffusion d'une prestation,
+d'un phonogramme, d'un vidéogramme ou d'un programme, réalisée sans
+l'autorisation, lorsqu'elle est exigée, de l'artiste-interprète, du producteur
+de phonogrammes ou de vidéogrammes ou de l'entreprise de communication
+audiovisuelle.
 
 Est punie des mêmes peines toute importation ou exportation de phonogrammes ou
 de vidéogrammes réalisée sans l'autorisation du producteur ou de

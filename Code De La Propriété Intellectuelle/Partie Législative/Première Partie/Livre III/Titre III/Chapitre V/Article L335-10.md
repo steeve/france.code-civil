@@ -1,12 +1,12 @@
-Article L716-8
+Article L335-10
 ----
-L'administration des douanes peut, sur demande écrite du propriétaire d'une
-marque enregistrée ou du bénéficiaire d'un droit exclusif d'exploitation,
-retenir dans le cadre de ses contrôles les marchandises qu'il prétend présentées
-sous une marque constituant la contrefaçon de celle dont il a obtenu
-l'enregistrement ou sur laquelle il bénéficie d'un droit d'usage exclusif.
+L'administration des douanes peut, sur demande écrite du titulaire d'un droit
+d'auteur ou d'un droit voisin, assortie de justifications de son droit dans les
+conditions prévues par décret en Conseil d'Etat, retenir dans le cadre de ses
+contrôles les marchandises que celui-ci prétend constituer une contrefaçon de ce
+droit.
 
-Le procureur de la République, le demandeur ainsi que le déclarant ou le
+Le procureur de la République, le demandeur, ainsi que le déclarant ou le
 détenteur des marchandises sont informés sans délai, par les services douaniers,
 de la retenue à laquelle ces derniers ont procédé.
 
@@ -14,8 +14,7 @@ La mesure de retenue est levée de plein droit à défaut pour le demandeur, dan
 le délai de dix jours ouvrables à compter de la notification de la retenue des
 marchandises, de justifier auprès des services douaniers :
 
-- soit de mesures conservatoires décidées par le président du tribunal de grande
-instance ;
+- soit des mesures conservatoires prévues par l'article L. 332-1 ;
 
 - soit de s'être pourvu par la voie civile ou la voie correctionnelle et d'avoir
 constitué les garanties requises pour couvrir sa responsabilité éventuelle au
@@ -23,7 +22,7 @@ cas où la contrefaçon ne serait pas ultérieurement reconnue.
 
 Aux fins de l'engagement des actions en justice visées à l'alinéa précédent, le
 demandeur peut obtenir de l'administration des douanes communication des noms et
-adresses de l'expéditeur, de l'importateur, du destinataire des marchandises
-retenues ou de leur détenteur, ainsi que de leur quantité, nonobstant les
-dispositions de l'article 59 bis du code des douanes relatif au secret
+adresses de l'expéditeur, de l'importateur et du destinataire des marchandises
+retenues, ou de leur détenteur, ainsi que de leur quantité, nonobstant les
+dispositions de l'article 59 bis du code des douanes, relatif au secret
 professionnel auquel sont tenus les agents de l'administration des douanes.

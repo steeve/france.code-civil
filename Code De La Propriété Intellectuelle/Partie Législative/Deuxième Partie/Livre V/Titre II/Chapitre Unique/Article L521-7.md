@@ -1,12 +1,10 @@
-Article L716-8
+Article L521-7
 ----
-L'administration des douanes peut, sur demande écrite du propriétaire d'une
-marque enregistrée ou du bénéficiaire d'un droit exclusif d'exploitation,
-retenir dans le cadre de ses contrôles les marchandises qu'il prétend présentées
-sous une marque constituant la contrefaçon de celle dont il a obtenu
-l'enregistrement ou sur laquelle il bénéficie d'un droit d'usage exclusif.
+L'administration des douanes peut, sur demande écrite du propriétaire d'un
+dessin ou modèle déposé, retenir dans le cadre de ses contrôles les marchandises
+que celui-ci prétend constituer une contrefaçon desdits dessins ou modèles.
 
-Le procureur de la République, le demandeur ainsi que le déclarant ou le
+Le procureur de la République, le demandeur, ainsi que le déclarant ou le
 détenteur des marchandises sont informés sans délai, par les services douaniers,
 de la retenue à laquelle ces derniers ont procédé.
 
@@ -24,6 +22,6 @@ cas où la contrefaçon ne serait pas ultérieurement reconnue.
 Aux fins de l'engagement des actions en justice visées à l'alinéa précédent, le
 demandeur peut obtenir de l'administration des douanes communication des noms et
 adresses de l'expéditeur, de l'importateur, du destinataire des marchandises
-retenues ou de leur détenteur, ainsi que de leur quantité, nonobstant les
-dispositions de l'article 59 bis du code des douanes relatif au secret
+retenues ou de leur détenteur ainsi que de leur quantité, nonobstant les
+dispositions de l'article 59 bis du code des douanes, relatif au secret
 professionnel auquel sont tenus les agents de l'administration des douanes.

@@ -22,8 +22,11 @@ dispositions de l'article L. 612-14 ;
 7° Qui n'a pas été modifiée, après mise en demeure, alors que l'absence de
 nouveauté résultait manifestement du rapport de recherche ;
 
-8° Dont les revendications ne se fondent pas sur la description ; 9° Lorsque le
-demandeur n'a pas satisfait à l'obligation prévue au 1° de l'article L. 612-14.
+8° Dont les revendications ne se fondent pas sur la description ;
+
+9° Lorsque le demandeur n'a pas, s'il y a lieu, présenté d'observations ni
+déposé de nouvelles revendications au cours de la procédure d'établissement du
+rapport de recherche prévu à l'article L. 612-14.
 
 Si les motifs de rejet n'affectent la demande de brevet qu'en partie, seules les
 revendications correspondantes sont rejetées.
