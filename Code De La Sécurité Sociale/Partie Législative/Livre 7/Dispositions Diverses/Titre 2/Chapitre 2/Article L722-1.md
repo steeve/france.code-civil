@@ -12,9 +12,9 @@ L. 162-14 ;
 
 3°) aux chirurgiens-dentistes, sages-femmes et auxiliaires médicaux qui exercent
 leur activité professionnelle, non-salariée, dans le cadre de la convention
-conclue en application des articles L. 162-9 et L. 162-12-2 ou, en l'absence
-d'une telle convention, dans le cadre du régime de l'adhésion personnelle prévue
-au dernier alinéa de l'article L. 162-11.
+conclue en application des articles L. 162-9, L. 162-12-2 ou L. 162-12-9 ou, en
+l'absence d'une telle convention, dans le cadre du régime de l'adhésion
+personnelle prévue au dernier alinéa de l'article L. 162-11.
 
 4° Aux étudiants en médecine visés au premier alinéa de l'article L. 359 du code
 de la santé publique qui effectuent le remplacement d'un docteur en médecine

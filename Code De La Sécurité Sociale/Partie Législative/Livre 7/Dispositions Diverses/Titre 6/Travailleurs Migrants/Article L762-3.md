@@ -38,3 +38,9 @@ française et relevant d'entreprises mandataires de leurs salariés.
 La part de cotisation prise en charge par l'employeur ne peut dans tous les cas
 être inférieure à une fraction, fixée par décret, du montant total de la
 cotisation.
+
+La Caisse des Français de l'étranger peut accorder, selon des modalités fixées
+par décret, des ristournes sur le taux des cotisations mentionnées au 2°, tenant
+compte des accidents du travail reconnus dont ont été victimes les salariés
+d'entreprises mandataires d'un nombre minimum d'adhérents, dans la mesure où
+l'équilibre financier du risque est respecté.

@@ -10,7 +10,11 @@ pharmaceutiques régis par la présente section.
 Toute entreprise qui comporte au moins un établissement pharmaceutique doit être
 la propriété d'un pharmacien ou d'une société à la gérance ou à la direction
 générale de laquelle participe un pharmacien, dans des conditions fixées par
-décret en Conseil d'Etat.
+décret en Conseil d'Etat. Elle peut être, en tout ou partie, concédée en
+location-gérance à une société. Cette société doit être la propriété d'un
+pharmacien ou comporter la participation d'un pharmacien à sa direction générale
+ou à sa gérance. Les modalités d'exercice de la location-gérance sont
+déterminées par décret en Conseil d'Etat.
 
 Les pharmaciens mentionnés à l'alinéa précédent sont dénommés pharmaciens
 responsables. Ils sont personnellement responsables du respect des dispositions

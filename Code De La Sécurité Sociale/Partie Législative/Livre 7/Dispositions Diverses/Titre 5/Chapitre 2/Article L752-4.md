@@ -27,3 +27,7 @@ professionnelles ;
 faveur de l'ensemble des salariés et, dans les conditions prévues par l'article
 1106-22 du code rural, d'exercer une action sanitaire et sociale en faveur des
 exploitants agricoles.
+
+6° D'exercer les fonctions dévolues en métropole aux organismes chargés du
+recouvrement des cotisations du régime général et de la mutualité sociale
+agricole.
