@@ -1,12 +1,19 @@
 Article R714-17-19
 ----
-Le dépouillement des bulletins est effectué par le bureau de vote et, le cas
-échéant, les sections de vote dès la clôture du scrutin.
+Dans le cas où le taux de participation, calculé à partir de l'émargement des
+listes électorales auquel il a été procédé dans l'ensemble des lieux de vote,
+conformément aux dispositions du premier alinéa de l'article R. 714-17-18, est
+inférieur au taux fixé en application de l'article L. 6144-5, il n'est pas
+procédé au dépouillement du scrutin, ni par le bureau de vote, ni, le cas
+échéant, par les sections de vote qui lui sont rattachées.
+
+Dans le cas contraire, le dépouillement des bulletins est effectué par le bureau
+de vote et, le cas échéant, les sections de vote dès la clôture du scrutin.
 
 Les votes par correspondance sont dépouillés par le bureau de vote ou, le cas
 échéant, par les sections de vote, en même temps et dans les mêmes conditions
-que les votes sur place après qu'il a été procédé au recensement dans les
-conditions fixées à l'article R. 714-17-20.
+que les votes sur place après qu'il a été procédé à leur recensement dans les
+conditions fixées aux alinéas suivants.
 
 Pour le recensement des votes par correspondance, la liste électorale est
 émargée par un membre du bureau au fur et à mesure de l'ouverture des enveloppes

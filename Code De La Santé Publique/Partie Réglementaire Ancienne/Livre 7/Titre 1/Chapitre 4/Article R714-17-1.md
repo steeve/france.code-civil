@@ -53,12 +53,14 @@ composant le collège des agents des catégorie C et D.
 Pour l'application de ces dispositions, l'effectif à prendre en considération
 est celui de l'ensemble des fonctionnaires titulaires et stagiaires et des
 agents contractuels mentionnés au premier alinéa de l'article 1er du décret du 6
-février 1991 susvisé, à l'exception des personnels mentionnés au dernier alinéa
-de l'article 2 du titre IV du statut général des fonctionnaires susvisé. Cet
-effectif est apprécié au 31 décembre de l'année qui précède celle au cours de
-laquelle le comité est constitué ou renouvelé.
+février 1991 susvisé, ainsi que les contractuels de droit public n'occupant pas
+un emploi permanent et les contractuels de droit privé, à l'exception des
+personnels mentionnés au dernier alinéa de l'article 2 du titre IV du statut
+général des fonctionnaires susvisé. Cet effectif est apprécié au 31 décembre de
+l'année qui précède celle au cours de laquelle le comité est constitué ou
+renouvelé.
 
-La durée du mandat des représentants du personnel est fixée à trois ans. Ce
+La durée du mandat des représentants du personnel est fixée à quatre ans. Ce
 mandat est renouvelable.
 
 La durée du mandat peut être exceptionnellement réduite ou prorogée, dans un

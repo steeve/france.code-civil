@@ -6,5 +6,5 @@ d'électeur est appréciée à la date du scrutin. Dans le cas prévu à l'artic
 vote.
 
 La liste électorale est affichée dans l'établissement et, s'il y a lieu, dans
-les établissements annexes, trente-cinq jours francs au moins avant la date
-fixée pour le scrutin.
+les établissements annexes, soixante jours au moins avant la date fixée pour le
+scrutin.

@@ -16,4 +16,5 @@ Un exemplaire du procès-verbal est adressé à chaque délégué de liste ainsi
 préfet du département et au directeur de l'agence régionale de
 l'hospitalisation.
 
-La publicité des résultats du scrutin est assurée par l'établissement.
+Les résultats du scrutin sont publiés par voie d'affichage sans délai par le
+directeur de l'établissement.

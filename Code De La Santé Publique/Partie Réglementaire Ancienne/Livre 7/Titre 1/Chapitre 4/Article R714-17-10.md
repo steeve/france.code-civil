@@ -1,8 +1,8 @@
 Article R714-17-10
 ----
 Sont éligibles au titre d'un collège déterminé les personnels inscrits sur la
-liste électorale de ce collège et qui sont en fonctions depuis au moins trois
-mois dans l'établissement.
+liste électorale de ce collège et qui, à la date du scrutin, sont en fonctions
+depuis au moins trois mois dans l'établissement.
 
 Toutefois, ne peuvent être élus les personnels en congé de longue durée, ni ceux
 qui ont été frappés d'une rétrogradation ou d'une exclusion temporaire de
