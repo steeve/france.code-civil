@@ -45,10 +45,11 @@ administrateurs, ses dirigeants salariés et leurs conjoints, ascendants et
 descendants. Le président du conseil d'administration communique ces contrats
 aux commissaires aux comptes en indiquant ceux qui ont été souscrits à des
 conditions préférentielles par rapport à celles pratiquées pour les autres
-sociétaires. Pour l'établissement de leur rapport, les commissaires aux comptes
-analysent les caractéristiques des contrats souscrits, notamment, pour
-l'assurance vie, les sommes versées par la société dans l'année par bénéficiaire
-ainsi que les conditions de rémunération obtenues par lui.
+sociétaires. Pour l'établissement de leur rapport qui doit notamment préciser
+ces conditions préférentielles, les commissaires aux comptes analysent les
+caractéristiques des contrats souscrits, notamment, pour l'assurance vie, les
+sommes versées par la société dans l'année par bénéficiaire ainsi que les
+conditions de rémunération obtenues par lui.
 
 V. - Les conventions autorisées par le conseil d'administration, qu'elles aient
 été ou non approuvées par l'assemblée générale, produisent leurs effets à

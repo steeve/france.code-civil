@@ -1,23 +1,21 @@
 Article R322-54-1
 ----
-I. - Une même personne ne peut appartenir simultanément à plus de cinq conseils
-d'administration de sociétés d'assurance mutuelles, d'unions de sociétés
-d'assurance mutuelles, de sociétés de réassurance mutuelle et de sociétés de
-groupe d'assurance mutuelle.
+I. - Un administrateur de société d'assurance mutuelle, d'union de sociétés
+d'assurance mutuelles, de société de réassurance mutuelle ou de société de
+groupe d'assurance mutuelle ne peut appartenir simultanément à plus de cinq
+conseils d'administration de sociétés d'assurance mutuelles, d'unions de
+sociétés d'assurance mutuelles, de sociétés de réassurance mutuelles, de
+sociétés de groupe d'assurance mutuelles ou de sociétés anonymes ayant leur
+siège sur le territoire français.
 
-II. - Le président du conseil d'administration ne peut exercer simultanément, en
-plus de son mandat de président, que quatre mandats d'administrateur, dont au
-plus deux mandats de président du conseil d'administration d'une société
-d'assurance mutuelle, d'une union, d'une société de réassurance mutuelle ou
-d'une société de groupe d'assurance mutuelle.
+II. - Dans le décompte des mandats mentionnés au I ne sont pris en compte que
+pour un seul mandat ceux détenus dans des sociétés faisant partie d'un ensemble
+soumis à l'obligation d'établir des comptes consolidés ou combinés dans les
+conditions prévues à l'article L. 345-2.
 
-III. - Dans le décompte des mandats mentionnés aux I et II ne sont pris en
-compte que pour un seul ceux détenus dans les sociétés appartenant à un même
-groupe d'assurance tel que défini au 6° de l'article L. 334-2 du présent code.
-
-IV. - Toute personne qui, lorsqu'elle accède à un nouveau mandat, se trouve en
-infraction avec les dispositions des I et II doit, dans les trois mois de sa
-nomination, se démettre de l'un de ses mandats. A défaut de démission expresse à
-l'expiration de ce délai, elle est réputée s'être démise de son mandat le plus
-récent, sans que soit, de ce fait, remise en cause la validité des délibérations
-auxquelles elle a pris part.
+III. - Toute personne qui se trouve en infraction avec les dispositions du
+présent article doit, dans les trois mois suivant sa nomination, se démettre de
+l'un de ses mandats. A l'expiration de ce délai et à défaut de démission
+expresse, elle est réputée s'être démise de son mandat le plus récent et doit
+restituer les indemnités perçues sans que soit, de ce fait, remise en cause la
+validité des délibérations auxquelles elle a pris part.
