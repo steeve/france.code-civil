@@ -1,0 +1,13 @@
+Article L461-2
+----
+Le bail à ferme d'un fonds rural soumis aux dispositions du présent chapitre est
+constaté par écrit ; à défaut d'écrit, le bail est censé fait aux clauses et
+conditions du contrat type établi, pour le département ou pour la région
+agricole du département dans laquelle se trouve le fonds, par une commission
+consultative départementale des baux ruraux.
+
+Un arrêté du commissaire de la République du département pris après avis de
+ladite commission fixe, en tenant compte des besoins locaux, la nature et la
+superficie maximum des parcelles de terres ne constituant pas un corps de ferme
+ou des parties essentielles d'une exploitation agricole qui ne sont pas soumises
+aux dispositions du présent chapitre.
