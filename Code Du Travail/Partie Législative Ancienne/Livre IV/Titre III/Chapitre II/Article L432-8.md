@@ -1,13 +1,13 @@
 Article L432-8
 ----
-La contribution versée chaque année par l'employeur pour financer des
-institutions sociales du comité d'entreprise ne peut, en aucun cas, être
-inférieure au total le plus élevé des sommes affectées aux dépenses sociales de
-l'entreprise atteint au cours des trois dernières années précédant la prise en
-charge des activités sociales et culturelles par le comité d'entreprise, à
-l'exclusion des dépenses temporaires lorsque les besoins correspondants ont
-disparu.
+Le comité d'entreprise assure ou contrôle la gestion de toutes les activités
+sociales et culturelles établies dans l'entreprise au bénéfice des salariés ou
+de leurs familles ou participe à cette gestion, quel qu'en soit le mode de
+financement, dans les conditions fixées par décret en Conseil d'Etat.
 
-Le rapport de cette contribution au montant global des salaires payés ne peut
-plus non plus être inférieur au même rapport existant pour l'année de référence
-définie à l'alinéa précédent.
+Ce décret détermine notamment les conditions dans lesquelles les pouvoirs du
+comité d'entreprise peuvent être délégués à des organismes créés par lui et
+soumis à son contrôle ainsi que les règles d'octroi et d'étendue de la
+personnalité civile des comités d'entreprise et des organismes créés par eux. Il
+fixe en outre les conditions de financement des activités sociales et
+culturelles.
