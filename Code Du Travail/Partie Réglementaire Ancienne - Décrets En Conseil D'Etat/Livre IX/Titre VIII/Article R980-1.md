@@ -15,7 +15,8 @@ délégués du personnel lorsque l'entreprise ne relève pas d'un accord-cadre ;
 susceptibles de bénéficier de contrats de qualification et de la durée de
 ceux-ci ;
 
-4° La définition des emplois offerts aux jeunes ;
+4° La définition des emplois offerts aux jeunes ou, pour les entreprises de
+travail temporaire, des missions définies à l'article L. 124-2 du présent code.
 
 5° La mention des qualifications professionnelles des tuteurs chargés
 d'accueillir et de guider les jeunes pendant leur temps de présence en
@@ -24,5 +25,6 @@ entreprise ; le nombre de jeunes confiés à un même tuteur ne peut excéder qu
 
 6° Le cas échéant, les références de l'entreprise en matière de formation
 professionnelle et, s'il y a lieu, la liste des titres ou diplômes homologués ou
-reconnus par une convention collective auxquels préparent les formations en
-alternance.
+reconnus par une convention collective ou figurant sur une liste établie par la
+Commission paritaire nationale de l'emploi de la branche professionnelle
+auxquels préparent les formations en alternance.

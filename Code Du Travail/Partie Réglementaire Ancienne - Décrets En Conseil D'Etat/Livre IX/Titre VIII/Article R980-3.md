@@ -16,7 +16,11 @@ L'habilitation peut être retirée par décision motivée du commissaire de la
 République prise après avis du comité départemental de la formation
 professionnelle, de la promotion sociale et de l'emploi en cas de méconnaissance
 des dispositions des articles L. 980-1 à L. 980-5 ou des engagements pris en la
-matière par l'employeur.
+matière par l'employeur. En outre, l'habilitation accordée à une entreprise de
+travail temporaire peut être retirée [*retrait*] dans les mêmes conditions
+lorsque le choix des missions ne permet pas le bon déroulement du contrat de
+qualification ou que les conditions de travail, d'hygiène et de sécurité ne sont
+pas satisfaisantes.
 
 Si une entreprise habilitée désire conclure des contrats de qualification
 comportant des formations en alternance autres que celles qui font l'objet de
