@@ -1,12 +1,11 @@
 Article R111-1
 ----
 La liste des personnes assujetties à l'impôt sur le revenu établie en
-application de l'article L. 111, comprend les impositions mises en recouvrement
-au 30 avril de l'année suivant celle de la production des déclarations de
-revenus [*période*].
+application du I de l'article L. 111, comprend les impositions mises en
+recouvrement au 30 avril de l'année suivant celle de la production des
+déclarations de revenus.
 
-Elle comporte, pour chaque contribuable, les indications suivantes [*mentions*]
-:
+Elle comporte, pour chaque contribuable, les indications suivantes :
 
 a) Ses nom, prénoms et adresse ;
 
