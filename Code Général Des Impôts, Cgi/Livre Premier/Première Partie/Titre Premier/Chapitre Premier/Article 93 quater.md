@@ -27,9 +27,9 @@ L'application de cette disposition est subordonnée à la condition que l'apport
 soit réalisé dans le délai de dix ans à compter de la publication du décret en
 Conseil d'Etat propre à la profession considérée.
 
-Les dispositions du premier alinéa cessent de s'appliquer aux plus-values
-constatées à l'occasion d'apports en sociétés réalisés à compter du 1er avril
-1981 [*date*].
+Les dispositions du premier alinéa ne s'appliquent pas aux plus-values
+constatées à l'occasion d'apports en sociétés visés aux I et II de l'article 151
+octies.
 
 III. Pour l'application des dispositions du premier alinéa du I, les contrats de
 crédit-bail conclus dans les conditions prévues aux 1° et 2° de l'article 1er de
