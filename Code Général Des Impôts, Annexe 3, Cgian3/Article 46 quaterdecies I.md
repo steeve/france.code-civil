@@ -7,9 +7,11 @@ général des impôts.
 
 Les sociétés bénéficiaires des apports ou les intermédiaires agréés qui ont reçu
 des souscriptions au titre desquelles le souscripteur a déclaré se placer sous
-le régime de déduction prévu par le II de l'article 238 bis HA du code général
-des impôts et l'article 199 undecies du même code ne prennent pas en compte ces
-opérations pour le calcul du solde annuel des acquisitions et des cessions à
-faire figurer sur les états qu'ils délivrent pour l'application du régime de
-détaxation du revenu investi en actions en vertu de l'article 163 sexies du code
-précité.
+le régime de déduction prévu par le II ((ou le II bis de l'article 238 bis HA du
+code général des impôts)) (1) et l'article 199 undecies du même code ne prennent
+pas en compte ces opérations pour le calcul du solde annuel des acquisitions et
+des cessions à faire figurer sur les états qu'ils délivrent pour l'application
+du régime de détaxation du revenu investi en actions en vertu de l'article 163
+sexies du code précité.
+
+(1) Modification du décret.
