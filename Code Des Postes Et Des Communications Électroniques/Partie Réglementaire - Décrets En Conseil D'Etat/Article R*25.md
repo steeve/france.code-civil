@@ -18,8 +18,8 @@ communes.
 Après achèvement de l'enquête visée au premier alinéa du présent article, le
 plan des servitudes qui en résulte est approuvé par décret pris sous le
 contreseing du ministre dont les services exploitent le centre ou exercent la
-tutelle sur lui, sur avis du comité de coordination des télécommunications ainsi
-que sous le contreseing du ministre de la construction.
+tutelle sur lui, sur avis de l'Agence nationale des fréquences ainsi que sous le
+contreseing du ministre de la construction.
 
 L'accord préalable du ministre du développement industriel et scientifique et du
 ministre de l'agriculture est requis dans tous les cas. Si l'accord entre les

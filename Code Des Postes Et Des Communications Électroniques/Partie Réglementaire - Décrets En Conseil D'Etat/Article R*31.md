@@ -24,11 +24,11 @@ considèrent comme susceptibles de produire des troubles.
 
 Après achèvement de l'enquête, le plan des servitudes qui en résulte est
 approuvé par décret pris sous le contreseing du ministre intéressé et du
-ministre du développement industriel et scientifique, sur avis du comité de
-coordination des télécommunications.
+ministre du développement industriel et scientifique, sur avis de l'Agence
+nationale des fréquences.
 
-En cas d'avis défavorable de ce comité, il est statué par décret en Conseil
-d'Etat.
+En cas d'avis défavorable de ce comité [*caduc*], il est statué par décret en
+Conseil d'Etat.
 
 Les servitudes portées au plan sont instituées à dater du jour de la publication
 du décret. Elles sont modifiées suivant la procédure prévue aux alinéas

@@ -5,5 +5,5 @@ action concertée des ministres des armées, des postes et télécommunications,
 travaux publics et des transports, de l'intérieur, de l'information, de
 l'industrie, de la construction et de l'agriculture.
 
-Les modalités de cette action sont établies par le comité de coordination des
-télécommunications.
+Les modalités de cette action sont établies par l'Agence nationale des
+fréquences.
