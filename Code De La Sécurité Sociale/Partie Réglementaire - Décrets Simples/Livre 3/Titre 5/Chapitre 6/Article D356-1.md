@@ -12,9 +12,7 @@ b. de l'allocation de logement instituée par l'article L. 831-1 ;
 c. de l'allocation compensatrice prévue par l'article 39 de la loi n° 75-534 du
 30 juin 1975 ;
 
-d. du revenu familial institué par l'article L. 562-1 ;
-
-e. de l'aide personnalisée au logement instituée par les articles L. 351-1 et
+d. de l'aide personnalisée au logement instituée par les articles L. 351-1 et
 suivants du code de la construction et de l'habitation ;
 
 2°) les capitaux décès autres que ceux qui sont mentionnés au a du 1° ci-dessus
