@@ -5,8 +5,9 @@ parlementaires et de représentants élus des régions, des départements, des
 communes et de leurs groupements, ainsi que de représentants des administrations
 de l'Etat.
 
-Le comité comprend :[*composition*] Deux députés élus par l'Assemblée nationale
-;
+Le comité comprend :
+
+Deux députés élus par l'Assemblée nationale ;
 
 Deux sénateurs élus par le Sénat ;
 
@@ -16,10 +17,11 @@ conseils régionaux ;
 Quatre présidents de conseils généraux élus par le collège des présidents de
 conseils généraux ;
 
-Quatre présidents de groupements de communes élus par le collège des présidents
-de groupements de communes à raison d'un au moins pour les communautés urbaines,
-d'un autre pour les districts, d'un autre pour les syndicats et d'un autre pour
-les organismes institués en vue de la création d'une agglomération nouvelle ;
+Six présidents de groupements de communes élus par le collège des présidents de
+groupements de communes à raison d'un pour les communautés urbaines, d'un pour
+les communautés de villes, d'un pour les communautés de communes, d'un autre
+pour les districts, d'un autre pour les syndicats et d'un autre pour les
+organismes institués en vue de la création d'une agglomération nouvelle ;
 
 Quinze maires élus par le collège des maires de France, dont un au moins pour
 les départements d'outre-mer, un pour les territoires d'outre-mer, un pour les
