@@ -18,5 +18,6 @@ municipal, si celui-ci considère que l'intérêt de la commune le justifie, dè
 lors qu'elles ne portent pas atteinte à la sauvegarde des espaces naturels et
 des paysages, à la salubrité et à la sécurité publique, qu'elles n'entraînent
 pas un surcroît important de dépenses publiques et que le projet n'est pas
-contraire aux objectifs visés à l'article L. 110 et aux lois d'aménagement et
-d'urbanisme mentionnées à l'article L. 111-1-1.
+contraire aux objectifs visés à l'article L. 110 et aux dispositions des
+chapitres V et VI du titre IV du livre Ier ou aux directives territoriales
+d'aménagement précisant leur modalités d'application.

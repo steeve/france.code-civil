@@ -1,21 +1,17 @@
 Article L234-21-1
 ----
-Pour 1986, et à défaut de nouvelles dispositions pour 1987 la dotation globale
-de fonctionnement revenant à chaque commune et à chaque groupement comprend,
-sans préjudice de l'application de l'article L. 234-15, deux fractions :
+Le comité des finances locales a pour mission de fournir au Gouvernement et au
+Parlement les analyses nécessaires à l'élaboration des dispositions du projet de
+loi de finances intéressant les collectivités locales.
 
-a) 80 p. 100 des sommes reçues en 1985 au titre de la dotation globale de
-fonctionnement, à l'exception des dotations mentionnées à l'article L. 234-13 et
-à l'article L. 234-15.
+Il établit chaque année sur la base des comptes administratif un rapport sur la
+situation financière des collectivités locales.
 
-b) Le solde, par application des dispositions des articles L. 234-2 à L. 234-11
-et L. 234-14.
+Dans un cadre pluriannuel, il a la charge de la réalisation d'études sur les
+facteurs d'évolution de la dépense locale. Les résultats de ces études font
+l'objet d'un rapport au Gouvernement.
 
-Pour les années ultérieures, le pourcentage mentionné au a ci-dessus est diminué
-de vingt points par an.
-
-Pendant cette période transitoire, la garantie d'évolution prévue par l'article
-L. 234-19-1 s'applique au montant total des deux fractions de la dotation
-globale mentionnée ci-dessus, après déduction, dans chacune de ces deux
-fractions, des sommes correspondant aux concours particuliers prévus aux
-articles L. 234-13 et L. 234-14.
+Les missions mentionnées au présent article peuvent être exercées par une
+formation spécialisée du comité, dénommée observatoire des finances locales et
+comportant des représentants de toutes ses composantes. Les membres de
+l'observatoire des finances locales sont désignés par le président du comité.

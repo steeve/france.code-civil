@@ -17,10 +17,11 @@ départements, ainsi que des régions pour les ensembles de communes qui dépass
 100000 habitants. Dans les régions de Guadeloupe, de Guyane, de Martinique et de
 la Réunion, le conseil régional et le conseil général sont consultés, quel que
 soit le nombre d'habitants de l'ensemble des communes regroupées dans le
-périmètre du schéma directeur ou du schéma de secteur. Les communes confient
-dans le périmètre mentionné au troisième alinéa du présent article et dans les
-mêmes conditions de majorité leurs compétences en matière de schéma directeur ou
-de schéma de secteur :
+périmètre du schéma directeur ou du schéma de secteur.
+
+Les communes confient dans le périmètre mentionné au troisième alinéa du présent
+article et dans les mêmes conditions de majorité leurs compétences en matière de
+schéma directeur ou de schéma de secteur :
 
 - soit à un établissement public de coopération intercommunale ;
 
@@ -39,6 +40,8 @@ peut recueillir l'avis de tout organisme ou association ayant compétence en
 matière de construction, d'aménagement, d'urbanisme ou d'environnement.
 
 Le représentant de l'Etat porte à la connaissance de l'établissement public les
+diectives territoriales d'aménagement prévues par l'article L. 111-1-1 ou, en
+l'absence de celles-ci, les lois d'aménagement et d'urbanisme ainsi que les
 dispositions nécessaires à la mise en oeuvre des projets d'intérêt général de
 l'Etat, de la région, du département ou d'autres intervenants lorsqu'ils
 correspondent aux définitions prises en application de l'article L. 121-12 et

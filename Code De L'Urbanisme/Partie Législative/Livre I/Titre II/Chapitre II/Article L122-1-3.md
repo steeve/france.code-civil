@@ -16,7 +16,8 @@ de l'Etat, sauf si dans ce délai :
 
 a) Le représentant de l'Etat a notifié des modifications qu'il estime nécessaire
 d'apporter au schéma lorsque les dispositions de celui-ci ne sont pas
-compatibles avec les prescriptions prises en application de l'article L.
+compatibles avec les directives territoriales d'aménagement et, en l'absence de
+celles-ci, avec les lois d'aménagement et d'urbanisme mentionnées à l'article L.
 111-1-1, ou compromettent gravement la mise en oeuvre de projets d'intérêt
 général relevant de l'Etat, de la région, du département ou d'autres
 intervenants et correspondant aux définitions formulées en application de
@@ -31,9 +32,7 @@ secteur devient exécutoire, tel que résultant, d'une part, de la délibératio
 l'organe de l'établissement public de coopération intercommunale approuvant le
 schéma directeur ou le schéma de secteur et, d'autre part, des modifications
 demandées par le représentant de l'Etat en application des dispositions de
-l'alinéa précédent du présent
-
-article ;
+l'alinéa précédent du présent article ;
 
 b) Le représentant de l'Etat ou le collège des élus constitué au sein de la
 commission de conciliation a notifié les modifications demandées par une commune
@@ -54,10 +53,12 @@ quinze jours à l'établissement public les modifications qu'il convient
 d'apporter au schéma directeur ou au schéma de secteur pour tenir compte de la
 délibération du conseil municipal. Le représentant de l'Etat est tenu de motiver
 les modifications qu'il demande. Si l'établissement public n'a pas approuvé dans
-un délai de six mois les modifications demandées et après une délibération du
-conseil municipal de la commune concernée demandant le retrait, le représentant
-de l'Etat, par dérogation à l'article L. 163-16 du code des communes, constate
-le retrait de la commune de l'établissement public et du périmètre défini à
+un délai de
+
+six mois les modifications demandées et après une délibération du conseil
+municipal de la commune concernée, demandant le retrait, le représentant de
+l'Etat, par dérogation à l'article L. 163-16 du code des communes, constate le
+retrait de la commune de l'établissement public et du périmètre défini à
 l'article L. 122-1-1 du présent code.
 
 Si le représentant de l'Etat n'a pas notifié dans le délai prévu à l'alinéa

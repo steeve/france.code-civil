@@ -2,7 +2,8 @@ Article L122-1-4
 ----
 Lorsque l'élaboration ou la modification d'un schéma directeur ou d'un schéma de
 secteur par un établissement public de coopération intercommunale est rendue
-nécessaire pour l'application locale des prescriptions prises en application de
+nécessaire pour l'application locale des directives territoriales d'aménagement
+et, en leur absence, des lois d'aménagement et d'urbanisme mentionnées à
 l'article L. 111-1-1 ou pour la réalisation d'un projet d'intérêt général
 relevant de l'Etat, de la région, du département ou d'autres intervenants et
 correspondant aux définitions prises en application de l'article L. 121-12, elle

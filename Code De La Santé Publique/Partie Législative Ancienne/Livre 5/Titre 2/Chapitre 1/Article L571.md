@@ -13,12 +13,10 @@ Dans les communes d'une population inférieure à 5.000 habitants, il ne peut ê
 délivré qu'une licence par tranche entière de 2.000 habitants recensés dans les
 limites de la commune.
 
-Une création d'officine peut toutefois être accordée dans une commune dépourvue
-d'officine et d'une population inférieure à 2.000 habitants lorsqu'il sera
-justifié que cette commune constitue, pour la population des localités
-avoisinantes, un centre d'approvisionnement, sous réserve que l'officine à créer
-et les officines voisines déjà existantes puissent être assurées chacune d'un
-minimum de 2.000 habitants à desservir.
+Une création d'officine peut, toutefois, être accordée dans une commune
+dépourvue d'officine et d'une population inférieure à 2 000 habitants lorsque
+les besoins de la population résidente et saisonnière sont insuffisamment
+couverts au regard de la carte départementale des officines de pharmacie.
 
 La population dont il est tenu compte pour l'application de l'article L. 571 du
 Code de la santé publique est la population municipale totale, telle qu'elle est

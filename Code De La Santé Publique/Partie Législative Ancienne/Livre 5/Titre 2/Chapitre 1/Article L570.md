@@ -6,10 +6,11 @@ représentant de l'Etat dans le département après avis du conseil régional de
 l'ordre des pharmaciens et du directeur régional des affaires sanitaires et
 sociales.
 
-Un transfert peut être demandé pour le territoire d'une même commune, pour celui
-d'une commune limitrophe ou d'une même communauté urbaine. Les demandes de
-transfert bénéficient d'une priorité par rapport aux demandes d'ouverture d'une
-nouvelle officine.
+Un transfert d'officine peut être demandé à l'intérieur d'un même département.
+Lorsqu'elle est faite pour une commune de moins de 2 000 habitants, la demande
+de transfert est examinée au regard de la carte départementale des officines de
+pharmacie. Les demandes de transfert bénéficient d'une priorité par rapport aux
+demandes d'ouverture d'une nouvelle officine.
 
 Parmi les demandes d'ouverture d'une nouvelle officine, celles qui sont
 présentées par des pharmaciens n'ayant jamais été titulaires d'une licence
@@ -43,7 +44,5 @@ ouverture.
 
 Tout refus de licence doit faire l'objet d'une décision motivée. Il peut en être
 fait appel au ministre de la Santé publique qui statue après avis du conseil
-régional [*recours*].
-
-Lors de la fermeture définitive de l'officine, la licence doit être remise à la
-préfecture par son dernier titulaire ou par ses héritiers.
+régional [*recours*]. Lors de la fermeture définitive de l'officine, la licence
+doit être remise à la préfecture par son dernier titulaire ou par ses héritiers.

@@ -13,16 +13,17 @@ littoraux, lorsqu'elles en font la demande auprès du représentant de l'Etat da
 le département. La liste de ces communes est fixée par décret en Conseil d'Etat,
 après avis du conservatoire de l'espace littoral et des rivages lacustres.
 
-Les prescriptions particulières prévues à l'article L. 111-1-1 peuvent préciser
-les conditions d'application du présent chapitre. Ces prescriptions sont
-établies par décret en Conseil d'Etat après avis ou sur proposition des conseils
-régionaux intéressés et après avis des départements et des communes ou
+Les directives territoriales d'aménagement prévues à l'article L. 111-1-1
+peuvent préciser les modalités d'application du présent chapitre. Ces directives
+sont établies par décret en Conseil d'Etat après avis ou sur proposition des
+conseils régionaux intéressés et après avis des départements et des communes ou
 groupements de communes concernés.
 
-Les dispositions du présent chapitre sont applicables à toute personne publique
-ou privée pour l'exécution de tous travaux, constructions, défrichements,
-plantations, installations et travaux divers, la création de lotissements et
-l'ouverture de terrains de camping ou de stationnement de caravanes,
-l'établissement de clôtures, pour l'ouverture de carrières, la recherche et
-l'exploitation de minerais. Elles sont également applicables aux installations
-classées pour la protection de l'environnement.
+Les directives territoriales d'aménagement précisant les modalités d'application
+du présent chapitre ou, en leur absence, lesdites dispositions sont applicables
+à toute personne publique ou privée pour l'exécution de tous travaux,
+constructions, défrichements, plantations, installations et travaux divers, la
+création de lotissements et l'ouverture de terrains de camping ou de
+stationnement de caravanes, l'établissement de clôtures, pour l'ouverture de
+carrières, la recherche et l'exploitation de minerais. Elles sont également
+applicables aux installations classées pour la protection de l'environnement.

@@ -1,12 +1,12 @@
 Article L123-7-1
 ----
 Lorsqu'un plan d'occupation des sols doit être révisé ou modifié pour être rendu
-compatible avec les prescriptions nouvelles prises en application de l'article
-L. 111-1-1 ou avec les orientations d'un schéma directeur ou d'un schéma de
-secteur, approuvé ou arrêté postérieurement à l'approbation du plan, ou pour
-permettre la réalisation d'un nouveau projet d'intérêt général, le représentant
-de l'Etat en informe la commune ou l'établissement public de coopération
-intercommunale.
+compatible, dans les conditions prévues par l'article L. 111-1-1, avec les
+orientations d'un schéma directeur ou d'un schéma de secteur, approuvé ou arrêté
+postérieurement à l'approbation du plan, ou avec les directives territoriales
+d'aménagement, ou avec les lois d'aménagement ou d'urbanisme, ou pour permettre
+la réalisation d'un nouveau projet d'intérêt général, le représentant de l'Etat
+en informe la commune ou l'établissement public de coopération intercommunale.
 
 Dans un délai d'un mois, la commune ou l'établissement public fait connaître au
 représentant de l'Etat s'il entend opérer la révision ou la modification

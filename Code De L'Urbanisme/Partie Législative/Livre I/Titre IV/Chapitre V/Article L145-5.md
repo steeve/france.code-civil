@@ -22,9 +22,9 @@ des communes riveraines, ou un plan d'occupation des sols si le plan d'eau est
 situé à l'intérieur du territoire administratif d'une seule commune, les
 dispositions du présent article peuvent également être adaptées pour permettre
 la délimitation, à titre exceptionnel, de hameaux nouveaux intégrés à
-l'environnement. En l'absence des prescriptions particulières visées à l'article
-L. 145-7, le schéma directeur ou le schéma de secteur est alors élaboré dans les
-conditions prévues au deuxième alinéa de l'article L. 122-1-2.
+l'environnement. En l'absence des directives territoriales d'aménagement visées
+à l'article L. 145-7, le schéma directeur ou le schéma de secteur est alors
+élaboré dans les conditions prévues au deuxième alinéa de l'article L. 122-1-2.
 
 Les ministres chargés de l'urbanisme et de l'environnement peuvent, à titre
 exceptionnel, autoriser l'implantation, sur les rives d'un plan d'eau artificiel
