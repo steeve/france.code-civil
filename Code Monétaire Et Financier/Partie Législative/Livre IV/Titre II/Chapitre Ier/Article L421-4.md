@@ -6,12 +6,6 @@ d'opposition de la commission des opérations de bourse.
 
 L'accord exprès de l'émetteur de l'instrument financier est requis.
 
-Lorsque l'instrument financier comporte un élément sous-jacent, l'émetteur de
-celui-ci dispose d'un droit d'opposition dans les cas et selon les modalités
-prévus par le règlement général du conseil des marchés financiers. Toutefois, ce
-droit d'opposition n'existe pas lorsque l'élément sous-jacent est une devise, un
-titre de dette publique, un contrat financier à terme ou un indice.
-
 II. - Après en avoir informé l'émetteur, l'entreprise de marché peut suspendre,
 pour une durée déterminée et dans le cadre des règles du marché réglementé dont
 elle a la charge, la négociation d'un instrument financier admis aux

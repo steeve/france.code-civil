@@ -17,8 +17,8 @@ le budget et de passer à cet effet les actes nécessaires ;
 
 4° De prendre toute décision concernant la préparation, la passation,
 l'exécution et le règlement des marchés de travaux, de fournitures et de
-services qui peuvent être passés en la forme négociée en raison de leur montant,
-lorsque les crédits sont prévus au budget ;
+services qui peuvent être passés sans formalités en raison de leur montant,
+lorsque les crédits sont inscrits au budget ;.
 
 5° De décider de la conclusion et de la révision du louage de choses pour une
 durée n'excédant pas douze ans ;

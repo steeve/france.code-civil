@@ -1,9 +1,10 @@
 Article L141-4
 ----
-La Banque de France veille au bon fonctionnement et à la sécurité des systèmes
-de paiement dans le cadre de la mission du Système européen de banques centrales
-relative à la promotion du bon fonctionnement des systèmes de paiement prévue
-par l'article 105, paragraphe 2 du traité instituant la Communauté européenne.
+I. La Banque de France veille au bon fonctionnement et à la sécurité des
+systèmes de paiement dans le cadre de la mission du Système européen de banques
+centrales relative à la promotion du bon fonctionnement des systèmes de paiement
+prévue par l'article 105, paragraphe 2 du traité instituant la Communauté
+européenne.
 
 L'opposabilité aux tiers et la mise en oeuvre des droits des banques centrales
 nationales membres du Système européen de banques centrales et de la Banque
@@ -40,3 +41,8 @@ précise sa composition et ses compétences.
 
 L'observatoire établit chaque année un rapport d'activité remis au ministre
 chargé de l'économie, des finances et de l'industrie et transmis au Parlement.
+
+II. - Dans le cadre des missions du Système européen de banques centrales, et
+sans préjudice des compétences du Conseil des marchés financiers et de la
+commission bancaire, la Banque de France veille à la sécurité des systèmes de
+compensation, de règlement et de livraison des instruments financiers.

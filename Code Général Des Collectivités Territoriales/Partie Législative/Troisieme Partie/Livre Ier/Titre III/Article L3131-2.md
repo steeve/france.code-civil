@@ -13,7 +13,8 @@ l'article L. 3221-4 ;
 dans tous les autres domaines qui relèvent de leur compétence en application de
 la loi ;
 
-4° Les conventions relatives aux marchés et aux emprunts ainsi que les
+4° Les conventions relatives aux marchés à l'exception des marchés passés sans
+formalité préalable en raison de leur montant, et aux emprunts ainsi que les
 conventions de concession ou d'affermage de services publics locaux à caractère
 industriel ou commercial ;
 
