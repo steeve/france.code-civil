@@ -7,7 +7,7 @@ dont les revenus peuvent bénéficier de la déduction forfaitaire majorée ou, 
 elle est postérieure, de l'année au cours de laquelle les parts ont été
 acquises.
 
-L'engagement de conservation des titres prévu au cinquième alinéa du e du 1° du
+L'engagement de conservation des titres prévu au quatrième alinéa du e du 1° du
 I de l'article 31 du code général des impôts est constaté lors du dépôt de la
 déclaration des revenus de l'année au cours de laquelle la location au locataire
 ouvre droit pour la première fois à la déduction forfaitaire majorée.

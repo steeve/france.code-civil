@@ -1,6 +1,6 @@
 Article 2 quaterdecies A
 ----
-I. - Pour l'application du cinquième alinéa du e du 1° du I de l'article 31 du
+I. - Pour l'application du quatrième alinéa du e du 1° du I de l'article 31 du
 code général des impôts, les contribuables sont tenus de joindre à leur
 déclaration des revenus de l'année au cours de laquelle la location ouvre droit
 pour la première fois à la déduction forfaitaire majorée :

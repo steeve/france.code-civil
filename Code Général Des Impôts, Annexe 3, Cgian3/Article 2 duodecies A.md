@@ -1,6 +1,6 @@
 Article 2 duodecies A
 ----
-Pour l'application du cinquième alinéa du e du 1° du I de l'article 31 du code
+Pour l'application du quatrième alinéa du e du 1° du I de l'article 31 du code
 général des impôts, les plafonds de loyer et de ressources du locataire sont les
 suivants :
 
