@@ -12,6 +12,11 @@ de ces personnes sur des comptes de non-résidents.
 
 Les dispositions de l'article L. 102 B sont applicables.
 
-Un décret en Conseil d'Etat fixe les règles particulières relatives à la
+Un décret en Conseil d'Etat fixe ((après avis de la Commission nationale de
+l'informatique et des libertés)) (M) les règles particulières relatives à la
 conservation et à la communication des informations détenues par les organismes
 visés au premier alinéa.
+
+(M) Modification.
+
+[*Cf. Instruction 1995-11-16 13K-3-95.*]
