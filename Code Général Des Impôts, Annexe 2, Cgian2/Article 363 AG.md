@@ -1,20 +1,21 @@
 Article 363 AG
 ----
-" Pour le blé tendre, l'orge, le maïs et le seigle, le taux maximal de la taxe
-est fixé à 0,80 p. 100 du prix d'intervention diminué du montant du prélèvement
-de coresponsabilité.
+Le taux maximal est fixé à :
 
-" Pour le blé dur, le sorgho, l'avoine et le riz, les taux maximaux de la taxe
-sont les suivants :
+6,10 F par tonne pour le blé tendre ;
 
-" 0,60 p. 100 du prix d'intervention diminué du montant du prélèvement de
-coresponsabilité pour le blé dur et le sorgho ;
+6,10 F par tonne pour l'orge ;
 
-" 0,60 p. 100 du prix de seuil diminué du montant du prélèvement de
-coresponsabilité pour l'avoine ;
+6,10 F par tonne pour le maïs ;
 
-" 0,60 p. 100 du prix d'intervention pour le riz.
+6,05 F par tonne pour le blé dur ;
 
-" Pour le triticale, le montant à la tonne de la taxe applicable est égal au
-montant en valeur absolue de la taxe perçue à la tonne de seigle, tel que ce
-montant résulte des dispositions qui précèdent. "
+5,65 F par tonne pour le seigle ;
+
+3,85 F par tonne pour le sorgho ;
+
+3,85 F par tonne pour l'avoine ;
+
+5,75 F par tonne pour le riz ;
+
+5,65 F par tonne pour le triticale.
