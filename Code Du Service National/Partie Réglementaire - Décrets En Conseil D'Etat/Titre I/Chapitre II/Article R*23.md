@@ -1,7 +1,7 @@
 Article R*23
 ----
-Les emplois au titre desquels peut ^etre accordé le bénéfice de l'article L. 9
-aux jeunes gens qui demandent à ^etre appelés pour accomplir leurs obligations
+Les emplois au titre desquels peut être accordé le bénéfice de l'article L. 9
+aux jeunes gens qui demandent à être appelés pour accomplir leurs obligations
 légales du service national actif dans les conditions fixées audit article sont
 les suivants :
 
@@ -21,7 +21,8 @@ concourant au développement des départements ou territoires d'outre-mer ;
 3° Au titre du service de la coopération dans un Etat étranger :
 
 emplois visés au 2° ci-dessus, dans les services ou organismes publics dépendant
-de cet Etat ; dans les services publics français, les organismes, associations
-ou oeuvres à but non lucratif et dans les entreprises françaises concourant au
-développement de cet Etat ; dans les organismes internationaux dont la France
-fait partie et qui exercent une activité de coopération dans cet Etat.
+de cet Etat, dans les services publics français, les entreprises françaises, les
+organismes, associations ou oeuvres à but non lucratif exerçant une action
+humanitaire ou concourant au développement de cet Etat, dans les organismes
+internationaux dont la France fait partie et qui exercent une activité de
+coopération dans cet Etat.
