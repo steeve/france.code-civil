@@ -1,4 +1,4 @@
 Article R323-20
 ----
-Le remboursement de la subvention peut être exigé si l'une ou l'autre des
-conditions définies par la présente section ne sont pas respectées.
+Le remboursement de la subvention peut être exigé si l'une des conditions
+définies par la présente sous-section n'est pas respectée.
