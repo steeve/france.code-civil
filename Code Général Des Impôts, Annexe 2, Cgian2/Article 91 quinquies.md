@@ -1,8 +1,8 @@
 Article 91 quinquies
 ----
 Le contribuable qui a versé le capital constitutif de la rente prévue à
-l'article 294 du code civil peut, sous réserve des dispositions du 2° du II de
-l'article 156 du code général des impôts, déduire annuellement de son revenu
+l'article 373-2-3 du code civil peut, sous réserve des dispositions du 2° du II
+de l'article 156 du code général des impôts, déduire annuellement de son revenu
 imposable une somme égale au montant du capital versé divisé par le nombre
 d'années au cours desquelles la rente doit être servie.
 
@@ -14,13 +14,13 @@ titre de laquelle il pratique pour la première fois la déduction mentionnée a
 premier alinéa une attestation délivrée par l'organisme accrédité chargé du
 versement de la rente et comportant les indications suivantes :
 
-- identité et adresse du contribuable ayant constitué la rente ;
+-identité et adresse du contribuable ayant constitué la rente ;
 
-- identité, adresse, date et lieu de naissance de l'enfant bénéficiaire de la
+-identité, adresse, date et lieu de naissance de l'enfant bénéficiaire de la
 rente ;
 
-- identité et adresse du parent qui a la garde de l'enfant ;
+-identité et adresse du parent qui a la garde de l'enfant ;
 
-- montant du capital versé et date du versement ;
+-montant du capital versé et date du versement ;
 
-- dates du point de départ et du terme du service de la rente.
+-dates du point de départ et du terme du service de la rente.

@@ -1,9 +1,7 @@
 Article 74 T
 ----
-Pour l'application des dispositions du I de l'article 15 bis, de l'article 15
-ter, des premier et deuxième alinéas du III de l'article 35 bis, du premier
-alinéa de l'article 92 L du code général des impôts, les logements doivent
-répondre aux normes minimales suivantes :
+Pour l'application de l'article 15 ter du code général des impôts, les logements
+doivent répondre aux normes minimales suivantes :
 
 a) Avoir une surface habitable d'au moins 9 mètres carrés pour une personne
 seule et de 7 mètres carrés par personne supplémentaire ;
