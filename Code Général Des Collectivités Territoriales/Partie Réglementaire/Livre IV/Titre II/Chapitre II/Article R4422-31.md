@@ -1,7 +1,7 @@
 Article R4422-31
 ----
 La collectivité territoriale de Corse, en application du deuxième alinéa de
-l'article L. 4422-30 a autorité sur :
+l'article L. 4422-43, a autorité sur :
 
 1° Les services ou parties de services affectés, au sein de la direction
 régionale de l'équipement et des directions départementales de l'équipement, aux

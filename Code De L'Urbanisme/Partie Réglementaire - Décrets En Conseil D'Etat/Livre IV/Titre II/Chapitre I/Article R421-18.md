@@ -19,10 +19,10 @@ Le délai d'instruction est également majoré d'un mois lorsqu'il y a lieu
 d'instruire une dérogation ou une adaptation mineure.
 
 Le délai d'instruction est porté à cinq mois lorsque le projet est soumis à
-enquête publique, lorsqu'il y a lieu de consulter une commission nationale ou
-lorsque la demande concerne la construction de locaux à usage commercial
-assujettis à l'autorisation de la commission départementale d'équipement
-commercial ; en cas de recours formulé dans les conditions prévues à l'article
-32 de la loi n. 73-1193 du 27 décembre 1973 d'orientation du commerce et de
-l'artisanat contre la décision de cette commission, ce délai est majoré de
-quatre mois.
+enquête publique, lorsqu'il y a lieu de consulter une commission nationale,
+lorsqu'il y a lieu de consulter l'Assemblée de Corse en application de l'article
+R. 421-16 ou lorsque la demande concerne la construction de locaux à usage
+commercial assujettis à l'autorisation de la commission départementale
+d'équipement commercial ; en cas de recours formulé dans les conditions prévues
+à l'article L. 720-10 du code de commerce contre la décision de cette
+commission, ce délai est majoré de quatre mois.
