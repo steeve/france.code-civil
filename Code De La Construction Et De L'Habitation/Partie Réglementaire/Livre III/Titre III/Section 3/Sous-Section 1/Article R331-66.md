@@ -21,7 +21,7 @@ descendants ou ceux de leur conjoint [*durée*].
 
 Cette occupation doit être effective dans le délai maximum d'un an suivant soit
 la déclaration d'achèvement des travaux, soit l'acquisition des logements si
-celle-ci est postérieure à ladite déclaration. Ce délai peut être porté à cinq
+celle-ci est postérieure à ladite déclaration. Ce délai peut être porté à six
 ans lorsque le logement est destiné à être occupé par le bénéficiaire du prêt
 dès sa mise à la retraite ou dès son retour d'un département ou territoire
 d'outre-mer ou de l'étranger.
