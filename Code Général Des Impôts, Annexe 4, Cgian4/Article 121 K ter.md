@@ -12,4 +12,4 @@ ou par personne interposée, possèdent un ou plusieurs immeubles situés en Fra
 ou sont titulaires de droits réels portant sur ces biens, à la recette des
 impôts du lieu de situation de ces biens. Si l'application de cette règle
 conduit à une pluralité de lieux de dépôt, la déclaration est déposée à la
-recette du centre des impôts des non-résidents.
+recette du centre-recette des impôts des entreprises étrangères.
