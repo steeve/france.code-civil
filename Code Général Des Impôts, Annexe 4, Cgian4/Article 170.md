@@ -1,7 +1,7 @@
 Article 170
 ----
-Entrent notamment dans les prévisions des articles 922-2-5o et 1040-I, deuxième
-alinéa du code général des impôts :
+Entrent notamment dans les prévisions de l'article 1040-I, deuxième alinéa du
+code général des impôts :
 
 La caisse des dépôts et consignations;
 
