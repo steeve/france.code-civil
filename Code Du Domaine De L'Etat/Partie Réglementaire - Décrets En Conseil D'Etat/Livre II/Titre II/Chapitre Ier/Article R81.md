@@ -5,6 +5,9 @@ de l'Etat ou détenu en jouissance, à un titre quelconque, par l'Etat est mis �
 la disposition d'un département ministériel pour lui permettre d'assurer le
 fonctionnement du service public dont il a la charge.
 
+L'affectation est définitive ou provisoire selon qu'elle concerne un immeuble
+définitivement ou temporairement inutile à un département ministériel.
+
 Ne sont pas soumis au régime de l'affectation les immeubles que gère l'Etat pour
 le compte de tiers ou qui dépendent de patrimoines séquestrés ou en liquidation.
 
