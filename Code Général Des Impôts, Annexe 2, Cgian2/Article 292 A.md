@@ -1,12 +1,12 @@
 Article 292 A
 ----
-Tous les contrats d'assurance en cas de vie ou en cas de décès dont l'assuré
-était âgé de soixante six ans au moins au jour de leur conclusion doivent, quel
-que soit le montant du capital assuré et des primes prévues, être déclarés par
-les bénéficiaires, au décès de l'assuré, dans les conditions fixées pour les
-déclarations de succession [*formalité obligatoire*]. La déclaration doit
-préciser, pour chaque contrat, le montant des primes prévues pour chacune des
-quatre années à compter de sa conclusion et le capital assuré.
+Tous les contrats d'assurance en cas de vie ou en cas de décès souscrits à
+compter du 20 novembre 1991 et conclus sur la tête d'un même assuré, en vertu
+desquels des primes ont été versées après son soixante-dixième anniversaire,
+doivent être déclarés par les bénéficiaires, au décès de l'assuré, dans les
+conditions fixées pour les déclarations de succession. La déclaration doit
+préciser, pour chaque contrat, la date de souscription et le montant des primes
+versées après le soixante-dixième anniversaire de l'assuré.
 
-Sur la demande des bénéficiaires les assureurs sont tenus de leur communiquer
+Les assureurs sont tenus, sur la demande des bénéficiaires, de leur communiquer
 les informations mentionnées ci-dessus.
