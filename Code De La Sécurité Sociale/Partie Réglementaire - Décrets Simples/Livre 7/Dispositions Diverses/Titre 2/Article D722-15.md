@@ -5,8 +5,9 @@ incombe, sous réserve des conditions d'ouverture des droits, au régime
 d'affiliation à la date de la première constatation médicale de la grossesse.
 
 Les modalités d'application de l'article L. 722-8 sont celles prévues aux
-articles D. 615-5 à D. 615-13. Les modalités d'application de l'article L.
-722-8-1 sont celles prévues aux articles D. 722-15-1 à D. 722-15-9.
+articles D. 615-4-1 à D. 615-4-5, D. 615-12 et D. 615-13. Les modalités
+d'application de l'article L. 722-8-1 sont celles prévues aux articles D.
+722-15-1 à D. 722-15-9.
 
 Pour l'ouverture du droit aux prestations en nature de l'assurance maternité de
 l'assuré qui cesse d'appartenir au régime d'assurance maladie, maternité, décès
