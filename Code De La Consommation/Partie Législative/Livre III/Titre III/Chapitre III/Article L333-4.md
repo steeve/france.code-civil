@@ -47,6 +47,6 @@ nominatives contenues dans le fichier.
 Il est interdit à la Banque de France, aux établissements de crédit et aux
 services financiers de La Poste de remettre à quiconque copie, sous quelque
 forme que ce soit, des informations contenues dans le fichier, même à
-l'intéressé lorsqu'il exerce son droit d'accès conformément à l'article 35 de la
+l'intéressé lorsqu'il exerce son droit d'accès conformément à l'article 39 de la
 loi n° 78-17 du 6 janvier 1978 précitée, sous peine des sanctions prévues aux
 articles 43 et 44 de la même loi.

@@ -1,19 +1,29 @@
 Article L1231-3
 ----
-Par dérogation aux dispositions de l'article L. 1231-2, un prélèvement de moelle
-osseuse peut être effectué sur un mineur au bénéfice de son frère ou de sa
-soeur.
+Le comité d'experts dont l'intervention est prévue aux articles L. 1231-1, L.
+1241-3 et L. 1241-4 siège en deux formations de cinq membres désignés pour trois
+ans par arrêté du ministre chargé de la santé. Trois de ces membres, dont deux
+médecins et une personne qualifiée dans le domaine des sciences humaines et
+sociales, sont communs aux deux formations. Lorsque le comité se prononce sur
+les prélèvements sur personne majeure mentionnés aux articles L. 1231-1 et L.
+1241-4, il comporte un psychologue et un médecin. Lorsqu'il se prononce sur les
+prélèvements sur personne mineure mentionnés à l'article L. 1241-3, il comporte
+une personne qualifiée dans le domaine de la psychologie de l'enfant et un
+pédiatre. En cas d'urgence vitale, les membres du comité d'experts sont désignés
+par l'Agence de la biomédecine parmi les membres disponibles figurant sur
+l'arrêté susmentionné. Le comité ainsi constitué délivre son autorisation par
+tout moyen. Dans ce cas d'urgence, l'information prévue par le troisième alinéa
+de l'article L. 1231-1 est délivrée par le praticien qui a posé l'indication de
+greffe ou par tout autre praticien du choix du donneur.
 
-Ce prélèvement ne peut être pratiqué que sous réserve du consentement de chacun
-des titulaires de l'autorité parentale ou du représentant légal du mineur. Le
-consentement est exprimé devant le président du tribunal de grande instance ou
-le magistrat désigné par lui.
+Le comité se prononce dans le respect des principes généraux énoncés au titre
+Ier du présent livre.
 
-En cas d'urgence, le consentement est recueilli, par tout moyen, par le
-procureur de la République.
+Afin d'apprécier la justification médicale de l'opération, les risques que
+celle-ci est susceptible d'entraîner pour le donneur ainsi que ses conséquences
+prévisibles sur les plans physique et psychologique, le comité peut avoir accès
+aux informations médicales concernant le donneur et le receveur. Ses membres
+sont tenus de garder secrètes les informations dont ils ont connaissance en
+raison de leurs fonctions.
 
-L'autorisation d'effectuer le prélèvement est accordée par un comité d'experts
-qui s'assure que le mineur a été informé du prélèvement envisagé en vue
-d'exprimer sa volonté, s'il y est apte.
-
-Le refus du mineur fait obstacle au prélèvement.
+Les décisions prises par le comité ne sont pas motivées.

@@ -1,8 +1,8 @@
 Article 226-24
 ----
 Les personnes morales peuvent être déclarées responsables pénalement, dans les
-conditions prévues par l'article 121-2, des infractions définies aux articles
-226-16 à 226-21 et 226-23 ainsi qu'au premier alinéa de l'article 226-22.
+conditions prévues par l'article 121-2, des infractions définies à la présente
+section.
 
 Les peines encourues par les personnes morales sont :
 

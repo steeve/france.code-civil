@@ -18,7 +18,6 @@ suivantes : régime du travail, conventions et accords collectifs de travail,
 emploi, régimes de protection sociale des salariés et non-salariés des
 professions agricoles.
 
-Un décret en Conseil d'Etat, pris après avis de la Commission nationale de
-l'informatique et des libertés, fixe le contenu et les conditions des
-communications mentionnées au présent article ainsi que de leur emploi par
-l'administration.
+Le contenu, l'emploi et les conditions de cette communication sont déterminés
+selon les modalités de l'article 27 de la loi n° 78-17 du 6 janvier 1978
+relative à l'informatique, aux fichiers et aux libertés.

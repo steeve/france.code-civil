@@ -30,5 +30,4 @@ mesure de leur compétence ;
 
 4° Participe à l'action européenne et internationale de la France ;
 
-5° Est chargée du fonctionnement de la commission de la transparence et de la
-commission mentionnée à l'article L. 1261-2.
+5° Est chargé du fonctionnement de la commission de la transparence.

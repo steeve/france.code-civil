@@ -22,7 +22,7 @@ libertés et des conseils de l'ordre des professions de santé ainsi que du
 conseil des professions paramédicales. Ce décret mentionne les informations qui
 doivent être fournies à l'appui de la demande d'agrément, notamment les modèles
 de contrats prévus au deuxième alinéa et les dispositions prises pour garantir
-la sécurité des données traitées en application de l'article 29 de la loi n°
+la sécurité des données traitées en application de l'article 34 de la loi n°
 78-17 du 6 janvier 1978 précitée, en particulier les mécanismes de contrôle et
 de sécurité dans le domaine informatique ainsi que les procédures de contrôle
 interne. Les dispositions de l'article L. 4113-6 s'appliquent aux contrats

@@ -24,10 +24,8 @@ salariés, la Caisse centrale de mutualité sociale agricole et la Caisse
 nationale d'assurance maladie et maternité des travailleurs non salariés, sont
 approuvées par un arrêté du ministre chargé de la sécurité sociale.
 
-Cet arrêté, pris après avis motivé de la Commission nationale de l'informatique
-et des libertés, tient lieu d'acte réglementaire des organismes d'assurance
-maladie au sens du premier alinéa de l'article 15 de la loi n° 78-17 du 6
-janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
+Cet arrêté est pris après avis motivé de la Commission nationale de
+l'informatique et des libertés.
 
 Les données reçues et traitées par le système national d'information
 interrégimes de l'assurance maladie préservent l'anonymat des personnes ayant

@@ -3,9 +3,10 @@ Article L5124-11
 Un établissement pharmaceutique exportant un médicament doit demander à l'Agence
 française de sécurité sanitaire des produits de santé de certifier qu'il possède
 l'autorisation mentionnée à l'article L. 5124-3 ou, pour les établissements ou
-organismes fabriquant des produits mentionnés à l'article L. 1261-1,
-l'autorisation prévue à l'article L. 1261-2. Un Etat non membre de la Communauté
-européenne important un médicament peut effectuer les mêmes demandes.
+organismes fabriquant des produits mentionnés à l'article L. 1243-1 et aux 12°
+et 13° de l'article L. 5121-1, l'autorisation prévue aux articles L. 1243-2, L.
+4211-8 et L. 4211-9. Un Etat non membre de la Communauté européenne important un
+médicament peut effectuer les mêmes demandes.
 
 L'Agence française de sécurité sanitaire des produits de santé peut, pour des
 raisons de santé publique, interdire l'exportation de médicaments qui ne

@@ -10,3 +10,11 @@ de cinq semaines, il fait connaître par écrit son avis à l'investigateur. Il
 communique à l'Agence française de sécurité sanitaire des produits de santé pour
 les produits mentionnés à l'article L. 5311-1 ou au ministre chargé de la santé
 dans les autres cas tout avis défavorable donné à un projet de recherche.
+
+Outre les missions qui leur sont confiées, en matière de recherches
+biomédicales, à l'alinéa précédent, les comités sont également sollicités en cas
+de constitution d'une collection d'échantillons biologiques dans les conditions
+prévues à l'article L. 1243-3 et, en cas d'utilisation d'éléments et de produits
+du corps humain à des fins scientifiques relevant d'un changement substantiel de
+finalité par rapport au consentement initialement donné, dans les conditions
+prévues à l'article L. 1211-2.

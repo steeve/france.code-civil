@@ -69,4 +69,27 @@ substances ou compositions appelés souches homéopathiques, selon un procédé 
 fabrication homéopathique décrit par la pharmacopée européenne, la pharmacopée
 française ou, à défaut, par les pharmacopées utilisées de façon officielle dans
 un autre Etat membre de la Communauté européenne. Un médicament homéopathique
-peut aussi contenir plusieurs principes.
+peut aussi contenir plusieurs principes ;
+
+12° Préparation de thérapie génique, tout médicament autre que les spécialités
+pharmaceutiques et les médicaments fabriqués industriellement mentionnés à
+l'article L. 5121-8, servant à transférer du matériel génétique et ne consistant
+pas en des cellules d'origine humaine ou animale. Ces préparations sont
+préparées à l'avance et dispensées sur prescription médicale à un ou plusieurs
+patients. Elles font l'objet d'une autorisation de l'Agence française de
+sécurité sanitaire des produits de santé pour une indication thérapeutique
+donnée. Cette autorisation peut être assortie de conditions particulières ou de
+restrictions d'utilisation. Elle peut être modifiée, suspendue ou retirée ;
+
+13° Préparation de thérapie cellulaire xénogénique, tout médicament autre que
+les spécialités pharmaceutiques et les médicaments fabriqués industriellement
+mentionnés à l'article L. 5121-8, consistant en des cellules d'origine animale
+et leurs dérivés utilisés à des fins thérapeutiques, y compris les cellules
+servant à transférer du matériel génétique, quel que soit leur niveau de
+transformation. Ces préparations sont préparées à l'avance et dispensées sur
+prescription médicale à un ou plusieurs patients. Elles font l'objet d'une
+autorisation de l'Agence française de sécurité sanitaire des produits de santé
+pour une indication thérapeutique donnée. Cette autorisation peut être assortie
+de conditions particulières ou de restrictions d'utilisation. Elle peut être
+modifiée, suspendue ou retirée. L'Agence de la biomédecine est informée des
+décisions relatives à ces préparations prises en application du présent alinéa.
