@@ -1,11 +1,14 @@
 Article R131-35
 ----
-Le mandataire de justice prévu par l'article 131-46 est choisi soit parmi les
-personnes inscrites sur la liste prévue par l'article 2 de la loi n° 85-99 du 25
-janvier 1985 relative aux administrateurs judiciaires, aux mandataires
-judiciaires à la liquidation des entreprises et experts en diagnostic
-d'entreprise, soit parmi celles inscrites sur l'une des listes prévues par
-l'article 157 du code de procédure pénale. Toutefois, à titre exceptionnel, la
-juridiction peut, par décision motivée, désigner comme mandataire une personne
-physique ne figurant sur aucune des listes précitées mais ayant une expérience
-ou une qualification particulière.
+Le stage de citoyenneté prévu à l'article 131-5-1 et rendu applicable aux
+mineurs de 13 à 18 ans par l'article 20-4-1 de l'ordonnance n° 45-174 du 2
+février 1945 relative à l'enfance délinquante a pour objet de rappeler au
+condamné les valeurs républicaines de tolérance et de respect de la dignité de
+la personne humaine et de lui faire prendre conscience de sa responsabilité
+pénale et civile ainsi que des devoirs qu'implique la vie en société. Il vise
+également à favoriser son insertion sociale.
+
+Lorsqu'il concerne une personne condamnée pour une infraction commise avec la
+circonstance aggravante prévue par l'article 132-76, il rappelle en outre à
+l'intéressé l'existence des crimes contre l'humanité, notamment ceux commis
+pendant la Seconde Guerre mondiale.
