@@ -1,7 +1,7 @@
 Article 1338
 ----
 L'acte de confirmation ou ratification d'une obligation contre laquelle la loi
-admet l'action en nullité ou en rescision, n'est valable que lorsqu'on y trouve
+admet l'action en nullité ou en rescision n'est valable que lorsqu'on y trouve
 la substance de cette obligation, la mention du motif de l'action en rescision,
 et l'intention de réparer le vice sur lequel cette action est fondée.
 

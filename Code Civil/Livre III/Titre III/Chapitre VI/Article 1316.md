@@ -1,5 +1,6 @@
 Article 1316
 ----
-Les règles qui concernent la preuve littérale, la preuve testimoniale, les
-présomptions, l'aveu de la partie et le serment, sont expliquées dans les
-sections suivantes.
+La preuve littérale, ou preuve par écrit, résulte d'une suite de lettres, de
+caractères, de chiffres ou de tous autres signes ou symboles dotés d'une
+signification intelligible, quels que soient leur support et leurs modalités de
+transmission.
