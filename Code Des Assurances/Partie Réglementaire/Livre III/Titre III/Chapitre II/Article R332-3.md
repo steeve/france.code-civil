@@ -7,12 +7,17 @@ suivantes :
 représenter plus des deux tiers du montant au bilan des valeurs énumérées au
 même article et affectées à la représentation des provisions techniques ;
 
+1° bis Les valeurs mentionnées au 4° bis de l'article R. 332-2, autres que les
+actions d'entreprises d'assurance, de réassurance et de capitalisation, ne
+peuvent représenter plus de 1 p. 100 du montant au bilan des valeurs énumérées
+au même article et affectées à la représentation des provisions techniques.
+
 2° Les immeubles et les valeurs assimilées mentionnées au 7° de l'article R.
 332-2 ne peuvent représenter plus de 40 p. 100 du montant au bilan des valeurs
 énumérées au même article et affectées à la représentation des provisions
 techniques ;
 
-3° Les prêts mentionnés aux 9°, 10°, 10 bis et 11° de l'article R. 332-2 ne
+3° Les prêts mentionnés aux 9°, 10°, 10° bis et 11° de l'article R. 332-2 ne
 peuvent représenter plus de 35 p. 100 du montant au bilan des valeurs énumérées
 au même article et affectées à la représentation des provisions techniques ;
 
@@ -33,16 +38,11 @@ organismes figurant sur une liste établie par le ministre de l'économie, ne
 peuvent représenter plus de 5 p. 100 du montant au bilan des valeurs énumérées à
 l'article R. 332-2 et affectées à la représentation des provisions techniques ;
 
-c) Les actions, parts et autres valeurs mobilières inscrites au compartiment
-spécial du marché hors cote des bourses françaises de valeurs ne peuvent
-représenter plus de 5 p. 100 de l'ensemble des valeurs mentionnées au 4° de
-l'article R. 332-2 ;
-
-d) Les valeurs mentionnées au 4° bis de l'article R. 332-2 autres que les
-actions d'entreprises d'assurance, de réassurance et de capitalisation ne
-peuvent représenter plus de 5 p. 100 du montant au bilan des valeurs visées au
-4° de l'article R. 332-2. Cette limite est réduite à 1 p. 100 lorsque ces
-valeurs sont émises par le même émetteur.
+c) A l'exception des actions d'entreprises d'assurance, de réassurance et de
+capitalisation, les valeurs mentionnées au 4° bis de l'article R. 332-2 émises
+par une même société ou par un même fonds ne peuvent représenter plus de 0,25 p.
+100 du montant au bilan des valeurs énumérées au même article et affectées à la
+représentation des provisions techniques.
 
 6° L'ensemble des parts ou actions d'entreprises étrangères d'assurance ou de
 capitalisation mentionnées à l'article R. 332-2, 13°, ne peut dépasser 5 p. 100
@@ -64,7 +64,7 @@ l'article R. 332-2, 12° et du 1° du présent article.
 9° Les provisions techniques des entreprises opérant à la fois sur le territoire
 français et sur le territoire monégasque doivent être représentées dans les
 conditions prévues par la réglementation française ; toutefois, les actifs admis
-en représentation desdites provisions peuvent comprendre à concurrence de 5 p.
+en représentation desdites provisions peuvent comprendre, à concurrence de 5 p.
 100 du montant de celles-ci, des placements mobiliers ou immobiliers
 monégasques, sur autorisation donnée conjointement, pour chaque entreprise ou
 pour chaque cas, par le ministre de l'économie et des finances de la République
@@ -72,7 +72,7 @@ française et par le ministre d'Etat de la Principauté de Monaco ;
 
 10° En ce qui concerne les opérations réalisées dans les départements
 d'outre-mer et dans les territoires de la Nouvelle-Calédonie, de la Polynésie
-française, de Saint-Pierre-et-Miquelon, des Terres australes et antarctiques
+française, de Saint-Pierre-et- Miquelon, des Terres australes et antarctiques
 françaises et de Wallis et Futuna, le ministre de l'économie et des finances
 peut, sur proposition du préfet ou du chef de territoire, augmenter les
 proportions maximales suivant lesquelles les placements dans lesdits
