@@ -1,14 +1,12 @@
 Article L221-1
 ----
-L'Etat, les collectivités locales, /M/les communautés urbaines, les districts et
-les syndicats de collectivités locales ayant compétence en matière
-d'urbanisme/M/LOI 1285 : ou leurs groupements ayant compétence en matière
-d'urbanisme, les syndicats mixtes et les établissements publics d'aménagement
-visés à l'article L. 321-1// sont habilités à acquérir des immeubles, au besoin
-par voie d'expropriation, pour constituer des réserves foncières en prévision de
-l'extension d'agglomérations, de l'aménagement des espaces naturels entourant
-ces agglomérations et de la création de villes nouvelles ou de stations de
-tourisme. Lorsqu'il existe un schéma directeur d'aménagement et d'urbanisme, il
+L'Etat, les collectivités locales, ou leurs groupements ayant compétence en
+matière d'urbanisme, les syndicats mixtes et les établissements publics
+d'aménagement visés à l'article L. 321-1 sont habilités à acquérir des
+immeubles, au besoin par voie d'expropriation, pour constituer des réserves
+foncières en prévision de l'extension d'agglomérations, de l'aménagement des
+espaces naturels entourant ces agglomérations et de la création de villes
+nouvelles ou de stations de tourisme. Lorsqu'il existe un schéma directeur, il
 ne peut y avoir d'acquisitions que pour la réalisation des objectifs de ce
 schéma.
 

@@ -6,9 +6,8 @@ assurer l'unité d'urbanisme et d'architecture dans la zone considérée qui son
 incluses dans les cahiers des charges de concession et dans les cahiers des
 charges de cession de terrains approuvés doivent, postérieurement à la fin de la
 concession, être incorporées [*contenu*] au plan d'occupation des sols, s'il en
-existe un, par une décision de l'autorité administrative. Le régime juridique
-des plans d'occupation des sols est applicable aux dispositions ainsi
-incorporées.
+existe un, par une décision de l'autorité compétente. Le régime juridique des
+plans d'occupation des sols est applicable aux dispositions ainsi incorporées.
 
 Lorsque l'établissement d'un plan d'occupation des sols n'a pas été prescrit ou
 si le plan d'occupation des sols n'est pas rendu public ou approuvé au moment de
