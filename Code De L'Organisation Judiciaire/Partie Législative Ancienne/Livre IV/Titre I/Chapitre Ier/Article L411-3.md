@@ -1,3 +1,5 @@
 Article L411-3
 ----
-Comme il est dit à l'article 632 du code du commerce : ...
+Dans les circonscriptions où il n'est pas établi de tribunal de commerce, le
+tribunal de grande instance connaît des matières attribuées aux tribunaux de
+commerce.
