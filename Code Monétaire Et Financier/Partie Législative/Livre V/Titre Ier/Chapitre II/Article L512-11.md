@@ -1,21 +1,24 @@
 Article L512-11
 ----
-Les attributions générales de la chambre syndicale sont, dans le cadre de sa
-mission d'organe central définie aux articles L. 511-31 et L. 511-32 :
+Le réseau des banques populaires comprend les banques populaires, les sociétés
+de caution mutuelle leur accordant statutairement l'exclusivité de leur
+cautionnement et la Banque fédérale des banques populaires. La Banque fédérale
+des banques populaires est chargée de :
 
-1. De représenter collectivement les banques populaires pour faire valoir leurs
-droits et intérêts communs ;
+1° Définir la politique et les orientations stratégiques du réseau des banques
+populaires ;
 
-2. D'exercer un contrôle administratif, technique et financier sur
-l'organisation et la gestion de chaque banque populaire ;
+2° Négocier et conclure au nom du réseau des banques populaires les accords
+nationaux et internationaux ;
 
-3. De prendre toutes mesures nécessaires au bon fonctionnement des banques
-populaires, notamment en favorisant la création de nouvelles banques ou en
-provoquant la suppression de banques existantes, soit par voie de fusion avec
-une ou plusieurs banques, soit par voie de liquidation amiable.
+3° Agréer les dirigeants des banques populaires et définir les conditions de cet
+agrément ;
 
-Elle peut en outre décider, dans des conditions déterminées par le règlement
-intérieur prévu à l'article L. 512-12, la radiation d'une banque existante de la
-liste des banques affiliées à la chambre syndicale.
+4° Approuver les statuts des banques populaires et leurs modifications ;
 
-4. D'administrer le fonds collectif de garantie prévu à l'article L. 512-16.
+5° Assurer la centralisation des excédents de trésorerie des banques populaires
+et leur refinancement ;
+
+6° Prendre toute mesure utile à l'organisation, au bon fonctionnement et au
+développement du réseau des banques populaires et appeler les cotisations
+nécessaires à l'accomplissement de ses missions d'organe central.

@@ -1,6 +1,5 @@
 Article L531-7
 ----
-Les entreprises d'investissement ne peuvent exercer, à titre professionnel, une
-activité autre que celles mentionnées aux articles L. 321-1 et L. 321-2 que dans
-des conditions définies par le comité des établissements de crédit et des
-entreprises d'investissement.
+Le Comité de la réglementation bancaire et financière fixe les conditions dans
+lesquelles les entreprises d'investissement peuvent exercer, à titre
+professionnel, une activité autre que celles prévues à l'article L. 321-1.

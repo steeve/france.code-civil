@@ -10,7 +10,7 @@ de crédit et des entreprises d'investissement, un représentant des organisatio
 syndicales représentatives du personnel des établissements de crédit et des
 entreprises d'investissement, autres que celles mentionnées à l'article L.
 532-9, et deux personnalités choisies en raison de leur compétence. Les membres
-titulaires sont choisis au sein du Conseil national du crédit et du titre.
+titulaires sont membres de droit du Conseil national du crédit et du titre.
 
 Lorsqu'il examine des prescriptions d'ordre général touchant à l'activité des
 prestataires de services d'investissement, le Comité de la réglementation

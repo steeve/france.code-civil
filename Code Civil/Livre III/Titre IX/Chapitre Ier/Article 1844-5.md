@@ -20,3 +20,6 @@ suffisantes. La transmission du patrimoine n'est réalisée et il n'y a
 disparition de la personne morale qu'à l'issue du délai d'opposition ou, le cas
 échéant, lorsque l'opposition a été rejetée en première instance ou que le
 remboursement des créances a été effectué ou les garanties constituées.
+
+Les dispositions du troisième alinéa ne sont pas applicables aux sociétés dont
+l'associé unique est une personne physique.

@@ -11,6 +11,4 @@ jusqu'à leur entière libération ;
 2° Des actions de numéraire pour lesquelles le versement du quart n'a pas été
 effectué ;
 
-3° Des promesses d'actions, sauf en ce qui concerne les promesses d'actions à
-créer à l'occasion d'une augmentation de capital dans une société dont les
-actions anciennes sont déjà admises aux négociations sur un marché réglementé.
+3° (supprimé).

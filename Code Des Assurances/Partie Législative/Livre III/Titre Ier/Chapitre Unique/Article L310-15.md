@@ -2,16 +2,17 @@ Article L310-15
 ----
 Si cela est nécessaire à l'exercice de sa mission et dans la limite de celle-ci,
 la commission peut décider d'étendre le contrôle sur place d'une entreprise
-mentionnée à l'article L. 310-1 à toute société dans laquelle cette entreprise
-détient, directement ou indirectement, plus de la moitié du capital social ou
-des droits de vote, ainsi qu'aux organismes de toute nature ayant passé,
-directement ou indirectement, avec cette entreprise une convention de gestion,
-de réassurance ou de tout autre type susceptible d'altérer son autonomie de
-fonctionnement ou de décision concernant l'un quelconque de ses domaines
-d'activité. Cette extension du contrôle ne peut avoir d'autre objet que la
-vérification de la situation financière réelle de l'entreprise d'assurance
-contrôlée ainsi que le respect par cette entreprise des engagements qu'elle a
-contractés à l'égard des assurés ou bénéficiaires de contrats.
+mentionnée à l'article L. 310-1 ou à l'article L. 310-1-1, à toute société dans
+laquelle cette entreprise détient, directement ou indirectement, plus de la
+moitié du capital social ou des droits de vote, ainsi qu'aux organismes de toute
+nature ayant passé, directement ou indirectement, avec cette entreprise une
+convention de gestion, de réassurance ou de tout autre type susceptible
+d'altérer son autonomie de fonctionnement ou de décision concernant l'un
+quelconque de ses domaines d'activité. Cette extension du contrôle ne peut avoir
+d'autre objet que la vérification de la situation financière réelle de
+l'entreprise d'assurance contrôlée ainsi que le respect par cette entreprise des
+engagements qu'elle a contractés à l'égard des assurés ou bénéficiaires de
+contrats.
 
 Si cette entreprise fait l'objet de mesures de redressement et de sauvegarde, le
 contrôle sur place peut être également étendu aux personnes morales qui la

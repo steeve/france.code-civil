@@ -5,9 +5,10 @@ les associés dans les formes et conditions qu'ils prévoient.
 
 Toutefois, les attributions dévolues aux assemblées générales extraordinaires et
 ordinaires des sociétés anonymes, en matière d'augmentation, d'amortissement ou
-de réduction de capital, de fusion, de scission, de dissolution, de nomination
-de commissaires aux comptes, de comptes annuels et de bénéfices sont, dans les
-conditions prévues par les statuts, exercées collectivement par les associés.
+de réduction de capital, de fusion, de scission, de dissolution, de
+transformation en une société d'une autre forme, de nomination de commissaires
+aux comptes, de comptes annuels et de bénéfices sont, dans les conditions
+prévues par les statuts, exercées collectivement par les associés.
 
 Dans les sociétés ne comprenant qu'un seul associé, le rapport de gestion, les
 comptes annuels et le cas échéant les comptes consolidés sont arrêtés par le

@@ -1,7 +1,6 @@
 Article L310-18-1
 ----
-Lorsqu'une entreprise soumise au contrôle de l'Etat en application de l'article
-L. 310-1-1 ou une société de participations d'assurance enfreint une disposition
+Lorsqu' une société de participations d'assurance enfreint une disposition
 législative ou réglementaire qui lui est applicable en vertu du présent livre,
 la commission de contrôle des assurances peut, après avoir mis ses dirigeants en
 mesure de lui présenter leurs observations, lui adresser une mise en garde. Elle
@@ -18,9 +17,8 @@ l'article L. 310-18.
 
 En outre, la commission peut, dans les conditions définies à l'article L.
 310-18, prononcer, soit à la place, soit en sus de ces sanctions, une sanction
-pécuniaire. Le montant de la sanction pécuniaire est calculé conformément aux
-dispositions de l'article L. 310-18. Pour une société de participations
-d'assurance, le montant maximum de la sanction pécuniaire est défini par
-référence au chiffre d'affaires de celle des entreprises d'assurance incluses
-par intégration globale dans la consolidation dont le total des primes émises au
-cours du dernier exercice clos est le plus élevé.
+pécuniaire. Le montant maximum de la sanction pécuniaire mentionné à l'article
+L. 310-18 est défini par référence au chiffre d'affaires de celle des
+entreprises d'assurance incluses par intégration globale dans la consolidation
+dont le total des primes émises au cours du dernier exercice clos est le plus
+élevé.

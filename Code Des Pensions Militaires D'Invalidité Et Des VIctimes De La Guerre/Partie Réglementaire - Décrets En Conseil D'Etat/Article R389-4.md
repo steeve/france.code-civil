@@ -40,4 +40,4 @@ Dans le département de Paris, le comité départemental est présidé par le
 receveur central des finances de Paris ou son représentant. Les représentants de
 la Banque de France et l'administration des contributions directes et du crédit
 populaire sont désignés respectivement par le gouverneur de la Banque de France,
-le directeur général des impôts et la chambre syndicale des banques populaires.
+le directeur général des impôts et la Banque fédérale des banques populaires.

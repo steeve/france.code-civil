@@ -51,3 +51,10 @@ compter du franchissement de seuil. En cas de changement d'intention, lequel ne
 peut être motivé que par des modifications importantes dans l'environnement, la
 situation ou l'actionnariat des personnes concernées, une nouvelle déclaration
 doit être établie.
+
+L'intermédiaire inscrit comme détenteur de titres conformément au troisième
+alinéa de l'article L. 228-1 est tenu, sans préjudice des obligations des
+propriétaires des titres, d'effectuer les déclarations prévues au présent
+article, pour l'ensemble des actions de la société au titre desquelles il est
+inscrit en compte. La violation des obligations découlant du présent alinéa est
+sanctionnée conformément aux dispositions de l'article L. 228-3-3.

@@ -4,11 +4,11 @@ I. - Les dispositions du présent article sont applicables aux entreprises et
 autres organismes mentionnés à l'article L. 431-1, quel que soit le nombre de
 salariés qu'ils emploient.
 
-II. - Un comité de groupe [*composition*] est constitué au sein du groupe formé
-par une entreprise appelée entreprise dominante et les entreprises qu'elle
-contrôle dans les conditions définies aux articles L. 233-1, L. 233-3 et L.
-233-16 du code de commerce, dont le siège social est situé sur le territoire
-français.
+II. - Un comité de groupe est constitué au sein du groupe formé par une
+entreprise appelée entreprise dominante et les entreprises qu'elle contrôle dans
+les conditions définies à l'article L. 233-1, aux I et II de l'article L. 233-3
+et L. 233-16 du code de commerce, dont le siège social est situé sur le
+territoire français.
 
 Est également considérée comme entreprise dominante, pour la constitution d'un
 comité de groupe, une entreprise qui exerce une influence dominante sur une

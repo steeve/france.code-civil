@@ -23,6 +23,8 @@ internationales dont la France est membre ;
 l'ordonnance n° 96-50 du 24 janvier 1996 relative au remboursement de la dette
 sociale.
 
+6. Les collectivités locales et leurs groupements.
+
 Un décret précise les conditions que doivent remplir les émetteurs mentionnés
-aux 2, 3, 4 et 5 et fixe les conditions d'émission des titres de créances
+aux 2, 3, 4, 5 et 6 et fixe les conditions d'émission des titres de créances
 négociables.

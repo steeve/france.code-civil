@@ -15,6 +15,8 @@ dans l'exercice de l'activité ;
 
 4° La suspension temporaire d'un ou plusieurs dirigeants de l'entreprise ;
 
+4° bis La démission d'office d'un ou plusieurs dirigeants de l'entreprise ;
+
 5° Le retrait total ou partiel d'agrément ;
 
 6° Le transfert d'office de tout ou partie du portefeuille des contrats.

@@ -1,34 +1,22 @@
 Article L225-21
 ----
-I. - Une personne physique ne peut appartenir simultanément à plus de huit
-conseils d'administration de sociétés anonymes ayant leur siège social en France
-métropolitaine.
+Une personne physique ne peut exercer simultanément plus de cinq mandats
+d'administrateur de sociétés anonymes ayant leur siège sur le territoire
+français.
 
-II. - Toute personne physique qui, lorsqu'elle accède à un nouveau mandat, se
-trouve en infraction avec les dispositions du I doit, dans les trois mois de sa
-nomination, se démettre de l'un de ses mandats. A l'expiration de ce délai, elle
-est réputée s'être démise de son nouveau mandat et doit restituer les
-rémunérations perçues, sans que soit, de ce fait, remise en cause la validité
-des délibérations auxquelles elle a pris part.
+Par dérogation aux dispositions ci-dessus, ne sont pas pris en compte les
+mandats d'administrateur dans les sociétés qui sont contrôlées, au sens de
+l'article L. 233-16, par la société dans laquelle est exercé un mandat au titre
+du premier alinéa, dès lors que les titres des sociétés contrôlées ne sont pas
+admis aux négociations sur un marché réglementé. Cette dérogation n'est pas
+applicable au mandat de président.
 
-III. - Les dispositions du I ci-dessus ne sont pas applicables aux représentants
-permanents des personnes morales, ni aux administrateurs :
-
-1° Dont le mandat, en vertu de dispositions législatives ou réglementaires, est
-exclusif de toute rémunération ;
-
-2° Des sociétés d'études ou de recherches tant qu'elles ne sont pas parvenues au
-stade de l'exploitation ;
-
-3° Des sociétés dont le capital est détenu à concurrence de 20 % au moins par
-une autre société dont ils sont déjà administrateurs ou membres du directoire ou
-du conseil de surveillance, dans la mesure ou le nombre des mandats détenus par
-les intéressés au titre des présentes dispositions n'excède pas cinq ;
-
-4° Des sociétés de développement régional ;
-
-5° Des instituts régionaux de participation, à condition que les statuts
-excluent toute rémunération à ce titre.
-
-IV. - Les mandats d'administrateur des diverses sociétés d'assurance ayant la
-même dénomination sociale ne comptent que pour un seul mandat.
+Toute personne physique qui se trouve en infraction avec les dispositions du
+présent article doit se démettre de l'un de ses mandats dans les trois mois de
+sa nomination, ou du mandat en cause dans les trois mois de l'événement ayant
+entraîné la disparition de l'une des conditions fixées à l'alinéa précédent. A
+l'expiration de ce délai, elle est réputée s'être démise, selon le cas, soit de
+son nouveau mandat, soit du mandat ne répondant plus aux conditions fixées à
+l'alinéa précédent, et doit restituer les rémunérations perçues, sans que soit,
+de ce fait, remise en cause la validité des délibérations auxquelles elle a pris
+part.

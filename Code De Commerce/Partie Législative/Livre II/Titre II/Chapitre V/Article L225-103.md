@@ -8,9 +8,9 @@ II. - A défaut, l'assemblée générale peut être également convoquée :
 1° Par les commissaires aux comptes ;
 
 2° Par un mandataire, désigné en justice, à la demande, soit de tout intéressé
-en cas d'urgence, soit d'un ou plusieurs actionnaires réunissant au moins le
-dixième du capital social, soit d'une association d'actionnaires répondant aux
-conditions fixées à l'article L. 225-120 ;
+en cas d'urgence, soit d'un ou plusieurs actionnaires réunissant au moins 5 % du
+capital social, soit d'une association d'actionnaires répondant aux conditions
+fixées à l'article L. 225-120 ;
 
 3° Par les liquidateurs ;
 

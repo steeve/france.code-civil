@@ -1,9 +1,10 @@
 Article L124-1
 ----
-Les sociétés coopératives de commerçants détaillants ont pour objet d'améliorer,
-par l'effort commun de leurs associés, les conditions dans lesquelles ceux-ci
-exercent leur profession commerciale. A cet effet, elles peuvent exercer pour le
-compte de leurs associés les activités suivantes :
+Les sociétés coopératives de commerçants détaillants ont pour objet d'améliorer
+par l'effort commun de leurs associés les conditions dans lesquelles ceux-ci
+exercent leur activité commerciale. A cet effet, elles peuvent notamment exercer
+directement ou indirectement pour le compte de leurs associés les activités
+suivantes :
 
 1° Fournir en totalité ou en partie à leurs associés les marchandises, denrées
 ou services, l'équipement et le matériel nécessaires à l'exercice de leur
@@ -33,6 +34,17 @@ l'article L. 144-3, la location-gérance est concédée dans un délai de deux m
 alinéas de l'article L. 124-15, doivent être rétrocédés dans un délai maximum de
 sept ans ;
 
-6° Mettre en oeuvre les moyens nécessaires à la promotion des ventes des
-associés ou de leur entreprise, notamment par la mise à disposition d'enseignes
-ou de marques dont elles ont la propriété ou la jouissance.
+6° Définir et mettre en oeuvre par tous moyens une politique commerciale commune
+propre à assurer le développement et l'activité de ses associés, et notamment :
+
+- par la mise à disposition d'enseignes ou de marques dont elles ont la
+propriété ou la jouissance ;
+
+- par la réalisation d'opérations commerciales publicitaires ou non pouvant
+comporter des prix communs ;
+
+- par l'élaboration de méthodes et de modèles communs d'achat, d'assortiment et
+de présentation de produits, d'architecture et d'organisation des commerces ;
+
+7° Prendre des participations même majoritaires dans des sociétés directement ou
+indirectement associées exploitant des fonds de commerce.

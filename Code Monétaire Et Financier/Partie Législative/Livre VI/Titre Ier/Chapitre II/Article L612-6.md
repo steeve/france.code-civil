@@ -24,3 +24,10 @@ garanties qu'en France. La Commission des communautés européennes peut égalem
 l'exercice des missions qui lui sont confiées, et sous réserve que les personnes
 destinataires soient soumises au secret professionnel avec les mêmes garanties
 qu'en France.
+
+Par dérogation aux dispositions législatives et réglementaires régissant le
+secret professionnel, le Comité des établissements de crédit et des entreprises
+d'investissement peut, avec l'accord préalable de la personne physique ou morale
+lui ayant transmis des documents en vue de l'instruction du dossier la
+concernant, communiquer certains desdits documents à toute personne physique ou
+morale intéressée qui le demande.

@@ -1,5 +1,6 @@
 Article L464-5
 ----
-La commission permanente peut prononcer les mesures prévues à l'article L.
-464-2.. Toutefois, la sanction pécuniaire prononcée ne peut excéder 500 000 F
-pour chacun des auteurs de pratiques prohibées.
+Le conseil, lorsqu'il statue selon la procédure simplifiée prévue à l'article L.
+463-3, peut prononcer les mesures prévues au I de l'article L. 464-2. Toutefois,
+la sanction pécuniaire ne peut excéder 750 000 euros pour chacun des auteurs de
+pratiques prohibées.

@@ -1,12 +1,12 @@
 Article L532-10
 ----
 Le retrait d'agrément d'une société de gestion de portefeuille est prononcé par
-la commission des opérations de bourse, soit à la demande de la société, soit
-d'office, lorsque la société ne remplit plus les conditions auxquelles
-l'agrément est subordonné, lorsqu'elle n'a pas fait usage de son agrément dans
-un délai de douze mois ou lorsqu'elle n'exerce plus son activité depuis au moins
-six mois ou lorsque la poursuite de son activité est de nature à porter atteinte
-aux intérêts des investisseurs.
+la Commission des opérations de bourse à la demande de la société. Il peut aussi
+être décidé d'office par la commission si la société ne remplit plus les
+conditions ou les engagements auxquels étaient subordonnés son agrément ou une
+autorisation ultérieure, ou si la société n'a pas fait usage de son agrément
+dans un délai de douze mois ou lorsqu'elle n'exerce plus son activité depuis au
+moins six mois.
 
 Le retrait d'agrément prend effet à l'expiration d'une période dont la durée est
 déterminée par la commission des opérations de bourse.

@@ -6,5 +6,5 @@ l'assemblée générale, ou qui comporterait par avance renonciation à l'exerci
 de cette action.
 
 Aucune décision de l'assemblée générale ne peut avoir pour effet d'éteindre une
-action en responsabilité contre les administrateurs pour faute commise dans
-l'accomplissement de leur mandat.
+action en responsabilité contre les administrateurs ou contre le directeur
+général pour faute commise dans l'accomplissement de leur mandat.

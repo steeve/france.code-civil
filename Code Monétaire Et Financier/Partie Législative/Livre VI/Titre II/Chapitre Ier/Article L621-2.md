@@ -17,9 +17,10 @@ de la cour,
 
 - un représentant de la Banque de France, désigné par le gouverneur,
 
-- un membre du conseil des marchés financiers désigné par ce conseil,
+- le président du Conseil des marchés financiers ou, en cas d'empêchement, son
+représentant, membre du Conseil des marchés financiers ;
 
-- un membre du conseil national de la comptabilité désigné par ce conseil,
+- le président du Conseil national de la comptabilité ;
 
 - trois personnalités qualifiées nommées respectivement, par le président du
 Sénat, le président de l'Assemblée nationale et le président du Conseil

@@ -11,6 +11,10 @@ entreprises soumises au contrôle de l'Etat en application de l'article L. 310-1
 et qui détiennent, directement ou indirectement, un pouvoir de contrôle effectif
 sur une ou plusieurs de ces entreprises.
 
+L'autorisation donnée à des opérations mentionnées au premier alinéa peut être
+subordonnée au respect d'engagements souscrits par une ou plusieurs des
+personnes ayant présenté une demande d'autorisation.
+
 En cas de manquement aux prescriptions édictées par le décret en Conseil d'Etat
 visé au premier alinéa du présent article et sans préjudice des dispositions de
 l'article 356-4 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés
@@ -20,3 +24,10 @@ tout actionnaire, le juge suspend, jusqu'à régularisation de la situation,
 l'exercice des droits de vote attachés aux actions ou parts sociales des
 entreprises visées au premier alinéa du présent article détenues
 irrégulièrement, directement ou indirectement.
+
+Toute personne envisageant de déposer un projet d'offre publique au Conseil des
+marchés financiers en application du chapitre III du titre III du livre IV du
+code monétaire et financier, en vue d'acquérir une quantité déterminée de titres
+d'une entreprise d'assurance agréée en France, est tenue d'en informer le
+ministre chargé de l'économie deux jours ouvrés avant le dépôt de ce projet
+d'offre ou son annonce publique si elle est antérieure.

@@ -1,6 +1,14 @@
 Article L228-3
 ----
-Les actions des sociétés dont les actions sont admises aux négociations sur un
-marché réglementé auxquelles la loi impose, en raison de leur activité, d'être
-mises sous la forme de titre nominatif, sont réputées l'être lorsque leurs
-détenteurs sont identifiés dans les conditions définies par l'article L. 228-2.
+S'il s'agit de titres de forme nominative, donnant immédiatement ou à terme
+accès au capital, l'intermédiaire inscrit dans les conditions prévues à
+l'article L. 228-1 est tenu, dans un délai fixé par décret en Conseil d'Etat, de
+révéler l'identité des propriétaires de ces titres sur simple demande de la
+société émettrice ou de son mandataire, laquelle peut être présentée à tout
+moment.
+
+Les droits spéciaux attachés aux actions nominatives, notamment ceux prévus aux
+articles L. 225-123 et L. 232-14, ne peuvent être exercés par un intermédiaire
+inscrit dans les conditions prévues à l'article L. 228-1 que si les
+renseignements qu'il fournit permettent le contrôle des conditions requises pour
+l'exercice de ces droits.

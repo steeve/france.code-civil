@@ -12,6 +12,10 @@ rapporteurs permanents sont nommés sur proposition du président par arrêté d
 ministre chargé de l'économie. Les autres rapporteurs sont désignés par le
 président.
 
+Le rapporteur général peut déléguer à un ou des rapporteurs généraux adjoints
+tout ou partie des attributions qu'il détient au titre du livre IV du présent
+code.
+
 Les crédits attribués au Conseil de la concurrence pour son fonctionnement sont
 inscrits au budget du ministère chargé de l'économie.
 

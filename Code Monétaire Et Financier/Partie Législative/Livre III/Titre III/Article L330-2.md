@@ -22,3 +22,14 @@ III. - Les dispositions du titre Ier et du titre II du livre VI du code de
 commerce ou celles équivalentes régissant toutes procédures judiciaires ou
 amiables ouvertes hors de France ne font pas obstacle à l'application du présent
 titre.
+
+IV. - Lorsque les instruments financiers, effets, créances, sommes d'argent ou
+tout instrument similaire émis sur le fondement d'un droit étranger sont
+inscrits dans un registre, un compte ou auprès d'un dépositaire central ou d'un
+système, régi par un droit étranger, de dépôt centralisé situés dans un Etat
+partie à l'accord sur l'Espace économique européen, et remis ou constitués en
+garantie pour satisfaire aux obligations de paiement découlant de la
+participation à un système de règlement interbancaire ou de règlement et de
+livraison d'instruments financiers tel que défini à l'article L. 330-1, les
+droits du bénéficiaire de ladite garantie sont déterminés par la loi applicable
+au lieu de ladite inscription.

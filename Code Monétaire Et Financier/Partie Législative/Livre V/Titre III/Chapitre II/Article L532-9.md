@@ -17,8 +17,8 @@ montant de leur participation ; la commission apprécie la qualité de ces
 actionnaires au regard de la nécessité de garantir une gestion saine et prudente
 ;
 
-4. Est dirigée effectivement par des personnes possédant l'honorabilité
-nécessaire et l'expérience adéquate à leur fonction ;
+4. Est dirigée effectivement par des personnes possédant l'honorabilité et la
+compétence nécessaires ainsi que l'expérience adéquate à leur fonction ;
 
 5. Voit son orientation déterminée par deux personnes au moins ;
 
@@ -39,6 +39,11 @@ l'Espace économique européen et dont relèvent une ou plusieurs de ces personn
 La Commission des opérations de bourse statue, après l'avis prévu à l'article L.
 621-29, dans un délai de trois mois à compter de la présentation de la demande.
 Sa décision est motivée et notifiée au demandeur.
+
+La commission peut assortir l'agrément de conditions particulières visant à
+préserver l'équilibre de la structure financière de la société de gestion. Elle
+peut également subordonner l'octroi de l'agrément au respect d'engagements
+souscrits par la société requérante.
 
 Un règlement de la Commission des opérations de bourse pris conformément aux
 dispositions de l'article L. 621-29 précise les conditions d'agrément des

@@ -22,7 +22,12 @@ d'instruments financiers et aux personnes morales mentionnées aux articles L.
 
 7. Aux personnes qui réalisent, contrôlent, ou conseillent des opérations
 portant sur l'acquisition, la vente, la cession ou la location de biens
-immobiliers.
+immobiliers ;
+
+8. Aux représentants légaux et aux directeurs responsables de casinos ;
+
+9. Aux personnes se livrant habituellement au commerce ou organisant la vente de
+pierres précieuses, de matériaux précieux, d'antiquités et d'oeuvres d'art.
 
 Pour l'application du présent titre, les personnes mentionnées aux 1 à 6 sont
 désignées sous le nom d'organismes financiers.

@@ -10,10 +10,10 @@ Toutefois, si la société exploite un établissement bancaire ou financier, cet
 interdiction ne s'applique pas aux opérations courantes de ce commerce conclues
 à des conditions normales.
 
-La même interdiction s'applique aux directeurs généraux et aux représentants
-permanents des personnes morales administrateurs. Elle s'applique également aux
-conjoint, ascendants et descendants des personnes visées au présent article
-ainsi qu'à toute personne interposée.
+La même interdiction s'applique au directeur général, aux directeurs généraux
+délégués et aux représentants permanents des personnes morales administrateurs.
+Elle s'applique également aux conjoint, ascendants et descendants des personnes
+visées au présent article ainsi qu'à toute personne interposée.
 
 L'interdiction ne s'applique pas aux prêts qui sont consentis par la société en
 application des dispositions de l'article L. 313-1 du code de la construction et

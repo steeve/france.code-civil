@@ -1,35 +1,49 @@
 Article L431-7
 ----
-Lorsque des opérations sur instruments financiers sont effectuées dans le cadre
-du règlement général du conseil des marchés financiers ou sont régies par une
-convention-cadre respectant d'une part, les principes généraux d'une
-convention-cadre de place nationale ou internationale et organisant d'autre
-part, les relations entre deux parties au moins dont l'une est un prestataire de
-services d'investissement ou un établissement public ou une institution,
-entreprise ou un établissement mentionné à l'article L. 531-2 ou un
-établissement non résident ayant un statut comparable, les dettes et créances
-afférentes à ces opérations sont compensables selon les modalités d'évaluation
-prévues par le règlement général ou la convention-cadre.
+Les dettes et les créances afférentes aux opérations sur instruments financiers,
+lorsqu'elles sont effectuées dans le cadre du règlement général du Conseil des
+marchés financiers, ainsi que les dettes et les créances afférentes aux
+opérations sur instruments financiers ou transferts temporaires de propriété
+d'instruments financiers lorsqu'elles sont régies par une ou plusieurs
+conventions-cadres respectant les principes généraux de conventions-cadres de
+place, nationales ou internationales, et organisant les relations entre deux
+parties au moins, dont l'une est un prestataire de services d'investissement, ou
+un établissement public ou une institution, entreprise ou un établissement
+bénéficiaire des dispositions de l'article L. 531-2 ou un établissement non
+résident ayant un statut comparable, sont compensables selon les modalités
+prévues par ledit règlement ou lesdites conventions-cadres et peuvent donner
+lieu à l'établissement d'un solde unique compensé.
 
-Lorsque l'une des parties fait l'objet d'une des procédures de redressement et
-de liquidation judiciaires prévues par le livre VI du code de commerce, le
-règlement général ou la convention-cadre peuvent prévoir la résiliation de plein
-droit des opérations mentionnées à l'alinéa précédent.
+S'il existe deux conventions-cadres ou plus entre les parties, celles-ci - pour
+autant que ces parties soient un établissement de crédit, une entreprise
+d'investissement, une institution visée à l'article L. 518-1 ou un établissement
+non résident ayant un statut comparable - peuvent les lier entre elles en sorte
+que les soldes résultant de la compensation qui viendrait à être effectuée pour
+chaque convention-cadre conformément à l'alinéa précédent fassent à leur tour
+l'objet d'une compensation entre eux.
+
+Lorsque l'une des parties fait l'objet de l'une des procédures prévues par le
+livre VI du code de commerce, ledit règlement ou lesdites conventions-cadres
+peuvent prévoir la résiliation de plein droit des opérations mentionnées aux
+premier et deuxième alinéas du présent article.
 
 Les modalités de résiliation, d'évaluation et de compensation prévues par le
-règlement général ou conventions-cadre sont opposables aux créanciers
-saisissants. Toute opération de résiliation, évaluation et compensation
-effectuée en raison d'une procédure civile d'exécution est réputée être
-intervenue avant ladite procédure.
+règlement, la ou les conventions-cadres visées aux alinéas précédents sont
+opposables aux créanciers saisissants. Toute opération de résiliation,
+d'évaluation ou de compensation effectuée en raison d'une procédure civile
+d'exécution est réputée être intervenue avant ladite procédure.
 
-La cession de créances résultant des opérations régies par la convention-cadre
-mentionnée au premier alinéa est opposable aux tiers par l'accord écrit du
-débiteur cédé. Les parties à la convention-cadre peuvent également prévoir pour
-ces opérations des remises en pleine propriété, à titre de garantie, de valeurs,
-titres, effets ou de sommes d'argent pour tenir compte de l'évolution de la
-valeur de ces opérations. Ces remises sont opposables aux tiers sans formalité.
-Les dettes et les créances relatives à ces remises et celles afférentes à ces
-opérations sont compensables conformément aux dispositions du premier alinéa.
+La cession de créances afférentes aux opérations régies par la ou les
+conventions-cadres visées au premier alinéa du présent article est opposable aux
+tiers par l'accord écrit du débiteur cédé. A titre de garantie des obligations
+découlant de la ou des conventions-cadres, les parties peuvent également prévoir
+des remises, en pleine propriété, à titre de garantie et opposables aux tiers
+sans formalité, de valeurs, titres, effets, créances ou de sommes d'argent, ou
+la constitution de sûretés sur de tels biens et droits, réalisables même lorsque
+l'une des parties fait l'objet d'une des procédures visées au troisième alinéa
+du présent article. Les dettes et créances relatives à ces remises et sûretés et
+celles afférentes auxdites obligations sont alors compensables conformément aux
+dispositions des premier et deuxième alinéas du présent article.
 
 Les dispositions du livre VI du code de commerce ne font pas obstacle à
 l'application du présent article.

@@ -4,9 +4,9 @@ Les règles relatives à l'information sur les prises de participations
 significatives sont fixées par les articles L. 233-7 à L. 233-14 du code de
 commerce, reproduits ci-après :
 
-" Art. L. 233-7. - Toute personne physique ou morale agissant seule ou de
-concert qui vient à posséder un nombre d'actions représentant plus du vingtième,
-du dixième, du cinquième, du tiers, de la moitié ou des deux tiers du capital ou
+Art. L. 233-7. - Toute personne physique ou morale agissant seule ou de concert
+qui vient à posséder un nombre d'actions représentant plus du vingtième, du
+dixième, du cinquième, du tiers, de la moitié ou des deux tiers du capital ou
 des droits de vote d'une société ayant son siège sur le territoire de la
 République et dont les actions sont admises aux négociations sur un marché
 réglementé informe cette société dans un délai de quinze jours à compter du
@@ -57,6 +57,13 @@ peut être motivé que par des modifications importantes dans l'environnement, l
 situation ou l'actionnariat des personnes concernées, une nouvelle déclaration
 doit être établie.
 
+L'intermédiaire inscrit comme détenteur de titres conformément au troisième
+alinéa de l'article L. 228-1 est tenu, sans préjudice des obligations des
+propriétaires des titres, d'effectuer les déclarations prévues au présent
+article, pour l'ensemble des actions de la société au titre desquelles il est
+inscrit en compte. La violation des obligations découlant du présent alinéa est
+sanctionnée conformément aux dispositions de l'article L. 228-3-3.
+
 Art. L. 233-8. - Au plus tard dans les quinze jours qui suivent l'assemblée
 générale ordinaire, toute société par actions informe ses actionnaires du nombre
 total de droits de vote existant à cette date. Dans la mesure où, entre deux
@@ -85,7 +92,7 @@ mentionnées aux 1° à 3° ci-dessus est en droit d'acquérir à sa seule initi
 en vertu d'un accord.
 
 Art. L. 233-10. - I. - Sont considérées comme agissant de concert les personnes
-qui ont conclu un accord en vue d'acquérir ou de céder des droits de vote ou en
+qui ont conclu un accord en vue d'acquérir ou de céder des droits de vote, ou en
 vue d'exercer des droits de vote pour mettre en oeuvre une politique commune
 vis-à-vis de la société.
 
@@ -158,4 +165,4 @@ ses droits de vote à l'encontre de tout actionnaire qui n'aurait pas procédé 
 déclarations prévues à l'article L. 233-7 ou qui n'aurait pas respecté le
 contenu de la déclaration prévue au septième alinéa de cet article pendant la
 période de douze mois suivant sa publication par le Conseil des marchés
-financiers. "
+financiers.

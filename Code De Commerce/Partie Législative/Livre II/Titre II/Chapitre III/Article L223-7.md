@@ -1,20 +1,17 @@
 Article L223-7
 ----
-Les parts sociales doivent être souscrites en totalité par les associés et
-intégralement libérées, lorsqu'elles représentent des apports en nature ou en
-numéraire.
+Les parts sociales doivent être souscrites en totalité par les associés. Elles
+doivent être intégralement libérées lorsqu'elles représentent des apports en
+nature. Les parts représentant des apports en numéraire doivent être libérées
+d'au moins un cinquième de leur montant. La libération du surplus intervient en
+une ou plusieurs fois sur décision du gérant, dans un délai qui ne peut excéder
+cinq ans à compter de l'immatriculation de la société au registre du commerce et
+des sociétés. Toutefois, le capital social doit être intégralement libéré avant
+toute souscription de nouvelles parts sociales à libérer en numéraire, à peine
+de nullité de l'opération.
 
-Les parts sociales ne peuvent représenter des apports en industrie. Toutefois,
-lorsque l'objet de la société porte sur l'exploitation d'un fonds de commerce ou
-d'une entreprise artisanale apporté à la société ou créé par elle à partir
-d'éléments corporels ou incorporels qui lui sont apportés en nature, l'apporteur
-en nature, ou son conjoint, peut apporter son industrie lorsque son activité
-principale est liée à la réalisation de l'objet social. Sans préjudice de
-l'application du deuxième alinéa de l'article 1844-1 du code civil, la
-quote-part du conjoint apporteur en industrie dans sa contribution aux pertes
-est déterminée par les statuts sans qu'elle puisse être supérieure à celle de
-l'associé qui a le moins apporté. Les statuts déterminent les modalités selon
-lesquelles ces parts sociales sont souscrites.
+Le cas échéant, les statuts déterminent les modalités selon lesquelles peuvent
+être souscrites des parts sociales en industrie.
 
 La répartition des parts sociales est mentionnée dans les statuts.
 

@@ -1,17 +1,43 @@
 Article L430-7
 ----
-Les décisions mentionnées au présent titre sont prises selon la procédure prévue
-au deuxième alinéa de l'article L. 463-2 et aux articles L. 463-4, L. 463-6 et
-L. 463-7. Toutefois, les intéressés doivent produire leurs observations en
-réponse à la communication du rapport dans un délai d'un mois.
+I.-Lorsque le conseil de la concurrence a été saisi, l'opération de
+concentration fait l'objet d'une décision dans un délai de quatre semaines à
+compter de la remise de l'avis du conseil au ministre chargé de l'économie.
 
-Ces décisions sont motivées et publiées au Bulletin officiel de la concurrence,
-de la consommation et de la répression des fraudes avec l'avis du Conseil de la
-concurrence.
+II.-Après avoir pris connaissance de l'avis du Conseil de la concurrence, les
+parties peuvent proposer des engagements de nature à remédier aux effets
+anticoncurrentiels de l'opération avant la fin d'un délai de quatre semaines à
+compter de la date de remise de l'avis au ministre, à moins que l'opération
+n'ait déjà fait l'objet de la décision prévue au I.
 
-En cas de non-respect de ces décisions ou des engagements mentionnés à l'article
-L. 430-3, le ministre chargé de l'économie et le ministre dont relève le secteur
-économique intéressé peuvent, après consultation du Conseil de la concurrence et
-dans les limites de son avis, prononcer une sanction pécuniaire dont le montant
-est défini conformément aux troisième et quatrième alinéas de l'article L.
-464-2.
+Si les engagements sont transmis au ministre plus d'une semaine après la date de
+remise de l'avis au ministre, le délai mentionné au I expire trois semaines
+après la date de réception desdits engagements par le ministre.
+
+III.-Le ministre chargé de l'économie et, le cas échéant, le ministre chargé du
+secteur économique concerné peuvent, par arrêté motivé :
+
+-soit interdire l'opération de concentration et enjoindre, le cas échéant, aux
+parties de prendre toute mesure propre à rétablir une concurrence suffisante ;
+
+-soit autoriser l'opération en enjoignant aux parties de prendre toute mesure
+propre à assurer une concurrence suffisante ou en les obligeant à observer des
+prescriptions de nature à apporter au progrès économique et social une
+contribution suffisante pour compenser les atteintes à la concurrence.
+
+Les injonctions et prescriptions mentionnées aux deux alinéas précédents
+s'imposent quelles que soient les clauses contractuelles éventuellement conclues
+par les parties.
+
+Le projet d'arrêté est transmis aux parties intéressées, auxquelles un délai est
+imparti pour présenter leurs observations.
+
+IV.-Si le ministre chargé de l'économie et le ministre chargé du secteur
+économique concerné n'entendent prendre aucune des deux décisions prévues au
+III, le ministre chargé de l'économie autorise l'opération, par une décision
+motivée.L'autorisation peut être subordonnée à la réalisation effective des
+engagements pris par les parties qui ont procédé à la notification.
+
+V.-Si aucune des trois décisions prévues aux III et IV n'a été prise dans le
+délai mentionné au I, éventuellement prolongé en application du II, l'opération
+est réputée avoir fait l'objet d'une décision d'autorisation.

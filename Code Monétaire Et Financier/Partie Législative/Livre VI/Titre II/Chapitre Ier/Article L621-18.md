@@ -9,7 +9,12 @@ publient.
 
 Elle peut ordonner à ces sociétés de procéder à des publications rectificatives
 dans le cas où des inexactitudes ou des omissions auraient été relevées dans les
-documents publiés.
+documents publiés. Faute pour les sociétés intéressées de déférer à cette
+injonction, la Commission des opérations de bourse peut procéder elle-même à ces
+publications rectificatives.
 
 La commission peut porter à la connaissance du public les observations qu'elle a
 été amenée à faire à une société ou les informations qu'elle estime nécessaires.
+
+Les frais occasionnés par les publications mentionnées aux deux alinéas
+précédents sont à la charge des sociétés intéressées.

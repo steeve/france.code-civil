@@ -39,4 +39,7 @@ droits civiques, civils et de famille ;
 ;
 
 11° L'interdiction, pour une durée de cinq ans au plus, de quitter le territoire
-de la République.
+de la République ;
+
+12° La confiscation de tout ou partie des biens du condamné, quelle qu'en soit
+la nature, meubles ou immeubles, divis ou indivis.

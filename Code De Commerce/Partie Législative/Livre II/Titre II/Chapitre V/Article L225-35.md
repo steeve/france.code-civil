@@ -1,9 +1,10 @@
 Article L225-35
 ----
-Le conseil d'administration est investi des pouvoirs les plus étendus pour agir
-en toute circonstance au nom de la société. Il les exerce dans la limite de
-l'objet social et sous réserve de ceux expressément attribués par la loi aux
-assemblées d'actionnaires.
+Le conseil d'administration détermine les orientations de l'activité de la
+société et veille à leur mise en oeuvre. Sous réserve des pouvoirs expressément
+attribués aux assemblées d'actionnaires et dans la limite de l'objet social, il
+se saisit de toute question intéressant la bonne marche de la société et règle
+par ses délibérations les affaires qui la concernent.
 
 Dans les rapports avec les tiers, la société est engagée même par les actes du
 conseil d'administration qui ne relèvent pas de l'objet social, à moins qu'elle
@@ -11,8 +12,10 @@ ne prouve que le tiers savait que l'acte dépassait cet objet ou qu'il ne pouvai
 l'ignorer compte tenu des circonstances, étant exclu que la seule publication
 des statuts suffise à constituer cette preuve.
 
-Les dispositions des statuts limitant les pouvoirs du conseil d'administration
-sont inopposables aux tiers.
+Le conseil d'administration procède aux contrôles et vérifications qu'il juge
+opportuns. Chaque administrateur reçoit toutes les informations nécessaires à
+l'accomplissement de sa mission et peut se faire communiquer tous les documents
+qu'il estime utiles.
 
 Les cautions, avals et garanties donnés par des sociétés autres que celles
 exploitant des établissements bancaires ou financiers font l'objet d'une

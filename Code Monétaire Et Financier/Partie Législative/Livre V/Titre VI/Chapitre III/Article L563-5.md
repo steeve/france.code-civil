@@ -13,5 +13,6 @@ recueillies à des officiers de police judiciaire désignés par le ministre de
 l'intérieur dans les conditions fixées par décret en Conseil d'Etat, ainsi
 qu'aux autorités de contrôle. Il peut également communiquer ces informations au
 service des douanes. Il peut recevoir des officiers de police judiciaire et des
-autorités de contrôle les informations nécessaires à l'accomplissement de sa
-mission.
+autorités de contrôle, ainsi que des administrations de l'Etat, des
+collectivités territoriales et de leurs établissements publics, toutes les
+informations nécessaires à l'accomplissement de sa mission.

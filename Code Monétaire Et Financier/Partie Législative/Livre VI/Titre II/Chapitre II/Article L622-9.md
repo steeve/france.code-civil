@@ -1,15 +1,16 @@
 Article L622-9
 ----
-I. - Le Conseil des marchés financiers veille au respect par les prestataires de
-services d'investissement exerçant leur activité en France, les intermédiaires
-habilités en vue de la conservation ou de l'administration d'instruments
-financiers, les dépositaires centraux, les membres des marchés réglementés
-mentionnés à l'article L. 421-8, les entreprises de marché et les chambres de
-compensation des obligations professionnelles auxquelles ils sont astreints en
-vertu du présente code et du règlement général du Conseil des marchés
-financiers. Ce contrôle s'exerce sous réserve des compétences de la commission
-bancaire et, en matière de contrôle des personnes fournissant le service
-mentionné au 4 de l'article L. 321-1, de la Commission des opérations de bourse.
+I. - Le Conseil des marchés financiers veille, par des contrôles sur pièces et
+sur place, au respect par les prestataires de services d'investissement exerçant
+leur activité en France, les intermédiaires habilités en vue de la conservation
+ou de l'administration d'instruments financiers, les dépositaires centraux, les
+membres des marchés réglementés mentionnés à l'article L. 421-8, les entreprises
+de marché et les chambres de compensation des obligations professionnelles
+auxquelles ils sont astreints en vertu du présente code et du règlement général
+du Conseil des marchés financiers. Ce contrôle s'exerce sous réserve des
+compétences de la commission bancaire et, en matière de contrôle des personnes
+fournissant le service mentionné au 4 de l'article L. 321-1, de la Commission
+des opérations de bourse.
 
 Le Conseil des marchés financiers veille également à la régularité des
 opérations effectuées sur un marché réglementé.

@@ -12,9 +12,7 @@ solliciter les autorisations nécessaires pour les terminer ;
 écrit dans lequel il rend compte des opérations de liquidation au cours de
 l'exercice écoulé, dans les trois mois de la clôture de chaque exercice ;
 
-3° De ne pas permettre aux associés d'exercer, en période de liquidation, leur
-droit de communication des documents sociaux dans les mêmes conditions
-qu'antérieurement ;
+3° (supprimé) ;
 
 4° De ne pas convoquer au moins une fois par an les associés pour leur rendre
 des comptes annuels, en cas de continuation de l'exploitation sociale ;

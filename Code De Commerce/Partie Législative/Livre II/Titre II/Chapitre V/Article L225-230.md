@@ -1,7 +1,7 @@
 Article L225-230
 ----
-Un ou plusieurs actionnaires représentant au moins le dixième du capital social,
-le comité d'entreprise, le ministère public et, dans les sociétés faisant
+Un ou plusieurs actionnaires représentant au moins 5 % du capital social, le
+comité d'entreprise, le ministère public et, dans les sociétés faisant
 publiquement appel à l'épargne, la Commission des opérations de bourse peuvent,
 dans le délai et les conditions fixés par décret en Conseil d'Etat, demander en
 justice la récusation pour juste motif d'un ou plusieurs commissaires aux

@@ -10,19 +10,10 @@ second à les rétrocéder pour un prix et à une date convenus.
 
 Les valeurs, titres ou effets mentionnés ci-dessus sont :
 
-1. Les valeurs mobilières admises aux négociations sur un marché réglementé
-français ou étranger ;
+1. Les instruments financiers visés aux 1, 2 et 3 de l'article L. 211-1 ou tous
+instruments équivalents émis sur le fondement de droits étrangers ;
 
-2. Les titres de créances négociables sur un marché réglementé ou de gré à gré ;
-
-3. Les parts de fonds communs de créances qui n'ont pas fait l'objet d'une
-admission aux négociations sur un marché réglementé ;
-
-4. Les effets publics ou privés.
+2. Les effets publics ou privés.
 
 Toutefois, seuls les établissements de crédit peuvent prendre ou mettre en
 pension les effets privés.
-
-Les parties peuvent également convenir de remises complémentaires, en pleine
-propriété, de valeurs, titres ou effets ou de sommes d'argent, pour tenir compte
-de l'évolution de la valeur des titres ou des effets mis en pension.

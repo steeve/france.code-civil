@@ -10,11 +10,20 @@ permettant l'exécution à titre habituel, par compensation ou non, de paiements
 ainsi que, pour ce qui concerne les systèmes de règlement et de livraison
 d'instruments financiers, la livraison de titres entre lesdits participants.
 
-Cette procédure est soit instituée par une autorité publique, soit régie par une
+Sans préjudice des dispositions du 4 du IV de l'article L. 622-7 (1), le système
+doit soit avoir été institué par une autorité publique, soit être régi par une
 convention-cadre respectant les principes généraux d'une convention-cadre de
-place ou par une convention type. Lorsqu'elle concerne des systèmes de règlement
-et de livraison d'instruments financiers, la procédure est en outre approuvée
-par le conseil des marchés financiers.
+place ou par une convention type. Le ministre chargé de l'économie notifie à la
+Commission européenne la liste des systèmes bénéficiant des dispositions du
+présent titre.
+
+Lorsqu'une procédure de redressement ou de liquidation judiciaires est ouverte à
+l'encontre d'un participant à un système de règlement interbancaire ou de
+règlement et de livraison d'instruments financiers de l'Espace économique
+européen, les droits et obligations découlant de sa participation ou liés à
+cette participation audit système sont déterminés par la loi qui régit le
+système, sous réserve que cette loi soit celle d'un Etat partie à l'accord sur
+l'Espace économique européen.
 
 II. - Nonobstant toute disposition législative contraire, les paiements et les
 livraisons d'instruments financiers effectués dans le cadre de systèmes de
