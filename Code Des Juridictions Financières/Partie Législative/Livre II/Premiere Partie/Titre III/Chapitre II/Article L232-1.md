@@ -5,14 +5,15 @@ collectivités territoriales et de leurs établissements publics s'exerce dans l
 conditions prévues par le chapitre II du titre unique du livre VI de la première
 partie du code général des collectivités territoriales ci-après reproduit :
 
-Art.L. 1612-1.- Dans le cas où le budget d'une collectivité territoriale n'a pas
+Art.L. 1612-1.-Dans le cas où le budget d'une collectivité territoriale n'a pas
 été adopté avant le 1er janvier de l'exercice auquel il s'applique, l'exécutif
 de la collectivité territoriale est en droit, jusqu'à l'adoption de ce budget,
 de mettre en recouvrement les recettes et d'engager, de liquider et de mandater
 les dépenses de la section de fonctionnement dans la limite de celles inscrites
-au budget de l'année précédente. Il est en droit de mandater les dépenses
-afférentes au remboursement en capital des annuités de la dette venant à
-échéance avant le vote du budget.
+au budget de l'année précédente.
+
+Il est en droit de mandater les dépenses afférentes au remboursement en capital
+des annuités de la dette venant à échéance avant le vote du budget.
 
 En outre, jusqu'à l'adoption du budget ou jusqu'au 31 mars, en l'absence
 d'adoption du budget avant cette date, l'exécutif de la collectivité
@@ -22,13 +23,17 @@ ouverts au budget de l'exercice précédent, non compris les crédits afférents
 remboursement de la dette, et, pour les dépenses à caractère pluriannuel
 incluses dans une autorisation de programme, les liquider et les mandater dans
 la limite des crédits de paiement prévus au titre de l'exercice par la
-délibération d'ouverture d'autorisation de programme. L'autorisation mentionnée
-à l'alinéa ci-dessus précise le montant et l'affectation des crédits. Les
-crédits correspondants, visés aux alinéas ci-dessus, sont inscrits au budget
+délibération d'ouverture d'autorisation de programme.
+
+L'autorisation mentionnée à l'alinéa ci-dessus précise le montant et
+l'affectation des crédits.
+
+Les crédits correspondants, visés aux alinéas ci-dessus, sont inscrits au budget
 lors de son adoption. Le comptable est en droit de payer les mandats et
-recouvrer les titres de recettes émis dans les conditions ci-dessus. Le présent
-article s'applique aux régions, sous réserve des dispositions du dernier alinéa
-de l'article L. 4311-3.
+recouvrer les titres de recettes émis dans les conditions ci-dessus.
+
+Le présent article s'applique aux régions, sous réserve des dispositions du
+dernier alinéa de l'article L. 4311-3.
 
 Art.L. 1612-2.-Si le budget n'est pas adopté avant le 31 mars de l'exercice
 auquel il s'applique, ou avant le 15 avril de l'année du renouvellement des
@@ -48,6 +53,9 @@ l'absence de communication avant le 15 mars à l'organe délibérant d'informati
 indispensables à l'établissement du budget. La liste de ces informations est
 fixée par décret. Dans ce cas, l'organe délibérant dispose de quinze jours à
 compter de cette communication pour arrêter le budget.
+
+Le présent article est applicable aux régions, sous réserve des dispositions de
+l'article L. 4311-1-1.
 
 Art.L. 1612-3.-En cas de création d'une nouvelle collectivité territoriale,
 l'organe délibérant adopte le budget dans un délai de trois mois à compter de
@@ -168,6 +176,17 @@ doit intervenir au plus tard le 30 juin de l'année suivant l'exercice.
 
 Le compte administratif est arrêté si une majorité des voix ne s'est pas dégagée
 contre son adoption.
+
+Lorsque le compte administratif fait l'objet d'un rejet par l'assemblée
+délibérante, le projet de compte administratif joint à la délibération de rejet
+tel que présenté selon le cas par le maire, le président du conseil général ou
+le président du conseil régional, s'il est conforme au compte de gestion établi
+par le comptable, après avis rendu sous un mois par la chambre régionale des
+comptes, saisie sans délai par le représentant de l'Etat, est substitué au
+compte administratif pour la mise en oeuvre des dispositions prévues aux
+articles L. 1424-35, L. 2531-13 et L. 4434-9 et pour la liquidation des
+attributions au titre du Fonds de compensation pour la taxe sur la valeur
+ajoutée prévue à l'article L. 1615-6.
 
 Art.L. 1612-13.-Le compte administratif est transmis au représentant de l'Etat
 dans le département au plus tard quinze jours après le délai limite fixé pour
