@@ -18,6 +18,5 @@ D. 134-1 à D. 134-9.
 c) Le montant ainsi obtenu n'est versé ou reçu qu'à hauteur d'une partie de sa
 valeur calculée.
 
-d) Le taux applicable pour calculer le montant défini au c est égal à 22 p. 100.
-Toutefois, ce taux est fixé à 30 p. 100 pour l'exercice 1992 et à 38 p. 100 à
-compter de l'exercice 1993.
+d) Le taux applicable pour calculer le montant défini au c est égal à 34 % pour
+l'exercice 2000 et à 30 % à compter de l'exercice 2001.
