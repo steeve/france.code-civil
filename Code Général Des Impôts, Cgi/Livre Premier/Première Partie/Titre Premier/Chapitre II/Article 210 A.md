@@ -43,3 +43,14 @@ l'apport.
 pour l'imposition au taux réduit, prévu à l'article 219-I-a, des plus-values à
 long terme afférentes à ses éléments amortissables. Dans ce cas, le montant des
 réintégrations visées au 3-d est réduit à due concurrence.
+
+5. Les droits afférents à un contrat de crédit-bail conclu dans les conditions
+prévues aux 1° et 2° de l'article 1er de la loi n° 66-455 du 2 juillet 1966
+relative aux entreprises pratiquant le crédit-bail sont assimilés à des éléments
+de l'actif immobilisé, amortissables ou non amortissables dans les conditions
+prévues à l'article 39 duodecies A.
+
+Pour l'application du c du 3, en cas de cession ultérieure des droits mentionnés
+à l'alinéa précédent qui sont assimilés à des éléments non amortissables ou de
+cession du terrain, la plus-value est calculée d'après la valeur que ces droits
+avaient, du point de vue fiscal, dans les écritures de la société absorbée.

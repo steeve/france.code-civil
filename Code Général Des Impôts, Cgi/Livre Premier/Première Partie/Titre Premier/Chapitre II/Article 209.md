@@ -31,7 +31,11 @@ applicable à la fraction du déficit qui correspond aux amortissements
 régulièrement comptabilisés mais réputés différés en période déficitaire.
 Toutefois, cette faculté de report cesse de s'appliquer si l'entreprise reprend
 tout ou partie des activités d'une autre entreprise ou lui transfère tout ou
-partie de ses propres activités.
+partie de ses propres activités, lorsque ces opérations de reprise ou de
+transfert concernent, au cours d'un exercice donné, pour l'une ou l'autre de ces
+entreprises, des activités représentant au moins 5 p. 100 soit du montant brut
+des éléments de l'actif immobilisé, soit du chiffre d'affaires, soit de
+l'effectif des salariés.
 
 II. Sous réserve d'un agrément préalable délivré par le ministre de l'économie
 et des finances (1) et dans la mesure définie par cet agrément, les fusions de
@@ -41,4 +45,19 @@ report des déficits antérieurs non encore déduits soit par les sociétés
 apporteuses, soit par les sociétés bénéficiaires des apports, sur les bénéfices
 ultérieurs de ces dernières.
 
+III. Il peut être dérogé, sur agrément préalable délivré par le ministre de
+l'économie et des finances et dans la mesure définie par cet agrément, à
+l'application des dispositions de la dernière phrase du dernier alinéa du I
+ci-dessus en cas de transfert d'activité, de fusion ou d'opérations assimilées.
+L'agrément est accordé si, compte tenu de l'origine des déficits, l'avantage
+fiscal est justifié du point de vue économique et social, eu égard à la nature
+et à l'importance des activités respectivement transférées et conservées (2).
+
 (1) Voir art. 1649 nonies, annexe IV, art. 170 sexies.
+
+(2) Ces dispositions s'appliquent aux opérations de reprise ou de transfert
+d'activités réalisées à compter du 1er janvier 1991.
+
+[*Cf. Instruction 1995-02-06 4A-2-95, Notes 1996-01-02 4E-1-96, 1996-03-18
+4E-2-96. Instructions 1997-01-28 4A-1-97, 1997-02-05 4E-1-97, 1998-04-02
+4E-2-98.*]

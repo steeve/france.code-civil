@@ -5,7 +5,7 @@ cautionnées, à quatre mois d'échéance, pour le paiement des droits et taxes
 recouvrés par l'administration des douanes.
 
 2. Ces obligations ne sont pas admises lorsque la somme à payer d'après chaque
-décompte est inférieure à 250 F.
+décompte est inférieure à 5 000 F.
 
 3. Elles donnent lieu à un intérêt de crédit et à une remise spéciale dont le
 taux et le montant sont fixés par des arrêtés du ministre de l'économie et des

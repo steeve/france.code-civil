@@ -25,16 +25,14 @@ Cette condition est réputée remplie notamment :
 commerciale effective ;
 
 - et qu'elle réalise ses opérations de façon prépondérante sur le marché local
-ou avec des entreprises avec lesquelles il n'existe pas de lien de dépendance,
-ce lien étant apprécié dans les mêmes conditions qu'à l'article 39 terdecies-1
-bis, deuxième alinéa.
+(1).
 
 III. Un décret en Conseil d'Etat fixe les conditions d'application des
 dispositions qui précèdent et notamment les modalités permettant d'éviter la
 double imposition des bénéfices effectivement répartis ainsi que les obligations
-déclaratives de l'entreprise (1) (2).
+déclaratives de l'entreprise (2).
 
-(1) Disposition applicable à compter du 1er janvier 1980 [*date, point de
-départ*].
+(1) Cette disposition s'applique pour les exercices ouverts à compter du 1er
+janvier 1991.
 
-(2) Décret à émettre.
+(2) Voir Annexe II, art. 102 S à 102 Z.

@@ -22,14 +22,14 @@ fournitures de services.
 
 Toutefois, ces produits doivent être pris en compte :
 
-- pour les prestations continues rémunérées notamment par des intérêts ou des
+Pour les prestations continues rémunérées notamment par des intérêts ou des
 loyers et pour les prestations discontinues mais à échéances successives
 échelonnées sur plusieurs exercices, au fur et à mesure de l'exécution ;
 
-- pour les travaux d'entreprise donnant lieu à réception complète ou partielle,
-à la date de cette réception, même si elle est seulement provisoire ou faite
-avec réserves, ou à celle de la mise à la disposition du maître de l'ouvrage si
-elle est antérieure.
+Pour les travaux d'entreprise donnant lieu à réception complète ou partielle, à
+la date de cette réception, même si elle est seulement provisoire ou faite avec
+réserves, ou à celle de la mise à la disposition du maître de l'ouvrage si elle
+est antérieure.
 
 La livraison [*définition*] au sens du premier alinéa s'entend de la remise
 matérielle du bien lorsque le contrat de vente comporte une clause de réserve de
@@ -60,6 +60,13 @@ du fonds sont cédées par l'entreprise. Le profit ou la perte est déterminé p
 différence entre le prix de cession et la valeur des parts au bilan de
 l'entreprise (2).
 
+5 bis. Le profit ou la perte résultant de l'échange de titres consécutif à la
+fusion ou à la scission de sociétés d'investissement à capital variable et de
+fonds communs de placement est compris dans le résultat imposable de l'exercice
+au cours duquel les titres reçus en échange sont cédés. Lors de l'échange, ces
+derniers titres sont inscrits au bilan pour la valeur comptable des titres
+échangés.
+
 6. 1° Par exception aux 1 et 2, le profit ou la perte résultant de l'exécution
 de contrats à terme d'instruments financiers en cours à la clôture de l'exercice
 est compris dans les résultats de cet exercice ; il est déterminé d'après le
@@ -76,6 +83,15 @@ opération de l'exercice suivant, traitée sur un marché de nature différente,
 l'imposition du profit réalisé sur le contrat est reportée au dénouement de
 celui-ci, à condition que les opérations dont la compensation est envisagée
 figurent sur le document prévu au 3° (4) ;
+
+2° bis Le profit sur un contrat à terme portant sur des devises et ayant pour
+seul objet la couverture du risque de change d'une opération future est imposé
+au titre du ou des mêmes exercices que l'opération couverte à la condition que
+cette dernière soit identifiée dès l'origine par un acte ou un engagement précis
+et mesurable pris à l'égard d'un tiers. Les profits concernés et l'opération
+couverte doivent être mentionnés sur un document annexé à la déclaration des
+résultats de chaque exercice et établi conformément au modèle fixé par
+l'administration.
 
 3° Lorsqu'une entreprise a pris des positions symétriques, la perte sur une de
 ces positions n'est déductible du résultat imposable que pour la partie qui
@@ -149,7 +165,7 @@ est déterminée en fonction de leur prix de revient ;
 
 4° Un décret définit les modalités d'application du présent article ainsi que
 les obligations déclaratives des entreprises qui appliquent la méthode
-d'évaluation prévue au 1°.
+d'évaluation prévue au 1° (7).
 
 10. La plus-value de cession d'un immeuble par une société civile immobilière
 non soumise à l'impôt sur les sociétés dont les parts ont été affectées par une
@@ -168,7 +184,9 @@ nationalisation, voir art. 248 A.
 
 (2) Disposition applicable pour la détermination des résultats des exercices
 clos à compter du 16 avril 1986. Pour les exercices en cours à cette date, voir
-loi n°86-824 du 11 juillet 1986, art. 21-II. (3) Voir annexe III, art. 2 A.
+loi n°86-824 du 11 juillet 1986, art. 21-II.
+
+(3) Voir annexe III, art. 2 A.
 
 (4) Voir annexe III, art. 2 B.
 
@@ -176,3 +194,5 @@ loi n°86-824 du 11 juillet 1986, art. 21-II. (3) Voir annexe III, art. 2 A.
 
 (6) Ces dispositions s'appliquent aux opérations d'échange réalisées à compter
 du 1er janvier 1988.
+
+(7) Voir annexe III, art. 38 B.

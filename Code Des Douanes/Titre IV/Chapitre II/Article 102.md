@@ -1,8 +1,13 @@
 Article 102
 ----
-1. La vérification des marchandises déclarées dans les bureaux de douane ne peut
-être faite que dans les magasins de la douane ou dans les lieux désignés à cet
-effet par le service des douanes.
+1. La vérification des marchandises s'effectue dans les bureaux de douane et
+pendant les heures légales d'ouverture desdits bureaux.
+
+Toutefois, le service des douanes peut autoriser, à la demande du déclarant, la
+vérification des marchandises dans des lieux ou pendant des heures autres que
+ceux visés ci-dessus.
+
+Les frais qui peuvent en résulter sont à la charge du déclarant.
 
 2. Le transport des marchandises sur les lieux de la vérification, le déballage,
 le remballage et toutes les autres manipulations nécessitées par la vérification

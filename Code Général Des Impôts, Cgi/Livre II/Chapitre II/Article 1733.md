@@ -8,10 +8,17 @@ revenus et les taxes accessoires autres que la taxe d'apprentissage, lorsque
 l'insuffisance des chiffres déclarés n'excède pas le dixième de la base
 d'imposition.
 
+Toutefois, cette insuffisance ne doit pas être supérieure au vingtième de la
+base d'imposition en matière d'impôts sur les revenus et de taxes accessoires
+autres que la taxe d'apprentissage.
+
+En ce qui concerne les droits d'enregistrement ou la taxe de publicité foncière,
+l'insuffisance s'apprécie pour chaque bien.
+
 II. Pour l'application du I, sont assimilés à une insuffisance de déclaration
 lorsqu'ils ne sont pas justifiés :
 
-a) Les charges ouvrant droit aux réductions d'impôt prévues aux articles 199
+a) Les charges ouvrant droit aux réductions d'imp^ot prévues aux articles 199
 sexies, 199 sexies C et 199 septies ;
 
 b) Les dépenses de tenue de comptabilité et d'adhésion à un centre de gestion ou

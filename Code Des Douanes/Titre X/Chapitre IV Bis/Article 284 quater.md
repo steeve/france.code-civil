@@ -13,4 +13,6 @@ exclusivement par application de l'article 25 de la loi n° 52-401 du 14 avril
 
 3. Lorsque la taxe est recouvrée sur la base du tarif trimestriel, toute somme
 non réglée dans le délai de deux mois suivant la date d'exigibilité donne lieu à
-application d'une majoration de 10 % qui ne peut être inférieure à 10 F.
+application d'une majoration de 10 %.
+
+Cette majoration n'est mise en recouvrement que lorsque son montant excède 50 F.
