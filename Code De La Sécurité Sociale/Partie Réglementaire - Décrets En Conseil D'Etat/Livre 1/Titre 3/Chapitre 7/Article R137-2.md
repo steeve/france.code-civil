@@ -1,9 +1,7 @@
 Article R137-2
 ----
-A titre justificatif, les entreprises d'assurance doivent :
-
-1. Conserver un exemplaire de la déclaration mentionnée à l'article R. 137-1 ;
-
-2. Etablir un état récapitulatif annuel des assurés non assujettis indiquant les
-noms et adresses de ces assurés, les numéros des contrats souscrits par eux, les
-dates d'échéance et les montants des primes correspondantes.
+Lorsque la déclaration visée à l'article L. 137-7 n'a pas été produite dans les
+délais prescrits, le montant du produit des contributions peut être fixé à titre
+provisionnel par l'Agence centrale des organismes de sécurité sociale en
+fonction des versements effectués au titre des exercices antérieurs ou, à
+défaut, par tous autres moyens.

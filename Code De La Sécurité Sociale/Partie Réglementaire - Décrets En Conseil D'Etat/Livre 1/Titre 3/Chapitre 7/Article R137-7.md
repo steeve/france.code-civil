@@ -1,12 +1,6 @@
 Article R137-7
 ----
-Pour le règlement des cotisations non versées à la date limite d'exigibilité
-fixée à l'article R. 137-1, l'agent comptable de l'Agence centrale des
-organismes de sécurité sociale notifie au débiteur la créance par lettre
-recommandée avec accusé de réception.
-
-La notification de la créance mentionne notamment le montant en principal, les
-pénalités et majorations de retard et les conditions de règlement.
-
-Sous sa responsabilité personnelle et pécuniaire, l'agent comptable peut
-accorder des délais de paiement.
+Dès qu'il a connaissance de l'opposition, l'agent comptable de l'Agence centrale
+des organismes de sécurité sociale adresse au secrétariat du tribunal des
+affaires de sécurité sociale une copie du titre exécutoire ainsi que l'avis de
+réception par le débiteur dudit titre.

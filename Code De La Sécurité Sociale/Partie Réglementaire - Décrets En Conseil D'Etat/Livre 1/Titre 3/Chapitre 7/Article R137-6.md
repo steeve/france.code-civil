@@ -1,28 +1,24 @@
 Article R137-6
 ----
-Les entreprises d'assurance peuvent formuler une demande gracieuse en réduction
-des pénalités et majorations de retard résultant de l'application des articles
-R. 137-3 et R. 137-5. Cette requête n'est recevable qu'après règlement de la
-totalité des cotisations ayant donné lieu à application des majorations.
+A défaut de paiement ou de contestation dans le délai d'un mois, l'agent
+comptable de l'Agence centrale des organismes de sécurité sociale notifie le
+titre exécutoire au débiteur par lettre recommandée avec accusé de réception et
+poursuit le recouvrement par ministère d'huissier sauf opposition devant le
+tribunal des affaires de sécurité sociale.
 
-Le directeur de l'Agence centrale des organismes de sécurité sociale, sur avis
-conforme de l'agent comptable et du contrôleur d'Etat, statue sur les demandes
-portant sur des montants inférieurs à un seuil fixé par le conseil
-d'administration. A partir de ce seuil, le conseil d'administration statue sur
-proposition du directeur et sur avis conforme de l'agent comptable et du
-contrôleur d'Etat.
+Le débiteur peut former opposition par inscription au secrétariat du tribunal
+des affaires de sécurité sociale dans le ressort duquel il est domicilié ou par
+lettre recommandée avec demande d'avis de réception adressée au secrétariat
+dudit tribunal dans les quinze jours à compter de la notification.
 
-Il ne peut être accordé une remise des majorations et des pénalités de retard
-que si la bonne foi des entreprises est dûment prouvée. Les décisions du
-directeur et du conseil d'administration doivent être motivées.
+L'opposition doit être motivée ; une copie du titre exécutoire contesté doit lui
+être jointe.
 
-Lorsque le produit des cotisations est versé avec un retard d'un mois ou plus à
-compter de la date limite d'exigibilité, un minimum de majorations de retard des
-cotisations arriérées par mois ou fraction de mois de retard est laissé à la
-charge du débiteur. Son taux est celui prévu au quatrième alinéa de l'article R.
-243-20.
+La décision du tribunal des affaires de sécurité sociale statuant sur opposition
+est exécutoire de droit à titre provisoire.
 
-Toutefois, par dérogation à l'alinéa précédent, le conseil d'administration peut
-décider la remise intégrale des majorations dans des cas exceptionnels. La
-délibération du conseil n'est exécutoire qu'après approbation du ministre chargé
-de la sécurité sociale et du ministre chargé du budget.
+Le directeur de l'Agence centrale des organismes de sécurité sociale peut
+accorder le sursis à poursuites en accord avec l'agent comptable pour le
+règlement des contributions, des pénalités et majorations de retard. Le sursis
+doit être assorti de garanties du débiteur qui sont appréciées par l'agent
+comptable.

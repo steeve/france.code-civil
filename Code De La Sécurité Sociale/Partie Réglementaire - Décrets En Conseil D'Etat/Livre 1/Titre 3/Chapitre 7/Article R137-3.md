@@ -1,9 +1,11 @@
 Article R137-3
 ----
-Le défaut de production dans les délais prescrits de la déclaration visée à
-l'article R. 137-1 entraîne une pénalité de 5 000 F. Si le retard excède un
-mois, une pénalité identique est automatiquement appliquée pour chaque mois ou
-fraction de mois de retard.
+Il est appliqué une majoration de retard au montant des contributions qui n'ont
+pas été versées à la date limite d'exigibilité fixée à l'article L. 137-7. Son
+taux est celui prévu au premier alinéa de l'article R. 243-18.
 
-Une pénalité de 5 000 F est également encourue en cas d'inexactitude de la
-déclaration produite.
+Cette majoration de retard est augmentée d'un montant égal au produit du taux
+prévu au deuxième alinéa de l'article R. 243-18 par le montant des contributions
+dues, et ce pour chaque trimestre ou fraction de trimestre écoulé après
+l'expiration d'un délai de trois mois à compter des dates limites d'exigibilité
+susmentionnées.

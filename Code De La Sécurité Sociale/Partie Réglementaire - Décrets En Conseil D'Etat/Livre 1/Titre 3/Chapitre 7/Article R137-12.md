@@ -1,11 +1,7 @@
 Article R137-12
 ----
-Par dérogation aux dispositions de l'article R. 142-6, lorsque la décision du
-conseil d'administration n'a pas été portée à la connaissance du requérant dans
-le délai de deux mois, l'intéressé peut considérer sa demande comme rejetée et
-se pourvoir devant le tribunal des affaires de sécurité sociale.
-
-Le délai de deux mois prévu à l'alinéa précédent court à compter de la réception
-de la réclamation par l'agence. Toutefois, si des documents sont produits par le
-réclamant après le dépôt de la réclamation, le délai ne court qu'à compter de la
-réception de ces documents.
+Les dispositions des articles R. 142-8 à R. 142-23, R. 142-25, R. 142-27 à R.
+142-31, R. 144-1 à R. 144-6, R. 243-46 à R. 243-54 et R. 243-56 à R. 243-58
+s'appliquent aux litiges et créances relatifs au recouvrement par l'Agence
+centrale des organismes de sécurité sociale de la contribution mentionnée à
+l'article L. 137-6.
