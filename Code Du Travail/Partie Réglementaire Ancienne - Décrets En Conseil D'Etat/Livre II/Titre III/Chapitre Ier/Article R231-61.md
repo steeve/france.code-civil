@@ -1,7 +1,13 @@
 Article R231-61
 ----
-L'organisme agréé et les autorités administratives prennent toutes dispositions
-utiles pour que les informations reconnues par eux ou par l'autorité compétente
-d'un Etat membre des communautés européennes comme relevant du secret industriel
-et commercial ne soient accessibles qu'aux personnes qu'ils ont désignées pour
-en assurer la garde et qui sont astreintes au secret [*droit d'accès*].
+Au sens de la présente section, on entend par [*définition*] :
+
+a) Agents biologiques : les micro-organismes, y compris les micro-organismes
+génétiquement modifiés, les cultures cellulaires et les endoparasites humains
+susceptibles de provoquer une infection, une allergie ou une intoxication ;
+
+b) Micro-organisme : une entité microbiologique, cellulaire ou non, capable de
+se reproduire ou de transférer du matériel génétique ;
+
+c) Culture cellulaire : le résultat de la croissance in vitro de cellules
+isolées d'organismes multicellulaires.

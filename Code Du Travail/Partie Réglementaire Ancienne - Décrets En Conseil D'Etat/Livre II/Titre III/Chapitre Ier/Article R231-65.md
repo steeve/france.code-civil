@@ -1,8 +1,8 @@
 Article R231-65
 ----
-S'il conteste la nature ou l'importance des analyses demandées ou le délai qui
-lui est imposé par l'inspecteur du travail, le chef d'établissement peut
-adresser, dans les huit jours de la mise en demeure [*délai*], un recours au
-directeur départemental du travail et de l'emploi [*autorité compétente*], ou au
-fonctionnaire assimilé. Le recours est suspensif ; toutefois, il ne fait pas
-obstacle à l'exécution du prélévement.
+I. Un arrêté des ministres chargés du travail, de l'agriculture et de la santé
+fixe les recommandations en matière de surveillance médicale spéciale des
+travailleurs susceptibles d'être exposés à des agents biologiques.
+
+II. La fiche d'aptitude établie en application des articles R. 241-57 et R.
+242-23 est renouvelée au moins tous les ans.
