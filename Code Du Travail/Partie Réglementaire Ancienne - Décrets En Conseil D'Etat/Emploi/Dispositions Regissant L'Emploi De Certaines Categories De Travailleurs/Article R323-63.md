@@ -1,10 +1,7 @@
 Article R323-63
 ----
-Les arrêtés du ministre chargé du travail ayant pour objet l'attribution, sur
-les crédits inscrits à cet effet au budget de son département, de subventions à
-des établissements agréés de travail protégé, sont pris sur avis de la section
-permanente du Conseil supérieur pour le reclassement professionnel et social des
-travailleurs handicapés.
-
-Il est tenu compte, lors de cette attribution, des autres subventions que ces
-établissements pourraient recevoir.
+Les subventions prévues à l'article L. 323-31 ne peuvent être allouées qu'à des
+établissements agréés dans les conditions prévues à l'article précédent et
+donnent lieu, dans chaque cas, à l'établissement d'une convention précisant
+notamment l'objet de la subvention et les modalités du contrôle exercé par la
+collectivité publique ou l'organisme qui accorde la subvention.

@@ -1,6 +1,15 @@
 Article R323-61
 ----
-Les établissements de travail protégé et les centres de distribution de travail
-à domicile sont tenus [*obligations*] de faire parvenir chaque année [*période*]
-au ministre chargé du travail un rapport d'activité et de se soumettre au
-contrôle technique des agents du ministère chargé du travail.
+Les ateliers protégés et les centres de distribution de travail à domicile
+doivent satisfaire aux conditions techniques de fonctionnement qui sont
+déterminées par arrêté du ministre du travail.
+
+Chaque atelier protégé et chaque centre de distribution de travail est placé
+sous l'autorité d'un responsable, sans préjudice des responsabilités incombant à
+l'organisme gestionnaire. Quand un centre de distribution de travail ou une
+section de centre d'aide par le travail sont annexés à un atelier protégé, ils
+peuvent être placés sous l'autorité du même responsable.
+
+Chaque atelier protégé et chaque centre de distribution de travail fait l'objet
+d'une comptabilité distincte, qui est tenue conformément aux prescriptions du
+plan comptable général.
