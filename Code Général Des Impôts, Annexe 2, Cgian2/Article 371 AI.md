@@ -10,7 +10,22 @@ personnes ou organismes mentionnés à l'article 1er de la même loi.
 Ils reçoivent en outre les notifications effectuées par les greffes des
 tribunaux de commerce ou des tribunaux de grande instance statuant
 commercialement, en application de l'article 4-1 du décret n° 84-406 du 30 mai
-1984 modifié relatif au registre du commerce et des sociétés.
+1984 modifié relatif au registre du commerce et des sociétés. Ils sont informés
+par les organismes destinataires lorsque les déclarations contiennent des
+demandes au sujet desquelles une décision doit être prise.
 
 Les centres transmettent aux administrations, personnes ou organismes concernés,
 les déclarations ainsi que les renseignements mentionnés au deuxième alinéa.
+
+Les centres de formalités remettent à tout déclarant un livret, approuvé par
+arrêté du ministre de la justice et des ministres chargés des affaires sociales,
+du travail, de l'économie, des finances, du budget, de l'industrie, du commerce
+et de l'artisanat, du transport et de l'agriculture et de la pêche, précisant
+les obligations du centre ainsi que les éléments que doit contenir le dossier de
+déclaration.
+
+Ils transmettent les renseignements ou pièces à chacun des organismes
+destinataires selon sa compétence.
+
+Il leur est interdit de communiquer à des tiers les renseignements contenus dans
+les déclarations.
