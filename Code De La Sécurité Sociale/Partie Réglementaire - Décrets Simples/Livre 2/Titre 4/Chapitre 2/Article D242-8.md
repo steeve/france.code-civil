@@ -1,9 +1,18 @@
 Article D242-8
 ----
-Est fixé à 3,8 p. 100 le taux de la cotisation d'assurance maladie, maternité,
-invalidité, décès assise sur les avantages de retraite servis par les organismes
-du régime général de sécurité sociale des salariés.
+Le taux de la cotisation d'assurance maladie, maternité, invalidité, décès
+assise sur les avantages de retraite mentionnés à l'article L. 241-2, autres que
+ceux servis par les organismes du régime général de sécurité sociale des
+salariés, est fixé à 1 %.
 
-Est fixé à 4,8 p. 100 le taux de la cotisation d'assurance maladie maternité,
-invalidité, décès assise sur les autres avantages de retraite mentionnés à
-l'article L. 241-2.
+Toutefois, pour les personnes mentionnées au deuxième alinéa de l'article L.
+131-7-1 :
+
+1° Le taux de la cotisation d'assurance maladie, maternité, invalidité, décès
+assise sur les avantages de retraite servis par les organismes du régime général
+de sécurité sociale des salariés est fixé à 2,80 % ;
+
+2° Le taux de la cotisation d'assurance maladie, maternité, invalidité, décès
+assise sur les avantages de retraite mentionnés à l'article L. 241-2, autres que
+ceux servis par les organismes du régime général de sécurité sociale des
+salariés, est fixé à 3,80 %.

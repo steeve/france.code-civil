@@ -1,6 +1,6 @@
 Article R835-2
 ----
-Les dépenses du F.E.D.O.M. correspondent aux actions suivantes :
+Les dépenses du FEDOM correspondent aux actions suivantes :
 
 1° Le versement aux agences d'insertion d'une participation financière aux
 contrats d'insertion par l'activité ;
@@ -17,9 +17,8 @@ cours ;
 5° Le financement des primes à la création d'emploi ;
 
 6° Le versement aux agences d'insertion des sommes dues à l'Union nationale
-interprofessionnelle pour l'emploi dans l'industrie et le commerce
-(U.N.E.D.I.C.) au titre de l'assurance chômage des contrats d'insertion par
-l'activité ;
+interprofessionnelle pour l'emploi dans l'industrie et le commerce (UNEDIC) au
+titre de l'assurance chômage des contrats d'insertion par l'activité ;
 
 7° L'attribution aux agences d'insertion de la contribution de l'Etat visée à
 l'article 2 du décret du 20 janvier 1989 modifié portant application aux
@@ -28,6 +27,9 @@ relative au revenu minimum d'insertion, après déduction de la part de cette
 contribution affectée au logement social des bénéficiaires du revenu minimum
 d'insertion ;
 
-8° L'évaluation et le suivi des actions financées par le F.E.D.O.M.
+8° Le financement des dépenses prévues par l'article L. 322-4-19 du présent code
+;
+
+9° L'évaluation et le suivi des actions financées par le FEDOM.
 
 Par ailleurs, le fonds prend en charge ses dépenses de fonctionnement.

@@ -18,9 +18,8 @@ Les préfets de région, préfets des départements d'outre-mer ou leur représe
 et le préfet de la collectivité territoriale de Saint-Pierre-et-Miquelon ou son
 représentant ;
 
-Le délégué à l'emploi ou son représentant ;
-
-Le délégué à la formation professionnelle ou son représentant ;
+Le délégué général à l'emploi et à la formation professionnelle, ou son
+représentant ;
 
 Le délégué interministériel au revenu minimum d'insertion ou son représentant ;
 
