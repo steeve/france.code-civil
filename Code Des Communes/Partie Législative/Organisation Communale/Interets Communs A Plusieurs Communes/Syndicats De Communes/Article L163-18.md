@@ -16,12 +16,10 @@ de ces conseils municipaux et l'avis du bureau du conseil général, soit d'offi
 par un décret rendu sur l'avis conforme du conseil général et du Conseil d'Etat.
 
 La répartition des personnels concernés entre les communes membres est soumise,
-pour avis, aux commissions paritaires compétentes.
+pour avis, aux commissions administratives paritaires compétentes.
 
 Elle ne peut donner lieu à un dégagement des cadres. Les personnels concernés
 sont nommés dans un emploi de même niveau et en tenant compte de leurs droits
 acquis. Les communes attributaires supportent les charges financières
-correspondantes.
-
-Le décret de dissolution détermine, sous la réserve des droits des tiers, les
-conditions dans lesquelles le syndicat est liquidé.
+correspondantes. Le décret de dissolution détermine, sous la réserve des droits
+des tiers, les conditions dans lesquelles le syndicat est liquidé.
