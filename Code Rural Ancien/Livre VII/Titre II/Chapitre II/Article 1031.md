@@ -4,13 +4,12 @@ Les ressources des assurances sociales agricoles sont constituées par des
 cotisations à la charge des employeurs et des assurés, assises sur les
 rémunérations perçues par ces derniers, ainsi que, en ce qui concerne les
 assurances maladie, maternité, invalidité et décès par des contributions à la
-charge des seuls assurés, assises sur les allocations de garantie de ressources
-perçues en application des articles L. 351-5, L. 351-16 et L. 351-17 du code du
-travail par les assurés ayant démissionné de leur emploi pour en bénéficier,
-ainsi que sur les avantages de retraite financés en tout ou partie par une
-contribution de l'employeur ou ayant donné lieu à rachat de cotisations, à
-l'exclusion des bonifications ou majorations pour enfants autres que les
-annuités supplémentaires.
+charge des seuls assurés, assises sur les allocations et revenus de remplacement
+mentionnés à l'article 6 de la loi n° 82-1 du 4 janvier 1982, ainsi que sur les
+avantages de retraite financés en tout ou partie par une contribution de
+l'employeur ou ayant donné lieu à rachat de cotisations, à l'exclusion des
+bonifications ou majorations pour enfants autres que les annuités
+supplémentaires.
 
 Un plafond est appliqué aux rémunérations ou gains servant de base au calcul des
 cotisations dues par l'employeur et par le salarié au titre de l'assurance
@@ -37,7 +36,7 @@ La cotisation de l'employeur reste exclusivement à sa charge, toute convention
 contraire étant nulle de plein droit.
 
 Les cotisations dues sur les avantages de retraite ainsi que sur les allocations
-de garantie de ressources sont précomptées, lors de chaque versement, par
+et revenus de remplacement sont précomptées, lors de chaque versement, par
 l'organisme débiteur de ces pensions ou allocations.
 
 Les dispositions des articles 1033 à 1036, 1143 à 1143-4 s'appliquent au
