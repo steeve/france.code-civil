@@ -3,8 +3,8 @@ Article R821-5-1
 Pour l'ouverture du droit au complément d'allocation aux adultes handicapés
 institué par l'article L. 821-1-1, la condition de perception d'une aide
 personnelle au logement est remplie par la personne qui bénéficie, soit comme
-titulaire du droit, soit du fait d'un conjoint ou concubin allocataire, de l'une
-des aides suivantes :
+titulaire du droit, soit du fait d'un conjoint, d'un partenaire d'un pacte civil
+de solidarité ou d'un concubin allocataire, de l'une des aides suivantes :
 
 a) Allocation de logement prévue aux articles L. 542-1 et L. 755-21 du présent
 code ;

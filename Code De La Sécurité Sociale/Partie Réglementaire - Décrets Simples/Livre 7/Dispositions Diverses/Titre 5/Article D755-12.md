@@ -26,8 +26,9 @@ fixé à vingt-deux ans.
 
 La notion de résidence principale [*définition*] mentionnée au présent article
 doit être entendue au sens du logement effectivement occupé au moins huit mois
-par an, soit par l'allocataire, soit par son conjoint ou concubin, soit par une
-des personnes à charge au sens de l'article D. 755-17.
+par an, soit par l'allocataire, soit par son conjoint, partenaire lié par un
+pacte civil de solidarité ou concubin, soit par une des personnes à charge au
+sens de l'article D. 755-17.
 
 Le logement mis à la disposition d'un requérant par un des ascendants ou de ses
 descendants n'ouvre pas droit au bénéfice de l'allocation.
