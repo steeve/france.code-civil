@@ -7,8 +7,8 @@ lieu.
 Ces mentions sont également portées sur les extraits des actes de naissance ou
 sur le livret de famille à la demande des intéressés. Toutefois, la mention de
 la perte, de la déclination, de la déchéance, de l'opposition à l'acquisition de
-la nationalité française, du retrait du décret de naturalisation ou de
-réintégration ou de la décision judiciaire ayant constaté l'extranéité est
+la nationalité française, du retrait du décret d'acquisition, de naturalisation
+ou de réintégration ou de la décision judiciaire ayant constaté l'extranéité est
 portée d'office sur les extraits des actes de naissance et sur le livret de
 famille lorsqu'une personne ayant antérieurement acquis cette nationalité, ou
 s'étant vu reconnaître judiciairement celle-ci, ou délivrer un certificat de
