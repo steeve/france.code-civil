@@ -24,6 +24,4 @@ huiles minérales visées aux tableaux B et C de l'article 265.
 4. Les livraisons taxables sont exprimées en milliers de kilowatt/heures, après
 arrondissement au millier le plus voisin.
 
-5. Le tarif de la taxe intérieure de consommation sur le gaz naturel livré à
-l'utilisateur final est relevé conformément aux dispositions du 4 de l'article
-266.
+5. (alinéa supprimé).
