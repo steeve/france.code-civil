@@ -1,7 +1,7 @@
 Article 222-50
 ----
 Les personnes physiques ou morales coupables de l'une des infractions prévues
-par les articles 222-35 à 222-40 encourent également les peines complémentaires
+par les articles 222-34 à 222-40 encourent également les peines complémentaires
 suivantes :
 
 1° Le retrait définitif de la licence de débit de boissons ou de restaurant ;

@@ -21,4 +21,4 @@ l'incompétence de la juridiction saisie ;
 son existence légale ;
 
 7° En matière d'atteintes aux droits individuels telles que définies aux
-articles 114 à 122 et 341 à 344 du code pénal.
+articles 224-1 à 224-5 et 432-4 à 432-6 du code pénal.

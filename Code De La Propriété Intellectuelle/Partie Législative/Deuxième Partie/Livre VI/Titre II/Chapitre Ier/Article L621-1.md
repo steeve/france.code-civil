@@ -1,18 +1,14 @@
 Article L621-1
 ----
-Tout directeur, commis, ouvrier de fabrique, qui aura communiqué ou tenté de
-communiquer à des étrangers ou à des Français résidant en pays étranger des
-secrets de la fabrique où il est employé sera puni d'un emprisonnement de deux
-ans à cinq ans et d'une amende de 1 800 F à 120 000 F.
+Les peines frappant la violation des secrets de fabrique sont prévues à
+l'article L. 152-7 du code du travail ci-après reproduit :
 
-Il pourra, en outre, être privé des droits mentionnés à l'article 42 du code
-pénal pendant cinq ans au moins et dix ans au plus à compter du jour où il aura
-subi sa peine.
+"Art. L. 152-7 :
 
-Si ces secrets ont été communiqués à des Français résidant en France, la peine
-sera d'un emprisonnement de trois mois à deux ans et d'une amende de 500 F à 15
-000 F.
+"Le fait, par tout directeur ou salarié d'une entreprise où il est employé, de
+révéler ou de tenter de révéler un secret de fabrique est puni de deux ans
+d'emprisonnement et de 200 000 F d'amende [*sanctions pénales*].
 
-Le maximum de la peine prononcée par les premier et troisième alinéas du présent
-article sera nécessairement appliqué s'il s'agit de secrets de fabrique d'armes
-et munitions de guerre appartenant à l'Etat.
+"Le tribunal peut également prononcer, à titre de peine complémentaire, pour une
+durée de cinq ans au plus, l'interdiction des droits civiques, civils et de
+famille prévue par l'article 131-26 du code pénal".

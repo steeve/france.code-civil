@@ -15,7 +15,8 @@ sur la liste des conseils en propriété industrielle établie par le directeur 
 l'Institut national de la propriété industrielle.
 
 Toute violation des dispositions du précédent alinéa sera punie des peines
-prévues au deuxième alinéa de l'article 259 du code pénal.
+encourues pour le délit d'usurpation de titre prévu par l'article 433-17 du code
+pénal.
 
 Nul ne peut être inscrit sur la liste des conseils en propriété industrielle
 s'il n'est inscrit sur la liste prévue à l'article L. 421-1 et s'il n'exerce sa

@@ -9,6 +9,3 @@ favorables à l'accusé.
 
 Immédiatement après le dépouillement de chaque scrutin, les bulletins sont
 brûlés.
-
-La déclaration en ce qui concerne les circonstances atténuantes est exprimée
-qu'elle soit affirmative ou négative.

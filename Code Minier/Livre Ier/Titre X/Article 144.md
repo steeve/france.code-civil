@@ -1,5 +1,5 @@
 Article 144
 ----
-Le tribunal pourra ordonner l'affichage du jugement aux portes des
-établissements intéressés et sa publication dans les journaux qu'il désignera,
-le tout aux frais du condamné.
+Le tribunal peut ordonner l'affichage ou la diffusion intégrale ou partielle de
+la décision prononcée dans les conditions prévues par l'article 131-35 du code
+pénal.

@@ -4,10 +4,10 @@ Les tribunaux désignés ainsi qu'il est dit à l'article précédent sont comp�
 pour connaître des infractions ci-après énumérées et de celles qui leur sont
 connexes dans les affaires qui sont ou apparaîtraient d'une grande complexité :
 
-1° Infractions en matière économique, y compris les infractions aux dispositions
-de la section II du chapitre II du titre II du livre III du code pénal et les
-infractions prévues par le troisième alinéa de l'article L. 627 du code de la
-santé publique et l'article 415 du code des douanes.
+1° Infractions en matière économique, y compris l'abus de confiance,
+l'escroquerie, les infractions voisines de l'escroquerie et les infractions
+prévues par l'article 222-38 du code pénal et par l'article 415 du code des
+douanes ;
 
 2° Infractions en matière de fraudes et de publicité mensongère ;
 
@@ -17,7 +17,10 @@ financières avec l'étranger ;
 4° Infractions concernant les banques, les établissements financiers, la bourse
 et le crédit ;
 
-5° Les infractions concernant les sociétés civiles et commerciales ainsi que les
-délits assimilés aux banqueroutes ;
+5° Infractions concernant les sociétés civiles et commerciales ainsi que les
+banqueroutes et les délits assimilés aux banqueroutes ;
 
-6° Infractions concernant la construction et l'urbanisme.
+6° Infractions concernant la construction et l'urbanisme ;
+
+7° Contrefaçons et infractions en matière de droit d'auteur ou des droits
+voisins des droits d'auteur et de secret de fabrique.

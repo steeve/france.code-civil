@@ -1,22 +1,15 @@
 Article 747-1
 ----
-Le tribunal peut, dans les conditions prévues par l'article 738, alinéa premier,
-prévoir que le condamné accomplira, au profit d'une collectivité publique ou
-d'un établissement public ou d'une association, un travail d'intérêt général non
-rémunéré et d'une durée qui ne pourra être inférieure à quarante heures ni
-supérieure à deux cent quarante heures.
+Le sursis assorti de l'obligation d'accomplir un travail d'intérêt général suit
+les mêmes règles que celles qui sont prévues pour le sursis avec mise à
+l'épreuve, sous réserve des adaptations suivantes :
 
-Il ne peut être fait application du présent article que lorsque le prévenu est
-présent. Le président du tribunal, avant le prononcé du jugement, informe le
-prévenu du droit de refuser l'accomplissement d'un travail d'intérêt général et
-reçoit sa réponse.
+1° L'obligation d'accomplir un travail d'intérêt général est assimilée à une
+obligation particulière ;
 
-Le tribunal fixe, dans la limite de dix-huit mois, le délai pendant lequel le
-travail doit être accompli. Ce délai prend fin dès l'accomplissement de la
-totalité du travail d'intérêt général, la condamnation étant alors considérée
-comme non avenue ; il peut être suspendu provisoirement pour motif grave d'ordre
-médical, familial, professionnel ou social.
+2° Les mesures de contrôle sont celles énumérées à l'article 132-55 du code
+pénal ;
 
-Les modalités d'exécution de l'obligation d'accomplir un travail d'intérêt
-général et la suspension du délai prévu par l'alinéa précédent sont décidées par
-le juge de l'application des peines.
+3° Le délai prévu par l'article 742-1 est ramené à dix-huit mois ;
+
+4° L'article 743 n'est pas applicable.

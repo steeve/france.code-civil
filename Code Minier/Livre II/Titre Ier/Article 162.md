@@ -3,9 +3,9 @@ Article 162
 Les administrateurs sont civilement responsables de leur gestion dans les mêmes
 conditions que les administrateurs des sociétés anonymes.
 
-Sont punis des peines portées à l'article 405 du code pénal, sans préjudice de
-l'application de cet article à tous les faits constitutifs du délit
-d'escroquerie, les administrateurs ou directeurs généraux qui :
+Sont punis des peines portées aux articles 313-1, 313-7 et 313-8 du code pénal,
+sans préjudice de l'application de cet article à tous les faits constitutifs du
+délit d'escroquerie, les administrateurs ou directeurs généraux qui :
 
 1° Par simulation de faits faux ont obtenu ou tenté d'obtenir des souscriptions
 d'obligations ;

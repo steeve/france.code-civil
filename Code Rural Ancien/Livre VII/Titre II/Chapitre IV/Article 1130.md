@@ -1,7 +1,8 @@
 Article 1130
 ----
-En cas de récidive, le délinquant est puni d'une amende de 1.300 F à 5.000 F,
-sans préjudice de la condamnation, par le même jugement, au paiement des
+En cas de récidive, le délinquant est poursuivi devant le tribunal correctionnel
+et puni de l'amende prévue pour les contraventions de la 5e classe, sans
+préjudice de la condamnation, par le même jugement, au paiement des
 contributions dont le versement lui incombait ainsi qu'au paiement des
 majorations de retard.
 

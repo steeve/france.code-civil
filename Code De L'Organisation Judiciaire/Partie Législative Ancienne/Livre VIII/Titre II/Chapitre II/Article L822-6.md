@@ -6,4 +6,4 @@ requête de tout intéressé ou du procureur de la République, par le tribunal 
 grande instance. La décision est exécutoire à l'égard de toute personne.
 
 Toute infraction aux dispositions du premier alinéa sera punie des peines
-prévues au premier alinéa de l'article 259 du code pénal [*sanctions*]
+prévues à l'article 433-17 du code pénal.

@@ -16,7 +16,8 @@ origine un acte de chasse ou de destruction des animaux nuisibles ;
 - soit ont entraîné la mort, une incapacité permanente ou une incapacité totale
 de travail personnel égale ou supérieure à un mois ;
 
-- soit sont prévus et réprimés par les articles 331 à 333-1 du code pénal ;
+- soit sont prévus et réprimés par les articles 222-22 à 222-30 et 227-25 à
+227-27 du code pénal ;
 
 3° La personne lésée est de nationalité française. Dans le cas contraire, les
 faits ont été commis sur le territoire national et la personne lésée est :

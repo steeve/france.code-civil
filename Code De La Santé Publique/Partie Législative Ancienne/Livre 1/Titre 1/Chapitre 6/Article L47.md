@@ -14,5 +14,7 @@ putrescibles dans les failles, gouffres, bétoires ou excavations de toute
 nature, autres que les fosses nécessaires au fonctionnement d'établissements
 classés.
 
-Tout acte volontaire de même nature sera puni des peines portées à l'article 257
-du Code pénal.
+Tout acte volontaire de même nature sera puni d'une peine de trois ans
+d'emprisonnement [*durée*] et de 300 000 F (1) d'amende [*montant*]
+
+(1) Amende applicable depuis le 1er mars 1994.

@@ -1,7 +1,7 @@
 Article L117
 ----
-Sont punies d'un emprisonnement d'un mois à un an toutes fraudes ou manoeuvres
-par suite desquelles un jeune homme a été omis sur les listes de recensement.
+Sont punies d'un an d'emprisonnement toutes fraudes ou manoeuvres par suite
+desquelles un jeune homme a été omis sur les listes de recensement.
 
 Sont punis de la même peine :
 

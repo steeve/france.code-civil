@@ -1,8 +1,7 @@
 Article 168
 ----
-Sont punies de six mois à cinq ans de prison et d'une amende de 15 000 à 150 000
-F ou de l'une de ces deux peines seulement, sans préjudice de dommages-intérêts
-éventuels :
+Sont punis de cinq ans de prison et d'une amende de 150 000 F ou de l'une de ces
+deux peines seulement, sans préjudice de dommages-intérêts éventuels :
 
 1° Ceux qui, en contravention des dispositions du présent titre, cèdent,
 détériorent, altèrent, endommagent, détournent ou dissimulent des biens meubles

@@ -1,7 +1,7 @@
 Article L39-1
 ----
-Sera puni d'un emprisonnement d'un à trois mois et d'une amende de 2 000 F à 200
-000 F ou de l'une de ces deux peines seulement quiconque :
+Sera puni de trois mois d'emprisonnement et de 200000 F d'amende [* taux *] ou
+de l'une de ces deux peines seulement quiconque :
 
 1° Aura établi ou fait établir un réseau indépendant, sans l'autorisation prévue
 à l'article L. 33-2 ou l'aura maintenu en violation d'une décision de retrait de

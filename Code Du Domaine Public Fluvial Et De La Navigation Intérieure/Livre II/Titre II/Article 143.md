@@ -1,6 +1,7 @@
 Article 143
 ----
-Est puni d'une amende de 120 à 1200 F le capitaine d'un bateau à vapeur si, par
+Est puni de l'amende prévue au 5° de l'article 131-13 du code pénal pour les
+contraventions de la cinquième classe le capitaine d'un bateau à vapeur si, par
 suite de sa négligence :
 
 1° La pression de la vapeur dans les chaudières a été portée au-dessus de la

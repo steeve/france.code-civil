@@ -4,7 +4,3 @@ Pour les infractions visées au premier alinéa de l'article 1034, il y a récid
 lorsque dans les douze mois antérieurs à la date d'expiration du délai d'un mois
 imparti par l'avertissement ou la mise en demeure prévus à l'article 1036 le
 contrevenant a déjà subi une condamnation pour une contravention identique.
-
-En cas de pluralité de contraventions entraînant les peines de la récidive
-l'amende est appliquée autant de fois qu'on a relevé de nouvelles
-contraventions. Toutefois, le total des amendes ne peut dépasser 7.200 F.

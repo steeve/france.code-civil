@@ -13,5 +13,5 @@ la disposition des fonds consignés dans la mesure où elles justifient de leur
 affectation pour les constructions prévues.
 
 L'inobservation des dispositions du présent article et des textes d'application
-subséquents est punie des peines prévues aux trois premiers alinéas de l'article
-408 du code pénal [*sanction*].
+subséquents est punie des peines de l'abus de confiance prévues par les articles
+314-1 et 314-10 du code pénal

@@ -9,11 +9,12 @@ peines entre deux dates déterminées.
 
 Cette durée ne peut être inférieure à la durée de la partie de la peine non
 subie au moment de la libération s'il s'agit d'une peine temporaire ; elle peut
-la dépasser pour une période maximum d'un an.
+la dépasser pour une période maximum d'un an. La durée totale des mesures
+d'assistance et de contrôle ne peut toutefois excéder dix ans.
 
-Toutefois, lorsque la peine en cours d'exécution est une peine perpétuelle, la
-durée des mesures d'assistance et de contrôle est fixée pour une période qui ne
-peut être inférieure à cinq années, ni supérieure à dix années.
+Lorsque la peine en cours d'exécution est une peine perpétuelle, la durée des
+mesures d'assistance et de contrôle est fixée pour une période qui ne peut être
+inférieure à cinq années, ni supérieure à dix années.
 
 Pendant toute la durée de la liberté conditionnelle, les dispositions de la
 décision peuvent être modifiées, suivant les distinctions de l'article 730, soit

@@ -12,5 +12,5 @@ syndic des gens de mer et, en pays étranger, à l'agent consulaire français le
 plus rapproché du port d'arrivée.
 
 Faute de cette déclaration et indépendamment de la réparation du dommage causé à
-l'ouvrage, il est puni d'un emprisonnement de dix jours à trois mois et d'une
-amende de 160 à 15000 F.
+l'ouvrage, il est puni d'un emprisonnement de trois mois et d'une amende de
+25000 F.

@@ -1,7 +1,6 @@
 Article 330
 ----
-Seront punis d'un emprisonnement de six mois à trois ans et d'une amende de 240
-à 15.000 F :
+Seront punis d'un emprisonnement de trois ans et d'une amende de 25000 F :
 
 1° Ceux qui auront vendu ou mis en vente de la viande provenant d'animaux qu'ils
 savaient morts de maladies contagieuses quelles qu'elles soient, ou abattus

@@ -12,8 +12,8 @@ police ou du représentant de l'incapable.
 Les primes payées doivent être intégralement restituées.
 
 L'assureur et le souscripteur sont en outre passibles, pour chaque assurance
-conclue sciemment en violation de cette interdiction, d'une amende de 360 à
-40.000 F [*sanctions*]. L'article 463 du code pénal est applicable.
+conclue sciemment en violation de cette interdiction, d'une amende de 30.000 F
+[*sanctions*].
 
 Ces dispositions ne mettent point obstacle dans l'assurance en cas de décès, au
 remboursement des primes payées en exécution d'un contrat d'assurance en cas de

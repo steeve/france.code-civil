@@ -1,6 +1,6 @@
 Article L232-10
 ----
-Il est interdit, sous peine d'une amende de 2 000 F à 60 000 F :
+Il est interdit, sous peine d'une amende de 60 000 F :
 
 1° D'introduire dans les eaux mentionnées par le présent titre des poissons
 appartenant à des espèces susceptibles de provoquer des déséquilibres

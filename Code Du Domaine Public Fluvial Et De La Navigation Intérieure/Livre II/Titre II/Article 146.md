@@ -1,6 +1,7 @@
 Article 146
 ----
-Est puni d'une amende de 120 à 1200 F le capitaine d'un bateau à vapeur qui a
+Est puni de l'amende prévue au 5° de l'article 131-13 du code pénal pour les
+infractions de la cinquième classe le capitaine d'un bateau à vapeur qui a
 contrevenu aux dispositions des règlements d'administration publique ou des
 arrêtés des préfets rendus en vertu de ces règlements en ce qui concerne.
 

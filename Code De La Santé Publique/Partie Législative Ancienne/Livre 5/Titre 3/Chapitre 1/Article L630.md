@@ -1,23 +1,18 @@
 Article L630
 ----
-Sans préjudice des dispositions de l'article 60 du Code pénal, seront punis d'un
-emprisonnement de un an à cinq ans [*durée*] et d'une amende de 5.000 F à
-500.000 F [*montant*], ou de l'une de ces deux peines seulement, ceux qui, par
-un moyen quelconque, auront provoqué à l'un des délits prévus et réprimés par
-les articles L. 627 et L. 628, alors même que cette provocation n'aurait pas été
-suivie d'effet, ou qui les auront présentés sous un jour favorable.
+Le fait de provoquer au délit prévu par l'article L. 628 du présent code ou à
+l'une des infractions prévues par les articles 222-34 à 222-39 du code pénal,
+alors même que cette provocation n'a pas été suivie d'effet, ou de présenter ces
+infractions sous un jour favorable est puni de cinq ans d'emprisonnement
+[*durée*] et de 500 000 F d'amende [*montant*] (1).
 
-Seront punis des mêmes peines ceux qui, par un moyen quelconque, auront
-provoqué, alors même que cette provocation n'aurait pas été suivie d'effet, à
-l'usage de substances présentées comme ayant les effets de substances ou plantes
-stupéfiantes [*incitation*].
+Est puni des mêmes peines le fait de provoquer, même lorsque cette provocation
+n'est pas suivie d'effet, à l'usage de substances présentées comme ayant les
+effets de substances ou plantes classées comme stupéfiants.
 
-En cas de provocation au moyen de l'écrit, même introduit de l'étranger, de la
-parole ou de l'image, même si celles-ci ont été émises de l'étranger, pourvu
-qu'elles aient été perçues en France, les poursuites prévues aux alinéas
-précédents seront exercées contre les personnes énumérées à l'article 285 du
-Code pénal, dans les conditions fixées par cet article, si le délit a été commis
-par la voie de la presse, et contre les personnes reconnues responsables de
-l'émission, ou, à leur défaut, les chefs d'établissements, directeurs ou gérants
-des entreprises [*responsabilité*] ayant procédé à la diffusion ou en ayant tiré
-profit, si le délit a été commis par toute autre voie.
+Lorsque le délit prévu par le présent article est commis par la voie de la
+presse écrite ou audiovisuelle, les dispositions particulières des lois qui
+régissent ces matières sont applicables en ce qui concerne la détermination des
+personnes responsables.
+
+(1) Amende applicable depuis le 5 janvier 1971.

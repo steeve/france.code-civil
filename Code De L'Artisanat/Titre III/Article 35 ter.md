@@ -1,9 +1,8 @@
 Article 35 ter
 ----
 Toute indication inexacte donnée de mauvaise foi en vue de l'immatriculation ou
-de l'inscription au registre des métiers est punie d'une amende de 360 à 20.000
-F [*sanctions*] et d'un emprisonnement d'un mois à six mois ou de l'une de ces
-deux peines seulement.
+de l'inscription au registre des métiers est punie d'une amende de 25.000 F et
+d'un emprisonnement de six mois ou de l'une de ces deux peines seulement.
 
 Les peines prévues à l'alinéa précédent sont prononcées par le tribunal
 correctionnel du lieu de l'exploitation de l'entreprise artisanale, sur

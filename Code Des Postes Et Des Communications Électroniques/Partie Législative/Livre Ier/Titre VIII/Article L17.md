@@ -1,8 +1,7 @@
 Article L17
 ----
 Toute personne qui, en récidive, effectue un transport de correspondances en
-infraction aux dispositions de l'article L. 1 est punie d'une amende de 6 000 F
-à 15 000 F [*taux résultant de la loi 89-469 du 10 juillet 1989*]. Il y a
-récidive [*définition*] lorsque le contrevenant a subi [*délai*] dans les trois
-années qui précèdent une condamnation pour infraction aux dispositions de
-l'article L. 1.
+infraction aux dispositions de l'article L. 1 est punie de 25000 F d'amende [*
+taux *]. Il y a récidive lorsque le contrevenant a subi dans les trois années
+qui précèdent une condamnation pour infraction aux dispositions de l'article L.
+1.

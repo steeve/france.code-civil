@@ -11,5 +11,5 @@ vieillesse est régie par les dispositions de l'article L. 156 du livre des
 procédures fiscales.
 
 Les membres des conseils d'administration de ces caisses, ainsi que leur
-personnel, sont tenus au secret professionnel dans les termes de l'article 378
-du code pénal et passibles des peines prévues audit article.
+personnel, sont tenus au secret professionnel dans les termes des articles
+226-13 et 226-14 du code pénal et passibles des peines prévues audit article.

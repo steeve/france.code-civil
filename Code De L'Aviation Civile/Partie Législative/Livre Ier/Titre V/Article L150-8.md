@@ -10,13 +10,13 @@ aéronef sera prononcée et sa durée sera portée au maximum et pourra être é
 jusqu'au double.
 
 Les brevets dont seraient porteurs les pilotes resteront déposés pendant toute
-la durée de l'interdiction, au greffe de la juridiction qui aura prononcé
+la durée de l'interdiction au greffe de la juridiction qui aura prononcé
 l'interdiction.
 
 Les condamnés devront effectuer les dépôts de ces brevets soit à ce greffe, soit
 à celui de leur domicile, dans les cinq jours qui suivront la date à laquelle la
 condamnation sera devenue définitive, faute de quoi, ils seront punis
-[*sanction*] de trois mois à un an d'emprisonnement et d'une amende de 15 000 à
-60 000 F [*(1)*] ou de l'une de ces deux peines seulement, sans préjudice des
-peines portées à l'article L. 150-2 au cas où ils conduiraient un aéronef
-pendant la période d'interdiction et qui ne pourront se confondre.
+[*sanction*] d'un an d'emprisonnement et d'une amende 60 000 F ou de l'une de
+ces deux peines seulement, sans préjudice des peines portées à l'article L.
+150-2 au cas où ils conduiraient un aéronef pendant la période d'interdiction et
+qui ne pourront se confondre.

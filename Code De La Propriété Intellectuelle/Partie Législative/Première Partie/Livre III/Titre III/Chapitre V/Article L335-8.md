@@ -2,7 +2,7 @@ Article L335-8
 ----
 Les personnes morales peuvent être déclarées responsables pénalement dans les
 conditions prévues par l'article 121-2 du code pénal des infractions définies
-aux articles L. 335-2 à L. 335-4 du présent code.
+aux articles L. 335-2 à L. 335-5 du présent code.
 
 Les peines [*sanctions*] encourues par les personnes morales sont :
 

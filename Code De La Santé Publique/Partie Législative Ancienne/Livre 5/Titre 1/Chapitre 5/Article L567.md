@@ -1,6 +1,8 @@
 Article L567
 ----
-Quiconque fait obstacle à l'exercice des fonctions de l'inspecteur de la
-pharmacie [*entrave*] est passible des peines prévues aux articles 1er, 5 et 7
-de la loi du 1er août 1905, sans préjudice des peines prévues par les articles
-209 et suivants du Code pénal.
+Quiconque fait obstacle, de quelque façon que ce soit, à l'exercice des
+fonctions des inspecteurs de la pharmacie sera puni d'un emprisonnement de six
+mois [*durée*] et d'une amende de 50 000 F [*montant*] (1) ou de l'une de ces
+deux peines seulement.
+
+(1) Amende applicable depuis le 7 janvier 1993.

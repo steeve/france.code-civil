@@ -7,6 +7,6 @@ susceptibles d'être émis par l'Etat une ressemblance de nature à faciliter
 l'acceptation desdits imprimés ou formules au lieu et place de valeurs imitées.
 
 Indépendamment des contrefaçons ou altérations prévues et punies par les
-articles 132 et 133 du Code pénal, sont également interdits la fabrication, la
-vente, le colportage et la distribution de toutes les imitations des monnaies
+articles 442-1 et 442-2 du code pénal, sont également interdits la fabrication,
+la vente, le colportage et la distribution de toutes les imitations des monnaies
 ayant cours légal en France et des monnaies étrangères.

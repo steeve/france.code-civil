@@ -22,7 +22,7 @@ annonces ou instructions quelconques.
 
 Si la substance falsifiée ou corrompue ou si la substance médicamenteuse
 falsifiée est nuisible à la santé de l'homme ou de l'animal, l'emprisonnement
-sera de six mois à quatre ans et l'amende de 2 000 F à 500 000 F.
+sera de quatre ans et l'amende de 500 000 F [*sanctions pénales*].
 
 Ces peines seront applicables même au cas où la falsification nuisible serait
 connue de l'acheteur ou du consommateur.

@@ -1,7 +1,6 @@
 Article 329
 ----
-Seront punis d'un emprisonnement de deux mois à six mois et d'une amende de 360
-à 15.000 F :
+Seront punis d'un emprisonnement de six mois et d'une amende de 25.000 F :
 
 1° Ceux qui, au mépris des défenses de l'administration, auront laissé leurs
 animaux infectés communiquer avec d'autres ;

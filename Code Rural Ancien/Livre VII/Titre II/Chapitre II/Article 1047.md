@@ -1,7 +1,6 @@
 Article 1047
 ----
-Sont passibles d'une amende de 360 à 25.000 F et d'un emprisonnement de six
-jours à deux mois :
+Sont passibles d'une amende de 25.000 F et d'un emprisonnement de deux mois :
 
 1° Les administrateurs, directeurs, agents de toutes sociétés ou institutions
 recevant, sans avoir été dûment agréés ou autorisés à cet effet, les versements

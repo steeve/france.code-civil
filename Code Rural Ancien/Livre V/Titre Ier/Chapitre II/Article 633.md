@@ -6,4 +6,4 @@ présent livre.
 
 En outre, en cas de fausses déclarations relatives aux statuts ou aux noms et
 qualités des administrateurs ou du directeur, ils peuvent être poursuivis et
-punis d'une amende de 2.500 à 5.000 F.
+punis de l'amende prévue pour les contraventions de la 5e classe.

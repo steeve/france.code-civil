@@ -7,15 +7,16 @@ les agents assermentés des caisses de mutualité sociale agricole qui se
 présentent pour vérifier l'application régulière des dispositions du chapitre
 III-1 du titre II du présent livre.
 
-L'article 990 ci-dessus est applicable aux infractions aux dispositions du
+L'article 985 ci-dessus est applicable aux infractions aux dispositions du
 chapitre III-1 du titre II du présent livre. Pour l'application dudit article
-990, les agents assermentés des caisses de mutualité sociale agricole auront les
+985, les agents assermentés des caisses de mutualité sociale agricole auront les
 mêmes pouvoirs et bénéficieront de la même protection que les inspecteurs et
 contrôleurs des lois sociales en agriculture.
 
-Sont punis d'une amende de 3 000 à 10 000 F et, en cas de récidive, de 6 000 à
-20 000 F ceux qui ont mis obstacle à l'accomplissement de ses devoirs par un des
-inspecteurs, contrôleurs ou agents visés au présent article.
+Sont punis de l'amende prévue pour les contraventions de la 5e classe, en
+première infraction, et en récidive ceux qui ont mis obstacle à
+l'accomplissement de ses devoirs par un des inspecteurs, contrôleurs ou agents
+visés au présent article.
 
 Les dispositions du code pénal qui prévoient et répriment les actes de
 résistance, les outrages et les violences contre les officiers de police

@@ -1,19 +1,19 @@
 Article L331-14
 ----
-I. - a) Sera punie d'une amende de 1 000 F à 15 000 F toute personne qui aura
-omis de souscrire une demande d'autorisation d'exploiter ou de présenter une
-déclaration préalable conformément aux articles L. 331-2 à L. 331-4 ;
+I. - a) Sera punie d'une amende de 25 000 F toute personne qui aura omis de
+souscrire une demande d'autorisation d'exploiter ou de présenter une déclaration
+préalable conformément aux articles L. 331-2 à L. 331-4 ;
 
-b) Sera punie d'une amende de 2 000 F à 100 000 F toute personne qui, sciemment,
-aura fourni à l'autorité compétente des renseignements inexacts à l'appui d'une
+b) Sera punie d'une amende de 100 000 F toute personne qui, sciemment, aura
+fourni à l'autorité compétente des renseignements inexacts à l'appui d'une
 demande d'autorisation d'exploiter ou d'une déclaration préalable ou qui aura
 présenté une déclaration préalable alors que l'opération projetée ressortissait
 au régime de l'autorisation d'exploiter.
 
-II. - Sera punie d'une amende de 2 000 F à 100 000 F toute personne qui
-exploitera en dépit d'un refus d'autorisation d'exploiter devenu définitif ou
-qui n'aura pas présenté de déclaration préalable à la suite de la mise en
-demeure prévue à l'article L. 331-12.
+II. - Sera punie d'une amende de 100 000 F toute personne qui exploitera en
+dépit d'un refus d'autorisation d'exploiter devenu définitif ou qui n'aura pas
+présenté de déclaration préalable à la suite de la mise en demeure prévue à
+l'article L. 331-12.
 
 III. - Le tribunal correctionnel peut impartir à toute personne en infraction
 avec les dispositions du présent chapitre un délai pour mettre fin à l'opération

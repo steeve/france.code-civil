@@ -1,6 +1,6 @@
 Article R97
 ----
-Ainsi qu'il résulte de l'article 259 du code pénal, toute personne qui aura
+Ainsi qu'il résulte de l'article 433-17 du code pénal, toute personne qui aura
 porté les insignes de la Légion d'honneur ou ceux d'une décoration française ou
 étrangère sans en avoir le droit sera punie des peines prévues audit article.
 

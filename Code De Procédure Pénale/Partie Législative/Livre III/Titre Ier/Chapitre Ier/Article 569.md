@@ -13,12 +13,12 @@ du sursis avec mise à l'épreuve. Lorsqu'un cautionnement a été fourni, les
 dispositions des premier et deuxième alinéas de l'article 142-2 et du deuxième
 alinéa de l'article 142-3 sont applicables.
 
-En cas d'acquittement, d'absolution ou de condamnation soit à l'emprisonnement
-assorti du sursis simple ou du sursis avec mise à l'épreuve, soit à l'amende, le
-prévenu détenu est, nonobstant pourvoi, mis en liberté immédiatement après
-l'arrêt.
+En cas d'acquittement, d'exemption de peine ou de condamnation soit à
+l'emprisonnement assorti du sursis simple ou du sursis avec mise à l'épreuve,
+soit à l'amende, le prévenu détenu est, nonobstant pourvoi, mis en liberté
+immédiatement après l'arrêt.
 
 Il en est de même en cas de condamnation à une peine d'emprisonnement, lorsque
 la détention provisoire a été ordonnée ou maintenue dans les conditions prévues
-par l'alinéa Ier aussitôt que la durée de la détention aura atteint celle de la
+par l'alinéa 1er aussitôt que la durée de la détention aura atteint celle de la
 peine prononcée.

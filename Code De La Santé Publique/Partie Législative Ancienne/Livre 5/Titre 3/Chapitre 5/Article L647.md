@@ -1,8 +1,8 @@
 Article L647
 ----
-Sans préjudice des dispositions de l'article 60 du Code pénal, seront punis d'un
-emprisonnement de deux mois à deux ans et d'une amende de 2.000 à 30.000 F ou de
-l'une de ces deux peines seulement, ceux qui, par un moyen quelconque, auront
+Sans préjudice des dispositions des articles 121-6 et 121-7 du Code pénal,
+seront punis d'un emprisonnement de deux ans et d'une amende de 30.000 F (1) ou
+de l'une de ces deux peines seulement, ceux qui, par un moyen quelconque, auront
 provoqué à l'interruption de grossesse, même licite, alors même que cette
 provocation n'aurait pas été suivie d'effet.
 

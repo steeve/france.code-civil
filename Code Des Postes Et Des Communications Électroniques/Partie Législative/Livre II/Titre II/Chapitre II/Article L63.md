@@ -1,8 +1,7 @@
 Article L63
 ----
 Les infractions aux dispositions du chapitre Ier et des règlements pris pour son
-application sont passibles [*sanction*] d'une amende de 150 F à 20000 F [*taux
-résultant de la loi 77-1468 du 30 décembre 1977*].
+application sont passibles [*sanction*] de 25000 F d'amende [* taux *].
 
 Sur réquisition du ministère public agissant à la demande du ministre intéressé,
 le tribunal saisi de la poursuite impartit aux personnes qui contreviennent aux
@@ -29,10 +28,8 @@ frais et risques des personnes civilement responsables.
 
 Les personnes qui ont été condamnées par application du présent article et qui,
 dans les trois années [*délai*] qui suivent, commettent une nouvelle infraction
-aux dispositions du présent article, sont punies d'une amende de 300 F à 40 000
-F [*taux résultant de la loi 77-1468 du 30 décembre 1977*] et d'un
-emprisonnement [*durée*] de onze jours à un mois ou de l'une de ces deux peines
-seulement.
+aux dispositions du présent article, sont punies de 50000 F d'amende [* taux *]
+et d'un mois d'emprisonnement ou de l'une de ces deux peines seulement.
 
 Les infractions aux dispositions du chapitre Ier peuvent être constatées par des
 procès-verbaux dressés par les officiers de police judiciaire, les gendarmes et

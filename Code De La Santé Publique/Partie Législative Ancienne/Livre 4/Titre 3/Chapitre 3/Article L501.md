@@ -1,11 +1,13 @@
 Article L501
 ----
 L'exercice illégal de la profession de masseur-kinésithérapeute ou de la
-profession de pédicure-podologue est passible d'une amende de 3.000 F à 20.000 F
-[*montant*] et, en cas de récidive, d'une amende de 10.000 F à 30.000 F, une
-peine d'emprisonnement de quinze jours à cinq mois [*durée*] pouvant en outre
-être prononcée dans ce cas.
+profession de pédicure-podologue est passible d'une amende de 25.000 F (1)
+[*montant*] et, en cas de récidive, d'une amende de 50.000 F (1), une peine
+d'emprisonnement de cinq mois [*durée*] pouvant en outre être prononcée dans ce
+cas.
 
 L'usurpation du titre de masseur-kinésithérapeute, masseur, gymnaste médical, et
-du titre de pédicure-podologue est punie des peines prévues à l'article 259 du
-Code pénal.
+du titre de pédicure-podologue est punie des peines prévues à l'article 433-17
+du Code pénal.
+
+(1) Amende applicable depuis le 1er mars 1994.

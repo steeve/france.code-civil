@@ -6,6 +6,5 @@ moins qu'ils ne retournent au domicile qu'ils avaient, dans le rayon, avant
 d'entrer dans l'administration des douanes.
 
 2. Les agents révoqués qui n'obtempèrent pas, dans le mois, à la sommation de
-quitter le rayon sont poursuivis par le procureur de la République près le
-tribunal correctionnel, arrêtés et condamnés aux mêmes peines que celles
-déterminées par les articles 271 et 272 du code pénal.
+quitter le rayon sont punis de six mois d'emprisonnement et de 50 000 F
+d'amende.

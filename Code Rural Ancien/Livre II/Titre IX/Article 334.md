@@ -1,6 +1,7 @@
 Article 334
 ----
-Seront punis d'une amende de 3 000 à 6 000 F :
+Seront punis de l'amende prévue par le 5° de l'article 131-13 du code pénal pour
+les contraventions de la cinquième classe :
 
 a) Ceux qui n'auront pas effectué les déclarations prescrites à l'article 264 ou
 qui n'auront pas remis à l'équarrisseur les cadavres d'animaux ou les viandes

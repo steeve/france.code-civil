@@ -2,7 +2,7 @@ Article 698-1
 ----
 Sans préjudice de l'application de l'article 36, l'action publique est mise en
 mouvement par le procureur de la République territorialement compétent, qui
-apprécie la suite à donner aux frais portés à sa connaissance, notamment par la
+apprécie la suite à donner aux faits portés à sa connaissance, notamment par la
 dénonciation du ministre chargé de la défense ou de l'autorité militaire
 habilitée par lui. A défaut de cette dénonciation, le procureur de la République
 doit demander préalablement à tout acte de poursuite, sauf en cas de crime ou de

@@ -1,11 +1,9 @@
 Article 213
 ----
-Les infractions aux dispositions des articles 203, 204, 205,
-
-206, 207, 209, aux dispositions de l'article 210 relatives aux injonctions et à
-la fermeture et aux dispositions de l'article 211 sont punies d'une amende de
-500 F à 20.000 F (1) et d'un emprisonnement de dix jours à trois mois [*durée*]
-ou de l'une de ces deux peines seulement.
+Les infractions aux dispositions des articles 203, 204, 205, 206, 207, 209, aux
+dispositions de l'article 210 relatives aux injonctions et à la fermeture et aux
+dispositions de l'article 211 sont punies d'une amende de 25000 F et d'un
+emprisonnement de trois mois ou de l'une de ces deux peines seulement.
 
 Le tribunal peut, en outre, interdire au condamné, soit définitivement, soit
 pour une durée déterminée, d'exploiter ou de diriger tout établissement soumis

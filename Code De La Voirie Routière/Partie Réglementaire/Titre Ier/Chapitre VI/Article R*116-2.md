@@ -1,10 +1,12 @@
 Article R*116-2
 ----
 Seront punis d'amende prévue pour les contraventions de la cinquième classe ceux
-qui : [*infraction*] 1° Sans autorisation, auront empiété sur le domaine public
-routier ou accompli un acte portant ou de nature à porter atteinte à l'intégrité
-de ce domaine ou de ses dépendances, ainsi qu'à celle des ouvrages,
-installations, plantations établis sur ledit domaine ;
+qui :
+
+1° Sans autorisation, auront empiété sur le domaine public routier ou accompli
+un acte portant ou de nature à porter atteinte à l'intégrité de ce domaine ou de
+ses dépendances, ainsi qu'à celle des ouvrages, installations, plantations
+établis sur ledit domaine ;
 
 2° Auront dérobé des matériaux entreposés sur le domaine public routier et ses
 dépendances pour les besoins de la voirie ;

@@ -1,7 +1,7 @@
 Article L362-2
 ----
-Sera puni d'un emprisonnement de trois mois à deux ans [*durée*] et d'une amende
-de 4.000 F à 60.000 F (1) [*montant*] :
+Sera puni d'un emprisonnement de deux ans [*durée*] et d'une amende de 60.000 F
+(1) [*montant*] :
 
 1. Quiconque aura sciemment fait un usage illégal ou abusif des labels institués
 à l'article L. 323-33 [*destinés à garantir l'origine des produits fabriqués par
