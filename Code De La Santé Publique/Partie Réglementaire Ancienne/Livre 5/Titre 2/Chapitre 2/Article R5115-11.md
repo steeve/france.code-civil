@@ -1,9 +1,12 @@
 Article R5115-11
 ----
-Tout établissement pharmaceutique fabriquant des médicaments doit disposer d'un
-système de documentation comportant les spécifications, les formules de
-fabrication, les procédures et les relevés, comptes rendus et enregistrements
-couvrant les différentes opérations qu'il effectue.
+Les dispositions des articles R. 5115-6 à R. 5115-10 sont applicables aux
+fabricants et importateurs d'objets de pansement ou d'articles présentés comme
+conformes à la pharmacopée mentionnés au 2° de l'article L. 512, ou de produits
+officinaux divisés mentionnés au 4° de l'article L. 511-1. Les obligations
+prévues par ces articles sont appliquées par référence aux monographies de la
+pharmacopée qui les décrivent.
 
-Les documents relatifs à chaque lot doivent être conservés au moins un an après
-la date de péremption du lot concerné et au moins cinq ans après sa libération.
+Pour ces objets, articles ou produits, la déclaration prévue à l'article R.
+5115-10 doit être faite simultanément au ministre chargé de la santé et au
+pharmacien inspecteur régional.

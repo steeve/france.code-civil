@@ -5,7 +5,7 @@ demande l'extension de cette autorisation dans au moins deux autres Etats
 membres des communautés européennes, il en informe le directeur général de
 l'Agence du médicament et lui transmet les éventuels compléments au dossier de
 la demande d'origine sur laquelle le directeur général de l'agence a statué. Il
-fournit à la demande du directeur général de l'agence tous renseignements et
+fournit, à la demande du directeur général de l'agence tous renseignements et
 documents permettant d'établir l'identité des dossiers de demandes introduites
 auprès desdits Etats membres avec le dossier de la demande d'origine.
 

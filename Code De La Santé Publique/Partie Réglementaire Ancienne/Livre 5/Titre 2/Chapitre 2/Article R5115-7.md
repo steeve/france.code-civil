@@ -1,28 +1,29 @@
 Article R5115-7
 ----
-Les établissements pharmaceutiques qui fabriquent des médicaments doivent
-pouvoir justifier, à tout moment, que tous les produits qu'ils utilisent,
-préparent et délivrent sont conformes aux caractéristiques auxquelles ils
-doivent répondre et qu'il a été procédé aux contrôles nécessaires.
+Chaque lot de médicaments ou de produits bénéficiant des autorisations ou de
+l'enregistrement prévus au deuxième alinéa de l'article R. 5115-6 doit faire
+l'objet, en France, du contrôle du produit fini lorsqu'il est importé :
 
-Ces établissements veillent à ce que toutes les opérations de fabrication des
-médicaments faisant l'objet de l'autorisation de mise sur le marché mentionnée à
-l'article L. 601 ou de l'autorisation prévue à l'article L. 601-2 soient
-conduites dans le respect des données du dossier de cette autorisation acceptées
-par l'Agence du médicament.
+a) D'un Etat non membre de la Communauté européenne et non partie à l'accord sur
+l'Espace économique européen ;
 
-Ils sont tenus de réévaluer et, si nécessaire, de modifier leurs méthodes de
-fabrication et de contrôle en fonction des progrès scientifiques et techniques.
-Lorsque le fabricant n'est pas le titulaire de l'autorisation de mise sur le
-marché du médicament concerné par ces modifications, il doit en aviser ce
-titulaire. S'il n'exploite pas lui-même le médicament, il doit également en
-informer l'entreprise qui l'exploite.
+b) Ou d'un autre Etat membre de la Communauté européenne ou partie à l'accord
+sur l'Espace économique européen lorsqu'il a été fabriqué par un établissement
+non autorisé au titre de l'article 16 de la directive 75/319/CEE du Conseil du
+20 mai 1975 concernant le rapprochement des dispositions législatives,
+réglementaires et administratives relatives aux spécialités pharmaceutiques.
 
-Lorsque des lots de médicaments bénéficiant d'une autorisation de mise sur le
-marché mentionnée à l'article L. 601 sont importés d'un Etat membre de la
-Communauté économique européenne, les comptes rendus du contrôle correspondant à
-ces lots sont détenus par l'établissement situé dans la Communauté économique
-européenne, titulaire d'une autorisation de fabrication ou d'importation de
-médicaments, qui assure le suivi de ces lots pour la France. Le titulaire de
-l'autorisation de mise sur le marché tient les autorités françaises informées de
-l'identité du détenteur de ces comptes rendus de contrôle.
+Ce contrôle est effectué par l'établissement pharmaceutique de l'importateur.
+
+Lorsque ces médicaments ou produits bénéficient d'une autorisation de mise sur
+le marché mentionnée à l'article L. 601, ce contrôle est celui prévu au dossier
+de cette autorisation de mise sur le marché.
+
+L'établissement s'assure que ces médicaments ou produits ont été fabriqués par
+des fabricants dûment autorisés au titre de la législation ou de la
+réglementation de l'Etat concerné et ont été soumis à des normes de bonnes
+pratiques au moins équivalentes à celles que prévoit l'article L. 511-2.
+
+Les dispositions de l'alinéa précédent sont applicables aux médicaments destinés
+à être expérimentés sur l'homme importés dans les conditions mentionnées au
+premier alinéa.

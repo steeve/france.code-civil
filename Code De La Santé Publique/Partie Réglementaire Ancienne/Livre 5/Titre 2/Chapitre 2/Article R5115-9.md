@@ -1,8 +1,27 @@
 Article R5115-9
 ----
-Les médicaments importés de pays non membres de la Communauté économique
-européenne doivent faire l'objet en France du contrôle du produit fini prévu au
-dossier d'autorisation de mise sur le marché. Ce contrôle est effectué par
-l'importateur. Celui-ci s'assure que les médicaments ont été fabriqués par des
-fabricants dûment autorisés et soumis à des normes de bonnes pratiques de
-fabrication au moins équivalentes à celles que prévoit l'article L. 600.
+Tout établissement pharmaceutique assurant la fabrication de médicaments
+mentionnés au 1° de l'article L. 512, de générateurs, trousses ou précurseurs
+mentionnés au 3° dudit article ou de produits mentionnés à l'article L. 658-11
+doit disposer d'un système de documentation comportant les spécifications, les
+formules de fabrication, les procédures et les relevés, comptes rendus et
+enregistrements couvrant les différentes opérations qu'il effectue.
+
+Pour les médicaments autres que ceux destinés à être expérimentés sur l'homme,
+les générateurs, trousses ou précurseurs mentionnés au 3° de l'article L. 512 ou
+les produits mentionnés à l'article L. 658-11, les documents relatifs à chaque
+lot sont conservés par l'établissement pharmaceutique qui en assure la
+fabrication, pendant au moins un an après la date de péremption du lot concerné
+et pendant au moins cinq ans après sa libération.
+
+Pour les médicaments destinés à être expérimentés sur l'homme, les documents
+relatifs à chaque lot sont conservés par l'établissement pharmaceutique qui en
+assure la fabrication, pendant au moins un an après la date de péremption du lot
+et pendant au moins cinq ans après la fin de l'essai ou son interruption.
+Lorsque les essais aboutissent à la commercialisation du médicament, ces
+documents sont conservés au-delà des durées précitées et jusqu'au terme d'un
+délai de cinq ans après la fin de cette commercialisation.
+
+Les établissements pharmaceutiques assurant l'importation de médicaments ou
+produits dans les conditions mentionnées à l'article R. 5115-7 doivent détenir
+ces documents et les conserver pendant les mêmes délais.

@@ -53,6 +53,6 @@ r) Posologie et mode d'administration ;
 s) Surdosage : symptômes, conduite d'urgence, antidotes ;
 
 t) Précautions particulières d'élimination des produits non utilisés ou des
-déchets dérivés de ces produits, s'il y a lieu.
+déchets dérivés de ces produits, s'il y a lieu ;
 
 u) Date d'établissement du résumé des caractéristiques du produit.

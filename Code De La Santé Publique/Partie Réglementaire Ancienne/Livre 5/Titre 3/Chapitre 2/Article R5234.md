@@ -31,7 +31,7 @@ personne qui en est titulaire ainsi que l'établissement où les opérations
 peuvent être effectuées et, à l'intérieur de celui-ci, les locaux susceptibles
 de recevoir des radio-éléments artificiels [*mentions obligatoires*].
 
-Sous réserve des dispositions des articles R. 5107-2 et R. 5115-8, les
+Sous réserve des dispositions des articles R. 5112-2 et R. 5115-3, les
 autorisations accordées conformément à l'article L. 598 tiennent lieu de celles
 prévues au deuxième alinéa et au 1° du troisième alinéa du présent article pour
 les établissements pharmaceutiques se livrant à la fabrication, à l'importation

@@ -42,7 +42,7 @@ d) En ce qui concerne une spécialité nouvelle renfermant des composants connus
 mais qui n'ont pas encore été associés dans un but thérapeutique, les résultats
 des essais pharmacologiques, toxicologiques et cliniques relatifs à
 l'association doivent être fournis sans qu'il soit nécessaire de fournir la
-documentation relative à chaque composant individuel.
+documentation relative à chaque composant individuel ;
 
 e) Pour un médicament homéopathique soumis à autorisation de mise sur le marché,
 compte tenu de la spécificité de ce médicament, le demandeur est dispensé de

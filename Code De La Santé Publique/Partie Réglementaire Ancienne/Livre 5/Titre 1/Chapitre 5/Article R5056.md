@@ -3,9 +3,7 @@ Article R5056
 Il est procédé au moins une fois par an à l'inspection :
 
 1° Par les inspecteurs de l'Agence du médicament, des établissements
-pharmaceutiques mentionnés à l'article L. 596 dans lesquels sont effectuées la
-fabrication, l'importation ou l'exportation de médicaments à usage humain ou des
-produits mentionnés à l'article L. 658-11, ou l'exploitation de médicaments.
+pharmaceutiques mentionnés au 1° de l'article R. 5108 ;
 
 2° Par les inspecteurs de la pharmacie :
 
@@ -18,9 +16,11 @@ ci-dessus ;
 c) Des dépôts de médicaments détenus par les médecins mentionnés à l'article L.
 594 et des herboristeries mentionnées à l'article L. 659.
 
-Lorsque l'inspection concerne un établissement pharmaceutique mentionné à
-l'article L. 596, les inspecteurs de la pharmacie ou, selon le cas, les
-inspecteurs de l'Agence du médicament s'assurent notamment que cet établissement
-respecte les bonnes pratiques prévues à l'article L. 600 qui le concernent.
-Chaque inspection donne lieu à un rapport qui doit être communiqué au pharmacien
-responsable de l'entreprise.
+Lorsque l'inspection concerne un établissement pharmaceutique, les inspecteurs
+de la pharmacie ou, selon le cas, les inspecteurs de l'Agence du médicament
+s'assurent notamment que cet établissement respecte les bonnes pratiques prévues
+à l'article L. 511-2 qui le concernent.
+
+Sous réserve des dispositions de l'article R. 5059-1, chaque inspection donne
+lieu à un rapport qui est communiqué au pharmacien responsable concerné ; ce
+dernier peut faire valoir ses observations dans un délai de quinze jours.

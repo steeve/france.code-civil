@@ -1,14 +1,13 @@
 Article R5107
 ----
-Est considéré, selon le cas, comme pharmacien fabricant, pharmacien
-grossiste-répartiteur ou pharmacien dépositaire :
-
-1° Le ou les pharmaciens responsables définis à l'article L. 596 et qui sont
-propriétaires d'un des établissements mentionnés audit article ;
-
-2° Dans le cas d'une société, le pharmacien responsable défini aux articles L.
-596 et R. 5113.
-
-3° Dans le cas de la Pharmacie centrale des armées, le pharmacien responsable
-des établissements pharmaceutiques qui en dépendent désigné par le ministre
-chargé des armées.
+Un arrêté du ministre chargé de la santé, pris sur proposition du directeur
+général de l'Agence du médicament pour les établissements relevant de sa
+compétence, détermine les modalités de présentation et d'instruction des
+demandes d'autorisation d'ouverture, de modification des autorisations initiales
+et de transfert des autorisations d'ouverture prévues aux articles R. 5108, R.
+5110 et R. 5111-1, à l'exception de celles concernant les établissements
+pharmaceutiques de la Pharmacie centrale des armées et des établissements de
+ravitaillement sanitaire du service de santé des armées ; pour ces dernières
+demandes, ces modalités sont fixées par arrêté conjoint des ministres chargés de
+la santé et des armées, pris sur proposition du directeur général de l'Agence du
+médicament pour les établissements relevant de sa compétence.

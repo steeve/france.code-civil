@@ -1,8 +1,6 @@
 Article R5105
 ----
-Les dispositions de la présente section sont applicables à tout pharmacien ou à
-toute société pharmaceutique exerçant une activité de fabricant de produits
-pharmaceutiques, de grossiste-répartiteur ou de dépositaire des mêmes produits
-ainsi qu'aux établissements pharmaceutiques de la Pharmacie centrale des armées,
-à raison de ses activités de fabrication de médicaments, produits ou objets
-mentionnés à l'article L. 596-3.
+Les dispositions de la présente section sont applicables à toute entreprise et à
+tout organisme mentionnés aux articles L. 596, L. 596-1 et L. 596-3, et à
+l'article L. 670-3 sous réserve des dispositions du chapitre V du titre II du
+livre VI, ainsi qu'à tout établissement pharmaceutique.

@@ -1,12 +1,12 @@
 Article R5136-1
 ----
-Lorsque la demande a été présentée en vue de l'extension en France d'une
+Lorsque la demande est présentée en vue de l'extension en France d'une
 autorisation de mise sur le marché obtenue dans un autre pays membre de la
 Communauté économique européenne le directeur général de l'Agence du médicament
 accorde l'autorisation ou fait usage de son droit d'opposition dans un délai de
 cent vingt jours à compter de la date qui lui est notifiée par le comité des
 spécialités pharmaceutiques [*point de départ*] institué par l'article 8 de la
-directive 75/319/C.E.E. du Conseil des communautés européennes.
+directive 75/319/CEE du Conseil des communautés européennes.
 
 Si le directeur général de l'Agence du médicament estime ne pas pouvoir accorder
 l'autorisation de mise sur le marché, il transmet son opposition motivée au

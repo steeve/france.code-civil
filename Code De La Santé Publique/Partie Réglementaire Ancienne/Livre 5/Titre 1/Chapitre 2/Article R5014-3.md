@@ -16,28 +16,21 @@ suspensive de l'enregistrement de la déclaration prévue à l'article L. 574 ou
 en cas de succession, de la copie de l'acte de partage ;
 
 2° Lorsqu'elle est présentée en vue d'exercer en qualité de pharmacien
-responsable d'un établissement de préparation :
+responsable, délégué, responsable intérimaire ou délégué intérimaire d'une
+entreprise ou d'un organisme mentionné à l'article R. 5106 :
 
-a) De la justification que l'intéressé satisfait aux conditions fixées par
-l'article R. 5107-1 ;
+a) De la justification que l'intéressé satisfait aux conditions d'exercice
+prévues, selon le cas, à l'article R. 5112 ou à l'article R. 5112-1 ;
 
-b) Lorsque l'établissement est la propriété d'une société, de la copie de la
-délibération de l'organe social comportant désignation du pharmacien
-responsable, ou responsable intérimaire, et fixant ses attributions ;
+b) Lorsque l'établissement est la propriété d'une société, de la copie de l'acte
+de l'organe social compétent portant désignation de l'intéressé et fixant ses
+attributions ;
 
-3° Lorsqu'elle est présentée en vue d'exercer en qualité de pharmacien
-responsable d'un établissement de vente en gros ou de distribution en gros, et
-si l'établissement est la propriété d'une société, de la copie de la
-délibération de l'organe social comportant désignation du pharmacien
-responsable, ou responsable intérimaire, et fixant ses attributions ;
+3° Lorsqu'elle est présentée en vue d'exercer une autre activité professionnelle
+de pharmacien de toutes pièces précisant la nature, les conditions et modalités
+d'exercice de ladite activité ;
 
-4° Lorsqu'elle est présentée en vue d'exercer une autre activité professionnelle
-de pharmacien :
-
-- de toutes pièces précisant la nature, les conditions et modalités d'exercice
-de ladite activité ;
-
-5° Lorsqu'elle vise à l'inscription d'une société d'exercice libéral, outre les
+4° Lorsqu'elle vise à l'inscription d'une société d'exercice libéral, outre les
 pièces mentionnées au 1° :
 
 a) De la copie des statuts de la société et de son règlement intérieur ;

@@ -1,12 +1,6 @@
 Article R5115-5
 ----
-Tout pharmacien assistant doit être inscrit à l'ordre des pharmaciens et faire
-enregistrer son diplôme pour cette activité.
-
-En cas d'absence supérieure à deux mois, il en est donné avis par l'employeur au
-directeur général de l'Agence du médicament ou au pharmacien inspecteur régional
-de la santé selon que l'établissement relève du 1° ou du 2° de l'article R.
-5108, et au conseil central de l'ordre et il est pourvu par ledit employeur au
-remplacement de l'intéressé.
-
-Le présent article ne s'applique pas aux pharmaciens chimistes des armées.
+Les entreprises et organismes mentionnés à l'article R. 5106 prennent toutes les
+mesures nécessaires pour que le transport et la livraison des médicaments et
+autres produits pharmaceutiques soient effectués dans des conditions
+garantissant leur bonne conservation, leur intégrité et leur sécurité.

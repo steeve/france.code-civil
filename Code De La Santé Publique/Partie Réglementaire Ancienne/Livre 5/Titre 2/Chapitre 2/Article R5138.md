@@ -22,7 +22,7 @@ de respecter les méthodes de fabrication et de contrôle ;
 e) Les comptes rendus des contrôles, effectués par le demandeur dans le respect
 desdites méthodes ;
 
-f) la formule de préparation avec, notamment, toutes indications utiles sur le
+f) La formule de préparation avec, notamment, toutes indications utiles sur le
 récipient ;
 
 g) La compétence des nouveaux modèles destinés à la vente ;

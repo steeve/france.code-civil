@@ -24,7 +24,7 @@ accolé.
 c) L'étiquette du récipient ainsi que celle de l'emballage éventuel doivent
 porter le numéro de l'autorisation ministérielle d'ouverture de l'établissement
 fabricant, à l'exclusion du nom de celui-ci, et le numéro du contrôle effectué
-en application des dispositions de l'article R. 5115-7.
+par cet établissement.
 
 d) Dans le cas de solutés injectables, la voie d'administration doit être
 précisée.

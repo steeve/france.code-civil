@@ -1,9 +1,19 @@
 Article R5008
 ----
-On entend par pharmaciens assistants les personnes qui, possédant le diplôme de
-pharmacien, exercent, simultanément avec le ou les pharmaciens dont les diplômes
-sont enregistrés à cet effet, une activité dans une officine ou un établissement
-pharmaceutique dont ils ne sont ni propriétaires ni titulaires.
+On entend par pharmaciens assistants les personnes qui, remplissant les
+conditions d'exercice de la pharmacie en France, exercent leur activité :
 
-Les pharmaciens assistants exercent notamment leur activité dans les conditions
-prévues aux articles L. 579, L. 580 et L. 600.
+a) Dans une officine, avec le ou les pharmaciens titulaires ou le gérant de la
+pharmacie après décès ;
+
+b) Dans une pharmacie mutualiste ou une société de secours minière, avec le
+gérant ;
+
+c) Dans une pharmacie à usage intérieur, avec le pharmacien chargé de la gérance
+;
+
+d) Dans un établissement pharmaceutique, avec le pharmacien responsable ou
+délégué.
+
+Les pharmaciens assistants exercent leur activité dans les conditions prévues
+aux articles L. 579, L. 580, L. 595-11 et L. 599.

@@ -1,32 +1,61 @@
 Article R5115-1
 ----
-1° Les établissements visés à l'article L. 596 ne sont pas autorisés à délivrer
-au public les produits visés aux 1° et 2° de l'article L. 512.
+I. - Les entreprises ou organismes mentionnés à l'article R. 5106 ne sont pas
+autorisés à délivrer au public les médicaments, produits ou objets mentionnés
+aux articles L. 511-1 (4°) et L. 512.
 
-Cette disposition ne fait pas obstacle :
-
-1° A ce que les pharmaciens titulaires d'une officine et fabriquant des produits
-pharmaceutiques conformément aux dispositions de l'article R. 5112-1 débitent
-dans leur officine les spécialités qu'ils préparent ;
-
-2° A ce que les établissements visés à l'article L. 596 vendent directement aux
-praticiens habilités à les utiliser et en vue de l'emploi exclusif par ces
-praticiens pour leur usage professionnel :
+Cette disposition ne fait pas obstacle, sous réserve que soit effectué un suivi
+individualisé des lots et, s'il y a lieu, leur retrait, à ce que les entreprises
+ou organismes autorisés au titre des 1°, 2°, 3°, 4°, 5°, 6°, 9° et 12° de
+l'article R. 5106 vendent directement aux praticiens habilités à les utiliser et
+en vue de l'emploi exclusif par ces praticiens pour leur usage professionnel,
+sur commande écrite du praticien :
 
 a) Les articles de pansement et de suture chirurgicale ;
 
-b) Les médicaments utilisés en diagnostic médical, en anesthésie, en
-allergologie ou d'usage dentaire dont la liste sera établie par arrêté du
-ministre chargé de la santé sur proposition du directeur général de l'Agence du
-médicament ;
+b) Les médicaments mentionnés à l'article L. 601 utilisés en diagnostic médical,
+en anesthésie, en allergologie, ou d'usage antalgique ou dentaire.
 
-3° A ce que ces mêmes établissements fournissent aux services ou centres
-procédant à des vaccinations collectives les produits nécessaires à ces
-vaccinations, sur commande écrite du médecin responsable ;
+II. - Outre leurs activités de distribution aux officines, aux pharmacies
+mutualistes ou de sociétés de secours minières et aux pharmacies à usage
+intérieur, les entreprises ou organismes autorisés au titre des 1°, 2°, 3°, 4°,
+5°, 6°, 9° et 12° de l'article R. 5106 fournissent :
 
-4° A ce que les mêmes établissements fournissent aux centres de planification ou
-d'éducation familiale sur commande écrite du pharmacien du centre ou du médecin
-autorisé par la décision d'agrément, les médicaments produits ou objets
-contraceptifs que les centres distribuent en application de l'article 4 de la
-loi n° 67-1176 du 28 décembre 1967, modifiée par la loi n° 74-1026 du 4 décembre
-1974.
+1° Aux services ou centres procédant à des vaccinations collectives, les
+produits nécessaires à ces vaccinations, sur commande écrite du médecin
+responsable du service ou centre ;
+
+2° Aux dispensaires antivénériens mentionnés à l'article L. 295, les produits
+nécessaires aux traitements ambulatoires qu'ils assurent, sur commande écrite du
+responsable du centre ;
+
+3° Aux centres de planification ou d'éducation familiale, les médicaments,
+produits ou objets contraceptifs que les centres distribuent dans les conditions
+prévues à l'article 4 de la loi n° 67-1176 du 28 décembre 1967 ainsi que les
+médicaments que les centres distribuent en application de l'article 6 bis de la
+même loi, sur commande écrite du directeur ou du pharmacien du centre ou du
+médecin autorisé par le préfet ;
+
+4° Aux dispensaires antituberculeux mentionnés à l'article L. 220, les
+médicaments antituberculeux que ces dispensaires sont autorisés à délivrer, sur
+commande écrite du pharmacien du centre ou du médecin autorisé par le préfet ;
+
+5° Aux établissements de transfusion sanguine mentionnés à l'article L. 668-1
+bénéficiant de l'autorisation préalable prévue à l'article R. 668-4-1, les
+médicaments dérivés du sang que ces établissements sont autorisés à dispenser
+aux malades qui y sont traités, sur commande écrite du directeur ou d'un
+pharmacien de cet établissement ;
+
+6° Aux établissements mentionnés à l'article L. 595-5, les médicaments classés
+dans la catégorie des médicaments réservés à l'usage hospitalier prévue à
+l'article R. 5143-5-2, sur commande écrite du directeur de l'établissement ou du
+responsable de la détention et de la dispensation des ces médicaments ;
+
+7° Aux centres spécialisés de soins aux toxicomanes mentionnés à l'article L.
+355-21-1, les médicaments correspondant strictement aux missions de ces centres,
+sur commande écrite du responsable du centre ou du responsable de la détention
+et de la dispensation de ces médicaments ;
+
+8° Aux personnes morales mentionnées à l'article L. 512-2, des gaz à usage
+médical, sur commande écrite du pharmacien qui assure la responsabilité de leur
+dispensation à domicile.

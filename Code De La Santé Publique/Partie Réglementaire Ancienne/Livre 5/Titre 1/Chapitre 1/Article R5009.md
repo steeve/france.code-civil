@@ -1,20 +1,12 @@
 Article R5009
 ----
-Les activités pharmaceutiques des pharmaciens assistants comprennent notamment :
+Les activités des pharmaciens assistants comprennent :
 
-a) La collaboration apportée à un pharmacien titulaire d'une des officines ou
-pharmacies définies aux articles L. 568 et L. 577 ;
+a) Dans les officines et les pharmacies mutualistes ou des sociétés de secours
+minières, les activités mentionnées aux articles L. 568, L. 569 et L. 589 ;
 
-b) La collaboration apportée au pharmacien responsable défini à l'article L.
-596.
+b) Dans les pharmacies à usage intérieur, les activités mentionnées aux articles
+L. 595-2, L. 595-6 et L. 595-9-1 ;
 
-La collaboration prévue en a et b ci-dessus peut en particulier consister dans
-la direction d'un des services suivants :
-
-Achat ou contrôle de matières premières ou de médicaments ;
-
-Fabrication ou conditionnement de médicaments ;
-
-Contrôle de la fabrication de médicaments ;
-
-Vente et magasinage de médicaments.
+c) Dans les établissements pharmaceutiques, les activités mentionnées aux
+articles R. 5106 et R. 5114-2.

@@ -1,5 +1,5 @@
 Article R5114-3
 ----
-A l'exception des pharmaciens chimistes des armées, les pharmaciens mentionnés à
-l'article R. 5107 doivent être inscrits au tableau de l'ordre correspondant à
-leur activité ; leur diplôme est enregistré à cet effet.
+Lorsque, pendant une période supérieure à un mois, un pharmacien assistant
+recruté en application des articles R. 5114 ou R. 5114-1 s'absente ou remplace
+le pharmacien responsable ou délégué, il doit être remplacé.

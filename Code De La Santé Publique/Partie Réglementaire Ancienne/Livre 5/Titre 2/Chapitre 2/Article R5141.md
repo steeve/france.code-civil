@@ -9,7 +9,7 @@ La commission mentionnée à l'article R. 5140 comprend [*composition*]:
 - le directeur général de l'Agence du médicament ou son représentant ;
 
 - le directeur général de l'Institut national de la santé et de la recherche
-médicale ou son représentant ;.
+médicale ou son représentant.
 
 2° Cinq membres représentant les commissions instituées auprès du ministre
 chargé de la santé et compétentes en matière de médicament :
@@ -29,7 +29,7 @@ e) Le président de la commission de contrôle de la publicité ou son
 représentant.
 
 3° Trente membres nommés par le ministre chargé de la santé pour une durée de
-trois ans [*durée du mandat*].
+trois ans [*durée du mandat*] :
 
 Un médecin choisi sur une liste de deux noms proposés par l'Académie nationale
 de médecine ;
