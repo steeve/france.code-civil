@@ -35,14 +35,14 @@ l'apprentissage :
 technologique, ou titulaires du brevet d'études professionnelles agricoles, ou
 du brevet d'études professionnelles, ou du certificat d'aptitude professionnelle
 préparé en deux ans après la classe de troisième, ou ayant antérieurement
-terminé une classe de première. Ces candidats suivent une préparation de 1 600
+terminé une classe de première. Ces candidats suivent une préparation de 1 440
 heures au moins d'enseignements généraux, technologiques et professionnels en
 centre de formation d'apprentis, en section d'apprentissage ou en unité de
 formation par apprentissage ;
 
 - aux candidats relevant des articles R. 117-7, R. 117-7-1, R. 117-7-2 et R.
 117-7-3 du livre Ier du code du travail qui ont suivi une préparation d'au moins
-800 heures d'enseignements généraux, technologiques et professionnels en centre
+720 heures d'enseignements généraux, technologiques et professionnels en centre
 de formation d'apprentis, en section d'apprentissage ou en unité de formation
 par apprentissage ;
 
@@ -52,17 +52,17 @@ III. - Le brevet de technicien agricole est accessible, par la voie de la
 formation professionnelle continue :
 
 - aux candidats ayant accompli deux années d'activités professionnelles et qui
-ont suivi une formation comportant au moins 1 600 heures d'enseignements
+ont suivi une formation comportant au moins 1 440 heures d'enseignements
 généraux, technologiques et professionnels ;
 
 - aux candidats ayant accompli la scolarité complète du cycle terminal des
-lycées et qui ont suivi une formation comportant au moins 800 heures
+lycées et qui ont suivi une formation comportant au moins 720 heures
 d'enseignements généraux, technologiques et professionnels ;
 
 - aux candidats ayant accompli la scolarité de fin de classe de première de
 l'enseignement général et technologique ou possédant le diplôme du brevet
 d'études professionnelles et qui ont suivi une formation comportant au moins 1
-600 heures d'enseignements généraux, technologiques et professionnels ;
+440 heures d'enseignements généraux, technologiques et professionnels ;
 
 - aux candidats mentionnés au troisième tiret du I.
 

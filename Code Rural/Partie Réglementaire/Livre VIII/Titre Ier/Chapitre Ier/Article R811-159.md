@@ -20,12 +20,12 @@ II. - Pour se présenter à l'examen du brevet de technicien supérieur agricole
 par la voie de l'apprentissage, les candidats doivent :
 
 a) Soit relever du premier ou du troisième alinéa du III de l'article R. 811-140
-et avoir suivi une formation d'au moins 1 500 heures de cours, travaux
+et avoir suivi une formation d'au moins 1 350 heures de cours, travaux
 pratiques, travaux dirigés en centre de formation d'apprentis ;
 
 b) Soit relever des articles R. 117-7, R. 117-7-1 et R. 117-7-2 du livre Ier du
 code du travail ou relever du IV de l'article R. 811-140 et avoir suivi une
-formation en centre de formation d'apprentis d'au moins 800 heures de cours,
+formation en centre de formation d'apprentis d'au moins 720 heures de cours,
 travaux pratiques, travaux dirigés.
 
 III. - Pour se présenter à l'examen du brevet de technicien supérieur agricole
@@ -33,19 +33,19 @@ par la voie de la formation professionnelle continue, les candidats doivent :
 
 a) Soit relever du premier ou du troisième alinéa du III de l'article R. 811-140
 et avoir suivi une préparation dont le nombre d'heures de cours, travaux
-pratiques et travaux dirigés est fixé à 1 500 heures minimum en centre de
+pratiques et travaux dirigés est fixé à 1 350 heures minimum en centre de
 formation ;
 
 b) Soit relever du IV de l'article R. 811-140 et avoir suivi une préparation
-fixée à au moins 800 heures de cours, travaux pratiques et travaux dirigés en
+fixée à au moins 720 heures de cours, travaux pratiques et travaux dirigés en
 centre de formation ;
 
 c) Soit justifier de l'équivalent de deux années d'activité professionnelle à
 temps plein à la date du début de la formation et avoir suivi une préparation
-dont la durée est fixée à 1 500 heures de cours, travaux pratiques et travaux
-dirigés en centre de formation. Cette durée peut être réduite à 1 100 heures
-pour les candidats qui satisfont également aux conditions prévues au premier ou
-au troisième alinéa du III de l'article R. 811-140. La condition d'activité
+dont la durée est fixée à 1 350 heures de cours, travaux pratiques et travaux
+dirigés en centre de formation. Cette durée peut être réduite à 990 heures pour
+les candidats qui satisfont également aux conditions prévues au premier ou au
+troisième alinéa du III de l'article R. 811-140. La condition d'activité
 professionnelle s'apprécie au début de la formation.
 
 L'exigence d'un niveau de formation ou de l'équivalent de deux années d'activité
