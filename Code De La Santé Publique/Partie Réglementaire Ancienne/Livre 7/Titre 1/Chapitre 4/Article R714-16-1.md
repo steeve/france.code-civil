@@ -27,11 +27,11 @@ contractuels mentionnés au 6° ;
 4° Le cas échéant, le pharmacien gérant mentionné à l'article 258 du décret du
 17 avril 1943 ;
 
-5° Un représentant des attachés mentionnés à l'article 1er (1°) du décret du 30
-mars 1981 susvisé, ou un médecin mentionné à l'article 14 de la loi du 31
-décembre 1985 susvisée et effectuant au moins trois vacations par semaine, élu
-par l'ensemble de ces attachés et médecins remplissant les mêmes conditions
-d'activité ;
+5° Un représentant des praticiens attachés mentionnés à l'article 2 du décret n°
+2003-769 du 1er août 2003, ou un médecin mentionné à l'article 14 de la loi du
+31 décembre 1985 susvisée et effectuant au moins trois demi-journées ou trois
+vacations par semaine, élu par l'ensemble de ces praticiens attachés et médecins
+remplissant les mêmes conditions d'activité ;
 
 6° Deux représentants des internes et des résidents, élus par l'ensemble des
 internes en médecine, des internes en pharmacie, des internes en odontologie et

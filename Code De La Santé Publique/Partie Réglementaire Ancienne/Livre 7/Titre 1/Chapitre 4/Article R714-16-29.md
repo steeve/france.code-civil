@@ -20,8 +20,8 @@ dispositions des décrets n° 72-360 et n° 72-361 du 20 avril 1972 ;
 3° De cinq représentants élus par et parmi les catégories de personnels
 mentionnés au 7° de l'article R. 714-16-6 ;
 
-4° De deux représentants élus par les attachés remplissant les conditions
-définies au 8° de l'article R. 714-16-6 ;
+4° De deux représentants élus par les praticiens attachés remplissant les
+conditions définies au 8° de l'article R. 714-16-6 ;
 
 5° D'un représentant élu par et parmi chacune des catégories de personnel
 mentionnées aux 9° à 11° de l'article R. 714-16-6.

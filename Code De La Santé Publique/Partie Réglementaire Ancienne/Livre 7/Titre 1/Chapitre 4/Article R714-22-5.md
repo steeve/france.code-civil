@@ -15,7 +15,7 @@ b) Le collège des chefs de clinique des universités-assistants des hôpitaux, 
 assistants hospitaliers universitaires, des assistants, des praticiens
 contractuels et des praticiens adjoints contractuels ;
 
-c) Le collège des attachés des hôpitaux ;
+c) Le collège des praticiens attachés ;
 
 d) Le cas échéant, le collège des sages-femmes.
 

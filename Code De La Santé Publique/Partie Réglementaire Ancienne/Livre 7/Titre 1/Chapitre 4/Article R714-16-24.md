@@ -28,8 +28,8 @@ contractuels ;
 
 e) Les pharmaciens gérants ;
 
-f) Les attachés ou, le cas échéant, les médecins mentionnés à l'article 14 de la
-loi du 31 décembre 1985 ;
+f) Les praticiens attachés ou, le cas échéant, les médecins mentionnés à
+l'article 14 de la loi du 31 décembre 1985 ;
 
 2° Lorsqu'elle est appelée à donner un avis sur la nomination ou le
 renouvellement d'un chef de service ou de département, quelle que soit sa

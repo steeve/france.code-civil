@@ -6,8 +6,7 @@ d'établissement comprend :
 
 1° Quinze représentants des médecins exerçant leur activité dans les spécialités
 de la médecine, à l'exception de celle d'anesthésiologie réanimation, de la
-psychiatrie ainsi que de la radiologie et imagerie médicale dont [*composition*]
-:
+psychiatrie ainsi que de la radiologie et imagerie médicale dont :
 
 a) Neuf professeurs des universités-praticiens hospitaliers mentionnés au 1° a
 de l'article 1er du décret n° 84-135 du 24 février 1984 ;
@@ -101,10 +100,10 @@ mentionnés à l'article 1er du décret n° 95-569 du 6 mai 1995, ainsi que par 
 praticiens contractuels mentionnés au I de l'article 2 du décret n° 93-701 du 27
 mars 1993 parmi les praticiens contractuels mentionnés au 6° ;
 
-8° Deux représentants des attachés mentionnés à l'article 1er (1°) du décret du
-30 mars 1981, effectuant au moins trois vacations par semaine, élus par les
-attachés mentionnés à l'article 1er (1°) du décret susvisé, remplissant les
-mêmes conditions d'activité ;
+8° Deux représentants des praticiens attachés mentionnés à l'article 2 du décret
+n° 2003-769 du 1er août 2003, effectuant au moins trois demi-journées par
+semaine, élus par et parmi les praticiens considérés remplissant les mêmes
+conditions d'activité ;
 
 9° Un représentant des internes et des résidents, élus par l'ensemble des
 internes en médecine, des internes en odontologie et des résidents affectés dans
