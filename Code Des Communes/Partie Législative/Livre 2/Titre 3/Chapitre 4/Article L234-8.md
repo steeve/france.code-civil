@@ -10,3 +10,9 @@ potentiel fiscal par habitant de la commune.
 Aucune recette n'est versée au titre de la première fraction aux communes dont
 le potentiel fiscal par habitant est supérieur au double du potentiel fiscal
 moyen par habitant des communes appartenant au même groupe démographique.
+
+" Lorsqu'une commune ne dispose d'aucune ressource au titre des quatre taxes
+directes locales, l'attribution par habitant revenant à la commune est égale au
+double de l'attribution moyenne par habitant de l'ensemble des communes
+appartenant au même groupe démographique, tel qu'il résulte de l'article L.
+234-2. "

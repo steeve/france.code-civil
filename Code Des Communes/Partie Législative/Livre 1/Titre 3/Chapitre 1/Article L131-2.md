@@ -10,11 +10,11 @@ menaçant ruine, l'interdiction de rien exposer aux fenêtres ou autres parties
 des édifices qui puisse nuire par sa chute ou celle de rien jeter qui puisse
 endommager les passants ou causer des exhalaisons nuisibles ;
 
-2. Le soin de réprimer les atteintes à la tranquillité publique, telle que les
+2. Le soin de réprimer les atteintes à la tranquillité publique telles que les
 rixes et disputes accompagnées d'ameutement dans les rues, le tumulte excité
-dans les lieux d'assemblée publique, les attroupements, les bruits et
-rassemblements nocturnes qui troublent le repos des habitants et tous actes de
-nature à compromettre la tranquillité publique.
+dans les lieux d'assemblée publique, les attroupements, les bruits, y compris
+les bruits de voisinage, les rassemblements nocturnes qui troublent le repos des
+habitants et tous actes de nature à compromettre la tranquillité publique.
 
 3. Le maintien du bon ordre dans les endroits où il se fait de grands
 rassemblements d'hommes, tels que les foires, marchés, réjouissances et
@@ -47,7 +47,8 @@ occasionnés par la divagation des animaux malfaisants ou féroces ;
 
 9. Le soin de réglementer la fermeture annuelle des boulangeries, lorsque cette
 fermeture est rendue nécessaire pour l'application de la législation sur les
-congés payés, après consultation des organisations patronales et ouvrières
-[*conditions de forme*], de manière à assurer le ravitaillement de la
-population. La police municipale des communes riveraines de la mer s'exerce sur
-le rivage de la mer jusqu'à la limite des eaux.
+congés payés, après consultation des organisations patronales et ouvrières, de
+manière à assurer le ravitaillement de la population.
+
+La police municipale des communes riveraines de la mer s'exerce sur le rivage de
+la mer jusqu'à la limite des eaux.
