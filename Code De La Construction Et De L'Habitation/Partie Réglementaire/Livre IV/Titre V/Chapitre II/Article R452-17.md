@@ -1,11 +1,37 @@
 Article R452-17
 ----
-Le directeur général de la comptabilité publique ou son représentant, le chef de
-la mission interministérielle d'inspection du logement social ou son
-représentant et l'agent comptable participent aux séances du comité des aides
-avec voix consultative.
+La commission de réorganisation est présidée par le président du conseil
+d'administration et comprend huit autres membres nommés à raison :
 
-Des experts, notamment issus des organisations professionnelles représentant les
-organismes d'habitations à loyer modéré et les sociétés d'économie mixte,
-peuvent être appelés à participer aux séances du comité des aides avec voie
-consultative par le président ou par le directeur général.
+- de deux par le ministre chargé du logement ;
+
+- d'un par le ministre chargé de l'économie ;
+
+- de quatre par le président de l'Union nationale des fédérations d'organismes
+d'habitations à loyer modéré, dont l'un est désigné pour remplacer le président
+de la commission en cas d'empêchement ou de vacance de la présidence ;
+
+- d'un désigné par le directeur général de l'Agence nationale pour la rénovation
+urbaine.
+
+Les membres de la commission sont nommés pour une durée de trois ans. Leur
+mandat est renouvelable.
+
+Les membres de la commission qui, en cours de mandat, n'occupent plus les
+fonctions en raison desquelles ils ont été désignés sont réputés
+démissionnaires.
+
+En cas de vacance, pour quelque cause que ce soit, la commission est complétée
+dans le délai d'un mois à compter de la constatation de la vacance. Les nouveaux
+membres sont nommés selon les mêmes modalités que ceux qu'ils remplacent et pour
+la durée du mandat restant à courir.
+
+La commission ne délibère valablement que si la moitié des membres sont présents
+ou représentés. Un membre absent peut donner mandat à un autre membre de le
+représenter à la commission. Un membre ne peut détenir plus d'un mandat.
+
+La commission prend ses décisions à la majorité des voix des membres présents ou
+représentés.
+
+La commission rend compte de ses décisions au conseil d'administration au moins
+une fois par an.

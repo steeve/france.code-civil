@@ -7,7 +7,9 @@ Il détermine les orientations de son activité, en particulier en matière de
 maîtrise des risques liés aux garanties et aux concours financiers à la
 prévention et au redressement, d'attribution des garanties des prêts au logement
 locatif social et d'attribution des concours financiers à la prévention et au
-redressement.
+redressement. Il fixe les orientations générales relatives à l'octroi des
+concours financiers destinés à favoriser la réorganisation des organismes
+d'habitations à loyer modéré et leur regroupement.
 
 Il est notamment compétent pour :
 
@@ -15,8 +17,10 @@ Il est notamment compétent pour :
 
 2° Arrêter les comptes annuels ;
 
-3° Donner un avis sur le taux de la cotisation et le montant des réductions
-prévus à l'article L. 452-4 ;
+3° Donner un avis sur le taux de la cotisation, le montant des réductions
+prévues à l'article L. 452-4 et sur la fraction des cotisations additionnelles
+affectée au versement d'une contribution à l'Agence nationale pour la rénovation
+urbaine ;
 
 4° Décider des emprunts ;
 
@@ -42,7 +46,7 @@ financières ;
 11° Statuer sur les demandes de concours financiers mentionnés au 10° ci-dessus
 ;
 
-12° Attribuer les subventions mentionnées au troisième alinéa de l'article L.
+12° Attribuer les subventions mentionnées au cinquième alinéa de l'article L.
 452-1, en fixant les contreparties demandées aux bénéficiaires ;
 
 13° Délibérer sur le rapport annuel de gestion du directeur général ;

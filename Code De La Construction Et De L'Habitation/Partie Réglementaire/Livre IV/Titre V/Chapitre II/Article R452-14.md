@@ -2,11 +2,12 @@ Article R452-14
 ----
 Le directeur général dirige la caisse. A ce titre :
 
-1° Il prépare les décisions du conseil d'administration et donne son avis sur
-l'ordre du jour des séances ;
+1° Il prépare les décisions du conseil d'administration et de la commission et
+donne son avis sur l'ordre du jour des séances ;
 
-2° Il exécute les décisions du conseil d'administration et peut, à cette fin,
-recevoir les délégations nécessaires du conseil d'administration ;
+2° Il exécute les décisions du conseil d'administration et de la commission et
+peut, à cette fin, recevoir les délégations nécessaires du conseil
+d'administration ;
 
 3° Il instruit les demandes de garantie et les demandes de concours financier ;
 

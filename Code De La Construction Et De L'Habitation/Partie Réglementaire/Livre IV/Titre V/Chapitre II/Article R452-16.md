@@ -1,6 +1,6 @@
 Article R452-16
 ----
-Le comité des aides comprend le président du conseil d'administration et huit
+Le comité des aides comprend le président du conseil d'administration et sept
 autres membres nommés à raison :
 
 - de deux par le ministre chargé du logement, dont l'un ayant la qualité
@@ -8,7 +8,7 @@ d'administrateur ;
 
 - d'un par le ministre chargé de l'économie ;
 
-- d'un par le ministre chargé du budget ;
+- (alinéa abrogé).
 
 - de trois par le président de l'Union nationale des fédérations d'organismes
 d'habitations à loyer modéré ;
@@ -33,7 +33,11 @@ d'administration, la présidence du comité des aides est exercée par un des
 représentants du ministre chargé du logement ayant la qualité d'administrateur
 et que le ministre désigne à cet effet.
 
-Le comité des aides ne délibère valablement que lorsque cinq au moins de ses
-membres sont présents.
+Un membre du comité des aides absent peut donner mandat à un autre membre de le
+représenter à ce comité. Un membre ne peut détenir plus d'un mandat.
 
-Le comité des aides rend ses avis à l'unanimité des membres présents.
+Le comité des aides ne délibère valablement que lorsque cinq au moins de ses
+membres sont présents ou représentés.
+
+Le comité des aides rend ses avis à l'unanimité des membres présents ou
+représentés.
