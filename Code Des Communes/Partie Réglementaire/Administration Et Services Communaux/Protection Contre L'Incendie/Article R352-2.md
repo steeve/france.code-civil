@@ -8,5 +8,4 @@ en ce qui concerne ces agents, les attributions dévolues à la commission
 nationale paritaire du personnel communal à l'article L. 411-24.
 
 Ces commissions comprennent, sous la présidence d'un conseiller d'Etat, des
-représentants en nombre égal des collectivités locales et des personnels
-*composition.
+représentants en nombre égal des collectivités locales et des personnels.
