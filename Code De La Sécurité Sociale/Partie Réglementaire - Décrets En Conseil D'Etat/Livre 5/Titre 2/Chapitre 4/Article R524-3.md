@@ -33,23 +33,22 @@ Lorsqu'en cours de versement de l'allocation le parent isolé commence à exerce
 une activité salariée ou non salariée ou à suivre une formation rémunérée, les
 revenus ainsi procurés à l'intéressé sont intégralement cumulables avec
 l'allocation jusqu'à la première révision trimestrielle, telle que prévue au
-premier alinéa de l'article R. 524-7, qui suit ce changement de situation. Ils
-sont ensuite pris en compte dans les conditions ci-après.
+premier alinéa de l'article R. 524-7, qui suit ce changement de situation.
 
-Lors de la première révision trimestrielle, un abattement de 50 % est appliqué
+Lors de la première révision trimestrielle, un abattement de 100 % est appliqué
 sur la moyenne mensuelle des revenus du trimestre précédent.
 
 Ces revenus sont ensuite affectés d'un abattement de 50 % pour la liquidation de
 l'allocation des trois trimestres de droit suivant la deuxième révision
 trimestrielle.
 
-Le cas échéant, les dispositions des trois premiers alinéas du présent article
+Le cas échéant, les dispositions des huit premiers alinéas du présent article
 redeviennent intégralement applicables à un bénéficiaire en cas de cessation,
 puis de reprise d'activité ou de formation, à la condition que le trimestre de
 référence précédant la reprise ne comprenne aucun revenu d'activité ou de
 formation.
 
-Par dérogation aux dispositions prévues aux troisième à cinquième alinéas du
+Par dérogation aux dispositions prévues aux huitième à dixième alinéas du
 présent article :
 
 1. Dans le cas où l'activité est exercée dans le cadre d'un contrat
@@ -78,4 +77,4 @@ Le droit au cumul, prévu en application des articles 10 et 10-1 du décret n°
 d'insertion et à l'allocation de revenu minimum d'insertion, se poursuit, le cas
 échéant, pour les anciens titulaires du revenu minimum d'insertion bénéficiaires
 de l'allocation de parent isolé, dans les conditions et limites définies au 5°
-du deuxième alinéa et aux alinéas 3 et suivants du présent article.
+et aux alinéas 8 et suivants du présent article.
