@@ -1,46 +1,53 @@
 Article R519-1
 ----
-Les émoluments alloués aux secrétaires des conseils de prud'hommes sont fixés
-conformément au tableau ci-après, selon la nature de l'acte :
+Les émoluments alloués aux secrétaires des conseils de prudhommes sont fixés
+conformément au tableau ci-après :
 
-- PROCEDURE (ART. R519-2 AL. 1) :
+Procédure (ART. R519-2 AL. 1) : Emolument de mise au rôle prévu au tarif général
+des redevances de greffe des tribunaux d'instance, en matière civile.
 
-Emolument de mise au rôle prévu au tarif général des greffiers des tribunaux
-d'instance en matière civile .
+Expédition ou extrait (par page) (ART. R519-2 AL. 2) : Emolument d'expédition
+prévu au tarif général des redevances de greffe des tribunaux d'instance, en
+matière civile.
 
-- EXPEDITION PAR PAGE (ART. R519-2 AL. 2) :
+Convocation (lettre recommandée avec demande d'avis de réception) (ART. R519-2
+AL. 3) : Emolument de lettre recommandée avec demande d'avis de réception prévu
+au tarif général des redevances de greffe des tribunaux d'instance, en matière
+civile.
 
-Emolument d'expédition prévu au tarif général des greffiers des tribunaux
-d'instance en matière civile et commerciale.
+Convocation (lettre simple) (ART. R519-2 AL. 4) : Emolument de lettre simple
+prévu au tarif général des redevances de greffe des tribunaux d'instance, en
+matière civile.
 
-CONVOCATION PAR LETTRE SIMPLE (ART. R519-2 AL. 3) ;
+Notification (ART. R519-2 AL. 5) : Emolument de notification prévu au tarif
+général des redevances de greffe des tribunaux d'instance, en matière civile.
 
-Emolument de lettre simple prévu au tarif général des greffiers des tribunaux
-d'instance en matière civile.
+Procédure de référé (ART. R519-2 AL. 6) : Emolument d'acte de greffe en brevet
+prévu au tarif général des redevances de greffe des tribunaux d'instance, en
+matière civile.
 
-- CONVOCATION PAR LETTRE RECOMMANDEE AVEC DEMANDE D'AVIS DE RECEPTION (ART.
-R519-2 AL. 4) :
+Appel (ART. R519-2 AL. 7) : Emolument d'acte de greffe en brevet prévu au tarif
+général des redevances de greffe des tribunaux d'instance, en matière civile.
 
-Emolument de lettre recommandée avec demande d'avis de réception prévu au tarif
-général des greffiers des tribunaux d'instance en matière civile.
-
-- REDACTION DU CONTRAT D'APPRENTISSAGE (ART. R519-2 AL. 5) :
+Rédaction du contrat d'apprentissage (ART. R519-2 AL. 8) :
 
 Moitié de l'émolument d'acte de greffe en minute prévu au tarif général des
-greffiers des tribunaux d'instance en matière civile.
+redevances de greffe des tribunaux d'instance, en matière civile.
 
-- REDACTION D'UN PROCES-VERBAL DE DEPOT ET DELIVRANCE DE LA PREMIERE EXPEDITION
-DUDIT PROCES-VERBAL (ART. R519-2 AL. 6) :
+Rédaction d'un procès-verbal de dépôt et délivrance de la première expédition
+dudit procès-verbal (ART. R519-2 AL. 9) :
 
 Quart de l'émolument d'acte de greffe en brevet prévu au tarif général des
-greffiers des tribunaux d'instance en matière civile.
+redevances de greffe des tribunaux d'instance, en matière civile.
 
-- ENVOI D'UN EXEMPLAIRE D'UNE CONVENTION COLLECTIVE (ART. R519-2 AL. 7) :
+Envoi d'un exemplaire d'une convention collective (ART. R519-2 AL. 10) :
+Emolument de lettre simple prévu au tarif général des redevances de greffe des
+tribunaux d'instance, en matière civile.
 
-Emolument de lettre simple prévu au tarif général des greffiers des tribunaux
-d'instance en matière civile.
+Réception d'un dépôt de dessins ou modèles (ART. R519-2 AL. 11) : Moitié de
+l'émolument d'acte de greffe en brevet prévu au tarif général des redevances de
+greffe des tribunaux d'instance, en matière civile.
 
-- RECEPTION D'UN DEPOT DE DESSINS OU MODELES (ART. R519-2 AL. 8) :
-
-Moitié de l'émolument d'acte de greffe en brevet prévu au tarif général des
-greffiers des tribunaux d'instance en matière civile.
+Certificat de non-appel (ART. R519-2 AL. 12) : Moitié de l'émolument d'acte de
+greffe en brevet prévu au tarif général des redevances de greffe des tribunaux
+d'instance, en matière civile.
