@@ -9,5 +9,6 @@ ministres chargés des finances, de la construction et de l'habitation, de
 l'agriculture et de la sécurité sociale.
 
 Le même arrêté précise celles de ces justifications qui doivent être produites
-chaque année. En cas de non-présentation des justifications avant la date fixée
-par ledit arrêté, le paiement de l'aide personnalisée est suspendu.
+chaque année et, parmi celles-ci, celles dont la non-présentation avant la date
+fixée par ledit arrêté entraine la suspension du paiement de l'aide
+personnalisée.

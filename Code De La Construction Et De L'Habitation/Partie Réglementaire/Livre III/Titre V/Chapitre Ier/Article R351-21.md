@@ -9,7 +9,8 @@ des ministres chargés de la sécurité sociale, du budget, de l'agriculture et 
 logement en distinguant :
 
 - les logements construits, ou agrandis, ou aménagés à partir de locaux non
-destinés à l'habitation, ou acquis et améliorés, occupés par leur propriétaire ;
+destinés à l'habitation, ou acquis et améliorés, occupés par leur propriétaire
+ou par l'accédant titulaire d'un contrat de location-accession;
 
 - les logements existants améliorés et occupés par leur propriétaire et les
 logements locatifs.
