@@ -1,7 +1,6 @@
 Article D445
 ----
-Le règlement intérieur de chaque établissement détermine les conditions dans
-lesquelles les détenus empruntent ou consultent les ouvrages de la bibliothèque.
-
-Il doit notamment prévoir et favoriser, compte tenu des possibilités locales,
-les conditions d'accès direct des détenus à la bibliothèque.
+La diffusion, hors des locaux d'un établissement pénitentiaire, d'un
+audiovidéogramme réalisé dans le cadre des actions d'insertion est soumise à
+l'autorisation du ministre de la justice ou du directeur régional selon qu'elle
+revêt une dimension nationale ou locale.

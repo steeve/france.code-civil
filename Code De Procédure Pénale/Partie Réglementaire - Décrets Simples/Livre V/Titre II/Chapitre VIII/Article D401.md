@@ -3,14 +3,15 @@ Article D401
 Les enfants peuvent être laissés auprès de leur mère en détention jusqu'à l'âge
 de dix-huit mois.
 
-Toutefois, à la demande de la mère, cette limite peut être prolongée, sur
-décision du ministre de la justice, après avis d'une commission consultative.
+Des locaux spécialement aménagés sont réservés à l'accueil des mères ayant gardé
+leur enfant auprès d'elles. S'il s'agit de prévenues, elles ne peuvent être
+transférées dans un établissement doté de tels locaux qu'après accord du
+magistrat saisi du dossier de l'information.
 
-Avant d'émettre son avis, la commission entend l'avocat de la mère.
-
-La situation de chaque enfant est examinée au moins une fois par an.
-
-Il appartient au service socio-éducatif de la prison de pourvoir au placement
-des enfants, au mieux de leur intérêt, avant qu'ils ne soient séparés de leur
-mère, et avec l'accord de la ou des personnes qui exercent à leur égard
-l'autorité parentale.
+Il appartient au service socio-éducatif de l'établissement pénitentiaire, en
+liaison avec les services compétents en matière d'enfance et de famille et avec
+les titulaires de l'autorité parentale, d'organiser le séjour de l'enfant auprès
+de sa mère détenue et les sorties de celui-ci à l'extérieur de l'établissement
+pénitentiaire, et de préparer, le cas échéant, la séparation de l'enfant d'avec
+sa mère, au mieux de son intérêt. Durant les six mois suivant son départ,
+l'enfant peut être admis à séjourner pour de courtes périodes auprès de sa mère.

@@ -1,12 +1,7 @@
 Article D365
 ----
-Des internes en médecine ou en pharmacie sont en fonctions dans les
-établissements pénitentiaires où l'effectif des détenus justifie une
-surveillance médicale constante.
-
-Ils sont placés, du point de vue médical, sous l'autorité et la responsabilité
-du médecin.
-
-Toutefois, il appartient au chef de l'établissement de déterminer, sur
-proposition du médecin, les conditions dans lesquelles les internes assurent
-leur service.
+Hormis les cas où ils se trouvent en dehors d'un établissement pénitentiaire en
+application des articles 723 et 723-3, les détenus ne peuvent être examinés ou
+soignés par un médecin de leur choix, à moins d'une décision du directeur
+régional des services pénitentiaires territorialement compétent. Ils doivent
+alors assumer les frais qui leur incombent du fait de cette prise en charge.

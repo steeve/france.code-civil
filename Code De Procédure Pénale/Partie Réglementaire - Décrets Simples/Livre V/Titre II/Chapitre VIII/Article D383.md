@@ -1,9 +1,6 @@
 Article D383
 ----
-Le directeur régional fait procéder, à l'intérieur de sa région et dans les
-conditions prévues à l'article D. 301, à tout transfèrement ayant pour objet de
-permettre à un détenu malade d'être soigné dans les meilleures conditions.
-
-S'il s'agit de prévenus, le magistrat saisi du dossier de l'information doit
-avoir donné préalablement son accord au transfèrement après avoir été informé de
-la durée probable du traitement envisagé.
+Le personnel infirmier répond aux demandes de soins dans le cadre de son rôle
+propre, dispense les soins et administre les médicaments sur prescription
+médicale, en application du décret n° 93-345 du 15 mars 1993 relatif aux actes
+professionnels et à l'exercice de la profession d'infirmier.

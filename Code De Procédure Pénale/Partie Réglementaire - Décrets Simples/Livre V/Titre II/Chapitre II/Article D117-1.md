@@ -2,15 +2,15 @@ Article D117-1
 ----
 La commission de l'application des peines qui siège dans chaque établissement
 pénitentiaire comprend, outre les membres de droit mentionnés à l'article 722
-(alinéa 4), les membres du personnel de direction, le surveillant chef, un
-membre du personnel de surveillance, les travailleurs sociaux, le médecin et le
-psychiatre.
+(alinéa 4), les membres du personnel de direction, un chef de service
+pénitentiaire, un membre du personnel de surveillance et les travailleurs
+sociaux.
 
 Le juge de l'application des peines peut, en accord avec le chef de
 l'établissement, faire appel soit à titre permanent, soit pour une séance
-déterminée, à toute personne remplissant une mission dans la prison, lorsque sa
-connaissance des cas individuels ou des problèmes à examiner rend sa présence
-utile.
+déterminée, à toute personne remplissant une mission dans l'établissement
+pénitentiaire, lorsque sa connaissance des cas individuels ou des problèmes à
+examiner rend sa présence utile.
 
 Le juge de l'application des peines peut ordonner la comparution du détenu
 devant la commission de l'application des peines afin qu'il soit entendu par

@@ -1,13 +1,24 @@
 Article D391
 ----
-Le principe de la gratuité des soins s'étend à tous les examens ou traitements
-de spécialistes, comme aux prothèses diverses que requiert l'état de santé des
-détenus.
+L'hospitalisation des détenus pour des pathologies autres que des troubles
+mentaux est assurée conformément au 2° de l'article R. 711-19 du code de la
+santé publique :
 
-Toutefois, s'il s'agit de consultations d'opérations ou d'appareillages dont la
-nécessité médicale n'est pas reconnue, ils ne peuvent avoir lieu qu'aux frais
-des intéressés et après autorisation du chef de l'établissement, sous réserve
-des dispositions relatives aux prestations servies aux détenus en application de
-la législation sur les accidents du travail et les maladies professionnelles.
-Lorsque la prison est dirigée par un chef de maison d'arrêt ou par un
-surveillant-chef la décision appartient au directeur régional.
+a) Par l'établissement de santé mentionné à l'article R. 711-7 du code de la
+santé publique lorsque cette hospitalisation présente un caractère d'urgence ou
+de très courte durée ;
+
+b) Par un établissement de santé figurant sur une liste fixée par arrêté
+conjoint des ministres de la justice, de l'intérieur, de la défense et des
+ministres chargés de la santé, de la sécurité sociale et du budget.
+
+Si le malade appartient aux forces armées, le transfèrement doit être effectué
+sur un hôpital militaire déterminé en accord entre l'administration
+pénitentiaire et l'autorité militaire, l'hospitalisation étant toujours décidée
+par le médecin intervenant dans l'établissement pénitentiaire. Les frais de
+transfèrement et de séjour des militaires sont à la charge du ministère de la
+défense lorsque les intéressés sont dirigés sur un hôpital militaire.
+
+Les détenus ne peuvent être hospitalisés, même à leurs frais, dans un
+établissement privé, à moins d'une décision du directeur régional des services
+pénitentiaires territorialement compétent.
