@@ -1,11 +1,11 @@
 Article D981-9
 ----
-Le contrat d'adaptation prévu à l'article L. 981-6 s'adresse à des demandeurs
-d'emploi âgés de seize à vingt-cinq ans pour lesquels un complément de formation
-est nécessaire en vue de leur permettre de s'adapter à un emploi ou à un type
-d'emploi.
-
-Les stages effectués dans le cadre d'un cursus scolaire ou universitaire, les
-périodes de formation obligatoires pour l'obtention d'un diplôme ou d'un titre
-professionnel ne peuvent pas donner lieu à la conclusion de contrats
-d'adaptation.
+Les organismes collecteurs mentionnés à l'article L. 983-1 peuvent prendre en
+charge les dépenses exposées pour chaque salarié ou pour tout employeur de moins
+de dix salariés qui bénéficie d'une action de formation en qualité de tuteur
+chargé d'accueillir et de guider dans l'entreprise les bénéficiaires des
+contrats et des périodes de professionnalisation, dans la limite d'un plafond de
+15 Euros par heure de formation et d'une durée maximale de 40 heures ; ces
+dépenses comprennent les frais pédagogiques, les rémunérations, les cotisations
+et contributions sociales légales et conventionnelles ainsi que les frais de
+transport et d'hébergement.
