@@ -24,8 +24,4 @@ nécessaires à l'observation des règles et usages de la navigation aérienne
 commerciale ;
 
 f) Toute obligation d'intérêt général portant sur un objet autre que ceux
-énumérés ci-dessus, notamment l'exploitation de services réguliers de transports
-aériens internationaux ou de cabotage sur des lignes exploitées en concurrence
-avec d'autres entreprises de transports aériens ayant fait l'objet d'une
-décision de principe du ministre chargé de l'aviation civile, prise après avis
-du conseil supérieur de l'aviation marchande.
+énumérés ci-dessus.
