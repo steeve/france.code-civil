@@ -1,26 +1,36 @@
 Article R315-1
 ----
-Sans préjudice des dispositions des articles L. 322-3 et L. 324-1, le contrôle
-médical a pour mission notamment de donner des avis d'ordre médical sur
-l'appréciation faite par le médecin traitant de l'état de santé et de la
-capacité de travail des bénéficiaires de la législation de sécurité sociale, sur
-les moyens thérapeutiques et les appareillages mis en oeuvre, sur la prévention
-de l'invalidité et la possibilité de rééducation professionnelle et sur la
-constatation des abus en matière de soins, d'interruption de travail et
-d'application de la tarification des honoraires.
+I. - Lorsque le service du contrôle médical procède à l'analyse de l'activité
+d'un établissement de santé en application du III de l'article L. 315-1, les
+résultats de cette analyse sont communiqués au directeur de l'établissement
+concerné ainsi qu'au directeur de l'agence régionale de l'hospitalisation
+instituée à l'article L. 710-17 du code de la santé publique.
 
-Le service du contrôle médical procède en outre à une analyse, sur le plan
-médical, de l'activité des établissements entrant dans le champ d'application de
-l'article L. 162-29 et dans lesquels sont admis des bénéficiaires de l'assurance
-maladie. Cette analyse est destinée à s'assurer que les frais d'hospitalisation
-sont mis à la charge de l'assurance maladie dans le respect des dispositions
-législatives et réglementaires qui régissent la couverture de ce risque. Elle
-est communiquée sur sa demande au directeur de l'établissement et à l'autorité
-administrative mentionnée à l'article 29 du décret n° 83-744 du 21 août 1983.
-Les informations couvertes par le secret médical sont communiquées sur leur
-demande au président de la commission médicale d'établissement ou au médecin
-désigné par l'établissement privé participant au service public hospitalier et
-au médecin inspecteur départemental.
+II. - Lorsque le service du contrôle médical vérifie le respect des références
+professionnelles et des recommandations de bonne pratique mentionnées à
+l'article L. 162-12-15, il informe de ses conclusions le professionnel concerné
+ainsi que, le cas échéant, la commission médicale d'établissement mentionnée à
+l'article L. 714-16 du code de la santé publique, la commission médicale
+mentionnée au deuxième alinéa de l'article L. 715-8 ou la conférence médicale
+mentionnée à l'article L. 715-12 du même code, ainsi que le directeur de
+l'établissement concerné et le directeur de l'agence régionale de
+l'hospitalisation.
 
-Le service du contrôle médical exerce sa mission dans les conditions définies
+Les informations couvertes par le secret médical sont communiquées à la
+commission ou à la conférence médicale concernée ainsi qu'au médecin inspecteur
+de santé publique à l'échelon départemental et régional (1).
+
+III. - Lorsque, à l'occasion de l'analyse de l'activité d'un professionnel de
+santé effectuée en application du IV de l'article L. 315-1, le service du
+contrôle médical constate le non-respect de dispositions législatives ou
+réglementaires régissant la prise en charge des frais médicaux au titre des
+risques maladie, maternité, invalidité, accidents du travail et maladies
+professionnelles, ou de règles de nature législative, réglementaire ou
+conventionnelle que les professionnels sont tenus d'appliquer dans leur
+exercice, les procédures prévues notamment aux articles L. 133-4 et L. 145-1, au
+4° du deuxième alinéa de l'article L. 162-9, à l'article L. 162-12-6, au 6° du
+deuxième alinéa de l'article L. 162-12-9 et aux articles L. 162-12-16 et L.
+315-3 sont mises en oeuvre.
+
+Le service du contrôle médical exerce ses missions dans les conditions définies
 par le présent chapitre et par le chapitre 6 du titre VI du livre Ier.
