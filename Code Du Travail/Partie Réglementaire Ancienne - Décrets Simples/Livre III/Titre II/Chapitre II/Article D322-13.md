@@ -11,7 +11,9 @@ salariés victimes d'une réduction d'activité pour une période maximale de si
 mois renouvelable une fois sous réserve que l'employeur s'engage à maintenir
 dans leur emploi des salariés intéressés pendant une durée au moins équivalente.
 Cette prise en charge s'applique uniquement aux horaires inférieurs à trente-six
-heures.
+heures, sauf dans le cas où le taux de prise en charge par l'Etat visé à
+l'article D. 322-14 est fixé à 100 p. 100. Dans ce cas, la prise en charge
+s'applique aux horaires inférieurs à trente-neuf heures.
 
 Le montant de la participation de l'Etat au versement des indemnités de chômage
 partiel versées par l'employeur est fixé forfaitairement sur la base de
