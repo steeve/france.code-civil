@@ -22,11 +22,13 @@ ascendants, selon des conditions fixées par décret en Conseil d'Etat.
 
 5°) les demandeurs d'emploi qui ne sont plus indemnisés au titre de l'allocation
 de base et qui satisfont aux conditions d'activité antérieure et de ressources
-prévues par le premier alinéa de l'article L. 351-10 du code du travail. 6°) les
-allocataires bénéficiant du revenu minimum d'insertion institué par la loi n°
-88-1088 du 1er décembre 1988 relative au revenu minimum d'insertion. 7° Les
-bénéficiaires de l'allocation d'insertion prévue à l'article L. 351-9 du code du
-travail.
+prévues par le premier alinéa de l'article L. 351-10 du code du travail.
+
+6°) les allocataires bénéficiant du revenu minimum d'insertion institué par la
+loi n° 88-1088 du 1er décembre 1988 relative au revenu minimum d'insertion.
+
+7° Les bénéficiaires de l'allocation d'insertion prévue à l'article L. 351-9 du
+code du travail.
 
 8° Les personnes occupant un logement situé dans les départements de Paris, des
 Hauts-de-Seine, de Seine-Saint-Denis, du Val-de-Marne, de la Seine-et-Marne, des
@@ -34,6 +36,10 @@ Yvelines, de l'Essonne et du Val-d'Oise.
 
 9° Les personnes occupant un logement situé dans les départements de la
 Guadeloupe, de la Martinique, de la Guyane et de la Réunion.
+
+10° Les personnes occupant un logement situé dans les communes comprises, au
+sens du recensement générale de la population, dans une agglomération de plus de
+100000 habitants.
 
 Cette allocation de logement ne peut se cumuler avec celle qui est prévue par
 l'article L. 542-1 du présent code, sous réserve des dispositions prévues au

@@ -7,7 +7,8 @@ Sont exonérés des droits de mutation à titre gratuit:
 2° (Abrogé).
 
 3° Les parts d'intérêts détenues dans un groupement forestier à concurrence des
-trois-quarts de leur valeur vénale, à condition :
+trois-quarts de la fraction de la valeur nette correspondant aux biens visés au
+a ci-après, à condition :
 
 a. Que l'acte constatant la donation ou la déclaration de la succession soit
 appuyé d'un certificat délivré sans frais par le directeur départemental de
@@ -41,9 +42,9 @@ septembre 1979 ;
 4° Les parts des groupements fonciers agricoles et celles des groupements
 agricoles fonciers, créés conformément à la loi n° 62-933 du 8 août 1962 et
 répondant aux diverses caractéristiques de la loi n° 70-1299 du 31 décembre
-1970, lors de leur première transmission à titre gratuit et à concurrence des
-trois-quarts de leur valeur, sous réserve des dispositions de l'article 793 bis,
-à condition :
+1970, et à concurrence des trois-quarts de la fraction de la valeur nette des
+biens donnés à bail à long terme, sous réserve des dispositions de l'article 793
+bis, à condition :
 
 - que les statuts du groupement lui interdisent l'exploitation en faire-valoir
 direct ;
@@ -59,14 +60,6 @@ Ce délai n'est pas exigé lorsque le donateur ou le défunt ont été parties a
 contrat de constitution du groupement foncier agricole et, à ce titre ont
 effectué des apports constitués exclusivement par des immeubles ou des droits
 immobiliers à destination agricole (1).
-
-Cette exonération s'applique pour les parts de groupements fonciers agricoles
-dans la limite d'une superficie égale à trois fois la superficie minimum
-d'installation prévue à l'article 188-4 du code rural, quel que soit le nombre
-des transmissions successives intervenues du chef d'une même personne, lorsque
-le bail a été consenti au bénéficiaire de la transmission des parts, à son
-conjoint, à un de leurs descendants ou à une société contrôlée par une ou
-plusieurs de ces personnes.
 
 L'exonération ne s'applique pas aux parts de groupements fonciers agricoles qui
 sont détenues ou qui ont été détenues par une société civile régie par la loi n°
@@ -86,23 +79,13 @@ relatif à la famille et à la natalité françaises.
 2° Les successions et donations entre vifs, à concurrence des trois-quarts de
 leur montant, intéressant les propriétés en nature de bois et forêts, à
 condition que soient appliquées les dispositions prévues aux articles 703, 1840
-G bis-II et III, et 1929-3 ;
-
-3° Les biens donnés à bail dans les conditions prévues aux articles L. 416-1 à
-L. 416-6, L. 416-8 et L. 416-9 du code rural, lors de leur première transmission
-à titre gratuit durant le bail et ses renouvellements successifs, à concurrence
-des trois quarts de leur valeur, sous réserve des dispositions de l'article 793
-bis. Toutefois, lorsque le bail a été consenti, par un acte n'ayant pas acquis
-date certaine avant le 1er novembre 1973, au bénéficiaire de la transmission, à
-son conjoint, à un de leurs descendants ou à une société contrôlée par une ou
-plusieurs de ces personnes, l'exonération s'applique seulement dans la limite
-d'une superficie au plus égale à une fois et demie la superficie minimum
-d'installation prévue à l'article 188-4 du code rural, quel que soit le nombre
-des transmissions successives intervenues du chef d'une même personne. Ces
-dispositions peuvent être étendues et adaptées par décret en Conseil d'Etat aux
-départements d'outre-mer *DOM*, après avis de leurs conseils généraux (2).
+G bis-II et III, et 1929-3 ; 3° Les biens donnés à bail dans les conditions
+prévues aux articles L. 416-1 à L. 416-6, L. 416-8 et L. 416-9 du code rural, à
+concurrence des trois quarts de leur valeur, sous réserve des dispositions de
+l'article 793 bis (2).
 
 (1) Pour l'application du 4° dans les départements d'outre-mer, se reporter à
 l'article 822 IV.
 
-(2) Code rural art. R. 463-1 à R. 463-3.
+(2) Ces dispositions s'appliquent aux successions ouvertes et aux donations
+consenties à compter du 1er juillet 1992.

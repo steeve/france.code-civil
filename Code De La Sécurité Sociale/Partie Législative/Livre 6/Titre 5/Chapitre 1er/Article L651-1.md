@@ -2,8 +2,8 @@ Article L651-1
 ----
 Il est institué, au profit du régime d'assurance maladie-maternité des
 travailleurs non-salariés des professions non-agricoles et des régimes
-d'assurance vieillesse des professions mentionnées aux 1°, 2° et 3° de l'article
-L. 621-3, une contribution sociale de solidarité à la charge :
+d'assurance vieillesse des professions mentionnées aux articles L. 621-3, L.
+721-1 et L. 723-1, une contribution sociale de solidarité à la charge :
 
 1°) des sociétés anonymes ;
 

@@ -7,18 +7,19 @@ la taxe professionnelle en totalité ou en partie les entreprises qui procèdent
 sur leur territoire, soit à des décentralisations, extensions ou créations
 d'activités industrielles ou de recherche scientifique et technique, ou de
 services de direction, d'études, d'ingénierie et d'informatique, soit à une
-reconversion d'activité, soit à la reprise d'établissements en difficulté. Cette
-délibération ne peut avoir pour effet de reporter de plus de cinq ans
-l'application du régime d'imposition de droit commun.
+reconversion d'activité industrielle , soit à la reprise d'établissements
+industriels en difficulté. Cette délibération ne peut avoir pour effet de
+reporter de plus de cinq ans l'application du régime d'imposition de droit
+commun.
 
 Lorsqu'il s'agit de décentralisations, extensions ou créations d'établissements
 industriels ou de recherche scientifique et technique répondant à des conditions
 fixées par décret (1) en tenant compte notamment du volume des investissements
 et du nombre des emplois créés, l'exonération est acquise sans autre formalité.
 En cas de décentralisation, extension ou création de services de direction,
-d'études, d'ingénierie et d'informatique et en cas de reconversion d'activité ou
-de reprise d'établissements, elle est soumise à agrément dans les conditions
-prévues à l'article 1649 nonies (2).
+d'études, d'ingénierie et d'informatique et en cas de reconversion d'activité
+industrielle ou de reprise d'établissements industriels en difficulté , elle est
+soumise à agrément dans les conditions prévues à l'article 1649 nonies (2).
 
 Quand l'agrément est nécessaire pour des entreprises petites ou moyennes, il est
 accordé par une procédure décentralisée.
@@ -65,8 +66,6 @@ de la taxe professionnelle.
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent article
 (4).
-
-(1) Annexe III, art. 322 G à 322 L.
 
 (2) Annexe IV, art. 121 quinquies DB quater à 121 quinquies DB septies.
 

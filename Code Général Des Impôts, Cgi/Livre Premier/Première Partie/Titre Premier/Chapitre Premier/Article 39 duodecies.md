@@ -39,6 +39,14 @@ celles définies au 4.
 portefeuille sont réputées porter par priorité sur les titres de même nature
 acquis ou souscrits à la date la plus ancienne.
 
+Pour l'application des dispositions de l'alinéa précédent, les titres reçus en
+rémunération d'un apport partiel d'actif soumis au régime prévu à l'article 210
+B et ceux qui sont acquis ou souscrits indépendamment de l'opération d'apport
+constituent deux catégories distinctes de titres jusqu'à la fin du délai de cinq
+ans prévu à l'article 210 B. Les cessions de titres intervenues dans ce délai
+sont réputées porter en priorité sur les titres acquis ou souscrits
+indépendamment de l'opération d'apport.
+
 7 Le régime fiscal des plus-values prévu par le présent article et les articles
 suivants n'est pas applicable aux plus-values réalisées par les sociétés de
 crédit-bail ou plus généralement les sociétés qui ont pour objet social la

@@ -62,5 +62,9 @@ Les dispositions du premier alinéa s'appliquent également si une société du
 groupe est affectée dans les cinq ans qui suivent son entrée dans le groupe par
 l'un des événements mentionnés au 2 ou au 5 de l'article 221.
 
+Les dispositions des trois alinéas précédents ne sont plus applicables, pour la
+détermination du résultat des exercices ouverts à compter du 1er janvier 1992,
+aux opérations mentionnées à ces alinéas réalisées à compter de cette même date.
+
 (1) Dispositions applicables à l'impôt dû par les sociétés sur leurs résultats
 des exercices clos à compter du 31 décembre 1989.

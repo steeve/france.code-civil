@@ -19,22 +19,22 @@ Cette déclaration ne concerne pas :
 
 Elle doit être faite dans des conditions et délais fixés par décret (1). Une
 copie de cette déclaration doit être adressée aux bénéficiaires ds revenus
-concernés (2).
+concernés.
 
-2. (Abrogé) (3).
+1 bis. Les dispositions du 1 sont applicables aux revenus imposables dans les
+conditions prévues par l'article 238 septies B. La déclaration doit être faite
+par la personne chez laquelle les titres ou droits sont déposés ou inscrits en
+compte ou, dans les autres cas, par l'emprunteur.
+
+2. (Abrogé)
 
 3. Les personnes qui interviennent à un titre quelconque, dans la conclusion des
 contrats de prêts ou dans la rédaction des actes qui les constatent sont tenues
 de déclarer à l'administration la date, le montant et les conditions du prêt
 ainsi que les noms et adresses du prêteur et de l'emprunteur.
 
-Cette déclaration est faite dans des conditions et délais fixés par décret (4).
+Cette déclaration est faite dans des conditions et délais fixés par décret (2).
 
 (1) Voir Annexe III, art. 49 D à 49 I.
 
-(2) Les dispositions de ce paragraphe sont applicables aux paiements effectés à
-compter du 1er janvier 1985.
-
-(3) Pour les paiements effectués à partir du 1er janvier 1985.
-
-(4) Annexe III, art. 49 B.
+(2) Annexe III, art. 49 B.

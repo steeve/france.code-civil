@@ -27,7 +27,7 @@ conséquences des infractions commises par les sociétés du groupe.
 
 Seules peuvent être membres du groupe les sociétés qui ont donné leur accord et
 dont les résultats sont soumis à l'impôt sur les sociétés dans les conditions de
-droit commun ou selon les modalités prévues à l'article 217 bis.
+droit commun ou selon les modalités prévues aux articles 214 et 217 bis.
 
 Les sociétés du groupe doivent ouvrir et clore leurs exercices aux mêmes dates ;
 les exercices ont une durée de douze mois. L'option mentionnée au premier alinéa

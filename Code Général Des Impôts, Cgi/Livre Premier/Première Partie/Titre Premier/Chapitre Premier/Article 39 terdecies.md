@@ -1,40 +1,37 @@
 Article 39 terdecies
 ----
-1 Le régime des plus-values à long terme est applicable, dans les conditions et
-limites qui pourront être fixées par décret, aux produits des cessions de
-brevets, de procédés et de techniques (1) , ainsi qu'aux concessions de licences
-exclusives d'exploitation. Pour l'imposition des bénéfices des exercices clos à
-partir du 31 décembre 1984, ce régime s'applique également aux concessions non
-exclusives d'exploitation.
+1. Le régime des plus-values à long terme est applicable aux plus-values de
+cession de brevets, ou d'inventions brevetables, ainsi qu'au résultat net de la
+concession de licences d'exploitation des mêmes éléments.
 
-Il en est de même pour les concessions de licences par lesquelles le titulaire
-se dessaisit pour un secteur géographique déterminé ou pour une application
-particulière. Ces dispositions cessent d'être applicables pour l'imposition des
-bénéfices des exercices clos à partir du 31 décembre 1984.
+Il en est de même en ce qui concerne la plus-value de cession ou le résultat net
+de la concession d'un procédé de fabrication industriel qui remplit les
+conditions suivantes :
 
-Ce régime s'applique également, dans des conditions et limites qui seront fixées
-par décret, aux produits de cessions de brevets ou de concessions de licences
-d'exploitation de brevets en cours de délivrance.
+a) Le procédé doit constituer le résultat d'opérations de recherche ;
 
-Les dispositions qui précèdent ne sont pas applicables lorsque les droits,
-procédés et techniques ne présentent pas le caractère d'éléments de l'actif
-immobilisé ou ont été acquis à titre onéreux depuis moins de deux ans [*délai*].
+b) Il doit être l'accessoire indispensable de l'exploitation d'un brevet ou
+d'une invention brevetable ;
 
-1 bis Le montant des redevances tirées de l'exploitation des droits de propriété
-industrielle ou des droits assimilés est exclu du régime des plus-values à long
-terme prévu au 1, lorsque ces redevances ont été admises en déduction pour
-l'assiette de l'impôt sur le revenu ou de l'impôt sur les sociétés et qu'il
-existe des liens de dépendance entre l'entreprise concédante et l'entreprise
-concessionnaire.
+c) Il doit être cédé ou concédé simultanément au brevet ou à l'invention
+brevetable dont il est l'accessoire et aux termes du même contrat que celui-ci.
 
-Des liens de dépendance [*définition*] sont réputés exister entre deux
-entreprises :
+Ces dispositions ne sont pas applicables lorsque les éléments mentionnés
+ci-dessus ne présentent pas le caractère d'éléments de l'actif immobilisé ou ont
+été acquis à titre onéreux depuis moins de deux ans. (1).
 
-- Lorsque l'une détient directement ou par personne interposée la majorité du
-capital social de l'autre ou y exerce en fait le pouvoir de décision
-[*société-mère et filiale*].
+1 bis Le montant des redevances tirées de l'exploitation des éléments mentionnés
+au 1 est exclu du régime des plus-values à long terme prévu au 1, lorsque ces
+redevances ont été admises en déduction pour l'assiette de l'impôt sur le revenu
+ou de l'impôt sur les sociétés et qu'il existe des liens de dépendance entre
+l'entreprise concédante et l'entreprise concessionnaire.
 
-- Lorsqu'elles sont placées l'une et l'autre, dans les conditions définies à
+Des liens de dépendance sont réputés exister entre deux entreprises :
+
+Lorsque l'une détient directement ou par personne interposée la majorité du
+capital social de l'autre ou y exerce en fait le pouvoir de décision.
+
+Lorsqu'elles sont placées l'une et l'autre, dans les conditions définies à
 l'alinéa précédent, sous le contrôle d'une même tierce entreprise.
 
 1 ter Les dispositions du 1 ne sont pas applicables aux sommes perçues en
@@ -49,19 +46,18 @@ régime fiscal des plus-values à long terme.
 
 4 Les distributions par les sociétés de capital-risque qui fonctionnent dans les
 conditions prévues à l'article 1er de la loi n° 85-695 du 11 juillet 1985
-portant diverses dispositions d'ordre économique et financier sont soumises,
-lorsque l'actionnaire est une entreprise, au régime fiscal des plus-values à
-long terme réalisées lors de la cession d'actions si la distribution est
-prélevée sur des plus-values :
+modifiée sont soumises, lorsque l'actionnaire est une entreprise, au régime
+fiscal des plus-values à long terme réalisées lors de la cession d'actions si la
+distribution est prélevée sur des plus-values :
 
-- provenant de titres, cotés ou non cotés, détenus depuis au moins deux ans et
-de la nature de ceux qui sont visés dans la première phrase du premier alinéa du
-I du même article 1er ;
+provenant de titres, cotés ou non cotés, détenus depuis au moins deux ans et de
+la nature de ceux qui sont visés dans la première phrase du premier alinéa du I
+du même article 1er ;
 
-- et réalisées au cours de l'exercice au titre duquel la distribution est
+et réalisées au cours de l'exercice au titre duquel la distribution est
 effectuée ou des trois exercices précédents (2).
 
-(1) [*cessions ou concessions de logiciels originaux ou génériques par des
-personnes physiques*] loi 89-935 art. 21.
+(1) Ces dispositions s'appliquent aux exercices ouverts à compter du 1er janvier
+1992.
 
 (2) Ces dispositions sont applicables à compter du 1er janvier 1991.

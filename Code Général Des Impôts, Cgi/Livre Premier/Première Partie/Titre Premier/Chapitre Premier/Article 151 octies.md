@@ -1,9 +1,11 @@
 Article 151 octies
 ----
 I. Les plus-values soumises au régime des articles 39 duodecies à 39 quindecies
-et réalisées par une personne physique à l'occasion de l'apport à une société de
-l'ensemble des éléments de l'actif immobilisé affectés à l'exercice d'une
-activité professionnelle peuvent bénéficier des dispositions suivantes :
+et réalisées par une personne physique à l'occasion de l'apport à une société
+soumise à un régime réel d'imposition de l'ensemble des éléments de l'actif
+immobilisé affectés à l'exercice d'une activité professionnelle ou de l'apport
+d'une branche complète d'activité peuvent bénéficier des dispositions suivantes
+:
 
 L'imposition des plus-values afférentes aux immobilisations non amortissables
 fait l'objet d'un report jusqu'à la date de la cession à titre onéreux ou du
@@ -45,7 +47,7 @@ collectif, une société en commandite simple, une société à responsabilité
 limitée dans laquelle la gérance est majoritaire ou à une société civile
 exerçant une activité professionnelle ;
 
-- sur agrément (1), lorsque l'apport est consenti à une société par actions, à
+- sur agrément (2), lorsque l'apport est consenti à une société par actions, à
 une société à responsabilité limitée dans laquelle la gérance est minoritaire ou
 à une société préexistante ; l'agrément est supprimé pour les apports réalisés à
 compter du 1er janvier 1988.
@@ -59,17 +61,17 @@ simple option du régime prévu au I, le report d'imposition des plus-values
 d'apport peut, sur agrément préalable, être maintenu. A défaut, ces plus-values
 deviennent immédiatement taxables.
 
-III. Les dispositions des I et II ci-dessus s'appliquent aux plus-values
-constatées à l'occasion d'apports en sociétés réalisés à compter du 1er avril
-1981 [*date, point de départ*] ; les dispositions des articles 41 et 93
-quater-II cessent d'être applicables à ces plus-values à compter de la même
-date.
+III. Les dispositions de l'article 41 et du II de l'article 93 quater ne
+s'appliquent pas aux plus-values constatées à l'occasion d'apports en sociétés
+visées aux I et II du présent article.
 
 IV. Les dispositions des I et II ci-dessus s'appliquent aux plus-values dégagées
 à raison des éléments d'actif immobilisé apportés dans le cadre d'une fusion par
 des sociétés civiles professionnelles ainsi qu'aux plus-values résultant pour
 les associés de ces sociétés de l'attribution qui leur est faite des parts de la
-société absorbante.
 
-(1) En ce qui concerne les modalités d'octroi de l'agrément, voir Annexe 4, art.
+(1) Ces dispositions s'appliquent aux opérations d'apport réalisées à compter du
+18 septembre 1991.
+
+(2) En ce qui concerne les modalités d'octroi de l'agrément, voir Annexe 4, art.
 170 septies B et 170 octies.

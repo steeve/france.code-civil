@@ -11,15 +11,16 @@ fixées à l'article 158-5 du code général des impôts sont applicables.
 
 Les contributions des employeurs prévues à l'article L. 351-3 ne sont passibles
 ni du versement forfaitaire sur les salaires ni des cotisations de sécurité
-sociale. Elles sont déductibles pour l'établissement de l'impôt sur le revenu
-des personnes physiques ou de l'impôt sur des sociétés dû par ces employeurs.
+sociale. Elles sont déductibles des bénéfices industriels et commerciaux,
+agricoles ou non commerciaux pour l'établissement de l'impôt sur le revenu ou de
+l'impôt sur les sociétés dû par ces employeurs.
 
 Les contributions payées dans les mêmes conditions par les travailleurs sont
 déductibles pour l'établissement de l'impôt sur le revenu des personnes
 physiques dû par les intéressés.
 
-Sous réserve de l'article 6 de la loi n° 82-1 du 4 janvier 1982 les dispositions
-des alinéas 2 et 3 ci-dessus sont applicables aux allocations et contributions
-versées en vue d'indemniser la privation partielle d'emploi, lorsque cette
-indemnisation résulte d'accords professionnels, ou interprofessionnels,
-nationaux ou régionaux.
+Sous réserve de l'article 6 de la loi n° 82-1 du 4 janvier 1982, les
+dispositions des alinéas 2 et 3 ci-dessus sont applicables aux allocations et
+contributions versées en vue d'indemniser la privation partielle d'emploi,
+lorsque cette indemnisation résulte d'accords professionnels, ou
+interprofessionnels, nationaux ou régionaux.
