@@ -18,3 +18,9 @@ l'expression des salariés en matiére de formation et de participer à
 l'information de ceux-ci dans le même domaine. Elle étudie également les
 problèmes spécifiques concernant l'emploi et le travail des jeunes et des
 handicapés.
+
+Dans les entreprises industrielles et commerciales employant au moins trois
+cents salariés, il est constitué, au sein du comité d'entreprise, une commission
+d'information et d'aide au logement des salariés tendant à faciliter l'accession
+des salariés à la propriété et à la location des locaux d'habitation destinés à
+leur usage personnel.

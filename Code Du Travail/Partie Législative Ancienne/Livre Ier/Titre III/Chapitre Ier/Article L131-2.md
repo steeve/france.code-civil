@@ -11,7 +11,9 @@ mutualistes, des organismes de sécurité sociale qui n'ont pas le caractère
 d'établissements publics et des associations ou de tout organisme de droit
 privé, quels que soient leur forme et leur objet.
 
-Elles s'appliquent aux entreprises publiques et aux établissements publics à
+Elles s'appliquent aux entreprises publiques, aux établissements publics à
+caractère industriel et commercial et aux établissements publics qui assurent
+tout à la fois une mission de service public à caractère administratif et à
 caractère industriel et commercial dans les conditions définies au chapitre IV
 du présent titre.
 

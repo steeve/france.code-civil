@@ -13,8 +13,16 @@ personnel ainsi que la liste des personnes qui assistent avec voix consultative
 aux séances du comité, compte tenu des fonctions qu'elles exercent dans
 l'établissement, sont fixées par voie réglementaire.
 
+Les contestations relatives à la délégation des représentants du personnel au
+comité sont de la compétence du tribunal d'instance qui statue en dernier
+ressort. La décision peut être déférée à la Cour de cassation.
+
+Lorsqu'une contestation rend indispensable le recours à une mesure
+d'instruction, les dépenses afférentes à cette mesure sont à la charge
+[*financière*] de l'Etat.
+
 Le ou les médecins du travail chargés de la surveillance médicale du personnel
-figurent obligatoirement sur la liste mentionnée à l'alinéa précédent.
+figurent obligatoirement sur la liste mentionnée au deuxième alinéa.
 
 Le comité d'hygiène, de sécurité et des conditions de travail est présidé par le
 chef d'établissement ou son représentant. Il est procédé par le comité à la

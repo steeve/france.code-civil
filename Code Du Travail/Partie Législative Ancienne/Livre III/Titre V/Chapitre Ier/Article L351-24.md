@@ -8,7 +8,8 @@ coopérative ou qui entreprennent l'exercice d'une autre profession non-salarié
 ont droit à une aide de l'Etat qui est servie pendant une durée déterminée et
 dont le montant varie en fonction, d'une part, du temps écoulé depuis
 l'inscription comme demandeur d'emploi, d'autre part, des références de travail
-antérieures.
+antérieures. Ce montant est majoré lorsque la création de l'entreprise permet
+l'embauchage d'un ou de plusieurs salariés.
 
 Dans le cas où l'intéressé est à nouveau inscrit comme demandeur d'emploi, il
 retrouve le bénéfice des droits qu'il avait acquis à la date d'attribution de

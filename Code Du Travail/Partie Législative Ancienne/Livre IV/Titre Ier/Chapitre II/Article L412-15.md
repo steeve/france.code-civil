@@ -15,6 +15,10 @@ de procédure et sur simple avertissement donné trois jours à l'avance à tout
 les parties intéressées. La décision peut être déférée à la Cour de cassation
 [*pourvoi*].
 
+Lorsqu'une contestation rend indispensable le recours à une mesure
+d'instruction, les dépenses afférentes à cette mesure sont à la charge de
+l'Etat.
+
 En cas de réduction importante et durable de l'effectif en dessous de cinquante
 salariés, la suppression du mandat de délégué syndical est subordonnée à un
 accord entre le chef d'entreprise et l'ensemble des organisations syndicales

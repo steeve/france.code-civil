@@ -20,7 +20,7 @@ durée totale du contrat.
 
 Par dérogation prononcée par l'autorité administrative compétente de l'Etat, ces
 contrats peuvent concerner des jeunes de moins de dix-huit ans, lorsqu'un avis
-favorable aura été donné par les instances d'orientation mises en place en
-application de l'ordonnance n° 82-273 du 26 mars 1982 et à la condition qu'il
-n'existe pas pour ces jeunes de possibilité de qualification par la voie de
-l'apprentissage [*alinéa ajouté par la loi 575*].
+aura été donné par les instances d'orientation mises en place en application de
+l'ordonnance n° 82-273 du 26 mars 1982 et à la condition qu'il n'existe pas pour
+ces jeunes de possibilité de qualification par la voie de l'apprentissage
+[*alinéa ajouté par la loi 575*].

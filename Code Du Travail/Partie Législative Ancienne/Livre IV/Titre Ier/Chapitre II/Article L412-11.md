@@ -1,9 +1,10 @@
 Article L412-11
 ----
-Chaque syndicat représentatif qui constitue une section syndicale dans une
-entreprise d'au moins cinquante salariés [*condition d'effectif*] désigne, dans
-les limites fixées à l'article L. 412-13, un ou plusieurs délégués syndicaux
-pour le représenter auprès du chef d'entreprise.
+Chaque syndicat représentatif qui constitue une section syndicale dans les
+entreprises et organismes visés par l'article L. 421-1 qui emploient au moins
+cinquante salariés [*condition d'effectif*] désigne, dans les limites fixées à
+l'article L. 412-13, un ou plusieurs délégués syndicaux pour le représenter
+auprès du chef d'entreprise.
 
 La désignation d'un délégué syndical peut intervenir lorsque l'effectif d'au
 moins cinquante salariés a été atteint pendant douze mois, consécutifs ou non,
