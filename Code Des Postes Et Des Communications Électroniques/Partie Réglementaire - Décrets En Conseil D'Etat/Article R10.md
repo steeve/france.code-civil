@@ -47,6 +47,10 @@ loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux
 libertés ou du récépissé de déclaration délivré par la Commission nationale de
 l'informatique et des libertés en application de son article 16.
 
+3. De l'engagement de l'éditeur de la publication ou du responsable du service
+télématique de ne pas utiliser à des fins autres que l'édition de la liste
+d'utilisateurs les informations nominatives figurant sur cette liste.
+
 La déclaration est effectuée auprès de la direction générale des postes et
 télécommunications du ministère chargé des télécommunications.
 
@@ -59,9 +63,7 @@ ci-dessus.
 Toute personne qui, sans avoir fait la déclaration préalable prévue au présent
 article, aura mis à la disposition du public une liste d'utilisateurs d'un
 réseau de télécommunications ouvert au public sera punie de la peine d'amende
-prévue pour les contraventions
-
-de la cinquième classe.
+prévue pour les contraventions de la cinquième classe.
 
 En cas de récidive, le contrevenant sera puni de l'amende prévue pour la
 récidive des contraventions de la 5e classe.
