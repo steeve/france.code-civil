@@ -26,7 +26,7 @@ dimensions et l'aménagement de leurs abords ;
 capacité des équipements collectifs existants ou en cours de réalisation et de
 la nature des constructions à édifier, un ou des coefficients d'occupation des
 sols qui déterminent, éventuellement pour chaque nature de construction, la
-densité de construction qui y est admise ;
+densité de construction qui est admise ;
 
 5° délimiter les zones ou parties de zones dans lesquelles la reconstruction sur
 place ou l'aménagement de bâtiments existants pourra, pour des motifs
@@ -47,7 +47,11 @@ installations d'intérêt général ainsi qu'aux espaces verts ;
 9° localiser, dans les zones urbaines, les terrains cultivés à protéger et
 inconstructibles quels que soient les équipements éventuels qui les desservent.
 
-Les règles mentionnées au 2° ci-dessus peuvent prévoir des normes de
+10° Délimiter les secteurs dans lesquels la délivrance du permis de construire
+peut être subordonnée à la démolition de tout ou partie des bâtiments existants
+sur le terrain où l'implantation de la construction est envisagée.
+
+Les règles mentionnées aux 2° et 3° ci-dessus peuvent prévoir des normes de
 construction différentes de celles qui résultent de l'application du coefficient
 d'occupation du sol, soit en raison des prescriptions d'urbanisme ou
 d'architecture, soit en raison de l'existence de projets tendant à renforcer la
