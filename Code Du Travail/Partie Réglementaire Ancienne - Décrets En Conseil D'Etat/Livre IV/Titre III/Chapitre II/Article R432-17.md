@@ -1,15 +1,10 @@
 Article R432-17
 ----
-En cas de cessation définitive de l'activité de l'entreprise,
+Lorsque le comité d'entreprise a saisi l'organe chargé de l'administration ou de
+la surveillance en application de l'article L. 432-5, cet organe en délibère
+dans le mois de la saisine [*délai*].
 
-le comité décide de l'affectation des biens dont il dispose. La liquidation est
-opérée par ses soins sous la surveillance du directeur départemental du travail
-et de la main-d'oeuvre *autorité compétente*.
-
-La dévolution du solde des biens doit [*obligation*] être effectuée au crédit,
-soit d'un autre comité d'entreprise ou interentreprise, notamment dans le cas ou
-la majorité du personnel est destinée à être intégrée dans le cadre desdites
-entreprises, soit d'institutions sociales d'intérêt général dont la désignation
-doit être, autant que possible, conforme aux voeux exprimés par le personnel
-intéressé. En aucun cas [*interdiction*] les biens ne peuvent être répartis
-entre les membres du personnel ni entre les membres du comité.
+L'extrait du procès-verbal des délibérations de l'organe chargé de
+l'administration ou de la surveillance où figure la réponse motivée à la demande
+d'explication faite en application de l'article L. 432-5 est adressé au comité
+d'entreprise dans le mois qui suit la réunion de cet organe.
