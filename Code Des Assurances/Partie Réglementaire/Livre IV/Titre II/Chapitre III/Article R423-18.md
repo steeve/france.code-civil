@@ -17,7 +17,10 @@ entreprise adhérente au fonds de garantie ;
 
 4° Des actions de sociétés d'investissement à capital variable et des parts de
 fonds communs de placement détenant exclusivement des actifs relevant des 1°, 2°
-et 3°.
+et 3° sans que soient prohibées les valeurs émises par des entreprises
+adhérentes au fonds de garantie dès lors que le montant total de ces valeurs
+n'excède pas 15 % de la valeur d'actif de chacun de ces organismes de placement
+collectif.
 
 Les placements sont comptabilisés au prix d'achat et les moins-values
 provisionnées ligne par ligne.
@@ -32,7 +35,7 @@ fonds.
 Les valeurs et liquidités du fonds de garantie sont déposées auprès
 d'établissements de crédit ou d'entreprises d'investissement régulièrement
 habilités par un Etat membre de l'Union européenne. Aucun de ces établissements
-ou entreprises ne peut détenir plus de 10 % du montant de la provision.
+ou entreprises ne peut détenir plus de 25 % du montant de la provision.
 
 La comptabilité du fonds doit permettre de distinguer le montant des cotisations
 versées par les entreprises adhérentes, le montant cumulé des produits

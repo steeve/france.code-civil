@@ -1,7 +1,7 @@
 Article R325-2
 ----
-Si le retrait d'agrément prévu à l'article L. 325-1 ou au 5° de l'article L.
-310-18 concerne une entreprise française opérant également sur le territoire
-d'autres Etats membres de l'Espace économique européen, le comité des
-entreprises d'assurance ou la commission de contrôle des assurances, selon le
-cas, informe les autorités de contrôle de ces Etats.
+Lorsque l'agrément est retiré en vertu des dispositions de l'article L. 325-1 ou
+du 5° de l'article L. 310-18, le comité des entreprises d'assurance ou la
+commission de contrôle, selon le cas, informe d'urgence les autorités
+compétentes des autres Etats membres de la Communauté européenne ou parties à
+l'accord sur l'Espace économique européen.

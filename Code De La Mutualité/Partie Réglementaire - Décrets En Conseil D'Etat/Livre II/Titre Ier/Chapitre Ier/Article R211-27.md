@@ -11,7 +11,7 @@ engagements.
 
 Ils doivent également préciser que, si l'agrément accordé à la mutuelle ou à
 l'union qui se substitue lui est retiré, le bulletin d'adhésion ou le contrat
-collectif mentionné à l'article L. 221-1 sera résilié le dixième jour à midi à
-compter de la date de la publication de la décision du retrait d'agrément, la
+collectif mentionné à l'article L. 221-1 sera résilié le quarantième jour à midi
+à compter de la date de la publication de la décision du retrait d'agrément, la
 portion de cotisation afférente à la période non garantie étant alors restituée
 au souscripteur.

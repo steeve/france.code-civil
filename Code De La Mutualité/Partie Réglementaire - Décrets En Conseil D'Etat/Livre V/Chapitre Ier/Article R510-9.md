@@ -1,9 +1,10 @@
 Article R510-9
 ----
-Dans le cas mentionné à l'article R. 510-8, la commission de contrôle peut
-prescrire par lettre recommandée à toute société ou collectivité émettrice ou
-dépositaire de refuser l'exécution de toute opération portant sur des comptes ou
-des titres appartenant à la mutuelle ou à l'union intéressée, ainsi que le
+Lorsqu'elle est amenée à restreindre ou interdire la libre disposition de tout
+ou partie des actifs d'une mutuelle ou d'une union, la commission de contrôle
+peut prescrire par lettre recommandée à toute société ou collectivité émettrice
+ou dépositaire de refuser l'exécution de toute opération portant sur des comptes
+ou des titres appartenant à la mutuelle ou à l'union intéressée, ainsi que le
 paiement des intérêts et dividendes afférents auxdits titres ou subordonner
 l'exécution de ces opérations au visa préalable d'un des agents mentionnés à
 l'article L. 951-4 du code de la sécurité sociale ou de toute personne qu'elle

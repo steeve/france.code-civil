@@ -28,3 +28,9 @@ catégories, ainsi que les résultats obtenus sur les placements correspondants.
 
 Ce rapport peut être inclus dans le rapport de solvabilité mentionné à l'article
 L. 322-2-4.
+
+Les dispositions du présent article sont applicables aux entreprises mentionnées
+au 1° de l'article L. 310-2 ainsi qu'aux succursales des entreprises étrangères
+mentionnées aux 3° et 4° de l'article L. 310-2. Pour ces dernières, le
+mandataire général représentant la société est substitué au conseil
+d'administration ou de surveillance.
