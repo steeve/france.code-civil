@@ -1,8 +1,8 @@
 Article L432-6
 ----
-Dans les entreprises, deux membres du comité d'entreprise, délégués par le
-comité et appartenant l'un à la catégorie des cadres techniciens et agents de
-maîtrise, l'autre à la catégorie des employés et ouvriers, assistent avec voix
+Dans les sociétés, deux membres du comité d'entreprise, délégués par le comité
+et appartenant l'un à la catégorie des cadres techniciens et agents de maîtrise,
+l'autre à la catégorie des employés et ouvriers, assistent avec voix
 consultative à toutes les séances du conseil d'administration ou du conseil de
 surveillance, selon le cas. Dans les sociétés où, en application de l'article L.
 433-2 ci-après, il est constitué trois collèges électoraux, la délégation du
@@ -31,3 +31,7 @@ salariés au titre des articles 97-1 et 137-1 de la loi n° 66-537 du 24 juillet
 1966 sur les sociétés commerciales, la représentation du comité d'entreprise
 auprès de ces conseils est assurée par un membre titulaire du comité désigné par
 ce dernier.
+
+Dans les sociétés par actions simplifiées, les statuts précisent l'organe social
+auprès duquel les délégués du comité d'entreprise exercent les droits définis
+par le présent article.
