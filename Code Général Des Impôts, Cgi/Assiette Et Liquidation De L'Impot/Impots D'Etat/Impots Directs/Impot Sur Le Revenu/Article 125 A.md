@@ -34,6 +34,14 @@ qui sont encaissés par des personnes n'ayant pas en France leur domicile fiscal
 qui sont encaissés par des personnes morales n'ayant pas leur siège social en
 France [*à l'étranger*].
 
+Toutefois, ce prélèvement n'est pas applicable aux intérêts des obligations
+émises à compter du 1er octobre 1984 par un débiteur domicilié ou établi en
+France lorsque le bénéficiaire effectif de ces intérêts justifie, auprès du
+débiteur ou de la personne qui en assure le paiement, qu'il a son domicile
+fiscal ou son siège hors du territoire de la République française, de Monaco ou
+d'un Etat dont l'institut d'émission est lié au Trésor français par un compte
+d'opération monétaire.
+
 III bis. Le taux du prélèvement est fixé :
 
 1° A 25 % pour les produits d'obligations négociables et de titres
