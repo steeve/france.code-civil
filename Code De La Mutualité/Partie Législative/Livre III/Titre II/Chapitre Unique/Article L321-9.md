@@ -29,12 +29,12 @@ Corée, ainsi que des veuves, orphelins et ascendants des militaires décédés 
 fait de leur participation à ces combats ;
 
 6° Des anciens militaires et anciens membres des forces supplétives françaises
-ayant pris part aux opérations d'Afrique du Nord, titulaires du titre de
-reconnaissance de la Nation institué par l'article 77 de la loi n° 67-1114 du 21
-décembre 1967 ou titulaires de la carte du combattant attribuée dans les
-conditions fixées par la loi n° 74-1044 du 9 décembre 1974, ainsi que des
-veuves, orphelins et ascendants des militaires décédés du fait de leur
-participation à ces opérations.
+ayant pris part à la guerre d'Algérie ou aux combats en Tunisie et au Maroc,
+titulaires du titre de reconnaissance de la Nation institué par l'article 77 de
+la loi n° 67-1114 du 21 décembre 1967 ou titulaires de la carte du combattant
+attribuée dans les conditions fixées par la loi n° 74-1044 du 9 décembre 1974,
+ainsi que des veuves, orphelins et ascendants des militaires décédés du fait de
+leur participation à ces opérations.
 
 7° Des militaires des forces armées françaises ainsi que des personnes civiles
 titulaires de la carte du combattant ou du titre de reconnaissance de la nation

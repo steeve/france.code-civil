@@ -8,10 +8,10 @@ ministre chargé de la défense nationale, ont servi au cours de la guerre
 ainsi qu'à leurs veuves, orphelins et ascendants.
 
 Ces dispositions sont également applicables aux membres des forces supplétives
-françaises ayant participé aux opérations effectuées en Afrique du Nord entre le
-1er janvier 1952 et le 2 juillet 1962 ainsi qu'à leurs ayants cause, lorsque les
-intéressés possèdent la nationalité française à la date de présentation de leur
-demande ou sont domiciliés en France à la même date.
+françaises ayant participé à la guerre d'Algérie ou aux combats en Tunisie et au
+Maroc entre le 1er janvier 1952 et le 2 juillet 1962 ainsi qu'à leurs ayants
+cause lorsque les intéressés possèdent la nationalité française à la date de
+présentation de leur demande ou sont domiciliés en France à la même date.
 
 Les pensions liquidées en application des dispositions de l'alinéa qui précède
 ne sont pas cumulables avec les pensions, rentes ou allocations servies au titre

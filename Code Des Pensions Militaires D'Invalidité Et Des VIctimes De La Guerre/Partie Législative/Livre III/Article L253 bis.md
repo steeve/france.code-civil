@@ -4,8 +4,8 @@ Ont vocation à la qualité de combattant [*définition*] et à l'attribution de
 carte du combattant, selon les principes retenus pour l'application du présent
 titre et des textes réglementaires qui le complètent, sous la seule réserve des
 adaptations qui pourraient être rendues nécessaires par le caractère spécifique
-des opérations effectuées en Afrique du Nord entre le 1er janvier 1952 et le 2
-juillet 1962 :
+de la guerre d'Algérie ou des combats en Tunisie et au Maroc entre le 1er
+janvier 1952 et le 2 juillet 1962 :
 
 Les militaires des armées françaises,
 
