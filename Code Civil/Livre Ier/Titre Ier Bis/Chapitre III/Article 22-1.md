@@ -8,4 +8,4 @@ s'il réside alternativement avec ce parent dans le cas de séparation ou divorc
 Les dispositions du présent article ne sont applicables à l'enfant d'une
 personne qui acquiert la nationalité française par décision de l'autorité
 publique ou par déclaration de nationalité que si son nom est mentionné dans le
-décret de naturalisation ou dans la déclaration.
+décret ou dans la déclaration.
