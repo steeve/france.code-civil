@@ -4,9 +4,15 @@ I. - Le conseil d'administration comprend :
 
 1° Deux représentants du ministre chargé de l'agriculture ;
 
-2° Deux représentants du ministre chargé du budget ;
+2° Trois représentants des ministres chargés de l'économie et du budget :
 
-3° Un représentant du ministre chargé de l'économie ;
+- le directeur du budget ou son représentant ;
+
+- le directeur général de la comptabilité publique ou son représentant ;
+
+- le directeur général des douanes et des droits indirects ou son représentant ;
+
+3° (alinéa abrogé) ;
 
 4° Un représentant du ministre chargé de l'outre-mer ;
 
