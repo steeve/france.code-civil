@@ -1,7 +1,6 @@
 Article R441-28
 ----
-Lorsque le nombre de participants à une convention, après expiration du délai
-prévu à l'article R. 441-15, est ou devient inférieur à l'effectif prévu audit
-article, le retrait de l'agrément est prononcé, soit immédiatement, soit après
-l'expiration d'un nouveau délai fixé par le ministre de l'économie et des
-finances.
+En cas de conversion d'une ou de plusieurs conventions dans les conditions
+visées aux articles R. 441-25 et R. 441-26, l'actif est réparti entre les
+bénéficiaires de la ou des conventions considérées dans la limite du total de
+l'actif constitué pour chacune des conventions.
