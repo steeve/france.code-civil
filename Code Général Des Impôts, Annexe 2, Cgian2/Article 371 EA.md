@@ -7,9 +7,8 @@ centres s'engagent :
 bulletins professionnels, et, en ce qui concerne les centres de gestion
 bénéficiant de l'une des habilitations prévues à l'article 371 I, à se conformer
 aux dispositions de l'article 23 de l'ordonnance n° 45-2138 du 19 septembre 1945
-portant institution de l'ordre des experts-comptables et des comptables agréés
-et réglementant les titres et les professions d'expert-comptable et de comptable
-agréé ;
+portant institution de l'ordre des experts-comptables et réglementant le titre
+et la profession d'expert-comptable ;
 
 2° A faire figurer sur leur correspondance et sur tous les documents établis par
 leurs soins leur qualité de centres de gestion agréés et les références de la
