@@ -15,6 +15,7 @@ mentionnée à l'article L. 310-1 peuvent être couverts par des actifs localis�
 dans le pays de l'apériteur.
 
 4. Les engagements pris par des entreprises mentionnées à l'article L. 310-1 et
-résultant d'opérations réalisées en libre prestation de services au sens de
-l'article L. 351-1 sont soumis aux règles du pays de situation du risque lorsque
-ce dernier subordonne l'exercice de ces opérations à agrément.
+résultant d'opérations réalisées en libre prestation de services au sens des
+articles L. 351-1 et L. 353-1 sont soumis aux règles du pays de situation du
+risque ou de l'engagement lorsque ce dernier subordonne l'exercice de ces
+opérations à agrément.
