@@ -9,3 +9,10 @@ raison de son état de santé ou de son handicap. Toutefois, l'association ne se
 recevable dans son action que si elle justifie avoir reçu l'accord de la victime
 ou, si celle-ci est un mineur ou un majeur protégé, celui de son représentant
 légal.
+
+Toute association régulièrement déclarée depuis au moins cinq ans à la date des
+faits ayant, en vertu de ses statuts, vocation à défendre ou à assister les
+personnes handicapées peut également exercer les droits reconnus à la partie
+civile en ce qui concerne les infractions à l'article L. 111-7 du code de la
+construction et de l'habitation, prévues et réprimées par l'article L. 152-4 du
+même code.
