@@ -15,7 +15,11 @@ c) Une redevance sur les marchandises ;
 
 d) Une redevance sur les passagers ;
 
+e) Une redevance sur les déchets d'exploitation des navires ;
+
 2° Pour les navires de pêche, une redevance d'équipement des ports de pêche ;
 
 3° Pour les navires de plaisance ou de sport, une redevance d'équipement des
-ports de plaisance.
+ports de plaisance et, pour ceux ayant un agrément délivré par l'autorité
+maritime pour le transport de plus de 12 passagers, une redevance sur les
+déchets d'exploitation des navires.

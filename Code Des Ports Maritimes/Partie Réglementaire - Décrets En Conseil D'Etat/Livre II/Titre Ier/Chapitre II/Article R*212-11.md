@@ -1,6 +1,6 @@
 Article R*212-11
 ----
-Par dérogation aux articles R. 211-1, R. 212-3, R. 212-7 à R. 212-10, l'acte
+Par dérogation aux articles R. *211-1, R. *212-3, R. *212-7 à R. *212-10, l'acte
 fixant dans chaque port la redevance sur le navire peut prévoir, en cas
 d'ouverture de relations nouvelles, que les navires effectuant un transport
 maritime de passagers, de marchandises sur remorques (dites RO-RO) ou de
@@ -13,4 +13,5 @@ période déterminée et liquidé pro rata temporis par échéances au plus de t
 mois ;
 
 2° Soit à un forfait de redevance fixé à l'unité par passager, remorque, tonne
-ou multiples de tonnes, ou conteneur.
+ou multiples de tonnes, ou conteneur, cette redevance tenant lieu de redevance
+sur le navire et de redevance sur les déchets d'exploitation des navires.

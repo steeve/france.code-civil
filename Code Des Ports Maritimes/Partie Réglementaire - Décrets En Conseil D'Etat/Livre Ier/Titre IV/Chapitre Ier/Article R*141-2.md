@@ -16,8 +16,11 @@ concessionnaire ;
 6° Les sous-traités d'exploitation ;
 
 7° Les règlements particuliers de police et les dispositions permanentes
-relatives à la police des surfaces encloses prévues à l'article R. 341-5 du
+relatives à la police des surfaces encloses prévues à l'article R. *341-5 du
 présent code.
+
+8° Le plan de réception et de traitement des déchets d'exploitation des navires
+et des résidus de cargaison.
 
 Il est fait chaque année au conseil portuaire un rapport général sur la
 situation du port et son évolution sur le plan économique, financier, social,
