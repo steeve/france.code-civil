@@ -1,9 +1,9 @@
 Article R*221-31
 ----
-Le ministre chargé de l'agriculture agrée, après consultation d'un comité
-constitué, en nombre égal, de représentants de la commission nationale
-vétérinaire et du conseil supérieur de l'élevage, la personne gestionnaire de
-chaque fichier national.
+Le ministre chargé de l'agriculture agrée l'organisme gestionnaire de chaque
+fichier national, après consultation d'un comité constitué de représentants de
+la commission nationale vétérinaire (comité consultatif de la santé et de la
+protection animales) dont il fixe la composition par arrêté.
 
 L'agrément peut être suspendu ou retiré dans les mêmes formes lorsque le
 gestionnaire du fichier national ne se conforme pas, après mise en demeure, aux
