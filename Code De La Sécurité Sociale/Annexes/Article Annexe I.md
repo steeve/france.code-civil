@@ -1,739 +1,686 @@
 Article Annexe I
 ----
-TRIBUNAUX DES AFFAIRES de sécurité sociale/agriculture :
+DÉPARTEMENTS
+
+
+TRIBUNAUX DES AFFAIRES
+
+de sécurité sociale/agriculture
+
+
+Siège
+
+Ressort
 
 Cour d'appel d'Agen
 
-DEPARTEMENT : Gers.
+Gers.
 
-Siège : Auch.
+Auch.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Lot.
+Lot.
 
-Siège : Cahors.
+Cahors.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Lot-et-Garonne.
+Lot-et-Garonne.
 
-Siège : Agen.
+Agen.
 
-Ressort : Le département.
-
-TRIBUNAUX DES AFFAIRES de sécurité sociale/agriculture :
+Le département.
 
 Cour d'appel d'Aix-en-Provence
 
-DEPARTEMENT : Alpes-de-Haute-Provence.
+Alpes-de-Haute-Provence.
 
-Siège : Digne-les-Bains.
+Digne-les-Bains.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Alpes-Maritimes.
+Alpes-Maritimes.
 
-Siège : Nice.
+Nice.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Bouches-du-Rhône.
+Bouches-du-Rhône.
 
-Siège : Marseille.
+Marseille.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Var.
+Var.
 
-Siège : Toulon.
+Draguignan.
 
-Ressort : Le département.
-
-TRIBUNAUX DES AFFAIRES de sécurité sociale/agriculture :
+Le département.
 
 Cour d'appel d'Amiens
 
-DEPARTEMENT : Aisne.
+Aisne.
 
-Siège : Laon.
+Laon.
 
-Ressort : Arrondissements de Soissons, de Château-Thierry et de Laon, sauf le
-canton de La Fère.
-
-Siège : Saint-Quentin.
-
-Ressort : Arrondissements de Saint-Quentin et de Vervins, plus le canton de La
+Arrondissements de Soissons, de Château-Thierry et de Laon, sauf le canton de La
 Fère.
 
-DEPARTEMENT : Oise.
+Saint-Quentin.
 
-Siège : Beauvais.
+Arrondissements de Saint-Quentin et de Vervins, plus le canton de La Fère.
 
-Ressort : Le département.
+Oise.
 
-DEPARTEMENT : Somme.
+Beauvais.
 
-Siège : Amiens.
+Le département.
 
-Ressort : Le département.
+Somme.
 
-TRIBUNAUX DES AFFAIRES de sécurité sociale/agriculture :
+Amiens.
+
+Le département.
 
 Cour d'appel d'Angers
 
-DEPARTEMENT : Maine-et-Loire.
+Maine-et-Loire.
 
-Siège : Angers.
+Angers.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Mayenne.
+Mayenne.
 
-Siège : Laval.
+Laval.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Sarthe.
+Sarthe.
 
-Siège : Le Mans.
+Le Mans.
 
-Ressort : Le département.
-
-TRIBUNAUX DES AFFAIRES de sécurité sociale/agriculture :
+Le département.
 
 Cour d'appel de Bastia
 
-DEPARTEMENT : Corse-du-Sud.
+Corse-du-Sud.
 
-Siège : Ajaccio.
+Ajaccio.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Haute-Corse.
+Haute-Corse.
 
-Siège : Bastia.
+Bastia.
 
-Ressort : Le département.
-
-TRIBUNAUX DES AFFAIRES de sécurité sociale/agriculture :
+Le département.
 
 Cour d'appel de Besançon
 
-DEPARTEMENT : Doubs.
+Doubs.
 
-Siège : Besançon.
+Besançon.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Jura.
+Jura.
 
-Siège : Lons-le-Saunier.
+Lons-le-Saunier.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Haute-Saône.
+Haute-Saône.
 
-Siège : Vesoul.
+Vesoul.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Territoire de Belfort.
+Territoire de Belfort.
 
-Siège : Belfort.
+Belfort.
 
-Ressort : Le département.
-
-TRIBUNAUX DES AFFAIRES de sécurité sociale/agriculture :
+Le département.
 
 Cour d'appel de Bordeaux
 
-DEPARTEMENT : Charente.
+Charente.
 
-Siège : Angoulême.
+Angoulême.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Dordogne.
+Dordogne.
 
-Siège : Périgueux.
+Périgueux.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Gironde.
+Gironde.
 
-Siège : Bordeaux.
+Bordeaux.
 
-Ressort : Le département.
-
-TRIBUNAUX DES AFFAIRES de sécurité sociale/agriculture :
+Le département.
 
 Cour d'appel de Bourges
 
-DEPARTEMENT : Cher.
+Cher.
 
-Siège : Bourges.
+Bourges.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Indre.
+Indre.
 
-Siège : Châteauroux.
+Châteauroux.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Nièvre.
+Nièvre.
 
-Siège : Nevers.
+Nevers.
 
-Ressort : Le département.
-
-TRIBUNAUX DES AFFAIRES de sécurité sociale/agriculture :
+Le département.
 
 Cour d'appel de Caen
 
-DEPARTEMENT : Calvados.
+Calvados.
 
-Siège : Caen.
+Caen.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Manche.
+Manche.
 
-Siège : Saint-Lô.
+Saint-Lô.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Orne.
+Orne.
 
-Siège : Alençon.
+Alençon.
 
-Ressort : Le département.
-
-TRIBUNAUX DES AFFAIRES de sécurité sociale/agriculture :
+Le département.
 
 Cour d'appel de Chambéry
 
-DEPARTEMENT : Savoie.
+Savoie.
 
-Siège : Chambéry.
+Chambéry.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Haute-Savoie.
+Haute-Savoie.
 
-Siège : Annecy.
+Annecy.
 
-Ressort : Le département.
-
-TRIBUNAUX DES AFFAIRES de sécurité sociale/agriculture :
+Le département.
 
 Cour d'appel de Colmar
 
-DEPARTEMENT : Bas-Rhin.
+Bas-Rhin.
 
-Siège : Strasbourg.
+Strasbourg.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Haut-Rhin.
+Haut-Rhin.
 
-Siège : Mulhouse.
+Mulhouse.
 
-Ressort : Le département.
-
-TRIBUNAUX DES AFFAIRES de sécurité sociale/agriculture :
+Le département.
 
 Cour d'appel de Dijon
 
-DEPARTEMENT : Côte-d'Or.
+Côte-d'Or.
 
-Siège : Dijon.
+Dijon.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Haute-Marne.
+Haute-Marne.
 
-Siège : Chaumont.
+Chaumont.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Saône-et-Loire.
+Saône-et-Loire.
 
-Siège : Mâcon.
+Mâcon.
 
-Ressort : Le département.
-
-TRIBUNAUX DES AFFAIRES de sécurité sociale/agriculture :
+Le département.
 
 Cour d'appel de Douai
 
-DEPARTEMENT : Nord.
+Nord.
 
-Siège : Lille.
+Lille.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Pas-de-Calais.
+Pas-de-Calais.
 
-Siège : Arras.
+Arras.
 
-Ressort : Le département.
-
-TRIBUNAUX DES AFFAIRES de sécurité sociale/agriculture :
+Le département.
 
 Cour d'appel de Grenoble
 
-DEPARTEMENT : Hautes-Alpes.
+Hautes-Alpes.
 
-Siège : Gap.
+Gap.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Drôme.
+Drôme.
 
-Siège : Valence.
+Valence.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Isère.
+Isère.
 
-Siège : Grenoble.
+Grenoble.
 
-Ressort : Le département.
-
-TRIBUNAUX DES AFFAIRES de sécurité sociale/agriculture :
+Le département.
 
 Cour d'appel de Limoges
 
-DEPARTEMENT : Corrèze.
+Corrèze.
 
-Siège : Tulle.
+Tulle.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Creuse.
+Creuse.
 
-Siège : Guéret.
+Guéret.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Haute-Vienne.
+Haute-Vienne.
 
-Siège : Limoges.
+Limoges.
 
-Ressort : Le département.
-
-TRIBUNAUX DES AFFAIRES de sécurité sociale/agriculture :
+Le département.
 
 Cour d'appel de Lyon
 
-DEPARTEMENT : Ain.
+Ain.
 
-Siège : Bourg-en-Bresse.
+Bourg-en-Bresse.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Loire.
+Loire.
 
-Siège : Saint-Etienne.
+Saint-Etienne.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Rhône.
+Rhône.
 
-Siège : Lyon.
+Lyon.
 
-Ressort : Le département.
-
-TRIBUNAUX DES AFFAIRES de sécurité sociale/agriculture :
+Le département.
 
 Cour d'appel de Metz
 
-DEPARTEMENT : Moselle.
+Moselle.
 
-Siège : Metz.
+Metz.
 
-Ressort : Le département.
-
-TRIBUNAUX DES AFFAIRES de sécurité sociale/agriculture :
+Le département.
 
 Cour d'appel de Montpellier
 
-DEPARTEMENT : Aude.
+Aude.
 
-Siège : Carcassonne.
+Carcassonne.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Aveyron.
+Aveyron.
 
-Siège : Rodez.
+Rodez.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Hérault.
+Hérault.
 
-Siège : Montpellier.
+Montpellier.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Pyrénées-Orientales.
+Pyrénées-Orientales.
 
-Siège : Perpignan.
+Perpignan.
 
-Ressort : Le département.
-
-TRIBUNAUX DES AFFAIRES de sécurité sociale/agriculture :
+Le département.
 
 Cour d'appel de Nancy
 
-DEPARTEMENT : Meurthe-et-Moselle.
+Meurthe-et-Moselle.
 
-Siège : Nancy.
+Nancy.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Meuse.
+Meuse.
 
-Siège : Bar-le-Duc.
+Bar-le-Duc.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Vosges.
+Vosges.
 
-Siège : Epinal.
+Épinal.
 
-Ressort : Le département.
-
-TRIBUNAUX DES AFFAIRES de sécurité sociale/agriculture :
+Le département.
 
 Cour d'appel de Nîmes
 
-DEPARTEMENT : Ardèche.
+Ardèche.
 
-Siège : Privas.
+Privas.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Gard.
+Gard.
 
-Siège : Nîmes.
+Nîmes.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Lozère.
+Lozère.
 
-Siège : Mende.
+Mende.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Vaucluse.
+Vaucluse.
 
-Siège : Avignon.
+Avignon.
 
-Ressort : Le département.
-
-TRIBUNAUX DES AFFAIRES de sécurité sociale/agriculture :
+Le département.
 
 Cour d'appel d'Orléans
 
-DEPARTEMENT : Indre-et-Loire.
+Indre-et-Loire.
 
-Siège : Tours.
+Tours.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Loir-et-Cher.
+Loir-et-Cher.
 
-Siège : Blois.
+Blois.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Loiret.
+Loiret.
 
-Siège : Orléans.
+Orléans.
 
-Ressort : Le département.
-
-TRIBUNAUX DES AFFAIRES de sécurité sociale/agriculture :
+Le département.
 
 Cour d'appel de Paris
 
-DEPARTEMENT : Yonne.
+Yonne.
 
-Siège : Auxerre.
+Auxerre.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Essonne.
+Essonne.
 
-Siège : Paris.
+Paris.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Seine-Saint-Denis.
+Seine-Saint-Denis.
 
-Siège : Paris.
+Paris.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Paris.
+Paris.
 
-Siège : Paris.
+Paris.
 
-Ressort : Ville de Paris.
+Ville de Paris.
 
-DEPARTEMENT : Val-de-Marne.
+Val-de-Marne.
 
-Siège : Paris.
+Paris.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Seine-et-Marne.
 
-Siège : Melun.
+Seine-et-Marne
 
-Ressort : Le département.
+Melun.
 
-TRIBUNAUX DES AFFAIRES de sécurité sociale/agriculture :
+Le département.
 
 Cour d'appel de Pau
 
-DEPARTEMENT : Landes.
+Landes.
 
-Siège : Mont-de-Marsan.
+Mont-de-Marsan.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Pyrénées-Atlantiques.
+Pyrénées-Atlantiques.
 
-Siège : Pau.
+Pau.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Hautes-Pyrénées.
+Hautes-Pyrénées.
 
-Siège : Tarbes.
+Tarbes.
 
-Ressort : Le département.
-
-TRIBUNAUX DES AFFAIRES de sécurité sociale/agriculture :
+Le département.
 
 Cour d'appel de Poitiers
 
-DEPARTEMENT : Charente-Maritime.
+Charente-Maritime.
 
-Siège : La Rochelle.
+La Rochelle.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Deux-Sèvres.
+Deux-Sèvres.
 
-Siège : Niort.
+Niort.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Vendée.
+Vendée.
 
-Siège : La Roche-sur-Yon.
+La Roche-sur-Yon.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Vienne.
+Vienne.
 
-Siège : Poitiers.
+Poitiers.
 
-Ressort : Le département.
-
-TRIBUNAUX DES AFFAIRES de sécurité sociale/agriculture :
+Le département.
 
 Cour d'appel de Reims
 
-DEPARTEMENT : Ardennes.
+Ardennes.
 
-Siège : Charleville-Mézières.
+Charleville-Mézières.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Aube.
+Aube.
 
-Siège : Troyes.
+Troyes.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Marne.
+Marne.
 
-Siège : Reims.
+Reims.
 
-Ressort : Le département.
-
-TRIBUNAUX DES AFFAIRES de sécurité sociale/agriculture :
+Le département.
 
 Cour d'appel de Rennes
 
-DEPARTEMENT : Côtes-d'Armor.
+Côtes-d'Armor.
 
-Siège : Saint-Brieuc.
+Saint-Brieuc.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Finistère.
+Finistère.
 
-Siège : Quimper.
+Quimper.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Ille-et-Vilaine.
+Ille-et-Vilaine.
 
-Siège : Rennes.
+Rennes.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Loire-Atlantique.
+Loire-Atlantique.
 
-Siège : Nantes.
+Nantes.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Morbihan.
+Morbihan.
 
-Siège : Vannes.
+Vannes.
 
-Ressort : Le département.
-
-TRIBUNAUX DES AFFAIRES de sécurité sociale/agriculture :
+Le département.
 
 Cour d'appel de Riom
 
-DEPARTEMENT : Allier.
+Allier.
 
-Siège : Moulins.
+Moulins.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Cantal.
+Cantal.
 
-Siège : Aurillac.
+Aurillac.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Haute-Loire.
+Haute-Loire.
 
-Siège : Le Puy.
+Le Puy.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Puy-de-Dôme.
+Puy-de-Dôme.
 
-Siège : Clermont-Ferrand.
+Clermont-Ferrand.
 
-Ressort : Le département.
-
-TRIBUNAUX DES AFFAIRES de sécurité sociale/agriculture :
+Le département.
 
 Cour d'appel de Rouen
 
-DEPARTEMENT : Eure.
+Eure.
 
-Siège : Evreux.
+Evreux.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Seine-Maritime.
+Seine-Maritime.
 
-Siège : Rouen.
+Rouen.
 
-Ressort : Le département.
-
-TRIBUNAUX DES AFFAIRES de sécurité sociale/agriculture :
+Le département.
 
 Cour d'appel de Toulouse
 
-DEPARTEMENT : Ariège.
+Ariège.
 
-Siège : Foix.
+Foix.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Haute-Garonne.
+Haute-Garonne.
 
-Siège : Toulouse.
+Toulouse.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Tarn.
+Tarn.
 
-Siège : Albi.
+Albi.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Tarn-et-Garonne.
+Tarn-et-Garonne.
 
-Siège : Montauban.
+Montauban.
 
-Ressort : Le département.
-
-TRIBUNAUX DES AFFAIRES de sécurité sociale/agriculture :
+Le département.
 
 Cour d'appel de Versailles
 
-DEPARTEMENT : Hauts-de-Seine.
 
-Siège : Versailles.
+Hauts-de-Seine
 
-Ressort : Le département.
+Versailles.
 
-DEPARTEMENT : Val-d'Oise.
+Le département.
 
-Siège : Versailles.
+Val-d'Oise.
 
-Ressort : Le département.
+Versailles.
 
-DEPARTEMENT : Yvelines.
+Le département.
 
-Siège : Versailles.
+Yvelines.
 
-Ressort : Le département.
+Versailles.
 
-DEPARTEMENT : Eure-et-Loir.
+Le département.
 
-Siège : Chartres.
+Eure-et-Loir.
 
-Ressort : Le département.
+Chartres.
 
-TRIBUNAUX DES AFFAIRES de sécurité sociale/agriculture :
+Le département.
 
 Cour d'appel de Basse-Terre
 
-DEPARTEMENT : Guadeloupe.
+Guadeloupe.
 
-Siège : Basse-Terre.
+Pointe-à-Pitre.
 
-Ressort : Le département.
-
-TRIBUNAUX DES AFFAIRES de sécurité sociale/agriculture :
+Le département.
 
 Cour d'appel de Fort-de-France
 
-DEPARTEMENT : Guyane.
+Guyane.
 
-Siège : Cayenne.
+Cayenne.
 
-Ressort : Le département.
+Le département.
 
-DEPARTEMENT : Martinique.
+Martinique.
 
-Siège : Fort-de-France.
+Fort-de-France.
 
-Ressort : Le département.
-
-TRIBUNAUX DES AFFAIRES de sécurité sociale/agriculture :
+Le département.
 
 Cour d'appel de Saint-Denis-de-la-Réunion
 
-DEPARTEMENT : Réunion.
+Réunion.
 
-Siège : Saint-Denis.
+Saint-Denis.
 
-Ressort : Le département.
+Le département.
