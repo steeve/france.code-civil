@@ -12,10 +12,8 @@ charges du fonds de garantie ;
 10 p. 100 des indemnités restant à leur charge. Toutefois, ce taux est ramené à
 5 p. 100 lorsque l'accident a été provoqué par un véhicule utilisé par l'Etat,
 un Etat étranger pour lequel a été fournie l'attestation prévue à l'article R.
-211-25, une collectivité publique, une entreprise ou un organisme bénéficiant de
-la dérogation à l'obligation d'assurance en vertu de l'article L. 211-3 du code
-des assurances. Il est également ramené à 5 p. 100 des indemnités restant à leur
-propre charge pour les bénéficiaires d'une assurance avec franchise.
+211-25. Il est également ramené à 5 p. 100 des indemnités restant à leur propre
+charge pour les bénéficiaires d'une assurance avec franchise.
 
 - contribution des assurés : 2 p. 100 des primes mentionnées au 3° de l'article
 R. 421-27.
