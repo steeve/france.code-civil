@@ -1,18 +1,20 @@
 Article L429-27
 ----
-I. - Le syndicat général des chasseurs en forêt, constitué dans les départements
-du Bas-Rhin, du Haut-Rhin et de la Moselle, est composé :
+Il est constitué, dans chacun des départements du Bas-Rhin, du Haut-Rhin et de
+la Moselle, un fonds départemental d'indemnisation des dégâts de sanglier, doté
+de la personnalité morale.
 
-1° De tous les locataires de chasse domaniale ou communale en forêt ;
+Les fonds départementaux d'indemnisation des dégâts de sanglier ont pour objet
+d'indemniser les exploitants agricoles des dégâts causés aux cultures par les
+sangliers. Ils peuvent mener et imposer des actions de prévention.
 
-2° De tous les propriétaires qui se sont réservé l'exercice du droit de chasse
-dans les forêts leur appartenant, conformément à l'article L. 429-4 ;
+Chaque fonds départemental est composé des titulaires du droit de chasse ainsi
+définis :
 
-3° De l'Office national des forêts pour les lots exploités en forêts domaniales
-par concessions de licences ou mis en réserve.
+1° Tous les locataires de chasse domaniale ou communale ;
 
-II. - Est considéré comme chasseur en forêt tout titulaire du droit de chasse
-sur un terrain comprenant des bois faisant partie d'une surface boisée d'au
-moins dix hectares d'un seul tenant.
+2° Tous les propriétaires qui se sont réservé l'exercice du droit de chasse sur
+les territoires leur appartenant, conformément à l'article L. 429-4 ;
 
-III. - Le syndicat est investi de la capacité civile.
+3° L'Office national des forêts pour les lots exploités en forêt domaniale par
+concessions de licences ou mis en réserve.

@@ -21,7 +21,7 @@ d'eau non domaniaux et des canaux de dessèchement et d'irrigation ;
 
 6° Irrigation, épandage, colmatage et limonage ;
 
-7° (alinéa abrogé).
+7° Les travaux de débardage par câble en zone de montagne ;
 
 Les personnes morales mentionnées au premier alinéa prennent en charge les
 travaux qu'elles ont prescrits ou exécutés. Elles peuvent toutefois, dans les

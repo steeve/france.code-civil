@@ -3,11 +3,11 @@ Article L212-15
 Sous sa responsabilité et après avis du conseil d'administration ou d'école et,
 le cas échéant, accord de la collectivité propriétaire ou attributaire des
 bâtiments, en vertu des dispositions du présent titre, le maire peut utiliser
-les locaux scolaires dans la commune pour l'organisation d'activités à caractère
-culturel, sportif, social ou socio-éducatif pendant les heures ou les périodes
-au cours desquelles ils ne sont pas utilisés pour les besoins de la formation
-initiale et continue. Ces activités doivent être compatibles avec la nature des
-installations et l'aménagement des locaux.
+les locaux et les équipements scolaires dans la commune pour l'organisation
+d'activités à caractère culturel, sportif, social ou socio-éducatif pendant les
+heures ou les périodes au cours desquelles ils ne sont pas utilisés pour les
+besoins de la formation initiale et continue. Ces activités doivent être
+compatibles avec la nature des installations et l'aménagement des locaux.
 
 La commune ou, le cas échéant, la collectivité propriétaire peut soumettre toute
 autorisation d'utilisation à la passation, entre son représentant, celui de

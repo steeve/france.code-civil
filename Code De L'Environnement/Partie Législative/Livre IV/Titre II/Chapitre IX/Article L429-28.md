@@ -1,15 +1,18 @@
 Article L429-28
 ----
-Les statuts du syndicat sont établis et modifiés par l'assemblée générale des
-membres et approuvés par arrêté conjoint des préfets. En cas de désaccord entre
-l'assemblée générale et ces préfets, les statuts sont fixés par décret en
-Conseil d'Etat.
+Les fonds départementaux d'indemnisation des dégâts de sanglier s'accordent pour
+élaborer leurs statuts types. Ces statuts types sont approuvés par arrêtés des
+préfets du Bas-Rhin, du Haut-Rhin et de la Moselle. En cas de désaccord entre
+ces préfets et les fonds départementaux, les statuts types sont fixés par décret
+en Conseil d'Etat. Chaque fonds départemental réunit ensuite ses membres en
+assemblée générale pour adopter les statuts types.
 
-Les décisions de l'assemblée générale sont prises à la majorité des voix, chaque
-membre ayant une voix % hectares de superficie boisée compris dans sa chasse.
-Tout titulaire du droit de chasse sur une superficie boisée comprise entre dix
-et cent hectares a une voix. Tout excédent de plus de dix hectares sur le plus
-grand multiple de cent hectares compris dans la surface boisée d'une chasse
-donne droit à une voix supplémentaire.
+Les décisions de l'assemblée générale sont prises à la majorité des voix des
+membres présents et représentés. Chaque membre d'un fonds départemental dispose
+au minimum d'une voix, quelle que soit la surface, et au maximum de dix voix.
+Les voix sont réparties de la manière suivante : une par tranche entière de 100
+hectares boisés, et une par tranche entière de 200 hectares non boisés, pour la
+surface cumulée de son ou de ses territoires de chasse.
 
-Aucun membre ne peut disposer de plus de dix voix.
+Par surface boisée, on entend celle des forêts, taillis, bosquets, haies et
+roselières, additionnée et certifiée par la commune pour chaque ban communal.

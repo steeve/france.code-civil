@@ -15,9 +15,7 @@ plans d'eau intérieurs d'une superficie supérieure à 1 000 hectares ;
 3° Dans les communes riveraines des estuaires et des deltas lorsque tout ou
 partie de leurs rives sont situées en aval de la limite de salure des eaux ;
 
-4° Dans les autres communes qui participent directement aux équilibres
-économiques et écologiques littoraux et qui font la demande auprès du préfet,
-après avis de cet établissement et accord du préfet.
+4° Abrogé
 
 II. - Il peut présenter aux collectivités publiques toutes suggestions en
 rapport avec sa mission. Il peut notamment proposer les mesures propres à éviter
@@ -28,7 +26,8 @@ Conservatoire de l'espace littoral et des rivages lacustres peut également
 exercer ses missions sur le domaine public maritime qui lui est affecté ou
 confié.
 
-III. - Son intervention peut être étendue par décret en Conseil d'Etat à des
-secteurs géographiques limitrophes des cantons et communes mentionnés au I et
-constituant avec eux une unité écologique ou paysagère dont la majorité de la
-surface est située dans les limites desdits cantons et communes.
+III. - Son intervention peut être étendue par arrêté préfectoral et après avis
+de son conseil d'administration à des secteurs géographiquement limitrophes des
+cantons et des communes mentionnés au I et constituant avec eux une unité
+écologique ou paysagère ainsi qu'aux zones humides situées dans les départements
+côtiers.

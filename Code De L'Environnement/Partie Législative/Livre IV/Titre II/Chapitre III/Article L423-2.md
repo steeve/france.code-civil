@@ -8,13 +8,12 @@ par décision de justice. Pour la chasse à tir, la personne autorisée et
 l'accompagnateur ne peuvent disposer, sur le lieu de chasse, que d'une arme pour
 deux.
 
-L'autorisation de chasser est délivrée gratuitement pour une période d'un an par
-l'autorité administrative aux personnes ayant satisfait à un examen théorique.
-Elle ne peut être délivrée qu'une fois. Elle ne peut être délivrée aux mineurs
-de quinze ans et aux majeurs. Elle ne peut en outre être délivrée aux personnes
-auxquelles le permis de chasser ne peut être délivré conformément à l'article L.
-423-24, ainsi qu'aux personnes auxquelles la délivrance du permis de chasser
-peut être refusée conformément à l'article L. 423-25.
+A l'exclusion des personnes visées par l'article L. 423-25, l'autorisation de
+chasser est délivrée par l'autorité administrative, gratuitement, pour un an et
+une fois par personne, aux mineurs de plus de quinze ans et aux majeurs, ayant
+bénéficié d'une formation pratique élémentaire délivrée par la fédération
+départementale ou interdépartementale des chasseurs, avec le concours de
+l'Office national de la chasse et de la faune sauvage.
 
 Les articles L. 424-4 et L. 424-5 sont applicables aux titulaires de
 l'autorisation de chasser.

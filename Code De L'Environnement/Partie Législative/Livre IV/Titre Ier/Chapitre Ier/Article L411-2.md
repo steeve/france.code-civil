@@ -31,3 +31,6 @@ espèces ;
 mesures conservatoires propres à éviter leur dégradation et la délivrance des
 autorisations exceptionnelles d'enlèvement des fossiles à des fins scientifiques
 ou d'enseignement.
+
+La liste des espèces animales non domestiques prévue au 1° est révisée tous les
+deux ans.

@@ -15,3 +15,6 @@ classement. En cas d'urgence, le ministre chargé des sites fixe à la commissio
 départementale un délai pour émettre son avis. Faute par elle de se prononcer
 dans ce délai, le ministre consulte la commission supérieure et donne à la
 demande la suite qu'elle comporte.
+
+Dans les zones de montagne, la décision de classement est prise après
+consultation du comité de massif concerné.

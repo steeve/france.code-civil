@@ -22,4 +22,28 @@ de sauvegarde de la ressource, déclarées d'utilité publique pour
 l'approvisionnement actuel ou futur en eau potable ;
 
 3° Fixer les dispositions particulières applicables aux sources et gisements
-d'eaux minérales naturelles et à leur protection.
+d'eaux minérales naturelles et à leur protection ;
+
+4° A l'intérieur des zones humides définies à l'article L. 211-1 :
+
+a) Délimiter des zones dites "zones humides d'intérêt environnemental
+particulier" dont le maintien ou la restauration présente un intérêt pour la
+gestion intégrée du bassin versant, ou une valeur touristique, écologique,
+paysagère ou cynégétique particulière. Ces zones peuvent englober les zones
+humides dites "zones stratégiques pour la gestion de l'eau" prévues à l'article
+L. 212-5 ;
+
+b) Etablir, en concertation notamment avec les collectivités territoriales et
+leurs groupements, les représentants des propriétaires ou leurs groupements, les
+exploitants des terrains ou leurs représentants, les associations agréées de
+protection de la nature, les fédérations des associations agréées de pêche, les
+fédérations des chasseurs, les associations agréées de pêcheurs professionnels,
+réunis en comité de gestion de la zone humide, sous l'égide de la commission
+locale de l'eau lorsqu'elle existe, un programme d'actions visant à restaurer,
+préserver, gérer et mettre en valeur de façon durable les zones définies au a ;
+
+c) Préciser dans ce programme les pratiques à promouvoir ainsi que les moyens
+prévus pour favoriser leur généralisation, rendre obligatoires certaines de ces
+pratiques et préciser les modalités selon lesquelles ces pratiques peuvent, le
+cas échéant, bénéficier d'aides lorsqu'elles induisent des surcoûts ou des
+pertes de revenus.

@@ -16,3 +16,7 @@ conservatoire du surplus des produits qui n'ont pas été affectés à la mise e
 valeur et à la gestion du bien. Le bénéficiaire est choisi librement. En fin de
 convention d'occupation, le gestionnaire ne peut prétendre à aucune indemnité
 pour les améliorations apportées à l'immeuble.
+
+Le conservatoire peut prendre en charge une partie du coût des missions visées
+au premier alinéa dès lors que celle-ci est inférieure à celle du bénéficiaire
+de la convention, selon des modalités précisées par celle-ci.

@@ -17,6 +17,7 @@ propriétaires ou détenteurs d'animaux, et soumises à l'agrément de l'autorit
 administrative compétente ; en cas de carence ou lorsque les parties concernées
 n'ont pu aboutir à un accord, ces tarifs sont fixés par cette autorité.
 
-Ces rémunérations sont assimilées, pour l'application du code général des impôts
-et du code de la sécurité sociale, à des revenus tirés de l'exercice d'une
-profession libérale.
+Les rémunérations perçues au titre des actes accomplis dans le cadre du mandat
+sanitaire sont assimilées, pour l'application du code général des impôts et du
+code de la sécurité sociale, à des revenus tirés de l'exercice d'une profession
+libérale.

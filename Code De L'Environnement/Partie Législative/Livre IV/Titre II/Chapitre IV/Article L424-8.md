@@ -1,21 +1,34 @@
 Article L424-8
 ----
-La mise en vente, la vente, l'achat, le transport ou le colportage du gibier
-pendant le temps où la chasse n'est pas permise dans le département sont
-réglementés par l'autorité administrative.
+I. - Le transport, la vente, la mise en vente, la détention pour la vente et
+l'achat des animaux vivants d'espèces dont la chasse est autorisée ou des
+animaux licitement tués à la chasse sont :
 
-Jusqu'à la date de publication du décret mentionné au dernier alinéa, la mise en
-vente, la vente, l'achat, le transport et le colportage du gibier sont interdits
-pendant le temps où la chasse n'est pas permise dans le département.
+1° Libres toute l'année pour les mammifères ;
 
-Toutefois, en période de non-chasse, les associations communales de chasse
-agréées ou les sociétés de chasse peuvent transporter, dans le département, du
-gibier pour les repas associatifs non commerciaux qu'elles organisent.
+2° Interdits pour les oiseaux et leurs oeufs, sauf pour :
 
-De même, le transport du gibier d'un département où la chasse est ouverte vers
-un département où elle ne l'est pas est autorisé dès lors que le gibier est
-transporté par un chasseur en mesure, d'une part, d'établir que le gibier a été
-légalement capturé et, d'autre part, de justifier son origine.
+- leur transport à des fins non commerciales, y compris le transport des
+appelants et des escaps ;
 
-Un décret en Conseil d'Etat fixe les conditions d'application du présent
+- les espèces dont la liste est fixée par arrêté du ministre chargé de la
+chasse.
+
+II. - Toutefois, des restrictions peuvent être apportées par l'autorité
+administrative à ces dispositions pour prévenir la destruction ou favoriser le
+repeuplement du gibier.
+
+III. - Le transport, la vente, la mise en vente, la détention pour la vente et
+l'achat des animaux vivants ou morts d'espèces dont la chasse est autorisée et
+qui sont nés et élevés en captivité sont libres toute l'année.
+
+IV. - Nonobstant les dispositions des I et III, la vente, le transport pour la
+vente, la mise en vente, la détention pour la vente et l'achat des animaux
+licitement tués à la chasse ou morts provenant d'élevages visés au III sont
+autorisés s'ils respectent les dispositions relatives à la traçabilité des
+produits prévues aux articles L. 232-1, L. 232-1-1, L. 232-2 et L. 232-3 du code
+rural et si les animaux ont fait l'objet d'une inspection sanitaire conformément
+aux articles L. 231-1, L. 231-2 et L. 231-3 du même code.
+
+V. - Un décret en Conseil d'Etat précise les conditions d'application du présent
 article.

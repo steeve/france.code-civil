@@ -23,6 +23,11 @@ avis du ministre chargé de l'agriculture et du ministre chargé de l'industrie,
 sur procédure d'appel à candidatures publiée au Journal officiel des Communautés
 européennes.
 
+Toutefois, si ces unités de production n'ont pas pour objet principal la
+production d'huiles utilisées comme carburant ou comme combustible, elles ne
+sont pas soumises à cette obligation. Dans ce cas, ces unités bénéficient d'une
+procédure de déclaration simplifiée définie par décret.
+
 2 bis. Pour l'année 2005, des agréments pour 130000 tonnes supplémentaires par
 rapport aux agréments accordés en 2004 seront lancés par appel d'offres
 communautaire.

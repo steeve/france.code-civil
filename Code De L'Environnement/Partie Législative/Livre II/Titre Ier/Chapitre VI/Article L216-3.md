@@ -2,9 +2,9 @@ Article L216-3
 ----
 I. - Sont chargés de procéder à la recherche et à la constatation des
 infractions aux dispositions des articles L. 211-2, L. 211-3, L. 211-5, L.
-211-7, L. 214-1 à L. 214-9, L. 214-11 à L. 214-13, L. 216-6 à L. 216-8 et L.
-216-10 à L. 216-12, ainsi que des textes et des décisions pris pour leur
-application :
+211-7, L. 211-12, L. 214-1 à L. 214-9, L. 214-11 à L. 214-13, L. 216-6 à L.
+216-8 et L. 216-10 à L. 216-12, ainsi que des textes et des décisions pris pour
+leur application :
 
 1° Les fonctionnaires et agents, assermentés et commissionnés à cet effet dans
 les conditions prévues par décret en Conseil d'Etat, appartenant aux services de

@@ -65,3 +65,8 @@ repos. Elle est alors versée à ceux des ayants droit qui auraient qualité pou
 obtenir le paiement des salaires arriérés.
 
 L'indemnité ci-dessus a le caractère de salaire.
+
+Le salarié dont le contrat de travail à caractère saisonnier s'achève peut
+demander à son employeur la conversion de ses droits à repos compensateur en
+indemnité afin de ne pas faire obstacle à un autre emploi ou au suivi d'une
+formation.

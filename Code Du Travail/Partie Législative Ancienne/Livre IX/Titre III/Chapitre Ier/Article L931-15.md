@@ -19,3 +19,7 @@ contrats conclus avec des jeunes au cours de leur cursus scolaire ou
 universitaire. Ces dispositions s'appliquent également à l'ancienneté acquise au
 titre des contrats de travail à durée déterminée qui se poursuivent par des
 contrats à durée indéterminée.
+
+Une convention ou un accord collectif étendu peut fixer des conditions
+d'ancienneté ouvrant droit au congé de formation inférieures à celles prévues
+aux a et b.

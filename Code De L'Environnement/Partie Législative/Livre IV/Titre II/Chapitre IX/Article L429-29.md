@@ -1,6 +1,5 @@
 Article L429-29
 ----
-La liste des chasseurs appelés à faire partie du syndicat est dressée par le
-préfet.
-
-La participation au syndicat est obligatoire.
+L'adhésion aux fonds départementaux d'indemnisation des dégâts de sanglier est
+obligatoire pour toute personne désignée aux 1°, 2° et 3° de l'article L.
+429-27.

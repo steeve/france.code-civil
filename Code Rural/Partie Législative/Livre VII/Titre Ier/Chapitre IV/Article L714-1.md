@@ -17,7 +17,10 @@ dimanche au moins une fois sur quatre ;
 roulement et par quinzaine ;
 
 3° Par roulement à condition que le jour de repos tombe le dimanche au moins
-deux fois par mois.
+deux fois par mois ;
+
+4° Par roulement pour les activités d'accueil touristique qui ont pour support
+l'exploitation.
 
 Le décret mentionné au VII détermine en particulier les cas dans lesquels
 l'employeur est admis de plein droit à donner le repos hebdomadaire suivant

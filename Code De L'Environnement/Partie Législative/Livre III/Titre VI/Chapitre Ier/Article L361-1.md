@@ -21,5 +21,20 @@ rétablissement de cette continuité par un itinéraire de substitution. Toute
 opération publique d'aménagement foncier doit également respecter ce maintien ou
 cette continuité.
 
+La circulation des piétons sur les voies et chemins inscrits au plan
+départemental des itinéraires de promenade et de randonnée, ou ceux identifiés
+pour les chemins privés, après conventions passées avec les propriétaires de ces
+chemins, par les communes et les fédérations de randonneurs agréées s'effectue
+librement, dans le respect des lois et règlements de police et des droits des
+riverains.
+
+Les maires, en vertu de leur pouvoir de police, peuvent, le cas échéant,
+réglementer les conditions d'utilisation de ces itinéraires.
+
+La responsabilité civile des propriétaires ruraux et forestiers ne saurait être
+engagée au titre des dommages causés ou subis à l'occasion de la circulation des
+piétons ou de la pratique d'activités de loisirs qu'en raison de leurs actes
+fautifs.
+
 Un décret en Conseil d'Etat fixe les conditions d'application du présent
 article.

@@ -82,8 +82,12 @@ d'origine contrôlée ou un groupe de produits d'appellation d'origine contrôl�
 et pour des produits qui bénéficient d'une même indication géographique
 protégée, d'un même label ou d'une même certification de conformité mentionnés
 aux chapitres II et III du titre IV du présent livre ou à l'article L. 13 du
-code forestier. Des sections consacrées aux produits issus de l'agriculture
-biologique ou aux produits portant la dénomination "montagne" peuvent également
+code forestier. La création de sections ou de commissions consacrées aux
+produits issus de l'agriculture biologique au sein des organisations
+interprofessionnelles de portée générale peut être rendue obligatoire dans des
+conditions fixées par décret. Les interprofessions concernées définissent les
+modalités de fonctionnement de ces sections ou commissions. Des sections ou des
+commissions consacrées aux produits portant la dénomination "montagne" peuvent
 être créées au sein des organisations interprofessionnelles de portée générale.
 Une organisation interprofessionnelle spécifique à compétence nationale peut,
 par ailleurs, être reconnue pour les produits issus de l'agriculture biologique

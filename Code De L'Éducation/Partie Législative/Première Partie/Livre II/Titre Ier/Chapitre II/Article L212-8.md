@@ -42,7 +42,10 @@ une commune est tenue de participer financièrement à la scolarisation d'enfant
 résidant sur son territoire lorsque leur inscription dans une autre commune est
 justifiée par des motifs tirés de contraintes liées :
 
-1° Aux obligations professionnelles des parents ;
+1° Aux obligations professionnelles des parents lorsqu'ils résident dans une
+commune qui n'assure pas directement ou indirectement la restauration et la
+garde des enfants ou si la commune n'a pas organisé un service d'assistantes
+maternelles agréées ;
 
 2° A l'inscription d'un frère ou d'une soeur dans un établissement scolaire de
 la même commune ;

@@ -18,10 +18,13 @@ l'article L. 720-6 d'une surface de vente totale supérieure à 300 mètres carr
 ou devant dépasser ce seuil par la réalisation du projet ;
 
 4° La création ou l'extension de toute installation de distribution au détail de
-carburants, quelle qu'en soit la surface de vente, annexée à un magasin de
-commerce de détail mentionné au 1° ci-dessus ou à un ensemble commercial
-mentionné au 3° ci-dessus et située hors du domaine public des autoroutes et
-routes express ;
+combustibles et de carburants, quelle qu'en soit la surface de vente, annexée à
+un magasin de commerce de détail mentionné au 1° ci-dessus ou à un ensemble
+commercial mentionné au 3° ci-dessus et située hors du domaine public des
+autoroutes et routes express.
+
+Les dispositions relatives aux installations de distribution de combustibles
+sont précisées par décret ;
 
 5° La réutilisation à usage de commerce de détail d'une surface de vente
 supérieure à 300 mètres carrés libérée à la suite d'une autorisation de création
@@ -50,6 +53,10 @@ supérieure à 2 000 mètres carrés est également soumis à l'autorisation
 d'exploitation commerciale prévue au présent article. Ce seuil est ramené à 300
 mètres carrés lorsque l'activité nouvelle du magasin est à prédominance
 alimentaire.
+
+Pour les pépiniéristes et horticulteurs, la surface de vente mentionnée au 1°
+est celle qu'ils consacrent à la vente au détail de produits ne provenant pas de
+leur exploitation, dans des conditions fixées par décret.
 
 II. - Les regroupements de surface de vente de magasins voisins, sans création
 de surfaces de vente supplémentaires, n'excédant pas 1 000 mètres carrés, ou 300

@@ -12,7 +12,7 @@ nidification.
 Toutefois, pour permettre, dans des conditions strictement contrôlées et de
 manière sélective, la capture, la détention ou toute autre exploitation
 judicieuse de certains oiseaux migrateurs terrestres et aquatiques en petites
-quantités, conformément aux dispositions de l'article L. 425-5, des dérogations
+quantités, conformément aux dispositions de l'article L. 425-14, des dérogations
 peuvent être accordées.
 
 Un décret en Conseil d'Etat fixe les modalités d'application de cette

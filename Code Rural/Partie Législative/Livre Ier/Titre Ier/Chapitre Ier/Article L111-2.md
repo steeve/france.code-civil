@@ -21,4 +21,9 @@ développement du milieu rural ;
 régions où elle est essentielle au maintien de l'activité économique ;
 
 7° Permettre le maintien et l'adaptation de services collectifs dans les zones à
-faible densité de peuplement.
+faible densité de peuplement ;
+
+8° Contribuer à la prévention des risques naturels ;
+
+9° Assurer la mise en valeur et la protection du patrimoine rural et des
+paysages.

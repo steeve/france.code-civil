@@ -2,8 +2,8 @@ Article L216-1
 ----
 I. - Indépendamment des poursuites pénales, en cas d'inobservation des
 dispositions prévues par les articles L. 211-2, L. 211-3, L. 211-5, L. 211-7, L.
-214-1 à L. 214-9, L. 214-11 et L. 214-12 ou les règlements et décisions
-individuelles pris pour leur application, le préfet met en demeure d'y
+211-12, L. 214-1 à L. 214-9, L. 214-11 et L. 214-12 ou les règlements et
+décisions individuelles pris pour leur application, le préfet met en demeure d'y
 satisfaire dans un délai déterminé.
 
 II. - Si, à l'expiration du délai fixé, il n'a pas été obtempéré à cette

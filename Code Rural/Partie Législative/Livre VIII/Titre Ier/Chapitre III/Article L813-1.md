@@ -25,7 +25,10 @@ Ils remplissent les missions suivantes :
 1° Ils assurent une formation générale, technologique et professionnelle
 initiale ou continue ;
 
-2° Ils participent à l'animation du milieu rural ;
+2° Ils participent à l'animation et au développement des territoires ;
+
+2° bis Ils contribuent à l'insertion scolaire, sociale et professionnelle des
+jeunes et à l'insertion sociale et professionnelle des adultes ;
 
 3° Ils contribuent aux activités de développement, d'expérimentation et de
 recherche appliquée ;

@@ -1,8 +1,7 @@
 Article L428-18
 ----
-En cas de condamnation pour l'une des infractions définies par l'article L.
-428-1, les II à V de l'article L. 428-3 et dans les cas prévus par les
-dispositions réglementaires prises en application du présent chapitre, lorsque
-l'infraction a été commise avec un véhicule à moteur, les tribunaux peuvent
-suspendre le permis de conduire de l'auteur de l'infraction qu'il soit ou non
-conducteur du véhicule, pour un temps qui ne peut excéder trois ans.
+Les personnes coupables des infractions définies aux articles L. 428-1, L.
+428-4, L. 428-5 et L. 428-5-1 encourent également la suspension pour une durée
+de trois ans au plus du permis de conduire, lorsque l'infraction a été commise
+en faisant usage d'un véhicule à moteur. Cette suspension peut être limitée à la
+conduite en dehors de l'activité professionnelle.

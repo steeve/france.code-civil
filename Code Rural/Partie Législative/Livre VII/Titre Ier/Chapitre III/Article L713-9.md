@@ -68,3 +68,8 @@ L'indemnité prévue ci-dessus a le caractère de salaire.
 
 Les dispositions de la section 1 du chapitre III du titre Ier du livre II du
 code du travail sont applicables aux salariés mentionnés à l'article L. 713-1.
+
+Le salarié dont le contrat de travail à caractère saisonnier s'achève peut
+demander à son employeur la conversion de ses droits à repos compensateur en
+indemnité afin de ne pas faire obstacle à un autre emploi ou au suivi d'une
+formation.

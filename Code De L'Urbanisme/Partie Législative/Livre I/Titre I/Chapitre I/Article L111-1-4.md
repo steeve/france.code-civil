@@ -21,14 +21,23 @@ routières ;
 Elle ne s'applique pas non plus à l'adaptation, au changement de destination, à
 la réfection ou à l'extension de constructions existantes.
 
-Les dispositions des alinéas précédents ne s'appliquent pas dès lors que les
-règles concernant ces zones, contenues dans le plan local d'urbanisme, ou dans
-un document d'urbanisme en tenant lieu, sont justifiées et motivées au regard
-notamment des nuisances, de la sécurité, de la qualité architecturale, ainsi que
-de la qualité de l'urbanisme et des paysages.
+Le plan local d'urbanisme, ou un document d'urbanisme en tenant lieu, peut fixer
+des règles d'implantation différentes de celles prévues par le présent article
+lorsqu'il comporte une étude justifiant, en fonction des spécificités locales,
+que ces règles sont compatibles avec la prise en compte des nuisances, de la
+sécurité, de la qualité architecturale, ainsi que de la qualité de l'urbanisme
+et des paysages.
 
-Il en est de même, dans les communes non dotées d'un plan local d'urbanisme,
-lorsqu'une étude attestant de la prise en compte des nuisances, de la sécurité,
-de la qualité architecturale, ainsi que de la qualité de l'urbanisme et des
-paysages, ayant reçu l'accord de la commission départementale des sites, est
-jointe à la demande d'autorisation du projet.
+Dans les communes dotées d'une carte communale, le conseil municipal peut, avec
+l'accord du préfet et après avis de la commission départementale des sites,
+fixer des règles d'implantation différentes de celles prévues par le présent
+article au vu d'une étude justifiant, en fonction des spécificités locales, que
+ces règles sont compatibles avec la prise en compte des nuisances, de la
+sécurité, de la qualité architecturale, ainsi que de la qualité de l'urbanisme
+et des paysages.
+
+Il peut être dérogé aux dispositions du présent article, avec l'accord du
+préfet, lorsque les contraintes géographiques ne permettent pas d'implanter les
+installations ou les constructions au-delà de la marge de recul prévue au
+premier alinéa, dès lors que l'intérêt que représente pour la commune
+l'installation ou la construction projetée motive la dérogation.

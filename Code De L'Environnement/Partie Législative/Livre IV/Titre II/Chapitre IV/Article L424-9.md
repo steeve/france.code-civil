@@ -1,5 +1,6 @@
 Article L424-9
 ----
-Il est interdit en toute saison de mettre en vente, de vendre, de transporter,
-de colporter ou même d'acheter sciemment le gibier tué à l'aide d'engins ou
-d'instruments prohibés.
+Le grand gibier tué accidentellement et en tout temps à la suite d'une collision
+avec un véhicule automobile peut être transporté sous réserve que le conducteur
+en ait préalablement prévenu les services de la gendarmerie nationale ou de la
+police nationale.

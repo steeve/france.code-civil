@@ -9,8 +9,8 @@ prévues aux chapitres Ier et II du titre IV du livre II du code de la sécurit�
 sociale, ou aux chapitres II et III du titre II du livre VII du code rural, pour
 les employeurs de salariés visés à l'article 1144 dudit code, des rémunérations
 versées aux titulaires d'un contrat à durée déterminée pendant l'année en cours
-; les contrats mentionnés au dernier alinéa de l'article L. 931-15 ne donnent
-pas lieu à ce versement.
+; les contrats mentionnés à l'avant-dernier alinéa de l'article L. 931-15 et à
+l'article L. 932-1-1 ne donnent pas lieu à ce versement.
 
 Ce versement, distinct de tous les autres auxquels les entreprises sont tenues
 pour la formation par un texte législatif ou contractuel, est effectué avant le

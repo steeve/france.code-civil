@@ -40,4 +40,14 @@ restructuration urbaine dans les conditions prévues à l'alinéa précédent
 peuvent, par délégation de l'Etablissement public national pour l'aménagement et
 la restructuration des espaces commerciaux, assurer la maîtrise d'ouvrage des
 opérations définies à l'article L. 325-1 et accomplir les actes de disposition
-et d'administration définis à l'article L. 325-2..
+et d'administration définis à l'article L. 325-2.
+
+A l'intérieur des périmètres délimités en application de l'article L. 143-1, les
+établissements publics mentionnés aux troisième et quatrième alinéas peuvent
+procéder, après information des communes et des établissements publics de
+coopération intercommunale concernés, aux acquisitions foncières nécessaires à
+la protection d'espaces agricoles et naturels périurbains, le cas échéant en
+exerçant, à la demande et au nom du département, le droit de préemption prévu
+par l'article L. 142-3 ou, en dehors des zones de préemption des espaces
+naturels sensibles, le droit de préemption prévu par le 9° de l'article L. 143-2
+du code rural.

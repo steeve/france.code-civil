@@ -1,9 +1,10 @@
 Article L213-10
 ----
 Pour faciliter, à l'échelle d'un bassin ou d'un sous-bassin hydrographique, la
-prévention des inondations et la gestion équilibrée de la ressource en eau, les
-collectivités territoriales intéressées et leurs groupements peuvent s'associer
-au sein d'un établissement public territorial de bassin.
+prévention des inondations et la gestion équilibrée de la ressource en eau ainsi
+que la préservation et la gestion des zones humides, les collectivités
+territoriales intéressées et leurs groupements peuvent s'associer au sein d'un
+établissement public territorial de bassin.
 
 Cet organisme public est constitué et fonctionne, selon les cas, conformément
 aux dispositions du code général des collectivités territoriales régissant les

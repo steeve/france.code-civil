@@ -8,7 +8,7 @@ pour les contraventions concernant :
 relatifs à l'exploitation de la chasse dans les forêts relévant du régime
 forestier et dans les propriétés des collectivités et établissement publics ;
 
-2° Le défaut de permis ou de licence de chasse valable ;
+2° Le défaut de permis ou d'autorisation de chasser valable ;
 
 3° Les dispositions réglementaires relatives à la destruction de toute espèce de
 gibier, de leurs nids ou oeufs, la chasse en temps de neige, les chiens, les

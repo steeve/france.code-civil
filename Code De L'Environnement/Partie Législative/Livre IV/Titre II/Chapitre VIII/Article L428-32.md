@@ -1,7 +1,11 @@
 Article L428-32
 ----
-Les auteurs d'infractions prévues au présent chapitre ne peuvent être
-appréhendés ; néanmoins, s'ils sont déguisés ou masqués, s'ils refusent de faire
-connaître leurs noms, ou s'ils n'ont pas de domicile connu, ils sont conduits
-immédiatement devant le maire ou le juge du tribunal d'instance, lequel s'assure
-de leur identité.
+Sont seuls habilités à appréhender les auteurs des infractions définies au
+présent chapitre :
+
+1° Les officiers et agents de police judiciaire dans les conditions prévues par
+le code de procédure pénale ;
+
+2° En cas de délit flagrant, les agents mentionnés aux 1° et 2° de l'article L.
+428-20, sous réserve de la conduite des personnes appréhendées devant l'officier
+de police judiciaire le plus proche.

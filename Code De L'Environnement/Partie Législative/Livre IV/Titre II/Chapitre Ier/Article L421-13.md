@@ -5,12 +5,12 @@ l'ensemble des fédérations départementales et interdépartementales d'une mê
 région administrative du territoire métropolitain dont l'adhésion est constatée
 par le paiement d'une cotisation obligatoire. Elles assurent la représentation
 des fédérations départementales et interdépartementales des chasseurs au niveau
-régional.
+régional. Elles conduisent et coordonnent des actions en faveur de la faune
+sauvage et de ses habitats.
 
-Elles sont consultées par le préfet de région ou, le cas échéant, par le
-président du conseil régional pour l'élaboration des orientations régionales de
-gestion de la faune sauvage et d'amélioration de la qualité des habitats visées
-à l'article L. 421-7.
+Elles sont associées par l'autorité compétente à l'élaboration des orientations
+régionales de gestion et de conservation de la faune sauvage et de ses habitats
+mentionnées à l'article L. 414-8.
 
 Les associations de chasse spécialisée sont associées aux travaux de la
 fédération régionale.

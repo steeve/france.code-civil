@@ -8,11 +8,14 @@ professionnelles, lorsqu'ils sont occupés dans les exploitations, entreprises o
 l'article L. 722-10 du présent code, y compris les personnes visées à l'article
 L. 171-3 du code de la sécurité sociale ;
 
-2° Les conjoints mentionnés au a du 4° de l'article L. 722-10 du présent code
-participant à la mise en valeur de l'exploitation ou de l'entreprise, qu'ils
-soient ou non couverts à titre personnel par un régime obligatoire d'assurance
-maladie maternité, à l'exception des conjoints des personnes visées au 3° dudit
-article ;
+2° Les conjoints mentionnés au a du 4° de l'article L. 722-10 participant à la
+mise en valeur de l'exploitation ou de l'entreprise, ainsi que ceux qui
+participent à l'activité non salariée non agricole lorsque le chef ou l'associé
+d'exploitation est rattaché au seul régime agricole des non-salariés agricoles
+en application de l'article L. 171-3 du code de la sécurité sociale, que les
+conjoints soient ou non couverts à titre personnel par un régime obligatoire
+d'assurance maladie, maternité, à l'exception des conjoints des personnes visées
+au 3° de l'article L. 722-10 ;
 
 3° Les enfants mentionnés au b du 4° de l'article L. 722-10 du présent code
 participant occasionnellement aux travaux de l'exploitation, sous réserve qu'ils

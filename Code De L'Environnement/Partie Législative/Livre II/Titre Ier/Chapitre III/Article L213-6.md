@@ -19,3 +19,12 @@ actions de coopération internationale dans les domaines de l'eau et de
 l'assainissement, dans la limite de 1 % de ses ressources, le cas échéant et
 suivant les règles statutaires en vigueur pour chaque catégorie de personnels,
 avec le concours de ses agents.
+
+Le programme pluriannuel de l'agence de l'eau prend en compte les aménagements
+réalisés par les exploitants agricoles dans les zones de montagne en matière de
+prévention de la pollution de l'eau dans les bassins situés à l'amont des zones
+de captages actuels ou futurs destinés à l'alimentation en eau potable, ainsi
+que ceux définis en zone de montagne dans le cadre de programmes d'actions
+concertés et nécessaires pour atteindre les objectifs de qualité définis par un
+schéma d'aménagement et de gestion des eaux ou par le schéma directeur
+d'aménagement et de gestion des eaux.

@@ -1,11 +1,12 @@
 Article L353-19-2
 ----
-Nonobstant toutes dispositions ou stipulations contraires, les sociétés
-d'économie mixte peuvent louer les logements conventionnés en application de
-l'article L. 351-2 à des centres communaux d'action sociale ou à des
-associations déclarées ayant pour objet de les sous-louer meublés pour une durée
-n'excédant pas six mois à des travailleurs dont l'emploi présente un caractère
-saisonnier tel que mentionné au 3° de l'article L. 122-1-1 du code du travail.
+Nonobstant toutes dispositions ou stipulations contraires, les bailleurs autres
+que les organismes d'habitations à loyer modéré mentionnés à l'article L. 353-14
+peuvent louer les logements conventionnés en application de l'article L. 351-2 à
+des centres communaux d'action sociale ou à des associations déclarées ayant
+pour objet de les sous-louer meublés pour une durée n'excédant pas six mois à
+des travailleurs dont l'emploi présente un caractère saisonnier tel que
+mentionné au 3° de l'article L. 122-1-1 du code du travail.
 
 Les sous-locataires sont assimilés aux locataires, dans la mesure et dans les
 conditions prévues par le présent article.
@@ -22,3 +23,6 @@ Les dispositions de la section 2 du chapitre Ier du livre IV, et de l'article L.
 441-1 du présent code sont applicables aux contrats de sous-location des
 logements loués dans les conditions mentionnées au premier alinéa du présent
 article, pendant la durée du contrat de location principal.
+
+Le loyer peut être majoré du prix de location des meubles. Ce prix est fixé et
+peut être révisé dans les conditions de l'article L. 442-8-3-1.

@@ -12,7 +12,12 @@ renouvelable une seule fois.
 
 Dans les départements d'outre-mer, quelle que soit la superficie des immeubles
 ruraux mis à disposition, la durée des conventions est de six ans au maximum,
-renouvelable une fois.
+renouvelable une fois. Il en va de même pour les immeubles ruraux situés dans
+les périmètres de protection et d'aménagement des espaces naturels et agricoles
+délimités en application de l'article L. 143-2 du code de l'urbanisme, ainsi que
+pour les conventions portant sur la mise à disposition, pour un usage de
+pâturage extensif saisonnier, d'immeubles ruraux situés dans les communes
+mentionnées à l'article L. 113-2.
 
 A cet effet, la société d'aménagement foncier et d'établissement rural consent
 des baux qui ne sont soumis aux règles résultant du statut du fermage que pour

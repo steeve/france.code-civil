@@ -6,7 +6,14 @@ sont compétents pour réaliser, pour leur compte, pour le compte de leurs membr
 ou de toute personne publique, toute acquisition foncière ou immobilière en vue
 de la constitution de réserves foncières en application des articles L. 221-1 et
 L. 221-2 ou de la réalisation d'actions ou d'opérations d'aménagement au sens de
-l'article L. 300-1.
+l'article L. 300-1. A l'intérieur des périmètres délimités en application de
+l'article L. 143-1, ils peuvent procéder, après information des communes et des
+établissements publics de coopération intercommunale concernés, aux acquisitions
+foncières nécessaires à la protection d'espaces agricoles et naturels
+périurbains, le cas échéant en exerçant, à la demande et au nom du département,
+le droit de préemption prévu par l'article L. 142-3 ou, en dehors des zones de
+préemption des espaces naturels sensibles, le droit de préemption prévu par le
+9° de l'article L. 143-2 du code rural.
 
 Ces établissements interviennent sur le territoire des communes ou des
 établissements publics de coopération intercommunale qui en sont membres et, à

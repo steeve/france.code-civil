@@ -15,9 +15,10 @@ c) De détruire des sites contenant des fossiles permettant d'étudier l'histoir
 du monde vivant ainsi que les premières activités humaines, de détruire ou
 d'enlever des fossiles présents sur ces sites ;
 
-2° Le fait d'introduire volontairement dans le milieu naturel un spécimen d'une
-espèce animale ou végétale en violation des dispositions de l'article L. 411-3
-ou des règlements pris pour son application ;
+2° Le fait d'introduire volontairement dans le milieu naturel, de transporter,
+colporter, utiliser, mettre en vente, vendre ou acheter un spécimen d'une espèce
+animale ou végétale en violation des dispositions de l'article L. 411-3 ou des
+règlements pris pour son application ;
 
 3° Le fait de produire, détenir, céder, utiliser, transporter, introduire,
 importer, exporter ou réexporter tout ou partie d'animaux ou de végétaux en
@@ -30,5 +31,5 @@ location ou de transit d'animaux d'espèces non domestiques, soit d'un
 faune, sans être titulaire du certificat de capacité prévu à l'article L. 413-2
 ;
 
-5° Le fait d'ouvrir un tel établissement sans l'autorisation prévue à l'article
-L. 413-3.
+5° Le fait d'ouvrir ou d'exploiter un tel établissement en violation des
+dispositions de l'article L. 413-3 ou des règlements pris pour son application.

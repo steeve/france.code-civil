@@ -7,7 +7,12 @@ ainsi que du mode d'élaboration, des modalités de vente et du mode de
 consommation du produit.
 
 Cette publicité peut comporter des références relatives aux terroirs de
-production et aux distinctions obtenues.
+production, aux distinctions obtenues, aux appellations d'origine telles que
+définies à l'article L. 115-1 du code de la consommation ou aux indications
+géographiques telles que définies dans les conventions et traités internationaux
+régulièrement ratifiés. Elle peut également comporter des références objectives
+relatives à la couleur et aux caractéristiques olfactives et gustatives du
+produit.
 
 Le conditionnement ne peut être reproduit que s'il est conforme aux dispositions
 précédentes.

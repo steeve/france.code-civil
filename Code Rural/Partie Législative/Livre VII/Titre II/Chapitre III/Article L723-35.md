@@ -16,9 +16,9 @@ la caisse portant sur :
 1° Les dépenses relatives à la prévention des accidents du travail et des
 maladies professionnelles ;
 
-2° Les dépenses relatives à la médecine du travail et la nomination ou le
-licenciement des médecins du travail lorsque la caisse a constitué une section
-de médecine du travail ;
+2° Les dépenses relatives aux services de santé au travail et la nomination ou
+le licenciement des médecins du travail lorsque la caisse a constitué une
+section de santé au travail ;
 
 3° La remise des pénalités et des majorations de retard des cotisations sociales
 des employeurs ;

@@ -19,5 +19,13 @@ l'évolution prévisible de l'espace rural, de l'environnement urbain et
 économique et de l'équilibre à assurer entre les différents usages de l'eau. Il
 évalue les moyens économiques et financiers nécessaires à sa mise en oeuvre.
 
+Il peut délimiter, en vue de leur préservation ou de leur restauration, des
+zones humides dites "zones stratégiques pour la gestion de l'eau", situées à
+l'intérieur des zones humides définies à l'article L. 211-1 et contribuant de
+manière significative à la protection de la ressource en eau potable ou à la
+réalisation des objectifs du schéma d'aménagement et de gestion des eaux en
+matière de bon état des eaux. Les modalités de délimitation de ces zones
+stratégiques sont définies par décret.
+
 Il doit être compatible avec les orientations fixées par le schéma directeur
 mentionné à l'article L. 212-1.

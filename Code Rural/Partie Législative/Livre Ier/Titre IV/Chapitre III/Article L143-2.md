@@ -25,4 +25,8 @@ application de l'article L. 512-6 du code forestier ;
 
 8° La réalisation des projets de mise en valeur des paysages et de protection de
 l'environnement approuvés par l'Etat ou les collectivités locales et leurs
-établissements publics.
+établissements publics ;
+
+9° Dans les conditions prévues par le chapitre III du titre IV du livre Ier du
+code de l'urbanisme, la protection et la mise en valeur des espaces agricoles et
+naturels périurbains.
