@@ -15,7 +15,12 @@ l'article 156-I du code général des impôts au titre des reports des déficits
 constatés au cours d'une année antérieure à celle qui est prise en
 considération.
 
-//DECR. 677 du 29 juin 1981 :
+Lorsque le ou les revenus imposables ne provenant pas d'une activité salariée ne
+sont pas connus au moment de la demande ou du réeaxemen des droits, il est tenu
+compte des derniers revenus nets imposables connus. Ces revenus sont revalorisés
+par application du taux d'évolution en moyenne annuelle de l'indice général des
+prix à la consommation des ménages pour l'année civile de référence figurant
+dans le rapport économique et financier annexé au projet de loi de finances.
 
 Ne sont prises en compte que pour la fraction dépassant le plafond individuel
 prévu à l'article L. 688 du code de la sécurité sociale les ressources de
@@ -28,4 +33,4 @@ Soit "grands infirmes" au sens de l'article 169 du code de la famille et de
 l'aide sociale et qui sont ascendants, descendants ou collatéraux aux deuxième
 et troisième degrés du bénéficiaire ou de son conjoint ;
 
-Soit enfants du bénéficiaire ou de son conjoint//.
+Soit enfants du bénéficiaire ou de son conjoint.
