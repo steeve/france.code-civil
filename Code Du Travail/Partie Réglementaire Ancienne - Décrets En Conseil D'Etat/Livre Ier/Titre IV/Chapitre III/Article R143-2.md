@@ -42,15 +42,16 @@ mentionnées aux 9° et 10° ;
 
 9° La nature et le montant des cotisations salariales retenues sur cette
 rémunération brute en application de dispositions législatives, réglementaires
-ou conventionnelles et le montant de la remise forfaitaire opérée sur la
-cotisation salariale d'assurance vieillesse ;
+ou conventionnelles ;
 
 10° La nature et le montant des cotisations patronales de sécurité sociale
 d'origine législative, réglementaire ou conventionnelle assises sur cette
-rémunération brute ; toutefois, les employeurs de main-d'oeuvre agricole
-auxquels le montant des cotisations est notifié trimestriellement auront la
-faculté de mentionner les cotisations patronales après leur paiement en
-précisant la période sur laquelle elles portent ;
+rémunération brute, ainsi que le montant de la réduction prévue à l'article L.
+241-13 du code de la sécurité sociale ; toutefois, les employeurs de
+main-d'oeuvre agricole auxquels le montant des cotisations est notifié
+trimestriellement auront la faculté de mentionner ces cotisations et cette
+réduction après le paiement des cotisations patronales, en précisant la période
+sur laquelle elles portent ;
 
 11° La nature et le montant des autres déductions éventuellement effectuées sur
 la rémunération ;
