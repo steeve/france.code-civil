@@ -1,6 +1,6 @@
 Article L757
 ----
-Aucun laboratoire d'analyse de biologie médicale ne peut fonctionner sans une
+Aucun laboratoire d'analyses de biologie médicale ne peut fonctionner sans une
 autorisation administrative [*condition*].
 
 Sans préjudice de l'application des dispositions de l'article 31 de la loi

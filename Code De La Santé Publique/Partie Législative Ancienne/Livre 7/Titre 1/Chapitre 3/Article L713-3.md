@@ -1,0 +1,15 @@
+Article L713-3
+----
+Le nombre des représentants de chacun des établissements est fonction de
+l'importance de ces derniers.
+
+Aucun des établissements membres d'une conférence sanitaire de secteur ne peut
+détenir la majorité absolue des sièges de la conférence.
+
+Les représentants des établissements publics de santé sont désignés par le
+conseil d'administration ; le directeur de l'établissement et le président de la
+commission médicale d'établissement sont membres de droit de la conférence.
+
+Les représentants des établissements de santé privés sont désignés par
+l'organisme gestionnaire ; cette représentation comprend, au moins, un praticien
+exerçant dans l'établissement.

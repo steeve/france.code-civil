@@ -1,6 +1,6 @@
 Article L750
 ----
-Les procès-verbaux dressés en vertu des articles L. 747 et 748 ci-dessus sont
+Les procès-verbaux dressés en vertu des articles L. 747 et L. 748 ci-dessus sont
 visés pour timbre.
 
 Les procès-verbaux dressés par des ingénieurs des travaux publics ou agents de

@@ -7,7 +7,7 @@ du périmètre de protection, de l'autorisation mentionnée à l'article L. 737 
 de la constatation mentionnée à l'article L. 738 ci-dessus ;
 
 L'organisation de la surveillance des sources et des établissements d'eaux
-minérales naturelles.
+minérales naturelles ;
 
 Les conditions générales d'ordre, de police et de salubrité auxquelles tous les
 établissements d'eaux minérales naturelles doivent satisfaire.
