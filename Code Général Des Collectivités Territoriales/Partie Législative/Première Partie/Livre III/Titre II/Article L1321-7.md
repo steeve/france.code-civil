@@ -1,6 +1,6 @@
 Article L1321-7
 ----
-- Les immeubles ou parties d'immeubles appartenant à l'Etat et affectés au
+Les immeubles ou parties d'immeubles appartenant à l'Etat et affectés au
 fonctionnement des services départementaux ou régionaux sont mis à la
 disposition du département ou de la région à titre gratuit. Le département ou la
 région prend à sa charge les travaux d'entretien et de grosses réparations

@@ -1,6 +1,6 @@
 Article L1321-1
 ----
-- Le transfert d'une compétence entraîne de plein droit la mise à la disposition
+Le transfert d'une compétence entraîne de plein droit la mise à la disposition
 de la collectivité bénéficiaire des biens meubles et immeubles utilisés, à la
 date de ce transfert, pour l'exercice de cette compétence.
 

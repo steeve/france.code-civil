@@ -1,6 +1,6 @@
 Article L1321-2
 ----
-- Lorsque la collectivité antérieurement compétente était propriétaire des biens
+Lorsque la collectivité antérieurement compétente était propriétaire des biens
 mis à disposition, la remise de ces biens a lieu à titre gratuit. La
 collectivité bénéficiaire de la mise à disposition assume l'ensemble des
 obligations du propriétaire. Elle possède tous pouvoirs de gestion. Elle assure
