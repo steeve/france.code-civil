@@ -2,12 +2,14 @@ Article 124 A
 ----
 La déclaration prévue à l'article 1565 du code général des impôts est souscrite,
 en un seul exemplaire, par les exploitants d'appareils automatiques, à la
-recette des impôts du lieu où les appareils sont mis en service.
+recette des douanes et droits indirects du lieu où les appareils sont mis en
+service.
 
 Les personnes qui exploitent plusieurs appareils dans une même commune peuvent
-être autorisées par l'administration à souscrire, à la recette des impôts qui
-leur est désignée, l'ensemble des déclarations afférentes aux appareils mis en
-service dans cette commune.
+être autorisées par l'administration à souscrire,
+
+à la recette des douanes et droits indirects qui leur est désignée, l'ensemble
+des déclarations afférentes aux appareils mis en service dans cette commune.
 
 La déclaration comporte les indications suivantes :
 
@@ -34,7 +36,7 @@ Chaque appareil automatique fait l'objet d'une déclaration distincte. Cette
 déclaration n'est valable que pour l'année à laquelle elle se rapporte : elle
 est renouvelable entre le 1er et le 5 janvier de chaque année.
 
-Le receveur des impôts délivre, pour chaque déclaration, un récépissé qui
-indique le montant de la taxe exigible et qui doit être représenté à toute
-réquisition des agents intervenant dans l'établissement où l'appareil est
-installé. La délivrance du duplicata est interdite.
+Le receveur des douanes et droits indirects délivre, pour chaque déclaration, un
+récépissé qui indique le montant de la taxe exigible et qui doit être représenté
+à toute réquisition des agents intervenant dans l'établissement où l'appareil
+est installé. La délivrance du duplicata est interdite.

@@ -20,3 +20,18 @@ accord d'entreprise ou résultant du contrat de travail de l'ensemble ou d'un
 nombre significatif de salariés de l'entreprise.
 
 2° (Sans objet).
+
+3° La convention d'assurances souscrite par une entreprise afin de garantir aux
+membres de son personnel salarié une indemnité de fin de carrière lors de leur
+départ à la retraite, à condition :
+
+a) Que l'entreprise ne puisse disposer, pour toute autre utilisation, de la
+valeur acquise du contrat ;
+
+b) Que la société ou compagnie d'assurances s'engage à verser à l'entreprise
+employeur les seules prestations dues aux salariés au titre de l'indemnité de
+fin de carrière. Lorsque l'entreprise a fait l'objet d'une procédure de
+redressement judiciaire, la société ou compagnie d'assurances peut, en cas de
+cession ou de liquidation judiciaire, être autorisée par le tribunal qui a
+ouvert la procédure à verser les prestations aux salariés de l'entreprise et à
+apurer ainsi leurs créances.

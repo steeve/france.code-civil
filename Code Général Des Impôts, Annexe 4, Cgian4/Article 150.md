@@ -37,7 +37,8 @@ Un carnet de tickets portant sur la couverture le numéro de la table et la date
 de la mise en service.
 
 Un carnet d'enregistrement des tickets et des cagnottes conforme au modèle
-prescrit par l'administration. Ce carnet est folioté par le service des impôts.
+prescrit par l'administration. Ce carnet est folioté par le service des douanes
+et droits indirects.
 
 Au début de la séance le caissier indique sur le carnet d'enregistrement des
 tickets et des cagnottes le jour la date et l'heure ainsi que le numéro du
@@ -63,9 +64,9 @@ chaque carnet d'enregistrement des cagnottes est reporté à un registre
 récapitulatif du produit brut des jeux.
 
 Le registre récapitulatif du produit brut des jeux coté et paraphé par le
-service des impôts est additionné en fin de journée de façon à faire apparaître
-d'une part la recette totale de la journée d'autre part le montant total du
-produit brut des jeux depuis le début de l'année.
+service des douanes et droits indirects est additionné en fin de journée de
+façon à faire apparaître d'une part la recette totale de la journée d'autre part
+le montant total du produit brut des jeux depuis le début de l'année.
 
 Le total des recettes réalisées depuis le début de l'année est reporté chaque
 jour en toutes lettres et certifié exact par le caissier.

@@ -15,7 +15,8 @@ Le préposé chargé des encaissements est muni d'un carnet relié conforme au
 modèle prescrit par l'administration et destiné à l'enregistrement des sommes
 perçues par séance et par table de jeux.
 
-Le carnet ci-dessus est folioté et paraphé par le service des impôts.
+Le carnet ci-dessus est folioté et paraphé par le service des douanes et droits
+indirects.
 
 Au début de chaque séance le préposé chargé de la tenue du carnet
 d'enregistrement de la cagnotte indique sur celui-ci le jour la date et l'heure
@@ -29,9 +30,9 @@ président du comité de direction des jeux ou son suppléant, conformément aux
 prescriptions de l'administration (1).
 
 En outre dans les cercles désignés au présent article et dans les maisons de
-jeux des abonnements peuvent être consentis selon les conditions prévues par les
-articles 1700 du code général des impôts pour la généralité des établissements
-de spectacles.
+jeux, des abonnements peuvent être consentis selon les conditions prévues par
+les articles 1700 du code général des impôts pour la généralité des
+établissements de spectacles.
 
 (1) Ces dispositions s'appliquent pour les recettes perçues à compter du 1er
 février 1991.

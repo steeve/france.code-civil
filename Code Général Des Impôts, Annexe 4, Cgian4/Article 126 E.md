@@ -9,5 +9,5 @@ sont exploités chaque récépissé de déclaration est fixé à demeure à un e
 accessible et protégé sur l'appareil auquel il se rapporte.
 
 Les propriétaires d'appareils automatiques déposés chez des tiers tiennent un
-répertoire dont la forme est déterminée par le service des impôts et qui est
-communiqué à la première demande des agents du contrôle.
+répertoire dont la forme est déterminée par le service des douanes et droits
+indirects et qui est communiqué à la première demande des agents du contrôle.

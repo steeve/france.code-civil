@@ -1,14 +1,13 @@
 Article 145
 ----
-Les établissements visés à l'article 1563, deuxième alinéa du code général des
-impôts sont tenus de se conformer aux prescriptions des articles 127, 128 et 129
-lorsqu'un prix spécial est établi pour l'entrée. Ils doivent en outre dans tous
-les cas qu'il y ait prix d'entrée ou non tenir un livre spécial [*obligation*]
-aux pages numérotées sur lequel ils inscrivent jour par jour sans blanc ni
-rature [*mentions*] :
+Les établissements visés au deuxième alinéa de l'article 1563 du code général
+des impôts sont tenus de se conformer aux prescriptions des articles 127, 128 et
+129 lorsqu'un prix spécial est établi pour l'entrée. Ils doivent en outre dans
+tous les cas qu'il y ait prix d'entrée ou non tenir un livre spécial, aux pages
+numérotées sur lequel ils inscrivent jour par jour sans blanc ni rature :
 
 a. Chacune des ventes de denrées marchandises fournitures ou objets qu'ils ont
-effectuées;
+effectuées ;
 
 b. Chacun des prix encaissés de location vestiaire programme etc. La tenue du
 livre spécial peut ne pas être prescrite lorsque la comptabilité habituelle de
@@ -25,16 +24,16 @@ ou par mois.
 Les directeurs, entrepreneurs, propriétaires des établissements visés au premier
 alinéa sont tenus en outre de remettre dans les trois premiers jours de chaque
 décade ou de chaque mois, selon les indications qu'ils reçoivent à ce sujet, au
-service des impôts qui leur est désigné un relevé indiquant le montant total du
-chiffre des recettes effectuées pendant la décade ou le mois précédent et
-d'acquitter, dans les trois jours suivants, le montant de l'impôt exigible
-d'après ce relevé (1).
+service des douanes et droits indirects qui leur est désigné un relevé indiquant
+le montant total du chiffre des recettes effectuées pendant la décade ou le mois
+précédent et d'acquitter, dans les trois jours suivants, le montant de l'impôt
+exigible d'après ce relevé (1).
 
 Le livre prescrit par le présent article ainsi que la comptabilité et les pièces
 justificatives des opérations effectuées par les établissements soumis à l'impôt
 doivent être conservés par l'établissement selon les modalités prévues au I de
-l'article L. 102 B du livre des procédures fiscales [*obligation de
-conservation*] pour être représentés à tout vérificateur.
+l'article L. 102 B du livre des procédures fiscales pour être représentés à tout
+vérificateur.
 
 Lorsqu'un établissement par la nature de ses opérations n'est assujetti à
 l'impôt sur les spectacles qu'à certaines heures de la journée ou pour des

@@ -22,6 +22,11 @@ Toutefois, l'expiration du délai de trois mois n'est pas opposable à
 l'administration pour l'instruction des observations ou des requêtes présentées
 par le contribuable, après l'achèvement des opérations de vérification.
 
+Elle ne l'est pas non plus pour l'examen, en vertu de l'article L. 12, des
+comptes financiers utilisés à titre privé et professionnel, ni pour la
+vérification, en vertu de l'article L. 13, des comptes utilisés pour l'exercice
+d'activités distinctes.
+
 Les dispositions du premier alinéa sont valables dans les cas où un même
 vérificateur contrôle à la fois l'assiette de plusieurs catégories différentes
 d'impôts ou de taxes.

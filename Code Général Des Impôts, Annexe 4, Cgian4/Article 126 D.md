@@ -6,6 +6,6 @@ en service. Quelle que soit la durée de l'exploitation elle est perçue au tari
 plein pour les appareils mis en service au cours du premier semestre de l'année
 et au demi-tarif pour les appareils mis en service au cours du second semestre.
 
-La taxe peut avec l'accord du service des impôts être reportée d'un appareil
-retiré de l'exploitation sur un nouvel appareil mis en service en remplacement
-de celui-ci.
+La taxe peut avec l'accord du service des douanes et droits indirects être
+reportée d'un appareil retiré de l'exploitation sur un nouvel appareil mis en
+service en remplacement de celui-ci.

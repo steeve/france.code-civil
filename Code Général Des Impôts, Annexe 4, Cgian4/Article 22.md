@@ -7,8 +7,8 @@ société qui souhaite exercer cette option.
 La notification [*mentions obligatoires*] indique la désignation de la société
 et l'adresse du siège social les nom prénoms et adresse de chacun des associés
 ou participants ainsi que la répartition du capital social entre ces derniers.
-Elle est signée par tous les associés ou participants. Il en est délivré
-récépissé.
+Elle est signée dans les conditions prévues par les statuts ou, à défaut, par
+tous les associés ou participants. Il en est délivré récépissé.
 
 L'option ainsi exercée est irrévocable.
 
@@ -23,7 +23,7 @@ elle s'applique.
 Pour les exercices ou périodes d'imposition ouverts en 1981, la renonciation
 peut être effectuée jusqu'à la date d'expiration du délai de déclaration des
 résultats de ces exercices ou périodes d'imposition et, si ce délai expire après
-le 31 décembre 1981 [*date limite*] , au plus tard jusqu'à cette date.
+le 31 décembre 1981, au plus tard jusqu'à cette date.
 
 La renonciation à l'option est effectuée selon les modalités prévues au deuxième
 alinéa du présent article. Elle précise les liens de parenté entre les associés.

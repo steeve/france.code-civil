@@ -2,7 +2,7 @@ Article 362
 ----
 Peuvent être importés en France continentale et en Corse, en exemption de la
 soulte et jusqu'à concurrence d'une quantité annuelle fixée à 204.050
-hectolitres d'alcool pur jusqu'au 31 décembre 1992, les rhums et tafias
+hectolitres d'alcool pur jusqu'au 31 décembre 1994, les rhums et tafias
 originaires des départements et territoires français d'outre-mer et des pays de
 la zone franc ayant passé avec la France des accords à cet effet, qui présentent
 les caractères spécifiques définis par les décrets rendus en exécution de la loi

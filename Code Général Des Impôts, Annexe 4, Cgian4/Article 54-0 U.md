@@ -11,5 +11,5 @@ conditionnement des vins visés à l'alinéa précédent..
 
 Lorsque l'utilisation de capsules n'est pas obligatoire en vertu des
 dispositions du premier alinéa les marchands en gros de boissons peuvent être
-admis par le directeur des services fiscaux à utiliser les capsules fiscales
-pour leurs livraisons de vins et cidres.
+admis par le directeur régional des douanes et droits indirects à utiliser les
+capsules fiscales pour leurs livraisons de vins et cidres.

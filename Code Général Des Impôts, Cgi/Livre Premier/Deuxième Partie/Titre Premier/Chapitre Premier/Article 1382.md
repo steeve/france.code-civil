@@ -70,14 +70,16 @@ membres de ces associations.
 6° a. Les bâtiments qui servent aux exploitations rurales tels que granges,
 écuries, greniers, caves, celliers, pressoirs et autres, destinés, soit à loger
 les bestiaux des fermes et métairies ainsi que le gardien de ces bestiaux, soit
-à serrer les récoltes ;
+à serrer les récoltes ; L'exonération est toutefois maintenue lorsque ces
+bâtiments ne servent plus à une exploitation rurale et ne sont pas affectés à un
+autre usage
 
-b. Dans les mêmes conditions, les bâtiments affectés à un usage agricole par les
-sociétés coopératives agricoles, par les collectivités visées à l'article
-617-2°, 3° et 4° du code rural ainsi que les unions de sociétés coopératives
-agricoles ou unions de coopératives agricoles et de coopératives de consommation
-constituées et fonctionnant conformément aux dispositions légales qui les
-régissent.
+b. Dans les mêmes conditions qu'au premier alinéa du a, les bâtiments affectés à
+un usage agricole par les sociétés coopératives agricoles, par les collectivités
+visées à l'article 617-2°, 3° et 4° du code rural ainsi que les unions de
+sociétés coopératives agricoles ou unions de coopératives agricoles et de
+coopératives de consommation constituées et fonctionnant conformément aux
+dispositions légales qui les régissent.
 
 Les coopératives de blé peuvent, sans perdre le bénéfice de l'exonération, louer
 tout ou partie de leurs magasins à l'office national interprofessionnel des

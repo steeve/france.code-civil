@@ -117,7 +117,7 @@ inférieures à 90 p. 100 du montant des ressources définies aux 1°, 2° et 3�
 II de l'article 1648 A bis et sont réparties suivant les dispositions du II
 ci-dessous.
 
-II. Le surplus des ressources du fonds défini au 2° du I comporte : ".
+II. Le surplus des ressources du fonds défini au 2° du I comporte :
 
 1° Une part principale qui ne peut être inférieure à 70 p. 100 de ce surplus,
 répartie entre les communes :
@@ -167,6 +167,15 @@ non renouvelable, une dotation égale à la moitié de celle reçue en 1985.
 Lorsqu'une commune ne dispose d'aucune ressource au titre des quatre taxes
 directes locales, l'attribution par habitant revenant à la commune est égale au
 double de l'attribution moyenne nationale par habitant.
+
+Il n'est opéré aucun versement aux communes de 200 000 habitants et plus qui ne
+sont pas bénéficiaires de la dotation de solidarité urbaine définie à l'article
+L. 234-14-1 du code des communes ou de la dotation particulière de solidarité
+urbaine définie à l'article L. 234-16-1 du code des communes, dont le potentiel
+fiscal par habitant est supérieur aux deux tiers du potentiel fiscal moyen par
+habitant de leur groupe démographique. Les sommes ainsi dégagées sont reversées
+aux communes d'au moins 100 000 habitants restant éligibles (Dispositions
+applicables à compter du 1er janvier 1994).
 
 2° Une seconde part, au plus égale à 20 p. 100 de ce surplus, qui sert à verser
 une compensation aux communes qui enregistrent d'une année sur l'autre une perte

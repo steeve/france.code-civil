@@ -5,13 +5,11 @@ carnets journaliers comprenant par catégorie de places un nombre de billets ég
 à celui des places susceptibles d'être occupées.
 
 Les établissements qui emploient ce système de billets doivent préalablement
-fournir au service des impôts un relevé certifié présentant l'indication exacte
-du nombre des places disponibles.
-
-Chaque billet destiné au spectateur doit indiquer [*mentions*] la catégorie et
-le numéro de la place à laquelle il donne droit, la date d'emploi et le prix
-global payé par le spectateur. Ces indications sont reproduites à la souche et
-au coupon de contrôle.
+fournir au service des douanes et droits indirects un relevé certifié présentant
+l'indication exacte du nombre des places disponibles. Chaque billet destiné au
+spectateur doit indiquer la catégorie et le numéro de la place à laquelle il
+donne droit, la date d'emploi et le prix global payé par le spectateur. Ces
+indications sont reproduites à la souche et au coupon de contrôle.
 
 La même série journalière ne peut être simultanément utilisée pour la location
 et pour le bureau lorsque les prix de location et de bureau sont différents.

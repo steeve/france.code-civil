@@ -10,3 +10,10 @@ le président en dresse procès-verbal, qu'il transmet au procureur de la
 République ; il peut, si la peine encourue est supérieure à six mois
 d'emprisonnement, ordonner l'arrestation de l'auteur, et sa conduite immédiate
 devant le procureur de la République.
+
+Par dérogation aux dispositions qui précèdent, lorsqu'il a été commis pendant la
+durée d'une audience d'un tribunal ou d'une cour l'un des délits visés par les
+articles 222 et 223 du code pénal, le président en dresse procès-verbal qu'il
+transmet au procureur de la République. Les magistrats ayant participé à
+l'audience lors de la commission du délit ne peuvent composer la juridiction
+saisie des poursuites.

@@ -6,12 +6,12 @@ de l'article L 251-5 du code de la construction et de l'habitation, le bailleur
 peut demander que le revenu représenté par la valeur de ces biens calculée
 d'après le prix de revient soit réparti sur l'année ou l'exercice au cours
 duquel lesdits biens lui ont été attribués et les quatorze années ou exercices
-suivants [*échelonnement, étalement*].
+suivants.
 
 En cas de cession des biens, la partie du revenu visé à l'alinéa précédent qui
 n'aurait pas encore été taxée est rattachée aux revenus de l'année ou de
 l'exercice de la cession. Le cédant peut, toutefois, demander le bénéfice des
-dispositions de l'article 163.
+dispositions de l'article 163-0 A.
 
 Il en est de même en cas de décès du contribuable. Toutefois, chacun de ses
 ayants droit peut demander que la partie du revenu non encore taxée

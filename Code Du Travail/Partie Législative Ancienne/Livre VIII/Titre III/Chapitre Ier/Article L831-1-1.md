@@ -1,6 +1,7 @@
 Article L831-1-1
 ----
-Dans la collectivité territoriale de Saint-Pierre-et-Miquelon, il est interdit à
-toute personne d'engager ou de conserver à son service un étranger non muni
-d'une autorisation de travailler dans cette collectivité territoriale. Les
-conditions de délivrance de l'autorisation sont fixées par voie réglementaire.
+Nul ne peut, directement ou par personne interposée, engager, conserver à son
+service ou employer pour quelque durée que ce soit un étranger non muni du titre
+l'autorisant à exercer une activité salariée dans la collectivité territoriale
+de Saint-Pierre-et-Miquelon. Les conditions de délivrance de cette autorisation
+de travail sont fixées par voie réglementaire.

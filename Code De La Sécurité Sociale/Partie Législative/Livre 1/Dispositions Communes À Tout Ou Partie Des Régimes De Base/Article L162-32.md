@@ -18,3 +18,13 @@ par décret, une subvention égale à une partie des cotisations dues par les
 centres de santé en application de l'article L. 241-1 pour les personnels qu'ils
 emploient et qui relèvent des catégories de praticiens ou d'auxiliaires médicaux
 mentionnés au premier alinéa.
+
+Les dispositions de la convention nationale des médecins prises pour
+l'application du 6° de l'article L. 162-5 et de l'article L. 162-6-1 sont
+adaptées par décret aux actes médicaux dispensés par les centres de santé
+agréés.
+
+Les dispositions de la convention nationale des infirmiers prises pour
+l'application du 5° de l'article L. 162-12-2 et de l'article L. 162-12-4 sont
+adaptées par un décret aux soins infirmiers dispensés par les centres de santé
+agréés.

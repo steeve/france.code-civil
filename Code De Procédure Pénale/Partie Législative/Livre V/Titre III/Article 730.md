@@ -6,13 +6,13 @@ ministre de la justice.
 
 Lorsque le condamné doit subir une ou plusieurs peines privatives de liberté
 entraînant une détention dont la durée totale, à compter du jour de
-l'incarcération, n'excède pas trois années, la libération conditionnelle est
+l'incarcération, n'excède pas cinq années, la libération conditionnelle est
 accordée par le juge de l'application des peines après avis de la commission de
 l'application des peines.
 
 Lorsque le condamné doit subir une ou plusieurs peines privatives de liberté
 entraînant une détention dont la durée totale, à compter du jour de
-l'incarcération, excède trois années, la libération conditionnelle est accordée
+l'incarcération, excède cinq années, la libération conditionnelle est accordée
 par le ministre de la justice. La proposition de libération conditionnelle est
 établie par le juge de l'application des peines, après avis de la commission de
 l'application des peines. Elle peut être soumise par le ministre de la justice à

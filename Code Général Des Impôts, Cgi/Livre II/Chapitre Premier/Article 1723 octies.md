@@ -7,16 +7,18 @@ code, est dû par le bénéficiaire de l'autorisation de construire. Ce versemen
 peut être mis à la charge du lotisseur ou de l'association foncière urbaine de
 remembrement (1). En cas de désaccord sur la valeur du terrain, il est
 provisoirement arrêté, puis mis en recouvrement sur la base de l'estimation
-administrative.
+administrative. Lorsqu'il n'excède pas 80 F le versement n'est pas mis en
+recouvrement .
 
 Il doit être payé au comptable du Trésor de la situation des biens en deux
-fractions égales.
+fractions égales ou en un versement unique lorsque le montant dû n'excède pas
+2.000 F.
 
-Le paiement de la première fraction est exigible à l'expiration d'un délai de
-dix-huit mois à compter de la date de délivrance du permis de construire ou de
-la date à laquelle l'autorisation de construire est réputée avoir été tacitement
-accordée et celui de la seconde fraction à l'expiration d'un délai de trente-six
-mois à compter de cette même date.
+Le paiement de la première fraction ou le versement unique est exigible à
+l'expiration d'un délai de dix-huit mois à compter de la date de délivrance du
+permis de construire ou de la date à laquelle l'autorisation de construire est
+réputée avoir été tacitement accordée et celui de la seconde fraction à
+l'expiration d'un délai de trente-six mois à compter de cette même date.
 
 Après décision définitive de la juridiction de l'expropriation, il est procédé,
 selon le cas, à la mise en recouvrement d'une somme complémentaire ou à la

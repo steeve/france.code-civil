@@ -1,14 +1,11 @@
 Article 239
 ----
-1. Les sociétés en nom collectif [*SNC*], les sociétés en commandite simple, les
-sociétés en participation, les sociétés à responsabilité limitée dont l'associé
-unique est une personne physique [*EURL*] et les exploitations agricoles
-mentionnées au 5° de l'article 8 [*EARL*] peuvent opter, dans des conditions qui
-sont fixées par arrêté ministériel, pour le régime applicable aux sociétés de
-capitaux (Voir Annexe IV art. 22 et 23). Dans ce cas, l'impôt sur le revenu dû
-par les associés en nom, commandités et coparticipant, l'associé unique de
-société à responsabilité limitée et les associés d'exploitation agricoles est
-établi suivant les règles prévues aux articles 62 et 162.
+1. Les sociétés mentionnées au 3 de l'article 206 peuvent opter, dans des
+conditions qui sont fixées par arrêté ministériel, pour le régime applicable aux
+sociétés de capitaux (1). Dans ce cas, l'impôt sur le revenu dû par les associés
+en nom, commandités et coparticipant, l'associé unique de société à
+responsabilité limitée et les associés d'exploitation agricoles est établi
+suivant les règles prévues aux articles 62 et 162.
 
 L'option doit être notifiée au plus tard avant la fin du troisième mois de
 l'exercice au titre duquel l'entreprise souhaite être soumise pour la première
@@ -19,16 +16,22 @@ mars 1991, même si elle s'effectue au-delà du troisième mois de l'exercice.
 
 Les dispositions du présent paragraphe ne sont pas applicables :
 
-- aux sociétés immobilières de copropriété visées à l'article 1655 ter,
+aux sociétés immobilières de copropriété visées à l'article 1655 ter,
 
-- aux sociétés de personnes issues de la transformation antérieure de sociétés
-de capitaux.
+aux sociétés de personnes issues de la transformation antérieure de sociétés de
+capitaux.
+
+aux sociétés civiles mentionnées aux articles 238 ter, 239 ter, 239 quater A et
+239 septies (1).
 
 2. (Disposition périmée).
 
-3. Les sociétés de personnes qui ont opté avant le 1er janvier 198 pour
+3. Les sociétés de personnes qui ont opté avant le 1er janvier 1981 pour
 l'imposition selon le régime fiscal des sociétés de capitaux mentionné au 1 et
 exerçant une activité industrielle, commerciale ou artisanale peuvent renoncer à
 leur option si elles sont formées entre personnes parentes en ligne directe ou
 entre frères et soeurs, ainsi que les conjoints. La renonciation ne peut être
 effectuée qu'avec l'accord de tous les associés.
+
+(1) Ces dispositions s'appliquent aux options exercées à compter du 18 novembre
+1992.

@@ -3,7 +3,7 @@ Article 216
 Les sucres et glucoses destinés à des fabricants d'apéritifs à base de vin ou de
 produits similaires doivent parvenir en vertu d'acquits-à-caution. Ils sont
 suivis à un compte tenu par le fabricant lui-même, sans blancs ni ratures, sur
-un registre coté et paraphé par le service des Impôts.
+un registre coté et paraphé par le service des douanes et droits indirects.
 
 A ce compte sont inscrits, au fur et à mesure des opérations :
 

@@ -12,9 +12,9 @@ L. 162-14 ;
 
 3°) aux chirurgiens-dentistes, sages-femmes et auxiliaires médicaux qui exercent
 leur activité professionnelle, non-salariée, dans le cadre de la convention
-conclue en application de l'article L. 162-9 ou, en l'absence d'une telle
-convention, dans le cadre du régime de l'adhésion personnelle prévue au dernier
-alinéa de l'article L. 162-11.
+conclue en application des articles L. 162-9 et L. 162-12-2 ou, en l'absence
+d'une telle convention, dans le cadre du régime de l'adhésion personnelle prévue
+au dernier alinéa de l'article L. 162-11.
 
 Le bénéfice du présent régime n'est accordé aux médecins, chirurgiens-dentistes,
 sages-femmes et auxiliaires médicaux qu'à la double condition :
