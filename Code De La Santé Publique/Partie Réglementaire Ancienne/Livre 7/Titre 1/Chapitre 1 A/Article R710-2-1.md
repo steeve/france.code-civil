@@ -25,7 +25,11 @@ f) Le ou les comptes rendus opératoires ou d'accouchement ;
 
 g) Les prescriptions d'ordre thérapeutique ;
 
-h) Lorsqu'il existe, le dossier de soins infirmiers.
+h) Lorsqu'il existe, le dossier de soins infirmiers ;
+
+i) La mention des actes transfusionnels pratiqués sur le patient et, le cas
+échéant, copie de la fiche d'incident transfusionnel mentionnée au deuxième
+alinéa de l'article R. 666-12-24.
 
 II. - Les documents établis à la fin de chaque séjour hospitalier, à savoir :
 
