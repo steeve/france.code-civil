@@ -36,7 +36,9 @@ Vingt-deux années pour l'assuré né en 1945 ;
 
 Vingt-trois années pour l'assuré né en 1946 ;
 
-Vingt-quatre années pour l'assuré né en 1947.
+Vingt-quatre années pour l'assuré né en 1947 ;
+
+Vingt-cinq années pour l'assuré né après 1947.
 
 III. - Par dérogation aux dispositions du I ci-dessus, le nombre d'années
 mentionné aux premier et troisième alinéas de l'article R. 351-29 demeure fixé à

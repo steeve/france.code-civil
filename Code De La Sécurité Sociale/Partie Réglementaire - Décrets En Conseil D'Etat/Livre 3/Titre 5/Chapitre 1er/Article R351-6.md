@@ -1,8 +1,25 @@
 Article R351-6
 ----
-La durée maximum d'assurance dans le régime général prise en compte pour le
-calcul de la pension de vieillesse est de 150 trimestres.
+I. - La durée maximum d'assurance dans le régime général prise en compte pour le
+calcul de la pension de vieillesse est celle prévue au troisième alinéa de
+l'article L. 351-1.
 
-Si l'assuré a accompli moins de 150 trimestres dans ce régime, la pension est
-égale à autant de 150e de la pension calculée conformément au deuxième alinéa de
-l'article L. 351-1, qu'il justifie de trimestres d'assurance.
+Si l'assuré a accompli une durée d'assurance inférieure à cette durée maximum,
+la pension est réduite au prorata.
+
+Les dispositions ci-dessus s'appliquent aux pensions prenant effet après le 31
+décembre 2007 et aux assurés nés après 1947 quelle que soit la date d'effet de
+leur pension.
+
+II. - Pour les pensions prenant effet après le 31 décembre 2003 et avant le 1er
+janvier 2008, la durée maximum d'assurance est fixée à :
+
+150 trimestres pour les assurés nés avant 1944 ;
+
+152 trimestres pour les assurés nés en 1944 ;
+
+154 trimestres pour les assurés nés en 1945 ;
+
+156 trimestres pour les assurés nés en 1946 ;
+
+158 trimestres pour les assurés nés en 1947.
