@@ -8,11 +8,16 @@ chantiers, le chef de l'entreprise utilisatrice et le ou les chefs des
 entreprises extérieures sont tenus de se conformer aux dispositions du présent
 chapitre.
 
-Ces dispositions ne s'appliquent pas aux chantiers de bâtiments clos et
-indépendants situés à l'intérieur du périmètre d'un établissement en activité.
-Lorsque ces chantiers relèvent de l'article L. 235-3, le chef d'établissement
-reçoit copie des plans d'hygiène et de sécurité et participe, sur sa demande,
-aux travaux du collège interentreprises, s'il en existe un.
+Ces dispositions ne s'appliquent pas aux chantiers de bâtiment ou de génie civil
+lorsqu'ils entrent dans les prévisions de l'article L. 235-3, ni aux autres
+chantiers clos et indépendants. Toutefois, le chef de l'établissement visé à
+l'alinéa précédent est tenu de coopérer en matière de sécurité et de protection
+de la santé avec le coordonnateur désigné en application de l'article L. 235-4,
+dans les conditions fixées au 4° de l'article R. 238-18. Lorsque ces chantiers
+relèvent de l'article L. 235-6, le chef d'établissement reçoit copie du plan
+général de coordination en matière de sécurité et de protection de la santé et
+participe, sur sa demande, aux travaux du collège interentreprises de sécurité,
+de santé et des conditions de travail, s'il en existe un.
 
 Les dispositions du présent chapitre ne s'appliquent pas aux travaux relatifs à
 la construction et à la réparation navales.
