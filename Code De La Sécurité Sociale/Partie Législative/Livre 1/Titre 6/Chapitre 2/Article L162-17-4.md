@@ -4,19 +4,24 @@ En application des orientations qu'il reçoit annuellement des ministres
 compétents, le Comité économique des produits de santé peut conclure avec des
 entreprises ou groupes d'entreprises des conventions d'une durée maximum de
 quatre années relatives à un ou à des médicaments visés au premier alinéa de
-l'article L. 162-17. Ces conventions, dont le cadre peut être précisé par un
-accord conclu avec un ou plusieurs syndicats représentatifs des entreprises
-concernées, déterminent les relations entre le comité et chaque entreprise, et
-notamment :
+l'article L. 162-17. Les entreprises signataires doivent s'engager à respecter
+la charte mentionnée à l'article L. 162-17-8 et, selon une procédure établie par
+la Haute autorité de santé, à faire évaluer et certifier par des organismes
+accrédités la qualité et la conformité à cette charte de la visite médicale
+qu'elles organisent ou qu'elles commanditent. Ces conventions, dont le cadre
+peut être précisé par un accord conclu avec un ou plusieurs syndicats
+représentatifs des entreprises concernées, déterminent les relations entre le
+comité et chaque entreprise, et notamment :
 
 1° Le prix de ces médicaments et, le cas échéant, l'évolution de ces prix,
 notamment en fonction des volumes de vente ;
 
 2° Le cas échéant, les remises prévues en application de l'article L. 162-18 ;
 
-3° Les engagements de l'entreprise visant à la maîtrise de sa politique de
-promotion permettant d'assurer le bon usage du médicament ainsi que le respect
-des volumes de vente précités ;
+3° Dans le respect de la charte mentionnée à l'article L. 162-17-8, les
+engagements de l'entreprise visant à la maîtrise de sa politique de promotion
+permettant d'assurer le bon usage du médicament ainsi que le respect des volumes
+de vente précités ;
 
 4° Les modalités de participation de l'entreprise à la mise en oeuvre des
 orientations ministérielles précitées ;
@@ -32,17 +37,15 @@ données scientifiques et épidémiologiques prises en compte pour la conclusion
 des conventions, le comité demande à l'entreprise concernée de conclure un
 avenant permettant d'adapter la convention à cette situation. En cas de refus de
 l'entreprise, le comité peut résilier la convention ou certaines de ses
-dispositions. Dans ce cas, le comité peut proposer aux ministres chargés de la
-sécurité sociale, de la santé et de l'économie de fixer le prix de ces
-médicaments par arrêté, en application de l'article L. 162-16-1.
+dispositions. Dans ce cas, le comité peut fixer le prix de ces médicaments par
+décision prise en application de l'article L. 162-16-4.
 
 Lorsqu'une mesure d'interdiction de publicité a été prononcée par l'Agence
 française de sécurité sanitaire des produits de santé dans les conditions
-prévues à l'article L. 5122-9 du code de la santé publique, les ministres
-chargés de la santé et de la sécurité sociale peuvent prononcer, après avis du
-Comité économique des produits de santé et après que l'entreprise a été mise en
-mesure de présenter ses observations, une pénalité financière à l'encontre de
-ladite entreprise.
+prévues à l'article L. 5122-9 du code de la santé publique, le Comité économique
+des produits de santé prononce, après que l'entreprise a été mise en mesure de
+présenter ses observations, une pénalité financière à l'encontre de ladite
+entreprise.
 
 Cette pénalité ne peut être supérieure à 10 % du chiffre d'affaires hors taxes
 réalisé en France par l'entreprise au titre des spécialités ayant fait l'objet

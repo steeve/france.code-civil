@@ -11,7 +11,10 @@ par l'article L. 6122-13 ;
 
 3° L'accord prévu à l'article L. 162-22-4 du code de la sécurité sociale ou, à
 défaut, son contenu ainsi que les contrats pluriannuels mentionnés aux articles
-L. 6114-1 à L. 6114-3.
+L. 6114-1 à L. 6114-3 ;
+
+4° Les sanctions financières applicables aux établissements de santé prévues à
+l'article L. 162-22-18 du code de la sécurité sociale.
 
 Les délibérations mentionnées au 1° du présent article sont susceptibles de
 recours administratif dans les conditions prévues à l'article L. 6122-10.

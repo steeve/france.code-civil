@@ -3,9 +3,8 @@ Article L322-5-2
 Les rapports entre les organismes d'assurance maladie et les entreprises de
 transports sanitaires sont définis par une convention nationale conclue pour une
 durée au plus égale à cinq ans entre une ou plusieurs organisations syndicales
-nationales les plus représentatives des ambulanciers et au moins deux caisses
-nationales d'assurance maladie dont la Caisse nationale de l'assurance maladie
-des travailleurs salariés.
+nationales les plus représentatives des ambulanciers et l'Union nationale des
+caisses d'assurance maladie.
 
 Cette convention détermine notamment :
 

@@ -8,5 +8,8 @@ maladie, maternité, invalidité et de vieillesse pour les personnes non salari�
 des professions agricoles, dans des conditions fixées par décret en Conseil
 d'Etat.
 
+Elles peuvent accompagner toutes actions visant à favoriser la coordination et
+l'offre de soins en milieu rural.
+
 Les statuts et règlements intérieurs des caisses de mutualité sociale agricole
 sont approuvés par l'autorité administrative.

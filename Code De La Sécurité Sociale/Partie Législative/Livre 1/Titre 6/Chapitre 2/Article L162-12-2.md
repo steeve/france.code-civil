@@ -4,8 +4,7 @@ Les rapports entre les organismes d'assurance maladie et les infirmiers sont
 définis, dans le respect des règles déontologiques fixées par le code de la
 santé publique, par une convention nationale conclue pour une durée au plus
 égale à cinq ans entre une ou plusieurs organisations syndicales les plus
-représentatives des infirmiers et la Caisse nationale de l'assurance maladie des
-travailleurs salariés et au moins une autre caisse nationale d'assurance
+représentatives des infirmiers et l'Union nationale des caisses d'assurance
 maladie.
 
 Cette convention détermine notamment :

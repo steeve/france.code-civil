@@ -2,13 +2,11 @@ Article L162-5
 ----
 Les rapports entre les organismes d'assurance maladie et les médecins sont
 définis par des conventions nationales conclues séparément pour les médecins
-généralistes et les médecins spécialistes, par la Caisse nationale de
-l'assurance maladie des travailleurs salariés, au moins une autre Caisse
-nationale d'assurance maladie et une ou plusieurs organisations syndicales les
-plus représentatives pour l'ensemble du territoire de médecins généralistes ou
-de médecins spécialistes ou par une convention nationale conclue par la Caisse
-nationale de l'assurance maladie des travailleurs salariés, au moins une autre
-Caisse nationale d'assurance maladie et et au moins une organisation syndicale
+généralistes et les médecins spécialistes, par l'Union nationale des caisses
+d'assurance maladie et une ou plusieurs organisations syndicales les plus
+représentatives pour l'ensemble du territoire de médecins généralistes ou de
+médecins spécialistes ou par une convention nationale conclue par l'Union
+nationale des caisses d'assurance maladie et au moins une organisation syndicale
 représentative pour l'ensemble du territoire de médecins généralistes et une
 organisation syndicale représentative pour l'ensemble du territoire de médecins
 spécialistes.
@@ -75,6 +73,8 @@ professions de santé et l'assurance maladie ;
 10° Les conditions dans lesquelles est assuré le suivi des dépassements
 d'honoraires et de leur évolution ;
 
+11° (Abrogé) ;
+
 12° Le cas échéant :
 
 a) Les conditions particulières d'exercice propres à favoriser la coordination
@@ -87,7 +87,7 @@ médecins participant à ces réseaux ;
 
 c) Les droits et obligations respectifs des médecins, des patients et des
 caisses, ainsi que des modalités d'évaluation associées aux formes d'exercice et
-modes de rémunération mentionnés aux a et b ci-dessus.
+modes de rémunération mentionnés aux a et b ci-dessus ;
 
 13° Le cas échéant, les modes de rémunération, autres que le paiement à l'acte,
 des activités de soins ainsi que les modes de rémunération des activités non
@@ -98,7 +98,7 @@ d'assurance maladie et définissant les obligations relatives aux conditions
 d'exercice qui en résultent pour les intéressés.
 
 Pour la mise en oeuvre des 12° et 13°, il peut être fait application des
-dérogations mentionnées au II de l'article L. 162-31-1.
+dérogations mentionnées au II de l'article L. 162-31-1 ;
 
 14° Les objectifs et les modalités d'organisation de la formation
 professionnelle conventionnelle, le montant de la contribution annuelle des
@@ -107,13 +107,24 @@ conditions d'indemnisation des médecins participant à des actions de formation
 professionnelle conventionnelle agréées ainsi que la dotation allouée à ce titre
 par les caisses nationales d'assurance maladie signataires. La gestion des
 sommes affectées à ces opérations est confiée à l'organisme gestionnaire
-conventionnel mentionné à l'article L. 162-5-12.
+conventionnel mentionné à l'article L. 162-5-12 ;
 
 15° Les mesures et procédures applicables aux médecins dont les pratiques
 abusives sont contraires aux objectifs de bonnes pratiques et de bon usage des
-soins fixés par la convention.
+soins fixés par la convention ;
 
 16° Les modes de rémunération par l'assurance maladie, le cas échéant autres que
 le paiement à l'acte, de la participation des médecins au dispositif de
 permanence des soins en application des dispositions prévues à l'article L.
-6325-1 du code de la santé publique.
+6325-1 du code de la santé publique ;
+
+17° Les missions particulières des médecins traitants mentionnés à l'article L.
+162-5-3 et les modalités de l'organisation de la coordination des soins ;
+
+18° Les modalités selon lesquelles les médecins relevant de certaines
+spécialités sont autorisés à pratiquer, dans certaines limites respectant les
+dispositions de l'article L. 162-2-1, des dépassements d'honoraires sur le tarif
+des actes et consultations pour les patients qui les consultent sans
+prescription préalable de leur médecin traitant et qui ne relèvent pas d'un
+protocole de soins, et les engagements des professionnels pour assurer l'égalité
+de traitement des patients au regard des délais d'accès au médecin.

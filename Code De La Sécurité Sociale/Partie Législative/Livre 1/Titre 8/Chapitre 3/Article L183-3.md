@@ -1,31 +1,31 @@
 Article L183-3
 ----
-Les directeurs et les agents comptables des unions régionales des caisses
-d'assurance maladie sont nommés parmi les personnes inscrites sur une liste
-d'aptitude établie dans des conditions fixées par décret en Conseil d'Etat.
-
-Pour chaque nomination, le directeur de la Caisse nationale de l'assurance
-maladie des travailleurs salariés propose au conseil d'administration de l'union
-une liste de trois noms. Le conseil d'administration choisit sur cette liste, à
-la majorité de ses membres, le candidat dont il propose la nomination. Le
-directeur de la caisse nationale procède en conséquence à ladite nomination.
-
-Si le conseil d'administration ne propose aucun des trois candidats figurant sur
-la liste susmentionnée dans un délai déterminé par décret, le directeur de la
-caisse nationale nomme l'un de ces candidats.
-
-Il peut être mis fin aux fonctions des directeurs et des agents comptables
-mentionnés au premier alinéa du présent article pour un motif tiré de l'intérêt
-du service par le directeur de la Caisse nationale d'assurance maladie des
-travailleurs salariés après avis du conseil d'administration de l'union
-régionale concernée, et sous les garanties, notamment de reclassement, prévues
-par la convention collective. La décision du directeur devient exécutoire à
-l'expiration d'un délai d'un mois pendant lequel le conseil d'administration de
-l'union régionale concernée peut s'y opposer par un vote à la majorité des deux
-tiers des suffrages exprimés.
-
-Les directeurs et les agents comptables sont salariés de l'union dans laquelle
-ils exerçent leurs fonctions.
-
-Les modalités d'application du présent article sont fixées par décret en Conseil
+Les directeurs et agents comptables des unions régionales des caisses
+d'assurance maladie sont nommés par le directeur général de l'Union nationale
+des caisses d'assurance maladie après avis des directeurs de la Caisse nationale
+d'assurance maladie et maternité des travailleurs non salariés et de la Caisse
+centrale de la mutualité sociale agricole, parmi les personnes inscrites sur une
+liste d'aptitude établie dans des conditions fixées par décret en Conseil
 d'Etat.
+
+Le directeur général informe préalablement le conseil de l'union régionale
+concernée, qui peut s'y opposer à la majorité des deux tiers de ses membres.
+
+Le directeur général de l'union nationale, après avis des directeurs de la
+Caisse nationale d'assurance maladie et maternité des travailleurs non salariés
+et de la Caisse centrale de la mutualité sociale agricole, peut mettre fin aux
+fonctions des directeurs et agents comptables, sous les garanties, notamment de
+reclassement, prévues par la convention collective.
+
+Les fonctions de directeur de l'union régionale peuvent, le cas échéant, être
+assurées simultanément par le directeur d'un organisme local ou régional ou un
+praticien responsable de l'échelon régional d'un régime obligatoire d'assurance
+maladie situé dans le ressort territorial de l'union.
+
+Les fonctions d'agent comptable de l'union régionale peuvent, le cas échéant,
+être assurées simultanément par l'agent comptable d'un organisme local ou
+régional situé dans le ressort territorial de l'union.
+
+Le directeur met en oeuvre les orientations fixées par le conseil et le tient
+périodiquement informé. Le conseil formule, en tant que de besoin, les
+recommandations qu'il estime nécessaires à leur aboutissement."

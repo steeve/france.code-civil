@@ -6,6 +6,3 @@ chacune à une ou plusieurs catégories d'utilisateurs mentionnés à l'article 
 
 Un arrêté des ministres chargés des anciens combattants, de la défense et de la
 santé fixe les modalités de leur classification.
-
-Les modalités d'inscription sur la liste prévue à l'article L. 5123-2 sont
-fixées par un règlement intérieur de la commission.

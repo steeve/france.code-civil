@@ -62,3 +62,7 @@ L. 1421-2 et L. 1421-3, au contrôle de l'Inspection générale des affaires
 sociales et des agents de l'Etat mentionnés à l'article L. 1421-1. Les agents
 chargés du contrôle peuvent être assistés par des experts désignés par le
 ministre chargé de la santé.
+
+Tout acte de cession à titre onéreux de données de santé identifiantes,
+directement ou indirectement, y compris avec l'accord de la personne concernée,
+est interdit sous peine des sanctions prévues à l'article 226-21 du code pénal.

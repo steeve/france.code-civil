@@ -2,12 +2,11 @@ Article L162-9
 ----
 Les rapports entre les organismes d'assurance maladie et les
 chirurgiens-dentistes, les sages-femmes et les auxiliaires médicaux sont définis
-par des conventions nationales conclues entre la Caisse nationale de l'assurance
-maladie des travailleurs salariés et au moins une autre caisse nationale
+par des conventions nationales conclues entre l'Union nationale des caisses
 d'assurance maladie et une ou plusieurs des organisations syndicales nationales
 les plus représentatives de chacune de ces professions.
 
-Ces conventions déterminent [*contenu*] :
+Ces conventions déterminent *contenu* :
 
 1°) les obligations des caisses primaires d'assurance maladie et celles des
 chirurgiens-dentistes, des sages-femmes et des auxiliaires médicaux ;
@@ -51,12 +50,10 @@ conditions dans lesquelles le professionnel concerné présente ses observations
 Pour la mise en oeuvre des 5° et 6°, il peut être fait application des
 dérogations mentionnées au II de l'article L. 162-31-1.
 
-Les tarifs des honoraires et frais accessoires dus aux chirurgiens-dentistes,
-sages-femmes et auxiliaires médicaux en dehors des cas de dépassement autorisés
-par la convention si elle autorise un dépassement pour les soins visés au 3° de
-l'article L. 861-3, la convention nationale intéressant les
-chirurgiens-dentistes fixe le montant maximal de ce dépassement applicable aux
-bénéficiaires du droit à la protection complémentaire en matière de santé ; à
-défaut de convention, ou si la convention ne prévoit pas de dispositions
-spécifiques aux bénéficiaires de cette protection, un arrêté interministériel
-détermine la limite applicable à ces dépassements pour les intéressés.
+Si elle autorise un dépassement pour les soins visés au 3° de l'article L.
+861-3, la convention nationale intéressant les chirurgiens-dentistes fixe le
+montant maximal de ce dépassement applicable aux bénéficiaires du droit à la
+protection complémentaire en matière de santé ; à défaut de convention, ou si la
+convention ne prévoit pas de dispositions spécifiques aux bénéficiaires de cette
+protection, un arrêté interministériel détermine la limite applicable à ces
+dépassements pour les intéressés.

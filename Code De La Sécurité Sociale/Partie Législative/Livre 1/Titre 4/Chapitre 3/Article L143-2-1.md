@@ -8,8 +8,8 @@ d'aucune condamnation prévue et réprimée par le code de la sécurité sociale
 Avant d'entrer en fonctions, ils prêtent individuellement serment devant la cour
 d'appel de remplir leurs fonctions avec zèle et intégrité et de garder le secret
 des délibérations. Leurs fonctions sont incompatibles avec celles de membre des
-conseils d'administration des organismes de sécurité sociale ou de mutualité
-sociale agricole.
+conseils ou des conseils d'administration des organismes de sécurité sociale ou
+de mutualité sociale agricole.
 
 La récusation d'un assesseur d'un tribunal du contentieux de l'incapacité peut
 être demandée dans les conditions fixées à l'article L. 143-8.

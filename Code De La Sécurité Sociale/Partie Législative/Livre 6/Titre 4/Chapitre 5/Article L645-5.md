@@ -7,6 +7,5 @@ dérogation à l'article L. 645-1, continuer, sur leur demande, à bénéficier 
 régime de prestations complémentaires de vieillesse prévu audit article L.
 645-1.
 
-La cotisation prévue au 2° de l'article L. 645-2 est à la charge exclusive de
-ces praticiens et est versée dans les mêmes conditions que la cotisation prévue
-au 1°.
+La cotisation prévue à l'article L. 645-2 est à la charge exclusive de ces
+praticiens et est versée dans les conditions prévues par l'article L. 645-1.

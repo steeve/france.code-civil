@@ -19,7 +19,8 @@ disposent des pouvoirs d'investigation accordés par les textes particuliers qui
 leur sont applicables.
 
 A l'occasion de la mise en oeuvre de ces pouvoirs, ils peuvent se faire
-présenter :
+présenter et obtenir copie immédiate des documents suivants, quels que soient
+leur forme ou leur support :
 
 a) Les documents justifiant que l'immatriculation, les déclarations et les
 formalités mentionnées à l'article L. 324-10 ont été effectuées ainsi que ceux
@@ -36,10 +37,14 @@ c) Les devis, les bons de commande ou de travaux, les factures et les contrats
 ou documents commerciaux relatifs aux prestations exécutées en violation des
 dispositions de l'article L. 324-9.
 
-Les agents agréés susmentionnés des organismes de sécurité sociale et des
-caisses de mutualité sociale agricole et les agents de la direction générale des
-impôts sont en outre habilités à entendre, en quelque lieu que ce soit et avec
-son consentement, toute personne rémunérée par l'employeur ou par un travailleur
-indépendant afin de connaître la nature de ses activités, ses conditions
-d'emploi et le montant des rémunérations s'y rapportant, y compris les avantages
-en nature.
+Les agents cités au premier alinéa sont en outre habilités à entendre, en
+quelque lieu que ce soit et avec son consentement, toute personne rémunérée,
+ayant été rémunérée ou présumée être ou avoir été rémunérée par l'employeur ou
+par un travailleur indépendant afin de connaître la nature de ses activités, ses
+conditions d'emploi et le montant des rémunérations s'y rapportant, y compris
+les avantages en nature. Ces auditions peuvent faire l'objet d'un procès-verbal
+signé des agents précités et des intéressés. Ces agents sont en outre habilités
+à demander aux employeurs, aux travailleurs indépendants, aux personnes occupées
+dans l'entreprise ou sur le lieu de travail ainsi qu'à toute personne dont ils
+sont amenés à recueillir les déclarations dans l'exercice de leur mission, de
+justifier de leur identité et de leur adresse.

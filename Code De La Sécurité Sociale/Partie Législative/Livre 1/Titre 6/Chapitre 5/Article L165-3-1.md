@@ -6,14 +6,15 @@ l'article L. 165-1 le non-respect du prix fixé dans les conditions mentionnées
 l'article L. 165-3, le directeur de cet organisme adresse à la personne une
 notification par laquelle il lui indique les faits reprochés. Une copie de ce
 courrier est adressée à l'assuré. La personne a la possibilité de faire parvenir
-ses observations à l'organisme, notamment lorsque l'arrêté mentionné à l'article
-L. 165-3 a prévu des possibilités de dépassement. L'assuré peut également faire
-part de ses propres observations à l'organisme d'assurance maladie.
+ses observations à l'organisme, notamment lorsque la décision mentionnée à
+l'article L. 165-3 a prévu des possibilités de dépassement. L'assuré peut
+également faire part de ses propres observations à l'organisme d'assurance
+maladie.
 
 En cas de confirmation de la matérialité des faits, l'organisme d'assurance
-maladie verse à l'assuré la différence entre le prix facturé et le prix fixé par
-arrêté. Il adresse à la personne ayant facturé le produit ou la prestation une
-mise en demeure de lui rembourser cette somme.
+maladie verse à l'assuré la différence entre le prix facturé et le prix fixé. Il
+adresse à la personne ayant facturé le produit ou la prestation une mise en
+demeure de lui rembourser cette somme.
 
 En cas de non-exécution de la mise en demeure, l'organisme peut prononcer à
 l'encontre de la personne ayant facturé le produit ou la prestation, en fonction

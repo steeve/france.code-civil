@@ -15,6 +15,10 @@ et par équipements matériels lourds définis à l'article L. 6122-14 ;
 lourds, transformations, regroupements et coopérations d'établissements
 nécessaires à la réalisation de ces objectifs.
 
+Sont jointes à cette annexe, à titre indicatif, les orientations établies par la
+mission régionale de santé mentionnée à l'article L. 162-47 du code de la
+sécurité sociale, en application des dispositions du 1° dudit article.
+
 Selon les activités et équipements, les territoires de santé constituent un
 espace infrarégional, régional, interrégional ou national. Les limites des
 territoires de santé sont définies par le directeur de l'agence régionale de

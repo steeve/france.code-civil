@@ -1,20 +1,13 @@
 Article L162-15-4
 ----
-I. - A défaut de convention pour les médecins spécialistes ou à défaut d'annexes
-pour cette convention, la Caisse nationale de l'assurance maladie des
-travailleurs salariés et au moins une autre caisse nationale peuvent conclure un
-protocole relatif aux éléments mentionnés au I de l'article L. 162-15-2 par
-spécialité ou groupe de spécialité avec au moins une organisation syndicale
-nationale de médecins de la spécialité ou du groupe de spécialité adhérente
-d'une organisation syndicale représentative pour l'ensemble du territoire des
-médecins spécialistes.
+Les réclamations concernant les relations d'un organisme local d'assurance
+maladie avec ses usagers sont reçues par une personne désignée par le directeur
+après avis du conseil au sein de cet organisme afin d'exercer la fonction de
+conciliateur pour le compte de celui-ci. Son intervention ne peut pas être
+demandée si une procédure a été engagée devant une juridiction compétente par
+l'usager la sollicitant. L'engagement d'une telle procédure met fin à la
+conciliation.
 
-II. - A défaut d'accord entre les parties à la convention des médecins
-spécialistes ou en l'absence de convention pour les médecins spécialistes, la
-Caisse nationale de l'assurance maladie des travailleurs salariés et au moins
-une autre caisse nationale peuvent conclure un protocole relatif aux mesures
-mentionnées au deuxième alinéa du II de l'article L. 162-15-2 par spécialité ou
-groupe de spécialité avec au moins une organisation syndicale nationale de
-médecins de la spécialité ou du groupe de spécialité adhérente d'une
-organisation syndicale représentative pour l'ensemble du territoire des médecins
-spécialistes.
+Un conciliateur commun à plusieurs organismes locaux d'assurance maladie peut
+être désigné conjointement par les directeurs des organismes concernés après
+avis de leurs conseils respectifs.

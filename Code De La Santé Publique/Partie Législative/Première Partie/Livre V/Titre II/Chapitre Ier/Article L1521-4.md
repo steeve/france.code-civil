@@ -3,9 +3,8 @@ Article L1521-4
 Les dispositions du chapitre Ier du titre Ier du livre Ier de la présente partie
 sont applicables à Wallis et Futuna sous réserve des adaptations suivantes :
 
-1° Au sixième alinéa de l'article L. 1111-2, les mots : "sont établies par
-l'Agence nationale d'accréditation et d'évaluation en santé et" ne sont pas
-applicables ;
+1° Au sixième alinéa de l'article L. 1111-2, les mots : "sont établies par la
+Haute Autorité de santé et" ne sont pas applicables ;
 
 2° Le dernier alinéa de l'article L. 1111-5 n'est pas applicable ;
 
@@ -30,5 +29,4 @@ internationales ;
 
 5° A la dernière phrase de l'article L. 1111-9 les mots :
 
-"établies par l'Agence nationale d'accréditation et d'évaluation en santé et" ne
-sont pas applicables.
+"établies par la Haute Autorité de santé et" ne sont pas applicables.

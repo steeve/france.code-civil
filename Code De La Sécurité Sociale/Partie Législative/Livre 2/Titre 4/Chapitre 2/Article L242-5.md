@@ -32,7 +32,3 @@ d'assurer la couverture des charges de gestion, l'équilibre de la branche tel
 que résultant de la loi de financement de la sécurité sociale doit être maintenu
 ou rétabli par un prélèvement sur les excédents financiers ou, à défaut, par une
 modification des éléments de calcul des cotisations.
-
-Un arrêté interministériel détermine le montant ou la fraction maximum des
-cotisations affectées au Fonds de prévention des accidents du travail et des
-maladies professionnelles.

@@ -1,9 +1,9 @@
 Article L162-5-13
 ----
-I. - Les tarifs des médecins mentionnés aux articles L. 162-14-2 et L. 162-5-9
-ne peuvent donner lieu à dépassement pour les actes dispensés aux bénéficiaires
-du droit à la protection complémentaire en matière de santé, sauf en cas
-d'exigence particulière du patient.
+I. - Les tarifs des médecins mentionnés à l'article L. 162-5 ne peuvent donner
+lieu à dépassement pour les actes dispensés aux bénéficiaires du droit à la
+protection complémentaire en matière de santé, sauf en cas d'exigence
+particulière du patient et sauf dans le cas prévu au 18° de l'article L. 162-5.
 
 II. - La ou les conventions médicales prévues à l'article L. 162-5 peuvent
 prévoir, lorsqu'elles autorisent la pratique des honoraires différents des

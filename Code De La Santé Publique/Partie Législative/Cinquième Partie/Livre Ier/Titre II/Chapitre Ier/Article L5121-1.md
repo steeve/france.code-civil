@@ -38,7 +38,13 @@ peut être constitué de spécialités ayant la même composition qualitative et
 quantitative en principe actif, la même forme pharmaceutique et dont le profil
 de sécurité et d'efficacité est équivalent. Pour l'application du présent 5°,
 les différentes formes pharmaceutiques orales à libération immédiate sont
-considérées comme une même forme pharmaceutique ;
+considérées comme une même forme pharmaceutique et les différents sels, esters,
+éthers, isomères, mélanges d'isomères, complexes ou dérivés d'un principe actif
+sont considérés comme un même principe actif, sauf s'ils présentent des
+propriétés sensiblement différentes au regard de la sécurité ou de l'efficacité.
+Dans ce cas, des informations supplémentaires fournissant la preuve de la
+sécurité et de l'efficacité des différents sels, esters ou dérivés d'une
+substance active autorisée doivent être apportées ;
 
 6° Médicament immunologique, tout médicament consistant en :
 

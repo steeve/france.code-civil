@@ -12,8 +12,8 @@ facture et, le cas échéant, les modalités particulières d'élaboration de ce
 pièces et de leur transmission aux patients.
 
 Les infractions aux dispositions du premier alinéa sont constatées et
-sanctionnées dans les mêmes conditions que les infractions aux arrêtés pris en
-application de l'article L. 162-38.
+sanctionnées dans les mêmes conditions que les infractions aux décisions prises
+en application de l'article L. 162-38.
 
 L'assuré communique à sa caisse, à l'occasion du remboursement, copie de la
 facture.

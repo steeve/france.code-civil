@@ -16,12 +16,19 @@ IV. - Il procède également à l'analyse, sur le plan médical, de l'activité 
 professionnels de santé dispensant des soins aux bénéficiaires de l'assurance
 maladie, notamment au regard des règles définies par les conventions qui
 régissent leurs relations avec les organismes d'assurance maladie ou, en ce qui
-concerne les médecins, du règlement mentionné à l'article L. 162-5-9.
+concerne les médecins, du règlement mentionné à l'article L. 162-14-2. La
+procédure d'analyse de l'activité se déroule dans le respect des droits de la
+défense selon des conditions définies par décret.
 
 Par l'ensemble des actions mentionnées au présent article, le service du
 contrôle médical concourt, dans les conditions prévues aux articles L. 183-1, L.
 211-2-1 et au 5° de l'article L. 221-1, à la gestion du risque assurée par les
 caisses d'assurance maladie.
+
+IV. bis. - Le service du contrôle médical s'assure de l'identité du patient à
+l'occasion des examens individuels qu'il réalise, en demandant à la personne
+concernée de présenter sa carte nationale d'identité ou tout autre document
+officiel comportant sa photographie.
 
 V. - Les praticiens-conseils du service du contrôle médical et les personnes
 placées sous leur autorité n'ont accès aux données de santé à caractère

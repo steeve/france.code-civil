@@ -1,14 +1,14 @@
 Article L1414-4
 ----
 Pour développer l'évaluation des soins et des pratiques professionnelles et
-mettre en oeuvre la procédure d'accréditation, l'agence nationale s'assure de la
-collaboration des professionnels par la constitution et l'animation d'un réseau
-national et local d'experts.
+mettre en oeuvre la procédure de certification, la Haute Autorité de santé
+s'assure de la collaboration des professionnels par la constitution et
+l'animation d'un réseau national et local d'experts.
 
-Les personnes collaborant, même occasionnellement, aux travaux de l'agence
-nationale ne peuvent, sous les peines prévues à l'article 432-12 du code pénal,
-prêter leur concours à une mission relative à une affaire dans laquelle elles
-auraient un intérêt direct ou indirect.
+Les personnes collaborant, même occasionnellement, aux travaux de la Haute
+Autorité de santé ne peuvent, sous les peines prévues à l'article 432-12 du code
+pénal, prêter leur concours à une mission relative à une affaire dans laquelle
+elles auraient un intérêt direct ou indirect.
 
 Elles sont tenues au secret et à la discrétion professionnels dans les mêmes
 conditions que celles définies à l'article 26 du titre Ier du statut général des
@@ -25,5 +25,5 @@ administrative peut mettre fin à leurs fonctions.
 
 Les médecins experts de l'agence n'ont accès aux données de santé à caractère
 personnel que si elles sont strictement nécessaires à l'exercice de leur mission
-d'accréditation lors de leur visite sur les lieux, dans le respect du secret
+de certification lors de leur visite sur les lieux, dans le respect du secret
 médical.

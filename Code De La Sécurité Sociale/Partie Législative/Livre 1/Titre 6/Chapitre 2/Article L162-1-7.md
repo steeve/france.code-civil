@@ -6,21 +6,37 @@ libéral ou d'un exercice salarié en centre de santé ou dans un établissement
 un service médico-social, ainsi que, à compter du 1er janvier 2005, d'un
 exercice salarié dans un établissement de santé, à l'exception des prestations
 mentionnées à l'article L. 165-1, est subordonné à leur inscription sur une
-liste arrêtée par les ministres chargés de la santé, de la sécurité sociale et
-de l'agriculture. L'inscription sur la liste peut elle-même être subordonnée au
-respect d'indications thérapeutiques ou diagnostiques, à l'état du patient ainsi
-qu'à des conditions particulières de prescription, d'utilisation ou de
-réalisation de l'acte ou de la prestation.
+liste établie dans les conditions fixées au présent article. L'inscription sur
+la liste peut elle-même être subordonnée au respect d'indications thérapeutiques
+ou diagnostiques, à l'état du patient ainsi qu'à des conditions particulières de
+prescription, d'utilisation ou de réalisation de l'acte ou de la prestation.
 
-Toute nouvelle inscription d'un acte ou d'une prestation après le 1er janvier
-2004 est subordonnée à l'avis de l'Agence nationale d'accréditation et
-d'évaluation en santé mentionnée à l'article L. 1414-1 du code de la santé
-publique sur la sécurité et l'efficacité de l'acte ou de la prestation. Lorsque,
-pour l'application des dispositions de l'article L. 161-29, une liste est
-modifiée pour être établie par référence à un numéro de code de l'acte ou de la
-prestation, l'avis mentionné ci-dessus est requis si l'acte ou la prestation ne
-figurait pas sur la liste antérieure et peut être sollicité par les ministres
-chargés de la santé et de la sécurité sociale dans le cas contraire.
+La hiérarchisation des prestations et des actes est établie dans le respect des
+règles déterminées par des commissions créées pour chacune des professions dont
+les rapports avec les organismes d'assurance maladie sont régis par une
+convention mentionnée à l'article L. 162-14-1. Ces commissions, présidées par
+une personnalité désignée d'un commun accord par leurs membres, sont composées
+de représentants des syndicats représentatifs des professionnels de santé et de
+représentants de l'Union nationale des caisses d'assurance maladie. Un
+représentant de l'Etat assiste à leurs travaux.
 
-Des décrets fixent, en tant que de besoin, les modalités d'application du
-présent article.
+Les conditions d'inscription d'un acte ou d'une prestation, leur inscription et
+leur radiation sont décidées par l'Union nationale des caisses d'assurance
+maladie, après avis de la Haute Autorité de santé et de l'Union nationale des
+organismes d'assurance maladie complémentaire.
+
+Les décisions de l'Union nationale des caisses d'assurance maladie sont réputées
+approuvées sauf opposition motivée des ministres chargés de la santé et de la
+sécurité sociale. Le ministre chargé de la santé peut procéder d'office à
+l'inscription ou à la radiation d'un acte ou d'une prestation pour des raisons
+de santé publique par arrêté pris après avis de la Haute Autorité de santé. Dans
+ce cas, il fixe la hiérarchisation de l'acte ou de la prestation dans le respect
+des règles mentionnées ci-dessus. Les tarifs de ces actes et prestations sont
+publiés au Journal officiel de la République française.
+
+Après avis de la Haute Autorité de santé, un acte en phase de recherche clinique
+ou d'évaluation du service qu'il rend peut être inscrit, pour une période
+déterminée, sur la liste visée au premier alinéa. L'inscription et la prise en
+charge sont soumises au respect d'une procédure et de conditions particulières
+définies par convention entre l'Union nationale des caisses d'assurance maladie
+et la Haute Autorité de santé.

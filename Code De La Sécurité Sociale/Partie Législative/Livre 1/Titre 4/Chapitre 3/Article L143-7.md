@@ -9,5 +9,5 @@ prévue et réprimée par le présent code.
 Avant d'entrer en fonctions, ils prêtent individuellement serment devant la cour
 d'appel de remplir leurs fonctions avec zèle et intégrité et de garder le secret
 des délibérations. Leurs fonctions sont incompatibles avec celles de membre des
-conseils d'administration des organismes de sécurité sociale ou de mutualité
-sociale agricole.
+conseils ou conseils d'administration des organismes de sécurité sociale ou de
+mutualité sociale agricole.

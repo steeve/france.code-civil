@@ -7,5 +7,5 @@ des conditions fixés par décret.
 
 L'admission en non-valeur des créances autres que les cotisations sociales, les
 impôts et taxes affectés, en principal et accessoire, est prononcée par le
-conseil d'administration de l'organisme de sécurité sociale dans des conditions
-fixées par décret.
+conseil ou le conseil d'administration de l'organisme de sécurité sociale dans
+des conditions fixées par décret.

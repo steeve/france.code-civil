@@ -1,18 +1,27 @@
 Article L162-14-2
 ----
-Les tarifs mentionnés au 1° de l'article L. 162-14-1 sont fixés dans le cadre
-d'avenants à chaque convention. Ces avenants comportent en annexe l'ensemble des
-modifications de la nomenclature établie pour les actes pris en charge par
-l'assurance maladie que les signataires envisagent de proposer aux ministres
-chargés de la sécurité sociale, de la santé et de l'agriculture et dont il a été
-tenu compte pour fixer les tarifs. La totalité des avenants conclus en
-application du présent alinéa fait l'objet d'un envoi unique, au plus tard le 15
-juin, à chacun des ministres précités.
+I. - En cas de rupture des négociations préalables à l'élaboration d'une
+convention mentionnée à l'article L. 162-14-1 ou d'opposition à la nouvelle
+convention dans les conditions prévues à l'article L. 162-15, un arbitre arrête
+un projet de convention dans le respect du cadre financier pluriannuel des
+dépenses de santé.
 
-Sauf en cas d'urgence ou d'impérieuse nécessité de santé publique, les ministres
-précités tiennent compte des propositions faites par les partenaires
-conventionnels dans les conditions prévues à l'alinéa précédent lorsqu'ils
-mettent en oeuvre des modifications de la nomenclature. Lorsque les ministres
-décident de ne pas mettre en oeuvre une modification de la nomenclature proposée
-en application du présent article, ils en informent les signataires des avenants
-concernés en leur communiquant les motifs de leur décision.
+Le projet est soumis aux ministres pour approbation et publication, selon les
+règles prévues à l'article L. 162-15, sous la forme d'un règlement arbitral.
+
+Les dispositions conventionnelles antérieures continuent de produire leurs
+effets jusqu'à la date d'entrée en vigueur du règlement.
+
+Le règlement arbitral est arrêté pour une durée de cinq ans. Toutefois, les
+partenaires conventionnels engagent des négociations en vue d'élaborer une
+nouvelle convention au plus tard dans les deux ans qui suivent l'entrée en
+vigueur du règlement arbitral. Celui-ci cesse d'être applicable à compter de
+l'entrée en vigueur d'une nouvelle convention. Les dispositions du présent
+article sont applicables à son renouvellement.
+
+II. - L'arbitre est désigné par l'Union nationale des caisses d'assurance
+maladie et au moins une organisation syndicale représentative des professionnels
+de santé libéraux concernés. A défaut ou en cas d'opposition à cette
+désignation, formée dans les mêmes conditions que celles définies au quatrième
+alinéa de l'article L. 162-15, il est désigné par le président du Haut Conseil
+pour l'avenir de l'assurance maladie.

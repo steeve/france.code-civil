@@ -5,7 +5,7 @@ prévoyance et les sociétés d'assurance, peuvent conclure des accords, à
 l'échelon local ou national, avec les distributeurs de dispositifs médicaux à
 usage individuel, notamment en ce qui concerne la qualité, les prix maximum
 pratiqués, sous réserve que ces produits ou prestations ne fassent pas l'objet
-d'un arrêté pris en application de l'article L. 165-3, et les modalités de
+d'une décision prise en application de l'article L. 165-3, et les modalités de
 dispense d'avance de frais.
 
 Ces accords doivent comporter des dispositions adaptées à la situation des

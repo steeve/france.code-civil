@@ -21,12 +21,13 @@ jouit pas de ses droits civils et politiques et s'il a fait l'objet, dans les
 cinq années précédant la date à laquelle sont dressées les listes prévues au
 premier alinéa, d'une condamnation en application des articles L. 244-1 à L.
 244-6, L. 244-12, L. 377-1 à L. 377-5, L. 471-1 à L. 471-4, L. 554-1 à L. 554-4
-du présent code et des articles 1034 à 1036,1047,1089,1129 à 1131,1135 et 1240
-du code rural.
+du présent code et des articles 1034 à 1036, 1047, 1089, 1129 à 1131, 1135 et
+1240 du code rural.
 
-Les membres des conseils d'administration des organismes de sécurité sociale ou
-de mutualité sociale agricole ne peuvent être désignés en qualité d'assesseurs
-ou d'assesseurs suppléants du tribunal des affaires de sécurité sociale .
+Les membres des conseils ou des conseils d'administration des organismes de
+sécurité sociale ou de mutualité sociale agricole ne peuvent être désignés en
+qualité d'assesseurs ou d'assesseurs suppléants du tribunal des affaires de
+sécurité sociale.
 
 Les employeurs sont tenus de laisser aux salariés de leur entreprise, membres
 assesseurs d'un tribunal des affaires de sécurité sociale, le temps nécessaire
