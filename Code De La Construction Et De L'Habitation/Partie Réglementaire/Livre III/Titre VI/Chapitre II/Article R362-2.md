@@ -28,4 +28,7 @@ d'habitations à loyer modéré exerçant leur activité dans le département.
 
 Il exerce la compétence prévue à l'article L. 351-14 du code de la construction
 et de l'habitation en matière d'aide personnalisée au logement dans les
-conditions fixées à l'article R. 362-7.
+conditions fixées à l'article R. 362-7. " La commission spécialisée des rapports
+locatifs créée par l'article 41 bis de la loi du 23 décembre 1986 modifiée
+exerce les compétences prévues par l'article 41 ter de la même loi dans les
+conditions définies par l'article R. 362-20. "
