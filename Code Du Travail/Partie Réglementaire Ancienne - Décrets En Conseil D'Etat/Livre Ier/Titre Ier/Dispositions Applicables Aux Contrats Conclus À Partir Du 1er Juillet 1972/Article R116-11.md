@@ -22,12 +22,13 @@ d'un employeur susceptible de contribuer à l'achèvement de leur formation ;
 pour bénéficier de l'aide publique dans les conditions prévues aux articles R.
 351-1 et suivants.
 
-5. Organise, au bénéfice des employeurs qui sollicitent leur agrément comme
-maître d'apprentissage et de leurs collaborateurs répondant à la définition du c
-du premier alinéa de l'article R. 117-1, une information sur l'enseignement par
-alternance ainsi que sur les programmes et les documents pédagogiques afférents
-aux formations à dispenser. Une attestation de présence est délivrée aux
-personnes qui ont régulièrement suivi cette action d'information ;
+5. Organise, au bénéfice des employeurs qui ont effectué la déclaration relative
+à l'organisation de l'apprentissage et de leurs collaborateurs répondant à la
+définition du c du premier alinéa de l'article R. 117-1, une information sur
+l'enseignement par alternance ainsi que sur les programmes et les documents
+pédagogiques afférents aux formations à dispenser. Une attestation de présence
+est délivrée aux personnes qui ont régulièrement suivi cette action
+d'information ;
 
 6. Organise à l'intention des employeurs toutes autres activités nécessaires
 pour assurer la coordination de la formation dispensée par le centre et de la

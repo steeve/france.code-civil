@@ -33,7 +33,7 @@ c) Des objectifs et du contenu des formations conduisant aux diplômes et titres
 
 d) Des résultats aux examens ;
 
-e) Des décisions de retrait d'agrément.
+e) Des décisions d'opposition à l'engagement d'apprentis.
 
 IV. - Il suit l'application des dispositions arrêtées dans les différents
 domaines mentionnés aux II et III ci-dessus.

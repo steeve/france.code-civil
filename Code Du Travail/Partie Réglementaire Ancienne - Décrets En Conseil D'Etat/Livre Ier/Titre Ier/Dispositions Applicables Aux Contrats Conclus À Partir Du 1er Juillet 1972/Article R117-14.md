@@ -7,6 +7,6 @@ recommandée avec demande d'avis de réception. Avis de ce refus est donné au
 directeur du centre de formation d'apprentis et, le cas échéant, à la chambre de
 métiers.
 
-Faute de décision de refus d'enregistrement dans le délai d'un mois à compter de
-la date de réception du contrat par le service compétent [*point de départ*]
-l'enregistrement est de droit.
+Faute de décision de refus d'enregistrement dans le délai de quinze jours à
+compter de la date de réception du contrat par le service compétent [*point de
+départ*] l'enregistrement est de droit.

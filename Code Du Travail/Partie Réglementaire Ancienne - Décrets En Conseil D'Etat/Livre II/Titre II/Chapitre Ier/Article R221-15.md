@@ -1,6 +1,7 @@
 Article R221-15
 ----
-Les demandes de dérogation, accompagnées des justifications nécessaires et de
+Les demandes tendant à obtenir les dérogations prévues à l'article L. 221-5-1 et
+au 3° de l'article L. 221-10, accompagnées des justifications nécessaires et de
 l'avis des délégués syndicaux et du comité d'entreprise, ou des délégués du
 personnel, s'il en existe, sont adressées par l'employeur à l'inspecteur du
 travail [*autorité compétente*].

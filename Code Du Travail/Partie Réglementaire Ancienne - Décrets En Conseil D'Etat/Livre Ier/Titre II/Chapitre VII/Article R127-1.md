@@ -1,9 +1,10 @@
 Article R127-1
 ----
-Pour l'application du troisième alinéa de l'article 127-1, le groupement
-d'employeurs adresse à l'inspecteur du travail dont relève son siège social,
-dans le mois suivant sa constitution [*délai*], une déclaration qui comporte les
-mentions et à laquelle sont joints les documents suivants :
+Pour l'application du troisième alinéa de l'article L. 127-1, le groupement
+d'employeurs ou le groupement local d'employeurs adresse à l'inspecteur du
+travail dont relève son siège social, dans le mois suivant sa constitution, une
+note d'information qui comporte les mentions et à laquelle sont joints les
+documents suivants :
 
 1° Le nom, le siège social et la forme juridique du groupement ;
 
@@ -30,8 +31,8 @@ c) Le nombre de salariés qu'il occupe ;
 6° La convention collective dans le champ d'application de laquelle entre le
 groupement.
 
-La déclaration, datée et signée par la personne habilitée à cet effet par le
-groupement, est envoyée sous pli recommandé avec demande d'avis de réception.
+La note d'information, datée et signée par la personne habilitée à cet effet par
+le groupement, est envoyée sous pli recommandé avec demande d'avis de réception.
 
 Le groupement est tenu de faire connaître à l'inspecteur du travail toute
 modification ultérieure aux informations énumérées aux 1°, 2°, 3°, aux a et b du

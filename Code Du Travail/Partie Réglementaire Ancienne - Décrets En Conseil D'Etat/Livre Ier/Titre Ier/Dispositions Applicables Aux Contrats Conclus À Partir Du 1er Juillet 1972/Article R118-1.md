@@ -8,11 +8,9 @@ d'apprentissage chargés de contribuer :
 
 Au placement des jeunes en apprentissage ;
 
-A la préparation des dossiers d'agrément et des contrats d'apprentissage ;
+A la préparation des contrats d'apprentissage ;
 
-A la transmission des dossiers d'agrément au comité départemental de la
-formation professionnelle, de la promotion sociale et de l'emploi et de la
-transmission des contrats d'apprentissage au service chargé du contrôle de
+A la transmission des contrats d'apprentissage au service chargé du contrôle de
 l'application de la législation du travail et des lois sociales dans la branche
 d'activité dont relève l'employeur ;
 
