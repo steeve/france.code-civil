@@ -8,6 +8,12 @@ revenus d'activité professionnelle perçus par l'intéressé pendant l'année c
 de référence sont, tant que dure cette situation, affectés d'un abattement de 30
 p. 100 [*montant*].
 
+La rémunération perçue par les personnes relevant des conventions conclues en
+application du deuxième alinéa de l'article L. 961-1 du code du travail est
+assimilée, pendant la durée de la formation et pour l'application des
+dispositions de l'alinéa précédent, à l'allocation de chômage à laquelle elle
+s'est substituée lors de l'entrée en formation.
+
 Cette mesure s'applique à compter du premier jour du mois civil suivant celui au
 cours duquel est intervenu le changement de situation et jusqu'au dernier jour
 du mois civil précédant celui au cours duquel la situation considérée prend fin
