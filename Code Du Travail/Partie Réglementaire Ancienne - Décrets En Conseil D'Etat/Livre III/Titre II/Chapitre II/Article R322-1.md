@@ -7,7 +7,7 @@ suivants comportent notamment :
 1° Des mesures temporaires de formation professionnelle qui peuvent faire
 l'objet des conventions de coopération prévues à l'article L. 322-2 ;
 
-2° Des mesures temporaires assurant, par voie de conventions de coopération,
+2° Des mesures temporaires assurant par voie de conventions de coopération
 certaines garanties de ressources aux travailleurs privés de tout ou partie de
 leur rémunération par suite de circonstances économiques ;
 
@@ -35,10 +35,18 @@ Les conventions de conversion doivent être conformes à une convention type fix
 par arrêté conjoint du ministre de l'économie, des finances et du budget et du
 ministre du travail, de l'emploi et de la formation professionnelle.
 
-6° Dans les régions atteintes d'un grave déséquilibre de l'emploi, des mesures
-temporaires d'aide aux entreprises qui, dans le cadre de conventions conclues en
-application de l'article L. 322-2, favorisent la mobilité géographique de leurs
-salariés.
+6° Des mesures temporaires d'aide aux entreprises qui, dans le cadre de
+conventions conclues en application de l'article L. 322-2, favorisent la
+mobilité géographique de leurs salariés.
 
-7° L'étude de la situation de l'emploi dans les régions ou les professions
+7° Des actions de reclassement de salariés licenciés pour motif économique ou
+menacés de l'être ; des conventions de coopération déterminent la nature de ces
+actions, leur champ d'application et le montant de la participation de l'Etat au
+financement des cellules chargées de les mettre en oeuvre.
+
+Le taux maximal de cette participation et la durée maximale pendant laquelle les
+intéressés peuvent bénéficier de ces actions sont fixés par arrêté conjoint du
+ministre chargé de l'emploi et du ministre chargé du budget.
+
+8° L'étude de la situation de l'emploi dans les régions ou les professions
 atteintes ou menacées d'un grave déséquilibre de l'emploi.
