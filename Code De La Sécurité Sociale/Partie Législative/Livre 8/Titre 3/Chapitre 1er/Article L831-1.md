@@ -18,5 +18,10 @@ séjour et prévus en application de l'article L. 512-2.
 L'allocation de logement n'est pas due lorsque la même personne peut bénéficier,
 au titre d'une autre réglementation, d'une indemnité ou allocation répondant au
 même objet et qui est d'un montant égal ou supérieur à la première de ces
-prestations . Lorsque cette indemnité ou allocation est d'un montant inférieur à
+prestations. Lorsque cette indemnité ou allocation est d'un montant inférieur à
 l'allocation de logement, celle-ci est réduite à due concurrence.
+
+L'allocation de logement n'est pas due aux personnes qui sont locataires d'un
+logement appartenant à l'un de leurs ascendants ou descendants, ou ceux de leur
+conjoint ou concubin ou de toute personne liée à elles par un contrat conclu en
+application de l'article 515-1 du code civil.

@@ -16,7 +16,7 @@ ladite allocation.
 
 Lorsque cet avantage est d'un montant inférieur à celui de l'allocation aux
 adultes handicapés, celle-ci s'ajoute à la prestation sans que le total des deux
-avantages puisse excéder le montant de l'allocation aux adultes handicapés .
+avantages puisse excéder le montant de l'allocation aux adultes handicapés.
 
 Pour la liquidation des avantages de vieillesse, les bénéficiaires de
 l'allocation aux adultes handicapés sont réputés inaptes au travail à l'âge
