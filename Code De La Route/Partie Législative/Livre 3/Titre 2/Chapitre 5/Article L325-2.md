@@ -1,14 +1,14 @@
 Article L325-2
 ----
-Pour l'application des articles L. 325-1 et L. 325-1-1 et sur prescription de
-l'officier de police judiciaire territorialement compétent, les fonctionnaires
-de police en tenue et les militaires de la gendarmerie habilités à constater par
-procès-verbaux les contraventions à la police de la circulation routière
-peuvent, en cas de besoin, ouvrir ou faire ouvrir les portes du véhicule,
-manoeuvrer ou faire manoeuvrer tous appareils. Ils peuvent conduire le véhicule
-ou le faire conduire, en leur présence, vers le lieu de mise en fourrière en
-utilisant, le cas échéant, les moyens autonomes de propulsion dont le véhicule
-est muni.
+Pour l'application des articles L. 325-1, L. 325-1-1 et L. 325-1-2 et sur
+prescription de l'officier de police judiciaire territorialement compétent, les
+fonctionnaires de police en tenue et les militaires de la gendarmerie habilités
+à constater par procès-verbaux les contraventions à la police de la circulation
+routière peuvent, en cas de besoin, ouvrir ou faire ouvrir les portes du
+véhicule, manoeuvrer ou faire manoeuvrer tous appareils. Ils peuvent conduire le
+véhicule ou le faire conduire, en leur présence, vers le lieu de mise en
+fourrière en utilisant, le cas échéant, les moyens autonomes de propulsion dont
+le véhicule est muni.
 
 La mise en fourrière peut également être prescrite par l'agent de police
 judiciaire adjoint, chef de la police municipale ou qui occupe ces fonctions,

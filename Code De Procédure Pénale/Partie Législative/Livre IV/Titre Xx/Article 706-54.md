@@ -27,16 +27,28 @@ décision peut être contestée devant le président de la chambre de l'instruct
 Les officiers de police judiciaire peuvent également, d'office ou à la demande
 du procureur de la République ou du juge d'instruction, faire procéder à un
 rapprochement de l'empreinte de toute personne à l'encontre de laquelle il
-existe une ou plusieurs raisons plausibles de soupçonner qu'elle a commis un
-crime ou un délit, avec les données incluses au fichier, sans toutefois que
-cette empreinte puisse y être conservée.
+existe une ou plusieurs raisons plausibles de soupçonner qu'elle a commis l'une
+des infractions mentionnées à l'article 706-55 avec les données incluses au
+fichier, sans toutefois que cette empreinte puisse y être conservée.
 
 Le fichier prévu par le présent article contient également les empreintes
-génétiques issues des traces biologiques recueillies à l'occasion des procédures
-de recherche des causes de la mort ou de recherche des causes d'une disparition
-prévues par les articles 74, 74-1 et 80-4 ainsi que les empreintes génétiques
-correspondant ou susceptibles de correspondre aux personnes décédées ou
-recherchées.
+génétiques recueillies à l'occasion :
+
+1° Des procédures de recherche des causes de la mort ou de recherche des causes
+d'une disparition prévues par les articles 74, 74-1 et 80-4 ;
+
+2° Des recherches aux fins d'identification, prévues par l'article 16-11 du code
+civil, de personnes décédées dont l'identité n'a pu être établie, à l'exception
+des militaires décédés à l'occasion d'une opération conduite par les forces
+armées ou les formations rattachées. Toutefois, les empreintes génétiques
+recueillies dans ce cadre font l'objet d'un enregistrement distinct de celui des
+autres empreintes génétiques conservées dans le fichier. Elles sont effacées sur
+instruction du procureur de la République, agissant soit d'office, soit à la
+demande des intéressés, lorsqu'il est mis fin aux recherches d'identification
+qui ont justifié leur recueil. Les empreintes génétiques des ascendants,
+descendants et collatéraux des personnes dont l'identification est recherchée ne
+peuvent être conservées dans le fichier que sous réserve du consentement
+éclairé, exprès et écrit des intéressés.
 
 Les empreintes génétiques conservées dans ce fichier ne peuvent être réalisées
 qu'à partir de segments d'acide désoxyribonucléique non codants, à l'exception

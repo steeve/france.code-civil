@@ -5,16 +5,19 @@ Sont agents de police judiciaire adjoints :
 1° Les fonctionnaires des services actifs de police nationale ne remplissant pas
 les conditions prévues par l'article 20 ;
 
-1° bis Les volontaires servant en qualité de militaire dans la gendarmerie ;
+1° bis Les volontaires servant en qualité de militaire dans la gendarmerie et
+les militaires servant au titre de la réserve opérationnelle de la gendarmerie
+nationale ne remplissant pas les conditions prévues par l'article 20-1 ;
 
 1° ter Les adjoints de sécurité mentionnés à l'article 36 de la loi n° 95-73 du
 21 janvier 1995 d'orientation et de programmation relative à la sécurité ;
 
 1° quater Les agents de surveillance de Paris ;
 
-1° quinquies Les militaires servant au titre de la réserve opérationnelle de la
-gendarmerie nationale ne remplissant pas les conditions prévues par l'article
-20-1 ;
+1° quinquies (Abrogé) ;
+
+1° sexies Les membres de la réserve civile de la police nationale qui ne
+remplissent pas les conditions prévues à l'article 20-1 ;
 
 2° Les agents de police municipale ;
 
