@@ -16,7 +16,7 @@ aérienne, selon le cas, par le directeur de l'aviation civile ou par le
 directeur régional de l'aviation civile pour l'ensemble des trois régions de
 Guadeloupe, de Guyane et de Martinique ;
 
-c) Un membre représentant l'Aéro-Club de France ;
+c) Un membre représentant l'Aéro-club de France ;
 
 d) Un membre représentant la Fédération nationale aéronautique ou la Fédération
 française de vol à voile ;
@@ -30,8 +30,9 @@ ou le directeur régional de l'aviation civile pour l'ensemble des trois région
 de Guadeloupe, de Guyane et de Martinique pourra désigner un ou plusieurs
 membres choisis en raison de leur compétence dans le ou les domaines considérés.
 
-II. - Dans le département de la Réunion, les territoires d'outre-mer et les
-collectivités territoriales de Mayotte et de Saint-Pierre-et-Miquelon :
+II. - Dans le département de la Réunion, la Polynésie française, la
+Nouvelle-Calédonie, la collectivité départementale de Mayotte et la collectivité
+territoriale de Saint-Pierre-et-Miquelon :
 
 a) Le directeur du service de l'aviation civile ou le chef du service de
 l'aviation civile ou le directeur du service d'Etat de l'aviation civile,

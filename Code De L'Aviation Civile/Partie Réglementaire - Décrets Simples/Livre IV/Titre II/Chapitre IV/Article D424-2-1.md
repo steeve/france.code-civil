@@ -1,8 +1,8 @@
 Article D424-2-1
 ----
-Les appels interjetés en vertu du b du 5 de l'article D. 424-2 font l'objet d'un
-examen préalable par une commission nommée par le ministre chargé de l'aviation
-civile et composée :
+Les recours interjetés en vertu du b du 5 de l'article D. 424-2 font l'objet
+d'un examen préalable par une commission nommée par le ministre chargé de
+l'aviation civile et composée :
 
 - d'une personnalité qualifiée, choisie en raison de ses compétences dans le
 domaine de l'aviation civile, nommée président par le ministre chargé de

@@ -1,59 +1,69 @@
 Article D424-2
 ----
-Le conseil médical de l'aéronautique est chargé :
+Le conseil médical de l'aéronautique civile :
 
-1° D'étudier et de coordonner toutes les questions d'ordre physiologique,
-médical, médico-social et d'hygiène intéressant l'aéronautique civile, notamment
-en ce qui concerne le personnel navigant, les passagers et, d'une façon
-générale, le contrôle sanitaire. Il assure en cette matière la liaison avec les
-organismes similaires étrangers.
+1. Etudie et coordonne toutes les questions d'ordre physiologique, médical,
+médico-social et d'hygiène intéressant l'aéronautique civile, notamment en ce
+qui concerne le personnel navigant, les passagers et, d'une façon générale, le
+contrôle sanitaire. Il assure en cette matière la liaison avec les organismes
+similaires étrangers.
 
-2° De se prononcer sur le caractère définitif des inaptitudes déclarées à
-l'égard des navigants par les différents centres d'expertises médicales, pour
-les licences françaises, ou par l'autorité étrangère ayant délivré la licence
-validée par le ministre chargé de l'aviation civile ou, dans le domaine des
-essais et réceptions, par le ministre de la défense.
+2. Se prononce sur le caractère définitif des inaptitudes déclarées lors des
+renouvellements d'aptitude par les différents centres d'expertise de médecine
+aéronautique à l'égard :
 
-3° De soumettre au ministre chargé de l'aviation civile des propositions
-concernant les décisions prévues par les articles L. 424-1, L. 424-2, L. 424-5
-et par l'article R. 426-17 en matière de reconnaissance d'imputabilité au
-service aérien d'une maladie ayant entraîné une incapacité temporaire ou
-permanente de travail ou le décès ;
+-des personnels navigants titulaires d'un titre aéronautique ;
 
-4° De soumettre au ministre chargé de l'aviation civile des propositions
-concernant les décisions prévues par les articles L. 424-1, L. 424-2, L. 424-5
-et par l'article R. 426-17 en matière de reconnaissance d'imputabilité au
-service aérien d'un accident aérien survenu en service ayant entraîné une
-incapacité temporaire ou permanente de travail ou le décès ;
+-des candidats à l'obtention d'un de ces titres et détenteurs d'une carte de
+stagiaire.
 
-5° De recevoir et d'examiner :
+3. Prend les décisions prévues aux articles L. 424-1, L. 424-2, L. 424-5 et par
+l'article R. 426-17 en matière de reconnaissance d'imputabilité au service
+aérien d'une maladie ayant entraîné une incapacité temporaire ou permanente de
+travail ou le décès.
 
-a) Les appels interjetés par les candidats à la qualité de personnel navigant
+4. Prend les décisions prévues aux articles L. 424-1, L. 424-2, L. 424-5 et par
+l'article R. 426-17 en matière de reconnaissance d'imputabilité au service
+aérien d'un accident aérien survenu en service ayant entraîné une incapacité
+temporaire ou permanente de travail ou le décès.
+
+5. Se prononce sur :
+
+a) Les recours interjetés par les candidats à la qualité de personnel navigant
 professionnel et non professionnel et par les personnels navigants
 professionnels et non professionnels déclarés médicalement inaptes au titre de
-l'aéronautique civile par un centre d'expertise médicale du personnel navigant
-ou par un médecin agréé ;
+l'aéronautique civile par un centre d'expertise de médecine aéronautique ou par
+un médecin examinateur ;
 
-b) Les appels interjetés par les employeurs qui estimeraient devoir contester
-les décisions prononcées par les autorités médicales compétentes en matière
-d'aptitude à une fonction du personnel navigant professionnel ;
+b) Les recours interjetés par les employeurs contre les décisions prononcées par
+les centres d'expertise de médecine aéronautique en matière d'aptitude à une
+fonction du personnel navigant professionnel ;
 
-c) Les demandes formulées par les médecins chefs des centres d'expertise
-médicale du personnel navigant professionnel de l'aéronautique civile et par les
-médecins examinateurs agréés qui, en présence d'un cas litigieux ou non prévu
-par les règlements d'aptitude physique et mentale en vigueur, estimeraient
-devoir prendre l'avis du conseil médical de l'aéronautique civile avant de
-formuler une décision d'aptitude ou d'inaptitude à une fonction du personnel
-navigant de l'aéronautique civile ;
+c) Les recours interjetés par le ministre chargé de l'aviation civile contre les
+décisions prononcées par les centres d'expertise de médecine aéronautique et les
+médecins examinateurs en matière d'aptitude à une fonction de personnel
+navigant.
 
-d) Toute demande de dérogation aux conditions d'aptitude médicale prévues par
-les règlements en vigueur en ce qui concerne le personnel navigant de
-l'aéronautique civile. Toutefois, en cas de légère déficience à l'égard d'une
-norme médicale restant compatible avec la sécurité aérienne, le médecin chef
-d'un centre médical agréé ou d'une commission de médecins, d'un centre ou
-service médical d'un département ou d'un territoire d'outre-mer agréés peut, à
-titre exceptionnel, et pour une durée maximale de quarante-cinq jours, déclarer
-un navigant professionnel apte à exercer ses fonctions jusqu'à la décision du
-conseil médical de l'aéronautique civile. (1)
+Les recours mentionnés aux a, b et c ci-dessus sont exercés dans un délai de
+deux mois suivant la date de la décision d'aptitude ou d'inaptitude.
 
-(1) Décret n° 84-202 du 19 mars 1984 (art. 1er).
+6. Se prononce sur les demandes visant à obtenir une dérogation aux conditions
+d'aptitude médicale prévues par les règlements en vigueur présentées par les
+candidats à la qualité de personnel navigant professionnel et non professionnel
+et par les personnels navigants professionnels et non professionnels déclarés
+médicalement inaptes par un centre d'expertise de médecine aéronautique ou un
+médecin examinateur.
+
+Toutefois, en cas de légère déficience par rapport à une norme médicale restant
+compatible avec la sécurité aérienne, le médecin-chef d'un centre d'expertise de
+médecine aéronautique ou le médecin examinateur peut, pour une durée maximale de
+quarante-cinq jours, déclarer les personnes visées à l'alinéa précédent aptes à
+exercer leurs fonctions jusqu'à la décision du conseil médical de l'aéronautique
+civile.
+
+7. Se prononce sur les affaires soumises par des médecins-chefs des centres
+d'expertise de médecine aéronautique et par des médecins examinateurs qui, en
+présence d'un cas litigieux ou non prévu par les règlements d'aptitude physique
+et mentale en vigueur, estiment devoir prendre l'avis du conseil médical de
+l'aéronautique civile avant de formuler une décision d'aptitude ou d'inaptitude
+à une fonction du personnel navigant de l'aéronautique civile.

@@ -7,9 +7,9 @@ discipline des personnels navigants non professionnels, par :
 l'aviation civile pour l'ensemble des trois régions de Guadeloupe, de Guyane et
 de Martinique ;
 
-- le délégué du Gouvernement dans le département de la Réunion, les territoires
-d'outre-mer et les collectivités territoriales de Mayotte et de
-Saint-Pierre-et-Miquelon.
+- le représentant de l'Etat dans le département de la Réunion, la Polynésie
+française, la Nouvelle-Calédonie, la collectivité départementale de Mayotte et
+la collectivité territoriale de Saint-Pierre-et-Miquelon.
 
 L'autorité compétente pour prononcer la sanction est celle de la circonscription
 territoriale dans le ressort de laquelle a été commise l'infraction.

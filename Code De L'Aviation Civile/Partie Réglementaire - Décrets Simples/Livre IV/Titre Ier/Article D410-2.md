@@ -1,23 +1,36 @@
 Article D410-2
 ----
-Le ministre chargé de l'aviation civile peut, par arrêté, déléguer le pouvoir de
-délivrer les titres aéronautiques visés au premier alinéa de l'article D. 410-1
-ci-dessus aux autorités suivantes :
+L'agrément des médecins examinateurs prévu à l'article L. 410-2 du présent code
+est accordé par arrêté du ministre chargé de l'aviation civile après avis du
+conseil médical de l'aéronautique civile.
 
-Directeurs des régions aéronautiques civiles en métropole ;
+L'agrément est délivré pour une durée maximale de trois ans renouvelable.
 
-Directeur de la région aéronautique civile Antilles-Guyane ;
+Est susceptible d'être agréé comme médecin examinateur le médecin qui :
 
-Préfet du département de la Réunion ;
+a) Remplit les conditions générales d'exercice de la profession de médecin, et
+notamment qui est inscrit au tableau de l'ordre des médecins. La radiation au
+tableau de l'ordre des médecins ou la suspension temporaire du droit d'exercer
+entraînent selon le cas le retrait de l'agrément ou la suspension temporaire de
+l'agrément. Les dispositions de cet alinéa ne sont pas applicables aux médecins
+des armées ;
 
-Délégués du Gouvernement de la République dans les territoires d'outre-mer.
+b) Est titulaire du ou des titres de médecine aéronautique déterminés par
+arrêté. Il doit avoir acquis une expérience et une connaissance pratique des
+conditions dans lesquelles les titulaires de licences et qualifications visées à
+l'article L. 410-1 du présent code exercent leurs activités ;
 
-Les arrêtés de délégations de pouvoirs prévus ci-dessus peuvent également
-autoriser les autorités en cause à déléguer respectivement la signature des
-actes correspondants :
+c) Dispose des équipements techniques nécessaires à la réalisation des examens
+médicaux. La liste de ces équipements est fixée par arrêté.
 
-Aux chefs de district aéronautique civil en métropole et dans les départements
-d'outre-mer ;
+A l'issue de la période de trois ans, le renouvellement de l'agrément est
+accordé au médecin examinateur qui a effectué un nombre suffisant d'examens
+médicaux, dans le respect de la réglementation applicable, et qui a suivi des
+formations dont le contenu est défini par arrêté.
 
-Aux chefs du service d'Etat de l'aviation civile dans les territoires
-d'outre-mer.
+Les conditions d'application du présent article sont déterminées par arrêté du
+ministre chargé de l'aviation civile.
+
+Les médecins des armées peuvent être agréés comme médecins examinateurs, dans
+les conditions fixées par arrêté conjoint du ministre chargé de l'aviation
+civile et du ministre de la défense.
