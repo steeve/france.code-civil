@@ -1,9 +1,8 @@
 Article R353-102
 ----
-La publication des conventions incombe au bailleur. Elle doit intervenir avant
-la mise en location des logements. Les frais de publication sont à sa charge. Le
-préfet s'assure de la publication de la convention et de ses éventuels avenants
-au fichier immobilier ou de leur inscription au livre foncier.
+La publication des conventions et de leur résiliation au bureau des hypothèques
+ou leur inscription au livre foncier, ainsi que celle des éventuels avenants, se
+fait à l'initiative de l'administration. Les frais sont à la charge du bailleur.
 
 Le préfet transmet aux organismes chargés de la liquidation et du paiement de
 l'APL une photocopie de la présente convention, de ses avenants éventuels ainsi

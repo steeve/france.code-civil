@@ -8,7 +8,9 @@ Le rapport de présentation :
 
 3° Présente le projet d'aménagement et de développement durable et expose les
 choix retenus au regard des objectifs et des principes énoncés aux articles L.
-110 et L. 121-1 et des dispositions mentionnées à l'article L. 111-1-1 ;
+110 et L. 121-1 et des dispositions mentionnées à l'article L. 111-1-1 ainsi
+que, s'il y a lieu, au regard du plan d'aménagement et de développement durable
+de Corse ;
 
 4° Précise, le cas échéant, les principales phases de réalisation envisagées ;
 

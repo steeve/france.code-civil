@@ -1,30 +1,66 @@
 Article A212-1
 ----
-Les documents visés au premier alinéa de l'article L. 212-8 sont les suivants :
+I. - Les emprunts et titres subordonnés entrant dans la composition de la marge
+de solvabilité visés au 8 de l'article R. 212-11 et au 7 de l'article R. 212-15
+doivent répondre aux conditions suivantes :
 
-a) La dénomination et l'adresse du siège social de la mutuelle ou de l'union ;
+1° Dans l'hypothèse d'une liquidation de la mutuelle ou de l'union débitrice,
+ces titres ou emprunts ne peuvent être remboursés qu'après règlement de toutes
+les autres dettes existant à la date de la liquidation ou contractés pour les
+besoins de celle-ci ;
 
-b) Le nom de l'Etat membre sur le territoire duquel elle envisage d'établir une
-succursale ;
+2° Le contrat d'émission ou d'emprunt ne comporte pas de clause prévoyant que,
+dans des circonstances déterminées autres que la liquidation de la mutuelle ou
+de l'union débitrice, la dette devra être remboursée avant l'échéance convenue ;
 
-c) L'adresse de la succursale à laquelle les autorités de l'Etat membre visé au
-b peuvent demander des informations en vue de l'exercice de leurs compétences ;
+3° Le contrat d'émission ou d'emprunt prévoit qu'il ne pourra être modifié
+qu'après que la commission de contrôle instituée à l'article L. 510-1 aura
+déclaré, après avoir vérifié que le contrat modifié continuera de remplir les
+conditions fixées au présent article, ne pas s'opposer à la modification
+envisagée ;
 
-d) Un programme d'activité relatif à l'établissement envisagé comportant les
-pièces mentionnées aux a et f (1, 3, 4, 5) de l'article A. 211-1 ainsi que, pour
-les cinq premiers exercices comptables d'activité les comptes de résultat
-prévisionnels, les prévisions relatives aux moyens financiers destinés à la
-couverture des engagements et celles relatives à la trésorerie ;
+4° Le contrat d'émission ou d'emprunt doit prévoir une échéance de remboursement
+de fonds au moins égale à cinq ans ou, lorsque aucune échéance n'est fixée, un
+préavis d'au moins cinq ans pour tout remboursement.
 
-e) Un programme d'activité complémentaire relatif à l'établissement envisagé
-comportant les pièces mentionnées aux f (2 et 10) de l'article A. 211-1 ;
+II. - Au plus tard un an avant la date prévue pour le remboursement de tout ou
+partie des fonds visés au I ci-dessus, la mutuelle ou l'union débitrice soumet à
+la Commission de contrôle instituée à l'article L. 510-1 un plan indiquant
+comment la marge de solvabilité sera maintenue, après le remboursement, au
+niveau requis par la réglementation. Ce plan n'est pas exigé si la part des
+fonds incluse dans la marge de solvabilité est progressivement et régulièrement
+ramenée à zéro par la mutuelle ou l'union au cours des cinq dernières années au
+moins avant l'échéance de remboursement.
 
-f) Dans le cas où la mutuelle ou l'union se proposerait de couvrir les risques
-définis à la branche 17 de l'article R. 211-2-1 l'option choisie parmi celles
-énoncées à l'article L. 224-7 ;
+III. - Les fonds provenant des emprunts et titres subordonnés à durée déterminée
+entrant dans la composition de la marge de solvabilité peuvent être remboursés
+par anticipation à l'initiative de la mutuelle ou de l'union débitrice si la
+Commission de contrôle instituée par l'article L. 510-1 a préalablement autorisé
+un tel remboursement, après s'être assurée que la marge de solvabilité ne
+risquait pas d'être ramenée en dessous du niveau nécessaire pour garantir
+durablement le respect de la marge requise par la réglementation.
 
-g) Le nom et les pouvoirs du mandataire général.
+Dans les mêmes conditions, la Commission de contrôle instituée par l'article L.
+510-1 peut autoriser le remboursement des fonds provenant des emprunts et titres
+subordonnés à durée indéterminée entrant dans la composition de la marge de
+solvabilité sans application du préavis prévu au 4° du paragraphe I du présent
+article.
 
-Ces documents doivent être adressés en double exemplaire, accompagnés de la
-traduction certifiée conforme dans la langue officielle de l'Etat membre de la
-succursale, des informations mentionnées aux a, c à g du présent article.
+Dans les cas visés au présent paragraphe, la mutuelle ou l'union débitrice
+soumet au moins six mois à l'avance à la Commission de contrôle instituée par
+l'article L. 510-1, à l'appui de sa demande d'autorisation, un plan indiquant
+comment la marge de solvabilité sera maintenue, après le remboursement, au
+niveau requis par la réglementation. L'absence de décision notifiée à la
+mutuelle ou à l'union à l'expiration d'un délai de six mois vaut autorisation.
+
+Sont notamment soumis aux dispositions du présent paragraphe l'amortissement
+anticipé par offre publique d'achat ou d'échange et le rachat en bourse de
+titres cotés ; toutefois, un émetteur peut racheter en bourse sans autorisation
+préalable jusqu'à 5 p 100 des titres émis, à condition d'informer la commission
+de contrôle instituée par l'article L. 510-1 des rachats effectués.
+
+IV. - Les contrats d'émission concernant des emprunts et titres à durée
+indéterminée qui prévoient formellement que tout remboursement est subordonné à
+autorisation préalable de la commission de contrôle instituée par l'article L.
+510-1 n'ont pas à prévoir le délai de préavis minimum visé au 4° du I du présent
+article.

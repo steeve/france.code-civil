@@ -1,12 +1,11 @@
 Article A212-2
 ----
-La notification prévue au deuxième alinéa de l'article L. 212-8 est accompagnée
-des informations mentionnées aux a, c, d, f, g de l'article A. 212-1, dans leur
-traduction certifiée conforme dans la langue de l'Etat de la succursale ainsi
-que d'une attestation de la commission de contrôle mentionnée à l'article L.
-510-1 certifiant que la mutuelle ou l'union dispose de la marge de solvabilité
-conformément aux dispositions du 3° de l'article L. 212-1.
+L'excédent annuel mentionné au 6 a, de l'article R. 212-15 pour le calcul des
+excédents futurs résulte de la moyenne arithmétique des excédents réalisés au
+cours des cinq dernières années.
 
-La date de réception de la notification par les autorités compétentes de l'Etat
-sur le territoire duquel la mutuelle ou l'union se propose d'ouvrir la
-succursale est communiquée à ces organismes.
+L'excédent de chaque exercice pris en compte pour ce calcul est le résultat
+technique des opérations vie, auquel sont ajoutées les participations des
+membres participants aux excédents autres que celles qui ne dépendent pas du
+résultat de l'exercice. Il n'est pas tenu compte des profits et charges à
+caractère exceptionnel.

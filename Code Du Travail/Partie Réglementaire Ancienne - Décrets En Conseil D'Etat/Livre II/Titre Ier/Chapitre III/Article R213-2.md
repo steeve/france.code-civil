@@ -1,14 +1,15 @@
 Article R213-2
 ----
-Les employeurs des industries autorisées à déroger temporairement aux
-dispositions relatives au travail de nuit, en vertu de l'article précédent,
-doivent [*obligation*] prévenir l'inspecteur du travail chaque fois qu'ils
-veulent faire usage des autorisations.
+Il peut être dérogé par une convention ou un accord collectif de branche étendu
+à la durée maximale quotidienne de 8 heures fixée au premier alinéa de l'article
+L. 213-3 pour les activités suivantes :
 
-L'avis est donné par l'envoi, avant le commencement du travail exceptionnel,
-d'une carte postale, d'une lettre sans enveloppe ou d'un télégramme [*condition
-de forme*] de façon que le timbre de la poste fasse foi de la date dudit avis.
+1° Activités caractérisées par l'éloignement entre le domicile et le lieu de
+travail du salarié ou par l'éloignement entre différents lieux de travail du
+salarié ;
 
-Une copie de l'avis est immédiatement affichée [*publicité*] dans un endroit
-apparent des ateliers et y reste apposée pendant toute la durée de la
-dérogation.
+2° Activités de garde, de surveillance et de permanence caractérisées par la
+nécessité d'assurer la protection des biens et des personnes ;
+
+3° Activités caractérisées par la nécessité d'assurer la continuité du service
+ou de la production.

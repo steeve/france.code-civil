@@ -1,8 +1,18 @@
 Article R443-34
 ----
-Lorsqu'une maison individuelle, construite dans les conditions édictées
-notamment par l'article L. 411-1, figure dans une succession et que cette maison
-est occupée, au moment du décès de l'acquéreur ou du constructeur, par le
-défunt, son conjoint ou l'un de ses enfants, il est pourvu à l'exécution de
-l'article L. 443-5 conformément aux dispositions ci-après, sous l'autorité du
-juge du tribunal d'instance du lieu de l'ouverture de la succession.
+I. - Les logements produits par les organismes d'habitation à loyer modéré dans
+les conditions définies aux articles L. 421-1 (7e alinéa), L. 422-2 (4e alinéa)
+et L. 422-3 (3e alinéa) sont vendus soit à des acquéreurs qui destinent le
+logement à leur occupation personnelle dans les conditions du II ci-dessous,
+soit à des acquéreurs qui le louent dans le cadre des dispositions du cinquième
+et du huitième alinéa du e ainsi que du g de l'article 31 (I,1°) du code général
+des impôts.
+
+II. - Un arrêté conjoint des ministres chargés du logement et des finances
+détermine le montant maximum des ressources qui ne peut être dépassé par les
+acquéreurs occupants pour les opérations réalisées par les organismes visés aux
+articles L. 421-1 et L. 422-2 du code de la construction et de l'habitation.
+
+III. - Cet arrêté détermine également le prix de vente maximum des logements
+produits dans les conditions définies aux articles L. 421-1 (7e alinéa), L.
+422-2 (4e alinéa) et L. 422-3 (3e alinéa) du même code.

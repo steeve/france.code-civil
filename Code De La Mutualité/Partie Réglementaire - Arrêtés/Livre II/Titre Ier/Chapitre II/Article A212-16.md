@@ -1,0 +1,37 @@
+Article A212-16
+----
+Pour l'application de l'article R. 212-56, la commission de contrôle mentionnée
+à l'article L. 510-1 notifie à la mutuelle ou à l'union, par lettre recommandée,
+la liste des éléments de l'actif dont la valeur est à expertiser et le nom de
+l'expert qu'elle a choisi pour chacun d'eux.
+
+Dans un délai de quinze jours au plus à dater de l'envoi de cette lettre, la
+mutuelle ou l'union fait connaître à la commission de contrôle, par lettre
+recommandée, pour chacun des éléments susmentionnés, si elle accepte l'expert
+désigné par la commission de contrôle comme expert unique, dont la conclusion
+liera les deux parties, ou si elle demande une expertise contradictoire, d'abord
+par deux experts, le premier désigné par la commission de contrôle, le second
+désigné par la mutuelle ou l'union, puis, en cas de désaccord entre ces deux
+experts, par un tiers expert, dont les conclusions lieront les deux parties.
+
+Lorsque la mutuelle ou l'union opte pour l'expertise contradictoire, elle
+indique dans sa réponse le nom, l'adresse et les qualités de son expert et joint
+à cette réponse une lettre de ce dernier acceptant la mission et se déclarant
+prêt à l'effectuer dans le délai fixé à l'alinéa suivant. Dès réception de la
+réponse de la mutuelle ou de l'union, la commission invite l'expert unique ou
+les deux experts à procéder à l'expertise. Elle communique cet avis à la
+mutuelle ou à l'union.
+
+L'expert unique ou les deux experts déposent leurs conclusions et les notifient
+aux deux parties dans un délai maximal de trois mois à dater de l'avis de la
+commission ci-dessus prévu.
+
+S'il y a désaccord entre les conclusions des deux experts, il est immédiatement
+procédé à la désignation du tiers expert, soit après accord entre les parties,
+par la commission de contrôle, soit, à défaut d'accord entre les parties, dans
+les quinze jours du dépôt des conclusions des deux experts, à la requête de la
+partie la plus diligente, par le président du tribunal de grande instance du
+siège social de la mutuelle ou de l'union.
+
+Le tiers expert dépose ses conclusions et les notifie aux deux parties dans les
+deux mois de sa désignation.
