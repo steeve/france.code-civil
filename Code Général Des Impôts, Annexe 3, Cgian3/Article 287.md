@@ -58,4 +58,7 @@ loi n° 94-631 du 25 juillet 1994 ainsi que des cessions, transmissions ou
 retraits de ces titres ;
 
 b) des contrats de crédit-bail conclus en application des dispositions de
-l'article L. 34-7 du code précité.
+l'article L. 34-7 du code précité ;
+
+16° pour la publication de chaque déclaration établie pour l'application des
+articles L. 526-1 à L. 526-3 du code de commerce.
