@@ -43,8 +43,8 @@ valeurs mentionnées aux 1°, 2°, 3° et 4° du présent article, dans des cond
 fixées par l'article R. 623-6.
 
 6° Actions des sociétés d'investissement à capital variable et parts des fonds
-communs de placement à risque régis par les sous-sections 6, 7 et 9 du chapitre
-IV du livre II du code monétaire et financier.
+communs de placement à risque régis par les sous-sections 7 et 9 de la section 1
+du chapitre IV du livre II du code monétaire et financier.
 
 7° Actions et titres donnant accès au capital négociés sur un marché reconnu.
 

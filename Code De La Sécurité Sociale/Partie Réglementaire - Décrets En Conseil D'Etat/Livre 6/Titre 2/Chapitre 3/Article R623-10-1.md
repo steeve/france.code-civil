@@ -25,5 +25,6 @@ morale, à l'exception des actifs mentionnés au 1° de l'article R. 623-3 ;
 Un même organisme ne peut détenir plus de 10 % des titres émis par un même
 émetteur à l'exception des actifs visés aux 5° et 8° de l'article R. 623-3.
 
-Le présent article n'est pas applicable aux caisses nationales des industriels
-et commerçants et des professions libérales.
+Le présent article n'est applicable ni aux disponibilités nécessaires au
+paiement d'une échéance trimestrielle de prestations, ni à celles nécessaires au
+paiement de la compensation prévue à l'article L. 134-1.
