@@ -7,3 +7,11 @@ conduite par le procureur de la République.
 Un ou plusieurs inspecteurs sont désignés pour chaque mission par le garde des
 sceaux, ministre de la justice, parmi les greffiers des tribunaux de commerce en
 activité ou honoraires.
+
+Les greffiers ainsi désignés sont choisis sur une liste comprenant quarante noms
+au moins, établie avant le début de chaque année par le bureau du Conseil
+national des greffiers des tribunaux de commerce.
+
+Avant le début de chaque année, le bureau du conseil national adresse également
+au garde des sceaux, ministre de la justice, la liste des greffiers proposés
+pour faire l'objet d'une inspection périodique au cours de l'année suivante.
