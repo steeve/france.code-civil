@@ -9,8 +9,8 @@ a) Il souscrit une déclaration écrite assurant que les produits fabriqués son
 conformes au type et qu'il prend toutes les mesures nécessaires pour que le
 procédé de fabrication assure cette conformité.
 
-Le directeur de la réglementation générale effectue ou fait effectuer des
-contrôles du produit à des intervalles aléatoires, par prélèvement dans une
+Le directeur général des postes et télécommunications effectue ou fait effectuer
+des contrôles du produit à des intervalles aléatoires, par prélèvement dans une
 série de fabrication, dans les stocks de l'entreprise ou aux différents stades
 de la distribution. Le demandeur ne peut s'opposer à ces examens.
 

@@ -3,10 +3,10 @@ Article R11-6
 Est soumise à autorisation préalable du ministre chargé des télécommunications
 l'offre de services relevant de la catégorie II mentionnée à l'article R. 11-4.
 
-La demande d'autorisation est adressée au directeur de la réglementation
-générale et comporte les éléments mentionnés à l'alinéa 2 de l'article R. 11-5.
-Il en est accusé réception dans les conditions prévues par le décret n° 83-1025
-du 28 novembre 1983.
+La demande d'autorisation est adressée au directeur général des postes et
+télécommunications et comporte les éléments mentionnés à l'alinéa 2 de l'article
+R. 11-5. Il en est accusé réception dans les conditions prévues par le décret n°
+83-1025 du 28 novembre 1983.
 
 Le ministre accorde l'autorisation sollicitée lorsque les services sont offerts
 dans des conditions qui respectent les exigences essentielles définies à

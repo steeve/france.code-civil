@@ -27,8 +27,8 @@ de l'article R. 20-22.
 
 4° Pendant la période d'inscription provisoire, dont la durée ne peut excéder un
 an, les travaux réalisés par l'entreprise peuvent être vérifiés par la direction
-de la réglementation générale, de sa propre initiative ou sur demande de la
-commission d'admission des installateurs.
+générale des postes et télécommunications, de sa propre initiative ou sur
+demande de la commission d'admission des installateurs.
 
 A l'issue de cette période, la capacité de l'entreprise est appréciée au regard
 de la compétence et de l'expérience acquises dans la spécialité choisie.

@@ -14,5 +14,5 @@ d'essais. La demande est examinée au vu de l'ensemble des rapports d'essais.
 4° Si l'ensemble des pièces, visées ci-dessus, ne font pas apparaître de points
 de non-conformité à une ou plusieurs des exigences essentielles, une attestation
 d'examen ou d'examen C.E. de type est délivrée et notifiée au demandeur par le
-directeur de la réglementation générale. Dans le cas contraire, l'attestation
-est refusée par une décision motivée, notifiée au demandeur.
+directeur général des postes et télécommunications. Dans le cas contraire,
+l'attestation est refusée par une décision motivée, notifiée au demandeur.

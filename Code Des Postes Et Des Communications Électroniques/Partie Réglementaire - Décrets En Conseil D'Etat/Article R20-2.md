@@ -39,7 +39,7 @@ au public, mais non destiné à une telle utilisation, ne peut être mis sur le
 marché qu'après une déclaration souscrite dans les conditions prévues à
 l'article R. 20-14.
 
-Le ministre chargé des télécommunications (direction de la réglementation
-générale) est l'organisme notifié compétent en France, au sens de l'article R.
-20-1. A ce titre, il reçoit les demandes d'agrément et les déclarations
-mentionnées aux 1° et 2° du présent article.
+Le ministre chargé des télécommunications (direction générale des postes et
+télécommunications) est l'organisme notifié compétent en France, au sens de
+l'article R. 20-1. A ce titre, il reçoit les demandes d'agrément et les
+déclarations mentionnées aux 1° et 2° du présent article.

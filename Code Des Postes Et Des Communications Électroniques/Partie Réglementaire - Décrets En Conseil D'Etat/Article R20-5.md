@@ -4,12 +4,12 @@ Lorsque le demandeur décide de solliciter l'agrément selon la procédure prév
 au a du 1° de l'article R. 20-2, il constitue un dossier d'agrément.
 
 Un arrêté du ministre chargé des télécommunications précise la composition de ce
-dossier, qui doit permettre au directeur de la réglementation générale d'évaluer
-la conformité du produit aux exigences essentielles qui lui sont applicables. Le
-dossier comporte un justificatif du paiement des frais de dossier. Un ou
-plusieurs exemplaires représentatifs de l'équipement terminal objet de la
-demande d'agrément sont tenus à la disposition du directeur de la réglementation
-générale.
+dossier, qui doit permettre au directeur général des postes et
+télécommunications d'évaluer la conformité du produit aux exigences essentielles
+qui lui sont applicables. Le dossier comporte un justificatif du paiement des
+frais de dossier. Un ou plusieurs exemplaires représentatifs de l'équipement
+terminal objet de la demande d'agrément sont tenus à la disposition du directeur
+général des postes et télécommunications.
 
 Un arrêté du ministre chargé des télécommunications fixe la procédure simplifiée
 d'agrément applicable aux catégories d'équipements terminaux radioélectriques
