@@ -1,8 +1,11 @@
 Article L731-2
 ----
-Ainsi qu'il est dit au I de l'article 58 de la loi de finances mentionnée à
-l'article L. 731-1, les avances accordées par le Trésor au fonds national de
-solidarité agricole, au budget annexe des prestations sociales agricoles et à la
-caisse centrale de la mutualité sociale agricole sont inscrites à un compte hors
-budget dont les conditions de fonctionnement sont fixées par arrêté du ministre
-chargé de l'agriculture et du ministre chargé du budget.
+Le conseil d'administration de l'établissement est constitué d'un président
+nommé par le ministre chargé de l'agriculture et de représentants de l'Etat. Il
+est assisté d'un comité de surveillance composé notamment de membres du
+Parlement, de représentants des organisations professionnelles agricoles
+représentatives ainsi que de représentants de la mutualité sociale agricole. La
+présidence du comité de surveillance est confiée à un membre du Parlement. La
+composition du conseil d'administration et du comité de surveillance ainsi que
+les règles et conditions de fonctionnement et de gestion de l'établissement sont
+fixées par décret en Conseil d'Etat.

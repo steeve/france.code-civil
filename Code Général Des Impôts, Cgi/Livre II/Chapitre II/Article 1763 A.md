@@ -13,4 +13,4 @@ l'article 80 ter, ainsi que les dirigeants de fait gestionnaires de la société
 la date du versement ou, à défaut de connaissance de cette date, à la date de
 déclaration des résultats de l'exercice au cours duquel les versements ont eu
 lieu, sont solidairement responsables du paiement de cette pénalité qui est
-établie et recouvrée comme en matière d'impôt sur le revenu.
+établie et recouvrée et garantie comme en matière d'impôt sur les sociétés.

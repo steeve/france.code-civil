@@ -37,12 +37,11 @@ ministre chargé du budget en vertu de l'article 4 de l'ordonnance n° 58-882 du
 et technique ;
 
 e) D'organismes publics ou privés dont la gestion est désintéressée et qui ont
-pour activité principale l'organisation de festivals ayant pour objet la
-présentation au public d'oeuvres dramatiques, lyriques, musicales,
-chorégraphiques, cinématographiques et de cirque, à la condition que les
-versements soient affectés à cette activité. Cette disposition ne s'applique pas
-aux organismes qui présentent des oeuvres à caractère pornographique ou incitant
-à la violence.
+pour activité principale la présentation au public d'oeuvres dramatiques,
+lyriques, musicales, chorégraphiques, cinématographiques et de cirque, à la
+condition que les versements soient affectés à cette activité. Cette disposition
+ne s'applique pas aux organismes qui présentent des oeuvres à caractère
+pornographique ou incitant à la violence.
 
 Les organismes mentionnés au b peuvent, lorsque leurs statuts ont été approuvés
 à ce titre par décret en Conseil d'Etat, recevoir des versements pour le compte
@@ -64,8 +63,8 @@ imposable.
 
 3. (abrogé).
 
-4. La déduction mentionnée au 1 peut être effectuée, dans la limite prévue au 2,
-pour les dons versés aux organismes agréés dans les conditions prévues à
+4. Ouvrent également droit, et dans les mêmes conditions, à la réduction d'impôt
+prévue au 1 les dons versés aux organismes agréés dans les conditions prévues à
 l'article 1649 nonies et dont l'objet exclusif est de verser des aides
 financières permettant la réalisation d'investissements tels que définis au c de
 l'article 2 du règlement (CE) n° 70/2001 de la Commission, du 12 janvier 2001,
@@ -101,7 +100,3 @@ dispositions relatives aux statuts des organismes bénéficiaires des dons, les
 conditions de retrait de l'agrément et les informations relatives aux
 entreprises aidées que les organismes communiquent au ministre ayant délivré
 l'agrément.
-
-5. (abrogé).
-
-6. (Abrogé).

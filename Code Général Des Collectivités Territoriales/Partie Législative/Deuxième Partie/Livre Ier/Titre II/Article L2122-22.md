@@ -1,6 +1,6 @@
 Article L2122-22
 ----
-- Le maire peut, en outre, par délégation du conseil municipal, être chargé, en
+Le maire peut, en outre, par délégation du conseil municipal, être chargé, en
 tout ou partie, et pour la durée de son mandat :
 
 1° D'arrêter et modifier l'affectation des propriétés communales utilisées par
@@ -14,8 +14,10 @@ la commune qui n'ont pas un caractère fiscal ;
 3° De procéder, dans les limites fixées par le conseil municipal, à la
 réalisation des emprunts destinés au financement des investissements prévus par
 le budget, et aux opérations financières utiles à la gestion des emprunts, y
-compris les opérations de couvertures des risques de taux et de change, et de
-passer à cet effet les actes nécessaires ;
+compris les opérations de couvertures des risques de taux et de change ainsi que
+de prendre les décisions mentionnées au III de l'article L. 1618-2 et au a de de
+l'article L. 2221-5-1, sous réserve des dispositions du c de ce même article, et
+de passer à cet effet les actes nécessaires ;
 
 4° De prendre toute décision concernant la préparation, la passation,
 l'exécution et le règlement des marchés de travaux, de fournitures et de

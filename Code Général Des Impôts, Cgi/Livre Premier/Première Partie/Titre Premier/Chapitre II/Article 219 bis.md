@@ -19,9 +19,6 @@ Les dispositions des premier à cinquième alinéas ne s'appliquent pas aux reve
 de l'espèce qui se rattachent à une exploitation commerciale, industrielle ou
 non commerciale.
 
-L'impôt correspondant aux revenus taxés conformément aux dispositions des
-premier à cinquième alinéas est établi, le cas échéant, sous une cote distincte.
-
 II. L'impôt établi conformément au I n'est pas mis en recouvrement si son
 montant annuel n'excède pas 150 euros.
 

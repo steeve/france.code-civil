@@ -9,10 +9,14 @@ figure au I bis de l'annexe à la loi n° 96-987 du 14 novembre 1996 précitée 
 sont affectés, entre le 1er janvier 2004 et le 31 décembre 2008 inclus, à une
 activité entrant dans le champ d'application de la taxe professionnelle, sont
 exonérés de taxe foncière sur les propriétés bâties pour une durée de cinq ans,
-sous réserve que le plafond d'effectif prévu au premier alinéa du I quinquies de
-l'article 1466 A ne soit pas dépassé. L'exonération s'applique à compter du 1er
-janvier 2004 ou à compter du 1er janvier de l'année qui suit celle où est
-intervenue cette affectation si elle est postérieure au 1er janvier 2004.
+sous réserve que les conditions d'exercice de l'activité prévues aux premier à
+troisième alinéas du I quinquies de l'article 1466 A soient remplies.
+L'exonération s'applique à compter du 1er janvier 2004 ou à compter du 1er
+janvier de l'année qui suit celle où est intervenue cette affectation si elle
+est postérieure au 1er janvier 2004. Les exonérations prenant effet en 2004
+s'appliquent dans les limites prévues par le règlement (CE) n° 69/2001 de la
+Commission du 12 janvier 2001 concernant l'application des articles 87 et 88 du
+traité CE aux aides de minimis.
 
 Cette exonération cesse de s'appliquer à compter du 1er janvier de l'année
 suivant celle où les immeubles ne sont plus affectés à une activité entrant dans

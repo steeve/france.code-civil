@@ -6,28 +6,47 @@ commerciale ou artisanale au sens de l'article 34 sont exonérées d'impôt sur 
 revenu ou d'impôt sur les sociétés à raison des bénéfices réalisés, à
 l'exclusion des plus-values constatées lors de la réévaluation des éléments
 d'actif, jusqu'au terme du vingt-troisième mois suivant celui de leur création
-et déclarés selon les modalités prévues à l'article 53 A ou, pour les
-entreprises qui se sont créées dans les zones de redynamisation urbaine entre le
-31 juillet 1998 et le 31 juillet 2003, jusqu'au terme du quarante-septième mois
-suivant celui de leur création et déclarés suivant les modalités prévues à
-l'article 53A. Dans les zones de revitalisation rurale mentionnées à l'article
-1465 A, le bénéfice des dispositions du présent article est également accordé
-aux contribuables visés au 5° du I de l'article 35. Le contribuable exerçant une
-activité de location d'immeubles n'est exonéré qu'à raison des bénéfices
-provenant des seuls immeubles situés dans une zone de revitalisation rurale. Les
-bénéfices ne sont soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés
-que pour le quart, la moitié ou les trois quarts de leur montant selon qu'ils
-sont réalisés respectivement au cours de la première, de la seconde ou de la
-troisième période de douze mois suivant cette période d'exonération.
+et déclarés selon les modalités prévues à l'article 53 A. Dans les zones de
+revitalisation rurale mentionnées à l'article 1465 A, le bénéfice des
+dispositions du présent article est également accordé aux contribuables visés au
+5° du I de l'article 35. Le contribuable exerçant une activité de location
+d'immeubles n'est exonéré qu'à raison des bénéfices provenant des seuls
+immeubles situés dans une zone de revitalisation rurale. Les bénéfices ne sont
+soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés que pour le quart,
+la moitié ou les trois quarts de leur montant selon qu'ils sont réalisés
+respectivement au cours de la première, de la seconde ou de la troisième période
+de douze mois suivant cette période d'exonération.
 
 Le bénéfice des dispositions du présent article est réservé aux entreprises qui
-se créent à compter du 1er janvier 1995 jusqu'au 31 décembre 2008 inclus dans
-les zones d'aménagement du territoire et dans les territoires ruraux de
-développement prioritaire définis au premier alinéa de l'article 1465 et dans
-les zones de redynamisation urbaine définies au I bis et, à compter du 1er
-janvier 1997, au I ter de l'article 1466 A, à la condition que le siège social
-ainsi que l'ensemble de l'activité et des moyens d'exploitation soient implantés
-dans l'une de ces zones ;
+se créent à compter du 1er janvier 1995 jusqu'au 31 décembre 2009 dans les zones
+d'aménagement du territoire ou dans les territoires ruraux de développement
+prioritaire définis au premier alinéa de l'article 1465 ou dans les zones de
+redynamisation urbaine définies au I bis et, à compter du 1er janvier 1997, au I
+ter de l'article 1466 A, à la condition que le siège social ainsi que l'ensemble
+de l'activité et des moyens d'exploitation soient implantés dans l'une de ces
+zones. Lorsqu'une entreprise exerce une activité non sédentaire, réalisée en
+partie en dehors des zones précitées, la condition d'implantation est réputée
+satisfaite dès lors qu'elle réalise au plus 15 % de son chiffre d'affaires en
+dehors de ces zones. Au-delà de 15 %, les bénéfices réalisés sont soumis à
+l'impôt sur le revenu ou à l'impôt sur les sociétés dans les conditions de droit
+commun en proportion du chiffre d'affaires réalisé en dehors des zones déjà
+citées. Cette condition de chiffre d'affaires s'apprécie exercice par exercice.
+
+Toutefois, les entreprises qui se créent à compter du 1er janvier 2004 jusqu'au
+31 décembre 2009 dans les zones de revitalisation rurale mentionnées à l'article
+1465 A sont exonérées d'impôt sur le revenu ou d'impôt sur les sociétés à raison
+des bénéfices réalisés, à l'exclusion des plus-values constatées lors de la
+réévaluation des éléments d'actif, jusqu'au terme du quarante-septième mois
+suivant celui de leur création et déclarés selon les modalités prévues à
+l'article 53 A. Les bénéfices ne sont soumis à l'impôt sur le revenu ou à
+l'impôt sur les sociétés que pour le quart, la moitié ou les trois quarts de
+leur montant selon qu'ils sont réalisés respectivement au cours de la première,
+de la deuxième ou de la troisième période de douze mois suivant cette période
+d'exonération.
+
+Les zones d'aménagement du territoire visées au deuxième alinéa s'entendent des
+zones éligibles à la prime d'aménagement du territoire classées pour les projets
+industriels.
 
 Ces dispositions s'appliquent également aux sociétés soumises à l'impôt sur les
 sociétés qui exercent une activité professionnelle au sens du 1 de l'article 92

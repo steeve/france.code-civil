@@ -76,9 +76,9 @@ souscription de ces titres par les salariés et dans les conditions fixées par
 décret.
 
 Les dispositions du présent article sont également applicables aux fonds
-solidaires qui peuvent être souscrits dans le cadre du plan partenarial
-d'épargne salariale volontaire pour la retraite mentionné à l'article L. 443-1-2
-du même code. L'actif de ces fonds solidaires est composé :
+solidaires qui peuvent être souscrits dans le cadre du plan d'épargne pour la
+retraite collectif mentionné à l'article L. 443-1-2 du même code. L'actif de ces
+fonds solidaires est composé :
 
 a) Pour une part, comprise entre 5 et 10 %, de titres émis par des entreprises
 solidaires agréées en application de l'article L. 443-3-1 du code du travail ou
@@ -92,10 +92,10 @@ b) Pour le surplus, de valeurs mobilières admises aux négociations sur un marc
 réglementé, de parts d'organismes de placement collectif en valeurs mobilières
 investies dans ces mêmes valeurs et, à titre accessoire, de liquidités.
 
-Les fonds qui peuvent être souscrits dans le cadre d'un plan partenarial
-d'épargne salariale volontaire pour la retraite ne peuvent détenir plus de 5 %
-de titres non admis aux négociations sur un marché réglementé, sans préjudice
-des dispositions du a, ou plus de 5 % de titres de l'entreprise qui a mis en
-place le plan ou de sociétés qui lui sont liées au sens de l'article L. 444-3 du
-code du travail. Cette limitation ne s'applique pas aux parts et actions
-d'organismes de placement collectif en valeurs mobilières détenues par le fonds.
+Les fonds qui peuvent être souscrits dans le cadre d'un plan d'épargne pour la
+retraite collectif ne peuvent détenir plus de 5 % de titres non admis aux
+négociations sur un marché réglementé, sans préjudice des dispositions du a, ou
+plus de 5 % de titres de l'entreprise qui a mis en place le plan ou de sociétés
+qui lui sont liées au sens de l'article L. 444-3 du code du travail. Cette
+limitation ne s'applique pas aux parts et actions d'organismes de placement
+collectif en valeurs mobilières détenues par le fonds.

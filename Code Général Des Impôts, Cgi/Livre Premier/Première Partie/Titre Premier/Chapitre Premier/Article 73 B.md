@@ -1,7 +1,7 @@
 Article 73 B
 ----
 I. Le bénéfice imposable des exploitants soumis à un régime réel d'imposition,
-établis entre le 1er janvier 1993 et le 31 décembre 2003, qui bénéficient des
+établis entre le 1er janvier 1993 et le 31 décembre 2006, qui bénéficient des
 prêts à moyen terme spéciaux ou de la dotation d'installation aux jeunes
 agriculteurs prévus par les articles R. 343-9 à R. 343-16 du code rural, est
 déterminé, au titre des soixante premiers mois d'activité, à compter de la date

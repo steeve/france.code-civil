@@ -50,8 +50,3 @@ Lorsqu'une commune cesse de remplir les conditions requises pour bénéficier de
 cette fraction de la dotation de solidarité rurale, cette commune perçoit, à
 titre de garantie non renouvelable, une attribution égale à la moitié de celle
 qu'elle a perçue l'année précédente.
-
-A compter de 1995, le montant des crédits mis en répartition est fixé par le
-comité des finances locales de telle sorte que la part de la croissance annuelle
-des crédits de la dotation de solidarité rurale consacrée à cette fraction soit
-comprise entre 5 p. 100 et 20 p. 100.

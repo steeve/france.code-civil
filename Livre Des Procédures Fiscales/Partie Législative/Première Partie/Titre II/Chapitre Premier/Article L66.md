@@ -4,7 +4,7 @@ Sont taxés d'office :
 
 1° A l'impôt sur le revenu, les contribuables qui n'ont pas déposé dans le délai
 légal la déclaration d'ensemble de leurs revenus ou qui n'ont pas déclaré, en
-application des articles 150-0 E et 150 S du code général des impôts, les gains
+application des articles 150-0 E et 150 VG du code général des impôts, les gains
 nets et les plus-values imposables qu'ils ont réalisés, sous réserve de la
 procédure de régularisation prévue à l'article L. 67 ;
 

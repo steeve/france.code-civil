@@ -51,8 +51,8 @@ sociétés.
 6° Les sommes ou valeurs attribuées aux actionnaires au titre du rachat de leurs
 actions, lorsque ce rachat est effectué dans les conditions prévues aux articles
 L. 225-208 ou L. 225-209 à L. 225-212 du code de commerce. Le régime des
-plus-values prévu, selon les cas, aux articles 39 duodecies, 150-0 A ou 150 A
-bis est alors applicable.
+plus-values prévu, selon les cas, aux articles 39 duodecies, 150-0 A ou 150 UB
+est alors applicable.
 
 7° L'attribution d'actions ou de parts sociales opérée en conséquence de
 l'incorporation de réserves au capital.

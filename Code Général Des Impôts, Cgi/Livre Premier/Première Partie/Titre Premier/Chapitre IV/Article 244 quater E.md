@@ -78,8 +78,8 @@ commun.
 II. - Les dispositions du présent article s'appliquent sur option de
 l'entreprise à compter du premier jour de l'exercice ou de l'année au titre
 duquel elle est exercée. Cette option emporte renonciation au bénéfice des
-régimes prévus aux articles 44 sexies, 208 sexies et 208 quater A. Elle est
-irrévocable.
+régimes prévus aux articles 44 sexies, 44 sexies A, 208 sexies et 208 quater A.
+Elle est irrévocable.
 
 Lorsque les investissements sont réalisés par les sociétés soumises au régime
 d'imposition de l'article 8 ou par les groupements mentionnés aux articles 239

@@ -10,7 +10,7 @@ de publicité foncière exigible sur les mutations à titre onéreux :
 additionnelle n'est pas perçue lorsque la mutation est soumise au droit
 proportionnel de 0,60 % ;
 
-2° de meubles corporels vendus publiquement dans le département (1) ;
+2° de meubles corporels vendus publiquement dans le département ;
 
 3° d'offices ministériels ayant leur siège dans le département ;
 
@@ -36,11 +36,11 @@ Comprise entre 23 000 euros et 107 000 euros : 0,40 %
 Supérieure à 107 000 euros : 1 %.
 
 La taxe est soumise aux règles qui gouvernent l'exigibilité, la restitution et
-le recouvrement des droits ou de la taxe auxquels elle s'ajoute (2).
+le recouvrement des droits ou de la taxe auxquels elle s'ajoute.
 
 Les ressources provenant de ce fonds de péréquation seront réparties entre les
 communes de moins de 5.000 habitants suivant un barème établi par le conseil
-général. Le système de répartition adopté devra tenir compte de l'importance de
-la population, des charges de voirie de la commune, de la valeur du centime, du
-pourcentage officiel de sinistre et de l'effort fiscal fourni par la
-collectivité bénéficiaire.
+général. Le système de répartition adopté devra tenir compte notamment de
+l'importance de la population, des charges de voirie de la commune, de la valeur
+du centime, du pourcentage officiel de sinistre et de l'effort fiscal fourni par
+la collectivité bénéficiaire.

@@ -2,7 +2,7 @@ Article 150-0 A
 ----
 I. - 1. Sous réserve des dispositions propres aux bénéfices industriels et
 commerciaux, aux bénéfices non commerciaux et aux bénéfices agricoles ainsi que
-de l'article 150 A bis, les gains nets retirés des cessions à titre onéreux,
+de l'article 150 UB, les gains nets retirés des cessions à titre onéreux,
 effectuées directement ou par personne interposée, de valeurs mobilières, de
 droits sociaux, de titres mentionnés au 1° de l'article 118 et aux 6° et 7° de
 l'article 120, de droits portant sur ces valeurs, droits ou titres ou de titres
@@ -67,6 +67,19 @@ valeur liquidative du plan ou la valeur de rachat pour un contrat de
 capitalisation à la date de sa clôture est ajoutée au montant des cessions
 réalisées en dehors du plan au cours de la même année ;
 
+2 bis. Au gain net réalisé depuis l'ouverture du plan d'épargne en actions
+défini à l'article 163 quinquies D en cas de clôture après l'expiration de la
+cinquième année lorsqu'à la date de cet événement la valeur liquidative du plan
+ou de rachat du contrat de capitalisation est inférieure au montant des
+versements effectués sur le plan depuis son ouverture, compte non tenu de ceux
+afférents aux retraits ou rachats n'ayant pas entraîné la clôture du plan, et à
+condition que, à la date de la clôture, les titres figurant dans le plan aient
+été cédés en totalité ou que le contrat de capitalisation ait fait l'objet d'un
+rachat total. Pour l'appréciation de la limite mentionnée au 1 du I, la valeur
+liquidative du plan ou la valeur de rachat du contrat de capitalisation à la
+date de sa clôture, est ajoutée au montant des cessions réalisées en dehors du
+plan au cours de la même année (1);
+
 3. Au gain net retiré des cessions de titres de sociétés immobilières pour le
 commerce et l'industrie non cotées ;
 
@@ -115,3 +128,23 @@ long terme lorsque les conditions fixées par l'article 163 bis A sont respecté
 
 6. Aux profits réalisés dans le cadre des placements en report par les
 contribuables qui effectuent de tels placements.
+
+7. Sur option expresse, aux cessions de parts ou actions de sociétés qui
+bénéficient du statut de jeune entreprise innovante réalisant des projets de
+recherche et de développement défini à l'article 44 sexies-0 A si :
+
+1° Les parts ou actions cédées ont été souscrites à compter du 1er janvier 2004
+;
+
+2° Le cédant a conservé les titres cédés, depuis leur libération, pendant une
+période d'au moins trois ans au cours de laquelle la société a effectivement
+bénéficié du statut mentionné au premier alinéa ;
+
+3° Le cédant, son conjoint et leurs ascendants et descendants n'ont pas détenu
+ensemble, directement ou indirectement, plus de 25 % des droits dans les
+bénéfices de la société et des droits de vote depuis la souscription des titres
+cédés.
+
+Cette option peut également être exercée lorsque la cession intervient dans les
+cinq ans qui suivent la fin du régime mentionné au premier alinéa, toutes autres
+conditions étant remplies.

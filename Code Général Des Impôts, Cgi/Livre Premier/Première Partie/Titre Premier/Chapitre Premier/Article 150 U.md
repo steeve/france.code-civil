@@ -1,40 +1,55 @@
 Article 150 U
 ----
-Pour l'application des dispositions de l'article 150 A, lorsque le produit de la
-vente d'un immeuble est intégralement apporté à une société non cotée soumise à
-l'impôt sur les sociétés par une personne physique en vue d'une augmentation de
-capital, l'imposition de la plus-value peut, sur demande expresse du
-contribuable, être reportée au moment où s'opérera la cession ou le rachat des
-droits sociaux reçus en rémunération de l'apport.
+I. - Sous réserve des dispositions propres aux bénéfices industriels et
+commerciaux, aux bénéfices agricoles et aux bénéfices non commerciaux, les
+plus-values réalisées par les personnes physiques ou les sociétés ou groupements
+qui relèvent des articles 8 à 8 ter, lors de la cession à titre onéreux de biens
+immobiliers bâtis ou non bâtis ou de droits relatifs à ces biens, sont passibles
+de l'impôt sur le revenu dans les conditions prévues aux articles 150 V à 150
+VH.
 
-Lorsque le produit de la cession excède 500 000 F (1), le montant de la
-plus-value dont l'imposition est reportée est déterminé selon le rapport
-existant entre 500 000 F (1) et le prix de cession. Dans ce cas, le montant de
-l'apport peut être limité à 500 000 F (1).
+Ces dispositions s'appliquent, sous réserve de celles prévues au 3° du I de
+l'article 35, aux plus-values réalisées lors de la cession d'un terrain divisé
+en lots destinés à être construits.
 
-La plus-value dont l'imposition a été reportée est exonérée à condition qu'à
-l'issue de la cinquième année qui suit l'augmentation de capital, les capitaux
-propres n'aient pas fait l'objet d'une réduction.
+II. - Les dispositions du I ne s'appliquent pas aux immeubles, aux parties
+d'immeubles ou aux droits relatifs à ces biens :
 
-La plus-value est exonérée lorsque la réduction des capitaux propres est
-exclusivement motivée par l'apurement des pertes subies par la société après
-l'augmentation de capital.
+1° Qui constituent la résidence principale du cédant au jour de la cession ;
 
-Ces dispositions s'appliquent aux plus-values de cession, autres que celles qui
-sont mentionnées à l'article 150 J, réalisées entre le 1er janvier et le 31
-décembre 1992 à condition que l'augmentation de capital intervienne dans les
-trente jours de la cession de l'immeuble et qu'elle bénéficie à une société dont
-le capital est détenu pour plus de 50 p. 100 par des personnes physiques et dont
-le chiffre d'affaires de l'exercice précédant l'apport, rapporté s'il y a lieu à
-un exercice de douze mois, n'excède pas 500 millions de francs (1) hors taxes si
-l'entreprise exerce son activité principale dans le secteur de l'industrie et
-100 millions de francs (1) hors taxes si elle exerce son activité dans un autre
-secteur.
+2° Qui constituent l'habitation en France des personnes physiques, non
+résidentes en France, ressortissantes d'un Etat membre de la Communauté
+européenne, dans la limite d'une résidence par contribuable et à condition que
+le cédant ait été fiscalement domicilié en France de manière continue pendant au
+moins deux ans à un moment quelconque antérieurement à la cession ;
 
-Ces dispositions sont exclusives de l'application des dispositions des articles
-83 ter, 199 undecies, 199 terdecies A et 238 bis HE.
+3° Qui constituent les dépendances immédiates et nécessaires des biens
+mentionnés aux 1° et 2°, à la condition que leur cession intervienne
+simultanément avec celle desdits immeubles ;
 
-Un décret fixe les conditions d'application du présent article, et notamment les
-obligations déclaratives du contribuable.
+4° Pour lesquels une déclaration d'utilité publique a été prononcée en vue d'une
+expropriation, à condition qu'il soit procédé au remploi de l'intégralité de
+l'indemnité par l'acquisition, la construction, la reconstruction ou
+l'agrandissement d'un ou de plusieurs immeubles dans un délai de douze mois à
+compter de la date de perception de l'indemnité ;
 
-(1) Montants périmés au 1er janvier 2002.
+5° Qui sont échangés dans le cadre d'opérations de remembrement mentionnées à
+l'article 1055, d'opérations effectuées conformément aux articles L. 122-1, L.
+123-1, L. 123-24 et L. 124-1 du code rural ainsi qu'aux soultes versées en
+application de l'article L. 123-4 du même code. En cas de vente de biens reçus à
+cette occasion, la plus-value est calculée à partir de la date et du prix
+d'acquisition du bien originel ou de la partie constitutive la plus ancienne
+dans les cas de vente de lots remembrés ;
+
+6° Dont le prix de cession est inférieur ou égal à 15 000 Euros. Le seuil de 15
+000 Euros s'apprécie en tenant compte de la valeur en pleine propriété de
+l'immeuble ou de la partie d'immeuble.
+
+III. - Les dispositions du I ne s'appliquent pas aux plus-values réalisées par
+les titulaires de pensions de vieillesse ou de la carte d'invalidité
+correspondant au classement dans la deuxième ou la troisième des catégories
+prévues à l'article L. 341-4 du code de la sécurité sociale qui, au titre de
+l'avant-dernière année précédant celle de la cession, ne sont pas passibles de
+l'impôt de solidarité sur la fortune et dont le revenu fiscal de référence
+n'excède pas la limite prévue au I de l'article 1417, appréciés au titre de
+cette année.

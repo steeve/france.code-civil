@@ -20,6 +20,6 @@ groupement ;
 3° l'abattement prévu au 4 bis de l'article 158 est opéré, s'il y a lieu, sur le
 bénéfice imposable au nom de chaque associé ;
 
-4° les limites des déductions prévues au premier alinéa du I des articles 72 D
-et 72 D bis sont multipliées par le nombre d'associés sans pouvoir excéder trois
-fois les limites mentionnées.
+4° Les limites globales prévues au premier alinéa du I de l'article 72 D ter
+sont multipliées par le nombre d'associés sans pouvoir excéder trois fois les
+limites mentionnées.

@@ -10,7 +10,9 @@ application de l'article 279-0 bis. Ouvrent également droit au crédit d'impôt
 sur le revenu, dans les mêmes conditions, les dépenses payées entre le 1er
 octobre 2001 et le 31 décembre 2005 pour l'acquisition de matériaux d'isolation
 thermique et d'appareils de régulation de chauffage définis par arrêté du
-ministre chargé du budget.
+ministre chargé du budget ainsi que les dépenses payées, entre le 1er janvier
+2004 et le 31 décembre 2005, pour l'acquisition de chaudières à condensation
+utilisant les combustibles gazeux.
 
 Ouvre également droit au crédit d'impôt le coût des équipements de production
 d'énergie utilisant une source d'énergie renouvelable intégrés à un logement
@@ -23,7 +25,12 @@ a fait l'objet, entre les mêmes dates, de la déclaration d'ouverture de chanti
 prévue à l'article R. 421-40 du code de l'urbanisme. Il en est de même des
 dépenses payées entre le 1er janvier 2001 et le 31 décembre 2005 au titre de
 l'acquisition des mêmes équipements fournis dans le cadre de travaux
-d'installation réalisés dans l'habitation principale du contribuable.
+d'installation réalisés dans l'habitation principale du contribuable. Ouvrent
+également droit au crédit d'impôt, dans les conditions prévues pour les
+équipements de production d'énergie utilisant une source d'énergie renouvelable,
+les dépenses réalisées entre le 1er janvier 2004 et le 31 décembre 2005 pour
+l'installation ou le remplacement d'équipements spécialement conçus pour les
+personnes âgées ou handicapées définis par arrêté du ministre chargé du budget.
 
 Ouvre également droit au crédit d'impôt le coût des dépenses payées avant le 31
 décembre 2010 pour la réalisation de travaux prescrits aux propriétaires
@@ -48,15 +55,17 @@ enfants réputés à charge égale de chacun des parents sont décomptés en pre
 Le crédit d'impôt s'applique pour le calcul de l'impôt dû au titre de l'année
 d'achèvement du logement auquel s'intègrent les équipements ou de son
 acquisition si elle est postérieure, ou du paiement de la dépense par le
-contribuable dans les cas prévus aux premier et troisième alinéas et à la
-dernière phrase du deuxième alinéa du 1.
+contribuable dans les cas prévus aux premier et troisième alinéas et à
+l'avant-dernière phrase du deuxième alinéa du 1.
 
 Le crédit d'impôt est égal à 15 % du montant des équipements, matériaux et
-appareils et du montant des travaux mentionnés au troisième alinéa du 1 figurant
-sur la facture de l'entreprise ayant réalisé les travaux ou, le cas échéant,
-pour les équipements de production d'énergie utilisant une source d'énergie
-renouvelable, du coût de ces équipements figurant sur une attestation fournie
-par le vendeur du logement.
+appareils et du montant des travaux mentionnés à la dernière phrase du deuxième
+alinéa et au troisième alinéa du 1 figurant sur la facture de l'entreprise ayant
+réalisé les travaux ou, le cas échéant, pour les équipements de production
+d'énergie utilisant une source d'énergie renouvelable, du coût de ces
+équipements figurant sur une attestation fournie par le vendeur du logement. Ce
+taux est porté à 25 % pour les travaux mentionnés à la dernière phrase du
+deuxième alinéa du 1.
 
 Il est accordé sur présentation de l'attestation mentionnée au troisième alinéa
 ou des factures, autres que les factures d'acompte, des entreprises ayant
@@ -64,11 +73,10 @@ réalisé les travaux et comportant, outre les mentions prévues à l'article 28
 l'adresse de réalisation des travaux, leur nature ainsi que la désignation et le
 montant des équipements, matériaux et appareils.
 
-Le crédit d'impôt est imputé sur l'impôt sur le revenu dû au titre de l'année au
-cours de laquelle les dépenses ont été payées, après imputation des réductions
-d'impôt mentionnées aux articles 199 quater B à 200, de l'avoir fiscal, des
-crédits d'impôt et des prélèvements ou retenues non libératoires. S'il excède
-l'impôt dû, l'excédent est restitué.
+Le crédit d'impôt est imputé sur l'impôt sur le revenu après imputation des
+réductions d'impôt mentionnées aux articles 199 quater B à 200, de l'avoir
+fiscal, des crédits d'impôt et des prélèvements ou retenues non libératoires.
+S'il excède l'impôt dû, l'excédent est restitué.
 
 3. Lorsque le bénéficiaire du crédit d'impôt est remboursé dans un délai de cinq
 ans de tout ou partie du montant des dépenses qui ont ouvert droit à cet

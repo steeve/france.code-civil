@@ -37,11 +37,11 @@ bis de l'article 1455.
 
 La base d'imposition est réduite de moitié pour les artisans régulièrement
 inscrits au répertoire des métiers et qui restent portés sur la liste électorale
-de la chambre de commerce et d'industrie de leur circonscription (1).
+de la chambre de commerce et d'industrie de leur circonscription.
 
-Pour 2003, le produit de la taxe est arrêté par les chambres de commerce et
-d'industrie sans pouvoir augmenter de plus de 4 % par rapport au montant décidé
-pour 2002.
+II. - Pour 2003, le produit de la taxe est arrêté par les chambres de commerce
+et d'industrie sans pouvoir augmenter de plus de 4 % par rapport au montant
+décidé pour 2002.
 
 Cette limite est portée à 7 % pour les chambres de commerce et d'industrie pour
 lesquelles le rapport constaté au titre de l'année 2002 entre, d'une part, le
@@ -65,6 +65,18 @@ Par ailleurs, le produit de la taxe est arrêté par les chambres de commerce et
 d'industrie de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion
 sans pouvoir augmenter de plus de 7 % par rapport au montant décidé pour 2002.
 
+Pour 2004, le produit de la taxe est arrêté par les chambres de commerce et
+d'industrie sans pouvoir augmenter de plus de 1,7 % par rapport au montant
+décidé en 2003 conformément au dix-huitième alinéa.
+
+Pour les chambres de commerce et d'industrie de circonscription départementale
+en Alsace et en Moselle, assurant l'inspection de l'apprentissage et dont le
+rapport constaté au titre de l'année 2003 entre le produit de la taxe et le
+total des bases imposées est inférieur d'au moins 15 % au rapport moyen constaté
+en 2002 au niveau national, la limite de l'augmentation de la taxe est portée à
+1,3 million d'euros à condition que le montant d'imposition additionnelle à la
+taxe professionnelle perçu en 2003 ne dépasse pas 15 millions d'euros.
+
 Dans un département où il n'y a qu'une chambre de commerce et d'industrie le
 rôle comprend les redevables de la taxe pour frais de chambres de commerce de
 tout le département. S'il y a dans le département plusieurs chambres de commerce
@@ -72,9 +84,25 @@ et d'industrie, le rôle de chacune d'elles comprend les redevables de la taxe
 qui sont imposés dans sa circonscription.
 
 Un décret détermine les conditions d'application de la taxe prévue au présent
-article (2).
+article.
 
-II. - Une chambre de commerce et d'industrie créée par dissolution de deux ou
+III. - A compter de 2004, la différence constatée au titre d'une année entre le
+montant maximal du produit de la taxe résultant des dispositions du II et le
+montant du produit arrêté conformément à ces mêmes dispositions peut être
+ajoutée, partiellement ou totalement, au produit de la taxe arrêté au titre de
+l'une des trois années suivantes.
+
+En cas de dissolution de chambres de commerce et d'industrie et de création
+d'une nouvelle chambre de commerce et d'industrie, les différences constatées en
+application du premier alinéa par les chambres dissoutes ne peuvent pas être
+ajoutées au produit arrêté par la nouvelle chambre.
+
+Les décisions relatives aux produits transmises aux services fiscaux dans les
+conditions prévues au I de l'article 1639 A doivent indiquer le montant à
+reporter conformément au premier alinéa ainsi que les modalités selon lesquelles
+le produit de l'année est majoré dans les conditions prévues audit alinéa.
+
+IV. - Une chambre de commerce et d'industrie créée par dissolution de deux ou
 plusieurs chambres de commerce et d'industrie vote le produit de la taxe
 additionnelle à la taxe professionnelle à compter de l'année suivant celle de sa
 création.
@@ -143,19 +171,19 @@ la chambre de commerce et d'industrie et le taux calculé conformément au a, ce
 écart étant divisé par le nombre d'années restant à courir compte tenu de la
 durée fixée au 1.
 
-III. - En cas de création postérieurement au 1er octobre (3) d'une chambre de
-commerce et d'industrie par dissolution de deux ou plusieurs chambres de
-commerce et d'industrie, les délibérations prises en application de l'article
-1602 A par les chambres dissoutes sont applicables aux opérations réalisées
-l'année de la création de la nouvelle chambre de commerce et d'industrie.
+V. - En cas de création postérieurement au 1er octobre d'une chambre de commerce
+et d'industrie par dissolution de deux ou plusieurs chambres de commerce et
+d'industrie, les délibérations prises en application de l'article 1602 A par les
+chambres dissoutes sont applicables aux opérations réalisées l'année de la
+création de la nouvelle chambre de commerce et d'industrie.
 
 Les exonérations applicables antérieurement à la création d'une nouvelle chambre
 de commerce et d'industrie sont maintenues pour la durée restant à courir.
 
-IV. - En cas de création d'une nouvelle chambre au cours d'une période de
+VI. - En cas de création d'une nouvelle chambre au cours d'une période de
 réduction d'écarts de taux résultant d'une création antérieure par dissolution
 de chambres, les calculs visés au II sont effectués en comparant les taux
 d'imposition additionnelle à la taxe professionnelle de la chambre issue de la
 première dissolution et de la chambre tierce, la période de réduction des écarts
 de taux ne pouvant être plus courte que le nombre d'années restant à courir pour
-achever la première opération de création (4).
+achever la première opération de création.

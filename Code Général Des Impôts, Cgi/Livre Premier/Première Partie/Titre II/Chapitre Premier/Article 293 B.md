@@ -1,9 +1,11 @@
 Article 293 B
 ----
 I. - 1. Pour leurs livraisons de biens et leurs prestations de services, les
-assujettis établis en France bénéficient d'une franchise qui les dispense du
-paiement de la taxe sur la valeur ajoutée lorsqu'ils n'ont pas réalisé au cours
-de l'année civile précédente un chiffre d'affaires supérieur à :
+assujettis établis en France, à l'exclusion des redevables qui exercent une
+activité occulte au sens du deuxième alinéa de l'article L. 169 du livre des
+procédures fiscales, bénéficient d'une franchise qui les dispense du paiement de
+la taxe sur la valeur ajoutée lorsqu'ils n'ont pas réalisé au cours de l'année
+civile précédente un chiffre d'affaires supérieur à :
 
 a. 76 300 euros s'ils réalisent des livraisons de biens, des ventes à consommer
 sur place ou des prestations d'hébergement ;

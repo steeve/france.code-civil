@@ -1,7 +1,5 @@
 Article L4332-4
 ----
-- Depuis le 1er janvier 1993, un fonds de correction des déséquilibres régionaux
-est alimenté, notamment, par un prélèvement sur les recettes fiscales de
-certaines régions.
-
-Il est destiné à éviter l'aggravation des disparités régionales.
+Les régions reçoivent une dotation forfaitaire et, éventuellement, une dotation
+de péréquation. L'ensemble de ces sommes évolue comme la dotation globale de
+fonctionnement mise en répartition.

@@ -10,10 +10,4 @@ de remboursement visés au 2° de l'article 118 et afférents à des valeurs ém
 
 - 25 % pour tous les autres revenus.
 
-Ce taux est porté à 50 p. 100 pour les dividendes mentionnés au 8° du 3 de
-l'article 223 sexies lorsqu'ils sont versés à des personnes dont le domicile
-fiscal ou le siège de direction effective est situé dans un pays ou territoire
-hors République française, n'ayant pas conclu avec la France de convention
-fiscale en vue d'éviter les doubles impositions.
-
 2. (Abrogé)

@@ -54,8 +54,8 @@ de l'article 157 et au IV de l'article 163 quinquies D.
 l'article 163 quinquies D s'entend de la différence entre la valeur liquidative
 du plan ou la valeur de rachat pour les contrats de capitalisation à la date du
 retrait et le montant des versements effectués sur le plan depuis la date de son
-ouverture, à l'exception de ceux afférents aux retraits ou rachats réalisés dans
-les conditions de la deuxième phrase du 2 du II de l'article 150-0 A.
+ouverture, à l'exception de ceux afférents aux retraits ou rachats n'ayant pas
+entraîné la clôture du plan (1).
 
 7. Le prix d'acquisition des titres acquis en vertu d'un engagement d'épargne à
 long terme est réputé égal au dernier cours coté au comptant de ces titres
@@ -73,9 +73,11 @@ Pour les actions acquises avant le 1er janvier 1990, le prix d'acquisition est
 réputé égal à la valeur de l'action à la date de la levée de l'option.
 
 9. En cas de vente ultérieure de titres reçus à l'occasion d'une opération
-mentionnée à l'article 150-0 B, le gain net est calculé à partir du prix ou de
-la valeur d'acquisition des titres échangés, diminué de la soulte reçue ou
-majoré de la soulte versée lors de l'échange.
+mentionnée à l'article 150-0 B, au quatrième alinéa de l'article 150 A bis en
+vigueur avant la publication de la loi de finances pour 2004 (n° 2003-1311 du 30
+décembre 2003) et au II de l'article 150 UB le gain net est calculé à partir du
+prix ou de la valeur d'acquisition des titres échangés, diminué de la soulte
+reçue ou majoré de la soulte versée lors de l'échange.
 
 10. En cas d'absorption d'une société d'investissement à capital variable par un
 fonds commun de placement réalisée conformément à la réglementation en vigueur,

@@ -88,8 +88,8 @@ au modèle fourni par l'administration faisant apparaître les renseignements
 nécessaires au suivi des plus-values dont l'imposition est reportée conformément
 au premier alinéa du a du I. Un décret précise le contenu de cet état.
 
-III. Les dispositions de l'article 41 et du II de l'article 93 quater ne
-s'appliquent pas aux plus-values constatées à l'occasion d'apports en sociétés
-visées aux I et II du présent article.
+III. Les dispositions du II de l'article 93 quater ne s'appliquent pas aux
+plus-values constatées à l'occasion d'apports en sociétés visées aux I et II du
+présent article.
 
 IV. (Abrogé à compter du 1er janvier 2000).

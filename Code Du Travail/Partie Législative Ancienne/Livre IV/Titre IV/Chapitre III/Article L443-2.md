@@ -12,7 +12,7 @@ affecte au plan d'épargne d'entreprise de son nouvel employeur ne sont pas
 prises en compte pour l'appréciation du plafond mentionné à l'alinéa précédent.
 Les montants transférés entraînent la clôture du plan précédent et ne donnent
 pas lieu au versement complémentaire de l'entreprise prévu à l'article L. 443-7.
-Les conditions dans lesquelles le transfert peut êtré réalisé sont fixées par
+Les conditions dans lesquelles le transfert peut être réalisé sont fixées par
 décret en Conseil d'Etat.
 
 Les sommes détenues dans un plan d'épargne interentreprises que le salarié
@@ -23,8 +23,7 @@ au premier alinéa. Les conditions dans lesquelles le transfert peut être réal
 sont fixées par le décret en Conseil d'Etat mentionné à l'alinéa précédent.
 
 De même, les sommes ou valeurs transférées d'un plan d'épargne mentionné aux
-articles L. 443-1 et L. 443-1-1 au plan partenarial d'épargne salariale
-volontaire pour la retraite, au terme du délai fixé à l'article L. 443-6, ne
-sont pas prises en compte pour l'appréciation du plafond mentionné au premier
-alinéa. Ce transfert peut donner lieu au versement complémentaire de
-l'entreprise prévu à l'article L. 443-7.
+articles L. 443-1 et L. 443-1-1 au plan d'épargne pour la retraite collectif, au
+terme du délai fixé à l'article L. 443-6, ne sont pas prises en compte pour
+l'appréciation du plafond mentionné au premier alinéa. Ce transfert peut donner
+lieu au versement complémentaire de l'entreprise prévu à l'article L. 443-7.

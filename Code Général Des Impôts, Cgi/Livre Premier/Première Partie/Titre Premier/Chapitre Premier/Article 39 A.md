@@ -31,7 +31,9 @@ matériels considérés, les taux d'amortissement sont majorés.
 quinze années et dont la construction est achevée postérieurement à la date de
 la publication de la loi n° 62-873 du 31 juillet 1962, à l'exclusion cependant
 des immeubles ayant fait l'objet de l'amortissement exceptionnel prévu au 1 de
-l'article 39 quinquies A.
+l'article 39 quinquies A ;
+
+3° Aux satellites de communication (1).
 
 3. (périmé).
 

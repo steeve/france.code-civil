@@ -10,14 +10,15 @@ L'exonération s'applique aux constructions de logements neufs à usage locatif 
 affectés à l'habitation principale, mentionnés aux 3° et 5° de l'article L.
 351-2 du code de la construction et de l'habitation lorsqu'ils sont financés à
 concurrence de plus de 50 % au moyen d'un prêt prévu à l'article R. 331-1 du
-même code, et qu'ils bénéficient des dispositions des 2 ou 3 du I de l'article
-278 sexies. Pour les constructions financées dans les conditions prévues aux
-articles R. 331-14 à R. 331-16 du code de la construction et de l'habitation, la
-condition de financement s'apprécie en tenant compte des subventions versées par
-l'Etat, L'Agence nationale pour la rénovation urbaine, les collectivités
-territoriales et les établissements publics de coopération intercommunale ainsi
-que des prêts consentis au titre de la participation des employeurs à l'effort
-de construction.
+même code, et qu'ils bénéficient des dispositions des 2, 3 ou 5 du I de
+l'article 278 sexies. Pour les constructions visées au 5 de l'article 278
+sexies, le taux de 50 % est ramené à 30 %. Pour les constructions financées dans
+les conditions prévues aux articles R. 331-14 à R. 331-16 du code de la
+construction et de l'habitation, la condition de financement s'apprécie en
+tenant compte des subventions versées par l'Etat, L'Agence nationale pour la
+rénovation urbaine, les collectivités territoriales et les établissements
+publics de coopération intercommunale ainsi que des prêts consentis au titre de
+la participation des employeurs à l'effort de construction.
 
 Toutefois, la durée de l'exonération est ramenée à dix ans pour les logements en
 accession à la propriété pour la réalisation desquels aucune demande de prêt n'a

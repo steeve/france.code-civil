@@ -20,8 +20,9 @@ La déduction prévue au premier alinéa ne s'applique qu'à la fraction du prix
 revient des investissements réalisés par les entreprises qui excède le montant
 des apports en capital ouvrant droit au profit de leurs associés aux déductions
 prévues au II du présent article et aux articles 199 undecies ou 199 undecies A
-et le montant des apports en capital effectués par les sociétés de financement
-définies par l'article 199 undecies A.
+et le montant des financements, apports en capital et prêts participatifs,
+apportés par les sociétés de financement définies au g du 2 de l'article 199
+undecies A.
 
 La déduction prévue au premier alinéa s'applique aux travaux de rénovation et de
 réhabilitation d'h&lt;CB&gt;tel, de résidence de tourisme et de village de

@@ -10,12 +10,11 @@ de cet état.
 
 II. Les plus-values dégagées sur des éléments d'actif non amortissables à
 l'occasion d'opérations d'échange, de fusion, d'apport, de scission, de
-transformation ou de transmission à titre gratuit d'entreprise et dont
-l'imposition a été reportée, par application des dispositions des 5 bis, 7, 7
-bis de l'article 38 et de celles de l'article 41, du 2 de l'article 115, de
-celles des articles 151 octies, 151 octies A, 210 A, 210 B, 210 D, 248 A et 248
-E sont portées sur un registre tenu par l'entreprise qui a inscrit ces biens à
-l'actif de son bilan.
+transformation et dont l'imposition a été reportée, par application des
+dispositions des 5 bis, 7, 7 bis de l'article 38 et de celles du 2 de l'article
+115, de celles des articles 151 octies, 151 octies A, 210 A, 210 B, 210 D, 248 A
+et 248 E sont portées sur un registre tenu par l'entreprise qui a inscrit ces
+biens à l'actif de son bilan.
 
 Ce registre mentionne la date de l'opération, la nature des biens transférés,
 leur valeur comptable d'origine, leur valeur fiscale ainsi que leur valeur
@@ -29,11 +28,6 @@ III. Pour les scissions de société placées sous le régime prévu aux article
 A et 210 B, les sociétés bénéficiaires des apports doivent produire un état
 indiquant la situation de propriété, au cours de l'exercice, des titres
 représentatifs des apports que les associés de la société scindée se sont
-engagés à conserver pendant trois ans (1). Cet état, conforme au modèle fixé par
+engagés à conserver pendant trois ans. Cet état, conforme au modèle fixé par
 l'administration, doit être joint à leurs déclarations de résultats souscrites
 au titre de la période couverte par l'engagement de conservation des titres.
-
-(1) Ces dispositions s'appliquent aux opérations d'apports partiel et de
-scissions réalisées à compter du 15 septembre 1999 et à celles déjà réalisées à
-cette date pour lesquelles les engagements de conservation sont en cours au 15
-septembre 1999.

@@ -1,33 +1,69 @@
 Article 41
 ----
-I. La plus-value du fonds de commerce (éléments corporels et incorporels),
-constatée à l'occasion du décès de l'exploitant ou de la cession ou de la
-cessation par ce dernier de son exploitation, n'est pas comprise dans le
-bénéfice imposable lorsque l'exploitation est continuée, soit par un ou
-plusieurs héritiers ou successibles en ligne directe ou par le conjoint
-survivant, soit par une société en nom collectif, en commandite simple ou à
-responsabilité limitée constituée exclusivement, soit entre lesdits héritiers ou
-successibles en ligne directe, soit entre eux et le conjoint survivant ou le
-précédent exploitant.
+I. - Les plus-values soumises au régime des articles 39 duodecies à 39
+quindecies et réalisées par une personne physique à l'occasion de la
+transmission à titre gratuit d'une entreprise individuelle peuvent bénéficier
+des dispositions suivantes :
 
-L'application de cette disposition est subordonnée à l'obligation pour les
-nouveaux exploitants :
+a. L'imposition des plus-values afférentes aux éléments de l'actif immobilisé
+constatées à l'occasion de cette transmission fait l'objet d'un report jusqu'à
+la date de cession ou de cessation de l'entreprise ou jusqu'à la date de cession
+d'un de ces éléments si elle est antérieure.
 
-1° De n'apporter aucune augmentation aux évaluations des éléments d'actif
-figurant au dernier bilan dressé par l'ancien exploitant, la différence entre la
-valeur d'apport desdits éléments et leur évaluation comptable pouvant toutefois,
-en cas de constitution d'une société à responsabilité limitée, être inscrite à
-l'actif du bilan social sous un poste dont il sera fait abstraction pour le
-calcul des amortissements à prélever sur les bénéfices et des plus-values
-ultérieures résultant de la réalisation de ces éléments ;
+L'imposition des plus-values visées au premier alinéa est effectuée à la date à
+laquelle il est mis fin au report au nom du ou des bénéficiaires de la
+transmission de l'entreprise individuelle.
 
-2° D'inscrire immédiatement à leur passif, en contrepartie des éléments d'actif
-pris en charge, des provisions pour renouvellement de l'outillage et du matériel
-égales à celles figurant dans les écritures du précédent exploitant.
+b. En cas de cession à titre onéreux de ses droits par un bénéficiaire, il est
+mis fin au report d'imposition pour le montant de la plus-value afférente à ses
+droits. L'imposition des plus-values est effectuée au nom de ce bénéficiaire.
 
-II. Les dispositions du I ne s'appliquent pas aux plus-values constatées à
-l'occasion de transmissions d'entreprises à titre onéreux ou d'apports en
-sociétés visés aux I et II de l'article 151 octies.
+c. En cas de nouvelle transmission à titre gratuit par l'un des bénéficiaires de
+la transmission visée au premier alinéa, le report est maintenu si le
+bénéficiaire de la nouvelle transmission prend l'engagement d'acquitter l'impôt
+sur la plus-value à la date où l'un des événements cités au a ou b se réalise. A
+défaut, l'imposition des plus-values afférentes aux éléments transmis est
+effectuée au nom du donateur ou du défunt.
 
-Elles sont applicables à toute transmission à titre gratuit d'entreprise
-individuelle.
+d. En cas d'apport en société dans les conditions prévues aux I et II de
+l'article 151 octies, le report d'imposition est maintenu si le ou les
+bénéficiaires ayant réalisé l'apport prennent l'engagement d'acquitter l'impôt
+sur la plus-value en report à la date ou l'un des événements cités au a se
+réalise. A défaut, l'imposition des plus-values afférentes aux éléments apportés
+est effectuée au nom du ou des apporteurs. En cas de cession de tout ou partie
+des titres reçus en rémunération de cet apport, il est mis fin au report au nom
+du ou des bénéficiaires ayant réalisé l'apport.
+
+e. Pour l'application du présent article, la mise en location-gérance de tout ou
+partie de l'entreprise est assimilée à une cessation totale ou partielle.
+
+II. - Lorsque l'activité est poursuivie pendant au moins cinq ans à compter de
+la date de la transmission visée au premier alinéa du I, les plus-values
+demeurant en report définies au premier alinéa du a du I sont définitivement
+exonérées.
+
+III. - Les profits afférents aux stocks constatés à l'occasion de la
+transmission visée au premier alinéa du I ne sont pas imposés si le ou les
+nouveaux exploitants bénéficiaires inscrivent ces stocks à la valeur comptable
+pour laquelle ils figurent au bilan de l'ancienne entreprise.
+
+IV. - a. Le régime défini au I s'applique sur option exercée par le ou les
+exploitants et, si tel est le cas, par les autres bénéficiaires lors de
+l'acceptation de la transmission par ces derniers.
+
+b. Le ou les bénéficiaires ayant opté pour le régime défini au I communiquent à
+l'administration un état faisant apparaître le montant des plus-values réalisées
+lors de la transmission et dont l'imposition est reportée conformément aux a, c
+et d du I.
+
+c. Le ou les bénéficiaires mentionnés au a doivent joindre à la déclaration
+prévue à l'article 170, au titre de l'année en cours à la date de la
+transmission et des années suivantes, un état faisant apparaître les
+renseignements nécessaires au suivi des plus-values dont l'imposition est
+reportée conformément aux a, c et d du I.
+
+d. Le ou les exploitants mentionnés au a joignent à leur déclaration de résultat
+un état faisant apparaître, pour chaque nature d'élément, les renseignements
+nécessaires au calcul des plus-values imposables.
+
+V. - Un décret précise les obligations déclaratives.

@@ -40,6 +40,10 @@ publique et rendus nécessaires par ces démolitions. Il en est de même des
 travaux de transformation en logement de tout ou partie d'un immeuble, dans le
 volume bâti existant dont la conservation est conforme au plan de sauvegarde et
 de mise en valeur ou à la déclaration d'utilité publique des travaux de
+restauration. Il en est de même des travaux de réaffectation à l'habitation de
+tout ou partie d'un immeuble originellement destiné à l'habitation et ayant
+perdu cet usage, dont la conservation est conforme au plan de sauvegarde et de
+mise en valeur ou à la déclaration d'utilité publique des travaux de
 restauration. Pour l'application de ces dispositions, les conditions mentionnées
 au 3° du I de l'article 156 doivent être remplies ;
 

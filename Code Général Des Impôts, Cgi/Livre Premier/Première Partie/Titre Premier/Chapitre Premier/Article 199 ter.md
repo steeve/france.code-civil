@@ -12,8 +12,8 @@ Pour tous les contribuables, qu'ils soient ou non tenus de souscrire une
 déclaration pour l'assiette de l'impôt sur le revenu, les sommes retenues à la
 source seront restituées, dans la mesure où elles ne pourront être admises à
 imputation sur l'impôt sur le revenu par suite de son montant inférieur ou de sa
-non-exigibilité dans des conditions qui seront fixées par décret en conseil
-d'Etat (1). Ces dispositions ne sont pas applicables à la retenue à la source
+non-exigibilité dans des conditions qui seront fixées par décret en Conseil
+d'Etat. Ces dispositions ne sont pas applicables à la retenue à la source
 pratiquée sur les intérêts des obligations visés au deuxième alinéa du III de
 l'article 125 A.
 
@@ -22,14 +22,24 @@ b. En ce qui concerne les revenus de source étrangère visés aux articles 120 
 retenu à la source à l'étranger ou à la décote en tenant lieu, tel qu'il est
 prévu par les conventions internationales.
 
+c. La retenue à la source, temporairement prélevée par la Belgique, le
+Luxembourg et l'Autriche conformément à l'article 11 de la directive 2003/48/CE
+du Conseil du 3 juin 2003 en matière de fiscalité des revenus de l'épargne sous
+forme de paiements d'intérêts, ouvre droit après imputation, le cas échéant, des
+autres retenues à la source et crédits d'impôt mentionnés aux a et b, à un
+crédit d'impôt égal à cette retenue qui est déduit de l'impôt sur le revenu dû
+au titre de l'année au cours de laquelle les revenus définis au sixième alinéa
+du 1 de l'article 242 ter, majorés du montant des retenues à la source
+auxquelles ils ont été soumis, sont déclarés et imposés. En cas d'excédent,
+celui-ci est restitué.
+
 I bis (Abrogé).
 
 II Les actionnaires des sociétés d'investissement ou des sociétés assimilées
 visées aux 1° bis à 1° ter de l'article 208 et des sociétés de capital-risque
 visés au 3° septies du même article peuvent effectuer l'imputation de tout ou
-partie des crédits d'impôt et avoirs fiscaux attachés aux produits du
-portefeuille de ces sociétés dans les mêmes conditions que s'ils avaient perçu
-directement ces revenus.
+partie des crédits d'impôt attachés aux produits du portefeuille de ces sociétés
+dans les mêmes conditions que s'ils avaient perçu directement ces revenus.
 
 Pour chaque exercice, la société calcule la somme totale à l'imputation de
 laquelle donnent droit les revenus encaissés par elle.
@@ -44,13 +54,10 @@ revenu net perçu par l'actionnaire.
 
 Lorsque les sociétés d'investissement admises au bénéfice du régime prévu aux 1°
 bis et 1° bis A de l'article 208 ne peuvent transférer à leurs actionnaires tout
-ou partie des crédits d'impôt et avoirs fiscaux attachés aux produits de leur
-portefeuille encaissés au cours d'un exercice, les crédits et avoirs non
-utilisés sont susceptibles d'être reportés sur les quatre exercices suivants.
-Cette disposition est applicable aux crédits d'impôt et avoirs fiscaux afférents
-aux revenus encaissés au cours d'exercices ouverts postérieurement au 31
-décembre 1966.
+ou partie des crédits d'impôt attachés aux produits de leur portefeuille
+encaissés au cours d'un exercice, les crédits non utilisés sont susceptibles
+d'être reportés sur les quatre exercices suivants. Cette disposition est
+applicable aux crédits d'impôt afférents aux revenus encaissés au cours
+d'exercices ouverts postérieurement au 31 décembre 1966 (1).
 
 III (Abrogé).
-
-(1) Annexe II, art. 92 à 95.

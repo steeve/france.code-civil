@@ -53,8 +53,9 @@ V. - Le bénéfice des dispositions du présent article est cumulable :
 
 1° Avec l'aide prévue à l'article 3 de la loi n° 98-461 du 13 juin 1998
 d'orientation et d'incitation relative à la réduction du temps de travail. En ce
-cas, le montant de la réduction visée au II est minoré d'un montant forfaitaire
-fixé par décret ;
+cas, le montant de la réduction mentionnée au II est minoré d'un montant
+forfaitaire fixé par décret. Cette possibilité de cumul n'est ouverte que
+jusqu'au 31 mars 2004 ;
 
 2° Avec la réduction forfaitaire prévue à l'article L. 241-14.
 

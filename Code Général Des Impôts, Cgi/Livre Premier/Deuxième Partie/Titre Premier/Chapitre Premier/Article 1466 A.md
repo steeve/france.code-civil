@@ -22,7 +22,8 @@ péréquation de la taxe professionnelle.
 
 La limite de base nette imposable visée au premier alinéa est fixée à 124 250
 euros au titre de 2002 et, sous réserve de l'actualisation annuelle en fonction
-de la variation des prix, à 113 600 euros à compter de 2003.
+de la variation des prix, à 113 600 euros à compter de 2003 (120 928 euros après
+actualisation au titre de 2004).
 
 I bis Sauf délibération contraire de la collectivité territoriale ou du
 groupement de collectivités territoriales, les créations et extensions
@@ -65,12 +66,9 @@ l'exonération s'applique dans la limite prévue au I aux éléments d'impositio
 correspondant aux opérations visées au I bis.
 
 Les exonérations prévues aux premier et deuxième alinéas portent pendant cinq
-ans ou, pour les créations, extensions d'établissement ou changements
-d'exploitants intervenus dans les zones de redynamisation urbaine entre le 31
-juillet 1998 et le 31 juillet 2003, pendant dix ans sur la totalité de la part
-revenant à chaque collectivité territoriale ou groupement de collectivités
-territoriales. Seuls les établissements employant moins de cent cinquante
-salariés peuvent en bénéficier.
+ans sur la totalité de la part revenant à chaque collectivité territoriale ou
+groupement de collectivités territoriales. Seuls les établissements employant
+moins de cent cinquante salariés peuvent en bénéficier.
 
 Sauf délibération contraire des collectivités territoriales ou de leurs
 établissements publics de coopération intercommunale dotés d'une fiscalité
@@ -90,12 +88,12 @@ deuxième année et 20 % la troisième.
 
 A compter du 1er janvier 2002, en cas de changement d'exploitant au cours de la
 période d'exonération, celle-ci est maintenue pour la période restant à courir
-et dans les conditions prévues pour le prédécesseur ;
+et dans les conditions prévues pour le prédécesseur.
 
 Pour l'application des dispositions ci-dessus, les délibérations des
 collectivités territoriales et de leurs groupements dotés d'une fiscalité propre
 ne peuvent porter que sur l'ensemble des établissements créés, étendus,
-existants ou changeant d'exploitant ;
+existants ou changeant d'exploitant.
 
 I quater. Sauf délibération contraire de la collectivité territoriale ou du
 groupement de collectivités territoriales, les entreprises employant cinquante
@@ -105,18 +103,16 @@ postérieure, bénéficient de l'exonération de taxe professionnelle à compter
 situés dans les zones franches urbaines définies au B du 3 de l'article 42
 modifié de la loi n° 95-115 du 4 février 1995 et dont la liste figure au I de
 l'annexe à la loi n° 96-987 du 14 novembre 1996 relative à la mise en oeuvre du
-pacte de relance pour la ville.
-
-Par exception aux dispositions prévues au cinquième alinéa du I ter, pour les
-entreprises de moins de cinq salariés, pendant la période de référence retenue
-pour la dernière année d'application du dispositif prévu au quatrième alinéa du
-I ter, le montant de l'abattement est égal, les cinq premières années, à 60 % de
-la base exonérée la dernière année d'application du dispositif prévu au
-quatrième alinéa du I ter. Il est ramené à 40 % les sixième et septième années
-et à 20 % les huitième et neuvième années. L'application de cet abattement ne
-peut conduire à réduire la base d'imposition de l'année considérée de plus de 60
-% de son montant les cinq premières années, 40 % les sixième et septième années
-et 20 % les huitième et neuvième années (1).
+pacte de relance pour la ville. Par exception aux dispositions prévues au
+cinquième alinéa du I ter, pour les entreprises de moins de cinq salariés,
+pendant la période de référence retenue pour la dernière année d'application du
+dispositif prévu au quatrième alinéa du I ter, le montant de l'abattement est
+égal, les cinq premières années, à 60 % de la base exonérée la dernière année
+d'application du dispositif prévu au quatrième alinéa du I ter. Il est ramené à
+40 % les sixième et septième années et à 20 % les huitième et neuvième années.
+L'application de cet abattement ne peut conduire à réduire la base d'imposition
+de l'année considérée de plus de 60 % de son montant les cinq premières années,
+40 % les sixième et septième années et 20 % les huitième et neuvième années.
 
 Pour les établissements existant au 1er janvier 1997 et ceux ayant fait l'objet
 d'une création entre cette date et le 1er janvier 2008, d'une extension ou d'un
@@ -128,9 +124,9 @@ conditions prévues au I. Dans cette limite, la base exonérée comprend, le cas
 intervenues en 1996.
 
 La limite de base nette imposable visée au deuxième alinéa est fixée à 336 150
-euros au titre de 2002 (344 420 euros après actualisation) et, sous réserve de
-l'actualisation annuelle en fonction de la variation des prix, à 306 430 euros à
-compter de 2003.
+euros au titre de 2002 et, sous réserve de l'actualisation annuelle en fonction
+de la variation des prix, à 306 430 euros à compter de 2003 (326 197 euros après
+actualisation au titre de 2004).
 
 Pour les établissements existant dans les zones franches urbaines au 1er janvier
 1997, visés au premier alinéa, l'exonération s'applique :
@@ -144,7 +140,7 @@ au renouvellement urbains ;
 
 b) pour les autres secteurs d'activité, aux bases d'imposition des
 établissements appartenant à des entreprises dont la part du chiffre d'affaires
-affèrent aux livraisons intracommunautaires et à l'exportation, réalisé au cours
+afférent aux livraisons intracommunautaires et à l'exportation, réalisé au cours
 de la période du 1er janvier 1994, ou de la date de leur début d'activité si
 elle est postérieure, au 31 décembre 1996, n'excède pas 15 % du chiffre
 d'affaires total hors taxes réalisé pendant la même période ;
@@ -181,19 +177,49 @@ novembre 1996 précitée, ainsi que pour les créations et extensions
 d'établissement qu'elles y réalisent entre le 1er janvier 2004 et le 31 décembre
 2008 inclus.
 
+Les exonérations prenant effet en 2004 s'appliquent lorsque soit le chiffre
+d'affaires annuel réalisé au cours de la période de référence retenue pour
+l'imposition établie au titre de l'année 2004 n'excède pas 7 millions d'euros,
+soit le total de bilan, au terme de la même période, n'excède pas 5 millions
+d'euros. Pour les exonérations prenant effet à compter du 1er janvier 2005, ces
+deux seuils sont portés à 10 millions d'euros et s'apprécient, en cas de
+création de l'entreprise postérieure au 1er janvier 2004, sur la première année
+d'activité. Le chiffre d'affaires à prendre en compte est éventuellement corrigé
+pour correspondre à une année pleine et, pour une société mère d'un groupe
+mentionné à l'article 223 A, s'entend de la somme des chiffres d'affaires de
+chacune des sociétés membres de ce groupe.
+
+Les exonérations ne s'appliquent pas aux entreprises dont 25 % ou plus du
+capital ou des droits de vote est détenu, directement ou indirectement, par une
+ou plusieurs entreprises ne répondant pas aux conditions prévues aux premier et
+deuxième alinéas. Pour la détermination de ce pourcentage, les participations
+des sociétés de capital-risque, des fonds communs de placement à risques des
+sociétés de développement régional, des sociétés financières d'innovation et des
+sociétés unipersonnelles d'investissement à risque ne sont pas prises en compte
+à la condition qu'il n'existe pas de lien de dépendance au sens du 12 de
+l'article 39 entre la société en cause et ces dernières sociétés ou ces fonds.
+N'ouvrent pas droit au bénéfice de l'exonération les activités exercées à titre
+principal dans l'établissement dans l'un des secteurs suivants, définis selon la
+nomenclature d'activités française de l'Institut national de la statistique et
+des études économiques : construction automobile, construction navale,
+fabrication de fibres artificielles ou synthétiques, sidérurgie, transports
+routiers de marchandises.
+
 Pour les établissements existants au 1er janvier 2004 mentionnés au premier
 alinéa, la base exonérée comprend, le cas échéant, dans la limite prévue à cet
 alinéa, les éléments d'imposition correspondant aux extensions d'établissement
 intervenues en 2003.
 
-Les exonérations prévues aux premier et deuxième alinéas portent, pendant cinq
+Les exonérations prévues aux premier à quatrième alinéas portent, pendant cinq
 ans à compter du 1er janvier 2004 pour les établissements existants à cette date
 ou, en cas de création d'établissement, à compter de l'année qui suit la
 création ou, en cas d'extension d'établissement, à compter de la deuxième année
 qui suit celle-ci, sur la totalité de la part revenant à chaque collectivité
 territoriale ou établissement public de coopération intercommunale doté d'une
-fiscalité propre. En cas de création ou d'extension d'établissement, seuls les
-établissements employant moins de cent cinquante salariés peuvent en bénéficier.
+fiscalité propre. Les exonérations prenant effet en 2004 s'appliquent dans les
+limites prévues par le règlement (CE) n° 69/2001 de la Commission du 12 janvier
+2001 concernant l'application des articles 87 et 88 du traité CE aux aides de
+minimis.
 
 En cas de changement d'exploitant au cours de la période d'exonération, celle-ci
 est maintenue pour la période restant à courir et dans les conditions prévues

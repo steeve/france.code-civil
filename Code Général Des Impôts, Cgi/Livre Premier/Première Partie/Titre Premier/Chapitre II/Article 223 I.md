@@ -1,9 +1,7 @@
 Article 223 I
 ----
 1. a) Les déficits subis par une société du groupe au titre d'exercices
-antérieurs à son entrée dans le groupe y compris la fraction de ces déficits
-correspondant aux amortissements régulièrement comptabilisés mais réputés
-différés en période déficitaire, ne sont imputables que sur son bénéfice ;
+antérieurs à son entrée dans le groupe ne sont imputables que sur son bénéfice ;
 
 b) La quote-part de déficits qui correspond aux suppléments d'amortissements
 résultant de la réévaluation de ses immobilisations par une société du groupe,
@@ -73,5 +71,5 @@ mentionnée au b du II du même article ;
 nouveau groupe et pour lesquelles le bénéfice des dispositions prévues au 5 est
 demandé.
 
-Les déficits transférés sont imputables sur les bénéfices ultérieurs dans la
-limite édictée au troisième alinéa du I de l'article 209.
+Les déficits transférés sont imputables sur les bénéfices ultérieurs dans les
+conditions prévues au troisième alinéa du I de l'article 209.

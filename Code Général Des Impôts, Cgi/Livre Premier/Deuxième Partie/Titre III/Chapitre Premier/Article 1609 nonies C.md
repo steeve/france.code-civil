@@ -8,16 +8,15 @@ code général des collectivités territoriales, les communautés urbaines soumi
 de plein droit ou après option aux dispositions du présent article sont
 substituées aux communes membres pour l'application des dispositions relatives à
 la taxe professionnelle, à l'exception des I et II des articles 1648 A et 1648
-AA ainsi que du 3° du II de l'article 1648 B, et perçoivent le produit de cette
-taxe.
+AA, et perçoivent le produit de cette taxe.
 
 2° Les communautés de communes faisant application des dispositions fiscales
 prévues au III de l'article 1609 quinquies C et, jusqu'au 1er janvier 2002, les
 districts faisant application des dispositions de l'article 1609 quinquies A et
 les communautés de villes sont substitués aux communes membres pour
 l'application des dispositions relatives à la taxe professionnelle, à
-l'exception des I et II des articles 1648 A et 1648 AA ainsi que du 3° du II de
-l'article 1648 B, et perçoivent le produit de cette taxe.
+l'exception des I et II des articles 1648 A et 1648 AA, et perçoivent le produit
+de cette taxe.
 
 II. 1° Les établissements publics de coopération intercommunale visés au I
 peuvent décider, par délibération du conseil de l'établissement public de
@@ -127,7 +126,7 @@ article.
 
 3° En cas de rattachement d'une commune à un établissement public de coopération
 intercommunale faisant application du présent article, les dispositions des I,
-II et V de l'article 1638 quater sont applicables.
+II, II bis et V de l'article 1638 quater sont applicables.
 
 Pour le rattachement de toute nouvelle commune à une communauté d'agglomération
 issue de la transformation d'un syndicat d'agglomération nouvelle, les
@@ -201,20 +200,30 @@ communes par le syndicat.
 
 2° L'attribution de compensation est égale au produit de taxe professionnelle, y
 compris la compensation prévue au I du D de l'article 44 modifié de la loi de
-finances pour 1999 (n° 98-1266 du 30 décembre 1998), et, le cas échéant, les
-compensations prévues au B de l'article 4 de la loi n° 96-987 du 14 novembre
-1996 modifiée relative à la mise en oeuvre du pacte de relance pour la ville ou
-au B de l'article 3 de la loi n° 96-1143 du 26 décembre 1996 relative à la zone
-franche de Corse, versées antérieurement aux communes, mais hors compensation
-prévue au IV bis de l'article 6 de la loi de finances pour 1987 (n° 86-1317 du
-30 décembre 1986), perçu par elle l'année précédant l'institution du taux de
-taxe professionnelle communautaire diminué du coût net des charges transférées
-calculé dans les conditions définies au IV. L'attribution de compensation est
-majorée d'une fraction de la contribution d'une commune définie à l'article
-L302-8 du code de la construction et de l'habitation. Cette fraction est égale à
-la part du potentiel fiscal de la taxe professionnelle dans le potentiel fiscal
-de la commune. Cette attribution est recalculée, dans les conditions prévues au
-IV, lors de chaque nouveau transfert de charges.
+finances pour 1999 (n° 98-1266 du 30 décembre 1998), celle prévue au B de
+l'article 26 de la loi de finances pour 2003 (n° 2002-1575 du 30 décembre 2002),
+et, le cas échéant, les compensations prévues au B de l'article 4 de la loi n°
+96-987 du 14 novembre 1996 modifiée relative à la mise en oeuvre du pacte de
+relance pour la ville ou au B de l'article 3 de la loi n° 96-1143 du 26 décembre
+1996 relative à la zone franche de Corse, versées antérieurement aux communes,
+mais hors compensation prévue au IV bis de l'article 6 de la loi de finances
+pour 1987 (n° 86-1317 du 30 décembre 1986), perçu par elle l'année précédant
+l'institution du taux de taxe professionnelle communautaire diminué du coût net
+des charges transférées calculé dans les conditions définies au IV.
+L'attribution de compensation est majorée d'une fraction de la contribution
+d'une commune définie à l'article L302-8 du code de la construction et de
+l'habitation. Cette fraction est égale à la part du potentiel fiscal de la taxe
+professionnelle dans le potentiel fiscal de la commune. Cette attribution est
+recalculée, dans les conditions prévues au IV, lors de chaque nouveau transfert
+de charges.
+
+2° bis Le montant de l'attribution de compensation, les conditions et la date
+d'effet de sa révision peuvent être fixés librement par délibérations
+concordantes des neuf dixièmes au moins des conseils municipaux des communes
+membres représentant plus des quatre cinquièmes de la population de celles-ci,
+ou des quatre cinquièmes au moins des conseils municipaux de ces communes
+représentant plus des neuf dixièmes de la population, en tenant compte notamment
+du rapport de la commission consultative d'évaluation des transferts de charges.
 
 3° Lorsqu'il est fait application à un établissement public de coopération
 intercommunale doté d'une fiscalité propre des dispositions du présent article,

@@ -1,8 +1,8 @@
 Article L2334-13
 ----
 Il est institué une dotation d'aménagement qui regroupe une dotation au bénéfice
-des groupements de communes, une dotation de solidarité urbaine et une dotation
-de solidarité rurale.
+des groupements de communes, une dotation nationale de péréquation, une dotation
+de solidarité urbaine et une dotation de solidarité rurale.
 
 Le montant de la dotation d'aménagement est égal à la différence entre
 l'ensemble des ressources affectées à la dotation globale de fonctionnement des
@@ -11,11 +11,11 @@ communes et la dotation forfaitaire prévue à l'article L. 2334-7.
 Avant la répartition de la dotation, il est procédé au prélèvement des sommes
 dues en application des dispositions de l'article L. 2334-9.
 
-Après prélèvement de la part de la dotation d'intercommunalité prélevée sur la
-dotation d'aménagement dans les conditions fixées à l'article L. 5211-28, et de
-la quote-part destinée aux communes d'outre-mer, le solde de la dotation
-d'aménagement est réparti entre la dotation de solidarité urbaine et la dotation
-de solidarité rurale.
+Après prélèvement de la dotation d'intercommunalité et de la dotation de
+compensation prévues respectivement aux articles L. 5211-28 et L. 5211-28-1, et
+de la quote-part destinée aux communes d'outre-mer, le solde de la dotation
+d'aménagement est réparti entre la dotation nationale de péréquation, la
+dotation de solidarité urbaine et la dotation de solidarité rurale.
 
 La quote-part destinée aux communes d'outre-mer évolue de façon telle que le
 total des attributions leur revenant au titre de la dotation globale de
@@ -42,3 +42,9 @@ application des dispositions précédentes est majoré de 1,5 million d'euros. E
 répartition, entre la dotation de solidarité urbaine et la dotation de
 solidarité rurale, de l'augmentation du solde de la dotation d'aménagement telle
 qu'elle est prévue par l'alinéa précédent.
+
+A compter de 2004, la variation annuelle du solde de la dotation d'aménagement
+est répartie par le comité des finances locales entre la dotation nationale de
+péréquation, la dotation de solidarité urbaine et la dotation de solidarité
+rurale, ainsi qu'entre les différentes parts ou fractions de ces dotations,
+quand elles existent.

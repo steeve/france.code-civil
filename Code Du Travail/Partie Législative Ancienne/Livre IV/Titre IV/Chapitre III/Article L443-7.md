@@ -3,12 +3,11 @@ Article L443-7
 Les sommes versées annuellement par une ou plusieurs entreprises pour un salarié
 ou une personne mentionnée au troisième alinéa de l'article L. 443-1 sont
 limitées à 2 300 euros pour les versements à un plan d'épargne d'entreprise et à
-4 600 euros pour les versements à un ou plusieurs plans partenariaux d'épargne
-salariale volontaire pour la retraite, sans pouvoir excéder le triple de la
-contribution du bénéficiaire. L'affectation au plan d'épargne de la part
-individuelle du salarié ou personne mentionnée au troisième alinéa de l'article
-L. 443-1 dans la réserve spéciale de participation ne peut tenir lieu de cette
-contribution.
+4 600 euros pour les versements à un ou plusieurs plans d'épargne pour la
+retraite collectifs, sans pouvoir excéder le triple de la contribution du
+bénéficiaire. L'affectation au plan d'épargne de la part individuelle du salarié
+ou personne mentionnée au troisième alinéa de l'article L. 443-1 dans la réserve
+spéciale de participation ne peut tenir lieu de cette contribution.
 
 Dans le cas des plans prévus à l'article L. 443-1, l'entreprise peut majorer ces
 sommes à concurrence du montant consacré par le salarié ou personne mentionnée

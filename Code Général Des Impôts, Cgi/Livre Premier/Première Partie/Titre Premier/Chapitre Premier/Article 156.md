@@ -10,14 +10,14 @@ de toutes opérations lucratives auxquelles ils se livrent, sous déduction :
 I. du déficit constaté pour une année dans une catégorie de revenus ; si le
 revenu global n'est pas suffisant pour que l'imputation puisse être
 intégralement opérée, l'excédent du déficit est reporté successivement sur le
-revenu global des années suivantes jusqu'à la cinquième année inclusivement.
+revenu global des années suivantes jusqu'à la sixième année inclusivement.
 
 Toutefois, n'est pas autorisée l'imputation :
 
 1° des déficits provenant d'exploitations agricoles lorsque le total des revenus
 nets d'autres sources excède 53 360 euros ; ces déficits peuvent cependant être
 admis en déduction des bénéfices de même nature des années suivantes jusqu'à la
-cinquième inclusivement.
+sixième inclusivement.
 
 1° bis des déficits provenant, directement ou indirectement, des activités
 relevant des bénéfices industriels ou commerciaux lorsque ces activités ne
@@ -28,9 +28,9 @@ droit ou en fait à une personne qui n'est pas un membre du foyer fiscal par
 l'effet d'un mandat, d'un contrat de travail ou de toute autre convention. Les
 déficits non déductibles pour ces motifs peuvent cependant être imputés sur les
 bénéfices tirés d'activités de même nature exercées dans les mêmes conditions,
-durant la même année ou les cinq années suivantes. Ces modalités d'imputation
+durant la même année ou les six années suivantes. Ces modalités d'imputation
 sont applicables aux déficits réalisés par des personnes autres que les loueurs
-professionnels au sens du huitième alinéa du V de l'article 151 septies, louant
+professionnels au sens du sixième alinéa du V de l'article 151 septies, louant
 directement ou indirectement des locaux d'habitation meublés ou destinés à être
 meublés.
 
@@ -81,7 +81,7 @@ versement d'acomptes au moins égaux à 50 % de leur prix ;
 autres que ceux qui proviennent de l'exercice d'une profession libérale ou des
 charges et offices dont les titulaires n'ont pas la qualité de commerçants ; ces
 déficits peuvent cependant être imputés sur les bénéfices tirés d'activités
-semblables durant la même année ou les cinq années suivantes ;
+semblables durant la même année ou les six années suivantes ;
 
 3° Des déficits fonciers, lesquels s'imputent exclusivement sur les revenus
 fonciers des dix années suivantes ; cette disposition n'est pas applicable aux
@@ -99,14 +99,15 @@ degré inclusivement.
 
 Cette disposition n'est pas non plus applicable aux déficits provenant de
 dépenses autres que les intérêts d'emprunt effectuées sur des locaux
-d'habitation par leurs propriétaires et à leur initiative, ou à celle d'une
-collectivité publique ou d'un organisme chargé par elle de l'opération et
-répondant à des conditions fixées par décret, en vue de la restauration complète
-d'un immeuble bâti en application des articles L. 313-1 à L. 313-3 du code de
-l'urbanisme et payées à compter de la date de publication du plan de sauvegarde
-et de mise en valeur. Il en est de même, lorsque les travaux de restauration ont
-été déclarés d'utilité publique en application de l'article L. 313-4-1 du code
-de l'urbanisme, des déficits provenant des mêmes dépenses effectuées sur un
+d'habitation ou destinés originellement à l'habitation et réaffectés à cet usage
+par leurs propriétaires et à leur initiative, ou à celle d'une collectivité
+publique ou d'un organisme chargé par elle de l'opération et répondant à des
+conditions fixées par décret, en vue de la restauration complète d'un immeuble
+bâti en application des articles L. 313-1 à L. 313-3 du code de l'urbanisme et
+payées à compter de la date de publication du plan de sauvegarde et de mise en
+valeur. Il en est de même, lorsque les travaux de restauration ont été déclarés
+d'utilité publique en application de l'article L. 313-4-1 du code de
+l'urbanisme, des déficits provenant des mêmes dépenses effectuées sur un
 immeuble situé dans un secteur sauvegardé, dès sa création dans les conditions
 prévues à l'article L. 313-1 du même code, ou dans une zone de protection du
 patrimoine architectural, urbain et paysager créée en application de l'article
@@ -191,13 +192,13 @@ undecies A et imputer un déficit foncier sur le revenu global.
 5° Des pertes résultant d'opérations mentionnées aux articles 150 ter, 150
 octies, 150 nonies et 150 decies, lorsque l'option prévue au 8° du I de
 l'article 35 n'a pas été exercée ; ces pertes sont imputables exclusivement sur
-les profits de même nature réalisés au cours de la même année ou des cinq années
+les profits de même nature réalisés au cours de la même année ou des six années
 suivantes ;
 
 6° Des pertes résultant d'opérations réalisées à l'étranger sur un marché à
 terme d'instruments financiers ou d'options négociables ou sur des bons d'option
 ; ces pertes sont imputables exclusivement sur les profits de même nature
-réalisés dans les mêmes conditions au cours de la même année ou des cinq années
+réalisés dans les mêmes conditions au cours de la même année ou des six années
 suivantes.
 
 Ces dispositions s'appliquent aux pertes résultant d'opérations à terme sur
@@ -277,8 +278,11 @@ résultant des articles 205 à 211 du code civil à des personnes agées de plus
 pas le plafond de ressources fixé pour l'octroi de l'allocation supplémentaire
 mentionnée à l'article L815-2 ou à l'article L815-3 du code de la sécurité
 sociale. La déduction opérée par le contribuable ne peut excéder, par
-bénéficiaire, l'évaluation des avantages en nature de logement et de nourriture
-faite pour l'application aux salariés du régime de sécurité sociale.
+bénéficiaire, la somme de 3 000 euros.
+
+Le montant de la déduction mentionnée à l'alinéa précédent est relevé chaque
+année dans la même proportion que la limite supérieure de la première tranche du
+barème de l'impôt sur le revenu.
 
 3° (Abrogé) ;
 
@@ -313,3 +317,9 @@ obligatoire contre les accidents de la vie privée, les accidents du travail et
 les maladies professionnelles des non salariés des professions agricoles ;
 
 12° (sans objet).
+
+13° Les cotisations versées par les chefs d'exploitation ou d'entreprise
+agricole au titre des contrats d'assurance de groupe mentionnés au I de
+l'article 55 de la loi n° 97-1051 du 18 novembre 1997 d'orientation sur la pêche
+maritime et les cultures marines, dans les limites prévues par l'article 154
+bis-0 A.

@@ -37,6 +37,9 @@ provision dans l'un de ses établissements dont les résultats sont soumis à
 l'impôt sur les sociétés ou par les sociétés membres d'un groupe mentionné à
 l'article 223 A dont elle fait également partie.
 
+Les dispositions du présent I ne sont plus applicables aux investissements
+réalisés après le 31 décembre 2003.
+
 II. La dotation aux provisions, déduite du résultat d'un exercice en application
 du présent article, est rapportée successivement aux résultats imposables des
 exercices suivants, à hauteur des bénéfices réalisés au titre de chacun de ces
@@ -63,7 +66,7 @@ l'établissement ou de la filiale étranger sont déterminés selon les règles
 fixées par le présent code à partir du bilan de départ établi dans les
 conditions fixées par décret. Toutefois, les dispositions légales particulières
 qui autorisent des provisions ou des déductions spéciales ou des amortissements
-exceptionnels ne sont pas applicables (1).
+exceptionnels ne sont pas applicables.
 
 IV. Le bénéfice des dispositions du présent article peut être accordé sur
 agrément préalable du ministre chargé du budget dans les conditions et limites
@@ -89,6 +92,10 @@ sociétés dans les conditions de droit commun, lorsque l'implantation réalisé
 l'étranger, mentionnée au premier alinéa, a pour objet exclusif l'exercice de
 ces activités.
 
+Les dispositions du premier alinéa ne sont plus applicables aux investissements
+qui n'ont pas fait l'objet d'une demande d'agrément déposée avant le 1er janvier
+2004.
+
 V. Le bénéfice des dispositions du présent article peut également être accordé
 sur agrément du ministre chargé du budget dans les conditions et limites prévues
 par cet agrément, aux établissements de crédit et aux entreprises mentionnées au
@@ -99,4 +106,4 @@ VI. Les dispositions du présent article s'appliquent aux investissements qui
 sont réalisés à compter du 1er janvier 1992, sous réserve des dispositions du
 cinquième alinéa du I quater et du deuxième alinéa du II bis de l'article 39
 octies A, du deuxième alinéa du V de l'article 39 octies B et du quatrième
-alinéa du IV du présent article (1).
+alinéa du IV du présent article.

@@ -15,11 +15,21 @@ coopératives d'intérêt collectif d'habitations à loyer modéré ;
 
 - les fondations d'habitations à loyer modéré.
 
-Au titre du service d'intérêt général que constituent la construction,
-l'acquisition, l'attribution et la gestion de logements locatifs destinés à des
-personnes dont les revenus sont inférieurs à des plafonds, les organismes
-d'habitations à loyer modéré mentionnés aux alinéas précédents bénéficient
-d'exonérations fiscales et d'aides spécifiques de l'Etat.
+Les organismes d'habitations à loyer modéré mentionnés aux alinéas précédents
+bénéficient d'exonérations fiscales et d'aides spécifiques de l'Etat au titre du
+service d'intérêt général défini comme :
+
+- la construction, l'acquisition, l'amélioration, l'attribution et la gestion de
+logements locatifs à loyers plafonnés, lorsqu'elles sont destinées à des
+personnes dont les revenus sont inférieurs à des plafonds fixés par l'autorité
+administrative ;
+
+- la réalisation d'opérations d'accession à la propriété assorties de garanties
+pour l'accédant selon des conditions fixées par décret en Conseil d'Etat ou
+lorsqu'elles sont destinées à des personnes dont les revenus sont inférieurs à
+des plafonds fixés par l'autorité administrative ;
+
+- les services accessoires aux opérations susmentionnées.
 
 Au titre de la mission d'intérêt général que constitue la recherche de la mixité
 sociale et de la diversité de l'habitat, les organismes d'habitations à loyer

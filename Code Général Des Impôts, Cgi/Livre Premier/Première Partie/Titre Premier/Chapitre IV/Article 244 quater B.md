@@ -1,34 +1,63 @@
 Article 244 quater B
 ----
-I. Les entreprises industrielles et commerciales ou agricoles imposées d'après
-leur bénéfice réel peuvent bénéficier d'un crédit d'impôt égal à 50 % de
-l'excédent des dépenses de recherche exposées au cours d'une année par rapport à
-la moyenne des dépenses de même nature, revalorisées de la hausse des prix à la
-consommation, exposées au cours des deux années précédentes.
+I. - Les entreprises industrielles et commerciales ou agricoles imposées d'après
+leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies
+A, 44 octies et 44 decies qui exposent des dépenses de recherche peuvent
+bénéficier d'un crédit d'impôt égal à la somme :
 
-Le crédit d'impôt est égal à 50 % des dépenses de recherche de la première année
-au cours de laquelle l'entreprise expose des dépenses de cette nature.
+a. D'une part égale à 5 % des dépenses de recherche exposées au cours de
+l'année, dite part en volume ;
 
-Le crédit d'impôt est plafonné pour chaque entreprise, y compris les sociétés de
-personnes, à 6 100 000 euros. Il s'apprécie en prenant en compte la fraction du
-crédit d'impôt positif ou négatif correspondant aux parts des associés de
+b. Et d'une part égale à 45 % de la différence entre les dépenses de recherche
+exposées au cours de l'année et la moyenne des dépenses de même nature,
+revalorisées de la hausse des prix à la consommation hors tabac, exposées au
+cours des deux années précédentes, dite part en accroissement.
+
+Lorsque cette dernière est négative, elle est imputée sur les parts en
+accroissement calculées au titre des dépenses engagées au cours des cinq années
+suivantes. Le montant imputé est plafonné à la somme des parts positives de même
+nature antérieurement calculées.
+
+Le crédit d'impôt négatif qui trouvait son origine en 2003 ou au cours d'une
+année antérieure s'impute sur les parts en accroissement relatives aux dépenses
+engagées à compter du 1er janvier 2004 dans les mêmes conditions.
+
+En cas de fusion ou opération assimilée, la part en accroissement négative du
+crédit d'impôt de la société apporteuse non encore imputée est transférée à la
+société bénéficiaire de l'apport.
+
+A l'exception du crédit d'impôt imputable par la société mère dans les
+conditions prévues à l'article 223 O, le crédit d'impôt est plafonné pour chaque
+entreprise, y compris les sociétés de personnes, à 8 000 000 Euros. Il
+s'apprécie en prenant en compte la fraction de la part en accroissement et de la
+part en volume du crédit d'impôt correspondant aux parts des associés de
 sociétés de personnes mentionnées aux articles 8 et 238 bis L et aux droits des
 membres de groupements mentionnés aux articles 239 quater, 239 quater B et 239
+quater C, le cas échéant majoré de la part en accroissement et de la part en
+volume calculées au titre des dépenses de recherche que ces associés ou membres
+ont exposées.
+
+Lorsque la somme de la part en volume et de la part en accroissement du crédit
+d'impôt des sociétés et groupements visés à la dernière phrase de l'alinéa
+précédent excède le plafond mentionné à ce même alinéa, le montant respectif de
+ces parts pris en compte pour le calcul du crédit d'impôt dont bénéficient leurs
+associés ou leurs membres est égal au montant du plafond multiplié par le
+rapport entre le montant respectif de chacune de ces parts et leur somme avant
+application du plafond. Lorsque la part en accroissement est négative, la part
+en volume prise en compte est limitée au plafond précité et la part en
+accroissement prise en compte est la part en accroissement multipliée par le
+rapport entre le plafond et le montant de la part en volume.
+
+Les dispositions du présent article s'appliquent sur option annuelle de
+l'entreprise. Par exception, l'option est exercée pour cinq ans lorsqu'elle est
+formulée par des sociétés de personnes mentionnées aux articles 8 et 238 bis L
+et par des groupements mentionnés aux articles 239 quater, 239 quater B et 239
 quater C.
 
-Les dispositions du présent article s'appliquent, sur option de l'entreprise,
-aux dépenses exposées au cours des années 1999 à 2003 par les entreprises qui
-ont fait application du crédit d'impôt recherche au titre de 1998, par celles
-qui n'ont pas renouvelé leur option au titre des périodes 1993 à 1995 et 1996 à
-1998, ou par celles qui n'ont jamais opté pour le régime du crédit d'impôt
-recherche. L'option doit être exercée au titre de 1999, ou au titre de l'année
-au cours de laquelle l'entreprise réalise ses premières dépenses de recherche
-éligibles au crédit d'impôt recherche.
-
-Le crédit d'impôt des entreprises n'ayant pas renouvelé leur option au titre des
-périodes 1993 à 1995 et 1996 à 1998 est calculé à compter de 1999 par
-application, le cas échéant, de l'article 199 ter B aux dépenses de recherche
-exposées depuis la dernière option valablement exercée.
+Lorsque l'option, après avoir été exercée, n'est plus exercée au titre d'une ou
+de plusieurs années, le crédit d'impôt de l'année au titre de laquelle l'option
+est exercée à nouveau est calculé dans les mêmes conditions que si l'option
+avait été renouvelée continûment.
 
 La fraction du crédit d'impôt qui résulte de la prise en compte de dépenses
 prévues au h et au i du II exposées à compter du 1er janvier 1999 est plafonnée
@@ -62,15 +91,22 @@ mois suivant leur recrutement à la condition que le contrat de travail de ces
 personnes soit à durée indéterminée et que l'effectif salarié de l'entreprise ne
 soit pas inférieur à celui de l'année précédente.
 
-d. Les dépenses exposées pour la réalisation d'opérations de même nature
-confiées à des organismes de recherche publics ou à des universités ;
+d) Les dépenses exposées pour la réalisation d'opérations de même nature
+confiées à des organismes de recherche publics, à des universités ou à des
+centres techniques exerçant une mission d'intérêt général. Ces dépenses sont
+retenues pour le double de leur montant à la condition qu'il n'existe pas de
+liens de dépendance au sens des deuxième à quatrième alinéas du 12 de l'article
+39 entre l'entreprise qui bénéficie du crédit d'impôt et l'organisme,
+l'université ou le centre technique exerçant une mission d'intérêt général ;
 
-d bis. Les dépenses exposées pour la réalisation d'opérations de même nature
+d bis) Les dépenses exposées pour la réalisation d'opérations de même nature
 confiées à des organismes de recherche privés agréés par le ministre chargé de
 la recherche, ou à des experts scientifiques ou techniques agréés dans les mêmes
 conditions ;
 
 e) Les frais de prise et de maintenance de brevets ;
+
+e bis) Les frais de défense de brevets, dans la limite de 60 000 Euros par an ;
 
 f) Les dotations aux amortissements des brevets acquis en vue de réaliser des
 opérations de recherche et de développement expérimental ;
@@ -109,9 +145,12 @@ de personnel mentionnées au 1° ;
 
 4° Les frais de dépôt des dessins et modèles.
 
-i. Les dépenses liées à l'élaboration de nouvelles collections confiée par les
+i) Les dépenses liées à l'élaboration de nouvelles collections confiée par les
 entreprises industrielles du secteur textile-habillement-cuir à des stylistes ou
-bureaux de style agréés selon des modalités définies par décret.
+bureaux de style agréés selon des modalités définies par décret ;
+
+j) Les dépenses de veille technologique exposées lors de la réalisation
+d'opérations de recherche, dans la limite de 60 000 Euros par an.
 
 Les dépenses visées aux a et 2° du h du II ne sont pas retenues pour le calcul
 du crédit d'impôt recherche lorsque les immobilisations concernées ont bénéficié
@@ -125,9 +164,8 @@ désignés au d et au d bis du II, pour le calcul de leur propre crédit d'impô
 En outre, en cas de transfert de personnels, d'immobilisations ou de contrats
 mentionnés au d et d bis du II, entre entreprises ayant des liens de dépendance
 directe ou indirecte, ou résultant de fusions, scissions, apports ou opérations
-assimilées, il est fait abstraction, pour le calcul de la variation des dépenses
-de recherche, de la part de cette variation provenant exclusivement du
-transfert.
+assimilées, il est fait abstraction, pour le calcul de la part en accroissement,
+de la variation des dépenses provenant exclusivement du transfert.
 
 IV., IV. bis, IV. ter, V. (Dispositions périmées).
 

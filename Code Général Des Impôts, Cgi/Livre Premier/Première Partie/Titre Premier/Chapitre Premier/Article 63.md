@@ -14,3 +14,8 @@ galeries souterraines et ceux des exploitations apicoles, avicoles, piscicoles,
 ostréicoles et mytilicoles ainsi que les profits réalisés par les obtenteurs de
 nouvelles variétés végétales au sens des (articles L623-1 à L623-35 du code de
 la propriété intellectuelle).
+
+Sont aussi considérés comme bénéfices de l'exploitation agricole les revenus qui
+proviennent des activités de préparation et d'entraînement des équidés
+domestiques, ainsi que ceux provenant de l'exploitation d'équidés adultes dans
+le cadre de loisirs à l'exclusion de cux provenant des activités du spectacle.

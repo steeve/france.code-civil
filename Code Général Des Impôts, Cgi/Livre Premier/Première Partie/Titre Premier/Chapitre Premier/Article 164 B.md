@@ -13,7 +13,7 @@ d. Les revenus tirés d'activités professionnelles, salariées ou non, exercée
 France ou d'opérations de caractère lucratif au sens de l'article 92 et
 réalisées en France ;
 
-e. Les plus-values mentionnées à l'article 150 A et les profits tirés
+e. Les plus-values mentionnées aux articles 150 U à 150 UB et les profits tirés
 d'opérations définies à l'article 35, lorsqu'ils sont relatifs à des fonds de
 commerce exploités en France ainsi qu'à des immeubles situés en France, à des
 droits immobiliers s'y rapportant ou à des actions et parts de sociétés non

@@ -1,17 +1,13 @@
 Article 199 quindecies
 ----
-Lorsqu'elles n'entrent pas en compte pour l'évaluation des revenus des
-différentes catégories, les sommes versées par les contribuables à raison des
-dépenses nécessitées par l'hébergement dans un établissement de long séjour ou
-une section de cure médicale ouvrent droit à une réduction d'impôt égale à 25 p.
-100 du montant des sommes versées, retenues dans la limite de 2 300 euros par
-personne hébergée.
-
-La réduction d'impôt prévue au premier alinéa s'applique dans les mêmes
-conditions aux dépenses afférentes à la dépendance effectivement supportées à
-raison de l'accueil dans un établissement ayant conclu la convention
-pluriannuelle visée à l'article L. 313-12 du code de l'action sociale et des
-familles.
+Les sommes effectivement supportées par les contribuables à raison des dépenses
+afférentes à la dépendance ouvrent droit à une réduction d'impôt égale à 25 % de
+leur montant, retenu dans la limite de 3 000 Euros par personne hébergée dans un
+établissement ayant conclu la convention pluriannuelle visée à l'article L.
+313-12 du code de l'action sociale et des familles ou dans un établissement dont
+la tarification répond aux conditions définies à l'article 5 de la loi n°
+2001-647 du 20 juillet 2001 relative à la prise en charge de la perte
+d'autonomie des personnes âgées et à l'allocation personnalisée d'autonomie.
 
 Les personnes qui n'ont pas leur domicile fiscal en France au sens de l'article
 4 B ne bénéficient pas de cette réduction d'impôt. Les dispositions du 5 du I de

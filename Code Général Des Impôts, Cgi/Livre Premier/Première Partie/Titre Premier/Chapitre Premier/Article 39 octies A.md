@@ -24,7 +24,7 @@ font l'objet d'une demande d'accord préalable déposée après le 31 décembre 
 I bis. Les entreprises françaises qui effectuent dans un Etat étranger une
 première implantation commerciale sous la forme d'un établissement ou d'une
 filiale dont elles détiennent au moins un quart du capital peuvent, lorsque
-l'investissement réalisé est inférieur à 5 millions de francs (1) constituer en
+l'investissement réalisé est inférieur à 5 millions de francs constituer en
 franchise d'impôt une provision d'un montant égal aux pertes subies au cours des
 cinq premières années d'exploitation de l'établissement ou de la filiale, dans
 la limite du montant de l'investissement.
@@ -44,8 +44,8 @@ sont réalisés pour des activités bancaires, financières, d'assurances et des
 activités définies à l'article 35.
 
 Lorsque l'implantation est réalisée dans un Etat qui est mentionné sur la liste
-établie par un arrêté du ministre chargé des finances (2), la provision peut
-être égale au montant de l'investissement.
+établie par un arrêté du ministre chargé des finances , la provision peut être
+égale au montant de l'investissement.
 
 Les dispositions du présent I bis ne sont plus applicables aux investissements
 réalisés dans le cadre d'une première implantation commerciale effectuée après
@@ -91,6 +91,10 @@ industriel et scientifique, constituer une provision en franchise d'impôt égal
 à la moitié des sommes investies en capital au cours des cinq premières années
 d'exploitation.
 
+Les dispositions du premier alinéa ne sont plus applicables aux investissements
+qui n'ont pas fait l'objet d'une demande d'agrément déposée avant le 1er janvier
+2004.
+
 II bis. Les dispositions du II s'appliquent également et dans les mêmes
 conditions aux investissements réalisés à l'étranger par une entreprise
 française, à compter du 1er janvier 1988, par l'intermédiaire d'une filiale dont
@@ -118,7 +122,7 @@ prévues par cet agrément.
 V. Le bénéfice des dispositions prévues aux I, I quater, II, II bis, III et IV
 peut être accordé, sur agrément du ministre chargé du budget et dans les
 conditions et limites prévues par cet agrément, aux établissements de crédit
-dont la liste est fixée par décret (3) et aux entreprises industrielles et
+dont la liste est fixée par décret et aux entreprises industrielles et
 commerciales ou agricoles qui, dans l'intérêt d'une entreprise française et en
 vue d'accompagner l'investissement à l'étranger de cette dernière, participent
 au capital de la société étrangère constituée à cet effet par l'entreprise ou à
@@ -127,9 +131,3 @@ laquelle celle-ci se trouve elle-même associée.
 En cas de non-respect par l'entreprise française ou par l'établissement de
 crédit des engagements ou conditions auxquels l'agrément est subordonné, les
 dispositions de l'article 1756 sont applicables à l'établissement de crédit.
-
-(1) Montant périmé au 1er janvier 2002.
-
-(2) Annexe IV, art. 4 D.
-
-(3) Annexe III, art. 10 GA.

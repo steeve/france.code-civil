@@ -71,9 +71,8 @@ qui concerne les modalités d'option et les obligations déclaratives.
 cheval de course ou d'étalon, les amortissements réellement effectués par
 l'entreprise, dans la limite de ceux qui sont généralement admis d'après les
 usages de chaque nature d'industrie, de commerce ou d'exploitation et compte
-tenu des dispositions de l'article 39 A, y compris ceux qui auraient été
-différés au cours d'exercices antérieurs déficitaires, sous réserve des
-dispositions de l'article 39 B.
+tenu des dispositions de l'article 39 A, sous réserve des dispositions de
+l'article 39 B.
 
 Les décrets en Conseil d'Etat prévus à l'article 273 fixent les conséquences des
 déductions prévues à l'article 271 sur la comptabilisation et l'amortissement
@@ -342,7 +341,7 @@ sont rapportées aux résultats imposables de cet exercice.
 
 Les provisions constituées en vue de faire face au risque de change afférent aux
 prêts soumis, sur option, aux dispositions prévues au quatrième alinéa du 4 de
-l'article 38 ne sont pas déductibles du résultat imposable (1).
+l'article 38 ne sont pas déductibles du résultat imposable.
 
 6° La contribution de solidarité visée à l'article 33 de l'ordonnance n° 67-828
 du 23 septembre 1967 et la taxe sur les grandes surfaces issue de l'article 3
@@ -401,13 +400,13 @@ Sauf justifications, les dispositions du premier alinéa sont applicables :
 
 a) A l'amortissement des véhicules immatriculés dans la catégorie des voitures
 particulières pour la fraction de leur prix d'acquisition qui dépasse 18 300
-euros (2) ;
+euros ;
 
 b) En cas d'opérations de crédit bail ou de location, à l'exception des
 locations de courte durée n'excédant pas trois mois non renouvelables, portant
 sur des voitures particulières, à la part du loyer supportée par le locataire et
 correspondant à l'amortissement pratiqué par le bailleur pour la fraction du
-prix d'acquisition du véhicule excédant 18 300 euros (2) ;
+prix d'acquisition du véhicule excédant 18 300 euros ;
 
 c) Aux dépenses de toute nature résultant de l'achat, de la location ou de toute
 autre opération faite en vue d'obtenir la disposition de yachts ou de bateaux de
@@ -566,13 +565,4 @@ b - lorsqu'elles sont placées l'une et l'autre, dans les conditions définies a
 a, sous le contrôle d'une même tierce entreprise.
 
 Les modalités d'application du présent 12 sont fixées par décret en Conseil
-d'Etat (3).
-
-(1) Ces dispositions sont applicables pour la détermination des résultats des
-exercices clos à compter du 31 décembre 2001.
-
-(2) Cette limite de 18 300 euros s'applique aux exercices clos à compter du 1er
-janvier 2002.
-
-(3) Ces dispositions s'appliquent aux redevances prises en compte à compter du
-1er janvier 2002 dans les résultats des concédants et concessionnaires.
+d'Etat.

@@ -43,7 +43,6 @@ du travail.
 
 Les organisations visées au premier alinéa se réunissent également, une fois
 tous les cinq ans, pour engager une négociation sur l'institution d'un ou
-plusieurs plans d'épargne interentreprises ou plans partenariaux d'épargne
-salariale volontaire pour la retraite interentreprises mentionnés aux articles
-L. 443-1-1 et L. 443-1-2, lorsqu'il n'existe aucun accord conclu à ce niveau en
-la matière.
+plusieurs plans d'épargne interentreprises ou plans d'épargne pour la retraite
+collectifs interentreprises mentionnés aux articles L. 443-1-1 et L. 443-1-2,
+lorsqu'il n'existe aucun accord conclu à ce niveau en la matière.

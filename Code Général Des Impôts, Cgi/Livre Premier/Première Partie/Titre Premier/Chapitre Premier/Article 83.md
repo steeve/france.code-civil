@@ -12,16 +12,27 @@ sécurité sociale, ainsi que les cotisations au régime public de retraite
 additionnel obligatoire institué par l'article 76 de la loi n° 2003-775 du 21
 août 2003 portant réforme des retraites ;
 
+1° 0 bis Les cotisations versées conformément aux dispositions du règlement CEE
+n° 1408/71 du Conseil du 14 juin 1971 relatif à l'application des régimes de
+sécurité sociale aux travailleurs salariés et aux membres de leur famille qui se
+déplacent à l'intérieur de la Communauté ou conformément aux stipulations d'une
+convention ou d'un accord international relatif à l'application des régimes de
+sécurité sociale ;
+
 1° bis Abrogé
 
 1° ter (abrogé à compter de l'entrée en vigueur de la loi n° 2002-73 du 17
 janvier 2002).
 
 1° quater Les cotisations ou primes versées aux régimes de prévoyance
-complémentaire auxquels le salarié est affilié à titre obligatoire, dans la
-limite d'un plafond, qui tient compte des versements du salarié et de
-l'employeur, fixé par la loi. En cas d'excédent, celui-ci est ajouté à la
-rémunération ;
+complémentaire auxquels le salarié est affilié à titre obligatoire.
+
+Les cotisations ou les primes mentionnées à l'alinéa précédent sont déductibles
+dans la limite, y compris les versements de l'employeur, d'un montant égal à la
+somme de 7 % du montant annuel du plafond mentionné à l'article L. 241-3 du code
+de la sécurité sociale et de 3 % de la rémunération annuelle brute, sans que le
+total ainsi obtenu puisse excéder 3 % de huit fois le montant annuel du plafond
+précité. En cas d'excédent, celui-ci est ajouté à la rémunération ;
 
 2° Les cotisations ou primes versées aux régimes de retraite supplémentaire
 auxquels le salarié est affilié à titre obligatoire ainsi que les cotisations
@@ -30,11 +41,35 @@ prévoyance des joueurs professionnels de football institué par la charte du
 football professionnel.
 
 Les cotisations ou les primes mentionnées à l'alinéa précédent sont déductibles
-dans la limite d'un plafond fixé par la loi, qui tient compte des versements du
-salarié et de l'employeur ainsi que, le cas échéant, de l'abondement de
-l'employeur au plan partenarial d'épargne salariale volontaire pour la retraite
-défini à l'article L. 443-1-2 du code du travail. En cas d'excédent, celui-ci
-est ajouté à la rémunération ;
+dans la limite, y compris les versements de l'employeur, de 8 % de la
+rémunération annuelle brute retenue à concurrence de huit fois le montant annuel
+du plafond mentionné à l'article L. 241-3 du code de la sécurité sociale. En cas
+d'excédent, celui-ci est ajouté à la rémunération ;
+
+La limite mentionnée au deuxième alinéa est réduite, le cas échéant, des sommes
+versées par l'entreprise au plan d'épargne pour la retraite collectif défini à
+l'article L. 443-1-2 du code du travail et exonérées en application du 18° de
+l'article 81 ;
+
+2° 0 bis Par dérogation aux 1° quater et 2° et jusqu'à l'imposition des revenus
+de 2008, les dispositions du 2° dans leur rédaction en vigueur jusqu'à
+l'imposition des revenus de 2003 continuent de s'appliquer, si elles sont plus
+favorables, aux cotisations ou primes versées aux régimes de retraite et de
+prévoyance complémentaires auxquels le salarié était affilié à titre obligatoire
+avant le 25 septembre 2003, pour leur taux en vigueur avant la même date ;
+
+2° 0 ter Dans les limites prévues au deuxième alinéa du 1° quater, les
+cotisations versées aux régimes de prévoyance complémentaire et, dans les
+limites prévues aux deuxième et troisième alinéas du 2°, les cotisations versées
+aux régimes de retraite complémentaire répondant aux conditions fixées à
+l'article 3 de la directive 98/49/CE du Conseil du 29 juin 1998 relative à la
+sauvegarde des droits à pension complémentaire des travailleurs salariés et non
+salariés qui se déplacent à l'intérieur de la Communauté ou à celles prévues par
+les conventions ou accords internationaux de sécurité sociale, auxquels les
+personnes désignées au I de l'article 81 B étaient affiliées ès qualités dans un
+autre Etat avant leur prise de fonctions en France. Les cotisations sont
+déductibles jusqu'au 31 décembre de la cinquième année suivant celle de leur
+prise de fonctions ;
 
 2° bis Les contributions versées par les salariés en application des
 dispositions de l'article L. 351-3 du code du travail et destinées à financer le

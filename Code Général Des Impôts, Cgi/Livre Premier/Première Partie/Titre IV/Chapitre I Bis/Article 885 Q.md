@@ -9,5 +9,23 @@ sous réserve que ces parts soient représentatives d'apports constitués par de
 immeubles ou des droits immobiliers à destination agricole, que les baux à long
 terme consentis par le groupement répondent aux conditions prévues à l'article
 885 P, qu'ils aient été consentis au détenteur de parts, à son conjoint, à leurs
-ascendants ou descendants, ou à leurs frères ou soeurs, et que le bien loué soit
-utilisé par le preneur dans l'exercice de sa profession principale.
+ascendants ou descendants ou leurs conjoints respectifs, ou à leurs frères ou
+soeurs, et que le bien loué soit utilisé par le preneur dans l'exercice de sa
+profession principale.
+
+2° Il est complété par deux alinéas ainsi rédigés :
+
+Lorsque les baux à long terme répondant aux conditions prévues à l'article 885 P
+ont été consentis à une société à objet principalement agricole contrôlée à plus
+de 50 % par les personnes visées à l'alinéa précédent, les parts du groupement
+sont considérées comme des biens professionnels à concurrence de la
+participation détenue dans la société locataire par celles des personnes
+précitées qui y exercent leur activité professionnelle principale.
+
+Lorsque les biens ruraux donnés à bail dans les conditions prévues au premier
+alinéa sont mis à la disposition d'une société mentionnée au deuxième alinéa ou
+lorsque le droit au bail y afférent est apporté à une société de même nature,
+dans les conditions prévues respectivement par les articles L. 411-37 et L.
+411-38 du code rural, les parts du groupement sont considérées comme des biens
+professionnels dans les mêmes proportions et sous les mêmes conditions que
+celles définies par ce dernier alinéa.

@@ -46,9 +46,9 @@ II. - Pour l'application du I, il n'est pas tenu compte des bases d'imposition
 résultant des transferts d'immobilisations à l'intérieur de la Corse.
 
 III. - La diminution des bases de taxe professionnelle résultant du I n'est pas
-prise en compte pour l'application des dispositions de l'article 1647 bis et des
-2° et 3° du II de l'article 1648 B. Les dispositions du I s'appliquent après
-celles prévues aux articles 1464 A, 1464 E et 1464 F.
+prise en compte pour l'application des dispositions de l'article 1647 bis. Les
+dispositions du I s'appliquent après celles prévues aux articles 1464 A, 1464 E
+et 1464 F.
 
 IV. - Pour bénéficier des dispositions du présent article, les entreprises
 déclarent chaque année, dans les conditions prévues par l'article 1477, les

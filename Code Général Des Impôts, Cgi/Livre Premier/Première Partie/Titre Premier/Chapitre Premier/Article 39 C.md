@@ -33,14 +33,15 @@ son personnel, sont intervenues antérieurement à la même date.
 
 Par dérogation aux dispositions du premier alinéa, les entreprises donnant en
 location des biens dans les conditions prévues aux 1 et 2 de l'article L. 313-7
-du code monétaire et financier peuvent, sur option, répartir l'amortissement de
-ces biens sur la durée des contrats de crédit-bail correspondants. La dotation à
-l'amortissement de chaque exercice est alors égale à la fraction du loyer
-acquise au titre de cet exercice, qui correspond à l'amortissement du capital
-engagé pour l'acquisition des biens donnés à bail.
+du code monétaire et financier et celles pratiquant des opérations de location
+avec option d'achat peuvent, sur option, répartir l'amortissement de ces biens
+sur la durée des contrats de crédit-bail ou de location avec option d'achat
+correspondants. La dotation à l'amortissement de chaque exercice est alors égale
+à la fraction du loyer acquise au titre de cet exercice, qui correspond à
+l'amortissement du capital engagé pour l'acquisition des biens donnés à bail.
 
 Si l'option mentionnée au quatrième alinéa est exercée, elle s'applique à
-l'ensemble des biens affectés à des opérations de crédit-bail. Toutefois, les
-sociétés mentionnées à l'article 30 de la loi n° 80-531 du 15 juillet 1980
-relative aux économies d'énergie et à l'utilisation de la chaleur pourront
-exercer cette option contrat par contrat.
+l'ensemble des biens affectés à des opérations de crédit-bail ou de location
+avec option d'achat. Toutefois, les sociétés mentionnées à l'article 30 de la
+loi n° 80-531 du 15 juillet 1980 relative aux économies d'énergie et à
+l'utilisation de la chaleur pourront exercer cette option contrat par contrat.

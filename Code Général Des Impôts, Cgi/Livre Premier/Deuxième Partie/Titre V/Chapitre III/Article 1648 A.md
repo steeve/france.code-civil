@@ -115,52 +115,30 @@ son option pour le régime précité d'un écrêtement au profit du fonds
 départemental de péréquation de la taxe professionnelle au titre du I.
 
 Les prélèvements prévus au b sont versés aux fonds départementaux de péréquation
-de la taxe professionnelle. Les montants de ces prélèvements sont actualisés
-chaque année compte tenu du taux d'évolution de la dotation globale de
-fonctionnement lorsque ce taux n'est pas supérieur au taux d'accroissement des
-bases de l'établissement qui faisaient antérieurement l'objet d'un écrêtement
-avant la transformation de l'établissement public de coopération intercommunale
-en communauté urbaine ou en communauté d'agglomération. Les montants de ces
-prélèvements peuvent être augmentés dans la limite de l'accroissement d'une
-année sur l'autre des taux et des bases de l'établissement qui faisaient l'objet
-d'un écrêtement avant la transformation de l'établissement public de coopération
-intercommunale en communauté urbaine ou en communauté d'agglomération, sous
-réserve de délibérations concordantes entre l'établissement public de
-coopération intercommunale concerné et le conseil général du département
-d'implantation de l'établissement ou, le cas échéant, entre l'établissement
-public de coopération intercommunale concerné et les conseils généraux des
-départements concernés.
+de la taxe professionnelle. A compter de 2004, ces prélèvements sont égaux aux
+montants perçus par les fonds au titre de l'année précédente. Lorsque le produit
+de taxe professionnelle correspondant à l'établissement exceptionnel diminue par
+rapport à celui de l'année précédente, le montant du prélèvement est réduit dans
+la même proportion. Cette réduction est toutefois supprimée l'année suivante si
+le produit de taxe professionnelle correspondant à l'établissement exceptionnel
+redevient supérieur à celui de l'avant-dernière année. Les montants de ces
+prélèvements sont actualisés chaque année compte tenu du taux d'évolution de la
+dotation globale de fonctionnement lorsque ce taux n'est pas supérieur au taux
+d'accroissement des bases de l'établissement qui faisaient antérieurement
+l'objet d'un écrêtement avant la transformation de l'établissement public de
+coopération intercommunale en communauté urbaine ou en communauté
+d'agglomération. Les montants de ces prélèvements peuvent être augmentés dans la
+limite de l'accroissement d'une année sur l'autre des taux et des bases de
+l'établissement qui faisaient l'objet d'un écrêtement avant la transformation de
+l'établissement public de coopération intercommunale en communauté urbaine ou en
+communauté d'agglomération, sous réserve de délibérations concordantes entre
+l'établissement public de coopération intercommunale concerné et le conseil
+général du département d'implantation de l'établissement ou, le cas échéant,
+entre l'établissement public de coopération intercommunale concerné et les
+conseils généraux des départements concernés.
 
 En cas de cessation d'activité de l'établissement exceptionnel ayant donné lieu
-à écrêtement, le prélèvement est supprimé. Pour 2003, le prélèvement est diminué
-d'une fraction de la compensation prévue au D de l'article 44 de la loi de
-finances pour 1999 (n° 98-1266 du 30 décembre 1998), calculée pour chaque
-établissement exceptionnel. Cette fraction est égale à la différence entre le
-montant de la compensation versé au fonds en 2003 et celui qu'il a reçu l'année
-précédant la première année de mise en oeuvre du prélèvement. Lorsque le montant
-du produit de la taxe professionnelle correspondant à l'établissement
-exceptionnel devient inférieur au montant du prélèvement tel qu'il a été fixé
-pour la première année d'application, le prélèvement est réduit d'un montant
-assurant à l'établissement public de coopération intercommunale un produit de
-taxe professionnelle après prélèvement égal à celui dont il bénéficiait la
-première année d'application.
-
-Lorsque le montant du produit de taxe professionnelle correspondant à
-l'établissement diminue par rapport à celui de l'année d'adoption du régime du
-1° du I de l'article 1609 nonies C mais qu'il reste supérieur au montant du
-prélèvement, tel qu'il a été fixé pour la première année d'application, le
-montant du prélèvement est réduit dans la même proportion.
-
-Pour l'application des sixième et septième alinéas, le montant du produit de
-taxe professionnelle correspondant à l'établissement est égal pour l'année
-considérée au produit des bases de taxe professionnelle de l'établissement par
-le taux voté l'année précédente par l'établissement public de coopération
-intercommunale. Pour les établissements publics de coopération intercommunale
-soumis aux dispositions du présent b au plus tard en 2003, les produits de taxe
-professionnelle utilisés pour la détermination de la variation à la baisse du
-prélèvement sont majorés de la compensation prévue au D de l'article 44 de la
-loi de finances pour 1999 précitée perçue au titre de ces années par le fonds
-départemental de péréquation de la taxe professionnelle.
+à écrêtement, le prélèvement est supprimé.
 
 c. A compter du 1er janvier 2002, les dispositions du b sont également
 applicables aux établissements publics de coopération intercommunale mentionnés
@@ -299,9 +277,12 @@ interdépartementale prélève, par priorité, au profit de l'établissement pub
 de coopération intercommunale dont les bases ont été écrêtées ou qui a subi un
 prélèvement au titre du troisième alinéa du b du 2 du I ter, 20 % au moins et 40
 % au plus du montant de l'écrêtement ou du prélèvement, majoré le cas échéant du
-montant des compensations prévues au IV de l'article 6 de la loi de finances
-pour 1987 (n° 86-1317 du 30 décembre 1986) et au D de l'article 44 de la loi de
-finances pour 1999 précitée.
+montant de la compensation prévue au IV de l'article 6 de la loi de finances
+pour 1987 (n° 86-1317 du 30 décembre 1986), ainsi que du montant perçu en 2003
+en application du D de l'article 44 de la loi de finances pour 1999 précitée et
+du 1 du III de l'article 29 de la loi de finances pour 2003 (n° 2002-1575 du 30
+décembre 2002) indexé chaque année comme la dotation forfaitaire prévue par
+l'article L. 2334-7 du code général des collectivités territoriales.
 
 Le conseil général ou, le cas échéant, la commission interdépartementale peut
 également prélever au profit des établissements publics de coopération
@@ -338,12 +319,15 @@ commission interdépartementale prélève, par priorité, au profit de
 l'établissement public de coopération intercommunale dont les bases ont été
 écrêtées ou qui a subi un prélèvement au titre du troisième alinéa du b du 2 du
 I ter, deux tiers au moins, trois quarts au plus du montant de l'écrêtement ou
-du prélèvement, majoré le cas échéant du montant des compensations prévues au IV
-de l'article 6 de la loi de finances pour 1987 précitée et au D de l'article 44
-de la loi de finances pour 1999 précitée. Cette proportion est fixée de telle
-sorte que les communes bénéficiaires du fonds ne subissent pas, d'une année sur
-l'autre, une diminution excessive du montant de leur attribution liée à cette
-affectation prioritaire.
+du prélèvement, majoré le cas échéant du montant de la compensation prévue au IV
+de l'article 6 de la loi de finances pour 1987 précitée, ainsi que du montant
+perçu en 2003 en application du D de l'article 44 de la loi de finances pour
+1999 précitée et du 1 du III de l'article 29 de la loi de finances pour 2003
+précitée indexé chaque année comme la dotation forfaitaire prévue par l'article
+L. 2334-7 du code général des collectivités territoriales. Cette proportion est
+fixée de telle sorte que les communes bénéficiaires du fonds ne subissent pas,
+d'une année sur l'autre, une diminution excessive du montant de leur attribution
+liée à cette affectation prioritaire.
 
 A compter du 1er janvier 2000, le prélèvement au profit de l'établissement
 public de coopération intercommunale dont les bases ont été écrêtées ou qui a

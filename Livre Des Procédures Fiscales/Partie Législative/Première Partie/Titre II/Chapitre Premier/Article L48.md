@@ -4,13 +4,13 @@ A l'issue d'un examen contradictoire de la situation fiscale personnelle au
 regard de l'impôt sur le revenu ou d'une vérification de comptabilité, lorsque
 des redressements sont envisagés, l'administration doit indiquer, avant que le
 contribuable présente ses observations ou accepte les rehaussements proposés,
-dans la notification prévue à l'article L. 57, le montant des droits, taxes et
-pénalités résultant de ces redressements. Lorsqu'à un stade ultérieur de la
-procédure de redressement contradictoire l'administration modifie les
-rehaussements, pour tenir compte des observations et avis recueillis au cours de
-cette procédure, cette modification est portée par écrit à la connaissance du
-contribuable avant la mise en recouvrement, qui peut alors intervenir sans
-délai.
+dans les notifications prévues aux articles L. 57 et L. 76, le montant des
+droits, taxes et pénalités résultant de ces redressements. Lorsqu'à un stade
+ultérieur de la procédure de redressement contradictoire l'administration
+modifie les rehaussements, pour tenir compte des observations et avis recueillis
+au cours de cette procédure, cette modification est portée par écrit à la
+connaissance du contribuable avant la mise en recouvrement, qui peut alors
+intervenir sans délai.
 
 Pour une société membre d'un groupe mentionné à l'article 223 A du code général
 des impôts, l'information prévue au premier alinéa porte, en ce qui concerne

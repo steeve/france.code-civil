@@ -39,7 +39,7 @@ travail.
 II. Les versements ouvrant droit à la réduction d'impôt mentionnée au I sont
 ceux effectués jusqu'au 31 décembre 2006. Ils sont retenus dans la limite
 annuelle de 20 000 euros pour les contribuables célibataires, veufs ou divorcés
-et de 40 000 euros pour les contribuables mariés soumis à imposition commune.(1)
+et de 40 000 euros pour les contribuables mariés soumis à imposition commune.
 
 La fraction d'une année excédant, le cas échéant, les limites mentionnées au
 premier alinéa ouvre droit à la réduction d'impôt dans les mêmes conditions au
@@ -49,7 +49,9 @@ III. Les souscriptions donnant lieu aux déductions prévues au 2° quater de
 l'article 83, aux articles 163 septdecies et 163 duovicies ou à la réduction
 d'impôt prévue à l'article 199 undecies A ainsi que les souscriptions financées
 au moyen de l'aide financière de l'Etat exonérée en application du 35° de
-l'article 81 n'ouvrent pas droit à la réduction d'impôt mentionnée au I.
+l'article 81 et les souscriptions au capital de sociétés uni-personnelles
+d'investissement à risque visées à l'article 208 D n'ouvrent pas droit à la
+réduction d'impôt mentionnée au I.
 
 Les actions ou parts dont la souscription a ouvert droit à la réduction d'impôt
 ne peuvent pas figurer dans un plan d'épargne en actions défini à l'article 163
@@ -71,9 +73,10 @@ prévues à l'article L. 341-4 du code de la sécurité sociale ou du décès du
 contribuable ou de l'un des époux soumis à une imposition commune.
 
 Lorsque le contribuable obtient sur sa demande, pour une souscription,
-l'application de la déduction prévue à l'article 163 octodecies A, une reprise
-des réductions d'impôt obtenues pour cette même souscription est pratiquée au
-titre de l'année de la déduction.
+l'application de la déduction prévue à l'article 163 octodecies A ou opte pour
+l'exonération mentionnée au 7 du III de l'article 150-0 A, une reprise des
+réductions d'impôt obtenues pour cette même souscription est pratiquée au titre
+de l'année de la déduction ou de l'option.
 
 V. Un décret fixe les modalités d'application du présent article, notamment les
 obligations déclaratives incombant aux contribuables et aux sociétés.

@@ -28,4 +28,12 @@ prévues à l'avant-dernier alinéa du 2°, si son projet de dépenses de recher
 est éligible au bénéfice des dispositions de l'article 244 quater B du code
 général des impôts.
 
-Un décret en Conseil d'Etat précise les conditions d'application du présent 3°.
+Un décret en Conseil d'Etat précise les conditions d'application du présent 3° ;
+
+4° Lorsque l'administration n'a pas répondu de manière motivée dans un délai de
+quatre mois à un contribuable de bonne foi qui a demandé, à partir d'une
+présentation écrite précise et complète de la situation de fait, si son
+entreprise constitue une jeune entreprise innovante au sens de l'article 44
+sexies-0 A du code général des impôts. Un décret en Conseil d'Etat précise les
+modalités d'application du présent 4° concernant les documents et informations
+qui doivent être fournis.

@@ -30,8 +30,9 @@ mère définie au premier alinéa de l'article 223 A et remplit, avant ou du fai
 de cette fusion, les conditions prévues au même alinéa, elle peut se constituer,
 depuis l'ouverture de l'exercice de la fusion, seule redevable des impôts
 mentionnés au même alinéa dus par le groupe qu'elle forme avec les sociétés
-membres de celui qui avait été constitué par la société absorbée, si, dans le
-mois qui suit la date de la réalisation de la fusion, elle exerce l'option
+membres de celui qui avait été constitué par la société absorbée, si, au plus
+tard à l'expiration du délai prévu au cinquième alinéa de l'article 223 A
+décompté de la date de la réalisation de la fusion, elle exerce l'option
 mentionnée au premier alinéa de l'article 223 A et accompagne celle-ci d'un
 document sur l'identité des sociétés membres de ce dernier groupe qui ont donné
 leur accord dans ce délai pour entrer dans le nouveau groupe. Cette disposition
@@ -39,11 +40,10 @@ s'applique aux fusions intervenues à compter du 17 novembre 1993 et qui prennen
 effet au premier jour de l'exercice de la société absorbée en cours lors de
 l'opération.
 
-Par exception aux dispositions de la première phrase du cinquième alinéa de
-l'article 223 A, la durée du premier exercice des sociétés du groupe issu de la
-fusion peut être inférieure ou supérieure à douze mois, sans préjudice de
-l'application des dispositions de l'article 37. L'option mentionnée à l'alinéa
-ci-dessus comporte l'indication de la durée de cet exercice.
+La durée du premier exercice des sociétés du groupe issu de la fusion peut être
+inférieure ou supérieure à douze mois, sans préjudice de l'application des
+dispositions de l'article 37. L'option mentionnée à l'alinéa ci-dessus comporte
+l'indication de la durée de cet exercice.
 
 La société absorbante procède, au titre de l'exercice de réalisation de la
 fusion, aux réintégrations prévues aux articles 223 F, 223 R du fait de la
@@ -78,16 +78,15 @@ Dans cette situation, si la personne morale mentionnée au premier alinéa du
 présent d souhaite constituer un groupe avec les sociétés qui composaient celui
 qui avait été formé par la société mère visée au même alinéa, ou faire entrer
 celles-ci dans le groupe dont elle est déjà membre, l'option prévue au premier
-alinéa de l'article 223 A est exercée dans le mois suivant la clôture de
-l'exercice considéré par exception aux dispositions du cinquième alinéa du même
-article. Cette option est accompagnée du document mentionné au premier alinéa du
-c ci-dessus.
+alinéa de l'article 223 A est exercée au plus tard à l'expiration du délai prévu
+au cinquième alinéa du même article, décompté de la date de cl&lt;CB&gt;ture de
+l'exercice considéré. Cette option est accompagnée du document mentionné au
+premier alinéa du c ci-dessus.
 
-Par exception aux dispositions de la première phrase du cinquième alinéa de
-l'article 223 A, la durée du premier exercice des sociétés du groupe ainsi formé
-peut être inférieure ou supérieure à douze mois, sans préjudice de l'application
-des dispositions de l'article 37. L'option mentionnée à l'alinéa ci-dessus
-comporte l'indication de la durée de cet exercice.
+La durée du premier exercice des sociétés du groupe ainsi formé peut être
+inférieure ou supérieure à douze mois, sans préjudice de l'application des
+dispositions de l'article 37. L'option mentionnée à l'alinéa ci-dessus comporte
+l'indication de la durée de cet exercice.
 
 La société mère visée au premier alinéa du présent d ajoute au résultat
 d'ensemble de l'exercice qui y est également mentionné les sommes dont la
@@ -106,4 +105,4 @@ dans le traité de scission.
 
 Pour l'application des dispositions du présent e, la société absorbante et la
 société absorbée visées au c s'entendent respectivement de chacune des sociétés
-bénéficiaires des apports et de la société scindée .
+bénéficiaires des apports et de la société scindée.

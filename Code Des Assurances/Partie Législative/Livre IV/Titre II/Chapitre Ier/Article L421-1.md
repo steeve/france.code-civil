@@ -56,12 +56,17 @@ peut exercer aucun recours contre les assurés et souscripteurs de contrats pour
 le recouvrement des indemnités qu'il a versées en application du présent
 article.
 
-Le fonds de garantie est également chargé de gérer et de financer les
-majorations de rentes prévues à l'article 1er de la loi n° 74-1118 du 27
-décembre 1974 relative à la revalorisation de certaines rentes allouées en
-réparation du préjudice causé par un véhicule terrestre à moteur et à l'article
-1er de la loi n° 51-695 du 24 mai 1951 portant majoration de certaines rentes
-viagères.
+Le fonds de garantie est également chargé de gérer et de financer, à compter de
+l'exercice 2003, les majorations de rentes prévues à l'article 1er de la loi n°
+74-1118 du 27 décembre 1974 relative à la revalorisation de certaines rentes
+allouées en réparation du préjudice causé par un véhicule terrestre à moteur et
+à l'article 1er de la loi n° 51-695 du 24 mai 1951 portant majoration de
+certaines rentes viagères, au titre des états justificatifs certifiés. Les
+créances relatives aux majorations de rentes visées au présent alinéa se
+prescrivent dans un délai de quatre ans à partir du premier jour de l'année
+suivant celle au cours de laquelle les droits ont été acquis. Le fonds peut
+contrôler sur pièces et sur place l'exactitude des renseignements fournis par
+les organismes débirentiers.
 
 Le fonds de garantie peut financer, selon des modalités et dans des limites
 fixées par décret en Conseil d'Etat, des actions visant à réduire le nombre des
