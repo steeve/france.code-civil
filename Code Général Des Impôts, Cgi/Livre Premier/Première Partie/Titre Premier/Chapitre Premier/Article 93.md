@@ -27,9 +27,10 @@ pour l'adhésion à une association agréée ne sont pas prises en compte pour l
 détermination du résultat imposable lorsqu'elles sont supportées par l'Etat du
 fait de la réduction d'impôt mentionnée à l'article 199 quater B.
 
-Les dépenses exposées en vue de l'obtention d'un diplôme ou d'une qualification
-professionnelle dans la perspective d'une insertion ou d'une conversion
-professionnelle par les personnes tirant un revenu de la pratique d'un sport.
+5° Les dépenses exposées en vue de l'obtention d'un diplôme ou d'une
+qualification professionnelle dans la perspective d'une insertion ou d'une
+conversion professionnelle par les personnes tirant un revenu de la pratique
+d'un sport.
 
 1 bis. (Abrogé).
 
