@@ -19,7 +19,8 @@ il rend compte de sa gestion ;
 2° Il représente l'établissement en justice et dans tous les actes de la vie
 civile ;
 
-3° Il prépare le budget et l'exécute ;
+3° Il prépare le budget du fonds de solidarité vieillesse et le budget annexe du
+fonds de réserve et les exécute ;
 
 4° Il est ordonnateur des dépenses et des recettes du fonds ;
 
