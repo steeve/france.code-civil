@@ -3,7 +3,7 @@ Article 256 B
 Les personnes morales de droit public ne sont pas assujetties à la taxe sur la
 valeur ajoutée pour l'activité de leurs services administratifs, sociaux,
 éducatifs, culturels et sportifs lorsque leur non-assujettissement n'entraîne
-pas de distorsions dans les conditions de la concurrence [*exonération*].
+pas de distorsions dans les conditions de la concurrence.
 
 Ces personnes morales sont assujetties, en tout état de cause, pour les
 opérations suivantes :
@@ -14,8 +14,7 @@ Distribution de gaz , d'électricité et d'énergie thermique,
 
 Opérations des économats et établissements similaires,
 
-Transports de biens, à l'exception de ceux effectués par L'administration des
-postes et télécommunications,
+Transports de biens, à l'exception de ceux effectués par la Poste
 
 Transports de personnes,
 
@@ -35,4 +34,6 @@ Diffusion ou redistribution de programmes de radiodiffusion ou de télévision ;
 
 Télécommunications.
 
-"Fourniture d'eau dans les communes d'au moins 3.000 habitants" (nota).
+Fourniture d'eau dans les communes d'au moins 3.000 habitants ou par les
+établissements publics de coopération intercommunale dont le champ d'action
+s'exerce sur un territoire d'au moins 3.000 habitants.

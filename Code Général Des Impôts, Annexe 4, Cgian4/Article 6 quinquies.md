@@ -4,7 +4,7 @@ Les placements visés à l'article 6 quater comprennent :
 
 Les bons du Trésor sur formules.
 
-Les bons d'épargne des PTT.
+Les bons d'épargne des PTT ou de La Poste ;
 
 Les bons de la caisse nationale de crédit agricole.
 

@@ -52,18 +52,21 @@ III bis. Le taux du prélèvement est fixé :
 
 Ce taux est applicable aux intérêts servis aux salariés sur les versements
 effectués dans les fonds salariaux et aux produits capitalisés sur un plan
-d'épargne populaire dont la durée est égale ou supérieure à 4 ans ;
+d'épargne populaire dont la durée est égale ou supérieure à 4 ans ; ((il est
+fixé à 35 p. 100 pour les produits capitalisés sur un plan d'épargne populaire
+dont la durée est inférieure à quatre ans ;)) (2') ;
 
 1° bis. A 15 p. 100 pour les produits des titres de créances négociables sur un
 marché réglementé en application d'une disposition législative particulière et
 non susceptibles d'être cotés (3).
 
 2° A un tiers pour les produits des bons du Trésor sur formules, des bons
-d'épargne des PTT, des bons de la caisse nationale du crédit agricole, des bons
-de caisse du crédit mutuel, des bons à cinq ans du crédit foncier de France, des
-bons émis par les groupements régionaux d'épargne et de prévoyance, des bons de
-la caisse nationale de l'énergie et des bons de caisse des établissements de
-crédit, sous réserve que ces titres aient été émis avant le 1er juin 1978 ;
+d'épargne ((des PTT ou de la Poste)) (2'), des bons de la caisse nationale du
+crédit agricole, des bons de caisse du crédit mutuel, des bons à cinq ans du
+crédit foncier de France, des bons émis par les groupements régionaux d'épargne
+et de prévoyance, des bons de la caisse nationale de l'énergie et des bons de
+caisse des établissements de crédit, sous réserve que ces titres aient été émis
+avant le 1er juin 1978 ;
 
 3° A 40 % pour les produits des bons énumérés au 2° qui ont été émis entre le
 1er juin 1978 et la date d'entrée en vigueur de la loi n° 80-30 du 18 janvier
@@ -82,26 +85,31 @@ et à 42 % lorsque cette condition n'est pas remplie ;
 courus du 1er janvier 1980 au 31 décembre 1982 inclus ;
 
 6° A 45 % pour les produits des bons et titres émis à compter du 1er janvier
-1983 et à 35 p. 100 pour les produits des bons et titres émis à compter du 1er
-janvier 1990, lorsque le bénéficiaire des intérêts autorise l'établissement
-payeur, au moment du paiement, à communiquer son identité et son domicile fiscal
-à l'administration fiscale, et à 50 % lorsque cette condition n'est pas remplie
-;
+1983, à 35 p. 100 pour les produits des bons et titres émis à compter du 1er
+janvier 1990 ((et à 15 p. 100 pour les produits de ceux émis à compter du 1er
+janvier 1995)) (2'), lorsque le bénéficiaire des intérêts autorise
+l'établissement payeur, au moment du paiement, à communiquer son identité et son
+domicile fiscal à l'administration fiscale, et à 50 % lorsque cette condition
+n'est pas remplie ;
 
 7° A 45 % pour les produits des placements, autres que les bons et titres courus
 à partir du 1er janvier 1983, à 35 p. 100 pour les produits de placements courus
-à partir du 1er janvier 1990.
+à partir du 1er janvier 1990 ((et à 15 p. 100 pour les produits des placements
+courus à partir du 1er janvier 1995)) (2') ;
 
 8° A 15 p. 100 pour les produits des parts émises par les fonds communs de
 créances. Le boni de liquidation peut être soumis à ce prélèvement au taux de 35
 p. 100 (3).
+
+((Le taux de 35 p. 100 est remplacé par celui de 15 p. 100 lorsque le boni est
+réparti à compter du 1er janvier 1995.)) (2')
 
 IV. L'option pour le prélèvement est subordonnée :
 
 a. En ce qui concerne les produits d'obligations, à la condition que l'emprunt
 ait été émis dans des conditions approuvées par le ministre de l'économie et des
 finances et qu'il ne figure pas sur la liste des valeurs assorties d'une clause
-d'indexation visées à l'article 158-3, troisième alinéa ;
+d'indexation visées ((au 1° du troisième alinéa de l'article 158)) (2') ;
 
 b. En ce qui concerne les produits des bons de caisse, à la condition que les
 bons aient été émis par des établissements de crédit ;
@@ -120,6 +128,8 @@ décret (4).
 (1) Annexe IV, art. 6 quater et 6 quinquies.
 
 (2) Voir décret n° 76-79 du 26 janvier 1976 (J.O. du 29).
+
+(2') Modification de la loi 93-1352. [*Cf. Instruction 1994-12-26 5I-1-95.*]
 
 (3) Taux applicable aux produits encaissés à compter du 1er janvier 1990.
 
