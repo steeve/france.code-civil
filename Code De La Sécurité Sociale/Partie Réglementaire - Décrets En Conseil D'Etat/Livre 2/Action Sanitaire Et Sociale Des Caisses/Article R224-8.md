@@ -1,34 +1,26 @@
 Article R224-8
 ----
-Le conseil d'administration de l'union des caisses nationales de sécurité
-sociale comprend quinze membres, à raison de :
+Le conseil d'administration de l'Union des caisses nationales de sécurité
+sociale comprend vingt-six membres :
 
-1°) cinq représentants de la caisse nationale de l'assurance maladie des
-travailleurs salariés ;
+a) Neuf représentants des assurés sociaux désignés par les organisations
+syndicales nationales de salariés représentatives ;
 
-2°) cinq représentants de la caisse nationale d'assurance vieillesse des
-travailleurs salariés ;
+b) Neuf représentants des employeurs désignés par les organisations
+professionnelles nationales d'employeurs représentatives ;
 
-3°) cinq représentants de la caisse nationale des allocations familiales.
-
-Les représentants de chaque caisse nationale sont désignés par le conseil
-d'administration parmi ses membres.
-
-Neuf des quinze membres du conseil d'administration de l'union sont choisis
-parmi les administrateurs assurés sociaux et six parmi les administrateurs
-employeurs.
+c) Le président et le vice-président de chacune des caisses nationales et de
+l'Agence centrale des organismes de sécurité sociale.
 
 La répartition des sièges entre les organisations représentant les assurés
-sociaux s'effectue sur la base du total des voix obtenues par ces organisations
-au niveau national lors des élections aux conseils d'administration des caisses
-primaires d'assurance maladie et des caisses d'allocations familiales et selon
-la règle de la représentation proportionnelle au plus fort reste.
+sociaux s'effectue sur la base du nombre des voix obtenues par chaque
+organisation au niveau national lors des élections aux conseils d'administration
+des caisses primaires d'assurance maladie et des caisses d'allocations
+familiales et selon la règle de la représentation proportionnelle au plus fort
+reste.
 
-Si cette répartition n'est pas respectée ou si l'une ou plusieurs des
-organisations syndicales nationales représentatives au sens de l'article L.
-133-2 du code du travail ne sont pas représentées, le ministre chargé de la
-sécurité sociale invite les conseils d'administration des trois caisses
-nationales à procéder à une nouvelle délibération.
+Les suppléants sont désignés conformément aux dispositions de l'article L.
+231-3, dernier alinéa.
 
-Ces conseils désignent en outre un suppléant appartenant à chacune des
-organisations représentées au conseil d'administration de l'union.
+Le président du conseil d'administration de l'Union des caisses nationales de
+sécurité sociale est élu en son sein par le conseil.
