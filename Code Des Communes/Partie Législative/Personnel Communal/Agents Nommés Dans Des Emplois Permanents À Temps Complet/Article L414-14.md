@@ -15,7 +15,8 @@ communal, les listes mentionnées à l'alinéa précédent peuvent être
 exceptionnellement utilisées lorsque la représentation du personnel ne peut être
 assurée dans les conditions prévues par les articles L. 414-11 et L. 414-13.
 
-La décision de recourir à cette procédure appartient au préfet.
+La décision de recourir à cette procédure appartient au maire ou président de
+syndicat de communes.
 
 Un arrêté du ministre de l'intérieur détermine les départements pour lesquels
 sont établies les listes mentionnées au premier alinéa, l'autorité chargée

@@ -7,25 +7,18 @@ tout ou en partie, et pour la durée de son mandat :
 les services publics municipaux ;
 
 2° De fixer, dans les limites déterminées par le conseil municipal, les tarifs
-des droits de voirie, de stationnement,
-
-de dépôt temporaire sur les voies et autres lieux publics, et,
-
-d'une manière générale, des droits prévus au profit de la commune qui n'ont pas
-un caractère fiscal ;
+des droits de voirie, de stationnement, de dépôt temporaire sur les voies et
+autres lieux publics, et, d'une manière générale, des droits prévus au profit de
+la commune qui n'ont pas un caractère fiscal ;
 
 3° De procéder, dans les limites fixées par le conseil municipal, à la
 réalisation des emprunts destinés au financement des investissements prévus par
-le budget lorsqu'il s'agit d'emprunts contractés auprès des organismes
-mentionnés au 1° de l'article L. 121-38, et de passer à cet effet les actes
-nécessaires ;
+le budget et de passer à cet effet les actes nécessaires ;
 
-4° De prendre toute décision concernant la préparation,
-
-la passation, l'exécution et le règlement des marchés de travaux,
-
-de fournitures et de services qui peuvent être réglementairement passés de gré à
-gré en raison de leur montant, lorsque les crédits sont prévus au budget ;
+4° De prendre toute décision concernant la préparation, la passation,
+l'exécution et le règlement des marchés de travaux, de fournitures et de
+services qui peuvent être réglementairement passés de gré à gré en raison de
+leur montant, lorsque les crédits sont prévus au budget ;
 
 5° De décider de la conclusion et de la révision du louage de choses pour une
 durée n'excédant pas douze ans ;
@@ -55,14 +48,6 @@ leurs demandes ;
 
 14° De fixer les reprises d'alignement en application d'un document d'urbanisme.
 
-//LOI 753 :
-
 15° D'exercer au nom de la commune le droit de préemption à l'intérieur des
 zones d'aménagement différé ou des zones d'intervention foncière ou le droit de
-substitution dans les zones de préemption des périmètres sensibles.//
-
-//Complété par la loi n° 78-753 du 17 juillet 1978 :
-
-15° D'exercer au nom de la commune le droit de préemption à l'intérieur des
-zones d'aménagement différé ou des zones d'intervention foncière ou le droit de
-substitution dans les zones de préemption des périmètres sensibles .//
+substitution dans les zones de préemption des périmètres sensibles.

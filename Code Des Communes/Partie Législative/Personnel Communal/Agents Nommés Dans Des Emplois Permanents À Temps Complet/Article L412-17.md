@@ -5,4 +5,4 @@ de secrétaire général, secrétaire général adjoint ou secrétaire de mairie
 directeur général des services techniques et de direction de services autres
 qu'administratifs peuvent être pourvus par la voie du recrutement direct parmi
 les personnes justifiant des conditions de diplômes ou de capacité fixées par
-décision de l'autorité supérieure.
+décision de l'autorité qualifiée.

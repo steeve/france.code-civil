@@ -25,15 +25,14 @@ d'une zone d'agglomération nouvelle.
 
 Sauf dans le cas où les statuts de l'établissement en disposent autrement, les
 décisions prises pour l'application du premier alinéa doivent être adoptées à la
-majorité des deux tiers des voix de l'organe délibérant et approuvées par
-l'autorité de tutelle. Elles sont valables pour une durée de trois ans à compter
-de leur entrée en vigueur.
+majorité des deux tiers des voix de l'organe délibérant. Elles sont valables
+pour une durée de trois ans à compter de leur entrée en vigueur.
 
-Si l'organe délibérant a pris une délibération approuvée par l'autorité de
-tutelle pour renoncer à la perception de la taxe ou si, à l'expiration du délai
-de trois ans mentionné au troisième alinéa, il n'a pas pris de nouvelle
-délibération prorogeant à son profit pour une nouvelle période de trois ans le
-transfert des pouvoirs mentionnés au premier alinéa, les conseils municipaux
-reprennent les droits qui leur appartiennent en application des articles 1585 A
-et 1585 E-II. Cette disposition n'est pas applicable dans les communes ou
-fractions de communes situées à l'intérieur d'une zone d'agglomération nouvelle.
+Si l'organe délibérant a pris une délibération pour renoncer à la perception de
+la taxe ou si, à l'expiration du délai de trois ans mentionné au troisième
+alinéa, il n'a pas pris de nouvelle délibération prorogeant à son profit pour
+une nouvelle période de trois ans le transfert des pouvoirs mentionnés au
+premier alinéa, les conseils municipaux reprennent les droits qui leur
+appartiennent en application des articles 1585 A et 1585 E-II. Cette disposition
+n'est pas applicable dans les communes ou fractions de communes situées à
+l'intérieur d'une zone d'agglomération nouvelle.

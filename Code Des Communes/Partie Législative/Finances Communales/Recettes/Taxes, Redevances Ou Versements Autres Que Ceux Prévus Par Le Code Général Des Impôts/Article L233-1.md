@@ -4,12 +4,11 @@ Toute commune peut, par délibération du conseil municipal, établir une taxe s
 l'électricité consommée pour le chauffage, l'éclairage et les usages
 domestiques.
 
-Un réglement d'administration publique fixe le maximum et détermine les
+Un règlement d'administration publique fixe le maximum et détermine les
 modalités d'assiette et de perception de cette taxe, les exonérations ainsi que
 les dégrèvements autorisés pour les petites cotes et pour les charges de
 famille. Il peut prévoir plusieurs modes d'assiette et de perception entre
 lesquels les communes ont le choix.
 
 Le maximum établi en vertu de l'alinéa précédent ne peut être dépassé qu'à titre
-exceptionnel. Dans ce cas, les délibérations du conseil municipal sont soumises
-à l'approbation par décret en Conseil d'Etat [*conditions de forme*].
+exceptionnel.

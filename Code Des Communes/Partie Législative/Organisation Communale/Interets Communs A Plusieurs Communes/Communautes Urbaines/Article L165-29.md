@@ -9,7 +9,7 @@ totale est inférieure au quotient prévu à l'article précédent [*population
 municipale totale de l'agglomération divisée par le nombre de sièges à
 pourvoir*], sont pourvus au scrutin majoritaire de liste plurinominal à deux
 tours par un collège composé des maires des communes intéressées et convoqué par
-le préfet.
+le représentant de l'Etat dans le département [*commissaire de la République*].
 
 Pour l'application du précédent alinéa aux agglomérations comportant plus de
 cinquante communes [*nombre*], les sièges sont pourvus sur la base de secteurs

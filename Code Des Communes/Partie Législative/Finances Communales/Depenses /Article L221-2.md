@@ -18,8 +18,7 @@ adjoints ;
 5° La cotisation au budget du centre de formation du personnel communal ;
 
 6° Les traitements et autres frais de personnel de la police municipale et
-rurale et, pour la commune dont la police est étatisée le contingent assigné
-conformément à la loi ;
+rurale ;
 
 7° Les dépenses du personnel et de matériel relatives au service de secours et
 de défense contre l'incendie, ledit service étant organisé dans le cadre
@@ -48,7 +47,7 @@ sociale ;
 tribunal d'instance, ainsi que ceux d'achat et d'entretien de son mobilier dans
 les communes sièges de ce tribunal ;
 
-15° [*abrogé*]
+15. [*abrogé*]
 
 16° [*dépenses obligatoires*] La clôture des cimetières, leur entretien et leur
 translation dans les cas déterminés par le titre VI du Livre III et les

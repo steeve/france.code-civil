@@ -8,14 +8,16 @@ représente en justice la section ; il peut toujours, sans autorisation préalab
 du conseil municipal, faire tous actes conservatoires ou interruptifs de
 déchéance.
 
-Toutefois, la commission syndicale peut être consultée par le sous-préfet. Elle
-doit l'être si le sous-préfet est saisi d'une demande [*d'un tiers*] des
-habitants et propriétaires de la section, formulée dans les conditions prévues à
-l'article L. 151-6 [*demande motivée fondée sur l'application des articles L.
-151-9 à L. 151-14*] .
+Toutefois, la commission syndicale peut être consultée par le représentant de
+l'Etat dans le département [*commissaire de la République*]. Elle doit l'être si
+le représentant de l'Etat dans le département est saisi d'une demande [*d'un
+tiers*] des habitants et propriétaires de la section, formulée dans les
+conditions prévues à l'article L. 151-6 [*demande motivée fondée sur
+l'application des articles L. 151-9 à L. 151-14*] .
 
 En cas de désaccord entre le conseil municipal et la commission syndicale, il
-est statué par arrêté motivé du préfet. Si le préfet estime qu'il y a lieu
-d'exercer ou de soutenir l'action et que le conseil municipal soit de l'avis
-opposé, l'arrêté précité charge le président de la commission syndicale de
-représenter la section dans les conditions prévues à l'article suivant.
+est statué par arrêté motivé du représentant de l'Etat dans le département. Si
+le représentant de l'Etat dans le département estime qu'il y a lieu d'exercer ou
+de soutenir l'action et que le conseil municipal soit de l'avis opposé, l'arrêté
+précité charge le président de la commission syndicale de représenter la section
+dans les conditions prévues à l'article suivant.
