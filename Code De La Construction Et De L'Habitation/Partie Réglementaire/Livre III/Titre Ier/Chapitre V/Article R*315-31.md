@@ -7,15 +7,18 @@ ou partiel au cours de la période d'indisponibilité des fonds, le contrat
 d'épargne-logement est résilié de plein droit et le souscripteur perd le
 bénéfice des dispositions de la présente section.
 
-DECR. 1031 DU 16 décembre 1980 :
-
 Toutefois, si le retrait intervient après l'écoulement de la période minimale
 prévue au contrat, le bénéfice de la présente section lui est conservé pour
 cette période et les périodes de douze mois consécutives.
 
-Si le retrait [*des fonds*] intervient entre la quatrième et la cinquième année
-d'un plan d'épargne-logement ouvert à compter du 1er janvier 1981 [*date*] le
-bénéfice de la présente section est conservé pour la période de quatre ans ; la
-prime versée par l'Etat est dans ce cas réduite dans une proportion fixée par
-arrêté du ministre chargé des finances, du ministre chargé de la construction et
-de l'habitation et du ministre chargé des postes et télécommunications.
+Si le retrait intervient entre la quatrième et la cinquième année d'un plan
+d'épargne-logement ouvert à compter du 1er janvier 1981, le bénéfice de la
+présente section est conservé pour la période de quatre ans ; la prime versée
+par l'Etat est dans ce cas réduite dans une proportion fixée par arrêté du
+ministre chargé des finances, du ministre chargé de la construction et de
+l'habitation et du ministre chargé des postes et télécommunications.
+
+Si le retrait intervient entre la troisième et la quatrième année d'un plan
+ouvert à compter du 15 juin 1983 le bénéfice de la présente section est conservé
+pour la période de trois ans ; la prime versée par l'Etat est dans ce cas
+réduite dans une proportion fixée par l'arrêté susmentionné.
