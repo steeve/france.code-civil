@@ -1,6 +1,6 @@
 Article 204 ter
 ----
-I Lors du dépôt de la déclaration abrégée prévue à l'article 242 quater, les
+I. Lors du dépôt de la déclaration abrégée prévue à l'article 242 quater, les
 entreprises visées à l'article 267 quinquies versent une somme calculée en
 appliquant au chiffre d'affaires total réalisé au cours de la période
 d'imposition un coefficient (1) égal au rapport existant, l'année précédente,
@@ -27,12 +27,21 @@ nouvellement admis à compter du 1er janvier 1993 à un régime simplifié
 d'imposition à la T.V.A. ; ces derniers calculent leur coefficient provisoire
 selon les règles posées à l'article 217.
 
-II Pour l'année du début de leur activité, les entreprises nouvelles peuvent
+((I bis. Pour le calcul du coefficient déterminé dans la déclaration annuelle de
+régularisation prévue à l'article 242 sexies en ce qui concerne l'année civile
+1993 ou aux articles 242 septies A et 242 septies B en ce qui concerne les
+exercices comprenant les droits à déduction du mois de juillet 1993, il est fait
+abstraction du complément de taxe déductible visé au deuxième alinéa du 7 de
+l'article 271 A du code général des impôts)) (2).
+
+II. Pour l'année du début de leur activité, les entreprises nouvelles peuvent
 calculer le montant de leurs versements en appliquant des coefficients
 provisoires déterminés sous leur responsabilité.
 
-III En cas de modification importante des conditions d'exploitation des
+III. En cas de modification importante des conditions d'exploitation des
 entreprises, celles-ci peuvent être autorisées par le service des impôts à
 procéder à l'ajustement des coefficients visés au I.
 
-1) Voir art. 242 septies G.
+(1) Voir art. 242 septies G.
+
+(2) Modification du décret.
