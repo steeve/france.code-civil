@@ -1,15 +1,12 @@
 Article R321-16
 ----
-Les montants et modalités de constitution du cautionnement de réciprocité sont
-fixés par le ministre de l'économie et des finances de façon à représenter la
-contrepartie des cautionnement ou garantie exigés des entreprises françaises
-dans le pays auquel ressortit l'entreprise étrangère intéressée.
-
-La restitution du cautionnement ne peut intervenir que s'il ne se trouve plus
-justifié par l'application du principe de réciprocité, ou lorsque l'entreprise
-étrangère, ayant mis fin à ses opérations sur le territoire de la République
-française, les a totalement liquidées. En outre, la restitution n'intervient
-qu'à l'expiration d'un délai de trois mois à compter de la date de publication
-au Journal officiel d'un avis permettant à tout créancier intéressé de présenter
-au ministre de l'économie et des finances ses observations sur la restitution
-envisagée.
+Pendant les cinq exercices suivant la délivrance des agréments mentionnés aux
+articles L. 321-1, L. 321-7 et L. 321-9, l'entreprise doit présenter à la
+commission de contrôle des assurances, pour chaque semestre, un compte rendu
+d'exécution du programme d'activités mentionné à l'article L. 321-10. Si
+l'activité de l'entreprise n'est pas conforme au programme d'activités, la
+commission prend les mesures utiles en vue de la protection des intérêts des
+assurés. Sans préjudice de la mise en oeuvre, le cas échéant, des mesures
+prévues aux articles L. 310-17, L. 310-18 et L. 323-1-1, la commission peut
+saisir le ministre chargé de l'économie et des finances en vue de l'application
+des dispositions de l'article L. 325-1.

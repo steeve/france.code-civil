@@ -1,9 +1,10 @@
 Article R334-15
 ----
-Le fonds de garantie des entreprises françaises agréées pour pratiquer une ou
-plusieurs des branches mentionnées aux 20 à 28 de l'article R. 321-1 est égal au
-tiers du montant réglementaire de la marge de solvabilité défini à l'article R.
-334-13, sans pouvoir être inférieur aux seuils définis ci-après :
+Le fonds de garantie des entreprises visées au 1° de l'article L. 310-2 agréées
+pour pratiquer une ou plusieurs des branches mentionnées aux 20 à 28 de
+l'article R. 321-1 est égal au tiers du montant réglementaire de la marge de
+solvabilité défini à l'article R. 334-13, sans pouvoir être inférieur aux seuils
+définis ci-après :
 
 - 800.000 unités de compte de la Communauté économique européenne pour les
 entreprises constituées sous la forme de société anonyme ;

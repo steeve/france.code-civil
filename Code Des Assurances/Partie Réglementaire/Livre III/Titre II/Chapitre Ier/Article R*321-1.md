@@ -149,7 +149,7 @@ Assistance aux personnes en difficulté, notamment au cours de déplacements.
 20. Vie-Décès :
 
 Toute opération comportant des engagements dont l'exécution dépend de la durée
-de la vie humaine.
+de la vie humaine autre que les activités visées aux branches 22, 23 et 26.
 
 21. Nuptialité-Natalité :
 
@@ -185,17 +185,5 @@ représentatifs des réserves d'entreprises autres que celles mentionnées à
 l'article L. 310-1 et qui fournissent des prestations en cas de vie, en cas de
 décès ou en cas de cessation ou de réduction d'activités.
 
-26. Prévoyance collective :
-
-Toute opération à caractère collectif définie à la section I du chapitre Ier du
-titre IV du livre IV.
-
-27. (mention abrogée).
-
-28. Epargne :
-
-Toute opération d'appel à l'épargne dans le but de réunir des sommes versées par
-les adhérents, soit en vue de les affecter à des comptes de dépôt portant
-intérêt, soit en vue de la capitalisation en commun, avec participation aux
-bénéfices d'autres sociétés, gérées ou administrées directement ou
-indirectement.
+26. Toute opération à caractère collectif définie à la section I du chapitre Ier
+du titre IV du livre IV.

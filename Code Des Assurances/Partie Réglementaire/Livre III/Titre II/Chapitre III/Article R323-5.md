@@ -1,16 +1,8 @@
 Article R323-5
 ----
-Lorsque la marge de solvabilité d'une entreprise étrangère dont le siège social
-n'est pas établi sur le territoire d'un Etat membre de la Communauté économique
-européenne et qui ne fait l'objet d'aucune vérification de solvabilité globale,
-n'atteint pas le fonds de garantie ou si ce fonds n'est pas constitué
-réglementairement, la commission de contrôle des assurances exige de
-l'entreprise un plan de financement à court terme, qui doit être soumis à son
-approbation dans le délai d'un mois.
-
-Il en est de même lorsque l'entreprise fait l'objet d'une vérification de
-solvabilité globale exercée par la commission de contrôle des assurances.
-
-Les dirigeants de l'entreprise qui ne produit pas un plan de financement à court
-terme, ou qui n'exécute pas dans les conditions et délais prévus celui qui a été
-approuvé, sont passibles des sanctions prévues à l'article R. 328-1.
+Lorsque, conformément aux dispositions du troisième alinéa de l'article L.
+323-1-1, un administrateur provisoire est désigné auprès d'une entreprise
+soumise au contrôle de l'Etat en vertu de l'article L. 310-1, un commissaire
+contrôleur est désigné par la commission de contrôle des assurances auprès de
+l'entreprise et dispose des pouvoirs mentionnés au paragraphe I de l'article R.
+323-1.

@@ -1,9 +1,9 @@
 Article R353-2
 ----
 Toute demande d'agrément ou d'extension d'agrément de libre prestation de
-services prévue au deuxième alinéa de l'article L. 353-5 et à l'article L.
-321-1-1 doit être produite en double exemplaire auprès du ministre chargé de
-l'économie et des finances et comporter :
+services prévue au deuxième alinéa de l'article L. 353-5 et à l'article L. 321-8
+doit être produite en double exemplaire auprès du ministre chargé de l'économie
+et des finances et comporter :
 
 1° Les certificats mentionnés aux 1° et 2° du I de l'article R. 353-1 ;
 

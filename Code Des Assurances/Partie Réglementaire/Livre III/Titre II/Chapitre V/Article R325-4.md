@@ -1,11 +1,11 @@
 Article R325-4
 ----
 Avant de procéder au retrait d'agrément prévu à l'article L. 325-1 ou au 5° de
-l'article L. 310-18, dans le cas d'une entreprise étrangère dont le siège social
-est établi sur le territoire d'un Etat membre des communautés économiques
-européennes, le ministre chargé de l'économie et des finances ou la commission
-de contrôle des assurances, selon le cas, consulte l'autorité de contrôle de
-l'Etat où est situé le siège social de cette entreprise.
+l'article L. 310-18, dans le cas d'une entreprise agréée conformément aux
+dispositions de l'article L. 321-7, le ministre chargé de l'économie et des
+finances ou la commission de contrôle des assurances, selon le cas, consulte
+l'autorité de contrôle de l'Etat où est situé le siège social de cette
+entreprise.
 
 Toutefois, le ministre chargé de l'économie et des finances ou la commission de
 contrôle des assurances, selon le cas, peut suspendre l'activité de l'entreprise

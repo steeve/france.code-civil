@@ -1,8 +1,8 @@
 Article R334-13
 ----
-Pour les entreprises françaises, le montant minimal réglementaire de la marge de
-solvabilité est déterminé, en fonction des branches exercées, en application des
-dispositions suivantes :
+Pour les entreprises visées au 1° de l'article L. 310-2, le montant minimal
+réglementaire de la marge de solvabilité est déterminé, en fonction des branches
+exercées, en application des dispositions suivantes :
 
 a) Pour les branches 20 et 21, à l'exception des assurances complémentaires :
 

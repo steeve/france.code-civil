@@ -10,9 +10,9 @@ souscrit par l'autorité de contrôle d'un autre Etat membre d'assurer la
 vérification de solvabilité globale.
 
 L'entreprise est alors dispensée de l'obligation de déposer en France le
-cautionnement prévu par le d de l'article R. 321-8.
+cautionnement prévu par l'article R. 321-12.
 
 Lorsque la vérification de solvabilité globale est exercée par l'autorité de
-contrôle d'un autre Etat membre de la communauté économique européenne, la
-commission de contrôle des assurances lui adresse toutes informations utiles
-concernant l'activité de la succursale française de l'entreprise.
+contrôle d'un autre Etat membre de l'Espace économique européen, la commission
+de contrôle des assurances lui adresse toutes informations utiles concernant
+l'activité de la succursale française de l'entreprise.

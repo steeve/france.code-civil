@@ -1,12 +1,9 @@
 Article R321-23
 ----
-Lorsqu'une entreprise agréée dans la branche de protection juridique désire
-opter pour une autre modalité de gestion que celle qu'elle a précédemment
-choisie, elle est tenue d'en informer le ministre chargé de l'économie et des
-finances.
-
-La nouvelle modalité choisie prend effet un mois après sa notification au
-ministre, sauf opposition par ce dernier dans le même délai pour un motif de
-nature à remettre en cause la décision d'agrément.
-
-Les deuxième et troisième alinéas de l'article R. 321-22 sont applicables.
+Une entreprise dont tous les agréments ont cessé de plein droit d'être valables
+ou ont fait l'objet d'arrêtés constatant leur caducité cesse d'être soumise au
+contrôle de l'Etat au sens de l'article L. 310-1 dès lors que l'ensemble des
+engagements résultant des contrats souscrits par l'entreprise ont été
+intégralement et définitivement réglés aux assurés et aux tiers bénéficiaires ou
+ont fait l'objet d'un transfert autorisé dans les conditions prévues aux
+articles L. 324-1, L. 354-1 et L. 354-1-1.

@@ -11,8 +11,8 @@ siège social énumérant les branches que l'entreprise est habilitée à pratiq
 ainsi que les engagements qu'elle garantit effectivement, attestant qu'elle
 dispose pour l'ensemble de ses activités du montant minimal du fonds de garantie
 ou, s'il est plus élevé, du montant réglementaire de la marge de solvabilité et
-indiquant que l'agrément permet à l'entreprise de travailler hors de l'Etat
-membre des communautés où elle est établie ;
+indiquant que l'agrément permet à l'entreprise de travailler hors de l'Etat non
+communautaire membre de l'Espace économique européen où elle est établie ;
 
 2° En outre, si l'entreprise opère à partir d'une succursale, un certificat
 délivré par les autorités compétentes de l'Etat où cette succursale est établie
