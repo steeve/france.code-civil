@@ -1,14 +1,20 @@
 Article R53-20
 ----
-Sur décision du procureur de la République ou, en cours d'information, du juge
-d'instruction, les scellés contenant des échantillons de matériel biologique
-saisis dans le cadre d'une enquête préliminaire, d'une enquête pour crime ou
-délit flagrant, ou d'une instruction préparatoire suivie pour l'une des
-infractions mentionnées à l'article 706-55 et ayant fait l'objet d'un
-conditionnement normalisé, sont conservés, jusqu'à l'expiration des délais
-prévus par l'article R. 53-14, par le service central de préservation des
-prélèvements biologiques de l'institut de recherche criminelle de la gendarmerie
-nationale.
+Sur décision du procureur de la République, de l'officier de police judiciaire
+ou, en cours d'information, du juge d'instruction, les scellés relatifs aux
+traces et échantillons mentionnés aux 1°, 3° et 4° de l'article R. 53-10 et
+ayant fait l'objet d'un conditionnement normalisé selon des modalités fixées par
+arrêté conjoint du ministre de la justice, garde des sceaux, du ministre de
+l'intérieur et du ministre de la défense sont adressés au service central de
+préservation des prélèvements biologiques en vue de leur conservation.
+
+Ces scellés sont accompagnés des informations mentionnées à l'article R. 53-11.
+Ils sont conservés pendant le délai de quarante ans prévu par l'article R.
+53-14. Il est procédé à leur destruction à l'expiration du délai. En cas
+d'effacement d'une information enregistrée au fichier avant ce délai, le service
+procède, sur réquisition de l'autorité judiciaire ou de l'officier de police
+judiciaire agissant sur instruction de cette dernière, à la destruction du
+scellé.
 
 Dans les conditions prévues par la loi n° 78-17 du 6 janvier 1978 relative à
 l'informatique, aux fichiers et aux libertés, les informations transmises au
