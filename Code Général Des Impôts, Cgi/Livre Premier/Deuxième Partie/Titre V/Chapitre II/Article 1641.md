@@ -28,11 +28,11 @@ principale ;
 taxes qui sont établies et recouvrées comme en matière de contributions directes
 au profit de toutes collectivités, fonds ou organismes divers.
 
-3. En contrepartie des dégrèvements prévus à l'article 1414 C, l'Etat perçoit un
+3. En contrepartie des dégrèvements prévus à l'article 1414 A, l'Etat perçoit un
 prélèvement assis sur les valeurs locatives servant de base à la taxe
 d'habitation diminuées des abattements votés par la commune en application de
-l'article 1411. Les redevables visés aux articles 1414, ((1414 bis,)) (M) (1)
-1414 A et 1414 B en sont toutefois exonérés pour leur habitation principale.
+l'article 1411. Les redevables visés aux articles 1414 et 1414 A en sont
+toutefois exonérés pour leur habitation principale.
 
 Le taux de ce prélèvement est fixé comme suit :
 
@@ -53,8 +53,3 @@ II. Pour frais d'assiette et de recouvrement, l'Etat perçoit 5,4 % du montant
 des taxes visées au I ainsi que de la taxe d'habitation due pour les locaux
 meublés affectés à l'habitation principale. Ce taux est réduit à 4,4 % pour les
 impositions perçues au profit des collectivités locales et de leurs groupements.
-
-(M) Modification.
-
-(1) Loi 98-1267 du 30 décembre 1998 art. 37 II Finances rectificative pour 1998
-: Ces dispositions s'appliquent à compter du 1er janvier 1999.

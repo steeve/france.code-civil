@@ -12,7 +12,7 @@ dans les conditions fixées par le directeur général des impôts, à proposer
 d'office, en matière de taxe foncière, le dégrèvement des droits formant
 surtaxe.
 
-Sauf s'il s'agit des dégrèvements d'office prévus par les articles 1414 III,
-1414 A, 1414 B et 1414 C du code général des impôts, les propositions de
-dégrèvements sont communiquées par l'administration au maire ou à la commission
-communale des impôts directs conformément à l'article R. 198-3.
+Sauf s'il s'agit des dégrèvements d'office prévus au III de l'article 1414 et à
+l'article 1414 A du code général des impôts, les propositions de dégrèvements
+sont communiquées par l'administration au maire ou à la commission communale des
+impôts directs conformément à l'article R. 198-3.

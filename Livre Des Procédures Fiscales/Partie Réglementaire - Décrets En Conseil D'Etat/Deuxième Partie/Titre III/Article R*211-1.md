@@ -8,6 +8,6 @@ cas d'instance devant les tribunaux, celle au cours de laquelle la décision
 intervenue a été notifiée.
 
 L'administration des impôts peut prononcer dans le délai de trente ans les
-dégrèvements d'office prévus aux articles 1414 III, 1414 A, 1414 B, 1414 C et
+dégrèvements d'office prévus au III de l'article 1414 et aux articles 1414 A et
 1601 du code général des impôts relatifs à la taxe d'habitation et à la taxe
 pour frais de chambres de métiers.

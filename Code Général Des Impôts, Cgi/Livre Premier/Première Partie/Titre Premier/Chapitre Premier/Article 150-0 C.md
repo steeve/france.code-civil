@@ -1,8 +1,8 @@
 Article 150-0 C
 ----
-1. L'imposition de la plus-value retirée de la cession de titres mentionnés au I
-de l'article 150-0 A peut, si le produit de la cession est investi, avant le 31
-décembre de l'année qui suit celle de la cession, dans la souscription en
+I. 1. L'imposition de la plus-value retirée de la cession de titres mentionnés
+au I de l'article 150-0 A peut, si le produit de la cession est investi, avant
+le 31 décembre de l'année qui suit celle de la cession, dans la souscription en
 numéraire au capital de société dont les titres, à la date de la souscription,
 ne sont pas admis à la négociation sur un marché réglementé, être reportée au
 moment où s'opérera la transmission, le rachat ou l'annulation des titres reçus
@@ -14,13 +14,14 @@ et dans le délai applicable à cette déclaration.
 
 2. Le report d'imposition est subordonné à la condition qu'à la date de la
 cession les droits détenus directement par les membres du foyer fiscal du cédant
-excèdent 10 % des bénéfices sociaux de la société dont les titres sont cédés.
+excèdent 5 % des bénéfices sociaux de la société dont les titres sont cédés.
 
 3. Le report d'imposition est, en outre, subordonné aux conditions suivantes :
 
-a) Au cours des cinq années précédant la cession, le cédant doit avoir été
-salarié de la société dont les titres sont cédés ou y avoir exercé l'une des
-fonctions énumérées au 1° de l'article 885 O bis ;
+a) Au cours des trois années précédant la cession ou depuis la création de la
+société dont les titres sont cédés si elle est créée depuis moins de trois
+années, le cédant doit avoir été salarié de ladite société ou y avoir exercé
+l'une des fonctions énumérées au 1° de l'article 885 O bis ;
 
 b) Le produit de la cession doit être investi dans la souscription en numéraire
 au capital initial ou dans l'augmentation de capital en numéraire d'une société
@@ -81,4 +82,13 @@ B, l'imposition de la plus-value antérieurement reportée en application du 1 e
 reportée de plein droit au moment où s'opérera la transmission, le rachat, le
 remboursement ou l'annulation des nouveaux titres reçus.
 
-7. (abrogé).
+7. (Abrogé)
+
+II. - Lorsque les titres reçus dans les cas prévus aux 1 et 6 du I font l'objet
+d'une cession dont le produit est investi dans la souscription en numéraire au
+capital d'une société dans les conditions fixées au même I, l'imposition des
+plus-values antérieurement reportée peut, à la demande du contribuable, être
+reportée de nouveau au moment où s'opérera la transmission, le rachat ou
+l'annulation des nouveaux titres reçus à condition que l'imposition de la
+plus-value réalisée lors de cette cession soit elle-même reportée. Dans ce cas,
+les conditions prévues au 2 et au a du 3 du I ne sont pas applicables.
