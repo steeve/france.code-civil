@@ -5,9 +5,8 @@ l'autorisation de mise sur le marché prévue audit article les médicaments
 homéopathiques vétérinaires autres qu'immunologiques satisfaisant à l'ensemble
 des conditions énumérées ci-dessous :
 
-1° Etre destinés à être administrés à des animaux de compagnie ou à des espèces
-exotiques dont la chair ou les produits ne sont pas destinés à la consommation
-humaine ;
+1° Administration à des animaux dont la chair ou les produits ne sont pas
+destinés à la consommation humaine ;
 
 2° Absence d'indication thérapeutique particulière sur l'étiquetage ou dans
 toute information relative au médicament ;

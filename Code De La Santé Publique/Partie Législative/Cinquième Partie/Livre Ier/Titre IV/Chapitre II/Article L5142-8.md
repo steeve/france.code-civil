@@ -17,11 +17,8 @@ renouvelant, suspendant ou supprimant l'autorisation prévue à l'article L.
 5142-2, ainsi que les règles de procédure applicables aux recours ouverts contre
 lesdites décisions ;
 
-4° Les règles concernant la distribution et la délivrance des aliments
-médicamenteux ;
-
-5° Les conditions auxquelles est subordonnée la publicité concernant les
+4° Les conditions auxquelles est subordonnée la publicité concernant les
 établissements mentionnés à l'article L. 5142-1 ;
 
-6° Les conditions auxquelles est subordonnée l'autorisation d'importer des
+5° Les conditions auxquelles est subordonnée l'autorisation d'importer des
 médicaments vétérinaires prévue à l'article L. 5142-7.
