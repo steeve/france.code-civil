@@ -1,12 +1,10 @@
 Article L815-4
 ----
-L'Etat prend en charge la totalité des dépenses relatives aux établissements
-visés à l'article L. 815-2.
+Seront punis des peines prévues par l'article 433-17 du code pénal :
 
-L'Etat prend en charge la rétribution du personnel administratif et enseignant
-et les dépenses d'ordre pédagogique définies par le décret pris en application
-du paragraphe 3 de l'article 14 de la loi n° 83-663 du 22 juillet 1983 susvisée,
-des établissements visés à l'article L. 815-1.
+1° Ceux qui auront usurpé le titre de docteur vétérinaire accordé conformément
+aux dispositions de la loi du 31 juillet 1923 ou le titre de vétérinaire ;
 
-Les dépenses de construction, d'entretien et de fonctionnement matériel des
-établissements visés à l'article L. 815-1 sont à la charge des régions.
+2° Ceux qui, étant régulièrement docteurs vétérinaires sans être docteurs en
+médecine, n'auront pas fait suivre leur titre de docteur du titre de
+vétérinaire.
