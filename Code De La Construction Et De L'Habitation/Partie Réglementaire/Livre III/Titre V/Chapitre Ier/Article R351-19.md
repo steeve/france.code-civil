@@ -1,7 +1,7 @@
 Article R351-19
 ----
-Le coefficient K, au plus égal à 0,95, est déterminé par les formules suivantes
-:
+Le coefficient K, au plus égal à 0,95, est déterminé pour chaque intervalle de
+ressources de 500F en appliquant les formules suivantes :
 
 - si le bénéficiaire est locataire :
 
@@ -9,8 +9,8 @@ K = 0,95 - ((R - (r X N))/(CM X N)) - si le bénéficiaire est propriétaire :
 
 K = 0,95 -(R/(CM X N)) dans lesquelles :
 
-R représente les ressources déterminées conformément à l'article R. 351.5,
-arrondies au franc inférieur ;
+R représente la limite supérieure de l'intervalle dans lequel se situent les
+ressources appréciées conformément à l'article R. 351-5 ;
 
 r est un coefficient fixé par arrêté conjoint des ministres chargés du logement,
 du budget, de la sécurité sociale et de l'agriculture ;

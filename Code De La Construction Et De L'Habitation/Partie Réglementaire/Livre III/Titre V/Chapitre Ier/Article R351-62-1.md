@@ -17,7 +17,8 @@ L'équivalence de loyer et de charges minima ainsi obtenue est majorée d'un
 montant égal à une valeur numérique fixée par arrêté conjoint des ministres
 chargés du logement, du budget, de la sécurité sociale et de l'agriculture.
 
-Le résultat est divisé par douze et arrondi au franc immédiatement inférieur.
-Pour le calcul de cette équivalence de loyer et de charges minima, les
-ressources à prendre en considération sont déterminées dans les conditions
-prévues à l'article R. 351-61.
+L'équivalence de loyer et de charges minima est déterminée pour chaque
+intervalle de ressources de 500 F mentionné à l'article R. 351-61-1. Les
+pourcentages et le coefficient N prévus au premier alinéa du présent article
+sont appliqués à la limite supérieure de l'intervalle dans lequel se situent les
+ressources appréciées conformément à l'article R. 351-5.

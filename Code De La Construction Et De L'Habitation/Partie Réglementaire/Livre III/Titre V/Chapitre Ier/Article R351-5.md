@@ -1,56 +1,73 @@
 Article R351-5
 ----
-Les ressources servant à déterminer le loyer minimum qui doit rester à la charge
-du bénéficiaire et le coéfficient de prise en charge, tels que définis à
-l'article R. 351-19, sont celles percues pendant l'année civile précédant la
-période prévue par l'article R.351-4 par le bénéficiaire son conjoint et les
+I. - Les ressources prises en considération pour le calcul de l'aide
+personnalisée sont celles perçues par le bénéficiaire, son conjoint et les
 personnes vivant habituellement au foyer. Sont considérées comme vivant
-habituellement au foyer les personnes y ayant résidé plus de six mois [*durée*]
-au cours de ladite année civile et qui y résident encore au moment de la demande
-ou au début de la période de paiement. Les ressources prises en considération
-s'entendent du total des revenus nets catégoriels retenus pour l'établissement
-de l'impôt sur le revenu d'après le barème des revenus taxés à un taux
-proportionnel ou soumis à un prélèvement libératoire de l'impôt sur le revenu,
-ainsi que des revenus perçus hors de France ou versés par une organisation
-internationale et après application :
+habituellement au foyer les personnes y ayant résidé plus de six mois au cours
+de l'année civile précédant la période de paiement prévue par l'article R. 351-4
+et qui y résident encore au moment de la demande ou au début de la période de
+paiement.
 
-d'une déduction représentative des frais de garde des enfants à charge, dont le
-montant maximum est fixé par arrêté des ministres chargés du logement, du
-budget, de la sécurité sociale et de l'agriculture ".
+Sont retenues les ressources perçues pendant ladite année civile, appréciées
+selon les dispositions ci-dessous et après application le cas échéant des
+dispositions des articles R. 351-6, R. 351-7-1, R. 351-7-2 et R. 351-10 à R.
+351-14-1, sauf dans les cas prévus à l'article R. 351-7 où sont retenues les
+ressources évaluées forfaitairement conformément aux dispositions dudit article.
 
-" - de la déduction au titre des créances alimentaires mentionnée au 2° du II de
-l'article 156 du code général des impôts ;
+II. - Les ressources prises en considération s'entendent du total des revenus
+nets catégoriels retenus pour l'établissement de l'impôt sur le revenu d'après
+le barème, des revenus taxés à un taux proportionnel ou soumis à un prélèvement
+libératoire de l'impôt sur le revenu, ainsi que des revenus perçus hors de
+France ou versés par une organisation internationale.
 
-" - de l'abattement mentionné à l'article 157 bis du code général des impôts en
-faveur des personnes âgées ou invalides.
+Est également prise en considération, suivant les règles applicables en matière
+d'imposition aux traitements et salaires prévues au deuxième alinéa du 3° de
+l'article 83 et au quatrième alinéa du 5 (a) de l'article 158 du code général
+des impôts, l'indemnité journalière mentionnée au 2° de l'article L. 431-1 du
+code de la sécurité sociale.
 
-" Est exclue du décompte des ressources l'allocation mentionnée à l'article 4 de
-la loi n° 88-1088 du 1er décembre 1988 relative au revenu minimum d'insertion et
-servie soit au bénéficiaire ou à son conjoint, soit aux autres personnes
-définies à l'alinéa 1er du présent article. "
+Ne sont pas déduits du décompte des ressources les déficits constatés au cours
+d'une année antérieure à celle qui est prise en considération et qui font
+l'objet d'un report, en vertu de l'article 156-I du code général des impôts.
 
-" Il est fait abstraction des déductions opérées en vertu de l'article 156-1 du
-code général des impôts au titre des reports des déficits constatés au cours
-d'une année antérieure à celle qui est prise en considération.
+Sont déduits de ce décompte :
 
-" Les arrérages des rentes viagères constituées en faveur d'une personne
-handicapée et mentionnés à l'article 199 septies du code général des impôts sont
-également exclus du décompte des ressources.
+- les frais de garde des enfants à charge, dans la limite d'un montant fixé par
+arrêté des ministres chargés du logement, du budget, de la sécurité sociale et
+de l'agriculture ;
 
-" Lorsque les ressources ne provenant pas d'une activité salariée ne sont pas
-connues au moment de la demande ou du réexamen du droit, il est tenu compte des
-dernières ressources connues et déterminées dans les conditions prévues au
-deuxième alinéa. Ces ressources sont revalorisées par application du taux
+- les créances alimentaires mentionnées au 2° du II de l'article 156 du code
+général des impôts ;
+
+- l'abattement mentionné à l'article 157 bis du code général des impôts pour les
+personnes nées avant le 1er janvier 1931 et pour les personnes invalides.
+
+Sont exclus de ce décompte :
+
+- l'allocation mentionnée à l'article 4 de la loi n° 88-1088 du 1er décembre
+1988 relative au revenu minimum d'insertion et servie soit au bénéficiaire ou à
+son conjoint, soit aux autres personnes définies au I du présent article ;
+
+- les arrérages des rentes viagères constituées en faveur d'une personne
+handicapée et mentionnés à l'article 199 septies du code général des impôts.
+
+III. - Lorsque les ressources ne provenant pas d'une activité salariée ne sont
+pas connues au moment de la demande ou du réexamen du droit, il est tenu compte
+des dernières ressources connues et déterminées dans les conditions prévues au
+présent article. Ces ressources sont revalorisées par application du taux
 d'évolution en moyenne annuelle de l'indice général des prix à la consommation
 des ménages pour l'année civile de référence figurant dans le rapport économique
-et financier annexé au projet de loi finances. "
+et financier annexé au projet de loi finances.
 
-Ne sont prises en compte que pour la fraction dépassant le plafond individuel
-prévu à l'article L. 815-8 du code de la sécurité sociale les ressources de
-chacune des personnes vivant habituellement au foyer qui sont : Soit ascendants
-du bénéficiaire ou de son conjoint âgés d'au moins soixante-cinq ans ou d'au
-moins soixante ans en cas d'inaptitude au travail ; Soit "grands infirmes" au
-sens de l'article 169 du code de la famille et de l'aide sociale et qui sont
-ascendants, descendants ou collatéraux aux deuxième et troisième degrés du
-bénéficiaire ou de son conjoint ; Soit enfants du bénéficiaire ou de son
-conjoint.
+IV. - Ne sont prises en compte que pour la fraction dépassant le plafond
+individuel prévu à l'article L. 815-8 du code de la sécurité sociale les
+ressources de chacune des personnes vivant habituellement au foyer qui sont :
+
+Soit ascendants du bénéficiaire ou de son conjoint âgés d'au moins soixante-cinq
+ans ou d'au moins soixante ans en cas d'inaptitude au travail ;
+
+Soit "grands infirmes" au sens de l'article 169 du code de la famille et de
+l'aide sociale et qui sont ascendants, descendants ou collatéraux aux deuxième
+et troisième degrés du bénéficiaire ou de son conjoint ;
+
+Soit enfants du bénéficiaire ou de son conjoint.
