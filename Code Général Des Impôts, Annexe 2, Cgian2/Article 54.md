@@ -18,10 +18,9 @@ condition qu'elles soient constamment restées inscrites au nom de la personne
 morale participante ou déposées dans les conditions définies au 2° ;
 
 2° Elles doivent déposer les actions au porteur à la Banque de France, à la
-caisse des dépôts et consignations, au crédit national (1) ou dans tout autre
+caisse des dépôts et consignations, ((à la société anonyme Natexis ou toute
+société qu'elle contrôle au sens de l'article 355-1 de la loi n° 66-537 du 24
+juillet 1966 sur les sociétés commerciales)) (M) ou dans tout autre
 établissement qui pourrait être agréé à cet effet par l'administration.
 
-(1) Loi 97-1239 1997-12-29 art. 41 V Finances rectificative pour 1997 : les mots
-"Crédit national" sont remplaçés par les mots : "la société anonyme Natexis ou
-toute société qu'elle contrôle au sens de l'article 355-1 de la loi n° 66-537 du
-24 juillet 1966 sur les sociétés commerciales".
+(M) Modification.

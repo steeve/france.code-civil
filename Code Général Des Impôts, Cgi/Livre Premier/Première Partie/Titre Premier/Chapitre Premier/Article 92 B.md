@@ -40,7 +40,8 @@ opérations réalisées à compter du 1er janvier 1996.
 
 La limite mentionnée au premier alinéa est fixée à 200 000 F pour les opérations
 réalisées en 1996 et à 100 000 F pour les opérations réalisées à compter du 1er
-janvier 1997 (5').
+janvier 1997 (5'). ((Elle est fixée à 50 000 F à compter de l'imposition des
+revenus de 1998)) (M).
 
 I bis. Sous réserve des dispositions du I, les gains nets retirés de la cession
 des parts ou actions de fonds communs de placement ou de sociétés
@@ -57,8 +58,9 @@ plus-value réalisée en cas d'échange de titres résultant d'une opération d'
 publique, de fusion, de scission, d'absorption d'un fonds commun de placement
 par une société d'investissement à capital variable réalisée conformément à la
 réglementation en vigueur ou d'un apport de titres à une société soumise à
-l'impôt sur les sociétés, peut être reportée au moment où s'opérera la cession
-ou le rachat des titres reçus lors de l'échange.
+l'impôt sur les sociétés, peut être reportée au moment où s'opérera la cession,
+((le rachat, le remboursement ou l'annulation)) (M) des titres reçus lors de
+l'échange.
 
 Ces dispositions sont également applicables aux échanges avec soulte à condition
 que celle-ci n'excède pas 10 p. 100 de la valeur nominale des titres reçus.
@@ -69,7 +71,7 @@ Le report est subordonné à la condition que le contribuable en fasse la demand
 et déclare le montant de la plus-value dans les conditions prévues à l'article
 97.
 
-((Lorsque l'échange des titres est réalisé par une société ou un groupement dont
+Lorsque l'échange des titres est réalisé par une société ou un groupement dont
 les associés ou membres sont personnellement passibles de l'impôt sur le revenu
 pour la part des bénéfices correspondant à leurs droits dans la société ou le
 groupement, ces associés ou membres peuvent bénéficier du report d'imposition,
@@ -77,17 +79,19 @@ sous les mêmes conditions, jusqu'à la date de la cession, du rachat ou de
 l'annulation de leurs droits dans la société ou le groupement ou jusqu'à celle
 de la cession, du rachat, du remboursement ou de l'annulation des titres reçus
 en échange si cet événement est antérieur. Les conditions d'application du
-présent alinéa sont précisées par décret)) (M).
+présent alinéa sont précisées par décret.
 
 2 Les conditions d'application du 1, et notamment les modalités de déclaration
 de la plus-value et de report de l'imposition, sont précisées par décret (7).
 
 III. Pour l'application du régime d'imposition défini au présent article lorsque
-les titres reçus dans les cas prévus au II font l'objet d'un échange dans les
-mêmes conditions, l'imposition des plus-values antérieurement reportée peut, à
-la demande du contribuable, être reportée de nouveau au moment où s'opérera la
-cession ou le rachat des nouveaux titres reçus à condition que l'imposition de
-la plus-value réalisée lors de cet échange soit elle-même reportée (3).
+les titres reçus dans les cas prévus au II font l'objet d'un échange ((dans les
+conditions prévues au II, au troisième alinéa de l'article 150 A bis ou au 4 du
+I ter de l'article 160)) (M), l'imposition des plus-values antérieurement
+reportée peut, à la demande du contribuable, être reportée de nouveau au moment
+où s'opérera la cession, ((le rachat, le remboursement ou l'annulation)) (M) des
+nouveaux titres reçus à condition que l'imposition de la plus-value réalisée
+lors de cet échange soit elle-même reportée (3).
 
 IV. Les plus-values, autres que celles mentionnées au I bis, dont l'imposition a
 été reportée en application du II sont exonérées lorsque la plus-value réalisée
@@ -115,10 +119,10 @@ nationalisation, voir art. 248 B.
 
 (5') [*Cf. Instruction 1996-02-07 5G-2-96.*]
 
+(M) Modification.
+
 (6) Ces dispositions sont applicables aux opérations réalisées à compter du 1er
 janvier 1996. [*Cf. Instructions 1996-06-13 5G-6-96, 1996-07-23 5G-9-96*].
-
-(M) Modification de la loi 96-1181.
 
 (7) Voir Annexe III, art. 41 quatervicies à 41 sexvicies.
 
