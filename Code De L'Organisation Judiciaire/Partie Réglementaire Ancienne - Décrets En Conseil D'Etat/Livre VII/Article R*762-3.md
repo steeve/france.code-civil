@@ -8,3 +8,6 @@ la juridiction conformément aux dispositions de l'article L311-15.
 
 Les dispositions des articles R761-17, R761-19 et R761-20 sont applicables à
 l'assemblée mentionnée à l'alinéa ci-dessus.
+
+Chaque année, les juges de proximité présentent oralement à l'assemblée leur
+rapport général d'activité mentionné à l'article R. 331-6.

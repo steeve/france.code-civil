@@ -48,7 +48,7 @@ débroussaillement en bordure des voies ferrées et au règlement des indemnité
 
 15° Des contestations relatives à l'établissement et à l'exercice des servitudes
 instituées par les articles 123, 124, 126, 127, 135, 136 et 137 du Code rural,
-ainsi qu'aux indemnités dues en raison de ces servitudes ;
+ainsi qu'aux indemnités dues en raison de ces servitudes (1) ;
 
 16° Des contestations relatives aux servitudes établies au profit des
-associations syndicales prévues par la loi du 21 juin 1865.
+associations syndicales prévues par la loi du 21 juin 1865 (2) .
