@@ -15,14 +15,11 @@ administrateurs désignés par le préfet, d'un des administrateurs représentan
 les locataires et de l'administrateur désigné par les conseils d'administration
 des caisses d'allocations familiales ;
 
-- s'il s'agit d'une société anonyme d'habitations à loyer modéré, de cinq
-administrateurs ou membres du conseil de surveillance de la société et d'un
-administrateur ou membre du conseil de surveillance représentant les locataires
-;
-
-- s'il s'agit d'une société coopérative de production d'HLM ou d'une société
-d'économie mixte, de membres du conseil d'administration ou de surveillance de
-la société.
+- s'il s'agit d'une société anonyme d'habitations à loyer modéré, d'une société
+anonyme coopérative de production d'habitations à loyer modéré, d'une société
+d'économie mixte gérant des logements sociaux, de cinq administrateurs ou
+membres du conseil de surveillance de la société et d'un administrateur ou
+membre du conseil de surveillance représentant les locataires ;
 
 Si la dispersion géographique de son parc locatif le justifie, le conseil
 d'administration ou de surveillance peut décider de créer plusieurs commissions
