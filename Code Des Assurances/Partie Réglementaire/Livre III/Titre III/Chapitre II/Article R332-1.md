@@ -1,15 +1,20 @@
 Article R332-1
 ----
-Les engagements réglementés mentionnés à l'article R. 331-1 doivent, à toute
+1. Les engagements réglementés mentionnés à l'article R. 331-1 doivent, à toute
 époque, être représentés par des actifs équivalents.
 
-Les engagements pris dans une monnaie doivent être couverts par des actifs
-libellés ou réalisables dans cette même monnaie.
+2. Les engagements pris dans une monnaie doivent être couverts par des actifs
+congruents, c'est-à-dire libellés ou réalisables dans cette monnaie.
 
-Toutefois, les engagements peuvent également être couverts dans les conditions
-prévues à l'article R. 332-2, 5°, à l'article R. 332-16, dernier alinéa.
+3. Les actifs mentionnés au 1 doivent être localisés sur le territoire de la
+République française.
 
-Toutefois, les engagements pris dans le cadre de la coassurance communautaire
-par un coassureur, en exécution des dispositions de l'article L. 321-4, peuvent
-être couverts par des actifs répondant aux conditions énumérées au deuxième
-alinéa du présent article et localisés dans le pays de ce coassureur.
+Toutefois, les engagements pris dans le cadre de la coassurance communautaire,
+en exécution des dispositions de l'article L. 352-1, par une entreprise
+mentionnée à l'article L. 310-1 peuvent être couverts par des actifs localisés
+dans le pays de l'apériteur.
+
+4. Les engagements pris par des entreprises mentionnées à l'article L. 310-1 et
+résultant d'opérations réalisées en libre prestation de services au sens de
+l'article L. 351-1 sont soumis aux règles du pays de situation du risque lorsque
+ce dernier subordonne l'exercice de ces opérations à agrément.
