@@ -18,7 +18,9 @@ paritaire nationale de l'emploi de la branche professionnelle.
 
 Les enseignements généraux, professionnels et technologiques dispensés pendant
 la durée du contrat doivent être au minimum d'une durée égale à 25 p. 100 de la
-durée totale du contrat.
+durée totale du contrat. Toutefois, lorsqu'il existe un accord de branche ou une
+convention, l'un et l'autre étendus, la durée de ces enseignements est celle
+fixée par la convention ou l'accord.
 
 Les dispositions de l'article L. 122-3-10, premier alinéa, du présent code, ne
 s'appliquent pas au contrat de qualification.

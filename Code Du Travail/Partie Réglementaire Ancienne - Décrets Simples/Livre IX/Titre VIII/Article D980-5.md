@@ -14,5 +14,5 @@ lorsque celle-ci comporte un centre de formation identifié et structuré.
 
 Les actions d'orientation font l'objet d'une convention entre l'employeur et
 l'organisme chargé de les mettre en oeuvre. Une copie de cette convention est
-déposée en même temps que le contrat d'orientation auprès de l'Agence nationale
-pour l'emploi.
+déposée en même temps que le contrat d'orientation auprès de la direction
+départementale du travail, de l'emploi et de la formation professionnelle.

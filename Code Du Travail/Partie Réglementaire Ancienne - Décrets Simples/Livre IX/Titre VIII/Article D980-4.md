@@ -12,7 +12,9 @@ c) Le nom du tuteur ;
 
 d) Les actions d'orientation professionnelle prévues.
 
-Il doit être déposé à l'Agence nationale pour l'emploi dès sa conclusion.
+Il doit être déposé à la direction départementale du travail, de l'emploi et de
+la formation professionnelle dès sa conclusion.
 
-L'employeur doit signaler à l'Agence nationale pour l'emploi toute rupture du
-contrat de travail qui interviendrait avant la fin de la convention.
+L'employeur doit signaler à la direction départementale du travail, de l'emploi
+et de la formation professionnelle toute rupture du contrat de travail qui
+interviendrait avant la fin de la convention.
