@@ -6,9 +6,10 @@ Pour les condamnés mineurs, le dossier d'orientation est constitué si le temps
 d'incarcération restant à subir est d'une durée supérieure à trois mois. Ce
 dossier comprend les renseignements relatifs à la situation pénale et
 pénitentiaire du condamné, les éléments afférents aux conditions de prise en
-charge sanitaire et l'avis du service socio-éducatif de l'établissement, l'avis
-du juge de l'application des peines et celui du juge des enfants s'il y a lieu,
-ainsi que la proposition du chef d'établissement.
+charge sanitaire et l'avis du service pénitentiaire d'insertion et de probation
+compétent auprès de l'établissement, l'avis du juge de l'application des peines
+et celui du juge des enfants s'il y a lieu, ainsi que la proposition du chef
+d'établissement.
 
 Les condamnés ayant à subir un temps d'incarcération d'une durée inférieure ou
 égale à un an pour les majeurs, et à trois mois pour les mineurs, peuvent faire
