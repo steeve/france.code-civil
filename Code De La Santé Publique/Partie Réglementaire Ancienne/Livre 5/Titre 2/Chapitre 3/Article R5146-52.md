@@ -10,9 +10,9 @@ l'article R. 5092. Ce registre est conservé pendant dix ans [*durée*].
 Les mentions doivent comporter un numéro d'ordre, les nom, prénoms et adresse du
 client, le nom ou la formule du médicament vétérinaire, la quantité délivrée, le
 nom du prescripteur, la date à laquelle les substances ont été remises ; le
-pharmacien ou le docteur vétérinaire reporte immédiatement sur l'ordonnance le
-numéro d'ordre sous lequel la délivrance a été enregistrée et il accompagne
-cette mention de ses nom et adresse.
+pharmacien ou le vétérinaire reporte immédiatement sur l'ordonnance la date de
+délivrance, le numéro d'ordre sous lequel la délivrance a été enregistrée ainsi
+que la quantité délivrée, et accompagne ces mentions de ses nom et adresse.
 
 Le docteur vétérinaire est dispensé de la transcription de ses propres
 ordonnances si elles sont rédigées sur des feuillets provenant de carnets à

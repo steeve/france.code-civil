@@ -1,20 +1,45 @@
 Article R5146-50
 ----
-Les aliments médicamenteux, qu'ils soient préparés à l'avance ou,
-extemporanément, par un pharmacien ou un vétérinaire exerçant dans les
-conditions prévues à l'article L. 610, sont présentés dans des sacs de couleur
-bleue portant, imprimée sur les deux faces en lettres très apparentes de quatre
-centimètres de hauteur au moins, la mention "aliment médicamenteux".
+Les emballages ou récipients des aliments médicamenteux, y compris ceux préparés
+extemporanément dans les conditions prévues aux articles L. 5143-2 et L. 5143-3,
+portent, imprimée sur les deux faces en lettres très apparentes de quatre
+centimètres de hauteur au moins, la mention "aliments médicamenteux".
 
-S'appliquent en outre aux aliments médicamenteux les règles d'étiquetage prévues
-tant pour les aliments des animaux que pour les médicaments vétérinaires. Les
-indications imposées à ce titre pourront figurer sur une étiquette cousue au
-sac.
+L'étiquetage des aliments médicamenteux doit être de couleur bleue et comporter
+les mentions prévues par la réglementation applicable à l'étiquetage des
+aliments ainsi que les mentions suivantes :
 
-Lorsque l'aliment médicamenteux est livré en vrac pour être entreposé dans des
-silos, une étiquette de couleur bleue, portant les mentions prévues à l'article
-R. 5146-49 et aux deux premiers alinéas du présent article, est apposée sur
-chaque cellule du véhicule transporteur, une cellule ne pouvant contenir qu'un
-seul aliment médicamenteux destiné à un même lot d'animaux. Une étiquette
-identique, destinée à être apposée sur le silo, accompagne le bon de livraison
-ou la facture.
+a) La dénomination de l'aliment médicamenteux ;
+
+b) Le poids net ou le volume net ;
+
+c) La composition qualitative et la quantité de prémélange médicamenteux
+incorporée dans l'aliment médicamenteux ;
+
+d) Le numéro du lot de fabrication ;
+
+e) La dénomination du prémélange médicamenteux et son numéro d'autorisation de
+mise sur le marché ;
+
+f) Le nom ou la dénomination sociale et l'adresse du fabricant de l'aliment
+médicamenteux ;
+
+g) Les animaux de destination ;
+
+h) Le cas échéant, le temps d'attente, même s'il est égal à zéro ;
+
+i) La date de péremption ;
+
+j) Les précautions de conservation, s'il y a lieu ;
+
+k) Les précautions particulières d'élimination des aliments médicamenteux non
+utilisés ou des déchets ;
+
+l) Toute autre mention prescrite par la décision d'autorisation de mise sur le
+marché du prémélange médicamenteux.
+
+Lorsque l'aliment médicamenteux est commercialisé en citernes ou autres
+contenants analogues, les mentions précitées peuvent figurer sur un document
+d'accompagnement à condition qu'un même signe distinctif figure sur le document
+d'accompagnement et le contenant afin de permettre l'identification de la
+livraison.

@@ -1,8 +1,9 @@
 Article R5068
 ----
 Une copie du rapport ou du procès-verbal de prélèvement est envoyée, par son ou
-ses auteurs, au directeur général de l'Agence française de sécurité sanitaire
-des produits de santé.
+ses auteurs, selon le cas, au directeur général de l'Agence française de
+sécurité sanitaire des produits de santé ou au directeur général de l'Agence
+française de sécurité sanitaire des aliments.
 
 L'agence indique sans délai aux agents auteurs du rapport ou du procès-verbal si
 elle doit être destinataire des échantillons prélevés, en précisant dans ce cas

@@ -13,7 +13,10 @@ c) Dans une pharmacie à usage intérieur, avec le pharmacien chargé de la gér
 ;
 
 d) Dans un établissement pharmaceutique, avec le pharmacien responsable ou
-délégué.
+délégué ;
+
+e) Dans un établissement pharmaceutique vétérinaire mentionné à l'article R.
+5145-2, avec le pharmacien ou le vétérinaire responsable ou délégué.
 
 Les pharmaciens assistants exercent leur activité dans les conditions prévues
 aux articles L. 579, L. 580, L. 595-11 et L. 599.

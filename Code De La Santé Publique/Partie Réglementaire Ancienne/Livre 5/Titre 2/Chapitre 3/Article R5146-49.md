@@ -39,11 +39,12 @@ l) Toute autre mention prescrite par la décision d'autorisation de mise sur le
 marché ;
 
 m) La mention "usage vétérinaire", le cas échéant, complétée par la mention " à
-ne délivrer que sur ordonnance", ou par la mention "à ne délivrer que sur
-ordonnance devant être conservée pendant le temps d'attente du médicament", ou
-encore par toute mention découlant des dispositions prises en application du
-deuxième alinéa de l'article R. 5146-33, ces trois dernières mentions pouvant ne
-figurer que sur le conditionnement extérieur.
+ne délivrer que sur ordonnance" ainsi que par la mention de la durée minimale de
+conservation de l'ordonnance fixée par l'arrêté prévu au dernier alinéa du II de
+l'article L. 234-1 du code rural, ou encore par toute mention découlant des
+dispositions prises en application du deuxième alinéa de l'article R. 5146-33,
+ces trois dernières mentions pouvant ne figurer que sur le conditionnement
+extérieur.
 
 Les indications prévues ci-dessus doivent être rédigées en français. Elles
 peuvent en outre être rédigées dans d'autres langues, à condition que les mêmes

@@ -1,10 +1,13 @@
 Article R5146-53-2
 ----
-Les entreprises qui produisent des substances à action thyréostatique,
-oestrogène, androgène ou gestagène et celles qui font commerce desdites
-substances ainsi que les établissements mentionnés à l'article L. 615 doivent
-consigner par ordre chronologique sur un registre ou par tout système
-d'enregistrement approprié :
+Les entreprises qui produisent des substances mentionnées au II de l'article L.
+234-2 du code rural, à savoir des substances à activité anabolisante ou
+anticatabolisante notamment des substances bêta-agonistes, oestrogènes,
+androgènes ou gestagènes, et celles qui font commerce desdites substances ainsi
+que les établissements mentionnés à l'article L. 5142-1 doivent enregistrer par
+ordre chronologique par tout système d'enregistrement approprié permettant une
+édition immédiate à la demande des autorités de contrôle et n'autorisant aucune
+modification des données après validation de leur enregistrement :
 
 1. Le nom et les quantités des substances précitées qui sont produites,
 acquises, cédées ou utilisées pour la fabrication de médicaments vétérinaires ;

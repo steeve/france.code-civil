@@ -19,6 +19,22 @@ en anesthésie, en allergologie, ou d'usage antalgique ou dentaire ;
 
 c) Les médicaments mentionnés à l'article R. 5143-5-7.
 
+Elle ne fait pas non plus obstacle, sous réserve que soit effectué un suivi
+individualisé des lots et, s'il y a lieu, leur retrait, à ce que ces mêmes
+entreprises ou organismes vendent directement :
+
+1° Aux vétérinaires, en vue de l'emploi exclusif par ces vétérinaires pour leur
+usage professionnel sur commande écrite, les médicaments figurant sur la liste
+prévue à l'article R. 5146-53-6 ;
+
+2° Aux organismes autorisés à pratiquer l'expérimentation animale, en
+application du décret n° 87-848 du 19 octobre 1987 pris pour l'application de
+l'article 454 du code pénal et du troisième alinéa de l'article 276 du code
+rural et relatif aux expériences pratiquées sur les animaux sur commande écrite
+justifiée, les médicaments à usage humain classés dans l'une des catégories de
+prescription restreinte mentionnées à l'article R. 5143-5-1 bénéficiant d'une
+autorisation de mise sur le marché.
+
 II. - Outre leurs activités de distribution aux officines, aux pharmacies
 mutualistes ou de sociétés de secours minières et aux pharmacies à usage
 intérieur, les entreprises ou organismes autorisés au titre des 1°, 2°, 3°, 4°,

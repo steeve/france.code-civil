@@ -9,4 +9,8 @@ b) Dans les pharmacies à usage intérieur, les activités mentionnées aux arti
 L. 595-2, L. 595-6 et L. 595-9-1 ;
 
 c) Dans les établissements pharmaceutiques, les activités mentionnées aux
-articles R. 5106 et R. 5114-2.
+articles R. 5106 et R. 5114-2 ;
+
+d) Dans les établissements pharmaceutiques vétérinaires, les activités ou
+opérations mentionnées aux 1° à 10° de l'article R. 5l45-2 et à l'article R.
+5145-32.

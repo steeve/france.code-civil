@@ -22,8 +22,9 @@ personnes suivantes :
 - plaignant ;
 
 - ministre chargé de la santé et, pour les pharmaciens des établissements
-relevant de son contrôle, au directeur général de l'Agence française de sécurité
-sanitaire des produits de santé ;
+relevant de leurs contrôles respectifs, selon le cas au directeur général de
+l'Agence française de sécurité sanitaire des produits de santé ou au directeur
+général de l'Agence française de sécurité sanitaire des aliments ;
 
 - appelant ;
 

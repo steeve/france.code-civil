@@ -21,9 +21,10 @@ suivantes :
 
 - plaignant ;
 
-- ministre chargé de la santé et, pour les pharmaciens des établissements
-relevant de son contrôle, directeur général de l'Agence française de sécurité
-sanitaire des produits de santé ;
+- ministre chargé de la santé et pour les pharmaciens des établissements
+relevant de leurs contrôles respectifs, selon le cas, au directeur général de
+l'Agence française de sécurité sanitaire des produits de santé ou au directeur
+général de l'Agence française de sécurité sanitaire des aliments ;
 
 - président du conseil national (en cinq exemplaires, dans ce cas).
 

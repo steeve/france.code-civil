@@ -17,10 +17,12 @@ en cas de succession, de la copie de l'acte de partage ;
 
 2° Lorsqu'elle est présentée en vue d'exercer en qualité de pharmacien
 responsable, délégué, responsable intérimaire ou délégué intérimaire d'une
-entreprise ou d'un organisme mentionné à l'article R. 5106 :
+entreprise ou d'un organisme mentionné à l'article R. 5106 ou à l'article R.
+5145-2 :
 
 a) De la justification que l'intéressé satisfait aux conditions d'exercice
-prévues, selon le cas, à l'article R. 5112 ou à l'article R. 5112-1 ;
+prévues, selon le cas, à l'article R. 5112 aux articles R. 5112-1, R. 5145-13 ou
+R. 5145-14 ;
 
 b) Lorsque l'établissement est la propriété d'une société, de la copie de l'acte
 de l'organe social compétent portant désignation de l'intéressé et fixant ses
