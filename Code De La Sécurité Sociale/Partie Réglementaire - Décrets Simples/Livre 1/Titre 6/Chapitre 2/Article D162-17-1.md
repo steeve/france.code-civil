@@ -2,7 +2,8 @@ Article D162-17-1
 ----
 Les frais d'hospitalisation pris en charge par les régimes obligatoires
 d'assurance maladie, mentionnés au I de l'article L. 162-22-2, sont ceux
-correspondant aux prestations suivantes :
+correspondant au forfait global annuel mentionné à l'article L. 162-22-8 et aux
+prestations suivantes :
 
 - forfait journalier de séjour et de soins, à l'exception du forfait journalier
 de soins de longue durée ;
@@ -58,6 +59,8 @@ dimanche et jours fériés ;
 - forfait de petit matériel ;
 
 - forfait de séance de dialyse ;
+
+- forfait d'accueil et de traitement des urgences ;
 
 - produits sanguins labiles, y compris les frais de transport y afférents ;
 
