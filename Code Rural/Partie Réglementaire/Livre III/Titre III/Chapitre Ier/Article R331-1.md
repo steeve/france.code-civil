@@ -1,25 +1,21 @@
 Article R331-1
 ----
-Le candidat à l'installation ou à l'agrandissement ou à la réunion
-d'exploitations agricoles doit justifier à la date de l'opération, conformément
-au a du 1° de l'article L. 331-3, des conditions suivantes de capacité ou
-d'expérience professionnelle :
+Satisfait aux conditions de capacité ou d'expérience professionnelle mentionnées
+au 3° de l'article L. 331-2 le candidat à l'installation, à l'agrandissement ou
+à la réunion d'exploitations agricoles qui justifie, à la date de l'opération :
 
 1° Soit de la possession d'un diplôme ou certificat d'un niveau reconnu
-équivalent au brevet d'études professionnelles agricoles ou au brevet
-professionnel agricole ;
+équivalent au brevet d'études professionnelles agricoles (BEPA) ou au brevet
+professionnel agricole (BPA) ;
 
-2° Soit de cinq ans minimum d'expérience professionnelle en l'une des qualité
-énoncées au a du 1° de l'article L. 331-3. Cette durée est réduite à trois ans
-pour les titulaires du certificat d'aptitude professionnelle agricole ou du
-brevet d'apprentissage agricole ou d'un diplôme reconnu équivalent. La durée
-d'expérience professionnelle doit avoir été acquise au cours des quinze années
-précédant la date effective de l'installation, de l'agrandissement ou de la
-réunion d'exploitations agricoles ou la date prévue par la demande
-d'autorisation d'exploiter lorsque cette autorisation est exigée.
+2° Soit de cinq ans minimum d'expérience professionnelle acquise sur une surface
+au moins égale à la moitié de l'unité de référence définie à l'article L. 312-5,
+en qualité d'exploitant, d'aide familial, d'associé d'exploitation, de salarié
+agricole ou de collaborateur d'exploitation au sens de l'article L. 321-5. Cette
+durée est réduite à trois ans pour les titulaires du brevet d'apprentissage
+agricole (BAA) ou d'un diplôme reconnu équivalent. La durée d'expérience
+professionnelle doit avoir été acquise au cours des quinze années précédant la
+date effective de l'opération en cause.
 
-Le ministre de l'agriculture définit par arrêté les listes des diplômes ou
-certificats d'un niveau reconnu équivalent au certificat d'aptitude
-professionnelle agricole ou au brevet d'apprentissage agricole et d'un niveau
-reconnu équivalent au brevet d'études professionnelles agricoles ou au brevet
-professionnel agricole.
+Le ministre de l'agriculture définit par arrêté la liste des diplômes ou
+certificats d'un niveau reconnu équivalent aux diplômes mentionnés aux 1° et 2°.
