@@ -1,5 +1,6 @@
 Article R*233-42
 ----
-Le décret en Conseil d'Etat, prévu au deuxième alinéa de l'article L. 233-32,
-modifiant la période de perception de la taxe de séjour est pris sur la
-proposition du ministre ayant l'initiative de classement [*compétence*].
+Dans les communes touristiques ou thermales et leurs groupements inscrits sur la
+liste visée à l'article L. 234-11 du présent code, la taxe de séjour peut être
+instituée dans les mêmes conditions que celles qui s'appliquent aux stations
+classées.

@@ -1,8 +1,9 @@
 Article R*234-21
 ----
-L'indice pondéré de capacité d'accueil est constaté chaque année par le préfet
-en tenant compte des possibilités d'hébergement touristique de la commune au 1er
-janvier [*fréquence*].
+L'indice pondéré de capacité d'accueil est constaté chaque année par le
+commissaire de la République en tenant compte des possibilités d'hébergement
+touristique de la commune au 1er janvier sur la base des enquêtes effectuées à
+cette date.
 
 Cet indice est obtenu en totalisant les chiffres résultant des produits suivants
 :
