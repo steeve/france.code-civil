@@ -34,12 +34,14 @@ option irrévocable, de se placer sous le régime de l'article L. 351-4.
 
 Les employeurs mentionnés au 2° ainsi que, pour leurs agents non titulaires, les
 établissements publics d'enseignement supérieur et les établissements publics à
-caractère scientifique et technologique peuvent également adhérer au régime
-prévu à l'article L. 351-4. La contribution incombant aux salariés prévue à
-l'article L. 351-5 est égale au montant de la contribution exceptionnelle qu'ils
-auraient dû verser en application de l'article 2 de la loi n° 82-939 du 4
-novembre 1982 relative à la contribution exceptionnelle de solidarité en faveur
-des travailleurs privés d'emploi et est versée par l'employeur.
+caractère scientifique et technologique et, pour les assistants d'éducation, les
+établissements d'enseignement mentionnés à l'article L. 916-1 du code de
+l'éducation peuvent également adhérer au régime prévu à l'article L. 351-4. La
+contribution incombant aux salariés prévue à l'article L. 351-5 est égale au
+montant de la contribution exceptionnelle qu'ils auraient dû verser en
+application de l'article 2 de la loi n° 82-939 du 4 novembre 1982 relative à la
+contribution exceptionnelle de solidarité en faveur des travailleurs privés
+d'emploi et est versée par l'employeur.
 
 Un décret en Conseil d'Etat fixe les règles de coordination applicables pour
 l'indemnisation des travailleurs dont les activités antérieures prises en compte
