@@ -13,3 +13,8 @@ alinéa et du décret pris pour son application, peut être annulée.
 
 Toute clause contraire aux dispositions du présent article et du décret pris
 pour son application est réputée non écrite.
+
+Les troisième à sixième alinéas de l'article L. 225-100 et l'article L.
+225-100-1 s'appliquent au rapport de gestion lorsque l'ensemble des parts sont
+détenues par des personnes ayant l'une des formes suivantes : société anonyme,
+société en commandite par actions ou société à responsabilité limitée.
