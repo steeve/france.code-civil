@@ -77,6 +77,10 @@ sont autorisés cas par cas par le ministre chargé de l'économie et des financ
 19° Prêts aux constructeurs de navires ou aux armateurs dans les conditions
 fixées à l'article R. 332-14 ;
 
+19° bis. - Créances représentatives des prêts de titres définis par la loi n°
+87-416 du 17 juin 1987 sur l'épargne dans les conditions fixées à l'article R.
+332-14-1..
+
 20° Prêts immobiliers aux personnes physiques, dans les conditions fixées à
 l'article R. 332-15 ;
 
