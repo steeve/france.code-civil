@@ -1,12 +1,15 @@
 Article R113-22
 ----
-Peut bénéficier de l'indemnité compensatoire dans les autres régions
-défavorisées mentionnées à l'article R. 113-19 ci-dessus tout agriculteur
-répondant aux conditions des 3°, 5°, 6°, 7° et 8° de l'article R. 113-20, du 3°
-de l'article R. 113-21, et en outre aux conditions suivantes :
+Les indemnités allouées à chaque agriculteur sont calculées à l'hectare dans la
+limite de cinquante hectares primables. Les surfaces fourragères utilisées pour
+l'alimentation des animaux de l'exploitation et renseignées dans la déclaration
+de surfaces annuelle et les superficies en productions végétales destinées à la
+commercialisation localisées dans les territoires de communes ou parties de
+communes de la zone de montagne sèche de métropole et dans toutes les zones
+défavorisées représentées dans les départements d'outre-mer sont indemnisées. Un
+arrêté interministériel fixe la liste des surfaces retenues. Il fixe également
+les catégories de cheptel retenues pour le calcul du chargement.
 
-1° Résider de façon permanente en zone défavorisée ;
-
-2° Etre chef d'une exploitation agricole ayant son siège et au moins 80 p. 100
-de sa superficie agricole utile, représentant au moins trois hectares de
-superficie agricole, en zone défavorisée.
+Les surfaces agricoles situées hors du département dans lequel est sise
+l'exploitation sont primées en fonction des critères afférents aux zones
+défavorisées retenus par le préfet du département du siège de l'exploitation.

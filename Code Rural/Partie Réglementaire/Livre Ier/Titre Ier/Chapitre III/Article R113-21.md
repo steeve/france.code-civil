@@ -1,20 +1,19 @@
 Article R113-21
 ----
-Peut bénéficier de l'indemnité spéciale de piémont mentionnée à l'article R.
-113-19 ci-dessus tout agriculteur répondant aux conditions des 3°, 5°, 6°, 7° et
-8° de l'article R. 113-20, qui en présente la demande et répond en outre aux
-conditions suivantes :
+1° Les groupements agricoles d'exploitation en commun (GAEC) peuvent bénéficier
+des ICHN. La prime versée est calculée sur la base des terres agricoles
+primables du groupement dans la limite du total des plafonds en hectares
+apportés par chaque associé éligible. Un plafond supplémentaire sera accordé à
+l'adhésion d'un associé éligible apportant une exploitation préexistante avec
+une surface agricole d'au moins une demi-surface minimum d'installation (SMI)
+foncière. Un plafond supplémentaire sera également accordé à l'adhésion d'un
+jeune agriculteur éligible bénéficiaire des aides publiques à l'installation et
+intégrant un GAEC sans y apporter une exploitation, sous réserve, toutefois,
+qu'à l'occasion de son adhésion les autres associés lui cèdent, soit
+immédiatement, soit par la suite (en propriété ou en location par bail à ferme),
+un droit d'utilisation du foncier pour au moins une demi-SMI ;
 
-1° Résider de façon permanente en zone de piedmont ou en zone de montagne ;
-
-2° Etre chef d'une exploitation agricole ayant son siège et au moins 80 p. 100
-de sa superficie agricole utile représentant au moins 3 hectares de superficie
-agricole utile en zone de piedmont ou de montagne ;
-
-3° Exercer en outre la profession agricole à titre principal, c'est-à-dire
-consacrer à l'exploitation définie au 2° ci-dessus au moins 50 p. 100 de son
-temps actif et en retirer au moins 50 p. 100 de son revenu de travail ; ces
-conditions sont réputées remplies lorsque les revenus non agricoles du foyer
-fiscal passibles de l'impôt sur le revenu sont inférieurs à la moitié du salaire
-minimum interprofessionnel de croissance pendant l'année précédant l'hivernage
-donnant lieu au paiement de l'indemnité.
+2° Les autres exploitations agricoles de forme sociétaire peuvent bénéficier des
+ICHN dans la limite d'un plafond d'hectares primables précisé par arrêté
+interministériel lorsque plus de 50 % du capital social est détenu par des
+associés exploitants avec au moins un de ces associés éligible à l'indemnité.

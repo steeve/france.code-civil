@@ -1,58 +1,85 @@
 Article R113-20
 ----
-Peut bénéficier de l'indemnité spéciale de montagne mentionnée à l'article R.
-113-19 tout agriculteur qui en présente la demande et répond aux conditions
-suivantes :
+Les indemnités sont attribuées à tout agriculteur qui en formule la demande et
+qui répond aux conditions d'attribution suivantes :
 
-1° Résider de façon permanente en zone de montagne ;
+1° Etre âgé de moins de soixante-cinq ans au 1er janvier de l'année de la
+demande de l'indemnité. Les retraités d'un régime obligatoire autre que le
+régime agricole des non-salariés peuvent bénéficier des ICHN, mais le montant de
+l'indemnité est réduit du montant de l'avantage vieillesse perçu l'année
+précédant le paiement de l'indemnité. Cette déduction de l'avantage vieillesse
+ne s'applique pas dans le cas des pensions de réversion accordées au titre du
+régime d'assurance vieillesse des non-salariés agricoles ;
 
-2° Etre chef d'une exploitation agricole ayant son siège et au moins 80 p. 100
-de sa superficie agricole utile, représentant au moins 3 hectares de superficie
-agricole utile, en zone de montagne ;
+2° Ne pas bénéficier d'une préretraite ou d'une retraite du régime des
+non-salariés agricoles jusqu'à la date à laquelle l'administration statue sur la
+demande d'indemnités ;
 
-3° S'il appuie sa demande sur une production animale, s'engager à maintenir, du
-31 janvier au 31 mars de l'année du dépôt de la demande, un effectif évalué en
-"unités de gros bétail" au moins égal à celui déclaré et au minimum trois
-"unités de gros bétail". S'il appuie sa demande sur une production végétale,
-exploiter au moins 1 hectare de cultures primables dans les territoires de
-communes ou parties de communes de la zone de montagne classées en zone sèche
-par arrêté interministériel et au moins 0,5 hectare de cultures primables dans
-les zones défavorisées des départements d'outre-mer ; la demande doit être
-parvenue au plus tard le 31 janvier à la direction départementale de
-l'agriculture et de la forêt dont ressort le siège de l'exploitation ;
+3° Avoir sa résidence principale en zone défavorisée ;
 
-4° Exercer en outre la profession agricole :
+4° Diriger une exploitation agricole d'au moins 3 hectares de superficie
+agricole utilisée (au moins 2 hectares dans les départements d'outre-mer) qui
+doit avoir son siège et au moins 80 % de la superficie agricole utilisée (SAU)
+en zone défavorisée. Les demandeurs doivent détenir un cheptel d'au moins trois
+unités de gros bétail (UGB) en productions animales, avec au moins 3 hectares en
+surfaces fourragères éligibles ou au moins 1 hectare en cultures éligibles (au
+moins deux UGB avec 2 hectares de surface fourragère éligibles ou au moins 0,5
+hectare en cultures éligibles dans les départements d'outre-mer). L'indemnité
+réservée aux surfaces cultivées en productions végétales éligibles est attribuée
+aux exploitants dont le siège de l'exploitation, 80 % de la SAU ainsi que la
+résidence principale du demandeur sont situés dans la zone de montagne (ou haute
+montagne) sèche de métropole ou en zone défavorisée dans les départements
+d'outre-mer ;
 
-a) Soit à titre principal, c'est-à-dire consacrer à l'exploitation définie au 2°
-ci-dessus au moins 50 p. 100 de son temps actif et en retirer au moins 50 p. 100
-de son revenu de travail ; ces conditions sont réputées remplies lorsque les
-revenus non agricoles du foyer fiscal passibles de l'impôt sur le revenu sont
-inférieurs au salaire minimum interprofessionnel de croissance annuel pendant
-l'année précédant l'hivernage donnant lieu au paiement de l'aide ;
+5° Respecter l'engagement de poursuivre l'activité agricole dans une zone
+défavorisée pendant au moins cinq ans successifs à compter du premier paiement
+de l'indemnité. L'exploitant est libéré de cet engagement lorsqu'il cesse
+l'activité agricole du fait de son départ en préretraite ou en retraite ainsi
+qu'en cas de force majeure ;
 
-b) Soit en tant que pluriactif, à la condition que les revenus non agricoles du
-foyer fiscal passibles de l'impôt sur le revenu n'excèdent pas le double du
-salaire minimum interprofessionnel de croissance annuel pendant l'année
-précédant l'hivernage donnant lieu au paiement de l'aide ;
+6° Faire parvenir une demande d'indemnités à la direction chargée de
+l'agriculture du département du siège de l'exploitation dans les mêmes délais de
+dépôt que ceux applicables pour la déclaration de surfaces fixés par le décret
+n° 97-423 du 28 avril 1997 relatif aux déclarations de surface et à la gestion
+et au contrôle du régime de soutien aux producteurs de certaines cultures
+arables. Déposer une déclaration de surfaces pour la même année que la demande
+d'indemnités ;
 
-5° Ne pas être âgé de plus de soixante-cinq ans ou ne pas avoir fait valoir ses
-droits à la pension de retraite prévue aux chapitres IV et IV-1 du titre II du
-livre VII du code rural ; pour le bénéficiaire d'un avantage de vieillesse d'un
-régime obligatoire de sécurité sociale autre que celui des personnes non
-salariées des professions agricoles n'ayant pas atteint l'âge de soixante-cinq
-ans, le montant de l'avantage vieillesse perçu l'année précédant l'hivernage
-donnant lieu au paiement de l'aide sera déduit du montant de l'indemnité ;
-toutefois, cette dernière disposition ne s'applique pas aux pensions de
-réversion accordées au titre du régime d'assurance vieillesse agricole ;
+7° Retirer au moins 50 % de son revenu de l'activité agricole.
 
-6° S'engager à poursuivre l'activité agricole dans la zone de montagne pendant
-cinq ans au moins à compter du premier paiement de l'indemnité compensatoire ;
-l'agriculteur est libéré de cet engagement lorsqu'il perçoit la pension de
-retraite prévue aux chapitres IV et IV-1 du titre II du livre VII du code rural
-;
+Dans les zones de haute montagne et de montagne, les agriculteurs pluriactifs
+qui ont des revenus agricoles inférieurs aux revenus non agricoles peuvent
+bénéficier de l'indemnité :
 
-7° Se conformer, pour le cheptel, aux prescriptions sanitaires qui pourront lui
-être imposées par les pouvoirs publics ;
+- pour au maximum 50 hectares primés si leurs revenus non agricoles sont
+inférieurs au montant équivalent à un salaire minimum interprofessionnel de
+croissance (SMIC) ;
 
-8° Avoir déposé une déclaration annuelle pour les surfaces de l'année
-précédente.
+- pour au maximum 25 hectares primés si leurs revenus non agricoles sont
+équivalents au montant compris entre une et deux fois le SMIC ;
+
+Dans les zones de piémont et défavorisée simple, les agriculteurs pluriactifs
+qui ont des revenus agricoles inférieurs aux revenus non agricoles peuvent
+bénéficier de l'indemnité si leurs revenus non agricoles sont inférieurs au
+montant équivalent à la moitié du SMIC.
+
+Les revenus non agricoles de l'exploitant sont ceux passibles de l'impôt sur le
+revenu et considérés avant abattements et constitués par le total des sommes
+déclarées avant abattements et déductions portées dans les rubriques : salaires,
+pensions imposables, revenus industriels et commerciaux, revenus non
+commerciaux, locations meublées, rémunérations de gérants ou associés, moins
+l'abattement CGA associé agréée.
+
+La valeur du SMIC de référence est celle fixée au 1er janvier de l'année
+correspondant à celle des revenus annuels considérés ;
+
+8° Se conformer à exercer l'activité d'exploitant conformément aux bonnes
+pratiques agricoles habituelles, notamment pour les éleveurs qui doivent
+respecter les normes fixées de chargement en cheptel ;
+
+9° Respecter la réglementation relative à l'identification permanente
+généralisée, les directives en matière de bien-être animal et les plans
+d'épandage en zone vulnérable et d'excédent structurel au sens de la directive
+91/676/CEE du Conseil du 12 décembre 1991 concernant la protection des eaux
+contre la pollution par les nitrates à partir de sources agricoles et les règles
+sanitaires fixées par arrêté préfectoral.

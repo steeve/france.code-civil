@@ -1,5 +1,5 @@
 Article R113-19
 ----
-Cette aide compensatoire porte le nom respectivement d'indemnité spéciale de
-montagne, d'indemnité spéciale de piedmont, d'indemnité compensatoire dans les
-autres régions défavorisées, selon la zone considérée.
+Les indemnités compensatoires de handicaps naturels (ICHN) sont attribuées dans
+les zones de montagne, de piémont et autres zones défavorisées en prenant en
+compte les parties sèches de ces zones.
