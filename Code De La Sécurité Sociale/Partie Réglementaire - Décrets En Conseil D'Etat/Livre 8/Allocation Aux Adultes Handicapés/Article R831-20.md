@@ -1,5 +1,6 @@
 Article R831-20
 ----
-Pour l'application des dispositions du présent chapitre qui comportent la prise
-en compte de ressources, la personne qui vit maritalement est assimilée au
-conjoint [*concubinage*].
+Les dispositions du présent chapitre relatives à la résidence principale ou qui
+comportent la prise en compte de ressources sont applicables dans les mêmes
+conditions au conjoint, au partenaire lié par un pacte civil de solidarité ou au
+concubin.

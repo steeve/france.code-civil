@@ -18,7 +18,8 @@ seizième anniversaire ;
 personnelles, telles que définies en application du deuxième alinéa de l'article
 L. 356-1, supérieures à un plafond fixé par décret ;
 
-5°) ne pas être remarié et ne pas vivre maritalement.
+5°) ne pas être remarié, ne pas avoir conclu de pacte civil de solidarité et ne
+pas vivre en concubinage.
 
 En outre, pour être recevable, la demande doit être déposée dans un délai
 n'excédant pas la période maximum de versement définie au premier alinéa de

@@ -12,3 +12,7 @@ maternité.
 Les organismes d'assurance maladie s'assurent par tous les moyens qu'ils jugent
 utiles de la conformité de la situation déclarée aux conditions prévues par les
 deuxième et troisième alinéas de l'article L. 161-14.
+
+L'attestation de la qualité d'ayant droit au titre des différentes situations
+prévues à l'article L. 161-14 est conforme au modèle défini par arrêté du
+ministre chargé de la sécurité sociale.

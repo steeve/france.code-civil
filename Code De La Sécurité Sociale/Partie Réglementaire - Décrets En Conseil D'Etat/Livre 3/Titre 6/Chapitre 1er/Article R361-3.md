@@ -9,4 +9,5 @@ conditions prévues à l'article L. 313-1 précité.
 
 En cas de pluralité de personnes pouvant se prévaloir du droit de priorité prévu
 au premier alinéa de l'article L. 361-4, le capital est versé par ordre de
-préférence au conjoint, aux enfants, aux ascendants.
+préférence au conjoint ou au partenaire d'un pacte civil de solidarité, aux
+enfants, aux ascendants.
