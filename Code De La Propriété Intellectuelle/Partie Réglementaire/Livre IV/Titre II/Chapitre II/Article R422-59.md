@@ -1,7 +1,10 @@
 Article R422-59
 ----
-Le conseil en propriété industrielle qui fait l'objet d'une procédure
-disciplinaire est cité à comparaître par le secrétaire de la compagnie. La
-citation précise, à peine de nullité, les faits qui la motivent et la date de
-l'audience. Elle est portée à la connaissance de l'auteur de la plainte et des
-autorités mentionnées à l'article R. 422-58.
+Le secrétaire de la Compagnie nationale des conseils en propriété industrielle
+est rapporteur de la chambre de discipline. En cas d'empêchement de celui-ci, et
+notamment s'il apparaît que le délai de six mois prévu à l'article R. 422-60 ne
+pourra être respecté, le bureau de la compagnie désigne un suppléant en son
+sein.
+
+Le secrétariat de la chambre est assuré par l'Institut national de la propriété
+industrielle.

@@ -1,9 +1,12 @@
 Article R422-10
 ----
 L'assemblée générale de la compagnie élit pour deux ans parmi ses membres, au
-scrutin secret, par vote uninominal et selon les modalités fixées par le
-règlement intérieur, un bureau composé de neuf personnes, dont un président,
-trois vice-présidents, un secrétaire et un trésorier.
+scrutin secret, un bureau composé de neuf personnes, dont un président, trois
+vice-présidents, un secrétaire, un trésorier et trois membres. Le scrutin est
+uninominal pour les fonctions de président, de secrétaire et de trésorier. Il
+est pourvu par scrutin plurinominal à l'élection respective des vice-présidents
+et des autres membres. Les modalités de ce scrutin sont fixées par le règlement
+intérieur.
 
 A l'exception de l'établissement du règlement intérieur, du vote du budget
 annuel de la compagnie et d'autres attributions réservées le cas échéant à

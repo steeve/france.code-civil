@@ -1,8 +1,8 @@
-Article R422-55
+Article R423-2
 ----
 L'interdiction du démarchage prévue à l'article L. 423-1 ne s'étend pas aux
-offres de service, effectuées par voie postale, à destination de professionnels
-ou d'entreprises. Toutefois, ces offres doivent se limiter à la communication
+offres de services, effectuées par voie postale, à destination de professionnels
+ou d'entreprises. Toutefois ces offres doivent se limiter à la communication
 d'informations générales sur le cabinet, son organisation, son personnel, ses
 prestations ainsi que sur le droit de la propriété industrielle.
 

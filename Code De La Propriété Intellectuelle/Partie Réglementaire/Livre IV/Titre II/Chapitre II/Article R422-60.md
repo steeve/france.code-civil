@@ -1,13 +1,14 @@
 Article R422-60
 ----
-La chambre de discipline ne peut siéger et délibérer valablement que si tous les
-membres ou leurs suppléants sont présents. Les décisions sont rendues par les
-membres présents à l'audience contradictoire. Le secrétaire de la compagnie
-assure le secrétariat en cas d'empêchement motivé du secrétaire, le bureau de la
-compagnie désigne un suppléant pris en son sein. Les séances ne sont pas
-publiques.
+Le rapporteur peut, d'office ou à la demande du président de la chambre,
+requérir du conseil en propriété industrielle mis en cause, de l'auteur de la
+plainte ou de toute personne susceptible d'éclairer les débats, les explications
+et justifications nécessaires à l'information de la chambre.
 
-Aucune décision disciplinaire ne peut être prononcée sans que l'intéressé ait
-été entendu ou appelé au moins huit jours à l'avance. L'intéressé peut se faire
-assister par un membre de la profession de son choix. Le secrétaire peut être
-chargé du rapport sur l'affaire.
+Le rapport précise les faits dénoncés, les diligences accomplies ainsi que les
+conclusions motivées du rapporteur sur l'existence d'une faute disciplinaire.
+
+Il doit être déposé au siège de la chambre dans les six mois de la saisine de
+cette dernière, faute de quoi le président de la chambre peut désigner un autre
+rapporteur parmi les membres de la compagnie qui ne sont pas membres de la
+chambre.

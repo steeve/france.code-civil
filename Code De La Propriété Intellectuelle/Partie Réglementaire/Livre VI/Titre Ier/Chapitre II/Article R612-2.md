@@ -5,8 +5,7 @@ ayant son domicile, son siège ou un établissement en France. Sous réserve des
 exceptions prévues aux articles L. 422-4 et L. 422-5, le mandataire, constitué
 pour le dépôt et pour l'accomplissement de tout acte subséquent relatif à la
 procédure de délivrance du brevet, à l'exception du simple paiement des
-redevances, doit avoir la qualité de conseil en propriété industrielle assortie
-de la mention Brevets d'invention.
+redevances, doit avoir la qualité de conseil en propriété industrielle.
 
 Les personnes physiques ou morales n'ayant pas leur domicile ou leur siège en
 France doivent constituer un mandataire satisfaisant aux conditions prévues à

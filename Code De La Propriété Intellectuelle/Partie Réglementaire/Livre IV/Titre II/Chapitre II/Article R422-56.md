@@ -1,7 +1,7 @@
 Article R422-56
 ----
 La chambre de discipline, prévue à l'article L. 422-10 pour connaître des
-manquements des conseils en propriété industrielle à leurs obligations, est
+manquements à leurs obligations des conseils en propriété industrielle, est
 composée de sept membres :
 
 1° Un magistrat de l'ordre judiciaire, président, nommé sur proposition du
@@ -11,17 +11,14 @@ premier président de la cour d'appel de Paris ;
 Conseil d'Etat ;
 
 3° Le président de la Compagnie nationale des conseils en propriété industrielle
-;
+ou son suppléant désigné par lui pour la durée de son mandat parmi les
+vice-présidents de cette compagnie ;
 
 4° Deux conseils en propriété industrielle, choisis sur une liste de huit
-candidats proposés par la Compagnie nationale des conseils en propriété
-industrielle ;
+candidats proposée, en dehors des membres de son bureau, par la Compagnie
+nationale des conseils en propriété industrielle ;
 
-5° Le directeur général de l'Institut national de la propriété industrielle ou
-son représentant ;
+5° Deux personnalités qualifiées.
 
-6° Une personnalité qualifiée nommée sur proposition du directeur général de
-l'Institut national de la propriété industrielle.
-
-Les conseils en propriété industrielle visés au 4° ci-dessus ne peuvent cumuler
-leurs fonctions avec celle de membre du bureau de la compagnie.
+Les membres désignés aux 1°, 2°, 4° et 5° ont des suppléants nommés dans les
+mêmes conditions.
