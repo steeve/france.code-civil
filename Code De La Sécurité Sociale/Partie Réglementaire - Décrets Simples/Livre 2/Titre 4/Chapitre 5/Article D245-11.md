@@ -2,9 +2,10 @@ Article D245-11
 ----
 Les réclamations concernant le champ d'application, l'assiette et le contrôle de
 la contribution sont présentées, instruites et jugées comme en matière d'impôt
-sur le revenu. Toutefois, l'administration compétente pour statuer sur les
-réclamations et produire ses observations sur les recours contentieux est celle
-chargée de la santé (direction de la pharmacie et du médicament).
+sur le revenu. Toutefois, les administrations chargées de la santé (direction de
+la pharmacie et du médicament) et de la sécurité sociale (direction de la
+sécurité sociale) sont conjointement compétentes pour statuer sur les
+réclamations et produire leurs observations sur les recours contentieux.
 
 Les réclamations concernant le recouvrement et les majorations de retard sont
 réglées conformément aux articles L. 243-4 à L. 243-6, L. 244-1 à L. 244-4, L.
