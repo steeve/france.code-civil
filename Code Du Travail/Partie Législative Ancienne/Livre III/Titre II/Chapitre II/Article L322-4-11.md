@@ -14,3 +14,10 @@ assujettie à aucune des autres charges sociales d'origine légale ou
 conventionnelle. Elle est également exonérée de la taxe sur les salaires, de la
 taxe d'apprentissage et des participations dues par les employeurs au titre de
 la formation professionnelle et de l'effort de construction.
+
+livre IX.
+
+Par dérogation aux dispositions de l'article L. 351-12 du code du travail, les
+établissements publics administratifs de l'Etat ont la faculté d'adhérer, pour
+leurs salariés recrutés sous contrat emploi-solidarité, au régime prévu à
+l'article L. 351-4 du même code.

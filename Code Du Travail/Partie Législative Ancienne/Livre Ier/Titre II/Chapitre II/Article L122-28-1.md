@@ -1,20 +1,23 @@
 Article L122-28-1
 ----
 Pendant la période qui suit l'expiration du congé de maternité ou d'adoption
-prévu par l'article L. 122-26 ou par une convention ou un accord collectif et
-jusqu'au troisième anniversaire de l'enfant, tout salarié qui justifie d'une
-ancienneté minimale d'une année à la date de la naissance de son enfant ou de
-l'arrivée au foyer d'un enfant de moins de trois ans confié en vue de son
-adoption a le droit, sous réserve des dispositions de l'article L. 122-28-4 soit
-de bénéficier d'un congé parental d'éducation durant lequel le contrat de
-travail est suspendu, soit de réduire sa durée de travail à la moitié de celle
-qui est applicable à l'établissement.
+prévu par l'article L. 122-26 ou par une convention ou un accord collectif, tout
+salarié qui justifie d'une ancienneté minimale d'une année à la date de
+naissance de son enfant ou de l'arrivée au foyer d'un enfant de moins de trois
+ans confié en vue de son adoption a le droit, sous réserve des dispositions de
+l'article L. 122-28-4, soit de bénéficier d'un congé parental d'éducation durant
+lequel le contrat de travail est suspendu, soit de réduire sa durée de travail
+d'au moins un cinquième de celle qui est applicable à l'établissement sans que
+cette activité à temps partiel puisse être inférieure à seize heures
+hebdomadaires.
 
-Le congé parental et la période d'activité à mi-temps ont une durée initiale
-d'un an au plus ; ils peuvent être prolongés deux fois pour prendre fin, au plus
-tard, au terme de la période définie à l'alinéa précédent, quelle que soit la
-date de leur début. Cette possibilité est ouverte au père et à la mère, ainsi
-qu'aux adoptants.
+Le congé parental et la période d'activité à temps partiel prennent fin au plus
+tard au troisième anniversaire de l'enfant ou, en cas d'adoption, à l'expiration
+d'un délai de trois ans à compter de l'arrivée au foyer de l'enfant. Le congé
+parental et la période d'activité à temps partiel ont une durée initiale d'un an
+au plus ; ils peuvent être prolongés deux fois pour prendre fin au plus tard au
+terme des périodes définies ci-dessus, quelle que soit la date de leur début.
+Cette possibilité est ouverte au père et à la mère, ainsi qu'aux adoptants.
 
 Le salarié doit informer son employeur, par lettre recommandée avec demande
 d'avis de réception, du point de départ et de la durée de la période pendant
@@ -24,11 +27,15 @@ article.
 Lorsque cette période suit immédiatement le congé de maternité ou congé
 d'adoption, le salarié doit informer l'employeur, par lettre recommandée avec
 demande d'avis de réception, au moins un mois avant le début du congé parental
-d'éducation ou de l'activité à mi-temps.
+d'éducation ou de l'activité à temps partiel.
 
 Lorsque le salarié entend prolonger son congé parental d'éducation ou sa période
-d'activité à mi-temps, il doit avertir l'employeur de cette prolongation, par
-lettre recommandée avec demande d'avis de réception, au moins un mois avant le
-terme initialement prévu et l'informer, le cas échéant, de son intention soit de
-transformer le congé parental en activité à mi-temps, soit de transformer
-l'activité à mi-temps en congé parental.
+d'activité à temps partiel, il doit avertir l'employeur de cette prolongation,
+par lettre recommandée avec demande d'avis de réception, au moins un mois avant
+le terme initialement prévu et l'informer, le cas échéant, de son intention soit
+de transformer le congé parental en activité à temps partiel, soit de
+transformer l'activité à temps partiel en congé parental. Toutefois, pendant la
+période d'activité à temps partiel ou à l'occasion des prolongations de
+celle-ci, le salarié ne peut pas modifier la durée du travail initialement
+choisie sauf accord de l'employeur ou si une convention ou un accord collectif
+de travail le prévoit expressément.

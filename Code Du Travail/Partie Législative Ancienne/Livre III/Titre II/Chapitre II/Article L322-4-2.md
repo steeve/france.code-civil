@@ -3,9 +3,12 @@ Article L322-4-2
 L'Etat peut passer des conventions avec des employeurs pour favoriser
 l'insertion professionnelle des personnes sans emploi rencontrant des
 difficultés particulières d'accès à l'emploi, principalement des chômeurs de
-longue durée, des bénéficiaires de l'allocation de solidarité spécifique et du
-revenu minimum d'insertion, en portant une attention privilégiée aux femmes
-isolées, notamment aux veuves.
+longue durée, des travailleurs reconnus handicapés par la commission technique
+d'orientation et de reclassement professionnel ainsi que des autres
+bénéficiaires de l'obligation d'emploi prévue à l'article L. 323-1, des
+bénéficiaires de l'allocation de solidarité spécifique et du revenu minimum
+d'insertion, en portant une attention privilégiée aux femmes isolées assumant ou
+ayant assumé des charges de famille.
 
 Les contrats de retour à l'emploi conclus en vertu de ces conventions donnent
 droit :
@@ -20,6 +23,9 @@ deuxième, troisième, cinquième et sixième alinéas de l'article L. 920-1 ;
 
 3° A l'exonération des cotisations sociales dans les conditions fixées à
 l'article L. 322-4-6.
+
+4° A une aide de l'Etat destinée à faciliter l'exercice des fonctions de tuteur
+dans les conditions fixées par un décret en Conseil d'Etat.
 
 Le comité d'entreprise ou d'établissement ou, à défaut, les délégués du
 personnel sont informés des conventions conclues.

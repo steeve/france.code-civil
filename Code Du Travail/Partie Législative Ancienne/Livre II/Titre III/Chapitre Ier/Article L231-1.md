@@ -23,4 +23,9 @@ dispositions peuvent, compte tenu des caractères particuliers de certains de ce
 établissements et des organismes de représentation du personnel éventuellement
 existants, faire l'objet d'adaptations sous réserve d'assurer les mêmes
 garanties aux salariés de ces établissements. Ces adaptations résultent de
-décrets en Conseil d'Etat.
+décrets en Conseil d'Etat. Les ateliers des établissements publics dispensant un
+enseignement technique ou professionnel sont soumis aux dispositions des
+chapitres II, III et IV du présent titre, en ce qui concerne tant les personnels
+que les élèves. Un décret d'application fixe les conditions de mise en oeuvre de
+ces dispositions eu égard aux finalités spécifiques des établissements
+d'enseignement.

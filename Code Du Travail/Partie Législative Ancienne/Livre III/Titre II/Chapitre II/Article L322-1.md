@@ -9,7 +9,9 @@ des emplois nouveaux salariés de l'industrie ou du commerce. Les aides du Fonds
 national de l'emploi ont également pour objet de favoriser la mise en place
 d'actions de prévention permettant de préparer l'adaptation professionnelle des
 salariés à l'évolution de l'emploi et des qualifications dans les entreprises et
-les branches professionnelles. L'action des pouvoirs publics, qui peut se
-conjuguer avec celle des partenaires sociaux organisée par le moyen d'accords
-professionnels ou interprofessionnels, s'exerce notamment selon les modalités
-ci-après.
+les branches professionnelles. Elles peuvent, en outre, être utilisées à des
+fins de qualification, d'insertion de demandeurs d'emploi ou contribuer à
+l'égalité professionnelle entre les femmes et les hommes. L'action des pouvoirs
+publics, qui peut se conjuguer avec celle des partenaires sociaux organisée par
+le moyen d'accords professionnels ou interprofessionnels, s'exerce notamment
+selon les modalités ci-après.

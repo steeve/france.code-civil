@@ -14,7 +14,7 @@ en portant une attention privilégiée aux femmes isolées, notamment aux veuves
 
 De telles conventions ne peuvent pas être conclues avec les services de l'Etat.
 
-Les institutions représentatives du personnel des organismes mentionnés à
-l'alinéa précédent, lorsqu'elles existent, sont informées des conventions
-conclues. Elles sont saisies, chaque année [*périodicité*], d'un rapport sur le
+Les institutions représentatives du personnel des organismes mentionnés au
+premier alinéa, lorsqu'elles existent, sont informées des conventions conclues.
+Elles sont saisies, chaque année [*périodicité*], d'un rapport sur le
 déroulement des contrats emploi-solidarité conclus.

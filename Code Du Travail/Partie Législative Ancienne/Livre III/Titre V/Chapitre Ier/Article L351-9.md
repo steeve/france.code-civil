@@ -12,14 +12,13 @@ depuis une durée déterminée ;
 2° Les femmes qui n'ont pu obtenir un emploi et qui sont veuves, divorcées,
 séparées judiciairement ou célibataires ayant la charge d'au moins un enfant ;
 
-3° Les détenus libérés à l'issue d'une période minimale de détention, après avis
-de la commission d'application des peines ou, s'il s'agit d'un prévenu, du
-ministère public ; sont toutefois exclus du bénéfice de cette disposition ceux
-qui ont été libérés après exécution d'une peine privative de liberté prononcée
-pour infraction aux dispositions des articles 334, 334-1, 335, 355, 462 du code
-pénal et L. 627 du code de la santé publique, sauf si cette dernière infraction
-a été commise pendant la minorité ainsi que ceux qui ont été condamnés à deux
-peines de réclusion criminelle ;
+3° Les détenus libérés à l'issue d'une période minimale de détention ; sont
+toutefois exclus du bénéfice de cette disposition ceux qui ont été libérés après
+exécution d'une peine privative de liberté prononcée pour infraction aux
+dispositions des articles 334, 334-1, 335, 355, 462 du code pénal et L. 627 du
+code de la santé publique, sauf si cette dernière infraction a été commise
+pendant la minorité ainsi que ceux qui ont été condamnés à deux peines de
+réclusion criminelle ;
 
 4° Certaines catégories de personnes en attente de réinsertion ou en instance de
 reclassement par application de l'article L. 122-32-1 du code du travail et se
@@ -37,7 +36,7 @@ b) En ce qui concerne les personnes définies aux 2°, 3° et 4°, à une condit
 de ressources.
 
 Cette allocation est à la charge du fonds de solidarité créé par la loi n°
-82-939 du 4 novembre 1982.
+82-939 du 4 novembre 1982 [*financement*].
 
 Un décret en Conseil d'Etat détermine les mesures d'application du présent
 article, à l'exception des taux qui sont fixés par décret.

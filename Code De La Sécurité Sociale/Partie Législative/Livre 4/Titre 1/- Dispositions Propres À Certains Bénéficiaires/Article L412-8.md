@@ -76,6 +76,11 @@ l'allocation de revenu minimum d'insertion instituée par la loi n° 88-1088 du
 survenus par le fait ou à l'occasion des actions favorisant leur insertion, dans
 des conditions déterminées par décret.
 
+11°) Les demandeurs d'emploi, pour les accidents survenus par le fait ou à
+l'occasion de leur participation à des actions d'aide à la création d'entreprise
+ou d'orientation, d'évaluation ou d'accompagnement de la recherche d'emploi
+dispensées ou prescrites par l'Agence nationale pour l'emploi.
+
 Les dispositions de l'article L. 434-1 [*indemnité en capital*] du présent code
 ne sont pas applicables aux personnes mentionnées aux a. et b. du 1° ci-dessus.
 
@@ -85,8 +90,8 @@ et de stages ainsi que la nature des établissements mentionnés aux a. et b. du
 
 En ce qui concerne les personnes mentionnées aux 1°, 2° et 3° du présent article
 et non assujetties aux assurances sociales en vertu du livre III, le décret en
-Conseil d'Etat et, pour les personnes mentionnées aux 4°, 5°, 6°, 7°, 9° et 10°
-des décrets prévus par ceux-ci, déterminent à qui incombent les obligations de
-l'employeur. Pour les personnes qui ne sont pas rémunérées ou ne reçoivent pas
-une rémunération normale, ils fixent les bases des cotisations et celles des
+Conseil d'Etat et, pour les personnes mentionnées aux 4°, 5°, 6°, 7°, 9°, 10° et
+11 des décrets prévus par ceux-ci, déterminent à qui incombent les obligations
+de l'employeur. Pour les personnes qui ne sont pas rémunérées ou ne reçoivent
+pas une rémunération normale, ils fixent les bases des cotisations et celles des
 indemnités.

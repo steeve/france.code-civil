@@ -1,11 +1,19 @@
 Article L322-4-1
 ----
 En vue d'améliorer la qualification et de faciliter l'insertion professionnelle
-des demandeurs d'emploi rencontrant des difficultés particulières d'accès à
-l'emploi, notamment des chômeurs de longue durée et des chômeurs cumulant les
-situations de précarité les plus graves, l'Etat prend en charge :
+des demandeurs d'emploi, en particulier des chômeurs de longue durée et des
+chômeurs cumulant les situations de précarité les plus graves, l'Etat prend en
+charge :.
 
-1° ...
+1° En application de conventions conclues avec des entreprises et, en tant que
+de besoin, avec des organismes de formation, pour l'organisation de stages ayant
+pour objet l'adaptation à un emploi de demandeurs d'emploi, tout ou partie des
+dépenses relatives aux frais de formation, de rémunération et de protection
+sociale ; en outre, ces conventions peuvent prévoir une participation de l'Etat
+aux frais de formation, de rémunération et de protection sociale exposés par
+l'entreprise à l'occasion de tout stage destiné à un ou plusieurs de ses
+salariés à la condition que l'employeur s'engage à attribuer le ou les postes
+libérés à un ou des demandeurs d'emploi ;.
 
 2° En application de conventions conclues avec des organismes de formation pour
 l'organisation de stages de formation et d'insertion professionnelles, les frais
@@ -20,8 +28,3 @@ sociale des bénéficiaires de ces conventions ; ceux-ci sont considérés comme
 stagiaires de la formation professionnelle, sous réserve d'adaptations fixées
 par décret en ce qui concerne la rémunération et, le cas échéant, les avantages
 annexes définis au titre VI du livre IX.
-
-Par dérogation aux dispositions de l'article L. 351-12 du code du travail, les
-établissements publics administratifs de l'Etat ont la faculté d'adhérer, pour
-leurs salariés recrutés sous contrat emploi-solidarité, au régime prévu à
-l'article L. 351-4 du même code.
