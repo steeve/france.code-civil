@@ -4,5 +4,4 @@ Les cessions de titres en portefeuille sont réputées porter par priorité sur 
 titres de même nature acquis ou souscrits à la date la plus ancienne.
 
 Les plus-values ou moins-values résultant des cessions en cause sont déterminées
-en fonction de la valeur d'origine pour laquelle les titres présumés cédés
-figuraient au bilan.
+en fonction de la valeur d'origine pour laquelle les titres figuraient au bilan.

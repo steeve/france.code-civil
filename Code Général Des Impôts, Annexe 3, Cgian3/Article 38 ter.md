@@ -1,38 +1,29 @@
 Article 38 ter
 ----
-Le stock est constitué par l'ensemble des marchandises, des matières ou
-fournitures, des déchets, des produits semi-ouvrés, des produits finis, des
-produits ou travaux en cours et des emballages non destinés à être récupérés,
-qui sont la propriété de l'entreprise à la date de l'inventaire et dont la vente
-en l'état ou après exécution d'opérations de transformation ou de fabrication
-permet la réalisation d'un bénéfice d'exploitation.
+Le stock est constitué par l'ensemble des marchandises, des matières premières,
+des matières et fournitures consommables, des productions en cours, des produits
+intermédiaires, des produits finis, des produits résiduels et des emballages non
+destinés à être récupérés, qui sont la propriété de l'entreprise à la date de
+l'inventaire et dont la vente en l'état ou au terme d'un processus de production
+à venir ou en cours permet la réalisation d'un bénéfice d'exploitation.
 
-Les produits finis [*définition*] sont les produits fabriqués par l'entreprise
-et qui sont destinés à être vendus ou fournis.
+Les productions en cours sont les biens ou les services en cours de formation au
+travers d'un processus de production.
 
-Les produits en cours [*définition*] sont les produits en voie de formation ou
-de transformation à la clôture de l'exercice et qui ne sont pas inscrits à un
-compte de magasin.
+Les produits intermédiaires sont les produits qui, ayant atteint un stade
+d'achèvement, sont destinés à entrer dans une nouvelle phase du cycle de
+production.
 
-Les travaux en cours [*définition*] sont les travaux en voie d'exécution à la
-clôture de l'exercice.
+Les produits finis sont ceux qui ont atteint un stade d'achèvement définitif
+dans le cycle de production.
 
-Les emballages commerciaux [*définition*] sont les objets destinés à contenir
-les produits ou marchandises qui sont livrés à la clientèle en même temps que
-leur contenu. Ils comprennent, d'une part, les emballages non récupérables,
-appelés communément emballages perdus, qui sont destinés à être vendus à la
-clientèle ou dont la valeur est incorporée dans le prix du contenu et, d'autre
-part, les emballages récupérables qui sont destinés à être ou qui sont déjà
-prêtés ou consignés aux clients. En principe, les premiers sont seuls à inclure
-dans les stocks, les seconds devant figurer aux comptes d'immobilisations.
-Toutefois, les emballages récupérables non identifiables par nature peuvent être
-portés parmi les valeurs d'exploitation.
+Les produits résiduels sont constitués par les déchets et rebuts de fabrication.
 
-Les achats de matières et marchandises comprennent tous les achats de
-marchandises, matières premières, matières consommables et, sous réserve de la
-précision figurant à l'alinéa précédent, des emballages commerciaux non destinés
-à être récupérés.
-
-Les ports facturés distinctement aux clients ne sont pas compris dans le montant
-des ventes; ils sont inscrits au crédit du poste "Frais de transports et de
-déplacements"
+Les emballages commerciaux comprennent, d'une part, les emballages perdus qui
+sont destinés à être livrés avec leur contenu sans consignation ni reprise et,
+d'autre part, les emballages récupérables qui sont susceptibles d'être
+provisoirement conservés par la clientèle et que le livreur s'engage à reprendre
+dans des conditions déterminées. En principe, les premiers sont seuls à inclure
+dans les stocks, les seconds constituant normalement des immobilisations.
+Toutefois, lorsqu'ils ne sont pas commodément identifiables, les emballages
+récupérables peuvent être assimilés à des stocks.
