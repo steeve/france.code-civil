@@ -1,5 +1,4 @@
 Article R516-31
 ----
-Les décisions de référé sont toujours provisoires ; elles n'ont pas autorité de
-chose jugée au principal ; elles ne peuvent être modifiées ou rapportées en
-référé qu'en cas de circonstances nouvelles.
+Les articles 484 et 486 à 492 du nouveau code de procédure civile sont
+applicables au référé prud'homal.
