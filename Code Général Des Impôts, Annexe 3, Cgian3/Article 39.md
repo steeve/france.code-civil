@@ -5,9 +5,9 @@ comporter, par établissement, les indications suivantes :
 
 1° Concernant le déclarant :
 
-a) Les nom et prénoms ou raison sociale, adresse et numéro SIRET. Les
-entreprises à établissements multiples indiquent l'établissement qui a déposé la
-déclaration de résultats ;
+a) ((Les noms et prénoms ou raison sociale, adresse, numéro SIRET et code APE
+(Activité principale exercée).)) (M) Les entreprises à établissements multiples
+indiquent l'établissement qui a déposé la déclaration de résultats ;
 
 b) L'effectif au dernier jour ouvrable de l'année précédente ;
 
@@ -20,7 +20,9 @@ prénoms, sexe, date et lieu de naissance ;
 
 b) L'adresse de son domicile au 31 décembre de l'année du revenu ;
 
-c) La nature, la période et les conditions d'exercice de l'emploi ;
+c) La nature, la période et les conditions d'exercice de l'emploi ((ainsi que le
+code emploi PCS (nomenclature des Professions et catégories
+socioprofessionnelles) ;)) (M)
 
 d) Le montant des sommes payées pendant l'année en distinguant ;
 
@@ -57,3 +59,5 @@ payé par plusieurs établissements dépendant d'une même entreprise ;
 
 3° Le total pour l'ensemble des salariés de l'établissement et de l'entreprise
 des sommes mentionnées au 2° ci-dessus.
+
+(M) Modification.
