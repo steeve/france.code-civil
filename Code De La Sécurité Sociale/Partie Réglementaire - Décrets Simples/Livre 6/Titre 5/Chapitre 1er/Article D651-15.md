@@ -9,10 +9,10 @@ concernant le recouvrement des cotisations de sécurité sociale par voie de
 contrainte sont applicables au recouvrement de la contribution sociale de
 solidarité.
 
-Les dispositions du deuxième alinéa de l'article R. 612-11, en ce qu'elles se
-rapportent à la notification de la contrainte par lettre recommandée avec
-demande d'avis de réception, sont également applicables au recouvrement de la
-contribution sociale de solidarité.
+Les dispositions du deuxième alinéa au cinquième alinéa de l'article R. 612-11,
+en ce qu'elles se rapportent à la notification de la contrainte par lettre
+recommandée avec demande d'avis de réception, sont également applicables au
+recouvrement de la contribution sociale de solidarité.
 
 Pour l'appréciation de la condition prévue au I de l'article L. 243-14, il est
 tenu compte du montant de la contribution sociale de solidarité due par

@@ -32,7 +32,6 @@ antérieurement dans le calcul de la contribution.
 
 Les entreprises de commerce international et intracommunautaire mentionnées au
 deuxième alinéa qui demandent le bénéfice des dispositions du présent article
-doivent fournir à l'organisme chargé du recouvrement de la contribution un
-imprimé conforme à un modèle arrêté par le ministre chargé de la sécurité
-sociale et le ministre chargé du budget. Un exemplaire du compte de résultat
-fourni à l'administration fiscale doit être joint à cet imprimé.
+doivent renvoyer à l'organisme chargé du recouvrement de la contribution
+l'imprimé que ce dernier leur a fait parvenir. Un exemplaire du compte de
+résultat fourni à l'administration fiscale doit être joint à cet imprimé.

@@ -1,15 +1,12 @@
 Article D651-8
 ----
-Pour les sociétés et entreprises mentionnées à l'article L. 651-1, la
-déclaration prévue à l'article L. 651-5 doit être faite au moyen d'un imprimé
-conforme à un modèle arrêté par le ministre chargé de la sécurité sociale, le
-ministre chargé du budget et le ministre chargé du commerce.
+Les sociétés et entreprises mentionnées à l'article L. 651-1 doivent effectuer,
+au plus tard le 15 avril, la déclaration prévue par l'article L. 651-5.
 
-Cet imprimé est fourni aux sociétés et entreprises assujetties par l'organisme
-chargé du recouvrement de la contribution sociale de solidarité à l'initiative
-de celui-ci ou, le cas échéant, à la demande de la société ou de l'entreprise
-assujettie. Il doit être retourné à l'organisme chargé du recouvrement quel que
-soit le montant du chiffre d'affaires de la société ou de l'entreprise, ou le
-motif d'exonération invoqué par elle, le 15 avril au plus tard , dûment rempli,
-daté et signé par le représentant légal ou son mandataire, et accompagné, s'il y
-lieu, du premier versement prévu à l'article D. 651-9.
+Cette déclaration, accompagnée du premier versement prévu par l'article D.
+651-9, doit être faite soit par voie électronique, dans les conditions prévues
+par l'article L. 133-5 du code de la sécurité sociale, soit au moyen d'un
+imprimé fourni aux sociétés et entreprises assujetties par l'organisme chargé du
+recouvrement à l'initiative de celui-ci ou, le cas échéant, à la demande de la
+société ou de l'entreprise assujettie. Il doit être retourné dûment rempli, daté
+et signé par le représentant légal ou son mandataire.
