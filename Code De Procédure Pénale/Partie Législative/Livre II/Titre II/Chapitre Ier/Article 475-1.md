@@ -1,5 +1,7 @@
 Article 475-1
 ----
-Lorsqu'il apparaît inéquitable de laisser à la charge de la partie civile les
-sommes exposées par elle et non comprises dans les frais et dépens, le juge peut
-condamner l'auteur de l'infraction à lui payer le montant qu'il détermine.
+Le tribunal condamne l'auteur de l'infraction à payer à la partie civile la
+somme qu'il détermine, au titre des frais exposés par celle-ci et non compris
+dans les dépens. Le tribunal tient compte de l'équité ou de la situation
+économique de la partie condamnée. Il peut, même d'office, pour des raisons
+tirées des mêmes considérations, dire qu'il n'y a pas lieu à cette condamnation.
