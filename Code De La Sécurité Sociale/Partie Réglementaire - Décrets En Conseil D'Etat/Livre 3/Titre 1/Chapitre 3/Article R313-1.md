@@ -9,7 +9,10 @@ en ce qui concerne :
 de travail ;
 
 3°) les prestations en nature et en espèces de l'assurance maternité, au début
-du 9ème mois avant la date présumée de l'accouchement ou à la date du début du
+du 9e mois avant la date présumée de l'accouchement ou à la date du début du
 repos prénatal ;
 
-4°) les prestations de l'assurance décès, à la date du décès.
+4°) Les prestations en espèces de l'assurance maternité servies en cas
+d'adoption, à la date d'arrivée de l'enfant au foyer ;
+
+5°) La prestation de l'assurance décès, à la date du décès.

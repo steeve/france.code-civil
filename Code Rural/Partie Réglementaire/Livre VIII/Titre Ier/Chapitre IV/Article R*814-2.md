@@ -16,6 +16,8 @@ L'école nationale supérieure du paysage ;
 L'école nationale supérieure féminine d'agronomie de Rennes ;
 
 Les écoles nationales d'ingénieurs de travaux agricoles de Bordeaux, de
-Clermont-Ferrand et de Dijon, l'Ecole nationale d'ingénieurs des travaux de
-l'horticulture et du paysage d'Angers et l'Ecole nationale d'ingénieurs des
-travaux des industries agricoles et alimentaires de Nantes.
+Clermont-Ferrand, l'Ecole nationale d'ingénieurs des travaux de l'horticulture
+et du paysage d'Angers et l'Ecole nationale d'ingénieurs des travaux des
+industries agricoles et alimentaires de Nantes.
+
+Etablissement national d'enseignement supérieur agronomique de Dijon.

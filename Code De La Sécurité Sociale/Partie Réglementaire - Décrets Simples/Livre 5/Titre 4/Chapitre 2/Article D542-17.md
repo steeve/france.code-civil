@@ -4,11 +4,13 @@ I.-La demande doit être assortie des justifications suivantes :
 
 1° Au moment de la demande :
 
-a) En cas de location, l'original, la copie certifiée conforme ou une photocopie
-de la quittance de loyer qui comprend la mensualité de janvier ; à défaut, une
-attestation du bailleur précisant le montant du loyer pour le mois de janvier
-ou, éventuellement, une quittance ou une attestation correspondant au mois pris
-en considération pour le calcul de l'allocation de logement ;
+a) A En cas de location, et lorsqu'il y a contrat, la copie certifiée conforme
+du contrat établi au nom du demandeur, ainsi que l'original ou la copie
+certifiée conforme de la quittance de loyer établie au même nom, qui comprend la
+mensualité de janvier ; à défaut, une attestation du bailleur précisant le
+montant du loyer pour le mois de janvier ou, éventuellement, une quittance ou
+une attestation correspondant au mois pris en considération pour le calcul de
+l'allocation de logement ;
 
 b) Lorsqu'un employé est logé par son employeur moyennant une retenue sur le
 salaire, la production du bulletin de salaire qui justifiera du paiement d'un
@@ -16,16 +18,16 @@ loyer ;
 
 c) En cas d'accession à la propriété, l'allocataire doit justifier des
 obligations qui lui incombent et dont il demande la prise en considération pour
-l'octroi de l'allocation de logement.
+l'octroi de l'allocation de logement ;
 
-2°) toutes justifications de l'affectation, de la superficie et de la salubrité
+2°) Toutes justifications de l'affectation, de la superficie et de la salubrité
 du local ;
 
-3°) un état des personnes vivant habituellement au foyer, y compris les enfants
+3°) Un état des personnes vivant habituellement au foyer, y compris les enfants
 à charge qui viennent y habiter périodiquement ou qui sont momentanément absents
 pour des raisons tenant à leur état de santé ou à leur éducation ;
 
-4°) une déclaration sur l'honneur indiquant le total des ressources imposables
+4°) Une déclaration sur l'honneur indiquant le total des ressources imposables
 perçues au cours de l'année précédente par toutes les personnes vivant
 habituellement au foyer ;
 

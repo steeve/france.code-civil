@@ -6,7 +6,9 @@ salaires et des éléments annexes de celui-ci afférents à la période à cons
 dans chacun des cas prévus aux articles R. 433-5 et R. 434-30, compte tenu, s'il
 y a lieu, des avantages en nature et des pourboires, déduction faite des frais
 professionnels et des frais d'atelier et non comprises les prestations
-familiales légales ni les cotisations patronales de sécurité sociale.
+familiales légales ni les cotisations patronales de sécurité sociale ni les
+cotisations patronales à des régimes de retraite ou de prévoyance
+complémentaires.
 
 En ce qui concerne les revenus non salariaux, ceux-ci ne peuvent être pris en
 compte que pour le calcul de la rente et seulement dans la mesure où ils ont
