@@ -4,27 +4,29 @@ I. (Abrogé).
 
 II. Les produits des taxes spéciales d'équipement perçues au profit des
 établissements publics fonciers visés à l'article L. 324-1 du code de
-l'urbanisme, de l'établissement public d'aménagement de la Basse-Seine, de
-l'établissement public de la métropole lorraine, de l'établissement public
-foncier du Nord - Pas-de-Calais, de l'établissement public d'aménagement de la
-Guyane, des agences pour la mise en valeur des espaces urbains de la zone dite
-des cinquante pas géométriques en Guadeloupe et en Martinique, de
-l'établissement public foncier de l'Ouest Rhône-Alpes et de l'établissement
-public foncier de Provence-Alpes-Côte d'Azur sont répartis entre les taxes
-foncières, la taxe d'habitation et la taxe professionnelle proportionnellement
-aux recettes que chacune de ces taxes a procurées l'année précédente à
-l'ensemble des communes et de leurs groupements situés dans le ressort de ces
-établissements.
+l'urbanisme et au b de l'article L. 321-1 du même code, de l'établissement
+public foncier de Normandie, de l'établissement public foncier de Lorraine, de
+l'établissement public foncier du Nord - Pas-de-Calais, de l'établissement
+public d'aménagement de la Guyane, des agences pour la mise en valeur des
+espaces urbains de la zone dite des cinquante pas géométriques en Guadeloupe et
+en Martinique, de l'établissement public foncier de l'Ouest Rhône-Alpes et de
+l'établissement public foncier de Provence-Alpes-Côte d'Azur sont répartis entre
+les taxes foncières, la taxe d'habitation et la taxe professionnelle
+proportionnellement aux recettes que chacune de ces taxes a procurées l'année
+précédente à l'ensemble des communes et de leurs groupements situés dans le
+ressort de ces établissements.
 
 III. - Pour l'application du II, les recettes s'entendent de celles figurant
-dans des rôles généraux ainsi que de la compensation prévue au D de l'article 44
-modifié de la loi de finances pour 1999, n° 98-1266 du 30 décembre 1998, versée
-au titre de l'année précédente en contrepartie de la suppression de la part des
-salaires et rémunérations mentionnée au 1 du I du A de l'article 44 précité dans
-la base d'imposition à la taxe professionnelle, et de la compensation prévue au
-B de l'article 26 de la loi de finances pour 2003 (n° 2002-1575 du 30 décembre
-2002) versée au titre de l'année précédente en contrepartie de la réduction de
-la fraction imposable des recettes visée au 2° de l'article 1467.
+dans des rôles généraux. Elles sont majorées du montant perçu l'année précédente
+au titre de la part de la dotation forfaitaire prévue à l'article L. 2334-7 du
+code général des collectivités territoriales ou, le cas échéant, au titre de la
+part de la dotation de compensation prévue à l'article L. 5211-28-1 du même
+code, correspondant au montant antérieurement versé en application du I du D de
+l'article 44 de la loi de finances pour 1999 (n° 98-1266 du 30 décembre 1998)
+ainsi que de la compensation prévue au B de l'article 26 de la loi de finances
+pour 2003 (n° 2002-1575 du 30 décembre 2002) versée au titre de l'année
+précédente en contrepartie de la réduction de la fraction imposable des recettes
+visée au 2° de l'article 1467.
 
 IV. Le produit fiscal à recouvrer dans chacune des communes membres au profit
 d'un syndicat de communes est réparti entre les taxes foncières, la taxe
