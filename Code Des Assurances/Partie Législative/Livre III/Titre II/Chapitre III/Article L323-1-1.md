@@ -1,17 +1,18 @@
 Article L323-1-1
 ----
 Lorsque la situation financière d'un organisme contrôlé par la commission de
-contrôle en vertu de l'article L. 310-12, ou que ses conditions de
-fonctionnement sont telles que les intérêts des assurés et bénéficiaires des
-contrats sont compromis ou susceptibles de l'être, la commission de contrôle des
-assurances prend les mesures d'urgence nécessaires à la sauvegarde de l'intérêt
-des assurés, membres et ayants droit.
+contrôle des assurances, des mutuelles et des institutions de prévoyance en
+vertu de l'article L. 310-12, ou que ses conditions de fonctionnement sont
+telles que les intérêts des assurés et bénéficiaires des contrats sont compromis
+ou susceptibles de l'être, la commission de contrôle des assurances, des
+mutuelles et des institutions de prévoyance prend les mesures d'urgence
+nécessaires à la sauvegarde de l'intérêt des assurés, membres et ayants droit.
 
 Elle peut, à ce titre, mettre l'entreprise sous surveillance spéciale.
 
 Elle peut aussi restreindre ou interdire la libre disposition de tout ou partie
 des actifs de l'entreprise, limiter ou suspendre temporairement certaines
-opérations ou désigner un ou plusieurs administrateurs provisoires à qui sont
+opérations, ou désigner un ou plusieurs administrateurs provisoires à qui sont
 transférés les pouvoirs nécessaires à l'administration et à la direction de
 l'entreprise. Cette désignation est faite soit à la demande des dirigeants
 lorsqu'ils estiment ne plus être en mesure d'exercer normalement leurs
