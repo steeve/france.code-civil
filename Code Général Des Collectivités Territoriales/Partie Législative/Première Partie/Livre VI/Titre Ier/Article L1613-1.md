@@ -26,5 +26,10 @@ fonctionnement, le montant de la dotation globale de fonctionnement de 2002,
 calculé dans les conditions prévues ci-dessus, est majoré d'un montant de 1,5
 million d'euros.
 
+A compter de 2004, pour le calcul du montant de la dotation globale de
+fonctionnement, le montant de la dotation globale de fonctionnement de 2003
+calculé dans les conditions prévues ci-dessus est majoré d'un montant de 23
+millions d'euros ;.
+
 2° L'indice prévisionnel défini au premier alinéa du présent article est
 appliqué au montant ainsi obtenu.

@@ -32,3 +32,8 @@ commun applicable sur le territoire des communes nouvellement incluses peut êtr
 réduit par décision de l'organe délibérant, pour une durée maximale de cinq ans
 à compter de cette inclusion, par rapport au taux applicable sur le territoire
 des autres communes.
+
+Les dispositions de l'alinéa précédent s'appliquent aux communes nouvellement
+incluses dans un périmètre de transports urbains à la suite du transfert à
+l'établissement public de coopération intercommunale à fiscalité propre dont
+elles sont membres de la compétence en matière de transports publics urbains.
