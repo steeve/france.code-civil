@@ -4,7 +4,9 @@ Les sociétés d'habitations à loyer modéré et de crédit immobilier désireu
 procéder à la réévaluation de leur actif doivent obtenir au préalable l'accord
 du ministre chargé de la construction et de l'habitation sur leur projet de
 réévaluation. Les instructions prévues à l'article R. 423-68 indiquent la forme
-dans laquelle cet accord est demandé.
+dans laquelle cet accord est demandé. L'accord du ministre est donné, pour les
+sociétés anonymes de crédit immobilier, sur proposition de la chambre syndicale
+des sociétés anonymes de crédit immobilier.
 
 Les immeubles donnés en location-attribution ou en location-vente ne peuvent
 faire l'objet d'une réévaluation.

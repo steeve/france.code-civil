@@ -1,16 +1,15 @@
 Article R*422-11
 ----
-Le ministre chargé de la construction et de l'habitation peut, après avis du
-conseil supérieur des habitations à loyer modéré, agréer spécialement les
-sociétés anonymes de crédit immobilier pour leur permettre d'étendre leur
-activité à l'ensemble du territoire national [*compétence territoriale*].
+Le ministre chargé du logement peut, sur proposition de la chambre syndicale des
+sociétés anonymes de crédit immobilier et après avis du Conseil supérieur des
+habitations à loyer modéré (comité permanent), agréer les sociétés anonymes de
+crédit immobilier pour leur permettre d'étendre leur activité à l'ensemble du
+territoire national.
 
-Peuvent solliciter le bénéfice des dispositions du présent article les sociétés
-dont la qualité de la gestion sur les plans technique et financier a été
-constatée à l'occasion du contrôle prévu par l'article L. 451-1 et qui soit, ont
-financé ou ont construit au moins 10000 logements au total, soit ont financé ou
-construit en moyenne au moins 1000 logements [*nombre*] par an au cours des
-trois derniers exercices précédant la demande.
-
-Les sociétés ayant reçu un tel agrément doivent inclure dans leurs statuts une
-clause prévoyant l'institution d'un commissaire du Gouvernement.
+Si une société ayant bénéficié des dispositions de l'alinéa précédent n'est plus
+en mesure, du point de vue technique ou financier, d'assumer sa mission de façon
+satisfaisante, le ministre chargé du logement peut, après que la société aura
+été invitée à présenter ses observations et dans les mêmes formes que celles
+prévues pour l'octroi de l'agrément correspondant, supprimer tout ou partie de
+la faculté pour la société d'entreprendre de nouvelles opérations en dehors de
+la région où est situé son siège social.
