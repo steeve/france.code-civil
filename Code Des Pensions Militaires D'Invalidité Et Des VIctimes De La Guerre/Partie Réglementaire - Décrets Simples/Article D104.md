@@ -1,7 +1,7 @@
 Article D104
 ----
 Les mémoires et titres de recettes que le directeur interdépartemental ne croit
-pas pouvoir mandater sont déférés par ses soins aux commissions départementales
+pas pouvoir mandater sont déférés par ses soins aux commissions contentieuses
 des soins gratuits.
 
 Le directeur interdépartemental peut toutefois, de sa propre autorité, refuser,
@@ -18,5 +18,5 @@ non-application des tarifs réglementaires.
 
 Dans les cas visés aux deux alinéas précédents, il appartient à la partie
 prenante de déférer, si elle le désire, la décision du directeur
-interdépartemental à la commission départementale des soins gratuits
-conformément aux dispositions de l'article D. 106.
+interdépartemental à la commission contentieuse des soins gratuits conformément
+aux dispositions de l'article D. 106.

@@ -11,5 +11,4 @@ intéressés par le directeur interdépartemental sous pli recommandé avec accu
 de réception.
 
 En cas de refus d'inscription l'intéressé peut se pourvoir devant la commission
-départementale des soins gratuits dans les conditions prévues à l'article D.
-106.
+contentieuse des soins gratuits dans les conditions prévues à l'article D. 106.

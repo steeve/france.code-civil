@@ -1,6 +1,6 @@
 Article D108
 ----
-La commission supérieure, juridiction d'appel des commissions départementales,
+La commission supérieure, juridiction d'appel des commissions contentieuses,
 ordonne toutes mesures d'instruction et d'enquête qu'elle juge utiles et statue
 sur pièces souverainement en dernier ressort.
 
@@ -13,5 +13,5 @@ supérieure, au ministre des anciens combattants et victimes de guerre et aux
 directeurs interdépartementaux intéressés, à charge pour ceux-ci de les notifier
 aux parties en cause, y compris éventuellement les organismes visés à l'article
 D. 103, par pli recommandé avec accusé de réception et d'en remettre ampliation
-à la commission départementale ayant statué sur l'affaire en cause en première
+à la commission contentieuse ayant statué sur l'affaire en cause en première
 instance.

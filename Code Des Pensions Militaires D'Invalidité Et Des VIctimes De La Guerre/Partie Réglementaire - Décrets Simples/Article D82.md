@@ -1,38 +1,41 @@
 Article D82
 ----
-La commission départementale des soins gratuits est présidée par le préfet du
-département ou son représentant.
+La commission contentieuse des soins gratuits est présidée par le représentant
+de l'Etat dans la circonscription administrative où est situé le siège de la
+commission.
 
-Elle comprend, avec voix délibérative, huit membres [*composition*] :
+Cette commission comprend, avec voix délibérative :
 
-Quatre représentants du corps médical ;
+- trois membres siégeant au titre des services déconcentrés de l'Etat ;
 
-Deux représentants des pensionnés bénéficiaires de l'article L. 115.
+- deux représentants du corps médical ;
 
-Elle s'adjoint, avec voix consultative, cinq membres :
+- deux représentants des pensionnés bénéficiaires de l'article L. 115.
 
-Le médecin contr&lt;CB&gt;leur des soins gratuits en sa qualité de conseiller
-technique du directeur interdépartemental des anciens combattants et victimes de
-guerre ;
+La commission s'adjoint, avec voix consultative, cinq membres :
 
-Un représentant des pharmaciens ;
+- le médecin contrôleur des soins gratuits ;
 
-Un représentant des médecins stomatologistes ou, à défaut, des chirurgiens
-dentistes ;
+- un représentant des pharmaciens ;
 
-Un représentant des infirmiers ;
+- un représentant des chirurgiens-dentistes ;
 
-Un représentant des masseurs kinésithérapeutes ;
+- un représentant des infirmiers ;
 
-Le représentant des pharmaciens prend voix délibérative dans les affaires
-concernant les pharmaciens ; en ce cas, il remplace un des représentants du
-corps médical.
+- un représentant des masseurs-kinésithérapeutes.
 
-Il en est de même pour le représentant des médecins stomatologistes ou des
-chirurgiens dentistes dans les affaires relevant de cette spécialité, ainsi que
-pour le représentant des infirmiers et celui des masseurs dans les affaires
-concernant l'exercice de l'une ou l'autre de ces professions.
+Les représentants des pharmaciens, des chirurgiens-dentistes, des infirmiers et
+des masseurs-kinésithérapeutes prennent voix délibérative dans les affaires
+concernant leurs professions respectives.
 
-Les membres de la commission départementale sont nommés pour deux ans par arrêté
-préfectoral, pris sur proposition du directeur interdépartemental des anciens
-combattants et victimes de guerre.
+Les membres de la commission sont nommés pour cinq ans par arrêté du
+représentant de l'Etat, après avis :
+
+- du directeur régional des anciens combattants et des victimes de guerre, en
+métropole ;
+
+- du secrétaire général, chef du service de l'Office national des anciens
+combattants et victimes de guerre, dans les régions d'outre-mer ;
+
+- du secrétaire général de l'office territorial des anciens combattants et
+victimes de guerre, dans les territoires d'outre-mer.

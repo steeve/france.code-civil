@@ -7,10 +7,10 @@ Elle désigne un rapporteur choisi parmi les représentants du corps médical. L
 rapporteur se saisit des affaires dès qu'elles sont déférées à la commission et
 s'en dessaisit dès que les décisions prises par celle-ci ont été notifiées. Il
 instruit les affaires et, à cet effet, effectue ou prescrit, au nom de la
-commission et dans les conditions fixées à l'article D. 88, tout
-contr&lt;CB&gt;le ou enquête qu'il estime nécessaire.
+commission et dans les conditions fixées à l'article D. 88, tout contrôle ou
+enquête qu'il estime nécessaire.
 
-Les décisions des commissions départementales des soins gratuits doivent être
+Les décisions des commissions contentieuses des soins gratuits doivent être
 dûment motivées.
 
 Le secrétariat de la commission est assuré par un fonctionnaire de la direction

@@ -1,7 +1,7 @@
 Article D96
 ----
 La commission supérieure des soins gratuits examine et juge sur pièces les
-appels formés contre les décisions des commissions départementales.
+appels formés contre les décisions des commissions contentieuses.
 
 Elle donne son avis au ministre des anciens combattants et victimes de guerre
 sur toutes les questions qu'il lui soumet et lui adresse toutes suggestions
