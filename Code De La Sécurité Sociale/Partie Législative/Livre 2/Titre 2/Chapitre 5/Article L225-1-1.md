@@ -6,10 +6,9 @@ L'Agence centrale des organismes de sécurité sociale est également chargée :
 recouvrement en matière de gestion de trésorerie ;
 
 2° De proposer et de promouvoir les orientations en matière de recouvrement et
-de contrôle des cotisations et contributions, dans le cadre de plans triennaux
-élaborés dans les mêmes conditions et aux mêmes dates que les délibérations
-prévues à l'article L. 153-8, ainsi que de coordonner et de vérifier leur mise
-en oeuvre par les organismes locaux ;
+de contrôle des cotisations et contributions, dans le cadre de plans triennaux,
+ainsi que de coordonner et de vérifier leur mise en oeuvre par les organismes
+locaux ;
 
 3° Dans les cas prévus par la loi, de recouvrer directement des cotisations et
 des contributions ; ce recouvrement s'effectue sous les garanties et sanctions
