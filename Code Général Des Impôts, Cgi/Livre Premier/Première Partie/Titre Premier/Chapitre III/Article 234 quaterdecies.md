@@ -5,9 +5,10 @@ droit public ou privé, non mentionné à l'article 234 duodecies ou à l'articl
 234 terdecies, la contribution prévue à l'article 234 nonies, assise sur le
 montant des recettes nettes définies au deuxième alinéa du I de l'article 234
 undecies et perçues au cours de l'année civile au titre de la location, est
-acquittée par cette personne ou cet organisme, auprès du comptable du Trésor, au
-vu d'une déclaration spéciale, au plus tard le 15 octobre de l'année qui suit
-celle de la perception des revenus soumis à la contribution.
+acquittée par cette personne ou cet organisme, auprès du comptable de la
+direction générale des imp&lt;CB&gt;ts, au vu d'une déclaration spéciale, au
+plus tard le 15 octobre de l'année qui suit celle de la perception des revenus
+soumis à la contribution.
 
 Sous cette réserve, la contribution est contrôlée et recouvrée selon les mêmes
 règles et sous les mêmes garanties et sanctions qu'en matière d'impôt sur les
