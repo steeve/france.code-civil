@@ -14,8 +14,8 @@ a. que l'acte constatant la donation ou la déclaration de la succession soit
 appuyé d'un certificat délivré sans frais par le directeur départemental de
 l'agriculture et de la forêt attestant que :
 
-les bois et forêts du groupement sont susceptibles d'aménagement ou
-d'exploitation régulière ;
+les bois et forêts du groupement sont susceptibles de présenter une des
+garanties de gestion durable prévues à l'article L. 8 du code forestier ;
 
 les friches et landes appartenant au groupement sont susceptibles de reboisement
 et présentent une vocation forestière ;
@@ -23,26 +23,14 @@ et présentent une vocation forestière ;
 les terrains pastoraux appartenant au groupement sont susceptibles d'un régime
 d'exploitation normale ;
 
-b. que le groupement forestier prenne, selon le cas, l'engagement de soumettre,
-pendant trente ans, les bois et forêts, objets de la mutation, à un régime
-d'exploitation normale dans les conditions déterminées par le décret du 28 juin
-1930 ou, pour les mutations de forêts entrant dans le champ d'application du
-premier alinéa de l'article L. 222-1 du code forestier, l'engagement, soit
-d'appliquer pendant trente ans le plan simple de gestion déjà agréé par le
-centre régional de la propriété forestière et de ne le modifier qu'avec
-l'agrément de ce centre, soit si, au moment de la mutation, aucun plan simple de
-gestion n'est agréé pour la forêt en cause, d'en faire agréer un dans le délai
-de cinq ans à compter de la date de la mutation et de l'appliquer pendant trente
-ans dans les mêmes conditions que dans le cas précédent. Dans cette situation,
-le groupement doit prendre, en outre, l'engagement d'appliquer à la forêt le
-régime d'exploitation normale prévu au décret du 28 juin 1930 pendant le délai
-où le plan simple de gestion de cette forêt n'aura pas été agréé par le centre.
+b. que le groupement forestier prenne, selon le cas, l'un des engagements prévus
+au b du 2° du 2 du présent article ;
 
 Ce groupement doit s'engager en outre :
 
 à reboiser ses friches et landes dans un délai de cinq ans à compter de la
-délivrance du certificat et à les soumettre ensuite au régime défini au premier
-alinéa ;
+délivrance du certificat et à les soumettre ensuite au régime défini au b du 2°
+du 2 du présent article ;
 
 à soumettre pendant trente ans ses terrains pastoraux à un régime d'exploitation
 normale ou, à défaut, à les reboiser ;
@@ -50,11 +38,6 @@ normale ou, à défaut, à les reboiser ;
 c. que les parts aient été détenues depuis plus de deux ans par le donateur ou
 le défunt, lorsqu'elles ont été acquises à titre onéreux à compter du 5
 septembre 1979.
-
-Le régime de faveur est définitivement acquis au bénéficiaire de la mutation à
-titre gratuit lorsqu'il transmet, à titre gratuit ou à titre onéreux, les bois
-et forêts à l'Etat ou aux collectivités et organismes mentionnés au I de
-l'article 1042 ;
 
 4° Les parts des groupements fonciers agricoles et celles des groupements
 agricoles fonciers, créés conformément à la loi n° 62-933 du 8 août 1962 et
@@ -97,15 +80,47 @@ dont la dévolution est régie par l'article L. 321-14 du code rural ;
 2. 1° (Abrogé) ;
 
 2° les successions et donations entre vifs, à concurrence des trois-quarts de
-leur montant, intéressant les propriétés en nature de bois et forêts, à
-condition que soient appliquées les dispositions prévues au 3° du 1 du présent
-article, aux II et III de l'article 1840 G bis et au 3 de l'article 1929 ;
+leur montant, intéressant les propriétés en nature de bois et forêts, à la
+condition ;
+
+a. que l'acte constatant la donation ou la déclaration de succession soit appuyé
+d'un certificat délivré sans frais par le directeur départemental de
+l'agriculture et de la forêt attestant que les bois et forêts sont susceptibles
+de présenter une des garanties de gestion durable prévues à l'article L. 8 du
+code forestier ;
+
+b. qu'il contienne l'engagement par l'héritier, le légataire ou le donataire,
+pris pour lui et ses ayants cause :
+
+- soit d'appliquer pendant trente ans aux bois et forêts objets de la mutation
+l'une des garanties de gestion durable prévues à l'article L. 8 dudit code ;
+
+- soit lorsque, au moment de la mutation, aucune garantie de gestion durable
+n'est appliquée aux bois et forêts en cause, de présenter dans le délai de trois
+ans à compter de la mutation et d'appliquer jusqu'à l'expiration du délai de
+trente ans précité une telle garantie. Dans cette situation, le bénéficiaire
+s'engage en outre à appliquer le régime d'exploitation normale prévu au décret
+du 28 juin 1930 aux bois et forêts pendant le délai nécessaire à la présentation
+de l'une des garanties de gestion durable.
+
+En cas de transmission de bois et forêts à l'Etat ou aux collectivités et
+organismes mentionnés à l'article 1042, l'engagement est réputé définitivement
+satisfait à concurrence d'une fraction de la valeur des biens exonérée
+déterminée par le rapport entre la superficie des biens objets de la
+transmission et la superficie totale des biens sur lesquels l'engagement a été
+souscrit. La même règle s'applique aux mutations de jouissance ou de propriété
+au profit d'établissements ou de sociétés, en vue de la réalisation
+d'équipements, aménagements ou constructions d'intérêt public, qui pourraient
+donner lieu à l'établissement d'une servitude d'utilité publique au titre de
+ladite mutation, ainsi qu'aux bois et forêts faisant l'objet d'une interdiction
+de reconstituer les boisements après coupe rase en application du 1° de
+l'article L. 126-1 du code rural ;
 
 3° Les biens donnés à bail dans les conditions prévues aux articles L. 416-1 à
 L. 416-6, L. 416-8 et L. 416-9 du code rural, à concurrence des trois quarts de
 leur valeur, sous réserve des dispositions de l'article 793 bis ;
 
-4° lors de leur première transmission à titre gratuit, les immeubles acquis
+4° Lors de leur première transmission à titre gratuit, les immeubles acquis
 neufs ou en état futur d'achèvement dont la déclaration de l'achèvement des
 travaux prévue par la réglementation de l'urbanisme est déposée avant le 1er
 juillet 1994 à la mairie de la commune sur le territoire de laquelle l'immeuble
@@ -124,8 +139,8 @@ La condition de cinq ans n'est pas opposable en cas de décès de l'acquéreur
 durant ce délai.
 
 Les dispositions qui précèdent ne s'appliquent pas aux immeubles dont
-l'acquéreur a bénéficié des réductions d'impôt prévues aux articles 199 decies
-A, 199 decies B, 199 undecies et 199 undecies A.
+l'acquéreur a bénéficié des réductions d'impôt prévues aux articles 199 undecies
+et 199 undecies A.
 
 Un décret en Conseil d'Etat détermine les modalités d'application des
 dispositions du présent 4°, notamment les obligations déclaratives incombant aux
@@ -150,8 +165,8 @@ La condition de deux ans n'est pas opposable en cas de décès de l'acquéreur
 durant ce délai.
 
 Les dispositions qui précèdent ne s'appliquent pas aux immeubles dont
-l'acquéreur a bénéficié des réductions d'impôt prévues aux articles 199 decies
-A, 199 decies B, 199 undecies et 199 undecies A.
+l'acquéreur a bénéficié des réductions d'impôt prévues aux articles 199 undecies
+et 199 undecies A.
 
 Un décret en Conseil d'Etat détermine les modalités d'application des
 dispositions du présent 5° (3) ;

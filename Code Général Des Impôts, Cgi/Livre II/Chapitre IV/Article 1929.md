@@ -23,11 +23,24 @@ prescrite par la loi.
 
 En cas de cession à l'Etat ou aux collectivités et organismes mentionnés au I de
 l'article 1042 d'un bois ou d'une forêt grevé de l'hypothèque légale, celle-ci
-s'éteint de plein droit. Lorsque la sûreté a été cantonnée sur le bien cédé, les
-droits complémentaires et supplémentaires correspondant à d'autres biens
-deviennent exigibles et sont colloqués sur le prix de vente au rang de
+s'éteint de plein droit. La même règle s'applique aux mutations de jouissance ou
+de propriété au profit d'établissements ou de sociétés, en vue de la réalisation
+d'équipements, aménagements ou constructions d'intérêt public, qui pourraient
+donner lieu à l'établissement d'une servitude d'utilité publique au titre de
+ladite mutation, ainsi qu'aux bois et forêts faisant l'objet d'une interdiction
+de reconstituer les boisements après coupe rase en application du 1° de
+l'article L. 126-1 du code rural. Lorsque la sûreté a été cantonnée sur le bien
+cédé, les droits complémentaires et supplémentaires correspondant à d'autres
+biens deviennent exigibles et sont colloqués sur le prix de vente au rang de
 l'inscription si l'hypothèque légale n'a pu être inscrite en rang utile sur ces
-autres biens préalablement à la cession.
+autres biens préalablement à la cession. Il en est de même lorsque la sûreté a
+été cantonnée sur des bois et forêts qui font l'objet soit d'une mutation de
+jouissance ou de propriété au profit d'établissements ou de sociétés, en vue de
+la réalisation d'équipements, aménagements ou constructions d'intérêt public,
+qui pourraient donner lieu à l'établissement d'une servitude d'utilité publique
+au titre de ladite mutation, soit d'une interdiction de reboisement après coupe
+rase en application du 1° de l'article L. 126-1 du code rural, soit d'un
+procès-verbal dressé en application du III de l'article 1840 G bis.
 
 4. Sont tenus solidairement au paiement de la taxe locale d'équipement :
 
