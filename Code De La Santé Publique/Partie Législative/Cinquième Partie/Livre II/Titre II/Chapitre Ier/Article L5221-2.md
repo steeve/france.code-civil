@@ -1,12 +1,10 @@
 Article L5221-2
 ----
-Sont interdites la fabrication, la vente, la mise en vente, l'exposition et
-l'importation :
-
-1° Des biberons à tube ;
-
-2° Des tétines et sucettes ne répondant pas aux conditions établies par un
-décret en Conseil d'Etat pris sur avis du Conseil supérieur d'hygiène publique.
-Ce décret fixe les caractéristiques des produits qui peuvent être employés,
-ainsi que les indications spéciales que les objets visés doivent porter avec la
-marque du fabricant ou du commerçant.
+Les dispositifs médicaux de diagnostic in vitro ne peuvent être importés, mis
+sur le marché, mis en service ou utilisés si le fabricant n'a pas au préalable
+établi ou fait établir par un organisme désigné à cet effet soit par l'Agence
+française de sécurité sanitaire des produits de santé, soit par l'autorité
+compétente d'un autre Etat membre de la Communauté européenne, un certificat
+attestant leurs performances ainsi que leur conformité à des exigences
+essentielles concernant la sécurité et la santé des patients, des utilisateurs
+et des tiers.
