@@ -17,15 +17,15 @@ d'une mesure de sûreté générale.
 modalités d'application de la législation sur la reconstruction, et par
 l'ordonnance n° 45-2064 du 8 septembre 1945 autorisant la construction directe
 par l'Etat ou par des associations syndicales de reconstruction, d'immeubles
-d'habitation de caractère définitif.
+d'habitation de caractère définitif ;
 
 4° Aux actes, pièces et écrits visés :
 
-a) A l'article 1058;
+a. A l'article 1058 ;
 
-b) A l'article 12 du code de la famille et de l'aide sociale, concernant les
-associations familiales et les unions d'associations familiales.
+b. A l'article L. 211-11 du code de l'action sociale et des familles, concernant
+les associations familiales et les unions d'associations familiales ;
 
-c à h (dispositions périmées).
+c. à h. (Dispositions périmées).
 
 (1) Voir annexe III, art. 396.
