@@ -1,12 +1,16 @@
 Article R5146-19
 ----
-La liste des experts agréés prévus à l'article L. 617-18 est dressée par le
-ministre de l'agriculture après avis du ministre de la santé.
+La personne physique ou morale qui prend l'initiative d'une expérimentation de
+médicament vétérinaire définie à l'article R. 5146-18 est dénommée promoteur.
 
-L'inscription sur la liste des experts est valable pour cinq ans [*durée*].
-Toutefois, le ministre de l'agriculture peut, avant l'expiration de cette durée,
-procéder à des radiations, après avis du ministre de la santé et après que
-l'intéressé ait été invité à fournir ses explications.
+Les personnes qui dirigent et surveillent la réalisation des essais non
+cliniques, à savoir des essais analytiques, des essais d'innocuité, de l'étude
+des résidus et des essais précliniques, sont dénommés expérimentateurs. Celles
+qui dirigent et surveillent la réalisation des essais cliniques, et dans le cas
+des médicaments vétérinaires immunologiques des essais d'efficacité, sont
+dénommés investigateurs. Ils doivent, selon leur activité, disposer des
+qualifications et de l'expérience mentionnées à l'article R. 5146-20.
 
-Le ministre de l'agriculture répartit les experts entre différentes sections en
-fonction de leurs disciplines respectives.
+Les personnes se prononçant sur la documentation relative aux essais fournis à
+l'appui d'un dossier d'autorisation de mise sur le marché sont dénommées
+experts.
