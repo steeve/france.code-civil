@@ -6,12 +6,13 @@ Ils exercent ces missions dans la limite des moyens prévus par la réglementati
 relative à ces délégués. Ils sont soumis aux mêmes obligations que les membres
 de la section des gens de mer.
 
-Le chef de quartier des affaires maritimes peut imposer la création d'un comité
-comportant, le cas échéant, une section des gens de mer dans les entreprises
-occupant moins de cinquante salariés, notamment en raison de la nature de
-l'équipement des navires ou de celle de l'exploitation qui en est faite. Cette
-décision est susceptible d'une réclamation devant le directeur des affaires
-maritimes dans les conditions fixées à l'article L. 231-5-1.
+Le directeur départemental ou interdépartemental des affaires maritimes peut
+imposer la création d'un comité comportant, le cas échéant, une section des gens
+de mer dans les entreprises occupant moins de cinquante salariés, notamment en
+raison de la nature de l'équipement des navires ou de celle de l'exploitation
+qui en est faite. Cette décision est susceptible d'une réclamation devant le
+directeur des affaires maritimes dans les conditions fixées à l'article L.
+231-5-1.
 
 Le regroupement de plusieurs entreprises de moins de cinquante salariés en vue
 de la constitution d'un comité, en application des dispositions du cinquième
