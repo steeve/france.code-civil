@@ -1,7 +1,7 @@
 Article R942-2
 ----
 Les effectifs de l'entreprise sont appréciés selon les règles prévues aux
-articles L. 431-2 et L. 431-8.
+articles L. 620-10 et L. 620-11.
 
 Ne sont pas pris en compte dans le calcul de l'effectif du personnel de
 l'entreprise les titulaires des contrats de travail suivants :
