@@ -15,8 +15,5 @@ représentants ;
 3° Deux administrateurs de chacune des caisses nationales mentionnées au 1°,
 désignés en leur sein par les conseils d'administration ou leurs suppléants ;
 
-4° Deux personnalités qualifiées nommées l'une sur proposition de la Caisse
-nationale de l'assurance maladie des travailleurs salariés, l'autre sur
-proposition conjointe de la Caisse nationale d'assurance maladie et maternité
-des travailleurs non salariés des professions non agricoles et de la caisse
-centrale de secours mutuels agricoles.
+4° Une personnalité qualifiée nommée par chacune des caisses nationales
+mentionnées au 1°.
