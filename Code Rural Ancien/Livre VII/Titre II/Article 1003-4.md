@@ -36,24 +36,6 @@ sociale et à l'exception des majorations de pensions accordées en fonction du
 nombre d'enfants pour les ressortissants du régime de protection sociale des
 personnes non salariées des professions agricoles ;
 
-b) Le remboursement de frais de personnels mis par les caisses de mutualité
-sociale agricole à la disposition des services relevant du ministre chargé de
-l'agriculture et compétents en matière de protection sociale agricole ;
-
-c) Le remboursement au budget général :
-
-- des dépenses de fonctionnement dans la limite maximale des deux tiers desdites
-dépenses, des services relevant du ministre chargé de l'agriculture et
-compétents en matière de protection sociale agricole ;
-
-- de la rémunération des agents de l'Etat dont l'activité est consacrée au
-service des prestations sociales agricoles, ainsi que les dépenses de matériels
-correspondantes ;
-
-d) Les frais de fonctionnement de budget annexe du comité de gestion prévu à
-l'article 1003-1, de la commission supérieure des prestations familiales
-agricoles et de la commission consultative des assurances sociales agricoles ;
-
 e) Le remboursement des avances du Trésor ;
 
 f) Les versements au fonds de réserve visé à l'article 1003-5.
