@@ -1,54 +1,95 @@
 Article L*142-2
 ----
-A l'intérieur des périmètres sensibles, il est institué une taxe départementale
-d'espaces verts tenant lieu de participation forfaitaire aux dépenses des
-départements, soit pour l'acquisition des terrains par voie amiable, par
-expropriation ou par exercice du droit de préemption visé à l'article L. 142-1
-et pour l'aménagement de ces terrains en espaces verts incorporés au domaine
-public départemental, soit pour la protection et l'entretien d'espaces naturels
-ou forestiers ouverts au public dans le cadre des conventions passées en
-application des dispositions de l'article L. 130-5 du présent code. Le produit
-de la taxe peut également être affecté sous forme de participation à
-l'acquisition de terrains par le conservatoire de l'espace littoral et des
-rivages lacustres ainsi qu'à l'entretien des terrains acquis par lui ou par les
-communes dans l'exercice de leur droit de substitution. Le produit de la taxe
-peut également être affecté à l'acquisition, l'aménagement et la gestion des
-sentiers figurant sur le plan départemental des itinéraires de promenade et de
-randonnée établi dans les conditions prévues à l'article 56 de la loi n° 83-663
-du 22 juillet 1983 complétant la loi n° 83-8 du 7 janvier 1983 relative à la
-répartition de compétences entre les communes, les départements, les régions et
-l'Etat.
+Pour mettre en oeuvre la politique prévue à l'article L. 142-1, le département
+peut instituer, par délibération du conseil général, une taxe départementale des
+espaces naturels sensibles.
 
-Cette taxe est établie sur la construction, la reconstruction et
-l'agrandissement des bâtiments entrant dans les catégories fixées par le décret
-en Conseil d'Etat, prévu à l'article 1585 D du code général des impôts.
+Cette taxe tient lieu de participation forfaitaire aux dépenses du département :
 
-Sont exclus du champ d'application de la taxe départementale :
+- pour l'acquisition, par voie amiable, par expropriation ou par exercice du
+droit de préemption mentionné à l'article L. 142-3, de terrains ou ensembles de
+droits sociaux donnant vocation à l'attribution en propriété ou en jouissance de
+terrains, ainsi que pour l'aménagement et l'entretien de tout espace naturel,
+boisé ou non, appartenant au département, sous réserve de son ouverture au
+public dans les conditions prévues à l'article L. 142-10 ;
 
-- les bâtiments à usage agricole liés à l'exploitation ;
+- pour sa participation à l'acquisition de terrains par le Conservatoire de
+l'espace littoral et des rivages lacustres, par une commune ou par un
+établissement public de coopération intercommunale compétent, ainsi qu'à
+l'entretien des terrains acquis par l'une ou l'autre de ces personnes publiques
+ou par l'agence des espaces verts de la région d'Ile-de-France dans l'exercice
+du droit de préemption, par délégation ou par substitution, prévu à l'article L.
+142-3.
 
-- les bâtiments qui sont destinés à être affectés à un service public ou
-d'utilité publique et dont la liste est fixée par le décret en Conseil d'Etat
-visé à l'article 1585 C (1.) du code général des impôts ;
+Le produit de la taxe peut également être utilisé :
 
-- les bâtiments édifiés par les propriétaires d'une habitation familiale
+- pour l'aménagement et l'entretien d'espaces naturels, boisés ou non,
+appartenant aux collectivités locales ou à leurs établissements publics et
+ouverts au public, ou appartenant à des propriétaires privés à la condition
+qu'ils aient fait l'objet d'une convention passée en application de l'article L.
+130-5 ;
+
+- pour l'acquisition, l'aménagement et la gestion des sentiers figurant sur un
+plan départemental des itinéraires de promenade et de randonnée, établi dans les
+conditions prévues à l'article 56 de la loi n° 83-663 du 22 juillet 1983
+complétant la loi n° 83-8 du 7 janvier 1983 relative à la répartition de
+compétences entre les communes, les départements, les régions et l'Etat, ainsi
+que des chemins et servitudes de halage et de marchepied des voies d'eau
+domaniales concédées qui ne sont pas ouvertes à la circulation générale.
+
+Cette taxe est perçue sur la totalité du territoire du département.
+
+Elle est établie sur la construction, la reconstruction et l'agrandissement des
+bâtiments. Son assiette est définie conformément à l'article 1585 D du code
+général des impôts. Sont toutefois exclus du champ de la taxe :
+
+a) les bâtiments à usage agricole ou forestier liés à l'exploitation ;
+
+b) les bâtiments qui sont destinés à être affectés à un service public ou
+d'utilité publique et dont la liste est fixée par décret en Conseil d'Etat prévu
+au 1° du paragraphe I de l'article 1585 C du code général des impôts ;
+
+c) les bâtiments édifiés par les propriétaires d'une habitation familiale
 reconstituant leurs biens expropriés ;
 
-- les immeubles classés parmi les monuments historiques ou inscrits à
-l'inventaire supplémentaire des monuments historiques.
+d) les immeubles classés parmi les monuments historiques ou inscrits à
+l'inventaire supplémentaire des monuments historiques ;
 
-Le conseil général peut exonérer de la taxe départementale d'espaces verts les
-organismes D'H.L.M. de la même manière que le conseil municipal en matière de
-taxe locale d'équipement.
+e) les bâtiments reconstruits après sinistre dans les conditions fixées au
+paragraphe II de l'article 1585 D du code général des impôts.
 
-La taxe départementale est soumise aux règles qui gouvernent l'assiette, la
-liquidation, le recouvrement et le contentieux de la taxe locale d'équipement.
+Le conseil général peut exonérer de la taxe départementale des espaces naturels
+sensibles, les locaux à usage d'habitation principale édifiés pour leur compte
+ou à titre de prestation de services par les organismes mentionnés à l'article
+L. 411-2 du code de la construction et de l'habitation et par les sociétés
+d'économie mixte définies par la loi n° 83-597 du 7 juillet 1983 ou celles à
+capitaux publics majoritaires réalisant des locaux à usage d'habitation
+principale financés à titre prépondérant au moyen de prêts ouvrant droit au
+bénéfice des dispositions prévues au titre V du livre III du code de la
+construction et de l'habitation.
 
-Le taux de la taxe est fixé à 1 p. 100 de la valeur de l'ensemble immobilier
-déterminée conformément à l'article 1585 D (I et II) du code général des impôts.
-Il est uniforme sur l'ensemble du périmètre sensible pour une même catégorie de
-construction. Suivant les catégories de construction, ce taux peut être majoré
-par délibération du conseil général sans pouvoir excéder 2 p. 100.
+Il peut également exonérer de ladite taxe des locaux artisanaux situés dans les
+communes de moins de deux mille habitants.
 
-La taxe constitue du point de vue fiscal un élément du prix de revient de
+Dans les départements d'outre-mer, le conseil général peut exonérer de la taxe :
+
+- les locaux à usage d'habitation principale à caractère social financés à
+l'aide de prêts aidés par l'Etat, et édifiés par les organismes et sociétés
+d'économie mixte mentionnés ci-dessus, pour leur compte ou à titre de
+prestataires de services ;
+
+- les logements à vocation très sociale.
+
+La taxe est soumise aux règles qui gouvernent l'assiette, la liquidation, le
+recouvrement et le contentieux de la taxe locale d'équipement.
+
+La taxe est assise sur la valeur de l'ensemble immobilier déterminée
+conformément aux paragraphes I et II de l'article 1585 D du code général des
+impôts. Par délibération, le conseil général en fixe le taux, qui peut varier
+suivant les catégories de construction, sans pouvoir excéder 2 p. 100.
+
+La taxe constitue, du point de vue fiscal, un élément du prix de revient de
 l'ensemble immobilier.
+
+La taxe est perçue au profit du département en tant que recette grevée
+d'affectation spéciale.
