@@ -1,11 +1,6 @@
 Article R*121-9
 ----
-La commission de conciliation ne peut être saisie que par celles des personnes
-publiques associées à l'élaboration de l'un des documents mentionnés à l'article
-R. 121-2 qui ont émis un avis défavorable au projet de document qui leur a été
-soumis.
-
-Lorsque le document concerne tout ou partie du territoire de plusieurs
-départements, les personnes publiques associées visées à l'alinéa précédent
-saisissent indifféremment la commission de conciliation de l'un de ces
-départements, afin que soit réunie la formation interdépartementale compétente.
+En cas de vacance, pour quelque cause que ce soit, il est procédé selon les
+mêmes modalités à la désignation d'un nouveau membre titulaire et de son
+suppléant pour la durée restant à courir avant le prochain renouvellement
+général des conseils municipaux.

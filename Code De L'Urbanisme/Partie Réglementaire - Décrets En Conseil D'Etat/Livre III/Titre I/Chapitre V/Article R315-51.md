@@ -8,5 +8,5 @@ article.
 
 L'autorité compétente peut engager la procédure prévue à l'article L. 315-4 en
 vue de mettre en concordance les règles d'urbanisme applicables aux propriétés
-concernées avec les dispositions du plan d'urbanisme ou du plan d'occupation des
-sols.
+concernées avec les dispositions du plan d'urbanisme ou du plan local
+d'urbanisme.

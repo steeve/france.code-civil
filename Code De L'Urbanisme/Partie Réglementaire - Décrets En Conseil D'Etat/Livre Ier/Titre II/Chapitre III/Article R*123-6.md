@@ -1,30 +1,21 @@
 Article R*123-6
 ----
-La délibération prescrivant l'établissement du plan d'occupation des sols est
-notifiée par le maire aux présidents du conseil régional et du conseil général
-des régions et départements concernés, aux présidents de la chambre de commerce
-et d'industrie, de la chambre de métiers, de la chambre d'agriculture, le cas
-échéant, aux présidents des sections régionales de la conchyliculture, aux
-maires des communes limitrophes et aux présidents des établissements publics de
-coopération intercommunale directement intéressés en raison de leur objet et de
-leur ressort territorial et lorsque tout ou partie du territoire concerné par le
-plan est situé dans un parc national compris dans un massif de montagne ou en
-zone périphérique, au directeur de l'établissement public du parc.
+Les zones à urbaniser sont dites "zones AU". Peuvent être classés en zone à
+urbaniser les secteurs à caractère naturel de la commune destinés à être ouverts
+à l'urbanisation.
 
-Dans un délai de deux mois à compter de la transmission de cette délibération,
-les présidents du conseil régional, du conseil général, des chambres de commerce
-et d'industrie, des chambres de métiers, des chambres d'agriculture, des
-sections régionales de la conchyliculture et lorsque tout ou partie du
-territoire concerné par le plan est situé dans un parc national compris dans un
-massif de montagne ou en zone périphérique, le directeur de l'établissement
-public du parc font connaître au maire si ces collectivités et personnes
-publiques ont décidé d'être associées à l'élaboration du plan d'occupation des
-sols selon les modalités prévues à l'article R. 123-3 et, dans l'affirmative,
-font connaitre à cet effet les représentants que ces collectivités et personnes
-publiques ont designés.
+Lorsque les voies publiques et les réseaux d'eau, d'électricité et, le cas
+échéant, d'assainissement existant à la périphérie immédiate d'une zone AU ont
+une capacité suffisante pour desservir les constructions à implanter dans
+l'ensemble de cette zone, le projet d'aménagement et de développement durable et
+le règlement définissent les conditions d'aménagement et d'équipement de la
+zone. Les constructions y sont autorisées soit lors de la réalisation d'une
+opération d'aménagement d'ensemble, soit au fur et à mesure de la réalisation
+des équipements internes à la zone prévus par le projet d'aménagement et de
+développement durable et le règlement.
 
-Dans le même délai, les maires des communes limitrophes et les présidents des
-établissements publics de coopération intercommunale directement intéressés font
-savoir si ces communes ou établissements publics de coopération intercommunale
-ont décidé d'être consultés sur le projet de plan d'occupation des sols
-lorsqu'il aura été arrêté.
+Lorsque les voies publiques et les réseaux d'eau, d'électricité et, le cas
+échéant, d'assainissement existant à la périphérie immédiate d'une zone AU n'ont
+pas une capacité suffisante pour desservir les constructions à implanter dans
+l'ensemble de cette zone, son ouverture à l'urbanisation peut être subordonnée à
+une modification ou à une révision du plan local d'urbanisme.

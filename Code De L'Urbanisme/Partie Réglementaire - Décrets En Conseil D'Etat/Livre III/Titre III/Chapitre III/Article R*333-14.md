@@ -13,15 +13,15 @@ D représente le dépassement du plafond légal de densité exprimé en mètres 
 qui est soumis au versement visé à l'article L. 112-2 ;
 
 Sa' la surface de plancher développée hors oeuvre des constructions de toute
-nature autorisées par le plan d'aménagement de la zone, par le plan d'occupation
-des sols ou le document d'urbanisme en tenant lieu, à l'exclusion de la surface
-des immeubles exonérés en application des troisième et quatrième alinéas de
-l'article L. 112-2 ;
+nature autorisées par le plan d'aménagement de la zone, par le plan local
+d'urbanisme ou le document d'urbanisme en tenant lieu, à l'exclusion de la
+surface des immeubles exonérés en application des troisième et quatrième alinéas
+de l'article L. 112-2 ;
 
 Sb' la surface de plancher développée hors oeuvre des constructions implantées
 dans la zone à la date de l'approbation du plan d'aménagement de zone ou de la
-publication du plan d'occupation des sols ou du document d'urbanisme en tenant
-lieu et qui ne sont pas destinées à être démolies, à l'exclusion de la surface
+publication du plan local d'urbanisme ou du document d'urbanisme en tenant lieu
+et qui ne sont pas destinées à être démolies, à l'exclusion de la surface
 correspondant aux immeubles exonérés et mentionnés aux deuxième et troisième
 alinéas de l'article L. 112-3 ;
 
@@ -31,7 +31,7 @@ exonérées en application des troisième et quatrième alinéas de l'article L.
 ces constructions aient été démolies depuis la création de la zone ou qu'elles
 soient ou non destinées à être démolies ; cette surface est calculée à la date
 de l'approbation du plan d'aménagement de la zone ou de la publication du plan
-d'occupation des sols ou du document d'urbanisme en tenant lieu ;
+local d'urbanisme ou du document d'urbanisme en tenant lieu ;
 
 Sd' la surface des terrains compris à l'intérieur du périmètre défini par l'acte
 de création de la zone, à l'exclusion des terrains d'assiette de la voirie
@@ -40,7 +40,7 @@ et des cours d'eau ; toutefois ne sont pas déduits de la surface Sd' les
 terrains d'assiette desdits ouvrages et cours d'eau lorsque le programme de
 travaux a prévu d'y superposer des sols artificiels pour un motif d'intérêt
 général propre à la zone, conformément aux possibilités ouvertes par le plan
-d'occupation des sols ou par le plan d'aménagement de zone et dans la limite de
-la superficie desdits sols artificiels. K le plafond légal de densité en vigueur
+local d'urbanisme ou par le plan d'aménagement de zone et dans la limite de la
+superficie desdits sols artificiels. K le plafond légal de densité en vigueur
 sur le territoire de la commune à la date où le nombre de mètres carrés de
 construction excédant ce plafond est calculé.

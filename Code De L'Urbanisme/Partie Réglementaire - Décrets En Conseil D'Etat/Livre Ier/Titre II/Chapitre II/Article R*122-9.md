@@ -1,10 +1,8 @@
 Article R*122-9
 ----
-Le président de l'établissement public de coopération intercommunale entend, à
-leur demande, les présidents des associations mentionnées à l'article L. 121-8
-ou leurs représentants ainsi que les présidents des organismes de gestion des
-parcs naturels régionaux ou leurs représentants.
+La délibération qui arrête un projet de schéma de cohérence territoriale peut
+simultanément tirer le bilan de la concertation, en application du sixième
+alinéa de l'article L. 300-2.
 
-Il peut recueillir l'avis de tout organisme ou association ayant compétence en
-matière de construction, d'aménagement, d'urbanisme ou d'environnement et
-entendre toute personne qualifiée.
+Elle est affichée pendant un mois au siège de l'établissement public et aux
+mairies des communes membres concernées.

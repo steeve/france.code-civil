@@ -1,17 +1,17 @@
 Article R*122-5
 ----
-Dès que la délibération prescrivant l'établissement du schéma a été transmise au
-préfet, celui-ci définit, avec le président de l'établissement public de
-coopération intercommunale, les modalités d'association de l'Etat à son
-élaboration. Il lui fait connaître la liste des services de l'Etat qui seront, à
-ce titre, associés à cette élaboration.
+Les opérations foncières et les opérations d'aménagement mentionnées au dernier
+alinéa de l'article L. 122-1 sont :
 
-Le préfet ou son représentant accompagné, le cas échéant, des représentants des
-personnes publiques associées qu'il aura désignées, est entendu, à sa demande,
-par l'organe délibérant ou par le président de l'établissement public, qui en
-rend compte à l'organe délibérant.
+1° Les zones d'aménagement différé et les périmètres provisoires de zones
+d'aménagement différé ;
 
-Sous l'autorité du préfet, le service de l'Etat dans le département chargé de
-l'urbanisme assure la collecte des informations et la conservation des documents
-nécessaires à l'association de l'Etat dans l'élaboration du schéma et dans sa
-gestion.
+2° Les zones d'aménagement concerté ;
+
+3° Les lotissements, les remembrements réalisés par des associations foncières
+urbaines et les constructions soumises à autorisations, lorsque ces opérations
+ou constructions portent sur une surface hors oeuvre nette de plus de 5 000
+mètres carrés ;
+
+4° La constitution, par des collectivités et établissements publics, de réserves
+foncières de plus de cinq hectares d'un seul tenant.

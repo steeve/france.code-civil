@@ -1,10 +1,7 @@
 Article R*121-2
 ----
-La commission de conciliation en matière d'élaboration de schémas directeurs, de
-schémas de secteur, de plans d'occupation des sols et de tout document
-d'urbanisme opposable aux tiers élaboré par la commune a pour mission, dans le
-cas où une ou plusieurs personnes publiques associées à l'élaboration de l'un
-des documents ci-dessus énumérés émettent un avis défavorable, de rechercher les
-termes d'un accord entre la personne publique chargée d'élaborer le document en
-cause et les autres personnes publiques associées à cette élaboration, ou de
-formuler, en tant que de besoin, des propositions alternatives.
+Sous l'autorité du préfet, le service de l'Etat chargé de l'urbanisme dans le
+département assure la collecte des informations et la conservation des documents
+nécessaires à l'application des dispositions de l'article L. 121-2 et à
+l'association de l'Etat à l'élaboration des schémas de cohérence territoriale et
+des plans locaux d'urbanisme.

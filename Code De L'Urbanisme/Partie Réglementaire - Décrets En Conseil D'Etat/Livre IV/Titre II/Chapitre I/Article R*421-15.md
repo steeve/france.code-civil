@@ -12,8 +12,8 @@ immobilier comportant la construction en une ou plusieurs tranches de 500
 logements ou plus, ce minimum étant ramené à 200 pour les communes de moins de
 30 000 habitants.
 
-Il instruit, au besoin d'office, les adaptations mineures au plan d'occupation
-des sols ou au document d'urbanisme en tenant lieu, aux prescriptions des
+Il instruit, au besoin d'office, les adaptations mineures au plan local
+d'urbanisme ou au document d'urbanisme en tenant lieu, aux prescriptions des
 règlements des lotissements ainsi qu'aux cahiers des charges des lotissements
 autorisés sous le régime en vigueur avant l'intervention du décret n° 77-860 du
 26 juillet 1977, ou les dérogations aux dispositions réglementaires relatives à
@@ -22,9 +22,8 @@ l'urbanisme ou aux servitudes d'utilité publique affectant l'utilisation du sol
 Lorsque la délivrance du permis de construire aurait pour effet la création ou
 la modification d'un accès à une voie publique, l'autorité ou le service chargé
 de l'instruction de la demande consulte l'autorité ou le service gestionnaire de
-cette voie, sauf lorsque le plan d'occupation des sols ou le document
-d'urbanisme en tenant lieu réglemente de façon spécifique les conditions d'accès
-à ladite voie.
+cette voie, sauf lorsque le plan local d'urbanisme ou le document d'urbanisme en
+tenant lieu réglemente de façon spécifique les conditions d'accès à ladite voie.
 
 Sous réserve des dispositions particulières à la consultation des autorités
 appelées à émettre un avis ou à donner un accord en application des articles R.

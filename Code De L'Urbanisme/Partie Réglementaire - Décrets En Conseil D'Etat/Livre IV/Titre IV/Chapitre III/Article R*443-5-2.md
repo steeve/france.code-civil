@@ -1,13 +1,12 @@
 Article R*443-5-2
 ----
-Dans les communes où un plan d'occupation des sols a été approuvé,
-l'autorisation de stationnement de caravane est délivrée par le maire au nom de
-la commune ou par le président de l'établissement public de coopération
-intercommunale au nom de cet établissement [*autorité compétente*].
+Dans les communes où un plan local d'urbanisme a été approuvé, l'autorisation de
+stationnement de caravane est délivrée par le maire au nom de la commune ou par
+le président de l'établissement public de coopération intercommunale au nom de
+cet établissement.
 
 Toutefois elle est délivrée dans les conditions prévues à l'article R. 443-5-3
-dans les cas mentionnés au quatrième alinéa de l'article L. 421-2-1 [*au nom de
-l'Etat*].
+dans les cas mentionnés au quatrième alinéa de l'article L. 421-2-1.
 
 Copie de la décision est transmise, selon les cas :
 

@@ -8,7 +8,7 @@ Le préfet soumet ce programme pour avis au chef du service départemental
 relevant du ministre chargé des sports. Cet avis est réputé favorable s'il n'est
 pas émis dans le délai de deux mois.
 
-Lorsque le plan d'occupation des sols autorise l'implantation d'installation
+Lorsque le plan local d'urbanisme autorise l'implantation d'installation
 soumises à autorisation, le préfet peut, en accord avec la commune ou
 l'établissement public groupant plusieurs communes et ayant compétence en
 matière d'urbanisme, décider que les équipements sportifs devront être, en tout

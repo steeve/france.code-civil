@@ -1,22 +1,20 @@
 Article R*122-12
 ----
-Le schéma directeur ou le schéma de secteur arrêté, éventuellement modifié pour
-tenir compte des avis et observations exprimés en application des articles R.
-122-10 et R. 122-11, des communications du préfet et des propositions de la
-commission de conciliation et, si la nature et l'importance des modifications le
-justifient, après consultation des services de l'Etat et des personnes publiques
-associés à son élaboration, est approuvé par l'organe délibérant de
-l'établissement public de coopération intercommunale. Cette délibération est
-transmise aux maires des communes membres concernées et au préfet conformément
-au deuxième alinéa de l'article L. 122-1-3.
+Font l'objet des mesures de publicité et d'information édictées à l'article R.
+122-13 :
 
-Le schéma directeur ou le schéma de secteur approuvé accompagné des avis
-exprimés en application de l'article R. 122-10, de la liste des organismes,
-associations ou personnes consultés ou entendus conformément à l'article R.
-122-9 et éventuellement des communications du préfet et des propositions de la
-commission de conciliation est transmis pour information aux personnes publiques
-associées à son élaboration.
+a) L'arrêté préfectoral qui délimite ou modifie le périmètre du schéma de
+cohérence territoriale, en application des articles L. 122-3 et L. 122-5 ;
 
-La délibération de l'organe délibérant de l'établissement public approuvant le
-schéma directeur ou le schéma de secteur est exécutoire dans les conditions
-fixées à l'article L. 122-1-3.
+b) La délibération qui définit les modalités de la concertation lors de
+l'élaboration ou de la révision du schéma de cohérence territoriale, en
+application de l'article L. 122-4 ou de l'article L. 122-13 ;
+
+c) La délibération qui approuve le schéma de cohérence territoriale ou sa
+révision, en application de l'article L. 122-11 ou de l'article L. 122-13 ;
+
+d) La délibération décidant de maintenir en vigueur ou de mettre en révision un
+schéma de cohérence territoriale, en application de l'article L. 122-14 ;
+
+e) Le décret ou l'arrêté prononçant la déclaration d'utilité publique prévue à
+l'article L. 122-15.

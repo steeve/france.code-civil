@@ -1,76 +1,58 @@
 Article R*123-11
 ----
-Le plan d'occupation des sols rendu public est soumis par le maire à enquête
-publique dans les conditions suivantes :
+Les zones U, AU, A et N sont délimitées sur un ou plusieurs documents
+graphiques.
 
-Le maire saisit le président du tribunal administratif en vue de la désignation
-d'un commissaire enquêteur ou d'une commission d'enquête dans les conditions
-prévues aux articles 8, 9 et 10 du décret n° 85-453 du 23 avril 1985.
+Les documents graphiques font, en outre, apparaître s'il y a lieu :
 
-Un arrêté du maire précise [*contenu*] :
+a) Les espaces boisés classés définis à l'article L. 130-1 ;
 
-1. L'objet de l'enquête, la date à laquelle celle-ci sera ouverte, et sa durée,
-qui ne peut être inférieure à un mois ;
+b) Les secteurs où les nécessités du fonctionnement des services publics, de
+l'hygiène, de la protection contre les nuisances et de la préservation des
+ressources naturelles ou l'existence de risques naturels, tels qu'inondations,
+incendies de forêt, érosion, affaissements, éboulements, avalanches, ou de
+risques technologiques justifient que soient interdites ou soumises à des
+conditions spéciales les constructions et installations de toute nature,
+permanentes ou non, les plantations, dépôts, affouillements, forages et
+exhaussements des sols ;
 
-2. Les nom et qualité du commissaire enquêteur ou des membres de la commission
-d'enquête ;
+c) Les secteurs protégés en raison de la richesse du sol ou du sous-sol, dans
+lesquels les constructions et installations nécessaires à la mise en valeur de
+ces ressources naturelles sont autorisées ;
 
-3. Les jours et heures, et le ou les lieux où le public pourra prendre
-connaissance du dossier et formuler ses observations sur un registre ouvert à
-cet effet ; ces jours comprennent au minimum les jours habituels d'ouverture au
-public du lieu de dépôt du dossier et peuvent, en outre, comprendre plusieurs
-demi-journées prises parmi les samedis, dimanches et jours fériés ; le registre
-à feuillets non mobiles est coté et paraphé par le commissaire enquêteur, le
-président de la commission d'enquête ou un membre de celle-ci ;
+d) Les emplacements réservés aux voies et ouvrages publics, aux installations
+d'intérêt général et aux espaces verts, en précisant leur destination et les
+collectivités, services et organismes publics bénéficiaires ;
 
-4. Sur proposition du commissaire enquêteur ou du président de la commission
-d'enquête, le ou les lieux, les jours et heures où le commissaire enquêteur ou
-un membre de la commission d'enquête se tiendra à la disposition du public pour
-recueillir ses observations.
+e) Les secteurs dans lesquels, pour des motifs d'urbanisme ou d'architecture, la
+reconstruction sur place ou l'aménagement de bâtiments existants peut être
+imposé ou autorisé avec une densité au plus égale à celle qui existait
+antérieurement, nonobstant le ou les coefficients d'occupation du sol fixés pour
+la zone ou le secteur ;
 
-5. Le lieu où le public pourra adresser ses observations écrites au commissaire
-enquêteur ou au président de la commission d'enquête ;
+f) Les secteurs dans lesquels la délivrance du permis de construire peut être
+subordonnée à la démolition de tout ou partie des bâtiments existants sur le
+terrain où l'implantation de la construction est envisagée ;
 
-6. Le ou les lieux où, à l'issue de l'enquête, le public pourra consulter le
-rapport et les conclusions du commissaire enquêteur ou de la commission
-d'enquête.
+g) Les périmètres, tels que délimités par le plan de déplacements urbains en
+application de l'article 28-1-2 de la loi n° 82-1153 du 30 décembre 1982
+modifiée, à l'intérieur desquels les conditions de desserte par les transports
+publics réguliers permettent de réduire ou de supprimer les obligations imposées
+en matière de réalisation d'aires de stationnement, notamment lors de la
+construction d'immeubles de bureaux, ou à l'intérieur desquels le plan local
+d'urbanisme fixe un nombre maximum d'aires de stationnement à réaliser lors de
+la construction de bâtiments à usage autre que d'habitation ;
 
-Un avis portant ces indications à la connaissance du public est, par les soins
-du maire, publié en caractères apparents dans deux journaux diffusés dans le
-département, quinze jours au moins avant le début de l'enquête et rappelé de
-même dans les huit premiers jours de celle-ci. Il est publié par voie d'affiches
-et éventuellement par tous autres procédés dans la ou les communes membres
-concernées.
+h) Les éléments de paysage, les quartiers, îlots, immeubles, espaces publics,
+monuments, sites et secteurs à protéger ou à mettre en valeur pour des motifs
+d'ordre culturel, historique ou écologique, et notamment les secteurs dans
+lesquels la démolition des immeubles est subordonnée à la délivrance d'un permis
+de démolir ;
 
-L'enquête s'ouvre selon le cas :
+i) Les zones qui sont ou peuvent être aménagées en vue de la pratique du ski et
+les secteurs réservés aux remontées mécaniques en indiquant, le cas échéant, les
+équipements et aménagements susceptibles d'y être prévus.
 
-a) A la mairie ;
-
-b) Ou au siège de l'établissement public de coopération intercommunale compétent
-et aux mairies des communes concernées.
-
-Pendant le délai fixé au troisième alinéa, les observations sur le plan
-d'occupation des sols peuvent être consignées par les intéressés sur le ou les
-registres d'enquête, ou adressées par écrit, au lieu fixé pour l'ouverture de
-l'enquête, au commissaire enquêteur ou au président de la commission d'enquête,
-lequel les annexe au registre mentionné à l'alinéa précité.
-
-Le commissaire enquêteur ou le président de la commission d'enquête peut faire
-compléter le dossier, demander l'organisation d'une réunion publique ou décider
-de proroger la durée de l'enquête dans les conditions prévues aux articles 17 à
-19 du décret n° 85-453 du 23 avril 1985.
-
-A l'expiration du délai d'enquête, le ou les registres d'enquête sont clos et
-signés par le commissaire enquêteur ou le président de la commission d'enquête.
-Le commissaire enquêteur ou la commission d'enquête examine les observations
-consignées ou annexées aux registres, établit un rapport qui relate le
-déroulement de l'enquête et rédige des conclusions motivées, en précisant si
-elles sont favorables ou défavorables. Le commissaire enqueteur ou le président
-de la commission d'enquête adresse le dossier accompagné du rapport et des
-conclusions au maire dans le délai d'un mois à compter de la date de clôture de
-l'enquête. Copie du rapport et des conclusions est communiquée par le maire au
-préfet et au président du tribunal administratif.
-
-Le rapport et les conclusions sont tenus à la disposition du public à la mairie
-ou, le cas échéant, au siège de l'établissement public compétent et aux mairies
-des communes concernées.
+Les documents graphiques peuvent également faire apparaître des règles
+d'implantation des constructions dans les conditions prévues au dernier alinéa
+de l'article R. 123-9.

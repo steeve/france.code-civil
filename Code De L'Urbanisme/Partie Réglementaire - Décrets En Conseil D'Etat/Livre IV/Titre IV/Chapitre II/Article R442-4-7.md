@@ -6,8 +6,8 @@ publiques, services et commissions intéressés par le projet d'installations ou
 de travaux les accords, avis ou décisions prévus par les lois ou règlements en
 vigueur.
 
-Il instruit, au besoin d'office, les adaptations mineures au plan d'occupation
-des sols ou au document d'urbanisme en tenant lieu, aux prescriptions des
+Il instruit, au besoin d'office, les adaptations mineures au plan local
+d'urbanisme ou au document d'urbanisme en tenant lieu, aux prescriptions des
 règlements des lotissements ainsi qu'aux cahiers des charges des lotissements
 autorisés sous le régime en vigueur avant l'intervention du décret n° 77-860 du
 26 juillet 1977, ou les dérogations aux dispositions réglementaires relatives à

@@ -1,11 +1,14 @@
 Article R*122-8
 ----
-Le président de l'établissement public de coopération intercommunale conduit la
-procédure d'élaboration du schéma directeur ou du schéma de secteur.
+Conformément à l'article L. 112-1 du code rural, le président de l'établissement
+public consulte lors de l'élaboration du schéma de cohérence territoriale le
+document de gestion de l'espace agricole et forestier, lorsqu'il existe.
 
-Il fait afficher au siège de l'établissement public ainsi que dans les mairies
-des communes membres concernées la liste des services de l'Etat communiquée par
-le préfet, conformément à l'article R. 122-5, ainsi que celles des personnes
-publiques associées, conformément à l'article R. 122-7. Il publie dans les mêmes
-conditions l'indication des services ou organismes mentionnés au second alinéa
-de l'article R. 122-4.
+Conformément à l'article L. 112-3 du code rural, le schéma de cohérence
+territoriale ne peut être approuvé qu'après avis de la chambre d'agriculture et,
+le cas échéant, de l'Institut national des appellations d'origine dans les zones
+d'appellation d'origine contrôlée et du centre régional de la propriété
+forestière lorsqu'il prévoit une réduction des espaces agricoles ou forestiers.
+Il va de même en cas de révision. Ces avis sont rendus dans un délai de deux
+mois à compter de la saisine. En l'absence de réponse à l'issue de ce délai,
+l'avis est réputé favorable.

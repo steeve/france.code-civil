@@ -1,17 +1,21 @@
 Article R*123-23
 ----
-A l'intérieur des zones d'aménagement concerté créées en application de
-l'article L. 311-1, le plan d'aménagement de la zone fixe en conformité avec les
-orientations du schéma directeur, s'il en existe un, les règles générales et les
-servitudes d'utilisation du sol, sauf lorsque l'acte créant la zone a décidé de
-maintenir en vigueur les prescriptions du plan d'occupation des sols.
+Lorsqu'il est fait application de l'article L. 123-16, l'examen conjoint prévu
+au b de cet article a lieu avant l'ouverture de l'enquête publique. Lorsqu'une
+association mentionnée à l'article L. 121-5 demande à être consultée, son
+président adresse la demande au préfet. L'enquête publique est organisée dans
+les formes prévues par les articles R. 11-14-1 et suivants du code de
+l'expropriation pour cause d'utilité publique.
 
-Les dispositions du plan d'aménagement de la zone ainsi que les règles
-particulières édictées par les cahiers des charges des cessions de terrains
-approuvés par le préfet sont incorporées au plan d'occupation des sols, suivant
-les modalités fixées par l'article L. 123-6 (alinéa 2).
+Le dossier de mise en compatibilité du plan local d'urbanisme, le rapport et les
+conclusions du commissaire enquêteur ou de la commission d'enquête ainsi que le
+procès-verbal de la réunion ayant pour objet l'examen conjoint prévu à l'alinéa
+précédent sont soumis, pour avis, par le préfet au conseil municipal ou à
+l'organe délibérant de l'établissement public de coopération intercommunale
+compétent. Si ceux-ci ne se sont pas prononcés dans un délai de deux mois, ils
+sont réputés avoir donné un avis favorable.
 
-Les dispositions destinées à assurer l'unité d'urbanisme et d'architecture dans
-les zones d'habitation et dans les zones industrielles créées avant
-l'institution des zones d'aménagement concerté sont incorporées au plan
-d'occupation des sols suivant les modalités fixées à l'article L. 123-12.
+Le ministre chargé de l'urbanisme contresigne ou cosigne la déclaration
+d'utilité publique emportant approbation des nouvelles dispositions du plan
+local d'urbanisme lorsque cette déclaration ne relève pas de la compétence du
+préfet.

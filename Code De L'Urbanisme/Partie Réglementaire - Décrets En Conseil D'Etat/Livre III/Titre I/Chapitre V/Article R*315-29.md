@@ -3,7 +3,7 @@ Article R*315-29
 L'autorisation de lotir porte sur la composition d'ensemble du lotissement, sur
 les modalités de la division en lots ainsi que sur la surface de plancher hors
 oeuvre nette maximale dont la construction est autorisée dans l'ensemble du
-lotissement. Elle impose en tant que de besoin [*contenu*] :
+lotissement. Elle impose en tant que de besoin :
 
 a) L'exécution par le lotisseur, le cas échéant par tranches, compte tenu
 notamment du programme de travaux présenté par lui et selon des modalités
@@ -25,7 +25,7 @@ constructions ;
 
 d) Un règlement fixant les règles d'urbanisme applicables dans le lotissement
 qui comprend tout ou partie des règles contenues dans le règlement d'un plan
-d'occupation des sols en application de l'article R. 123-21 ;
+local d'urbanisme en application de l'article R. 123-21 ;
 
 L'autorisation de lotir énumère celles des contributions prévues à l'article L.
 332-12 qu'elle met, le cas échéant, à la charge du lotisseur.

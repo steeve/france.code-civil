@@ -2,8 +2,8 @@ Article R*130-1
 ----
 Les coupes et abattages d'arbres sont soumis à autorisation préalable dans les
 bois, forêts et parcs situés sur le territoire des communes ou parties de
-communes où l'établissement d'un plan d'occupation des sols a été prescrit mais
-où ce plan n'a pas encore été rendu public ainsi que dans les espaces boisés
+communes où l'établissement d'un plan local d'urbanisme a été prescrit mais où
+ce plan n'a pas encore été rendu public ainsi que dans les espaces boisés
 classés.
 
 Toutefois, une telle autorisation n'est pas requise :

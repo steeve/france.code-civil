@@ -5,8 +5,8 @@ l'instruction de la demande sollicite l'avis conforme du préfet dans les
 conditions prévues à l'article R. 421-15.
 
 Lorsque la construction projetée est située sur une partie du territoire
-communal non couverte par un plan d'occupation des sols ou un plan de sauvegarde
-et de mise en valeur, opposable aux tiers, le préfet reçoit l'exemplaire de la
+communal non couverte par un plan local d'urbanisme ou un plan de sauvegarde et
+de mise en valeur, opposable aux tiers, le préfet reçoit l'exemplaire de la
 demande et du dossier, accompagné des différents avis ou accords prévus par les
 lois et règlements en vigueur ; son avis porte alors sur l'application au projet
 des règles d'urbanisme et des servitudes d'utilité publique.

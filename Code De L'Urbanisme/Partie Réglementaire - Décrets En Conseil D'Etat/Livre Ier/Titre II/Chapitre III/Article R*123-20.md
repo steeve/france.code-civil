@@ -1,5 +1,8 @@
 Article R*123-20
 ----
-Le report des servitudes [*d'utilité publique*] visées à l'article L. 126-1 et
-des périmètres et zones mentionnés à l'article R. 123-19 se fait suivant la
-procédure de mise à jour prévue à l'article R. 123-36.
+Lorsque l'avis de la personne publique qui a pris l'initiative de la création
+d'une zone d'aménagement concerté est requis en application de l'article L.
+123-15 sur le projet d'élaboration, de modification ou de révision du plan local
+d'urbanisme concernant cette zone, cet avis est réputé émis en l'absence de
+réponse dans le délai de trois mois à compter de la saisine de cette personne
+publique.

@@ -1,8 +1,8 @@
 Article R*460-4-1
 ----
-Dans les communes où un plan d'occupation des sols a été approuvé, le certificat
-de conformité est délivré par le maire, au nom de la commune, ou par le
-président de l'établissement public de coopération intercommunale, au nom de cet
+Dans les communes où un plan local d'urbanisme a été approuvé, le certificat de
+conformité est délivré par le maire, au nom de la commune, ou par le président
+de l'établissement public de coopération intercommunale, au nom de cet
 établissement.
 
 Toutefois, il est délivré dans les conditions prévues à l'article R. 460-4-2,

@@ -1,6 +1,6 @@
 Article R*130-9
 ----
-La décision est prise [*autorité compétente*] soit :
+La décision est prise soit :
 
 a) Par le maire, au nom de la commune ou par le président de l'établissement
 public de coopération intercommunale, au nom de cet établissement lorsque cette

@@ -13,8 +13,8 @@ logements à la surface de locaux destinés à des activités.
 Ce rapport, ainsi que les surfaces de construction qui le déterminent, varie
 selon les zones concernées en fonction de la situation mesurée au 1er janvier
 1990 et de son évolution depuis cette date, dans le respect notamment des
-directives territoriales d'aménagement et du schéma directeur de la région
-d'Ile-de-France.
+directives territoriales d'aménagement et du schéma de cohérence territoriale de
+la région d'Ile-de-France.
 
 Lorsque les termes de cette convention ne sont pas respectés, le préfet de
 département, après la mise en demeure restée sans effet, en suspend

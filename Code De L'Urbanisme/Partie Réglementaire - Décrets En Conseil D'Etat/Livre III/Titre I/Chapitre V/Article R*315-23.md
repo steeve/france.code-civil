@@ -5,9 +5,9 @@ Lorsque le lotissement envisagé est situé comme il est dit au b de l'article L
 conforme du préfet dans les conditions prévues à l'article R. 315-18.
 
 Lorsque le lotissement projeté est situé sur une partie du territoire communal
-non couverte par un plan d'occupation des sols ou un plan de sauvegarde et de
-mise en valeur, opposable aux tiers, le préfet reçoit l'exemplaire de la demande
-et du dossier, accompagné des différents avis ou accords prévus par les lois et
+non couverte par un plan local d'urbanisme ou un plan de sauvegarde et de mise
+en valeur, opposable aux tiers, le préfet reçoit l'exemplaire de la demande et
+du dossier, accompagné des différents avis ou accords prévus par les lois et
 règlements en vigueur ; son avis porte alors sur l'application au projet des
 règles d'urbanisme et des servitudes d'utilité publique.
 

@@ -10,7 +10,7 @@ d'une opération d'intérêt national ;
 - par le maire ou le président de l'établissement public de coopération
 intercommunale dans les autres cas.
 
-Le dossier soumis à enquête comprend [*contenu*] :
+Le dossier soumis à enquête comprend :
 
 1. La mention des textes qui régissent l'enquête publique en cause et
 l'indication de la façon dont cette enquête s'insère dans la procédure
@@ -21,8 +21,8 @@ administrative ;
 3. Les règles d'urbanisme applicables au secteur couvert par le lotissement.
 
 L'enquête publique préalable à l'approbation, la modification ou la révision du
-plan d'occupation des sols ou du document d'urbanisme en tenant lieu, tiennent
-lieu de l'enquête publique prévue au deuxième alinéa de l'article L. 315-2-1, à
+plan local d'urbanisme ou du document d'urbanisme en tenant lieu, tiennent lieu
+de l'enquête publique prévue au deuxième alinéa de l'article L. 315-2-1, à
 condition que le dossier d'enquête ait été complété par les pièces mentionnées à
 l'alinéa précédent.
 

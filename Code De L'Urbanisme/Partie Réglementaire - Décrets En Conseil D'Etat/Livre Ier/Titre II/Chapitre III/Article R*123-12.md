@@ -1,16 +1,25 @@
 Article R*123-12
 ----
-Le plan d'occupation des sols, éventuellement modifié pour tenir compte des
-résultats de l'enquête publique et des propositions de la commission de
-conciliation, donne lieu, dans les conditions fixées au premier alinéa de
-l'article R. 123-9, à la consultation des services de l'Etat et des personnes
-publiques associées si le maire estime que la nature et l'importance des
-modifications envisagées justifient cette consultation. Le plan, accompagné par
-les avis des personnes publiques, des associations et des organismes de gestion
-des parcs naturels régionaux ainsi que par les communications du préfet
-mentionnés au deuxième alinéa de l'article R. 123-10, est ensuite transmis au
-conseil municipal, qui l'approuve par délibération.
+Les documents graphiques prévus à l'article R. 123-11 font également apparaître,
+s'il y a lieu :
 
-La délibération approuvant le plan d'occupation des sols fait l'objet des
-mesures de publicité mentionnées au 3è alinéa de l'article R. 123-10. Elle est
-exécutoire dans les conditions fixées au dernier alinéa du même article.
+1° Dans les zones U :
+
+a) Les terrains cultivés à protéger et inconstructibles délimités en application
+du 9° de l'article L. 123-1 ;
+
+b) Les secteurs délimités en application du a de l'article L. 123-2 en précisant
+à partir de quelle surface les constructions ou installations sont interdites et
+la date à laquelle la servitude sera levée ;
+
+c) Les emplacements réservés en application du b de l'article L. 123-2 en vue de
+la réalisation, dans le respect des objectifs de mixité sociale, de programmes
+de logements en précisant la nature de ces programmes ;
+
+2° Dans les zones N :
+
+Les secteurs protégés en raison de la qualité de leur paysage où est applicable
+le transfert des possibilités de construction prévu à l'article L. 123-4 ;
+
+3° Dans les zones U et AU, les secteurs pour lesquels un plan de masse coté à
+trois dimensions définit des règles spéciales.

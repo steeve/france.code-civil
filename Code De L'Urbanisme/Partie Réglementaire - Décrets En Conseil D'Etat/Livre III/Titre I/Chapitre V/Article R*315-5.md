@@ -35,8 +35,8 @@ g) Le cas échéant, une copie de l'autorisation de défrichement ;
 
 h) L'étude d'impact définie à l'article 2 du décret n° 77-1141 du 12 octobre
 1977, lorsque l'opération est située en dehors d'une commune ou partie de
-commune dotée d'un plan d'occupation des sols rendu public ou approuvé et permet
-la construction d'une surface hors oeuvre nette de 3 000 mètres carrés ou plus.
+commune dotée d'un plan local d'urbanisme rendu public ou approuvé et permet la
+construction d'une surface hors oeuvre nette de 3 000 mètres carrés ou plus.
 
 i) S'il est prévu une réalisation par tranches, les conditions et modalités
 d'exécution des travaux ;

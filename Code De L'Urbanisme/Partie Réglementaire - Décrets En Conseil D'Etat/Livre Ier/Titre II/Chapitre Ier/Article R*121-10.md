@@ -1,13 +1,11 @@
 Article R*121-10
 ----
-La commission de conciliation entend l'autorité chargée de l'élaboration du
-document et celles des personnes publiques associées à cette élaboration qui en
-font la demande.
+Dès que ses membres ont été désignés, la commission de conciliation est
+convoquée par le préfet et procède à l'élection d'un président et d'un
+vice-président choisis parmi les élus communaux.
 
-Elle entend, lorsqu'ils en font la demande, les représentants des associations
-[*locales d'usagers*] mentionnées à l'article L. 121-8.
+La liste des membres de la commission est publiée au Recueil des actes
+administratifs de l'Etat dans le département à la diligence du préfet et insérée
+dans un journal diffusé dans le département.
 
-Elle peut entendre également toutes les personnes dont l'audition lui paraît
-utile.
-
-Elle tient les documents qu'elle a recueillis à la disposition des intéressés.
+Le siège de la commission de conciliation est la préfecture du département.

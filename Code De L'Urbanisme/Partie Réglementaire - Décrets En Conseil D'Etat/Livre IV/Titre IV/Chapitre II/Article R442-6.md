@@ -2,8 +2,8 @@ Article R442-6
 ----
 L'autorisation ne peut être délivrée que si les installations ou travaux
 satisfont aux dispositions législatives et réglementaires en vigueur pour le
-mode d'occupation prévu et notamment à celles du plan d'occupation des sols
-rendu public ou approuvé, ou du document d'urbanisme en tenant lieu.
+mode d'occupation prévu et notamment à celles du plan local d'urbanisme rendu
+public ou approuvé, ou du document d'urbanisme en tenant lieu.
 
 Cette autorisation peut être refusée ou subordonnée à l'observation de
 prescriptions spéciales, notamment à la création de marges de reculement, de

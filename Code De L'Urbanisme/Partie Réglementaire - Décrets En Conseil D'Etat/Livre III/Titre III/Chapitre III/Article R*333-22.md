@@ -1,8 +1,8 @@
 Article R*333-22
 ----
 Si un permis de construire est délivré avant que le plan d'aménagement de la
-zone ait été approuvé ou que le plan d'occupation des sols ait été rendu public,
-le versement prévu à l'article L. 112-2 est dû par le pétitionnaire dans les
+zone ait été approuvé ou que le plan local d'urbanisme ait été rendu public, le
+versement prévu à l'article L. 112-2 est dû par le pétitionnaire dans les
 conditions définies pa la section I du présent chapitre à l'exception du
 deuxième alinéa de l'article R. 333-1.
 

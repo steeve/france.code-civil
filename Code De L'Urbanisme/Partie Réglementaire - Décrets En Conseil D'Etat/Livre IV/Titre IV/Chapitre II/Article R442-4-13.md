@@ -1,7 +1,7 @@
 Article R442-4-13
 ----
 Lorsque la décision est prise au nom de l'Etat dans les cas prévus au quatrième
-alinéa de l'article L. 421-2-1, la demande d'autorisatio d'installations et
+alinéa de l'article L. 421-2-1, la demande d'autorisation d'installations et
 travaux divers est instruite dans les conditions prévues au paragraphe 3 de la
 présente section.
 

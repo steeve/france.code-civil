@@ -1,6 +1,6 @@
 Article R*211-1
 ----
-Les communes dotées d'un plan d'occupation des sols rendu public ou approuvé
+Les communes dotées d'un plan local d'urbanisme rendu public ou approuvé
 peuvent, par délibération, instituer un droit de préemption urbain sur tout ou
 partie des zones urbaines et des zones d'urbanisation future délimitées par ce
 plan ou par un plan de sauvegarde et de mise en valeur rendu public ou approuvé

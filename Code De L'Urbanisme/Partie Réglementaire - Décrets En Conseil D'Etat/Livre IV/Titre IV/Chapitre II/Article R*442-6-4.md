@@ -1,8 +1,8 @@
 Article R*442-6-4
 ----
-Dans les communes où un plan d'occupation des sols n'a pas été approuvé, la
-décision est prise par le maire au nom de l'Etat ; toutefois, elle est prise par
-le préfet dans les cas énumérés ci-après :
+Dans les communes où un plan local d'urbanisme n'a pas été approuvé, la décision
+est prise par le maire au nom de l'Etat ; toutefois, elle est prise par le
+préfet dans les cas énumérés ci-après :
 
 1° Lorsque le maire et le responsable du service de l'Etat dans le département,
 chargé de l'urbanisme, ont émis des avis en sens contraire ;

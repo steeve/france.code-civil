@@ -1,12 +1,13 @@
 Article R*121-6
 ----
-Dès que ses membres ont été désignés, la commission de conciliation est
-convoquée par le préfet et procède à l'élection d'un président et d'un
-vice-président choisis parmi les membres représentant les communes du
-département.
+La commission de conciliation en matière d'élaboration de documents d'urbanisme,
+prévue à l'article L. 121-6, est composée de :
 
-La liste des membres de la commission est publiée au Recueil des actes
-administratifs du département à la diligence du préfet et insérée dans deux
-journaux régionaux ou locaux diffusés dans le département.
+1° Six élus communaux représentant au moins cinq communes différentes et à Paris
+au moins cinq arrondissements ;
 
-Le siège de la commission de conciliation est la préfecture du département.
+2° Six personnes qualifiées en matière d'aménagement, d'urbanisme,
+d'architecture ou d'environnement.
+
+En cas d'absence ou d'empêchement d'un membre titulaire, il est fait appel à son
+suppléant.

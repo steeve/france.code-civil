@@ -4,11 +4,11 @@ Les opérations d'aménagement réalisées par les communes et les autres person
 publiques ou pour leur compte, qui sont soumises aux obligations prévues au c de
 l'article L. 300-2 sont les opérations suivantes :
 
-1. L'opération ayant pour objet dans une commune non dotée d'un plan
-d'occupation des sols ou d'un document d'urbanisme en tenant lieu, ayant fait
-l'objet d'une enquête publique, la création de plus de 5 000 mètres carrés de
-surface hors oeuvre brute ou la restauration, dans les conditions définies à
-l'article L. 313-4-1, d'un ensemble de bâtiments ayant au moins cette surface ;
+1. L'opération ayant pour objet dans une commune non dotée d'un plan local
+d'urbanisme ou d'un document d'urbanisme en tenant lieu, ayant fait l'objet
+d'une enquête publique, la création de plus de 5 000 mètres carrés de surface
+hors oeuvre brute ou la restauration, dans les conditions définies à l'article
+L. 313-4-1, d'un ensemble de bâtiments ayant au moins cette surface ;
 
 2. La réalisation d'un investissement routier dans une partie urbanisée d'une
 commune d'un montant supérieur à 12 000 000 F, et conduisant à la création de

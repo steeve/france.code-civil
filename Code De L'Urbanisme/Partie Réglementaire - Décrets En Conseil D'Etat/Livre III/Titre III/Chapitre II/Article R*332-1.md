@@ -27,7 +27,7 @@ qui dépasse le coefficient d'occupation du sol lorsque ces constructions sont
 conservées.
 
 II - Lorsque la densité de la construction projetée dépasse celle qui résulte du
-coefficient d'occupation du sol fixé par le plan d'occupation des sols et excède
+coefficient d'occupation du sol fixé par le plan local d'urbanisme et excède
 également le plafond légal de densité prévu à l'article L. 112-1, aucune
 participation n'est due pour la partie de la surface supplémentaire de terrain
 qui fait l'objet du versement prévu à l'article L. 112-2, y compris dans les cas

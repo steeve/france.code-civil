@@ -4,7 +4,7 @@ Les dispositions du présent chapitre sont applicables dans les communes,
 ensembles de communes ou parties de communes ci-après énumérés :
 
 a) Dans les communes, ensembles de communes ou parties de communes dotés d'un
-plan d'occupation des sols rendu public ou approuvé ;
+plan local d'urbanisme rendu public ou approuvé ;
 
 b) Dans les zones d'environnement protégé, sauf s'il en est disposé autrement
 par l'acte instituant la zone ;

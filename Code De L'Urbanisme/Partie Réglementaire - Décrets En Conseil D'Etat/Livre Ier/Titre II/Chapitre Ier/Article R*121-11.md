@@ -1,5 +1,7 @@
 Article R*121-11
 ----
-Lorsque la commission de conciliation est saisie, l'objet de la saisine, la date
-et le lieu de la première séance consacrée à cet objet sont affichés à la
-préfecture et à la mairie de la commune ou des communes intéressées.
+La commission de conciliation se réunit sur convocation de son président. Elle
+établit son règlement intérieur.
+
+Le secrétariat de la commission est assuré par les services de l'Etat dans le
+département.

@@ -1,8 +1,8 @@
 Article R*421-36
 ----
-Dans les communes où un plan d'occupation des sols n'a pas été approuvé, la
-décision est prise par le maire, au nom de l'Etat ; toutefois, elle est prise
-par le préfet dans les cas suivants[*autorité compétente*] :
+Dans les communes où un plan local d'urbanisme n'a pas été approuvé, la décision
+est prise par le maire, au nom de l'Etat ; toutefois, elle est prise par le
+préfet dans les cas suivants :
 
 1° Pour les constructions édifiées pour le compte de l'Etat, de la région ou du
 département, de leurs établissements publics ou de leurs concessionnaires, ainsi
@@ -17,7 +17,7 @@ la construction et de l'habitation, dans les conditions prévues à l'article R.
 421-47 ;
 
 4° Lorsqu'est mis à la charge du constructeur tout ou partie des contributions
-prévues au 2° de l'article L. 332-6-1 ou à l'article L. 332-9.
+prévues au 2° de l'article L. 332-6-1 ou à l'article L. 332-9 ;
 
 5° Lorsqu'une dérogation ou une adaptation mineure aux dispositions mentionnées
 aux articles R. 421-15 (alinéa 3) est nécessaire ;

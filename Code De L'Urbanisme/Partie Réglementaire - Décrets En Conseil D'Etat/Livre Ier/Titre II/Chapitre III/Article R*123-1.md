@@ -1,4 +1,11 @@
 Article R*123-1
 ----
-Un plan d'occupation des sols peut être établi pour tout ou partie d' une
-commune ou pour tout ou partie d'un ensemble de communes.
+Le plan local d'urbanisme, après un rapport de présentation, comprend le projet
+d'aménagement et de développement durable de la commune et le règlement, ainsi
+que leurs documents graphiques.
+
+Il est accompagné d'annexes.
+
+Les orientations et prescriptions du projet d'aménagement et de développement
+durable et les prescriptions du règlement ainsi que leurs documents graphiques
+sont opposables dans les conditions prévues par l'article L. 123-5.

@@ -1,8 +1,8 @@
 Article R*315-28
 ----
 L'autorisation est refusée si le projet de lotissement n'est pas conforme aux
-dispositions du plan d'occupation des sols rendu public ou approuvé ou du
-document d'urbanisme en tenant lieu.
+dispositions du plan local d'urbanisme rendu public ou approuvé ou du document
+d'urbanisme en tenant lieu.
 
 Dans les communes ne disposant pas des documents mentionnés à l'alinéa
 précédent, l'autorisation peut être refusée si le projet vise à équiper des
