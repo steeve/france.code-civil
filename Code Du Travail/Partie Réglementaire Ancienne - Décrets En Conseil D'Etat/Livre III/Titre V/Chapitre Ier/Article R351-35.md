@@ -6,17 +6,16 @@ I. - La rémunération tirée de l'exercice d'une activité professionnelle peut
 activité. Tout mois civil au cours duquel une activité même occasionnelle ou
 réduite a été exercée est pris en compte pour le calcul de cette durée.
 
-Pendant les trois premiers mois d'activité professionnelle, le nombre des
+Pendant les six premiers mois d'activité professionnelle, le nombre des
 allocations journalières est réduit jusqu'à sa suppression éventuelle dans la
 proportion de 40 % du quotient, lorsqu'il est positif, par le montant journalier
 de l'allocation, de la rémunération brute perçue, diminuée d'un montant égal à
 la moitié du produit du salaire minimum de croissance par le nombre d'heures
 correspondant à la durée légale du travail.
 
-Du quatrième au douzième mois civil suivant d'activité professionnelle, le
-nombre des allocations journalières est réduit dans la proportion de 40 % du
-quotient, par le montant journalier de l'allocation, de la rémunération brute
-perçue.
+Du septième au douzième mois civil suivant d'activité professionnelle, le nombre
+des allocations journalières est réduit dans la proportion de 40 % du quotient,
+par le montant journalier de l'allocation, de la rémunération brute perçue.
 
 Toutefois, lorsqu'au terme de la période de douze mois décomptée dans les
 conditions prévues au premier alinéa du présent article, le nombre total des
