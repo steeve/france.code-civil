@@ -7,4 +7,4 @@ d'affaires s'applique :
 professionnelle continue prévue à l'article 235 ter C du code général des impôts
 ;
 
-2° Au prélèvement sur les plus-values prévu à l'article 235 quater.
+2° (Disposition devenue sans objet).
