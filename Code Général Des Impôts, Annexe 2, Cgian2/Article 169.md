@@ -1,8 +1,9 @@
 Article 169
 ----
-En cas de vente d'un immeuble en l'état futur d'achèvement définie à l'article
-166, la plus-value est réputée réalisée à la date de délivrance du récépissé de
-la déclaration visée à l'article 165.
+Sous réserve des dispositions de l'article 171-O bis D, en cas de vente d'un
+immeuble en l'état futur d'achèvement définie à l'article 166, la plus-value est
+réputée réalisée à la date de délivrance du récépissé de la déclaration visée à
+l'article 165.
 
 Toutefois, lorsqu'il est exigible, le prélèvement prévu à l'article 235
 quater-I, I bis et I ter du code général des impôts est provisoirement liquidé
