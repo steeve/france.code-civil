@@ -17,4 +17,9 @@ fédérations desdits organismes et d'en assurer soit le transfert vers les
 organismes du régime général, soit le règlement vers tous organismes désignés à
 cet effet, conformément aux dispositions législatives et réglementaires en
 vigueur et aux stipulations conventionnelles prises en vertu des articles L.
-123-1 et L. 123-2 et agréées par l'autorité compétente de l'Etat.
+123-1 et L. 123-2 et agréées par l'autorité compétente de l'Etat ;
+
+5°) De verser au Fonds de solidarité vieillesse créé à l'article L. 135-1 un
+montant égal aux dépenses prises en charge par ce fonds au titre des majorations
+de pensions mentionnées au a du 3° et au 6° de l'article L. 135-2 ; ce versement
+fait l'objet d'acomptes.

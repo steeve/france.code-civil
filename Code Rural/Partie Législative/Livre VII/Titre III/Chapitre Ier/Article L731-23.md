@@ -3,6 +3,8 @@ Article L731-23
 Les personnes qui dirigent une exploitation ou une entreprise agricole dont
 l'importance est inférieure à celle définie à l'article L. 722-5 et supérieure à
 un minimum fixé par décret ont à leur charge une cotisation de solidarité
-calculée en pourcentage de leurs revenus professionnels ou de l'assiette
-forfaitaire définis aux articles L. 731-14 à L. 731-22. Son taux est fixé par
-décret.
+calculée en pourcentage de leurs revenus professionnels définis à l'article L.
+731-14, afférents à l'année précédant celle au titre de laquelle la cotisation
+est due ou, à défaut, sur une assiette forfaitaire provisoire déterminée dans
+des conditions fixées par décret. Cette assiette forfaitaire est régularisée
+lorsque les revenus sont connus. Le taux de la cotisation est fixé par décret.

@@ -1,13 +1,8 @@
 Article L731-15
 ----
-Pour les chefs d'exploitation ou d'entreprise agricole soumis à un régime
-forfaitaire d'imposition, les revenus professionnels pris en compte sont
-constitués par la moyenne des revenus se rapportant aux trois années antérieures
-à l'année précédant celle au titre de laquelle les cotisations sont dues. Pour
-les chefs d'exploitation ou d'entreprise agricole soumis à un régime réel ou
-transitoire d'imposition, les revenus professionnels pris en compte sont
-constitués par la moyenne des revenus se rapportant aux trois années antérieures
-à celle au titre de laquelle les cotisations sont dues.
+Les revenus professionnels pris en compte sont constitués par la moyenne des
+revenus se rapportant aux trois années antérieures à celle au titre de laquelle
+les cotisations sont dues.
 
 Ces revenus s'entendent des revenus nets professionnels retenus pour le calcul
 de l'impôt sur le revenu, éventuellement minorés de la déduction prévue au

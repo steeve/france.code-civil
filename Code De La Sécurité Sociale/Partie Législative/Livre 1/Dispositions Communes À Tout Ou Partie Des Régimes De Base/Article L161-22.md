@@ -38,5 +38,3 @@ simultanément des activités salariées et des activités non salariées qui
 souhaitent poursuivre leurs activités non salariées, sans demander la
 liquidation des avantages vieillesse correspondant à ces dernières, au-delà de
 l'âge de cessation de leurs activités salariées.
-
-Les dispositions du présent article sont applicables jusqu'au 31 décembre 2000.

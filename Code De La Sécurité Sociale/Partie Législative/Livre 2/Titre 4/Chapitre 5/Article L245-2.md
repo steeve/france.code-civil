@@ -8,8 +8,11 @@ des collectivités. Toutefois, il est procédé sur une assiette à un abattemen
 forfaitaire égal à 3 millions de francs et, le cas échéant, à un abattement d'un
 montant égal à 30 % du chiffre d'affaires hors taxes réalisé en France au titre
 des spécialités génériques définies à l'article L. 601-6 du code de la santé
-publique, remboursables ou inscrites sur la liste des médicaments agréés à
-l'usage des collectivités.
+publique, et au titre des médicaments orphelins désignés comme tels en
+application des dispositions du règlement (CE) n° 141/2000 du Parlement européen
+et du Conseil du 16 décembre 1999 concernant les médicaments orphelins
+remboursables ou inscrites sur la liste des médicaments agréés à l'usage des
+collectivités.
 
 Le taux de la contribution due par chaque entreprise est calculé selon un barème
 comprenant quatre tranches qui sont fonction du rapport, au cours du dernier

@@ -88,8 +88,9 @@ généralisée au cours des mois de décembre et janvier et retenus à hauteur d
 p. 100 de leur montant.
 
 Ce versement est égal au produit de l'assiette de référence ainsi déterminée par
-le taux de la contribution fixé à l'article L. 136-8 ; son paiement doit
-intervenir le 30 novembre au plus tard.
+le taux de la contribution fixé à l'article L. 136-8. Son paiement doit
+intervenir le 30 septembre pour sept neuvièmes de son montant et le 30 novembre
+au plus tard pour les deux neuvièmes restants.
 
 2. Lors du dépôt en janvier et février des déclarations, l'établissement payeur
 procède à la liquidation de la contribution. Lorsque le versement effectué en

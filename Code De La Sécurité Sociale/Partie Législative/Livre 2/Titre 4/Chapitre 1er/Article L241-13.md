@@ -28,7 +28,9 @@ aux caisses de compensation prévues à l'article L. 223-16 du code du travail,
 les modalités selon lesquelles les employeurs régulièrement affiliés à ces
 caisses peuvent bénéficier de la réduction visée au premier alinéa au titre de
 ces indemnités sont déterminées, compte tenu des adaptations nécessaires, par
-décret en Conseil d'Etat.
+décret en Conseil d'Etat. La réduction prévue au présent article doit s'entendre
+comme n'étant pas applicable aux cotisations dues au titre de ces indemnités par
+lesdites caisses de compensation.
 
 Les modalités selon lesquelles les dispositions du présent article sont
 appliquées aux salariés dont la rémunération ne peut être déterminée selon un

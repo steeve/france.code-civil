@@ -20,4 +20,6 @@ Les prestations familiales comprennent :
 
 9°) l'allocation parentale d'éducation ;
 
-10°) l'allocation d'adoption.
+10°) l'allocation d'adoption ;
+
+11°) l'allocation de présence parentale.

@@ -43,6 +43,11 @@ même code et de l'allocation de préparation à la retraite mentionnée à l'ar
 c) Des périodes de chômage non indemnisé visées au 3° de l'article L. 351-3 du
 présent code ;
 
+d) Des périodes pendant lesquelles l'assuré a bénéficié, en cas d'absence
+complète d'activité, d'un revenu de remplacement de la part de son entreprise en
+application d'un accord professionnel national mentionné au dernier alinéa de
+l'article L. 352-3 du code du travail.
+
 5° Les sommes correspondant à la prise en compte par les régimes d'assurance
 vieillesse de base mentionnés au titre V du livre III, aux 1° et 2° de l'article
 L. 621-3 du présent code et à l'article 1024 du code rural des réductions de la
@@ -58,7 +63,7 @@ personnes non salariées des professions agricoles ;
 vieillesse de base des périodes de volontariat du service national de leurs
 assurés.
 
-Les sommes mentionnées au a et b du 4° et au 7° sont calculées sur une base
+Les sommes mentionnées aux a, b et d du 4° et au 7° sont calculées sur une base
 forfaitaire déterminée après avis des conseils d'administration des caisses des
 régimes d'assurance vieillesse de base concernées dans des conditions fixées par
 décret en Conseil d'Etat.

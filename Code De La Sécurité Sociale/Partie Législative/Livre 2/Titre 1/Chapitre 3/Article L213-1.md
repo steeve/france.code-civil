@@ -20,3 +20,6 @@ l'article L. 216-1.
 
 Un décret détermine les modalités d'organisation administrative et financière de
 ces unions.
+
+En matière de contrôle, une union de recouvrement peut déléguer à une autre
+union ses compétences dans des conditions fixées par décret.

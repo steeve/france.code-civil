@@ -123,3 +123,6 @@ L. 117-1 du code du travail.
 
 6° L'allocation de veuvage visée à l'article L. 356-1 du présent code et aux
 articles 1031-1 et 1142-26 du code rural.
+
+7° L'indemnité de cessation d'activité visée au V de l'article 41 de la loi de
+financement de la sécurité sociale pour 1999 (n° 98-1194 du 23 décembre 1998).

@@ -48,7 +48,12 @@ Il est majoré dans les zones de revitalisation rurale mentionnées à l'article
 
 Le montant de cet allégement est calculé chaque mois civil, pour chaque salarié,
 en fonction décroissante de la rémunération et dans la limite d'un minimum,
-selon un barème déterminé par décret.
+selon un barème déterminé par décret. Pour ceux des salariés de ces entreprises
+qui sont soumis à des dispositions spécifiques en matière de durée maximale du
+travail et sous réserve du respect de ces dispositions, le calcul de
+l'allégement peut être adapté pour tenir compte de la rémunération mensuelle
+minimale, dans des conditions et selon des modalités fixées par décret en
+Conseil d'Etat.
 
 Dans les entreprises où la durée du travail est fixée conformément aux
 dispositions de l'article 19 de la loi n° 2000-37 du 19 janvier 2000 précitée et
@@ -65,17 +70,19 @@ revalorisation est fixé par arrêté.
 
 IV. - L'allégement auquel ouvrent droit les salariés est calculé au prorata du
 nombre d'heures rémunérées rapporté à la durée collective du travail applicable
-dans l'entreprise calculée sur le mois. Si la durée collective du travail est
+dans l'entreprise ou à la durée prise en compte pour l'application du quatrième
+alinéa du III calculée sur le mois. Si la durée collective du travail est
 inférieure ou égale à trente-deux heures hebdomadaires, le nombre d'heures
 rémunérées est rapporté à la durée mensuelle correspondant à la durée
 hebdomadaire de trente-deux heures.
 
 Les salariés dont la durée stipulée au contrat de travail est inférieure à la
-moitié de la durée collective du travail applicable n'ouvrent pas droit à
-l'allégement. Ces dispositions ne sont pas applicables aux salariés recrutés
-dans le cadre de contrats, dont la liste est fixée par décret, conclus afin de
-favoriser l'insertion professionnelle de personnes rencontrant des difficultés
-d'accès à l'emploi.
+moitié de la durée collective du travail applicable ou à la moitié de la durée
+prise en compte pour l'application du quatrième alinéa du III n'ouvrent pas
+droit à l'allégement. Ces dispositions ne sont pas applicables aux salariés
+recrutés dans le cadre de contrats, dont la liste est fixée par décret, conclus
+afin de favoriser l'insertion professionnelle de personnes rencontrant des
+difficultés d'accès à l'emploi.
 
 V. - Dans les professions dans lesquelles le paiement des congés des salariés et
 des charges sur les indemnités de congés est mutualisé entre les employeurs
