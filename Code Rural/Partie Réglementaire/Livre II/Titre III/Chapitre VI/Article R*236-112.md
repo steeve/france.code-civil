@@ -21,8 +21,9 @@ artificiels ;
 6° D'établir des appareils, d'effectuer des manoeuvres, de battre la surface de
 l'eau en vue de rassembler le poisson afin d'en faciliter la capture ;
 
-7° De détenir sur un bateau en action de pêche des appareils de sondage par
-ondes permettant de localiser les poissons ;
+7° De détenir tout appareil de sondage par ondes, ou sonar, sur un bateau
+utilisé pour la pêche à la monte ou à la grande senne, ou sur un bateau qui
+participe à cette pêche ;
 
 8° D'utiliser comme appâts des poissons des espèces dont la taille minimale a
 été fixée par l'article R. 236-103, des espèces mentionnées aux 1° et 2° de

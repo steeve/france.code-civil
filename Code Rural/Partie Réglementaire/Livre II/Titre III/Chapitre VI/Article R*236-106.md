@@ -17,7 +17,11 @@ embarcation ;
 l'eau des poissons déjà ferrés ou pour pêcher des amorces à usage personnel ;
 
 4° Deux bouteilles à vairons ou gobemouches, d'une capacité unitaire d'un
-maximum de trois litres, utilisables pour pêcher des amorces à usage personnel.
+maximum de trois litres, utilisables pour pêcher des amorces à usage personnel ;
+
+5° Six balances destinées à la pêche des écrevisses appartenant aux espèces
+autres que celles mentionnées à l'article R. 236-100, d'un diamètre maximum de
+0,30 mètre.
 
 Les membres d'associations agréées de pêche et de pisciculture autres que celle
 mentionnée au premier alinéa du présent article ne peuvent pêcher que du bord ou
@@ -26,4 +30,4 @@ hameçons.
 
 Les pêcheurs amateurs résidant en Suisse et munis d'un permis de pêche valable
 pour le lac Léman délivré par cet Etat peuvent utiliser les moyens de pêche
-prévus à l'article 4 du règlement d'application de l'accord du 20 novembre 1980.
+prévus au présent article.

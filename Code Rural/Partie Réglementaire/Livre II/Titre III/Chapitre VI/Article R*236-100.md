@@ -1,21 +1,21 @@
 Article R*236-100
 ----
-La pêche est interdite en dehors des temps d'ouverture fixés ainsi qu'il suit :
+La pêche est autorisée toute l'année à l'exception de :
 
-1° Pour les truites, les corégones, l'omble chevalier et l'ombre commun, du
-samedi le plus proche du 16 janvier (mais au plus tard le 16 janvier) au 14
-octobre. Les engins des pêcheurs professionnels, destinés à la capture de ces
-poissons, peuvent être relevés le 15 octobre au plus tard ; les poissons
-capturés peuvent être ramenés à terre et commercialisés ;
+1° La pêche de la truite Salmo trutta, de l'omble chevalier et du corégone, qui
+est interdite pendant une période d'au moins 89 jours consécutifs comprise entre
+la mi-octobre et la mi-janvier. Cette période est fixée par le préfet ;
 
-2° Pour le brochet du 1er janvier au 31 mars et du 11 mai au 31 décembre ;
+2° La pêche de l'ombre commun, qui est interdite du 1er mars au 14 mai inclus ;
 
-3° Pour la perche du 1er janvier au 4 mai et du 31 mai au 31 décembre.
-Toutefois, ce temps d'ouverture peut être décalé dans les conditions prévues à
-l'article 1er (2) de l'annexe II à l'échange de notes du 16 décembre 1985, le
-préfet de Haute-Savoie étant l'autorité française compétente à cet effet.
+3° La pêche du brochet, qui est interdite du 1er avril au 10 mai inclus.
 
-Les jours mentionnés au présent article sont compris dans les temps d'ouverture.
+La pêche de l'écrevisse à pattes blanches (Austrapotamobius pallipes) et de
+l'écrevisse à pattes rouges (Astacus astacus) est interdite toute l'année.
 
-La pêche des espèces autres que celles désignées aux 1° à 3° du présent article
-est autorisée toute l'année.
+Tout poisson capturé pendant la période où sa pêche est interdite doit être
+immédiatement et soigneusement remis à l'eau, à l'exception des perches pêchées
+par les amateurs, quelle que soit leur taille.
+
+La pêche à la traîne est interdite pendant la période d'interdiction de la pêche
+des truites, de l'omble chevalier et du corégone.

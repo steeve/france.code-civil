@@ -3,13 +3,15 @@ Article R*236-103
 Les poissons désignés ci-après ne peuvent être capturés que s'ils ont atteint la
 taille minimale suivante :
 
-0,35 mètre pour les truites ;
+0,35 mètre pour les truites de lac et de rivière ;
 
-0,27 mètre pour l'omble chevalier et l'ombre commun ;
+0,27 mètre pour l'omble chevalier ;
+
+0,30 mètre pour l'ombre commun ;
 
 0,30 mètre pour les corégones ;
 
-0,40 mètre pour les brochets ;
+0,50 mètre pour les brochets ;
 
 0,15 mètre pour la perche.
 
