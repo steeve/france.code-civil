@@ -2,7 +2,7 @@ Article D461-23
 ----
 La personne qui cesse d'être exposée à un risque professionnel susceptible
 d'entraîner une affection mentionnée aux tableaux de maladies professionnelles
-n° s 25,44 et 91 bénéficie, sur sa demande, d'une surveillance médicale
+n°s 25, 44, 91 et 94 bénéficie, sur sa demande, d'une surveillance médicale
 postprofessionnelle tous les cinq ans. Cet intervalle de cinq ans peut être
 réduit après avis favorable du médecin conseil.
 
