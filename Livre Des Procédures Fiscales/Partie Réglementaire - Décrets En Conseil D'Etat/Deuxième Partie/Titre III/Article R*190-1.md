@@ -20,7 +20,14 @@ cadastrale.
 
 Lorsque l'imposition contestée a été établie à l'initiative d'un agent dépendant
 d'une direction régionale, d'une direction spécialisée ou d'un service à
-compétence nationale, la réclamation peut être adressée au directeur chargé de
-ces directions ou de ce service.
+compétence nationale, la réclamation est adressée au directeur chargé de ces
+directions ou de ce service.
+
+Les entreprises mentionnées aux deuxième à septième alinéas du I de l'article
+1649 quater B quater du code général des impôts adressent au service chargé des
+grandes entreprises l'ensemble des réclamations portant sur les impôts qui
+relèvent de sa compétence ainsi que sur les dégrèvements prévus en matière de
+taxe professionnelle aux articles 1647 bis et 1647 B sexies, quelle que soit la
+période sur laquelle portent ces réclamations.
 
 Les réclamations font l'objet d'un récépissé adressé au contribuable.
