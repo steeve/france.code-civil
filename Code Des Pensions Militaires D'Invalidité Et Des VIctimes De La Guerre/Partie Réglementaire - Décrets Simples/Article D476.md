@@ -9,8 +9,8 @@ département ;
 
 le président du conseil général ou son représentant ;
 
-les maires des villes chefs-lieux de département et des villes de plus de 100000
-habitants ou leur représentant ;
+les maires des villes chefs-lieux de département et des villes de plus de 100
+000 habitants ou leur représentant ;
 
 le procureur de la République ou son substitut ;
 
@@ -25,9 +25,10 @@ le directeur départemental du travail ou son adjoint ;
 les directeurs des services de l'Etat et du département chargés des affaires
 sanitaires et sociales ou leur adjoint ;
 
-le responsable départemental de l'Agence nationale pour l'emploi ; quarante-sept
-membres appartenant aux catégories énumérées au 3° de l'article D434 ci-dessus
-et avec la même répartition des postes.
+le responsable départemental de l'Agence nationale pour l'emploi ;
+
+quarante-neuf membres appartenant aux catégories énumérées au 3° de l'article D.
+434 ci-dessus et avec la même répartition des postes.
 
 Les associations départementales d'anciens combattants et victimes de guerre
 proposent au préfet deux candidatures pour chaque catégorie qu'elles
@@ -41,14 +42,16 @@ qualifiées visées au présent alinéa ne prennent pas part aux votes.
 
 Les sièges devenus vacants en cours de mandat sont renouvelés à la diligence du
 préfet pour la durée restant à courir dans les conditions indiquées au dernier
-paragraphe de l'article D434. Le conseil départemental désigne pour la durée de
-son mandat deux vice-présidents choisis parmi les représentants des anciens
-combattants et victimes de guerre et, sur proposition du préfet, constitue la
-commission d'action sociale et les commissions qu'il estime utiles eu égard aux
+paragraphe de l'article D. 434.
+
+Le conseil départemental désigne pour la durée de son mandat deux
+vice-présidents choisis parmi les représentants des anciens combattants et
+victimes de guerre et, sur proposition du préfet, constitue la commission
+d'action sociale et les commissions qu'il estime utiles eu égard aux
 circonstances locales.
 
 Le directeur départemental de l'office national des anciens combattants et
-victimes de guerre et les directeurs des établissement de l'office implantés
+victimes de guerre et les directeurs des établissements de l'office implantés
 dans le département assistent de plein droit aux réunions du conseil sans
 prendre part aux votes.
 
