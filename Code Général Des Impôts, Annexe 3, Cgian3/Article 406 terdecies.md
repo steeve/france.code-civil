@@ -6,13 +6,12 @@ mentionné au premier alinéa de l'article 344-0 A.
 
 II. - Les dispositions du I s'appliquent à l'impôt sur les sociétés, à
 l'imposition forfaitaire annuelle des sociétés, à la contribution sur les
-revenus locatifs, à la contribution sur l'impôt sur les sociétés, à la
-contribution sociale sur l'impôt sur les sociétés prévues respectivement aux
-articles 223 septies, 234 nonies, 235 ter ZA et 235 ter ZC du code général des
-impôts, à la taxe professionnelle et à la cotisation minimum citées au 6° de
-l'article 344-0 B de même qu'aux taxes additionnelles et annexes à cette taxe
-ainsi qu'aux impôts et taxes mentionnés aux 3° à 5° et 7° à 15° de l'article
-344-0 B.
+revenus locatifs, à la contribution sociale sur l'impôt sur les sociétés prévues
+respectivement aux articles 223 septies, 234 nonies et 235 ter ZC du code
+général des impôts, à la taxe professionnelle et à la cotisation minimum citées
+au 6° de l'article 344-0 B de même qu'aux taxes additionnelles et annexes à
+cette taxe ainsi qu'aux impôts et taxes mentionnés aux 3° à 5° et 7° à 15° de
+l'article 344-0 B.
 
 Elles s'appliquent en outre, sur option de l'entreprise, aux taxes foncières sur
 les propriétés bâties et non bâties et à leurs taxes additionnelles et annexes

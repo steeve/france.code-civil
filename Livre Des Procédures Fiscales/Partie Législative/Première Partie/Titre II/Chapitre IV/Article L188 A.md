@@ -3,8 +3,8 @@ Article L188 A
 Lorsque l'administration a, dans le délai initial de reprise, demandé à
 l'autorité compétente d'un autre Etat ou territoire des renseignements
 concernant soit les relations d'un contribuable qui entrent dans les prévisions
-des articles 57 ou 209 B du code général des impôts avec une entreprise, une
-société ou un groupement exploitant une activité ou établi dans cet Etat ou ce
+des articles 57 ou 209 B du code général des impôts avec une entreprise ou une
+entité juridique exploitant une activité ou établi dans cet Etat ou ce
 territoire, soit les biens, les avoirs ou les revenus dont un contribuable a pu
 disposer hors de France ou les activités qu'il a pu y exercer, soit ces deux
 catégories de renseignements, les omissions ou insuffisances d'imposition y
@@ -18,6 +18,3 @@ et dans la mesure où le contribuable a été informé de l'existence de la dema
 de renseignements, au moment où celle-ci a été formulée, ainsi que de
 l'intervention de la réponse de l'autorité compétente de l'autre Etat ou
 territoire au moment où cette réponse est parvenue à l'administration (1).
-
-(1) Ces dispositions s'appliquent aux contrôles engagés à compter de la date
-d'entrée en vigueur de la loi 96-314.

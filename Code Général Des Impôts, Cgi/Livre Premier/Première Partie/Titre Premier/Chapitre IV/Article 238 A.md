@@ -15,7 +15,10 @@ caractère anormal ou exagéré.
 Pour l'application du premier alinéa, les personnes sont regardées comme
 soumises à un régime fiscal privilégié dans l'Etat ou le territoire considéré si
 elles n'y sont pas imposables ou si elles y sont assujetties à des impôts sur
-les bénéfices ou les revenus notablement moins élevés qu'en France.
+les bénéfices ou les revenus dont le montant est inférieur de plus de la moitié
+à celui de l'impôt sur les bénéfices ou sur les revenus dont elles auraient été
+redevables dans les conditions de droit commun en France, si elles y avaient été
+domiciliées ou établies.
 
 Les dispositions du premier alinéa s'appliquent également à tout versement
 effectué sur un compte tenu dans un organisme financier établi dans un des Etats

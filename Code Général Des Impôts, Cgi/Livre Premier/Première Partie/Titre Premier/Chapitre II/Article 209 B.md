@@ -1,33 +1,26 @@
 Article 209 B
 ----
-I. Lorsqu'une entreprise passible de l'impôt sur les sociétés détient
-directement ou indirectement 25 % au moins des actions ou parts d'une société
-établie dans un Etat étranger ou un territoire situé hors de France dont le
-régime fiscal est privilégié au sens mentionné à l'article 238 A, cette
-entreprise est soumise à l'impôt sur les sociétés sur les résultats
-bénéficiaires de la société étrangère dans la proportion des droits sociaux
-qu'elle y détient.
+I. - 1. Lorsqu'une personne morale établie en France et passible de l'impôt sur
+les sociétés exploite une entreprise hors de France ou détient directement ou
+indirectement plus de 50 % des actions, parts, droits financiers ou droits de
+vote dans une entité juridique : personne morale, organisme, fiducie ou
+institution comparable, établie ou constituée hors de France et que cette
+entreprise ou entité juridique est soumise à un régime fiscal privilégié au sens
+de l'article 238 A, les bénéfices ou revenus positifs de cette entreprise ou
+entité juridique sont imposables à l'impôt sur les sociétés. Lorsqu'ils sont
+réalisés par une entité juridique, ils sont réputés constituer un revenu de
+capitaux mobiliers imposable de la personne morale établie en France dans la
+proportion des actions, parts ou droits financiers qu'elle détient directement
+ou indirectement.
 
-Ces bénéfices font l'objet d'une imposition séparée. Ils sont réputés acquis le
-premier jour du mois qui suit la clôture de l'exercice de la société étrangère
-et sont déterminés selon les règles fixées par le présent code.
-
-L'impôt acquitté localement par la société étrangère est imputable dans la
-proportion mentionnée au premier alinéa sur l'impôt établi en France à condition
-d'être comparable à l'impôt sur les sociétés.
-
-I bis 1. Lorsqu'une personne morale passible de l'impôt sur les sociétés
-exploite une entreprise hors de France ou détient directement ou indirectement
-10 p. 100 au moins des actions, parts, droits financiers ou droits de vote dans
-une société ou un groupement, établi hors de France, ou détient dans une telle
-société ou groupement une participation dont le prix de revient est égal ou
-supérieur à 22 800 000 euros et que cette entreprise, cette société ou ce
-groupement est soumis à un régime fiscal privilégié au sens de l'article 238 A,
-le résultat bénéficiaire de l'entreprise, de la société ou du groupement est
-réputé constituer un résultat de cette personne morale et, s'il s'agit d'une
-société ou d'un groupement, ce résultat est retenu dans la proportion des
-actions, parts, droits financiers qu'elle y détient directement ou
-indirectement.
+Le taux de détention mentionné à l'alinéa précédent est ramené à 5 % lorsque
+plus de 50 % des actions, parts, droits financiers ou droits de vote de l'entité
+juridique établie ou constituée hors de France sont détenus par des entreprises
+établies en France qui, dans le cas où l'entité étrangère est cotée sur un
+marché réglementé, agissent de concert ou bien par des entreprises qui sont
+placées directement ou indirectement dans une situation de contrôle ou de
+dépendance au sens de l'article 57 à l'égard de la personne morale établie en
+France.
 
 2. Les actions, parts, droits financiers ou droits de vote détenus indirectement
 par la personne morale visée au 1 s'entendent des actions, parts, droits
@@ -39,96 +32,91 @@ détenus s'opère en multipliant entre eux les taux de détention successifs.
 La détention indirecte s'entend également des actions, parts, droits financiers
 ou droits de vote détenus directement ou indirectement :
 
-a) Par les salariés ou les dirigeants de droit ou de fait de la personne morale
-visée au 1 ;
+a. Par les salariés ou les dirigeants de droit ou de fait de la personne morale
+mentionnée au 1 ;
 
-b) Par une personne physique, son conjoint, ou leurs ascendants ou descendants
+b. Par une personne physique, son conjoint, ou leurs ascendants ou descendants
 lorsque l'une au moins de ces personnes est directement ou indirectement
-actionnaire, porteuse de parts titulaire de droits financiers ou de droits de
+actionnaire, porteuse de parts, titulaire de droits financiers ou de droits de
 vote dans cette personne morale ;
 
-c) Par une société ou un groupement ayant en commun avec cette personne morale
-un actionnaire, un porteur de parts ou un titulaire de droits financiers ou de
-droits de vote qui dispose directement ou indirectement du nombre le plus élevé
-de droits de vote dans cette société ou ce groupement et dans cette personne
-morale ;
+c. Par une entreprise ou une entité juridique ayant en commun avec cette
+personne morale un actionnaire, un porteur de parts ou un titulaire de droits
+financiers ou de droits de vote qui dispose directement ou indirectement du
+nombre le plus élevé de droits de vote dans cette entreprise ou entité juridique
+et dans cette personne morale ;
 
-d) Par un partenaire commercial de la personne morale dès lors que les relations
+d. Par un partenaire commercial de la personne morale dès lors que les relations
 entre cette personne morale et ce partenaire sont telles qu'il existe entre eux
 un lien de dépendance économique.
 
-Toutefois, les actions, parts, droits financiers ou droits de vote visés aux
-deuxième à sixième alinéas ne sont pas pris en compte pour le calcul du
-pourcentage de résultat de la société ou du groupement, établi hors de France,
-qui est réputé constituer un résultat de la personne morale.
+Toutefois, les actions, parts, droits financiers ou droits de vote mentionnés
+aux a, b, c et d ne sont pas pris en compte pour le calcul du pourcentage de
+résultat de l'entité juridique établie hors de France, qui est réputé constituer
+un revenu de capitaux mobiliers de la personne morale.
 
-3. Le résultat mentionné au 1 fait l'objet d'une imposition séparée. Il est
-réputé acquis le premier jour du mois qui suit la clôture de l'exercice de
-l'entreprise, de la société ou du groupement, établi hors de France. Il est
-déterminé selon les règles fixées par le présent code à l'exception des
-dispositions autorisant des provisions ou des déductions spéciales ou des
-amortissements exceptionnels et des dispositions prévues aux articles 39
-terdecies et 223 A.
+3. Le bénéfice de l'entreprise ou le revenu de capitaux mobiliers mentionné au 1
+est réputé acquis le premier jour du mois qui suit la clôture de l'exercice de
+l'entreprise ou de l'entité juridique établie ou constituée hors de France. Il
+est déterminé selon les règles fixées par le présent code à l'exception des
+dispositions prévues à l'article 223 A.
 
-4. L'impôt acquitté localement par l'entreprise, la société ou le groupement,
-établi hors de France, est imputable sur l'impôt établi en France à condition
-d'être comparable à l'impôt sur les sociétés et, s'il s'agit d'une société ou
-d'un groupement, dans la proportion mentionnée au 1.
+4. L'impôt acquitté localement par l'entreprise ou l'entité juridique, établie
+hors de France, est imputable sur l'impôt établi en France, à condition d'être
+comparable à l'impôt sur les sociétés et, s'il s'agit d'une entité juridique,
+dans la proportion mentionnée à la dernière phrase du premier alinéa du 1.
 
-II. Les dispositions du I ne s'appliquent pas si l'entreprise établit que les
-opérations de la société étrangère n'ont pas principalement pour effet de
-permettre la localisation de bénéfices dans un Etat ou territoire où elle est
-soumise à un régime fiscal privilégié. Cette condition est réputée remplie
-notamment :
+5. Lorsque les produits ou revenus de l'entreprise ou de l'entité juridique
+comprennent des dividendes, intérêts ou redevances qui proviennent d'un Etat ou
+territoire autre que celui dans lequel l'entreprise ou l'entité juridique est
+établie ou constituée, les retenues à la source auxquelles ont donné lieu ces
+dividendes, intérêts ou redevances sont imputables dans la proportion mentionnée
+à la dernière phrase du premier alinéa du 1 sur l'impôt sur les sociétés dû par
+la personne morale établie en France. Cette imputation est toutefois subordonnée
+à la condition que l'Etat ou le territoire d'où proviennent ces dividendes,
+intérêts ou redevances soit la France ou un Etat lié à la France par une
+convention d'élimination des doubles impositions en matière d'impôt sur les
+revenus qui contienne une clause d'assistance administrative en vue de lutter
+contre la fraude et l'évasion fiscales, auquel cas l'imputation se fait au taux
+fixé dans la convention.
 
-- lorsque la société étrangère a principalement une activité industrielle ou
-commerciale effective ;
+II. - Les dispositions du I ne sont pas applicables :
 
-- et qu'elle réalise ses opérations de façon prépondérante sur le marché local.
+- si l'entreprise ou l'entité juridique est établie ou constituée dans un Etat
+de la Communauté européenne et
 
-II bis. Les dispositions du I bis ne s'appliquent pas si la personne morale
-établit que les opérations de l'entreprise, de la société ou du groupement,
-établi hors de France n'ont pas principalement pour effet de permettre la
-localisation de bénéfices dans un Etat ou territoire où il est soumis à un
-régime fiscal privilégié. Cette condition est réputée remplie notamment :
+- si l'exploitation de l'entreprise ou la détention des actions, parts, droits
+financiers ou droits de vote de l'entité juridique par la personne morale
+passible de l'impôt sur les sociétés ne peut être regardée comme constitutive
+d'un montage artificiel dont le but serait de contourner la législation fiscale
+française.
 
-Lorsque l'entreprise, la société ou le groupement établi hors de France a
-principalement une activité industrielle ou commerciale effective ;
+III. - En dehors des cas visés au II, les dispositions du I ne s'appliquent pas
+lorsque les bénéfices ou revenus positifs de l'entreprise ou de l'entité
+juridique établie ou constituée hors de France proviennent d'une activité
+industrielle ou commerciale effective exercée sur le territoire de l'Etat de son
+établissement ou de son siège.
 
-Et qu'il réalise ses opérations de façon prépondérante sur le marché local.
+Toutefois, lorsque les bénéfices ou revenus positifs de l'entreprise ou de
+l'entité juridique établie ou constituée hors de France proviennent :
 
-III. Un décret en Conseil d'Etat fixe les conditions d'application des
-dispositions qui précèdent et notamment les modalités permettant d'éviter la
-double imposition des bénéfices effectivement répartis ainsi que les obligations
-déclaratives de l'entreprise ou de la personne morale (1).
+a. Pour plus d'un cinquième, de la gestion, du maintien ou de l'accroissement de
+titres, participations, créances ou actifs analogues pour son propre compte ou
+pour celui d'entreprises appartenant à un groupe avec lequel la personne morale
+établie en France entretient des relations de contrôle ou de dépendance ou de la
+cession ou de la concession de droits incorporels relatifs à la propriété
+industrielle, littéraire ou artistique, ou
 
-IV. 1. Les dispositions du 1 bis s'appliquent à raison :
+b. Pour plus de la moitié, des opérations mentionnées au a et de la fourniture
+de prestations de services internes, y compris financiers, à un groupe
+d'entreprises avec lequel la personne morale établie en France entretient des
+relations de contrôle ou de dépendance, les dispositions du I s'appliquent sauf
+si la personne morale établie en France établit que les opérations de
+l'entreprise ou de l'entité juridique établie ou constituée hors de France ont
+principalement un effet autre que de permettre la localisation de bénéfices dans
+un Etat ou territoire où elle est soumise à un régime fiscal privilégié.
 
-a) des créations ou acquisitions d'entreprises mentionnées au 1 du I bis
-intervenues à compter du 30 septembre 1992 ;
-
-b) des acquisitions ou souscriptions d'actions, parts, droits financiers ou
-droits de vote mentionnés au I bis intervenues à compter de cette même date,
-ayant pour effet de conférer à la personne morale la détention de 10 p. 100
-visée au même 1 du I bis ou, si ce taux est déjà atteint, de le maintenir ou de
-l'augmenter ;
-
-c) des acquisitions ou souscriptions de participations, faites à compter de
-cette même date, permettant d'atteindre le seuil de 22 800 000 d'euros visé au 1
-du I bis ou d'augmenter le montant de la participation si ce seuil est déjà
-atteint.
-
-2. Les dispositions du I cessent de s'appliquer à raison des sociétés qui y sont
-mentionnées, créées ou acquises à compter du 30 septembre 1992.
-
-3. Les dispositions du I sont abrogées et remplacées par celles du I bis pour la
-détermination des résultats imposables des exercices de l'entreprise mentionnée
-audit I, ouverts à compter du 1er janvier 2003. Toutefois, les dispositions
-dudit I bis, en ce qu'elles sont relatives à l'appréciation de la détention
-directe et indirecte et du régime fiscal privilégié ainsi qu'à la détermination
-des résultats bénéficiaires de la société étrangère, s'appliquent pour la
-détermination des résultats imposables des exercices de l'entreprise mentionnée
-au I, clos à compter du 31 décembre 1992.
-
-4. Les dispositions du II bis s'appliquent, à compter du 30 septembre 1992, aux
-personnes morales passibles de l'impôt sur les sociétés mentionnées au I bis.
+IV. - Un décret en Conseil d'Etat fixe les conditions d'application du présent
+article et notamment les modalités permettant d'éviter la double imposition des
+bénéfices ou revenus de capitaux mobiliers effectivement répartis ainsi que les
+obligations déclaratives de la personne morale.
