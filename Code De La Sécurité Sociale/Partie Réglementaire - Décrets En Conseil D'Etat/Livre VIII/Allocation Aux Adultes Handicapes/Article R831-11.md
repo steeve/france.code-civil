@@ -25,9 +25,8 @@ cours de l'année précédente par le requérant et par toutes personnes vivant 
 ayant vécu à son foyer dans les conditions déterminées aux articles R. 831-4 à
 R. 831-7.
 
-Cette déclaration doit comporter l'indication des revenus imposables tels qu'ils
-ont été déclarés à l'administration fiscale au titre de l'année civile
-antérieure.
+Cette déclaration doit comporter l'indication des ressources telles qu'elles ont
+été déclarées à l'administration fiscale au titre de l'année civile antérieure.
 
 Les justifications prévues aux 1°, 3° et 4° doivent être renouvelées chaque
 année avant le 1er juillet.

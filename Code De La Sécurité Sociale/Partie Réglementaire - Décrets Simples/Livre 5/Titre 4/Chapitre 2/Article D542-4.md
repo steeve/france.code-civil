@@ -5,9 +5,10 @@ prestations familiales ou qui, bien que n'ouvrant pas droit à ces prestations,
 doivent être considérés comme étant à charge au sens des articles L. 512-3, L.
 512-4 et L. 513-1, sont également considérés comme à charge pour l'ouverture du
 droit à l'allocation de logement et le calcul de son montant les personnes
-vivant au foyer de l'allocataire ci-dessous désignées et dont le revenu net
-imposable n'excède pas le plafond individuel prévu à l'article L. 815-8 en
-vigueur au 31 décembre de l'année de référence mentionnée à l'article D. 542-8 :
+vivant au foyer de l'allocataire ci-dessous désignées et dont les ressources
+déterminées dans les conditions prévues à l'article D. 542-10 n'excèdent pas le
+plafond individuel prévu à l'article L. 815-8 en vigueur au 31 décembre de
+l'année de référence mentionnée à l'article D. 542-8 :
 
 1°) ascendants de l'allocataire ou de son conjoint, âgés d'au moins
 soixante-cinq ans ;

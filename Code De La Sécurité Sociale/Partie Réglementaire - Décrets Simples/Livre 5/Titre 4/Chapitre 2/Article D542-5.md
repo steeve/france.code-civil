@@ -14,7 +14,7 @@ K = 0,9 - R / 146 608 x N
 Dans laquelle :
 
 R représente les ressources imposables déterminées conformément à l'article D.
-542-11 ;
+542-10 ;
 
 N représente le nombre de parts déterminé dans les conditions prévues au 5°.
 
