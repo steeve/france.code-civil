@@ -27,7 +27,7 @@ territorial, ils ont exercé leur autorité depuis moins de six mois ;
 exercent ou ont exercé leurs fonctions depuis moins de six mois ;
 
 7° Dans les départements où ils exercent ou ont exercé leurs fonctions depuis
-moins de six mois: les ingénieurs en chef, ingénieurs en chef adjoints et
+moins de six mois : les ingénieurs en chef, ingénieurs en chef adjoints et
 ingénieurs des ponts et chaussées ;
 
 8° Les ingénieurs du service ordinaire des mines, dans les cantons où ils
@@ -40,10 +40,11 @@ où ils exercent ou ont exercé depuis moins de six mois ;
 dans le département où ils exercent ou ont exercé leurs fonctions depuis moins
 de six mois ;
 
-11° Les agents et comptables de tout ordre, employés à l'assiette, à la
-perception et au recouvrement des contributions directes ou indirectes, et au
-paiement des dépenses publiques de toute nature, dans le département où ils
-exercent ou ont exercé leurs fonctions depuis moins de six mois ;
+11° Les agents et comptables de tout ordre agissant en qualité de fonctionnaire,
+employés à l'assiette, à la perception et au recouvrement des contributions
+directes ou indirectes, et au paiement des dépenses publiques de toute nature,
+dans le département où ils exercent ou ont exercé leurs fonctions depuis moins
+de six mois ;
 
 12° Les directeurs départementaux et inspecteurs principaux des postes et
 télécommunications, dans le département où ils exercent ou ont exercé leurs
@@ -87,7 +88,7 @@ Les délais mentionnés aux troisième (2°) à vingtième (19°) alinéas ci-de
 sont pas opposables aux candidats qui, au jour de l'élection, auront été admis à
 faire valoir leurs droits à la retraite.
 
-" Sont également inéligibles, pendant un an, le président du conseil général ou
-le conseiller général visé au deuxième alinéa de l'article 2 de la loi n° 88-227
-du 11 mars 1988 relative à la transparence financière de la vie politique, qui
-n'a pas déposé l'une des déclarations prévues par ce même article. "
+Sont également inéligibles, pendant un an, le président du conseil général ou le
+conseiller général visé au deuxième alinéa de l'article 2 de la loi n° 88-227 du
+11 mars 1988 relative à la transparence financière de la vie politique, qui n'a
+pas déposé l'une des déclarations prévues par ce même article.

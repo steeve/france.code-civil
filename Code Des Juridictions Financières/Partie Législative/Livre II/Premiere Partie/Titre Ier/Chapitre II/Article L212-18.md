@@ -6,5 +6,4 @@ décret en Conseil d'Etat.
 
 Les magistrats des chambres régionales des comptes élisent, dans des conditions
 fixées par décret en Conseil d'Etat, leurs représentants au Conseil supérieur
-des chambres régionales des comptes. Un suppléant est élu pour chaque
-représentant titulaire.
+des chambres régionales des comptes.

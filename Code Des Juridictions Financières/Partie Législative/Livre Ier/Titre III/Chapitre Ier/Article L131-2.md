@@ -10,3 +10,7 @@ de fait. Les arrêts statuant sur les appels formés contre les dispositions
 définitives des jugements des chambres régionales des comptes portant sur des
 gestions de fait sont délibérés après l'audition, à leur demande, des requérants
 et des autres parties intéressées.
+
+L'action en déclaration de gestion de fait est prescrite pour les actes
+constitutifs de gestion de fait commis plus de dix ans avant la date à laquelle
+la Cour des comptes en est saisie ou s'en saisit d'office.

@@ -1,7 +1,9 @@
 Article L222-3
 ----
-L'exercice des fonctions de magistrat des chambres régionales des comptes est
-également incompatible avec :
+L'emploi de président de chambre régionale des comptes et de vice-président de
+la chambre régionale des comptes d'Ile-de-France ainsi que l'exercice des
+fonctions de magistrat des chambres régionales des comptes sont également
+incompatibles avec :
 
 a) L'exercice d'un mandat au Parlement européen ;
 
