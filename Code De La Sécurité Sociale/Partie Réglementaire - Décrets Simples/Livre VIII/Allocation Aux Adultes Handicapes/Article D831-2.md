@@ -6,4 +6,8 @@ nombre de parts) dont doivent être affectées les limites inférieures et
 supérieures de chacune des tranches de revenus prévues audits articles, est fixé
 à 0,70 pour une personne seule.
 
+Pour les personnes mentionnées au 4° de la loi n° 71-582 du 16 juillet 1971, le
+montant de l'allocation de logement est égal à 60 p. 100 du montant de la
+prestation calculée dans les conditions prévues à l'alinéa précédent.
+
 Le minimum au-dessous duquel l'allocation n'est pas versée est fixé à 50 F.

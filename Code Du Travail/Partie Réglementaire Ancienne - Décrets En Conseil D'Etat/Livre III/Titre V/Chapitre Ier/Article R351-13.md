@@ -18,8 +18,9 @@ un plafond correspondant à 90 fois le montant journalier de l'allocation pour
 une personne seule et 180 fois le même montant pour un couple ; les ressources
 prises en considération pour l'application de ce plafond comprennent
 l'allocation de solidarité ainsi que, le cas échéant, les ressources du couple à
-l'exclusion de la majoration éventuelle de l'allocation de solidarité et des
-prestations familiales.
+l'exclusion de la majoration éventuelle de l'allocation de solidarité des
+prestations familiales et de l'allocation de logement prévue au 4° de l'article
+2 de la loi n°71-582 du 16 juillet 1971.
 
 Lorsque les ressources de l'intéressé excèdent le plafond mentionné à l'alinéa
 précédent, l'allocation n'est versée qu'à concurrence d'un montant global de

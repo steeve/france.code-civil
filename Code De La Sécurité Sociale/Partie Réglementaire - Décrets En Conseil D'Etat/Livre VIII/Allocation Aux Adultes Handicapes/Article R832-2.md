@@ -13,6 +13,11 @@ catégories mentionnées à l'article 8 du décret n° 71-612 du 15 juillet 1971
 décision de l'organisme débiteur, sur avis favorable d'une commission dont la
 composition et le fonctionnement sont fixés par arrêté interministériel.
 
+Cette dérogation peut être prolongée dans les mêmes conditions par période de
+deux ans renouvelable, après enquête sociale et au vu d'une attestation motivée
+du commissaire de la République certifiant que l'allocataire ne peut être logé
+conformément aux conditions fixées au premier alinéa du présent article.
+
 L'allocation de logement n'est pas due si le local est loué ou sous-loué en
 partie à des tiers.
 

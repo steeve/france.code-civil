@@ -21,9 +21,9 @@ demande et concernées par la protection des travailleurs, notamment aux médeci
 du travail, les renseignements qu'il détient relatifs aux dangers que présente
 une substance ou une préparation, aux précautions à prendre dans son emploi, son
 stockage, son transport ou son élimination et à la nature et la teneur de toutes
-substances figurant dans la liste prévue à l'article R. 231-51 (2e alinéa)
+substances figurant dans la liste prévue à l'article R. 231-51 (3e alinéa)
 contenues dans une préparation, à l'exclusion de toute autre information
-relevant du secret de fabrication.
+relevant du secret industriel et commercial.
 
 L'organisme désigné est également habilité à fournir aux inspecteurs du travail,
 aux médecins inspecteurs du travail, aux ingénieurs-conseils des caisses
