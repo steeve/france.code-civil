@@ -11,5 +11,5 @@ lesdits articles, à l'exception :
 administratifs, des groupements de collectivités territoriales ;
 
 3. Des employeurs des salariés définis aux articles L. 771-1 [*concierges et
-employés d'immeubles*, L. 772-1 *]employés de maison*, L. 773-1 [*assistantes
+employés d'immeubles*], L. 772-1 [*employés de maison*], L. 773-1 [*assistantes
 maternelles*] du présent code.

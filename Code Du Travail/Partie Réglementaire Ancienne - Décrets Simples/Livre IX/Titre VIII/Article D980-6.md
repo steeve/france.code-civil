@@ -3,7 +3,8 @@ Article D980-6
 L'employeur choisit au sein de son entreprise, avec son accord et en tenant
 compte de l'objectif à atteindre, un tuteur chargé d'accueillir, d'aider,
 d'informer et de guider le jeune pendant la durée du contrat d'orientation
-*attributions*. Il lui permet de disposer du temps nécessaire au suivi du jeune.
+[*attributions*]. Il lui permet de disposer du temps nécessaire au suivi du
+jeune.
 
 Le tuteur ne peut se voir confier simultanément plus de trois jeunes qui suivent
 des formations dans le cadre de contrats d'insertion en alternance, de contrats
