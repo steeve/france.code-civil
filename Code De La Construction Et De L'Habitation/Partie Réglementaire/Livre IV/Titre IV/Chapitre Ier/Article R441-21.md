@@ -6,16 +6,13 @@ d'habitations à loyer modéré dans le département, le supplément de loyer es
 calculé dans les conditions prévues au présent article.
 
 Aucun supplément de loyer n'est exigible lorsque le dépassement du plafond de
-ressources est inférieur à 40 p. 100.
+ressources est inférieur à 60 p. 100.
 
-Dans le cas où ce dépassement est égal ou supérieur à 40 p. 100, l'organisme
+Dans le cas où ce dépassement est égal ou supérieur à 60 p. 100, l'organisme
 calcule le supplément de loyer en fonction :
 
 1° Du coefficient de dépassement du plafond de ressources dont la valeur est de
 :
-
-1 lorsque le dépassement du plafond de ressources est au moins égal à 40 p. 100
-et inférieur à 60 p. 100 ;
 
 1,5 lorsque le dépassement du plafond de ressources est au moins égal à 60 p.
 100 et inférieur à 80 p. 100 ;

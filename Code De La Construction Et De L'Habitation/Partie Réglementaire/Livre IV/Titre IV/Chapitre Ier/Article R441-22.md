@@ -16,11 +16,12 @@ inférieur à 30 % ;
 - ne peut excéder 1 lorsque le dépassement est au moins égal à 30 % et inférieur
 à 40 % ;
 
-- est au moins égale aux valeurs fixées au 1° de l'article R. 441-21, lorsque le
-dépassement est au moins égal à 40 %, sans pouvoir excéder 1,50 si le
-dépassement des plafonds de ressources est au moins égal à 40 % et inférieur à
-60 %, et sans pouvoir excéder 2 si le dépassement des plafonds de ressources est
-au moins égal à 60 % et inférieur à 80 % ;
+- ne peut excéder 1,5 lorsque le dépassement est au moins égal à 40 % et
+inférieur à 60 % ;
+
+- est au moins égale aux valeurs fixées au 1° de l'article R. 441-21 lorsque le
+dépassement est au moins égal à 60 %, sans pouvoir excéder 2 si le dépassement
+des plafonds de ressources est au moins égal à 60 % et inférieur à 80 % ;
 
 3° Le supplément de loyer de référence mensuel par mètre carré habitable de
 chaque immeuble ou groupe d'immeubles ainsi que l'identification de ces
