@@ -1,9 +1,8 @@
 Article R*221-47
 ----
-Le montant de la contribution obligatoire de chaque fédération départementale
-des chasseurs au fonds prévu au cinquième alinéa de l'article L. 421-14 du code
-de l'environnement est égal au produit du nombre de ses adhérents de l'exercice
-précédent par le montant national maximum de la cotisation mentionnée au
-quatrième alinéa de l'article L. 421-14 du code de l'environnement, auquel est
-appliqué un taux fixé par l'assemblée générale de la Fédération nationale des
-chasseurs qui ne peut excéder 5 %.
+L'assemblée générale de la Fédération nationale des chasseurs détermine le
+montant des contributions obligatoires de chaque fédération départementale ou
+interdépartementale des chasseurs et de la cotisation nationale au fonds
+cynégétique national prévu au cinquième alinéa de l'article L. 421-14 ainsi que
+la clé de répartition et les modalités de redistribution de ce fonds entre les
+fédérations départementales et interdépartementales bénéficiaires.
