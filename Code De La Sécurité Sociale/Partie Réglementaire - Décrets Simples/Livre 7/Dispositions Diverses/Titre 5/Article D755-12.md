@@ -28,12 +28,17 @@ et, le cas échéant, de la dette contractée pour effectuer des travaux destin�
 permettre l'ouverture du droit à l'allocation de logement :
 
 a. soit qu'elles se libèrent d'une dette contractée en vue d'effectuer des
-travaux susceptibles d'ouvrir droit au bénéfice de la législation sur les H. L.
-M. ou au bénéfice des primes à la construction ;
+travaux susceptibles d'ouvrir droit au bénéfice de la législation sur les HLM ou
+au bénéfice des primes à la construction ;
 
 b. soit qu'elles aient souscrit un contrat de location-vente ou un bail à
 construction qui leur confère un droit de propriété sur les constructions
 existantes ou édifiées.
+
+La notion de résidence principale mentionnée au présent article doit être
+entendue au sens du logement effectivement occupé au moins huit mois par an,
+soit par l'allocataire, soit par son conjoint ou concubin, soit par une des
+personnes à charge au sens de l'article D. 755-17.
 
 Le logement mis à la disposition d'un requérant par un des ascendants ou de ses
 descendants n'ouvre pas droit au bénéfice de l'allocation.

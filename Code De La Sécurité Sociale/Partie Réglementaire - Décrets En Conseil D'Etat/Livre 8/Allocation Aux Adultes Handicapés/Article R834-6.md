@@ -2,9 +2,8 @@ Article R834-6
 ----
 Les recettes du fonds national d'aide au logement sont les suivantes :
 
-1°) le produit des cotisations prévues par l'article L. 834-1 et de la
-contribution prévue au II de l'article 82 de la loi n° 85-1403 du 30 décembre
-1985 ;
+1° Le produit de la cotisation et de la contribution mentionnées aux 1° et 2° du
+deuxième alinéa de l'article L. 834-1 ;
 
 2°) la contribution de l'Etat ;
 
@@ -29,6 +28,6 @@ par l'article L. 851-1 ;
 
 4°) les frais du contentieux mentionné à l'article L. 835-4 ;
 
-5°) les frais de contrôle médical ;
+5°) [*abrogé par décret 95-1157 du 2 novembre 1995 art. 12 II*]
 
 6°) les dépenses accidentelles et diverses.

@@ -21,6 +21,10 @@ montant maximum est fixé par arrêté du ministre chargé de la sécurité soci
 Est toutefois exclue du décompte des ressources l'allocation de revenu minimum
 d'insertion mentionnée à l'article 4 de la loi n° 88-1088 du 1er décembre 1988.
 
+Sont également exclus du décompte des ressources les arrérages des rentes
+viagères constituées en faveur d'une personne handicapée et mentionnées à
+l'article 199 septies (2°) du code général des impôts.
+
 Il est fait abstraction des déductions opérées en vertu de l'article 156-I du
 code général des impôts au titre des reports des déficits constatés au cours
 d'une année antérieure à celle qui est prise en considération.

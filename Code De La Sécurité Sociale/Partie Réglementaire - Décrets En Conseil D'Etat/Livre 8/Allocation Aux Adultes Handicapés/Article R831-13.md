@@ -25,9 +25,13 @@ d'habitation à loyer modéré.
 Par dérogation aux dispositions qui précèdent, lorsque le demandeur occupe un
 logement qui ne répond pas aux conditions de salubrité mentionnées ci-dessus,
 l'allocation de logement peut être accordée à titre exceptionnel, et pour une
-durée d'un an, par l'organisme payeur.
+durée d'un an, par l'organisme payeur qui doit en informer son conseil
+d'administration et le préfet. En cas de refus de dérogation, le préfet doit
+également être tenu informé.
 
-Le préfet désigne alors un organisme privé ou public aux fins de proposer au
+Le préfet désigne alors, dans le cadre du plan départemental pour le logement
+des personnes défavorisées mentionné aux articles 2 et suivants de la loi n°
+90-449 du 31 mai 1990, un organisme privé ou public aux fins de proposer au
 bailleur une solution adaptée d'amélioration du logement ou à l'allocataire une
 solution de relogement correspondant à ses besoins et à ses possibilités.
 

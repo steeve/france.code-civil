@@ -5,6 +5,10 @@ aux personnes qui sont locataires ou qui accèdent à la propriété d'un local 
 usage exclusif d'habitation et constituant leur résidence principale . Elle peut
 être attribuée également aux sous-locataires et occupants à titre onéreux.
 
+La notion de résidence principale doit être entendue au sens du logement
+effectivement occupé au moins huit mois par an soit par le bénéficiaire, soit
+par son conjoint ou concubin.
+
 L'allocation n'est due que si les intéressés paient un minimum de loyer fixé par
 décret compte tenu de leurs ressources.
 

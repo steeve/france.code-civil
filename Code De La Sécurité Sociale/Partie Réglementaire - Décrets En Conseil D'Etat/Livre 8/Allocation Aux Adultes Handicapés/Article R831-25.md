@@ -10,8 +10,3 @@ Lorsque l'allocation de logement est versée au prêteur en application du premi
 alinéa de l'article L. 835-2 et que l'allocataire ne règle pas la part de
 dépense de logement restant à sa charge, il est fait application des
 dispositions de l'article R. 831-21-4.
-
-Dans les cas où l'impayé est supérieur à douze mensualités d'accession à la
-propriété déduction faite de l'allocation de logement, le délai mentionné à
-l'article R. 831-21-3 et au troisième alinéa de l'article R. 831-21-4 est de
-soixante mois.
