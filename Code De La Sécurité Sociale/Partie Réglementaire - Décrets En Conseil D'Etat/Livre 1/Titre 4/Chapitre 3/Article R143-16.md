@@ -1,7 +1,7 @@
 Article R143-16
 ----
-La commission est divisée en sections. Chaque section est présidée par un
-magistrat et comprend en outre :
+La cour est divisée en sections. Chaque section est présidée par un magistrat et
+comprend en outre :
 
 1°) deux membres choisis soit parmi les magistrats, soit parmi les
 fonctionnaires appartenant aux catégories mentionnées à l'article R. 143-15 ;

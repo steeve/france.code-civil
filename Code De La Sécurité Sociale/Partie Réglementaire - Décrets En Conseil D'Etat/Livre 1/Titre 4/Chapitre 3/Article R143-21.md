@@ -24,9 +24,9 @@ rural est introduit dans le même délai à compter du jour de la décision.
 Au cas où le requérant aurait, au préalable, dans les conditions de délai
 indiquées aux quatre alinéas précédents, saisi, selon le cas, la caisse
 régionale d'assurance maladie ou la caisse de mutualité sociale agricole d'une
-réclamation gracieuse, le délai de recours devant la commission court du jour où
-est notifiée la décision de la caisse sur le recours gracieux. Toutefois, si à
+réclamation gracieuse, le délai de recours devant la cour court du jour où est
+notifiée la décision de la caisse sur le recours gracieux. Toutefois, si à
 l'expiration d'un délai de deux mois à compter de l'introduction du recours
 gracieux, l'intéressé n'a pas reçu notification d'une telle décision, le recours
-doit être regardé comme rejeté et le délai imparti pour saisir la commission
-court du jour où intervient cette décision implicite de rejet.
+doit être regardé comme rejeté et le délai imparti pour saisir la cour court du
+jour où intervient cette décision implicite de rejet.

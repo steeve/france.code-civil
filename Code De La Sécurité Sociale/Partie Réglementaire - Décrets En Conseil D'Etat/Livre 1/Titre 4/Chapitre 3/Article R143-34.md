@@ -1,7 +1,8 @@
 Article R143-34
 ----
 Dans le cas où une expertise ou un examen complémentaire est ordonné par les
-commissions régionales ou par la commission nationale technique :
+tribunaux du contentieux de l'incapacité ou par la Cour nationale de
+l'incapacité et de la tarification de l'assurance des accidents du travail :
 
 1°) les frais de déplacement du malade ou de la victime, ainsi que les
 honoraires et les frais de déplacement du médecin expert, sont réglés dans les

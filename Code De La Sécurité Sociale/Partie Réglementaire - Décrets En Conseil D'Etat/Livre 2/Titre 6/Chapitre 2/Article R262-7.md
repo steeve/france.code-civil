@@ -1,13 +1,17 @@
 Article R262-7
 ----
 Les opérations d'acquisition, de construction ou d'aménagement d'immeubles en
-vue de la réalisation d'oeuvres ou d'institutions sanitaires ou sociales des
-caisses régionales et primaires d'assurance maladie sont soumises à
-l'autorisation du ministre chargé de la sécurité sociale.
+vue de la réalisation d'établissements de santé, au sens de l'article L. 711-1
+du code de la santé publique, des caisses régionales et primaires d'assurance
+maladie ou de leurs unions sont soumises à l'autorisation du directeur de
+l'agence régionale de l'hospitalisation.
 
-En ce qui concerne les travaux à exécuter dans les immeubles déjà utilisés pour
-le fonctionnement d'oeuvres ou d'institutions sanitaires et sociales, délégation
-peut être donnée aux commissaires de la République de région [*autorité
-compétente*] pour statuer sur les demandes d'autorisation, lorsque le montant
-des travaux ne dépasse pas un plafond fixé par arrêté du ministre chargé de la
-sécurité sociale.
+Les opérations d'acquisition, de construction ou d'aménagement d'immeubles en
+vue de la réalisation d'établissements sociaux ou médico-sociaux des caisses
+régionales et primaires d'assurance maladie relevant de la loi du 30 juin 1975
+sont soumises à l'autorisation du préfet de département.
+
+Les mêmes opérations sont soumises à l'autorisation de la caisse nationale pour
+les établissements ou oeuvres des caisses régionales et primaires d'assurance
+maladie ou de leurs unions dont le budget est soumis à son approbation en
+application de l'article L. 153-2.

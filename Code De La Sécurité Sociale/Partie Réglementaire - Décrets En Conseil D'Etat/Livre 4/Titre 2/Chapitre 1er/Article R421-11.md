@@ -8,11 +8,11 @@ organisations professionnelles de travailleurs et d'employeurs reconnues les
 plus représentatives par le préfet de région. Des membres suppléants en nombre
 égal à celui des titulaires sont désignés dans les mêmes conditions.
 
-Le directeur régional des affaires sanitaires et sociales et le directeur
-régional du travail et de l'emploi et, le cas échéant, le fonctionnaire chargé
-de l'inspection du travail en vertu d'une législation spéciale, assistent aux
-séances desdits comités avec voix consultative. Chacun d'eux peut se faire
-représenter par un fonctionnaire placé sous son autorité.
+Le directeur régional du travail, de l'emploi et de la formation professionnelle
+et, le cas échéant, le fonctionnaire chargé de l'inspection du travail en vertu
+d'une législation spéciale, assistent aux séances desdits comités avec voix
+consultative. Chacun d'eux peut se faire représenter par un fonctionnaire placé
+sous son autorité.
 
 Les comités techniques peuvent s'adjoindre des spécialistes des questions de
 prévention des accidents du travail et maladies professionnelles, notamment des

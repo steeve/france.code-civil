@@ -1,12 +1,9 @@
 Article R143-27
 ----
-Chaque section est chargée de l'instruction des affaires qui lui ont été
-attribuées.
+La Cour nationale de l'incapacité et de la tarification de l'assurance des
+accidents du travail doit faire procéder à l'examen préalable, par un médecin
+qualifié, de tout dossier qui lui est soumis en appel des décisions prises par
+les tribunaux du contentieux de l'incapacité.
 
-Le président de la section désigne, pour chaque affaire, le rapporteur parmi les
-membres de la section ou éventuellement parmi les personnes figurant sur une
-liste établie par arrêté du ministre chargé de la sécurité sociale ou du
-ministre chargé de l'agriculture, suivant les cas.
-
-Les rapporteurs autres que les membres de la section n'ont pas voix
-délibérative.
+Ce médecin est choisi sur une liste établie par arrêté du ministre chargé de la
+sécurité sociale ou du ministre chargé de l'agriculture selon le cas.

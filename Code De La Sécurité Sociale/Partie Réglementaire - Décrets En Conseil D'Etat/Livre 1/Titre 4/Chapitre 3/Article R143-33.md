@@ -1,7 +1,8 @@
 Article R143-33
 ----
-Les décisions des commissions régionales et de la commission nationale technique
-doivent mentionner les noms du président et des assesseurs, ceux des
+Les décisions des tribunaux du contentieux de l'incapacité et de la Cour
+nationale de l'incapacité et de la tarification de l'assurance des accidents du
+travail doivent mentionner les noms du président et des assesseurs, ceux des
 rapporteurs, ainsi que les nom, profession et demeure des parties.
 
 Elles doivent exposer succinctement les prétentions des parties et leurs

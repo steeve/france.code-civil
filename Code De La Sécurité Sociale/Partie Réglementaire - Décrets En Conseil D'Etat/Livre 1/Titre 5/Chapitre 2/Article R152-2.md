@@ -1,8 +1,8 @@
 Article R152-2
 ----
 Les délibérations du conseil d'administration et du comité d'action sanitaire et
-sociale des organismes de mutualité sociale agricole sont communiquées dans le
-délai maximal de vingt jours au préfet de région.
+sociale des organismes de mutualité sociale agricole sont immédiatement
+communiquées au préfet de région.
 
 La communication doit être accompagnée de tout document de nature à éclairer le
 sens et la portée des décisions prises, notamment en ce qui concerne les

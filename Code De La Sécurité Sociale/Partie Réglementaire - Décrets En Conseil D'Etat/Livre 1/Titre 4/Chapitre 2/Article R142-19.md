@@ -1,17 +1,30 @@
 Article R142-19
 ----
-Le secrétaire du tribunal convoque les parties huit jours au moins avant la date
-d'audience.
+Le secrétaire du tribunal convoque les parties par lettre recommandée avec
+demande d'avis de réception ou par la remise de l'acte au destinataire contre
+émargement ou récépissé, quinze jours au moins avant la date d'audience ; copie
+de la convocation est envoyée le même jour par lettre simple. Toutefois, les
+organismes de sécurité sociale peuvent en toutes circonstances être convoqués
+par lettre simple.
 
 La convocation doit contenir les nom, profession et adresse du réclamant,
 l'objet de la demande ainsi que la date et l'heure de l'audience.
 
-Dans le cas où l'une des parties n'a pas déféré à une première convocation, elle
-doit être convoquée à une nouvelle audience par lettre recommandée avec demande
-d'avis de réception. La partie présente est convoquée à cette nouvelle audience
-verbalement avec émargement au dossier et remise par le greffe d'un bulletin
-mentionnant la date de l'audience.
+La convocation est réputée faite à personne lorsque l'avis de réception est
+signé par son destinataire ou son mandataire.
 
-Dans le cas où il n'est pas établi par l'avis de réception que la lettre de
-convocation est parvenue à son destinataire, le président ordonne une nouvelle
-convocation par acte d'huissier de justice.
+En cas de retour au secrétariat du tribunal de la lettre recommandée qui n'a pu
+être remise à son destinataire, le président ordonne :
+
+- soit une nouvelle convocation par lettre recommandée avec demande d'avis de
+réception lorsqu'il apparaît que la première lettre recommandée n'a pas été
+réclamée par son destinataire ;
+
+- soit une nouvelle convocation par acte d'huissier de justice lorsqu'il
+apparaît que le destinataire n'habite pas à l'adresse indiquée ou que le
+destinataire n'a pas retiré la deuxième convocation.
+
+Dans le cas où l'audience n'a pu se tenir en raison de l'absence d'une des
+parties, la partie présente est convoquée verbalement à une nouvelle audience
+avec émargement au dossier et remise, par le greffe, d'un bulletin mentionnant
+la date et l'heure de l'audience.

@@ -1,9 +1,9 @@
 Article R143-2
 ----
 Le contentieux de l'application des législations de mutualité sociale agricole
-est dévolu pour chaque région à une commission unique.
+est dévolu pour chaque région à un tribunal unique.
 
-La compétence de cette commission porte sur les contestations relatives :
+La compétence de ce tribunal porte sur les contestations relatives :
 
 1°) à l'état et au degré d'invalidité pour l'application du régime agricole des
 assurances sociales et du régime d'assurance maladie, maternité et invalidité
@@ -17,7 +17,3 @@ chapitres 1er et 5 du titre Ier du livre VIII du présent code et des articles L
 
 3°) à l'état d'incapacité de travail pour bénéficier de l'exonération partielle
 des cotisations d'allocations familiales.
-
-Le ministre chargé de l'agriculture peut, par arrêté, répartir les compétences
-ci-dessus définies entre, d'une part, des commissions régionales d'invalidité,
-et, d'autre part, des commissions régionales d'inaptitude au travail.

@@ -1,24 +1,23 @@
 Article R123-48
 ----
-Le ministre intéressé procède à l'agrément des agents de direction, à savoir des
-directeur, directeur adjoint, sous-directeur et secrétaire général des
-organismes de sécurité sociale, de leurs unions ou fédérations.
+Les agents de direction et les agents comptables des organismes de sécurité
+sociale, de leurs unions ou fédérations, ainsi que les directeurs des
+établissements ou oeuvres sociales des organismes de sécurité sociale mentionnés
+à l'article R. 123-4, sont agréés dans les conditions prévues à la présente
+sous-section. Le terme agents de direction s'entend des directeur, directeur
+adjoint, sous-directeur et secrétaire général, ainsi que des directeurs délégués
+mentionnés à l'article R. 224-6.
 
-Le ministre intéressé et le ministre chargé du budget procèdent conjointement à
-l'agrément de l'agent comptable des organismes de sécurité sociale, de leurs
-unions ou fédérations.
+Toutefois, les dispositions de la présente sous-section ne sont pas applicables
+:
 
-Le retrait d'agrément des agents de direction ou de l'agent comptable peut être
-prononcé après que l'intéressé et l'organisme qui l'emploie ont été, par la
-communication des motifs de la mesure envisagée, mis à même de présenter leurs
-observations.
+- aux organismes de sécurité sociale ayant le caractère d'établissement public
+pour le directeur et l'agent comptable ;
 
-Le retrait d'agrément entraîne de plein droit cessation des fonctions pour
-lesquelles l'agrément avait été accordé.
+- à la Caisse autonome nationale de la sécurité sociale dans les mines pour ses
+directeur, directeur adjoint et agent comptable ;
 
-Les dispositions du présent article sont applicables à tous organismes, à
-l'exception de ceux ayant le caractère d'établissement public, de la caisse
-autonome nationale de la sécurité sociale dans les mines, pour ses directeur,
-directeur adjoint et agent comptable, des organismes d'assurance vieillesse des
-professions libérales, des caisses mutuelles d'assurance maladie et d'assurance
-vieillesse des cultes.
+- aux organismes d'assurance vieillesse des professions libérales ;
+
+- et aux caisses mutuelles d'assurance maladie et d'assurance vieillesse des
+cultes.

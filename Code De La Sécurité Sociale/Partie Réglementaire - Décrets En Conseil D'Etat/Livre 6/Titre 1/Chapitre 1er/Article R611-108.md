@@ -10,6 +10,7 @@ dans le cas où lesdites décisions lui paraissent contraires à la loi, soit en
 prononcer l'annulation, soit en suspendre l'exécution jusqu'à décision du
 ministre chargé de la sécurité sociale qu'il saisit aux fins d'annulation. Le
 ministre informe la caisse nationale qui lui fait connaître, le cas échéant, son
-avis. Si la décision ministérielle n'intervient pas dans le délai d'un mois à
-compter de la date à laquelle le ministre a été saisi, la décision du conseil
-d'administration prend son entier effet [*accord tacite*].
+avis. Lorsque la décision ministérielle n'intervient pas dans le délai de
+quarante jours à compter de la date de suspension par le préfet de région de la
+décision du conseil d'administration, cette décision est exécutoire de plein
+droit.
