@@ -86,15 +86,15 @@ II. Le surplus des ressources du fonds défini au 2° du I comporte :
 
 1° (Abrogé) ;
 
-2° Une première part, ((au plus égale à 27 % de ce surplus)) (M), qui sert à
-verser une compensation aux communes qui enregistrent d'une année sur l'autre
-une perte importante de bases d'imposition à la taxe professionnelle. Cette
-compensation est versée de manière dégressive sur deux ans. Ce délai est porté à
-quatre ans pour les communes bénéficiaires de cette première part, à compter du
-1er janvier 1990.
+2° Une première part, au plus égale à 27 % de ce surplus, qui sert à verser une
+compensation aux communes qui enregistrent d'une année sur l'autre une perte
+importante de bases d'imposition à la taxe professionnelle. Cette compensation
+est versée de manière dégressive sur deux ans. Ce délai est porté à quatre ans
+pour les communes bénéficiaires de cette première part, à compter du 1er janvier
+1990.
 
-((Ce délai est réduit à trois ans pour les communes bénéficiaires de cette
-première part, à compter du 1er janvier 1998)) (M).
+Ce délai est réduit à trois ans pour les communes bénéficiaires de cette
+première part, à compter du 1er janvier 1998.
 
 Les conditions que doivent remplir les communes pour bénéficier de cette
 première part ainsi que le calcul des attributions qui leur reviennent sont
@@ -114,15 +114,15 @@ La troisième année, de 50 p. 100 de l'attribution reçue la première année ;
 
 La quatrième année, de 25 p. 100 de l'attribution reçue la première année.
 
-((A compter du 1er janvier 1998, les communes dont les pertes de bases sont
+A compter du 1er janvier 1998, les communes dont les pertes de bases sont
 compensées sur trois ans bénéficient :
 
-((- la première année, d'une attribution au plus égale à 90 % de la perte de
-bases qu'elles ont enregistrée ;
+- la première année, d'une attribution au plus égale à 90 % de la perte de bases
+qu'elles ont enregistrée ;
 
-((- la deuxième année, de 75 % de l'attribution reçue l'année précédente ;
+- la deuxième année, de 75 % de l'attribution reçue l'année précédente ;
 
-((- la troisième année, de 50 % de l'attribution reçue la première année)) (M).
+- la troisième année, de 50 % de l'attribution reçue la première année.
 
 Toutefois, à compter du 1er janvier 1986, cette durée est portée à cinq ans pour
 les communes situées dans les cantons où l'Etat anime une politique de
@@ -132,6 +132,43 @@ Les groupements de communes dotés d'une fiscalité propre qui remplissent les
 conditions fixées par décret en Conseil d'Etat bénéficient, à compter du 1er
 janvier 1992, de la compensation prévue au présent 1°, selon les modalités
 prévues pour les communes (3).
+
+((2° bis. Une deuxième part qui sert à verser, en 1999, en 2000 et en 2001 :
+
+((a) Une compensation aux communes éligibles en 1998 à la dotation de solidarité
+urbaine prévue à l'article L. 2334-15 du code général des collectivités
+territoriales et aux communes bénéficiaires, en 1998, de la première fraction de
+la dotation de solidarité rurale visée à l'article L. 2334-21 du code général
+des collectivités territoriales, et qui connaissent en 1999 une baisse de la
+dotation prévue au IV de l'article 6 de la loi de finances pour 1987 (n° 86-1317
+du 30 décembre 1986). Les attributions qui reviennent aux communes bénéficiaires
+de cette part sont égales à la baisse enregistrée par chaque commune entre 1998
+et 1999 de la dotation prévue au IV de l'article 6 de la loi de finances
+précitée ;
+
+((b) Une compensation aux établissements publics de coopération intercommunale à
+fiscalité propre dont un membre au moins est éligible, en 1998, soit à la
+dotation de solidarité urbaine prévue à l'article L. 2334-15 du code général des
+collectivités territoriales, soit à la première fraction de la dotation de
+solidarité rurale visée à l'article L. 2334-21 du code général des collectivités
+territoriales. Les attributions qui reviennent aux groupements bénéficiaires de
+cette part sont égales à la baisse enregistrée par chaque groupement, entre 1998
+et 1999, de la dotation prévue au IV de l'article 6 de la loi de finances pour
+1987 (n° 86-1317 du 30 décembre 1986), à hauteur du pourcentage que représente
+la population des communes éligibles soit à la dotation de solidarité urbaine,
+soit à la première fraction de la dotation de solidarité rurale, membres du
+groupement dans la population totale du groupement ;
+
+((c) Une compensation aux communes bénéficiaires en 1998 de la seconde fraction
+de la dotation de solidarité rurale visée à l'article L. 2334-22 du code général
+des collectivités territoriales et dont le potentiel fiscal par habitant, tel
+qu'il est défini à l'article L. 2334-4 du code précité est inférieur à 90 % du
+potentiel fiscal moyen par habitant des communes appartenant au même groupe
+démographique, et qui connaissent en 1999 une baisse de la dotation prévue au IV
+de l'article 6 de la loi de finances pour 1987 (n° 86-1317 du 30 décembre 1986).
+Les attributions qui reviennent aux communes bénéficiaires de cette part sont
+égales à la baisse enregistrée par chaque commune entre 1998 et 1999 de la
+dotation prévue au IV de l'article 6 de la loi de finances précitée)) (M).
 
 3° Une part résiduelle, au plus égale à 5 p. 100 de ce surplus et qui est versée
 aux communes qui connaissent des difficultés financières graves en raison d'une
@@ -160,12 +197,12 @@ A V ter.
 V. Les modalités d'application du présent article sont fixées par décret en
 Conseil d'Etat (1).
 
-(M) Modification.
-
-(1) Décret 85-260 du 22 février 1985 (JO du 24), décret 91-1081 du 14 octobre
-1991 (JO du 19) et décret n° 92-568 du 30 juin 1992 (JO du 1er juillet).
+(1) Décret 85-260 du 22 février 1985 (JO du 24) modifié, décret 91-1081 du 14
+octobre 1991 (JO du 19) et décret n° 92-568 du 30 juin 1992 (JO du 1er juillet).
 
 (2) Décret n° 86-422 du 12 mars 1986 (JO du 15).
 
-(3) Décret n° 85-260 du 22 février 1985 (JO du 24) et décret 92-568 du 30 juin
-1992 (JO du 1er juillet).
+(3) Décret 85-260 du 22 février 1985 (JO du 24) modifié, et décret n° 92-568 du
+30 juin 1992 (JO du 1er juillet).
+
+(M) Modification.

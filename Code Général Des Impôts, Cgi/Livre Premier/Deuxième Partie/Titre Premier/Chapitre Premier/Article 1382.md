@@ -40,9 +40,10 @@ Les haras.
 
 Sous réserve des dispositions du 9°, cette exonération n'est pas applicable aux
 immeubles qui appartiennent à des établissements publics autres que les
-établissements scientifiques, d'enseignement et d'assistance, ni aux organismes
-de l'Etat, des départements ou des communes ayant un caractère industriel ou
-commercial (1).
+établissements publics de coopération intercommunale, les syndicats mixtes, les
+ententes interdépartementales, (1) les établissements scientifiques,
+d'enseignement et d'assistance, ni aux organismes de l'Etat, des départements ou
+des communes ayant un caractère industriel ou commercial.
 
 Les immeubles qui sont incorporés gratuitement au domaine de l'Etat, des
 collectivités locales ou des établissements publics, en vertu d'une convention,
@@ -58,7 +59,7 @@ départements ou aux communes, ou attribués, en vertu des dispositions de
 l'article 4 de la loi du 9 décembre 1905, aux associations ou unions prévues par
 le titre IV de la même loi ainsi que ceux attribués en vertu des dispositions de
 l'article 112 de la loi du 29 avril 1926 aux associations visées par cet article
-et ceux acquis ou édifiés par lesdites associations ou unions ; Les édifices
+et ceux acquis ou édifiés par lesdites associations ou unions ; les édifices
 affectés à l'exercice du culte qui, dans les départements du Bas-Rhin, du
 Haut-Rhin et de la Moselle, appartiennent à des associations ayant pour objet
 exclusif l'exercice d'un culte non reconnu ;
@@ -70,9 +71,10 @@ membres de ces associations.
 6° a. Les bâtiments qui servent aux exploitations rurales tels que granges,
 écuries, greniers, caves, celliers, pressoirs et autres, destinés, soit à loger
 les bestiaux des fermes et métairies ainsi que le gardien de ces bestiaux, soit
-à serrer les récoltes ; L'exonération est toutefois maintenue lorsque ces
-bâtiments ne servent plus à une exploitation rurale et ne sont pas affectés à un
-autre usage
+à serrer les récoltes.
+
+L'exonération est toutefois maintenue lorsque ces bâtiments ne servent plus à
+une exploitation rurale et ne sont pas affectés à un autre usage ;
 
 b. Dans les mêmes conditions qu'au premier alinéa du a, les bâtiments affectés à
 un usage agricole par les sociétés coopératives agricoles, par les collectivités
@@ -87,7 +89,7 @@ céréales en vue du logement des blés excédentaires.
 
 Le bénéfice de l'exonération est également maintenu aux coopératives de céréales
 et à leurs unions pour les opérations qu'elles effectuent avec l'office national
-interprofessionnel des céréales [*ONIC*] relativement à l'achat, la vente, la
+interprofessionnel des céréales relativement à l'achat, la vente, la
 transformation ou le transport de céréales ; il en est de même pour les
 opérations effectuées par des coopératives de céréales avec d'autres
 coopératives de céréales dans le cadre de programmes élaborés par l'office ou
@@ -111,7 +113,7 @@ du 10 avril 1945, relative aux travaux préliminaires à la reconstruction, et q
 demeurent la propriété de l'Etat ;
 
 11° Les outillages et autres installations et moyens matériels d'exploitation
-des établissements industriels à l'exclusion de ceux visés à l'article 1381-1°
+des établissements industriels à l'exclusion de ceux visés à l'article 1381 1°
 et 2°.
 
-(1) Annexe IV, art. 165 et 167.
+(1) Ces dispositions s'appliquent aux impositions établies à compter de 1999.

@@ -7,14 +7,14 @@ pourcentage)
 
 N'excédant pas 4 700 000 F : 0
 
-Comprise entre 4 700 000 F et 7 640 000 F : 0,5
+Comprise entre 4 700 000 F et 7 640 000 F : 0,55
 
-Comprise entre 7 640 000 F et 15 160 000 F : 0,7
+Comprise entre 7 640 000 F et 15 160 000 F : 0,75
 
-Comprise entre 15 160 000 F et 23 540 000 F : 0,9
+Comprise entre 15 160 000 F et 23 540 000 F : 1
 
-Comprise entre 23 540 000 F et 45 580 000 F : 1,2
+Comprise entre 23 540 000 F et 45 580 000 F : 1,30
 
-Supérieure à 45 580 000 F : 1,5 (M).
+Comprise entre 45 580 000 F et 100 000 000 F : 1,65
 
-(M) Modification.
+Supérieure à 100 000 000 F : 1,80.

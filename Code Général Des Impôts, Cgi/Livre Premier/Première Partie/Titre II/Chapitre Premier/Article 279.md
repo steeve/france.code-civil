@@ -8,22 +8,22 @@ a - Les prestations relatives :
 - à la fourniture de logement et aux trois quarts du prix de pension ou de
 demi-pension dans les établissements d'hébergement ; ce taux s'applique aux
 locations meublées dans les mêmes conditions que pour les établissements
-d'hébergement (1) ;
+d'hébergement ;
 
 - à la fourniture de logement et de nourriture dans les maisons de retraite ; ce
 taux s'applique également aux prestations exclusivement liées à l'état de
 dépendance des personnes âgées hébergées dans ces établissements et qui sont
-dans l'incapacité d'accomplir les gestes essentiels de la vie quotidienne (2) ;
+dans l'incapacité d'accomplir les gestes essentiels de la vie quotidienne ;
 
 - à la fourniture de logement dans les terrains de camping classés, lorsque
 l'exploitant du terrain de camping délivre une note dans les conditions fixées
 au a ter, assure l'accueil et consacre 1,5 p. 100 de son chiffre d'affaires
 total hors taxes à des dépenses de publicité, ou si l'hébergement est assuré par
 un tiers lorsque celui-ci consacre 1,5 p. 100 de son chiffre d'affaires total en
-France à la publicité (2) ;
+France à la publicité ;
 
 a bis - Les recettes provenant de la fourniture des repas dans les cantines
-d'entreprises et répondant aux conditions qui sont fixées par décret (3) ;
+d'entreprises et répondant aux conditions qui sont fixées par décret ;
 
 a ter - Les locations d'emplacements sur les terrains de camping classés, à
 condition que soit délivrée à tout client une note d'un modèle agréé par
@@ -37,10 +37,10 @@ la sécurité sociale.
 
 b. 1° Les remboursements et les rémunérations versés par les communes ou leurs
 groupements aux exploitants des services de distribution d'eau et
-d'assainissement (4) ;
+d'assainissement ;
 
 2° Les taxes, surtaxes et redevances perçues sur les usagers des réseaux
-d'assainissement (4) ;
+d'assainissement ;
 
 b bis - Les spectacles suivants :
 
@@ -61,16 +61,16 @@ b bis - Les spectacles suivants :
 ceux qui sont assimilés à des loteries foraines en application de l'article 7 de
 la loi du 21 mai 1836 portant prohibition des loteries ;
 
-((b bis a - 1° le prix du billet d'entrée donnant exclusivement accès à des
+b bis a - 1° le prix du billet d'entrée donnant exclusivement accès à des
 concerts donnés dans des établissements où il est servi facultativement des
 consommations pendant le spectacle ;
 
-((2° les dispositions du 1° s'appliquent aux établissements titulaires de la
-licence de catégorie V prévue à l'article 1er de l'ordonnance n° 45-2339 du 13
-octobre 1945 relative aux spectacles qui justifient avoir organisé au minimum
-vingt concerts l'année précédente ;
+2° les dispositions du 1° s'appliquent aux ((établissements dont l'exploitant
+est titulaire de la licence de la catégorie mentionnée au 1° de l'article 1er-1
+de l'ordonnance n° 45-2339 du 13 octobre 1945)) (M) relative aux spectacles qui
+justifient avoir organisé au minimum vingt concerts l'année précédente ;
 
-((3° un décret fixe les modalités d'application des 1° et 2°)) (M) (5);
+3° un décret fixe les modalités d'application des 1° et 2° ;
 
 b ter - Les droits d'entrée pour la visite des parcs zoologiques et botaniques,
 des musées, monuments, grottes et sites ainsi que des expositions culturelles ;
@@ -111,7 +111,8 @@ manifestations organisées, l'exploitant doit faire apparaître dans sa
 comptabilité une ventilation des recettes correspondant à chaque taux. La
 détermination de l'assiette de l'impôt s'effectue sur une base réelle ;
 
-b decies - (Abrogé à compter du 1er janvier 1995) ;
+((b decies - Les abonnements relatifs aux livraisons d'électricité et de gaz
+combustible, distribués par réseaux publics)) (M) ;
 
 c, d, e (Abrogé) (à compter du 1er janvier 1993) ;
 
@@ -119,24 +120,19 @@ f. Les prestations pour lesquelles les avocats, les avocats au Conseil d'Etat et
 à la Cour de cassation et les avoués sont indemnisés totalement ou partiellement
 par l'Etat dans le cadre de l'aide juridictionnelle.
 
-g) Les cessions des droits patrimoniaux reconnus par la loi aux auteurs des
+g. Les cessions des droits patrimoniaux reconnus par la loi aux auteurs des
 oeuvres de l'esprit et aux artistes-interprètes ainsi que de tous droits portant
 sur les oeuvres cinématographiques et sur les livres.
 
 Cette disposition n'est pas applicable aux cessions de droits portant sur des
 oeuvres d'architecture et des logiciels.
 
-(1) Annexe IV, art. 30.
+((h. Les prestations de collecte, de tri et de traitement des déchets visés aux
+articles L. 2224-13 et L. 2224-14 du code général des collectivités
+territoriales, portant sur des matériaux ayant fait l'objet d'un contrat conclu
+entre une commune ou un établissement public de coopération intercommunale et un
+organisme ou une entreprise agréé au titre de la loi n° 75-633 du 15 juillet
+1975 relative à l'élimination des déchets et à la récupération des matériaux))
+(M).
 
-(2) Cette disposition s'applique aux opérations dont le fait générateur
-intervient à compter du 1er janvier 1996. [*Cf. Instruction 1996-07-18
-3C-4-96*].
-
-(3) Annexe III, art. 85 bis.
-
-(4) Disposition à caractère interprétatif.
-
-(Cf. Instruction 1996-06-25 3C-3-96).
-
-(M) Modification. Ces dispositions s'appliquent du 1er janvier 1997 au 31
-décembre 1999.
+(M) Modification.

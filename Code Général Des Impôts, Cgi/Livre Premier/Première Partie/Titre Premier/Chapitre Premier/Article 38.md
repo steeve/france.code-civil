@@ -54,21 +54,30 @@ initialement comptabilisés sont déterminés à la clôture de chaque exercice 
 fonction du dernier cours de change et pris en compte pour la détermination du
 résultat imposable de l'exercice (1').
 
-Lorsque des établissements de crédit mentionnés à l'article 38 bis A évaluent
-les titres libellés en monnaie étrangère à la clôture de chaque exercice en
-fonction du dernier cours de change connu, les écarts de conversion constatés
-sont pris en compte pour la détermination du résultat imposable de l'exercice. A
-la clôture de chaque exercice, le prix de revient des titres est augmenté ou
-diminué, selon les cas, des écarts de conversion mentionnés à ce même alinéa.
-Toutefois, lorsque les établissements concernés détiennent des titres
-d'investissement mentionnés à l'article 38 bis B et des titres de participation,
-libellés en monnaie étrangère et dont l'acquisition a été financée en francs,
-les écarts de conversion mentionnés au présent alinéa et constatés sur ces
-titres ne sont pas pris en compte dans le résultat fiscal de l'exercice ; dans
-ce cas, sur le plan fiscal, le prix de revient de ces titres ne tient pas compte
-des écarts de conversion. Ces dispositions sont applicables aux écarts de change
-relatifs à la période postérieure à l'ouverture du premier exercice clos à
-compter du 31 décembre 1990.
+Lorsque des établissements de crédit ((ou des entreprises d'investissement)) (M)
+mentionnés à l'article 38 bis A évaluent les titre libellés en monnaie étrangère
+à la clôture de chaque exercice en fonction du dernier cours de change connu,
+les écarts de conversion constatés sont pris en compte pour la détermination du
+résultat imposable de l'exercice. A la clôture de chaque exercice, le prix de
+revient des titres est augmenté ou diminué, selon les cas, des écarts de
+conversion mentionnés à ce même alinéa. Toutefois, lorsque les établissements
+((ou les entreprises )) (M) (2) concernés détiennent des titres d'investissement
+mentionnés à l'article 38 bis B et des titres de participation, libellés en
+monnaie étrangère et dont l'acquisition a été financée en francs, les écarts de
+conversion mentionnés au présent alinéa et constatés sur ces titres ne sont pas
+pris en compte dans le résultat fiscal de l'exercice ; dans ce cas, sur le plan
+fiscal, le prix de revient de ces titres ne tient pas compte des écarts de
+conversion. Ces dispositions sont applicables aux écarts de change relatifs à la
+période postérieure à l'ouverture du premier exercice clos à compter du 31
+décembre 1990.
+
+((Pour l'exercice clos le 31 décembre 1998 ou la période d'imposition arrêtée à
+la même date, les écarts de conversion afférents aux devises, créances, dettes
+et titres mentionnés aux premier et deuxième alinéas et libellés en écus ou en
+unités monétaires des Etats participant à la monnaie unique, sont déterminés en
+fonction des taux de conversion définis à l'article 1er du règlement n°
+97/1103/CE du Conseil, du 17 juin 1997, fixant certaines dispositions relatives
+à l'introduction de l'euro)) (M).
 
 5. Le profit ou la perte résultant de cessions de titres par un fonds commun de
 placement est compris dans le résultat de l'exercice au cours duquel les parts
@@ -90,7 +99,7 @@ duquel intervient l'échange.
 
 Les dispositions des premier et deuxième alinéas ne sont pas applicables si la
 soulte excède 10 p. 100 de la valeur nominale des parts ou actions reçues, ou si
-elle excède le profit réalisé (3).
+elle excède le profit réalisé (4).
 
 6. 1° Par exception aux 1 et 2, le profit ou la perte résultant de l'exécution
 de contrats à terme d'instruments financiers en cours à la clôture de l'exercice
@@ -100,16 +109,16 @@ conclu.
 
 Ces dispositions s'appliquent aux contrats, options et autres instruments
 financiers à terme conclus en France ou à l'étranger, qui sont cotés sur une
-bourse de valeurs ou traités sur un marché ou par référence à un marché (4) à
+bourse de valeurs ou traités sur un marché ou par référence à un marché (5) à
 l'exception des contrats visés au quatrième alinéa du 7, reçus dans le cadre
-d'une opération d'échange visée à ce même alinéa (4') ;
+d'une opération d'échange visée à ce même alinéa ;
 
 2° Dans le cas où un contrat à terme d'instruments financiers en cours à la
 clôture de l'exercice a pour clause exclusive de compenser le risque d'une
 opération de l'un des deux exercices suivants, traitée sur un marché de nature
 différente, l'imposition du profit réalisé sur le contrat est reportée au
 dénouement de celui-ci, à condition que les opérations dont la compensation est
-envisagée figurent sur le document prévu au 3° (5);
+envisagée figurent sur le document prévu au 3° (6);
 
 2° bis Le profit sur un contrat à terme portant sur des devises et ayant pour
 seul objet la couverture du risque de change d'une opération future est imposé
@@ -138,7 +147,7 @@ nature ou prises sur la même place, ou qu'elles aient la même durée.
 Les positions symétriques prises au cours de l'exercice et celles qui sont en
 cours à la clôture doivent être mentionnées sur un document annexé à la
 déclaration de résultats de l'exercice. A défaut, la perte sur une position
-n'est pas déductible du résultat imposable (6).
+n'est pas déductible du résultat imposable (7).
 
 7. Le profit ou la perte résultant de l'échange d'actions effectué dans le cadre
 d'une offre publique d'échange ou de la conversion d'obligations en actions,
@@ -200,7 +209,7 @@ de la conversion, la valeur mentionnée à la deuxième phrase du premier aliné
 est répartie proportionnellement à la valeur réelle à la date de cette opération
 ou à la valeur résultant de leur première cotation si les titres reçus sont des
 actions assorties de droits de souscription d'actions, attachés ou non, émises
-pour un prix unique à l'occasion d'une telle opération (7).
+pour un prix unique à l'occasion d'une telle opération (8).
 
 Pour les opérations réalisées au cours d'exercices clos à compter du 31 décembre
 1994, les dispositions du présent 7 ne sont pas applicables si l'un des
@@ -232,7 +241,7 @@ vote ou de ces dernières en actions ordinaires.
 Les dispositions du présent 7 s'appliquent au remboursement, par la société
 émettrice, des porteurs d'obligations remboursables en actions, lorsque cette
 même société procède à l'opération susvisée par émission concomitante d'actions
-(7).
+(8).
 
 7 bis. Le profit ou la perte réalisé lors de l'échange de droits sociaux
 résultant d'une fusion de sociétés, ou d'une scission de société bénéficiant du
@@ -247,7 +256,7 @@ bénéficiaire des apports reçus en contrepartie de ceux-ci est égale au produ
 de la valeur fiscale des titres de la société scindée par le rapport existant à
 la date de l'opération de scission entre la valeur réelle des titres de chaque
 société bénéficiaire dans le cadre de cette opération et la valeur réelle des
-titres de la société scindée (8).
+titres de la société scindée (9).
 
 Toutefois, en cas d'échange avec soulte, la plus-value réalisée est, à
 concurrence du montant de la soulte reçue, comprise dans le bénéfice de
@@ -282,16 +291,16 @@ résultats imposables de l'exercice de péremption de ces droits lorsqu'ils n'on
 pas été exercés.
 
 9. 1° L'application de la méthode d'évaluation prévue à l'article 340-4 de la
-loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales n'a pas
-d'incidence sur les résultats imposables, par dérogation aux 1 et 2 du présent
-article ;
+loi n° 66-537 du 24 juillet 1966 ((modifiée)) (M1) sur les sociétés commerciales
+n'a pas d'incidence sur les résultats imposables, par dérogation aux 1 et 2 du
+présent article ;
 
-2° Toutefois, les dispositions du ((quatorzième alinéa du 5° du 1 de l'article
-39)) (M) sont applicables à la fraction de la provision constituée à raison de
-l'écart d'équivalence négatif, qui correspond à la dépréciation définie au
-((quinzième alinéa du 5° du 1 de l'article 39)) (M), des titres évalués selon
-cette méthode. L'excédent éventuel de cette provision n'est pas déductible pour
-l'assiette de l'impôt.
+2° Toutefois, les dispositions du quatorzième alinéa du 5° du 1 de l'article 39
+sont applicables à la fraction de la provision constituée à raison de l'écart
+d'équivalence négatif, qui correspond à la dépréciation définie au quinzième
+alinéa du 5° du 1 de l'article 39, des titres évalués selon cette méthode.
+L'excédent éventuel de cette provision n'est pas déductible pour l'assiette de
+l'impôt.
 
 Les provisions qui sont transférées au poste d'écart d'équivalence ainsi que
 celles devenues sans objet en raison de l'application de la méthode d'évaluation
@@ -305,7 +314,7 @@ est déterminée en fonction de leur prix de revient ;
 
 4° Un décret définit les modalités d'application du présent article ainsi que
 les obligations déclaratives des entreprises qui appliquent la méthode
-d'évaluation prévue au 1° (9).
+d'évaluation prévue au 1° (10).
 
 10. La plus-value de cession d'un immeuble par une société civile immobilière
 non soumise à l'impôt sur les sociétés dont les parts ont été affectées par une
@@ -322,32 +331,30 @@ constatés par la société d'assurance.
 (1) En ce qui concerne les plus-values réalisées dans le cadre des opérations de
 nationalisation, voir art. 248 A.
 
-(1') [*Cf. Instruction 1995-02-06 4A-2-95*].
+(M) Modification.
 
-(2) Disposition applicable pour la détermination des résultats des exercices
+(2) Dispositions applicables aux exercices ouverts à compter du 1er janvier
+1998.
+
+(3) Disposition applicable pour la détermination des résultats des exercices
 clos à compter du 16 avril 1986. Pour les exercices en cours à cette date, voir
 loi n° 86-824 du 11 juillet 1986, art. 21-II.
 
-(3) Dispositions applicables à compter du 1er janvier 1991.
+(4) Dispositions applicables à compter du 1er janvier 1991.
 
-(4) Voir annexe III, art. 2 A.
+(5) Voir annexe III, art. 2 A.
 
-(4')Ces dispositions s'appliquent aux opérations d'échange réalisées à compter
-du 1er janvier 1997.
-
-(5) Voir annexe III, art. 2 B.
+(6) Voir annexe III, art. 2 B.
 
 Ces dispositions s'appliquent pour déterminer les résultats des exercices
 ouverts à compter du 1er janvier 1994.
 
-(6) Voir annexe III, art. 2 C.
+(7) Voir annexe III, art. 2 C.
 
-(7) Ces dispositions s'appliquent pour la détermination des résultats des
+(8) Ces dispositions s'appliquent pour la détermination des résultats des
 exercices ouverts à compter du 1er janvier 1994.
 
-(8) Ces dispositions s'appliquent aux opérations qui affectent les résultats des
+(9) Ces dispositions s'appliquent aux opérations qui affectent les résultats des
 exercices ouverts à compter du 1er janvier 1995.
 
-(M) Modification de la loi 97-1269.
-
-(9) Voir annexe III, art. 38 B.
+(10) Voir annexe III, art. 38 B.

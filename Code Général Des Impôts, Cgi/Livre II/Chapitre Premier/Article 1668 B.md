@@ -16,6 +16,10 @@ du montant de l'impôt sur les sociétés calculé sur les résultats de l'exerc
 ou de la période qui précède, imposables aux taux mentionnés au I de l'article
 219.
 
+((Le versement anticipé mentionné au premier alinéa est arrondi au franc ou à
+l'euro le plus proche. La fraction de franc ou d'euro égale à 0,50 est comptée
+pour 1)) (M).
+
 Lorsque la somme due au titre d'un exercice ou d'une période d'imposition en
 application du premier alinéa est supérieure à la contribution dont l'entreprise
 prévoit qu'elle sera finalement redevable au titre de ce même exercice ou de
@@ -24,8 +28,10 @@ l'excédent estimé. Elle remet alors au comptable du Trésor chargé du
 recouvrement des impôts directs, avant la date d'exigibilité du versement
 anticipé, une déclaration datée et signée.
 
-Si la déclaration mentionnée au deuxième alinéa est reconnue inexacte à la suite
-de la liquidation de la contribution, la majoration prévue au 1 de l'article
-1762 est appliquée aux sommes non réglées.
+Si la déclaration mentionnée au troisième alinéa est reconnue inexacte à la
+suite de la liquidation de la contribution, la majoration prévue au 1 de
+l'article 1762 est appliquée aux sommes non réglées.
 
 IV. Les modalités d'application du présent article sont fixées par décret.
+
+(M) Modification.

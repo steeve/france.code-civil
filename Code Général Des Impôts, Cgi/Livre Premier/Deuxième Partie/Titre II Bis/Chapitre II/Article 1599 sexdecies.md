@@ -28,7 +28,8 @@ II. Les concessionnaires et les agents de marques de véhicules automobiles sont
 exonérés des taxes édictées au I pour les véhicules neufs affectés à la
 démonstration et dont le poids total en charge n'excède par 3,5 tonnes.
 
-III. Lorsque l'application du tarif prévu au I fait apparaître des fractions de
-décimes, le montant de la taxe exigible est arrondi au décime inférieur.
+III. Lorsque l'application du tarif prévu au I fait apparaître des décimes, le
+montant de la taxe exigible est arrondi au franc le plus proche. La fraction de
+franc égale à 0,50 est comptée pour 1.
 
 (1) Annexe IV, art. 155 quater.

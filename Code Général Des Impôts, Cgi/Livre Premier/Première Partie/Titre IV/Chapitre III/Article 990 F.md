@@ -27,11 +27,3 @@ les dispositions de l'article 223 quinquies A.
 
 En cas de cession de l'immeuble, le représentant visé au I de l'article 244 bis
 A est responsable du paiement de la taxe restant due à cette date.
-
-(1) Annexe IV art. 121 K ter.
-
-[*Cf. Instruction 1993-10-23 7Q-3-93.*]
-
-La section 0II devient 0I bis dans l'édition du 31 mars 1999 :
-
-décret 99-381 du 18 mai 1999 art. 1, JO du 20 mai.

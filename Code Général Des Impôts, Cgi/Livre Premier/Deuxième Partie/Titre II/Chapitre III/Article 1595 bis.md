@@ -6,7 +6,9 @@ classées comme stations balnéaires, thermales, climatiques, de tourisme et de
 sports d'hiver, une taxe additionnelle aux droits d'enregistrement ou à la taxe
 de publicité foncière exigible sur les mutations à titre onéreux :
 
-1° D'immeubles et de droits immobiliers situés sur leur territoire ;
+1° d'immeubles et de droits immobiliers situés sur leur territoire. La taxe
+additionnelle n'est pas perçue lorsque la mutation est soumise au droit
+proportionnel de 0,60 % ;
 
 2° De meubles corporels vendus publiquement dans le département (1) ;
 
@@ -27,16 +29,11 @@ de la taxe sont fixés à :
 
 FRACTION DE LA VALEUR TAXABLE / TARIF APPLICABLE
 
-N'excédant pas 150 000 F : 0 %
+N'excédant pas 150 000 F / 0 %
 
-Comprise entre 150 000 F et 700 000 F : 0,40 %
+Comprise entre 150 000 F et 700 000 F / 0,40 %
 
-Supérieure à 700 000 F : 1 %.
-
-Dans le cas prévu au 1° du premier alinéa, elle s'ajoute au droit départemental
-d'enregistrement ou à la taxe départementale de publicité foncière mentionnés
-((aux articles 1594 A, sauf lorsque la mutation est soumise au taux
-proportionnel de 0,60 %, et 1594 F)) (M).
+Supérieure à 700 000 F / 1 %.
 
 La taxe est soumise aux règles qui gouvernent l'exigibilité, la restitution et
 le recouvrement des droits ou de la taxe auxquels elle s'ajoute (2).
@@ -49,8 +46,6 @@ pourcentage officiel de sinistre et de l'effort fiscal fourni par la
 collectivité bénéficiaire.
 
 (1) Sous réserve des dispositions de l'article 1595 ter.
-
-(M) Modification.
 
 (2) La perception de cette taxe a été étendue aux communes du département de la
 Guyane par l'article 10-I de la loi n° 71-1025 du 24 décembre 1971.

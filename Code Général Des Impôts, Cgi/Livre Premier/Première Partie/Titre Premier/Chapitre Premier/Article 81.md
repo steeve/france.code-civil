@@ -3,8 +3,14 @@ Article 81
 Sont affranchis de l'impôt :
 
 1° Les allocations spéciales destinées à couvrir les frais inhérents à la
-fonction ou à l'emploi et effectivement utilisées conformément à leur objet (0)
-;
+fonction ou à l'emploi et effectivement utilisées conformément à leur objet. Les
+rémunérations des journalistes, rédacteurs, photographes, directeurs de journaux
+et critiques dramatiques et musicaux perçues ès qualités constituent de telles
+allocations à concurrence de 50 000 F (1) ;
+
+Toutefois, lorsque leur montant est fixé par voie législative, ces allocations
+sont toujours réputées utilisées conformément à leur objet et ne peuvent donner
+lieu à aucune vérification de la part de l'administration (1').
 
 1° bis a et c (Abrogés) ;
 
@@ -17,11 +23,9 @@ domicile visées respectivement aux articles L. 841-1 et L. 842-1 du même code,
 l'allocation de salaire unique, l'allocation de salaire unique, l'allocation de
 la mère au foyer et l'allocation pour frais de garde, maintenues dans le cadre
 des articles 12 et 13 de la loi n° 77-765 du 12 juillet 1977 instituant le
-complément familial, l'allocation aux adultes handicapés, les suppléments de
+complément familial, l'allocation aux adultes handicapés et les suppléments de
 revenu familial prévus par la loi n° 80-545 du 17 juillet 1980 portant diverses
-dispositions en vue d'améliorer la situation des familles nombreuses, et l'aide
-à la scolarité instituée par l'article 23 de la loi n° 94-629 du 25 juillet 1994
-relative à la famille ;
+dispositions en vue d'améliorer la situation des familles nombreuses ;
 
 2° bis L'allocation de logement prévue par les articles L831-1 à L831-7 du code
 de la sécurité sociale, ainsi que le montant de l'aide personnalisée au logement
@@ -65,7 +69,7 @@ de la loi du 1er octobre 1936 et de l'article 6 de la loi n° 652 du 26 juin 194
 guerre dans le cadre des dispositions de l'article L321-9 du code de la
 mutualité ;
 
-13° (Périmé) (M).
+13° (Périmé).
 
 14° La fraction des pensions temporaires d'orphelins qui correspond au montant
 des prestations familiales auxquelles aurait eu droit le parent décédé ;
@@ -78,8 +82,8 @@ du fait de la loi ;
 
 15° Les prestations, visées aux articles L325-1 et L325-2 du code rural.
 
-Ces dispositions pourront être étendues par décret en conseil d'Etat (1) aux
-départements d'outre-mer *DOM* ;
+Ces dispositions pourront être étendues par décret en conseil d'Etat (2) aux
+départements d'outre-mer ;
 
 16° L'attribution gratuite par une société à l'ensemble de son personnel
 d'actions ou parts sociales de son capital dans les conditions prévues à
@@ -123,22 +127,22 @@ conditions et limites aux dividendes des actions de travail attribuées aux
 salariés des sociétés anonymes à participation ouvrière régies par la loi du 26
 avril 1917, à compter du 1er janvier 1991 ;
 
-19° Dans la limite de 28 F par titre (2), le complément d rémunération résultant
-de la contribution de l'employeur à l'acquisition par le salarié des
+19° Dans la limite de 28 F par titre (3), le complément de rémunération
+résultant de la contribution de l'employeur à l'acquisition par le salarié des
 titres-restaurant émis conformément aux dispositions du titre III de
 l'ordonnance n° 67-830 du 27 septembre 1967, lorsque cette contribution est
 comprise entre un minimum et un maximum fixés par arrêté du ministre de
-l'économie et des finances (3).
+l'économie et des finances (4).
 
 Cette exonération est subordonnée à la condition que le salarié se conforme aux
 obligations qui sont mises à sa charge par le titre III de l'ordonnance susvisée
-du 27 septembre 1967 et les textes pris pour son application ;
+du 27 septembre 1967 et les textes pris pour son application (5) ;
 
 19° bis Le complément de rémunération résultant de la contribution de
 l'employeur à l'acquisition de chèques-vacances par les salariés, dans les
 conditions fixées par l'ordonnance n° 82-283 du 26 mars 1982, dans la limite du
 salaire minimum interprofessionnel de croissance apprécié sur une base mensuelle
-(4'');
+;
 
 20° Les attributions gratuites d'actions :
 
@@ -158,7 +162,7 @@ du 4 janvier 1973.
 21° (Abrogé).
 
 22° Les indemnités de départ en retraite, prévues au premier alinéa de l'article
-L122-14-13 du code du travail (5) dans la limite de 20 000 F.
+L122-14-13 du code du travail (6) dans la limite de 20 000 F.
 
 23° L'indemnité compensatoire pour frais de transport attribuée aux magistrats,
 militaires, fonctionnaires et agents de la fonction publique de l'Etat, aux
@@ -170,12 +174,14 @@ Télécom en service dans les départements de la Haute-Corse et de la Corse-du-
 
 24° Les primes et indemnités attribuées par l'Etat aux agents publics et aux
 salariés à l'occasion du transfert hors de la région d'Ile-de-France du service,
-de l'établissement ou de l'entreprise où ils exercent leur activité (6).
+de l'établissement ou de l'entreprise où ils exercent leur activité (7).
 
-25° La valeur des actions de la compagnie nationale Air France que l'Etat cède
-gratuitement à ceux de ses salariés qui consentent une réduction de leurs
-salaires pendant une durée de trois ans, dans les conditions fixées par
-l'article 17 de la loi n° 94-679 du 8 août 1994 (7) ;
+25° La valeur des actions de la société Air France que l'Etat cède gratuitement
+à ceux de ses salariés qui consentent une réduction de leurs salaires pendant
+une durée de trois ans, dans les conditions fixées par l'article 17 de la loi n°
+94-679 du 8 août 1994 et pour la durée de leur carrière professionnelle dans les
+conditions fixées par l'article 51 de la loi n° 98-546 du 2 juillet 1998 portant
+diverses dispositions d'ordre économique et financier.
 
 26° L'indemnisation ou, le cas échéant, la valeur des actions attribuées à ce
 titre, prévue à l'article 79-1 du titre VI relatif aux sociétés anonymes à
@@ -188,8 +194,8 @@ membres des formations supplétives et assimilés ou victimes de la captivité e
 Algérie ;
 
 28° Lorsqu'elle est prise en charge par l'employeur, la part salariale du
-complément de cotisation d'assurance vieillesse, prévue à l'article 63 de la loi
-de modernisation de l'agriculture (n° 95-95 du 1er février 1995 (8) ;
+complément de cotisation d'assurance vieillesse, prévue à l'article 1031-3 du
+code rural (8) ;
 
 29° Les vacations horaires et l'allocation de vétérance personnelle ou de
 réversion, servies aux sapeurs-pompiers volontaires ou à leurs ayants droit, en
@@ -200,20 +206,23 @@ développement du volontariat dans les corps de sapeurs-pompiers (9) ;
 relative aux mesures en faveur du personnel militaire dans le cadre de la
 professionnalisation des armées (10).
 
-(1) Voir décret 64-285 du 2 avril 1964 (JO du 4).
+(1) Cette modification est applicable aux revenus perçus à compter du 1er
+janvier 1998.
 
-(2) Chiffre applicable à partir du 1er janvier 1997.
+(1') (Cf. Instruction 1999-06-14 5F-14-99).
 
-(3) Annexe IV, art. 23 M.
+(2) Voir décret 64-285 du 2 avril 1964 (JO du 4).
 
-(4) Annexe II, art. 39.
+(3) Chiffre applicable à partir du 1er janvier 1997.
 
-(5) Code du travail, art. L122-14-13.
+(4) Annexe IV, art. 23 M.
 
-(6) Ces dispositions s'appliquent aux versements effectués à compter du 1er
+(5) Annexe II, art. 39.
+
+(6) Code du travail, art. L122-14-13.
+
+(7) Ces dispositions s'appliquent aux versements effectués à compter du 1er
 janvier 1995.
-
-(7) Disposition applicable jusqu'au 30 juin 1998 ;
 
 (8) Disposition applicable du 1er janvier 1995 au 31 décembre 1999 ;
 

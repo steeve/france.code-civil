@@ -1,10 +1,12 @@
 Article 1563
 ----
 Quels que soient le régime et le taux applicables, l'impôt sur les spectacles
-est calculé sur les recettes brutes, tous droits et taxes compris, arrondies en
-multiple de 1 F, comme en matière de taxes sur le chiffre d'affaires. L'impôt
-sur les spectacles prévu pour les quatre premières catégories du I de l'article
-1560 n'est pas perçu lorsque son montant n'excède pas 80 F.
+est calculé sur les recettes brutes, tous droits et taxes compris, comme en
+matière de taxes sur le chiffre d'affaires. Ces recettes sont arrondies au franc
+ou à l'euro le plus proche. La fraction de franc ou d'euro égale à 0,50 est
+comptée pour 1. L'impôt sur les spectacles prévu pour les quatre premières
+catégories du I de l'article 1560 n'est pas perçu lorsque son montant n'excède
+pas 80 F.
 
 Les recettes brutes des réunions sportives sont constituées des seuls droits
 d'entrée exigés des spectateurs en contrepartie du droit d'assister à ces

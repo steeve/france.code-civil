@@ -1,10 +1,10 @@
 Article 1810
 ----
-Indépendamment des pénalités prévues aux articles 1791 à 1795, les infractions
-visées ci-après sont punies d'une peine de six mois d'emprisonnement, qui est
-obligatoirement prononcée en cas de récidive, et les moyens de transport sont
-saisis et confisqués, ainsi que les récipients, emballages, ustensiles,
-mécaniques, machines ou appareil :
+Indépendamment des pénalités prévues aux articles ((1791 à 1794)) (M) (1), les
+infractions visées ci-après sont punies d'une peine de six mois
+d'emprisonnement, qui est obligatoirement prononcée en cas de récidive, et les
+moyens de transport sont saisis et confisqués, ainsi que les récipients,
+emballages, ustensiles, mécaniques, machines ou appareil :
 
 1° Fabrication, transport, vente et détention sans déclaration d'alambic ou
 portion d'alambic.
@@ -46,10 +46,9 @@ ayant pour objet soit de détourner des alcools dénaturés ou présentés à la
 dénaturation, soit de faire accepter à la dénaturation des alcools déjà
 dénaturés ; emploi de substances dénaturantes non conformes aux types officiels;
 vente ou détention de spiritueux dans la préparation desquels sont entrés des
-alcools dénaturés ou des mélanges d'alcool éthylique ((et de corps appartenant à
+alcools dénaturés ou des mélanges d'alcool éthylique et de corps appartenant à
 la famille chimique des alcools ou présentant une fonction chimique alcool,
-susceptibles de remplacer l'alcool éthylique dans un quelconque de ses emplois))
-(M) ;
+susceptibles de remplacer l'alcool éthylique dans un quelconque de ses emplois ;
 
 8° Détention ou vente par un fabricant ou marchand d'ouvrages d'or ou contenant
 de l'or, d'argent ou de platine revêtus, soit de l'empreinte de faux poinçons
@@ -87,4 +86,6 @@ Fabrication, détention, transport ou commercialisation en fraude, soit d'un
 mélange chimique propre à la confection de têtes d'allumettes, soit d'unités de
 conditionnement munies d'un frottoir d'allumage.
 
-(M) Modification de la loi.
+(M) Modification.
+
+(1) Conséquence de la péremption de l'article 1795.

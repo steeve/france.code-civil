@@ -2,10 +2,10 @@ Article 125-0 A
 ----
 I. Les produits attachés aux bons ou contrats de capitalisation ainsi qu'aux
 placements de même nature sont, lors du dénouement du contrat, soumis à l'impôt
-sur le revenu (1).
+sur le revenu.
 
-((Les produits attachés aux bons ou contrats d'une durée égale ou supérieure à
-six ans pour les bons ou contrats souscrits entre le 1er janvier 1983 et le 31
+Les produits attachés aux bons ou contrats d'une durée égale ou supérieure à six
+ans pour les bons ou contrats souscrits entre le 1er janvier 1983 et le 31
 décembre 1989 et à huit ans pour les bons ou contrats souscrits à compter du 1er
 janvier 1990, acquis au 31 décembre 1997 ou constatés à cette même date pour les
 bons ou contrats en unités de compte visés au deuxième alinéa de l'article L.
@@ -15,60 +15,60 @@ même des produits de ces bons ou contrats afférents à des primes versées
 antérieurement au 26 septembre 1997, acquis ou constatés à compter du 1er
 janvier 1998.
 
-((Sont également exonérés d'impôt sur le revenu les produits des contrats
+Sont également exonérés d'impôt sur le revenu les produits des contrats
 mentionnés au deuxième alinéa souscrits antérieurement au 26 septembre 1997,
 lorsque ces produits, acquis ou constatés à compter du 1er janvier 1998, sont
 afférents :
 
-((1° aux primes versées sur les contrats à primes périodiques et n'excédant pas
+1° aux primes versées sur les contrats à primes périodiques et n'excédant pas
 celles prévues initialement au contrat ;
 
-((2° aux versements programmés effectués du 26 septembre 1997 au 31 décembre
-1997 ; les versements programmés s'entendent de ceux effectués en exécution d'un
+2° aux versements programmés effectués du 26 septembre 1997 au 31 décembre 1997
+; les versements programmés s'entendent de ceux effectués en exécution d'un
 engagement antérieur au 26 septembre 1997 prévoyant la périodicité et le montant
 du versement ;
 
-((3° aux autres versements effectués du 26 septembre 1997 au 31 décembre 1997,
+3° aux autres versements effectués du 26 septembre 1997 au 31 décembre 1997,
 sous réserve que le total de ces versements n'excède pas 200 000 F par
 souscripteur.
 
-((Sont exonérés d'impôt sur le revenu les produits attachés aux bons ou contrats
+Sont exonérés d'impôt sur le revenu les produits attachés aux bons ou contrats
 en unités de compte visés au deuxième alinéa de l'article L. 131-1 du code des
 assurances, d'une durée égale ou supérieure à huit ans et dont l'unité de compte
 est la part ou l'action d'un organisme de placement collectif en valeurs
 mobilières dont l'actif est constitué pour 50 % au moins de :
 
-((a) Actions ou certificats d'investissement de sociétés et certificats
+a) Actions ou certificats d'investissement de sociétés et certificats
 coopératifs d'investissement admis aux négociations sur un marché réglementé
 d'instruments financiers reconnu en application de l'article 41 ou du VII de
 l'article 97 de la loi n° 96-597 du 2 juillet 1996 de modernisation des
 activités financières ;
 
-((b) Droits ou bons de souscription ou d'attribution attachés aux actions
+b) Droits ou bons de souscription ou d'attribution attachés aux actions
 mentionnées au a ;
 
-((c) Actions ou parts d'organismes de placement collectif en valeurs mobilières
+c) Actions ou parts d'organismes de placement collectif en valeurs mobilières
 qui emploient plus de 60 % de leur actif en titres et droits mentionnés aux a et
 b ;
 
-((d) Parts de fonds communs de placement à risques, de fonds communs de
-placement dans l'innovation, actions de sociétés de capital risque ou de
-sociétés financières d'innovation ;
+d) Parts de fonds communs de placement à risques, de fonds communs de placement
+dans l'innovation, actions de sociétés de capital risque ou de sociétés
+financières d'innovation ;
 
-((e) Actions émises par des sociétés qui sont, sans avoir exercé d'option pour
-un autre régime d'imposition, passibles de l'impôt sur les sociétés de plein
-droit ou sur option, qui exercent une activité autre que celles mentionnées au
+e) Actions émises par des sociétés qui sont, sans avoir exercé d'option pour un
+autre régime d'imposition, passibles de l'impôt sur les sociétés de plein droit
+ou sur option, qui exercent une activité autre que celles mentionnées au
 deuxième alinéa du 2° du I de l'article 44 sexies et dont les titres ne sont pas
 admis aux négociations sur un marché réglementé ;
 
-((f) Titres admis aux négociations sur le nouveau marché
+f) Titres admis aux négociations sur le nouveau marché.
 
-((Les titres mentionnés aux a et b doivent respecter les condition fixées par le
-2 du I de l'article 2 de la loi n° 92-666 du 16 juillet 1992 relative au plan
+Les titres mentionnés aux a et b doivent respecter les condition fixées par le 2
+du I de l'article 2 de la loi n° 92-666 du 16 juillet 1992 relative au plan
 d'épargne en actions.
 
-((Les titres mentionnés aux d, e et f doivent représenter 5 % au moins de
-l'actif de l'organisme de placement collectif en valeurs mobilières)) (M).
+Les titres mentionnés aux d, e et f doivent représenter 5 % au moins de l'actif
+de l'organisme de placement collectif en valeurs mobilières.
 
 Les produits en cause sont exonérés, quelle que soit la durée du contrat,
 lorsque celui-ci se dénoue par le versement d'une rente viagère ou que ce
@@ -77,22 +77,22 @@ la retraite anticipée ou de son invalidité ou de celle de son conjoint
 correspondant au classement dans la deuxième ou troisième catégorie prévue à
 l'article L. 341-4 du code de la sécurité sociale ;
 
-((Lorsque la durée du bon ou du contrat est égale ou supérieure à six ans pour
-les bons ou contrats souscrits entre le 1er janvier 1983 et le 31 décembre 1989
-et à huit ans pour les bons ou contrats souscrits à compter du 1er janvier 1990,
-il est opéré, pour l'ensemble des bons ou contrats détenus par un même
+Un décret fixe les modalités d'application du I et notamment les obligations
+déclaratives des contribuables et des établissements payeurs.
+
+Lorsque la durée du bon ou du contrat est égale ou supérieure à six ans pour les
+bons ou contrats souscrits entre le 1er janvier 1983 et le 31 décembre 1989 et à
+huit ans pour les bons ou contrats souscrits à compter du 1er janvier 1990, il
+est opéré, pour l'ensemble des bons ou contrats détenus par un même
 contribuable, un abattement annuel de 30 000 F pour les contribuables
 célibataires, veufs ou divorcés et de 60 000 F pour les contribuables mariés
 soumis à imposition commune sur la somme des produits acquis à compter du 1er
 janvier 1998, ou constatés à compter de la même date pour les bons ou contrats
 en unités de compte visés au deuxième alinéa de l'article L. 131-1 du code des
-assurances)) (M).
+assurances.
 
 Les produits en cause sont constitués par la différence entre les sommes
 remboursées au bénéficiaire et le montant des primes versées.
-
-((Un décret fixe les modalités d'application du I et notamment les obligations
-déclaratives des contribuables et des établissements payeurs)) (M).
 
 II. Les dispositions de l'article 125 A, à l'exception du IV de cet article,
 sont applicables aux produits prévus au I. Le taux du prélèvement est fixé :
@@ -109,15 +109,15 @@ b. A 25 % lorsque cette durée a été égale ou supérieure à deux ans et inf�
 
 c. A 15 % lorsque cette durée a été égale ou supérieure à quatre ans.
 
-((d) A 7,5 % lorsque cette durée a été égale ou supérieure à six ans pour les
-bons ou contrats souscrits entre le 1er janvier 1983 et le 31 décembre 1989 et à
-huit ans pour les contrats souscrits à compter du 1er janvier 1990)) (M).
+d. A 7,5 % lorsque cette durée a été égale ou supérieure à six ans pour les bons
+ou contrats souscrits entre le 1er janvier 1983 et le 31 décembre 1989 et à huit
+ans pour les contrats souscrits à compter du 1er janvier 1990.
 
-((La durée des contrats s'entend)) (M), pour les contrats à prime unique et les
-contrats comportant le versement de primes périodiques régulièrement
-échelonnées, de la durée effective du contrat et, dans les autres cas, de la
-durée moyenne pondérée. La disposition relative à la durée moyenne pondérée
-n'est pas applicable aux contrats conclus à compter du 1er janvier 1990.
+La durée des contrats s'entend, pour les contrats à prime unique et les contrats
+comportant le versement de primes périodiques régulièrement échelonnées, de la
+durée effective du contrat et, dans les autres cas, de la durée moyenne
+pondérée. La disposition relative à la durée moyenne pondérée n'est pas
+applicable aux contrats conclus à compter du 1er janvier 1990.
 
 1° bis pour les bons ou contrats de capitalisation ainsi que pour les placements
 de même nature souscrits à compter du 1er janvier 1998, les dispositions du 1°
@@ -134,13 +134,10 @@ l'administration fiscale ;
 
 Un décret fixe les modalités d'application du présent 1° bis.
 
-2° Dans le cas contraire, à 50 %.
+2° Dans le cas contraire, à ((60 %)) (M).
 
 III. Le prélèvement est établi, liquidé et recouvré sous les mêmes garanties et
 sanctions que celui mentionné à l'article 125 A. Les dispositions de l'article
 1764 et du 1 des articles 242 ter et 1768 bis sont applicables.
 
-(1) Ces dispositions sont applicables aux bons, contrats ou placements souscrits
-à compter du 1er janvier 1983.
-
-(M) Modification de la loi 97-1269.
+(M) Modification.

@@ -38,7 +38,7 @@ des éléments de l'actif immobilisé, soit du chiffre d'affaires, soit de
 l'effectif des salariés.
 
 II. Sous réserve d'un agrément préalable délivré par le ministre de l'économie
-et des finances (1) et dans la mesure définie par cet agrément, les fusions de
+et des finances et dans la mesure définie par cet agrément, les fusions de
 sociétés et opérations assimilées qui entrent dans les prévisions de l'article
 210 A peuvent ouvrir droit, dans la limite édictée au I, troisième alinéa, au
 report des déficits antérieurs non encore déduits soit par les sociétés
@@ -51,13 +51,25 @@ l'application des dispositions de la dernière phrase du dernier alinéa du I
 ci-dessus en cas de transfert d'activité, de fusion ou d'opérations assimilées.
 L'agrément est accordé si, compte tenu de l'origine des déficits, l'avantage
 fiscal est justifié du point de vue économique et social, eu égard à la nature
-et à l'importance des activités respectivement transférées et conservées (2).
+et à l'importance des activités respectivement transférées et conservées (1).
 
-(1) Voir art. 1649 nonies, annexe IV, art. 170 sexies.
+IV. - 1. Pour la détermination du résultat imposable des sociétés d'assurance
+mutuelles, le droit d'adhésion versé par un sociétaire au cours de l'exercice de
+son adhésion et inscrit en comptabilité au compte "fonds d'établissement" est
+considéré comme un apport à hauteur d'un montant égal au rapport entre le
+montant minimal de la marge de solvabilité exigée par la réglementation et le
+nombre de sociétaires, constaté à la clôture de l'exercice précédent. Lorsque la
+marge de solvabilité effectivement constituée est inférieure au montant minimal
+réglementaire, le premier terme de ce rapport est majoré du montant de cette
+insuffisance.
 
-(2) Ces dispositions s'appliquent aux opérations de reprise ou de transfert
+2. Les sommes prélevées sur le compte "fonds d'établissement" sont rapportées au
+résultat imposable de l'exercice en cours à la date de ce prélèvement, dans la
+limite de celles ayant bénéficié des dispositions du 1.
+
+3. La disposition du 2 n'est pas applicable en cas d'imputation de pertes sur le
+compte "fonds d'établissement" ; les pertes ainsi annulées cessent d'être
+reportables.
+
+(1) Ces dispositions s'appliquent aux opérations de reprise ou de transfert
 d'activités réalisées à compter du 1er janvier 1991.
-
-[*Cf. Instruction 1995-02-06 4A-2-95, Notes 1996-01-02 4E-1-96, 1996-03-18
-4E-2-96. Instructions 1997-01-28 4A-1-97, 1997-02-05 4E-1-97, 1998-04-02
-4E-2-98.*]

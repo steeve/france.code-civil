@@ -1,93 +1,46 @@
 Article 50 terdecies
 ----
-Le tarif de la redevance sanitaire d'abattage s'établit comme suit :
+Le tarif de la redevance sanitaire d'abattage s'établit comme suit (par carcasse
+abattue) :
 
-Tarif applicable du 1er janvier 1994 au 30 juin 1994 (En poids net de viande)
+a) Animaux de boucherie :
 
+Pour les gros bovins : 30 Francs.
 
-Pour les gros bovins
+Pour les veaux : 12 Francs.
 
-Par tonne : 86 F, Par kilogramme : 0,086 F
-
-
-Pour les veaux
-
-Par tonne : 101 F, Par kilogramme : 0,101 F
-
-Pour les animaux des espèces chevaline, asine et leur croisement
-
-Par tonne : 72 F, Par kilogramme : 0,072 F
-
-
-Pour les ovins
-
-Par tonne : 68 F, Par kilogramme : 0,068 F
-
-
-Pour les caprins
-
-Par tonne : 68 F, Par kilogramme : 0,068 F
-
-
-Pour les porcins
-
-Par tonne : 75 F, Par kilogramme : 0,075 F
-
-
-Pour les volailles du genre Gallus
-
-Par tonne : 28 F, Par kilogramme : 0,028 F
-
-
-Pour les dindes
-
-Par tonne : 26 F, Par kilogramme : 0,026 F
-
-
-Pour les canards
-
-Par tonne : 29 F, Par kilogramme : 0,029 F
-
-
-Pour les pintades
-
-Par tonne : 29 F, Par kilogramme : 0,029 F
-
-
-Pour les oies
-
-Par tonne : 22 F, Par kilogramme : 0,022 F
-
-Tarif applicable à compter du 1er juillet 1994 (Par carcasse abattue)
-
-A. - Animaux de boucherie
-
-Pour les gros bovins, 30 F
-
-Pour les veaux, 12 F
-
-Pour les solipèdes domestiques, 21 F
+Pour les solipèdes domestiques : 23 Francs.
 
 Pour les ovins et caprins :
 
-- d'un poids carcasse inférieur à 12 kilogrammes, 1 F
+- d'un poids carcasse inférieur à 12 kilogrammes : 1 Franc.
 
-- d'un poids carcasse de 12 kilogrammes ou plus, 1,7 F
+- d'un poids carcasse de 12 kilogrammes ou plus : 1,7 Franc.
 
-((Pour les porcins :
+Pour les porcins :
 
-- d'un poids carcasse inférieur à 25 kilogramme 3,80 F ;
+- d'un poids carcasse inférieur à 25 kilogrammes : 2,80 Francs.
 
-- d'un poids carcasse de 25 kilogrammes ou plus 5,80 F)) (M).
+- d'un poids carcasse de 25 kilogrammes ou plus : 5,80 Francs.
 
-B. - Volailles
+b) Volailles et lapins :
 
-Pour les volailles du genre Gallus et les pintades, 0,035 F
+Pour les volailles du genre Gallus et les pintades : 0,035 Francs.
 
-Pour les canards, 0,070 F
+Pour les canards et les oies : 0,070 Franc.
 
-Pour les oies, 0,100 F
+Pour les dindes : 0,145 Franc.
 
-Pour les dindes, 0,145 F
+Pour les lapins domestiques : 0,035 Franc.
 
-(M) Modification de l'arrêté applicable à compter du 1er novembre 1996.
+c) Gibier d'élevage et sauvage :
+
+Pour le petit gibier à plumes : 0,035 Franc.
+
+Pour le petit gibier à poils : 0,070 Franc.
+
+Pour les ratites (autruche, émeu, nandou : 0,26 Franc.
+
+Pour le sanglier : 8,50 Francs.
+
+Pour les ruminants : 3,3 Francs.

@@ -11,6 +11,11 @@ millions de francs par établissement, déterminé avant application de
 l'abattement prévu à l'article 1472 A ter. Cette limite est actualisée chaque
 année dans les conditions prévues au I de l'article 1466 A.
 
+La limite de base nette imposable visée au premier alinéa est fixée à 2 835 000
+F au titre de 1999 et, sous réserve de l'actualisation annuelle en fonction de
+la variation des prix, à 2 675 000 F au titre de 2000, 2 455 000 F au titre de
+2001, 2 205 000 F au titre de 2002 et 2 010 000 F à compter de 2003.
+
 L'exonération s'applique également, dans les mêmes conditions et limites, aux
 contribuables qui exercent une activité professionnelle non commerciale au sens
 du 1 de l'article 92 et dont l'effectif des salariés en Corse est égal ou
@@ -152,6 +157,4 @@ de Corse ;
 2° Les redevables doivent déposer, au plus tard le 31 mars 1997, pour chacun de
 leurs établissements situés en Corse, une déclaration comportant tous les
 éléments utiles à l'appréciation des conditions d'exonération. Cette déclaration
-contient, le cas échéant, l'option prévue au IV (1).
-
-(1) [*Cf. Note 1997-02-03 6E-3-97.*]
+contient, le cas échéant, l'option prévue au IV.

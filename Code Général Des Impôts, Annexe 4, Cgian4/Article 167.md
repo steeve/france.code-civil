@@ -1,8 +1,8 @@
 Article 167
 ----
-1. Sont notamment soumis au régime prévu à l'article 165-1 :
+1. Sont notamment soumis au régime prévu à l'article 165 1 :
 
-((Les voies navigables de France)) (M) ;
+Les voies navigables de France ;
 
 La caisse nationale du crédit agricole ;
 
@@ -19,19 +19,15 @@ services à caractère industriel et commercial ;
 
 Le service des alcools.
 
-2. Sont notamment soumis au régime prévu à l'article 165-2 :
+2. Sont notamment soumis au régime prévu à l'article 165 2 :
 
 Les manufactures nationales ;
 
 L'administration des monnaies et médailles ;
 
-(M) ((Devenu sans objet)) ;
-
 Les arsenaux, poudreries et usines mécaniques de l'Etat.
 
-3. Sont notamment soumis au régime prévu à l'article 166-1 :
-
-La caisse des dépôts et consignations ;
+3. Sont notamment soumis au régime prévu à l'article 166 1 :
 
 L'établissement national des invalides de la marine ;
 
@@ -56,5 +52,3 @@ Les sections de l'office de répartition des produits industriels ;
 L'office national interprofessionnel des céréales ;
 
 L'office national des anciens combattants et victimes de guerre.
-
-(M) Modifications.

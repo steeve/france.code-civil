@@ -5,7 +5,7 @@ déclaration indiquant notamment les montants de la participation à laquelle il
 étaient tenus et du versement effectué ainsi que la désignation de l'organisme
 destinataire.
 
-La déclaration doit être produite au plus tard le 5 avril de l'année suivant
+La déclaration doit être produite au plus tard le 30 avril de l'année suivant
 celle au cours de laquelle est due la participation.
 
 En cas de cession d'entreprise ou de cessation d'activité, la déclaration

@@ -35,14 +35,13 @@ directement ou indirectement des locaux d'habitation meublés ou destinés à ê
 meublés.
 
 Toutefois, lorsque l'un des membres du foyer fiscal fait l'objet d'une procédure
-de liquidation judiciaire prévue par la loi n° 85-98 ((modifié)) (M) du 25
-janvier 1985 relative au redressement et à la liquidation judiciaires des
-entreprises à raison de l'activité génératrice des déficits mentionnés au
-premier alinéa, les dispositions du premier alinéa du I sont applicables au
-montant de ces déficits restant à reporter à la date d'ouverture de la
-procédure, à la condition que les éléments d'actif affectés à cette activité
-cessent définitivement d'appartenir, directement ou indirectement, à l'un des
-membres du foyer fiscal.
+de liquidation judiciaire prévue par la loi n° 85-98 modifié du 25 janvier 1985
+relative au redressement et à la liquidation judiciaires des entreprises à
+raison de l'activité génératrice des déficits mentionnés au premier alinéa, les
+dispositions du premier alinéa du I sont applicables au montant de ces déficits
+restant à reporter à la date d'ouverture de la procédure, à la condition que les
+éléments d'actif affectés à cette activité cessent définitivement d'appartenir,
+directement ou indirectement, à l'un des membres du foyer fiscal.
 
 Les dispositions du premier alinéa s'appliquent pour la détermination du revenu
 imposable au titre des années 1996 et suivantes aux déficits réalisés par les
@@ -124,7 +123,7 @@ de la location ne sont pas respectés est majoré du montant des déficits indû
 imputés. Ces déficits constituent une insuffisance de déclaration pour
 l'application de l'article 1733.
 
-((L'imputation exclusive sur les revenus fonciers n'est pas applicable aux
+L'imputation exclusive sur les revenus fonciers n'est pas applicable aux
 déficits résultant de dépenses autres que les intérêts d'emprunts effectuées sur
 des locaux d'habitation par leurs propriétaires en vue du réaménagement d'un ou
 plusieurs immeubles situés dans une zone franche urbaine telle que définie au B
@@ -142,7 +141,7 @@ dispositif s'applique dans les mêmes conditions lorsque les locaux d'habitation
 sont la propriété d'une société non soumise à l'impôt sur les sociétés si les
 associés conservent les titres pendant six ans.
 
-((En cas de non-respect, par le contribuable, de l'un de ses engagements, le
+En cas de non-respect, par le contribuable, de l'un de ses engagements, le
 revenu global de l'année au cours de laquelle la rupture intervient est majoré
 du montant des déficits qui ont fait l'objet d'une imputation au titre des
 dispositions du cinquième alinéa. Pour son imposition, la fraction du revenu
@@ -157,9 +156,8 @@ catégories prévues à l'article L. 341-4 du code de la sécurité sociale, au
 licenciement ou au décès du contribuable ou de l'un des époux soumis à
 imposition commune.
 
-((Les obligations déclaratives incombant aux contribuables concernés par les
-dispositions prévues aux cinquième et sixième alinéas sont fixées par décret))
-(M) ;
+Les obligations déclaratives incombant aux contribuables concernés par les
+dispositions prévues aux cinquième et sixième alinéas sont fixées par décret ;
 
 L'imputation exclusive sur les revenus fonciers n'est pas non plus applicable
 aux déficits fonciers résultant de dépenses autres que les intérêts d'emprunt.
@@ -225,24 +223,24 @@ ayant accédé à l'indépendance ;
 1° ter. Dans les conditions fixées par décret (8), les charges foncières
 afférentes aux immeubles classés monuments historiques ou inscrits à
 l'inventaire supplémentaire, ainsi qu'aux immeubles faisant partie du patrimoine
-national en raison de leur caractère historique ou artistique particulier ((ou
-en raison du label délivré par la "Fondation du patrimoine" en application de
+national en raison de leur caractère historique ou artistique particulier ou en
+raison du label délivré par la "Fondation du patrimoine" en application de
 l'article 2 de la loi n° 96-590 du 2 juillet 1996 relative à la "Fondation du
 patrimoine" si ce label a été accordé sur avis favorable du service
-départemental de l'architecture et du patrimoine)) (M1) et qui auront été agréés
-à cet effet par le ministre de l'économie et des finances ;
+départemental de l'architecture et du patrimoine et qui auront été agréés à cet
+effet par le ministre de l'économie et des finances ;
 
 1° quater (Devenu sans objet).
 
 2° Arrérages de rentes payés par lui à titre obligatoire et gratuit constituées
 avant le 2 novembre 1959 ; pensions alimentaires répondant aux conditions fixées
-par les articles 205 à 211 et 367 du code civil ((à l'exception de celles
-versées aux ascendants quand il est fait application des dispositions prévues
-aux premier et deuxième alinéas du 1° de l'article 199 sexdecies)) (M) ; rentes
-prévues à l'article 276 du code civil et pensions alimentaires versées en vertu
-d'une décision de justice, en cas de séparation de corps ou de divorce, ou en
-cas d'instance en séparation de corps ou de divorce lorsque le conjoint fait
-l'objet d'une imposition séparée ; contribution aux charges du mariage définie à
+par les articles 205 à 211 et 367 du code civil à l'exception de celles versées
+aux ascendants quand il est fait application des dispositions prévues aux
+premier et deuxième alinéas du 1° de l'article 199 sexdecies ; rentes prévues à
+l'article 276 du code civil et pensions alimentaires versées en vertu d'une
+décision de justice, en cas de séparation de corps ou de divorce, ou en cas
+d'instance en séparation de corps ou de divorce lorsque le conjoint fait l'objet
+d'une imposition séparée ; contribution aux charges du mariage définie à
 l'article 214 du code civil, lorsque son versement résulte d'une décision de
 justice et à condition que les époux fassent l'objet d'une imposition séparée ;
 dans la limite de 18.000 F et, dans les conditions fixées par un décret en
@@ -256,16 +254,11 @@ La déduction est limitée, par enfant majeur, au montant fixé pour l'abattemen
 prévu par l'article 196 B. Lorsque l'enfant est marié, cette limite est doublée
 au profit du parent qui justifie qu'il participe seul à l'entretien du ménage.
 
-Toutefois, l'avantage en impôt résultant de la déduction prévue ci-dessus ne
-peut être inférieur par enfant à 4.000 F lorsque la pension alimentaire est
-versée au profit d'un enfant inscrit dans l'enseignement supérieur. Cet avantage
-minimal ne peut néanmoins excéder 35 p. 100 des sommes versées (10) (M1).
-
 Un contribuable ne peut, au titre d'une même année et pour un même enfant,
 bénéficier à la fois de la déduction d'une pension alimentaire et du
 rattachement. L'année où l'enfant atteint sa majorité, le contribuable ne peut à
 la fois déduire une pension pour cet enfant et le considérer à charge pour le
-calcul de l'impôt (10') (10'');
+calcul de l'impôt ;
 
 2° bis (Abrogé) ;
 
@@ -274,10 +267,10 @@ résultant des articles 205 à 211 du code civil à des personnes agées de plus
 soixante-quinze ans vivant sous le toit du contribuable et dont le revenu
 imposable n'excède pas le plafond de ressources fixé pour l'octroi de
 l'allocation supplémentaire mentionnée à l'article L815-2 ou à l'article L815-3
-du code de la sécurité sociale (11). La déduction opérée par le contribuable ne
+du code de la sécurité sociale (10). La déduction opérée par le contribuable ne
 peut excéder, par bénéficiaire, l'évaluation des avantages en nature de logement
 et de nourriture faite pour l'application aux salariés du régime de sécurité
-sociale (12) (10'').
+sociale (11).
 
 3° (Abrogé) ;
 
@@ -316,11 +309,8 @@ du travail et les maladies professionnelles dans l'agriculture.
 (1) Le seuil de 200.000 F est applicable à compter de l'imposition des revenus
 de 1995.
 
-(1') [*Cf. Instruction 1996-08-01 4A-7-96.*]
-
 (2) Ces dispositions s'appliquent à compter de l'imposition des revenus de
-l'année 1996 et aux déficits encore reportables après le 31 décembre 1995. [*Cf.
-Instruction 1996-07-23 5D-4-96*].
+l'année 1996 et aux déficits encore reportables après le 31 décembre 1995.
 
 (3) La disposition relative à l'imputation des déficits fonciers des
 nus-propriétaires s'applique aux dépenses payées à compter du 1er janvier 1993.
@@ -328,11 +318,7 @@ nus-propriétaires s'applique aux dépenses payées à compter du 1er janvier 19
 (4) Voir l'article 41 DO de l'annexe III.
 
 (5) Ces dispositions s'appliquent aux dépenses payées par les propriétaires qui
-ont obtenu une autorisation de travaux à compter du 1er janvier 1995. [*Cf.
-Instruction 1995-05-17 5D-5-95*].
-
-(M) Modification de la loi 96-987. Ces dispositions s'appliquent aux dépenses
-payées à compter du 1er janvier 1997.
+ont obtenu une autorisation de travaux à compter du 1er janvier 1995.
 
 (6) Ces dispositions s'appliquent aux dépenses payées à compter du 1er janvier
 1995.
@@ -343,16 +329,10 @@ aux dépenses payées à compter du 1er janvier 1993.
 
 (8) Voir Annexe III, art. 41 E à 41 J.
 
-(M1) Modification de la loi 96-1181.
-
 (9) Voir Annexe II, art. 91 quinquies.
 
-(10) Alinéa supprimé à compter de l'imposition des revenus de 1998.
+(10) Pour l'année 1998 ce plafond de ressources s'élève à 42.658 F pour une
+personne seule et à 74.270 F pour un couple marié.
 
-(10') [*Cf. Réponse ministérielle 1996-10-04 5B-14-96*].
-
-(11) Pour l'année 1995 ce plafond de ressources s'élève à 40.834 F pour une
-personne seule et à 71.525 F pour un couple marié.
-
-(12) Au titre de 1995, le plafond de déduction des frais d'accueil des personnes
-âgées de plus de 75 ans s'élève à 17.160 F.
+(11) Au titre de 1998, le plafond de déduction des frais d'accueil des personnes
+âgées de plus de 75 ans s'élève à 17.840 F.

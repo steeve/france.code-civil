@@ -10,10 +10,10 @@ autres que la réserve légale ont été auparavant répartis.
 Sous réserve des dispositions du 3°, ne sont pas considérés comme des apports
 pour l'application de la présente disposition :
 
-a. Les réserves incorporées au capital;
+a. Les réserves incorporées au capital ;
 
-b. Les sommes incorporées au capital ou aux réserves (primes de fusion ((ou de
-scission))) à l'occasion ((d'une fusion ou d'une scission de sociétés)) (M).
+b. Les sommes incorporées au capital ou aux réserves (primes de fusion ou de
+scission à l'occasion ((d'une fusion ou d'une scission de sociétés.
 
 2° Les amortissements de tout ou partie de leur capital social, parts d'intérêt
 ou commandites, effectués par les sociétés concessionnaires de l'Etat, des
@@ -50,9 +50,9 @@ actions, lorsque ce rachat est effectué dans les conditions prévues aux articl
 sociétés commerciales, modifiés par la loi n° 81-1162 du 30 décembre 1981
 relative à la mise en harmonie du droit des sociétés commerciales avec la
 deuxième directive adoptée par le Conseil des communautés européennes le 13
-décembre 1976.
-
-(M) Modification. Ces dispositions sont applicables à compter du 1er janvier
-1995.
+décembre 1976. ((Le régime des plus-values prévu, selon les cas, aux articles 39
+duodecies, 92 B ou 160 est alors applicable)) (M).
 
 (1) Annexe III, art. 41 bis à 41 quinquies.
+
+(M) Modification.

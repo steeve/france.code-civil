@@ -1,26 +1,21 @@
 Article 217 undecies
 ----
 I. Les entreprises soumises à l'impôt sur les sociétés peuvent déduire de leurs
-résultats imposables une somme égale ((au montant des investissements
-productifs, diminué de la fraction de leur prix de revient financée par une
-subvention publique, qu'elles réalisent)) (M) dans les départements de la
-Guadeloupe, de la Guyane, de la Martinique et de la Réunion à l'occasion de la
-création ou l'extension d'exploitations appartenant aux secteurs d'activité de
-l'industrie, de la pêche, de l'hôtellerie, du tourisme, des énergies nouvelles,
-de l'agriculture, du bâtiment et des travaux publics, des transports et de
+résultats imposables une somme égale au montant des investissements productifs,
+diminué de la fraction de leur prix de revient financée par une subvention
+publique, qu'elles réalisent dans les départements de la Guadeloupe, de la
+Guyane, de la Martinique et de la Réunion à l'occasion de la création ou
+l'extension d'exploitations appartenant aux secteurs d'activité de l'industrie,
+de la pêche, de l'hôtellerie, du tourisme, des énergies nouvelles, de
+l'agriculture, du bâtiment et des travaux publics, des transports et de
 l'artisanat. La déduction est opérée sur le résultat de l'exercice au cours
 duquel l'investissement est réalisé, le déficit éventuel de l'exercice étant
-reporté dans les conditions prévues ((au I de l'article 156)) (M).
-
-Pour ouvrir droit à déduction, les investissements définis au premier alinéa et
-dont le montant total par programme est supérieur à ((10 000 000 F)) (M) doivent
-avoir été portés, préalablement à leur réalisation, à la connaissance du
-ministre chargé du budget et n'avoir pas appelé d'objection motivée de sa part
-dans un délai de trois mois.
-
-((Pour les investissements dont le montant total par programme est compris entre
-10 000 000 F et 30 000 000 F, les dispositions du deuxième alinéa s'appliquent à
-ceux réalisés à compter du 1er janvier 1998)) (M).
+reporté dans les conditions prévues au I de l'article 156. Elle s'applique
+également aux investissements réalisés par une société soumise au régime
+d'imposition prévu à l'article 8 ou un groupement mentionné aux articles 239
+quater ou 239 quater C. Dans ce cas, la déduction est pratiquée par les associés
+ou membres dans une proportion correspondant à leurs droits dans la société ou
+le groupement.
 
 La déduction prévue au premier alinéa ne s'applique qu'à la fraction du prix de
 revient des investissements réalisés par les entreprises qui excède le montant
@@ -45,7 +40,7 @@ achèvement, ou de son acquisition si elle est postérieure, et pendant six ans 
 moins à des personnes qui en font leur résidence principale ;
 
 2° Le loyer et les ressources du locataire n'excèdent pas des plafonds fixés par
-décret (1).
+décret.
 
 Si, dans le délai de cinq ans de son acquisition ou de sa création, ou pendant
 sa durée normale d'utilisation si elle est inférieure, l'investissement ayant
@@ -53,15 +48,15 @@ ouvert droit à déduction est cédé ou cesse d'être affecté à l'exploitatio
 l'entreprise utilisatrice ou si l'acquéreur cesse son activité, les sommes
 déduites sont rapportées au résultat imposable de l'entreprise ayant opéré la
 déduction au titre de l'exercice au cours duquel cet événement se réalise ; ces
-conséquences sont également applicables si l'engagement prévu au septième alinéa
-cesse d'être respecté.
+conséquences sont également applicables si l'engagement prévu au cinquième
+alinéa cesse d'être respecté.
 
 Toutefois, la reprise de la déduction n'est pas effectuée lorsque les biens
 ayant ouvert droit à déduction sont transmis dans le cadre des opérations
-mentionnées ((aux articles 210 A ou 210 B)) (M) si le bénéficiaire de la
-transmission s'engage à maintenir l'exploitation des biens outre-mer dans le
-cadre d'une activité mentionnée au premier alinéa pendant la fraction du délai
-de conservation restant à courir.
+mentionnées aux articles 210 A ou 210 B si le bénéficiaire de la transmission
+s'engage à maintenir l'exploitation des biens outre-mer dans le cadre d'une
+activité mentionnée au premier alinéa pendant la fraction du délai de
+conservation restant à courir.
 
 L'engagement est pris dans l'acte constatant la transmission ou, à défaut, dans
 un acte sous seing privé ayant date certaine, établi à cette occasion.
@@ -70,6 +65,15 @@ En cas de non-respect de cet engagement, le bénéficiaire de la transmission do
 rapporter à ses résultats imposables, au titre de l'exercice au cours duquel
 l'engagement cesse d'être respecté, une somme égale au montant de la déduction
 fiscale à laquelle les biens transmis ont ouvert droit.
+
+Lorsque l'investissement est réalisé par une société ou un groupement visés aux
+deux dernières phrases du premier alinéa, les associés ou membres doivent, en
+outre, conserver les parts de cette société ou de ce groupement pendant un délai
+de cinq ans à compter de la réalisation de l'investissement. A défaut, ils
+doivent ajouter à leur résultat imposable de l'exercice de cession le montant
+des déductions qu'ils ont pratiquées, diminué, le cas échéant, dans la
+proportion de leurs droits dans la société ou le groupement, des sommes déjà
+réintégrées en application des dispositions du sixième alinéa.
 
 II. Les entreprises mentionnées au I peuvent, d'autre part, déduire de leur
 revenu imposable une somme égale au montant total des souscriptions au capital
@@ -95,16 +99,6 @@ en est propriétaire fait l'objet d'une fusion placée sous le régime de l'arti
 absorbante selon le cas, réponde aux conditions d'activité prévues au présent
 alinéa et reprenne, sous les mêmes conditions et sanctions, l'engagement
 mentionné à la phrase qui précède pour la fraction du délai restant à courir.
-
-Pour ouvrir droit à déduction, la constitution ou l'augmentation du capital des
-sociétés mentionnées au premier alinéa et dont le montant est supérieur à ((10
-000 000 F)) (M) doit être portée, préalablement à sa réalisation, à la
-connaissance du ministre chargé du budget et n'avoir pas appelé d'objection
-motivée de sa part dans un délai de trois mois.
-
-((Pour les souscriptions dont le montant total par programme est compris entre
-10 000 000 F et 30 000 000 F, les dispositions du deuxième alinéa s'appliquent à
-celles versées à compter du 1er janvier 1998)) (M).
 
 La déduction prévue au premier alinéa s'applique aux souscriptions au capital de
 sociétés effectuant dans les départements d'outre-mer des investissements
@@ -152,12 +146,24 @@ II ter. La déduction prévue au premier alinéa du II s'applique aux souscripti
 au capital de sociétés soumises à l'impôt sur les sociétés et qui sont affectées
 exclusivement à l'acquisition ou à la construction de logements neufs dans les
 départements d'outre-mer lorsque ces sociétés ont pour activité exclusive la
-location de tels logements dans les conditions mentionnées au septième alinéa du
-I du présent article.
+location de tels logements dans les conditions mentionnées au ((cinquième
+alinéa)) (M) du I du présent article.
 
 Cette déduction s'applique sous les conditions et sanctions prévues au II, à
 l'exception de celle mentionnée à la troisième phrase du premier alinéa du même
-II (1').
+II.
+
+II quater. Les investissements et les souscriptions au capital mentionnés aux I,
+II et II ter et dont le montant total par programme et par exercice est
+supérieur à 5 000 000 F ne peuvent ouvrir droit à déduction que s'ils ont reçu
+un agrément préalable du ministre chargé du budget dans les conditions prévues
+au deuxième alinéa du III.
+
+Les dispositions du premier alinéa sont également applicables aux
+investissements mentionnés au I et dont le montant total par programme et par
+exercice est supérieur à 2 000 000 F, lorsqu'ils sont réalisés par une société
+ou un groupement mentionnés à l'avant-dernière phrase du premier alinéa de ce
+même I.
 
 III. Pour ouvrir droit à déduction, les investissements mentionnés au I réalisés
 dans les secteurs des transports, de la navigation de plaisance, de la
@@ -166,17 +172,17 @@ investissements portant sur la construction d'hôtels ou de résidences à vocat
 touristique ou para-hôtelière, les investissements nécessaires à l'exploitation
 d'une concession de service public local à caractère industriel et commercial et
 les souscriptions au capital des sociétés concessionnaires mentionnées au
-cinquième alinéa du II doivent avoir reçu l'agrément préalable du ministre du
-budget (2). ((Il en est de même des investissements mentionnés au I réalisés à
-compter du ((1er janvier 1998)) (M) dans le secteur de la pêche maritime.
+troisième alinéa du II doivent avoir reçu l'agrément préalable du ministre du
+budget. Il en est de même des investissements mentionnés au I réalisés à compter
+du 1er janvier 1998 dans le secteur de la pêche maritime.
 
-L'agrément peut être accordé, après qu'a été demandé l'avis du ministre des
+L'agrément est accordé, après qu'a été demandé l'avis du ministre des
 départements et territoires d'outre-mer, si l'investissement présente un intérêt
-économique pour le département dans lequel il est réalisé, ((s'il favorise le
-maintien ou la création d'emplois dans ce département)) (M), s'il s'intègre dans
-la politique d'aménagement du territoire et de l'environnement et s'il garantit
-la protection des investisseurs et des tiers. L'octroi de l'agrément est tacite
-à défaut de réponse de l'administration dans un délai de trois mois à compter de
+économique pour le département dans lequel il est réalisé, s'il favorise le
+maintien ou la création d'emplois dans ce département, s'il s'intègre dans la
+politique d'aménagement du territoire et de l'environnement et s'il garantit la
+protection des investisseurs et des tiers. L'octroi de l'agrément est tacite à
+défaut de réponse de l'administration dans un délai de trois mois à compter de
 la réception de la demande d'agrément.
 
 Toutefois, les investissements mentionnés au I, dont le montant total n'excède
@@ -185,8 +191,8 @@ procédure d'agrément préalable, lorsqu'ils sont réalisés par une entreprise
 exerce son activité dans les départements visés au I depuis au moins deux ans,
 dans l'un des secteurs mentionnés au premier alinéa du présent III ter. Dans ce
 cas, l'entreprise joint à sa déclaration de résultat un état récapitulatif des
-investissements réalisés au cours de l'exercice et au titre desquels ((la
-déduction fiscale est pratiquée)) (M).
+investissements réalisés au cours de l'exercice et au titre desquels la
+déduction fiscale est pratiquée.
 
 III bis. (Abrogé).
 
@@ -201,12 +207,12 @@ cession.
 Toutefois, ces dispositions ne sont pas applicables dans le cas où, dans le
 délai de cinq ans, l'entreprise propriétaire des titres ayant ouvert droit à la
 déduction prévue aux II, II bis ou II ter fait l'objet d'une transmission dans
-le cadre des dispositions prévues ((aux articles 210 A ou 210 B)) (M) si
-l'entreprise qui devient propriétaire des titres remplit les conditions
-nécessaires pour bénéficier de cette déduction et s'engage à conserver les
-titres pendant la fraction du délai de conservation restant à courir.
-L'engagement est pris dans l'acte constatant la transmission ou, à défaut, par
-acte sous seing privé ayant date certaine, établi à cette occasion.
+le cadre des dispositions prévues aux articles 210 A ou 210 B si l'entreprise
+qui devient propriétaire des titres remplit les conditions nécessaires pour
+bénéficier de cette déduction et s'engage à conserver les titres pendant la
+fraction du délai de conservation restant à courir. L'engagement est pris dans
+l'acte constatant la transmission ou, à défaut, par acte sous seing privé ayant
+date certaine, établi à cette occasion.
 
 En cas de non-respect de cet engagement, le bénéficiaire de la transmission doit
 rapporter à ses résultats imposables, au titre de l'exercice au cours duquel
@@ -218,11 +224,23 @@ apportés ou échangés dans le cadre d'opérations soumises aux dispositions de
 articles 210 A ou 210 B, si l'entreprise conserve, sous les mêmes conditions et
 sanctions, les titres nouveaux qui se sont substitués aux titres d'origine.
 
-IV bis. (abrogé).
+((IV bis. L'abattement prévu à l'article 217 bis n'est applicable ni pour le
+calcul de la déduction prévue par le présent article ni aux résultats provenant
+de l'exploitation des investissements ayant donné lieu à cette déduction et qui
+sont acquis pendant la durée normale d'utilisation de ces mêmes investissements.
 
-V. Les dispositions du présent article, sous réserve de ce qui est précisé au
-troisième alinéa des I et II, sont applicables aux investissements réalisés ou
-aux souscriptions versées à compter du 15 septembre 1997, à l'exception :
+Si, avant l'expiration de sa durée normale d'utilisation, l'un de ces
+investissements est cédé ou cesse d'être affecté à l'exploitation de
+l'entreprise utilisatrice ou si l'acquéreur cesse son activité, l'avantage
+résultant de l'application du premier alinéa est rapporté au résultat imposable
+de l'exercice au cours duquel cet événement se réalise, majoré d'un montant égal
+au produit de cet avantage par le taux de l'intérêt de retard prévu au troisième
+alinéa de l'article 1727 et appliqué dans les conditions mentionnées à l'article
+1727 A)) (M).
+
+V. Les dispositions du présent article sont applicables aux investissements
+réalisés ou aux souscriptions versées à compter du 15 septembre 1997, à
+l'exception :
 
 1° Des investissements et des souscriptions pour l'agrément ou l'autorisation
 préalable desquels une demande est parvenue à l'administration avant cette date
@@ -235,13 +253,8 @@ d'ouverture de chantier à la mairie de la commune ;
 1997, si la commande a été accompagnée du versement d'acomptes égaux à 50 % au
 moins de leur prix.
 
-Les dispositions du présent article sont applicables jusqu'au 31 décembre 2001.
+Les dispositions du présent article sont applicables aux seuls investissements
+neufs réalisés ou aux souscriptions versées jusqu'au 31 décembre 2002.
 
-Un décret ((en conseil d'Etat)) (M) précise, en tant que de besoin, les
-modalités de leur application.
-
-(M) Modification.
-
-(1) Annexe III, art. 46 quaterdecies DA.
-
-(2) Annexe IV, art. 170 decies.
+Un décret en conseil d'Etat précise, en tant que de besoin, les modalités de
+leur application.

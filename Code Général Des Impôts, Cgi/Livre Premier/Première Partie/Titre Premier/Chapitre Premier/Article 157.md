@@ -39,15 +39,14 @@ s'ajoutent aux versements effectués sur le plan (1) ;
 
 5° bis Les produits et plus-values que procurent les placements effectués dans
 le cadre du plan d'épargne en actions défini à l'article 163 quinquies D ainsi
-que les avoirs fiscaux et crédits d'impôt restitués (2) (2'); ((toutefois, à
-compter de l'imposition des revenus de 1997, les produits, avoirs fiscaux et
-crédits d'impôt restitués procurés par des placements effectués en actions ou
-parts de sociétés qui ne sont pas admises aux négociations sur un marché
-réglementé, à l'exception des intérêts versés dans les conditions prévues à
-l'article 14 de la loi n° 47-1775 du 10 septembre 1947 portant statut de la
-coopération aux titres de capital de sociétés régies par cette loi, ne
-bénéficient de cette exonération que dans la limite de 10 % du montant de ces
-placements)) (M) ;
+que les avoirs fiscaux et crédits d'impôt restitués (2) ; toutefois, à compter
+de l'imposition des revenus de 1997, les produits, avoirs fiscaux et crédits
+d'impôt restitués procurés par des placements effectués en actions ou parts de
+sociétés qui ne sont pas admises aux négociations sur un marché réglementé, à
+l'exception des intérêts versés dans les conditions prévues à l'article 14 de la
+loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération aux titres
+de capital de sociétés régies par cette loi, ne bénéficient de cette exonération
+que dans la limite de 10 % du montant de ces placements ;
 
 5° ter La rente viagère, lorsque le plan d'épargne en actions défini à l'article
 163 quinquies D se dénoue après huit ans par le versement d'une telle rente ;
@@ -57,7 +56,7 @@ délivrance de la médaille d'honneur par le ministère des affaires sociales ;
 
 7° Les intérêts des sommes inscrites sur les livrets des caisses d'épargne à
 l'exception des intérêts des livrets supplémentaires ouverts dans les conditions
-prévues au décret n° 65-1158 du 24 décembre 1965 ;
+prévues ((par décret)) (M) ;
 
 7° bis (Disposition périmée) ;
 
@@ -66,8 +65,7 @@ ouverts dans les conditions prévues par la loi n° 82-357 du 27 avril 1982 ;
 
 7° quater Les intérêts des sommes déposées sur les livrets jeunes ouverts et
 fonctionnant dans les conditions prévues à l'article 28 de la loi n° 96-314 du
-12 avril 1996 portant diverses dispositions d'ordre économique et financier
-(2'');
+12 avril 1996 portant diverses dispositions d'ordre économique et financier ;
 
 8° (disposition devenue sans objet)
 
@@ -92,17 +90,14 @@ b) aux aides familiaux ou aux associés d'exploitation désignés au 2° du I de
 l'article 1106-1 du code rural et aux articles L. 321-6 et suivants du même code
 ;
 
-c) aux aides familiaux et associés d'exploitation de l'artisanat désignés à
-l'article 2 du décret n° 83-487 du 10 juin 1983 relatif au répertoire des
-métiers.
+c) aux aides familiaux et associés d'exploitation de l'artisanat (M) ;
 
 Il en est de même de la prime versée au travailleur manuel qui procède
 effectivement à la création ou au rachat d'une entreprise artisanale ;
 
-9° quater Le produit des ((dépôts)) (M) effectués sur un compte pour le
-développement industriel ouvert par les personnes physiques ayant leur domicile
-fiscal en France dans les établissements et organismes autorisés à recevoir des
-dépôts.
+9° quater Le produit des dépôts effectués sur un compte pour le développement
+industriel ouvert par les personnes physiques ayant leur domicile fiscal en
+France dans les établissements et organismes autorisés à recevoir des dépôts.
 
 Il ne peut être ouvert qu'un compte par contribuable ou un pour chacun des époux
 soumis à une imposition commune.
@@ -199,7 +194,7 @@ obligations déclaratives des contribuables et des intermédiaires (4).
 
 (2) Annexe III, 41 ZW.
 
-(M) Modification de la loi 97-1269.
+(M) Modification.
 
 (3) A compter de la date de promulgation de la loi n° 84-578 du 9 juillet 1984,
 il ne peut plus être ouvert de livrets. Les livrets d'épargne au profit des

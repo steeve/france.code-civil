@@ -27,9 +27,18 @@ inférieur à 1. Ce taux est éventuellement réduit de telle sorte que la somme
 taux global de la taxe et du taux de la cotisation ne puisse excéder le taux
 moyen national.
 
-II bis. Les taux de 1 %, de 0,75 % et de 0,50 % visés au II sont majorés et
-respectivement portés à 1,70 %, 1,25 % et 0,8 % pour les impositions établies au
-titre de 1990 et des années suivantes.
+II bis. - Les taux de 1 %, de 0,75 % et de 0,5 % visés au II sont majorés et
+respectivement portés à :
+
+2,35 %, 1,75 % et 1,15 % pour les impositions établies au titre de 1999 et 2000
+;
+
+2,7 %, 2 % et 1,3 % pour les impositions établies au titre de 2001 ;
+
+3,05 %, 2,25 % et 1,45 % pour les impositions établies au titre de 2002 ;
+
+3,4 %, 2,5 % et 1,6 % pour les impositions établies au titre de 2003 et des
+années suivantes.
 
 III. (Périmé).
 

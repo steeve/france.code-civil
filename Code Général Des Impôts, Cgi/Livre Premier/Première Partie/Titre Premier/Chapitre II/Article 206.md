@@ -20,10 +20,11 @@ visées aux articles 34 et 35.
 Toutefois, les sociétés civiles dont l'activité principale entre dans le champ
 d'application de l'article 63 peuvent bénéficier des dispositions de l'article
 72 bis lorsqu'elles sont soumises à un régime réel d'imposition. Celles relevant
-du forfait ne sont pas passibles de l'impôt visé au 1 lorsque les activités
-accessoires visées aux articles 34 et 35 qu'elles peuvent réaliser n'excèdent
-pas le seuil fixé à l'article 75 : les bénéfices résultant de ces activités sont
-alors déterminés et imposés d'après les règles qui leur sont propres.
+du forfait ((prévu aux articles 64 à 65 A)) (M) (1) ne sont pas passibles de
+l'impôt visé au 1 lorsque les activités accessoires visées aux articles 34 et 35
+qu'elles peuvent réaliser n'excèdent pas le seuil fixé à l'article 75 : les
+bénéfices résultant de ces activités sont alors déterminés et imposés d'après
+les règles qui leur sont propres.
 
 3. Sont soumis à l'impôt sur les sociétés si ils optent pour leur
 assujettissement à cet impôt dans les conditions prévues à l'article 239 :
@@ -42,9 +43,9 @@ physique ;
 f. Les exploitations agricoles à responsabilité limitée mentionnée au 5° de
 l'article 8.
 
-g. les groupements d'intérêt public mentionnés à l'article 239 quater B (0).
+g. les groupements d'intérêt public mentionnés à l'article 239 quater B.
 
-h. Les sociétés civiles professionnelles visées à l'article 8 ter (0).
+h. Les sociétés civiles professionnelles visées à l'article 8 ter.
 
 Cette option entraîne l'application auxdites sociétés et auxdits groupements,
 sous réserve des exceptions prévues par le présent code, de l'ensemble des
@@ -65,24 +66,25 @@ assujettis audit impôt en raison :
 
 a. De la location des immeubles bâtis et non bâtis dont ils sont propriétaires,
 et de ceux auxquels ils ont vocation en qualité de membres de sociétés
-immobilières de copropriété visées à l'article 1655 ter (1) ;
+immobilières de copropriété visées à l'article 1655 ter ;
 
 b. De l'exploitation des propriétés agricoles ou forestières ;
 
 c. Des revenus de capitaux mobiliers dont ils disposent - à l'exception des
 dividendes des sociétés françaises - lorsque ces revenus n'entrent pas dans le
 champ d'application de la retenue à la source visée à l'article 119 bis ; ces
-revenus sont comptés dans le revenu imposable pour leur montant brut (1');
+revenus sont comptés dans le revenu imposable pour leur montant brut ;
 
 d. Des dividendes des sociétés immobilières et des sociétés agréées visées aux
 3° ter à 3° sexies de l'article 208 et à l'article 208 B perçus à compter du 1er
 janvier 1987. Ces dividendes sont comptés dans le revenu imposable pour leur
-montant brut (1").
+montant brut.
 
-5 bis. Les associations intermédiaires agréées en application de l'article L128
-du code du travail et les associations de services aux personnes, agréées en
-application de l'article L129-1 du même code sont soumises à l'impôt sur les
-sociétés dans les conditions prévues au 5 ;
+5 bis. Les associations intermédiaires ((conventionnées, visées à l'article L.
+322-4-16-3 du code du travail, dont la gestion est désintéressée)) (M) (1) et
+les associations de services aux personnes, agréées en application de l'article
+L129-1 du même code sont soumises à l'impôt sur les sociétés dans les conditions
+prévues au 5 ;
 
 6. 1° La caisse nationale de crédit agricole, les caisses régionales de crédit
 agricole mutuel mentionnées à l'article 614 du code rural et les caisses locales
@@ -94,9 +96,9 @@ aucune activité rémunérée d'intermédiaire financier, les caisses locales
 mentionnées au 1° sont redevables de l'impôt sur les sociétés dans les
 conditions prévues au 5 et à l'article 219 bis ;
 
-3° Un décret en Conseil d'Etat (2) fixe les modalités d'application du présent
-6, notamment les dispositions transitoires qui seraient nécessaires en raison de
-la modification du régime fiscal applicable aux organismes mentionnés au 1°.
+3° Un décret en Conseil d'Etat fixe les modalités d'application du présent 6,
+notamment les dispositions transitoires qui seraient nécessaires en raison de la
+modification du régime fiscal applicable aux organismes mentionnés au 1°.
 
 7. Les caisses de crédit mutuel mentionnées à l'article 5 modifié de
 l'ordonnance n° 58-966 du 16 octobre 1958 relative à diverses dispositions
@@ -104,7 +106,7 @@ concernant le Trésor sont assujetties à l'impôt sur les sociétés dans les
 conditions de droit commun.
 
 Un décret en Conseil d'Etat fixe, en tant que de besoin, les conditions
-d'application de cette disposition (3).
+d'application de cette disposition.
 
 8. Le fonds de garantie des banques populaires prévu à l'article 6 de la loi du
 13 août 1936 tendant à modifier et à compléter l'organisation du crédit au petit
@@ -120,37 +122,16 @@ loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des
 établissements de crédit sont assujetties à l'impôt sur les sociétés dans les
 conditions de droit commun.
 
-Un décret fixe les conditions d'application du présent 9 (5).
+Un décret fixe les conditions d'application du présent 9.
 
 10. Les caisses d'épargne et de prévoyance et les caisses de crédit municipal
 sont assujetties à l'impôt sur les sociétés (6).
 
-((11. Les fonds d'épargne retraite prévus par la loi n° 97-277 du 25 mars 1997
+11. Les fonds d'épargne retraite prévus par la loi n° 97-277 du 25 mars 1997
 créant les plans d'épargne retraite sont assujettis à l'impôt sur les sociétés,
-dans les conditions de droit commun)) (M).
-
-(0) Ces dispositions sont applicables pour l'imposition des résultats des
-exercices ouverts à compter du 1er janvier 1996. [*Cf. Instructions 1996-07-12
-5G-8-96, 4H-2-96.*]
-
-Pour 1996, et par dérogation aux dispositions de l'article 239 du cod( général
-des impôts, les sociétés civiles professionnelles peuvent exercer l'option pour
-l'assujettissement à l'impôt sur les sociétés jusqu'au 30 juin de cette année.
-
-(1) Voir Annexe III, art. 46 quater-0 A.
-
-(1') [*Cf. Instruction 1995-05-05 4H-9-95*].
-
-(1") [*Cf. Instruction 1995-04-18 4H-6-95*].
-
-(2) Annexe II, art. 102 H à 102 N.
-
-(3) Annexe II, art. 102 O à 102 R.
-
-(4) Annexe II, art. 102 RA à 102 RC.
-
-(5) Annexe III, art. 46 quater-0 Z à 46 quater-0 ZC.
-
-(6) Voir art. 217 octies.
+dans les conditions de droit commun.
 
 (M) Modification.
+
+(1) Ces dispositions sont applicables pour la détermination des résultats des
+années 1999 et suivantes.

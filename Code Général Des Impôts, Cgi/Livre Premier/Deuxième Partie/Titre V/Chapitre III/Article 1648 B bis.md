@@ -11,9 +11,9 @@ de l'indice de variation des recettes fiscales de l'Etat tel que défini au 2° 
 II de l'article 1648 A bis.
 
 II. Le fonds est réparti entre les communes dans les conditions précisées aux
-III, IV, V et VI ci-dessous, après prélèvement opéré proportionnellement à leurs
-montants respectifs sur les produits définis aux 1° et 2° du I, des sommes
-nécessaires à :
+III, III bis, IV, V et VI ci-dessous, après prélèvement opéré
+proportionnellement à leurs montants respectifs sur les produits définis aux 1°
+et 2° du I, des sommes nécessaires à :
 
 1° l'application du III de l'article 52 de la loi n° 95-115 du 4 février 1995
 modifiée d'orientation pour l'aménagement et le développement du territoire ;
@@ -34,27 +34,45 @@ conditions suivantes :
 1° le potentiel fiscal est inférieur de 5 p. 100 au potentiel fiscal moyen par
 habitant de l'ensemble des communes appartenant au même groupe démographique tel
 que défini à l'article L. 2334-3 du code général des collectivités territoriales
-(1) ;
+;
 
 2° l'effort fiscal est supérieur à l'effort fiscal moyen des communes
 appartenant au même groupe démographique.
 
 Par dérogation à l'alinéa précédent, il n'est pas tenu compte de la seconde
 condition pour les communes dont le taux d'imposition à la taxe professionnelle
-est égal au plafond prévu aux IV et V de l'article 1636 B septies. ((Par
+est égal au plafond prévu aux IV et V de l'article 1636 B septies. Par
 dérogation aux dispositions précédentes, les communes de 10 000 habitants au
 moins dont le potentiel fiscal est inférieur du tiers au potentiel fiscal moyen
 par habitant de l'ensemble des communes appartenant au même groupe
 démographique, et l'effort fiscal est supérieur à 80 % de l'effort fiscal moyen
 des communes appartenant au même groupe démographique bénéficient du fonds dans
-les conditions prévues au IV)) (M).
+les conditions prévues au IV.
 
 Les communes qui remplissent la première condition mais pas la seconde, sans que
 leur effort fiscal ne soit inférieur à 90 p. 100 de l'effort fiscal moyen des
 communes appartenant au même groupe démographique, bénéficient d'une attribution
 dans les conditions définies au IV.
 
-IV. Le produit défini au 1° du I est réparti dans les conditions suivantes :
+((III bis. - Bénéficient également du fonds les fonds départementaux de
+péréquation de la taxe professionnelle visés à l'article 1648 A qui, à la suite
+d'un changement d'exploitant intervenu après le 1er janvier 1997 et concernant
+des entreprises visées à l'article 1471, enregistrent une perte de ressources
+supérieure au quart des ressources dont ils bénéficiaient l'année de survenance
+de ce changement.
+
+((Cette attribution est versée de manière dégressive sur trois ans. Les fonds
+éligibles bénéficient :
+
+((1° la première année, d'une attribution égale à 90 % de la perte subie ;
+
+((2° la deuxième année, de 75 % de l'attribution reçue l'année précédente ;
+
+((3° la troisième année, de 50 % de l'attribution reçue la première année)) (M).
+
+IV. ((Outre les attributions versées aux fonds départementaux de péréquation de
+la taxe professionnelle en application du III bis, le produit)) (M) défini au 1°
+du I est réparti dans les conditions suivantes :
 
 L'attribution par habitant revenant à chaque commune de métropole éligible est
 déterminée en proportion de l'écart relatif entre le potentiel fiscal moyen par
@@ -79,7 +97,7 @@ deux alinéas précédents.
 
 Lorsqu'une commune ne dispose d'aucune ressource au titre des quatre taxes
 directes locales, l'attribution par habitant revenant à la commune est égale à
-huit fois l'attribution moyenne nationale par habitant (1).
+huit fois l'attribution moyenne nationale par habitant.
 
 A compter de 1995, le montant total des attributions revenant en métropole aux
 communes éligibles comptant 200 000 habitants et plus est égal au produit de
@@ -100,6 +118,4 @@ démographique.
 VI. Aucune attribution calculée en application des alinéas précédents n'est
 versée si son montant est inférieur ou égal à 2 000 F.
 
-(M) Modification de la loi 97-1269.
-
-(1) Ces dispositions s'appliquent à compter de l'exercice 1996.
+(M) Modification.

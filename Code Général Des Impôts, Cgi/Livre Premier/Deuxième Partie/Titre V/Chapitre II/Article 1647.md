@@ -8,12 +8,11 @@ a De la taxe locale d'équipement visée à l'article 1585 A ;
 b Des droits, taxes, redevances et autres impositions visés au II de l'article
 1635 ter.
 
-Le taux de ce prélèvement est fixé à 4 % [*pourcentage*] du montant des
-recouvrements.
+Le taux de ce prélèvement est fixé à 4 % du montant des recouvrements.
 
 II. Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement sur
 le produit de la cotisation incluse dans la taxe sur la valeur ajoutée en vertu
-de l'article 1609 septdecies . Le taux de ce prélèvement et les modalités de
+de l'article 1609 septdecies. Le taux de ce prélèvement et les modalités de
 remboursement sont fixés par le ministre de l'économie et des finances.
 
 III. Pour frais de recouvrement, l'Etat effectue un prélèvement sur les
@@ -30,10 +29,11 @@ labiles mentionnée à l'article 1609 tervicies.
 V. - L'Etat perçoit au titre de frais d'assiette, de recouvrement, de
 dégrèvements et de non-valeurs un prélèvement de :
 
-- 2,50 p. 100 en sus du montant des taxes et droits départementaux mentionnés à
-l'article 1594 A. Ce prélèvement est recouvré en négligeant les centimes ;
+a. 2,50 p. 100 en sus du montant ((de la taxe de publicité foncière ou de droits
+d'enregistrement perçus au profit des départements en application de)) (M)
+l'article 1594 A.
 
-- 2,50 p. 100 en sus du montant de la taxe différentielle sur les véhicules à
+b. 2,50 p. 100 en sus du montant de la taxe différentielle sur les véhicules à
 moteur mentionnée aux articles 1599 C et 1599 nonies. Le taux est porté à 3 p.
 100 à compter de la période d'imposition s'ouvrant le 1er décembre 1993. Ce
 prélèvement est perçu dans les conditions fixées à l'article 1599 I et au
@@ -43,10 +43,12 @@ VI. Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement d
 1 p. 100 sur le montant des taxes mentionnées aux articles 302 bis ZA et 302 bis
 ZB (1).
 
-VII. ((Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement
-de 1,5 % sur le montant de la taxe mentionnée à l'article 302 bis KB)) (M).
+VII. Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement de
+1,5 % sur le montant de la taxe mentionnée à l'article 302 bis KB (2).
+
+(M) Modification.
 
 (1) Cette disposition s'applique aux taxes acquittées à compter du 1er janvier
 1996.
 
-(M) Modification de la loi 97-1239.
+(2) Cette disposition s'applique à compter du 1er janvier 1998.

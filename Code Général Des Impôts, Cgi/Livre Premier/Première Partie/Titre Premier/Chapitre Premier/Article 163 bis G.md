@@ -11,12 +11,12 @@ société depuis moins de trois ans à la date de la cession.
 
 II. - Les sociétés par actions dont les titres ne sont pas admis aux
 négociations sur un marché réglementé peuvent, à condition d'avoir été
-immatriculées au registre du commerce et des sociétés depuis moins de sept ans,
-attribuer aux membres de leur personnel salarié, ainsi qu'à leurs dirigeants
-soumis au régime fiscal des salariés, des bons de souscription de parts de
-créateur d'entreprise, incessibles, et émis dans les conditions prévues à
-l'article 339-5 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés
-commerciales, lorsque les conditions suivantes sont remplies :
+immatriculées au registre du commerce et des sociétés depuis moins de ((quinze
+ans)) (M), attribuer aux membres de leur personnel salarié, ainsi qu'à leurs
+dirigeants soumis au régime fiscal des salariés, des bons de souscription de
+parts de créateur d'entreprise, incessibles, et émis dans les conditions prévues
+à l'article 339-5 de la loi n° 66-537 du 24 juillet 1966 ((modifiée)) (M) sur
+les sociétés commerciales, lorsque les conditions suivantes sont remplies :
 
 1. La société doit exercer une activité autre que celles mentionnées au deuxième
 alinéa du 2 du I de l'article 44 sexies et être passible en France de l'impôt
@@ -50,5 +50,8 @@ sociétés émettrices.
 
 V. - Les bons de souscription de parts de créateur d'entreprise mentionnés au II
 peuvent être attribués à compter du 1er janvier 1998 et jusqu'au 31 décembre
-1999, ou jusqu'à l'expiration du délai de sept ans prévu au II si celle-ci est
-antérieure.
+1999, ou jusqu'à l'expiration du délai de ((quinze ans)) (M) prévu au II si
+celle-ci est antérieure.
+
+(M) Modification. Ces modifications s'appliquent aux bons de souscription de
+parts de créateur d'entreprise attribués à compter du 1er septembre 1998.

@@ -25,9 +25,9 @@ soit en la souscription d'actions ou de parts de sociétés ayant pour objet
 principal de concourir directement ou indirectement à la construction
 d'immeubles dans des conditions qui sont fixées par un arrêté du ministre de
 l'économie et des finances (3). Dans le cas où le remploi ayant été effectué en
-achat de terrains, les conditions fixées à l'article 691 n'ont pas été remplies,
-la plus-value est rapportée aux bénéfices de l'exercice en cours à l'expiration
-du délai prévu audit article.
+achat de terrains, les conditions fixées au A de l'article 1594-0 G n'ont pas
+été remplies, la plus-value est rapportée aux bénéfices de l'exercice en cours à
+l'expiration du délai prévu audit article.
 
 Sous réserve des exceptions qui peuvent être prévues par décret (4), les
 plus-values provenant de ventes précédées de versements d'acomptes ou d'avances
@@ -45,7 +45,7 @@ Elles peuvent également être placées sous le régime d'exonération prévu à
 l'article 210, en cas de fusion de sociétés ou d'opérations assimilées
 remplissant les conditions prévues au 2 dudit article 210.
 
-III. (Périmé) (M).
+III. (Périmé).
 
 (1) Annexe III, art. 10 H bis et 46 quater-0 R.
 
@@ -56,5 +56,3 @@ III. (Périmé) (M).
 (4) Annexe II, art. 168.
 
 (5) Annexe II, art. 166, 167 et 169.
-
-(M) Modification.

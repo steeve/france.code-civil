@@ -1,10 +1,9 @@
 Article 365
 ----
-1. La liquidation de l'impôt est faite par la société et le montant arrondi au
-franc le plus voisin en est versé par elle sans avis d'imposition sous déduction
-des acomptes déjà réglés au plus tard le jour de l'expiration du délai fixé pour
-la remise de la déclaration prévue au 1 de l'article 223 du code général des
-impôts.
+1. La liquidation de l'impôt est faite par la société et le montant en est versé
+par elle sans avis d'imposition sous déduction des acomptes déjà réglés au plus
+tard le jour de l'expiration du délai fixé pour la remise de la déclaration
+prévue au 1 de l'article 223 du code général des impôts.
 
 Ce versement est effectué à la caisse du comptable du Trésor chargé du
 recouvrement des impôts directs habilité à recevoir le premier acompte ou, s'il
@@ -22,11 +21,11 @@ suivant celui au cours duquel il était exigible en vertu du 1, la majoration de
 non réglées.
 
 Lorsque la liquidation de l'impôt n'a pas été faite par la société ou que cette
-liquidation a été opérée d'après ((des bénéfices ou un résultat net définis à
-l'article 360, inférieurs à ceux qui ont)) (M) été compris dans la déclaration
+liquidation a été opérée d'après des bénéfices ou un résultat net définis à
+l'article 360, inférieurs à ceux qui ont été compris dans la déclaration
 souscrite en exécution du 1 de l'article 223 du code général des impôts, la
-majoration de 10 % est calculée en tenant compte ((des bénéfices ou du résultat
-net portés)) (M) dans la déclaration susvisée.
+majoration de 10 % est calculée en tenant compte des bénéfices ou du résultat
+net portés dans la déclaration susvisée.
 
 4. Le recouvrement du solde de liquidation ou fraction du solde de liquidation
 et de la majoration de 10 % correspondante est poursuivi, le cas échéant, en
@@ -43,5 +42,3 @@ titres de perception ou rôle visés ci-dessus ainsi que les erreurs commises da
 le calcul du solde de liquidation ou de la majoration de 10 % peuvent être
 réparées jusqu'à l'expiration de la quatrième année suivant celle au cours de
 laquelle le versement du solde était exigible.
-
-(M) Modification.

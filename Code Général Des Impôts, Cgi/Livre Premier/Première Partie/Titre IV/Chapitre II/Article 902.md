@@ -7,7 +7,7 @@ Sont exonérés du droit de timbre de dimension :
 1° a. Les minutes, originaux et expéditions des actes d'échange d'immeubles ;
 
 b. Les minutes, originaux et expéditions des actes ou procès-verbaux de vente ou
-licitation d'immeubles dont le prix n'est pas supérieur à 5.000 F [*montant*].
+licitation d'immeubles dont le prix n'est pas supérieur à 5.000 F.
 
 Les cahiers des charges ne sont soumis au timbre de dimension qu'après la
 réalisation des ventes ou adjudications et seulement si le prix excède 5.000 F.
@@ -22,12 +22,14 @@ en vente, ainsi que toute déclaration de command contenue en l'acte même, ou
 encore tout paiement par subrogation effectué par un tiers en l'acquit de
 l'acquéreur ;
 
-2° Les actes visés aux articles 696, 706, 707, 712 et 715. 2. Actes judiciaires,
-extrajudiciaires et registres divers.
+2° Les actes visés aux F, G, J et K de l'article 1594 F et au B de l'article
+1594-0 G ;
 
-1° Les actes des huissiers de justice à l'exception de ceux visés à l'article
-635-1-3° à 7° et 2-2° à 9° pour lesquels l'original remis à la partie ou à son
-représentant est seul exonéré ;
+2. Actes judiciaires, extrajudiciaires et registres divers.
+
+1° Les actes des huissiers de justice à l'exception de ceux visés aux 3° à 7° du
+1 et aux 2° à 7° bis du 2 de l'article 635 pour lesquels l'original remis à la
+partie ou à son représentant est seul exonéré ;
 
 2° Les décisions des tribunaux de l'ordre administratif ;
 
@@ -44,7 +46,7 @@ grande instance statuant commercialement en vertu des dispositions des articles
 droit en matière de chèque, modifiés par les articles 1er et 2 de la loi n°
 49-1093 du 2 août 1949 ;
 
-6° à 13 ° (Abrogés) ;
+6° à 13° (Abrogés) ;
 
 14° Les répertoires et le registre visés aux articles 867 et 868.
 
@@ -86,9 +88,10 @@ application (1) ;
 portant création des chèques-vacances.
 
 11° Les offres préalables de prêts rédigés conformément aux dispositions des
-chapitres II et III du titre I du livre III du code de la consommation ; 12° Les
-conventions d'ouverture d'un compte pour le développement industriel (CODEVI)
-prévues à l'article 4 du décret n° 83-872 du 30 septembre 1983 ; cette
+chapitres II et III du titre I du livre III du code de la consommation ;
+
+12° Les conventions d'ouverture d'un compte pour le développement industriel
+(CODEVI) prévues à l'article 4 du décret n° 83-872 du 30 septembre 1983 ; cette
 disposition s'applique à compter du 3 octobre 1983 ;
 
 13° Les contrats de prêt sur gage consentis par les caisses de crédit municipal
@@ -96,12 +99,22 @@ disposition s'applique à compter du 3 octobre 1983 ;
 
 14° Les minutes, originaux et expéditions des actes constatant la formation de
 sociétés en nom collectif, en commandite simple, à responsabilité limitée et par
-actions ((ainsi que des sociétés civiles à objet agricole)) (M) ;
+actions ainsi que des sociétés civiles à objet agricole ;
 
 15° Les prêts de titres effectués dans les conditions du chapitre V de la loi n°
-87-416 du 17 juin 1987 sur l'épargne.
+87-416 du 17 juin 1987 sur l'épargne et les remises en garantie de valeurs,
+titres, effets ou sommes d'argent prévues à l'article 52 de la loi n° 96-597 du
+2 juillet 1996 de modernisation des activités financières (2) ;
+
+16° Les titres émis conformément aux dispositions de l'article L. 1611-6 du code
+général des collectivités territoriales (3).
 
 (1) Décret n° 67-1165 du 22 décembre 1967 et arrêté du même jour.
 
-(M) Modification de la loi. [*Cf. Instruction 1995-02-20 7M-2-95, Instruction
-1996-05-14 7M-3-96*].
+(2) Loi 98-1267 1998-12-30 art. 27 XV : Ces dispositions sont applicables à
+compter de la date d'entrée en vigueur de la loi n° 96-597 du 2 juillet 1996 de
+modernisation des activités financières.
+
+(3) Ces dispositions sont applicables aux associations de solidarité agréées au
+plan national par l'Etat à cet effet, voir Loi 98-657 du 29 juillet 1998 art.
+138 III JORF 31 juillet 1998.

@@ -44,3 +44,6 @@ redevable pourra se dispenser du second versement prévu pour cette année en
 remettant au comptable du Trésor chargé du recouvrement des impôts directs du
 lieu d'imposition, quinze jours avant la date d'exigibilité de ce dernier
 versement, une déclaration datée et signée.
+
+5. Les acomptes mentionnés au 1 sont arrondis au franc le plus proche. La
+fraction de franc égale à 0,50 est comptée pour 1.

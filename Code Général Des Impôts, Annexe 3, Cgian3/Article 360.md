@@ -9,30 +9,26 @@ du code général des impôts. Lorsqu'une société modifie le lieu de son princ
 déterminé les acomptes subséquents doivent être versés à la caisse du comptable
 du Trésor habilité à percevoir le premier acompte.
 
-Chacun des acomptes est égal à ((8,1/3 % des bénéfices soumis aux taux fixés au
+Chacun des acomptes est égal à 8,1/3 % des bénéfices soumis aux taux fixés au
 deuxième alinéa et au f du I de l'article 219 du code général des impôts et à
 4,75 % du résultat net de la concession de licences d'exploitation des éléments
-mentionnés au 1 de l'article 39 terdecies du code précité, déterminés)) (M)
-d'après les résultats du plus récent exercice clos à la date de son échéance ou
+mentionnés au 1 de l'article 39 terdecies du code précité, déterminés d'après
+les résultats du plus récent exercice clos à la date de son échéance ou
 lorsqu'aucun exercice n'a été clos au cours d'une année d'après les résultats de
 la dernière période d'imposition.
 
-Toutefois en cas d'exercice d'une durée inférieure ou supérieure à un an les
+Toutefois en cas d'exercice d'une durée inférieure ou supérieure à un an, les
 acomptes sont calculés sur la base des bénéfices rapportés à une période de
 douze mois.
 
 Par dérogation aux dispositions du deuxième alinéa l'acompte dont l'échéance est
 comprise entre la date de clôture d'un exercice ou la fin d'une période
 d'imposition et l'expiration du délai de déclaration fixé à l'article 223 1,
-deuxième alinéa du code général des impôts est égal, s'il y a lieu, à ((8,1/3 %
+deuxième alinéa du code général des impôts est égal, s'il y a lieu, à 8,1/3 %
 des bénéfices soumis aux taux fixés au deuxième alinéa et au f du I de l'article
 219 du code général des impôts et à 4,75 % du résultat net de la concession de
 licences d'exploitation des éléments mentionnés au 1 de l'article 39 terdecies
-du code précité afférents)) (M) à l'exercice ou à la période d'imposition
-précédente et dont le délai de déclaration est expiré. Le montant de cet acompte
-est régularisé sur la base des résultats du dernier exercice ou de la dernière
+du code précité afférents à l'exercice ou à la période d'imposition précédente
+et dont le délai de déclaration est expiré. Le montant de cet acompte est
+régularisé sur la base des résultats du dernier exercice ou de la dernière
 période d'imposition lors du versement du plus prochain acompte.
-
-Le montant des acomptes est arrondi au franc inférieur.
-
-(M) Modification.

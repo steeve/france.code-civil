@@ -19,8 +19,8 @@ titres, y compris les obligations convertibles, émis.
 
 a. Aux fins d'augmentations de capital en numéraire réalisées après le 1er
 janvier 1984 par des sociétés soumises à l'impôt sur les sociétés exerçant une
-activité visée à l'article 34 et dont les actions ne sont pas admises à la cote
-officielle ou à la cote du second marché ;
+activité visée à l'article 34 et dont les actions ne sont pas admises ((aux
+négociations sur un marché réglementé)) (M) (1).
 
 b. Ou aux fins de constitution du capital de sociétés définies au a, réalisée
 par apport en numéraire après le 1er janvier 1984 ;
@@ -60,5 +60,8 @@ gérants et dépositaires des fonds mentionnés au titre II bis de la loi n° 79
 du 13 juillet 1979 complétée par la loi n° 83-1 du 3 janvier 1983, art. 23 et de
 ceux remplissant les conditions prévues au II 2°.
 
-(1) Annexe III, art. 41 W à 41 X. Voir également Annexe III, art. 39 quater, 39
-quinquies, 41 sexdecies G, 280 A et livre des procédures fiscales, art. R 87-1.
+(M) Modification.
+
+(1) Loi 98-1267 1998-12-30 art. 27 XV : Les dispositions du présent article sont
+applicables à compter de la date d'entrée en vigueur de la loi n° 96-597 du 2
+juillet 1996 de modernisation des activités financières.

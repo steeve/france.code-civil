@@ -64,21 +64,7 @@ Sociétés anonymes : au plus tard le 24 du mois suivant ;
 
 Autres redevables : au plus tard le 24 du mois suivant.
 
-2° La date limite à laquelle les redevables placés sous le régime du forfait
-sont tenus d'acquitter les taxes dues au titre du trimestre est fixée ainsi
-qu'il suit :
-
-Entreprises individuelles selon que le nom patronymique de l'exploitant commence
-par l'une ou par l'autre des lettres ci-après :
-
-A, B, C, D, E, F : au plus tard le 6 du mois suivant ;
-
-G, H, I, J, K, L, M, N, O : au plus tard le 10 du mois suivant ;
-
-P, Q, R, S, T, U, V, W, X, Y, Z : au plus tard le 14 du mois suivant.
-
-Sociétés, associations et autres redevables : au plus tard le 14 du mois
-suivant.
+2° (périmé) (M).
 
 3° La date limite visée au présent article est reportée au premier jour ouvrable
 suivant lorsqu'elle coïncide avec un jour férié ou réputé férié à l'égard des
@@ -96,3 +82,5 @@ déclaration négative.
 Les redevables exerçant des industries ou commerces saisonniers sont dispensés
 de fournir des déclarations négatives pendant les périodes de fermeture de leurs
 établissements.
+
+(M) Modification.

@@ -32,8 +32,8 @@ fiscales que la liquidation de la société transformée.
 3 Le changement de nationalité d'une société par actions et le transfert de son
 siège social à l'étranger n'entraînent pas l'application des dispositions du 2,
 premier alinéa, lorsqu'ils sont décidés par l'assemblée générale dans les
-conditions prévues à l'article 154 de la loi n° 66-537 du 24 juillet 1966 sur
-les sociétés commerciales.
+conditions prévues à l'article 154 de la loi n° 66-537 du 24 juillet 1966
+((modifiée)) (M) sur les sociétés commerciales.
 
 4 (Disposition périmée).
 
@@ -48,3 +48,5 @@ du 2 ne s'appliquent pas si cette renonciation ne s'accompagne pas d'un
 changement de régime fiscal.
 
 (1) Voir Annexe II, art. 372.
+
+(M) Modification.

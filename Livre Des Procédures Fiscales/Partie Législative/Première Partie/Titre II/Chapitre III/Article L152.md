@@ -1,15 +1,29 @@
 Article L152
 ----
-((Les agents des administrations fiscales)) (M) peuvent communiquer aux
-organismes de sécurité sociale les renseignements nécessaires à l'assiette des
-cotisations et au calcul des prestations ainsi qu'à l'assiette et au calcul de
-la contribution sociale généralisée.
+Les agents des administrations fiscales communiquent aux organismes et services
+chargés de la gestion d'un régime obligatoire de sécurité sociale et aux
+institutions mentionnées au chapitre Ier du titre II du livre IX du code de la
+sécurité sociale les informations nominatives nécessaires :
 
-Ils peuvent également signaler aux directeurs régionaux de la sécurité sociale,
-aux directeurs régionaux des affaires sanitaires et sociales et aux directeurs
-régionaux et chefs des services départementaux du travail et de la protection
-sociale agricoles, les infractions qu'ils constatent en ce qui concerne
-l'application des lois et règlements relatifs au régime général ou au régime
-agricole de sécurité sociale.
+1° A l'appréciation des conditions d'ouverture et de maintien des droits aux
+prestations ;
 
-(M) Modification.
+2° Au calcul des prestations ;
+
+3° A l'appréciation des conditions d'assujettissement aux cotisations et
+contributions ;
+
+4° A la détermination de l'assiette et du montant des cotisations et
+contributions ainsi qu'à leur recouvrement.
+
+Le numéro d'inscription au répertoire national d'identification des personnes
+physiques est utilisé pour les demandes, échanges et traitements nécessaires à
+la communication des informations mentionnées au premier alinéa, lorsqu'elles
+concernent des personnes physiques.
+
+Les agents des administrations fiscales peuvent également signaler aux
+directeurs régionaux de la sécurité sociale, aux directeurs régionaux des
+affaires sanitaires et sociales et aux directeurs régionaux et chefs des
+services départementaux du travail et de la protection sociale agricoles, les
+infractions qu'ils constatent en ce qui concerne l'application des lois et
+règlements relatifs au régime général ou au régime agricole de sécurité sociale.

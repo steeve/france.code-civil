@@ -10,7 +10,7 @@ Toutefois les rémunérations ne sont admises en déduction des résultats que d
 la mesure où elles correspondent à un travail effectif et ne sont pas excessives
 eu égard à l'importance du service rendu. Cette disposition s'applique à toutes
 les rémunérations directes ou indirectes, y compris les indemnités, allocations,
-avantages en nature et remboursements de frais (1).
+avantages en nature et remboursements de frais.
 
 1° bis Pour les exercices clos à compter du 31 décembre 1987 et sous réserve des
 dispositions du 9, l'indemnité de congé payé calculée dans les conditions
@@ -24,7 +24,7 @@ substitution qui constitue une charge normale de l'exercice au cours duquel le
 salarié prend le congé correspondant. Cette option ne peut pas être exercée par
 les entreprises créées après le 31 décembre 1986. Elle est exercée avant
 l'expiration du délai de dépôt de la déclaration des résultats du premier
-exercice clos à compter du 31 décembre 1987 (1').
+exercice clos à compter du 31 décembre 1987.
 
 Pour les exercices clos avant le 31 décembre 1987, l'indemnité de congé payé
 calculée dans les conditions prévues aux articles L. 223-11 à L. 223-13 du code
@@ -34,7 +34,7 @@ salarié prend le congé correspondant. Pour la détermination des résultats
 imposables des exercices clos du 1er janvier 1986 au 30 décembre 1987, il en est
 de même des charges sociales et fiscales afférentes à cette indemnité.
 
-Un décret fixe les modalités d'application de ces dispositions (2).
+Un décret fixe les modalités d'application de ces dispositions.
 
 1° ter Pour les emprunts contractés à compter du 1er janvier 1993, la fraction,
 courue au cours de l'exercice, de la rémunération égale à la différence entre
@@ -55,7 +55,7 @@ seule initiative de l'emprunteur.
 1° quater Sur option irrévocable et globale de l'émetteur pour une période de
 deux ans, les frais d'émission des emprunts répartis par fractions égales ou au
 prorata de la rémunération courue, sur la durée des emprunts émis pendant cette
-période (3).
+période.
 
 En cas de remboursement anticipé d'un emprunt, de conversion ou d'échange, les
 frais d'émission non encore déduits sont admis en charge au prorata du capital
@@ -67,23 +67,24 @@ Ces dispositions ne sont pas applicables aux emprunts dont le remboursement est
 Un décret fixe les conditions d'application de ces dispositions, notamment en ce
 qui concerne les modalités d'option et les obligation déclaratives.
 
-2° Sauf s'ils sont pratiqués par une copropriété de navires (3), une copropriété
-de cheval de course ou d'étalon, les amortissements réellement effectués par
+2° Sauf s'ils sont pratiqués par une copropriété de navires, une copropriété de
+cheval de course ou d'étalon, les amortissements réellement effectués par
 l'entreprise, dans la limite de ceux qui sont généralement admis d'après les
 usages de chaque nature d'industrie, de commerce ou d'exploitation et compte
 tenu des dispositions de l'article 39 A, y compris ceux qui auraient été
 différés au cours d'exercices antérieurs déficitaires, sous réserve des
 dispositions de l'article 39 B.
 
-Les décrets en Conseil d'Etat (4) prévus à l'article 273 fixent les conséquences
-des déductions prévues à l'article 271 sur la comptabilisation et
-l'amortissement des biens ;
+Les décrets en Conseil d'Etat prévus à l'article 273 fixent les conséquences des
+déductions prévues à l'article 271 sur la comptabilisation et l'amortissement
+des biens;
 
 3° Les intérêts servis aux associés à raison des sommes qu'ils laissent ou
 mettent à la disposition de la société, en sus de leur part du capital, quelle
 que soit la forme de la société, dans la limite de ceux calculés à un taux égal
-à la moyenne annuelle des taux de rendement brut à l'émission des obligations
-des sociétés privées (5).
+à la moyenne annuelle ((des taux effectifs moyens pratiqués par les
+établissements de crédit pour des prêts à taux variable aux entreprises, d'une
+durée initiale supérieure à deux ans)) (M) (1).
 
 Cette déduction est subordonnée à la condition que le capital ait été
 entièrement libéré.
@@ -114,15 +115,18 @@ déclaratives des sociétés mentionnées, sont fixées par décret ;
 
 4° Sous réserve des dispositions de l'article 153, les impôts à la charge de
 l'entreprise, mis en recouvrement au cours de l'exercice, à l'exception des
-taxes prévues aux articles 235 ter Y, 238 quater, 239 bis B et 990 G.
+taxes prévues aux articles 235 ter Y, 238 quater, 239 bis B et 990 G ((et, pour
+les rappels de taxe sur la valeur ajoutée afférents à des opérations au titre
+desquelles la taxe due peut être totalement ou partiellement déduite par le
+redevable lui-même, du montant de la taxe déductible)) ( M) (2).
 
 Si des dégrèvements sont ultérieurement accordés sur ces impôts, leur montant
 entre dans les recettes de l'exercice au cours duquel l'exploitant est avisé de
 leur ordonnancement ;
 
-4° bis - Le prélèvement opéré au titre de l'article 4 modifié de l loi n° 51-675
-du 24 mai 1951, relative à la construction navale, et faisant l'objet d'un ordre
-de versement émis au cours de l'exercice ;
+4° bis - Le prélèvement opéré au titre de l'article 4 modifié de la loi n°
+51-675 du 24 mai 1951, relative à la construction navale, et faisant l'objet
+d'un ordre de versement émis au cours de l'exercice ;
 
 4° ter (Abrogé) ;
 
@@ -155,19 +159,19 @@ date. S'agissant des produits en stock à la clôture d'un exercice, les dépens
 non engagées à cette date en vue de leur commercialisation ultérieure ne
 peuvent, à la date de cette clôture, être retenues pour l'évaluation de ces
 produits en application des dispositions du 3 de l'article 38, ni faire l'objet
-d'une provision pour perte (6).
+d'une provision pour perte.
 
 La dépréciation des oeuvres d'art inscrites à l'actif d'une entreprise peut
 donner lieu à la constitution d'une provision. Cette dépréciation doit être
-constatée par un expert agréé près les tribunaux (6') lorsque le coût
-d'acquisition de l'oeuvre est supérieur à 50 000 F.
+constatée par un expert agréé près les tribunaux lorsque le coût d'acquisition
+de l'oeuvre est supérieur à 50 000 F.
 
 Un décret fixe les règles d'après lesquelles des provisions pour fluctuation des
 cours peuvent être retranchées des bénéfices des entreprises dont l'activité
 consiste essentiellement à transformer directement des matières premières
-acquises sur les marchés internationaux (7) ou des matières premières acquises
-sur le territoire national et dont les prix sont étroitement liés aux variations
-des cours internationaux (7).
+acquises sur les marchés internationaux ou des matières premières acquises sur
+le territoire national et dont les prix sont étroitement liés aux variations des
+cours internationaux.
 
 Pour les entreprises dont l'objet principal est de faire subir en France la
 première transformation au pétrole brut, le montant de la provision pour
@@ -177,36 +181,36 @@ vigueur. L'excédent éventuel de la provision antérieurement constituée, par
 rapport à la nouvelle limite maximale calculée à la clôture du premier exercice
 auquel elle s'applique, est rapporté au bénéfice imposable de cet exercice. Ces
 dispositions s'appliquent pour la détermination des résultats des exercices clos
-à compter du 24 septembre 1975 (7).
+à compter du 24 septembre 1975.
 
-((Les dispositions des troisième et quatrième alinéas cessent de s'appliquer
-pour la détermination des résultats des exercices clos à compter du 31 décembre
-1997. Les provisions pour fluctuation des cours inscrites au bilan à l'ouverture
-du premier exercice clos à compter de cette même date sont rapportées, par
+Les dispositions des troisième et quatrième alinéas cessent de s'appliquer pour
+la détermination des résultats des exercices clos à compter du 31 décembre 1997.
+Les provisions pour fluctuation des cours inscrites au bilan à l'ouverture du
+premier exercice clos à compter de cette même date sont rapportées, par
 fractions égales, aux résultats imposables de ce même exercice et des deux
 exercices suivants.
 
-((Toutefois, les dispositions de la dernière phrase de l'alinéa qui précède ne
+Toutefois, les dispositions de la dernière phrase de l'alinéa qui précède ne
 sont pas applicables au montant des provisions visées à la même phrase qui sont
 portées, à la clôture du premier exercice clos à compter du 31 décembre 1997, à
 un compte de réserve spéciale. Les sommes inscrites à cette réserve ne peuvent
 excéder 60 millions de francs.
 
-((Les sommes prélevées sur la réserve mentionnée à l'alinéa précédent sont
+Les sommes prélevées sur la réserve mentionnée à l'alinéa précédent sont
 rapportées aux résultats de l'exercice en cours lors de ce prélèvement. Cette
 disposition n'est toutefois pas applicable :
 
-((a) Si l'entreprise est dissoute ;
+a) Si l'entreprise est dissoute ;
 
-((b) Si la réserve est incorporée au capital ; en cas de réduction de capital
+b) Si la réserve est incorporée au capital ; en cas de réduction de capital
 avant la fin de la cinquième année suivant celle au cours de laquelle est
 intervenue l'incorporation au capital de la réserve, les sommes qui ont été
 incorporées au capital sont rapportées aux résultats de l'exercice au cours
 duquel intervient cette réduction. Le montant de la reprise est, s'il y a lieu,
 limité au montant de cette réduction ;
 
-((c) En cas d'imputation de pertes sur la réserve spéciale, les pertes ainsi
-annulées cessent d'être reportables)) (M1).
+c) En cas d'imputation de pertes sur la réserve spéciale, les pertes ainsi
+annulées cessent d'être reportables.
 
 Sous réserve des dispositions prévues au onzième alinéa, les entreprises
 peuvent, d'autre part, en ce qui concerne les variations de prix postérieures au
@@ -224,14 +228,14 @@ des stocks est supérieure à trois ans. Dans ce dernier cas, les entreprises
 effectueront la réintégration dans un délai double de celui de la rotation
 normale des stocks.
 
-Un décret fixe les modalités d'application des deux alinéas qui précèdent (8).
+Un décret fixe les modalités d'application des deux alinéas qui précèdent.
 
 Les matières, produits ou approvisionnements existant en stock à la clôture de
 chaque exercice et qui peuvent donner lieu à la constitution de la provision
 pour fluctuation des cours prévue au troisième alinéa n'ouvrent pas droit à la
 provision pour hausse des prix.
 
-Un arrêté du ministre de l'économie et des finances (9) fixe les limites dans
+Un arrêté du ministre de l'économie et des finances fixe les limites dans
 lesquelles sont admises les provisions destinées à faire face aux risques
 particuliers afférents aux opérations de crédit à moyen et à long terme ainsi
 qu'aux crédits à moyen terme résultant de ventes ou de travaux effectués à
@@ -302,41 +306,40 @@ des régimes prévus aux articles mentionnés au II de l'article 54 septies est
 déterminée par référence à la valeur fiscale des actifs auxquels les éléments
 reçus se sont substitués.
 
-((La provision constituée par l'entreprise en vue de faire face à l'obligation
-de renouveler un bien amortissable dont elle assure l'exploitation est
-déductible, à la clôture de l'exercice, dans la limite de la différence entre le
-coût estimé de remplacement de ce bien à la clôture du même exercice et son prix
-de revient initial affectée d'un coefficient progressif. Ce coefficient est égal
-au quotient du nombre d'années d'utilisation du bien depuis sa mise en service
-sur sa durée totale d'utilisation.
+La provision constituée par l'entreprise en vue de faire face à l'obligation de
+renouveler un bien amortissable dont elle assure l'exploitation est déductible,
+à la clôture de l'exercice, dans la limite de la différence entre le coût estimé
+de remplacement de ce bien à la clôture du même exercice et son prix de revient
+initial affectée d'un coefficient progressif. Ce coefficient est égal au
+quotient du nombre d'années d'utilisation du bien depuis sa mise en service sur
+sa durée totale d'utilisation.
 
-((Les dotations à la provision visée au vingt-deuxième alinéa ne sont pas
+Les dotations à la provision visée au vingt-deuxième alinéa ne sont pas
 déductibles si elles sont passées après l'expiration du plan de renouvellement
 en vigueur au 15 septembre 1997 ou, pour les biens mis en service après cette
 date, après l'expiration du plan initial de renouvellement.
 
-((La fraction de la provision pour renouvellement régulièrement constituée,
+La fraction de la provision pour renouvellement régulièrement constituée,
 figurant au bilan du dernier exercice clos avant le 31 décembre 1997 et qui, à
 la clôture des exercices suivants, est supérieure au montant déterminé en
 application des vingt-deuxième et vingt-troisième alinéas et n'a pas été
 utilisée, n'est pas rapportée au résultat de ces exercices, sous réserve des
 dispositions du treizième alinéa.
 
-((Lorsque le bien à renouveler ne fait pas l'objet de dotations aux
-amortissements déductibles pour la détermination du résultat imposable de
-l'entreprise, le prix de revient initial du bien est retenu pour une valeur
-nulle.
+Lorsque le bien à renouveler ne fait pas l'objet de dotations aux amortissements
+déductibles pour la détermination du résultat imposable de l'entreprise, le prix
+de revient initial du bien est retenu pour une valeur nulle.
 
-((Dans l'hypothèse où cette obligation de renouvellement est mise à la charge
-d'un tiers, les dispositions des vingt-deuxième à vingt-cinquième alinéas sont
+Dans l'hypothèse où cette obligation de renouvellement est mise à la charge d'un
+tiers, les dispositions des vingt-deuxième à vingt-cinquième alinéas sont
 applicables à celui-ci).
 
-((Les provisions pour indemnités de licenciement constituées en vue de faire
-face aux charges liées aux licenciements pour motif économique ne sont pas
+Les provisions pour indemnités de licenciement constituées en vue de faire face
+aux charges liées aux licenciements pour motif économique ne sont pas
 déductibles des résultats des exercices clos à compter du 15 octobre 1997. Les
 provisions pour indemnités de licenciement constituées à cet effet et inscrites
 au bilan à l'ouverture du premier exercice clos à compter du 15 octobre 1997
-sont rapportées aux résultats imposables de cet exercice)) (M1).
+sont rapportées aux résultats imposables de cet exercice.
 
 6° La contribution de solidarité visée à l'article 33 de l'ordonnance n° 67-828
 du 23 septembre 1967 et la taxe sur les grandes surfaces issue de l'article 3
@@ -344,7 +347,7 @@ modifié de la loi n° 72-657 du 13 juillet 1972 instituant des mesures en faveu
 de certaines catégories de commerçants et artisans âgés. Le fait générateur de
 cette contribution ou de cette taxe est constitué par l'existence de
 l'entreprise débitrice au 1er janvier de l'année au titre de laquelle elle est
-due (10) ;
+due ;
 
 7° Les dépenses engagées dans le cadre de manifestations de caractère
 philanthropique, éducatif, scientifique, social, humanitaire, sportif, familial,
@@ -359,7 +362,7 @@ ravitaillement, la répartition des divers produits et l'assiette des impôts,
 contributions et taxes, ne sont pas admises en déduction des bénéfices soumis à
 l'impôt.
 
-((2 bis. Pour les contrats conclus au cours d'exercices ouverts à compter de
+2 bis. Pour les contrats conclus au cours d'exercices ouverts à compter de
 l'entrée en vigueur de la Convention sur la lutte contre la corruption d'agents
 publics étrangers dans les transactions commerciales internationales, les sommes
 versées ou les avantages octroyés, directement ou par des intermédiaires, au
@@ -367,7 +370,7 @@ profit d'un agent public au sens du 4 de l'article 1er de ladite convention ou
 d'un tiers pour que cet agent agisse ou s'abstienne d'agir dans l'exécution de
 fonctions officielles, en vue d'obtenir ou conserver un marché ou un autre
 avantage indu dans des transactions commerciales internationales, ne sont pas
-admis en déduction des bénéfices soumis à l'impôt)) (M2).
+admis en déduction des bénéfices soumis à l'impôt.
 
 3. Les allocations forfaitaires qu'une société attribue à ses dirigeants ou aux
 cadres de son entreprise pour frais de représentation et de déplacement sont
@@ -389,24 +392,24 @@ l'exception de celles ayant un caractère social, résultant de l'achat, de la
 location ou de toute autre opération faite en vue d'obtenir la disposition de
 résidences de plaisance ou d'agrément, ainsi que de l'entretien de ces
 résidences ; les dépenses et charges ainsi définies comprennent notamment les
-amortissements (10').
+amortissements.
 
 Sauf justifications, les dispositions du premier alinéa sont applicables :
 
 a) A l'amortissement des véhicules immatriculés dans la catégorie des voitures
 particulières pour la fraction de leur prix d'acquisition qui dépasse 120.000 F
-(11) ;
+;
 
 b) En cas d'opérations de crédit bail ou de location, à l'exception des
 locations de courte durée n'excédant pas trois mois non renouvelables, portant
 sur des voitures particulières, à la part du loyer supportée par le locataire et
 correspondant à l'amortissement pratiqué par le bailleur pour la fraction du
-prix d'acquisition du véhicule excédant 120.000 F (11) ;
+prix d'acquisition du véhicule excédant 120.000 F ;
 
 c) Aux dépenses de toute nature résultant de l'achat, de la location ou de toute
 autre opération faite en vue d'obtenir la disposition de yachts ou de bateaux de
 plaisance à voile ou à moteur ainsi que de leur entretien ; les amortissements
-sont regardés comme faisant partie de ces dépenses (10').
+sont regardés comme faisant partie de ces dépenses.
 
 La fraction de l'amortissement des véhicules de tourisme exclue des charges
 déductibles par les limitations ci-dessus est néanmoins retenue pour la
@@ -449,7 +452,7 @@ l'entreprise.
 Lorsqu'elles augmentent dans une proportion supérieure à celle des bénéfices
 imposables ou que leur montant excède celui de ces bénéfices, l'administration
 peut demander à l'entreprise de justifier qu'elles sont nécessitées par sa
-gestion (12).
+gestion.
 
 6. (Dispositions devenues sans objet).
 
@@ -468,7 +471,7 @@ bénéfices dû par le locataire. Elle doit être indiquée distinctement dans l
 contrat de crédit-bail.
 
 Un décret fixe les modalités d'application de ces dispositions, notamment les
-obligations déclaratives (13).
+obligations déclaratives.
 
 9. L'indemnité de congé payé correspondant aux droits acquis durant la période
 neutralisée définie ci-après, calculée dans les conditions prévues aux articles
@@ -483,7 +486,7 @@ déduite du point de vue fiscal.
 Ces dispositions s'appliquent aux charges sociales et fiscales attachées à ces
 indemnités.
 
-Un décret fixe les modalités d'application du présent 9 (14).
+Un décret fixe les modalités d'application du présent 9.
 
 10. Si un immeuble est loué dans les conditions prévues au 2° de l'article 1er
 de la loi n° 66-455 du 2 juillet 1966 relative aux entreprises pratiquant le
@@ -525,55 +528,12 @@ premier et deuxième alinéas sont admises en déduction du résultat imposable.
 
 Lorsque le contrat de crédit-bail est cédé, les quotes-parts de loyers non
 déductibles sont considérées comme un élément du prix de revient du contrat pour
-le calcul de la plus-value dans les conditions de l'article 39 duodecies A (15).
+le calcul de la plus-value dans les conditions de l'article 39 duodecies A.
 
-(1) ([*Cf. Instruction 1994-03-07 4C-4-94, contrat "homme-clé", Instruction
-1994-12-09 4C-6-94*]).
+(M) Modification.
 
-(1') L'option est formulée sur un imprimé conforme au modèle établi par
-l'administration (Décret n° 87-1029 du 22 décembre 1987, art. 7, JO DU 24).
+(1) Cette disposition s'applique aux exercices ouverts à compter du 1er janvier
+1999.
 
-(2) Annexe III, art. 49 octies à 49 octies D.
-
-(3) Ces dispositions s'appliquent aux emprunts émis au cours des exercices
-ouverts à compter du 1er janvier 1994.
-
-(4) Annexe II, art. 15 et 229.
-
-(5) Limite applicable pour la détermination des résultats imposables des
-exercices ouverts à compter du 1er janvier 1988 ; antérieurement la limite était
-égale à 80 % de cette moyenne.
-
-(6) Ces dispositions s'appliquent aux opérations en cours à la clôture des
-exercices arrêtés à compter du 31 décembre 1991 et qui résultent de contrats
-conclus au cours des mêmes exercices, ainsi qu'aux produits détenus en stock à
-la clôture des mêmes exercices.
-
-(6') Cette disposition s'applique pour déterminer les résultats des exercices
-clos à compter du 31 décembre 1996.
-
-(7) Annexe III, art. 3 à 10 septies.
-
-(M1) Modification de la loi 97-1269. [*Cf. Instruction 1998-04-02 4E-2-98*].
-
-(8) Annexe III, art. 10 nonies à 10 terdecies.
-
-(9) Annexe IV art. 2 à 4 septies.
-
-(10) [*Cf. Instruction 1993-02-12 4C-2-93*].
-
-(M2) Modification.
-
-(10') Voir aussi le II de l'article 35 de la loi 93-1353 du 30 décembre 1993.
-
-(11) Limite applicable aux véhicules dont la première mise en circulation est
-intervenue à compter du 1er novembre 1996.
-
-(12) Voir annexe II, art. 33 à 35 et également livre de procédures fiscales,
-art. L59 A 2°.
-
-(13) Annexe III, art. 38 quindecies E.
-
-(14) Annexe III, art. 49 octies à 49 octies D.
-
-(15) Cf. Loi 95-987 1996-11-14 art. 6 II JO du 15 novembre.
+(2) Cette disposition s'applique aux rappels de taxe sur la valeur ajoutée
+notifiés à compter du 1er janvier 1998.

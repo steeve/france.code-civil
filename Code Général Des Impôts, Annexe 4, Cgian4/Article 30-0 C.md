@@ -1,21 +1,42 @@
 Article 30-0 C
 ----
-I. Les ascenseurs et matériels assimilés soumis au taux réduit de la taxe sur la
-valeur ajoutée en application du deuxième alinéa de l'article 278 quinquies du
-code général des impôts sont les matériels spécialement conçus pour le
-déplacement d'une personne handicapée qui sont conformes :
+Les ascenseurs et matériels assimilés soumis au taux réduit de la taxe sur la
+valeur ajoutée en application du troisième alinéa de l'article 278 quinquies du
+code général des impôts sont les matériels suivants, spécialement conçus pour le
+déplacement d'une personne handicapée :
 
-A la norme NF P 82-222 de juillet 1988 relative aux appareils élévateurs
-verticaux comportant une plate-forme aménagée en vue du transport des personnes
-à mobilité réduite ;
+1. Les appareils élévateurs verticaux, installés à demeure, comportant une
+plate-forme aménagée en vue du transport d'une personne handicapée, debout ou en
+fauteuil roulant, avec ou sans accompagnateur, qui répondent aux conditions
+suivantes :
 
-Ou à la norme P 82-261 de juillet 1991 relative aux élévateurs spécialement
-conçus pour le transport des personnes à mobilité réduite, se déplaçant le long
-de guides inclinés et comportant un plateau accessible au fauteuil roulant. Dans
-ce cas, la charge nominale des appareils ne doit pas excéder 200 kilogrammes.
+a) Ils permettent le déplacement entre deux niveaux définis, avec éventuellement
+un ou plusieurs niveaux intermédiaires ;
 
-II. Les appareils qui n'entrent pas dans le champ d'application des normes
-visées au I bénéficient du taux réduit s'ils comportent un frein de sécurité et,
-pour les appareils se déplaçant verticalement, un dispositif protégeant l'accès
-de la gaine à chaque palier. La charge nominale et la vitesse de ces appareils
-ne doivent pas excéder respectivement 200 kilogrammes et 0,15 mètre par seconde.
+b) Leur vitesse n'excède pas 0,15 mètre par seconde ;
+
+c) Ils comportent un frein de sécurité ou autre dispositif d'arrêt d'urgence, et
+un dispositif protégeant l'accès de la gaine à chaque palier ;
+
+d) Leur charge nominale minimale est de 200 kilogrammes, à l'exception des
+appareils élévateurs manuels, pour lesquels la charge nominale ne doit pas
+excéder 200 kilogrammes.
+
+2. Les élévateurs à déplacements inclinés spécialement conçus pour le
+déplacement d'une personne handicapée accompagnée ou non, installés à demeure,
+se déplaçant le long de guides inclinés, desservant des niveaux définis,
+circulant au non le long d'une ou de plusieurs parois ou éléments de parois, qui
+répondent aux conditions suivantes :
+
+a) Ils circulent le long d'un escalier ou d'un plan incliné ;
+
+b) Ils comportent un plateau accessible au fauteuil roulant ou un siège ;
+
+c) Leur inclinaison par rapport à l'horizontale n'excède pas 45° ;
+
+d) Leur vitesse n'excède pas 0,15 mètre par seconde ;
+
+e) Ils comportent un frein de sécurité ou autre dispositif d'arrêt d'urgence, et
+un dispositif de maintien des personnes lors du fonctionnement de l'appareil ;
+
+f) Leur charge nominale n'excède pas 200 kilogrammes.

@@ -10,5 +10,6 @@ Un arrêté pris dans les mêmes formes fixe pour chaque campagne les montants d
 la taxe en francs par tonne de céréales, dans les limites obtenues en appliquant
 les taux maxima définis à l'article 363 AB aux prix directeurs en vigueur au
 début des campagnes de commercialisation concernées, ces prix étant convertis en
-francs français sur la base du taux de conversion de l'Ecu dans le secteur
-agricole à la date du 1er juillet de l'année civile en cours.
+francs français ((sur la base du taux de conversion de l'euro)) (M).
+
+(M) Modification.

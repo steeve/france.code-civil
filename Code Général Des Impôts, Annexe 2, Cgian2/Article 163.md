@@ -1,10 +1,10 @@
 Article 163
 ----
 En cas de cession ou de cessation d'entreprise, la cotisation due à raison de la
-fraction des sommes non encore employées afférentes aux salaires versés au cours
-de l'année de cession ou de cessation et de l'année précédente est immédiatement
-établie au taux prévu à l'article L 313-1 du code de la construction et de
-l'habitation.
+fraction des sommes non encore employées afférentes aux rémunérations versées au
+cours de l'année de cession ou de cessation et de l'année précédente est
+immédiatement établie au taux prévu à l'article L 313-1 du code de la
+construction et de l'habitation.
 
 Dans ce cas, la déclaration prévue à l'article 161 est annexée à la déclaration
 souscrite en application des articles 201, 202 ou au 2 de l'article 221 du code

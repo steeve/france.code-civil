@@ -1,28 +1,15 @@
 Article 1594 D
 ----
-Les taux applicables sont obtenus par addition des droits d'enregistrement ou de
-la taxe de publicité foncière et de la taxe prévue à l'article 1595 aux taux
-appliqués dans le département au 31 décembre 1983.
+Sauf dispositions particulières, le taux de la taxe de publicité foncière ou des
+droits d'enregistrement prévus à l'article 683 est celui de la taxe
+départementale de publicité foncière ou du droit départemental d'enregistrement
+qui était appliqué dans chaque département au 31 décembre 1998 aux mutations à
+titre onéreux d'immeubles mentionnés aux articles 710 et 711 dans leur rédaction
+en vigueur à cette date.
 
-Ces taux peuvent être modifiés sans que ces modifications puissent avoir pour
-effet de réduire les taux à moins de 1 %. Les taux supérieurs à 10 % ne peuvent
-être augmentés. Les taux inférieurs à 10 % ne peuvent être relevés au-delà de
-cette limite.
+Ce taux s'applique aux mutations constatées par acte authentique signé à compter
+du 1er janvier 1999.
 
-Pour les mutations à titre onéreux d'immeubles visées aux articles 710 et 711,
-le taux ne peut être supérieur à :
-
-6,5 p. 100 à compter du 1er juin 1992 ;
-
-6 p. 100 à compter du 1er juin 1993 ;
-
-5,5 p. 100 à compter du 1er juin 1995 ;
-
-((5 p. 100 à compter du 1er juin 1996 ou, à compter de la même date et jusqu'au
-31 mai 1997, à celui applicable au 1er juin 1995 s'il est inférieur à ce taux))
-(M).
-
-Les dispositions du premier et du deuxième alinéa ne sont pas applicables au
-droit proportionnel de 0,60 p. 100.
-
-(M) Modification.
+Il peut être modifié par les conseils généraux sans que ces modifications
+puissent avoir pour effet de le relever au-delà de 5 % ou de le réduire à moins
+de 1 %.

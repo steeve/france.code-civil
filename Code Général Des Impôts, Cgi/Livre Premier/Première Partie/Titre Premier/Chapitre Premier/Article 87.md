@@ -12,7 +12,9 @@ bénéficiaire appartenant au personnel dirigeant ou aux cadres, le montant des
 indemnités pour frais d'emploi qu'il a perçues ainsi que le montant des frais de
 représentation, des frais de déplacement, des frais de mission et des autres
 frais professionnels qui lui ont été alloués ou remboursés au cours de l'année
-précédente.
+précédente. Par dérogation au premier alinéa, les déclarations prévues par les
+articles 240 et 241 peuvent être souscrites en même temps que la déclaration de
+résultats.
 
-(1) Annexe III, art. 39, et voir également les obligations résultant de
+(1) Voir l'article 39 de l'annexe III, et également les obligations résultant de
 l'article 240.

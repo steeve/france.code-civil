@@ -7,7 +7,7 @@ la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le
 développement du territoire et affectés, au 1er janvier 1997, à une activité
 entrant dans le champ d'application de la taxe professionnelle sont exonérés de
 taxe foncière sur les propriétés bâties pour une durée de cinq ans, sous réserve
-que les conditions d'exercice de l'activité prévues aux premier et troisième
+que les conditions d'exercice de l'activité prévues aux premier et quatrième
 alinéas du I quater de l'article 1466 A soient remplies.
 
 Pour les immeubles affectés, après le 1er janvier 1997, à une activité entrant
@@ -34,6 +34,7 @@ Lorsque les conditions requises pour bénéficier de l'exonération prévue à
 l'article 1383 A et celles prévues au présent article sont remplies, le
 contribuable doit opter pour l'un ou l'autre de ces deux régimes avant le 1er
 janvier de l'année au titre de laquelle l'exonération prend effet. L'option est
-irrévocable (1). Les obligations déclaratives des personnes et organismes
-concernés par les exonérations prévues au présent article sont fixées par
-décret.
+irrévocable.
+
+Les obligations déclaratives des personnes et organismes concernés par les
+exonérations prévues au présent article sont fixées par décret.

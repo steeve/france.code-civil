@@ -9,7 +9,7 @@ La déclaration des employeurs mentionnés à l'article 235 ter F doit être
 accompagnée soit du procès-verbal de la délibération du comité d'entreprise,
 soit du procès-verbal de carence.
 
-II La déclaration prévue au I, doit être produite au plus tard le 5 avril de
+II La déclaration prévue au I, doit être produite au plus tard le 30 avril de
 l'année suivant celle au cours de laquelle les dépenses définies à l'article L
 950-2 du code du travail ont été effectuées.
 
@@ -19,7 +19,5 @@ déposées dans les soixante jours de la cession ou de la cessation. En cas de
 décès de l'employeur, ces déclarations sont déposées dans les six mois qui
 suivent la date du décès.
 
-En cas de ((redressement ou de liquidation judiciaires)) (M) , elles sont
-produites dans les soixante jours de la date du jugement.
-
-(M) Modification.
+En cas de redressement ou de liquidation judiciaires, elles sont produites dans
+les soixante jours de la date du jugement.

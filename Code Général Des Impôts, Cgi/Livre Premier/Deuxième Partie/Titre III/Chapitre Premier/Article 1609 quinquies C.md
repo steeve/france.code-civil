@@ -20,7 +20,7 @@ création de la communauté de communes, à l'exclusion de toute autre, étaient
 antérieurement associées dans un même syndicat de communes percevant une taxe
 d'enlèvement des ordures ménagères.
 
-((Elles peuvent instituer la taxe d'enlèvement des ordures ménagères, dès la
+Elles peuvent instituer la taxe d'enlèvement des ordures ménagères, dès la
 première année d'application des dispositions du premier alinéa, jusqu'au 31
 mars, dès lors qu'elles exercent la compétence d'enlèvement et de traitement des
 ordures ménagères et que les communes qui ont décidé de la création de la
@@ -28,8 +28,8 @@ communauté de communes, à l'exclusion de toute autre, étaient antérieurement
 associées dans un même syndicat de communes percevant une taxe d'enlèvement des
 ordures ménagères.
 
-((Pour cette première année, elles ne peuvent voter que le produit de cette
-taxe, à l'exclusion de toute modification de ses règles d'établissement)) (M).
+Pour cette première année, elles ne peuvent voter que le produit de cette taxe,
+à l'exclusion de toute modification de ses règles d'établissement.
 
 II. Les communautés de communes ayant créé, créant ou gérant une zone
 d'activités économiques qui se situe sur le territoire d'une ou de plusieurs
@@ -80,11 +80,11 @@ applicables ;
 bénéficient de la compensation prévue au IV bis de l'article 6 de la loi de
 finances pour 1987 (n° 86-1317 du 30 décembre 1986), modifié par l'article 46 de
 la loi de finances pour 1992 (n° 91-1322 du 30 décembre 1991), et de l'article
-124 de la loi n° 92-125 du 6 février 1992 d'orientation relative à
-l'administration territoriale de la République au lieu et place de leurs
-communes membres pour les pertes de bases de taxe professionnelle résultant,
-dans la zone d'activités économiques, de l'application de l'article 1469 A bis
-et du dernier alinéa du II de l'article 1478.
+124 de la loi n° 92-125 du 6 février 1992 ((modifiée)) (M) d'orientation
+relative à l'administration territoriale de la République au lieu et place de
+leurs communes membres pour les pertes de bases de taxe professionnelle
+résultant, dans la zone d'activités économiques, de l'application de l'article
+1469 A bis et du dernier alinéa du II de l'article 1478.
 
 Pour le calcul de cette compensation :
 
@@ -109,4 +109,4 @@ communautés de communes par délibération du conseil de communauté statuant �
 majorité des trois quarts. Cette décision demeure applicable tant qu'elle n'a
 pas été rapportée dans les mêmes conditions.
 
-(M) Modification de la loi 97-1269.
+(M) Modification.

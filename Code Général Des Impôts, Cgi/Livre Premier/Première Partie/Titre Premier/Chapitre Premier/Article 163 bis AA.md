@@ -1,35 +1,36 @@
 Article 163 bis AA
 ----
 Les sommes revenant aux salariés au titre de la participation des salariés aux
-résultats de l'entreprise, en application du ((chapitre II du titre IV du livre
-IV du code du travail, sont exonérées d'impôt sur le revenu)) (M).
+résultats de l'entreprise, en application du chapitre II du titre IV du livre IV
+du code du travail, sont exonérées d'impôt sur le revenu.
 
 L'exonération porte seulement sur la moitié des sommes en cause lorsque la durée
 de l'indisponibilité a été fixée à trois ans. Toutefois, l'exonération est
 totale lorsque les sommes reçues sont, à la demande des salariés, affectées à un
 plan d'épargne d'entreprise dans les conditions prévues à l'avant-dernier alinéa
-de ((l'article L442-5 du code susvisé. Les dispositions de l'article L443-6 de
-ce code sont alors applicables)) (M).
+de l'article L442-5 du code susvisé. Les dispositions de l'article L443-6 de ce
+code sont alors applicables.
 
 Les revenus provenant de sommes attribuées au titre de la participation et
 recevant la même affectation qu'elles sont exonérés dans les mêmes conditions.
 Ils se trouvent alors frappés de la même indisponibilité que ces sommes et sont
 définitivement exonérés à l'expiration de la période d'indisponibilité
-correspondante. Par dérogation aux dispositions des articles 158 bis et 199 ter,
-les avoirs fiscaux et crédits d'impôt attachés à ces revenus sont restituables.
-Ils sont exonérés dans les mêmes conditions que ces revenus (1).
+correspondante. Par dérogation aux dispositions ((du I de l'article 158 bis et
+de l'article 199 ter)) (M), les avoirs fiscaux et crédits d'impôt attachés à ces
+revenus sont restituables. Ils sont exonérés dans les mêmes conditions que ces
+revenus (1).
 
 Après l'expiration de la période d'indisponibilité, l'exonération est toutefois
 maintenue pour les revenus provenant de sommes utilisées pour acquérir des
 actions de l'entreprise ou versées à des organismes de placement extérieurs à
-l'entreprise tels que ceux-ci sont énumérés au 4 de ((l'article L442-5 du code
-précité)), tant que les salariés ne demandent pas la délivrance des droits
+l'entreprise tels que ceux-ci sont énumérés au 4 de l'article L442-5 du code
+précité, tant que les salariés ne demandent pas la délivrance des droits
 constitués à leur profit.
 
 Cette exonération est maintenue dans les mêmes conditions dans le cas où les
 salariés transfèrent sans délai au profit des mêmes organismes de placement les
-sommes initialement investies dans l'entreprise conformément aux dispositions
-((du 3 dudit article L442-5.)) (M)
+sommes initialement investies dans l'entreprise conformément aux dispositions du
+3 dudit article L442-5.
 
 Cette exonération est également maintenue dans les mêmes conditions lorsque ces
 mêmes sommes sont retirées par les salariés pour être affectées à la
