@@ -11,4 +11,4 @@ atteint cet âge ;
 condition d'âge est requise.
 
 La condition de durée d'emploi prévue au dernier alinéa de l'article L. 241-10
-est fixée à soixante heures par mois civil.
+est fixée à une heure par mois civil.
