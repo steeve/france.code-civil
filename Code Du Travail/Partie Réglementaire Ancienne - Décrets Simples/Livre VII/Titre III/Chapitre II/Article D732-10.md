@@ -1,10 +1,15 @@
 Article D732-10
 ----
-Les employeurs assujettis sont tenus d'afficher à des endroits apparents dans
-les locaux de leur entreprise où s'effectue la paie du personnel, la raison
-sociale et l'adresse de la caisse à laquelle ils sont affiliés.
+Il est institué auprès de chaque caisse une commission composée, en nombre égal,
+de membres patrons et salariés désignés par le directeur départemental du
+travail et de la main-d'oeuvre et choisis parmi les organisations patronales et
+ouvrières les plus représentatives de la région considérée pour les professions
+assujetties.
 
-Ils doivent également justifier à tout moment, aux agents chargés de
-l'inspection du travail dans leur profession, aux officiers de police judiciaire
-et aux contrôleurs agréés de la caisse à laquelle ils sont tenus d'être
-affiliés, qu'ils sont à jour de leurs obligations envers celle-ci.
+Cette commission statue [*compétence*] sur toutes les attributions qui
+pourraient s'élever au sujet du droit aux congés des travailleurs déclarés à la
+caisse.
+
+Les caisses sont soumises pour l'application des lois et règlements relatifs aux
+congés payés, au contrôle permanent du service chargé de l'inspection du travail
+dans les professions intéressées.

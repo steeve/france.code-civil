@@ -10,8 +10,8 @@ supérieur de l'éducation nationale.
 
 Cette section spécialisée est placée sous la présidence de l'inspecteur de
 l'enseignement technique, en mission dans le département ; elle comprend, outre
-le président, dix-sept membres, désignés par le préfet, choisis parmi les
-membres du comité départemental, à savoir [*composition*] :
+le président, dix-sept membres, désignés par le préfet, à savoir [*composition*]
+:
 
 Cinq [*nombre*] représentants de l'administration ;
 

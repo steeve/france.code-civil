@@ -1,30 +1,19 @@
 Article D910-4
 ----
-La commission de l'apprentissage du comité régional de la formation
-professionnelle, de la promotion sociale et de l'emploi comprend, outre les
-membres dudit comité :
+Le comité régional de la formation professionnelle, de la promotion sociale et
+de l'emploi se réunit au moins deux fois par an [*périodicité*].
 
-1° L'inspecteur principal de l'enseignement technique placé auprès du recteur ;
+Un règlement intérieur, établi par les deux présidents, approuvé par la majorité
+des membres du comité et arrêté par le préfet de région, précise ses conditions
+de fonctionnement.
 
-2° L'ingénieur d'agronomie chargé de l'enseignement agricole et de la formation
-agricole ;
+Selon l'ordre du jour, la convocation du comité est faite soit par le préfet de
+région, soit par le président du conseil régional.
 
-3° Le directeur régional du travail et de l'emploi ;
+Le secrétariat est assuré conjointement par le délégué régional à la formation
+professionnelle mentionné à l'article D. 910-6 et par un représentant du
+président du conseil régional.
 
-4° Un représentant du service de l'inspection de l'apprentissage désigné par le
-recteur ;
-
-5° Un directeur de centre de formation d'apprentis ;
-
-6° Un représentant du personnel enseignant des centres de formation d'apprentis.
-
-Les membres de la commission visée aux 4° et 6° ci-dessus sont nommés en même
-temps, pour la même durée et dans les mêmes conditions que ceux du comité visés
-aux 3° à 10° de l'article D. 910-3.
-
-En fonction de l'ordre du jour, la commission peut entendre, des personnes
-choisies en raison de leur compétence.
-
-La commission de l'apprentissage est compétente pour prendre les décisions
-relevant du comité régional chaque fois que ces décisions sont prévues par le
-livre 1er du code du travail ou par les textes pris pour son application.
+A la demande du comité, et selon des moyens et des modalités à définir entre le
+préfet de région et le président du conseil régional, un secrétariat permanent
+peut être mis en place.

@@ -1,42 +1,23 @@
 Article D910-13
 ----
-Il est constitué, au sein du comité départemental, une commission de
-l'apprentissage. Cette commission comprend vingt-six membres [*composition*] :
+La commission Emploi se compose de quinze membres :
 
-Six [*nombre*] représentants de l'administration, et notamment de l'éducation
-nationale, du développement industriel et scientifique, de l'agriculture, du
-travail et de l'emploi ;
+1. Cinq représentants de l'administration désignés par le préfet de département,
+dont le trésorier-payeur général, le directeur départemental du travail, de
+l'emploi et de la formation professionnelle, le chef du service départemental de
+l'inspection du travail, de l'emploi et de la politique sociale agricole et un
+représentant du ministère de l'industrie ;
 
-Douze représentants des professions industrielles, commerciales, artisanales et
-agricoles ;
+2. Cinq représentants des organisations syndicales de salariés représentatives ;
 
-Un représentant des chambres de commerce et d'industrie ;
+3. Cinq représentants des organisations syndicales d'employeurs représentatives.
 
-Un représentant des chambres de métiers ;
+Le préfet de département arrête la liste des membres de la commission.
 
-Un représentant des chambres d'agriculture ;
+La commission peut faire appel pour l'assistance technique et l'étude de
+certaines questions, à titre consultatif, à d'autres personnes choisies en
+raison de leur compétence.
 
-Deux conseillers de l'enseignement technique ;
-
-Deux directeurs de centres de formation d'apprentis ;
-
-Un représentant du personnel enseignant des centres de formation d'apprentis.
-
-Les membres de la commission de l'apprentissage sont désignés par le préfet et
-choisis parmi les membres du comité départemental.
-
-Cette commission est placée sous la présidence du préfet de département ou de
-son représentant assisté de l'inspecteur de l'enseignement technique, en mission
-dans le département, ou, pour les questions intéressant l'apprentissage
-agricole, du représentant du ministre de l'agriculture.
-
-Pour l'étude de certaines questions, la commission de l'apprentissage peut, à
-titre consultatif, faire appel à d'autres personnes choisies en raison de leur
-compétence.
-
-Le comité départemental peut donner délégation à la commission de
-l'apprentissage pour émettre un avis ou prendre une décision en son lieu et
-place, chaque fois que cet avis ou cette décision sont prévus par les
-dispositions du présent code relatives à l'apprentissage ou par des textes pris
-pour leur application à l'exclusion des attributions disciplinaires prévues à
-l'article L. 116-6.
+La commission est présidée par le préfet de département, son secrétariat est
+assuré par les services de la direction départementale du travail, de l'emploi
+et de la formation professionnelle.
