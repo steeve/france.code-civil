@@ -6,7 +6,7 @@ Les personnes mentionnées au I, e, de l'article A 931-2-1 doivent produire un
 1. La nature de leurs activités professionnelles actuelles et de celles qu'elles
 ont exercées pendant les dix années précédant la demande d'agrément ainsi que,
 durant cette même période, les activités exercées au sein des organes des
-institutions relevant du présent livre ;
+institutions relevant du livre IX et de la présente annexe ;
 
 2. Si elles ont fait l'objet soit de sanctions disciplinaires prises par une
 autorité de contrôle ou une organisation professionnelle compétente, soit d'un

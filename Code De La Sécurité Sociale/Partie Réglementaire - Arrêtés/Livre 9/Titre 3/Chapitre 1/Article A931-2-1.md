@@ -1,6 +1,6 @@
 Article A931-2-1
 ----
-I. - Toute demande d'agrément administratif présentée par une institution de
+I.-Toute demande d'agrément administratif présentée par une institution de
 prévoyance ou une union d'institutions de prévoyance en application de l'article
 L. 931-4 doit être produite en double exemplaire et comporter :
 
@@ -53,19 +53,20 @@ administratifs et des services de développement, ainsi que les moyens financier
 destinés à y faire face ;
 
 5. Pour les cinq premiers exercices comptables d'activité : les comptes de
-résultats et bilans prévisionnels ainsi que le détail des hypothèses retenues
+résultat et bilans prévisionnels ainsi que le détail des hypothèses retenues
 (principes de tarification, nature des garanties, sinistralité, évolution des
 frais généraux, rendement des placements) ;
 
 6. Pour les mêmes exercices :
 
-- les prévisions relatives aux moyens financiers destinés à la couverture des
+-les prévisions relatives aux moyens financiers destinés à la couverture des
 engagements ;
 
-- les prévisions relatives à la marge de solvabilité calculée conformément aux
-dispositions de la section 10 du chapitre Ier du titre III du présent livre ;
+-les prévisions relatives à la marge de solvabilité calculée conformément aux
+dispositions de la section 10 du chapitre Ier du titre III du livre IX et de la
+présente annexe ;
 
-- les prévisions de trésorerie ;
+-les prévisions de trésorerie ;
 
 7. La justification des éléments constituant le montant minimal du fonds de
 garantie que l'institution de prévoyance ou l'union d'institutions de prévoyance
@@ -79,5 +80,5 @@ la marge de solvabilité conformément aux dispositions de la section 10 précit
 9. Le nom et l'adresse du ou des principaux établissements bancaires où sont
 domiciliés les comptes de l'institution ou de l'union.
 
-II. - En cas de demande d'extension d'agrément, le dossier à communiquer est le
+II.-En cas de demande d'extension d'agrément, le dossier à communiquer est le
 même que celui prévu au I du présent article.
