@@ -7,7 +7,9 @@ déterminé par un arrêté conjoint des ministres chargés de la construction e
 l'habitation et des finances. Toutefois, pour les logements mentionnés au
 deuxième alinéa de l'article R. 331-1, le plafond de ressources à l'entrée dans
 les lieux ne peut excéder 60 p. 100 du montant déterminé par l'arrêté précité,
-sauf dérogation accordée par le représentant de l'Etat dans le département. Les
-bailleurs doivent être en mesure de justifier du respect de cette obligation.
+sauf dérogation accordée par le représentant de l'Etat dans le département. Ce
+plafond est fixé par arrêté conjoint des ministres chargés de la construction et
+de l'habitation et des finances. Les bailleurs doivent être en mesure de
+justifier du respect de cette obligation.
 
 Cet arrêté fixe également les modalités de contrôle des ressources.
