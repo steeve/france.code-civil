@@ -27,4 +27,8 @@ recouvrement de créances auprès des assurés sociaux soignés par leurs
 
 5° Que les collectivités publiques qui servent des prestations d'aide sociale
 mettent en oeuvre dans le cadre des dispositions du chapitre II du titre VIII du
-livre Ier du présent code, relatives aux bénéficiaires de l'aide médicale.
+livre Ier du présent code, relatives aux bénéficiaires de l'aide médicale ;
+
+6° Que les organismes mentionnés aux 1°, 3° et 6° du même article effectuent en
+application du I de l'article L. 133-5 pour les déclarations sociales auxquelles
+sont assujetties les entreprises.
