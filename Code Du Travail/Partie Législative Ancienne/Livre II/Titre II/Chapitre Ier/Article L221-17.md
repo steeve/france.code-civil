@@ -6,7 +6,8 @@ dans lesquelles le repos hebdomadaire est donné au personnel suivant un des
 modes prévus par les articles précédents, le préfet du département peut, par
 arrêté, sur la demande des syndicats intéressés, ordonner la fermeture au public
 des établissements de la profession ou de la région pendant toute la durée de ce
-repos.
+repos. Ces dispositions ne s'appliquent pas aux activités dont les modalités de
+fonctionnement et de paiement sont automatisées.
 
 Toutefois, lorsque cet arrêté concerne des établissements concourant d'une façon
 directe au ravitaillement de la population en denrées alimentaires, il peut être
