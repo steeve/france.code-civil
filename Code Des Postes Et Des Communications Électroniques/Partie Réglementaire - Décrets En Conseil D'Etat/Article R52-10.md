@@ -1,6 +1,5 @@
 Article R52-10
 ----
-Les dispositions réglementaires fixant les conditions d'application de la loi n°
-72-10 du 3 janvier 1972 relative à la prévention et à la répression des
-infractions en matière de chèques sont applicables aux centres de chèques
-postaux.
+Les dispositions réglementaires fixant les conditions d'application du décret du
+30 octobre 1935 modifié et relatives à la mise en oeuvre de l'interdiction
+d'émettre des chèques sont applicables aux centres de chèques postaux.
