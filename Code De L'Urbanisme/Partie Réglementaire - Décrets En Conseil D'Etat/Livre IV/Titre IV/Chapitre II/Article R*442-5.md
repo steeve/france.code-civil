@@ -1,4 +1,4 @@
-Article R*441-7
+Article R*442-5
 ----
 L'autorité compétente pour statuer sur la demande se prononce par arrêté.
 
@@ -8,7 +8,7 @@ motivée. Il en est de même lorsqu'une dérogation ou une adaptation mineure es
 nécessaire.
 
 La décision doit être notifiée directement au demandeur par lettre recommandée
-avec demande d'avis de réception postal [*conditions de forme*].
+avec demande d'avis de réception postal.
 
 Toutefois, la décision accordant l'autorisation, lorsqu'elle n'est pas assortie
 de prescriptions, peut être notifiée par pli non recommandé.

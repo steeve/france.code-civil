@@ -32,3 +32,6 @@ c) Une note technique traitant du système d'élimination des déchets.
 5. Les directives d'aménagement national applicables en vertu de l'article R.
 111-15 ainsi que les prescriptions nationales ou particulières prises en
 application de l'article L. 111-1-1.
+
+6. La liste des lotissements dont les règles d'urbanisme ont été maintenues en
+application de l'alinéa 2 de l'article L. 315-2-1.
