@@ -27,16 +27,9 @@ c. L'acte contient l'engagement de la société de procéder à une augmentation
 capital en numéraire, d'un montant au moins égal, dans le délai d'un an à
 compter de la date de l'acte ;
 
-2° bis. Dans la même limite d'un million de francs indiquée au 1° bis, le taux
-est ramené à 2 % lorsque conformément aux dispositions du 2°, l'opération
-d'incorporation est accompagnée, précédée ou suivie d'une augmentation de
-capital en numéraire d'un montant au moins égal et lorsque l'acte qui la
-constate est enregistré avant le 1er janvier 1988 [*date limite*].
+2° bis. (Abrogé).
 
-3° Le droit de 12 % est réduit à 2,40 % pour les actes portant incorporation au
-capital de la réserve de reconstitution des entreprises sinistrées, assimilée à
-la réserve de réévaluation, présentés à la formalité de l'enregistrement avant
-le 1er avril 1972.
+3° (Disposition périmée).
 
 II. Le droit d'apport en société demeure exigible au taux prévu à l'article
 810-I lorsque les bénéfices, réserves ou provisions incorporés au capital ont

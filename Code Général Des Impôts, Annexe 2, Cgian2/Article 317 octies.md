@@ -1,7 +1,7 @@
 Article 317 octies
 ----
-Les taux de la redevance départementale des mines sont calculés conformément aux
-dispositions de l'article 311 (1).
+La redevance départementale des mines instituée par l'article 1587 du code
+général des impôts est établie dans les conditions prévues aux articles 311 A à
+311 D en ce qui concerne la redevance communale.
 
-(1) Pour 1982, arrêté du 5 août 1982 (JONC du 1er septembre) ; pour 1983, arrêté
-du 30 décembre 1983 (JONC du 12 février 1984).
+Ses taux sont calculés conformément aux dispositions de l'article 311.

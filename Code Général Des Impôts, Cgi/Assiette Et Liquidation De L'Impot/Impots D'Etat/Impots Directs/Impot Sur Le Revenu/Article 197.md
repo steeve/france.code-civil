@@ -7,33 +7,31 @@ Sous réserve des dispositions de l'article 160, l'impôt est calculé pour les
 contribuables mariés sans enfant à charge et les contribuables célibataires
 ayant un enfant à charge, en appliquant le taux de (1) :
 
-0 % à la fraction du revenu qui n'excède pas 31.300 F ;
+0 % à la fraction du revenu qui n'excède pas 32.060 F ;
 
-5 % à la fraction du revenu comprise entre 31.300 F et 32.720 F ;
+5 % à la fraction du revenu comprise entre 32.060 F et 33.520 F ;
 
-10 % à la fraction du revenu comprise entre 32.720 F et 38.800 F ;
+10 % à la fraction du revenu comprise entre 335200 F et 39.740 F ;
 
-15 % à la fraction du revenu comprise entre 38.800 F et 61.360 F ;
+15 % à la fraction du revenu comprise entre 39.740 F et 62.840 F ;
 
-20 % à la fraction du revenu comprise entre 61.360 F et 78.880 F ;
+20 % à la fraction du revenu comprise entre 62.840 F et 80.780 F ;
 
-25 % à la fraction du revenu comprise entre 78.880 F et 99.100 F ;
+25 % à la fraction du revenu comprise entre 80.780 F et 101.480 F ;
 
-30 % à la fraction du revenu comprise entre 99.100 F et 119.900 F ;
+30 % à la fraction du revenu comprise entre 101.480 F et 122.780 F ;
 
-35 % à la fraction du revenu comprise entre 119.900 F et 138.340 F ;
+35 % à la fraction du revenu comprise entre 122.780 F et 141.660 F ;
 
-40 % à la fraction du revenu comprise entre 138.340 F et 230.500 F ;
+40 % à la fraction du revenu comprise entre 141.660 F et 236.040 F ;
 
-45 % à la fraction du revenu comprise entre 230.500 F et 317.020 F ;
+45 % à la fraction du revenu comprise entre 236.040 F et 324.620 F ;
 
-50 % à la fraction du revenu comprise entre 317.020 F et 374.980 F ;
+50 % à la fraction du revenu comprise entre 324.620 F et 383.980 F ;
 
-55 % à la fraction du revenu comprise entre 374.980 F et 426.560 F ;
+55 % à la fraction du revenu comprise entre 383.980 F et 436.800 F ;
 
-60 % à la fraction du revenu comprise entre 426.560 F et 483.480 F ;
-
-65 % à la fraction du revenu supérieure à 483.480 F.
+58 % à la fraction du revenu supérieure à 436.800 F.
 
 Pour les autres contribuables, les chiffres de revenu visés ci-dessus sont
 augmentés ou diminués en considération de la situation et des charges de famille
@@ -55,41 +53,27 @@ II, III et IV (Abrogés).
 V. (Disposition périmée).
 
 VI L'impôt calculé dans les conditions mentionnées au I est diminué, dans la
-limite de son montant, d'une décote égale à la différence entre :
+limite de son montant, de la différence entre 4 400 F et son montant (4).
 
-- 2.600 F et son montant pour les contribuables imposés sur une part de quotient
-familial ;
+VII La réduction d'impôt brut résultant de l'application du quotient familial ne
+peut excéder 10 770 F [*montant maximum*] par demi-part s'ajoutant à une part
+pour les contribuables célibataires, divorcés, veufs ou soumis à l'imposition
+distincte prévue au 4 de l'article 6 et à 2 parts pour les contribuables mariés
+soumis à une imposition commune.
 
-- 800 F et son montant pour les contribuables imposés sur une part et demie de
-quotient familial.
-
-Le montant de la décote est relevé chaque année dans la même proportion que la
-limite supérieure de la première tranche du barème de l'impôt sur le revenu. Le
-montant obtenu est arrondi, s'il y a lieu, à la centaine de francs supérieure.
-Toutefois, les montants de 2.600 F et de 800 F sont portés respectivement à
-3.200 F et 1.100 F pour l'imposition des revenus de 1982 et à 3.700 F et 1.400 F
-pour l'imposition des revenus de 1983 (4),
-
-VII La réduction d'impôt brut résultant de l'application des dispositions des
-articles 193 et suivants ne peut excéder 10.520 F (5) pour chacune des
-demi-parts additionnelles au nombre de parts suivant :
-
-- une part pour les contribuables célibataires, divorcés ou veufs, ayant ou non
-des enfants ou des personnes assimilées à charge ;
-
-- deux parts pour les contribuables mariés ayant ou non des enfants ou des
-personnes assimilées à charge.
+Toutefois our les contribuables célibataires, divorcés, ou soumis à l'imposition
+distincte prévue au 4 de l'article 6, ayant un ou plusieurs enfants à charge, la
+réduction d'impôt est limitée à 13 770 F lorsque les demi-parts additionnelles
+sont au nombre de deux. Ce plafond est augmenté de de 10 770 F par demi-part
+additionnelle supplémentaire.
 
 (1) Barème applicable pour l'établissement de l'impôt sur le revenu dû au titre
-de l'année 1985.
+de l'année 1986.
 
 (2) Limite applicable pour la première fois pour l'imposition des revenus de
 1980.
 
 (3) Chiffres portés à 27.230 F et 36.050 F pour 1984 et à 28.760 F et 38.070 F
-pour 1985.
+pour 1985 et 38.990 pour 1986.
 
-(4) 4.000 F et 1.600 F pour l'imposition des revenus de 1984 et à 4.300 F et
-1.700 F pour l'imposition des revenus de 1985.
-
-(5) Chiffre applicable à l'imposition des revenus de 1985.
+(4) Chiffre applicable pour l'imposition des revenus de 1986.

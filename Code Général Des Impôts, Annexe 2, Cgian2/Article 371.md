@@ -1,9 +1,12 @@
 Article 371
 ----
-Les artisans peuvent, sans perdre la qualité d'artisan au sens des dispositions
-de l'article 1649 quater A du code général des impôts, avoir recours, pour
-l'écoulement de leur production, à des méthodes de vente commerciales et,
-notamment, employer, en sus des concours autorisés par les articles 1649 quater
-A-2° et 1649 quater B du code précité, un représentant de commerce à la
-condition que ce dernier ne participe en aucune façon à la production et qu'il
-ne travaille pas exclusivement pour leur compte.
+Les personnes sans domicile ni résidence fixe, mentionnées à l'article 23 du
+décret n° 70-708 du 31 juillet 1970 relatif à l'exercice des activités
+ambulantes et au régime applicable aux personnes circulant en France sans
+domicile ni résidence fixe, sont tenues d'accomplir leurs obligations fiscales
+auprès des services des impôts dont relève la commune à laquelle elles se
+trouvent rattachées.
+
+Lorsque, pour une même commune, il existe plusieurs services des impôts à
+compétence territoriale déterminée, les obligations fiscales sont accomplies
+auprès du service désigné par l'administration des impôts.

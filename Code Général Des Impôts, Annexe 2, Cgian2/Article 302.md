@@ -1,16 +1,10 @@
 Article 302
 ----
-Le droit de timbre prévu pour la délivrance du permis de chasser (original ou
-duplicata) est acquitté sur état au moyen de formules sans valeur fiscale
-revêtues de la mention "Droit de timbre payé sur état".
+Indépendamment des mentions prescrites par l'article 67 du code de procédure
+civile, les huissiers sont tenus d'indiquer distinctement au bas de l'original
+et des copies de chaque exploit :
 
-Il est recouvré par l'intermédiaire des régies de recettes des préfectures ou,
-le cas échéant, des sous-préfectures.
+1° Le nombre des feuilles de papier employées, tant pour les copies de
+l'original que pour les copies des pièces signifiées ;
 
-La perception du droit de timbre au profit de l'Etat, de la taxe au profit de la
-commune, dus à l'occasion du visa et celle des redevances cynégétiques donnent
-lieu à l'apposition, sur le permis, de timbres par le comptable du Trésor
-territorialement compétent.
-
-A Paris, le recouvrement de ces sommes est assuré au lieu et place des
-comptables du Trésor, par la régie de recettes de la préfecture de police.
+2° Le montant des droits de timbre dus à raison de la dimension de ces feuilles.

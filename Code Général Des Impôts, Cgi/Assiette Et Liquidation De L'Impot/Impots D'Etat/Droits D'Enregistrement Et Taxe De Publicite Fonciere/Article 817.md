@@ -7,7 +7,4 @@ II Toutefois, le droit de 12 % ou de 1,20 % [*taux*] ne frappe que l'excédent d
 la valeur nominale des titres reçus en rémunération d'un apport partiel d'actif
 et répartis en franchise d'impôt dans le délai d'un an à compter de la
 réalisation de l'apport sur le montant de la réduction de capital éventuellement
-opérée par la société apporteuse à l'occasion de cette répartition. Ce délai est
-porté à trois ans en ce qui concerne la répartition aux membres des sociétés
-apporteuses des titres représentatifs d'apports partiels d'actif réalisés entre
-le 1er janvier 1967 et le 31 décembre 1977 [*période*].
+opérée par la société apporteuse à l'occasion de cette répartition.

@@ -49,10 +49,12 @@ que ceux-ci ne comportent pas d'attraction autre que la présence des animaux ;
 
 b quater. Les transports de voyageurs ;
 
-b quinquies. Les locations et cessions de droits portant sur les films ainsi que
-les droits d'entrée pour les séances cinématographiques. Cette disposition n'est
-pas applicable aux films pornographiques ou d'incitation à la violence
-mentionnés à l'article 281 bis A-I ;
+b quinquies. Les locations et cessions de droits portant sur les oeuvres
+cinématographiques ainsi que les droits d'entrée dans les salles de spectacles
+cinématographiques quels que soient le procédé de fixation ou de transmission et
+la nature du support des oeuvres ou documents audiovisuels qui sont présentés.
+Cette disposition n'est pas applicable aux oeuvres ou aux films pornographiques
+ou d'incitation à la violence mentionnés à l'article 281 bis A ;
 
 b sexies. Une partie du prix des billets d'entrée donnant exclusivement accès à
 des concerts donnés dans des établissements agréés où il est servi des
@@ -78,12 +80,35 @@ b septies. Les prestations de services effectuées par les agences de voyages et
 les organisateurs de circuits touristiques (7).
 
 b octies. La redevance pour droit d'usage des appareils recepteurs de télévision
-et des appareils d'enregistrement et de reproduction des images et du son en
-télévision [*magnétoscopes*] et les abonnements souscrits par les usagers afin
-de recevoir les services de télévision prévus à l'article 79 de la loi n° 82-652
-du 29 juillet 1982 sur la communication audiovisuelle et à l'article 1er de la
-loi 84-743 du 1er août 1984 relative à l'exploitation des services de
-radiotélévision mis à la disposition du public sur un réseau cablé;
+;
+
+Les abonnements souscrits par les usagers afin de recevoir :
+
+1° Les services de télévision prévus à l'article 79 de la loi n° 82-652 du 29
+juillet 1982 sur la communication audiovisuelle ;
+
+2° Les services de télévision prévus à l'article 1er de la loi n° 84-743 du 1er
+août 1984 relative à l'exploitation des services de radiotélévision mis à la
+disposition du public sur un réseau cablé ;
+
+3° Les services autorisés de télévision par voie hertzienne et les services de
+télévision mis à la disposition du public sur un réseau câblé prévus par les
+chapitres 1er et 2 du titre II de la loi n° 86-1067 du 30 septembre 1986
+relative à la liberté de la communication ;
+
+b nonies. Les droits d'entrée perçus pour la visite des parcs à décors animés
+qui illustrent un thème culturel et pour la pratique des activités directement
+liées à ce thème.
+
+Les attractions, manèges, spectacles, loteries, jeux et divertissements sportifs
+présentés à titre accessoire dans ces parcs demeurent soumis au taux qui leur
+est propre. Il en est de même des recettes procurées par la vente d'articles
+divers et des ventes à consommer sur place.
+
+Lorsqu'un prix forfaitaire et global donne accès à l'ensemble des manifestations
+organisées, l'exploitant doit faire apparaître dans sa comptabilité une
+ventilation des recettes correspondant à chaque taux. La détermination de
+l'assiette de l'impôt s'effectue sur une base réelle.
 
 c. Les opérations d'achat, d'importation, de vente, de livraison, de commission,
 de courtage ou de façon, portant sur les produits suivants :
@@ -96,11 +121,7 @@ et des abeilles, ainsi que les produits entrant dans la composition de ces
 aliments et dont la liste est fixée par arrêté du ministre de l'économie et des
 finances pris après avis des professions intéressées (8) ;
 
-14° Préparations magistrales, produits officinaux et spécialités pharmaceutiques
-destinées à l'usage de la médecine humaine et faisant l'objet de l'autorisation
-de mise sur le marché prévue à l'article L601 du code de la santé publique,
-produits régis par l'article L666 du même code, sous réserve de l'exonération
-prévue pour le sang par l'article 261-4-2° ;
+14° (Devenu sans objet) ;
 
 d. Les opérations d'achat, d'importation, de vente, de livraison, de commission,
 de courtage ou de façon portant sur les produits suivants :
@@ -133,7 +154,7 @@ hôtels et restaurants.
 
 (4) Disposition à caractère interprétatif.
 
-(5) Arrêté 1984-12-07 (JONC du 8 ;
+(5) Arrêté 1984-12-07 (JONC du 8) ;
 
 (6) Annexe II, art. 242 ter A à 242 ter F et Annexe IV, art. 170 septies A et
 170 octies).

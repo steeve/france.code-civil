@@ -12,27 +12,46 @@ eu égard à l'importance du service rendu. Cette disposition s'applique à tout
 les rémunérations directes ou indirectes, y compris les indemnités, allocations,
 avantages en nature et remboursements de frais.
 
-L'indemnité pour congés payés, calculée dans les conditions définies aux
-articles L 223-11 à L 223-13 du code du travail, revêt du point de vue fiscal le
-caractère d'un salaire de substitution qui constitue une charge normale de
-l'exercice au cours duquel le salarié prend le congé correspondant ;
+1° bis Pour les exercices clos à compter du 31 décembre 1987 et sous réserve des
+dispositions du 9, l'indemnité de congé payé calculée dans les conditions
+prévues aux articles L. 223-11 à L. 223-13 du code du travail, y compris les
+charges sociales et fiscales afférentes à cette indemnité.
 
-2° Sauf s'ils sont pratiqués par une copropriété de navires (1), les
+Par exception aux dispositions du premier alinéa et sur option irrévocable de
+l'entreprise, cette indemnité ainsi que les charges sociales et fiscales y
+afférentes revêtent du point de vue fiscal le caractère d'un salaire de
+substitution qui constitue une charge normale de l'exercice au cours duquel le
+salarié prend le congé correspondant. Cette option ne peut pas être exercée par
+les entreprises créées après le 31 décembre 1986. Elle est exercée avant
+l'expiration du délai de dépôt de la déclaration des résultats du premier
+exercice clos à compter du 31 décembre 1987.
+
+Pour les exercices clos avant le 31 décembre 1987, l'indemnité de congé payé
+calculée dans les conditions prévues aux articles L. 223-11 à L. 223-13 du code
+du travail revêt du point de vue fiscal le caractère d'un salaire de
+substitution qui constitue une charge normale de l'exercice au cours duquel le
+salarié prend le congé correspondant. Pour la détermination des résultats
+imposables des exercices clos du 1er janvier 1986 au 30 décembre 1987, il en est
+de même des charges sociales et fiscales afférentes à cette indemnité.
+
+Un décret fixe les modalités d'application de ces dispositions (1).
+
+2° Sauf s'ils sont pratiqués par une copropriété de navires (2), les
 amortissements réellement effectués par l'entreprise, dans la limite de ceux qui
 sont généralement admis d'après les usages de chaque nature d'industrie, de
 commerce ou d'exploitation et compte tenu des dispositions de l'article 39 A, y
 compris ceux qui auraient été différés au cours d'exercices antérieurs
 déficitaires, sous réserve des dispositions de l'article 39 B.
 
-Les décrets en Conseil d'Etat (2) prévus à l'article 273 fixent les conséquences
+Les décrets en Conseil d'Etat (3) prévus à l'article 273 fixent les conséquences
 des déductions prévues à l'article 271 sur la comptabilisation et
 l'amortissement des biens ;
 
 3° Les intérêts servis aux associés à raison des sommes qu'ils laissent ou
 mettent à la disposition de la société, en sus de leur part du capital, quelle
 que soit la forme de la société, dans la limite de ceux calculés à un taux égal
-à 80 % de la moyenne annuelle des taux de rendement brut à l'émission des
-obligations des sociétés privées.
+à la moyenne annuelle des taux de rendement brut à l'émission des obligations
+des sociétés privées (4).
 
 Cette déduction est subordonnée à la condition que le capital ait été
 entièrement libéré.
@@ -50,10 +69,11 @@ créances mentionnés au 1° bis du III bis de l'article 125 A ; dans ce cas, le
 intérêts sont déductibles dans la limite des intérêts des ressources ainsi
 collectées par la société-mère pour le compte de sa ou de ses filiales. Ces
 dispositions sont applicables aux intérêts afférents aux ressources empruntées à
-compter du 1er janvier 1986.
+compter du 1er janvier 1986. Elles cessent de s'appliquer pour la détermination
+des résultats imposables des exercices ouverts à compter du 1er janvier 1988.
 
-Les conditions d'application de l'alinéa précédent (3) , notamment les
-obligations déclaratives des sociétés mentionnées, sont fixées par décret (3).
+Les conditions d'application de l'alinéa précédent , notamment les obligations
+déclaratives des sociétés mentionnées, sont fixées par décret (5).
 
 3° bis (Abrogé) ;
 
@@ -79,14 +99,18 @@ condition qu'elles aient été effectivement constatées dans les écritures de
 l'exercice. Toutefois, ne sont pas déductibles les provisions que constitue une
 entreprise en vue de faire face au versement d'allocations en raison du départ à
 la retraite ou préretraite des membres ou anciens membres de son personnel, ou
-de ses mandataires sociaux (4).
+de ses mandataires sociaux, La dépréciation des oeuvres d'art inscrites à
+l'actif d'une entreprise peut donner lieu à la constitution d'une provision.
+Cette dépréciation doit être constatée par un expert agréé par le ministre
+chargé de la culture lorsque le coût d'acquisition de l'oeuvre est supérieur à
+50 000 F..
 
 Un décret fixe les règles d'après lesquelles des provisions pour fluctuation des
 cours peuvent être retranchées des bénéfices des entreprises dont l'activité
 consiste essentiellement à transformer directement des matières premières
-acquises sur les marchés internationaux (5) ou des matières premières acquises
+acquises sur les marchés internationaux (6) ou des matières premières acquises
 sur le territoire national et dont les prix sont étroitement liés aux variations
-des cours internationaux (5).
+des cours internationaux (6).
 
 Pour les entreprises dont l'objet principal est de faire subir en France la
 première transformation au pétrole brut, le montant de la provision pour
@@ -96,9 +120,9 @@ réglementaires en vigueur. L'excédent éventuel de la provision antérieuremen
 constituée, par rapport à la nouvelle limite maximale calculée à la clôture du
 premier exercice auquel elle s'applique, est rapporté au bénéfice imposable de
 cet exercice. Ces dispositions s'appliquent pour la détermination des résultats
-des exercices clos à compter du 24 septembre 1975 (5).
+des exercices clos à compter du 24 septembre 1975 (6).
 
-Sous réserve des dispositions prévues au septième alinéa, les entreprises
+Sous réserve des dispositions prévues au huitième alinéa, les entreprises
 peuvent, d'autre part, en ce qui concerne les variations de prix postérieures au
 30 juin 1959, pratiquer en franchise d'impôt une provision pour hausse des prix
 lorsque, pour une matière ou un produit donné, il est constaté, au cours d'une
@@ -114,14 +138,14 @@ des stocks est supérieure à trois ans. Dans ce dernier cas, les entreprises
 effectueront la réintégration dans un délai double de celui de la rotation
 normale des stocks.
 
-Un décret fixe les modalités d'application des deux alinéas qui précèdent (6).
+Un décret fixe les modalités d'application des deux alinéas qui précèdent (7).
 
 Les matières, produits ou approvisionnements existant en stock à la clôture de
 chaque exercice et qui peuvent donner lieu à la constitution de la provision
-pour fluctuation des cours prévue au deuxième alinéa n'ouvrent pas droit à la
+pour fluctuation des cours prévue au troisième alinéa n'ouvrent pas droit à la
 provision pour hausse des prix.
 
-Un arrêté du ministre de l'économie et des finances (7) fixe les limites dans
+Un arrêté du ministre de l'économie et des finances (8) fixe les limites dans
 lesquelles sont admises les provisions destinées à faire face aux risques
 particuliers afférents aux opérations de crédit à moyen et à long terme ainsi
 qu'aux crédits à moyen terme résultant de ventes ou de travaux effectués à
@@ -135,12 +159,16 @@ nécessaires dès qu'elle constate que les provisions sont devenues sans objet.
 Dans ce cas, les provisions sont, s'il y a lieu, rapportées aux résultats du
 plus ancien des exercices soumis à vérification.
 
-Par dérogation aux dispositions des premier et neuvième alinéas qui précèdent,
-la provision pour dépréciation qui résulte éventuellement de l'estimation du
-portefeuille est soumise au régime fiscal des moins-values à long terme défini à
-l'article 39 quindecies-I-2 ; si elle devient ultérieurement sans objet, elle
-est comprise dans les plus-values à long terme de l'exercice, visées à l'article
-39 quindecies-I-1.
+Par dérogation aux dispositions des premier et dixième alinéas qui précèdent, la
+provision pour dépréciation qui résulte éventuellement de l'estimation du
+portefeuille est soumise au régime fiscal des moins-values à long terme défini
+au 2 du I de l'article 39 quindecies ; si elle devient ultérieurement sans
+objet, elle est comprise dans les plus-values à long terme de l'exercice, visées
+au 1 du I de l'article 39 quindecies. La provision pour dépréciation constituée
+antérieurement, le cas échéant, sur des titres prêtés dans les conditions
+prévues au chapitre V de la loi n° 87-416 du 17 juin 1987 sur l'épargne n'est
+pas réintégrée ; elle doit figurer sur une ligne distincte au bilan et demeurer
+inchangée jusqu'à la restitution de ces titres.
 
 Toutefois, pour les exercices ouverts à partir du 1er janvier 1974, les titres
 de participation ne peuvent faire l'objet d'une provision que s'il est justifié
@@ -153,10 +181,27 @@ Les provisions pour dépréciation, en ce qui concerne les titres et actions
 susvisés, précédemment comptabilisées seront rapportées aux résultats des
 exercices ultérieurs à concurrence du montant des provisions de même nature
 constituées à la clôture de chacun de ces exercices ou, le cas échéant, aux
-résultats de l'exercice de cession ;
+résultats de l'exercice de cession.
+
+La dépréciation de titres prêtés dans les conditions du chapitre V de la loi n°
+87-416 du 17 juin 1987 sur l'épargne ne peut donner lieu, de la part du prêteur
+ou de l'emprunteur, à la constitution d'une provision. De même le prêteur ne
+peut constituer de provision pour dépréciation de la créance représentative de
+ces titres ;
 
 6° La contribution de solidarité visée à l'article 33 de l'ordonnance n° 67-828
 du 23 septembre 1967.
+
+Le fait générateur de cette contribution est constitué par l'existence de
+l'entreprise débitrice au 1er janvier de l'année au titre de laquelle elle est
+due ;
+
+7° Les dépenses engagées dans le cadre de manifestations de caractère
+philanthropique, éducatif, scientifique, social, humanitaire, sportif, familial,
+culturel ou concourant à la mise en valeur du patrimoine artistique, à la
+défense de l'environnement naturel ou à la diffusion de la culture, de la langue
+et des connaissances scientifiques françaises, lorsqu'elles sont exposées dans
+l'intérêt direct de l'exploitation ;
 
 2. Les transactions, amendes, confiscations, pénalités de toute nature mises à
 la charge des contrevenants aux dispositions légales régissant les prix, le
@@ -188,7 +233,7 @@ résidences.
 Sauf justifications, les dispositions du premier alinéa sont applicables :
 
 A l'amortissement des véhicules immatriculés dans la catégorie des voitures
-particulières pour la fraction de leur prix d'acquisition qu dépasse 35 000 F ;
+particulières pour la fraction de leur prix d'acquisition qui dépasse 35 000 F ;
 cette limite est portée à 50 000 F pour les véhicules acquis à l'état neuf à
 compter du 1er juillet 1985;
 
@@ -209,12 +254,12 @@ déductibles par les limitations ci-dessus est néanmoins retenue pour la
 détermination des plus-values ou moins-values résultant de la vente ultérieure
 des véhicules ainsi amortis.
 
-5. Lorsque les dépenses appartenant aux catégories ci-après excèdent les
-chiffres fixés par arrêté du ministre de l'économie et des finances, pris après
-consultation des professions intéressées (8), elles ne sont déductibles que si
-elles figurent sur le relevé visé à l'article 54 quater.
+Les dispositions du premier alinéa ne sont pas applicables aux charges exposées
+pour les besoins de l'exploitation et résultant de l'achat, de la location ou de
+l'entretien de demeures historiques classées, inscrites à l'inventaire
+supplémentaire des monuments historiques ou agréés.
 
-Les dépenses visées à l'alinéa qui précède sont :
+5. Sont également déductibles les dépenses suivantes :
 
 a. Les rémunérations directes et indirectes, y compris les remboursements de
 frais versés aux personnes les mieux rémunérées ;
@@ -260,28 +305,44 @@ relative aux entreprises pratiquant le crédit-bail, la quote-part des loyers
 pris en compte pour la fixation du prix de vente convenu pour l'acceptation de
 la promesse unilatérale de vente n'est pas déductible pour l'assiette de l'impôt
 sur les bénéfices dû par le locataire. Elle doit être indiquée distinctement
-dans le contrat de crédit-bail (11).
+dans le contrat de crédit-bail.
 
 Un décret fixe les modalités d'application de ces dispositions, notamment les
 obligations déclaratives (11).
 
-(1) Voir art. 39 E et 61 A.
+9. L'indemnité de congé payé correspondant aux droits acquis durant la période
+neutralisée définie ci-après, calculée dans les conditions prévues aux articles
+L. 223-11 à L. 223-13 du code du travail, n'est pas déductible. Cette période
+neutralisée est celle qui est retenue pour le calcul de l'indemnité afférente
+aux droits acquis et non utilisés à l'ouverture du premier exercice clos à
+compter du 31 décembre 1987 ; sa durée ne peut être inférieure à celle de la
+période d'acquisition des droits à congé payé non utilisés à la clôture de cet
+exercice. L'indemnité correspondant à ces derniers droits est considérée comme
+déduite du point de vue fiscal.
 
-(2) Annexe II, art. 15 et 229.
+Ces dispositions s'appliquent aux charges sociales et fiscales attachées à ces
+indemnités. Un décret fixe les modalités d'application du présent 9 (12).
 
-(3) Décret à emettre.
+(1) Décret à émettre.
 
-(4) Cette disposition a un caractère interprétatif.
+(2) Voir art. 39 E et 61 A.
 
-(5) Annexe III, art. 3 à 10 septies.
+(3) Annexe II, art. 15 et 229.
 
-(6) Annexe III, art. 10 nonies à 10 terdecies.
+(4) Pour la détermination des résultats imposables des exercices ouverts à
+compter du 1er janvier 1988 ; antérieurement la limite était égale à 80 % de
+cette moyenne.
 
-(7) Annexe IV art. 2 à 4 septies.
+(5) Décret à émettre.
 
-(8) Annexe IV art. 4 J à 4 L.
+(6) Annexe III, art. 3 à 10 septies.
+
+(7) Annexe III, art. 10 nonies à 10 terdecies.
+
+(8) Annexe IV art. 2 à 4 septies.
 
 (9) Voir annexe II, art. 33 à 35.
 
 (10) Voir également livre de procédures fiscales, art. L59 A 2° (11) Annexe III,
-art. 38 quindecies E
+art. 38 quindecies E (12) Décret à émettre. Voir également loi de finances pour
+1987, n° 86-1317 du 30 décembre 1986 art. 7 II al. 2 à al. 5.

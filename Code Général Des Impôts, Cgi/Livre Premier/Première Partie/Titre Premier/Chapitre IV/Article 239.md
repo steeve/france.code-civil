@@ -8,7 +8,7 @@ sont fixées par arrêté ministériel, pour le régime applicable aux société
 capitaux. Dans ce cas, l'impôt sur le revenu dû par les associés en nom,
 commandités et coparticipant, l'associé unique de société à responsabilité
 limitée et les associés d'exploitation agricoles est établi suivant les règles
-prévues à l'article 162.
+prévues aux articles 62 et 162.
 
 L'option peut être notifiée dans les trois premiers mois de chaque année
 [*délai*]. Elle est valable à partir de l'année en cours [*validité, point de
