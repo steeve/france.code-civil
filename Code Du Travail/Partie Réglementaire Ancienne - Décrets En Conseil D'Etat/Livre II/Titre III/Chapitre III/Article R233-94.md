@@ -6,7 +6,7 @@ risques d'origine électrique pouvant résulter de contacts directs ou indirects
 de surintensités ou d'arcs électriques.
 
 Les dispositions prévues doivent être conformes aux règles générales
-correspondantes prescrites par le décret n. 62-1454 du 14 novembre 1962.
+correspondantes prescrites par le décret 88-1056 du 14 novembre 1988.
 
 A cet effet, les machines et appareils doivent notamment satisfaire aux
 prescriptions suivantes :
