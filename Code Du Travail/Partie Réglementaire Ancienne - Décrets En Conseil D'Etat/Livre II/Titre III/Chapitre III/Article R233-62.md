@@ -1,13 +1,17 @@
 Article R233-62
 ----
-Lors de la vente, de la location ou de la cession à quelque titre que ce soit
-d'un matériel neuf soumis aux procédures définies à la présente sous-section, le
-constructeur, le vendeur, le cédant, le loueur ou l'importateur remet au preneur
-un certificat attestant la conformité de l'exemplaire faisant l'objet de la
-vente ou de la cession au matériel ayant été homologué, ou ayant obtenu
-l'attestation d'examen de type.
+Toute modification d'une machine ou d'un équipement de protection individuelle
+ayant fait l'objet d'une attestation d'examen CE de type doit être portée à la
+connaissance de l'organisme ayant délivré l'attestation d'examen CE de type.
 
-La présentation de ce certificat au service des douanes sera exigée
-[*obligation*] lors de l'importation de matériels susmentionnés, sauf sur
-justification de l'importateur s'il s'agit de matériels importés temporairement
-pour procéder à tous examens et essais prévus par les règlements techniques.
+L'organisme prend connaissance de ces modifications et s'assure que celles-ci
+n'exigent pas un nouvel examen de la conformité de la machine ou de l'équipement
+de protection individuelle. Dans ce cas, il fait savoir au fabricant ou à
+l'importateur que l'attestation d'examen CE de type reste valable pour le modèle
+ainsi modifié.
+
+Dans le cas contraire, l'organisme fait savoir au fabricant ou à l'importateur
+que l'attestation d'examen CE de type cesse d'être valable pour le modèle ainsi
+modifié. Si le fabricant ou l'importateur entend maintenir lesdites
+modifications, il doit déposer une nouvelle demande d'examen CE de type dans les
+conditions et selon les modalités prévues par la présente section.

@@ -1,14 +1,18 @@
 Article R233-68
 ----
-Lors de la vente, de la location ou de la cession à quelque titre que ce soit
-d'un appareil machine, élément de machine neuf, d'un dispositif ou d'un
-équipement de protection neuf ou de produits de protection désignés dans les
-règlements techniques prévus à l'article R. 233-50, le constructeur, le vendeur,
-le cédant, le fabricant, le loueur ou l'importateur remet au preneur un
-certificat déclarant que le matériel ou le produit de protection faisant l'objet
-de l'exposition, de la vente, de la location ou de la cession est conforme aux
-prescriptions réglementaires prévues à l'article L. 233-5 qui leur sont
-applicables.
+Pour chaque modèle d'équipement de protection individuelle fabriqué, un
+organisme habilité choisi par le fabricant prélève un échantillonnage adéquat de
+l'équipement de protection individuelle à des intervalles aléatoires, au moins
+une fois par an. Sous sa responsabilité, il l'examine et réalise sur cet
+échantillonnage les essais appropriés définis par les normes visées au 1° du IV
+de l'article L. 233-5 ou nécessaires pour s'assurer de la conformité des
+échantillons d'équipement de protection individuelle avec les règles techniques
+qui leur sont applicables.
 
-La présentation de ce certificat au service des douanes est exigée lors de
-l'importation de matériels et produits mentionnés ci-dessus.
+L'organisme habilité visé à l'alinéa précédent, s'il n'est pas celui qui a
+délivré l'attestation d'examen CE de type, doit prendre contact avec ce dernier
+en cas de difficulté pour apprécier la conformité des équipements de protection
+individuelle prélevés dans l'échantillonnage.
+
+L'organisme habilité visé au premier alinéa adresse au fabricant un rapport
+d'expertise dans un délai de deux mois suivant celle-ci.

@@ -1,20 +1,16 @@
 Article R233-73
 ----
-Des visites périodiques peuvent être imposées par les règlements prévus à
-l'article L. 233-5 pour certains matériels. Ces visites sont exécutées par des
-techniciens dûment qualifiés et spécialisés appartenant à l'entreprise ou à un
-organisme exerçant régulièrement cette activité.
+Le fabricant, ou l'importateur, ou le responsable de la mise sur le marché d'un
+exemplaire neuf ou considéré comme neuf d'équipement de travail visé aux 1°, 3°
+ou 4° de l'article R. 233-83 ou de moyen de protection visé aux 1° ou 2° de
+l'article R. 233-83-2 ou d'équipement de protection individuelle visé à
+l'article R. 233-83-3 doit établir et signer une déclaration CE de conformité
+par laquelle il atteste que l'équipement de travail ou moyen de protection
+concerné est conforme aux règles techniques et satisfait aux règles de procédure
+qui lui sont applicables.
 
-Les résultats des visites sont consignés pour chaque matériel sur un document
-tel qu'un registre ou un carnet spécial tenu à la disposition de l'inspecteur du
-travail, des agents du service de prévention de la caisse régionale d'assurance
-maladie et des caisses de mutualité sociale agricole ainsi que de l'organisme
-professionnel d'hygiène, de sécurité et des conditions de travail créé en
-application du 4° de l'article L. 231-2, s'il y a lieu, et du comité d'hygiène,
-de sécurité et des conditions de travail de l'établissement ou à défaut des
-délégués du personnel [*information*].
-
-Lorsqu'il s'agit d'un matériel importé, l'importateur est tenu d'ouvrir lui-même
-le registre ou le carnet spécial et d'y faire consigner les éléments
-d'information indiqués aux alinéas précédents après avoir fait procéder aux
-divers examens, vérifications et visites obligatoires.
+Cette déclaration CE de conformité doit être remise au preneur lors de la vente,
+de la location, de la cession ou de la mise à disposition à quelque titre que ce
+soit d'un exemplaire d'équipement de travail visé aux 1°, 3° ou 4° de l'article
+R. 233-83 ou de moyen de protection visé aux 1° ou 2° de l'article R. 233-83-2,
+par le responsable de l'opération sus-indiquée.

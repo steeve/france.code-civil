@@ -1,19 +1,15 @@
 Article R233-78
 ----
-Sans préjudice de l'application des autres dispositions du titre III du livre II
-du code du travail, lorsqu'il apparaît qu'un matériel est, en raison de
-certaines de ses caractéristiques, manifestement dangereux ou qu'un protecteur
-de machines, un dispositif, équipement ou produit de protection est inefficace,
-le ministre chargé du travail peut, après avis du conseil supérieur de la
-prévention des risques professionnels et le constructeur ou l'importateur
-entendu, interdire l'exposition, la mise en vente, la vente, l'importation, la
-location, la cession à quelque titre que ce soit, ou l'utilisation de tous les
-matériels, équipements ou produits présentant les mêmes caractéristiques.
+La procédure de sauvegarde prévue au 5° du III de l'article L. 233-5 est
+applicable à tous les équipements de travail et moyens de protection soumis à
+des règles techniques prévues par le 3° du III de l'article L. 233-5.
 
-Les arrêtés comportant interdiction d'importation sont également signés par le
-ministre chargé des douanes [*autorité compétente*].
+Elle est mise en oeuvre par arrêté des ministres chargés du travail et de
+l'agriculture, pris après avis du Conseil supérieur de la prévention des risques
+professionnels et de la Commission nationale d'hygiène et de sécurité du travail
+en agriculture et après que le fabricant ou l'importateur a été invité à
+présenter ses observations.
 
-Le ministre peut également, par arrêté pris après avis du conseil supérieur de
-la prévention des risques professionnels, prescrire toute vérification, épreuve,
-règle d'entretien, modification ou mode d'emploi des matériels en vue de
-remédier aux dangers ou aux défauts.
+Les arrêtés interdisant ou restreignant les possibilités d'effectuer les
+opérations mentionnées au II de l'article L. 233-5 sont également signés par les
+ministres chargés des douanes, de l'industrie et de la consommation.

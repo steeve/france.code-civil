@@ -1,6 +1,9 @@
 Article R233-81
 ----
-Des arrêtés du ministre chargé du travail fixent le modèle des certificats
-prévus aux articles R. 233-62, R. 233-68 et R. 233-77 et définissent les
-caractéristiques, l'emplacement et le libellé des marques prévues aux articles
-R. 233-63 et R. 233-69.
+La déclaration CE de conformité prévue au premier alinéa de l'article R. 233-73
+doit être présentée par le fabricant, ou l'importateur, ou le responsable de la
+mise sur le marché sur demande des agents mentionnés aux articles L. 611-10, L.
+611-12-1 et L. 611-16 du code du travail.
+
+Le certificat de conformité prévu par l'article R. 233-77 doit être présenté
+dans les mêmes conditions par le responsable de l'opération visée audit article.
