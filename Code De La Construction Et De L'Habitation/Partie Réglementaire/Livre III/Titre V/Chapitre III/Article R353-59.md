@@ -11,15 +11,15 @@ ci-dessous :
 Ier du présent livre, par le titre II de la loi du 13 juillet 1928, ainsi que
 par l'article 269 du code de l'urbanisme et de l'habitation ;
 
-2. Logements donnant lieu à des prêts aidés par l'Etat définis par les articles
-R. 331-1 à R. 331-31 :
+2. Logements donnant lieu aux prêts visés aux sections I, III et IV du chapitre
+unique du présent titre :
 
-a) Soit pour leur construction ;
+a) soit pour leur construction ;
 
-b) Soit pour leur acquisition et amélioration ;
+b) soit pour leur acquisition et amélioration ;
 
-c) Soit pour leur amélioration, lorsqu'ils sont cédés à bail emphytéotique ou à
-construction par des collectivités locales ou leurs groupements.
+c) soit pour leur amélioration, lorsqu'ils sont cédés à bail emphytéotique ou à
+construction par des collectivités locales ou leurs groupements ;
 
 3. Logements donnant lieu pour leur amélioration à une subvention de l'Etat
 définie par les articles R. 323-1 à R. 323-11.
