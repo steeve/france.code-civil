@@ -2,7 +2,7 @@ Article 575 A
 ----
 Pour les différents groupes de produits définis à l'article 575, le taux normal
 et le minimum de perception sont fixés conformément taux réduit sont fixés
-conformément au tableau ci-après (1) :
+conformément au tableau ci-après :
 
 ---------------------------------------------------------:
 
@@ -26,7 +26,7 @@ conformément au tableau ci-après (1) :
 
 : : : :
 
-: Cigarettes : 49,20 : 30 :
+: Cigarettes : 49,43 : 30 :
 
 : Cigares à enveloppe : : :
 
@@ -46,5 +46,4 @@ conformément au tableau ci-après (1) :
 
 : Tabacs à mâcher : 21,60 : 7 :
 
------------------------------------------------------------ (1) Dispositions
-applicables à compter du 1er février 1982.
+-----------------------------------------------------------
