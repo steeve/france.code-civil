@@ -34,21 +34,21 @@ c) La mention Usage professionnel ;
 4° Les quantités délivrées ;
 
 5° Pour un médicament classé dans la catégorie des médicaments à prescription
-initiale hospitalière en application des dispositions de l'article R. 5143-5-3,
-le nom de l'établissement ou service de santé et le nom du prescripteur auteur
-de la prescription initiale ;
+hospitalière ou dans celle des médicaments à prescription initiale hospitalière,
+le nom de l'établissement ou service de santé et le nom du prescripteur ayant
+effectué la prescription ou la prescription initiale ;
 
-6° Lorsque le médicament est soumis aux conditions de prescription restreinte
-prévues au 2° de l'article R. 5143-5-5, la qualification ou le titre du
-prescripteur.
+6° Pour un médicament classé dans la catégorie des médicaments à prescription
+réservée à certains médecins spécialistes, la spécialité du prescripteur telle
+que définie à l'article R. 5143-5-5.
 
 Les registres, les enregistrements ainsi que les éditions de ces enregistrements
 par périodes maximales d'un mois sont conservés pendant une durée de dix ans et
 sont tenus à la disposition des autorités de contrôle pendant la durée
 prescrite.
 
-Les dispositions qui précèdent ne sont pas applicables [*dérogation*] aux
-centres de planification ou d'éducation familiale agréés pour la délivrance de
+Les dispositions qui précèdent ne sont pas applicables aux centres de
+planification ou d'éducation familiale agréés pour la délivrance de
 contraceptifs aux mineurs désirant garder le secret.
 
 Il ne peut être délivré en une seule fois une quantité de médicaments ou

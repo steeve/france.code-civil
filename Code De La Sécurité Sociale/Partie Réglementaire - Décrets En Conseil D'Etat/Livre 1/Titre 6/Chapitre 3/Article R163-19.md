@@ -16,7 +16,8 @@ l'inscription ; l'avis portant sur le maintien du médicament sur la liste prév
 mentionnée au troisième alinéa de l'article R. 163-2 ;
 
 3° L'inscription des médicaments sur la liste mentionnée à l'article L. 595-7-1
-du code de la santé publique ;
+du code de la santé publique. L'avis comporte notamment les rubriques visées aux
+1°, 2° et 6° de l'article R. 163-18 ;
 
 4° L'établissement de classifications des médicaments en fonction de leurs
 propriétés pharmacologiques et thérapeutiques ou de leurs indications ainsi que

@@ -26,4 +26,5 @@ Dans tous les cas, le ou les renouvellements ne peuvent être exécutés que dan
 la limite du délai de traitement mentionnée au premier alinéa.
 
 Les dispensateurs sont tenus d'exécuter les renouvellements selon les modalités
-définies à l'article R. 5202.
+définies à l'article R. 5202 sous réserve des dispositions de l'article R.
+5143-5-6.

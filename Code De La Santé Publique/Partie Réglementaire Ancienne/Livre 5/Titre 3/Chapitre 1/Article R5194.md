@@ -4,9 +4,11 @@ Toute prescription de médicaments ou produits mentionnés à la présente secti
 doit être rédigée, après examen du malade, sur une ordonnance et indiquer
 lisiblement :
 
-1° Le nom, la qualité et, le cas échéant, la qualification ou le titre du
-prescripteur, son identifiant lorsqu'il existe, son adresse, sa signature et la
-date à laquelle l'ordonnance a été rédigée ;
+1° Le nom, la qualité et, le cas échéant, la qualification, le titre ou la
+spécialité du prescripteur telle que définie à l'article R. 5143-5-5, son
+identifiant lorsqu'il existe, son adresse, sa signature, la date à laquelle
+l'ordonnance a été rédigée et, pour l'application des articles R. 5143-5-3 et R.
+5143-5-4, le nom de l'établissement ou du service de santé ;
 
 2° La dénomination du médicament ou du produit prescrit, ou le principe actif du
 médicament désigné par sa dénomination commune, la posologie et le mode
@@ -18,13 +20,13 @@ conditionnement et, le cas échéant, le nombre de renouvellements de la
 prescription ;
 
 4° Pour un médicament classé dans la catégorie des médicaments à prescription
-initiale hospitalière en application des dispositions de l'article R. 5143-5-3,
+initiale hospitalière en application des dispositions de l'article R. 5143-5-4,
 la date à laquelle un nouveau diagnostic doit être effectué lorsque
 l'autorisation de mise sur le marché ou l'autorisation temporaire d'utilisation
 le prévoit ;
 
-5° Les mentions prévues au quatrième alinéa de l'article R. 5143-5-4 et au 3° de
-l'article R. 5143-5-5 lorsque l'autorisation de mise sur le marché ou
+5° Les mentions prévues au I de l'article R. 5143-5-6 et au huitième alinéa de
+l'article R. 5143-5-1 lorsque l'autorisation de mise sur le marché ou
 l'autorisation temporaire d'utilisation les prévoit ;
 
 6° Le cas échéant, la mention prévue à l'article R. 5143-11.

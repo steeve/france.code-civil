@@ -13,4 +13,6 @@ temporaire jusqu'à l'entrée en vigueur de l'autorisation de mise sur le march�
 La date à laquelle l'autorisation temporaire d'utilisation cesse de produire ses
 effets est communiquée par le directeur général de l'Agence française de
 sécurité sanitaire des produits de santé au titulaire de cette autorisation et,
-s'il est distinct, au titulaire de l'autorisation de mise sur le marché.
+s'il est distinct, au titulaire de l'autorisation de mise sur le marché. Elle
+est également communiquée aux ministres chargés de la santé et de la sécurité
+sociale.

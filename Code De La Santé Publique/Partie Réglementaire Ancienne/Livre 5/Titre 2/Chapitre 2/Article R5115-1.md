@@ -17,7 +17,10 @@ a) Les articles de pansement et de suture chirurgicale ;
 b) Les médicaments mentionnés à l'article L. 5121-8 utilisés en diagnostic
 médical, en anesthésie, en allergologie, ou d'usage antalgique ou dentaire ;
 
-c) Les médicaments mentionnés à l'article R. 5143-5-7.
+c) Les médicaments mentionnés à l'article R. 5143-5-8 ;
+
+d) Les médicaments qui ne peuvent être délivrés qu'à des professionnels de santé
+en vertu de l'article R. 5143-5-11.
 
 Elle ne fait pas non plus obstacle, sous réserve que soit effectué un suivi
 individualisé des lots et, s'il y a lieu, leur retrait, à ce que ces mêmes

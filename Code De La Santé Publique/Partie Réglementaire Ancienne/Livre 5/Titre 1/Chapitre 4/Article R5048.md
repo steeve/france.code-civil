@@ -13,7 +13,7 @@ se familiariser avec celui-ci ; chaque échantillon doit être identique au plus
 petit conditionnement commercialisé ;
 
 c) Lorsqu'un médicament est soumis aux conditions de prescription restreinte
-prévues aux articles R. 5143-5-1 à R. 5143-5-5, les échantillons ne peuvent être
+prévues aux articles R. 5143-5-1 à R. 5143-5-6, les échantillons ne peuvent être
 remis qu'aux pharmaciens gérants des pharmacies à usage intérieur des
 établissements de santé et aux prescripteurs habilités à établir la prescription
 ;

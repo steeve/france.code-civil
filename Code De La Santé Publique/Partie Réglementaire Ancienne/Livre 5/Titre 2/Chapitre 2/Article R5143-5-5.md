@@ -1,42 +1,29 @@
 Article R5143-5-5
 ----
-L'autorisation de mise sur le marché ou l'autorisation temporaire d'utilisation
-peut en outre :
+I. - Le classement dans la catégorie des médicaments à prescription réservée à
+certains médecins spécialistes a les effets suivants :
 
-1° Réserver la prescription initiale ou le renouvellement de la prescription
-d'un médicament mentionné à l'article R. 5143-5-2 ou la prescription initiale
-d'un médicament mentionné à l'article R. 5143-5-3 :
+1° La prescription ou la prescription initiale du médicament est réservée aux
+médecins auxquels a été reconnue une qualification de spécialiste dans les
+conditions prévues par le décret n° 2004-252 du 19 mars 2004.
 
-- aux prescripteurs exerçant dans certains services spécialisés des
-établissements de santé publics ou privés ;
+2° Dans l'hypothèse où seule la prescription initiale du médicament est réservée
+à certains médecins spécialistes, le traitement peut, après la première
+prescription, être renouvelé par tout médecin dans les conditions de droit
+commun. L'ordonnance de renouvellement, lorsqu'elle est rédigée par un
+prescripteur autre que ceux qui sont autorisés à effectuer la première
+prescription, reprend les mentions de l'ordonnance initiale. En cas de
+nécessité, elle peut comporter une modification de la posologie ou de la durée
+du traitement.
 
-- aux prescripteurs autorisés à exercer certaines spécialités dans les
-conditions prévues par leurs statuts ;
+L'autorisation de mise sur le marché, l'autorisation temporaire d'utilisation ou
+l'autorisation d'importation du médicament peut, en fonction des
+caractéristiques de celui-ci, fixer un délai au terme duquel la prescription
+initiale devient caduque et ne peut plus être renouvelée par des personnes
+autres que celles autorisées à effectuer la prescription initiale.
 
-- aux prescripteurs auxquels ont été reconnues certaines qualifications dans les
-conditions prévues à l'article 79 (4°) du décret n° 95-1000 du 6 septembre 1995
-portant code de déontologie médicale ;
-
-- aux prescripteurs titulaires de certains diplômes d'études spécialisées
-complémentaires ;
-
-2° Réserver le renouvellement de la prescription d'un médicament mentionné à
-l'article R. 5143-5-3, ou la prescription initiale ou le renouvellement de la
-prescription d'un médicament mentionné à l'article R. 5143-5-4 :
-
-- aux prescripteurs auxquels ont été reconnues certaines qualifications dans les
-conditions prévues à l'article 79 (4°) du décret n° 95-1000 du 6 septembre 1995
-portant code de déontologie médicale ;
-
-- aux prescripteurs titulaires de certains diplômes d'études spécialisées
-complémentaires ;
-
-3° Prévoir, pour tout ou partie des risques liés à l'utilisation d'un médicament
-classé dans une ou plusieurs des catégories de prescription restreinte prévues à
-l'article R. 5143-5-1, que le prescripteur doit mentionner sur l'ordonnance
-qu'il a donné au patient des informations sur ces risques.
-
-Ces restrictions ne peuvent être apportées à la prescription que si elles sont
-justifiées par les caractéristiques pharmacologiques du médicament, par son
-degré d'innovation, par la gravité des effets indésirables que peut provoquer
-son emploi ou par un autre motif de santé publique.
+II. - Ce classement ne peut intervenir que si les restrictions apportées à la
+prescription du médicament sont justifiées par les contraintes de mise en oeuvre
+du traitement, eu égard à la spécificité de la pathologie et aux
+caractéristiques pharmacologiques du médicament, à son degré d'innovation, ou à
+un autre motif de santé publique.

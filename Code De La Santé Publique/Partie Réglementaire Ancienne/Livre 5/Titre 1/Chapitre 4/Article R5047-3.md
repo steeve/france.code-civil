@@ -6,7 +6,7 @@ cette dernière au professionnel de santé :
 
 1° Du résumé des caractéristiques du produit, mentionné à l'article R. 5128 ;
 
-2° Des informations prévues aux n et o de l'article R. 5047 ;
+2° Des informations prévues aux m, n et o de l'article R. 5047 ;
 
 3° De l'avis rendu en application de l'article R. 163-4 du code de la sécurité
 sociale par la Commission de la transparence mentionnée à l'article R. 163-15 du
