@@ -1,18 +1,26 @@
 Article L115-28
 ----
-Tout certificat de qualification ne peut être délivré que par un organisme
-certificateur agréé par l'autorité administrative et selon un règlement
-technique approuvé par elle. Il doit faire apparaître dans son mode de
-présentation les caractéristiques du produit.
+Peuvent seuls procéder à la certification de produits ou de services les
+organismes qui ont déposé auprès de l'autorité administrative une déclaration
+relative à leur activité et contenant notamment toutes informations nécessaires
+en ce qui concerne les mesures destinées à garantir leur impartialité et leur
+compétence.
 
-L'organisme certificateur ne doit pas être fabricant, importateur ou vendeur
-d'un produit industriel, d'un produit agricole non alimentaire transformé ou
-d'un bien d'équipement.
+Les organismes qui bénéficient d'une accréditation par une instance reconnue à
+cet effet par les pouvoirs publics sont dispensés de fournir ces dernières
+informations.
 
-L'organisme certificateur dépose comme marque collective, conformément à la
-législation des marques de fabrique, de commerce ou de service, le signe
-distinctif qui, le cas échéant, accompagne ou matérialise le certificat de
-qualification.
+Toute référence à la certification dans la publicité, l'étiquetage ou la
+présentation de tout produit ou service, ainsi que sur les documents commerciaux
+qui s'y rapportent, doit être accompagnée d'informations claires sur la nature
+et l'étendue des caractéristiques certifiées.
 
-Un décret en Conseil d'Etat précisera les conditions de délivrance,
-d'utilisation ou de retrait des certificats de qualification.
+L'existence des référentiels fait l'objet d'une mention au Journal officiel de
+la République française. Leur consultation s'effectue soit gratuitement sur
+place auprès de l'organisme certificateur, soit par la délivrance de copies aux
+frais du demandeur.
+
+Les organismes certificateurs déposent comme marques collectives de
+certification, conformément à la législation sur les marques de fabrique, de
+commerce et de service, le signe distinctif qui, le cas échéant, accompagne ou
+matérialise la certification.

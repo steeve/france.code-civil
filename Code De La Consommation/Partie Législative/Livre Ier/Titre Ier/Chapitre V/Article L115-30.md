@@ -1,15 +1,24 @@
 Article L115-30
 ----
-Sera puni des peines prévues à l'article L. 213-1 quiconque aura :
+Est puni des peines [*sanctions*] prévues à l'article L. 213-1 :
 
-1° Délivré, utilisé ou tenté d'utiliser un certificat de qualification en
-contravention avec les articles L. 115-27 et L. 115-28 ;
+1° Le fait, dans la publicité, l'étiquetage ou la présentation de tout produit
+ou service, ainsi que dans les documents commerciaux de toute nature qui s'y
+rapportent, de faire référence à une certification qui n'a pas été effectuée
+dans les conditions définies aux articles L. 115-27 et L. 115-28 ;
 
-2° Fait croire ou tenté de faire croire faussement, notamment par l'utilisation
-d'un mode de présentation prêtant à confusion, qu'un produit industriel, un
-produit agricole non alimentaire transformé ou un bien d'équipement bénéficie
-d'un certificat de qualification ;
+2° Le fait de délivrer, en violation des dispositions prévues aux articles L.
+115-27 et L. 115-28, un titre, un certificat ou tout autre document attestant
+qu'un produit ou un service présente certaines caractéristiques ayant fait
+l'objet d'une certification ;
 
-3° Fait croire ou tenté de faire croire à tort qu'un produit industriel, un
-produit agricole non alimentaire transformé ou un bien d'équipement ayant un
-certificat de qualification est garanti par l'Etat ou un organisme public.
+3° Le fait d'utiliser tout moyen de nature à faire croire faussement qu'un
+organisme satisfait aux conditions définies aux articles L. 115-27 et L. 115-28
+;
+
+4° Le fait d'utiliser tout moyen de nature à faire croire faussement au
+consommateur ou à l'utilisateur qu'un produit ou un service a fait l'objet d'une
+certification ;
+
+5° Le fait de présenter à tort comme garanti par l'Etat ou par un organisme
+public tout produit ou service ayant fait l'objet d'une certification.
