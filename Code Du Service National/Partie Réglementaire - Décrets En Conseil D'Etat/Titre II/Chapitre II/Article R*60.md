@@ -11,8 +11,9 @@ postérieurement à l'expiration de ce délai, doivent, dans les conditions fix�
 au deuxième alinéa de l'article L. 33 précité, ^etre adressées au préfet du
 département de recensement jusqu'à la date à laquelle cette autorité arr^ete les
 listes de recensement, au bureau de recrutement après cette date. Les intéressés
-sont, si cela est nécessaire, placés en appel différé jusqu'à décision à
-intervenir.
+ne sont éventuellement placés en appel différé jusqu'à décision à intervenir que
+s'ils sont susceptibles d'être appelés au service national actif dans un délai
+de six mois après la date de dépôt de leur demande.
 
 Les demandes présentées par les jeunes gens résidant à l'étranger doivent ^etre
 adressées, dans les conditions et délais fixés ci-dessus, par l'intermédiaire

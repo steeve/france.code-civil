@@ -8,5 +8,5 @@ R. 151 sont établies, suivant le cas, par l'autorité administrative responsabl
 ou par le chef d'entreprise ou d'établissement.
 
 Les demandes d'affectation individuelle de défense sont instruites à la
-diligence du service du recrutement. Ce dernier enregistre et notifie les
-décisions d'affectation individuelle.
+diligence de la direction du service national. Cette derniere enregistre et
+notifie les décisions d'affectation individuelle.

@@ -1,7 +1,5 @@
 Article R*201-17
 ----
-Avant leur libération du service actif, les jeunes gens affectés au service dans
-la police nationale sont soumis à un examen médical de contr^ole constatant leur
-état de santé. A l'expiration de leur service, les intéressés sont rayés des
-contr^oles du service dans la police nationale et libérés du service actif par
-le ministre de l'intérieur.
+Le décompte des services accomplis par les policiers auxiliaires est arrêté par
+le ministre de l'intérieur et enregistré sur les pièces matricules. Ces pièces
+sont adressées au bureau ou centre du service national dont ils relèvent.

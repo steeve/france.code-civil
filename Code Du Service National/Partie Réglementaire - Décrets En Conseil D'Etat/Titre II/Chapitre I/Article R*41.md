@@ -1,17 +1,11 @@
 Article R*41
 ----
-Les jeunes gens qui ont demandé le bénéfice de l'appel avancé prévu à l'article
-L. 5, alinéa 2-1°, sont convoqués dans les centres de sélection en fonction de
-la date du dép^ot de leur demande.
+Les personnes convoquées doivent se munir des pièces nécessaires pour justifier
+de leur identité, de leur situation familiale, de leur niveau d'études
+scolaires, universitaires ou professionnelles ainsi que des pièces médicales en
+leur possession de nature à éclairer les médecins experts.
 
-Les jeunes gens qui bénéficient du report d'incorporation prévu à l'article L.
-5, alinéa 2-2°, sont convoqués dans les quatre mois qui précèdent l'expiration
-de ce report, sauf s'ils renoncent avant terme audit report.
-
-Les autres jeunes gens inscrits sur les listes de recensement prévues à
-l'article R. 34 sont convoqués dans l'ordre des dates de naissance et avec un
-préavis d'au moins vingt jours.
-
-Les intéressés doivent se munir des pièces nécessaires pour justifier de leur
-identité et de leur situation familiale ainsi que des pièces médicales en leur
-possession de nature à éclairer les médecins experts.
+Dans tous les cas visés à la présente section, les jeunes gens qui, sans
+présenter d'excuses reconnues valables, ne se rendent pas à leur convocation
+sont proposés d'office pour l'aptitude au service national et reçoivent
+application des dispositions de l'article R. 50-4.

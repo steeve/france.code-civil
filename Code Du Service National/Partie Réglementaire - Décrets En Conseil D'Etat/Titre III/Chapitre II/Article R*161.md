@@ -8,8 +8,8 @@ Cette commission est ainsi composée :
 
 - le secrétaire général de la défense nationale ou son représentant, président ;
 
-- les représentants du ministre chargé de la défense nationale, du ministre de
-l'intérieur et du ministre chargé des affaires économiques ;
+- les représentants du ministre chargé des armées, du ministre de l'intérieur et
+du ministre chargé des affaires économiques ;
 
 - les représentants des ministres dont les responsabilités de défense ont été
 fixées par décrets ;

@@ -1,9 +1,9 @@
 Article R75
 ----
 I. - Pour obtenir le bénéfice de la dispense prévue au paragraphe a de l'article
-L. 38, les double-nationaux doivent fournir à leur bureau de recrutement, dans
-les six mois qui suivent la date à laquelle ils atteignent l'^age de vingt et un
-ans :
+L. 38, les double-nationaux doivent fournir à leur bureau ou centre du service
+national, dans les six mois qui suivent la date à laquelle ils atteignent l'^age
+de vingt et un ans :
 
 1° Un document officiel émanant de l'autorité militaire de l'Etat étranger dont
 ils sont ressortissants attestant qu'ils sont en règle avec la loi de
@@ -20,8 +20,8 @@ certificat provisoire de résidence établi par le consul ou de la notice
 individuelle en tenant lieu.
 
 II. - Pour obtenir le bénéfice de la dispense prévue au paragraphe b de
-l'article L. 38, les double-nationaux doivent fournir à leur bureau de
-recrutement un document officiel émanant de l'autorité militaire de l'Etat
+l'article L. 38, les double-nationaux doivent fournir à leur bureau ou centre du
+service national un document officiel émanant de l'autorité militaire de l'Etat
 étranger dont ils sont ressortissants attestant qu'ils ont été effectivement
 incorporés, soit comme appelés soit comme engagés, dans l'armée dudit Etat.
 

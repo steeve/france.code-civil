@@ -6,10 +6,11 @@ membres de la commission sont désignés sur proposition du ministre chargé des
 armées.
 
 Le ministre de l'intérieur, le ministre des affaires étrangères, le ministre
-chargé du commerce extérieur, le ministre chargé de la coopération, le ministre
-chargé des départements et territoires d'outre-mer et le ministre chargé de la
-santé désignent en outre chacun un représentant qui siège avec voix
-consultative.
+chargé des affaires sociales, le ministre chargé de l'environnement, le ministre
+chargé de la forêt, le ministre chargé du commerce extérieur, le ministre chargé
+de la coopération, le ministre chargé des départements et territoires
+d'outre-mer et le ministre chargé de la santé désignent en outre chacun un
+représentant qui siège avec voix consultative.
 
 Le secrétariat de la commission est assuré par le secrétariat général de la
 défense nationale.

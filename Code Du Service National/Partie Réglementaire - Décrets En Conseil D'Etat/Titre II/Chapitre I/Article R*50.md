@@ -1,14 +1,15 @@
 Article R*50
 ----
-La commission locale d'aptitude statue sur pièces au vu de la proposition
-d'aptitude faite à l'égard des intéressés par le centre de sélection ou le
-médecin accrédité. Elle a, toutefois, la faculté de convoquer les intéressés
-lorsqu'elle le juge utile. Sont également convoqués devant la commission les
-jeunes gens ayant contesté, dans les conditions fixées à l'article R. 44, le
-bien-fondé de la proposition d'aptitude dont ils ont fait l'objet ; ces jeunes
-gens sont examinés en séance et admis, ainsi que, le cas échéant, leur
-représentant légal et le maire de leur commune ou son représentant, à faire
-connaître leurs observations.
+Une commission locale d'aptitude est créée auprès de chaque bureau ou centre du
+service national. La direction du service national organise ses séances qui ne
+sont pas publiques. Le secrétariat de la commission est assuré par le bureau ou
+le centre du service national.
 
-Les frais de transport, aller et retour, des jeunes gens convoqués devant la
-commission locale d'aptitude sont à la charge de l'Etat.
+Le président de la commission locale d'aptitude et son suppléant sont médecins
+en chef des armées. Son assesseur et le suppléant de celui-ci sont médecins
+principaux des armées ou médecins des armées.
+
+Le président est désigné par le directeur du service de santé des armées. Son
+suppléant, son assesseur et le suppléant de celui-ci sont désignés par le
+directeur local du service de santé des armées territorialement compétent pour
+le siège du bureau ou du centre du service national.

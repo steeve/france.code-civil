@@ -1,7 +1,7 @@
 Article R21
 ----
-Le ministre chargé de la défense nationale fixe par arr^eté en fonction des
-besoins du service national :
+Le ministre chargé des armées fixe par arr^eté en fonction des besoins du
+service national :
 
 1° La composition de chaque fraction de contingent ainsi que les conditions
 d'application du deuxième alinéa de l'article R. 19 ;

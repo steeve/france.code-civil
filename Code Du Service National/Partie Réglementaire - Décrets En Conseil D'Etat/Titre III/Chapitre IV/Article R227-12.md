@@ -1,5 +1,6 @@
 Article R227-12
 ----
-Les jeunes gens visés à l'article R. 227-1 sortant d'un établissement
-hospitalier peuvent bénéficier de permissions de convalescence dont la durée est
-fixée par le médecin agréé par le ministre.
+Des permissions de convalescence peuvent être accordées aux objecteurs de
+conscience dont l'état de santé le nécessite. Leur durée, fixée par le médecin
+agréé par le ministre, au plus égale à trente jours, est renouvelable. Elles ne
+viennent pas en déduction des autres permissions.

@@ -9,8 +9,8 @@ sécurité sociale ;
 
 Un médecin des armées ;
 
-Un intendant militaire ou un commissaire de la marine ou un commissaire de l'air
-;
+Un commissaire de l'armée de terre ou un commissaire de la marine ou un
+commissaire de l'air ;
 
 Un représentant du service de l'action sociale des armées.
 

@@ -17,3 +17,9 @@ l'existence et le nombre de salariés et la date de leur embauche. Elle doit êt
 la chambre de commerce ou de la chambre des métiers au sujet des conséquences
 d'une éventuelle incorporation sur l'emploi des salariés et sur l'activité de
 l'entreprise.
+
+Les demandes de dispense, dans les cas prévus au quatrième ou au cinquième
+alinéa de l'article L. 32, par des jeunes gens résidant à l'étranger doivent
+être adressés, dans les conditions et délais fixés par les dispositions du
+présent paragraphe, par l'intermédiaire des autorités consulaires françaises qui
+les transmettent avec leur avis motivé.

@@ -1,316 +1,314 @@
 Article ANNEXE II
 ----
-Catégories d'activités au titre desquelles sont prononcées les affectations de
-défense.
+TABLEAU I
 
-Tableau I : activités industrielles.
 
-Ministère de l'intérieur.
+Activités industrielles
 
-Services de distribution d'eau.
+Ministère de l'intérieur
 
-Services d'assainissements.
+Distribution de l'eau.
 
-Service de collecte et de traitement des ordures ménagères.
+Assainissement.
 
-Chauffage urbain.
+Collecte et traitement des ordures ménagères.
 
-Régies communales d'électricité.
+Production d'air comprimé.
 
-Compagnie parisienne de l'air comprimé.
 
-Ministère d'état chargé de la défense nationale.
+Ministère de la défense
 
 Industries d'armement et autres industries nécessaires à la mise en condition
 des armées (1).
 
 Organismes d'études et de recherches intéressant la défense nationale (2).
 
-Ministère de l'équipement et du logement.
+Ministère de l'équipement
 
-Bâtiment et travaux publics.
+Industries de mise en oeuvre du bâtiment et du génie civil.
 
-Entreprises de recherches techniques et de travaux spéciaux et bureaux
-spécialisés dans les travaux publics et le bâtiment.
+Extraction des matériaux de construction.
 
-Organismes professionnels des travaux publics et du bâtiment participant aux
-activités de défense.
+Cabinets d'études techniques.
 
-Route ou pont à péage.
+Location de matériel pour le bâtiment et les travaux publics.
 
-Entreprises de manutention pour le chargement ou le déchargement de marchandises
-dans les ports fluviaux ou maritimes.
 
-Construction de bâtiments fluviaux.
+Ministère des transports
 
-Transitaires maritimes.
+Exploitation d'ouvrages routiers à péage.
 
-Ministère des transports.
+Manutention portuaire fluviale et aéroportuaire.
 
-Entreprises de transports publics routiers.
+Activités spécifiques d'auxiliaires des transports aériens.
 
-Transports ferroviaires et assimilés, transports urbains et suburbains.
+Transports urbains de voyageurs.
 
-Transports de navigation intérieure.
+Transports routiers de marchandises.
 
-Transports maritimes.
+Transports fluviaux de marchandises.
+
+Transports ferroviaires.
+
+Location de véhicules industriels.
+
+Collecte du fret terrestre et fluvial.
+
+Location de wagons.
 
 Transports aériens.
 
-Auxiliaires de transports (3).
+Réparation de navires.
+
+Réparation d'aviation générale.
+
+Entrepôts.
+
+Gestion des gares routières, ports fluviaux, aéroports.
+
+Secrétariat d'Etat à la mer
+
+Manutention portuaire maritime.
+
+Transports maritimes.
+
+Transitaires maritimes.
 
 Pêche en mer et conchyliculture.
 
-Entreprises de transmissions spécialisées dans les télécommunications aériennes.
+Auxiliaires de transport maritime (3).
 
-Activités de réparation navale.
+Ministère de l'industrie
 
-Entreprises diverses travaillant directement en vue de la réparation navale (4).
+Extraction, production et transformation des minerais et combustibles solides.
 
-Entreprises de recherches techniques spécialisées dans les transports et la
-pêche.
+Industries céramiques.
 
-Activités de transports routiers des entreprises industrielles utilisant des
-véhicules entrant dans la composition du parc d'intérêt national (5).
-
-Ministère du développement industriel et scientifique.
-
-Industries extractives :
-
-Recherche et extraction d'hydrocarbures liquides ou gazeux ;
-
-Extraction de combustibles minéraux solides ;
-
-Extraction de minerai de fer et de minerais métalliques autres que de fer ;
-
-Extraction de matériaux de construction ;
-
-Extraction et préparation de minéraux divers.
-
-Industries et commerces des combustibles minéraux solides.
-
-Industries céramiques et matériaux de construction.
-
-Industries et commerces des carburants.
+Production, raffinage et répartition des carburants.
 
 Production, transport et distribution d'électricité et de gaz.
 
-Industries sidérurgiques, métallurgiques, mécaniques et électriques :
+Industries sidérurgiques, mécaniques, électriques et électroniques.
 
-Sidérurgie et commerce du fer et de la ferraille ;
+Fabrication de matériaux plastiques et composites.
 
-Production, récupération et affinage de métaux non ferreux, de silicium, de
-ferro-alliages, d'alumine, d'électrodes ;
+Transformation en produits chimiques et parachimiques.
 
-Métallurgie générale ;
+Production pharmaceutique.
 
-Première transformation des métaux, fonderie ;
+Production de caoutchouc et d'amiante.
 
-Grosse et moyenne mécanique générale, construction métallique ;
+Production de corps gras et produits amylacés.
 
-Construction et réparation de machines-outils, machines, outillage et matériels
-mécaniques pour l'industrie, l'agriculture, les transports ferroviaires ;
+Fabrication de verre et produits dérivés.
 
-Fabrication d'articles métalliques divers ;
-
-Fabrication et réparation d'automobiles et cycles ;
-
-Construction électrique et électronique ;
-
-Précision, horlogerie et optique.
-
-Industries chimiques et parachimiques :
-
-Industries chimiques et électrochimiques ;
-
-Industries du caoutchouc et de l'amiante ;
-
-Industries des corps gras ;
-
-Industries des produits amylacés ;
-
-Industries du verre.
-
-Industries textiles et industries annexes. Habillement et travail des étoffes.
+Industries textiles et industries annexes.
 
 Industries des cuirs et peaux.
 
-Chaussures.
+Ministère de l'agriculture
 
-Industries diverses :
+Industries agricoles et alimentaires :
 
-Bois et ameublement ;
+- industrie de la viande : abattage, découpe, préparations diverses (bovins,
+porcins, ovins, équins, volaille) ;
 
-Papier et carton ;
+- industrie laitière ;
 
-Industries polygraphiques ;
+- fabrication de conserves ;
 
-Articles de campement ;
+- boulangerie, pâtisserie ;
 
-Brosserie ;
+- travail du grain ;
 
-Transformation des matières plastiques.
+- fabrication de produits alimentaires divers ;
 
-Organismes divers :
-
-Organismes professionnels industriels visés à l'article 19 de l'ordonnance n°
-59-147 du 7 janvier 1959 portant organisation générale de la défense concernant
-les industries ci-dessus.
-
-Organismes de recherche, laboratoires, bureaux d'études et centres de
-documentation.
-
-Assemblée permanente des chambres de métiers.
-
-Chambres de métiers.
-
-Ministère de l'agriculture.
-
-Industries agricoles et alimentaires (6) :
-
-Travail des grains et farines ;
-
-Boulangerie, biscuiterie et produits de régime ;
-
-Sucrerie, distillerie, fabrication de boissons ;
-
-Industries du lait ;
-
-Conserverie ;
-
-Industries alimentaires diverses.
-
-Industries du froid.
-
-Industrie du bois (scieries).
+- fabrication de boissons et alcools (dont production d'eaux minérales et de
+source).
 
 Industrie textile (rouissage et teillage du lin et du chanvre).
 
-Industries diverses (travail du liège).
+Travail mécanique du bois et produits de transformation.
 
-Organismes professionnels industriels visés à l'article 19 de l'ordonnance n°
-59-147 du 7 janvier 1959 portant organisation générale de la défense concernant
-les industries ci-dessus.
+Travail du liège.
 
-Ministère des postes et télécommunications.
+Récupération de produits divers : équarrissage.
 
-Transmissions (entreprises privées de transmissions).
 
-Tableau II : activités agricoles.
+TABLEAU II
 
-Ministère du développement industriel et scientifique.
+Activités agricoles
+
+Ministère de l'agriculture
+
+Productions végétales et grandes cultures.
+
+Productions animales :
+
+- élevage : bovins, porcins, volailles, etc. ;
+
+- production laitière ;
+
+- productions diverses : oeufs, etc.
+
+Sylviculture et exploitation forestière.
+
+Aquaculture continentale et pisciculture.
+
+Extraction saline (marais salants).
+
+Santé animale (contrôles vétérinaires) et autres services affectés au profit de
+l'élevage (insémination).
+
+
+Ministère des transports
+
+Activités de transport routier des entreprises agricoles qui utilisent des
+véhicules entrant dans la composition du parc d'intérêt national (4).
+
+Ministère de l'économie et des finances
+
+(Commerce et artisanat)
 
 Entreprises du secteur des métiers travaillant en milieu rural.
 
-Ministère de l'agriculture.
 
-Assemblée permanente des chambres d'agriculture.
+TABLEAU III
 
-Chambres d'agriculture.
+Activités commerciales
 
-Exploitation forestière.
 
-Agriculture et production animale.
+Premier ministre
 
-Activités annexes de l'agriculture.
+Agence de presse.
 
-Abattoirs.
+Fourniture de papiers de presse.
 
-Vétérinaires.
+Imprimerie, presse, édition.
 
-Récupération de déchets animaux et végétaux.
+Communication par audiovisuel.
 
-Marais salants.
+Ministère de l'économie et des finances
 
-Organismes professionnels agricoles visés à l'article 19 de l'ordonnance n°
-59-147 du 7 janvier 1959 portant organisation générale de la défense.
+Opérations de crédit et de banque.
 
-Ministère des transports.
+Opérations d'assurances.
 
-Activités de transport routier des entreprises agricoles qui utilisent des
-véhicules entrant dans la composition du parc d'intérêt national (7).
+Opérations d'entreposage et de stockage.
 
-Tableau III : activités commerciales.
+Ministère de l'équipement
 
-Premier ministre.
+Opérations d'entreposage et stockage dans les ports fluviaux (5).
 
-Agence France-Presse.
+Secrétariat d'Etat à la mer
 
-Havas et sociétés filiales.
+Opérations de crédit et d'assurance maritimes (6).
 
-Société nationale des entreprises de presse.
+Expertise en matière maritime.
 
-Société professionnelle des papiers de presse.
+Opération de stockage et d'entreposage dans les ports maritimes (6).
 
-Entreprises, imprimeries et messageries de presse.
 
-Société financière de radiodiffusion.
+Ministère des transports
 
-Ministère de l'économie et des finances.
+Expertise en matière aérienne.
 
-Etablissements de crédits et banques.
-
-Compagnies d'assurances.
-
-Entrepôts, docks et magasins généraux.
-
-Ministère de l'équipement et du logement.
-
-Entrepôts, docks et magasins généraux dans les ports maritimes et fluviaux (8).
-
-Ministère des transports.
-
-Etablissements et caisses de crédit spécialisées dans les opérations maritimes
-(8).
-
-Courtiers jurés d'assurances maritimes.
-
-Expertises en matière maritime et aérienne.
-
-Wagons-lits, wagons-restaurants.
+Exploitation de wagons-lits et de wagons-restaurants.
 
 Activité de transport routier des entreprises commerciales qui utilisent des
-véhicules entrant dans la composition du parc d'intérêt national)(9).
+véhicules entrant dans la composition du parc d'intérêt national (7).
 
-Ministère du développement industriel et scientifique.
 
-Organismes professionnels commerciaux visés à l'article 19 de l'ordonnance n°
-59-147 du 7 janvier 1959 portant organisation générale de la défense.
+Ministère de la défense
 
-Chambres régionales de commerce et d'industrie.
+Services d'approvisionnement des forces françaises sur le territoire français et
+à l'étranger.
 
-Chambres de commerce et d'industrie.
-
-Entrepôts, docks et magasins généraux gérés par les chambres de commerce et
-d'industrie.
-
-Ministère de l'agriculture.
+Ministère de l'agriculture
 
 Activités commerciales indispensables au ravitaillement général.
 
-Entrepôts, docks et magasins généraux.
+Stockage et conservation des réserves agro-alimentaires (entrepôts frigorifiques
+ou non, docks et magasins généraux).
 
-Organismes professionnels commerciaux visés à l'article 19 de l'ordonnance n°
-59-147 du 7 janvier 1959 portant organisation générale de la défense.
+Restauration collective.
+
+Ministère de l'industrie
+
+Stockage et conservation des réserves gérées par les chambres de commerce et
+d'industrie.
+
+
+TABLEAU IV
+
+Autres activités
+
+
+Ministère de la santé
+
+Prestations sanitaires et sociales privées.
+
+Production et distribution de sérums, vaccins, sang et produits sanguins.
+
+Distribution des produits pharmaceutiques et matériels médico-chirurgicaux.
+
+
+Ministère de la défense
+
+Activités culturelles, sociales et sportives au profit du personnel des armées
+sur le territoire français et à l'étranger.
+
+Ministère de l'intérieur
+
+Surveillance et gardiennage.
+
+
+Ministère des affaires étrangères
+
+Activités exercées par le personnel affecté au ministère des affaires étrangères
+pour mise à disposition des agences créées en temps de crise dans le cadre de
+l'alliance atlantique.
+
+
+Ministère chargé des postes et télécommunications
+
+Exploitation et gestion du service public du courrier et des activités
+financières associées.
+
+Exploitation et gestion des réseaux publics de télécommunication.
+
+Ministère de l'environnement
+
+Gestion des ressources en eau.
+
+Surveillance, prévention et lutte contre les pollutions des milieux naturels,
+eau, air, sol.
+
+Protection de la nature.
+
+Protection des personnes et des biens vis-à-vis des risques technologiques et
+naturels.
+
+
+Tous ministères
+
+Représentation professionnelle.
+
+Activités de recherche, d'études et de documentation.
 
 (1) Il s'agit des entreprises relevant de ces industries, pour lesquelles une
-délégation d'attributions a été donnée au ministre chargé de la défense
-nationale par le ministre chargé de la mobilisation industrielle.
+délégation d'attributions a été donnée au ministre chargé des armées par le
+ministre chargé de la mobilisation industrielle.
 
 (2) En liaison, le cas échéant, avec le ministère dont ils relèvent.
 
-(3) En liaison avec le ministère de l'équipement et du logement.
+(3) En liaison avec le ministère de l'équipement, du logement, des transports et
+de l'espace.
 
-(4) En liaison avec le ministère chargé de la défense nationale et le ministère
-chargé du développement industriel et scientifique.
+(4) En liaison avec le ministère dont relèvent les entreprises en question.
 
-(5) En liaison avec le ministère dont relèvent les entreprises en question.
+(5) En liaison avec le ministère de l'économie et des finances.
 
-(6) Pour les industries alimentaires relevant du ministère chargé de la marine
-marchande, celui-ci opère en liaison avec le ministère de l'agriculture.
+(6) En liaison avec le ministère de l'économie et des finances.
 
-(7) En liaison avec le ministère dont relèvent les entreprises en question.
-
-(8) En liaison avec le ministère de l'économie et des finances.
-
-(9) En liaison avec le ministère dont ces entreprises relèvent.
+(7) En liaison avec le ministère dont ces entreprises relèvent.

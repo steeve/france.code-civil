@@ -2,7 +2,7 @@ Article R22
 ----
 La répartition entre les armées des jeunes gens affectés au service militaire
 qui composent une fraction de contingent est fixée par arr^eté du ministre
-chargé de la défense nationale, en tenant compte :
+chargé des armées, en tenant compte :
 
 1° Des besoins quantitatifs et qualitatifs des armées, des unités, formations et
 services de chacune d'elles ;

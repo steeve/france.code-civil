@@ -1,11 +1,7 @@
 Article R*43
 ----
-Les convocations aux centres de sélection ouvrent droit au transport gratuit à
-l'aller et au retour.
-
-La durée du séjour dans ces centres ne peut dépasser trois jours, délais de
-route non compris, hors le cas d'une hospitalisation pour observation, qui ne
-peut excéder dix jours.
-
-Pendant ces séjours, les jeunes gens convoqués bénéficient des prestations
-servies par l'Etat aux militaires du contingent.
+Les convocations dans les centres de sélection, dans les centres du service
+national, dans les formations du service de santé des armées ou dans les
+hôpitaux conventionnés ouvrent droit au transport gratuit pour le trajet le plus
+direct aller et retour, dans les mêmes conditions que pour les appelés au
+service militaire.

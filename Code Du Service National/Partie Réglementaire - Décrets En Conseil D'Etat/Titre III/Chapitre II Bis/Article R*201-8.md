@@ -1,5 +1,10 @@
 Article R*201-8
 ----
-Les permissions normales dont peuvent bénéficier les policiers auxiliaires sont
-fixées à seize jours pour une année de service effectif. Elles peuvent ^etre
-prises soit par fraction, soit en une fois avant la libération du service actif.
+Des permissions exceptionnelles d'une durée au plus égale à quatre jours peuvent
+être accordées pour la naissance d'un enfant, le mariage de l'intéressé, le
+décès du conjoint, d'un enfant ou d'un parent (grands-parents, parents,
+beaux-parents, frère, soeur). Un supplément de huit jours de permission peut
+être également accordé aux appelés qui exerçaient la profession d'agriculteur
+lors de leur incorporation ou qui, fils d'agriculteur et n'exerçant aucune
+profession, étaient employés chez leurs parents en qualité d'aide familial
+agricole.

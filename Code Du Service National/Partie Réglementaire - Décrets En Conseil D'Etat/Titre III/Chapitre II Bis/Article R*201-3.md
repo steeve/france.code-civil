@@ -1,5 +1,8 @@
 Article R*201-3
 ----
-Les jeunes gens qui n'ont pas répondu à la convocation du ministre de
-l'intérieur dans un délai de huit jours sont soumis de plein droit aux
-obligations du service militaire ou du service de défense.
+Les appelés dont la candidature a été retenue par le ministre de l'intérieur
+effectuent un stage de formation spécialisé permettant leur emploi. Les
+modalités de cette formation sont définies par le ministre. Elle comporte
+notamment une information sur le sens du service national qu'ils effectuent et
+l'acquisition des notions indispensables sur la défense, la sécurité et les
+devoirs civiques de tout citoyen.

@@ -14,4 +14,4 @@ préfet de zone et sous-délégué au préfet du département, dans des conditio
 sont fixées par instruction du Premier ministre.
 
 La décision intervient dans le mois qui suit la demande. Les décisions sont
-enregistrées et notifiées à la diligence du service du recrutement.
+enregistrées et notifiées à la diligence de la direction du service national.

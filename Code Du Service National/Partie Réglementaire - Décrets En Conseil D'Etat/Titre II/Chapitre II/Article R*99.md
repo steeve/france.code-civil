@@ -1,7 +1,6 @@
 Article R*99
 ----
-La commission juridictionnelle est saisie par le ministre chargé de la défense
-nationale.
+La commission juridictionnelle est saisie par le ministre chargé des armées.
 
 L'instruction est dirigée par le président de la commission et la procédure est
 contradictoire.

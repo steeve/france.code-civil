@@ -1,8 +1,6 @@
 Article R*182
 ----
-Les insignes des grades d'emploi sont distincts des insignes des grades des
-armées.
-
-Le décret en Conseil d'Etat constitutif de chaque corps de défense détermine les
-règles du port d'un uniforme, définit les insignes des grades, fixe, le cas
-échéant, les conditions dans lesquelles le corps pourra ^etre armé.
+Le décret en Conseil d'Etat constitutif de chaque corps de défense détermine, le
+cas échéant, les règles du port d'un uniforme et les insignes des grades
+d'emploi. Ces derniers doivent comporter des marques distinctives par rapport
+aux insignes de grade des armées.

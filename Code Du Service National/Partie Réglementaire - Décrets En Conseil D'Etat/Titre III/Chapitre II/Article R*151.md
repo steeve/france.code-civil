@@ -1,21 +1,22 @@
 Article R*151
 ----
-En dehors des corps de défense :
+I. - L'affectation de défense est individuelle dans les corps de défense prévus
+à l'article L. 89.
 
-- dans les corps de l'Etat, les services des assemblées parlementaires, les
-directions et services de l'Etat et des collectivités locales ainsi que dans les
-organismes qui leur sont rattachés, reçoivent une affectation de défense, s'ils
-ne font pas l'objet d'une affectation militaire, tous les fonctionnaires et
-agents contractuels ou auxiliaires au service de l'Etat, des collectivités
-locales ou des organismes rattachés qui sont assujettis aux obligations du
-service national ;
+II. - L'affectation de défense est collective :
 
-Dans chacune des catégories d'activités énumérées aux tableaux I, II, III et IV
-de l'annexe II du présent code, les organismes au titre desquels sont prononcées
-les affectations de défense sont les entreprises et établissements dont la liste
-est arr^etée par le Premier ministre ou par les autorités ayant reçu à cet effet
-sa délégation.
+1° Dans les corps de l'Etat, les services des assemblées parlementaires, les
+directions et services de l'Etat et des collectivités territoriales ainsi que
+dans les organismes qui leur sont rattachés. Tous leurs fonctionnaires et agents
+contractuels ou auxiliaires qui sont soumis aux obligations du service de
+défense y sont affectés collectifs s'ils n'ont pas reçu une affectation
+individuelle.
 
-Les corps, directions, services et organismes visés au présent article sont
-soumis au régime de l'affectation collective de défense conformément à l'article
-R. 163. Ils peuvent en outre recevoir des affectés individuels de défense.
+2° Dans les entreprises et établissements appartenant aux catégories d'activités
+énumérées aux tableaux I, II, III et IV de l'annexe II du présent code et dont
+la liste est arrêtée par le Premier ministre ou par les autorités ayant reçu, à
+cet effet, sa délégation. Les personnels mentionnés à l'article L. 3 y sont
+affectés collectifs s'ils n'ont pas reçu une affectation individuelle.
+
+Les services et organismes mentionnés au 1° et 2° ci-dessus peuvent, en outre,
+recevoir des affectés individuels de défense.

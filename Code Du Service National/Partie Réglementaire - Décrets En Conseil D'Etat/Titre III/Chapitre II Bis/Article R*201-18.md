@@ -1,6 +1,10 @@
 Article R*201-18
 ----
-Le décompte des services accomplis au titre du service dans la police nationale
-est arr^eté par le ministre de l'intérieur lors de la libération des jeunes gens
-et enregistré sur les pièces matricules. Ces pièces sont adressées au bureau du
-service national d'origine.
+A la fin de leur service national actif, les policiers auxiliaires ayant
+accompli au moins trois mois de service national et dont la conduite a été
+satisfaisante reçoivent un certificat de bonne conduite témoignant de la valeur
+des services rendus.
+
+Ils peuvent recevoir un certificat de pratique professionnelle sur lequel
+figurent les dates de début et de fin de service, les emplois tenus, leur durée
+et les qualifications professionnelles acquises.

@@ -5,10 +5,9 @@ du corps judiciaire et personnel indispensable au fonctionnement de
 juridictions*], l'affectation individuelle de défense est décidée [*autorité
 compétente*] :
 
-- par les generaux commandant les circonscriptions militaires de défense ou les
-autorites des armées de terre, de mer et de l'air désignées par le ministre
-chargé de la défense nationale en ce qui concerne les personnels soumis aux
-obligations du service militaire ;
+- par les généraux commandant les circonscriptions militaires de défense ou les
+autorités designées par le ministre chargé des armées en ce qui concerne les
+personnels soumis aux obligations du service militaire ;
 
 - par les préfets en ce qui concerne les personnels non soumis aux obligations
 du service militaire.

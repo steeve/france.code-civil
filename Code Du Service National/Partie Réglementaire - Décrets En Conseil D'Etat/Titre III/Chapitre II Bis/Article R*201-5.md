@@ -1,16 +1,34 @@
 Article R*201-5
 ----
-Les policiers auxiliaires participent à l'exécution des missions de la police
-nationale dans les conditions prévues au présent article.
+La hiérarchie des policiers auxiliaires et sa correspondance avec la hiérarchie
+militaire sont fixées comme suit :
 
-Ils assistent les fonctionnaires de police sous les ordres desquels ils sont
-placés. Ils peuvent ^etre affectés à des t^aches leur permettant de participer
-au maintien de la sécurité publique ou des t^aches à caractère technique
-auxquelles les a préparés leur formation professionnelle.
+1° Gardien de la paix auxiliaire de 2e classe de la police nationale : soldat de
+2e classe ;
 
-Dans l'exercice de leurs fonctions ils n'ont pas compétence pour établir des
-actes relevant de l'exercice de la police judiciaire ou de la police
-administrative.
+2° Gardien de la paix auxiliaire de 1re classe de la police nationale : caporal
+;
 
-Ils ne peuvent participer à des opérations de maintien de l'ordre que dans le
-cas prévu au deuxième alinéa de l'article R. 130.
+3° Sous-brigadier auxiliaire de 2e classe de la police nationale :
+
+caporal-chef ;
+
+4° Sous-brigadier auxiliaire de 1re classe de la police nationale : sergent.
+
+L'avancement des policiers auxiliaires en service actif, et de ceux de la
+disponibilité et de la réserve, est subordonné au respect des règles suivantes :
+
+1° Le gardien de la paix auxiliaire de 2e classe de la police nationale ne peut
+être nommé gardien de la paix auxiliaire de 1re classe de la police nationale
+s'il n'a obtenu une qualification définie par le ministre de l'intérieur et
+accompli quatre mois de service effectif à compter de son incorporation.
+
+2° Le gardien de la paix auxiliaire de 1re classe de la police nationale ne peut
+être nommé sous-brigadier auxiliaire de 2e classe de la police nationale s'il
+n'a obtenu une qualification définie par le ministre de l'intérieur et accompli
+deux mois de service actif dans son grade.
+
+3° Le sous-brigadier auxiliaire de 2e classe de la police nationale ne peut être
+nommé sous-brigadier auxiliaire de 1re classe de la police nationale s'il n'a
+obtenu une qualification définie par le ministre de l'intérieur et accompli deux
+mois de service actif dans son grade.

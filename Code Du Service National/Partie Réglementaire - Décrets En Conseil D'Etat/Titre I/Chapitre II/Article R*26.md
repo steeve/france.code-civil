@@ -5,14 +5,20 @@ impliquant l'octroi d'un report d'incorporation est ainsi composée :
 
 Un conseiller d'Etat, président, désigné par le Premier ministre ;
 
-Six représentants du ministre chargé de la défense nationale ;
+Un représentant du secrétaire général de la défense nationale ;
 
-Trois représentants du ministre des affaires étrangères ;
+Un représentant de la commission interministérielle des formes civiles du
+service national mentionnée à l'article R. 15-1. ;
 
-Trois représentants du ministre de la coopération ;
+Quatre représentants du ministre chargé des armées ;
 
-Deux représentants du ministre chargé des départements et territoires
-d'outre-mer ;
+Un représentant du ministre des affaires étrangères ;
+
+Deux représentants du ministre de la coopération ;
+
+Un représentant de l'Agence pour l'enseignement français à l'étranger ;
+
+Un représentant du ministre chargé des départements et territoires d'outre-mer ;
 
 Un représentant du ministre de l'éducation.
 

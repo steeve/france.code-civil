@@ -11,3 +11,6 @@ dépendent : aux règles de discipline applicables à leur personnel ;
 travail. Dans les entreprises ou établissements visés à l'article R. 151, ce
 règlement fixe l'échelle des sanctions applicables en cas d'infraction à la
 discipline générale de l'établissement.
+
+Les marins de la marine marchande demeurent soumis, lorsqu'ils sont embarqués,
+au code disciplinaire et pénal de la marine marchande.
