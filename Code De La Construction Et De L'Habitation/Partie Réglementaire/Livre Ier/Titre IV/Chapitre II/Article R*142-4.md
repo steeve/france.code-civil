@@ -1,10 +1,15 @@
 Article R*142-4
 ----
 Le président du conseil d'administration est nommé par décret parmi les membres
-du conseil et sur proposition de celui-ci.
+du conseil et après consultation de celui-ci.
 
-Le conseil d'administration choisit parmi ses membres un ou deux vice-présidents
-et un secrétaire élus pour la durée de leur mandat d'administrateur.
+Responsable de la politique du centre scientifique et technique du bâtiment, le
+président du conseil d'administration assure la gestion de l'établissement.
 
-Les fonctions du président et du ou des vice-présidents prennent fin à la date à
-laquelle leurs titulaires atteignent l'âge de soixante-cinq ans.
+A ce titre il engage, liquide et ordonnance les dépenses et les recettes. Il
+représente le centre dans tous les actes de la vie civile. Il assure les
+relations de l'établissement avec les administrations et les organismes
+français, étrangers et internationaux associés à ses activités et, plus
+généralement, prend toutes mesures utiles au fonctionnement du centre.
+
+Il est assisté par un directeur. Il peut déléguer sa signature.

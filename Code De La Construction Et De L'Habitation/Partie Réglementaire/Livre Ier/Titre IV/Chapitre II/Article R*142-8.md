@@ -1,9 +1,11 @@
 Article R*142-8
 ----
-Le directeur est chargé, sous l'autorité du conseil d'administration, d'assurer
-la gestion du centre, de représenter celui-ci en justice et dans tous les actes
-de la vie civile, de procéder à l'engagement et au licenciement du personnel, de
-prendre toutes mesures nécessaires à la préparation et à l'exécution des
-programmes d'activité soumis à la délibération du conseil, d'établir les ordres
-de recettes, d'engager et d'ordonnancer les dépenses, de faire généralement tous
-actes utiles au fonctionnement du centre.
+Sous l'autorité du président, le directeur est chargé de la direction du centre.
+
+A ce titre, il assiste le président dans la préparation du budget et des
+délibérations du conseil d'administration et prend toutes mesures nécessaires à
+l'exécution des délibérations du conseil. Il gère le personnel.
+
+Il assiste aux séances du conseil d'administration avec voix consultative.
+
+Il peut déléguer sa signature.
