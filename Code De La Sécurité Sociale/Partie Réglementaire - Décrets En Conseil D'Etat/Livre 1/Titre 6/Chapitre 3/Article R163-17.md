@@ -3,8 +3,11 @@ Article R163-17
 La commission mentionnée à l'article R. 163-15 se réunit sur convocation de son
 président, du ministre de la sécurité sociale, du ministre de la santé ou, pour
 l'exercice de ses compétences propres, du directeur général de l'Agence
-française de sécurité sanitaire des produits de santé. Son secrétariat est
-assuré par l'Agence française de sécurité sanitaire des produits de santé.
+française de sécurité sanitaire des produits de santé. Son secrétaire général
+est nommé par arrêté du ministre chargé de la santé et du ministre chargé de la
+sécurité sociale, sur proposition du directeur général de cette agence et après
+avis du président de la commission. L'agence assure le secrétariat de la
+commission.
 
 La commission élabore son règlement intérieur.
 

@@ -1,7 +1,8 @@
 Article R163-16
 ----
 I. - Les délibérations de la commission mentionnée à l'article R. 163-15 ne sont
-valables que si au moins douze membres de la commission sont présents.
+valables que si au moins douze membres ayant voix délibérative de la commission
+sont présents.
 
 II. - Les avis sont pris à la majorité des suffrages, le président ayant voix
 prépondérante en cas de partage égal des voix. Ils sont motivés.
