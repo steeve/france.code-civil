@@ -1,16 +1,19 @@
 Article R*202-2
 ----
-La demande en justice est formée par assignation. L'instruction se fait par
-simples mémoires respectivement signifiés.
+La demande en justice est formée par assignation.
 
-Toutefois, le redevable a le droit de présenter, par lui-même ou par le
-ministère d'un avocat inscrit au tableau, des explications orales. La même
-faculté appartient à l'administration.
+L'instruction se fait par simples mémoires respectivement signifiés. Toutefois,
+le redevable a le droit de présenter, par lui-même ou par le ministère d'un
+avocat inscrit au tableau, des explications orales. La même faculté appartient à
+l'administration. Les modes de preuve doivent être compatibles avec le caractère
+écrit de l'instruction.
 
 Les parties ne sont pas obligées de recourir au ministère d'un avocat.
 
 Le tribunal accorde aux parties ou aux agents de l'administration qui suivent
-les instances, les délais nécessaires pour présenter leur défense.
+les instances, les délais nécessaires pour présenter leur défense. Cette
+disposition est applicable, devant la cour d'appel, à l'égard des avoués
+constitués.
 
 Les notifications sont valablement faites au domicile réel du contribuable alors
 même que celui-ci aurait constitué mandataire et élu domicile chez ce dernier.
