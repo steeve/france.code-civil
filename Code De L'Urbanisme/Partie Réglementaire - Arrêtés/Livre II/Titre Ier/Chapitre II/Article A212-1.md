@@ -1,4 +1,4 @@
 Article A212-1
 ----
-La déclaration prévue à l'article R. 212-6 doit comporter les indications
-figurant sur le modèle annexé au présent article.
+Les demandes formulées en application des articles L. 212-3 et R. 212-4 doivent
+être établies conformément au modèle annexé à l'article A. 213-1.

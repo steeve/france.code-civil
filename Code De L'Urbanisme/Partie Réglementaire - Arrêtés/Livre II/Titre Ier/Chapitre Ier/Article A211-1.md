@@ -1,4 +1,4 @@
 Article A211-1
 ----
-Les déclarations prévues par les articles L. 211-8, R. 211-16 et R. 211-28
-doivent être établies conformément au modèle annexé au présent article.
+Les demandes formulées en application des articles L. 211-5 et R. 211-7 doivent
+être établies conformément au modèle annexé à l'article A. 213-1.
