@@ -12,9 +12,10 @@ du ministre chargé des mines, après mise en demeure du propriétaire,
 
 - ou sans disposer d'un permis exclusif de recherches ;
 
-2° De rechercher une substance de mine à l'intérieur du périmètre d'une
-concession ou d'une exploitation d'Etat portant sur cette substance, sans
-détenir le titred'exploitation ;
+2° De rechercher une substance de mine à l'intérieur du périmètre d'un titre
+minier ou d'une exploitation d'Etat portant sur cette substance, sans détenir le
+titre d'exploitation ou, s'il s'agit d'une autorisation d'exploitation, sans
+l'accord de son détenteur ;
 
 3° De disposer des produits extraits du fait de ses recherches sans
 l'autorisation prévue par l'article 8 ou sans le permis prévu par l'article 9 ;

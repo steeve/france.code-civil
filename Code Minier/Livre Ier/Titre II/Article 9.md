@@ -5,6 +5,11 @@ combustibles minéraux solides et les sels de potassium, est accordé par
 l'autorité administrative, après mise en concurrence, pour une durée de cinq ans
 au plus.
 
+Dans le département de la Guyane, pour les substances autres que les
+hydrocarbures liquides ou gazeux, la demande de permis n'est pas soumise à
+concurrence si la superficie sollicitée est inférieure à un seuil fixé par
+décret en Conseil d'Etat.
+
 Ce permis confère à son titulaire l'exclusivité du droit d'effectuer tous
 travaux de recherches dans le périmètre dudit permis et de disposer librement
 des produits extraits à l'occasion des recherches et des essais qu'elles peuvent
