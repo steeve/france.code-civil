@@ -1,6 +1,7 @@
 Article R20-16
 ----
-Sans préjudice de leur notification à la Commission des communautés européennes,
-les références des normes et spécifications techniques des équipements terminaux
-soumis à évaluation de conformité sont publiées au Journal officiel de la
-République française.
+Lorsqu'elle constate que les normes harmonisées sont insuffisantes pour assurer
+le respect des exigences essentielles ou excèdent ce qui est nécessaire à cette
+fin, l'Autorité de régulation des télécommunications demande au ministre chargé
+des communications électroniques de saisir le comité mentionné à l'article 13 de
+la directive 1999/5/CE du Parlement européen et du Conseil du 9 mars 1999.

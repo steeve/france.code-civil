@@ -1,7 +1,6 @@
 Article R47
 ----
-Est puni [*sanction*] de l'amende prévue pour les contraventions de la 5° classe
-:
+Est puni de l'amende prévue pour les contraventions de la 5e classe :
 
 1° Le capitaine ou patron de tout bâtiment qui a jeté l'ancre à moins d'un quart
 de mille nautique d'un câble sous-marin, dont il est en mesure de connaître la

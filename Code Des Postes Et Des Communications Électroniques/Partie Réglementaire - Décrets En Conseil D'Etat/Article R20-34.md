@@ -21,16 +21,18 @@ du complément de pension prévu à l'article L. 16 dudit code, les aveugles de
 guerre bénéficiaires de l'article L. 18 du code précité et les aveugles de la
 Résistance bénéficiaires de l'article L. 189 du même code.
 
-Le ministre chargé des télécommunications fixe au 1er novembre de chaque année
-pour l'année suivante, par arrêté, pris après avis de l'Autorité de régulation
-des télécommunications, le montant mensuel de la réduction tarifaire accordée.
+Le ministre chargé des communications électroniques fixe au 1er novembre de
+chaque année pour l'année suivante, par arrêté, pris après avis de l'Autorité de
+régulation des télécommunications, le montant mensuel de la réduction tarifaire
+accordée.
+
 Le montant de la compensation versée à chaque opérateur par le fonds de service
-universel des télécommunications est égal au coût net de l'offre tarifaire
-auquel s'ajoutent les coûts de gestion exposés par les organismes gestionnaires
-et par le prestataire chargé de la gestion du dispositif de réduction tarifaire
-pour le compte des opérateurs. Le coût net de l'offre tarifaire est égal au
-produit du montant des réductions tarifaires accordées par le nombre des abonnés
-de l'opérateur qui en bénéficient.
+universel des communications électroniques est égal au coût net de l'offre
+tarifaire auquel s'ajoutent les coûts de gestion exposés par les organismes
+gestionnaires et par le prestataire chargé de la gestion du dispositif de
+réduction tarifaire pour le compte des opérateurs. Le coût net de l'offre
+tarifaire est égal au produit du montant des réductions tarifaires accordées par
+le nombre des abonnés de l'opérateur qui en bénéficient.
 
 II. - Les personnes physiques utilisant, au lieu de leur résidence principale,
 un service téléphonique fixe d'un opérateur autorisé selon les conditions fixées
@@ -47,7 +49,7 @@ la résidence principale du demandeur, après avis d'une commission. Cette
 commission, dont la composition est fixée par arrêté préfectoral, est présidée
 par le préfet et comprend notamment des représentants des services de l'Etat
 concernés, des organismes de protection sociale et des opérateurs de
-télécommunications.
+communications électroniques.
 
 La demande de prise en charge de la dette téléphonique doit être adressée au
 secrétariat de la commission au plus tard trente jours après que l'opérateur a
@@ -68,28 +70,28 @@ que le préfet a statué sur la demande et, au plus tard, quatre-vingt dix jours
 après la date de réception par l'abonné de la mise en demeure de payer
 mentionnée au précédent alinéa.
 
-Un arrêté du ministre chargé des télécommunications fixe, dans chaque
+Un arrêté du ministre chargé des communications électroniques fixe, dans chaque
 département, en tenant compte de la population et du nombre de bénéficiaires du
 revenu minimum d'insertion de ce département, le montant des crédits disponibles
 pour la prise en charge des dettes téléphoniques. Le montant total des aides est
 au plus égal à 0,15 % du chiffre d'affaires du service téléphonique au public.
 
-Le fonds de service universel des télécommunications assure la compensation, au
-profit de chaque opérateur, des dettes téléphoniques prises en charge. Le préfet
-constate trimestriellement, pour chacun des opérateurs concernés, le montant de
-ces dettes. Il communique à chaque opérateur le montant qui le concerne et à
-l'Autorité de régulation des télécommunications l'ensemble des montants
-constatés.
+Le fonds de service universel des communications électroniques assure la
+compensation, au profit de chaque opérateur, des dettes téléphoniques prises en
+charge. Le préfet constate trimestriellement, pour chacun des opérateurs
+concernés, le montant de ces dettes. Il communique à chaque opérateur le montant
+qui le concerne et à l'Autorité de régulation des télécommunications l'ensemble
+des montants constatés.
 
 III. - Les opérateurs qui souhaitent offrir à leurs clients la possibilité de
 bénéficier des dispositions du I ou du II transmettent leur demande
-simultanément au ministre chargé des télécommunications et à l'Autorité de
-régulation des télécommunications. Le ministre se prononce dans un délai de deux
-mois suivant la réception de la demande, après avis de l'Autorité de régulation
-des télécommunications. Si l'Autorité de régulation des télécommunications ne se
-prononce pas dans le délai d'un mois à compter de la réception de la demande,
-son avis est réputé positif. A défaut de réponse du ministre dans le délai de
-deux mois, la demande est considérée comme acceptée.
+simultanément au ministre chargé des communications électroniques et à
+l'Autorité de régulation des télécommunications. Le ministre se prononce dans un
+délai de deux mois suivant la réception de la demande, après avis de l'Autorité
+de régulation des télécommunications. Si l'Autorité de régulation des
+télécommunications ne se prononce pas dans le délai d'un mois à compter de la
+réception de la demande, son avis est réputé positif. A défaut de réponse du
+ministre dans le délai de deux mois, la demande est considérée comme acceptée.
 
 Le montant total des aides accordées au titre du I et du II ainsi que des frais
 de gestion considérés au I est au plus égal à 0,8 % du chiffre d'affaires du

@@ -1,24 +1,24 @@
 Article R20-8
 ----
-Lorsqu'il choisit de mettre en oeuvre un système approuvé de qualité de la
-production, le fabricant ou son mandataire présente à l'organisme notifié une
-demande d'approbation de ce système, destinée à garantir la conformité des
-produits au type décrit dans l'attestation d'examen ou d'examen CE de type.
+Lorsque la conformité d'un équipement est évaluée selon la procédure prévue au a
+du II de l'article R. 20-5, la personne responsable :
 
-L'organisme notifié évalue le système de qualité après une procédure d'examen
-sur pièces et éventuellement sur place.
+-établit un dossier de construction technique qui comporte la documentation
+technique mentionnée à l'article R. 20-6 et, pour les équipements
+radioélectriques, la déclaration de conformité aux séries d'essais radio établie
+en application de l'article R. 20-7 ;
 
-Il notifie au demandeur une décision motivée d'évaluation du système de qualité
-de la production. Lorsque cette décision approuve le système soumis à
-évaluation, le demandeur s'engage à remplir les obligations découlant du système
-tel qu'il a été approuvé et à maintenir son efficacité. Il informe sans délai
-l'organisme notifié de tout projet d'adaptation de son système de qualité.
-Celui-ci lui notifie s'il y a lieu ou non de procéder à une nouvelle approbation
-du système révisé.
+-soumet ce dossier à un ou plusieurs organismes notifiés et informe chacun d'eux
+de la saisine des autres organismes.
 
-L'Autorité de régulation des télécommunications précise, en application du 3° de
-l'article L. 36-6, le contenu de la demande d'approbation et de la documentation
-nécessaire à l'instruction de cette demande, les modalités de cette instruction
-ainsi que celles de la surveillance par inspections et visites sur place du
-respect par le demandeur des obligations résultant du système de qualité
-approuvé.
+Chaque organisme notifié examine le dossier au regard des exigences essentielles
+mentionnées à l'article R. 20-1. Lorsque le respect de ces exigences n'est pas
+établi, l'organisme peut adresser un avis à la personne responsable, dans un
+délai de quatre semaines à compter de la réception du dossier mentionné au
+deuxième alinéa. Copie de cet avis est adressé aux autres organismes notifiés
+auxquels le dossier a été soumis.
+
+L'équipement ne peut être mis sur le marché qu'au terme du délai de quatre
+semaines mentionné à l'alinéa précédent ou après réception, par la personne
+responsable, de l'avis de l'ensemble des organismes notifiés saisis, sans
+préjudice de l'application des articles R. 20-10 et R. 20-19.

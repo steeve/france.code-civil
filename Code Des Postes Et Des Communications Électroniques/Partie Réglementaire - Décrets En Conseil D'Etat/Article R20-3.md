@@ -1,27 +1,34 @@
 Article R20-3
 ----
-La conformité d'un équipement terminal de télécommunications aux exigences
-essentielles est évaluée :
+Les dispositions des paragraphes II à VI de la présente section, à l'exception
+de celles figurant à l'article R. 20-19 et au 2° du II de l'article R. 20-25, ne
+s'appliquent pas :
 
-a) S'agissant des exigences prévues au 12° de l'article L. 32 qui sont relatives
-à la sécurité des usagers et du personnel des exploitants des réseaux de
-télécommunications au regard des normes nationales transposant les normes
-harmonisées pertinentes ou, à défaut, des normes nationales ;
+a) Aux équipements radioélectriques utilisés par des radioamateurs au sens de
+l'article 1er, définition 53, du règlement des radiocommunications de l'Union
+internationale des télécommunications, non disponibles dans le commerce ; les
+ensembles de pièces détachées à assembler par des radioamateurs, pour leur
+usage, et les équipements modifiés par eux ne sont pas considérés comme des
+équipements disponibles dans le commerce ;
 
-b) S'agissant des autres exigences essentielles définies à l'article R. 20-1, au
-regard des normes harmonisées éventuellement transposées en réglementations
-techniques communes ou, à défaut, des réglementations techniques nationales,
-ainsi que des réglementations techniques des autres Etats membres de la
-Communauté européenne ou des autres Etats parties à l'accord instituant l'Espace
-économique européen reconnues équivalentes par l'Autorité de régulation des
-télécommunications.
+b) Aux équipements relevant de la directive 96/98/ CE du Conseil du 20 décembre
+1996 relative aux équipements marins ;
 
-Sous réserve des dispositions de l'article 12 du décret n° 84-74 du 26 janvier
-1984 fixant le statut de la normalisation, les réglementations techniques
-nationales sont adoptées par l'Autorité de régulation des télécommunications.
+c) Aux fils et câbles ;
 
-L'évaluation de la conformité des équipements terminaux aux normes harmonisées
-et aux réglementations techniques communes, effectuée dans d'autres Etats
-membres de la Communauté européenne ou dans d'autres Etats parties à l'accord
-instituant l'Espace économique européen, est reconnue en France conformément aux
-dispositions des articles R. 20-18 à R. 20-21.
+d) Aux équipements radioélectriques destinés à être utilisés exclusivement pour
+la réception de services de radiodiffusion sonore et télévisuelle ;
+
+e) Aux équipements, produits ou éléments au sens de l'article 2 du règlement
+(CEE) n° 3922/91 du Conseil du 16 décembre 1991 relatif à l'harmonisation de
+règles techniques et de procédures administratives dans le domaine de l'aviation
+civile ;
+
+f) Aux équipements et systèmes pour la gestion du trafic aérien au sens de
+l'article 1er de la directive 93/65/ CEE du Conseil du 19 septembre 1993 relatif
+à la définition et à l'utilisation de spécifications techniques compatibles pour
+l'acquisition d'équipements et de systèmes pour la gestion du trafic aérien ;
+
+g) Aux équipements utilisés exclusivement dans les activités ayant trait à la
+défense nationale, à la sécurité publique, à la sécurité de l'Etat et aux
+fonctions de l'Etat dans le domaine du droit pénal.

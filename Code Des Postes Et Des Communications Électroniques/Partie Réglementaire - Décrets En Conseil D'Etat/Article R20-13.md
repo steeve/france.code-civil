@@ -1,26 +1,17 @@
 Article R20-13
 ----
-1° Tout équipement terminal ayant fait l'objet de l'attestation de conformité
-doit faire l'objet, préalablement à sa commercialisation, d'un marquage
-indiquant que cet équipement est destiné à être connecté à un réseau ouvert au
-public ou qu'il s'agit d'un équipement radioélectrique non destiné à cette
-utilisation. Ces marquages sont conformes à des modèles fixés par l'Autorité de
-régulation des télécommunications.
+I.-La conformité aux exigences essentielles relatives à la santé, à la sécurité
+et à la compatibilité électromagnétique des équipements mentionnés aux articles
+1er et 2 du décret n° 92-587 du 26 juin 1992 modifié relatif à la compatibilité
+électromagnétique des appareils électriques et électroniques et à l'article 1er
+du décret n° 95-1081 du 3 octobre 1995 relatif à la sécurité des personnes, des
+animaux et des biens lors de l'emploi des matériels électriques destinés à être
+employés dans certaines limites de tension peut être évaluée, au choix de la
+personne responsable, selon les procédures prévues par le présent paragraphe ou
+selon les procédures prévues par les deux décrets précités.
 
-Lorsque l'attestation de conformité a été délivrée à l'issue soit d'un examen CE
-de type, soit d'une déclaration CE de conformité, l'équipement terminal est
-l'objet d'un marquage CE, qui respecte le modèle fixé par l'Autorité de
-régulation des télécommunications en conformité avec le modèle figurant à
-l'annexe VI de la directive 91/263/CEE du 29 avril 1991 concernant le
-rapprochement des législations des Etats membres relatives aux équipements
-terminaux de télécommunications incluant la reconnaissance mutuelle de leur
-conformité.
-
-Ce marquage CE ne pourra être apposé par le fabricant ou son mandataire qu'après
-que celui-ci se sera également conformé aux obligations qui lui incombent en ce
-qui concerne la compatibilité électromagnétique et la sécurité électrique.
-
-2° Tout équipement terminal doit, en outre, être identifié par le fabricant, et
-comporter l'indication du modèle, lot ou numéro de série, ainsi que l'identité
-du fabricant ou du fournisseur et le numéro d'attestation de conformité prévu à
-l'article R. 20-10.
+II.-Les règles prévues par le présent paragraphe sont applicables à ces
+équipements pour l'évaluation de leur conformité aux règles de bonne utilisation
+du spectre des fréquences radioélectriques ou lorsque la Commission européenne a
+étendu l'application de certaines exigences essentielles, dans les conditions
+prévues au deuxième alinéa de l'article R. 20-1.

@@ -1,32 +1,53 @@
 Article R20-10
 ----
-1° Au vu de la déclaration mentionnée au a de l'article R. 20-7 ou des décisions
-d'approbation des systèmes de qualité mentionnées aux articles R. 20-8 et R.
-20-9, l'organisme notifié délivre au demandeur une attestation de conformité et
-un numéro d'attestation de conformité.
+I. - Tout équipement dont la conformité a été évaluée en application des
+dispositions de l'article R. 20-5 doit faire l'objet, préalablement à sa mise
+sur le marché :
 
-Cette attestation de conformité atteste que l'équipement qui en est l'objet
-respecte les exigences essentielles. En outre, elle vaut autorisation de
-connexion à un réseau ouvert au public, sauf pour certaines catégories
-d'équipements terminaux radioélectriques non destinés à cette utilisation.
+a) D'un marquage indiquant le modèle, lot ou numéro de série, ainsi que
+l'identité du fabricant ou de la personne responsable ;
 
-La décision d'attestation de conformité précise éventuellement la durée pour
-laquelle elle est délivrée. Elle est notifiée au demandeur.
+b) D'un marquage CE lorsque l'équipement est conforme à toutes les exigences
+essentielles applicables.
 
-La demande de renouvellement d'une attestation de conformité doit être présentée
-au moins quatre mois avant l'expiration de la durée pour laquelle l'attestation
-de conformité a été délivrée. La décision de renouvellement est notifiée au
-demandeur et précise la durée pour laquelle l'attestation de conformité est
-renouvelée.
+Les équipements ayant fait l'objet d'une évaluation de leur conformité en
+application du II et, le cas échéant, du b du I de l'article R. 20-5 doivent en
+outre comporter le numéro d'identification de l'organisme notifié et, pour les
+équipements radioélectriques, l'identificateur de la catégorie d'équipements
+qui, le cas échéant, indique l'existence de restrictions ou de conditions
+particulières à l'utilisation de l'équipement dans certains Etats membres de la
+Communauté européenne.
 
-2° L'attestation de conformité est personnelle à son titulaire et ne peut être
-cédée à un tiers qu'avec l'accord de l'organisme notifié. Cet accord ne peut
-être refusé qu'au cas où le cessionnaire ne serait pas en mesure de remplir les
-obligations incombant au titulaire de l'attestation de conformité.
+Ces marquages, apposés sous la responsabilité de la personne responsable,
+respectent les modèles définis par l'Autorité de régulation des
+télécommunications, en conformité, pour le marquage CE mentionné au b ci-dessus,
+avec le modèle figurant à l'annexe VII de la directive 1999/5/CE du Parlement
+européen et du Conseil du 9 mars 1999.
 
-3° Toute modification des conditions au vu desquelles a été délivrée
-l'attestation de conformité est signalée sans délai à l'organisme notifié.
+II. - Chaque exemplaire de l'équipement mis sur le marché doit être accompagné
+d'une déclaration de conformité aux exigences essentielles et des informations
+sur l'usage auquel l'équipement est destiné. Ces informations indiquent ou
+permettent d'identifier :
 
-4° L'organisme notifié informe régulièrement l'Autorité de régulation des
-télécommunications, dans des conditions déterminées par celle-ci, des
-attestations de conformité qu'il a délivrées.
+a) Lorsqu'il s'agit d'un équipement radioélectrique, sur l'emballage et la
+notice d'utilisation, la zone géographique ou les Etats membres à l'intérieur
+desquels l'équipement est destiné à être utilisé et, le cas échéant, l'existence
+et la nature des conditions particulières auxquelles l'utilisation de
+l'équipement est soumise ;
+
+b) Lorsqu'il s'agit d'un équipement terminal, les réseaux auxquels il est
+destiné à être connecté ;
+
+c) Lorsque l'équipement est destiné à être utilisé en France, les précautions
+d'usage de l'équipement au regard, notamment, de l'exposition de l'utilisateur
+au champ électromagnétique et le débit d'absorption spécifique (DAS) mesuré dans
+la tête pour les équipements terminaux radioélectriques.
+
+La déclaration et les informations prévues au II du présent article sont
+rédigées en langue française. Elles sont conformes aux prescriptions fixées par
+l'Autorité de régulation des télécommunications en application de l'article L.
+36-6.
+
+La nature des informations prévues au c ci-dessus est définie par arrêté
+conjoint du ministre chargé des communications électroniques, du ministre chargé
+de la santé et du ministre chargé de la consommation.

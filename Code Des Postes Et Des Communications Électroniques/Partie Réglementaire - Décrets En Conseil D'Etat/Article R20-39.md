@@ -38,11 +38,11 @@ considérée. La Caisse des dépôts et consignations traite ces informations de
 manière confidentielle.
 
 Les soldes définitifs relatifs à l'année considérée sont constatés et rendus
-publics par le ministre chargé des télécommunications au plus tard le 31 mai de
-la deuxième année suivant l'année considérée sur proposition de l'Autorité de
-régulation des télécommunications, exprimée au plus tard le 30 avril de la
-deuxième année suivant l'année considérée. L'Autorité de régulation des
-télécommunications notifie ces valeurs à chaque opérateur et à la Caisse des
+publics par le ministre chargé des communications électroniques au plus tard le
+31 mai de la deuxième année suivant l'année considérée sur proposition de
+l'Autorité de régulation des télécommunications, exprimée au plus tard le 30
+avril de la deuxième année suivant l'année considérée. L'Autorité de régulation
+des télécommunications notifie ces valeurs à chaque opérateur et à la Caisse des
 dépôts et consignations au plus tard le 30 juin de la deuxième année suivant
 l'année considérée. Elle évalue ces soldes notamment sur la base des résultats
 de la comptabilité auditée des opérateurs relative à l'année considérée,

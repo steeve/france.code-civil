@@ -1,12 +1,17 @@
 Article R20-19
 ----
-1° Dès lors qu'un équipement terminal comporte le marquage CE mentionné à
-l'article R. 20-13, suivi du symbole d'identification de l'organisme notifié
-responsable et du symbole indiquant qu'il est destiné et apte à être connecté à
-un réseau ouvert au public, il est présumé conforme aux exigences essentielles
-et peut être librement commercialisé en France.
+La mise en service des équipements est subordonnée au respect par ces
+équipements de spécifications techniques :
 
-2° Peut également être librement commercialisé en France tout équipement
-terminal de télécommunications susceptible d'être connecté à un réseau ouvert au
-public, sans être destiné à une telle utilisation, et qui a fait l'objet du
-marquage CE mentionné à l'article R. 20-14.
+a) Arrêtées par le ministre chargé des communications électroniques, pour des
+raisons liées à l'utilisation du spectre radioélectrique ou à la nécessité
+d'éviter des interférences dommageables ou, conjointement avec le ministre
+chargé de la santé, pour des raisons de santé publique ;
+
+b) Fixées, en application du 12° de l'article L. 32, s'agissant des valeurs
+limites que ne doivent pas dépasser les champs électromagnétiques émis par les
+équipements utilisés dans les réseaux de communications électroniques ou par les
+installations radioélectriques, lorsque le public y est exposé.
+
+Pour les mêmes motifs et dans les mêmes conditions, un équipement peut faire
+l'objet de restrictions quant aux lieux et aux conditions de son utilisation.

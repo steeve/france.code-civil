@@ -1,16 +1,23 @@
 Article R20-5
 ----
-Lorsque le demandeur décide de solliciter l'évaluation de conformité selon la
-procédure prévue au a du 1° de l'article R. 20-2, il constitue un dossier
-d'évaluation de conformité.
+I.-La conformité des équipements mentionnés à l'article R. 20-4 est évaluée
+selon l'une des procédures suivantes :
 
-L'Autorité de régulation des télécommunications précise, en application du 3° de
-l'article L. 36-6, la composition de ce dossier, qui doit permettre à
-l'organisme notifié d'évaluer la conformité du produit aux exigences
-essentielles qui lui sont applicables.
+a) Pour les équipements mentionnées au 1° de l'article R. 20-4 et pour les
+éléments récepteurs d'équipements radioélectriques, selon une procédure de
+contrôle interne de la fabrication décrite à l'article R. 20-6 ;
 
-L'Autorité de régulation des télécommunications fixe, en application du 3° de
-l'article L. 36-6, la procédure simplifiée d'évaluation de conformité applicable
-aux catégories d'équipements terminaux radioélectriques dont la conformité aux
-exigences essentielles n'est appréciée qu'au regard des normes et spécifications
-techniques relatives à la protection du spectre radioélectrique.
+b) Pour les équipements mentionnés au 2° de l'article R. 20-4, lorsque le
+fabricant a appliqué les normes harmonisées, une procédure de contrôle interne
+de la fabrication assorti d'essais spécifiques de l'équipement décrite à
+l'article R. 20-7 ;
+
+II.-La personne responsable peut en outre choisir d'évaluer la conformité des
+équipements selon l'une des procédures suivantes :
+
+a) Une procédure d'établissement d'un dossier de construction technique décrite
+à l'article R. 20-8 ;
+
+b) Une procédure de certification de la conformité du processus de conception et
+de fabrication à un système d'assurance de qualité complète décrite à l'article
+R. 20-9.

@@ -2,9 +2,9 @@ Article R20-40
 ----
 Les opérateurs soumis à des obligations de service universel adressent des
 données constatées relatives aux tarifs et aux conditions d'offre concernant
-l'année considérée au ministre chargé des télécommunications et à l'Autorité de
-régulation des télécommunications au plus tard le 15 juillet de l'année suivant
-l'année considérée.
+l'année considérée au ministre chargé des communications électroniques et à
+l'Autorité de régulation des télécommunications au plus tard le 15 juillet de
+l'année suivant l'année considérée.
 
 L'opérateur chargé du service universel fournit ses données constatées portant
 notamment sur les coûts, les recettes, les volumes de trafic et le nombre

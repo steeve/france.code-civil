@@ -1,11 +1,10 @@
 Article R46
 ----
-Est puni [*sanction*] de l'amende prévue pour les contraventions de la 5° classe
-:
+Est puni de l'amende prévue pour les contraventions de la 5e classe :
 
 1° Le capitaine d'un bâtiment qui, occupé à la réparation ou à la pose d'un
 câble sous-marin, n'observe pas les règles sur les signaux adoptés en vue de
-prévenir les abordages [*infraction*] ;
+prévenir les abordages ;
 
 2° Le capitaine ou patron de tout bâtiment qui, apercevant ou étant en mesure
 d'apercevoir ces signaux, ne se retire pas ou ne se tient pas éloigné d'un mille

@@ -1,28 +1,12 @@
 Article R20-14
 ----
-1° La déclaration mentionnée au 2° de l'article R. 20-2 est souscrite par le
-fabricant ou le fournisseur auprès de l'organisme notifié lors de la première
-mise sur le marché de l'équipement terminal considéré. Le déclarant doit avoir
-la personnalité juridique.
-
-2° Cette déclaration, conforme à un modèle fixé par l'Autorité de régulation des
-télécommunications, atteste que l'équipement concerné n'est pas destiné à être
-connecté à un réseau ouvert au public. Elle est accompagnée de la notice
-d'utilisation de l'équipement.
-
-3° Sauf dans le cas où il justifie avoir antérieurement satisfait à cette
-obligation auprès d'un organisme notifié d'un autre Etat membre de la Communauté
-européenne ou d'un autre Etat partie à l'accord instituant l'Espace économique
-européen, le fabricant ou le fournisseur est tenu de justifier, sur demande de
-l'organisme notifié, que l'équipement correspond à la destination qu'il a
-déclarée, compte tenu de ses caractéristiques techniques, de ses fonctions et du
-segment de marché pour lequel il est prévu.
-
-4° Préalablement à sa commercialisation, chaque équipement concerné doit faire
-l'objet, de la part du fabricant ou du fournisseur, du marquage CE conforme à un
-modèle fixé par l'Autorité de régulation des télécommunications et indiquant
-qu'il ne peut être connecté à un réseau ouvert au public.
-
-Ce marquage CE ne pourra être apposé par le fabricant ou le fournisseur qu'après
-que celui-ci se sera également conformé aux obligations qui lui incombent en ce
-qui concerne la compatibilité électromagnétique et la sécurité électrique.
+Lorsqu'elle envisage de désigner un organisme notifié, en application du 2° de
+l'article L. 36-7, l'Autorité de régulation des télécommunications s'assure
+qu'il présente des garanties suffisantes d'indépendance, de compétence et
+d'impartialité, en fonction des critères mentionnés à l'annexe VI de la
+directive 1999/5/CE du Parlement européen et du Conseil du 9 mars 1999, ou
+qu'ils satisfont aux critères prévus par les normes harmonisées applicables.
+Elle procède à l'abrogation de la désignation des organismes qui ne répondent
+plus à ces critères. Elle saisit le ministre chargé des communications
+électroniques en vue de la notification à la Commission européenne de ces
+décisions.

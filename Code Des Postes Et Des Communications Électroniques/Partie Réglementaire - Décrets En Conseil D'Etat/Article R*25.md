@@ -8,9 +8,9 @@ dispositions, soit à une commission d'enquête, soit à un commissaire enquête
 est, dans tous les cas, confiée à un commissaire enquêteur.
 
 La préparation du dossier s'effectue comme suit : sur la demande du ministre
-intéressé ou de l'exploitant public de télécommunications, à laquelle est joint
-un projet de plan, le préfet désigne par arrêté les communes sur le territoire
-desquelles les agents qualifiés sont autorisés à procéder à une étude
+intéressé ou de l'exploitant public de communications électroniques, à laquelle
+est joint un projet de plan, le préfet désigne par arrêté les communes sur le
+territoire desquelles les agents qualifiés sont autorisés à procéder à une étude
 préliminaire. Ces agents ont la faculté de pénétrer dans les propriétés non
 closes de murs ou de clôtures équivalentes situées sur le territoire de ces
 communes.

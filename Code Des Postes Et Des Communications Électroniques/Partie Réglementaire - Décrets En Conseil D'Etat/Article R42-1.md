@@ -1,6 +1,6 @@
 Article R42-1
 ----
-Afin de prévenir les dommages aux installations de télécommunications,
+Afin de prévenir les dommages aux installations de communications électroniques,
 l'emplacement des installations est porté à la connaissance des tiers par les
 opérateurs dans les conditions fixées par le décret n° 91-1147 du 14 octobre
 1991 relatif à l'exécution de travaux à proximité de certains ouvrages

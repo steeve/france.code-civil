@@ -1,5 +1,7 @@
 Article R20-17
 ----
-La destination des équipements terminaux de télécommunications mentionnés aux
-articles R. 20-18 à R. 20-21 est celle qui est fixée par le fabricant ou le
-fournisseur.
+Les équipements mentionnés à l'article R. 20-4 qui ont fait l'objet d'une
+évaluation de conformité dans un autre Etat membre de la Communauté européenne
+ou dans un autre Etat partie à l'accord instituant l'Espace économique européen
+peuvent être mis sur le marché dès lors qu'ils sont conformes aux dispositions
+de l'article R. 20-10.

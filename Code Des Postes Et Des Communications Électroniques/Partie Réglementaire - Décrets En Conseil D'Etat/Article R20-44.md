@@ -2,7 +2,7 @@ Article R20-44
 ----
 Une convention entre la Caisse des dépôts et consignations et l'Autorité de
 régulation des télécommunications, approuvée par arrêté du ministre chargé des
-télécommunications précise :
+communications électroniques précise :
 
 1° Les modalités selon lesquelles les opérateurs débiteurs effectuent les
 versements au compte spécifique et les modalités selon lesquelles sont effectués

@@ -25,7 +25,7 @@ d'investissement et de fonctionnement qui ne seraient pas encourus par
 l'opérateur, si la zone n'était pas desservie, évalués à partir de la
 comptabilité analytique des recettes et des dépenses auditée dans les conditions
 prévues au I de l'article L. 35-3. Ce solde prend en compte les bénéfices
-mentionnés aux a, b et c de l'article R . 20-37-1.
+mentionnés aux a, b et c de l'article R. 20-37-1.
 
 Les recettes pertinentes comprennent les recettes fixes du réseau, les recettes
 tirées des communications sur le réseau téléphonique émises ou reçues par les
@@ -33,13 +33,14 @@ abonnés de la zone et l'ensemble des recettes indirectes tirées des
 communications émises ou reçues par les abonnés de la zone, notamment les
 recettes des services facturés entièrement ou partiellement à l'appelé ainsi que
 les recettes résultant de la faculté de ne pas figurer sur les listes publiées
-d'abonnés ou d'utilisateurs prévue à l'article L. 33-4. Les coûts pertinents
-d'investissements et de fonctionnement comprennent, d'une part, les coûts de
-desserte et de gestion des abonnés de la zone considérée et, d'autre part, les
-coûts de réseau de commutation et de transmission correspondant à l'écoulement
-du trafic entrant et sortant relatif à cette zone. Les coûts d'investissement
-sont fondés sur les coûts de remplacement calculés sur la base des meilleures
-technologies industriellement disponibles.
+d'abonnés ou d'utilisateurs prévue à l'article L. 33-4.
+
+Les coûts pertinents d'investissements et de fonctionnement comprennent, d'une
+part, les coûts de desserte et de gestion des abonnés de la zone considérée et,
+d'autre part, les coûts de réseau de commutation et de transmission
+correspondant à l'écoulement du trafic entrant et sortant relatif à cette zone.
+Les coûts d'investissement sont fondés sur les coûts de remplacement calculés
+sur la base des meilleures technologies industriellement disponibles.
 
 III. - Le coût net pertinent des abonnés situés dans les zones rentables qui ne
 seraient pas desservies par un opérateur agissant dans les conditions du marché

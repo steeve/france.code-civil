@@ -1,9 +1,13 @@
 Article R20-24
 ----
-L'inscription vaut autorisation d'utiliser le titre d'installateur admis en
-télécommunications ou en radiocommunications.
+Lorsque les contrôles opérés par l'organisme notifié en application de
+l'avant-dernier alinéa de l'article R. 20-9 font apparaître que le système
+d'assurance de qualité ne garantit plus le respect des exigences essentielles,
+la décision d'approbation du système est suspendue par l'organisme notifié.
+Cette décision est motivée et notifiée à l'intéressé, qui est invité à prendre
+les mesures de mise en conformité des équipements existants jugées nécessaires
+dans un délai qui ne peut être inférieur à trente jours.
 
-L'Autorité de régulation des télécommunications peut, après avis de la
-commission instituée par l'article R. 20-25 et après audition des intéressés,
-suspendre ou retirer l'inscription sur la liste des installateurs qui auront
-manqué gravement à leurs obligations professionnelles.
+S'il n'est pas satisfait à cette demande dans le délai fixé, l'organisme notifié
+peut abroger la décision d'approbation du système par une décision motivée,
+notifiée à l'intéressé.

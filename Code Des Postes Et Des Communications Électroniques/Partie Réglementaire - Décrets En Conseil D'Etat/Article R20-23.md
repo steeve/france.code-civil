@@ -1,40 +1,25 @@
 Article R20-23
 ----
-1° Les catégories d'installations radioélectriques ou d'équipements terminaux de
-télécommunications ayant fait l'objet d'une attestation de conformité, qui, en
-raison de leur complexité, peuvent interférer avec l'échange des informations de
-commande et de gestion associé au réseau, ou dont la dimension a une incidence
-sur l'écoulement du trafic, figurent sur une liste établie par l'Autorité de
-régulation des télécommunications. Les installations et équipements en cause ne
-peuvent être raccordés et mis en service que par une entreprise dont la
-qualification technique en radiocommunications ou en télécommunications a été
-reconnue et qui a été inscrite sur une liste des installateurs admis.
+Lorsqu'un équipement conforme aux dispositions de la présente section et
+connecté à un réseau ouvert au public occasionne un dommage grave à un réseau ou
+des perturbations radioélectriques, ou une atteinte au réseau ou à son
+fonctionnement, l'Autorité de régulation des télécommunications peut autoriser
+l'exploitant du réseau à refuser la connexion de l'équipement, à le déconnecter
+ou à le retirer du service. Elle en informe sans délai le ministre chargé des
+communications électroniques.
 
-2° La demande d'inscription peut être présentée par toute entreprise inscrite au
-registre des métiers ou au registre du commerce et des sociétés, ou sur une
-liste professionnelle équivalente dans un autre Etat membre de la Communauté
-européenne ou dans un autre Etat partie à l'accord instituant l'Espace
-économique européen.
+Pour préserver l'intégrité du réseau et le bon fonctionnement des services,
+l'Autorité de régulation des télécommunications peut adresser une mise en
+demeure à l'utilisateur de l'équipement en l'invitant à prendre toutes mesures
+pour mettre fin aux perturbations dans un délai déterminé.
 
-La demande d'inscription comporte :
+Si, à l'expiration de ce délai, l'utilisateur ne s'est pas conformé à la mise en
+demeure, l'Autorité de régulation des télécommunications demande à l'exploitant
+du réseau de suspendre la fourniture du service qu'utilise l'équipement à
+l'origine des perturbations.
 
-a) Le nom et l'adresse de l'entreprise demanderesse ;
-
-b) La liste des membres de son personnel disposant de diplômes ou qualifications
-dans la spécialité choisie ;
-
-c) Le cas échéant, la référence des travaux déjà réalisés dans cette spécialité.
-
-3° L'Autorité de régulation des télécommunications statue dans un délai de deux
-mois sur l'inscription de l'entreprise demanderesse sur la liste des
-installateurs admis. Les refus d'inscription sont motivés et notifiés à
-l'entreprise concernée.
-
-A défaut de réponse dans les deux mois, l'admission est réputée acquise et
-l'entreprise inscrite sur la liste.
-
-4° Une personne morale de droit public ou de droit privé dont la qualification
-technique est reconnue peut, à sa demande, être autorisée par l'Autorité de
-régulation des télécommunications à raccorder et mettre en service des
-équipements terminaux et installations pour ses besoins propres. Dans ce cas,
-elle n'est pas inscrite sur la liste des installateurs admis.
+En cas d'urgence, et à condition qu'une solution de rechange soit offerte sans
+délai à l'utilisateur et sans frais pour ce dernier, l'exploitant peut
+déconnecter un équipement lorsque la protection du réseau rend nécessaire cette
+déconnexion. L'exploitant en informe sans délai l'Autorité de régulation des
+télécommunications.
