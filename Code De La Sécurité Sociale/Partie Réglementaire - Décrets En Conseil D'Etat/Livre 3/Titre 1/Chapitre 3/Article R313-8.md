@@ -5,9 +5,9 @@ Pour l'ouverture du droit aux prestations prévues par les articles R. 313-2 à 
 minimum de croissance au 1er janvier qui précède immédiatement la période de
 référence ou à six heures de travail salarié :
 
-1°) chaque journée indemnisée au titre de la maladie, de la maternité ou de
-l'invalidité à l'exclusion des journées indemnisées en application des articles
-L. 161-8 et L. 311-5 ;
+1°) chaque journée indemnisée au titre de la maladie, de la maternité, de la
+paternité ou de l'invalidité à l'exclusion des journées indemnisées en
+application des articles L. 161-8 et L. 311-5 ;
 
 2°) chaque journée d'interruption de travail due à la maladie au titre de
 laquelle l'assuré n'a pas perçu l'indemnité journalière de l'assurance maladie

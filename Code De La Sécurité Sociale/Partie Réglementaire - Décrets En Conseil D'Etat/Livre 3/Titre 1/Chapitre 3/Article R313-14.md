@@ -23,7 +23,7 @@ vingt et unième anniversaire, s'il est justifié qu'ils ont interrompu leurs
 études pour cause de maladie dans les conditions définies ci-après.
 
 Pour l'application de l'alinéa qui précède, l'année scolaire est réputée
-commencer le 1er octobre et s'achever le 30 septembre suivant [*période*].
+commencer le 1er octobre et s'achever le 30 septembre suivant.
 
 L'assuré doit justifier que le retard de la scolarité a été imputable à
 l'interruption d'études primaires, secondaires ou technologiques et que cette

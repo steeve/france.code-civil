@@ -13,6 +13,9 @@ du 9e mois avant la date présumée de l'accouchement ou à la date du début du
 repos prénatal ;
 
 4°) Les prestations en espèces de l'assurance maternité servies en cas
-d'adoption, à la date d'arrivée de l'enfant au foyer ;
+d'adoption, à la date du début du congé d'adoption ;
 
-5°) La prestation de l'assurance décès, à la date du décès.
+5° Les prestations en espèces de l'assurance maternité servies en cas de congé
+de paternité, à la date du début de ce congé ;
+
+6°) La prestation de l'assurance décès, à la date du décès.
