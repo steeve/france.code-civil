@@ -1,40 +1,43 @@
 Article R231-26
 ----
-La commission nationale d'hygiène et de sécurité du travail en agriculture est
-présidée par le ministre chargé de l'agriculture ou à défaut, par un membre du
-Conseil d'Etat vice-président de la commission désigné sur proposition du
-vice-président du conseil d'Etat.
+La Commission nationale d'hygiène et de sécurité du travail en agriculture est
+présidée par le ministre chargé de l'agriculture ou, à défaut, par un membre du
+Conseil d'Etat, vice-président de la commission, désigné sur proposition du
+vice-président du Conseil d'Etat.
 
-Elle se compose en outre de :
+Elle se compose en outre de [*composition - membres*] :
 
-1. Sept [*nombre*] membres représentant les départements ministériels et la
-mutualité sociale agricole, déterminés ainsi qu'il suit :
+1° Six membres représentant les départements ministériels déterminés ainsi qu'il
+suit :
 
-Au titre du ministère chargé du travail, le directeur des relations du travail
-ou son représentant ;
+a) Au titre du ministère chargé du travail, le directeur des relations du
+travail ou son représentant ;
 
-Au titre du ministère chargé de la santé, le directeur général de la santé ou
+b) Au titre du ministère chargé de la santé, le directeur général de la santé ou
 son représentant ;
 
-Au titre du ministère chargé de l'industrie, le directeur général de l'industrie
-ou son représentant ;
+c) Au titre du ministère chargé de l'industrie, le directeur général de
+l'industrie ou son représentant ;
 
-Au titre du ministère chargé de l'agriculture, le directeur des affaires
-sociales, le directeur de l'aménagement et le directeur de la qualité ou leurs
-représentants ;
+d) Au titre du ministère chargé de l'agriculture, le directeur des
+exploitations, de la politique sociale et de l'emploi ou son représentant et le
+directeur général de l'alimentation ou son représentant ;
 
-Un représentant des caisses centrales de la mutualité sociale agricole désigné
-sur proposition du conseil d'administration desdites caisses.
+e) Au titre du ministère chargé de l'environnement, le directeur de l'eau et de
+la prévention des pollutions et des risques ou son représentant.
 
-2. Six représentants des salariés agricoles sur proposition des organisations
-syndicales de salariés agricoles les plus représentatives au plan national ;
+2° Un représentant des caisses centrales de la mutualité sociale agricole,
+désigné sur proposition du conseil d'administration desdites caisses.
 
-3. Six représentants des employeurs agricoles sur proposition des organisations
-d'employeurs agricoles les plus représentatives au plan national ;
+3° Six représentants des salariés agricoles désignés sur proposition des
+organisations syndicales de salariés agricoles les plus représentatives au plan
+national.
 
-4. Huit personnes désignées en raison de leur compétence.
+4° Six représentants des employeurs agricoles désignés sur proposition des
+organisations d'employeurs agricoles les plus représentatives au plan national.
 
-Le vice-président de la commission nationale, le représentant de la mutualité
-sociale agricole ainsi que les membres du conseil mentionné aux 2, 3 et 4
-ci-dessus sont nommés pour trois ans [*durée*] par arrêté du ministre chargé de
-l'agriculture.
+5° Neuf personnes désignées en raison de leur compétence.
+
+Le vice-président de la commission nationale ainsi que les membres de la
+commission nationale mentionnés aux 2°, 3°, 4° et 5° ci-dessus sont nommés pour
+trois ans [*durée*] par arrêté du ministre chargé de l'agriculture.
