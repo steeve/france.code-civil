@@ -2,7 +2,7 @@ Article R322-111
 ----
 L'union est chargée, pour le compte et à la place de la société d'assurance
 mutuelle réassurée, de faire, au ministre de l'économie et des finances, les
-différentes communications prescrites par l'article R. 310-6 et à la commission
+différentes communications prescrites par l'article L. 310-8 et à la commission
 de contrôle des assurances celles qui sont prévues à l'article R. 310-6-1, de
 tenir à son siège les livres de comptabilité, registres ou fichiers prévus par
 le titre IV du présent livre, de mettre à la disposition des

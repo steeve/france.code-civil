@@ -8,7 +8,7 @@ solidaire des engagements de la société d'assurance mutuelle.
 
 Les conditions générales de ces polices doivent être soumises par l'union au
 ministre de l'économie et des finances dans les conditions prévues par l'article
-R. 310-6. Elles doivent préciser que si l'agrément accordé à l'union lui est
+L. 310-8. Elles doivent préciser que si l'agrément accordé à l'union lui est
 retiré, la police sera résiliée le dixième jour à midi à compter de la date de
 la publication au Journal officiel de l'arrêté prononçant le retrait d'agrément,
 la portion de cotisation afférente à la période non garantie étant alors

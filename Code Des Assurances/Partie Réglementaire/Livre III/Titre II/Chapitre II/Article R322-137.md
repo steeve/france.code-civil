@@ -1,6 +1,6 @@
 Article R322-137
 ----
-Le respect des dispositions de l'article R. 310-6 incombe au réassureur agréé.
+Le respect des dispositions de l'article L. 310-8 incombe au réassureur agréé.
 
 Les contrats d'assurance souscrits par les organismes dispensés de l'agrément
 administratif doivent indiquer, en caractères très apparents, les nom et adresse

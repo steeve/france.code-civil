@@ -1,8 +1,8 @@
 Article R322-84
 ----
-Il peut être formé, entre sociétés régies par la présente section, des sociétés
-de réassurance mutuelles ayant pour objet la réassurance des risques garantis
-directement par les sociétés qui en font partie.
+Il peut être formé, entre sociétés régies par la présente section ou par la
+section V, des sociétés de réassurance mutuelles ayant pour objet la réassurance
+des risques garantis directement par les sociétés qui en font partie.
 
 Ces sociétés de réassurance peuvent, sur autorisation du ministre de l'économie
 et des finances, procéder à des échanges de risques avec les sociétés non
