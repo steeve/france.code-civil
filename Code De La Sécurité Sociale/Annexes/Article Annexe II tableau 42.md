@@ -43,7 +43,9 @@ métallisation ;
 - les travaux de verrerie à proximité des fours, machines de fabrication,
 broyeurs et concasseurs ; l'embouteillage ;
 
-- le tissage sur métiers ou machines à tisser ;
+- le tissage sur métiers ou machines à tisser, les travaux sur peigneuses,
+machines à filer incluant le passage sur bancs à broches, retordeuses,
+moulineuses, bobineuses de fibres textiles ;
 
 - la mise au point, les essais et l'utilisation des propulseurs, réacteurs,
 moteurs thermiques, groupes électrogènes, groupes hydrauliques, installations de
