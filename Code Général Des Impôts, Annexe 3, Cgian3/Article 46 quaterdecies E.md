@@ -11,6 +11,11 @@ de la pêche, de l'hôtellerie, du tourisme, des énergies nouvelle, de
 l'agriculture, du bâtiment et des travaux publics, des transports et de
 l'artisanat.
 
+Les dispositions de l'alinéa précédent sont applicables aux souscriptions
+réalisées à compter du 1er janvier 1992 dans le secteur de la maintenance au
+profit d'activités industrielles et dans celui de la production et de la
+diffusion audiovisuelles et cinématographiques.
+
 La valeur d'origine des éléments d'actif autres que ceux nécessaires à
 l'exercice de l'activité ouvrant droit à déduction ne doit pas excéder 10 % du
 montant total de l'actif brut de la société.

@@ -9,3 +9,8 @@ exploités dans les départements d'outre-mer [*DOM*] et appartenant aux secteur
 d'activité de l'industrie, de la pêche, de l'h&lt;CB&gt;tellerie, du tourisme,
 des énergies nouvelles, de l'agriculture, du bâtiment et des travaux publics,
 des transports et de l'artisanat.
+
+Les dispositions de l'alinéa précédent sont applicables aux investissements
+productifs réalisés à compter du 1er janvier 1992 dans le secteur de la
+maintenance au profit d'activités industrielles et dans celui de la production
+et de la diffusion audiovisuelles et cinématographiques.
