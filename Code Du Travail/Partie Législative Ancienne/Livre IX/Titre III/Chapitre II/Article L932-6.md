@@ -10,6 +10,11 @@ négociations avec les organisations syndicales prévues à l'article L. 932-2
 ainsi que, le cas échéant, du plan pour l'égalité professionnelle prévu à
 l'article L. 123-4 du présent code.
 
+Le comité d'entreprise donne, en outre, son avis sur les conditions d'accueil,
+d'insertion et de formation de jeunes dans l'entreprise, notamment de jeunes
+bénéficiaires des stages d'initiation à la vie professionnelle prévus à
+l'article L. 980-9.
+
 Afin de permettre aux membres dudit comité et, le cas échéant, aux membres de la
 commission prévue à l'article L. 434-7 de participer à l'élaboration de ce plan
 et de préparer la délibération dont il fait l'objet, le chef d'entreprise leur

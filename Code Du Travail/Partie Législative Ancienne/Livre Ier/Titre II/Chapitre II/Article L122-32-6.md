@@ -5,7 +5,11 @@ l'article L. 122-32-5 ouvre droit, pour le salarié, à une indemnité
 compensatrice [*de délai-congé*] d'un montant égal à celui de l'indemnité prévue
 à l'article L. 122-8, ainsi qu'à une indemnité spéciale de licenciement qui,
 sauf dispositions conventionnelles plus favorables, est égale au double de
-l'indemnité prévue par l'article L. 122-9 [*montant*].
+l'indemnité prévue par l'article L. 122-9 [*montant*] ou par l'article 5 de
+l'accord national interprofessionnel du 10 décembre 1977 annexé à la loi n°
+78-49 du 19 janvier 1978 relative à la mensualisation et à la procédure
+conventionnelle, s'il remplit les conditions fixées pour bénéficier de cet
+accord.
 
 Toutefois, les indemnités prévues à l'alinéa ci-dessus ne sont pas dues par
 l'employeur qui établit que le refus par le salarié du reclassement qui lui est

@@ -1,12 +1,13 @@
 Article 1251
 ----
-Le bénéfice des dispositions des articles L. 433-2 et L. 434-2, L. 434-7 à L.
-434-10, L. 434-13 à L. 434-16 et L. 452-1 à L. 452-4 du code de la sécurité
-sociale, 1217 et 1221 du présent code est accordé aux assurés des professions
-agricoles et forestières visées au livre III (deuxième partie) du code local des
-assurances sociales en vigueur dans les départements du Haut-Rhin, du Bas-Rhin
-et de la Moselle, conformément à l'article 1226, à condition qu'au moment de
-l'accident la victime ait eu la qualité de travailleur agricole salarié.
+Le bénéfice des dispositions des articles L. 411-2, L. 433-2, L. 434-1 et L.
+434-2, L. 434-7 à L. 434-10, L. 434-13 à L. 434-16, L. 452-1 à L. 452-4, L.
+454-1, L. 455-1 et L. 455-2 du code de la sécurité sociale, 1217 et 1221 du
+présent code est accordé aux assurés des professions agricoles et forestières
+visées au livre III (deuxième partie) du code local des assurances sociales en
+vigueur dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle,
+conformément à l'article 1226, à condition qu'au moment de l'accident la victime
+ait eu la qualité de travailleur agricole salarié.
 
 La liquidation et la charge de l'ensemble des prestations dues aux travailleurs
 salariés ci-dessus désignés, pour les accidents survenus après la date fixée à

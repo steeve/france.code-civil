@@ -18,7 +18,10 @@ décembre 1976, à la condition qu'il soit accompagné d'une attestation de cet
 Etat certifiant que le titulaire du diplôme, certificat ou titre, s'est consacré
 de façon effective et licite aux activités de médecin pendant au moins trois
 années consécutives [*durée*] au cours des cinq années précédant la délivrance
-de l'attestation;
+de l'attestation; lorsque ce diplôme a été obtenu dans les conditions définies à
+l'article 50 de la loi n° 68-978 du 12 novembre 1968 d'orientation de
+l'enseignement supérieur, il est complété par le document annexe visé au
+deuxième alinéa dudit article ;
 
 2° Pour l'exercice de la profession de chirurgien-dentiste :
 
