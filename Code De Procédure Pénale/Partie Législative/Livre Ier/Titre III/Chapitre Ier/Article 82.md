@@ -9,12 +9,8 @@ Il peut, à cette fin, se faire communiquer la procédure, à charge de la rendr
 dans les vingt-quatre heures.
 
 Si le juge d'instruction ne suit pas les réquisitions du procureur de la
-République, il doit rendre une ordonnance motivée dans les cinq jours de ces
-réquisitions.
+République, il doit, sauf dans les cas prévus par le second alinéa de l'article
+137, rendre une ordonnance motivée dans les cinq jours de ces réquisitions.
 
-Les dispositions de l'alinéa qui précède sont applicables lorsque, saisi par le
-procureur de la République de réquisition aux fins de placement ou de maintien
-en détention provisoire, le juge d'instruction ne saisit pas le président du
-tribunal de grande instance ou le juge délégué par lui en application de
-l'article 137-1. Elles sont également applicables dans le cas prévu par le
-sixième alinéa de l'article 86.
+A défaut d'ordonnance du juge d'instruction, le procureur de la République peut,
+dans les dix jours, saisir directement la chambre d'accusation.

@@ -6,9 +6,9 @@ des tribunaux maritimes commerciaux et investis à ce titre des pouvoirs confér
 aux juges d'instruction par le Code de procédure pénale, notamment pour la
 délivrance de mandats de compuration, d'amener, de dépôt et d'arrêt.
 
-Les administrateurs des affaires maritimes appelés à présider le tribunal
-maritime commercial compétent pour juger un prévenu peuvent également délivrer
-contre le prévenu un mandat de comparution, d'amener, de dépôt ou d'arrêt.
+Le président du tribunal maritime commercial compétent pour juger un prévenu
+peut également délivrer contre le prévenu un mandat de comparution, d'amener, de
+dépôt ou d'arrêt.
 
 Les dispositions du Code de procédure pénale relatives à la détention préventive
 sont applicables aux prévenus de délits relevant de la compétence des tribunaux

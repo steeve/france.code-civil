@@ -29,4 +29,10 @@ l'arrêt de la chambre criminelle.
 
 Les dispositions de l'article 570 et du présent article sont applicables aux
 pourvois formés contre les arrêts préparatoires, interlocutoires ou
-d'instruction rendus par les chambres d'accusation.
+d'instruction rendus par les chambres d'accusation à l'exception des arrêts
+visés au troisième alinéa de l'article 570.
+
+Lorsque le président de la chambre criminelle déclare immédiatement recevable le
+pourvoi formé contre un arrêt de la chambre de l'instruction, saisie par
+application de l'article 173, il peut ordonner au juge d'instruction saisi de
+suspendre son information, à l'exception des actes urgents.

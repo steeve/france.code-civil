@@ -24,12 +24,11 @@ police judiciaire afin de leur faire exécuter tous les actes d'information
 nécessaires dans les conditions et sous les réserves prévues aux articles 151 et
 152.
 
-Le juge d'instruction [*obligation*] doit vérifier les éléments d'information
-ainsi recueillis.
+Le juge d'instruction doit vérifier les éléments d'information ainsi recueillis.
 
 Le juge d'instruction procède ou fait procéder, soit par des officiers de police
-judiciaire conformément à l'alinéa 4, soit par toute personne habilitée dans des
-conditions déterminées par décret en Conseil d'Etat, à une enquête sur la
+judiciaire, conformément à l'alinéa 4, soit par toute personne habilitée dans
+des conditions déterminées par décret en Conseil d'Etat, à une enquête sur la
 personnalité des personnes mises en examen, ainsi que sur leur situation
 matérielle, familiale ou sociale. Toutefois, en matière de délit, cette enquête
 est facultative.
@@ -53,6 +52,20 @@ soit procédé à l'un des examens ou à toutes autres mesures utiles prévus pa
 l'alinéa qui précède, le juge d'instruction doit, s'il n'entend pas y faire
 droit, rendre une ordonnance motivée au plus tard dans le délai d'un mois à
 compter de la réception de la demande.
+
+La demande mentionnée à l'alinéa précédent doit faire l'objet d'une déclaration
+au greffier du juge d'instruction saisi du dossier. Elle est constatée et datée
+par le greffier qui la signe ainsi que le demandeur ou son avocat. Si le
+demandeur ne peut signer, il en est fait mention par le greffier. Lorsque le
+demandeur ou son avocat ne réside pas dans le ressort de la juridiction
+compétente, la déclaration au greffier peut être faite au moyen d'une lettre
+recommandée avec demande d'avis de réception. Lorsque la personne mise en examen
+est détenue, la demande peut également être faite au moyen d'une déclaration
+auprès du chef de l'établissement pénitentiaire. Cette déclaration est constatée
+et datée par le chef de l'établissement pénitentiaire qui la signe, ainsi que le
+demandeur. Si celui-ci ne peut signer, il en est fait mention par le chef de
+l'établissement. Ce document est adressé sans délai, en original ou copie et par
+tout moyen, au greffier du juge d'instruction.
 
 Faute par le juge d'instruction d'avoir statué dans le délai d'un mois, la
 partie peut saisir directement le président de la chambre d'accusation, qui

@@ -11,8 +11,10 @@ copie du récépissé signé par l'intéressé.
 
 Dans tous les cas, le juge d'instruction fixe un délai aux parties pour
 présenter des observations ou formuler une demande, notamment aux fins de
-complément d'expertise ou de contre-expertise. Pendant ce délai, le dossier de
-la procédure est mis à la disposition des conseils des parties.
+complément d'expertise ou de contre-expertise. Cette demande doit être formée
+conformément aux dispositions du dixième alinéa de l'article 81. Pendant ce
+délai, le dossier de la procédure est mis à la disposition des conseils des
+parties.
 
 Lorsqu'il rejette une demande, le juge d'instruction rend une décision motivée
 qui doit intervenir dans un délai d'un mois à compter de la réception de la

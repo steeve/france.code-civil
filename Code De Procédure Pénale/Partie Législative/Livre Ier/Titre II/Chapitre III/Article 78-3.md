@@ -55,3 +55,5 @@ Dans le cas où il y a lieu à procédure d'enquête ou d'exécution adressée �
 l'autorité judiciaire et assortie du maintien en garde à vue, la personne
 retenue doit être aussitôt informée de son droit de faire aviser le procureur de
 la République de la mesure dont elle fait l'objet.
+
+Les prescriptions énumérées au présent article sont imposées à peine de nullité.

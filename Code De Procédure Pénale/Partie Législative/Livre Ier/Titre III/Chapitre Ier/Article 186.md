@@ -1,10 +1,10 @@
 Article 186
 ----
 Le droit d'appel appartient à la personne mise en examen contre les ordonnances
-et décisions prévues par les articles 87, 139, 140, 145, septième alinéa, 145-1,
+et décisions prévues par les articles 87, 139, 140, 145, premier alinéa, 145-1,
 145-2, 148 et 179, troisième alinéa.
 
-La partie civile peut interjeter appel des ordonnances de non informer, de
+La partie civile peut interjeter appel des ordonnances de non-informer, de
 non-lieu et des ordonnances faisant grief à ses intérêts civils. Toutefois, son
 appel ne peut, en aucun cas, porter sur une ordonnance ou sur la disposition
 d'une ordonnance relative à la détention de la personne mise en examen ou au
