@@ -42,7 +42,7 @@ professionnels au sens de l'article 151 septies, dernier alinéa, louant
 directement ou indirectement des locaux d'habitation meublés ou destinés à être
 meublés ; ces déficits s'imputent exclusivement sur les bénéfices retirés de
 cette même activité au cours des années suivantes jusqu'à la cinquième
-inclusivement (2).
+inclusivement.
 
 I bis. Du déficit correspondant aux frais exposés par un inventeur pour prendre
 un brevet ou en assurer la maintenance lorsqu'il ne perçoit pas de produits
@@ -60,27 +60,7 @@ au titre des dispositions relatives aux prêts de réinstallation ou de
 reconversion, par les Français rapatriés ou rentrant de l'étranger ou des Etats
 ayant accédé à l'indépendance ;
 
-1° bis a. Intérêts afférents aux dix premières annuités des prêts contractés
-pour la construction, l'acquisition ou les grosses réparations des immeubles
-dont le propriétaire se réserve la jouissance ainsi que les dépenses de
-ravalement, lesquelles doivent être imputées sur un seul exercice. La déduction
-est toutefois limitée à 7.000 F, cette somme étant augmentée de 1.000 F par
-personne à la charge du contribuable au sens des articles 196, 196 A bis et 196
-B. Ces dispositions ne s'appliquent qu'en ce qui concerne les immeubles affectés
-à l'habitation principale des redevables ;
-
-b. Les dispositions du a s'appliquent même lorsque l'immeuble n'est pas affecté
-immédiatement à l'habitation principale, à la condition que le propriétaire
-prenne l'engagement de lui donner cette affectation avant le 1er janvier de la
-troisième année qui suit celle de la conclusion du contrat de prêt ou du
-paiement des dépenses. Le non-respect de cet engagement entraîne la
-réintégration des dépenses dans le revenu imposable de l'année au titre de
-laquelle elles ont été indûment déduites, sans préjudice des sanctions prévues
-aux articles 1728 et 1729 ;
-
-c. Les déductions prévues au a et au b sont étendues aux locaux compris dans des
-exploitations agricoles et affectés à l'habitation des propriétaires exploitants
-;
+1° bis (Devenu sans objet) (2).
 
 1° ter. Dans les conditions fixées par décret (3), les charges foncières
 afférentes aux immeubles classés monuments historiques ou inscrits à
@@ -88,45 +68,16 @@ l'inventaire supplémentaire, ainsi qu'aux immeubles faisant partie du patrimoin
 national en raison de leur caractère historique ou artistique particulier et qui
 auront été agréés à cet effet par le ministre de l'économie et des finances ;
 
-1° quater a. Dépenses effectuées par un contribuable pour sa résidence
-principale, qu'il en soit ou non propriétaire, lorsque ces dépenses ont pour
-objet d'améliorer l'isolation thermique ou la mesure et la régulation du
-chauffage, ou encore de remplacer une chaudière dans des conditions permettant
-une économie de produits pétroliers.
-
-Le montant maximum de cette déduction est fixé à 8.000 F par logement, cette
-somme étant augmentée de 1.000 F par personne à la charge du contribuable au
-sens des articles 196, 196 A bis et 196 B ; elle peut, pour les contribuables
-qui échelonnent leurs dépenses sur plusieurs années, être pratiquée au titre de
-chacune de ces années sans que le total des dépenses déduites puisse être
-supérieur au montant de la déduction qui serait admise en l'absence
-d'échelonnement. La déduction est réservée aux logements existant au 1er juillet
-1981 et aux logements ayant fait l'objet, avant cette date, soit d'une demande
-de permis de construire, soit d'une déclaration préalable de travaux.
-
-Lorsque le bénéficiaire de la déduction est remboursé en tout ou partie de ses
-dépenses par un tiers, dans un délai de dix ans, le montant remboursé est ajouté
-à ses revenus de l'année du remboursement ;
-
-b. Le régime de déduction visé au a est étendu aux dépenses relatives à
-l'installation de pompes à chaleur et à l'utilisation des énergies nouvelles
-pour le chauffage des logements quelle que soit leur date de construction ;
-
-c. Les dispositions du a et b s'appliquent aux dépenses réalisées du 1er janvier
-1982 au 31 décembre 1986. La liste des travaux et matériels admis en déduction
-est fixée par arrêté ministériel (4) ;
-
-d. Les dispositions du 1° bis-b sont étendues aux dépenses visées aux a à c
-ci-dessus.
+1° quater (Devenu sans objet) (2).
 
 2° Arrérages de rentes payés par lui à titre obligatoire et gratuit constituées
 avant le 2 novembre 1959 ; pensions alimentaires répondant aux conditions fixées
 par les articles 205 à 211 du code civil ; rentes prévues à l'article 276 du
 code civil et pensions alimentaires versées en vertu d'une décision de justice,
 en cas de séparation de corps ou de divorce, ou en cas d'instance en séparation
-de corps ou en divorce lorsque le conjoint fait l'objet d'une imposition séparée
+de corps ou de divorce lorsque le conjoint fait l'objet d'une imposition séparée
 ; dans la limite de 18.000 F et, dans les conditions fixées par un décret en
-Conseil d'Etat (5), les versements destinés à constituer le capital de la rente
+Conseil d'Etat (4), les versements destinés à constituer le capital de la rente
 prévue à l'article 294 du code civil.
 
 Le contribuable ne peut opérer de déduction pour ses descendants mineurs, sauf
@@ -152,23 +103,7 @@ articles 91 et 92 du code de la mutualité ;
 
 6° (Abrogé) ;
 
-7° a. Primes afférentes aux contrats d'assurances dont l'exécution dépend de la
-durée de la vie humaine, lorsque ces contrats comportent la garantie d'un
-capital en cas de vie et sont d'une durée effective au moins égale à dix ans, ou
-bien comportent la garantie d'une rente viagère avec jouissance effectivement
-différée d'au moins dix ans, quelle que soit la date de la souscription. Ces
-primes sont déductibles du revenu imposable du souscripteur dans la limite de
-3.250 F, majorée de 600 F par enfant à charge ; ces limites s'appliquent à
-l'ensemble des contrats souscrits par les membres d'un même foyer fiscal ;
-
-b. Dans les mêmes limites que celles prévues au a, les primes afférentes à des
-contrats d'assurances en cas de décès, lorsque ces contrats garantissent le
-versement d'un capital ou d'une rente viagère à un enfant de l'assuré atteint
-d'une infirmité qui l'empêche, soit de se livrer, dans des conditions normales
-de rentabilité, à une activité professionnelle, soit, s'il est âgé de moins de
-dix-huit ans, d'acquérir une instruction ou une formation professionnelle d'un
-niveau normal ; les conditions d'application de cette disposition sont, en tant
-que de besoin, fixées par décret ;
+7° a et b (Devenus sans objets) (2).
 
 c. Primes afférentes à des contrats d'assurances, conclus ou ayant fait l'objet
 d'un avenant d'augmentation entre le 1er janvier 1950 et le 1er janvier 1957 ou
@@ -179,9 +114,7 @@ sur le revenu, avant déduction desdites primes, sans pouvoir excéder pour une
 année, la somme de 400 F, augmentée de 100 F par enfant à la charge du
 contribuable ;
 
-d. Un arrêté du ministre de l'économie et des finances (6) définit les
-justifications auxquelles est subordonnée la déduction des primes mentionnées
-aux a et b.
+d. (Devenu sans objet) (2).
 
 8° (Abrogé) ;
 
@@ -203,13 +136,10 @@ professionnelles dans l'agriculture.
 
 (1) Voir toutefois le paragraphe I bis ci-dessous.
 
-(2) Cette disposition s'applique pour la première fois aux revenus perçus à
-compter du 1er janvier 1982.
+(2) A compter de l'imposition des revenus de 1983. Toutefois, les engagements
+prévus aux 1° bis-b et 1° quater-d souscrits pour bénéficier des déductions du
+revenu global sont maintenus tant que les délais fixés ne sont pas expirés.
 
 (3) Annexe III, art. 41 E à 41 J.
 
-(4) Annexe IV, art. 17 H à 17 L.
-
-(5) Annexe II, art. 91 quinquies.
-
-(6) Annexe IV, art. 17 E.
+(4) Annexe II, art. 91 quinquies.
