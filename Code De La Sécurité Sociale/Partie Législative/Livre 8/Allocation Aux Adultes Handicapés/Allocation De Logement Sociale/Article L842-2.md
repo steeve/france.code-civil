@@ -1,9 +1,10 @@
 Article L842-2
 ----
 I. Le montant de l'allocation est égal à celui des cotisations patronales et
-salariales d'origine légale ou conventionnelle imposées par la loi, dues pour
-l'emploi mentionné au premier alinéa de l'article L. 842-1 et calculées sur le
-salaire dans la limite d'un montant maximal fixé par décret.
+salariales d'origine légale ou conventionnelle imposées par la loi et de la
+participation au développement de la formation professionnelle continue, dues
+pour l'emploi mentionné au premier alinéa de l'article L. 842-1 et calculées sur
+le salaire dans la limite d'un montant maximal fixé par décret.
 
 II. Le montant de l'allocation est réduit dans des conditions fixées par décret,
 lorsque :

@@ -1,7 +1,7 @@
 Article L129-1
 ----
-Les associations dont les activités concernent exclusivement les services rendus
-aux personnes physiques à leur domicile doivent être agréées par l'Etat
+I. - Les associations dont les activités concernent exclusivement les services
+rendus aux personnes physiques à leur domicile doivent être agréées par l'Etat
 lorsqu'elles poursuivent au moins l'un des deux objets suivants :
 
 1° Le placement de travailleurs auprès de personnes physiques employeurs ainsi
@@ -30,7 +30,20 @@ lucrative au regard des articles L. 125-1 et L. 125-3.
 
 Dans le cas prévu au 2° ci-dessus, et lorsque les associations assurent la
 fourniture de prestations de services à des personnes physiques, les
-dispositions des articles L. 128, L. 322-4-7 et L. 322-4-16 ne sont pas
-applicables.
+dispositions de l'article L. 322-4-7 ne sont pas applicables [*contrat
+emploi-solidarité*].
 
-Un décret détermine les conditions d'agrément des associations visées ci-dessus.
+II. - Les entreprises dont les activités concernent exclusivement les tâches
+ménagères ou familiales doivent également être agréées par l'Etat lorsqu'elles
+souhaitent que la fourniture de leurs services au domicile des personnes
+physiques ouvre droit au bénéfice de la réduction d'impôt prévue à l'article 199
+sexdecies du code général des impôts.
+
+Le mode de paiement de ces prestations de services doit permettre
+l'identification du payeur et du destinataire.
+
+III. - Un décret détermine les modalités et conditions de délivrance des
+agréments prévus au présent article, et notamment les conditions particulières
+auxquelles sont soumis les agréments des associations et des entreprises dont
+l'activité concerne la garde d'enfants ou l'assistance aux personnes âgées ou
+handicapées.
