@@ -9,9 +9,8 @@ usage locatif dont ils sont propriétaires ou gestionnaires [*condition*] :
 2. Les établissements publics à caractère administratif sous tutelle des
 collectivités locales et gestionnaires de logements ;
 
-3. DECR. 87 : Les communes ne disposant pas d'établissements publics
-administratifs placés sous leur tutelle et gestionnaires de logements, sur avis
-conforme du groupe administratif départemental du fonds d'aménagement urbain ;
+3. Les communes ne disposant pas d'établissements publics administratifs placés
+sous leur tutelle et gestionnaires de logements ;
 
 4. Les houillères de bassin ;
 
@@ -28,5 +27,4 @@ et consignations ;
 8. Les sociétés minières et immobilières gérant le patrimoine immobilier des
 mines de fer ;
 
-9. DECR. 87 : Les personnes morales propriétaires de cités familiales, sur avis
-conforme du comité directeur du fonds d'aménagement urbain.
+9. Les personnes morales propriétaires de cités familiales.

@@ -14,7 +14,5 @@ accordées dans le cas d'opérations réalisées sur des immeubles anciens ou tr
 dégradés, de restructuration interne des immeubles ou de reprise de
 l'architecture extèrieure.
 
-La décision de dérogation est prise par le commissaire de la République, sauf
-dans le cas d'opérations qui présentent le caractère d'investissement public
-national, pour lesquelles la décision de dérogation est prise par le ministre
-chargé de la construction et de l'habitation.
+La décision de dérogation est prise par le représentant de l'Etat dans le
+département.
