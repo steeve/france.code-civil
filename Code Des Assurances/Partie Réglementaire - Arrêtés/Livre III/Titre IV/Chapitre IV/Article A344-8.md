@@ -8,6 +8,9 @@ Le compte rendu détaillé annuel visé au 1° du I de l'article A. 344-6 compre
 
 3° Les états d'analyse des comptes énumérés à l'article A. 344-10.
 
+Il est établi dans la même monnaie que les comptes annuels mentionnés au 2° du I
+de l'article A. 344-6.
+
 Il est certifié par le président du conseil d'administration ou le président du
 directoire ou le directeur général unique dans les sociétés anonymes, par le
 directeur et par le président du conseil d'administration dans les sociétés
