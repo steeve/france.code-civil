@@ -11,10 +11,17 @@ a) De sociétés habilitées à collecter les versements en application de l'art
 R. 313-9 (2. c) ;
 
 b) De sociétés immobilières, autres que celles régies par le livre II, titre
-Ier, chapitres I, II et III du présent code (1ère partie), répondant aux
-conditions prévues à l'article R. 313-31 (2., b) et dont l'objet est la
+Ier, chapitre I, II et III du présent code (1re partie), répondant aux
+conditions prévues à l'article R. 313-31 (2. b) et dont l'objet est la
 construction de logements locatifs ou l'acquisition en vue de l'amélioration de
 logements existants destinés à la location.
+
+c) De sociétés immobilières autres que celles régies par le livre II, titre Ier,
+chapitre Ier, II et III du présent code (première partie), ayant pour objet la
+construction de logements locatifs ou l'acquisition en vue de l'amélioration de
+logements existants destinés à la location qui répondent aux conditions prévues
+à l'article R. 313-31 (2. bis) et qui bénéficient à cet effet des prêts prévus à
+l'article R. 331-1.
 
 Les acquisitions de titres sont assimilées à des souscriptions lorsque le cédant
 est un souscripteur et que le prix d'acquisition n'est pas supérieur au montant
