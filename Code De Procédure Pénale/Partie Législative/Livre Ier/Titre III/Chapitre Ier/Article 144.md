@@ -1,9 +1,9 @@
 Article 144
 ----
-En matière correctionnelle, si la peine encourue est égale ou supérieure à deux
-ans d'emprisonnement et si les obligations du contrôle judiciaire sont
-insuffisantes au regard des fonctions définies à l'article 137, la détention
-provisoire peut être ordonnée ou maintenue :
+En matière criminelle et en matière correctionnelle, si la peine encourue est
+égale ou supérieure à deux ans d'emprisonnement et si les obligations du
+contrôle judiciaire sont insuffisantes au regard des fonctions définies à
+l'article 137, la détention provisoire peut être ordonnée ou maintenue :
 
 1° Lorsque la détention provisoire de l'inculpé est l'unique moyen de conserver
 les preuves ou les indices matériels ou d'empêcher soit une pression sur les

@@ -32,6 +32,17 @@ conditions fixées par décret en Conseil d'Etat, à une enquête sur la
 personnalité des inculpés, ainsi que sur leur situation matérielle, familiale ou
 sociale. Toutefois, en matière de délit, cette enquête est facultative.
 
+Le juge d'instruction peut également commettre, suivant les cas, le comité de
+probation et d'assistance aux libérés, le service compétent de l'éducation
+surveillée ou toute personne habilitée en application de l'alinéa qui précède à
+l'effet de vérifier la situation matérielle, familiale et sociale d'un inculpé
+et de l'informer sur les mesures propres à favoriser l'insertion sociale de
+l'intéressé. A moins qu'elles n'aient été déjà prescrites par le ministère
+public, ces diligences doivent être prescrites par le juge d'instruction chaque
+fois qu'il envisage de placer en détention provisoire un majeur âgé de moins de
+vingt et un ans au moment de la commission de l'infraction lorsque la peine
+encourue n'excède pas cinq ans d'emprisonnement.
+
 Le juge d'instruction peut prescrire un examen médical, confier à un médecin le
 soin de procéder à un examen médico-psychologique ou ordonner toutes autres
 mesures utiles. Si ces examens sont demandés par l'inculpé ou son conseil, il ne
