@@ -63,6 +63,6 @@ méthode est le coût résultant pour l'entreprise des interventions effectuées
 matière d'assistance, y compris les coûts d'assistance directs internes.
 
 Lorsqu'une entreprise pratique principalement un ou plusieurs des risques
-tempête, grêle, gelée, il est tenu compte pour le calcul de la charge moyenne
-annuelle des sinistres des sept derniers exercices sociaux au lieu des trois
-derniers.
+crédit, tempête, grêle, gelée, il est tenu compte pour le calcul de la charge
+moyenne annuelle des sinistres des sept derniers exercices sociaux au lieu des
+trois derniers.
