@@ -2,10 +2,10 @@ Article R931-10-3
 ----
 La marge de solvabilité mentionnée à l'article R. 931-10-1 relative aux
 institutions de prévoyance ou unions d'institutions de prévoyance agréées pour
-les branches 1, 2 et 16 a mentionnées à l'article R. 931-2-1 est constituée,
-après déduction des pertes, de la part des frais d'acquisition non admise en
-représentation des engagements réglementés et des autres éléments incorporels,
-par les éléments suivants :
+pratiquer les branches 1, 2 et 16 a mentionnées à l'article R. 931-2-1 est
+constituée, après déduction des pertes, de la part des frais d'acquisition non
+admise en représentation des engagements réglementés et des autres éléments
+incorporels, par les éléments suivants :
 
 1. Le fonds d'établissement constitué ;
 

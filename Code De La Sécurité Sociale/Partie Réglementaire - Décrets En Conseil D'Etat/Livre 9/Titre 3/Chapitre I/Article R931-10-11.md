@@ -8,5 +8,5 @@ défini à l'article R. 931-10-10, sans pouvoir être inférieur au seuil défin
 l'article R. 931-10-8.
 
 A concurrence de ce seuil ou de la moitié du fonds si cette moitié est
-supérieure audit seuil, le fonds est constitué par les éléments mentionnés au 1
-de l'article R. 931-10-9.
+supérieure audit seuil, le fonds est constitué par les éléments mentionnés aux
+1, 2, 3, 4, 5 et 7 de l'article R. 931-10-6.

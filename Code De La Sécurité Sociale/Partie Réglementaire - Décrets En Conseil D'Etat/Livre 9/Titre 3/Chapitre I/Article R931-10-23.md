@@ -1,8 +1,9 @@
 Article R931-10-23
 ----
-Rapportée au montant défini à l'article R. 931-10-22 , la valeur au bilan des
-actifs mentionnés ci-après ne peut excéder, sauf dérogation accordée au cas par
-cas par la commission de contrôle instituée à l'article L. 951-1 :
+Rapportée au montant défini à l'article R. 931-10-22, la valeur admise en
+représentation des actifs mentionnés ci-après ne peut excéder, sauf dérogation
+accordée au cas par cas par la commission de contrôle instituée à l'article L.
+951-1 :
 
 1° 5 p. 100 pour l'ensemble des valeurs émises et des prêts obtenus par un même
 organisme, à l'exception :

@@ -48,3 +48,8 @@ concurrence de 25 p. 100 de cette marge. Tout remboursement effectué
 irrégulièrement peut, conformément aux dispositions de l'article L. 310-18 du
 présent code, donner lieu à application de sanctions par la commission de
 contrôle des assurances.
+
+9. Pour les entreprises adhérentes au fonds de garantie institué par l'article
+L. 423-1, la réserve pour fonds de garantie prévue à l'article R. 423-13, à
+hauteur de la part de cotisation versée par l'entreprise et non utilisée par le
+fonds.

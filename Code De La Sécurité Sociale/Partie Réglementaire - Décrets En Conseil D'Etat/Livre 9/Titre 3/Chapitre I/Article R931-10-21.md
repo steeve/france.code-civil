@@ -1,7 +1,7 @@
 Article R931-10-21
 ----
 En application des dispositions de l'article R. 931-10-19, et sous réserve des
-dérogations à cet article prévues par l'article R. 931-30-20 et par les articles
+dérogations à cet article prévues par l'article R. 931-10-20 et par les articles
 R. 931-10-25 à R. 931-10-31, les engagements réglementés mentionnés à l'article
 R. 931-10-12 sont représentés par les actifs suivants :
 

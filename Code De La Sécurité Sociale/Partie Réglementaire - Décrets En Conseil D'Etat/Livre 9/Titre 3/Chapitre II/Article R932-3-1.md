@@ -8,12 +8,17 @@ assurances, les unités de compte visées à cet article sont :
 931-10-21 du présent code ;
 
 2° Dans les conditions fixées à l'article R. 131-3 du code des assurances, les
-parts ou actions visées au 12° de l'article R. 931-10-21 du présent code.
+parts ou actions visées au 12° de l'article R. 931-10-21 du présent code ;
+
+3° Les parts visées au 9° et les actions mentionnées au 8° de l'article R.
+931-10-21.
 
 Le bulletin d'adhésion au règlement ou le contrat peut se référer soit à une
 seule unité de compte, soit à la combinaison du plusieurs unités de compte. Dans
 ce dernier cas, la cotisation doit être ventilée entre les différentes unités de
-compte conformément aux dispositions du bulletin d'adhésion ou du contrat.
+compte conformément aux dispositions du bulletin d'adhésion ou du contrat. La
+part de la cotisation représentée par les unités de compte relevant du 3° ne
+doit pas dépasser 10 %.
 
 Le bulletin d'adhésion ou le contrat doit prévoir les modalités selon
 lesquelles, en cas de disparition d'une unité de compte, une autre unité de

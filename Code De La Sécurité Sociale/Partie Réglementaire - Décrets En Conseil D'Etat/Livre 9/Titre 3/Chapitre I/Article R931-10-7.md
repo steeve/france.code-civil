@@ -1,8 +1,8 @@
 Article R931-10-7
 ----
 En ce qui concerne les institutions de prévoyance ou les unions d'institutions
-de prévoyance agréées pour les branches mentionnées aux 20 à 22 et 24 à 26 de
-l'article R. 931-2-1, le montant minimal de la marge de solvabilité est
+de prévoyance agréées pour pratiquer les branches mentionnées aux 20 à 22 et 24
+à 26 de l'article R. 931-2-1, le montant minimal de la marge de solvabilité est
 déterminé, selon les branches exercées, en application des dispositions
 suivantes :
 

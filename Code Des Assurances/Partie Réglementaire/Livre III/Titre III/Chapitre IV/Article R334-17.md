@@ -5,7 +5,7 @@ déduction des pertes, de la part des frais d'acquisition non admise en
 représentation des engagements réglementés et des autres éléments incorporels,
 par les éléments suivants :
 
-a) Les éléments définis aux 1, 2, 3, 4 et 6 de l'article R. 334-11 ;
+a) Les éléments définis aux 1, 2, 3, 4, 6 et 7 de l'article R. 334-11 ;
 
 b) L'élément défini au 5 b de l'article R. 334-11 ;
 

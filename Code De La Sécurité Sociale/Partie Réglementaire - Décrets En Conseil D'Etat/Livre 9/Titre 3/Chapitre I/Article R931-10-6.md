@@ -2,7 +2,7 @@ Article R931-10-6
 ----
 La marge de solvabilité mentionnée à l'article R. 931-10-1 relative aux
 institutions de prévoyance ou unions d'institutions de prévoyance agréées pour
-les branches 20 à 22 et 24 à 26 mentionnées à l'article R. 931-2-1 est
+pratiquer les branches 20 à 22 et 24 à 26 mentionnées à l'article R. 931-2-1 est
 constituée, après déduction des pertes, de la part des frais d'acquisition non
 admise en représentation des engagements réglementés et des autres éléments
 incorporels, par les éléments suivants :
@@ -32,8 +32,7 @@ l'union ; le montant des excédents futurs est obtenu en multipliant l'excédent
 annuel estimé de l'institution ou de l'union par le facteur qui représente la
 durée résiduelle moyenne des bulletins d'adhésion aux règlements ou contrats ;
 un arrêté du ministre chargé de la sécurité sociale fixe les modalités de calcul
-du facteur mentionné à l'alinéa précédent ainsi que les éléments constitutifs de
-l'excédent annuel estimé ;
+de ce facteur ainsi que les éléments constitutifs de l'excédent annuel estimé ;
 
 b) Avec l'accord des autorités de contrôle des Etats membres de la Communauté
 européenne où l'institution de prévoyance ou l'union d'institutions de

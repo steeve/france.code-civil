@@ -1,11 +1,11 @@
 Article R931-10-4
 ----
 En ce qui concerne les institutions de prévoyance ou unions d'institutions de
-prévoyance agréées pour les branches 1, 2 et 16 a mentionnées à l'article R.
-931-2-1, le montant de la marge de solvabilité est déterminé soit par rapport au
-montant annuel des cotisations, soit par rapport à la charge moyenne annuelle
-des sinistres. Le montant minimal de la marge est égal au plus élevé des
-résultats obtenus par application des deux méthodes suivantes :
+prévoyance agréées pour pratiquer les branches 1, 2 et 16 a mentionnées à
+l'article R. 931-2-1, le montant de la marge de solvabilité est déterminé soit
+par rapport au montant annuel des cotisations, soit par rapport à la charge
+moyenne annuelle des sinistres. Le montant minimal de la marge est égal au plus
+élevé des résultats obtenus par application des deux méthodes suivantes :
 
 a) Première méthode (calcul par rapport aux cotisations) :
 

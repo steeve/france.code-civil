@@ -5,8 +5,8 @@ Est puni de la peine d'amende prévue pour les contraventions de cinquième clas
 d'une union d'institutions de prévoyance :
 
 1° De méconnaître les obligations ou interdictions résultant des articles R.
-931-1-2 (dernier alinéa), R. 931-2-10, R. 931-5-7 (dernier alinéa), R.
-931-10-12, R. 931-10-19 et R. 931-10-37 ;
+931-1-2 (dernier alinéa), R. 931-2-10, R. 931-3-21 (troisième alinéa), R.
+931-5-7 (dernier alinéa), R. 931-10-12, R. 931-10-19 et R. 931-10-37 ;
 
 2° De ne pas produire un programme de rétablissement, un plan de redressement ou
 un plan de financement à court terme prescrit conformément aux dispositions des
