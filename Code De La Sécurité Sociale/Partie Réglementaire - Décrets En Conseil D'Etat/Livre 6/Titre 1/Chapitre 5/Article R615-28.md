@@ -2,8 +2,8 @@ Article R615-28
 ----
 Le droit aux prestations est ouvert à la date d'effet de l'affiliation.
 
-Les conditions d'ouverture du droit aux prestations sont appréciées à la date
-des soins.
+Les conditions d'ouverture du droit aux prestations en espèces sont appréciées à
+la date des soins.
 
 L'assuré qui n'est pas à jour de ses cotisations à la date des soins ne peut
 faire valoir ses droits aux prestations que dans le délai de douze mois après la

@@ -24,10 +24,6 @@ salaire minimum de croissance, son affiliation peut être maintenue par la caiss
 primaire d'assurance maladie, après avis de la commission prévue à l'article L.
 382-1.
 
-Pour l'application des dispositions prévues aux alinéas précédents,
-l'artiste-auteur doit être à jour des cotisations exigibles au titre des années
-civiles de référence.
-
 La radiation est prononcée par la caisse primaire d'assurance maladie à l'issue
 de cinq années successives de maintien de l'affiliation lorsque l'artiste-auteur
 a tiré chaque année de son activité d'artiste un montant de ressources inférieur

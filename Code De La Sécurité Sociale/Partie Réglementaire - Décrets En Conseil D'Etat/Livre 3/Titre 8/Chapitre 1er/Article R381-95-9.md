@@ -11,4 +11,5 @@ trouve assujetti à un autre régime de sécurité sociale doit signaler sa
 situation à la caisse primaire d'assurance maladie à laquelle il était affilié.
 
 La caisse primaire d'assurance maladie procède à la radiation de l'assuré et en
-informe l'intéressé, ainsi que la Caisse des dépôts et consignations.
+informe l'intéressé, ainsi que la Caisse des dépôts et consignations, sous
+réserve des dispositions de l'article L. 161-15-2.

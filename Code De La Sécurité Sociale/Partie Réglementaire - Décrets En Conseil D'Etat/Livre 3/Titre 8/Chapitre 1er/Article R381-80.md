@@ -5,7 +5,7 @@ obligatoires :
 
 1°) les invalides titulaires d'une pension du code des pensions militaires
 d'invalidité et des victimes de la guerre basée sur un taux d'invalidité d'au
-moins 85 p. 100, quelle que soit l'origine de l'infirmité ;
+moins 85 %, quelle que soit l'origine de l'infirmité ;
 
 2°) les veuves non remariées, titulaires d'une pension du code des pensions
 militaires d'invalidité et des victimes de la guerre ;
@@ -19,9 +19,9 @@ par l'autorité compétente ;
 4°) les enfants légitimes, adoptifs, naturels reconnus, ayant droit au bénéfice
 des dispositions du code des pensions militaires d'invalidité et des victimes de
 la guerre, dont le père était titulaire d'une pension militaire basée sur un
-taux d'invalidité d'au moins 85 p. 100 pour des infirmités imputables à un
-service accompli au cours d'une guerre ou au cours d'une expédition déclarée
-campagne de guerre par l'autorité compétente ;
+taux d'invalidité d'au moins 85 % pour des infirmités imputables à un service
+accompli au cours d'une guerre ou au cours d'une expédition déclarée campagne de
+guerre par l'autorité compétente ;
 
 5°) les aveugles de la Résistance, bénéficiaires de l'article L. 189 du code des
 pensions militaires d'invalidité et des victimes de la guerre ;
@@ -30,7 +30,7 @@ pensions militaires d'invalidité et des victimes de la guerre ;
 
 a. les invalides victimes civiles de la guerre titulaires d'une pension du code
 des pensions militaires d'invalidité et des victimes de la guerre, basée sur un
-taux d'invalidité d'au moins 85 p. 100 ;
+taux d'invalidité d'au moins 85 % ;
 
 b. les veuves non remariées titulaires d'une pension de victime civile de la
 guerre du code des pensions militaires d'invalidité et des victimes de la guerre
@@ -48,12 +48,13 @@ délais fixés aux articles L. 193 et L. 197 ;
 d. les enfants légitimes, adoptifs, naturels reconnus, bénéficiaires d'une
 pension de victime civile de guerre du code des pensions militaires d'invalidité
 et des victimes de la guerre, dont l'auteur était lui-même titulaire d'une
-pension dudit code basée sur un taux d'invalidité d'au moins 85 p. 100 au titre
-du chapitre 1er du titre III du livre II du code précité, à l'exception de
+pension dudit code basée sur un taux d'invalidité d'au moins 85 % au titre du
+chapitre 1er du titre III du livre II du code précité, à l'exception de
 l'article L. 206 et de l'article L. 208 pour des infirmités résultant
 d'évènements qui se sont produits hors des délais fixés aux articles L. 193 et
 L. 197 ;
 
 7°) les ascendants pensionnés au titre du code des pensions militaires
 d'invalidité et des victimes de la guerre, âgés de plus de soixante-cinq ans et
-ne relevant pas déjà d'un régime obligatoire d'assurance maladie.
+ne relevant pas déjà d'un régime obligatoire d'assurance maladie autre que celui
+prévu à l'article L. 380-1.
