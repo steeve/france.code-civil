@@ -18,9 +18,9 @@ la nature des messages transmis et prend les dispositions utiles pour assurer
 l'intégrité des messages.
 
 Conformément à l'article 1er de la loi du 10 juillet 1991 relative au secret des
-correspondances émises par la voie des télécommunications, il ne peut être porté
-atteinte à ce secret que par l'autorité publique, dans les cas et conditions
-posés par la loi.
+correspondances émises par la voie des communications électroniques, il ne peut
+être porté atteinte à ce secret que par l'autorité publique, dans les cas et
+conditions posés par la loi.
 
 L'opérateur est tenu de porter à la connaissance de son personnel, et en
 particulier des agents qualifiés, les obligations et peines qu'ils encourent au
@@ -33,28 +33,11 @@ titre des dispositions du code pénal, et notamment au titre des articles 226-13
 et la confidentialité des données à caractère personnel qu'il détient et qu'il
 traite.
 
-En particulier, l'opérateur garantit à toute personne physique ou morale le
-droit :
-
-- de ne pas être mentionnée sur les listes d'abonnés ou d'utilisateurs publiées.
-L'exercice de ce droit est gratuit ;
-
-- de ne pas être mentionnée sur les listes d'abonnés ou d'utilisateurs
-accessibles par un service de renseignements téléphoniques ;
-
-- de s'opposer gratuitement à la publication et à la communication de l'adresse
-complète de son domicile, dans la mesure où les données publiées ou
-communicables permettent de distinguer cette personne de ses homonymes, ainsi
-que de s'opposer, s'il y a lieu, à l'indication du sexe ;
+En particulier, l'opérateur garantit à toute personne physique ou morale, outre
+les droits mentionnés aux articles R. 10 et R. 10-2, le droit :
 
 - de recevoir des factures non détaillées et, sur sa demande, des factures
 détaillées ;
-
-- d'interdire gratuitement que les données à caractère personnel la concernant,
-issues des listes d'abonnés ou d'utilisateurs, soient employées pour des
-opérations de prospection directe par voie postale ou par voie de
-télécommunications, à l'exception des opérations concernant l'activité autorisée
-et relevant de la relation contractuelle entre l'opérateur et l'abonné ;
 
 - d'exercer gratuitement son droit d'accès aux données à caractère personnel la
 concernant ainsi que son droit de rectification de celles-ci.
@@ -142,15 +125,14 @@ d'y remédier et du coût que cela implique.
 
 f) Prescriptions exigées par la défense et la sécurité publique.
 
-Conformément aux directives du ministre chargé des télécommunications,
+Conformément aux directives du ministre chargé des communications électroniques,
 responsable au titre de la défense du fonctionnement général des transmissions
 conformément au décret n° 93-1036 du 2 septembre 1993 relatif à l'organisation
-des télécommunications en matière de défense, l'opérateur prend les mesures
-utiles, notamment en prévision des circonstances évoquées aux articles 2 et 6 de
-l'ordonnance n° 59-147 du 7 janvier 1959 portant sur l'organisation générale de
-la défense et dans les décrets n° 65-28 du 13 janvier 1965 relatif à
-l'organisation de la défense civile et n° 83-321 du 20 avril 1983 relatif au
-pouvoir des préfets en matière de défense non militaire, pour :
+des communications électroniques en matière de défense, l'opérateur prend les
+mesures utiles, notamment en prévision des circonstances évoquées à l'article L.
+1111-2 du code de la défense et dans les décrets n° 65-28 du 13 janvier 1965
+relatif à l'organisation de la défense civile et n° 83-321 du 20 avril 1983
+relatif au pouvoir des préfets en matière de défense non militaire, pour :
 
 - assurer le fonctionnement régulier de ses installations ;
 
@@ -174,12 +156,12 @@ L'opérateur respecte l'ordre des priorités et les conditions générales de
 rétablissement des liaisons concernant plus spécialement des services de l'Etat
 et des organismes chargés d'une mission d'intérêt public ou contribuant aux
 missions de défense et de sécurité publique, qui font l'objet d'un arrêté
-conjoint des ministres chargés des télécommunications, de l'intérieur et de la
-défense.
+conjoint des ministres chargés des communications électroniques, de l'intérieur
+et de la défense.
 
 L'opérateur se conforme aux décisions ou instructions des autorités judiciaires,
-militaires ou de police, ainsi qu'à celles du ministre chargé des
-télécommunications.
+militaires ou de police, ainsi qu'à celles du ministre chargé des communications
+électroniques.
 
 L'opérateur devra mettre en place et assurer la mise en oeuvre des moyens
 nécessaires à l'application de la loi n° 91-646 du 10 juillet 1991 par les
@@ -187,8 +169,8 @@ autorités habilitées en vertu de ladite loi. Dans ce cadre, l'opérateur dési
 des agents qualifiés dans les conditions décrites dans le décret n° 93-119 du 28
 janvier 1993 relatif à la désignation des agents qualifiés pour la réalisation
 des opérations matérielles nécessaires à la mise en place des interceptions de
-correspondances émises par voie de télécommunications autorisées par la loi n°
-91-646 du 10 juillet 1991 précitée.
+correspondances émises par voie de communications électroniques autorisées par
+la loi n° 91-646 du 10 juillet 1991 précitée.
 
 L'ensemble des dispositions spécifiques prises par l'opérateur à la demande de
 l'Etat au titre des alinéas précédents figurant dans la présente clause font
@@ -214,82 +196,42 @@ dans les départements. Il ne reçoit pas de compensation financière de la part
 l'Etat à ce titre. L'opérateur s'abstient de faire figurer sur les factures les
 numéros appelés à ce titre.
 
+Dans le cadre des missions judiciaires ou d'interventions de secours,
+l'opérateur permet l'accès par les services visés au dernier alinéa de l'article
+L. 35-5 à sa liste d'abonnés et d'utilisateurs non expurgée des données
+couvertes par le troisième alinéa de l'article R. 10 et mise à jour dans les
+délais prescrits à l'article R. 10-4. Les quatrième, cinquième et septième
+alinéas de l'article R. 10 ne sont pas opposables auxdits services.
+
 g) Contribution de l'opérateur à la recherche et à la formation en matière de
-télécommunications.
+communications électroniques.
 
 L'opérateur doit justifier qu'il a contribué aux missions de recherche et de
-développement et de formation dans le domaine des télécommunications à hauteur
-d'un montant annuel minimal de 5 p. 100 du montant hors taxe de ses
-investissements d'infrastructures, équipements et logiciels de
-télécommunications pour l'activité de l'année précédente couverte par
-l'autorisation. Si l'opérateur s'est engagé à une contribution supérieure dans
-sa demande d'autorisation, celle-ci se substitue au montant minimal de 5 p. 100.
+développement et de formation dans le domaine des communications électroniques à
+hauteur d'un montant annuel minimal de 5 p. 100 du montant hors taxe de ses
+investissements d'infrastructures, équipements et logiciels de communications
+électroniques pour l'activité de l'année précédente couverte par l'autorisation.
+Si l'opérateur s'est engagé à une contribution supérieure dans sa demande
+d'autorisation, celle-ci se substitue au montant minimal de 5 p. 100.
 
 L'opérateur satisfait à cette obligation par des contributions en nature ou par
 des contributions financières à des actions de recherche et de développement et
-de formation favorisant le développement des télécommunications dans la
-Communauté européenne, dont une part consacrée à la recherche coopérative ou
+de formation favorisant le développement des communications électroniques dans
+la Communauté européenne, dont une part consacrée à la recherche coopérative ou
 précompétitive.
 
 L'opérateur est libre de la répartition de ces sommes, dont il rend compte a
 posteriori. A cet effet, il présente à l'Autorité de régulation des
-télécommunications et au ministre chargé des télécommunications un récapitulatif
-précisant ses actions de promotions et de subventions et ses travaux, études,
-recherches, développement et formation en matière de télécommunications,
-notamment ses actions avec des organismes de recherche.
+télécommunications et au ministre chargé des communications électroniques un
+récapitulatif précisant ses actions de promotions et de subventions et ses
+travaux, études, recherches, développement et formation en matière de
+communications électroniques, notamment ses actions avec des organismes de
+recherche.
 
 L'Autorité de régulation des télécommunications peut, à la demande de
 l'opérateur qui présente alors un plan pluriannuel, autoriser la réalisation des
 dépenses correspondantes sur plusieurs années afin d'assurer une contribution
 plus régulière sur l'ensemble de la durée de l'autorisation.
-
-k) Fourniture des informations nécessaires à la constitution et à la tenue de la
-liste prévue à l'article L. 35-4.
-
-L'opérateur doit apporter toute son aide dans le cadre de relations continues
-avec l'entité créée par l'article L. 35-4 pour le bon accomplissement des tâches
-incombant à l'entité et doit en particulier assurer la transmission de sa liste
-d'abonnés et le contrôle de la qualité des données transmises.
-
-La transmission s'effectue selon les modalités et la périodicité déterminées par
-l'entité en matière de formats, de protocoles de communication uniformisés et
-autres modalités techniques, dans le cadre défini par l'article L. 35-4 et les
-textes pris pour son application.
-
-La transmission est dans tous les cas obligatoire, y compris lorsque l'opérateur
-souhaite tenir un annuaire universel ou un service de renseignement universel.
-
-La communication porte sur les données nécessaires pour identifier un abonné
-particulier et empêcher une confusion entre différents abonnés. Elle comporte au
-minimum les données suivantes : nom et/ou dénomination sociale, prénom, adresse
-et coordonnées téléphoniques.
-
-Les données supplémentaires recueillies auprès de l'abonné sur sa demande pour
-une inscription dans les annuaires sont transmises dans les mêmes conditions :
-il peut s'agir notamment des noms des autres utilisateurs, sous réserve de leur
-accord, ou de la profession de l'abonné.
-
-L'opérateur communique à l'entité, en même temps que les informations
-nécessaires à la tenue de la liste visée à l'article L. 35-4, les éléments
-permettant le repérage :
-
-1° Des abonnés qui s'opposent :
-
-- à la mention des informations nominatives les concernant dans un annuaire et à
-leur communication à un service de renseignements (liste rouge) ;
-
-- à l'inscription de l'adresse complète de leur domicile ou à l'indication de
-leur sexe sur un annuaire, ou à la communication de ces informations à un
-service de renseignements ;
-
-2° Des abonnés qui interdisent l'utilisation des informations nominatives les
-concernant dans des opérations commerciales, le rassemblement de ces abonnés
-constituant la liste orange.
-
-Lorsque l'opérateur fait appel contractuellement à des sociétés de
-commercialisation de service, il doit veiller, dans ses relations contractuelles
-avec ces sociétés, au respect de ses engagements au regard de la transmission
-par ces dernières de leur liste d'abonnés dans les mêmes conditions.
 
 n) Conditions nécessaires pour assurer l'équivalence de traitement des
 opérateurs internationaux conformément aux dispositions des III et IV de
@@ -303,7 +245,7 @@ L'équivalence de traitement se traduit dans un pays par l'existence de droits
 d'accès au marché et d'interconnexion équivalant à ceux reconnus par la
 réglementation française. L'équivalence de traitement est assurée de plein droit
 pour les pays appartenant à l'Espace économique européen et, pour les autres
-pays, est appréciée par le ministre chargé des télécommunications sur
+pays, est appréciée par le ministre chargé des communications électroniques sur
 proposition de l'Autorité de régulation des télécommunications, en fonction
 notamment des accords internationaux en vigueur.
 
@@ -383,6 +325,11 @@ d'acheminement de trafic signées avec un opérateur français ou étranger ;
 
 - les accords relatifs à l'accès spécial au réseau.
 
+Lorsque l'opérateur fait appel contractuellement à des sociétés de
+commercialisation de services, il doit veiller, dans ses relations
+contractuelles avec ces sociétés, au respect de ses engagements au regard des
+informations à transmettre à l'Autorité de régulation des télécommunications.
+
 A la demande de l'Autorité de régulation des télécommunications motivée au titre
 de l'exercice de l'une de ses compétences, l'opérateur fournit d'autres
 informations nécessaires qui sont traitées dans le respect du secret des
@@ -411,5 +358,5 @@ présente autorisation.
 
 L'Autorité de régulation des télécommunications peut exercer un contrôle du
 respect des conditions de l'autorisation. Ce contrôle s'effectue dans les
-conditions définies par le code des postes et des télécommunications, et
-notamment les articles L. 32-4 et L. 36-13.
+conditions définies par le code des postes et des communications électroniques,
+et notamment les articles L. 32-4 et L. 36-13.
