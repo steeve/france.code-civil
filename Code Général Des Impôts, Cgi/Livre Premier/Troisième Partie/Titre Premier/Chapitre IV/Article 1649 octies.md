@@ -7,5 +7,5 @@ ce qui concerne ces exonérations, lorsqu'ils n'auront pas reçu l'agrément
 préalable du ministre de l'économie et des finances ou de ses représentants et
 pour autant qu'ils n'auront pas été ratifiés par le Parlement.
 
-Les dispositions des articles 5 à 9 de la loi n° 48-1484 du 25 septembre 1948
-modifiée seront éventuellement applicables en ce cas.
+Les dispositions des articles L. 313-4 à L. 313-11 du code des juridictions
+financières seront éventuellement applicables en ce cas.
