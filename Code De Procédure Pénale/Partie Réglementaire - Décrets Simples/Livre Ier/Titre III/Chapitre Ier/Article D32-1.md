@@ -17,3 +17,8 @@ Les documents mentionnés à l'alinéa précédent peuvent être, le cas échéa
 transmis au chef d'établissement par le juge d'instruction si le dossier de la
 procédure est retourné à ce magistrat avant la mise à exécution du titre de
 détention.
+
+Lorsque le juge des libertés et de la détention ordonne le placement en
+détention après avoir été directement saisi par le procureur de la République en
+application des dispositions du deuxième alinéa de l'article 137-4, il remplit
+lui-même la notice individuelle prévue au premier alinéa du présent article.
