@@ -27,8 +27,8 @@ l'inspection du travail, de l'emploi et de la politique sociale agricoles ou son
 représentant peuvent chacun interjeter appel dans les mêmes délais.
 
 L'appel est formé par une déclaration que la partie ou tout mandataire fait ou
-adresse par pli recommandé au secrétariat de la juridiction qui a rendu le
-jugement.
+adresse par pli recommandé au greffe de la cour. La déclaration est accompagnée
+de la copie de la décision.
 
 La déclaration indique les nom, prénoms, profession et domicile de l'appelant
 ainsi que les nom et adresse des parties contre lesquelles l'appel est dirigé.

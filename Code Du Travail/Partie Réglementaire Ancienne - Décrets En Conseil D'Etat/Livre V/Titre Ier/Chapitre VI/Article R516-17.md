@@ -10,10 +10,9 @@ convoqué à une prochaine séance du bureau de conciliation par lettre simple.
 
 S'il apparaît que le défendeur n'a pas été joint, sans faute de sa part, par la
 première convocation, le bureau de conciliation décide qu'il sera à nouveau
-convoqué à une prochaine séance soit par lettre recommandée du
-secrétariat-greffe avec demande d'avis de réception, soit par acte d'huissier de
-justice à la diligence du demandeur.
+convoqué à une prochaine séance soit par lettre recommandée du greffe avec
+demande d'avis de réception, soit par acte d'huissier de justice à la diligence
+du demandeur.
 
 Cet acte doit intervenir dans les six mois de la décision du bureau de
-conciliation à peine de caducité de la demande constatée par ce bureau
-[*délai*].
+conciliation à peine de caducité de la demande constatée par ce bureau.
