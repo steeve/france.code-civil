@@ -34,6 +34,11 @@ Dans le cas où cet accord ne peut être obtenu, l'inspecteur du travail décide
 cette répartition entre les collèges électoraux conformément au cinquième alinéa
 du présent article, ou, à défaut, conformément à la loi.
 
+A l'occasion de l'élaboration du protocole d'accord préélectoral visé ci-dessus,
+les organisations syndicales intéressées examinent les voies et moyens en vue
+d'atteindre une représentation équilibrée des femmes et des hommes sur les
+listes de candidatures.
+
 Dans chaque entreprise, à défaut d'accord entre le chef d'entreprise et les
 organisations syndicales intéressées, le directeur départemental du travail et
 de l'emploi du siège de l'entreprise a compétence pour reconnaître le caractère

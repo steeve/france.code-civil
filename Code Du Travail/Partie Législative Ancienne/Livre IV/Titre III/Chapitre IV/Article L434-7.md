@@ -24,3 +24,8 @@ cents salariés, il est constitué, au sein du comité d'entreprise, une commiss
 d'information et d'aide au logement des salariés tendant à faciliter l'accession
 des salariés à la propriété et à la location des locaux d'habitation destinés à
 leur usage personnel.
+
+Dans les entreprises employant au moins deux cents salariés, le comité
+d'entreprise constitue une commission de l'égalité professionnelle qui est
+notamment chargée de préparer les délibérations du comité d'entreprise prévues à
+l'article L. 432-3-1.
