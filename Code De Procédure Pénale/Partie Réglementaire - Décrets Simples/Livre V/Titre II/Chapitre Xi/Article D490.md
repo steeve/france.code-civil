@@ -8,5 +8,5 @@ Les personnes poursuivies ou condamnées pour infractions de presse, sauf si ces
 infractions constituent des outrages aux bonnes moeurs, ou des actes de chantage
 ou de provocations au meurtre ;
 
-Les personnes poursuivies ou condamnées pour crimes et délits contre la sûreté
-de l'Etat.
+Les personnes poursuivies ou condamnées pour atteintes aux intérêts fondamentaux
+de la nation.

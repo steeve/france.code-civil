@@ -12,6 +12,6 @@ au procureur général par l'article 505 n'est pas pris en considération à cet
 
 Sont indistinctement désignés par le mot prévenus, tous les détenus qui sont
 sous le coup de poursuites pénales et n'ont pas fait l'objet d'une condamnation
-définitive au sens précisé ci-dessus, c'est-à-dire aussi bien les inculpés, les
-prévenus, et les accusés, que les condamnés ayant formé opposition, appel ou
-pourvoi.
+définitive au sens précisé ci-dessus, c'est-à-dire aussi bien les personnes
+mises en examen, les prévenus, et les accusés, que les condamnés ayant formé
+opposition, appel ou pourvoi.

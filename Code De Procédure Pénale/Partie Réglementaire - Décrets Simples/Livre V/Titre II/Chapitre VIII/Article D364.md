@@ -1,16 +1,8 @@
 Article D364
 ----
-Un ou plusieurs médecins sont désignés par le directeur régional des services
-pénitentiaires auprès de chaque établissement pénitentiaire, selon son
-importance, sur proposition du chef de l'établissement pénitentiaire, après
-consultation de l'ordre départemental des médecins et avis du préfet.
+Si un détenu se livre à une grève de la faim prolongée, il ne peut être traité
+sans son consentement, sauf lorsque son état de santé s'altère gravement et
+seulement sur décision et sous surveillance médicales.
 
-La désignation de ces médecins est acquise pour une durée de trois ans,
-renouvelable par reconduction expresse du directeur régional.
-
-Les médecins coordinateurs titulaires d'un contrat sont désignés par le ministre
-de la justice après consultation de l'ordre départemental des médecins et avis
-du préfet.
-
-En cas d'absence ou d'empêchement, le ou les médecins titulaires sont remplacés
-temporairement par un médecin agréé par le directeur régional.
+Il en est rendu compte aux autorités à prévenir en cas d'incident dans les
+conditions visées à l'article D. 280.

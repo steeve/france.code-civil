@@ -1,7 +1,7 @@
 Article D255
 ----
-Dans chaque prison un règlement intérieur détermine le contenu du régime propre
-à l'établissement.
+Dans chaque établissement pénitentiaire un règlement intérieur détermine le
+contenu du régime propre à l'établissement.
 
 Le règlement intérieur établi par le chef d'établissement, ainsi que toute
 modification apportée à ce document, sont transmis pour approbation au directeur

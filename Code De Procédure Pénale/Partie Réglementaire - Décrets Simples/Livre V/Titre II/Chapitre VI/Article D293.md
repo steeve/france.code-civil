@@ -10,7 +10,7 @@ au procureur de la République du lieu de détention.
 Ce magistrat transmet l'ordre au chef de l'établissement pénitentiaire après y
 avoir apposé son visa et prend toutes dispositions nécessaires pour que le
 transfèrement ou l'extraction ait lieu dans les conditions de sécurité prévues
-aux articles D294 à D296.
+aux articles D. 294 à D. 296.
 
 L'ordre ainsi donné est conservé au greffe de l'établissement pénitentiaire, en
 original ou en copie certifiée conforme.

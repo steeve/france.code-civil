@@ -1,8 +1,7 @@
 Article D532
 ----
 Les mesures d'aide ont pour objet de susciter et de seconder les efforts du
-condamné en vue de son reclassement social, et notamment de sa réadaptation
-familiale et professionnelle.
+condamné en vue de sa réinsertion sociale, familiale et professionnelle.
 
 Elle s'exerce sous la forme d'aide psychologique et, s'il y a lieu, matérielle
 apportée par le comité de probation et d'assistance aux libérés, ou sur

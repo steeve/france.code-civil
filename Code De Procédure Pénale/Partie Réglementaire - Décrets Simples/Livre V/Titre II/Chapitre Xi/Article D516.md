@@ -17,5 +17,5 @@ conditions atmosphériques et des nécessités du service.
 
 Les détenus âgés de moins de vingt et un ans doivent être séparés des adultes.
 Cependant, ils peuvent participer en même temps que les adultes aux offices
-religieux et, à titre exceptionnel, aux autres activités organisées dans la
-prison.
+religieux et, à titre exceptionnel, aux autres activités organisées dans
+l'établissement pénitentiaire.

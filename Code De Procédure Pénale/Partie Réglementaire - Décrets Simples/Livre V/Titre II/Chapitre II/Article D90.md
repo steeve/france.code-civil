@@ -1,14 +1,13 @@
 Article D90
 ----
 Pour les détenus dont l'isolement n'est pas assuré dans les conditions prévues à
-l'article D89, les catégories suivantes doivent être séparées :
+l'article D. 89, les catégories suivantes doivent être séparées :
 
-- les condamnés de police ;
+1° Les condamnés ;
 
-- les autres condamnés ;
+2° Les détenus soumis à la contrainte judiciaire ;
 
-- les détenus soumis à la contrainte judiciaire et les prévenus, conformément
-aux dispositions de l'article D59.
+3° Les prévenus conformément aux dispositions de l'article D. 59.
 
 Doivent être distingués au surplus, à l'intérieur de chacune de ces catégories,
 d'une part les détenus n'ayant pas subi antérieurement une peine privative de

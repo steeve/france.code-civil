@@ -1,13 +1,10 @@
 Article D474
 ----
-Les visiteurs maintiennent une collaboration étroite avec le ou les travailleurs
-sociaux de l'établissement qui ont pour tâche de rassembler, d'orienter et de
-coordonner leurs efforts ; ils sont réunis par celui-ci ou ceux-ci chaque
-trimestre en présence du chef de l'établissement, afin que soient confrontés les
-méthodes et les résultats obtenus.
+Les visiteurs de prison interviennent en collaboration avec le service
+socio-éducatif qui a pour tâche de coordonner leurs actions. Ils sont réunis
+chaque trimestre en présence du chef d'établissement.
 
-Ils doivent par ailleurs se conformer non seulement aux dispositions du présent
-titre et du règlement intérieur de l'établissement relatives à la discipline et
-à la sécurité, mais aussi aux obligations particulières résultant de leur
-qualité et de leur rôle, telles que ces obligations sont portées à leur
-connaissance au moment de leur agrément.
+Les visiteurs de prison s'engagent au respect des dispositions du présent titre
+et du règlement intérieur de l'établissement relatives à la discipline et à la
+sécurité, ainsi qu'aux obligations particulières résultant de leur qualité et de
+leur rôle, portées à leur connaissance lors de leur prise de fonction.

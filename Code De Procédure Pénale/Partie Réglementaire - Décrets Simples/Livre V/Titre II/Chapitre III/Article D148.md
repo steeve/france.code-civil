@@ -12,4 +12,4 @@ fichier.
 
 Il doit être présenté aux fins de contrôle et de visa, aux différentes autorités
 judiciaires à chacune de leurs visites, ainsi qu'aux autorités administratives
-qui procèdent à l'inspection générale de l'établissement [*obligation*].
+qui procèdent à l'inspection générale de l'établissement.

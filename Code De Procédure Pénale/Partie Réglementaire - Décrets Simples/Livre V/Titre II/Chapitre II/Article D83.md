@@ -6,4 +6,4 @@ le permet et sauf contre-indication médicale.
 
 Cette règle ne fait pas obstacle, toutefois, à ce que soient organisées des
 activités collectives ou des activités dirigées, dans les conditions prévues aux
-articles D362, D446 et D452.
+articles D. 446, D. 452 et D. 459-3.

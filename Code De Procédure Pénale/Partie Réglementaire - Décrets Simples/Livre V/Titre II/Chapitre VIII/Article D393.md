@@ -1,18 +1,15 @@
 Article D393
 ----
-Conformément aux dispositions de l'article L. 273 du Code de la santé publique,
-l'examen et le traitement prévus par les dispositions en vigueur relatives à la
-prophylaxie des maladies vénériennes sont obligatoires pour tous les détenus.
-Les prévenus ne sont soumis à cette obligation que si l'autorité sanitaire et
-l'administration pénitentiaire les considèrent, en raison de présomptions
-graves, précises et concordantes, atteints d'une maladie vénérienne.
+L'admission dans un établissement de santé à vocation nationale ou dans un
+établissement de santé situé dans une autre direction régionale des services
+pénitentiaires que celle où le détenu est écroué doit être autorisée par le
+ministre de la justice. Le directeur régional des services pénitentiaires
+autorise cette hospitalisation dans les autres cas. Ces autorisations sont
+données après avis d'un médecin intervenant à l'établissement.
 
-L'examen et les soins sont assurés dans les établissements pénitentiaires par la
-direction départementale de l'action sanitaire et sociale, conformément à la
-réglementation générale en la matière.
+En ce qui concerne les prévenus, l'autorisation d'hospitalisation suppose
+l'accord préalable du magistrat saisi du dossier de l'information.
 
-A cet effet, les médecins, infirmières et assistantes sociales des services
-spécialisés ont accès dans les établissements pénitentiaires. Sur la proposition
-du directeur départemental de l'action sanitaire et sociale, l'autorisation de
-pénétrer dans les prisons leur est délivrée à titre nominatif par le directeur
-régional des services pénitentiaires.
+En cas d'urgence, il peut toutefois être procédé à l'hospitalisation avant
+réception de l'accord des autorités judiciaires et administratives compétentes,
+auxquelles il en est rendu compte immédiatement.

@@ -11,8 +11,8 @@ En cas d'urgence, le chef de l'établissement peut faire procéder à la
 réintégration immédiate du détenu sauf à en rendre compte sans délai à ce
 magistrat.
 
-Le juge de l'application des peines prononce, le cas échéant, le retrait de la
-mesure lorsque celle-ci a été accordée par lui.
+Conformément à l'article D. 117-2, le juge de l'application des peines prononce,
+le cas échéant, le retrait de la mesure lorsque celle-ci a été accordée par lui.
 
 Lorsque le régime de semi-liberté a été décidé par la juridiction de jugement,
 le tribunal de grande instance du lieu de détention prononce son retrait

@@ -19,7 +19,7 @@ d'arrêt située au siège d'un tribunal pour enfant ;
 
 6° Un officier représentant le général commandant la région militaire, si la
 commission est instituée auprès d'un établissement où sont incarcérés des
-militaires et marins ;
+militaires ;
 
 7° Un membre du conseil général élu par ses collègues ;
 
@@ -32,16 +32,29 @@ représentant ;
 
 11° Le président de la chambre de commerce et d'industrie ou son représentant ;
 
-12° Le président de la chambre des métiers ou son représentant ;
+12° Le président de la chambre de métiers et de l'artisanat ou son représentant
+;
 
-13° Le directeur départemental de l'action sanitaire et sociale ou son
+13° Le directeur départemental des affaires sanitaires et sociales ou son
 représentant ;
 
-14° Un représentant des oeuvres d'assistance aux détenus ou aux libérés agréées
+14° Le directeur départemental de la protection judiciaire de la jeunesse ou son
+représentant, si l'établissement pénitentiaire est habilité à recevoir des
+mineurs ;
+
+15° Le directeur départemental de la jeunesse et des sports ou son représentant
+;
+
+16° Le commandant du groupement de gendarmerie du département ou son
+représentant ;
+
+17° Le directeur départemental de la sécurité publique ou son représentant ;
+
+18° Un représentant des oeuvres d'assistance aux détenus ou aux libérés agréées
 au titre de l'aide sociale, désigné sur la proposition du juge de l'application
 des peines ;
 
-15° Trois à six personnes appartenant à des oeuvres sociales ou choisies en
+19° Trois à six personnes appartenant à des oeuvres sociales ou choisies en
 raison de l'intérêt qu'elles portent aux problèmes pénitentiaires et
 post-pénaux.
 
@@ -50,7 +63,7 @@ une période de deux ans renouvelable par un arrêté préfectoral dont une
 ampliation est adressée au ministre de la justice.
 
 Le chef de l'établissement et les membres du personnel, les visiteurs agréés,
-les membres des services médico-sociaux ainsi que les aumôniers attachés à
+les personnels socio-éducatifs ainsi que les aumôniers attachés à
 l'établissement, et toutes autres personnes y exerçant habituellement une
 activité ne peuvent faire partie de la commission de surveillance.
 

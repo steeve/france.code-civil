@@ -1,11 +1,11 @@
 Article D374
 ----
-Il appartient au médecin de vérifier l'observation des règles d'hygiène
-collective et individuelle prescrites à la section I.
+Si une intervention médicale paraît nécessaire en dehors des heures d'ouverture
+de l'unité de consultations et de soins ambulatoires, les personnels
+pénitentiaires appliquent les directives prévues par le protocole mentionné au
+premier alinéa de l'article D. 369.
 
-A cet effet, il doit visiter l'ensemble des services et des bâtiments de la
-prison aussi fréquemment que possible, et au moins une fois par trimestre.
-
-En signalant les imperfections ou insuffisances éventuellement constatées, il
-donne son avis sur les moyens d'y remédier et ses observations sont portées par
-le chef de l'établissement à la connaissance du directeur régional.
+Dans les établissements où les soins sont assurés par la structure visée à
+l'article D. 371, les personnels pénitentiaires appliquent les prescriptions
+définies dans le cadre du cahier des clauses administratives et techniques
+particulières.

@@ -8,4 +8,5 @@ Il lui appartient de faire part de ses observations éventuelles aux autorités
 compétentes pour y donner suite.
 
 Il adresse chaque année au ministre de la justice, sous le couvert des chefs de
-cour, un rapport sur l'application des peines.
+cour et de tribunaux de grande instance, un rapport sur l'application des
+peines.

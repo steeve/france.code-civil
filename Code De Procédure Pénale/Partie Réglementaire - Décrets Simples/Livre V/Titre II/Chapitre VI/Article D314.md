@@ -10,4 +10,4 @@ réintégration.
 Celle-ci doit avoir lieu dans le délai le plus bref et, en toute hypothèse autre
 que celle d'une hospitalisation, le jour même de l'extraction. Lorsqu'il est
 nécessaire que la mesure motivant l'extraction se prolonge pendant plusieurs
-jours, le détenu est réintégré chaque soir à la prison.
+jours, le détenu est réintégré chaque soir à l'établissement pénitentiaire.

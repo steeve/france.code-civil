@@ -1,9 +1,13 @@
 Article D388
 ----
-Le séjour des détenus dans les hôpitaux doit être réduit au temps strictement
-nécessaire ; tout détenu qui peut recevoir à l'infirmerie de la prison les soins
-qu'exige encore son état doit être réintégré.
+L'habilitation peut être suspendue par le directeur régional des services
+pénitentiaires pour les praticiens hospitaliers à temps plein, ou par le chef de
+l'établissement pénitentiaire pour les autres personnels hospitaliers, en cas de
+manquements graves aux dispositions du code de procédure pénale ou du règlement
+intérieur. Le directeur de l'établissement de santé doit en être préalablement
+informé.
 
-A cette fin, les médecins de l'administration pénitentiaire doivent suivre la
-situation sanitaire des détenus hospitalisés en liaison avec les médecins des
-services hospitaliers.
+L'autorité qui a délivré l'habilitation rend, dans le mois suivant la
+suspension, une décision motivée de maintien ou de retrait de l'habilitation,
+après avoir recueilli les observations de la personne habilitée et l'avis de
+l'autorité investie du pouvoir de nomination.

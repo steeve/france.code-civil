@@ -5,8 +5,8 @@ jours en danger, ou victime d'un accident grave, ou à être placé dans un
 établissement psychiatrique, sa proche famille doit en être immédiatement
 informée.
 
-A cet effet, chaque prisonnier est invité, lors de son écrou, à indiquer la ou
-les personnes qui seraient à prévenir.
+A cet effet, chaque détenu est invité, lors de son écrou, à indiquer la ou les
+personnes qui seraient à prévenir.
 
-L'aumonier, le travailleur social et le visiteur de prison qui suivent ce détenu
-sont également avisés, s'il y a lieu.
+L'aumonier et le visiteur de prison qui suivent ce détenu sont également avisés,
+s'il y a lieu.

@@ -24,7 +24,8 @@ Le directeur des services judiciaires au ministère de la justice ;
 
 Le directeur des affaires criminelles et des grâces au ministère de la justice ;
 
-Le directeur de l'éducation surveillée au ministère de la justice ;
+Le directeur de la protection judiciaire de la jeunesse au ministère de la
+justice ;
 
 Le chef du service de l'administration générale et de l'équipement au ministère
 de la justice ;
@@ -34,9 +35,9 @@ Le directeur général de la police nationale au ministère de l'intérieur ;
 Le directeur général du travail et de l'emploi au ministère d'Etat chargé des
 affaires sociales ;
 
-Le directeur général de la santé publique au ministère de la santé publique ;
+Le directeur général de la santé au ministère chargé de la santé ;
 
-Le directeur de l'action sociale au ministère de la santé publique ;
+Le directeur de l'action sociale au ministère des affaires sociales ;
 
 Le chef du service de l'inspection générale de l'administration au ministère de
 l'intérieur ;
@@ -92,7 +93,7 @@ Un membre du Conseil économique et social ;
 Un membre du Conseil supérieur de la magistrature ;
 
 Sont désignés pour une durée de trois ans dans les conditions visées à l'article
-D238 :
+D. 238 :
 
 Un conseiller d'Etat ;
 
@@ -104,7 +105,7 @@ Un juge de l'application des peines ;
 
 Un professeur de droit pénal, de criminologie et science pénitentiaire ;
 
-Un professeur d'hygiène et de médecine préventive ;
+Un professeur de santé publique ;
 
 Un professeur de médecine légale ;
 
@@ -117,4 +118,4 @@ mettent en mesure d'apporter une contribution utile aux débats.
 
 IV - Le conseil supérieur, lorsqu'il siège en commission, est composé d'un
 président, du rapporteur général, de membres désignés dans les conditions visées
-à l'article D238 et du secrétaire.
+à l'article D. 238 et du secrétaire.

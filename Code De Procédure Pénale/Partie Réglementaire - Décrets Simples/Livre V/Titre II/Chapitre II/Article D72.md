@@ -1,12 +1,12 @@
 Article D72
 ----
-Les maisons d'arrêt reçoivent les condamnés à titre définitif qui n'ont pas à
-subir une longue peine au sens du premier alinéa de l'article 717.
+Les centres de détention à vocation régionale reçoivent les condamnés à une ou
+plusieurs peines d'emprisonnement dont la durée totale n'excède pas cinq ans.
 
-Ces condamnés sont maintenus dans l'établissement où ils ont été écroués ou sont
-envoyés dans une autre maison d'arrêt de la région.
+Ils peuvent recevoir les condamnés à une ou plusieurs peines dont la durée
+totale est inférieure à sept ans, si la durée de l'incarcération restant à subir
+au moment où leur condamnation ou la dernière de leurs condamnations est devenue
+définitive, est inférieure à cinq ans.
 
-Dans ce dernier cas, la décision d'affectation appartient au directeur régional
-des services pénitentiaires [*compétence*] dans le cadre des mesures indiquées à
-l'article D301. Elle est prise en tenant compte des possibilités de traitement
-individuel et de la capacité offertes par chaque établissement.
+Un arrêté du ministre de la justice fixe la liste des centres de détention à
+vocation régionale.

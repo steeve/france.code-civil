@@ -1,8 +1,8 @@
 Article D64
 ----
 Les permis de visite sont délivrés pour les prévenus par le magistrat saisi du
-dossier de l'information et ils sont utilisés dans les conditions visées aux
-articles D403 et suivants.
+dossier de l'information dans les conditions prévues par l'article 145-4 et ils
+sont utilisés dans les conditions visées aux articles D. 403 et suivants.
 
 Sauf disposition contraire, ces permis sont valables jusqu'au moment où la
 condamnation éventuelle acquiert un caractère définitif. En conséquence, il n'y

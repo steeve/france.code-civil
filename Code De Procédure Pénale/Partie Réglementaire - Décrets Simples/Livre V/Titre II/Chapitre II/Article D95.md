@@ -12,4 +12,4 @@ de loisirs.
 Le contenu de l'emploi du temps, et notamment la part faite à ces diverses
 activités, doit permettre aux condamnés de conserver ou de développer leurs
 aptitudes intellectuelles, psychologiques et physiques pour préparer leur
-réadaptation ultérieure.
+réinsertion ultérieure.

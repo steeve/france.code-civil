@@ -6,4 +6,4 @@ suffisant.
 
 Chaque détenu peut demander à être entendu par les magistrats et fonctionnaires
 chargés de l'inspection ou de la visite de l'établissement, hors la présence de
-tout membre du personnel de la prison.
+tout membre du personnel de l'établissement pénitentiaire.

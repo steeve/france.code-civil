@@ -6,7 +6,8 @@ détenus peuvent être autorisés à entreprendre ou à poursuivre individuellem
 des études techniques, notamment à l'aide des cours par correspondance ainsi
 qu'il est précisé à l'article D. 454.
 
-Par ailleurs, le régime de semi-liberté peut être accordé dans les conditions
-fixées aux articles D. 136 et suivants, afin que soit suivie, à l'extérieur de
-l'établissement, une formation professionnelle qui apparaîtrait indispensable à
-la réinsertion sociale du condamné.
+Par ailleurs, le régime du placement à l'extérieur sans surveillance tel que
+défini à l'article D. 136 et le régime de la semi-liberté tel que prévu par
+l'article D. 137 peuvent être accordés afin que soit suivie une formation
+professionnelle ou une action de préparation à l'emploi qui apparaîtrait
+indispensable à la réinsertion sociale du condamné.

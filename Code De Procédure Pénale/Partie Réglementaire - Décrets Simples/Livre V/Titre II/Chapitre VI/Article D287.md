@@ -1,14 +1,14 @@
 Article D287
 ----
-Des instructions de service déterminent les conditions dans lesquelles doivent
-être rédigés et envoyés :
+Des instructions de service déterminent les conditions dans lesquelles :
 
-- les fiches d'identité judiciaire destinées à permettre l'identification
-anthropométrique de chaque détenu ;
+1° Les services de l'identité judiciaire du ministère de l'intérieur informent
+l'établissement pénitentiaire des opérations anthropométriques ;
 
-- les bulletins individuels destinés à renseigner les services de police sur
-l'entrée, la sortie et le transfèrement éventuel de chaque détenu ;
+2° Le recto de chaque fiche pénale intitulé "fiche d'exécution des peines" est
+rédigé et transmis en copie au casier judiciaire, conformément aux dispositions
+des articles R. 69 et R. 72 ;
 
-- les notes individuelles prévues à l'article R69 concernant les dates de
-l'expiration des peines corporelles et l'exécution de la contrainte judiciaire,
-destinées au casier judiciaire.
+3° Les officiers de police judiciaire habilités de la police nationale et de la
+gendarmerie nationale reçoivent les informations relatives à l'identité des
+personnes incarcérées, dès l'incarcération et à la libération.

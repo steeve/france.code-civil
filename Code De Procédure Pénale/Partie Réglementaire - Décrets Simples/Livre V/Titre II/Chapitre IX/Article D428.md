@@ -1,9 +1,9 @@
 Article D428
 ----
-Les renseignements relatifs au lieu d'incarcération, à l'état de santé, à la
-situation pénale ou à la date de libération d'un détenu, doivent être fournis
-par les services pénitentiaires exclusivement aux autorités administratives et
-judiciaires qui sont qualifiées pour en connaître.
+Les renseignements relatifs au lieu d'incarcération, à la situation pénale ou à
+la date de libération d'un détenu, doivent être fournis par les services
+pénitentiaires exclusivement aux autorités administratives et judiciaires qui
+sont qualifiées pour en connaître.
 
 Leur communication à des tiers est subordonnée, d'une part, à l'appréciation de
 l'administration pénitentiaire ou, s'il y a lieu, du magistrat saisi du dossier

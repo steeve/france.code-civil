@@ -9,4 +9,4 @@ l'intéressé reprend le numéro d'écrou qui lui était attribué avant sa sort
 
 Ces formalités d'écrou sous forme simplifiée sont également applicables aux
 détenus qui font l'objet d'un transfèrement dans les conditions prévues à
-l'article D. 313-1 du C.P.P.
+l'article D. 313-1 du C. P. P.

@@ -1,9 +1,12 @@
 Article D459
 ----
-Les détenus qui reçoivent un enseignement professionnel dans les établissements
-pénitentiaires spécialisés subissent les épreuves qui sanctionnent leurs études
-dans les conditions fixées au règlement intérieur de ces établissements.
+Les détenus qui reçoivent une formation professionnelle subissent les épreuves
+qui la sanctionnent, dans les conditions fixées par les textes les réglementant.
 
-Pour les autres, l'autorisation de se présenter aux examens est donnée, après
-avis des services compétents du ministère du travail, dans les conditions fixées
-à l'article D. 455.
+Si les épreuves ne peuvent se dérouler à l'établissement, les candidats sont
+extraits de l'établissement pénitentiaire ou, si leur situation pénale le
+permet, bénéficient d'une permission de sortir dans les conditions prévues à
+l'article D. 143.
+
+Les examens donnent lieu à la délivrance de certificats, brevets ou diplômes qui
+ne font pas apparaître l'état de détention des intéressés.

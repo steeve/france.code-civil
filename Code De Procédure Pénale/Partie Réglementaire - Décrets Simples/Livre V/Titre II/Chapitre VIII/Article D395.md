@@ -1,12 +1,13 @@
 Article D395
 ----
-Des consultations d'hygiène mentale peuvent être organisées dans chaque maison
-d'arrêt par les services qualifiés des directions départementales de l'action
-sanitaire et sociale.
+Les détenus admis à l'hôpital sont considérés comme continuant à subir leur
+peine ou, s'il s'agit de prévenus, comme placés en détention provisoire.
 
-Dans cette hypothèse, les médecins de ces services, ainsi que leurs assistants
-ou assistantes, ont accès dans l'établissement en vertu d'une autorisation
-délivrée à titre nominatif par le directeur régional des services pénitentiaires
-sur la proposition du directeur départemental de l'action sanitaire et sociale.
-Leurs examens doivent être pratiqués en liaison avec le médecin de la prison
-auquel leurs observations sont au surplus communiquées.
+Les règlements pénitentiaires demeurent applicables à leur égard dans toute la
+mesure du possible ; il en est ainsi notamment en ce qui concerne leurs
+relations avec l'extérieur.
+
+Par dérogation aux dispositions de l'article D. 318, le détenu admis à l'hôpital
+peut être autorisé par le chef d'établissement à détenir une somme d'argent
+provenant de la part disponible de son compte nominatif pour effectuer, à
+l'intérieur de l'établissement de santé, des dépenses courantes.

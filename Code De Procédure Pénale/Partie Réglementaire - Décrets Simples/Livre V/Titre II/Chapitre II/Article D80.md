@@ -1,22 +1,24 @@
 Article D80
 ----
-Le chef d'établissement signale à l'administration centrale chaque condamné
-auquel il reste à subir une peine d'une durée supérieure à deux ans, ou
-plusieurs peines dont le total est supérieur à deux ans, après le moment où la
-condamnation, ou la dernière des condamnations, est devenue définitive, au moyen
-d'une notice d'orientation. Il communique le texte de cette notice au juge de
-l'application des peines afin que ce magistrat soit en mesure de formuler son
-avis sur la destination du condamné.
+Le ministre de la justice dispose d'une compétence d'affectation des condamnés
+dans toutes les catégories d'établissement. Sa compétence est exclusive pour les
+affectations dans les maisons centrales et les centres de détention à vocation
+nationale.
 
-La notice contient, avec les propositions du chef d'établissement, les
-principaux renseignements de nature à permettre l'orientation de l'intéressé, et
-son examen donne lieu :
+L'affectation des condamnés dans les centres de détention à vocation régionale
+est décidée par le directeur régional des services pénitentiaires. Celui-ci peut
+déléguer sa compétence aux directeurs des établissements pénitentiaires
+comprenant un quartier maison d'arrêt et un quartier centre de détention
+régional, pour l'affectation des condamnés qui y sont incarcérés et auxquels il
+reste à subir, au moment où leur condamnation ou la dernière de leurs
+condamnations est devenue définitive, une incarcération d'une durée inférieure à
+deux ans.
 
-- soit à une décision d'envoi au centre national d'observation ;
+Les condamnés affectés dans des maisons d'arrêt sont maintenus dans
+l'établissement où ils sont écroués ou sont transférés dans une autre maison
+d'arrêt de la région. Dans ce second cas, l'affectation est décidée par le
+directeur régional des services pénitentiaires en tenant compte notamment de la
+capacité offerte par chaque établissement.
 
-- soit à la délivrance d'un ordre de transfèrement à destination d'un
-établissement affecté à l'exécution des peines, s'il apparaît immédiatement que
-cet établissement répond à la situation du condamné ;
-
-- soit au maintien de l'intéressé à l'établissement où il se trouve, ou à sa
-mise à la disposition du directeur régional.
+Dans tous les cas, la décision est prise, sauf urgence, après consultation du
+juge de l'application des peines.

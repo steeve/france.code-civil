@@ -1,13 +1,14 @@
 Article D285
 ----
-Le jour de son arrivée à la prison ou, au plus tard, le lendemain, chaque détenu
-doit être visité par le chef de l'établissement ou par un de ses subordonnés
-immédiats.
+Le jour de son arrivée à l'établissement pénitentiaire ou, au plus tard, le
+lendemain, chaque détenu doit être visité par le chef de l'établissement ou par
+un de ses subordonnés immédiats.
 
-Dans les délais les plus brefs, le détenu est soumis à un examen médical destiné
-à déceler toute affection de nature contagieuse ou évolutive qui nécessiterait
-des mesures d'isolement ou des soins urgents.
+Dans les délais les plus brefs, le détenu est soumis à un examen médical dans
+les conditions prévues à l'article D. 381.
 
 Le détenu est également visité, dès que possible, par un membre du service
-socio-éducatif et, s'il y a lieu, par le ministre de son culte, conformément aux
-dispositions des articles D436 et D464.
+socio-éducatif, conformément aux dispositions de l'article D. 464.
+
+Le détenu qui manifeste son intention de pratiquer sa religion peut être visité
+par le ministre du culte, conformément aux dispositions de l'article D. 436.

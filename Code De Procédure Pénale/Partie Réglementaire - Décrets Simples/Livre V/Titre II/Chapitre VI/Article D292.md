@@ -6,10 +6,11 @@ y déférer sans le moindre retard, à moins d'impossibilité matérielle ou de
 circonstances particulières dont il aurait alors à rendre compte immédiatement à
 l'autorité requérante.
 
-Il en est notamment ainsi lorsque le médecin juge intransportable le détenu à
-transférer ou à extraire. Le certificat délivré par ce praticien permet
-l'application éventuelle des dispositions de l'article 416.
+Il en est notamment ainsi lorsqu'il est établi par un médecin, habilité ou
+autorisé à intervenir dans l'établissement pénitentiaire, que l'état de santé du
+détenu ne permet pas son transfert ou son extraction. Le certificat délivré par
+ce praticien permet l'application éventuelle des dispositions de l'article 416.
 
 Au surplus, la situation du détenu du point de vue judiciaire peut faire
 obstacle à son transfèrement ou en faire différer l'exécution ainsi qu'il est
-précisé à l'article D302.
+précisé à l'article D. 302.

@@ -9,6 +9,6 @@ tiers. L'employeur doit se conformer aux indications qui lui sont données à ce
 égard.
 
 A la fin de chaque journée de travail, les détenus sont réintégrés à
-l'établissement pénitentiaire, si celui-ci est assez proche. Dans la négative,
-leur surveillance nocturne est assurée dans les locaux de cantonnement aménagés
-sur place.
+l'établissement pénitentiaire, à moins que, sur proposition de l'administration
+pénitentiaire, il n'en soit décidé autrement par le juge de l'application des
+peines.

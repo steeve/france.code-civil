@@ -1,12 +1,9 @@
 Article D371
 ----
-Le résultat de tout examen médical ou dentaire subi par un détenu est porté sur
-une fiche individuelle, ainsi que toutes indications relatives à l'état de santé
-et au traitement de l'intéressé.
-
-La fiche est classée à l'infirmerie de l'établissement à la seule disposition du
-personnel médical et infirmier, et, en cas de transfèrement, elle est incluse
-dans le dossier du détenu visé à l'article D. 161 ou transmise directement sous
-pli fermé adressé au médecin de l'établissement de destination.
-
-A la libération, elle est placée audit dossier.
+Dans les établissements pénitentiaires dont le fonctionnement est régi par une
+convention passée en application de la loi n° 87-432 du 22 juin 1987 relative au
+service public pénitentiaire, les missions décrites au premier alinéa de
+l'article D. 368 et les attributions afférentes relèvent de l'équipe médicale
+placée sous l'autorité d'un médecin, responsable du service mis en place en
+application de cette convention, dans le cadre du cahier des clauses
+administratives et techniques particulières précisant son fonctionnement.

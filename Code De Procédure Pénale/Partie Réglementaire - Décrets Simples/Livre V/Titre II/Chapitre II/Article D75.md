@@ -1,16 +1,12 @@
 Article D75
 ----
-Des établissements ou des quartiers d'établissements appartenant à la catégorie
-des maisons d'arrêt, des maisons centrales et des centres de détention ont une
-vocation sanitaire et sont aménagés, pour que les détenus puissent y recevoir
-les soins ou y être soumis à la surveillance d'ordre médical que nécessite soit
-leur âge ou leur infirmité, soit leur état de santé physique ou mental.
+La procédure d'orientation est obligatoirement mise en oeuvre pour les condamnés
+dont le temps d'incarcération restant à subir est supérieur à un an. Pour les
+condamnés mineurs, elle est obligatoire si le temps d'incarcération à subir est
+supérieur à trois mois.
 
-L'admission est prononcée, sur avis médical, par l'administration centrale ou
-par le Directeur régional, selon les dispositions [*conditions*] des articles
-D300, D301 et D383 ; en ce qui concerne les détenus malades, la décision de
-sortie est prise dans des conditions identiques.
-
-Les condamnés placés dans ces établissements reçoivent un traitement médical
-approprié, mais ils demeurent soumis au régime des prisons ordinaires, en toutes
-celles de ses dispositions qui ne peuvent nuire à ce traitement.
+Elle s'opère dans les conditions définies aux articles D. 76 à D. 79, à l'aide
+des renseignements qui sont fournis par l'autorité judiciaire et par
+l'administration pénitentiaire sur les intéressés, et, éventuellement, grâce aux
+examens auxquels ces derniers sont soumis au centre national d'observation de
+l'administration pénitentiaire.

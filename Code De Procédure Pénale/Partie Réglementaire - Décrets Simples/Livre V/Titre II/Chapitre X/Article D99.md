@@ -1,8 +1,8 @@
 Article D99
 ----
-De même que les prévenus, les condamnés de police, les condamnés bénéficiant du
-régime visé à l'article D493 et les détenus pour dettes peuvent demander qu'il
-leur soit donné du travail.
+Les détenus, quelle que soit leur catégorie pénale, peuvent demander qu'il leur
+soit proposé un travail.
 
-Dans cette hypothèse, ils sont assujettis aux mêmes règles que les condamnés
-pour l'organisation et la discipline du travail.
+L'inobservation par les détenus des ordres et instructions donnés pour
+l'exécution d'une tâche peut entraîner la mise à pied ou le déclassement de
+l'emploi.

@@ -1,9 +1,8 @@
 Article D156
 ----
-Un dossier spécial est ouvert pour tout condamné qui doit subir une peine
-privative de liberté d'une durée supérieure à un an, ou plusieurs peines dont le
-total est supérieur à un an, après le moment où sa condamnation est devenue
-définitive.
+Un dossier spécial est ouvert pour tout condamné ayant fait l'objet d'une
+procédure d'orientation suivant les prescriptions des articles D. 75 et
+suivants.
 
-Ce dossier comprend les cinq parties visées aux articles D157, D159, D161, D162
-et D163.
+Ce dossier comprend les quatre parties visées aux articles D. 157, D. 159, D.
+162 et D. 163.

@@ -1,8 +1,8 @@
 Article D358
 ----
-Les détenus sont mis en mesure de se raser ou de tailler leur barbe ou moustache
-deux fois par semaine au moins, et avant chaque sortie ou conduite à
-l'extérieur.
+Les détenus prennent une douche à leur arrivée à l'établissement. Dans toute la
+mesure du possible, ils doivent pouvoir se doucher au moins trois fois par
+semaine ainsi qu'après les séances de sport et au retour du travail.
 
-Sur prescription du médecin, la barbe et la moustache des détenus peuvent être
-rasées et les cheveux coupés court.
+Les conditions de l'utilisation des douches sont fixées par le règlement
+intérieur de l'établissement.

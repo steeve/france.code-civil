@@ -1,8 +1,10 @@
 Article D384
 ----
-L'hospitalisation est soumise à autorisation ministérielle donnée sur avis du
-médecin de l'établissement de détention. En ce qui concerne les prévenus, cette
-autorisation suppose l'accord préalable de l'autorité judiciaire.
+Des moyens de prévention et d'information sur les maladies transmissibles sont
+mis à la disposition des personnes incarcérées.
 
-En cas d'urgence, il peut toutefois être procédé à l'hospitalisation avant
-réception de l'autorisation ministérielle.
+Le médecin responsable des structures visées aux articles D. 368 et D. 371
+prescrit, en liaison avec le médecin de prévention du personnel pénitentiaire,
+toutes les mesures nécessaires à la prophylaxie individuelle et collective des
+maladies transmissibles. Ces mesures sont mises en oeuvre en collaboration avec
+l'administration pénitentiaire.

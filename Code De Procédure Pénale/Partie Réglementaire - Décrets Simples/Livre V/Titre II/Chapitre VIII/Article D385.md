@@ -1,8 +1,12 @@
 Article D385
 ----
-Les frais de séjour des détenus hospitalisés sont imputables sur les chapitres
-du budget du ministère de la justice relatifs à l'entretien des détenus.
+Dans le cadre de la prise en charge globale des personnes présentant une
+dépendance à un produit licite ou illicite, les secteurs de psychiatrie générale
+et les secteurs de psychiatrie en milieu pénitentiaire favorisent et
+coordonnent, en collaboration avec les unités de consultations et de soins
+ambulatoires, les interventions, au sein de l'établissement pénitentiaire, des
+équipes des structures spécialisées de soins, notamment des centres spécialisés
+de soins aux toxicomanes et des centres d'hygiène alimentaire et d'alcoologie.
 
-Toutefois, les frais de transfèrement et de séjour des militaires et marins sont
-à la charge du ministère de la défense lorsque les intéressés sont dirigés sur
-un hôpital militaire.
+Dans les établissements visés à l'article D. 371, cette coordination est assurée
+par les médecins psychiatres du service médical.

@@ -1,22 +1,21 @@
 Article D70
 ----
-Les établissements qui reçoivent les condamnés définitifs sont :
+Les établissements qui reçoivent les condamnés définitifs sont les maisons
+centrales, les centres de détention à vocation nationale ou régionale selon les
+distinctions prévues par les articles D. 71 et D. 72 et les centres de
+semi-liberté.
 
-Pour les condamnés à une longue peine, au sens du premier alinéa de l'article
-717, les maisons centrales et les centres de détention à vocation nationale ou
-régionale dont les régimes et les critères d'affectation sont respectivement
-définis aux articles D70-1, D70-2 et D73 ;
+Les maisons centrales comportent une organisation et un régime de sécurité dont
+les modalités internes permettent également de préserver et de développer les
+possibilités de réinsertion sociale des condamnés.
 
-Pour les autres condamnés, les maisons d'arrêt.
+Les centres de détention comportent un régime principalement orienté vers la
+réinsertion sociale des condamnés.
 
-Des établissements ou quartiers d'établissements appartenant à l'une des
-catégories visées ci-dessus sont spécialement destinés à recevoir, en fonction,
-des critères définis au premier alinéa de l'article D69-1 :
+Les condamnés faisant l'objet d'une mesure de semi-liberté sont détenus dans les
+centres ou quartiers de semi-liberté. Les condamnés faisant l'objet d'une mesure
+de placement à l'extérieur dans les conditions fixées par l'article D. 136
+peuvent également y être détenus.
 
-- soit les mineurs et les jeunes adultes dont la peine expirera avant qu'ils
-aient atteint l'âge de vingt-huit ans ;
-
-- soit les détenus dont l'état de santé nécessite une prise en charge médicale.
-
-Par ailleurs, les condamnés admis au régime de la semi-liberté sont détenus dans
-des quartiers ou des centres destinés à cet effet.
+A titre exceptionnel, les maisons d'arrêt peuvent recevoir des condamnés, dans
+les conditions déterminées par l'article D. 73.

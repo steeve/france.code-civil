@@ -30,7 +30,7 @@ tractations avec des codétenus ou des personnes extérieures ;
 livrer à leur trafic, hors le cas prévu au 3° de l'article D. 249-1 ;
 
 10° De se trouver en état d'ébriété ou d'absorber sans autorisation médicale des
-substances de nature à troubler son comportement ;
+susbstances de nature à troubler son comportement ;
 
 11° De provoquer un tapage de nature à troubler l'ordre de l'établissement ;
 

@@ -10,11 +10,9 @@ l'influence que ce travail peut exercer sur les perspectives de sa réinsertion.
 Il est aussi tenu compte de sa situation familiale et de l'existence de parties
 civiles à indemniser.
 
-Les détenus peuvent être autorisés à travailler pour leur propre compte par le
-chef d'établissement s'il s'agit d'un membre du personnel de direction, sinon,
-par le directeur régional. Ils peuvent également être autorisés à travailler
-pour le compte d'associations constituées en vue de préparer leur réinsertion
-sociale et professionnelle.
+Les détenus peuvent être autorisés à travailler pour leur propre compte. Ils
+peuvent également être autorisés à travailler pour le compte d'associations
+constituées en vue de préparer leur réinsertion sociale et professionnelle.
 
-Ces associations sont agréées par décision du garde des sceaux, ministre de la
-justice.
+Ces associations sont agréées par décision du directeur régional des services
+pénitentiaires territorialement compétent.

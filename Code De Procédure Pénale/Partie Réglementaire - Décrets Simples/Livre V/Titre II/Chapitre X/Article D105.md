@@ -1,9 +1,9 @@
 Article D105
 ----
-Dans chaque établissement, des détenus sont affectés au service général de la
-prison, en vue de maintenir en état de propreté les locaux de la détention et
-d'assurer les différents travaux ou corvées nécessaires au fonctionnement des
-services.
+Dans chaque établissement, des détenus sont affectés au service général de
+l'établissement pénitentiaire, en vue de maintenir en état de propreté les
+locaux de la détention et d'assurer les différents travaux ou corvées
+nécessaires au fonctionnement des services.
 
 Ces détenus sont choisis de préférence parmi les condamnés n'ayant pas une
 longue peine à subir ; des prévenus ne peuvent être désignés qu'avec l'accord

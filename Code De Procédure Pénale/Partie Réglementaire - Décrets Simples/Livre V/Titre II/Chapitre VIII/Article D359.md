@@ -1,6 +1,7 @@
 Article D359
 ----
-A moins d'indication contraire du médecin, tous les détenus doivent être douchés
-au moins une fois par semaine.
+Le règlement intérieur de chaque établissement pénitentiaire doit réserver une
+partie de l'emploi du temps des détenus à la pratique d'exercices physiques.
 
-Il leur est également donné une douche à leur entrée.
+Tout détenu doit pouvoir effectuer chaque jour une promenade d'au moins une
+heure à l'air libre.

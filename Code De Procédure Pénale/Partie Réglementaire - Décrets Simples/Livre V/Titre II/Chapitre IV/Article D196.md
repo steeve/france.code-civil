@@ -1,38 +1,45 @@
 Article D196
 ----
-Pour assurer leur fonctionnement, les services extérieurs de l'administration
-pénitentiaire disposent des catégories de personnel suivantes :
+Pour assurer leur fonctionnement, les services déconcentrés de l'administration
+pénitentiaire disposent des catégories de personnels suivantes :
 
-1° Fonctionnaires placés par règlement d'administration publique sous statut
-spécial :
+1° Fonctionnaires des services déconcentrés de l'administration pénitentiaire
+placés par décret en Conseil d'Etat sous statut spécial :
 
-Personnel de direction : directeurs régionaux, directeurs, sous-directeurs ;
+a) Personnel de direction : corps des personnels de direction ;
 
-Personnel administratif : secrétaires administratifs, commis ;
+b) Personnel administratif : corps des attachés d'administration et
+d'intendance, corps des secrétaires administratifs, corps des adjoints
+administratifs ;
 
-Personnel technique et de formation professionnelle : instructeurs techniques,
-chefs de travaux ;
+c) Personnel technique et de formation professionnelle : corps des professeurs
+techniques d'enseignement professionnel et de travaux, corps des instructeurs
+techniques, corps des chefs de travaux ;
 
-Personnel éducatif et de probation : éducateurs, adjoints de probation ;
+d) Personnel d'insertion et de probation : corps des chefs des services
+d'insertion et de probation, corps des conseillers d'insertion et de probation ;
 
-Personnel de surveillance : chefs de maison d'arrêt, surveillants-chefs,
-premiers surveillants, surveillants principaux, surveillants.
+e) Personnel de surveillance : corps des chefs de service pénitentiaire, corps
+des gradés et surveillants ;
 
-2° Fonctionnaires des corps communs :
+2° Fonctionnaires des services déconcentrés de l'administration pénitentiaire,
+régis par des statuts interministériels :
 
-Personnel de bureau et de service ;
+Personnel administratif : corps des agents administratifs, corps des agents des
+services techniques ;
 
-Personnel médico-social : assistants sociaux, infirmiers.
+3° Fonctionnaires des corps communs du ministère de la justice affectés dans les
+services déconcentrés de l'administration pénitentiaire :
 
-3° Agents contractuels, indemnitaires et vacataires :
+Personnel de service social : corps des assistants de service social du
+ministère de la justice, corps des conseillers techniques de service social du
+ministère de la justice ;
 
-Ingénieurs, agents techniques d'encadrement et d'entretien ;
+4° Fonctionnaires des corps interministériels affectés dans les services
+déconcentrés de l'administration pénitentiaire :
 
-Médecins, chirurgiens-dentistes, pharmaciens, internes ;
+Personnel infirmier : corps interministériel des infirmières et infirmiers de
+l'Etat ;
 
-Aumôniers ;
-
-Délégués à la probation ;
-
-Enseignants, moniteurs d'éducation physique et tous autres personnels
-spécialisés.
+5° Agents non titulaires de l'Etat affectés dans les services déconcentrés de
+l'administration pénitentiaire.

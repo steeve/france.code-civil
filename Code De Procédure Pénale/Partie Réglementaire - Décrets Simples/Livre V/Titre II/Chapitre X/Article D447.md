@@ -1,11 +1,7 @@
 Article D447
 ----
-Outre l'usage du récepteur individuel autorisé pour chaque détenu à l'article D.
-431, l'utilisation collective de la radiophonie et de la télévision est
-organisée par l'administration.
-
-Le règlement intérieur prévoit les modalités de cette utilisation collective ;
-il fixe notamment l'horaire et les conditions d'accès aux séances
-audio-visuelles.
-
-Les détenus peuvent être consultés sur le choix des programmes à diffuser.
+Le règlement intérieur détermine l'organisation de l'usage collectif de la
+télévision et de la radiophonie et prévoit, dans les établissements qui
+disposent d'un centre de ressources audiovisuelles et multimédia, les conditions
+d'accès des détenus à ces équipements, ainsi qu'au choix des programmes diffusés
+par les organismes privés ou publics.

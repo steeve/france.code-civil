@@ -1,8 +1,7 @@
 Article D446
 ----
 Pour l'animation d'activités par des personnes extérieures, l'autorisation est
-donnée par le chef d'établissement si celui-ci est un membre du personnel de
-direction ou, sinon, par le directeur régional.
+donnée par le chef d'établissement.
 
 Sous le contrôle du service socio-éducatif, des détenus peuvent être associés à
 l'organisation de ces activités et certains d'entre eux chargés de les préparer

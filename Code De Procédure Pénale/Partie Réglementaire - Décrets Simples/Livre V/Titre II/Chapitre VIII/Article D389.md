@@ -1,9 +1,8 @@
 Article D389
 ----
-Les dispositions visées aux articles D. 381 ou D. 384 sont applicables aux
-malades pour lesquels une intervention chirurgicale est nécessaire.
-
-Sauf impossibilité, le détenu doit donner son assentiment écrit à l'intervention
-envisagée ; lorsqu'il s'agit d'un détenu mineur, l'autorisation de la famille ou
-du tuteur est demandée préalablement à l'opération, à moins que celle-ci ne
-puisse être différée sans danger.
+En cas d'absence ou d'empêchement de l'une des personnes habilitées, ou en cas
+de nécessité de service, d'autres personnels hospitaliers relevant de
+l'établissement de santé signataire du protocole passé en application de
+l'article R. 711-10 du code de la santé publique peuvent être autorisés, sur
+proposition du directeur de cet établissement, à pénétrer dans l'établissement
+pénitentiaire par le chef de l'établissement pénitentiaire.

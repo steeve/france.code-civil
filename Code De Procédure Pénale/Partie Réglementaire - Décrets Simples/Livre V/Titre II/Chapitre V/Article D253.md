@@ -8,4 +8,4 @@ l'opportunité de la réduction de peine, mais aussi de sa durée, porte à la f
 sur le comportement général, sur l'assiduité et l'application au travail et, le
 cas échéant, aux études ou à la formation professionnelle, ainsi que sur le sens
 des responsabilités manifesté par le détenu quant au respect des règles
-organisant la vie collective dans la prison.
+organisant la vie collective dans l'établissement pénitentiaire.

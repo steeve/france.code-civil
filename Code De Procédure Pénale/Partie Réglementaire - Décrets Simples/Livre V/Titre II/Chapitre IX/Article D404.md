@@ -1,7 +1,7 @@
 Article D404
 ----
-Les détenus sont autorisés à recevoir la visite des membres de leur famille et
-de leur tuteur. Toute autre personne peut être autorisée à rendre visite à un
-détenu, sous réserve du maintien de la sécurité et du bon ordre dans
-l'établissement, s'il apparaît que ces visites sont faites dans l'intérêt du
-traitement.
+Sous réserve des motifs liés au maintien de la sécurité ou au bon ordre de
+l'établissement, le chef d'établissement ne peut refuser de délivrer un permis
+de visite aux membres de la famille d'un condamné ou à son tuteur. Toute autre
+personne peut être autorisée à rencontrer un condamné, s'il apparaît que ces
+visites contribuent à l'insertion sociale ou professionnelle de ce dernier.

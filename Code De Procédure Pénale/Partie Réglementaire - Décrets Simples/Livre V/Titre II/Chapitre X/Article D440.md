@@ -1,12 +1,11 @@
 Article D440
 ----
-Des activités socio-culturelles sont organisées dans chaque établissement
-pénitentiaire.
+Des activités socioculturelles sont organisées dans chaque établissement
+pénitentiaire. Elles ont notamment pour objet de développer les moyens
+d'expression, les connaissances et les aptitudes des détenus.
 
-Elles ont notamment pour objet de développer, en fonction des possibilités
-locales, les moyens d'expression, les connaissances et les capacités physiques
-et intellectuelles des détenus.
+Le service socio-éducatif recherche à cet effet le concours d'intervenants
+extérieurs auxquels peut être confiée l'animation de certaines activités.
 
 L'emploi du temps hebdomadaire doit permettre à tout détenu qui le souhaite de
-participer aux activités socio-culturelles et sportives organisées à
-l'établissement.
+participer à ces activités.

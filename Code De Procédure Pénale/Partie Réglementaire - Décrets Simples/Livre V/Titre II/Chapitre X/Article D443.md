@@ -1,10 +1,8 @@
 Article D443
 ----
-Chaque établissement possède au moins une bibliothèque dont les ouvrages sont
-mis gratuitement à la disposition des détenus.
+Le règlement intérieur détermine les conditions d'accès des détenus aux
+activités culturelles et socio-culturelles.
 
-Ils doivent être suffisamment nombreux et variés pour tenir compte des
-diversités linguistiques et culturelles des détenus, et pour respecter leur
-liberté de choix.
-
-Les échanges et les prêts de livres personnels entre détenus sont autorisés.
+Il précise également les conditions dans lesquelles les détenus empruntent les
+ouvrages ou documents de la bibliothèque. Il doit notamment prévoir et favoriser
+les conditions d'accès direct des détenus à la bibliothèque.
