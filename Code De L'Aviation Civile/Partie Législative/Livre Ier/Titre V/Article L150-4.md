@@ -1,13 +1,16 @@
 Article L150-4
 ----
-Le pilote qui ne se sera pas conformé aux prescriptions de l'article L. 131-3
-(alinéa 2) relatives à l'atterrissage au sortir de la zone interdite sera puni
-d'une amende de 1 800 F à 60 000 F (1) et d'un emprisonnement de quinze jours à
-trois mois.
+Sera puni d'une amende de 15 000 F à 100 000 F [*montant*] et d'un
+emprisonnement de un à six mois [*durée*], ou de l'une de ces deux peines
+seulement, le pilote qui, par maladresse ou négligence, aura survolé une zone du
+territoire français en violation d'une interdiction prononcée dans les
+conditions prévues au premier alinéa de l'article L. 131-3.
 
-Le pilote qui, en infraction aux dispositions de l'article L. 132-1, n'aura pas
-utilisé, sauf cas de force majeure, un aéroport international au départ ou à
-l'arrivée d'un vol international, ou, sur un tel aéroport, aura tenté de se
-soustraire aux contrôles réglementaires, sera puni d'une amende de 1 800 F à 8
-000 F (1) et d'un emprisonnement de deux mois à trois ans, sans préjudice de
-l'application des peines prévues par la législation douanière. (2)
+" Sera puni d'une amende de 15 000 F à 300 000 F et d'un emprisonnement de trois
+mois à un an, ou de l'une de ces deux peines seulement, le pilote qui :
+
+" a) Se sera sciemment engagé ou maintenu au-dessus d'une zone mentionnée au
+premier alinéa du présent article ;
+
+" b) Ne se sera pas conformé aux prescriptions des deuxième et quatrième alinéas
+de l'article L. 131-3. "

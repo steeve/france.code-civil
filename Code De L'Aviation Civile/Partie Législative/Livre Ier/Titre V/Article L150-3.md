@@ -1,7 +1,11 @@
 Article L150-3
 ----
-L'amende édictée par l'article L. 150-1 pourra être élevée jusqu'à 120 000 F et
-l'emprisonnement jusqu'à deux mois, si les infractions prévues sous les 1° et 3°
-dudit article et sous le 1° de l'article L. 150-2 ont été commises après le
-refus ou le retrait du certificat d'immatriculation, du brevet d'aptitude ou de
-la licence.
+Le pilote qui, en infraction aux dispositions de l'article L. 132-1, n'aura pas
+utilisé, sauf cas de force majeure, un aéroport international au départ ou à
+l'arrivée d'un vol international sera puni d'une amende de 15 000 F à 200 000 F
+[*montant*] et d'un emprisonnement de deux mois à trois ans [*durée*], ou de
+l'une de ces deux peines seulement, sans préjudice de l'application des peines
+prévues par la législation douanière.
+
+" Sera puni des mêmes peines tout membre d'équipage qui, sur un tel aéroport,
+aura tenté de se soustraire aux contrôles réglementaires. "

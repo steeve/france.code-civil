@@ -7,12 +7,10 @@ explosifs, armes et munitions de guerre, des pigeons voyageurs ou des objets de
 correspondance compris dans le monopole postal ;
 
 2° Quiconque aura transporté ou utilisé des appareils photographiques dont le
-transport et l'usage ont été interdits par les règlements.
+transport et l'usage ont été interdits par les règlements ;
 
-Seront punis des peines prévues à l'article L. 150-3 :
-
-1° Ceux qui auront fait usage à bord des objets ou appareils dont le transport
+3° Quiconque aura fait usage à bord des objets ou appareils dont le transport
 est interdit ;
 
-2° Ceux qui, sans autorisation spéciale, auront fait usage d'appareils
+4° Quiconque aura, sans autorisation spéciale, fait usage d'appareils
 photographiques au-dessus des zones interdites.
