@@ -26,5 +26,10 @@ Les conditions d'application des alinéas précédents sont fixées par décret.
 Si, indépendamment des dispositions des deuxième à cinquième alinéas le service
 du contrôle médical estime qu'une prestation mentionnée à l'article L. 321-1
 n'est pas médicalement justifiée, la caisse, après en avoir informé l'assuré, en
-suspend le service. Les contestations d'ordre médical portant sur cette décision
+suspend le service. Lorsque le praticien-conseil procède à l'examen du patient
+et qu'à l'issue de celui-ci il estime qu'une prescription d'arrêt de travail
+n'est pas ou n'est plus médicalement justifiée, il en informe directement
+l'intéressé. Sauf si le praticien-conseil en décide autrement, la suspension
+prononcée par la caisse prend effet à compter de la date à laquelle le patient a
+été informé. Les contestations d'ordre médical portant sur cette décision
 donnent lieu à l'expertise médicale mentionnée à l'article L. 141-1.

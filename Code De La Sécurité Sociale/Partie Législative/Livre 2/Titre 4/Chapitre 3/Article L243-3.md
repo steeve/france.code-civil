@@ -1,6 +1,6 @@
 Article L243-3
 ----
-L'admission en non-valeur de cotisations de sécurité sociale ne peut être
-prononcée par le conseil d'administration des organismes responsables ou chargés
-du recouvrement qu'après avis favorable de l'autorité administrative compétente
-et dans les conditions fixées par décret.
+L'admission en non-valeur des cotisations sociales, des impôts et taxes
+affectés, en principal et accessoire, est prononcée par le conseil
+d'administration de l'organisme de sécurité sociale dans des conditions fixées
+par décret.

@@ -1,16 +1,13 @@
 Article L533-1
 ----
-Une allocation de garde d'enfant à domicile est attribuée au ménage ou à la
-personne employant à son domicile une ou plusieurs personnes pour assurer la
-garde d'au moins un enfant à charge d'un âge déterminé lorsque chaque membre du
-couple ou la personne seule exerce une activité professionnelle minimale.
+Le versement de la prime à la naissance est subordonné à la justification de la
+passation du premier examen prénatal médical obligatoire de la mère prévu en
+application de l'article L. 2122-1 du code de la santé publique.
 
-Son montant est, dans la limite d'un montant maximal déterminé par décret,
-fonction des cotisations sociales acquittées au titre des assurances sociales,
-des accidents du travail, des allocations familiales, ainsi qu'au titre de la
-retraite complémentaire et de l'assurance contre le risque de privation
-d'emploi.
+Le versement de l'allocation de base est subordonné à la passation des examens
+médicaux obligatoires prévus à l'article L. 2132-2 du même code donnant lieu à
+l'établissement d'un certificat de santé.
 
-Le montant maximal défini au deuxième alinéa est réduit lorsque l'allocation de
-garde d'enfant à domicile est cumulée avec l'allocation parentale d'éducation à
-mi-taux.
+Un décret définit les conditions dans lesquelles sont produites les
+justifications ainsi que les conditions dans lesquelles la prestation d'accueil
+du jeune enfant est suspendue lorsque ces justifications ne sont pas fournies.

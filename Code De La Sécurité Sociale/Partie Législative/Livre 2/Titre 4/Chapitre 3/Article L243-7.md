@@ -10,9 +10,17 @@ procès-verbaux faisant foi jusqu'à preuve du contraire. Les unions de
 recouvrement les transmettent, aux fins de poursuites, au procureur de la
 République s'il s'agit d'infractions pénalement sanctionnées.
 
-Toutefois, le contrôle de l'application de la législation de sécurité sociale
-par les administrations centrales et les services déconcentrés de l'Etat, pour
-les contributions et cotisations dont ils sont redevables envers le régime
-général, est assuré par la Cour des comptes, qui fait état des résultats de ce
-contrôle dans le rapport mentionné au premier alinéa de l'article 10 de la loi
-n° 67-483 du 22 juin 1967 relative à la Cour des comptes.
+Le contrôle de l'application de la législation de sécurité sociale au titre des
+cotisations et contributions sociales dont les services déconcentrés de l'Etat
+sont redevables auprès du régime général est assuré par les organismes visés aux
+articles L. 213-1 et L. 752-4 qui reçoivent leurs déclarations et paiements.
+
+La Cour des comptes est compétente pour contrôler les administrations centrales
+de l'Etat. Elle peut demander l'assistance des organismes mentionnés à l'alinéa
+précédent et notamment requérir la mise à disposition d'inspecteurs du
+recouvrement.
+
+Il est fait état du résultat des contrôles mentionnés aux deux alinéas
+précédents dans le rapport sur l'application des lois de financement de la
+sécurité sociale prévu à l'article LO 132-3 du code des juridictions
+financières.

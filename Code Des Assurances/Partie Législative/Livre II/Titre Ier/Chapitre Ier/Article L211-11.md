@@ -13,4 +13,7 @@ déchéance de leurs droits à l'encontre de l'assureur et de l'auteur du dommag
 
 Dans le cas où la demande émanant de l'assureur ne mentionne pas la
 consolidation de l'état de la victime, les créances produites par les tiers
-payeurs peuvent avoir un caractère provisionnel.
+payeurs peuvent avoir un caractère provisionnel. Il en est de même lorsque les
+prestations de sécurité sociale sont versées après avis de la commission
+départementale d'éducation spéciale ou de la commission technique d'orientation
+et de reclassement professionnel.

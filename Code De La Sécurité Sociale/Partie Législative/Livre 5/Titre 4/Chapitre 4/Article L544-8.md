@@ -16,7 +16,8 @@ pêche maritime et les cultures marines ;
 
 5° Un avantage personnel de vieillesse ou d'invalidité ;
 
-6° L'allocation parentale d'éducation ;
+6° Le complément de libre choix d'activité de la prestation d'accueil du jeune
+enfant ;
 
 7° Le complément d'allocation d'éducation spéciale perçu pour le même enfant ;
 

@@ -1,13 +1,13 @@
 Article L755-19
 ----
-L'allocation pour jeune enfant est attribuée dans les départements mentionnés à
-l'article L. 751-1 dans les conditions fixées à l'article L. 531-1.
+La prestation d'accueil du jeune enfant est attribuée dans les départements
+mentionnés à l'article L. 751-1 dans les conditions définies au titre III du
+livre V du présent code.
 
-Le plafond de ressources est identique à celui du complément familial mentionné
-à l'article L. 755-16.
+L'allocation de base de la prestation d'accueil du jeune enfant n'est pas
+cumulable avec les allocations familiales et leurs majorations pour âge servies
+au titre d'un seul enfant à charge.
 
-L'allocation pour jeune enfant n'est pas cumulable avec les allocations
-familiales et leur majoration pour âge servies au titre d'un seul enfant à
-charge.
-
-Un décret détermine les mesures nécessaires à l'application du présent article.
+L'allocation de base et le complément de libre choix d'activité de cette
+prestation ne sont pas cumulables avec le complément familial défini à l'article
+L. 755-16.
