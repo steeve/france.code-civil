@@ -51,23 +51,23 @@ professionnelle.
 considérée, ou l'excédent reportable sur les trois années suivantes ou
 l'insuffisance de contribution versée aux organismes paritaires agréés par
 l'Etat au titre du congé individuel de formation en application de l'article L.
-951-3.
+951-3 ;
 
 6° Eventuellement, le montant restant à reporter au titre des dépenses
-effectuées au cours de chacune des trois années précédentes.
+effectuées au cours de chacune des trois années précédentes ;
 
-7° Le cas échéant, la majoration prévue à l'article L. 951-9, I.
+7° Le cas échéant, la majoration prévue à l'article L. 951-9, I ;
 
-8° Le montant total du versement à effectuer à la caisse du comptable des
-impôts.
+8° Le montant total du versement à effectuer à la caisse du comptable des impôts
+;
 
-9° Le nombre de salariés de l'entreprise.
+9° Le nombre de salariés de l'entreprise ;
 
 10° Le nombre de stagiaires ayant bénéficié d'une formation ou d'un bilan de
 compétences au cours de l'année, financée en tout ou partie au moyen de la
 participation de l'employeur, ainsi que le nombre d'heures de formation et de
 bilan de compétences reçues par eux, selon qu'elles ont ou non donné lieu au
-maintien d'une rémunération.
+maintien d'une rémunération ;
 
 11° La répartition de ces stagiaires :
 
@@ -75,10 +75,9 @@ a) Par sexe ;
 
 b) Par catégorie d'emploi ;
 
-c) Par âge ; d) Par type d' action au sens de l'article L. 900-2 ;
+c) Par âge ;
 
-Selon qu'ils ont bénéficié d'une formation dans l'entreprise elle-même ou en
-application des conventions conclues avec des organismes de formation.
+d) Par type d' action au sens de l'article L. 900-2 ;
 
 12° Le nombre de jeunes travailleurs au sens de l'article L. 931-14 qui ont
 bénéficié d'une formation au cours de l'année.

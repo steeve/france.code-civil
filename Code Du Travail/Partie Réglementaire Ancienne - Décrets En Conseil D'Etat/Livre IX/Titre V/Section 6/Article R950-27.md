@@ -1,7 +1,9 @@
 Article R950-27
 ----
-Lorsque l'engagement de développement de la formation est conclu par une
-organisation professionnelle ou interprofessionnelle, il précise les modalités
-selon lesquelles les organisations syndicales qui ont été consultées avant sa
-signature sont associées à l'examen annuel de son exécution [*mention,
-contenu*].
+Sans préjudice des dispositions du deuxième alinéa de l'article L. 951-5,
+l'engagement de développement de la formation est, avant signature, soumis par
+l'autorité administrative signataire à l'avis du comité régional de la formation
+professionnelle, de la promotion sociale et de l'emploi s'il a un champ
+d'application régional ou, si celui-ci excède le cadre régional, à l'avis de la
+commission permanente du conseil national de la formation professionnelle, de la
+promotion sociale et de l'emploi [*condition préalable*].

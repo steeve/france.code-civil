@@ -1,6 +1,6 @@
 Article R950-3
 ----
-Les dépenses mentionnées au 1 du deuxième alinéa de l'article L. 951-1
+Les dépenses mentionnées au 1° du deuxième alinéa de l'article L. 951-1
 [*financement des actions de formation*] sont les dépenses acquittées au cours
 de l'année de paiement des salaires servant de base au calcul de la
 participation ou dues au titre de cette année.
