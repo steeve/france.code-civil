@@ -10,6 +10,3 @@ travail.
 Il favorise l'enseignement de la prévention en liaison avec le ministère chargé
 de la sécurité sociale, le ministère chargé du travail, le ministère chargé de
 la santé et le ministère chargé de l'éducation nationale.
-
-Il sera fait appel au concours des organisations nationales de jeunesse ouvrière
-pour les associer à l'oeuvre d'éducation à entreprendre.

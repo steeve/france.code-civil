@@ -1,8 +1,9 @@
 Article R421-9
 ----
 Un comité technique central de coordination entre les différents comités
-techniques nationaux est constitué auprès du conseil d'administration de la
-caisse nationale de l'assurance maladie des travailleurs salariés.
+techniques nationaux est constitué auprès de la commission des accidents du
+travail et des maladies professionnelles de la caisse nationale de l'assurance
+maladie des travailleurs salariés.
 
 Il est composé de membres élus par chacun des comités techniques nationaux parmi
 ses membres, à raison de deux par comité, l'un représentant les organisations

@@ -6,12 +6,8 @@ sein des commissions et leur déléguer une partie de ses attributions. Il peut
 comprenant des personnalités n'appartenant pas au conseil mais ayant les
 qualités ci-dessous définies :
 
-1°) pour la caisse nationale de l'assurance maladie : administrateurs de caisse
-primaire d'assurance maladie ou membres des comités techniques nationaux
-mentionnés à l'article L. 422-1 ; dans ce dernier cas, les intéressés doivent
-réunir les conditions exigées pour être administrateur de caisse et ne peuvent
-siéger que dans les commissions compétentes en matière d'accidents du travail et
-de maladies professionnelles ;
+1° Pour le conseil d'administration de la Caisse nationale de l'assurance
+maladie : administrateurs de caisse primaire d'assurance maladie ;
 
 2°) pour la caisse nationale des allocations familiales : administrateurs de
 caisse d'allocations familiales ;
@@ -31,3 +27,13 @@ représentants des assurés sociaux est supérieur à celui des représentants d
 employeurs et, le cas échéant, des travailleurs indépendants. Chaque
 organisation mentionnée à l'article L. 214-6 est, sur sa demande, représentée au
 comité.
+
+En ce qui concerne la commission des accidents du travail et des maladies
+professionnelles instituée par l'article L. 221-4, elle peut constituer en son
+sein des sous-commissions et leur déléguer une partie de ses attributions. Elle
+peut également constituer des sous-commissions recevant de telles délégations et
+comprenant des personnalités n'appartenant pas à la commission mais ayant la
+qualité de membre d'un comité technique national ; dans ce cas, les intéressés
+doivent réunir les conditions exigées pour être administrateur de caisse. Ces
+sous-commissions comprennent pour moitié des représentants des assurés sociaux
+et pour moitié des représentants des employeurs.

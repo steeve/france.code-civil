@@ -1,5 +1,5 @@
 Article R421-3
 ----
-Les arrêtés prévus pour l'application des articles L. 242-5 et L. 242-7 sont
-pris après avis des comités techniques nationaux, et si plusieurs branches
-d'activités sont intéressées, du comité technique central.
+L'arrêté prévu pour l'application de l'article L. 242-7 est pris après avis des
+comités techniques nationaux, et si plusieurs branches d'activité sont
+intéressées, du comité technique central.
