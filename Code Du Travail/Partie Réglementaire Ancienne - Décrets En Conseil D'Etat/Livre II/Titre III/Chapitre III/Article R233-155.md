@@ -24,3 +24,18 @@ e) Equipements de protection contre les agents infectieux ;
 
 f) Equipements visés par l'article R. 233-153, à l'exception des appareils de
 protection respiratoire destinés à la plongée.
+
+Les équipements de protection individuelle suivants peuvent cependant être mis à
+disposition ou loués pour la pratique d'activités non professionnelles sportives
+ou de loisirs, sous réserve qu'aient été respectées les instructions définies au
+a du I du paragraphe 1.4 de l'annexe II mentionnée à l'article R. 233-151 et, le
+cas échéant, qu'aient été réalisées les vérifications générales périodiques
+prévues à l'article R. 233-42-2 :
+
+a) Casques de cavaliers ;
+
+b) Equipements de protection contre les chutes de hauteur.
+
+Le certificat de conformité prévu à l'article R. 233-77 mentionne alors que les
+mesures d'entretien ont été prises et, le cas échéant, la date de réalisation
+des vérifications générales périodiques.
