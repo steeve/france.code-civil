@@ -14,16 +14,33 @@ par le ministre de l'agriculture, après vérification de leurs titres et de leu
 qualifications, sur proposition du chef d'établissement. Ils sont liés par un
 contrat de droit public à l'Etat, qui les rémunère directement par référence aux
 échelles indiciaires des corps équivalents de la fonction publique exerçant des
-fonctions comparables et ayant les mêmes niveaux de formation. Pour les
-personnels de documentation, les dispositions du présent alinéa s'appliqueront
-progressivement dans un délai de trois ans à compter du 1er janvier 1993.
+fonctions comparables et ayant les mêmes niveaux de formation. En leur qualité
+d'agent public, ils ne sont pas, au titre des fonctions pour lesquelles ils sont
+employés et rémunérés par l'Etat, liés par un contrat de travail à
+l'établissement au sein duquel l'enseignement leur est confié.
+
+Nonobstant l'absence de contrat de travail avec l'établissement, les personnels
+enseignants mentionnés à l'alinéa précédent sont, pour l'application des
+articles L. 236-1, L. 412-5, L. 421-2 et L. 431-2 du code du travail, pris en
+compte dans le calcul des effectifs de l'établissement, tel que prévu à
+l'article L. 620-10 du même code. Ils sont électeurs et éligibles pour les
+élections des délégués du personnel et les élections au comité d'hygiène, de
+sécurité et des conditions de travail et au comité d'entreprise. Ils bénéficient
+de ces institutions dans les conditions prévues par le code du travail. Les
+rémunérations versées par l'Etat à ces personnels sont prises en compte pour le
+calcul de la masse salariale brute, tel que prévu à l'article L. 434-8 du même
+code, et la détermination du rapport entre la contribution aux institutions
+sociales et le montant global des salaires, mentionné à l'article L. 432-9 du
+même code.
 
 Lorsqu'un emploi est à pourvoir, le chef d'établissement est tenu de donner
 priorité aux candidats qualifiés qui auraient perdu leur emploi par suite de la
 suppression totale ou partielle d'une filière dans l'établissement même ou dans
 un autre établissement d'enseignement agricole privé relevant du présent
-article. Une commission, dont la composition est fixée par décret, peut être
-saisie des différends concernant l'application du présent alinéa.
+article. Un décret en Conseil d'Etat précise les conditions de recrutement par
+concours et les garanties d'emploi dont les lauréats bénéficient. Une
+commission, dont la composition est fixée par décret, peut être saisie des
+différends concernant l'application du présent alinéa.
 
 Le contrat type liant le personnel enseignant et de documentation à l'Etat est
 approuvé par décret en Conseil d'Etat.
