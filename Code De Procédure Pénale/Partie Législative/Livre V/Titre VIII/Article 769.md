@@ -27,7 +27,7 @@ réhabilitation ou à l'expiration du délai de cinq ans à compter du jour où 
 condamnations sont devenues définitives ainsi que le jugement prononçant la
 liquidation judiciaire à l'égard d'une personne physique, à l'expiration d'un
 délai de cinq ans à compter du jour où ce jugement est devenu définitif ou après
-le prononcé d'un jugement de clôture pour extinction du passif.
+le prononcé d'un jugement emportant réhabilitation.
 
 Toutefois, si la durée de la faillite personnelle ou de l'interdiction est
 supérieure à cinq ans, la condamnation relative à ces mesures demeure mentionnée
