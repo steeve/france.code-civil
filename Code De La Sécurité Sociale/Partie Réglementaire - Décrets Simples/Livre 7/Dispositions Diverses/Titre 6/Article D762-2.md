@@ -16,8 +16,8 @@ travail du salarié dans la limite maximale de douze mois.
 L'application des dispositions de l'alinéa qui précède est subordonnée au
 respect des conditions suivantes :
 
-1° Le salarié doit être âgé de moins de vingt-six ans à la date d'effet du
-contrat de travail ;
+1° Le salarié doit être âgé de moins de trente ans à la date d'effet du contrat
+de travail ;
 
 2° L'emploi ne doit pas être occupé en remplacement d'un salarié démissionnaire
 ou licencié ou parvenu au terme d'un contrat de travail à durée déterminée. Il
