@@ -42,4 +42,6 @@ Il est habilité à donner un avis sur les augmentations de prix. Il peut être
 consulté par les autorités chargées de la fixation et du contrôle des prix.
 
 Le comité d'entreprise est consulté chaque année sur la politique de recherche
-de l'entreprise.
+et de développement technologique de l'entreprise. A défaut, les aides publiques
+en faveur des activités de recherche et de développement technologique sont
+suspendues.
