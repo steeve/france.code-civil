@@ -1,11 +1,11 @@
 Article R*315-8
 ----
 Les statuts de l'association syndicale mentionnée à l'article R. 315-6 doivent
-prévoir [*contenu*] :
+prévoir *contenu* :
 
 a) Que seuls le lotisseur et les membres de l'association attributaires des lots
-qui ont donné lieu à l'obtention du certificat prévu à l'article R. 315-36 (a)
-participeront aux dépenses de gestion des équipements communs ;
+qui ont donné lieu à l'obtention du certificat prévu au a ou au b de l'article
+R. 315-36 participeront aux dépenses de gestion des équipements communs ;
 
 b) Que l'association a notamment pour objet l'acquisition, la gestion et
 l'entretien des terrains et équipements communs ainsi que leur cession

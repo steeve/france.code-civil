@@ -2,25 +2,22 @@ Article R*421-36
 ----
 Dans les communes où un plan d'occupation des sols n'a pas été approuvé, la
 décision est prise par le maire, au nom de l'Etat ; toutefois, elle est prise
-par le préfet dans les cas suivants [*autorité compétente*] :
+par le préfet dans les cas suivants[*autorité compétente*] :
 
 1° Pour les constructions édifiées pour le compte de l'Etat, de la région ou du
 département, de leurs établissements publics ou de leurs concessionnaires, ainsi
 que pour le compte d'un Etat étranger ou d'une organisation internationale ;
 
 2° Pour les constructions à usage industriel, commercial ou de bureaux lorsque
-la superficie de planchers hors oeuvre nette est égale ou supérieure à 1000
+la superficie de planchers hors oeuvre nette est égale ou supérieure à 1 000
 mètres carrés au total ;
 
 3° Pour les immeubles de grande hauteur au sens de l'article R. 122-2 du code de
 la construction et de l'habitation, dans les conditions prévues à l'article R.
 421-47 ;
 
-4° Lorsqu'est imposé au constructeur le paiement de la participation prévue à
-l'article L. 421-3 (alinéas 3 et 4) ou l'obligation de participer financièrement
-aux dépenses d'équipements publics ou celle de céder gratuitement du terrain en
-vertu des dispositions du présent code à une collectivité publique autre que la
-commune intéressée ;
+4° Lorsqu'est mis à la charge du constructeur tout ou partie des contributions
+prévues au 2° de l'article L. 332-6-1 ou à l'article L. 332-9.
 
 5° Lorsqu'une dérogation ou une adaptation mineure aux dispositions mentionnées
 aux articles R. 421-15 (alinéa 3) est nécessaire ;

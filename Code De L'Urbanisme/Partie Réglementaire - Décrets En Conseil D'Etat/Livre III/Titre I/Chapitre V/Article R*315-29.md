@@ -27,5 +27,26 @@ d) Un règlement fixant les règles d'urbanisme applicables dans le lotissement
 qui comprend tout ou partie des règles contenues dans le règlement d'un plan
 d'occupation des sols en application de l'article R. 123-21 ;
 
-e) Les participations aux dépenses d'équipements publics dans les conditions
-prévues à l'article L. 332-12 .
+L'autorisation de lotir énumère celles des contributions prévues à l'article L.
+332-12 qu'elle met, le cas échéant, à la charge du lotisseur.
+
+Dans le cas où sont exigées la participation pour le financement d'équipements
+publics exceptionnels mentionnée au c de l'article L. 332-12 ou la participation
+forfaitaire mentionnée au d du même article, l'autorisation de lotir en fixe le
+montant et énonce le mode d'évaluation de ce dernier.
+
+Lorsque la participation forfaitaire inclut une cession gratuite de terrain,
+l'autorisation de lotir détermine la superficie à céder et en mentionne la
+valeur déterminée par le directeur des services fiscaux.
+
+Lorsque la participation forfaitaire inclut le versement de la participation
+prévue à l'article L. 332-9 dans les programmes d'aménagement d'ensemble et que
+le lotisseur s'en acquitte en tout ou en partie, conformément à l'article L.
+332-10 sous forme d'exécution de travaux ou d'apport de terrain, l'autorisation
+de lotir mentionne :
+
+Les caractéristiques des travaux et leur valeur déterminées d'un commun accord
+par le lotisseur et l'autorité compétente pour délivrer l'autorisation ;
+
+La superficie des terrains à apporter ainsi que leur valeur déterminée par le
+directeur des services fiscaux.

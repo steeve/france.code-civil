@@ -16,18 +16,18 @@ conditions d'accès à ladite voie.
 
 Les personnes publiques, services ou commissions consultés en application des
 alinéas précédents, qui n'ont pas fait connaître leur réponse dans le délai d'un
-mois à dater de la réception de la demande d'avis [*point de départ*], sont
+mois à dater de la réception de la demande d'avis[*point de départ*], sont
 réputés avoir émis un avis favorable. Ce délai est porté à deux mois lorsqu'il
 est procédé à la consultation de la commission départementale d'aménagement
-foncier en application de l'article 35 du code rural . Lorsque la réalisation du
-lotissement envisagé est subordonné à l'avis ou à l'accord d'une autorité , d'un
+foncier en application de l'article 35 du code rural. Lorsque la réalisation du
+lotissement envisagé est subordonné à l'avis ou à l'accord d'une autorité, d'un
 service ou d'une commission en application de la loi du 31 décembre 1913 sur les
 monuments historiques, de la loi du 2 mai 1930 sur la protection des monuments
 naturels et des sites, du chapitre III de la loi n° 76-629 du 10 juillet 1976
 relative à la protection de la nature, ou de l'article 71 de la loi n°83-8 du 7
 janvier 1983 relative à la répartition de compétences entre les communes, les
-départements, les régions et l'état, l'autorité, le service ou la commission
-consulté peut faire connâitre, par décision motivée, au service chargé de
+départements, les régions et l'Etat, l'autorité, le service ou la commission
+consulté peut faire connaître, par décision motivée, au service chargé de
 l'instruction de la demande son intention d'utiliser un délai plus long qui ne
 peut, en tout état de cause, excéder quatre mois.
 
@@ -38,3 +38,9 @@ servitudes d'utilité publique affectant l'utilisation du sol.
 
 Il propose les prescriptions auxquelles peut être subordonnée la délivrance de
 l'autorisation de lotissement.
+
+Le service chargé de l'instruction de la demande consulte en tant que de besoin
+les autorités et services publics habilités à demander que soient prescrites les
+contributions mentionnées à l'article L. 332-12. A défaut de réponse dans le
+délai d'un mois, ces autorités et services publics sont réputés n'avoir aucune
+proposition de contribution à formuler.
