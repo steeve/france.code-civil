@@ -1,8 +1,7 @@
 Article L23-1
 ----
-Ainsi qu'il est dit à l'article 10 de la loi n° 62-933 du 8 août 1962,
-complémentaire à la loi d'orientation agricole modifiée par les articles 22 I et
-22 II de la loi n° 67-1253 du 30 décembre 1967 :
+Ainsi qu'il est dit aux articles L. 123-24 à L. 123-26 et L. 352-1 du code rural
+;
 
 "Lorsque les expropriations en vue de la réalisation de grands ouvrages publics
 sont susceptibles de compromettre la structure des exploitations dans une zone
