@@ -4,8 +4,4 @@ Le taux de la cotisation afférente à la couverture des prestations en nature d
 l'assurance maladie, maternité, invalidité et précomptée dans la limite du
 plafond prévu par la législation de sécurité sociale sur le montant des pensions
 de retraites versées aux fonctionnaires de l'Etat ou à leur famille est fixé à
-3,05 p. 100 (1).
-
-(1) montant pour les pensions dues à compter du 1er mars 1996.
-
-3,80 p. 100 : montant pour les pensions dues à compter du 1er janvier 1997.
+2,80 p. 100.
