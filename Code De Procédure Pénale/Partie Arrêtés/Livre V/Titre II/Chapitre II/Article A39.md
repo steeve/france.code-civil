@@ -24,8 +24,6 @@ Quartier maison centrale du centre pénitentiaire du Port (Réunion) ;
 
 Quartier maison centrale du centre pénitentiaire de Remire-Montjoly (Guyane) ;
 
-Maison centrale de Riom (Puy-de-Dôme) ;
-
 Maison centrale de Saint-Martin-de-Ré (Charente-Maritime) ;
 
 Maison centrale de Saint-Maur (Indre).
