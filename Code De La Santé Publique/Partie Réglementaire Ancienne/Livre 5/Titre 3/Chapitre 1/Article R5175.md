@@ -6,5 +6,6 @@ ministre chargé de la santé détermine sur proposition du directeur général 
 l'Agence française de sécurité sanitaire des produits de santé les modalités
 matérielles de détention de ces substances et préparations.
 
-Tout vol ou détournement est signalé sans délai aux autorités de police et à
-l'inspection régionale de la pharmacie.
+Tout vol ou détournement est signalé sans délai aux autorités de police, à
+l'inspection régionale de la pharmacie et à l'Agence française de sécurité
+sanitaire des produits de santé.

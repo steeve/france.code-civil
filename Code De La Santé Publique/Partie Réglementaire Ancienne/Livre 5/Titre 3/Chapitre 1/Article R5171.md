@@ -2,15 +2,18 @@ Article R5171
 ----
 Sont interdits, à moins d'autorisation expresse, la production, la mise sur le
 marché et l'emploi des substances ou préparations classées comme stupéfiants par
-arrêté du ministre chargé de la santé et, d'une manière générale, toutes
-opérations agricoles, artisanales, commerciales et industrielles relatives à ces
-substances ou préparations.
+arrêté du ministre chargé de la santé pris sur proposition du directeur général
+de l'Agence française de sécurité sanitaire des produits de santé après avis de
+la commission mentionnée à l'article R. 5219-7 et, d'une manière générale,
+toutes opérations agricoles, artisanales, commerciales et industrielles
+relatives à ces substances ou préparations. Lorsque ces substances ou
+préparations sont utilisées en médecine vétérinaire, le directeur général de
+l'Agence française de sécurité sanitaire des produits de santé sollicite,
+préalablement à sa proposition, l'avis du directeur général de l'Agence
+française de sécurité sanitaire des aliments.
 
-L'autorisation est donnée par le directeur général de l'Agence française de
-sécurité sanitaire des produits de santé [*autorités compétentes*] et, en ce qui
-concerne les établissements de vente en gros ou de distribution en gros
-mentionnés aux articles L. 596 et L. 615, par le préfet de région après avis du
-pharmacien inspecteur régional de la santé.
+L'autorisation est délivrée par le directeur général de l'Agence française de
+sécurité sanitaire des produits de santé.
 
 Par dérogation aux dispositions du premier alinéa, tiennent lieu d'autorisation,
 pour le seul usage professionnel :
@@ -25,9 +28,12 @@ mutualistes ;
 docteurs vétérinaires ;
 
 4° La faculté accordée par l'article L. 610 aux chefs des services de pharmacie
-et toxicologie des écoles nationales vétérinaires.
+et toxicologie des écoles nationales vétérinaires ;
 
-5° L'autorisation du préfet délivrée en application de l'article L. 594.
+5° L'autorisation du préfet délivrée en application de l'article L. 594 ;
+
+6° La convention mentionnée à l'article 7 du décret du 29 juin 1992 relatif aux
+centres spécialisés de soins aux toxicomanes.
 
 Toute modification de l'un des éléments mentionnés dans la demande rend caduque
 l'autorisation précédemment donnée. Le titulaire doit en informer le directeur

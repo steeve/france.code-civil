@@ -16,6 +16,12 @@ arrêté du ministre chargé de la santé sur proposition du directeur général
 l'Agence française de sécurité sanitaire des produits de santé, sur les listes I
 ou II ou comme stupéfiants.
 
+Lorsque les substances, préparations, médicaments ou produits mentionnés à
+l'alinéa précédent sont utilisés en médecine vétérinaire, le directeur général
+de l'Agence française de sécurité sanitaire des produits de santé sollicite,
+préalablement à sa proposition, l'avis du directeur général de l'Agence
+française de sécurité sanitaire des aliments.
+
 Les médicaments ou produits mentionnés au premier alinéa peuvent faire l'objet
 d'un classement autre que celui de la ou des substances ou préparations classées
 qu'ils comportent. Ils sont alors soumis au régime se rapportant au classement

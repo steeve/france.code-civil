@@ -11,8 +11,9 @@ notamment en renseignant les membres des professions de santé et en participant
 auprès des établissements de santé, en collaboration avec les pharmacies à usage
 intérieur de ces établissements,
 
-- porter à la connaissance des instances compétentes en matière de
-pharmacodépendance les constatations d'usage abusif ou détourné d'un médicament.
+- porter à la connaissance des centres d'évaluation et d'information sur la
+pharmacodépendance les cas de pharmacodépendance ou d'abus tels qu'ils sont
+définis à l'article R. 5219-1.
 
 Ils doivent, au sein de l'établissement dans lequel ils sont implantés, donner
 avis et conseils en matière de pharmacovigilance aux membres des professions de

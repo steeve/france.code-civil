@@ -15,5 +15,5 @@ ou prolongeant une hospitalisation ;
 dans le résumé des caractéristiques du produit mentionné à l'article R. 5128 ;
 
 - mésusage : une utilisation non conforme aux recommandations du résumé des
-caractéristiques du produit mentionné à l'article R. 5128, à l'exclusion de
-l'usage abusif.
+caractéristiques du produit mentionné à l'article R. 5128, à l'exclusion de la
+pharmacodépendance et de l'abus tels qu'ils sont définis à l'article R. 5219-1.

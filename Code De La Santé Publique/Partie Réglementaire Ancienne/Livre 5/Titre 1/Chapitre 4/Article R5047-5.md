@@ -30,5 +30,7 @@ applicables. La commission prévue à l'article R. 5054 doit être immédiatemen
 saisie ensuite par le directeur général de l'Agence.
 
 IV. - Pour des raisons tenant à la protection de la santé publique, les mesures
-prévues au présent article peuvent être prises en cas d'usage abusif ou détourné
-du médicament qui fait l'objet de la publicité.
+prévues au présent article peuvent être prises en cas de mésusage, tel qu'il est
+défini à l'article R. 5144-4, ou de pharmacodépendance ou d'abus, tels qu'ils
+sont définis à l'article R. 5219-1, du médicament faisant l'objet de la
+publicité.

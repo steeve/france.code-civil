@@ -1,9 +1,9 @@
 Article R5174
 ----
 Les récipients ou emballages renfermant des stupéfiants et servant à leur
-importation, à leur transport ou à leur détention sont revêtus d'une étiquette
-[*conditions de forme*], de format adapté à leur volume, apposée de manière à ne
-pouvoir être involontairement détachée.
+importation ou à leur exportation, à leur transport ou à leur détention sont
+revêtus d'une étiquette [*conditions de forme*], de format adapté à leur volume,
+apposée de manière à ne pouvoir être involontairement détachée.
 
 Cette étiquette porte [*mentions obligatoires*], en caractères noirs indélébiles
 et lisibles, les indications suivantes :

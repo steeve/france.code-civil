@@ -4,10 +4,15 @@ Les personnes habilitées à exécuter les ordonnances ou les commandes comporta
 des médicaments, produits ou préparations relevant de la présente section
 doivent aussitôt les transcrire à la suite, sans blanc, rature ni surcharge, sur
 un registre, prévu en ce qui concerne le pharmacien à l'article R. 5092, ou les
-enregistrer immédiatement par tout système approuvé par le ministre chargé de la
-santé [*autorité compétente*]. Toutefois, en ce qui concerne les stupéfiants,
-les préparations magistrales et les préparations extemporanées, l'utilisation du
-registre est obligatoire.
+enregistrer immédiatement par tout système approprié. Les systèmes
+d'enregistrement doivent permettre une édition immédiate à la demande de toute
+autorité de contrôle des mentions prévues au présent article et, le cas échéant,
+à l'article R. 5214, chaque page éditée devant comporter le nom et l'adresse de
+l'officine ; en outre, ces systèmes ne doivent permettre aucune modification des
+données après validation de leur enregistrement. L'exécution des ordonnances ou
+des commandes comportant des médicaments classés comme stupéfiants ou soumis à
+la réglementation des stupéfiants fait l'objet d'une transcription sur un
+registre spécifique ou d'un enregistrement permettant une édition spécifique.
 
 Les transcriptions ou enregistrements comportent pour chaque médicament ou
 produit délivré un numéro d'ordre différent et mentionnent :
@@ -37,11 +42,16 @@ de la prescription initiale ;
 prévues au 2° de l'article R. 5143-5-5, la qualification ou le titre du
 prescripteur.
 
+Les registres, les enregistrements ainsi que les éditions de ces enregistrements
+par périodes maximales d'un mois sont conservés pendant une durée de dix ans et
+sont tenus à la disposition des autorités de contrôle pendant la durée
+prescrite.
+
 Les dispositions qui précèdent ne sont pas applicables [*dérogation*] aux
 centres de planification ou d'éducation familiale agréés pour la délivrance de
 contraceptifs aux mineurs désirant garder le secret.
 
 Il ne peut être délivré en une seule fois une quantité de médicaments ou
-produits correspondant à une durée de traitement supérieure à un mois.
-Toutefois, les médicaments contraceptifs peuvent être délivrés pour une durée de
-trois mois.
+produits correspondant à une durée de traitement supérieure à quatre semaines ou
+à un mois de trente jours selon le conditionnement. Toutefois, les médicaments
+contraceptifs peuvent être délivrés pour une durée de douze semaines.

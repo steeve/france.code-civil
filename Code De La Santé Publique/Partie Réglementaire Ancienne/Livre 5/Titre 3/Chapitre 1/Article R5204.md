@@ -9,8 +9,9 @@ risques directs ou indirects ;
 présentant pour la santé des risques directs ou indirects ;
 
 3° Les médicaments à usage humain susceptibles de présenter directement ou
-indirectement un danger pour la santé en cas de mauvais usage ou d'usage abusif
-ou détourné ;
+indirectement un danger pour la santé en cas de mésusage tel qu'il est défini à
+l'article R. 5144-4, ou de pharmacodépendance ou d'abus tels qu'ils sont définis
+à l'article R. 5219-1 ;
 
 4° Les médicaments à usage humain contenant des substances dont l'activité ou
 les effets indésirables nécessitent une surveillance médicale.

@@ -24,3 +24,7 @@ et toxicologie des écoles nationales vétérinaires ;
 8° L'autorisation administrative délivrée en application de l'article L. 757 ;
 
 9° L'autorisation du préfet délivrée en application de l'article L. 594.
+
+Les services de biologie médicale des établissements publics de santé sont
+dispensés, pour le seul usage professionnel, de l'autorisation prévue à
+l'article R. 5183.

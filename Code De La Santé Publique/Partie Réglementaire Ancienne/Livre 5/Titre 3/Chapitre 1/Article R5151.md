@@ -11,8 +11,8 @@ concentrations trop faibles pour justifier qu'elles y soient soumises.
 
 Des arrêtés du ministre chargé de la santé, pris sur proposition du directeur
 général de l'Agence française de sécurité sanitaire des produits de santé et
-après avis de la commission mentionnée à l'article R. 5182, peuvent dispenser du
-respect de certaines ou de toutes les dispositions de la présente section des
+après avis de la commission mentionnée à l'article R. 5219-7, peuvent dispenser
+du respect de certaines ou de toutes les dispositions de la présente section des
 préparations renfermant une ou plusieurs substances stupéfiantes ou psychotropes
 à des doses ou concentrations trop faibles pour justifier qu'elles y soient
 soumises.

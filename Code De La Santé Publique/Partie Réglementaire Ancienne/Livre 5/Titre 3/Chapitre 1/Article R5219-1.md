@@ -1,6 +1,20 @@
 Article R5219-1
 ----
-La commission des stupéfiants et des psychotropes mentionnée à l'article R. 5182
-formule un avis sur toute question que lui soumet le ministre chargé de la santé
-ou le directeur général de l'Agence française de sécurité sanitaire des produits
-de santé au sujet de l'application des dispositions du présent paragraphe.
+On entend par :
+
+- pharmacodépendance : ensemble de phénomènes comportementaux, cognitifs et
+physiologiques d'intensité variable, dans lesquels l'utilisation d'une ou
+plusieurs substances psychoactives devient hautement prioritaire et dont les
+caractéristiques essentielles sont le désir obsessionnel de se procurer et de
+prendre la ou les substances en cause et leur recherche permanente ; l'état de
+dépendance peut aboutir à l'auto-administration de ces substances à des doses
+produisant des modifications physiques ou comportementales qui constituent des
+problèmes de santé publique ;
+
+- abus : utilisation excessive et volontaire, permanente ou intermittente, d'une
+ou plusieurs substances psychoactives, ayant des conséquences préjudiciables à
+la santé physique ou psychique ;
+
+- pharmacodépendance grave ou abus grave : pharmacodépendance ou abus létal ou
+susceptible de mettre la vie en danger, ou d'entraîner une invalidité ou une
+incapacité, ou provoquant ou prolongeant une hospitalisation.

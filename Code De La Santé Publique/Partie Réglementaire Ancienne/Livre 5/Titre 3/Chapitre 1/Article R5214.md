@@ -1,11 +1,11 @@
 Article R5214
 ----
-Après exécution de la prescription, l'ordonnance, revêtue des mentions prévues à
-l'article R. 5199, est conservée trois ans [*durée*] par le pharmacien. Classées
-chronologiquement, les ordonnances sont présentées à toute réquisition des
-autorités compétentes. Copie en est remise obligatoirement au client, revêtue
-des mentions prévues à l'article R. 5199, de l'indication "Copie" et de deux
-barres transversales.
+Une copie de toute ordonnance comportant la prescription d'un ou plusieurs
+médicaments classés comme stupéfiants ou soumis à la réglementation des
+stupéfiants, revêtue des mentions prévues à l'article R. 5199, est conservée
+pendant trois ans par le pharmacien. Classées alphabétiquement par nom de
+prescripteur et chronologiquement, ces copies sont présentées à toute
+réquisition des autorités de contrôle.
 
 Sans préjudice des transcriptions mentionnées à l'article R. 5198, le pharmacien
 est tenu [*obligation*] d'enregistrer le nom et l'adresse du porteur de

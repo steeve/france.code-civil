@@ -2,10 +2,9 @@ Article R5186
 ----
 Les personnes qui se livrent à la fabrication, à la transformation et au
 commerce intérieur et international des substances psychotropes et de leurs
-préparations sont tenues [*obligation*] de mentionner sur un registre ou par
-tout système approprié d'enregistrement approuvé par le directeur général de
-l'Agence française de sécurité sanitaire des produits de santé [*autorité
-compétente*]:
+préparations sont tenues [*obligation*] de mentionner sur un registre ou
+d'enregistrer par tout système approprié répondant aux caractéristiques prévues
+au premier alinéa de l'article R. 5198 :
 
 1° La nature et la quantité de substances psychotropes ou de leurs préparations
 employées ;
@@ -25,12 +24,4 @@ l'établissement des états annuels mentionnés à l'article R. 5187.
 
 Le registre, les enregistrements ou les documents en tenant lieu sont conservés
 dix ans [*durée*] à compter de la dernière opération mentionnée pour être
-présentés à toute réquisition des autorités compétentes.
-
-Les industriels et grossistes qui se livrent à l'exportation des substances et
-préparations psychotropes figurant sur une liste fixée par arrêté du ministre
-chargé de la santé sur proposition du directeur général de l'Agence française de
-sécurité sanitaire des produits de santé doivent déclarer préalablement chaque
-expédition à cette autorité. Un arrêté du même ministre pris sur proposition du
-directeur général de l'Agence française de sécurité sanitaire des produits de
-santé détermine les modalités de cette déclaration.
+présentés à toute réquisition des autorités de contrôle.

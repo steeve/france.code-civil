@@ -18,10 +18,9 @@ ou de l'importateur ;
 
 4° Une tête de mort à tibias croisés sur un fond carré de couleur orangé-jaune
 et de dimensions suffisantes ; ce carré est placé à l'angle supérieur gauche de
-l'étiquette.
+l'étiquette ;
+
+5° Un numéro de référence pour chaque récipient ou emballage ;
 
 Pour les spécialités pharmaceutiques relevant de la réglementation des
 stupéfiants, le filet coloré prévu à l'article R. 5201 est de couleur rouge.
-
-Chaque unité de médicament mentionné au présent article porte un numéro
-individuel de référence.
