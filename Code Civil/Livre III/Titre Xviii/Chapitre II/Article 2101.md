@@ -10,14 +10,34 @@ exprimées, et s'exercent dans l'ordre suivant :
 3° Les frais quelconques de la dernière maladie, quelle qu'en ait été la
 terminaison, concurremment entre ceux à qui ils sont dus ;
 
-4° Les salaires des gens de service, pour l'année échue et ce qui est dû de
-l'année courante, les sommes pour lesquelles un privilège est établi à l'article
-549 du code de commerce et les appointements de tous ceux qui louent leurs
-services, pour les six derniers mois ;
+4° Sans préjudice de l'application éventuelle des dispositions des articles L.
+143-10, L. 143-11, L. 742-6 et L. 751-15 du code du travail :
+
+Les rémunérations des gens de service pour l'année échue et l'année courante ;
+
+Le salaire différé résultant du contrat de travail institué par l'article 63 du
+décret du 29 juillet 1939 relatif à la famille et à la natalité françaises, pour
+l'année échue et l'année courante ;
+
+Les rémunérations pour les six derniers mois des salariés et apprentis ;
+
+Les indemnités dues en raison de l'inobservation du préavis fixé par l'article
+L. 122-3 ou du délai-congé prévu par l'article L. 122-6 ;
+
+Les indemnités dues pour les congés payés ;
+
+Les indemnités de licenciement dues en application des conventions collectives
+de travail, des accords collectifs d'établissement, des règlements de travail,
+des usages, des dispositions des articles L. 122-9, L. 761-5 et L. 761-7 pour la
+totalité de la portion inférieure ou égale au plafond visé à l'article L. 143-10
+du code du travail et pour le quart de la portion supérieure audit plafond ;
+
+Les indemnités dues, le cas échéant, au salarié en application des articles L.
+122-2-1, L. 122-3-2, L. 122-14-4 et L. 122-14-6 alinéa 3.
 
 5° Les fournitures de subsistances faites au débiteur et à sa famille pendant la
 dernière année et, pendant le même délai, les produits livrés par un producteur
-agricole dans le cadre d'un accord interprofessionnel à long terme homologué ;
+agricole dans le cadre d'un accord interprofessionnel à long terme homologué.
 
 6° La créance de la victime de l'accident ou de ses ayants droit relative aux
 frais médicaux, pharmaceutiques et funéraires, ainsi qu'aux indemnités allouées
