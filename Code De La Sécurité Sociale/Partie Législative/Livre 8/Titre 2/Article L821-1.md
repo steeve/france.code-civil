@@ -34,21 +34,3 @@ décret qui varient notamment selon qu'elle est mariée ou vit maritalement et a
 une ou plusieurs personnes à sa charge. Ces montants varient en fonction du
 salaire minimum interprofessionnel de croissance prévu à l'article L. 141-4 du
 code du travail.
-
-L'allocation aux adultes handicapés n'est plus perçue à compter d'un âge
-déterminé par décret en Conseil d'Etat. Elle est remplacée à compter de cet âge
-par les avantages de vieillesse alloués en cas d'inaptitude au travail dans les
-conditions prévues aux premier et deuxième alinéas de l'article L. 341-15.
-
-Toutefois, l'allocation aux adultes handicapés est maintenue, à la demande de
-l'allocataire, au-delà de l'âge déterminé par le décret mentionné à l'alinéa
-précédent lorsqu'il exerce une activité professionnelle. Dans ce cas, les
-avantages de vieillesse sont liquidés à cet âge. Leur service intervient à la
-date de cessation d'activité et au plus tard à un âge limite déterminé ; il met
-fin à l'allocation aux adultes handicapés.
-
-Lorsque le montant des avantages de vieillesse et de l'allocation aux adultes
-handicapés du bénéficiaire est supérieur au montant des avantages résultant de
-l'application du présent article, le montant supplémentaire résultant de
-l'allocation aux adultes handicapés est maintenu au niveau atteint au 31
-décembre 1991, dans les conditions en vigueur à cette date.
