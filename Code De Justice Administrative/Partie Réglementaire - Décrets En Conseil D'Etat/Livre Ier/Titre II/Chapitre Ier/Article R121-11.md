@@ -8,7 +8,6 @@ concernant la gestion des services administratifs du Conseil d'Etat et
 l'exécution du budget du Conseil d'Etat, des cours administratives d'appel et
 des tribunaux administratifs.
 
-Délégation peut également être donnée aux chefs de service du Conseil d'Etat et
-aux fonctionnaires du secrétariat général appartenant à un corps de catégorie A
-pour signer les ordonnances de paiement, de virement, de délégation, les pièces
-justificatives de dépense et les ordres de recette.
+Délégation peut également être donnée, aux mêmes fins, aux chefs de service du
+Conseil d'Etat et aux fonctionnaires du secrétariat général appartenant à un
+corps de catégorie A.

@@ -5,4 +5,4 @@ lieu, que le pourvoi en cassation devant le Conseil d'Etat contre cette décisio
 ne peut être présenté que par le ministère d'un avocat au Conseil d'Etat et à la
 Cour de cassation. Lorsque la notification ne comporte pas cette mention, le
 requérant est invité par le Conseil d'Etat à régulariser son pourvoi dans les
-conditions fixées à l'article R. 612-1.
+conditions fixées aux articles R. 612-1 et R. 612-2.

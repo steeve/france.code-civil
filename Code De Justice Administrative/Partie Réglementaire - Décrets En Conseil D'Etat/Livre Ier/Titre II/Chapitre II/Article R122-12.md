@@ -9,8 +9,9 @@ juridiction administrative ;
 
 3° Constater qu'il n'y a pas lieu de statuer sur une requête ;
 
-4° Rejeter les conclusions entachées d'une irrecevabilité manifeste non
-susceptible d'être couverte en cours d'instance ;
+4° Rejeter les requêtes irrecevables pour défaut de ministère d'avocat ou
+entachées d'une irrecevabilité manifeste non susceptible d'être couverte en
+cours d'instance ;
 
 5° Statuer sur les requêtes qui ne présentent plus à juger de questions autres
 que la condamnation prévue à l'article L. 761-1 ou la charge des dépens ;
