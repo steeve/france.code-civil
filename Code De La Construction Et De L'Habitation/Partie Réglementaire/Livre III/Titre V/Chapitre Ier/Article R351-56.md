@@ -12,7 +12,7 @@ dans le champ d'application des articles précités, le montant de ces crédits
 doit représenter au moins 20 p. 100 du coût de la construction ;
 
 Soit au moyen des subventions accordées sur le budget du ministère chargé de la
-santé, représentant au moins 20 p. 100 du coût de la construction.
+santé, représentant au moins 20 p. 100 du coût de la construction;
 
 2. Les logements-foyers existants dont l'amélioration ou l'acquisition suivie
 d'une amélioration est financée :
@@ -32,10 +32,14 @@ Soit au moyen de subventions accordées sur le budget du ministère chargé de l
 santé représentant au moins 20 p. 100 du coût des travaux d'amélioration
 subventionnables ou du coût de l'opération d'acquisition-amélioration.
 
+Il en est de même des immeubles améliorés ou acquis et améliorés aux fins de
+transformation en logements-foyers avec le bénéfice des financements mentionnés
+ci-dessus;
+
 3. Les logements-foyers neufs dont la construction est financée :
 
 Soit dans les conditions prévues par le titre III, chapitre Ier, section I, du
-présent livre.
+présent livre;
 
 Soit au moyen de subventions accordées sur le budget du ministère chargé de la
 santé représentant au moins 20 p. 100 du coût de la construction.
