@@ -29,6 +29,9 @@ de travail d'une durée inférieure ou égale à huit jours ;
 
 b) Contraventions contre les biens réprimées par :
 
+- l'article R. 610-5 relatif à la violation des interdictions ou au manquement
+aux obligations édictées par les décrets et arrêtés de police ;
+
 - l'article R. 631-1 relatif aux menaces de destruction, de dégradation ou de
 détérioration n'entraînant qu'un dommage léger ;
 
@@ -89,7 +92,11 @@ relatif à la lutte contre la rage ;
 
 8° Contraventions réprimées par l'article 8 du décret n° 99-1164 du 29 décembre
 1999 pris pour l'application du chapitre III du titre II du livre II du code
-rural et relatives à la détention de chiens dangereux.
+rural et relatives à la détention de chiens dangereux ;
+
+9° Contraventions énumérées à l'article R. 48-1 du présent code, relatif à la
+liste des contraventions pour lesquelles l'action publique est éteinte par le
+paiement d'une amende forfaitaire.
 
 Toutefois, la juridiction de proximité n'est pas compétente en cas de poursuite
 concomitante de l'une des contraventions susvisées avec des contraventions
