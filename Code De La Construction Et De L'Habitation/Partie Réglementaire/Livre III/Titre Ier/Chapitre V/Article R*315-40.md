@@ -1,16 +1,14 @@
 Article R*315-40
 ----
-Le souscripteur d'un plan d'épargne-logement venu à terme reçoit de l'Etat une
-prime d'épargne.
+Lors du retrait des fonds, le souscripteur d'un plan d'épargne-logement reçoit
+de l'Etat une prime d'épargne égale au montant des intérêts acquis.
 
-Lorsque le souscripteur bénéficie d'un prêt d'épargne-logement, la prime
-d'épargne est égale au montant des intérêts acquis jusqu'à la date de la demande
-de prêt. Elle est versée lors de la réalisation du prêt.
+La prime d'épargne versée au souscripteur d'un plan d'épargne-logement ouvert à
+compter du 1er janvier 1981 [*date*] est égale à un pourcentage, déterminé par
+arrêté du ministre chargé des finances, du ministre chargé de la construction et
+de l'habitation et du ministre chargé des postes et télécommunications, des
+intérêts acquis à la date de venue à terme du plan [*calcul*].
 
-Lorsque le souscripteur ne sollicite pas l'octroi d'un prêt d'épargne-logement,
-la prime d'épargne est égale au montant des intérêts acquis jusqu'à la date de
-la renonciation. Elle est versée à la date de la renonciation.
-
-La prime d'épargne ne peut pas dépasser, toutefois, un montant fixé par arrêté
-du ministre chargé des finances, du ministre chargé de la construction et de
-l'habitation et du ministre chargé des postes et télécommunications.
+La prime d'épargne ne peut pas dépasser un montant fixé par arrêté du ministre
+chargé des finances, du ministre chargé de la construction et de l'habitation et
+du ministre chargé des postes et télécommunications.
