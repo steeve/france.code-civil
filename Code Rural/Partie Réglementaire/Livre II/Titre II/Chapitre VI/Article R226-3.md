@@ -12,8 +12,8 @@ sauvage, ou son représentant ;
 4° Le président de l'assemblée permanente des chambres d'agriculture, ou son
 représentant ;
 
-5° Le président du centre national professionnel de la propriété forestière, ou
-son représentant ;
+5° Le président de la commission nationale professionnelle de la propriété
+forestière, ou son représentant ;
 
 6° Le président de la fédération nationale des chasseurs, ou son représentant ;
 
