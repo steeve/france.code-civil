@@ -18,8 +18,8 @@ mentionnées aux articles L. 211-11 et L. 214-14 du présent code, dans les
 conditions indiquées à l'article L. 1515-1 du code de la santé publique.
 
 IV. - Pour l'application de l'article L. 212-2 à Mayotte, les mots : "des
-conseils régionaux et généraux concernés" et "des conseils régionaux et des
-conseils généraux concernés" sont remplacés par les mots : "du conseil général".
+conseils régionaux, des conseils généraux et des chambres consulaires concernés"
+sont remplacés par les mots : "du conseil général et des chambres consulaires".
 
 V. - Pour l'application de l'article L. 212-6 à Mayotte, les mots : "des
 conseils généraux, des conseils régionaux" sont remplacés par les mots : "du
