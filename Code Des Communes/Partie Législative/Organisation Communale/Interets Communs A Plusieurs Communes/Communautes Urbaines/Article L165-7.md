@@ -1,42 +1,53 @@
 Article L165-7
 ----
-Sont transférées à la communauté urbaine les compétences attribuées par les lois
-et règlements aux communes dans les domaines suivants :
+Sont transférées à la communauté urbaine les compétences attribuées aux communes
+dans les domaines suivants :
 
-1° plan de modernisation et d'équipement, plan directeur d'urbanisme
-intercommunal et plans d'urbanisme communaux, ceux-ci devant être soumis pour
-avis aux conseils municipaux intéressés ; constitution de réserves foncières
-intéressant la communauté ;
+1° Chartes intercommunales de développement et d'aménagement, schémas
+directeurs, plans d'occupation des sols ou documents d'urbanisme en tenant lieu,
+programmes locaux de l'habitat, constitution de réserves foncières intéressant
+la communauté, les conseils municipaux devant être saisis pour avis ;
 
-2° création et équipement des zones d'aménagement concerté : zones d'habitation,
-zones industrielles, secteurs de rénovation ou de restructuration ;
+2° Création et équipement des zones d'habitation, des zones de rénovation
+urbaine, des zones de réhabilitation, des zones industrielles, des zones
+artisanales et des zones portuaires ;
 
-3° construction et aménagement des locaux scolaires dans les zones d'aménagement
-concerté ; entretien de ces locaux lorsque la zone s'étend sur plusieurs
-communes ;
+3° Construction, aménagement et entretien des locaux scolaires dans les zones
+mentionnées au 2° et réalisés par la communauté ;
 
-4° service du logement et organismes d'habitations à loyer modéré ;
+à l'expiration d'un délai de dix ans à dater de leur mise en service, la
+propriété et l'entretien de ces locaux sont transférés, sur sa demande, à la
+commune sur le territoire de laquelle ils sont situés ; en ce cas, les
+conditions de prise en charge des annuités d'emprunt afférentes à ces locaux
+sont déterminées par délibérations concordantes du conseil de communauté et du
+conseil municipal intéressé ;
 
-5° services de secours et lutte contre l'incendie ;
+4° Services de secours et de lutte contre l'incendie ;
 
-6° transports urbains de voyageurs ;
+5° Transports urbains de voyageurs ;
 
-7° lycées et collèges ;
+6° Lycées et collèges ;
 
-8° eau, assainissement, à l'exclusion de l'hydraulique agricole, ordures
+7° Eau, assainissement, à l'exclusion de l'hydraulique agricole, ordures
 ménagères ;
 
-9° création de cimetières et extension des cimetières ainsi créés ; fours
+8° Création de cimetières et extension des cimetières ainsi créés, fours
 crématoires ;
 
-10° abattoirs, abattoirs marchés, marchés d'intérêt national ;
+9° Abattoirs, abattoirs marchés, marchés d'intérêt national ;
 
-11° voirie et signalisation ;
+10° Voirie et signalisation ;
 
-12° parcs de stationnement.
+11° Parcs de stationnement.
+
+Lors de la création de la communauté, les communes peuvent décider, dans les
+conditions de majorité prévues à l'article L. 165-4, compétences de la
+communauté tout ou partie de celles relatives aux équipements ou opérations
+mentionnés aux 2°, 8°, 10° et 11° ci-dessus lorsque ces équipements ou ces
+opérations sont principalement destinés aux habitants d'une commune.
 
 Des décrets, lorsque la communauté urbaine est créée par décret, des décrets en
-Conseil d'Etat dans les autres cas fixent pour chaque agglomération les dates
+conseil d'état dans les autres cas fixent pour chaque agglomération les dates
 d'exercice des différentes compétences transférées, pour tout ou partie de
 celles-ci.
 
