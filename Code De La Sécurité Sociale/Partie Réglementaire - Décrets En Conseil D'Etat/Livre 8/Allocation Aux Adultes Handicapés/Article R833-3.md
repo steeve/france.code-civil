@@ -24,4 +24,7 @@ du commissaire de la République certifiant que l'allocataire ne peut être log�
 conformément aux conditions fixées au premier alinéa du présent article.
 
 L'allocation de logement n'est pas due si le local est loué ou sous-loué en
-partie à des tiers.
+partie à des tiers sauf si le local est loué ou sous-loué à une personne
+hébergée en application de la loi n° 89-475 du 10 juillet 1989 relative à
+l'accueil par des particuliers, à leur domicile, à titre onéreux, de personnes
+âgées ou handicapées adultes.
