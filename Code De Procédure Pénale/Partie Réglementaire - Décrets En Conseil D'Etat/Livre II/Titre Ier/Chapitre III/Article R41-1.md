@@ -2,14 +2,15 @@ Article R41-1
 ----
 La liste des jurés suppléants prévue par l'article 264 comprend :
 
-1° Sept cents jurés pour la cour d'assises de Paris ;
+1° Sept cents jurés pour les cours d'assises de Paris et de la Seine-Saint-Denis
+;
 
 2° Six cents jurés pour la cour d'assises du Val-de-Marne ;
 
 3° Quatre cent cinquante jurés pour les cours d'assises des Bouches-du-Rhône, de
 la Gironde, du Nord et des Yvelines ;
 
-4° Trois cent cinquante jurés pour la cour d'assises de la Seine-Saint-Denis ;
+4° (alinéa supprimé)
 
 5° Deux cent cinquante jurés pour les cours d'assises des Alpes-Maritimes, de la
 Corse-du-Sud, de la Haute-Corse, de l'Essonne, des Hauts-de-Seine,

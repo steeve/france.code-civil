@@ -18,9 +18,7 @@ avant de faire connaître sa réponse.
 
 Le procès-verbal précise que la personne a été informée que la proposition de
 composition pénale va être adressée pour validation au président du tribunal de
-grande instance ou au juge d'instance, et qu'elle peut demander à être entendue
-par ce magistrat. Il indique si la personne demande ou ne demande pas cette
-audition.
+grande instance ou au juge d'instance.
 
 Le procès-verbal précise également que la personne sera informée de la décision
 du président du tribunal de grande instance ou du juge d'instance, et qu'en cas

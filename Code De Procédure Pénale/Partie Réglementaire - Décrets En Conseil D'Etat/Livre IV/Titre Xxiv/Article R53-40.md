@@ -1,7 +1,8 @@
 Article R53-40
 ----
 La juridiction de proximité est compétente pour juger les contraventions de
-police suivantes, lorsqu'elles sont commises par des personnes physiques :
+police suivantes, lorsqu'elles sont commises par des personnes physiques sous
+les réserves indiquées au dernier alinéa du présent article,
 
 1° Contraventions réprimées par les articles suivants du code pénal :
 
@@ -89,3 +90,8 @@ relatif à la lutte contre la rage ;
 8° Contraventions réprimées par l'article 8 du décret n° 99-1164 du 29 décembre
 1999 pris pour l'application du chapitre III du titre II du livre II du code
 rural et relatives à la détention de chiens dangereux.
+
+Toutefois, la juridiction de proximité n'est pas compétente en cas de poursuite
+concomitante de l'une des contraventions susvisées avec des contraventions
+relevées à l'encontre d'une personne morale ou avec d'autres contraventions
+connexes ne relevant pas de la compétence de la juridiction de proximité.

@@ -6,12 +6,9 @@ d'assises énumérées ci-dessous est fixé comme suit :
 
 Cours d'assises
 
+- DÉPARTEMENTS
 
-DÉPARTEMENTS
-
-NOMBRE DE JURÉS
-
-figurant sur la liste annuelle
+- NOMBRE DE JURÉS figurant sur la liste annuelle
 
 
 Alpes-Maritimes
@@ -91,6 +88,11 @@ Paris
 Savoie
 
 390
+
+
+Seine-Saint-Denis
+
+2 000
 
 
 Val-de-Marne
