@@ -4,8 +4,8 @@ Les dispositions de la présente section s'appliquent aux opérations collective
 à adhésion facultative et aux opérations individuelles des institutions de
 prévoyance.
 
-L'opération par laquelle une entreprise ou un groupement d'épargne individuelle
-pour la retraite, dénommé "l'adhérent", adhère par la signature d'un bulletin au
+L'opération par laquelle une entreprise ou un groupement d'épargne retraite
+populaire, dénommé "l'adhérent", adhère par la signature d'un bulletin au
 règlement d'une institution de prévoyance ou souscrit auprès de celle-ci un
 contrat au profit de ses salariés ou d'une ou plusieurs catégories d'entre eux
 ou de ses membres en vue de leur assurer la couverture d'engagements ou de
