@@ -2,8 +2,10 @@ Article L2
 ----
 Ont droit au bénéfice des dispositions du présent code :
 
-1° Les fonctionnaires civils auxquels s'applique l'ordonnance n° 59-244 du 4
-février 1959 relative au statut général des fonctionnaires ;
+1° Les fonctionnaires civils auxquels s'appliquent les lois n° 83-634 du 13
+juillet 1983 portant droits et obligations des fonctionnaires et n° 84-16 du 11
+janvier 1984 portant dispositions statutaires relatives à la fonction publique
+de l'Etat, relatives aux titres Ier et II du statut général des fonctionnaires ;
 
 2° Les magistrats de l'ordre judiciaire ;
 
