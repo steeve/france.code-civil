@@ -13,10 +13,12 @@ réduction d'impôt s'applique aux intérêts afférents aux cinq premières ann
 de ces prêts.
 
 Le montant global des intérêts et dépenses à retenir pour le calcul de la
-réduction d'impôt est limité à 9000 F, cette somme étant augmentée de 1500 F par
-personne à la charge du contribuable au sens des articles 196, 196 A bis et 196
-B. Ces dispositions ne s'appliquent qu'en ce qui concerne les immeubles affectés
-à l'habitation principale des redevables.
+réduction d'impôt est limité à 9000 F, cette somme t étant augmentée de 1500 F
+par personne à la charge du contribuable au sens des articles 196, 196 A bis et
+196 B. Ces dispositions ne s'appliquent qu'en ce qui concerne les immeubles
+affectés à l'habitation principale des redevables. Les montants de 9000 F et
+1500 F sont portés respectivement à 15000 F et 2000 F pour les intérêts des
+prêts conclus et les dépenses payées à compter du 1er janvier 1985.
 
 b. Les dispositions du a s'appliquent même lorsque l'immeuble n'est pas affecté
 immédiatement à l'habitation principale, à la condition que le propriétaire
@@ -39,18 +41,18 @@ produits pétroliers.
 Le montant maximum des dépenses à retenir pour le calcul de la réduction d'impôt
 est fixé à 8000 F par logement, cette somme étant augmentée de 1000 F par
 personne à la charge du contribuable au sens des articles 196, 196 A bis et 196
-B ; pour les contribuables qui échelonnent leurs dépenses sur plusieurs années,
-la réduction d'impôt peut être accordée au titre de chacune de ces années sans
-que le total des dépenses retenues puisse être supérieur au montant qui serait
-admis en l'absence d'échelonnement. Le bénéfice de la réduction d'impôt est
-réservé aux logements existant au 1er juillet 1981 et aux logements ayant fait
-l'objet avant cette date, soit d'une demande de permis de construire, soit d'une
-déclaration préalable de travaux.
-
-Lorsque le bénéficiaire de la réduction d'impôt est remboursé en tout ou partie
-de ses dépenses par un tiers, dans un délai de dix ans, il fait l'objet, au
-titre de l'année du remboursement, d'une majoration de son impôt sur le revenu
-égale à 25 % de la somme remboursée ;
+B ; ces montants sont portés respectivement à 12.000 F et 2000 F pour les
+dépenses payées à compter du 1er janvier 1985. Pour les contribuables qui
+échelonnent leurs dépenses sur plusieurs années, la réduction d'impôt peut être
+accordée au titre de chacune de ces années sans que le total des dépenses
+retenues puisse être supérieur au montant qui serait admis en l'absence
+d'échelonnement. Le bénéfice de la réduction d'impôt est réservé aux logements
+existant au 1er juillet 1981 et aux logements ayant fait l'objet avant cette
+date, soit d'une demande de permis de construire, soit d'une déclaration
+préalable de travaux. Lorsque le bénéficiaire de la réduction d'impôt est
+remboursé en tout ou partie de ses dépenses par un tiers, dans un délai de dix
+ans, il fait l'objet, au titre de l'année du remboursement, d'une majoration de
+son impôt sur le revenu égale à 25 % de la somme remboursée ;
 
 b. Le régime de la réduction d'impôt visée au a est étendu aux dépenses
 relatives à l'installation de pompes à chaleur et à l'utilisation des énergies
