@@ -1,14 +1,28 @@
 Article D322-22-11
 ----
-Le contrat insertion-revenu minimum d'activité peut se cumuler avec une activité
-complémentaire rémunérée, à l'issue d'une période de quatre mois à compter de la
-date d'effet du contrat initial, en application des dispositions prévues au
-troisième alinéa de l'article L. 322-4-15-5 dès lors que les conditions
-suivantes sont réunies :
+Pour l'application des dispositions des articles R. 351-35-1, R. 262-8 du code
+de l'action sociale et des familles, R. 524-3 du code de la sécurité sociale, le
+président du conseil général ou l'organisme qu'il a chargé du service de l'aide
+à l'employeur ou le Centre national pour l'aménagement des structures des
+exploitations agricoles transmet aux organismes mentionnés à l'article L. 262-30
+du code de l'action sociale et des familles et à l'article L. 351-21 :
 
-a) L'activité s'exerce dans le cadre d'un contrat de travail ou d'une formation
-professionnelle rémunérée ;
+1° Les informations nominatives relatives aux personnes ayant conclu un contrat
+insertion-revenu minimum d'activité et nécessaires à la détermination, au
+traitement et à la liquidation de leurs droits relatifs à l'allocation notamment
+:
 
-b) Dans le cas d'un contrat de travail, l'activité complémentaire n'est pas
-exercée auprès de l'employeur du contrat insertion-revenu minimum d'activité ou
-dans le cadre d'un autre contrat insertion-revenu minimum d'activité.
+a) Le nom et l'adresse du salarié en contrat insertion-revenu minimum d'activité
+;
+
+b) Le numéro d'inscription au répertoire national d'identification des personnes
+physiques ;
+
+c) La date d'effet du contrat et sa date d'arrivée à terme ;
+
+d) Le montant du revenu correspondant.
+
+2° Les informations relatives à tout changement de situation du salarié du
+contrat insertion-revenu minimum d'activité ayant pour effet une modification du
+montant de l'aide à l'employeur mentionnée au troisième alinéa du I de l'article
+L. 322-4-15-6.

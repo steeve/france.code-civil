@@ -1,31 +1,53 @@
 Article D322-22-7
 ----
-En cas de non-respect des dispositions de la convention par l'employeur, le
-président du conseil général peut, après notification à l'employeur, et après
-que celui-ci a été mis à même de présenter des observations dans un délai de
-sept jours à compter de cette notification, suspendre ou dénoncer la convention
-de contrat insertion-revenu minimum d'activité.
+I. - L'employeur d'un salarié en contrat insertion-revenu minimum d'activité
+informe dans un délai de sept jours francs, selon les cas, le président du
+conseil général ou, le cas échéant, l'organisme qu'il a chargé du service de
+l'aide à l'employeur ou le Centre national pour l'aménagement des structures des
+exploitations agricoles, auquel il transmet copie des documents justifiant la
+suspension du contrat en cas :
 
-Le président du conseil général en informe l'organisme de recouvrement des
-cotisations et contributions sociales compétent visé aux articles L. 213-1 et L.
-752-4 du code de la sécurité sociale ou à l'article L. 723-2 du code rural.
+1° D'incapacité médicalement constatée ouvrant droit à l'indemnité journalière
+prévue au 5° de l'article L. 321-1 du code de la sécurité sociale ;
 
-Cet organisme n'est compétent qu'en ce qui concerne le recouvrement des indus
-liés à l'exonération prévue à l'article L. 322-4-15-7. Dans le cas où il
-constaterait que les conditions liées au bénéfice du contrat insertion-revenu
-minimum d'activité ne sont pas remplies, il en avertit le président du conseil
-général. L'organisme compétent recouvre ces indus dans les conditions de droit
-commun à la demande expresse du président du conseil général. Cette demande
-mentionne la date à partir de laquelle l'indu doit être constaté et si la
-convention fait l'objet d'une suspension ou d'une dénonciation.
+2° D'accident du travail et de maladie professionnelle ouvrant droit à
+l'indemnité journalière prévue à l'article L. 433-1 du même code ;
 
-Par dérogation à l'alinéa précédent, l'organisme peut procéder au recouvrement
-sur sa propre initiative dans les cas suivants :
+3° De congé légal de maternité, de paternité ou d'adoption prévus aux articles
+L. 122-25 et suivants du présent code et ouvrant droit à l'indemnité journalière
+prévue aux articles L. 331-3 et suivants du code de la sécurité sociale ;
 
-a) Recours à l'exonération prévue à l'article L. 322-4-15-7 en l'absence de
-convention ou de contrat insertion-revenu minimum d'activité ;
+A compter de la date d'effet de la suspension, le versement des aides
+mentionnées au troisième alinéa du I de l'article L. 322-4-15-6 afférentes à la
+période est interrompu et les sommes indûment perçues sont reversées.
 
-b) Inexactitude du calcul de l'exonération ;
+II. - Par dérogation aux dispositions du I du présent article, en cas de
+suspension du contrat de travail avec maintien total ou partiel de la
+rémunération, les aides mentionnées au troisième alinéa du I de l'article L.
+322-4-15-6 afférentes à la période continuent à être versées.
 
-c) Rupture ou suspension du contrat sur l'initiative du salarié ou de
-l'employeur n'ayant pas fait l'objet des notifications prévues.
+III. - En cas de suspension du contrat insertion-revenu minimum d'activité ou en
+cas de rupture anticipée en application du premier alinéa de l'article L.
+322-4-15-5, l'employeur en informe dans un délai de sept jours francs, selon les
+cas, le président du conseil général et le cas échéant l'organisme qu'il a
+chargé du service de l'aide à l'employeur ou l'Agence nationale pour l'emploi et
+le Centre national pour l'aménagement des structures des exploitations
+agricoles, auquel il transmet :
+
+1° En cas de rupture à l'initiative du salarié du contrat ou de l'employeur, la
+copie de la lettre de rupture mentionnant le cas échéant si celle-ci a eu lieu
+au cours de la période d'essai ;
+
+2° En cas de faute ou de force majeure, la copie de la lettre par laquelle est
+constatée la rupture immédiate du contrat ;
+
+3° En cas de rupture justifiée par la conclusion avec un autre employeur d'un
+contrat à durée déterminée d'une durée supérieure à six mois ou d'un contrat à
+durée indéterminée ou par le suivi d'une formation permettant l'acquisition de
+l'une des qualifications mentionnées aux quatre premiers alinéas de l'article L.
+900-3, tout document justifiant de l'embauche ou de l'inscription à la formation
+;
+
+4° En cas de suspension du contrat insertion-revenu minimum d'activité pour
+effectuer une période d'essai auprès d'un autre employeur, la copie du contrat
+de travail correspondant.
