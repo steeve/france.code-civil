@@ -21,4 +21,11 @@ Pour le calcul de l'allégement :
 que définis à l'article L. 242-1, versés au salarié au cours du mois civil ;
 
 2. Lorsque le rapport entre 6 981,46 F et la rémunération mensuelle est
-supérieur à un, il est pris en compte pour une valeur égale à un.
+supérieur à un, il est pris en compte pour une valeur égale à un ;
+
+3. Est prise en compte, pour l'application du premier alinéa du III de l'article
+L. 241-13-1 aux personnels auxquels sont applicables les dispositions de
+l'article D. 422-8 du code de l'aviation civile, la durée du temps de vol fixée
+par l'accord collectif dans la limite des durées mensuelle et annuelle prévues
+audit article, lorsque la durée du temps de travail de ces personnels est
+exprimée en temps de vol.

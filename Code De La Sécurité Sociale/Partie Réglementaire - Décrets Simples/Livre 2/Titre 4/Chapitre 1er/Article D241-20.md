@@ -32,7 +32,25 @@ l'article L. 212-9 du même code, la durée collective définie sur le mois est
 égale à cinquante-deux douzièmes de la durée moyenne hebdomadaire ; toutefois,
 lorsque la rémunération versée au salarié est calculée compte tenu de l'horaire
 réel pratiqué dans l'entreprise ou l'établissement, cet horaire est pris en
-compte.
+compte ;
+
+4. Lorsqu'il est fait application du 3 de l'article D. 241-13, sont prises en
+compte, chaque mois, la durée du temps de vol rémunéré au cours du mois et la
+durée fixée par l'accord dans la limite de la durée mensuelle prévue au premier
+alinéa de l'article D. 422-8 du code de l'aviation civile et, chaque année, la
+durée du temps de vol rémunéré au cours de l'année civile et la durée fixée par
+l'accord dans la limite de la durée annuelle prévue au deuxième alinéa du même
+article.
+
+Lorsque le contrat de travail s'exécute sur l'ensemble de l'année civile, une
+régularisation est effectuée pour tenir compte de la différence éventuelle entre
+:
+
+1° Le montant de l'allégement déterminé au cours de l'année civile selon les
+modalités définies au premier alinéa du 4 ;
+
+2° Et la somme des allégements calculés au cours des douze mois civils selon les
+modalités définies au premier alinéa du 4.
 
 Pour le calcul du rapport mentionné au 2 du I du présent article, dans le cas de
 salariés d'une entreprise de travail temporaire mis à disposition au cours d'un

@@ -13,7 +13,9 @@ entreprises ;
 
 2. La durée collective du travail fixée dans les limites prévues au I de
 l'article 19 de la loi du 19 janvier 2000 précitée et sa date d'entrée en
-vigueur ;
+vigueur à la durée fixée par l'accord dans la limite des durées mensuelle et
+annuelle prévues à l'article D. 422-8 du code de l'aviation civile lorsqu'il est
+fait application du 3 de l'article D. 241-13 ;
 
 3. L'effectif employé dans l'entreprise déterminé selon les modalités prévues au
 XII de l'article 19 de la loi du 19 janvier 2000 précitée ;
