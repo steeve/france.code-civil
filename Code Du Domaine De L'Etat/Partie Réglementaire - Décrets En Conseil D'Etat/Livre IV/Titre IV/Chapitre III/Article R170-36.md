@@ -1,8 +1,9 @@
 Article R170-36
 ----
 Le dossier constitué par la demande, par les pièces versées par le pétitionnaire
-et par les éléments recueillis par l'administration est soumis à une commission
-chargée d'émettre un avis sur le projet.
+et par les éléments recueillis par l'administration ou par l'Etablissement
+public d'aménagement en Guyane est soumis à une commission chargée d'émettre un
+avis sur le projet.
 
 Cette commission est présidée par le préfet ou son représentant et comprend :
 

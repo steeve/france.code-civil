@@ -3,7 +3,8 @@ Article R170-55
 Une commission est chargée d'émettre un avis sur les demandes de concession, sur
 l'exécution des obligations mises à la charge de la collectivité par l'acte de
 concession et sur les demandes de cessions gratuites, pour constituer des
-réserves foncières, présentées par les communes.
+réserves foncières, présentées par les communes ou par l'Etablissement public
+d'aménagement en Guyane.
 
 Cette commission est présidée par le préfet ou son représentant et comprend :
 
