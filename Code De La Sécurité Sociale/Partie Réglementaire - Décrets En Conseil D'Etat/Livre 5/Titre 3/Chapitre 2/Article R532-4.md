@@ -7,9 +7,7 @@ ou concubin :
 1°) soit cessant toute activité professionnelle pour se consacrer à un enfant de
 moins de trois ans ou à plusieurs enfants ;
 
-2°) soit appelé sous les drapeaux ;
-
-3°) soit détenu, à moins que l'intéressé ne soit placé sous le régime de
+2°) soit détenu, à moins que l'intéressé ne soit placé sous le régime de
 semi-liberté.
 
 En cas de décès de l'un des conjoints ou concubins, il n'est pas tenu compte des
