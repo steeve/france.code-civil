@@ -1,28 +1,14 @@
 Article L211-1
 ----
-Lorsqu'un intérêt scientifique particulier ou que les nécessités de la
-préservation du patrimoine biologique justifient la conservation d'espèces
-animales non domestiques ou végétales non cultivées, sont interdits :
+Lorsque des animaux non gardés ou dont le gardien est inconnu ont causé du
+dommage, le propriétaire lésé a le droit de les conduire sans retard au lieu de
+dépôt désigné par le maire, qui, s'il connaît la personne responsable du dommage
+aux termes de l'article 1385 du code civil, lui en donne immédiatement avis.
 
-1° La destruction ou l'enlèvement des oeufs ou des nids, la mutilation, la
-destruction, la capture ou l'enlèvement, la perturbation intentionnelle, la
-naturalisation d'animaux de ces espèces ou, qu'ils soient vivants ou morts, leur
-transport, leur colportage, leur utilisation, leur détention, leur mise en
-vente, leur vente ou leur achat ;
+Si les animaux ne sont pas réclamés, et si le dommage n'est pas réparé dans la
+huitaine du jour où il a été commis, il est procédé à la vente sur ordonnance du
+juge compétent de l'ordre judiciaire qui évalue les dommages.
 
-2° La destruction, la coupe, la mutilation, l'arrachage, la cueillette ou
-l'enlèvement de végétaux de ces espèces, de leurs fructifications ou toute autre
-forme prise par ces espèces au cours de leur cycle biologique, leur transport,
-leur colportage, leur utilisation, leur mise en vente, leur vente ou leur achat,
-la détention de spécimens prélevés dans le milieu naturel ;
-
-3° La destruction, l'altération ou la dégradation du milieu particulier à ces
-espèces animales ou végétales ;
-
-4° La destruction des sites contenant des fossiles permettant d'étudier
-l'histoire du monde vivant ainsi que les premières activités humaines et la
-destruction ou l'enlèvement des fossiles présents sur ces sites.
-
-Les interdictions de détention édictées en application du 1° ou du 2° du présent
-article ne portent pas sur les spécimens détenus régulièrement lors de l'entrée
-en vigueur de l'interdiction relative à l'espèce à laquelle ils appartiennent.
+En ce qui concerne la fixation du dommage, l'ordonnance ne devient définitive à
+l'égard du propriétaire de l'animal, que s'il n'a pas formé opposition par
+simple avertissement dans la huitaine de la vente.

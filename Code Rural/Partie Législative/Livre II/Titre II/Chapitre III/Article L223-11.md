@@ -1,15 +1,7 @@
 Article L223-11
 ----
-Il est perçu :
-
-1° Pour la validation du permis de chasser :
-
-a) Un droit de timbre annuel au profit de l'Etat, conformément à l'article 964
-du code général des impôts ;
-
-b) Une taxe annuelle de 10 F au profit de la commune où la demande de validation
-a été présentée.
-
-2° Pour la délivrance de chaque duplicata de la validation annuelle du permis de
-chasser, une taxe de 10 F au profit de la commune où la demande de validation a
-été présentée.
+Dans les territoires définis comme il est dit à l'article L. 223-10, les chiens
+et les chats errants dont la capture est impossible ou dangereuse sont abattus
+sur place par les agents de la force publique, les lieutenants de louveterie,
+les agents assermentés chargés de la police de la chasse, ou toute personne
+titulaire d'un permis de chasser à ce requise par le maire.

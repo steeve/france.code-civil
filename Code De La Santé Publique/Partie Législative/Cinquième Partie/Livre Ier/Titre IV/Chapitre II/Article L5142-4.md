@@ -9,4 +9,5 @@ prescription d'un vétérinaire dans des conditions fixées par décret.
 Le ministre chargé de l'agriculture peut acquérir directement auprès de ces
 établissements et peut faire utiliser par ses agents habilités à cet effet les
 médicaments vétérinaires et produits nécessaires à la réalisation des missions
-dont il est chargé au titre des dispositions de l'article L.921-1 du code rural.
+dont il est chargé au titre des dispositions de l'article L. 221-1 du code
+rural.

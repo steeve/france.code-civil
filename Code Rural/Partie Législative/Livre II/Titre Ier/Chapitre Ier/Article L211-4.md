@@ -1,6 +1,16 @@
 Article L211-4
 ----
-Les mesures d'interdiction mentionnées à l'article L. 211-3 sont, lorsqu'elles
-concernent des espèces intéressant les productions agricoles et forestières,
-prises conjointement par les ministres chargés de l'agriculture, de la forêt et
-de l'environnement.
+I.-Les volailles et autres animaux de basse-cour qui s'enfuient dans les
+propriétés voisines ne cessent pas d'appartenir à leur maître quoi qu'il les ait
+perdus de vue.
+
+Néanmoins, celui-ci ne peut plus les réclamer un mois après la déclaration qui
+doit être faite à la mairie par les personnes chez lesquelles ces animaux se
+sont enfuis.
+
+II.-Ainsi qu'il est dit à l'article 564 du code civil ci-après reproduit :
+
+" Art. 564 : Les pigeons, lapins, poissons, qui passent dans un autre colombier,
+garenne ou plan d'eau visé aux articles L. 431-6 et L. 431-7 du code de
+l'environnement appartiennent au propriétaire de ces objets, pourvu qu'ils n'y
+aient point été attirés par fraude et artifice."

@@ -1,7 +1,7 @@
 Article 99-1
 ----
 Lorsque, au cours d'une procédure judiciaire ou des contrôles mentionnés à
-l'article 283-5 du code rural, il a été procédé à la saisie ou au retrait, à
+l'article L. 214-23 du code rural, il a été procédé à la saisie ou au retrait, à
 quelque titre que ce soit, d'un ou plusieurs animaux vivants, le procureur de la
 République près le tribunal de grande instance du lieu de l'infraction ou,
 lorsqu'il est saisi, le juge d'instruction peut placer l'animal dans un lieu de

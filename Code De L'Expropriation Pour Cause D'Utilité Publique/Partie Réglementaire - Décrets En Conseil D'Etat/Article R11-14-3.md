@@ -7,7 +7,7 @@ soumise à enquête et lui adresse à cette fin une demande précisant l'objet d
 l'enquête ainsi que la période d'enquête retenue.
 
 Le président du tribunal administratif ou le membre du tribunal délégué à cette
-fin désigne dans un délai de quinze jours, un commissaire enquêteur ou les
+fin désigne dans un délai de quinze jours un commissaire enquêteur ou les
 membres, en nombre impair, d'une commission d'enquête parmi lesquels il choisit
 un président.
 

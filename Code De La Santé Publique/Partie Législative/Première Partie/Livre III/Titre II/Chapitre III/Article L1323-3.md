@@ -7,4 +7,4 @@ Pour l'exercice des contrôles exigeant une compétence vétérinaire, les
 inspecteurs diligentés par l'agence doivent être titulaires du diplôme de
 vétérinaire et exercer les fonctions de vétérinaire inspecteur titulaire ou
 contractuel de l'Etat ou être titulaires du mandat sanitaire instauré à
-l'article L. 921-11 du code rural.
+l'article L. 221-11 du code rural.

@@ -1,3 +1,6 @@
 Article L221-3
 ----
-Il ne peut exister qu'une fédération des chasseurs par département.
+Tout entrepreneur de transport par terre ou par eau qui aura transporté des
+animaux est tenu, en tout temps, de désinfecter les véhicules qui auraient servi
+à cet usage, ainsi que les étables, les écuries, quais et cours où les animaux
+ont séjourné.

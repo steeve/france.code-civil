@@ -2,9 +2,9 @@ Article 130
 ----
 Sous réserve des cas fixés par décret en Conseil d'Etat, l'exploitation, en vue
 de leur utilisation, des masses constituées par des haldes et terrils de mines
-et par les déchets d'exploitation de carrières est soumise aux dispositions de
-la loi n° 76-663 du 19 juillet 1976 relative aux installations classées pour la
-protection de l'environnement pour ce qui concerne les carrières.
+et par les déchets d'exploitation de carrières est soumise aux dispositions du
+livre V (titre Ier) du code de l'environnement pour ce qui concerne les
+carrières.
 
 Il en est de même pour les opérations de dragage des cours d'eau et les
 affouillements du sol portant sur une superficie ou une quantité de matériaux au

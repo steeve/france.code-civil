@@ -4,7 +4,7 @@ Un avis portant les indications mentionnées à l'article R. 11-14-5 à la
 connaissance du public est, par les soins du préfet, publié, en caractères
 apparents, dans deux journaux régionaux ou locaux diffusés dans le ou les
 départements concernés, au moins quinze jours avant le début de l'enquête et
-rappelé de même dans les huit premiers jours de celle-ci *délai*.
+rappelé de même dans les huit premiers jours de celle-ci.
 
 Pour les opérations d'importance nationale, ledit avis est, en outre, publié
 dans deux journaux à diffusion nationale quinze jours au moins avant le début de

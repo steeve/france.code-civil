@@ -1,13 +1,7 @@
 Article L224-3
 ----
-Toutefois, le propriétaire ou possesseur peut, en tous temps, chasser ou faire
-chasser le gibier à poil dans ses possessions attenant à une habitation et
-entourées d'une clôture continue et constante faisant obstacle à toute
-communication avec les héritages voisins et empêchant complètement le passage de
-ce gibier et celui de l'homme.
-
-Un décret en Conseil d'Etat précise les conditions d'extension des dispositions
-de l'alinéa précédent à la chasse de certains oiseaux d'élevage.
-
-Ce décret définit également les modalités du contrôle exercé pour faire
-respecter ces dispositions.
+Les propriétaires ou détenteurs d'animaux soumis aux opérations de prophylaxie
+collective des maladies des animaux dirigées par l'Etat sont tenus de faire
+assurer l'exécution de ces opérations, y compris l'abattage. En cas de carence
+ou de refus, ces opérations peuvent être exécutées d'office aux frais des
+intéressés par l'autorité administrative.

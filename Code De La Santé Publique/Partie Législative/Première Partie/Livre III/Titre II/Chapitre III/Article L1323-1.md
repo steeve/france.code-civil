@@ -23,10 +23,10 @@ mission de défense nationale dans le domaine alimentaire.
 Dans le cadre du Centre national d'études vétérinaires et alimentaires, placé en
 son sein et géré par elle, l'agence fournit l'appui technique et scientifique
 nécessaire à la mise en oeuvre des mesures prévues par le code rural, notamment
-par l'article L. 654-2, par le chapitre IV du titre Ier du livre IX, par les
-articles L. 915-9 à L. 915-14, par les chapitres Ier, II, III et VI du titre II
-du livre IX, par le chapitre VI du titre III du livre IX, par l'article L.
-937-2.
+par l'article L. 654-2, par le chapitre IV du titre Ier du livre II, par les
+articles L. 215-9 à L. 215-14, par les chapitres Ier, II, III et VI du titre II
+du livre II, par le chapitre VI du titre III du livre II, par l'article L.
+237-2.
 
 Pour l'accomplissement de ses missions, les laboratoires des services de l'Etat
 chargés du contrôle de la sécurité sanitaire des aliments et ceux qui leur sont

@@ -1,4 +1,7 @@
 Article L223-1
 ----
-Nul ne peut pratiquer la chasse s'il n'est titulaire et porteur d'un permis de
-chasser valable.
+Les maires avisent d'urgence le préfet de tous cas d'épizootie qui leur seraient
+signalés dans le territoire de la commune.
+
+Ils peuvent prendre les mesures provisoires qu'ils jugent utiles pour arrêter la
+propagation du mal.

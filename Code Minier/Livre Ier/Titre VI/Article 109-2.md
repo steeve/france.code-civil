@@ -10,8 +10,8 @@ application de l'article 107 ;
 
 c) Absence ou insuffisance prolongée d'exploitation manifestement contraires aux
 possibilités du gisement ou à l'intérêt des consommateurs et non justifiées par
-l'état du marché ou l'application de la loi n° 76-663 du 19 juillet 1976
-relative aux installations classées pour la protection de l'environnement ;
+l'état du marché ou l'application du livre V (titre Ier) du code de
+l'environnement ;
 
 d) Exploitation effectuée dans des conditions telles qu'elle est de nature à
 compromettre sérieusement l'intérêt économique, la conservation et l'utilisation

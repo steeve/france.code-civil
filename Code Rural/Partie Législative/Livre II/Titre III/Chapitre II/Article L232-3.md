@@ -1,10 +1,9 @@
 Article L232-3
 ----
-Lorsqu'ils sont de nature à détruire les frayères, les zones de croissance ou
-les zones d'alimentation ou de réserves de nourriture de la faune piscicole,
-l'installation ou l'aménagement d'ouvrages ainsi que l'exécution de travaux dans
-le lit d'un cours d'eau sont soumis à autorisation. Le défaut d'autorisation
-sera puni d'une peine de 120 000 F.
-
-L'autorisation délivrée en application du présent article fixe des mesures
-compensatoires visant à remettre en état le milieu naturel aquatique.
+En cas d'infraction aux dispositions concernant l'apposition d'estampilles ou de
+marques attestant l'intervention des services d'inspection ou de surveillance
+sanitaire que le décret en Conseil d'Etat prévu à l'article précédent ou un
+décret en Conseil d'Etat pris en application de l'article L. 214-1 du code de la
+consommation aurait rendu obligatoire, les denrées non estampillées peuvent être
+saisies et cédées par l'Etat, sans préjudice des sanctions pénales qui peuvent
+comporter la confiscation des sommes récupérées par l'Etat.

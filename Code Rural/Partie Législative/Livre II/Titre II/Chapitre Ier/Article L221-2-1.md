@@ -1,7 +1,0 @@
-Article L221-2-1
-----
-Les fédérations départementales des chasseurs peuvent exercer les droits
-reconnus à la partie civile en ce qui concerne les faits constituant une
-infraction aux dispositions du présent titre, et des textes pris pour son
-application et portant un préjudice direct ou indirect aux intérêts collectifs,
-matériels et moraux, qu'elles ont pour objet de défendre.

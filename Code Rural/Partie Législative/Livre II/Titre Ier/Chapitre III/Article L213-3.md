@@ -1,13 +1,10 @@
 Article L213-3
 ----
-Sans préjudice des dispositions en vigueur relatives aux installations classées
-pour la protection de l'environnement, l'ouverture des établissements d'élevage
-d'animaux d'espèces non domestiques, de vente, de location, de transit, ainsi
-que l'ouverture des établissements destinés à la présentation au public de
-spécimens vivants de la faune locale ou étrangère doivent faire l'objet d'une
-autorisation délivrée dans les conditions et selon les modalités fixées par un
-décret en Conseil d'Etat.
+Sont réputés vices rédhibitoires, pour l'application des articles L. 213-1 et L.
+213-2 aux transactions portant sur des chiens ou des chats, les maladies
+définies dans les conditions prévues à l'article L. 213-4.
 
-Les dispositions du présent article s'appliquent également aux établissements
-existants au 14 juillet 1976 dans les délais et selon les modalités fixés par
+Pour certaines maladies transmissibles du chien et du chat, les dispositions de
+l'article 1647 du code civil ne s'appliquent que si un diagnostic de suspicion a
+été établi par un vétérinaire ou docteur vétérinaire dans les délais fixés par
 décret en Conseil d'Etat.

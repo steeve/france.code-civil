@@ -9,7 +9,7 @@ compte d'une seule commune et sur son territoire, le registre d'enquête est clo
 et signé par le commissaire enquêteur.
 
 Le commissaire enquêteur ou la commission d'enquête examine les observations
-consignées ou annexées aux registres d'enquêtes et entend toute personne qu'il
+consignées ou annexées aux registres d'enquête et entend toute personne qu'il
 lui paraît utile de consulter ainsi que l'expropriant s'il le demande.
 
 Le commissaire enquêteur ou la commission d'enquête établit un rapport qui
@@ -19,7 +19,7 @@ l'opération.
 
 Le commissaire enquêteur ou le président de la commission d'enquête transmet,
 dans le délai d'un mois à compter de la date de clôture de l'enquête, le dossier
-avec les conclusions, soit au préfet si l'enquête a pour siège la préfecture,
+avec les conclusions soit au préfet si l'enquête a pour siège la préfecture,
 soit au sous-préfet dans les autres cas. Le dossier est alors transmis, le cas
 échéant, par le sous-préfet au préfet avec son avis.
 

@@ -1,15 +1,12 @@
 Article L236-10
 ----
-Dans la zone comprise entre la limite de salure des eaux et les limites de
-l'inscription maritime fixées le 17 juin 1938, les marins-pêcheurs
-professionnels peuvent exercer la pêche dans les mêmes conditions que les
-pêcheurs professionnels en eau douce, moyennant une licence délivrée à titre
-gratuit pendant les cinq années suivant le 30 juin 1984.
+Les frais induits par les mesures prises en application de l'article L. 236-9, y
+compris les frais de transport, d'enfouissement ou de désinfection, sont à la
+charge du propriétaire, du destinataire, de l'importateur, de l'exportateur ou,
+à défaut, de toute autre personne qui participe à l'opération d'importation ou
+d'échange ; ces mesures ne donnent lieu à aucune indemnité.
 
-Dans les cours d'eau et canaux affluant à la mer, en amont de la limite de
-salure des eaux et jusqu'aux anciennes limites de l'inscription maritime telles
-qu'elles étaient fixées antérieurement aux 8 novembre et 28 décembre 1926, les
-marins-pêcheurs professionnels qui, au 1er janvier 1927, exerçaient la pêche
-dans cette zone à titre d'inscrits maritimes et qui en avaient fait la demande
-avant le 1er janvier 1928, conservent le droit de pratiquer cette pêche
-moyennant une licence délivrée à titre gratuit.
+En cas de refus de se conformer aux injonctions de l'autorité administrative, il
+y est pourvu d'office à leur compte.
+
+Les frais de ces opérations sont recouvrés sur un état dressé par le préfet.

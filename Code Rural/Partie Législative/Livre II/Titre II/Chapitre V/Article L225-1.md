@@ -1,8 +1,13 @@
 Article L225-1
 ----
-Le plan de chasse substitue à la limitation annuelle de la période de chasse le
-nombre d'animaux à tirer sur les territoires de chasse pendant la période de
-chasse propre à chaque département. Fixé, après consultation des représentants
-des intérêts agricoles et forestiers, pour une période de trois ans révisable
-annuellement, il tend à assurer le développement durable des populations de
-gibier et à préserver leurs habitats naturels.
+Le ministre chargé de l'agriculture peut, à la demande des propriétaires ou
+détenteurs d'animaux intéressés, conduire des actions de prophylaxie contre
+certaines maladies animales, dans le cadre d'actions à caractère collectif,
+entreprises avec la collaboration d'organismes à vocation sanitaire dont les
+statuts sont approuvés par ledit ministre et de propriétaires ou détenteurs
+d'animaux, intervenant à titre individuel.
+
+Le ministre chargé de l'agriculture peut apporter un soutien financier à la
+réalisation des programmes collectifs, économiquement et techniquement
+justifiés, de lutte contre des maladies animales dirigés par des maîtres
+d'oeuvre autres que l'Etat.

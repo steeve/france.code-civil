@@ -3,8 +3,8 @@ Article 266 terdecies
 Par dérogation aux dispositions des articles 266 undecies et 266 duodecies, les
 services chargés de l'inspection des installations classées contrôlent,
 liquident et recouvrent la part de la taxe générale sur les activités polluantes
-assise sur la délivrance de l'autorisation prévue par l'article 3 de la loi n°
-76-663 du 19 juillet 1976 précitée et sur l'exploitation au cours d'une année
+assise sur la délivrance de l'autorisation prévue par les articles L. 512-1 et
+L. 512-8 du code de l'environnement et sur l'exploitation au cours d'une année
 civile d'un établissement mentionné au b du 8 du I de l'article 266 sexies selon
 les modalités suivantes :
 

@@ -1,14 +1,13 @@
 Article L241-14
 ----
-Sont constatées par des agents commissionnés par l'autorité administrative et
-assermentés auprès du tribunal de grande instance auquel est rattaché leur
-domicile :
+Seuls les vétérinaires remplissant les conditions prévues à l'article L. 241-1
+et par les textes réglementaires pris pour leur exécution peuvent exercer en
+commun la médecine et la chirurgie des animaux dans le cadre des sociétés
+civiles professionnelles régies par la loi n° 66-879 du 29 novembre 1966
+relative aux sociétés civiles professionnelles et le décret n° 79-885 du 11
+octobre 1979.
 
-1° Les infractions spécialement définies pour la protection des parcs nationaux
-;
-
-2° Les infractions commises dans ces parcs en matière de forêts, de chasse et de
-pêche ;
-
-3° Les infractions commises dans la zone périphérique du parc auquel ils
-appartiennent en matière de chasse et de pêche fluviale.
+Cet exercice en commun ne peut être entrepris qu'après l'accomplissement par la
+société civile professionnelle de vétérinaires des formalités relatives à son
+inscription au tableau de l'ordre, exigées par les articles L. 241-1 et L.
+242-4.

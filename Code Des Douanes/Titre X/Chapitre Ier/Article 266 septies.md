@@ -30,10 +30,16 @@ lessives, y compris des préparations auxiliaires de lavage, ou des produits
 adoucissants ou assouplissants pour le linge mentionnés au 5 du I de l'article
 266 sexies ;
 
-6. La première livraison après fabrication nationale, la livraison sur le marché
-intérieur après achat, importation ou fabrication dans un autre Etat membre de
-la Communauté européenne ou la mise à la consommation des grains minéraux
-naturels mentionnés au 6 du I de l'article 266 sexies ;
+6. a) La première livraison après fabrication nationale, la livraison sur le
+marché intérieur après achat, importation ou fabrication dans un autre Etat
+membre de la Communauté européenne ou la mise à la consommation des matériaux
+d'extraction de toutes origines mentionnés au a du 6 du I de l'article 266
+sexies ;
+
+b) L'extraction, la production ou l'introduction, en provenance d'un autre Etat
+membre de la Communauté européenne, des matériaux mentionnés au a, par une
+personne mentionnée au b du 6 du I de l'article 266 sexies, pour les besoins de
+sa propre utilisation ;
 
 7. La première livraison après fabrication nationale, la livraison sur le marché
 intérieur après achat, importation ou fabrication dans un autre Etat membre de
@@ -42,8 +48,8 @@ antiparasitaires à usage agricole ou des produits assimilés dans la compositio
 desquels entrent des substances classées dangereuses mentionnés au 7 du I de
 l'article 266 sexies ;
 
-8. a. La délivrance de l'autorisation prévue par l'article 3 de la loi n° 76-663
-du 19 juillet 1976 précitée ;
+8. a. La délivrance de l'autorisation prévue par les articles L. 512-1 et L.
+512-8 du code de l'environnement ;
 
 b. L'exploitation au cours d'une année civile d'un établissement mentionné au b
 du 8 du I de l'article 266 sexies.
