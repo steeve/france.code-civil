@@ -9,7 +9,7 @@ par lettre recommandée avec demande d'avis de réception.
 
 Dans le mois suivant la réception de la demande, le procureur de la République
 compétent doit soit engager des poursuites contre l'intéressé, soit engager
-l'une des mesures prévues aux articles 41-1 à 41-4, soit lui notifier le
+l'une des mesures prévues aux articles 41-1 à 41-3, soit lui notifier le
 classement sans suite de la procédure à son égard, soit, s'il estime que
 l'enquête doit se poursuivre, saisir le juge des libertés et de la détention. A
 défaut de saisine de ce magistrat, il ne peut être procédé contre l'intéressé, à

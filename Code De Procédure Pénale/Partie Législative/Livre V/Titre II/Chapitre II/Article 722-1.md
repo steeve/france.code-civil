@@ -43,4 +43,7 @@ d'aucun recours, de quelque nature que ce soit. Les débats ont lieu et la
 décision est rendue en chambre du conseil, après que l'avocat du condamné a été
 entendu en ses observations.
 
-Un décret précise les modalités d'application du présent article.
+Un décret précise les modalités d'application du présent article. Ce décret
+détermine la localisation des débats contradictoires que doit tenir la
+juridiction régionale de la libération conditionnelle lorsqu'ils concernent des
+condamnés incarcérés.

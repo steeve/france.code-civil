@@ -22,15 +22,16 @@ pas susceptible de recours.
 
 Le président de la chambre de l'instruction ou le magistrat qui le remplace
 peut, s'il estime que les conditions prévues par l'article 144 ne sont pas
-remplies, infirmer l'ordonnance du juge d'instruction et ordonner la remise en
-liberté de la personne. La chambre de l'instruction est alors dessaisie.
+remplies, infirmer l'ordonnance du juge des libertés et de la détention et
+ordonner la remise en liberté de la personne. La chambre de l'instruction est
+alors dessaisie.
 
 Dans le cas contraire, il doit renvoyer l'examen de l'appel à la chambre de
 l'instruction.
 
-S'il infirme l'ordonnance du juge d'instruction, le président de la chambre de
-l'instruction ou le magistrat qui le remplace peut ordonner le placement sous
-contrôle judiciaire de la personne mise en examen.
+S'il infirme l'ordonnance du juge des libertés et de la détention, le président
+de la chambre de l'instruction ou le magistrat qui le remplace peut ordonner le
+placement sous contrôle judiciaire de la personne mise en examen.
 
 Si l'examen de l'appel est renvoyé à la chambre de l'instruction, la décision
 est portée à la connaissance du procureur général. Elle est notifiée à la
@@ -38,8 +39,8 @@ personne mise en examen par le greffe de l'établissement pénitentiaire qui peu
 le cas échéant, recevoir le désistement d'appel de cette dernière.
 
 La déclaration d'appel et la demande prévue au premier alinéa du présent article
-peuvent être constatées par le juge d'instruction à l'issue du débat
-contradictoire prévu par le quatrième alinéa de l'article 145. Pour
+peuvent être constatées par le juge des libertés et de la détention à l'issue du
+débat contradictoire prévu par le quatrième alinéa de l'article 145. Pour
 l'application du deuxième alinéa du présent article, la transmission du dossier
 de la procédure au président de la chambre de l'instruction peut être effectuée
 par télécopie.

@@ -7,4 +7,4 @@ d'instruction.
 Toutefois, les officiers de police judiciaire ne peuvent pas procéder aux
 interrogatoires et confrontations des personnes mises en examen. Ils ne peuvent
 procéder à l'audition des parties civiles ou du témoin assisté qu'à la demande
-de celles-ci.
+de ceux-ci.
