@@ -6,10 +6,10 @@ Est établi chaque année un état de prévisions de recettes et de dépenses re
 Une section d'exploitation ;
 
 Une section d'opérations en capital. Pour cette dernière section, tous les
-chapitres relatifs aux dépenses d'investissement ont un caractère limitatif.
-Toutefois, en cours d'année, lorsque l'exécution des dépenses l'exige, des
-virements de chapitre à chapitre peuvent, sur proposition du directeur général,
-être autorisés par le contrôleur d'Etat.
+chapitres relatifs aux dépenses d'investissement ont un caractère prévisionnel.
+En cours d'année, lorsque l'exécution des dépenses l'exige, des virements de
+chapitre à chapitre peuvent être décidés par le directeur général après avis du
+contrôleur d'Etat.
 
 L'état de prévisions est présenté par le directeur général au conseil
 d'administration qui l'adopte dans les conditions prévues à l'article R. 252-12.

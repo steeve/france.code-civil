@@ -1,12 +1,11 @@
 Article R252-11
 ----
-Le président du conseil d'administration, président de l'aéroport, prépare les
-sessions du conseil, arrête l'ordre du jour de ses délibérations et veille à
+Le président du conseil d'administration, président d'Aéroports de Paris prépare
+les sessions du conseil, arrête l'ordre du jour de ses délibérations et veille à
 l'exécution des décisions prises par le conseil.
 
 Il prépare le rapport que le conseil doit présenter chaque année sur la
-situation de l'aéroport et l'état des différents services. Le rapport,
-accompagné d'un extrait de procès-verbal de la discussion, est adressé, avant le
-1er juin, au ministre chargé de l'aviation civile.
+situation de l'aéroport et l'état des différents services. Le rapport, est
+adressé, avant le 1er juin, au ministre chargé de l'aviation civile.
 
-Le président exerce un contrôle permanent sur la gestion de l'aéroport.
+Le président exerce un contrôle permanent sur la gestion d'Aéroports de Paris.

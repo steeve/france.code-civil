@@ -1,7 +1,7 @@
 Article R252-10
 ----
 Le conseil d'administration se réunit sur la convocation de son président au
-moins huit fois par an. Le président est, en outre, tenu de réunir immédiatement
+moins six fois par an. Le président est, en outre, tenu de réunir immédiatement
 le conseil s'il y est invité par le ministre chargé de l'aviation civile. Le
 tiers au moins des membres peut également, en indiquant l'ordre du jour de la
 séance, convoquer le conseil si celui-ci ne s'est pas réuni depuis plus de deux
@@ -14,10 +14,9 @@ du jour, séparée par un intervalle de trois jours francs au moins de la
 première. Les délibérations seront alors valables quel que soit le nombre des
 membres présents.
 
-Un administrateur peut donner mandat à un autre administrateur nommé ou élu dans
-le même collège de le représenter à une séance du conseil d'administration.
-Chaque administrateur ne peut disposer, au cours d'une même séance, que d'une
-seule procuration.
+Un administrateur peut donner mandat à un autre administrateur de le représenter
+à une séance du conseil d'administration. Chaque administrateur ne peut
+disposer, au cours d'une même séance, que d'une seule procuration.
 
 Les délibérations sont prises à la majorité des suffrages exprimés. Dans le cas
 où il est procédé à un scrutin secret, il n'est pas tenu compte des bulletins
@@ -25,15 +24,13 @@ blancs ou nuls. En cas de partage des suffrages exprimés, la voix du président
 est prépondérante.
 
 Les procès-verbaux sont signés par le président. Ils font mention des personnes
-présentes. Une ampliation est notifiée au ministre chargé de l'aviation civile.
+présentes. Les membres du conseil d'administration sont tenus au secret
+professionnel dans les conditions prévues aux articles 226-13 et 226-14 du code
+pénal.
 
-Les membres du conseil d'administration sont tenus au secret professionnel dans
-les conditions prévues à l'article 378 du code pénal.
-
-Le directeur général assiste avec voix consultative aux réunions du comité de
-direction et aux séances du conseil d'administration sauf lorsqu'il est discuté
-du compte administratif ou de sa situation personnelle. Il est également tenu au
-secret professionnel.
+Le directeur général assiste avec voix consultative aux séances du conseil
+d'administration sauf lorsqu'il est discuté de sa situation personnelle. Il est
+également tenu au secret professionnel.
 
 Le directeur général de l'aviation civile et le chef du service des bases
 aériennes siègent, avec voix consultative, au conseil d'administration des

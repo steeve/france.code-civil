@@ -4,22 +4,27 @@ Le directeur général est chargé de la préparation et de l'exécution de l'é
 prévisions de recettes et de dépenses ainsi que de l'exécution des décisions du
 conseil d'administration.
 
-Il reçoit délégation permanente dans les limites fixées par arrêté du ministre
-chargé de l'aviation civile et du ministre de l'économie et des finances, pris
-sur la proposition du conseil d'administration pour l'approbation des marchés,
-des baux et locations d'immeubles, des achats, ventes et réformes d'objets
-mobiliers ainsi que des transactions en cas de litige.
+Il reçoit délégation permanente dans les limites fixées par le conseil
+d'administration pour la passation des contrats et marchés et les transactions
+en cas de litige.
 
-Par délégation générale du conseil et dans la limite des effectifs autorisés, il
-nomme à tous les emplois, sauf à celui d'agent comptable et à ceux qui sont
-prévus aux articles R. 252-12 et R. 252-19.
+Dans la limite des effectifs autorisés, il nomme à tous les emplois, sauf à
+celui d'agent comptable et à ceux qui sont prévus aux articles R. 252-12-2 et R.
+252-19.
 
 Il est consulté sur les nominations aux emplois de direction.
 
-Les fonctionnaires de l'Etat et des collectivités publiques peuvent être mis à
-la disposition de l'aéroport suivant la réglementation en vigueur dans leurs
-corps. Ils peuvent toujours être remis à la disposition de leur administration,
-sans que cette mesure ait un caractère disciplinaire.
+Sauf pour le personnel de l'Etat mentionné à l'article R. 252-19, il fixe les
+tableaux d'effectifs par catégories générales ; il fixe les traitements,
+salaires et indemnités dans le cadre des échelles approuvées par le conseil
+d'administration et arrête les tableaux d'avancement.
 
-Pour l'exercice de ses fonctions telles que définies au présent article, le
-directeur général peut déléguer sa signature.
+Les fonctionnaires de l'Etat et des collectivités publiques peuvent être mis à
+la disposition d'Aéroports de Paris suivant la réglementation en vigueur dans
+leurs corps. Ils peuvent toujours être remis à la disposition de leur
+administration, sans que cette mesure ait un caractère disciplinaire.
+
+Pour l'exercice des missions définies au présent article, le directeur général
+peut déléguer une partie de ses attributions ou sa signature aux directeurs et
+aux cadres dirigeants. Il définit les conditions dans lesquelles les titulaires
+de ces délégations peuvent subdéléguer leur signature aux cadres.
