@@ -23,3 +23,9 @@ ou reconnue d'utilité publique.
 Dans le cas prévu par le 3° du présent article, l'infraction est également
 constituée si son auteur est le propriétaire du bien détruit, dégradé ou
 détérioré.
+
+Lorsque l'infraction définie au premier alinéa de l'article 322-1 est commise à
+raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la
+personne propriétaire ou utilisatrice de ce bien à une ethnie, une nation, une
+race ou une religion déterminée, les peines encourues sont également portées à
+trois ans d'emprisonnement et à 45 000 Euros d'amende.
