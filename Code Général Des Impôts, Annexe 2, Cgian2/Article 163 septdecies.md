@@ -1,6 +1,6 @@
 Article 163 septdecies
 ----
-Le prélèvement spécial de 25 % prévu par l'article 235 ter L du code général des
+Le prélèvement spécial de 30 % prévu par l'article 235 ter L du code général des
 impôts sur la fraction des bénéfices industriels et commerciaux imposables à
 l'impôt sur les sociétés ou à l'impôt sur le revenu qui résulte de la
 production, de la distribution ou de la représentation de films pornographiques

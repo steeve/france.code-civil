@@ -1,10 +1,7 @@
 Article 384 A
 ----
-I. Les redevables forfaitaires acquittent l'impôt par douzième tous les mois aux
-dates prévues à l'article 39 de l'annexe IV au code général des impôts pour le
-dépôt des déclarations; toutefois lorsque le montant de l'impôt exigible
-mensuellement est inférieur au chiffre prévu à l'article 287-1 dudit code ils
-sont admis à se libérer par quart tous les trois mois.
+I. Les redevables forfaitaires acquittent l'impôt par trimestre aux dates
+prévues à l'article 39-1 (2°) de l'annexe IV au code général des impôts.
 
 II. Les versements provisionnels effectués pendant la période qui précède la
 conclusion du forfait par les redevables placés sous le régime du forfait de

@@ -30,3 +30,9 @@ Conseil d'Etat propre à la profession considérée.
 Les dispositions du premier alinéa cessent de s'appliquer aux plus-values
 constatées à l'occasion d'apports en sociétés réalisés à compter du 1er avril
 1981 [*date*].
+
+III. Pour l'application des dispositions du premier alinéa du I, les contrats de
+crédit-bail conclus dans les conditions prévues aux 1° et 2° de l'article 1er de
+la loi n° 66-455 du 2 juillet 1966 relative aux entreprises pratiquant le
+crédit-bail sont considérés comme des immobilisations lorsque les loyers versés
+ont été déduits pour la détermination du bénéfice non commercial.

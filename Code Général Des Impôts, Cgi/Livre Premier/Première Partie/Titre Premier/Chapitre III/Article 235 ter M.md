@@ -1,6 +1,6 @@
 Article 235 ter M
 ----
-Le prélèvement spécial de 25 % [*taux*] prévu par l'article 235 ter L est
+Le prélèvement spécial de 30 % [*taux*] prévu par l'article 235 ter L est
 étendu, dans les conditions indiquées à cet article, à la fraction des bénéfices
 industriels et commerciaux imposables à l'impôt sur les sociétés ou à l'impôt
 sur le revenu qui résulte des représentations théâtrales à caractère
@@ -15,6 +15,6 @@ recours contentieux relatifs à ces décisions sont instruits par le ministre de
 la culture et de la communication.
 
 (1) Ce taux s'applique aux bénéfices des exercices ouverts à compter du 1er
-janvier 1990. Il était antérieurement fixé à 20 %.
+janvier 1991. Il était antérieurement fixé à 25 %.
 
 (2) Arrêté du 22 janvier 1979, JONC du 15 février.

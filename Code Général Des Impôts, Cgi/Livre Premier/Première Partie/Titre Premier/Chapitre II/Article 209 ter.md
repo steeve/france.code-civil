@@ -10,9 +10,9 @@ de gestion ;
 l'article 208 A et par les organismes assimilés visés aux articles 207-2, 208-1°
 ter, 1° quater et 1° quinquies ;
 
-3° Par les sociétés immobilières pour le commerce et l'industrie [*SICOMI*]
-visées à l'article 5 de l'ordonnance n° 67-837 du 28 septembre 1967, sous
-réserve des dispositions du 3ème alinéa du 3° quater de l'article 208 ;
+3° Par les sociétés immobilières pour le commerce et l'industrie visés au
+cinquième alinéa du 3° quater de l'article 208 et prélevés sur les bénéfices
+exonérés visés au quatrième alinéa du 3° quater du même article ;
 
 4° Par les sociétés agréées pour le financement des télécommunications
 lorsqu'ils sont prélevés sur les résultats exonérés en application des premier

@@ -1,0 +1,13 @@
+Article 293 E
+----
+I. Les assujettis bénéficiant de la franchise de taxe mentionnée à l'article 293
+B sont soumis aux obligations mentionnées à l'article 286, sous réserve des
+allégements prévus par l'article 302 sexies.
+
+II. Ils ne peuvent opérer aucune déduction de la taxe sur la valeur ajoutée, ni
+faire apparaître la taxe sur leurs factures ou sur tout autre document en tenant
+lieu.
+
+En cas de délivrance d'une facture par ces assujettis pour leurs livraisons de
+biens et leurs prestations de services, la facture doit porter la mention : "
+TVA non applicable, art. 293 B du CGI ".

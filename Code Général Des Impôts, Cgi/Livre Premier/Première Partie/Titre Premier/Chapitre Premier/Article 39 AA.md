@@ -5,13 +5,7 @@ portés respectivement à 2, 2,5 et 3 selon que la durée normale d'utilisation 
 matériels est de trois ou quatre ans, de cinq ou six ans, ou supérieure à six
 ans en ce qui concerne :
 
-1° Les biens d'équipement acquis par les entreprises en 1977, sous réserve que
-ceux-ci aient été commandés avant le 1er juin 1977 [*date limite*], ainsi que
-les biens fabriqués par elles au cours de la même année. Pour ouvrir droit à la
-majoration des coefficients, les commandes de biens d'équipement passées entre
-le 1er janvier et le 31 mai 1977 doivent avoir été accompagnées du versement
-avant le 1er juin 1977, d'un acompte au moins égal à 10 % [*pourcentage*] du
-montant du prix;
+1° (Périmé) ;
 
 2° a Les matériels destinés à économiser l'énergie acquis ou fabriqués par les
 entreprises à compter du 1er janvier 1977 qui figurent sur une liste établie par
@@ -33,9 +27,11 @@ permettent des économies de matières premières contribuant notamment à
 l'équilibre de la balance des paiements et font l'objet d'un agrément délivré
 dans les conditions prévues au I de l'article 1649 nonies.
 
-Les dispositions prévues aux 1°, 2°-a et 3° ne s'appliquent pas aux biens dont
+Les dispositions prévues au a du 2° et au 3° ne s'appliquent pas aux biens dont
 la commande a donné lieu au bénéfice de l'aide fiscale instituée par les lois n°
-75-408 du 29 mai 1975 et n° 75-853 du 13 septembre 1975.
+75-408 du 29 mai 1975 et n° 75-853 du 13 septembre 1975. Les dispositions
+prévues au 2° et au 3° ne s'appliquent pas pour les matériels acquis ou
+fabriqués à compter du 1er janvier 1991.
 
 (1) Annexe IV, art. 02.
 

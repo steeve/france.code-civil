@@ -28,9 +28,9 @@ inhumations et transports funéraires;
 
 Enseignement général, agricole, ménager, professionnel ou artistique;
 
-Droits d'entrée pour la visite des musées, monuments et grottes, sites et parcs
-aménagés autres que les parcs zoologiques, botaniques et les parcs à décors
-animés qui illustrent un thème culturel passibles du taux réduit (1);
+Droits d'entrée pour la visite des parcs aménagés autres que les parcs
+zoologiques, botaniques et les parcs à décors animés qui illustrent un thème
+culturel passibles du taux réduit (1);
 
 Locations d'emplacements sur les terrains de camping qui ne bénéficient pas du
 taux réduit (2);
@@ -78,6 +78,6 @@ Prestations de services relatives aux insertions d'annonces de demandes d'emploi
 dans les journaux et publications qui bénéficient des avantages fiscaux prévus à
 l'article 298 septies du code général des impôts
 
-1) Voir code général des impôts, art. 279-b ter.
+(1) Voir code général des impôts, art. 279-b ter et 279 b nonies.
 
-2) Voir code général des impôts, art. 279-a ter.
+(2) Voir code général des impôts, art. 279-a ter.
