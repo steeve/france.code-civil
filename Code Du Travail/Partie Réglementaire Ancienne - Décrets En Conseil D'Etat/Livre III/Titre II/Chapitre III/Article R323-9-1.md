@@ -27,4 +27,6 @@ développement pour l'insertion des travailleurs handicapés ;
 protégés, des centres de distribution de travail à domicile ou des centres
 d'aide par le travail ainsi que toutes justifications permettant de calculer,
 selon les dispositions de l'article R. 323-2, l'exonération partielle de
-l'obligation d'emploi.
+l'obligation d'emploi ;
+
+5° Les conventions de stage visées à l'article R. 323-3-1.
