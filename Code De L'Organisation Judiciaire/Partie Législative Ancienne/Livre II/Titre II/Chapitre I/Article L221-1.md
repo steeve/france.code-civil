@@ -1,0 +1,23 @@
+Article L221-1
+----
+En cas de vacance d'emploi ou d'empêchement d'un ou plusieurs magistrats ou
+lorsque le renforcement temporaire et immédiat des juridictions du premier degré
+apparaît indispensable pour assurer le traitement du contentieux dans un délai
+raisonnable, le premier président peut, par ordonnance, déléguer les présidents
+de chambre et les conseillers de la cour d'appel, les juges des tribunaux
+d'instance et de grande instance, pour exercer des fonctions judiciaires dans
+les tribunaux du ressort de la cour d'appel. La délégation d'un magistrat ne
+peut excéder une durée de deux mois consécutifs et ne peut être renouvelée au
+cours de la même année judiciaire.
+
+En ce qui concerne les magistrats désignés pour exercer les fonctions de juge de
+l'expropriation, la durée de la délégation prévue à l'alinéa précédent peut être
+portée à six mois.
+
+L'ordonnance mentionnée au premier alinéa précise le motif et la durée de la
+délégation ainsi que la nature des fonctions qui seront exercées par le
+magistrat délégué.
+
+L'assemblée générale de la cour d'appel est informée chaque année du nombre et
+de la nature des délégations, des personnes déléguées et de l'incidence des
+délégations sur le fonctionnement des juridictions.
