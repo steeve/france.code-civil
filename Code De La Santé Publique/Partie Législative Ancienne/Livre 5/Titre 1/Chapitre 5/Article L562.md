@@ -18,7 +18,10 @@ médicaments, objets ou produits mentionnés à l'article L. 512 ;
 
 e) Dans les établissements de santé ;
 
-f) Dans les dépôts de médicaments, en quelques mains qu'ils soient.
+f) Dans les dépôts de médicaments, en quelques mains qu'ils soient ;
+
+g) Dans les établissements ou organismes autorisés en application du troisième
+alinéa de l'article L. 676-2 et de l'article L. 676-6.
 
 Dans les établissements mentionnés à l'article L. 617-21, les inspecteurs de la
 pharmacie participent au contrôle de l'application des dispositions du chapitre

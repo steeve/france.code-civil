@@ -1,7 +1,8 @@
 Article L672-13
 ----
-Les greffes de tissus et de cellules ne peuvent être effectuées que dans des
-établissements de santé.
+Les greffes de tissus et de cellules qui ne correspondent pas à la définition
+prévue aux articles L. 665-10 et L. 676-1 ne peuvent être effectuées que dans
+des établissements de santé.
 
 Les activités requérant une haute technicité ou nécessitant des dispositions
 particulières dans l'intérêt de la santé publique, déterminées par décret en

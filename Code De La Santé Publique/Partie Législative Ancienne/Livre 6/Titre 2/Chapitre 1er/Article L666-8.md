@@ -13,14 +13,16 @@ médicaments dérivés du sang et sont régis par les dispositions du chapitre V
 ci-après ;
 
 3° Des réactifs de laboratoire, dont les caractéristiques et les conditions de
-préparation et d'utilisation sont définies par décret.
+préparation et d'utilisation sont définies par décret ;
 
 4° Des préparations cellulaires réalisées, à partir du prélèvement de cellules
 souches hématopoïétiques et de cellules somatiques mononucléées, par des
 établissements ou organismes remplissant des conditions fixées par décret en
 Conseil d'Etat et autorisés par le ministre chargé de la santé, sur proposition
 de l'Agence française du sang lorsque la demande est présentée par un
-établissement de transfusion sanguine.
+établissement de transfusion sanguine ;
+
+5° Des produits de thérapie cellulaire mentionnés à l'article L. 665-10.
 
 Le sang et ses composants peuvent être utilisés dans le cadre d'une activité de
 recherche, qu'ils aient été ou non prélevés par des établissements de

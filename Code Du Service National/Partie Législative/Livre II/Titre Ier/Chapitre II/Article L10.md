@@ -6,7 +6,13 @@ médecin, de pharmacien, de vétérinaire ou de chirurgien-dentiste peuvent, sur
 leur demande, bénéficier d'un report spécial d'incorporation.
 
 Ce report d'incorporation vient à échéance au plus tard le 31 décembre de
-l'année civile au cours de laquelle ils atteignent l'âge de vingt-sept ans.
+l'année civile au cours de laquelle :
+
+- les étudiants en pharmacie et en art vétérinaire atteignent l'âge de
+vingt-sept ans ;
+
+- les étudiants en médecine et en chirurgie dentaire atteignent l'âge de
+vingt-huit ans.
 
 Les jeunes gens mentionnés au présent article qui, au moment de leur
 incorporation, sont titulaires du titre requis sont affectés, dans la limite des

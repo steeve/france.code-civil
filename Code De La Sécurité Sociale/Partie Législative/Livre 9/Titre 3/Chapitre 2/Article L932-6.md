@@ -4,7 +4,8 @@ L'institution de prévoyance établit une notice qui définit les garanties
 souscrites par contrat ou par adhésion à un règlement et leurs modalités
 d'entrée en vigueur, ainsi que les formalités à accomplir en cas de réalisation
 du risque. Elle précise également le contenu des clauses édictant des nullités,
-des déchéances ou des exclusions ou limitations de garantie.
+des déchéances ou des exclusions ou limitations de garantie ainsi que des délais
+de prescription.
 
 L'adhérent est tenu de remettre cette notice à chaque participant
 [*obligation*].

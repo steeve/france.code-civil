@@ -6,7 +6,3 @@ l'échelon comportant un traitement égal ou, à défaut, immédiatement supéri
 celui dont il bénéficiait dans son ancien grade, le bénéfice de l'ancienneté
 acquise dans l'ancien échelon n'étant maintenu qu'au cas de reclassement à
 traitement égal.
-
-Est également classé à l'échelon comportant un traitement égal ou immédiatement
-supérieur à celui dont il bénéficiait précédemment l'agent nommé sans avancement
-de grade d'un établissement dans un autre.

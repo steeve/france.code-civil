@@ -23,3 +23,8 @@ bénéficiaires" sont remplacés par les mots :
 remplacés par les mots : "opérations collectives à adhésion obligatoire ou
 facultative". Toutefois, les dispositions de l'article L. 132-20 ne s'appliquent
 qu'aux bulletins d'adhésion ou contrats comportant une valeur de rachat.
+
+Par dérogation aux dispositions de l'article L. 132-3, le représentant légal
+d'un majeur en tutelle peut, pour les opérations collectives à adhésion
+obligatoire ne comportant pas une valeur de rachat, adhérer au nom de celui-ci à
+un règlement ou souscrire un contrat auprès d'une institution de prévoyance.

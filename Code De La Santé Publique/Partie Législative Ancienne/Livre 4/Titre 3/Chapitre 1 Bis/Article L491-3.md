@@ -7,7 +7,9 @@ de l'ordre des médecins.
 
 Les règles fixées pour les médecins par les articles L. 385 à L. 397 sont
 applicables aux masseurs-kinésithérapeutes, à l'exception de l'exigence de
-nationalité posée par l'article L. 387.
+nationalité posée par l'article L. 387. Toutefois, le conseil départemental
+comprend une représentation distincte des masseurs-kinésithérapeutes exerçant à
+titre libéral et des masseurs-kinésithérapeutes exerçant à titre salarié.
 
 Le médecin inspecteur départemental assiste, avec voix consultative, au conseil
 départemental.

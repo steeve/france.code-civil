@@ -39,18 +39,21 @@ l'emploi, contient un ou plusieurs isotopes radioactifs, dénommés
 radionucléides, incorporés à des fins médicales ;
 
 8° Générateur, tout système contenant un radionucléide parent déterminé servant
-à la production d'un radio- nucléide de filiation obtenu par élution ou par
-toute autre méthode et utilisé dans un médicament radiopharmaceutique ;
+à la production d'un radionucléide de filiation obtenu par élution ou par toute
+autre méthode et utilisé dans un médicament radiopharmaceutique ;
 
 9° Trousse, toute préparation qui doit être reconstituée ou combinée avec des
 radionucléides dans le produit radiopharmaceutique final ;
 
 10° Précurseur, tout autre radionucléide produit pour le marquage radioactif
-d'une autre substance avant administration.
+d'une autre substance avant administration ;
 
 11° Médicament homéopathique, tout médicament obtenu à partir de produits,
 substances ou compositions appelés souches homéopathiques, selon un procédé de
 fabrication homéopathique décrit par la pharmacopée européenne, la pharmacopée
 française ou, à défaut, par les pharmacopées utilisées de façon officielle dans
 un autre Etat membre de la Communauté européenne. Un médicament homéopathique
-peut aussi contenir plusieurs principes.
+peut aussi contenir plusieurs principes ;
+
+12° Médicament réactif, tout produit ayant une activité pharmacologique
+intervenant dans la fabrication des produits de thérapies génique ou cellulaire.

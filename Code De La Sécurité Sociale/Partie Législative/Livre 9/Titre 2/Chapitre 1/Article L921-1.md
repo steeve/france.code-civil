@@ -5,7 +5,9 @@ du régime général de sécurité sociale ou des assurances sociales agricoles 
 les anciens salariés de même catégorie, qui ne relèvent pas d'un régime
 complémentaire de retraite géré par une institution de retraite complémentaire
 autorisée en vertu du présent titre ou du I ou de l'article 1050 du code rural
-sont affiliés obligatoirement à une de ces institutions.
+sont affiliés obligatoirement à une de ces institutions, à l'exception des
+personnes exerçant la profession d'agent général d'assurances dans les
+conditions prévues au 11° ou 12° de l'article L. 311-3.
 
 Une solidarité interprofessionnelle et générale sera organisée entre les
 institutions, en application conjointe, s'il y a lieu, des procédures définies

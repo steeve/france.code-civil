@@ -11,7 +11,8 @@ l'article L. 351-21, l'Etat peut participer au financement des dépenses de
 fonctionnement relatives aux conventions de conversion. Ces conventions sont
 conclues par les organismes gestionnaires susmentionnés et les entreprises au
 bénéfice de salariés dont le contrat de travail est rompu dans les conditions
-prévues au quatrième alinéa de l'article L. 321-6.
+prévues au quatrième alinéa de l'article L. 321-6 et qui remplissent les
+conditions d'admission prévues par les accords visés à l'article L. 353-1.
 
 Les employeurs contribuent au financement des allocations dont le versement est
 prévu par ces conventions dans des conditions déterminées par décret. La

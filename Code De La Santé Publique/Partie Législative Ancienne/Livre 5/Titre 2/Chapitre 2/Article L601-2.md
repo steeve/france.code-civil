@@ -1,28 +1,32 @@
 Article L601-2
 ----
 Les dispositions de l'article L. 601 ne font pas obstacle à l'utilisation, à
-titre exceptionnel, de certains médicaments lorsque ceux-ci :
+titre exceptionnel, de certains médicaments destinés à traiter des maladies
+graves ou rares lorsqu'il n'existe pas de traitement approprié et :
 
-- sont destinés à traiter des pathologies graves, alors qu'il n'existe pas
-d'alternative thérapeutique, dès lors que leur efficacité est fortement présumée
-au vu des résultats d'essais thérapeutiques auxquels il a été procédé en vue du
-dépôt d'une demande d'autorisation de mise sur le marché ;
+a) Que l'efficacité et la sécurité de ces médicaments sont fortement présumées,
+au vu des résultats d'essais thérapeutiques auxquels il a été procédé en vue
+d'une demande d'autorisation de mise sur le marché, et que cette demande a été
+déposée ou que le demandeur s'engage à la déposer dans un délai déterminé ;
 
-- sont destinés à des patients atteints de maladies rares et dès lors qu'il
-n'existe aucun médicament déjà autorisé au sens de l'article L. 601 et
-susceptible de se substituer à eux ;
-
-- sont importés en vue de leur prescription à des malades nommément désignés,
-sous la responsabilité de leur médecin traitant, dès lors qu'ils sont autorisés
-à l'étranger.
+b) Ou que ces médicaments sont prescrits à des malades nommément désignés et, le
+cas échéant, importés dans ce but, sous la responsabilité de leur médecin
+traitant, dès lors que leur efficacité et leur sécurité sont présumées en l'état
+des connaissances scientifiques et qu'ils sont susceptibles de présenter un
+bénéfice réel.
 
 L'utilisation de ces médicaments est autorisée, pour une durée limitée, par
-l'Agence du médicament, avec l'accord préalable du titulaire des droits
-d'exploitation du médicament dans le cas prévu au deuxième alinéa du présent
-article ou à la demande du médecin traitant dans le cas prévu au quatrième
-alinéa. Cette autorisation peut être suspendue ou retirée si les conditions
-prévues au présent article ne sont plus remplies ou pour des motifs de santé
-publique.
+l'Agence du médicament, à la demande du titulaire des droits d'exploitation du
+médicament dans le cas prévu au a ou à la demande du médecin traitant dans le
+cas prévu au b du présent article.
+
+Pour les médicaments mentionnés au a, l'autorisation peut être subordonnée par
+l'Agence du médicament à la condition qu'elle soit sollicitée dans le cadre d'un
+protocole d'utilisation thérapeutique et de recueil d'informations, établi avec
+le titulaire des droits d'exploitation.
+
+L'autorisation peut être suspendue ou retirée si les conditions prévues au
+présent article ne sont plus remplies, ou pour des motifs de santé publique.
 
 Un décret en Conseil d'Etat fixe les conditions d'octroi, de suspension ou de
 retrait de cette autorisation.

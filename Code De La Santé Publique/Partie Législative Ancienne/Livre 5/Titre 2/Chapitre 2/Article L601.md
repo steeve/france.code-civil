@@ -1,30 +1,51 @@
 Article L601
 ----
-Tout médicament ou produit pharmaceutique ou tout autre médicament fabriqué
-industriellement ainsi que tout générateur, trousse ou précurseur doit faire
-l'objet, avant sa commercialisation ou sa distribution à titre gratuit, en gros
-ou au détail, d'une autorisation de mise sur le marché [*condition de vente*]
-délivrée par l'Agence du médicament [*autorité compétente*].
+Toute spécialité pharmaceutique ou tout autre médicament fabriqué
+industriellement ainsi que tout générateur, trousse ou précurseur qui ne fait
+pas l'objet d'une autorisation de mise sur le marché délivrée par la Communauté
+européenne en application du règlement (CEE) n° 2309/93 du Conseil du 22 juillet
+1993 doit faire l'objet avant sa commercialisation ou sa distribution à titre
+gratuit, en gros ou en détail, d'une autorisation de mise sur le marché délivrée
+par l'Agence du médicament. Cette autorisation peut être assortie de conditions
+adéquates.
 
-Cette autorisation peut être assortie de conditions adéquates. Elle n'est
-accordée que lorsque le fabricant justifie :
+L'autorisation est refusée lorsqu'il apparaît que le médicament ou le produit
+est nocif dans les conditions normales d'emploi, ou qu'il n'a pas la composition
+qualitative et quantitative déclarée, ou que l'effet thérapeutique annoncé fait
+défaut ou est insuffisamment justifié par le demandeur.
 
-1° Qu'il a fait procéder à la vérification de l'innocuité du produit dans des
-conditions normales d'emploi et de son intérêt thérapeutique, ainsi qu'à son
-analyse qualitative et quantitative ;
+Elle est également refusée lorsque la documentation et les renseignements
+fournis ne sont pas conformes au dossier qui doit être présenté à l'appui de la
+demande et dont le contenu est fixé par décret en Conseil d'Etat.
 
-2° Qu'il dispose effectivement d'une méthode de fabrication et de procédés de
-contrôle de nature à garantir la qualité du produit au stade de la fabrication
-en série.
+Lorsque, pour certaines indications thérapeutiques, le demandeur peut démontrer
+qu'il n'est pas en mesure de fournir des renseignements complets sur
+l'efficacité et l'innocuité du médicament dans les conditions normales d'emploi,
+dans l'un des cas suivants :
 
-Cette autorisation est délivrée pour une durée de cinq ans ;
+- les indications prévues se présentent si rarement que le demandeur ne peut
+raisonnablement être tenu de fournir les renseignements complets ;
 
-elle est ensuite renouvelable par période quinquennale.
+- l'état d'avancement de la science ne permet pas de donner les renseignements
+complets ;
 
-Elle peut être suspendue ou supprimée par l'Agence du médicament.
+- des principes de déontologie médicale interdisent de recueillir ces
+renseignements,
+
+l'autorisation de mise sur le marché peut être délivrée, sous réserve du respect
+d'obligations spécifiques, dans des conditions prévues par décret en Conseil
+d'Etat.
+
+L'autorisation est délivrée pour une durée de cinq ans ; elle est ensuite
+renouvelable par période quinquennale. Toute modification des éléments d'une
+autorisation de mise sur le marché délivrée par l'Agence du médicament, quelle
+que soit son importance, doit être préalablement autorisée.
+
+L'autorisation peut être modifiée, suspendue ou retirée par l'Agence du
+médicament.
 
 L'accomplissement des formalités prévues au présent article n'a pas pour effet
 d'exonérer le fabricant ou, s'il est distinct, le titulaire de l'autorisation de
 mise sur le marché de la responsabilité que l'un ou l'autre peut encourir dans
 les conditions du droit commun en raison de la fabrication ou de la mise sur le
-marché d'un médicament ou produit.
+marché du médicament ou produit.

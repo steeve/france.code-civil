@@ -11,6 +11,8 @@ Les jeunes gens sont tenus de rejoindre leur affectation à la date qui est
 indiquée sur leur convocation individuelle.
 
 Nul ne peut être appelé au service actif s'il a atteint ou dépassé l'âge de
-vingt-neuf ans. Toutefois, en cas d'insoumission ou d'omission sur les listes de
+vingt-neuf ans. Cet âge est porté à trente ans pour les jeunes gens qui ont
+obtenu le bénéfice des dispositions de l'article L. 10 jusqu'à l'âge de
+vingt-huit ans. Toutefois, en cas d'insoumission ou d'omission sur les listes de
 recensement, l'appel peut intervenir jusqu'à ce que les intéressés aient atteint
 l'âge de trente-quatre ans.

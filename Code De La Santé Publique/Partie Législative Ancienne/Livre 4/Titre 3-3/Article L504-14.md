@@ -9,16 +9,17 @@ médicale, du brevet de technicien supérieur d'électroradiologie médicale ou 
 diplôme de technicien supérieur en imagerie médicale et radiologie thérapeutique
 ;
 
-2° Les personnes recrutées jusqu'au 25 juillet 1984 par une collectivité
-publique ou un établissement public d'hospitalisation ou à caractère social pour
-un emploi permanent de manipulateur d'électroradiologie médicale ;
+2° Les personnes recrutées antérieurement à la publication de la loi n° 96-452
+du 28 mai 1996 portant diverses mesures d'ordre sanitaire, social et statutaire,
+en application des dispositions réglementaires en vigueur au moment de leur
+recrutement par une collectivité publique ou un établissement public
+d'hospitalisation ou à caractère social pour un emploi permanent de manipulateur
+d'électroradiologie médicale ;
 
 3° Les personnes exerçant les fonctions de manipulateur d'électroradiologie
 médicale au 25 juillet 1984 ou ayant exercé ces fonctions avant cette date
-pendant une durée au moins égale à six mois et qui ont satisfait, au plus tard
-le 30 septembre 1993, aux épreuves de vérification des connaissances prévues par
-le décret n° 84-710 du 17 juillet 1984 fixant les catégories de personnes
-habilitées à effectuer certains actes d'électroradiologie médicale ;
+pendant une durée au moins égale à six mois et qui ont satisfait avant une date
+fixée par décret à des épreuves de vérification des connaissances ;
 
 4° Les ressortissants d'un Etat membre de la Communauté européenne ou d'un autre
 Etat partie à l'accord sur l'Espace économique européen qui ont obtenu une
