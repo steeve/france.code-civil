@@ -28,3 +28,13 @@ par le préfet aux maires des communes intéressées en vue d'un affichage et d'
 dépôt dans les mairies, au Conseil supérieur du notariat, aux barreaux
 constitués auprès des tribunaux de grande instance dans le ressort desquels est
 conféré le droit de préemption ainsi qu'aux greffes de ces tribunaux.
+
+Pour la réalisation d'un projet de mise en valeur des paysages et de protection
+de l'environnement mentionné au 8° de l'article L. 143-2, lorsque le projet ne
+s'inscrit pas dans une opération soumise à enquête publique en application de
+l'article 1er de la loi n° 83-630 du 12 juillet 1983 relative à la
+démocratisation des enquêtes publiques et à la protection de l'environnement, la
+société d'aménagement foncier et d'établissement rural ne peut exercer son droit
+de préemption que sur proposition du directeur régional de l'environnement ou,
+le cas échéant, du directeur du parc national ou du parc national régional
+compétent.
