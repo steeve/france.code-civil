@@ -1,8 +1,7 @@
 Article L980-4
 ----
-Les dispositions de l'article L. 416-2 du livre IV du code de la sécurité
-sociale [*couverture des risques accidents du travail et maladies
-professionnelles*] sont applicables à l'ensemble des stagiaires de la formation
-professionnelle continue, réserve faite des fonctionnaires de l'état et des
-agents titulaires des collectivités locales qui restent régis par les
-dispositions qui leur sont propres.
+Sous réserve de dispositions contractuelles plus favorables, les salariés
+titulaires des contrats mentionnés à l'article L. 980-2 [*contrats de
+qualification*] perçoivent une rémunération déterminée en fonction du salaire
+minimum de croissance et dont le montant est fixé par décret pour chaque
+semestre [*périodicité*] et peut varier en fonction de l'âge du bénéficiaire.

@@ -3,8 +3,9 @@ Article L432-1
 Dans l'ordre économique, le comité d'entreprise est obligatoirement informé et
 consulté sur les questions intéressant l'organisation, la gestion et la marche
 générale de l'entreprise et, notamment, sur les mesures de nature à affecter le
-volume ou la structure des effectifs, la durée du travail ou les conditions
-d'emploi et de travail du personnel [*attributions*].
+volume ou la structure des effectifs, la durée du travail, les conditions
+d'emploi, de travail et de formation professionnelle du personnel
+[*attributions*].
 
 Chaque année, le comité d'entreprise étudie l'évolution de l'emploi dans
 l'entreprise au cours de l'année passée et les prévisions d'emploi établies par

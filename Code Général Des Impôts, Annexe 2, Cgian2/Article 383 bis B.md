@@ -13,5 +13,5 @@ quindecies.
 
 Les dispositions qui précèdent ne s'appliquent qu'à partir de la troisième année
 suivant celle au cours de laquelle le fonds d'assurance-formation a, selon le
-cas, été créé ou a reçu l'agrément mentionné à l'article L 960-9, deuxième
+cas, été créé ou a reçu l'agrément mentionné à l'article L 961-9, deuxième
 alinéa du code du travail.

@@ -37,22 +37,10 @@ titre de l'effort de construction, quel qu'en soit l'objet, ainsi que sur les
 conditions de logement des travailleurs étrangers que l'entreprise se propose de
 recruter selon les modalités prévues à l'article L. 341-9.
 
-Il est obligatoirement consulté sur les problèmes généraux relatifs à la
-formation et au perfectionnement professionnel ainsi qu'à leur adaptation à
-l'emploi, compte tenu de l'évolution des techniques.
-
-Le comité d'entreprise donne son avis sur le plan de formation du personnel de
-l'entreprise, y compris sur l'application des principes relatifs à l'égalité
-professionnelle entre les femmes et les hommes. Afin de permettre aux membres
-dudit comité et, le cas échéant, aux membres de la commission prévue à l'article
-L. 434-7 de participer à l'élaboration de ce plan et de préparer la délibération
-dont il fait l'objet, le chef d'entreprise leur communique, trois semaines au
-moins avant la réunion du comité d'entreprise ou de la commission précitée
-[*délai*], les documents d'information dont la liste est établie par décret.
-Dans cette liste figureront entre autres les dispositions à prendre pour assurer
-l'égalité professionnelle entre les femmes et les hommes, notamment dans le
-cadre du plan défini à l'article L. 123-4. Ces documents sont également
-communiqués aux délégués syndicaux.
+Il est obligatoirement consulté sur les orientations de la formation
+professionnelle dans l'entreprise dans les conditions prévues à l'article l.
+932-1 du présent code et donne son avis sur le plan de formation de l'entreprise
+dans les conditions prévues à l'article l. 932-6
 
 Dans les entreprises mentionnées à l'article 1er de la loi n° 83-675 du 26
 juillet 1983 relative à la démocratisation du secteur public, le plan de

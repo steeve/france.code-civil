@@ -11,14 +11,14 @@ effectués en application de ces conventions et retenus au titre de la
 participation;
 
 La liste des organismes agréés dans les conditions prévues à l'article L
-950-2-3o du code du travail ayant reçu des versements de l'employeur ainsi que
+950-2-4° du code du travail ayant reçu des versements de l'employeur ainsi que
 le montant de chacun des versements;
 
 La liste et le montant des subventions reçues de l'Etat ou de la région, dans
 l'année, par l'employeur au titre de la formation professionnelle ainsi que
 l'indication du ou, le cas échéant, des organismes agréés ayant reçu des
-versements de l'employeur en application de l'article L. 950-2-3 du code du
-travail.
+versements de l'employeur en application de l'article 235 ter H bis du code
+général des impôts.
 
 2° Le procès-verbal de la délibération du comité d'entreprise prévue à l'article
 235 ter F du code général des impôts ou, à défaut, le procès-verbal de carence
