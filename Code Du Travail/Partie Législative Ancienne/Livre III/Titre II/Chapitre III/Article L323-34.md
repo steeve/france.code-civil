@@ -1,25 +1,29 @@
 Article L323-34
 ----
-Une commission départementale des handicapés statue sur les contestations nées
-de l'application des articles L. 323-10,
+Un décret en Conseil d'Etat détermine les modalités d'application de la présente
+section et notamment :
 
-L. 323-21, L. 323-23 et L. 323-24.
+- les modalités d'application de l'article L. 323-21 ;
 
-Elle est présidée par un magistrat de l'ordre judiciaire désigné par le premier
-président de la cour d'appel et comprend en outre :
+- les modalités d'agrément, de fonctionnement et de contrôle des ateliers
+protégés et des centres de distribution de travail à domicile ainsi que les
+conditions d'admission des travailleurs handicapés ;
 
-- le directeur régional du travail et de la main-d'oeuvre ou son représentant
-assisté, le cas échéant, du fonctionnaire chargé du contrôle des lois sociales
-agricoles dans l'entreprise ou l'organisme intéressé ;
+- les modalités de fonctionnement du conseil supérieur pour le reclassement
+professionnel et social des travailleurs handicapés et les conditions de
+nomination de ses membres.
 
-- un médecin, membre de la commission technique d'orientation et de reclassement
-professionnel désigné par le préfet ;
+En outre, des décrets en Conseil d'Etat déterminent :
 
-- un représentant des employeurs et un représentant des salariés désignés par le
-préfet parmi les membres de la commission départementale de la main-d'oeuvre.
+Les conditions dans lesquelles les indemnités versées par l'Etat en application
+du titre VI du livre IX du présent code peuvent se cumuler avec les prestations
+versées au titre d'un régime de prévoyance ou d'aide sociale, y compris celles
+versées en application des articles 35 et 39 de la loi n. 75-534 du 30 juin 1975
+;
 
-Le président, si cette mesure d'instruction préparatoire lui paraît opportune,
-peut ordonner toute expertise utile.
+Les conditions et modalités selon lesquelles les intéressés sont appelés à
+participer, le cas échéant, aux frais de leur entretien et de leur hébergement
+pendant la durée du stage de formation ou de rééducation professionnelle ;
 
-Les décisions de la commissions ne sont susceptibles d'aucun recours autre que
-celui prévu à l'article L. 323-28.
+Les conditions d'attribution des primes mentionnées à l'avant-dernier alinéa de
+l'article L. 323-16.

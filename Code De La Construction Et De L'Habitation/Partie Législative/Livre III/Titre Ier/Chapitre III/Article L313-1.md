@@ -9,7 +9,7 @@ spéciales ont été édictées en application du 3 a dudit article 231, doivent
 consacrer au financement d'acquisition et d'aménagement de terrains destinés
 exclusivement à la construction de logements sociaux, de construction de
 logements, d'acquisition, d'aménagement ou de remise en état de logements
-anciens des sommes représentant 0,77 p. 100 au moins du montant, entendu au sens
+anciens des sommes représentant 0,72 p. 100 au moins du montant, entendu au sens
 de l'article 231 du code général des impôts précité, des salaires payés par eux
 au cours de l'exercice écoulé. Ces dispositions sont applicables aux
 établissements publics ayant un caractère industriel ou commercial, ainsi qu'aux
@@ -27,12 +27,10 @@ réservée par priorité aux logements des travailleurs immigrés et de leurs
 familles.
 
 Les modalités d'application du présent article sont fixées par décret en Conseil
-d'Etat. Les dispositions précédentes s'appliquent aux investissements qui
-doivent être réalisés à compter du 1er janvier 1975 à raison des salaires payés
-au cours de l'année 1974.
+d'Etat.
 
 Les employeurs qui, en raison de l'accroissement de leur effectif atteignent ou
 dépassent l'effectif de dix salariés, sont dispensés pendant trois ans du
 paiement de la cotisation relative à la participation. Le montant de la
 participation est réduit de 75 p. 100 la quatrième année, de 50 p. 100 la
-cinquième année, de 25 p. 100 la sixième a
+cinquième année, de 25 p. 100 la sixième année.

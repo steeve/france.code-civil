@@ -6,7 +6,7 @@ dispositions ci-après énumérées :
 Livres III et IV du code de la sécurité sociale ;
 
 Articles L. 132 et L. 133 du code des pensions militaires d'invalidité et des
-victimes de guerre ;
+victimes de la guerre ;
 
 Articles 167 et 168 du code de la famille et de l'aide sociale ;
 

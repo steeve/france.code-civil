@@ -1,8 +1,9 @@
 Article L323-8
 ----
-Les règlements d'administration publique [*RAP*] relatifs à l'application de la
-présente section sont élaborés par le ministre chargé du travail, après avis du
-ministre chargé des anciens combattants et victimes de guerre, du ministre
-chargé de l'agriculture, du ministre chargé de l'industrie, du ministre chargé
-du commerce et de l'office national des anciens combattants et victimes de
-guerre.
+Les employeurs mentionnés aux articles L. 323-1 et L. 323-2 peuvent s'acquitter
+partiellement de l'obligation d'emploi instituée par l'article L. 323-1 en
+passant des contrats de fournitures de sous-traitance ou de prestations de
+services avec des ateliers protégés, des centres de distribution de travail à
+domicile ou des centres d'aide par le travail. Cette exonération, dont les
+modalités et les limites sont fixées par voie réglementaire, est proportionnelle
+au volume de travail fourni à ces ateliers et centres.

@@ -25,10 +25,10 @@ des conditions de travail, sur les mesures prises - conditions de leur accueil,
 période d'essai et aménagement des postes de travail - en vue de faciliter la
 mise ou la remise au travail des accidentés du travail, des invalides de guerre
 et assimilés, des invalides civils, des travailleurs handicapés, notamment sur
-celles qui sont relatives à l'application des articles L. 323-1, L. 323-2, L.
-323-3, L. 323-19 et L. 323-20 du code du travail. Il est, en outre, consulté sur
-les mesures qui interviennent au titre de l'aide financière prévue au dernier
-alinéa de l'article L. 323-9 ou dans le cadre d'un contrat de sous-traitance et
+celles qui sont relatives à l'application de la section première du chapitre III
+du titre II du livre III du présent code. Il est, en outre, consulté sur les
+mesures qui interviennent au titre de l'aide financière prévue au dernier alinéa
+de l'article L. 323-9 ou dans le cadre d'un contrat de sous-traitance et
 d'embauche progressive de travailleurs handicapés conclu avec un établissement
 de travail protégé.
 

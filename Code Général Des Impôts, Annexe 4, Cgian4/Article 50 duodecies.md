@@ -5,518 +5,1323 @@ industriels et agricoles dont l'importation dans les départements de la
 Guadeloupe de la Martinique et de la Réunion peut avoir lieu en franchise de la
 taxe sur la valeur ajoutée est fixée ainsi qu'il suit :
 
-NUMEROS DU TARIF DESIGNATION DES PRODUITS des droits de douane ------------
-d'importation -------- Ex 15-07 D Huile de lin.
+15-15-11-00
 
-25-05 Sables naturels de toutes espèces.
+15-15-19-10
 
-Ex 25-13 Pierre ponce.
+15-15-19-90
 
-25-14 Ardoise brute, refendue, dégrossie ou simplement débitée par sciage.
 
-Ex 25-15 Marbres, travertins et autres pierres calcaires d'une densité apparente
-supérieure ou égale à 2,5 ; albâtre.
+DESIGNATION DES PRODUITS
 
-25-16 Granit, porphyre, basalte, grès et autres pierres de taille ou de
-construction bruts, dégrossis ou simplement débités par sciage.
+Huile de lin et ses fractions.
 
-Ex 25-17 Cailloux et pierres concassées (même traités thermiquement), graviers,
-macadam et tarmacadam, des types généralement utilisés pour le bétonnage et pour
-l'empierrement des routes, des voies ferrées ou autresballasts ;
+NUMEROS DU TARIF des droits de douane d'importation
 
-silex et galets, même traités thermiquement ; granulés et éclats (même traités
-thermiquement) et poudres des pierres des n° 25-15 et 25-16.
+25-05
 
-25-20 Gypse, anhydrite ; plâtres, même colorés ou additionnés de faibles
-quantités d'accélérateurs ou de retardateurs, mais à l'exclusion des plâtres
-spécialement préparés pour l'art dentaire.
 
-25-21 Castines et pierres à chaux ou à ciment.
+DESIGNATION DES PRODUITS
 
-25-22 Chaux ordinaire (vive ou éteinte) ; chaux hydraulique, à l'exclusion de
-l'oxyde et de l'hydroxyde de calcium.
+Sables naturels de toute espèce, même colorés, à l'exclusion des sables
+métallifères du chapitre 26.
 
-25-23 Ciments hydrauliques, y compris les ciments non pulvérisés, dits
-"clinkers", même colorés.
+NUMEROS DU TARIF des droits de douane d'importation
 
-27-06 Goudrons de houille, de lignite ou de tourbe et autres goudrons minéraux,
-y compris les goudrons minéraux étêtés et les goudrons minéraux reconstitués.
+25-13-11
 
-Ex 27-08 Brai.
+25-13-19
 
-27-15 Bitumes naturels et asphaltes naturels ;
 
-schistes et sables bitumeux ; roches asphaltiques.
+DESIGNATION DES PRODUITS
 
-Ex 27-16 Mastics bitumeux.
+Pierre ponce.
 
-Ex 28-19 Oxyde de zinc (blanc de zinc).
+NUMEROS DU TARIF des droits de douane d'importation
 
-Ex 28-27 Minium et mine-orange. Chapitre 31 Engrais.
+25-14 à 25-17
 
-32-07 Autres matières colorantes ; produits inorganiques du genre de ceux
-utilisés comme "luminophores". Ex 32-09 A Pigments broyés, vernis, peintures.
 
-32-11 Siccatifs préparés.
+DESIGNATION DES PRODUITS
 
-32-12 Mastics et enduits, y compris les mastics et ciments de résine.
+Tous les produits de ces positions.
 
-38-07 A Essence de térébenthine. Ex 38-19 Mortiers, ciments, pisés, coulis et
-mastics réfractaires. Ex 39-07 Ouvrages en matières des n° 39-01 à 39-06 inclus,
-destinés à la construction (éléments fixes uniquement).
+NUMEROS DU TARIF des droits de douane d'importation
 
-Ex 40-11 B Chambres à air et pneumatiques, pour véhicules à traction animale.
+25-20 à 25-23
 
-44-03 Bois bruts, mêmes écorcés ou simplement dégrossis.
 
-44-04 Bois simplement équarris.
+DESIGNATION DES PRODUITS
 
-44-05 Bois simplement sciés longitudinalement, tranchés ou déroulés, d'une
-épaisseur supérieure à 5 millimètres.
+Tous les produits de ces positions.
 
-44-07 Traverses en bois pour voies ferrées.
+NUMEROS DU TARIF des droits de douane d'importation
 
-Ex 44-09 Pieux et piquets en bois, appointés, non sciés longitudinalement.
+27-06
 
-44-11 Panneaux de fibres de bois ou d'autres matières végétales, même
-agglomérées avec des résines naturelles ou artificielles ou d'autres liants
-organiques.
 
-Ex 44-12 Laine (paille ou fibre) de bois destinée à la construction.
+DESIGNATION DES PRODUITS
 
-44-13 Bois (y compris les lames ou frises pour parquets, non assemblées),
-rabotés, rainés, bouvetés, languetés, feuillurés, chanfreinés ou similaires.
+Tous les produits de cette position.
 
-44-14 Feuilles de placage en bois, pour contreplaqués, d'une épaisseur égale ou
-inférieure à 5 millimètres.
+NUMEROS DU TARIF des droits de douane d'importation
 
-44-15 à 44-18 Panneaux et tous articles visés aux numéros ci-contre.
+27-08-10
 
-Ex 44-19 Baguettes et moulures en bois pour conduites électriques.
 
-44-23 Ouvrages de menuiserie et pièces de charpente pour bâtiments et
-constructions, y compris les panneaux pour parquets et les constructions
-préfabriqués en bois.
+DESIGNATION DES PRODUITS
 
-Ex 44-28 D Lattis en bois ou roseau (dits "lattis armés") ; treillages de
-clôture.
+Brai.
 
-Ex 45-04 Panneaux, plaques, briques, douelles, carreaux et dalles, en liège
-aggloméré, mi-ouvré.
+NUMEROS DU TARIF des droits de douane d'importation
 
-Ex 48-07 Papiers et cartons goudronnés, bitumés ou asphaltés, avec ou sans
-armure textile
 
-68-01 Pavés, bordures de trottoirs et dalles de pavage en pierres naturelles
-(autres que l'ardoise).
+Ex 27-15
 
-68-02 Ouvrages en pierre de taille ou de construction ; cubes et dés pour
-mosaïques.
+DESIGNATION DES PRODUITS
 
-Ex 68-03 Ardoises pour toitures ou pour façades.
+Mastics bitumineux.
 
-68-09 Panneaux, planches, carreaux, blocs et similaires en fibres végétales,
-fibres de bois, paille, copeaux ou déchets de bois, agglomérés avec du ciment,
-du plâtre ou d'autres liants minéraux.
+NUMEROS DU TARIF des droits de douane d'importation
 
-68-10 Ouvrage en plâtre ou en compositions à base de plâtre.
 
-68-11 Ouvrages en ciment, en béton ou en pierre artificielle, même armés, y
-compris les ouvrages en ciment de laitier ou en "granito".
+Ex 28-17
 
-68-12 Ouvrages en amiante-ciment, cellulose-ciment et similaires.
+DESIGNATION DES PRODUITS
 
-69-01 Briques, dalles, carreaux et autres pièces calorifuges en farines
-siliceuses, fossiles et autres terres siliceuses analogues (kieselgur,
-tripolite, diatomite, etc.).
+Oxyde de zinc.
 
-69-02 Briques, dalles, carreaux et autres pièces analogues de construction,
-réfractaires. 69-04 69-04 Briques de construction (y compris les hourdis,
-cache-poutrelles et éléments similaires).
+NUMEROS DU TARIF des droits de douane d'importation
 
-69-05 Tuiles, ornements architectoniques (corniches, frises, etc.) et autres
-poteries de bâtiment (mitres, boisseaux, etc.).
+28-24-20
 
-69-06 Tuyaux, raccords et autres pièces pour canalisations et usages similaires.
 
-69-07 Carreaux, pavés et dalles de pavement ou de revêtement, non vernissés ni
-émaillés.
+DESIGNATION DES PRODUITS
 
-69-08 Autres carreaux, pavés et dalles de pavement ou de revêtement.
+Minium et mine orange.
 
-69-10 Eviers, lavabos, bidets, cuvettes de water- closets, baignoires et autres
-appareils fixes similaires pour usages sanitaires ou hygiéniques.
+NUMEROS DU TARIF des droits de douane d'importation
 
-70-04 Verre coulé ou laminé, non travaillé (même armé ou plaqué en cours de
+
+Chapitre 31
+
+DESIGNATION DES PRODUITS
+
+Engrais.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+32-06
+
+
+DESIGNATION DES PRODUITS
+
+Tous les produits de cette position.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+32-08 à 32-11
+
+
+DESIGNATION DES PRODUITS
+
+Tous les produits de ces positions.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+32-12-90-11 32-12-90-19
+
+
+DESIGNATION DES PRODUITS
+
+Tous les produits de ces positions.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+32-14 DESIGNATION DES PRODUITS
+
+Mastic de vitrier, ciments de résine et autres mastics ; enduits utilisés en
+peinture ; enduits non réfractaires des types utilisés en maçonnerie.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+38-05-10-10
+
+
+DESIGNATION DES PRODUITS
+
+Essence de térébenthine
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+38-16
+
+
+DESIGNATION DES PRODUITS
+
+Ciments, mortiers, bétons et compositions similaires réfractaires autres que les
+produits du n° 38-01.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+
+Ex 39-22
+
+DESIGNATION DES PRODUITS
+
+Tous les produits de cette position destinés à la construction et éléments fixes
+uniquement.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+
+Ex 39-25
+
+DESIGNATION DES PRODUITS
+
+Articles d'équipement pour la construction en matières plastiques, non dénommés
+ni compris ailleurs (éléments fixes uniquement).
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+44-03
+
+
+DESIGNATION DES PRODUITS
+
+Bois bruts, même écorcés, désaubiérés ou équarris. NUMEROS DU TARIF des droits
+de douane d'importation
+
+
+Ex 44-04
+
+DESIGNATION DES PRODUITS
+
+Pieux et piquets en bois appointés, non sciés longitudinalement.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+
+Ex 44-05
+
+DESIGNATION DES PRODUITS
+
+Laine (paille) de bois destinée à la construction.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+
+Ex 44-06 à 44-08
+
+DESIGNATION DES PRODUITS
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+
+Ex 44-09
+
+DESIGNATION DES PRODUITS
+
+Bois (y compris les lames ou frises pour parquets, non assemblées) rabotés,
+rainés, bouvetés, languetés, feuillurés, chanfreinés ou similaires.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+
+Ex 44-10 à 44-13
+
+DESIGNATION DES PRODUITS
+
+
+Tous produits de ces positions
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+
+Ex 44-18
+
+DESIGNATION DES PRODUITS
+
+
+Tous produits de cette position
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+44-20-90-10
+
+
+DESIGNATION DES PRODUITS
+
+Bois marquetés et bois incrustés.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+
+Ex 45-04
+
+DESIGNATION DES PRODUITS
+
+Panneaux, plaques, briques, douelles, carreaux et dalles, en liège aggloméré,
+mi-ouvré.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+48-11-10
+
+
+DESIGNATION DES PRODUITS
+
+Papiers et cartons goudronnés, bitumés ou asphaltés.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+48-14-20
+
+
+DESIGNATION DES PRODUITS
+
+Papiers peints et revêtements muraux similaires, constitués par du papier enduit
+ou recouvert sur l'endroit, d'une couche de matière plastique grainée, gaufrée,
+coloriée, imprimée de motifs ou autrement décorée.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+68-01 à 68-02
+
+
+DESIGNATION DES PRODUITS
+
+Tous produits de ces positions.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+
+Ex 68-03
+
+DESIGNATION DES PRODUITS
+
+Ardoises pour toitures ou pour façades.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+68-08 à 68-11
+
+
+DESIGNATION DES PRODUITS
+
+Tous produits de ces positions.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+69-01 à 69-02
+
+
+DESIGNATION DES PRODUITS
+
+Tous produits de ces positions.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+69-04 à 69-08
+
+
+DESIGNATION DES PRODUITS
+
+Tous produits de ces positions.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+69-10
+
+
+DESIGNATION DES PRODUITS
+
+Eviers, lavabos, colonnes de lavabo, baignoires, bidets, cuvettes d'aisances,
+réservoirs de chasse, urinoirs et appareils fixes similaires pour usages
+sanitaires, en céramique.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+70-03-11-90 Ex 70-03-19-90 70-03-20-10 Ex 70-03-20-90
+
+
+DESIGNATION DES PRODUITS
+
+Verre coulé ou laminé, non travaillé (même armé ou plaqué en cours de
 fabrication), en plaques ou en feuilles de forme carrée ou rectangulaire.
 
-70-05 Verre étiré ou souffé dit : "verre à vitres" non travaillé (même plaqué en
-cours de fabrication), en feuilles de forme carrée ou rectangulaire.
+NUMEROS DU TARIF des droits de douane d'importation
 
-70-06 Verre coulé ou laminé et "verre à vitres" (même armés ou plaqués en cours
-de fabrication), simplement doucis ou polis sur une ou deux faces en plaques ou
-en feuilles de forme carrée ou rectangulaire.
 
-70-16 Pavés, briques, carreaux, tuiles et autres articles en verre coulé ou
-moulé, même armé, pour le bâtiment et la construction;
+Ex 70-04
 
-verre dit multicellulaire ou verre mousse en blocs, panneaux, plaques et
-coquilles.
+DESIGNATION DES PRODUITS
 
-Ex 70-20 A Fibres non textiles (verrofibre) destinées à la construction.
+Verre étiré ou soufflé, en feuilles, même à couche absorbante ou réfléchissante,
+mais non autrement travaillé, autre que le verre optique.
 
-Ex 73-01 à Ex 73-19 Fers, fontes et aciers des catégories indiquées à ces
-numéros et destinés uniquement à la construction.
+NUMEROS DU TARIF des droits de douane d'importation
 
-73-20 Accessoires de tuyauterie en fonte, fer ou acier (raccords, coudes,
-joints, manchons, brides, etc.).
 
-73-21 Constructions, même incomplètes, assemblées ou non, et parties de
-constructions, etc., en fonte, fer ou acier.
+Ex 70-05
 
-73-22 Réservoirs, foudres, cuves et autres récipients analogues, pour toutes
-matières (à l'exclusion des gaz comprimés ou liquéfiés), en fonte, fer ou acier
-d'une contenance supérieure à 300 litres, sans dispositifs mécaniques ou
-thermiques, même avec revêtement intérieur ou calorifuge.
+DESIGNATION DES PRODUITS
 
-73-25 Câbles, cordages, tresses, élingues et similaires, en fils de fer ou
-d'acier, à l'exclusion des articles isolés pour l'électricité.
+Verre coulé ou laminé et "verre à vitres" (même armés ou plaqués en cours de
+fabrication) simplement doucis ou polis sur une ou deux faces en plaques ou en
+feuilles de forme carrée ou rectangulaire.
 
-73-26 Ronces artificielles ; torsades, barbelées ou non, en fil ou en feuillard
-de fer ou d'acier.
+NUMEROS DU TARIF des droits de douane d'importation
 
-73-27 Toiles métalliques, grillages et treillis, en fil de fer ou d'acier, tôles
-ou bandes déployées en fer et en acier.
+70-16-90-30 70-16-90-90
 
-73-29 Chaînes, chaînettes et leurs parties, en fonte, fer ou acier.
 
-Ex 73-31 Pointes, clous, crampons appointés, agrafes ondulées et biseautées,
-pitons et crochets en fer, fonte ou acier, même avec tête en autre matière à
-l'exclusion de ceux avec tête en cuivre.
+DESIGNATION DES PRODUITS
 
-73-32 Tire-fond (de voies et autres) ; autres articles de boulonnerie et de
-visserie.
+Pavés, briques, carreaux, tuiles et autres articles en verre coulé ou moulé,
+même armé, pour le bâtiment et la construction ; verre dit multicellulaire ou
+verre mousse en blocs, panneaux, plaques et coquilles.
 
-Ex 73-38 Articles sanitaires en fonte, fer ou acier, destinés à la construction
-(éléments fixes uniquement).
+NUMEROS DU TARIF des droits de douane d'importation
 
-Ex 73-40 Ouvrages en fontes pour canalisations ;
 
-réservoirs, foudres, cuves et autres récipients analogues, du genre de ceux
-repris au n° 73-22, d'une contenance égale ou inférieure à 300 litres, destinés
-à la construction (éléments fixes uniquement) ;
+Ex 70-19-32-00 Ex 70-19-39-10 Ex 70-19-39-30 Ex 70-19-39-50 Ex 70-19-39-90
 
-autres ouvrages, autres, destinés à la construction et ferrures pour lignes
-électriques, en fonte, fer ou acier.
+DESIGNATION DES PRODUITS
 
-Ex 74-03 Barres, profilés et fils de section pleine, en cuivre, destinés à la
-construction ou à l'équipement de lignes et centrales électriques.
+Fibres non textiles (verrofibre) destinées à la construction.
 
-Ex 74-07 Tubes et tuyaux (y compris leurs ébauches), en cuivre.
+NUMEROS DU TARIF des droits de douane d'importation
 
-74-08 Accessoires de tuyauterie en cuivre (raccords, coudes, joints, manchons,
-brides etc.).
 
-74-10 Câbles, cordages, tresses et similaires, en fils de cuivre, à l'exclusion
-des articles isolés pour l'électricité.
+Ex chapitre 72
 
-Ex 74-11 Toiles métalliques (y compris les toiles continues ou sans fin),
-grillages et treillis, en fils de cuivre ; treillis d'une seule pièce, en
-cuivre, exécutés à l'aide d'une tôle ou d'une bande incisée et déployée.
+DESIGNATION DES PRODUITS
 
-Ex 74-19 Chaînes, chaînettes et leurs parties, en cuivre ; réservoirs, cuves et
-autres récipients analogues en cuivre, sans dispositifs mécaniques ou
-thermiques, même avec revêtement intérieur ou calorifuge, destinés à la
-construction (éléments fixes uniquement) ; autres ouvrages en cuivre, autres,
-destinés à la construction.
-
-Ex 75-04 A Tubes, tuyaux (y compris leurs ébauches) et barres creuses en alliage
-de nickel contenant plus de 10 % et moins de 50 % de nickel, destinés à la
-construction ou à l'équipement des lignes et centrales électriques.
-
-75-04 B Accessoires de tuyauterie.
-
-Ex 75-06 B Toiles et tissus, grillages, treillis, y compris les treillis d'une
-seule pièce exécutés à l'aide d'une tôle ou d'une bande incisée et déployée.
-
-Ex 76-02 Barres, profilés et fils de section pleine, en aluminium allié.
-
-Ex 76-03 Tôles, planches, feuilles et bandes en aluminium allié d'une épaisseur
-de plus de 0,20 millimètres.
-
-Ex 76-06 Tubes, tuyaux et barres creuses en aluminium allié.
-
-76-07 Accessoires de tuyauterie en aluminium (raccords, coudes, joints,
-manchons, brides etc.).
-
-76-08 Constructions, même incomplètes, assemblées ou non, et parties de
-construction en aluminium ; tôles, barres, profilés, tubes etc., en aluminium,
-préparés en vue de leur utilisation dans la construction.
-
-76-09 Réservoirs, foudres, cuves et autres récipients analogues, pour toutes
-matières (à l'exclusion des gaz comprimés ou liquéfiés), en aluminium, d'une
-contenance supérieure à 300 litres, sans dispositifs mécaniques ou thermiques,
-même avec revêtementintérieur ou calorifuge.
-
-76-12 Câbles, cordages, tresses et similaires, en fils d'aluminium, à
-l'exclusion des articles isolés pour l'électricité.
-
-Ex 76-16 D Toiles métalliques, grillages et treillis en fils d'aluminium ;
-treillis d'une seule pièce, en aluminium, exécutés à l'aide d'une tôle ou d'une
-bande incisée et déployée ; récipients du genre de ceux visés au n° 76-09, d'une
-contenance de 300 litres au moins, destinés à la construction (éléments fixes
-uniquement) ; chaînes et chaînettes, autres que de transmission, montées ou non,
-en aluminium ; ferrures pour lignes électriques en aluminium ;
-
-autres ouvrages en aluminium, autres, destinés à la construction.
-
-78-05 Tubes et tuyaux (y compris leurs ébauches), barres creuses et accessoires
-de tuyauterie en plomb.
-
-Ex 79-03 A Planches et feuilles en zinc ou en alliage de zinc pour la
+Fonte, fer et acier. Tous produits de ce chapitre destinés uniquement à la
 construction.
 
-79-04 Tubes et tuyaux (y compris leurs ébauches), barres creuses et accessoires
-de tuyauterie, en zinc.
+NUMEROS DU TARIF des droits de douane d'importation
 
-79-06 A Gouttières, faîtages, lucarnes et autres ouvrages façonnés, en zinc,
-pour le bâtiment.
 
-Ex 79-06 Toiles, tissus, grillages, treillis, y compris les treillis d'une seule
-pièce exécutés à l'aide d'une tôle ou d'une bande incisée et déployée ; autres
-ouvrages en zinc, autres, destinés à la construction ;
+Ex 73-01-10
 
-réservoirs, cuves et autres récipients analogues, pour toutes matières, en zinc.
+DESIGNATION DES PRODUITS
 
-80-05 Tubes et tuyaux (y compris leurs ébauches), barres creuses et accessoires
-de tuyauterie en étain.
+Palplanches en fer ou en acier destinées uniquement à la construction.
 
-Ex 82-05 Outils de forage et de sondage.
+NUMEROS DU TARIF des droits de douane d'importation
 
-Ex 83-01 Serrures, verrous et leurs parties, en métaux communs, utilisés dans la
-construction.
+73-01-20
 
-Ex 83-02 Garnitures, ferrures et autres articles similaires, en métaux communs,
-utilisés dans la construction.
 
-Ex 84-01 Chaudières de locomotives ; chaudières à vapeur autres.
+DESIGNATION DES PRODUITS
 
-Ex 84-02 Appareils auxiliaires pour les générateurs de vapeur d'eau repris au n°
-84-01.
+Profilés en fer ou en acier.
 
-84-03 Gazogènes et générateurs de gaz à l'eau ou de gaz à l'air (y compris les
-gazogènes utilisant la biomasse), avec ou sans leurs épurateurs ; générateurs
-d'acétylène (par voie humide) et générateurs similaires, avec ou sans leurs
-épurateurs.
+NUMEROS DU TARIF des droits de douane d'importation
 
-84-05 Locomobiles et machines demi-fixes, à vapeur.
 
-84-05 Machines à vapeur d'eau ou autres vapeurs, séparées de leurs chaudières.
+Ex 73-02 à 73-06
 
-Ex 84-06 A, C et D Moteurs pour l'aviation et autres moteurs à explosion ou à
-combustion interne et leurs parties et pièces détachées.
+DESIGNATION DES PRODUITS
 
-84-07 Roues hydrauliques, turbines et autres machines motrices hydrauliques.
-84-08 C II et Ex D Autres moteurs et machines motrices (dont éoliennes et
-aérogénérateurs) et leurs parties et pièces détachées.
+Produits de ces positions uniquement destinés à la construction.
 
-84-09 Rouleaux-compresseurs à propulsion mécanique.
+NUMEROS DU TARIF des droits de douane d'importation
 
-Ex 84-10 B Pompes d'injection pour tous moteurs (autres que l'automobile), leurs
-parties et pièces détachées ; pompes à bras, pompes centrifuges, pompes autres,
-leurs parties et pièces détachées, à usage industriel ou agricole.
+73-07 à 73-09
 
-Ex 84-10 C Elévateurs à liquides et leurs parties et pièces détachées, à usage
-industriel ou agricole.
 
-Ex 84-11 A Pompes, moto-pompes et turbo-pompes à air et à vide, compresseurs,
-moto-compresseurs et turbo-compresseurs d'air et d'autres gaz, à usage
-industriel ou agricole.
+DESIGNATION DES PRODUITS
 
-84-11 C Ventilateurs et similaires.
+Tous produits de ces positions.
 
-84-12 à 84-16 Tous appareils repris aux numéros ci-contre, à l'exclusion des
-appareils frigorifiques visés au n° 84-15 de 500 kilogrammes et moins.
+NUMEROS DU TARIF des droits de douane d'importation
 
-84-17 C Echangeurs de chaleur.
 
-84-17 F Autres :
+Ex 73-10
 
-I. Chauffe-eau, chauffe-bain non électrique ;
+DESIGNATION DES PRODUITS
 
-II. Non dénommés.
+Réservoirs, fûts, tambours, bidons, boîtes et récipients similaires, pour toutes
+matières (à l'exception des gaz comprimés ou liquéfiés), en fonte, fer ou acier,
+d'une contenance n'excédant pas 300 litres, sans dispositifs mécaniques ou
+thermiques, même avec revêtement intérieur ou calorifuge destinés à la
+construction (éléments fixes uniquement).
 
-84-18 Centrifugeuses et essoreuses centrifuges ;
+NUMEROS DU TARIF des droits de douane d'importation
 
-appareils pour la filtration ou l'épuration des liquides ou des gaz.
+73-12 à 73-15
 
-Ex 84-19 B Machines et appareils à nettoyer ou sécher les bouteilles et autres
-récipients, à remplir, fermer, étiqueter ou capsuler les bouteilles, boîtes,
-sacs et autres récipients ; à empaqueter ou emballer les marchandises ; à
-gazéifier les boissons.
 
-Ex 84-20 Ponts-bascules et bascules à installation fixe.
+DESIGNATION DES PRODUITS
 
-Ex 84-21 Appareils mécaniques repris aux numéros ci-contre, à l'exclusion des
-extincteurs chargés ou non.
+Tous produits de ces positions.
 
-84-22 à 84-38 Machines et appareils repris aux numéros ci-contre. Ex 84-39 à ex
-84-42 Machines et appareils repris aux numéros ci-contre, à usage industriel, à
-l'exclusion de ceux à usage domestique.
+NUMEROS DU TARIF des droits de douane d'importation
 
-84-43 à 84-48 Machines et pièces détachées reprises aux numéros ci-contre.
+73-17 à 73-18
 
-84-49 Outils et machines-outils pneumatiques ou à moteur autre qu'électrique
-incorporé pour emploi à la main.
 
-84-50 Machines et appareils aux gaz pour le soudage, le coupage et la trempe
-artificielle.
+DESIGNATION DES PRODUITS
 
-Ex 84-53 Machines à statistiques et similaires à cartes perforées.
+Tous produits de ces positions.
 
-84-56 et 84-57 Machines et appareils repris aux numéros ci-contre.
+NUMEROS DU TARIF des droits de douane d'importation
 
-Ex 84-59 Machines, appareils et engins mécaniques, non dénommés ni compris dans
-d'autres positions du chapitre 84, à usage industriel ou agricole.
 
-84-60 Châssis de fonderie, moules et coquilles, des types utilisés pour les
-métaux (autres que les lingotières), les carbures métalliques, le verre, les
-matières minérales (pâtes céramiques, béton, ciment, etc.), le caoutchouc et les
-matières plastiques artificielles.
+Ex 73-24 à 73-26
 
-84-61 Articles de robinetterie et autres organes similaires (y compris les
-détenteurs et les vannes thermostatiques) pour tuyauteries, chaudières,
-réservoirs, cuves et autres contenants similaires.
+DESIGNATION DES PRODUITS
 
-84-62 Roulements de tous genres.
+Produits de ces positions destinés à la construction (éléments fixes
+uniquement).
 
-Ex 84-63 Arbres de transmission, manivelles, et vilebrequins, paliers et
-coussinets, engrenages et roues de friction, réducteurs multiplicateurs et
-variateurs de vitesse, volants et poulies (y compris les poulies à moufles),
-embrayages, organes d'accouplement (manchons, accouplements élastiques, etc.) et
-joints d'articulation (de cardan, de Oldham, etc.) pour moteurs des véhicules
-repris aux n° 87-01, 87-02 ex A, 87-02 B et 87-03 ci-après.
+NUMEROS DU TARIF des droits de douane d'importation
 
-Ex 84-64 Joints métalloplastiques, jeux ou assortiments de joints de composition
-différente pour moteurs des véhicules repris aux n° 87-01, 87-02 ex A, 87-02 B
-et 87-03 ci-après.
 
-Ex 84-65 Parties et pièces détachées de machines, d'appareils et d'engins
-mécaniques, non dénommées ni comprises dans d'autres positions du chapitre 84, à
-usage industriel ou agricole ne comportant pas de connexions électriques, de
-parties, isolées électriquement, de bobinages, de contacts ou d'autres
-caractéristiques électriques.
+Ex 74-07 à 74-08
 
-85-01 Machines génératrices, moteurs et convertisseurs rotatifs ou statiques
-statiques (redresseurs, etc.) ;
+DESIGNATION DES PRODUITS
 
-transformateurs ; bobines de réactance et selfs.
+Produits de ces positions destinés à la construction ou à l'équipement de lignes
+et centrales électriques.
 
-85-02 Electro-aimants ; aimants permanents, magnétisés ou non ; plateaux,
-mandrins et autres dispositifs magnétiques ou électromagnétiques similaires de
-fixation ; accouplements, embrayages, variateurs de vitesse et freins
-électromagnétiques ;
+NUMEROS DU TARIF des droits de douane d'importation
 
-têtes de levage électromagnétiques.
+74-11 à 74-14
 
-85-04 Accumulateurs électriques.
 
-85-05 Outils et machines-outils électromécaniques (à moteur incorporé) pour
-emploi à la main. 85-11 A Fours électriques industriels ou de laboratoires, y
-compris les appareils pour le traitement thermique des matières par induction ou
-par pertes diélectriques.
+DESIGNATION DES PRODUITS
 
-85-11 B Machines et appareils électriques ou à laser à souder, braser ou couper.
+Tous produits de ces positions.
 
-Ex 85-15 A Appareils émetteurs et appareils émetteurs- récepteurs de
-radiotéléphonie, radiotélégraphie, radio-diffusion et télévision.
+NUMEROS DU TARIF des droits de douane d'importation
 
-Ex 85-15 B Appareils de radioguidage, de radiodétection de radiosondage et de
-radiotélécommande.
 
-85-16 Appareils électriques de signalisation (autres que pour la transmission
-des messages), de sécurité, de contrôle et de commande pour voies ferrées et
-autres voies de communication, y compris les ports et les aérodromes.
+Ex 74-19
 
-Ex 85-17 Appareils électriques de signalisation acoustique ou visuelle, à usage
-public.
+DESIGNATION DES PRODUITS
 
-85-18 Condensateurs électriques, fixes, variables ou ajustables.
+Autres ouvrages en cuivre destinés à la construction.
 
-85-19 Appareillage pour la coupure, le sectionnement, la protection, le
-branchement ou la connexion des circuits électriques (interrupteurs,
-commutateurs, relais, coupe-circuits, parafoudres, étaleurs d'onde, prises de
-courant, douilles pour lampes, boîtes de jonction, etc.) ; résistances non
-chauffantes, potentiomètres et rhéostats ; circuits imprimés ; tableaux de
-commande ou de distribution.
+NUMEROS DU TARIF des droits de douane d'importation
 
-Ex 85-21 B Cellules solaires, même assemblées en modules ou constituées en
-panneaux.
 
-85-23 Fils, tresses, câbles (y compris les câbles coaxiaux), bandes, barres et
-similaires, isolés pour l'électricité (même laqués ou oxydés anodiquement),
-munis ou non de pièces de connexion.
+Ex 75-05
 
-85-24 Pièces et objets en charbon ou en graphite, avec ou sans métal, pour
-usages électriques ou électrotechniques tels que balais pour machines
-électriques, charbons pour lampes, piles ou microphones, électrodes pour fours,
-appareils de soudage ou installations d'électrolyse, etc..
+DESIGNATION DES PRODUITS
 
-85-25 Isolateurs en toutes matières.
+Barres, profilés et fils, en nickel destinés à la construction ou à l'équipement
+des lignes et centrales électriques.
 
-85-26 Pièces isolantes, entièrement en matières isolantes ou comportant de
-simples pièces métalliques d'assemblage (douilles à pas de vis, par exemple),
-noyées dans la masse, pour machines, appareils et installations électriques, à
-l'exclusion des isolateurs du n° 85-25.
+NUMEROS DU TARIF des droits de douane d'importation
 
-85-27 Tubes isolateurs et leurs pièces de raccordement, en métaux communs,
-isolés intérieurement.
+75-07
 
-85-28 Parties et pièces détachées électriques de machines et appareils, non
-dénommées ni comprises dans d'autres positions du chapitre 85.
 
-Chapitre 86 Véhicules et matériel pour voies ferrées, appareils de signalisation
-non électriques pour voies de communication.
+DESIGNATION DES PRODUITS
 
-87-01 Tracteurs, y compris les tracteurs-treuils.
+Tubes, tuyaux et accessoires de tuyauterie (raccords, coudes, manchons, par
+exemple), en nickel. NUMEROS DU TARIF des droits de douane d'importation
 
-Ex 87-02 A Voitures automobiles pour le transport des personnes en commun.
 
-87-02 B Voitures automobiles pour le transport des marchandises.
+Ex 75-08
 
-87-03 Voitures automobiles à usages spéciaux.
+DESIGNATION DES PRODUITS
 
-Ex 87-04 Châssis des véhicules, repris aux n° 87-01, 87-02 ex A, 87-02 B et
-87-03 ci-dessus.
+Toiles et tissus, grillages, treillis, y compris les treillis d'une seule pièce
+exécutés à l'aide d'une tôle ou d'une bande incisée et déployée en nickel.
 
-Ex 87-05 Carrosseries (y compris les cabines) des véhicules repris aux n° 87-01,
-87-02 ex A, 87-02 B et 87-03 ci-dessus.
+NUMEROS DU TARIF des droits de douane d'importation
 
-87-07 Chariots de manutention automobiles, leurs parties et pièces détachées.
 
-Ex 87-14 B Remorques pour le transport des marchandises.
+Ex 76-04 à 76-06
 
-Ex 88-02 et 88-03 B Aérodynes, parties et pièces détachées d'aérodynes.
+DESIGNATION DES PRODUITS
 
-89-05 Engins flottants divers.
+Produits de ces positions en aluminium allié.
 
-90-14 Instruments et appareils de géodésie, de topographie, d'arpentage, de
-nivellement, de photogrammétrie et d'hydrographie, de navigation (maritime,
-fluviale ou aérienne) de météorologie, d'hydrologie, de géophysique ; boussoles,
-télémètres.
+NUMEROS DU TARIF des droits de douane d'importation
 
-90-22 Machines et appareils d'essais mécaniques.
+76-08-20
 
-90-24 Appareils et instruments pour la mesure, le contrôle ou la régulation des
-fluides gazeux ou liquides, ou pour le contrôle automatique des températures,
-tels que manomètres, thermostats, indicateurs de niveau, régulateurs de tirage,
-débitmètres, compteurs de chaleur, à l'exclusion des appareils et instruments du
-n° 90-14.
 
-Ex 90-26 Compteurs d'eau ; compteurs d'électricité.
+DESIGNATION DES PRODUITS
 
-Ex 90-28 Instruments et appareils électriques ou électroniques de mesure, de
-vérification et de contrôle.
+Tubes et tuyaux en aluminium allié.
 
-II. La liste des produits cités au I est complétée par le pain (ex 19-07) et le
+NUMEROS DU TARIF des droits de douane d'importation
+
+76-09 à 76-11
+
+
+DESIGNATION DES PRODUITS
+
+Tous produits de ces positions.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+76-14
+
+
+DESIGNATION DES PRODUITS
+
+Torons, câbles, tresses et similaires en aluminium, non isolés pour
+l'électricité.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+76-16-90
+
+
+DESIGNATION DES PRODUITS
+
+Autres ouvrages en aluminium, autres.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+
+Ex 78-03
+
+DESIGNATION DES PRODUITS
+
+Barres creuses en plomb.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+78-05
+
+
+DESIGNATION DES PRODUITS
+
+Tubes, tuyaux et accessoires de tuyauterie (raccords, coudes, manchons, par
+exemple), en plomb.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+
+Ex 79-05
+
+DESIGNATION DES PRODUITS
+
+Tôles, feuilles et bandes en zinc pour la construction.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+
+Ex 79-04
+
+DESIGNATION DES PRODUITS
+
+Barres creuses en zinc.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+79-06
+
+
+DESIGNATION DES PRODUITS
+
+Tubes, tuyaux et accessoires de tuyauterie (raccords, coudes, manchons, par
+exemple), en zinc.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+79-07-10
+
+
+DESIGNATION DES PRODUITS
+
+Gouttières, faîtages, lucarnes et autres ouvrages façonnés, en zinc pour le
+bâtiment.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+
+Ex 79-07-90
+
+DESIGNATION DES PRODUITS
+
+Toiles, tissus, grillages, treillis, y compris les treillis d'une seule pièce
+exécutés à l'aide d'une tôle ou d'une bande incisée ou déployée ; autres
+ouvrages en zinc, destinés à la construction, réservoirs, cuves et autres
+récipients analogues, pour toutes matières, en zinc.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+
+Ex 80-03
+
+DESIGNATION DES PRODUITS
+
+Barres creuses en étain.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+80-06
+
+
+DESIGNATION DES PRODUITS
+
+Tubes, tuyaux et accessoires de tuyauterie (raccords, coudes, manchons, par
+exemple), en étain.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+82-07-11 82-07-12
+
+
+DESIGNATION DES PRODUITS
+
+Outils de forage ou de sondage.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+
+Ex 83-01 à 83-02
+
+DESIGNATION DES PRODUITS
+
+Produits de ces positions utilisés dans la construction.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+84-02
+
+
+DESIGNATION DES PRODUITS
+
+Chaudières à vapeur (générateurs de vapeur) autres que les chaudières pour le
+chauffage central conçues pour produire à la fois de l'eau chaude et de la
+vapeur à basse pression ; chaudières dites "à eau surchauffée".
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+
+Ex 84-04
+
+DESIGNATION DES PRODUITS
+
+Appareils auxiliaires pour chaudières du numéro 84-02.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+84-05 à 84-10
+
+
+DESIGNATION DES PRODUITS
+
+Tous produits de ces positions.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+84-12
+
+
+DESIGNATION DES PRODUITS
+
+Autres moteurs et machines motrices.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+
+Ex 84-13
+
+DESIGNATION DES PRODUITS
+
+Pompes pour liquides, même comportant un dispositif mesureur, élévateurs à
+liquides à usage industriel ou agricole.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+
+Ex 84-14
+
+DESIGNATION DES PRODUITS
+
+Pompes, moto-pompes et turbo-pompes à air et à vide, compresseurs,
+moto-compresseurs et turbocompresseurs d'air et d'autres gaz, à usage industriel
+ou agricole.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+84-14-51 84-14-59
+
+
+DESIGNATION DES PRODUITS
+
+Ventilateurs.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+84-15 à 84-17
+
+
+DESIGNATION DES PRODUITS
+
+Tous produits de ces positions.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+
+Ex 84-18
+
+DESIGNATION DES PRODUITS
+
+Réfrigérateurs, congélateurs, conservateurs et autres appareils pour la
+production du froid à équipement électrique ou autre à l'exclusion des appareils
+frigorifiques de 500 kilogrammes et moins ; pompes à chaleur autres que les
+machines et appareils pour le conditionnement de l'air du n° 84-15.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+84-19-11 84-19-19
+
+
+DESIGNATION DES PRODUITS
+
+Chauffe eau non électrique, à chauffage instantané ou à accumulation.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+84-19-31 84-19-32 84-19-39
+
+
+DESIGNATION DES PRODUITS
+
+Séchoirs.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+84-19-40
+
+
+DESIGNATION DES PRODUITS
+
+Appareils de distribution ou de rectification.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+84-19-50
+
+
+DESIGNATION DES PRODUITS
+
+Echangeurs de chaleur.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+84-19-60
+
+
+DESIGNATION DES PRODUITS
+
+Appareils et dispositifs pour la liquidation de l'air et des gaz.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+84-19-89
+
+
+DESIGNATION DES PRODUITS
+
+Autres.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+84-19-90
+
+
+DESIGNATION DES PRODUITS
+
+Parties de ces appareils à l'exclusion de celles des appareils du n° 84-19-20.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+84-20 à 84-21
+
+
+DESIGNATION DES PRODUITS
+
+Tous produits de ces positions.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+
+Ex 84-22
+
+DESIGNATION DES PRODUITS
+
+Machines et appareils servant à nettoyer ou à sécher les bouteilles ou autres
+récipients ; machines et appareils à remplir, fermer, capsuler ou étiqueter les
+bouteilles, boîtes, sacs et autres contenants ; machines et appareils à
+empaqueter ou emballer les marchandises ; machines et appareils à gazéifier les
+boissons et leurs parties.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+84-23-20
+
+
+DESIGNATION DES PRODUITS
+
+Bascules à pesage continu sur transporteurs.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+84-23-82
+
+
+DESIGNATION DES PRODUITS
+
+Autres appareils et instruments de pesage d'une portée excédant 30 kg mais
+n'excédant pas 5 000 kg.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+84-23-89
+
+
+DESIGNATION DES PRODUITS
+
+Autres appareils et instruments de pesage.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+
+Ex 84-23-90
+
+DESIGNATION DES PRODUITS
+
+Parties et poids des appareils de la position 84-23-20, 84-23-82, 84-23-89.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+
+Ex 84-24
+
+DESIGNATION DES PRODUITS
+
+Appareils mécaniques (même à main) à projeter, disperser ou pulvériser des
+matières liquides ou en poudre ; pistolets aérographes et appareils similaires ;
+machines et appareils à jet de sable, à jet de vapeur et appareils à jet
+similaires ; et leurs parties.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+84-25 à 84-48
+
+
+DESIGNATION DES PRODUITS
+
+Tous produits de ces positions.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+
+Ex 84-49 à 84-53
+
+DESIGNATION DES PRODUITS
+
+Tous produits de ces positions à usage industriel à l'exclusion de ceux à usage
+domestique.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+84-54 à 84-68
+
+
+DESIGNATION DES PRODUITS
+
+Tous produits de ces positions.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+84-71
+
+
+DESIGNATION DES PRODUITS
+
+Tous produits de cette position.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+
+Ex 84-73
+
+DESIGNATION DES PRODUITS
+
+Parties et accessoires (autres que les coffrets, housses et similaires)
+reconnaissables comme étant exclusivement ou principalement destinés aux
+machines ou appareils du n° 84-71.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+84-74 à 84-75
+
+
+DESIGNATION DES PRODUITS
+
+Tous produits de ces positions.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+84-77 à 84-78
+
+
+DESIGNATION DES PRODUITS
+
+Tous produits de ces positions.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+
+Ex 84-79
+
+DESIGNATION DES PRODUITS
+
+Machines et appareils mécaniques ayant une fonction propre, non dénommés ni
+compris ailleurs dans le présent chapitre à usage industriel ou agricole.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+84-80 à 84-82
+
+
+DESIGNATION DES PRODUITS
+
+Tous produits de ces positions.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+
+Ex 84-83
+
+DESIGNATION DES PRODUITS
+
+Arbres de transmission (y compris les arbres à cames et vilebrequins) et
+manivelles ; paliers et coussinets, engrenages et roues de friction ; broches
+filetées à billes " vis à billes " ; réducteurs, multiplicateurs et variateurs
+de vitesse, y compris les convertisseurs de couple ; volants et poulies, y
+compris les poulies à moufles ; embrayages et organes d'accouplement, y compris
+les joints d'articulation pour moteurs des véhicules repris aux n°s 87-01,
+87-02, 87-04, 87-05.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+85-01
+
+
+DESIGNATION DES PRODUITS
+
+Moteurs et machines génératrices électriques à l'exclusion des groupes
+électrogènes.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+85-05
+
+
+DESIGNATION DES PRODUITS
+
+Tous produits de cette position.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+85-07 à 85-08
+
+
+DESIGNATION DES PRODUITS
+
+Tous produits de ces positions.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+85-14 à 85-15
+
+
+DESIGNATION DES PRODUITS
+
+Tous produits de ces positions.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+85-25-10
+
+85-25-20
+
+
+DESIGNATION DES PRODUITS
+
+Appareils d'émission pour la radiotéléphonie, la radiotélégraphie, la
+radiodiffusion ou la télévision, même incorporant un appareil de réception ou un
+appareil d'enregistrement ou de reproduction du son. NUMEROS DU TARIF des droits
+de douane d'importation
+
+85-26
+
+
+DESIGNATION DES PRODUITS
+
+Appareils de radiodétection et de radiosondage (radar), appareils de
+radionavigation et appareils de radiotélécommande.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+
+Ex 85-29
+
+DESIGNATION DES PRODUITS
+
+Parties reconnaissables comme étant exclusivement ou principalement destinées
+aux appareils des n°s 85-25-10, 85-25-20, 85-26.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+85-30
+
+
+DESIGNATION DES PRODUITS
+
+Tous produits de cette position.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+
+Ex 85-31
+
+DESIGNATION DES PRODUITS
+
+Appareils électriques de signalisation acoustique ou visuelle (sonneries,
+sirènes, tableaux annonciateurs, appareils avertisseurs pour la protection
+contre le vol ou l'incendie, par exemple), autres que ceux des n°s 85-12 ou
+85-30 à usage public.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+85-32 à 85-38
+
+
+DESIGNATION DES PRODUITS
+
+Tous produits de ces positions.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+85-41-40
+
+
+DESIGNATION DES PRODUITS
+
+Dispositifs photosensibles à semi-conducteur, y compris les cellules
+photovoltaïques même assemblées en modules ou constituées en panneaux ; diodes
+émettrices de lumière.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+85-44 à 85-48
+
+
+DESIGNATION DES PRODUITS
+
+Tous produits de ces positions.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+
+Chapitre 86
+
+DESIGNATION DES PRODUITS
+
+Tous les produits repris aux positions de ce chapitre.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+87-01 à 87-02
+
+
+DESIGNATION DES PRODUITS
+
+Tous les produits de ces positions.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+87-04 à 87-05
+
+
+DESIGNATION DES PRODUITS
+
+Tous les produits de ces positions.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+
+Ex 87-06
+
+DESIGNATION DES PRODUITS
+
+Châssis des véhicules automobiles des n°s 87-01, 87-02, 87-04, 87-05.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+
+Ex 87-07
+
+DESIGNATION DES PRODUITS
+
+Carrosseries des véhicules automobiles des n°s 87-01, 87-02, 87-04, 87-05 y
+compris les cabines.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+
+Ex 87-16
+
+DESIGNATION DES PRODUITS
+
+Remorques pour le transport de marchandises.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+88-02
+
+
+DESIGNATION DES PRODUITS
+
+Autre véhicules aériens ; véhicules spatiaux et leurs véhicules lanceurs.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+
+Ex 88-03
+
+DESIGNATION DES PRODUITS
+
+Parties des appareils du n° 88-02.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+89-07
+
+
+DESIGNATION DES PRODUITS
+
+Autres engins flottants.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+90-14 à 90-15
+
+
+DESIGNATION DES PRODUITS
+
+Tous les produits de ces positions.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+
+Ex 90-16
+
+DESIGNATION DES PRODUITS
+
+Balances sensibles à un poids de 5 cg ou moins avec ou sans poids électriques ou
+électroniques.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+90-24
+
+
+DESIGNATION DES PRODUITS
+
+Tous produits de cette position.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+
+Ex 90-25
+
+DESIGNATION DES PRODUITS
+
+Densimètres, aéromètres, pèse-liquides et instruments flottants similaires,
+thermomètres, pyromètres, baromètres, hygromètres et psychromètres,
+enregistreurs ou non, mêmes combinés entre eux, électriques ou électroniques.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+90-26
+
+
+DESIGNATION DES PRODUITS
+
+Tous les produits de cette position.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+90-28
+
+
+DESIGNATION DES PRODUITS
+
+Compteurs de gaz, de liquides ou d'électricité, y compris les compteurs pour
+leur étalonnage.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+
+Ex 90-29 à 90-31
+
+DESIGNATION DES PRODUITS
+
+Tous produits de ces positions électriques ou électroniques.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+90-32
+
+
+DESIGNATION DES PRODUITS
+
+Instruments et appareils pour la régulation ou le contrôle automatiques.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+
+Ex 94-01-80
+
+DESIGNATION DES PRODUITS
+
+Autres sièges en pierre.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+
+Ex 94-03-80
+
+DESIGNATION DES PRODUITS
+
+Meubles en pierre.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+
+Ex 94-05
+
+DESIGNATION DES PRODUITS
+
+Appareils d'éclairage (y compris les projecteurs) et leurs parties, non dénommés
+ni compris ailleurs (éléments fixes uniquement destinés à la construction).
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+94-06
+
+
+DESIGNATION DES PRODUITS
+
+Constructions préfabriquées.
+
+II. La liste des produits cités au I est complétée par le pain (ex 19-05) et le
 riz (10-06).
