@@ -1,9 +1,9 @@
 Article 50 sexies B
 ----
-Toute entrée dans les établissements de spectacles visés à l'article 290 quater
-du code général des impôts doit être constatée par la remise d'un billet extrait
-d'un carnet à souches ou d'un distributeur automatique délivré avant l'entrée
-dans la salle de spectacles.
+Toute entrée dans les établissements de spectacles visés à l'article 290
+quater-I du code général des impôts doit être constatée par la remise d'un
+billet extrait d'un carnet à souches ou d'un distributeur automatique délivré
+avant l'entrée dans la salle de spectacles.
 
 Ce billet comporte deux parties dont l'une reste entre les mains du spectateur
 et l'autre est retenue au contrôle. Chacune de ces parties ainsi que la souche
@@ -20,7 +20,6 @@ Les billets pris en abonnement ou en location doivent être tirés de carnets ou
 rouleaux spéciaux; ils comportent les mentions prévues ci-dessus et en outre
 l'indication de la séance pour laquelle ils sont valables.
 
-Les billets d'entrée dans les salles de spectacles cinématographiques doivent
-porter en plus la marque du centre national de la cinématographie; ils sont
-fournis aux exploitants et utilisés par eux dans les conditions fixées par la
-réglementation de l'industrie cinématographique.
+Les obligations concernant les mentions à porter sur les billets d'entrée dans
+les salles de spectacles cinématographiques, la fourniture et l'utilisation de
+ces billets sont fixées par la réglementation de l'industrie cinématographiques.
