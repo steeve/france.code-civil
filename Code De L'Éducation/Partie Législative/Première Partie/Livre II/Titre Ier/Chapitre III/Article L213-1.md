@@ -9,3 +9,6 @@ code.
 
 A ce titre, le conseil général définit la localisation des établissements, leur
 capacité d'accueil et le mode d'hébergement des élèves.
+
+Les dispositions de l'article L. 214-4 sont applicables au département pour les
+collèges.

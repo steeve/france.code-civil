@@ -18,7 +18,9 @@ l'article L. 952-6 sont, sur leur demande, maintenus en activité, en surnombre,
 jusqu'au 31 août suivant la date à laquelle ils atteignent l'âge de
 soixante-huit ans.
 
-Les professeurs de l'enseignement supérieur et les autres personnels enseignants
-qui relèvent du ministre chargé de l'enseignement supérieur restent en fonctions
-jusqu'au 31 août quand ils atteignent la limite d'âge en cours d'année
-universitaire, si les besoins du service d'enseignement le justifient.
+Les professeurs de l'enseignement supérieur, les directeurs de recherche des
+établissements publics à caractère scientifique et technologique et les autres
+personnels enseignants qui relèvent du ministre chargé de l'enseignement
+supérieur restent en fonctions jusqu'au 31 août quand ils atteignent la limite
+d'âge en cours d'année universitaire, si les besoins du service d'enseignement
+le justifient.

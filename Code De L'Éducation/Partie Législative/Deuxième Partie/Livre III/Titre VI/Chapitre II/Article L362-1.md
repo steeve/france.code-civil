@@ -19,8 +19,8 @@ territoriales, et pour moitié de professionnels désignés par leurs organisati
 représentatives, de personnalités qualifiées et de représentants des usagers.
 
 Les artistes chorégraphiques justifiant d'une activité professionnelle d'au
-moins trois ans au sein du ballet de l'Opéra de Paris, des ballets des théâtres
-de la réunion des théâtres lyriques municipaux de France ou des centres
+moins trois ans au sein du ballet de l'Opéra national de Paris, des ballets des
+théâtres de la réunion des théâtres lyriques municipaux de France ou des centres
 chorégraphiques nationaux et qui ont suivi une formation pédagogique bénéficient
 de plein droit du diplôme visé ci-dessus.
 

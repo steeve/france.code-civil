@@ -33,9 +33,9 @@ quinze jours après ces transmissions.
 Pour ces actes, dans le délai prévu à l'alinéa précédent, et sans préjudice des
 dispositions prévues par le code général des collectivités territoriales pour le
 contrôle de légalité du représentant de l'Etat, la collectivité de rattachement
-ou l'autorité académique peut assortir son recours d'une demande de sursis à
-l'exécution soumise aux dispositions du troisième alinéa de l'article L. 2131-6
-du code général des collectivités territoriales.
+ou l'autorité académique peut assortir son recours d'une demande de suspension
+soumise aux dispositions du troisième alinéa de l'article L. 2131-6 du code
+général des collectivités territoriales.
 
 Les actes, autres que ceux qui sont mentionnés aux deux alinéas ci-dessus,
 relatifs au contenu ou à l'organisation de l'action éducatrice, sont exécutoires
