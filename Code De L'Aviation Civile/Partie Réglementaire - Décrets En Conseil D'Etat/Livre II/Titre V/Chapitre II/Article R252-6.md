@@ -1,7 +1,6 @@
 Article R252-6
 ----
-Les membres du conseil d'administration sont nommés ou élus pour cinq ans. Ils
-ne peuvent exercer plus de trois mandats consécutifs.
+Les membres du conseil d'administration sont nommés ou élus pour cinq ans.
 
 Le nombre des membres du conseil d'administration qui ont dépassé l'âge de
 soixante-cinq ans ne peut être supérieur à six. Lorsque cette limite est
