@@ -14,8 +14,5 @@ un caractère agricole.
 
 En outre, un abattement de 30 % est appliqué au montant des recettes provenant
 d'élevages pour lesquels le pourcentage moyen du bénéfice brut par rapport aux
-recettes est inférieur à 20 %. Un arrêté du ministre de l'économie et des
-finances fixe la liste des élevages qui peuvent bénéficier de cette disposition
-(1).
-
-(1) Annexe IV, art. 4 M.
+recettes est inférieur à 20 %. Un arrêté du ministre chargé du budget fixe la
+liste des élevages qui peuvent bénéficier de cette disposition (1).

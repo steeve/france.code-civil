@@ -1,6 +1,6 @@
 Article 38 sexdecies-0 K
 ----
-Les exploitants imposés d'après un régime de bénéfice réel peuvent inscrire au
+Les exploitants imposés d'après un régime réel d'imposition peuvent inscrire au
 bilan d'ouverture du premier exercice soumis à l'un de ces régimes une somme
 correspondant à la valeur, à la date du changement de régime, des améliorations
 du fonds représentant le résultat des pratiques culturales, lorsque les

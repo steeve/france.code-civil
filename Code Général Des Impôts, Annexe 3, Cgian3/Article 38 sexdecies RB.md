@@ -1,9 +1,8 @@
 Article 38 sexdecies RB
 ----
-Les exploitants placés sous le régime simplifié d'imposition d'après le bénéfice
-réel doivent établir ou produire les documents et déclarations mentionnés aux
-articles 38 sexdecies P et 38 sexdecies Q, selon les modalités particulières
-ci-après :
+Les exploitants placés sous le régime simplifié d'imposition doivent établir ou
+produire les documents et déclarations mentionnés aux articles 38 sexdecies P et
+38 sexdecies Q, selon les modalités particulières ci-après :
 
 a. Le livre journal enregistre le détail des recettes et des dépenses ;
 

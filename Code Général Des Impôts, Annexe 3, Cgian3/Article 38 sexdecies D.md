@@ -3,21 +3,12 @@ Article 38 sexdecies D
 I. Les immeubles bâtis ou non bâtis appartenant à l'exploitant et utilisés pour
 les besoins de l'exploitation sont obligatoirement inscrits à l'actif du bilan.
 
-Toutefois, le redevable peut demander de conserver les terres dans son
-patrimoine privé, à la condition de faire connaître son choix au plus tard lors
-de la déclaration des résultats du troisième exercice au titre duquel il est
-imposé d'après un régime de bénéfice réel.
-
-L'option ainsi exercée s'applique à la totalité des terres dont l'exploitant est
-propriétaire, ou qu'il acquiert pendant la durée de l'option. Elle est valable
-quinze exercices et renouvelable tacitement au terme de chaque période de quinze
-exercices.
-
-L'exploitant peut renoncer à l'option pour l'ensemble des terres qu'il acquiert
-à titre onéreux pendant le délai restant à courir jusqu'à l'expiration de cette
-période. Cette renonciation doit être formulée lors de la déclaration de
-résultat de l'exercice au cours duquel est intervenue la première acquisition à
-titre onéreux à compter du 1er janvier 1987.
+Toutefois, l'exploitant peut demander de conserver les terres dans son
+patrimoine privé. Cette option s'applique à la totalité des terres dont
+l'exploitant est propriétaire ou qu'il acquiert pendant la durée de l'exercice.
+Elle est reconduite tacitement pour l'exercice suivant, sauf renonciation
+expresse de l'exploitant. L'option ou la renonciation à cette option doit être
+jointe à la déclaration des résultats de l'exercice auquel elle s'applique.
 
 La maison d'habitation dont l'exploitant est propriétaire peut être inscrite à
 l'actif sous réserve qu'elle fasse partie de l'exploitation et qu'elle ne

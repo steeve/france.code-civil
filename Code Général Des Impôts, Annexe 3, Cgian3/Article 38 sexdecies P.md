@@ -1,7 +1,7 @@
 Article 38 sexdecies P
 ----
-I. Les exploitants placés sous un régime d'imposition d'après le bénéfice réel
-doivent tenir et présenter aux agents de l'administration :
+I. Les exploitants placés sous un régime réel d'imposition doivent tenir et
+présenter aux agents de l'administration :
 
 a. Un livre-journal servi au jour le jour et enregistrant le détail de leurs
 opérations ;
