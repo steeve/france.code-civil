@@ -79,6 +79,9 @@ scellées ;
 
 10. Traitement de l'insuffisance rénale chronique ;
 
-11. Activités de procréation médicalement assistée et diagnostic prénatal ;
+11. Activités cliniques d'assistance médicale à la procréation, activités
+biologiques d'assistance médicale à la procréation, activités de recueil,
+traitement, conservation de gamètes et cession de gamètes issus de don,
+activités de diagnostic prénatal.
 
 12. Réadaptation fonctionnelle.
