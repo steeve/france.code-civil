@@ -3,7 +3,8 @@ Article 832
 I. - Pour l'application dans les territoires de la Nouvelle-Calédonie et de la
 Polynésie française du deuxième alinéa de l'article 262 fixant la composition de
 la commission prévue à cet article, les conseillers généraux sont remplacés par
-cinq membres de l'assemblée territoriale désignés chaque année par celle-ci.
+cinq membres désignés chaque année en son sein par le Congrès ou l'assemblée de
+la Polynésie française.
 
 II. - Dans le territoire des îles Wallis-et-Futuna, la commission prévue à
 l'article 262 comprend :

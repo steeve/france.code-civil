@@ -6,4 +6,5 @@ police judiciaire appartenant à la gendarmerie.
 
 Pour l'application du deuxième alinéa de l'article 46, les fonctions du
 ministère public peuvent être également exercées par le chef de la
-circonscription administrative où siège le tribunal de police.
+circonscription ou de la subdivision administrative où siège le tribunal de
+police.
