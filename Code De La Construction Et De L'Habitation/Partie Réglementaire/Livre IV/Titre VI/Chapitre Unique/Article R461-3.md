@@ -1,16 +1,13 @@
 Article R461-3
 ----
-Les membres du conseil supérieur des habitations à loyer modéré sont nommés pour
-trois ans [*mandat, durée*] ; leurs pouvoirs sont renouvelables. Les membres de
-droit peuvent se faire représenter.
+Le conseil supérieur délibère valablement dès lors que la moitié de ses membres
+sont présents ou représentés.
 
-Les membres du conseil supérieur des habitations à loyer modéré qui perdent la
-qualité en raison de laquelle ils ont été désignés ou nommés sont remplacés
-immédiatement.
+Les avis du conseil supérieur sont rendus à la majorité des membres présents ou
+représentés.
 
-Un arrêté du ministre chargé de la construction et de l'habitation fixe les
-conditions dans lesquelles les représentants des [*comités départementaux des
-habitations à loyer modéré*] conseils départementaux de l'habitat, des offices
-publics, sociétés anonymes, fondations, sociétés coopératives d'habitations à
-loyer modéré et des sociétés de crédit immobilier sont désignés par ces
-organismes.
+Le secrétariat du conseil est assuré par la direction générale de l'urbanisme,
+de l'habitat et de la construction. Le secrétariat adresse aux membres du
+conseil les convocations aux réunions huit jours au moins avant la date de
+celles-ci, sauf urgence. Il établit le compte rendu des débats, qui est annexé
+aux avis.

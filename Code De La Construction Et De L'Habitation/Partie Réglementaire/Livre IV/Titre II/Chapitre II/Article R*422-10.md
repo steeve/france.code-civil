@@ -5,9 +5,8 @@ de la région où est situé leur siège social.
 
 Le ministre chargé du logement peut, sur proposition de la chambre syndicale des
 sociétés anonymes de crédit immobilier et après avis du Conseil supérieur des
-habitations à loyer modéré (comité permanent), agréer spécialement les sociétés
-pour leur permettre d'étendre leur activité à tout ou partie des régions
-limitrophes.
+habitations à loyer modéré, agréer spécialement les sociétés pour leur permettre
+d'étendre leur activité à tout ou partie des régions limitrophes.
 
 En outre, le ministre chargé du logement peut, pour une opération déterminée,
 sur proposition de la chambre syndicale des sociétés anonymes de crédit

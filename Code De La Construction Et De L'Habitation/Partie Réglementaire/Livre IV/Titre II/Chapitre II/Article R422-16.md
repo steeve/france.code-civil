@@ -2,8 +2,8 @@ Article R422-16
 ----
 Conformément à l'article L. 422-5, les sociétés d'habitations à loyer modéré
 doivent être agréées par le ministre chargé de la construction et de
-l'habitation après avis du [*comité départemental*] conseil départemental de
-l'habitat et du conseil supérieur des habitations à loyer modéré.
+l'habitation après avis du conseil départemental de l'habitat et du conseil
+supérieur des habitations à loyer modéré.
 
 La compétence géographique des sociétés anonymes d'habitations à loyer modéré
 dont le capital est détenu en totalité par un ou plusieurs organismes
@@ -13,7 +13,7 @@ fonctions d'administrateur est, par dérogation aux dispositions de l'article R.
 422-3, définie lors de la délivrance de l'agrément visé au présent article.
 
 Le décret en Conseil d'Etat approuvant les clauses types est pris après avis du
-Conseil supérieur des habitations à loyer modéré (comité permanent).
+Conseil supérieur des habitations à loyer modéré.
 
 Les conditions dans lesquelles sont approuvés les emprunts contractés par
 lesdites sociétés sont fixées par arrêté conjoint du ministre chargé des

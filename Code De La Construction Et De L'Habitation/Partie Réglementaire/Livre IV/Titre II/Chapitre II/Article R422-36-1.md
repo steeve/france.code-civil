@@ -26,9 +26,9 @@ commissaire aux comptes ;
 le cas échéant, le rapport du commissaire à la fusion et le traité d'apport.
 
 Le ministre chargé du logement, après instruction du dossier, et après avis du
-Conseil supérieur des habitations à loyer modéré (comité permanent), saisit de
-Conseil supérieur de la coopération en vue d'obtenir l'avis prévu au deuxième
-alinéa de l'article 25 de la loi du 10 septembre 1947 modifiée.
+Conseil supérieur des habitations à loyer modéré, saisit de Conseil supérieur de
+la coopération en vue d'obtenir l'avis prévu au deuxième alinéa de l'article 25
+de la loi du 10 septembre 1947 modifiée.
 
 Le conseil dispose alors d'un délai d'un mois pour se prononcer. L'avis est
 transmis au ministre chargé du logement et au ministre chargé de l'économie
