@@ -4,10 +4,10 @@ I. - Les dispositions du I de l'article 199 nonies et du I de l'article 199
 decies sont prorogées jusqu'au 31 décembre 1997 dans les conditions suivantes.
 
 Pour les acquisitions, constructions et souscriptions réalisées à compter du 1er
-janvier 1990, la limite de 200 000 F est portée à 300 000 F et celle de 400 000
-F est portée à 600 000 F. Le taux est porté à 10 p. 100. La durée de
-l'engagement de location du logement ou de conservation des titres par le
-contribuable est réduite à six années. Toutefois, la réduction d'impôt est
+janvier 1990, la limite de 200 000 F (1) est portée à 300 000 F (1) et celle de
+400 000 F (1) est portée à 600 000 F (1). Le taux est porté à 10 p. 100. La
+durée de l'engagement de location du logement ou de conservation des titres par
+le contribuable est réduite à six années. Toutefois, la réduction d'impôt est
 répartie sur deux années. Elle est appliquée à la première année à raison de la
 moitié des limites précitées, à la seconde année, à raison du solde.
 
@@ -40,9 +40,17 @@ Le produit des souscriptions réalisées à compter du 18 septembre 1991 doit ê
 exclusivement destiné à financer la construction ou l'acquisition d'immeubles
 locatifs neufs situés en France et affectés pour 90 p. 100 au moins de leur
 superficie à usage d'habitation. La réduction d'impôt est calculée sur le
-montant de la souscription dans les limites mentionnées au deuxième alinéa. "
+montant de la souscription dans les limites mentionnées au deuxième alinéa.
 
 II. - Les contribuables ne peuvent bénéficier, au titre d'une même année, à la
 fois de la réduction d'impôt mentionnée au quatrième alinéa du I de l'article
 199 nonies et de celle qui est prévue au I. Ils ont le choix de l'une d'entre
 elles.
+
+III. - La location du logement consentie dans des conditions fixées par décret à
+un organisme public ou privé pour le logement à usage d'habitation principale de
+son personnel, à l'exclusion du propriétaire du logement, de son conjoint, de
+membres de son foyer fiscal ou de ses descendants et ascendants, ne fait pas
+obstacle au bénéfice de la réduction d'impôt prévue au I.
+
+(1) Montant périmé au 1er janvier 2002.

@@ -9,10 +9,8 @@ des ordures, déchets et résidus ;
 
 b) La taxe de balayage ;
 
-c) La taxe de séjour, lorsqu'elle répond aux conditions fixées à l'article L.
-233-45 du code des communes ; dans ce cas, les communautés de villes peuvent
-instituer la taxe par délibération du conseil de communauté statuant à la
-majorité des deux tiers ;
+c) ((La taxe de séjour, lorsqu'elle répond aux conditions fixées à l'article L.
+233-45 du code des communes)) (M) ; d) La taxe sur la publicité mentionnée à
+l'article L. 233-15 du code des communes.
 
-d) La taxe sur la publicité mentionnée à l'article L. 233-15 du code des
-communes.
+(M) Modification de la loi 95-885.
