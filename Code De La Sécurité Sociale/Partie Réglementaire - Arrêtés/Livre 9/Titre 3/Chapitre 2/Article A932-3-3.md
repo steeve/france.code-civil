@@ -1,25 +1,8 @@
 Article A932-3-3
 ----
-1° Le taux minimum visé à l'article A. 932-3-2 peut être fixé annuellement pour
-l'année suivante. Il ne peut alors excéder 85 % de la moyenne des taux de
-rendement des actifs de l'institution ou de l'union calculés pour les deux
-derniers exercices ;
-
-2° Ce taux minimum garanti peut également varier annuellement en fonction d'une
-référence fournie par un marché réglementé et en fonctionnement régulier de
-valeurs mobilières ou de titres admis en représentation des engagements
-réglementés des institutions ou unions. Pour les opérations libellées en francs
-français, la référence peut également être fournie par le taux des premiers
-livrets de caisse d'épargne français. La garantie de ce minimum n'est donnée que
-pour une période maximale de huit ans. Les opérations assorties d'une telle
-garantie de taux ne peuvent être proposées que si la moyenne des taux de
-rendement des actifs de l'institution ou de l'union calculés pour les deux
-derniers exercices est au moins égale aux quatre tiers du taux minimum que
-celle-ci propose de garantir la première année ;
-
-3° Les dispositions des alinéas précédents peuvent être appliquées séparément ou
-conjointement ;
-
-4° Le taux de rendement des actifs ne tient pas compte du rendement des actifs
-afférents aux opérations à capital variable et aux opérations relevant de
-l'article L. 932-24.
+Les institutions de prévoyance et leurs unions pratiquant les opérations
+relevant du a de l'article L. 931-1 peuvent, dans les conditions fixées à
+l'article A. 931-10-11, garantir dans leurs règlements ou leurs contrats un
+montant total d'intérêts techniques et de participations aux excédents qui,
+rapporté aux provisions mathématiques, ne sera pas inférieur à un taux minimum
+garanti.
