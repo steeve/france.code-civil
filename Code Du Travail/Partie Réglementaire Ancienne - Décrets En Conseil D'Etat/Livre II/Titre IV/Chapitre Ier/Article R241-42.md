@@ -11,7 +11,9 @@ Il est consulté sur les projets :
 
 De construction ou aménagements nouveaux ;
 
-De modifications apportées aux équipements.
+De modifications apportées aux équipements ;
+
+De mise en place ou de modification de l'organisation du travail de nuit.
 
 Afin d'éviter toute altération de la santé des salariés du fait de leur travail
 il est informé :
