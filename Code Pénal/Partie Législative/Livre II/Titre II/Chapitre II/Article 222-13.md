@@ -13,15 +13,15 @@ grossesse, est apparente ou connue de leur auteur.
 3° Sur un ascendant légitime ou naturel ou sur les père ou mère adoptifs ;
 
 4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un
-militaire de la gendarmerie nationale, un fonctionnaire de la police nationale,
-des douanes, de l'administration pénitentiaire ou toute autre personne
-dépositaire de l'autorité publique, un sapeur-pompier professionnel ou
-volontaire, un gardien assermenté d'immeubles ou de groupes d'immeubles ou un
-agent exerçant pour le compte d'un bailleur des fonctions de gardiennage ou de
-surveillance des immeubles à usage d'habitation en application de l'article L.
-127-1 du code de la construction et de l'habitation, dans l'exercice ou du fait
-de ses fonctions, lorsque la qualité de la victime est apparente ou connue de
-l'auteur ;
+membre ou un agent de la Cour pénale internationale, un militaire de la
+gendarmerie nationale, un fonctionnaire de la police nationale, des douanes, de
+l'administration pénitentiaire ou toute autre personne dépositaire de l'autorité
+publique, un sapeur-pompier professionnel ou volontaire, un gardien assermenté
+d'immeubles ou de groupes d'immeubles ou un agent exerçant pour le compte d'un
+bailleur des fonctions de gardiennage ou de surveillance des immeubles à usage
+d'habitation en application de l'article L. 127-1 du code de la construction et
+de l'habitation, dans l'exercice ou du fait de ses fonctions, lorsque la qualité
+de la victime est apparente ou connue de l'auteur ;
 
 4° bis Sur un enseignant ou tout membre des personnels travaillant dans les
 établissements d'enseignement scolaire, sur un agent d'un exploitant de réseau
@@ -37,7 +37,8 @@ mentionnées aux 4° et 4° bis, en raison des fonctions exercées par ces derni
 
 5° Sur un témoin, une victime ou une partie civile, soit pour l'empêcher de
 dénoncer les faits, de porter plainte ou de déposer en justice, soit en raison
-de sa dénonciation, de sa plainte ou de sa déposition ;
+de sa dénonciation ou de sa plainte, soit à cause de sa déposition devant une
+juridiction nationale ou devant la Cour pénale internationale ;
 
 5° bis A raison de l'appartenance ou de la non-appartenance, vraie ou supposée,
 de la victime à une ethnie, une nation, une race ou une religion déterminée ;
