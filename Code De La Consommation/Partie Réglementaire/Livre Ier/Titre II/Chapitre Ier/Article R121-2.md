@@ -1,11 +1,10 @@
 Article R121-2
 ----
-Sera puni des peines d'amende prévues pour les contraventions de la cinquième
-classe le professionnel qui, dans toute offre de vente d'un bien ou de
-fourniture d'une prestation de services faite à distance à un consommateur,
-omettra d'indiquer le nom de son entreprise, son numéro de téléphone, l'adresse
-de son siège et, si elle est différente, l'adresse de l'établissement
-responsable de l'offre.
+I. - En cas de récidive des infractions prévues aux articles R. 121-1, R.
+121-1-1 et R. 121-1-2, la peine d'amende prévue pour la récidive des
+contraventions de la cinquième classe est applicable.
 
-En cas de récidive, les peines d'amende prévues pour la récidive des
-contraventions de la cinquième classe sont applicables.
+II. - Les personnes morales peuvent être déclarées responsables des infractions
+définies par les articles R. 121-1, R. 121-1-1 et R. 121-1-2 dans les conditions
+prévues à l'article 121-2 du code pénal ; elles encourent la peine d'amende
+selon les modalités prévues à l'article 131-41 du même code.
