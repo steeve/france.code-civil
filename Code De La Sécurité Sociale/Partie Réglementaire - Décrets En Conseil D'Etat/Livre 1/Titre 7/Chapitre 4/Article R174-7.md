@@ -1,9 +1,10 @@
 Article R174-7
 ----
-Lorsque la maison de retraite, le logement-foyer ou l'hospice est soumis au
-régime du prix de journée fixé par le président du conseil général, le forfait
-global de soins supporté par les régimes d'assurance maladie est arrêté par le
-commissaire de la République, après avis du président du conseil général dans
-les conditions prévues à la sous-section III de la section I du titre V du
-décret n° 58-1202 du 11 décembre 1958 ou au titre III du décret n° 61-9 du 3
-janvier 1961.
+La dotation globale annuelle de financement est versée par douzième au
+gestionnaire du centre spécialisé de soins aux toxicomanes par la caisse
+primaire d'assurance maladie territorialement compétente pour le compte de
+l'ensemble des régimes d'assurance maladie dont les ressortissants sont
+accueillis dans le centre. Toutefois, dans les centres spécialisés de soins aux
+toxicomanes gérés par un établissement mentionné à l'article L. 174-1, cette
+dotation peut être versée par une autre caisse en cas de convention prévue à
+l'article L. 174-2.
