@@ -5,11 +5,7 @@ salarial doivent déclarer annuellement, pour chaque salarié, la nature et la
 valeur des opérations inscrites au compte ouvert à son nom dans le fonds, en
 distinguant :
 
-1° Les versements effectués dans l'année susceptible d'ouvrir droit à la
-réduction d'impôt prévue à l'article 199 octies A du code général des impôts
-soit au titre de l'année de ces versements, soit, pour les fonds obligatoires,
-au titre de l'année au cours de laquelle le salarié recouvre la disposition des
-sommes versées ;
+1° (périmé).
 
 2° Les retraits opérés par le salariés, au cours de l'année, ventilés selon
 l'origine des sommes déposées ;
