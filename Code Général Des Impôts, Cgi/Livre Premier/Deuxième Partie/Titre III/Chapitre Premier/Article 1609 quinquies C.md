@@ -44,19 +44,18 @@ percevoir une taxe professionnelle de zone.
 
 1° Le taux de taxe professionnelle voté par la communauté de communes en
 application de cette disposition ne peut, la première année, excéder le taux
-moyen de taxe professionnelle constaté l'année de la décision mentionnée à
-l'alinéa précédent dans les communes membres, pondéré par l'importance relative
-des bases de taxe professionnelle de ces communes.
+moyen de taxe professionnelle constaté l'année de la décision mentionnée au
+premier alinéa dans les communes membres, pondéré par l'importance relative des
+bases de taxe professionnelle de ces communes.
 
 Le taux moyen pondéré mentionné ci-dessus est majoré du taux de la taxe
-professionnelle perçue l'année de la décision mentionnée au premier alinéa du
-présent paragraphe.
+professionnelle perçue l'année de la décision mentionnée au premier alinéa.
 
 Des taux d'imposition différents du taux communautaire fixé en application des
-alinéas ci-dessus peuvent être appliqués pour l'établissement des douze premiers
-budgets de la communauté. Les écarts entre les taux applicables dans chaque
-commune membre et le taux communautaire sont réduits dans les conditions prévues
-au 1° du III de l'article 1609 nonies C.
+deuxième et troisième alinéas peuvent être appliqués pour l'établissement des
+douze premiers budgets de la communauté. Les écarts entre les taux applicables
+dans chaque commune membre et le taux communautaire sont réduits dans les
+conditions prévues au 1° du III de l'article 1609 nonies C.
 
 2° Pour les années suivantes, le taux est fixé par le conseil de la communauté
 de communes dans les conditions prévues au II de l'article 1636 B decies.
@@ -66,11 +65,11 @@ d'activités économiques, les dispositions du III de l'article 1638 quater sont
 applicables.
 
 3° Les établissements publics de coopération intercommunale soumis aux
-dispositions du présent paragraphe bénéficient de la compensation prévue au IV
-bis de l'article 6 de la loi de finances pour 1987 (n° 86-1317 du 30 décembre
-1986), au lieu et place de leurs communes membres pour les pertes de bases de
-taxe professionnelle résultant, dans la zone d'activités économiques, de
-l'application du dernier alinéa du II de l'article 1478.
+dispositions du présent II bénéficient de la compensation prévue au IV bis de
+l'article 6 de la loi de finances pour 1987 (n° 86-1317 du 30 décembre 1986), au
+lieu et place de leurs communes membres pour les pertes de bases de taxe
+professionnelle résultant, dans la zone d'activités économiques, de
+l'application du troisième alinéa du II de l'article 1478.
 
 Pour le calcul de cette compensation :
 
@@ -78,23 +77,22 @@ a. Le taux de taxe professionnelle à retenir est le taux moyen pondéré de tax
 professionnelle constaté en 1986 dans l'ensemble des communes membres de
 l'établissement public de coopération intercommunale ; ce taux est, le cas
 échéant, majoré du taux voté en 1986 par l'établissement public de coopération
-intercommunale qui a opté pour le régime fiscal prévu au présent paragraphe ou
-dont la communauté de communes est issue ; ces taux sont multipliés par 0,960 ;
+intercommunale qui a opté pour le régime fiscal prévu au présent II ou dont la
+communauté de communes est issue ; ces taux sont multipliés par 0,960 ;
 
 b. Les recettes fiscales à retenir la première année d'application des
-dispositions du présent paragraphe pour le calcul de la réfaction de 2 % prévue
-au IV bis de l'article 6 précité s'entendent du montant de la taxe
-professionnelle perçu par les communes membres, l'année précédente, dans la zone
-d'activités économiques ; ce montant est, le cas échéant, majoré des recettes
-fiscales perçues, la même année, par l'établissement public de coopération
-intercommunale qui a opté pour le régime fiscal prévu au présent II ou dont la
-communauté de communes est issue.
+dispositions du présent II pour le calcul de la réfaction de 2 % prévue au IV
+bis de l'article 6 précité s'entendent du montant de la taxe professionnelle
+perçu par les communes membres, l'année précédente, dans la zone d'activités
+économiques ; ce montant est, le cas échéant, majoré des recettes fiscales
+perçues, la même année, par l'établissement public de coopération intercommunale
+qui a opté pour le régime fiscal prévu au présent II ou dont la communauté de
+communes est issue.
 
 4° La perception de la taxe professionnelle selon les dispositions prévues
-ci-dessus est applicable aux districts ayant opté pour les dispositions prévues
-à l'article 1609 quinquies B et qui se transforment en communautés de communes
-dans les conditions prévues au II de l'article 51 de la loi n° 99-586 du 12
-juillet 1999 précitée.
+ci-dessus est applicable aux communautés de communes issues, dans les conditions
+prévues au II de l'article 51 de la loi n° 99-586 du 12 juillet 1999 précitée,
+de districts ayant opté pour les dispositions prévues au II.
 
 L'établissement public de coopération intercommunale peut verser à la ou les
 communes dont la ou les zones d'activités économiques sont transférées au
@@ -115,11 +113,11 @@ l'article 1609 nonies C.
 
 Toutefois, la perception de la taxe professionnelle selon les dispositions
 prévues à l'article 1609 nonies C est applicable de plein droit aux communautés
-de villes qui se transforment en communautés de communes dans les conditions
-prévues par l'article 56 de la loi n° 99-586 du 12 juillet 1999 précitée ainsi
-qu'aux districts faisant application des dispositions prévues à l'article 1609
-quinquies A et qui se transforment en communautés de communes dans les
-conditions prévues au II de l'article 51 de la même loi.
+de communes issues de communautés de villes dans les conditions prévues par
+l'article 56 de la loi n° 99-586 du 12 juillet 1999 précitée ainsi qu'aux
+communautés de communes issues, dans les conditions prévues au II de l'article
+51 de la même loi, de districts faisant application des dispositions prévues au
+I de l'article 1609 nonies C.
 
 Les dispositions de l'article 1609 nonies C sont applicables de plein droit à
 compter du 1er janvier 2002 aux communautés de communes dont le nombre
