@@ -1,7 +1,8 @@
 Article D232-6
 ----
-La mise en service des aérodromes à usage restreint est autorisée par arrêté du
-ministre chargé de l'aviation civile après enquête technique. Cet arrêté, dit
+La mise en service des aérodromes à usage restreint est autorisée, après enquête
+technique, par le ministre chargé de l'aviation civile, en accord avec le
+ministre de la défense lorsqu'il est affectataire principal. Cet arrêté, dit
 arrêté d'agrément, est publié au Journal officiel.
 
 En cas d'urgence, le ministre chargé de l'aviation civile peut décider une mise

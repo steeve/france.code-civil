@@ -19,5 +19,6 @@ d) Les opérations de travail aérien ;
 
 e) Les vols de tourisme ;
 
-f) Exceptionnellement, certains transports aériens commerciaux, dans des cas qui
-seront fixés par décision du ministre chargé de l'aviation civile.
+f) Exceptionnellement des transports aériens commerciaux dans les conditions
+fixées par l'arrêté de création mentionné à l'article D. 231-1 ou l'arrêté
+d'agrément mentionné à l'article D. 232-6.
