@@ -1,10 +1,8 @@
 Article D464
 ----
-Le travailleur social s'entretient avec les entrants dès que possible. A cet
-effet, il est systématiquement avisé de l'identité et de la situation pénale de
-tout détenu venant d'être écroué.
+Pendant toute la durée de leur incarcération, les détenus peuvent être reçus par
+un travailleur social du service pénitentiaire d'insertion et de probation soit
+à la suite de leur demande, soit sur convocation.
 
-En vue de prendre toutes mesures utiles relevant de sa compétence, le
-travailleur social examine la situation personnelle, sociale et administrative
-de l'intéressé ainsi que les conséquences de l'incarcération sur les conditions
-de vie de sa famille.
+Le travailleur social apprécie l'opportunité de recevoir un détenu ou
+d'effectuer les démarches qu'il sollicite.

@@ -6,6 +6,6 @@ gratuitement à la disposition des détenus.
 Sa localisation doit permettre un accès direct et régulier des détenus à
 l'ensemble des documents.
 
-Un bibliothécaire ou, à défaut, le service socio-éducatif assure les achats,
-organise la formation et encadre les détenus qui en assurent la gestion
-quotidienne.
+Un bibliothécaire ou, à défaut, le service pénitentiaire d'insertion et de
+probation assure les achats, organise la formation et encadre les détenus qui en
+assurent la gestion quotidienne.

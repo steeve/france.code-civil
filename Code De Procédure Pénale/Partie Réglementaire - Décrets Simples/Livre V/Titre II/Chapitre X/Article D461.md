@@ -1,10 +1,14 @@
 Article D461
 ----
-Le service socio-éducatif a pour mission de participer à la prévention des
-effets désocialisants de l'emprisonnement sur les détenus, de favoriser le
-maintien de leurs liens sociaux et familiaux et de les aider à préparer leur
-réinsertion sociale.
+Le service pénitentiaire d'insertion et de probation est chargé de rechercher
+les moyens propres à favoriser l'individualisation de la situation pénale des
+détenus, notamment dans le cadre des orientations données par le juge de
+l'application des peines.
 
-Les travailleurs sociaux assurent les liaisons avec les divers services sociaux,
-éducatifs, médico-sociaux locaux et prennent tous contacts qu'ils jugent
-nécessaires pour la réinsertion des détenus.
+Chaque fois que la demande leur en est faite ou à leur initiative, les
+travailleurs sociaux du service pénitentiaire d'insertion et de probation
+fournissent à l'autorité judiciaire et aux services de l'administration
+pénitentiaire les éléments permettant de mieux individualiser l'exécution de la
+mesure privative de liberté de chaque détenu ; ils élaborent notamment des avis
+ou rapports sur les détenus provisoires ou ceux dont la situation pénale est
+examinée en commission de l'application des peines.

@@ -1,19 +1,9 @@
 Article D583
 ----
-Dans le cadre des directives prévues par l'article D. 573, le directeur de
-probation est chargé :
+A titre exceptionnel, il peut être fait appel à des personnes bénévoles, agréées
+par le directeur du service après avis du juge de l'application des peines, dans
+des conditions fixées par arrêté du ministre de la justice.
 
-1° D'organiser et de gérer le comité de probation ;
-
-2° D'animer son action dans les conditions prévues par l'article D. 584 ;
-
-3° D'assurer toutes liaisons utiles avec les organismes publics ou privés qui
-participent à l'action du comité de probation ;
-
-4° De passer les actes nécessaires au fonctionnement du service.
-
-Pour l'exécution de chaque mesure confiée au comité de probation, il désigne, en
-fonction de l'organisation du service, un agent de probation.
-
-Dans le cas où un ou plusieurs chefs de service de probation sont affectés au
-comité, le directeur de probation détermine les attributions qu'il leur délègue.
+Le directeur du service peut retirer ou suspendre son agrément soit d'office,
+soit à la demande du juge de l'application des peines ou du procureur de la
+République.

@@ -1,8 +1,8 @@
 Article D585
 ----
-Le directeur de probation rend compte régulièrement au juge de l'application des
-peines du fonctionnement du comité de probation et de l'exécution de ses
-missions.
+Le directeur du service pénitentiaire d'insertion et de probation est consulté
+sur les demandes d'agrément formulées, conformément à la législation relative à
+l'aide sociale, par les organismes hébergeant les libérés.
 
-Il établit chaque année un rapport d'activité, qu'il transmet au juge de
-l'application des peines et au directeur régional des services pénitentiaires.
+Ses avis sont transmis par le ministre de la justice au ministre chargé de la
+santé.

@@ -6,8 +6,8 @@ attestant leur présence ou la durée de leur présence en établissement
 pénitentiaire sans en préciser le motif, et mentionnant s'il y a lieu leur
 affiliation à la sécurité sociale.
 
-Ce certificat peut également être délivré à un membre du service socio-éducatif
-en vue de permettre le paiement des prestations dues par les caisses
-d'allocations familiales.
+Ce certificat peut également être délivré à un membre du service pénitentiaire
+d'insertion et de probation compétent auprès de l'établissement pénitentiaire en
+vue de permettre le paiement des prestations dues par les organismes sociaux.
 
 Il ne doit comporter en aucun cas d'appréciation sur l'intéressé.

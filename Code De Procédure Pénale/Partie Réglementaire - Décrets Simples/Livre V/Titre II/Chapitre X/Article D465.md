@@ -1,5 +1,9 @@
 Article D465
 ----
-Les travailleurs sociaux affectés dans les établissements pénitentiaires
-interviennent auprès des détenus lors d'entretiens individuels ou à l'occasion
-d'animations ou de réunions de groupes.
+La correspondance échangée entre les détenus et les travailleurs sociaux
+appartenant à l'un des services du ministère de la justice se fait librement et
+sous pli fermé.
+
+Les lettres adressées par les détenus à d'autres services sociaux peuvent être
+transmises sous pli fermé, sous le contrôle du service pénitentiaire d'insertion
+et de probation.

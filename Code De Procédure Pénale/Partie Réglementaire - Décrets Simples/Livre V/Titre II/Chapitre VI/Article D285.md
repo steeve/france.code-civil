@@ -8,7 +8,7 @@ Dans les délais les plus brefs, le détenu est soumis à un examen médical dan
 les conditions prévues à l'article D. 381.
 
 Le détenu est également visité, dès que possible, par un membre du service
-socio-éducatif, conformément aux dispositions de l'article D. 464.
+pénitentiaire d'insertion et de probation.
 
 Le détenu qui manifeste son intention de pratiquer sa religion peut être visité
 par le ministre du culte, conformément aux dispositions de l'article D. 436.

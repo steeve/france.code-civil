@@ -1,9 +1,9 @@
 Article D463
 ----
-Les travailleurs sociaux doivent remplir leurs fonctions dans des conditions
-telles que celles-ci ne puissent préjudicier à la sécurité et à la discipline de
-l'établissement non plus qu'à la bonne marche des procédures judiciaires.
+Les travailleurs sociaux du service pénitentiaire d'insertion et de probation
+ont libre accès, aux heures de service de jour, aux locaux de détention pour les
+besoins de leur service.
 
-Plus généralement, ils doivent se conformer aux interdictions visées à l'article
-D. 220, qui sont imposées à toutes les personnes accomplissant des fonctions ou
-un service quelconque dans un établissement pénitentiaire.
+Les entretiens avec les détenus ont lieu, dans des conditions garantissant la
+confidentialité, soit dans un parloir ou bureau, soit dans la cellule du détenu
+et, s'il se trouve au quartier disciplinaire, dans un local spécial.
