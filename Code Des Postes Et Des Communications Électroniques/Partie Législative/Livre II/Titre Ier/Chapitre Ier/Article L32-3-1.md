@@ -1,9 +1,10 @@
 Article L32-3-1
 ----
-I. - Les opérateurs de télécommunications, et notamment ceux mentionnés à
-l'article 43-7 de la loi n° 86-1067 du 30 septembre 1986 précitée, sont tenus
-d'effacer ou de rendre anonyme toute donnée relative à une communication dès que
-celle-ci est achevée, sous réserve des dispositions des II, III et IV.
+I. - Les opérateurs de télécommunications, et notamment ceux mentionnés au 1° du
+I de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans
+l'économie numérique, sont tenus d'effacer ou de rendre anonyme toute donnée
+relative à une communication dès que celle-ci est achevée, sous réserve des
+dispositions des II, III et IV.
 
 II. - Pour les besoins de la recherche, de la constatation et de la poursuite
 des infractions pénales, et dans le seul but de permettre, en tant que de
