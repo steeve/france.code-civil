@@ -1,16 +1,17 @@
 Article L234-6
 ----
-Chaque commune reçoit une dotation de péréquation qui tient compte de son
-potentiel fiscal défini à l'article L. 234-8 et du montant des impôts énoncés à
-l'article L. 234-9, qu'elle a établis l'année précédente.
+Le potentiel fiscal d'une commune [*calcul*] est égal au montant des bases
+pondérées des quatre taxes directes locales, ces bases étant les bases brutes de
+la dernière année dont les résultats sont connus servant à l'assiette des
+impositions communales, minorées ou majorées, le cas échéant, du montant des
+bases correspondant soit à l'écrêtement, soit au versement opéré au titre du
+fonds départemental de péréquation de la taxe professionnelle prévu par
+l'article 1648-A du code général des impôts.
 
-Les groupements de communes à fiscalité propre reçoivent également une dotation
-de péréquation.
+Le coefficient de pondération de la base de chacune des quatre taxes
+[*définition*] est le taux moyen national d'imposition à la taxe concernée,
+constaté lors de la dernière année dont les résultats sont connus.
 
-Pour 1981, la part des ressources affectées à la dotation de péréquation est
-fixée à 47,5 p. 100 de la dotation globale après déduction des sommes prévues
-pour les concours particuliers, institués par l'article L. 234-12 et pour la
-garantie de progression minimale prévue à l'article L. 234-19-1 ainsi que pour
-la dotation spéciale prévue à l'article L. 234-19-2.
-
-Pour les quatre années suivantes, ce chiffre est augmenté de 2,5 points par an.
+Le potentiel fiscal par habitant est égal au potentiel fiscal de la commune
+divisé par le nombre d'habitants constituant la population de cette commune, tel
+que défini à l'article L. 234-19-3.
