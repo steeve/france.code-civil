@@ -7,27 +7,26 @@ aéroportuaires des communes riveraines de l'aéroport de Paris-Orly.
 
 II. - Ces fonds sont alimentés par :
 
-- une attribution déterminée en application du V quater de l'article 1648 A ;
+1° une attribution déterminée en application du V quater de l'article 1648 A ;
 
-- une contribution annuelle de l'établissement public Aéroports de Paris, sur
+2° une contribution annuelle de l'établissement public Aéroports de Paris, sur
 délibération de son conseil d'administration.
 
 III. - Les ressources du Fonds de compensation des nuisances aéroportuaires des
 communes riveraines de l'aéroport de Paris-Charles-de-Gaulle sont attribuées aux
 communes dont le territoire se situe, au 1er janvier de l'année de répartition,
 en totalité ou en partie dans le plan de gêne sonore de l'aéroport de
-Paris-Charles-de-Gaulle défini à l'article 19 de la loi n° 92-1444 du 31
-décembre 1992 relative à la lutte contre le bruit et dont le potentiel fiscal
-par habitant est inférieur au double du potentiel moyen par habitant des
-communes du plan de gêne sonore concernées.
+Paris-Charles-de-Gaulle défini à l'article L. 571-15 du code de l'environnement,
+et dont le potentiel fiscal par habitant est inférieur au double du potentiel
+moyen par habitant des communes du plan de gêne sonore concernées.
 
 Les ressources du Fonds de compensation des nuisances aéroportuaires des
 communes riveraines de l'aéroport de Paris-Orly sont attribuées aux communes
 dont la population se situe, au 1er janvier de l'année de répartition, en
 totalité ou en partie, dans le plan de gêne sonore de l'aéroport de Paris-Orly
-défini à l'article 19 de la loi n° 92-1444 du 31 décembre 1992 précitée, et dont
-le potentiel fiscal par habitant est inférieur au double du potentiel fiscal
-moyen par habitant des communes du plan de gêne sonore concerné.
+défini à l'article L. 571-15 du code précité, et dont le potentiel fiscal par
+habitant est inférieur au double du potentiel fiscal moyen par habitant des
+communes du plan de gêne sonore concerné.
 
 IV. - Les ressources des fonds de compensation des nuisances aéroportuaires sont
 réparties entre les communes éligibles, en application des dispositions du III,
