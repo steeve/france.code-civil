@@ -8,10 +8,11 @@ d'habitations à loyer modéré.
 
 Cette société est constituée sous la forme de société anonyme coopérative à
 capital variable, régie par les dispositions du livre IV du code de la
-construction et de l'habitation, par la loi n° 47-1775 du 10 septembre 1947
-modifiée portant statut de la coopération, ainsi que par les dispositions du
-code civil et par la loi n° 66-537 du 24 juillet 1966 modifiée sur les sociétés
-commerciales.
+construction et de l'habitation ainsi que par les dispositions non contraires de
+la loi n° 47-1775 du 10 septembre 1947 modifiée portant statut de la
+coopération, du code civil et du code de commerce, notamment des articles L.
+231-1 à L. 231-8 de ce même code, et par celles du décret n° 67-236 du 23 mars
+1967 modifié sur les sociétés commerciales.
 
 2. Dénomination.
 
@@ -41,9 +42,9 @@ Le siège social de la société est fixé à : ....
 
 Le capital social est variable.
 
-Le capital initial à souscrire est fixé à la somme de ... F.
+Le capital initial à souscrire est fixé à la somme de ... euros.
 
-Il est divisé en ... actions de chacune ... F.
+Il est divisé en ... actions de chacune ... euros.
 
 Les associés qui n'utilisent pas les services de la société ne peuvent détenir
 plus de 35 p. 100 du total des droits de vote. Ces associés disposent ensemble
@@ -97,7 +98,9 @@ droits qu'il tient du contrat de location-attribution.
 La société est administrée par un conseil d'administration.
 
 Les membres du conseil d'administration, même ceux qui exercent les fonctions de
-directeur général de la société, exercent leurs fonctions à titre gratuit.
+directeur général de la société, exercent leurs fonctions à titre gratuit dans
+les conditions prévues à l'article R. 421-56 du code de la construction et de
+l'habitation.
 
 8. Retraits et exclusions - Résiliation du contrat de location-attribution.
 
@@ -194,8 +197,8 @@ unions coopératives.
 12. Documents transmis à l'administration.
 
 Dans le mois suivant celui au cours duquel s'est tenue l'assemblée générale
-réunie en application de l'article 157 de la loi du 24 juillet 1966 précitée, la
-société adresse au préfet du département de son siège, à la Caisse des dépôts et
+réunie en application de l'article L. 225-100 du code de commerce, la société
+adresse au préfet du département de son siège, à la Caisse des dépôts et
 consignations et au ministre chargé du logement l'ensemble des documents
 comptables et les rapports présentés à l'assemblée générale des actionnaires,
 ainsi que le compte rendu de celle-ci.
@@ -206,13 +209,12 @@ conditions.
 
 13. Résultats de l'exercice.
 
-Lorsque la société a réalisé un bénéfice distribuable au sens de l'article 347
-de la loi du 24 juillet 1966 précitée, il peut être distribué un dividende
-correspondant à un pourcentage de capital social égal ou inférieur au taux
-défini à l'article 14 de la loi du 10 septembre 1947 précitée, sans que ce
-pourcentage puisse être supérieur au taux d'intérêt servi au détenteur d'un
-premier livret de caisse d'épargne au 31 décembre de l'année précédente, majoré
-de 1,5 point.
+Lorsque la société a réalisé un bénéfice distribuable au sens de l'article L.
+232-12 du code de commerce, il peut être distribué un dividende correspondant à
+un pourcentage de capital social égal ou inférieur au taux défini à l'article 14
+de la loi du 10 septembre 1947 précitée, sans que ce pourcentage puisse être
+supérieur au taux d'intérêt servi au détenteur d'un premier livret de caisse
+d'épargne au 31 décembre de l'année précédente, majoré de 1,5 point.
 
 14. Réserves.
 
