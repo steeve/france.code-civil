@@ -64,14 +64,16 @@ ou personnes au sens de l'article L. 542-1 ;
 enfants ou personnes au sens de l'article L. 542-1.
 
 Lors de l'ouverture du droit ou en début de période de paiement, lorsque le
-demandeur poursuit des études, ainsi que, le cas échéant, son conjoint, et que
-les ressources du ménage au titre de l'année de référence appréciées au sens des
+demandeur ou, le cas échéant, son conjoint poursuit des études, et que les
+ressources du ménage au titre de l'année de référence appréciées au sens des
 alinéas précédents sont inférieures à un montant fixé par arrêté conjoint des
 ministres chargés du logement, du budget, de la sécurité sociale et de
 l'agriculture, les ressources du demandeur ou du ménage sont réputées égales à
 ce montant. Ce montant subit une minoration fixée par ledit arrêté lorsque le
 demandeur est titulaire d'une bourse de l'enseignement supérieur qui n'est pas
-assujettie à l'impôt sur le revenu.
+assujettie à l'impôt sur le revenu. Lorsque les deux membres d'un couple
+poursuivent des études, le montant mentionné à la première phrase subit une
+majoration fixée par le même arrêté.
 
 En cas d'accession à la propriété, lorsque le prêt est accordé postérieurement
 au 30 septembre 1992, si les ressources du bénéficiaire et de son conjoint,
