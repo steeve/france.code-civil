@@ -12,4 +12,4 @@ Au-delà de cette durée, le réserviste est tenu de requérir l'accord de son
 employeur avec un préavis de deux mois en précisant la date de son départ et la
 durée de la période qu'il souhaite accomplir, sous réserve de dispositions plus
 favorables résultant notamment de conventions conclues entre l'employeur et le
-ministre chargé des armées.
+ministre de la défense.

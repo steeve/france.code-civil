@@ -13,8 +13,8 @@ désignation étant matérialisée par la pose d'un signe distinctif sur celui-c
 2° Dresse, si possible contradictoirement en présence du propriétaire ou du
 conducteur du véhicule et du préposé à l'enlèvement, un état sommaire, extérieur
 et intérieur, du véhicule, sans l'ouvrir, au moyen d'une fiche descriptive dont
-le modèle est fixé par arrêté du ministre de l'intérieur et du ministre chargé
-des armées, avant que la mise en fourrière reçoive un commencement d'exécution ;
+le modèle est fixé par arrêté du ministre de l'intérieur et du ministre de la
+défense, avant que la mise en fourrière reçoive un commencement d'exécution ;
 
 3° Remet à ce propriétaire ou ce conducteur, s'il est présent, un double de la
 fiche relative à l'état du véhicule et, le cas échéant, la fiche de circulation

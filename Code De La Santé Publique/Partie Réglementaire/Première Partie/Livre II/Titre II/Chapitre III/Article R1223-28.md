@@ -11,8 +11,8 @@ produits sanguins labiles qui leur sont nécessaires.
 A cette fin, le centre de transfusion sanguine des armées :
 
 1° Effectue des collectes de sang ou de ses composants dans les locaux des
-unités, services et organismes relevant du ministre chargé des armées ou dans
-ceux des établissements publics placés sous sa tutelle ; toutefois, en cas
+unités, services et organismes relevant du ministre de la défense ou dans ceux
+des établissements publics placés sous sa tutelle ; toutefois, en cas
 d'événements exceptionnels ou en cas d'urgence, le centre peut effectuer des
 collectes en d'autres lieux ;
 
