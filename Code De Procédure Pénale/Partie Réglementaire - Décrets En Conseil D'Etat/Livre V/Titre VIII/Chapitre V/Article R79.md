@@ -80,8 +80,16 @@ janvier 1983 ;
 personnes physiques ou les dirigeants des personnes morales qui sollicitent
 l'agrément ou l'inscription prévues par les articles 31, 32 et 34 de la loi n°
 83-610 du 8 juillet 1983, ainsi que les personnes qui font l'objet d'une
-procédure disciplinaire sur le fondement des articles 22, 29 ou 41 de cette loi.
+procédure disciplinaire sur le fondement des articles 22, 29 ou 41 de cette loi;
+
 22° A l'administration pénitentiaire au titre des autorisations, agréments ou
 habilitations qu'elle est susceptible de délivrer aux personnes appelées à
 intervenir dans les établissements pénitentiaires ou pour le recrutement de ses
-personnels.
+personnels;
+
+23° Aux juges des enfants à l'occasion de l'instruction des procédures
+d'habilitation des personnes physiques, établissements, services ou organismes
+publics ou privés auxquels l'autorité judiciaire confie habituellement des
+mineurs ainsi que dans le cadre du contrôle que les juges des enfants exercent
+sur les mêmes personnes, établissements, services ou organismes lorsqu'ils sont
+habilités.
