@@ -6,52 +6,65 @@ participation des assurés sociaux aux tarifs servant de base au calcul des
 prestations en nature de l'assurance maladie, en application du 3° de l'article
 L. 322-3, est établie ainsi qu'il suit :
 
-Tuberculose évolutive sous toutes ses formes.
+- accident vasculaire cérébral invalidant ;
 
-Lèpre.
+- aplasie médullaire;
 
-Bilharziose, Poliomyélite antérieure aiguë et ses séquelles.
+- artériopathie chronique et évolutive (y compris coronarite) avec
+manifestations cliniques ischémiques ;
 
-Sarcoïdoses.
+- bilharziose compliquée ;
 
-Tumeurs malignes, y compris les tumeurs des tissus lymphatiques et
-hématopoïétiques.
+- cardiopathie congénitale mal tolérée, insuffisance cardiaque grave et
+valvulopathie grave ;
 
-Diabète sucré.
+- cirrhose du foie décompensée ;
 
-Anémie pernicieuse.
+- déficit immunitaire primitif grave nécessitant un traitement prolongé et
+déficit immunitaire acquis grave (syndrome immuno-déficitaire acquis) ;
 
-Hémophilie.
+- diabète insulino-dépendant ou non insulino-dépendant ne pouvant pas être
+équilibré par le seul régime ; - forme grave d'une affection neuro-musculaire
+(dont miopathie) ; - hémoglobinopathie homozygote ;
 
-Maladies mentales (psychoses, névroses graves, troubles graves de la
-personnalité, arriérations mentales).
+- hémophilie ;
 
-Maladies cérébro-vasculaires.
+- hypertension artérielle sévère ;
 
-Sclérose en plaques.
+- infarctus du myocarde datant de moins de six mois ;
 
-Maladie de Parkinson.
+- insuffisance respiratoire chronique grave ;
 
-Paraplégies.
+- lèpre ;
 
-Infarctus du myocarde.
+- maladie de Parkinson ;
 
-Hypertension maligne.
+- maladies métaboliques héréditaires nécessitant un traitement prolongé
+spécialisé ;
 
-Néphrite chronique grave.
+- mucoviscidose ;
 
-Néphrose lipoïdique.
+- néphropathie chronique grave et syndrome néphrotique pur primitif ;
 
-Spondylite ankylosante.
+- paraplégie ;
 
-Polyarthrite chronique évolutive.
+- périartérite noueuse, lupus érythémateux aigu disséminé, sclérodermie
+généralisée évolutive ;
 
-Troubles neuro-musculaires (myopathie, amyotrophie congénitale).
+- polyarthrite rhumatoïde évolutive grave ;
 
-Fibrose kystique (mucoviscidose).
+- psychose, trouble grave de la personnalité, arriération mentale ;
 
-Artériopathies chroniques.
+- rectocolite hémorragique et maladie de Crohn évolutives ; - sclérose en
+plaques invalidante ;
 
-Cardiopathies congénitales.
+- scoliose structurale évolutive (dont l'angle est égal ou supérieur à 25
+degrés) jusqu'à maturation rachidienne ;
 
-Insuffisance respiratoire chronique grave.
+- spondylarthrite ankylosante grave ;
+
+- suites de transplantation d'organe ;
+
+- tuberculose active ;
+
+- tumeur maligne, affection maligne du tissu lymphatique ou hématopoïétique.
