@@ -27,7 +27,7 @@ du même article ne désignent aucun représentant supplémentaire si elles
 emploient moins de cinquante salariés dans la circonscription de la chambre de
 commerce et d'industrie.
 
-III. - Le nombre des associés en nom collectif ou des associés commandités
-s'impute, le cas échéant, sur les électeurs que les sociétés en nom collectif et
-les sociétés en commandite auraient pu désigner en application des dispositions
-de l'article L. 713-1 et de celles du présent article.
+III. - Les sociétés en nom collectif et les sociétés en commandite désignent par
+délibération expresse conformément aux dispositions statutaires un représentant
+unique au titre des associés et de la société, sans préjudice de la possibilité
+de désigner des représentants supplémentaires en application du I ci-dessus.
