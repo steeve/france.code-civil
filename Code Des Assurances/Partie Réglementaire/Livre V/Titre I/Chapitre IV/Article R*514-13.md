@@ -7,11 +7,11 @@ L. 511-2 et, lorsqu'il constate une telle incapacité, de le notifier dans le
 plus bref délai :
 
 1° Si elle concerne un courtier ou un associé ou un tiers ayant, dans une
-société de courtage d'assurances, le pouvoir de gérer ou d'administrer, au
-greffier compétent pour recevoir l'immatriculation au registre du commerce pour
-le courtage d'assurances ;
+société de courtage d'assurances ou de réassurance, le pouvoir de gérer ou
+d'administrer, au greffier compétent pour recevoir l'immatriculation au registre
+du commerce pour le courtage d'assurances ou de réassurance ;
 
 2° Si elle concerne un agent général d'assurances, à l'entreprise déclarante ;
 
 3° Si elle concerne un intermédiaire mentionné au 3° ou au 4° de l'article R.
-511-2, au déclarant et à l'organisme habilité à viser la carte professionnelle.
+511-2, au déclarant.

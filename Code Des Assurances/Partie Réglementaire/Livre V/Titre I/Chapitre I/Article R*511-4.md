@@ -3,7 +3,7 @@ Article R*511-4
 Toute personne physique mentionnée sous l'un des numéros de l'article R. 511-2
 doit, sous réserve des dérogations prévues au chapitre II du présent titre :
 
-1° Etre âgée d'au moins vingt et un ans ;
+1° Avoir la majorité légale ;
 
 2° Etre soit de nationalité française, soit ressortissante d'un Etat membre de
 la Communauté économique européenne, soit ressortissante d'un Etat dont la
@@ -14,7 +14,7 @@ assimilant aux ressortissants français ;
 3° Remplir les conditions de capacité professionnelle prévues, pour chaque
 catégorie, par décret pris sur le rapport du ministre de l'économie et des
 finances, du garde des sceaux, ministre de la justice, et du ministre de
-l'éducation, après avis du conseil national des assurances ;
+l'éducation ;
 
 4° Ne pas être frappée d'une des incapacités prévues à l'article L. 511-2.
 
@@ -24,9 +24,8 @@ article doit pouvoir, à tout moment, justifier qu'elle remplit les conditions
 exigées par ledit alinéa.
 
 Un décret pris sur le rapport du ministre de l'économie et des finances et du
-garde des sceaux, ministre de la justice, après avis du conseil national des
-assurances, détermine les diverses mesures pouvant permettre de vérifier que les
-conditions ci-dessus définies sont remplies.
+garde des sceaux, ministre de la justice, détermine les diverses mesures pouvant
+permettre de vérifier que les conditions ci-dessus définies sont remplies.
 
 Les contrats d'assurance ou de capitalisation souscrits en infraction aux
 dispositions de l'article R. 511-2 et du présent article et les adhésions à de

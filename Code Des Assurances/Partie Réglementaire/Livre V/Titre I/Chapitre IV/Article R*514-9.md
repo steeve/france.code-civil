@@ -2,9 +2,9 @@ Article R*514-9
 ----
 L'obligation de souscrire la déclaration incombe :
 
-1° En ce qui concerne les courtiers d'assurances et les associés ou tiers ayant
-pouvoir de gérer ou d'administrer dans une société de courtage d'assurances, aux
-intéressés eux-mêmes ;
+1° En ce qui concerne les courtiers d'assurances ou de réassurance et les
+associés ou tiers ayant pouvoir de gérer ou d'administrer dans une société de
+courtage d'assurances ou de réassurance, aux intéressés eux-mêmes ;
 
 2° En ce qui concerne les agents généraux d'assurances, aux entreprises qui se
 proposent de les mandater en cette qualité ;
