@@ -10,3 +10,11 @@ marche normale des autres véhicules, pour préparer un changement de direction.
 Le fait, pour tout conducteur, de contrevenir aux dispositions du présent
 article est puni de l'amende prévue pour les contraventions de la deuxième
 classe.
+
+Toutefois, ce fait est puni de l'amende prévue pour les contraventions de la
+cinquième classe lorsque, sur la chaussée, une voie de circulation au moins est
+couverte de neige ou de verglas sur tout ou partie de sa surface. Dans ce cas,
+toute personne coupable de l'infraction encourt également la peine
+complémentaire de suspension, pour une durée de trois ans au plus, du permis de
+conduire, cette suspension pouvant être limitée à la conduite en dehors de
+l'activité professionnelle.
