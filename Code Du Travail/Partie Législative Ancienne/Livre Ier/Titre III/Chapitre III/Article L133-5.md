@@ -69,15 +69,22 @@ c) Les conditions d'emploi et de rémunération des travailleurs à domicile,
 d) Les garanties des salariés appelés à exercer leur activité à l'étranger,
 
 e) Les conditions d'emploi des personnels, salariés d'entreprises extérieures,
-notamment les travailleurs temporaires ;
+notamment les travailleurs temporaires,
 
 f) Les conditions dans lesquelles le ou les salariés, auteurs d'une invention
 dévolue à l'employeur en vertu des dispositions du deuxième alinéa de l'article
-1er ter de la loi n° 68-1 du 2 janvier 1968 sur les brevets d'invention (1),
-bénéficient d'une rémunération supplémentaire ;
+L. 611-7 du code de la propriété intellectuelle, bénéficient d'une rémunération
+supplémentaire ;
 
 13° Les procédures conventionnelles de conciliation suivant lesquelles seront
 réglés les conflits collectifs de travail susceptibles de survenir entre les
 employeurs et les salariés liés par la convention ;
 
-14° Les modalités d'accès à un régime de prévoyance maladie.
+14° Les modalités d'accès à un régime de prévoyance maladie ;
+
+15° Les modalités de mise en oeuvre des dispositifs prévus au titre IV relatifs
+à l'intéressement des salariés, à la participation aux résultats et aux plans
+d'épargne d'entreprise, et notamment la possibilité d'affecter une partie des
+sommes collectées dans le cadre du plan prévu à l'article L. 443-1-2, s'il est
+mis en place, à l'acquisition de parts des fonds solidaires mentionnés au III de
+l'article L. 443-1-2.

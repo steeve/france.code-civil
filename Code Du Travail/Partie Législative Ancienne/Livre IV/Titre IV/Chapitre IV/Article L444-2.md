@@ -21,9 +21,9 @@ pratiques de participation.
 
 Le Conseil supérieur de la participation établit chaque année un rapport sur
 l'intéressement, la participation des salariés aux résultats de l'entreprise,
-les plans d'épargne d'entreprise et sur les négociations salariales dans les
-entreprises ayant conclu des accords d'intéressement. Ce rapport est remis au
-Premier ministre et au Parlement. Il est rendu public.
+les plans d'épargne d'entreprise, l'actionnariat salarié et sur les négociations
+salariales dans les entreprises ayant conclu des accords d'intéressement. Ce
+rapport est remis au Premier ministre et au Parlement. Il est rendu public.
 
 Un décret en Conseil d'Etat détermine la composition et les modalités de
 fonctionnement du conseil institué au présent article, dans des conditions de

@@ -1,7 +1,7 @@
 Article L433-10
 ----
 Le scrutin est de liste et à deux tours avec représentation proportionnelle à la
-plus forte moyenne [*mode de scrutin*].
+plus forte moyenne *mode de scrutin*.
 
 Au premier tour de scrutin, chaque liste est établie par les organisations
 syndicales représentatives. Si le nombre des votants est inférieur à la moitié

@@ -75,5 +75,18 @@ VI. - Est réputée non écrite toute clause statutaire conférant au conseil
 d'administration ou au directoire, selon le cas, le pouvoir de décider
 l'augmentation de capital.
 
-VII. - Les décisions prises en violation des dispositions du présent article
+VII. - Lors de toute décision d'augmentation du capital, l'assemblée générale
+extraordinaire doit se prononcer sur un projet de résolution tendant à réaliser
+une augmentation de capital effectuée dans les conditions prévues à l'article L.
+443-5 du code du travail.
+
+Tous les trois ans, une assemblée générale extraordinaire est convoquée pour se
+prononcer sur un projet de résolution tendant à réaliser une augmentation de
+capital effectuée dans les conditions prévues à l'article L. 443-5 du code du
+travail si, au vu du rapport présenté à l'assemblée générale par le conseil
+d'administration ou le directoire en application de l'article L. 225-102, les
+actions détenues par le personnel de la société et des sociétés qui lui sont
+liées aux sens de l'article L. 225-180 représentent moins de 3 % du capital.
+
+VIII. - Les décisions prises en violation des dispositions du présent article
 sont nulles.

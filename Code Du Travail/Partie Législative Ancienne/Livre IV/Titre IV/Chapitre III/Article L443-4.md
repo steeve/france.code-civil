@@ -1,18 +1,26 @@
 Article L443-4
 ----
-Le règlement du plan d'épargne d'entreprise prévoit au moins :
+Le règlement du plan d'épargne d'entreprise prévu à l'article L. 443-1 doit
+ouvrir à ses participants au moins une possibilité d'acquérir soit des valeurs
+mentionnées au a de l'article L. 443-3, soit des parts de fonds communs de
+placement d'entreprise dont l'actif est composé de valeurs mobilières admises
+aux négociations sur un marché réglementé et, à titre accessoire, de liquidités,
+selon les règles fixées en application de l'article L. 214-4 du code monétaire
+et financier, ou de parts d'organismes de placement collectif en valeurs
+mobilières dont l'actif est ainsi composé. Cette disposition n'est pas exigée
+lorsqu'un plan d'épargne de groupe ou un plan d'épargne inter-entreprises de
+même durée minimum de placement offre aux participants de l'entreprise la
+possibilité de placer les sommes versées dans un organisme de placement
+collectif en valeurs mobilières présentant les mêmes caractéristiques.
 
-1° Soit l'acquisition de valeurs mentionnées au a de l'article L. 443-3 ;
+Lorsqu'un fonds commun de placement d'entreprise mentionné au b de l'article L.
+443-3 est investi en titres de l'entreprise et que ceux-ci ne sont pas admis aux
+négociations sur un marché réglementé, l'actif de ce fonds doit comporter au
+moins un tiers de titres liquides ou il doit être instauré un mécanisme
+garantissant la liquidité de ces valeurs dans des conditions définies par
+décret.
 
-2° Soit l'acquisition de parts d'un fonds commun de placement d'entreprise
-n'employant pas plus de 10 p. 100 de son actif en titres de l'entreprise ou
-d'une entreprise liée à celle-ci au sens de l'article 208-4 de la loi n° 66-537
-du 24 juillet 1966 précitée.
-
-Il peut être dérogé à cette règle en affectant les sommes recueillies à un seul
-fonds commun de placement d'entreprise. Dans ce cas, l'actif du fonds doit
-comporter au moins un tiers de titres liquides.
-
-Les dispositions visées ci-dessus ne s'appliquent pas aux actions acquises pour
-un plan d'épargne d'entreprise ou un fonds commun de placement d'entreprise dans
-le cadre d'une opération de reprise d'entreprise par ses salariés.
+Un fonds commun de placement mentionné au b de l'article L. 443-3 peut détenir
+au plus 30 % de titres émis par un fonds commun de placement visé à la
+sous-section 7 ou à la sous-section 9 de la section 1 du chapitre IV du titre
+Ier du livre II du code monétaire et financier.

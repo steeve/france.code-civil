@@ -27,10 +27,10 @@ d'incitation relative à la réduction du temps de travail et l'article 19 de la
 loi n° 2000-37 du 19 janvier 2000 relative à la réduction négociée du temps de
 travail consentis à l'entreprise par l'Etat, les régions et les collectivités
 locales et leur emploi, les investissements, l'évolution de la structure et du
-montant des salaires. Dans les entreprises d'au moins trois cents salariés
-[*effectif*], ce rapport retrace en outre l'évolution de la productivité et le
-taux d'utilisation des capacités de production, quand ces éléments sont
-mesurables dans l'entreprise.
+montant des salaires. Dans les entreprises d'au moins trois cents salariés, ce
+rapport retrace en outre l'évolution de la productivité et le taux d'utilisation
+des capacités de production, quand ces éléments sont mesurables dans
+l'entreprise.
 
 Le chef d'entreprise soumet, à cette occasion, un état faisant ressortir
 l'évolution de la rémunération moyenne horaire et mensuelle par sexe, par
@@ -57,26 +57,24 @@ la situation financière de l'entreprise.
 
 Les membres du comité d'entreprise ont droit aux mêmes communications et aux
 mêmes copies que les actionnaires et aux mêmes époques dans les conditions
-prévues par la loi n° 66-537 du 24 juillet 1966 modifiée.
+prévues par la loi n° 66-537 du 24 juillet 1966 (1).
 
 Le comité d'entreprise reçoit communication des documents comptables établis par
 les entreprises qui ne revêtent pas la forme de société commerciale.
 
-Dans les sociétés visées à l'article 340-1 de la loi n° 66-537 du 24 juillet
-1966 modifiée sur les sociétés commerciales, les documents établis en
-application de cet article et des articles 340-2 et 340-3 de la même loi sont
-communiqués au comité d'entreprise. Il en est de même dans les sociétés non
-visées à cet article qui établissent ces documents. Les informations données au
-comité d'entreprise en application du présent alinéa sont réputées
-confidentielles au sens de l'article L. 432-7. Les dispositions qui précèdent
-s'appliquent aux groupements d'intérêt économique mentionnés à l'article 10-1 de
-l'ordonnance n° 67-821 du 23 septembre 1967 sur les groupements d'intérêt
-économique.
+Dans les sociétés visées à l'article L. 232-2 du code de commerce, les documents
+établis en application de cet article et des articles L. 232-3 et L. 232-4 du
+même code sont communiqués au comité d'entreprise. Il en est de même dans les
+sociétés non visées à cet article qui établissent ces documents. Les
+informations données au comité d'entreprise en application du présent alinéa
+sont réputées confidentielles au sens de l'article L. 432-7. Les dispositions
+qui précèdent s'appliquent aux groupements d'intérêt économique mentionnés à
+l'article L. 251-13 du code de commerce.
 
 Le comité d'entreprise reçoit également communication du rapport visé aux
-articles 64-2 et 226 de la loi du 24 juillet 1966 susvisée et des réponses,
-rapports et délibérations dans les cas prévus aux articles 230-1, 230-2 de la
-même loi et 10-3 de l'ordonnance du 23 septembre 1967 susvisée.
+articles L. 223-37 et L. 225-231 du code de commerce et des réponses, rapports
+et délibérations dans les cas prévus aux articles L. 234-1, L. 234-2 et L.
+251-15 du code de commerce.
 
 Au cours de chaque trimestre, le chef d'entreprise communique au comité
 d'entreprise des informations sur l'évolution générale des commandes et de la
@@ -84,13 +82,13 @@ situation financière, sur l'exécution des programmes de production ainsi que s
 d'éventuels retards dans le paiement par l'entreprise des cotisations de
 sécurité sociale ou des cotisations dues aux institutions de retraite
 complémentaire régies par le chapitre II du titre II du livre IX du code de la
-sécurité sociale et l'article 1050 du code rural ou des cotisations ou primes
-dues aux organismes assureurs mentionnés à l'article premier de la loi n°
+sécurité sociale et l'article 1050 du code rural (2) ou des cotisations ou
+primes dues aux organismes assureurs mentionnés à l'article premier de la loi n°
 89-1009 du 31 décembre 1989 renforçant les garanties offertes aux personnes
 assurées contre certains risques au titre des garanties collectives mentionnées
 à l'article L. 911-2 du code de la sécurité sociale. Chaque trimestre dans les
-entreprises d'au moins trois cents salariés [*effectif*] et chaque semestre dans
-les autres, le chef d'entreprise informe également le comité des mesures
-envisagées en ce qui concerne l'amélioration, le renouvellement ou la
-transformation de l'équipement ou des méthodes de production et d'exploitation
-et de leurs incidences sur les conditions de travail et d'emploi.
+entreprises d'au moins trois cents salariés et chaque semestre dans les autres,
+le chef d'entreprise informe également le comité des mesures envisagées en ce
+qui concerne l'amélioration, le renouvellement ou la transformation de
+l'équipement ou des méthodes de production et d'exploitation et de leurs
+incidences sur les conditions de travail et d'emploi.

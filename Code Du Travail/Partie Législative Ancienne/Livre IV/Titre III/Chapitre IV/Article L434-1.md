@@ -10,15 +10,16 @@ son poste de travail, sous réserve de ne pas apporter de gêne importante à
 l'accomplissement du travail des salariés.
 
 Le chef d'entreprise est tenu de laisser aux membres titulaires du comité
-d'entreprise et, dans les entreprises de plus de cinq cents salariés, aux
-représentants syndicaux au comité d'entreprise prévus à l'article L. 433-1, le
-temps nécessaire à l'exercice de leurs fonctions dans la limite d'une durée qui,
-sauf circonstances exceptionnelles, ne peut excéder vingt heures par mois. Dans
-le cas d'entreprises dont l'effectif est supérieur à cinq cents salariés, mais
-dont aucun des établissements distincts n'atteint ce seuil, le chef d'entreprise
-est tenu de laisser aux représentants syndicaux au comité central d'entreprise
-le temps nécessaire à l'exercice de leurs fonctions, dans la limite d'une durée
-qui, sauf circonstances exceptionnelles, ne peut excéder vingt heures par mois.
+d'entreprise et, dans les entreprises de plus de cinq cents salariés
+*effectifs*, aux représentants syndicaux au comité d'entreprise prévus à
+l'article L. 433-1, le temps nécessaire à l'exercice de leurs fonctions dans la
+limite d'une durée qui, sauf circonstances exceptionnelles, ne peut excéder
+vingt heures par mois. Dans le cas d'entreprises dont l'effectif est supérieur à
+cinq cents salariés, mais dont aucun des établissements distincts n'atteint ce
+seuil, le chef d'entreprise est tenu de laisser aux représentants syndicaux au
+comité central d'entreprise le temps nécessaire à l'exercice de leurs fonctions,
+dans la limite d'une durée qui, sauf circonstances exceptionnelles, ne peut
+excéder vingt heures par mois.
 
 Ce temps est de plein droit considéré comme temps de travail et payé à
 l'échéance normale. En cas de contestation par l'employeur de l'usage fait du

@@ -7,9 +7,9 @@ sur le plan national, soit par des instituts spécialisés, ont droit, sur leur
 demande, à un ou plusieurs congés.
 
 Ce ou ces congés doivent donner lieu à une rémunération par les employeurs, dans
-les entreprises occupant au moins dix salariés [*effectif minimum*] à la hauteur
-de 0,08 pour mille du montant, entendu au sens du 1 de l'article 231 du code
-général des impôts, des salaires payés pendant l'année en cours.
+les entreprises occupant au moins dix salariés à la hauteur de 0,08 pour mille
+du montant, entendu au sens du 1 de l'article 231 du code général des impôts,
+des salaires payés pendant l'année en cours.
 
 Les dépenses correspondantes des entreprises sont déductibles, dans la limite
 prévue à l'alinéa précédent, du montant de la participation des employeurs au

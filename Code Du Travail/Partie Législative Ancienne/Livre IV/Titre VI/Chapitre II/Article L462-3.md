@@ -1,9 +1,9 @@
 Article L462-3
 ----
 Les stipulations comprises dans les accords mentionnés à l'article L. 461-3
-[*définissant les modalités d'exercice du droit à l'expression*] doivent être
-complétées par des dispositions portant sur les sujets suivants [*mentions
-obligatoires, contenu*] :
+*définissant les modalités d'exercice du droit à l'expression* doivent être
+complétées par des dispositions portant sur les sujets suivants *mentions
+obligatoires, contenu* :
 
 1° la définition des unités de travail retenues comme cadre des réunions de
 conseils d'atelier ou de bureau. Ces unités doivent avoir une dimension réduite

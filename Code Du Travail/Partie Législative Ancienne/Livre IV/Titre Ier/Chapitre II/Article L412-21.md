@@ -8,4 +8,4 @@ obligatoire cette institution.
 
 Aucune limitation ne peut être apportée aux dispositions relatives à l'exercice
 du droit syndical, tel qu'il est défini par le présent chapitre, par note de
-service ou décision unilatérale de l'employeur [*interdiction*].
+service ou décision unilatérale de l'employeur.

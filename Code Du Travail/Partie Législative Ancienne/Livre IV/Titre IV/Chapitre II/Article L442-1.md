@@ -1,12 +1,19 @@
 Article L442-1
 ----
-Toute entreprise employant habituellement plus de cent salariés, quelles que
-soient la nature de son activité et sa forme juridique, est soumise aux
+Toute entreprise employant habituellement au moins cinquante salariés, quelles
+que soient la nature de son activité et sa forme juridique, est soumise aux
 obligations de la présente section, destinées à garantir le droit de ses
-salariés à participer aux fruits de l'expansion de l'entreprise.
+salariés à participer aux résultats de l'entreprise.
 
-Pour l'application des dispositions qui précèdent l'effectif des salariés
+Pour l'application des dispositions qui précèdent, l'effectif des salariés
 employés habituellement par les entreprises de travail temporaire est calculé en
 ajoutant au nombre des salariés permanents le nombre moyen par jour ouvrable des
 salariés qui ont été liés par un contrat de travail temporaire au cours de
 l'exercice.
+
+Les entreprises constituant une unité économique et sociale reconnue dans les
+conditions prévues au dernier alinéa de l'article L. 431-1 et employant
+habituellement au moins cinquante salariés sont également soumises aux
+obligations de la présente section, qu'elles mettent en oeuvre soit par un
+accord unique couvrant l'unité économique et sociale, soit par des accords
+distincts couvrant l'ensemble des salariés de ces entreprises.

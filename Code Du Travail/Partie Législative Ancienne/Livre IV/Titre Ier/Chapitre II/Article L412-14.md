@@ -3,7 +3,7 @@ Article L412-14
 Le ou les délégués syndicaux doivent être âgés de dix-huit ans accomplis,
 travailler dans l'entreprise depuis un an au moins [*ancienneté*] et n'avoir
 encouru aucune des condamnations prévues aux articles L. 5 et L. 6 du code
-électoral [*conditions*].
+électoral.
 
 Le délai d'un an prévu à l'alinéa ci-dessus est réduit à quatre mois dans le cas
 de création d'entreprise ou d'ouverture d'établissement. Dans les entreprises de

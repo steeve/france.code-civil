@@ -28,3 +28,11 @@ chaque année une négociation sur ce thème.
 Dans ces entreprises, comportant des établissements ou groupes d'établissements
 distincts, cette négociation peut avoir lieu au niveau de ces établissements ou
 groupes d'établissements.
+
+Lorsque les salariés ne sont pas couverts par un accord de branche ou par un
+accord conclu en application des articles L. 441-1, L. 442-10, L. 443-1, L.
+443-1-1 ou L. 443-1-2, l'employeur est tenu d'engager, chaque année, une
+négociation sur un ou plusieurs des dispositifs prévus par ces articles et, s'il
+y a lieu, sur l'affectation d'une partie des sommes collectées dans le cadre du
+plan mis en place en application de l'article L. 443-1-2 à l'acquisition de
+parts des fonds solidaires mentionnés au III de l'article L. 443-1-2.

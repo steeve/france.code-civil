@@ -27,10 +27,9 @@ qui en tient lieu.
 
 De même, dans les sociétés anonymes dans lesquelles le conseil d'administration
 ou de surveillance comprend des administrateurs ou des membres élus par les
-salariés au titre des articles 97-1 et 137-1 de la loi n° 66-537 du 24 juillet
-1966 sur les sociétés commerciales, la représentation du comité d'entreprise
-auprès de ces conseils est assurée par un membre titulaire du comité désigné par
-ce dernier.
+salariés au titre des articles L. 225-27 et L. 225-79 du code de commerce, la
+représentation du comité d'entreprise auprès de ces conseils est assurée par un
+membre titulaire du comité désigné par ce dernier.
 
 Dans les sociétés par actions simplifiées, les statuts précisent l'organe social
 auprès duquel les délégués du comité d'entreprise exercent les droits définis

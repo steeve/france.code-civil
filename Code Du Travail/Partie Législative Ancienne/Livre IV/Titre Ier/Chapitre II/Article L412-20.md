@@ -1,13 +1,12 @@
 Article L412-20
 ----
 Chaque délégué syndical dispose d'un temps nécessaire à l'exercice de ses
-fonctions [*crédit d'heure*]. Ce temps est au moins égal à dix heures par mois
-dans les entreprises ou établissements occupant de cinquante à cent cinquante
-salariés [*effectif*], quinze heures par mois dans les entreprises ou
-établissements occupant de cent cinquante et un à cinq cents salariés et vingt
-heures par mois dans les entreprises ou établissements occupant plus de cinq
-cents salariés. Ce temps peut être dépassé en cas de circonstances
-exceptionnelles.
+fonctions. Ce temps est au moins égal à dix heures par mois dans les entreprises
+ou établissements occupant de cinquante à cent cinquante salariés, quinze heures
+par mois dans les entreprises ou établissements occupant de cent cinquante et un
+à cinq cents salariés et vingt heures par mois dans les entreprises ou
+établissements occupant plus de cinq cents salariés. Ce temps peut être dépassé
+en cas de circonstances exceptionnelles.
 
 Dans les entreprises ou établissements où en application de l'article L. 412-11
 sont désignés pour chaque section syndicale plusieurs délégués, ceux-ci peuvent
@@ -17,7 +16,7 @@ ci-dessus ; ils en informent le chef d'entreprise.
 Le délégué syndical central prévu au premier alinéa de l'article L. 412-12
 dispose de vingt heures par mois pour l'exercice de ses fonctions. Ces heures
 s'ajoutent à celles dont il peut disposer à un titre autre que celui de délégué
-syndical d'établissement [*cumul*].
+syndical d'établissement.
 
 En outre, chaque section syndicale dispose, au profit de son ou ses délégués
 syndicaux et des salariés de l'entreprise appelés à négocier la convention ou
@@ -38,7 +37,7 @@ du chef d'entreprise ne sont pas imputables sur les heures fixées ci-dessus.
 Dans les entreprises de travail temporaire, les heures de délégation utilisées
 entre deux missions, conformément à des dispositions conventionnelles, par un
 délégué syndical salarié temporaire pour l'exercice de son mandat sont
-considérées comme des heures de travail [*rémunérées*]. Elles sont réputées être
-rattachées, pour ce qui concerne leur rémunération et les charges sociales y
-afférentes, au dernier contrat de travail avec l'entreprise de travail
-temporaire au titre de laquelle il avait été désigné comme délégué syndical.
+considérées comme des heures de travail. Elles sont réputées être rattachées,
+pour ce qui concerne leur rémunération et les charges sociales y afférentes, au
+dernier contrat de travail avec l'entreprise de travail temporaire au titre de
+laquelle il avait été désigné comme délégué syndical.

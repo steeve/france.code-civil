@@ -6,8 +6,8 @@ représentant.
 Il est procédé par le comité de groupe à la désignation, à la majorité des voix,
 d'un secrétaire pris parmi ses membres.
 
-Le comité de groupe se réunit au moins une fois par an sur convocation de son
-président.
+Le comité de groupe se réunit au moins une fois par an [*périodicité*] sur
+convocation de son président.
 
 L'ordre du jour est arrêté par le président et le secrétaire et communiqué aux
 membres quinze jours au moins avant la séance.

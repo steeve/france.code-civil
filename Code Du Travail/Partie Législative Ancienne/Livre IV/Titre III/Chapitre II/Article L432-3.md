@@ -8,12 +8,12 @@ des qualifications et des modes de rémunération.
 A cet effet, il étudie les incidences sur les conditions de travail des projets
 et décisions de l'employeur dans les domaines susvisés et formule des
 propositions. Il bénéficie du concours du comité d'hygiène, de sécurité et des
-conditions de travail dans les matières, relevant de la compétence de ce comité
+conditions de travail dans les matières relevant de la compétence de ce comité
 dont les avis lui sont transmis.
 
-Le comité d'entreprise peut confier [*délégation de pouvoirs*] au comité
-d'hygiène, de sécurité et des conditions de travail le soin de procéder à des
-études portant sur des matières de la compétence de ce dernier comité.
+Le comité d'entreprise peut confier au comité d'hygiène, de sécurité et des
+conditions de travail le soin de procéder à des études portant sur des matières
+de la compétence de ce dernier comité.
 
 Le comité d'entreprise est consulté sur la durée et l'aménagement du temps de
 travail ainsi que sur le plan d'étalement des congés dans les conditions prévues
@@ -38,7 +38,7 @@ conditions de logement des travailleurs étrangers que l'entreprise se propose d
 recruter selon les modalités prévues à l'article L. 341-9.
 
 Il est obligatoirement consulté sur les orientations de la formation
-professionnelle dans l'entreprise dans les conditions prévues à l'article l.
+professionnelle dans l'entreprise dans les conditions prévues à l'article L.
 933-1 du présent code et donne son avis sur le plan de formation de l'entreprise
 dans les conditions prévues à l'article L. 933-3.
 

@@ -27,8 +27,10 @@ l'article L. 443-5 du code du travail ;
 
 2° L'augmentation de capital n'est réalisée qu'à concurrence du montant des
 actions souscrites par les salariés individuellement ou par l'intermédiaire d'un
-fonds commun de placement. Elle ne donne pas lieu aux formalités prévues aux
-articles L. 225-142, L. 225-144 et L. 225-146 ;
+fonds commun de placement ou des titres émis par des sociétés d'investissement à
+capital variable régies par l'article L. 214-40-1 du code monétaire et
+financier. Elle ne donne pas lieu aux formalités prévues aux articles L.
+225-142, L. 225-144 et L. 225-146 ;
 
 3° L'émission par une société dont les actions sont admises aux négociations sur
 un marché réglementé peut être réalisée dans un délai de cinq ans à compter de
@@ -42,8 +44,17 @@ du souscripteur, soit par versements périodiques, soit par prélèvements égau
 réguliers sur le salaire du souscripteur ;
 
 6° Les actions ainsi souscrites délivrées avant l'expiration du délai de cinq
-ans prévu à l'article L. 443-6 du code du travail ne sont négociables qu'après
-avoir été intégralement libérées ;
+ans prévu à l'article L. 443-6 du code du travail ou des délais de sept ou dix
+ans prévus au deuxième alinéa du I de l'article L. 443-1-2 dudit code ne sont
+négociables qu'après avoir été intégralement libérées ;
 
-7° L'émission d'actions nouvelles à libérer en numéraire est autorisée alors
-même que les actions mentionnées au 6° ne seraient pas intégralement libérées.
+7° Les actions réservées aux adhérents aux plans d'épargne mentionnés aux
+articles L. 443-1 et L. 443-1-2 du code du travail peuvent, par dérogation aux
+dispositions du premier alinéa de l'article L. 225-131, être émises alors même
+que le capital social n'aurait pas été intégralement libéré.
+
+Les participants aux plans mentionnés respectivement aux articles L. 443-1 et L.
+443-1-2 du code du travail peuvent obtenir la résiliation ou la réduction de
+leur engagement de souscription ou de détention d'actions émises par
+l'entreprise dans les cas et conditions fixés par les décrets en Conseil d'Etat
+prévus aux articles L. 442-7 et L. 443-1-2 du même code.

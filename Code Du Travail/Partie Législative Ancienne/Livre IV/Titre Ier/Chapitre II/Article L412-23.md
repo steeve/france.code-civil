@@ -22,7 +22,7 @@ appartiennent, avec garantie de réintégration dans leur emploi ou un emploi
 syndicales représentatives dans l'entreprise, qui sont chargés de
 responsabilités au sein de leurs sections syndicales, peuvent s'absenter, sans
 perte de rémunération, pour participer aux réunions statutaires de leurs organes
-dirigeants et pour exercer leurs responsabilités [*crédit d'heures*] ;
+dirigeants et pour exercer leurs responsabilités *crédit d'heures* ;
 
 4 - Les conditions et les limites dans lesquelles les membres des sections
 syndicales, qui sont chargés de responsabilités au sein de leurs organisations

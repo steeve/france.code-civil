@@ -6,7 +6,7 @@ libérales, les sociétés civiles, les syndicats professionnels, les sociétés
 mutualistes, les organismes de sécurité sociale, à l'exception de ceux qui ont
 le caractère d'établissement public administratif, et les associations ou tout
 organisme de droit privé, quels que soient leur forme et leur objet, où sont
-occupés au moins onze salariés [*condition d'effectif*].
+occupés au moins onze salariés.
 
 La mise en place des délégués du personnel n'est obligatoire que si l'effectif
 d'au moins onze salariés est atteint pendant douze mois, consécutifs ou non, au

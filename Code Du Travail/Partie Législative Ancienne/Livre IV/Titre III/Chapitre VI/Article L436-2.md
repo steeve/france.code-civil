@@ -10,9 +10,9 @@ renouveler le contrat qui comporte une clause de report de terme.
 L'arrivée du terme du contrat n'entraîne la cessation du lien contractuel
 qu'après constatation par l'inspecteur du travail, saisi dans les conditions
 prévues à l'article L. 436-1, que le salarié ne fait pas l'objet d'une mesure
-discriminatoire. Un mois avant l'arrivée du terme du contrat, l'employeur doit
-saisir l'inspecteur du travail qui doit statuer avant la date du terme du
-contrat.
+discriminatoire. Un mois avant l'arrivée du terme du contrat *délai*,
+l'employeur doit saisir l'inspecteur du travail qui doit statuer avant la date
+du terme du contrat.
 
 Les dispositions des deux alinéas précédents sont applicables pendant les délais
 prévus au précédent article. Dans les branches d'activité à caractère

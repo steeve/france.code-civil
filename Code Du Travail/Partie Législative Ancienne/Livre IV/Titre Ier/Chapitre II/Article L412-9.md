@@ -1,9 +1,8 @@
 Article L412-9
 ----
 Dans les entreprises ou les établissements où sont occupés plus de deux cents
-salariés [*condition d'effectifs*], le chef d'entreprise met [*mis*] à la
-disposition des sections syndicales un local commun convenant à l'exercice de la
-mission de leurs délégués.
+salariés, le chef d'entreprise met à la disposition des sections syndicales un
+local commun convenant à l'exercice de la mission de leurs délégués.
 
 Dans les entreprises ou établissements où sont occupés au moins mille salariés,
 l'employeur ou son représentant met [*mis*] à la disposition de chaque section

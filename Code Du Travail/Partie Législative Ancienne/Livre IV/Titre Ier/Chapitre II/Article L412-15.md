@@ -4,7 +4,7 @@ Les contestations relatives aux conditions de désignation des délégués syndi
 légaux ou conventionnels sont de la seule compétence du tribunal d'instance
 [*juridiction*] qui statue en dernier ressort. Le recours n'est recevable que
 s'il est introduit dans les quinze jours qui suivent l'accomplissement des
-formalités prévues au premier alinéa de l'article L. 412-16 [*délai*].
+formalités prévues au premier alinéa de l'article L. 412-16.
 
 Passé ce délai, la désignation est purgée de tout vice sans que l'employeur
 puisse exciper ultérieurement d'une irrégularité pour priver le délégué désigné
@@ -12,8 +12,7 @@ du bénéfice des dispositions de la présente section.
 
 Le tribunal d'instance statue dans les dix jours [*délai*] sans frais ni forme
 de procédure et sur simple avertissement donné trois jours à l'avance à toutes
-les parties intéressées. La décision peut être déférée à la Cour de cassation
-[*pourvoi*].
+les parties intéressées. La décision peut être déférée à la Cour de cassation.
 
 Lorsqu'une contestation rend indispensable le recours à une mesure
 d'instruction, les dépenses afférentes à cette mesure sont à la charge de

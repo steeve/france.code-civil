@@ -16,10 +16,10 @@ au moins une fois par an une négociation en vue de la conclusion éventuelle d'
 tel accord.
 
 Dans le cas où cet accord existe, l'employeur est tenu, au moins une fois tous
-les trois ans [*périodicité*], de provoquer une réunion avec le organisations
-syndicales représentatives en vue d'examiner les résultats de cet accord et
-d'engager la renégociation dudit accord à la demande d'une organisation
-syndicale représentative.
+les trois ans, de provoquer une réunion avec les organisations syndicales
+représentatives en vue d'examiner les résultats de cet accord et d'engager la
+renégociation dudit accord à la demande d'une organisation syndicale
+représentative.
 
 Dans les entreprises comportant des établissements ou groupes d'établissements
 distincts, la négociation peut avoir lieu au niveau des établissements ou des

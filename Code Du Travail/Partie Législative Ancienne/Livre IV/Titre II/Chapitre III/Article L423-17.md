@@ -1,8 +1,7 @@
 Article L423-17
 ----
 Lorsqu'un délégué titulaire cesse ses fonctions pour une des causes indiquées à
-l'article L. 423-16 [*décès, démission, résiliation du contrat de travail, perte
-des conditions d'éligibilité*], ou se trouve momentanément absent pour une cause
+l'article L. 423-16, ou se trouve momentanément absent pour une cause
 quelconque, son remplacement est assuré par un membre suppléant appartenant à
 une liste présentée par l'organisation syndicale qui a présenté la liste sur
 laquelle le titulaire à remplacer a été élu, la priorité étant donnée au

@@ -7,4 +7,4 @@ d'entreprise ou, à défaut, les délégués du personnel, sur les modalités
 d'exercice du droit d'expression des salariés.
 
 Dans les entreprises où aucun délégué syndical n'a été désigné, la consultation
-prévue à l'alinéa précédent a lieu au moins une fois par an [*périodicité*].
+prévue à l'alinéa précédent a lieu au moins une fois par an *périodicité*.

@@ -11,7 +11,7 @@ Ces accords peuvent prévoir :
 1. L'attribution d'actions ou de coupures d'actions de l'entreprise, ces actions
 ou coupures d'actions provenant d'une incorporation de réserve au capital ou
 d'un rachat préalable effectué par l'entreprise elle-même dans les conditions
-fixées par l'article 217-1 de la loi du 24 juillet 1966 ;
+fixées par l'article L. 225-208 du code de commerce ;
 
 2. La souscription d'actions émises par les sociétés créées dans les conditions
 prévues à l'article 11 de la loi du 9 juillet 1984 sur le développement de
@@ -27,14 +27,24 @@ montant des sommes versées ;
 a) Soit à l'acquisition de titres émis par des sociétés d'investissement à
 capital variable régies par les dispositions du chapitre Ier de la loi n°
 88-1201 du 23 décembre 1988 relative aux organismes de placement collectif en
-valeurs mobilières et portant création des fonds communs de créances ;
+valeurs mobilières et portant création des fonds communs de créances (2) ;
 
 b) Soit à l'acquisition de parts de fonds communs de placement régis par le
-chapitre III de la loi n° 88-1201 du 23 décembre 1988 précitée ;
+chapitre III de la loi n° 88-1201 du 23 décembre 1988 précitée (2) ;
 
 c) Soit à des comptes ouverts au nom des intéressés en application d'un plan
 d'épargne d'entreprise remplissant les conditions fixées au chapitre III du
 présent titre.
+
+Les sommes détenues par un salarié, au titre de la réserve spéciale de la
+participation des salariés aux résultats de l'entreprise, dont il n'a pas
+demandé la délivrance au moment de la rupture de son contrat de travail, peuvent
+être affectées dans le plan d'épargne de son nouvel employeur. Les sommes qu'il
+affecte au plan d'épargne d'entreprise de son nouvel employeur ne sont pas
+prises en compte pour l'appréciation du plafond mentionné au premier alinéa de
+l'article L. 443-2. Les montants transférés, suivant des modalités fixées par
+décret en Conseil d'Etat, ne donnent pas lieu au versement complémentaire de
+l'entreprise prévu à l'article L. 443-7.
 
 Les salariés qui ont adhéré à un plan d'épargne d'entreprise bénéficiant des
 avantages fiscaux prévus au chapitre III peuvent obtenir de l'entreprise que les

@@ -11,10 +11,6 @@ du travail et de la sécurité sociale.
 II. - Les sommes revenant aux salariés au titre de la participation sont
 exonérées d'impôt sur le revenu.
 
-Sous réserve de ce qui est dit au dernier alinéa du présent paragraphe, cette
-exonération porte seulement sur la moitié des sommes en cause lorsque la durée
-de l'indisponibilité a été fixée à trois ans.
-
 Les revenus provenant des sommes attribuées au titre de la participation et
 recevant la même affectation qu'elles, sont exonérés dans les mêmes conditions.
 Ils se trouvent alors frappés de la même indisponibilité que ces sommes et sont
@@ -38,12 +34,6 @@ mêmes sommes sont retirées par les salariés pour être affectées à la
 constitution du capital d'une société ayant pour objet exclusif de racheter tout
 ou partie du capital de leur entreprise dans les conditions prévues à l'article
 83 bis du code général des impôts.
-
-Les sommes qui sont reçues dans le cadre d'un accord prévoyant une période
-d'indisponibilité de trois ans, et qui sont, à la demande des salariés,
-affectées à un plan d'épargne d'entreprise dans les conditions prévues à
-l'avant-dernier alinéa de l'article L. 442-5 sont exonérées d'impôt sur le
-revenu. Les dispositions de l'article L. 443-6 sont alors applicables.
 
 III. - Les conditions dans lesquelles les entreprises peuvent constituer en
 franchise d'impôt une provision pour investissement sont fixées par le code
