@@ -6,6 +6,6 @@ services et concernant exclusivement les règlements des diverses indemnités,
 sont dispensés de timbre; ils sont enregistrés gratis lorsqu'il y a lieu à la
 formalité de l'enregistrement.
 
-II Les dispositions du I sont applicables aux réquisitions faites en vertu de
-l'article 204, dernier alinéa, du code des voies navigables et de la navigation
-intérieure.
+II Les dispositions du I sont applicables aux réquisitions faites en vertu du
+dernier alinéa de l'article 204 du code du domaine public fluvial et de la
+navigation intérieure.

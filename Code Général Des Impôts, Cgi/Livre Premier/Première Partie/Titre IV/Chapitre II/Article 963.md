@@ -2,9 +2,10 @@ Article 963
 ----
 (Voir annexe III, art. 313 AZ).
 
-I. La délivrance du certificat d'immatriculation visé à l'article 83 du code des
-voies navigables et de la navigation intérieure est subordonnée au paiement par
-le propriétaire du bateau d'un droit fixe de 70 F [*montant*] pour tous frais.
+I. La délivrance du certificat d'immatriculation visé à l'article 83 du code du
+domaine public fluvial et de la navigation intérieure est subordonnée au
+paiement par le propriétaire du bateau d'un droit fixe de 70 F [*montant*] pour
+tous frais.
 
 II. La délivrance du certificat de jaugeage est subordonnée au paiement par le
 propriétaire du bateau d'un droit fixe de 70 F, à l'exclusion de tout autre
