@@ -80,7 +80,13 @@ notamment les travailleurs temporaires,
 f) Les conditions dans lesquelles le ou les salariés, auteurs d'une invention
 dévolue à l'employeur en vertu des dispositions du deuxième alinéa de l'article
 L. 611-7 du code de la propriété intellectuelle, bénéficient d'une rémunération
-supplémentaire ;
+supplémentaire,
+
+g) Les garanties des salariés dont le contrat a été conclu en métropole pour
+exercer leur activité à partir d'un département métropolitain dans un
+département d'outre-mer, à Saint-Pierre-et-Miquelon, à Mayotte, en
+Nouvelle-Calédonie, en Polynésie française, à Wallis et Futuna ou dans les
+Terres australes et antarctiques françaises ;
 
 13° Les procédures conventionnelles de conciliation suivant lesquelles seront
 réglés les conflits collectifs de travail susceptibles de survenir entre les

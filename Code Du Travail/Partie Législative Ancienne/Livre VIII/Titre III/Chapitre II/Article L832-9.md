@@ -1,10 +1,11 @@
 Article L832-9
 ----
-Dans les départements d'outre-mer, les bénéficiaires du revenu minimum
-d'insertion, de l'allocation de solidarité spécifique, de l'allocation de
-veuvage ou de l'allocation de parent isolé bénéficient, à leur demande, d'une
-allocation de retour à l'activité pour leur réinsertion dans une activité
-professionnelle salariée ou indépendante, dans les conditions suivantes :
+Dans les départements d'outre-mer et à Saint-Pierre-et-Miquelon, les
+bénéficiaires du revenu minimum d'insertion, de l'allocation de solidarité
+spécifique, de l'allocation de veuvage ou de l'allocation de parent isolé
+bénéficient, à leur demande, d'une allocation de retour à l'activité pour leur
+réinsertion dans une activité professionnelle salariée ou indépendante, dans les
+conditions suivantes :
 
 1° L'allocation de retour à l'activité est versée par l'Etat soit lorsque
 l'intéressé crée ou reprend une entreprise, soit lorsqu'il exerce une activité

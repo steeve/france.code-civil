@@ -1,14 +1,13 @@
 Article L832-2
 ----
-Dans les départements d'outre-mer et la collectivité territoriale de
-Saint-Pierre-et-Miquelon, l'Etat peut conclure avec des employeurs des
-conventions ayant pour objet de favoriser l'insertion professionnelle des
-bénéficiaires du revenu minimum d'insertion, des chômeurs de longue durée, des
-personnes reconnues handicapées par la commission technique d'orientation et de
-reclassement professionnel, des bénéficiaires des conventions prévues à
-l'article L. 322-4-18 arrivant au terme de leur contrat avant le 1er janvier
-2008 et des personnes déterminées par décret en Conseil d'Etat rencontrant des
-difficultés particulières d'accès à l'emploi.
+Dans les départements d'outre-mer et à Saint-Pierre-et-Miquelon, l'Etat peut
+conclure avec des employeurs des conventions ayant pour objet de favoriser
+l'insertion professionnelle des bénéficiaires du revenu minimum d'insertion, des
+chômeurs de longue durée, des personnes reconnues handicapées par la commission
+technique d'orientation et de reclassement professionnel, des bénéficiaires des
+conventions prévues à l'article L. 322-4-18 arrivant au terme de leur contrat
+avant le 1er janvier 2008 et des personnes déterminées par décret en Conseil
+d'Etat rencontrant des difficultés particulières d'accès à l'emploi.
 
 I. Les contrats d'accès à l'emploi conclus en vertu de ces conventions donnent
 droit :
@@ -89,10 +88,9 @@ cette durée est portée à trente mois pour les bénéficiaires du revenu minim
 d'insertion.
 
 VI. Les conventions prévues par le présent article se substituent, dans les
-départements d'outre-mer et dans la collectivité territoriale de
-Saint-Pierre-et-Miquelon, aux conventions prévues à l'article L. 322-4-8. Les
-contrats de retour à l'emploi en cours demeurent régis jusqu'à leur terme par
-les conventions antérieurement applicables.
+départements d'outre-mer et à Saint-Pierre-et-Miquelon, aux conventions prévues
+à l'article L. 322-4-8. Les contrats de retour à l'emploi en cours demeurent
+régis jusqu'à leur terme par les conventions antérieurement applicables.
 
 VII. Le coût pour les organismes sociaux de l'exonération prévue au 2° du I
 ci-dessus est pris en charge par l'Etat.

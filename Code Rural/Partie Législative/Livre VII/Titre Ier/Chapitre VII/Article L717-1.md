@@ -6,6 +6,5 @@ applicables aux exploitations, entreprises, établissements et employeurs défin
 à l'article L. 713-1 ainsi qu'aux entreprises artisanales rurales n'employant
 pas plus de deux salariés de façon permanente.
 
-Les dispositions du présent chapitre ne sont pas applicables dans les
-départements d'outre-mer qui relèvent des dispositions des articles L. 822-2 et
-L. 822-3 du code du travail.
+Les dispositions du présent chapitre ne s'appliquent pas dans les départements
+d'outre-mer et à Saint-Pierre-et-Miquelon.
