@@ -1,8 +1,15 @@
 Article L222-2
 ----
-Les associations communales ou intercommunales de chasse agréées ont pour but de
-favoriser sur leur territoire le développement du gibier et la destruction des
-animaux nuisibles, la répression du braconnage, l'éducation cynégétique de leurs
-membres dans le respect des propriétés et des récoltes et, en général, d'assurer
-une meilleure organisation technique de la chasse pour permettre aux chasseurs
-un meilleur exercice de ce sport.
+Les associations communales et intercommunales de chasse agréées ont pour but
+d'assurer une bonne organisation technique de la chasse. Elles favorisent sur
+leur territoire le développement du gibier et de la faune sauvage dans le
+respect d'un véritable équilibre agro-sylvo-cynégétique, l'éducation cynégétique
+de leurs membres, la régulation des animaux nuisibles et veillent au respect des
+plans de chasse. Elles ont également pour objet d'apporter la contribution des
+chasseurs à la conservation des habitats naturels, de la faune et de la flore
+sauvages.
+
+Leur activité s'exerce dans le respect des propriétés, des cultures et des
+récoltes, et est coordonnée par la fédération départementale des chasseurs. Les
+associations communales et intercommunales de chasse agréées collaborent avec
+l'ensemble des partenaires du monde rural.

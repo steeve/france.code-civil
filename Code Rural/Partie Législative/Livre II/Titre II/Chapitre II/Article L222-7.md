@@ -5,7 +5,7 @@ des communes où sera créée une association communale de chasse sera arrêtée
 le représentant de l'Etat dans le département sur demande justifiant l'accord
 amiable de 60 p. 100 des propriétaires représentant 60 p. 100 de la superficie
 du territoire de la commune, cet accord étant valable pour une période d'au
-moins six années.
+moins cinq années.
 
 Dans le calcul de cette proportion ne sont pas compris les territoires déjà
 aménagés au 1er septembre 1963 supérieurs aux superficies déterminées à

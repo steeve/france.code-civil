@@ -1,16 +1,10 @@
 Article L225-3
 ----
-Pour les espèces de gibier pour lesquelles il n'est pas rendu obligatoire par
-l'article L. 225-2, l'autorité administrative peut instituer un plan de chasse
-dans les conditions fixées par décret en Conseil d'Etat.
+Le plan de chasse, qui prend en compte les orientations du schéma départemental
+de gestion cynégétique, est mis en oeuvre après avis du conseil départemental de
+la chasse et de la faune sauvage par le représentant de l'Etat dans le
+département. En cas de circonstances exceptionnelles, il pourra être fixé un
+nouveau plan de chasse se substituant au plan de chasse en cours.
 
-Un tel plan de chasse peut notamment être institué :
-
-1° Pour les chamois, isards, bouquetins dans les départements intéressés ;
-
-2° Pour certaines espèces d'animaux dans les parties des réserves naturelles et
-des parcs nationaux où la chasse est autorisée, ainsi que dans les zones
-périphériques des parcs nationaux ;
-
-3° Pour le grand gibier, dans des massifs locaux des zones de montagne dont les
-limites sont définies par l'autorité administrative.
+Un décret en Conseil d'Etat fixe les conditions d'application du présent
+article.

@@ -19,7 +19,8 @@ d'inspection sanitaire, de protection des animaux ou de protection des végétau
 dans l'étendue des circonscriptions pour lesquelles ils sont assermentés ;
 
 4° Les agents assermentés et commissionnés des parcs nationaux, ceux de l'Office
-national de la chasse et du Conseil supérieur de la pêche ;
+national de la chasse et de la faune sauvage et du Conseil supérieur de la pêche
+;
 
 5° Lorsque les mesures de protection portent sur le domaine public maritime ou
 les eaux territoriales, les agents habilités par le décret du 9 janvier 1852 à

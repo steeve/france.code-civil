@@ -1,8 +1,8 @@
 Article L222-13
 ----
 Pour être recevable, l'opposition des propriétaires ou détenteurs de droits de
-chasse mentionnés à l'article L. 222-9 doit porter sur des terrains d'un seul
-tenant et d'une superficie minimum de vingt hectares.
+chasse mentionnés au 3° de l'article L. 222-10 doit porter sur des terrains d'un
+seul tenant et d'une superficie minimum de vingt hectares.
 
 Ce minimum est abaissé pour la chasse au gibier d'eau :
 

@@ -16,4 +16,4 @@ des activités mentionnées au IV de l'article L. 914-6, au premier alinéa de
 l'article L. 914-7 et à l'article L. 914-8 ;
 
 4° Les agents assermentés et commissionnés de l'Office national de la chasse et
-du Conseil supérieur de la pêche.
+de la faune sauvage et du Conseil supérieur de la pêche.

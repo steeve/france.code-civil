@@ -1,6 +1,7 @@
 Article L228-22
 ----
-Le permis de chasser peut être suspendu par l'autorité judiciaire :
+Le permis de chasser ou l'autorisation de chasser mentionnée à l'article L.
+223-1-1 peut être suspendu par l'autorité judiciaire :
 
 a) En cas d'homicide involontaire ou de coups et blessures involontaires
 survenus à l'occasion d'une action de chasse ou de destruction d'animaux

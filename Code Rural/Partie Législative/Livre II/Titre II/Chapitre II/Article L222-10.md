@@ -12,4 +12,14 @@ minimales mentionnées à l'article L. 222-13 ;
 
 4° Faisant partie du domaine public de l'Etat, des départements et des communes,
 des forêts domaniales ou des emprises de la Société nationale des chemins de fer
-français.
+français ;
+
+5° Ayant fait l'objet de l'opposition de propriétaires, de l'unanimité des
+copropriétaires indivis qui, au nom de convictions personnelles opposées à la
+pratique de la chasse, interdisent, y compris pour eux-mêmes, l'exercice de la
+chasse sur leurs biens, sans préjudice des conséquences liées à la
+responsabilité du propriétaire, notamment pour les dégâts qui pourraient être
+causés par le gibier provenant de ses fonds.
+
+Lorsque le propriétaire est une personne morale, l'opposition peut être formulée
+par le responsable de l'organe délibérant mandaté par celui-ci.
