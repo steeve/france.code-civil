@@ -1,10 +1,9 @@
 Article D635-6
 ----
 Le taux de la cotisation annuelle d'assurance vieillesse complémentaire est fixé
-à 4,40 p. 100 du revenu mentionné aux articles D. 635-4 et D. 635-5.
-
-A compter du 1er janvier 1985, est due en sus de la cotisation mentionnée
-ci-dessus une cotisation additionnelle fixée à 0,10 p. 100 dudit revenu.
+à compter du 1er janvier 1997 à 4,90 %, à compter du 1er janvier 1998 à 5,30 %,
+à compter du 1er janvier 1999 à 5,70 % et à compter du 1er janvier 2000 à 6 % du
+revenu mentionné aux articles D. 635-4 et D. 635-5.
 
 La cotisation annuelle ainsi déterminée est arrondie au multiple de deux francs
 le plus voisin.
