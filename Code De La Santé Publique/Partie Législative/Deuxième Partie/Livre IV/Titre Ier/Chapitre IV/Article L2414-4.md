@@ -1,13 +1,9 @@
 Article L2414-4
 ----
-Comme il est dit à l'article 726-10 du code pénal, ci-après reproduit :
+Comme il est dit à l'article 726-11 du code pénal, ci-après reproduit :
 
-" L'article 511-19 est ainsi rédigé :
+" L'article 511-20 est ainsi rédigé :
 
-" Art. 511-19. - Est puni de sept ans d'emprisonnement et de 700 000 F d'amende
-le fait de procéder à une étude ou à une expérimentation sur l'embryon.
-
-L'alinéa précédent n'est pas applicable à une étude réalisée, à titre
-exceptionnel, à des fins médicales à condition qu'elle ne porte pas atteinte à
-l'embryon et qu'elle concerne l'embryon issu d'un couple ayant donné son
-consentement par écrit. "
+" Art. 511-20. - Le fait de procéder au diagnostic prénatal hors d'un
+établissement autorisé à cet effet est puni de deux ans d'emprisonnement et de
+200 000 F d'amende. "

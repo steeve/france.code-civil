@@ -1,9 +1,9 @@
 Article L2212-8
 ----
-Un médecin n'est jamais tenu de pratiquer une interruption volontaire de la
-grossesse mais il doit informer, au plus tard lors de la première visite,
-l'intéressée de son refus. Il est tenu de se conformer aux obligations
-mentionnées aux articles L. 2212-3 et L. 2212-5.
+Un médecin n'est jamais tenu de pratiquer une interruption volontaire de
+grossesse mais il doit informer, sans délai, l'intéressée de son refus et lui
+communiquer immédiatement le nom de praticiens susceptibles de réaliser cette
+intervention selon les modalités prévues à l'article L. 2212-2.
 
 Aucune sage-femme, aucun infirmier ou infirmière, aucun auxiliaire médical, quel
 qu'il soit, n'est tenu de concourir à une interruption de grossesse.
@@ -20,11 +20,3 @@ locaux.
 Les catégories d'établissements publics qui sont tenus de disposer des moyens
 permettant la pratique des interruptions volontaires de la grossesse sont fixées
 par décret.
-
-Dans les établissements de santé appartenant aux catégories mentionnées à
-l'alinéa précédent, le conseil d'administration désigne le service dans lequel
-les interruptions volontaires de grossesse sont pratiquées.
-
-Lorsque le chef de service concerné refuse d'en assumer la responsabilité, le
-conseil d'administration doit créer une unité dotée des moyens permettant la
-pratique des interruptions volontaires de grossesse.

@@ -20,6 +20,9 @@ celles prévues par le schéma régional d'organisation sanitaire et son annexe 
 
 3° Répondre aux besoins de services de proximité non satisfaits dans le domaine
 médico-social, notamment pour les personnes âgées et les personnes handicapées.
+Une information et une éducation à la sexualité et à la contraception sont
+notamment dispensées dans toutes les structures accueillant des personnes
+handicapées.
 
 Une charte fixe les objectifs de la communauté et indique les modalités
 juridiques de mise en oeuvre choisies par les établissements parmi celles fixées

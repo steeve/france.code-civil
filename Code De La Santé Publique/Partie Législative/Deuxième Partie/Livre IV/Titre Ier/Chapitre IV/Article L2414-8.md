@@ -1,18 +1,10 @@
 Article L2414-8
 ----
-Comme il est dit à l'article 726-14 du code pénal, ci-après reproduit :
+Comme il est dit à l'article 726-15 du code pénal, ci-après reproduit :
 
-" L'article 511-24 est ainsi rédigé :
+" L'article 511-25 est ainsi rédigé :
 
-" Art. 511-24. - Est puni de cinq ans d'emprisonnement et de 500 000 F d'amende
-le fait de procéder à des activités d'assistance médicale à la procréation
-lorsque celles-ci ne répondent pas à la demande parentale d'un couple ou lorsque
-le couple bénéficiaire n'est pas composé d'un homme et d'une femme vivants, en
-âge de procréer, mariés ou en mesure d'apporter la preuve d'une vie commune d'au
-moins deux ans et ayant préalablement consenti au transfert des embryons ou à
-l'insémination artificielle.
-
-Est puni des mêmes peines le fait de procéder à des activités d'assistance
-médicale en vue d'un objet autre que de remédier à une infertilité dont le
-caractère pathologique a été médicalement diagnostiqué ou d'éviter la
-transmission à un enfant d'une maladie d'une particulière gravité. "
+" Art. 511-25. - Le fait de procéder au transfert d'un embryon sans avoir pris
+connaissance des résultats des tests de dépistage de maladies infectieuses
+exigés en application des dispositions en vigueur localement est puni de deux
+ans d'emprisonnement et de 200 000 F d'amende. "

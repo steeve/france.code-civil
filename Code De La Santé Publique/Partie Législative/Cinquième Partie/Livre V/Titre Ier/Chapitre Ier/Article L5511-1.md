@@ -11,6 +11,6 @@ livre Ier de la présente partie :
 l'article L. 5125-32, du dernier alinéa de l'article L. 5126-1 et des articles
 L. 5126-2 et L. 5126-3 ;
 
-3° Le titre III, à l'exception de l'article L. 5134-3 ;
+3° Le titre III, à l'exception du 2° de l'article L. 5134-3 ;
 
 4° Le titre IV.

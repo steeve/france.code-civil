@@ -1,14 +1,18 @@
 Article L2422-2
 ----
-Comme il est dit à l'article 713-2 du code pénal, ci-après reproduit :
+Pour leur application dans le territoire des îles Wallis-et-Futuna :
 
-" I. - Le premier alinéa de l'article 223-11 est rédigé comme suit :
+1° Le 3° de l'article L. 2222-2 est ainsi rédigé :
 
-1° Après la fin de la dixième semaine de grossesse, sauf si elle pratiquée pour
-un motif thérapeutique.
-
-II. - Le 3° de l'article 223-11 est rédigé comme suit :
-
-3° Dans un lieu autre qu'un établissement d'hospitalisation public ou qu'un
+"3° Dans un lieu autre qu'un établissement d'hospitalisation public ou qu'un
 établissement d'hospitalisation privé satisfaisant aux conditions prévues par la
-réglementation applicable localement. "
+réglementation applicable localement." ;
+
+2° Aux articles L. 2223-1 et L. 2223-2, les mots : "par les articles L. 2212-3 à
+L. 2212-8" sont remplacés par les mots : "par les dispositions législatives ou
+réglementaires applicables localement" ;
+
+3° A l'article L. 2223-2, les mots : "mentionnés à l'article L. 2212-2" sont
+remplacés par les mots : "de santé, publics ou privés, autorisés à pratiquer des
+interruptions volontaires de grossesse par la réglementation applicable
+localement".

@@ -1,23 +1,20 @@
 Article L2212-4
 ----
-Une femme s'estimant placée dans la situation mentionnée à l'article L. 2212-1
-doit, après la démarche prévue à l'article L. 2212-3, consulter un établissement
-d'information, de consultation ou de conseil familial, un centre de
-planification ou d'éducation familiale, un service social ou un autre organisme
-agréé qui doit lui délivrer une attestation de consultation.
+Il est systématiquement proposé, avant et après l'interruption volontaire de
+grossesse, à la femme majeure une consultation avec une personne ayant satisfait
+à une formation qualifiante en conseil conjugal ou toute autre personne
+qualifiée dans un établissement d'information, de consultation ou de conseil
+familial, un centre de planification ou d'éducation familiale, un service social
+ou un autre organisme agréé. Cette consultation préalable comporte un entretien
+particulier au cours duquel une assistance ou des conseils appropriés à la
+situation de l'intéressée lui sont apportés.
 
-Cette consultation comporte un entretien particulier au cours duquel une
-assistance et des conseils appropriés à la situation de l'intéressée lui sont
-apportés, ainsi que les moyens nécessaires pour résoudre les problèmes sociaux
-posés, en vue notamment de permettre à celle-ci de garder son enfant. A cette
-occasion, lui sont communiqués les noms et adresses des personnes qui, soit à
-titre individuel, soit au nom d'un organisme, d'un service ou d'une association,
-seraient susceptibles d'apporter une aide morale ou matérielle aux femmes et aux
-couples confrontés aux problèmes de l'accueil de l'enfant.
-
-Sauf en ce qui concerne les établissements publics de santé, ces consultations
-ne peuvent se dérouler à l'intérieur des établissements dans lesquels sont
-pratiquées des interruptions volontaires de la grossesse.
+Pour la femme mineure non émancipée, cette consultation préalable est
+obligatoire et l'organisme concerné doit lui délivrer une attestation de
+consultation. Si elle exprime le désir de garder le secret à l'égard des
+titulaires de l'autorité parentale ou de son représentant légal, elle doit être
+conseillée sur le choix de la personne majeure mentionnée à l'article L. 2212-7
+susceptible de l'accompagner dans sa démarche.
 
 Les personnels des organismes mentionnés au premier alinéa sont soumis aux
 dispositions des articles 226-13 et 226-14 du code pénal.
