@@ -1,30 +1,55 @@
 Article L442-8
 ----
-I.- Les sommes portées à la réserve spéciale de participation au cours d'un
+I. - Les sommes portées à la réserve spéciale de participation au cours d'un
 exercice sont déductibles pour l'assiette de l'impôt sur les sociétés ou de
-l'impôt sur le revenu des personnes physiques exigible au titre de cet exercice.
+l'impôt sur le revenu exigible au titre de l'exercice au cours duquel elles sont
+réparties entre les salariés.
 
-Elles ne sont pas soumises au versement forfaitaire prévu à l'article 231 du
+Elles ne sont pas soumises à la taxe sur les salaires prévue à l'article 231 du
 code général des impôts et ne sont pas prises en considération pour
 l'application de la législation du travail et de la sécurité sociale.
 
-II.- Les sommes revenant aux salariés au titre de la participation ne sont pas
-soumises à l'impôt sur le revenu des personnes physiques [*IRPP*] .
+II. - Les sommes revenant aux salariés au titre de la participation sont
+exonérées d'impôt sur le revenu.
 
-Les revenus provenant des sommes attribuées aux salariés au titre de la
-participation ne sont pas soumis à l'impôt sur le revenu s'ils reçoivent la même
-affectation que ces sommes. Ils se trouvent alors frappés de la même
-indisponibilité que ces dernières et ne sont définitivement exonérés qu'à
-l'expiration de la période d'indisponibilité correspondante.
+Sous réserve de ce qui est dit au dernier alinéa du présent paragraphe, cette
+exonération porte seulement sur la moitié des sommes en cause lorsque la durée
+de l'indisponibilité a été fixée à trois ans.
 
-Après l'expiration de la période d'indisponibilité visée à l'article L. 442-7,
-l'exonération est toutefois maintenue pour les revenus provenant des sommes
-utilisées pour acquérir des actions de l'entreprise ou versées à des organismes
-de placement étrangers à l'entreprise au sens de l'article L. 442-5 (3.) tant
+Les revenus provenant des sommes attribuées au titre de la participation et
+recevant la même affectation qu'elles, sont exonérés dans les mêmes conditions.
+Ils se trouvent alors frappés de la même indisponibilité que ces sommes et sont
+définitivement exonérés à l'expiration de la période d'indisponibilité
+correspondante.
+
+Après l'expiration de la période d'indisponibilité, l'exonération est toutefois
+maintenue pour les revenus provenant de sommes utilisées pour acquérir des
+actions de l'entreprise ou versées à des organismes de placement extérieurs à
+l'entreprise tels que ceux-ci sont énumérés au 4° de l'article L. 442-5, tant
 que les salariés ne demandent pas la délivrance des droits constitués à leur
 profit.
 
 Cette exonération est maintenue dans les mêmes conditions dans le cas où les
-salariés transfèrent sans délai au profit des organismes de placement visés à
-l'article L. 442-5 (3.) les sommes initialement investies dans l'entreprise
-conformément aux dispositions de l'article L. 442-5 (2.).
+salariés transfèrent sans délai au profit des organismes de placement mentionnés
+au 4° de l'article L. 442-5 les sommes initialement investies dans l'entreprise
+conformément aux dispositions du 3° de cet article.
+
+Cette exonération est également maintenue dans les mêmes conditions lorsque ces
+mêmes sommes sont retirées par les salariés pour être affectées à la
+constitution du capital d'une société ayant pour objet exclusif de racheter tout
+ou partie du capital de leur entreprise dans les conditions prévues à l'article
+83 bis du code général des impôts.
+
+Les sommes qui sont reçues dans le cadre d'un accord prévoyant une période
+d'indisponibilité de trois ans, et qui sont, à la demande des salariés,
+affectées à un plan d'épargne d'entreprise dans les conditions prévues à
+l'avant-dernier alinéa de l'article L. 442-5 sont exonérées d'impôt sur le
+revenu. Les dispositions de l'article L. 443-6 sont alors applicables.
+
+III. - Les conditions dans lesquelles les entreprises peuvent constituer en
+franchise d'impôt une provision pour investissement sont fixées par le code
+général des impôts.
+
+IV. - Pour ouvrir droit aux exonérations prévues au présent article, les accords
+de participation doivent avoir été déposés à la direction départementale du
+travail et de l'emploi du lieu où ils ont été conclus.

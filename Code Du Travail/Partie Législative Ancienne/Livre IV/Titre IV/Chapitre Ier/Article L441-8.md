@@ -1,16 +1,14 @@
 Article L441-8
 ----
-Il est constitué auprès du ministre chargé du travail un comité national
-consultatif.
+Dans le cas où un accord d'intéressement est conclu dans le cadre d'une
+convention ou d'un accord collectif de travail, celui-ci peut prévoir que les
+primes alimentent un compte épargne-temps dans les conditions prévues à
+l'article L. 227-1.
 
-Ce comité siège sous la présidence du ministre chargé du travail et comporte
-[*composition*] des représentants des administrations intéressées et des
-représentants des organisations syndicales d'employeurs et de travailleurs les
-plus représentatives sur le plan national. Les représentants de ces deux
-dernières catégories sont en nombre égal. Le comité peut faire appel à toute
-personne ayant une connaissance particulière ou une expérience effective des
-questions concernant l'intéressement du personnel à l'entreprise.
+L'accord d'intéressement précise les modalités selon lesquelles le choix du
+salarié s'effectuera lors de la répartition de l'intéressement.
 
-Il peut demander à être informé des travaux des commissions départementales et
-de la commission nationale prévues respectivement aux articles L. 441-5 et L.
-441-6.
+Lorsque des droits à congé rémunéré ont été accumulés en contrepartie du
+versement au compte épargne-temps de primes d'intéressement, les indemnités
+compensatrices correspondantes ne bénéficient pas de l'exonération de
+cotisations sociales prévue à l'article L. 441-4.
