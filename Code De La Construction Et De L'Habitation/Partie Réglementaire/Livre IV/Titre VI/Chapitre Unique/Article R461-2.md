@@ -1,78 +1,43 @@
 Article R461-2
 ----
-Le conseil supérieur des habitations à loyer modéré, placé sous la présidence du
-ministre chargé de la construction et de l'habitation, est composé comme suit :
+Le Conseil supérieur des habitations à loyer modéré est composé comme suit :
 
-1. Membres désignés par le ministre chargé de la construction et de l'habitation
-:
+1° Le directeur général de l'urbanisme, de l'habitat et de la construction ou
+son représentant ;
 
-- six membres de l'Assemblée nationale et trois membres du Sénat ;
+2° Le chef de la mission interministérielle d'inspection du logement social ou
+son représentant ;
 
-- Un membre du Conseil économique et social ;
+3° Le directeur du Trésor ou son représentant ;
 
-- une personnalité choisie en raison de sa compétence ;
+4° Le directeur général de la comptabilité publique ou son représentant ;
 
-2. Membres désignés par les corps auxquels ils appartiennent :
+5° Le directeur général des collectivités locales ou son représentant ;
 
-un membre du Conseil d'Etat désigné par l'assemblée générale du Conseil d'Etat ;
+6° Le directeur général de l'action sociale ou son représentant ;
 
-- un membre de la Cour des comptes désigné par la Cour des comptes ;
+7° Le directeur général de la Caisse des dépôts et consignations ou son
+représentant ;
 
-3. Membres de droit :
+8° Le président de la Fédération nationale des offices publics d'habitations à
+loyer modéré ou son représentant ;
 
-- le directeur de la construction ;
+9° Le président de la Fédération nationale des sociétés anonymes et fondations
+d'habitations à loyer modéré ou son représentant ;
 
-- le délégué à l'aménagement du territoire ;
+10° Le président de la Fédération nationale des sociétés coopératives
+d'habitations à loyer modéré ou son représentant ;
 
-- le chef du service chargé des habitations à loyer modéré ;
+11° Le président de la chambre syndicale des sociétés anonymes de crédit
+immobilier ou son représentant ;
 
-- le directeur du budget ;
+12° Le président de l'Union nationale des fédérations d'organismes d'habitations
+à loyer modéré ou son représentant.
 
-- le directeur du Trésor ;
+Le conseil peut, en outre, appeler à participer, avec voix consultative, à ses
+délibérations, toute personne dont la présence lui paraît utile à l'examen des
+questions soumises à l'ordre du jour.
 
-- le directeur général des collectivités locales ;
-
-- le directeur général de la caisse des dépôts et consignations ;
-
-- le gouvernement du Crédit foncier de France ;
-
-4. Membres désignés par le ministre dont ils relèvent :
-
-- un inspecteur général ou un inspecteur des finances ;
-
-- un représentant du ministre chargé de la santé ;
-
-- un représentant du ministre chargé de l'agriculture ;
-
-- un représentant du ministre chargé de la sécurité sociale ;
-
-5. Membres désignés par les organismes intéressés :
-
-- un représentant des [*comités départementaux des habitations à loyer modéré*]
-conseils départementaux de l'habitat ;
-
-- deux représentants des offices publics d'habitations à loyer modéré ;
-
-- un représentant des sociétés anonymes ou fondations d'habitations à loyer
-modéré ;
-
-- un représentant des sociétés coopératives d'habitations à loyer modéré ;
-
-- un représentant des sociétés de crédit immobilier ;
-
-- un représentant de la caisse nationale des allocations familiales ;
-
-- un représentant de l'union nationale des associations familiales ;
-
-- deux représentants des comités interprofessionnels du logement ;
-
-- un membre du conseil supérieur de la mutualité ;
-
-- un membre du conseil national des assurances ;
-
-- un membre du comité national de l'habitat rural ;
-
-- un représentant de l'ordre des architectes ;
-
-- un représentant des caisses d'épargne désigné par la conférence générale des
-caisses d'épargne.
+Le conseil supérieur est placé sous la présidence du directeur général de
+l'urbanisme, de l'habitat et de la construction ou de son représentant. Le
+président a voix prépondérante en cas de partage égal des voix.

@@ -24,7 +24,8 @@ que l'écrit ou le livre ;
 3°) Branche des arts graphiques et plastiques :
 
 - auteurs d'oeuvres originales graphiques et plastiques telles que celles
-définies par l'article 71 de l'annexe III du code général des impôts ;
+définies par les alinéas 1° à 6° du II de l'article 98 A de l'annexe III du code
+général des impôts ;
 
 4°) Branche du cinéma et de la télévision :
 
