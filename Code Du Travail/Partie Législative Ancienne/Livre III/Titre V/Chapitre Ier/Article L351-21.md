@@ -14,3 +14,13 @@ précédent.
 Les agents des services des impôts ainsi que ceux des organismes de sécurité
 sociale peuvent communiquer à ces organismes les renseignements nécessaires à
 l'assiette des cotisations et au calcul des prestations.
+
+Les informations détenues par les organismes de sécurité sociale peuvent être
+rapprochées de celles détenues par les organismes mentionnés au présent article
+pour la vérification du versement des contributions mentionnées à l'article L.
+351-3 et la vérification des droits des salariés au revenu de remplacement prévu
+à l'article L. 351-2.
+
+Les conditions d'application du présent article seront précisées par décret en
+Conseil d'Etat pris après avis de la Commission nationale de l'informatique et
+des libertés.

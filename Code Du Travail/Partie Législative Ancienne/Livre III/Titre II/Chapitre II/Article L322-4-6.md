@@ -13,11 +13,20 @@ justifient de cent cinquante trimestres d'assurance, au sens de l'article L.
 351-1 du code de la sécurité sociale ;
 
 2° Dans la limite d'une période de dix-huit mois suivant la date d'embauche pour
-les demandeurs d'emploi depuis plus de trois ans, pour les bénéficiaires de
-l'allocation de revenu minimum d'insertion sans emploi depuis plus d'un an,
-ainsi que pour les travailleurs reconnus handicapés par la commission technique
-d'orientation et de reclassement professionnel et pour les autres bénéficiaires
-de l'obligation d'emploi prévue à l'article L. 323-1 ;
+:
+
+- les demandeurs d'emploi de plus de trois ans ;
+
+- les personnes âgées de plus de cinquante ans privées d'emploi depuis une durée
+ou dans des conditions particulières précisées par décret en Conseil d'Etat, et
+à l'exception de celles visées au 1° du présent article ;
+
+- les bénéficiaires de l'allocation de revenu minimum d'insertion sans emploi
+depuis plus d'un an ;
+
+- les travailleurs reconnus handicapés par la commission technique d'orientation
+et de reclassement professionnel et les autres bénéficiaires de l'obligation
+d'emploi prévue à l'article L. 323-1 ;
 
 3° Dans la limite d'une période de neuf mois suivant la date d'embauche pour les
 autres bénéficiaires.

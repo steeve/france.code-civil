@@ -18,13 +18,13 @@ Les conventions peuvent être également conclues avec des employeurs visés à
 l'article L. 124-1 dont l'activité exclusive consiste, au moyen de la conclusion
 de contrats de travail temporaire, à faciliter l'insertion des personnes prévues
 au premier alinéa ci-dessus par l'exercice d'une activité professionnelle.
-L'activité de ces employeurs est soumise à l'ensemble des dispositions des
-sections 1 à 3 du chapitre IV du titre II du livre Ier du présent code,
-relatives au régime juridique des entreprises de travail temporaire et des
-contrats de travail temporaire. Toutefois, par dérogation aux dispositions du II
-de l'article L. 124-2-2, la durée des contrats de travail temporaire des
-personnes visées au premier alinéa du présent article peut être portée à
-vingt-quatre mois, renouvellement compris.
+L'activité de ces employeurs est soumise à l'ensemble des dispositions du
+chapitre IV du titre II du livre Ier du présent code, relatives au régime
+juridique des entreprises de travail temporaire et des contrats de travail
+temporaire. Toutefois, par dérogation aux dispositions du II de l'article L.
+124-2-2, la durée des contrats de travail temporaire des personnes visées au
+premier alinéa du présent article peut être portée à vingt-quatre mois,
+renouvellement compris.
 
 Les conventions peuvent prévoir des aides de l'Etat dont le montant et les
 modalités sont fixés par décret.
