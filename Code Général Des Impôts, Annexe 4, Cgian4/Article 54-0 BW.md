@@ -14,10 +14,9 @@ récoltants sous le couvert du document mentionné au I de l'article 302 M du co
 général des impôts.
 
 Une personne habilitée peut être autorisée par le directeur régional des douanes
-et droits indirects à percevoir le droit de circulation et les taxes
-parafiscales lors de la répartition des capsules à ses seuls adhérents. Ces
-droits sont reversés mensuellement à la recette des douanes et droits indirects
-dont dépend la personne habilitée.
+et droits indirects à percevoir le droit de circulation lors de la répartition
+des capsules à ses seuls adhérents. Ces droits sont reversés mensuellement à la
+recette des douanes et droits indirects dont dépend la personne habilitée.
 
 Ces personnes doivent tenir une comptabilité matières dans laquelle sont repris
 :
@@ -25,7 +24,7 @@ Ces personnes doivent tenir une comptabilité matières dans laquelle sont repri
 a) En entrée, avec les références au document mentionné au I de l'article 302 M
 du code général des impôts, le nombre de capsules reçues, par catégorie (volume
 net exprimé en centilitres, couleur, pour les vins, vin tranquille ou vin
-mousseux, et, le cas échéant, titre alcoométrique volumique ...) ;
+mousseux, et, le cas échéant, titre alcoométrique volumique...) ;
 
 b) En sortie, par destinataire et par catégorie, le nombre de capsules expédiées
 ou livrées, avec les références, selon le cas, au document mentionné au I ou au
