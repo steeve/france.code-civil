@@ -10,11 +10,14 @@ procès-verbaux dressés par ces agents font foi jusqu'à preuve du contraire.
 Les infractions visées à l'article L. 480-4 peuvent être constatées par les
 agents commissionnés à cet effet par le ministre chargé des monuments
 historiques et des sites, et assermentés, lorsqu'elles affectent des immeubles
-compris dans un secteur sauvegardé ou soumis aux dispositions de la loi du 31
-décembre 1913 sur les monuments historiques ou de la loi du 2 mai 1930 relative
-aux sites et qu'elles consistent, soit dans le défaut de permis de construire,
-soit dans la non-conformité de la construction ou des travaux au permis de
-construire accordé.
+compris dans un secteur sauvegardé ou soumis aux dispositions législatives du
+code du patrimoine relatives aux monuments historiques ou aux dispositions
+législatives du code de l'environnement relatives aux sites et qu'elles
+consistent, soit dans le défaut de permis de construire, soit dans la
+non-conformité de la construction ou des travaux au permis de construire
+accordé. Il en est de même des infractions aux prescriptions établies en
+application de l'article 2 de la loi n° 2001-44 du 17 janvier 2001 relative à
+l'archéologie préventive.
 
 Lorsque l'autorité administrative et, au cas où il est compétent pour délivrer
 les autorisations, le maire ou le président de l'établissement public de
@@ -26,10 +29,10 @@ Copie du procès-verbal constatant une infraction est transmise sans délai au
 ministère public.
 
 Toute association agréée de protection de l'environnement en application des
-dispositions de l'article L.252-1 du code rural peut exercer les droits reconnus
-à la partie civile en ce qui concerne les faits constituant une infraction à
-l'alinéa 1er du présent article et portant un préjudice direct ou indirect aux
-intérêts collectifs qu'elle a pour objet de défendre.
+dispositions de l'article L. 252-1 du code rural peut exercer les droits
+reconnus à la partie civile en ce qui concerne les faits constituant une
+infraction à l'alinéa 1er du présent article et portant un préjudice direct ou
+indirect aux intérêts collectifs qu'elle a pour objet de défendre.
 
 La commune peut exercer les droits reconnus à la partie civile, en ce qui
 concerne les faits commis sur son territoire et constituant une infraction à
