@@ -6,7 +6,7 @@ des victimes d'accidents d'automobile sont fixés comme suit :
 Contribution des sociétés d'assurances : 10 % de la totalité des charges du
 fonds de garantie;
 
-Contribution des assurés : 1 % des primes.
+Contribution des assurés : 1,40 % des primes.
 
 2. La contribution des assurés est perçue sur les primes émises postérieurement
 au 30 septembre 1952, nettes d'annulation.

@@ -12,4 +12,4 @@ Contribution des responsables d'accidents corporels non assurés :
 
 - taux réduit : 5 % ;
 
-Contribution des assurés : 1 % des primes.
+Contribution des assurés : 1,40 % des primes.
