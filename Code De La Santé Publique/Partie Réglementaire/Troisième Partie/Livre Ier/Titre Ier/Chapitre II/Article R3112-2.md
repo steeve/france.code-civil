@@ -39,3 +39,5 @@ situation de précarité, y compris les cités de transit ou de promotion famili
 ;
 
 i) Foyers d'hébergement pour travailleurs migrants.
+
+5° Les sapeurs-pompiers des services d'incendie et de secours.
