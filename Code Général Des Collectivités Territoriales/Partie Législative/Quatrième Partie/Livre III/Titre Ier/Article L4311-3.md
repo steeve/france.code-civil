@@ -1,6 +1,6 @@
 Article L4311-3
 ----
-- Si le conseil régional le décide, les dotations affectées aux dépenses
+Si le conseil régional le décide, les dotations affectées aux dépenses
 d'investissement comprennent des autorisations de programme et des crédits de
 paiement.
 
@@ -24,4 +24,5 @@ autorisations de programme ouvertes au cours des exercices antérieurs, dans la
 limite d'un montant de crédits de paiement par chapitre égal au tiers des
 autorisations de programme ouvertes au cours de l'exercice précédent. Les
 crédits correspondants sont inscrits au budget lors de son adoption ou de son
-règlement.
+règlement. Le comptable est en droit de payer les mandats émis dans ces
+conditions.

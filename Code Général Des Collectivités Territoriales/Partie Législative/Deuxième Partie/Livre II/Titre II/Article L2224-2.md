@@ -1,6 +1,6 @@
 Article L2224-2
 ----
-- Il est interdit aux communes de prendre en charge dans leur budget propre des
+Il est interdit aux communes de prendre en charge dans leur budget propre des
 dépenses au titre des services publics visés à l'article L. 2224-1.
 
 Toutefois, le conseil municipal peut décider une telle prise en charge lorsque
@@ -23,3 +23,8 @@ modalités de versement des dépenses du service prises en charge par la commune
 ainsi que le ou les exercices auxquels elles se rapportent. En aucun cas, cette
 prise en charge ne peut se traduire par la compensation pure et simple d'un
 déficit de fonctionnement.
+
+L'interdiction prévue au premier alinéa n'est pas applicable aux services de
+distribution d'eau potable et d'assainissement dans les communes de moins de 3
+000 habitants et les groupements composés de communes dont la population ne
+dépasse pas 3 000 habitants.

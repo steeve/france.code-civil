@@ -8,5 +8,5 @@ Les dispositions définitives des arrêts portant sur des gestions de fait sont
 délibérées après l'audition, à leur demande, des personnes déclarées comptables
 de fait. Les arrêts statuant sur les appels formés contre les dispositions
 définitives des jugements des chambres régionales des comptes portant sur des
-gestions de fait sont délibérés après l'audition, à leur demande, des
-requérants.
+gestions de fait sont délibérés après l'audition, à leur demande, des requérants
+et des autres parties intéressées.

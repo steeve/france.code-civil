@@ -5,11 +5,17 @@ L'offre définie à l'article précédent :
 1° Mentionne l'identité des parties, et éventuellement des cautions déclarées ;
 
 2° Précise la nature, l'objet, les modalités du prêt, notamment celles qui sont
-relatives aux dates et conditions de mise à disposition des fonds ainsi qu'à
-l'échéancier des amortissements ; 3° Indique, outre le montant du crédit
-susceptible d'être consenti, et, le cas échéant, celui de ses fractions
-périodiquement disponibles, son coût total, son taux défini conformément à
-l'article L. 313-1 ainsi que, s'il y a lieu, les modalités de l'indexation ;
+relatives aux dates et conditions de mise à disposition des fonds ;
+
+2° bis. Comprend un échéancier des amortissements détaillant pour chaque
+échéance la répartition du remboursement entre le capital et les intérêts.
+Toutefois, cette disposition ne concerne pas les offres de prêts à taux variable
+;
+
+3° Indique, outre le montant du crédit susceptible d'être consenti, et, le cas
+échéant, celui de ses fractions périodiquement disponibles, son coût total, son
+taux défini conformément à l'article L. 313-1 ainsi que, s'il y a lieu, les
+modalités de l'indexation ;
 
 4° Enonce, en donnant une évaluation de leur coût, les stipulations, les
 assurances et les sûretés réelles ou personnelles exigées, qui conditionnent la
