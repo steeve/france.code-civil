@@ -29,3 +29,9 @@ fractions de six membres et une troisième fraction de sept membres.
 Le conseil national élit son président et son bureau tous les deux ans.
 
 Le président et les conseillers sont rééligibles.
+
+Une convention entre le conseil national de l'ordre et l'organe de l'ordre de la
+Nouvelle-Calédonie, d'une part, et celui de la Polynésie française, d'autre
+part, fixe les conditions de la représentation de l'organe de l'ordre auprès du
+conseil national ainsi que les modalités de coordination entre ces deux
+institutions.

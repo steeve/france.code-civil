@@ -37,3 +37,9 @@ collègues.
 
 4° Trois membres élus par les autres membres du conseil national et
 n'appartenant pas à la région parisienne.
+
+Une convention entre le conseil national de l'ordre et l'organe de l'ordre de la
+Nouvelle-Calédonie, d'une part, et celui de la Polynésie française, d'autre
+part, fixe les conditions de la représentation de l'organe de l'ordre auprès du
+conseil national ainsi que les modalités de coordination entre ces deux
+institutions.

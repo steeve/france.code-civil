@@ -40,3 +40,8 @@ d'appel devant le Conseil national de l'Ordre des pharmaciens dans le mois qui
 suit la notification de la décision [*délai, recours*]. L'appel est suspensif ;
 il peut être formé par le ministre de la Santé publique, par le conseil central
 de la section A et par tous les intéressés.
+
+Les peines et interdictions prononcées en application du présent article
+devenues définitives sont portées à la connaissance de la chambre de discipline
+de l'ordre des pharmaciens de la Nouvelle-Calédonie et de la Polynésie française
+par le conseil national de l'ordre.
