@@ -13,8 +13,9 @@ mineur ou à une personne qui n'est pas en mesure de se protéger en raison de s
 procureur de la République les sévices ou privations qu'il a constatés, sur le
 plan physique ou psychique, dans l'exercice de sa profession et qui lui
 permettent de présumer que des violences physiques, sexuelles ou psychiques de
-toute nature ont été commises. Lorsque la victime est mineure, son accord n'est
-pas nécessaire ;
+toute nature ont été commises. Lorsque la victime est un mineur ou une personne
+qui n'est pas en mesure de se protéger en raison de son âge ou de son incapacité
+physique ou psychique, son accord n'est pas nécessaire ;
 
 3° Aux professionnels de la santé ou de l'action sociale qui informent le préfet
 et, à Paris, le préfet de police du caractère dangereux pour elles-mêmes ou pour

@@ -21,14 +21,15 @@ mentionnés aux 2° et 3° de l'article L. 2212-2 et à l'article L. 2213-23 ;
 les mesures relatives à l'ordre, à la sûreté, à la sécurité et à la salubrité
 publiques, dont le champ d'application excède le territoire d'une commune ;
 
-4° En cas d'urgence, lorsque l'atteinte au bon ordre, à la salubrité, à la
-tranquillité et à la sécurité publiques l'exige et que les moyens dont dispose
-le préfet ne permettent plus de poursuivre les objectifs pour lesquels il
-détient des pouvoirs de police, celui-ci peut, par arrêté motivé, pour toutes
-les communes du département ou plusieurs ou une seule d'entre elles,
-réquisitionner tout bien et service, requérir toute personne nécessaire au
-fonctionnement de ce service ou à l'usage de ce bien et prescrire toute mesure
-utile jusqu'à ce que l'atteinte à l'ordre public ait pris fin.
+4° En cas d'urgence, lorsque l'atteinte constatée ou prévisible au bon ordre, à
+la salubrité, à la tranquillité et à la sécurité publiques l'exige et que les
+moyens dont dispose le préfet ne permettent plus de poursuivre les objectifs
+pour lesquels il détient des pouvoirs de police, celui-ci peut, par arrêté
+motivé, pour toutes les communes du département ou plusieurs ou une seule
+d'entre elles, réquisitionner tout bien ou service, requérir toute personne
+nécessaire au fonctionnement de ce service ou à l'usage de ce bien et prescrire
+toute mesure utile jusqu'à ce que l'atteinte à l'ordre public ait pris fin ou
+que les conditions de son maintien soient assurées.
 
 L'arrêté motivé fixe la nature des prestations requises, la durée de la mesure
 de réquisition ainsi que les modalités de son application.
