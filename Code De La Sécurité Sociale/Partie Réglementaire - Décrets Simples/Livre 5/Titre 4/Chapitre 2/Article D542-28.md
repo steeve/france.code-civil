@@ -4,8 +4,7 @@ L'allocation de logement est versée mensuellement pendant une période de douze
 mois débutant au 1er juillet de chaque année. Elle est calculée au début de
 cette période compte tenu de l'ensemble des sommes prises en compte sur la base
 des prévisions de versement résultant des justifications produites par
-l'allocataire. Les sommes versées mensuellement sont arrondies au franc
-immédiatement inférieur.
+l'allocataire.
 
 Le bénéficiaire doit, à la demande de l'organisme payeur, justifier des sommes
 susceptibles d'être prises en considération et qu'il a effectivement versées.
