@@ -1,28 +1,36 @@
 Article D212-6
 ----
-Le conseil d'administration de la Caisse nationale d'allocations familiales de
-la pêche maritime est composé de la manière suivante :
+Le conseil d'administration de la caisse maritime d'allocations familiales est
+composé de la manière suivante :
 
-1. Douze représentants des travailleurs indépendants, dont :
+1. Quinze représentants des assurés sociaux désignés, à raison de :
 
-- cinq désignés par la Confédération générale du travail ;
+- six par la Confédération générale du travail ;
 
-- trois désignés par la Confédération française démocratique du travail ;
+- quatre par la Confédération française démocratique du travail ;
 
-- quatre désignés par la Confédération française des travailleurs chrétiens ;
+- trois par la Confédération française des travailleurs chrétiens ;
 
-2. Huit représentants des pêcheurs salariés, dont :
+- deux par la Confédération générale du travail-Force ouvrière.
 
-- trois désignés par la Confédération générale du travail ;
+2. Quinze représentants des armateurs et des travailleurs indépendants, dont :
 
-- trois désignés par la Confédération française démocratique du travail ;
+- six représentants désignés par le Comité central des armateurs de France ;
 
-- deux désignés par la Confédération française des travailleurs chrétiens ;
+- trois représentants des armateurs désignés par l'Union des armateurs à la
+pêche de France ;
 
-3. Quatre représentants des employeurs désignés par l'Union des armateurs de la
-pêche maritime ;
+- trois représentants des travailleurs indépendants désignés par la
+Confédération générale du travail ;
 
-4. Trois représentants des associations familiales désignés par l'Union
-nationale des associations familiales ;
+- deux représentants des travailleurs indépendants désignés par la Confédération
+française des travailleurs chrétiens ;
 
-5. Une personne qualifiée désignée par le préfet de la région Poitou-Charentes.
+- un représentant des travailleurs indépendants désigné par la Confédération
+française démocratique du travail ;
+
+3. Quatre représentants des associations familiales désignés par l'Union
+nationale des associations familiales.
+
+4. Une personne qualifiée désignée par le ministre chargé de la sécurité
+sociale.
