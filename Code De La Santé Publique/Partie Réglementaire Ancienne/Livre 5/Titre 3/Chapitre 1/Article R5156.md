@@ -16,13 +16,12 @@ reprises, sans déperdition du contenu.
 
 Pour des raisons d'hygiène ou de santé publique, des arrêtés pris après avis du
 Conseil supérieur d'hygiène publique de France par les ministres chargés de la
-santé, de l'industrie et de l'agriculture [*autorités compétentes*] peuvent
-notamment :
+santé, de l'industrie, de l'agriculture, de l'environnement et de la
+consommation [*autorités compétentes*] peuvent notamment :
 
 1° Interdire l'usage de certains types de contenants ou emballages pour des
 substances ou préparations dangereuses ;
 
-2° Rendre obligatoires des systèmes de protection à l'épreuve des enfants et
-refermables ;
+2° Rendre obligatoires des systèmes de protection à l'épreuve des enfants ;
 
 3° Imposer une indication du danger détectable au toucher.

@@ -6,7 +6,9 @@ d'autorisation pour le seul usage professionnel :
 1° L'autorisation ministérielle délivrée en application des articles L. 598 ou
 L. 616 ;
 
-2° L'enregistrement à la préfecture prévu à l'article L. 574 ;
+2° L'enregistrement à la préfecture prévu à l'article L. 574 pour les
+pharmaciens titulaires d'une officine et les pharmaciens gérants des pharmacies
+mutualistes.
 
 3° L'autorisation préfectorale délivrée en application de l'article L. 577 ;
 
@@ -20,4 +22,5 @@ et toxicologie des écoles nationales vétérinaires ;
 
 7° L'agrément ministériel accordé en application de l'article L. 667 ;
 
-8° L'autorisation administrative délivrée en application de l'article L. 757.
+8° L'autorisation administrative délivrée en application de l'article L. 757. 9°
+L'autorisation du préfet délivrée en application de l'article L. 594.

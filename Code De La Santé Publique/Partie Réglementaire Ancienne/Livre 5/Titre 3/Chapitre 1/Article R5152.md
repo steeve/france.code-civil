@@ -7,7 +7,7 @@ suivantes [*liste*]:
 pénétration cutanée, peuvent entraîner des risques extrêmement graves, aigus ou
 chroniques et même la mort ;
 
-2° Substances ou préparations toxiques qui, par inhalation, ingestion ou
+2° Substances et préparations toxiques qui, par inhalation, ingestion ou
 pénétration cutanée, peuvent entraîner des risques graves, aigus ou chroniques
 et même la mort ;
 

@@ -12,5 +12,5 @@ chacune de ces substances, les dispositions du présent paragraphe qui leur sont
 applicables.
 
 Une commission dite des stupéfiants et des psychotropes formule un avis sur
-toute question que lui soumet le ministre concernant l'application des
-dispositions du présent paragraphe.
+toute question que lui soumet le ministre chargé de la santé concernant
+l'application des dispositions du présent paragraphe.

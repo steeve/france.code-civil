@@ -1,19 +1,13 @@
 Article R5179
 ----
-Sont interdits la production, la mise sur le marché, l'emploi et l'usage des
-substances suivantes, de leurs sels et des préparations en contenant ainsi que,
-d'une manière générale, tous actes commerciaux ou non relatifs à ces produits :
+Le ministre chargé de la santé peut, par arrêté, interdire la production, la
+mise sur le marché, l'emploi et l'usage de substances figurant aux tableaux de
+la convention unique sur les stupéfiants de 1961 modifiée ou de la convention de
+1971 sur les substances psychotropes, ainsi que de préparations contenant de
+telles substances.
 
-1° Diacétylmorphine ;
+Sont interdits tous actes, commerciaux ou non, relatifs à ces produits.
 
-2° Phencyclidine ;
-
-3° Ténocyclidine, ou T.C.P. ;
-
-4° Rolicyclidine, ou P.H.P. ou P.C.P.Y. ;
-
-5° Eticyclidine, ou P.C.E.
-
-Des dérogations aux dispositions précédentes pourront être accordées par le
-ministre chargé de la santé [*autorité compétente*], aux fins de recherche, de
-contrôle ou de fabrication de dérivés autorisés.
+Des dérogations aux interdictions énoncées en vertu des alinéas précédents
+peuvent être accordées par le ministre chargé de la santé aux fins de recherche
+et de contrôle ainsi que de fabrication de dérivés autorisés.

@@ -10,8 +10,10 @@ de sa résine ;
 des dérivés précités et de leurs préparations.
 
 Des dérogations aux dispositions énoncées ci-dessus peuvent être accordées par
-le ministre de la santé [*autorité compétente*], aux fins de recherche, de
-contrôle ou de fabrication de dérivés autorisés. Cependant, le ministre chargé
-de la santé, le ministre chargé de l'agriculture et le ministre chargé de
-l'industrie peuvent, par arrêté conjoint, autoriser la culture, l'importation et
-l'exportation de variétés de cannabis dépourvues de propriétés stupéfiantes.
+le ministre chargé de la santé aux fins de recherche et de contrôle ainsi que de
+fabrication de dérivés autorisés.
+
+Cependant, les ministres chargés de la santé, de l'agriculture, de l'industrie
+et des douanes peuvent, par arrêté conjoint, autoriser la culture,
+l'importation, l'exportation et l'utilisation industrielle et commerciale de
+variétés de cannabis dépourvues de propriétés stupéfiantes.

@@ -1,9 +1,8 @@
 Article R5187
 ----
 Les industriels qui fabriquent ou transforment les substances psychotropes ou
-leurs préparations, les importateurs et exportateurs sont tenus [*obligation*]
-de dresser un état annuel récapitulatif indiquant pour chaque substance
-psychotrope :
+leurs préparations, sont tenus [*obligation*] de dresser un état annuel
+récapitulatif indiquant pour chaque substance psychotrope :
 
 1° Les quantités fabriquées ;
 
@@ -14,9 +13,17 @@ psychotrope :
 4° Les quantités utilisées pour la fabrication des préparations mentionnées aux
 articles R. 5151 et R. 5192 ou la fabrication de substances non psychotropes ;
 
-5° Les quantités cédées sur le marché national ;
+5° Les quantités utilisées pour la fabrication des préparations autres que
+celles mentionnées au 4° ;
 
-6° Les quantités exportées.
+6° La nature et la quantité des produits obtenus ;
+
+7° Les quantités cédées sur le marché national ;
+
+8° Les quantités exportées ;
+
+9° Les stocks en fin d'année, y compris les stocks de produits en cours de
+fabrication.
 
 Cet état, qui couvre l'année civile écoulée, est adressé au ministre chargé de
 la santé, au plus tard le 15 février [*date limite*].

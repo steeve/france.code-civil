@@ -5,13 +5,13 @@ substances en nature classées comme stupéfiants.
 
 Les ordonnances comportant des prescriptions de médicaments classés comme
 stupéfiants ou renfermant une ou plusieurs substances classées comme stupéfiants
-sont rédigées sur des feuilles extraites d'un carnet à souches d'un modèle
-déterminé par le ministre chargé de la santé [*autorité compétente*]. La charge
-de l'impression et de la répartition de ces carnets incombe, chacun en ce qui le
-concerne, à l'ordre national des médecins, à l'ordre national des
-chirurgiens-dentistes, à l'ordre des vétérinaires, qui adressent, annuellement,
-à chaque inspection régionale de la pharmacie un relevé nominatif des carnets
-délivrés.
+sont rédigées après examen du malade sur des feuilles extraites d'un carnet à
+souches d'un modèle déterminé par le ministre chargé de la santé [*autorité
+compétente*]. La charge de l'impression et de la répartition de ces carnets
+incombe, chacun en ce qui le concerne, à l'ordre national des médecins, à
+l'ordre national des chirurgiens-dentistes, à l'ordre des vétérinaires, qui
+adressent, annuellement, à chaque inspection régionale de la pharmacie un relevé
+nominatif des carnets délivrés.
 
 Sans préjudice des dispositions de l'article R. 5194, l'auteur de l'ordonnance
 doit indiquer en toutes lettres la quantité qu'il prescrit : nombre d'unités

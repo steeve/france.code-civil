@@ -9,11 +9,11 @@ entouré d'un filet coloré, dans lequel le pharmacien, le médecin ou
 l'opticien-lunetier dispensateur inscrit son nom, son adresse, le numéro d'ordre
 prévu à l'article R. 5198 et la posologie prescrite ;
 
-2° S'ils sont destinés à l'animal, un espace blanc entouré d'un filet ou d'un
-double filet coloré, dans lequel le pharmacien ou le vétérinaire dispensateur
-inscrit son nom, son adresse, le numéro d'ordre prévu à l'article R. 5198, la
-posologie prescrite ainsi que la mention prévue à l'article R. 5146-49 k en
-caractères noirs sur fond rouge.
+2° S'ils sont destinés à l'animal, un espace blanc entouré d'un filet coloré,
+dans lequel le pharmacien ou le vétérinaire dispensateur inscrit son nom, son
+adresse, le numéro d'ordre prévu à l'article R. 5198, la posologie prescrite
+ainsi que la mention prévue à l'article R. 5146-49 k en caractères noirs sur
+fond rouge.
 
 L'espace blanc est d'une surface suffisante pour permettre l'apposition des
 mentions requises ; il est placé sous la dénomination spéciale de la spécialité
@@ -21,6 +21,11 @@ pharmaceutique ou du produit.
 
 L'étiquetage du récipient et le conditionnement des médicaments et produits
 mentionnés au premier alinéa ci-dessus comportent, d'une façon lisible, les
-mentions Ne pas avaler, Ne pas faire avaler, Respecter les doses prescrites
-selon les modalités fixées à l'article R. 5200 et, imprimée en caractères noirs,
-la mention Ne peut être obtenu que sur ordonnance médicale.
+mentions "Ne pas avaler", "Ne pas faire avaler", "Respecter les doses
+prescrites" selon les modalités fixées à l'article R. 5200 et, imprimée en
+caractères noirs, la mention "Uniquement sur ordonnance".
+
+Lorsque les médicaments sont contenus dans un emballage extérieur conforme aux
+dispositions du présent article, la mention " Uniquement sur ordonnance " n'est
+pas obligatoire pour les conditionnements primaires ne contenant qu'une dose
+d'utilisation.
