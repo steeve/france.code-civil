@@ -18,7 +18,7 @@ e. de l'aide personnalisée au logement instituée par les articles L. 351-1 et
 suivants du code de la construction et de l'habitation ;
 
 2°) les capitaux décès autres que ceux qui sont mentionnés au a du 1° ci-dessus
-sont censés procurer au conjoint survivant, pendant la période de trois ans à
-compter du décès, un revenu annuel calculé sur la base du taux d'intérêt servi
-aux titulaires du livret A des caisses d'épargne en vigueur au 1er janvier de
-chaque année.
+sont censés procurer au conjoint survivant, pendant la période de trois ou cinq
+ans, selon le cas, à compter du décès, un revenu annuel calculé sur la base du
+taux d'intérêt servi aux titulaires du livret A des caisses d'épargne en vigueur
+au 1er janvier de chaque année.
