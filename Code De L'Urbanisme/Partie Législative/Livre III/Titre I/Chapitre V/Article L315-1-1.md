@@ -15,4 +15,4 @@ La demande d'autorisation de lotir précise le projet architectural et paysager
 du futur lotissement, qui doit comprendre des dispositions relatives à
 l'environnement et à la collecte des déchets. Les dispositions du présent alinéa
 ne sont pas applicables aux projets de lotissement comportant un nombre de lots
-inférieur à un seuil défini par décret en Conseil d'Etat.
+constructibles inférieur à un seuil défini par décret en Conseil d'Etat.
