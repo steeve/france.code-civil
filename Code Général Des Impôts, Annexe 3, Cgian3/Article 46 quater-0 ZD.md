@@ -20,8 +20,8 @@ c) Le cas échéant, le document visé au premier alinéa du c du 6 de l'article
 L du code général des impôts, qui comporte la liste et les attestations
 précédemment mentionnées.
 
-2. Avant la clôture de chacun des exercices arrêtés au cours de la période de
-validité de l'option :
+2. Au plus tard à l'expiration du délai de dépôt de la déclaration de résultat
+de chacun des exercices arrêtés au cours de la période de validité de l'option :
 
 a) La liste mentionnée au a du 1, mise à jour pour l'exercice suivant ;
 
