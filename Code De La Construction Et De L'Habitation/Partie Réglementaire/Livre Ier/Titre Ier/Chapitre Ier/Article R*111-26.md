@@ -10,7 +10,7 @@ de leurs parties mobiles.
 
 Ces éléments comprennent notamment :
 
-- les revêtements des murs à l'exclusion de la peinture et des papiers peints ;
+- les revêtements des murs à l'exclusion de la peinture et des papiers peints;
 
 - les escaliers et planchers ainsi que leur revêtement en matériau dur ;
 
