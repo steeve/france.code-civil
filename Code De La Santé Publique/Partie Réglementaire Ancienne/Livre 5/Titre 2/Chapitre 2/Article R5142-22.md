@@ -1,21 +1,38 @@
 Article R5142-22
 ----
-La demande tendant à obtenir l'autorisation temporaire d'utilisation définie au
-troisième alinéa de l'article L. 601-2, pour un médicament destiné à des
-patients atteints d'une maladie rare, est adressée à l'agence par le fabricant
-ou l'importateur.
+Lorsque l'autorisation prévue au a de l'article L. 601-2 est subordonnée par
+l'Agence du médicament à la condition qu'elle soit sollicitée dans le cadre d'un
+protocole d'utilisation thérapeutique et de recueil d'informations établi avec
+le titulaire des droits d'exploitation ou son mandataire, ce protocole comporte
+les éléments suivants :
 
-Elle est accompagnée d'un dossier comprenant :
+1° Le rappel de la portée exacte de l'autorisation accordée ;
 
-a) Une estimation de la fréquence de la maladie ;
+2° Les critères d'utilisation établis en conformité avec le résumé des
+caractéristiques du produit mentionné au 1 de l'article R. 5142-21 ;
 
-b) Les informations prévues aux articles R. 5128 à R. 5128-3 et au d de
-l'article R. 5129 ;
+3° Les modalités pratiques de prescription et de délivrance du médicament ;
 
-c) Toutes informations pharmacologiques, toxicologiques et cliniques permettant
-d'apprécier l'intérêt thérapeutique du produit et les risques prévisibles liés à
-son utilisation ;
+4° Les modalités de recueil des informations relatives notamment :
 
-d) Toutes informations technologiques, pharmaceutiques, chimiques et biologiques
-permettant de garantir la qualité du médicament, notamment l'indication des
-méthodes et des contrôles de fabrication.
+a) Aux caractéristiques des patients traités ;
+
+b) A l'utilisation effective du médicament ;
+
+c) Aux effets indésirables graves ou inattendus résultant de cette utilisation ;
+
+5° Conformément à l'article R. 5144-20-1 :
+
+a) Le ou les destinataires des déclarations prévues à l'article R. 5144-19 et au
+premier alinéa de l'article R. 5144-20 ;
+
+b) Le contenu et la périodicité des informations prévues au deuxième alinéa de
+l'article R. 5144-20 devant être fournies par le titulaire de l'autorisation au
+directeur général de l'Agence du médicament ;
+
+6° Les modalités de l'information des patients sur le médicament et la portée
+exacte de l'autorisation dont il fait l'objet.
+
+Ce protocole, tel qu'il a été approuvé par le directeur général de l'Agence du
+médicament, est porté par le titulaire de l'autorisation à la connaissance des
+prescripteurs et des pharmaciens concernés.

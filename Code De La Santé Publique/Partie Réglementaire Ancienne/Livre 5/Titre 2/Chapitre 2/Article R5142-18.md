@@ -19,7 +19,3 @@ d'apprécier les risques liés à son utilisation ;
 e) Toutes informations chimiques, technologiques, pharmaceutiques et biologiques
 permettant de garantir la qualité des médicaments et notamment les méthodes de
 fabrication et de contrôle.
-
-Toute modification relative aux médicaments et aux éléments figurant dans le
-dossier fait l'objet d'une déclaration complémentaire auprès de l'Agence du
-médicament.

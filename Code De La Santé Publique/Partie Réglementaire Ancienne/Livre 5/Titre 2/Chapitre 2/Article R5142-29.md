@@ -1,15 +1,16 @@
 Article R5142-29
 ----
-Les décisions de suspension et de retrait mentionnées à l'article L. 601-2 sont
-prises par le directeur général de l'Agence du médicament. Elles sont motivées.
+Lorsqu'un médicament qui bénéficie d'une autorisation temporaire d'utilisation
+obtient une autorisation de mise sur le marché, le directeur général de l'Agence
+du médicament fixe la date à laquelle l'autorisation temporaire d'utilisation
+cesse de produire ses effets en fonction de la date de notification de
+l'autorisation de mise sur le marché et du délai nécessaire à la mise sur le
+marché du médicament ainsi autorisé, qui lui sont communiqués par le titulaire
+de l'autorisation de mise sur le marché ; le cas échéant, le directeur général
+proroge la durée de validité de l'autorisation temporaire jusqu'à l'entrée en
+vigueur de l'autorisation de mise sur le marché.
 
-La décision de suspension ne peut être prise pour une période supérieure à trois
-mois.
-
-La décision de retrait ne peut intervenir qu'après que le titulaire de
-l'autorisation a été invité à fournir ses observations et, pour les médicaments
-mentionnés aux articles R. 5142-21 et R. 5142-22, après avis de la commission de
-l'article R. 5140.
-
-En cas de suspension ou de retrait d'autorisation, les dispositions de l'article
-R. 5139, cinquième alinéa, sont applicables.
+La date à laquelle l'autorisation temporaire d'utilisation cesse de produire ses
+effets est communiquée par le directeur général de l'Agence du médicament au
+titulaire de cette autorisation et, s'il est distinct, au titulaire de
+l'autorisation de mise sur le marché.

@@ -1,8 +1,17 @@
 Article R5142-14
 ----
-La demande d'autorisation d'importation doit indiquer le pays de provenance du
-médicament, sa dénomination, sa forme pharmaceutique, sa posologie et son mode
-d'administration, et doit préciser les quantités importées.
+La demande d'autorisation d'importation doit indiquer :
+
+a) Le nom ou la raison sociale et l'adresse de la personne physique ou morale
+responsable de l'importation ;
+
+b) Le pays de provenance et, s'il est distinct, le pays d'origine du médicament
+;
+
+c) Sa dénomination, sa composition, sa forme pharmaceutique, son dosage et sa
+voie d'administration ;
+
+d) Les quantités importées.
 
 Cette demande est accompagnée :
 
@@ -17,10 +26,18 @@ l'article R. 2016 ;
 2° Pour les médicaments importés en vue d'études analytiques, pharmacologiques
 ou toxicologiques, d'une lettre de l'importateur justifiant leur utilisation ;
 
-3° Pour les médicaments mentionnés aux deuxième et troisième alinéas de
-l'article L. 601-2 destinés à traiter des pathologies graves ou à soigner des
-patients atteints de maladies rares, d'une copie de l'autorisation temporaire
-d'utilisation ou de la demande tendant à obtenir cette autorisation ;
+3° Pour les médicaments mentionnés au a de l'article L. 601-2, d'une copie de
+l'autorisation temporaire d'utilisation ou de la demande tendant à obtenir cette
+autorisation ;
 
-4° Pour un médicament importé par voie postale par un particulier, de
-l'ordonnance prescrivant le médicament.
+4° Pour un médicament importé par un particulier par une autre voie que le
+transport personnel, de l'ordonnance prescrivant le médicament, le cas échéant
+établie conformément aux conditions particulières de prescription et de
+délivrance applicables à ce médicament en vertu de la réglementation française ;
+
+5° Dans les autres cas, d'une lettre du demandeur justifiant la nécessité
+d'importer le médicament.
+
+Dans tous les cas, le directeur général de l'Agence du médicament peut requérir
+du demandeur toute information complémentaire nécessaire pour se prononcer sur
+la demande.

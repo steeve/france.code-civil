@@ -1,17 +1,19 @@
 Article R5142-23
 ----
-La demande tendant à obtenir l'autorisation temporaire d'utilisation mentionnée
-au quatrième alinéa de l'article L. 601-2, pour un médicament importé en vue de
-sa prescription à des malades nommément désignés, est adressée à l'agence par le
-médecin traitant ou le pharmacien hospitalier.
+La demande du prescripteur tendant à obtenir l'autorisation temporaire
+d'utilisation définie au b de l'article L. 601-2 est adressée à l'Agence du
+médicament par le pharmacien gérant la pharmacie à usage intérieur d'un
+établissement de santé, ou par le responsable mentionné à l'article L. 595-5.
 
-Elle est accompagnée d'un dossier comprenant :
+Elle comporte les éléments suivants :
 
-a) La dénomination du médicament ;
+1. La dénomination du médicament ou, le cas échéant, son nom de code, et sa
+forme pharmaceutique et son dosage ;
 
-b) Ses indications thérapeutiques ;
+2. La justification de la prescription ;
 
-c) Toutes les informations utiles pour son utilisation ;
+3. L'indication thérapeutique pour laquelle le médicament est prescrit au malade
+considéré et la posologie prescrite ;
 
-d) La prescription nominative par malade, établie par le médecin traitant ou
-responsable, telle qu'elle est envisagée.
+4. L'engagement du prescripteur à informer le patient sur le médicament et la
+portée exacte de l'autorisation dont il fait l'objet.
