@@ -19,8 +19,8 @@ d) Le nombre des titres souscrits, le montant et la date de leur souscription ;
 e) La date et le montant des versements effectués au titre de la souscription au
 capital initial ou aux augmentations de capital.
 
-Cet état doit préciser que la société remplit les conditions mentionnées aux a,
-b et c du I de l'article 199 terdecies-0 A du code général des impôts.
+Cet état doit préciser que la société remplit les conditions mentionnées aux c,
+d et e du I de l'article 199 terdecies-0 A du code général des impôts.
 
 II. Pour bénéficier de la réduction d'impôt, le contribuable joint à sa
 déclaration de revenus les documents qui lui ont été remis conformément au I.

@@ -64,33 +64,43 @@ imposable.
 
 3. (abrogé).
 
-4. La déduction mentionnée au 1 peut être effectuée, dans la limite prévue au
-premier alinéa du 2, pour les dons faits à des organismes, dont la gestion est
-désintéressée et ayant pour objet exclusif de participer, par le versement
-d'aides financières non rémunérées, à la création d'entreprises, à la reprise
-d'entreprises en difficulté et au financement d'entreprises de moins de
-cinquante salariés. Une entreprise est considérée comme étant en difficulté
-lorsqu'elle fait l'objet d'une procédure de redressement judiciaire ou lorsque
-sa situation financière rend imminente sa cessation d'activité. Le montant des
-aides versées chaque année à une entreprise ne devra pas excéder 20 % des
-ressources annuelles de l'organisme. Les entreprises exerçant à titre principal
-une activité visée à l'article 35 ne peuvent bénéficier de ces aides.
+4. La déduction mentionnée au 1 peut être effectuée, dans la limite prévue au 2,
+pour les dons versés aux organismes agréés dans les conditions prévues à
+l'article 1649 nonies et dont l'objet exclusif est de verser des aides
+financières permettant la réalisation d'investissements tels que définis au c de
+l'article 2 du règlement (CE) n° 70/2001 de la Commission, du 12 janvier 2001,
+concernant l'application des articles 87 et 88 du traité CE aux aides d'Etat en
+faveur des petites et moyennes entreprises ou de fournir des prestations
+d'accompagnement à des petites et moyennes entreprises telles qu'elles sont
+définies à l'annexe I à ce règlement.
 
-Le capital des entreprises mentionnées au premier alinéa doit être entièrement
-libéré et détenu de manière continue pour 75 % au moins par des personnes
-physiques ou par une société répondant aux mêmes conditions dont le capital est
-détenu, pour 75 % au moins, par des personnes physiques. Pour la détermination
-de ce pourcentage, les participations des sociétés de capital-risque, des fonds
-communs de placement à risques, des sociétés de développement régional et des
-sociétés financières d'innovation ne sont pas prises en compte à la condition
-qu'il n'existe pas de lien de dépendance au sens du 12 de l'article 39 entre la
-société en cause et ces dernières sociétés ou ces fonds.
+L'agrément est délivré à l'organisme s'il s'engage à respecter continûment
+l'ensemble des conditions suivantes :
 
-Dans tous les cas, les organismes mentionnés au premier alinéa doivent être
-agréés par le ministre chargé du budget.
+1° La gestion de l'organisme est désintéressée ;
 
-Un décret en Conseil d'Etat fixe les conditions d'application du présent article
-et les dispositions relatives aux statuts des organismes bénéficiaires des dons.
+2° Ses aides et prestations ne sont pas rémunérées et sont utilisées dans
+l'intérêt direct des entreprises bénéficiaires ;
+
+3° Les aides accordées entrent dans le champ d'application du règlement (CE) n°
+70/2001 précité ou sont spécifiquement autorisées par la Commission ;
+
+4° Le montant versé chaque année à une entreprise ne devra pas excéder 20 % des
+ressources annuelles de l'organisme ;
+
+5° Les aides ne peuvent bénéficier aux entreprises exerçant à titre principal
+une activité visée à l'article 35.
+
+L'agrément accordé aux organismes qui le sollicitent pour la première fois porte
+sur une période comprise entre la date de sa notification et le 31 décembre de
+la deuxième année qui suit cette date. En cas de demande de renouvellement
+d'agrément, ce dernier, s'il est accordé, l'est pour une période de cinq ans.
+
+Un décret fixe les modalités d'application du présent article, notamment les
+dispositions relatives aux statuts des organismes bénéficiaires des dons, les
+conditions de retrait de l'agrément et les informations relatives aux
+entreprises aidées que les organismes communiquent au ministre ayant délivré
+l'agrément.
 
 5. (abrogé).
 

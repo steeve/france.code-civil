@@ -34,20 +34,22 @@ respectivement lors de leur inscription en compte et de leur versement ;
 valeurs ou de la clôture d'un plan d'épargne en actions défini à l'article 163
 quinquies D dans les conditions ci-après :
 
-a. Avant l'expiration de la huitième année, le gain net est déterminé par
-différence entre, d'une part, la valeur liquidative du plan ou la valeur de
-rachat pour les contrats de capitalisation à la date du retrait ou du rachat et,
-d'autre part, la valeur liquidative ou de rachat au 1er janvier 1997 majorée des
-versements effectués depuis cette date ;
+a. en cas de retrait ou de rachat entraînant la cl&lt;CB&gt;ture du plan, le
+gain net est déterminé par différence entre, d'une part, la valeur liquidative
+du plan ou la valeur de rachat pour les contrats de capitalisation à la date du
+retrait ou du rachat et, d'autre part, la valeur liquidative ou de rachat au 1er
+janvier 1997 majorée des versements effectués depuis cette date et diminuée du
+montant des sommes déjà retenues à ce titre lors des précédents retraits ou
+rachats ;
 
-b. Après l'expiration de la huitième année, le gain net afférent à chaque
-retrait ou rachat est déterminé par différence entre, d'une part, le montant du
-retrait ou rachat et, d'autre part, une fraction de la valeur liquidative ou de
-rachat au 1er janvier 1997 augmentée des versements effectués sur le plan depuis
-cette date et diminuée du montant des sommes déjà retenues à ce titre lors des
-précédents retraits ou rachats cette fraction est égale au rapport du montant du
-retrait ou rachat effectué à la valeur liquidative totale du plan à la date du
-retrait ou du rachat ;
+b. en cas de retrait ou de rachat n'entraînant pas la cl&lt;CB&gt;ture du plan,
+le gain net afférent à chaque retrait ou rachat est déterminé par différence
+entre, d'une part, le montant du retrait ou rachat et, d'autre part, une
+fraction de la valeur liquidative ou de rachat au 1er janvier 1997 augmentée des
+versements effectués sur le plan depuis cette date et diminuée du montant des
+sommes déjà retenues à ce titre lors des précédents retraits ou rachats cette
+fraction est égale au rapport du montant du retrait ou rachat effectué à la
+valeur liquidative totale du plan à la date du retrait ou du rachat ;
 
 La valeur liquidative ou de rachat ne tient pas compte des gains nets et
 produits de placement mentionnés au 8 afférents aux parts des fonds communs de

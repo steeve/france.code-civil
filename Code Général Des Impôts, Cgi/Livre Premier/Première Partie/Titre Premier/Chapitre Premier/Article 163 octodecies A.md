@@ -6,7 +6,7 @@ personnes physiques qui ont souscrit en numéraire à son capital peuvent dédui
 de leur revenu net global une somme égale au montant de leur souscription, après
 déduction éventuelle des sommes récupérées.
 
-La déduction est opérée, dans la limite annuelle de 15 250 euros , sur le revenu
+La déduction est opérée, dans la limite annuelle de 30 000 euros, sur le revenu
 net global de l'année au cours de laquelle intervient la réduction du capital de
 la société, en exécution d'un plan de redressement visé aux articles L. 621-70
 et suivants du code de commerce, ou la cession de l'entreprise ordonnée par le
@@ -28,7 +28,7 @@ en cas d'attribution de sommes ou valeurs en contrepartie de titres à raison
 desquels la déduction a été opérée, au titre de l'année d'attribution de ces
 sommes ou valeurs et dans la limite de leur montant.
 
-La limite annuelle de 15 250 euros mentionnée au deuxième alinéa est doublée
+La limite annuelle de 30 000 euros mentionnée au deuxième alinéa est doublée
 pour les personnes mariées soumises à une imposition commune.
 
 II. Les souscriptions en numéraire doivent avoir été effectuées directement au
@@ -41,7 +41,8 @@ régional et des sociétés financières d'innovation ne sont pas prises en comp
 la condition qu'il n'existe pas de lien de dépendance au sens du 12 de l'article
 39 entre la société bénéficiaire de l'apport et ces dernières sociétés. De même,
 ce pourcentage ne tient pas compte des participations des fonds communs de
-placement à risques ou des fonds communs de placement dans l'innovation.
+placement à risques, des fonds d'investissement de proximité ou des fonds
+communs de placement dans l'innovation.
 
 La condition mentionnée au III de l'article 44 sexies n'est pas exigée lorsque
 la société a été créée dans le cadre de la reprise d'activités préexistantes

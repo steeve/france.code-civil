@@ -41,7 +41,7 @@ détenues directement par le gérant nommé conformément aux statuts d'une soci
 à responsabilité limitée ou en commandite par actions, le président, le
 directeur général, le président du conseil de surveillance ou le membre du
 directoire d'une société par actions, qui remplit les conditions prévues au 1°
-ci-dessus, lorsque leur valeur excède 75 % de la valeur brute des biens
+ci-dessus, lorsque leur valeur excède 50 % de la valeur brute des biens
 imposables, y compris les parts et actions précitées.
 
 Sont également considérées comme des biens professionnels, dans la limite de 150
