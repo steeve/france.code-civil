@@ -3,12 +3,13 @@ Article L931-13
 I. - Sous réserve de dispositions contractuelles plus favorables, les salariés
 définis au premier alinéa de l'article L. 931-1 et qui justifient d'une
 ancienneté de deux ans dans leur entreprise [*condition*], ont droit, en vue de
-dispenser à temps plein ou à temps partiel un enseignement professionnel, à une
-autorisation d'absence correspondant à la durée maximale d'un an, pourvu que cet
-enseignement soit donné dans un établissement d'enseignement public ou privé
-sous contrat, ou concerne un stage agréé ou conventionné par l'Etat ou les
-régions. La durée de ce congé peut toutefois dépasser un an par accord entre
-l'entreprise et le centre de formation.
+dispenser à temps plein ou à temps partiel un enseignement technologique ou
+professionnel en formation initiale ou continue, à une autorisation d'absence
+correspondant à la durée maximale d'un an, pourvu que cet enseignement soit
+donné dans un établissement d'enseignement public ou privé sous contrat, ou
+concerne un stage agréé ou conventionné par l'Etat ou les régions. La durée de
+ce congé peut toutefois dépasser un an par accord entre l'entreprise et le
+centre de formation.
 
 II. - Dans les établissements de deux cents salariés et plus [*condition
 d'effectif*], lorsque plusieurs travailleurs remplissant les conditions fixées
