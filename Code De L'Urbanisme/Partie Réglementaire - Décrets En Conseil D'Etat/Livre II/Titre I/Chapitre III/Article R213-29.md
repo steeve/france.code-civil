@@ -1,4 +1,4 @@
-Article R*214-7
+Article R213-29
 ----
 La demande d'avis est accompagnée des documents au vu desquels le conseil
 municipal sera appelé à délibérer.
