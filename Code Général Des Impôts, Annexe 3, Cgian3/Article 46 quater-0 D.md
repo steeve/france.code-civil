@@ -22,3 +22,7 @@ Toutefois, si la personne morale a encaissé, au cours d'exercices clos depuis
 cinq ans au plus, des produits de participations ouvrant droit au régime des
 sociétés mères, les distributions peuvent être librement imputées sur ces
 produits.
+
+III Les distributions provenant de résultats qui ont été compris dans le
+résultat d'ensemble, mentionnés à l'article 223 H du code déjà cité, sont
+prélevés en suivant l'ordre prévu au II.
