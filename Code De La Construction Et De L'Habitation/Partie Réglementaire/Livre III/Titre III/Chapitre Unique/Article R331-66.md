@@ -2,9 +2,9 @@ Article R331-66
 ----
 Peuvent bénéficier de ces prêts :
 
-1° Les personnes physiques qui, pour leur habitation familiale, construisent ou
-acquièrent des logements neufs et celles qui acquièrent des logements existants,
-en vue de leur amélioration.
+1° Les personnes physiques qui construisent ou acquièrent des logements neufs ou
+celles qui acquièrent des logements existants et, le cas échéant, les
+améliorent.
 
 Sont assimilées à une acquisition immobilière la souscription ou l'acquisition
 de parts ou d'actions des sociétés régies par le livre II, titre 1er, chapitres
@@ -39,7 +39,7 @@ de la construction et de l'habitation.
 
 Les personnes physiques accédant à la propriété au moyen d'un prêt conventionné
 peuvent passé un contrat conforme à l'article 6 de la loi n° 89-475 du 10
-juillet 1989 relative à l'acceuil par des particuliers à leur domicile, à titre
+juillet 1989 relative à l'accueil par des particuliers à leur domicile, à titre
 onéreux, de personnes agées ou handicapées adultes.
 
 Peuvent également bénéficier de ces prêts : les syndicats de copropriétaires qui
