@@ -15,4 +15,7 @@ général au point de vue artistique, historique ou culturel ;
 préservé ;
 
 4° Immeubles acquis en vue de la réalisation ultérieure d'opérations d'urbanisme
-ou d'aménagement de toute nature.
+ou d'aménagement de toute nature ;
+
+5° Immeubles compris dans la zone définie à l'article L. 87, dans les conditions
+prévues aux articles R. 169 à R. 169-3.
