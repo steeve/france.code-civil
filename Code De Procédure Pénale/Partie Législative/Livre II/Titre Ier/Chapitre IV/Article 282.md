@@ -6,5 +6,4 @@ l'avant-veille de l'ouverture des débats.
 
 Cette liste doit contenir des indications suffisantes pour permettre
 l'identification des jurés, à l'exception de celles concernant leur domicile ou
-résidence. Toutefois, ces dernières indications doivent être communiquées à
-l'avocat de chacun des accusés dès qu'il en ferait la demande.
+résidence.

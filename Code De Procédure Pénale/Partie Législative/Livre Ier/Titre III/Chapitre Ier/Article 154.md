@@ -22,4 +22,5 @@ ressort.
 Les dispositions des articles 63-1, 63-2, 63-3, 63-4, 64 et 65 sont applicables
 aux gardes à vue exécutées dans le cadre de la présente section. Les pouvoirs
 conférés au procureur de la République par les articles 63-2 et 63-3 sont alors
-exercés par le juge d'instruction.
+exercés par le juge d'instruction. Le deuxième alinéa de l'article 63 est
+également applicable en matière de commission rogatoire.

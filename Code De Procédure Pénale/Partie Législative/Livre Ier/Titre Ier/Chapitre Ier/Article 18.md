@@ -1,10 +1,7 @@
 Article 18
 ----
 Les officiers de police judiciaire ont compétence dans les limites territoriales
-où ils exercent leurs fonctions habituelles. Dans les circonscriptions urbaines
-divisées en commissariats subdivisionnaires ou en bureaux de police, les
-officiers de police judiciaire qui exercent leurs fonctions habituelles dans
-l'un d'entre eux ont compétence sur toute l'étendue de la circonscription.
+où ils exercent leurs fonctions habituelles.
 
 Les officiers de police judiciaire qui n'exercent pas leurs fonctions
 habituelles dans l'ensemble du ressort du tribunal de grande instance auquel ils
@@ -22,12 +19,12 @@ même ressort.
 
 En cas d'urgence, les officiers de police judiciaire peuvent, sur commission
 rogatoire expresse du juge d'instruction ou sur réquisitions du procureur de la
-République prises au cours d'une enquête de flagrant délit, procéder aux
-opérations prescrites par ces magistrats sur toute l'étendue du territoire
-national. Ils doivent être assistés d'un officier de police judiciaire exerçant
-ses fonctions dans la circonscription intéressée. Le procureur de la République
-territorialement compétent en est informé par le magistrat ayant prescrit
-l'opération.
+République, prises au cours d'une enquête préliminaire ou d'une enquête de
+flagrance, procéder aux opérations prescrites par ces magistrats sur toute
+l'étendue du territoire national. Ils doivent être assistés d'un officier de
+police judiciaire exerçant ses fonctions dans la circonscription intéressée. Le
+procureur de la République territorialement compétent en est informé par le
+magistrat ayant prescrit l'opération.
 
 Ils peuvent, sur proposition des autorités administratives dont ils dépendent et
 par habilitation du procureur général, recevoir compétence dans les limites
