@@ -1,25 +1,22 @@
 Article 438
 ----
-1. Il est perçu un droit de circulation, dont le tarif est fixé, par hectolitre,
-à :
+Il est perçu un droit de circulation dont le tarif est fixé, par hectolitre, à :
 
-- 54,80 F pour les vins doux naturels mentionnés à l'article 417, les vins de
-liqueur visés à l'article 417 bis et les vins mousseux bénéficiant de
-l'appellation d'origine contrôlée "Champagne" ;
+1° 54,80 F pour les vins mousseux ;
 
-- 22 F pour tous les autres vins ;
+2° 22 F ;
 
-- 7,60 F pour les cidres, les poirés, les hydromels et les jus de raisin
-légèrement fermentés dénommés "pétillants de raisin" ainsi que pour les boissons
-aromatisées à base de raisin ou de pomme définies par décret et ne tirant pas
-plus de 7 p. 100 volume en alcool acquis et 11,5 p. 100 volume en alcool acquis
-et en puissance.
+a) Pour tous les autres vins ;
 
-2. Le droit de circulation prévu au 1 est ramené à :
+b) Pour les autres produits fermentés, autres que le vin et la bière, et les
+produits visés au 3°, dont l'alcool contenu dans le produit résulte entièrement
+d'une fermentation et dont le titre alcoométrique acquis n'excède pas 15 p. 100
+vol. ;
 
-- 12,70 F [*montant*] pour l'ensemble des vins ;
+c) Pour les autres produits fermentés autres que le vin et la bière et les
+produits visés au 3°, dont le titre alcoométrique acquis n'excède pas 5,5 p. 100
+vol. pour les boissons non mousseuses et 8,5 p. 100 vol. pour les boissons
+mousseuses.
 
-- 5,40 F pour les cidres, poirés, hydromels et les jus de raisin légèrement
-fermentés dénommés "pétillants de raisin", transportés ou expédiés par un
-récoltant de l'une à l'autre de ses caves en dehors du rayon de franchise ou
-cédés par lui à titre gratuit à ses parents en ligne directe.
+3° 7,60 F pour les cidres, les poirés, les hydromels et les jus de raisin
+légèrement fermentés dénommés "pétillants de raisin".
