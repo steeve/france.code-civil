@@ -1,7 +1,7 @@
 Article A47 A-1
 ----
-Les copies mentionnées au quatrième alinéa de l'article L. 47 A présentent des
-fichiers "à plat", à organisation séquentielle et structure zonée.
+I. Les copies mentionnées au quatrième alinéa de l'article L. 47 A présentent
+des fichiers "à plat", à organisation séquentielle et structure zonée.
 
 II. Les entreprises peuvent choisir l'une des normes suivantes :
 
@@ -10,12 +10,12 @@ pistes, de densité d'enregistrement 1 600-6250 BPI (densité des informations s
 la bande), à étiquetage normalisé et sans indicateur de séquence de bloc.
 
 2. Fichiers ASCII sur disquettes magnétiques de format 3 1/2 pouces ou 5 1/4
-pouces à simple, double ou haute densité d'enregistrement, formatées sous MS/DOS
-(système d'exploitation).
+pouces à simple, double ou haute densité d'enregistrement, ou sur disques
+optiques compacts, formatés sous MS/DOS (système d'exploitation).
 
 Les séparateurs d'article et de champ sont respectivement les caractères Line
-Feed et Shift Out représentés en ASCII sous la forme hexadécimale (OA) 16 et
-(OE) 16.
+Feed et Shift Out représentés en ASCII sous la forme hexadécimale (0A) 16 et
+(0E) 16.
 
 III. Le format des données doit être conforme aux spécifications suivantes :
 

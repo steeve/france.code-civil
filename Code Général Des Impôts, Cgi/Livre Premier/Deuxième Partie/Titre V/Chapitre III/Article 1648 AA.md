@@ -10,19 +10,37 @@ s'applique qu'aux établissements dont l'autorisation au titre de la loi n°
 73-1193 du 27 décembre 1973 précitée et, s'il y a lieu, le permis de construire
 sont devenus définitifs.
 
-La répartition prévue au premier alinéa s'effectue entre les communes dont tout
-ou partie du territoire se trouve à une distance de 5 kilomètres d'un point
-quelconque de l'ensemble commercial. Cette distance est portée à 10 kilomètres
-lorsque la surface de vente des magasins concernés est égale ou supérieure à 5
-000 mètres carrés.
+Pour les créations et extensions de magasins de commerce de détail qui font
+l'objet d'une autorisation délivrée en application des dispositions des 1°, 2°
+et 3° de l'article 29 de la loi n° 73-1193 du 27 décembre 1973 précitée, modifié
+par les articles 89 et 91 de la loi n° 96-314 du 12 avril 1996 portant diverses
+dispositions d'ordre économique et financier ou du I du même article tel qu'il
+est issu de la loi n° 96-603 du 5 juillet 1996 relative au développement et à la
+promotion du commerce et de l'artisanat, la répartition prévue au premier alinéa
+s'applique :
 
-Les dispositions des deux alinéas précédents ne sont applicables ni dans les
-départements dont la densité de population excède 1 000 habitants au kilomètre
-carré, ni aux magasins d'une surface de vente inférieure à 5 000 mètres carrés
-lorsqu'ils sont situés en tout ou partie dans une commune de plus de 40 000
-habitants ou dans un canton d'une densité de population supérieure à 400
-habitants au kilomètre carré. Elles ne sont pas non plus applicables dans les
-agglomérations nouvelles.
+1° Aux créations de magasins d'une surface de vente supérieure à 1 000 mètres
+carrés ;
+
+2° Aux extensions de surface de vente supérieures à 200 mètres carrés portant
+sur des magasins d'une surface de vente supérieure à 1 000 mètres carrés ou
+devant atteindre cette superficie par la réalisation du projet. Pour
+l'application de cette disposition, la surface de vente s'entend de celle
+résultant d'une construction ou de la transformation d'un immeuble.
+
+La répartition prévue aux premier et deuxiéme alinéas s'effectue entre les
+communes dont tout ou partie du territoire se trouve à une distance de 5
+kilomètres d'un point quelconque de l'ensemble commercial. Cette distance est
+portée à 10 kilomètres lorsque la surface de vente des magasins concernés est
+égale ou supérieure à 5 000 mètres carrés.
+
+Les dispositions des premier, deuxième et troisième alinéas ne sont applicables
+ni dans les départements dont la densité de population excède 1 000 habitants au
+kilomètre carré, ni aux magasins d'une surface de vente inférieure à 5 000
+mètres carrés lorsqu'ils sont situés en tout ou partie dans une commune de plus
+de 40 000 habitants ou dans un canton d'une densité de population supérieure à
+400 habitants au kilomètre carré. Elles ne sont pas non plus applicables dans
+les agglomérations nouvelles.
 
 II. Les bases communales de taxe professionnelle correspondant aux créations et
 extensions d'établissements résultant soit d'une construction nouvelle, soit de

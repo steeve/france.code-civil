@@ -1,6 +1,6 @@
 Article 10 GA
 ----
 Les dispositions de l'article 39 octies A du Code général des impôts sont
-applicables aux établissements de crédit enregistrés parr le conseil national du
-crédit et habilités à effectuer des opérations de crédit ou de crédit-bail au
-profit des entreprises.
+applicables aux établissements de crédit enregistrés parr le Comité des
+établissements de crédit et des entreprises d'investissement et habilités à
+effectuer des opérations de crédit ou de crédit-bail au profit des entreprises.

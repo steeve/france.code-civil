@@ -14,13 +14,23 @@ immatriculés au répertoire des métiers.
 
 Cette taxe comprend :
 
-a. un droit fixe par ressortissant, dont le maximum fixé à ((585 F)) (1) est
-révisable lors du vote de la loi de finances de l'année. Ce droit fait
-obligatoirement l'objet d'une majoration comprise entre 50 % et 80 % de ce
-maximum en vue de financer des actions de formation continue. Ce droit peut
-également faire l'objet d'une majoration de 10 p. 100 maximum destinée à
-alimenter un fonds national créé pour financer des actions de développement et
-de promotion.
+a. ((un droit fixe par ressortissant, dont le maximum fixé à 595 F peut être
+révisé lors du vote de la loi de finances de l'année)) (1) (M).
+
+((Ce droit fait également l'objet d'une majoration de 10 p. 100 du montant
+maximum du droit fixe, dont le produit alimente un fonds national créé à cet
+effet, destiné à financer des actions de promotion et de communication.
+
+((Les ressources de ce fonds sont gérées par un établissement public à caractère
+administratif créé à cet effet par décret en Conseil d'Etat.
+
+((Les ressources perçues au titre de cette majoration antérieurement à l'année
+1997 sont reversées par le Trésor public au fonds national visé aux deuxième et
+troisième alinéas du a ;
+
+((Toutefois, au titre de l'année 1997, cette majoration n'est pas applicable aux
+ressortissants des chambres de métiers ayant voté ladite majoration au titre des
+années 1994, 1995 ou 1996)) (M).
 
 b. un droit additionnel à la taxe professionnelle, dont le produit est arrêté
 par les chambres de métiers sans pouvoir excéder 50 % de celui du droit fixe, et
@@ -34,4 +44,25 @@ Les chefs d'entreprises individuelles titulaires de l'allocation supplémentaire
 mentionnée à l'article L. 815-2 ou à l'article L. 815-3 du code de la sécurité
 sociale sont dégrevés d'office de la taxe.
 
+((Toutefois, à titre exceptionnel, les chambres de métiers sont autorisées, par
+arrêté ministériel, à arrêter le produit du droit additionnel à la taxe
+professionnelle au-delà de 50 p. 100 et dans la limite de 60 p. 100 de celui du
+droit fixe.
+
+((Une contribution égale à 0,29 p. 100 du montant annuel du plafond de la
+sécurité sociale en vigueur au 1er janvier de l'année d'imposition est recouvrée
+dans les mêmes conditions que la taxe pour frais de chambre de métiers en vue de
+financer des actions de formation continue. Les ressources de cette contribution
+sont affectées conformément aux dispositions prévues par les articles 4 et 5 de
+la loi n° 82-1091 du 23 décembre 1982 relative à la formation professionnelle
+des artisans.
+
+((Toutefois, dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle,
+les entreprises relevant des chambres de métiers versent une contribution égale
+à 0,145 % du montant annuel du plafond de la sécurité sociale en vigueur au 1er
+janvier de l'année d'imposition à l'établissement public visé au troisième
+alinéa du a)) (M).
+
 (1) A compter de 1996.
+
+(M) Modification de la loi 96-1181. [*Cf. Instruction 1998-03-03 6F-2-98*].

@@ -18,12 +18,12 @@ n'excède pas 60 000 habitants, si la commune la plus peuplée compte moins de 1
 habitants.
 
 b) Les communes de moins de 10 000 habitants, à l'exception de celles
-bénéficiant, soit de la dotation de solidarité urbaine prévue ((aux articles L.
-2334-15 à L. 2334-18 du code général des collectivités territoriales)), soit des
+bénéficiant, soit de la dotation de solidarité urbaine prévue aux articles L.
+2334-15 à L. 2334-18 du code général des collectivités territoriales, soit des
 attributions du fonds de solidarité des communes de la région Ile-de-France en
-application des dispositions ((de l'article L. 2531-14 du même code)), soit des
+application des dispositions de l'article L. 2531-14 du même code, soit des
 attributions de la première fraction de la dotation de solidarité rurale prévue
-((à l'article L. 2334-21 dudit code)) (M) ;
+à l'article L. 2334-21 dudit code ;
 
 c) Les communes de moins de 20 000 habitants des départements d'outre-mer et
 celles de la collectivité territoriale de Saint-Pierre-et-Miquelon.
@@ -46,40 +46,41 @@ naturels.
 Ces subventions peuvent également être attribuées, dans la limite de la moitié
 des crédits consacrés aux communes, en vue de la réalisation d'investissements
 locaux, aux communes qui, sans être éligibles à la première fraction de la
-dotation de solidarité rurale instituée par ((l'article L. 2334-21 du code
-général des collectivités territoriales)), soit des attributions du fonds de
-jouent un rôle structurant en matière d'équipements collectifs et de services de
-proximité pour les populations du monde rural. L'attribution par habitant versée
-à chacune de ces communes ne peut être supérieure à l'attribution moyenne par
-habitant revenant la même année, dans le même département, aux communes
-bénéficiaires de la première fraction de la dotation de solidarité rurale. Les
-communes visées par les dispositions ((du premier alinéa de l'article L. 2334-21
-dudit code)) (M) ne peuvent toutefois bénéficier d'une attribution au titre de
-cette part.
+dotation de solidarité rurale instituée par l'article L. 2334-21 du code général
+des collectivités territoriales, soit des attributions du fonds de jouent un
+rôle structurant en matière d'équipements collectifs et de services de proximité
+pour les populations du monde rural. L'attribution par habitant versée à chacune
+de ces communes ne peut être supérieure à l'attribution moyenne par habitant
+revenant la même année, dans le même département, aux communes bénéficiaires de
+la première fraction de la dotation de solidarité rurale. Les communes visées
+par les dispositions du premier alinéa de l'article L. 2334-21 dudit code ne
+peuvent toutefois bénéficier d'une attribution au titre de cette part.
 
 La commission évalue les attributions en fonction de critères comprenant
 notamment l'augmentation attendue des bases de fiscalité directe locale ou les
 créations d'emplois sur le territoire des communes ou des groupements
 considérés.
 
-La commission comprend, outre les membres de la commission prévue à ((l'article
-L. 2334-35 du code général des collectivités territoriales)) (M), soit des
-attributions du fonds de , des représentants des maires des communes concernées
-dont la population est comprise entre 2 000 et 25 000 habitants et des
-représentants des présidents des groupements de communes concernés dont la
-population est comprise entre 2 000 et 35 000 habitants, désignés dans les mêmes
-conditions que les autres membres de la commission.
+La commission comprend, outre les membres de la commission prévue à l'article L.
+2334-35 du code général des collectivités territoriales, soit des attributions
+du fonds de , des représentants des maires des communes concernées dont la
+population est comprise entre 2 000 et 25 000 habitants et des représentants des
+présidents des groupements de communes concernés dont la population est comprise
+entre 2 000 et 35 000 habitants, désignés dans les mêmes conditions que les
+autres membres de la commission.
 
 La population à prendre en compte pour l'application du présent article est
-celle définie ((à l'article L. 2334-2 du code général des collectivités
-territoriales)) (M).
+celle définie à l'article L. 2334-2 du code général des collectivités
+territoriales.
 
 2° La seconde fraction est répartie par application des dispositions du II. Son
 montant est fixé par le comité des finances locales par différence entre les
 ressources prévues à l'article 1648 A bis et les sommes nécessaires à
-l'application des dispositions du 1° ci-dessus. Les sommes ainsi dégagées ne
-peuvent être inférieures à 90 p. 100 du montant des ressources définies aux 1°,
-2° et 3° du II de l'article 1648 A bis.
+l'application des dispositions du 1° ci-dessus ((ainsi qu'à l'application des
+dispositions du B de l'article 4 de la loi n° 96-987 du 14 novembre 1996
+relative à la mise en oeuvre du pacte de relance pour la ville)) (M). Les sommes
+ainsi dégagées ne peuvent être inférieures à 90 p. 100 du montant des ressources
+définies aux 1°, 2° et 3° du II de l'article 1648 A bis.
 
 II. Le surplus des ressources du fonds défini au 2° du I comporte :
 
@@ -124,11 +125,11 @@ aux communes qui connaissent des difficultés financières graves en raison d'un
 baisse, sur une ou plusieurs années, de leurs bases d'imposition à la taxe
 professionnelle ou de leurs ressources de redevance des mines, et dont le budget
 primitif de l'exercice en cours a été soumis à la chambre régionale des comptes
-dans les conditions fixées par ((les articles L. 232-4, L. 232-5, L. 232-6 et L.
-232-8 du code des juridictions financières)) (M). Cette part est répartie selon
-la même procédure que celle relative aux subventions exceptionnelles accordées
-en application ((de l'article L. 2332-2 du code général des collectivités
-territoriales)) (M).
+dans les conditions fixées par les articles L. 232-4, L. 232-5, L. 232-6 et L.
+232-8 du code des juridictions financières. Cette part est répartie selon la
+même procédure que celle relative aux subventions exceptionnelles accordées en
+application de l'article L. 2332-2 du code général des collectivités
+territoriales.
 
 Le montant des crédits affectés à chacune de ces parts est fixé chaque année par
 le comité des finances locales, à qui il est rendu compte de l'utilisation
@@ -146,7 +147,7 @@ A V ter.
 V. Les modalités d'application du présent article sont fixées par décret en
 Conseil d'Etat (1).
 
-(M) Modification.
+(M) Modification de la loi 96-987.
 
 (1) Décret 85-260 du 22 février 1985 (JO du 24), décret 91-1081 du 14 octobre
 1991 (JO du 19) et décret n° 92-568 du 30 juin 1992 (JO du 1er juillet).

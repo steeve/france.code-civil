@@ -74,7 +74,11 @@ Pour les ovins et caprins :
 
 - d'un poids carcasse de 12 kilogrammes ou plus, 1,7 F
 
-Pour les porcins, 5,8 F
+((Pour les porcins :
+
+- d'un poids carcasse inférieur à 25 kilogramme 3,80 F ;
+
+- d'un poids carcasse de 25 kilogrammes ou plus 5,80 F)) (M).
 
 B. - Volailles
 
@@ -85,3 +89,5 @@ Pour les canards, 0,070 F
 Pour les oies, 0,100 F
 
 Pour les dindes, 0,145 F
+
+(M) Modification de l'arrêté applicable à compter du 1er novembre 1996.

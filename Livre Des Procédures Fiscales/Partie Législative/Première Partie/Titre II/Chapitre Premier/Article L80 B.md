@@ -25,4 +25,20 @@ de fait.
 Un décret en Conseil d'Etat précise les conditions d'application du présent 2°,
 notamment le contenu, le lieu de dépôt des demandes ainsi que les modalités
 selon lesquelles l'administration accuse réception de ces demandes et
-notifications.
+notifications (1).
+
+((3° Lorsque l'administration n'a pas répondu dans un délai de six mois à un
+redevable de bonne foi qui a demandé, dans les mêmes conditions que celles
+prévues à l'avant-dernier alinéa du 2°, si son projet de dépenses de recherche
+est éligible au bénéfice des dispositions de l'article 244 quater B du code
+général des impôts.
+
+((Un décret en Conseil d'Etat précise les conditions d'application du présent
+3°)) (M).
+
+(1) Les dispositions du 2° sont applicables aux demandes et notifications
+adressées à compter du 1er juillet 1996.
+
+(M) Modification de la loi 96-1181. Ces dispositions sont applicables aux
+demandes adressées à compter du 1er mars 1997. [*Cf. Instruction 1997-05-30
+13L-2-97*].

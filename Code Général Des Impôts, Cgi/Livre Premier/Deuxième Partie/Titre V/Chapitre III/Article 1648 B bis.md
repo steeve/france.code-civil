@@ -4,8 +4,8 @@ I. Il est créé un fonds national de péréquation qui dispose :
 
 1° du produit disponible défini au III de l'article 1648 B ;
 
-2° du produit résultant de l'application ((de l'antepénultième alinéa du IV))
-(M) modifié de l'article 6 de la loi de finances pour 1987 (n° 86-1317 du 30
+2° du produit résultant de l'application de l'antepénultième alinéa du IV
+modifié de l'article 6 de la loi de finances pour 1987 (n° 86-1317 du 30
 décembre 1986). Ce montant évolue chaque année, à compter de 1996, en fonction
 de l'indice de variation des recettes fiscales de l'Etat tel que défini au 2° du
 II de l'article 1648 A bis.
@@ -16,7 +16,8 @@ montants respectifs sur les produits définis aux 1° et 2° du I, des sommes
 nécessaires à :
 
 1° l'application du III de l'article 52 de la loi n° 95-115 du 4 février 1995
-d'orientation pour l'aménagement et le développement du territoire ;
+((modifiée)) (M) d'orientation pour l'aménagement et le développement du
+territoire ;
 
 2° puis à la quote-part destinée aux communes des départements d'outre-mer. Elle
 est calculée en appliquant au montant de la part communale diminuée du
@@ -33,8 +34,8 @@ conditions suivantes :
 
 1° le potentiel fiscal est inférieur de 5 p. 100 au potentiel fiscal moyen par
 habitant de l'ensemble des communes appartenant au même groupe démographique tel
-que défini à l'article ((L. 2334-3 du code général des collectivités
-territoriales)) (M) ;
+que défini à l'article L. 2334-3 du code général des collectivités territoriales
+(1) ;
 
 2° l'effort fiscal est supérieur à l'effort fiscal moyen des communes
 appartenant au même groupe démographique.
@@ -73,7 +74,7 @@ deux alinéas précédents.
 
 Lorsqu'une commune ne dispose d'aucune ressource au titre des quatre taxes
 directes locales, l'attribution par habitant revenant à la commune est égale à
-((huit fois l'attribution moyenne nationale par habitant)) (M).
+huit fois l'attribution moyenne nationale par habitant (1).
 
 A compter de 1995, le montant total des attributions revenant en métropole aux
 communes éligibles comptant 200 000 habitants et plus est égal au produit de
@@ -94,5 +95,6 @@ démographique.
 VI. Aucune attribution calculée en application des alinéas précédents n'est
 versée si son montant est inférieur ou égal à 2 000 F.
 
-(M) Modifications de la loi ; ces dispositions s'appliquent à compter de
-l'exercice 1996.
+(M) Modification.
+
+(1) Ces dispositions s'appliquent à compter de l'exercice 1996.

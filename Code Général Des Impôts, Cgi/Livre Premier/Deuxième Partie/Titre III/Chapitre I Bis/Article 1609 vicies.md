@@ -19,22 +19,22 @@ l'acquisition.
 
 II. ((Les taux de la taxe sont fixés comme suit :
 
-((Huile d'olive, 0,936 F/Kg, 0,843 F/litre
+((Huile d'olive, 0,948 F/Kg, 0,854 F/litre
 
-((Huiles d'arachide et de maïs, 0,843 F/Kg, 0,768 F/Litre
+((Huiles d'arachide et de maïs, 0,854 F/Kg, 0,778 F/Litre
 
-((Huiles de colza et de pépins de raisin, 0,432 F/Kg, 0,393 F/litre
+((Huiles de colza et de pépins de raisin, 0,438 F/Kg, 0,398 F/litre
 
 ((Autres huiles végétales fluides et huiles d'animaux marins dont le commerce et
 l'utilisation ne sont pas soumis aux règles internationales ou nationales
-relatives aux espèces protégées, 0,735 F/Kg, 0,642 F/litre
+relatives aux espèces protégées, 0,745 F/Kg, 0,650 F/litre
 
-((Huiles de coprah et de palmiste, 0,562F/Kg
+((Huiles de coprah et de palmiste, 0,569F/Kg
 
-((Huile de palme, 0,514 F/Kg
+((Huile de palme, 0,521 F/Kg
 
 ((Huiles d'animaux marins dont le commerce et l'utilisation sont soumis aux
-règles internationales ou nationales relatives aux espèces protégées, 0,936F
+règles internationales ou nationales relatives aux espèces protégées, 0,948
 F/Kg)) (M).
 
 Pour les produits alimentaires importés ou qui font l'objet d'une acquisition
@@ -65,4 +65,6 @@ d'exportation, de livraison exonérée en vertu du I de l'article 262 ter ou de
 livraison dans un lieu situé dans un autre Etat membre de la Communauté
 européenne en application de l'article 258 A.
 
-(M) Modification de la loi. [*Cf. Instruction 1996-06-20 3P-5-96*].
+[*Cf. Instruction 1996-06-20 3P-5-96*].
+
+(M) Modification de la loi.

@@ -9,6 +9,11 @@ II. a) En cas de création d'établissement ou de changement d'exploitant ou
 d'activité en cours d'année, une déclaration provisoire doit être fournie avant
 le 1er janvier de l'année suivant celle de la création ou du changement (1).
 
+((Pour les impositions dues au titre de 1997, les sociétés civiles
+professionnelles qui ont opté pour leur assujettissement à l'impôt sur les
+sociétés en 1996 devront souscrire cette déclaration provisoire avant le 31
+janvier 1997)) (M).
+
 b) En cas de changement d'exploitant, l'ancien exploitant est tenu d'en faire la
 déclaration au service des impôts avant le 1er janvier de l'année suivant celle
 du changement lorsque le changement intervient en cours d'année, ou avant le 1er
@@ -23,5 +28,7 @@ Une déclaration récapitulative est souscrite par les entreprises à
 (2).
 
 (1) Annexe II, art. 310 HQ.
+
+(M) Modification de la loi 96-1182.
 
 (2) Annexe II, art. 310 HR.

@@ -39,13 +39,29 @@ ce dénouement résulte du licenciement du bénéficiaire des produits ou de sa 
 correspondant au classement dans la deuxième ou troisième catégorie prévue à
 l'article L. 341-4 du code de la sécurité sociale ;
 
+((1° bis pour les bons ou contrats de capitalisation ainsi que pour les
+placements de même nature souscrits à compter du 1er janvier 1998, les
+dispositions du 1° sont applicables lorsque le souscripteur et le bénéficiaire,
+s'il est différent, ont autorisé, lors de la souscription, l'établissement
+auprès duquel les bons ou contrats ont été souscrits, à communiquer leur
+identité et leur domicile fiscal à l'administration fiscale et à condition que
+le bon ou contrat n'ait pas été cédé.
+
+((Ces dispositions ne concernent pas les bons ou contrats de capitalisation
+souscrits à titre nominatif par une personne physique lorsque leur transmission
+entre vifs ou à cause de mort a fait l'objet d'une déclaration à
+l'administration fiscale ;
+
+((Un décret fixe les modalités d'application du présent 1° bis)) (M)
+
 2° Dans le cas contraire, à 50 %.
 
 III. Le prélèvement est établi, liquidé et recouvré sous les mêmes garanties et
-sanctions que celui mentionné à l'article 125 A. Les dispositions ((de l'article
-1764 et du 1 des articles 242 ter et 1768 bis sont applicables)) (M).
+sanctions que celui mentionné à l'article 125 A. Les dispositions de l'article
+1764 et du 1 des articles 242 ter et 1768 bis sont applicables.
 
 (1) Ces dispositions sont applicables aux bons, contrats ou placements souscrits
 à compter du 1er janvier 1983.
 
-(M) Modification.
+(M) Modification de la loi 96-1181 pour les bons et contrats émis ou souscrits à
+compter du 1er janvier 1998.

@@ -8,8 +8,9 @@ la population est inférieure à 5 000 habitants et qui sont situées dans les
 territoires ruraux de développement prioritaire.
 
 Cette réduction de taux est également applicable aux acquisitions de même nature
-réalisées dans les zones de redynamisation urbaine définies au I bis de
-l'article 1466 A.
+réalisées dans les zones de redynamisation urbaine définies ((au I ter de
+l'article 1466 A et dans les zones franches urbaines mentionnées au I quater de
+l'article 1466 A)) (M).
 
 Pour bénéficier du taux réduit, l'acquéreur doit prendre, lors de la mutation,
 l'engagement de maintenir l'exploitation du bien acquis pendant une période
@@ -20,3 +21,5 @@ est tenu d'acquitter, à première réquisition, le complément d'imposition don
 avait été dispensé.
 
 [*Cf. Instructions 1995-07-11 7D-5-95, 1996-08-05 7D-1-96, 1996-08-06 7D-2-96.*]
+
+(M) Modification de la loi 96-987.

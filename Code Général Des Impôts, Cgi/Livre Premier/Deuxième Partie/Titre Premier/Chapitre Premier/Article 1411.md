@@ -17,10 +17,10 @@ commune.
 
 3. Sans préjudice de l'application de l'abattement prévu au 2, le conseil
 municipal peut accorder un abattement à la base de 5, 10 ou 15 % aux
-contribuables qui, au titre de l'année précédente, ne sont pas passibles de
-l'impôt sur le revenu au sens du III de l'article 1417 et dont l'habitation
-principale a une valeur locative inférieure à 130 % de la moyenne communale. Ce
-pourcentage est augmenté de 10 points par personne à charge.
+contribuables ((dont le montant des revenus de l'année précédente n'excède pas
+la limite prévue à l'article 1417)) (M) et dont l'habitation principale a une
+valeur locative inférieure à 130 % de la moyenne communale. Ce pourcentage est
+augmenté de 10 points par personne à charge.
 
 4. La valeur locative moyenne est déterminée en divisant le total des valeurs
 locatives d'habitation de la commune, abstraction faite des locaux
@@ -37,14 +37,14 @@ les abattements supérieurs au niveau maximum de droit commun au niveau des
 abattements de droit commun.
 
 II bis. Pour le calcul de la taxe d'habitation que perçoivent les départements,
-les communautés urbaines et les districts à fiscalité propre, les organes
-délibérants de ces collectivités et groupements peuvent, dans les conditions
-prévues au présent article et à l'article 1639 A bis, décider de fixer eux-mêmes
-le montant des abattements applicables aux valeurs locatives brutes.
+les communautés urbaines et les districts, les organes délibérants de ces
+collectivités et groupements peuvent, dans les conditions prévues au présent
+article et à l'article 1639 A bis, décider de fixer eux-mêmes le montant des
+abattements applicables aux valeurs locatives brutes.
 
 Dans ce cas, la valeur locative moyenne servant de référence pour le calcul des
 abattements est la valeur locative moyenne des habitations du département, de la
-communauté urbaine ou du district à fiscalité propre.
+communauté urbaine ou du district.
 
 En l'absence de délibération, les abattements applicables sont ceux résultant
 des votes des conseils municipaux, calculés sur la valeur locative moyenne de la
@@ -56,8 +56,8 @@ Ses enfants ou les enfants qu'il a recueillis lorsqu'ils répondent à la
 définition donnée pour le calcul de l'impôt sur le revenu ;
 
 Ses ascendants ou ceux de son conjoint âgés de plus de soixante dix ans ou
-infirmes lorsqu'ils résident avec lui et qu'ils ne sont pas assujettis à l'impôt
-sur le revenu au sens du III de l'article 1417.
+infirmes lorsqu'ils résident avec lui ((et que leurs revenus de l'année
+précédente n'excèdent pas la limite prévue à l'article 1417)) (M).
 
 IV. La valeur locative moyenne servant de base au calcul de l'abattement
 obligatoire pour charges de famille et des abattements facultatifs à la base est
@@ -72,7 +72,7 @@ V. Les modalités de calcul de la valeur locative moyenne ainsi que les modalit�
 d'arrondissement des abattements sont fixées par décret en Conseil d'Etat (1)
 (2).
 
-[*Cf. Instruction 1994-05-31 6D-2-94.*]
+(M) Modification de la loi 96-1181.
 
 (1) Annexe II, art. 310 H.
 

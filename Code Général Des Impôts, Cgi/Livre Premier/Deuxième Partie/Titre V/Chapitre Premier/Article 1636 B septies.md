@@ -13,4 +13,7 @@ pour l'ensemble des communes.
 
 V. Pour les communes membres d'un groupement doté d'une fiscalité propre, les
 taux-plafonds prévus aux I et IV sont réduits du taux appliqué l'année
-précédente au profit du groupement.
+précédente au profit du groupement. VI. Le taux de la taxe professionnelle voté
+par un département ou une région ne peut excéder deux fois le taux moyen de
+cette taxe constaté l'année précédente au niveau national pour l'ensemble des
+collectivités de même nature.

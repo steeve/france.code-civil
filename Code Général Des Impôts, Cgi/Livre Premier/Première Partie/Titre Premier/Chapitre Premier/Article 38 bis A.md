@@ -17,14 +17,14 @@ ans mentionné à l'article 39 duodecies est décompté à partir de la date du
 transfert.
 
 Les valeurs mobilières inscrites au compte de titres de transaction ne peuvent
-faire l'objet d'un prêt dans les conditions prévues à l'article 31 de la loi n°
-87-416 du 17 juin 1987 sur l'épargne que si son échéance n'intervient pas plus
-de six mois après l'acquisition de ces titres. Par dérogation à l'article 38
-bis, la créance représentative des titres prêtés est inscrite au cours le plus
-récent des titres à la date du prêt ; elle est évaluée au cours le plus récent
-des titres prêtés à la clôture de l'exercice. Lors de leur restitution, les
-titres sont repris au compte de titres de transaction pour la valeur de la
-créance à cette date.
+faire l'objet d'un prêt dans les conditions prévues ((à l'article 31 modifié de
+la loi n° 87-416 du 17 juin 1987 sur l'épargne)) (M) que si son échéance
+n'intervient pas plus de six mois après l'acquisition de ces titres. Par
+dérogation à l'article 38 bis, la créance représentative des titres prêtés est
+inscrite au cours le plus récent des titres à la date du prêt ; elle est évaluée
+au cours le plus récent des titres prêtés à la clôture de l'exercice. Lors de
+leur restitution, les titres sont repris au compte de titres de transaction pour
+la valeur de la créance à cette date.
 
 Les dispositions du premier et du troisième alinéa du présent article
 s'appliquent aux titres de créances négociables sur un marché réglementé ainsi
@@ -34,3 +34,5 @@ s'appliquer (1).
 
 (1) Ces dispositions s'appliquent pour la détermination des résultats imposables
 des exercices clos à compter du 31 décembre 1990.
+
+(M) Modification.

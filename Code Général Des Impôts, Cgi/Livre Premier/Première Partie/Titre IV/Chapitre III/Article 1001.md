@@ -47,8 +47,5 @@ aux véhicules terrestres à moteur.
 A 9 %.
 
 Les risques d'incendie couverts par des assurances ayant pour objet des risques
-de transport sont compris dans les risques désignés sous le 3° ou sous le 6°,
-suivant qu'il s'agit de transports par eau et par air ou de transports
-terrestres.
-
-[*Cf. : Instruction 1994-03-09 7I-1-94*].
+de transport sont compris dans les risques désignés sous le 3° ou sous le 5°
+bis.

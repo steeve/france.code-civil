@@ -46,12 +46,12 @@ par des sociétés ou exploitations soumises à l'impôt sur les sociétés et q
 produits sont encaissés par des personnes détenant, directement ou
 indirectement, moins de 35 p. 100 des droits sociaux dans la société
 distributrice. Pour l'application de cette disposition, les droits sociaux
-appartenant au conjoint sont considérés comme détenus indirectement (2).
+appartenant au conjoint sont considérés comme détenus indirectement (1).
 
 6° Intérêts versés au titre des sommes portées sur un compte bloqué individuel
 qui remplissent les conditions visées au I de l'article 125 C. Les dispositions
 du II de l'article 125 C sont applicables en cas de non-respect des obligations
-fixées au I du même article (2').
+fixées au I du même article (2).
 
 L'abattement prévu au troisième alinéa peut, le cas échéant, être utilisé, en
 tout ou partie, par les porteurs de parts de fonds communs de placement, lors de
@@ -87,6 +87,13 @@ groupement adhérant à l'un de ces organismes bénéficient d'un abattement de 
 sur leurs bénéfices déclarés soumis à un régime réel d'imposition ou au régime
 prévu à l'article 68 F.
 
+Aucun abattement n'est appliqué sur la fraction du bénéfice qui excède la limite
+fixée au cinquième alinéa du a du 5 ;
+
+La limitation du montant de l'abattement résultant de l'application du deuxième
+alinéa est opérée sur la totalité du revenu net professionnel déclaré par une
+même personne physique, dans une même catégorie de revenus ;
+
 Le taux de l'abattement est ramené à 10 % pour la fraction du bénéfice qui
 excède la limite fixée au cinquième alinéa du a du 5. Aucun abattement n'est
 appliqué sur la fraction du bénéfice qui excède la limite fixée au sixième
@@ -119,51 +126,52 @@ mentionnées au 6 sont déterminés conformément aux dispositions des articles 
 90.
 
 Les pensions et retraites font l'objet d'un abattement de 10 % qui ne peut, pour
-l'imposition des revenus de 1983, excéder 21.400 F. Ce plafond est applicable au
+l'imposition des revenus de 1996, excéder 28 000 F. Ce plafond est applicable au
 montant total des pensions et retraites perçues par les membres du foyer fiscal.
-Il est revalorisé chaque année dans la même proportion que la limite supérieure
-de la première tranche du barème de l'impôt sur le revenu ; le montant obtenu
-est arrondi, s'il y a lieu, à la centaine de francs supérieure (4).
+Cet abattement ne peut excéder 24 000 F pour l'imposition des revenus de 1997,
+20 000 F pour l'imposition des revenus de 1998 et 16 000 F pour l'imposition des
+revenus de 1999. Il est fixé à 12 000 F pour l'imposition des revenus perçus à
+compter du 1er janvier 2000.
 
 L'abattement indiqué au deuxième alinéa ne peut être inférieur à 1.800 F, sans
 pouvoir excéder le montant brut des pensions et retraites. Cette disposition
 s'applique au montant des pensions ou retraites perçu par chaque retraité ou
 pensionné membre du foyer fiscal. La somme de 1 800 F est révisée chaque année
 dans la même proportion que la limite supérieure de la première tranche du
-barème de l'impôt sur le revenu (5).
+barème de l'impôt sur le revenu (4).
 
 Le revenu net obtenu en application de l'article 83 et, en ce qui concerne les
 pensions et retraites après application des dispositions des deuxième et
 troisième alinéas ci-dessus, n'est retenu dans les bases de l'impôt sur le
 revenu que pour 80 % de son montant déclaré spontanément.
 
-Par exception aux dispositions du quatrième alinéa, l'ensemble des salaires et
-indemnités accessoires supérieurs à 469.000 F alloués par une ou plusieurs
-sociétés à une personne qui détient, directement ou indirectement, plus de 35 p.
-100 des droits sociaux sont retenus, pour la fraction excédant 469.000 F, à
-raison de 90 p. 100 de leur montant déclaré spontanément, net de frais
-professionnels (6). Pour l'application de cette disposition, les droits sociaux
-appartenant au conjoint sont considérés comme détenus indirectement.
-
 Aucun abattement n'est pratiqué sur la fraction du montant des salaires, net de
 frais professionnels, et pensions qui excède 460.000 F pour l'imposition des
-revenus de 1982 et 1983 (7).
+revenus de 1982 et 1983 (5).
 
-Les limites mentionnées aux cinquième et sixième alinéas sont relevées chaque
-année dans la même proportion que la limite supérieure de la première tranche du
-barème de l'impôt sur le revenu. Les montants obtenus sont arrondis, s'il y a
-lieu, au millier de francs supérieur.
+La limite mentionnée au cinquième alinéa est relevée chaque année dans la même
+proportion que la limite supérieure de la première tranche du barème de l'impôt
+sur le revenu. Le montant obtenu est arrondi, s'il y a lieu, au millier de
+francs supérieur.
 
-b. Les dispositions du a sont applicables aux allocations versées aux
-travailleurs privés d'emploi mentionnées à l'article 231 bis D, premier et
-troisième alinéas, aux participations en espèces et, à compter du 1er janvier
-1991, aux dividendes des actions de travail, alloués aux travailleurs mentionnés
-au 18° bis de l'article 81, lorsque ces sommes sont imposables, ((de même qu'à
-l'aide financière mentionnée à l'article L129-3 du code du travail)) (M).
+b. Les dispositions du a sont applicables aux allocations mentionnées à
+l'article 231 bis D, premier et troisième alinéas, aux participations en espèces
+et, à compter du 1er janvier 1991, aux dividendes des actions de travail,
+alloués aux travailleurs mentionnés au 18° bis de l'article 81, lorsque ces
+sommes sont imposables, de même qu'à l'aide financière mentionnée à l'article
+L129-3 du code du travail.)
 
 b bis. Les dispositions du a sont applicables aux prestations servies sous forme
 de rentes ou pour perte d'emploi subie, au titre des contrats d'assurance groupe
-ou des régimes mentionnés au deuxième alinéa de l'article 154 bis (8) ;
+ou des régimes mentionnés au deuxième alinéa de l'article 154 bis (6) ;
+
+b ter. les dispositions du a sont applicables aux pensions servies au titre des
+plans d'épargne retraite institués par la loi n° 97-277 du 25 mars 1997 créant
+les plans d'épargne retraite ainsi qu'aux sommes retirées de ces plans.
+Toutefois, le bénéficiaire peut demander que l'impôt correspondant à ces sommes
+soit calculé en ajoutant le quart du montant net du retrait à son revenu
+imposable et en multipliant par quatre la cotisation supplémentaire ainsi
+obtenue ;
 
 c. Lorsque, étant en instance de séparation de corps ou de divorce, les époux
 font l'objet d'impositions distinctes par application des dispositions du b du 4
@@ -176,7 +184,7 @@ en vue de la retraite ou de versement d'une pension présentant ou non un
 caractère viager, les dispositions du a sont applicables aux sommes retirées ou
 à la pension perçue.
 
-Lorsque le retrait dépasse une somme fixée par décret (9), le contribuable peut
+Lorsque le retrait dépasse une somme fixée par décret (7), le contribuable peut
 demander l'application du système prévu à l'article 150 R, sans fractionnement
 du paiement.
 
@@ -216,30 +224,20 @@ conditions que les revenus énumérés à l'article 124.
 Ces dispositions ne sont pas applicables aux arrérages correspondant aux
 cotisations ayant fait l'objet de la déduction prévue au 1° bis de l'article 83.
 
-(1) Annexe IV, art. 6 ter.
+(1) Cette disposition s'applique à compter de l'imposition des revenus de 1994.
 
-(2) Cette disposition s'applique à compter de l'imposition des revenus de 1994.
-
-(2') Ces dispositions s'appliquent aux intérêts encaissés à compter du 1er août
+(2) Ces dispositions s'appliquent aux intérêts encaissés à compter du 1er août
 1995.
 
 (3) Loi n° 79-594 du 13 juillet 1979, abrogée par la loi n° 88-120 du 23
 décembre 1988.
 
-(4) Plafond fixé à 31.300 F pour l'imposition des revenus de 1994 et à 30.800 F
-pour 1993.
+(4) Pour l'imposition des revenus de 1995, le minimum d'abattement est fixé à
+1.960 F.
 
-(5) Pour l'imposition des revenus de 1994, le minimum d'abattement est fixé à
-1.930 F.
+(5) La limite est fixée à 680.000 F pour l'imposition des revenus de 1995. Elle
+était de 667.000 F pour 1994.
 
-(6) Limite applicable pour l'imposition des revenus de 1994 ; elle était de
-462.000 F pour 1993.
+(6) Disposition applicable à compter du 13 février 1994.
 
-(7) La limite est fixée à 667.000 F pour l'imposition des revenus de 1994. Elle
-était de 657.000 F pour 1993.
-
-(M) Modification.
-
-(8) Disposition applicable à compter du 13 février 1994.
-
-(9) Annexe III, art. 41 ZH.
+(7) Annexe III, art. 41 ZH.

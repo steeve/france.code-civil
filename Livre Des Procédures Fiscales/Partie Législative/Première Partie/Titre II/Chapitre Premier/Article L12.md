@@ -1,17 +1,19 @@
 Article L12
 ----
-L'administration des impôts peut procéder à l'examen contradictoire de
-l'ensemble de la situation fiscale des personnes physiques au regard de l'impôt
-sur le revenu dans les conditions prévues au présent livre.
+Dans les conditions prévues au présent livre, l'administration des impôts peut
+procéder à l'examen contradictoire de la situation fiscale des personnes
+physiques au regard de l'impôt sur le revenu, qu'elles aient ou non leur
+domicile fiscal en France, lorsqu'elles y ont des obligations au titre de cet
+impôt.
 
 A l'occasion de cet examen, l'administration peut contrôler la cohérence entre,
 d'une part les revenus déclarés et, d'autre part, la situation patrimoniale, la
 situation de trésorerie et les éléments du train de vie des membres du foyer
 fiscal.
 
-Sous peine de nullité de l'imposition, un examen contradictoire de l'ensemble de
-la situation fiscale personnelle ne peut s'étendre sur une période supérieure à
-un an à compter de la réception de l'avis de vérification.
+Sous peine de nullité de l'imposition, un examen contradictoire de la situation
+fiscale personnelle ne peut s'étendre sur une période supérieure à un an à
+compter de la réception de l'avis de vérification.
 
 Cette période est prorogée du délai accordé, le cas échéant, au contribuable et,
 à la demande de celui-ci, pour répondre aux demandes d'éclaircissements ou de

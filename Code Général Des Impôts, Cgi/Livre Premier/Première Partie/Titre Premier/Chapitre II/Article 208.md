@@ -15,8 +15,8 @@ leurs actions ne sont pas introduites à la cote officielle ou à la cote du
 second marché d'une bourse de valeurs avant ce délai ;
 
 1° bis A - Les sociétés d'investissement à capital variable [*SICAV*] régies par
-la loi n° 88-1201 du 23 décembre 1988 pour les bénéfices réalisés dans le cadre
-de leur objet légal ;
+((la loi n° 88-1201 du 23 décembre 1988 modifiée)) (M) pour les bénéfices
+réalisés dans le cadre de leur objet légal ;
 
 1° ter - Les sociétés de développement régional constituées et fonctionnant
 conformément aux dispositions du décret n° 55-876 du 30 juin 1955 et des textes
@@ -49,7 +49,7 @@ crédit-bail réalisées en France et conclues avant le 1er janvier 1991 ainsi q
 pour les plus-values dégagées par la cession d'immeubles dans le cadre de ces
 opérations.
 
-Par dérogation aux dispositions de l'alinéa précédent, les sociétés immobilières
+Par dérogation aux dispositions du premier alinéa, les sociétés immobilières
 pour le commerce et l'industrie sont, sur option de leur part exercée avant le
 1er juillet 1991, exonérées d'impôt sur les sociétés pour la fraction de leur
 bénéfice net provenant d'opérations de crédit-bail réalisées en France, conclues
@@ -92,21 +92,21 @@ lorsqu'elles proviennent de fonds d'emprunt.
 3° quinquies Les sociétés agréées pour le financement des télécommunications qui
 ont pour objet exclusif l'activité mentionnée au I de l'article 1er de la loi n°
 69-1160 du 24 décembre 1969, pour la partie des bénéfices provenant des contrats
-de crédit-bail conclus avec ((l'exploitant public)) (M) avant le 1er janvier
-1993 et pour les plus-values qu'elles réalisent à l'occasion des ces opérations,
-ainsi que pour la partie des bénéfices et des plus-values qu'elles réalisent en
-tant que société immobilière pour le commerce et l'industrie (1).
+de crédit-bail conclus avec l'exploitant public avant le 1er janvier 1993 et
+pour les plus-values qu'elles réalisent à l'occasion des ces opérations, ainsi
+que pour la partie des bénéfices et des plus-values qu'elles réalisent en tant
+que société immobilière pour le commerce et l'industrie (1).
 
 Les sociétés agréées pour le financement des télécommunications qui n'ont pas
 pour objet exclusif l'activité mentionnée au I de l'article 1er de la loi n°
 69-1160 du 24 décembre 1969, pour la partie des bénéfices provenant des contrats
-de crédit-bail conclus avec ((l'exploitant public)) (M) avant le 1er janvier
-1993, si elles apportent à une société immobilière pour le commerce et
-l'industrie la branche d'activité exercée au titre du e du I de l'article 1er de
-la loi n° 69-1160 du 24 décembre 1969 (1).
+de crédit-bail conclus avec l'exploitant public avant le 1er janvier 1993, si
+elles apportent à une société immobilière pour le commerce et l'industrie la
+branche d'activité exercée au titre du e du I de l'article 1er de la loi n°
+69-1160 du 24 décembre 1969 (1).
 
 Les dividendes reçus de la société immobilière pour le commerce et l'industrie
-mentionnée à l'alinéa précédent par la société apporteuse sont exonérés d'impôt
+mentionnée au deuxième alinéa par la société apporteuse sont exonérés d'impôt
 sur les sociétés jusqu'au 31 décembre 1993. Ils sont retenus pour le calcul de
 cet impôt à concurrence de :
 
@@ -124,12 +124,13 @@ immobilière pour le commerce et l'industrie soient redistribués par la sociét
 apporteuse avant la fin de l'exercice qui suit celui de leur encaissement.
 
 3° sexies Les sociétés agréées dans les conditions prévues par l'article 30 de
-la loi n° 80-531 du 15 juillet 1980 relative aux économies d'énergie et à
-l'utilisation de la chaleur (Sofergie) pour leurs activités autres que celles
-autorisées par le II de l'article 87 de la loi de finances pour 1987 (n° 86-1317
-du 30 décembre 1986) (2) ; l'exonération concerne la partie de leur bénéfice net
-provenant des opérations de crédit-bail et de location ou des plus-values
-qu'elles réalisent dans le cadre des opérations de crédit-bail ;
+la loi n° 80-531 du 15 juillet 1980 ((modifiée)) (M) relative aux économies
+d'énergie et à l'utilisation de la chaleur (Sofergie) pour leurs activités
+autres que celles autorisées par le II de l'article 87 de la loi de finances
+pour 1987 (n° 86-1317 du 30 décembre 1986) (2) ; l'exonération concerne la
+partie de leur bénéfice net provenant des opérations de crédit-bail et de
+location ou des plus-values qu'elles réalisent dans le cadre des opérations de
+crédit-bail ;
 
 3° septies Les sociétés de capital-risque qui fonctionnent dans les conditions
 prévues à l'article 1er de la loi n° 85-695 du 11 juillet 1985 modifiée sur les
@@ -158,7 +159,7 @@ de terrains leur appartenant.
 
 Ces dispositions sont applicables à compter du 1er janvier 1993.
 
-(M) Modification de la loi.
+(M) Modification.
 
 (1) Voir Annexe IV, art. 23 bis.
 

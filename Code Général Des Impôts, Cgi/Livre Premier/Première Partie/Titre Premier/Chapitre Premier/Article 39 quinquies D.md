@@ -2,11 +2,12 @@ Article 39 quinquies D
 ----
 Les entreprises qui construisent ou font construire, entre le 1er janvier 1995
 et le 31 décembre 1999, des immeubles à usage industriel ou commercial pour les
-besoins de leur exploitation dans les zones de revitalisation rurale ou dans les
-zones de redynamisation urbaine mentionnées à l'article 1465 A et au I bis de
-l'article 1466 A peuvent pratiquer, à l'achèvement des constructions, un
-amortissement exceptionnel égal à 25 p. 100 de leur prix de revient, la valeur
-résiduelle étant amortissable sur la durée normale d'utilisation.
+besoins de leur exploitation dans les zones de revitalisation rurale mentionnées
+à l'article 1465 A ou dans les zones de redynamisation urbaine mentionnées au I
+bis et, à compter du 1er janvier 1997, au I ter de l'article 1466 A peuvent
+pratiquer, à l'achèvement des constructions, un amortissement exceptionnel égal
+à 25 p. 100 de leur prix de revient, la valeur résiduelle étant amortissable sur
+la durée normale d'utilisation.
 
 Les dispositions du premier alinéa s'appliquent aux entreprises qui, à la date
 d'achèvement de l'immeuble :

@@ -1,14 +1,16 @@
 Article 1469 A quater
 ----
-Dans les zones d'aménagement du territoire, les territoires ruraux de
-développement prioritaire et les zones de redynamisation urbaine définis au
-premier alinéa de l'article 1465 et au I bis de l'article 1466 A, les
-collectivités locales et leurs groupements dotés d'une fiscalité propre peuvent,
-par une délibération de portée générale prise dans les conditions prévues à
-l'article 1639 A bis, réduire d'un montant égal à 10 000 F la base de taxe
-professionnelle de leur établissement principal à laquelle sont assujetties les
-personnes physiques ou morales qui vendent au public des écrits périodiques en
-qualité de mandataires inscrits au conseil supérieur des messageries de presse.
+Dans les zones d'aménagement du territoire et dans les territoires ruraux de
+développement prioritaire définis au premier alinéa de l'article 1465 et dans
+les zones de redynamisation urbaine définies au I bis de l'article 1466 A
+jusqu'au 31 décembre 1996 et au I ter du même article à compter du 1er janvier
+1997 les collectivités locales et leurs groupements dotés d'une fiscalité propre
+peuvent, par une délibération de portée générale prise dans les conditions
+prévues à l'article 1639 A bis, réduire d'un montant égal à 10 000 F la base de
+taxe professionnelle de leur établissement principal à laquelle sont assujetties
+les personnes physiques ou morales qui vendent au public des écrits périodiques
+en qualité de mandataires inscrits au conseil supérieur des messageries de
+presse.
 
 Cette réduction vient en diminution de la base d'imposition calculée après
 application de l'article 1472 A bis et, le cas échéant, de l'article 2 de la loi

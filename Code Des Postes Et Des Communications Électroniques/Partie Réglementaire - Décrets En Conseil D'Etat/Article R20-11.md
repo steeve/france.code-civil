@@ -1,8 +1,9 @@
 Article R20-11
 ----
-L'agrément des installations radioélectriques destinées à être connectées aux
-réseaux radioélectriques de l'Etat visés au 1° de l'article L. 33 du code des
-postes et télécommunications est délivré dans les conditions du présent article.
+L'attestation de conformité des installations radioélectriques destinées à être
+connectées aux réseaux radioélectriques de l'Etat visés au 1° de l'article L. 33
+du code des postes et télécommunications est délivré dans les conditions du
+présent article.
 
 Les spécifications techniques relatives à la protection du spectre
 radioélectrique, au vu desquelles est appréciée la conformité des installations
@@ -17,8 +18,9 @@ Le ministre chargé de la défense et le ministre chargé de l'intérieur
 s'assurent, chacun pour ce qui le concerne, de la conformité aux spécifications
 techniques des installations raccordées aux réseaux susvisés.
 
-L'agrément des installations raccordées aux autres réseaux utilisant des bandes
-de fréquences, ou des fréquences attribuées par le Premier ministre à une
-administration pour les besoins propres de celle-ci, est délivré par le ministre
-chargé des télécommunications, après avis de l'administration concernée, et en
-tant que de besoin, du comité de coordination des télécommunications.
+L'attestation de conformité des installations raccordées aux autres réseaux
+utilisant des bandes de fréquences, ou des fréquences attribuées par le Premier
+ministre à une administration pour les besoins propres de celle-ci, est délivré
+par le ministre chargé des télécommunications, après avis de l'administration
+concernée, et en tant que de besoin, du comité de coordination des
+télécommunications.

@@ -19,7 +19,7 @@ nets d'autres sources excède 200.000 F ; ces déficits peuvent cependant être
 admis en déduction des bénéfices de même nature des années suivantes jusqu'à la
 cinquième inclusivement (1).
 
-((1° bis des déficits provenant, directement ou indirectement, des activités
+1° bis des déficits provenant, directement ou indirectement, des activités
 relevant des bénéfices industriels ou commerciaux lorsque ces activités ne
 comportent pas la participation personnelle, continue et directe de l'un des
 membres du foyer fiscal à l'accomplissement des actes nécessaires à l'activité.
@@ -34,28 +34,29 @@ professionnels au sens du sixième alinéa de l'article 151 septies, louant
 directement ou indirectement des locaux d'habitation meublés ou destinés à être
 meublés.
 
-((Toutefois, lorsque l'un des membres du foyer fiscal fait l'objet d'une
-procédure de liquidation judiciaire prévue par la loi n° 85-98 du 25 janvier
-1985 relative au redressement et à la liquidation judiciaires des entreprises à
-raison de l'activité génératrice des déficits mentionnés au premier alinéa, les
-dispositions du premier alinéa du I sont applicables au montant de ces déficits
-restant à reporter à la date d'ouverture de la procédure, à la condition que les
-éléments d'actif affectés à cette activité cessent définitivement d'appartenir,
-directement ou indirectement, à l'un des membres du foyer fiscal.
+Toutefois, lorsque l'un des membres du foyer fiscal fait l'objet d'une procédure
+de liquidation judiciaire prévue par la loi n° 85-98 ((modifié)) (M) du 25
+janvier 1985 relative au redressement et à la liquidation judiciaires des
+entreprises à raison de l'activité génératrice des déficits mentionnés au
+premier alinéa, les dispositions du premier alinéa du I sont applicables au
+montant de ces déficits restant à reporter à la date d'ouverture de la
+procédure, à la condition que les éléments d'actif affectés à cette activité
+cessent définitivement d'appartenir, directement ou indirectement, à l'un des
+membres du foyer fiscal.
 
-((Les dispositions du premier alinéa s'appliquent pour la détermination du
-revenu imposable au titre des années 1996 et suivantes aux déficits réalisés par
-les membres des copropriétés mentionnées à l'article 8 quinquies ainsi que par
-les personnes mentionnées à la dernière phrase du premier alinéa. Dans les
-autres cas, elles sont applicables au déficit ou à la fraction du déficit
-provenant d'activités créées, reprises, étendues ou adjointes à compter du 1er
-janvier 1996. Cette fraction est déterminée au moyen d'une comptabilité séparée
+Les dispositions du premier alinéa s'appliquent pour la détermination du revenu
+imposable au titre des années 1996 et suivantes aux déficits réalisés par les
+membres des copropriétés mentionnées à l'article 8 quinquies ainsi que par les
+personnes mentionnées à la dernière phrase du premier alinéa. Dans les autres
+cas, elles sont applicables au déficit ou à la fraction du déficit provenant
+d'activités créées, reprises, étendues ou adjointes à compter du 1er janvier
+1996. Cette fraction est déterminée au moyen d'une comptabilité séparée
 retraçant les opérations propres à ces extensions ou adjonctions et qui donne
 lieu à la production des documents prévus à l'article 53 A ; à défaut, les
 modalités d'imputation prévues au premier alinéa s'appliquent à l'ensemble du
 déficit des activités.
 
-((Les dispositions du premier alinéa s'appliquent également à la fraction du
+Les dispositions du premier alinéa s'appliquent également à la fraction du
 déficit des activités créées ou reprises avant le 1er janvier 1996 provenant des
 investissements réalisés à compter de cette date. Cette fraction est déterminée
 selon le rapport existant entre la somme des valeurs nettes comptables de ces
@@ -64,18 +65,18 @@ investissements et la somme des valeurs nettes comptables de l'ensemble des
 ou affectés à l'activité par l'effet de toute autre convention sont assimilés à
 des investissements pour l'application de ces dispositions.
 
-((Les dispositions du premier alinéa ne sont pas applicables au déficit ou à la
+Les dispositions du premier alinéa ne sont pas applicables au déficit ou à la
 fraction de déficit provenant de l'exploitation :
 
-(( d'immeubles ayant fait l'objet avant le 1er janvier 1996 d'une déclaration
+d'immeubles ayant fait l'objet avant le 1er janvier 1996 d'une déclaration
 d'ouverture de chantier prévue à l'article R. 421-40 du code de l'urbanisme et
 acquis par le contribuable, directement ou indirectement, dans les cinq ans de
 cette déclaration, lorsque les biens ou droits ainsi acquis n'ont pas été
 détenus directement ou indirectement par une personne physique ;
 
-((- de biens meubles corporels acquis à l'état neuf, non encore livrés au 1er
+- de biens meubles corporels acquis à l'état neuf, non encore livrés au 1er
 janvier 1996 et ayant donné lieu avant cette date à une commande accompagnée du
-versement d'acomptes au moins égaux à 50 p. 100 de leur prix)) (M1) ;
+versement d'acomptes au moins égaux à 50 p. 100 de leur prix (1') ;
 
 2° Des déficits provenant d'activités non commerciales au sens de l'article 92,
 autres que ceux qui proviennent de l'exercice d'une profession libérale ou des
@@ -85,14 +86,14 @@ semblables durant la même année ou les cinq années suivantes (Voir toutefois 
 I bis ci-dessous) ;
 
 3° Des déficits fonciers, lesquels s'imputent exclusivement sur les revenus
-fonciers des ((dix années suivantes)) (M2) (2) ; cette disposition n'est pas
-applicable aux propriétaires de monuments classés monuments historiques,
-inscrits à l'inventaire supplémentaire ou ayant fait l'objet d'un agrément
-ministériel ni aux nus-propriétaires pour le déficit foncier qui résulte des
-travaux qu'ils payent en application des dispositions de l'article 605 du code
-civil, lorsque le démembrement de propriété d'un immeuble bâti résulte de
-succession ou de donation entre vifs, effectuée sans charge ni condition et
-consentie entre parents jusqu'au quatrième degré inclusivement (3).
+fonciers des dix années suivantes (2) ; cette disposition n'est pas applicable
+aux propriétaires de monuments classés monuments historiques, inscrits à
+l'inventaire supplémentaire ou ayant fait l'objet d'un agrément ministériel ni
+aux nus-propriétaires pour le déficit foncier qui résulte des travaux qu'ils
+payent en application des dispositions de l'article 605 du code civil, lorsque
+le démembrement de propriété d'un immeuble bâti résulte de succession ou de
+donation entre vifs, effectuée sans charge ni condition et consentie entre
+parents jusqu'au quatrième degré inclusivement (3).
 
 Cette disposition n'est pas non plus applicable aux déficits provenant de
 dépenses autres que les intérêts d'emprunt effectuées sur des locaux
@@ -123,15 +124,52 @@ de la location ne sont pas respectés est majoré du montant des déficits indû
 imputés. Ces déficits constituent une insuffisance de déclaration pour
 l'application de l'article 1733.
 
+((L'imputation exclusive sur les revenus fonciers n'est pas applicable aux
+déficits résultant de dépenses autres que les intérêts d'emprunts effectuées sur
+des locaux d'habitation par leurs propriétaires en vue du réaménagement d'un ou
+plusieurs immeubles situés dans une zone franche urbaine telle que définie au B
+du 3 de l'article 42 modifié de la loi n° 95-115 du 4 février 1995 d'orientation
+pour l'aménagement et le développement du territoire. Les travaux doivent faire
+l'objet d'une convention approuvée par le représentant de l'Etat dans le
+département par laquelle le propriétaire de l'immeuble ou les propriétaires dans
+le cas d'un immeuble soumis à la loi n° 65-557 du 10 juillet 1965 modifié fixant
+le statut de la copropriété des immeubles bâtis s'engagent à procéder à la
+réhabilitation complète des parties communes de l'immeuble bâti. Le ou les
+propriétaires doivent s'engager à louer les locaux nus à usage de résidence
+principale du locataire pendant une durée de six ans. La location doit prendre
+effet dans les douze mois qui suivent la date d'achèvement des travaux. Ce
+dispositif s'applique dans les mêmes conditions lorsque les locaux d'habitation
+sont la propriété d'une société non soumise à l'impôt sur les sociétés si les
+associés conservent les titres pendant six ans.
+
+((En cas de non-respect, par le contribuable, de l'un de ses engagements, le
+revenu global de l'année au cours de laquelle la rupture intervient est majoré
+du montant des déficits qui ont fait l'objet d'une imputation au titre des
+dispositions du cinquième alinéa. Pour son imposition, la fraction du revenu
+résultant de cette majoration est divisée par le nombre d'années civiles au
+titre desquelles un déficit a été imputé sur le revenu global ; le résultat est
+ajouté au revenu global net de l'année de rupture de l'engagement et l'impôt
+correspondant est égal au produit de la cotisation supplémentaire ainsi obtenue
+par le nombre d'années pris en compte pour déterminer le quotient. Cette
+majoration n'est pas appliquée lorsque le non-respect de l'engagement est dû à
+l'invalidité correspondant au classement dans la deuxième ou la troisième des
+catégories prévues à l'article L. 341-4 du code de la sécurité sociale, au
+licenciement ou au décès du contribuable ou de l'un des époux soumis à
+imposition commune.
+
+((Les obligations déclaratives incombant aux contribuables concernés par les
+dispositions prévues aux cinquième et sixième alinéas sont fixées par décret))
+(M) ;
+
 L'imputation exclusive sur les revenus fonciers n'est pas non plus applicable
 aux déficits fonciers résultant de dépenses autres que les intérêts d'emprunt.
 L'imputation est limitée à 70 000 F . La fraction du déficit supérieure à 70 000
 F (6) et la fraction du déficit non imputable résultant des intérêts d'emprunt
 sont déduites dans les conditions prévues au premier alinéa.
 
-((La limite mentionnée au cinquième alinéa est portée à 100 000 F pour les
+La limite mentionnée au huitième alinéa est portée à 100 000 F pour les
 contribuables qui constatent un déficit foncier sur un logement pour lequel est
-pratiquée la déduction prévue au f du 1° du I de l'article 31)) (M2).
+pratiquée la déduction prévue au f du 1° du I de l'article 31.
 
 Lorsque le propriétaire cesse de louer un immeuble ou lorsque le propriétaire de
 titres d'une société non soumise à l'impôt sur les sociétés les vend, le revenu
@@ -147,7 +185,7 @@ Un contribuable ne peut pour un même logement ou une même souscription de titr
 pratiquer la réduction d'impôt mentionnée à l'article 199 undecies et imputer un
 déficit foncier sur le revenu global (7).
 
-4° ((Dispositions abrogées)) (M).
+4° Dispositions abrogées (à compter de l'imposition des revenus de 1996).
 
 5° Des pertes résultant d'opérations mentionnées aux articles 150 ter, 150
 octies et 150 nonies et 150 decies lorsque l'option prévue au 8° du paragraphe I
@@ -164,7 +202,7 @@ des cinq années suivantes.
 Ces dispositions s'appliquent aux pertes résultant d'opérations à terme sur
 marchandises réalisées à l'étranger.
 
-7° ((Dispositions abrogées)) (M).
+7° Dispositions abrogées (à compter de l'imposition des revenus de 1996).
 
 I bis. Du déficit correspondant aux frais exposés par un inventeur pour prendre
 un brevet ou en assurer la maintenance lorsqu'il ne perçoit pas de produits
@@ -187,23 +225,29 @@ ayant accédé à l'indépendance ;
 1° ter. Dans les conditions fixées par décret (8), les charges foncières
 afférentes aux immeubles classés monuments historiques ou inscrits à
 l'inventaire supplémentaire, ainsi qu'aux immeubles faisant partie du patrimoine
-national en raison de leur caractère historique ou artistique particulier et qui
-auront été agréés à cet effet par le ministre de l'économie et des finances ;
+national en raison de leur caractère historique ou artistique particulier ((ou
+en raison du label délivré par la "Fondation du patrimoine" en application de
+l'article 2 de la loi n° 96-590 du 2 juillet 1996 relative à la "Fondation du
+patrimoine" si ce label a été accordé sur avis favorable du service
+départemental de l'architecture et du patrimoine)) (M1) et qui auront été agréés
+à cet effet par le ministre de l'économie et des finances ;
 
 1° quater (Devenu sans objet).
 
 2° Arrérages de rentes payés par lui à titre obligatoire et gratuit constituées
 avant le 2 novembre 1959 ; pensions alimentaires répondant aux conditions fixées
-par les articles 205 à 211 et 367 du code civil ; rentes prévues à l'article 276
-du code civil et pensions alimentaires versées en vertu d'une décision de
-justice, en cas de séparation de corps ou de divorce, ou en cas d'instance en
-séparation de corps ou de divorce lorsque le conjoint fait l'objet d'une
-imposition séparée ; contribution aux charges du mariage définie à l'article 214
-du code civil, lorsque son versement résulte d'une décision de justice et à
-condition que les époux fassent l'objet d'une imposition séparée ; dans la
-limite de 18.000 F et, dans les conditions fixées par un décret en Conseil
-d'Etat, les versements destinés à constituer le capital de la rente prévue à
-l'article 294 du code civil (9).
+par les articles 205 à 211 et 367 du code civil ((à l'exception de celles
+versées aux ascendants quand il est fait application des dispositions prévues
+aux premier et deuxième alinéas du 1° de l'article 199 sexdecies)) (M) ; rentes
+prévues à l'article 276 du code civil et pensions alimentaires versées en vertu
+d'une décision de justice, en cas de séparation de corps ou de divorce, ou en
+cas d'instance en séparation de corps ou de divorce lorsque le conjoint fait
+l'objet d'une imposition séparée ; contribution aux charges du mariage définie à
+l'article 214 du code civil, lorsque son versement résulte d'une décision de
+justice et à condition que les époux fassent l'objet d'une imposition séparée ;
+dans la limite de 18.000 F et, dans les conditions fixées par un décret en
+Conseil d'Etat, les versements destinés à constituer le capital de la rente
+prévue à l'article 294 du code civil (9).
 
 Le contribuable ne peut opérer de déduction pour ses descendants mineurs, sauf
 pour ses enfants dont il n'a pas la garde ;
@@ -215,13 +259,13 @@ au profit du parent qui justifie qu'il participe seul à l'entretien du ménage.
 Toutefois, l'avantage en impôt résultant de la déduction prévue ci-dessus ne
 peut être inférieur par enfant à 4.000 F lorsque la pension alimentaire est
 versée au profit d'un enfant inscrit dans l'enseignement supérieur. Cet avantage
-minimal ne peut néanmoins excéder 35 p. 100 des sommes versées (10).
+minimal ne peut néanmoins excéder 35 p. 100 des sommes versées (10) (M1).
 
 Un contribuable ne peut, au titre d'une même année et pour un même enfant,
 bénéficier à la fois de la déduction d'une pension alimentaire et du
 rattachement. L'année où l'enfant atteint sa majorité, le contribuable ne peut à
 la fois déduire une pension pour cet enfant et le considérer à charge pour le
-calcul de l'impôt (10');
+calcul de l'impôt (10') (10'');
 
 2° bis (Abrogé) ;
 
@@ -233,7 +277,7 @@ l'allocation supplémentaire mentionnée à l'article L815-2 ou à l'article L81
 du code de la sécurité sociale (11). La déduction opérée par le contribuable ne
 peut excéder, par bénéficiaire, l'évaluation des avantages en nature de logement
 et de nourriture faite pour l'application aux salariés du régime de sécurité
-sociale (12).
+sociale (12) (10'').
 
 3° (Abrogé) ;
 
@@ -267,12 +311,12 @@ des articles 1234-1 à 1234-18 du code rural relatifs à l'assurance obligatoire
 des personnes non salariées contre les accidents de la vie privée, les accidents
 du travail et les maladies professionnelles dans l'agriculture.
 
+12° Dispositions devenues sans objet.
+
 (1) Le seuil de 200.000 F est applicable à compter de l'imposition des revenus
 de 1995.
 
-(M1) Modification de la loi 95-1346. [*Cf. Instruction 1996-08-01 4A-7-96.*]
-
-(M2) Modification de la loi 96-314.
+(1') [*Cf. Instruction 1996-08-01 4A-7-96.*]
 
 (2) Ces dispositions s'appliquent à compter de l'imposition des revenus de
 l'année 1996 et aux déficits encore reportables après le 31 décembre 1995. [*Cf.
@@ -287,6 +331,9 @@ nus-propriétaires s'applique aux dépenses payées à compter du 1er janvier 19
 ont obtenu une autorisation de travaux à compter du 1er janvier 1995. [*Cf.
 Instruction 1995-05-17 5D-5-95*].
 
+(M) Modification de la loi 96-987. Ces dispositions s'appliquent aux dépenses
+payées à compter du 1er janvier 1997.
+
 (6) Ces dispositions s'appliquent aux dépenses payées à compter du 1er janvier
 1995.
 
@@ -296,10 +343,11 @@ aux dépenses payées à compter du 1er janvier 1993.
 
 (8) Voir Annexe III, art. 41 E à 41 J.
 
+(M1) Modification de la loi 96-1181.
+
 (9) Voir Annexe II, art. 91 quinquies.
 
-(10) Le chiffre de 4000 F s'applique à compter de l'imposition des revenus de
-1989.
+(10) Alinéa supprimé à compter de l'imposition des revenus de 1998.
 
 (10') [*Cf. Réponse ministérielle 1996-10-04 5B-14-96*].
 

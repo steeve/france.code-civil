@@ -7,12 +7,12 @@ a. Aux compétitions relevant des activités sportives ci-après :
 
 athlétisme, aviron, natation, gymnastique et escrime ;
 
-b. Jusqu'au 31 décembre 1996, aux compétitions relevant des activités sportives
+b. Jusqu'au 31 décembre 2000 aux compétitions relevant des activités sportives
 ci-après : aïkido, badminton, balle au tambourin, ballon au poing, ball-trap,
 base-ball, boxe française, canne, canoë-kayak, char à voile, escalade, football
-américain, haltérophilie, hand-ball, hockey sur gazon, javelot-tir sur cible,
-jeu de paume, judo, karaté, kendo, longue paume, lutte, motonautisme,
-parachutisme, patinage à roulettes, pelote basque, pentathlon, pétanque et jeu
-provençal, raquettes-ball, skateboard, ski, squash-raquettes, sports de boules,
-sports de quilles, surf, tchouk-ball, tennis de table, tir, tir à l'arc,
-trampoline, triathlon, twirling-bâton et volley-ball.
+américain, haltérophilie, handball, hockey sur gazon, javelot-tir sur cible, jeu
+de paume, judo, karaté, kendo, longue paume, lutte, motonautisme, parachutisme,
+patinage à roulettes, pelote basque, pentathlon, pétanque et jeu provençal,
+skate-board, ski, squash-raquettes, sports de boules, sports de quilles, surf,
+taekwondo, tennis de table, tir, tir à l'arc, trampoline, triathlon,
+twirling-bâton et volley-ball.

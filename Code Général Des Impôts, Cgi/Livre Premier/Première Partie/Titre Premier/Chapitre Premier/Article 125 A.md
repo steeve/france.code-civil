@@ -104,12 +104,23 @@ p. 100 (3).
 Le taux de 35 p. 100 est remplacé par celui de 15 p. 100 lorsque le boni est
 réparti à compter du 1er janvier 1995.
 
+((9° à 15 p. 100 pour les produits des bons et titres énumérés au 2° émis à
+compter du 1er janvier 1998 lorsque le souscripteur et le bénéficiaire, s'il est
+différent, ont autorisé, lors de la souscription, l'établissement auprès duquel
+les bons ou titres ont été souscrits à communiquer leur identité et leur
+domicile fiscal à l'administration fiscale et à condition que le bon ou titre
+n'ait pas été cédé,
+
+((et à 50 p. 100 lorsque l'une de ces conditions n'est pas remplie.
+
+((Un décret fixe les conditions d'application du présent 9°)) (M).
+
 IV. L'option pour le prélèvement est subordonnée :
 
 a. En ce qui concerne les produits d'obligations, à la condition que l'emprunt
 ait été émis dans des conditions approuvées par le ministre de l'économie et des
-finances ((et que le capital et les intérêts ne fassent pas l'objet d'une
-indexation)) (3').
+finances et que le capital et les intérêts ne fassent pas l'objet d'une
+indexation (4).
 
 b. En ce qui concerne les produits des bons de caisse, à la condition que les
 bons aient été émis par des établissements de crédit ;
@@ -123,7 +134,7 @@ d'une entreprise industrielle, commerciale, artisanale ou agricole, ou d'une
 profession non commerciale.
 
 VI. Les modalités et conditions d'application du présent article sont fixées par
-décret (4).
+décret (5).
 
 (1) Annexe IV, art. 6 quater et 6 quinquies.
 
@@ -131,7 +142,10 @@ décret (4).
 
 (3) Taux applicable aux produits encaissés à compter du 1er janvier 1990.
 
-(3') Modification. Cette disposition est applicable aux produits encaissés à
-compter du 1er janvier 1996. [*Cf. Instruction 1996-07-23 5I-3-96.*]
+(M) Modification de la loi 96-1181, pour les bons et contrats émis à compter du
+1er janvier 1998.
 
-(4) Annexe III, art. 41 duodecies A à 41 duodecies H.
+(4) Cette disposition est applicable aux produits encaissés à compter du 1er
+janvier 1996. [*Cf. Instruction 1996-07-23 5I-3-96.*]
+
+(5) Annexe III, art. 41 duodecies A à 41 duodecies H.

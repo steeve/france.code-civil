@@ -4,8 +4,8 @@ Les taux des contributions prévues pour l'alimentation du Fonds de garantie
 contre les accidents de circulation et de chasse en application des articles 323
 et 323 A de l'annexe II au code général des impôts sont fixés comme suit :
 
-a) Contribution des entreprises d'assurance : 5 p. 100 de la totalité des
-charges du fonds de garantie ;
+a) Contribution des entreprises d'assurance : 1 p. 100 de la totalité des
+charges du fonds de garantie (1) ;
 
 b) Contribution des responsables d'accidents corporels non assurés :
 
@@ -15,4 +15,6 @@ b) Contribution des responsables d'accidents corporels non assurés :
 animaux nuisibles effectuée en vertu des articles L. 227-6 à L. 227-9 du code
 rural : 5 p. 100 ;
 
-c) Contribution forfaitaire des assurés : 0,50 F par personne garantie.
+c) Contribution forfaitaire des assurés : 0,10 F par personne garantie (1).
+
+(1) Taux et tarif applicables à compter du 1er janvier 1997.

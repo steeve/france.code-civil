@@ -27,7 +27,7 @@ dans les trente jours de la date de dépôt des bordereaux-avis de versement.
 
 3. (Transféré sous le 5).
 
-4. (Dispositions devenues sans objet) (M).
+4. (Dispositions devenues sans objet).
 
 4 bis. L'entreprise qui estime que le montant des acomptes déjà versés au titre
 d'un exercice est égal ou supérieur à la plus élevée des sommes définies
@@ -36,7 +36,7 @@ comptable du Trésor chargé du recouvrement des impôts directs, avant la date
 d'exigibilité du prochain versement à effectuer, une déclaration datée et
 signée.
 
-Les sommes mentionnées à l'alinéa précédent s'entendent :
+Les sommes mentionnées au premier alinéa s'entendent :
 
 a) Du produit du taux normal de 33,33 p. 100 des acomptes afférent à l'exercice
 concerné par le bénéfice prévisionnel de cet exercice, imposable au taux normal
@@ -46,11 +46,21 @@ b) De la cotisation totale d'impôt sur les sociétés dont l'entreprise sera
 finalement redevable au titre de l'exercice concerné, avant imputation des
 crédits d'impôt et avoirs fiscaux.
 
-5. Les modalités d'application du présent article sont fixées par décret (2).
+((4 ter. Le bénéfice de référence et le bénéfice prévisionnel visés au I et au a
+du 4 bis s'entendent des bénéfices soumis aux taux fixés au deuxième alinéa et
+au f du I de l'article 219 du code général des impôts)) (M).
 
-(M) Modification.
+5. Les modalités d'application du présent article sont fixées par décret (2).
 
 (1) Ce taux s'applique pour la détermination des acomptes échus au cours
 d'exercices ouverts à compter du 1er janvier 1993.
+
+(M) Modification de la loi 96-1181.
+
+Les conditions d'application ainsi que les obligations déclaratives qui en
+découlent sont fixées par décret.
+
+Ces dispositions s'appliquent pour l'imposition des résultats des exercices
+ouverts à compter du 1er janvier 1996.
 
 (2) Voir annexe III art. 358 à 365 et 366.

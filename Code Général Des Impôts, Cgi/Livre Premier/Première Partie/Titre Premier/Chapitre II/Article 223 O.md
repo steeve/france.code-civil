@@ -16,12 +16,12 @@ c) Des crédits d'impôt pour dépenses de formation dégagés par chaque socié
 groupe en application de l'article 244 quater C. Les dispositions du premier
 alinéa de l'article 199 ter C s'appliquent à la somme de ces crédits d'impôt.
 
-d) Des crédits d'impôt pour accroissement de la durée d'utilisation des
-équipements et réduction de la durée hebdomadaire du travail dégagés par chaque
-société du groupe en application de l'article 244 quater E.
+d) (Périmé) (M).
 
 2. La société mère est substituée aux sociétés du groupe pour l'imputation, sur
 le montant du précompte dont elle est redevable, le cas échéant, en cas de
 distribution, de la fraction des avoirs fiscaux et crédits d'impôt attachés aux
 produits de participation qui ont ouvert droit à l'application du régime des
 sociétés mères visé aux articles 145 et 216.
+
+(M) Modification.

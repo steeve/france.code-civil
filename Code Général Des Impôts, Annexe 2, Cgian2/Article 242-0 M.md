@@ -12,11 +12,11 @@ général des impôts.
 
 2. Pour l'application du 1, ne sont pas considérés comme réalisés en France :
 
-a. les transports et prestations accessoires exonérés ((en application du
-premier alinéa du I, des 7° à 11° bis, et 14° du II)) (M) de l'article 262 du
-code général des impôts ainsi que du 2° du III de l'article 291 du même code;
+a. les transports et prestations accessoires exonérés en application du premier
+alinéa du I, des 7° à 11° bis, et 14° du II de l'article 262 du code général des
+impôts ainsi que du 2° du III de l'article 291 du même code ;
 
-b. les prestations mentionnées aux 3°, 5° et 6° de l'article 259 A et à
+b. les prestations mentionnées aux 3°, 4° bis, 5° et 6° de l'article 259 A et à
 l'article 259 B du code général des impôts, pour lesquelles la taxe est due par
 le preneur en vertu du 2° de l'article 283 du même code.
 
@@ -24,4 +24,5 @@ c. Les livraisons mentionnées au 2° du I de l'article 258 D du code général 
 impôts, pour lesquelles la taxe est due par le destinataire en application du 2
 ter de l'article 283 du même code.
 
-(M) Modification de la Loi.
+d. Les livraisons et les prestations mentionnées aux 1°, 2°, 5°, 6° et 7° du I
+de l'article 277 A du code général des impôts.

@@ -18,6 +18,20 @@ années suivantes à condition que, pendant cette période, l'exploitation des
 droits concédés représente au moins la moitié du chiffre d'affaires de
 l'entreprise.
 
+((I ter. L'imposition de la plus-value constatée lors de l'apport, par un
+inventeur personne physique, d'un brevet, d'une invention brevetable, ou d'un
+procédé de fabrication industriel qui remplit les conditions mentionnées aux a,
+b et c du 1 de l'article 39 terdecies, à une société chargée de l'exploiter
+peut, sur demande expresse du contribuable, faire l'objet d'un report jusqu'à la
+cinquième année suivant celle au cours de laquelle l'apport a été effectué ou
+jusqu'à la date de la cession ou du rachat des droits sociaux reçus en
+rémunération de l'apport, si cette cession ou ce rachat intervient avant
+l'expiration de ce délai de report.
+
+((Les dispositions des quatrième et cinquième alinéas du II de l'article 151
+octies sont applicables aux plus-values dont l'imposition est reportée en
+application du premier alinéa)) (M) (1).
+
 II. L'imposition de la plus-value constatée lors de l'apport par un associé de
 la clientèle ou des éléments d'actif affectés à l'exercice de sa profession, à
 une société civile professionnelle, constituée conformément aux dispositions de
@@ -27,12 +41,12 @@ L'application de cette disposition est subordonnée à la condition que l'apport
 soit réalisé dans le délai de dix ans à compter de la publication du décret en
 Conseil d'Etat propre à la profession considérée.
 
-((Toutefois, le report d'imposition prévu au premier alinéa est maintenu en cas
-de transformation de la société civile professionnelle en société d'exercice
+Toutefois, le report d'imposition prévu au premier alinéa est maintenu en cas de
+transformation de la société civile professionnelle en société d'exercice
 libéral jusqu'à la date de transmission, de rachat ou d'annulation des parts ou
 actions de l'associé. Les dispositions des quatrième et cinquième alinéas du II
 de l'article 151 octies sont applicables à l'associé à compter de la
-transformation)) (M) (1).
+transformation (2).
 
 Les dispositions du premier alinéa ne s'appliquent pas aux plus-values
 constatées à l'occasion d'apports en sociétés visés aux I et II de l'article 151
@@ -44,27 +58,42 @@ la loi n° 66-455 du 2 juillet 1966 relative aux entreprises pratiquant le
 crédit-bail sont considérés comme des immobilisations lorsque les loyers versés
 ont été déduits pour la détermination du bénéfice non commercial.
 
-((IV. 1. Pour l'application des dispositions du premier alinéa du I aux
-immeubles acquis dans les conditions prévues au 6 de l'article 93 et
-précédemment donnés en sous-location, l'imposition de la plus-value consécutive
-au changement de régime fiscal peut, sur demande expresse du contribuable, être
-reportée au moment où s'opérera la transmission de l'immeuble ou, le cas
-échéant, la transmission ou le rachat de tout ou partie des titres de la société
+IV. 1. Pour l'application des dispositions du premier alinéa du I aux immeubles
+acquis dans les conditions prévues au 6 de l'article 93 et précédemment donnés
+en sous-location, l'imposition de la plus-value consécutive au changement de
+régime fiscal peut, sur demande expresse du contribuable, être reportée au
+moment où s'opérera la transmission de l'immeuble ou, le cas échéant, la
+transmission ou le rachat de tout ou partie des titres de la société
 propriétaire de l'immeuble ou sa dissolution.
 
-((2. Cette disposition s'applique aux plus-values réalisées à compter du 1er
+2. Cette disposition s'applique aux plus-values réalisées à compter du 1er
 janvier 1990.
 
-((3. L'acte qui constate le transfert de propriété des immeubles mentionnés au 1
+3. L'acte qui constate le transfert de propriété des immeubles mentionnés au 1
 consécutivement à l'acceptation de la promesse unilatérale de vente doit
 indiquer si le nouveau propriétaire, ou les associés s'il s'agit d'une société,
 demandent le report de l'imposition de la plus-value dans les conditions prévues
 au 1. A défaut, les dispositions du 1 ne sont pas applicables.
 
-((4. Un décret fixe les conditions d'application du présent IV, notamment les
-obligations déclaratives des contribuables)) (M).
+4. Un décret fixe les conditions d'application du présent IV, notamment les
+obligations déclaratives des contribuables.
 
-(M) Modification.
+((V. Les dispositions du 7 bis de l'article 38 sont applicables au profit ou à
+la perte réalisés lors de l'échange de droits sociaux résultant d'une fusion ou
+d'une scission de sociétés bénéficiant du régime prévu à l'article 210 B,
+lorsque ces droits sont affectés à l'exercice de la profession au sens de
+l'article 93.
 
-(1) Ces dispositions s'appliquent aux apports et aux transformations réalisés à
+((Ce régime est applicable sous les conditions et sanctions prévues à l'article
+54 septies)) (M) (3).
+
+(M) Modification de la loi 96-1181.
+
+(1) La disposition s'applique aux apports réalisés à compter du 1er janvier
+1997.
+
+(2) Ces dispositions s'appliquent aux apports et aux transformations réalisés à
 compter du 1er janvier 1994.
+
+(3) Ces dispositions s'appliquent aux opérations réalisées à compter du 1er
+janvier 1997.

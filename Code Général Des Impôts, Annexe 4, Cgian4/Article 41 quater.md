@@ -1,7 +1,8 @@
 Article 41 quater
 ----
-Les registres visés aux articles 41 bis et 41 ter sont tenus sur support papier
-ou informatique. Ils doivent être identifiés. Ils retracent les mouvements de
+Les registres visés au 3 du II de l'article 286 quater du code général des
+impôts et aux articles 41 bis et 41 ter sont tenus sur support papier ou
+informatique. Ils doivent être identifiés. Ils retracent les mouvements de
 biens, de matériaux et de produits transformés dans l'ordre chronologique des
 opérations.
 

@@ -18,7 +18,8 @@ qualité de redevables des taxes ;
 
 Les mêmes dispositions s'appliquent en cas d'absence de dépôt dans le délai
 légal des déclarations abrégées prévues à l'article 242 quater de l'annexe II au
-code général des impôts.
+code général des impôts ((ou de la déclaration prévue à l'article 302 sexies du
+même code)) (M).
 
 4° Aux droits d'enregistrement et aux taxes assimilées, les personnes qui n'ont
 pas déposé une déclaration ou qui n'ont pas présenté un acte à la formalité de
@@ -29,3 +30,5 @@ régularisation prévue à l'article L. 67 ;
 n'ont pas déposé dans le délai légal les déclarations qu'elles sont tenues de
 souscrire, sous réserve de la procédure de régularisation prévue l'article L.
 68.
+
+(M) Modification de la loi 96-1181.

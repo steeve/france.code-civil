@@ -7,17 +7,20 @@ en cours au 31 décembre de l'année d'imposition.
 
 Le montant de la réduction d'impôt est fixé à :
 
-400 F par enfant fréquentant un collège ;
+((200 F)) (M) par enfant fréquentant un collège ;
 
-1 000 F par enfant fréquentant un lycée d'enseignement général et technologique
-ou un lycée professionnel ;
+((500 F)) (M) par enfant fréquentant un lycée d'enseignement général et
+technologique ou un lycée professionnel ;
 
-1 200 F par enfant suivant une formation d'enseignement supérieur.
+((600 F)) (M) par enfant suivant une formation d'enseignement supérieur.
 
 Le bénéfice de la réduction d'impôt est subordonné à la condition que soit joint
 à la déclaration des revenus un certificat de scolarité établi par le chef de
 l'établissement fréquenté. A défaut, la réduction d'impôt est refusée sans
 notification de redressement préalable.
 
-La réduction s'applique sur l'impôt calculé dans les conditions fixées à
-l'article 197 ; elle ne peut donner lieu à remboursement.
+((Les dispositions du 5 du I de l'article 197 sont applicables)) (M).
+
+(M) Modification de la loi 96-1181 pour l'imposition des revenus de 1997 ; art.
+91 II : Les dispositions de l'article sont abrogées à compter de l'imposition
+des revenus de 1998.

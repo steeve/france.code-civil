@@ -36,18 +36,18 @@ c. Les sociétés en commandite simple ;
 
 d. Les sociétés en participation ;
 
-e. Les sociétés à responsabilité limitée dont l'associé unique es une personne
+e. Les sociétés à responsabilité limitée dont l'associé unique est une personne
 physique ;
 
 f. Les exploitations agricoles à responsabilité limitée mentionnée au 5° de
 l'article 8.
 
-((g. les groupements d'intérêt public mentionnés à l'article 239 quater B)) (M).
+g. les groupements d'intérêt public mentionnés à l'article 239 quater B (0).
 
-((h. Les sociétés civiles professionnelles visées à l'article 8 ter)) (M1).
+h. Les sociétés civiles professionnelles visées à l'article 8 ter (0).
 
-Cette option entraîne l'application auxdites sociétés ((et auxdits groupements))
-(M), sous réserve des exceptions prévues par le présent code, de l'ensemble des
+Cette option entraîne l'application auxdites sociétés et auxdits groupements,
+sous réserve des exceptions prévues par le présent code, de l'ensemble des
 dispositions auxquelles sont soumises les personnes morales visées au 1.
 
 4. Même à défaut d'option, l'impôt sur les sociétés s'applique, sous réserve des
@@ -125,13 +125,15 @@ Un décret fixe les conditions d'application du présent 9 (5).
 10. Les caisses d'épargne et de prévoyance et les caisses de crédit municipal
 sont assujetties à l'impôt sur les sociétés (6).
 
-(M) Modification des lois.
+((11. Les fonds d'épargne retraite prévus par la loi n° 97-277 du 25 mars 1997
+créant les plans d'épargne retraite sont assujettis à l'impôt sur les sociétés,
+dans les conditions de droit commun)) (M).
 
-(M1) Ces dispositions sont applicables pour l'imposition des résultats des
+(0) Ces dispositions sont applicables pour l'imposition des résultats des
 exercices ouverts à compter du 1er janvier 1996. [*Cf. Instructions 1996-07-12
 5G-8-96, 4H-2-96.*]
 
-Pour 1996, et par dérogation aux dispositions de l'article 239 du code général
+Pour 1996, et par dérogation aux dispositions de l'article 239 du cod( général
 des impôts, les sociétés civiles professionnelles peuvent exercer l'option pour
 l'assujettissement à l'impôt sur les sociétés jusqu'au 30 juin de cette année.
 
@@ -150,3 +152,5 @@ l'assujettissement à l'impôt sur les sociétés jusqu'au 30 juin de cette ann�
 (5) Annexe III, art. 46 quater-0 Z à 46 quater-0 ZC.
 
 (6) Voir art. 217 octies.
+
+(M) Modification.
