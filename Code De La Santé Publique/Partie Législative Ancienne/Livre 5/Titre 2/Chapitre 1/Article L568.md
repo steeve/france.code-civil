@@ -1,5 +1,5 @@
 Article L568
 ----
-On entend par officine [*définition*] l'établissement affecté à l'exécution des
-ordonnances magistrales, à la préparation des médicaments inscrits au codex
-[*pharmacopée*] et à la vente au détail des produits visés à l'article L. 511.
+On entend par officine [*définition*] l'établissement affecté à la dispensation
+au détail des médicaments, produits et objets mentionnés à l'article L. 512
+ainsi qu'à l'exécution des préparations magistrales ou officinales.

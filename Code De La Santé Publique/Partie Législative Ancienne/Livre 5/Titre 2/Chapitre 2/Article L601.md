@@ -1,12 +1,10 @@
 Article L601
 ----
-On entend par spécialité pharmaceutique [*définition*] tout médicament préparé à
-l'avance, présenté sous un conditionnement particulier et caractérisé par une
-dénomination spéciale.
-
-Aucune spécialité ne peut être débitée à titre gratuit ou onéreux si elle n'a
-reçu, au préalable, une autorisation de mise sur le marché [*condition de
-vente*] délivrée par le ministre des Affaires sociales [*autorité compétente*].
+Tout médicament ou produit pharmaceutique ou tout autre médicament fabriqué
+industriellement ainsi que tout générateur, trousse ou précurseur doit faire
+l'objet, avant sa commercialisation ou sa distribution à titre gratuit, en gros
+ou au détail, d'une autorisation de mise sur le marché [*condition de vente*]
+délivrée par le ministre chargé de la santé [*autorité compétente*].
 
 Cette autorisation peut être assortie de conditions adéquates. Elle n'est
 accordée que lorsque le fabricant justifie :
@@ -29,4 +27,4 @@ L'accomplissement des formalités prévues au présent article n'a pas pour effe
 d'exonérer le fabricant ou, s'il est distinct, le titulaire de l'autorisation de
 mise sur le marché de la responsabilité que l'un ou l'autre peut encourir dans
 les conditions du droit commun en raison de la fabrication ou de la mise sur le
-marché d'une spécialité.
+marché d'un médicament ou produit.

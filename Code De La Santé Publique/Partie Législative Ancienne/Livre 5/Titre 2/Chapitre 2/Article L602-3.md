@@ -2,9 +2,9 @@ Article L602-3
 ----
 I. - Les redevables de la taxe [*obligation*] sont tenus d'adresser au ministre
 de la santé, au plus tard le 31 mars de chaque année [*date limite*], une
-déclaration indiquant les spécialités pharmaceutiques donnant lieu au paiement
-de la taxe. Cette déclaration est établie conformément au modèle fixé par arrêté
-du ministre de la santé.
+déclaration indiquant les médicaments et produits donnant lieu au paiement de la
+taxe. Cette déclaration est établie conformément au modèle fixé par arrêté du
+ministre de la santé.
 
 II. - En l'absence de déclaration dans le délai fixé ou en cas de déclaration
 inexacte, le ministre de la santé peut procéder à une taxation d'office qui

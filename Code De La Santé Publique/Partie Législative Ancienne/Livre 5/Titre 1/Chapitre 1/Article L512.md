@@ -13,18 +13,21 @@ préparation des produits et réactifs conditionnés en vue de la vente au publi
 et qui, sans être visés à l'article L. 511 ci-dessus, sont cependant destinés au
 diagnostic médical ou à celui de la grossesse ;
 
-3° La vente en gros, la vente au détail et toute délivrance au public des mêmes
-produits et objets ;
+3° La préparation des générateurs, trousses ou précurseurs mentionnés à
+l'article L. 511-1 ;
 
-4° La vente des plantes médicinales inscrites à la pharmacopée sous réserve des
-dérogations établies par décret.
+4° La vente en gros, la vente au détail et toute dispensation au public des
+médicaments, produits et objets mentionnés aux 1°, 2° et 3° ci-dessus ;
 
-5° La vente au détail et toute délivrance au public des huiles essentielles dont
-la liste est fixée par décret ainsi que de leurs dilutions et préparations ne
-constituant ni des produits cosmétiques ou d'hygiène corporelle, ni des produits
-à usage ménager, ni des denrées ou boissons alimentaires .
+5° La vente des plantes médicinales inscrites à la pharmacopée sous réserve des
+dérogations établies par décret ;
 
-6° La vente au détail et toute délivrance au public des aliments lactés
+6° La vente au détail et toute dispensation au public des huiles essentielles
+dont la liste est fixée par décret ainsi que de leurs dilutions et préparations
+ne constituant ni des produits cosmétiques ou d'hygiène corporelle, ni des
+produits à usage ménager, ni des denrées ou boissons alimentaires ;
+
+7° La vente au détail et toute dispensation au public des aliments lactés
 diététiques pour nourrissons et des aliments de régime destinés aux enfants du
 premier âge (moins de quatre mois), dont les caractéristiques sont fixées par
 arrêté conjoint du ministre chargé de la santé et du ministre chargé de la

@@ -3,11 +3,11 @@ Article L605
 Des décrets en Conseil d'Etat précisent les conditions d'application des
 articles L. 601 à L. 604 ci-dessus, et notamment :
 
-1° Les règles concernant la présentation et la dénomination des spécialités
-pharmaceutiques ;
+1° Les règles concernant la présentation et la dénomination des médicaments et
+produits ;
 
-2° Les justifications, y compris celles relatives à l'étiquetage des
-spécialités, qui doivent être fournies à l'appui des demandes d'autorisation de
+2° Les justifications, y compris celles relatives à l'étiquetage des médicaments
+ou produits, qui doivent être fournies à l'appui des demandes d'autorisation de
 mise sur le marché et qui comprennent obligatoirement la vérification de
 l'existence des propriétés définies à l'article L. 601 ci-dessus par des experts
 possédant les qualifications techniques et professionnelles fixées par le même
@@ -33,13 +33,13 @@ autorisation de mise sur le marché ainsi qu'aux essais organisés après la
 délivrance de cette autorisation.
 
 7° Les restrictions qui peuvent être apportées dans l'intérêt de la santé
-publique à la délivrance de certains médicaments ;
+publique à la prescription et à la délivrance de certains médicaments ;
 
 8° Les règles applicables en cas de changement du titulaire de l'autorisation de
 mise sur le marché.
 
 9° Les conditions d'application des articles L. 602 à L. 602-4 relatifs à la
-taxe annuelle des spécialités pharmaceutiques.
+taxe annuelle des médicaments et produits.
 
 10° Les règles applicables à la pharmacovigilance exercée sur les médicaments
 postérieurement à la délivrance de l'autorisation administrative de mise sur le
