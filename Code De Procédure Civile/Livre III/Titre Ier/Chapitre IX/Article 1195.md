@@ -1,0 +1,9 @@
+Article 1195
+----
+Les convocations et notifications sont faites par le greffier par [*modalités*]
+lettre recommandée avec demande d'avis de réception ; le juge peut [*pouvoirs*]
+toutefois, décider qu'elles auront lieu par acte d'huissier de justice ou par la
+voie administrative.
+
+La remise d'une expédition du jugement contre récépissé daté et signé équivaut à
+la notification.
