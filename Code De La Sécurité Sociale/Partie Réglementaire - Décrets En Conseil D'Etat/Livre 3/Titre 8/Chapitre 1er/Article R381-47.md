@@ -1,8 +1,8 @@
 Article R381-47
 ----
-La caisse mutuelle d'assurance maladie des cultes peut faire appel à des
-correspondants locaux chargés de constituer les dossiers des assurés sociaux
-résidant dans la circonscription qui leur est attribuée.
+La caisse d'assurance vieillesse, invalidité et maladie des cultes peut faire
+appel à des correspondants locaux chargés de constituer les dossiers des assurés
+sociaux résidant dans la circonscription qui leur est attribuée.
 
 Ces correspondants peuvent, en outre, recevoir du conseil d'administration de la
 caisse des missions plus étendues.

@@ -1,6 +1,6 @@
 Article R721-53
 ----
 L'assuré volontaire a la faculté de demander la résiliation de son assurance par
-simple lettre adressée à la caisse mutuelle d'assurance vieillesse des cultes
-[*formalités*]. La radiation prend effet à compter du premier jour du mois civil
-qui suit cette demande .
+simple lettre adressée à la caisse d'assurance vieillesse, invalidité et maladie
+des cultes [*formalités*]. La radiation prend effet à compter du premier jour du
+mois civil qui suit cette demande .

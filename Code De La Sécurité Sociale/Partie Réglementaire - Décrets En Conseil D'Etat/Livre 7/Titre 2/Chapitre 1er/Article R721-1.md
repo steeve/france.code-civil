@@ -20,9 +20,8 @@ collectivités religieuses des divers cultes, et les questions relatives au
 statut juridique des cultes et aux problèmes de sociologie religieuse.
 
 Un représentant de la caisse nationale de l'assurance maladie des travailleurs
-salariés, un représentant de la caisse mutuelle d'assurance maladie des cultes
-et un représentant de la caisse mutuelle d'assurance vieillesse des cultes
-siègent à la commission, à titre consultatif.
+salariés, deux représentants de la caisse d'assurance vieillesse, invalidité et
+maladie des cultes, siègent à la commission, à titre consultatif.
 
 La commission peut entendre à titre consultatif toute personne qui paraît
 pouvoir lui apporter un concours utile.

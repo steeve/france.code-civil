@@ -7,10 +7,8 @@ simultanément à l'intéressé et au conseil d'administration.
 
 Les dispositions du présent article sont applicables à tous organismes, à
 l'exception de ceux ayant le caractère d'établissement public, des organismes
-d'assurance vieillesse des professions libérales, des caisses mutuelles
-d'assurance maladie et d'assurance vieillesse des cultes.
+d'assurance vieillesse des professions libérales.
 
-Les dispositions du présent article ne sont pas applicables [*hors champ
-d'application*] aux organismes dont les agents de direction et les agents
-comptables sont nommés par une autorité de tutelle dans les conditions fixées
-par les textes législatifs et réglementaires.
+Les dispositions du présent article ne sont pas applicables aux organismes dont
+les agents de direction et les agents comptables sont nommés par une autorité de
+tutelle dans les conditions fixées par les textes législatifs et réglementaires.

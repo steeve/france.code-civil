@@ -6,9 +6,8 @@ sécurité sociale :
 1°) les administrateurs qui cessent de remplir l'une des conditions prévues à
 l'article R. 721-16 ;
 
-2°) les administrateurs qui cessent d'appartenir au culte au titre duquel ils
-avaient été nommés ou dont les associations, congrégations ou unions les ayant
-désignés demandent la démission ;
+2°) les administrateurs qui cessent d'appartenir à la catégorie prévue à
+l'article R. 721-14 au titre de laquelle ils avaient été nommés ;
 
 3°) les membres du conseil d'administration qui, sans motif valable, n'assistent
 pas à quatre séances consécutives [*absence*] ;

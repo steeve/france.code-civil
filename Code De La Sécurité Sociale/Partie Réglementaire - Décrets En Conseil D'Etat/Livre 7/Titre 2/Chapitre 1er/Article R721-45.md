@@ -9,9 +9,9 @@ régime pour une invalidité ou incapacité ayant la même origine que celle pou
 laquelle ils sont déjà pensionnés.
 
 La pension du régime d'assurance invalidité institué par l'article L. 721-1 peut
-être attribuée lorsque l'incapacité totale et définitive d'exercer dont est
-atteint l'assuré résulte soit d'une cause étrangère à la précédente invalidité
-ou incapacité ayant déjà donné lieu à l'attribution d'une pension ou rente
-mentionnée au précédent alinéa, soit d'une aggravation de cette invalidité ou
-incapacité lorsque, dans ce dernier cas, cette aggravation n'est pas susceptible
-d'être indemnisée au titre de la législation ou de la réglementation en cause.
+être attribuée lorsque l'incapacité totale d'exercer dont est atteint l'assuré
+résulte soit d'une cause étrangère à la précédente invalidité ou incapacité
+ayant déjà donné lieu à l'attribution d'une pension ou rente mentionnée au
+précédent alinéa, soit d'une aggravation de cette invalidité ou incapacité
+lorsque, dans ce dernier cas, cette aggravation n'est pas susceptible d'être
+indemnisée au titre de la législation ou de la réglementation en cause.

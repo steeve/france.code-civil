@@ -11,11 +11,9 @@ Il la saisit également à la demande :
 
 2°) de la caisse nationale de l'assurance maladie des travailleurs salariés ;
 
-3°) de la caisse mutuelle d'assurance maladie des cultes ;
+3°) de la caisse d'assurance vieillesse, invalidité et maladie des cultes ;
 
-4°) de la caisse mutuelle d'assurance vieillesse des cultes ;
-
-5°) des associations, congrégations et collectivités religieuses.
+4°) des associations, congrégations et collectivités religieuses.
 
 Le ministre informe de la saisine les organismes, associations, congrégations ou
 collectivités intéressés dont émane la demande.

@@ -12,5 +12,4 @@ supérieures de sécurité sociale.
 Les dispositions du présent article sont applicables à tous organismes, à
 l'exception de ceux ayant le caractère d'établissement public, de la caisse
 autonome nationale de la sécurité sociale dans les mines, des organismes
-d'assurance vieillesse des professions libérales, des caisses mutuelles
-d'assurance maladie et d'assurance vieillesse des cultes.
+d'assurance vieillesse des professions libérales.
