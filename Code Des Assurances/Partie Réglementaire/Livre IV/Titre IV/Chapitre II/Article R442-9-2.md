@@ -1,4 +1,4 @@
-Article R*432-39
+Article R442-9-2
 ----
 Le risque politique est réalisé lorsqu'il est porté atteinte aux droits de
 propriété de l'investisseur ou à ceux qui y sont attachés, ou encore aux droits
