@@ -1,12 +1,13 @@
 Article 349
 ----
-Dans les départements où il existe plusieurs directions des services fiscaux les
-représentants de l'administration appelés à faire partie de la commission de
-conciliation instituée par l'article 1653 A du code général des impôts sont
-désignés par le directeur régional des impôts territorialement compétent.
+Dans les départements où existent plusieurs directions des services fiscaux,
+plusieurs commissions de conciliation peuvent être instituées par arrêté du
+ministre chargé du budget qui fixe leur siège et leur circonscription. Les
+représentants de l'administration appelés à siéger au sein de ces commissions
+sont désignés pour chacune d'entre elles par le directeur des services fiscaux
+dont le ressort territorial de la direction correspond à celui de la commission.
 
-Plusieurs commissions peuvent s'il est nécessaire être instituées dans un même
-département par un arrêté du ministre de l'économie et des finances qui fixe
-leur siège et leur circonscription. Les membres fonctionnaires de ces
-commissions sont désignés par le directeur régional des impôts territorialement
-compétent.
+Pour le département de Paris, les représentants de l'administration appelés à
+siéger au sein de la commission départementale de conciliation sont désignés par
+le directeur chargé de la direction spécialisée des impôts pour la région
+d'Ile-de-France et pour Paris.

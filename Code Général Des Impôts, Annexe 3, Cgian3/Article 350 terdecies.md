@@ -1,22 +1,25 @@
 Article 350 terdecies
 ----
 I. Sous réserve des dispositions des articles 409 et 410 de l'annexe II au code
-général des impôts, seuls les fonctionnaires titulaires de la direction générale
-des impôts appartenant à des corps des catégories A et B peuvent fixer les bases
+général des impôts, seuls les fonctionnaires de la direction générale des impôts
+appartenant à des corps des catégories A et B peuvent fixer les bases
 d'imposition et liquider les impôts, taxes et redevances ainsi que notifier les
 redressements.
 
 Les fonctionnaires mentionnés au premier alinéa peuvent se faire assister pour
-les opérations de contrôle par des stagiaires et par tout autre fonctionnaire
-des impôts affecté ou non dans le ressort territorial du même service.
+les opérations de contrôle par des fonctionnaires stagiaires et par tout autre
+fonctionnaire des impôts affecté ou non dans le même service déconcentré ou
+service à compétence nationale.
 
 II. Les fonctionnaires mentionnés au premier alinéa du I peuvent exercer les
 attributions que ces dispositions leur confèrent à l'égard des personnes
-physiques ou morales ou groupements de personnes de droit ou de fait qui ont
-déposé ou auraient dû déposer dans le ressort territorial de leur service
-d'affectation une déclaration, un acte ou tout autre document ainsi qu'à l'égard
-des personnes ou groupements qui, en l'absence d'obligation déclarative, y ont
-été ou auraient dû y être imposés.
+physiques ou morales ou groupements de personne de droit ou de fait qui ont
+déposé ou auraient dû déposer dans le ressort territorial du service déconcentré
+ou du service à compétence nationale dans lequel ils sont affectés une
+déclaration, un acte ou tout autre document ainsi qu'à l'égard des personnes ou
+groupements qui, en l'absence d'obligation déclarative, y ont été ou auraient dû
+y être imposés ou qui y ont leur résidence principale, leur siège ou leur
+principal établissement.
 
 III. Les fonctionnaires mentionnés au premier alinéa du I et compétents
 territorialement pour procéder aux contrôles visés à l'article L. 47 du livre
@@ -51,5 +54,6 @@ Les liens existant entre les personnes ou groupements s'entendent de
 l'appartenance ou du rattachement à un même foyer fiscal, de l'exercice d'un
 rôle de direction de droit ou de fait, d'une relation d'association, de
 subordination ou d'interposition, ou de l'appartenance à un même groupe
-d'intérêts. Les arrêtés d'attributions des services définissent, s'il y a lieu,
-la compétence des agents au regard des personnes unies par ces liens.
+d'intérêts. Les arrêtés d'attributions des services déconcentrés et des services
+à compétence nationale définissent, s'il y a lieu, la compétence des agents au
+regard des personnes unies par ces liens.

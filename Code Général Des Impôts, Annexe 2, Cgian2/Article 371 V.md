@@ -1,7 +1,8 @@
 Article 371 V
 ----
-Le directeur régional, après avoir mis en demeure l'association de présenter ses
-observations sur les faits qui lui sont reprochés, peut lui retirer l'agrément :
+Le directeur mentionné à l'article 371 S, après avoir mis en demeure
+l'association de présenter ses observations sur les faits qui lui sont
+reprochés, peut lui retirer l'agrément :
 
 1° En cas d'inexécution des engagements pris par l'association ou de violation
 des obligations qui lui incombent en vertu des statuts ou du règlement intérieur

@@ -1,8 +1,9 @@
 Article 371 K
 ----
-Après consultation de la commission [*régionale*] mentionnée à l'article 371 G,
-le directeur régional, après avoir mis le centre en mesure de présenter ses
-observations sur les faits qui lui sont reprochés, peut lui retirer l'agrément :
+Après consultation de la commission mentionnée à l'article 371 G, le directeur
+mentionné à ce même article, après avoir mis le centre en mesure de présenter
+ses observations sur les faits qui lui sont reprochés, peut lui retirer
+l'agrément :
 
 1° En cas d'inexécution des engagements pris par le centre ou de violation des
 obligations qui lui incombent en vertu des statuts ou du règlement intérieur ;
