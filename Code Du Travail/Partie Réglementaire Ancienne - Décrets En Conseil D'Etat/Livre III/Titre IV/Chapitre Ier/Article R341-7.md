@@ -9,4 +9,4 @@ un caractère temporaire.
 
 La durée [*maximum*] de validité de cette autorisation, dont les
 caractéristiques sont fixées par arrêté du ministre chargé des travailleurs
-immigrés, ne peut dépasser six mois. Elle est renouvelable.
+immigrés, ne peut dépasser neuf mois. Elle est renouvelable.
