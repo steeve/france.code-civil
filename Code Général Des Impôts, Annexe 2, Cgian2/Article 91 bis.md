@@ -1,24 +1,28 @@
 Article 91 bis
 ----
-Pour bénéficier de l'exonération prévue à l'article 163 bis C-I du code général
-des impôts les titulaires d'actions acquises dans les conditions prévues par la
-loi n° 70-1322 du 31 décembre 1970 doivent souscrire un engagement de ne pas
-disposer de ces actions pendant une période de cinq années à compter de la date
-de la levée de l'option.
+Pour bénéficier de l'exonération prévue au I de l'article 163 bis C du code
+général des impôts, les titulaires d'actions acquises dans les conditions
+prévues aux articles 208-1 à 208-8-1 de la loi n° 66-537 du 24 juillet 1966 (1)
+doivent joindre à la déclaration souscrite au titre des revenus de l'année au
+cours de laquelle l'option a été levée une note mentionnant :
 
-Cet engagement doit être souscrit en deux exemplaires et adressé respectivement
-au service des impôts du domicile du titulaire des actions et à la société
-chargée de la tenue du registre des actions nominatives faisant l'objet de
-l'engagement.
+a. La raison sociale et le siège de la société dont les actions ont été acquises
+;
 
-Cette société est tenue de déclarer au service des impôts toute conversion au
-porteur et tous transferts de propriété ou de garantie, totaux ou partiels, des
-actions objets de l'engagement ; elle doit produire, au terme de la période
-d'indisponibilité, une attestation indiquant le nombre d'actions effectivement
-conservées pendant cette période.
+b. Les dates d'attribution et de levée de l'option et le nombre d'actions
+acquises.
 
-L'engagement, la déclaration de conversion ou de transfert ou l'attestation de
-non-disposition, mentionnés aux alinéas précédents doivent être produits au plus
-tard le 31 mars de l'année qui suit celle au cours de laquelle sont
-respectivement intervenus soit la levée de l'option, soit la conversion ou le
-transfert, soit l'expiration de la période d'indisponibilité [*date limite*].
+La société déclare au service des impôts dont elle dépend les conversions au
+porteur et transferts de propriété ou de garantie, totaux ou partiels, des
+actions acquises ; au terme de la période d'indisponibilité elle produit une
+attestation indiquant le nombre d'actions effectivement conservées par le
+salarié pendant cette période. En cas d'apport des actions à une société créée
+dans les conditions prévues à l'article 220 quater du code précité, les
+obligations définies au deuxième alinéa incombent à cette société et
+s'appliquent aux actions remises en rémunération de l'apport. L'apport
+n'interrompt pas la période d'indisponibilité.
+
+Les déclarations prévues aux deuxième et troisième alinéas sont produites au
+plus tard le 31 mars de l'année qui suit celle au cours de laquelle sont
+respectivement intervenus soit la conversion ou le transfert, soit l'expiration
+de la période d'indisponibilité.
