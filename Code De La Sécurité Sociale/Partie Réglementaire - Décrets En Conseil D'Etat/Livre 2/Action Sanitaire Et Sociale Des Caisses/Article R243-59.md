@@ -11,9 +11,9 @@ les avantages en nature dont ils bénéficient et le montant des retenues
 effectuées sur leur salaire pour les assurances sociales.
 
 Ils doivent communiquer, le cas échéant, leurs observations à l'employeur ou au
-travailleur indépendant en l'invitant à y répondre dans la huitaine. Ils peuvent
-consigner ces observations soit sur le livre de paie, soit sur un registre
-ouvert à cet effet.
+travailleur indépendant en l'invitant à y répondre dans les quinze jours . Ils
+peuvent consigner ces observations soit sur le livre de paie, soit sur un
+registre ouvert à cet effet.
 
 A l'expiration du délai sus indiqué, ils transmettent leurs observations
 accompagnées éventuellement de la réponse de l'intéressé d'une part, à la caisse

@@ -2,7 +2,7 @@ Article R741-7
 ----
 Vingt jours après la date d'échéance, l'organisme chargé du recouvrement adresse
 au débiteur une lettre recommandée avec demande d'avis de réception le mettant
-en demeure de régulariser sa situation dans les quinze jours.
+en demeure de régulariser sa situation dans le délai d'un mois.
 
 La mise en demeure ne peut concerner que les cotisations exigibles dans les cinq
 années qui précèdent son envoi [*délai de prescription*].
@@ -16,6 +16,6 @@ paiement des cotisations qui ont donné lieu à l'application desdites majoratio
 La mise en demeure donne le détail des sommes réclamées au titre des cotisations
 et des majorations de retard [*mentions obligatoires*].
 
-Elle précise que la dette peut être contestée dans un délai de quinze jours par
-une réclamation adressée à la commission de recours amiable et accompagnée de la
+Elle précise que la dette peut être contestée dans le délai d'un mois par une
+réclamation adressée à la commission de recours amiable et accompagnée de la
 mise en demeure. Elle indique l'adresse de cette commission.

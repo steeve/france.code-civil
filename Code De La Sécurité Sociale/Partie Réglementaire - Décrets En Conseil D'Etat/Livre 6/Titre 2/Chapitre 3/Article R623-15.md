@@ -5,8 +5,8 @@ L. 243-7 et aux agents de contrôle des caisses mentionnées à l'article R. 623
 tous documents nécessaires à l'exercice de leur contrôle.
 
 Les fonctionnaires et agents de contrôle susmentionnés doivent communiquer, le
-cas échéant, leurs observations à l'assujetti en l'invitant à y répondre dans la
-huitaine.
+cas échéant, leurs observations à l'assujetti en l'invitant à y répondre dans
+les quinze jours [*délai*].
 
 A l'expiration du délai susindiqué, les agents de contrôle transmettent leurs
 observations accompagnées éventuellement de la réponse de l'assujetti, à la
