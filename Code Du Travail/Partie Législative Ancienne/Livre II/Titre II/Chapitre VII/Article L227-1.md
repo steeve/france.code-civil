@@ -55,7 +55,7 @@ L. 122-28-1, L. 122-32-12 et L. 122-32-17. Cette durée minimale peut être
 modifiée par la convention ou l'accord collectif. Le compte épargne-temps est
 également utilisé pour indemniser tout ou partie des heures non travaillées
 lorsque le salarié choisit de passer à temps partiel dans les conditions
-définies aux articles L. 122-28-1, L. 122-28-9 et L. 212-4-9.
+définies aux articles L. 122-28-1, L. 122-28-9, L. 122-32-12 et L. 212-4-9.
 
 Le compte épargne-temps peut être utilisé, notamment dans le cadre des actions
 de formation prévues aux articles L. 932-1 et L. 932-2, pour rémunérer les temps

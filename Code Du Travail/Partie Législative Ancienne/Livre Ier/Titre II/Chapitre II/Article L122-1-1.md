@@ -3,12 +3,13 @@ Article L122-1-1
 Le contrat de travail ne peut être conclu pour une durée déterminée que dans les
 cas suivants :
 
-1° Remplacement d'un salarié en cas d'absence, de suspension de son contrat de
-travail, de départ définitif précédant la suppression de son poste de travail
-ayant fait l'objet d'une saisine du comité d'entreprise ou, à défaut, des
-délégués du personnel, s'il en existe, ou en cas d'attente de l'entrée en
-service effective du salarié recruté par contrat à durée indéterminée appelé à
-le remplacer ;
+1° Remplacement d'un salarié en cas d'absence, de passage provisoire à temps
+partiel, conclu par avenant à son contrat de travail ou par échange écrit entre
+ce salarié et son employeur, de suspension de son contrat de travail, de départ
+définitif précédant la suppression de son poste de travail ayant fait l'objet
+d'une saisine du comité d'entreprise ou, à défaut, des délégués du personnel,
+s'il en existe, ou en cas d'attente de l'entrée en service effective du salarié
+recruté par contrat à durée indéterminée appelé à le remplacer ;
 
 2° Accroissement temporaire de l'activité de l'entreprise ;
 

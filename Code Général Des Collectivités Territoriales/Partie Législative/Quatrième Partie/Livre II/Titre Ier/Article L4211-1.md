@@ -1,6 +1,6 @@
 Article L4211-1
 ----
-- La région a pour mission, dans le respect des attributions des départements et
+La région a pour mission, dans le respect des attributions des départements et
 des communes et, le cas échéant, en collaboration avec ces collectivités et avec
 l'Etat, de contribuer au développement économique, social et culturel de la
 région par :
@@ -57,3 +57,15 @@ déterminant notamment l'objet, le montant et le fonctionnement du fonds, les
 modalités d'information du conseil régional par la société ainsi que les
 conditions de restitution des dotations versées en cas de modification ou de
 cessation d'activité de ce fonds.
+
+11° Le financement ou l'aide à la mise en oeuvre des fonds d'investissement de
+proximité définis à l'article L. 214-41-1 du code monétaire et financier par
+convention avec la société de gestion du fonds qui détermine les objectifs
+économiques du fonds, lesquels figurent dans le réglement du fonds.
+
+Dans le cadre de cette convention, des départements, des communes ou leurs
+groupements pourront participer financièrement à la mise en oeuvre du fonds.
+
+Les collectivités territoriales et leurs groupements ne peuvent pas détenir des
+parts ou actions d'une société de gestion d'un fonds d'investissements de
+proximité.

@@ -1,12 +1,13 @@
 Article L611-1
 ----
-Toute société commerciale ainsi que toute personne morale de droit privé peut
+Toute personne immatriculée au registre du commerce et des sociétés ou au
+répertoire des métiers ainsi que toute personne morale de droit privé peut
 adhérer à un groupement de prévention agréé par arrêté du représentant de l'Etat
 dans la région.
 
 Ce groupement a pour mission de fournir à ses adhérents, de façon
-confidentielle, une analyse des informations comptables et financières que
-ceux-ci s'engagent à lui transmettre régulièrement.
+confidentielle, une analyse des informations économiques, comptables et
+financières que ceux-ci s'engagent à lui transmettre régulièrement.
 
 Lorsque le groupement relève des indices de difficultés, il en informe le chef
 d'entreprise et peut lui proposer l'intervention d'un expert.

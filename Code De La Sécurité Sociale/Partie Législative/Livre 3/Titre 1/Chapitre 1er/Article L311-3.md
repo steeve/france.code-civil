@@ -123,4 +123,8 @@ deuxième alinéa du d du 1° du 7 de l'article 261 du code général des impôt
 
 24° Les administrateurs des groupements mutualistes qui perçoivent une indemnité
 de fonction et qui ne relèvent pas, à titre obligatoire, d'un régime de sécurité
-sociale.
+sociale ;
+
+25° Les personnes bénéficiaires d'un appui à la création ou à la reprise d'une
+activité économique dans les conditions définies par l'article L. 127-1 du code
+de commerce.

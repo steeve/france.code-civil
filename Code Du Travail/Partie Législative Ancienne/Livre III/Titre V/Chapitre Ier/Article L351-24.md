@@ -1,68 +1,53 @@
 Article L351-24
 ----
-L'Etat peut accorder les droits visés aux articles L. 161-1 et L. 161-1-1 du
-code de la sécurité sociale aux personnes :
+L'Etat peut accorder les aides mentionnées aux articles L. 161-1 et L. 161-1-1
+du code de la sécurité sociale et à l'article 9 de la loi n° 98-657 du 29
+juillet 1998 d'orientation relative à la lutte contre les exclusions aux
+personnes suivantes, lorsqu'elles créent ou reprennent une activité économique
+industrielle, commerciale, artisanale, agricole ou libérale, soit à titre
+individuel, soit sous la forme d'une société, à condition d'en exercer
+effectivement le contrôle, ou entreprennent l'exercice d'une autre profession
+non salariée :
 
-1° Demandeurs d'emploi indemnisés ;
+1° Les demandeurs d'emploi indemnisés ;
 
-2° Demandeurs d'emploi non indemnisés inscrits à l'Agence nationale pour
+2° Les demandeurs d'emploi non indemnisés inscrits à l'Agence nationale pour
 l'emploi six mois au cours des dix-huit derniers mois ;
 
-3° Bénéficiaires de l'allocation de revenu minimum d'insertion, de l'allocation
-de solidarité spécifique prévue à l'article L. 351-10 du code du travail, ou de
-l'allocation de parent isolé prévue à l'article L. 524-1 du code de la sécurité
-sociale ;
+3° Les bénéficiaires de l'allocation de revenu minimum d'insertion, de
+l'allocation de solidarité spécifique ou de l'allocation de parent isolé prévue
+à l'article L. 524-1 du code de la sécurité sociale ;
 
-4° Remplissant les conditions visées au premier alinéa de l'article L. 322-4-19
-;
+4° Les personnes remplissant les conditions visées au premier alinéa de
+l'article L. 322-4-19 ;
 
-5° Bénéficiant des dispositions prévues à l'article L. 322-4-19 et dont le
-contrat se trouve rompu avant le terme de l'aide prévue à ce même article, et
-qui créent ou reprennent une entreprise industrielle, commerciale, artisanale ou
-agricole, soit à titre individuel, soit sous la forme d'une société, à condition
-d'en exercer effectivement le contrôle ou qui entreprennent l'exercice d'une
-autre profession non salariée.
+5° Les personnes bénéficiant des dispositions prévues à l'article L. 322-4-19 et
+dont le contrat se trouve rompu avant le terme de l'aide prévue à ce même
+article ;
 
-Les personnes remplissant les conditions visées aux 4° et 5° du présent article
-peuvent en outre bénéficier d'une aide financée par l'Etat. Cette aide peut
-prendre la forme d'une avance remboursable.
+6° Les personnes salariées ou les personnes licenciées d'une entreprise soumise
+à l'une des procédures prévues au titre II du livre VI du code de commerce qui
+reprennent tout ou partie de cette entreprise dès lors qu'elles s'engagent à
+investir en capital la totalité des aides et à réunir des apports
+complémentaires en capital au moins égaux à la moitié des aides accordées ;
 
-Les régions peuvent contribuer à la mise en place d'une ingénierie dans le cadre
-de l'aide à la création d'entreprise prévue par le présent article. La décision
-d'attribution de cette aide emporte décision d'attribution des droits visés aux
-articles L. 161-1 et L. 161-1-1 du code de la sécurité sociale. A titre
-expérimental et jusqu'au 31 décembre 2003, cette décision peut être déléguée à
-des organismes habilités par l'Etat dans des conditions fixées par décret en
-Conseil d'Etat.
+7° Les personnes ayant conclu un contrat visé à l'article L. 127-1 du code de
+commerce, sous réserve qu'elles remplissent les conditions prévues aux 1°, 2°,
+3°, 4°, 5° ou 6° du présent article à la date de conclusion dudit contrat.
 
-Peuvent également bénéficier des aides prévues aux précédents alinéas les
-personnes salariées ou licenciées d'une entreprise soumise à l'une des
-procédures prévues par la loi n° 85-98 du 25 janvier 1985 relative au
-redressement et à la liquidation judiciaires des entreprises qui reprennent tout
-ou partie de cette entreprise dès lors qu'elles s'engagent à investir en capital
-la totalité des aides et à réunir des apports complémentaires en capital
-n'excédant pas le total de ces aides.
+En outre et dans la limite des crédits ouverts au budget de l'Etat, les
+personnes remplissant les conditions mentionnées aux 3°, 4°, 5°, 6° et 7° ainsi
+que les personnes de cinquante ans et plus inscrites sur la liste des demandeurs
+d'emploi peuvent bénéficier d'une aide financière de l'Etat.
 
-Un décret en Conseil d'Etat définit les conditions d'accès au bénéfice des
-droits mentionnés au premier alinéa et de l'aide prévue au huitième alinéa, en
-fonction des caractéristiques du projet de création ou de reprise d'entreprise,
-notamment sa réalité, sa consistance et sa viabilité, compte tenu de
-l'environnement économique local.
+La décision d'attribution de cette aide emporte décision d'attribution des
+droits mentionnés aux articles L. 161-1 et L. 161-1-1 du code de la sécurité
+sociale.
 
-Dans le cas où l'intéressé est à nouveau inscrit à l'Agence nationale pour
-l'emploi, il retrouve le bénéfice des droits qu'il avait acquis en sa qualité de
-demandeur d'emploi, à la date de l'attribution des droits visés au premier
-alinéa.
+L'Etat peut participer par convention au financement d'actions de conseil, de
+formation et d'accompagnement organisées avant la création ou la reprise
+d'entreprise et pendant trois années après.
 
-L'Etat peut participer par convention au financement des actions de conseil ou
-de formation à la gestion d'entreprise qui sont organisées avant la création ou
-la reprise d'entreprise et pendant une année après. Pour les personnes visées
-aux 4° et 5° du présent article, la participation financière de l'Etat peut
-porter, de plus, sur des actions de suivi ou d'accompagnement, organisées avant
-la création ou la reprise d'entreprise et pendant trois années après.
-
-Pour les personnes mentionnées au 3° du présent article, et à compter du 1er
-janvier 1999, la participation financière de l'Etat prévue aux alinéas
-précédents peut être mise en oeuvre dans des conditions fixées par décret,
-lorsque le projet de création ou de reprise d'entreprise est de nature à assurer
-l'insertion professionnelle durable des personnes intéressées.
+Les régions et la collectivité territoriale de Corse peuvent contribuer à la
+mise en place d'une ingénierie dans le cadre de l'aide à la création ou la
+reprise d'entreprise prévue par le présent article.

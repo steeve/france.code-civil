@@ -1,12 +1,14 @@
 Article L123-10
 ----
-Toute personne demandant son immatriculation au registre du commerce et des
-sociétés doit justifier de la jouissance du ou des locaux où elle installe,
-seule ou avec d'autres, le siège de l'entreprise, ou, lorsque celui-ci est situé
-à l'étranger, l'agence, la succursale ou la représentation établie sur le
-territoire français.
+Les personnes physiques demandant leur immatriculation au registre du commerce
+et des sociétés ou au répertoire des métiers doivent déclarer l'adresse de leur
+entreprise et en justifier la jouissance.
 
-La domiciliation d'une entreprise dans des locaux occupés en commun par
-plusieurs entreprises est autorisée dans des conditions fixées par décret en
-Conseil d'Etat. Ce décret précise, en outre, les équipements ou services requis
-pour justifier la réalité du siège de l'entreprise domiciliée.
+Les personnes physiques peuvent déclarer l'adresse de leur local d'habitation et
+y exercer une activité, dès lors qu'aucune disposition législative ou
+stipulation contractuelle ne s'y oppose.
+
+Lorsqu'elles ne disposent pas d'un établissement, les personnes physiques
+peuvent, à titre exclusif d'adresse de l'entreprise, déclarer celle de leur
+local d'habitation. Cette déclaration n'entraîne ni changement d'affectation des
+locaux, ni application du statut des baux commerciaux.

@@ -28,6 +28,11 @@ personnes qui sont redevables d'un montant minimum de cotisations fixé par
 décret aux autres régimes obligatoires dont relèvent leurs activités
 accessoires.
 
+Cette proratisation est également applicable aux personnes exerçant une activité
+non salariée non agricole durant un nombre de jours par année civile n'excédant
+pas un seuil fixé par décret. La cotisation annuelle ainsi déterminée ne peut
+pas être inférieure à un montant fixé par décret.
+
 Par dérogation aux dispositions du premier alinéa, le montant de la cotisation
 annuelle assise sur le revenu forfaitaire visé à l'article L. 131-6 ne peut
 excéder, au titre de la première année civile d'activité, celui qui serait dû

@@ -49,3 +49,9 @@ valeur de la base mensuelle de calcul des prestations familiales en vigueur au
 1er octobre de l'année précédente ; celles dues au titre de la deuxième année
 civile d'activité sont calculées à titre provisionnel sur une base forfaitaire
 qui ne peut excéder vingt-sept fois cette valeur.
+
+Par dérogation aux quatrième et sixième alinéas, et sans préjudice de l'article
+L. 131-6-1, les travailleurs non salariés imposés suivant le régime visé à
+l'article 50-0 ou à l'article 102 ter du code général des impôts peuvent
+demander à ce que leurs cotisations soient, dès l'année au titre de laquelle
+elles sont dues, calculées sur la base du revenu effectivement réalisé.

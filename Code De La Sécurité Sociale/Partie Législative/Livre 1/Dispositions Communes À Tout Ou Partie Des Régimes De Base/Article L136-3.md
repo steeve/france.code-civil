@@ -35,3 +35,8 @@ travailleurs indépendants ainsi que par les titulaires de bénéfices non
 commerciaux et de bénéfices industriels et commerciaux visés à l'alinéa
 précédent est calculée à titre provisionnel sur les revenus professionnels, tels
 que définis et déterminés au présent article, majorés de 25 p. 100.
+
+Par dérogation aux troisième et quatrième alinéas, la contribution est, dès
+l'année au titre de laquelle elle est due, calculée sur la base du revenu
+effectivement réalisé lorsque l'employeur ou le travailleur indépendant a exercé
+l'option prévue au septième alinéa de l'article L. 131-6.
