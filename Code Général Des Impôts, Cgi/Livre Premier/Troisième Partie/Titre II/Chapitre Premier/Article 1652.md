@@ -11,7 +11,7 @@ services fiscaux ont fait appel de la décision de cette commission.
 
 Un conseiller d'Etat, président ;
 
-Un conseiller à la cour de Cassation ;
+Un magistrat de l'ordre judiciaire ;
 
 Un conseiller-maître à la cour des Comptes.
 
@@ -30,7 +30,5 @@ Deux représentants désignés par la fédération nationale des syndicats
 d'exploitants agricoles parmi les exploitants passibles de l'impôt sur le revenu
 des personnes physiques au titre des bénéfices agricoles.
 
-3. (Transféré sous l'article L. 2 du livre des procédures fiscales).
-
-4. Les décisions de la commission ne peuvent être attaquées que devant le
+3. Les décisions de la commission ne peuvent être attaquées que devant le
 conseil d'Etat par la voie de recours pour excès de pouvoir.

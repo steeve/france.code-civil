@@ -3,12 +3,9 @@ Article L214-4
 A défaut d'accord intervenu avant le 30 juin 1986, ou si aucun accord n'est
 intervenu à l'expiration du précédent accord, le barème de rémunération et des
 modalités de versement de la rémunération sont arrêtés par une commission
-présidée par un magistrat de l'ordre judiciaire désigné par le premier président
-de la Cour de cassation et composée, en outre, d'un membre du Conseil d'Etat
-désigné par le vice-président du Conseil d'Etat, d'une personnalité qualifiée
-désignée par le ministre chargé de la culture et, en nombre égal, d'une part, de
-membres désignés par les organisations représentant les bénéficiaires du droit à
-rémunération, d'autre part, de membres désignés par les organisations
+présidée par un représentant de l'Etat et composée, en nombre égal, d'une part,
+de membres désignés par les organisations représentant les bénéficiaires du
+droit à rémunération, d'autre part, de membres désignés par les organisations
 représentant les personnes qui, dans la branche d'activité concernée, utilisent
 les phonogrammes dans les conditions prévues aux 1° et 2° de l'article L. 214-1.
 

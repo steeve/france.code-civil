@@ -1,7 +1,9 @@
 Article L121-3
 ----
-La commission communale d'aménagement foncier est présidée par un magistrat de
-l'ordre judiciaire.
+La commission communale d'aménagement foncier est présidée par un commissaire
+enquêteur désigné par le président du tribunal de grande instance dans le
+ressort duquel la commission a son siège, dans les conditions fixées par décret
+en Conseil d'Etat.
 
 La commission comprend également :
 

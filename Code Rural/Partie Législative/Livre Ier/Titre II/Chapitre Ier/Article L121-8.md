@@ -2,7 +2,9 @@ Article L121-8
 ----
 La commission départementale d'aménagement foncier est ainsi composée :
 
-1° Un magistrat de l'ordre judiciaire, président ;
+1° Un commissaire enquêteur désigné par le président du tribunal de grande
+instance dans le ressort duquel la commission a son siège, dans les conditions
+fixées par décret en Conseil d'Etat, président ;
 
 2° Quatre conseillers généraux et deux maires de communes rurales ;
 
