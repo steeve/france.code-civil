@@ -73,3 +73,8 @@ Saint-Pierre : Saint-Pierre-et-Miquelon ;
 Papeete : Polynésie française ;
 
 Nouvelle-Calédonie : Nouvelle-Calédonie.
+
+Toutefois, le ressort du tribunal administratif de Melun comprend l'intégralité
+de l'emprise de l'aérodrome de Paris-Orly et celui du tribunal administratif de
+Cergy-Pontoise l'intégralité de l'emprise de l'aérodrome de
+Paris-Charles-de-Gaulle.
