@@ -25,6 +25,11 @@ l'article 156 du code général des impôts ;
 " - de l'abattement mentionné à l'article 157 bis du code général des impôts en
 faveur des personnes âgées ou invalides.
 
+" Est exclue du décompte des ressources l'allocation mentionnée à l'article 4 de
+la loi n° 88-1088 du 1er décembre 1988 relative au revenu minimum d'insertion et
+servie soit au bénéficiaire ou à son conjoint, soit aux autres personnes
+définies à l'alinéa 1er du présent article. "
+
 " Il est fait abstraction des déductions opérées en vertu de l'article 156-1 du
 code général des impôts au titre des reports des déficits constatés au cours
 d'une année antérieure à celle qui est prise en considération.
