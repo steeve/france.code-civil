@@ -10,7 +10,8 @@ et non destinées à une utilisation collective, à l'exception des copies des
 oeuvres d'art destinées à être utilisées pour des fins identiques à celles pour
 lesquelles l'oeuvre originale a été créée et des copies d'un logiciel autres que
 la copie de sauvegarde établie dans les conditions prévues au II de l'article L.
-122-6-1 ;
+122-6-1 ainsi que des copies ou des reproductions d'une base de données
+électronique;
 
 3° Sous réserve que soient indiqués clairement le nom de l'auteur et la source :
 
@@ -36,3 +37,6 @@ Un décret en Conseil d'Etat fixe les caractéristiques des documents et les
 conditions de leur distribution.
 
 4° La parodie, le pastiche et la caricature, compte tenu des lois du genre.
+
+5° Les actes nécessaires à l'accès au contenu d'une base de données électronique
+pour les besoins et dans les limites de l'utilisation prévue par contrat.
