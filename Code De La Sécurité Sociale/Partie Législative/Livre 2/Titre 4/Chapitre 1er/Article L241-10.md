@@ -36,3 +36,10 @@ conditions aux personnes âgées ou handicapées adultes qui ont passé un contr
 conforme aux dispositions du cinquième alinéa de l'article 6 de la loi n° 89-475
 du 10 juillet 1989 relative à l'accueil par des particuliers, à leur domicile, à
 titre onéreux, de personnes âgées ou handicapées adultes.
+
+Le droit à l'exonération est également ouvert aux personnes ou aux couples
+vivant avec des membres de leur famille et remplissant la condition d'âge fixée
+au a ci-dessus ou se trouvant dans l'obligation de recourir à l'assistance d'une
+tierce personne pour accomplir les actes ordinaires de la vie et titulaires de
+l'un des avantages mentionnés au c ci-dessus, dès lors qu'ils emploient une aide
+à domicile pendant une durée au moins égale à un minimum fixé par décret.

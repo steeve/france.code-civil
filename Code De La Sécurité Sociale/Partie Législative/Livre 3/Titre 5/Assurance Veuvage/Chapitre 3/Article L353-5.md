@@ -17,3 +17,6 @@ qu'il concerne les pensions d'invalidité, sont applicables.
 Le bénéfice de cette majoration est supprimé en cas de remariage ou de vie
 maritale et lorsque l'une des conditions mentionnées au premier alinéa cesse
 d'être remplie, à l'exception de la condition d'âge exigée du titulaire.
+
+Les dispositions du présent article s'appliquent également aux conjoints
+mentionnés aux articles L. 353-2 et L. 353-3.

@@ -20,3 +20,8 @@ sociale des bénéficiaires de ces conventions ; ceux-ci sont considérés comme
 stagiaires de la formation professionnelle, sous réserve d'adaptations fixées
 par décret en ce qui concerne la rémunération et, le cas échéant, les avantages
 annexes définis au titre VI du livre IX.
+
+Par dérogation aux dispositions de l'article L. 351-12 du code du travail, les
+établissements publics administratifs de l'Etat ont la faculté d'adhérer, pour
+leurs salariés recrutés sous contrat emploi-solidarité, au régime prévu à
+l'article L. 351-4 du même code.

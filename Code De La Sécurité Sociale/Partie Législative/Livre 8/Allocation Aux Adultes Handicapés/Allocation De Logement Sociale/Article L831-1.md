@@ -7,6 +7,10 @@ titre de résidence principale en France métropolitaine ou dans les départemen
 mentionnés à l'article L. 751-1. Sont assimilées au loyer les mensualités
 versées pour accéder à la propriété de l'habitation.
 
+Cette allocation est versée aux personnes hébergées dans les unités et centres
+de long séjour relevant de la loi n° 70-1318 du 31 décembre 1970 portant réforme
+hospitalière.
+
 Les présentes dispositions sont applicables aux personnes de nationalité
 étrangère qui justifient exercer, dans des conditions régulières, une activité
 professionnelle en France métropolitaine ou dans les départements mentionnés à

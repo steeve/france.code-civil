@@ -33,3 +33,9 @@ fraude ou de fausse déclaration.
 
 Les prescriptions prévues aux trois alinéas précédents sont soumises aux règles
 de droit commun.
+
+Toutefois, en cas d'accident susceptible d'entraîner la reconnaissance de la
+faute inexcusable de l'employeur, ou de ceux qu'il s'est substitués dans la
+direction, la prescription de deux ans opposable aux demandes d'indemnisation
+complémentaire visée aux articles L. 452-1 et suivants est interrompue par
+l'exercice de l'action pénale engagée pour les mêmes faits.

@@ -4,17 +4,18 @@ Il est institué un régime d'assurance obligatoire contre les accidents du
 travail et les maladies professionnelles au profit des catégories de personnes
 ci-dessous énumérées :
 
-1° Les ouvriers et employés occupés dans les exploitations agricoles de quelque
-nature qu'elles soient ainsi que dans les exploitations d'élevage, de dressage,
-d'entraînement, les haras, les entreprises de toute nature, bureaux, dépôts ou
-magasins de vente se rattachant à des syndicats ou exploitations agricoles
-lorsque le syndicat ou l'exploitation agricole constitue le principal
-établissement ainsi que ceux occupés dans les structures d'accueil touristique
-implantées sur des exploitations agricoles, lorsque l'activité complémentaire
-d'accueil constitue le prolongement de la mise en valeur de l'exploitation.
+1° les salariés occupés dans les exploitations de culture et d'élevage de
+quelque nature qu'elles soient, les exploitations de dressage, d'entraînement,
+les haras ainsi que dans les établissements de toute nature dirigés par
+l'exploitant agricole en vue de la transformation, du conditionnement et de la
+commercialisation des produits agricoles lorsque ces activités constituent le
+prolongement de l'acte de production ou dans les structures d'accueil
+touristique qui ont pour support l'exploitation.
 
-Un décret détermine les critères permettant d'apprécier le caractère accessoire
-de l'activité touristique.
+Sans préjudice de l'application de l'article 2 de la loi n° 88-1202 du 30
+décembre 1988 précitée, un décret détermine, le cas échéant, les critères
+permettant d'apprécier le caractère accessoire de l'activité touristique. Ce
+décret doit être adapté à la spécificité de la montagne.
 
 2° Les ouvriers et employés occupés dans les établissements de conchyliculture
 et de pisciculture et établissements assimilés, à l'exception de ceux qui
@@ -90,3 +91,12 @@ professionnelle agricoles privés mentionnés à l'article 4 de la loi n° 84-12
 du 31 décembre 1984 portant réforme des relations entre l'Etat et les
 établissements d'enseignement agricole privés et modifiant la loi n° 84-579 du 9
 juillet 1984 portant rénovation de l'enseignement agricole public.
+
+12° Lorsque les sociétés dont ils sont les dirigeants relèvent des professions
+visées aux 2°, 4° et 5° de l'article 1060, les présidents-directeurs généraux et
+directeurs généraux des sociétés anonymes, ainsi que les gérants de sociétés à
+responsabilité limitée, à condition que lesdits gérants ne possèdent pas,
+ensemble, plus de la moitié du capital social, étant entendu que les parts
+appartenant, en toute propriété ou en usufruit, au conjoint et aux enfants
+mineurs non émancipés d'un gérant sont considérées comme possédées par ce
+dernier.

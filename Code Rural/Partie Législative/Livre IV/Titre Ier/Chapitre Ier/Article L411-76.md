@@ -5,11 +5,10 @@ de l'article 1244 du code civil, accorder au bailleur des délais excédant une
 année.
 
 Toutefois, aucun délai ne peut être accordé lorsque le bailleur invoque le
-bénéfice des articles L. 411-5 à L. 411-7, L. 411-8 (alinéa 1), L. 411-57 à L.
-411-64, L. 411-67 et L. 415-11, premier alinéa. Dans ce cas, chacune des parties
-peut, à partir de la notification du congé, et indépendamment de toute action
-sur le fond, saisir le tribunal paritaire en vue d'obtenir la fixation de cette
-indemnité.
+bénéfice des articles L. 411-5 à L. 411-7, L. 411-57 à L. 411-64, L. 411-67 et
+L. 415-11, premier alinéa. Dans ce cas, chacune des parties peut, à partir de la
+notification du congé, et indépendamment de toute action sur le fond, saisir le
+tribunal paritaire en vue d'obtenir la fixation de cette indemnité.
 
 S'il apparaît que le preneur est en droit de prétendre à une indemnité et si
 celle-ci n'a pas été définitivement fixée un an avant l'expiration du bail, la

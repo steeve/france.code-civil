@@ -9,7 +9,8 @@ maladie, assises sur les revenus professionnels précités.
 Toutefois, lorsque la convention nationale prévoit que certains médecins peuvent
 choisir de pratiquer des tarifs différents de ceux qu'elle fixe [*hors
 convention*], ces médecins prennent en charge les cotisations des caisses
-d'assurance maladie mentionnées à l'alinéa précédent.
+d'assurance maladie mentionnées à l'alinéa précédent ainsi que la part de la
+cotisation mentionnée à l'article L. 162-8-1.
 
 Les cotisations dues sur les avantages de retraite sont précomptées lors de
 chaque versement par l'organisme qui paie ces avantages. Un décret détermine les
