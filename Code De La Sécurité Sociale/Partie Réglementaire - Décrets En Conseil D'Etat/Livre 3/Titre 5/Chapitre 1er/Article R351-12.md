@@ -68,6 +68,10 @@ que, durant lesdites périodes, une convention de conversion ait été conclue
 entre l'Etat et son entreprise par application du 4° de l'article R. 322-1 du
 même code ;
 
+g. Des périodes pendant lesquelles l'assuré a bénéficié du revenu de
+remplacement prévu à l'article R. 322-7-2 du code du travail en application de
+la convention prévue au VI de cet article.
+
 5°) pour les bénéficiaires de la législation sur les accidents du travail, les
 dispositions des 1° ou 3° ci-dessus sont applicables selon que l'assuré a perçu
 des indemnités journalières au titre de l'incapacité temporaire ou une rente
@@ -90,6 +94,10 @@ sécurité sociale, le nombre de trimestres valables correspondant étant,
 éventuellement, arrondi au chiffre immédiatement supérieur. Les arrêtés
 mentionnés au 5° de l'article L. 351-3 précisent, de plus, les justifications à
 produire par les intéressés.
+
+8°) Les périodes mentionnées à l'article L. 432-11 ; elles sont retenues de date
+à date, le nombre de trimestres valables correspondant étant, éventuellement,
+arrondi au chiffre immédiatement supérieur.
 
 L'application des dispositions du présent article ne peut avoir pour effet de
 porter à un chiffre supérieur à quatre le nombre de trimestres d'assurance
