@@ -4,8 +4,7 @@ N'entrent pas en compte pour la détermination du revenu net global :
 
 1° et 2° (Abrogés) ;
 
-2° bis. Les intérêts des bons à échéance de cinq ans au plus émis par le Trésor
-avant le 1er janvier 1966 ;
+2° bis (Périmé) ;
 
 3° Les lots et les primes de remboursement attachés aux bons et obligations émis
 en France avec l'autorisation du ministre de l'économie et des finances ;
@@ -39,10 +38,7 @@ de remboursement de ces titres ;
 8° ter. Les plus-values éventuelles de cession ou de remboursement des titres de
 l'emprunt d'Etat 8,80 % 1977 autorisé par la loi n° 77-486 du 13 mai 1977 ;
 
-9° Les intérêts des sommes inscrites sur les comptes d'épargne-construction
-définis aux articles L 315-19 à L 315-32 du code de la construction et de
-l'habitation ainsi que sur les comptes d'épargne-crédit mentionnés aux articles
-L 315-8 à L 315-18 du même code ;
+9° (Dispositions devenues sans objet) ;
 
 9° bis. Les intérêts des sommes inscrites sur les comptes d'épargne-logement
 ouverts en application des articles L 315-1 à L 315-7 du code de la construction
@@ -50,7 +46,7 @@ et de l'habitation ainsi que la prime d'épargne versée aux titulaires de ces
 comptes ;
 
 9° ter. Les intérêts versés au titulaire du compte d'épargne sur livret ouvert
-en application de l'article 80 de la loi n° 76-1232 du 29 décembre 1976 :
+en application de l'article 80 de la loi n° 76-1232 du 29 décembre 1976 (1) :
 
 - aux travailleurs, salariés de l'artisanat, des ateliers industriels, des
 chantiers et de l'agriculture ;
@@ -59,20 +55,34 @@ chantiers et de l'agriculture ;
 1106-1-I-2° du code rural ;
 
 - aux aides familiaux et associés d'exploitation de l'artisanat désignés à
-l'article 3-1° et 2° du décret n° 62-235 du 1er mars 1962 relatif au répertoire
-des métiers et aux titres d'artisan et de maître artisan.
+l'article 2 du décret n° 83-487 du 10 juin 1983 relatif au répertoire des
+métiers.
 
 Il en est de même de la prime versée au travailleur manuel qui procède
 effectivement à la création ou au rachat d'une entreprise artisanale ;
 
+9° quater. Le produit des placements en valeurs mobilières effectués sur un
+compte pour le développement industriel [*CODEVI*] ouvert par les personnes
+physiques ayant leur domicile fiscal en France dans les établissements et
+organismes autorisés à recevoir des dépôts.
+
+Il ne peut être ouvert qu'un compte par contribuable ou un pour chacun des époux
+soumis à une imposition commune.
+
+Les sommes déposées sur le compte prévu au premier alinéa ne peuvent excéder un
+plafond fixé par décret (2) dans la limite de 20.000 F par compte.
+
+Les valeurs mobilières sont celles servant au financement de l'industrie
+française et entrant dans des catégories fixées par décret (3) ;
+
+9° quinquies. Les intérêts des sommes inscrites sur les livrets
+d'épargne-entreprise ouverts dans les conditions fixées par l'article 1er de la
+loi n° 84-578 du 8 [*9*] juillet 1984 sur le développement de l'initiative
+économique.
+
 10° à 13° (Dispositions périmées) ;
 
-14° Les intérêts des titres de l'emprunt 4,25 % 1963 émis en vertu du décret n°
-63-494 du 18 mai 1963 ;
-
-15° L'intérêt représenté par les dix premiers coupons de chaque titre de
-l'emprunt 4,25 % - 4,75 % 1963 émis en vertu soit du décret n° 63-967 du 21
-septembre 1963, soit du décret n° 64-224 du 14 mars 1964 ;
+14° et 15° (Devenus sans objet).
 
 16° Les produits des placements en valeurs mobilières effectués en vertu des
 engagements d'épargne à long terme pris par les personnes physiques dans les
@@ -82,29 +92,21 @@ conditions prévues à l'article 163 bis A ;
 
 17° Les sommes et revenus visés à l'article 163 bis B ;
 
-18° Les attributions gratuites d'actions faites en application :
+18° (Dispositions codifiées sous les articles 81-16° quater et 81-20°) ;
 
-a. De l'article 2 de la loi n° 70-11 du 2 janvier 1970 relative à la Régie
-nationale des usines Renault ;
-
-b. De l'article 1er de la loi n° 73-8 du 4 janvier 1973 relative à la mise en
-oeuvre de l'actionnariat du personnel dans les banques nationales ;
-
-c. Des articles L 322-13 et L 322-22 du code des assurances relatifs aux
-entreprises nationales d'assurances ;
-
-d. De la loi n° 73-9 du 4 janvier 1973 relative à la mise en oeuvre de
-l'actionnariat du personnel à la société nationale industrielle aérospatiale
-[*SNIAS*] et à la société nationale d'études et de construction de moteurs
-d'aviation [*SNECMA*] ;
-
-e. De la loi n° 80-834 du 24 octobre 1980 créant une distribution d'actions en
-faveur des salariés des entreprises industrielles et commerciales ;
-
-19° L'aide spéciale compensatrice versée aux adhérents des caisses
-d'assurance-vieillesse des artisans et commerçants, en application de la loi n°
-72-657 du 13 juillet 1972 ;
+19° L'indemnité de départ versée aux adhérents des caisses
+d'assurance-vieillesse des artisans et commerçants, en application de l'article
+106 de la loi n° 81-1160 du 30 décembre 1981 ;
 
 20° Les intérêts des titres d'indemnisation prioritaires et des titres
 d'indemnisation créés en application de la loi n° 78-1 du 2 janvier 1978
 relative à l'indemnisation des français rapatriés d'outre-mer.
+
+(1) Les livrets d'épargne au profit des travailleurs manuels peuvent être
+transformés en livret d'épargne-entreprise dans les conditions fixées par le
+décret n° 85-68 du 22 janvier 1985 (J.O. du 23).
+
+(2) Plafond fixé à 10.000 F par compte (décret n° 83-872 du 30 septembre 1983,
+JO du 2 octobre).
+
+(3) Décret n° 83-872 du 30 septembre 1983 (JO du 2 octobre).
