@@ -1,6 +1,5 @@
 Article D741-10
 ----
-La cotisation des personnes mentionnées à l'article R. 741-32 [*résidant en
-France et travaillant dans un pays étranger limitrophe*] est assise sur une base
-forfaitaire annuelle égale à la moitié du plafond des cotisations de sécurité
-sociale .
+La cotisation des personnes mentionnées aux articles L. 741-7 et R. 741-32 est
+assise sur une base forfaitaire annuelle égale à la moitié du plafond des
+cotisations de sécurité sociale.
