@@ -27,13 +27,11 @@ et à l'article R. 421-53 du présent code ; dans ce cas il est effectué en
 liaison avec le directeur départemental des services d'incendie et de secours ;
 
 c) Lorsqu'il s'agit de travaux réalisés soit à l'intérieur d'un parc national
-créé en application de la loi n. 60-708 du 22 juillet 1960, soit à l'intérieur
-d'une réserve naturelle soumise aux dispositions de la loi n. 76-629 du 10
+créé en application de la loi n° 60-708 du 22 juillet 1960, soit à l'intérieur
+d'une réserve naturelle soumise aux dispositions de la loi n° 76-629 du 10
 juillet 1976 relative à la protection de la nature.
 
 d) Lorsqu'il s'agit de travaux réalisés dans un secteur couvert par un plan de
-prévention des risques naturels prévisibles établi en application de la loi n°
-87-565 du 22 juillet 1987 relative à l'organisation de la sécurité civile, à la
-protection de la forêt contre l'incendie et à la prévention des risques majeurs,
-ou par un plan de prévention des risques miniers établi en application de
-l'article 94 du code minier.
+prévention des risques naturels prévisibles prévu par l'article L. 562-1 du code
+de l'environnement, ou par un plan de prévention des risques miniers établi en
+application de l'article 94 du code minier.

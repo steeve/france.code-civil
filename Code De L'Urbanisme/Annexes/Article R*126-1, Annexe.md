@@ -298,13 +298,11 @@ décret du 30 octobre 1935 sur la protection des eaux potables et les
 B. - Sécurité publique
 
 Plans de prévention des risques naturels prévisibles établis en application de
-la loi n° 87-565 du 22 juillet 1987 relative à l'organisation de la sécurité
-civile, à la protection de la forêt contre l'incendie et à la prévention des
-risques majeurs, ou plans de prévention des risques miniers établis en
-application de l'article 94 du code minier.
+l'article L. 562-1 du code de l'environnement, ou plans de prévention des
+risques miniers établis en application de l'article 94 du code minier.
 
 Documents valant plans de prévention des risques naturels prévisibles en
-application de l'article 40-6 de la loi n° 87-565 du 22 juillet 1987 précitée.
+application de l'article L. 562-6 du code de l'environnement.
 
 Servitudes instituées, en ce qui concerne la Loire et ses affluents, par les
 articles 55 et suivants du code du domaine public fluvial et de la navigation
