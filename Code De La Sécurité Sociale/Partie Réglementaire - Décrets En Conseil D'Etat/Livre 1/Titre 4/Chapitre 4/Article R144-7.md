@@ -9,8 +9,7 @@ disposition particulière ;
 2°) les émoluments des greffiers des cours d'appel afférents aux recours formés
 contre les décisions des tribunaux des affaires de sécurité sociale ;
 
-3°) les honoraires dus aux avocats à la Cour de cassation en application de
-l'article R. 144-2 ;
+3°) ... [*Abrogé*]
 
 4°) les frais de fonctionnement des tribunaux des affaires de sécurité sociale
 et des juridictions du contentieux technique de la sécurité sociale.
