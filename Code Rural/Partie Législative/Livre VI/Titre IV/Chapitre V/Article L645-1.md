@@ -8,3 +8,8 @@ par les cahiers des charges homologués par arrêté interministériel ou, le ca
 échéant, par le règlement (CEE) n° 2092/91 du Conseil, du 24 juin 1991,
 concernant le mode de production biologique de produits agricoles et sa
 présentation sur les produits agricoles et les denrées alimentaires.
+
+Le contrôle des conditions de production, de transformation et de
+commercialisation des produits agricoles et des denrées alimentaires issus de
+l'agriculture biologique est effectué par des organismes certificateurs agréés
+par l'autorité administrative dans les conditions prévues à l'article L. 643-5.

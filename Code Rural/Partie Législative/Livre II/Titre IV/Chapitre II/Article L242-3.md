@@ -4,3 +4,6 @@ Un code de déontologie est édicté par décret en Conseil d'Etat, après avis 
 conseil supérieur de l'ordre des vétérinaires et consultation des organisations
 syndicales de vétérinaires ainsi que du comité consultatif de la santé et de la
 protection des animaux.
+
+Il établit notamment les principes à suivre en matière de prescription de
+médicaments à usage vétérinaire.

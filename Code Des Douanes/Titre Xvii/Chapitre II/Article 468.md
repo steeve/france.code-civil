@@ -1,10 +1,8 @@
 Article 468
 ----
-Lors de la présentation en douane des marchandises visées aux articles 2, 3, 16
-et 19 de la loi n° 92-1477 du 31 décembre 1992 relative aux produits soumis à
-certaines restrictions de circulation et à la complémentarité entre les services
-de police, de gendarmerie et de douane, le service des douanes effectue le
-contrôle de ces marchandises en présence du détenteur.
+Lorsqu'une présentation en douane est prévue pour les marchandises visées au 4
+et au 5 de l'article 38, le service des douanes effectue le contrôle de ces
+marchandises en présence du détenteur.
 
 Lorsque le détenteur refuse d'assister au contrôle, le service notifie, par
 lettre recommandée, au destinataire ou à l'exportateur des produits selon le

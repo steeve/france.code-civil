@@ -1,21 +1,24 @@
 Article L252-5
 ----
-Lorsque plusieurs personnes physiques identifiées ont subi des préjudices
-individuels qui ont été causés par le fait d'une même personne et qui ont une
-origine commune, dans les domaines mentionnés à l'article L. 252-3, toute
-association agréée au titre de l'article L. 252-1 peut, si elle a été mandatée
-par au moins deux des personnes physiques concernées, agir en réparation devant
-toute juridiction au nom de celles-ci.
+Dans le cadre de la région, une seule fédération de défense contre les
+organismes nuisibles, constituée des fédérations départementales et des
+groupements de défense visés à l'article L. 252-2, est agréée, au vu du statut
+type, par le ministre de l'agriculture.
 
-Le mandat ne peut être sollicité. Il doit être donné par écrit par chaque
-personne physique concernée.
+La fédération régionale agréée est placée sous le contrôle permanent, technique
+et financier du directeur régional de l'agriculture et de la forêt ou du
+directeur de l'agriculture pour les départements d'outre-mer.
 
-Toute personne physique ayant donné son accord à l'exercice d'une action devant
-une juridiction pénale est considérée en ce cas comme exerçant les droits
-reconnus à la partie civile, en application du code de procédure pénale.
-Toutefois, les significations et notifications sont adressées à l'association.
+Elle est chargée notamment :
 
-L'association qui exerce une action en justice en application des dispositions
-des alinéas précédents peut se constituer partie civile devant le juge
-d'instruction ou la juridiction de jugement du siège social de l'entreprise mise
-en cause ou, à défaut, du lieu de la première infraction.
+1° De coordonner, de faciliter ou de réaliser, lorsqu'elles dépassent le cadre
+départemental, les diverses actions techniques visées à l'article L. 252-4
+entreprises par les fédérations départementales et les groupements de défense
+les constituant ;
+
+2° D'exécuter les missions qui lui sont confiées par les dispositions
+législatives, et notamment les articles L. 251-14 et L. 251-1 et les textes
+réglementaires pris pour leur application.
+
+Seules les fédérations nationale, départementales et régionales agréées peuvent
+recevoir des subventions.
