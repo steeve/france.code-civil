@@ -22,4 +22,13 @@ Et, en cas de recours à la chromatographie en phase gazeuse : B 120
 
 8° Recherche et dosage des amphétamines dans le sang ou les urines ... B 60
 
-9° Recherche et dosage des stupéfiants dans le sang ou les urines ... B 150.
+9° Recherche et dosage des stupéfiants dans le sang ou les urines ... B 150
+
+10° Recherche et dosage des stupéfiants (cannabis, amphétamines, cocaïne et
+opiacés) en ayant recours à la chromatographie en phase gazeuse couplée à la
+spectrométrie de masse GC/SM B.800.
+
+11° Recherche des médicaments psychoactifs en ayant recours à la chromatographie
+en phase liquide haute performance couplée à une barrette de diodes ainsi qu'à
+la chromatographie en phase gazeuse couplée à la spectrométrie de masse GC/SM
+B.900.
