@@ -1,12 +1,12 @@
 Article 317 bis
 ----
-Pour l'application de l'article 1585 C-I-1° du code général des impôts, sont
-exclues du champ d'application de la taxe locale d'équipement les constructions
-définies ci-après :
+Pour l'application du 1° du I de l'article 1585 C du code général des impôts,
+sont exclues du champ d'application de la taxe locale d'équipement les
+constructions définies ci-après :
 
 1° Les constructions édifiées par l'Etat, les collectivités locales et leurs
 groupements, qui sont exemptées de la taxe foncière sur les propriétés bâties en
-application de l'article 1382-1° du code général des impôts;
+application du 1° de l'article 1382 du code général des impôts;
 
 2° Les constructions destinées à recevoir une affectation d'assistance, de
 bienfaisance, de santé, d'enseignement ou culturelle, scientifique ou sportive
@@ -34,11 +34,12 @@ des caisses départementales de mutualité sociale agricole, des caisses central
 de secours mutuels agricoles et d'allocations familiales mutuelles agricoles, de
 la caisse nationale d'assurance vieillesse agricole, des services et organismes
 gérant des régimes spéciaux prévus à l'article L 711-1 du code de la sécurité
-sociale, des institutions de prévoyance prévues à l'article L 731-1 du même
-code, des caisses constituées pour l'application des titres II, III, IV du livre
-VI du même code, concernant le régime d'assurance vieillesse des travailleurs
-non salariés et de l'article L 611-1 du même code, relatif à l'assurance maladie
-maternité des travailleurs non salariés des professions non agricoles;
+sociale, des institutions de retraite ou de prévoyance complémentaires visées à
+l'article L 732-1 du même code, des caisses constituées pour l'application des
+titres II, III, IV du livre VI du même code, concernant le régime d'assurance
+vieillesse des travailleurs non salariés et de l'article L 611-1 du même code,
+relatif à l'assurance maladie maternité des travailleurs non salariés des
+professions non agricoles;
 
 Des mutuelles, des unions de mutuelles ou des fédérations d'union de mutuelles,
 dont les statuts ont été approuvés dans les conditions prévues à l'article L
