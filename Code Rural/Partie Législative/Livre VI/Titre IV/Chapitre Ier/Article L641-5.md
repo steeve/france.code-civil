@@ -29,8 +29,8 @@ le budget de l'institut et détermine la politique générale relative aux
 appellations d'origine contrôlées.
 
 Les présidents des comités nationaux et du conseil permanent sont nommés par
-arrêté conjoint du ministre chargé de l'économie et du ministre de
-l'agriculture. Le président du conseil permanent est nommé pour deux ans. Il est
+arrêté conjoint du ministre chargé de l'économie et du ministre de l'agriculture
+ou des forêts. Le président du conseil permanent est nommé pour deux ans. Il est
 choisi successivement dans chacun des comités nationaux.
 
 Les règles d'organisation et de fonctionnement de l'Institut national des

@@ -32,7 +32,10 @@ code forestier ;
 7° L'interdiction et la réglementation des plantations et semis d'essences
 forestières, la création de périmètres d'actions forestières et la délimitation
 de zones dégradées à faible taux de boisement, régies par les articles L. 126-1
-à L. 126-3, L. 126-6 et L. 134-1 du présent code.
+à L. 126-3, L. 126-6 et L. 134-1 du présent code ;
+
+8° Les échanges et cessions d'immeubles forestiers régis par les articles L.
+513-1 à L. 513-9 du code forestier.
 
 Les opérations d'aménagement foncier sont conduites, sous la responsabilité de
 l'Etat, par des commissions d'aménagement foncier, conformément à la politique
@@ -44,7 +47,10 @@ toutes les parties intéressées.
 Pour les aménagements fonciers visés aux 1°, 2°, 5° et 6° du présent article, le
 département fait au préalable procéder à une étude d'aménagement comportant une
 analyse de l'état initial du site concerné et de son environnement, notamment
-paysager, ainsi que toutes recommandations utiles. Cette étude est transmise à
+paysager, ainsi que toutes recommandations utiles. Pour les échanges et cessions
+d'immeubles forestiers visés au 8° du présent article, cette étude comporte à
+titre principal les éléments nécessaires pour déterminer et justifier le choix
+de ce mode d'aménagement foncier et son périmètre. Cette étude est transmise à
 la commission communale ou intercommunale et à la commission départementale
 d'aménagement foncier.
 

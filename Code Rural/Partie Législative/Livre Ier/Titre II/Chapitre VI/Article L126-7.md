@@ -1,4 +1,5 @@
 Article L126-7
 ----
-Les conditions d'application des articles L. 126-1 à L. 126-6 sont déterminées
-par décret en Conseil d'Etat.
+Les infractions aux dispositions du troisième alinéa de l'article L. 126-6 sont
+constatées et sanctionnées dans les conditions prévues aux articles L. 121-22 et
+L. 121-23.

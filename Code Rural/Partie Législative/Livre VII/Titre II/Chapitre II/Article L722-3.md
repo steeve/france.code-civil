@@ -2,7 +2,7 @@ Article L722-3
 ----
 Sont considérés comme travaux forestiers :
 
-1° Les travaux d'exploitation de bois, à savoir abattage, ébranchage, élagage,
+1° Les travaux de récolte de bois, à savoir abattage, ébranchage, élagage,
 éhouppage, débardage sous toutes ses formes, les travaux précédant ou suivant
 normalement ces opérations tels que débroussaillement, nettoyage des coupes
 ainsi que transport de bois effectué par l'entreprise qui a procédé à tout ou

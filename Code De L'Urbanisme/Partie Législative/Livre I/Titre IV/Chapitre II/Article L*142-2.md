@@ -24,7 +24,7 @@ du droit de préemption, par délégation ou par substitution, prévu à l'artic
 Le produit de la taxe peut également être utilisé :
 
 - pour l'aménagement et l'entretien d'espaces naturels, boisés ou non,
-appartenant aux collectivités locales ou à leurs établissements publics et
+appartenant aux collectivités publiques ou à leurs établissements publics et
 ouverts au public, ou appartenant à des propriétaires privés à la condition
 qu'ils aient fait l'objet d'une convention passée en application de l'article L.
 130-5 ;
@@ -38,7 +38,13 @@ que des chemins et servitudes de halage et de marchepied des voies d'eau
 domaniales concédées qui ne sont pas ouvertes à la circulation générale et pour
 l'acquisition, par voie amiable ou par exercice du droit de préemption mentionné
 à l'article L. 142-3, l'aménagement et la gestion des chemins le long des autres
-cours d'eau et plans d'eau.
+cours d'eau et plans d'eau ;
+
+- pour l'acquisition par un département, une commune, un établissement public de
+coopération intercommunale ou le Conservatoire de l'espace littoral et des
+rivages lacustres, de bois et forêts ou de droits sociaux donnant vocation à
+l'attribution en propriété ou en jouissance de bois et forêts, sous réserve de
+leur ouverture au public dans les conditions prévues à l'article L. 142-10.
 
 Cette taxe est perçue sur la totalité du territoire du département.
 
@@ -67,7 +73,7 @@ f) Les installations et travaux divers qui sont destinés à être affectés à 
 service public ou d'utilité publique et réalisés par l'Etat, les collectivités
 locales ou leurs groupements ou l'un des services et organismes enumérés par le
 décret pris pour l'application du 1° du I de l'article 1585 C du code général
-des imp&lt;CB&gt;ts.
+des impôts.
 
 Le conseil général peut exonérer de la taxe départementale des espaces naturels
 sensibles, les locaux à usage d'habitation principale édifiés pour leur compte

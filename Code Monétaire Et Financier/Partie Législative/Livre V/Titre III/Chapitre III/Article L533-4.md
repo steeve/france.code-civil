@@ -1,9 +1,9 @@
 Article L533-4
 ----
 Les prestataires de services d'investissement et les personnes mentionnées à
-l'article L. 421-8, sont tenus de respecter des règles de bonne conduite
-destinées à garantir la protection des investisseurs et la régularité des
-opérations.
+l'article L. 421-8 ainsi que les personnes mentionnées à l'article L. 214-83-1,
+sont tenus de respecter des règles de bonne conduite destinées à garantir la
+protection des investisseurs et la régularité des opérations.
 
 Ces règles sont établies par le Conseil des marchés financiers et, pour celles
 ayant trait aux services définis au 4 de l'article L. 321-1, par la Commission

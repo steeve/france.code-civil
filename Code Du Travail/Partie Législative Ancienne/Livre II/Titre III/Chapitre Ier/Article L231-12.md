@@ -23,3 +23,9 @@ du tribunal de grande instance qui statue en référé.
 
 Un décret en Conseil d'Etat détermine les modalités d'application du présent
 article.
+
+Les dispositions des alinéas précédents s'appliquent lorsqu'il est constaté, sur
+un chantier d'exploitation de bois, qu'un salarié ne s'est pas retiré de la
+situation de travail définie à l'article L. 231-8, alors qu'il existe une cause
+de danger grave et imminent résultant d'un défaut de protection contre les
+chutes de hauteur, constituant une infraction à l'article L. 231-2.

@@ -1,9 +1,9 @@
 Article L641-2
 ----
-Les produits agricoles ou alimentaires, bruts ou transformés, peuvent se voir
-reconnaître exclusivement une appellation d'origine contrôlée. Les dispositions
-des articles L. 115-2 à L. 115-4 et L. 115-8 à L. 115-15 du code de la
-consommation ne leur sont pas applicables.
+Les produits agricoles, forestiers ou alimentaires, bruts ou transformés,
+peuvent se voir reconnaître exclusivement une appellation d'origine contrôlée.
+Les dispositions des articles L. 115-2 à L. 115-4 et L. 115-8 à L. 115-15 du
+code de la consommation ne leur sont pas applicables.
 
 Dans les conditions prévues ci-après, ces produits peuvent bénéficier d'une
 appellation d'origine contrôlée s'ils répondent aux dispositions de l'article L.

@@ -1,10 +1,10 @@
 Article L640-2
 ----
-La qualité et l'origine des produits agricoles ou alimentaires peuvent donner
-lieu à la délivrance par l'autorité administrative de signes d'identification
-qui sont l'appellation d'origine contrôlée, le label, la certification de
-conformité, la certification du mode de production biologique et la dénomination
-"montagne".
+La qualité et l'origine des produits agricoles, forestiers ou alimentaires
+peuvent donner lieu à la délivrance par l'autorité administrative de signes
+d'identification qui sont l'appellation d'origine contrôlée, le label, la
+certification de conformité, la certification du mode de production biologique
+et la dénomination "montagne".
 
 Sans préjudice des réglementations communautaires, ni des réglementations
 nationales en vigueur à la date de promulgation de la loi n° 99-574 du 9 juillet

@@ -73,7 +73,11 @@ et sociales (DDASS) ;
 Les médecins inspecteurs des directions régionales des affaires sanitaires et
 sociales (DRASS) ;
 
-Les directeurs d'établissement de santé.
+Les directeurs d'établissement de santé ;
+
+Le président de la Commission nationale de l'informatique et des libertés ;
+
+Le Défenseur des enfants.
 
 II. - En ce qui concerne les détenus militaires ou relevant d'une autorité
 militaire :

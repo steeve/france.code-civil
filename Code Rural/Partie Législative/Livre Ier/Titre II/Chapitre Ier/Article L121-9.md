@@ -1,8 +1,8 @@
 Article L121-9
 ----
 Lorsque les décisions prises par la commission communale ou intercommunale dans
-l'un des cas prévus à l'article L. 121-5 ci-dessus sont portées devant la
-commission départementale d'aménagement foncier, celle-ci est complétée par :
+l'un des cas prévus aux articles L. 121-5 et L. 121-5-1 sont portées devant la
+commission départementale d'aménagement foncier, celle-ci complétée par :
 
 1° Le président du centre régional de la propriété forestière ou son
 représentant ;
@@ -17,7 +17,7 @@ une liste d'au moins six noms, présentée par la chambre d'agriculture sur
 proposition du centre régional de la propriété forestière ;
 
 5° Deux maires ou deux délégués communaux élus par les conseils municipaux
-représentant les communes propriétaires de forêts soumises au régime forestier
+représentant les communes propriétaires de forêts relevant du régime forestier
 en application de l'article L. 111-1 du code forestier, désignés par la réunion
 des maires ou des délégués communaux de ces communes dans le département.
 
