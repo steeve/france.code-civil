@@ -1,7 +1,7 @@
 Article 1007 bis
 ----
-I. Pour les véhicules autres que les motocyclettes, le tarif de la taxe
-différentielle [*vignette*] sur les véhicules à moteur est fixé comme suit (1) :
+I. Le tarif de la taxe différentielle sur les véhicules à moteur est fixé comme
+suit (1) :
 
 ===================================================================
 
@@ -23,21 +23,23 @@ différentielle [*vignette*] sur les véhicules à moteur est fixé comme suit (
 
 : Véhicules dont l'âge : : : :
 
-: n'excède pas cinq ans : 140 : 240 : 560 :
+: n'excède pas cinq ans : 160 : 300 : 700 :
 
 : Véhicules ayant plus de : : : :
 
 : cinq ans mais moins de : : : :
 
-: vingt ans d'âge : 70 : 120 : 280 :
+: vingt ans d'âge : 80 : 150 : 350 :
 
 : Véhicules ayant plus de : : : :
 
 : vingt ans mais moins de : : : :
 
-: vingt-cinq ans d'âge : 60 : 60 : 60 :
+: vingt-cinq ans d'âge : 70 : 70 : 70 :
 
-======================================================================================================================================
+===================================================================
+
+:=================================================================:
 
 : : VEHICULES AYANT UNE :
 
@@ -57,57 +59,30 @@ différentielle [*vignette*] sur les véhicules à moteur est fixé comme suit (
 
 : Véhicules dont l'âge : : : :
 
-: n'excède pas cinq ans : 640 : 1.100 : 1.600 :
+: n'excède pas cinq ans : 800 : 1.380 : 2.000 :
 
 : Véhicules ayant plus de : : : :
 
 : cinq ans mais moins de : : : :
 
-: vingt ans d'âge : 320 : 550 : 800 :
+: vingt ans d'âge : 400 : 690 : 1.000 :
 
 : Véhicules ayant plus de : : : :
 
 : vingt ans mais moins de : : : :
 
-: vingt-cinq ans d'âge : 60 : 60 : 60 :
+: vingt-cinq ans d'âge : 70 : 70 : 70 :
 
 =================================================================== II. Le tarif
 de la taxe spéciale prévue au b de l'article 1007 est fixé comme suit (1) :
 
-- véhicules dont l'âge n'excède pas cinq ans : 5.000 F [*montant*] ;
+- véhicules dont l'âge n'excède pas cinq ans : 7.000 F [*montant*] ;
 
-- véhicules ayant plus de cinq ans mais moins de vingt ans d'âge : 2.500 F ;
+- véhicules ayant plus de cinq ans mais moins de vingt ans d'âge : 3.500 F ;
 
-- véhicules ayant plus de vingt ans mais moins de vingt-cinq ans d'âge : 750 F.
+- véhicules ayant plus de vingt ans mais moins de vingt-cinq ans d'âge : 1.000
+F.
 
-III. Pour les motocyclettes le tarif de la taxe différentielle sur les véhicules
-à moteur est fixé comme suit (1) :
+III (abrogé)
 
-===================================================================
-
-: : MOTOCYCLETTES AYANT :
-
-: : UNE PUISSANCE FISCALE :
-
-: DESIGNATION :------------------------------------:
-
-: : De : De 10 et : Supérieure :
-
-: : 8 et 9 CV : 11 CV : à 11 CV :
-
-:----------------------------:------------:----------:------------:
-
-: : F : F : F :
-
-: Motocyclettes dont l'âge : : : :
-
-: n'excède pas cinq ans : 280 : 560 : 800 :
-
-: Motocyclettes ayant plus : : : :
-
-: de cinq ans mais moins de : : : :
-
-: vingt ans d'âge : 140 : 280 : 400 :
-
-=================================================================== (1) A
-compter de la période d'imposition débutant en 1980.
+(1) A compter de la période d'imposition débutant en 1982.
