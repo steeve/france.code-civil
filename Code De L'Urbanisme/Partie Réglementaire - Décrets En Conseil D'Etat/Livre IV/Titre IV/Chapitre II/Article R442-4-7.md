@@ -2,8 +2,9 @@ Article R442-4-7
 ----
 Le service chargé de l'instruction de la demande procède au nom de l'autorité
 compétente pour statuer à cette instruction et recueille auprès des personnes
-publiques, services et commissions intéressés par le projet de clôture les
-accords, avis ou décisions prévus par les lois ou règlements en vigueur.
+publiques, services et commissions intéressés par le projet d'installations ou
+de travaux les accords, avis ou décisions prévus par les lois ou règlements en
+vigueur.
 
 Il instruit, au besoin d'office, les adaptations mineures au plan d'occupation
 des sols ou au document d'urbanisme en tenant lieu, aux prescriptions des
