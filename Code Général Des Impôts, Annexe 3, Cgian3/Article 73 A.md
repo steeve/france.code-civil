@@ -11,6 +11,5 @@ produits.
 
 Cette disposition s'applique également au transport de marchandises vers un port
 ou un aéroport en vue de leur transbordement à destination d'un territoire d'un
-autre Etat membre de la Communauté situé en dehors du champ d'application de la
-directive (C.E.E.) n° 77-388 du 17 mai 1977 modifiée du Conseil des communautés
-européennes ou des îles anglo-normandes.
+autre Etat membre de la Communauté mentionnée au 1° de l'article 256-0 du code
+général des impôts.

@@ -1,10 +1,4 @@
 Article 75 B
 ----
-L'admission des biens dans les comptoirs de vente et leur livraison exonérée
-sont subordonnées :
-
-a) A leur placement préalable sous les régimes d'entrepôt d'importation ou
-d'exportation ;
-
-b) A la tenue d'une comptabilité matières faisant apparaître pour chaque article
-proposé à la vente hors taxes les entrées et les sorties.
+L'exploitant d'un comptoir de vente est tenu aux obligations afférentes aux
+régimes d'entrepôt mentionnés au I de l'article 75 A.
