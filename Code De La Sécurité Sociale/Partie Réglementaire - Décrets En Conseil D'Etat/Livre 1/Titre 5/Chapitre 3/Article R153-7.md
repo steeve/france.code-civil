@@ -21,4 +21,5 @@ qu'aux crédits faisant l'objet de la suspension ou de l'annulation et jusqu'à 
 qu'une nouvelle délibération du conseil d'administration les concernant soit
 devenue exécutoire.
 
-Le présent article a le même champ d'application que l'article L. 153-4.
+Le présent article a le même champ d'application que les articles L. 153-3 et L.
+153-4.
