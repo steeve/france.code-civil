@@ -39,7 +39,7 @@ terrain étant considéré comme ayant cessé d'être compris dans un emplacemen
 réservé. Toutefois, la date de référence prévue à l'article L. 13-15 du code de
 l'expropriation pour cause d'utilité publique est celle de la publication du
 plan d'occupation des sols, de la modification ou de la révision dudit plan
-instituant l'emplacement réservé.
+délimitant la zone dans laquelle est située l'emplacement réservé.
 
 Le juge de l'expropriation fixe également, s'il y a lieu, les indemnités
 auxquelles peuvent prétendre les personnes mentionnées au troisième alinéa

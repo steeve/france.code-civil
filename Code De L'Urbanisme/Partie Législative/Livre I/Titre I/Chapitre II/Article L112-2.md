@@ -14,3 +14,7 @@ l'Etat, les régions, les départements ou les communes, ni aux immeubles édifi
 par les établissements publics administratifs lorsqu'ils sont affectés à un
 service public ou d'utilité générale et qu'ils ne sont pas productifs de
 revenus.
+
+Dans les conditions de l'article L. 112-1, il peut être décidé que l'obligation
+résultant des deux premiers alinéas du présent article n'est pas applicable aux
+immeubles ou parties d'immeubles affectés à l'habitation.

@@ -24,3 +24,10 @@ ces sociétés comme garantie des prêts qu'elles consentent au moyen des avance
 accordées par cette caisse. Ces subrogations peuvent se substituer en partie à
 la garantie prévue au premier alinéa du présent article dans des conditions
 fixées par décision de l'autorité administrative.
+
+Lorsque le fonds de garanti géré par la caisse de garantie du logement social
+apporte sa garantie aux opérations de construction ou d'acquisition et
+d'amélioration réalisées par les organismes d'habitations à loyer modéré ou les
+sociétés d'économie mixte en application du 3° de l'article l.351-2, il peut
+demander que soit inscrite à son profit une hypothèque légale qui s'étend aux
+biens immobiliers acquis ou édifiés à l'aide de prets qu'il a garantis.

@@ -1,33 +1,43 @@
 Article L631-7
 ----
-Dans les communes définies à l'article 10-7 de la loi n° 48-1360 du 1er
+Dans les communes définies à l'article 10-7 de la loi n. 48-1360 du 1er
 septembre 1948 modifiée :
 
-1. Les locaux à usage d'habitation ne peuvent être ni affectés à un autre usage,
-ni transformés en meublés, hôtels, pensions de famille ou autres établissements
-similaires dont l'exploitant exerce la profession de loueur en meublé au sens du
-premier alinéa de l'article 2 de la loi n° 49-458 du 2 avril 1949 modifiée,
-accordant le bénéfice du maintien dans les lieux à certains clients des hôtels,
-pensions de famille et meublés ; les présentes dispositions n'étant pas
-applicables aux locations en meublé mentionnées au deuxième alinéa dudit article
-2 ;
+1° Les locaux à usage d'habitation ne peuvent être, ni affectés à un autre
+usage, ni transformés en meublés, hôtels, pensions de famille ou autres
+établissements similaires dont l'exploitant exerce la profession de loueur en
+meublé au sens du premier alinéa de l'article 2 de la loi n. 49-458 du 2 avril
+1949 modifiée, accordant le bénéfice du maintien dans les lieux à certains
+clients des hôtels, pensions de famille et meublés ; les présentes dispositions
+n'étant pas applicables aux locations en meublé mentionnées au deuxième alinéa
+dudit article 2 ;
 
-2. Les locaux à usage professionnel ou administratif ainsi que les meublés,
+2° Les locaux à usage professionnel ou administratif ainsi que les meublés,
 hôtels, pensions de famille ou établissements similaires ne peuvent, s'ils ne
 conservent pas leur destination primitive, être affectés à un usage autre que
 l'habitation ;
 
-3. Les garages et remises mentionnés à l'article 2 de la loi n° 48-1360 du 1er
+3° Les garages et remises mentionnés à l'article 2 de la loi n. 48-1360 du 1er
 septembre 1948 précitée ne peuvent être affectés à un usage commercial,
 industriel ou artisanal.
 
 Il ne peut être dérogé à ces interdictions que par autorisation administrative
 préalable et motivée, après avis du maire.
 
-Le préfet peut autoriser l'exercice, sous certaines conditions, dans une partie
-d'un local d'habitation, d'une profession qui ne puisse à aucun moment revêtir
-un caractère commercial si ce local constitue en même temps la résidence du
-demandeur.
+Le représentant de l'Etat dans le département peut autoriser l'exercice, sous
+certaines conditions, dans une partie d'un local d'habitation, d'une profession
+qui ne puisse à aucun moment revêtir un caractère commercial si ce local
+constitue en même temps la résidence du demandeur.
+
+Ces dérogations et autorisations sont accordées à titre personnel. Cependant,
+les bénéficiaires membres d'une profession libérale réglementée, qui rendent à
+l'habitation le local qui était devenu totalement ou partiellement
+professionnel, peuvent être autorisés à transformer un autre local d'habitation
+en local professionnel pour une surface équivalente.
+
+La dérogation et l'autorisation cessent de produire effet lorsqu'il est mis fin,
+à titre définitif, pour quelque raison que ce soit, à l'exercice professionnel
+du bénéficiaire.
 
 Sont nuls de plein droit, tous accords ou conventions conclus en violation du
 présent article. Toutefois le locataire ou occupant d'un local d'habitation

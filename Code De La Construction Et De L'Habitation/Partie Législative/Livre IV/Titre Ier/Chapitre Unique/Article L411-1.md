@@ -7,8 +7,9 @@ répondant aux caractéristiques techniques et de prix de revient déterminées 
 décision administrative et destinées aux personnes et aux familles de ressources
 modestes.
 
-A ces habitations peuvent être adjoints, dans les conditions fixées par décision
-administrative, des jardins, dépendances ou annexes.
+A ces habitations peuvent être adjoints, dans des conditions fixées par décision
+administrative, des dépendances, des annexes et des jardins privatifs ou
+collectifs, accolés ou non aux immeubles.
 
 En outre, les ensembles d'habitations mentionnés aux premiers alinéas peuvent
 comprendre accessoirement des locaux à usage commun et toutes constructions

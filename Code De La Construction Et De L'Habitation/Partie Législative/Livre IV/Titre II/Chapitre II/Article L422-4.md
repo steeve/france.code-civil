@@ -19,5 +19,9 @@ conditions fixées par décret.
 
 d) De réaliser des lotissements.
 
+e) D'effectuer, pour le compte des organismes d'habitations à loyer modéré, le
+recouvrement des sommes dues par les acquéreurs d'un logement d'habitation à
+loyer modéré, dans les conditions prévue à l'article l.443-13.
+
 Elles peuvent, en outre, réaliser des hébergements de loisirs à vocation sociale
 dans les conditions prévues à l'article L. 421-1.
