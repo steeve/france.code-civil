@@ -1,14 +1,15 @@
 Article L2224-35
 ----
 Tout opérateur de communications électroniques autorisé par une collectivité
-territoriale ou un établissement public de coopération compétent pour la
-distribution publique d'électricité à installer un ouvrage aérien non
-radioélectrique sur un support de ligne aérienne d'un réseau public de
-distribution d'électricité procède, en cas de remplacement de cette ligne
-aérienne par une ligne souterraine à l'initiative de la collectivité ou de
-l'établissement précité, au remplacement de sa ligne aérienne en utilisant le
-même ouvrage souterrain que celui construit en remplacement de l'ouvrage aérien
-commun. Les infrastructures communes de génie civil créées par la collectivité
+territoriale, par un établissement public de coopération compétent pour la
+distribution publique d'électricité, ou par un gestionnaire de réseau public de
+distribution d'électricité à installer un ouvrage aérien non radioélectrique sur
+un support de ligne aérienne d'un réseau public de distribution d'électricité
+procède, en cas de remplacement de cette ligne aérienne par une ligne
+souterraine à l'initiative de la collectivité ou de l'établissement précité, au
+remplacement de sa ligne aérienne en utilisant la partie aménagée à cet effet
+dans l'ouvrage souterrain construit en remplacement de l'ouvrage aérien commun.
+Les infrastructures communes de génie civil créées par la collectivité
 territoriale ou l'établissement public de coopération lui appartiennent.
 
 L'opérateur de communications électroniques prend à sa charge les coûts de
