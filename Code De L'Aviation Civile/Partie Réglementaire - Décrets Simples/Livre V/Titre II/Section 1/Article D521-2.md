@@ -7,6 +7,6 @@ titre. Ces primes ont pour objet d'améliorer la sécurité, de favoriser la
 formation des jeunes et d'encourager l'insertion des aéro-clubs dans le milieu
 local.
 
-Elles sont calculées sur proposition de la fédération nationale de vol à moteur
-ou de celle de vol à voile ; elles tiennent compte de l'activité de l'aéro-club,
-de sa bonne organisation et de son rendement.
+Elles sont calculées sur proposition des fédérations mentionnées à l'article D.
+510-3 ; elles tiennent compte de l'activité de l'aéro-club, de sa bonne
+organisation et de son rendement.

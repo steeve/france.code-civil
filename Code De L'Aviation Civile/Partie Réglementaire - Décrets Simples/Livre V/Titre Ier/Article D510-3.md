@@ -1,21 +1,23 @@
 Article D510-3
 ----
-Les associations aéronautiques (aéro-clubs) dont les membres pratiquent l'une ou
-plusieurs des activités énumérées à l'article D. 510-1 peuvent être affiliées à
-une fédération reconnue au plan national :
+Les associations aéronautiques dont les membres pratiquent une ou plusieurs des
+activités énumérées à l'article D. 510-1 peuvent être affiliées à une fédération
+reconnue au plan national :
 
-- pour le vol à moteur, la fédération nationale aéronautique (avions et
-gyravions) ;
+- pour le vol à moteur sur avions, la Fédération nationale aéronautique ;
 
-- pour le vol à voile, la fédération française de vol à voile (planeurs et
-planeurs à dispositif d'envoi incorporé) ;
+- pour le vol à moteur sur giravions, à l'exclusion de l'autogire ultra-léger,
+la Fédération française de giraviation ;
 
-- pour l'aéromodélisme, la fédération française d'aéromodélisme ;
+- pour le vol à voile sur planeurs et planeurs à dispositif d'envol incorporé,
+la Fédération française de vol à voile ;
 
-- pour l'aérostation, la fédération française d'aérostation.
+- pour l'aéromodélisme, la Fédération française d'aéromodélisme ;
 
-" - pour l'ultra-léger motorisé, la Fédération française de planeur ultra-léger
-motorisé. "
+- pour l'aérostation, la Fédération française d'aérostation ;
+
+- pour l'ultra-léger motorisé, la Fédération française de planeur ultra-léger
+motorisé.
 
 Ces fédérations :
 
@@ -24,8 +26,8 @@ sont affiliés ainsi que pour orienter, coordonner leurs activités et favoriser
 leur équipemement en matériel utile à l'exercice de ces activités ;
 
 2° Sont reconnues comme les organismes représentatifs des associations
-pratiquant le vol à moteur, la gyraviation, le vol à voile, l'aéromodélisme et
-l'aérostation ; à ce titre elles peuvent proposer aux autorités compétentes
+pratiquant les activités aéronautiques pour lesquelles elles sont désignées au
+présent article ; à ce titre elles peuvent proposer aux autorités compétentes
 toutes mesures propres à faciliter et à encourager la pratique et le
 développement de l'aviation légère et toutes ses applications ;
 
@@ -41,7 +43,7 @@ formation professionnelle de l'industrie aéronautique :
 
 - l'apprentissage dans ces mêmes métiers, en assurant, conformément aux
 dispositions du code de l'enseignement technique et notamment de ses articles 90
-à 107 et 150 et 151, le fonctionnement de cours professionnels ;
+à 107 et 150 et 151 le fonctionnement de cours professionnels ;
 
 5° Participent à la préparation militaire en coordonnant l'organisation au sein
 des aéro-clubs, de l'enseignement des spécialités pour les jeunes gens désirant
