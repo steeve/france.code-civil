@@ -31,6 +31,9 @@ Dépenses d'équipement en matériel définies à l'article R. 950-7 ci-dessus ;
 Dépenses de formation effectuées au bénéfice du personnel de l'entreprise, en
 application de conventions ;
 
+Dépenses de bilans de compétences effectuées au bénéfice du personnel de
+l'entreprise en application des conventions visées à l'article R. 900-3 ;
+
 Rémunérations versées aux stagiaires par l'entreprise ;
 
 Versements effectués dans les conditions prévues à l'article L. 951-1 (5°) du
@@ -60,10 +63,11 @@ impôts.
 
 9° Le nombre de salariés de l'entreprise.
 
-10° Le nombre de stagiaires ayant bénéficié d'une formation au cours de l'année,
-financée en tout ou partie au moyen de la participation de l'employeur, ainsi
-que le nombre d'heures de formation reçues par eux, selon qu'elles ont ou non
-donné lieu au maintien d'une rémunération.
+10° Le nombre de stagiaires ayant bénéficié d'une formation ou d'un bilan de
+compétences au cours de l'année, financée en tout ou partie au moyen de la
+participation de l'employeur, ainsi que le nombre d'heures de formation et de
+bilan de compétences reçues par eux, selon qu'elles ont ou non donné lieu au
+maintien d'une rémunération.
 
 11° La répartition de ces stagiaires :
 

@@ -22,9 +22,9 @@ dispositions de l'alinéa 2 ci-dessus ne sont applicables qu'aux dépenses qui o
 l'entreprise ou au décès.
 
 Les dépenses mentionnées au premier alinéa ci-dessus sont déterminées selon les
-modalités définies aux articles R. 950-4 à R. 950-17 [*anciennement R. 950-13*]
-ci-après ; elles doivent concerner le financement d'action de formation
-professionnelle continue du type de celles qui sont définies à l'article L.
-900-2, à l'exclusion des dépenses consacrées au financement des premières
-formations technologiques et professionnelles définies à l'article 1er de la loi
-n° 71-578 du 16 juillet 1971.
+modalités définies aux articles R. 950-4 à R. 950-17 ci-après ; elles doivent
+concerner le financement d'action de formation professionnelle continue ou de
+bilan de compétences du type de celles qui sont définies à l'article L. 900-2, à
+l'exclusion des dépenses consacrées au financement des premières formations
+technologiques et professionnelles définies à l'article 1er de la loi n° 71-578
+du 16 juillet 1971.

@@ -8,7 +8,10 @@ l'administration et comprenant :
 La liste des conventions passées par l'employeur avec des organismes de
 formation ainsi que les effectifs concernés et le montant des versements
 effectués en application de ces conventions et retenus au titre de la
-participation ;
+participation ; La liste des conventions mentionnées à l'article R. 900-3
+passées par l'employeur avec des organismes réalisant des bilans de compétences
+au bénéfice du personnel de l'entreprise ainsi que les effectifs concernés et le
+montant des dépenses imputées sur l'obligation de participer ;
 
 La liste des organismes agréés dans les conditions prévues au 4° de l'article L.
 951-1 ayant reçu des versements de l'employeur ainsi que le montant de chacun
