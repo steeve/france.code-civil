@@ -13,10 +13,10 @@ de rénovation urbaine et l'organisme de rénovation. Toutefois, en ce qui
 concerne la taxe ou le droit afférents aux biens remis aux anciens propriétaires
 en contre-partie de leur créance sur un organisme de rénovation, le bénéfice de
 la réduction de taux ne peut être invoqué qu'à concurrence du montant de la
-créance sur l'organisme de rénovation.
+créance sur l'organisme de rénovation ;
 
 C. Les cessions gratuites aux collectivités publiques de terrains classés,
-visées à l'article L. 130-2 du code de l'urbanisme.
+visées à l'article L. 130-2 du code de l'urbanisme ;
 
 D. I. Les acquisitions d'immeubles ruraux à condition :
 
@@ -71,9 +71,9 @@ modifié qui sont effectuées par les agriculteurs bénéficiaires des aides à
 l'installation des jeunes agriculteurs prévue aux articles R343-9 et R343-13 du
 code rural, que les intéressés soient exploitants individuels ou associés d'une
 société civile à objet agricole, pour la fraction du prix ou de la valeur
-n'excédant pas 650.000 F, quel que soit le nombre des acquisitions, sous réserve
-qu'elles interviennent au cours des quatre années suivant l'octroi des aides,
-que l'acte précise la valeur des terres acquises depuis cette date par
+n'excédant pas 99 000 euros, quel que soit le nombre des acquisitions, sous
+réserve qu'elles interviennent au cours des quatre années suivant l'octroi des
+aides, que l'acte précise la valeur des terres acquises depuis cette date par
 l'acquéreur ayant bénéficié du tarif réduit et soit appuyé d'un certificat
 délivré sans frais par le directeur départemental de l'agriculture et de la
 forêt précisant la date de l'octroi des aides.
@@ -86,7 +86,7 @@ acquis a été donné à bail à long terme à un jeune agriculteur bénéficiai
 aides à l'installation.
 
 Ce taux s'applique aux acquisitions effectuées par l'acquéreur à hauteur d'une
-valeur globale n'excédant pas 650 000 F.
+valeur globale n'excédant pas 99 000 euros.
 
 F. Les ventes résultant de l'application des articles L128-4 à L128-7 du code
 rural relatifs à la mise en valeur agricole des terres incultes, des terres
@@ -114,11 +114,17 @@ la condition que ce dernier fasse l'objet d'une publication si cette formalité
 est obligatoire en application des dispositions de l'article 28 du décret n°
 55-22 du 4 janvier 1955 modifié.
 
-I. (supprimé)
+I. (Disposition abrogée).
 
 J. Les cessions de constructions provisoires, réalisées en application de
-l'article L 60 du code du domaine de l'Etat.
+l'article L. 60 du code du domaine de l'Etat.
 
 K. Dans les départements d'outre-mer, les acquisitions de terrains compris dans
 le périmètre de lotissements qui sont agréés dans des conditions fixées par
 décret.
+
+L. - Les acquisitions en vue de leur revente de lots de copropriétés faisant
+l'objet d'un plan de sauvegarde, en application de l'article L. 615-1 du code de
+la construction et de l'habitation, par des sociétés anonymes et des sociétés
+anonymes coopératives de production d'habitations à loyers modérés ainsi que par
+des sociétés d'économie mixte.

@@ -15,14 +15,11 @@ l'article 119 bis du code général des impôts ;
 sociétés prévue à l'article 239 bis B ;
 
 5° A la taxe sur les encours de crédit prévue à l'article 235 ter N du même code
-;
+(1) ;
 
 6° A la taxe sur les salaires ;
 
-7° A la cotisation perçue au titre de la participation des employeurs à l'effort
-de construction ;
-
-Ainsi qu'à tous prélèvements et taxes qui tiennent lieu de l'impôt sur le revenu
-ou de l'impôt sur les sociétés.
+7° A tous prélèvements et taxes qui tiennent lieu de l'impôt sur le revenu ou de
+l'impôt sur les sociétés.
 
 8° au supplément d'imposition visé au II de l'article 1647 E.

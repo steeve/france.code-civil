@@ -1,8 +1,7 @@
 Article 170 sexies
 ----
 Il est statué sur les demandes d'agrément présentées pour l'application du II et
-du III de l'article 209 et du II de l'article 220 quinquies du code général des
-impôts :
+du III de l'article 209 du code général des impôts :
 
 a) Par le ministre chargé du budget après avis du comité des investissements à
 caractère économique et social :
@@ -14,12 +13,12 @@ une créance de report en arrière des déficits d'ensemble au sens de l'article
 223 G, quel que soit leur montant ;
 
 2° Ou, lorsque la demande est présentée par une entreprise réalisant un chiffre
-d'affaires supérieur à 1 milliard de francs ou qui est détenue à plus de 50 %
-par une entreprise réalisant elle-même un tel chiffre d'affaires ;
+d'affaires supérieur à cent cinquante millions d'euros ou qui est détenue à plus
+de 50 % par une entreprise réalisant elle-même un tel chiffre d'affaires ;
 
-3° Ou lorsque la demande porte, pour une même opération, sur des déficits ou des
-amortissements réputés différés dont le montant global est supérieur à 10
-millions de francs ;
+3° Ou, lorsque la demande porte pour une même opération, sur des déficits ou des
+amortissements réputés différés dont le montant global est supérieur à 1,5
+million d'euros ;
 
 4° Ou lorsque l'opération présente des difficultés particulières ou est évoquée
 par le ministre ;

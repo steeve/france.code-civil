@@ -45,9 +45,14 @@ retrait ou rachat est déterminé par différence entre, d'une part, le montant 
 retrait ou rachat et, d'autre part, une fraction de la valeur liquidative ou de
 rachat au 1er janvier 1997 augmentée des versements effectués sur le plan depuis
 cette date et diminuée du montant des sommes déjà retenues à ce titre lors des
-précédents retraits ou rachats ; cette fraction est égale au rapport du montant
-du retrait ou rachat effectué à la valeur liquidative totale du plan à la date
-du retrait ou du rachat ;
+précédents retraits ou rachats cette fraction est égale au rapport du montant du
+retrait ou rachat effectué à la valeur liquidative totale du plan à la date du
+retrait ou du rachat ;
+
+La valeur liquidative ou de rachat ne tient pas compte des gains nets et
+produits de placement mentionnés au 8 afférents aux parts des fonds communs de
+placement à risques et aux actions des sociétés de capital-risque détenues dans
+le plan.
 
 6. Lorsque les intéressés demandent la délivrance des droits constitués à leur
 profit au titre de la participation aux résultats de l'entreprise en application
@@ -84,7 +89,7 @@ contrat ;
 
 III. Les dispositions du II ne sont pas applicables aux revenus visés au 3 dudit
 II s'agissant des seuls contrats en unités de compte ni aux revenus mentionnés
-aux 5 à 10, lorsque ces revenus entrent dans le champ d'application de l'article
+aux 5 à 9, lorsque ces revenus entrent dans le champ d'application de l'article
 1600-0 C.
 
 IV. 1. La contribution sociale généralisée due par les établissements payeurs au
@@ -96,8 +101,9 @@ mois de décembre et janvier et retenus à hauteur de 90 % de leur montant.
 
 Ce versement est égal au produit de l'assiette de référence ainsi déterminée par
 le taux de la contribution fixé à l'article 1600-0 E. Son paiement doit
-intervenir le 30 septembre pour sept neuvièmes de son montant et le 30 novembre
-au plus tard pour les deux neuvièmes restants.
+intervenir le 25 septembre pour sept neuvièmes de son montant et le 25 novembre
+au plus tard pour les deux neuvièmes restants. Il est reversé dans un délai de
+dix jours francs après ces dates par l'Etat aux organismes affectataires.
 
 2. Lors du dépôt en janvier et février des déclarations, l'établissement payeur
 procède à la liquidation de la contribution. Lorsque le versement effectué en
@@ -106,8 +112,15 @@ imputé sur la contribution sociale généralisée due à raison des autres prod
 de placement et, le cas échéant, sur les autres prélèvements ; l'excédent
 éventuel est restitué.
 
-3. Les modalités d'application du présent article sont fixées par décret.
+3. Les modalités d'application du présent article sont fixées par décret (1).
 
 V. La contribution visée aux I, II et IV est assise, contrôlée et recouvrée
 selon les mêmes règles et sous les mêmes sûretés, privilèges et sanctions que le
 prélèvement mentionné à l'article 125 A.
+
+(1) Les dispositions du présent IV s'appliquent pour la première fois à la
+contribution sociale généralisée due au titre des mois de décembre 1997 et
+janvier 1998. Pour l'application du 1 du IV précité, le versement correspondant
+est déterminé d'après les revenus des mêmes placements soumis à la contribution
+pour le remboursement de la dette sociale au cours des mois de décembre 1996 et
+janvier 1997 et retenus à hauteur de 90 % de leur montant.

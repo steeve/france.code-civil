@@ -4,10 +4,12 @@ Article 121
 société étrangère à son capital social ne constitue pas un fait générateur de
 l'impôt sur le revenu.
 
-En cas de fusion, de scission ou d'apport partiel d'actif intéressant des
-sociétés dont l'une au moins est étrangère, les dispositions de l'article 115 ne
-sont applicables que sous les conditions édictées par les articles 210 B et 210
-C.
+Les dispositions prévues au 1 de l'article 115 sont applicables en cas de fusion
+ou de scission intéressant des sociétés dont l'une au moins est étrangère (1).
+
+Les dispositions prévues au 2 de l'article 115 sont applicables en cas d'apport
+partiel d'actif par une société étrangère et placé sous un régime fiscal
+comparable au régime de l'article 210 A (1).
 
 2. Ne sont pas considérés comme revenus au sens de l'article 120 :
 

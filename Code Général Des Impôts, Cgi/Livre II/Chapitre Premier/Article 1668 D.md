@@ -19,12 +19,6 @@ Lorsque le montant des versements anticipés déjà payés au titre d'un exercic
 d'une période d'imposition en application du deuxième alinéa est égal ou
 supérieur à la contribution dont l'entreprise prévoit qu'elle sera finalement
 redevable au titre de ce même exercice ou de cette même période, l'entreprise
-peut se dispenser du paiement de nouveaux versements en remettant au comptable
-du Trésor chargé du recouvrement des impôts directs, avant la date d'exigibilité
-du prochain versement anticipé, une déclaration datée et signée.
+peut se dispenser du paiement de nouveaux versements.
 
-Si la déclaration mentionnée au quatrième alinéa est reconnue inexacte à la
-suite de la liquidation de la contribution, la majoration prévue au 1 de
-l'article 1762 est appliquée aux sommes non réglées.
-
-II. - Les modalités d'application du présent article sont fixées par décret.
+II. - Les modalités d'application du présent article sont fixées par décret (1).

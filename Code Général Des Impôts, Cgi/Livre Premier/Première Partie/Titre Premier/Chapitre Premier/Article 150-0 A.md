@@ -7,15 +7,15 @@ effectuées directement ou par personne interposée, de valeurs mobilières, de
 droits sociaux, de titres mentionnés au 1° de l'article 118 et aux 6° et 7° de
 l'article 120, de droits portant sur ces valeurs, droits ou titres ou de titres
 représentatifs des mêmes valeurs, droits ou titres, sont soumis à l'impôt sur le
-revenu lorsque le montant de ces cessions excède, par foyer fiscal, 50 000 F par
-an.
+revenu lorsque le montant de ces cessions excède, par foyer fiscal, 7 650 euros
+(1) par an.
 
 Toutefois, en cas d'intervention d'un événement exceptionnel dans la situation
 personnelle, familiale ou professionnelle des contribuables, le franchissement
-de la limite précitée de 50 000 F est apprécié par référence à la moyenne des
-cessions de l'année considérée et des deux années précédentes. Les événements
-exceptionnels doivent notamment s'entendre de la mise à la retraite, du chômage,
-du redressement ou de la liquidation judiciaires ainsi que de l'invalidité ou du
+de la limite précitée est apprécié par référence à la moyenne des cessions de
+l'année considérée et des deux années précédentes. Les événements exceptionnels
+doivent notamment s'entendre de la mise à la retraite, du chômage, du
+redressement ou de la liquidation judiciaires ainsi que de l'invalidité ou du
 décès du contribuable ou de l'un ou l'autre des époux soumis à une imposition
 commune.
 
@@ -46,10 +46,10 @@ du code de commerce ;
 2. Au gain net réalisé depuis l'ouverture du plan d'épargne en actions défini à
 l'article 163 quinquies D en cas de retrait de titres ou de liquidités ou de
 rachat avant l'expiration de la cinquième année dans les mêmes conditions. Pour
-l'appréciation de la limite de 50 000 F mentionnée au 1 du I, la valeur
-liquidative du plan ou la valeur de rachat pour un contrat de capitalisation à
-la date de sa clôture est ajoutée au montant des cessions réalisées en dehors du
-plan au cours de la même année ;
+l'appréciation de la limite mentionnée au 1 du I, la valeur liquidative du plan
+ou la valeur de rachat pour un contrat de capitalisation à la date de sa clôture
+est ajoutée au montant des cessions réalisées en dehors du plan au cours de la
+même année ;
 
 3. Au gain net retiré des cessions de titres de sociétés immobilières pour le
 commerce et l'industrie non cotées ;
@@ -78,9 +78,10 @@ du même II. Cette disposition n'est pas applicable si, à la date de la cession
 la société a cessé de remplir les conditions énumérées à l'article 1er-1 de la
 loi n° 85-695 du 11 juillet 1985 précitée ;
 
-2. Aux titres cédés dans le cadre de leur gestion par les autres fonds communs
-de placement sous réserve qu'aucune personne physique agissant directement ou
-par personne interposée ne possède plus de 10 % des parts du fonds ;
+2. Aux titres cédés dans le cadre de leur gestion par les fonds communs de
+placement sous réserve qu'aucune personne physique agissant directement ou par
+personne interposée ne possède plus de 10 % des parts du fonds. Cette condition
+ne s'applique pas aux fonds mentionnés au 3.
 
 3. Aux titres cédés dans le cadre de leur gestion par les fonds communs de
 placement, constitués en application des législations sur la participation des

@@ -9,9 +9,9 @@ taxe de publicité foncière sur le montant des apports déduction faite du pass
 ;
 
 2° Les apports immobiliers qui sont faits aux associations constituées
-conformément à la loi du 1er juillet 1901 et au Livre IV, titre Ier, du code du
-travail (syndicats professionnels) sont soumis aux mêmes droits ou taxes que les
-apports aux sociétés civiles ou commerciales ;
+conformément à la loi du 1er juillet 1901 et au titre Ier du Livre IV, du code
+du travail (syndicats professionnels) sont soumis aux mêmes droits ou taxes que
+les apports aux sociétés civiles ou commerciales ;
 
 3° Les apports faits à une personne morale passible de l'impôt sur les sociétés
 par une personne non soumise à cet impôt sont assimilés à des mutations à titre
@@ -26,10 +26,10 @@ prise en charge du passif, dont sont grevés les biens de la nature de ceux
 énumérés au 3° du I qui sont compris dans l'apport, donne ouverture à un droit
 de mutation au tarif prévu par le premier alinéa du III de l'article 810. Pour
 les apports réalisés à compter du 1er janvier 1992, le droit de mutation est
-remplacé par un droit fixe si l'apporteur s'engage à conserver pendant cinq ans
-les titres remis en contrepartie de l'apport. Le droit fixe est de 1.500 F pour
-les apports réalisés à compter du 1er janvier 1998. En cas de non-respect de
-l'engagement de conservation des titres, les dispositions prévues au III de
+remplacé par un droit fixe si l'apporteur s'engage à conserver pendant trois ans
+les titres remis en contrepartie de l'apport. Le droit fixe est de 230 euros
+pour les apports réalisés à compter du 1er janvier 2002. En cas de non-respect
+de l'engagement de conservation des titres, les dispositions prévues au III de
 l'article 810 sont applicables.
 
 Si la société cesse de remplir les conditions qui lui ont permis de bénéficier
@@ -41,9 +41,7 @@ II. Lorsqu'une personne morale dont les résultats ne sont pas soumis à l'impô
 sur les sociétés devient passible de cet impôt, le changement de son régime
 fiscal rend les droits et taxes de mutation à titre onéreux exigibles sur les
 apports purs et simples qui lui ont été faits depuis le 1er août 1965 par des
-personnes non soumises audit impôt (1). Les droits sont perçus sur la valeur
-vénale des biens à la date du changement.
+personnes non soumises audit impôt. Les droits sont perçus sur la valeur vénale
+des biens à la date du changement.
 
 III. (Abrogé).
-
-(1) Voir Annexe II, art. 295 à 301.

@@ -1,8 +1,7 @@
 Article 1663
 ----
 1. Les impôts directs, produits et taxes assimilés, visés par le présent code,
-sont exigibles le dernier jour du mois suivant celui de la mise en recouvrement
-du rôle.
+sont exigibles trente jours après la date de la mise en recouvrement du rôle.
 
 2. Le déménagement hors du ressort de la perception, à moins que le contribuable
 n'ait fait connaître, avec justifications à l'appui, son nouveau domicile, et la
@@ -22,7 +21,8 @@ suffisante par le comptable chargé du recouvrement.
 En cas de cession ou de cessation d'entreprise ou de l'exercice d'une profession
 non commerciale, ou de décès de l'exploitant ou du contribuable, l'impôt sur le
 revenu et l'impôt sur les sociétés établis dans les conditions prévues aux
-articles 201, 202, 204 et 221-2 sont immédiatement exigibles pour la totalité.
+articles 201, 202, 204 et au 2 de l'article 221 sont immédiatement exigibles
+pour la totalité.
 
 Sont également exigibles immédiatement pour la totalité les droits et pénalités
 visés aux articles 1679 bis, 1725, 1726, 1731 et 1768.

@@ -3,7 +3,7 @@ Article 1600-0 J
 I. Sont également assujettis à la contribution mentionnée à l'article 1600-0 I
 selon les modalités prévues à cet article, pour la partie acquise à compter du
 1er février 1996 et, le cas échéant, constatée à compter du 1er février 1996 en
-ce qui concerne les placements visés du 3 au 10 :
+ce qui concerne les placements visés du 3 au 9 :
 
 1. Les intérêts et primes d'épargne des comptes d'épargne logement visés à
 l'article L. 315-1 du code de la construction et de l'habitation respectivement
@@ -25,7 +25,7 @@ respectivement lors de leur inscription en compte et de leur versement ;
 
 5. Le gain net réalisé ou la rente viagère versée lors d'un retrait de sommes ou
 valeurs ou de la clôture d'un plan d'épargne en actions défini à l'article 163
-quinquies D :
+quinquies D ;
 
 a. Avant l'expiration de la huitième année, le gain net est déterminé par
 différence entre, d'une part, la valeur liquidative du plan ou la valeur de
@@ -41,6 +41,11 @@ cette date et diminuée du montant des sommes déjà retenues à ce titre lors d
 précédents retraits ou rachats. Cette fraction est égale au rapport du montant
 du retrait ou rachat effectué à la valeur liquidative totale du plan à la date
 du retrait ou du rachat ;
+
+La valeur liquidative ou de rachat ne tient pas compte des gains nets et
+produits de placement mentionnés au 8 afférents aux parts des fonds communs de
+placement à risques et aux actions des sociétés de capital-risque détenues dans
+le plan.
 
 6. Lorsque les intéressés demandent la délivrance des droits constitués à leur
 profit au titre de la participation aux résultats de l'entreprise en application
@@ -76,10 +81,10 @@ contrat ;
 10. (Abrogé)
 
 II. Les dispositions du I ne sont pas applicables aux revenus visés au 3
-s'agissant des seuls contrats en unités de comptes et aux 5 à 10, lorsque ces
+s'agissant des seuls contrats en unités de comptes et aux 5 à 9, lorsque ces
 revenus entrent dans le champ d'application de l'article 1600-0 G.
 
 III. Les revenus de placement visés au I, acquis ou en ce qui concerne les
-placements visés du 3 au 10 du même I, constatés à la date du 31 janvier 2014 et
+placements visés du 3 au 9 du même I, constatés à la date du 31 janvier 2014 et
 pour lesquels la contribution n'est pas encore exigible sont soumis à cette date
 à la contribution.
