@@ -24,18 +24,41 @@ conjoint des ministres chargés de la construction et de l'habitation et des
 finances et actualisés au 1er janvier de chaque année en fonction de la
 variation annuelle de l'indice du coût de la construction.
 
-2° Le taux de la subvention est au plus égal à 12 p. 100 de cette assiette.
+2° a) Une subvention peut être octroyée aux opérations de construction
+suivantes. Le taux de subvention est au plus égal à :
 
-Il peut être porté :
+- 8 p. 100 de l'assiette définie au 1° pour les opérations d'habitat adapté aux
+besoins de populations rencontrant des difficultés particulières. A titre
+exceptionnel, le préfet peut, par dérogation, porter ce taux à 13 p. 100 au plus
+;
 
-- au plus à 20 p. 100 de l'assiette telle que définie ci-dessus pour des
-opérations d'habitat adapté aux besoins de populations rencontrant des
-difficultés particulières. A titre exceptionnel, le préfet peut par dérogation
-porter ce ce taux à 25 p. 100 au plus. - au plus à 15 p. 100 de l'assiette telle
-que définie ci-dessus pour des opérations à caractère expérimental.
+- 3 p. 100 de cette assiette pour les opérations à caractère expérimental.
 
-La subvention de l'Etat ne peut donner lieu à l'attribution d'une subvention
+b) Par dérogation au a, une subvention peut être octroyée aux opérations de
+construction réalisées en Corse. Le taux de subvention est au plus égal à 9,5 p.
+100 de l'assiette définie au 1°. Il peut être porté :
+
+- au plus à 17,5 p. 100 de cette assiette pour des opérations d'habitat adapté
+aux besoins de populations rencontrant des difficultés particulières. A titre
+exceptionnel, le préfet peut, par dérogation, porter ce taux à 22,5 p. 100 au
+plus ;
+
+- au plus à 12,5 p. 100 de cette assiette pour des opérations à caractère
+expérimental.
+
+3° Pour les opérations autres que celles prévues au 2°, le taux de subvention
+est au plus égal à 12 p. 100 de l'assiette définie au 1°. Il peut être porté :
+
+- au plus à 20 p. 100 de cette assiette pour des opérations d'habitat adapté aux
+besoins des populations rencontrant des difficultés particulières. A titre
+exceptionnel, le préfet peut, par dérogation, porter ce taux à 25 p. 100 au plus
+;
+
+- au plus à 15 p. 100 de cette assiette pour des opérations à caractère
+expérimental.
+
+4° La subvention de l'Etat ne peut donner lieu à l'attribution d'une subvention
 complémentaire.
 
-Un arrêté conjoint des ministres chargés de la construction, de l'habitation et
-des finances fixe les conditions d'application du présent article.
+Un arrêté conjoint des ministres chargés de la construction et de l'habitation
+et des finances fixe les conditions d'application du présent article.
