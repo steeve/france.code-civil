@@ -5,7 +5,8 @@ mentionnés aux premier et deuxième alinéas de l'article L. 162-17.
 
 La liste établie dans les conditions fixées au premier alinéa de l'article L.
 162-17 est complétée pour tenir compte des nécessités particulières aux
-départements intéressés.
+départements intéressés, notamment dans le domaine de la prophylaxie et de la
+thérapeutique palustres.
 
 Un arrêté des ministres chargés de la sécurité sociale, de la santé, de
 l'économie et de l'outre-mer peut déterminer des majorations applicables aux

@@ -84,7 +84,7 @@ II. - Comme il est dit à l'article 716-1-1 du code pénal ci-après reproduit :
 en vue d'un don est puni de sept ans d'emprisonnement et de 700 000 F d'amende."
 ;
 
-c) L'article L. 674-4 du code de la santé publique est rédigé comme suit :
+c) L'article L. 674-5 du code de la santé publique est ainsi rédigé :
 
 "Comme il est dit au premier alinéa de l'article 511-5 du code pénal et, en
 vertu de l'article 716-2 du même code, au deuxième alinéa dudit article 511-5 :
@@ -99,8 +99,8 @@ vivante majeure faisant l'objet d'une mesure de protection légale." ;
 
 d) L'article L. 674-6 du code de la santé publique est rédigé comme suit :
 
-Comme il est dit à l'article 716-3 du code pénal, l'article 511-7 est ainsi
-rédigé :
+Comme il est dit à l'article 716-3 du code pénal, l'article 511-7 du même code
+est ainsi rédigé :
 
 "Art. 511-7. - Le fait de procéder à des prélèvements d'organes ou des
 transplantations d'organes, à des prélèvements ou des greffes de tissus, à la
