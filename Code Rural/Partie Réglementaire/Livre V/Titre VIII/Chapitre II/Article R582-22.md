@@ -11,7 +11,7 @@ les mots : "qui dépasse 14 000 000 FCFP" et les mots :
 2° A son deuxième alinéa, les mots : "Le commissariat aux comptes peut être
 exercé" sont remplacés par les mots : "Le commissariat aux comptes doit être
 exercé" ; les mots : "ou par une fédération de coopératives agricoles, agréée en
-application de l'article L. 527-1 du code rural" ne s'appliquent pas au
-territoire de la Nouvelle-Calédonie.
+application de l'article L. 527-1 du code rural" ne s'appliquent pas à la
+Nouvelle-Calédonie.
 
-3° Son dernier alinéa ne s'applique pas au territoire de la Nouvelle-Calédonie.
+3° Son dernier alinéa ne s'applique pas à la Nouvelle-Calédonie.
