@@ -1,10 +1,10 @@
 Article D668-8-4
 ----
 Les personnes souhaitant être inscrites sur la liste d'aptitude disposent chaque
-année d'un mois, à compter du 1er mai, pour transmettre à l'Agence française du
-sang et au ministre chargé de la santé leur dossier de candidature, comprenant
-notamment un curriculum vitae et les documents attestant des titres, fonctions,
-services et travaux.
+année d'un mois, à compter du 1er septembre, pour transmettre à l'Agence
+française du sang et au ministre chargé de la santé leur dossier de candidature,
+comprenant notamment un curriculum vitae et les documents attestant des titres,
+fonctions, services et travaux.
 
 L'Agence française du sang instruit les dossiers de candidature transmis. Elle
 soumet pour avis à la commission visée à l'article D. 668-8-5 les dossiers de

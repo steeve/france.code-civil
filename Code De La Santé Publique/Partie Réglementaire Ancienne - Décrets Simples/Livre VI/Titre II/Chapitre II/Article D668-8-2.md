@@ -43,11 +43,7 @@ agréé par le ministre chargé de la santé sous le régime de la loi du 21 jui
 1952 relative à l'utilisation thérapeutique du sang humain, de son plasma et de
 leurs dérivés.
 
-d) Les médecins inscrits à un tableau de l'ordre des médecins et les pharmaciens
-inscrits au tableau de la section D de l'ordre national des pharmaciens, qui ont
-exercé pendant cinq ans au moins des fonctions de direction d'un site
-transfusionnel ou d'un service au sein d'un établissement de transfusion
-sanguine agréé en vertu de l'article L. 668-2 du code de la santé publique.
+d) (abrogé)
 
 Les personnes visées aux a et b du I du présent article, à l'exception des
 médecins qui sont titulaires du diplôme d'études spécialisées complémentaires
@@ -68,13 +64,7 @@ des universités - praticiens hospitaliers pour l'une des disciplines suivantes 
 hématologie et transfusion, immunologie, biologie cellulaire,
 bactériologie-virologie ;
 
-b) Les médecins inscrits à un tableau de l'ordre des médecins, qui sont
-praticiens hospitaliers et qui justifient des titres et des travaux requis pour
-l'inscription au concours de professeurs des universités - praticiens
-hospitaliers ou maîtres de conférences des universités - praticiens
-hospitaliers, ou qui relèvent d'un statut équivalent dans les disciplines
-d'hématologie et transfusion, immunologie, biologie cellulaire,
-bactériologie-virologie ;
+b) (abrogé)
 
 c) Les pharmaciens inscrits au tableau de la section D, G ou E de l'ordre
 national des pharmaciens, qui sont professeurs des universités - praticiens
@@ -82,12 +72,7 @@ hospitaliers ou maîtres de conférence des universités - praticiens hospitalie
 dans l'une des disciplines suivantes : hématologie et transfusion, immunologie,
 biologie cellulaire, bactériologie-virologie ;
 
-d) Les médecins et pharmaciens qui justifient avoir exercé pendant dix ans au
-moins les fonctions de directeur d'un établissement ou d'un centre de
-transfusion sanguine, ou la responsabilité au sein d'un établissement de santé
-ou de soins d'un service d'hématologie clinique, immunologie clinique, biologie
-polyvalente, hématologie biologique, immunologie biologique,
-bactériologie-virologie.
+d) (abrogé)
 
 Les personnes visées aux alinéas précédents du II du présent article, à
 l'exception des médecins qui sont titulaires d'un diplôme d'études spécialisées
@@ -97,16 +82,32 @@ sanguine, ne peuvent être inscrites sur la liste d'aptitude que si elles
 justifient d'une expérience professionnelle de six mois au moins au sein d'un
 établissement de transfusion sanguine, pouvant prendre la forme d'un stage.
 
-III. - A titre exceptionnel, en raison de leurs titres et travaux et après
-consultation de la commission prévue à l'article D. 668-8-5 :
+III. - Peuvent également être inscrits sur la liste d'aptitude, après
+consultation de la commission prévue à l'article D. 668-8-5, au vu de leurs
+titres et travaux, de l'expérience en transfusion sanguine et, pour la section
+II uniquement, de leurs compétences scientifiques et d'enseignement :
 
-a) Au sein de la première section, les médecins visés au a du I du présent
-article qui ne sont pas titulaires d'un titre ou d'un diplôme dans l'une au
-moins des disciplines énumérées ;
+a) Au sein de la première section, les médecins mentionnés au a du I qui ne sont
+pas titulaires d'un titre ou d'un diplôme dans l'une au moins des disciplines
+énumérées ;
 
-b) Au sein de la seconde section, les médecins visés aux a et b du II du présent
-article qui ne sont pas recrutés ou qui ne justifient pas des titres et travaux
-dans l'une des disciplines énumérées, et les médecins et pharmaciens mentionnés
-au d du II du présent article qui justifient de dix ans d'exercice de
-responsabilité au sein d'un service correspondant à d'autres disciplines que
-celles qui y sont énumérées.
+b) Au sein de la première section, les médecins inscrits à un tableau de l'ordre
+des médecins et les pharmaciens inscrits au tableau de la section D, G ou E de
+l'ordre national des pharmaciens, qui ont exercé pendant cinq ans au moins les
+fonctions de responsable d'un site transfusionnel ou d'un service au sein d'un
+établissement de transfusion sanguine agréé en vertu de l'article L. 668-2 ;
+
+c) Au sein de la seconde section, les médecins mentionnés au a du II qui ne
+justifient pas des titres et travaux dans l'une des disciplines énumérées ;
+
+d) Au sein de la seconde section, les médecins et pharmaciens qui remplissent
+les conditions prévues par le décret n° 84-135 du 24 février 1984 modifié pour
+l'accès aux concours nationaux de professeurs des universités - praticiens
+hospitaliers ou de maîtres de conférences des universités - praticiens
+hospitaliers ;
+
+e) Au sein de la seconde section, les médecins et pharmaciens qui justifient
+avoir exercé pendant dix ans au moins les fonctions de directeur ou directeur
+adjoint d'un établissement, d'un centre de transfusion sanguine ou de chef d'un
+poste de transfusion sanguine ou la responsabilité d'un service au sein d'un
+établissement de santé ou de soins.
