@@ -8,7 +8,11 @@ service détaché et fixe la rémunération du personnel dans les limites arrêt
 par le conseil d'administration, sous réserve de l'observation des règles de
 tutelle.
 
-Il représente le port en justice et dans tous les actes de la vie civile.
+Il représente le port en justice et dans tous les actes de la vie civile. Il a
+la faculté de conclure des transactions, dans les conditions prévues par les
+articles 2044 et suivants du code civil, sous réserve de l'accord préalable du
+conseil d'administration, du ministre chargé des ports maritimes et du ministre
+chargé du budget.
 
 Il procède aux achats et passe les marchés ou traités.
 

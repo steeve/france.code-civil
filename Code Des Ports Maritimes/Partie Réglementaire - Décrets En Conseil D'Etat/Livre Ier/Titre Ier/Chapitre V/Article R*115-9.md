@@ -1,22 +1,24 @@
 Article R*115-9
 ----
-Toute concession d'outillage public donne lieu à une convention avec cahier des
-charges passée entre le port autonome et le pétitionnaire.
+La concession ou l'affermage d'outillages donne lieu à une convention avec
+cahier des charges passée entre le port autonome et le pétitionnaire, après
+accord du conseil d'administration.
 
-Ces documents sont, après instruction effectuée dans les formes prévues aux
-articles R. 115-11 et R. 115-12, approuvés :
+Le cahier des charges est conforme à un cahier des charges type approuvé par
+décret en Conseil d'Etat pris sur la proposition conjointe des ministres chargés
+des ports maritimes, du budget et du domaine. Toutefois, le cahier des charges
+peut déroger au cahier des charges type, à la condition que ces dérogations
+aient été préalablement approuvées par le ministre chargé des ports maritimes et
+le ministre chargé du domaine ainsi que, le cas échéant, le ministre de qui
+relève la collectivité publique ou l'établissement public intéressé ; l'absence
+de réponse des ministres dans le délai de deux mois suivant la réception la plus
+tardive de la demande vaut approbation.
 
-a) par décret en Conseil d'Etat, revêtu du contreseing du ministre chargé des
-ports maritimes et, le cas échéant, du ministre de qui relève la collectivité ou
-l'établissement public intéressé, s'il y a lieu à déclaration d'utilité publique
-prononcée par décret en Conseil d'Etat ;
+La convention et le cahier des charges sont soumis à instruction effectuée dans
+les conditions prévues par l'article R. 115-4.
 
-b) par le ministre chargé des ports maritimes et le cas échéant par le ministre
-de qui relève la collectivité publique ou l'établissement public intéressé, dans
-les autres cas.
-
-Toutefois, si la déclaration d'utilité publique est prononcée par arrêté
-préfectoral, ou s'il n'y a pas lieu à déclaration d'utilité publique, si tous
-les organismes ou services consultés ont donné leur accord et si le cahier des
-charges ne comporte pas de dérogation au cahier des charges type, la convention
-n'est pas soumise à approbation.
+S'il y a lieu à déclaration d'utilité publique prononcée par décret en Conseil
+d'Etat, la convention est approuvée par décret en Conseil d'Etat, revêtu du
+contreseing du ministre chargé des ports maritimes et, le cas échéant, du
+ministre de qui relève la collectivité publique ou l'établissement public
+intéressé.

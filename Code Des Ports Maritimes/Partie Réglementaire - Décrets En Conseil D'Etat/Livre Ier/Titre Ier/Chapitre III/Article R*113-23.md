@@ -1,7 +1,10 @@
 Article R*113-23
 ----
-L'aliénation des immeubles dont le port autonome est propriétaire ne peut avoir
-lieu qu'avec l'accord du ministre chargé des ports maritimes et du ministre
-chargé du domaine lorsque leur valeur vénale excède le montant fixé au quatrième
-alinéa de l'article R. 129 du code du domaine de l'Etat. Quel qu'en soit le
-montant, le produit de leur vente est acquis pour la totalité au port autonome.
+Le port autonome peut céder à l'amiable les immeubles dont il est propriétaire.
+Le produit de leur vente lui est totalement acquis. Les opérations de vente font
+l'objet d'une publicité préalable. Il acquiert à l'amiable ou par voie
+d'expropriation les immeubles utiles à son développement, après consultation du
+directeur des services fiscaux dans les conditions fixées par le décret n°
+86-455 du 14 mars 1986 portant suppression des commissions des opérations
+immobilières et de l'architecture et fixant les modalités de consultation du
+service des domaines.

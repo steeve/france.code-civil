@@ -22,7 +22,18 @@ des ministres chargés des ports maritimes et de l'économie et des finances ;
 
 - l'approbation des prises, cessions ou extensions de participation financière ;
 
-- l'approbation des conditions des emprunts et des prêts.
+- l'approbation des conditions des emprunts et des prêts ;
+
+- l'approbation du dossier relatif à la modification des limites de
+circonscription prévue à l'article R. 111-5-1 ;
+
+- l'approbation des conventions ayant fait l'objet de la communication écrite
+mentionnée à l'article R. 112-10-1 ;
+
+- l'approbation des transactions prévue à l'article R. 113-8 ;
+
+- l'examen des conventions d'exploitation de terminal prévues à l'article R.
+115-7 ;
 
 2° Ne peut être déléguée qu'au comité de direction, la fixation des traitements
 des personnels dont les échelles ne sont pas fixées par les conventions

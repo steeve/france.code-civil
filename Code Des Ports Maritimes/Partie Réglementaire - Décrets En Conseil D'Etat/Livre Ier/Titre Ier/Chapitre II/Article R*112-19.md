@@ -6,12 +6,12 @@ services du port autonome à la date fixée pour la substitution du nouveau rég
 au régime précédemment en vigueur.
 
 En vue de cette intégration et dès intervention du décret portant création du
-port autonome, l'ingénieur en chef du service maritime consulte les chambres de
-commerce et d'industrie intéressées, concessionnaires d'outillage public, en vue
-d'établir la liste nominative, par fonction, du personnel visé ci-dessus. Cette
-liste est communiquée aux représentants des personnels intéressés qui doivent
-faire connaître leurs observations dans un délai de quinze jours. L'ingénieur en
-chef transmet la liste définitive, avec son rapport, dans le délai d'un mois au
+port autonome, le directeur du port consulte les chambres de commerce et
+d'industrie intéressées, concessionnaires d'outillage public, en vue d'établir
+la liste nominative, par fonction, du personnel visé ci-dessus. Cette liste est
+communiquée aux représentants des personnels intéressés qui doivent faire
+connaître leurs observations dans un délai de quinze jours. Le directeur du port
+transmet la liste définitive, avec son rapport, dans le délai d'un mois au
 ministre chargé des ports maritimes et au ministre chargé de l'industrie. En cas
 de contestation concernant l'intégration de certains membres du personnel des
 chambres de commerce et d'industrie, il est statué par décision conjointe des

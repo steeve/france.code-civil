@@ -1,8 +1,7 @@
 Article R*114-3
 ----
-Pour l'application de l'article R. 112-21, l'ingénieur général des ponts et
-chaussées remplissant les fonctions de commissaire du Gouvernement correspond
-directement pour les besoins du service avec le président du conseil
+Pour l'application de l'article R. 112-21, le commissaire du Gouvernement
+correspond directement pour les besoins du service avec le président du conseil
 d'administration et avec le directeur du port.
 
 Il vérifie sur place, au moins une fois par an, le fonctionnement de tous les

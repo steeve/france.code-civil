@@ -24,9 +24,9 @@ Le directeur assiste avec voix consultative aux réunions du comité de directio
 et aux séances du conseil d'administration.
 
 Les convocations aux séances sont adressées en temps utile au préfet de région,
-à l'ingénieur général des ponts et chaussées, commissaire du Gouvernement, et au
-contrôleur d'Etat ; elles sont accompagnées des ordres du jour et des mêmes
-documents que ceux qui sont transmis aux membres du conseil d'administration.
+au commissaire du Gouvernement, et au contrôleur d'Etat ; elles sont
+accompagnées des ordres du jour et des mêmes documents que ceux qui sont
+transmis aux membres du conseil d'administration.
 
 Le contrôleur d'Etat peut demander au président du conseil d'administration
 l'inscription à l'ordre du jour des questions sur lesquelles il estime

@@ -1,10 +1,9 @@
 Article R*113-15
 ----
-L'état prévisionnel est présenté par le directeur au conseil d'administration,
-qui l'arrête au plus tard le 1er octobre de l'année précédant celle pour
-laquelle il est établi. Il est soumis à l'approbation du ministre chargé des
-ports maritimes et du ministre de l'économie et des finances au plus tard le 1er
-novembre précédant l'ouverture de l'exercice.
+L'état prévisionnel des recettes et des dépenses est présenté par le directeur
+au conseil d'administration. Il est soumis à l'approbation du ministre chargé
+des ports maritimes et du ministre chargé du budget avant le 1er décembre de
+l'année précédant l'ouverture de l'exercice.
 
 Dans le cas prévu au deuxième alinéa, deuxième phrase, de l'article L. 113-2, la
 décision de créer d'office les ressources nécessaires pour couvrir la totalité
@@ -21,3 +20,7 @@ contrôleur d'Etat, les dépenses indispensables à la continuité de la gestion
 
 Les modifications à l'état prévisionnel reconnues nécessaires en cours
 d'exercice sont arrêtées et approuvées dans les mêmes formes que cet état.
+
+En cours d'exercice, un suivi de l'exécution de l'état prévisionnel, incluant
+une analyse par poste des écarts avec la prévision, est communiqué au moins deux
+fois par an au conseil d'administration.

@@ -6,8 +6,8 @@ de l'Etat, le conseil portuaire est composé comme suit :
 1° Un représentant du concessionnaire ou, le cas échéant, de chacun des
 concessionnaires d'outillage public du port ;
 
-2° Trois membres désignés respectivement en leur sein par l'assemblée
-délibérante de la région, du département et de la commune où sont implantées les
+2° Un membre désigné en son sein par chacune des assemblées délibérantes de la
+région, du ou des départements, de la ou des communes où sont implantées les
 principales installations portuaires ;
 
 3° Un représentant désigné au sein du comité syndical par le syndicat

@@ -8,12 +8,10 @@ la suivante :
 a) Métropole :
 
 Calais, Boulogne-sur-Mer, Dieppe, Caen-Ouistreham, Cherbourg, Saint-Malo, Brest,
-Le Fret, Roscanvel, Concarneau, Lorient, La Rochelle, à l'exception du port de
-plaisance des Minimes, Bayonne, Port-la-Nouvelle, Sète, Toulon, Nice, Ajaccio,
-Bastia.
+Le Fret, Roscanvel, Concarneau, Lorient, La Rochelle (La Pallice et Chef de
+Baie), Bayonne, Port-la-Nouvelle, Sète, Toulon, Nice, Ajaccio, Bastia.
 
-b) Départements d'outre-mer :
+b) Outre-mer :
 
 Fort-de-France (Martinique), Degrad-des-Cannes et Larivot (Guyane),
-Saint-Pierre-et-Miquelon (Saint-Pierre et Miquelon), Pointe-des-Galets
-(Réunion).
+Saint-Pierre-et-Miquelon (Saint-Pierre et Miquelon), Port-Réunion (Réunion).
