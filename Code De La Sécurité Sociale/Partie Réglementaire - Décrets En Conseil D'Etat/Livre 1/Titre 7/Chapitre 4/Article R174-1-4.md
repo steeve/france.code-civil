@@ -11,8 +11,8 @@ ministres chargés du budget, de la sécurité sociale, de la défense et de
 l'agriculture. Chacun de ces ministres est représenté par un commissaire du
 Gouvernement.
 
-La commission fixe à l'unanimité, avant le 1er juin de l'année suivant celle à
-laquelle elle se rapporte, la répartition des charges des dotations globales
+La commission fixe à l'unanimité, avant le 15 décembre de l'année suivant celle
+à laquelle elle se rapporte, la répartition des charges des dotations globales
 hospitalières entre les régimes d'assurance maladie et les risques au vu d'un
 état établi par la Caisse nationale de l'assurance maladie de travailleurs
 salariés sur la base des documents mentionnés à l'article R. 174-1-3.
