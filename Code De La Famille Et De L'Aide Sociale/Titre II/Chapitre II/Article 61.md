@@ -1,26 +1,48 @@
 Article 61
 ----
-La gestion des deniers pupillaires est confiée au trésorier-payeur général.
+Sont admis en qualité de pupille de l'Etat [*définition*] :
 
-Les sommes dues aux pupilles à titre de rémunération du travail se recouvrent
-sur des états adressés par le directeur départemental de la population et de
-l'aide sociale et rendus exécutoires par le préfet. Les oppositions, lorsque la
-matière est de la compétence des tribunaux ordinaires, sont jugées comme
-affaires sommaires. Les poursuites ont lieu comme en matière de contributions
-directes.
+1° Les enfants dont la filiation n'est pas établie ou est inconnue, qui ont été
+recueillis par le service de l'aide sociale à l'enfance depuis plus de trois
+mois [*durée*] ;
 
-Les règles prévues à l'alinéa précédent ne sont pas applicables aux autres
-créances des pupilles.
+2° Les enfants dont la filiation est établie et connue, qui ont expressément été
+remis au service de l'aide sociale à l'enfance en vue de leur admission comme
+pupilles de l'Etat par les personnes qui ont qualité pour consentir à leur
+adoption, depuis plus de trois mois [*durée*] ;
 
-Les fonds sont placés soit à la Caisse nationale d'épargne, soit aux caisses
-régionales de crédit agricole, soit aux caisses d'épargne ordinaires, soit en
-rentes sur l'Etat, sauf dérogations autorisées par le conseil de famille.
+3° Les enfants dont la filiation est établie et connue, qui ont expressément été
+remis au service de l'aide sociale à l'enfance depuis plus d'un an par leur père
+ou leur mère en vue de leur admission comme pupilles de l'Etat et dont l'autre
+parent n'a pas fait connaître au service, pendant ce délai, son intention d'en
+assumer la charge ; avant l'expiration de ce délai d'un an, le service s'emploie
+à connaître les intentions de l'autre parent ;
 
-Le tuteur peut autoriser, au profit du pupille, le retrait de tout ou partie des
-fonds appartenant à ce dernier.
+4° Les enfants orphelins de père et de mère pour lesquels la tutelle n'est pas
+organisée selon le chapitre II du titre X du livre 1er du code civil et qui ont
+été confiés au service de l'aide sociale à l'enfance depuis plus de trois mois ;
 
-Le conseil de famille, s'il le juge conforme à l'intérêt du pupille, peut
-surseoir partiellement au versement de l'avoir pupillaire jusqu'à ce que le
-pupille ait atteint vingt-cinq ans au maximum. Cette mesure peut être prise soit
-sur proposition du tuteur, soit sur demande du pupille. Dans ce dernier cas, un
-régime de primes d'épargne est institué en faveur des pupilles.
+5° Les enfants dont les parents ont été déclarés déchus de l'autorité parentale
+en vertu des articles 378 et 378-1 du code civil et qui ont été confiés au
+service de l'aide sociale à l'enfance en application de l'article 380 dudit code
+;
+
+6° Les enfants confiés au service de l'aide sociale à l'enfance en application
+de l'article 350 du code civil.
+
+L'admission en qualité de pupille de l'Etat peut faire l'objet d'un recours,
+formé dans le délai de trente jours suivant la date de l'arrêté du président du
+conseil général devant le tribunal de grande instance, par les parents, en
+l'absence d'une déclaration judiciaire d'abandon ou d'une déchéance d'autorité
+parentale, par les alliés de l'enfant ou toute personne justifiant d'un lien
+avec lui, notamment pour avoir assuré sa garde, de droit ou de fait, et qui
+demandent à en assumer la charge.
+
+S'il juge cette demande conforme à l'intérêt de l'enfant, le tribunal confie sa
+garde au demandeur, à charge pour ce dernier de requérir l'organisation de la
+tutelle, ou lui délègue les droits de l'autorité parentale et prononce
+l'annulation de l'arrêté d'admission.
+
+Dans le cas où il rejette le recours, le tribunal peut autoriser le demandeur,
+dans l'intérêt de l'enfant, à exercer un droit de visite dans les conditions
+qu'il détermine.

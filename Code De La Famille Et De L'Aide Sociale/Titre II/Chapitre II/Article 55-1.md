@@ -1,5 +1,6 @@
 Article 55-1
 ----
-La présentation secrète des enfants en vue de leur admission comme pupilles de
-l'Etat peut avoir lieu dans le bureau spécialisé, ouvert de jour et de nuit,
-sans autre témoin que la femme préposée aux admissions.
+Elle peut être accompagnée de la personne de son choix, représentant ou non une
+association , dans ses démarches auprès du service. Néanmoins, celui-ci a la
+possibilité de proposer également un entretien individuel dans l'intérêt du
+demandeur.
