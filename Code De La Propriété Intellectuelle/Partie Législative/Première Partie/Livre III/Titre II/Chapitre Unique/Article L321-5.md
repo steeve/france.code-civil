@@ -1,18 +1,7 @@
 Article L321-5
 ----
-Tout associé a droit, dans les conditions et délais déterminés par décret,
-d'obtenir communication :
-
-1° Des comptes annuels et de la liste des administrateurs ;
-
-2° Des rapports du conseil d'administration et des commissaires aux comptes qui
-seront soumis à l'assemblée ;
-
-3° Le cas échéant, du texte et de l'exposé des motifs des résolutions proposées,
-ainsi que des renseignements concernant les candidats au conseil
-d'administration ;
-
-4° Du montant global, certifié exact par les commissaires aux comptes, des
-rémunérations versées aux personnes les mieux rémunérées, le nombre de ces
-personnes étant de dix ou de cinq selon que l'effectif excède ou non deux cents
-salariés.
+Le droit à la communication prévu par l'article 1855 du code civil s'applique
+aux sociétés civiles de répartition des droits, sans pour autant qu'un associé
+puisse obtenir communication du montant des droits répartis individuellement à
+tout autre ayant droit que lui-même. Un décret en Conseil d'Etat détermine les
+modalités d'exercice de ce droit.

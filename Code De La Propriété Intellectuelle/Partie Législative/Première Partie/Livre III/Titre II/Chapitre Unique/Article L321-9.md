@@ -6,8 +6,10 @@ spectacle vivant et à des actions de formation des artistes :
 1° 25 % des sommes provenant de la rémunération pour copie privée ;
 
 2° La totalité des sommes perçues en application des articles L. 122-10, L.
-132-20-1, L. 214-1, L. 217-2 et L. 311-1 et qui n'ont pu être réparties à
-l'expiration du délai prévu au dernier alinéa de l'article L. 321-1.
+132-20-1, L. 214-1, L. 217-2 et L. 311-1 et qui n'ont pu être réparties soit en
+application des conventions internationales auxquelles la France est partie,
+soit parce que leurs destinataires n'ont pas pu être identifiés ou retrouvés
+avant l'expiration du délai prévu au dernier alinéa de l'article L. 321-1.
 
 Elles peuvent utiliser à ces actions tout ou partie des sommes visées au 2° à
 compter de la fin de la cinquième année suivant la date de leur mise en
