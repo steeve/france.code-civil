@@ -3,7 +3,10 @@ Article R434-30
 Pour le calcul des rentes, le salaire mentionné à l'article R. 436-1 s'entend de
 la rémunération effective totale reçue chez un ou plusieurs employeurs pendant
 les douze mois civils qui ont précédé l'arrêt de travail consécutif à
-l'accident, sous réserve des dispositions ci-après :
+l'accident. Ce salaire est revalorisé par application des coefficients
+mentionnés à l'article L. 434-17 si, entre la date de l'arrêt de travail et la
+date de consolidation, un ou plusieurs arrêtés de revalorisation sont
+intervenus. Il est déterminé compte tenu des dispositions ci-après :
 
 1°) si la victime appartenait depuis moins de douze mois à la catégorie
 professionnelle dans laquelle elle est classée au moment de l'arrêt de travail
