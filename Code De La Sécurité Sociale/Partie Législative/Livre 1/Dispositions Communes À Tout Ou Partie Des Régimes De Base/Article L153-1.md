@@ -5,12 +5,12 @@ chapitre s'appliquent au régime général, au régime de l'assurance maladie et
 maternité des travailleurs non salariés des professions non agricoles et aux
 régimes des organisations autonomes d'assurance vieillesse des professions
 industrielles, commerciales et artisanales. Elles ne sont pas applicables à
-l'Union des caisses nationales de sécurité sociale, aux caisses mutuelles
-d'assurance maladie et d'assurance vieillesse des cultes et à la Caisse des
-Français de l'étranger ; les budgets de ces derniers organismes ou régimes
-demeurent soumis à l'approbation du ministre chargé de la sécurité sociale et du
-ministre chargé du budget, qui exercent, dans ce cas, les attributions dévolues
-à l'organisme national par les articles L. 153-4 et L. 153-5.
+l'Union des caisses nationales de sécurité sociale, à la Caisse d'assurance
+vieillesse, invalidité et maladie des cultes et à la Caisse des Français de
+l'étranger ; les budgets de ces derniers organismes ou régimes demeurent soumis
+à l'approbation du ministre chargé de la sécurité sociale et du ministre chargé
+du budget, qui exercent, dans ce cas, les attributions dévolues à l'organisme
+national par les articles L. 153-4 et L. 153-5.
 
 Les dispositions du présent chapitre sont applicables au régime de la sécurité
 sociale dans les mines, ainsi que, sous réserve d'adaptations introduites par un

@@ -44,10 +44,7 @@ liquidées et approuvées ;
 10° Les dépenses résultant de l'application de l'article L. 521-1 du code de la
 mutualité ;
 
-11° La participation de la commune aux dépenses d'aide sociale conformément aux
-dispositions de l'article 93 de la loi n° 83-8 du 7 janvier 1983 relative à la
-répartition de compétences entre les communes, les départements, les régions et
-l'Etat ;
+11° Abrogé ;
 
 12° Les dépenses des services communaux de désinfection et des services
 communaux d'hygiène et de santé dans les conditions prévues par le titre Ier du
