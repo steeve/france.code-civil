@@ -3,8 +3,8 @@ Article L732-39
 Le service d'une pension de retraite, prenant effet postérieurement au 1er
 janvier 1986, liquidée par le régime d'assurance vieillesse des personnes non
 salariées des professions agricoles et dont l'entrée en jouissance intervient à
-compter du soixantième anniversaire de l'intéressé ou ultérieurement, est
-subordonné à la cessation définitive de l'activité non salariée agricole.
+compter d'un âge fixé par voie réglementaire, est subordonné à la cessation
+définitive de l'activité non salariée agricole.
 
 Le service d'une pension de retraite liquidée par le régime d'assurance
 vieillesse des personnes non salariées des professions agricoles est suspendu
