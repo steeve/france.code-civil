@@ -4,19 +4,20 @@ Les cotisations à la charge de l'employeur au titre des assurances sociales, de
 accidents du travail et des maladies professionnelles et des allocations
 familiales, qui sont assises sur des gains et rémunérations tels que définis à
 l'article L. 242-1, versés au cours d'un mois civil et inférieurs à un plafond
-fixé à 169 fois le salaire minimum de croissance majoré de 20 p. 100 puis de 33
-p. 100 à compter du 1er octobre 1996, font l'objet d'une réduction.
+fixé à 169 fois le salaire minimum de croissance majoré de 20 p. 100, font
+l'objet d'une réduction.
 
 Le montant de la réduction, qui ne peut excéder une limite fixée par décret, est
 égal à la différence entre le plafond défini ci-dessus et le montant des gains
 et rémunérations effectivement versés au salarié, multipliée par un coefficient
-fixé par décret, lorsque ce montant est égal ou supérieur à 169 fois le salaire
-minimum de croissance, et à ce montant multiplié par un autre coefficient fixé
-par décret lorsqu'il est inférieur à 169 fois le salaire minimum de croissance.
+fixé par décret.
 
-Les modalités d'application du plafond à certaines catégories de salariés et
-notamment aux salariés des hôtels-cafés-restaurants sont définies par décret en
-Conseil d'Etat.
+Lorsque le nombre d'heures rémunérées est inférieur à la durée légale ou
+conventionnelle du travail applicable sur un mois civil, le montant de la
+réduction est calculé au prorata du nombre d'heures de travail rémunérées au
+cours du mois considéré. Les modalités d'application du plafond à certaines
+catégories de salariés et notamment aux salariés des hôtels-cafés-restaurants
+sont définies par décret en Conseil d'Etat.
 
 Pour les professions dans lesquelles le salaire minimum de croissance est, en
 vertu de dispositions réglementaires, calculé sur une base différente de 169
@@ -51,8 +52,10 @@ livre VII du présent code et par les particuliers employeurs.
 Le bénéfice des dispositions du présent article ne peut être cumulé avec celui
 d'une autre exonération totale ou partielle de cotisations patronales ou
 l'application de taux spécifiques, d'assiettes ou montants forfaitaires de
-cotisations, à l'exception des exonérations prévues par les deux premiers
-alinéas de l'article L. 322-12 du code du travail.
+cotisations, à l'exception des exonérations prévues par les articles 39 et 39-1
+de la loi n° 93-1313 du 20 décembre 1993 quinquennale relative au travail, à
+l'emploi et à la formation professionnelle et par les deux premiers alinéas de
+l'article L. 322-12 du code du travail.
 
 Un décret fixe les modalités d'application du présent article et, notamment,
 précise l'ordre dans lequel s'applique le cumul mentionné à l'alinéa précédent
