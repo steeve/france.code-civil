@@ -13,5 +13,12 @@ profession et la région ;
 
 3° De répondre aux convocations de l'agence nationale pour l'emploi.
 
+En outre, l'absence ou l'insuffisance notoire d'actes positifs de recherche
+d'emploi, au sens du premier alinéa de l'article R. 311-3-2, peut donner lieu à
+la radiation de la liste des demandeurs d'emploi.
+
+La réalité de ces actes est appréciée compte tenu de la situation du demandeur
+et de la situation locale de l'emploi.
+
 Les décisions de radiation du délégué départemental sont immédiatement
 transmises au directeur départemental du travail et de l'emploi.
