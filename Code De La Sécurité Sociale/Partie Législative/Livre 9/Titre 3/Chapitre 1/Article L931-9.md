@@ -1,15 +1,13 @@
 Article L931-9
 ----
-Nul ne peut administrer ou diriger une institution de prévoyance [*interdiction
-d'exercice, incapacité*] :
+Nul ne peut administrer ou diriger une institution de prévoyance :
 
 1° S'il a fait l'objet d'une condamnation définitive :
 
 a) Pour crime,
 
 b) Pour délits prévus aux articles 432-11, 433-1, 433-2, 433-3, 441-1, 441-8 du
-code pénal, L. 152-6 du code du travail et 52-1 de l'ordonnance n° 86-1243 du
-1er décembre 1986 relative à la liberté des prix et de la concurrence,
+code pénal, L. 152-6 du code du travail et L. 443-2 du code de commerce,
 
 c) Pour vol, escroquerie, abus de confiance,
 
@@ -50,8 +48,7 @@ statue en chambre du conseil, l'intéressé dûment appelé, sur l'application e
 France de l'interdiction ;
 
 4° Si une mesure de faillite personnelle ou une autre mesure d'interdiction
-prévue aux articles 185 à 195 de la loi n° 85-98 du 25 janvier 1985 relative au
-redressement et à la liquidation judiciaires des entreprises ou, dans le régime
+prévue aux articles L. 625-1 à L. 625-10 du code de commerce ou, dans le régime
 antérieur, à l'article 108 de la loi n° 67-563 du 13 juillet 1967 sur le
 règlement judiciaire, la liquidation des biens, la faillite personnelle et les
 banqueroutes a été prononcée à son égard ou s'il a été déclaré en état de
@@ -68,4 +65,13 @@ régies par le code des assurances et aux mutuelles régies par le code de la
 mutualité.
 
 Les personnes appelées à fonder, diriger ou administrer une institution de
-prévoyance doivent posséder la qualification nécessaire à leur fonction.
+prévoyance ou un groupement paritaire de prévoyance doivent posséder la
+qualification et l'honorabilité nécessaires à leur fonction.
+
+Lorsque l'autorité administrative compétente en matière d'agrément est amenée à
+se prononcer sur l'honorabilité, la compétence et l'expérience de dirigeants et
+d'administrateurs qui exercent également ces mêmes fonctions au sein d'entités
+autres que celles mentionnées au premier alinéa et appartenant au même groupe au
+sens de l'article L. 933-2, elle consulte les autorités compétentes au titre de
+ces autres entités. Elle communique à ces autorités les informations utiles à
+l'exercice de leurs missions.

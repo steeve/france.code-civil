@@ -1,8 +1,7 @@
 Article L931-4
 ----
 Les institutions de prévoyance ne peuvent commencer leurs opérations qu'après
-avoir obtenu un agrément [*administratif*] délivré par le ministre chargé de la
-sécurité sociale.
+avoir obtenu un agrément délivré par le ministre chargé de la sécurité sociale.
 
 L'agrément est accordé, sur demande de l'institution, pour les opérations d'une
 ou de plusieurs branches d'activité. L'institution ne peut pratiquer que les
@@ -23,3 +22,21 @@ dispositions du présent chapitre sont applicables aux institutions pratiquant �
 la fois les opérations mentionnées au a et au b de l'article L. 931-1 en vue,
 notamment, d'assurer une gestion distincte, pour la protection des intérêts des
 participants et bénéficiaires, de chacune de ces deux catégories d'opérations.
+
+Avant l'octroi d'un agrément à une institution de prévoyance ou union régie par
+le titre III du livre IX du présent code qui est :
+
+a) Soit un organisme subordonné à un organisme assureur agréé dans un autre Etat
+membre ou dans un autre Etat partie à l'accord sur l'Espace économique européen
+;
+
+b) Soit un organisme subordonné à l'organisme de référence d'un organisme
+assureur agréé dans un autre Etat membre ou dans un autre Etat partie à l'accord
+sur l'Espace économique européen ;
+
+c) Soit un organisme contrôlé par une personne, physique ou morale, qui contrôle
+également un organisme assureur agréé dans un autre Etat membre ou dans un autre
+Etat partie à l'accord sur l'Espace économique européen.
+
+Les autorités compétentes de l'autre Etat membre ou partie à l'accord sur
+l'Espace économique européen concerné sont consultées.

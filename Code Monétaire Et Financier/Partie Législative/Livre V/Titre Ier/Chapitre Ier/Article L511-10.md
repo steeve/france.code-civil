@@ -29,8 +29,10 @@ opérations définies par l'objet social du demandeur.
 
 Enfin, le comité peut assortir l'agrément délivré de conditions particulières
 visant à préserver l'équilibre de la structure financière de l'établissement et
-le bon fonctionnement du système bancaire. Il peut aussi subordonner l'octroi de
-l'agrément au respect d'engagements souscrits par l'établissement requérant.
+le bon fonctionnement du système bancaire en tenant compte, le cas échéant, des
+objectifs de la surveillance complémentaire prévue par le chapitre VII du titre
+Ier du livre V du présent code. Il peut aussi subordonner l'octroi de l'agrément
+au respect d'engagements souscrits par l'établissement requérant.
 
 Le comité peut refuser l'agrément lorsque l'exercice de la mission de
 surveillance de l'entreprise requérante est susceptible d'être entravé soit par
@@ -45,7 +47,7 @@ l'article L. 511-13 ne possèdent pas l'honorabilité et la compétence nécessa
 ainsi que l'expérience adéquate à leur fonction.
 
 Toute personne physique ou morale envisageant de déposer un projet d'offre
-publique au Conseil des marchés financiers en application du chapitre III du
+publique à l'Autorité des marchés financiers en application du chapitre III du
 titre III du livre IV du présent code, en vue d'acquérir une quantité déterminée
 de titres d'un établissement de crédit agréé en France, est tenue d'en informer
 le gouverneur de la Banque de France, président du Comité des établissements de

@@ -48,13 +48,16 @@ d'autre part.
 
 La commission veille également au respect, par les entreprises soumises au
 contrôle de l'Etat en application de l'article L. 310-1-1, les sociétés de
-groupe d'assurance et les sociétés de groupe mixtes d'assurance définies à
-l'article L. 322-1-2, des dispositions législatives et réglementaires qui leur
-sont applicables en vertu du présent livre. Un arrêté du ministre chargé de
-l'économie détermine la nature, la périodicité et le contenu des informations et
-des documents que les entreprises mentionnées au présent alinéa sont tenues de
-communiquer périodiquement à la commission de contrôle des assurances pour lui
-permettre d'exercer sa mission.
+groupe d'assurance, les sociétés de groupe mixte d'assurance définies à
+l'article L. 322-1-2 ainsi que par toute entité appartenant à un conglomérat
+financier défini à l'article L. 334-5 dont la surveillance est coordonnée par la
+commission de contrôle dans les conditions prévues à l'article L. 334-9, des
+dispositions législatives et réglementaires qui leur sont applicables en vertu
+du présent livre. Un arrêté du ministre chargé de l'économie détermine la
+nature, la périodicité et le contenu des informations et des documents que les
+entreprises mentionnées au présent alinéa sont tenues de communiquer
+périodiquement à la commission de contrôle des assurances pour lui permettre
+d'exercer sa mission.
 
 La commission s'assure également que les dispositions du titre VI du livre V du
 code monétaire et financier sont appliquées par les entreprises mentionnées à

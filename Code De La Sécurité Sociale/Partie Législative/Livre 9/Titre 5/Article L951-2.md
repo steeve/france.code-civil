@@ -1,7 +1,11 @@
 Article L951-2
 ----
 La commission veille au respect par les institutions mentionnées à l'article L.
-951-1 des dispositions législatives et réglementaires qui leur sont applicables.
+951-1 ainsi que par toute entité appartenant à un conglomérat financier défini à
+l'article L. 933-4-2 dont la surveillance est coordonnée par la commission de
+contrôle mentionnée à l'article L. 951-1 dans les conditions prévues à l'article
+L. 933-4-6 des dispositions législatives et réglementaires qui leur sont
+applicables.
 
 Elle s'assure que ces institutions sont toujours en mesure de remplir les
 engagements qu'elles ont contractés à l'égard des participants ou bénéficiaires

@@ -75,3 +75,11 @@ bulletin n° 2 du casier judiciaire ou d'une réhabilitation.
 III. - Les personnes exerçant l'une des activités mentionnées au I du présent
 article doivent cesser leur activité dans un délai de trois mois à compter de la
 date à laquelle la décision de justice est devenue définitive.
+
+Lorsque l'autorité administrative compétente en matière d'agrément est amenée à
+se prononcer sur l'honorabilité, la compétence et l'expérience de dirigeants et
+d'administrateurs qui exercent également ces mêmes fonctions au sein d'entités
+autres que celles mentionnées au premier alinéa et appartenant au même groupe au
+sens de l'article L. 212-7-1, elle consulte les autorités compétentes au titre
+de ces autres entités. Elle communique à ces autorités les informations utiles à
+l'exercice de leurs missions.
