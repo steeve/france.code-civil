@@ -9,7 +9,7 @@ a) Collège des infirmiers surveillants-chef et surveillants des services
 médicaux ;
 
 b) Collège des infirmiers, infirmiers de bloc opératoire, infirmiers
-spécialistes en anesthésie réanimation, puéricultrice ;
+spécialistes en anesthésie réanimation, puéricultrices ;
 
 c) Collège des aides-soignants.
 

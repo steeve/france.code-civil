@@ -8,7 +8,7 @@ R. 714-26-3 et R. 714-26-4, au remplacement des membres qui cessent leurs
 fonctions avant l'expiration de celles-ci en raison de leur démission, de leur
 départ de l'établissement ou du fait qu'ils quittent la position d'activité.
 
-Ils en va de même lorsqu'un membre cesse d'appartenir à la catégorie qu'il
+Il en va de même lorsqu'un membre cesse d'appartenir à la catégorie qu'il
 représente.
 
 Dans tous les cas, les fonctions du nouveau membre prennent fin au jour où
