@@ -9,11 +9,15 @@ La liste doit comprendre au moins :
 
 a) Un maire des départements d'outre-mer ;
 
-b) Un maire des territoires d'outre-mer ;
+b) Un maire de la Nouvelle-Calédonie ou de la Polynésie française ;.
 
 c) Un maire de commune touristique ou thermale inscrite sur la liste prévue à
 l'article L. 234-13 dans sa rédaction antérieure à la loi n° 93-1436 du 31
 décembre 1993 portant réforme de la dotation globale de fonctionnement et
 modifiant le code des communes et le code général des impôts ;
 
-" d) Trois maires de communes de moins de 2 000 habitants.
+d) Trois maires de communes de moins de 2 000 habitants.
+
+e) Un maire de commune située en zone de montagne ;
+
+f) Un maire de commune située en zone littorale ;.

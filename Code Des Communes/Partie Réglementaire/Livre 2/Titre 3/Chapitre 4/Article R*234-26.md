@@ -1,8 +1,8 @@
 Article R*234-26
 ----
-L'élection des représentants des groupements de communes et des maires a lieu
-par bulletins de vote adressés par lettre recommandée ou déposés contre
-récépissés à la préfecture.
+L'élection des représentants des établissements publics de coopération
+intercommunale et des maires a lieu par bulletins de vote adressés par lettre
+recommandée ou déposés contre récépissés à la préfecture.
 
 Les bulletins de vote sont recensés par une commission comprenant :
 

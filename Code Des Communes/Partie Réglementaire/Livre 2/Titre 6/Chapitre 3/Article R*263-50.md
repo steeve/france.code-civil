@@ -1,12 +1,16 @@
 Article R*263-50
 ----
-Pour le calcul du prélèvement sur les ressources fiscales des communes de la
-région d'Ile-de-France, le potentiel fiscal par habitant de chaque commune est
-déterminé dans les conditions prévues aux articles L. 234-2 et L. 234-4.
+Pour le calcul du premier prélèvement prévu au I de l'article L. 2531-13 du code
+général des collectivités territoriales, le potentiel fiscal par habitant de
+chaque commune est déterminé dans les conditions prévues aux articles L. 2334-2
+et L. 2334-4 du même code.
 
-Sous réserve de l'application des dispositions du quatrième alinéa de l'article
-L. 263-14 du code des communes, le prélèvement est opéré mensuellement sur la
-base des données applicables au 1er janvier de l'année en cours. Toutefois,
-jusqu'à ce que ces données soient disponibles, il est effectué sur la base des
-données de l'année précédente, la régularisation devant intervenir avant le 30
-juin de l'année en cours.
+Pour le calcul des prélèvements prévus aux 1° et 2° du II de l'article L.
+2531-13 du code général des collectivités territoriales, les bases totales
+d'imposition à la taxe professionnelle retenues sont les bases de la dernière
+année dont les résultats sont connus.
+
+Les prélèvements sont opérés mensuellement sur la base des données applicables
+au 1er janvier de l'année en cours. Toutefois, jusqu'à ce que ces données soient
+disponibles, ils sont effectués sur la base des données de l'année précédente,
+leur régulation devant intervenir avant le 30 juin de l'année en cours.
