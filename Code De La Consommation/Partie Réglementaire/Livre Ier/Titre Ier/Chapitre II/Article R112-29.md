@@ -1,7 +1,6 @@
 Article R112-29
 ----
-Sont dispensées de l'indication du lot de fabrication les denrées alimentaires
-suivantes :
+Sont dispensées de l'indication du lot les denrées alimentaires suivantes :
 
 1° Les produits agricoles qui, au départ de l'exploitation, sont :
 
