@@ -1,7 +1,7 @@
 Article L122-8
 ----
-Le ministre compétent peut mettre fin au volontariat civil en cours
-d'accomplissement :
+L'autorité administrative compétente peut mettre fin au volontariat civil en
+cours d'accomplissement :
 
 - en cas de force majeure ;
 
@@ -14,9 +14,9 @@ d'accomplissement :
 
 - à la demande conjointe du volontaire civil et de la personne morale.
 
-Enfin, sur demande du volontaire et avec un préavis d'au moins un mois, le
-ministre compétent peut mettre fin au volontariat pour permettre au demandeur
-d'occuper une activité professionnelle.
+Enfin, sur demande du volontaire et avec un préavis d'au moins un mois,
+l'autorité administrative compétente peut mettre fin au volontariat pour
+permettre au demandeur d'occuper une activité professionnelle.
 
 Par dérogation aux dispositions de l'article L. 122-3, lorsqu'il a été mis fin
 au volontariat civil en cas de force majeure ou en cas de violation par la

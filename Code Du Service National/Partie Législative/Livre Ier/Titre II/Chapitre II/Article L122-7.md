@@ -1,12 +1,12 @@
 Article L122-7
 ----
 Lorsque le volontariat civil est accompli auprès d'une personne morale autre que
-l'Etat, le ministre compétent ou un organisme gestionnaire qu'il désigne conclut
-une convention avec la personne morale concernée. Lorsque le volontariat civil
-est accompli en partenariat avec le service volontaire européen pour les jeunes
-mis en place par la Commission européenne, la convention est en outre signée par
-cette dernière. Cette convention détermine les conditions d'accomplissement du
-volontariat. Elle prévoit notamment :
+l'Etat, l'autorité administrative compétente ou un organisme gestionnaire
+qu'elle désigne conclut une convention avec la personne morale concernée.
+Lorsque le volontariat civil est accompli en partenariat avec le service
+volontaire européen pour les jeunes mis en place par la Commission européenne,
+la convention est en outre signée par cette dernière. Cette convention détermine
+les conditions d'accomplissement du volontariat. Elle prévoit notamment :
 
 - la nature des activités confiées au volontaire civil ;
 
