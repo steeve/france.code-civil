@@ -1,9 +1,8 @@
 Article R411-49
 ----
 La médaille d'honneur régionale, départementale et communale peut être décernée
-aux personnes qui ont été admises à la retraite, ou qui ont cessé leur activité
-ou dont le mandat électif a pris fin, dans un délai de cinq ans à compter de la
-date de cessation de leurs fonctions.
+aux personnes qui ont été admises à la retraite ou qui ont cessé leur activité
+ou dont le mandat électif a pris fin.
 
 La médaille d'honneur régionale, départementale et communale peut être décernée
 à titre posthume, dans les cinq ans suivant la date du décès, aux personnes qui
