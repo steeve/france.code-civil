@@ -9,13 +9,14 @@ sur la même rive ou sur deux rives opposées, même par des pêcheurs différen
 que s'ils sont séparés par une distance égale à trois fois au moins la longueur
 du plus long de ces filets ou engins.
 
-La longueur des filets mobiles, et notamment des araignées, mesurés à terre et
-développés en ligne droite, ne peut dépasser les deux tiers de la largeur
-mouillée du cours d'eau.
+La longueur des filets mobiles et notamment des araignées mesurés à terre et
+développés en ligne droite ne peut dépasser les deux tiers de la largeur
+mouillée du cours d'eau ; toutefois, le préfet peut porter cette longueur aux
+quatre cinquièmes de la largeur mouillée du cours d'eau lorsque l'irrégularité
+des courants est de nature à entraver notablement l'exercice normal de la pêche.
 
-Lorsqu'il existe un chenal naturel ou balisé, la largeur de celui-ci est
-substituée à la largeur mouillée du cours d'eau pour l'application des
-dispositions précédentes.
+Lorsqu'il existe un chenal naturel, la largeur de celui-ci est substituée à la
+largeur mouillée du cours d'eau pour l'application des dispositions précédentes.
 
 Le jalonnement des filets, dans les eaux mentionnées au 1° de l'article L.
 235-1, est réglementé par le cahier des charges pour l'exploitation de la pêche

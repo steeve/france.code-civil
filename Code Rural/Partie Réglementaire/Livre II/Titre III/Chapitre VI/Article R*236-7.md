@@ -25,9 +25,11 @@ au 31 décembre ;
 
 4° Pour l'esturgeon, du 1er janvier au 31 mai ;
 
-5° Pour les truites autres que la truite de mer, l'omble ou saumon de fontaine,
-l'omble chevalier, le cristivomer, durant le temps d'ouverture de la pêche dans
-les eaux de la 1re catégorie du département concerné ;
+5° Pour la truite fario, l'omble ou saumon de fontaine, l'omble chevalier et le
+cristivomer, ainsi que pour la truite arc-en-ciel dans les cours d'eau ou
+parties de cours d'eau classés comme cours d'eau à saumon ou comme cours d'eau à
+truite de mer en application de l'article R. 236-27, durant le temps d'ouverture
+de la pêche dans les eaux de la 1re catégorie du département concerné ;
 
 6° Pour le saumon, la truite de mer, l'ombre commun, les écrevisses autres que
 l'écrevisse américaine, les grenouilles verte et rousse, durant les temps

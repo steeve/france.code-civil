@@ -3,9 +3,9 @@ Article R*236-31
 Dans les eaux de la 2e catégorie, les membres des associations agréées de pêche
 et de pisciculture peuvent pêcher au moyen :
 
-1° De lignes montées sur canne et munies de deux hameçons au plus, avec un
-maximum de quatre lignes par pêcheur. Les lignes doivent être disposées à
-proximité du pêcheur ;
+1° De lignes montées sur canne et munies chacune de deux hameçons au plus ou de
+trois mouches artificielles au plus, avec un maximum de quatre lignes par
+pêcheur. Les lignes doivent être disposées à proximité du pêcheur ;
 
 2° De la vermée et de la balance à écrevisses ou à crevettes avec un maximum de
 six balances par pêcheur ;
