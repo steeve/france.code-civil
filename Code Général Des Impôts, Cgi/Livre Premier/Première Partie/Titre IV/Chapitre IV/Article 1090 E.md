@@ -1,7 +1,7 @@
 Article 1090 E
 ----
 Les dépositaires publics délivrent gratuitement au bénéficiaire de l'aide
-judiciaire les actes et expéditions nécessaires à la procédure ou à la mesure
-d'exécution (1).
+juridictionnelle les actes et expéditions nécessaires à la procédure ou à la
+mesure d'exécution (1).
 
-(1) Décret n° 72-809 du 1er septembre 1972, art. 56.
+(1) Décret n° 91-1266 du 19 décembre 1991 (JO du 20), art. 68.
