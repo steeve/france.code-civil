@@ -1,12 +1,16 @@
 Article R*821-4
 ----
-Les actions de développement et de recherche appliquée sont regroupées en
-programmes annuels et pluriannuels. Ceux-ci sont établis au niveau
-départemental, régional et national.
+Le président de l'association est élu par l'assemblée générale, en son sein. Il
+représente l'association en justice et dans tous les actes de la vie civile.
 
-Le Fonds national de développement agricole mentionné aux articles R. 823-1 et
-suivants concourt au financement de ces programmes. La gestion de ce fonds est
-confiée à un organisme où sont paritairement représentés l'Etat et les
-organisations professionnelles concernées. L'Etat, les établissements publics et
-tous organismes intéressés peuvent également contribuer au financement des
-programmes mentionnés au premier alinéa.
+Il signe les conventions passées pour l'exécution du programme pluriannuel de
+développement agricole.
+
+Il informe l'assemblée générale des recettes des taxes parafiscales. Il ordonne
+et exécute les dépenses et recettes de l'association.
+
+Pour l'exécution de ces missions, il peut donner délégation au directeur de
+l'association.
+
+Le président est assisté, pour les questions financières, d'un trésorier élu par
+l'assemblée générale.

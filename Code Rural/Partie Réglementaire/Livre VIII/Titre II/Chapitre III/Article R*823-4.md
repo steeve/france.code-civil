@@ -1,26 +1,25 @@
 Article R*823-4
 ----
-Les opérations de fonctionnement du fonds national de développement agricole
-comprennent notamment :
+La participation du Fonds national de développement agricole à une action de
+développement agricole mise en oeuvre par un organisme national ou par une
+chambre d'agriculture fait l'objet d'une convention passée entre le gestionnaire
+du fonds et le maître d'oeuvre.
 
-1° En recettes :
+L'organisme doit notamment s'engager à :
 
-a) Le produit des cotisations professionnelles et des taxes parafiscales versées
-au fonds ;
+1° Présenter annuellement ainsi qu'à l'issue de chaque programmation
+pluriannuelle un compte rendu d'exécution des actions du programme et un état
+financier accompagnés des indicateurs d'évaluation correspondants ; ce compte
+rendu est transmis pour information au préfet de région pour ce qui concerne les
+programmes régionaux ;
 
-b) Les ressources d'origine communautaire ou privée relatives aux actions de
-développement agricole ;
+2° Respecter les règles de qualification des personnels affectés aux actions de
+développement agricole telles qu'elles sont prévues à l'article R. 823-3 ;
 
-c) Les subventions de l'Etat ;
+3° Ouvrir un compte spécial dont les opérations seront soumises aux contrôles
+mentionnés à l'article R. 823-7 ;
 
-d) Les recettes accidentelles ou exceptionnelles.
+4° Soumettre les actions de développement aux contrôles mentionnés au 3° ;
 
-2° En dépenses :
-
-a) Les financements affectés aux conventions mentionnées par les articles R.
-825-2, R. 825-3 et R. 825-4 ;
-
-b) Les frais d'administration de l'association nationale pour le développement
-agricole ;
-
-c) Les dépenses accidentelles ou exceptionnelles.
+5° Se conformer à toutes procédures de suivi ou d'évaluation décidées par le
+gestionnaire du fonds.

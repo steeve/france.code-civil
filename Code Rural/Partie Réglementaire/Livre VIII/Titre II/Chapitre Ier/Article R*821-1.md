@@ -1,24 +1,12 @@
 Article R*821-1
 ----
-Par la formation, l'information ou le conseil des personnes intéressées,
-individuellement ou au sein de leurs groupements, le développement agricole a
-pour objet de contribuer à l'expansion de l'agriculture et de la sylviculture, à
-l'accroissement de leur compétitivité, à la valorisation de leurs potentiels
-locaux, à l'adaptation des exploitations aux évolutions technologiques,
-économiques et structurelles et à l'amélioration des conditions de vie et de
-travail.
+L'élaboration, le suivi et l'évaluation du programme national pluriannuel de
+développement agricole ainsi que la gestion du Fonds national de développement
+agricole peuvent être confiés par convention à une association constituée dans
+les conditions prévues à l'article L. 820-4 et dont les statuts sont conformes
+aux dispositions des articles R. 821-2 à R. 821-7.
 
-A cet effet, relèvent du développement agricole :
-
-1° L'exploitation des résultats de la recherche agronomique et l'élaboration des
-références technico-économiques ;
-
-2° La mise en oeuvre des actions de recherche appliquée, d'expérimentation et de
-démonstration ;
-
-3° La diffusion de toutes les connaissances utiles à l'accomplissement de ces
-missions ;
-
-4° L'appui aux initiatives locales entrant dans le cadre de ces missions ;
-
-5° La mise en place et l'extension des services de remplacement.
+La convention est conclue pour une durée maximale de cinq ans entre l'Etat,
+représenté par les ministres chargés de l'agriculture et du budget et
+l'association. Elle fixe, pour cette période, les objectifs prioritaires de la
+politique du développement agricole et les modalités de son évaluation.

@@ -1,11 +1,9 @@
 Article R*823-2
 ----
-Les opérations annuelles de recettes et de dépenses du fonds national de
-développement agricole sont prévues et décrites par le budget de l'association
-nationale pour le développement agricole qui est soumis à l'agrément préalable
-du commissaire du Gouvernement et du contrôleur d'Etat chargés du contrôle
-administratif et financier de ladite association. Il en est de même pour les
-modifications du budget reconnues nécessaires en cours d'année.
+Les fonds libres du Fonds national de développement agricole sont déposés en
+compte au Trésor sauf dérogation accordée par les ministres chargés de
+l'économie et du budget.
 
-Le ministre de l'agriculture et le ministre chargé du budget approuvent le
-budget et ses modifications.
+Toutefois, le placement des fonds disponibles en bons à court terme émis par le
+Trésor ou avec la garantie de l'Etat peut être autorisé par le contrôleur
+d'Etat.
