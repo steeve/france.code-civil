@@ -1,9 +1,11 @@
 Article R712-2-3
 ----
-La capacité des structures de soins alternatives à l'hospitalisation mentionnées
-à l'article L. 712-2 est exprimée en places. Le nombre de places est obtenu en
-divisant par 365 le nombre maximum annuel de patients pouvant être accueillis
-pour une durée inférieure à un jour, dans le cas des structures
-d'hospitalisation à temps partiel ou de celles pratiquant l'anesthésie ou la
-chirurgie ambulatoires, et en divisant par 365 le nombre maximum annuel de
-journées de soins dans le cas de l'hospitalisation à domicile.
+La capacité des structures de soins alternatives à l'hospitalisation est
+exprimée en places. La place est l'unité de capacité qui permet une activité
+annuelle maximale correspondant à :
+
+365 séances pour l'hospitalisation à temps partiel, de jour ou de nuit ;
+
+365 patients pour l'anesthésie ou la chirurgie ambulatoires ;
+
+365 journées pour l'hospitalisation à domicile.

@@ -21,7 +21,8 @@ installations et structures de psychiatrie ;
 a) Pour les soins de suite et de réadaptation ;
 
 b) Pour les équipements matériels lourds à l'exception des appareils de
-circulation sanguine extracorporelle et des cyclotrons à usage médical ;
+circulation sanguine extracorporelle, des cyclotrons à utilisation médicale et
+des appareils de destruction transpariétale des calculs ;
 
 c) Pour les activités de soins énumérées aux 7° à 12° du III de l'article R.
 712-2.

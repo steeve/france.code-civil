@@ -8,8 +8,8 @@ sécurité sociale, dans les conditions fixées au premier alinéa de l'article 
 1. Les activités de soins mentionnées aux 1°, 2°, 3° et 4° du III de l'article
 R. 712-2 ;
 
-2. Les appareils de circulation sanguine extracorporelle et les cyclotrons à
-utilisation médicale.
+2. Les appareils de circulation sanguine extracorporelle, les cyclotrons à
+utilisation médicale et les appareils de destruction transpariétale des calculs.
 
 Les indices de besoins afférents aux activités de soins et équipements
 mentionnés par le présent article sont fixés par arrêté des ministres chargés de
