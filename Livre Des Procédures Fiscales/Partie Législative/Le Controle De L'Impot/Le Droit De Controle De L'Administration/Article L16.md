@@ -21,8 +21,8 @@ communiqué son identité et son domicile fiscal à l'établissement payeur dans
 conditions prévues au 4° et 6° du III bis du même article. Il en va de même pour
 les ventes d'or monnayé ou d'or en barres ou en lingots de poids et de titres
 admis par la Banque de France, lorsque l'identité et le domicile du vendeur
-n'avaient pas été enregistrés par l'intermédiaire dans les conditions prévues
-par l'article 211 A de l'annexe III au code général des impôts.
+n'avaient pas été enregistrés par l'intermédiaire ou lorsqu'elles ne sont pas
+attestées par la comptabilité de l'intermédiaire.
 
 Les demandes visées aux alinéas précédents doivent indiquer explicitement les
 points sur lesquels elles portent et fixer à l'intéressé, pour fournir sa

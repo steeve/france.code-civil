@@ -1,7 +1,7 @@
 Article L244-3
 ----
 L'avertissement ou la mise en demeure ne peuvent concerner que les cotisations
-exigibles dans les cinq années qui précèdent leur envoi [*délai de
+exigibles dans les trois années qui précèdent leur envoi [*délai de
 prescription*].
 
 L'avertissement ou la mise ne demeure qui concerne le recouvrement des

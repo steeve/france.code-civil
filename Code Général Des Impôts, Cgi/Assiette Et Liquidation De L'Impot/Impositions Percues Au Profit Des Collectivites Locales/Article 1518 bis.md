@@ -26,4 +26,7 @@ industriels susvisés ainsi que pour les propriétés non bâties.
 
 f. Au titre de 1986, à 1,06 pour les immeubles industriels autres que ceux visés
 à l'article 1500 et à 1,08 pour les propriétés bâties autres que les immeubles
-industriels susvisés ainsi que pour les propriétés non bâties.
+industriels susvisés ainsi que pour les propriétés non bâties, et au titre de
+1987, multipliées par un coefficient égal à 0,959 g. Au titre de 1987, à 1,01
+pour les propriétés non bâties, à 1,03 pour les immeubles industriels ne
+relevant pas de l'article 1500 et à 1,05 pour les autres propriétés bâties.

@@ -62,7 +62,12 @@ taxe.
 Pour les groupements agricoles d'exploitation en commun [*GAEC*] dont tous les
 associés participent effectivement et régulièrement à l'activité du groupement
 par leur travail personnel, la moyenne des recettes mentionnée aux premier et
-deuxième alinéa est fixée à 360.000 F (3).
+deuxième alinéa est fixée à 60 % de la limite prévue pour les exploitants
+individuels multipliée par le nombre d'associés.
+
+Toutefois, elle est égale à la limite prévue pour les exploitants individuels
+multipliée par le nombre d'associés lorsque la moyenne des recettes du
+groupement est inférieure ou égale à 900.000 F (3).
 
 III. L'option peut être exercée distinctement pour les ventes d'animaux vivants
 de boucherie et de charcuterie et pour les autres activités agricoles.
@@ -86,6 +91,6 @@ agricoles sont tenus de souscrire dans les trente jours la déclaration prévue 
 
 (2) Annexe II, art. 260 C.
 
-(3) Limite applicable à compter du 1er janvier 1984.
+(3) Disposition applicable à compter du 1er janvier 1987.
 
 (4) Annexe II, art. 260 D à 260 I et 267 quater.

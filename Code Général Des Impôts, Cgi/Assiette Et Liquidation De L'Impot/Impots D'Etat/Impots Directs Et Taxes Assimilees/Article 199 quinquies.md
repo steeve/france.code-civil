@@ -8,9 +8,9 @@ mentionnées à l'article 163 octies effectués, entre le 1er janvier 1983 et le
 décembre 1987, dans le cadre d'un compte d'épargne en actions ouvert chez un
 intermédiaire agréé.
 
-Les souscriptions de droits sociaux effectuées avec le bénéfice des déductions
-prévues à l'article 238 bis HB ne peuvent donner lieu à la réduction visée au
-premier alinéa.
+Les souscriptions de droits sociaux effectuées avec le bénéfice de la déductions
+prévue à l'article 163 septdecies ou de la réduction d'impôt prévue à l'article
+199 undecies ne peuvent donner lieu à la réduction visée au premier alinéa.
 
 Le bénéfice de la réduction [*champ d'application*] est réservé aux
 contribuables qui ne sont pas redevables de l'impôt sur les grandes fortunes

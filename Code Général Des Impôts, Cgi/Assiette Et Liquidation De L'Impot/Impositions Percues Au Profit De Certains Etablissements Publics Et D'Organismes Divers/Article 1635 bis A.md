@@ -19,6 +19,9 @@ Son taux est fixé à :
 
 - 5 % en ce qui concerne les autres conventions d'assurances.
 
+Ces taux sont portés respectivement à 13 % [*pourcentage*] et à 7 % pour une
+période de cinq ans à compter [*date, point de départ*] du 1er janvier 1987.
+
 Les contrats d'assurance sur les risques de gel de récoltes sont exonérés de
 cette contribution.
 
