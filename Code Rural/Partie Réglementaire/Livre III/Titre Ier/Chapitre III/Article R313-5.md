@@ -13,7 +13,7 @@ représentant ;
 
 4° Le président de la chambre d'agriculture ou son représentant ;
 
-5° Les six représentants des organisations syndicales d'exploitants agricoles à
+5° Les huit représentants des organisations syndicales d'exploitants agricoles à
 vocation générale mentionnées à l'article R. 313-1.
 
 Conformément à l'avis de la commission départementale d'orientation de
