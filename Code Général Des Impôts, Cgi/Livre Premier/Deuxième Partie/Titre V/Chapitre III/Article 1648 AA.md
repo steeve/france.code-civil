@@ -21,7 +21,8 @@ départements dont la densité de population excède 1 000 habitants au kilomèt
 carré, ni aux magasins d'une surface de vente inférieure à 5 000 mètres carrés
 lorsqu'ils sont situés en tout ou partie dans une commune de plus de 40 000
 habitants ou dans un canton d'une densité de population supérieure à 400
-habitants au kilomètre carré.
+habitants au kilomètre carré. Elles ne sont pas non plus applicables dans les
+agglomérations nouvelles.
 
 II. Les bases communales de taxe professionnelle correspondant aux créations et
 extensions d'établissements résultant soit d'une construction nouvelle, soit de
@@ -31,12 +32,15 @@ taxées directement, à concurrence de 80 p. 100 de leur montant, au profit du
 fonds départemental de la taxe professionnelle prévu au premier alinéa du I du
 même article, selon le taux communal de taxe professionnelle.
 
-Lorsque les communes bénéficiaires au titre du I ci-dessus sont situées dans des
-départements distincts, les sommes perçues selon les modalités prévues au
-précédent alinéa sont réparties entre les fonds de chacun des départements
-concernés en proportion de la population de ces mêmes communes.
+Dans les communes membres d'une communauté de communes, le pourcentage fixé à
+l'alinéa précédent est ramené à 40 p. 100.
 
-Le pourcentage fixé au premier alinéa du II s'applique :
+Lorsque les communes bénéficiaires au titre du I ci-dessus sont situées dans des
+départements distincts, les sommes perçues selon les modalités prévues aux
+premier et deuxième alinéa sont réparties entre les fonds de chacun des
+départements concernés en proportion de la population de ces mêmes communes.
+
+Le pourcentage fixé aux premier et deuxième alinéas du II s'applique :
 
 a) Dans le cas d'une création d'établissement, à la totalité des bases de
 l'établissement imposables au profit de la commune ;

@@ -27,8 +27,8 @@ II Le conseil municipal peut renoncer à percevoir, en tout ou partie, la taxe
 locale d'équipement sur les locaux à usage d'habitation édifiés pour leur compte
 ou à titre de prestataire de services par les organismes mentionnés à l'article
 L. 411-2 du code de la construction et de l'habitation et par les sociétés
-d'économie mixte définies par la loi n° 83-597 du 7 juillet 1983 ou celles à
-capitaux publics majoritaires réalisant des locaux à usage d'habitation
+d'économie mixte définies par la loi n° 83-597 du 7 juillet 1983 modifiée ou
+celles à capitaux publics majoritaires réalisant des locaux à usage d'habitation
 principale financés à titre prépondérant au moyen de prêts ouvrant droit au
 bénéfice de dispositions prévues au titre V du livre III du code de la
 construction et de l'habitation.
@@ -56,5 +56,8 @@ III (Abrogé).
 IV Le conseil municipal peut exempter de la taxe les bâtiment à usage agricole
 autres que ceux mentionnés à l'article L 112-7 du code de l'urbanisme.
 
-1) Annexe II, art. 317 bis. 2) Voir Annexe II, art. 317 quinquies. 3) Annexe II,
-art. 317 quater.
+(1) Annexe II, art. 317 bis.
+
+(2) Voir Annexe II, art. 317 quinquies.
+
+(3) Annexe II, art. 317 quater.
