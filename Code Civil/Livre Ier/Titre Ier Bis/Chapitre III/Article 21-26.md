@@ -12,8 +12,10 @@ culture française ;
 par décret ;
 
 3° La présence hors de France, en temps de paix comme en temps de guerre, dans
-une formation régulière de l'armée française ou au titre du service national
-actif.
+une formation régulière de l'armée française ou au titre des obligations prévues
+par le livre II du code du service national ;
+
+4° Le séjour hors de France en qualité de volontaire du service national.
 
 L'assimilation de résidence qui profite à l'un des époux s'étend à l'autre s'ils
 habitent effectivement ensemble.

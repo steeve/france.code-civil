@@ -23,5 +23,6 @@ la naturalisation présente pour la France un intérêt exceptionnel. Dans ce ca
 le décret de naturalisation ne peut être accordé qu'après avis du Conseil d'Etat
 sur rapport motivé du ministre compétent ;
 
-7° L'étranger qui n'a pas procédé à la manifestation de volonté d'être français
-prévue à l'article 21-7 avant l'âge de vingt et un ans.
+7° L'étranger qui a obtenu le statut de réfugié en application de la loi n°
+52-893 du 25 juillet 1952 portant création d'un Office français de protection
+des réfugiés et apatrides.

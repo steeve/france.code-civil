@@ -1,16 +1,12 @@
 Article 21-7
 ----
-Tout étranger né en France de parents étrangers peut, à partir de l'âge de seize
-ans et jusqu'à l'âge de vingt et un ans, acquérir la nationalité française à
-condition qu'il en manifeste la volonté, qu'il réside en France à la date de sa
-manifestation de volonté et qu'il justifie d'une résidence habituelle en France
-pendant les cinq années qui la précèdent.
+Tout enfant né en France de parents étrangers acquiert la nationalité française
+à sa majorité si, à cette date, il a en France sa résidence et s'il a eu sa
+résidence habituelle en France pendant une période continue ou discontinue d'au
+moins cinq ans, depuis l'âge de onze ans.
 
-La condition de résidence habituelle en France pendant cinq ans n'est pas exigée
-pour l'étranger francophone au sens des dispositions de l'article 21-20.
-
-Un décret en Conseil d'Etat fixe les conditions dans lesquelles les organismes
-et services publics, et notamment les établissements d'enseignement, les caisses
-de sécurité sociale et les collectivités territoriales, informent le public, et
-en particulier les personnes concernées par le présent article, des dispositions
-en vigueur en matière de droit de la nationalité.
+Les tribunaux d'instance, les collectivités territoriales, les organismes et
+services publics, et notamment les établissements d'enseignement sont tenus
+d'informer le public, et en particulier les personnes auxquelles s'applique le
+premier alinéa, des dispositions en vigueur en matière de nationalité. Les
+conditions de cette information sont fixées par décret en Conseil d'Etat.

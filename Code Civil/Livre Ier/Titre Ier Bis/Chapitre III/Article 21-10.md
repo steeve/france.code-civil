@@ -1,6 +1,6 @@
 Article 21-10
 ----
-La participation volontaire aux opérations de recensement en vue de
-l'accomplissement du service national ou la demande de certificat de nationalité
-française constituent une manifestation de volonté au sens de l'article 21-7.
-Elle produit effet dans les conditions de l'article 21-9.
+Les dispositions des articles 21-7 à 21-9 ne sont pas applicables aux enfants
+nés en France des agents diplomatiques et des consuls de carrière de nationalité
+étrangère. Ces enfants ont toutefois la faculté d'acquérir volontairement la
+nationalité française conformément aux dispositions de l'article 21-11 ci-après.
