@@ -11,9 +11,9 @@ compétent et les formes requises pour sa saisine.
 L'huissier de justice avise dans les huit jours l'organisme créancier de la date
 de la signification.
 
-Le débiteur peut former opposition au secrétariat-greffe du tribunal du lieu où
-il demeure, soit par déclaration, soit par lettre recommandée avec demande
-d'avis de réception, dans les quinze jours à compter de la notification ou de la
+Le débiteur peut former opposition au secrétariat du tribunal du lieu où il
+demeure, soit par déclaration, soit par lettre recommandée avec demande d'avis
+de réception, dans les quinze jours à compter de la notification ou de la
 signification de la contrainte. L'opposition doit être motivée ; une copie de la
 contrainte contestée doit lui être jointe.
 
@@ -24,7 +24,7 @@ de contributions et de majorations de retard dues pour l'emploi de salariés
 intermittents relevant des professions de la production cinématographique, de
 l'audiovisuel ou du spectacle.
 
-Le secrétariat-greffe du tribunal enregistre l'opposition et en adresse copie à
+Le secrétariat du tribunal enregistre l'opposition et en adresse copie à
 l'organisme créancier. Sans délai, il convoque les parties à l'audience par
 lettre recommandée avec demande d'avis de réception. Il leur adresse le même
 jour copie de cette convocation par lettre simple. La convocation à comparaître

@@ -6,5 +6,5 @@ tribunal d'instance rend public par affichage à la porte du prétoire le tarif
 d'espèce résultant du jugement.
 
 Tout intéressé et tout groupement professionnel sont autorisés à prendre sans
-frais copie de ces salaires, au secrétariat du conseil de prud'hommes ou au
-greffe du tribunal d'instance, et à les publier.
+frais copie de ces salaires, au greffe du conseil de prud'hommes ou du tribunal
+d'instance, et à les publier.
