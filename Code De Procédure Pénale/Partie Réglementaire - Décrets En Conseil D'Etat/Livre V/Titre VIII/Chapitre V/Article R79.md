@@ -43,7 +43,7 @@ de poursuites disciplinaires ;
 
 12° Aux commissaires du Gouvernement près les conseils de l'ordre des
 experts-comptables et comptables agréés saisis de demandes d'inscription ou de
-poursuitees disciplinaires ;
+poursuites disciplinaires ;
 
 13° A l'administration fiscale à l'occasion de la délivrance des certificats
 prévus à l'article 6 du décret n° 75-911 du 6 octobre 1975 relatif aux centres
@@ -61,7 +61,7 @@ d'exercer les activités de gardiennage, de surveillance de transport de fonds o
 de protection des personnes ;
 
 17° A l'administration auprès de laquelle est institué le comité prévu par
-l'article 46 du Code pénal ;
+l'article 46 du Code pénal (article abrogé) ;
 
 18° Aux administrations publiques de l'Etat chargées d'instruire les procédures
 de changement de nom, d'acquisition, de perte ou de déchéance de la nationalité
@@ -80,12 +80,13 @@ janvier 1983 ;
 personnes physiques ou les dirigeants des personnes morales qui sollicitent
 l'agrément ou l'inscription prévues par les articles 31, 32 et 34 de la loi n°
 83-610 du 8 juillet 1983, ainsi que les personnes qui font l'objet d'une
-procédure disciplinaire sur le fondement des articles 22, 29 ou 41 de cette loi;
+procédure disciplinaire sur le fondement des articles 22, 29 ou 41 de cette loi
+;
 
 22° A l'administration pénitentiaire au titre des autorisations, agréments ou
 habilitations qu'elle est susceptible de délivrer aux personnes appelées à
 intervenir dans les établissements pénitentiaires ou pour le recrutement de ses
-personnels;
+personnels ;
 
 23° Aux juges des enfants à l'occasion de l'instruction des procédures
 d'habilitation des personnes physiques, établissements, services ou organismes
@@ -93,3 +94,8 @@ publics ou privés auxquels l'autorité judiciaire confie habituellement des
 mineurs ainsi que dans le cadre du contrôle que les juges des enfants exercent
 sur les mêmes personnes, établissements, services ou organismes lorsqu'ils sont
 habilités.
+
+24° Au directeur général de l'Institut national de la propriété industrielle
+pour l'inscription sur la liste des personnes qualifiées en propriété
+industrielle et sur la liste prévue à l'article 43 de la loi précitée du 26
+novembre 1990 (2).
