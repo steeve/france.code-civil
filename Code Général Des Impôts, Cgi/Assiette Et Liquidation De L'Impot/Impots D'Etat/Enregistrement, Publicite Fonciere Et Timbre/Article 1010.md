@@ -5,9 +5,9 @@ possédés ou utilisés par les sociétés, sont soumis à une taxe annuelle non
 déductible pour l'établissement de l'impôt sur les sociétés et dont le montant
 est fixé à :
 
-2.000 F pour les véhicules dont la puissance fiscale n'excède pas 7 CV;
+3.000 F pour les véhicules dont la puissance fiscale n'excède pas 7 CV ;
 
-2.900 F pour les autres véhicules (1).
+5.000 F pour les autres véhicules (1).
 
 La taxe n'est toutefois pas applicable aux véhicules destinés exclusivement soit
 à la vente, soit à la location de courte durée, soit à l'exécution d'un service
@@ -25,10 +25,9 @@ Lorsqu'elle est exigible en raison des véhicules pris en location, la taxe est 
 la charge de la société locataire. Les conditions d'application du présent
 alinéa sont fixées par décret (2).
 
-1) Ces taux sont applicables à compter de la période d'imposition s'ouvrant le
-1er octobre 1975. Pour la période du 1er octobre 1974 au 30 septembre 1975, ils
-avaient été respectivement fixés à 1.600 F et 2.300 F.
+(1) Ces taux sont applicables à compter de la période d'imposition s'ouvrant le
+1er octobre 1979.
 
-2) Annexe II, art. 310 C à 310 E.
+(2) Annexe II, art. 310 C à 310 E.
 
-3) Annexe III, art. 406 bis.
+(3) Annexe III, art. 406 bis.
