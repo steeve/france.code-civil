@@ -1,8 +1,10 @@
 Article L611-6
 ----
-L'application des dispositions des articles L. 341-5,
+Les inspecteurs des lois sociales en agriculture sont chargés [*attributions*]
+de veiller à l'application aux professions agricoles de celles des dispositions
+du code du travail, des lois et règlements non codifiés relatifs au régime du
+travail qui sont applicables à ces professions.
 
-L. 341-6 et R. 341-8 est confiée dans les établissements agricoles aux officiers
-de police judiciaire et concuremment avec ces derniers à l'inspecteur du travail
-et de la main-d'oeuvre [*compétence*] dans les établissements industriels et
-commerciaux.
+//DECR.0493 11-06-1975 : Ils sont également chargés de veiller à l'application
+des conventions collectives agricoles ayant fait l'objet d'un arrêté
+d'extension// .

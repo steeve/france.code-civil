@@ -1,11 +1,12 @@
 Article L611-8
 ----
-Les inspecteurs du travail et de la main-d'oeuvre ont entrée dans tous les
-établissements concernés par les dispositions dont ils ont à assurer l'exécution
-à l'effet de procéder à la surveillance et aux enquêtes dont ils sont chargés.
+Les inspecteurs du travail et de la main-d'oeuvre ont entrée dans tous
+établissements où sont applicables les règles énoncées à la première phrase du
+premier alinéa de l'article L. 611-1 à l'effet d'y assurer la surveillance et
+les enquêtes dont ils sont chargés.
 
 Ils ont également entrée dans les locaux où les travailleurs à domicile
-effectuent les travaux définis à l'article L. 721-22.
+effectuent les travaux définis à l'article L. 721-22 [*hygiène et sécurité*].
 
 Toutefois, lorsque les travaux sont exécutés dans des locaux habités, les
 inspecteurs ne peuvent y pénétrer qu'après avoir reçu l'autorisation des
