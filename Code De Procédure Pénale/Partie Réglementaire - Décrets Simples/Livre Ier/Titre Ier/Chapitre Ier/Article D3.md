@@ -23,4 +23,7 @@ imputés aux personnes mises en cause dans des affaires similaires.
 Lorsqu'un tel fait est de nature à susciter des investigations entrant dans le
 champ d'application de l'article D. 4, ces officiers de police judiciaire le
 portent sans délai à la connaissance des services relevant de la direction
-centrale de la police judiciaire.
+centrale de la police judiciaire ou, lorsqu'il relève du domaine de compétence
+de l'office central mentionné au 8° de l'article D. 8-1, de la direction
+centrale du contrôle de l'immigration et de la lutte contre l'emploi des
+clandestins.

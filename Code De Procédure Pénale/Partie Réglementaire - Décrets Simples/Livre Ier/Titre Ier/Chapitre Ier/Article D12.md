@@ -61,5 +61,7 @@ compétent du résultat de ses opérations.
 
 4. Lorsque les investigations portent sur un fait ayant donné lieu à
 l'information prévue au dernier alinéa de l'article D. 3, l'officier de police
-judiciaire bénéficiant de l'extension de compétence avise les services relevant
-de la direction centrale de la police judiciaire.
+judiciaire bénéficiant de l'extension de compétence avise, selon les cas, les
+services relevant de la direction centrale de la police judiciaire ou de la
+direction centrale du contrôle de l'immigration et de la lutte contre l'emploi
+des clandestins.
