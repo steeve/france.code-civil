@@ -2,15 +2,22 @@ Article R15-20
 ----
 Les catégories de services actifs de la police nationale au sein desquels les
 officiers et agents de police judiciaire exercent leurs fonctions habituelles et
-dont la compétence s'exerce dans le ressort d'un ou de plusieurs tribunaux de
-grande instance d'une même cour d'appel sont les suivantes :
+dont la compétence s'exerce dans le ressort d'un département ou d'une
+collectivité d'outre-mer ainsi qu'en Nouvelle-Calédonie sont les suivantes :
 
-1° Les sûretés départementales de sécurité publique, pour l'ensemble des
-circonscriptions de sécurité publique du département où elles ont leur siège ;
+1° Les sûretés départementales et les circonscriptions de sécurité publique ;
 
-2° Les services de police urbaine des circonscriptions de sécurité publique,
-pour l'ensemble des circonscriptions de sécurité publique du ressort du tribunal
-de grande instance où ils ont leur siège ;
+2° A Paris, la direction de la police urbaine de proximité et la direction de
+l'ordre public et de la circulation de la préfecture de police ;
 
-3° Les directions départementales du contrôle de l'immigration et de la lutte
-contre l'emploi des clandestins, dans le département où elles ont leur siège.
+3° Au titre de la police aux frontières :
+
+a) Les directions départementales ainsi que, sous réserve des dispositions du a
+du 2° de l'article R. 15-19, les brigades des chemins de fer, les brigades
+mobiles de recherche et les unités d'éloignement qui leur sont rattachées, dans
+le département où elles ont leur siège ;
+
+b) Les directions de la Nouvelle-Calédonie et des îles Wallis-et-Futuna, de la
+Polynésie française, de Saint-Pierre-et-Miquelon et de Mayotte ainsi que les
+brigades mobiles de recherche et les unités d'éloignement qui leur sont
+rattachées, dans les territoires de ces collectivités.
