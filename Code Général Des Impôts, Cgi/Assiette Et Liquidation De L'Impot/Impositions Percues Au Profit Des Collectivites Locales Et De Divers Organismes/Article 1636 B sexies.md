@@ -1,10 +1,11 @@
 Article 1636 B sexies
 ----
 I. A compter de 1983 [*date point de départ*], et sous réserve des dispositions
-de l'article 1636 B septies, les conseils généraux, les conseils municipaux et
-les instances délibérantes des organismes de coopération intercommunale dotés
-d'une fiscalité propre votent chaque année les taux des taxes foncières, de la
-taxe d'habitation et de la taxe professionnelle. Ils peuvent :
+de l'article 1636 B septies et 1636 B decies , les conseils généraux, les
+conseils municipaux et les instances délibérantes des organismes de coopération
+intercommunale dotés d'une fiscalité propre votent chaque année les taux des
+taxes foncières, de la taxe d'habitation et de la taxe professionnelle. Ils
+peuvent :
 
 - soit faire varier dans une même proportion les taux des quatre taxes appliqués
 l'année précédente ;
