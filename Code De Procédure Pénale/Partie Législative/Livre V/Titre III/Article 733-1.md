@@ -4,19 +4,19 @@ Les décisions prises par le juge de l'application des peines sont des mesures
 d'administration judiciaire.
 
 1° Les décisions qui concernent l'une des mesures prévues par les articles
-720-1, 723, 723-3 et 730 peuvent, à la requête du procureur de la République,
-être déférées devant le tribunal correctionnel qui statue en chambre du conseil
-parès avoir fait procéder à toutes les auditions utiles et entendus en leurs
-observations, s'ils en ont fait la demande, les conseils du condamné et de la
-partie civile.
+720-1, 723, 723-3, 723-7 et 730 peuvent, à la requête du procureur de la
+République, être déférées devant le tribunal correctionnel qui statue en chambre
+du conseil parès avoir fait procéder à toutes les auditions utiles et entendus
+en leurs observations, s'ils en ont fait la demande, les conseils du condamné et
+de la partie civile.
 
 Cette requête est formée dans les vingt-quatre heures qui suivent soit la date
 de la décision prise en présence du procureur de la République, soit, dans les
 autres cas, la date de notification au procureur de la République. Elle suspend
 l'exécution de la décision jusqu'à ce que le tribunal ait statué.
 
-Le juge de l'application des peines ne peut, à peine de nullité, siéger au sein
-du tribunal saisi de l'une de ses décisions.
+Le juge de l'application des peines ne peut, à peine de nullité [*sanction*],
+siéger au sein du tribunal saisi de l'une de ses décisions.
 
 L'affaire doit venir devant le tribunal correctionnel à la première audience ou
 au plus tard dans la huitaine du jour de la requête du procureur de la
