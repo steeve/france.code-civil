@@ -22,11 +22,10 @@ motif.
 Sur la demande expresse des services chargés du contrôle de l'emploi, l'adresse
 du ou des salariés visés au 3° ci-dessus devra en outre être communiquée.
 
-Tout employeur qui embauche une personne inscrite comme demandeur d'emploi à
-l'Agence nationale pour l'emploi doit dans les huit jours suivant l'embauche en
-informer le service de l'agence dont il relève [*délai*].
-
-Cette information est transmise par un document fourni au demandeur par l'Agence
-nationale pour l'emploi [*ANPE*] au demandeur d'emploi qui est tenu de le
-remettre à son nouvel employeur. La date d'embauche doit être mentionnée sur ce
-document, cette mention est certifiée exacte par l'employeur.
+L'Agence nationale pour l'emploi est destinataire, dans les conditions prévues
+aux articles 3 et 6 du décret n° 98-252 du 1er avril 1998 relatif à la
+déclaration unique d'embauche, des informations suivantes portées sur la
+déclaration unique d'embauche par l'employeur : les éléments d'identification de
+l'employeur, la date d'embauche du salarié, son sexe et sa date de naissance, la
+nature et la qualification de l'emploi, la durée hebdomadaire du travail, la
+nature du contrat et, le cas échéant, la date de fin de contrat.
