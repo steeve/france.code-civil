@@ -19,13 +19,13 @@ effectif du contrôle de celle-ci.
 Le dossier doit comporter la justification de l'appartenance du demandeur de
 l'aide à l'une des catégories mentionnées à l'article R. 351-41.
 
-Un arrêté du ministre du travail, de l'emploi et de la formation professionnelle
-précise la composition du dossier.
+Un arrêté du ministre chargé de l'emploi.
 
 II. Si le dossier est incomplet, la demande fait l'objet d'une décision de rejet
-en l'état dans le délai d'un mois à compter de sa réception. Cette décision fait
-connaître au demandeur la liste des pièces manquantes ou incomplètes.
+en l'état. Cette décision fait connaître au demandeur la liste des pièces
+manquantes ou incomplètes.
 
 L'envoi au préfet du complément de dossier, par pli recommandé avec demande
-d'avis de réception postal, fait courir de nouveau le délai d'un mois mentionné
-au deuxième alinéa de l'article L. 351-24.
+d'avis de réception postal, ou son dépôt contre remise d'un accusé de réception,
+fait courir de nouveau le délai de trois mois mentionné au quatrième alinéa de
+l'article L. 351-24.
