@@ -4,8 +4,8 @@ Date de création : 3 août 1945.
 
 Dernière mise à jour : 19 juillet 1980 DESIGNATION DES MALADIES :
 
-Silicose, pneumoconiose du houilleur, schistose, talcose, kaolinose et autres
-pneumoconioses provoquées par ces poussières ;
+Silicose, pneumoconiose du houilleur, schistose, talcose, kaolinose graphitose
+et autres pneumoconioses provoquées par ces poussières ;
 
 Ces affections sont caractérisées par des signes radiographiques spécifiques,
 qu'ils s'accompagnent ou non de troubles fonctionnels
@@ -77,3 +77,6 @@ Travaux de décapage ou de polissage au jet de sable ;
 
 Travaux de construction, d'entretien et de démolition exposant à l'inhalation de
 poussières renfermant de la silice libre.
+
+Manipulation, broyage, conditionnement, usinage, utilisation du graphite,
+notamment comme réfractaire, fabrication d'électrodes.
