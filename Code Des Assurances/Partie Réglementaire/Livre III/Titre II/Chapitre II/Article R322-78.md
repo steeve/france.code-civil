@@ -10,4 +10,4 @@ affecter par priorité tous les excédents de recettes constatés ultérieuremen
 au paiement du solde de l'indemnité restant dû à chaque ayant droit.
 
 Les dispositions du présent article ne s'appliquent pas aux sociétés pratiquant
-une ou plusieurs des branches mentionnées aux 20 à 28 de l'article R. 321-1.
+une ou plusieurs des branches mentionnées aux 20 à 26 de l'article R. 321-1.

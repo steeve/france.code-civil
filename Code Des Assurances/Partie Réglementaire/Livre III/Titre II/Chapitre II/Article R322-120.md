@@ -1,15 +1,13 @@
 Article R322-120
 ----
-Jusqu'à l'intervention d'un statut de la mutualité agricole, les organismes
-mentionnés à l'article 1235 du code rural, à l'exception de ceux faisant l'objet
-du deuxième alinéa de l'article R. 322-123, sont soumis aux prescriptions
-suivantes :
+Les organismes mentionnés à l'article 1235 du code rural sont soumis aux
+prescriptions suivantes :
 
-1° Ils doivent avoir pour objet de pratiquer exclusivement soit l'assurance,
-soit la réassurance des risques agricoles définis à l'article R. 322-121 ;
+1° Ils doivent avoir pour objet de pratiquer soit exclusivement des opérations
+d'assurance, soit exclusivement des opérations de réassurance ;
 
 2° Ils ne peuvent pratiquer des opérations d'assurances autres que celles
-mentionnées au 5° et 7° de l'article L. 310-1 ;
+mentionnées au 2° et au 3° de l'article L. 310-1 ;
 
 3° Ils garantissent, moyennant le paiement d'une cotisation fixe ou variable, le
 règlement intégral des engagements pris à l'égard de leurs adhérents, en cas de
@@ -29,3 +27,6 @@ Ne peuvent être considérés comme ayant une compétence nationale, nonobstant 
 dispositions de leurs statuts, que les organismes groupant au moins sept
 sociétés ou caisses mutuelles de réassurances agricoles comptant au total au
 moins 300 000 adhérents.
+
+Les dispositions des articles R. 322-83 et R. 322-84 ne sont pas applicables aux
+organismes mentionnés ci-dessus.

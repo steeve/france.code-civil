@@ -32,6 +32,12 @@ consister en allocations variables avec l'activité de la société, notamment a
 le montant des cotisations, le montant des valeurs assurées, ou le nombre des
 sociétaires.
 
+Les dispositions précédentes ne font pas obstacle à l'institution d'un
+intéressement collectif des salariés de l'entreprise dans les conditions prévues
+par l'ordonnance n° 86-1134 du 21 octobre 1986 modifiée relative à
+l'intéressement et à la participation des salariés aux résultats de l'entreprise
+et à l'actionnariat.
+
 Les avantages accessoires qui seraient accordés au directeur ou à l'un
 quelconque des employés, autres que ceux qui sont chargés du placement et de la
 souscription des contrats et que ceux qui dirigent cette activité ou en assurent

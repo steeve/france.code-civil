@@ -11,4 +11,4 @@ dater de la notification qui lui aura été faite dans les formes prévues au
 présent article.
 
 Les dispositions du présent article ne s'appliquent pas aux sociétés pratiquant
-une ou plusieurs des branches mentionnées aux 20 à 28 de l'article R. 321-1.
+une ou plusieurs des branches mentionnées aux 20 à 26 de l'article R. 321-1.

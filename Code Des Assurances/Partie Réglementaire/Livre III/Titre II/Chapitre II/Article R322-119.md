@@ -4,11 +4,10 @@ La réglementation des entreprises d'assurance résultant du présent code est,
 dans les conditions et sous les réserves prévues à la présente section,
 applicable aux organismes mentionnés à l'article 1235 du code rural.
 
-Ces organismes ne sont pas tenus de se conformer aux règles de constitution et
-de fonctionnement prescrites pour les entreprises d'assurance aux sections II à
-V du présent chapitre. Toutefois, l'article R. 322-78 leur est applicable et les
-statuts doivent indiquer le nombre d'administrateurs élus par le personnel
-salarié.
+Ces organismes se conforment aux règles de constitution et de fonctionnement
+prescrites pour les entreprises d'assurance à la section IV, paragraphes I, II,
+III, IV et VI du présent chapitre, sous réserve des dispositions particulières
+de la présente section.
 
 Des décrets ou des arrêtés précisent, en tant que de besoin, les modalités
 d'application de la présente section aux organismes intéressés.
