@@ -2,15 +2,12 @@ Article R211-13
 ----
 Ne sont pas opposables aux victimes ou à leurs ayants droit :
 
-1° La limitation de garantie prévue à l'article R. 211-9 et à l'article R.
-212-7, sauf dans le cas où le sinistre n'ayant causé que des dégâts matériels,
-le montant de ceux-ci n'excède pas la somme fixée par arrêté du ministre de
-l'économie et des finances ;
+1° La franchise prévue à l'article L. 121-1 ;
 
 2° Les déchéances, à l'exception de la suspension régulière de la garantie pour
 non-paiement de prime ;
 
-3° La réduction de l'indemnité applicable conformément à l'article L. 113-9.
+3° La réduction de l'indemnité applicable conformément à l'article L. 113-9 ;
 
 4° Les exclusions de garanties prévues aux articles R. 211-10 et R. 211-11.
 

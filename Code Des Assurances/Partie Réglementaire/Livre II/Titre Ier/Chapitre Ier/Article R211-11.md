@@ -10,9 +10,7 @@ de rayonnements ionisants destinés à être utilisées hors d'une installation
 nucléaire, dès lors que lesdites sources auraient provoqué ou aggravé le
 sinistre ;
 
-2° Du fait des dommages subis par les personnes transportées à titre onéreux,
-sauf en ce qui concerne les contrats souscrits par des transporteurs de
-personnes pour les véhicules servant à l'exercice de leur profession ;
+2° paragraphe abrogé.
 
 3° Du fait des dommages causés par le véhicule, lorsqu'il transporte des
 matières inflammables, explosives, corrosives ou comburantes et à l'occasion
@@ -24,8 +22,4 @@ nécessaire au moteur ;
 
 4° Du fait des dommages survenus au cours d'épreuves, courses, compétitions ou
 leurs essais, soumis par la réglementation en vigueur à l'autorisation préalable
-des pouvoirs publics. Toute personne participant à l'une de ces épreuves,
-courses, compétitions ou essais en qualité de concurrent ou d'organisateur n'est
-réputée avoir satisfait aux prescriptions du présent titre que si sa
-responsabilité est garantie par une assurance, dans les conditions exigées par
-la réglementation applicable en la matière.
+des pouvoirs publics.

@@ -13,6 +13,4 @@ d'atomes ou de radioactivité, ainsi que des effets de radiations provoquées pa
 l'accélération artificielle de particules ;
 
 c) Des dommages causés par les actes de terrorisme ou de sabotage commis dans le
-cadre d'actions concertées de terrorisme ou de sabotage ;
-
-d) Des dommages mentionnés aux articles L. 113-1 (2ème alinéa) et L. 121-8.
+cadre d'actions concertées de terrorisme ou de sabotage.
