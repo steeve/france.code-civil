@@ -29,7 +29,7 @@ notamment médicaux, nécessaires à la mise en oeuvre du projet ;
 
 C. - Un dossier technique et financier comportant une présentation générale de
 l'établissement, les modalités de financement du projet et une présentation du
-compte ou budget prévisionnel d'exploitation.
+compte ou budget prévisionnel d'exploitation ;
 
 D. - Un dossier relatif à l'évaluation comportant :
 
@@ -71,16 +71,17 @@ ci-dessus tiennent compte des résultats de l'évaluation correspondant à la
 période de la précédente autorisation.
 
 II. - Le dossier est réputé être complet en ce qui concerne les parties A, B et
-C mentionnées au I si, dans le délai d'un mois à compter de sa réception,
-l'autorité compétente pour statuer sur la demande n'a pas fait connaître au
+C mentionnées au I si, dans le délai d'un mois à compter de sa réception, le
+directeur de l'agence régionale de l'hospitalisation n'a pas fait connaître au
 demandeur, par lettre recommandée avec demande d'avis de réception, la liste des
 pièces manquantes ou incomplètes.
 
 Le dossier est réputé être complet en ce qui concerne la partie D si, dans les
 trois mois qui suivent la date de clôture de la période de réception concernée,
-l'autorité compétente n'a pas, dans les formes prévues au premier alinéa, fait
-connaître au demandeur la liste des pièces manquantes ou incomplètes ni invité
-celui-ci à préciser ou à modifier ses propositions.
+le directeur de l'agence régionale de l'hospitalisation n'a pas, dans les formes
+prévues au premier alinéa, fait connaître au demandeur la liste des pièces
+manquantes ou incomplètes ni invité celui-ci à préciser ou à modifier ses
+propositions.
 
 Dans le cas où le dossier était incomplet et n'a pas été complété à la date de
 clôture de la période de réception concernée en ce qui concerne les parties A, B
