@@ -18,7 +18,7 @@ n'est exigée ;
 limite de ressources fixé pour l'attribution de l'allocation aux vieux
 travailleurs non-salariés aux personnes seules. Ces ressources sont appréciées
 dans les conditions fixées par les articles L. 815-8, R. 815-22, R. 815-25 à R.
-815-33 et R. 815-40.
+815-32 et R. 815-40.
 
 Lorsque le total du secours viager et des ressources personnelles du
 bénéficiaire dépasse ce chiffre limite, le secours viager est réduit en

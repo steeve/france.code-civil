@@ -12,6 +12,6 @@ gain.
 Pour l'application de l'alinéa précédent, est considérée comme ayant été à la
 charge de l'allocataire [*définition*] toute personne qui vivait habituellement
 à son foyer et dont les ressources, appréciées dans les conditions fixées par
-les articles L. 815-8, R. 815-22, R. 815-25 à R. 815-33 et R. 815-40,
+les articles L. 815-8, R. 815-22, R. 815-25 à R. 815-32 et R. 815-40,
 n'excédaient pas, à la date du décès de l'allocataire, le montant limite prévu à
 cette date pour une personne seule en application de l'article L. 815-8.

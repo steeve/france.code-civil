@@ -15,7 +15,7 @@ ou du chef d'un précédent conjoint ;
 augmentées d'une somme égale au montant de la majoration, le chiffre limite de
 ressources fixé pour l'attribution de l'allocation aux vieux travailleurs
 salariés aux personnes seules. Ces ressources sont appréciées dans les
-conditions fixées par les articles R. 815-22, R. 815-25 à R. 815-33, et R.
+conditions fixées par les articles R. 815-22, R. 815-25 à R. 815-32, et R.
 815-40.
 
 Lorsque le montant des avantages énumérés au 2° ci-dessus est inférieur à la
