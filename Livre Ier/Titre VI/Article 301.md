@@ -5,4 +5,5 @@ droits que la loi accorde au conjoint survivant. Il en est toutefois privé si l
 séparation de corps est prononcée contre lui suivant les distinctions faites à
 l'article 265. Lorsque la séparation de corps est prononcée sur demande
 conjointe, les époux peuvent inclure dans leur convention une renonciation aux
-droits successoraux qui leur sont conférés par les articles 765 à 767.
+droits successoraux qui leur sont conférés par les articles 756 à 757-3 et 764 à
+766.

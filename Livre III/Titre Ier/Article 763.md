@@ -1,11 +1,16 @@
 Article 763
 ----
-L'attribution se fait en la forme des donations. Elle emportera transfert de la
-propriété par l'acceptation de l'attributaire ou de son représentant légal.
+Si, à l'époque du décès, le conjoint successible occupe effectivement, à titre
+d'habitation principale, un logement appartenant aux époux ou dépendant
+totalement de la succession, il a de plein droit, pendant une année, la
+jouissance gratuite de ce logement, ainsi que du mobilier, compris dans la
+succession, qui le garnit.
 
-Tant qu'elle n'est pas acceptée, elle peut être révoquée ou modifiée par son
-auteur dans les mêmes formes. Si l'attributaire ne veut ou ne peut en percevoir
-les revenus, ils seront employés pour son compte et à son nom.
+Si son habitation était assurée au moyen d'un bail à loyer, les loyers lui en
+seront remboursés par la succession pendant l'année, au fur et à mesure de leur
+acquittement.
 
-L'attribution prend effet à l'ouverture de la succession lorsqu'elle n'a pas été
-antérieurement acceptée par l'attributaire.
+Les droits prévus au présent article sont réputés effets directs du mariage et
+non droits successoraux.
+
+Le présent article est d'ordre public.
