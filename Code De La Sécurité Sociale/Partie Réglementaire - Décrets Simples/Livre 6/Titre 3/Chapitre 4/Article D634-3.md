@@ -1,5 +1,6 @@
 Article D634-3
 ----
-Les dispositions de l'article D. 634-2 sont applicables aux titulaires d'une
-pension ou allocation de vieillesse substituée à une pension d'invalidité servie
-au titre d'un régime mentionné à l'article L. 635-2.
+Les dispositions de l'article D. 351-2 sont applicables aux régimes d'assurance
+vieillesse des professions artisanales, industrielles et commerciales mentionnés
+à l'article L. 634-2 pour le calcul des prestations afférentes aux périodes
+d'assurance postérieures au 31 décembre 1972.

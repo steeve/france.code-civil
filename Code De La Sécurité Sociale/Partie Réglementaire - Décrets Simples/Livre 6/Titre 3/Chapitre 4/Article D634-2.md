@@ -1,17 +1,37 @@
 Article D634-2
 ----
-Lorsque les titulaires d'une pension ou allocation de vieillesse mentionnée à
-l'article D. 634-1, attribuée ou révisée au titre de l'inaptitude au travail,
-exercent une activité professionnelle quelconque avant l'âge de soixante-cinq
-ans, il leur est fait application des dispositions de l'article L. 352-1 et de
-l'article R. 352-2.
+Pour l'ouverture du droit à pension, sont prises en considération, sous réserve
+que les cotisations éventuellement dues au titre de l'année civile au cours de
+laquelle elles se situent aient été acquittées, les périodes postérieures au 31
+décembre 1972 énumérées ci-dessous :
 
-Lorsque l'activité professionnelle exercée est une activité non-salariée, le
-revenu professionnel pris en considération est le revenu fiscal afférent à la
-période considérée. Si ledit revenu n'a pas été fixé, le dernier revenu fiscal
-connu provenant de l'exploitation du fonds ou de l'entreprise par l'intéressé
-ou, le cas échéant, par le précédent exploitant, est pris en considération, sauf
-justification, soumise par l'intéressé à l'appréciation de la commission de
-recours amiable, d'une modification importante des conditions d'exploitation. Il
-est procédé à régularisation après connaissance des revenus de la période en
-cause.
+1° Le trimestre civil au cours duquel se situe le soixantième jour
+d'hospitalisation de l'assuré, un trimestre étant également décompté pour chaque
+nouvelle période d'hospitalisation de soixante jours ;
+
+2° Chaque trimestre civil au cours duquel l'assuré a bénéficié, pour raison de
+santé, en application de l'article D. 633-9, d'une dispense de paiement de la
+cotisation correspondante ;
+
+3° Chaque trimestre civil au titre duquel sont versés des arrérages d'une
+pension d'invalidité servie au titre d'un régime visé à l'article L. 635-2 ou
+comportant une échéance de paiement des arrérages d'une telle pension servie au
+titre de l'assurance volontaire prévue à l'article L. 742-1 ;
+
+4° Chaque trimestre civil comportant au moins cinquante jours de chômage
+involontaire constaté après la cessation de l'activité artisanale, industrielle
+et commerciale dans les conditions prévues à l'article R. 351-12, 4°, b, c et d
+;
+
+5° Chaque trimestre civil comportant une échéance de paiement des arrérages
+d'une rente d'accident du travail correspondant à une incapacité permanente au
+moins égale à 66 p. 100 servie au titre de l'assurance volontaire prévue à
+l'article L. 743-1 ;
+
+6° Les périodes mentionnées à l'article R. 351-12, 4°, a, et 6°, dans le cas où
+l'intéressé était précédemment affilié au régime d'assurance vieillesse des
+professions artisanales ou industrielles et commerciales.
+
+L'application des dispositions précédentes ne peut avoir pour effet de porter à
+un chiffre supérieur à quatre le nombre de trimestres d'assurance valables au
+titre d'une même année civile.
