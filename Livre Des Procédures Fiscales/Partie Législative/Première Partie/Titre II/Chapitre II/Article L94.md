@@ -2,8 +2,7 @@ Article L94
 ----
 Les personnes dont le commerce habituel consiste à recueillir des offres et des
 demandes de valeurs de bourse doivent communiquer à l'administration, sur sa
-demande, les registres constituant le répertoire de leurs opérations
-[*obligation*].
+demande, les registres constituant le répertoire de leurs opérations.
 
 En outre, lorsqu'un procès-verbal d'infraction a été dressé, ou lorsque le
 répertoire de l'un des assujettis au droit de timbre sur les opérations de
