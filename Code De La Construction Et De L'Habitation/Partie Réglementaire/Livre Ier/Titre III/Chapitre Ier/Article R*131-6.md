@@ -1,6 +1,5 @@
 Article R*131-6
 ----
-Les dispositions de la présente section ne sont pas applicables aux
-établissements d'hôtellerie, aux logements-foyers, aux locaux à usage agricole,
-ainsi qu'aux locaux à usage sportif qui ne sont pas situés dans un immeuble
-collectif.
+Les appareils prévus à l'article R. 131-2 doivent être conformes à la
+réglementation prise en application du décret n° 88-682 du 6 mai 1988 susvisé
+relatif au contrôle des instruments de mesure.
