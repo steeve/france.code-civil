@@ -32,6 +32,17 @@ interfaces, et ses conditions de mise en oeuvre ;
 
 - services d'aboutement de liaisons louées.
 
+En complément de la sélection appel par appel, les modalités de mise en oeuvre
+de la sélection du transporteur permettent aux clients de ces opérateurs
+d'accéder aux services commutés de tout opérateur interconnecté au moyen d'une
+présélection et d'écarter, appel par appel, tout choix de présélection en
+composant un préfixe court.
+
+En application de l'article L. 36-6, l'Autorité de régulation des
+télécommunications précise les services concernés par les dispositions de
+l'alinéa précédent ainsi que les conditions et les délais de mise en oeuvre de
+la sélection du transporteur appel par appel et de la présélection.
+
 Les catalogues de ces opérateurs pour les fournisseurs de service téléphonique
 au public doivent inclure les prestations et éléments énumérés ci-dessus qui
 tiennent compte des droits et obligations propres à ces fournisseurs.
