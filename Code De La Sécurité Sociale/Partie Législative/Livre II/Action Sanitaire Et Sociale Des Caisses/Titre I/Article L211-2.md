@@ -13,7 +13,7 @@ professionnelles nationales d'employeurs représentatives ;
 française ;
 
 4°) deux personnes qualifiées désignées par l'autorité compétente de l'Etat,
-l'une parmi des organisations de salariés, l'autre parmi les organisations
+l'une parmi des organisations de salariés, l'autre parmi des organisations
 d'employeurs.
 
 Siègent également, avec voix consultative :
