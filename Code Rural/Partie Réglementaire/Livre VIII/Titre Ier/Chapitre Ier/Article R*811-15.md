@@ -1,20 +1,24 @@
 Article R*811-15
 ----
-Toute personne physique ou morale demandant la reconnaissance d'un établissement
-doit justifier que cet établissement dispose :
+Les représentants titulaires et suppléants des élèves sont élus au scrutin
+uninominal à deux tours.
 
-1° De locaux d'enseignement et, éventuellement, d'internat, répondant aux
-conditions normales d'hygiène, de sécurité et de pédagogie. Les élèves de chaque
-année d'étude doivent disposer d'une salle de classe ;
+Sont électeurs et éligibles tous les élèves des centres constituant un
+établissement public local d'enseignement et de formation professionnelle
+agricoles.
 
-2° Dans l'établissement ou à proximité, de moyens nécessaires aux démonstrations
-de l'enseignement et d'installations permettant les travaux pratiques
-d'exploitation et d'atelier. Toutefois, ces installations peuvent être
-constituées par celles de l'exploitation familiale pour les établissements
-dispensant une formation selon le rythme approprié prévu par l'article L. 811-1
-;
+Les représentants titulaires et suppléants des parents d'élèves sont élus au
+scrutin uninominal à un tour parmi les parents des élèves des centres qui
+constituent l'établissement public local. Sont électeurs et éligibles les
+parents et les personnes qui ont la garde légale ou judiciaire d'un ou plusieurs
+de ces élèves. Ils disposent d'un suffrage par famille. Les familles
+nourricières d'enfants placés sous la garde judiciaire d'organismes sociaux
+bénéficient également d'un suffrage non cumulatif avec celui dont elles
+disposeraient déjà au titre de parents d'élèves inscrits dans un des centres de
+l'établissement public local d'enseignement.
 
-3° D'un personnel de direction et d'enseignement offrant toutes garanties
-morales et possédant les diplômes mentionné pour chaque catégorie
-d'établissement aux articles R. 811-16 à R. 811-22 ou des diplômes d'un niveau
-au moins équivalent.
+Dans le cas où un centre de formation professionnelle et de promotion agricole a
+été érigé en établissement public local, la représentation des stagiaires est
+effectuée dans les conditions suivantes : cinq représentants des stagiaires, ou
+quatre s'il y a une association d'anciens stagiaires alors représentée par un
+délégué, élus au scrutin uninominal à deux tours.

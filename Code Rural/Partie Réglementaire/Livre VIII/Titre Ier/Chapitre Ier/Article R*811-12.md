@@ -1,22 +1,66 @@
 Article R*811-12
 ----
-Conformément aux dispositions de l'article R. 910-12 du code du travail,
-l'ingénieur général d'agronomie chargé de l'enseignement agricole et de la
-formation professionnelle agricole est membre du groupe régional permanent de la
-formation professionnelle et de la promotion sociale, institué par le même
-article.
+Le conseil d'administration de l'établissement public local comprend trente
+membres ainsi répartis :
 
-Conformément aux dispositions de l'article D. 910-3 du code du travail,
-l'ingénieur général d'agronomie, membre du groupe régional permanent mentionné à
-l'alinéa précédent, est membre du comité régional de la formation
-professionnelle, de la promotion sociale et de l'emploi institué par l'article
-R. 910-14 du même code.
+1° Au titre des dix représentants de l'Etat, des collectivités territoriales et
+des établissements publics intéressés à la formation :
 
-Conformément aux dispositions de l'article D. 910-4 du code du travail,
-l'ingénieur général d'agronomie assure, pour les questions concernant
-l'apprentissage agricole, la présidence de la commission de l'apprentissage
-constituée au sein du comité régional mentionné à l'alinéa précédent.
+a) Le directeur départemental de l'agriculture et de la forêt ou son
+représentant ;
 
-Conformément aux dispositions de l'article D. 910-3 du code du travail,
-l'inspecteur divisionnaire des lois sociales en agriculture est membre du comité
-régional mentionné à l'alinéa précèdent.
+b) Le délégué régional à la formation professionnelle ou son représentant ;
+
+c) L'inspecteur d'académie, directeur des services départementaux de l'éducation
+ou son représentant ;
+
+d) Le directeur du centre d'information et d'orientation ou son représentant ;
+
+e) Le président ou un membre élu de la chambre d'agriculture ;
+
+f) Un représentant d'un établissement public compétent dans les domaines des
+formations dispensées ;
+
+g) Deux conseillers régionaux ;
+
+h) Un conseiller général ;
+
+i) Un représentant de la commune ou, le cas échéant, du groupement de communes ;
+
+2° Au titre des dix représentants élus du personnel :
+
+a) Six représentants du personnel enseignant, d'éducation et de surveillance ;
+
+b) Quatre représentants des personnels d'administration, de service et de
+l'exploitation ;
+
+3° Au titre des dix représentants élus des élèves et parents d'élèves ainsi que
+des représentants des anciens élèves et des organisations professionnelles et
+syndicales :
+
+a) Deux représentants élus des élèves ou trois, en cas d'absence d'association
+d'anciens élèves ;
+
+b) Deux représentants élus des parents d'élèves ;
+
+c) Un représentant des associations d'anciens élèves, le cas échéant ;
+
+d) Cinq représentants des organisations professionnelles et syndicales
+représentatives des employeurs, des exploitants et des salariés des professions
+agricoles et para-agricoles.
+
+Pour l'ensemble des membres titulaires, désignés ou élus et en nombre égal à
+ceux-ci, des suppléants sont désignés ou élus dans les mêmes conditions que les
+titulaires. Le représentant suppléant siège au conseil d'administration en cas
+d'empêchement du titulaire.
+
+Le directeur de l'établissement public local, son adjoint, le gestionnaire,
+l'agent comptable et les directeurs des centres assistent avec voix consultative
+aux séances du conseil d'administration. Le directeur régional de l'agriculture
+et de la forêt ou le chef du service régional de la formation et du
+développement peut assister aux réunions du conseil d'administration.
+
+Dans l'hypothèse où l'établissement public local assure principalement des
+formations professionnelles continues, la représentation des élèves et des
+parents est respectivement remplacée, en tout ou partie, par celle des
+stagiaires et des anciens stagiaires.

@@ -1,5 +1,5 @@
 Article R*811-43
 ----
-L'allocation forfaitaire versée à chaque établissement est réduire du montant de
-la part lui incombant dans les aides financières versées directement aux
-organisations représentatives en vertu de l'article L. 811-11.
+Les dispositions de l'article R. 811-42 doivent figurer au règlement intérieur
+du centre afin que les élèves et les familles soient informés des sanctions qui
+peuvent être encourues ainsi que des recours possibles.
