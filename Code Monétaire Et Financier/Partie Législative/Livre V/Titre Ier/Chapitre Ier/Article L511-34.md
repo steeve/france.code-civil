@@ -1,16 +1,17 @@
 Article L511-34
 ----
 Les entreprises établies en France et qui font partie d'un groupe financier ou
-d'un groupe mixte auquel appartiennent des établissements de crédit ou
-entreprises d'investissement ayant leur siège social dans un Etat membre de la
-Communauté européenne ou Etat partie à l'accord sur l'Espace économique européen
-ou dans un Etat où sont applicables les accords prévus à l'article L. 613-13
-sont tenues, nonobstant toutes dispositions contraires, de transmettre à des
-entreprises du même groupe ayant leur siège social dans l'un de ces Etats :
+d'un groupe mixte ou d'un conglomérat financier auquel appartiennent des
+établissements de crédit ou entreprises d'investissement ayant leur siège social
+dans un Etat membre de la Communauté européenne ou Etat partie à l'accord sur
+l'Espace économique européen ou dans un Etat où sont applicables les accords
+prévus à l'article L. 613-13 sont tenues, nonobstant toutes dispositions
+contraires, de transmettre à des entreprises du même groupe ayant leur siège
+social dans l'un de ces Etats :
 
 1° Les renseignements relatifs à leur situation financière nécessaires à
-l'organisation de la surveillance sur base consolidée de ces établissements de
-crédit ou entreprises d'investissement ;
+l'organisation de la surveillance sur base consolidée et de la surveillance
+complémentaire de ces établissements de crédit ou entreprises d'investissement ;
 
 2° Les informations nécessaires à l'organisation de la lutte contre le
 blanchiment des capitaux et contre le financement du terrorisme.

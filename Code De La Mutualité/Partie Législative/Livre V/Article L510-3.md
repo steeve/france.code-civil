@@ -1,12 +1,16 @@
 Article L510-3
 ----
 La commission de contrôle veille au respect, par les mutuelles, unions et
-fédérations, des dispositions législatives et réglementaires du présent code.
+fédérations ainsi que par toute entité appartenant à un conglomérat financier
+défini à l'article L. 212-7-5 dont la surveillance est coordonnée par la
+commission de contrôle mentionnée à l'article L. 510-1 dans les conditions
+prévues à l'article L. 212-7-9, des dispositions législatives et réglementaires
+du présent code.
 
 La commission de contrôle s'assure notamment que les mutuelles et unions
 relevant du livre II remplissent les engagements qu'elles ont contractés à
 l'égard de leurs membres participants ainsi que des bénéficiaires de leurs
-opérations, et qu'elles présentent la marge de solvabilité prescrite. A cette
+opérations, et qu'elles présentent la marge de solvabilité prescrite.A cette
 fin, elle examine leur situation financière et leurs conditions d'exploitation.
 Elle vérifie que les mutuelles et unions disposent d'une bonne organisation
 administrative et comptable et de procédures de contrôle interne adéquates.

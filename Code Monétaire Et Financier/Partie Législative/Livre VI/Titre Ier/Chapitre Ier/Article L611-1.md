@@ -21,7 +21,9 @@ conditions de la concurrence ;
 
 6. Les normes de gestion que les établissements de crédit doivent respecter en
 vue notamment de garantir leur liquidité, leur solvabilité et l'équilibre de
-leur structure financière ;
+leur structure financière ainsi que les conditions dans lesquelles ces normes
+sont respectées sur une base consolidée, y compris en l'absence d'une entreprise
+mère ayant son siège social en France ;
 
 7. La publicité des informations destinées aux autorités compétentes ;
 

@@ -29,8 +29,13 @@ réserves.
 
 La même obligation s'applique aux faits et aux décisions dont ils viendraient à
 avoir connaissance dans l'exercice de leur mission de commissaires aux comptes
-dans une entreprise filiale de l'institution de prévoyance ou dans une
-institution ou entreprise relevant du second alinéa de l'article L. 931-34.
+dans un organisme subordonné à l'institution de prévoyance, à une union
+d'institutions de prévoyance, à un groupement paritaire de prévoyance ou dans
+une institution ou un organisme relevant du second alinéa de l'article L. 931-34
+ou dans une institution de prévoyance, groupement paritaire de prévoyance
+appartenant à un conglomérat financier dont la surveillance est coordonnée par
+la commission de contrôle mentionnée à l'article L. 951-1 dans les conditions
+prévues à l'article L. 933-4-6.
 
 La responsabilité des commissaires aux comptes ne peut être engagée pour les
 informations ou divulgations de faits auxquelles ils procèdent en exécution des

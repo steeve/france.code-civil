@@ -17,13 +17,16 @@ commercial, industriel, financier ou technique à des personnes physiques ou
 morales, le comité des établissements de crédit et des entreprises
 d'investissement peut transmettre des informations aux autorités chargées, dans
 d'autres Etats, de l'agrément ou de la surveillance des établissements de
-crédit, des entreprises d'investissement et des établissements financiers sous
-réserve de réciprocité et à condition que ces autorités soient elles-mêmes
-soumises au secret professionnel avec les mêmes garanties qu'en France. La
-Commission des communautés européennes peut également être destinataire de ces
-informations, dans la limite de ce qui est nécessaire à l'exercice des missions
-qui lui sont confiées, et sous réserve que les personnes destinataires soient
-soumises au secret professionnel avec les mêmes garanties qu'en France.
+crédit, des entreprises d'investissement, des établissements financiers et des
+organismes d'assurance sous réserve de réciprocité et à condition que ces
+autorités soient elles-mêmes soumises au secret professionnel avec les mêmes
+garanties qu'en France. Ces autorités, lorsque ce sont celles d'un Etat membre
+ou d'un autre Etat partie à l'accord sur l'Espace économique européen, sont
+réputées satisfaire à ces conditions. La Commission des communautés européennes
+peut également être destinataire de ces informations, dans la limite de ce qui
+est nécessaire à l'exercice des missions qui lui sont confiées, et sous réserve
+que les personnes destinataires soient soumises au secret professionnel avec les
+mêmes garanties qu'en France.
 
 Par dérogation aux dispositions législatives et réglementaires régissant le
 secret professionnel, le Comité des établissements de crédit et des entreprises

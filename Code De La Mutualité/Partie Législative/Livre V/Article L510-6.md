@@ -30,8 +30,11 @@ réserves.
 
 La même obligation s'applique aux faits et aux décisions dont ils viendraient à
 avoir connaissance dans l'exercice de leur mission de commissaires aux comptes
-dans une entreprise filiale de la mutuelle, de l'union ou de la fédération ou
-dans un organisme relevant de l'article L. 212-7.
+dans un organisme subordonné à la mutuelle, à l'union, à la fédération, ou dans
+un organisme relevant de l'article L. 212-7 ou dans une mutuelle, une union
+appartenant à un conglomérat financier dont la surveillance est coordonnée par
+la commission de contrôle mentionnée à l'article L. 510-1 dans les conditions
+prévues à l'article L. 212-7-9.
 
 La responsabilité des commissaires aux comptes ne peut être engagée pour les
 informations ou divulgations de faits auxquelles ils procèdent en exécution des

@@ -1,9 +1,10 @@
 Article L310-14
 ----
 La commission peut demander aux entreprises visées aux articles L. 310-1 et L.
-310-1-1, aux sociétés de groupe d'assurance et aux sociétés de groupes mixtes
-d'assurance définies à l'article L. 322-1-2 ainsi qu'aux personnes mentionnées
-au cinquième alinéa de l'article L. 310-12, toutes informations nécessaires à
+310-1-1, aux sociétés de groupe d'assurance, aux sociétés de groupe mixte
+d'assurance définies à l'article L. 322-1-2 et aux compagnies financières
+holding mixtes définies à l'article L. 334-2 ainsi qu'aux personnes mentionnées
+au cinquième alinéa de l'article L. 310-12 toutes informations nécessaires à
 l'exercice de sa mission.
 
 Elle peut également leur demander la communication des rapports des commissaires

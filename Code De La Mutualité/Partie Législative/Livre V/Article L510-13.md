@@ -14,6 +14,15 @@ européen, la transmission d'information ne peut se faire que sous réserve de
 réciprocité, et à condition que ces autorités soient elles-mêmes soumises au
 secret professionnel avec les mêmes garanties qu'en France.
 
+La commission de contrôle mentionnée à l'article L. 510-1 peut transmettre aux
+banques centrales des Etats membres ou des autres Etats parties à l'accord sur
+l'Espace économique européen, au Système européen de banques centrales, à la
+Banque centrale européenne et aux autres organismes agissant au titre de leurs
+compétences monétaires, et, le cas échéant, à d'autres autorités publiques
+chargées de la surveillance des systèmes de paiement, des informations destinées
+à l'accomplissement de leur mission. Les informations reçues dans ce cadre sont
+soumises au secret professionnel.
+
 La commission de contrôle peut, en outre, conclure avec les autorités de
 contrôle des assurances des pays qui ne sont pas partie à l'accord sur l'Espace
 économique européen, sous condition de réciprocité et dans le respect du secret

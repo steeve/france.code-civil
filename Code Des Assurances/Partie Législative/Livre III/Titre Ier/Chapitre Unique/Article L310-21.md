@@ -11,6 +11,15 @@ pays, sous réserve de réciprocité, et à condition que ces autorités soient
 elles-mêmes soumises au secret professionnel avec les mêmes garanties qu'en
 France.
 
+La commission de contrôle des assurances, des mutuelles et des institutions de
+prévoyance peut transmettre aux banques centrales des Etats membres ou des
+autres Etats parties à l'accord sur l'Espace économique européen, au Système
+européen de banques centrales, à la Banque centrale européenne et aux autres
+organismes agissant au titre de leurs compétences monétaires, et, le cas
+échéant, à d'autres autorités publiques chargées de la surveillance des systèmes
+de paiement, des informations destinées à l'accomplissement de leur mission. Les
+informations reçues dans ce cadre sont soumises au secret professionnel.
+
 Par dérogation aux dispositions de la loi n° 68-678 du 26 juillet 1968 relative
 à la communication de documents et renseignements d'ordre économique,
 commercial, industriel, financier ou technique à des personnes physiques ou
@@ -43,4 +52,5 @@ une entreprise située en France et qui est une entreprise apparentée d'une
 entreprise d'assurance soumise à leur surveillance complémentaire, la Commission
 de contrôle des assurances doit répondre à leur demande soit en procédant
 elle-même à cette vérification, soit en permettant à des représentants de ces
-autorités d'y procéder.
+autorités d'y procéder. Lorsqu'elle ne procède pas elle-même à la vérification,
+l'autorité qui a présenté la demande peut, si elle le souhaite, y être associée.
