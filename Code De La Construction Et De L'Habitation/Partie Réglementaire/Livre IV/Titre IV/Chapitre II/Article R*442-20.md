@@ -7,10 +7,11 @@ I. - Le mandant transmet l'ampliation du mandat dès sa conclusion à son
 comptable public.
 
 II. - Lorsque le mandataire est tenu d'ouvrir le compte mentionné au premier
-alinéa de l'article R. 442-19, le compte est ouvert auprès du Trésor, de la
-Caisse des dépôts et consignations, de La Poste, d'une caisse d'épargne et de
-prévoyance ou, sur autorisation du ministre chargé des finances, d'un autre
-établissement de crédit.
+alinéa de l'article R. 442-19, le compte est ouvert auprès de l'Etat, de La
+Poste, de la Caisse des dépôts et consignations, de la Banque de France ou
+auprès d'un établissement de crédit ayant obtenu un agrément en vertu des
+dispositions applicables dans les Etats membres de la Communauté européenne ou
+les autres Etats parties à l'accord sur l'Espace économique européen.
 
 III. - Lorsque le mandat stipule que le mandataire dispose d'une avance
 permanente, l'ordonnateur du mandant fixe le montant de cette avance dans la
@@ -34,14 +35,19 @@ financier.
 
 La reddition des comptes retrace la totalité des opérations de dépenses et de
 recettes décrites par nature sans contraction entre elles ainsi que la totalité
-des opérations de trésorerie par nature. Elle comporte en outre la balance
-générale des comptes arrêtée à la date de la reddition, les états de
-développement des soldes certifiés par le mandataire conformes à la balance
-générale des comptes, la situation de trésorerie de la période et l'état
-nominatif des impayés par débiteur.
+des opérations de trésorerie par nature. Elle comporte en outre :
 
-A la demande du mandant, le mandataire produit tout ou partie des pièces
-justificatives des opérations retracées dans la reddition des comptes. Ces
-pièces justificatives, reconnues exactes par le mandataire, sont constituées de
-tous documents de nature à justifier l'objet et le montant des dépenses et des
-recettes et, le cas échéant, le caractère irrécouvrable de ces dernières.
+1° La balance générale des comptes arrêtée à la date de la reddition ;
+
+2° Les états de développement des soldes certifiés par le mandataire conformes à
+la balance générale des comptes ;
+
+3° La situation de trésorerie de la période ;
+
+4° L'état nominatif des impayés par débiteur ;
+
+5° Les pièces justificatives des opérations retracées dans la reddition des
+comptes. Pour les dépenses, ces pièces justificatives, reconnues exactes par le
+mandataire, sont celles prévues dans la liste annexée à l'article D. 1617-19 du
+code général des collectivités territoriales. Pour les recettes, le mandataire
+justifie le cas échéant leur caractère irrécouvrable.

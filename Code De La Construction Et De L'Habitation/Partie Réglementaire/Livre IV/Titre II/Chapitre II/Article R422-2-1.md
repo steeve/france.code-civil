@@ -12,19 +12,21 @@ ci-après :
 
 - les personnes physiques qui ont conclu avec la société un contrat de location
 d'un local à usage d'habitation au plus tard six semaines avant la date de
-l'élection et ont toujours la qualité de locataire de la société ; chaque
-contrat de location ne donne droit qu'à une voix ; le titulaire de plusieurs
-contrats de location ne peut prétendre à plusieurs voix ;
+l'élection et ont toujours la qualité de locataire de la société ;
 
-- les occupants de bonne foi dont le titre de location a été résilié pour défaut
-de paiement du loyer mais qui sont sans dette à l'égard de la société à la date
-de l'élection ;
+- les occupants dont le titre de location a été résilié pour défaut de paiement
+du loyer mais qui sont sans dette à l'égard de la société six semaines avant la
+date de l'élection ;
 
 - les sous-locataires qui ont conclu avec l'une des associations ou centres
-visés aux articles R. 442-8-1 et L. 442-8-4 un contrat de sous-location d'un
+visés aux articles L. 442-8-1 et L. 442-8-4 un contrat de sous-location d'un
 logement de la société au plus tard six semaines avant la date de l'élection ;
-les associations ou centres précités transmettent à l'office la liste de ces
+les associations ou centres précités transmettent à la société la liste de ces
 sous-locataires au plus tard un mois avant la date de l'élection.
+
+Chaque location, occupation ou sous-location ne donne droit qu'à une voix. Le
+titulaire de plusieurs locations, occupations ou sous-locations ne peut
+prétendre à plusieurs voix.
 
 2° Sont éligibles les personnes physiques, âgées de dix-huit ans au minimum et
 ne tombant pas sous le coup des dispositions de l'article L. 423-12, qui sont
