@@ -17,6 +17,8 @@ professionnelle ;
 
 Stage de spécialisation suivant un stage de formation.
 
-Les dérogations font l'objet de décisions individuelles de l'autorité qui a
-agréé les stages ; ces décisions sont prises dans les conditions définies à
-l'article R. 961-2 ci-dessus.
+A moins qu'elles ne relèvent de la compétence du président du conseil régional,
+les dérogations font l'objet de décisions du commissaire de la République du
+département [*autorité compétente*]. Aucune condition de délai minimum n'est
+toutefois opposable aux bénéficiaires de stages âgés de seize ans à vingt-cinq
+ans révolus.

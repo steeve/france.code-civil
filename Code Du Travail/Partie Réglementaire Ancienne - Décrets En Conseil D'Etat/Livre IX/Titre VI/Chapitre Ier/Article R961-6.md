@@ -5,8 +5,10 @@ de demandeur d'emploi [*chômeur*] est déterminée, sur une base mensuelle, dan
 les conditions suivantes :
 
 1. La rémunération due aux travailleurs privés d'emploi ayant exercé une
-activité salariée pendant trois mois est établie sur la base du salaire perçu
-antérieurement.
+activité salariée pendant six mois au cours des douze mois précédant la rupture
+du contrat de travail ou pendant douze mois au cours des vingt-quatre mois qui
+précèdent celle-ci est établie sur la base du salaire perçu antérieurement
+[*durée*].
 
 Elle est calculée selon la durée de travail que fixe l'article L. 212-1 à partir
 de la moyenne des salaires perçus au titre des trois mois de travail qui ont
