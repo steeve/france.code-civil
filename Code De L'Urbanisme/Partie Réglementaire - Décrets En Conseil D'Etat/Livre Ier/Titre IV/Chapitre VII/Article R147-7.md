@@ -7,6 +7,12 @@ publics de coopération intercommunale compétents. Mention en est insérée en
 caractères apparents dans deux journaux à diffusion régionale ou locale dans le
 département.
 
+La commission consultative de l'environnement, lorsqu'elle existe, est consultée
+par le préfet sur les valeurs de l'indice Lden à prendre en compte pour
+déterminer la limite extérieure de la zone C et, le cas échéant, celle de la
+zone B dans le projet susmentionné avant qu'intervienne la décision d'établir ou
+de réviser un plan d'exposition au bruit.
+
 Cette décision fait l'objet d'un affichage pendant un mois dans chacune des
 mairies concernées et, s'il y a lieu, aux sièges des établissements publics de
 coopération intercommunale compétents.

@@ -1,17 +1,21 @@
 Article R147-1
 ----
-La valeur de l'indice psophique représentant le niveau d'exposition totale au
-bruit des avions en chaque point de l'environnement d'un aérodrome est calculée
-à l'aide de la formule ci-après :
+La valeur de l'indice de bruit, Lden, représentant le niveau d'exposition totale
+au bruit des avions en chaque point de l'environnement d'un aérodrome, exprimée
+en décibels (dB), est calculée à l'aide de la formule ci-après :
 
-(formule non reproduite, voir JO du 22 mai 1987 page 5594)
+L den = 10 x 1g 1/24 [12 x 10 L d /10 + 4 x L e + 5/10 + 8 x 10 L n + 10/10]
 
 avec :
 
-n = nombre de mouvements diurnes (6 H - 22 H) ;
+L d = niveau sonore moyen à long terme pondéré A tel que défini dans ISO
+1996-2:1987, déterminé sur l'ensemble des périodes de jour d'une année. La
+période de jour s'étend de 6 heures à 18 heures ;
 
-p = nombre de mouvements nocturnes (22 H - 6 H) ;
+L e = niveau sonore moyen à long terme pondéré A tel que défini dans ISO
+1996-2:1987, déterminé sur l'ensemble des périodes de soirée d'une année. La
+période de soirée s'étend de 18 heures à 22 heures ;
 
-Ni = niveau de bruit en PNdB du i ème avion, entre 6 H et 22 H ;
-
-Nj = niveau de bruit en PNdB du j ème avion, entre 22 H et 6 H.
+L n = niveau sonore moyen à long terme pondéré A tel que défini dans ISO
+1996-2:1987, déterminé sur l'ensemble des périodes de nuit d'une année. La
+période de nuit s'étend de 22 heures à 6 heures le lendemain.
