@@ -10,9 +10,9 @@ Wallis et Futuna ;
 Nouvelle-Calédonie, sous réserve de l'application des dispositions du titre V de
 la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie ;
 
-3° Des membres de l'assemblée de la Polynésie française, sous réserve des
-dispositions de la loi n° 52-117 du 21 octobre 1952 relative à la composition et
-à la formation de l'assemblée de la Polynésie française ;
+3° Des représentants à l'assemblée de la Polynésie française, sous réserve des
+dispositions de la loi organique n° 2004-192 du 27 février 2004 portant statut
+d'autonomie de la Polynésie française ;
 
 4° Des membres de l'assemblée territoriale des îles Wallis et Futuna, sous
 réserve des dispositions de la section III du titre III de la loi n° 61-814 du

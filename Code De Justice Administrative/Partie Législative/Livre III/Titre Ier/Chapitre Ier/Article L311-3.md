@@ -20,8 +20,11 @@ conformément aux articles 72, 110, 111, 112, 115, 116, 165, 195 et 197 de la
 même loi organique ;
 
 4° Les élections à l'assemblée de la Polynésie française, conformément à
-l'article 10 de la loi n° 52-1175 du 21 octobre 1952 relative à la composition
-et à la formation de l'assemblée territoriale de la Polynésie française ;
+l'article 116 de la loi organique n° 2004-192 du 27 février 2004 portant statut
+d'autonomie de la Polynésie française, ainsi que l'élection du président de la
+Polynésie française et les recours concernant la démission d'office des membres
+du gouvernement et des représentants à l'assemblée de la Polynésie française,
+conformément aux articles 82 et 117 de la même loi organique ;
 
 5° Les élections à l'assemblée territoriale de Wallis-et-Futuna, conformément à
 l'article 13-12 de la loi n° 61-814 du 29 juillet 1961 conférant aux îles Wallis

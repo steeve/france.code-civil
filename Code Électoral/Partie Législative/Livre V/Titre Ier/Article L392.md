@@ -3,12 +3,12 @@ Article L392
 Pour l'application des dispositions du chapitre V bis du titre Ier du livre Ier
 :
 
-1° Dans l'article L. 52-8, les sommes de 30 000 F, 1 000 F et 100 000 F sont
-respectivement remplacées par les sommes de 545 000 francs CFP, de 18 180 francs
-CFP et de 1 818 000 francs CFP.
+1° Dans l'article L. 52-8, les sommes de 4 600 euros, 150 euros et 15 000 euros
+sont respectivement remplacées par les sommes de 545 000 francs CFP, de 18 180
+francs CFP et de 1 818 000 francs CFP.
 
-2° Dans l'article L. 52-10, la somme de 20 000 F est remplacée par la somme de
-363 600 francs CFP.
+2° Dans l'article L. 52-10, la somme de 3 000 euros est remplacée par la somme
+de 363 600 francs CFP.
 
 3° Pour la Nouvelle-Calédonie et la Polynésie française, le tableau du deuxième
 alinéa de l'article L. 52-11 est remplacé par le tableau suivant :
@@ -86,3 +86,7 @@ Futuna et aux élections au congrès et aux assemblées de province de
 Nouvelle-Calédonie ou à l'assemblée de la Polynésie française ou à l'assemblée
 territoriale des îles Wallis et Futuna, ne sont pas inclus dans le plafond des
 dépenses électorales fixé par l'article L. 52-11.
+
+7° Par dérogation aux dispositions du deuxième alinéa de l'article L. 52-12, le
+compte de campagne peut également être déposé auprès des services du
+représentant de l'Etat.

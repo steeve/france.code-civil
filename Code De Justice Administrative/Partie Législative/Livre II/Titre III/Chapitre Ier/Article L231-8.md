@@ -9,3 +9,7 @@ administratif ou d'une cour administrative d'appel, peut exercer son option.
 
 A défaut d'option dans le délai mentionné à l'alinéa précédent, il est placé en
 position de disponibilité.
+
+Il en va de même du membre du corps des tribunaux administratifs et des cours
+administratives qui est élu ou nommé à l'une des fonctions ou mandats mentionnés
+au dernier alinéa de l'article L. 231-7.
