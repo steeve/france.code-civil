@@ -1,7 +1,8 @@
 Article R*223-32
 ----
 Les affections médicales et infirmités rendant dangereuse la pratique de la
-chasse, mentionnées à l'article L. 223-20 (4°) sont les suivantes :
+chasse, mentionnées à l'article L. 423-24 (4°) du code de l'environnement sont
+les suivantes :
 
 1° Toute infirmité ou mutilation ne laissant pas la possibilité d'une action de
 tir à tout moment, précise et sûre ;
@@ -18,5 +19,5 @@ d'appréciation de l'objectif du tir et de son environnement ;
 les effets peuvent entraîner les mêmes risques.
 
 Le demandeur peut joindre à la déclaration mentionnée aux articles R. 223-10 et
-R. 223-14 un certificat médical établi à son initiative par un médecin de son
+R. 223-12 un certificat médical établi à son initiative par un médecin de son
 choix.

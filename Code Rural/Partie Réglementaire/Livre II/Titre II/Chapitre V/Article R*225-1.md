@@ -1,6 +1,7 @@
 Article R*225-1
 ----
-Le plan de chasse aux cerfs, daims, mouflons et chevreuils est de droit.
+Le plan de chasse aux cerfs, daims, mouflons, chamois, isards et chevreuils est
+de droit.
 
 Lorsqu'il concerne une autre espèce de gibier, à l'exception du gibier d'eau, et
 qu'il porte sur un département, le plan de chasse est institué par le préfet sur

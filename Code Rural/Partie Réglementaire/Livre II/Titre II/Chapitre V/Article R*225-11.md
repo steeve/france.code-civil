@@ -1,13 +1,14 @@
 Article R*225-11
 ----
-La taxe instituée par l'article L. 225-4 est due par chaque bénéficiaire d'un
-plan de chasse et recouvrée par les régies de recettes créées dans chaque
-département auprès de l'Office national de la chasse et de la faune sauvage.
+La taxe instituée par l'article L. 425-4 du code de l'environnement est due par
+chaque bénéficiaire d'un plan de chasse. Elle est assise sur le nombre maximum
+d'animaux à tirer qui lui a été accordé.
 
-Elle doit être payée par le redevable dans les trois mois qui suivent la
-notification par le préfet de son plan de chasse individuel. Ce délai écoulé, le
-montant de la taxe est majorée de 10 p. 100.
+Elle est liquidée et recouvrée par la fédération départementale des chasseurs.
 
-Chaque année, les régisseurs envoient à l'agent comptable de l'Office national
-de la chasse et de la faune sauvage, avant le 1er décembre, un état indiquant le
-montant des taxes à acquitter et acquittées par chaque bénéficiaire.
+La remise des dispositifs de marquage est subordonnée au paiement de cette taxe,
+dont le redevable doit s'acquitter au plus tard dans les trois mois qui suivent
+la notification par le préfet de son plan de chasse individuel.
+
+En cas de retard ou de non-paiement de la taxe, il est fait application des
+articles 8 à 10 du décret du 30 octobre 1980 relatif aux taxes parafiscales.

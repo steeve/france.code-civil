@@ -1,9 +1,10 @@
 Article R*223-25
 ----
-La validation départementale du permis de chasser peut être étendue pour la
-durée du visa à tout le territoire national par le paiement de la différence
-entre la redevance cynégétique nationale et la redevance cynégétique
-départementale.
+La validation départementale annuelle du permis de chasser peut être transformée
+en validation nationale annuelle par le paiement de la différence entre la
+redevance cynégétique nationale et la redevance cynégétique départementale.
 
-Ce versement est constaté par l'apposition du timbre spécial de validation
-complémentaire nationale par tout comptable du Trésor.
+Les validations temporaires peuvent être transformées en validations annuelles
+par le paiement de la différence entre le montant de la redevance cynégétique
+perçue pour la validation initiale et le montant de la redevance cynégétique due
+pour la validation annuelle.

@@ -1,15 +1,6 @@
 Article R*223-14
 ----
-Le visa est subordonné à la présentation par le demandeur :
-
-a) De l'attestation d'assurance prévue à l'article L. 223-13 ;
-
-b) Soit, pour une validation départementale, du récépissé de la fédération des
-chasseurs du département du lieu de chasse constatant le versement des
-cotisations statutaires ;
-
-Soit, pour une validation nationale, du récépissé d'une fédération
-départementale des chasseurs constatant le versement des cotisations statutaires
-;
-
-c) D'une déclaration identique à celle prévue à l'article R. 223-10.
+Un duplicata de la validation peut être obtenu par le titulaire du permis de
+chasser auprès du comptable du Trésor qui a reçu le paiement initial des taxes
+et redevances, après paiement de la taxe mentionnée au 2° de l'article L. 423-14
+du code de l'environnement.
