@@ -1,46 +1,51 @@
 Article L5341-2
 ----
-- Dans les deux mois suivant la date de publication du décret prévu à l'article
-L. 5341-1 ci-dessus, une ou plusieurs communes peuvent adresser au représentant
-de l'Etat dans le département une demande de retrait du syndicat d'agglomération
-nouvelle ou de la communauté d'agglomération nouvelle. Dans le même délai et
-selon la même procédure, une ou plusieurs communes limitrophes peuvent demander
-leur admission dans le syndicat ou la communauté d'agglomération nouvelle.
+Dans les six mois suivant la date de publication du décret prévu à l'article L.
+5341-1, un syndicat d'agglomération nouvelle ou une communauté d'agglomération
+nouvelle qui remplit les conditions fixées à l'article L. 5216-1 peut être
+transformé en communauté d'agglomération par décision prise à la majorité des
+deux tiers au moins des membres du comité du syndicat d'agglomération nouvelle
+ou du conseil d'agglomération nouvelle lorsque le syndicat ou la communauté
+exerce les compétences prévues à l'article L. 5216-5. Dans le cas contraire,
+cette transformation peut être décidée à la majorité qualifiée prévue au II de
+l'article L. 5211-5, sur proposition du comité du syndicat d'agglomération
+nouvelle ou du conseil de la communauté d'agglomération nouvelle adressée au
+représentant de l'Etat dans le département lorsque les communes font partie du
+même département ou aux représentants de l'Etat dans les départements concernés
+dans le cas contraire. Le conseil municipal de chaque commune membre dispose
+d'un délai de trois mois, à compter de la notification au maire de la commune de
+la délibération du comité du syndicat d'agglomération nouvelle ou du conseil de
+la communauté d'agglomération nouvelle par le ou les représentants de l'Etat
+dans le ou les départements concernés, pour se prononcer sur cette proposition.
+A défaut de cette délibération dans ce délai, sa décision est réputée favorable.
 
-Le comité du syndicat d'agglomération nouvelle ou le conseil d'agglomération
-ainsi que les conseils municipaux des communes membres du syndicat ou de la
-communauté disposent d'un délai de six mois courant à compter de la même date
-pour se prononcer sur le retrait ou l'admission et sur leurs conditions
-financières et patrimoniales.
+La transformation du syndicat d'agglomération nouvelle ou de la communauté
+d'agglomération nouvelle est prononcée par arrêté du représentant de l'Etat dans
+le département ou par arrêté conjoint des représentants de l'Etat dans les
+départements concernés. La transformation n'entraîne pas création d'une nouvelle
+personne morale. Cette transformation est sans effet sur les compétences
+exercées au lieu et place des communes à la date de la transformation, ou en
+leur nom par voie de convention à la même date, et qui ne sont pas visées au I
+et au II de l'article L. 5216-5. L'ensemble des biens, droits et obligations du
+syndicat d'agglomération nouvelle ou de la communauté d'agglomération nouvelle
+est transféré à la communauté d'agglomération, qui est substituée de plein droit
+au syndicat d'agglomération nouvelle ou à la communauté d'agglomération nouvelle
+dans toutes les délibérations et tous les actes de ce dernier à la date de
+l'arrêté de transformation. L'ensemble des personnels du syndicat
+d'agglomération nouvelle ou de la communauté d'agglomération nouvelle est réputé
+relever de la communauté d'agglomération dans les conditions de statut et
+d'emploi qui sont les siennes. Sans préjudice des dispositions des articles L.
+2121-33 et L. 2122-10, les délégués des communes au comité du syndicat
+d'agglomération nouvelle ou au conseil de la communauté d'agglomération nouvelle
+conservent leur mandat, pour la durée de celui-ci restant à courir, à l'organe
+délibérant de la communauté d'agglomération.
 
-Si le comité du syndicat d'agglomération ainsi que les deux tiers des conseils
-municipaux des communes membres représentant plus des trois quarts de la
-population ou les trois quarts des conseils municipaux représentant plus des
-deux tiers de la population ont donné leur accord, le retrait ou l'admission est
-constaté par le représentant de l'Etat dans le département.
+En cas de rejet de la proposition du comité du syndicat d'agglomération nouvelle
+ou du conseil de la communauté d'agglomération nouvelle, le syndicat ou la
+communauté d'agglomération nouvelle continue d'être régi par les dispositions du
+titre III du présent livre.
 
-Par le même acte, le représentant de l'Etat dans le département peut modifier
-les limites territoriales des communes avec l'accord des conseils municipaux de
-ces communes ainsi que du comité du syndicat ou du conseil d'agglomération.
-
-Si la modification des limites territoriales des communes affecte celles des
-cantons, cette modification ainsi que la décision de retrait ou d'admission sont
-prises par décret en Conseil d'Etat.
-
-A l'issue de la procédure de retrait ou d'admission ou, à défaut, à l'expiration
-du délai mentionné au premier alinéa, le syndicat d'agglomération nouvelle ou la
-communauté d'agglomération nouvelle prend la dénomination de syndicat
-d'agglomération ou de communauté d'agglomération.
-
-Les conseils municipaux des communes membres du syndicat d'agglomération ou de
-la communauté d'agglomération peuvent, à la majorité des deux tiers de ceux-ci,
-représentant plus de la moitié de la population ou la moitié des conseils
-municipaux représentant plus des deux tiers de la population, opter pour la
-transformation du syndicat d'agglomération en communauté d'agglomération ou pour
-la transformation de la communauté d'agglomération en syndicat d'agglomération.
-
-Cette option peut être exercée soit dans un délai de trois mois à compter de la
-décision de retrait ou d'admission ou, si le représentant de l'Etat dans le
-département n'a pas été saisi d'une telle demande, dans un délai d'un an à
-compter de la publication du décret prévu à l'article L. 5341-1, soit dans un
-délai de trois mois suivant un renouvellement général des conseils municipaux.
+Le périmètre d'urbanisation prévu à l'article L. 5311-2 est abrogé, par arrêté
+du représentant de l'Etat dans le département, à la date de transformation du
+syndicat d'agglomération nouvelle ou de la communauté d'agglomération nouvelle
+en communauté d'agglomération.

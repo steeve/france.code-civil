@@ -11,9 +11,9 @@ communes et la dotation forfaitaire prévue à l'article L. 2334-7.
 Avant la répartition de la dotation, il est procédé au prélèvement des sommes
 dues en application des dispositions de l'article L. 2334-9.
 
-Après prélèvement de la dotation des groupements de communes, dont le montant
-est fixé dans les conditions déterminées à l'article L. 5211-32, et de la
-quote-part destinée aux communes d'outre-mer, le solde de la dotation
+Après prélèvement de la part de la dotation d'intercommunalité prélevée sur la
+dotation d'aménagement dans les conditions fixées à l'article L. 5211-28, et de
+la quote-part destinée aux communes d'outre-mer, le solde de la dotation
 d'aménagement est réparti entre la dotation de solidarité urbaine et la dotation
 de solidarité rurale.
 

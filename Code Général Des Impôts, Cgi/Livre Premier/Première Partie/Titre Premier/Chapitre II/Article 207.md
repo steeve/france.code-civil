@@ -71,10 +71,10 @@ b) Des prêts à leurs filiales et aux organismes mentionnés au 4°. Le taux de
 rémunération de ces prêts ne doit pas excéder celui prévu au 3° du 1 de
 l'article 39.
 
-((c) Des avances remboursables ne portant pas intérêt prévues par l'article R.
+c) Des avances remboursables ne portant pas intérêt prévues par l'article R.
 317-1 du code de la construction et de l'habitation. La fraction du bénéfice net
 provenant des avances accordées à compter du 1er janvier 2001 est soumise à
-l'impôt sur les sociétés.)) (M)
+l'impôt sur les sociétés (1).
 
 5° Les bénéfices réalisés par des associations sans but lucratif régies par la
 loi du 1er juillet 1901 organisant, avec le concours des communes ou des
@@ -88,11 +88,12 @@ les opérations à raison desquelles ils sont exonérés de la taxe sur la valeu
 ajoutée ;
 
 6° Les régions et les ententes interrégionales, les départements et les ententes
-interdépartementales, les communes, syndicats de communes et syndicats mixtes
-constitués exclusivement de collectivités territoriales ou de groupements de ces
-collectivités (1) ainsi que leurs régies de services publics ;
+interdépartementales, les communes, ((les établissements publics de coopération
+intercommunale à fiscalité propre)) (M) syndicats de communes et syndicats
+mixtes constitués exclusivement de collectivités territoriales ou de groupements
+de ces collectivités (2) ainsi que leurs régies de services publics ;
 
-6° bis. Dans les conditions fixées par décret (2), les établissements publics et
+6° bis. Dans les conditions fixées par décret (3), les établissements publics et
 sociétés d'économie mixte concessionnaires d'opérations d'aménagement, en
 application du deuxième alinéa de l'article L. 300-4 du code de l'urbanisme,
 pour les résultats provenant des opérations réalisées dans le cadre des
@@ -149,9 +150,13 @@ n'utilise pas le travail, mais qui entendent contribuer par l'apport de capitaux
 
 3. (Abrogé).
 
-(M) Modification de la loi. [*Cf. Instruction 1997-10-22 4H-6-97.*]
+(1) Les conditions prévues aux a et b s'appliquent aux opérations réalisées à
+compter du 1er juillet 1993. Les conditions prévues au c s'appliquent aux
+opérations réalisées à compter du 1er octobre 1995.
 
-(1) Ces dispositions s'appliquent aux exercices ouverts à compter du 1er juillet
+(M) Modification.
+
+(2) Ces dispositions s'appliquent aux exercices ouverts à compter du 1er juillet
 1995.
 
-(2) Annexe III, art. 46 bis et 46 ter.
+(3) Annexe III, art. 46 bis et 46 ter.

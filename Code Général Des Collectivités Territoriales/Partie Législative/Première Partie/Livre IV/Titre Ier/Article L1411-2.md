@@ -1,18 +1,18 @@
 Article L1411-2
 ----
-- Les conventions de délégation de service public doivent être limitées dans
-leur durée. Celle-ci est déterminée par la collectivité en fonction des
-prestations demandées au délégataire. Lorsque les installations sont à la charge
-du délégataire, la convention de délégation tient compte, pour la détermination
-de sa durée, de la nature et du montant de l'investissement à réaliser et ne
-peut dans ce cas dépasser la durée normale d'amortissement des installations
-mises en oeuvre. Dans le domaine de l'eau potable, de l'assainissement, des
-ordures ménagères et autres déchets, les délégations de service public ne
-peuvent avoir une durée supérieure à vingt ans sauf examen préalable par le
-trésorier-payeur général, à l'initiative de l'autorité délégante, des
-justificatifs de dépassement de cette durée. Les conclusions de cet examen sont
-communiquées aux membres de l'assemblée délibérante compétente avant toute
-délibération relative à la délégation.
+Les conventions de délégation de service public doivent être limitées dans leur
+durée. Celle-ci est déterminée par la collectivité en fonction des prestations
+demandées au délégataire. Lorsque les installations sont à la charge du
+délégataire, la convention de délégation tient compte, pour la détermination de
+sa durée, de la nature et du montant de l'investissement à réaliser et ne peut
+dans ce cas dépasser la durée normale d'amortissement des installations mises en
+oeuvre. Dans le domaine de l'eau potable, de l'assainissement, des ordures
+ménagères et autres déchets, les délégations de service public ne peuvent avoir
+une durée supérieure à vingt ans sauf examen préalable par le trésorier-payeur
+général, à l'initiative de l'autorité délégante, des justificatifs de
+dépassement de cette durée. Les conclusions de cet examen sont communiquées aux
+membres de l'assemblée délibérante compétente avant toute délibération relative
+à la délégation.
 
 Une délégation de service ne peut être prolongée que :
 

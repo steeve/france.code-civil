@@ -1,11 +1,11 @@
 Article L5212-33
 ----
-- Le syndicat est dissous :
+Le syndicat est dissous :
 
 a) Soit de plein droit à l'expiration de la durée fixée par la décision
 institutive ou à l'achèvement de l'opération qu'il avait pour objet de conduire
-ou à la date du transfert à un district, à une communauté de communes, à une
-communauté de villes ou à une communauté urbaine des services en vue desquels il
+ou à la date du transfert à une communauté de communes, à une communauté
+d'agglomération ou à une communauté urbaine des services en vue desquels il
 avait été institué ;
 
 b) Soit par le consentement de tous les conseils municipaux intéressés.
@@ -19,8 +19,9 @@ représentants de l'Etat dans le ou les départements concernés ;
 b) Soit d'office par un décret rendu sur l'avis conforme du conseil général et
 du Conseil d'Etat.
 
-L'arrêté ou le décret de dissolution détermine, sous la réserve des droits des
-tiers, les conditions dans lesquelles le syndicat est liquidé.
+L'arrêté ou le décret de dissolution détermine, dans le respect des dispositions
+de l'article L. 5211-25-1 et sous la réserve des droits des tiers, les
+conditions dans lesquelles le syndicat est liquidé.
 
 La répartition des personnels concernés entre les communes membres est soumise,
 pour avis, aux commissions administratives paritaires compétentes. Elle ne peut

@@ -1,17 +1,17 @@
 Article L2531-14
 ----
-I. - Sous réserve des dispositions du VI, bénéficient, à compter de 1996, d'une
-attribution du fonds destinée à tenir compte de l'insuffisance de leurs
-ressources fiscales au regard des charges particulièrement élevées qu'elles
-supportent :
+I. - Sous réserve des dispositions du VI, bénéficient, à compter du 1er janvier
+2000, d'une attribution du fonds destinée à tenir compte de l'insuffisance de
+leurs ressources fiscales au regard des charges particulièrement élevées
+qu'elles supportent :
 
-1° Les deux premiers cinquièmes des communes de 10 000 habitants et plus
-classées en fonction d'un indice synthétique de ressources et de charges défini
-au II ci-après ;
+1° La première moitié des communes de 10 000 habitants et plus classées en
+fonction d'un indice synthétique de ressources et de charges défini au II
+ci-après ;
 
-2° Le premier dixième des communes dont la population est comprise entre 5 000
-et 9 999 habitants classées en fonction d'un indice synthétique de ressources et
-de charges défini au III ci-après.
+2° Les premiers dix-huit pour cent des communes dont la population est compris
+entre 5 000 et 9 999 habitants classées en fonction d'un indice synthétique de
+ressources et de charges défini au III ci-après.
 
 II. - L'indice synthétique de ressources et de charges mentionné au I pour les
 communes de 10 000 habitants et plus est constitué :
@@ -69,15 +69,18 @@ L'attribution revenant à chaque commune éligible est égale au produit de sa
 population par la valeur de l'indice qui lui est attribué et par celle de son
 effort fiscal, dans la limite de 1,3.
 
-V. - A compter de 1997, les communes qui cessent d'être éligibles au fonds
+V. - A compter de 2000, les communes qui cessent d'être éligibles au fonds
 perçoivent, à titre de garantie non renouvelable, une attribution égale à la
 moitié de celle qu'elles avaient perçue l'année précédente.
 
 Les sommes nécessaires sont prélevées sur les ressources du fonds avant
 application des dispositions du IV.
 
-VI. - Chaque commune bénéficiaire d'une attribution du fonds au titre de 1995
-perçoit 90 p. 100 du montant correspondant en 1996, 60 p. 100 en 1997 et 30 p.
-100 en 1998.
+VI. - Les communes qui n'étaient pas éligibles au fonds de solidarité des
+communes de la région d'Ile-de-France en 1999 au titre de l'indice synthétique
+défini au II et qui le deviennent en 2000, 2001, 2002 et 2003 en application du
+1° ou du 2° du I perçoivent 20 % de leur attribution du fonds en 2000, 40 % en
+2001, 60 % en 2002 et 80 % en 2003.
 
-Les sommes nécessaires sont prélevées sur les ressources du
+A compter de 2004, ces communes perçoivent l'intégralité de leur attribution du
+fonds.
