@@ -8,11 +8,11 @@ déficits constatés au cours d'une année antérieure à celle qui est prise en
 considération.
 
 Les ressources ci-dessus définies font l'objet d'un abattement forfaitaire de
-3.600 F [*montant*] :
+3.686 F [*montant*] :
 
 1°) lorsque les deux conjoints ont exercé une activité professionnelle
 productrice de revenus au cours de l'année civile de référence et que chacun des
-deux revenus correspondants a été au moins égal à 9.296 F ;
+deux revenus correspondants a été au moins égal à 9.852 F ;
 
 2°) lorsqu'une personne seule assume la charge d'un ou de plusieurs enfants ou
 d'une ou plusieurs personnes au sens de l'article L. 542-1 du présent code.

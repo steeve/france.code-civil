@@ -9,10 +9,10 @@ dans laquelle
 
 1°) AL représente le montant de l'allocation de logement ;
 
-2°) K représente le coefficient de prise en charge, déterminé d'après la formule
+2°) K représente le coefficient de prise en charge déterminé d'après la formule
 :
 
-K égal 0,9 - R / 177.925 x N
+K égal 0,9 - R / 182.195 x N
 
 dans laquelle
 
@@ -40,13 +40,13 @@ Le loyer minimum annuel est obtenu par l'application aux ressources annuelles
 nettes du foyer définies aux articles D. 755-15 et D. 755-16 des pourcentages
 suivants :
 
-0 p. 100 pour la tranche de ressources inférieure ou égale à 6 675 F ;
+0 p. 100 pour la tranche de ressources inférieure ou égale à 9 500 F ;
 
-15 p. 100 pour la tranche de ressources comprise entre 6 675 F et 13 350 F ;
+15 p. 100 pour la tranche de ressources comprise entre 9 500 F et 13 671 F ;
 
-26 p. 100 pour la tranche de ressources comprise entre 13 350 F et 26 700 F ;
+26 p. 100 pour la tranche de ressources comprise entre 13 671 F et 27 342 F ;
 
-36 p. 100 pour la tranche de ressources supérieure à 26 700 F.
+36 p. 100 pour la tranche de ressources supérieure à 27 342 F.
 
 Les limites inférieures et supérieures de chacune de ces tranches sont affectées
 des coefficients ou nombres de parts ci-après :
@@ -65,5 +65,7 @@ des coefficients ou nombres de parts ci-après :
 
 3,1 pour un ménage ou une personne avec six enfants ou personnes à charge et
 plus.
+
+Le loyer minimum ainsi obtenu est majoré d'un montant égal à 400 F.
 
 Le loyer minimum rapporté à son montant mensuel est arrondi au franc inférieur.
