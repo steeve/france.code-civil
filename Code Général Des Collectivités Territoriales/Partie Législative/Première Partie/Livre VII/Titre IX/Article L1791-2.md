@@ -9,7 +9,7 @@ conseil général en 2007 :
 1111-7 ;
 
 3° L'article L. 1722-1 en tant qu'il rend applicable à Mayotte l'article L.
-1112-1 ;
+1114-1 ;
 
 4° L'article L. 1751-1 en tant qu'il rend applicables à Mayotte les articles L.
 1411-9 et L. 1411-18 ;
