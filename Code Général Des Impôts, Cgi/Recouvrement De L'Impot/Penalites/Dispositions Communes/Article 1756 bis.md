@@ -1,6 +1,6 @@
 Article 1756 bis
 ----
-Nonobstant toutes dispositions contraires, mais sans préjudice des règles
+I. Nonobstant toutes dispositions contraires, mais sans préjudice des règles
 particulières concernant les caisses d'épargne, les entreprises, établissements
 ou organismes qui reçoivent du public, sous forme de dépôt ou autrement, des
 fonds remboursables à vue ou à moins de trois ans ne peuvent, sans contrevenir à
@@ -20,5 +20,10 @@ amende puisse être inférieure à 500 F [*montant minimum*].
 Un décret pris sur le rapport du ministre de l'économie et des finances fixe les
 modalités d'application du présent article, et notamment les conditions dans
 lesquelles seront constatées et poursuivies les infractions (1).
+
+II. Les dispositions du I s'appliquent, quels que soient les entreprises,
+établissements ou organismes dépositaires, au régime de l'épargne populaire créé
+par la loi n° 82-357 du 27 avril 1982 portant création d'un régime d'épargne
+populaire.
 
 (1) Annexe III, art. 406 A 16 A à 406 A 16 F.
