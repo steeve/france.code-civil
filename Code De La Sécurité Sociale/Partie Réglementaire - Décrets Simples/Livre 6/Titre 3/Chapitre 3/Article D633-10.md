@@ -13,15 +13,3 @@ Dans le cas contraire, la différence est imputée sur les sommes dues au titre 
 la première fraction semestrielle de ladite cotisation provisionnelle et, le cas
 échéant, de la seconde fraction, le solde éventuel étant remboursé directement à
 l'assuré avant le 30 septembre.
-
-En outre, lorsque le revenu professionnel de l'année de début d'exercice est
-inférieur au revenu forfaitaire prévu aux premier ou deuxième alinéas de
-l'article D. 633-6, il peut être procédé à la régularisation correspondante de
-l'assiette de la cotisation de ladite année sur demande formulée avant la date
-limite d'exigibilité de la première fraction semestrielle de la cotisation
-provisionnelle de la troisième année d'exercice.
-
-La cotisation provisionnelle relative à la première année d'exercice, mentionnée
-au deuxième alinéa de l'article D. 633-6, fait l'objet, le cas échéant, d'une
-régularisation dans la limite maximum de l'assiette forfaitaire prévue au
-premier alinéa du même article.

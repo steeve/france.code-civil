@@ -2,8 +2,10 @@ Article D612-6
 ----
 Les personnes qui commencent l'exercice d'une activité professionnelle non
 salariée non agricole les assujettissant au régime institué par le présent titre
-sont redevables de la cotisation minimale établie conformément aux dispositions
-de l'article D. 612-5.
+sont redevables d'une cotisation minimale calculée, au titre de la première
+année civile d'exercice, sur le revenu mentionné au premier alinéa de l'article
+R. 242-16 et, au titre de la deuxième année civile d'exercice, sur celui
+mentionné au deuxième alinéa dudit article.
 
 Pour l'application de l'alinéa précédent, ne sont assimilées à des débuts
 d'activités ni les modifications des conditions d'exercice de l'activité

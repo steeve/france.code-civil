@@ -1,25 +1,20 @@
 Article R313-16
 ----
-Dans les régions et les départements où il n'estime pas nécessaire, pour la
-bonne exécution des actions dont il est chargé, de les mettre lui-même en
-oeuvre, le centre peut, par des conventions approuvées par le ministre de
-l'agriculture, confier la responsabilité de l'exécution à l'échelon local de
-certaines de ces actions à des organismes ou, le cas échéant, à des services
-spécialement constitués à cet effet par des organisations, syndicats et
-établissements professionnels et familiaux agricoles et ruraux ; ces organismes
-et services devront avoir été agréés sur proposition du centre par le ministre
-de l'agriculture, après approbation, s'ils relèvent du droit privé, de leur
-statuts et, dans le cas contraire, de leur organisation.
+Le centre peut en outre se voir confier par les ministres chargés de
+l'agriculture, de la formation professionnelle et de l'emploi des missions
+particulières connexes aux actions mentionnées aux articles R. 313-14 et R.
+313-15.
 
-Ces organismes et services devront s'engager notamment à se conformer pour
-l'exécution de ces actions aux instructions du centre, à observer et à faire
-observer par leurs agents les obligations inhérentes au service public, à tenir
-compte, sans distinction d'origine, des besoins de tous les intéressés, à
-subordonner le recrutement d'un personnel rémunéré à l'absence d'opposition du
-centre, à modifier leurs statuts au cas où une évolution de la réglementation
-rendrait cette modification nécessaire, à se soumettre, en ce qui concerne
-l'exécution du service public, à tout contrôle administratif et financier. Sauf
-dispositions contraires d'un arrêté concerté du ministre de l'agriculture et du
-ministre chargé du budget, lesdits organismes et services ne pourront pas
-procéder au paiement direct aux agriculteurs des aides provenant des subventions
-de l'Etat.
+Dans les domaines définis par ces articles, il peut également, pour la gestion,
+le suivi et/ou le contrôle de programmes d'aide locaux, nationaux ou
+communautaires, ainsi que pour la mise au point d'outils techniques ou
+informatiques nécessaires à l'exécution de telles missions, apporter son
+concours à d'autres administrations de l'Etat, à des collectivités
+territoriales, à d'autres établissements publics ou, si les prestations
+demandées présentent un caractère d'intérêt général, à des personnes privées
+chargées d'une mission de service public.
+
+Il peut, pour l'exercice de ses missions légales, créer des filiales ou
+participer à des groupements d'intérêt public ou d'intérêt économique, après
+accord des ministres chargés de l'agriculture, de la formation professionnelle,
+de l'emploi et du budget.

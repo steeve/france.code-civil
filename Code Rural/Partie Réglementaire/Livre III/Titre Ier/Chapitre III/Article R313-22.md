@@ -1,17 +1,13 @@
 Article R313-22
 ----
-Le conseil d'administration se réunit sur la convocation de son président aussi
-souvent qu'il est nécessaire.
+Le président du conseil d'administration, les membres autres que ceux
+représentant les ministres, ainsi que les personnalités sont nommés pour une
+durée de trois ans.
 
-La convocation du conseil d'administration est de droit si elle est demandée par
-la moitié au moins de ses membres ou par le ministre de l'agriculture.
-
-Le conseil d'administration ne peut valablement délibérer que si le nombre des
-membres présents est supérieur à la moitié du nombre des membres en exercice ;
-les décisions sont prises à la majorité des voix des membres présents, la voix
-du président étant prépondérante en cas de partage.
-
-Le conseil d'administration délibère sur les questions qui lui sont soumises par
-le président.
-
-Le président fixe l'ordre du jour après avis du directeur général.
+Lorsque le conseil d'administration a perdu l'un de ses membres, par suite de
+décès, de démission ou pour toute autre cause, ou lorsqu'un membre cesse en
+cours de mandat d'exercer les fonctions en raison desquelles il a été nommé, il
+est pourvu à son remplacement dans un délai de trois mois. Le nouveau membre,
+s'il remplace un membre du conseil nommé pour une durée déterminée, reste en
+fonctions jusqu'à la date d'expiration normale du mandat de celui qu'il
+remplace.
