@@ -10,7 +10,11 @@ Toutefois, lorsque la convention nationale prévoit que certains médecins peuve
 choisir de pratiquer des tarifs différents de ceux qu'elle fixe [*hors
 convention*], ces médecins prennent en charge les cotisations des caisses
 d'assurance maladie mentionnées à l'alinéa précédent ainsi que la part de la
-cotisation mentionnée à l'article L. 162-8-1.
+cotisation mentionnée à l'article L. 162-8-1. Il en est de même des praticiens
+et auxiliaires médicaux pour lesquels les caisses décident, dans les conditions
+prévues par les conventions mentionnées aux articles L. 162-5, L. 162-9, L.
+162-12-2 et L. 162-14-1, de suspendre le versement qui leur incombe en
+application de l'alinéa précédent.
 
 Les cotisations dues sur les avantages de retraite sont précomptées lors de
 chaque versement par l'organisme qui paie ces avantages. Un décret détermine les
@@ -22,3 +26,7 @@ Un arrêté interministériel fixe le taux et les modalités du versement de la
 cotisation à la charge du régime général d'assurance maladie, des régimes
 d'assurance maladie des professions agricoles et du régime d'assurance maladie
 et maternité des travailleurs non-salariés des professions non-agricoles.
+
+Les taux des cotisations prévus au premier alinéa peuvent être modulés pour
+tenir compte des bénéficiaires du présent chapitre, autorisés à pratiquer des
+honoraires majorés en application du 8° de l'article L. 162-5.

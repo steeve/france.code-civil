@@ -1,35 +1,23 @@
 Article L162-6
 ----
-La ou les conventions [*avec les médecins - contenu*] prévue à l'article L.
-162-5 :
+La ou les conventions, leurs annexes ou avenants n'entrent en vigueur, lors de
+leur conclusion ou lors d'une tacite reconduction, qu'après approbation par
+arrêté interministériel. Le Conseil national de l'ordre des médecins est, avant
+l'approbation, consulté sur les dispositions conventionnelles relatives à la
+déontologie médicale.
 
-1°) détermine les obligations des caisses primaires d'assurance maladie et des
-médecins ;
+Dès leur approbation, la ou les conventions nationales sont applicables à
+l'ensemble des médecins concernés.
 
-2°) fixe les tarifs des honoraires et frais accessoires dus aux médecins par les
-assurés sociaux en dehors des cas de dépassement autorisés par la convention.
+Toutefois, ses dispositions ne sont pas applicables :
 
-3° fixe, le cas échéant, les modalités de financement des actions de formation
-continue des médecins et l'indemnisation ou la rémunération des médecins qui y
-participent, ainsi que les modalités de financement des programmes d'évaluation
-de la pratique médicale et des expérimentations.
+1° Aux médecins qui, dans les conditions déterminées par la convention, ont fait
+connaître à la caisse primaire d'assurance maladie qu'ils n'acceptent pas d'être
+régis par ces dispositions ;
 
-Elle n'entre en vigueur, lors de sa conclusion ou lors d'une tacite
-reconduction, qu'après approbation par arrêté interministériel ; il en est de
-même de ses annexes ou avenants. Dès son approbation, la ou les conventions est,
-sous réserve des dispositions du 1° ci-dessous, applicable à l'ensemble des
-médecins. Avant l'approbation de la ou les conventions nationales, le conseil de
-l'ordre national des médecins est consulté sur les dispositions de ladite
-convention relatives à la déontologie médicale.
-
-Les dispositions de cette convention ne sont pas applicables :
-
-1°) aux médecins [*non conventionnés*] qui, dans les conditions déterminées par
-la ou les conventions, ont fait connaître à la caisse primaire d'assurance
-maladie qu'ils n'acceptent pas d'être régis par ces dispositions ;
-
-2°) aux médecins que la caisse primaire d'assurance maladie a décidé de placer
-hors de la ou les conventions pour violation des engagements prévus par celle-ci
-; cette décision doit être prononcée selon des conditions prévues par la ou les
-conventions ; elle ne fait pas obstacle à l'application éventuelle des
-dispositions du chapitre 5 du titre IV du présent livre.
+2° Aux médecins que la caisse primaire d'assurance maladie a décidé de placer
+hors de la convention pour violation des engagements prévus par celle-ci ; cette
+décision doit être prononcée selon des conditions prévues par la convention,
+leur permettant notamment de présenter leurs observations ; elle ne fait pas
+obstacle à l'application éventuelle des dispositions de l'article L. 133-4 et du
+chapitre V du titre IV du présent livre.

@@ -5,10 +5,10 @@ institué par le présent chapitre bénéficient à l'occasion de leurs maternit
 d'une allocation forfaitaire de repos maternel destinée à compenser
 partiellement la diminution de leur activité.
 
-Lorsqu'elles font appel à du personnel salarié pour se faire remplacer dans les
-travaux, professionnels ou ménagers, qu'elles effectuent habituellement, cette
-indemnité est complétée d'une indemnité de remplacement proportionnelle à la
-durée et au coût de celui-ci.
+Lorsqu'elles font appel à un confrère ou à du personnel pour se faire remplacer
+dans les travaux, professionnels ou ménagers, qu'elles effectuent
+habituellement, cette indemnité est complétée d'une indemnité de remplacement
+proportionnelle à la durée et au coût de celui-ci.
 
 Les conjointes de membres des professions libérales relevant du régime
 d'assurance obligatoire institué par le présent chapitre qui remplissent les
