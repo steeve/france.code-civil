@@ -8,3 +8,7 @@ concerne les membres du conseil d'administration.
 Toutefois, l'interdiction édictée par cet article à l'égard des fonctionnaires
 en activité de service ne s'étend pas aux représentants des établissements
 mentionnés à l'article R. 432-2.
+
+La responsabilité des membres du conseil d'administration représentant les
+salariés est appréciée dans les conditions définies à l'article 22 de la loi n°
+83-675 du 26 juillet 1983 relative à la démocratisation du secteur public.

@@ -1,9 +1,10 @@
 Article R*432-12
 ----
-La compagnie française d'assurance pour le commerce extérieur est soumise aux
-dispositions du code de commerce et des lois en vigueur sur les sociétés
-anonymes, ainsi qu'aux lois et règlements concernant les entreprises d'assurance
-dans la mesure où il n'y est pas dérogé par le présent chapitre.
+La Compagnie française d'assurance pour le commerce extérieur est soumise aux
+dispositions du code du commerce, des lois en vigueur sur les sociétés anonymes
+et de la loi relative à la démocratisation du secteur public, ainsi qu'aux lois
+et règlements concernant les entreprises d'assurance dans la mesure où il n'y
+est pas dérogé par le présent chapitre.
 
 Elle est dispensée des formalités légales de constitution, notamment des
 formalités de publicité.
