@@ -1,7 +1,7 @@
 Article R423-34
 ----
-L'administrateur délégué procède à l'établissement des ordres de recettes, à
-l'engagement, à la liquidation et à l'ordonnancement des dépenses.
+Le président du conseil d'administration procède à l'établissement des ordres de
+recettes, à l'engagement, à la liquidation et à l'ordonnancement des dépenses.
 
 Il est qualifié pour recevoir tous exploits et significations concernant
 l'office autres que ceux mentionnés à l'article R. 423-55.

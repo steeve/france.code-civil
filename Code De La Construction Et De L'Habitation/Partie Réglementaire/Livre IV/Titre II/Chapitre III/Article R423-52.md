@@ -6,4 +6,4 @@ recouvrement des recettes ainsi que l'ordonnancement et le paiement des
 dépenses, sont applicables aux offices publics d'habitations à loyer modéré.
 
 Les titres de recettes et de dépenses sont transmis directement au receveur par
-l'administrateur délégué.
+le président du conseil d'administration.
