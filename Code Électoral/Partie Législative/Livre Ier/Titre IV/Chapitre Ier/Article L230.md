@@ -8,6 +8,6 @@ Ne peuvent être conseillers municipaux :
 
 3° (Abrogé) ;
 
-4° Pour une durée d'un an, le maire qui n'a pas déposé l'une des déclarations
-prévues à l'article 2 de la loi n° 88-227 du 11 mars 1988 relative à la
-transparence financière de la vie politique.
+4° Pour une durée d'un an, le maire ou l'adjoint au maire visé au deuxième
+alinéa de l'article 2 de la loi n° 88-227 du 11 mars 1988 précitée, qui n'a pas
+déposé l'une des déclarations prévues par ce même article.

@@ -87,6 +87,7 @@ Les délais mentionnés aux troisième (2°) à vingtième (19°) alinéas ci-de
 sont pas opposables aux candidats qui, au jour de l'élection, auront été admis à
 faire valoir leurs droits à la retraite.
 
-Est également inéligible, pendant un an, le président de conseil général qui n'a
-pas déposé l'une des déclarations prévues à l'article 2 de la loi n° 88-227 du
-11 mars 1988 relative à la transparence financière de la vie politique.
+" Sont également inéligibles, pendant un an, le président du conseil général ou
+le conseiller général visé au deuxième alinéa de l'article 2 de la loi n° 88-227
+du 11 mars 1988 relative à la transparence financière de la vie politique, qui
+n'a pas déposé l'une des déclarations prévues par ce même article. "
