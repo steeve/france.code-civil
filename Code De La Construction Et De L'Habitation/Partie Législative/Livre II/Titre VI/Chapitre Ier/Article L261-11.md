@@ -1,6 +1,6 @@
 Article L261-11
 ----
-Le contrat doit être conclu par acte authentique et préciser [*contenu*] :
+Le contrat doit être conclu par acte authentique et préciser :
 
 a) La description de l'immeuble ou de la partie d'immeuble vendu ;
 
@@ -39,5 +39,5 @@ contrat. Cette nullité ne peut être invoquée que par l'acquéreur et avant
 l'achèvement des travaux.
 
 Lorsque la vente a été précédée d'un contrat préliminaire prévu à l'article L.
-261-15, seul le contrat de vente est soumis aux dispositions des articles 16 à
-18 de la loi n° 79-596 du 13 juillet 1979.
+261-15, seul le contrat de vente est soumis aux dispositions des articles L.
+312-15 à L. 312-17 du code de la consommation.

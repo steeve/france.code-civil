@@ -8,5 +8,6 @@ et droits indirects.
 
 2. Ces arrêtés peuvent, dans l'intérêt du commerce d'exportation ou de
 réexportation, déroger aux interdictions prévues par des lois spéciales. Les
-dérogations à la loi du 1er août 1905 ne peuvent toutefois porter que sur les
-mesures édictées en vertu de l'article 11 de cette loi.
+dérogations aux articles L. 213-1 à L. 216-1 du code de la consommation ne
+peuvent toutefois porter que sur les mesures édictées en vertu des articles L.
+214-1, L. 215-4 et L. 215-1.
