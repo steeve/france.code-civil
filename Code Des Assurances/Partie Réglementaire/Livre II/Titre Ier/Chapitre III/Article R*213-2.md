@@ -5,4 +5,4 @@ ou fraction de prime ou de cotisation d'assurance et reversée par l'assureur à
 l'agence centrale des organismes de sécurité sociale sous déduction d'un
 prélèvement destiné à compenser les frais de recouvrement.
 
-Le taux du prélèvement prévu à l'alinéa ci-dessus est fixé à 1 %.
+Le taux du prélèvement prévu à l'alinéa ci-dessus est fixé à 0,8 %.
