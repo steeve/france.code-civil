@@ -1,7 +1,9 @@
 Article R*510-6
 ----
-I. - Sont dispensées de l'agrément les opérations, autres que celles visées au
-1° de l'article R. 510-2, qui répondent à l'une des conditions suivantes :
+I. - Sont dispensées de l'agrément les opérations, autres que réalisées par un
+service de l'Etat ou par une personne publique ou privée soumise à son contrôle
+et dont l'activité ne s'exerce pas dans le secteur concurrentiel, qui répondent
+à l'une des conditions suivantes :
 
 1. Lorsqu'elles sont situées :
 
@@ -74,9 +76,11 @@ Magny-en-Vexin.
 
 - de magasin de vente ;
 
-- industriel par un utilisateur déterminé.
+- industriel par un utilisateur déterminé ;
 
-- de salles de spectacles cinématographiques.
+- de salles de spectacles cinématographiques ;
+
+- d'équipement hospitalier ;
 
 3. Lorsque ces opérations portent sur la reconstruction ou la réhabilitation de
 bureaux sans extension de surface.
@@ -85,21 +89,26 @@ bureaux sans extension de surface.
 site au cours des douze mois précédents portent sur une superficie hors oeuvre
 nette inférieure à :
 
-1 000 mètres carrés pour les locaux destinés à un usage technique, scientifique,
-industriel sans utilisateur déterminé, d'enseignement ou de bureaux ;
+- 1 000 mètres carrés pour la construction de locaux destinés à un usage
+technique, scientifique, d'enseignement ou de bureaux ;
 
-3 000 mètres carrés pour les locaux destinés à un usage d'entrepôt.
+- 5 000 mètres carrés pour la construction de locaux destinés à un usage
+industriel sans utilisateur déterminé ou à un usage d'entrepôt.
 
-5. Lorsqu'elles portent sur l'utilisation de bureaux et de leurs annexes de
-toute nature achevés à la date du 31 décembre 1994 ou dont la déclaration
-d'ouverture de chantier prévue à l'article R. 421-40 a été déposée en mairie au
-plus tard à cette même date. La présente disposition n'est applicable qu'aux
-opérations d'utilisation pour lesquelles les actes juridiques dont l'utilisation
-dépend sont définitivement passés au plus tard le 31 décembre 1999.
+5. Lorsqu'elles portent sur le changement d'utilisateur ou d'utilisation de
+locaux, quelle que soit leur nature.
 
 6. Lorsqu'elles portent sur des locaux d'internat à usage scolaire ou sur des
 résidences universitaires.
 
-II. - Les opérations visées au 1° de l'article R. 510-2 ne sont dispensées
-d'agrément que si elles portent sur une surface hors oeuvre nette inférieure à
-200 mètres carrés.
+II. - Les opérations réalisées par un service de l'Etat ou par une personne
+publique ou privée soumise à son contrôle et dont l'activité ne s'exerce pas
+dans le secteur concurrentiel sont dispensées d'agrément si elles répondent à
+l'une des conditions suivantes :
+
+1. Lorsqu'elles portent sur une surface hors oeuvre nette inférieure à 200
+mètres carrés ;
+
+2. Lorsqu'elles concernent des locaux des services déconcentrés de l'Etat à
+compétence départementale ou des locaux de services dont les activités ne
+s'exercent pas au-delà du département d'implantation.
