@@ -9,8 +9,4 @@ versée dans les douze mois qui suivent l'achèvement ou la première occupation
 des immeubles, ou, le cas échéant, lors de la dissolution de la société de
 construction, si celle-ci se produit avant l'expiration de ce délai. Une
 prolongation dudit délai peut être accordée par la direction des services
-fiscaux du lieu de la situation des immeubles (1).
-
-Les redevables qui acquittent l'impôt d'après leurs débits peuvent effectuer le
-paiement en obligations cautionnées. Les conditions et modalités de ce mode de
-paiement sont fixées par décret (2).
+fiscaux du lieu de la situation des immeubles.

@@ -142,7 +142,7 @@ En cas de cessation d'activité de l'établissement exceptionnel ayant donné li
 
 c. A compter du 1er janvier 2002, les dispositions du b sont également
 applicables aux établissements publics de coopération intercommunale mentionnés
-au quatrième alinéa du I quater et faisant application, à compter de cette date,
+au dernier alinéa du I quater et faisant application, à compter de cette date,
 des dispositions du I de l'article 1609 nonies C.
 
 I quater. Pour les communautés de communes, lorsque les bases d'imposition d'un
@@ -153,27 +153,14 @@ prélèvement au profit du fonds départemental de péréquation de la taxe
 professionnelle égal au produit du montant des bases excédentaires par le taux
 de taxe professionnelle de la communauté de communes.
 
-Pour les districts créés après la date de promulgation de la loi n° 92-125 du 6
-février 1992 d'orientation relative à l'administration territoriale de la
-République, lorsque les bases d'imposition d'un établissement rapportées au
-nombre d'habitants de la commune sur le territoire de laquelle est situé
-l'établissement excèdent deux fois la moyenne nationale des bases de taxe
-professionnelle par habitant, il est perçu directement un prélèvement au profit
-du fonds départemental de péréquation de la taxe professionnelle égal au produit
-du montant des bases excédentaires par le taux de taxe professionnelle du
-district. Ces dispositions s'appliquent jusqu'au 1er janvier 2002.
-
-Pour les districts créés avant la date de promulgation de la loi n° 92-125 du 6
-février 1992 précitée et jusqu'au 1er janvier 2002, le prélèvement mentionné au
-deuxième alinéa est égal à compter du 1er janvier 2001 au produit du montant des
-bases excédentaires par la différence, lorsqu'elle est positive, entre le taux
-voté par le district l'année précédent l'année considérée et le taux voté en
+Pour les communautés de communes issues, à compter de la date de publication de
+la loi n° 99-586 du 12 juillet 1999 précitée, de districts créés avant la date
+de promulgation de la loi n° 92-125 du 6 février 1992 d'orientation relative à
+l'administration territoriale de la République, le prélèvement mentionné au
+premier alinéa est égal au produit du montant des bases excédentaires par la
+différence, lorsqu'elle est positive, entre le taux voté par la communauté de
+communes l'année précédant l'année considérée et le taux voté par le district en
 1998.
-
-Pour les communautés de communes issues de districts créés avant la date de
-promulgation de la loi n° 92-125 du 6 février 1992 précitée et à compter de la
-date de publication de la loi n° 99-586 du 12 juillet 1999 précitée, le
-troisième alinéa reste applicable.
 
 I quinquies. La moyenne des bases de taxe professionnelle par habitant à retenir
 pour l'application en Corse du I, du 1 et du a du 2 du I ter et du I quater est

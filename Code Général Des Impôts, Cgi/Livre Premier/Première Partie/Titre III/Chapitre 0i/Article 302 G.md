@@ -11,7 +11,7 @@ suspension des droits d'accises ;
 3° Toute personne qui détient des produits mentionnés au 1° qu'elle a reçus ou
 achetés et qui sont destinés à l'expédition ou à la revente par quantités qui,
 pour le même destinataire ou le même acquéreur, sont supérieures aux niveaux
-fixés par décret (1).
+fixés par décret.
 
 II. - La production ou la transformation des produits mentionnés au 1° du I est
 obligatoirement réalisée en suspension des droits d'accises, dans un entrepôt
@@ -30,6 +30,21 @@ document d'accompagnement mentionné au II de l'article 302 M ou sous couvert de
 capsules, empreintes, vignettes ou autres marques fiscales représentatives de
 droits indirects, sous réserve des dispositions du troisième alinéa du II de
 l'article 302 M.
+
+Sont également considérés comme se trouvant en régime suspensif des droits
+d'accises, les alcools, les boissons alcooliques et les tabacs manufacturés
+placés ou destinés à être placés sous l'un des régimes suivants prévus par les
+règlements communautaires en vigueur : magasins et aires de dépôt temporaire,
+entrepôt d'importation, zone franche, entrepôt franc, perfectionnement actif,
+admission temporaire en exonération totale, transformation sous douane et
+transit communautaire externe.
+
+Par dérogation aux dispositions du I, les personnes autorisées par les services
+des douanes et droits indirects à placer des alcools, des boissons alcooliques
+et des tabacs manufacturés sous ces régimes, et qui sont soumises à toutes les
+obligations prévues pour l'application de ces régimes douaniers, n'ont pas à
+prendre la qualité d'entrepositaire agréé et ne sont pas soumises aux
+obligations prévues aux III, IV et V ci-après.
 
 III. - L'entrepositaire agréé tient, par entrepôt fiscal suspensif des droits
 d'accises, une comptabilité matières des productions, transformations, stocks et
@@ -53,11 +68,11 @@ fournit une caution solidaire garantissant le paiement des droits dus. Peuvent
 détention les récoltants dont les sociétés coopératives agricoles et leurs
 unions, ainsi que les brasseurs. Peuvent également être dispensés de caution à
 la circulation les petits récoltants de vin y compris les sociétés coopératives
-agricoles et leurs unions dans les limites et conditions fixées par décret (2).
+agricoles et leurs unions dans les limites et conditions fixées par décret.
 
 En cas de violation par l'entrepositaire de ses obligations, de défaillance de
 la caution ou de dénonciation par cette caution de son engagement,
 l'administration peut retirer l'agrément.
 
 VI. - Un décret en Conseil d'Etat fixe les conditions et modalités d'application
-du présent article (3).
+du présent article.

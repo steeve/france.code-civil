@@ -42,10 +42,7 @@ Chez les entrepositaires agréés qui détiennent des alcools et des boissons
 alcooliques appartenant à des catégories différemment imposées, les manquants
 imposables sont soumis au tarif le plus élevé de la catégorie concernée ;
 
-3° Dans les cas d'utilisation de capsules, empreintes, vignettes ou autres
-marques fiscales représentatives des droits indirects, lors de l'apposition
-desdites capsules, empreintes, vignettes ou autres marques fiscales sur les
-récipients ;
+3° (abrogé)
 
 4° Sans que cela fasse obstacle aux dispositions du 9° de l'article 458 et des
 articles 575 G et 575 H, lors de la constatation de la détention, en France,
@@ -78,9 +75,7 @@ consommation ;
 2° Dans le cas de manquants, par la personne chez laquelle les manquants sont
 constatés ;
 
-3° Dans le cas visé au 3° du 1, par la personne qui appose les capsules,
-empreintes, vignettes ou autres marques fiscales représentatives des droits
-indirects sur les récipients ;
+3° (abrogé)
 
 4° Dans le cas mentionné au 4° du 1, par la personne qui détient ces produits à
 des fins commerciales en France.

@@ -103,9 +103,11 @@ d'assurer un service nécessaire à une activité de commercialisation de biens
 produits par des entreprises ou établissements dont les résultats sont soumis à
 l'impôt sur les sociétés. Toutefois, lorsque l'investissement est réalisé dans
 un Etat membre de la Communauté européenne, la provision est égale aux pertes
-subies au cours des cinq premières années d'exploitation dans la proportion
-définie au deuxième alinéa du I de l'article 39 octies B, et dans la limite de
-la moitié de l'investissement.
+subies au cours des cinq premières années d'exploitation dans la proportion,
+calculée en valeur nominale, des titres de la filiale ouvrant droit à dividendes
+détenus par l'entreprise française sur l'ensemble des titres ouvrant droit à
+dividendes émis par la filiale, et dans la limite de la moitié de
+l'investissement.
 
 Les dispositions du premier alinéa ne sont plus applicables aux investissements
 qui font l'objet d'une demande d'agrément déposée après le 31 décembre 1991.

@@ -146,15 +146,3 @@ VII. - Pour bénéficier de l'exonération prévue au présent article, les pers
 et organismes concernés déclarent, chaque année, dans les conditions prévues par
 l'article 1477, les éléments entrant dans le champ d'application de
 l'exonération.
-
-VIII. - Pour l'application, en 1997, des dispositions du présent article :
-
-1° Les communes et leurs groupements dotés d'une fiscalité propre peuvent
-prendre leur délibération dans le délai de trente jours à compter de la
-publication de la loi n° 96-1143 du 26 décembre 1996 relative à la zone franche
-de Corse ;
-
-2° Les redevables doivent déposer, au plus tard le 31 mars 1997, pour chacun de
-leurs établissements situés en Corse, une déclaration comportant tous les
-éléments utiles à l'appréciation des conditions d'exonération. Cette déclaration
-contient, le cas échéant, l'option prévue au IV.

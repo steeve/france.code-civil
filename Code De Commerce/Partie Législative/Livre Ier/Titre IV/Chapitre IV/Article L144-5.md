@@ -1,6 +1,6 @@
 Article L144-5
 ----
-I. - L'article L. 144-3 n'est pas applicable :
+L'article L. 144-3 n'est pas applicable :
 
 1° A l'Etat ;
 
@@ -18,12 +18,15 @@ mesure de protection légale ou avant la survenance de l'hospitalisation ;
 qu'aux bénéficiaires d'un partage d'ascendant, en ce qui concerne le fonds
 recueilli ;
 
-6° A l'établissement public créé par l'article L. 325-1 du code de l'urbanisme.
+6° A l'établissement public créé par l'article L. 325-1 du code de l'urbanisme ;
 
-II. - Le premier alinéa de l'article L. 144-3 n'est pas applicable :
+7° Au conjoint attributaire du fonds de commerce ou du fonds artisanal à la
+suite de la dissolution du régime matrimonial, lorsque ce conjoint a participé à
+son exploitation pendant au moins deux ans avant la dissolution du régime
+matrimonial ou son partage. ;
 
-1° Au loueur de fonds de commerce, lorsque la location-gérance a pour objet
+8° Au loueur de fonds de commerce, lorsque la location-gérance a pour objet
 principal d'assurer, sous contrat d'exclusivité, l'écoulement au détail des
 produits fabriqués ou distribués par lui-même ;
 
-2° Aux loueurs de fonds de commerce de cinéma, théâtres et music-halls.
+9° Aux loueurs de fonds de commerce de cinéma, théâtres et music-halls.

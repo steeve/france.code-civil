@@ -74,16 +74,16 @@ le taux qu'elle ont voté pour 1995 ou pour l'année d'imposition si la somme de
 leurs taux pour cette même année est inférieure à celle de 1995 ; lorsqu'un
 établissement public de coopération intercommunale à fiscalité additionnelle
 perçoit, pour la première fois à compter de 1996, la taxe professionnelle, en
-application des articles 1609 bis, 1609 quinquies et du I de l'article 1609
-quinquies C, le taux retenu pour le calcul de la part de la cotisation revenant
-au établissement public de coopération intercommunale est égal, dans la limite
-du taux du établissement public de coopération intercommunale pour l'année
-d'imposition, à la différence si elle est positive entre le taux de la commune
-pour 1995 et le taux de cette collectivité pour l'année d'imposition, ou au taux
-de l'établissement public de coopération intercommunale pour l'année
-d'imposition si la somme des taux de la commune et de l'établissement public de
-coopération intercommunale pour cette même année est inférieure au taux de la
-commune pour 1995.
+application de l'article 1609 bis et du I de l'article 1609 quinquies C, le taux
+retenu pour le calcul de la part de la cotisation revenant au établissement
+public de coopération intercommunale est égal, dans la limite du taux du
+établissement public de coopération intercommunale pour l'année d'imposition, à
+la différence si elle est positive entre le taux de la commune pour 1995 et le
+taux de cette collectivité pour l'année d'imposition, ou au taux de
+l'établissement public de coopération intercommunale pour l'année d'imposition
+si la somme des taux de la commune et de l'établissement public de coopération
+intercommunale pour cette même année est inférieure au taux de la commune pour
+1995.
 
 2. Pour l'application du premier alinéa du 1, lorsqu'un établissement public de
 coopération intercommunale perçoit, pour la première fois, à compter de l'année

@@ -2,8 +2,7 @@ Article 1840 G ter
 ----
 I. En cas de défaut de production de la justification prévue au 2° du II du A de
 l'article 1594-0 G, l'acquéreur est tenu d'acquitter, à première réquisition,
-l'imposition dont il avait été exonéré et, en outre, un droit supplémentaire de
-1 %.
+l'imposition dont il avait été exonéré.
 
 II. Les personnes mentionnées aux 1°, 1° bis et 3° du I de l'article 35 ayant
 acquis des biens visés au I du A de l'article 1594-0 G avant le 1er janvier 1993

@@ -65,9 +65,9 @@ dispositions du a.
 
 II. Pour l'application des dispositions du I, le taux de taxe professionnelle de
 la commune doit, lorsque celle-ci appartient également à une communauté urbaine,
-à un district, ou à une communauté de communes, être majoré du taux de taxe
-professionnelle voté par ces établissements publics de coopération
-intercommunale l'année au cours de laquelle le rattachement est décidé.
+ou à une communauté de communes, être majoré du taux de taxe professionnelle
+voté par ces établissements publics de coopération intercommunale l'année au
+cours de laquelle le rattachement est décidé.
 
 II bis. - 1. Toutefois, par exception aux dispositions du I et pour l'année
 suivant celle du rattachement de la commune, l'établissement public de
