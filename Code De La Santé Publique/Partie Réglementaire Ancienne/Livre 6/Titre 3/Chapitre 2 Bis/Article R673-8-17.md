@@ -12,11 +12,7 @@ consulte sur les questions de nature médicale, scientifique, technique ou
 
 2° Les règles de bonnes pratiques ;
 
-3° Les organismes susceptibles d'être autorisés à importer ou exporter les
-tissus, y compris les cornées et les cellules issues du corps humain, à
-l'exclusion de celles qui relèvent du chapitre Ier du titre II du livre IV, en
-considération notamment de leurs conditions techniques de fonctionnement et de
-la qualification de leur personnel ;
+3° [*Abrogé*]
 
 4° L'évaluation scientifique et technique des équipes ayant une activité dans le
 domaine des greffes ;

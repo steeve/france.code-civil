@@ -9,5 +9,5 @@ ce dernier.
 
 Le conseil d'administration donne son avis, par délibération, sur les règles de
 répartition et d'attribution des greffons et sur les règles de bonnes pratiques,
-mentionnées au troisième alinéa du II de l'article L. 673-8, avant leur
-transmission pour homologation au ministre chargé de la santé.
+mentionnées au premier alinéa de l'article L. 673-9-1 avant leur transmission
+pour homologation au ministre chargé de la santé.

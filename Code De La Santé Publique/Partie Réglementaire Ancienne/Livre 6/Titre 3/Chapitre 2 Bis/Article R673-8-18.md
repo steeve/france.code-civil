@@ -1,42 +1,36 @@
 Article R673-8-18
 ----
 Le conseil médical et scientifique de l'Etablissement français des greffes est
-composé de quarante membres, nommés par arrêté du ministre chargé de la santé
-pour une durée de trois ans renouvelable une fois.
+composé de vingt membres nommés pour une durée de trois ans, à savoir :
 
-Le conseil médical et scientifique comprend [*composition*] :
+1° Un expert de l'Institut national de la santé et de la recherche médicale
+désigné par le directeur général de l'institut ;
 
-1° Dix praticiens représentant les activités de greffe d'organes, dont un
-spécialisé dans les greffes pratiquées chez les enfants ;
+2° Un expert de l'Agence nationale de l'accréditation et de l'évaluation en
+santé désigné par le directeur général de l'agence ;
 
-2° Cinq praticiens représentant les activités de greffe de moelle ;
+3° Un expert de l'Agence française de sécurité sanitaire des produits de santé
+désigné par le directeur général de l'agence ;
 
-3° Cinq praticiens représentant les activités de greffe de tissus ;
+4° Dix-sept personnes qualifiées nommées par arrêté du ministre chargé de la
+santé, dont :
 
-4° Deux praticiens représentant les activités de greffe de cornées ;
+a) Onze personnes nommées en raison de leurs compétences dans le domaine des
+prélèvements, de la conservation, de la transformation ou de la greffe
+d'organes, de tissus ou de cellules, dont une sur proposition du ministre chargé
+des armées ;
 
-5° Cinq anesthésistes-réanimateurs ou réanimateurs dont au moins deux exerçant
-dans des établissements exclusivement autorisés à effectuer des prélèvements ;
+b) Deux personnes en raison de leurs compétences en sciences humaines ;
 
-6° Cinq représentants des activités biologiques ;
+c) Deux personnes en raison de leurs compétences en santé publique ou en
+épidémiologie ;
 
-7° Trois représentants des organismes de conservation ;
+d) Une personne en raison de ses compétences en biologie médicale ;
 
-8° Un représentant du personnel infirmier exerçant des activités de coordination
-locale ;
+e) Une personne en raison de son activité en matière d'organisation de la greffe
+dans un Etat membre de l'Union européenne.
 
-9° Trois personnes qualifiées, dont une proposée par le Conseil national de
-l'ordre des médecins et une proposée par le ministre de la défense ;
-
-10° Le médecin-conseil du service médical de la Caisse nationale d'assurance
-maladie ou son représentant.
-
-A l'exception de ceux mentionnés aux 8°, 9° et 10°, les membres du conseil sont
-nommés sur proposition des organisations de praticiens du domaine considéré. La
-liste de ces organisations est définie par arrêté du ministre chargé de la santé
-lors de la constitution et lors de chaque renouvellement général du conseil. Ces
-organisations proposent au ministre deux fois plus de noms qu'il y a de
-praticiens à désigner au titre du ou des domaines considérés.
-
-Les fonctions de membres du conseil médical et scientifique sont gratuites et
-incompatibles avec celles de membres du conseil d'administration.
+Les fonctions de membres du conseil médical et scientifique sont exercées à
+titre gratuit. Elles ouvrent droit aux indemnités pour frais de déplacement et
+de séjour dans les conditions prévues à l'article R. 673-9-8. Elles sont
+incompatibles avec les fonctions de membres du conseil d'administration.
