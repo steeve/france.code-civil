@@ -4,20 +4,21 @@ Les conseils d'administration des caisses mutuelles régionales créées par
 l'article R. 756-1 comprennent respectivement vingt-quatre et dix-huit membres,
 soit :
 
-1°) en qualité de représentants des affiliés :
+1° En qualité de représentants des assurés :
 
-a. dix-huit membres pour la caisse mutuelle régionale de la Guadeloupe, de la
-Guyane et de la Martinique à raison, pour chacun de ces départements, de deux
-représentants des artisans, de deux représentants des industriels et
-commerçants, d'un représentant des professions juridiques ou judiciaires et d'un
-représentant des autres professions libérales ;
+a) Dix-huit membres pour la caisse mutuelle régionale de la Guadeloupe, de la
+Guyane et de la Martinique, à raison de six représentants des artisans dont cinq
+actifs et un retraité, de six représentants des industriels et des commerçants
+dont cinq actifs et un retraité, et de six représentants des professions
+libérales dont cinq actifs et un retraité ;
 
-b. douze membres pour la caisse mutuelle régionale de la Réunion, à raison de
-quatre représentants des artisans, de quatre représentants des industriels et
-commerçants, de deux représentants des professions juridiques ou judiciaires et
-de deux représentants des autres professions libérales ;
+b) Douze membres pour la caisse mutuelle régionale de la Réunion, à raison de
+quatre représentants des artisans dont trois actifs et un retraité, quatre
+représentants des industriels et commerçants dont trois actifs et un retraité,
+et quatre représentants des professions libérales dont trois actifs et un
+retraité ;
 
-2°) deux personnes élues par les unions départementales des associations
+2° Deux personnes désignées par les unions départementales des associations
 familiales ;
 
 3°) un médecin et un pharmacien ;

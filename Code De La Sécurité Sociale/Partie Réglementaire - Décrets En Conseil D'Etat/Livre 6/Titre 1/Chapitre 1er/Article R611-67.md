@@ -1,8 +1,12 @@
 Article R611-67
 ----
-Les listes de candidats à élire au scrutin de liste comportent, arrondi le cas
-échéant à l'unité supérieure, un nombre de candidats égal à une fois et demi le
-nombre des administrateurs à élire.
+Les listes de candidats à élire au scrutin de liste sont divisées en deux
+parties comportant, l'une, les actifs, et l'autre, les retraités.
+
+Le nombre de candidats de chacune de ces deux parties doit être égal à trois
+s'il n'y a qu'un administrateur à élire et, dans les autres cas, à une fois et
+demie au moins et deux fois au plus le nombre d'administrateurs à élire, le
+résultat étant arrondi, le cas échéant, à l'unité supérieure.
 
 Nul ne peut figurer sur plusieurs listes ou être candidat dans plusieurs
 circonscriptions.

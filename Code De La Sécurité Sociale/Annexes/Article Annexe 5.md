@@ -2,129 +2,121 @@ Article Annexe 5
 ----
 III. - Caisses mutuelles régionales des professions libérales
 
-I. Caisse mutuelle parisienne des professions libérales.
+(A) : NOMBRE de membres des conseils d'administration (toutes catégories
+comprises)
 
-a) Nombre de sièges de représentant des personnes affiliées au titre de
-l'exercice d'une profession juridique ou judiciaire attribué à chaque région ou
-groupe de régions :
+(B) : Professions juridiques ou judiciaires : Actifs
 
-Région Ile-de-France : 6 sièges
+(C) : Professions juridiques ou judiciaires : Retraités
 
-b) Nombre de sièges de représentant des personnes affiliées au titre de
-l'exercice des autres professions libérales attribué à chaque région ou groupe
-de régions :
+(D) : Autres professions libérales : Actifs
 
-Région Ile-de-France : 19 sièges
+(E) : Autres professions libérales : Retraités
 
-II. Caisse mutuelle provinciale des professions libérales.
+!---------------------------------------------------------------!
 
-a) Nombre de sièges de représentant des personnes affiliées au titre de
-l'exercice d'une profession juridique ou judiciaire attribué à chaque région ou
-groupe de régions :
+! CAISSE !
 
+!---------------------------------------------------------------!
 
-Région Nord - Pas-de-Calais
+! Caisse mutuelle parisienne des professions libérales !
 
-Région Picardie
+!-------------------------------!------!-----!-----!------!-----!
 
+! ! ! NOMBRE DE MEMBRES !
 
-Région Champagne-Ardenne
+! ! ! représentants des !
 
-Région Lorraine
+! CIRCONSCRIPTION ! A ! assurés !
 
+! ! !-----!-----!------!-----!
 
-Région Alsace
+! ! ! B ! C ! D ! E !
 
-Nombre de sièges : 1
+!-------------------------------!------!-----!-----!------!-----!
 
+! Ile-de-France ! 33 ! 5 ! 1 ! 14 ! 5 !
 
-Région Bourgogne
+!-------------------------------!------!-----!-----!------!-----!
 
-Région Franche-Comté
+!---------------------------------------------------------------!
 
+! CAISSE !
 
-Région Rhône-Alpes
+!---------------------------------------------------------------!
 
-Nombre de sièges : 1
+! Caisse mutuelle provinciale des professions libérales !
 
-Région Provence Alpes-Côte d'Azur
+!-------------------------------!------!-----!-----!------!-----!
 
+! ! ! NOMBRE DE MEMBRES !
 
-Région Corse
+! ! ! représentants des !
 
-Région Languedoc-Roussillon
+! CIRCONSCRIPTIONS ! A ! assurés !
 
-Nombre de sièges : 2
+! ! !-----!-----!------!-----!
 
+! ! ! B ! C ! D ! E !
 
-Région Aquitaine
+!-------------------------------!------!-----!-----!------!-----!
 
-Région Midi-Pyrénées
+! Nord - Pas-de-Calais ! ! ! ! ! !
 
-Nombre de sièges : 1
+! Picardie ! ! ! ! ! !
 
+! Champagne-Ardenne ! ! 1 ! ! 4 ! 1 !
 
-Région Auvergne
+!-------------------------------!------!-----!-----!------!-----!
 
-Région Limousin
+! Lorraine ! ! ! ! ! !
 
+! Alsace ! ! ! ! ! !
 
-Région Poitou-Charentes
+! Bourgogne ! ! ! ! ! !
 
-Région Centre
+! Franche-Comté ! ! 1 ! ! 4 ! 1 !
 
-Nombre de sièges : 1
+!-------------------------------!------!-----!-----!------!-----!
 
+! Rhône-Alpes ! ! ! ! ! !
 
-Région Bretagne
+! Provence-Alpes-Côte d'Azur ! ! ! ! ! !
 
-Région Pays de la Loire
+! Corse ! ! 2 ! 1 ! 3 ! 1 !
 
+!-------------------------------!------!-----!-----!------!-----!
 
-Région Haute-Normandie
+! Languedoc-Roussillon ! ! ! ! ! !
 
-Région Basse-Normandie
+! Aquitaine ! ! 1 ! ! 3 ! 1 !
 
-Nombre de sièges : 1
+!-------------------------------!------!-----!-----!------!-----!
 
-TOTAL : 7 sièges
+! Midi-Pyrénées ! ! ! ! ! !
 
-b) Nombre de sièges de représentant des personnes affiliées au titre de
-l'exercice des autres professions libérales attribué à chaque région ou groupe
-de régions :
+! Auvergne ! ! ! ! ! !
 
-Région Nord - Pas-de-Calais : 1 siège
+! Limousin ! ! 1 ! ! 2 ! 1 !
 
-Région Picardie : 1 siège
+!-------------------------------!------!-----!-----!------!-----!
 
-Région Champagne-Ardenne : 1 siège
+! Poitou-Charentes ! ! ! ! ! !
 
-Région Lorraine : 1 siège
+! Centre ! ! ! ! ! !
 
-Région Alsace : 1 siège
+! Bretagne ! ! ! ! ! !
 
-Région Bourgogne, Région Franche-Comté : 2 sièges
+! Pays de la Loire ! ! 1 ! ! 4 ! 1 !
 
-Région Rhône-Alpes : 3 sièges
+!-------------------------------!------!-----!-----!------!-----!
 
-Région Provence-Alpes-Côte d'Azur, Région Corse : 3 sièges
+! Haute-Normandie ! ! ! ! ! !
 
-Région Languedoc-Roussillon : 1 siège
+! Basse-Normandie ! ! ! ! ! !
 
-Région Aquitaine : 2 sièges
+!-------------------------------!------!-----!-----!------!-----!
 
-Région Midi-Pyrénées : 2 sièges
+! Total ! 42 ! 7 ! 1 ! 20 ! 6 !
 
-Région Auvergne, Région Limousin : 1 siège
-
-Région Poitou-Charentes : 1 siège
-
-Région Centre : 1 siège
-
-Région Pays de la Loire : 2 sièges
-
-Région Bretagne : 1 siège
-
-Région Haute-Normandie, Région Basse-Normandie : 2 sièges
-
-TOTAL : 26 sièges
+!-------------------------------!------!-----!-----!------!-----!

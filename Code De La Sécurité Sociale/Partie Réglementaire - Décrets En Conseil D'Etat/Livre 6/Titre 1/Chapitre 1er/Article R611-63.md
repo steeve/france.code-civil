@@ -1,8 +1,7 @@
 Article R611-63
 ----
-La ou les commissions d'organisation électorale inscrivent sur les listes
-électorales toutes les personnes affiliées au régime à titre obligatoire ou
-volontaire, assujetties à cotiser ou exonérées des cotisations.
+La commission d'organisation électorale procède aux inscriptions sur les listes
+électorales, dans les conditions fixées à l'article R. 611-62.
 
 Les conditions d'inscription sont appréciées au premier jour du troisième mois
 précédant la date du scrutin.

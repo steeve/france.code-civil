@@ -1,6 +1,6 @@
 Article R611-41
 ----
-Lorsqu'un siège d'administrateur occupé par un affilié élu au scrutin de liste
+Lorsqu'un siège d'administrateur occupé par un assuré élu au scrutin de liste
 devient vacant, il est pourvu à la vacance en faisant appel au candidat venant
 en rang utile sur la liste de l'ancien titulaire pour achever le mandat de
 celui-ci.
@@ -12,7 +12,7 @@ Lorsqu'un siège d'administrateur occupé par un membre nommé ou élu au scruti
 uninominal devient vacant, il est pourvu par le suppléant de ce membre, qui
 achève le mandat du titulaire qu'il remplace.
 
-Lorsqu'un siège d'administrateur désigné par les affiliés, occupé par un membre
+Lorsqu'un siège d'administrateur désigné par les assurés, occupé par un membre
 élu au scrutin uninominal au conseil d'administration de la caisse provinciale
 des professions libérales devient vacant, il est occupé jusqu'au prochain
 renouvellement général du conseil d'administration par le candidat élu à cet

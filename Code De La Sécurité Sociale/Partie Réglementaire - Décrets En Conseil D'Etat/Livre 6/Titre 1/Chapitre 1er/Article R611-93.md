@@ -2,8 +2,8 @@ Article R611-93
 ----
 Les réclamations contre les résultats des élections sont portées dans les dix
 jours suivant la proclamation de ceux-ci devant le tribunal d'instance dans le
-ressort duquel se trouve le siège de la commission de recensement. Elles sont
-introduites par simple déclaration au greffe.
+ressort duquel se trouve le siège de la commission de recensement [*juridiction
+compétente*]. Elles sont introduites par simple déclaration au greffe.
 
 La réclamation peut être formée par tout électeur ou candidat ainsi que par le
 directeur régional des affaires sanitaires et sociales.
