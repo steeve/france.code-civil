@@ -6,5 +6,6 @@ visées à la présente section justifiant d'une ancienneté d'au moins deux ans
 prévue à l'article L. 773-7 ci-dessus.
 
 Le montant minimal de cette indemnité de licenciement est fixé par décret
-d'après la moyenne mensuelle des sommes que l'intéressée a perçues au cours des
-six derniers mois [*période*].
+d'après la moyenne mensuelle des sommes perçues par l'intéressée au titre des
+six meilleurs mois consécutifs de salaire versés par l'employeur qui la
+licencie.

@@ -1,7 +1,7 @@
 Article L411-76
 ----
 Pour le paiement de l'indemnité, le juge peut, par dérogation aux dispositions
-de l'article 1244 du code civil, accorder au bailleur des délais excédant une
+des articles 1244-1 du code civil, accorder au bailleur des délais excédant une
 année.
 
 Toutefois, aucun délai ne peut être accordé lorsque le bailleur invoque le
