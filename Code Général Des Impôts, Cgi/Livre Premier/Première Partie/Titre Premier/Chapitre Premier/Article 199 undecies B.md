@@ -50,7 +50,7 @@ autres que ceux visés au sixième alinéa, l'excédent constitue une créance s
 l'Etat d'égal montant. Cette créance est utilisée pour le paiement de l'impôt
 sur le revenu dû au titre des années suivantes jusqu'à la cinquième année
 inclusivement. La fraction non utilisée est remboursée à l'expiration de cette
-période dans la limite d'un montant d'investissement de 1 525 000 euros (1).
+période dans la limite d'un montant d'investissement de 1 525 000 euros.
 
 Si, dans le délai de cinq ans de son acquisition ou de sa création ou pendant sa
 durée normale d'utilisation si elle est inférieure, l'investissement ayant
@@ -92,15 +92,15 @@ alinéa cesse d'être respectée, la réduction d'impôt pratiquée fait l'objet
 reprise au titre de l'année au cours de laquelle cet événement se réalise.
 
 II. 1. Les investissements mentionnés au I et dont le montant total par
-programme et par exercice est supérieur à 760 000 euros (1) ne peuvent ouvrir
-droit à réduction que s'ils ont reçu un agrément préalable du ministre chargé du
+programme et par exercice est supérieur à 760 000 euros ne peuvent ouvrir droit
+à réduction que s'ils ont reçu un agrément préalable du ministre chargé du
 budget dans les conditions prévues au deuxième alinéa du III de l'article 217
 undecies.
 
 Les dispositions du premier alinéa sont également applicables aux
 investissements mentionnés au I et dont le montant total par programme et par
-exercice est supérieur à 300 000 euros (1), lorsque le contribuable ne participe
-pas à l'exploitation au sens des dispositions du 1° bis du I de l'article 156.
+exercice est supérieur à 300 000 euros, lorsque le contribuable ne participe pas
+à l'exploitation au sens des dispositions du 1° bis du I de l'article 156.
 
 2. Ceux des investissements mentionnés au I qui concernent les secteurs des
 transports, de la navigation de plaisance, de la pêche maritime, de la
@@ -129,7 +129,4 @@ d'ouverture de chantier à la mairie de la commune ;
 moins de leur prix.
 
 IV. Un décret en Conseil d'Etat précise, en tant que de besoin, les modalités
-d'application des I et II du présent article.
-
-(1) Ces dispositions s'appliquent à l'impôt sur le revenu établi au titre de
-l'année 2001.
+d'application des I et II du présent article (1).

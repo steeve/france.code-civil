@@ -51,15 +51,15 @@ d'impôt résultant du plafonnement.
 est réduit de 30 %, dans la limite de 5 100 euros, pour les contribuables
 domiciliés dans les départements de la Guadeloupe, de la Martinique et de la
 Réunion ; cette réduction est égale à 40 %, dans la limite de 6 700 euros, pour
-les contribuables domiciliés dans le département de la Guyane.
+les contribuables domiciliés dans le département de la Guyane ;
 
 4. Le montant de l'impôt résultant de l'application des dispositions précédentes
 est diminué, dans la limite de son montant, de la différence entre 380 euros et
-la moitié de son montant.
+la moitié de son montant ;
 
 5. Les réductions d'impôt mentionnées aux articles 199 quater B à 200 s'imputent
 sur l'impôt résultant de l'application des dispositions précédentes avant
 imputation de l'avoir fiscal, des crédits d'impôt et des prélèvements ou
 retenues non libératoires ; elles ne peuvent pas donner lieu à remboursement.
 
-II. (Abrogé).
+II. (Abrogé - Loi n° 97-1269 du 30 décembre 1997, art. 2 III).

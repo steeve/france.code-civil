@@ -25,8 +25,8 @@ travaux de construction, de reconstruction ou d'agrandissement (1) ;
 
 b ter) Dans les secteurs sauvegardés définis aux articles L. 313-1 à L. 313-3 du
 code de l'urbanisme et les zones de protection du patrimoine architectural,
-urbain et paysager définies à l'article 70 de la loi n° 83-8 modifiée du 7
-janvier 1983 relative à la répartition de compétences entre les communes, les
+urbain et paysager définies à l'article 70 de la loi n° 83-8 du 7 janvier 1983
+modifiée relative à la répartition de compétences entre les communes, les
 départements, les régions et l'Etat, les frais d'adhésion à des associations
 foncières urbaines de restauration, les travaux de démolition imposés par
 l'autorité qui délivre le permis de construire et prévus par les plans de
@@ -45,7 +45,7 @@ au 3° du I de l'article 156 doivent être remplies ;
 
 b quater) Dans les zones franches urbaines telles que définies au B du 3 de
 l'article 42 modifié de la loi n° 95-115 du 4 février 1995 d'orientation pour
-l'aménagement et le développement du territoire, les travaux de démolition
+l'aménagement et le développement du territoire (2), les travaux de démolition
 rendus nécessaires par le réaménagement d'un ou plusieurs immeubles, dès lors
 que le représentant de l'Etat dans le département a donné son accord à la
 convention mentionnée au cinquième alinéa du 3° du I de l'article 156, à
@@ -55,10 +55,10 @@ détermination du revenu net les travaux de reconstitution de toiture ou de murs
 extérieurs d'immeubles existants prévus par la même convention et rendus
 nécessaires par ces démolitions. Pour l'application de ces dispositions, les
 conditions mentionnées au cinquième alinéa du 3° du I de l'article 156 doivent
-être remplies ;
+être remplies.
 
 Les obligations déclaratives incombant aux contribuables concernés par les
-dispositions prévues au premier alinéa sont fixées par décret ; (2)
+dispositions prévues au premier alinéa sont fixées par décret ; (3)
 
 c) Les impositions, autres que celles incombant normalement à l'occupant,
 perçues, à raison desdites propriétés, au profit des collectivités locales, de
@@ -79,19 +79,19 @@ est de nouveau applicable à l'expiration de l'application du régime visé au g
 Le taux de déduction mentionné au premier alinéa est fixé à 25 % pour les
 revenus des six premières années de location des logements qui ne peuvent donner
 lieu à l'un ou l'autre des régimes prévus au f et au g et qui, répondant aux
-normes d'habitabilité telles que définies par décret, sont loués par une
+normes d'habitabilité telles que définies par décret (4), sont loués par une
 personne physique ou une société non soumise à l'impôt sur les sociétés en vertu
 d'un bail conclu à compter du 1er janvier 1999. Le contribuable ou la société
 propriétaire doit s'engager à louer le logement nu pendant une durée de six ans
 au moins à des personnes qui en font leur habitation principale. Cet engagement
 prévoit, en outre, que le loyer et les ressources du locataire appréciées à la
 date de conclusion du bail ne doivent pas excéder des plafonds fixés par décret
-et que la location ne peut être conclue avec un membre du foyer fiscal, un
+(5) et que la location ne peut être conclue avec un membre du foyer fiscal, un
 ascendant ou un descendant du contribuable, une personne occupant déjà le
 logement ou, si celui-ci est la propriété d'une société non soumise à l'impôt
 sur les sociétés, l'un de ses associés ou un membre du foyer fiscal, un
 ascendant ou un descendant d'un associé. Les associés des sociétés précitées
-s'engagent à conserver leurs parts pendant au moins six ans. (3) Un contribuable
+s'engagent à conserver leurs parts pendant au moins six ans (6). Un contribuable
 ne peut, pour un même logement ou une même souscription de titres, pratiquer la
 réduction d'impôt mentionnée à l'article 199 undecies A et bénéficier de la
 déduction forfaitaire au taux de 25 % prévue au présent alinéa. Lorsque la
@@ -100,14 +100,14 @@ d'un ascendant ou d'un descendant du contribuable, la déduction forfaitaire
 s'applique au taux de 14 % et la période de mise à disposition du logement au
 profit d'un ascendant ou d'un descendant n'est pas prise en compte pour la durée
 de location minimale de six ans. Cette période de mise à disposition du logement
-ne peut excéder neuf ans.
+ne peut excéder neuf ans (7).
 
 La location du logement consentie à un organisme public ou privé pour le
 logement à usage d'habitation principale de son personnel, à l'exclusion du
 propriétaire du logement, de son conjoint, de membres de son foyer fiscal ou de
 ses descendants ou ascendants, ne fait pas obstacle au bénéfice de la déduction.
 Un décret précise les conditions de cette location, notamment les modalités
-d'appréciation des loyers et des ressources de l'occupant (4).
+d'appréciation des loyers et des ressources de l'occupant (8).
 
 Lorsque le bénéficiaire de l'une des allocations de logement prévues aux
 articles L. 542-1 et L. 831-1 du code de la sécurité sociale est locataire d'un
@@ -141,7 +141,7 @@ la disposition de personnes défavorisées mentionnées à l'article 1er de la l
 n° 90-449 du 31 mai 1990 visant à la mise en oeuvre du droit au logement autres
 qu'un membre du foyer fiscal, un ascendant ou un descendant du contribuable, et
 qui est agréé à cet effet par le représentant de l'Etat dans le département, ne
-fait pas obstacle au bénéfice de la déduction prévue au cinquième alinéa ;
+fait pas obstacle au bénéfice de la déduction prévue au cinquième alinéa.
 
 En cas de non-respect de l'un des engagements mentionnés au deuxième ou au
 cinquième alinéa ou de cession du logement ou des parts sociales, le supplément
@@ -166,10 +166,10 @@ droit à la réduction d'impôt prévue à l'article 199 decies E ;
 
 f. pour les logements situés en France, acquis neufs ou en l'état futur
 d'achèvement entre le 1er janvier 1996 et le 31 décembre 1998 et à la demande du
-contribuable, une déduction au titre de l'amortissement égale à 10 p. 100 du
-prix d'acquisition du logement pour les quatre premières années et à 2 p. 100 de
-ce prix pour les vingt années suivantes. La période d'amortissement a pour point
-de départ le premier jour du mois de l'achèvement de l'immeuble ou de son
+contribuable, une déduction au titre de l'amortissement égale à 10 % du prix
+d'acquisition du logement pour les quatre premières années et à 2 % de ce prix
+pour les vingt années suivantes. La période d'amortissement a pour point de
+départ le premier jour du mois de l'achèvement de l'immeuble ou de son
 acquisition si elle est postérieure.
 
 L'avantage prévu au premier alinéa est applicable, dans les mêmes conditions,
@@ -199,13 +199,13 @@ Lorsque l'option est exercée, les dispositions du b ne sont pas applicables mai
 les droits suivants sont ouverts :
 
 1. les dépenses de reconstruction et d'agrandissement ouvrent droit à une
-déduction, au titre de l'amortissement, égale à 10 p. 100 du montant des
-dépenses pour les quatre premières années et à 2 p. 100 de ce montant pour les
-vingt années suivantes. Le propriétaire doit s'engager à louer le logement nu
-pendant une nouvelle durée de neuf ans ;
+déduction, au titre de l'amortissement, égale à 10 % du montant des dépenses
+pour les quatre premières années et à 2 % de ce montant pour les vingt années
+suivantes. Le propriétaire doit s'engager à louer le logement nu pendant une
+nouvelle durée de neuf ans ;
 
 2. les dépenses d'amélioration ouvrent droit à une déduction, au titre de
-l'amortissement, égale à 10 p. 100 du montant de la dépense pendant dix ans.
+l'amortissement, égale à 10 % du montant de la dépense pendant dix ans.
 
 La période d'amortissement a pour point de départ le premier jour du mois
 d'achèvement des travaux.
@@ -251,7 +251,7 @@ attestant de sa réception en mairie.
 Un décret en Conseil d'Etat détermine les modalités d'application du présent f,
 notamment les obligations déclaratives incombant aux contribuables et aux
 sociétés qui y sont mentionnés, ainsi que les modalités de décompte des
-déductions pratiquées au titre des amortissements considérés (5) ;
+déductions pratiquées au titre des amortissements considérés (9) ;
 
 g) Pour les logements situés en France, acquis neufs ou en l'état futur
 d'achèvement à compter du 1er janvier 1999, et à la demande du contribuable, une
@@ -282,7 +282,7 @@ ou un descendant. Cette location doit prendre effet dans les douze mois qui
 suivent la date d'achèvement de l'immeuble ou de son acquisition si elle est
 postérieure. Cet engagement prévoit, en outre, que le loyer et les ressources du
 locataire appréciées à la date de conclusion du bail ne doivent pas excéder des
-plafonds fixés par décret (6). La location du logement consentie dans les
+plafonds fixés par décret (10). La location du logement consentie dans les
 conditions fixées au troisième alinéa du e à un organisme public ou privé pour
 le logement à usage d'habitation principale de son personnel, à l'exclusion du
 propriétaire du logement, de son conjoint, de membres de son foyer fiscal ou de
@@ -293,7 +293,7 @@ bénéficie pas, pendant la période de mise à disposition du logement au profi
 d'un ascendant ou d'un descendant, de la déduction au titre de l'amortissement,
 et la déduction forfaitaire s'applique au taux de 14 %. Cette période de mise à
 disposition, qui ne peut excéder neuf ans, n'est pas prise en compte pour la
-durée de location minimale de neuf ans.
+durée de location minimale de neuf ans (11).
 
 A l'issue de la période couverte par l'engagement de location, tant que la
 condition de loyer prévue au troisième alinéa reste remplie, le propriétaire
@@ -380,7 +380,7 @@ logement ouvrant droit aux dispositions du dixième alinéa, cette allocation es
 versée au bailleur.
 
 Pour un même logement, les dispositions du présent g sont exclusives de
-l'application des dispositions des articles 199 undecies ou 199 undecies A (7).
+l'application des dispositions des articles 199 undecies ou 199 undecies A (12).
 
 2° Pour les propriétés rurales :
 
@@ -396,8 +396,8 @@ techniques modernes de l'agriculture, sont considérées comme des dépenses
 d'amélioration non rentables à condition que la construction nouvelle n'entraîne
 pas une augmentation du fermage ;
 
-c bis) Dans les conditions fixées par décret (8), les dépenses d'amélioration et
-de construction, qui s'incorporent aux bâtiments d'exploitation rurale,
+c bis) Dans les conditions fixées par décret (13), les dépenses d'amélioration
+et de construction, qui s'incorporent aux bâtiments d'exploitation rurale,
 destinées à satisfaire aux obligations prévues au titre Ier du livre V du code
 de l'environnement, relatif aux installations classées pour la protection de
 l'environnement ;
@@ -405,12 +405,13 @@ l'environnement ;
 d) Une déduction forfaitaire fixée à 14 % des revenus bruts et représentant les
 frais de gestion et l'amortissement. En ce qui concerne les constructions
 nouvelles, reconstructions et additions de construction qui bénéficient de
-l'exonération de quinze ans de taxe foncière sur les propriétés bâties prévue à
-l'article 1385 II bis, le taux de la déduction forfaitaire est porté à 15 %
+l'exonération de quinze ans de taxe foncière sur les propriétés bâties prévue au
+II bis de l'article 1385, le taux de la déduction forfaitaire est porté à 15 %
 pendant la durée de cette exonération ; le taux de 15 % s'applique également aux
 revenus provenant des biens ruraux placés sous le régime des baux à long terme
 mentionnés au 2° de l'article 743 ;
 
-e) (Devenu sans objet).
+e) (disposition devenue sans objet : loi n° 83-1179 du 29 décembre 1983 art. 22
+III 1).
 
 II. (Transféré sous l'article 156 II 1° ter).

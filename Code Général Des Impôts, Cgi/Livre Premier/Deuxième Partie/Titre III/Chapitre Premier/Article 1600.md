@@ -57,4 +57,4 @@ et d'industrie, le rôle de chacune d'elles comprend les redevables de la taxe
 qui sont imposés dans sa circonscription.
 
 Un décret détermine les conditions d'application de la taxe prévue au présent
-article.
+article (2).
