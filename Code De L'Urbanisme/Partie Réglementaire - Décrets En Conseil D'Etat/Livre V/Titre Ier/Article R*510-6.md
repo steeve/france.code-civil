@@ -8,11 +8,18 @@ administratif, les opérations répondant à l'une des hypothèses suivantes :
 application de la loi n° 83-636 du 13 juillet 1983 portant modification du
 statut des agglomérations nouvelles, ou dans les communes situées à l'intérieur
 du périmètre d'un établissement public d'aménagement de ville nouvelle et ayant
-passé convention avec l'Etat en application de l'article 10 de la même loi ;
-
+passé convention avec l'Etat en application de l'article 10 de la même loi ; "
 2° Lorsqu'elles ont trait à la construction d'ensembles de bureaux non affectés
-destinés à la vente ou à la location, ainsi qu'à la reconstruction ou à la
-réhabilitation de bureaux sans extension de surface ;
+destinés à la vente ou à la location :
+
+" a) Sous réserve que la superficie développée de plancher soit inférieure à 2
+000 mètres carrés s'il s'agit d'opérations réalisées dans les arrondissements de
+Paris et les communes mentionnés au 1° de l'article R. 520-12 ;
+
+" b) Quelle que soit la superficie dans les autres cas ;
+
+" 2° bis Lorsqu'elles ont trait à la reconstruction ou à la réhabilitation de
+bureaux sans extension de surface ; "
 
 3° Lorsqu'elles portent sur des surfaces affectées à des magasins de vente, sous
 réserve des dispositions du 5° ci-après ;
