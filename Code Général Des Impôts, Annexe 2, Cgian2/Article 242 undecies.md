@@ -1,8 +1,7 @@
 Article 242 undecies
 ----
-Les factures ou documents en tenant lieu délivrés par les assujettis désignés au
-II de l'article 298 sexies du code général des impôts doivent comporter les
-éléments suivants :
+Les factures délivrées par les assujettis désignés au II de l'article 298 sexies
+du code général des impôts doivent comporter les éléments suivants :
 
 1° Le nom et l'adresse de l'assujetti qui effectue la livraison ;
 

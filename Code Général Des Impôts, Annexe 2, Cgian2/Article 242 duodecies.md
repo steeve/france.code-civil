@@ -20,8 +20,8 @@ déclaration d'importation ou document en tenant lieu, certificat délivré par
 l'administration des impôts dans les conditions prévues à l'article 242
 quaterdecies ;
 
-b) De la facture de vente ou du document en tenant lieu établi par le demandeur,
-conformément à l'article 242 undecies ;
+b) De la facture de vente établie par le demandeur, conformément à l'article 242
+undecies ;
 
 c) De l'original ou d'une copie certifiée :
 

@@ -39,8 +39,9 @@ de la cession, de l'apport ou du transfert, celui-ci peut opérer la déduction 
 la taxe ayant initialement grevé le bien diminuée dans les conditions précitées.
 A cette fin, le cédant ou l'apporteur délivre au bénéficiaire une attestation
 mentionnant le montant de la taxe qu'il est en droit de déduire. La taxe ayant
-initialement grevé le bien s'entend, selon le cas, de la taxe mentionnée au 1 de
-l'article 223 ou de la fraction de taxe mentionnée tant au 3° de l'article 226
-qu'à l'article 226 bis. Le bénéficiaire d'une cession ou d'un apport ultérieur
-peut également opérer la déduction d'une fraction, calculée dans les conditions
-précitées, de la taxe que le précédent propriétaire était en droit de déduire.
+initialement grevé le bien s'entend, selon le cas, de la taxe mentionnée au 1 du
+II de l'article 271 du code général des impôts ou de la fraction de taxe
+mentionnée tant au 3° de l'article 226 qu'à l'article 226 bis. Le bénéficiaire
+d'une cession ou d'un apport ultérieur peut également opérer la déduction d'une
+fraction, calculée dans les conditions précitées, de la taxe que le précédent
+propriétaire était en droit de déduire.
