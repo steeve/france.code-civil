@@ -4,8 +4,10 @@ A l'importation, la redevance sanitaire de découpage est perçue dans les
 conditions prévues à l'article 111 quater R sur les viandes reprise au tableau
 ci-dessous déclarées pour la mise à la consommation dans le territoire douanier.
 
-NUMERO du tarif des douanes / DESIGNATION DES MARCHANDISES
+NUMÉRO du tarif des douanes
 
+
+DÉSIGNATION DES MARCHANDISES
 
 Ex 0201
 
@@ -39,9 +41,9 @@ Ex 0207
 
 Viandes fraîches, réfrigérées ou congelées des volailles du numéro 0105.
 
-((0208
+0208
 
-((Autres viandes comestibles, fraîches, réfrigérées ou congelées)) (M).
+Autres viandes comestibles, fraîches, réfrigérées ou congelées.
 
 0209
 
@@ -79,10 +81,8 @@ saucissons et produits similaires de viandes d'animaux domestiques repris aux
 numéros 0101 à 0105 inclus.
 
 Le tarif de la redevance sanitaire de découpage à retenir pour les préparations
-et conserves de viandes de boucherie, de charcuterie, ((de volailles, de lapin
-domestique et de gibier d'élevage)) (M) (numéro ex 1601 et ex 1602 du tarif des
-douanes) dans la composition desquelles entrent des viandes d'espèces animales
-différentes est égal à celui prévu pour la viande dont le tarif est le plus
-faible.
-
-(M) Modification
+et conserves de viandes de boucherie, de charcuterie, de volailles, de lapin
+domestique et de gibier d'élevage ou sauvage (numéro ex 1601 et ex 1602 du tarif
+des douanes) dans la composition desquelles entrent des viandes d'espèces
+animales différentes est égal à celui prévu pour la viande dont le tarif est le
+plus faible.
