@@ -1,11 +1,6 @@
 Article L261-11
 ----
-Lorsque le vendeur a fait état des prêts destinés au financement de la
-construction, le contrat doit être conclu sous condition résolutoire pour le cas
-de non-obtention de ceux-ci.
-
-Il doit être conclu par acte authentique [*condition de forme*] et préciser
-[*contenu*] :
+Le contrat doit être conclu par acte authentique et préciser [*contenu*] :
 
 a) La description de l'immeuble ou de la partie d'immeuble vendu ;
 
@@ -13,8 +8,8 @@ b) Son prix et les modalités de paiement de celui-ci ;
 
 c) Le délai de livraison ;
 
-d) Lorsqu'il revêt la forme prévue à l'article 1601-3 du code civil, reproduit à
-l'article L. 261-3 [*vente en l'état futur d'achèvement*] du présent code, la
+d) Lorsqu'il revêt la forme prévue à l'article 1601-3 [*en l'état futur
+d'achèvement*] du code civil, reproduit à l'article L. 261-3 du présent code, la
 garantie de l'achèvement de l'immeuble ou du remboursement des versements
 effectués en cas de résolution du contrat à défaut d'achèvement.
 
@@ -24,7 +19,7 @@ prévues à l'alinéa précédent doivent alors figurer, soit dans un document a
 à l'acte, soit dans un document déposé au rang des minutes d'un notaire et
 auquel l'acte fait référence.
 
-Il doit également mentionner si le prix est ou non revisable et, dans
+Il doit également mentionner si le prix est ou non révisable et, dans
 l'affirmative, les modalités de sa révision.
 
 Il doit, en outre, comporter en annexes, ou par référence à des documents
@@ -42,3 +37,7 @@ l'équilibre financier de l'opération, au vu desquels a été prise la décisio
 prêt. L'inobservation des dispositions du présent article entraîne la nullité du
 contrat. Cette nullité ne peut être invoquée que par l'acquéreur et avant
 l'achèvement des travaux.
+
+Lorsque la vente a été précédée d'un contrat préliminaire prévu à l'article L.
+261-15, seul le contrat de vente est soumis aux dispositions des articles 16 à
+18 de la loi n° 79-596 du 13 juillet 1979.
