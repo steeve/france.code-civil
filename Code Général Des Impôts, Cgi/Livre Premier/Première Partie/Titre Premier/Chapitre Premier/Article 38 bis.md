@@ -31,7 +31,7 @@ A l'expiration du prêt, les titres empruntés sont réputés restitués à la v
 pour laquelle la dette représentative de l'obligation de restitution figure au
 bilan.
 
-1 bis. Les titres empruntés peuvent faire l'objet d'un prêt. Dans ce cas, la
+1 bis Les titres empruntés peuvent faire l'objet d'un prêt. Dans ce cas, la
 créance représentative des titres mentionnés au 1 ci-dessus doit être inscrite
 au bilan au prix que ces titres ont sur le marché à la date du nouveau prêt. A
 la clôture de l'exercice, cette créance doit être évaluée au prix des titres à
@@ -44,3 +44,11 @@ restitution au prêteur initial.
 les titres de même nature empruntés à la date la plus ancienne. Les achats
 ultérieurs de titres de même nature sont affectés par priorité au remplacement
 des titres empruntés.
+
+III. 1 Lorsque, à défaut de restitution des espèces ou valeurs déposées en
+couverture, le déposant acquiert définitivement la pleine propriété des titres
+prêtés, leur cession est réalisée d'un point de vue fiscal, à la date de la
+défaillance.
+
+2 Pour l'application des 1 à 7 de l'article 39 duodecies du code général des
+impôts, les titres cédés sont censés avoir été détenus jusqu'à la date du prêt.

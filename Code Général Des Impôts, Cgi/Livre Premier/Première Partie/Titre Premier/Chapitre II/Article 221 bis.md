@@ -1,12 +1,13 @@
 Article 221 bis
 ----
 En l'absence de création d'une personne morale nouvelle, lorsqu'une société ou
-un autre organisme cesse d'être soumis à l'impôt sur les sociétés au taux
-normal, les bénéfices en sursis d'imposition et les plus-values latentes
-incluses dans l'actif social ne font pas l'objet d'une imposition immédiate, à
-la double condition qu'aucune modification ne soit apportée aux écritures
-comptables et que l'imposition desdits bénéfices et plus-values demeure possible
-sous le nouveau régime fiscal applicable à la société ou à l'organisme concerné.
+un autre organisme cesse totalement ou partiellement d'être soumis à l'impôt sur
+les sociétés au taux normal, les bénéfices en sursis d'imposition et les
+plus-values latentes incluses dans l'actif social ne font pas l'objet d'une
+imposition immédiate, à la double condition qu'aucune modification ne soit
+apportée aux écritures comptables et que l'imposition desdits bénéfices et
+plus-values demeure possible sous le nouveau régime fiscal applicable à la
+société ou à l'organisme concerné.
 
 Toutefois, les plus-values dégagées à l'occasion de la cession de tout ou partie
 des éléments de l'actif immobilisé existant à la date de la transformation, dans

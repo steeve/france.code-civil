@@ -14,6 +14,12 @@ aux dispositions de l'article 92 C.
 
 En cas d'échange de titres résultant d'une fusion, d'une scission ou d'un
 apport, l'imposition des gains nets mentionnés au premier alinéa est reportée
-dans les mêmes conditions que celles qui sont prévues au I ter de l'article 160.
+dans les mêmes conditions que celles qui sont prévues au I ter de l'article 160
+(2). Cette disposition est également applicable aux échanges avec soulte lorsque
+celle-ci n'excède pas 10 p. 100 de la valeur nominale des titres reçus.
+Toutefois, la partie de la plus-value correspondant à la soulte reçue est
+imposée immédiatement (2).
 
-1) Voir Annexe II, art. 74 A bis.
+(1) Voir Annexe II, art. 74 A bis.
+
+(2) Voir Annexe III, art. 41 quatervicies à 41 sexvicies.

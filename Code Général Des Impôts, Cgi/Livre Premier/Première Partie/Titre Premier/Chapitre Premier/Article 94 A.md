@@ -56,6 +56,11 @@ division ou de regroupement, réalisée conformément à la réglementation en
 vigueur, le gain net est calculé à partir du prix ou de la valeur d'acquisition
 des titres échangés.
 
+Ces dispositions cessent de s'appliquer aux ventes de titres reçus à l'occasion
+d'une opération d'offre publique, de fusion, de scission ou d'absorption d'un
+fonds commun de placement par une société d'investissement à capital variable
+réalisée à compter du 1er janvier 1992.
+
 5 bis. En cas d'absorption d'une société d'investissement à capital variable par
 un fonds commun de placement réalisée conformément à la réglementation en
 vigueur, les gains nets résultant de la cession ou du rachat des parts reçues en
