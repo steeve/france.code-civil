@@ -26,64 +26,111 @@ correspondent pour les valeurs indiquées aux barèmes ci-après :
 
 Code local des assurances sociales
 
-:-------------------------------:
+Classes
 
-: CLASSES : MONTANT A PRENDRE :
+Montant à prendre en compte (par semaine)
 
-: : EN COMPTE :
+Francs (anciens)
 
-: : (par semaine) :
 
-:-------------------------------:
+I
 
-: : Francs (anciens) :
+6
 
-: I : 6 :
 
-: II : 10 :
+II
 
-: III : 14 :
+10
 
-: IV : 18 :
 
-: V : 22 :
+III
 
-: VI : 26 :
+14
 
-: VII : 30 :
 
-: :
+IV
 
-Loi du 20 décembre 1911 :-------------------------------:
+18
 
-: CLASSES : MONTANT :
 
-:------------------: A PRENDRE :
+V
 
-: Avant : Depuis : EN COMPTE :
+22
 
-: le : le : (par mois) :
 
-: 1/1/41 : 1/1/41 : :
+VI
 
-:-------------------------------:
+26
 
-: : : Francs :
 
-: : : (anciens) :
+VII
 
-: A/B : A : 40 :
+30
 
-: C/D : B : 70 :
 
-: E/F : C : 110 :
+Loi du 20 décembre 1911
 
-: G/H : D : 150 :
+Classes
 
-: I/K : E : 200 :
+Montant à prendre en compte (par mois)
 
-: L/M : F : 250 :
 
-: N : G : 300 :
+Avant le 1er janvier 1941
 
-: :
+Depuis le 1er janvier 1941
+
+Francs (anciens)
+
+A/B
+
+
+A
+
+40
+
+C/D
+
+
+B
+
+70
+
+E/F
+
+
+C
+
+110
+
+G/H
+
+
+D
+
+150
+
+I/K
+
+
+E
+
+200
+
+L/M
+
+
+F
+
+250
+
+
+N
+
+G
+
+300
+
+Pour l'application des deuxième et troisième alinéas ci-dessus, le salaire
+servant de base au calcul de la pension est, pour les salaires perçus
+postérieurement au 31 janvier 1991, le salaire correspondant aux cotisations
+versées dans la limite du plafond mentionné à l'article L. 241-3.
