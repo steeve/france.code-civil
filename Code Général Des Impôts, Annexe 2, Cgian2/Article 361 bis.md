@@ -1,9 +1,8 @@
 Article 361 bis
 ----
-Il est institué pour la période de la campagne 1988-1989 non couverte par le
-décret n° 84-663 du 17 juillet 1984 et pour la campagne 1989-1990 une taxe
-parafiscale au profit des organismes interprofessionnels de vins mentionnés à
-l'article 1er du décret n° 89-596 du 29 août 1989.
+Il est institué pour les campagnes 1990-1991 et 1991-1992 une taxe parafiscale
+au profit des organismes interprofessionnels de vins mentionnés à l'article 1er
+du décret n° 90-1039 du 22 novembre 1990.
 
 Cette taxe est destinée à couvrir les dépenses afférentes aux actions d'intérêt
 interprofessionnel conduites par ces organismes, ainsi que leurs frais de
