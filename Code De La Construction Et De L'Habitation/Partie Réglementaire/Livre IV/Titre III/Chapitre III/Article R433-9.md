@@ -23,4 +23,9 @@ l'ordonnance n° 58-1372 du 29 décembre 1958 et par l'article 56 de la loi n°
 78-753 du 17 juillet 1978 ;
 
 5° Les documents ou attestations figurant à l'article R. 324-4 du code du
-travail.
+travail;
+
+6° L'attestation sur l'honneur que le candidat n'a pas fait l'objet, au cours
+des cinq dernières années, d'une condamnation inscrite au bulletin n° 2 du
+casier judiciaire pour les infractions visées aux articles L. 324-9, L. 324-10,
+L. 341-6, L. 125-1 et L. 125-3 du code du travail.
