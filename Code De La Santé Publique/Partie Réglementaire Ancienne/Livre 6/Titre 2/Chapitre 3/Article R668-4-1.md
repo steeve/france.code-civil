@@ -1,37 +1,17 @@
 Article R668-4-1
 ----
-En application de l'article L. 668-4, sont soumises à autorisation préalable de
-l'Agence française du sang la mise en oeuvre ou l'extension par les
-établissements de transfusion sanguine des activités suivantes :
+Le conseil d'établissement est réuni au moins deux fois par an sur convocation
+du directeur de l'établissement de transfusion sanguine qui le préside.
 
-1. Parmi les activités de transfusion sanguine :
+Le conseil émet des avis à la demande du directeur, qui fixe l'ordre du jour. A
+cette fin, il est notamment informé sur :
 
-a) La préparation de plasma viro-atténué ;
-
-b) Les recherches et essais relatifs à de nouveaux produits sanguins labiles.
-
-2. Parmi les activités liées à la transfusion sanguine :
-
-a) Les tests et analyses de dépistage de maladies transmissibles pratiqués sur
-des receveurs de produits sanguins labiles dans le cadre de l'hémovigilance ;
-
-b) La transfusion autologue péri-opératoire ;
-
-c) La distribution en gros et la dispensation de médicaments dérivés du sang.
-
-3. Au titre des autres activités de santé exercées à titre accessoire :
-
-a) La production de composants du sang ou de produits sanguins en vue d'un usage
-non directement thérapeutique ;
-
-b) La fabrication et la distribution de réactifs de laboratoire destinés aux
-analyses de biologie médicale ;
-
-c) La préparation et la conservation de tissus humains et de cellules autres que
-celles du sang ;
-
-d) Les analyses de biologie médicale, au sens de l'article L. 753 du présent
-code, autres que celles qui sont directement liées à l'objet spécifique de la
+- les prévisions et réalisations de recettes et dépenses de l'établissement de
 transfusion sanguine ;
 
-e) La dispensation de soins.
+- le projet d'établissement ;
+
+- la politique locale de promotion du don ;
+
+- les projets de partenariat développés par l'établissement de transfusion
+sanguine.

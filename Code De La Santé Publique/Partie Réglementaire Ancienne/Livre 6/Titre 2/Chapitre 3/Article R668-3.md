@@ -1,18 +1,31 @@
 Article R668-3
 ----
-La décision d'approbation de la convention constitutive, prévue aux articles L.
-668-1 et L. 668-2, qui vaut agrément en qualité d'établissement de transfusion
-sanguine, est publiée au Journal officiel de la République française. La
-publication fait notamment mention :
+En application de l'article L. 668-1 du code de la santé publique, les activités
+autres que transfusionnelles qui peuvent être exercées par les établissements de
+transfusion sanguine sont les suivantes :
 
-- de la dénomination et de l'objet du groupement ;
+1. Parmi les activités liées à la transfusion sanguine :
 
-- de l'identité de ses membres ;
+a) Les tests et analyses immuno-hématologiques ;
 
-- du siège social ;
+b) La distribution en gros de médicaments dérivés du sang ;
 
-- de la zone de collecte de l'établissement.
+c) La dispensation des médicaments dérivés du sang ;
 
-Les modifications éventuelles de la convention constitutive ainsi que la
-décision d'approbation de ces modifications font l'objet d'une publication dans
-les mêmes conditions.
+2. Au titre des activités exercées à titre accessoire :
+
+a) La production de composants du sang ou de produits sanguins en vue d'un usage
+non directement thérapeutique ;
+
+b) La fabrication et la distribution de réactifs de laboratoire destinés aux
+analyses de biologie médicale ;
+
+c) La préparation, la conservation, la distribution et la cession de tissus
+humains et de cellules autres que celles du sang, ainsi que des produits de
+thérapie cellulaire et génique ;
+
+d) Les analyses de biologie médicale, au sens de l'article L. 753, autres que
+celles qui sont directement liées à l'objet spécifique de la transfusion
+sanguine ;
+
+e) La dispensation de soins.

@@ -1,16 +1,22 @@
 Article R668-4
 ----
-Un commissaire du Gouvernement est nommé auprès du groupement par le préfet du
-département dans lequel se trouve son siège.
+Le conseil d'établissement prévu à l'article L. 668-1 comporte, outre le
+directeur de l'établissement et la direction de celui-ci :
 
-Il assiste aux réunions de l'assemblée générale et du conseil d'administration
-et a communication de tous documents relatifs au groupement.
+- trois à sept représentants désignés par des associations de donneurs de sang
+ayant leur siège dans le champ géographique d'activités de l'établissement ;
 
-Lorsqu'il estime qu'une décision ou délibération, y compris celles qui sont
-relatives au recrutement de personnel propre au groupement, met en jeu
-l'existence ou le bon fonctionnement du groupement, ou méconnaît les
-dispositions législatives ou réglementaires ou la convention constitutive, le
-commissaire du Gouvernement peut suspendre l'exécution de cette décision ou
-délibération durant quinze jours et provoquer une nouvelle décision ou
-délibération. Il en informe l'Agence française du sang et les administrations
-concernées.
+- deux représentants désignés par des associations de patients ayant leur siège
+dans le champ géographique d'activités de l'établissement ;
+
+- trois représentants du personnel désignés par le comité d'établissement ;
+
+- trois à cinq représentants des établissements publics de santé approvisionnés
+par l'établissement de transfusion sanguine désignés par les instances
+régionales de la fédération hospitalière de France ;
+
+- deux représentants des établissements privés de santé approvisionnés par
+l'établissement de transfusion sanguine ;
+
+- deux représentants de l'assurance maladie désignés par l'union régionale des
+caisses d'assurance maladie.

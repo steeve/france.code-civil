@@ -1,11 +1,15 @@
 Article R667-4
 ----
-Les fonctions de membre du conseil d'administration sont incompatibles avec
-celles de membre du comité de sécurité transfusionnelle institué par l'article
-L. 667-1 [*non cumul des fonctions*].
+Le conseil d'administration se réunit au moins trois fois par an sur convocation
+de son président, qui fixe l'ordre du jour.
 
-Les personnes exerçant une activité au sein ou pour le compte d'un établissement
-de transfusion sanguine ne peuvent être nommées en qualité de membre du conseil
-d'administration ayant voix délibérative. Tout membre du conseil
-d'administration ayant voix délibérative perd cette qualité s'il vient à exercer
-de telles activités.
+La convocation et l'inscription à l'ordre du jour sont de droit lorsqu'elles
+sont demandées par le ministre chargé de la santé ou le tiers au moins des
+membres. La réunion du conseil d'administration doit se tenir dans le mois qui
+suit la demande.
+
+Le contrôleur d'Etat et l'agent comptable de l'établissement assistent aux
+réunions avec voix consultative.
+
+Le conseil peut entendre toute personne dont il estime l'audition utile à son
+information.

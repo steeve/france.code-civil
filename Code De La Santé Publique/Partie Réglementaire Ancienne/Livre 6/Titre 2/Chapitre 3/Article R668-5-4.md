@@ -13,4 +13,4 @@ de l'hygiène et de l'épidémiologie dans les armées ou de son représentant.
 
 Le directeur général de l'Agence française de sécurité sanitaire des produits de
 santé adresse copie du rapport d'inspection au ministre chargé des armées, au
-ministre chargé de la santé et au président de l'Agence française du sang.
+ministre chargé de la santé et au président de l'Etablissement français du sang.

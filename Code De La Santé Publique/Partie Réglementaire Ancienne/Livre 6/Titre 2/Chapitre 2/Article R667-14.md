@@ -1,22 +1,12 @@
 Article R667-14
 ----
-Le président de l'Agence française du sang assure la direction de
-l'établissement [*attributions*].
-
-Il accomplit tous les actes qui ne sont pas réservés au conseil d'administration
-en vertu des articles R. 667-9 à R. 667-12.
-
-Il recrute, nomme et gère les agents contractuels de l'agence. Il a autorité sur
-l'ensemble des personnels de l'établissement.
-
-Il représente l'agence en justice et dans tous les actes de la vie civile.
-
-Il passe au nom de l'agence les contrats et marchés et les actes d'acquisition,
-de vente et de transaction, sous réserve des attributions conférées au conseil
-d'administration par les 3° et 4° du premier alinéa de l'article R. 667-9.
-
-Il est ordonnateur des dépenses et des recettes du budget de l'agence.
-
-Sous réserve des dispositions de l'article R. 667-27, il peut déléguer sa
-signature à ceux de ses collaborateurs qui exercent une fonction de direction au
-sein de l'agence.
+L'Etablissement français du sang et ses filiales dans lesquelles
+l'établissement, seul ou avec l'Etat ou d'autres établissements publics, détient
+plus de la moitié du capital ou de la moitié des voix au sein des organes
+délibérants sont soumis aux règles de tutelle financière prévues par le décret
+n° 53-707 du 9 août 1953 ainsi qu'au contrôle économique et financier de l'Etat
+prévu par le décret n° 55-733 du 26 mai 1955. Les conditions d'application du
+contrôle économique et financier de l'Etat tenant compte de l'organisation
+administrative et financière de l'établissement, et notamment de l'organisation
+de son contrôle interne, sont fixées par arrêté conjoint des ministres chargés
+de l'économie et du budget.

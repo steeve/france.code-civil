@@ -1,13 +1,12 @@
 Article R668-2-2
 ----
-Pour être agréés, les établissements doivent exercer l'ensemble des activités
-suivantes : la collecte de sang, les analyses biologiques et tests de dépistage
-des maladies transmissibles obligatoirement pratiqués sur les prélèvements de
-sang, la préparation et la distribution des produits sanguins labiles, le
-conseil transfusionnel et la participation à l'hémovigilance.
-
-Toutefois, lorsque les schémas d'organisation de régions limitrophes établissent
-une organisation commune pour l'ensemble d'une ou de plusieurs activités, dans
-les conditions prévues à l'article R. 669-1, la circonstance que l'établissement
-de transfusion sanguine n'exerce pas directement la ou les activités concernées
-ne fait pas obstacle à l'obtention de l'agrément.
+Pour exercer l'activité de laboratoire d'analyses d'immuno-hématologie,
+l'établissement de transfusion sanguine doit disposer, pour chaque site dans
+lequel cette activité est exercée, sous la responsabilité d'un médecin ou d'un
+pharmacien, d'un cadre de laboratoire possédant les qualifications requises à
+l'article L. 667-8 ainsi qu'au moins deux techniciens qui peuvent, en fonction
+du volume d'activité d'analyses d'immuno-hématologie, intervenir dans un autre
+laboratoire du site. Le cadre peut également exercer son activité dans le
+laboratoire de qualification des dons du site. L'établissement doit également
+disposer, dans chacun des sites concernés, d'un laboratoire distinct de
+l'activité de qualification immunologique des dons.

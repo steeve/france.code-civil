@@ -1,16 +1,20 @@
 Article R668-1-2
 ----
-En vue d'être agréés par l'Agence française de sécurité sanitaire des produits
-de santé à la demande de l'Agence française du sang en qualité d'établissement
-de transfusion sanguine, des groupements d'intérêt public dotés de la
-personnalité morale et de l'autonomie financière peuvent être constitués entre
-des établissements publics de santé, ou entre, d'une part, un ou plusieurs
-établissements publics de santé et, d'autre part, d'autres personnes morales de
-droit public, des établissements de santé privés, des organismes régis par le
-code de la mutualité, des organismes de sécurité sociale, des associations
-gérant un établissement de transfusion sanguine, des associations de donneurs de
-sang bénévoles et d'autres établissements à vocation sanitaire à but non
-lucratif.
+La décision du directeur général de l'Agence française de sécurité sanitaire des
+produits de santé portant sur la demande d'agrément ou de renouvellement
+d'agrément ou de modification des éléments de l'agrément intervient dans un
+délai de quatre-vingt-dix jours à compter de la date de réception de la demande
+accompagnée d'un dossier complet et recevable. A défaut de réponse à
+l'expiration de ce délai, l'agrément ou le renouvellement d'agrément ou la
+modification sont réputés accordés conformément aux conditions décrites dans la
+demande.
 
-La convention constitutive de ces groupements doit être conforme à la convention
-type figurant en annexe II à la présente section.
+La décision portant agrément ou autorisation de modification précise, parmi les
+activités transfusionnelles mentionnées à l'article L. 668-2, celles qui peuvent
+être exercées par l'Etablissement de transfusion sanguine ainsi que le ou les
+sites attachés à l'établissement de transfusion sanguine dans lesquels ces
+activités peuvent être réparties.
+
+L'agrément est délivré pour une durée de cinq ans à compter de la date de la
+décision. Il est renouvelable pour une durée identique. La modification des
+éléments de l'agrément ne prolonge pas la durée de l'agrément.

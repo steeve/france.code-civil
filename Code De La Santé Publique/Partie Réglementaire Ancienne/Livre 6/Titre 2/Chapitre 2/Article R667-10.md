@@ -1,12 +1,53 @@
 Article R667-10
 ----
-Sous réserve des dispositions du deuxième alinéa ci-après, les délibérations du
-conseil d'administration mentionnées à l'article R. 667-9 sont exécutoires
-quinze jours [*délai*] après la transmission du procès-verbal au ministre chargé
-de la santé, à moins que celui-ci n'y fasse opposition. En cas d'urgence, le
-ministre chargé de la santé peut autoriser l'exécution immédiate.
+Le conseil scientifique de l'établissement prévu au dernier alinéa de l'article
+L. 667-6 est composé de membres nommés, en raison de leur compétence dans le
+domaine de la transfusion sanguine, pour une durée de trois ans renouvelable par
+arrêté du ministre chargé de la santé. Il comprend :
 
-Les délibérations portant sur le budget, sur le compte financier ainsi que sur
-les acquisitions, échanges et aliénations d'immeubles ne sont exécutoires
-qu'après approbation expresse par le ministre chargé de la santé et le ministre
-chargé du budget.
+1. Un membre proposé par le directeur général de l'Institut national de la santé
+et de la recherche médicale ;
+
+2. Un membre proposé par le directeur général du Centre national de la recherche
+scientifique ;
+
+3. Un membre proposé par le président de la Société française de transfusion
+sanguine ;
+
+4. Un membre proposé par la conférence des directeurs d'unité de formation et de
+recherche de médecine ;
+
+5. Un membre proposé par le président de la Société française de greffe de
+moelle ;
+
+6. Cinq personnalités qualifiées.
+
+Le ministre chargé de la santé nomme le président du conseil scientifique parmi
+les membres de ce conseil.
+
+Le directeur général de la santé ou son représentant et le président du conseil
+scientifique de l'Agence française de sécurité sanitaire des produits de santé
+peuvent assister aux séances du conseil scientifique avec voix consultative.
+
+Le conseil scientifique se réunit au moins trois fois par an, sur convocation de
+son président, à son initiative ou à la demande du président de l'Etablissement
+français du sang.
+
+Le président de l'établissement peut, de sa propre initiative ou à la demande du
+conseil d'administration, consulter le conseil scientifique sur toute question
+de nature médicale, scientifique ou technique ayant une incidence sur l'exercice
+des missions de l'établissement.
+
+Le conseil scientifique peut transmettre au président de l'établissement des
+observations sur toute question de nature médicale, scientifique ou technique
+ayant une incidence sur la qualité ou la sécurité de la transfusion sanguine.
+
+Il participe à la définition de la politique de recherche en transfusion
+sanguine et à l'évaluation des programmes de recherche conduits par
+l'établissement.
+
+Les avis du conseil scientifique sont transmis au président de l'établissement
+qui les communique au conseil d'administration.
+
+Les dispositions de l'article R. 667-3 sont applicables aux membres du conseil
+scientifique.
