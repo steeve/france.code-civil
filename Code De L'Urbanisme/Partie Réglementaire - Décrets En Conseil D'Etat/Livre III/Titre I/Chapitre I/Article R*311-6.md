@@ -1,15 +1,19 @@
 Article R*311-6
 ----
-La délibération du conseil municipal ou de l'organe délibérant de
-l'établissement public de coopération intercommunale compétent ou l'arrêté du
-préfet qui crée une zone d'aménagement concerté est affiché pendant un mois en
-mairie [*publicité*]. Mention en est en outre insérée en caractères apparents
-dans deux journaux régionaux ou locaux diffusés dans le département.
+L'aménagement et l'équipement de la zone sont réalisés dans le respect des
+règles d'urbanisme applicables. Lorsque la commune est couverte par un plan
+local d'urbanisme, la réalisation de la zone d'aménagement concerté est
+subordonnée au respect de l'article L. 123-3.
 
-Lorsqu'il s'agit d'un arrêté du préfet, il est en outre publié au recueil des
-actes administratifs du département.
+L'aménagement et l'équipement de la zone sont :
 
-Les effets juridiques attachés à la création de la zone ont pour point de départ
-l'exécution de l'ensemble des formalités de publicité prévues aux deux alinéas
-précédents. Pour l'application du présent alinéa, la date à prendre en compte
-pour l'affichage en mairie est celle du premier jour où il est effectué.
+1° Soit conduits directement par la personne morale qui a pris l'initiative de
+sa création ;
+
+2° Soit confiés, par cette personne morale, à un établissement public ou à une
+société d'économie mixte selon les stipulations d'une convention publique
+d'aménagement répondant aux conditions définies aux articles L. 300-4 et L.
+300-5 ;
+
+3° Soit confiés, par cette personne morale, selon les stipulations d'une
+convention à une personne privée ou publique.

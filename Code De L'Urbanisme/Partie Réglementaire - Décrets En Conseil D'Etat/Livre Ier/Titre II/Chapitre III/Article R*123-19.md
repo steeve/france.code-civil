@@ -1,64 +1,36 @@
 Article R*123-19
 ----
-Sont en outre reportés, s'il en existe, sur les documents graphiques, à titre
-d'information :
+Le projet de plan local d'urbanisme est soumis à l'enquête publique par le maire
+ou le président de l'établissement public de coopération intercommunale
+compétent dans les formes prévues par les articles 7 à 21 du décret modifié n°
+85-453 du 23 avril 1985 pris pour l'application de la loi n° 83-630 du 12
+juillet 1983 relative à la démocratisation des enquêtes publiques et à la
+protection de l'environnement. Toutefois, le maire ou le président de
+l'établissement public exerce les compétences attribuées au préfet par les
+articles 7, 8, 11, 12, 16 et 18 à 21 de ce décret.
 
-1° Les périmètres suivants :
+L'enquête concernant un plan local d'urbanisme vaut enquête préalable à la
+déclaration d'utilité publique des opérations, acquisitions ou expropriations
+prévues à ce plan à l'intérieur d'une zone d'aménagement concerté lorsque le
+dossier soumis à l'enquête comprend les pièces mentionnées au I de l'article R.
+11-3 du code de l'expropriation pour cause d'utilité publique. Dans ce cas,
+l'enquête publique est organisée dans les formes prévues par les articles R.
+11-14-1 et suivants du code de l'expropriation pour cause d'utilité publique.
+Toutefois, le maire ou le président de l'établissement public exerce les
+compétences attribuées au préfet par les articles R. 11-14-2 à R. 11-14-5 et R.
+11-14-7 à R. 11-14-15 du même code.
 
-a) Les secteurs sauvegardés, délimités en application des articles L. 313-1 et
-suivants, ainsi que les périmètres de restauration immobilière définis dans les
-conditions prévues à l'article L. 313-4 ;
+Le dossier est composé du rapport de présentation, du projet d'aménagement et de
+développement durable, du règlement ainsi que de leurs documents graphiques, des
+annexes et des avis émis par les collectivités ou organismes associés ou
+consultés. Il peut être complété par tout ou partie des documents mentionnés à
+l'article R. 121-1.
 
-b) Les zones de préemption délimitées en application de l'article L. 142-1 dans
-sa rédaction antérieure à la loi n° 85-729 du 18 juillet 1985 relative à la
-définition et à la mise en oeuvre de principe d'aménagement et de l'article L.
-142-3 dans sa rédaction issue de ladite loi, et les zones délimitées en
-application de l'article L. 430-1 e) à l'intérieur desquelles la démolition des
-immeubles est subordonnée à la délivrance d'un permis de démolir.
-
-c) Les périmètres à l'intérieur desquels s'applique le droit de préemption
-urbain défini par les articles L. 211-1 et suivants, ainsi que les périmètres
-provisoires ou définitifs des zones d'aménagement différé ;
-
-d) Le plan des zones à risque d'exposition au plomb défini en application de
-l'article L. 32-5 du code de la santé publique ;
-
-e) Les périmètres de rénovation urbaine délimités en application de l'article R.
-312-1 avant la publication de la loi n° 85-729 du 18 juillet 1985 relative à la
-définition et à la mise en oeuvre de principes d'aménagement ;
-
-f) Les périmètres de résorption de l'habitat insalubre délimités en application
-de l'article L. 38 ou de l'article L. 42 du code de la santé publique ;
-
-g) Les périmètres de développement prioritaires délimités en application de la
-loi n° 80-531 du 15 juillet 1980 relative aux économies d'énergie et à
-l'utilisation de la chaleur ;
-
-h) Les périmètres d'interdiction ou de réglementation des plantations et semis
-d'essences forestières, les périmètres d'actions forestières et les périmètres
-de zones dégradées à faible taux de boisement, délimités en application des 1°,
-2° et 3° de l'article L. 126-1 du code rural ;
-
-i) Les périmètres miniers définis en application des titres II, III et V du
-livre Ier du Code minier ;
-
-j) Les périmètres de zones spéciales de recherche et d'exploitation de carrières
-et des zones d'exploitation et d'aménagement coordonné de carrières délimités en
-application des articles 109 et 109-1 du Code minier ;
-
-k) Le périmètre des zones délimitées en application de l'article L. 111-5-2 à
-l'intérieur desquelles certaines divisions foncières son soumises à déclaration
-préalable ;
-
-l) Les périmètres à l'intérieur desquels l'autorité compétente peut sursoir à
-statuer sur les demandes d'autorisation en application de l'article L. 111-10 ;
-
-m) Le périmètre des secteurs dans lesquels un programme d'aménagement d'ensemble
-a été approuvé en application de l'article L. 332-9 ;
-
-n) Le périmètre des secteurs situés au voisinage des infrastructures de
-transports terrestres qui sont affectés par le bruit, et dans lesquels existent
-des prescriptions d'isolement acoustique, déterminés en application de l'article
-13 de la loi n° 92-1444 du 31 décembre 1992 relative à la lutte contre le bruit.
-
-2° (paragraphe abrogé).
+L'approbation du plan local d'urbanisme dispense de l'enquête préalable aux
+classements et déclassements de voies et places publiques communales prévus à ce
+plan, sous réserve que celui-ci précise la catégorie dans laquelle elles doivent
+entrer et que ces classements et déclassements figurent parmi les opérations
+soumises à l'enquête prévue au premier alinéa du présent article. Cette dispense
+n'est applicable aux voiries nationale et départementale que si l'acte
+d'approbation est accompagné de l'avis conforme, selon le cas, du préfet ou du
+président du conseil général relatif à ce classement ou déclassement.

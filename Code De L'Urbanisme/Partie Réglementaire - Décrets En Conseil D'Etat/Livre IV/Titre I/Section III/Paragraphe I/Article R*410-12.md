@@ -1,31 +1,16 @@
 Article R*410-12
 ----
-Le certificat d'urbanisme indique dans tous les cas [*contenu*] :
+Le certificat d'urbanisme indique dans tous les cas :
 
 Les dispositions d'urbanisme applicables au terrain ;
 
 Les limitations administratives au droit de propriété affectant le terrain ;
 
-La desserte du terrain par les équipements publics existants ou prévus au regard
-notamment de l'article L. 421-5.
+La desserte du terrain par les équipements publics mentionnés à l'article L.
+421-5 existants ou prévus ;
 
-Il répond en outre aux questions posées par le demandeur dans le formulaire de
-demande. Selon le cas, il indique notamment :
+Le régime des taxes et participations d'urbanisme applicables au terrain ;
 
-a) La constructibilité du terrain ;
-
-b) Les possibilités de réaliser une opération déterminée ;
-
-c) En cas de division d'un terrain bâti et lorsqu'un coefficient d'occupation
-des sols est applicable au terrain, la surface hors oeuvre nette résiduelle ;
-
-d) En cas de division d'un terrain en vue de l'implantation de bâtiments qui ne
-constitue pas un lotissement au sens de l'article R. 315-1, la réponse porte sur
-chacun des terrains devant provenir de la division, et informe des conséquences
-de la division projetée.
-
-Dans les cas mentionnés aux c) et au d) ci-dessus, lorsque la demande a été
-accompagnée du plan de division du terrain prévu aux deux derniers alinéas de
-l'article R. 410-1, et lorsqu'un coefficient d'occupation des sols est
-applicable, la réponse indique, en outre, la répartition de la surface hors
-oeuvre nette, entre chacun des terrains issus de la division projetée.
+Dans le cas prévu au deuxième alinéa de l'article L. 410-1, il indique, en
+outre, si le terrain peut être utilisé pour la réalisation de l'opération
+mentionnée dans la demande.

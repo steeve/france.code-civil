@@ -1,70 +1,9 @@
 Article R*123-21
 ----
-Le règlement fixe les règles applicables aux terrains compris dans les diverses
-zones du territoire couvert par le plan.
-
-1° A cette fin, il doit :
-
-a) Déterminer l'affectation dominante des sols par zones selon les catégories
-prévues à l'article R. 123-18 en précisant l'usage principal qui peut en être
-fait, et s'il y a lieu, la nature des activités qui peuvent y être interdites ou
-soumises à des conditions particulières, telles que l'ouverture ou l'extension
-d'établissements industriels, l'exploitation de carrières, les opérations
-d'affouillement ou d'exhaussement des sols, les défrichements, coupes et
-abattages d'arbres ainsi que les divers modes d'occupation du sol qui font
-l'objet d'une réglementation ;
-
-b) Edicter, en fonction des situations locales, les prescriptions relatives à
-l'implantation des constructions par rapport aux voies, aux limites séparatives
-et autres constructions.
-
-2° Le règlement peut, en outre :
-
-a) Edicter les prescriptions relatives à l'accès, à la desserte, à l'équipement
-en réseaux divers et, le cas échéant, aux dimensions et à la surface des
-terrains ;
-
-b) Edicter les prescriptions relatives à l'emprise au sol des constructions, à
-leur hauteur et, le cas échéant, à leur aspect extérieur ;
-
-c) Edicter les prescriptions relatives aux obligations imposées en matière de
-réalisation d'aires de stationnement, d'espaces verts et d'aires de jeux et de
-loisirs. Toutefois, lorsque le règlement édicte des prescriptions relatives aux
-obligations imposées en matière de réalisation d'aires de stationnement, ces
-obligations ne sont pas applicables aux travaux de transformation ou
-d'amélioration de bâtiments affectés à des logements locatifs financés avec un
-prêt aidé par l'Etat, y compris dans le cas où ces travaux s'accompagnent de la
-création de surface hors oeuvre nette, dans la limite d'un plafond de 50 % de la
-surface hors oeuvre nette existant avant le commencement des travaux ;
-
-d) Fixer les cas dans lesquels la démolition de tout ou partie d'un immeuble ou
-d'un groupe d'immeubles compris à l'intérieur d'une zone définie à l'article R.
-123-18 (II, 6°) peut être interdite ou soumise à des prescriptions spéciales ;
-
-e) Fixer le ou les coefficients d'occupation des sols de chaque zone ou partie
-de zone et les conditions dans lesquelles ces coefficients peuvent être
-éventuellement dépassés en application des articles L. 123-1 et L. 332-1.
-
-f) Fixer la destination principale des îlots ou immeubles à restaurer ou à
-réhabiliter ;.
-
-g) Edicter les prescriptions relatives aux équipements et aménagement qui
-peuvent être autorisés dans les zones qui sont ou peuvent être aménagées en vue
-de la pratique du ski et les secteurs réservés aux remontées mécaniques.
-
-h) Edicter les prescriptions de nature à assurer la protection des éléments de
-paysage, quartiers, rues, monuments, sites et secteurs à protéger ou à mettre en
-valeur.
-
-3° Pour les zones dans lesquelles s'applique le transfert des possibilités de
-construction prévu à l'article L. 123-2, le règlement fixe les modalités de ce
-transfert et notamment la superficie minimale du terrain au profit duquel le
-transfert est effectué, ainsi que la densité minimale de construction exigée
-pour que le droit de construire puisse être reconnu sur ce même terrain.
-
-Pour les secteurs prévus par l'article R. 123-18 (I, 3°) pour lesquels un plan
-de masse coté à trois dimensions définit des disciplines spéciales, les
-prescriptions architecturales figurent sur ce plan de masse.
-
-Un arrêté du ministre chargé de l'urbanisme fixe la forme de présentation du
-règlement du plan d'occupation des sols.
+Lorsqu'il engage la procédure de révision dans les conditions prévues aux
+deuxième et troisième alinéas de l'article L. 123-14, le préfet en informe les
+personnes publiques mentionnées au premier alinéa de l'article L. 123-8. Il
+exerce les compétences attribuées au maire, au conseil municipal, au président
+ou à l'organe délibérant de l'établissement public de coopération
+intercommunale, pour l'application des articles L. 123-6, L. 123-8, L. 123-9 (2e
+alinéa), L. 123-10 et les articles R. 123-15 à R. 123-19.

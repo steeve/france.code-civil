@@ -1,14 +1,30 @@
 Article R*123-25
 ----
-Les dispositions des articles R. 123-26 à R. 123-29 [*mesures de sauvegarde*]
-sont applicables sur le territoire des communes, parties ou ensembles de
-communes, pour lequel l'établissement d'un plan d'occupation des sols a été
-prescrit, à dater du jour de cette prescription et jusqu'à ce que ledit plan ait
-été rendu public [*période*]. En cas de revision du plan, ces dispositions sont
-applicables à compter de la date de publication de la délibération ou de
-l'arrêté du préfet prescrivant la révision du plan d'occupation des sols et
-jusq'à ce que le plan révisé soit approuvé.
+Tout acte mentionné à l'article R. 123-24 est affiché pendant un mois en mairie
+ou au siège de l'établissement public compétent et, dans ce cas, dans les
+mairies des communes membres concernées. Mention de cet affichage est insérée en
+caractères apparents dans un journal diffusé dans le département.
 
-Le décret ou l'arrêté portant création d'un secteur sauvegardé a les effets
-prévus aux articles R. 123-26 à R. 123-29 à compter de la date de sa
-publication.
+Il est en outre publié :
+
+a) Au recueil des actes administratifs mentionné à l'article R. 2121-10 du code
+général des collectivités territoriales, lorsqu'il s'agit d'une délibération du
+conseil municipal d'une commune de 3 500 habitants et plus ;
+
+b) Au recueil des actes administratifs mentionné à l'article R. 5211-41 du code
+général des collectivités territoriales, s'il existe, lorsqu'il s'agit d'une
+délibération de l'organe délibérant d'un établissement public de coopération
+intercommunale comportant au moins une commune de 3 500 habitants et plus ;
+
+c) Au Recueil des actes administratifs de l'Etat dans le département, lorsqu'il
+s'agit d'un arrêté préfectoral ;
+
+d) Au Journal officiel de la République française, lorsqu'il s'agit d'un décret
+en Conseil d'Etat.
+
+Chacune de ces formalités de publicité mentionne le ou les lieux où le dossier
+peut être consulté.
+
+L'arrêté ou la délibération produit ses effets juridiques dès l'exécution de
+l'ensemble des formalités prévues au premier alinéa ci-dessus, la date à prendre
+en compte pour l'affichage étant celle du premier jour où il est effectué.

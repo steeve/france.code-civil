@@ -1,20 +1,12 @@
 Article R165-1
 ----
-Des arrêtés interministériels pris après avis de la commission mentionnée à
-l'article R. 165-10 fixent :
+Les produits et prestations mentionnés à l'article L. 165-1 ne peuvent être
+remboursés par l'assurance maladie, sur prescription médicale, que s'ils
+figurent sur une liste établie par arrêté du ministre chargé de la sécurité
+sociale et du ministre chargé de la santé après avis de la commission prévue à
+ce même article.
 
-1°) la liste ou nomenclature des fournitures et appareils qui peuvent être pris
-en charge au titre des prestations sanitaires ;
-
-2°) leurs spécifications et, éventuellement, leur délai normal d'utilisation, le
-délai pendant lequel ils doivent être garantis, totalement ou partiellement,
-ainsi que les indications médicales auxquelles peut être subordonnée leur prise
-en charge ;
-
-3°) les tarifs de responsabilité des organismes d'assurance maladie et du
-ministère chargé des anciens combattants, applicables à ces fournitures et
-appareils, ainsi qu'à leur renouvellement, leur réparation et leur adaptation
-éventuelle.
-
-L'ensemble de ces arrêtés constitue "le tarif interministériel des prestations
-sanitaires".
+L'inscription sur la liste précise, le cas échéant, les spécifications
+techniques, les seules indications thérapeutiques ou diagnostiques et les
+conditions particulières de prescription ou d'utilisation du produit ou de la
+prestation ouvrant droit à la prise en charge.

@@ -1,22 +1,23 @@
 Article R*122-11
 ----
-Le projet de schéma directeur ou de schéma de secteur arrêté, accompagné des
-avis exprimés à la suite des consultations prévues au premier alinéa et au
-deuxième alinéa de l'article R. 122-10 et des communications du préfet
-mentionnées au troisième alinéa du même article, est mis par décision du
-président de l'établissement à la disposition du public pendant un mois au siège
-de l'établissement et dans les mairies des communes concernées.
+Lorsqu'il est fait application de l'article L. 122-15, l'examen conjoint prévu
+au 2° de cet article a lieu avant l'ouverture de l'enquête publique. Lorsqu'une
+association mentionnée à l'article L. 121-5 demande à être consultée, son
+président adresse la demande au préfet. L'enquête publique est organisée dans
+les formes prévues par les articles R. 11-14-1 et suivants du code de
+l'expropriation pour cause d'utilité publique.
 
-Cette décision est affichée au siège de l'établissement public et dans les
-mairies des communes pendant la même durée de un mois. Mention en est insérée en
-caractères apparents dans deux journaux diffusés dans le ou les départements
-concernés huit jours au moins avant la date à compter de laquelle le projet est
-mis à la disposition du public.
+Le dossier de mise en compatibilité du schéma de cohérence territoriale, le
+rapport et les conclusions du commissaire enquêteur ou de la commission
+d'enquête ainsi que le procès-verbal de la réunion ayant pour objet l'examen
+conjoint prévu à l'alinéa précédent sont soumis, pour avis, par le préfet aux
+conseils municipaux ou à l'organe délibérant des établissements publics de
+coopération intercommunale compétents situés dans le périmètre du schéma ainsi
+qu'à l'organe délibérant de l'établissement public prévu à l'article L. 122-4.
+Si ceux-ci ne se sont pas prononcés dans un délai de deux mois, ils sont réputés
+avoir donné un avis favorable.
 
-La décision fixe :
-
-a) La date à compter de laquelle le projet de schéma directeur ou de schéma de
-secteur est à la disposition du public ;
-
-b) Les modalités suivant lesquelles le public peut en prendre connaissance et
-formuler ses observations.
+Le ministre chargé de l'urbanisme contresigne ou cosigne la déclaration
+d'utilité publique emportant approbation des nouvelles dispositions du schéma de
+cohérence territoriale lorsque cette déclaration ne relève pas de la compétence
+du préfet.

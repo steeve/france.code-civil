@@ -29,7 +29,7 @@ II.- Lorsque la déclaration d'utilité publique est demandée en vue de
 l'acquisition d'immeubles, ou lorsqu'elle est demandée en vue de la réalisation
 d'une opération d'aménagement ou d'urbanisme importante et qu'il est nécessaire
 de procéder à l'acquisition des immeubles avant que le projet n'ait pu être
-établi *dossier simplifié* :
+établi :
 
 1° Une notice explicative ;
 
@@ -39,18 +39,10 @@ de procéder à l'acquisition des immeubles avant que le projet n'ait pu être
 
 4° L'estimation sommaire des acquisitions à réaliser.
 
-III - Lorsque la déclaration d'utilité publique est demandée pour des opérations
-ou acquisitions prévues par les plans d'occupation des sols ou les documents
-d'urbanisme en tenant lieu et à l'occasion de l'approbation de ces plans;
-
-1° Une notice explicative ;
-
-2° L'ordre de grandeur des dépenses.
-
-Dans les trois cas visés aux I, II, II, ci-dessus, la notice explicative indique
-l'objet de l'opération et les raisons pour lesquelles notamment du point de vue
-de l'insertion dans l'environnement, parmi les partis envisagés, le projet
-soumis à l'enquête a été retenu.
+Dans les cas prévus aux I et II ci-dessus, la notice explicative indique l'objet
+de l'opération et les raisons pour lesquelles notamment du point de vue de
+l'insertion dans l'environnement, parmi les partis envisagés, le projet soumis à
+l'enquête a été retenu.
 
 La notice explicative comprend, s'il y a lieu, les indications mentionnées à
 l'article 8-1 du décret n° 77-1141 du 12 octobre 1977.
