@@ -1,6 +1,6 @@
 Article 121 V ter
 ----
-La commission centrale instituée par l'article 238 bis E-I du code général des
+La commission centrale mentionnée à l'article 208 quater du code général des
 impôts est composée comme suit :
 
 Le ministre de l'économie et des finances ou son représentant président;

@@ -1,8 +1,8 @@
 Article 121 V bis
 ----
-La commission locale instituée dans chacun des départements de la Guadeloupe de
-la Guyane de la Martinique et de la Réunion par l'article 238 bis E-I du code
-général des impôts est composée comme suit [*composition*] :
+Dans chacun des départements de la Guadeloupe, de la Guyane, de la Martinique et
+de la Réunion, la commission locale mentionnée à l'article 208 quater du code
+général des impôts est composée comme suit :
 
 Le préfet du département ou son représentant président;
 

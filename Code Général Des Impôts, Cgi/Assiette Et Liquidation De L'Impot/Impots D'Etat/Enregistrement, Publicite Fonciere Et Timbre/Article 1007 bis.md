@@ -1,82 +1,113 @@
 Article 1007 bis
 ----
-Le tarif de la taxe différentielle sur les véhicules à moteur [*vignette*] est
-fixé comme suit (1) :
+I. Pour les véhicules autres que les motocyclettes, le tarif de la taxe
+différentielle [*vignette*] sur les véhicules à moteur est fixé comme suit (1) :
 
-------------------------------------------------------------------- : :
-VEHICULES AYANT UNE PUISSANCE :
+===================================================================
 
-: DESIGNATION : FISCALE :
+: : VEHICULES AYANT UNE :
 
-: ----------------------------------:
+: : PUISSANCE FISCALE :
+
+: DESIGNATION :-----------------------------------:
 
 : : Inférieure : De : De :
 
-: : ou égale : 5 à 7CV : 8 à 11CV :
+: : ou égale à : 5 à 7 CV : 8 et 9 CV :
 
-: : à 4CV : inclus : inclus :
+: : 4 CV : inclus : :
 
-:-------------------------------:------------:---------:----------:
+:-----------------------------:------------:----------:-----------:
 
 : : F : F : F :
 
-: Véhicules dont l'âge n'excède : : : :
+: Véhicules dont l'âge : : : :
 
-: pas cinq ans. : 120 : 200 : 480 :
+: n'excède pas cinq ans : 140 : 240 : 560 :
 
-: Véhicules ayant plus de cinq : : : :
+: Véhicules ayant plus de : : : :
 
-: ans, mais moins de vingt ans : : : :
+: cinq ans mais moins de : : : :
 
-: d'âge : 60 : 100 : 240 :
+: vingt ans d'âge : 70 : 120 : 280 :
 
-: Véhicules ayant plus de vingt : : : :
+: Véhicules ayant plus de : : : :
 
-: ans, mais moins de vingt-cinq : : : :
+: vingt ans mais moins de : : : :
 
-: ans d'âge. : 50 : 50 : 50 :
+: vingt-cinq ans d'âge : 60 : 60 : 60 :
 
-: : : : :
+======================================================================================================================================
 
--------------------------------------------------------------------
------------------------------------------------------------ : : VEHICULES AYANT
-UNE :
+: : VEHICULES AYANT UNE :
 
-: DESIGNATION : PUISSANCE FISCALE :
+: : PUISSANCE FISCALE :
 
-: --------------------------:
+: DESIGNATION :------------------------------------:
 
-: : De 12 : Egale ou :
+: : De 10 et : De 12 à : Egale ou :
 
-: : à 16 CV : supérieure :
+: : 11 CV : 16 CV : supérieure :
 
-: : inclus : à 17 CV :
+: : : inclus : à 17 CV :
 
-:-------------------------------:------------:------------:
+:----------------------------:------------:----------:------------:
 
-: : F : F :
+: : F : F : F :
 
-: Véhicules dont l'âge n'excède : : :
+: Véhicules dont l'âge : : : :
 
-: pas cinq ans. : 840 : 1200 :
+: n'excède pas cinq ans : 640 : 1.100 : 1.600 :
 
-: Véhicules ayant plus de cinq : : :
+: Véhicules ayant plus de : : : :
 
-: ans, mais moins de vingt ans : : :
+: cinq ans mais moins de : : : :
 
-: d'âge : 420 : 600 :
+: vingt ans d'âge : 320 : 550 : 800 :
 
-: Véhicules ayant plus de vingt : : :
+: Véhicules ayant plus de : : : :
 
-: ans, mais moins de vingt-cinq : : :
+: vingt ans mais moins de : : : :
 
-: ans d'âge. : 50 : 50 :
+: vingt-cinq ans d'âge : 60 : 60 : 60 :
 
-: : : :
+=================================================================== II. Le tarif
+de la taxe spéciale prévue au b de l'article 1007 est fixé comme suit (1) :
 
------------------------------------------------------------ Le droit prévu pour
-les véhicules d'une puissance égale ou supérieure à 17 CV s'applique, pour les
-voitures particulières, à compter de la troisième année d'âge et tient lieu de
-taxe sur les voitures particulières de plus de 16 CV.
+- véhicules dont l'âge n'excède pas cinq ans : 5.000 F [*montant*] ;
 
-1) A compter de la période d'imposition débutant en 1976.
+- véhicules ayant plus de cinq ans mais moins de vingt ans d'âge : 2.500 F ;
+
+- véhicules ayant plus de vingt ans mais moins de vingt-cinq ans d'âge : 750 F.
+
+III. Pour les motocyclettes le tarif de la taxe différentielle sur les véhicules
+à moteur est fixé comme suit (1) :
+
+===================================================================
+
+: : MOTOCYCLETTES AYANT :
+
+: : UNE PUISSANCE FISCALE :
+
+: DESIGNATION :------------------------------------:
+
+: : De : De 10 et : Supérieure :
+
+: : 8 et 9 CV : 11 CV : à 11 CV :
+
+:----------------------------:------------:----------:------------:
+
+: : F : F : F :
+
+: Motocyclettes dont l'âge : : : :
+
+: n'excède pas cinq ans : 280 : 560 : 800 :
+
+: Motocyclettes ayant plus : : : :
+
+: de cinq ans mais moins de : : : :
+
+: vingt ans d'âge : 140 : 280 : 400 :
+
+=================================================================== (1) A
+compter de la période d'imposition débutant en 1980.

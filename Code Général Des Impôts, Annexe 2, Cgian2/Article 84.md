@@ -12,5 +12,5 @@ II. En cas de distribution soit de primes à la construction ne satisfaisant pas
 aux conditions exigées à l'article 83, soit de sommes ne provenant pas de primes
 à la construction encaissées par la société, les sommes ou valeurs ainsi
 réparties sont réputées versées à des bénéficiaires non identifiés et soumises
-au régime défini aux articles 9, 111-c, 169, 187 et 197-IV du code général des
-impôts [*régime des rémunérations occultes*].
+au régime des rémunérations et avantages occultes mentionnés à l'article 111-c
+du code général des impôts.
