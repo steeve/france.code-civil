@@ -3,9 +3,7 @@ Article L531-1
 Les sociétés d'intérêt collectif agricole peuvent se constituer soit sous le
 régime des sociétés civiles particulières régies par les articles 1832 et
 suivants du code civil, soit dans les formes prévues pour les sociétés par
-actions et les sociétés à responsabilité limitée par la loi du 24 juillet 1966
-sur les sociétés commerciales. Elles peuvent également se constituer dans les
-formes prévues par le titre III de la loi du 24 juillet 1867 sur les sociétés.
+actions et les sociétés à responsabilité limitée par le code de commerce.
 
 Les sociétés d'intérêt collectif agricole ont pour objet de créer ou de gérer
 des installations et équipements ou d'assurer des services soit dans l'intérêt

@@ -20,8 +20,7 @@ A la valeur d'entrée affectée d'un indice exprimant les variations du niveau
 général des prix.
 
 Les sociétés qui procèdent à la réévaluation doivent, sans préjudice des
-dispositions de l'article 341 de la loi du 24 juillet 1966 sur les sociétés
-commerciales, fournir des informations sur les techniques appliquées pour la
-réévaluation des différentes catégories de biens. Les sociétés qui sont tenues
-de publier leurs comptes annuels sont également tenues de publier ces
-informations.
+dispositions de l'article L. 232-6 du code de commerce, fournir des informations
+sur les techniques appliquées pour la réévaluation des différentes catégories de
+biens. Les sociétés qui sont tenues de publier leurs comptes annuels sont
+également tenues de publier ces informations.

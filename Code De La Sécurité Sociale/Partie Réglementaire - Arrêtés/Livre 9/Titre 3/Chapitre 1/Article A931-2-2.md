@@ -17,9 +17,9 @@ refus d'inscription sur une liste professionnelle ;
 
 4. Si elles ont exercé des fonctions d'administrateur ou de direction dans des
 entreprises ayant fait l'objet de mesures de redressement ou de liquidation
-judiciaires prévues par la loi n° 85-98 du 25 janvier 1985 ou, dans le régime
-antérieur, de mesures prévues par la loi n° 67-563 du 13 juillet 1967 sur le
-règlement judiciaire, la faillite personnelle et les banqueroutes, ou de mesures
+judiciaires prévues par le code de commerce ou, dans le régime antérieur, de
+mesures prévues par la loi n° 67-563 du 13 juillet 1967 sur le règlement
+judiciaire, la faillite personnelle et les banqueroutes, ou de mesures
 équivalentes à l'étranger.
 
 Les personnes mentionnées au I, e, de l'article A 931-2-1 doivent également

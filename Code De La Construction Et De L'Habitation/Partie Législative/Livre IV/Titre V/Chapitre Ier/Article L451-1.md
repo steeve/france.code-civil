@@ -14,11 +14,11 @@ modéré ou de la caisse des dépôts et consignations en application du 3° de
 l'article L. 351-2.
 
 Il en est de même pour les groupements d'intérêt économique constitués en
-application de l'ordonnance n. 67-821 du 23 septembre 1967, qui comprennent au
-moins un organisme d'habitations à loyer modéré parmi leurs membres et pour les
-personnes privées mandataires d'organismes d'habitations à loyer modéré dans le
-cadre du contrat de promotion immobilière prévu au livre II, titre II, du
-présent code relatif à la promotion immobilière.
+application des articles L. 251-1 et suivants du code de commerce, qui
+comprennent au moins un organisme d'habitations à loyer modéré parmi leurs
+membres et pour les personnes privées mandataires d'organismes d'habitations à
+loyer modéré dans le cadre du contrat de promotion immobilière prévu au livre
+II, titre II, du présent code relatif à la promotion immobilière.
 
 A l'occasion de l'inspection d'une société anonyme de crédit immobilier, et pour
 les besoins de cette inspection, l'administration peut étendre ses

@@ -9,7 +9,7 @@ d'habitation destinés à être attribués ou vendus aux associés sont des soci
 L'objet de ces sociétés comprend, en outre, la gestion et l'entretien des
 immeubles jusqu'à la mise en place d'une organisation différente.
 
-Elles sont régies par les dispositions non contraires du titre III de la loi du
-24 juillet 1867 et de la loi n. 47-1775 du 10 septembre 1947 portant statut de
-la coopération, ainsi que par les dispositions des articles L. 212-2 et L. 212-6
-(alinéas 1, 2 et 4).
+Elles sont régies par les dispositions non contraires du chapitre Ier du titre
+III du livre II de la partie législative du code de commerce et de la loi n°
+47-1775 du 10 septembre 1947 portant statut de la coopération, ainsi que par les
+dispositions des articles L. 212-2 et L. 212-6 (alinéas 1,2 et 4).

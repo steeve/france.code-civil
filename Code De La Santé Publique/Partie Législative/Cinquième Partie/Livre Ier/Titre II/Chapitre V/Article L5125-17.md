@@ -12,8 +12,7 @@ officine, quel que soit le nombre de pharmaciens associés, et que la gérance d
 l'officine soit assurée par un ou plusieurs des pharmaciens associés.
 
 Les gérants et les associés sont responsables à l'égard des tiers dans les
-limites fixées aux articles 34 et 52 de la loi du 24 juillet 1966 sur les
-sociétés commerciales.
+limites fixées aux articles L. 223-1 et L. 223-22 du code de commerce.
 
 Aucune limite n'est apportée à la responsabilité délictuelle et quasi
 délictuelle des gérants, qui sont obligatoirement garantis contre tous les
