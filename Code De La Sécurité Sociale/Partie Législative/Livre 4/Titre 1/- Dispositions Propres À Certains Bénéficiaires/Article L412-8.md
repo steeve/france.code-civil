@@ -91,7 +91,10 @@ dispensées ou prescrites par l'Agence nationale pour l'emploi ;
 code du travail, pour siéger dans une instance instituée par une disposition
 législative ou réglementaire auprès d'une autorité de l'Etat pour les accidents
 survenus par le fait ou à l'occasion de leurs missions, dans la mesure où ils ne
-bénéficient pas à un autre titre des dispositions du présent article.
+bénéficient pas à un autre titre des dispositions du présent article ;
+
+13° Les volontaires mentionnés au I de l'article L. 122-14 du code du service
+national.
 
 Les dispositions de l'article L. 434-1 [*indemnité en capital*] du présent code
 ne sont pas applicables aux personnes mentionnées aux a. et b. du 1° ci-dessus.
@@ -101,9 +104,9 @@ et de stages ainsi que la nature des établissements mentionnés aux a. et b. du
 1° ci-dessus.
 
 En ce qui concerne les personnes mentionnées aux 1°, 2° et 3° du présent article
-et non assujetties aux assurances sociales en vertu du livre III, le décret en
-Conseil d'Etat et, pour les personnes mentionnées aux 4°, 5°, 6°, 7°, 9°, 10°,
-11° et 12° des décrets prévus par ceux-ci, déterminent à qui incombent les
-obligations de l'employeur. Pour les personnes qui ne sont pas rémunérées ou ne
-reçoivent pas une rémunération normale, ils fixent les bases des cotisations et
-celles des indemnités.
+et non assujetties aux assurances sociales en vertu du livre III ainsi que les
+personnes mentionnées au 13°, le décret en Conseil d'Etat et, pour les personnes
+mentionnées aux 4°, 5°, 6°, 7°, 9°, 10°, 11° et 12° des décrets prévus par
+ceux-ci, déterminent à qui incombent les obligations de l'employeur. Pour les
+personnes qui ne sont pas rémunérées ou ne reçoivent pas une rémunération
+normale, ils fixent les bases des cotisations et celles des indemnités.

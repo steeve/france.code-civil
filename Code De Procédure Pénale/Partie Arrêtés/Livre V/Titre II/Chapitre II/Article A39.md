@@ -1,51 +1,31 @@
 Article A39
 ----
-La liste des établissements pénitentiaires classés dans la catégorie des centres
-de détention prévus aux articles D. 70 et D. 70-2 est fixée conformément au
-tableau ci-dessous. Ce tableau contient la distinction entre les centres de
-détention fermés, les centres de détention à régime ouvert et les centres de
-détention pour jeunes condamnés.
+La liste des établissements pénitentiaires classés dans la catégorie des maisons
+centrales prévue à l'article D. 71 est fixée comme suit :
 
-1° Centres de détention fermés :
+Maison centrale d'Arles (Bouches-du-Rhône) ;
 
-Centre de détention de Caen ;
+Quartier maison centrale du centre pénitentiaire de Château-Thierry (Aisne) ;
 
-Centre de détention d'Eysses ;
+Quartier maison centrale du centre pénitentiaire de Clairvaux (Aube) ;
 
-Centre de détention de Mauzac ;
+Quartier maison centrale du centre pénitentiaire de Ducos (Martinique) ;
 
-Centre de détention de Melun (à l'exception du quartier affecté à des condamnés
-bénéficiaires du régime spécial prévu aux articles D. 490 à D. 496) ;
+Maison centrale d'Ensisheim (Haut-Rhin) ;
 
-Centre de détention de Mulhouse ;
+Quartier maison centrale du centre pénitentiaire de Lannemezan (Hautes-Pyrénées)
+;
 
-Centre de détention de Muret ;
+Quartier maison centrale du centre pénitentiaire de Moulins-Yzeure (Allier) ;
 
-Centre de détention de Riom ;
+Maison centrale de Poissy (Yvelines) ;
 
-Centre de détention de Toul ;
+Quartier maison centrale du centre pénitentiaire du Port (Réunion) ;
 
-Centre de formation professionnelle d'Ecrouves ;
+Quartier maison centrale du centre pénitentiaire de Remire-Montjoly (Guyane) ;
 
-Centre sanitaire de Liancourt ;
+Maison centrale de Riom (Puy-de-Dôme) ;
 
-Centre pénitentiaire de Rennes (à l'exception du quartier affecté aux condamnés
-relevant du régime des maisons centrales) ;
+Maison centrale de Saint-Martin-de-Ré (Charente-Maritime) ;
 
-Centre pénitentiaire de Clairvaux (intitulé modifié par l'arrêté du 14 janvier
-1980 publié au Journal officiel du 26 janvier 1980) (à l'exception des quartiers
-affectés aux condamnés relevant du régime des maisons centrales) ;
-
-Il est aménagé un quartier Centre de détention aux prisons de Fresnes.
-
-2° Centres de détention à régime ouvert :
-
-Centre agricole de Casabianda ;
-
-Centre du fort de La Prée.
-
-3° Centres de détention pour jeunes condamnés :
-
-Centre de détention de Loos ;
-
-Centre ouvert d'Oermingen.
+Maison centrale de Saint-Maur (Indre).
