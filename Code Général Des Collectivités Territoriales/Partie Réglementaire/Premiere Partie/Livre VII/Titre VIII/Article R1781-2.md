@@ -5,8 +5,8 @@ renouvellement du conseil général en 2007 :
 
 1° L'article R. 1711-2 ;
 
-2° L'article R. 1751-1 en tant qu'il rend applicable à Mayotte l'article R.
-1411-6 ;
+2° L'article R. 1751-1 en tant qu'il rend applicable à Mayotte les articles R.
+1411-6 à R. 1411-8 ;
 
 3° L'article R. 1762-1 en tant qu'il rend applicable à Mayotte l'article R.
 1524-1 ;
