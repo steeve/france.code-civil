@@ -10,7 +10,5 @@ La valeur résiduelle des immeubles est amortissable sur leur durée normale
 d'utilisation.
 
 Les dispositions du présent article s'appliquent aux constructions achevées
-avant le 1er janvier 1976 [*date*]. Elles sont reconduites pour les
-constructions achevées avant le 31 décembre 1982, à la condition que ces
-dernières s'incorporent à des installations de production existant au 1er
-janvier 1976.
+avant le 31 décembre 1988 [*date*] à condition qu'elles s'incorporent à des
+installations de production existant au 31 décembre 1980.

@@ -58,7 +58,7 @@ Toutefois, pour les investissements réalisés hors de France [*à l'étranger*]
 cours des exercices clos avant le 1er janvier 1985, la réintégration ne porte
 que sur 60 % de leur montant. En ce qui concerne les travaux de recherches ou
 d'immobilisations réalisés en France au cours des exercices clos avant le 1er
-janvier 1990, ou les prises de participations effectuées au cours de la même
+janvier 1995, ou les prises de participations effectuées au cours de la même
 période dans des sociétés ou organismes mentionnés au présent article et ayant
 pour objet exclusif la recherche et l'exploitation de gisements d'hydrocarbures
 en France, la réintégration ne porte que sur 20 % du montant de ces

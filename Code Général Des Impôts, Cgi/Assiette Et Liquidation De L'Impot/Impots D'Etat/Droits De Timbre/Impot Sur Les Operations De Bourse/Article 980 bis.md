@@ -6,10 +6,10 @@ Le droit de timbre sur les opérations de bourse n'est pas applicable :
 professionnels et enregistrées comme telles dans les comptes ouverts à cet effet
 dans les écritures des agents de change ;
 
-2° Aux opérations d'achat et de vente portant sur des obligations libellées en
-francs et inscrites à la cote officielle de la bourse de Paris ou à la cote du
-second marché ou figurant au relevé quotidien des valeurs non admises à la cote
-officielle de cette bourse.
+2° Aux opérations d'achat et de vente portant sur des obligations inscrites à la
+cote officielle de la bourse de Paris ou à la cote du second marché ou figurant
+au relevé quotidien des valeurs non admises à la cote officielle de cette
+bourse.
 
 L'exonération ne s'applique pas aux obligations échangeables ou convertibles en
 actions, aux valeurs assorties de clauses d'indexation ou de clauses de
