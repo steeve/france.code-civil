@@ -51,11 +51,10 @@ domaines de la santé publique, de la démographie médicale, du médicament et 
 la lutte contre l'exclusion en matière d'accès aux soins.
 
 Un avenant annuel à la convention d'objectifs et de gestion de la branche
-maladie du régime général détermine, en fonction de l'objectif national
-d'évolution des dépenses d'assurance maladie voté par le Parlement, l'objectif
-prévisionnel d'évolution des dépenses de soins de ville mentionné à l'article L.
-162-5-2 du code de la sécurité sociale ainsi que les conditions et les modalités
-de sa mise en oeuvre.
+maladie du régime général détermine, en fonction de l'objectif national de
+dépenses d'assurance maladie voté par le Parlement, l'objectif prévisionnel des
+dépenses de soins de ville et, en son sein, l'objectif de dépenses déléguées et
+précise les conditions et modalités de mise en oeuvre de ces objectifs.
 
 Les dépenses de soins de ville comprennent :
 
@@ -69,6 +68,9 @@ public ;
 médicales délivrées en ville ;
 
 3° Les prestations en espèces.
+
+Les dépenses déléguées comprennent les dépenses mentionnées au 1° ci-dessus
+ainsi que les frais de transport mentionnés à l'article L. 322-5.
 
 III. - Les conventions d'objectifs et de gestion sont conclues pour une période
 minimale de trois ans. Elles sont communiquées aux conseils de surveillance

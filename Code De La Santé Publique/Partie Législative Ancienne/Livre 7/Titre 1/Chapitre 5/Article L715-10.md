@@ -18,4 +18,6 @@ individualité et son statut propre pour tout ce qui concerne sa gestion.
 
 Ces contrats sont approuvés selon les modalités prévues à l'article L. 712-16.
 
-Ces concessionnaires ne peuvent recevoir de subventions d'équipement.
+Ces concessionnaires ne peuvent recevoir de subventions pour leurs équipements,
+à l'exception des subventions du Fonds pour la modernisation des cliniques
+privées.

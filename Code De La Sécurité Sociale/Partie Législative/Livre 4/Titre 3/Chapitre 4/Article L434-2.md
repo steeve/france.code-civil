@@ -16,12 +16,15 @@ tierce personne, le montant de la rente est majoré. En aucun cas, cette
 majoration ne peut être inférieure à un montant minimum affecté des coefficients
 de revalorisation fixés dans les conditions prévues à l'article L. 341-6.
 
-Lorsque, par suite d'un ou plusieurs accidents du travail antérieurs, la
-réduction totale subie par la capacité professionnelle initiale est égale ou
-supérieure à un taux minimum, le total de la nouvelle rente et des rentes
-allouées en réparation des accidents antérieurs ne peut être inférieur à la
-rente calculée sur la base du taux de la réduction totale et du salaire annuel
-minimum prévu au premier alinéa de l'article L. 434-16.
+En cas d'accidents successifs, le taux ou la somme des taux d'incapacité
+permanente antérieurement reconnue constitue le point de départ de la réduction
+ou de l'augmentation prévue au deuxième alinéa pour le calcul de la rente
+afférente au dernier accident. Lorsque, par suite d'un ou plusieurs accidents du
+travail, la somme des taux d'incapacité permanente est égale ou supérieure à un
+taux minimum, l'indemnisation se fait, sur demande de la victime, soit par
+l'attribution d'une rente qui tient compte de la ou des indemnités en capital
+précédemment versées, soit par l'attribution d'une indemnité en capital dans les
+conditions prévues à l'article L. 434-1.
 
 Lorsque l'état d'invalidité apprécié conformément aux dispositions du présent
 article est susceptible d'ouvrir droit, si cet état relève de l'assurance

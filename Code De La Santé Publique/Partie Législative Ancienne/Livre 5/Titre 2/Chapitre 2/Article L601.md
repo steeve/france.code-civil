@@ -48,3 +48,17 @@ d'exonérer le fabricant ou, s'il est distinct, le titulaire de l'autorisation d
 mise sur le marché de la responsabilité que l'un ou l'autre peut encourir dans
 les conditions du droit commun en raison de la fabrication ou de la mise sur le
 marché du médicament ou produit.
+
+Pour une spécialité générique visée au premier alinéa de l'article L. 601-6,
+l'autorisation de mise sur le marché peut être délivrée avant l'expiration des
+droits de propriété intellectuelle qui s'attachent à la spécialité de référence
+concernée. Toutefois, la commercialisation de cette spécialité générique ne peut
+intervenir qu'après l'expiration de ces droits.
+
+Lorsqu'elle a délivré une autorisation de mise sur le marché dans les conditions
+prévues au précédent alinéa, l'Agence française de sécurité sanitaire des
+produits de santé en informe le titulaire de l'autorisation de mise sur le
+marché de la spécialité de référence.
+
+[Dispositions déclarées non conformes à la Constitution par décision du Conseil
+constitutionnel n° 99-422 DC du 21 décembre 1999.]

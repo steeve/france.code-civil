@@ -12,9 +12,8 @@ soins, y compris palliatifs, et des pratiques professionnelles ;
 des références médicales et professionnelles en matière de prévention, de
 diagnostic, de thérapeutique et de soins palliatifs ;
 
-3° De donner un avis sur la liste des actes, prestations et fournitures qui sont
-pris en charge ou donnent lieu à remboursement par les organismes d'assurance
-maladie, à l'exception des médicaments ;
+3° De donner un avis sur la liste des actes ou prestations qui sont pris en
+charge ou donnent lieu à remboursement par les organismes d'assurance maladie ;
 
 4° De réaliser ou de valider des études d'évaluation des technologies relatives
 à son domaine de compétence ;

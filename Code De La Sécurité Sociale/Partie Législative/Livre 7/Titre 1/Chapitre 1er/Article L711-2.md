@@ -6,8 +6,8 @@ ci-dessus sont notamment constituées par des cotisations à la charge des
 assurés, précomptées et calculées dans des conditions fixées par décret en
 Conseil d'Etat :
 
-1°) sur les allocations et revenus de remplacement [*d'assurance chômage*]
-mentionnés à l'article L. 131-2 ;
+1°) sur les allocations et revenus de remplacement mentionnés à l'article L.
+131-2 ;
 
 2°) sur les avantages de retraite financés en tout ou partie par une
 contribution de l'employeur assujetti à l'un des régimes mentionnés ci-dessus,
@@ -25,6 +25,4 @@ réserve d'adaptations fixées par décret en Conseil d'Etat.
 
 Ces ressources sont également constituées par une fraction du produit des
 contributions sociales mentionnées aux articles L. 136-1, L. 136-6, L. 136-7, L.
-136-7-1, et une fraction du produit des droits visé à l'article L. 139-1, à
-concurrence du montant correspondant à l'application des dispositions de
-l'article L. 139-2.
+136-7-1.
