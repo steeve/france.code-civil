@@ -29,9 +29,6 @@ doit être adressée au préfet du département de cet établissement. Le
 propriétaire doit justifier de son identité et déclarer, selon le cas, l'adresse
 du domicile du locataire ou celle de l'établissement d'affectation.
 
-Les dispositions du présent article ne sont applicables ni aux cyclomoteurs à
-trois roues non munis d'une carrosserie ni aux cyclomoteurs à deux roues.
-
 Les dispositions du présent article ne sont pas applicables aux machines
 agricoles automotrices et aux véhicules ou appareils agricoles remorqués,
 appartenant à une exploitation agricole, à une entreprise de travaux agricoles

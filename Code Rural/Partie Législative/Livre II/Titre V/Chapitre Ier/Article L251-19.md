@@ -1,6 +1,6 @@
 Article L251-19
 ----
-I. - Dans le cadre des inscriptions et des contrôles phytosanitaires, les agents
+I. - Dans le cadre des inspections et des contrôles phytosanitaires, les agents
 visés au I de l'article L. 251-18 et au I de l'article L. 251-14 ont accès aux
 locaux, installations, lieux, véhicules de transport à usage professionnel, à
 l'exclusion des domiciles et de la partie des locaux à usage de domicile.

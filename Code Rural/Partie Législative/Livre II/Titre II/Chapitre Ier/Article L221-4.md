@@ -3,7 +3,7 @@ Article L221-4
 I. - Lorsque, en tout lieu où sont hébergés les animaux ou au cours d'un
 transport, il est constaté qu'un animal de l'espèce bovine, ovine ou caprine
 n'est pas identifié, conformément aux dispositions prises en application du
-chapitre II du titre V du livre VI, des articles L. 671-9 et L. 671-10 et de
+chapitre III du titre V du livre VI, des articles L. 671-9 et L. 671-10 et de
 l'article L. 681-5 ou d'un règlement communautaire, ou n'est pas accompagné des
 documents prévus par les textes pris pour leur application, les agents visés aux
 articles L. 214-19, L. 214-20, L. 221-5 et L. 221-6, mettent en demeure le

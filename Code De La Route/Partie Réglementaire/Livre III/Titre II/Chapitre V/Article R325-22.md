@@ -4,8 +4,7 @@ I. - Lorsque le propriétaire du véhicule faisant l'objet de la mise en fourri�
 est domicilié ou réside dans le ressort de l'officier de police judiciaire qui
 exécute cette mesure, celui-ci peut faire garder le véhicule par son
 propriétaire, à condition que le certificat d'immatriculation soit immédiatement
-retiré sauf lorsqu'il s'agit d'un cyclomoteur à deux roues. Ce document reçoit
-la destination prévue à l'article R. 325-34.
+retiré. Ce document reçoit la destination prévue à l'article R. 325-34.
 
 II. - Dans cette hypothèse, l'autorité dont relève la fourrière est :
 

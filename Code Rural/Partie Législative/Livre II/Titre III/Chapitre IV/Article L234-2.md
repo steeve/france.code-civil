@@ -11,7 +11,8 @@ II. - Il est interdit de mettre sur le marché ou d'introduire sur le territoire
 métropolitain ou dans les départements d'outre-mer, pour des animaux des espèces
 dont la chair ou les produits sont destinés à l'alimentation humaine, ou
 d'administrer à de tels animaux des substances à activité anabolisante,
-anticatabolisante ou bêta-agoniste.
+anticatabolisante ou bêta-agoniste. Il est interdit aux personnes ayant la garde
+de ces animaux de détenir sans justification ces substances.
 
 Toutefois, certaines de ces substances peuvent, dans des conditions fixées par
 décret, entrer dans la composition de médicaments vétérinaires satisfaisant aux

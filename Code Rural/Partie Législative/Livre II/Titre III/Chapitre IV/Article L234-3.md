@@ -6,7 +6,7 @@ destinés à la consommation humaine, d'une substance ou composition relevant de
 l'article L. 5144-1 du code de la santé publique qui bénéficie d'une
 autorisation au titre des réglementations relatives aux médicaments vétérinaires
 ou aux substances destinées à l'alimentation animale, sans respect des
-conditions prévues respectivement au V de l'article L. 234-2 ou par décret, les
+conditions prévues respectivement au VI de l'article L. 234-2 ou par décret, les
 vétérinaires inspecteurs habilités en vertu de l'article L. 231-2 peuvent
 ordonner l'exécution de tout ou partie des mesures suivantes :
 
