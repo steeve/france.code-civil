@@ -1,143 +1,217 @@
 Article A14
 ----
-Le programme des épreuves de l'examen est ainsi fixé :
+Le programme des épreuves de l'examen prévu par l'article qui précède est le
+suivant :
 
 
 Procédure pénale
 
-Action publique - Action civile.
+L'action publique et l'action civile.
 
-Structures et organes de la poursuite et de l'instruction :
+Les autorités investies par la loi de fonctions de police judiciaire (en
+particulier ministère public, juges d'instruction, officiers et agents de police
+judiciaire).
 
-Ministère public - Juge d'instruction ;
+Les cadres juridiques et les actes de la mission de police judiciaire.
 
-Situation des A.P.J. et O.P.J. - Contrôle de leur activité ;
-
-Pouvoirs de police judiciaire du préfet.
-
-La garde à vue - Les interpellations.
-
-L'enquête de flagrance.
-
-L'enquête préliminaire.
+Le contrôle de la mission de police judiciaire.
 
 L'instruction préparatoire.
 
-Les commissions rogatoires.
+Les mandats de justice.
 
-Les mandats de justice - La détention provisoire et le contrôle judiciaire.
+La détention provisoire et le contrôle judiciaire.
 
-Les moyens de preuve : saisies - Perquisitions.
+La nullité des actes de procédure.
 
-Procédure pénale des mineurs.
+La procédure pénale applicable aux mineurs.
+
+L'exécution des décisions de justice pénale.
 
 
 Droit pénal général
 
-Principes généraux - L'infraction et ses éléments constitutifs.
+A. - Généralités sur la législation pénale.
 
-Classification des infractions.
+B. - L'infraction pénale :
 
-La tentative et le commencement d'exécution.
+Les principes généraux de la responsabilité pénale.
 
-La responsabilité :
+La classification des infractions et l'organisation judiciaire en matière
+pénale.
 
-Les faits justificatifs, la légitime défense, les excuses atténuantes et
-absolutoires ;
+Les éléments constitutifs de l'infraction.
 
-Les circonstances atténuantes ou aggravantes ;
+La tentative.
 
-La non-imputabilité ;
+La complicité.
 
-La complicité, le concours d'infraction.
+Les faits justificatifs légaux.
 
-La récidive, le casier judiciaire.
+C. - Les problèmes internationaux et européens de la législation pénale.
 
-Le sursis, la libération conditionnelle.
+D. - La sanction :
 
-La classification et l'exécution des peines.
+Notions générales (classification des sanctions et des mesures de sûreté).
 
-Les peines complémentaires : l'interdiction de séjour.
-
-Les mesures de sûreté ; la suspension du permis de conduire.
+Modalités de mise en oeuvre des sanctions (périodes de sûreté ; causes
+d'atténuation, d'exemption, d'aggravation, de suspension et d'extinction de la
+sanction).
 
 
 Droit pénal spécial
 
-Définition - Contenu.
+1. Crimes et délits contre les biens :
 
-Généralités sur le vol, l'escroquerie, l'abus de confiance.
+- le vol ;
 
-Le vol, le vol qualifié.
+- l'escroquerie et les infractions en matière de chèques ;
 
-Les filouteries.
+- l'abus de confiance ;
 
-Le chantage, l'extorsion de fonds, les menaces.
+- les filouteries ;
 
-L'escroquerie.
+- le chantage et les extorsions ;
 
-L'abus de confiance.
+- les faux en écriture ;
 
-Le recel.
+- le recel ;
 
-L'homicide, les coups et blessures volontaires.
+- les destructions, dégradations et dommages ;
 
-L'homicide, les coups et blessures involontaires.
+- l'immunité familiale.
 
-Les destructions, dégradations, dommages.
+2. L'association de malfaiteurs.
 
-La loi anti-casseurs.
+3. Les crimes et délits contre les personnes :
 
-L'arrestation et la séquestration arbitraires.
+- les menaces ;
 
-Les chèques.
+- le meurtre ;
 
-L'attentat aux moeurs.
+- l'assassinat ;
 
-La prostitution, le proxénétisme.
+- le parricide ;
 
-Les crimes et délits envers les enfants.
+- l'infanticide ;
 
-L'abandon de famille.
+- l'empoisonnement ;
 
-Les crimes et délits commis par et contre les fonctionnaires.
+- les coups et blessures volontaires ;
 
-Les associations de malfaiteurs.
+- l'homicide et les coups et blessures involontaires.
+
+4. Les infractions contre les moeurs :
+
+- l'outrage aux bonnes moeurs ;
+
+- l'outrage public à la pudeur ;
+
+- les attentats à la pudeur ;
+
+- le viol ;
+
+- le proxénétisme.
+
+5. Les infractions contre la famille :
+
+- crimes et délits envers l'enfant ;
+
+- l'enlèvement de mineurs ;
+
+- la non-représentation d'enfant ;
+
+- l'abandon de famille.
+
+6. Les crimes et délits commis par ou contre les fonctionnaires.
+
+7. Les arrestations et séquestrations arbitraires ; la prise d'otage.
+
+8. L'usage et le trafic de stupéfiants.
 
 
-Libertés publiques - Droit administratif
+Libertés publiques et droit administratif
 
-Libertés publiques
+A. - Libertés publiques :
 
-L'Etat et l'individu, les déclarations des droits.
+Introduction générale aux libertés publiques ; sources, régime juridique,
+garanties et protections des libertés publiques.
 
-La liberté de la personne physique, l'inviolabilité du domicile et des
-correspondances, la liberté propre aux groupements d'individus, la liberté de
-pensée, la liberté économique, l'ordre public et la liberté.
+Les libertés individuelles et la vie privée :
 
-Les atteintes à la liberté individuelle.
+- la sûreté ou liberté individuelle ;
 
-L'égalité de tous devant la loi.
+- la liberté d'aller et venir ;
 
-La fraternité : le respect dû à la personne humaine, quelle que soit son
-origine, sa race ou sa religion.
+- le respect de la vie privée, du domicile et des correspondances ;
 
+- le respect de la personne et les lois antidiscriminatoires.
 
-Droit administratif
+Les libertés d'expression collective :
 
-Principes généraux : la loi, le règlement, but et fonctionnement de
-l'administration. - La séparation des pouvoirs.
+- la liberté d'association ;
 
-L'administration centrale, le département, la commune, les régimes spéciaux.
+- la liberté de réunion ;
 
-L'organisation judiciaire : les juridictions de l'ordre judiciaire et de l'ordre
-administratif, le tribunal des conflits, juridictions de droit commun et
-juridictions d'exception.
+- le régime des manifestations ;
 
-Organisation, rôle, fonctionnement de la police administrative et de la police
-judiciaire : la police nationale, la gendarmerie.
+- le régime des attroupements.
 
-Le préfet de police, les préfets de zone, les préfets et sous-préfets, les
-maires.
+La liberté de la presse.
 
-La nationalité française : notions sur le régime des étrangers en France.
+Les libertés à contenu économique et social :
+
+- la liberté syndicale ;
+
+- le droit de grève ;
+
+- la liberté du commerce et de l'industrie.
+
+Les libertés contemporaines :
+
+- la motivation des décisions administratives ;
+
+- l'accès aux documents administratifs ;
+
+- l'informatique et les libertés.
+
+B. - Droit administratif.
+
+La hiérarchie des normes de droit.
+
+La loi et le règlement (élaboration et contrôle).
+
+L'organisation institutionnelle en France :
+
+- la séparation des pouvoirs ;
+
+- le Gouvernement ;
+
+- le Parlement ;
+
+- les rapports entre le Gouvernement et le Parlement ;
+
+- le Conseil constitutionnel.
+
+L'organisation juridictionnelle :
+
+- les juridictions de l'ordre judiciaire (juridiction de droit commun et
+juridictions d'exception) ;
+
+- les juridictions de l'ordre administratif (notions de procédure
+
+contentieuse) ;
+
+- le tribunal des conflits ;
+
+- les voies de recours.
+
+L'organisation territoriale :
+
+- les notions de décentralisation et de déconcentration ;
+
+- les collectivités territoriales (commune, département, région) ;
+
+- la représentation de l'Etat dans chaque collectivité territoriale ;
+
+- le préfet (art. 30 du code de procédure pénale).

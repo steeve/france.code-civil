@@ -1,97 +1,146 @@
 Article A23
 ----
-Le programme des épreuves de l'examen est ainsi fixé :
+Le programme des épreuves de l'examen prévu par l'article qui précède est le
+suivant :
 
 
-I - Procédure pénale
+Procédure pénale
 
-Action publique - Action civile.
+L'action publique et l'action civile.
 
-Le ministère public, le procureur général, le procureur de la République.
+Le ministère public.
 
-Le juge d'instruction.
+Les juridictions d'instruction.
 
-Police administrative et police judiciaire.
+La police administrative et la police judiciaire.
 
-La police judiciaire - Officiers de police judiciaire, agents de police
-judiciaire et agents de police judiciaire adjoints ; fonctionnaires et agents
-chargés de certaines fonctions de police judiciaire ; contrôle de l'activité de
-la police judiciaire.
+Les officiers et agents de police judiciaire.
 
-La procédure en crimes et délits flagrants.
+Le contrôle de la mission de police judiciaire.
+
+La procédure applicable aux crimes et délits flagrants.
 
 L'enquête préliminaire.
 
 La force probante des actes de police judiciaire.
 
-Les actes de police judiciaires et l'article L. 23-1 du Code de la route.
+Les actes de police judiciaire et l'article L. 23-1 du code de la route.
 
-L'instruction du premier et du second degré.
+La procédure applicable aux contraventions.
 
-Les commissions rogatoires - Les mandats de justice.
+Les commissions rogatoires.
 
-Les pouvoirs des préfets en matière de police judiciaire.
+Les mandats de justice.
 
-Règles particulières de procédure applicable aux mineurs.
+Les règles particulières de procédure applicables aux mineurs.
 
-L'organisation judiciaire répressive : cours d'assises, tribunal correctionnel,
-tribunal de police, Cour de sûreté de l'Etat.
+L'organisation judiciaire en matière pénale : cour d'assises, cour d'appel,
+tribunal correctionnel, tribunal de police.
 
 
-II - Droit pénal
+Droit pénal
 
-L'infraction en général : éléments constitutifs ; classification :
+L'infraction en général (éléments constitutifs ; classification en crimes,
+délits et contraventions ; intérêts de cette distinction).
 
-crimes, délits, contraventions, intérêts de la distinction.
+La tentative punissable (commencement d'exécution et désistement volontaire).
 
-La tentative punissable - Le commencement d'exécution - Le désistement
-volontaire.
+La responsabilité pénale.
 
-La responsabilité pénale - Non-culpabilité - Faits justificatifs - Excuses
-absolutoires et atténuantes - Circonstances aggravantes et circonstances
-atténuantes.
+Les causes de non-imputabilité.
 
-La complicité - Le concours d'infractions.
+Les faits justificatifs.
 
-La récidive - Le casier judiciaire.
+Les excuses absolutoires et les excuses atténuantes.
 
-Le sursis, la libération conditionnelle.
+Les circonstances aggravantes et les circonstances atténuantes.
 
-Les peines et leur exécution - L'extinction des peines, les réhabilitations -
-Les établissements pénitentiaires.
+La complicité.
 
-Les infractions prévues par les articles 319, 320 et R. 40-4° du Code pénal.
+Le concours d'infractions.
+
+La récidive.
+
+Le casier judiciaire.
+
+Le sursis.
+
+Les peines, leur exécution, la libération conditionnelle.
+
+L'extinction des peines.
+
+Les infractions prévues par les articles 319, 320 et R. 40 (4°) du code pénal.
 
 Les infractions à la police de la circulation routière.
 
 
-III - Libertés publiques - Droit administratif
+Libertés publiques
 
-1° L'Etat et l'individu - Les déclarations des droits.
+Introduction générale aux libertés publiques (sources, régime juridique,
+garanties et protection des libertés publiques).
 
-La liberté de la personne physique - L'inviolabilité du domicile et des
-correspondances - La liberté propre aux groupements d'individus - La liberté de
-pensée - La liberté économique - L'ordre public et la liberté.
+Les libertés individuelles et la vie privée :
 
-Les atteintes à la liberté individuelle.
+- la sûreté ou liberté individuelle ;
 
-L'égalité de tous devant la loi.
+- la liberté d'aller et venir ;
 
-La fraternité - Le respect dû à la personne humaine quelle que soit son origine,
-sa race ou sa religion.
+- le respect de la vie privée, du domicile et des correspondances ;
 
-2° Principes généraux de droit administratif - La loi - Le règlement - But de
-fonctionnement de l'administration - La séparation des pouvoirs.
+- le respect de la personne et les lois antidiscriminatoires.
 
-L'administration centrale - Le département - La commune - Les régimes spéciaux.
+Les libertés d'expression collective :
 
-L'organisation judiciaire, juridictions de l'ordre judiciaire et de l'ordre
-administratif, le tribunal des conflits.
+- la liberté d'association ;
 
-Organisation, rôle, fonctionnement de la police administrative et de la police
-judiciaire - La police nationale - La gendarmerie.
+- la liberté de réunion ;
 
-Le préfet de police - Les préfets de zone - Les préfets et sous-préfets - Les
-maires.
+- le régime des manifestations ;
 
-La nationalité française - Notions sur le régime des étrangers en France.
+- le régime des attroupements.
+
+La liberté de la presse.
+
+Les libertés à contenu économique et social :
+
+- la liberté syndicale ;
+
+- le droit de grève ;
+
+- la liberté du commerce et de l'industrie.
+
+Les libertés contemporaines :
+
+- la motivation des décisions administratives ;
+
+- l'accès aux documents administratifs ;
+
+- l'informatique et les libertés.
+
+Droit administratif.
+
+La hiérarchie des normes de droit.
+
+La loi et le règlement (élaboration et contrôle).
+
+L'organisation juridictionnelle :
+
+- les juridictions de l'ordre judiciaire (juridictions de droit commun et
+juridictions d'exception) ;
+
+- les juridictions de l'ordre administratif (notions de procédure contentieuse)
+;
+
+- le tribunal des conflits ;
+
+- les voies de recours.
+
+L'organisation territoriale :
+
+- notions de décentralisation et déconcentration ;
+
+- les collectivités territoriales (commune, département, région) ;
+
+- la représentation de l'Etat dans chaque collectivité territoriale ;
+
+- le préfet.
