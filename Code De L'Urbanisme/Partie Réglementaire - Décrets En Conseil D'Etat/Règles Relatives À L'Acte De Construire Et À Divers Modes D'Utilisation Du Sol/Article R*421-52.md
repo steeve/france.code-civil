@@ -1,8 +1,17 @@
 Article R*421-52
 ----
-Le préfet, après avis de la commission consultative départementale de la
-protection civile, peut demander aux constructeurs de faire procéder à la
-vérification par l'un des laboratoires agréés par le ministère de l'intérieur,
-du degré d'inflammabilité des matériaux ou, s'il y a lieu, du degré de
-résistance au feu des éléments de construction employés et la remise du
-procès-verbal de ces contrôles.
+En application de l'article L. 421-8, les périmètres à l'intérieur desquels les
+constructions et travaux sont soumis à des règles particulières rendues
+nécessaires pour l'existence d'installations classées et les règles qui leur
+sont applicables sont fixés par arrêté du commissaire de la République pris
+après consultation des services intéressés, enquête publique dans les formes
+prévues par les articles R. 11-4 et suivants du code de l'expropriation pour
+cause d'utilité publique et avis du conseil municipal et de la commission
+départementale de l'urbanisme.
+
+Le commissaire de la République peut décider que l'enquête publique mentionnée à
+l'alinéa précédent sera confondue avec l'enquête préalable à l'autorisation
+d'ouverture d'une installation classée.
+
+Le permis de construire [*contenu*] doit, le cas échéant, mentionner
+explicitement les servitudes instituées en application de l'article L. 421-8.
