@@ -8,3 +8,7 @@ organismes mentionnés aux articles L. 211-4 à L. 211-6, ainsi qu'aux articles 
 premier président de la Cour des comptes. Elle peut également assurer ces
 vérifications sur demande motivée, soit du représentant de l'Etat dans la région
 ou le département, soit de l'autorité territoriale.
+
+Elle peut également, dans le cadre du contrôle des comptes de l'autorité
+délégante, vérifier auprès des délégataires de service public les comptes qu'ils
+ont produits aux autorités délégantes.
