@@ -1,10 +1,8 @@
 Article R1211-26
 ----
-Au terme d'un délai de six mois après le don ou le dernier recueil si les dons
-ont été effectués à plusieurs dates, le praticien mentionné à l'article R.
-1211-25 est tenu de faire effectuer une deuxième recherche des marqueurs
-biologiques d'infection et, lorsque cela est techniquement possible,
-d'infectivité, pour les affections suivantes :
+Le praticien mentionné à l'article R. 1211-25 est tenu de faire effectuer une
+deuxième recherche des marqueurs biologiques d'infection et, lorsque cela est
+techniquement possible, d'infectivité, pour les affections suivantes :
 
 1° Infection par les virus VIH 1 et 2 ;
 
@@ -13,12 +11,14 @@ d'infectivité, pour les affections suivantes :
 3° Infection par le cytomégalovirus lorsque le premier dépistage s'est révélé
 négatif.
 
-Pendant ce délai, le sperme provenant du ou des dons ne peut être cédé et les
-embryons issus des ovocytes cédés ne peuvent être transférés.
+Pour le don de sperme, cette deuxième recherche est effectuée au terme d'un
+délai de six mois après le don ou le dernier recueil, si les dons ont été
+effectués à plusieurs dates. Pendant ce délai, le sperme provenant du don ne
+peut être cédé.
 
-A l'issue de ce délai, le praticien est tenu de s'assurer que les résultats des
-analyses sont demeurés négatifs en ce qui concerne les affections mentionnées
-aux 1° , 2° et 3° ci-dessus.
+En cas de don d'ovocytes, le praticien fait effectuer la deuxième recherche le
+jour du début du traitement de la stimulation ovarienne préalable au don.
 
-Dans le cas où l'un ou plusieurs de ces résultats sont positifs, le sperme ne
-peut être cédé ou l'embryon ne peut être transféré.
+Dans le cas où l'un ou plusieurs des résultats des recherches mentionnées au
+présent article sont positifs, les spermatozoïdes ou les ovocytes ne peuvent
+être cédés ou, le cas échéant, l'embryon ne peut être transféré.
