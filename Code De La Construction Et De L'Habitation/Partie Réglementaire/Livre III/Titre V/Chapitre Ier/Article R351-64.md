@@ -16,13 +16,10 @@ défaillant à la connaissance de la section des aides publiques publiques au
 logement du conseil départemental de l'habitat et justifier qu'il poursuit par
 tous les moyens de recouvrement de sa créance.
 
-Compte tenu de la situation sociale du bénéficiaire, la section décide soit de
-suspendre le versement de l'aide personnalisée jusqu'à ce que le bénéficiaire
-défaillant se soit mis à jour de ses obligations, soit de maintenir le versement
-de l'aide personnalisée pendant un délai qu'elle fixe dans la limite d'un
-maximum prévu par directive du fonds national de l'habitation et à l'issue
-duquel, à défaut de régularisation, le versement de l'aide personnalisée est
-suspendu par l'organisme payeur.
+" Sauf en cas de mauvaise foi avérée, le versement de l'aide personnalisée au
+logement (A.P.L.) est maintenu sur décision de la section départementale des
+aides publiques au logement (S.D.A.P.L.) dans les conditions prévues à l'article
+R. 351-30. "
 
 Si le gestionnaire ne saisit pas la section dans les délais susmentionnés ou
 n'apporte pas les justifications prévues au troisième alinéa, celle-ci est
