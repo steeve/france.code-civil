@@ -29,6 +29,11 @@ comité d'entreprise lorsqu'il prend une participation dans une société et de
 l'informer lorsqu'il a connaissance d'une prise de participation dont son
 entreprise est l'objet.
 
+Dès que le chef d'entreprise a connaissance du dépôt d'une offre publique
+d'achat ou d'une offre publique d'échange dont son entreprise fait l'objet, il
+en informe le comité d'entreprise. Le comité invite, s'il l'estime nécessaire,
+l'auteur de l'offre pour qu'il expose son projet devant lui.
+
 Il est également informé et consulté avant toute déclaration de cessation des
 paiements et lorsque l'entreprise fait l'objet d'une procédure de redressement
 judiciaire, avant toute décision relative à la poursuite de l'activité ainsi que

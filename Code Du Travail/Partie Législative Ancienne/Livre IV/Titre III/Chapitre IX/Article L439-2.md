@@ -14,3 +14,10 @@ est rémunéré par l'entreprise dominante. Pour opérer toute vérification ou 
 contrôle qui entre dans l'exercice de ces missions, l'expert-comptable a accès
 aux mêmes documents que les commissaires aux comptes des entreprises
 constitutives du groupe.
+
+Dès que le chef d'entreprise dominante a connaissance du dépôt d'une offre
+publique d'achat ou d'une offre publique d'échange dont son entreprise fait
+l'objet, il en informe le comité de groupe. L'information du comité de groupe
+exclut celle prévue à l'article L. 432-1 pour les comités d'entreprise des
+sociétés appartenant au groupe. Le comité de groupe invite, s'il l'estime
+nécessaire, l'auteur de l'offre pour qu'il expose son projet devant lui.
