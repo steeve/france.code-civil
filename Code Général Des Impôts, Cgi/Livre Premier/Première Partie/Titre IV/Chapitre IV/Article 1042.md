@@ -8,17 +8,16 @@ régions et par les établissements publics communaux, départementaux ou régio
 ne donnent lieu à aucune perception au profit du Trésor.
 
 Il en est de même des acquisitions de fonds de commerce réalisées par les
-collectivités ou établissements publics mentionnés ci-dessus dans le cadre des
-articles 5, 48 et 66 de la loi n° 82-213 du 2 mars 1982 modifiée relative aux
-droits et libertés des communes, des départements et des régions, sous réserve
-que la délibération de l'autorité compétente pour décider l'opération fasse
-référence aux dispositions législatives en cause et soit annexée à l'acte.
+collectivités ou établissements publics mentionnés au premier alinéa dans le
+cadre des articles L. 2251-1 à L. 2251-4, L. 2253-1, L. 3231-1 à L. 3231-3, L.
+3231-6, L. 3232-4, et des 5°, 6°, 7° et 8° de l'article L. 4211-1 du code
+général des collectivités territoriales, sous réserve que la délibération de
+l'autorité compétente pour décider l'opération fasse référence aux dispositions
+législatives en cause et soit annexée à l'acte.
 
 II - Les acquisitions d'actions réalisées par les communes, les départements,
-les régions et leurs groupements dans le cadre de ((l'article L. 1522-1 du code
-général des collectivités territoriales)) (M) ne donnent lieu à aucune
-perception au profit du Trésor, sous réserve que la décision de l'assemblée
-délibérante compétente pour décider de l'opération fasse référence à la
-disposition législative en cause et soit annexée à l'acte.
-
-(M) Modification.
+les régions et leurs groupements dans le cadre de l'article L. 1522-1 du code
+général des collectivités territoriales ne donnent lieu à aucune perception au
+profit du Trésor, sous réserve que la décision de l'assemblée délibérante
+compétente pour décider de l'opération fasse référence à la disposition
+législative en cause et soit annexée à l'acte.

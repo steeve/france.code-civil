@@ -22,10 +22,7 @@ paragraphe, tant par les organismes entrant dans les prévisions de l'article 1e
 de l'arrêté du 31 janvier 1942 pris pour l'application de l'article 4 de la loi
 du 28 juin 1941, que pour le compte de ces organismes (1);
 
-2° Les titres d'obligations non négociables en France que les départements ou
-les villes ont été autorisés à émettre à l'étranger avant le 1er janvier 1965
-dans les conditions spécifiées par l'article 11 de la loi du 28 septembre 1916
-et l'article L 236-7 du code des communes;
+2° (Abrogé) (M).
 
 3° Les titres d'obligations négociables non cotées en bourse que les
 départements, communes, syndicats de communes et établissements publics ont émis
@@ -49,3 +46,5 @@ l'article 1er de l'arrêté du 31 janvier 1942 pris en exécution de l'article 4
 la loi du 28 juin 1941 ou pour le compte de ces organismes (1).
 
 (1) Annexe IV, art. 169 et 170.
+
+(M) Modification.

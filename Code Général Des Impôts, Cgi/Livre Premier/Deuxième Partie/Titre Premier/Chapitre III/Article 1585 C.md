@@ -27,7 +27,9 @@ II. Le conseil municipal peut renoncer à percevoir, en tout ou partie, la taxe
 locale d'équipement sur les locaux à usage d'habitation édifiés pour leur compte
 ou à titre de prestataire de services par les organismes mentionnés à l'article
 L. 411-2 du code de la construction et de l'habitation et par les sociétés
-d'économie mixte définies par la loi n° 83-597 du 7 juillet 1983 modifiée ou
+d'économie mixte définies par la loi n° 83-597 du 7 juillet 1983 modifiée, par
+le titre II du livre V de la première partie du code général des collectivités
+territoriales et par les articles L. 2253-2 et L. 2542-28 du code précité ou
 celles à capitaux publics majoritaires réalisant des locaux à usage d'habitation
 principale financés à titre prépondérant au moyen de prêts ouvrant droit au
 bénéfice de dispositions prévues au titre V du livre III du code de la
