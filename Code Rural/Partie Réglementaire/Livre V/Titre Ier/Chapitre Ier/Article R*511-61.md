@@ -16,3 +16,6 @@ aucun cas il n'est permis au président de la délégation d'engager les finance
 de la chambre au-delà des ressources disponibles de l'exercice courant. La
 délégation ne prend aucune décision définitive concernant le personnel, sauf
 celles imposées par les textes.
+
+Les membres de la délégation spéciale sont indemnisés dans les conditions
+prévues à l'article R. 511-85.

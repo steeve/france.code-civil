@@ -14,7 +14,8 @@ délibérations sont valables quel que soit le nombre des votants.
 Dans tous les cas, les noms des absents sont inscrits au procès-verbal.
 
 Les employeurs sont tenus de laisser aux salariés de leur entreprise, membres
-d'une chambre d'agriculture, le temps nécessaire pour participer aux sessions de
-la chambre et aux réunions des commissions dont ils sont membres. L'employeur
-qui refuserait d'accorder une telle autorisation serait passible des peines
-prévues à l'alinéa 1er de l'article 1023 du code rural.
+d'une chambre d'agriculture, le temps nécessaire à leur participation aux
+sessions, aux réunions du bureau lorsqu'ils en sont membres, aux réunions de
+commissions auxquelles ils sont conviés, aux sessions de formation organisées
+pour les préparer à l'exercice de leur mandat, ainsi que pour assurer la
+représentation de la chambre dans les cas prévus par les lois et règlements.
