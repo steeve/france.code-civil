@@ -15,8 +15,7 @@ l'article D. 542-21.
 
 Pp représente la participation personnelle du ménage à la dépense de logement.
 
-La participation personne Pp est calculée selon les dispositions ci-après. Son
-montant est arrondi au franc le plus proche.
+La participation personne Pp est calculée selon les dispositions ci-après.
 
 La participation personnelle Pp est obtenue par la formule suivante :
 
@@ -24,7 +23,7 @@ Pp = Po + Tp x Rp.
 
 Po représente la participation minimale et est égale à la plus élevée des deux
 valeurs suivantes : 8,5 % de la dépense éligible définie au I de l'article D.
-542-5 du même code ou 175 F ; son montant est arrondi au franc le plus proche ;
+542-5 du même code ou 26,68 Euro ;
 
 Tp représente le taux de participation personnelle ;
 
@@ -33,8 +32,6 @@ les conditions prévues au I de l'article D. 542-5 du même code et un montant
 forfaitaire, défini par arrêté conjoint des ministres chargés de la sécurité
 sociale, du logement, du budget et de l'agriculture ; Rp ne peut être inférieur
 à zéro.
-
-Le produit Tp x Rp est arrondi au franc le plus proche.
 
 Le taux de participation personnelle (Tp) du ménage, exprimé en pourcentage, est
 calculé selon la formule suivante :

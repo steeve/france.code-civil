@@ -27,7 +27,7 @@ celui qui correspond à la situation familiale de chacune des personnes ou
 ménages concernés.
 
 Les ressources du bénéficiaire sont appréciées conformément aux articles D.
-542-8 à D. 542-12 et arrondies aux 500 F supérieurs.
+542-8 à D. 542-12 et arrondies aux 76,22 Euro supérieurs.
 
 Le taux de participation susvisé est obtenu par l'addition :
 
@@ -123,6 +123,4 @@ des coefficients (ou nombre de parts) ci-après :
 Ce dernier coefficient est majoré de 0,5 par enfant ou par personne à charge
 supplémentaire.
 
-Le loyer minimum ainsi obtenu est majoré d'un montant égal à 484 F.
-
-Le loyer minimum est arrondi au franc inférieur.
+Le loyer minimum ainsi obtenu est majoré d'un montant égal à 73,79 EUR.
