@@ -1,11 +1,12 @@
 Article R11-3
 ----
 Sans préjudice de la notification prévue à l'article R. 11-2, les cas de
-maladies mentionnées au 1° de l'article L. 11 sont signalés sans délai par le
-médecin ou le responsable du service de biologie ou du laboratoire d'analyses de
-biologie médicale, public ou privé, au médecin inspecteur de santé publique de
-la direction départementale des affaires sanitaires et sociales ou au médecin
-désigné par arrêté du préfet du département.
+maladies ou d'anomalie biologique mentionnées au 1° de l'article L. 11 sont
+signalés sans délai par le médecin ou le responsable du service de biologie ou
+du laboratoire d'analyses de biologie médicale, public ou privé, au médecin
+inspecteur de santé publique de la direction départementale des affaires
+sanitaires et sociales ou au médecin désigné par arrêté du préfet du
+département.
 
 Ce signalement a pour but de permettre la mise en place d'urgence de mesures de
 prévention individuelle et collective et, le cas échéant, de déclencher des
