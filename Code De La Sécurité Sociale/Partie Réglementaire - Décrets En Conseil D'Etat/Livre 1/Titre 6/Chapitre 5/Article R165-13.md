@@ -1,10 +1,8 @@
 Article R165-13
 ----
-Les fournitures et appareils fabriqués en série peuvent être inscrits sur la
-liste mentionnée à l'article R. 165-1, sous leur nom de marque ; cette
-inscription ne peut être effectuée que s'ils apportent une amélioration du
-service médical rendu ou une économie dans le coût du traitement.
-
-Sans préjudice de l'application des articles R. 165-2 et R. 165-3, les
-fournitures et appareils peuvent être retirés de cette liste lorsqu'ils ne
-satisfont pas aux conditions fixées par l'alinéa précédent.
+La commission peut réévaluer le service rendu des produits ou des prestations
+mentionnés à l'article L. 165-1 inscrits sur la liste prévue à l'article L.
+165-1 notamment lorsqu'elle émet un avis favorable à l'inscription sur cette
+liste d'un produit ou d'une prestation apportant une amélioration du service
+rendu susceptible de modifier substantiellement les stratégies thérapeutiques
+antérieures.

@@ -1,7 +1,7 @@
 Article R165-25
 ----
-Lorsque la prise en charge d'un appareil est subordonnée à une entente
-préalable, l'accord de l'organisme de prise en charge est acquis à défaut de
-réponse dans le délai de dix jours qui suit la réception de la prescription,
-sous réserve de l'intervention de la consultation médicale prévue à l'article R.
-165-27 [*accord tacite*].
+Les organismes de prise en charge peuvent, après avis du médecin-conseil,
+décider de prendre en charge, sur facture, au vu d'un devis, un produit sur
+mesure, spécialement conçu, fabriqué ou adapté pour un patient déterminé sous
+réserve qu'aucun autre produit adapté à l'état de ce patient ne figure sur la
+liste prévue à l'article L. 165-1.

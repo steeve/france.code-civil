@@ -1,28 +1,31 @@
 Article R165-10
 ----
-Il est institué une commission consultative des prestations sanitaires qui a
-pour mission :
+I. - La demande de renouvellement de l'inscription d'un produit ou d'une
+prestation mentionné à l'article L. 165-1 est présentée par le fabricant ou le
+distributeur au plus tard cent quatre-vingts jours avant l'expiration de la
+durée d'inscription.
 
-1°) de proposer les spécifications administratives, juridiques et techniques
-d'inscription pour chaque catégorie de produits, d'articles et d'appareils ;
+La demande de renouvellement est adressée au ministre chargé de la sécurité
+sociale qui en accuse réception et en informe le ministre chargé de la santé.
+Une copie de cette demande est adressée simultanément à la commission prévue à
+l'article L. 165-1. La demande doit être accompagnée d'un dossier comportant les
+informations nécessaires à l'appréciation des conditions de renouvellement de
+l'inscription.
 
-2°) d'étudier les indications médicales qui justifient l'attribution d'un
-produit, d'un article ou d'un appareil ;
+Le fabricant ou le distributeur adresse au comité économique des produits de
+santé copie du dossier de demande de renouvellement accompagnée d'un dossier
+comportant les informations utiles à la tarification du produit ou de la
+prestation. Une copie de ce dernier dossier est adressée au ministre chargé de
+la sécurité sociale.
 
-3°) d'élaborer, lorsqu'il y a lieu, les projets de cahiers des charges annexés
-au tarif ;
+II. - Les décisions relatives, d'une part, au renouvellement de l'inscription
+et, d'autre part, à la fixation du tarif et, le cas échéant, du prix doivent
+être prises et notifiées avant l'expiration de la durée d'inscription. L'arrêté
+renouvelant l'inscription et fixant le tarif et, le cas échéant, le prix est
+publié au Journal officiel au plus tard à cette date.
 
-4°) de proposer l'inscription et la radiation des produits, articles ou
-appareils ;
-
-5°) d'examiner les prix de vente ainsi que les frais mentionnés à l'article R.
-165-1, envisagés par les demandeurs et de proposer les tarifs de responsabilité
-;
-
-6°) de proposer les conditions d'agrément des fournisseurs et de donner avis sur
-les recours contre les décisions prises en ce domaine ;
-
-7°) de proposer les modifications à apporter aux éléments mentionnés ci-dessus ;
-
-8°) de donner un avis sur toutes les questions qui lui sont soumises par les
-ministres intéressés.
+A cette même date, si aucune décision n'a été notifiée à l'entreprise, le
+renouvellement de l'inscription est accordé tacitement et le tarif et, le cas
+échéant, le prix en vigueur antérieurement sont reconduits. Un avis mentionnant
+ce renouvellement et rappelant le tarif et, le cas échéant, le prix est publié
+au Journal officiel.

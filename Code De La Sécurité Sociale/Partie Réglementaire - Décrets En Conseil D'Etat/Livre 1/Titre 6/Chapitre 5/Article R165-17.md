@@ -1,4 +1,7 @@
 Article R165-17
 ----
-L'organisme de prise en charge peut faire une avance au fournisseur sur le
-montant du tarif de responsabilité, dans la limite de 40 p. 100.
+Les déclarations qui doivent être faites annuellement par les fabricants et les
+distributeurs en vertu de l'article L. 165-5 doivent parvenir à l'Agence
+française de sécurité sanitaire des produits de santé avant le 1er mars et
+comporter les renseignements prévus audit article relatifs à l'année civile
+précédente.

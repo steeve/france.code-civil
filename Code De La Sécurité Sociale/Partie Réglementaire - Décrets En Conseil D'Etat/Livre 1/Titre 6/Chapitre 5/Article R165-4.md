@@ -1,8 +1,10 @@
 Article R165-4
 ----
-La prise en charge des frais relatifs aux fournitures et appareils est
-subordonnée à une prescription médicale [*condition du remboursement*].
+Ne peuvent être inscrits sur la liste prévue à l'article L. 165-1 :
 
-L'entente préalable de l'organisme d'assurance maladie ou du ministre chargé des
-anciens combattants n'est nécessaire que si elle a été prévue par les arrêtés
-établissant la liste mentionnée à l'article R. 165-1.
+1° Les produits ou prestations pour lesquels les règles applicables en matière
+de publicité n'ont pas été respectées ;
+
+2° Les produits ou prestations qui n'apportent ni amélioration du service rendu,
+ni économie dans le coût du traitement ou qui sont susceptibles d'entraîner des
+dépenses injustifiées pour l'assurance maladie.

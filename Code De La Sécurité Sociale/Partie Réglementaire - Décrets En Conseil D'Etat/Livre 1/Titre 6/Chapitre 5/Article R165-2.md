@@ -1,18 +1,17 @@
 Article R165-2
 ----
-Ne peuvent être pris en charge par les organismes d'assurance maladie ou le
-ministère chargé des anciens combattants les fournitures et appareils [*non
-remboursement*] :
+Les produits ou les prestations mentionnés à l'article L. 165-1 sont inscrits
+sur la liste prévue audit article au vu de l'appréciation du service rendu
+qu'ils apportent. Cette appréciation prend en compte l'effet thérapeutique ou
+l'efficacité technique de ces produits ou prestations ainsi que les effets
+indésirables ou les risques liés à leur utilisation, leur place au regard des
+autres thérapies ou moyens disponibles, le caractère habituel de gravité de la
+pathologie, du handicap ou de la dégradation de la qualité de vie auxquels ils
+tendent à remédier et leur intérêt pour la santé publique.
 
-1°) qui font l'objet, auprès du public, d'une publicité non autorisée par le
-ministre chargé de la santé ou pour lesquels il est fait mention d'une
-utilisation autre que thérapeutique ou diagnostique ;
+Le service rendu est apprécié, le cas échéant, en fonction des spécifications
+techniques, des indications thérapeutiques ou diagnostiques et des conditions
+particulières de prescription et d'utilisation.
 
-2°) qui font l'objet, auprès du corps médical, d'informations ne mentionnant pas
-le prix et le tarif de responsabilité ;
-
-3°) qui ne satisfont pas à la réglementation en vigueur ou aux conditions posées
-pour l'inscription sur la liste mentionnée à l'article R. 165-1 ;
-
-4°) qui sont susceptibles d'entraîner des dépenses injustifiées par rapport au
-service médical rendu.
+Les produits ou prestations dont le service rendu est insuffisant au regard des
+autres thérapies ou moyens disponibles ne sont pas inscrits sur la liste.

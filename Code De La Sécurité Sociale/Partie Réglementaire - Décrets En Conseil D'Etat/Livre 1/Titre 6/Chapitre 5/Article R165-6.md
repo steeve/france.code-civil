@@ -1,10 +1,10 @@
 Article R165-6
 ----
-Le renouvellement des fournitures et appareils est pris en charge si l'article
-ou l'appareil est hors d'usage et reconnu irréparable et si la durée normale
-d'utilisation éventuellement fixée est écoulée ; toutefois, l'organisme de prise
-en charge peut déroger à cette dernière condition.
+L'inscription ne peut être renouvelée, après avis de la commission mentionnée à
+l'article L. 165-1, que si le produit ou la prestation continue de remplir la
+condition relative au service rendu prévue à l'article R. 165-2.
 
-Lorsqu'un délai de garantie a été fixé, les frais de renouvellement ou de
-réparation des fournitures ou appareils ne peuvent être pris en charge que si ce
-délai est écoulé.
+Dans l'appréciation du service rendu, constaté dans les conditions habituelles
+d'utilisation, il est tenu compte des nouvelles données disponibles sur la
+technique et la thérapeutique ainsi que des autres produits ou prestations
+inscrits sur la liste depuis la précédente inscription.

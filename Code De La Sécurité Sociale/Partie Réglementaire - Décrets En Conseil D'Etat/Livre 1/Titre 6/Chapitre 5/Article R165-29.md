@@ -1,6 +1,6 @@
 Article R165-29
 ----
-Le tarif interministériel des prestations sanitaires, les nomenclatures et les
-cahiers des charges relatifs à ces prestations, en vigueur à la date du 10 mai
-1981, demeurent applicables jusqu'à leur modification en application des
-dispositions qui précèdent.
+Les centres d'appareillage relevant du ministre chargé des anciens combattants
+ou des organismes d'assurance maladie contrôlent la bonne exécution et la bonne
+adaptation des appareils pour lesquels ils ont fait savoir aux intéressés qu'ils
+souhaitaient effectuer ce contrôle, ou lorsque les intéressés le demandent.

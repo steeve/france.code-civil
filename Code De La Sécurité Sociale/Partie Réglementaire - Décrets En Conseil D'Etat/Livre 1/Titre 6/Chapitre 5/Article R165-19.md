@@ -1,11 +1,7 @@
 Article R165-19
 ----
-La prise en charge des appareils énumérés à l'article R. 165-14 est subordonnée
-[*condition de remboursement*] :
+Les délibérations de la commission ne sont valables que si au moins douze de ses
+membres sont présents.
 
-1°) à l'agrément du fournisseur par les organismes de sécurité sociale et par le
-ministre chargé des anciens combattants ;
-
-2°) à la signature d'une convention par laquelle le fournisseur s'engage à
-délivrer, renouveler et adapter les appareils à des prix n'excédant pas les
-tarifs fixés par les arrêtés mentionnés à l'article R. 165-1.
+Les avis sont motivés et pris à la majorité des suffrages des membres présents,
+le président ayant voix prépondérante en cas de partage égal des voix.

@@ -1,7 +1,12 @@
 Article R165-22
 ----
-La prescription médicale d'un appareil de prothèse ou d'orthèse doit comporter
-toutes les précisions utiles à sa bonne exécution et notamment la référence à
-l'un des appareils inscrits sur la liste mentionnée au 1° de l'article R. 165-1
-; elle doit être adaptée au handicap ainsi qu'aux nécessités de la réinsertion
-sociale et professionnelle de la personne handicapée.
+La commission donne un avis à la demande du ministre chargé de la sécurité
+sociale, du ministre chargé de la santé ou, pour l'exercice de ses compétences
+propres, du directeur général de l'Agence française de sécurité sanitaire des
+produits de santé sur les documents suivants :
+
+1° Les documents d'information à l'usage des praticiens portant sur la
+comparaison des produits ou prestations ayant les mêmes finalités ;
+
+2° Les recommandations destinées aux prescripteurs et relatives à l'usage des
+produits et prestations.

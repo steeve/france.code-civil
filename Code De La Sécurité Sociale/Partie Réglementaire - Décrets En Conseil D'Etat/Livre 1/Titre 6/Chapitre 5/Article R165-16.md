@@ -1,8 +1,7 @@
 Article R165-16
 ----
-Les intéressés ont droit, dans les cas déterminés aux arrêtés mentionnés à
-l'article R. 165-1, à un appareil de secours.
-
-Les personnes handicapées des membres inférieurs ont droit à un appareil
-provisoire avant l'appareillage définitif. En aucun cas, cet appareil provisoire
-ne pourra être considéré comme appareil de secours.
+Les décisions portant refus d'inscription sur la liste prévue à l'article L.
+165-1, refus de renouvellement d'inscription, radiation de la liste ou refus de
+modification de l'inscription, du tarif ou du prix doivent, dans la notification
+au fabricant ou distributeur, être motivées et mentionner les voies et délais de
+recours qui leur sont applicables.

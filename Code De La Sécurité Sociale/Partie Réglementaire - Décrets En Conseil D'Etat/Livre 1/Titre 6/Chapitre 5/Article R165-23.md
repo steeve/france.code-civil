@@ -1,7 +1,7 @@
 Article R165-23
 ----
-La prescription est adressée simultanément par l'intéressé à l'organisme
-d'assurance maladie auquel il est affilié ou à la direction interdépartementale
-des anciens combattants, et au centre d'appareillage dépendant de la direction
-interdépartementale des anciens combattants ou, le cas échéant, de la caisse
-régionale d'assurance maladie .
+L'arrêté d'inscription peut subordonner la prise en charge de certains produits
+ou prestations mentionnés à l'article L. 165-1 à une entente préalable de
+l'organisme de prise en charge, donnée après avis du médecin-conseil. L'accord
+de l'organisme est acquis à défaut de réponse dans le délai de vingt et un jours
+qui suit la réception de la demande d'entente préalable.
