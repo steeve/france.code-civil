@@ -1,5 +1,10 @@
 Article 1054
 ----
-L'appel est formé, instruit et jugé comme en matière gracieuse.
+S'il fait droit à la demande, le juge ordonne la modification, par mention en
+marge, de tous actes même établis, dressés ou transcrits hors de son ressort. A
+cette fin, le dispositif de la décision est transmis par le procureur de la
+République au dépositaire des actes modifiés.
 
-Les voies de recours sont, dans tous les cas, ouvertes au ministère public.
+L'acte annulé ne peut plus être mis à jour. Il ne peut être délivré que sur
+autorisation exceptionnelle du procureur de la République dans le ressort duquel
+l'acte est conservé.

@@ -24,8 +24,8 @@ biens dans les cas prévus à l'article 94 de la loi n° 67-563 du 13 juillet 19
 ainsi que des frais relatifs aux jugements de clôture pour insuffisance d'actif.
 
 7° Des avances faites par le Trésor public en matière de redressement et de
-liquidation judiciaire des entreprises, en application de l'article 215 de la
-loi n° 85-98 du 25 janvier 1985.
+liquidation judiciaire des entreprises, en application de l'article L. 627-3 du
+code de commerce.
 
 8° Des frais de copie, droits, redevances et émoluments dus aux greffiers des
 tribunaux de commerce à l'occasion de toute procédure pour la délivrance des
@@ -77,3 +77,13 @@ représentation des mineurs maintenus en zone d'attente ou demandeurs du statut
 de réfugié par application de l'article 17 de la loi n° 2002-305 du 4 mars 2002
 et désignés conformément à son décret d'application n° 2003-841 du 2 septembre
 2003.
+
+23° La rémunération et les indemnités des interprètes désignés en application de
+l'article 23-1 du nouveau code de procédure civile.
+
+24° La rémunération et les indemnités des interprètes désignés par le tribunal
+de grande instance pour l'exécution d'une mesure d'instruction à la demande
+d'une juridiction étrangère en application du règlement (CE) n° 1206/2001 du
+Conseil du 28 mai 2001 relatif à la coopération entre les juridictions des Etats
+membres dans le domaine de l'obtention des preuves en matière civile et
+commerciale.

@@ -1,13 +1,13 @@
 Article 1010
 ----
-Le pourvoi incident, même provoqué, doit, à peine d'irrecevabilité [*conditions
-de recevabilité*] prononcée d'office, être fait sous forme de mémoire et
-contenir les mêmes indications que le mémoire du demandeur.
+Le pourvoi incident, même provoqué, doit, à peine d'irrecevabilité prononcée
+d'office, être fait sous forme de mémoire et contenir les mêmes indications que
+le mémoire du demandeur.
 
-Le mémoire doit [*obligations*], sous la même sanction :
+Le mémoire doit, sous la même sanction :
 
-- être remis au secrétariat-greffe de la Cour de cassation avant l'expiration du
-délai prévu pour la remise du mémoire en réponse ;
+- être remis au greffe de la Cour de cassation avant l'expiration du délai prévu
+pour la remise du mémoire en réponse ;
 
 - être notifié dans le même délai aux avocats des autres parties au pourvoi
 incident. Si, dans les matières où la représentation est obligatoire, le

@@ -6,4 +6,4 @@ premier président pour l'appel de l'affaire et de la chambre à laquelle celle-
 est distribuée.
 
 Cet avis est donné aux avoués dont la constitution n'est pas encore connue, dès
-la remise au secrétariat-greffe de l'acte de constitution.
+la remise au greffe de l'acte de constitution.

@@ -11,6 +11,9 @@ parties ou, pour les personnes morales, leur dénomination et leur siège social
 2° L'indication précise de la nature de l'obligation dont l'exécution est
 poursuivie ainsi que le fondement de celle-ci ;
 
+3° Eventuellement les dommages et intérêts qui seront réclamés en cas
+d'inexécution de l'injonction de faire.
+
 Elle est accompagnée des documents justificatifs.
 
 La prescription et les délais pour agir sont interrompus par l'enregistrement au

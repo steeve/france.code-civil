@@ -6,7 +6,7 @@ faux à moins que la pièce litigieuse ne soit écartée du débat lorsqu'il peu
 être statué au principal sans en tenir compte.
 
 Il est procédé à l'inscription de faux comme il est dit aux articles 314 à 316.
-L'acte d'inscription de faux doit être remis au secrétariat-greffe du tribunal
-de grande instance dans le mois de la décision de sursis à statuer, faute de
-quoi il est passé outre à l'incident et l'acte litigieux est réputé reconnu
-entre les parties.
+L'acte d'inscription de faux doit être remis au greffe du tribunal de grande
+instance dans le mois de la décision de sursis à statuer, faute de quoi il est
+passé outre à l'incident et l'acte litigieux est réputé reconnu entre les
+parties.

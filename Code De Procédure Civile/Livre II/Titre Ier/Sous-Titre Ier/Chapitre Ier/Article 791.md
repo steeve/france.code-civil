@@ -1,7 +1,6 @@
 Article 791
 ----
-Le tribunal est saisi par la remise d'une copie de l'assignation au
-secrétariat-greffe.
+Le tribunal est saisi par la remise d'une copie de l'assignation au greffe.
 
 Cette remise doit être faite avant la date fixée pour l'audience faute de quoi
 l'assignation sera caduque.

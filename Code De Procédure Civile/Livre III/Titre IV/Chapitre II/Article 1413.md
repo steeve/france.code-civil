@@ -17,7 +17,7 @@ Sous la même sanction, l'acte de signification :
 lequel elle doit être portée et les formes selon lesquelles elle doit être faite
 ;
 
-- avertit le débiteur qu'il peut prendre connaissance au secrétariat-greffe ou
-au greffe des documents produits par le créancier et qu'à défaut d'opposition
-dans le délai indiqué il ne pourra plus exercer aucun recours et pourra être
-contraint par toutes voies de droit de payer les sommes réclamées.
+- avertit le débiteur qu'il peut prendre connaissance au greffe des documents
+produits par le créancier et qu'à défaut d'opposition dans le délai indiqué il
+ne pourra plus exercer aucun recours et pourra être contraint par toutes voies
+de droit de payer les sommes réclamées.

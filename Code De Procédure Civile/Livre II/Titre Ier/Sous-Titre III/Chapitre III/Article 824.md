@@ -5,5 +5,5 @@ remises au président sont, ainsi qu'une copie de son ordonnance, placées par l
 greffier dans le dossier, dès sa constitution.
 
 Si, le jour où l'affaire doit être appelée, la copie de l'assignation n'a pas
-été remise au secrétariat-greffe, le greffier restitue d'office à l'avocat les
-copies qu'il détient.
+été remise au greffe, le greffier restitue d'office à l'avocat les copies qu'il
+détient.

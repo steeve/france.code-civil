@@ -6,5 +6,5 @@ toutefois, décider qu'elles auront lieu par acte d'huissier de justice ou par l
 voie administrative.
 
 La délivrance d'une copie certifiée conforme d'une décision du juge ou d'une
-délibération du conseil de famille par le secrétariat-greffe contre récépissé
-daté et signé équivaut à la notification.
+délibération du conseil de famille par le greffe contre récépissé daté et signé
+équivaut à la notification.

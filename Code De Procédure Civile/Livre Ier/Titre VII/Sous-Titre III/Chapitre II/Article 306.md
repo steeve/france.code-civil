@@ -1,7 +1,7 @@
 Article 306
 ----
-L'inscription de faux est formée par acte remis au secrétariat-greffe par la
-partie ou son mandataire muni d'un pouvoir spécial.
+L'inscription de faux est formée par acte remis au greffe par la partie ou son
+mandataire muni d'un pouvoir spécial.
 
 L'acte, établi en double exemplaire, doit, à peine d'irrecevabilité, articuler
 avec précision les moyens que la partie invoque pour établir le faux.

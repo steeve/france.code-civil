@@ -1,7 +1,8 @@
 Article 1052
 ----
-Lorsqu'elle n'émane pas du ministère public, la demande en rectification peut
-être présentée sans forme au procureur de la République qui, s'il y a lieu, la
-transmet à la juridiction compétente.
+L'affaire est communiquée pour avis au ministère public.
 
-La demande peut aussi être présentée directement par requête à la juridiction.
+Lorsque la demande est formée par le procureur de la République ou un tiers, la
+personne dont l'état civil est en cause ou ses héritiers sont entendus ou
+appelés. A cette fin, la demande indique leurs nom, prénom, domicile, date et
+lieu de naissance sans préjudice des mentions prévues par le 1° de l'article 57.

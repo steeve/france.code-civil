@@ -6,5 +6,5 @@ tribunal d'instance lorsque la valeur de la prestation dont l'exécution est
 réclamée n'excède pas le taux de compétence de cette juridiction.
 
 Le juge de proximité est compétent dans les limites définies au code de
-l'organisation judiciaire et dans les conditions de l'article 847-4 du présent
+l'organisation judiciaire et dans les conditions de l'article 847-5 du présent
 code.

@@ -9,4 +9,4 @@ débiteurs poursuivis.
 
 Les règles prescrites aux alinéas précédents sont d'ordre public. Toute clause
 contraire est réputée non écrite. Le juge doit relever d'office son
-incompétence, l'article 847-4 étant alors applicable.
+incompétence, l'article 847-5 étant alors applicable.

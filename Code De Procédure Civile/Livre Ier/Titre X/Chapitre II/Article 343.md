@@ -1,4 +1,6 @@
 Article 343
 ----
-La récusation doit être proposée par la partie elle-même ou par son mandataire
-muni d'un pouvoir spécial.
+A l'exception des actions portées devant la Cour de cassation, la récusation
+peut être proposée par la partie elle-même ou par son mandataire.
+
+Le mandataire doit être muni d'un pouvoir spécial.

@@ -10,7 +10,6 @@ d'appel dans le cas mentionné au troisième alinéa de l'article 919, sont join
 L'assignation informe l'intimé que, faute de constituer avoué avant la date de
 l'audience, il sera réputé s'en tenir à ses moyens de première instance.
 
-L'assignation indique à l'intimé qu'il peut prendre connaissance au
-secrétariat-greffe de la copie des pièces visées dans la requête et lui fait
-sommation de communiquer avant la date de l'audience les nouvelles pièces dont
-il entend faire état.
+L'assignation indique à l'intimé qu'il peut prendre connaissance au greffe de la
+copie des pièces visées dans la requête et lui fait sommation de communiquer
+avant la date de l'audience les nouvelles pièces dont il entend faire état.
