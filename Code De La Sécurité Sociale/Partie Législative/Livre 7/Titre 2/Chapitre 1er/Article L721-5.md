@@ -12,5 +12,5 @@ l'article L. 351-8 ;
 2°) des anciens combattants et prisonniers de guerre remplissant les conditions
 prévues au 5° de l'article L. 351-8 ;
 
-3°) des personnes atteintes d'une incapacité totale et définitive d'exercer,
-médicalement constatée.
+3° Des personnes atteintes d'une incapacité totale ou partielle d'exercer dans
+les conditions prévues à l'article L. 381-18-1.

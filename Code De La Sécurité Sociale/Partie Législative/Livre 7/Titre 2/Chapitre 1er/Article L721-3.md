@@ -3,8 +3,7 @@ Article L721-3
 I. - Les charges résultant des dispositions de la présente section et de la
 section 4 sont couvertes par :
 
-1° Des cotisations à la charge des assurés, assises sur une base forfaitaire ou
-sur la pension mentionnée à l'article L. 721-9 ;
+1° Des cotisations à la charge des assurés, assises sur une base forfaitaire ;
 
 2° Des cotisations à la charge des associations, des congrégations ou
 collectivités religieuses dont relèvent les assurés, assises sur une base

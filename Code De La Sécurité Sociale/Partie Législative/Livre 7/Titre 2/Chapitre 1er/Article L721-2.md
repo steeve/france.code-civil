@@ -7,10 +7,10 @@ dispositions du présent chapitre, conformément aux dispositions applicables au
 organismes visés au chapitre Ier du titre Ier du livre II. Il est chargé
 d'assurer le recouvrement des cotisations et le versement des prestations
 d'assurance maladie et maternité, d'assurance vieillesse et d'assurance
-invalidité. Il gère les cinq sections suivantes :
+invalidité. Il gère les quatre sections suivantes :
 
-assurance maladie et maternité, assurance vieillesse, assurance invalidité,
-action sanitaire et sociale et gestion administrative.
+assurance maladie, maternité et invalidité, assurance vieillesse, action
+sanitaire et sociale et gestion administrative.
 
 La caisse d'assurance vieillesse, invalidité et maladie des cultes est soumise
 au contrôle des ministres chargés de la sécurité sociale et du budget qui sont
