@@ -8,12 +8,13 @@ précédant l'année considérée. Ces prévisions ne sont pas rendues publiques
 
 L'opérateur chargé du service universel fournit ses données prévisionnelles et
 constatées portant notamment sur les coûts, les recettes, les volumes de trafic
-et le nombre d'abonnés, notamment ceux bénéficiant de tarifs spécifiques.
+et le nombre d'abonnés, notamment ceux bénéficiant des dispositions de l'article
+R. 20-34.
 
 Les autres opérateurs mentionnés aux articles L. 33-1 et L. 34-1 fournissent
 leurs données prévisionnelles et constatées de volume de trafic. Ceux d'entre
-eux qui assurent des tarifs spécifiques précisent le nombre d'abonnés
-correspondants.
+eux qui appliquent les dispositions de l'article R. 20-34 précisent le nombre
+d'abonnés correspondants.
 
 L'Autorité de régulation des télécommunications évalue chaque année les coûts
 mentionnés aux articles R. 20-32, R. 20-33, R. 20-34, R. 20-35, R. 20-36, R.
