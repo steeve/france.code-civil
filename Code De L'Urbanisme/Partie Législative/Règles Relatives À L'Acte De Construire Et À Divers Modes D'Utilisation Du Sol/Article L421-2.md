@@ -1,7 +1,9 @@
 Article L421-2
 ----
-Le permis de construire est délivré au nom de l'Etat dans les formes, conditions
-et délais déterminés par un règlement d'administration publique.
+Le permis de construire est instruit et délivré au nom de la commune ou au nom
+de l'établissement public de coopération intercommunale, ou au nom de l'Etat
+selon les cas et modalités prévus aux articles L. 421-2-1 à L. 421-2-8 dans les
+formes, conditions et délais déterminés par un décret en Conseil d'Etat.
 
 Conformément aux dispositions de l'article 3 de la loi n° 77-2 du 3 janvier 1977
 sur l'architecture, la demande de permis de construire ne peut être instruite
@@ -23,11 +25,11 @@ sur l'architecture, par dérogation au deuxième alinéa ci-dessus, ne sont pas
 tenues de recourir à un architecte les personnes physiques qui déclarent vouloir
 édifier ou modifier, pour elles-mêmes, une construction de faible importance
 dont les caractéristiques, et notamment la surface maximale de plancher, sont
-déterminées par décret en Conseil d'Etat. Ces caractéristiques peuvent être
+déterminées par décret en conseil d'Etat. Ces caractéristiques peuvent être
 différentes selon la destination des constructions.
 
 Le recours à l'architecte n'est pas non plus obligatoire pour les travaux soumis
-au permis de construire, qui concernent exclusivement l'aménagement et
+au permis de construire qui concernent exclusivement l'aménagement et
 l'équipement des espaces intérieurs des constructions et vitrines commerciales
 ou qui sont limités à des reprises n'entraînant pas de modifications visibles de
 l'extérieur.
@@ -39,9 +41,9 @@ commercialisation, être établis par un architecte dans les conditions prévues
 l'article 3 de ladite loi et ce quel que soit le maître d'ouvrage qui les
 utilise.
 
-Nota : Loi 514 du 7 juillet 1980 :
+Nota : Loi 514 du 7 juillet 1980.
 
 Dans les lois en vigueur à la date de publication de la présente loi, tout
 renvoi à un règlement d'administration publique ou à un décret en forme de
 règlement d'administration publique est remplacé par un renvoi à un décret en
-Conseil d'Etat.
+conseil d'Etat.

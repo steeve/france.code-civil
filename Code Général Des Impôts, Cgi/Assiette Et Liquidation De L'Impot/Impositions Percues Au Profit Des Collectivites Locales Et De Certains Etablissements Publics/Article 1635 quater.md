@@ -1,7 +1,7 @@
 Article 1635 quater
 ----
 Comme il est dit à l'article L 332-1 du code de l'urbanisme, lorsque
-l'application des règles mentionnées à l'article L 123-1-7° de ce code permet la
+l'application des règles mentionnées à l'article L 123-1-2° de ce code permet la
 réalisation d'une construction qui dépasse la norme résultant de l'application
 du coefficient d'occupation du sol ou impose le respect de servitudes ou
 obligations impliquant un dépassement de cette norme, le constructeur est tenu

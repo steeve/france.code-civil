@@ -1,27 +1,45 @@
 Article L123-3
 ----
-Les plans d'occupation des sols sont élaborés conjointement par les services de
-l'Etat et les communes intéressées ou, lorsqu'ils existent, les établissements
-publics groupant lesdites communes et ayant compétence en matière d'urbanisme.
+Le plan d'occupation des sols est élaboré à l'initiative et sous la
+responsabilité de la commune.
 
-Les plans d'occupation des sols sont soumis pour avis aux conseils municipaux
-desdites communes ou aux organes compétents desdits établissements publics. Cet
-avis est réputé favorable s'il n'intervient pas dans un délai de trois mois.
+Après délibération du conseil municipal, une commune peut confier l'élaboration
+d'un plan d'occupation des sols à un établissement public de coopération
+intercommunale.
 
-Les plans d'occupation des sols sont alors rendus publics, cette publication
-devant comporter en annexe le texte des avis donnés conformément à l'alinéa qui
-précède.
+Sont associés à cette élaboration l'Etat et, à leur demande et dans les formes
+que la commune ou l'établissement public détermine, la région, le département et
+les organismes mentionnés aux articles L. 121-6 et L. 121-7 ; le maire ou le
+président de l'établissement public peut recueillir l'avis de tout organisme ou
+association ayant compétence en matière de construction, d'aménagement ou
+d'urbanisme.
 
-Ils sont ensuite soumis à enquête publique, puis à une délibération prise par
-les conseils municipaux ou les organes compétents susvisés. Cette délibération
-est réputée prise si elle n'intervient pas dans un délai de trois mois.
+Au vu de la décision prescrivant l'élaboration d'un plan d'occupation des sols,
+le représentant de l'Etat porte à la connaissance de la commune ou de
+l'établissement public compétent les prescriptions, servitudes et dispositions
+mentionnées au dernier alinéa de l'article L. 123-1, et lui communique toute
+autre information qu'il juge utile à l'élaboration du plan.
 
-Les plans d'occupation des sols sont alors approuvés dans les conditions fixées
-par les décrets prévus à l'article L. 125-1.
+Le conseil municipal ou l'organe délibérant de l'établissement public compétent
+arrête le projet de plan d'occupation des sols. Celui-ci est alors soumis pour
+avis aux personnes publiques associées à son élaboration ainsi que, à leur
+demande, aux communes limitrophes et aux établissements publics de coopération
+intercommunale directement intéressés. Ces personnes donnent un avis dans les
+limites de leurs compétences propres, au plus tard trois mois après transmission
+du projet de plan ; à défaut, ces avis sont réputés favorables.
 
-Lorsqu'une opposition émane d'une commune groupant plus de 50000 habitants, de
-plusieurs communes groupant plus de 50000 habitants ou d'un établissement public
-groupant des communes dont la population globale excède ce chiffre,
-l'approbation ne peut résulter que d'un décret en Conseil d'Etat.
+Lorsque le projet de plan d'occupation des sols est arrêté par l'organe
+délibérant de l'établissement public groupant les communes et ayant compétence
+en matière d'urbanisme, il est également soumis pour accord aux conseils
+municipaux des communes membres. Les conseils municipaux doivent faire connaître
+leur accord ou leur désaccord dans un délai de trois mois ; à défaut, l'accord
+est réputé donné.
 
-Les plans d'occupation des sols approuvés sont tenus à la disposition du public.
+Dans les communes couvertes par un schéma directeur ou un schéma de secteur
+approuvé ou arrêté, le projet de plan d'occupation des sols est rendu public par
+le maire ou le président de l'établissement public compétent avec en annexe les
+avis ou les accords des personnes publiques consultées. Le plan d'occupation des
+sols rendu public est opposable à toute personne publique ou privée pour
+l'exécution de tous travaux, constructions, plantations, affouillements ou
+exhaussements des sols, pour la création de lotissements et l'ouverture des
+installations classées.

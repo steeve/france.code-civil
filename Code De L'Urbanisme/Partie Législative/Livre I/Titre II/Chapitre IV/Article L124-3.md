@@ -1,11 +1,16 @@
 Article L124-3
 ----
-Les coefficients provisoires d'occupation du sol établis du 30 décembre 1967 au
-30 décembre 1970 en attendant que soient rendus opposables aux tiers les plans
-d'occupation du sol cesseront d'avoir effet dès que deviendront applicables les
-nouveaux plans d'occupation des sols ou, au plus tard, trois ans après que ces
-coefficients auront été rendus publics.
+Les schémas directeurs, les schémas de secteur et les plans d'occupation des
+sols sont, selon les cas, rendus publics, approuvés, modifiés ou révisés suivant
+les modalités résultant de la loi n° 83-8 du 7 janvier 1983 relative à la
+répartition de compétences entre les communes, les départements, les régions et
+l'Etat, sans qu'il y ait lieu cependant de renouveler les actes de la procédure
+d'élaboration qui sont intervenus dans les conditions prévues par la législation
+antérieure.
 
-La réalisation d'une construction qui dépasse la norme résultant de
-l'application d'un coefficient provisoire d'occupation du sol donne lieu au
-versement de la participation prévue à l'article L. 332-1.
+Le représentant de l'Etat est tenu de porter à la connaissance de l'autorité
+désormais compétente pour continuer les procédures engagées en matière de schéma
+directeur, de schéma de secteur ou de plan d'occupation des sols soit les
+prescriptions prises en application de l'article L. 111-1-1 et les dispositions
+visées à l'article L. 122-1-1, soit les prescriptions, servitudes et
+dispositions visées à l'article L. 123-1.

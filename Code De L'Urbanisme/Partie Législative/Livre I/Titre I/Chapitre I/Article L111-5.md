@@ -15,10 +15,10 @@ même propriétaire ou à une même indivision doit, à peine de nullité, être
 précédée de la délivrance d'un certificat d'urbanisme portant, selon le cas, sur
 cette parcelle ou sur cet ensemble de parcelles. Cette convention doit
 reproduire les indications énoncées dans le certificat d'urbanisme et faire
-l'objet de la publicité prévue à l'article 28 du décret n. 55-22 du 4 janvier
+l'objet de la publicité prévue à l'article 28 du décret n° 55-22 du 4 janvier
 1955 portant réforme de la publicité foncière.
 
-//LOI 1285 ART. 2 : Un décret en Conseil d'Etat détermine les conditions dans
-lesquelles le contrôle exercé par l'autorité administrative au titre des
-dispositions du présent code sur les divisions ou cessions de terrains, peut
-tenir lieu de la procédure prévue à l'alinéa 3 du présent article//.
+Un décret en conseil d'Etat détermine les conditions dans lesquelles le contrôle
+exercé par l'autorité compétente au titre des dispositions du présent code sur
+les divisions ou cessions de terrains, peut tenir lieu de la procédure prévue à
+l'alinéa 3 du présent article.

@@ -1,19 +1,13 @@
 Article R*141-3
 ----
-/M/Les schémas directeurs d'aménagement et d'urbanisme et les schémas de secteur
-sont établis en conformité avec le schéma directeur de la région parisienne,
-sous l'autorité du préfet de la région parisienne assisté du chef du service
-régional de l'équipement.
-
-/M/DECR.0433 : Les schémas directeurs d'aménagement et d'urbanisme et les
-schémas de secteur doivent être compatibles avec le schéma directeur de la
-région parisienne. Ils sont établis sous l'autorité du préfet de la région,
-assisté du chef du service régional de l'équipement. Ils peuvent être approuvés
-avant que n'intervienne l'approbation du schéma directeur de la région. Dans ce
-cas, l'approbation ultérieure du schéma régional entraînera, le cas échéant,
-modification des schémas directeurs et des schémas de secteur dans leurs
-dispositions incompatibles avec le schéma régional ; ces modifications seront
-constatées par arrêté du préfet de la région parisienne//.
+Les schémas directeurs et les schémas de secteur doivent être compatibles avec
+le schéma directeur de la région parisienne. Ils sont établis sous l'autorité du
+préfet de la région, assisté du chef du service régional de l'équipement. Ils
+peuvent être approuvés avant que n'intervienne l'approbation du schéma directeur
+de la région. Dans ce cas, l'approbation ultérieure du schéma régional
+entraînera, le cas échéant, modification des schémas directeurs et des schémas
+de secteur dans leurs dispositions incompatibles avec le schéma régional ; ces
+modifications seront constatées par arrêté du préfet de la région parisienne.
 
 Les dispositions des articles R. 122-1 à R. 122-21 et de l'article R. 613-2
 [*consultation du comité d'aménagement de la région parisienne*] leur sont
@@ -27,7 +21,7 @@ avec le concours des services publics intéressés ;
 
 En outre, le conseil de Paris est tenu informé des études entreprises et de
 leurs résultats ; les options relatives aux perspectives de développement et aux
-partis d'aménagement de la ville lui sont soumises ;
+parties d'aménagement de la ville lui sont soumises ;
 
 Lorsque le conseil municipal de Paris et le conseil d'administration du district
 de la région parisienne ont émis leur avis dans les conditions prévues à
@@ -39,12 +33,11 @@ b) En ce qui concerne les schémas autres que ceux visés au a ci-dessus :
 
 Le préfet de la région parisienne, sur proposition des préfets, arrête la liste
 des communes ou ensembles de communes concernés par l'établissement d'un schéma
-directeur d'aménagement et d'urbanisme. Les listes et les modifications qui
-peuvent leur être apportées sont communiquées aux maires des communes
-intéressées et publiées dans deux journaux diffusés dans le département
-[*publicité*] ;
+directeur. Les listes et les modifications qui peuvent leur être apportées sont
+communiquées aux maires des communes intéressées et publiées dans deux journaux
+diffusés dans le département [*publicité*] ;
 
-Lorsque les conseils municipaux ou les organes délibérant visés à l'article R.
+Lorsque les conseils municipaux ou les organes délibérants visés à l'article R.
 122-13 ainsi que le conseil d'administration du district ont émis leur avis, le
 préfet de la région parisienne soumet les projets de schémas directeurs et de
 schémas de secteur à l'approbation des autorités compétentes.
