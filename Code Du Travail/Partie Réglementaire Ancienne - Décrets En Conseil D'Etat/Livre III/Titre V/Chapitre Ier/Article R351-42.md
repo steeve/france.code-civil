@@ -1,19 +1,18 @@
 Article R351-42
 ----
-Pour l'application de l'article L. 351-24 sont considérées comme exerçant
-effectivement le contrôle d'une entreprise constituée sous la forme de société :
+Peuvent être admis au bénéfice des exonérations de cotisations et des droits à
+prestation prévus aux articles L. 161-1 ou L. 161-1-1 et L. 161-24 du code de la
+sécurité sociale :
 
-1° La ou les personnes détenant individuellement ou collectivement plus de la
-moitié du capital ;
+1° Les personnes privées d'emploi percevant l'une des allocations mentionnées
+aux articles L. 351-3, L. 351-9, L. 351-10 et L. 353-1 ;
 
-2° La personne exerçant dans la société une fonction de dirigeant et détenant au
-moins un tiers du capital de celle-ci, dès lors qu'aucun autre actionnaire à
-l'exception de son conjoint, de ses ascendants ou descendants, ne détient
-directement ou indirectement plus de la moitié du capital.
+2° Les personnes remplissant les conditions pour percevoir l'une des allocations
+prévues aux articles L. 351-3 et L. 353-1 ;
 
-Les parts de capital éventuellement acquises par le conjoint, les ascendants ou
-les descendants du demandeur de l'aide entrent en compte dans les montants de
-capital fixés aux 1° et 2° du présent article. Dans ce cas toutefois, la ou les
-personnes mentionnées au 1° doivent posséder, à titre personnel, au moins 35 p.
-100 du capital de l'entreprise ; la personne mentionnée au 2° doit posséder à
-titre personnel au moins 25 p. 100 dudit capital.
+3° Les bénéficiaires de l'allocation de revenu minimum d'insertion ou leur
+conjoint ou concubin ;
+
+4° Les demandeurs d'emploi non indemnisés inscrits depuis plus de six mois au
+cours des dix-huit derniers mois et n'appartenant pas aux catégories mentionnées
+aux 2° et 3° ci-dessus.

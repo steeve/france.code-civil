@@ -49,4 +49,4 @@ depuis moins d'un an.
 3° Lorsque le cocontractant emploie des salariés, une attestation sur l'honneur
 établie par ce cocontractant certifiant que le travail sera réalisé avec des
 salariés employés régulièrement au regard des articles L. 143-3, L. 143-5 et L.
-620-3 ;
+620-3.

@@ -23,7 +23,7 @@ Lorsqu'il s'agit de la souscription d'un contrat nouveau, est considéré comme 
 refus implicite d'assurance le silence gardé par l'assureur pendant plus de
 quinze jours après réception de la demande de souscription adressée en vertu des
 articles L. 125-6, L. 212-1 ou L. 220-5, ainsi que de l'article 1234-10 du code
-rural et pendant plus de quatre-vingt-dix jours après réception de la demande de
+rural et pendant plus de quarante-cinq jours après réception de la demande de
 souscription adressée en vertu de l'article L. 243-4.
 
 Est assimilé à un refus le fait par l'assureur, saisi d'une demande de

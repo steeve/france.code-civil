@@ -42,6 +42,4 @@ en précisant le numéro de la police.
 l'indemnisation des dommages matériels.
 
 3. Le fonds de garantie ne prend pas en charge des dommages matériels subis par
-l'Etat et par les collectivités publiques, entreprises et organismes
-bénéficiaires d'une dérogation à l'obligation d'assurance accordée en
-application de l'article L. 211-3.
+l'Etat.

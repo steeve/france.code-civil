@@ -1,16 +1,17 @@
 Article R351-41
 ----
-Peuvent prétendre au bénéfice de l'aide instituée par l'article L. 351-24 :
+L'aide aux demandeurs d'emploi qui créent ou reprennent une entreprise ou qui
+entreprennent l'exercice d'une autre profession non salariée comprend :
 
-1° Les demandeurs d'emploi inscrits plus de six mois au cours des dix-huit
-derniers mois dans des catégories où ils sont tenus d'accomplir des actes
-positifs de recherche d'emploi ;
+1° Les exonérations de cotisations sociales qui, en application des dispositions
+de l'article L. 351-24, peuvent être accordées aux personnes appartenant à l'une
+des catégories énumérées à l'article R. 351-42 ;
 
-2° Les bénéficiaires de l'allocation de revenu minimum d'insertion ou leur
-conjoint ou concubin ;
+2° Pour les personnes admises au bénéfice de ces exonérations et qui perçoivent
+l'allocation de solidarité spécifique prévue à l'article L. 351-10, les
+versements, d'un montant égal à cette allocation au taux plein, effectués par
+l'Etat mensuellement pendant une durée de six mois conformément aux dispositions
+du II de l'article 136 de la loi n° 96-1181 du 30 décembre 1996 ;
 
-3° Les titulaires de contrat emploi-solidarité qui remplissaient les conditions
-du 1° ci-dessus lors de la conclusion de ce contrat.
-
-Les périodes passées en convention de conversion et en stage de formation
-professionnelle sont validées au titre des six mois prévus au 1° ci-dessus.
+3° La délivrance de chéquiers conseils destinés au financement d'actions de
+conseils et de formation au bénéfice des créateurs ou repreneurs d'entreprises.

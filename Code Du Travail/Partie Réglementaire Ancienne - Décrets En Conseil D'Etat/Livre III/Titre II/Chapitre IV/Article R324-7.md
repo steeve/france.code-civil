@@ -13,7 +13,7 @@ a) Document mentionnant l'identité et l'adresse du représentant du
 cocontractant, désigné auprès de l'administration fiscale française ;
 
 b) Document attestant la régularité de la situation sociale du cocontractant au
-regard du règlement (C.E.E.) n° 1408-71 du 14 juin 1971 ou d'une convention
+regard du règlement (CEE) n° 1408-71 du 14 juin 1971 ou d'une convention
 internationale de sécurité sociale, ou, à défaut, attestation de fourniture de
 déclaration sociale émanant de l'organisme français de protection sociale chargé
 du recouvrement des cotisations sociales incombant au cocontractant et datant de

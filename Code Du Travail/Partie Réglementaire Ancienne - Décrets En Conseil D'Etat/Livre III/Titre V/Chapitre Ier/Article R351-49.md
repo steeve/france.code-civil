@@ -1,11 +1,14 @@
 Article R351-49
 ----
-En cas de réinscription comme demandeur d'emploi d'un bénéficiaire de l'aide
-instituée par l'article L. 351-24, les droits de l'intéressé à l'allocation
-d'insertion instituée par l'article L. 351-9 sont réduits à concurrence de 250
-allocations journalières.
+L'accompagnement des personnes appartenant à l'une des catégories énumérées à
+l'article R. 351-42 et qui souhaitent créer ou reprendre une entreprise est
+assuré notamment par la mise en oeuvre d'actions de conseil et la délivrance
+individuelle de chéquiers-conseil.
 
-En cas de réinscription comme demandeur d'emploi moins de 250 jours après le
-début de l'activité ayant donné lieu au versement de l'aide, la réadmission de
-l'intéressé à l'allocation journalière instituée par l'article L. 351-10 est
-différée jusqu'à l'expiration dudit délai.
+La délivrance de chéquiers-conseil permet aux bénéficiaires d'obtenir, auprès
+d'organismes spécialisés, des consultations adaptées à leurs besoins pour la
+préparation de leur projet de création ou de reprise d'entreprise ou pour faire
+face aux difficultés rencontrées dans l'année suivant celle-ci.
+
+L'Etat procède à l'habilitation des organismes admis à dispenser ces conseils et
+participe au financement de ces actions selon des modalités fixées par arrêté.
