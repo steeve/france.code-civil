@@ -26,7 +26,8 @@ conditions de prise en charge des annuités d'emprunt afférentes à ces locaux
 sont déterminées par délibérations concordantes du conseil de communauté et du
 conseil municipal intéressé ;
 
-5° Services d'incendie et de secours ;
+5° Services d'incendie et de secours sous réserve des dispositions du chapitre
+IV du titre II du livre IV de la première partie ;
 
 6° Transports urbains de voyageurs ;
 

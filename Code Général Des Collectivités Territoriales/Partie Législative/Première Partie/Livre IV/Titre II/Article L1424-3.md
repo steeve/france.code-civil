@@ -1,15 +1,16 @@
 Article L1424-3
 ----
-- A partir du 1er janvier 1995, le service départemental d'incendie et de
-secours est seul compétent pour la gestion de tous les moyens en personnels,
-matériels et financiers consacrés par les communes, les établissements publics
-intercommunaux et le département à la lutte contre les incendies et contre les
-autres accidents, sinistres et catastrophes.
+Les services d'incendie et de secours sont placés pour emploi sous l'autorité du
+maire ou du préfet, agissant dans le cadre de leurs pouvoirs respectifs de
+police.
 
-Les dispositions du précédent alinéa ne s'appliquent pas aux moyens relevant des
-communautés urbaines, sauf si celles-ci en décident autrement.
+Pour assurer les missions de prévention qui leur incombent, notamment en ce qui
+concerne la réglementation applicable aux risques d'incendie et de panique dans
+les établissements recevant du public, le maire ou le préfet dispose des moyens
+relevant des services d'incendie et de secours.
 
-Le service départemental d'incendie et de secours des Bouches-du-Rhône, l'Etat
-et la ville de Marseille chargés de la gestion du bataillon des marins-pompiers
-de Marseille règlent par convention les modalités de leur coopération en matière
-de gestion des moyens en personnels, matériels et financiers.
+Les moyens du service départemental d'incendie et de secours consacrés aux
+actions de prévention sont définis par le conseil d'administration en tenant
+compte du nombre des établissements dans le département relevant de la
+réglementation applicable aux risques d'incendie et de panique dans les
+établissements recevant du public.
