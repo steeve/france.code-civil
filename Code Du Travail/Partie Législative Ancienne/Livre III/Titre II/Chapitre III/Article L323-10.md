@@ -1,6 +1,6 @@
 Article L323-10
 ----
-Est considéré comme travailleur handicapé au sens de la présente section, toute
+Est considérée comme travailleur handicapé au sens de la présente section, toute
 personne dont les possibilités d'obtenir ou de conserver un emploi sont
 effectivement réduites par suite d'une insuffisance ou d'une diminution de ses
 capacités physiques ou mentales.

@@ -9,7 +9,7 @@ réglementaires relatives à la formation professionnelle soit chez un employeur
 dans les conditions prévues par les dispositions législatives et réglementaires
 en vigueur.
 
-Les conventions conclues en application de l'article L. 920-3 entre l'Etat et
-les établissements et centres de formation professionnelle déterminent, s'il y a
-lieu, les conditions d'admission en fonction des difficultés particulières
+Les conventions conclues en application de l'article L. 920-3 (1) entre l'Etat
+et les établissements et centres de formation professionnelle déterminent, s'il
+y a lieu, les conditions d'admission en fonction des difficultés particulières
 rencontrées par les diverses catégories de travailleurs handicapés.

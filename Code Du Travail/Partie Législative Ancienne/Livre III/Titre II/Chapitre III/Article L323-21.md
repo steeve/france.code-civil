@@ -1,9 +1,9 @@
 Article L323-21
 ----
-Les travailleurs handicapés embauchés en vertu des dispositions des articles
-précédents ne peuvent, en cas de rechute de l'affection invalidante, bénéficier
-des avantages spéciaux accordés en cas de maladie par un statut particulier ou
-une convention ou accord collectif de travail.
+Les travailleurs handicapés embauchés en vertu des dispositions de la section
+1re du présent chapitre ne peuvent, en cas de rechute de l'affection
+invalidante, bénéficier des avantages spéciaux accordés en cas de maladie par un
+statut particulier ou une convention ou accord collectif de travail.
 
 Toutefois, lesdits statuts ou conventions ou accords collectifs de travail
 peuvent prévoir des dérogations aux dispositions ci-dessus.
@@ -17,10 +17,6 @@ s'il est à nouveau atteint de la maladie qui était à l'origine de son
 invalidité, bénéficier des avantages spéciaux cités à l'alinéa 1er à
 l'expiration d'un délai d'un an, à compter de la date de la consolidation.
 
-Les contestations portant sur l'application des dispositions de l'alinéa
-précédent sont portées devant la commission départementale des handicapés qui
-statue en dernier ressort.
-
-Le règlement prévu à l'article L. 323-12 précise les modalités d'application de
-ces dispositions aux administrations de l'Etat, des départements et des
-communes.
+Les modalités d'application des dispositions du présent article aux
+collectivités publiques mentionnées à l'article L. 323-2 sont déterminées par
+voie réglementaire.

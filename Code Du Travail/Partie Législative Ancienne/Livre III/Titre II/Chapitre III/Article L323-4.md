@@ -1,30 +1,27 @@
 Article L323-4
 ----
-Pour l'application des articles précédents :
+I. - L'effectif total de salariés, visé au premier alinéa de l'article L. 323-1,
+est calculé selon les modalités définies à l'article L. 431-2 ; toutefois, les
+salariés occupant certaines catégories d'emplois exigeant des conditions
+d'aptitude particulières, déterminées par décret, ne sont pas décomptés dans cet
+effectif.
 
-- tout bénéficiaire de la présente section dont l'invalidité atteint au moins 85
-p. 100 est compté pour deux unités ;
+II. - Les dispositions de l'article L. 431-2 sont applicables au calcul du
+nombre des bénéficiaires de la présente section employés par l'entreprise ;
+toutefois, il est tenu compte des apprentis.
 
-- l'employeur titulaire d'une pension attribuée au titre du code [*des pensions
-militaires d'invalidité et victimes de guerre*] mentionné à l'article L. 323-1
-est compté pour une unité dans le pourcentage de bénéficiaires qui lui est
-imposé s'il est pensionné avec moins de 85 p. 100 d'invalidité ou pour deux
-unités dans le cas contraire ;
+En outre et selon des modalités déterminées par décret, ces bénéficiaires sont
+pris en compte une fois et demie, deux ou plusieurs fois :
 
-- les victimes d'accidents du travail ou de maladies professionnelles sont
-comptées comme il est dit ci-dessus pour l'employeur, à la condition qu'elles
-soient encore au service de l'employeur chez lequel est survenu l'accident ou la
-maladie, si elles sont titulaires d'une rente attribuée au titre :
+1° Si leur handicap est important ;
 
-1. Des articles L. 414 et suivants du code de la sécurité sociale ;
+2° S'ils remplissent certaines conditions d'âge ;
 
-2. Des articles L. 1144 et suivants du code rural ;
+3° S'ils reçoivent une formation au sein de l'entreprise ;
 
-3. De la loi du 3 avril 1942 accordant des majorations et des allocations aux
-victimes des accidents du travail et à leurs ayants droit ;
+4° S'ils sont embauchés à leur sortie d'un atelier protégé défini à l'article L.
+323-31, d'un centre d'aide par le travail défini à l'article 167 du code de la
+famille et de l'aide sociale ou d'un centre de formation professionnelle.
 
-4. Du régime local d'assurances sociales des départements du Haut-Rhin, du
-Bas-Rhin et de la Moselle ;
-
-5. Du décret modifié du 16 juin 1938 relatif au régime de prévoyance des marins
-du commerce et de la pêche.
+Ce décret précise la durée pendant laquelle ces dispositions sont applicables
+aux situations prévues aux 3° et 4° ci-dessus.

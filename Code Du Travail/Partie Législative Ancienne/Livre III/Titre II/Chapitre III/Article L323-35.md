@@ -1,32 +1,41 @@
 Article L323-35
 ----
-Un règlement d'administration publique détermine les modalités d'application de
-la présente section et notamment :
+Une commission départementale des travailleurs handicapés, des mutilés de guerre
+et assimilés statue [*attributions*] sur les contestations nées de l'application
+du deuxième alinéa de l'article L. 323-6 et des articles L. 323-10, L. 323-12 et
+L. 323-21.
 
-- les modalités d'application de l'article L. 323-21 ;
+Elle est présidée par un magistrat de l'ordre judiciaire, en activité ou
+honoraire, désigné par le premier président de la cour d'appel.
 
-- la composition de la commission départementale des handicapés, les conditions
-de nomination de ses membres et les modalités de son fonctionnement ;
+La commission comprend [*compisation*] en outre :
 
-- les modalités d'agrément, de fonctionnement et de contrôle des ateliers
-protégés et des centres de distribution de travail à domicile ainsi que les
-conditions d'admission des travailleurs handicapés ;
+- Le directeur régional du travail et de l'emploi ou son représentant ou, s'il
+s'agit d'un litige concernant un salarié agricole, le chef du service régional
+de l'inspection du travail, de l'emploi et de la politique sociale agricole ou
+son représentant ;
 
-- les modalités de fonctionnement du conseil supérieur pour le reclassement
-professionnel et social des travailleurs handicapés et les conditions de
-nomination de ses membres.
+- Un médecin du travail désigné par le représentant de l'Etat dans le
+département ;
 
-En outre, des décrets en Conseil d'Etat déterminent :
+- Un représentant des employeurs et un représentant des salariés désignés par le
+représentant de l'Etat dans le département parmi les membres du comité
+départemental de la formation professionnelle, de la promotion sociale et de
+l'emploi ;
 
-Les conditions dans lesquelles les indemnités versées par l'Etat en application
-du titre VI du livre IX du présent code peuvent se cumuler avec les prestations
-versées au titre d'un régime de prévoyance ou d'aide sociale, y compris celles
-versées en application des articles 35 et 39 de la loi n. 75-534 du 30 juin 1975
-;
+- Un représentant des travailleurs handicapés choisi par le représentant de
+l'Etat dans le département sur une liste établie par les associations
+représentant les handicapés dans le département ;
 
-Les conditions et modalités selon lesquelles les intéressés sont appelés à
-participer, le cas échéant, aux frais de leur entretien et de leur hébergement
-pendant la durée du stage de formation ou de rééducation professionnelle ;
+-Un représentant du service départemental de l'Office national des anciens
+combattants.
 
-Les conditions d'attribution des primes [*destinées à faciliter le
-reclassement*] mentionnées à l'avant-dernier alinéa de l'article L. 323-16.
+- Les décisions de la commission peuvent faire l'objet d'un recours en cassation
+devant le Conseil d'Etat.
+
+- Les conditions de désignation et les modalités de fonctionnement de la
+commission sont déterminées par un décret en Conseil d'Etat.
+
+- La commission départementale établit un compte rendu [*périodicité*] annuel de
+son activité diffusé notamment aux organisations représentatives des salariés,
+des employeurs [*syndicales*] et des personnes handicapées.

@@ -17,7 +17,7 @@ un réentraînement scolaire ;
 Le placement.
 
 L'Etat peut consentir une aide financière aux établissements, organismes et
-employeurs mentionnés à l'article L. 323-12 afin de faciliter la mise ou la
+employeurs mentionnés à l'article L. 323-1 afin de faciliter la mise ou la
 remise au travail en milieu ordinaire de production des travailleurs handicapés.
 Cette aide peut concerner, notamment, l'adaptation des machines ou des
 outillages, l'aménagement de postes de travail, y compris l'équipement
