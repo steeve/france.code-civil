@@ -1,0 +1,16 @@
+Article R331-47
+----
+Si les travaux ne sont pas commencés dans un délai de dix-huit mois à compter de
+la date de la décision favorable, le préfet peut rapporter cette décision.
+
+Dans un délai de quatre ans à compter de la date de la décision favorable, le
+bénéficiaire est tenu [*obligation*] de justifier au préfet que la déclaration
+d'achèvement des travaux prévue à l'article R. 460-1 du code de l'urbanisme a
+été déposée. Dans le cas de travaux d'amélioration le bénéficiaire est tenu de
+déclarer l'achèvement des travaux au préfet dans le même délai.
+
+Une prorogation de ce délai peut être accordée par le ministre chargé de la
+construction et de l'habitation et le ministre chargé des finances.
+
+La non-observation de ces dispositions entraîne la nullité de la décision
+favorable.

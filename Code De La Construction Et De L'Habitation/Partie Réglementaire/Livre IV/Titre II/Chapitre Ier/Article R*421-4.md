@@ -1,17 +1,13 @@
 Article R*421-4
 ----
-Les offices publics d'aménagement et de construction peuvent :
+Les offices publics d'aménagement et de construction peuvent [*attributions*] :
 
 1. Réaliser, en vue de la location ou de l'accession à la propriété, les
-opérations prévues à l'article L. 411-1, ainsi que les opérations financées au
-moyen des formes spécifiques d'aides de l'Etat et de prêts accordés par l'Etat
-dans les cas prévus à l'article L. 351-2 et assurer la gestion des immeubles,
-acquis, construits ou aménagés aux mêmes fins, notamment en qualité de syndic.
+opérations prévues à l'article L. 411-1 et assurer la gestion des immeubles
+acquis, construits ou aménagés en application de cet article ;
 
-2. Gérer des immeubles à usage principal d'habitation, appartenant à l'Etat, aux
-collectivités locales, à d'autres organismes d'habitations à loyer modéré sous
-réserve s'il y a lieu, de l'application de l'article L. 442-9, à des sociétés
-d'économie mixte ou à des organismes à but non lucratif.
+2. Gérer des immeubles à usage principal d'habitation appartenant à l'Etat et
+aux collectivités locales ;
 
 3. Réaliser, soit directement après accord de la ou des collectivités locales
 intéressées, soit en vertu d'une convention ou d'un traité de concession passé
@@ -23,7 +19,7 @@ de l'urbanisme sans que soient applicables les dispositions des articles L.
 
 4. Réaliser directement ou à titre de prestataires de services, les opérations
 de restauration immobilière prévues aux articles L. 313-3 et L. 313-4 du code de
-l'urbanisme ;
+l'urbanisme.
 
 5. Procéder, à titre de prestataires de services, et en vertu de conventions
 comportant des clauses types approuvées par arrêté du ministre chargé de la

@@ -1,0 +1,11 @@
+Article R*313-28
+----
+Les associations prévues à l'article R. 313-9 (2, a) doivent grouper au moins
+soixante employeurs assujettis à la participation pour pouvoir collecter
+celle-ci ; ce minimum est réduit à vingt si la majorité des membres de
+l'association est composée de syndicats professionnels ou interprofessionnels.
+
+Les associations mentionnées ci-dessus qui, pendant deux années consécutives,
+ont recueilli, au sens de l'article R. 313-25, des sommes inférieures à un
+montant annuel fixé par arrêté du ministre chargé de la construction et de
+l'habitation ne peuvent plus collecter la participation des employeurs.
