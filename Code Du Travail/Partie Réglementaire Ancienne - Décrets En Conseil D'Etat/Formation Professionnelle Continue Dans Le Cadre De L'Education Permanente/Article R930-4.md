@@ -1,14 +1,18 @@
 Article R930-4
 ----
-Lorsque les dispositions des II et III de l'article L. 930-1 ne permettent pas
-de satisfaire toutes les demandes, la priorité est accordée dans l'ordre :
+Le bénéficiaire du congé de formation ou d'enseignement doit, a la fin de chaque
+mois et au moment de la reprise du travail, remettre à l'entreprise une
+attestation de fréquentation effective du stage ou d'exercice effectif de
+l'enseignement [*formalité obligatoire*].
 
-Aux demandes présentées au titre dudit article L. 930-1 et qui ont déjà été
-différées ;
+Le salarié qui, sans motif valable, cesse de fréquenter le stage ou d'exercer
+l'enseignement pour lesquels le congé a été accordé perd le bénéfice dudit
+congé.
 
-A celles qui sont formulées par les travailleurs dont le stage a dû être
-interrompu pour des motifs reconnus valables, après avis du comité d'entreprise
-ou, à défaut, des délégués du personnel ;
+Dans le cas où le congé de formation est accordé en vue de passer un examen, le
+bénéficiaire de ce congé doit fournir à l'entreprise un certificat attestant
+qu'il a pris part à toutes les épreuves de l'examen.
 
-A celles qui sont formulées par les travailleurs ayant le plus d'ancienneté dans
-l'entreprise.
+Lorsque, sans motif valable, le salarié ne peut produire ledit certificat
+[*condition*], il perd le bénéfice du maintien du salaire prévu à l'article L.
+930-1-7 ou à l'article L. 930-2.

@@ -1,8 +1,6 @@
 Article R930-8
 ----
-Les heures de congé auxquelles ont droit les travailleurs mentionnés à l'article
-L. 930-2 peuvent être reportées d'une année à l'autre, à la demande des
-travailleurs intéréssés.
-
-Le congé total peut être utilisé en une ou plusieurs fois pour suivre des
-stages, continus ou discontinus, à temps plein ou à temps partiel .
+Le congé de formation [*promotion individuelle*] prévu au dernier alinéa de
+l'article L. 930-1 est accordé en vue de l'obtention de titres ou de diplômes de
+l'enseignement technologique homologués dans les conditions fixées aux alinéas 4
+et 5 de l'article 8 de la loi n. 71-577 du 16 juillet 1971.

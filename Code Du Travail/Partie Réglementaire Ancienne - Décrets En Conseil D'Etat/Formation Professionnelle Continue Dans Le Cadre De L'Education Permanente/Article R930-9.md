@@ -1,11 +1,11 @@
 Article R930-9
 ----
-La demande de congé doit être formulée au plus tard trente jours à l'avance
-[*délai*] .
+Au cours d'une même année civile, les travailleurs peuvent prétendre au bénéfice
+d'un ou de plusieurs congé [*de formation*] pour passer un examen en vue de
+l'obtention des titres ou diplômes définis à l'article précédent.
 
-Elle doit indiquer avec précision la date d'ouverture du stage, la désignation
-et la durée de celui-ci ainsi que le nom de l'organisme qui en est responsable.
+En outre, la durée du ou des congés destinés à la préparation de tels examens ne
+peut dépasser par année vingt-quatre heures du temps de travail.
 
-Dans les dix jours suivant la réception de la demande, l'employeur doit faire
-connaître [*réponse*] à l'intéressé soit son accord, soit les raisons qui
-motivent le rejet ou le report de la demande.
+La durée totale de ces congés n'est pas prise en compte pour le calcul du délai
+prévu à l'article R. 930-7.

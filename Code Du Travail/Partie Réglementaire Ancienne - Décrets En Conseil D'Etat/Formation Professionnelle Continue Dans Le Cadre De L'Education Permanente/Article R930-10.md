@@ -1,4 +1,10 @@
 Article R930-10
 ----
-La durée pendant laquelle le congé peut être différé, en application de V (3.)
-de l'article L. 930-2, ne peut excéder trois mois [*limite*].
+Les salariés définis au I de l'article L. 930-1-12 ont droit à une autorisation
+d'absence, en vue de dispenser un enseignement technologique relevant de leur
+spécialité professionnelle :
+
+a) Soit à temps partiel, l'absence de l'entreprise ne pouvant alors excéder
+quatre heures par semaine ou dix-huit heures par mois ;
+
+b) Soit à temps plein pour une durée [*limite*] n'excédant pas un an.

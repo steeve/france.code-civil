@@ -1,15 +1,5 @@
 Article R930-11
 ----
-Lorsque les nécessités propres de l'entreprise ou de l'exploitation font
-obstacle à ce que toutes les demandes présentées au titre de l'article L. 930-2
-soient simultanément satisfaites, les candidats sont départagés selon l'ordre de
-priorité ci-après :
-
-Demandes déjà différées ;
-
-Demandes présentées par les travailleurs dont le stage a été interrompu pour des
-motifs reconnus valables, après avis du comité d'entreprise ou, à défaut, des
-délégués du personnel ;
-
-Demandes formulées par les travailleurs ayant la plus grande durée de présence
-dans l'entreprise.
+L'autorisation d'absence en vue de dispenser un enseignement à temps partiel est
+accordée pour une période maximale d'un an. Son renouvellement éventuel doit
+faire l'objet d'une nouvelle demande à l'employeur.

@@ -1,9 +1,6 @@
 Article L960-6
 ----
-Le montant des rémunérations prévu aux articles L. 960-3 et L. 960-5 comprend la
-contribution de l'Etat et, le cas échéant, celle d'organismes paritaires créés
-par des accords entre organisations professionnelles et syndicales.
-
-Dans ce dernier cas, une convention passée entre l'Etat et lesdits organismes
-déterminera les modalités de leur participation au financement des indemnités
-versées aux stagiaires.
+Les travailleurs non salariés bénéficient d'une rémunération calculée en
+fonction du salaire minimum de croissance, à condition d'avoir exercé une
+activité professionnelle salariée ou non salariée pendant au moins douze mois
+dont six consécutifs, dans les trois années qui précèdent l'entrée en stage.

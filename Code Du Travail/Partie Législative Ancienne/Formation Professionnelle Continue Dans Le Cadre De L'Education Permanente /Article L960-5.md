@@ -1,7 +1,5 @@
 Article L960-5
 ----
-Le barème de rémunération prévu au 1 du paragraphe I de l'article L. 960-3
-comporte des taux majorés au bénéfice des travailleurs salariés qui ont été
-licenciés depuis moins de six mois pour des motifs autres que disciplinaires ou
-qui suivent un stage de conversion organisé en application des conventions
-prévues à l'article L. 322-2.
+Lorsqu'elles suivent des stages agréés par l'Etat, les personnes inscrites comme
+demandeurs d'emploi perçoivent une rémunération calculée à partir du montant de
+leur salaire antérieur ou, à défaut, du salaire minimum de croissance.

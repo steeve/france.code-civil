@@ -1,10 +1,18 @@
 Article R930-12
 ----
-Le report de congé résultant de l'application des articles R. 930-10 et R.
-930-11 ci-dessus n'entraîne pas suppression du droit à congé pour les
-travailleurs qui atteindraient l'âge de vingt ans ou deux ans de présence
-[*ancienneté*] dans l'entreprise après le dépôt de leur demande. Sans préjudice
-de l'application éventuelle des dispositions de /M/L'article L.
-930-7/M/DECR.0808 19-09-1974 : l'article L. 930-1//, les travailleurs conservent
-le droit de prendre le congé prévu à l'article L. 930-2 au-delà de l'âge de
-vingt ans ou après plus de deux ans de présence dans l'entreprise.
+Aucun travailleur ayant bénéficié par application des articles précédents d'un
+congé d'enseignement à temps partiel ne peut prétendre, dans la même entreprise,
+au bénéfice d'un nouveau congé d'enseignement avant le délai déterminé ci-après.
+
+Ce délai est de six mois pour les périodes d'enseignement inférieures ou égales
+à quatre-vingts heures.
+
+Il est porté à un an pour les périodes d'enseignement d'une durée comprise entre
+quatre-vingt-une et cent soixante heures.
+
+Pour les périodes plus longues, la durée de ce délai, exprimée en mois, est
+égale au douzième de la durée, exprimée en heures, de la période d'enseignement
+dispensé.
+
+En tout état de cause, le délai prévu aux alinéas ci-dessus ne peut être
+supérieur à huit ans.

@@ -1,5 +1,4 @@
 Article R930-13
 ----
-Toute décision de refus ou de report de congé doit être prise après avis du
-comité d'entreprise ou, à défaut, des délégués du personnel [*consultation
-préalable*] .
+La durée minimale de présence dans l'entreprise, mentionnée au IV (1.) de
+l'article L. 930-2 est fixée à trois mois.
