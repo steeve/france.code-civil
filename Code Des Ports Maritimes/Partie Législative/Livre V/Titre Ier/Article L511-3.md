@@ -1,18 +1,23 @@
 Article L511-3
 ----
-Il est institué par un arrêté interministériel, dans chacun des ports définis à
+Il est institué par arrêté interministériel, dans chacun des ports définis à
 l'article L. 511-1, un organisme paritaire dénommé "bureau central de la
 main-d'oeuvre du port".
 
-Le bureau central de la main-d'oeuvre est constitué dans chaque port ainsi qu'il
-suit :
+Le bureau central de la main-d'oeuvre est constitué ainsi qu'il suit :
 
-- le directeur du port ou le chef du service maritime, président ;
+- dans les ports relevant de la compétence de l'Etat, le directeur du port, ou,
+à défaut, le chef du service maritime ; dans les autres ports, le chef du
+service maritime ;
 
-- deux ou trois représentants des entreprises de manutention ;
+- trois représentants des ouvriers dockers professionnels intermittents, dont un
+représentant de la maîtrise, élus en leur sein par ces ouvriers ;
 
-- deux ou trois représentants des ouvriers dockers.
+- un nombre égal de représentants des entreprises de manutention ;
 
-Dans le cas où le nombre des représentants des ouvriers dockers est fixé à
-trois, ce nombre doit comprendre deux représentants des ouvriers et un
-représentant de la maîtrise.
+- en outre, à titre consultatif, deux représentants élus par les ouvriers
+dockers professionnels mensualisés immatriculés au registre mentionné au a de
+l'article L. 521-4.
+
+Le directeur du port ou le chef du service maritime assure la présidence du
+bureau central de la main-d'oeuvre.

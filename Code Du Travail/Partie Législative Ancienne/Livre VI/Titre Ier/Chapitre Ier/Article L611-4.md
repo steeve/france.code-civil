@@ -10,3 +10,6 @@ transports publics par automobiles, les entreprises de transports et de travail
 aériens et les entreprises autres que les entreprises de construction
 aéronautique exerçant leur activité sur les aérodromes ouverts à la circulation
 publique.
+
+L'alinéa précédent n'est pas applicable aux entreprises de manutention dans les
+ports maritimes.

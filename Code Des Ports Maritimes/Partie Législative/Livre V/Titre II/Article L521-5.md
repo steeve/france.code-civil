@@ -7,7 +7,8 @@ dockers comprend en nombre égal :
 
 2° des représentants des employeurs ;
 
-3° des représentants des ouvriers dockers.
+3° des représentants des ouvriers dockers professionnels intermittents.
 
-Les représentants des deux dernières catégories sont désignés respectivement par
-les organisations professionnelles nationales les plus représentatives.
+Les représentants des deux dernières catégories sont désignés par arrêté
+ministériel pris sur proposition des organisations professionnelles et
+syndicales nationales les plus représentatives.
