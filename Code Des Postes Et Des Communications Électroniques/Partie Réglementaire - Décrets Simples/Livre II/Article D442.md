@@ -1,6 +1,8 @@
 Article D442
 ----
-Les appareils et installations fournis par l'utilisateur sont soumis à une
+Les appareils et installations de télécommunications, fournis par l'usager,
+doivent être d'un type agréé par le ministre chargé des télécommunications. En
+outre, certains de ces appareils et installations peuvent être soumis à une
 autorisation préalable de mise en service donnée par la direction générale des
 télécommunications.
 
