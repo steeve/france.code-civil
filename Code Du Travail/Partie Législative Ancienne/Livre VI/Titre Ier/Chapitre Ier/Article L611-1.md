@@ -11,7 +11,8 @@ ces dispositions.
 Ils constatent, en outre, les infractions aux dispositions des articles L. 431,
 L. 472, deuxième alinéa, et L. 473, alinéa premier, du code de la sécurité
 sociale ainsi que les infractions définies au 3° et au 6° de l'article 225-2 du
-code pénal.
+code pénal et les infractions prévues par les articles 225-13 à 225-15-1 du même
+code.
 
 Dans les cas expressément prévus par la loi ou le règlement, ces attributions
 peuvent être exercées par des fonctionnaires de contrôle assimilés.

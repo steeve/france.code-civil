@@ -6,4 +6,5 @@ peuvent également, en cas d'occupation des espaces communs du bâti par des
 personnes qui entravent l'accès et la libre circulation des locataires ou
 empêchent le bon fonctionnement des dispositifs de sécurité et de sûreté ou
 nuisent à la tranquillité des lieux, faire appel à la police ou à la gendarmerie
-nationales pour rétablir la jouissance paisible de ces lieux.
+nationales ou à la police municipale pour rétablir la jouissance paisible de ces
+lieux.

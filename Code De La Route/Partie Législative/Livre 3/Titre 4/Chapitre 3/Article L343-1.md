@@ -10,13 +10,17 @@ compromettent la sécurité ou le droit à réparation des usagers de la route, 
 tranquillité ou l'hygiène publique, l'esthétique des sites et paysages classés,
 la conservation ou l'utilisation normale des voies ouvertes à la circulation
 publique et de leurs dépendances, notamment par les véhicules de transport en
-commun, peuvent, dans les cas et conditions précisés par le décret prévu à
-l'article L. 325-11, être immobilisés, mis en fourrière, retirés de la
+commun, peuvent, à la demande et sous la responsabilité du maire ou de
+l'officier de police judiciaire territorialement compétent, même sans l'accord
+du propriétaire du véhicule dans les cas et conditions précisés par le décret
+prévu à l'article L. 325-11, être immobilisés, mis en fourrière, retirés de la
 circulation et, le cas échéant, aliénés ou livrés à la destruction.
 
-Peuvent également être immobilisés, mis en fourrière, retirés de la circulation
-et, le cas échéant, aliénés ou livrés à la destruction les véhicules qui, se
-trouvant sur les voies ouvertes à la circulation publique ou sur leurs
+Peuvent également à la demande et sous la responsabilité du maire ou de
+l'officier de police judiciaire territorialement compétent, même sans l'accord
+du propriétaire du véhicule être immobilisés, mis en fourrière, retirés de la
+circulation et, le cas échéant, aliénés ou livrés à la destruction les véhicules
+qui, se trouvant sur les voies ouvertes à la circulation publique ou sur leurs
 dépendances, sont privés d'éléments indispensables à leur utilisation normale et
 insusceptibles de réparation immédiate à la suite de dégradations ou de vols."
 
@@ -30,11 +34,25 @@ ou le faire conduire, en leur présence, vers le lieu de mise en fourrière en
 utilisant, le cas échéant, les moyens autonomes de propulsion dont le véhicule
 est muni.
 
-Dans ce cas, l'assureur du propriétaire du véhicule est tenu de garantir, dans
-les limites du contrat, la réparation du dommage causé au tiers sauf recours,
-s'il y a lieu, contre la collectivité publique qui, par son fait, a causé le
-dommage ayant donné lieu à la responsabilité de l'assureur et sans qu'une
-majoration de prime puisse en résulter pour le propriétaire."
+La mise en fourrière peut également être prescrite par un chef de service de
+police municipale territorialement compétent ou l'agent de police judiciaire
+adjoint qui occupe les fonctions de chef de la police municipale. Pour
+l'application de cette disposition et sur prescription du chef de service de
+police municipale territorialement compétent ou de l'agent de police judiciaire
+adjoint qui occupe les fonctions de chef de la police municipale, les agents de
+police municipale habilités à constater par procès-verbal les contraventions à
+la police de la circulation routière peuvent, en cas de besoin, ouvrir ou faire
+ouvrir les portes du véhicule, manoeuvrer ou faire manoeuvrer tous appareils.
+Ils peuvent conduire le véhicule ou le faire conduire, en leur présence, vers le
+lieu de mise en fourrière en utilisant, le cas échéant, les moyens autonomes de
+propulsion dont le véhicule est muni.
+
+Dans les cas prévus aux alinéas précédents, l'assureur du propriétaire du
+véhicule est tenu de garantir, dans les limites du contrat, la réparation du
+dommage causé au tiers sauf recours, s'il y a lieu, contre la collectivité
+publique qui, par son fait, a causé le dommage ayant donné lieu à la
+responsabilité de l'assureur et sans qu'une majoration de prime puisse en
+résulter pour le propriétaire."
 
 "Art. L. 325-6 - Les véhicules dont l'état ne permet pas la circulation dans des
 conditions normales de sécurité ne peuvent être retirés de la fourrière que par

@@ -20,8 +20,9 @@ dépôt des objets saisis.
 3. a) Le procès-verbal peut être rédigé au lieu de dépôt des objets saisis ou au
 lieu de la constatation de l'infraction.
 
-Il peut être également rédigé au siège de la brigade de gendarmerie, au bureau
-d'un fonctionnaire des finances, ou à la mairie du lieu.
+Il peut être également rédigé dans les locaux de police, au siège de la brigade
+de gendarmerie, au bureau d'un fonctionnaire des finances ou à la mairie du
+lieu.
 
 b) En cas de saisie dans une maison, le procès-verbal peut y être valablement
 rédigé.

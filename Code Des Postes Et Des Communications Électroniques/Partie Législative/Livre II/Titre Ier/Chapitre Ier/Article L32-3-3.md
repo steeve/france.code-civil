@@ -1,4 +1,0 @@
-Article L32-3-3
-----
-Les dispositions des articles L. 32-3-1 et L. 32-3-2 sont applicables en
-Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.

@@ -19,7 +19,7 @@ titre, à la demande de l'Etat, par les opérateurs.
 
 III. - Pour les besoins de la facturation et du paiement des prestations de
 télécommunications, les opérateurs peuvent, jusqu'à la fin de la période au
-cours de laquelle la facture peut être également contestée ou des poursuites
+cours de laquelle la facture peut être légalement contestée ou des poursuites
 engagées pour en obtenir le paiement, utiliser, conserver et, le cas échéant,
 transmettre à des tiers concernés directement par la facturation ou le
 recouvrement les catégories de données techniques qui sont déterminées, dans les
@@ -31,7 +31,8 @@ Les opérateurs peuvent en outre réaliser un traitement de ces données en vue 
 commercialiser leurs propres services de télécommunications, si les usagers y
 consentent expressément et pour une durée déterminée. Cette durée ne peut, en
 aucun cas, être supérieure à la période correspondant aux relations
-contractuelles entre l'usager et l'opérateur.
+contractuelles entre l'usager et l'opérateur. Ils peuvent également conserver
+certaines données en vue d'assurer la sécurité de leurs réseaux.
 
 IV. - Les données conservées et traitées dans les conditions définies aux II et
 III portent exclusivement sur l'identification des personnes utilisatrices des

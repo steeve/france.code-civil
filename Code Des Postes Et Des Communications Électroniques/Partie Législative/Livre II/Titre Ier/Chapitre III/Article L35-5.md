@@ -10,3 +10,10 @@ des services obligatoires qu'il est tenu d'assurer et les conditions de leur
 fourniture.
 
 France Télécom assure la fourniture de tous les services obligatoires.
+
+Les opérateurs de services de télécommunications sont tenus de permettre l'accès
+par les autorités judiciaires, les services de la police et de la gendarmerie
+nationales, les services d'incendie et de secours et les services d'aide
+médicale urgente, agissant dans le cadre de missions judiciaires ou
+d'interventions de secours, à leurs listes d'abonnés et d'utilisateurs,
+complètes, non expurgées et mises à jour.

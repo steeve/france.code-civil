@@ -16,6 +16,10 @@ définies à l'article 14 du code de procédure pénale ;
 habilités à effectuer des contrôles routiers en application des dispositions du
 présent code ;
 
+4° bis Aux agents de police judiciaire adjoints et aux gardes champêtres, aux
+seules fins d'identifier les auteurs des infractions au présent code qu'ils sont
+habilités à constater ;
+
 5° Aux fonctionnaires habilités à constater des infractions au présent code, aux
 seules fins d'identifier les auteurs de ces infractions ;
 

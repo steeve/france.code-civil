@@ -14,4 +14,6 @@ L'échelle des peines d'emprisonnement est la suivante :
 
 6° Un an au plus ;
 
-7° Six mois au plus.
+7° Six mois au plus ;
+
+8° Deux mois au plus.

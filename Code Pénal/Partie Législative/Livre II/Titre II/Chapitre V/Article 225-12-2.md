@@ -1,12 +1,11 @@
 Article 225-12-2
 ----
-Les peines sont portées à cinq ans d'emprisonnement et [*taux*] 75000 euros
-d'amende :
+Les peines sont portées à cinq ans d'emprisonnement et 75000 euros d'amende :
 
 1° Lorsque l'infraction est commise de façon habituelle ou à l'égard de
-plusieurs mineurs ;
+plusieurs personnes ;
 
-2° Lorsque le mineur a été mis en contact avec l'auteur des faits grâce à
+2° Lorsque la personne a été mise en contact avec l'auteur des faits grâce à
 l'utilisation, pour la diffusion de messages à destination d'un public non
 déterminé, d'un réseau de communication ;
 
