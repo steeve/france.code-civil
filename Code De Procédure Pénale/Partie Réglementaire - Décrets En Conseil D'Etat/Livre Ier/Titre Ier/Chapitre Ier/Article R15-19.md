@@ -2,23 +2,30 @@ Article R15-19
 ----
 Les catégories de services actifs de la police nationale au sein desquels les
 officiers et agents de police judiciaire exercent leurs fonctions habituelles et
-dont la compétence s'exerce sur le ressort d'une ou plusieurs cours d'appel ou
-parties de celles-ci sont les suivantes :
+dont la compétence s'exerce dans le ressort d'une ou plusieurs zones de défense
+ou parties de celles-ci sont les suivantes :
 
-1° Les services régionaux de police judiciaire et la direction régionale de
-police judiciaire de Paris ainsi que leurs détachements, antennes et services
-départementaux ;
+1° Les directions interrégionales de la police judiciaire, ainsi que leurs
+services régionaux et antennes de police judiciaire et les directions régionales
+de la police judiciaire ainsi que leurs services départementaux et antennes de
+police judiciaire ;
 
-2° Les directions interrégionales et la direction interdépartementale du
-contrôle de l'immigration et de la lutte contre l'emploi des clandestins ainsi
-que les unités de police des chemins de fer, les brigades mobiles de recherches
-et les brigades de police aéronautique qui leur sont rattachées, dans la zone de
-défense où elles ont leur siège ;
+2° Au titre de la police aux frontières :
 
-3° Les unités autoroutières des compagnies républicaines de sécurité pour les
-voies de circulation auxquelles elles sont affectées et, pour les infractions
-visées à l'article L. 23-1 du code de la route, les sections motocyclistes dans
-les départements du ressort de leur groupement d'affectation ;
+a) Les directions zonales ainsi que les brigades des chemins de fer, les
+brigades mobiles de recherches, les brigades de police aéronautique et les
+unités d'éloignement, dans la zone de défense où leur direction zonale a son
+siège ;
+
+b) La direction des aérodromes Charles-de-Gaulle et Le Bourget, sur l'emprise de
+ces aérodromes ;
+
+c) La direction de l'aérodrome d'Orly, sur l'emprise de cet aérodrome ;
+
+3° Au titre de la police de la circulation : les unités autoroutières des
+compagnies républicaines de sécurité pour les voies de circulation auxquelles
+elles sont affectées et les unités motocyclistes régionales pour les infractions
+visées à l'article L. 130-1 du code de la route ;
 
 4° La direction des renseignements généraux de la préfecture de police ;
 
