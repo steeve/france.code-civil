@@ -62,21 +62,22 @@ c) Pour la branche 23 :
 Le montant minimal réglementaire de la marge est égal à 1 % des avoirs des
 associations tontinières.
 
-d) Pour les branches 24, 27 et 28 :
+d) Pour la branche 24, à l'exception des opérations de capitalisation exprimées
+en unités de compte, et les branches 27 et 28 : le montant minimal réglementaire
+de la marge est égal au résultat obtenu en multipliant un nombre représentant 4
+p. 100 des provisions mathématiques relatives aux opérations d'assurances
+directes et aux acceptations brutes de réassurance par le rapport mentionné au
+"premier résultat" défini au a du présent article.
 
-Le montant minimal réglementaire de la marge est égal au résultat obtenu en
-multipliant un nombre représentant 4 % des provisions mathématiques relatives
-aux opérations d'assurances directes et aux acceptations brutes de réassurance
-par le rapport mentionné au "premier résultat" défini au a) du présent article.
-
-e) Pour les branches 22, à l'exception des assurances complémentaires, et 25 :
-
-Le montant minimal réglementaire de la marge est égal :
+e) Pour la branche 22, à l'exception des assurances complémentaires, la branche
+24 lorsqu'il s'agit des opérations de capitalisation exprimées en unités de
+compte, et la branche 25 : le montant minimal réglementaire de la marge est égal
+:
 
 - lorsque l'entreprise assume un risque de placement, à un nombre représentant 4
-% des provisions techniques relatives aux opérations d'assurances directes et
-d'acceptations brutes de réassurance multiplié par le rapport mentionné au
-"premier résultat" défini au a) du présent article ;
+p. 100 des provisions techniques relatives aux opérations d'assurances directes
+et d'acceptations brutes de réassurance multiplié par le rapport mentionné au
+"premier résultat" défini au a du présent article.
 
 - lorsque l'entreprise n'assume pas de risque de placement, à un nombre
 représentant 1 % des provisions techniques des contrats multiplié par le rapport
