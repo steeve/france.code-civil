@@ -29,7 +29,13 @@ leur hauteur et, le cas échéant, à leur aspect extérieur ;
 
 c) Edicter les prescriptions relatives aux obligations imposées en matière de
 réalisation d'aires de stationnement, d'espaces verts et d'aires de jeux et de
-loisirs ;
+loisirs. Toutefois, lorsque le règlement édicte des prescriptions relatives aux
+obligations imposées en matière de réalisation d'aires de stationnement, ces
+obligations ne sont pas applicables aux travaux de transformation ou
+d'amélioration de bâtiments affectés à des logements locatifs financés avec un
+prêt aidé par l'Etat, y compris dans le cas où ces travaux s'accompagnent de la
+création de surface hors oeuvre nette, dans la limite d'un plafond de 50 % de la
+surface hors oeuvre nette existant avant le commencement des travaux ;
 
 d) Fixer les cas dans lesquels la démolition de tout ou partie d'un immeuble ou
 d'un groupe d'immeubles compris à l'intérieur d'une zone définie à l'article R.
