@@ -18,15 +18,15 @@ direction générale des impôts et comportant les indications nécessaires à
 l'assiette et à la perception de la taxe.
 
 Cette déclaration doit être remise par chaque redevable à la recette des impôts
-dont dépend le lieu d'abattage avant le 25 du mois suivant celui au cours duquel
-les opérations imposables ont été réalisées. La taxe doit être acquittée dans le
-même délai. Lorsque son montant est inférieur à 500 F par mois, les redevables
-sont admis à déposer leur déclaration et à payer la taxe correspondante par
-trimestre.
+dont dépend le lieu d'abattage avant le 25 du s mois suivant celui au cours
+duquel les opérations imposables ont été réalisées. La taxe doit être acquittée
+dans le même délai. Lorsque son montant est inférieur à 1.000 F par mois, les
+redevables sont admis à déposer leur déclaration et à payer la taxe
+correspondante par trimestre.
 
 Lors du dépôt de la déclaration, un relevé des éléments figurant sur cette
 dernière doit être adressé par chaque redevable au directeur départemental de
-l'agriculture.
+l'agriculture et de la forêt.
 
 Les obligations prévues aux 1° et 2° ci-dessus ne s'appliquent pas aux personnes
 assujetties à la taxe sur la valeur ajoutée qui sont astreintes aux obligations
