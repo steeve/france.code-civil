@@ -35,3 +35,11 @@ la même période.
 Les dispositions du présent article s'appliquent au cas où la délivrance par le
 docteur vétérinaire s'effectue sous forme d'administration directe du médicament
 à l'animal.
+
+La prescription des aliments médicamenteux en vue de leur délivrance dans des
+conditions prévues à l'article L. 617 est établie en trois exemplaires au moins.
+Deux exemplaires sont remis à l'éleveur afin d'être présentés à l'établissement
+fabricant. L'un de ces exemplaires est conservé au siège de l'établissement
+pendant une durée de trois ans ; l'autre est restitué à l'éleveur lors de la
+livraison de l'aliment médicamenteux. Un exemplaire est conservé par le
+vétérinaire prescripteur dans les conditions prévues à l'article R. 5146-52.
