@@ -1,5 +1,7 @@
 Article R121-2
 ----
-Conformément à l'article D. 114-2, le chiffre de la population à retenir pour
-l'application des dispositions du premier alinéa de l'article L. 121-2 est celui
-de la population municipale totale tel qu'il résulte du dernier recensement.
+Par dérogation à l'article R. 114-2 du code des communes applicable en
+Nouvelle-Calédonie, en Polynésie française et à Mayotte, lorsqu'il est procédé à
+une élection complémentaire dans une commune de moins de 3 500 habitants, le
+chiffre de la population à retenir est le chiffre de population authentifié
+avant le dernier renouvellement intégral du conseil municipal.
