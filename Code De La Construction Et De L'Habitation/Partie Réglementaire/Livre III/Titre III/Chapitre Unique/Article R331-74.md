@@ -12,4 +12,5 @@ garantie de l'Etat mentionnée au troisième alinéa de l'article L. 312-1 est f
 par arrêté conjoint du ministre chargé de l'économie et des finances et du
 ministre chargé du logement.
 
-Le taux de référence est publié par le Crédit foncier de France.
+Le taux de référence est publié par la Société de gestion du fonds de garantie
+de l'accession sociale à la propriété (SGFGAS).
