@@ -3,8 +3,6 @@ Article R234-9
 Il est interdit d'occuper les femmes aux travaux énumérés ci-après et de les
 admettre de manière habituelle dans les locaux affectés à ces travaux :
 
-Air comprimé - Travaux dans l'air comprimé ;
-
 Esters thiophosphoriques - Préparation et conditionnement ;
 
 Mercure - Emploi et composés du mercure aux travaux de secrétage dans
