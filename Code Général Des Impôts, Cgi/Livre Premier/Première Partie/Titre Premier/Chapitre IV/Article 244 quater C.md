@@ -3,8 +3,8 @@ Article 244 quater C
 I. Les entreprises imposées d'après leur bénéfice réel peuvent bénéficier d'un
 crédit d'impôt au titre de leurs dépenses de formation professionnelle visées au
 livre IX du code du travail. Pour les entreprises soumises aux obligations
-prévues aux articles 235 ter C et 235 ter E, les dépenses retenues sont celles
-exposées en sus de ces obligations.
+prévues à l'article 235 ter D, les dépenses retenues sont celles exposées en sus
+de ces obligations.
 
 Ce crédit d'impôt est égal à 25 p. 100 de l'excédent des dépenses de formation
 définies ci-dessus, exposées au cours de l'année par rapport aux dépenses de

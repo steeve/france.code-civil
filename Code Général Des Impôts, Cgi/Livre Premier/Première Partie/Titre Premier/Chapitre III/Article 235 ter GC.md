@@ -6,9 +6,9 @@ justifier une affectation des fonds conforme à celle définie au même article,
 tenus de procéder au versement des sommes correspondantes au Trésor public ou,
 dans le cas des branches pour lesquelles il existe des dispositions légales et
 règlementaires imposant des efforts spécifiques pour la formation des jeunes,
-déductibles du 1,2 % de la formation continue visée à l'article 235 ter E,
-d'affecter les fonds conformément au III de l'article 25 de la loi n° 85-1403 du
-30 décembre 1985.
+déductibles de la participation au financement de la formation continue visée à
+l'article 235 ter D, d'affecter les fonds conformément au III de l'article 25 de
+la loi n° 85-1403 du 30 décembre 1985.
 
 Un décret en Conseil d'Etat détermine les conditions d'application du présent
 article (1).
