@@ -24,16 +24,14 @@ l'article 83 du code général des impôts ne sont pas applicables.
 II. - Sont inclus dans l'assiette de la contribution :
 
 1° Les sommes allouées au salarié au titre de l'intéressement prévu à l'article
-4 de l'ordonnance n° 86-1134 du 21 octobre 1986 relative à l'intéressement et à
-la participation des salariés aux résultats de l'entreprise et à l'actionnariat
-des salariés ;
+L. 441-4 du code du travail ;
 
 2° Les sommes provenant de la réserve spéciale et les revenus de ces sommes
 allouées aux salariés au titre de la participation aux résultats de
-l'entreprise, prévus à l'article 14 de l'ordonnance n° 86-1134 du 21 octobre
-1986 précitée ainsi que les revenus du portefeuille collectif ou des titres
-détenus individuellement alloués aux salariés au titre des plans d'épargne
-d'entreprise prévus à l'article 29 de l'ordonnance précitée.
+l'entreprise, prévus à l'article L. 442-8 du code du travail ainsi que les
+revenus du portefeuille collectif ou des titres détenus individuellement alloués
+aux salariés au titre des plans d'épargne d'entreprise prévus à l'article 29 de
+l'ordonnance précitée [*abrogé*].
 
 Pour l'application du précédent alinéa, la contribution est précomptée par
 l'entreprise ou l'organisme de gestion à l'occasion du versement effectif des

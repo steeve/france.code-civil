@@ -1,8 +1,18 @@
 Article L443-4
 ----
-Le portefeuille collectif constitué en application d'un plan d'épargne et
-d'entreprise doit être géré soit par un des établissements énumérés à l'article
-4 du décret n. 66-448 du 3 juin 1966 fixant les conditions d'application de
-l'article 8 de la loi de finances n. 65-997 du 29 novembre 1965, soit par un
-organisme constitué dans le sein de l'entreprise en application du plan
-d'épargne, soit par tout autre organisme habilité par décret.
+Le règlement du plan d'épargne d'entreprise prévoit au moins :
+
+1° Soit l'acquisition de valeurs mentionnées au a de l'article L. 443-3 ;
+
+2° Soit l'acquisition de parts d'un fonds commun de placement d'entreprise
+n'employant pas plus de 10 p. 100 de son actif en titres de l'entreprise ou
+d'une entreprise liée à celle-ci au sens de l'article 208-4 de la loi n° 66-537
+du 24 juillet 1966 précitée.
+
+Il peut être dérogé à cette règle en affectant les sommes recueillies à un seul
+fonds commun de placement d'entreprise. Dans ce cas, l'actif du fonds doit
+comporter au moins un tiers de titres liquides.
+
+Les dispositions visées ci-dessus ne s'appliquent pas aux actions acquises pour
+un plan d'épargne d'entreprise ou un fonds commun de placement d'entreprise dans
+le cadre d'une opération de reprise d'entreprise par ses salariés.

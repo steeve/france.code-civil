@@ -1,47 +1,50 @@
 Article L442-5
 ----
-Les conditions dans lesquelles les salariés, sont informés de l'application des
+Les conditions dans lesquelles les salariés sont informés de l'application des
 dispositions du présent chapitre ainsi que la nature et les modalités de gestion
 des droits reconnus aux salariés sur les sommes définies à l'article L. 442-2
-ci-dessus sont déterminées par voie d'accord entre les parties intéressées
-conclu dans les conditions prévues à l'article L. 442-11.
-
-Pour être applicables, ces accords doivent [*obligation*] avoir fait l'objet
-d'une déclaration de conformité par l'autorité administrative.
+sont déterminées par voie d'accord entre les parties intéressées conclu dans les
+conditions prévues à l'article L. 442-10.
 
 Ces accords peuvent prévoir :
 
-1. L'attribution d'actions ou de coupures d'actions [*valeurs mobilières*] de
-l'entreprise, ces actions ou coupures d'actions provenant d'une incorporation de
-réserves au capital ou d'un rachat préalable effectué par l'entreprise elle-même
-dans les conditions fixées par l'article 217-1 de la loi n. 66-537 du 24 juillet
-1966 sur les sociétés commerciales, modifiées par l'ordonnance n. 67-695 du 17
-août 1967 ;
+1. L'attribution d'actions ou de coupures d'actions de l'entreprise, ces actions
+ou coupures d'actions provenant d'une incorporation de réserve au capital ou
+d'un rachat préalable effectué par l'entreprise elle-même dans les conditions
+fixées par l'article 217-1 de la loi du 24 juillet 1966 ;
 
-1. bis La souscription d'actions émises par des sociétés créées dans les
-conditions prévues à l'article 11 de la loi n° 84-578 du 9 juillet 1984 sur le
-développement de l'initiative économique ;
+2. La souscription d'actions émises par les sociétés créées dans les conditions
+prévues à l'article 11 de la loi du 9 juillet 1984 sur le développement de
+l'initiative économique ;
 
-2. L'affectation des sommes constituant la réserve spéciale prévue à l'article
+3. L'affectation des sommes constituant la réserve spéciale prévue à l'article
 L. 442-2 ci-dessus à un fonds que l'entreprise doit consacrer à des
-investissements. Les salariés ont sur l'entreprise un droit de créance égal au
-montant des sommes versées au fonds. Cette créance peut notamment prendre la
-forme d'obligations, d'obligations participantes ou de comptes courants bloqués
-;
+investissements ; les salariés ont sur l'entreprise un droit de créance égal au
+montant des sommes versées ;
 
-3. Le versement soit à des organismes de placement étrangers à l'entreprise,
-désignés par décret, soit à des comptes ouverts au nom des intéressés en
-application de plans d'épargne d'entreprise remplissant les conditions fixées
-par le chapitre III du présent titre.
+4. L'affectation des sommes constituant la réserve spéciale de participation :
+
+a) Soit à l'acquisition de titres émis par des sociétés d'investissement à
+capital variable régies par les dispositions du chapitre Ier de la loi n°
+88-1201 du 23 décembre 1988 relative aux organismes de placement collectif en
+valeurs mobilières et portant création des fonds communs de créances ;
+
+b) Soit à l'acquisition de parts de fonds communs de placement régis par le
+chapitre III de la loi n° 88-1201 du 23 décembre 1988 précitée ;
+
+c) Soit à des comptes ouverts au nom des intéressés en application d'un plan
+d'épargne d'entreprise remplissant les conditions fixées au chapitre III du
+présent titre.
 
 Les salariés qui ont adhéré à un plan d'épargne d'entreprise bénéficiant des
-avantages fiscaux prévus audit chapitre peuvent obtenir de l'entreprise que les
+avantages fiscaux prévus au chapitre III peuvent obtenir de l'entreprise que les
 sommes qui leur sont attribuées par celle-ci, au titre de la participation aux
-fruits de l'expansion, soient affectées à la réalisation de ce plan, si ce
+résultats de l'entreprise, soient affectées à la réalisation de ce plan, si ce
 dernier le prévoit ; le plan est, en ce cas, alimenté par les sommes ainsi
 affectées et, s'il y a lieu et suivant les modalités qu'il fixe, par les
 versements complémentaires de l'entreprise et les versements opérés
 volontairement par les salariés.
 
-Les entreprises sont autorisées à payer directement aux salariés les sommes leur
-revenant lorsque celles-ci n'atteignent pas un montant fixé par décret.
+Les entreprises peuvent payer directement aux salariés les sommes leur revenant
+lorsque celles-ci n'atteignent pas un montant fixé par un arrêté conjoint du
+ministre chargé des finances et du ministre chargé du travail.

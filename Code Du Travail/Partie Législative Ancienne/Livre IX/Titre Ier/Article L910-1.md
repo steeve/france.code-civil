@@ -18,6 +18,11 @@ Sont institués, suivant les mêmes principes, des comités régionaux et des
 comités départementaux de la formation professionnelle, de la promotion sociale
 et de l'emploi.
 
+Dans chacune des régions d'outre-mer, le comité régional de la formation
+professionnelle, de la promotion sociale et de l'emploi exerce l'ensemble des
+attributions dévolues au comité régional et au comité départemental de la
+formation professionnelle, de la promotion sociale et de l'emploi.
+
 Dans des conditions définies par décret, les comités régionaux de la formation
 professionnelle, de la promotion sociale et de l'emploi sont consultés sur les
 programmes et les moyens mis en oeuvre dans chaque région par l'Agence nationale
@@ -31,6 +36,12 @@ de ces organismes en vue de l'adaptation de ces contrats de progrès à la
 situation particulière de la région. Il est consulté sur les projets
 d'investissement et les moyens d'intervention dont disposeront les services
 régionaux des mêmes organismes.
+
+Dans les régions d'outre-mer, les conventions tripartites mentionnées à l'alinéa
+précédent précisent les conditions dans lesquelles l'Association nationale pour
+la formation professionnelle des adultes apporte un concours technique aux
+interventions des associations régionales pour la formation professionnelle des
+adultes.
 
 Les comités départementaux de la formation professionnelle, de la promotion
 sociale et de l'emploi comprennent des représentants élus des collectivités

@@ -1,8 +1,8 @@
 Article L752-6
 ----
 Les caisses générales de sécurité sociale des départements mentionnés à
-l'article L. 751-1 sont administrées par un conseil d'administration de
-vingt-huit membres, comprenant :
+l'article L. 751-1 sont administrées par un conseil d'administration de trente
+et un membres, comprenant :
 
 1°) quinze représentants des assurés sociaux élus par ceux des assurés qui ont
 leur résidence dans la circonscription de la caisse ;
@@ -10,17 +10,22 @@ leur résidence dans la circonscription de la caisse ;
 2°) six représentants des employeurs désignés par les organisations
 professionnelles nationales d'employeurs représentatives ;
 
-3°) trois représentants des exploitants agricoles désignés par les organisations
+3°) Trois représentants des travailleurs indépendants représentant chacun des
+groupes de professions mentionnés à l'article L. 214-1 désignés, dans des
+conditions fixées par décret, par des institutions ou organisations
+professionnelles de travailleurs indépendants représentatives ;
+
+4°) trois représentants des exploitants agricoles désignés par les organisations
 professionnelles nationales représentatives ;
 
-4°) un représentant désigné par la fédération nationale de la mutualité
+5°) un représentant désigné par la fédération nationale de la mutualité
 française ;
 
-5°) deux personnes qualifiées désignées par l'autorité compétente de l'Etat,
+6°) deux personnes qualifiées désignées par l'autorité compétente de l'Etat,
 l'une parmi les organisations de salariés, l'autre parmi des organisations
 d'employeurs ;
 
-6°) un représentant, choisi par les vingt-sept autres membres du conseil
+7°) un représentant, choisi par les vingt-sept autres membres du conseil
 d'administration, sur les propositions des associations de retraités ayant leur
 siège dans la circonscription de la caisse.
 

@@ -1,27 +1,30 @@
 Article L441-3
 ----
-Tout contrat conclu en application de l'article L. 441-1 doit préciser notamment
-[*contenu*] :
+Tout accord doit préciser notamment [*contenu*].
 
-- la période pour laquelle il est conclu ;
+1. La période pour laquelle il est conclu ;
 
-- les modalités d'intéressement retenues ;
+2. Les établissements concernés ;
 
-- les critères et les modes de calcul servant de base à l'intéressement ;
+3. Les modalités d'intéressement retenues ;
 
-- les modalités de répartition de la part consacrée à l'intéressement ;
+4. Les modalités de calcul de l'intéressement et les critères de répartition de
+ses produits dans le respect des dispositions prévues à l'article L. 441-2 ;
 
-- l'époque des versements qui, dans le cas de participation collective aux
-résultats d'exploitation, doit obligatoirement être différente de celle
-concernant la rémunération du travail ;
+5. Les dates de versement. Toute somme versée aux salariés en application de
+l'accord d'intéressement au-delà du dernier jour du septième mois suivant la
+clôture de l'exercice produira un intérêt calculé au taux légal. Ces intérêts, à
+la charge de l'entreprise, sont versés en même temps que le principal et
+bénéficient du régime d'exonération prévu aux articles L. 441-4 et L. 441-6
+ci-après ;
 
-- les conditions dans lesquelles le comité d'entreprise ou une commission
-spécialisée créée par lui ou, à défaut, les délégués régulièrement élus du
-personnel disposent des moyens d'information nécessaires sur les conditions
-d'application des clauses du contrat.
+6. Les conditions dans lesquelles le comité d'entreprise ou une commission
+spécialisée créée par lui ou, à défaut, les délégués du personnel disposent des
+moyens d'information nécessaires sur les conditions d'application des clauses du
+contrat ;
 
-Les procédures contractuelles suivant lesquelles sont réglés les différends qui
-peuvent surgir dans l'application du contrat ou lors de sa révision.
+7. Les procédures convenues pour régler les différends qui peuvent surgir dans
+l'application de l'accord ou lors de sa révision.
 
-Quand il existe un comité d'entreprise, le contrat doit lui être soumis pour
-avis au moins quinze jours avant la signature// .
+Quand il existe un comité d'entreprise, le projet doit lui être soumis pour avis
+au moins quinze jours avant la signature [*délai*].

@@ -1,7 +1,7 @@
 Article L223-3
 ----
 La caisse nationale des allocations familiales est administrée par un conseil
-d'administration de vingt-huit membres, comprenant :
+d'administration de trente membres, comprenant :
 
 1°) quinze représentants des assurés sociaux désignés par les organisations
 syndicales nationales de salariés représentatives ; 2°) trois représentants des
@@ -13,7 +13,7 @@ national ;
 3°) six représentants des employeurs désignés par les organisations
 professionnelles nationales d'employeurs représentatives ;
 
-4°) trois représentants des associations familiales ayant, au moment de leur
+4°) cinq représentants des associations familiales ayant, au moment de leur
 désignation, la qualité d'allocataire de prestations familiales, désignés par
 l'union nationale des associations familiales ;
 

@@ -1,9 +1,12 @@
 Article L442-17
 ----
-Les accords mentionnés à l'article L. 442-6 ci-dessus sont homologués par arrêté
-conjoint du ministre chargé de l'économie et des finances et du ministre chargé
-du travail, sur avis conforme du centre d'études des revenus et des coûts, dont
-la composition sera pour l'examen desdits accords, déterminée par décret.
+Dans le cas où une modification survenue dans la situation juridique de
+l'entreprise, par fusion, cession ou scission, rend impossible l'application
+d'un accord de participation, ledit accord cesse de produire effet entre le
+nouvel employeur et le personnel de l'entreprise.
 
-La juridiction administrative est compétente pour connaître des litiges relatifs
-à l'homologation desdits accords.
+En l'absence d'accord de participation applicable à la nouvelle entreprise,
+celle-ci doit engager, dans un délai de six mois à compter de la clôture de
+l'exercice au cours duquel est intervenue la modification, une négociation selon
+l'un des modes prévus à l'article L. 442-10 ci-dessus, en vue de la conclusion
+éventuelle d'un nouvel accord.

@@ -1,0 +1,22 @@
+Article L213-1
+----
+Des unions de recouvrement assurent :
+
+1° Le recouvrement des cotisations d'assurances sociales, d'accidents du
+travail, d'allocations familiales dues par les employeurs au titre des
+travailleurs salariés ou assimilés, par les assurés volontaires et par les
+assurés personnels ;
+
+2° Le recouvrement des cotisations d'allocations familiales dues par les
+employeurs et travailleurs indépendants ;
+
+3° Le recouvrement d'une partie de la contribution sociale généralisée selon les
+dispositions des articles L. 136-1 et suivants ;
+
+4° Le contrôle et le contentieux du recouvrement prévus aux 1°, 2° et 3°.
+
+Les unions sont constituées et fonctionnent conformément aux prescriptions de
+l'article L. 216-1.
+
+Un décret détermine les modalités d'organisation administrative et financière de
+ces unions.

@@ -13,8 +13,8 @@ d'assurance maladie mentionnées à l'alinéa précédent ainsi que la part de l
 cotisation mentionnée à l'article L. 162-8-1. Il en est de même des praticiens
 et auxiliaires médicaux pour lesquels les caisses décident, dans les conditions
 prévues par les conventions mentionnées aux articles L. 162-5, L. 162-9, L.
-162-12-2 et L. 162-14-1, de suspendre le versement qui leur incombe en
-application de l'alinéa précédent.
+162-12-2, L. 162-12-9 et L. 162-14-1, de suspendre le versement qui leur incombe
+en application de l'alinéa précédent.
 
 Les cotisations dues sur les avantages de retraite sont précomptées lors de
 chaque versement par l'organisme qui paie ces avantages. Un décret détermine les

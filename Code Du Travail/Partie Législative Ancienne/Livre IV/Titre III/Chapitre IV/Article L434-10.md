@@ -7,7 +7,8 @@ prévues à l'article L. 451-3, d'un stage de formation économique d'une durée
 maximale de cinq jours dispensé soit par un organisme figurant sur une liste
 arrêtée par le préfet de région, après avis du comité régional de la formation
 professionnelle, de la promotion sociale et de l'emploi, soit par un des
-organismes visés à l'article L. 451-1.
+organismes visés à l'article L. 451-1. Cette formation est renouvelée lorsqu'ils
+ont exercé leur mandat pendant quatre ans, consécutifs ou non.
 
 Le temps consacré à cette formation est pris sur le temps de travail et il est
 rémunéré comme tel. Il n'est pas déduit du temps qui, en application de

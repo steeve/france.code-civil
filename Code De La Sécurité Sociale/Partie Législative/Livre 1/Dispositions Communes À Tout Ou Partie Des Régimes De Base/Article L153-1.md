@@ -1,12 +1,21 @@
 Article L153-1
 ----
-Les budgets établis par les organismes mentionnés à l'article L. 151-1 sont
-soumis à l'approbation de l'autorité compétente de l'Etat dans les conditions
-fixées au présent chapitre.
+A l'exception de celles de l'article L. 153-3, les dispositions du présent
+chapitre s'appliquent au régime général, au régime de l'assurance maladie et
+maternité des travailleurs non salariés des professions non agricoles et aux
+régimes des organisations autonomes d'assurance vieillesse des professions
+industrielles, commerciales et artisanales. Elles ne sont pas applicables à
+l'Union des caisses nationales de sécurité sociale, aux caisses mutuelles
+d'assurance maladie et d'assurance vieillesse des cultes et à la Caisse des
+Français de l'étranger ; les budgets de ces derniers organismes ou régimes
+demeurent soumis à l'approbation du ministre chargé de la sécurité sociale et du
+ministre chargé du budget, qui exercent, dans ce cas, les attributions dévolues
+à l'organisme national par les articles L. 153-4 et L. 153-5.
 
-L'autorité compétente de l'Etat peut annuler, dans un délai déterminé, les
-décisions des conseils d'administration des mêmes organismes, qui entraînent un
-dépassement des autorisations budgétaires.
-
-Les dispositions du premier alinéa ne sont pas applicables aux budgets soumis à
-des modalités particulières d'approbation.
+Les dispositions du présent chapitre sont applicables au régime de la sécurité
+sociale dans les mines, ainsi que, sous réserve d'adaptations introduites par un
+décret en Conseil d'Etat, aux autres régimes spéciaux de sécurité sociale
+mentionnés au titre Ier du livre VII. Dans ce cas, les attributions dévolues à
+l'organisme national par les articles L. 153-2, L. 153-4 et L. 153-5 sont
+exercées conjointement par le ministre chargé de la sécurité sociale et le
+ministre chargé du budget.
