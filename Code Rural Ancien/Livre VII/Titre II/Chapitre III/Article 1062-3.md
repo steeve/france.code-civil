@@ -1,10 +1,8 @@
 Article 1062-3
 ----
-A compter du 1er octobre 1996 et jusqu'au 31 décembre 1997, les gains et
-rémunérations versés au cours d'un mois civil sont exonérés de cotisations
-d'allocations familiales lorsqu'ils sont supérieurs à 169 fois le salaire
-minimum de croissance majoré de 21 % et inférieurs ou égaux à 169 fois le
-salaire minimum de croissance majoré de 50 %.
+A compter du 1er octobre 1996, les gains et rémunérations versés au cours d'un
+mois civil sont exonérés de cotisations d'allocations familiales lorsqu'ils sont
+inférieurs ou égaux à 169 fois le salaire minimum de croissance majoré de 50 %.
 
 Pour les gains et rémunérations supérieurs à 169 fois le salaire minimum de
 croissance majoré de 50 % et inférieurs ou égaux à 169 fois le salaire minimum

@@ -1,11 +1,10 @@
 Article 1062-2
 ----
-A compter du 1er octobre 1996 et jusqu'au 31 décembre 1997, et par dérogation
-aux dispositions de l'article 1062-1, les gains et rémunérations versés au cours
-d'un mois civil aux travailleurs occasionnels définis au treizième alinéa de
-l'article 1031 sont exonérés de cotisations d'allocations familiales lorsqu'ils
-sont inférieurs ou égaux à 169 fois le salaire minimum de croissance majoré de
-50 p. 100.
+A compter du 1er octobre 1996, et par dérogation aux dispositions de l'article
+1062-1, les gains et rémunérations versés au cours d'un mois civil aux
+travailleurs occasionnels définis au treizième alinéa de l'article 1031 sont
+exonérés de cotisations d'allocations familiales lorsqu'ils sont inférieurs ou
+égaux à 169 fois le salaire minimum de croissance majoré de 50 p. 100.
 
 Pour les gains et rémunérations supérieurs à ce montant et inférieurs ou égaux à
 169 fois le salaire minimum de croissance majoré de 60 p. 100, le montant de la
