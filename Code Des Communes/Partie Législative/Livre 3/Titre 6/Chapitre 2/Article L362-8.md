@@ -1,11 +1,13 @@
 Article L362-8
 ----
-Il est interdit aux entreprises privées de pompes funèbres, de règlements de
-funérailles ou de marbrerie d'employer dans leurs enseignes, annonces, affiches,
-imprimés, placards ou inscriptions de publicité, des termes ou mentions qui
-tendent à créer une confusion avec les monopoles ou services municipaux et
-notamment les mots "Administration ; Offices ; Services ; Officiel ; Déclaration
-de décès".
+Les entreprises ou associations habilitées ne peuvent employer dans leurs
+enseignes, leurs publicités et leurs imprimés des termes ou mentions qui tendent
+à créer une confusion avec les régies, les délégataires des communes ou les
+services municipaux.
 
-Les concessionnaires ou les régisseurs intéressés des communes peuvent, seuls,
-utiliser la mention "Concessionnaires officiels de la ville".
+Les délégataires des communes peuvent, seuls, utiliser la mention : "
+Délégataire officiel de la ville ".
+
+Les régies communales peuvent, seules, utiliser la mention :
+
+"Régisseur officiel de la ville".
