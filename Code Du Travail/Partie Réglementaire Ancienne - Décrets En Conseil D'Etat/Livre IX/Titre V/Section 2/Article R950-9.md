@@ -27,7 +27,10 @@ concerné ;
 
 c) Aux travailleurs privés d'emploi [*chômeurs*] ou aux jeunes à la recherche
 d'un premier emploi qui sont couverts par une convention conclue au titre du
-troisième alinéa de l'article L. 940-1.
+troisième alinéa de l'article L. 940-1 ;
+
+d) Aux salariés d'employeurs, membres du groupement, qui sont couverts par une
+convention de conversion prévue à l'article L. 322-3.
 
 L'accord-cadre fait l'objet d'un réexamen d'ensemble au moins tous les cinq ans
 [*périodicité*].

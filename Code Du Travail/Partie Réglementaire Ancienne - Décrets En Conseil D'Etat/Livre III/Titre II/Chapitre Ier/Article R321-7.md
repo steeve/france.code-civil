@@ -1,6 +1,6 @@
 Article R321-7
 ----
-Sous réserve des sanctions pénales prévues par les articles L. 361-1 et R. 362-1
-(alinéa 2) les décisions prises en vertu des articles précédents ne portent pas
-atteinte aux dispositions de droit commun qui régissent les rapports entre
-employeurs et salariés.
+Pour l'exercice des attributions qui lui appartiennent en vertu de articles R.
+321-2 et R. 321-5, le directeur départemental du travail et de l'emploi peut
+déléguer sa signature aux fonctionnaires placés sous son autorité [*inspecteurs
+du travail*].

@@ -1,6 +1,6 @@
 Article R950-19
 ----
-La déclaration visée à l'article L. 950-7 [*du montant de la participation*]
+La déclaration visée à l'article L. 951-12 [*du montant de la participation*]
 doit indiquer [*mentions obligatoires*], outre la désignation et l'adresse du
 déclarant :
 
@@ -9,8 +9,8 @@ déclarant :
 2° Le montant brut de la contribution incombant à l'employeur ;
 
 3° Le montant des dépenses effectivement consenties en vertu des articles L.
-950-2 et L. 950-6 ainsi que le montant correspondant à la fraction de la
-participation instituée par l'article L. 950-2 dont l'employeur lié par un
+951-1 et L. 951-11 ainsi que le montant correspondant à la fraction de la
+participation instituée par l'article L. 951-1 dont l'employeur lié par un
 engagement de développement de la formation est réputé s'acquitter ;
 
 4° La répartition de ces dépenses selon les catégories suivantes :
@@ -33,11 +33,13 @@ application de conventions ;
 
 Rémunérations versées aux stagiaires par l'entreprise ;
 
-Versements effectués au titre de fonds d'assurance formation [*FAF*] et
-versements à un organisme paritaire agréé en application de l'article L. 950-2-2
-;
+Versements effectués dans les conditions prévues à l'article L. 951-1 (5°) du
+code du travail ;
 
-Versements effectués dans les conditions prévues par l'article L. 950-2 (4°) ;
+Versements effectués au titre de fonds d'assurance formation [*FAF*] et
+versements à un organisme paritaire agréé en application de l'article L. 951-3 ;
+
+Versements effectués dans les conditions prévues par l'article L. 951-1 (4°) ;
 
 Versements effectués au titre d'une taxe parafiscale affectée à la formation
 professionnelle.
@@ -46,24 +48,24 @@ professionnelle.
 considérée, ou l'excédent reportable sur les trois années suivantes ou
 l'insuffisance de contribution versée aux organismes paritaires agréés par
 l'Etat au titre du congé individuel de formation en application de l'article L.
-950-2-2.
+951-3.
 
 6° Eventuellement, le montant restant à reporter au titre des dépenses
-effectuées au cours de chacune des trois années précédentes ;
+effectuées au cours de chacune des trois années précédentes.
 
-7° Le cas échéant, la majoration prévue à l'article L. 950-4, I ;
+7° Le cas échéant, la majoration prévue à l'article L. 951-9, I.
 
-8° Le montant total du versement à effectuer à la caisse du comptable des impôts
-;
+8° Le montant total du versement à effectuer à la caisse du comptable des
+impôts.
 
-9° Le nombre de salariés de l'entreprise ;
+9° Le nombre de salariés de l'entreprise.
 
 10° Le nombre de stagiaires ayant bénéficié d'une formation au cours de l'année,
 financée en tout ou partie au moyen de la participation de l'employeur, ainsi
 que le nombre d'heures de formation reçues par eux, selon qu'elles ont ou non
-donné lieu au maintien d'une rémunération ;
+donné lieu au maintien d'une rémunération.
 
-11° La répartition de ces stagiaires ;
+11° La répartition de ces stagiaires :
 
 a) Par sexe ;
 
@@ -75,7 +77,7 @@ Selon qu'ils ont bénéficié d'une formation dans l'entreprise elle-même ou en
 application des conventions conclues avec des organismes de formation.
 
 12° Le nombre de jeunes travailleurs au sens de l'article L. 931-14 qui ont
-bénéficié d'une formation au cours de l'année;
+bénéficié d'une formation au cours de l'année.
 
 Cette déclaration doit être rédigée, en double exemplaire [*condition de
 forme*], sur un imprimé fourni par l'administration.
