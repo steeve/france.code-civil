@@ -14,3 +14,9 @@ règlements de la fédération à laquelle elles adhèrent.
 
 Elles peuvent également mettre en oeuvre au profit de leurs membres participants
 une action sociale.
+
+Elles peuvent intervenir pour la partie des prestations servies par des régimes
+spéciaux existant avant le 6 octobre 1945, équivalente aux prestations
+d'assurance vieillesse qu'elles servent à leurs assurés. Cette intervention est
+organisée par voie de conventions financières, soumises à l'approbation des
+ministres de tutelle des régimes de sécurité sociale concernés.

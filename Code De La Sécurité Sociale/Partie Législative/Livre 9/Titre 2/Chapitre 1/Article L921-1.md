@@ -10,3 +10,6 @@ sont affiliés obligatoirement à une de ces institutions.
 Une solidarité interprofessionnelle et générale sera organisée entre les
 institutions, en application conjointe, s'il y a lieu, des procédures définies
 par l'article L. 911-4 du présent code et l'article 1051 du code rural.
+
+Cette solidarité s'étend aux opérations visées au dernier alinéa de l'article L.
+922-1 du présent code.
