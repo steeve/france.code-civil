@@ -8,9 +8,8 @@ mentionné à l'article L. 920-4.
 Les frais de formation pris en charge par l'Etat sont calculés sur une base
 forfaitaire par heure de formation dispensée et dans la limite de 1 000 heures.
 Un premier versement égal à 50 p. 100 du coût de la formation est effectué à la
-date du début de la formation. Le solde est versé, au terme du quinzième mois à
-compter de la date de l'embauche du salarié ou au terme de la formation si
-celle-ci s'achève à une date ultérieure, sur présentation d'une attestation
-signée par l'organisme de formation, l'employeur et le salarié.
+date du début de la formation. Le solde est versé au terme de la formation sur
+présentation d'une attestation signée par l'organisme de formation, l'employeur
+et le salarié.
 
 Le montant horaire de cette aide forfaitaire est fixé par décret.
