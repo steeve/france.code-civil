@@ -1,9 +1,10 @@
 Article R66
 ----
 Les locations d'immeubles domaniaux sont consenties par le préfet, après
-fixation, par le directeur départemental des impôts chargé du domaine, des
-conditions financières du contrat.
+fixation, par le directeur des services fiscaux, des conditions financières du
+contrat.
 
-Toutefois, le ministre des finances autorise les locations d'une durée qui
-excède dix-huit ans et qui ne sont pas consenties dans les conditions définies à
-l'article R. 69.
+Toutefois, les baux emphytéotiques, les baux à construction, les concessions
+immobilières de la loi n° 67-1253 du 30 décembre 1967 d'orientation foncière
+ainsi que toute autre location constitutive de droits réels sont autorisés dans
+les conditions prévues pour les aliénations.
