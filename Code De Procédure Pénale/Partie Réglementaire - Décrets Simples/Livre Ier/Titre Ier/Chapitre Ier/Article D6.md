@@ -3,10 +3,11 @@ Article D6
 Lorsqu'ils sont amenés, soit pour l'exécution d'une commission rogatoire, soit
 dans le cadre d'une enquête préliminaire ou de flagrance, à procéder à un acte
 d'enquête susceptible d'entraîner un trouble à l'ordre public, les officiers de
-police judiciaire de la police nationale ou de la gendarmerie nationale sont
-tenus, après avis donné au magistrat mandant, d'informer de leur intervention et
-par tout moyen le responsable de la police nationale ou de la gendarmerie
-nationale en charge de la sécurité publique.
+police judiciaire ainsi que les agents de police judiciaire agissant
+conformément aux dispositions de l'article 706-80 de la police nationale ou de
+la gendarmerie nationale sont tenus, après avis donné au magistrat mandant,
+d'informer de leur intervention et par tout moyen le responsable de la police
+nationale ou de la gendarmerie nationale en charge de la sécurité publique.
 
 Le service local facilite dans toute la mesure de ses moyens l'exécution de
 cette mission ; en tout état de cause, il est impérativement, et dans les

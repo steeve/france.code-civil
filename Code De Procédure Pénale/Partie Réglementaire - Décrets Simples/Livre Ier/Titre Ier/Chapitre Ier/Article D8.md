@@ -8,18 +8,19 @@ mettre en oeuvre la convergence de leurs systèmes centraux de documentation
 criminelle.
 
 Les services de police et les unités de gendarmerie adressent aux services
-relevant de la direction centrale de la police judiciaire ou, lorsqu'ils entrent
-dans le domaine de compétence de l'office central mentionné au 8° de l'article
-D. 8-1, de la direction centrale de la police aux frontières les renseignements
-relatifs à la délinquance et à la criminalité susceptibles d'être exploités dans
-un but de centralisation, de classification ou de diffusion (avis, fiches,
-statistiques).
+relevant de la direction centrale de la police judiciaire ou de la direction
+centrale de la police aux frontières ou de la sous-direction de la police
+judiciaire de la direction générale de la gendarmerie nationale les
+renseignements relatifs à la délinquance et à la criminalité susceptibles d'être
+exploités dans un but de centralisation, de classification ou de diffusion
+(avis, fiches, statistiques).
 
-La direction centrale de la police judiciaire et la direction centrale de la
-police aux frontières transmettent aux autres services de la police nationale
-ainsi qu'à la gendarmerie nationale par tout moyen, toutes indications utiles à
-l'identification ou à la recherche de malfaiteurs. Le service de police ou
-l'unité de gendarmerie qui est à l'origine d'une demande de diffusion doit
+La direction centrale de la police judiciaire, la direction centrale de la
+police aux frontières et la sous-direction de la police judiciaire de la
+direction générale de la gendarmerie nationale transmettent aux autres services
+de la police et de la gendarmerie nationales par tout moyen, toutes indications
+utiles à l'identification ou à la recherche de malfaiteurs. Le service de police
+ou l'unité de gendarmerie qui est à l'origine d'une demande de diffusion doit
 figurer parmi les autorités à prévenir dès la découverte des individus
 recherchés.
 

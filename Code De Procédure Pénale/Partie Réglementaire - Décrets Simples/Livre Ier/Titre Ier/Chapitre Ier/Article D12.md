@@ -1,25 +1,29 @@
 Article D12
 ----
-1. L'extension de compétence territoriale conférée aux officiers de police
+1. Pour bénéficier de l'extension de compétence territoriale prévue à l'article
+18 (deuxième alinéa), les officiers de police judiciaire doivent être
+temporairement habilités par le procureur général près la cour d'appel dans le
+ressort de laquelle le service d'accueil a son siège.
+
+L'extension de compétence territoriale conférée aux officiers de police
 judiciaire par l'article 18 (troisième alinéa) revêt un caractère exceptionnel
 et limitatif :
 
-- elle n'est applicable qu'en cas de crime ou de délit flagrant ;
+-elle n'est applicable qu'en cas de crime ou de délit flagrant ;
 
-- elle ne peut être exercée que s'il s'agit d'un crime ou délit constaté dans la
+-elle ne peut être exercée que s'il s'agit d'un crime ou délit constaté dans la
 circonscription habituelle de l'officier de police judiciaire ;
 
-- elle concerne seulement la poursuite des investigations et l'exécution des
+-elle concerne seulement la poursuite des investigations et l'exécution des
 autitions, perquisitions et saisies qui se rattachent directement à l'infraction
 et qui s'imposent à l'officier de police judiciaire dans le temps de l'enquête
 de flagrance.
 
-2. Lorsque, par application de l'article 18 (deuxième et troisième alinéa), un
-officier de police judiciaire opère en dehors de sa circonscription habituelle,
-même s'il agit dans le ressort d'un tribunal de grande instance près duquel il
-exerce ses fonctions, il doit aviser préalablement le procureur de la République
-et l'officier de police judiciaire en charge de la sécurité publique
-territorialement compétents.
+2. Lorsque, par application de l'article 18 (troisième alinéa), un officier de
+police judiciaire se transporte dans le ressort des tribunaux de grande instance
+limitrophes du tribunal ou des tribunaux auxquels il est rattaché, il doit
+aviser préalablement le procureur de la République et l'officier de police
+judiciaire en charge de la sécurité publique, territorialement compétents.
 
 A l'issue de ses opérations, il tient ces derniers informés des résultats
 obtenus. Il mentionne dans sa procédure les avis donnés et, éventuellement, les
@@ -29,14 +33,13 @@ gendarmerie.
 3. L'extension de compétence territoriale prévue à l'article 18 (quatrième
 alinéa) est applicable soit dans le cours d'une enquête de flagrance ou d'une
 enquête préliminaire, soit dans le cadre d'une information judiciaire, mais elle
-ne peut résulter que d'une prescription formelle du magistrat saisi, et
-seulement s'il y a urgence.
+ne peut résulter que d'une prescription formelle du magistrat saisi.
 
 Les réquisitions du procureur de la République ou la commission rogatoire, selon
 le cas, doivent viser l'article 18 (quatrième alinéa) et mentionner
-expressément, outre l'urgence, la nature et le lieu des opérations à effectuer.
-Elles doivent également préciser si l'assistance d'un officier de police
-judiciaire territorialement compétent est requise.
+expressément, la nature et le lieu des opérations à effectuer. Elles doivent
+également préciser si l'assistance d'un officier de police judiciaire
+territorialement compétent est requise.
 
 Lorsque le magistrat a décidé qu'une assistance territoriale est nécessaire,
 l'officier de police judiciaire bénéficiant de l'extension de compétence doit,
@@ -63,4 +66,5 @@ compétent du résultat de ses opérations.
 l'information prévue au dernier alinéa de l'article D. 3, l'officier de police
 judiciaire bénéficiant de l'extension de compétence avise, selon les cas, les
 services relevant de la direction centrale de la police judiciaire ou de la
-direction centrale de la police aux frontières.
+direction centrale de la police aux frontières ou de la sous-direction de la
+police judiciaire de la direction générale de la gendarmerie nationale.
