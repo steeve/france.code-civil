@@ -9,7 +9,12 @@ incombant à la collectivité territoriale dont dépend l'établissement et les
 orientations relatives à l'équipement et au fonctionnement matériel de
 l'établissement, arrêtés par l'assemblée délibérante de cette collectivité, sont
 notifiés au chef d'établissement. Cette participation ne peut être réduite lors
-de l'adoption ou de la modification du budget de cette collectivité ;
+de l'adoption ou de la modification du budget de cette collectivité.
+
+La répartition des crédits aux établissements par les collectivités de
+rattachement se fonde notamment sur des critères tels que le nombre d'élèves,
+l'importance de l'établissement, le type d'enseignement, les populations
+scolaires concernées, les indicateurs qualitatifs de la scolarisation ;
 
 b) Le chef d'établissement prépare le projet de budget en fonction des
 orientations fixées et dans la limite de l'ensemble des ressources dont dispose
@@ -47,9 +52,4 @@ notification de la participation de la collectivité dont dépend l'établisseme
 il est fait application de la procédure prévue au e. Toutefois, le délai prévu
 au deuxième alinéa dudit e est d'un mois à compter de la saisine par le
 représentant de l'Etat de la collectivité de rattachement et de l'autorité
-académique ;
-
-g) La répartition des crédits aux établissements par les collectivités de
-rattachement se fonde notamment sur des critères tels que le nombre d'élèves,
-l'importance de l'établissement, le type d'enseignement, les populations
-scolaires concernées, les indicateurs qualitatifs de la scolarisation.
+académique.

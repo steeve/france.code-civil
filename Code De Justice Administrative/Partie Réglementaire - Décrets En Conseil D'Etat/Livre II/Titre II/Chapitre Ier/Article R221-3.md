@@ -1,6 +1,6 @@
 Article R221-3
 ----
-Les sièges et les ressorts des tribunaux administratifs sont fixés comme suit :
+Le siège et le ressort des tribunaux administratifs sont fixés comme suit :
 
 Amiens : Aisne, Oise, Somme ;
 
@@ -24,7 +24,7 @@ Grenoble : Drôme, Isère, Savoie, Haute-Savoie ;
 
 Lille : Nord, Pas-de-Calais ;
 
-Limoges : Corrèze, Creuse, Haute-Vienne, Indre ;
+Limoges : Corrèze, Creuse, Indre, Haute-Vienne ;
 
 Lyon : Ain, Ardèche, Loire, Rhône ;
 
@@ -42,7 +42,7 @@ Nice : Alpes-Maritimes, Var ;
 
 Orléans : Cher, Eure-et-Loir, Indre-et-Loire, Loir-et-Cher, Loiret ;
 
-Paris : Ville de Paris, Hauts-de-Seine ;
+Paris : ville de Paris ;
 
 Pau : Gers, Landes, Pyrénées-Atlantiques, Hautes-Pyrénées ;
 
@@ -56,7 +56,7 @@ Strasbourg : Moselle, Bas-Rhin, Haut-Rhin ;
 
 Toulouse : Ariège, Aveyron, Haute-Garonne, Lot, Tarn, Tarn-et-Garonne ;
 
-Versailles : Essonne, Yvelines ;
+Versailles : Essonne, Hauts-de-Seine, Yvelines ;
 
 Basse-Terre : Guadeloupe ;
 
@@ -66,17 +66,17 @@ Fort-de-France : Martinique ;
 
 Mamoudzou : Mayotte ;
 
-Saint-Denis : Réunion, Terres australes et antarctiques françaises ;
-
-Saint-Pierre : Saint-Pierre-et-Miquelon ;
-
-Papeete : Polynésie française ;
+Mata-Utu : îles Wallis et Futuna ;
 
 Nouvelle-Calédonie : Nouvelle-Calédonie ;
 
-Mata-Utu : îles Wallis et Futuna.
+Polynésie française : Polynésie française ;
+
+Saint-Denis : Réunion, Terres australes et antarctiques françaises ;
+
+Saint-Pierre : Saint-Pierre-et-Miquelon.
 
 Toutefois, le ressort du tribunal administratif de Melun comprend l'intégralité
 de l'emprise de l'aérodrome de Paris-Orly et celui du tribunal administratif de
-Cergy-Pontoise l'intégralité de l'emprise de l'aérodrome de
-Paris-Charles-de-Gaulle.
+Cergy-Pontoise l'intégralité de l'emprise de l'aérodrome de Paris -
+Charles-de-Gaulle.

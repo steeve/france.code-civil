@@ -51,10 +51,10 @@ Rennes : cinq chambres ;
 
 Rouen : trois chambres ;
 
-Saint-Denis : deux chambres ;
-
 Strasbourg : cinq chambres ;
 
-Toulouse : quatre chambres ;
+Toulouse : cinq chambres ;
 
-Versailles : huit chambres.
+Versailles : huit chambres ;
+
+Saint-Denis : deux chambres.

@@ -21,7 +21,7 @@ procuration n'est pas valable.
 Le représentant de l'Etat transmet les demandes valables au président du bureau
 de vote.
 
-Mention en est faite immédiatement au tableau des électeurs sénatoriaux.
+Mention en est faite immédiatement sur la liste des électeurs sénatoriaux.
 
 Le mandataire n'est admis à voter que s'il présente la procuration.
 

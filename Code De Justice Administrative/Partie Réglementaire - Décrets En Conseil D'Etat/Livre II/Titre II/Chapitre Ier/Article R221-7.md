@@ -1,25 +1,27 @@
 Article R221-7
 ----
-Les sièges et les ressorts des cours administratives d'appel sont fixés comme
-suit :
+Le siège et le ressort des cours administratives d'appel sont fixés comme suit :
 
-Bordeaux : ressorts des tribunaux administratifs de Bordeaux, Limoges, Pau,
-Poitiers, Toulouse, Basse-Terre, Cayenne, Fort-de-France, Mamoudzou,
-Saint-Denis-de-la-Réunion et Saint-Pierre-et-Miquelon ;
+Bordeaux : ressort des tribunaux administratifs de Bordeaux, Limoges, Pau,
+Poitiers, Toulouse, Basse-Terre, Cayenne, Fort-de-France, Mamoudzou, Saint-Denis
+et Saint-Pierre ;
 
-Douai : ressorts des tribunaux administratifs d'Amiens, Lille et Rouen ;
+Douai : ressort des tribunaux administratifs d'Amiens, Lille et Rouen ;
 
-Lyon : ressorts des tribunaux administratifs de Clermont-Ferrand, Dijon,
-Grenoble et Lyon ;
+Lyon : ressort des tribunaux administratifs de Clermont-Ferrand, Dijon, Grenoble
+et Lyon ;
 
-Marseille : ressorts des tribunaux administratifs de Bastia, Marseille,
+Marseille : ressort des tribunaux administratifs de Bastia, Marseille,
 Montpellier et Nice ;
 
-Nancy : ressorts des tribunaux administratifs de Besançon, Châlons-en-Champagne,
+Nancy : ressort des tribunaux administratifs de Besançon, Châlons-en-Champagne,
 Nancy et Strasbourg ;
 
-Nantes : ressorts des tribunaux administratifs de Caen, Nantes, Orléans et
-Rennes ;
+Nantes : ressort des tribunaux administratifs de Caen, Nantes, Orléans et Rennes
+;
 
-Paris : ressorts des tribunaux administratifs de Cergy-Pontoise, Melun, Paris,
-Versailles, Nouvelle-Calédonie, Mata-Utu et Papeete.
+Paris : ressort des tribunaux administratifs de Melun, Paris, Mata-Utu,
+Nouvelle-Calédonie et Polynésie française ;
+
+Versailles : ressort des tribunaux administratifs de Cergy-Pontoise et
+Versailles.
