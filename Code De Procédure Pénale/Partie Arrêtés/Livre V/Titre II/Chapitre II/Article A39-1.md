@@ -48,7 +48,11 @@ Quartier centre de détention du centre pénitentiaire de Lannemezan
 
 Quartier centre de détention du centre pénitentiaire de Laon (Aisne).
 
-Centre de détention de Liancourt (Oise).
+Quartier centre de détention (avenue Robert-Badinter) du centre pénitentiaire de
+Liancourt (Oise).
+
+Quartier centre de détention (chemin de Verderonne) du centre pénitentiaire de
+Liancourt (Oise).
 
 Quartier centre de détention du centre pénitentiaire de Longuenesse
 (Pas-de-Calais).
@@ -106,6 +110,8 @@ Centre de détention de Salon-de-Provence (Bouches-du-Rhône).
 Centre de détention de Tarascon (Bouches-du-Rhône).
 
 Centre de détention de Toul (Meurthe-et-Moselle).
+
+Quartier centre de détention du centre pénitentiaire de Toulon-La Farlède (Var).
 
 Centre de détention d'Uzerche (Corrèze).
 
