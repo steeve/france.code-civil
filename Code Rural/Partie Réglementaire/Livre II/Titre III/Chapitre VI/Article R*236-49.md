@@ -5,6 +5,3 @@ engins avec les poissons des espèces dont la taille minimum a été fixée par 
 articles R. 236-23 et R. 236-24, des espèces protégées par les dispositions des
 articles L. 211-1, L. 211-2 et L. 212-1 et des espèces mentionnées aux 1° et 2°
 de l'article L. 232-10.
-
-L'utilisation du chabot comme appât est interdite dans les eaux de la 1re
-catégorie.

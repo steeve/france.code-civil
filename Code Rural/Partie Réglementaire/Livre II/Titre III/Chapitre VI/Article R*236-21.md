@@ -2,8 +2,8 @@ Article R*236-21
 ----
 Les filets et engins de toute nature doivent être retirés de l'eau du samedi
 dix-huit heures au lundi six heures, à l'exception toutefois des bosselles à
-anguilles, nasses et verveux, des carrelets, des lignes de fond, des éperviers
-et des balances à écrevisses ou à crevettes.
+anguilles, nasses et verveux, des carrelets, des couls, des lignes de fond, des
+éperviers et des balances à écrevisses ou à crevettes.
 
 Pendant le même temps, les engins actionnés par courant d'eau ou par un
 dispositif mécanique quelconque doivent être arrêtés. Les dispositifs
