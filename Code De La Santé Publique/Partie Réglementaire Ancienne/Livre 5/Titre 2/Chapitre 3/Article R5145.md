@@ -8,7 +8,7 @@ médicaments vétérinaires. Sont considérés comme des préparations avec les
 obligations de contrôle y afférentes, la division, le changement de
 conditionnement ou de présentation de médicaments vétérinaires.
 
-A la qualité de grossiste répartiteur en médicaments vétérinaires tout
+A la qualité de distributeur en gros de médicaments vétérinaires tout
 pharmacien, tout docteur vétérinaire ou toute société, propriétaire d'un des
 établissements mentionnés à l'article L. 615 et se livrant à l'achat, en vue de
 la vente en l'état, de médicaments vétérinaires aux personnes ou organismes
