@@ -17,4 +17,5 @@ procès-verbal.
 
 Avec l'accord du juge d'instruction, les experts peuvent, directement et par
 tout moyen, communiquer les conclusions de leur rapport aux officiers de police
-judiciaire chargés de l'exécution de la commission rogatoire.
+judiciaire chargés de l'exécution de la commission rogatoire, au procureur de la
+République ou aux avocats des parties.
