@@ -1,10 +1,44 @@
 Article R232-12-3
 ----
-Les dispositions de la sous-section 3 de la section II du présent chapitre sont
-néanmoins applicables dans les établissements agricoles visés à l'article R.
-232-12, sauf dans les lieux où l'éclairage peut être contre-indiqué en raison
-des techniques agricoles pratiquées [*exceptions*].
+Tous les locaux auxquels les travailleurs ont normalement accès doivent être
+desservis par des dégagements dont le nombre et la largeur exigibles
+s'établissent comme suit :
 
-Dans ce cas, des moyens individuels d'éclairage doivent être mis à la
-disposition du personnel et être tenus constamment en bon état de fonctionnement
-à la diligence de l'employeur [*entretien*].
+
+Moins de 21 personnes
+
+Nombre de dégagements : 1
+
+Largeur totale cumulée : 0,80 m
+
+
+De 21 à 100 personnes
+
+Nombre de dégagements : 1
+
+Largeur totale cumulée : 1,50 m
+
+
+De 101 à 300 personnes
+
+Nombre de dégagements : 2
+
+Largeur totale cumulée : 2 mètres
+
+
+De 301 à 500 personnes
+
+Nombre de dégagements : 2
+
+Largeur totale cumulée : 2,5 m
+
+Au-delà des cinq cents premières personnes :
+
+a) Le nombre minimum des dégagements doit être augmenté d'une unité par cinq
+cents personnes ou fraction de cinq cents personnes ;
+
+b) La largeur totale des dégagements doit être augmentée de 0,50 mètre par cent
+personnes ou fraction de cent personnes.
+
+La largeur de tout dégagement faisant partie des dégagements réglementaires ne
+doit jamais être inférieure à 0,80 mètre.
