@@ -11,11 +11,9 @@ a) Au trésorier-payeur général sur avis conforme du directeur des services
 fiscaux lorsque les sommes n'excèdent pas 2 000 000 F par cote. Toutefois,
 lorsque les sommes n'excèdent pas 250 000 F par cote, le trésorier-payeur
 général prend la décision si le directeur des services fiscaux n'a pas formulé
-son avis dans le délai de trois mois.
+son avis dans le délai de deux mois.
 
-b) Abrogé (M).
+b) Abrogé.
 
-c) ((Au ministre de l'économie, des finances et de l'industrie, dans les autres
-cas.)) (M)
-
-(M) Modification.
+c) Au ministre de l'économie, des finances et de l'industrie, dans les autres
+cas.
