@@ -14,11 +14,11 @@ Quatre membres titulaires sont choisis parmi les conseillers d'Etat en service
 ordinaire. L'un d'eux est désigné pour remplir les fonctions de vice-président
 de la commission.
 
-Les quatre autres membres titulaires sont pris parmi les conseillers maîtres à
-la Cour des comptes, les maîtres des requêtes au Conseil d'Etat, les conseillers
-référendaires à la Cour des comptes, les magistrats des cours d'appel en
-activité ou honoraires ou les avocats honoraires au Conseil d'Etat et à la Cour
-de cassation.
+Les quatre autres membres titulaires sont pris parmi les conseillers d'Etat en
+service ordinaire, les conseillers maîtres à la Cour des comptes, les maîtres
+des requêtes au Conseil d'Etat, les conseillers référendaires à la Cour des
+comptes, les magistrats des cours d'appel en activité ou honoraires ou les
+avocats honoraires au Conseil d'Etat et à la Cour de cassation.
 
 Les quatre membres suppléants sont désignés dans les catégories énoncées à
 l'alinéa précédent.
