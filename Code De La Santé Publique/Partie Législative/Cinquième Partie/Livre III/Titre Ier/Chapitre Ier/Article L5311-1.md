@@ -29,15 +29,15 @@ compris lorsqu'ils sont prélevés à l'occasion d'une intervention chirurgicale
 
 7° Les produits cellulaires à finalité thérapeutique ;
 
-8° [*Abrogé*]
+8° (Abrogé)
 
 9° Les produits destinés à l'entretien ou à l'application des lentilles de
 contact ;
 
 10° Les produits insecticides, acaricides et antiparasitaires à usage humain ;
 
-11° Les procédés, produits et appareils destinés à la désinfection des locaux
-dans les cas prévus à l'article L. 3114-1 ;
+11° Les procédés et appareils destinés à la désinfection des locaux et des
+véhicules dans les cas prévus à l'article L. 3114-1 ;
 
 12° Les produits thérapeutiques annexes ;
 
@@ -47,7 +47,11 @@ personnes auxquelles ils ne sont pas destinés ;
 
 14° Les lentilles oculaires non correctrices ;
 
-15° Les produits cosmétiques.
+15° Les produits cosmétiques ;
+
+16° Les micro-organismes et toxines mentionnés à l'article L. 5139-1 ;
+
+17° Les produits de tatouage.
 
 L'agence procède à l'évaluation des bénéfices et des risques liés à
 l'utilisation de ces produits et objets à tout moment opportun et notamment

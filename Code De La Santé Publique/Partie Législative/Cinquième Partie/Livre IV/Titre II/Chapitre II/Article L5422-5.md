@@ -5,7 +5,8 @@ effectuée auprès du public pour un médicament :
 
 1° Soumis à prescription médicale ;
 
-2° Remboursable par les régimes obligatoires d'assurance maladie ;
+2° Remboursable par les régimes obligatoires d'assurance maladie, sauf dans le
+cas prévu au troisième alinéa de l'article L. 5122-6 ;
 
 3° Dont l'autorisation de mise sur le marché ou l'enregistrement comporte des
 restrictions en matière de publicité auprès du public en raison d'un risque

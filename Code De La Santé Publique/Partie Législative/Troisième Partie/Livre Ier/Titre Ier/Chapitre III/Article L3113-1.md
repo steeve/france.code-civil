@@ -10,8 +10,7 @@ internationale ;
 2° Les maladies dont la surveillance est nécessaire à la conduite et à
 l'évaluation de la politique de santé publique.
 
-Un décret pris après avis du Conseil supérieur d'hygiène publique de France
-définit la liste des maladies correspondant aux 1° et 2°. Les modalités de la
-transmission des données à l'autorité sanitaire dans les deux cas, en
-particulier la manière dont l'anonymat est protégé, sont fixées par décret en
-Conseil d'Etat.
+Un décret pris après avis du Haut Conseil de la santé publique définit la liste
+des maladies correspondant aux 1° et 2°. Les modalités de la transmission des
+données à l'autorité sanitaire dans les deux cas, en particulier la manière dont
+l'anonymat est protégé, sont fixées par décret en Conseil d'Etat.

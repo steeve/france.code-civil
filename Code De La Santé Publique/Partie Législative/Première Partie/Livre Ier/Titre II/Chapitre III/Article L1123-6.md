@@ -1,11 +1,12 @@
 Article L1123-6
 ----
-Avant de réaliser une recherche biomédicale sur l'être humain, tout
-investigateur est tenu d'en soumettre le projet à l'avis de l'un des comités
-consultatifs de protection des personnes dans la recherche biomédicale
-compétents pour la région où l'investigateur exerce son activité. Il ne peut
-solliciter qu'un seul avis par projet de recherche.
+Avant de réaliser une recherche biomédicale sur l'être humain, le promoteur est
+tenu d'en soumettre le projet à l'avis de l'un des comités de protection des
+personnes compétents pour le lieu où l'investigateur ou, le cas échéant,
+l'investigateur coordonnateur, exerce son activité. Il ne peut solliciter qu'un
+seul avis par projet de recherche.
 
-Dans le cas d'une recherche confiée à plusieurs investigateurs, cet avis est
-demandé par l'investigateur coordonnateur, qui soumet le projet dans les
-conditions définies au premier alinéa du présent article.
+Toutefois, en cas d'avis défavorable du comité, le promoteur peut demander au
+ministre chargé de la santé de soumettre le projet de recherche, pour un second
+examen, à un autre comité désigné par le ministre, dans des conditions définies
+par voie réglementaire.

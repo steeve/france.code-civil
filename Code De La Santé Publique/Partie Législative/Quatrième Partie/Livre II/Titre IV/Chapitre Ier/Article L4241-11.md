@@ -1,5 +1,8 @@
 Article L4241-11
 ----
-Un décret en Conseil d'Etat, pris après avis de la commission mentionnée à
-l'article L. 4241-5, détermine les mesures nécessaires à l'application des
-articles L. 4241-6 à L. 4241-8.
+Par dérogation à l'article L. 4241-1, les étudiants en pharmacie régulièrement
+inscrits en troisième année d'études dans une unité de formation et de recherche
+de sciences pharmaceutiques sont autorisés, dans un but de perfectionnement, à
+exécuter, en dehors des heures de travaux universitaires, les opérations
+mentionnées audit article sous réserve qu'ils aient effectué préalablement le
+stage officinal prévu par les dispositions en vigueur.

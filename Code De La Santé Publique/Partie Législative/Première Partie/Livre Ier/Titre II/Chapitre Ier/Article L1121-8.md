@@ -1,6 +1,15 @@
 Article L1121-8
 ----
-La recherche biomédicale ne donne lieu à aucune contrepartie financière directe
-ou indirecte pour les personnes qui s'y prêtent, hormis le remboursement des
-frais exposés et sous réserve de dispositions particulières prévues par
-l'article L. 1124-2 relatif aux recherches sans bénéfice individuel direct.
+Les personnes majeures faisant l'objet d'une mesure de protection légale ou hors
+d'état d'exprimer leur consentement ne peuvent être sollicitées pour des
+recherches biomédicales que si des recherches d'une efficacité comparable ne
+peuvent être effectuées sur une autre catégorie de la population et dans les
+conditions suivantes :
+
+- soit l'importance du bénéfice escompté pour ces personnes est de nature à
+justifier le risque prévisible encouru ;
+
+- soit ces recherches se justifient au regard du bénéfice escompté pour d'autres
+personnes placées dans la même situation. Dans ce cas, les risques prévisibles
+et les contraintes que comporte la recherche doivent présenter un caractère
+minimal.

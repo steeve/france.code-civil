@@ -12,8 +12,10 @@ l'éducation nationale travaillent en lien avec l'équipe éducative et les
 professionnels de santé afin que, pour chaque enfant, une prise en charge et un
 suivi adaptés soient réalisés.
 
-Des examens médicaux périodiques sont ensuite effectués pendant tout le cours de
-la scolarité et la surveillance sanitaire des élèves est exercée avec le
-concours d'un service social. Des décrets pris en Conseil d'Etat fixent la
-participation des familles et des collectivités publiques aux dépenses
-occasionnées par ces examens. "
+Dans les mêmes conditions que prévu à l'alinéa précédent, un contrôle médical de
+prévention et de dépistage est effectué de façon régulière pendant tout le cours
+de la scolarité obligatoire et proposé au-delà de cet âge limite. La
+surveillance sanitaire des élèves et étudiants scolarisés est exercée avec le
+concours d'un service social en lien avec le personnel médical des
+établissements. Un décret pris en Conseil d'Etat fixe les modalités du suivi
+sanitaire des élèves et étudiants.

@@ -13,9 +13,9 @@ possession de l'un de ces diplômes, certificats ou titres par application du
 présent livre ;
 
 - ou sans remplir les autres conditions fixées à l'article L. 4111-1, compte
-tenu, le cas échéant, des exceptions apportées à celles-ci, notamment par son
-article L. 4111-6, ainsi que par l'article 8 de la loi n° 71-1026 du 24 décembre
-1971 modifiant le code de la santé publique ;
+tenu, le cas échéant, des exceptions apportées à celles-ci, notamment par les
+articles L. 4111-6, L. 4111-7 et L. 4141-3-1, ainsi que par l'article 8 de la
+loi n° 71-1026 du 24 décembre 1971 modifiant le code de la santé publique ;
 
 2° Toute personne qui, munie d'un titre régulier, sort des attributions que la
 loi lui confère, notamment en prêtant son concours aux personnes mentionnées au

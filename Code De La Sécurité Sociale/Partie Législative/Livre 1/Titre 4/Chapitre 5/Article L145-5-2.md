@@ -1,9 +1,12 @@
 Article L145-5-2
 ----
 Les sanctions susceptibles d'être prononcées par la section des assurances
-sociales de la chambre disciplinaire de première instance du conseil ou par la
-section des assurances sociales de la chambre disciplinaire nationale du conseil
-sont :
+sociales de la chambre disciplinaire de première instance du conseil mentionné à
+l'article L. 4391-1 du code de la santé publique, par la section des assurances
+sociales de la chambre disciplinaire nationale du même conseil, par la section
+des assurances sociales de la chambre disciplinaire de première instance des
+masseurs-kinésithérapeutes ou par la section spéciale des assurances sociales du
+Conseil national de l'ordre des masseurs-kinésithérapeutes sont :
 
 1° L'avertissement ;
 

@@ -1,33 +1,35 @@
 Article L5131-9
 ----
-Les modalités d'application du présent chapitre sont déterminées par décret en
-Conseil d'Etat et notamment :
+I. - Pour l'application du présent article, on entend par effet indésirable
+grave une réaction nocive et non recherchée, se produisant dans les conditions
+normales d'emploi d'un produit cosmétique chez l'homme ou résultant d'un
+mésusage qui, soit justifierait une hospitalisation, soit entraînerait une
+incapacité fonctionnelle permanente ou temporaire, une invalidité, une mise en
+jeu du pronostic vital immédiat, un décès ou une anomalie ou une malformation
+congénitale.
 
-1° Après avis du Conseil national de la consommation, les règles auxquelles
-doivent satisfaire les récipients et emballages des produits cosmétiques afin
-que soient lisibles et indélébiles le nom ou la raison sociale ainsi que
-l'adresse du fabricant ou du responsable de la mise sur le marché, le contenu
-nominal du produit ; sa date de durabilité minimale, les précautions d'emploi,
-la numérotation des lots de fabrication ou la référence permettant
-l'identification de la fabrication ; la fonction du produit, sauf si celle-ci
-ressort de la présentation du produit, la liste des ingrédients conforme à la
-nomenclature commune arrêtée par la Commission européenne ainsi que les règles
-particulières applicables à la publicité pour ces produits lorsqu'il est fait
-référence à l'expérimentation animale ;
+Pour la mise en oeuvre du système de cosmétovigilance, tout professionnel de
+santé ayant constaté un effet indésirable grave susceptible d'être dû à un
+produit cosmétique mentionné à l'article L. 5131-1 doit en faire la déclaration
+sans délai au directeur général de l'Agence française de sécurité sanitaire des
+produits de santé.
 
-2° Les modalités de présentation et le contenu de la déclaration prévue au
-premier alinéa de l'article L. 5131-2 ;
+Ce professionnel déclare en outre les effets indésirables qui, bien que ne
+répondant pas à la définition mentionnée ci-dessus, lui paraissent revêtir un
+caractère de gravité justifiant une telle déclaration.
 
-3° Le contenu du dossier mentionné à l'article L. 5131-6 et les conditions de
-protection du secret des informations figurant dans ce dossier notamment celles
-relatives à des composants ou ingrédients délivrés par des fournisseurs
-exclusifs et responsables ;
+Dans sa déclaration, le professionnel de santé précise notamment si l'effet
+indésirable résulte d'un mésusage.
 
-4° Les règles relatives à la composition des produits cosmétiques ;
+II. - Les fabricants, ou leurs représentants, ou les personnes pour le compte
+desquelles les produits cosmétiques sont fabriqués, ou les responsables de la
+mise sur le marché des produits cosmétiques importés pour la première fois d'un
+Etat non membre de la Communauté européenne ou non partie à l'accord sur
+l'Espace économique européen, ou les distributeurs, sont tenus de participer au
+système national de cosmétovigilance.
 
-5° Les conditions de transmission aux centres antipoison et de protection du
-secret des informations mentionnées à l'article L. 5131-7.
-
-Des décrets fixent les conditions d'utilisation professionnelle des produits
-cosmétiques lorsque cette utilisation est susceptible de comporter des dangers
-ou des inconvénients.
+Cette obligation est réputée remplie par la mise en oeuvre des dispositions de
+l'article L. 221-1-3 du code de la consommation. L'Agence française de sécurité
+sanitaire des produits de santé est tenue informée par les autorités
+administratives compétentes mentionnées à l'article L. 221-1-3 du code de la
+consommation.

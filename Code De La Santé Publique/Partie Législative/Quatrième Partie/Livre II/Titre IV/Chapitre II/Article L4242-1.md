@@ -1,11 +1,12 @@
 Article L4242-1
 ----
-Le fait, sans répondre aux conditions fixées à l'article L. 4241-4 ou aux
-articles L. 4241-6 à L. 4241-9, de se qualifier préparateur en pharmacie et,
-notamment sur le plan professionnel, d'user des droits et prérogatives attachés
-à cette qualité est puni des peines encourues pour le délit d'usurpation de
-titre prévu par l'article 433-17 du code pénal.
+La formation continue a pour finalité le perfectionnement des connaissances et
+l'amélioration de la qualité des soins.
 
-Les dispositions du présent article ne sont applicables ni aux étudiants en
-pharmacie, qui peuvent être employés dans une pharmacie aux conditions prévues à
-l'article L. 4241-10, ni aux personnes titulaires du diplôme de pharmacien.
+La formation continue est obligatoire pour les préparateurs en pharmacie.
+
+L'obligation de formation est satisfaite notamment par tout moyen permettant
+d'évaluer les compétences et les pratiques professionnelles.
+
+Les conditions de mise en oeuvre de la formation continue de la profession de
+préparateur en pharmacie sont fixées par décret en Conseil d'Etat.

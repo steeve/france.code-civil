@@ -24,11 +24,7 @@ les documents d'information, outils pédagogiques et campagnes de communication 
 5° Identifie, soutient, effectue ou participe à des formations, études,
 recherches et évaluations en rapport avec ses missions ;
 
-6° Accrédite les organismes de prévention et de promotion de la santé, publics
-et privés, qui en font la demande, sur la base d'un cahier des charges rendu
-public ;
-
-7° Participe à l'action européenne et internationale de la France, notamment au
+6° Participe à l'action européenne et internationale de la France, notamment au
 sein des organismes et réseaux internationaux chargés de développer l'éducation
 thérapeutique, l'éducation pour la santé, la prévention et la promotion de la
 santé.

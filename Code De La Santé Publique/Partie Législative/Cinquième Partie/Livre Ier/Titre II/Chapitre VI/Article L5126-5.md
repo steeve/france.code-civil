@@ -21,8 +21,9 @@ pharmaceutiques de l'établissement où elle est créée et notamment :
 - d'assurer, dans le respect des règles qui régissent le fonctionnement de
 l'établissement, la gestion, l'approvisionnement, la préparation, le contrôle,
 la détention et la dispensation des médicaments, produits ou objets mentionnés à
-l'article L. 4211-1 ainsi que des dispositifs médicaux stériles et d'en assurer
-la qualité ;
+l'article L. 4211-1 ainsi que des dispositifs médicaux stériles et, le cas
+échéant, des médicaments expérimentaux tels que définis à l'article L. 5121-1-1
+et d'en assurer la qualité ;
 
 - de mener ou de participer à toute action d'information sur ces médicaments,
 matériels, produits ou objets, ainsi qu'à toute action de promotion et

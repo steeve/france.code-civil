@@ -1,6 +1,7 @@
 Article L4151-4
 ----
-Les sages-femmes ne peuvent prescrire que les examens ainsi que les médicaments
-nécessaires à l'exercice de leur profession. La liste de ces examens et de ces
-médicaments est établie par arrêté du ministre chargé de la santé après avis de
-l'Académie nationale de médecine.
+Les sages-femmes peuvent prescrire les examens strictement nécessaires à
+l'exercice de leur profession. Elles peuvent également prescrire les médicaments
+d'une classe thérapeutique figurant sur une liste fixée par arrêté du ministre
+chargé de la santé pris après avis de l'Agence française de sécurité sanitaire
+des produits de santé.

@@ -20,7 +20,7 @@ Le ministre chargé de la santé peut également, après avis de ladite commissi
 autoriser individuellement à exercer des ressortissants d'un Etat autre que ceux
 membres de la Communauté européenne ou parties à l'accord sur l'Espace
 économique européen et titulaires d'un diplôme, certificat ou autre titre obtenu
-dans l'un de ces Etats.
+dans l'un de ces Etats, conformément aux obligations communautaires.
 
 Le nombre maximum de candidats susceptibles d'être autorisés à exercer pour
 chaque profession et, en ce qui concerne les médecins, pour chaque discipline ou

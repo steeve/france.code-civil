@@ -10,8 +10,7 @@ spécialité de référence, ces groupes étant définis au 5° de l'article L. 
 et la procédure d'inscription au répertoire des groupes génériques mentionnés à
 l'article L. 5121-10 ;
 
-2° Les modalités d'application de l'article L. 5121-7 relatif aux bonnes
-pratiques de laboratoire ;
+2° (Alinéa abrogé)
 
 3° Les règles concernant la présentation et la dénomination des médicaments et
 produits ;

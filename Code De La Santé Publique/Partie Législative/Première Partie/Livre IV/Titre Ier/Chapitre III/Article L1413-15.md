@@ -1,14 +1,11 @@
 Article L1413-15
 ----
-Les modalités d'application du présent chapitre sont déterminées par décret en
-Conseil d'Etat et notamment :
-
-1° Les conditions dans lesquelles l'institut accède aux informations couvertes
-par le secret médical ou industriel, prévues à l'article L. 1413-5 ;
-
-2° Le régime de l'institut et le contrôle de l'Etat auquel il est soumis, prévus
-à l'article L. 1413-7 ;
-
-3° La nature et la gravité des événements mentionnés à l'article L. 1413-14 qui
-doivent être déclarés, les modalités selon lesquelles ces informations sont
-recueillies et les règles garantissant le respect du secret médical.
+Les services de l'Etat et les collectivités territoriales, leurs établissements
+publics, les établissements de santé publics et privés, le service de santé des
+armées, les établissements et services sociaux et médico-sociaux, les services
+de secours ainsi que tout professionnel de santé sont tenus de signaler sans
+délai au représentant de l'Etat dans le département les menaces imminentes pour
+la santé de la population dont ils ont connaissance ainsi que les situations
+dans lesquelles une présomption sérieuse de menace sanitaire grave leur paraît
+constituée. Le représentant de l'Etat porte immédiatement ce signalement à la
+connaissance de l'Institut de veille sanitaire.

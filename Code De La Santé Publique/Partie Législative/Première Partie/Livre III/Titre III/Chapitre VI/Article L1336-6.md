@@ -24,5 +24,5 @@ fichier national des sources radioactives mentionné à l'article L. 1333-9 ;
 notifiée par l'autorité ayant délivré l'autorisation, aux conditions
 particulières mentionnées au 1° de l'article L. 1333-17 ;
 
-6° De faire obstacle aux fonctions des agents de l'Etat mentionnés à l'article
-L. 1421-1.
+6° De faire obstacle aux fonctions des agents mentionnés aux articles L. 1333-17
+et L. 1333-18.

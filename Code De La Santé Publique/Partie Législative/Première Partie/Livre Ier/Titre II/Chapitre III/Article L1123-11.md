@@ -1,21 +1,23 @@
 Article L1123-11
 ----
-Les modalités d'application des dispositions du présent chapitre sont
-déterminées par décret en Conseil d'Etat et notamment :
+L'autorité compétente peut, à tout moment, demander au promoteur des
+informations complémentaires sur la recherche.
 
-1° La composition et les conditions d'agrément, de financement, de
-fonctionnement et de nomination des membres des comités consultatifs de
-protection des personnes dans la recherche biomédicale ainsi que la nature des
-informations qui doivent leur être communiquées par l'investigateur et sur
-lesquelles ils sont appelés à émettre leur avis ;
+En cas de risque pour la santé publique ou en cas d'absence de réponse du
+promoteur ou si l'autorité administrative compétente estime que les conditions
+dans lesquelles la recherche est mise en oeuvre ne correspondent plus aux
+conditions indiquées dans la demande d'autorisation mentionnée à l'article L.
+1123-8 ou ne respectent pas les dispositions du présent titre, elle peut à tout
+moment demander que des modifications soient apportées aux modalités de
+réalisation de la recherche, à tout document relatif à la recherche, ainsi que
+suspendre ou interdire cette recherche.
 
-2° Les conditions minimales d'activité en deçà desquelles le champ de compétence
-territoriale d'un comité peut être étendu à plusieurs régions ;
+Sauf en cas de risque imminent, une modification du protocole à la demande de
+l'autorité compétente ou une décision de suspension ou d'interdiction ne peut
+intervenir qu'après que le promoteur a été mis à même de présenter ses
+observations.
 
-3° La nature des informations qui doivent être communiquées par le promoteur à
-l'autorité administrative compétente, dans la lettre d'intention mentionnée à
-l'article L. 1123-8 ;
-
-4° Les modalités de consultation des comités consultatifs de protection des
-personnes dans la recherche biomédicale en ce qui concerne les recherches à
-caractère militaire.
+Le promoteur avise l'autorité compétente mentionnée à l'article L. 1123-12 et le
+comité de protection des personnes compétent que la recherche biomédicale est
+terminée et indique les raisons qui motivent l'arrêt de cette recherche quand
+celui-ci est anticipé.

@@ -29,8 +29,9 @@ par an sur la politique de l'établissement en ce qui concerne les droits des
 usagers et la qualité de l'accueil et de la prise en charge, sur la base d'un
 rapport présenté par la commission des relations avec les usagers et de la
 qualité de la prise en charge. Ce rapport et les conclusions du débat sont
-transmis à l'agence régionale de l'hospitalisation et au conseil régional de
-santé.
+transmis à la conférence régionale de santé et à l'agence régionale de
+l'hospitalisation qui est chargée d'élaborer une synthèse de l'ensemble de ces
+documents.
 
 La composition et les modalités de fonctionnement de la commission des relations
 avec les usagers et de la qualité de la prise en charge sont fixées par voie

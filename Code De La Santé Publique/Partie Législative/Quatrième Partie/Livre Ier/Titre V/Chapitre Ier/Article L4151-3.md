@@ -1,8 +1,7 @@
 Article L4151-3
 ----
-Les sages-femmes ne peuvent employer que les instruments dont la liste est fixée
-par arrêté du ministre chargé de la santé après avis de l'Académie nationale de
-médecine.
-
-En cas d'accouchement dystocique ou de suites de couches pathologiques, elles
-doivent faire appeler un médecin.
+En cas de pathologie maternelle, foetale ou néonatale pendant la grossesse,
+l'accouchement ou les suites de couches, et en cas d'accouchement dystocique, la
+sage-femme doit faire appel à un médecin. Les sages-femmes peuvent pratiquer les
+soins prescrits par un médecin en cas de grossesse ou de suites de couches
+pathologiques.

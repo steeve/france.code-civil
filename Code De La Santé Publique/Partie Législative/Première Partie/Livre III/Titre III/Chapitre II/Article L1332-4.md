@@ -1,8 +1,7 @@
 Article L1332-4
 ----
-Sont déterminées, par décret pris après avis du Conseil supérieur d'hygiène
-publique de France, les modalités d'application du présent chapitre et notamment
-:
+Sont déterminées, par décret pris après avis du Haut Conseil de la santé
+publique, les modalités d'application du présent chapitre et notamment :
 
 1° Les normes auxquelles doivent satisfaire les piscines et baignades aménagées
 en fonction notamment de la nature, de l'usage et de la fréquentation des

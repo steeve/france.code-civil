@@ -3,7 +3,10 @@ Article 572
 Le prix de détail de chaque produit exprimé aux 1 000 unités ou aux 1 000
 grammes, est unique pour l'ensemble du territoire et librement déterminé par les
 fabricants et les fournisseurs agréés. Il est applicable après avoir été
-homologué dans des conditions définies par décret en Conseil d'Etat (1).
+homologué dans des conditions définies par décret en Conseil d'Etat. Le prix de
+détail des cigarettes, exprimé aux 1 000 unités, ne peut toutefois être
+homologué s'il est inférieur à celui obtenu en appliquant, au prix moyen de ces
+produits, un pourcentage fixé par décret.
 
 Les tabacs manufacturés vendus ou importés dans les départements de Corse sont
 ceux qui ont été homologués conformément aux dispositions du premier alinéa.

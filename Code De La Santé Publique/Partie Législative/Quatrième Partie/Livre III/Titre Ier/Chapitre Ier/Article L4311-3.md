@@ -15,8 +15,10 @@ sur l'Espace économique européen par l'un de ces Etats et figurant sur une lis
 établie par le ministre chargé de la santé, ou tout autre diplôme, certificat ou
 titre d'infirmier responsable des soins généraux délivré par un des Etats,
 membres ou parties, sanctionnant une formation d'infirmier responsable des soins
-généraux acquise dans l'un de ces Etats, commencée avant le 29 juin 1979 à la
-condition qu'il soit accompagné d'une attestation de cet Etat certifiant que :
+généraux acquise dans l'un de ces Etats, commencée avant une date de référence
+fixée par arrêté du ministre chargé de la santé et non conforme aux obligations
+communautaires, à la condition qu'il soit accompagné d'une attestation de cet
+Etat certifiant que :
 
 a) Le titulaire du diplôme, certificat ou titre s'est consacré, de façon
 effective et licite, aux activités d'infirmier responsable des soins généraux

@@ -9,7 +9,7 @@ selon une prescription destinée à un malade déterminé ;
 thérapies génique ou cellulaire, préparé selon les indications de la pharmacopée
 et en conformité avec les bonnes pratiques mentionnées à l'article L. 5121-5, en
 raison de l'absence de spécialité pharmaceutique disponible ou adaptée dans une
-pharmacie à usage intérieur d'un établissement de santé, ou dans l'établissement
+pharmacie à usage intérieur d'un établissement de santé, ou par l'établissement
 pharmaceutique de cet établissement de santé autorisé en application de
 l'article L. 5124-9. Les préparations hospitalières sont dispensées sur
 prescription médicale à un ou plusieurs patients par une pharmacie à usage

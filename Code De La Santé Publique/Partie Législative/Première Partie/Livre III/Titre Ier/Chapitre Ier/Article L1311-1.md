@@ -2,9 +2,10 @@ Article L1311-1
 ----
 Sans préjudice de l'application de législations spéciales et des pouvoirs
 reconnus aux autorités locales, des décrets en Conseil d'Etat, pris après
-consultation du Conseil supérieur d'hygiène publique de France, fixent les
-règles générales d'hygiène et toutes autres mesures propres à préserver la santé
-de l'homme, notamment en matière :
+consultation du Haut Conseil de la santé publique et, le cas échéant, du Conseil
+supérieur de la prévention des risques professionnels, fixent les règles
+générales d'hygiène et toutes autres mesures propres à préserver la santé de
+l'homme, notamment en matière :
 
 - de prévention des maladies transmissibles ;
 

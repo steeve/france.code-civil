@@ -1,8 +1,15 @@
 Article L1121-5
 ----
-Les personnes privées de liberté par une décision judiciaire ou administrative,
-les malades en situation d'urgence et les personnes hospitalisées sans
-consentement en vertu des articles L. 3212-1 et L. 3213-1 qui ne sont pas
-protégées par la loi ne peuvent être sollicités pour se prêter à des recherches
-biomédicales que s'il en est attendu un bénéfice direct et majeur pour leur
-santé.
+Les femmes enceintes, les parturientes et les mères qui allaitent ne peuvent
+être sollicitées pour se prêter à des recherches biomédicales que dans les
+conditions suivantes :
+
+- soit l'importance du bénéfice escompté pour elles-mêmes ou pour l'enfant est
+de nature à justifier le risque prévisible encouru ;
+
+- soit ces recherches se justifient au regard du bénéfice escompté pour d'autres
+femmes se trouvant dans la même situation ou pour leur enfant et à la condition
+que des recherches d'une efficacité comparable ne puissent être effectuées sur
+une autre catégorie de la population. Dans ce cas, les risques prévisibles et
+les contraintes que comporte la recherche doivent présenter un caractère
+minimal.

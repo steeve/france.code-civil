@@ -1,11 +1,12 @@
 Article L1411-6
 ----
-Dans la collectivité territoriale de Saint-Pierre-et-Miquelon est créé un
-conseil territorial de l'organisation sanitaire et sociale. Ce conseil a pour
-mission de contribuer à la définition et à la mise en oeuvre de la politique
-territoriale de santé et d'assumer en matière sociale les compétences dévolues
-au comité régional de l'organisation sociale et médico-sociale par la loi n°
-2002-2 du 2 janvier 2002 rénovant l'action sociale et médico-sociale.
+Sans préjudice des compétences des départements prévues à l'article L. 2111-2,
+des programmes de santé destinés à éviter l'apparition, le développement ou
+l'aggravation de maladies ou incapacités sont déterminés par arrêté du ministre
+chargé de la santé et de la sécurité sociale et, en tant que de besoin, des
+ministres intéressés.
 
-La composition de ce conseil et ses modalités de fonctionnement sont fixées par
-voie réglementaire.
+Dans le cadre de ce programme sont prévus des consultations médicales
+périodiques de prévention et des examens de dépistage, dont la liste est fixée
+par arrêté du ministre chargé de la santé, ainsi que des actions d'information
+et d'éducation pour la santé.

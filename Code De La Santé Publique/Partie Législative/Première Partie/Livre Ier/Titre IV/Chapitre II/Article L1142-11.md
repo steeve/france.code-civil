@@ -1,13 +1,13 @@
 Article L1142-11
 ----
-Les médecins experts figurant sur une des listes instituées par l'article 2 de
-la loi n° 71-498 du 29 juin 1971 relative aux experts judiciaires peuvent
-demander à être inscrits sur la liste nationale des experts en accidents
-médicaux s'ils justifient d'une qualification dont les modalités, comportant
-notamment une évaluation des connaissances et des pratiques professionnelles,
-sont fixées par décret en Conseil d'Etat. Cette inscription vaut pour cinq ans
-et peut être renouvelée. Le renouvellement est subordonné à une nouvelle
-évaluation de connaissances et pratiques professionnelles.
+Les experts figurant sur une des listes instituées par l'article 2 de la loi n°
+71-498 du 29 juin 1971 relative aux experts judiciaires peuvent demander à être
+inscrits sur la liste nationale des experts en accidents médicaux s'ils
+justifient d'une qualification dont les modalités, comportant notamment une
+évaluation des connaissances et des pratiques professionnelles, sont fixées par
+décret en Conseil d'Etat. Cette inscription vaut pour cinq ans et peut être
+renouvelée. Le renouvellement est subordonné à une nouvelle évaluation de
+connaissances et pratiques professionnelles.
 
 La liste nationale actualisée est adressée chaque année, d'une part, au Conseil
 d'Etat, aux cours administratives d'appel et aux tribunaux administratifs,

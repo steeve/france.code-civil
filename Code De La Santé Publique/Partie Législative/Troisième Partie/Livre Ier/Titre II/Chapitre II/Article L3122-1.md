@@ -10,13 +10,12 @@ action contre un tiers au titre de sa contamination ne fait pas obstacle à la
 présente procédure.
 
 La réparation intégrale des préjudices définis au premier alinéa est assurée par
-un fonds d'indemnisation, doté de la personnalité civile, présidé par un
-président de chambre ou un conseiller à la Cour de cassation, en activité ou
-honoraire, et administré par une commission d'indemnisation.
+l'Office national d'indemnisation des accidents médicaux, des affections
+iatrogènes et des infections nosocomiales mentionné à l'article L. 1142-22. Une
+commission d'indemnisation présidée par le président du conseil d'administration
+de l'office et un conseil composé notamment de représentants des associations
+concernées sont placés auprès du directeur de l'office.
 
-Un conseil composé notamment de représentants des associations concernées est
-placé auprès du président du fonds.
-
-Les personnes qui ont à connaître des documents et informations fournis au fonds
-sont tenues au secret professionnel, dans les conditions et sous les peines
-prévues aux articles 226-13 et 226-14 du code pénal.
+Les personnes qui ont à connaître des documents et informations fournis à
+l'office sont tenues au secret professionnel, dans les conditions et sous les
+peines prévues aux articles 226-13 et 226-14 du code pénal.

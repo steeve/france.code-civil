@@ -1,9 +1,8 @@
 Article L1126-3
 ----
 Le fait de pratiquer ou de faire pratiquer une recherche biomédicale en
-infraction aux dispositions des articles L. 1121-4 à L. 1121-6 et du dernier
-alinéa de l'article L. 1122-1 est puni de trois ans d'emprisonnement et de 45000
-euros d'amende.
+infraction aux dispositions des articles L. 1121-5 à L. 1121-8 et de l'article
+L. 1122-1-2 est puni de trois ans d'emprisonnement et de 45000 euros d'amende.
 
 Les personnes physiques coupables de l'infraction prévue à l'alinéa précédent
 encourent également les peines suivantes :

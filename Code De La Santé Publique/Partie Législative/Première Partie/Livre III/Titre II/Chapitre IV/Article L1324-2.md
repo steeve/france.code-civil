@@ -1,7 +1,9 @@
 Article L1324-2
 ----
-Les procès-verbaux prévus à l'article L. 1324-1 donnent lieu au paiement d'un
-droit de timbre.
+Les infractions aux dispositions des chapitres Ier et II du présent titre ainsi
+qu'aux règlements pris pour leur application sont constatées par des
+procès-verbaux qui font foi jusqu'à preuve du contraire.
 
-Les procès-verbaux dressés par les officiers et agents assermentés font foi
-jusqu'à preuve contraire.
+Les procès-verbaux sont dressés en double exemplaire, dont l'un est adressé au
+préfet et l'autre au procureur de la République. Une copie en est également
+remise à l'intéressé.

@@ -16,7 +16,7 @@ installations nucléaires de base en application des dispositions de la loi n°
 61-842 du 2 août 1961 relative à la lutte contre les pollutions atmosphériques
 et les odeurs et de celles des articles L. 214-1 à L. 214-6 du code de
 l'environnement. Les installations ou activités concernées ne sont pas soumises
-aux dispositions du chapitre VI du présent titre.
+aux dispositions prévues au 3° de l'article L. 1336-5.
 
 Les dispositions de l'alinéa précédent ne s'appliquent pas aux activités
 destinées à la médecine, à la biologie humaine ou à la recherche médicale,

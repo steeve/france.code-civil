@@ -1,10 +1,14 @@
 Article L1324-1
 ----
-L'exécution sans autorisation ou sans déclaration préalable dans le périmètre de
-protection de l'un des travaux mentionnés à l'article L. 1322-4, la reprise des
-travaux interdits ou suspendus administrativement en vertu des articles L.
-1322-5, L. 1322-6 et L. 1322-7 et les infractions relatives à l'ordre, la police
-et la salubrité qui s'imposent aux établissements d'eaux minérales prévus à
-l'article L. 1322-13, sont constatées, concurremment, par les officiers de
-police judiciaire, les ingénieurs des mines et les agents sous leurs ordres
-ayant droit de verbaliser.
+Outre les officiers de police judiciaire, sont compétents pour rechercher et
+constater les infractions aux dispositions des chapitres Ier et II du présent
+titre ainsi qu'aux règlements pris pour leur application :
+
+1° Les agents mentionnés à l'article L. 1312-1, habilités et assermentés à cet
+effet ;
+
+2° Les agents mentionnés aux 1°, 2°, 5°, 8° et 9° du I et au II de l'article L.
+216-3 du code de l'environnement, ainsi que les agents des services déconcentrés
+du ministère chargé de l'industrie, habilités et assermentés à cet effet, pour
+les infractions relatives aux périmètres de protection prévus aux articles L.
+1321-2 et L. 1322-3 à L. 1322-7.

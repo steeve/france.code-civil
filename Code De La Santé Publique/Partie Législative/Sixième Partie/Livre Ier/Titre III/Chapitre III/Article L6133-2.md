@@ -23,3 +23,7 @@ sécurité sociale, sont facturés par l'établissement de santé employeur à
 l'établissement de santé dont relève le patient. L'établissement dont relève le
 patient assure le recouvrement des sommes correspondantes auprès du patient ou
 de la caisse d'assurance maladie.
+
+Les médecins libéraux exerçant une activité dans le cadre d'un groupement de
+coopération sanitaire continuent à relever à ce titre des professions
+mentionnées à l'article L. 622-5 du code de la sécurité sociale.

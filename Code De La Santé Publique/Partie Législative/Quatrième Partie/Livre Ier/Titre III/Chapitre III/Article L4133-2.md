@@ -13,7 +13,9 @@ proposés ;
 santé, les organismes aptes à effectuer les procédures d'évaluation visées à
 l'article L. 4133-1 ;
 
-4° D'évaluer la formation médicale continue ;
+4° De fixer les règles que suivent les conseils régionaux pour valider le
+respect de l'obligation de formation médicale continue. Ces règles sont
+homologuées par arrêté du ministre chargé de la santé ;
 
 5° De donner un avis au ministre chargé de la santé sur toutes les questions
 concernant la formation médicale continue.

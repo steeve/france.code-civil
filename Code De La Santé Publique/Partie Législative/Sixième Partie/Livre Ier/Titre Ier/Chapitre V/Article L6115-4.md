@@ -7,8 +7,7 @@ l'exception de leur suspension ou de leur retrait dans les conditions prévues
 par l'article L. 6122-13 ;
 
 2° Les orientations qui président à l'allocation des ressources aux
-établissements de santé, après avis de la section compétente du conseil régional
-de santé ;
+établissements de santé ;
 
 3° L'accord prévu à l'article L. 162-22-4 du code de la sécurité sociale ou, à
 défaut, son contenu ainsi que les contrats pluriannuels mentionnés aux articles

@@ -1,8 +1,7 @@
 Article L4321-20
 ----
-Les dispositions des articles L. 4113-5, L. 4113-6 et L. 4113-8 sont applicables
-aux masseurs-kinésithérapeutes.
-
-Toutefois, pour l'application de l'article L. 4113-6, les conventions passées
-entre les professionnels et les entreprises sont soumises pour avis au collège
-professionnel régional du conseil mentionné à l'article L. 4391-1.
+Un décret en Conseil d'Etat détermine les modalités d'application des
+dispositions des articles L. 4321-15 à L. 4321-19, notamment la représentation
+des professionnels dans les instances ordinales en fonction du mode d'exercice
+et des usagers dans les chambres disciplinaires ainsi que l'organisation de la
+procédure disciplinaire préalable à la saisine des chambres disciplinaires.

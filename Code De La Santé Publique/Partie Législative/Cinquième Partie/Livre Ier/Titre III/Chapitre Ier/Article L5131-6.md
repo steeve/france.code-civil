@@ -7,7 +7,7 @@ que :
 l'adresse du fabricant ou du responsable de la mise sur le marché, établi dans
 un Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace
 économique européen, ainsi que les autres mentions prévues par le décret
-mentionné au 1° de l'article L. 5131-9 ; en cas de pluralité d'adresses, celle
+mentionné au 1° de l'article L. 5131-11 ; en cas de pluralité d'adresses, celle
 qui est soulignée désigne le lieu de détention du dossier prévu à l'alinéa
 suivant ;
 

@@ -14,8 +14,8 @@ sont nommés par décret sur proposition du ministre chargé de la santé.
 Un conseil scientifique, dont le président est désigné par le ministre chargé de
 la santé après avis dudit conseil, veille à la cohérence de la politique
 scientifique de l'institut. Ses membres, dont quatre appartiennent au Haut
-conseil de la santé, sont nommés par arrêté du ministre chargé de la santé. Son
-président siège au conseil d'administration de l'institut avec voix
+conseil de la santé publique, sont nommés par arrêté du ministre chargé de la
+santé. Son président siège au conseil d'administration de l'institut avec voix
 consultative.
 
 Le conseil d'administration délibère sur les orientations stratégiques

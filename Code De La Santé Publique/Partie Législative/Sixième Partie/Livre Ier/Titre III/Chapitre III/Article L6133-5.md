@@ -8,7 +8,7 @@ membres de ces groupements et des médecins libéraux pour la part de leur
 activité qu'ils exercent au sein de ces groupements et sur les modalités de
 prise en charge par l'assurance maladie des frais d'hospitalisation au titre des
 soins dispensés par ces groupements lorsqu'ils sont autorisés dans les
-conditions définies au dernier alinéa de l'article L. 6133-1.
+conditions définies à l'article L. 6133-1.
 
 Les médecins libéraux exerçant leur activité au sein des groupements autorisés à
 participer à l'expérimentation peuvent être rémunérés par l'assurance maladie

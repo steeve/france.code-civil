@@ -23,6 +23,6 @@ collégiale sous réserve des exceptions, précisées par décret en Conseil d'E
 tenant à l'objet de la saisine ou du litige ou à la nature des questions à
 examiner ou à juger.
 
-Les fonctions exercées par les membres de la chambre disciplinaire nationale
-sont incompatibles avec l'exercice d'autres fonctions ordinales, à l'exception
-de celles d'assesseur dans la section des assurances sociales.
+Aucun membre de cette formation disciplinaire ne peut siéger lorsqu'il a eu
+connaissance des faits de la cause à raison de l'exercice d'autres fonctions
+ordinales.

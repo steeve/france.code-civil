@@ -6,7 +6,6 @@ l'importation :
 1° Des biberons à tube ;
 
 2° Des tétines et sucettes ne répondant pas aux conditions établies par un
-décret en Conseil d'Etat pris sur avis du Conseil supérieur d'hygiène publique.
-Ce décret fixe les caractéristiques des produits qui peuvent être employés,
-ainsi que les indications spéciales que les objets visés doivent porter avec la
-marque du fabricant ou du commerçant.
+décret en Conseil d'Etat. Ce décret fixe les caractéristiques des produits qui
+peuvent être employés, ainsi que les indications spéciales que les objets visés
+doivent porter avec la marque du fabricant ou du commerçant.

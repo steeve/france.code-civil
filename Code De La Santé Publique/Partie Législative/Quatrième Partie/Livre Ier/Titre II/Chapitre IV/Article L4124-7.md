@@ -12,10 +12,9 @@ l'hospitalisation ou par le représentant de l'Etat dans le département ou la
 région, les représentants de l'Etat mentionnés aux articles L. 4132-9, L. 4142-5
 et L. 4152-8 ne siègent pas dans ces instances.
 
-Les fonctions exercées par les membres des chambres disciplinaires de première
-instance sont incompatibles avec l'exercice d'autres fonctions au sein du
-conseil, à l'exception de celles d'assesseur dans les sections d'assurances
-sociales des chambres disciplinaires de première instance.
+Aucun membre de cette formation disciplinaire ne peut siéger lorsqu'il a eu
+connaissance des faits de la cause à raison de l'exercice d'autres fonctions
+ordinales.
 
 Les décisions de la chambre disciplinaire de première instance sont rendues en
 formation collégiale, sous réserve des exceptions, précisées par décret en

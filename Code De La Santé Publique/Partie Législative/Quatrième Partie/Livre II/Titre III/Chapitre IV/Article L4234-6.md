@@ -4,11 +4,7 @@ La chambre de discipline prononce, s'il y a lieu, l'une des peines suivantes :
 
 1° L'avertissement ;
 
-2° Le blâme avec inscription au dossier.
-
-Elle prononce également les peines ci-après et demande au représentant de l'Etat
-dans le département, par l'intermédiaire du directeur des affaires sanitaires et
-sociales, d'en assurer l'exécution ;
+2° Le blâme avec inscription au dossier ;
 
 3° L'interdiction temporaire ou définitive de servir une ou la totalité des
 fournitures faites, à quelque titre que ce soit, aux établissements publics ou
@@ -27,3 +23,9 @@ d'une sanction assortie d'un sursis, dès lors que cette sanction est devenue
 définitive, la juridiction prononce la sanction prévue au 4°, elle peut décider
 que la sanction, pour la partie assortie du sursis, devient exécutoire sans
 préjudice de l'application de la nouvelle sanction.
+
+Lorsque les conseils régionaux de la section A et les conseils centraux des
+autres sections de l'ordre prononcent une peine d'interdiction d'exercer la
+profession, ils fixent la date de départ de cette interdiction. Les décisions
+prononcées par ces conseils, non frappées d'appel dans les délais légaux, ont
+force exécutoire.

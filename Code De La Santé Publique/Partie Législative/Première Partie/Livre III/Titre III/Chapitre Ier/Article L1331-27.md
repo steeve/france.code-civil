@@ -31,7 +31,6 @@ mandataire.
 
 Au cas où le conseil départemental d'hygiène émet un avis contraire aux
 conclusions du rapport motivé prévu à l'article L. 1331-26, le préfet peut
-transmettre le dossier au ministre chargé de la santé. Celui-ci saisit le
-Conseil supérieur d'hygiène publique de France qui émet son avis dans les deux
-mois de sa saisine, lequel se substitue à celui du conseil départemental
-d'hygiène.
+transmettre le dossier au ministre chargé de la santé. Celui-ci saisit le Haut
+Conseil de la santé publique qui émet son avis dans les deux mois de sa saisine,
+lequel se substitue à celui du conseil départemental d'hygiène.

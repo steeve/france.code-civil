@@ -10,8 +10,8 @@ ou retirée ;
 rapporte ;
 
 3° De céder une officine autre qu'une pharmacie mutualiste, avant l'expiration
-d'un délai de cinq ans à partir du jour de son ouverture, sauf en cas de force
-majeure définie à l'article L. 5125-7 ;
+d'un délai de cinq ans à partir du jour de la notification de l'arrêté de
+licence sauf en cas de force majeure définie à l'article L. 5125-7 ;
 
 4° De ne pas remettre la licence à la préfecture lors de la fermeture définitive
 de l'officine ;

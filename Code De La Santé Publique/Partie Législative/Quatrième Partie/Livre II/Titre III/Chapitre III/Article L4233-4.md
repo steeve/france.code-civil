@@ -5,6 +5,9 @@ ainsi que les indemnités de déplacement et de présence des membres des consei
 sont répartis entre l'ensemble des pharmaciens inscrits dans les tableaux par
 les soins du conseil national.
 
+Le conseil national gère les biens de l'ordre et peut créer ou subventionner des
+oeuvres intéressant la profession pharmaceutique.
+
 Les frais de déplacement des délégués locaux des pharmaciens de la section E se
 rendant dans la métropole à l'occasion de la réunion du conseil central de cette
 section sont à la charge de l'ensemble des pharmaciens de cette section. Des

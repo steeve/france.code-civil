@@ -3,9 +3,7 @@ Article L4222-6
 Le pharmacien qui demande son inscription à un tableau doit faire la preuve
 d'une connaissance suffisante de la langue française.
 
-Lorsque cette preuve ne résulte pas du dossier accompagnant la demande
-d'inscription, la vérification est faite par l'autorité administrative
+En cas de doute, le président du conseil régional ou central de l'ordre ou son
+représentant peut entendre l'intéressé. Une vérification peut être faite à la
+demande du conseil de l'ordre ou de l'intéressé par l'autorité administrative
 compétente.
-
-Une nouvelle vérification peut être faite à la demande de l'intéressé par la
-même autorité.

@@ -25,9 +25,9 @@ s'est consacré de façon effective et licite aux activités de sage-femme penda
 au moins deux années au cours des cinq années précédant la délivrance de cette
 attestation ;
 
-c) Tout autre diplôme, certificat ou titre de sage-femme délivré par un Etat,
-membre ou partie au plus tard le 23 janvier 1986, sanctionnant une formation de
-sage-femme acquise dans cet Etat, si cet Etat atteste que l'intéressé s'est
-consacré de façon effective et licite aux activités de sage-femme pendant au
-moins trois années au cours des cinq années précédant la délivrance de cette
-attestation.
+c) Tout diplôme, certificat ou titre de sage-femme délivré par un Etat, membre
+ou partie, sanctionnant une formation de sage-femme acquise dans cet Etat
+antérieurement aux dates fixées par l'arrêté mentionné au a et non conforme aux
+obligations communautaires, si cet Etat atteste que l'intéressé s'est consacré
+de façon effective et licite aux activités de sage-femme pendant au moins trois
+années au cours des cinq années précédant la délivrance de cette attestation.

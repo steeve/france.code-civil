@@ -18,5 +18,5 @@ régime de responsabilité des parties.
 Préalablement à la conclusion du bail emphytéotique mentionné au précédent
 alinéa, la collectivité territoriale et l'établissement public de santé ou, le
 cas échéant, la structure de coopération sanitaire dotée de la personnalité
-morale publique définissent dans un programme détaillé les besoins que le
+morale publique définissent dans un programme fonctionnel les besoins que le
 preneur à bail doit s'engager à satisfaire.

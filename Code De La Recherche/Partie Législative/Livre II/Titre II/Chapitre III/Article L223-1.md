@@ -3,27 +3,37 @@ Article L223-1
 Les recherches biomédicales sont définies par les dispositions de l'article L.
 1121-1 du code de la santé publique, ci-après reproduites :
 
-" Art. L. 1121-1. - Les essais ou expérimentations organisés et pratiqués sur
-l'être humain en vue du développement des connaissances biologiques ou médicales
-sont autorisés dans les conditions prévues au présent livre et sont désignés
-ci-après par les termes :
+" Art. L. 1121-1. - Les recherches organisées et pratiquées sur l'être humain en
+vue du développement des connaissances biologiques ou médicales sont autorisées
+dans les conditions prévues au présent livre et sont désignées ci-après par les
+termes : "recherche biomédicale".
 
-"recherche biomédicale".
+" Les dispositions du présent titre ne s'appliquent pas :
 
-" Les recherches biomédicales dont on attend un bénéfice direct pour la personne
-qui s'y prête sont dénommées recherches biomédicales avec bénéfice individuel
-direct. Toutes les autres recherches, qu'elles portent sur des personnes malades
-ou non, sont dénommées sans bénéfice individuel direct.
+" 1° Aux recherches dans lesquelles tous les actes sont pratiqués et les
+produits utilisés de manière habituelle, sans aucune procédure supplémentaire ou
+inhabituelle de diagnostic ou de surveillance ;
 
-" La personne physique ou morale qui prend l'initiative d'une recherche
-biomédicale sur l'être humain est dénommée le promoteur. La ou les personnes
-physiques qui dirigent et surveillent la réalisation de la recherche sont
-dénommées les investigateurs.
+" 2° Aux recherches visant à évaluer les soins courants, autres que celles
+portant sur des produits mentionnés à l'article L. 5311-1 et figurant sur une
+liste fixée par décret en Conseil d'Etat, lorsque tous les actes sont pratiqués
+et les produits utilisés de manière habituelle mais que des modalités
+particulières de surveillance sont prévues par un protocole, obligatoirement
+soumis à l'avis consultatif du comité mentionné à l'article L. 1123-1. Ce
+protocole précise également les modifications d'information des personnes
+concernées.
 
-" Lorsque plusieurs personnes prennent l'initiative d'une même recherche, elles
-peuvent désigner une personne physique ou morale qui aura la qualité de
-promoteur et assume les obligations correspondantes en application du présent
-livre.
+" La personne physique ou la personne morale qui prend l'initiative d'une
+recherche biomédicale sur l'être humain, qui en assure la gestion et qui vérifie
+que son financement est prévu, est dénommé le promoteur. Celui-ci ou son
+représentant légal doit être établi dans la communauté européenne. Lorsque
+plusieurs personnes prennent l'initiative d'une même recherche biomédicale,
+elles désignent une personne physique ou morale qui aura la qualité de promoteur
+et assumera les obligations correspondantes en application du présent livre.
 
-" Lorsque le promoteur d'une recherche confie sa réalisation à plusieurs
-investigateurs, il désigne parmi eux un investigateur coordonnateur. "
+" La ou les personnes physiques qui dirigent et surveillent la réalisation de la
+recherche sur un lieu sont dénommées investigateurs.
+
+" Lorsque le promoteur d'une recherche biomédicale confie sa réalisation à
+plusieurs investigateurs, sur un même lieu ou sur plusieurs lieux en France, le
+promoteur désigne parmi les investigateurs un coordonnateur. "

@@ -9,13 +9,15 @@ Cette obligation donne lieu, le cas échéant, à un contrôle de qualité dont 
 modalités sont définies par décret et dont le coût est pris en charge par les
 exploitants des dispositifs.
 
-Pour les dispositifs médicaux dont la liste est fixée par le ministre chargé de
-la santé après avis de l'Agence française de sécurité sanitaire des produits de
-santé, la personne morale ou physique responsable d'une nouvelle mise sur le
-marché fait établir préalablement une attestation technique, dont les modalités
-sont définies par décret, garantissant que le dispositif médical concerné est
-toujours conforme aux exigences essentielles prévues au premier alinéa de
-l'article L. 5211-3.
+La personne physique ou morale responsable de la revente d'un dispositif médical
+d'occasion figurant sur une liste fixée par arrêté du ministre chargé de la
+santé, pris sur proposition du directeur général de l'Agence française de
+sécurité sanitaire des produits de santé, fait établir préalablement par un
+organisme agréé à cet effet par décision du directeur général de l'Agence
+française de sécurité sanitaire des produits de santé une attestation technique
+justifiant d'une maintenance régulière et du maintien des performances du
+dispositif médical concerné. Les modalités de l'agrément des organismes et de
+l'attestation technique sont définies par décret.
 
 Le non-respect des dispositions du présent article peut entraîner la mise hors
 service provisoire ou définitive du dispositif médical, prononcée par l'Agence

@@ -1,0 +1,15 @@
+Article L4322-9
+----
+Le conseil national fixe le montant de la cotisation qui doit être versée à
+l'ordre des pédicures-podologues par chaque personne physique ou morale inscrite
+au tableau. Il détermine également les quotités de cette cotisation qui seront
+attribuées à l'échelon régional et national.
+
+Le conseil national gère les biens de l'ordre et peut créer ou subventionner les
+oeuvres intéressant la profession, ainsi que les oeuvres d'entraide. Il
+surveille la gestion des conseils régionaux qui doivent l'informer préalablement
+de la création et lui rendre compte de la gestion de tous les organismes
+dépendant de ces conseils. Il verse aux conseils régionaux une somme destinée à
+assurer une harmonisation de ces conseils. Il verse aux conseils régionaux une
+somme destinée à assurer une harmonisation de leurs charges sur le plan
+national.

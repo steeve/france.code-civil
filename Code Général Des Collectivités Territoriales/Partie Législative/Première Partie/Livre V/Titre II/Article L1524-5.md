@@ -10,14 +10,19 @@ collectivités territoriales ou de leurs groupements actionnaires par rapport au
 capital de la société, les statuts fixent le nombre de sièges dont ils disposent
 au conseil d'administration ou de surveillance, ce nombre étant éventuellement
 arrondi à l'unité supérieure. Les sièges sont attribués en proportion du capital
-détenu respectivement par chaque collectivité ou groupement.
+détenu respectivement par chaque collectivité ou groupement. En outre, les
+établissements publics de santé, les établissements publics sociaux ou
+médico-sociaux ou les groupements de coopération actionnaires ont droit au moins
+à un représentant au conseil d'administration ou au conseil de surveillance,
+désigné en son sein par le conseil d'administration de l'établissement ou du
+groupement concerné.
 
 Si le nombre des membres d'un conseil d'administration ou d'un conseil de
 surveillance prévus aux articles L. 225-17 et L. 225-69 du code de commerce ne
 suffit pas à assurer, en raison de leur nombre, la représentation directe des
 collectivités territoriales ou de leurs groupements ayant une participation
 réduite au capital, ils sont réunis en assemblée spéciale, un siège au moins
-leur étant réservé. L'assemblée spéciale désigne parmi les élus de ces
+leur étant réservé.L'assemblée spéciale désigne parmi les élus de ces
 collectivités ou groupements le ou les représentants communs qui siégeront au
 conseil d'administration ou de surveillance.
 
@@ -99,3 +104,6 @@ disposant d'un siège au conseil d'administration, en application du premier
 alinéa du présent article.
 
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
+Les sociétés d'économie mixte locales mentionnées à l'article L. 1522-6 ne sont
+pas autorisées à prendre de participation dans le capital d'une société
+commerciale.

@@ -6,10 +6,11 @@ que ces experts remplissent toutes les conditions propres à garantir leur
 indépendance vis-à-vis des parties en présence. Elle peut toutefois, lorsqu'elle
 l'estime suffisant, désigner un seul expert choisi sur la même liste.
 
-Lorsque la nature du préjudice le justifie, elle peut en outre nommer en qualité
-de membre du collège d'experts un spécialiste figurant sur une des listes
-instituées par l'article 2 de la loi n° 71-498 du 29 juin 1971 précitée ou, à
-titre exceptionnel, un expert choisi en dehors de ces listes.
+A défaut d'expert inscrit sur la liste des experts en accidents médicaux
+compétent dans le domaine correspondant à la nature du préjudice, elle peut
+nommer en qualité de membre du collège d'experts un expert figurant sur une des
+listes instituées par l'article 2 de la loi n° 71-498 du 29 juin 1971 précitée
+ou, à titre exceptionnel, un expert choisi en dehors de ces listes.
 
 La commission régionale fixe la mission du collège d'experts ou de l'expert,
 s'assure de leur acceptation et détermine le délai dans lequel le rapport doit

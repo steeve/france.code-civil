@@ -9,3 +9,6 @@ d'autres intervenants extérieurs conformément à l'article 9 du décret n° 85
 du 30 août 1985 relatif aux établissements publics locaux d'enseignement. Des
 élèves formés par un organisme agréé par le ministère de la santé pourront
 également y être associés.
+
+Un cours d'apprentissage sur les premiers gestes de secours est délivré aux
+élèves de collège et de lycée, selon des modalités définies par décret.

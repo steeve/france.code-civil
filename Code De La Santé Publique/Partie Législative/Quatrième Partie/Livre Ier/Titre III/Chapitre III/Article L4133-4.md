@@ -1,7 +1,8 @@
 Article L4133-4
 ----
-Les conseils régionaux de la formation médicale continue des médecins libéraux
-et des médecins salariés non hospitaliers ont pour mission :
+Le conseil régional de la formation médicale continue des médecins libéraux, des
+médecins salariés non hospitaliers et des personnels mentionnés à l'article L.
+6155-1 a pour mission :
 
 1° De déterminer les orientations régionales de la formation médicale continue
 en cohérence avec celles fixées au plan national ;
@@ -9,9 +10,13 @@ en cohérence avec celles fixées au plan national ;
 2° De valider, tous les cinq ans, le respect de l'obligation de formation
 définie à l'article L. 4133-1 ;
 
-3° De procéder à une conciliation en cas de manquement à l'obligation de
-formation continue définie à l'article L. 4133-1 et de saisir, en cas d'échec de
-cette conciliation, la chambre disciplinaire de l'ordre des médecins.
+3° De formuler des observations et des recommandations en cas de non-respect de
+cette obligation.
 
-Les conseils régionaux adressent chaque année un rapport sur leurs activités aux
-conseils nationaux correspondants. Ce rapport est rendu public.
+Pour les missions mentionnées aux 2° et 3°, le conseil régional peut déléguer
+ses pouvoirs à des sections constituées en son sein et qui se prononcent en son
+nom.
+
+Le conseil régional adresse chaque année un rapport sur ses activités aux
+conseils nationaux des médecins libéraux, des médecins salariés non hospitaliers
+et des personnels mentionnés à l'article L. 6155-1. Ce rapport est rendu public.

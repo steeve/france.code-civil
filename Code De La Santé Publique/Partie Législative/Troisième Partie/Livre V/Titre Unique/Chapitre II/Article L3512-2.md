@@ -1,9 +1,9 @@
 Article L3512-2
 ----
-Les infractions aux dispositions des articles L. 3511-3 et L. 3511-6 sont punies
-de 75000 euros d'amende. En cas de propagande ou de publicité interdite, le
-maximum de l'amende peut être porté à 50 % du montant des dépenses consacrées à
-l'opération illégale.
+Les infractions aux dispositions des articles L. 3511-2, L. 3511-3 et L. 3511-6
+sont punies de 100 000 euros d'amende. En cas de propagande ou de publicité
+interdite, le maximum de l'amende peut être porté à 50 % du montant des dépenses
+consacrées à l'opération illégale.
 
 En cas de récidive, le tribunal peut interdire pendant une durée de un à cinq
 ans la vente des produits qui ont fait l'objet de l'opération illégale.

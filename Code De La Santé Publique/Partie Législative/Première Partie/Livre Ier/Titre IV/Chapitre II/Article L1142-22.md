@@ -10,6 +10,14 @@ d'un accident médical, d'une affection iatrogène ou d'une infection nosocomial
 ainsi que des indemnisations qui lui incombent, le cas échéant, en application
 des articles L. 1142-15 et L. 1142-18.
 
+L'office est également chargé de la réparation des dommages directement
+imputables à une vaccination obligatoire en application de l'article L. 3111-9,
+de l'indemnisation des victimes de préjudices résultant de la contamination par
+le virus d'immunodéficience humaine en application de l'article L. 3122-1 et de
+la réparation des dommages imputables directement à une activité de prévention,
+de diagnostic ou de soins réalisée en application de mesures prises conformément
+à l'article L. 3110-1.
+
 Les obligations de l'association France-Hypophyse nées de son rôle dans
 l'organisation du traitement des patients par l'hormone de croissance extractive
 entre 1973 et 1988 sont transférées à l'Office national d'indemnisation des
