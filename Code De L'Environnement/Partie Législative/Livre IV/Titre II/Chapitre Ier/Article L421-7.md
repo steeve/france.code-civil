@@ -2,16 +2,17 @@ Article L421-7
 ----
 I. - Conformément aux orientations régionales de gestion de la faune sauvage et
 d'amélioration de la qualité de ses habitats arrêtées par le préfet de région,
-il est mis en place dans chaque département un schéma départemental de gestion
-cynégétique. Ce schéma est établi pour une période de cinq ans renouvelable. Il
-est élaboré par la fédération départementale des chasseurs en prenant en compte
-le document départemental de gestion de l'espace agricole et forestier mentionné
-à l'article L. 112-1 du code rural, et approuvé, après avis du conseil
-départemental de la chasse et de la faune sauvage, par le préfet, qui vérifie
-notamment sa conformité aux principes énoncés à l'article L. 420-1. Il peut être
-complété par des schémas locaux élaborés et approuvés selon la même procédure.
-Ces schémas sont mis en oeuvre sous la responsabilité du préfet et encadrent les
-actions de la fédération départementale des chasseurs.
+ou, lorsque la région a demandé à exercer cette compétence, par le président du
+conseil régional, il est mis en place dans chaque département un schéma
+départemental de gestion cynégétique. Ce schéma est établi pour une période de
+cinq ans renouvelable. Il est élaboré par la fédération départementale des
+chasseurs en prenant en compte le document départemental de gestion de l'espace
+agricole et forestier mentionné à l'article L. 112-1 du code rural, et approuvé,
+après avis du conseil départemental de la chasse et de la faune sauvage, par le
+préfet, qui vérifie notamment sa conformité aux principes énoncés à l'article L.
+420-1. Il peut être complété par des schémas locaux élaborés et approuvés selon
+la même procédure. Ces schémas sont mis en oeuvre sous la responsabilité du
+préfet et encadrent les actions de la fédération départementale des chasseurs.
 
 II. - Le schéma départemental de gestion cynégétique comprend notamment :
 
@@ -29,7 +30,7 @@ prescriptions relatives à l'agrainage ;
 de la faune sauvage.
 
 III. - Pour assurer une meilleure coordination des actions des chasseurs, les
-demandeurs de plans de chasse et de plans de gestion sont adhérents à la
+bénéficiaires de plans de chasse et de plans de gestion sont adhérents à la
 fédération départementale des chasseurs.
 
 IV. - Le schéma départemental de gestion cynégétique est opposable aux chasseurs

@@ -39,3 +39,7 @@ nécessaires.
 IV. - Le propriétaire ou le détenteur de droits de chasse ayant exercé un droit
 à opposition ne peut prétendre à la qualité de membre de l'association, sauf
 décision souveraine de l'association communale de chasse agréée.
+
+V. - Outre les dispositions énumérées ci-dessus, les statuts de chaque
+association doivent comporter des clauses obligatoires déterminées par décret en
+Conseil d'Etat.
