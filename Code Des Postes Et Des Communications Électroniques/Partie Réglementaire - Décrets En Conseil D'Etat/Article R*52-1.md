@@ -13,9 +13,3 @@ puissance et de faible portée dont l'utilisation est autorisée de plein droit 
 application des dispositions du premier alinéa de l'article L. 89 est pris
 conjointement par le ministre d'Etat chargé de la défense nationale, le ministre
 de l'intérieur et le ministre des postes et télécommunications.
-
-L'homologation d'un appareil radioélectrique prévue au deuxième alinéa de
-l'article L. 89 ne peut être accordée que lorsque les caractéristiques de cet
-appareil satisfont aux conditions techniques et d'exploitation imposées aux
-stations radioélectriques privées. Elle est prononcée par le ministre des postes
-et télécommunications.
