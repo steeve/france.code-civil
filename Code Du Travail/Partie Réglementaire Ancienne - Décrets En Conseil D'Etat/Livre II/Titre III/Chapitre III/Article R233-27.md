@@ -1,22 +1,9 @@
 Article R233-27
 ----
-Les portes susceptibles d'étre utilisées pour l'évacuation de plus de 20
-personnes et dans tous les cas, les portes des locaux où sont entreposées et
-manipulées des matières inflammables du premier ou du deuxième groupe, ainsi que
-celles des magasins de vente, doivent s'ouvrir dans le sens de la sortie.
-
-Toutefois lorsqu'elles donnent accés sur la voie publique, cette mesure n'est
-obligatoire que lorsqu'elle est jugée indispensable à la sécurité. En cas de
-différend entre les chefs d'établissement et l'inspection du travail, il est
-statué par décision du ministre chargé du travail.
-
-Les vantaux des portes une fois développés ne doivent pas réduire la largeur des
-dégagements au-dessous des dimensions minima fixées par le présent chapitre pour
-les issues, escaliers et passages.
-
-Si une porte s'ouvre sur un escalier, celui-ci doit être précédé d'un palier
-d'une longueur au moins égale à la largeur des vantaux, sans être inférieure à
-80 cm.
-
-Les portes à coulisse et les portes tournantes à tambour ne peuvent entrer en
-ligne de compte dans le calcul du nombre et de la largeur totale des issues.
+Chaque poste de travail ou partie d'équipement de travail doit être muni d'un
+organe de service permettant d'arrêter, en fonction des risques existants, soit
+tout l'équipement de travail, soit une partie seulement, de manière que
+l'opérateur soit en situation de sécurité. L'ordre d'arrêt de l'équipement de
+travail doit avoir priorité sur les ordres de mise en marche. L'arrêt de
+l'équipement de travail ou de ses éléments dangereux étant obtenu,
+l'alimentation en énergie des actionneurs concernés doit être interrompue.

@@ -1,7 +1,20 @@
 Article R233-8
 ----
-Les scies à tronçonner doivent être munies d'un dispositif évitant la rotation
-et le rejet de la pièce en cours de sciage.
+Lorsque des transmissions, mécanismes et équipements de travail comportant des
+organes en mouvement susceptibles de présenter un risque sont en fonctionnement,
+il est interdit au chef d'établissement d'admettre les travailleurs à procéder à
+la vérification, à la visite, au nettoyage, au débourrage, au graissage, au
+réglage, à la réparation et à toute autre opération de maintenance.
 
-Les scies circulaires à table sont munies d'un couteau diviseur réglable fixé
-immédiatement en arrière de la scie et dans le plan de celle-ci.
+En outre, préalablement à l'exécution à l'arrêt des travaux prévus à l'alinéa 1,
+toutes mesures doivent être prises pour empêcher la remise en marche inopinée
+des transmissions, mécanismes et équipements de travail en cause.
+
+Toutefois, lorsqu'il est techniquement impossible d'effectuer à l'arrêt certains
+des travaux prévus au présent article, des dispositions particulières, prévues
+par une instruction du chef d'établissement, doivent être prises pour empêcher
+l'accès aux zones dangereuses ou mettre en oeuvre des conditions de
+fonctionnement, une organisation du travail ou des modes opératoires permettant
+de préserver la sécurité des travailleurs chargés de ces opérations. Dans ce
+cas, les travaux visés au présent article ne peuvent être effectués que par des
+travailleurs mentionnés au b de l'article R. 233-9.

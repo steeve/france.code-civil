@@ -1,12 +1,9 @@
 Article R233-10
 ----
-L'appareil d'arrêt des machines motrices est toujours placé en dehors de la zone
-dangereuse et de telle façon que leurs conducteurs puissent l'actionner
-facilement et immédiatement.
-
-Les conducteurs de machines-outils, métiers, etc ont à leur portée le moyen de
-demander l'arrêt des moteurs ; en outre, les contremaîtres ou chefs d'atelier
-ont également le moyen de provoquer ou demander l'arrêt des moteurs.
-
-Chaque machine-outil, métier, etc...., est en outre installé et entretenu de
-manière à pouvoir être isolé par son conducteur de la commande qui l'actionne.
+Les travailleurs mentionnés au b de l'article R. 233-9 doivent recevoir une
+formation spécifique relative aux prescriptions à respecter, aux conditions
+d'exécution des travaux, aux matériels et outillages à utiliser. Cette formation
+doit être renouvelée et complétée aussi souvent qu'il est nécessaire pour
+prendre en compte les évolutions des équipements de travail dont ces
+travailleurs assurent la maintenance ou la modification et les évolutions des
+techniques correspondantes.

@@ -1,8 +1,19 @@
 Article R233-2
 ----
-Les salles des machines génératrices et des machines-motrices ne sont
-accessibles qu'aux personnels affectés à la conduite et à l'entretien de ces
-machines.
+Le chef d'établissement doit informer de manière appropriée les travailleurs
+chargés de la mise en oeuvre ou de la maintenance des équipements de travail :
 
-Les passages entre les machines, mécanismes, outils mus mécaniquement ont une
-largeur d'au moins 82 cm, le sol des intervalles est nivelé.
+a) Des conditions d'utilisation ou de maintenance de ces équipements de travail
+;
+
+b) Des instructions ou consignes les concernant ;
+
+c) De la conduite à tenir face aux situations anormales prévisibles ;
+
+d) Des conclusions tirées de l'expérience acquise permettant de supprimer
+certains risques.
+
+Il doit en outre tenir à la disposition des membres du comité d'hygiène, de
+sécurité et des conditions de travail ou, à défaut, des délégués du personnel,
+une documentation concernant la réglementation applicable aux équipements de
+travail utilisés.

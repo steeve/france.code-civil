@@ -1,7 +1,9 @@
 Article R233-18
 ----
-Aux heures de présence du personnel, le remplissage des appareils d'éclairage
-ainsi que des appareils de chauffage à combustible liquide soit dans les locaux
-de travail, soit dans les passages ou escaliers servant à la circulation, ne
-peut se faire qu'à la lumière du jour et à la condition qu'aucun foyer n'y soit
-allumé.
+La mise en marche des équipements de travail ne doit pouvoir être obtenue que
+par l'action d'un opérateur sur l'organe de service prévu à cet effet, sauf si
+cette mise en marche, obtenue autrement, ne présente aucun risque pour les
+opérateurs concernés.
+
+L'alinéa qui précède ne s'applique pas à la mise en marche d'un équipement de
+travail résultant de la séquence normale d'un cycle automatique.
