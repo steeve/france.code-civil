@@ -1,19 +1,27 @@
 Article L374
 ----
-Exerce illégalement la pratique des accouchements [*interdiction*] :
+L'exercice de la profession de sage-femme comporte [*attributions*] la pratique
+des actes nécessaires au diagnostic, à la surveillance de la grossesse et à la
+préparation psychoprophylactique à l'accouchement, ainsi qu'à la surveillance et
+à la pratique de l'accouchement et des soins postnataux en ce qui concerne la
+mère et l'enfant, sous réserve des dispositions des articles L. 369, L. 370 et
+L. 371 du présent code et suivant les modalités fixées par le code de
+déontologie de la profession, mentionné à l'article L. 366.
 
-1° Toute personne qui, non munie d'un diplôme, certificat ou autre titre
-mentionné à l'article L. 356-2 et exigé pour l'exercice de la profession de
-médecin ou de sage-femme et n'étant pas bénéficiaire des dispositions
-transitoires ou spéciales, comme il est dit à l'article L. 372 ci-dessus,
-pratique habituellement des accouchements ;
+Exerce illégalement la profession de sage-femme :
 
-2° Toute sage-femme qui pratique habituellement des accouchements sans
-satisfaire à la condition [*de nationalité*] posée au 2° de l'article L. 356,
-compte tenu, le cas échéant, des exceptions apportées à celle-ci par le présent
-code, et notamment par ses articles L. 357 et L. 357-1.
+1° Toute personne qui pratique habituellement les actes mentionnés ci-dessus
+sans remplir les conditions exigées par le présent titre pour l'exercice de la
+profession de médecin ou de sage-femme, notamment par les articles L. 356, L.
+356-2, L. 357 et L. 357-1 ;
 
-3° Toute sage-femme qui pratique habituellement des accouchements sans être
-inscrite au tableau de l'ordre des sages-femmes, lorsque cette inscription est
-obligatoire ou alors qu'elle est sous le coup d'une peine d'interdiction
-temporaire d'exercer prononcée en vertu des articles L. 423 et L. 454 ci-après.
+2° Toute personne qui, munie d'un titre régulier, sort des attributions que la
+loi lui confère, notamment en prêtant son concours aux personnes mentionnées au
+1° ci-dessus, à l'effet de les soustraire aux prescriptions du présent titre ;
+
+3° Tout médecin ou sage-femme qui pratique les actes susmentionnés pendant la
+durée d'une peine d'interdiction temporaire prononcée en application des
+articles L. 423 et L. 454.
+
+L'exercice de la profession de sage-femme peut comporter également la
+participation aux consultations de planification familiale.

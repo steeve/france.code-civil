@@ -1,5 +1,6 @@
 Article L370
 ----
-Les sages-femmes ne peuvent prescrire que les médicaments figurant sur une liste
-fixée par un arrêté du ministre de la Santé publique et de la Population pris
-après avis de l'Académie nationale de médecine.
+Les sages-femmes ne peuvent prescrire que les examens ainsi que les médicaments
+nécessaires à l'exercice de leur profession. La liste de ces examens et de ces
+médicaments est établie par arrêté du ministre chargé de la santé après avis de
+l'académie nationale de médecine [*prescriptions médicales*].
