@@ -1,21 +1,31 @@
 Article R531-9
 ----
-Le directeur de l'Institut national de la consommation est nommé sur proposition
-du président du conseil d'administration par décret pris sur le rapport du
-ministre chargé de la consommation. Son mandat prend fin au plus tard à la date
-d'installation du conseil d'administration suivant celui en fonction à la date
-de sa nomination.
+Le commissaire du Gouvernement auprès de l'Institut national de la consommation
+est le directeur général de la concurrence, de la consommation et de la
+répression des fraudes.
 
-Le directeur :
+Pour les séances du conseil d'administration, il peut se faire accompagner par
+tout collaborateur ou personne qualifiée de son choix. Il peut s'y faire
+représenter.
 
-1° Exécute les décisions du conseil d'administration ;
+Les délibérations du conseil d'administration sont exécutoires, sauf si le
+commissaire du Gouvernement demande la suspension de cette exécution dans les
+dix jours qui suivent la délibération. Dans ce cas, le commissaire du
+Gouvernement soumet cette délibération au ministre chargé de la consommation,
+qui se prononce dans un délai d'un mois après la demande de suspension. A défaut
+d'une décision de rejet expresse et motivée de la part du ministre dans ce
+délai, la délibération est exécutoire.
 
-2° Assure la direction des services de l'Institut national de la consommation ;
+Toutefois, les délibérations relatives aux emprunts, aux prises, extensions et
+cessions de participations et aux créations ou cessions de filiales ne sont
+exécutoires qu'après approbation par arrêté conjoint du ministre chargé du
+budget, du ministre chargé de la consommation et, le cas échéant, du ministre
+chargé de l'économie.
 
-3° Recrute et gère le personnel ;
-
-4° Représente l'institut en justice et dans tous les actes de la vie civile ;
-toutefois, il ne peut agir ou intervenir dans un litige qu'avec l'autorisation
-du conseil d'administration ;
-
-5° Est ordonnateur des recettes et des dépenses.
+Les délibérations relatives au compte financier et à l'affectation des
+résultats, aux états prévisionnels de recettes et dépenses, à l'acceptation ou
+au refus des dons et legs, aux conditions générales de recrutement, d'emploi et
+de rémunération des personnels et à la politique commerciale sont exécutoires,
+sauf opposition du ministre chargé de la consommation ou du ministre chargé du
+budget, quinze jours après la réception du relevé de décision par le commissaire
+du Gouvernement et le ministre chargé du budget.

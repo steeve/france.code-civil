@@ -1,36 +1,37 @@
 Article R531-3
 ----
-L'Institut national de la consommation est administré par un conseil
-d'administration composé des membres titulaires suivants, ayant voix
-délibérative :
+Pour l'accomplissement des missions mentionnées à l'article R. 531-2, l'Institut
+national de la consommation :
 
-1° Dix représentants des consommateurs et usagers désignés par le ministre
-chargé de la consommation sur proposition du collège des consommateurs du
-Conseil national de la consommation ;
+1. A l'égard des organisations de consommateurs :
 
-2° Cinq personnalités, particulièrement compétentes en matière de consommation,
-en raison de leur qualité ou de leur activité, désignées par le ministre chargé
-de la consommation ;
+a) Effectue et fournit des prestations d'appui technique aux organisations de
+consommateurs, telles que la réalisation d'études juridiques, économiques et
+techniques, de dossiers pédagogiques et documentaires, de dossiers de synthèse
+et d'analyse préparatoires aux travaux du Conseil national de la consommation,
+d'actions de formation, d'essais comparatifs, d'émissions télévisées, de
+publications spécialisées. Il assure un accès aux bases de données de
+l'établissement.
 
-3° Trois représentants élus par les personnels de l'Institut national de la
-consommation dans les conditions prévues par les articles 14 et suivants de la
-loi n° 83-675 du 26 juillet 1983 modifiée relative à la démocratisation du
-secteur public.
+Le cahier des charges annuel des prestations de l'appui technique aux
+organisations de consommateurs est élaboré par une commission créée à cet effet
+et qui veille à son exécution. Cette commission est composée d'un représentant
+de chacune des organisations de consommateurs agréées au plan national, ainsi
+que du directeur de l'établissement. Le commissaire du Gouvernement et le
+contrôleur d'Etat assistent de droit à ses travaux ;
 
-Des membres suppléants sont désignés, en nombre égal, dans les mêmes conditions
-que les titulaires. Les membres suppléants peuvent assister aux séances du
-conseil d'administration. Ils n'ont voix délibérative qu'en cas d'absence ou
-d'empêchement des titulaires qu'ils représentent.
+b) Fournit aux organisations de consommateurs des prestations dont la nature et
+le contenu sont définis par des conventions négociées entre l'établissement et
+une ou plusieurs organisations de consommateurs ;
 
-Les membres titulaires et suppléants sont nommés pour trois ans par arrêté du
-ministre chargé de la consommation.
+c) Recueille des informations sur les questions impliquant la défense des
+intérêts des consommateurs, en vue notamment de constituer des banques de
+données.
 
-Lorsqu'un membre titulaire ou suppléant cesse ses fonctions, un successeur est
-nommé pour la durée de la période restant à courir, sauf si cette durée est
-inférieure à six mois.
+2. A l'égard du public :
 
-Des représentants des ministres intéressés participent aux séances du conseil
-d'administration à la demande soit du président du conseil d'administration,
-soit du commissaire du Gouvernement, soit à leur demande. Ils peuvent y être
-entendus. A cet effet, les ministres intéressés ont communication des ordres du
-jour et des décisions du conseil d'administration.
+a) Diffuse par tout moyen approprié des informations sur les questions touchant
+à la consommation, les produits et les services susceptibles d'être utilisés par
+les consommateurs ;
+
+b) Réalise tout produit, étude, essai comparatif ou service lié à ses missions.

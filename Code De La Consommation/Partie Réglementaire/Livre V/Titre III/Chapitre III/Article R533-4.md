@@ -1,6 +1,7 @@
 Article R533-4
 ----
-Le directeur de l'institut peut créer des régies de recettes et de dépenses dans
-les conditions prévues par le décret n° 64-486 du 28 mai 1964, relatif aux
-régies de recettes et aux régies d'avances des organismes publics, et ses textes
-d'application.
+L'Institut national de la consommation est soumis au régime financier et
+comptable applicable aux établissements publics à caractère industriel et
+commercial dotés d'un agent comptable défini par le décret n° 62-1587 du 29
+décembre 1962 portant règlement général sur la comptabilité publique. Il tient
+une comptabilité analytique.

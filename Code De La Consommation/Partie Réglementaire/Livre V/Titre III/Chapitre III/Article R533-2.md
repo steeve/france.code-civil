@@ -1,6 +1,10 @@
 Article R533-2
 ----
-L'Institut national de la consommation est soumis au régime financier et
-comptable applicable aux établissements publics à caractère industriel et
-commercial dotés d'un agent comptable défini par le décret du 29 décembre 1962.
-Il tient une comptabilité analytique.
+L'Institut national de la consommation est soumis au contrôle économique et
+financier de l'Etat prévu par le décret n° 53-707 du 9 août 1953 relatif au
+contrôle de l'Etat dans les entreprises publiques nationales et certains
+organismes ayant un objet d'ordre économique et social et par le décret n°
+55-733 du 26 mai 1955 relatif au contrôle économique et financier de l'Etat. Un
+contrôleur d'Etat, placé sous l'autorité du ministre chargé de l'économie et des
+finances, assure le contrôle de l'établissement, selon les modalités fixées par
+un arrêté de ce ministre.

@@ -1,17 +1,9 @@
 Article R531-6
 ----
-Le conseil d'administration ne peut valablement délibérer que si la moitié au
-moins de ses membres ayant voix délibérative sont présents. Si son suppléant
-n'est pas en mesure de le remplacer, un titulaire peut se faire représenter par
-un autre membre du conseil d'administration.
-
-Les votes portant sur des personnes ont lieu au scrutin secret. Les décisions
-sont prises à la majorité des membres présents : en cas de partage égal, la voix
-du président de la séance est prépondérante. Le président de la séance peut
-faire appel au concours d'experts pour l'examen d'une question figurant à
-l'ordre du jour.
-
-Le directeur de l'institut, le contrôleur d'Etat et l'agent comptable assistent
-avec voix consultative aux séances du conseil d'administration. Le directeur
-peut se faire accompagner par tout collaborateur ou personne qualifiée de son
-choix. En cas d'absence, il est représenté.
+Les fonctions de membre du conseil d'administration sont gratuites. Elles
+ouvrent droit aux indemnités de déplacement et de séjour prévues par le décret
+n° 90-437 du 28 mai 1990 fixant les conditions et les modalités de règlement des
+frais occasionnés par les déplacements des personnels civils sur le territoire
+métropolitain de la France lorsqu'ils sont à la charge des budgets de l'Etat,
+des établissements publics nationaux à caractère administratif et de certains
+organismes subventionnés.
