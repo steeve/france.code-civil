@@ -15,3 +15,6 @@ domicile lors de leur retour à la vie civile;
 
 3° les Français et Françaises remplissant la condition d'âge exigée pour être
 électeur, après la clôture des délais d'inscription.
+
+4° Les Français et Françaises qui ont été naturalisées aprés la clôture des
+délais d'inscription.

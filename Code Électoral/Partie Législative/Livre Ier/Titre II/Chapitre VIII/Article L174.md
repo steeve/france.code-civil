@@ -1,5 +1,5 @@
 Article L174
 ----
-Les voix données aux listes comprenant un candidat qui a fait acte de
-candidature sur plusieurs listes sont considérées comme nulles; ces listes ne
-peuvent obtenir aucun siège.
+Les voix données au candidat qui a fait acte de candidature dans plusieurs
+circonscriptions sont considérées comme nulles et le candidat ne peut être élu
+dans aucune circonscription.
