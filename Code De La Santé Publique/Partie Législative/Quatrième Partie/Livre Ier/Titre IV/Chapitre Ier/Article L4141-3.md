@@ -23,4 +23,15 @@ l'arrêté mentionné au a et non conforme aux obligations communautaires, s'il 
 accompagné d'une attestation de cet Etat certifiant que le titulaire de diplôme,
 certificat ou titre s'est consacré de façon effective et licite aux activités de
 praticien de l'art dentaire pendant au moins trois années consécutives au cours
-des cinq années précédant la délivrance de l'attestation.
+des cinq années précédant la délivrance de l'attestation et, dans des conditions
+prévues par décret en Conseil d'Etat, tout autre diplôme, certificat ou autre
+titre de médecin délivré en Italie à des personnes ayant commencé leur formation
+universitaire de médecin entre le 28 janvier 1980 et le 31 décembre 1984 dont la
+valeur est certifiée par une attestation délivrée par les autorités italiennes.
+
+c) Un diplôme, certificat ou autre titre de praticien de l'art dentaire délivré
+par un Etat membre, conformément aux obligations communautaires, ne figurant pas
+sur la liste mentionnée au a, s'il est accompagné d'une attestation de cet Etat
+certifiant qu'il sanctionne une formation conforme à ces obligations et qu'il
+est assimilé, par lui, aux diplômes, certificats et titres figurant sur cette
+liste.

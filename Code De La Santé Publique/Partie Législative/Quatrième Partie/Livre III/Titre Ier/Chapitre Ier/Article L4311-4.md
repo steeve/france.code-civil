@@ -1,20 +1,23 @@
 Article L4311-4
 ----
-Les ressortissants d'un Etat membre de la Communauté européenne ou d'un autre
-Etat partie à l'accord sur l'Espace économique européen, titulaires d'un
-diplôme, certificat ou autre titre délivré par l'autorité compétente d'un Etat
-membre ou d'un Etat partie, qui, sans remplir les conditions mentionnées à
-l'article L. 4311-3, permet néanmoins l'exercice de la profession d'infirmier
-dans cet Etat, peuvent bénéficier d'une autorisation d'exercer la profession
-d'infirmier délivrée par l'autorité administrative.
+Peuvent être également autorisés à exercer la profession d'infirmier ou
+d'infirmière :
 
-Lorsque la formation de l'intéressé porte sur des matières substantiellement
-différentes de celles qui figurent au programme du diplôme d'Etat d'infirmier ou
-lorsqu'une ou plusieurs des activités professionnelles dont l'exercice est
-subordonné à la possession de ce diplôme ne sont pas réglementées dans l'Etat
-d'origine ou de provenance ou sont réglementées de manière différente,
-l'autorité administrative peut exiger, après avis d'une commission instituée à
-cet effet, que l'intéressé choisisse soit de se soumettre à une épreuve
-d'aptitude, soit d'accomplir un stage d'adaptation dont la durée ne peut excéder
-un an et qui fait l'objet d'une évaluation. Les conditions d'application du
-présent article sont précisées par décret.
+1° Les ressortissants d'un Etat membre de la Communauté européenne qui sont
+titulaires d'un diplôme, certificat ou autre titre délivré par l'autorité
+compétente d'un Etat membre, non prévu à l'article L. 4311-3, mais permettant
+d'y exercer légalement la profession ;
+
+2° Les ressortissants d'un Etat membre de la Communauté européenne, titulaires
+d'un diplôme d'infirmier acquis dans un Etat tiers, reconnu dans un Etat membre
+de la Communauté européenne et permettant d'y exercer légalement la profession.
+
+Après avoir examiné les connaissances et qualifications attestées par ce diplôme
+et par l'ensemble de la formation et de l'expérience professionnelle acquises
+dans un Etat membre au regard de celles exigées par les règles en vigueur pour
+l'accès et l'exercice de la profession, l'autorité administrative peut exiger
+qu'ils choisissent soit de se soumettre à une épreuve d'aptitude, soit
+d'accomplir un stage d'adaptation.
+
+Les modalités d'application du présent article sont déterminées par décret en
+Conseil d'Etat.

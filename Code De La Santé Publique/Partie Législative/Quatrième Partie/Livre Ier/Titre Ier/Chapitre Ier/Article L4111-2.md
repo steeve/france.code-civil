@@ -1,15 +1,15 @@
 Article L4111-2
 ----
-A compter du 1er janvier 2002, le ministre chargé de la santé peut, après avis
-d'une commission comprenant notamment des délégués des conseils nationaux des
-ordres et des organisations nationales des professions intéressées, choisis par
-ces organismes, autoriser individuellement à exercer les personnes françaises ou
-étrangères titulaires d'un diplôme, titre ou certificat de valeur scientifique
-attestée par le ministre chargé de l'enseignement supérieur. Ces personnes
-doivent avoir été classées en rang utile à des épreuves de vérification des
-connaissances qui, en ce qui concerne les médecins, sont organisées pour une ou
-plusieurs disciplines ou spécialités. La commission doit rendre un avis dans
-l'année suivant le dépôt de la candidature.
+I. - A compter du 1er janvier 2002, le ministre chargé de la santé peut, après
+avis d'une commission comprenant notamment des délégués des conseils nationaux
+des ordres et des organisations nationales des professions intéressées, choisis
+par ces organismes, autoriser individuellement à exercer les personnes
+françaises ou étrangères titulaires d'un diplôme, titre ou certificat de valeur
+scientifique attestée par le ministre chargé de l'enseignement supérieur. Ces
+personnes doivent avoir été classées en rang utile à des épreuves de
+vérification des connaissances qui, en ce qui concerne les médecins, sont
+organisées pour une ou plusieurs disciplines ou spécialités. La commission doit
+rendre un avis dans l'année suivant le dépôt de la candidature.
 
 Les médecins doivent en outre avoir exercé pendant trois ans des fonctions
 hospitalières. Des dispositions réglementaires fixent les conditions
@@ -34,3 +34,14 @@ discipline concernée dont les modalités d'organisation sont définies par arr�
 
 Nul ne peut être candidat plus de deux fois aux épreuves de sélection et à
 l'autorisation d'exercice.
+
+II. - Le ministre chargé de la santé peut également, selon des modalités prévues
+par décret en Conseil d'Etat, autoriser individuellement à exercer la profession
+de médecin, de chirurgien-dentiste ou de sage-femme les ressortissants d'un Etat
+membre de la Communauté européenne titulaires d'un diplôme, certificat ou autre
+titre délivré par un Etat tiers, mais qui a été reconnu dans un Etat membre
+autre que la France et permet d'y exercer légalement la profession, après avoir
+examiné les connaissances et qualifications attestées par ce diplôme et par
+l'ensemble de la formation et de l'expérience professionnelle acquises dans un
+Etat membre au regard de celles exigées par les règles en vigueur pour l'accès
+et l'exercice de cette profession.
