@@ -9,7 +9,7 @@ a) Métropole :
 
 Calais, Boulogne-sur-Mer, Dieppe, Caen-Ouistreham, Cherbourg, Saint-Malo, Brest,
 Le Fret, Roscanvel, Concarneau, Lorient, La Rochelle (La Pallice et Chef de
-Baie), Bayonne, Port-la-Nouvelle, Sète, Toulon, Nice, Ajaccio, Bastia.
+Baie), Bayonne, Port-la-Nouvelle, Sète, Toulon, Nice.
 
 b) Outre-mer :
 
