@@ -4,11 +4,16 @@ Les taux et quotité des contributions visées à l'article 325 sont fixés par
 décret (1) rendu sur la proposition du ministre de l'économie et des finances
 dans la limite des maxima ci-après :
 
-Contribution des sociétés d'assurances : 12 % de la totalité des charges des
+a. Contribution des sociétés d'assurances : 12 % de la totalité des charges des
 opérations du fonds de garantie afférentes à la chasse et à la destruction des
-animaux nuisibles;
+animaux nuisibles ;
 
-Contribution des assurés, somme forfaitaire maximum de 2,50 francs par personne
+b. Contribution des responsables d'accidents corporels non assurés : 10 % des
+indemnités restant à leur charge. Toutefois, ce taux est ramené à 5 % lorsque
+l'accident résulte d'une opération de destruction des animaux nuisibles
+effectuée en vertu des articles 393 à 395 du code rural ;
+
+c. Contribution des assurés, somme forfaitaire maximum de 2,50 F par personne
 garantie.
 
 1) Annexe III, art. 340 sexies.
