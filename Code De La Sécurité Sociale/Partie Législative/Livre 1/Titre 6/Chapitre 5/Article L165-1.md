@@ -18,3 +18,16 @@ commission sont fixées par décret en Conseil d'Etat.
 
 La procédure et les conditions d'inscription peuvent être adaptées en fonction
 des dispositifs selon leur finalité et leur mode d'utilisation.
+
+Lorsque l'utilisation de produits ou prestations fait appel à des soins
+pratiqués par des établissements de santé, les ministres chargés de la santé et
+de la sécurité sociale peuvent décider de subordonner l'inscription sur la liste
+des conditions relatives à l'évaluation de ces produits ou prestations aux
+modalités de délivrance des soins ou à la qualification ou à la compétence des
+praticiens des établissements de santé utilisant ces produits ou pratiquant ces
+prestations. La liste précise, le cas échéant, les modalités selon lesquelles le
+directeur de l'agence régionale de l'hospitalisation établit la liste des
+établissements de santé pour lesquels l'assurance maladie prend en charge ces
+produits ou prestations, au vu notamment des capacités hospitalières nécessaires
+pour répondre aux besoins de la population, ainsi que de l'implantation et de
+l'expérience pour les soins concernés des établissements de santé.
