@@ -13,8 +13,3 @@ conditions prévues par la présente section peuvent être désignées par ce de
 pour effectuer une mission de médiation conformément aux dispositions du 5° de
 l'article 41-1. Elles peuvent également se voir confier les missions mentionnées
 à l'alinéa précédent.
-
-Lorsqu'une association habilitée est désignée par le procureur de la République
-pour exercer une mission de délégué ou de médiateur, seules les personnes
-physiques qui, au sein de cette association, ont été personnellement habilitées
-peuvent se voir confier cette mission.

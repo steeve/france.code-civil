@@ -21,4 +21,9 @@ l'association ainsi que, le cas échéant, ceux de ses représentants locaux ;
 
 6° Les pièces financières qui doivent comprendre les comptes du dernier
 exercice, le budget de l'exercice courant et un bilan ou état de l'actif
-mobilier et immobilier et du passif.
+mobilier et immobilier et du passif ;
+
+7° La liste des personnes physiques qui, au sein de l'association, doivent
+accomplir les missions qui lui sont confiées, avec la mention des nom, prénoms,
+date et lieu de naissance, nationalité, profession et domicile de chacune
+d'entre elles.

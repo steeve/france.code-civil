@@ -26,6 +26,6 @@ les départements du ressort de leur groupement d'affectation ;
 départements de Paris, des Hauts-de-Seine, du Val-de-Marne et de la
 Seine-Saint-Denis ;
 
-6° La direction des services techniques de la préfecture de police dans les
+6° La direction de la logistique de la préfecture de police dans les
 départements de Paris, des Hauts-de-Seine, du Val-de-Marne et de la
 Seine-Saint-Denis.

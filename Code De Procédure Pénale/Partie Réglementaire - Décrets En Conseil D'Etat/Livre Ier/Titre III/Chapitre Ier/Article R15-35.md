@@ -2,7 +2,7 @@ Article R15-35
 ----
 La personne physique ou morale, selon qu'elle désire être habilitée à procéder à
 des enquêtes de personnalité dans le ressort du tribunal de grande instance ou
-dans celui de la cour d'appel, en fait la demande au moyen des juges
+dans celui de la cour d'appel, en fait la demande au doyen des juges
 d'instruction ou au président de la chambre de l'instruction.
 
 La demande présentée par une association comporte notamment :
@@ -26,4 +26,9 @@ l'association ainsi que, le cas échéant, ceux de ses représentants locaux ;
 
 6° Les pièces financières qui doivent comprendre les comptes du dernier
 exercice, le budget de l'exercice courant et un bilan ou un état de l'actif
-mobilier et immobilier et du passif.
+mobilier et immobilier et du passif ;
+
+7° La liste des personnes physiques qui, au sein de l'association, doivent
+accomplir les missions qui lui sont confiées, avec la mention des nom, prénoms,
+date et lieu de naissance, nationalité, profession et domicile de chacune
+d'entre elles.

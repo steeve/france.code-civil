@@ -5,8 +5,8 @@ l'article 114, il peut être délivré aux parties :
 
 1° Sur leur demande, expédition de la plainte ou de la dénonciation des
 ordonnances définitives, des arrêts, des jugements, des ordonnances pénales et
-des titres exécutoires prévus à l'article L. 27-I, alinéa 2, du Code de la route
-;
+des titres exécutoires prévus à l'article 529-2, alinéa 2, du code de procédure
+pénale ;
 
 2° Avec l'autorisation du procureur de la République ou du procureur général
 selon le cas, expédition de toutes les autres pièces de la procédure, notamment,
