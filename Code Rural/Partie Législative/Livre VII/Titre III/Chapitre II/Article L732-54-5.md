@@ -8,6 +8,13 @@ durée d'assurance fixée par décret accomplie à titre exclusif ou principal d
 le régime d'assurance vieillesse des personnes non salariées des professions
 agricoles.
 
+La majoration et la condition de durée d'assurance définies à l'alinéa précédent
+s'appliquent également aux conjoints en activité au 1er janvier 1999 qui ont
+opté pour la qualité de collaborateur d'exploitation ou d'entreprise visés à
+l'article L. 732-35, qui ne justifient pas de la durée d'assurance et de
+périodes équivalentes définies au I de l'article L. 732-54-8 et dont la retraite
+a pris effet postérieurement au 31 décembre 2001.
+
 Les personnes dont la retraite mentionnée aux articles L. 732-24, L. 732-34, L.
 732-35 et L. 762-29 a pris effet postérieurement au 31 décembre 2001 peuvent, le
 cas échéant, bénéficier d'une majoration de leur pension de réversion servie en

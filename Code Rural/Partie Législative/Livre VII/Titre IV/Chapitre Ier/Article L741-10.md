@@ -22,9 +22,37 @@ Ne sont pas comprises dans la rémunération entrant dans l'assiette des
 cotisations, les prestations d'assurances sociales agricoles versées par
 l'entremise de l'employeur.
 
-Les contributions des employeurs destinées au financement des prestations
-complémentaires de retraite et de prévoyance sont exclues de l'assiette des
-cotisations pour la partie inférieure à un montant fixé par décret.
+Sont exclues de l'assiette des cotisations mentionnées au premier alinéa les
+contributions des employeurs destinées au financement des régimes de retraite
+complémentaire mentionnés au chapitre Ier du titre II du livre IX du code de la
+sécurité sociale, ainsi que celles versées en couverture d'engagements de
+retraite complémentaire souscrits antérieurement à l'adhésion des employeurs aux
+institutions mettant en oeuvre les régimes institués en application de l'article
+L. 921-4 du même code.
+
+Sont exclues de l'assiette des cotisations mentionnées au premier alinéa les
+contributions des employeurs destinées au financement des prestations
+complémentaires de retraite et de prévoyance versées par les organismes régis
+par les titres III et IV du livre IX du code de la sécurité sociale ou le livre
+II du code de la mutualité ou par des entreprises régies par le code des
+assurances, lorsqu'elles revêtent un caractère collectif et obligatoire
+déterminé dans le cadre d'une des procédures visées à l'article L. 911-1 du code
+de la sécurité sociale :
+
+1° Dans des limites fixées par décret, pour les contributions au financement
+d'opérations de retraite déterminées par décret ; l'abondement de l'employeur à
+un plan partenarial d'épargne salariale volontaire pour la retraite exonéré aux
+termes du deuxième alinéa de l'article L. 443-8 du code du travail est pris en
+compte pour l'application de ces limites ;
+
+2° Dans des limites fixées par décret, pour les contributions au financement de
+prestations complémentaires de prévoyance.
+
+Toutefois, les dispositions des trois alinéas précédents ne sont pas applicables
+lorsque lesdites contributions se substituent à d'autres éléments de
+rémunération au sens du présent article à moins qu'un délai de douze mois ne se
+soit écoulé entre le dernier versement de l'élément de rémunération en tout ou
+partie supprimé et le premier versement desdites contributions.
 
 Des arrêtés fixent les conditions et limites dans lesquelles il peut être opéré,
 sur la rémunération des intéressés, des déductions pour frais professionnels et

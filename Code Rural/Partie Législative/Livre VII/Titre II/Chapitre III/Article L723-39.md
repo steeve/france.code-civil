@@ -10,7 +10,7 @@ avis du conseil, par arrêté du ministre chargé de l'agriculture. Cette
 disposition est applicable, dans les conditions prévues par décret en Conseil
 d'Etat, en cas de non-paiement par un administrateur des cotisations dont il est
 redevable en application des articles L. 731-25, L. 731-35 à L. 731-38, L.
-731-42, L. 731-43, L. 741-2 et L. 741-9.
+731-42, L. 741-2 et L. 741-9.
 
 Les administrateurs révoqués ainsi que les membres d'un conseil d'administration
 qui a été dissous ne peuvent faire partie d'un conseil d'administration, à

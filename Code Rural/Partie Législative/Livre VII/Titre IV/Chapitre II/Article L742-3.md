@@ -1,10 +1,9 @@
 Article L742-3
 ----
 Les caisses de mutualité sociale agricole servent aux salariés agricoles et à
-leurs ayants droit en cas de maladie, de maternité, d'invalidité, de vieillesse,
-de veuvage et de décès, les prestations prévues par le code de la sécurité
-sociale. A cet effet, sont applicables au régime des assurances sociales
-agricoles :
+leurs ayants droit en cas de maladie, de maternité, d'invalidité, de vieillesse
+et de décès, les prestations prévues par le code de la sécurité sociale. A cet
+effet, sont applicables au régime des assurances sociales agricoles :
 
 1° Les dispositions suivantes du livre III du code de la sécurité sociale :
 articles L. 311-5, L. 311-9, L. 311-10, chapitres III, IV et V du titre Ier,

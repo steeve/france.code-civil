@@ -1,8 +1,6 @@
 Article L732-55
 ----
-Les conditions de ressources, d'âge et d'activité auxquelles doit satisfaire le
-conjoint survivant pour bénéficier de l'assurance veuvage mentionnée à l'article
-L. 722-16 sont fixées par voie réglementaire.
-
-Les prestations de cette assurance sont servies par les caisses de mutualité
-sociale agricole.
+Les pensions de retraite mentionnées à la sous-section 1 de la présente section
+ainsi que leurs majorations et accessoires sont payables mensuellement et à
+terme échu dans des conditions fixées par décret et à compter du 1er janvier
+2004.
