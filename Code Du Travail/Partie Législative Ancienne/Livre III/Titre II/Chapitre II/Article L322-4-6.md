@@ -1,20 +1,25 @@
 Article L322-4-6
 ----
-L'employeur est exonéré du paiement des cotisations à sa charge pour l'emploi du
-salarié bénéficiaire d'un contrat initiative-emploi au titre des assurances
-sociales, des accidents du travail et des allocations familiales, dans la limite
-des cotisations afférentes à la rémunération ou la partie de la rémunération
-égale au salaire minimum de croissance.
+Afin de favoriser l'accès des jeunes à l'emploi et de faciliter leur insertion
+professionnelle, les employeurs peuvent, pour une durée de trois années au plus,
+le cas échéant de manière dégressive, bénéficier d'un soutien de l'Etat lors de
+la conclusion de contrats de travail à durée indéterminée, à temps plein ou à
+temps partiel, à la condition que la durée du travail stipulée au contrat de
+travail soit au moins égale à la moitié de la durée collective du travail
+applicable, conclus, à compter du 1er juillet 2002, avec des jeunes âgés de
+seize à vingt-deux ans révolus, dont le niveau de formation est inférieur à un
+diplôme de fin du second cycle long de l'enseignement général, technologique ou
+professionnel.
 
-L'exonération porte sur les rémunérations versées aux bénéficiaires dans la
-limite d'une période de vingt-quatre mois suivant la date d'embauche. Toutefois,
-pour les bénéficiaires âgés de plus de cinquante ans et de moins de
-soixante-cinq ans, demandeurs d'emploi depuis plus d'un an ou handicapés ou
-percevant le revenu minimum d'insertion et sans emploi depuis plus d'un an,
-l'exonération porte sur les rémunérations versées jusqu'à ce qu'ils atteignent
-l'âge et justifient de la durée d'assurance, définis aux premier et deuxième
-alinéas de l'article L. 351-1 du code de la sécurité sociale, requis pour
-l'ouverture du droit à une pension de vieillesse au taux plein.
+Ce soutien est calculé par référence aux cotisations et contributions sociales
+patronales obligatoires de toutes natures, dont le paiement est exigé à raison
+du versement du salaire. Ce soutien n'est pas cumulable avec une autre aide à
+l'emploi attribuée par l'Etat. Il est cumulable avec les réductions et les
+allégements de cotisations prévus aux articles L. 241-6-4, L. 241-13, L.
+241-13-1 et L. 241-14 du code de la sécurité sociale ainsi qu'aux articles L.
+241-13 et L. 241-13-1 du code de la sécurité sociale tels que visés par
+l'article L. 741-4 du code rural et aux articles L. 741-5 et L. 741-6 de ce
+dernier code.
 
-L'exonération est subordonnée à la production d'une attestation des services du
-ministère chargé de l'emploi.
+Un décret précise le montant et les modalités d'attribution du soutien ainsi que
+les conditions d'application du présent article.
