@@ -19,7 +19,10 @@ c) Toutes informations relatives à la nature, au montant et aux mécanismes de
 l'opération projetée ;
 
 d) Toutes informations relatives aux objectifs et effets attendus de l'opération
-projetée ;
+projetée, et notamment un programme d'activité prévisionnel du nouvel ensemble
+consolidé sur cinq ans, comportant les comptes de résultat et bilans
+prévisionnels, les principaux flux financiers et les prévisions relatives à la
+marge de solvabilité ;
 
 e) Toutes informations relatives aux modalités de suivi et de contrôle des
 activités et des résultats de l'entreprise pour laquelle l'opération est
