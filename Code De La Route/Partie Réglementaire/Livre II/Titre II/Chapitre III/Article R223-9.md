@@ -1,8 +1,9 @@
 Article R223-9
 ----
 I. - Afin de permettre le contrôle des obligations mentionnées aux articles R.
-223-5 à R. 223-8, les inspecteurs du permis de conduire et de la sécurité
-routière ont accès aux locaux affectés au déroulement des stages.
+223-5 à R. 223-8, les délégués au permis de conduire et à la sécurité routière
+et les inspecteurs du permis de conduire et de la sécurité routière ont accès
+aux locaux affectés au déroulement des stages.
 
 II. - Dans le même but, tout titulaire de l'agrément prévu à l'article R. 223-5
 doit transmettre, avant le 31 janvier de chaque année, au préfet du département
