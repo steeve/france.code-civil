@@ -1,14 +1,13 @@
 Article D524
 ----
-La date des réunions et délibérations du comité est fixée par le directeur des
-affaires criminelles et des grâces.
+La demande de libération conditionnelle relevant de la compétence du juge de
+l'application des peines doit être examinée dans les quatre mois de son dépôt,
+conformément aux dispositions de l'article D. 49-33.
 
-En l'absence du président, les séances sont dirigées par le vice-président.
+Celle relevant de la compétence du tribunal de l'application des peines
+libération conditionnelle doit être examinée dans les six mois de son dépôt,
+conformément aux dispositions de l'article D. 49-36.
 
-Au cas d'absence simultanée du président et du vice-président, le président de
-séance est désigné par ses collègues.
-
-Le comité ne peut valablement statuer que lorsque les membres présents ayant
-voix délibérative sont au nombre de quatre au moins.
-
-En cas de partage, la voix du président est prépondérante.
+A défaut, le condamné peut directement saisir de sa demande la chambre de
+l'application des peines de la cour d'appel, par lettre recommandée avec demande
+d'accusé de réception ou selon les modalités prévues à l'article 503.

@@ -10,9 +10,7 @@ une ou plusieurs peines d'emprisonnement n'excédant pas au total une durée d'u
 an.
 
 Ces permissions de sortir peuvent être également accordées sans condition de
-délai lorsque le juge de l'application des peines ou la juridiction régionale de
-la libération conditionnelle ont, en application des dispositions du 1° de
-l'article D. 535 et selon la procédure prévue au sixième alinéa de l'article 722
-ou au troisième alinéa de l'article 722-1, décidé de subordonner l'octroi d'une
-libération conditionnelle à la condition d'avoir bénéficié d'une ou plusieurs
-permissions de sortir.
+délai lorsque le juge ou le tribunal de l'application des peines ont, en
+application du 1° de l'article D. 535 et selon la procédure prévue aux articles
+712-6 ou 712-7, décidé de subordonner l'octroi de la libération conditionnelle à
+la condition d'avoir bénéficié d'une ou plusieurs permissions de sortir.

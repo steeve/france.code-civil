@@ -1,7 +1,11 @@
 Article D117
 ----
-Lorsque le juge de l'application des peines est appelé à se rendre dans un
-établissement pénitentiaire pour assumer les fonctions qui lui sont dévolues par
-le présent code et par l'article R. 2 du code pénal, les indemnités de frais de
-voyage et de séjour lui sont allouées dans les conditions visées à l'article R.
-200 du présent code.
+Lorsque le juge de l'application des peines a, en application des dispositions
+du premier alinéa de l'article 721-2, interdit au condamné de rencontrer après
+sa libération la partie civile pendant une durée égale à tout ou partie des
+réductions de peine dont il a bénéficié, le condamné est informé, au moment de
+sa libération, de la possibilité de retrait prévue par le troisième alinéa de
+cet article.
+
+Cette information est faite conformément aux dispositions de l'article D.
+115-18.

@@ -1,20 +1,14 @@
 Article D116-2
 ----
-Les mesures mentionnées au sixième alinéa de l'article 722 relèvent de la
-compétence du juge de l'application des peines de la juridiction dans le ressort
-de laquelle est situé soit l'établissement pénitentiaire dans lequel le condamné
-est écroué, soit, si le condamné est libre, la résidence habituelle de celui-ci.
+Pour l'application des dispositions de l'article 721-1 relatif aux réductions de
+peine supplémentaires, la commission de l'application des peines examine la
+situation du condamné au moins une fois par an, même en l'absence de demande
+formée par celui-ci conformément aux dispositions de l'article D. 49-11. Si le
+juge de l'application des peines, après cet examen, ne décide pas d'accorder
+d'office une réduction de peine au condamné, ce dernier en est informé et peut,
+s'il l'estime utile, former une telle demande.
 
-Lorsqu'une mesure de placement à l'extérieur ou de semi-liberté doit s'exécuter
-hors du ressort du juge de l'application des peines qui l'a ordonnée, le
-condamné est alors inscrit au registre d'écrou de l'établissement pénitentiaire
-situé à proximité du lieu d'exécution de la mesure ; le juge de l'application
-des peines, compétent pour, le cas échéant, préciser ou modifier les modalités
-d'exécution de la mesure, prononcer ou proposer son retrait, est celui de la
-juridiction dans le ressort de laquelle est situé cet établissement
-pénitentiaire.
-
-Lorsque a été accordée une libération conditionnelle, le juge de l'application
-des peines compétent est celui de la juridiction dans le ressort de laquelle est
-située la résidence habituelle du condamné fixée par la décision accordant la
-libération.
+En cas d'incarcération subie sous le régime de la détention provisoire et si la
+durée en est d'au moins une année, la situation du condamné est examinée par la
+commission de l'application des peines dans un délai de deux mois à compter de
+la date à laquelle la condamnation est devenue définitive.

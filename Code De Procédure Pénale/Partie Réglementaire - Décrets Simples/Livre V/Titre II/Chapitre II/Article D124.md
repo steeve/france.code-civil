@@ -11,16 +11,9 @@ En cas d'urgence, le chef de l'établissement peut faire procéder à la
 réintégration immédiate du détenu sauf à en rendre compte sans délai à ce
 magistrat.
 
-Conformément à l'article D. 117-2, le juge de l'application des peines prononce,
-le cas échéant, le retrait de la mesure lorsque celle-ci a été accordée par lui.
-Lorsqu'il s'agit d'une mesure mentionnée au sixième alinéa de l'article 722, ce
-retrait ne peut être prononcé qu'à l'issue du débat contradictoire prévu par cet
-article, qui doit intervenir dans les huit jours à compter de la réintégration
-du détenu.
+Le juge d'application des peines doit alors statuer dans un délai de dix jours à
+compter de la réintégration du détenu sur l'éventuel retrait ou révocation de la
+mesure, conformément aux dispositions de l'article 712-6.
 
-Lorsque le régime de semi-liberté a été décidé par la juridiction de jugement,
-le tribunal de grande instance du lieu de détention prononce son retrait
-éventuel, sur rapport du juge de l'application des peines. Ce magistrat peut, si
-l'urgence l'exige, suspendre l'application de la semi-liberté. Dans ce cas, le
-tribunal doit statuer dans les cinq jours sur le maintien ou le retrait de ce
-régime.
+Les dispositions du présent article sont également applicables aux condamnés
+placés sous surveillance électronique.

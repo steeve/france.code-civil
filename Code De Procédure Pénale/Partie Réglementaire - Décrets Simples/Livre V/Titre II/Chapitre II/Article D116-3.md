@@ -1,7 +1,6 @@
 Article D116-3
 ----
-Pour le fonctionnement de son cabinet, le juge de l'application des peines est
-doté d'un secrétariat-greffe.
-
-Les fonctions de secrétaire et de greffier du juge de l'application des peines
-sont remplies par un greffier du tribunal de grande instance.
+Lorsque la durée d'incarcération restant à subir est inférieure à une année, le
+juge de l'application des peines prend en considération la totalité de cette
+durée pour apprécier le montant des réductions de peine supplémentaires
+susceptibles d'être octroyées.

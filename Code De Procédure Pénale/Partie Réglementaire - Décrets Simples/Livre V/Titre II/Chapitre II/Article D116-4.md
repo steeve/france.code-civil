@@ -1,14 +1,8 @@
 Article D116-4
 ----
-Pour l'application des dispositions du sixième alinéa de l'article 722 ou de
-celles de l'article 722-1, le condamné peut faire connaître au juge de
-l'application des peines le nom de l'avocat choisi par lui : le choix de
-l'avocat par le condamné détenu peut aussi résulter du courrier adressé à
-celui-ci par cette personne et le désignant pour assurer sa défense et dont une
-copie est remise par l'avocat au juge de l'application des peines. Le condamné
-peut également demander au juge de l'application des peines qu'il lui en soit
-désigné un d'office par le bâtonnier de l'ordre des avocats ; le bâtonnier est
-avisé de cette demande par tous moyens et sans délai. Cet avocat communique
-librement avec le condamné dans les conditions prévues par les articles D. 68 et
-D. 69. Le permis prévu par l'article D. 68 est délivré par le juge de
-l'application des peines ou son greffier.
+En cas de décision sur les réductions de peine supplémentaires au titre d'une
+fraction inférieure à un an suivi de l'inscription à la fiche pénale d'une ou de
+plusieurs condamnations permettant l'examen de ces réductions de peine sur une
+fraction annuelle, le juge de l'application des peines peut rapporter sa
+décision précédente et réexaminer la situation du condamné sur la fraction
+annuelle.

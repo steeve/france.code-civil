@@ -1,10 +1,10 @@
 Article D147-2
 ----
-La juridiction, qui, en application, selon les cas, du sixième alinéa de
-l'article 722 ou de l'article 722-1, accorde cette suspension de peine, peut
-prévoir que le condamné sera soumis à une ou plusieurs des obligations
-suivantes, destinées notamment à permettre de vérifier que les conditions
-prévues par le premier alinéa de l'article 720-1-1 demeurent remplies :
+La juridiction, qui, en application, selon les cas, des articles 712-6, 712-7 ou
+712-13, accorde cette suspension de peine, peut prévoir que le condamné sera
+soumis à l'une ou plusieurs des obligations suivantes, destinées notamment à
+permettre de vérifier que les conditions prévues par le premier alinéa de
+l'article 720-1-1 demeurent remplies :
 
 1° Etablir sa résidence ou être hospitalisé dans un lieu ou un établissement
 déterminé par la juridiction ;
@@ -36,3 +36,7 @@ victimes de l'infraction pour laquelle il est condamné ;
 l'article 706-47, s'abstenir de fréquenter ou d'entrer en relation avec
 certaines personnes ou certaines catégories de personnes et notamment des
 mineurs, à l'exception, le cas échéant, de ceux désignés par la décision.
+
+La juridiction peut également ordonner que le condamné sera soumis à l'une ou
+plusieurs des obligations ou interdictions mentionnées à l'article 132-45 du
+code pénal.
