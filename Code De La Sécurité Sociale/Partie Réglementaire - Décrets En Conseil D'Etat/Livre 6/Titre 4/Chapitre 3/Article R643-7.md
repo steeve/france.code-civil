@@ -1,21 +1,13 @@
 Article R643-7
 ----
-Les assurés peuvent recevoir à partir de l'âge de soixante ans et dans les
-conditions fixées à l'article L. 643-5 une allocation de vieillesse calculée
-conformément aux articles R. 643-10 à R. 643-15 et affectée des coefficients
-d'anticipation déterminés comme suit [*montant*] :
+La réduction prévu au troisième alinéa du I de l'article L. 643-3 est fonction,
+soit du nombre de trimestres correspondant à la durée séparant l'âge auquel la
+pension de retraite prend effet du soixante-cinquième anniversaire, soit du
+nombre de trimestres supplémentaires qui serait nécessaire, à la date d'effet de
+la pension de retraite, pour relever du deuxième alinéa du I de l'article L.
+643-3. Le nombre de trimestres correspondant est éventuellement arrondi au
+chiffre immédiatement supérieur. Le plus petit de ces deux nombres est pris en
+considération.
 
-1°) 0,75 si l'allocation est attribuée lorsque l'assuré est âgé de soixante ans
-;
-
-2°) 0,80 si l'allocation est attribuée lorsque l'assuré est âgé de soixante et
-un ans ;
-
-3°) 0,85 si l'allocation est attribuée lorsque l'assuré est âgé de soixante-deux
-ans ;
-
-4°) 0,90 si l'allocation est attribuée lorsque l'assuré est âgé de
-soixante-trois ans ;
-
-5°) 0,95 si l'allocation est attribuée lorsque l'assuré est âgé de
-soixante-quatre ans.
+Le coefficient de minoration est égal à 1,25 % par trimestre manquant dans la
+limite de vingt trimestres.

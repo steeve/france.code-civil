@@ -1,6 +1,12 @@
 Article R641-16
 ----
-Les affiliés d'une section professionnelle peuvent être, si les statuts de la
-section le décident, répartis en collèges distincts si la section est composée
-de membres de professions différentes ou si les membres d'une même profession
-désirent être répartis en collèges territoriaux.
+Les statuts peuvent prévoir soit le vote en assemblée générale, soit le vote par
+correspondance, soit l'un et l'autre à la fois.
+
+Le vote est secret.
+
+Le vote par procuration est interdit.
+
+Lorsque les affiliés d'une section sont répartis en collèges professionnels ou
+territoriaux distincts, chaque collège ne vote que pour ses propres candidats,
+tant titulaires que suppléants.

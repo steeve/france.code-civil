@@ -1,4 +1,5 @@
 Article R641-20
 ----
-Des membres suppléants, en nombre égal à celui des membres titulaires, sont élus
-en même temps et dans les mêmes conditions que ceux-ci.
+Les conseils d'administration sont renouvelés en entier lorsque le nombre de
+leurs membres élus directement titulaires devient, en cours de mandat, inférieur
+à la moitié du nombre des membres composant le conseil en vertu des statuts.

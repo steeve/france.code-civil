@@ -1,33 +1,16 @@
 Article R641-6
 ----
-Il est institué 12 sections professionnelles :
+L'agent comptable est placé sous l'autorité administrative du directeur. Il est
+chargé, sous sa propre responsabilité et sous le contrôle du ou des conseils
+d'administration, de l'exécution des opérations financières de la section ou du
+groupe des sections.
 
-1°) la section professionnelle des notaires ;
+Les conditions dans lesquelles sa responsabilité pécuniaire peut être mise en
+jeu sont définies par décret. Aucune sanction ne peut être prise contre lui s'il
+justifie avoir agi en conformité des dispositions dudit décret. Sa gestion est
+garantie par un cautionnement dont le montant minimum est fixé dans les
+conditions déterminées par arrêté des ministres chargés de la sécurité sociale
+et du budget.
 
-2°) la section professionnelle des officiers ministériels, officiers publics et
-des compagnies judiciaires réunissant : les avoués près les cours d'appel, les
-huissiers de justice, les commissaires-priseurs, les syndics et administrateurs
-judiciaires, les greffiers titulaires de charges, les arbitres près le tribunal
-de commerce, les prestataires de services d'investissement ;
-
-3°) la section professionnelle des médecins ;
-
-4°) la section professionnelle des chirurgiens-dentistes ;
-
-5°) la section professionnelle des pharmaciens ;
-
-6°) la section professionnelle des sages-femmes ;
-
-7°) la section professionnelle des auxiliaires médicaux ;
-
-8°) la section professionnelle des vétérinaires ;
-
-9°) la section professionnelle des artistes auteurs ne relevant pas de l'article
-L. 382-1, des professeurs de musique et des musiciens ;
-
-10°) la section professionnelle des agents généraux d'assurances ;
-
-11° La section professionnelle des architectes, agréés en architecture,
-ingénieurs, techniciens, géomètres, experts et conseils ;
-
-12°) la section professionnelle des experts-comptables et des comptables agréés.
+Le compte financier de chaque organisme est établi par l'agent comptable et
+présenté au conseil d'administration.

@@ -1,11 +1,8 @@
 Article R641-13
 ----
-Les articles R. 641-14 à R. 641-28 déterminent les règles communes à l'élection
-des membres des conseils d'administration des différentes caisses, dites
-sections professionnelles, de l'organisation autonome d'assurance vieillesse des
-professions libérales.
+Les statuts de chaque section professionnelle fixent la composition de son
+conseil d'administration et le nombre des membres titulaires de ce conseil.
 
-Les modalités, particulières à chaque section professionnelle, concernant
-l'élection de ses administrateurs par l'ensemble de ses affiliés et
-éventuellement de ses allocataires, sont fixées par les statuts respectifs des
-sections.
+Lorsque les affiliés d'une section sont répartis en collèges professionnels ou
+territoriaux distincts, le conseil d'administration comprend au moins un
+administrateur pour chacun de ces collèges.

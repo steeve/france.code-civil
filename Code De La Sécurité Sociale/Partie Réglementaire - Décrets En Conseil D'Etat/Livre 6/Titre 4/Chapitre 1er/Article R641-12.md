@@ -1,20 +1,9 @@
 Article R641-12
 ----
-Toute demande d'agrément d'un agent auquel une section professionnelle désire
-confier le contrôle de l'application de la loi doit être formulée par le
-président du conseil d'administration de la section professionnelle intéressée
-et adressée au ministre chargé de la sécurité sociale par l'intermédiaire du
-commissaire de la République de région.
+Sont éligibles tous les électeurs ayant, dans leur profession, le nombre
+d'années de cotisations requis pour l'éligibilité par les statuts de la section,
+sans que ce nombre puisse être inférieur à cinq.
 
-Ce dernier fait procéder à une enquête portant notamment sur les antécédents, la
-moralité et les capacités professionnelles du candidat. Il transmet ensuite la
-demande avec les résultats de l'enquête et son avis motivé au ministre chargé de
-la sécurité sociale qui accorde ou refuse l'agrément.
-
-La décision du ministre chargé de la sécurité sociale est notifiée au conseil
-d'administration de la section professionnelle par l'intermédiaire du
-commissaire de la République de région.
-
-Un arrêté du ministre chargé de la sécurité sociale fixe la liste des pièces à
-joindre à l'appui de toute demande d'agrément d'un agent auquel la section
-professionnelle désire confier le contrôle de l'application de la loi.
+Les statuts des sections professionnelles fixent les conditions dans lesquelles
+sont éventuellement éligibles les électeurs affiliés exonérés de cotisations et
+les allocataires.

@@ -1,7 +1,6 @@
 Article R643-11
 ----
-Lorsque les périodes d'assurance définies à l'article R. 643-12 sont inférieures
-à quinze années et que le total de ces périodes et des périodes d'exercice
-définies à l'article R. 643-13 atteint au moins quinze années, l'allocation
-vieillesse qui est versée est égale à l'allocation aux vieux travailleurs
-salariés [*montant*].
+Lorsqu'une personne a exercé successivement plusieurs professions libérales
+relevant de sections professionnelles distinctes, ses droits à l'assurance
+vieillesse de base sont liquidés par la section professionnelle à laquelle elle
+a été affiliée en dernier lieu.

@@ -1,4 +1,4 @@
 Article R641-14
 ----
-La préparation des élections et les opérations électorales sont effectuées à la
-diligence du conseil d'administration de chaque section professionnelle.
+Des membres suppléants, en nombre égal à celui des membres titulaires, sont élus
+en même temps et dans les mêmes conditions que ceux-ci.

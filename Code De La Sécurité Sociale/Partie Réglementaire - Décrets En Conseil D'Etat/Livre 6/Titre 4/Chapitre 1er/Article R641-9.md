@@ -1,14 +1,10 @@
 Article R641-9
 ----
-Le conseil d'administration ou les conseils d'administration, lorsqu'il s'agit
-d'un groupe, nomment le directeur et l'agent comptable et mettent fin à leurs
-fonctions.
+Ne peuvent être électeurs en qualité de cotisants que les affiliés régulièrement
+inscrits à la section professionnelle dont ils relèvent et à jour de leurs
+cotisations, ces conditions s'appréciant au 31 décembre précédant l'année au
+cours de laquelle a lieu l'élection.
 
-Les fonctions de directeur et d'agent comptable ne peuvent être confiées qu'à
-des Français majeurs, de l'un ou l'autre sexe, jouissant de leurs droits civils
-et civiques et n'ayant pas fait l'objet de condamnations ou de sanctions prévues
-à l'article 1er de la loi n° 47-1635 du 30 août 1947.
-
-Les fonctions d'agent comptable ne peuvent en outre être confiées qu'à des
-personnes titulaires d'un diplôme de comptable reconnu par l'Etat ou justifiant
-d'une expérience d'au moins cinq ans dans les fonctions de comptable.
+Les statuts des sections professionnelles fixent les conditions dans lesquelles
+sont éventuellement électeurs les affiliés exonérés de cotisations et les
+allocataires.

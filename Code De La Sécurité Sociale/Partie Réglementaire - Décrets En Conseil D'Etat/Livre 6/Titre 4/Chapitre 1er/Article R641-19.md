@@ -1,8 +1,7 @@
 Article R641-19
 ----
-Les statuts de chaque section professionnelle fixent la composition de son
-conseil d'administration et le nombre des membres titulaires de ce conseil.
-
-Lorsque les affiliés d'une section sont répartis en collèges professionnels ou
-territoriaux distincts, le conseil d'administration comprend au moins un
-administrateur pour chacun de ces collèges .
+Les statuts des sections professionnelles peuvent prévoir que les conseils
+d'administration sont renouvelables par moitié tous les trois ans. Dans ce cas,
+les membres qui ne restent en fonction que pendant la première période de trois
+ans sont soit volontaires, soit, en l'absence de volontaires, désignés par voie
+de tirage au sort.
