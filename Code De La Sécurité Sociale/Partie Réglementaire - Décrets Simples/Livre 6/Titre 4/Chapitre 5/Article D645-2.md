@@ -9,7 +9,7 @@ en cause du tarif de la consultation du médecin omnipraticien tel qu'il résult
 de la convention nationale des médecins et de ses avenants dans les conditions
 prévues aux articles L. 162-5 et L. 162-6 ;
 
-2°) pour les chirurgiens-dentistes, à treize fois la valeur, au 1er janvier de
+2°) pour les chirurgiens-dentistes, à 46,33 fois la valeur, au 1er janvier de
 l'année en cause, du tarif conventionnel de la lettre-clé C fixé dans les
 conditions prévues par l'article L. 162-9 ;
 
