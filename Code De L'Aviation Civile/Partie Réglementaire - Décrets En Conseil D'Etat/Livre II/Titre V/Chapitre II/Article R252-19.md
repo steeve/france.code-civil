@@ -12,3 +12,7 @@ désaccord entre le directeur général et un chef de service dépendant d'un au
 département ministériel que celui de l'équipement il en est référé au ministre
 intéressé par ce fonctionnaire et au ministre chargé de l'aviation civile, par
 le directeur général.
+
+Pour l'exercice de ses fonctions telles que définies au présent article, le
+directeur général peut déléguer sa signature aux fonctionnaires de l'Etat qui
+lui sont subordonnés.

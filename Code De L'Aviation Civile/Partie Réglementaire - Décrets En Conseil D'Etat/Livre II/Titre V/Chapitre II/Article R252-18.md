@@ -20,3 +20,6 @@ Les fonctionnaires de l'Etat et des collectivités publiques peuvent être mis �
 la disposition de l'aéroport suivant la réglementation en vigueur dans leurs
 corps. Ils peuvent toujours être remis à la disposition de leur administration,
 sans que cette mesure ait un caractère disciplinaire.
+
+Pour l'exercice de ses fonctions telles que définies au présent article, le
+directeur général peut déléguer sa signature.

@@ -46,22 +46,25 @@ l'aéroport est autorisé à émettre.
 
 Il décide la mise à la disposition des usagers, sous le régime de l'occupation
 temporaire du domaine public, des terrains, ouvrages et installations de
-l'aéroport, sous réserve de l'approbation du contrôleur d'Etat et du commissaire
-du Gouvernement lorsque l'occupation temporaire est prévue pour une durée
-supérieure à cinq ans. Il décide, sous la même réserve, la délivrance des titres
-d'occupation du domaine public de l'Etat mentionnés à l'article R. 253-5,
-troisième alinéa.
+l'aéroport. Il décide également la délivrance des titres d'occupation du domaine
+public de l'Etat mentionnés au troisième alinéa de l'article R. 253-5. Un arrêté
+conjoint du ministre chargé de l'aviation civile et du ministre chargé du
+domaine fixe les cas dans lesquels, compte tenu de l'importance ou de la durée
+de l'occupation, l'accord préalable du contrôleur d'Etat ou de l'inspecteur
+général d'Aéroports de Paris est requis.
 
 Il présente au ministre chargé de l'aviation civile ses propositions concernant
-les conditions d'établissement et de perception des redevances mentionnées au
-paragraphe A de l'article R. 224-2 et fixe le taux de ces redevances dans les
-conditions prévues au paragraphe B du même article. Il fixe les modalités
-d'établissement et de perception ainsi que les taux des redevances mentionnées à
-l'article R. 224-3 dans les conditions prévues audit article.
+les conditions d'établissement et de perception des redevances mentionnées au I
+de l'article R. 224-2 et fixe le taux de ces redevances dans les conditions
+prévues au C du II du même article. Il fixe les modalités d'établissement et de
+perception ainsi que les taux des redevances mentionnées à l'article R. 224-3
+dans les conditions prévues audit article.
 
 Il présente au ministre chargé de l'aviation civile et au ministre de l'économie
 et des finances ses propositions concernant les participations financières et
 les concessions d'affermages qu'il peut avoir intérêt à autoriser ainsi que la
 création de filiales.
 
-Il peut déléguer une partie de ses attributions à son président.
+La délibération précise dans quelles matières et dans quelles conditions le
+président peut déléguer sa signature au directeur général pour l'exercice
+desdites attributions.
