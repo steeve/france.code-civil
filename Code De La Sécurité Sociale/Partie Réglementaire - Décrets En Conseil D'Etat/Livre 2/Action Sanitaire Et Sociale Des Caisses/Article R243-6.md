@@ -19,9 +19,8 @@ neuf salariés dans les quinze premiers jours du même mois ;
 
 3°) les cotisations dues à raison des rémunérations payées après le dixième jour
 d'un mois civil sont versées le mois civil suivant, dans les cinq premiers jours
-par les employeurs occupant quatre cents salariés et plus, dans les quinze
-premiers jours par les employeurs occupant plus de neuf et moins de quatre cents
-salariés.
+par les employeurs occupant cinquante salariés et plus, dans les quinze premiers
+jours par les employeurs occupant plus de neuf et moins de cinquante salariés.
 
 Pour déterminer la date et la périodicité de versement des cotisations, les
 effectifs des salariés sont calculés au 31 décembre de chaque année [*date*], en
