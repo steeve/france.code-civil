@@ -20,8 +20,9 @@ municipaux ;
 7° les directeurs et les chefs de bureau de préfecture et les secrétaires en
 chef de sous-préfecture ;
 
-7° bis les directeurs généraux, les directeurs, directeurs adjoints, chefs de
-service et chefs de bureau de conseil général et de conseil régional ;
+7° bis les membres du cabinet du président du conseil général et du président du
+conseil régional, les directeurs généraux, les directeurs, directeurs adjoints,
+chefs de service et chefs de bureau de conseil général et de conseil régional ;
 
 8° en tant que chargés d'une circonscription territoriale de voirie : les
 ingénieurs en chef, ingénieurs en chef adjoints et ingénieurs des ponts et

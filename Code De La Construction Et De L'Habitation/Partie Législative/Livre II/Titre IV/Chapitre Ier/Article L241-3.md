@@ -1,15 +1,15 @@
 Article L241-3
 ----
-Ne peuvent participer [*interdiction*] , en droit ou en fait, directement ou par
-personne interposée, à la fondation ou à la gestion des sociétés [*de
-construction*] régies par le titre Ier du présent livre ou d'une société de
-promotion immobilière ni à la conclusion d'un contrat de promotion immobilière
-ou d'un contrat [*de construction d'une maison individuelle*] régi par les
-articles L. 231-1 et L. 231-2 les personnes ayant fait l'objet de l'une des
-condamnations énumérées à l'article 1er de la loi n. 47-1435 du 30 août 1947
-relative à l'assainissement des professions commerciales et industrielles ou
-d'une condamnation à une peine d'emprisonnement avec ou sans sursis pour l'une
-des infractions ci-après :
+Ne peuvent participer, en droit ou en fait, directement ou par personne
+interposée, à la fondation ou à la gestion des sociétés régies par le titre Ier
+du présent livre, d'une société régie par la loi n° 86-18 du 6 janvier 1986
+relative aux sociétés d'attribution d'immeubles en jouissance à temps partagé ou
+d'une société de promotion immobilière ni à la conclusion d'un contrat de
+promotion immobilière ou d'un contrat régi par les articles L. 231-1 et L. 231-2
+les personnes ayant fait l'objet de l'une des condamnations énumérées à
+l'article 1er de la loi n° 47-1435 du 30 août 1947 relative à l'assainissement
+des professions commerciales et industrielles ou d'une condamnation à une peine
+d'emprisonnement avec ou sans sursis pour l'une des infractions ci-après :
 
 1. Faux et usage de faux en écriture privée, de commerce ou de banque, faux
 prévu par les articles 153 et 154 du code pénal ;
@@ -19,7 +19,7 @@ valeurs ou signatures, délits punis des peines de l'escroquerie, de l'abus de
 confiance ou de la banqueroute ;
 
 3. Emission de mauvaise foi de chèque sans provision, usure et délit réprimé par
-l'article 15 de la loi n. 66-1010 du 28 décembre 1966 relative à l'usure, aux
+l'article 15 de la loi n° 66-1010 du 28 décembre 1966 relative à l'usure, aux
 prêts d'argent et à certaines opérations de démarchage et de publicité ;
 
 4. Soustraction commise par dépositaire public, concussion commise par
@@ -35,7 +35,7 @@ entreprises privées, communication de secrets de fabrique ;
 8. Délits prévus par les articles 423, 425, 432, 433, 434, 435, 437, 449 et 457
 de la loi n. 66-537 du 24 juillet 1966 sur les sociétés commerciales ;
 
-9. Délit prévu par l'article 13 de la loi n. 52-332 du 24 mars 1952 relative aux
+9. Délit prévu par l'article 13 de la loi n° 52-332 du 24 mars 1952 relative aux
 entreprises de crédit différé ;
 
 10. Délit prévu par l'article 21 de la loi du 13 juin 1941 sur l'exercice de la
@@ -43,9 +43,9 @@ profession bancaire, délit prévu par le deuxième alinéa de l'article 6 de la
 du 14 juin 1941 relative à la réglementation et à l'organisation des professions
 se rattachant à la profession de banquier ;
 
-11. Délit prévu par l'article 4 de la loi n. 60-580 du 21 juin 1960 interdisant
+11. Délit prévu par l'article 4 de la loi n° 60-580 du 21 juin 1960 interdisant
 certaines pratiques en matière de transactions portant sur des immeubles et des
-fonds de commerce, et par les articles 16, 17 et 18 de la loi n. 70-9 du 2
+fonds de commerce, et par les articles 16, 17 et 18 de la loi n° 70-9 du 2
 janvier 1970 réglementant les conditions d'exercice des activités relatives à
 certaines opérations portant sur les immeubles et les fonds de commerce ;
 

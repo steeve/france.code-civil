@@ -1,25 +1,22 @@
 Article 138
 ----
-Les bureaux d'aide sociale sont gérés par des commissions administratives.
+Le centre d'action sociale constitue un établissement public communal ou
+intercommunal. Il est administré par un conseil d'administration, présidé par le
+maire ou, le cas échéant, par le président du syndicat intercommunal. Le conseil
+d'administration, lorsqu'il est constitué, élit en son sein un vice-président
+qui le préside en l'absence du maire ou du président du syndicat intercommunal,
+nonobstant les dispositions de l'article L. 122-13 du code des communes.
 
-Ces commissions sont présidées par le maire ou son suppléant dans les conditions
-prévues par l'article 84 de la loi du 5 avril 1884 [*code de l'administration
-communale art. 66*] ou, le cas échéant, par le président du syndicat de
-communes. Elles comprennent, en outre, des membres renouvelables, les uns élus
-par le conseil municipal ou le comité syndical, les autres nommés par le préfet
-ou le sous-préfet parmi les personnes s'occupant d'oeuvres ou d'activités
-sociales dans la commune ou le syndicat de communes considéré.
+Le conseil d'administration comprend, outre son président, en nombre égal, des
+membres élus en son sein à la représentation proportionnelle, dans des
+conditions fixées par voie réglementaire, par le conseil municipal ou le comité
+syndical et des membres nommés par le maire ou le président du syndicat
+intercommunal parmi les personnes participant à des actions de prévention,
+d'animation ou de développement social menées dans la commune ou les communes
+considérées.
 
-Au nombre des membres nommés par le préfet ou le sous-préfet doit figurer,
-partout où il en existe, un représentant des associations familiales présenté
-par l'union départementale des associations familiales.
-
-Un règlement d'administration publique détermine :
-
-Le nombre des membres élus ou nommés selon l'importance de la population ;
-
-Les conditions d'élection ou de nomination, de durée des fonctions, de
-révocation de ces membres ;
-
-Les conditions dans lesquelles les bureaux d'aide sociale tiennent un fichier
-des personnes secourues ou assistées de la commune ou du syndicat de communes.
+Au nombre des membres nommés doivent figurer un représentant des associations
+familiales désigné sur proposition de l'union départementale des associations
+familiales, un représentant des associations de retraités et de personnes âgées
+du département et un représentant des associations de personnes handicapées du
+département.

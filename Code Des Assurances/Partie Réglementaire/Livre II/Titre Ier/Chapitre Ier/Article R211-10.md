@@ -23,4 +23,6 @@ L'exclusion prévue au 1° du premier alinéa du présent article ne peut être
 opposée au conducteur détenteur d'un certificat déclaré à l'assureur lors de la
 souscription ou du renouvellement du contrat, lorsque ce certificat est sans
 validité pour des raisons tenant au lieu ou à la durée de résidence de son
-titulaire.
+titulaire ou lorsque les conditions restrictives d'utilisation, autres que
+celles relatives aux catégories de véhicules, portées sur celui-ci n'ont pas été
+respectées.
