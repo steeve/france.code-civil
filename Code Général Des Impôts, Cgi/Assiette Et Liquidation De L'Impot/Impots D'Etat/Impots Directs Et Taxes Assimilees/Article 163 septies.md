@@ -20,8 +20,8 @@ taux prévu à l'article 1728.
 
 Les dispositions du deuxième alinéa ne s'appliquent pas en cas de licenciement,
 d'invalidité correspondant au classement dans la deuxième ou la troisième des
-catégories prévues à l'article L. 310 du code de la sécurité sociale ou de décès
-du contribuable ou de l'un des époux soumis à une imposition commune.
+catégories prévues à l'article L. 341-4 du code de la sécurité sociale ou de
+décès du contribuable ou de l'un des époux soumis à une imposition commune.
 
 Pour l'application du présent article, les rachats d'actions de SICAV sont
 considérés comme des cessions à titre onéreux.

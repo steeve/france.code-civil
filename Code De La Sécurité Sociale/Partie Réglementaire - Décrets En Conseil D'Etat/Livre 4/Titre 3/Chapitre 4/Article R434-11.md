@@ -1,0 +1,21 @@
+Article R434-11
+----
+La fraction de salaire annuel de la victime, qui sert de base à la rente du
+conjoint survivant, prévue au premier alinéa de l'article L. 434-8 est fixée à
+30 p. 100. La durée du mariage prévue au même alinéa est de deux ans.
+
+La fraction du salaire annuel de la victime qui sert de base à la rente viagère
+prévue au deuxième alinéa de l'article L. 434-8 est fixée à 20 p. 100. Le
+minimum de la rente viagère institué en faveur du nouveau conjoint de la victime
+ne peut être inférieur à la moitié de la rente de 30 p. 100.
+
+La fraction du salaire annuel de la victime qui sert de base au complément de
+rente prévu en faveur du conjoint survivant par le cinquième alinéa de l'article
+L. 434-8 est fixée à 20 p. 100. L'âge minimum que doit avoir ce dernier est de
+cinquante-cinq ans. Le pourcentage minimal de l'incapacité de travail générale
+prévue au même alinéa est fixé à 50 p. 100 ; sa durée minimale est fixée à trois
+mois.
+
+Est reconnu atteint d'une incapacité de travail générale d'au moins 50 p. 100 le
+conjoint survivant qui se trouve hors d'état de se procurer, dans une profession
+quelconque, un gain supérieur à la moitié du salaire minimum de croissance.

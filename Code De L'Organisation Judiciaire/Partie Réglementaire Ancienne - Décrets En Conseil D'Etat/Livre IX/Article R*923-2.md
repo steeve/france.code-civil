@@ -1,6 +1,6 @@
 Article R*923-2
 ----
-Ainsi qu'il est dit à l'article 6 du décret n° 59-351 du 27 février 1959, "les
-fonctions de secrétaire de la commission de première instance de sécurité
-sociale sont assumées par un fonctionnaire en activité ou en retraite de la
-direction départementale".
+Ainsi qu'il est dit à l'alinéa 2 de l'article R. 752-14 du code de la sécurité
+sociale, "les fonctions de secrétaire du tribunal des affaires de sécurité
+sociale sont assumées, dans le même département, par un fonctionnaire en
+activité ou honoraire de la direction départementale".

@@ -12,8 +12,8 @@ Des cotisations obligatoires dues à des organismes de sécurité sociale ou à 
 institutions sociales ;
 
 Le cas échéant, des remboursements qui peuvent incomber aux employeurs à l'égard
-de ces organismes et institutions dans les conditions prévues à l'article L. 160
-du code de la sécurité sociale.
+de ces organismes et institutions dans les conditions prévues à l'article L.
+244-8 du code de la sécurité sociale.
 
 En cas d'insuffisance de la caution, l'utilisateur est substitué à
 l'entrepreneur de travail temporaire pour le paiement des sommes qui restent

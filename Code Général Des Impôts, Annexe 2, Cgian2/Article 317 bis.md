@@ -35,17 +35,16 @@ mer, des caisses d'allocations familiales, des unions ou fédérations de caisse
 des caisses départementales de mutualité sociale agricole, des caisses centrales
 de secours mutuels agricoles et d'allocations familiales mutuelles agricoles, de
 la caisse nationale d'assurance vieillesse agricole, des services et organismes
-gérant des régimes spéciaux prévus à l'article L 3 du code de la sécurité
-sociale, des institutions de prévoyance prévues à l'article L 4 du code de la
-sécurité sociale, des caisses constituées pour l'application du livre VIII du
-code de la sécurité sociale concernant le régime d'assurance vieillesse des
-travailleurs non salariés et de l'article 12 de la loi n° 66-509 du 12 juillet
-1966 relative à l'assurance maladie maternité des travailleurs non salariés des
-professions non agricoles;
+gérant des régimes spéciaux prévus à l'article L 711-1 du code de la sécurité
+sociale, des institutions de prévoyance prévues à l'article L 731-1 du même
+code, des caisses constituées pour l'application des titres II, III, IV du livre
+VI du même code, concernant le régime d'assurance vieillesse des travailleurs
+non salariés et de l'article L 611-1 du même code, relatif à l'assurance maladie
+maternité des travailleurs non salariés des professions non agricoles;
 
-Des sociétés mutualistes, des unions de sociétés mutualistes ou des fédérations
-d'unions de telles sociétés, dont les statuts ont été approuvés dans les
-conditions prévues à l'article 4 du code de la mutualité;
+Des mutuelles, des unions de mutuelles ou des fédérations d'union de mutuelles,
+dont les statuts ont été approuvés dans les conditions prévues à l'article L
+122-5 du code de la mutualité.
 
 3° Les constructions édifiées par les établissements publics du culte dans les
 départements du Bas-Rhin, du Haut-Rhin ou de la Moselle;
