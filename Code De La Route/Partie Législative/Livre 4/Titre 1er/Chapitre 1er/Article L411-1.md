@@ -30,18 +30,31 @@ diverses catégories d'usagers ou de véhicules ;
 catégories d'entre eux, ainsi que la desserte des immeubles riverains ;
 
 3° Réserver sur la voie publique ou dans tout autre lieu de stationnement ouvert
-au public des emplacements de stationnement aménagés aux véhicules arborant l'un
-ou l'autre des macarons grand invalide civil (GIC) ou grand invalide de guerre
-(GIG)."
+au public des emplacements de stationnement aménagés aux véhicules utilisés par
+les personnes titulaires de la carte de stationnement prévue à l'article L.
+241-3-2 du code de l'action sociale et des familles. Il peut délivrer des
+autorisations de stationnement, donnant droit à l'usage de ces emplacements sur
+le territoire communal, aux personnes titulaires de la carte Station debout
+pénible prévue à l'article L. 241-3-1 du même code. Le stationnement sans
+autorisation d'un véhicule sur ces emplacements réservés est considéré comme
+gênant.
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent
+article.
 
 "Art. L. 2213-3. - Le maire peut, par arrêté motivé :
 
 1° Instituer, à titre permanent ou provisoire, pour les véhicules affectés à un
-service public et pour les besoins exclusifs de ce service, des stationnements
-réservés sur les voies publiques de l'agglomération ;
+service public et pour les besoins exclusifs de ce service et, dans le cadre de
+leurs missions, pour les véhicules de transport de fonds, de bijoux ou de métaux
+précieux, des stationnements réservés sur les voies publiques de l'agglomération
+;
 
 2° Réserver des emplacements sur ces mêmes voies pour faciliter la circulation
-et le stationnement des transports publics de voyageurs et des taxis."
+et le stationnement des transports publics de voyageurs et des taxis ainsi que
+des véhicules de transport de fonds, de bijoux ou de métaux précieux, dans le
+cadre de leurs missions et l'arrêt des véhicules effectuant un chargement ou un
+déchargement de marchandises.
 
 "Art. L. 2213-4. - Le maire peut, par arrêté motivé, interdire l'accès de
 certaines voies ou de certaines portions de voies ou de certains secteurs de la
