@@ -1,51 +1,48 @@
 Article 278 bis
 ----
-La taxe sur la valeur ajoutée est perçue au taux réduit de 5,50 % en ce qui
-concerne les opérations d'achat, d'importation, de vente, de livraison, de
-commission, de courtage ou de façon portant sur les produits suivants :
+La taxe sur la valeur ajoutée [*TVA*] est perçue au taux réduit de 5,50 p. 100
+en ce qui concerne les opérations d'achat, d'importation, de vente, de
+livraison, de commission, de courtage ou de façon portant sur les produits
+suivants :
 
-1° Eau et boissons non alcooliques (1) ;
+1° Eau et boissons non alcooliques ;
 
-2° Lait livré pour l'alimentation, soit à l'état naturel, pasteurisé ou
-homogénéisé, soit à l'état concentré sucré ou non sucré, soit en poudre sucré ou
-non sucré, laits aromatisés ou fermentés ou les deux à la fois, yaourts ou
-yoghourts, crème de lait ;
+2° Produits destinés à l'alimentation humaine à l'exception :
 
-3° Huiles fluides alimentaires, graines, fruits oléagineux et huiles végétales
-utilisés pour la fabrication des huiles fluides alimentaires ;
+a) Des produits de confiserie ;
 
-4° Vinaigres comestibles, ainsi que les vins et alcools utilisés pour la
-fabrication de ces vinaigres ;
+b) Des chocolats et de tous produits composés contenant du chocolat ou du cacao.
+Toutefois le chocolat, le chocolat de ménage, le chocolat de ménage au lait, les
+fèves de cacao et le beurre de cacao sont admis au taux réduit ;
 
-5° Chocolat, chocolat de ménage, chocolat de ménage au lait (2), fèves de cacao
-et beurre de cacao ;
+c) Des margarines et graisses végétales ;
 
-6° Cafés, thés, chicorées, succédanés et mélanges de ces produits ;
+d) Du caviar ;
 
-7° Pâtisserie fraîche dont la définition est fixée par arrêté ministériel (3) ;
-
-8° Farines composées pour enfants, petits déjeuners en poudre, entremets et
-desserts à préparer même s'ils contiennent du chocolat ou du cacao ;
-
-9° Sucre ;
-
-10° Confitures, purées, gelées et marmelades ; pulpes et jus de fruits destinés
-à la confiturerie ;
-
-11° Produits alimentaires non soumis expressément à un autre taux ;
-
-12° Produits d'origine agricole, de la pêche, de la pisciculture et de
-l'aviculture n'ayant subi aucune transformation à l'exception des produits de
+3° Produits d'origine agricole, de la pêche, de la pisciculture et de
+l'aviculture n'ayant subi aucune transformation, à l'exception des produits de
 l'horticulture et de la sylviculture qui ne constituent ni des semences ni des
 plants d'essences ligneuses forestières pouvant être utilisées pour le
-reboisement et les plantations d'alignement (4).
+reboisement et les plantations d'alignement ;
 
-(1) Pour les boissons non alcooliques, taux applicable à compter du 8 juillet
-1988.
+4° Aliments simples ou composés utilisés pour la nourriture du bétail, des
+animaux de basse-cour, des poissons d'élevage destinés à la consommation humaine
+et des abeilles, ainsi que les produits entrant dans la composition de ces
+aliments et dont la liste est fixée par arrêté du ministre de l'économie et des
+finances pris après avis des professions intéressées ;
 
-(2) La dénomination et la définition de ces produits ont été données par le
-titre Ier de l'annexe au décret n° 76-692 du 13 juillet 1976 (JO du 25).
+5° Produits suivants à usage agricole :
 
-(3) Annexe IV, art. 30-0 A.
+a) Amendements calcaires ;
 
-(4) Cette disposition s'applique à compter du 1er août 1991.
+b) Engrais ;
+
+c) Soufre, sulfate de cuivre et grenaille utilisée pour la fabrication du
+sulfate de cuivre, ainsi que les produits cupriques contenant au minimum 10 p.
+100 de cuivre ;
+
+d) Produits antiparasitaires, sous réserve qu'ils aient fait l'objet soit d'une
+homologation, soit d'une autorisation de vente délivrée par le ministre chargé
+de l'agriculture ;
+
+6° Livres, y compris leur location.

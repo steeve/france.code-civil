@@ -34,3 +34,5 @@ Organisation de voyages et de séjours touristiques,
 Diffusion ou redistribution de programmes de radiodiffusion ou de télévision ;
 
 Télécommunications.
+
+"Fourniture d'eau dans les communes d'au moins 3.000 habitants" (nota).
