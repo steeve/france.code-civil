@@ -72,6 +72,13 @@ d'emploi. Ces contrats d'objectifs peuvent être annuels ou pluriannuels.
 Les chambres de métiers, les chambres de commerce et d'industrie et les chambres
 d'agriculture peuvent être associées aux contrats d'objectifs.
 
+L'Etat, la région ou la collectivité territoriale de Corse, les chambres
+consulaires, une ou plusieurs organisations représentatives d'employeurs et de
+salariés peuvent également conclure des contrats d'objectifs et de moyens visant
+au développement de l'apprentissage conformément à l'article L. 118-1 du code du
+travail. Ces contrats peuvent prendre la forme d'une annexe aux contrats visés à
+l'alinéa précédent.
+
 VI. - Dans le cadre de son plan régional de développement des formations
 professionnelles, chaque région arrête annuellement un programme régional
 d'apprentissage et de formation professionnelle continue, après avis du comité

@@ -10,7 +10,17 @@ une collectivité territoriale ou à un groupement de collectivités territorial
 sociaux, à des organismes à but non lucratif, à l'association agréée mentionnée
 à l'article 116 de la loi de finances pour 2002 (n° 2001-1275 du 28 décembre
 2001) ou aux sociétés civiles immobilières dont les parts sont détenues à au
-moins 99 % par cette association.
+moins 99 % par cette association. Elles peuvent également gérer, en qualité de
+syndics de copropriété et d'administrateurs de biens, après accord du maire de
+la commune d'implantation et dans les conditions fixées par l'article L. 442-11,
+des logements situés dans le périmètre défini pour une opération programmée
+d'amélioration de l'habitat visée à l'article L. 303-1 ainsi que les logements
+appartenant à des personnes privées et vacants depuis plus d'un an.
+
+Elles peuvent également réaliser des prestations de services pour le compte de
+syndicats de copropriétaires d'immeubles faisant l'objet d'un plan de sauvegarde
+en application de l'article L. 615-1 ou situés dans le périmètre défini pour une
+opération programmée d'amélioration de l'habitat visée à l'article L. 303-1.
 
 Elles ont également pour objet :
 
@@ -26,8 +36,8 @@ nature à favoriser une politique de développement social urbain telle que
 définie à l'article 1er de la loi n° 96-987 du 14 novembre 1996 relative à la
 mise en oeuvre du pacte de relance pour la ville ; dans ce cas, la convention
 peut inclure des actions d'insertion professionnelle et sociale en faveur des
-habitants des grands ensembles ou des quartiers d'habitat dégradé mentionnés au
-3 de l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour
+habitants des quartiers classés en zones urbaines sensibles, définies au 3 de
+l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour
 l'aménagement et le développement du territoire ;
 
 - de réaliser ou acquérir et améliorer, en complément de leur activité locative,
@@ -45,6 +55,13 @@ par leurs statuts, des personnes physiques et des sociétés de construction
 constituées en application du titre Ier du livre II pour la réalisation et la
 gestion d'immeubles, à usage d'habitation ou à usage professionnel et
 d'habitation ou destinés à cet usage, en accession à la propriété ;
+
+- de souscrire ou acquérir des parts de sociétés civiles immobilières ayant pour
+objet la réalisation d'immeubles d'habitation ou à usage professionnel et
+d'habitation destinés à des accédants dont les ressources n'excèdent pas des
+plafonds fixés par l'autorité administrative, d'être syndic de copropriétés
+d'immeubles ainsi réalisés et d'exercer les fonctions d'administrateur de biens
+pour les mêmes immeubles ;
 
 - de construire, acquérir, réaliser des travaux, gérer des immeubles à usage
 d'habitation ou à usage professionnel et d'habitation en vue de leur

@@ -27,5 +27,8 @@ prévues par l'article L. 122-28-1.
 
 Les salariés visés au présent article ne sont pas comptés dans les 2 p. 100 de
 travailleurs qui peuvent bénéficier simultanément du congé de formation prévu à
-l'article L. 930-1 du code du travail [*calcul du pourcentage d'absences
-simultanées*].
+l'article L. 930-1 du code du travail.
+
+Le salarié qui reprend son activité à l'issue du congé prévu à l'article L.
+122-28-1 a droit à un entretien avec son employeur en vue de son orientation
+professionnelle.

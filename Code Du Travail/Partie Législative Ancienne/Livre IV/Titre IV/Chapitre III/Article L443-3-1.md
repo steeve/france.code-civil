@@ -6,7 +6,7 @@ négociations sur un marché réglementé et qui :
 
 a) Ou bien emploient des salariés dont un tiers au moins a été recruté dans le
 cadre des contrats de travail visés à l'article L. 322-4-20 ou parmi des
-personnes mentionnées au premier alinéa de l'article L. 322-4-2 ou pouvant
+personnes mentionnées au premier alinéa du I de l'article L. 322-4-8 ou pouvant
 invoquer une décision les classant, en application de l'article L. 323-11, dans
 la catégorie correspondant aux handicaps graves ou les déclarant relever soit
 d'un atelier protégé, soit d'un centre d'aide par le travail ; dans le cas d'une

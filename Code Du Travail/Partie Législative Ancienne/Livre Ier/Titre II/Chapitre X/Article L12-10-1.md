@@ -9,12 +9,12 @@ droit privé à but non lucratif et les personnes morales de droit privé charg�
 de la gestion d'un service public, sont autorisés à recruter par un contrat de
 travail de droit privé, pour des activités d'adultes-relais, des personnes âgées
 d'au moins trente ans, sans emploi ou bénéficiant, sous réserve qu'il soit mis
-fin à ce contrat, soit d'un contrat emploi-solidarité prévu par l'article L.
-322-4-7, soit d'un contrat emploi consolidé prévu par l'article L. 322-4-8-1, et
-résidant en zone urbaine sensible au sens du 3 de l'article 42 de la loi n°
-95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du
-territoire ou, à titre dérogatoire, dans un autre territoire prioritaire des
-contrats de ville.
+fin à ce contrat, soit d'un contrat d'accompagnement dans l'emploi prévu par
+l'article L. 322-4-7, soit d'un contrat d'avenir prévu par l'article L.
+322-4-10, et résidant en zone urbaine sensible au sens du 3 de l'article 42 de
+la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le
+développement du territoire ou, à titre dérogatoire, dans un autre territoire
+prioritaire des contrats de ville.
 
 Les activités exercées par les personnes recrutées dans les conditions
 mentionnées à l'alinéa précédent visent à améliorer, dans les zones urbaines

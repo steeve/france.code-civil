@@ -7,5 +7,5 @@ travaux lorsqu'elle en prévoit, aux titulaires de baux en cours ou aux
 bénéficiaires du droit au maintien dans les lieux sans qu'il soit nécessaire de
 leur donner congé.
 
-Les dispositions de l'article L. 353-17 et de l'article L. 353-15-1 sont
-applicables aux logements mentionnés ci-dessus.
+Les dispositions de l'article L. 353-17 ainsi que des articles L. 353-15-1 et L.
+353-15-2 sont applicables aux logements mentionnés ci-dessus.

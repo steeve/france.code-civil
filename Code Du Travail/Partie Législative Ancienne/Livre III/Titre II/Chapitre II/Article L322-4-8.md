@@ -1,32 +1,66 @@
 Article L322-4-8
 ----
-Les contrats emploi-solidarité sont des contrats de travail de droit privé à
-durée déterminée et à temps partiel conclus en application des articles L. 122-2
-et L. 212-4-2 [*définition*].
+I. - Afin de faciliter l'insertion professionnelle des personnes sans emploi
+rencontrant des difficultés sociales et professionnelles d'accès à l'emploi,
+l'Etat peut conclure des conventions ouvrant droit au bénéfice de contrats de
+travail, appelés contrats initiative-emploi, avec les employeurs mentionnés à
+l'article L. 351-4 et aux 3° et 4° de l'article L. 351-12, les groupements
+d'employeurs mentionnés à l'article L. 127-1 qui organisent des parcours
+d'insertion et de qualification et les employeurs de pêche maritime non couverts
+par lesdits articles. Toutefois, les particuliers employeurs ne peuvent pas
+conclure de conventions au titre du présent article.
 
-Un décret en Conseil d'Etat fixe, en fonction de chaque catégorie de
-bénéficiaires, la durée maximale de travail hebdomadaire ainsi que les durées
-minimale et maximale du contrat. Il fixe, en outre, les conditions d'accueil, de
-suivi et de formation des bénéficiaires d'un contrat emploi-solidarité.
+Ces conventions peuvent prévoir des actions d'orientation, de formation
+professionnelle ou de validation des acquis de l'expérience ou des mesures
+d'accompagnement professionnel de nature à faciliter la réalisation du projet
+professionnel des bénéficiaires de contrats initiative-emploi.
 
-Par dérogation à l'article L. 122-2, les contrats emploi-solidarité peuvent être
-renouvelés. Les conditions de ce renouvellement ainsi que les bénéficiaires sont
-définis par le décret mentionné à l'alinéa précédent lorsqu'il n'a pas été
-conclu de conventions telles que définies à l'article L. 322-4-8-1 prévoyant
-leur embauche.
+Les règles relatives à la durée maximale de ces conventions et à celle des
+contrats conclus pour leur application ainsi que les règles relatives aux
+conditions de leur renouvellement sont fixées par décret en Conseil d'Etat. Ces
+règles tiennent compte des difficultés des personnes embauchées et de la
+situation de leurs employeurs.
 
-Dans les collectivités territoriales et les autres personnes morales de droit
-public, un contrat emploi-solidarité ne peut être renouvelé sur un même poste de
-travail qu'à la condition qu'il s'accompagne d'un dispositif de formation visant
-à faciliter l'insertion professionnelle du bénéficiaire de ce contrat à l'issue
-de celui-ci.
+II. - Ces conventions ouvrent droit à une aide pour l'embauche des personnes
+mentionnées au I destinée à prendre en charge une partie du coût des contrats
+ainsi conclus et, le cas échéant, des actions de formation et d'accompagnement
+professionnels prévues par la convention. Un décret en Conseil d'Etat détermine
+le montant maximal de l'aide ainsi que les conditions dans lesquelles elle peut
+être modulée en fonction de la situation des bénéficiaires, de la situation de
+leurs employeurs et des initiatives prises en matière d'accompagnement et de
+formation professionnelle par ceux-ci ainsi que des conditions économiques
+locales.
 
-En cas de non-renouvellement du contrat emploi-solidarité en raison de l'absence
-de dispositif de formation visé à l'alinéa précédent, il ne peut être recouru à
-un nouveau contrat emploi-solidarité pour pourvoir un même poste avant
-l'expiration d'une période de six mois.
+La convention ne peut pas être conclue si l'établissement a procédé à un
+licenciement économique dans les six mois précédant la date d'effet du contrat
+ni lorsque l'embauche est la conséquence directe du licenciement d'un salarié
+sous contrat à durée indéterminée. S'il apparaît que l'embauche a eu pour
+conséquence un tel licenciement, la convention peut être dénoncée par l'Etat. La
+dénonciation emporte obligation pour l'employeur de rembourser l'intégralité des
+sommes perçues au titre de l'aide prévue par la convention. L'employeur doit
+également être à jour du versement de ses cotisations et contributions sociales.
 
-Par dérogation à l'article L. 122-3-2, et sous réserve de clauses contractuelles
-ou conventionnelles relatives aux bénéficiaires de contrats emploi-solidarité
-prévoyant une durée moindre, la période d'essai au titre de ces contrats est
-d'un mois [*durée*] .
+III. - Le contrat initiative-emploi conclu en vertu de ces conventions est un
+contrat à durée indéterminée ou un contrat à durée déterminée passé en
+application de l'article L. 122-2. Lorsqu'il est conclu pour une durée
+déterminée, les dispositions du dernier alinéa de l'article L. 122-2 relatives
+au nombre maximal des renouvellements ne sont pas applicables.
+
+Par dérogation au deuxième alinéa de l'article L. 122-3-8, le contrat à durée
+déterminée peut être rompu avant son terme lorsque la rupture a pour objet de
+permettre au salarié d'être embauché pour un contrat à durée déterminée d'au
+moins six mois ou à durée indéterminée ou de suivre une formation conduisant à
+une qualification telle que prévue aux quatre premiers alinéas de l'article L.
+900-3. A la demande du salarié, le contrat peut être suspendu afin de lui
+permettre d'effectuer une période d'essai afférente à une offre d'emploi visant
+une embauche, en contrat à durée indéterminée ou à durée déterminée au moins
+égale à six mois. En cas d'embauche à l'issue de cette période d'essai, le
+contrat est rompu sans préavis.
+
+IV. - Pendant toute la durée de la convention visée au I, les bénéficiaires des
+contrats initiative-emploi ne sont pas pris en compte dans le calcul de
+l'effectif du personnel des entreprises dont ils relèvent pour l'application à
+ces entreprises des dispositions législatives et réglementaires qui se réfèrent
+à une condition d'effectif minimum de salariés, exception faite de celles qui
+concernent la tarification des risques d'accidents du travail et de maladies
+professionnelles.

@@ -30,7 +30,7 @@ d'insertion économique et sociale d'intérêt communautaire ; dispositifs locau
 d'intérêt communautaire, de prévention de la délinquance.
 
 II. - La communauté d'agglomération doit en outre exercer au lieu et place des
-communes au moins trois compétences parmi les cinq suivantes :
+communes au moins trois compétences parmi les six suivantes :
 
 1° Création ou aménagement et entretien de voirie d'intérêt communautaire ;
 création ou aménagement et gestion de parcs de stationnement d'intérêt
@@ -46,7 +46,14 @@ de vie : lutte contre la pollution de l'air, lutte contre les nuisances sonores,
 partie de cette compétence dans les conditions fixées par l'article L. 2224-13 ;
 
 5° Construction, aménagement, entretien et gestion d'équipements culturels et
-sportifs d'intérêt communautaire.
+sportifs d'intérêt communautaire ;
+
+6° Action sociale d'intérêt communautaire.
+
+Lorsque la communauté d'agglomération exerce la compétence action sociale
+d'intérêt communautaire, elle peut en confier la responsabilité pour tout ou
+partie à un centre intercommunal d'action sociale constitué dans les conditions
+fixées à l'article L. 123-5 du code de l'action sociale et des familles.
 
 Le choix de ces compétences est arrêté par décision des conseils municipaux des
 communes intéressées dans les conditions de majorité qualifiée requise pour la

@@ -7,11 +7,12 @@ réunir et de consulter les délégués du personnel lorsque le nombre de
 licenciements envisagés est au moins égal à dix dans une même période de trente
 jours.
 
-Sans préjudice des dispositions de l'article L. 432-1, dans les entreprises ou
-professions mentionnées ci-dessus où sont occupés habituellement au moins
-cinquante salariés, les employeurs qui projettent d'y effectuer un licenciement
-dans les conditions visées à l'alinéa précédent sont tenus de réunir et de
-consulter le comité d'entreprise.
+Dans les entreprises ou professions mentionnées ci-dessus, où sont occupés
+habituellement au moins cinquante salariés, les employeurs qui projettent d'y
+effectuer un licenciement dans les conditions visées à l'alinéa précédent sont
+tenus de réunir et de consulter le comité d'entreprise. Ils peuvent procéder à
+ces opérations concomitamment à la mise en oeuvre des procédures de consultation
+prévues par l'article L. 432-1.
 
 Lorsqu'il n'existe pas de comité d'entreprise et notamment lorsque l'inspecteur
 du travail a été saisi d'un procès-verbal de carence dans les conditions prévues

@@ -1,9 +1,12 @@
 Article L312-2
 ----
-A titre provisoire, jusqu'à une date qui sera fixée par voie réglementaire, les
-bureaux de placement gratuit créés avant le 24 mai 1945, notamment par les
-syndicats professionnels, les bourses de travail, les sociétés de secours
-mutuels et les associations d'anciens élèves sont habilités à continuer leurs
-opérations sous le contrôle de l'administration s'ils ont obtenu [*condition*]
-l'autorisation prévue par les dispositions finales du deuxième alinéa de
-l'article 3 de l'ordonnance n° 45-1030 du 24 mai 1945.
+Les fonctionnaires et agents chargés du contrôle de l'application du droit du
+travail sont habilités à constater les manquements aux dispositions de l'article
+L. 310-2 ainsi qu'à celles du présent chapitre et des textes pris pour leur
+application.
+
+Lorsque l'activité de placement est exercée en méconnaissance des dispositions
+de l'article L. 310-2 ou de celles du présent chapitre et des textes pris pour
+son application ou en cas d'atteinte à l'ordre public, l'autorité administrative
+peut, après mise en demeure, ordonner la fermeture de l'organisme en cause pour
+une durée n'excédant pas trois mois.

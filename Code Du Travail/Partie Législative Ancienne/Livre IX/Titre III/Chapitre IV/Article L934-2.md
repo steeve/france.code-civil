@@ -78,7 +78,11 @@ de leur suivi et de leur évaluation, en vue d'assurer l'égalité professionnel
 le maintien dans l'emploi et le développement des compétences des travailleurs
 handicapés, notamment par la détermination d'un objectif de progression du taux
 d'accès des travailleurs handicapés aux différents dispositifs de formation et
-des modalités d'atteinte de cet objectif.
+des modalités d'atteinte de cet objectif ;
+
+16° La définition et les conditions de mise en oeuvre à titre facultatif
+d'actions de formation économique en vue de mieux comprendre la gestion et les
+objectifs de l'entreprise dans le cadre de la concurrence internationale.
 
 La négociation sur les priorités, les objectifs et les moyens de la formation
 professionnelle doit porter sur les actions de formation mises en oeuvre pour

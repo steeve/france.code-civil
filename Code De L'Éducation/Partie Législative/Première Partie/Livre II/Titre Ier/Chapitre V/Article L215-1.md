@@ -10,9 +10,9 @@ représentant de l'Etat, après consultation du conseil économique, social et
 culturel de Corse et compte tenu des orientations fixées par le plan, le schéma
 prévisionnel des formations des collèges, des lycées, des établissements
 d'enseignement professionnel, des établissements d'enseignement artistique, des
-établissements d'éducation spéciale, des écoles de formation maritime et
-aquacole, des établissements d'enseignement agricole mentionnés à l'article L.
-811-8 du code rural et des centres d'information et d'orientation.
+établissements d'éducation spéciale, des lycées professionnels maritimes, des
+établissements d'enseignement agricole mentionnés à l'article L. 811-8 du code
+rural et des centres d'information et d'orientation.
 
 Elle associe les représentants désignés par les établissements d'enseignement
 privé sous contrat à l'élaboration de ce schéma.
@@ -113,6 +113,3 @@ A l'occasion de la mise en oeuvre de ce plan, la collectivité territoriale de
 Corse signe une convention, notamment avec l'Association nationale pour la
 formation professionnelle des adultes, dont elle arrête le programme des
 formations et le programme des opérations d'équipement pour la Corse.
-
-Elle assure les actions d'insertion professionnelle des jeunes dans les
-conditions prévues pour les régions aux articles L. 4253-6 à L. 4253-10.

@@ -1,10 +1,10 @@
 Article L261-21
 ----
-Les dispositions des articles L. 261-10, alinéa 1er, L. 261-11, à l'exception de
-l'alinéa 3, L. 261-12 à L. 261-20 sont applicables aux contrats conclus à
-compter du 1er janvier 1968 [*date*]. Celles de l'article L. 261-10, alinéas 2
-et 3, sont applicables à compter du 31 décembre 1972 et celles de l'article L.
-261-11, alinéa 3, à compter du 1er janvier 1972.
+Les dispositions des articles L. 261-11, à l'exception de l'alinéa 3, L. 261-12
+à L. 261-20 sont applicables aux contrats conclus à compter du 1er janvier 1968.
+Celles de l'article L. 261-10, alinéas 2 et 3, sont applicables à compter du 31
+décembre 1972 et celles de l'article L. 261-11, alinéa 3, à compter du 1er
+janvier 1972.
 
 Toutefois, celles de l'article L. 261-11 d ne sont pas obligatoires pour les
 contrats portant sur des locaux compris dans un immeuble dont la construction a

@@ -13,6 +13,9 @@ intercommunale et, d'autre part, le montant des crédits que celui-ci affecte su
 son propre budget à la réalisation des objectifs de la convention. Elle précise
 annuellement, au sein des droits à engagement alloués, les parts affectées au
 logement social ou à l'hébergement d'une part, à l'habitat privé d'autre part.
+Cette répartition tient compte de l'exécution des programmes définis aux
+articles 87 et 107 de la loi n° 2005-32 du 18 janvier 2005 de programmation pour
+la cohésion sociale.
 
 L'établissement public de coopération intercommunale attribue les aides au
 logement social et à l'hébergement dans la limite de la part correspondante des

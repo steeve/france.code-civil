@@ -25,8 +25,9 @@ conditions fixées au présent titre, leurs réclamations individuelles et
 collectives concernant l'application des dispositions des articles L. 124-4-2,
 L. 124-4-6 et L. 124-4-7. Les délégués du personnel peuvent prendre connaissance
 des contrats définis à l'article L. 124-3, passés avec les entreprises de
-travail temporaire, pour la mise à disposition de salariés temporaires , ainsi
-que les contrats institués à l'article L. 322-4-15.
+travail temporaire, pour la mise à disposition de salariés temporaires, ainsi
+que les contrats institués aux articles L. 322-4-7, L. 322-4-8, L. 322-4-10 et
+L. 322-4-15.
 
 Dans les entreprises comportant moins de cinquante salariés, les délégués du
 personnel doivent être réunis et consultés par l'employeur qui envisage de

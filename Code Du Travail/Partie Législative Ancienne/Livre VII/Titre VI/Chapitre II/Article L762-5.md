@@ -1,10 +1,9 @@
 Article L762-5
 ----
 Sans préjudice de l'application des dispositions de la loi n° 47-1635 du 30 août
-1947 relative à l'assainissement des professions commerciales et industrielles
-et de celles des articles L. 322-19 et L. 322-21 du présent code, nul ne peut
-obtenir ou conserver une licence d'agent artistique s'il exerce, directement ou
-par personne interposée, l'une des activités suivantes :
+1947 relative à l'assainissement des professions commerciales et industrielles,
+nul ne peut obtenir ou conserver une licence d'agent artistique s'il exerce,
+directement ou par personne interposée, l'une des activités suivantes :
 
 Artiste du spectacle, exploitant de lieux de spectacles spécialement aménagés
 pour les représentations publiques, producteur de films, programmeur de
@@ -14,7 +13,10 @@ commercial d'entreprise d'édition et d'enregistrement de disques ou de tous
 autres supports d'enregistrement, fabricant d'instruments de musique, marchand
 de musique ou de sonorisation, loueur de matériels et espaces de spectacles,
 producteur dans une entreprise de radiodiffusion ou de télévision, éditeur de
-musique, agent de publicité.
+musique, agent de publicité, hôtelier, logeur, restaurateur, débitant de
+boissons, négociant ou courtier ou représentant en denrées alimentaires ou en
+articles d'habillement ou objets d'usage personnel, commerce d'achat et vente de
+reconnaissances du crédit municipal.
 
 Les préposés d'un agent artistique sont soumis aux incompatibilités définies
 ci-dessus.
@@ -23,7 +25,7 @@ Il en est de même des dirigeants sociaux lorsque l'activité définie à l'arti
 L. 762-3 est exercée par une société titulaire d'une licence d'agent artistique
 et en outre des associés en nom collectif, des associés des sociétés en
 commandite simple ainsi que de l'ensemble des associés dans le cas où il s'agit
-d'une société à responsabilité limitée [*SARL*] .
+d'une société à responsabilité limitée.
 
 Sous réserve du respect des dispositions du premier et du deuxième alinéa du
 présent article, un agent artistique, lorsqu'il est titulaire d'une licence

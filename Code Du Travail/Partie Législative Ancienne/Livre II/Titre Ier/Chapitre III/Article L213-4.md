@@ -14,6 +14,11 @@ l'égalité professionnelle entre les femmes et les hommes, notamment par l'acc�
 à la formation. L'accord collectif prévoit également l'organisation des temps de
 pause.
 
+Pour les activités visées au troisième alinéa de l'article L. 213-1-1, lorsque
+la durée effective du travail de nuit est inférieure à la durée légale, les
+contreparties visées aux deux alinéas ci-dessus ne sont pas obligatoirement
+données sous forme de repos compensateur.
+
 Par dérogation à l'article L. 213-1, à défaut de convention ou d'accord
 collectif et à condition que l'employeur ait engagé sérieusement et loyalement
 des négociations tendant à la conclusion d'un tel accord, les travailleurs

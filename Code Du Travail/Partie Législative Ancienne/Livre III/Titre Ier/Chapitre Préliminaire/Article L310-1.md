@@ -1,6 +1,6 @@
 Article L310-1
 ----
-Les dispositions du présent titre sont applicables notamment aux salariés des
-offices publics et ministériels, des professions libérales, des sociétés
-civiles, des syndicats professionnels et associations de quelque nature que ce
-soit.
+L'activité de placement consiste à fournir, à titre habituel, des services
+visant à rapprocher offres et demandes d'emploi, sans que la personne physique
+ou morale assurant cette activité ne devienne partie aux relations de travail
+susceptibles d'en découler.

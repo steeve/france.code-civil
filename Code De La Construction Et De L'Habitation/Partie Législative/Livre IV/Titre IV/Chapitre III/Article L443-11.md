@@ -27,6 +27,12 @@ conditions d'ancienneté et d'habitabilité prévues à l'article L. 443-7. Les
 locataires en place continuent à bénéficier des conditions antérieures de
 location.
 
+Les logements peuvent également être vendus dans le cadre d'opérations de
+renouvellement urbain aux établissements publics créés en application des
+articles L. 321-1 et L. 326-1 du code de l'urbanisme, en vue de leur démolition
+préalablement autorisée par le représentant de l'Etat dans le département ; dans
+ce cas, les baux demeurent jusqu'au départ des locataires en place.
+
 Afin d'assurer l'équilibre économique et social d'un ou plusieurs ensembles
 d'habitations ou d'un quartier connaissant des difficultés particulières,
 l'organisme d'habitations à loyer modéré propriétaire peut, après accord du

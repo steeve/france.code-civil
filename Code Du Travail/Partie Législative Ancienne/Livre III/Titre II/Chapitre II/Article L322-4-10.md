@@ -1,24 +1,31 @@
 Article L322-4-10
 ----
-Par dérogation aux dispositions de l'article L. 122-3-8, les contrats
-emploi-solidarité peuvent être rompus avant leur terme, à l'initiative du
-salarié, lorsque la rupture du contrat a pour objet de permettre au salarié
-d'occuper un autre emploi ou de suivre une formation conduisant à une
-qualification visée aux quatre premiers alinéas de l'article L. 900-3.
+Il est institué un contrat de travail dénommé "contrat d'avenir", destiné à
+faciliter l'insertion sociale et professionnelle des personnes bénéficiant,
+depuis une durée fixée par décret en Conseil d'Etat, du revenu minimum
+d'insertion, de l'allocation spécifique de solidarité ou de l'allocation de
+parent isolé.
 
-Le contrat emploi-solidarité ne peut se cumuler avec une autre activité
-professionnelle ou une formation professionnelle rémunérées.
+Les contrats d'avenir portent sur des emplois visant à satisfaire des besoins
+collectifs non satisfaits.
 
-Toutefois, les bénéficiaires de contrats emploi-solidarité peuvent, à l'issue
-d'une période de trois mois et pour une durée limitée à un an, être autorisés à
-exercer une activité professionnelle complémentaire dans la limite d'un
-mi-temps. Cette activité est exercée dans le cadre d'un contrat de travail à
-temps partiel, conclu avec un employeur défini à l'article L. 351-4 ou aux 3° et
-4° de l'article L. 351-12 et distinct de celui avec lequel a été conclu le
-contrat emploi-solidarité. Elle ne peut s'exercer dans le cadre d'un contrat de
-travail conclu en application d'une convention visée à l'article L. 322-4-18.
+Le département ou la commune de résidence du bénéficiaire ou, le cas échéant,
+l'établissement public de coopération intercommunale auquel appartient la
+commune est chargé d'assurer la mise en oeuvre du contrat d'avenir dans les
+conditions fixées aux articles L. 322-4-11 à L. 322-4-13.
 
-En cas de dénonciation de la convention par les services du ministère chargé de
-l'emploi en raison d'une des situations prévues au deuxième alinéa, le contrat
-emploi-solidarité peut être rompu avant son terme, sans qu'il y ait lieu à
-dommages et intérêts tels que prévus par l'article L. 122-3-8.
+Le département ou la commune de résidence du bénéficiaire ou, le cas échéant,
+l'établissement public de coopération intercommunale auquel appartient la
+commune peut, par convention, confier à la maison de l'emploi, au plan local
+pluriannuel pour l'insertion et l'emploi ou à la mission locale la mise en
+oeuvre des contrats d'avenir conclus pour les habitants de son ressort.
+
+Dans chaque département, une commission de pilotage coordonne la mise en oeuvre
+du contrat d'avenir et organise les modalités du suivi personnalisé des
+bénéficiaires de ce contrat. Placée sous la coprésidence du président du conseil
+général et du représentant de l'Etat dans le département, elle comprend
+notamment des représentants des maires des communes ou des présidents des
+établissements publics de coopération intercommunale exerçant la compétence de
+mise en oeuvre du contrat d'avenir. La composition, les missions et les
+conditions d'organisation et de fonctionnement de cette commission sont fixées
+par décret.

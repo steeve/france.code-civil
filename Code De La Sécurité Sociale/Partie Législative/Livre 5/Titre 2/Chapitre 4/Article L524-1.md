@@ -19,7 +19,13 @@ aides n'est due.
 Toutefois, les rémunérations tirées d'activités professionnelles ou de stages de
 formation qui ont commencé au cours de la période de versement de l'allocation
 peuvent, selon des modalités fixées par voie réglementaire, être exclues, en
-tout ou partie, du montant des ressources servant au calcul de l'allocation.
+tout ou partie, du montant des ressources servant au calcul de l'allocation. La
+rémunération d'activité des titulaires de contrats d'avenir et contrats
+insertion-revenu minimum d'activité visés respectivement aux articles L.
+322-4-10 et L. 322-4-15 du code du travail est prise en compte dans les
+ressources pour un montant forfaitaire égal au revenu minimum d'insertion
+garanti à une personne isolée en application de l'article L. 262-2 du code de
+l'action sociale et des familles.
 
 L'allocation de parent isolé est attribuée sous réserve des traités et accords
 internationaux ratifiés par la France, aux ressortissants étrangers remplissant

@@ -1,6 +1,7 @@
 Article L312-3
 ----
-Les modalités du contrôle exercé par l'Etat sur les bureaux de placement gratuit
-sont déterminées par décret. Il en est de même des conditions dans lesquelles
-certains organismes peuvent être autorisés à fonctionner pour certaines
-professions comme section ou correspondant du service public de l'emploi.
+Un décret en Conseil d'Etat fixe les modalités d'application des articles L.
+312-1 et L. 312-2. Il détermine également les conditions d'utilisation des
+informations nominatives que les organismes exerçant une activité de placement
+peuvent demander, détenir, conserver, diffuser et céder pour les besoins de
+cette activité.

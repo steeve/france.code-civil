@@ -49,11 +49,8 @@ au titre des dix-huit derniers mois d'exécution de son contrat de travail. Son
 taux est identique à celui prévu au deuxième alinéa de l'article L. 122-3-4.
 
 En cas de rupture avant terme d'un contrat à durée déterminée conclu en vertu
-des conventions mentionnées à l'article L. 322-4-18, les employeurs peuvent
-conclure, pour le même poste, un nouveau contrat à durée déterminée dont la
-durée sera égale à la durée de versement de l'aide de l'Etat restant à courir
-pour le poste considéré. Les dispositions des alinéas précédents s'appliquent à
-ce nouveau contrat.
+des conventions mentionnées à l'article L. 322-4-18, les employeurs ne peuvent
+conclure, pour le même poste, un nouveau contrat à durée déterminée.
 
 Par dérogation aux dispositions du deuxième alinéa de l'article L. 122-3-8, la
 méconnaissance par l'employeur des dispositions relatives à la rupture du

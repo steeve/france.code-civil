@@ -4,9 +4,10 @@ Une délibération du conseil municipal crée, dans chaque commune, une caisse d
 écoles, destinée à faciliter la fréquentation de l'école par des aides aux
 élèves en fonction des ressources de leur famille.
 
-A Paris, la caisse des écoles peut également mener des actions à caractère
-social, éducatif ou culturel en faveur des élèves des établissements du premier
-et du second degré.
+Les compétences de la caisse des écoles peuvent être étendues à des actions à
+caractère éducatif, culturel, social et sanitaire en faveur des enfants relevant
+de l'enseignement du premier et du second degrés. A cette fin, la caisse des
+écoles peut constituer des dispositifs de réussite éducative.
 
 Lorsque la caisse des écoles n'a procédé à aucune opération de dépenses ou de
 recettes pendant trois ans, elle peut être dissoute par délibération du conseil

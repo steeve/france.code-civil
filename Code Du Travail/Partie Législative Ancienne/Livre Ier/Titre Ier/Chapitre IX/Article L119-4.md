@@ -9,8 +9,9 @@ Un décret en Conseil d'Etat fixe les autres mesures d'application du présent
 titre, notamment en ce qui concerne l'article L. 119-2.
 
 Les décrets mentionnés aux deux alinéas précédents sont établis après
-consultation du Conseil national de la formation professionnelle tout au long de
-la vie et du conseil supérieur de l'éducation nationale.
+consultation du conseil national de la formation professionnelle, de la
+promotion sociale et de l'emploi et du conseil supérieur de l'éducation
+nationale.
 
 En ce qui concerne les départements du Haut-Rhin, du Bas-Rhin et de la Moselle,
 les modalités particulières d'application des articles L. 115-1 à L. 119-3

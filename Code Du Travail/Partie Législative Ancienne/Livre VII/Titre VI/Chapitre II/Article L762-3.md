@@ -14,6 +14,5 @@ spectacle de leur procurer des engagements.
 Un décret en Conseil d'Etat détermine les conditions d'attribution, de
 renouvellement et de retrait de la licence d'agent artistique.
 
-Ces conditions concernent la moralité de l'agent artistique, les modalités
-d'exercice de son activité et l'intérêt de celle-ci au regard des besoins de
-placement des artistes du spectacle.
+Ces conditions concernent la moralité de l'agent artistique et les modalités
+d'exercice de son activité.

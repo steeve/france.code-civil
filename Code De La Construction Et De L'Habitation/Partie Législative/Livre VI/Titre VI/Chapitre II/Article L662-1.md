@@ -6,8 +6,6 @@ française, à l'exception :
 - au deuxième alinéa de l'article L. 261-10, des mots : "sauf si le terrain" aux
 mots : "prestataire de service" ;
 
-- des troisième, quatrième et cinquième alinéas de l'article L. 261-10 ;
-
 - de la première phrase de l'avant-dernier alinéa de l'article L. 261-11 ;
 
 - et à l'article L. 261-19, des mots : "ainsi que celles" aux mots : "conseil de

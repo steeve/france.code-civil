@@ -1,7 +1,8 @@
 Article L431-5
 ----
 La décision du chef d'entreprise doit être précédée par la consultation du
-comité d'entreprise.
+comité d'entreprise, sauf dans le cas où l'employeur use du droit qui lui est
+conféré par l'article L. 432-1 ter.
 
 Pour lui permettre de formuler un avis motivé, le comité d'entreprise doit
 disposer d'informations précises et écrites transmises par le chef d'entreprise,

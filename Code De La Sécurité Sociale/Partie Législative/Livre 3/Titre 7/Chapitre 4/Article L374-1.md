@@ -12,8 +12,8 @@ En ce qui concerne les autres travailleurs étrangers, les employeurs sont
 leur ont présenté soit un document attestant qu'ils ont subi un contrôle médical
 prévu par les accords internationaux visant la circulation, le séjour et
 l'exercice des activités professionnelles salariées, soit une attestation de
-visite médicale délivrée par les services de l'Office des migrations
-internationales.
+visite médicale délivrée par les services de l'Agence nationale de l'accueil des
+étrangers et des migrations.
 
 Si pendant la période de référence au cours de laquelle ont été remplies les
 conditions d'ouverture du droit aux prestations, le travailleur étranger a été

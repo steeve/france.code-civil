@@ -90,7 +90,7 @@ d'insertion.
 
 VI. Les conventions prévues par le présent article se substituent, dans les
 départements d'outre-mer et dans la collectivité territoriale de
-Saint-Pierre-et-Miquelon, aux conventions prévues à l'article L. 322-4-2. Les
+Saint-Pierre-et-Miquelon, aux conventions prévues à l'article L. 322-4-8. Les
 contrats de retour à l'emploi en cours demeurent régis jusqu'à leur terme par
 les conventions antérieurement applicables.
 

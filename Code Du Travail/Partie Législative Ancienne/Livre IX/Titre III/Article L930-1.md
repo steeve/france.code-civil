@@ -4,6 +4,7 @@ L'employeur a l'obligation d'assurer l'adaptation des salariés à leur poste de
 travail. Il veille au maintien de leur capacité à occuper un emploi, au regard
 notamment de l'évolution des emplois, des technologies et des organisations. Il
 peut proposer des formations qui participent au développement des compétences.
+Il peut proposer des formations qui participent à la lutte contre l'illettrisme.
 
 L'accès des salariés à des actions de formation professionnelle continue est
 assuré :
