@@ -12,6 +12,8 @@ Article 359
 
 " Poirés ;
 
+" Fermentés de pommes aromatisés ou non ;
+
 " Fermentés de poires ;
 
 " Apéritifs à base de cidre et de poiré ;
