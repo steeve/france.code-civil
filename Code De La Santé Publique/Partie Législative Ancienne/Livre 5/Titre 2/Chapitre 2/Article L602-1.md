@@ -1,5 +1,5 @@
 Article L602-1
 ----
-Les médicaments et produits bénéficiaires d'une autorisation du ministre chargé
-de la santé publique sont frappées d'une taxe annuelle perçue au profit de
-l'Etat.
+Les médicaments et produits bénéficiaires d'une autorisation de l'Agence du
+médicament sont frappées d'une taxe annuelle perçue au profit de l'Agence du
+médicament.

@@ -1,14 +1,15 @@
 Article L602-2
 ----
-I. - La taxe annuelle prévue à l'article précédent est fixée à 1.000 F
-[*montant*] par médicament et produit bénéficiant d'une autorisation de mise sur
-le marché. Elle est due par le titulaire de cette autorisation.
+I. - La taxe annuelle prévue à l'article précédent est fixée par décret dans la
+limite de 20 000 F [*montant*] par médicament et produit bénéficiant d'une
+autorisation de mise sur le marché. Elle est due par le titulaire de cette
+autorisation.
 
 II. - La taxe n'est pas exigible pour les médicaments ou produits dont les
-ventes, à l'exclusion des ventes à l'exportation n'ont pas atteint, au cours de
+ventes, à l'exclusion des ventes à l'exportation, n'ont pas atteint, au cours de
 l'année civile précédente, un montant hors taxe de 500.000 F.
 
-III. - Lorsqu'un médicament et produit est présenté en plusieurs
+III. - Lorsqu'un médicament ou produit est présenté en plusieurs
 conditionnements d'une contenance différente, c'est le montant total des ventes
 du médicament ou produit, sous ses différents conditionnements, qui doit être
 retenu pour l'application des dispositions précédentes.

@@ -16,8 +16,8 @@ susceptible de se substituer à eux ;
 sous la responsabilité de leur médecin traitant, dès lors qu'ils sont autorisés
 à l'étranger.
 
-L'utilisation de ces médicaments est autorisée, pour une durée limitée, par le
-ministre chargé de la santé, avec l'accord préalable du titulaire des droits
+L'utilisation de ces médicaments est autorisée, pour une durée limitée, par
+l'Agence du médicament, avec l'accord préalable du titulaire des droits
 d'exploitation du médicament dans le cas prévu au deuxième alinéa du présent
 article ou à la demande du médecin traitant dans le cas prévu au quatrième
 alinéa. Cette autorisation peut être suspendue ou retirée si les conditions

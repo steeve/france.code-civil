@@ -1,13 +1,13 @@
 Article L602-3
 ----
-I. - Les redevables de la taxe [*obligation*] sont tenus d'adresser au ministre
-de la santé, au plus tard le 31 mars de chaque année [*date limite*], une
+I. - Les redevables de la taxe [*obligation*] sont tenus d'adresser a l'Agence
+du médicament, au plus tard le 31 mars de chaque année [*date limite*], une
 déclaration indiquant les médicaments et produits donnant lieu au paiement de la
-taxe. Cette déclaration est établie conformément au modèle fixé par arrêté du
-ministre de la santé.
+taxe. Cette déclaration est établie conformément au modèle fixé par arrêté de
+l'Agence du médicament.
 
 II. - En l'absence de déclaration dans le délai fixé ou en cas de déclaration
-inexacte, le ministre de la santé peut procéder à une taxation d'office qui
+inexacte, l'Agence du médicament peut procéder à une taxation d'office qui
 entraîne l'application d'une pénalité de 10 p. 100 pour retard de déclaration et
 de 50 p. 100 pour défaut ou insuffisance de déclaration [*montant*].
 

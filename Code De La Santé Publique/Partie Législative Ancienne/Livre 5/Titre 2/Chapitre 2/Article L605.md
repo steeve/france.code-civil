@@ -44,3 +44,6 @@ taxe annuelle des médicaments et produits.
 10° Les règles applicables à la pharmacovigilance exercée sur les médicaments
 postérieurement à la délivrance de l'autorisation administrative de mise sur le
 marché.
+
+11° Les règles particulières applicables à la pharmacovigilance exercée sur les
+médicaments dérivés du sang et les autres médicaments d'origine humaine.

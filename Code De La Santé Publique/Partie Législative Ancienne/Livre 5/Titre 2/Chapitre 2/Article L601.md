@@ -4,7 +4,7 @@ Tout médicament ou produit pharmaceutique ou tout autre médicament fabriqué
 industriellement ainsi que tout générateur, trousse ou précurseur doit faire
 l'objet, avant sa commercialisation ou sa distribution à titre gratuit, en gros
 ou au détail, d'une autorisation de mise sur le marché [*condition de vente*]
-délivrée par le ministre chargé de la santé [*autorité compétente*].
+délivrée par l'Agence du médicament [*autorité compétente*].
 
 Cette autorisation peut être assortie de conditions adéquates. Elle n'est
 accordée que lorsque le fabricant justifie :
