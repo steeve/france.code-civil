@@ -1,9 +1,14 @@
 Article R11
 ----
-Est interdit l'usage de prospectus, affiches, tracts, etc., imitant les formules
-d'arrivée des télégrammes et les cartes pneumatiques utilisées par
-l'administration des postes et télécommunications [*infraction*].
+Est interdit l'usage de tout document imitant ceux utilisés par l'administration
+des télécommunications dans ses rapports avec ses abonnés, notamment les
+factures ;
 
-Toute personne qui contrevient aux dispositions qui précèdent est punie
-[*sanction*] d'une amende [*taux*] de 300 à 600 F par exemplaire mis en
-circulation, en contravention aux dispositions du présent article.
+Est également interdit l'usage de tout document imitant ceux utilisés par les
+concessionnaires de publicité dans les annuaires de l'administration des
+télécommunications, pour recueillir des souscriptions de publicité à insérer
+dans lesdits annuaires.
+
+Toute personne qui contreviendra aux dispositions qui précèdent sera punie, pour
+chaque exemplaire mis en circulation, de l'amende prévue pour les contraventions
+de la 3e classe [*troisième classe, sanction*].
