@@ -13,8 +13,7 @@ dimension exigible sur les écrits autres que les bulletins de souscription
 d'actions et que les pouvoirs de représentation aux assemblées générales des
 membres des sociétés par actions ;
 
-3° Dans les entreprises autorisées à payer sur états le droit de timbre exigible
-sur les effets de commerce négociables ;
+3° (Alinéa devenu sans objet).
 
 4° Au siège des sociétés de course de chevaux ou de lévriers autorisées à payer
 sur états le droit de timbre des quittances afférent aux tickets de pari mutuel,
@@ -24,19 +23,4 @@ ainsi que sur les hippodromes ou cynodromes ;
 annexes, agences ou succursales des commerçants, industriels et entrepreneurs de
 spectacles autorisés à payer sur états le droit de timbre des quittances ;
 
-6° Au siège social ainsi que dans les gares du réseau, les agences ou
-succursales des compagnies de chemin de fer autres que la Société nationale des
-chemins de fer français [*SNCF*] et de toutes autres entreprises
-concessionnaires d'un service public de transport autorisées à payer sur états
-le droit de timbre des contrats de transports exigible sur les bulletins de
-bagages ;
-
-7° Au siège des entreprises ainsi que dans les établissements annexes, bureaux,
-agences ou succursales des entrepreneurs et intermédiaires de transports
-autorisés à payer sur états le droit de timbre des contrats de transports
-exigible sur les expéditions en groupage ;
-
-8° Chez les entrepreneurs, commissionnaires et intermédiaires de transports
-publics routiers de marchandises autorisés à acquitter sur états le droit de
-timbre des contrats de transports afférents aux lettres de voiture ou documents
-en tenant lieu.
+6°, 7° et 8° (Alinéas devenus sans objet).
