@@ -21,11 +21,11 @@ date fixée pour la réunion de l'assemblée générale.
 
 Après chaque élection, le procès-verbal de l'élection est notifié sans délai au
 conseil national et au représentant de l'Etat. Les élections peuvent être
-déférées au conseil national par les chirurgiens-dentistes ayant droit de vote
-et par le représentant de l'Etat dans le délai de quinze jours. Ce délai court,
-pour les chirurgiens-dentistes, du jour de l'élection et, pour le représentant
-de l'Etat, de la date à laquelle le procès-verbal de l'élection lui a été
-notifié.
+déférées au tribunal administratif par les chirurgiens-dentistes ayant droit de
+vote et par le représentant de l'Etat dans le délai de quinze jours. Ce délai
+court, pour les chirurgiens-dentistes, du jour de l'élection et, pour le
+représentant de l'Etat, de la date à laquelle le procès-verbal de l'élection lui
+a été notifié.
 
 II. - Les membres suppléants de la chambre territoriale de discipline remplacent
 les titulaires empêchés de siéger. Lorsqu'un membre titulaire vient à cesser ses
@@ -105,19 +105,13 @@ territorial de l'ordre ne peuvent être traduits devant la chambre territoriale
 de discipline que par le représentant de l'Etat, le procureur de la République
 ou par les autorités du territoire en charge de la santé publique.
 
-IV. - Les dispositions des articles L. 457, L. 457-1, L. 459, L. 461 et L. 465
-du chapitre V du titre Ier du livre IV du code de la santé publique en tant
+IV. - Les dispositions des articles L. 457-1, L. 459, L. 461 et L. 465 du
+chapitre V du titre Ier du livre IV du code de la santé publique en tant
 qu'elles intéressent l'ordre des chirurgiens-dentistes sont applicables en
 Polynésie française et en Nouvelle-Calédonie sous réserve des adaptations
 suivantes :
 
-1° L'article L. 457 est ainsi rédigé :
-
-Art. L. 457.
-
-La chambre territoriale de discipline est dotée de la personnalité civile.
-
-2° L'article L. 457-1 est remplacé par les dispositions suivantes :
+1° L'article L. 457-1 est remplacé par les dispositions suivantes :
 
 Art. L. 457-1
 
@@ -125,10 +119,10 @@ Il y a incompatibilité entre les fonctions de président ou de trésorier de la
 chambre territoriale de discipline et l'une quelconque des fonctions
 correspondantes d'un syndicat professionnel territorial.
 
-3° Au premier alinéa de l'article L. 459, les mots : "le conseil régional" sont
+2° Au premier alinéa de l'article L. 459, les mots : "le conseil régional" sont
 remplacés par les mots : "la chambre territoriale".
 
-4° L'article L. 461 est remplacé par les dispositions suivantes :
+3° L'article L. 461 est remplacé par les dispositions suivantes :
 
 Art. L. 461.
 
@@ -136,7 +130,7 @@ Tout membre de la chambre territoriale de discipline qui, sans motif valable,
 n'a pas siégé durant trois séances consécutives peut, sur proposition de la
 chambre territoriale, être déclaré démissionnaire par le conseil national.
 
-5° L'article L. 465 est remplacé par les dispositions suivantes :
+4° L'article L. 465 est remplacé par les dispositions suivantes :
 
 Art. L. 465.
 

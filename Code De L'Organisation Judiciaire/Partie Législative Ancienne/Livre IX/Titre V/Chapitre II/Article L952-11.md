@@ -13,9 +13,10 @@ magistrat depuis un autre point du territoire de la République, ce dernier se
 trouvant relié, en direct, à la salle d'audience, par un moyen de communication
 audiovisuelle.
 
-Lorsque l'audience est collégiale, la formation de jugement est composée de
-trois magistrats, figurant sur la liste prévue au I ci-dessus, reliés à la salle
-d'audience selon le même procédé.
+Lorsque l'audience est collégiale, par dérogation aux dispositions de l'article
+L. 952-9, la formation de jugement est composée de trois magistrats, figurant
+sur la liste prévue au I ci-dessus, reliés à la salle d'audience selon le même
+procédé.
 
 Les modalités d'application des dispositions prévues aux deux alinéas précédents
 sont fixées par décret en Conseil d'Etat.

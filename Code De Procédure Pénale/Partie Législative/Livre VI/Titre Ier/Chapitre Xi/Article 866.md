@@ -9,4 +9,4 @@ même code, le président du tribunal de première instance ou un juge délégu�
 lui, sur requête du procureur de la République, peut ordonner, aux frais avancés
 du Trésor et selon les modalités prévues par la réglementation applicable
 localement en matière de procédure civile, des mesures conservatoires sur les
-biens de la personne mise en examen ".
+biens de la personne mise en examen. "
