@@ -1,10 +1,8 @@
 Article R714-3-34
 ----
-Dans le cas où le budget ne peut être rendu exécutoire au 1er janvier de l'année
-au cours de laquelle il s'exécute, et sans préjudice des dispositions des
-articles L. 714-8 et L. 714-9, l'ordonnateur est autorisé, jusqu'à ce qu'il
-devienne exécutoire, à engager, liquider et ordonnancer les dépenses dans les
-conditions suivantes :
+Lorsque le budget n'est pas encore exécutoire, et sans préjudice des
+dispositions des articles L. 6145-3 et L. 6145-4, l'ordonnateur est autorisé à
+engager, liquider et ordonnancer les dépenses dans les conditions suivantes :
 
 1° Pour ce qui concerne la section d'investissement :
 

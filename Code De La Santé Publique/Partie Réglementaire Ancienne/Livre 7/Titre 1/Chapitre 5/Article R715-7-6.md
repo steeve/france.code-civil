@@ -3,12 +3,12 @@ Article R715-7-6
 Les frais financiers, les dotations aux comptes d'amortissements et aux comptes
 de provisions ainsi que, le cas échéant, les dotations annuelles au fonds de
 roulement et les annuités des emprunts contractés en vue de la constitution de
-ce fonds ne peuvent être pris en compte parmi les éléments servant au calcul de
-la dotation globale et des tarifs de prestations que dans les cas suivants :
+ce fonds ne peuvent être pris en compte parmi les éléments servant au calcul des
+tarifs de prestations que dans les cas suivants :
 
 1° Si l'organisme gestionnaire est une fondation, une mutuelle ou une union de
 mutuelles, une association reconnue d'utilité publique, une congrégation ou s'il
-s'agit d'un établissement visé aux articles L. 312 à L. 314 ;
+s'agit d'un établissement visé aux articles L. 6162-1 à L. 6162-3 ;
 
 2° S'il s'agit d'une association déclarée, à la condition que ses statuts
 prévoient, en cas de cessation d'activité, l'attribution à un établissement
@@ -28,5 +28,5 @@ s'il y a lieu d'imposer le versement ci-dessus et dans quelle mesure.
 
 En outre, sans préjudice des dispositions ci-dessus, seuls les amortissements
 relatifs aux immobilisations affectées à l'activité hospitalière sont pris en
-compte pour la fixation du budget, des tarifs de prestations et de la dotation
-globale.
+compte pour la fixation du budget et des tarifs de prestations mentionnés à
+l'article R. 714-3-19.

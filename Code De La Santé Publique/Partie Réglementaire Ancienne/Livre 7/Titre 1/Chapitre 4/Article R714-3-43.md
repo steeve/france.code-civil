@@ -16,7 +16,7 @@ département d'information médicale suivant des modalités et un calendrier fix
 par arrêté des ministres chargés de la santé et de la sécurité sociale.
 
 Le directeur élabore également, pour l'analyse de l'activité et des coûts de
-l'établissement prévue par les dispositions des articles L. 710-6 et L. 710-7,
+l'établissement prévue par les dispositions des articles L. 6113-7 et L. 6113-8,
 un tableau faisant apparaître, après répartition analytique des charges
 directes, le montant des crédits d'exploitation consacrés, pendant l'exercice,
 aux secteurs cliniques, médico-techniques et logistiques de l'établissement. Il

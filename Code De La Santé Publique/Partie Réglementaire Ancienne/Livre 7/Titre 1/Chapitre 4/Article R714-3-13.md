@@ -39,9 +39,3 @@ les budgets annexes sont présentés conformément aux groupes fonctionnels fix�
 par l'arrêté pris pour l'application de l'article L. 315-15 du même code, sous
 réserve des reclassements comptables rendus nécessaires par le plan comptable
 des établissements publics de santé.
-
-Pour les structures agréées en qualité d'établissement de transfusion sanguine
-mentionnées au c de l'article R. 714-3-9, les budgets annexes sont présentés
-selon des règles particulières déterminées par un arrêté du ministre chargé du
-budget et du ministre chargé de la santé, pris après avis de l'Agence française
-du sang.

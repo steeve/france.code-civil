@@ -1,11 +1,10 @@
 Article R715-7-5
 ----
-Pour la fixation des tarifs de prestations et du montant de la dotation globale
-définis aux articles R. 714-3-19 à R. 714-3-26, l'autorité administrative
-mentionnée à l'article R. 714-3-27 ne tient compte que des rémunérations des
-personnels telles qu'elles résultent des dispositions de la convention
-collective ou de l'accord d'établissement ayant reçu l'agrément prévu par
-l'article 16 de la loi n° 75-535 du 30 juin 1975.
+Pour la fixation des tarifs de prestations mentionnés à l'article R. 714-3-19,
+l'autorité administrative mentionnée à l'article R. 714-3-27 ne tient compte que
+des rémunérations des personnels telles qu'elles résultent des dispositions de
+la convention collective ou de l'accord d'établissement ayant reçu l'agrément
+prévu à l'article L. 314-6 du code de l'action sociale et des familles.
 
 Lorsque l'établissement n'applique pas de convention collective ou d'accord
 d'établissement agréés, les rémunérations de ces personnels ne sont prises en

@@ -1,21 +1,38 @@
 Article R714-3-26
 ----
-La dotation globale mentionnée à l'article L. 174-1 du code de la sécurité
-sociale représente la part des dépenses obligatoirement prises en charge par les
-régimes d'assurance maladie.
+Dans le délai de quinze jours suivant la publication de l'arrêté prévu au
+deuxième alinéa de l'article R. 174-2 du code de la sécurité sociale, le
+directeur de l'agence régionale de l'hospitalisation arrête le montant de la
+dotation annuelle de financement mentionnée à l'article L. 174-1 du code de la
+sécurité sociale, dans le respect du montant de la dotation régionale fixée en
+application des dispositions de l'article L. 174-1-1 du même code, en tenant
+compte des éléments suivants :
 
-Elle est égale à la somme des éléments suivants :
+1° La dotation annuelle de financement de l'année précédente, déduction faite
+des allocations de ressources strictement imputables à cette année ;
 
-1° La différence entre, d'une part, la totalité des charges d'exploitation
-inscrites au budget général, à l'exclusion de celles relatives aux annulations
-de titres de recettes sur exercices antérieurs pour changement de débiteur, et,
-d'autre part, la totalité des recettes d'exploitation autres que la dotation
-globale ;
+2° Les orientations du schéma régional d'organisation sanitaire et les priorités
+de la politique de santé ;
 
-2° Le montant des forfaits annuels de soins fixés dans les conditions
-respectivement prévues à la sous-section 3 de la section 1 du chapitre V du
-décret n° 58-1202 du 11 décembre 1958, au titre III du décret n° 61-09 du 3
-janvier 1961 ainsi qu'à la section 4 du chapitre VI du présent titre ;
+3° Le projet d'établissement mentionné à l'article L. 6143-2 ;
 
-3° La dotation globale relative aux soins prévue à l'article R. 174-9 du code de
-la sécurité sociale.
+4° Le contrat pluriannuel d'objectifs et de moyens et son exécution ;
+
+5° Les prévisions d'évolution de l'activité ;
+
+6° Les modifications relatives aux capacités et à la nature des activités
+autorisées ;
+
+7° Les conséquences financières des modifications législatives et réglementaires
+relatives à la participation de l'assuré ;
+
+8° Les coûts de l'établissement au regard des coûts des autres établissements de
+la région et de la France entière, appréciés en tenant compte d'éventuels
+facteurs spécifiques de coûts qui modifient de manière manifeste, permanente et
+substantielle le prix de revient de certaines prestations.
+
+Le montant de la dotation annuelle de financement tient également compte des
+modifications notables de la proportion de patients non assurés sociaux
+accueillis dans l'établissement et des évolutions de recettes liées aux
+modifications de la proportion d'assurés sociaux accueillis dans l'établissement
+dont la participation est limitée ou supprimée.

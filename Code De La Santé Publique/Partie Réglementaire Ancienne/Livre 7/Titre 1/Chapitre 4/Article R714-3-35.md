@@ -1,17 +1,22 @@
 Article R714-3-35
 ----
-Dans le cas où les tarifs de prestations et le montant de la dotation globale
-n'ont pas été arrêtés avant le 1er janvier de l'exercice en cause, et jusqu'à
-l'intervention de la décision fixant le montant de cette dotation et de ces
-tarifs :
+Les tarifs de prestations d'hospitalisation mentionnés à l'article L. 162-22-10
+du code de la sécurité sociale sont facturés dans les conditions en vigueur au
+moment de la fin du séjour du patient.
 
-1° La caisse chargée du versement de la dotation globale règle des acomptes
-mensuels égaux aux douzièmes de la dotation globale de l'année précédente ;
+Dans l'attente de la fixation des tarifs de prestations mentionnés à l'article
+L. 174-3 du même code et du montant des forfaits prévus à l'article L. 162-22-12
+du même code et des dotations prévues aux articles L. 162-22-14 et L. 174-1 du
+même code :
 
-2° Les recettes relatives à la facturation des tarifs de prestations, visées à
-l'article L. 174-3 du code de la sécurité sociale, sont liquidées et perçues
-dans les conditions en vigueur au cours de l'exercice précédent ;
+1° La caisse chargée du versement des dotations et des forfaits annuels règle
+des acomptes mensuels égaux à un douzième des dotations et des forfaits de
+l'année précédente ;
 
-3° Les autres recettes sont recouvrées dans les conditions et selon les tarifs
-fixés par l'ordonnateur ou selon les modalités prévues dans les conventions en
-cours ou les dispositions réglementaires en vigueur.
+2° Les recettes relatives à la facturation des tarifs de prestations,
+mentionnées à l'article L. 174-3 du même code, sont liquidées et perçues dans
+les conditions en vigueur au cours de l'exercice précédent ;
+
+3° Les autres recettes sont recouvrées dans les conditions et selon les prix ou
+tarifs fixés par l'ordonnateur ou selon les modalités prévues dans les
+conventions en cours ou les dispositions réglementaires en vigueur.

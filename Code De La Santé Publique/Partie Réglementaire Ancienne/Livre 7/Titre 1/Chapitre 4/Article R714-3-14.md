@@ -8,18 +8,13 @@ nouvelles.
 
 Les propositions de dépenses et les prévisions de recettes relatives à la
 réalisation, sur l'exercice concerné, des opérations inscrites dans les
-programmes d'investissement mentionnés au 2° de l'article L. 714-4 sont
+programmes d'investissement mentionnés au 2° de l'article L. 6143-1 sont
 retracées dans ce cadre.
 
 Pour la section d'exploitation du budget général et les budgets annexes définis
 aux articles R. 714-3-12 et R. 714-3-13, les propositions de dépenses et les
 prévisions de recettes présentées au vote du conseil d'administration font
-apparaître distinctement :
-
-1° Le montant des dépenses et des recettes jugées indispensables pour poursuivre
-l'exécution des missions dans les conditions approuvées l'année précédente ;
-
-2° Les mesures nouvelles portant majoration ou minoration des dotations de
-dépenses et des prévisions de recettes telles que définies au 1°, et notamment
-celles nécessaires pour mettre en oeuvre les différentes actions prévues à
-l'article L. 712-20.
+apparaître distinctement les dotations relatives à la poursuite de l'exécution
+des missions dans les conditions approuvées l'année précédente et les mesures
+nouvelles, notamment celles relatives à la mise en oeuvre des différentes
+actions prévues aux articles L. 6122-15 et L. 6122-16.

@@ -4,7 +4,7 @@ Sous réserve des dispositions prévues au III du présent article, les résulta
 de la section d'exploitation du budget général sont affectés selon les modalités
 suivantes :
 
-I. - L'excédent est affecté par délibération du conseild'administration :
+I. - L'excédent est affecté par délibération du conseil d'administration :
 
 a) A un compte de réserve de compensation ;
 
@@ -32,8 +32,8 @@ aux recettes prévues au dernier budget rendu exécutoire de l'exercice concern�
 l'excédent de recettes est affecté à la couverture des charges d'exploitation
 autorisées au dernier budget rendu exécutoire de l'exercice en cours.
 
-Les tarifs de prestations et le montant de la dotation globale sont diminués en
-conséquence.
+Les tarifs de prestations et le montant de la dotation annuelle de financement
+sont diminués en conséquence.
 
 2. S'il est constaté que les recettes mentionnées au 1 ci-dessus sont, à la
 clôture de l'exercice, inférieures aux recettes prévues au dernier budget rendu
@@ -41,8 +41,8 @@ exécutoire de l'exercice concerné, le déficit de recettes ainsi constaté est
 couvert par ajout aux charges d'exploitation autorisées au dernier budget rendu
 exécutoire de l'exercice en cours.
 
-Les tarifs de prestations et le montant de la dotation globale sont majorés en
-conséquence.
+Les tarifs de prestations et le montant de la dotation annuelle de financement
+sont majorés en conséquence.
 
 Les excédents ou déficits de recettes mentionnés au III (1 et 2) ci-dessus sont
 corrigés de la différence existant entre le montant des annulations de titres de

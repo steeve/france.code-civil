@@ -1,7 +1,7 @@
 Article R714-3-48
 ----
 Les prestations de services que les établissements publics de santé peuvent
-assurer à titre subsidiaire, ainsi que le prévoit l'article L. 714-14, sont
+assurer à titre subsidiaire, ainsi que le prévoit l'article L. 6145-7, sont
 développées dans la limite des moyens matériels et humains indispensables à
 l'exécution des missions définies aux articles L. 711-1 et L. 711-3.
 
@@ -13,7 +13,7 @@ de la comptabilité analytique mise en oeuvre conformément à l'article R.
 714-3-43.
 
 Les produits dégagés ainsi que ceux provenant de l'exploitation des brevets et
-licences et du placement des fonds prévu à l'article L. 714-15 sont
+licences et du placement des fonds prévu à l'article L. 6145-8-1 sont
 comptabilisés sur les comptes constituant le groupe fonctionnel "autres
 produits" prévu à l'article R. 714-3-12.
 

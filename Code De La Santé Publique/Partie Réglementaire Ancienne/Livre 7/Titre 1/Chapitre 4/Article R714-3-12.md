@@ -15,7 +15,7 @@ groupes fonctionnels suivants :
 
 2° En recettes :
 
-- groupe 1 : dotation globale de financement ou forfait global de soins ;
+- groupe 1 : produits versés par l'assurance maladie ;
 
 - groupe 2 : produits de l'activité hospitalière ;
 
