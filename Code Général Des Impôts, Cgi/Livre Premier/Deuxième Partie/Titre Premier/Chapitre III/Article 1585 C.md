@@ -1,21 +1,26 @@
 Article 1585 C
 ----
-I. Sont exclues du champ d'application de la taxe locale d'équipement :
+I. Sont exclus du champ d'application de la taxe locale d'équipement :
 
 1° Les constructions qui sont destinées à être affectées à un service public ou
-d'utilité publique, et dont la liste est fixée par un décret en Conseil d'Etat
-(1) ;
+d'utilité publique, et dont la liste est fixée par un décret en Conseil d'Etat ;
 
 2° Les constructions édifiées dans les zones d'aménagement concerté au sens de
 l'article L. 311-1 du code de l'urbanisme lorsque le coût des équipements, dont
 la liste est fixée par un décret en Conseil d'Etat, a été mis à la charge des
-constructeurs (2).
+constructeurs.
 
 3° Les constructions édifiées dans les secteurs de la commune où un programme
 d'aménagement d'ensemble a été approuvé par le conseil municipal lorsque ce
 dernier a décidé de mettre à la charge des constructeurs tout ou partie du coût
 des équipements publics réalisés conformément à l'article L. 332-9 du code de
 l'urbanisme.
+
+4° Les aménagements prescrits par un plan de prévention des risques naturels
+prévisibles ou un plan de prévention des risques technologiques sur des biens
+construits ou aménagés conformément aux dispositions du code de l'urbanisme
+avant l'approbation de ce plan et mis à la charge des propriétaires ou
+exploitants de ces biens.
 
 I bis Lorsque le lotisseur, la personne aménageant un terrain destiné à
 l'accueil d'habitations légères de loisir ou l'association foncière urbaine de
@@ -57,7 +62,3 @@ III. (Abrogé).
 
 IV. Le conseil municipal peut exempter de la taxe les bâtiments à usage agricole
 autres que ceux mentionnés à l'article L. 112-1 du code de l'urbanisme.
-
-(1) Annexe II, art. 317 bis.
-
-(2) Annexe II, art. 317 quater.
