@@ -1,9 +1,6 @@
 Article R342-3
 ----
-Le président du conseil d'administration est nommé, parmi les membres du conseil
-d'administration et sur proposition de celui-ci, par décret pris en conseil des
-ministres.
-
-Le président a voix prépondérante en cas de partage des voix. Il peut être
-assisté d'un directeur général nommé sur sa proposition par le conseil
-d'administration.
+Les actions de la société Compagnie nationale Air France sont détenues en
+majorité par la société Groupe Air France S.A., dont la création a été autorisée
+par le décret n° 94-642 du 25 juillet 1994 et dont l'Etat détient directement
+plus de la moitié du capital social.
