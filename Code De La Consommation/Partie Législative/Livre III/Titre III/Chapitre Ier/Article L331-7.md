@@ -4,11 +4,10 @@ En cas d'échec de sa mission de conciliation, la commission peut, à la demande
 du débiteur et après avoir mis les parties en mesure de fournir leurs
 observations, recommander tout ou partie des mesures suivantes :
 
-1° Rééchelonner, y compris, le cas échéant, en différant le paiement d'une
-partie des dettes, le paiement des dettes autres que fiscales, parafiscales ou
-envers les organismes de sécurité sociale, sans que le délai de report ou de
-rééchelonnement puisse excéder huit ans ou la moitié de la durée de
-remboursement restant à courir des emprunts en cours ; en cas de déchéance du
+1° Rééchelonner le paiement des dettes de toute nature, y compris, le cas
+échéant, en différant le paiement d'une partie d'entre elles, sans que le délai
+de report ou de rééchelonnement puisse excéder dix ans ou la moitié de la durée
+de remboursement restant à courir des emprunts en cours ; en cas de déchéance du
 terme, le délai de report ou de rééchelonnement peut atteindre la moitié de la
 durée qui restait à courir avant la déchéance ;
 
@@ -16,11 +15,11 @@ durée qui restait à courir avant la déchéance ;
 
 3° Prescrire que les sommes correspondant aux échéances reportées ou
 rééchelonnées porteront intérêt à un taux réduit qui peut être inférieur au taux
-d'intérêt légal sur proposition spéciale et motivé et si la situation du
+d'intérêt légal sur proposition spéciale et motivée et si la situation du
 débiteur l'exige. Quelle que soit la durée du plan de redressement, le taux ne
 peut être supérieur au taux légal.
 
-4° En cas de vente forcé du logement principal du débiteur, grevé d'une
+4° En cas de vente forcée du logement principal du débiteur, grevé d'une
 inscription bénéficiant à un établissement de crédit ayant fourni les sommes
 nécessaires à son acquisition, réduire, par proposition spéciale et motivée, le
 montant de la fraction des prêts immobiliers restant due aux établissements de
@@ -48,7 +47,12 @@ différents contrats, de la situation d'endettement du débiteur. Elle peut
 également vérifier que le contrat a été consenti avec le sérieux qu'imposent les
 usages professionnels.
 
-Les dispositions du présent article ne s'appliquent pas aux dettes d'aliments.
+La durée totale des recommandations ne peut excéder dix années. Elles peuvent
+cependant excéder ce délai lorsqu'elles concernent le remboursement de prêts
+contractés lors d'achat d'un bien immobilier constituant la résidence principale
+et dont les recommandations de la commission permettent d'éviter la cession. Les
+dettes fiscales font l'objet d'un rééchelonnement dans les mêmes conditions que
+les autres dettes.
 
 La demande du débiteur formée en application du premier alinéa interrompt la
 prescription et les délais pour agir.

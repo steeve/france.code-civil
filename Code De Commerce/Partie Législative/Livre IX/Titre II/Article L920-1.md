@@ -15,6 +15,6 @@ dispositions suivantes du présent code sont applicables à Mayotte :
 524-20 et L. 524-21 ;
 
 6° Le livre VI, à l'exclusion des articles L. 621-38, L. 621-132 et L. 628-1 à
-L. 628-3 ;
+L. 628-8 ;
 
 7° Le livre VIII.

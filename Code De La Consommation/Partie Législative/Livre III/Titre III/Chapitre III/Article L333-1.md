@@ -1,4 +1,12 @@
 Article L333-1
 ----
-Les créances des organismes de prévoyance ou de sécurité sociale peuvent faire
-l'objet de remises dans des conditions prévues par décret en Conseil d'Etat.
+Sauf accord du créancier, sont exclues de toute remise, de tout rééchelonnement
+ou effacement :
+
+1° Les dettes alimentaires ;
+
+2° Les réparations pécuniaires allouées aux victimes dans le cadre d'une
+condamnation pénale.
+
+Les amendes prononcées dans le cadre d'une condamnation pénale sont exclues de
+toute remise, de tout rééchelonnement ou effacement.

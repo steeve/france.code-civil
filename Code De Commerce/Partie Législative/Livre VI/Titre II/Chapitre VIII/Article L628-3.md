@@ -1,8 +1,6 @@
 Article L628-3
 ----
-Les dispositions de l'article 1er de la loi n° 75-1256 du 27 décembre 1975
-relative à certaines ventes de biens immeubles dans les départements du
-Haut-Rhin, du Bas-Rhin et de la Moselle cessent d'être applicables aux ventes
-forcées d'immeubles compris dans le patrimoine d'un débiteur ayant fait l'objet
-d'une procédure de redressement judiciaire ouverte postérieurement au 1er
-janvier 1986.
+Par dérogation à l'article L. 621-102, il n'est pas procédé, en cas de
+liquidation judiciaire, à la vérification des créances s'il apparaît que le
+produit de la réalisation de l'actif sera entièrement absorbé par les frais de
+justice, sauf décision contraire du juge-commissaire.

@@ -13,4 +13,9 @@ propres à faciliter ou à garantir le paiement de la dette. Il peut également 
 subordonner à l'abstention par le débiteur d'actes qui aggraveraient son
 insolvabilité.
 
-Le plan prévoit les modalités de son exécution.
+Le plan prévoit les modalités de son exécution. Sa durée totale, y compris
+lorsqu'il fait l'objet d'une révision ou d'un renouvellement, ne peut excéder
+dix années. Les mesures du plan peuvent excéder ces délais lorsqu'elles
+concernent le remboursement de prêts contractés pour l'achat d'un bien
+immobilier constituant la résidence principale et dont le plan permet d'éviter
+la cession par le débiteur.

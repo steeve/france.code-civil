@@ -1,5 +1,4 @@
 Article L628-2
 ----
-L'assiette et la liquidation de la taxe sur les frais de justice en matière de
-redressement ou de liquidation judiciaire sont provisoirement réglées
-conformément aux dispositions des lois locales.
+Sauf dispense ordonnée par le juge-commissaire, il est procédé à l'inventaire
+des biens des personnes visées à l'article L. 628-1.
