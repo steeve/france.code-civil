@@ -8,3 +8,5 @@ Chacun des époux peut demander que les effets de la présomption de paternité
 soient rétablis, en justifiant que, dans la période légale de la conception, une
 réunion de fait a eu lieu entre eux, qui rend vraisemblable la paternité du
 mari.
+
+L'action est ouverte à l'enfant pendant les deux années qui suivent sa majorité.

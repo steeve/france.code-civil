@@ -6,3 +6,6 @@ acte de notoriété faisant foi de la possession d'état jusqu'à preuve contrai
 
 Sans préjudice de tous autres moyens de preuve auxquels ils pourraient recourir
 pour en établir l'existence en justice, si elle venait à être contestée.
+
+Le lien de filiation établi par la possession d'état constatée dans l'acte de
+notoriété est mentionné en marge de l'acte de naissance de l'enfant.

@@ -12,7 +12,8 @@ de liens affectifs.
 La simple rétractation du consentement à l'adoption, la demande de nouvelles ou
 l'intention exprimée mais non suivie d'effet de reprendre l'enfant n'est pas une
 marque d'intérêt suffisante pour motiver de plein droit le rejet d'une demande
-en déclaration d'abandon.
+en déclaration d'abandon. Ces démarches n'interrompent pas le délai figurant au
+premier alinéa.
 
 L'abandon n'est pas déclaré si, au cours du délai prévu au premier alinéa du
 présent article, un membre de la famille a demandé à assumer la charge de
@@ -20,7 +21,8 @@ l'enfant et si cette demande est jugée conforme à l'intérêt de ce dernier.
 
 Lorsqu'il déclare l'enfant abandonné, le tribunal délègue par la même décision
 les droits d'autorité parentale sur l'enfant au service de l'aide sociale à
-l'enfance, à l'établissement ou au particulier gardien de l'enfant.
+l'enfance, à l'établissement ou au particulier qui a recueilli l'enfant ou à qui
+ce dernier a été confié.
 
 La tierce opposition n'est recevable qu'en cas de dol, de fraude ou d'erreur sur
 l'identité de l'enfant.

@@ -1,4 +1,6 @@
 Article 335
 ----
-La reconnaissance d'un enfant naturel sera faite par acte authentique,
-lorsqu'elle ne l'aura pas été dans l'acte de naissance.
+La reconnaissance d'un enfant naturel peut être faite dans l'acte de naissance,
+par acte reçu par l'officier de l'état civil ou par tout autre acte authentique.
+
+L'acte comporte les énonciations prévues à l'article 62.

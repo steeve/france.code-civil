@@ -1,6 +1,13 @@
 Article 287
 ----
-Selon l'intérêt des enfants mineurs, l'autorité parentale est exercée soit en
-commun par les deux parents après que le juge ait recueilli leur avis, soit par
-l'un d'eux. En cas d'exercice en commun de l'autorité parentale, le juge indique
-le parent chez lequel les enfants ont leur résidence habituelle.
+L'autorité parentale est exercée en commun par les deux parents. Le juge
+désigne, à défaut d'accord amiable ou si cet accord lui apparaît contraire à
+l'intérêt de l'enfant, le parent chez lequel les enfants ont leur résidence
+habituelle.
+
+Si l'intérêt de l'enfant le commande, le juge peut confier l'exercice de
+l'autorité parentale à l'un des deux parents.
+
+Les parents peuvent, de leur propre initiative ou à la demande du juge,
+présenter leurs observations sur les modalités de l'exercice de l'autorité
+parentale.

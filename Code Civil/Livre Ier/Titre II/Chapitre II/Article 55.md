@@ -10,8 +10,6 @@ mention sommaire en sera faite en marge à la date de la naissance. Si le lieu d
 la naissance est inconnu, le tribunal compétent sera celui du domicile du
 requérant.
 
-En pays étranger, les déclarations aux agents diplomatiques ou aux consuls
-seront faites dans les dix jours de l'accouchement. Toutefois, ce délai pourra
-être prolongé dans certaines circonscriptions consulaires en vertu d'un décret
-du Président de la République qui fixera la mesure et les conditions de cette
-prolongation.
+En pays étranger, les déclarations aux agents diplomatiques ou consulaires
+seront faites dans les quinze jours de l'accouchement. Toutefois, ce délai
+pourra être prolongé par décret dans certaines circonscriptions consulaires.

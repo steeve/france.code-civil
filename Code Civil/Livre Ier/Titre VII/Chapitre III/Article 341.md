@@ -1,13 +1,10 @@
 Article 341
 ----
-La recherche de la maternité est admise.
+La recherche de la maternité est admise sous réserve de l'application de
+l'article 341-1.
 
 L'enfant qui exerce l'action sera tenu de prouver qu'il est celui dont la mère
 prétendue est accouchée.
 
-Il sera reçu à le prouver en établissant qu'il a, à l'égard de celle-ci, la
-possession d'état d'enfant naturel.
-
-A défaut, la preuve de la filiation pourra être faite par témoins, s'il existe,
-soit des présomptions ou indices graves, soit un commencement de preuve par
-écrit, au sens de l'article 324 ci-dessus.
+La preuve ne peut en être rapportée que s'il existe des présomptions ou indices
+graves.
