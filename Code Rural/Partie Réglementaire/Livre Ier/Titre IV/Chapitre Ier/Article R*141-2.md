@@ -1,32 +1,64 @@
 Article R*141-2
 ----
-Les sociétés d'aménagement foncier et d'établissement rural peuvent apporter aux
-collectivités territoriales et aux établissements publics qui leur sont
-rattachés le concours technique prévu à l'article L. 141-5, dans les conditions
-suivantes :
+I. - Dans le cadre du concours technique prévu à l'article L. 141-5, les
+sociétés d'aménagement foncier et d'établissement rural peuvent être chargées
+par les collectivités territoriales ou les établissements publics qui leur sont
+rattachés et pour leur compte notamment des missions suivantes :
 
-1° Préalablement à sa transmission à la collectivité territoriale ou
-l'établissement public, la société d'aménagement foncier et d'établissement
-rural adresse aux commissaires du Gouvernement siégeant auprès d'elle, par pli
-recommandé avec demande d'avis de réception, la soumission ou l'offre d'une
-valeur égale ou supérieure au montant fixé par l'arrêté prévu à l'alinéa 2 de
-l'article R. 141-10.
+1° L'assistance à la mise en oeuvre des droits de préemption dont ces personnes
+morales sont titulaires ;
 
-Sous les mêmes conditions de valeur, lorsque la société envisage de traiter sur
-mémoire, elle doit, avant de conclure le marché avec la collectivité
-territoriale ou l'établissement public, informer, par pli recommandé avec
-demande d'avis de réception, les commissaires du Gouvernement de l'objet de ce
-marché et du prix proposé.
+2° La négociation de transactions immobilières portant sur les immeubles
+mentionnés à l'article L. 141-1 ;
 
-Les commissaires du Gouvernement peuvent, en outre, décider que certaines
-soumissions ou offres d'une valeur inférieure au montant fixé par l'arrêté
-mentionné au premier alinéa doivent être également soumises à leur approbation ;
+3° La gestion du patrimoine foncier agricole de ces personnes morales ;
 
-2° Les commissaires du Gouvernement peuvent s'opposer, par décision motivée, à
-la conclusion du marché ; leur contrôle ne porte que sur l'objet et le prix du
-marché ;
+4° La recherche et la communication d'informations relatives au marché foncier ;
 
-3° Si les commissaires du Gouvernement n'ont pas notifié à la société
-d'aménagement foncier et d'établissement rural leur décision dans le délai de
-quinze jours à compter de la date de réception du pli recommandé, leur décision
-est réputée favorable.
+5° L'aide à la mise en oeuvre et au suivi des politiques foncières en zone
+rurale.
+
+II. - Les missions de concours technique mentionnées aux 2° et 3° ci-dessus font
+l'objet d'un mandat spécial écrit de la collectivité territoriale ou de
+l'établissement public précisant notamment les conditions dans lesquelles la
+société d'aménagement foncier et d'établissement rural est autorisée à recevoir,
+verser ou remettre des sommes d'argent, biens, effets ou valeurs, les modalités
+de reddition de compte ainsi que le montant de sa rémunération.
+
+Les sociétés d'aménagement foncier et d'établissement rural qui entendent se
+livrer aux opérations visées à l'alinéa précédent doivent justifier auprès du
+mandant d'une garantie financière forfaitaire d'un montant de 200 000 F
+résultant d'un engagement de caution fourni par un établissement de crédit ou
+une entreprise d'assurance habilitée à cette fin. Si elles sont autorisées par
+le mandant à l'occasion des opérations susmentionnées à détenir des fonds, le
+montant du cautionnement devra être relevé à concurrence de l'importance des
+fonds dont la détention est envisagée.
+
+En outre elles doivent justifier d'une assurance contre les conséquences
+pécuniaires de leur responsabilité civile professionnelle.
+
+Le mandat est transmis par la société aux commissaires du Gouvernement par
+lettre recommandée avec demande d'avis de réception. Il est accompagné des
+justifications du cautionnement et de l'attestation d'assurance. A l'expiration
+du délai de deux mois suivant la réception de cette communication, les décisions
+du commissaire du Gouvernement sont réputées favorables.
+
+Le refus doit être motivé.
+
+Les opérations confiées par le mandat ne peuvent être entreprises avant
+l'approbation expresse ou tacite de celui-ci par les commissaires du
+Gouvernement.
+
+III. - Pour les missions de concours technique autres que celles visées aux 2°
+et 3° du I, la société d'aménagement foncier et d'établissement rural adresse
+aux commissaires du Gouvernement les conventions conclues avec la collectivité
+territoriale ou l'établissement public.
+
+Les commissaires du Gouvernement peuvent s'opposer par décision motivée à
+l'exécution de ces conventions, leur contrôle ne portant que sur l'objet et le
+montant de celles-ci.
+
+Si dans le délai de quinze jours à compter de la date de réception de la
+convention, les commissaires du Gouvernement n'ont pas notifié leur décision à
+la société d'aménagement foncier et d'établissement rural, celles-ci sont
+réputées favorables.
