@@ -5,6 +5,3 @@ intérieur situées dans des établissements médico-sociaux publics, sous rése
 que l'intéressé puisse assurer quotidiennement ses missions dans chaque
 établissement, et notamment les urgences, et qu'il obtienne l'accord du
 représentant légal des établissements concernés.
-
-Les dispositions du présent article ne sont pas applicables aux pharmaciens des
-hôpitaux à temps partiel.

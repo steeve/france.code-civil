@@ -6,7 +6,8 @@ représentant légal de l'organisme à but non lucratif gérant le service de
 dialyse à domicile.
 
 Elle est adressée, par lettre recommandée avec demande d'accusé de réception, au
-préfet du département du lieu d'implantation prévu.
+directeur de l'agence régionale de l'hospitalisation du lieu d'implantation
+prévu.
 
 La demande doit comporter les renseignements suivants :
 

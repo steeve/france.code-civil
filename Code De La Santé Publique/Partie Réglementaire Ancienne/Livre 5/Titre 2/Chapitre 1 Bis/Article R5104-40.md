@@ -17,3 +17,10 @@ détachement, les dispositions statutaires qui leur sont applicables ;
 4° Les conditions dans lesquelles sont mis à la disposition du pharmacien le
 personnel ainsi que les locaux, équipements et aménagements nécessaires au bon
 fonctionnement de la pharmacie.
+
+Dans les groupements de coopération sanitaire qui ont la personnalité morale de
+droit privé, la gérance de la pharmacie à usage intérieur peut être assurée par
+un pharmacien appartenant à l'une des catégories de praticiens mentionnées au 1°
+de l'article L. 6152-1 mis à disposition du groupement dans les conditions
+prévues par le statut dont il relève. Dans ce cas, le contrat de gérance ne
+comporte pas les éléments visés au 3° ci-dessus.

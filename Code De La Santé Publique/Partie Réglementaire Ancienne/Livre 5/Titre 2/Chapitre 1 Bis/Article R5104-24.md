@@ -6,4 +6,4 @@ jour où l'autorisation a été notifiée ou est réputée acquise.
 
 Si la pharmacie ne fonctionne pas à l'issue de ce délai, l'autorisation devient
 caduque. Toutefois, sur justification produite avant l'expiration dudit délai,
-celui-ci peut être prorogé par décision du préfet.
+celui-ci peut être prorogé par décision de l'autorité administrative compétente.

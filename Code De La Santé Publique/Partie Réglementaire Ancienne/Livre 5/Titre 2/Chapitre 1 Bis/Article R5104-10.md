@@ -1,13 +1,13 @@
 Article R5104-10
 ----
 Une pharmacie à usage intérieur peut desservir plusieurs sites géographiques
-d'un établissement ou d'un syndicat interhospitalier à condition que la
-dispensation des médicaments, produits ou objets mentionnés à l'article L.
-4211-1 ainsi que des dispositifs médicaux stériles dans les structures
-habilitées à assurer les soins dans chaque site puisse être assurée au minimum
-une fois par jour et dans des délais permettant de répondre aux demandes
-urgentes, dans les conditions fixées par les arrêtés du ministre chargé de la
-santé prévus aux articles R. 5104-20 et R. 5203.
+relevant d'un même gestionnaire public ou privé à condition que la dispensation
+des médicaments, produits ou objets mentionnés à l'article L. 4211-1 ainsi que
+des dispositifs médicaux stériles dans les structures habilitées à assurer les
+soins dans chaque site puisse être assurée au minimum une fois par jour et dans
+des délais permettant de répondre aux demandes urgentes, dans les conditions
+fixées par les arrêtés du ministre chargé de la santé prévus aux articles R.
+5104-20 et R. 5203.
 
 La pharmacie à usage intérieur d'un établissement de santé peut desservir dans
 les mêmes conditions :
@@ -22,4 +22,12 @@ de santé selon l'article L. 6141-3 dans les conditions prévues par l'article L
 
 3° Les centres de planification ou d'éducation familiale gérés par cet
 établissement de santé, en médicaments, produits ou objets que ces centres
-délivrent en application des articles L. 2311-4 et L. 2311-5.
+délivrent en application des articles L. 2311-4 et L. 2311-5 ;
+
+4° Les installations de chirurgie esthétique, gérées par cet établissement de
+santé, dans les conditions prévues à l'article L. 6322-1 ;
+
+5° L'établissement pénitentiaire et les locaux de rétention administrative au
+sein desquels l'établissement de santé assure les missions du service public
+hospitalier, dans les conditions prévues au dernier alinéa de l'article L.
+6112-1.

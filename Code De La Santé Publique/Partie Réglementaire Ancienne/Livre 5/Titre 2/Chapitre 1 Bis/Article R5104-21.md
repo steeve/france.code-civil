@@ -6,8 +6,8 @@ géographique à un autre est présentée par la personne physique titulaire de
 l'autorisation d'exploiter l'établissement ou par le représentant légal de la
 personne morale intéressée.
 
-Elle est adressée, par lettre recommandée avec demande d'avis de réception, au
-préfet du département du lieu d'implantation prévu.
+Elle est adressée, par lettre recommandée avec demande d'avis de réception, à
+l'autorité administrative compétente mentionnée à l'article R. 5104-22.
 
 La demande est accompagnée d'un dossier comportant, selon la catégorie
 d'établissement, les renseignements suivants :
@@ -25,15 +25,16 @@ pharmacie ;
 d) Pour les établissements de santé, la copie du contrat d'objectifs et de
 moyens prévu à l'article L. 6114-1 ;
 
-e) Le site d'implantation de la pharmacie, le ou les emplacements de ses locaux
-et, le cas échéant, le ou les sites géographiques dont la desserte est prévue ;
+e) Le ou les sites d'implantation de la pharmacie, le ou les emplacements de ses
+locaux et, le cas échéant, le ou les sites géographiques dont la desserte est
+prévue ;
 
 f) Un plan détaillé et coté des locaux et toutes informations relatives aux
 éléments mentionnés aux articles R. 5104-15 à R. 5104-20 ;
 
-g) Les modalités envisagées pour la dispensation des médicaments sur le site
-d'implantation de la pharmacie et, s'il y a lieu, sur les autres sites desservis
-par la pharmacie ;
+g) Les modalités envisagées pour la dispensation des médicaments et des
+dispositifs médicaux stériles sur le ou les sites d'implantation de la pharmacie
+et, s'il y a lieu, sur les autres sites desservis par la pharmacie ;
 
 h) Lorsque la pharmacie a notamment pour rôle d'approvisionner d'autres
 pharmacies à usage intérieur en application de l'article R. 5104-12, tout
@@ -41,11 +42,16 @@ renseignement concernant ces pharmacies à usage intérieur pour ce qui est de
 leur localisation et de leur activité, ainsi que les modalités de leur
 approvisionnement ;
 
-i) En outre, pour les syndicats interhospitaliers, l'arrêté prévu à l'article L.
-6132-2 permettant de vérifier qu'une telle demande est conforme à l'objet du
-syndicat ;
+i) En outre, pour les syndicats interhospitaliers et les groupements de
+coopération sanitaire, l'arrêté ou l'acte d'approbation respectivement prévus
+aux articles L. 6132-2 et L. 6133-3 permettant de vérifier qu'une telle demande
+est conforme à l'objet du syndicat ou du groupement ;
 
-j) Lorsque la pharmacie d'un établissement de santé ou d'un syndicat
-interhospitalier a notamment pour rôle d'assurer la stérilisation des
-dispositifs médicaux, un document attestant de l'adoption du système prévu à
-l'article R. 711-1-16.
+j) Lorsque la pharmacie d'un établissement de santé ou de chirurgie esthétique,
+d'un syndicat interhospitalier ou d'un groupement de coopération sanitaire a
+notamment pour rôle d'assurer la stérilisation des dispositifs médicaux, un
+document attestant de l'adoption du système prévu à l'article L. 6111-1 ;
+
+k) Lorsque l'autorisation est sollicitée en application de l'article L. 5126-3,
+la convention fixant les engagements des parties, mentionnée au deuxième alinéa
+de cet article.

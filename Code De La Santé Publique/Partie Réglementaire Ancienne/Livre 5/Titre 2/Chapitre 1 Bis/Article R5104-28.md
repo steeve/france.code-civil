@@ -5,7 +5,7 @@ responsable des activités prévues à l'article L. 5126-5 et autorisées pour c
 pharmacie.
 
 Le personnel attaché à la pharmacie exerce ses fonctions sous l'autorité
-technique du pharmacien chargé de la gérance et des pharmaciens assistants de
+technique du pharmacien chargé de la gérance et des pharmaciens adjoints de
 cette pharmacie à usage intérieur.
 
 Le pharmacien chargé de la gérance de la pharmacie à usage intérieur dirige et,

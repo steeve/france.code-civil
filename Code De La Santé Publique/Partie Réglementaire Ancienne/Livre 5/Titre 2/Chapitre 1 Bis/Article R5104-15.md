@@ -4,9 +4,9 @@ Les pharmacies à usage intérieur disposent de locaux, de moyens en personnel, 
 moyens en équipements et d'un système d'information leur permettant d'assurer
 l'ensemble des missions suivantes :
 
-1° La gestion, l'approvisionnement et la dispensation des médicaments, produits
-ou objets mentionnés à l'article L. 4211-1 ainsi que des dispositifs médicaux
-stériles ;
+1° La gestion, l'approvisionnement, le contrôle, la détention et la dispensation
+des médicaments, produits ou objets mentionnés à l'article L. 4211-1 ainsi que
+des dispositifs médicaux stériles ;
 
 2° La réalisation des préparations magistrales à partir de matières premières ou
 de spécialités pharmaceutiques ;
@@ -28,6 +28,6 @@ ou essais des médicaments mentionnés aux articles L. 5126-11 et L. 5126-12 ;
 spéciales mentionnés au 13° de l'article L. 5311-1 ;
 
 4° La stérilisation des dispositifs médicaux dans les conditions prévues par le
-décret mentionné à l'article L. 6111-1 (4e alinéa) ;
+décret mentionné à l'article L. 6111-1 (5e alinéa) ;
 
 5° La préparation des médicaments radiopharmaceutiques.

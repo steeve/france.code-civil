@@ -1,12 +1,13 @@
 Article R5009
 ----
-Les activités des pharmaciens assistants comprennent :
+Les activités des pharmaciens adjoints comprennent :
 
 a) Dans les officines et les pharmacies mutualistes ou des sociétés de secours
-minières, les activités mentionnées aux articles L. 568, L. 569 et L. 589 ;
+minières, les activités mentionnées aux articles L. 5125-1, L. 5125-2 et L.
+5125-25 ;
 
 b) Dans les pharmacies à usage intérieur, les activités mentionnées aux articles
-L. 595-2, L. 595-6 et L. 595-9-1 ;
+L. 5126-5, L. 5126-11 et L. 5126-12 ;
 
 c) Dans les établissements pharmaceutiques, les activités mentionnées aux
 articles R. 5106 et R. 5114-2 ;

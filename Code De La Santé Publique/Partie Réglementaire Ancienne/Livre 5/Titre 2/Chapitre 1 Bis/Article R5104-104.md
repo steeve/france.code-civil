@@ -7,7 +7,7 @@ plusieurs pharmaciens chimistes des armées pour assister le pharmacien chargé 
 la gérance.
 
 Ces pharmaciens peuvent exercer simultanément leurs fonctions et celles de
-pharmacien responsable, délégué ou assistant d'un établissement pharmaceutique
+pharmacien responsable, délégué ou adjoint d'un établissement pharmaceutique
 dans les mêmes conditions que le pharmacien chargé de la gérance de la pharmacie
 à usage intérieur.
 

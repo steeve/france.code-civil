@@ -16,4 +16,4 @@ limitrophes.
 Le pharmacien chargé de la gérance d'une seule pharmacie à usage intérieur d'un
 service départemental d'incendie et de secours peut, par ailleurs, s'il y exerce
 son activité à temps partiel, assurer la gérance d'une autre pharmacie à usage
-intérieur mentionnée à l'article L. 6126-1.
+intérieur mentionnée à l'article L. 5126-1.

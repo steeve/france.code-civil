@@ -2,7 +2,7 @@ Article R5115-1
 ----
 I. - Les entreprises ou organismes mentionnés à l'article R. 5106 ne sont pas
 autorisés à délivrer au public les médicaments, produits ou objets mentionnés
-aux articles L. 511-1 (4°) et L. 512.
+aux articles L. 5121-1 (4°) et L. 4211-1.
 
 Cette disposition ne fait pas obstacle, sous réserve que soit effectué un suivi
 individualisé des lots et, s'il y a lieu, leur retrait, à ce que les entreprises
@@ -14,8 +14,8 @@ troisième alinéa de l'article R. 5194 :
 
 a) Les articles de pansement et de suture chirurgicale ;
 
-b) Les médicaments mentionnés à l'article L. 601 utilisés en diagnostic médical,
-en anesthésie, en allergologie, ou d'usage antalgique ou dentaire ;
+b) Les médicaments mentionnés à l'article L. 5121-8 utilisés en diagnostic
+médical, en anesthésie, en allergologie, ou d'usage antalgique ou dentaire ;
 
 c) Les médicaments mentionnés à l'article R. 5143-5-7.
 
@@ -44,39 +44,42 @@ intérieur, les entreprises ou organismes autorisés au titre des 1°, 2°, 3°,
 produits nécessaires à ces vaccinations, sur commande écrite du médecin
 responsable du service ou centre ;
 
-2° Aux dispensaires antivénériens mentionnés à l'article L. 295, les produits
+2° Aux dispensaires antivénériens mentionnés à l'article L. 1423-2, les produits
 nécessaires aux traitements ambulatoires qu'ils assurent, sur commande écrite du
 pharmacien ou du médecin responsable dans le dispensaire de la détention et de
 la dispensation de ces produits ;
 
 3° Aux centres de planification ou d'éducation familiale, les médicaments,
 produits ou objets contraceptifs que les centres distribuent dans les conditions
-prévues à l'article 4 de la loi n° 67-1176 du 28 décembre 1967 ainsi que les
-médicaments que les centres distribuent en application de l'article 6 bis de la
-même loi, sur commande écrite du pharmacien attaché au centre, ou, à défaut, du
-directeur, ou d'un autre médecin autorisé par le préfet ;
+prévues aux articles L. 2311-1, L. 2311-2, L. 2311-4 et L. 2311-6 ainsi que les
+médicaments que les centres distribuent en application de l'article L. 2311-5,
+sur commande écrite du pharmacien attaché au centre, ou, à défaut, du directeur,
+ou d'un autre médecin autorisé par le préfet ;
 
-4° Aux dispensaires antituberculeux mentionnés à l'article L. 220, les
+4° Aux dispensaires antituberculeux mentionnés à l'article L. 3112-5, les
 médicaments antituberculeux que ces dispensaires sont autorisés à délivrer, sur
 commande écrite du pharmacien du centre ou du médecin autorisé par le préfet ;
 
-5° Aux établissements de transfusion sanguine mentionnés à l'article L. 668-1
+5° Aux établissements de transfusion sanguine mentionnés à l'article L. 1223-1
 bénéficiant de l'autorisation préalable prévue à l'article R. 668-4-1, les
 médicaments dérivés du sang que ces établissements sont autorisés à dispenser
 aux malades qui y sont traités, sur commande écrite du directeur ou d'un
 pharmacien de cet établissement ;
 
-6° Aux établissements de santé mentionnés à l'article L. 595-5, les médicaments
-répondant aux conditions fixées par ledit article et classés dans la catégorie
-des médicaments réservés à l'usage hospitalier prévue à l'article R. 5143-5-2,
-sur commande écrite du pharmacien ou du médecin responsable dans l'établissement
-de la détention et de la dispensation de ces médicaments ;
+6° Aux établissements de santé et aux installations de chirurgie esthétique se
+trouvant dans la situation prévue à l'article L. 5126-6, sous réserve, pour ces
+dernières, qu'une mention contraire ne figure pas dans l'autorisation de mise
+sur le marché, les médicaments répondant aux conditions fixées par ledit article
+et classés dans la catégorie des médicaments réservés à l'usage hospitalier
+prévue à l'article R. 5143-5-2, sur commande écrite du pharmacien ou du médecin
+responsable dans l'établissement de la détention et de la dispensation de ces
+médicaments ;
 
 7° Aux centres spécialisés de soins aux toxicomanes mentionnés à l'article L.
-355-21-1, les médicaments correspondant strictement aux missions de ces centres,
+3414-1, les médicaments correspondant strictement aux missions de ces centres,
 sur commande écrite du pharmacien ou du médecin responsable dans le centre de la
 détention et de la dispensation de ces médicaments ;
 
-8° Aux personnes morales mentionnées à l'article L. 512-2, des gaz à usage
+8° Aux personnes morales mentionnées à l'article L. 4211-5, des gaz à usage
 médical, sur commande écrite du pharmacien qui assure la responsabilité de leur
 dispensation à domicile.

@@ -15,8 +15,8 @@ santé.
 A titre exceptionnel et si elle n'est plus provisoirement à même d'assurer une
 ou plusieurs de ses activités, une pharmacie à usage intérieur peut en confier
 la réalisation à d'autres pharmacies à usage intérieur du même établissement ou
-du syndicat interhospitalier dont est membre l'établissement où elle est
-implantée.
+du syndicat interhospitalier ou du groupement de coopération sanitaire dont est
+membre l'établissement où elle est implantée.
 
 Pour certaines préparations hospitalières, une pharmacie à usage intérieur d'un
 établissement de santé peut en confier la réalisation à un établissement

@@ -19,4 +19,7 @@ système est arrêté par le directeur ou le secrétaire général après consul
 du conseil d'administration et de la commission médicale d'établissement. Dans
 les établissements de santé privés, il est arrêté par l'organe qualifié après
 avis de la conférence médicale ou de la commission médicale respectivement
-prévues aux articles L. 6161-2 et L. 6161-8.
+prévues aux articles L. 6161-2 et L. 6161-8. Dans les groupements de coopération
+sanitaire, le système est arrêté par l'administrateur du groupement après avis
+de l'assemblée générale. Dans les établissements de chirurgie esthétique, il est
+arrêté par l'organe qualifié.

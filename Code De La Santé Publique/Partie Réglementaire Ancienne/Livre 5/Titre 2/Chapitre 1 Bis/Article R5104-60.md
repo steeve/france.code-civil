@@ -3,8 +3,9 @@ Article R5104-60
 La demande prévue à l'article L. 5126-7 tendant à obtenir l'autorisation de
 création ou de transfert d'une pharmacie à usage intérieur est présentée par le
 représentant légal de la structure d'hospitalisation à domicile. Elle est
-adressée, par lettre recommandée avec demande d'accusé de réception, au préfet
-du département du lieu d'implantation prévu.
+adressée, par lettre recommandée avec demande d'accusé de réception, au
+directeur de l'agence régionale de l'hospitalisation du lieu d'implantation
+prévu.
 
 La demande est accompagnée d'un dossier comportant les renseignements suivants :
 
