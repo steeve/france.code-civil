@@ -19,6 +19,11 @@ l'employeur ;
 4°) l'établissement de l'employeur en cas de différend portant sur des questions
 relatives à l'affiliation et aux cotisations des travailleurs salariés.
 
+5°) l'établissement concerné de l'entreprise de travail temporaire pour les
+contestations relatives à l'application des deux premiers alinéas de l'article
+L. 241-5-1 du présent code et du premier alinéa de l'article 1154-1 du code
+rural.
+
 Un arrêté du garde des sceaux, ministre de la justice, du ministre chargé de la
 sécurité sociale et du ministre chargé de l'agriculture détermine le tribunal
 compétent pour statuer lorsque le domicile du demandeur n'est pas compris dans
