@@ -1,11 +1,9 @@
 Article L443-8
 ----
-Lorsque des immeubles collectifs appartenant à un organisme d'habitations à
-loyer modéré comportent de façon durable un nombre important de logements libres
-à la location, l'organisme propriétaire peut procéder à la vente de ces
-logements au profit des personnes physiques ne disposant pas de ressources
-supérieures à celles qui sont fixées pour l'octroi des prêts aidés par l'Etat
-pour la construction de logements en accession à la propriété. Les locataires de
-l'organisme disposent d'un droit de priorité pour l'acquisition de ces
-logements. Un décret en Conseil d'Etat précise les conditions d'application du
-présent article.
+Lorsque des circonstances économiques ou sociales particulières le justifient,
+la vente de logements locatifs ne répondant pas aux conditions d'ancienneté
+définies à l'article L. 443-7 peut ^etre autorisée par décision du ministre
+chargé de la construction et de l'habitation et du ministre chargé de l'économie
+et des finances, après consultation de la commune d'implantation. La décision
+fixe les conditions de remboursement de tout ou partie des aides accordées par
+l'Etat pour la construction, l'acquisition ou l'amélioration de ce logement.
