@@ -20,4 +20,11 @@ communes et des établissements publics, notamment hospitaliers ;
 
 5° Les laboratoires des établissements de transfusion sanguine et des centres
 anti-cancéreux qui effectuent exclusivement les actes de biologie directement
-liés à leur objet spécifique.
+liés à leur objet spécifique ;
+
+6° Les infirmiers qui, à l'occasion de soins qu'ils accomplissent, effectuent
+les contrôles biologiques de dépistage à lecture instantanée dont la liste est
+fixée par décret en Conseil d'Etat pris après avis de l'Académie nationale de
+médecine. Ces contrôles biologiques ne donnent pas lieu, en vertu de la
+législation de sécurité sociale, à un remboursement distinct et ne peuvent faire
+l'objet d'un compte rendu écrit.

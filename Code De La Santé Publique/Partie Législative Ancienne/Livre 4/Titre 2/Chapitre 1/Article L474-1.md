@@ -12,8 +12,9 @@ d'infirmier responsable des soins généraux délivré conformément aux obligat
 communautaires par l'un de ces Etats et figurant sur une liste établie par le
 ministre chargé de la santé, ou tout autre diplôme, certificat ou autre titre
 d'infirmier responsable des soins généraux délivré par l'un des Etats membres
-avant le 29 juin 1979 à la condition qu'il soit accompagné d'une attestation de
-cet Etat certifiant que :
+sanctionnant une formation d'infirmier responsable des soins généraux acquise
+dans l'un de ces Etat commencée avant le 29 juin 1979 à la condition qu'il soit
+accompagné d'une attestation de cet Etat certifiant que :
 
 - le titulaire du diplôme, certificat ou titre s'est consacré, de façon
 effective et licite, aux activités d'infirmier responsable des soins généraux

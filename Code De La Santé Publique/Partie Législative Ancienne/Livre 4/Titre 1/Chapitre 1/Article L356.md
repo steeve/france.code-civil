@@ -11,10 +11,10 @@ juillet 1922 ratifié par la loi du 13 décembre 1924, loi du 31 décembre 1924,
 loi du 18 août 1927) ou aux praticiens sarrois (lois des 26 juillet 1935 et 27
 juillet 1937) ;
 
-2° De nationalité française, citoyen andorran ou ressortissant de l'un des Etats
-membres de la communauté économique européenne, du Maroc ou de la Tunisie, sous
-réserve de l'application, le cas échéant, soit des règles fixées aux alinéas 4 à
-9 du présent article, soit de celles qui découlent d'engagements internationaux
+2° De nationalité française ou ressortissant de l'un des Etats membres de la
+communauté économique européenne, du Maroc ou de la Tunisie, sous réserve de
+l'application, le cas échéant, soit des règles fixées aux alinéas 4 à 9 du
+présent article, soit de celles qui découlent d'engagements internationaux
 autres que ceux mentionnés à l'alinéa 4 ci-après.
 
 Toutefois, lorsqu'un Etat étranger accorde à des médecins, chirurgiens-dentistes
@@ -43,10 +43,11 @@ par ces organismes, autoriser individuellement à exercer :
 - des personnes étrangères titulaires d'un diplôme français permettant
 l'exercice de la profession ;
 
-- des personnes françaises ou étrangères, titulaires d'un diplôme étranger de
-valeur scientifique reconnue équivalente par le ministre chargé des universités
-à celle d'un diplôme français permettant l'exercice de la profession et qui ont
-subi avec succès des épreuves définies par voie réglementaire.
+- des personnes françaises ou étrangères, titulaires d'un diplôme, titre ou
+certificat de valeur scientifique reconnue équivalente par le ministre chargé
+des universités à celle d'un diplôme français permettant l'exercice de la
+profession et qui ont subi avec succès des épreuves définies par voie
+réglementaire.
 
 Le nombre maximum de ces autorisations est fixé chaque année par voie
 réglementaire, en accord avec la commission prévue ci-dessus et compte tenu du

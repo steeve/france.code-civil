@@ -3,7 +3,7 @@ Article L374
 L'exercice de la profession de sage-femme comporte [*attributions*] la pratique
 des actes nécessaires au diagnostic, à la surveillance de la grossesse et à la
 préparation psychoprophylactique à l'accouchement, ainsi qu'à la surveillance et
-à la pratique de l'accouchement et des soins postnataux en ce qui concerne la
+à la pratique de l'accouchement et des soins postnatals en ce qui concerne la
 mère et l'enfant, sous réserve des dispositions des articles L. 369, L. 370 et
 L. 371 du présent code et suivant les modalités fixées par le code de
 déontologie de la profession, mentionné à l'article L. 366.
@@ -21,7 +21,11 @@ loi lui confère, notamment en prêtant son concours aux personnes mentionnées 
 
 3° Tout médecin ou sage-femme qui pratique les actes susmentionnés pendant la
 durée d'une peine d'interdiction temporaire prononcée en application des
-articles L. 423 et L. 454.
+articles L. 423 et L. 454 ;
+
+4° Tout médecin ou sage-femme mentionné à l'article L. 356-1 du présent code qui
+exécute les actes énumérés ci-dessus sans remplir les conditions ou satisfaire
+aux obligations prévues audit article.
 
 L'exercice de la profession de sage-femme peut comporter également la
 participation aux consultations de planification familiale.
