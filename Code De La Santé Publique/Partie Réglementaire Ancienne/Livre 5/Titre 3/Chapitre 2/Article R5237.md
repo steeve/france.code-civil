@@ -1,20 +1,32 @@
 Article R5237
 ----
-Les autorisations sont personnelles, les détenteurs de ces autorisations ne
+Les autorisations prévues aux articles R. 5234 et R. 5235 du présent code sont
+personnelles et ne sont pas transférables. Leurs titulaires ne peuvent effectuer
+que les opérations expressément mentionnées dans ces autorisations. Ils ne
 peuvent céder ou mettre à la disposition d'autres personnes les radio-éléments
-artificiels qui leur ont été délivrés, qu'en suivant la procédure prévue aux
-articles R. 5234 et R. 5235.
+artificiels qui leur ont été délivrés qu'en suivant la procédure prévue à
+l'article R. 5237-1.
 
-Les bénéficiaires d'une autorisation individuelle devront se soumettre tant aux
-conditions générales qu'aux conditions particulières éventuellement fixées par
-la décision d'autorisation lors de la délivrance des radio-éléments artificiels.
-Dans le cas où ils feraient un usage interdit ou abusif des radio-éléments
-artificiels qu'ils détiennent, le retrait de cette autorisation pourra être
-prononcé par l'autorité qui l'a accordée sur avis conforme de la section
-compétente, pris dans les conditions qui seront déterminées par arrêté après
-consultation de la commission interministérielle [*sanctions*]. Cet arrêté
-déterminera la procédure à suivre et les conséquences du retrait, notamment en
-ce qui concerne la dévolution des produits irradiés.
+Si un établissement ayant fait l'objet d'une autorisation n'a pas commencé à
+fonctionner dans un délai d'un an, l'autorisation devient caduque.
 
-Ces dispositions ne font pas obstacle à l'application des peines prévues à
-l'article L. 639.
+Les autorisations sont délivrées sans préjudice des obligations créées par
+d'autres lois ou règlements.
+
+Le titulaire d'une autorisation doit se soumettre tant aux prescriptions
+résultant de la réglementation applicable qu'aux conditions particulières
+éventuellement fixées par la décision d'autorisation.
+
+L'autorisation peut être suspendue ou retirée [*retrait*] lorsque cette
+autorisation elle-même ou l'usage qui en est fait par son titulaire ne répondent
+plus aux obligations découlant de la réglementation en vigueur, et notamment si
+le titulaire fait un usage interdit ou abusif des radio-éléments artificiels
+détenus par lui.
+
+La suspension ne peut excéder quatre-vingt-dix jours [*durée*]. Le retrait ne
+peut intervenir qu'après avis de la section compétente de la commission
+interministérielle des radio-éléments artificiels et après que l'intéressé ait
+été invité à fournir ses explications.
+
+En cas de retrait, le détenteur des radio-éléments artificiels doit s'en
+dessaisir dans les conditions déterminées aux articles R. 5237-1 et R. 5237-4.
