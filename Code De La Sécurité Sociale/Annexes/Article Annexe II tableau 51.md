@@ -1,24 +1,20 @@
 Article Annexe II tableau 51
 ----
-Date de création : 9 novembre 1972.
-
-Dernière mise à jour : -
-
 DESIGNATION DES MALADIES :
 
 
-Dermites eczématiformes récidivant à une nouvelle exposition ou confirmées par
-un test épicutané
+Lésions eczématiformes récidivant en cas de nouvelle exposition au risque ou
+confirmées par un test épicutané
 
-DELAI DE PRISE EN CHARGE : 7 jours
+DELAI de prise en charge : 15 jours
 
-LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
+LISTE LIMITATIVE DES TRAVAUX susceptibles de provoquer ces maladies :
 
-Préparation de résines époxydiques ;
+Préparation des résines époxydiques.
 
 Emploi des résines époxydiques :
 
-Fabrication des stratifiés ;
+- fabrication des stratifiés ;
 
-Fabrication et utilisation de colles, vernis, peintures à base de résines
+- fabrication et utilisation de colles, vernis, peintures à base de résines
 époxydiques.
