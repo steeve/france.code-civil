@@ -1,14 +1,19 @@
 Article 2 septdecies
 ----
 I. - Lorsque l'immeuble appartient à une société, les obligations fixées par les
-articles 2 quaterdecies, 2 quindecies, 2 sexdecies et 2 sexdecies A incombent à
-cette société. L'engagement prévu à l'article 2 quaterdecies est joint par la
-société à sa déclaration du résultat de l'année au cours de laquelle a pris
-effet la location dont les revenus peuvent bénéficier de la déduction
-forfaitaire majorée. L'option prévue à l'article 2 quindecies est jointe par la
-société, selon le cas, à sa déclaration du résultat de l'année d'achèvement du
-logement ou de son acquisition si elle est postérieure, ou à sa déclaration du
-résultat de l'année d'achèvement des travaux.
+articles 2 quaterdecies, 2 quaterdecies A, 2 quindecies, 2 sexdecies, 2
+sexdecies-0 A et 2 sexdecies A incombent à cette société. L'engagement prévu à
+l'article 2 quaterdecies est joint par la société à sa déclaration du résultat
+de l'année au cours de laquelle a pris effet la location dont les revenus
+peuvent bénéficier de la déduction forfaitaire majorée. L'engagement prévu à
+l'article 2 quaterdecies A est joint par la société à sa déclaration du résultat
+de l'année au cours de laquelle la location ouvre droit pour la première fois à
+la déduction forfaitaire majorée.
+
+L'option prévue à l'article 2 quindecies est jointe par la société, selon le
+cas, à sa déclaration du résultat de l'année d'achèvement du logement ou de son
+acquisition si elle est postérieure, ou à sa déclaration du résultat de l'année
+d'achèvement des travaux.
 
 II. - La société doit, avant le 16 février de chaque année, faire parvenir à ses
 associés un document établi en double exemplaire conformément à un modèle fixé
@@ -22,8 +27,8 @@ et, le cas échéant, des parts souscrites, acquises et transmises au cours de
 l'année ainsi que la date de ces opérations ;
 
 3° L'attestation que la location et, le cas échéant, la sous-location
-remplissent les conditions prévues par les articles 2 duodecies, 2 terdecies et
-2 sexdecies ;
+remplissent les conditions prévues par les articles 2 duodecies, 2 duodecies A,
+2 terdecies, 2 sexdecies et 2 sexdecies-0 A ;
 
 4° Lorsqu'il y a lieu, le montant de l'amortissement correspondant aux droits de
 l'associé ;
