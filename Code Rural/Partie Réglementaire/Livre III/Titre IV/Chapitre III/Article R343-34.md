@@ -5,9 +5,10 @@ des initiatives locales regroupent les actions mises en oeuvre par l'Etat et les
 collectivités territoriales pour faciliter le renouvellement des exploitations
 en agriculture.
 
-Dans le cadre de ces programmes, l'Etat peut financer au titre du fonds pour
-l'installation des jeunes en agriculture et au titre du fonds de financement des
-contrats territoriaux d'exploitation :
+Dans le cadre de ces programmes, l'Etat peut financer l'aide à la transmission
+de l'exploitation sur les crédits relatifs à la préretraite agricole et les
+actions en faveur de l'installation sur le fonds d'incitation et de
+communication pour l'installation en agriculture comme suit :
 
 1° Une aide à la transmission de l'exploitation agricole. Elle est attribuée, à
 sa demande, au chef d'exploitation, dont la succession familiale n'est pas

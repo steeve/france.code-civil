@@ -16,9 +16,10 @@ Les commissions départementales d'orientation de l'agriculture sont consultées
 sur les actions des programmes qui les concernent et sont tenues informées de
 leur exécution.
 
-Les crédits de l'Etat affectés aux actions de communication et d'animation ne
-peuvent représenter plus de 8 % du montant total des dotations de l'Etat
-affectées aux programmes.
+Le préfet de région affecte une enveloppe financière aux actions de
+communication et d'animation d'une part, et d'autre part aux actions destinées à
+rechercher des exploitations susceptibles de permettre l'installation d'un jeune
+agriculteur.
 
 La liquidation et le paiement des crédits sont assurés par le Centre national
 pour l'aménagement des structures des exploitations agricoles.
