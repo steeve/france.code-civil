@@ -18,8 +18,8 @@ la mer, lorsque la réserve s'étend en zone de chasse maritime.
 
 Les réserves nationales de chasse et de faune sauvage sont gérées, dans les
 conditions définies par arrêté du ministre chargé de la chasse, par l'Office
-national de la chasse ou tout autre organisme habilité suivant un programme de
-gestion ayant notamment pour objet :
+national de la chasse et de la faune sauvage ou tout autre organisme habilité
+suivant un programme de gestion ayant notamment pour objet :
 
 1° La protection des espèces de gibier menacées ;
 

@@ -1,8 +1,9 @@
 Article R*221-22
 ----
 Le directeur de la protection de la nature exerce les fonctions de commissaire
-du Gouvernement auprès de l'Office national de la chasse. Il est suppléé en cas
-d'absence ou d'empêchement par un commissaire adjoint, nommément désigné.
+du Gouvernement auprès de l'Office national de la chasse et de la faune sauvage.
+Il est suppléé en cas d'absence ou d'empêchement par un commissaire adjoint,
+nommément désigné.
 
 Il a accès aux réunions du conseil d'administration et de ses commissions ; il
 n'a pas voix délibérative mais peut être entendu chaque fois qu'il le demande.
