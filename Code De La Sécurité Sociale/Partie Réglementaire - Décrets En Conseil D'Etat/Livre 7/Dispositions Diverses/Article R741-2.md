@@ -12,6 +12,9 @@ proposée par la direction départementale des affaires sanitaires et sociales.
 L'affiliation prend effet le premier jour du mois civil au cours duquel la
 demande est présentée, ou, à la demande expresse de l'intéressé, au premier jour
 du mois civil précédant le mois au cours duquel la demande a été présentée, sans
-préjudice des dispositions contraires du présent chapitre .
+préjudice des dispositions contraires du présent chapitre . Pour les personnes
+mentionnées à l'article 45 de la loi du 1er décembre 1988, l'affiliation prend
+effet au premier jour du mois civil de la demande d'allocation de revenu minimum
+d'insertion.
 
 L'immatriculation est opérée le cas échéant à la diligence de la caisse.
