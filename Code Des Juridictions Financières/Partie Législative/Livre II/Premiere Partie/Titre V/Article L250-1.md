@@ -11,3 +11,9 @@ territoriale, des communes et de leurs établissements publics. Elle s'assure de
 l'emploi régulier des crédits, fonds et valeurs. Elle dispose des mêmes droits
 et pouvoirs que ceux prévus pour la Cour des comptes par le titre IV du livre
 Ier du présent code.
+
+Le procureur de la République peut transmettre au commissaire du Gouvernement de
+la chambre régionale des comptes, d'office ou à la demande de ce dernier, la
+copie de toute pièce d'une procédure judiciaire relative à des faits de nature à
+constituer des irrégularités dans les comptes ou dans la gestion des
+collectivités ou organismes relevant de la compétence de cette chambre.

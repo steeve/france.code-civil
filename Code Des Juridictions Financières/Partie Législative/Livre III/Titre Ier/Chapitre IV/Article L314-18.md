@@ -20,3 +20,9 @@ Si la Cour estime, en statuant sur les poursuites, qu'une sanction disciplinaire
 peut être encourue, elle communique le dossier à l'autorité compétente. Cette
 autorité doit, dans le délai de six mois, faire connaître à la Cour, par une
 communication motivée, les mesures qu'elle a prises.
+
+Le procureur de la République peut transmettre au procureur général près la Cour
+des comptes, ministère public près la Cour de discipline budgétaire et
+financière, d'office ou à la demande de ce dernier, la copie de toute pièce
+d'une procédure judiciaire relative à des faits de nature à constituer des
+infractions prévues et sanctionnées par les articles L. 313-1 à L. 313-14.
