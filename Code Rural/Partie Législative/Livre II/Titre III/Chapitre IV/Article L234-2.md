@@ -1,0 +1,6 @@
+Article L234-2
+----
+Les agents commissionnés, mentionnés au 1° du premier alinéa de l'article L.
+237-1, sont gérés par le Conseil supérieur de la pêche. Ils ont vocation en
+position normale d'activité à être mis à disposition des fédérations
+départementales des associations agréées de pêche et de pisciculture.

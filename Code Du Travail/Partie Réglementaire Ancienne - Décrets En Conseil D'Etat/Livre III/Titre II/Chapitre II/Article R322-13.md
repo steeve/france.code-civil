@@ -33,7 +33,7 @@ des employeurs et des travailleurs, à raison de deux membres pour chacune des
 organisations syndicales de travailleurs précitées ;
 
 Deux membres du conseil d'administration de l'union nationale
-interprofessionnelle pour l'emploi dans l'industrie et le commerce désigné par
+interprofessionnelle pour l'emploi dans l'industrie et le commerce désignés par
 le ministre chargé de l'emploi sur proposition dudit conseil.
 
 Le ministre chargé du travail peut, en outre, appeler à participer aux travaux
