@@ -2,11 +2,11 @@ Article 223 sexies
 ----
 1. Sous réserve des dispositions des articles 209 quinquies et 209 sexies,
 lorsque les produits distribués par une société sont prélevés sur des sommes à
-raison desquelles elle n'a pas été soumise à l'impôt sur les sociétés au taux de
-50 %, cette société est tenue d'acquitter un précompte égal au montant du crédit
-[*d'impôt, avoir fiscal*] prévu à l'article 158 bis et attaché à ces
-distributions [*calcul*]. Ce précompte est dû quels que soient les bénéficiaires
-des distributions.
+raison desquelles elle n'a pas été soumise à l'impôt sur les sociétés au taux
+normal prévu au deuxième alinéa du I de l'article 219, cette société est tenue
+d'acquitter un précompte égal au montant du crédit [*d'impôt, avoir fiscal*]
+prévu à l'article 158 bis et attaché à ces distributions [*calcul*]. Ce
+précompte est dû quels que soient les bénéficiaires des distributions.
 
 Il est également exigible lorsque les produits distribués sont prélevés sur les
 résultats d'exercice clos depuis plus de cinq ans ou depuis une date antérieure
@@ -37,7 +37,8 @@ visées à l'article 5 de l'ordonnance n° 67-837 du 28 septembre 1967 ;
 l'article 1er de la loi n° 69-1160 du 24 décembre 1969 ;
 
 5° Par les sociétés agréées pour le financement des économies d'énergie
-mentionnées à l'article 208-3° sexies.
+(Sofergie) et résultant de l'exercice des activités exonérées en application du
+3° sexies de l'article 208 ;
 
 6° Par les sociétés de capital-risque lorsque ces distributions proviennent de
 produits et plus-values nets exonérés en application du 3° septies de l'article
