@@ -9,7 +9,7 @@ recettes du centre comprennent :
 
 3°) le produit des travaux effectués pour le compte de tiers ;
 
-4°) le produit de la vente des publications ;
+4°) le produit des activités du centre ;
 
 5°) les produits de l'aliénation des biens, fonds et valeurs ;
 

@@ -22,7 +22,7 @@ concours externe. Cependant les places offertes à l'un des deux concours qui
 n'auraient pu être attribuées aux candidats de la catégories correspondante
 peuvent être reportées, par décision des jurys, sur l'autre concours, sans que
 l'application de cette disposition puisse avoir pour effet, après attribution,
-de diminuer de plus de 25 p. 100 le nombre de places offertes à chacun des
+de diminuer de plus de 50 p. 100 le nombre de places offertes à chacun des
 concours.
 
 Le nombre de places mises aux concours, les conditions d'inscription, les dates
@@ -35,5 +35,16 @@ des concours sont fixés par arrêté conjoint du ministre chargé de la sécuri
 sociale et du ministre chargé de l'agriculture sur proposition du conseil
 d'administration.
 
-Les candidats définitivement admis qui sont astreints au service national et
-aptes à l'accomplir immédiatement sont tenus de le faire avant la scolarité.
+La liste des candidats définitivement admis en qualité d'élèves au Centre
+national d'études supérieures de sécurité sociale est fixée par un arrêté
+conjoint du ministre chargé de la sécurité sociale et du ministre chargé de
+l'agriculture.
+
+Les candidats définitivement admis doivent obligatoirement suivre la prochaine
+scolarité suivant la date du concours, sauf dérogation accordée par le directeur
+du centre sur demande motivée des intéressés ainsi que de leur employeur pour
+les candidats internes.
+
+Toutefois les candidats définitivement admis qui sont astreints au service
+national et aptes à l'accomplir immédiatement sont tenus de le faire avant la
+scolarité.

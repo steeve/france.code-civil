@@ -10,3 +10,7 @@ d'encadrement figurant à la classification des emplois annexée à la conventio
 collective nationale de travail du personnel des organismes de sécurité sociale
 du régime général. Le centre d'études remplit, à leur égard, les obligations de
 l'employeur.
+
+Cette indemnité est soumise aux cotisations sociales dues pour les agents de
+droit privé régis par la convention collective nationale de travail du personnel
+des organismes de sécurité sociale du régime général.

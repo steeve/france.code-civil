@@ -9,10 +9,10 @@ majorité relative et, en cas de partage égal des voix, au bénéfice de l'âge
 Deux vice-présidents sont élus, successivement, dans les mêmes conditions et
 pour la même durée.
 
-Le conseil d'administration ne peut valablement délibérer qu'à la condition que
-neuf de ses membres, au moins, soient présents. A défaut, il est procédé à la
-convocation d'une nouvelle réunion qui peut se tenir après un délai de huit
-jours, sans considération de quorum.
+Le conseil d'administration ne peut valablement délibérer que si la majorité des
+membres assiste à la réunion. A défaut, il est procédé à la convocation d'une
+nouvelle réunion qui peut se tenir après un délai de huit jours, sans
+considération de quorum.
 
 Sans préjudice des dispositions du précédent alinéa, les administrateurs,
 lorsqu'ils ne sont pas suppléés, peuvent donner délégation de vote à un autre
@@ -23,3 +23,6 @@ En cas de partage des voix, celle du président est prépondérante.
 
 Le directeur du centre, le contrôleur financier et l'agent comptable assistent
 aux séances du conseil.
+
+Le conseil d'administration peut entendre toute personne utile à son
+information.

@@ -14,5 +14,6 @@ supérieures de sécurité sociale et bénéficier des avantages s'attachant à 
 qualité et prévus par les articles R. 123-45 et R. 123-47 que les élèves ayant
 satisfait à l'examen de sortie institué par le présent article et ayant souscrit
 l'engagement de servir dans un organisme de sécurité sociale pendant une durée
-de dix ans au minimum. Les élèves qui refusent de signer cet engagement sont
-soumis aux obligations ou interdictions prévues à l'article R. 123-34.
+de dix ans consécutifs au minimum. Les élèves qui refusent de signer cet
+engagement sont soumis aux obligations ou interdictions prévues à l'article R.
+123-34.

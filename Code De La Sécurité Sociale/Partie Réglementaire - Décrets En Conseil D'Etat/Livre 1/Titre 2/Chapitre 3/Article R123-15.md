@@ -1,18 +1,33 @@
 Article R123-15
 ----
-Le conseil d'administration règle par ses délibérations les affaires du centre .
+Le conseil d'administration règle par ses délibérations les affaires générales
+du centre.
+
 Il délibère obligatoirement sur :
 
-1°) les questions qui sont de sa compétence aux termes des articles 14 à 25 du
-décret n° 53-1227 du 10 décembre 1953 et 151 à 189 du décret n° 62-1587 du 29
-décembre 1962 ;
+1° Le programme annuel des formations et des recherches, après avis de la
+commission pédagogique ;
 
-2°) les acquisitions, aliénations et échanges d'immeubles ;
+2° Le rapport annuel présenté par le directeur sur l'activité et le
+fonctionnement du centre ;
 
-3°) les orientations générales de l'enseignement pour les divers types de
-formation et de perfectionnement dispensés ;
+3° Le budget du centre et ses modifications ;
 
-4°) son règlement intérieur et celui du centre ;
+4° Le compte financier et l'affectation des résultats ;
 
-5°) le rapport que lui présente annuellement le directeur sur l'activité et le
-fonctionnement du centre.
+5° Les acquisitions, aliénations et échanges d'immeubles ;
+
+6° Les emprunts, les participations à toutes formes de groupements publics ou
+privés ;
+
+7° Les contrats, conventions ou marchés qui, en raison de leur nature ou de leur
+montant, doivent lui être soumis pour approbation ;
+
+8° L'acceptation des dons et legs ;
+
+9° Le règlement intérieur du centre et, si besoin est, celui du conseil
+d'administration.
+
+Le conseil d'administration donne son avis sur les questions qui lui sont
+soumises par le ministre chargé de la sécurité sociale, le ministre chargé de
+l'agriculture et par le directeur du centre.

@@ -1,23 +1,10 @@
 Article R123-18
 ----
-Les délibérations du conseil d'administration sont adressées dans les quinze
-jours qui suivent la date de sa réunion au ministre chargé de la sécurité
-sociale, au ministre chargé du budget et au ministre chargé de l'agriculture.
-
-Le règlement intérieur du conseil d'administration est approuvé par le ministre
-chargé de la sécurité sociale [*autorité compétente*].
-
-Les délibérations concernant le budget, le compte financier, les acquisitions,
-aliénations et échanges d'immeubles sont approuvés par le ministre chargé de la
-sécurité sociale et le ministre chargé du budget.
-
-Si le conseil d'administration omet ou refuse d'inscrire au budget les crédits
-nécessaires pour assurer la continuité de fonctionnement du service public
-d'enseignement, le ministre chargé de la sécurité sociale les inscrit d'office.
-
-Toute autre délibération devient exécutoire si aucun des trois ministres n'y
-fait opposition [*expresse*] dans les vingt jours de la notification qui leur
-est faite.
+Les délibérations du conseil d'administration, à l'exception de celles qui sont
+mentionnées aux articles R. 123-18-1 et R. 123-18-2, sont exécutoires dans le
+délai de vingt jours à compter de leur notification aux ministres chargés de la
+sécurité sociale, de l'agriculture et du budget, sauf opposition expresse et
+motivée de l'un ou l'autre de ces ministres.
 
 Le conseil d'administration peut déléguer au directeur certains de ses pouvoirs.
 Les dispositions du présent article concernant la communication aux ministres et

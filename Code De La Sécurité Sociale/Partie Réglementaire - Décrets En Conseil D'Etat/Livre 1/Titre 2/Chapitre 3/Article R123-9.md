@@ -13,9 +13,9 @@ sociale intéressés, au perfectionnement en cours de carrière :
 fédérations d'organismes de sécurité sociale et des organismes qui apportent
 leur concours au fonctionnement de l'institution ;
 
-2°) des praticiens conseils, des ingénieurs conseils et des autres cadres
-supérieurs techniques des organismes ou services de sécurité sociale, de leurs
-unions ou fédérations ;
+2°) des praticiens conseils, des ingénieurs conseils, des informaticiens et des
+autres cadres supérieurs techniques des organismes ou services de sécurité
+sociale, de leurs unions ou fédérations ;
 
 3°) éventuellement, des personnels supérieurs des administrations chargées de la
 tutelle des organismes de sécurité sociale.
@@ -27,3 +27,11 @@ organisations professionnelles et syndicales.
 Il peut entreprendre, à la demande des ministres intéressés ou des organismes de
 sécurité sociale, des études et des recherches concernant des questions de
 sécurité sociale.
+
+Il peut mettre en oeuvre, dans le cadre des orientations fixées par son conseil
+d'administration, des actions de coopération à caractère international en
+matière d'enseignement et de recherche.
+
+Le Centre national d'études supérieures de sécurité sociale délivre des diplômes
+définis par arrêté des ministres concernés et sanctionnant les formations qu'il
+dispense conformément aux alinéas ci-dessus.
