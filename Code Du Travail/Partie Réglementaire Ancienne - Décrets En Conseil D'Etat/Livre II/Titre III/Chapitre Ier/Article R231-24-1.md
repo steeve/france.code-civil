@@ -9,9 +9,10 @@ conditions que les membres titulaires, dans la limite de vingt par organisation.
 Il en est de même pour les deux représentants des entreprises publiques.
 
 Chaque organisation désigne deux membres suppléants pour chacun des titulaires
-dont elle dispose au conseil supérieur et à la commission permanente. En ce qui
-concerne les entreprises publiques, ces membres suppléants sont désignés par le
-ministre chargé du travail.
+dont elle dispose au conseil supérieur, et trois membres suppléants pour chacun
+des titulaires dont elle dispose à la commission permanente. En ce qui concerne
+les entreprises publiques, ces membres suppléants sont désignés par le ministre
+chargé du travail.
 
 Un membre suppléant ne peut participer aux séances du conseil supérieur, de la
 commission permanente ou des commissions spécialisées qu'en cas d'absence du
