@@ -1,7 +1,7 @@
 Article D353-1
 ----
 La pension de réversion prévue aux articles L. 353-1, L. 353-2 et L. 353-3 est
-égale à 52 p. 100 de la pension principale ou rente dont bénéficiait ou eût
+égale à 54 p. 100 de la pension principale ou rente dont bénéficiait ou eût
 bénéficié l'assuré.
 
 Elle ne peut être inférieure au montant minimum de base prévu au deuxième alinéa
