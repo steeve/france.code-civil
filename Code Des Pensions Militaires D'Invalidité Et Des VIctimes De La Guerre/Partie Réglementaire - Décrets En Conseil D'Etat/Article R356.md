@@ -8,5 +8,4 @@ préalablement recueilli.
 
 Il est délivré au bénéficiaire, ou à défaut à son ayant cause, une carte dont
 les caractéristiques seront fixées par arrêté du ministre des anciens
-combattants et victimes de guerre pris après avis de l'office national des
-anciens combattants et victimes de guerre.
+combattants et victimes de guerre.

@@ -1,12 +1,21 @@
 Article R373
 ----
-La qualité de bénéficiaire du chapitre V du titre II du livre III (1re partie)
-est reconnue, sur demande, par le ministre des anciens combattants et victimes
-de guerre qui peut déléguer ses pouvoirs aux préfets.
+La qualité de bénéficiaire du chapitre V du titre II du livre III (première
+partie : Législative) est reconnue, sur demande, par le ministre chargé des
+anciens combattants et des victimes de guerre, qui peut déléguer ses pouvoirs
+aux préfets.
 
-L'avis de la commission départementale et, le cas échéant, de la commission
-nationale, dont les compositions sont déterminées aux articles R. 374 et R. 375
-est préalablement recueilli. Il est, délivré au bénéficiaire ou, à défaut, à son
-ayant cause, une carte dont les caractéristiques seront fixées par arrêté du
-ministre des anciens combattants et victimes de guerre pris après avis de
-l'office national des anciens combattants et victimes de guerre.
+La demande de carte est obligatoirement soumise à l'avis d'une commission
+départementale dont la composition est prévue à l'article R. 375.
+
+L'avis d'une commission nationale dont la composition est prévue à l'article R.
+374 doit, en outre, être obligatoirement recueilli par le ministre chargé des
+anciens combattants et des victimes de guerre :
+
+1° Si, en cas de décision de rejet, un recours a été formulé devant le ministre
+par l'intéressé dans le délai de deux mois suivant la notification de cette
+décision ;
+
+2° Si le dossier examiné concerne un Alsacien ou un Mosellan domicilié à
+l'époque hors du Bas-Rhin, du Haut-Rhin ou de la Moselle et qui a été contraint
+au travail dans ces trois départements.

@@ -1,13 +1,8 @@
 Article L307
 ----
-Les commissions départementales sont instituées auprès des offices
-départementaux des anciens combattants et victimes de guerre et la commission
-nationale auprès de l'office national des anciens combattants et victimes de
-guerre.
-
 Ces commissions comprennent [*composition*] :
 
-a) Les représentants du ministère des anciens combattants et victimes de guerre
+a) Des représentants du ministère des anciens combattants et victimes de guerre
 ;
 
 Des représentants du ministre de la sécurité sociale ;
