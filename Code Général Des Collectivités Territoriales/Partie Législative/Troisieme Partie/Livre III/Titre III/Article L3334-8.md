@@ -1,6 +1,6 @@
 Article L3334-8
 ----
-- I. - Il est institué un mécanisme de solidarité financière entre des
+I. - Il est institué un mécanisme de solidarité financière entre des
 départements contributifs et des départements bénéficiaires au sein de la
 dotation globale de fonctionnement des départements, afin de contribuer à
 l'amélioration des conditions de vie en milieu rural.
@@ -19,12 +19,19 @@ concours particulier.
 
 III. - Contribuent au mécanisme de solidarité financière :
 
-1° Les départements dont le potentiel fiscal par habitant est compris entre le
-potentiel fiscal moyen national par habitant des départements et le double de
-cette valeur et dont le rapport entre le nombre de logements sociaux, tels que
-visés à l'article L. 2334-17, et la population du département est inférieur à 10
-p. 100. Un prélèvement égal à 15 p. 100 est appliqué à la dotation globale de
-fonctionnement de l'exercice considéré pour ces départements ;
+1° Les départements dont le potentiel fiscal par habitant est supérieur au
+potentiel fiscal moyen national par habitant des départements et inférieur ou
+égal au double de cette valeur. Un prélèvement égal à 15 p. 100 est appliqué à
+la dotation globale de fonctionnement de l'exercice considéré pour ces
+départements.
+
+Sont toutefois exonérés de ce prélèvement les départements dans lesquels le
+rapport entre le nombre de logements sociaux, tels que définis à l'article L.
+2334-17, et la population est supérieur à 8,5 p. 100 ainsi que les départements
+dans lesquels la moyenne par logement des bénéficiaires d'aides au logement,
+telles que définies à l'article L. 2334-17, de leur conjoint et des personnes à
+charge vivant habituellement dans leur foyer est supérieure à la moyenne
+nationale ;
 
 2° Les départements dont le potentiel fiscal par habitant est supérieur au
 double du potentiel fiscal moyen national par habitant des départements. Un

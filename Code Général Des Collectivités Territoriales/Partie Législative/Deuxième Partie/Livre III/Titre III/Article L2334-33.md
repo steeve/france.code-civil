@@ -1,16 +1,20 @@
 Article L2334-33
 ----
-- La dotation globale d'équipement des communes est répartie, après constitution
+La dotation globale d'équipement des communes est répartie, après constitution
 d'une quote-part au profit des collectivités territoriales et groupements
 mentionnés à l'article L. 2334-37, entre :
 
-- les communes dont la population n'excède pas 20 000 habitants dans les
-départements de métropole ou 35 000 habitants dans les départements d'outre-mer
-et dont le potentiel fiscal par habitant est inférieur à 1,3 fois le potentiel
-fiscal moyen par habitant de l'ensemble des communes de métropole dont la
-population n'excède pas 20 000 habitants ;
+les communes dont la population n'excède pas 2 000 habitants dans les
+départements de métropole ou 7 500 habitants dans les départements d'outre-mer ;
 
-- les établissements publics de coopération intercommunale dont la population
+les communes dont la population est supérieure à 2 000 habitants et n'excède pas
+20 000 habitants dans les départements de métropole ou est supérieure à 7 500
+habitants et n'excède pas 35 000 habitants dans les départements d'outre-mer et
+dont le potentiel fiscal par habitant est inférieur à 1,3 fois le potentiel
+fiscal moyen par habitant de l'ensemble des communes de métropole dont la
+population est supérieure à 2 000 habitants et n'excède pas 20 000 habitants ; "
+
+les établissements publics de coopération intercommunale dont la population
 n'excède pas 20 000 habitants dans les départements de métropole et 35 000
 habitants dans les départements d'outre-mer.
 
