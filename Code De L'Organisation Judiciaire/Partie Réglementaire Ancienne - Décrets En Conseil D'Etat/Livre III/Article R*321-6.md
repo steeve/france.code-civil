@@ -1,7 +1,7 @@
 Article R*321-6
 ----
-Le tribunal d'instance connaît en dernier ressort jusqu'à la valeur de 25000 F
-[*francs*] et à charge d'appel à quelque valeur que la demande puisse s'élever
+Le tribunal d'instance connaît en dernier ressort jusqu'à la valeur de 3800
+euros et à charge d'appel à quelque valeur que la demande puisse s'élever
 [*compétence*] :
 
 1° (Abrogé) ;

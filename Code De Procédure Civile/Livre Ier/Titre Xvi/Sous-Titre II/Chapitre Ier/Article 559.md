@@ -1,8 +1,8 @@
 Article 559
 ----
 En cas d'appel principal dilatoire ou abusif, l'appelant peut être condamné à
-une amende civile de 100 F à 10000 F, sans préjudice des dommages-intérêts qui
-lui seraient réclamés.
+une amende civile de 15 euros à 1 500 euros, sans préjudice des
+dommages-intérêts qui lui seraient réclamés.
 
 Cette amende, perçue séparément des droits d'enregistrement de la décision qui
 l'a prononcée, ne peut être réclamée aux intimés. Ceux-ci peuvent obtenir une

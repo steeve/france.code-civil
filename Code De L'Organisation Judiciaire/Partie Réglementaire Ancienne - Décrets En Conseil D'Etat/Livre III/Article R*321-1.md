@@ -2,8 +2,8 @@ Article R*321-1
 ----
 Sous réserve des dispositions des articles suivants, le tribunal d'instance
 connaît, en matière civile, de toutes actions personnelles ou mobilières, en
-dernier ressort, jusqu'à la valeur de 25000 F et à charge d'appel jusqu'à la
-valeur de 50000 F [*francs*].
+dernier ressort, jusqu'à la valeur de 3800 euros et à charge d'appel jusqu'à la
+valeur de 7600 euros.
 
 Lorsque dans des matières non prévues par le code, un texte limite le taux de
 compétence du tribunal d'instance statuant en premier ou en dernier ressort à

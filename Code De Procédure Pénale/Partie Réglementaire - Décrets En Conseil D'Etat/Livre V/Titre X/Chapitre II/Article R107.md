@@ -1,6 +1,6 @@
 Article R107
 ----
-Lorsque le montant prévu de ses frais et honoraires dépasse 3 000 F, l'expert
+Lorsque le montant prévu de ses frais et honoraires dépasse 460 euros, l'expert
 désigné doit, avant de commencer ses travaux, en informer la juridiction qui l'a
 commis.
 

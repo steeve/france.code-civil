@@ -2,4 +2,4 @@ Article R943-2
 ----
 Dans les matières pour lesquelles il a compétence exclusive en raison de la
 nature de l'affaire, le tribunal de première instance statue en dernier ressort
-lorsque le montant de la demande en principal est inférieur ou égal à 3 000 F.
+lorsque le montant de la demande en principal est inférieur ou égal à 460 euros.
