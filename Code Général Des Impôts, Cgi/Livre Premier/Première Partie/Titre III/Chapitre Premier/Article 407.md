@@ -5,8 +5,8 @@ code de la consommation, par le décret du 30 juillet 1935 ou les textes
 subséquents relatifs à la protection des appellations d'origine, chaque année,
 après la récolte de raisins, tout propriétaire, fermier, métayer produisant du
 vin doit déposer à la mairie de la commune du siège de son exploitation la
-déclaration prévue par le règlement n° 3929-87 de la Commission des communautés
-européennes du 17 décembre 1987.
+déclaration prévue par le règlement n° 3929-87 ((modifié)) (M) de la Commission
+des communautés européennes du 17 décembre 1987.
 
 Dans chaque département, le délai dans lequel doivent être faites les
 déclarations est fixé annuellement par le préfet après avis du conseil général,
@@ -21,5 +21,7 @@ professionnelles viticoles représentant les viticulteurs intéressés.
 Sous aucun prétexte, les récoltants ne peuvent être autorisés, soit
 individuellement, soit collectivement, à déclarer leur récolte après la date
 fixée par l'arrêté du préfet (1).
+
+(M) Modification de la loi.
 
 (1) Voir annexe II, art. 267 octies.

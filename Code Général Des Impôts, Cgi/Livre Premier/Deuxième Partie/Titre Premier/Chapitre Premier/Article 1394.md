@@ -36,9 +36,7 @@ Les immeubles qui sont incorporés gratuitement au domaine de l'Etat, des
 collectivités locales ou des établissements publics, en vertu d'une convention,
 sont imposables jusqu'à l'expiration de celle-ci ;
 
-3° Les terrains qui sont donnés en location par l'Etat (administration des
-postes et télécommunications) aux sociétés agréées pour le financement des
-télécommunications ;
+3° (Périmé, décret de codification 94-899).
 
 4° Les jardins attenant aux bâtiments pour lesquels les associations de mutilés
 de guerre ou du travail sont exonérées de la taxe foncière sur les propriétés

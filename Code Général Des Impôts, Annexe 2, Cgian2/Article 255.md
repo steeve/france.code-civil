@@ -8,4 +8,4 @@ l'immeuble construit sur le terrain précédemment acquis.
 Les dispositions du 3 du 7° de l'article 257 ne sont pas applicables lorsque les
 terrains acquis sont attenants à des terrains dont l'acquisition a été replacée
 dans le champ d'application de la taxe de publicité foncière ou des droits
-d'enregistrement comme il est dit à l'article 291 ci-après.
+d'enregistrement comme il est dit à l'article 291.

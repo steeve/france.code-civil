@@ -25,8 +25,7 @@ b) Les dépenses de tenue de comptabilité et d'adhésion à un centre de gestio
 à une association agréés ouvrant droit à la réduction d'impôt prévue à l'article
 199 quater B ;
 
-c) Les achats nets de valeurs mobilières ouvrant droit à la réduction d'impôt
-prévue à l'article 199 quinquies ;
+c) (Périmé, décret de codification 94-899) ;
 
 d) Les dépenses de recherche et de formation ouvrant droit aux crédits d'impôts
 prévus aux articles 244 quater B et 244 quater C ;
@@ -38,7 +37,7 @@ f) La base sur laquelle a été calculée la réduction prévue à l'article 199
 nonies.
 
 g) Les souscriptions en numéraire ouvrant droit au crédit d'impôt prévu à
-l'article 220 sexies. "
+l'article 220 sexies.
 
 III. Pour l'application du I, la base sur laquelle a été calculée la réduction
 d'impôt prévue à l'article 199 nonies est assimilée à une insuffisance de

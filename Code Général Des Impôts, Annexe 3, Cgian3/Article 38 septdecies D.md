@@ -3,9 +3,18 @@ Article 38 septdecies D
 Les intermédiaires agréés mentionnés au 2° quater de l'article 83 du code
 général des impôts sont :
 
-a. Ceux énumérés au 1° de l'article 95 B de l'annexe II au même code.
+a) La Banque de France ;
 
-b. Les sociétés par actions ou à responsabilité limitée et les sociétés
-coopératives ouvrières de production [*SCOP*] pour les actions ou parts
-souscrites ou reçues en rémunération de l'apport de valeurs acquises à la suite
-d'options.
+b) La Caisse des dépôts et consignations ;
+
+c) Les établissements de crédit ;
+
+d) Les sociétés de bourse ;
+
+e) Les établissements visés au troisième alinéa du 2 de l'article 18 de la loi
+n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des
+établissements de crédit ;
+
+f) Les sociétés par actions ou à responsabilité limitée et les sociétés
+coopératives ouvrières de production pour les actions ou parts souscrites ou
+reçues en rémunération de l'apport de valeurs acquises à la suite d'options.

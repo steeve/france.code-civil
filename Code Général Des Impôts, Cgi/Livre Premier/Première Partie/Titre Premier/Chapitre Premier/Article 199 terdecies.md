@@ -14,7 +14,7 @@ conditions mentionnées soit à l'article 44 sexies, soit à l'article 44 septie
 Ou créées avant le 31 décembre 1995 et dont la situation nette comptable est
 représentée à hauteur de 60 p. 100 au moins de titres souscrits en numéraire
 jusqu'au 31 décembre de la quatrième année qui suit la constitution de sociétés
-mentionnées à l'alinéa précédent.
+mentionnées à l'alinéa précédent. (1)
 
 II. Les versements, qui sont retenus dans la limite annuelle de 10.000 F pour
 les contribuables célibataires, veufs ou divorcés, et de 20.000 F pour les
@@ -29,10 +29,8 @@ contribuable a souscrit puisse excéder respectivement 40.000 F et 80.000 F.
 
 III. Les souscriptions donnant lieu aux déductions prévues au dernier alinéa de
 l'article 62, au 2° quater de l'article 83, aux articles 163 quindecies et 163
-septdecies ou aux réductions d'impôt prévues aux articles 199 quinquies et 199
-undecies ne peuvent ouvrir droit à la réduction d'impôt mentionnée au I. Cette
-réduction d'impôt est exclusive du bénéfice des dispositions de l'article 163
-octodecies.
+septdecies ou ((à la réduction d'impôt prévue à l'article 199 undecies)) (M) ne
+peuvent ouvrir droit à la réduction d'impôt mentionnée au I.
 
 IV. La réduction d'impôt s'applique sur l'impôt calculé dans les conditions
 fixées par l'article 197 ; elle ne peut donner lieu à remboursement.
@@ -61,6 +59,11 @@ de déclaration lorsque la réduction a été pratiquée indûment.
 
 Un décret fixe les modalités d'application du présent article, notamment les
 obligations déclaratives incombant aux contribuables et aux sociétés nouvelles
-(1).
+(2).
 
-(1) Voir Annexe III art. 46 AI.
+(1) Le bénéfice de la réduction d'impôt prévue au I est supprimé à compter de
+l'imposition des revenus de 1994.
+
+(M) Modification du décret.
+
+(2) Voir Annexe III art. 46 AI.
