@@ -6,4 +6,4 @@ aux impositions dans les conditions fixées au premier alinéa du III de l'artic
 1668 B du code précité.
 
 Sont dispensées du versement anticipé, les sociétés dont la contribution
-n'excède pas 15 euros.
+n'excède pas 100 euros.

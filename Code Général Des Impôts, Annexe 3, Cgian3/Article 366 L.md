@@ -21,4 +21,4 @@ aux troisième et quatrième alinéas de l'article 360.
 
 Sont dispensées des versements anticipés les sociétés pour lesquelles le montant
 de la contribution sociale calculée sur l'impôt sur les sociétés de référence
-n'excède pas 152 euros.
+n'excède pas 3 000 euros.

@@ -8,4 +8,4 @@ rapprochée.
 
 Sont dispensées de verser les acomptes prévus au premier alinéa, les sociétés
 pour lesquelles le montant de l'impôt mentionné au deuxième alinéa de l'article
-360 n'excède pas 150 euros.
+360 n'excède pas 3 000 euros.
