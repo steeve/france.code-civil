@@ -2,8 +2,8 @@ Article L340
 ----
 Ne sont pas éligibles :
 
-1° Les personnes énumérées aux articles L. 195 et L. 196 lorsque leurs fonctions
-concernent tout ou partie du territoire de la région ;
+1° Les personnes énumérées aux articles L. 195 et L. 196, lorsque leurs
+fonctions concernent ou ont concerné tout ou partie du territoire de la région ;
 
 2° Les fonctionnaires placés auprès du représentant de l'Etat dans la région et
 affectés au secrétariat général pour les affaires régionales en qualité de

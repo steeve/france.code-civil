@@ -1,17 +1,25 @@
 Article L65
 ----
-Après la clôture du scrutin, il est procédé au dépouillement de la manière
-suivante : l'urne est ouverte et le nombre des enveloppes est vérifié. Si ce
-nombre est plus grand ou moindre que celui des émargements, il en est fait
-mention au procès-verbal. Le bureau désigne parmi les électeurs présents un
-certain nombre de scrutateurs sachant lire et écrire, lesquels se divisent par
-tables de quatre au moins. Si plusieurs candidats ou plusieurs listes sont en
-présence, il leur est permis de désigner respectivement les scrutateurs,
-lesquels doivent être répartis également autant que possible par chaque table de
-dépouillement.
+Dès la clôture du scrutin, il est procédé au dénombrement des émargements.
+Ensuite, le dépouillement se déroule de la manière suivante : l'urne est ouverte
+et le nombre des enveloppes est vérifié. Si ce nombre est plus grand ou moindre
+que celui des émargements, il en est fait mention au procès-verbal. Le bureau
+désigne parmi les électeurs présents un certain nombre de scrutateurs sachant
+lire et écrire, lesquels se divisent par tables de quatre au moins. Si plusieurs
+candidats ou plusieurs listes sont en présence, il leur est permis de désigner
+respectivement les scrutateurs, lesquels doivent être répartis également autant
+que possible par chaque table de dépouillement. Le nombre de tables ne peut être
+supérieur au nombre d'isoloirs.
+
+Les enveloppes contenant les bulletins sont regroupées par paquet de cent. Ces
+paquets sont introduits dans des enveloppes spécialement réservées à cet effet.
+Dès l'introduction d'un paquet de cent bulletins, l'enveloppe est cachetée et y
+sont apposées les signatures du président du bureau de vote et d'au moins deux
+assesseurs représentant, sauf liste ou candidat unique, des listes ou des
+candidats différents.
 
 A chaque table, l'un des scrutateurs extrait le bulletin de chaque enveloppe et
-le passe déplié à un autre scrutateur; celui-ci le lit à haute voix; les noms
+le passe déplié à un autre scrutateur ; celui-ci le lit à haute voix ; les noms
 portés sur les bulletins sont relevés par deux scrutateurs au moins sur des
 listes préparées à cet effet. Si une enveloppe contient plusieurs bulletins, le
 vote est nul quand les bulletins portent des listes et des noms différents. Les
