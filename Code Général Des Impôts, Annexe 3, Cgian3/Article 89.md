@@ -21,15 +21,15 @@ de l'image, à l'exception des simples récepteurs de télévision; disques, ban
 cassettes, films sonores, supports de son ou d'image; éléments constitutifs,
 pièces détachées et accessoires de ces appareils ou supports;
 
-4° Sous réserve des dispositions de l'article 280-2-j du code général des impôts
-relatives aux automobiles d'occasion, voitures automobiles conçues pour le
-transport des personnes ou à usages mixtes et comportant, outre le siège du
-conducteur, huit place assises au maximum; tous équipements et accessoires
-livrés avec ces véhicules même contre paiement d'un supplément de prix facturé
-distinctement; châssis des mêmes voitures équipés du moteur et leurs
-carrosseries; automobiles des types visés à la présente rubrique, livrées
-incomplètes ou non finies, dès lors qu'elles présentent les caractéristiques
-essentielles des mêmes voitures à l'état complet ou terminé ;
+4° Sous réserve des dispositions de l'article 280-2-j et 281 bis F du code
+général des impôts, voitures automobiles conçues pour le transport des personnes
+ou à usages mixtes et comportant, outre le siège du conducteur, huit place
+assises au maximum; tous équipements et accessoires livrés avec ces véhicules
+même contre paiement d'un supplément de prix facturé distinctement; châssis des
+mêmes voitures équipés du moteur et leurs carrosseries; automobiles des types
+visés à la présente rubrique, livrées incomplètes ou non finies, dès lors
+qu'elles présentent les caractéristiques essentielles des mêmes voitures à
+l'état complet ou terminé ;
 
 5° Pelleteries tannées, apprêtées et lustrées provenant d'animaux des espèces
 désignées ci-après : zibeline, chinchilla, léopard, ocelot, hermine blanche,
