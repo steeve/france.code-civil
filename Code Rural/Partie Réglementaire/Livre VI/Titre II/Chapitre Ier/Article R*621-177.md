@@ -2,9 +2,16 @@ Article R*621-177
 ----
 L'office est doté d'un conseil de direction qui comprend, outre son président :
 
-1° Quatre membres représentant l'Etat, dont deux nommés par le ministre chargé
-des pêches maritimes et de l'aquaculture, un nommé par le ministre chargé de
-l'économie et un nommé par le ministre chargé du budget ;
+1° Quatre représentants de l'Etat :
+
+- le directeur des pêches maritimes et de l'aquaculture et le directeur des
+affaires financières au ministère chargé des pêches maritimes et de
+l'aquaculture ou leurs représentants ;
+
+- le directeur général de la concurrence, de la consommation et de la répression
+des fraudes ou son représentant ;
+
+- le directeur du budget ou son représentant ;
 
 2° Un membre représentant la profession aquacole ;
 
