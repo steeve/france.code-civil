@@ -7,9 +7,9 @@ représentants des personnes morales mentionnées à l'article R. 16-2 (alinéa 
 pour la mission de contrôle judiciaire exercée sur chaque inculpé, en
 application du 6° de l'article 138 (alinéa 2) :
 
-300 F lorsque la mission de contrôle judiciaire dure trois mois ou moins ;
+340 F lorsque la mission de contrôle judiciaire dure trois mois ou moins ;
 
-600 F lorsque la mission de contrôle judiciaire dure plus de trois mois sans
+725 F lorsque la mission de contrôle judiciaire dure plus de trois mois sans
 excéder un an ;
 
-900 F lorsque la mission de contrôle judiciaire dure plus d'un an.
+1.000 F lorsque la mission de contrôle judiciaire dure plus d'un an.
