@@ -4,9 +4,11 @@ Pour l'application du premier alinéa de l'article L. 541-1, le pourcentage
 d'incapacité permanente que doit présenter l'enfant handicapé pour ouvrir droit
 à l'allocation d'éducation spéciale doit être au moins égal à 80 p. 100.
 
-Le taux d'incapacité permanente est évalué d'après le barème d'invalidité
-mentionné par l'avant-dernier alinéa de l'article L. 9-1 du code des pensions
-militaires d'invalidité et des victimes de la guerre.
+Le taux d'incapacité est apprécié suivant le guide-barème annexé au décret n°
+93-1216 du 4 novembre 1993 relatif au guide-barème applicable pour l'attribution
+de diverses prestations aux personnes handicapées et modifiant la code de la
+famille et de l'aide sociale, le code de la sécurité sociale (deuxième partie :
+Décrets en Conseil d'Etat) et le décret n° 77-1549 du 31 décembre 1977.
 
 Pour l'application du troisième alinéa de l'article L. 541-1, le pourcentage
 d'incapacité permanente de l'enfant doit être au moins égal à 50 p. 100.
