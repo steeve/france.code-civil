@@ -35,3 +35,6 @@ des assurés titulaires d'une rente convertie en totalité en capital ;
 
 5°) les adultes handicapés qui percevaient à la date de leur décès l'allocation
 aux adultes handicapés.
+
+6°) Les salariés employés au domicile des personnes énumérées par l'article L.
+241-10 [*aides à domicile*].
