@@ -2,7 +2,7 @@ Article 39 AB
 ----
 Les matériels destinés à économiser l'énergie qui figurent sur une liste établie
 par arrêté conjoint du ministre du budget et du ministre de l'industrie, acquis
-ou fabriqués entre le 1er janvier 1991 et le 31 décembre ((1995)) (M), peuvent
+ou fabriqués entre le 1er janvier 1991 et le 31 décembre ((1998)) (M), peuvent
 faire l'objet d'un amortissement exceptionnel sur douze mois à compter de leur
 mise en service (1).
 
@@ -11,6 +11,6 @@ Il en est de même pour les matériels utilisés dans des opérations permettant
 conditions prévues au I de l'article 1649 nonies après avis du ministre de
 l'industrie.
 
-(M) Modification de la loi.
+(M) Modification de la loi. [*Cf. Instruction 1996-02-16 4D-1-96.*]
 
 (1) Voir annexe IV, art. 02 bis.

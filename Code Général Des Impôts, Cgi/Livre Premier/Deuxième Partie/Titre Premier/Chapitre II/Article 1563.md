@@ -2,8 +2,9 @@ Article 1563
 ----
 Quels que soient le régime et le taux applicables, l'impôt sur les spectacles
 est calculé sur les recettes brutes, tous droits et taxes compris, arrondies en
-multiple de 1 F, comme en matière de taxes sur le chiffre d'affaires. Il n'est
-pas perçu lorsque son montant n'excède pas 80 F.
+multiple de 1 F, comme en matière de taxes sur le chiffre d'affaires. ((L'impôt
+sur les spectacles prévu pour les quatre premières catégories du I de l'article
+1560 n'est pas perçu lorsque son montant n'excède pas 80 F)) (M).
 
 Lorsqu'il n'est pas exigé de prix d'entrée dans les établissements où il est
 d'usage de consommer pendant les séances, ou quand le prix d'entrée est
@@ -25,3 +26,10 @@ Pour l'application de l'article 1560, sont considérés comme appareils
 automatiques [*définition*] ceux qui sont pourvus d'un dispositif mécanique,
 électrique ou autre, permettant leur mise en marche, leur fonctionnement ou leur
 arrêt.
+
+((Pour les appareils automatiques visés au III de l'article 1560, la déclaration
+prévue à l'article 1565 est souscrite auprès de l'administration au plus tard
+vingt-quatre heures avant la date d'ouverture au public de la fête foraine. La
+taxe est liquidée et perçue lors du dépôt de cette déclaration)) (M).
+
+(M) Modification de la loi.

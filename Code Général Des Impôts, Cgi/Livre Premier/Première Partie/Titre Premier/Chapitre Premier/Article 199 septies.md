@@ -17,25 +17,37 @@ A compter de l'imposition de 1984, la réduction d'impôt est calculée sur la
 fraction de la prime représentative de l'opération d'épargne. Un décret fixe les
 modalités de détermination de cette fraction de prime (1) ;
 
+((La réduction d'impôt ne s'applique ni aux primes payées à compter du 20
+septembre 1995 au titre des contrats à versements libres ni aux primes payées au
+titre des contrats à primes périodiques et à primes uniques conclus ou prorogés
+à compter du 20 septembre 1995. Ces dispositions ne sont pas applicables aux
+contribuables dont la cotisation d'impôt sur le revenu définie à l'article 1417
+du code général des impôts n'excède pas 7 000 F)) (M).
+
 2° Primes afférentes à des contrats d'assurances en cas de décès, lorsque ces
 contrats garantissent le versement d'un capital ou d'une rente viagère à un
 enfant de l'assuré atteint d'une infirmité qui l'empêche, soit de se livrer,
 dans des conditions normales de rentabilité, à une activité professionnelle,
 soit, s'il est âgé de moins de dix-huit ans, d'acquérir une instruction ou une
-formation professionnelle d'un niveau normal ; Primes définies au 1°,
-lorsqu'elles sont afférentes à des contrats destinés à garantir le versement
-d'un capital ou d'une rente viagère à l'assuré atteint, lors de la conclusion du
-contrat, d'une infirmité qui l'empêche de se livrer, dans des conditions
-normales de rentabilité, à une activité professionnelle (2). Les conditions
-d'application de ces dispositions sont, en tant que de besoin, fixées par
-décret. Ces primes ouvrent droit à réduction d'impôt dans la limite de 7000 F,
-majorée de 1500 F par enfant à charge ; ces limites s'appliquent à l'ensemble
-des contrats souscrits par les membres d'un même foyer fiscal ;
+formation professionnelle d'un niveau normal ;
 
-3° Un arrêté du ministre de l'économie et des finances (2) définit les
+Primes définies aux ((premier et deuxième alinéas du 1°)) (M) lorsqu'elles sont
+afférentes à des contrats destinés à garantir le versement d'un capital ou d'une
+rente viagère à l'assuré atteint, lors de la conclusion du contrat, d'une
+infirmité qui l'empêche de se livrer, dans des conditions normales de
+rentabilité, à une activité professionnelle (2).
+
+Les conditions d'application de ces dispositions sont, en tant que de besoin,
+fixées par décret. Ces primes ouvrent droit à réduction d'impôt dans la limite
+de 7000 F, majorée de 1500 F par enfant à charge ; ces limites s'appliquent à
+l'ensemble des contrats souscrits par les membres d'un même foyer fiscal ;
+
+3° Un arrêté du ministre de l'économie et des finances (3) définit les
 justifications auxquelles est subordonné le bénéfice de la réduction d'impôt.
 
 (1) Décret n° 84-269 du 11 avril 1984 (J.O. du 13).
+
+(M) Modification de la loi. [*Cf. Instruction 1996-02-22 5B-8-96*]
 
 (2) Cette disposition s'applique à compter de l'imposition des revenus de 1988.
 

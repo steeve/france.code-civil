@@ -15,7 +15,7 @@ des bénéfices imposables ne sont pas applicables.
 3. Les revenus de capitaux mobiliers comprennent tous les revenus visés au VII
 de la 1ère sous-section de la présente section, à l'exception des revenus
 expressément affranchis de l'impôt en vertu de l'article 157 et des revenus
-ayant supporté le prélèvement visé à l'article 125 A.
+ayant supporté le prélèvement visé à l'article 125 A .
 
 Lorsqu'ils sont payables en espèces les revenus visés au premier alinéa sont
 soumis à l'impôt sur le revenu au titre de l'année soit de leur paiement en
@@ -26,16 +26,7 @@ célibataires, veufs ou divorcés et de 16.000 F pour les contribuables mariés
 soumis à imposition commune sur la somme des revenus et gains imposables
 suivants :
 
-1° Revenus provenant de titres participatifs ou de valeurs mobilières à revenu
-fixe émis en France et inscrits à la cote officielle d'une bourse de valeurs
-française, et d'intérêts servis sur les versements effectués dans les fonds
-salariaux. Toutefois, ces dispositions ne s'appliquent pas aux valeurs assorties
-d'une clause d'indexation et dont la liste est fixée par arrêté du ministre de
-l'économie et des finances. Un décret fixera, en tant que de besoin, les
-conditions d'application du présent 1° (1) ;
-
-2° Revenus des obligations mentionnées à l'article 132 ter qui ont été remises
-en échange d'actions de sociétés concernées par l'extension du secteur public ;
+1° 2° (Dispositions abrogées) ;
 
 3° Revenus correspondant à des dividendes d'actions émises en France. Toutefois,
 cet abattement ne peut être effectué sur le montant des revenus d'actions
@@ -47,9 +38,7 @@ indirectement, plus de 35 p. 100 des droits sociaux dans la société
 distributrice. Pour l'application de cette disposition, les droits sociaux
 appartenant au conjoint sont considérés comme détenus indirectement.
 
-4° Produits des bons et titres énumérés aux 1° bis et 2° du III bis de l'article
-125 A, produits des comptes à terme définis par le comité de la réglementation
-bancaire, gains nets mentionnés au I bis de l'article 92 B (2).
+4° (Dispositions abrogées) ;
 
 5° Produits des parts de société ou d'exploitation agricole à responsabilité
 limitée et des parts bénéficiaires ou de fondateur lorsque ces parts sont émises
@@ -59,19 +48,14 @@ indirectement, moins de 35 p. 100 des droits sociaux dans la société
 distributrice. Pour l'application de cette disposition, les droits sociaux
 appartenant au conjoint sont considérés comme détenus indirectement (2).
 
-((6° Intérêts versés au titre des sommes portées sur un compte bloqué individuel
+6° Intérêts versés au titre des sommes portées sur un compte bloqué individuel
 qui remplissent les conditions visées au I de l'article 125 C. Les dispositions
 du II de l'article 125 C sont applicables en cas de non-respect des obligations
-fixées au I du même article)) (M).
+fixées au I du même article (2').
 
 L'abattement prévu au troisième alinéa peut, le cas échéant, être utilisé, en
 tout ou partie, par les porteurs de parts de fonds communs de placement, lors de
 l'imposition en leur nom des produits répartis par le fonds (3).
-
-Pour l'imposition des revenus des années 1994 et suivantes, l'abattement est
-d'abord opéré sur les revenus imposables, puis sur les gains nets mentionnés au
-I bis de l'article 92 B, après application du 6 de l'article 94 A et dans la
-limite de leur montant.
 
 4. Les bénéfices des professions industrielles, commerciales, artisanales et
 ceux de l'exploitation minière sont déterminés conformément aux dispositions des
@@ -172,9 +156,10 @@ lieu, au millier de francs supérieur.
 
 b. Les dispositions du a sont applicables aux allocations versées aux
 travailleurs privés d'emploi mentionnées à l'article 231 bis D, premier et
-troisième alinéas, ainsi qu'aux participations en espèces et, à compter du 1er
-janvier 1991, aux dividendes des actions de travail, alloués aux travailleurs
-mentionnés au 18° bis de l'article 81, lorsque ces sommes sont imposables ;
+troisième alinéas, aux participations en espèces et, à compter du 1er janvier
+1991, aux dividendes des actions de travail, alloués aux travailleurs mentionnés
+au 18° bis de l'article 81, lorsque ces sommes sont imposables, ((de même qu'à
+l'aide financière mentionnée à l'article L129-3 du code du travail)) (M).
 
 b bis. Les dispositions du a sont applicables aux prestations servies sous forme
 de rentes ou pour perte d'emploi subie, au titre des contrats d'assurance groupe
@@ -231,16 +216,12 @@ conditions que les revenus énumérés à l'article 124.
 Ces dispositions ne sont pas applicables aux arrérages correspondant aux
 cotisations ayant fait l'objet de la déduction prévue au 1° bis de l'article 83.
 
-Cf. Loi 95-1346 art. 5 I Finances pour 1996, JORF 31 décembre 1995 : Pour
-l'imposition des revenus des années 1996 et suivantes ces dispositions sont
-abrogées.
-
 (1) Annexe IV, art. 6 ter.
 
 (2) Cette disposition s'applique à compter de l'imposition des revenus de 1994.
 
-(M) Modification. Ces dispositions s'appliquent aux intérêts encaissés à compter
-du 1er août 1995.
+(2') Ces dispositions s'appliquent aux intérêts encaissés à compter du 1er août
+1995.
 
 (3) Loi n° 79-594 du 13 juillet 1979, abrogée par la loi n° 88-120 du 23
 décembre 1988.
@@ -256,6 +237,8 @@ pour 1993.
 
 (7) La limite est fixée à 667.000 F pour l'imposition des revenus de 1994. Elle
 était de 657.000 F pour 1993.
+
+(M) Modification.
 
 (8) Disposition applicable à compter du 13 février 1994.
 

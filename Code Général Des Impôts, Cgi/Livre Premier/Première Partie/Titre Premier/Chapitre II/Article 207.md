@@ -5,7 +5,7 @@ Article 207
 1° (Disposition devenue sans objet).
 
 2° Sauf pour les opérations effectuées avec des non-sociétaires et à condition
-qu'elle fonctionnent conformément aux dispositions qui les régissent :
+qu'elles fonctionnent conformément aux dispositions qui les régissent :
 
 a. les sociétés coopératives agricoles d'approvisionnement et d'achat ;
 
@@ -71,6 +71,11 @@ b) Des prêts à leurs filiales et aux organismes mentionnés au 4°. Le taux de
 rémunération de ces prêts ne doit pas excéder celui prévu au 3° du 1 de
 l'article 39.
 
+((c) Des avances remboursables ne portant pas intérêt prévues par l'article R.
+317-1 du code de la construction et de l'habitation. La fraction du bénéfice net
+provenant des avances accordées à compter du 1er janvier 2001 est soumise à
+l'impôt sur les sociétés.)) (M)
+
 5° Les bénéfices réalisés par des associations sans but lucratif régies par la
 loi du 1er juillet 1901 organisant, avec le concours des communes ou des
 départements, des foires, expositions, réunions sportives et autres
@@ -84,10 +89,10 @@ ajoutée ;
 
 6° Les régions et les ententes interrégionales, les départements et les ententes
 interdépartementales, les communes, syndicats de communes et syndicats mixtes
-((constitués exclusivement de collectivités territoriales ou de groupements de
-ces collectivités)) (M) ainsi que leurs régies de services publics ;
+constitués exclusivement de collectivités territoriales ou de groupements de ces
+collectivités (1) ainsi que leurs régies de services publics ;
 
-6° bis. Dans les conditions fixées par décret (1), les établissements publics et
+6° bis. Dans les conditions fixées par décret (2), les établissements publics et
 sociétés d'économie mixte concessionnaires d'opérations d'aménagement, en
 application du deuxième alinéa de l'article L. 300-4 du code de l'urbanisme,
 pour les résultats provenant des opérations réalisées dans le cadre des
@@ -118,23 +123,23 @@ nominal des certificats coopératifs dans le capital social.
 Les résultats sont déterminés selon les règles fixées par l'article 209, avant
 déduction des ristournes.
 
-1 ter. - Pour les sociétés coopératives et leurs unions autres que celles qui
-sont mentionnées aux 2° et 3° du 1 ou autres que celles qui relèvent du 4° du
-même 1, l'exonération prévue au 1 est limitée à la fraction des résultats
-calculée proportionnellement aux droits des coopérateurs dans le capital lorsque
-les associés non coopérateurs détiennent 20 p. 100 au moins du capital et que
-leurs parts sociales peuvent donner lieu à rémunération.
+1 ter. Pour les sociétés coopératives et leurs unions autres que celles qui sont
+mentionnées aux 2° et 3° du 1 ou autres que celles qui relèvent du 4° du même 1,
+l'exonération prévue au 1 est limitée à la fraction des résultats calculée
+proportionnellement aux droits des coopérateurs dans le capital lorsque les
+associés non coopérateurs détiennent 20 p. 100 au moins du capital et que leurs
+parts sociales peuvent donner lieu à rémunération.
 
 Les résultats sont déterminés selon les règles visées à l'article 209 avant
 déduction des ristournes.
 
-1 quater. - Pour les sociétés coopératives et leurs unions autres que celles qui
+1 quater Pour les sociétés coopératives et leurs unions autres que celles qui
 sont mentionnées au 4° du 1, l'exonération prévue au 1 n'est pas applicable
 lorsque les associés non coopérateurs et les titulaires de certificats
 coopératifs d'investissement détiennent plus de 50 p. 100 du capital et que
 leurs parts sociales peuvent donner lieu à rémunération.
 
-1 quinquies. - Pour l'application des dispositions du 1 ter et du 1 quater, sont
+1 quinquies Pour l'application des dispositions du 1 ter et du 1 quater, sont
 regardées comme associés non coopérateurs les personnes physiques ou morales qui
 n'ont pas vocation à recourir aux services de la coopérative ou dont celle-ci
 n'utilise pas le travail, mais qui entendent contribuer par l'apport de capitaux
@@ -144,7 +149,9 @@ n'utilise pas le travail, mais qui entendent contribuer par l'apport de capitaux
 
 3. (Abrogé).
 
-(M) Modification de la loi. Ces dispositions s'appliquent aux exercices ouverts
-à compter du 1er juillet 1995.
+(M) Modification de la loi. [*Cf. Instruction 1997-10-22 4H-6-97.*]
 
-(1) Annexe III, art. 46 bis et 46 ter.
+(1) Ces dispositions s'appliquent aux exercices ouverts à compter du 1er juillet
+1995.
+
+(2) Annexe III, art. 46 bis et 46 ter.

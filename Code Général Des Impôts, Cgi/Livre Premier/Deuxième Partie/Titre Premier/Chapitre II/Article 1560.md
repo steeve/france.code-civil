@@ -1,22 +1,20 @@
 Article 1560
 ----
-I Le tarif d'imposition des spectacles est fixé comme suit :
+I. Le tarif d'imposition des spectacles est fixé comme suit :
 
-NATURE DES SPECTACLES, JEUX ET DIVERTISSEMENTS / TARIF.
+NATURE DES SPECTACLES, JEUX ET DIVERTISSEMENTS : TARIF.
 
 PREMIERE CATEGORIE :
 
 A ...
 
-B : Réunions sportives autres que celles classées en 3e catégorie :
-
-8 %.
+B : Réunions sportives autres que celles classées en 3e catégorie : 8 %.
 
 DEUXIEME CATEGORIE : ...
 
 TROISIEME CATEGORIE :
 
-Courses d'automobiles, spectacles de tir aux aux pigeons : 14 % .
+Courses d'automobiles, spectacles de tir aux aux pigeons : 14 %.
 
 QUATRIEME CATEGORIE :
 
@@ -32,9 +30,10 @@ Au-dessus de 1.500.000 F : 70 % .
 
 CINQUIEME CATEGORIE :
 
-Appareils automatiques installés dans les lieux publics à l'exception des
-appareils munis d'écouteurs individuels installés dans les salles d'audition de
-disques dans lesquelles il n'est servi aucune consommation :
+((Appareils automatiques autres que ceux désignés au III installés dans les
+lieux publics)) (M) à l'exception des appareils muni d'écouteurs individuels
+installés dans les salles d'audition de disques dans lesquelles il n'est servi
+aucune consommation :
 
 Taxe annuelle par appareil :
 
@@ -48,14 +47,14 @@ Dans les communes de :
 
 Plus de 50.000 habitants : 600 F.
 
-II Les conseils municipaux peuvent :
+II. Les conseils municipaux peuvent :
 
-- décider une majoration allant jusqu'à 50 % [*pourcentage*] des tarifs prévus
-pour les première et troisième catégories d'imposition. Des taux de majoration
-distincts peuvent être adoptés pour chacune des deux catégories considérées;
+Décider une majoration allant jusqu'à 50 % des tarifs prévus pour les première
+et troisième catégories d'imposition. Des taux de majoration distincts peuvent
+être adoptés pour chacune des deux catégories considérées;
 
-- affecter de coefficients s'élevant de 2 à 4 le montant de la taxe applicable
-aux appareils automatiques classés en cinquième catégorie.
+Affecter de coefficients s'élevant de 2 à 4 le montant de la taxe applicable aux
+appareils automatiques classés en cinquième catégorie.
 
 Les conseils municipaux qui affectent les taux de base de la taxe annuelle sur
 les appareils automatiques de coefficients de majorations peuvent appliquer des
@@ -71,3 +70,13 @@ devant comporter aucun tableau à voyants lumineux ou dispositifs analogues.
 
 Ils peuvent également renoncer en faveur de ces jeux à l'application de toute
 majoration.
+
+((III. Les appareils automatiques exploités pendant la durée et dans l'enceinte
+des fêtes foraines par des personnes soumises au régime des activités ambulantes
+prévu par les articles 1er et 2 de la loi n° 69-3 du 3 janvier 1969 et qui ont
+pour activité exclusive la tenue d'établissements destinés au divertissement du
+public sont soumis à une taxe calculée au prorata de la durée d'exploitation
+dans chaque commune où a lieu une fête foraine et au tarif de la taxe dans ces
+communes)) (M).
+
+(M) Modification de la loi 95-1346.

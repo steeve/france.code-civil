@@ -5,7 +5,7 @@ toutes personnes physiques ou morales, autres que les bouilleurs de cru, sont
 autorisées à procéder aux opérations de production, de repasse, de repassage, de
 rectification, de déshydratation, de récupération, de régénération d'alcools de
 toute nature et de toutes origines soumis au régime fiscal de l'alcool en vertu
-des dispositions de l'article 401 du code général des impôts.
+((des dispositions du I de l'article 401 du code général des impôts)) (M).
 
 Pour l'application de ce règlement :
 
@@ -27,3 +27,5 @@ Il établit un régime spécial applicable, sous réserve des dispositions de
 l'article 78 ci-après, aux distilleries dans lesquelles les conditions
 techniques existantes amènent à différer provisoirement l'installation de tels
 compteurs.
+
+(M) Modification.

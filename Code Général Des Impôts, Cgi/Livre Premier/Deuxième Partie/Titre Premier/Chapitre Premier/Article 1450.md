@@ -3,9 +3,15 @@ Article 1450
 Les exploitants agricoles, y compris les propriétaires ou fermiers de marais
 salants sont exonérés de la taxe professionnelle.
 
-((En sont également exonérés les groupements d'employeurs constitués
-exclusivement d'exploitants individuels agricoles ou de sociétés civiles
-agricoles bénéficiant de l'exonération, et fonctionnant dans les conditions
-fixées au chapitre VII du titre II du livre Ier du code du travail)) (1).
+En sont également exonérés les groupements d'employeurs constitués exclusivement
+d'exploitants individuels agricoles ou de sociétés civiles agricoles bénéficiant
+de l'exonération, et fonctionnant dans les conditions fixées au chapitre VII du
+titre II du livre Ier du code du travail (1).
 
-(1) Alinéa inséré par la loi. [*Cf. Instruction 1995-08-21 6E-10-95.*]
+Toutefois, ces dispositions ne s'appliquent pas à la production de graines,
+semences et plants effectuée par l'intermédiaire de tiers lorsque l'entreprise
+réalise, au cours de la période de référence définie à l'article 1467 A, un
+chiffre d'affaires supérieur à 30 millions de francs hors taxes.
+
+(1) Disposition applicable aux cotisations qui seraient dues au titre de 1996 et
+des années suivantes.

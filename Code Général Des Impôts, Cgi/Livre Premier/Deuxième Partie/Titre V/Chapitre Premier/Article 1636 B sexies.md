@@ -1,8 +1,8 @@
 Article 1636 B sexies
 ----
-I. 1 Sous réserve des dispositions des articles 1636 B septies et 1636 B decies,
-les conseils régionaux autres que celui de la région d'Ile-de-France, les
-conseils généraux, les conseils municipaux et les instances délibérantes des
+I. 1. Sous réserve des dispositions des articles 1636 B septies et 1636 B
+decies, les conseils régionaux autres que celui de la région d'Ile-de-France,
+les conseils généraux, les conseils municipaux et les instances délibérantes des
 organismes de coopération intercommunale dotés d'une fiscalité propre votent
 chaque année les taux des taxes foncières, de la taxe d'habitation et de la taxe
 professionnelle. Ils peuvent :
@@ -13,13 +13,13 @@ appliqués l'année précédente ;
 b) Soit faire varier librement entre eux les taux des quatre taxes. Dans ce cas,
 le taux de taxe professionnelle :
 
-- ne peut, par rapport à l'année précédente, être augmenté dans une proportion
+Ne peut, par rapport à l'année précédente, être augmenté dans une proportion
 supérieure à l'augmentation du taux de la taxe d'habitation ou, si elle est
 moins élevée, à celle du taux moyen de la taxe d'habitation et des taxes
 foncières, pondéré par l'importance relative des bases de ces trois taxes pour
 l'année d'imposition ;
 
-- ou doit être diminué, par rapport à l'année précédente, dans une proportion au
+Ou doit être diminué, par rapport à l'année précédente, dans une proportion au
 moins égale, soit à la diminution du taux de la taxe d'habitation ou à celle du
 taux moyen pondéré de la taxe d'habitation et des taxes foncières, soit à la
 plus importante de ces diminutions lorsque ces deux taux sont en baisse.
@@ -28,7 +28,7 @@ Jusqu'à la date de la prochaine révision, le taux de la taxe foncière sur les
 propriétés non bâties ne peut augmenter plus ou diminuer moins que le taux de la
 taxe d'habitation.
 
-2 Toutefois, le taux de la taxe d'habitation, le taux de la taxe foncière sur
+2. Toutefois, le taux de la taxe d'habitation, le taux de la taxe foncière sur
 les propriétés bâties ou le taux de la taxe foncière sur les propriétés non
 bâties peut, à compter de 1989, être diminué jusqu'au niveau du taux moyen
 national de la taxe constaté l'année précédente pour, selon le cas, les communes
@@ -53,7 +53,7 @@ taxe professionnelle ou le taux de la taxe foncière sur les propriétés non
 bâties a été augmenté dans ces conditions, il ne peut pas être fait application
 du premier alinéa pendant les trois années suivantes.
 
-3 Pour les départements et les communes lorsque le taux de la taxe
+3. Pour les départements et les communes lorsque le taux de la taxe
 professionnelle ainsi déterminé est inférieur à la moyenne constatée pour cette
 taxe l'année précédente dans l'ensemble des collectivités de même nature, il
 peut faire l'objet d'une majoration au plus égale à 5 p. 100 de cette moyenne
@@ -70,45 +70,18 @@ foncières, de la taxe d'habitation et de la taxe professionnelle perçues au
 profit de la commune et les taux respectifs des mêmes taxes, votés l'année
 précédente par la communauté urbaine.
 
-4 a) Dans les communes remplissant les conditions fixées au b ci-après, le
-conseil municipal peut, en 1992, majorer le taux de la taxe professionnelle d'un
-point au maximum sans que cette majoration soit prise en compte pour
-l'application du b du 1.
-
-Cette majoration ne peut se cumuler avec celle prévue au 3 ;
-
-b) Ces dispositions s'appliquent aux communes visées aux II et III de l'article
-L. 234-19-1 du code des communes ou soumises au prélèvement prévu à l'article L.
-263-14 du même code et dans lesquelles, au titre de l'année précédente :
-
-1° Le taux communal de taxe professionnelle n'excède pas la moitié du taux moyen
-de cette taxe constaté la même année pour l'ensemble des communes ;
-
-2° Le taux communal de taxe d'habitation est supérieur à la moitié du taux moyen
-de cette taxe constaté la même année pour l'ensemble des communes.
-
-((5 a) Dans les départements et les communes remplissant les conditions fixées
-au b, le taux de la taxe professionnelle peut être, en 1994, majoré de 5 p. 100
-au maximum sans que cette majoration soit prise en compte pour l'application du
-b du I.
-
-((Cette majoration ne peut se cumuler avec celle prévue au 3 lorsque le taux de
-taxe professionnelle du département ou de la commune est, en 1993, égal ou
-supérieur à 80 p. 100 du taux moyen de cette taxe constaté la même année pour
-l'ensemble des collectivités de même nature ;
-
-((b) Ces dispositions s'appliquent aux départements et aux communes visés à
-l'article 54 de la loi de finances pour 1994 (n° 93-1352 du 30 décembre 1993) et
-dans lesquelles, au titre de l'année précédente :
-
-((1° Le taux de taxe professionnelle est inférieur d'au moins 10 p. 100 au taux
-moyen de cette taxe constaté la même année pour l'ensemble des collectivités de
-même nature ;
-
-((2° Le taux moyen pondéré des trois autres taxes perçues au profit de la
-collectivité concernée est égal ou supérieur au taux moyen pondéré constaté la
-même année pour ces trois taxes dans l'ensemble des collectivités de même
-nature.)) (Modification de la loi 93-1352).
+((Dans les communes, membres d'un groupement de communes, qui, l'année de
+l'adhésion au groupement et l'année suivante, ont rempli les conditions pour
+bénéficier des dispositions du premier alinéa, le conseil municipal peut, à
+compter de la deuxième année suivant celle de l'adhésion, majorer le taux de
+taxe professionnelle selon les modalités prévues ci-dessus lorsque, à compter de
+cette même année, le taux de la taxe professionnelle déterminé en application du
+1 est inférieur à la moyenne constatée pour cette taxe l'année précédente dans
+l'ensemble des communes et que le taux moyen pondéré des trois autres taxes
+perçues au profit de la collectivité concernée est au plus inférieur de 20 p.
+100 au taux moyen pondéré constaté l'année précédente pour ces trois taxes dans
+l'ensemble des communes. Ces règles sont applicables pour les communes qui ont
+adhéré à un groupement à compter de 1995)) (M).
 
 I bis. Dans les communes où le taux ou les bases de la taxe professionnelle
 étaient nuls l'année précédente, le conseil municipal peut fixer le taux de
@@ -152,3 +125,5 @@ II. En cas de création d'un groupement de communes doté d'une fiscalité propr
 les rapports entre les taux des quatre taxes établies par le groupement doivent
 être égaux, la première année, aux rapports constatés l'année précédente entre
 les taux moyens pondérés de chaque taxe dans l'ensemble des communes membres.
+
+(M) Modification de la loi.

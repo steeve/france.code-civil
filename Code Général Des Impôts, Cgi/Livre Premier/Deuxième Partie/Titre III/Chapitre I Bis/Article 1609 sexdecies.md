@@ -32,8 +32,8 @@ c) Emballages industriels :
 
 44 15 20 90. - Caisses-palettes ;
 
-2° ((1,30 p. 100 de la valeur des produits suivants, énumérés selon la même
-référence)) (1) :
+2° 1,2 p. 100 de la valeur des produits suivants énumérés selon la même
+référence :
 
 a) Sciages :
 
@@ -55,7 +55,7 @@ c) Bois contre-plaqués :
 
 44 12 11 00, 44 12 12 00, 44 12 19 00. - Bois contre-plaqués ;
 
-2° bis. ((0,68 p. 100)) (1) de la valeur des produits suivants énumérés selon la
+2° bis. 0,68 p. 100 (1) de la valeur des produits suivants énumérés selon la
 même référence :
 
 44-10-10-10, 44-10-10-30, 44-10-10-50, 44-10-10-90. Panneaux de particules, à
@@ -84,8 +84,8 @@ b) Emballages légers :
 
 c) Supprimé ;
 
-4° ((0,12 p. 100)) (1) de la valeur des produits suivants, énumérés selon la
-même référence :
+4° 0,12 p. 100 (1) de la valeur des produits suivants, énumérés selon la même
+référence :
 
 48 01. - Papier journal en rouleaux ou en feuilles ;
 
@@ -170,3 +170,5 @@ l'importation. La taxe est assise et recouvrée par le service des douanes selon
 les mêmes règles, sous les mêmes garanties et les mêmes sanctions qu'en matière
 douanière. La base d'imposition est constituée par la valeur définie par la
 législation douanière conformément aux règlements communautaires en vigueur.
+
+(1) Taux applicable à compter du 1er janvier 1995.
