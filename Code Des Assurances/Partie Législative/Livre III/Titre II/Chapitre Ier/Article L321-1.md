@@ -11,6 +11,10 @@ L'agrément est accordé sur demande de l'entreprise, pour les opérations d'une
 plusieurs branches d'assurance. L'entreprise ne peut pratiquer que les
 opérations pour lesquelles elle est agréée.
 
+Aucun agrément ne peut être accordé à une même entreprise pour des opérations
+définies aux 1°, 2°, 3°, 4° et 6° de l'article L. 310-1 et pour les opérations
+définies aux 5° et 7° dudit article.
+
 Sont nuls les contrats souscrits en infraction au présent article. Toutefois,
 cette nullité n'est pas opposable, lorsqu'ils sont de bonne foi, aux associés,
 aux souscripteurs et aux bénéficiaires.
