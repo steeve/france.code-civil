@@ -3,9 +3,7 @@ Article R*432-7
 La Compagnie française d'assurance pour le commerce extérieur est administrée
 par un conseil de dix-huit membres, à savoir :
 
-a) Six administrateurs désignés par l'assemblée générale des actionnaires à
-raison de un par établissement ou groupe d'établissements mentionnés à l'article
-R. 432-2.
+a) Six administrateurs désignés par l'assemblée générale des actionnaires.
 
 b) Six administrateurs nommés par décret pris sur le rapport du ministre de
 l'économie, des finances et du budget, parmi les personnes ayant une vaste

@@ -1,12 +1,8 @@
 Article R*432-14
 ----
-La compagnie tient sa comptabilité suivant la réglementation en vigueur et selon
-les dispositions du plan comptable normalisé.
+La compagnie tient sa comptabilité suivant la réglementation en vigueur.
 
-Cette comptabilité fait apparaître notamment en un compte distinct l'ensemble
-des frais généraux de la compagnie et, en un compte dit "Compte du Trésor",
-conformément aux dispositions de la présente section et aux instructions du
-ministre de l'économie et des finances, toutes les opérations prévues à
-l'article R. 432-13 et aux articles R. 432-15 à R. 432-17, ainsi que les
-versements effectués par l'Etat au titre de la garantie prévue à l'article R.
-432-13 et les sommes reversées à l'Etat en application de l'article R. 432-18.
+Cette comptabilité fait apparaître en un compte, dit "Compte du Trésor", les
+opérations mentionnées au 2° de l'article R. 432-1 ainsi que les prélèvements ou
+versements effectués par application des dispositions des articles R. 432-13, R.
+432-15, R. 432-16 et R. 432-18.
