@@ -14,4 +14,8 @@ confèrent ses fonctions ;
 4° Lorsqu'elle est commise par plusieurs personnes agissant en qualité d'auteur
 ou de complice ;
 
-5° Lorsqu'elle est commise avec usage ou menace d'une arme.
+5° Lorsqu'elle est commise avec usage ou menace d'une arme ;
+
+6° Lorsque la victime a été mise en contact avec l'auteur des faits grâce à
+l'utilisation, pour la diffusion de messages à destination d'un public non
+déterminé, d'un réseau de télécommunications.

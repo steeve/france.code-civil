@@ -37,6 +37,11 @@ précité ;
 
 - les infractions définies aux articles 1er et 4 de la loi n° 72-467 du 9 juin
 1972 interdisant la mise au point, la fabrication, la détention, le stockage,
-l'acquisition et la cession d'armes biologiques ou à base de toxines.
+l'acquisition et la cession d'armes biologiques ou à base de toxines ;
+
+- les infractions prévues par les articles 58 et 63 de la loi n° 98-467 du 17
+juin 1998 relative à l'application de la convention du 13 janvier 1993 sur
+l'interdiction de la mise au point, de la fabrication, du stockage et de
+l'emploi des armes chimiques et sur leur destruction ;
 
 5° Le recel du produit de l'une des infractions prévues aux 1° à 4° ci-dessus.

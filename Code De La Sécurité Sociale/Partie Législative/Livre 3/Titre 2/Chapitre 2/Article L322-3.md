@@ -54,4 +54,8 @@ le traitement de celle-ci, y compris au moyen de l'insémination artificielle ;
 L. 341-16 et L. 371-1 en ce qui concerne les frais engagés pour eux-mêmes ;
 
 14°) pour les ayants droit des bénéficiaires des dispositions de l'article L.
-371-1.
+371-1 ;
+
+15°) pour les soins consécutifs aux sévices subis par les mineurs victimes
+d'actes prévus et réprimés par les articles 222-23 à 222-32 et 227-22 à 227-27
+du code pénal.

@@ -13,7 +13,11 @@ en application de l'article 775-1 ;
 3° Les condamnations prononcées pour contraventions de police ;
 
 4° Les condamnations assorties du bénéfice du sursis, avec ou sans mise à
-l'épreuve, lorsqu'elles doivent être considérées comme non avenues ;
+l'épreuve, lorsqu'elles doivent être considérées comme non avenues ; toutefois,
+si a été prononcé le suivi socio-judiciaire prévu par l'article 131-36-1 du code
+pénal ou la peine d'interdiction d'exercer une activité professionnelle ou
+bénévole impliquant un contact habituel avec des mineurs, la décision continue
+de figurer au bulletin n° 2 pendant la durée de la mesure ;
 
 6° Les condamnations auxquelles sont applicables les dispositions de l'article
 343 du code de justice militaire ;

@@ -14,4 +14,11 @@ professionnelle ;
 délivrance d'un nouveau permis pendant cinq ans au plus ;
 
 4° L'interdiction, pour une durée de cinq ans au plus, de quitter le territoire
-de la République.
+de la République ;
+
+5° La confiscation de la chose qui a servi ou était destinée à commettre
+l'infraction ou de la chose qui en est le produit ;
+
+6° L'interdiction, soit à titre définitif, soit pour une durée de dix ans au
+plus, d'exercer une activité professionnelle ou bénévole impliquant un contact
+habituel avec des mineurs.

@@ -12,9 +12,8 @@ confèrent ses fonctions ;
 3° Lorsqu'elle est commise par plusieurs personnes agissant en qualité d'auteur
 ou de complice ;
 
-4° Lorsqu'elle s'accompagne du versement d'une rémunération.
+4° Lorsqu'elle s'accompagne du versement d'une rémunération ;
 
-Dans le cas où l'infraction prévue par le 4° du présent article est commise à
-l'étranger, la loi pénale française est applicable par dérogation au deuxième
-alinéa de l'article 113-6 et les dispositions de la seconde phrase de l'article
-113-8 ne sont pas applicables.
+5° Lorsque le mineur a été mis en contact avec l'auteur des faits grâce à
+l'utilisation, pour la diffusion de messages à destination d'un public non
+déterminé, d'un réseau de télécommunications.
