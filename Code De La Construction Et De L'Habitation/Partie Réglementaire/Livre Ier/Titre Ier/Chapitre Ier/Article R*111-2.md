@@ -8,12 +8,12 @@ quatrième.
 
 La surface habitable d'un logement est la surface de plancher construite, après
 déduction des surfaces occupées par les murs, cloisons, marches et cages
-d'escaliers, gaines, ébrasements de portes et de fenêtres ; le volume habitable
+d'escaliers, gaines, embrasures de portes et de fenêtres ; le volume habitable
 correspond au total des surfaces habitables ainsi définies multipliées par les
 hauteurs sous plafond.
 
 Il n'est pas tenu compte de la superficie des combles non aménagés, caves,
 sous-sols, remises, garages, terrasses, loggias, balcons, séchoirs extérieurs au
-logement, vérandas, volumes vitrés prévus à l'article R. 111-10, locaux communs
+logement, vérandas, volumes vitrés prévus à l'article R*. 111-10, locaux communs
 et autres dépendances des logements, ni des parties de locaux d'une hauteur
 inférieure à 1,80 mètre.
