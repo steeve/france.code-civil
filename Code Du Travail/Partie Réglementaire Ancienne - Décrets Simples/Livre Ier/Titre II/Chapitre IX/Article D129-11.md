@@ -35,15 +35,15 @@ Seules les factures encaissées sur le compte bancaire unique mentionné à
 l'article D. 129-9, qui sont acquittées soit par carte de paiement, prélèvement,
 virement, titre universel ou interbancaire de paiement ou par chèque, soit par
 titre émis par un des organismes agréés dans des conditions définies par arrêté
-du ministre chargé du travail et du ministre chargé du budget [*titres
-emploi-service*], peuvent ouvrir droit à la réduction fiscale prévue par
-l'article 199 sexdecies du code général des impôts.
+du ministre chargé du travail et du ministre chargé du budget, peuvent ouvrir
+droit à la réduction fiscale prévue par l'article 199 sexdecies du code général
+des impôts.
 
 Pour les tâches occasionnelles ne demandant pas une qualification particulière,
 de très courte durée, dites prestations hommes toutes mains , seul le recours
 auprès d'un prestataire par abonnement mensuel, résiliable sous préavis de deux
 mois, peut ouvrir droit à la réduction fiscale, les prestations étant limitées à
-400 euros par an par foyer fiscal et à deux heures par prestation.
+480 euros par an par foyer fiscal et à deux heures par prestation.
 
 L'entreprise ou l'association doit communiquer à chacun de ses clients une
 attestation fiscale annuelle, délivrée pour bénéficier de la réduction d'impôt
