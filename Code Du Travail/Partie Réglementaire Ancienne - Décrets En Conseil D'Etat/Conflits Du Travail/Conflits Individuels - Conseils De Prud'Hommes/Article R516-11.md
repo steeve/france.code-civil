@@ -1,14 +1,15 @@
 Article R516-11
 ----
-Si l'expert n'est pas en mesure de déposer son rapport dans le délai fixé par le
-conseil, un nouveau délai peut être accordé.
+Le /M/secrétariat/M/loi 0044 : secrétariat-greffe// convoque le défendeur devant
+le bureau de conciliation par lettre recommandée avec demande d'avis de
+réception [*formalités*]. Il lui adresse le même jour copie de cette convocation
+par lettre simple qui jouit de la franchise postale.
 
-Si le rapport n'est pas déposé dans ce nouveau délai et si l'expert n'en a pas
-demandé une nouvelle prolongation, le conseil provoque d'office ses explications
-et le met en demeure de terminer sa mission. Le cas échéant, l'affaire revient
-devant le conseil en vue du remplacement de l'expert primitivement désigné ;
-celui-ci est convoqué par lettre recommandée avec demande d'avis de réception.
+La convocation destinée au défendeur indique les nom,
 
-Le conseil, après avoir entendu l'expert, statue sur le champ. S'il ordonne le
-remplacement de l'expert, celui-ci est condamné aux dépens sans préjudice de
-dommages et intérêts envers les parties.
+profession et domicile du demandeur, les lieu, jour et heure de la séance du
+bureau de conciliation à laquelle l'affaire sera appelée ainsi que les chefs de
+la demande. Elle informe en outre le défendeur que des décisions exécutoires
+/R/par provision/R/DECR.1122 05-12-1975 : à titre provisoire// pourront même en
+son absence, être prises contre lui par le bureau de conciliation //DECR.1122 :
+au vu des seuls éléments fournis par son adversaire//.

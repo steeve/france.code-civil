@@ -1,12 +1,13 @@
 Article R517-3
 ----
-Les jugements des conseils de prud'hommes sont définitifs et sans appel, sauf du
-chef de la compétence, lorsque le chiffre de la demande n'excède pas le taux de
-la compétence en dernier ressort des tribunaux d'instance statuant sur les
-différends qui peuvent s'élever à l'occasion du contrat de travail entre les
-employeurs et leurs représentants et les salariés et apprentis.
+Le conseil de prud'hommes statue en dernier ressort :
 
-Il en est de même des demandes en remise de certificat de travail ou de bulletin
-de paie même sous astreinte, à moins que leur montant cumulé avec le montant des
-autres chefs de la demande ne dépasse le taux de leur compétence en dernier
-ressort.
+1. Lorsque le chiffre de la demande n'excède pas le taux de la compétence en
+dernier ressort des tribunaux d'instance statuant sur les contestations nées à
+l'occasion du contrat de travail ;
+
+2. Lorsque la demande tend à la remise, même sous astreinte,
+
+de certificats de travail, de bulletins de paie ou de toute pièce que
+l'employeur est tenu [*obligation*] de délivrer, à moins que le jugement ne soit
+en premier ressort en raison du montant des autres demandes.

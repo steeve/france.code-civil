@@ -1,12 +1,11 @@
 Article R517-8
 ----
-Toutes les demandes dérivant du contrat de travail entre les mêmes parties
-doivent [*obligation*] faire l'objet d'une seule instance, à peine d'être
-déclarées non recevables, à moins que le demandeur ne justifie que les causes
-des demandes nouvelles ne sont nées, ou n'ont été connues de lui, que
-postérieurement à l'introduction de la demande primitive.
+Le secrétariat du conseil de prud'hommes transmet immédiatement au
+secrétaire-greffier en chef de la cour d'appel une copie de la déclaration
+d'appel et le dossier de l'affaire. Il procède en même temps au virement des
+sommes afférentes aux frais de l'instance devant la cour.
 
-Sont toutefois recevables [*exception*] les nouveaux chefs de demandes tant que
-le conseil de prud'hommes ne s'est pas prononcé en premier ou en dernier ressort
-sur les chefs de la demande primitive. Il ordonne la jonction des instances et
-se prononce sur elles par un seul jugement.
+Copie de la déclaration d'appel est adressée à l'intimé,
+
+selon le cas, par le secrétariat du conseil de prud'hommes ou par le
+secrétariat-greffe de la cour d'appel [*formalités*] .

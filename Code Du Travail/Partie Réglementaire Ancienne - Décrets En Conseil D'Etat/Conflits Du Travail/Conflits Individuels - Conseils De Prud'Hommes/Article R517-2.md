@@ -1,7 +1,10 @@
 Article R517-2
 ----
-Le tribunal d'instance connaît en dernier ressort jusqu'à la valeur de 3.500 F
-[*montant*] et à charge d'appel à quelque valeur que la demande puisse d'élever,
-de toutes contestations nées à l'occasion du contrat de travail, lorsqu'il
-n'existe pas de conseil de prud'hommes dans le ressort ou que le conseil ne
-comporte pas de section compétente pour la profession intéressée.
+Lorsque le conseil est divisé en sections, la section compétente est déterminée
+par le genre de travail, quel que soit la nature de l'établissement.
+
+Toutefois les litiges entre employeurs et salariés exerçant des professions de
+nature autre qu'industrielle ou commerciale sont, sous réserve des dispositions
+de l'article L. 511-5 (dernier alinéa)[*gens de maison*], portés soit devant la
+section agricole, soit devant la section des professions diverses suivant la
+nature de l'établissement.

@@ -1,5 +1,6 @@
 Article R516-10
 ----
-En cas d'urgence, le conseil peut ordonner les mesures nécessaires pour empêcher
-que les objets qui donnent lieu à une réclamation ne soient enlevés ou déplacés
-ou détériorés.
+Le /M/secrétariat/M/loi 0044 : secrétariat-greffe// avise le demandeur des lieu,
+jour et heure de la séance du bureau de conciliation à laquelle l'affaire sera
+appelée soit verbalement lors de la présentation de la demande, soit par lettre
+simple qui jouit de la franchise postale.
