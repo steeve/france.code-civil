@@ -5,7 +5,7 @@ L. 134-1 est égal à la somme des deux éléments suivants :
 
 1. La différence entre le produit de la cotisation proportionnelle et le montant
 des prestations calculées sur la base du régime fictif défini à l'article D.
-134-9-2 :
+134-9-2 ;
 
 2. Le produit de la répartition du solde global résultant, pour ces régimes, de
 l'application des articles D. 134-1 à D. 134-9, entre les régimes mentionnés par
@@ -19,5 +19,5 @@ c) Le montant ainsi obtenu n'est versé ou reçu qu'à hauteur d'une partie de s
 valeur calculée.
 
 d) Le taux applicable pour calculer le montant défini au c est égal à 22 p. 100.
-Toutefois, ce taux est fixé à 30 p. 100 pour l'exercice 1992 et à 38 p. 100 pour
-l'exercice 1993.
+Toutefois, ce taux est fixé à 30 p. 100 pour l'exercice 1992 et à 38 p. 100 à
+compter de l'exercice 1993.
