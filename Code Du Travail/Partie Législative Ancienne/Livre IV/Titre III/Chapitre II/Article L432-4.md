@@ -76,10 +76,16 @@ même loi et 10-3 de l'ordonnance du 23 septembre 1967 susvisée.
 Au cours de chaque trimestre, le chef d'entreprise communique au comité
 d'entreprise des informations sur l'évolution générale des commandes et de la
 situation financière, sur l'exécution des programmes de production ainsi que sur
-la situation de l'entreprise au regard des cotisations de sécurité sociale.
-Chaque trimestre dans les entreprises d'au moins trois cents salariés
-[*effectif*] et chaque semestre dans les autres, le chef d'entreprise informe
-également le comité des mesures envisagées en ce qui concerne l'amélioration, le
-renouvellement ou la transformation de l'équipement ou des méthodes de
-production et d'exploitation et de leurs incidences sur les conditions de
-travail et d'emploi.
+d'éventuels retards dans le paiement par l'entreprise des cotisations de
+sécurité sociale ou des cotisations dues aux institutions de retraite
+complémentaire régies par le chapitre II du titre II du livre IX du code de la
+sécurité sociale et l'article 1050 du code rural ou des cotisations ou primes
+dues aux organismes assureurs mentionnés à l'article premier de la loi n°
+89-1009 du 31 décembre 1989 renforçant les garanties offertes aux personnes
+assurées contre certains risques au titre des garanties collectives mentionnées
+à l'article L. 911-2 du code de la sécurité sociale. Chaque trimestre dans les
+entreprises d'au moins trois cents salariés et chaque semestre dans les autres,
+le chef d'entreprise informe également le comité des mesures envisagées en ce
+qui concerne l'amélioration, le renouvellement ou la transformation de
+l'équipement ou des méthodes de production et d'exploitation et de leurs
+incidences sur les conditions de travail et d'emploi.

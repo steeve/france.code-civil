@@ -1,25 +1,19 @@
 Article 1050
 ----
-Les salariés mentionnés à l'article 1144 du présent code peuvent bénéficier
-auprès des institutions de retraite ou de prévoyance complémentaire fonctionnant
-avec l'autorisation et sous le contrôle du ministre chargé de l'agriculture
-d'avantages s'ajoutant à ceux qui résultent du régime des assurances sociales
-agricoles, du régime d'assurance obligatoire contre les accidents du travail et
-les maladies professionnelles, de la législation applicables dans les
-départements d'outre-mer, conformément au livre XI du code de la sécurité
-sociale et des assurances volontaires prévues par le titre Ier du livre XII du
-code de la sécurité sociale.
+I. - Les institutions de retraite complémentaire auxquelles, en application de
+l'article L. 921-1 du code de la sécurité sociale, doivent être affiliés les
+salariés mentionnés à l'article 1144 sont régies par les dispositions du titre
+II du livre IX de ce code. Toutefois, elles fonctionnent avec l'autorisation et
+sous le contrôle du ministre chargé de l'agriculture.
 
-Les institutions mentionnées au premier alinéa du présent article ne peuvent
-être simultanément autorisées à constituer :
-
-1° des avantages de retraite complémentaire qui relèvent de l'obligation
-d'affiliation fixée au premier alinéa de l'article L. 731-5 du code de la
-sécurité sociale ou qui ne sont pas couverts intégralement et à tout moment par
-des provisions techniques, d'une part ;
-
-2° d'autres avantages mentionnés au premier alinéa du présent article, d'autre
-part.
-
-Les institutions définies au premier alinéa sont soumises au contrôle de la
-commission instituée par l'article L. 732-10 du code de la sécurité sociale.
+II. - Les institutions de prévoyance autorisées avant la date de la publication
+de la loi n° 94-678 du 8 août 1994 relative à la protection sociale
+complémentaire des salariés et portant transposition des directives n° 92-49 et
+n° 92-96 des 18 juin et 10 novembre 1992 du Conseil des communautés européennes
+par le ministre chargé de l'agriculture à fonctionner exclusivement au bénéfice
+des salariés mentionnés à l'article 1144 sont maintenues. Elles sont régies par
+les dispositions du titre III du livre IX du code de la sécurité sociale et
+soumises au contrôle de la commission instituée par l'article L. 951-1 de ce
+code. Toutefois, les attributions du ministre chargé de la sécurité sociale en
+ce qui concerne ces institutions sont dévolues au ministre chargé de
+l'agriculture.
