@@ -9,3 +9,7 @@ examine en outre celle des établissements, sociétés, groupements et organisme
 mentionnés aux articles L. 262-7 à L. 262-9, ainsi qu'aux articles L. 262-10 et
 L. 262-11 lorsque la vérification lui en est confiée par arrêté du premier
 président de la Cour des comptes.
+
+Elle peut également assurer ces vérifications sur demande motivée soit du
+haut-commissaire, soit de l'exécutif de la collectivité territoriale ou de
+l'établissement public concerné.

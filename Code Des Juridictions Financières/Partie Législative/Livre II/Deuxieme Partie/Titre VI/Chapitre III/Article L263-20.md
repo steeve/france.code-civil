@@ -5,8 +5,8 @@ budget communal un déficit égal ou supérieur à 10 p. 100 des recettes de la
 section de fonctionnement s'il s'agit d'une commune de moins de 20 000 habitants
 et à 5 p. 100 dans les autres cas, la chambre territoriale des comptes, saisie
 par le haut-commissaire, propose à la commune les mesures nécessaires au
-rétablissement de l'équilibre budgétaire, dans le délai de deux mois à compter
-de cette saisine.
+rétablissement de l'équilibre budgétaire, dans le délai d'un mois à compter de
+cette saisine.
 
 Lorsque le budget d'une commune a fait l'objet des mesures de redressement
 prévues à l'alinéa précédent, le haut-commissaire transmet à la chambre
