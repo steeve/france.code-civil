@@ -6,4 +6,4 @@ territoriale mis à disposition au titre de l'article 100 de la loi n° 84-53 du
 territoriale auprès d'organisations syndicales pour exercer un mandat à
 l'échelon national dont les charges salariales sont remboursées par une dotation
 particulière prélevée sur les ressources affectées à la dotation globale de
-fonctionnement est fixé à quatre-vingts.
+fonctionnement est fixé à quatre-vingt-dix.
