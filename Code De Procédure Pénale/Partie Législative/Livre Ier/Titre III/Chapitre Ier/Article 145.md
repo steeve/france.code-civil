@@ -1,41 +1,41 @@
 Article 145
 ----
-En toute matière, lorsqu'un placement en détention est envisagé par le juge
-d'instruction, celui-ci avise la personne, si elle n'est pas assistée d'un
-avocat, de son droit d'en choisir un ou de demander qu'il lui en soit désigné un
-d'office. Il l'avise également de son droit de disposer d'un délai pour préparer
-sa défense.
+En toute matière, le placement en détention provisoire est prescrit par une
+ordonnance spécialement motivée qui doit comporter l'énoncé des considérations
+de droit et de fait sur le caractère insuffisant des obligations du contrôle
+judiciaire et le motif de la détention par référence aux seules dispositions de
+l'article 144. Cette ordonnance est notifiée verbalement à la personne qui en
+reçoit copie intégrale contre émargement au dossier de la procédure.
 
-L'avocat choisi ou, dans le cas d'une demande de commission d'office, le
-bâtonnier de l'ordre des avocats en est informé par tout moyen et sans délai ;
-mention de cette formalité est faite au procès-verbal. L'avocat peut consulter
-sur-le-champ le dossier et s'entretenir librement avec la personne.
+Le juge d'instruction qui envisage de placer en détention la personne mise en
+examen l'avise de son droit de disposer d'un délai pour préparer sa défense.
 
-Lorsque la personne demande un délai pour préparer sa défense, le juge
-d'instruction peut, par ordonnance motivée et non susceptible d'appel, prescrire
-une incarcération provisoire pour une durée déterminée qui ne peut en aucun cas
-excéder quatre jours ouvrables. Le juge d'instruction peut également prescrire
-une incarcération provisoire lorsque le président du tribunal de grande instance
-ou le juge délégué par lui ne peut statuer immédiatement ; dans ce cas,
-l'incarcération provisoire ne peut en aucun cas excéder deux jours ouvrables.
+Si cette personne n'est pas déjà assistée d'un avocat, il l'avise qu'elle a
+droit à l'assistance d'un avocat de son choix ou commis d'office. L'avocat
+choisi ou, dans le cas d'une demande de commission d'office, le bâtonnier de
+l'ordre des avocats en est avisé par tout moyen et sans délai ; mention de cette
+formalité est faite au procès-verbal.
 
-Dans ce délai, la personne doit comparaître devant le président du tribunal de
-grande instance ou le juge délégué par lui, à défaut de quoi elle est mise
-d'office en liberté. Son avocat est informé par tout moyen et sans délai de la
-date de cette comparution ; mention de cette formalité est faite au dossier.
+Le juge d'instruction statue en audience de cabinet, après un débat
+contradictoire au cours duquel il entend le ministère public qui développe ses
+réquisitions prises conformément au troisième alinéa de l'article 82 puis les
+observations de la personne mise en examen et, le cas échéant, celles de son
+avocat.
+
+Toutefois, le juge d'instruction ne peut ordonner immédiatement le placement en
+détention lorsque la personne mise en examen ou son avocat sollicite un délai
+pour préparer sa défense.
+
+Dans ce cas, il peut, au moyen d'une ordonnance motivée par référence aux
+dispositions de l'alinéa précédent et non susceptible d'appel, prescrire
+l'incarcération de la personne pour une durée déterminée qui ne peut en aucun
+cas excéder quatre jours ouvrables. Dans ce délai, il fait comparaître à nouveau
+la personne et, que celle-ci soit ou non assistée d'un avocat, procède comme il
+est dit aux deuxième et troisième alinéas. S'il n'ordonne pas le placement de la
+personne en détention provisoire, celle-ci est mise en liberté d'office.
 
 L'incarcération provisoire est, le cas échéant, imputée sur la durée de la
-détention provisoire. Elle est assimilée à une détention provisoire au sens de
-l'article 149 du présent code et de l'article 24 du code pénal.
-
-Le président du tribunal ou le juge délégué par lui statue après un débat
-contradictoire au cours duquel sont entendues les réquisitions du ministère
-public, puis les observations de la personne et, le cas échéant, celles de son
-avocat. Si le magistrat saisi l'estime utile, les observations du juge
-d'instruction peuvent être recueillies. Les débats ont lieu et la décision est
-rendue en chambre du conseil.
-
-La décision doit comporter l'énoncé des considérations de droit et de fait qui
-en constituent le fondement par référence aux seules dispositions de l'article
-144. Elle est notifiée verbalement à la personne qui en reçoit copie contre
-émargement au dossier de la procédure.
+détention provisoire pour l'application des articles 145-1 et 145-2. Elle est
+assimilée à une détention provisoire au sens de l'article 149 du présent code et
+de l'article 24 du code pénal (article abrogé, cf. article 716-4 du code de
+procédure pénale).
