@@ -5,7 +5,7 @@ les personnes mentionnées au titre VII du livre VII du code du travail doivent
 consacrer au financement des actions définies à l'article 235 ter C un
 pourcentage minimal de 0,15 p. 100 du montant, entendu au sens du 1 de l'article
 231, des salaires payés pendant l'année en cours. Les sommes sur lesquelles
-portent les exonérations mentionnées aux articles 231 bis C à 231 bis N ne sont
+portent les exonérations mentionnées aux articles 231 bis C à 231 bis O ne sont
 pas prises en compte pour l'établissement du montant de la contribution définie
 ci-dessus. A défaut de dispositions contraires prévues par une convention ou un
 accord collectif étendu, les contributions inférieures à 100 F ne sont pas

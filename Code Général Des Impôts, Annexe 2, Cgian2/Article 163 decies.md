@@ -7,14 +7,14 @@ indemnités et émoluments, y compris la valeur des avantages en nature, quel qu
 soit le lieu du domicile des bénéficiaires.
 
 Sont exclues les sommes définies à l'article 81 et aux articles 231 bis C à 231
-bis N du code général des impôts.
+bis O du code général des impôts.
 
 2. Les sommes prévues au 1 sont comprises dans la base de calcul de la
 participation pour leur montant brut, avant déduction des cotisations et
 contributions visées aux 1° à 2° ter de l'article 83 du code général des impôts.
 
 Toutefois, en ce qui concerne les salariés appartenant aux catégories de
-professions qui bénéficient, en vertu du troisième alinéa du 3° del'article 83
+professions qui bénéficient, en vertu du troisième alinéa du 3° de l'article 83
 du code général des impôts, d'une déduction supplémentaire pour frais
 professionnels, le montant de cette déduction supplémentaire peut, pour la
 détermination de la base de la participation, être défalqué du montant brut des
