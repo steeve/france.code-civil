@@ -5,12 +5,9 @@ sécurité sociale, celui des conjoints ou concubins n'exerçant pas d'activité
 professionnelle qui remplit les conditions posées ci-après :
 
 1°) soit avoir à charge au moins un enfant de moins de trois ans et bénéficier
-de l'allocation pour jeune enfant sous condition de ressources, sous réserve que
-les ressources du ménage ne dépassent pas un plafond égal à 2.130 fois le taux
-horaire du salaire minimum de croissance prévu à l'article L. 141-4 du code du
-travail en vigueur au 1er juillet de l'année de référence ; ce plafond est
-majoré de 30 p. 100 par enfant à charge, au sens des articles L. 512-3 et L.
-513-1 ;
+de l'allocation pour jeune enfant, sous réserve que les ressources du ménage ne
+dépassent pas le plafond de ressources qui est retenu pour l'attribution de
+l'allocation de rentrée scolaire ;
 
 2°) soit avoir à charge au moins trois enfants et bénéficier du complément
 familial, sous réserve que les ressources du ménage n'excèdent pas le plafond de
