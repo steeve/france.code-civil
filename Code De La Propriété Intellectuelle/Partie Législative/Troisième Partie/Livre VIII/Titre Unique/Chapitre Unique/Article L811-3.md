@@ -1,7 +1,8 @@
 Article L811-3
 ----
-Pour son application dans les territoires d'outre-mer et dans la collectivité
-territoriale de Mayotte, l'article L. 621-1 du présent code est ainsi rédigé :
+Pour son application en Polynésie française, dans les îles de Wallis-et-Futuna,
+dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie et à
+Mayotte, l'article L. 621-1 du présent code est ainsi rédigé :
 
 "Art. L. 621-1 :
 

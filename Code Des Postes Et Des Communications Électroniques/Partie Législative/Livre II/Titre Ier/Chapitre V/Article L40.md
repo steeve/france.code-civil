@@ -6,8 +6,8 @@ l'administration des télécommunications, de l'Autorité de régulation des
 télécommunications et de l'Agence nationale des fréquences habilités à cet effet
 par le ministre chargé des télécommunications et assermentés dans des conditions
 fixées par décret en Conseil d'Etat peuvent rechercher et constater par
-procès-verbal les infractions prévues par les dispositions du chapitre III du
-présent titre et les textes pris pour leur application.
+procès-verbal les infractions prévues par les dispositions du présent titre et
+les textes pris pour leur application.
 
 Les fonctionnaires et agents de l'administration des télécommunications, de
 l'Autorité de régulation des télécommunications et de l'Agence nationale des

@@ -27,9 +27,9 @@ transmis et des informations liées aux communications ;
 d) Les normes et spécifications du réseau et des services, notamment européennes
 s'il y a lieu ;
 
-e) Les prescriptions exigées par la protection de l'environnement et par les
-objectifs d'aménagement du territoire et d'urbanisme, comportant, le cas
-échéant, les conditions d'occupation du domaine public et les modalités de
+e) Les prescriptions exigées par la protection de la santé et de l'environnement
+et par les objectifs d'aménagement du territoire et d'urbanisme, comportant, le
+cas échéant, les conditions d'occupation du domaine public et les modalités de
 partage des infrastructures ;
 
 f) Les prescriptions exigées par la défense et la sécurité publiques ;
@@ -63,8 +63,9 @@ o) Les conditions nécessaires pour assurer l'interopérabilité des services ;
 p) Les obligations qui s'imposent à l'exploitant pour permettre le contrôle du
 cahier des charges par l'Autorité de régulation des télécommunications ;
 
-q) Les taxes dues pour la délivrance, la gestion et le contrôle de
-l'autorisation, dans les conditions prévues par les lois de finances ;
+q) Les taxes dues par l'exploitant à raison de la délivrance, de la gestion et
+du contrôle de l'autorisation, dans les limites des frais administratifs
+afférents à ces opérations ;
 
 r) L'égalité de traitement et l'information des utilisateurs, notamment sur les
 conditions contractuelles de fourniture du service, comportant en particulier
@@ -97,6 +98,13 @@ télécommunications d'un monopole ou d'une position dominante appréciée aprè
 avis du Conseil de la concurrence, et que les infrastructures utilisées peuvent
 être séparées physiquement, ils sont tenus, dans l'intérêt d'un bon exercice de
 la concurrence, d'individualiser cette activité sur le plan juridique.
+
+Les opérateurs inscrits sur la liste établie en application du a du 7° de
+l'article L. 36-7 au titre d'une zone géographique donnée et qui détiennent,
+dans la même zone, des droits exclusifs ou bénéficient de droits particuliers
+pour l'exploitation de réseaux distribuant par câble des services de
+radiodiffusion sonore et de télévision sont tenus d'exploiter cette dernière
+activité sous la forme d'une personne juridiquement distincte.
 
 III. - Sous réserve des engagements internationaux souscrits par la France
 comportant une clause de réciprocité applicable au secteur des

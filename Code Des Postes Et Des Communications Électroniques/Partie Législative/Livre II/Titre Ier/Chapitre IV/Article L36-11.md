@@ -12,8 +12,8 @@ pouvoir de sanction est exercé dans les conditions ci-après :
 1° En cas d'infraction d'un exploitant de réseau ou d'un fournisseur de services
 à une disposition législative ou réglementaire afférente à son activité ou aux
 prescriptions du titre en vertu duquel il l'exerce, l'Autorité de régulation des
-télécommunications le met en demeure de s'y conformer dans un délai déterminé.
-Elle peut rendre publique cette mise en demeure ;
+télécommunications le met en demeure de s'y conformer. Elle peut rendre publique
+cette mise en demeure ;
 
 2° Lorsqu'un exploitant de réseau ou un fournisseur de services ne se conforme
 pas dans les délais fixés à une décision prise en application de l'article L.
@@ -51,6 +51,9 @@ recherche, leur constatation ou leur sanction ;
 
 4° Les décisions sont motivées, notifiées à l'intéressé et publiées au Journal
 officiel. Elles peuvent faire l'objet d'un recours de pleine juridiction et
-d'une demande de sursis à exécution devant le Conseil d'Etat. Lorsqu'elles
-concernent des sanctions pécuniaires, les demandes de sursis à exécution sont
-suspensives.
+d'une demande de suspension présentée conformément à l'article L. 521-1 du code
+de justice administrative, devant le Conseil d'Etat.
+
+Un décret détermine les délais impartis aux opérateurs pour régulariser leur
+situation ainsi que les délais dans lesquels interviennent et sont notifiées les
+décisions prises par l'Autorité de régulation des télécommunications.

@@ -9,5 +9,5 @@ l'article L. 34-3 et à déclaration dans le cas prévu au premier alinéa de
 l'article L. 34-4.
 
 Un décret en Conseil d'Etat précise le contenu de la déclaration et de la
-demande d'autorisation et les conditions dans lesquelles sont fixées les
-prescriptions techniques nécessaires au respect des exigences essentielles.
+demande d'autorisation et fixe les prescriptions nécessaires au respect des
+exigences essentielles.

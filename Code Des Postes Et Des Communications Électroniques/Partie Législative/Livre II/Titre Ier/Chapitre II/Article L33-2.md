@@ -17,8 +17,9 @@ L'autorisation ne peut être refusée qu'en cas de non-conformité à l'une des
 conditions générales d'établissement définies dans le décret mentionné au
 précédent alinéa ou à l'une des conditions d'établissement fixées par l'Autorité
 de régulation des télécommunications conformément aux dispositions de l'article
-L. 36-6. A défaut de décision expresse dans les deux mois suivant la demande, et
-sauf dans le cas mentionné à l'alinéa suivant, elle est réputée acquise.
+L. 36-6. A défaut de décision expresse dans un délai fixé par le décret
+mentionné au précédent alinéa, et sauf dans le cas mentionné à l'alinéa suivant,
+elle est réputée acquise.
 
 Lorsqu'elle concerne un réseau qui utilise des fréquences assignées à son
 exploitant, l'autorisation doit être expresse. Elle est assortie d'un cahier des
@@ -30,3 +31,7 @@ Un exploitant de réseau indépendant ne peut conférer à son réseau le caract
 de réseau ouvert au public sans autorisation préalable délivrée dans les
 conditions prévues à l'article L. 33-1. A défaut, l'exploitant peut être
 sanctionné dans les conditions prévues aux articles L. 36-11 et L. 39.
+
+L'exploitant acquitte les taxes dues à raison de la délivrance, de la gestion et
+du contrôle de l'autorisation, dans les limites des frais administratifs
+afférents à ces opérations.

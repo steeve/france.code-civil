@@ -1,8 +1,9 @@
 Article L511-4
 ----
-Le bénéfice du présent livre s'applique aux dessins et modèles dont les auteurs
-ou leurs ayants cause sont français ou domiciliés en France, ou ont en France
-des établissements industriels ou commerciaux, ou sont, par leur nationalité,
-leur domicile ou leurs établissements industriels ou commerciaux, ressortissants
-d'un Etat qui assure la réciprocité, par sa législation intérieure ou ses
-conventions diplomatiques, pour les dessins et modèles français.
+Un dessin ou modèle a un caractère propre lorsque l'impression visuelle
+d'ensemble qu'il suscite chez l'observateur averti diffère de celle produite par
+tout dessin ou modèle divulgué avant la date de dépôt de la demande
+d'enregistrement ou avant la date de priorité revendiquée.
+
+Pour l'appréciation du caractère propre, il est tenu compte de la liberté
+laissée au créateur dans la réalisation du dessin ou modèle.

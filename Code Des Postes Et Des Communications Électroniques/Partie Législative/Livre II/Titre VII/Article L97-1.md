@@ -57,6 +57,7 @@ les circonstances prévues aux articles 2 et 6 de l'ordonnance n° 59-147 du 7
 janvier 1959 portant organisation générale de la défense ainsi que les
 dispositions particulières à prendre en compte pour y parvenir.
 
-VI. - Le présent article est applicable à la collectivité de Mayotte et aux
-territoires d'outre-mer sous réserve des compétences exercées par ces
-territoires en application des statuts qui les régissent.
+VI. - Le présent article est applicable en Polynésie française, dans les îles
+Wallis-et-Futuna, dans les Terres australes et antarctiques françaises et en
+Nouvelle-Calédonie sous réserve des compétences exercées par ces collectivités
+en application des statuts qui les régissent.

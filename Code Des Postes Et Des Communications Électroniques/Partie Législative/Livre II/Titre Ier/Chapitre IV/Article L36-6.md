@@ -17,7 +17,9 @@ terminaux et le bon usage des fréquences et des numéros de téléphone ;
 
 4° Les conditions d'établissement et d'exploitation des réseaux mentionnés à
 l'article L. 33-2 et celles d'utilisation des réseaux mentionnés à l'article L.
-33-3.
+33-3 ;
+
+5° La détermination des points de terminaison des réseaux.
 
 Les décisions prises en application du présent article sont, après homologation
 par arrêté du ministre chargé des télécommunications, publiées au Journal

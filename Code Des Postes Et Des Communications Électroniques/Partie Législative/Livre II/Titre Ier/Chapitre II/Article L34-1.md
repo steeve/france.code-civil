@@ -17,3 +17,10 @@ l'exception des e et h.
 Lorsque la fourniture du service suppose l'établissement d'un réseau ouvert au
 public, l'autorisation délivrée en application de l'article L. 33-1 autorise la
 fourniture du service.
+
+L'Autorité de régulation des télécommunications peut, dans les conditions
+prévues à l'article L. 36-11, exiger d'un opérateur qu'il modifie ses conditions
+contractuelles de fourniture du service téléphonique au public et les modalités
+de remboursement ou d'indemnisation appliquées par lui, lorsque ces conditions
+ou modalités ne sont pas conformes aux dispositions du r du I de l'article L.
+33-1.

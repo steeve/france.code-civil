@@ -43,4 +43,7 @@ transmis ;
 télécommunications, des obligations de défense et de sécurité publique ;
 
 7° A la prise en compte de l'intérêt des territoires et des utilisateurs dans
-l'accès aux services et aux équipements.
+l'accès aux services et aux équipements ;
+
+8° Au développement de l'utilisation partagée entre opérateurs des installations
+mentionnées aux articles L. 47 et L. 48.

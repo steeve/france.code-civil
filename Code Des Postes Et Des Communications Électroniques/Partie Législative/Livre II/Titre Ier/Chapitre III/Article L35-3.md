@@ -5,6 +5,10 @@ la base d'une comptabilité appropriée tenue par les opérateurs. Cette
 comptabilité est auditée, à leurs frais, par un organisme indépendant, désigné
 par l'Autorité de régulation des télécommunications.
 
+L'évaluation des coûts nets des obligations de service universel pesant sur les
+opérateurs prend en compte l'avantage sur le marché qu'ils retirent, le cas
+échéant, de ces obligations.
+
 II. - Le financement des coûts imputables aux obligations de service universel
 est assuré par les exploitants de réseaux ouverts au public et par les
 fournisseurs de services téléphoniques au public dans les conditions suivantes :
