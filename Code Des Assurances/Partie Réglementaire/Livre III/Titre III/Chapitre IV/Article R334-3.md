@@ -36,3 +36,15 @@ membres de la Communauté économique européenne où l'entreprise exerce son
 activité, les plus-values pouvant résulter de la sous-estimation d'éléments
 d'actif et de la surestimation d'éléments de passif, dans la mesure où de telles
 plus-values n'ont pas un caractère exceptionnel.
+
+8. Les fonds effectivement encaissés provenant de l'émission de titres ou
+emprunts subordonnés ; ces titres et emprunts doivent répondre aux conditions,
+notamment de durée et de remboursement, qui sont fixées par arrêté du ministre
+chargé de l'économie et des finances ; la prise en compte de ces fonds est
+admise jusqu'à concurrence de 50 p. 100 de la marge de solvabilité prévue au
+présent article ; toutefois, la prise en compte de ceux de ces fonds qui
+proviennent de titres ou emprunts à durée déterminée n'est admise qu'à
+concurrence de 25 p. 100 de cette marge. Tout remboursement effectué
+irrégulièrement peut, conformément aux dispositions de l'article L. 310-18 du
+présent code, donner lieu à application de sanctions par la commission de
+contrôle des assurances.

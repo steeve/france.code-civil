@@ -1,6 +1,6 @@
 Article R322-10-2
 ----
-Pour l'application du quatrième alinéa de l'article L. 322-7, la convention de
+Pour l'application du cinquième alinéa de l'article L. 322-7, la convention de
 branche ou l'accord professionnel sur l'emploi doit prévoir, pour les
 entreprises ne disposant pas de délégués syndicaux, des modalités d'application
 directe qui devront comprendre notamment [*contenu*]:
