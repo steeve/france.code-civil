@@ -12,7 +12,7 @@ b) De permutation entre époux ou entre associés d'une société en nom collect
 II. - En cas de recours à la procédure de mise en adjudication :
 
 1. Le candidat retenu est celui qui s'engage à payer annuellement le montant le
-plus élevé de la redevance à laquelle est tenu tout gérant de débit de tabac
+plus élevé du droit de licence auquel est tenu tout gérant de débit de tabac
 ordinaire, conformément au premier alinéa de l'article 568 du code général des
 impôts. Cet engagement est ci-après dénommé "soumission".
 
@@ -30,8 +30,8 @@ durée maximale de trente jours.
 
 3. Le montant de la soumission minimale citée au premier alinéa du 2 est fixé
 par le directeur régional des douanes et droits indirects. Elle correspond, par
-rapport à un chiffre d'affaires estimé, au montant annuel de redevance attendu
-pour le débit de tabac ordinaire concerné, compte tenu des données
+rapport à un chiffre d'affaires estimé, au montant annuel du droit de licence
+attendu pour le débit de tabac ordinaire concerné, compte tenu des données
 géographiques, économiques et commerciales du secteur d'adjudication.
 
 4. Toute personne qui souhaite participer à une adjudication doit apposer sa
@@ -61,14 +61,13 @@ pacte civil de solidarité. Le suppléant doit également signer le cahier des
 charges.
 
 III. - 1. Chaque signataire du cahier des charges doit adresser sa soumission,
-accompagnée d'un engagement écrit de verser la somme choisie au titre de la
-redevance annuelle, à l'administration des douanes et droits indirects, sous
+accompagnée d'un engagement écrit de verser la somme choisie au titre du droit
+de licence annuel, à l'administration des douanes et droits indirects, sous
 double enveloppe cachetée et en recommandé avec accusé de réception, au plus
 tard dans les deux mois à compter de la date du dépôt du cahier des charges.
 
-2. La soumission est établie sur papier revêtu d'un timbre fiscal, en
-application des articles 899 et 905 à 907 du code général des impôts, sous une
-enveloppe fermée sur laquelle le candidat a mentionné ses nom et prénoms.
+2. La soumission est établie sous une enveloppe fermée sur laquelle le candidat
+a mentionné ses nom et prénoms.
 
 3. Dans les dix jours ouvrés qui suivent la date limite de dépôt des
 soumissions, le directeur régional des douanes et droits indirects, ou son
@@ -86,10 +85,10 @@ procédure de mise en adjudication.
 
 Si la soumission la plus forte est souscrite par plus d'un candidat, pour une
 somme identique, ces candidats sont invités, par courrier avec accusé de
-réception, à préparer de nouvelles soumissions sur papier timbré et à les
-retourner sous pli cacheté au service dans les dix jours ouvrés à compter de la
-date de réception du courrier, en recommandé avec accusé de réception. Il est
-procédé à nouveau à l'opération visée au premier alinéa dans les mêmes délais.
+réception, à préparer de nouvelles soumissions et à les retourner sous pli
+cacheté au service dans les dix jours ouvrés à compter de la date de réception
+du courrier, en recommandé avec accusé de réception. Il est procédé à nouveau à
+l'opération visée au premier alinéa dans les mêmes délais.
 
 4. Le procès-verbal de séance est signé par l'ensemble des participants
 mentionnés au premier alinéa du 3.
@@ -147,8 +146,8 @@ régional des douanes et droits indirects. Cette procédure est répétée en ta
 que de besoin.
 
 3. - Le candidat retenu s'engage à verser, pendant ses trois premières années
-d'activité, une redevance annuelle correspondant, au minimum, au montant de la
-soumission cachetée offerte.
+d'activité, un droit de licence annuel correspondant, au minimum, au montant de
+la soumission cachetée offerte.
 
 Si le gérant veut cesser l'exploitation du débit de tabac dont la gérance lui a
 été concédée avant l'expiration du délai de trois ans visé au premier alinéa, il
