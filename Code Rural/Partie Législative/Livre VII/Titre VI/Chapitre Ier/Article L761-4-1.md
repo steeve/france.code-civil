@@ -8,3 +8,6 @@ forestier, pour être affectés aux travaux forestiers visés à l'article L. 72
 dans les forêts de ces communes ou de ces établissements, sont des salariés
 agricoles dont les contrats de travail relèvent des dispositions du présent
 livre et du code du travail.
+
+Ils peuvent, dans les mêmes conditions, être affectés aux travaux d'entretien du
+patrimoine naturel des communes et des établissements publics précités.
