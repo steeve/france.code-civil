@@ -112,5 +112,5 @@ Explications sur les actions prévues non réalisées.
 Actions entreprises ou projetées en matière d'embauche, d'adaptation, de
 réadaptation ou de formation professionnelle.
 
-La déclaration annuelle prévue à l'article L. 323-8-5 est jointe au présent
-rapport.
+La déclaration annuelle prévue à l'article L. 323-8-5 à l'exclusion de la liste
+mentionnée au 1° de l'article R. 323-9-1 est jointe au présent rapport.
