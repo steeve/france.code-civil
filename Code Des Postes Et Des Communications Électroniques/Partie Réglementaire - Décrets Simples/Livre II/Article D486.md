@@ -1,6 +1,12 @@
 Article D486
 ----
-L'administration des postes et télécommunications assure le contrôle du
-personnel et du matériel des installations de radiocommunications des stations
-de bord. Elle exerce ce même contrôle sur les navires étrangers stationnant dans
-les ports français.
+Les installations radioélectriques à bord des navires relèvent de l'autorité des
+capitaines. En aucun cas et pour aucun motif, une station de bord ne peut faire
+usage d'un indicatif d'appel autre que celui qui lui a été assigné.
+
+La manoeuvre des installations de radiocommunications maritimes est effectuée
+par l'intermédiaire d'opérateurs titulaires du certificat visé à l'article L.
+90.
+
+Les opérateurs d'installations radiomaritimes doivent respecter le secret des
+correspondances conformément à l'article L. 32-3.

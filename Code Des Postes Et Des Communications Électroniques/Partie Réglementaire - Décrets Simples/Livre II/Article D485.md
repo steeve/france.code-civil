@@ -1,20 +1,22 @@
 Article D485
 ----
-Aucune installation de radiocommunication, obligatoire ou non, ne peut être
-établie à bord des navires de commerce, de pêche ou de plaisance, sans
-l'autorisation du ministre des postes et télécommunications. Cette autorisation
-fixe les caractéristiques et les conditions d'exploitation.
+Les installations radioélectriques établies à bord des navires de commerce, de
+pêche ou de plaisance doivent être agréées par le ministre chargé des
+télécommunications, conformément aux articles L. 34-9, R. 20-1 et suivants.
 
-Toute installation doit être d'un type agréé par l'administration des postes et
-télécommunications.
+Dans le cadre des dispositions du règlement des radiocommunications et des
+conventions ou accords internationaux, l'exploitant du réseau de
+radiocommunications maritimes ouvert au public participe à la définition des
+caractéristiques techniques et des conditions d'exploitation des installations
+radiomaritimes établies à bord des navires de commerce, de pêche ou de
+plaisance.
 
-Elle ne peut être ouverte à l'exploitation sans la licence prévue par le
-règlement des radiocommunications. Cette licence est délivrée par
-l'administration des postes et télécommunications.
+L'exploitant du réseau radiomaritime s'assure de la conformité de ces
+installations aux caractéristiques susvisées. Il est consulté sur les demandes
+d'autorisation temporaire d'usage d'installations déjà existantes à bord des
+navires. Lorsque l'installation d'un navire n'est pas conforme aux dispositions
+du présent article, l'exploitant du réseau peut refuser d'accepter les
+communications entre ses stations côtières et le navire en cause, à l'exception
+des communications de détresse et d'aide médicale.
 
-L'exploitation est assurée sous le contrôle de l'administration des postes et
-télécommunications.
-
-En aucun cas et pour aucun motif, une station de bord ne peut faire usage, sans
-autorisation de l'administration des postes et télécommunications, d'un
-indicatif d'appel autre que celui qui lui a été assigné.
+Il délivre la licence prévue par le règlement des radiocommunications.

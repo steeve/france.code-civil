@@ -1,5 +1,6 @@
 Article D483
 ----
-Les radiocommunications privées sont autorisées avec les navires en mer par
-l'intermédiaire des stations côtières désignées par le ministre des postes et
-télécommunications.
+Les réseaux de radiocommunications maritimes ouverts au public sont établis dans
+les conditions fixées à l'article L. 33-1. Les services de radiocommunications
+sont fournis par l'intermédiaire des stations côtières de l'exploitant public ou
+par celles autorisées par le ministère chargé des télécommunications.
