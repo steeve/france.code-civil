@@ -2,7 +2,8 @@ Article D623-12
 ----
 L'agent comptable est chargé de la comptabilité générale. Il en est responsable
 et, à ce titre, il peut vérifier l'exactitude des comptes individuels dont la
-tenue incombe aux services techniques.
+tenue incombe aux services techniques. L'agent comptable est également chargé de
+la comptabilité auxiliaire des comptes cotisants.
 
 L'agent comptable tient la comptabilité analytique d'exploitation lorsque
 celle-ci est prévue par la réglementation.

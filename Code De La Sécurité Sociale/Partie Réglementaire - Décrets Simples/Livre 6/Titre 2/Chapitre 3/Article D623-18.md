@@ -8,7 +8,7 @@ directeur ;
 
 2°) de l'encaissement, à leur échéance, des créances constatées par un contrat,
 une convention ou un titre de propriété dont il assure la conservation par
-application de l'article D. 253-58 ;
+application de l'article D. 253-28 ;
 
 3°) de l'exécution des dépenses qu'il est tenu de faire ;
 

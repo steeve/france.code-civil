@@ -1,5 +1,6 @@
 Article D623-10
 ----
-Les dépenses de l'organisme appartiennent à l'exercice au cours duquel elles ont
-été exécutées. Elles doivent être liquidées dès le dépôt du titre de créance ou
-de pièces qui en tiennent lieu .
+Les dépenses relatives aux gestions techniques appartiennent à l'exercice au
+cours duquel elles ont été payées. Les dépenses des gestions administratives et
+financières se rattachent à l'exercice au cours duquel elles sont liquidées et
+ordonnancées.
