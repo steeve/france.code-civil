@@ -10,15 +10,11 @@ font l'objet, sur demande du bénéficiaire, d'une retenue égale à 15 p. 100 d
 leur montant brut.
 
 Cette retenue s'impute sur l'impôt sur le revenu dû au titre de l'année au cours
-de laquelle elle a été opérée (1).
+de laquelle elle a été opérée.
 
 L'option prévue au premier alinéa peut être exercée par les sportifs et les
 artistes du spectacle, les auteurs des oeuvres de l'esprit désignés à l'article
-3 de la loi n° 57-298 du 11 mars 1957 sur la propriété littéraire et artistique
-ainsi que par les interprètes de ces oeuvres, à l'exception des architectes et
-des auteurs de logiciels (2).
+L112-2 du code de la propriété intellectuelle, ainsi que par les interprètes de
+ces oeuvres l'exception des architectes et des auteurs de logiciels (1).
 
-(1) Voir annexe III, art. 46 A et 381 R.
-
-(2) Ces dispositions sont applicables aux revenus perçus à compter du 1er
-janvier 1992.
+(1) Voir les articles 46 A et 381 R de l'annexe III.
