@@ -27,3 +27,14 @@ conditions prévues à l'article R. 119-78, il est appliqué, pendant la derniè
 année de formation, une majoration uniforme de quinze points aux pourcentages
 afférents au dernier semestre de la durée normale de la formation fixée dans les
 conditions prévues à l'article L. 115-2.
+
+Lorsqu'un contrat d'apprentissage d'une durée d'un an a été conclu par
+application de l'article R. 117-7-1 du présent code, il est appliqué, pendant
+cette année de formation, une majoration uniforme de quinze points aux
+pourcentages afférents au dernier semestre de la durée normale de formation
+fixée dans les conditions prévues à l'article L. 115-2 ou de la durée de
+formation fixée dans les conditions prévues à l'article L. 119-5. Les jeunes
+issus d'une voie de formation autre que celle de l'apprentissage sont
+considérés, dans ce cas et dans ce cas seulement, en ce qui concerne leur
+rémunération minimale, comme ayant effectué la durée d'apprentissage prévue par
+l'article L. 115-2 pour l'obtention de leur diplôme.
