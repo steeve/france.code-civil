@@ -1,11 +1,6 @@
 Article R122-11
 ----
-Lorsqu'un père salarié sollicite le congé parental d'éducation prévu à l'article
-L. 122-28-1, la mère doit adresser à l'employeur de l'intéressé une lettre
-recommandée avec demande d'avis de réception indiquant qu'elle ne peut en
-bénéficier elle-même ou qu'elle y renonce.
-
-Les formalités prévues aux articles L. 122-25 à L. 122-28-1 aux articles R.
-122-9, R. 122-10 et au premier alinéa du présent article sont réputées
-accomplies au jour de l'expédition de la lettre recommandée avec demande d'avis
-de réception [*date point de départ*].
+Pour l'application des dispositions de la section V du chapitre II du titre II
+du livre Ier (1re partie : partie Législative) du présent code et de celles des
+articles R. 122-9 et R. 122-10, les formalités sont réputées accomplies au jour
+de l'expédition de la lettre recommandée avec demande d'avis de réception.
