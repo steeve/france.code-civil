@@ -2,7 +2,7 @@ Article 302 bis A
 ----
 I Sous réserve des dispositions particulières qui sont propres aux bénéfices
 professionnels, les ventes de métaux précieux sont soumises à une taxe de 7,5 %
-[*taux*] (1).
+(1).
 
 Sous la même réserve, les ventes de bijoux, d'objets d'art, de collection et
 d'antiquité sont soumises à une taxe de 7 % lorsque leur montant excède 20.000 F
@@ -12,13 +12,16 @@ ledit montant (1).
 
 Le taux d'imposition est ramené à 4,5 % en cas de vente aux enchères publiques.
 
+Ces dispositions sont également applicables aux ventes réalisées dans un autre
+Etat membre de la Communauté économique européenne.
+
 II Le vendeur est exonéré de la taxe si la vente est faite à un musée national,
 à un musée classé ou contrôlé par l'Etat ou une collectivité locale, ainsi qu'à
 la Bibliothèque nationale, à une autre bibliothèque de l'Etat ou à une
 bibliothèque d'une autre collectivité publique.
 
 La vente par enchères publiques des objets désignés au deuxième alinéa du I est
-exonérée du paiement de la taxe lorsque leur propriétaire n'a pas en France [*à
-l'étranger*] son domicile fiscal.
+exonérée du paiement de la taxe lorsque leur propriétaire n'a pas en France son
+domicile fiscal.
 
 (1) Voir Annexe II, art. 267 quater D.

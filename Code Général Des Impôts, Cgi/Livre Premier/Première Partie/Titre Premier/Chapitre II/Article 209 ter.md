@@ -1,14 +1,13 @@
 Article 209 ter
 ----
-Les dispositions de l'article 209 bis-1 ne sont pas applicables aux produits
+Les dispositions du I de l'article 209 bis ne sont pas applicables aux produits
 distribués :
 
 1° Par les sociétés immobilières d'investissement et les sociétés immobilières
 de gestion ;
 
 2° Par les sociétés d'investissement remplissant les conditions prévues à
-l'article 208 A et par les organismes assimilés visés aux articles 207-2, 208-1°
-ter, 1° quater et 1° quinquies ;
+l'article 208 A et par les sociétés visées au 1° ter de l'article 208 (1) ;
 
 3° Par les sociétés immobilières pour le commerce et l'industrie visés au
 cinquième alinéa du 3° quater de l'article 208 et prélevés sur les bénéfices
@@ -34,3 +33,5 @@ proviennent de produits nets exonérés en application de l'article 208 quinquie
 
 8° Par les sociétés exonérées de précompte dans les conditions prévues au 8° du
 3 de l'article 223 sexies.
+
+(1) Dispositions sont applicables à compter du 1er janvier 1993.

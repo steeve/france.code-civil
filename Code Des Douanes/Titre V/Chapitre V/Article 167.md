@@ -1,4 +1,5 @@
 Article 167
 ----
-Les conditions d'application des articles 164 à 166 ci-dessus sont déterminées,
-en tant que de besoin, par décret.
+La mise en service, l'exploitation ainsi que toute modification substantielle
+des conditions d'exploitation de l'usine exercée doivent être autorisées par
+l'administration des douanes dans des conditions fixées par décret.

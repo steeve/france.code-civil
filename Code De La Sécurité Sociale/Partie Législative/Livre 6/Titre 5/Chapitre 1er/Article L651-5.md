@@ -13,6 +13,14 @@ indirects et les taxes intérieures de consommation, versés par ces sociétés 
 entreprises, grevant les produits médicamenteux et de parfumerie, les boissons,
 ainsi que les produits pétroliers.
 
+Le chiffre d'affaires des intermédiaires mentionnés au V de l'article 256 et au
+III de l'article 256 bis du code général des impôts, et qui bénéficient des
+dispositions de l'article 273 octies du même code, est diminué de la valeur des
+biens ou des services qu'ils sont réputés acquérir ou recevoir. Dans le cas
+d'entremise à la vente, les commettants des intermédiaires auxquels cette
+disposition s'applique majorent leur chiffre d'affaires du montant des
+commissions versées.
+
 Pour les sociétés d'assurances et de capitalisation régies par le code des
 assurances et les sociétés de réassurances, l'assiette de la contribution
 sociale de solidarité est constituée, pour leur activité principale, par les
@@ -27,5 +35,5 @@ articles L. 113 et L. 161 du livre des procédures fiscales.
 Quiconque n'aura pas fourni, dans les conditions fixées par décret, la
 déclaration prévue à l'alinéa ci-dessus ou aura fourni sciemment des
 renseignements inexacts ou incomplets dans cette déclaration, sera puni d'un
-emprisonnement de deux mois à deux ans et d'une amende de 3.600 à 60.000 F (1)
-ou de l'une de ces deux peines seulement .
+emprisonnement de deux mois à deux ans et d'une amende de 3.600 à 60.000 F ou de
+l'une de ces deux peines seulement .

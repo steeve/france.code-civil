@@ -1,11 +1,13 @@
 Article 165 B
 ----
-1. Dans les usines visées à l'article 165, la suspension des taxes et redevances
-prévue à l'article 163-2 ci-dessus est réservée aux produits visés aux tableaux
-B et C annexés à l'article 265 ci-après.
+1. Les huiles minérales visées au tableau B de l'article 265 sont admises dans
+les usines exercées visées au b du 1 et au 2 de l'article 165 en suspension des
+taxes et redevances dont elles sont passibles.
 
-2. Lorsque, dans ces usines, les produits visés au 1 du présent article sont
-destinés ou utilisés à des usages autres que les fabrications prévues à
-l'article 165 ci-dessus ou autres que la production de l'énergie nécessaire à
-ces fabrications, ces produits doivent être pris à la consommation sur le marché
-intérieur.
+Cette suspension est réservée, dans les usines exercées visées au a du 1 de
+l'article 165, aux produits qui y sont extraits.
+
+2. Les huiles minérales ne sont pas soumises aux taxes et redevances dont elles
+sont passibles lorsqu'elles sont consommées dans l'enceinte des usines exercées
+visées au b du 1 et au 2 de l'article 165 aux fins de fabrication d'autres
+huiles minérales et à la production de l'énergie nécessaire à ces fabrications.

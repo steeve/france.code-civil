@@ -8,14 +8,22 @@ chez les fabricants. Chez ceux qui élaborent dans un même entrepôt des produi
 soumis à des tarifs différents, les manquants imposables sont soumis au tarif le
 plus élevé.
 
+Pour les acquisitions intracommunautaires, le droit est perçu lors de la
+réception en France par la personne qui réalise l'acquisition
+intracommunautaire.
+
+Le droit de fabrication est également perçu pour les produits livrés dans les
+conditions prévues au 1° du I de l'article 258 B. Il est dû par le représentant
+fiscal du vendeur.
+
 Dans le cas d'utilisation, dans les chais de fabrication, de capsules,
 empreintes ou vignettes représentatives des droits indirects sur l'alcool, le
 droit de fabrication est liquidé lors de l'apposition de ces marques fiscales
 sur les récipients.
 
-Pour les produits alcooliques visés à l'article 406 A-3° et 4° le droit de
-fabrication peut, à la demande des redevables, être liquidé à l'issue des
-fabrications ou lors de l'infection des alcools nature destinés aux
+Pour les produits alcooliques visés aux 1° et 2° du II de l'article 406 A le
+droit de fabrication peut, à la demande des redevables, être liquidé à l'issue
+des fabrications ou lors de l'infection des alcools nature destinés aux
 fabrications.
 
 A l'égard des alcools bénéficiant d'un tarif réduit, l'administration peut

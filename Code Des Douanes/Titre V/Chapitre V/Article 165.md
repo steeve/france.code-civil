@@ -2,22 +2,26 @@ Article 165
 ----
 1. Doivent être placés sous le régime de l'usine exercée :
 
-1° Les installations ou les établissements qui procèdent au traitement ou au
-raffinage des huiles brutes de pétrole ou de minéraux bitumineux et des gaz de
-pétrole et autres hydrocarbures gazeux, pour obtenir des produits pétroliers et
-assimilés visés au tableau B annexé à l'article 265 ci-après ;
+a) les installations d'extraction d'huiles minérales visées aux tableaux B et C
+de l'article 265 ;
 
-2° Sauf dérogation spéciale prévue par décret, les installations ou les
-établissements autres que ceux visés au 1° qui procèdent à la fabrication de
-produits visés au tableau B annexé à l'article 265 ci-après.
+b) les installations ou les établissements de production qui procèdent :
 
-2. Doivent également être placés sous le régime de l'usine exercée, sauf
-dérogation spéciale prévue par décret, les installations ou les établissements
-pétroléochimiques qui procèdent à la fabrication de produits chimiques et
-assimiles énumérés au tableau C annexé au même article.
+- soit au traitement ou au raffinage d'huiles brutes de pétrole ou de minéraux
+bitumeux, de gaz de pétrole et d'autres hydrocarbures gazeux, pour obtenir des
+huiles minérales visés aux tableaux B et C de l'article 265 ;
 
-3. Peuvent être effectuées dans les usines exercées visées aux 1 et 2 ci-dessus
-des fabrications connexes de produits, autres que ceux repris aux tableaux B et
-C annexés à l'article 265 ci-après dont la liste est fixée par décision
-conjointe du directeur général des douanes et droits indirects et, selon le cas,
-du directeur des carburants ou du directeur des industries chimiques.
+- soit à la fabrication d'huiles minérales, pour lesquelles un taux de taxe est
+fixé dans les tableaux B et C de l'article 265.
+
+2. Peuvent être placés sous le régime de l'usine exercée, sur la demande de la
+personne qui en assure l'exploitation, les installations ou les établissements
+qui procèdent à la fabrication d'huiles minérales pour lesquelles aucun taux de
+taxe n'est fixé dans les tableaux B et C de l'article 265. A défaut de placement
+sous le régime de l'usine exercée, les exploitants de ces installations ou
+établissements sont néanmoins tenus d'en déclarer l'existence et la cessation
+d'activité à l'administration des douanes.
+
+3. Peuvent être effectuées, dans les usines exercées visées au b du 1 et au 2 du
+présent article, des fabrications connexes de produits autres que des huiles
+minérales, dont la liste est fixée par arrêté du ministre chargé du budget.
