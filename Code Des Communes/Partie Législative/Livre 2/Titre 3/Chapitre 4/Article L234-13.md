@@ -1,86 +1,100 @@
 Article L234-13
 ----
-I. Les communes et les groupements de communes touristiques et thermaux
-reçoivent une dotation supplémentaire destinée à tenir compte des charges
-exceptionnelles qui résultent, pour elles, de l'accueil saisonnier de la
-population non résidente à titre principal.
+La dotation de solidarité rurale est attribuée aux communes de moins de 10 000
+habitants et à certains chefs-lieux d'arrondissement de moins de 20 000
+habitants pour tenir compte, d'une part, des charges qu'elles supportent pour
+contribuer au maintien de la vie sociale en milieu rural, d'autre part, de
+l'insuffisance de leurs ressources fiscales.
 
-La liste des communes touristiques ou thermales est arrêtée, chaque année, après
-avis du comité des finances locales, en tenant compte de l'importance de leur
-capacité d'accueil existante et en voie de création, dans des conditions fixées
-par décret en Conseil d'Etat.
+Cette dotation comporte deux fractions.
 
-Le montant des crédits affectés à la dotation supplémentaire aux communes
-touristiques ou thermales est fixé chaque année par le comité des finances
-locales. Il ne peut être inférieur à 50 p. 100 ni supérieur à 60 p. 100 des
-sommes affectées aux concours particuliers.
+I. La première fraction de la dotation de solidarité rurale est attribuée aux
+communes dont la population représente au moins 15 p. 100 de la population du
+canton et aux communes chefs-lieux de canton ;
 
-Ces crédits sont répartis entre les communes touristiques ou thermales dans des
-conditions fixées par décret en Conseil d'Etat en tenant compte :
+Ne peuvent être éligibles les communes :
 
-1° Du surcroît de charges supporté par ces communes par rapport aux communes
-appartenant au même groupe démographique ;
+1° Situées dans une agglomération :
 
-2° De la capacité d'accueil existante et de la capacité d'accueil en voie de
-création ;
+a) Représentant au moins 10 p. 100 de la population du département ou comptant
+plus de 250 000 habitants ;
 
-3° Du produit de la taxe de séjour ou de la taxe de séjour forfaitaire perçu sur
-le territoire de ces communes ;
+b) Comptant une commune soit de plus de 100 000 habitants, soit chef-lieu de
+département ;
 
-4° De l'écart relatif entre le potentiel fiscal moyen par habitant de l'ensemble
-des communes appartenant au même groupe démographique et le potentiel fiscal par
-habitant de la commune.
+2° Situées dans un canton dont la commune chef-lieu compte plus de 10 000
+habitants ;
 
-" La dotation perçue par chaque commune ou groupement ne peut ni être inférieure
-à 85 p. 100 [*pourcentage*] de la dotation perçue l'année précédente, ni
-connaître un taux d'augmentation annuelle supérieur au double du taux
-d'évolution des ressources affectées à la dotation supplémentaire au titre de
-l'exercice considéré, sans toutefois que ce taux d'augmentation maximum soit
-inférieur à 10 p. 100.
+3° Bénéficiaires d'une attribution du fonds de solidarité des communes de la
+région Ile-de-France institué par l'article L. 263-13 ;
 
-" Les communes et groupements qui remplissent pour la première fois les
-conditions pour bénéficier de la dotation supplémentaire perçoivent la première
-année une attribution égale à la moitié de celle qui résulte de l'application
-des dispositions mentionnées aux quatrième à huitième alinéas ci-dessus.
+4° Dont le potentiel fiscal par habitant est supérieur au double du potentiel
+fiscal moyen par habitant des communes de moins de 10 000 habitants.
 
-" La dotation revenant aux communes et aux groupements qui cessent de remplir
-les conditions pour être inscrits sur la liste des communes et groupements
-bénéficiaires de la dotation supplémentaire est égale la première année à 80 p.
-100 de la dotation perçue l'année précédente. Pour les années ultérieures ce
-pourcentage est diminué de vingt points par an.
+Bénéficient également de cette fraction les chefs-lieux d'arrondissement, dont
+la population est comprise entre 10 000 et 20 000 habitants, qui n'entrent pas
+dans les cas prévus aux 1° et 4° ci-dessus et qui n'ont pas perçu, en 1993, la
+dotation prévue à l'article L. 234-14 dans sa rédaction antérieure à la loi n°
+93-1436 du 31 décembre 1993 portant réforme de la dotation globale de
+fonctionnement et modifiant le code des communes et le code général des impôts.
 
-" Dans le cas où une commune ou un groupement qui avait cessé de remplir les
-conditions d'attribution de la dotation supplémentaire les réunit à nouveau,
-cette collectivité reçoit une dotation calculée conformément aux dispositions du
-dixième alinéa ci-dessus sans que celle-ci puisse être inférieure à celle
-résultant des dispositions du onzième alinéa ci-dessus. "
+Lorsqu'une commune est éligible à la dotation de solidarité urbaine instituée
+par l'article L. 234-12 et qu'elle remplit les conditions pour bénéficier de la
+première fraction de la dotation de solidarité rurale, la dotation lui revenant
+à ce dernier titre, calculée selon les modalités prévues ci-dessous, est
+diminuée de moitié.
 
-II. Une dotation particulière, destinée à tenir compte des charges spécifiques
-qu'elles supportent, est également versée aux communes de moins de 7500
-habitants qui connaissent une importante fréquentation touristique journalière.
-Leur liste est arrêtée chaque année après avis du comité des finances locales
-qui fixe le montant des sommes à répartir.
+L'attribution revenant à chaque commune est déterminée en fonction :
 
-" La dotation perçue par chaque commune ne peut être inférieure à 80 p. 100 de
-la dotation perçue l'année précédente.
+a) De la population prise en compte dans la limite de 10 000 habitants ;
 
-" Lorsqu'une commune cesse de remplir les conditions requises pour bénéficier de
-la dotation particulière, elle perçoit, à titre de garantie non renouvelable,
-une attribution égale à la moitié de celle qu'elle a perçue l'année précédente.
-"
+b) De l'écart entre le potentiel fiscal moyen par habitant des communes de moins
+de 10 000 habitants et le potentiel fiscal par habitant de la commune ;
 
-Le montant de cette dotation compris dans celui de la dotation supplémentaire
-visée par cet article ne peut être inférieur à 22 millions de francs pour 1986.
-Pour les années ultérieures, ce minimum évolue comme le montant de la dotation
-supplémentaire des communes touristiques et thermales.
+c) De l'effort fiscal pris en compte dans la limite de 1,2.
 
-Les conditions d'attribution de cette dotation sont déterminées par décret en
-Conseil d'Etat en tenant compte notamment du nombre des emplacements de
-stationnement public aménagés et entretenus et de la présence sur le territoire
-communal de monuments historiques ouverts au public et classés conformément à la
-loi du 31 décembre 1913 sur les monuments historiques ".
+Lorsqu'une commune cesse de remplir les conditions requises pour bénéficier de
+cette fraction de la dotation de solidarité rurale, cette commune perçoit, à
+titre de garantie non renouvelable, une attribution égale à la moitié de celle
+qu'elle a perçue l'année précédente.
 
-" Lorsqu'une commune remplit les conditions requises pour bénéficier à la fois
-de la dotation supplémentaire mentionnée au paragraphe I ci-dessus et de la
-dotation particulière prévue au présent paragraphe, seule la plus élevée des
-deux dotations lui est versée. "
+Pour l'année 1994, le montant des crédits mis en répartition au titre de cette
+fraction est fixé à 420 millions de francs. A compter de 1995, ce montant est
+fixé par le comité des finances locales de telle sorte que la part de la
+croissance annuelle des crédits de la dotation de solidarité rurale consacrée à
+cette fraction soit comprise entre 5 p. 100 et 20 p. 100.
+
+II. La seconde fraction de la dotation de solidarité rurale est attribuée aux
+communes dont le potentiel fiscal par habitant, tel qu'il est défini à l'article
+L. 234-4, est inférieur au double du potentiel fiscal moyen par habitant des
+communes appartenant au même groupe démographique.
+
+Cette fraction est répartie :
+
+1° Pour 30 p. 100 de son montant, en fonction de la population pondérée par
+l'écart entre le potentiel fiscal par habitant de la commune et le potentiel
+fiscal moyen par habitant des communes appartenant au même groupe démographique
+ainsi que par l'effort fiscal plafonné à 1,2 ;
+
+2° Pour 30 p. 100 de son montant, proportionnellement à la longueur de la voirie
+classée dans le domaine public communal ; pour les communes situées en zone de
+montagne, la longueur de la voirie est doublée ;
+
+3° Pour 30 p. 100 de son montant, proportionnellement au nombre d'élèves
+relevant de l'enseignement obligatoire et préélémentaire, domiciliés dans la
+commune ;
+
+4° Pour 10 p. 100 de son montant au maximum, en fonction de l'écart entre le
+potentiel fiscal par hectare de la commune et le potentiel fiscal moyen par
+hectare des communes de moins de 10 000 habitants.
+
+Toutefois, sous réserve des dispositions du 4° ci-dessus, chacun des
+pourcentages de pondération peut être majoré ou minoré pour l'ensemble des
+communes bénéficiaires d'au plus cinq points dans des conditions fixées par
+décret en Conseil d'Etat, après avis du comité des finances locales.
+
+A titre exceptionnel, pour l'année 1994, le bénéfice de cette fraction est
+limité aux communes de moins de 3 500 habitants.
+
+III. Un décret en Conseil d'Etat fixe les modalités d'application du présent
+article.

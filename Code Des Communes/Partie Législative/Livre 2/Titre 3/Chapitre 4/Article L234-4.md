@@ -1,27 +1,28 @@
 Article L234-4
 ----
-Chaque commune reçoit une dotation de péréquation comprenant deux fractions :
+Le potentiel fiscal d'une commune est déterminé par application aux bases
+communales des quatre taxes directes locales du taux moyen national d'imposition
+à chacune de ces taxes.
 
-- une première fraction qui représente 30 p. 100 des ressources affectées à la
-dotation globale de fonctionnement, après déduction des sommes prévues pour les
-concours particuliers régis par les articles L. 234-12 et suivants, à
-l'exception de ceux prévus aux articles L. 234-15 et L. 234-16 et pour la
-garantie d'évolution prévues à l'article L. 234-19-1.
+Pour l'application de l'alinéa précédent :
 
-Cette fraction est destinée à tenir compte de l'inégalité des ressources
-fiscales mesurée à partir du potentiel fiscal défini à l'article L. 234-6 et de
-l'effort fiscal défini à l'article L. 234-5 ;
+les bases retenues sont les bases brutes de la dernière année dont les résultats
+sont connus, minorées, le cas échéant, du montant de celles correspondant à
+l'écrêtement opéré au titre du fonds départemental de péréquation de la taxe
+professionnelle prévu par l'article 1648-A du code général des impôts ;
 
-- une deuxième fraction qui représente 7,5 p. 100 des ressources affectées à la
-dotation globale de fonctionnement après déduction des sommes prévues pour les
-concours particuliers mentionnés au deuxième alinéa, destinée à tenir compte de
-l'insuffisance du revenu par habitant. Pour l'application du présent alinéa, par
-dérogation au deuxième alinéa de l'article L. 234-19-3, la population prise en
-considération est la population totale de la commune, non majorée d'un habitant
-par résidence secondaire.
+le taux moyen national d'imposition est celui constaté lors de la dernière année
+dont les résultats sont connus.
 
-Le revenu pris en considération pour l'application du présent article est le
-revenu imposable. Toutefois, pour les communes comprenant au plus dix
-contribuables imposés à l'impôt sur le revenu, le revenu pris en considération
-est le revenu moyen par habitant des communes appartenant au même groupe
-démographique.
+Le potentiel fiscal par habitant est égal au potentiel fiscal de la commune
+divisé par le nombre d'habitants constituant la population de cette commune, tel
+que défini à l'article L. 234-2.
+
+Pour la détermination du potentiel fiscal des communes membres de communautés de
+villes ainsi que des communes membres des groupements de communes ayant opté
+pour le régime fiscal prévu à l'article 1609 nonies C du code général des
+impôts, un calcul de bases de taxe professionnelle résultant de la ventilation
+entre les communes des bases du groupement est opéré. Les modalités de ce calcul
+sont définies par décret en Conseil d'Etat. Elles prennent notamment en compte
+la répartition des bases de taxe professionnelle entre les communes l'année
+précédant l'application des dispositions de l'article 1609 nonies C précité.

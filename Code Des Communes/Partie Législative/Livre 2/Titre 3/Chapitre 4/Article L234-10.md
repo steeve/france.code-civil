@@ -1,23 +1,27 @@
 Article L234-10
 ----
-Il est institué une dotation de compensation destinée à tenir compte de
-certaines charges particulières des communes. Cette dotation est répartie entre
-l'ensemble des communes :
+Les groupements de communes dotés d'une fiscalité propre reçoivent une
+attribution de la dotation d'aménagement.
 
-1° Pour 20 p. 100 de son montant, proportionnellement au nombre d'élèves
-relevant de l'enseignement obligatoire et préélémentaire, domiciliés dans la
-commune ;
+Le montant total des sommes affectées à cette dotation est fixé, chaque année,
+par le comité des finances locales.
 
-2° Pour 20 p. 100 de son montant, proportionnellement à la longueur de la voirie
-classée dans le domaine public communal ; pour les communes situées en zone de
-montagne, la longueur de la voirie est doublée ;
+Le montant total défini à l'alinéa précédent est réparti par le comité des
+finances locales entre les quatre catégories de groupements de communes
+suivantes :
 
-3° Pour 60 p. 100 de son montant, en fonction de l'importance du parc des
-logements sociaux et dans des conditions définies par décret en Conseil d'Etat.
-Les logements sociaux en accession à la propriété sont pris en compte si leur
-nombre est au moins égal à cinq par opération.
+1° Les communautés urbaines ;
 
-La part des ressources affectée à la dotation de compensation est fixée à 22,5
-p. 100 de la dotation globale de fonctionnement des communes après déduction des
-sommes prévues pour les concours particuliers régis par les article L. 234-13 et
-L. 234-14 et pour la garantie d'évolution prévue à l'article L. 234-19-1.
+2° Les communautés de villes et les groupements de communes faisant application
+des dispositions de l'article 1609 nonies C du code général des impôts ;
+
+3° Les districts à fiscalité propre et les communautés de communes, s'ils ne
+font pas application des dispositions de l'article 1609 nonies C du code général
+des impôts ;
+
+4° Les syndicats ou communautés d'agglomérations nouvelles.
+
+Les sommes affectées à chacune de ces catégories de groupements de communes sont
+réparties entre leurs membres, dans les conditions fixées à l'article L.
+234-10-1, à raison de 15 p. 100 pour la dotation de base et de 85 p. 100 pour la
+dotation de péréquation.

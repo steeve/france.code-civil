@@ -1,24 +1,41 @@
 Article L234-6
 ----
-Le potentiel fiscal d'une commune est égal au montant des bases pondérées des
-quatre taxes directes locales, ces bases étant les bases brutes de la dernière
-année dont les résultats sont connus servant à l'assiette des impositions
-communales, minorées, le cas échéant, du montant des bases correspondant à
-l'écrêtement opéré au titre du fonds départemental de péréquation de la taxe
-professionnelle prévu par l'article 1648 A du code général des impôts. "
+Le produit des impôts, taxes et redevances pris en considération pour le calcul
+de l'effort fiscal comprend les ressources nettes provenant de :
 
-Le coefficient de pondération de la base de chacune des quatre taxes
-[*définition*] est le taux moyen national d'imposition à la taxe concernée,
-constaté lors de la dernière année dont les résultats sont connus.
+a) La taxe foncière sur les propriétés bâties. Son montant est majoré de la
+somme correspondant aux exonérations dont ont bénéficié, en application des
+dispositions des articles 1383 à 1387 du code général des impôts, les
+constructions nouvelles, additions de constructions et reconstructions, dans la
+mesure où elles sont compensées par l'Etat, ainsi qu'aux exonérations
+permanentes dont ont bénéficié, en application de l'article 1382 du code général
+des impôts, les résidences universitaires, les locaux utilisés au casernement
+des personnels des armées ainsi que les locaux des établissements hospitaliers
+dès lors que ceux-ci occupent plus de 10 p. 100 du territoire communal. Il est
+également majoré, dans la mesure où elles sont compensées par l'Etat, de la
+somme correspondant aux exonérations prévues aux articles 1390 et 1391 du code
+général des impôts ; ".
 
-Le potentiel fiscal par habitant est égal au potentiel fiscal de la commune
-divisé par le nombre d'habitants constituant la population de cette commune, tel
-que défini à l'article L. 234-19-3. " Pour la détermination du potentiel fiscal
-des communes membres de communautés de villes ainsi que des communes membres des
-groupements de communes ayant opté pour le régime fiscal prévu à l'article 1609
-nonies C du code général des impôts, un calcul de bases de taxe professionnelle
-résultant de la ventilation entre les communes des bases du groupement est
-opéré. Les modalités de ce calcul sont définies par décret en Conseil d'Etat.
-Elles prennent notamment en compte la répartition des bases de taxe
-professionnelle entre les communes l'année précédant l'application des
-dispositions de l'article 1609 nonies C précité. "
+b) La taxe foncière sur les propriétés non bâties. Son montant est majoré de la
+somme correspondant aux exonérations dont ont bénéficié, en application de
+l'article 1394 du code général des impôts, les terrains des universités, les
+terrains affectés aux armées ainsi que les terrains des établissements
+hospitaliers dès lors que ceux-ci occupent plus de 10 p. 100 du territoire
+communal :
+
+c) La taxe d'habitation, majorée à la somme correspondant aux exonérations
+permanentes dont ont bénéficié, en application de l'article 1408 du code général
+des impôts, les résidences universitaires et les casernements des personnels des
+armées. Son montant est également majoré de la somme correspondant aux
+exonérations prévues au I de l'article 1414 du code général des impôts, dans la
+mesure où elles sont compensées par l'Etat ;.
+
+d) La taxe d'enlèvement des ordures ménagères ou la redevance pour enlèvement
+des ordures ménagères, prévue à l'article L. 233-78. Les majorations prévues aux
+a, b et c ci-dessus, lorsqu'elles ont pour objet de compenser les exonérations
+permanentes prévues par l'article 1382 du code général des impôts, sont
+éventuellement réparties lorsque les résidences universitaires, les locaux
+utilisés au casernement des personnels des armées ou les terrains des résidences
+universitaires ou affectés aux armées sont situés sur le territoire de plusieurs
+communes, entre lesdites communes proportionnellement aux surfaces occupées par
+l'ensemble de ces installations sur le territoire de chacune d'elles.
