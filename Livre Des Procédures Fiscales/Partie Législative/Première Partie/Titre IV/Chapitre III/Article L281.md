@@ -15,6 +15,8 @@ sur tout autre motif ne remettant pas en cause l'assiette et le calcul de
 l'impôt.
 
 Les recours contre les décisions prises par l'administration sur ces
-contestations sont portés, dans le premier cas, devant le tribunal de grande
-instance [*juridiction compétente*], dans le second cas, devant le juge de
-l'impôt tel qu'il est prévu à l'article L. 199.
+contestations sont portés, dans le premier cas, devant le juge de l'exécution
+(1) [*juridiction compétente*], dans le second cas, devant le juge de l'impôt
+tel qu'il est prévu à l'article L. 199.
+
+(1) A compter du 1er janvier 1993.
