@@ -1,49 +1,40 @@
 Article R*234-20
 ----
 Figurent sur la liste annuelle les communes justifiant d'un indice pondéré de
-capacité d'accueil au moins égal aux chiffres indiqués dans la colonne 1 du
-tableau ci-dessous et pour lesquelles le rapport entre cet indice et la
+capacité d'accueil existante au moins égal aux chiffres indiqués dans la colonne
+1 du tableau ci-dessous et pour lesquelles le rapport entre cet indice et la
 population permanente est au moins égal aux pourcentages indiqués dans la
-colonne 2 du même tableau [*calcul*] ;
+colonne 2 du même tableau :
 
-Indice pondéré de capacité d'accueil : 500.
+================================================================
 
-Rapport entre cet indice et la population permanente : 75 p. 100.
+: INDICE PONDERE : RAPPORT ENTRE L'INDICE PONDERE :
 
-Indice pondéré de capacité d'accueil : 540.
+: de capacité d'accueil. : de capacité d'accueil :
 
-Rapport entre cet indice et la population permanente : 65 p. 100.
+: (1) : et la population permanente. :
 
-Indice pondéré de capacité d'accueil : 580.
+: : (2) :
 
-Rapport entre cet indice et la population permanente :
+:--------------------------:-----------------------------------:
 
-55 p. 100.
+: : P. 100. :
 
-Indice pondéré de capacité d'accueil : 625.
+: 500 : 75 :
 
-Rapport entre cet indice et la population permanente :
+: 540 : 65 :
 
-45 p. 100.
+: 580 : 55 :
 
-Indice pondéré de capacité d'accueil : 670.
+: 625 : 45 :
 
-Rapport entre cet indice et la population permanente :
+: 670 : 35 :
 
-35 p. 100.
+: 710 : 25 :
 
-Indice pondéré de capacité d'accueil : 710.
+: 750 : 15 :
 
-Rapport entre cet indice et la population permanente :
-
-25 p. 100.
-
-Indice pondéré de capacité d'accueil : 750.
-
-Rapport entre cet indice et la population permanente :
-
-15 p. 100. [*pourcentages, tableau réécrit*].
-
-Ne peuvent figurer sur la liste les communes dont la capacité d'accueil est
-liée, à plus de 75 p. 100, à l'existence d'un aéroport situé, même
-partiellement, sur leur territoire.
+================================================================ Ne peuvent
+figurer sur la liste les communes dont la capacité d'accueil est liée, à plus de
+75 p. 100, à l'existence d'un aéroport situé, même partiellement, sur leur
+territoire.

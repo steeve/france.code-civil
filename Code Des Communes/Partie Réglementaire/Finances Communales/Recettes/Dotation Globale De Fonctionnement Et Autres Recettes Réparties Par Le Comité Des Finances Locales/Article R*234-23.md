@@ -1,8 +1,8 @@
 Article R*234-23
 ----
-Pour l'application des dispositions de la présente sous-section, le rapport
-entre l'indice pondéré de capacité d'accueil et la population permanente est
-affecté des coefficients suivants [*chiffre de la population*] :
+Pour l'application de l'article R. 234-20, le rapport entre l'indice pondéré de
+capacité d'accueil et la population permanente est affecté des coefficients
+suivants :
 
 1,50 pour les communes de moins de 2.000 habitants ;
 
