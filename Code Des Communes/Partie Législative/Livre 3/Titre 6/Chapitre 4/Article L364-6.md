@@ -1,12 +1,13 @@
 Article L364-6
 ----
-Ces fonctionnaires [*commissaires de police ou gardes champêtres délégués pour
-assister aux opérations d'exhumation, de réinhumation et de translation de
-corps*] ont droit à des vacations fixées par le maire, après avis du conseil
-municipal, et dont un règlement d'administration publique détermine le minimum
-et le mode de perception [**]conditions de forme[**].
+Les opérations de surveillance mentionnées à l'article L. 364-5 donnent droit à
+des vacations fixées par le maire après avis du conseil municipal et dont un
+décret en Conseil d'Etat détermine le minimum et le mode de perception. Lorsque
+ces opérations sont effectuées par des fonctionnaires de la police nationale,
+les vacations sont soumises aux dispositions de l'article 25 de la loi n° 95-73
+du 21 janvier 1995 d'orientation et de programmation relative à la sécurité.
 
-Toutefois, ils n'ont droit à aucune vacation :
+Aucune vacation n'est exigible :
 
 Lors des opérations qui constituent des actes d'instruction criminelle ;
 
