@@ -1,14 +1,27 @@
 Article R*816-1
 ----
-Toute fraude, tentative de fraude, ou fausse déclaration commise lors de
+Toute fraude, tentative de fraude ou fausse déclaration commise lors de
 l'inscription à l'un des examens ou concours publics organisés par le ministre
-de l'agriculture ou placés sous la présidence d'un fonctionnaire désigné par
-lui, entraîne pour son auteur la nullité de cet examen ou de ce concours. Il'en
-est de même en cas de fraude, de tentative de fraude ou de fausse déclAration
-commise au cours de cet examen ou de ce concours.
+de l'agriculture ou placés sous la présidence d'un fonctionnaire désigné par lui
+entraîne pour son auteur l'annulation de l'examen ou du concours.
+
+Il en est de même de toute fraude ou tentative de fraude commise au cours d'un
+examen ou d'un concours. Toutefois, si l'acte a été commis au cours d'une
+épreuve de contrôle continu, il entraîne l'annulation de l'épreuve terminale
+correspondante.
+
+La décision d'annulation est prise sur rapport et proposition du président du
+jury, et après que le rapport 811 été communiqué à l'intéressé, soit par le
+directeur région de l'agriculture, soit par le ministre de l'agriculture selon
+que l'examen ou le concours a été organisé par l'une ou l'autre de ces
+autorités.
 
 En cas de flagrant délit, le président du jury ou son délégué peut exclure
-immédiatement le candidat et prononcer la nullité de son examen ou de son
-concours. Il peut également prononcer la nullité de l'examen ou du concours du
-ou des complices. Dans tous les autres cas, l'annulation est prononcée par le
-ministre de l'agriculture.
+immédiatement le candidat des épreuves, et proposer l'annulation de l'examen ou
+du concours dans les conditions de l'alinéa précédent.
+
+Les mêmes mesures peuvent être prises à l'encontre des complices de la fraude ou
+tentative de fraude.
+
+La décision, qui doit être motivée, est notifiée au candidat en cause, avec
+copie adressée au chef d'établissement fréquenté en dernier lieu par celui-ci.
