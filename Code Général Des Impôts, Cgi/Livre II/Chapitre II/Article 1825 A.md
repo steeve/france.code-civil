@@ -19,8 +19,8 @@ d'une condamnation définitive pour fabrication ou transport clandestins d'alcoo
 ;
 
 c. soit fait l'objet d'une condamnation pour ivresse publique ou d'une
-condamnation en application des articles L234-1, L234-8 et L234-11 du code de la
-route ;
+condamnation en application des articles L. 234-1 et L. 234-8 du code de la
+route.
 
 d. soit fait l'objet d'une condamnation en application de l'article 312 du code
 pénal ou d'une mesure de déchéance ou du retrait du droit de garde en

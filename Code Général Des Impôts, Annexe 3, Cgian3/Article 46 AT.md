@@ -57,8 +57,8 @@ l'article R. 323-3 du code de la route ;
 
 e) N'est pas gagé ;
 
-f) N'est pas économiquement irréparable au sens des articles L. 326-10 et L.
-326-11 du code de la route.
+f) N'est pas économiquement irréparable au sens des articles L. 327-1 et L.
+327-2 du code de la route.
 
 IV. - La destruction d'un véhicule répondant aux conditions énoncées au III,
 réalisée conformément aux dispositions du I, et l'acquisition ou la première

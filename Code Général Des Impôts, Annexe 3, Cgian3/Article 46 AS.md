@@ -13,7 +13,7 @@ b) Qui disposent, à la date de facturation des dépenses de transformation, d'u
 certificat d'immatriculation et d'une assurance en cours de validité ;
 
 c) Qui ne sont pas déclarés économiquement irréparables au sens des articles L.
-326-10 et L. 326-11 du code de la route.
+327-1 et L. 327-2 du code de la route.
 
 II. - Les opérations de la transformation doivent être effectuées par un
 opérateur agréé conformément aux dispositions de l'article 8 de l'arrêté du 15
