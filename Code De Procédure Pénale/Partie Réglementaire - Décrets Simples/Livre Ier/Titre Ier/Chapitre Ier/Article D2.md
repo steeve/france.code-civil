@@ -1,10 +1,20 @@
 Article D2
 ----
-Les officiers de police judiciaire des différents corps ou services
-entretiennent, à tous les échelons, des relations de coopération et d'aide
-réciproque.
+Dans le ressort de chaque cour d'appel, les officiers de police judiciaire sont
+égaux devant la loi en prérogative et en responsabilité ; ils sont placés sous
+la surveillance du procureur général et sous le contrôle de la chambre
+d'accusation.
 
-En principe, les relations s'établissent entre les commissaires divisionnaires,
-chefs de service, et les chefs de corps de gendarmerie ; entre les commissaires
-ou officiers de police d'une part, et les commandants de compagnie ou
-commandants de brigade de gendarmerie d'autre part.
+Dans le ressort de chaque tribunal, le tribunal, le procureur de la République
+et ses substituts ont seuls qualité pour diriger l'activité des officiers et
+agents de police judiciaire, par la voie, s'il y a lieu, de leurs supérieurs
+hiérarchiques.
+
+Le procureur de la République et le juge d'instruction ont le libre choix des
+formations auxquelles appartiennent les officiers de police judiciaire
+territorialement compétents qui seront chargés de l'exécution de leurs
+réquisitions ou commissions rogatoires.
+
+Le chef de la formation coordonne l'exécution des opérations de police
+judiciaire effectuées dans son service et veille à la transmission des
+procès-verbaux aux autorités judiciaires.
