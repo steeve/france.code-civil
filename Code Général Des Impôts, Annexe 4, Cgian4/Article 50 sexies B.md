@@ -45,5 +45,5 @@ du respect de la réglementation en vigueur.
 
 Les caisses automatisées et les systèmes informatisés peuvent être équipés d'un
 dispositif permettant la vente, par avance, de billets d'entrée à une séance
-déterminée. Dans ce cas, les billets ne peuvent être délivrés que pour la
-semaine cinématographique en cours.
+déterminée. Dans ce cas, les billets ne peuvent être délivrés qu'au maximum sept
+jours à l'avance.
