@@ -1,6 +1,6 @@
 Article 43
 ----
-1. Les agents des douanes ayant au moins le grade de contrôleur ou assimilés ou
+1° Les agents des douanes ayant au moins le grade de contrôleur ou assimilés ou
 d'officier et ceux chargés des fonctions de contrôles différés et a posteriori
 peuvent exiger la communication des papiers et documents de toute nature
 relatifs aux opérations intéressant leur service :
@@ -30,26 +30,34 @@ comptabilité matière, etc.) ;
 g) Chez les destinataires ou les expéditeurs réels des marchandises déclarées en
 douane ;
 
-h) Et, en général, chez toutes les personnes physiques ou morales directement ou
+h) Chez les opérateurs de télécommunications et les prestataires mentionnés aux
+1 et 2 du I de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la
+confiance dans l'économie numérique, pour les données conservées et traitées par
+ces derniers, dans le cadre de l'article L. 34-1 du code des postes et des
+communications électroniques ;
+
+i) Et, en général, chez toutes les personnes physiques ou morales directement ou
 indirectement intéressées à des opérations régulières ou irrégulières relevant
 de la compétence du service des douanes.
 
-2. Les agents ayant qualité pour exercer le droit de communication prévu par le
+2° Les agents ayant qualité pour exercer le droit de communication prévu par le
 1 ci-dessus peuvent se faire assister par des fonctionnaires d'un grade moins
 élevé, astreints comme eux et sous les mêmes sanctions au secret professionnel.
 
-3. Les divers documents visés ci-dessus doivent être conservés par les
+3° Les divers documents visés ci-dessus doivent être conservés par les
 intéressés pendant un délai de trois ans, à compter de la date d'envoi des
 colis, pour les expéditeurs, et à compter de la date de leur réception, pour les
 destinataires.
 
-4. Au cours des contrôles et des enquêtes opérés chez les personnes ou sociétés
+4° Au cours des contrôles et des enquêtes opérés chez les personnes ou sociétés
 visées au 1 du présent article, les agents des douanes désignés par ce même 1
 peuvent procéder à la saisie des documents de toute nature (comptabilité,
 factures, copies de lettres, carnets de chèques, traites, comptes de banque,
 etc.) propres à faciliter l'accomplissement de leur mission.
 
-5. Le service des douanes est autorisé, sous réserve de réciprocité, à fournir
-aux autorités qualifiées des pays étrangers tous renseignements, certificats,
+5° Le service des douanes est autorisé à fournir aux services des douanes de
+métropole, des départements et régions d'outre-mer, des collectivités
+d'outre-mer, de Nouvelle-Calédonie et, sous réserve de réciprocité, aux
+autorités qualifiées des pays étrangers tous renseignements, certificats,
 procès-verbaux et autres documents susceptibles d'établir la violation des lois
 et règlements applicables à l'entrée ou à la sortie de leur territoire.
