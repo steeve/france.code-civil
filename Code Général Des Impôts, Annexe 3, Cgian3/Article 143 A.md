@@ -2,8 +2,7 @@ Article 143 A
 ----
 La production des fruits à cidre et à poiré est réservée en priorité à la
 fabrication de produits alimentaires destinés tant au marché national qu'à
-l'exportation. Seul le surplus disponible peut être livré à la distillation
-d'alcool réservé à l'Etat.
+l'exportation.
 
 Sont considérés comme produits cidricoles alimentaires [*définition*] pour
 l'application de cette disposition :
