@@ -26,7 +26,7 @@ Pour les autres cigarettes, la part proportionnelle est déterminée en appliqua
 le taux de base à leur prix de vente au détail.
 
 Le montant du droit de consommation applicable aux cigarettes mentionnées au
-cinquième alinéa ne peut être inférieur à un minimum de perception fixé par 1
+précédent alinéa ne peut être inférieur à un minimum de perception fixé par 1
 000 unités.
 
 Les tabacs manufacturés autres que les cigarettes sont soumis à un taux normal
