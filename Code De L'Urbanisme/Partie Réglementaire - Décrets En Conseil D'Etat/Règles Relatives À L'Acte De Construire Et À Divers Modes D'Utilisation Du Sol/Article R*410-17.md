@@ -1,4 +1,4 @@
 Article R*410-17
 ----
-Un arrêté du ministre chargé de l'urbanisme fixe le modèle de la demande du
-certificat d'urbanisme, ainsi que la forme dudit certificat.
+Le certificat d'urbanisme tient lieu des certificats prévus aux articles R.
+211-10 et R. 212-5.
