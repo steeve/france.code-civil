@@ -31,11 +31,11 @@ Vingt-quatre suppléants sont désignés dans les mêmes conditions que les memb
 titulaires. Ils remplacent [*attributions*] ces derniers soit en cas
 d'empêchement, soit s'il se produit une vacance en cours de mandat.
 
-Le président et le vice-président sont désignés par le ministre chargé de la
-santé parmi les membres de la commission.
+Le président ainsi qu'un premier et un deuxième vice-président sont désignés par
+le ministre chargé de la santé parmi les membres de la commission.
 
-En cas d'absence du président et du vice-président, le ministre de la santé
-nomme un président de séance.
+En cas d'absence du président et des deux vice-présidents, le ministre de la
+santé nomme un président de séance.
 
 La commission a la faculté d'entendre toute personne qualifiée et notamment des
 représentants des fabricants de produits pharmaceutiques, des organisations de
