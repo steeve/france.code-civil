@@ -2,10 +2,9 @@ Article L167-3
 ----
 La communauté de communes a pour objet d'associer des communes au sein d'un
 espace de solidarité, en vue de l'élaboration d'un projet commun de
-développement et d'aménagement de l'espace en milieu rural. Elle exerce de plein
-droit aux lieu et place des communes membres, pour la conduite d'actions
-d'intérêt communautaire, des compétences relevant de chacun des deux groupes
-suivants :
+développement et d'aménagement de l'espace. Elle exerce de plein droit aux lieu
+et place des communes membres, pour la conduite d'actions d'intérêt
+communautaire, des compétences relevant de chacun des deux groupes suivants :
 
 1° Aménagement de l'espace ;
 

@@ -8,6 +8,10 @@ susceptibles d'être gérées par des entreprises privées, soit par application
 la loi des 2-17 mars 1791, soit, en ce qui concerne l'exploitation des services
 publics communaux, en vertu des traités de concession ou d'affermage.
 
+Les communes et les syndicats de communes peuvent exploiter directement des
+services d'intérêt public à caractère administratif pour lesquels un statut
+d'établissement public spécifique n'est pas imposé.
+
 Ne sont pas soumises aux dispositions du présent chapitre, les régies organisées
 exclusivement dans un but d'hygiène ou d'assistance et ne comportant que des
 recettes en atténuation de dépenses.

@@ -31,4 +31,6 @@ Le compte de campagne et ses annexes sont transmis à la Commission nationale de
 comptes de campagne et des financements politiques.
 
 La commission assure la publication des comptes de campagne dans une forme
-simplifiée.
+simplifiée. Pour chaque candidat, la publication comporte la liste exhaustive
+des personnes morales qui lui ont consenti des dons, avec l'indication du
+montant de chacun de ces dons. "

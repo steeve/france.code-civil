@@ -21,11 +21,10 @@ dépôt des candidatures.
 
 Au terme de son mandat, le mandataire remet au candidat un bilan comptable de
 son activité. Lorsqu'un solde positif apparaît, il est dévolu, sur décision du
-candidat, soit à une association de financement électorale, soit à une
-association de financement d'un parti politique, soit à un ou plusieurs
-établissements reconnus d'utilité publique. A défaut de décision de dévolution
-dans les conditions et délais prévus ci-dessus, à la demande du préfet du
-département dans lequel est domicilié le candidat, le procureur de la République
-saisit le président du tribunal de grande instance qui détermine le ou les
-établissements reconnus d'utilité publique attributaires de l'actif net. Il en
-va de même lorsque la dévolution n'est pas acceptée.
+candidat, soit à une association de financement d'un parti politique, soit à un
+ou plusieurs établissements reconnus d'utilité publique. A défaut de décision de
+dévolution dans les conditions et délais prévus ci-dessus, à la demande du
+préfet du département dans lequel est domicilié le candidat, le procureur de la
+République saisit le président du tribunal de grande instance qui détermine le
+ou les établissements reconnus d'utilité publique attributaires de l'actif net.
+Il en va de même lorsque la dévolution n'est pas acceptée.
