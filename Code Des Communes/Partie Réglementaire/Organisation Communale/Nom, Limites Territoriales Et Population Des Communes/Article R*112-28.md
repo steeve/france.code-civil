@@ -6,6 +6,5 @@ propriété des biens communaux*] qui sont mentionnées aux articles R. 112-25 �
 112-27.
 
 Ils peuvent, toutefois, décider que certaines de ces conditions, notamment en
-matière financière et patrimoniale,
-
-sont déterminées par un arrêté préfectoral.
+matière financière et patrimoniale, sont déterminées par un arrêté du
+commissaire de la République.
