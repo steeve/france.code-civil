@@ -8,7 +8,7 @@ général des impôts ;
 
 2° Au premier alinéa de l'article 444 du code général des impôts ;
 
-3° A l'article 511 bis du code général des impôts ;
+3° (Dispositions devenues sans objet).
 
 4° A l'article 570 du code général des impôts ;
 
