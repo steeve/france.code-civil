@@ -7,7 +7,7 @@ fixé ainsi qu'il suit :
 1°) pour les médecins, au titre de l'exercice 2003, à soixante fois la valeur au
 1er janvier de l'année en cause du tarif de la consultation du médecin
 omnipraticien fixé dans les conditions prévues aux articles L. 162-5 et L.
-162-5-2 ou, à défaut, aux articles L. 162-5-8 et L. 162-5-9 ;
+162-5-2 ;
 
 2°) pour les chirurgiens-dentistes, à cinquante fois la valeur, au 1er janvier
 de l'année en cause, du tarif conventionnel de la lettre-clé C fixé dans les
