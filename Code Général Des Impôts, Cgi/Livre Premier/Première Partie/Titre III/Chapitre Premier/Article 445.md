@@ -10,7 +10,7 @@ exercices des agents de l'administration avec le bénéfice du crédit des droit
 2° Des dénaturateurs et fabricants de vinaigres;
 
 3° De pays et territoires non compris dans le territoire communautaire défini
-par l'article 56 de la loi n° 92-677 du 17 juillet 1992 ;
+par l'article 302 C ;
 
 4° D'ambassadeurs et autres membres du corps diplomatique directement accrédités
 auprès du chef de l'Etat.
@@ -22,6 +22,6 @@ b) De passavants ou de laissez-passer, les boissons pour lesquelles est fournie
 la justification du paiement antérieur des droits, les alcools ramenés par les
 bouilleurs de cru de la brûlerie au siège de leur exploitation et les vins,
 cidres, poirés et hydromels déplacés par les récoltants dans les conditions
-prévues à l'article 441-1° et 2°.
+prévues aux 1° et 2° de l'article 441.
 
 c) De congés, les boissons déplacées dans tous les autres cas.
