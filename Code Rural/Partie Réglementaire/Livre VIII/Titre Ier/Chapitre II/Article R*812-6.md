@@ -1,7 +1,6 @@
 Article R*812-6
 ----
-Les diplômes sanctionnant l'enseignement technologique agricole de cycle court
-peuvent également être délivrés au titre de la formation professionnelle
-continue et préparés dans des établissements publics ou privés ayant passé des
-conventions avec le ministre de l'agriculture en application du livre IX du code
-du travail.
+La formation prévue à l'avant-dernier alinéa de l'article R. 812-2 et
+sanctionnée par l'un des titres ou diplômes prévus aux articles R. 812-2 et R.
+812-3 peut être dispensée au titre de la formation professionnelle continue ou
+des formations alternées prévues par le titre IX du code du travail.
