@@ -12,11 +12,11 @@ durée et au coût de celui-ci.
 
 Les conjointes collaboratrices mentionnées au registre du commerce et des
 sociétés, au registre des entreprises tenu par les chambres de métiers d'Alsace
-et de la Moselle ou au répertoire des métiers et, en ce qui concerne les
-conjointes de membres des professions libérales relevant du régime institué par
-le présent titre, celles qui remplissent les conditions de collaboration
-professionnelle définies par décret, bénéficient des allocations prévues par le
-présent article.
+et de la Moselle ou au répertoire des métiers, ainsi que les conjointes des
+personnes mentionnées au 5° de l'article L. 615-1 et les conjointes des membres
+des professions libérales relevant du régime institué par le présent titre qui
+remplissent les conditions de collaboration professionnelle définies par décret,
+bénéficient des allocations prévues par le présent article.
 
 Les femmes mentionnées aux premier et troisième alinéas bénéficient, à
 l'occasion de l'arrivée à leur foyer d'un enfant confié en vue de son adoption

@@ -57,3 +57,9 @@ Le comité d'entreprise est obligatoirement consulté sur l'affectation par
 l'entreprise des sommes prélevées au titre de la taxe d'apprentissage. Il est
 également consulté sur les conditions de la formation reçue dans l'entreprise
 par les apprentis ainsi que sur les conditions d'accueil.
+
+Le comité d'entreprise est obligatoirement informé et consulté préalablement à
+la mise en place d'une couverture des salariés contre le risque décès, les
+risques portant atteinte à l'intégrité physique de la personne ou liés à la
+maternité ou les risques d'incapacité de travail ou d'invalidité ou à la
+modification de la couverture existante.
