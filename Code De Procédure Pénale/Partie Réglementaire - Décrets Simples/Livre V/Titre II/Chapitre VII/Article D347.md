@@ -1,6 +1,9 @@
 Article D347
 ----
-Sauf prescription médicale, l'usage du tabac est autorisé.
+Il est interdit de fumer dans les lieux affectés à un usage collectif, notamment
+dans les couloirs, les salles de spectacle ou de culte, les salles de sport, les
+locaux médicaux, les ateliers et les cuisines.
 
-Il est interdit de fumer dans les couloirs, les ateliers, les lieux affectés au
-culte et les salles de spectacles.
+Le chef d'établissement détermine, en fonction de la configuration des lieux,
+les locaux dans lesquels les détenus sont autorisés à fumer, en tenant compte
+notamment de leur aération et de leur destination.

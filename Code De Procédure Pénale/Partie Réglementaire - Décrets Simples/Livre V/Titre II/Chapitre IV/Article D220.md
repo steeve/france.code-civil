@@ -9,8 +9,9 @@ personnes ayant accès dans la détention :
 - d'user, à leur égard, soit de dénominations injurieuses, soit de tutoiement,
 soit de langage grossier ou familier ;
 
-- de fumer ou de boire à l'intérieur de la détention ou d'y paraître en état
-d'ébriété ;
+- de fumer dans les lieux fermés et couverts affectés à un usage collectif, sous
+réserve de ceux spécialement aménagés à cet effet ou de boire à l'intérieur de
+la détention ou d'y paraître en état d'ébriété ;
 
 - d'occuper sans autorisation les détenus pour leur service particulier ;
 
