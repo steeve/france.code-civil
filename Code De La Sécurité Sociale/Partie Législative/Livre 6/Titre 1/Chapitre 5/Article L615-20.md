@@ -13,10 +13,12 @@ en font la demande. Dans ce cas, l'équilibre financier est assuré dans le cadr
 de l'ensemble des groupes intéressés.
 
 Les prestations supplémentaires sont choisies parmi les catégories de
-prestations figurant au 1° de l'article L. 321-1 ou consistent en une réduction
-de la participation de l'assuré aux tarifs servant au calcul du remboursement
-des prestations de base sans que cette participation puisse être inférieure à
-celle prévue à l'article L. 322-2.
+prestations figurant au 1° de l'article L. 321-1 ou consistent soit en l'octroi
+d'indemnités journalières dans tout ou partie des cas entraînant l'incapacité de
+travail prévue au 5° du même article, soit en une réduction de la participation
+de l'assuré aux tarifs servant au calcul du remboursement des prestations de
+base, sans que cette participation puisse être inférieure à celle prévue à
+l'article L. 322-2.
 
 La charge des prestations supplémentaires est couverte par des cotisations
 supplémentaires, dans les conditions précisées à l'article L. 612-13.
