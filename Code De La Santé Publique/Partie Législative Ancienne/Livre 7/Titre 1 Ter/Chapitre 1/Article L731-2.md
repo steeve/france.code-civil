@@ -1,0 +1,31 @@
+Article L731-2
+----
+L'agence de santé assure la protection sanitaire du territoire des îles
+Wallis-et-Futuna. A cet effet :
+
+1° Elle élabore un programme de santé publique compte tenu des priorités
+établies par la conférence de santé prévue à l'article L. 731-14. Ce programme
+porte notamment sur la protection de la santé des mères, des jeunes enfants, des
+enfants d'âge scolaire et des travailleurs, sur la lutte contre les maladies
+transmissibles, l'alcoolisme, les toxicomanies et les maladies mentales. Il
+comporte un projet hospitalier, incluant un projet médical. L'agence contribue à
+la mise en oeuvre de ce programme avec le concours éventuel de personnes morales
+de droit public ;
+
+2° Elle assure, dans le respect des droits des patients, les examens de
+diagnostic, la surveillance et le traitement des malades, des blessés et des
+femmes enceintes en tenant compte des aspects psychologiques et culturels et en
+garantissant l'égal accès aux soins qu'elle dispense à toutes les personnes dont
+l'état requiert ses services. Elle doit être en mesure de les accueillir de jour
+et de nuit, éventuellement en urgence ;
+
+3° En cas de nécessité, elle assure leur transfert et leur admission dans un
+autre établissement apte à dispenser les soins requis par leur état ;
+
+4° Elle délivre, sur prescription médicale, les médicaments ainsi que les
+dispositifs médicaux mentionnés à l'article L. 665-3 du code de la santé
+publique.
+
+En outre, l'agence peut participer par voie de convention avec le territoire à
+la mise en oeuvre d'actions à caractère social, notamment en faveur des
+personnes âgées ou handicapées.
