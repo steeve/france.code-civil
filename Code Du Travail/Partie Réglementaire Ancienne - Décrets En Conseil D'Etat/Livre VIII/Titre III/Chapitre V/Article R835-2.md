@@ -21,7 +21,8 @@ consolidé ;
 interprofessionnelle pour l'emploi dans l'industrie et le commerce (UNEDIC) au
 titre de l'assurance chômage des contrats d'insertion par l'activité ;
 
-7° (Paragraphe abrogé)
+7° Le financement des dépenses prévues par l'article L. 832-7-1 du présent code
+;
 
 8° Le financement des dépenses prévues par l'article L. 322-4-19 du présent code
 ;
