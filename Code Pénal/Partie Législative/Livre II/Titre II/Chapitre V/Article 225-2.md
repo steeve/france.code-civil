@@ -13,5 +13,9 @@ d'amende lorsqu'elle consiste :
 4° A subordonner la fourniture d'un bien ou d'un service à une condition fondée
 sur l'un des éléments visés à l'article 225-1 ;
 
-5° A subordonner une offre d'emploi à une condition fondée sur l'un des éléments
-visés à l'article 225-1.
+5° A subordonner une offre d'emploi, une demande de stage ou une période de
+formation en entreprise à une condition fondée sur l'un des éléments visés à
+l'article 225-1 ;
+
+6° A refuser d'accepter une personne à l'un des stages visés par le 2° de
+l'article L. 412-8 du code de la sécurité sociale.

@@ -50,8 +50,9 @@ rattrapage tendant à remédier aux inégalités constatées. Ces mesures
 s'appliquent notamment à l'accès à l'emploi, à la formation et à la promotion
 professionnelle et aux conditions de travail et d'emploi ;
 
-10° L'égalité de traitement entre les salariés français et étrangers, notamment
-en matière d'emploi ;
+10° L'égalité de traitement entre salariés, quelle que soit leur appartenance à
+une ethnie, une nation ou une race, notamment en matière d'accès à l'emploi, de
+formation, de promotion professionnelle et de conditions de travail ;
 
 11° Les conditions propres à concrétiser le droit au travail de toutes personnes
 handicapées en état d'exercer une profession, notamment par application de
