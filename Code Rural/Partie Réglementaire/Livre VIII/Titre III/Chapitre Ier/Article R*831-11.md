@@ -8,7 +8,7 @@ Il étudie la situation et les perspectives de développement dans les domaines 
 la recherche agronomique, et veille à ce que soit assurée une bonne coordination
 entre l'institut et les autres organismes de recherche intéressés.
 
-Il est consulté par le président du conseil d'administration sur :
+Il donne son avis sur :
 
 1. L'organisation scientifique de l'institut, et notamment la liste des
 départements de recherche ;
@@ -21,7 +21,7 @@ de l'institut ;
 Le conseil scientifique peut être assisté par :
 
 a) Des commissions spécialisées ou par discipline, créées par décision du
-président de l'institut ;
+directeur général ;
 
 b) Des groupes de travail ou comités restreints, constitués en son sein, en vue
 de l'aider à remplir les tâches qui lui sont dévolues.

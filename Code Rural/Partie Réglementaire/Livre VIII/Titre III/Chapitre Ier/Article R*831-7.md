@@ -27,9 +27,9 @@ section, soit des virements entre, d'une part, des crédits affectés aux gros
 équipements ou aux opérations immobilières et, d'autre part, des crédits
 affectés à des actions ou programmes financés par l'institut.
 
-Toutes les autres décisions modificatives du budget sont prises par le président
-en accord avec le contrôleur financier et portées à la connaissance du conseil
-d'administration lors de sa plus prochaine séance.
+Toutes les autres décisions modificatives du budget sont prises par le directeur
+général en accord avec le contrôleur financier et portées à la connaissance du
+conseil d'administration lors de sa plus prochaine séance.
 
 La procédure prévue à l'alinéa précédent s'applique aux virements de crédits
 provenant de la réserve générale lorsque le montant des crédits ainsi virés

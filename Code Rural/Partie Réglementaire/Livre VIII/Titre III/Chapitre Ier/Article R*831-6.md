@@ -35,6 +35,6 @@ soumises par son président, le ministre chargé de la recherche et le ministre
 chargé de l'agriculture.
 
 En ce qui concerne les matières énumérées aux 5°, 8° et 11°, le conseil peut
-déléguer une partie de ses pouvoirs à son président. Celui-ci rend compte lors
-de sa plus prochaine séance des décisions qu'il a prises en vertu de cette
+déléguer une partie de ses pouvoirs au directeur général. Celui-ci rend compte
+lors de sa plus prochaine séance des décisions qu'il a prises en vertu de cette
 délégation.
