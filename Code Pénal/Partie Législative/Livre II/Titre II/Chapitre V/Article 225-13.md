@@ -1,6 +1,7 @@
 Article 225-13
 ----
-Le fait d'obtenir d'une personne, en abusant de sa vulnérabilité ou de sa
-situation de dépendance, la fourniture de services non rétribués ou en échange
-d'une rétribution manifestement sans rapport avec l'importance du travail
-accompli est puni de deux ans d'emprisonnement et de 75000 euros d'amende.
+Le fait d'obtenir d'une personne, dont la vulnérabilité ou l'état de dépendance
+sont apparents ou connus de l'auteur, la fourniture de services non rétribués ou
+en échange d'une rétribution manifestement sans rapport avec l'importance du
+travail accompli est puni de cinq ans d'emprisonnement et de 150 000 Euros
+d'amende.

@@ -18,6 +18,10 @@ enquête préliminaire ;
 habilités à effectuer des contrôles routiers en application des dispositions du
 présent code ;
 
+5° bis Aux agents de police judiciaire adjoints et aux gardes champêtres, aux
+seules fins d'identifier les auteurs des infractions au présent code qu'ils sont
+habilités à constater ;
+
 6° Aux autorités administratives civiles ou militaires pour les personnes
 employées ou susceptibles d'être employées comme conducteur de véhicule à moteur
 ;

@@ -11,9 +11,10 @@ commission ;
 
 3° Les inspecteurs généraux, les sous-directeurs de police active, les
 contrôleurs généraux, les commissaires de police ; les fonctionnaires titulaires
-du corps de commandement et d'encadrement de la police nationale, nominativement
-désignés par arrêté des ministres de la justice et de l'intérieur, après avis
-conforme d'une commission ;
+du corps de commandement et d'encadrement de la police nationale, et les
+fonctionnaires stagiaires du corps de commandement et d'encadrement déjà
+titulaires de cette qualité nominativement désignés par arrêté des ministres de
+la justice et de l'intérieur, après avis conforme d'une commission ;
 
 4° Les fonctionnaires du corps de maîtrise et d'application de la police
 nationale comptant au moins trois ans de services dans ce corps, nominativement

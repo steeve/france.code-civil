@@ -1,8 +1,8 @@
 Article 225-20
 ----
-Les personnes physiques coupables des infractions prévues par les sections 2 et
-2 bis du présent chapitre encourent également les peines complémentaires
-suivantes :
+Les personnes physiques coupables des infractions prévues par les sections 1
+bis, 2, 2 bis et 2 ter du présent chapitre encourent également les peines
+complémentaires suivantes :
 
 1° L'interdiction des droits civiques, civils et de famille, suivant les
 modalités prévues par l'article 131-26 ;

@@ -14,6 +14,11 @@ procureur de la République les sévices qu'il a constatés dans l'exercice de s
 profession et qui lui permettent de présumer que des violences sexuelles de
 toute nature ont été commises.
 
+3° Aux professionnels de la santé ou de l'action sociale qui informent le préfet
+et, à Paris, le préfet de police du caractère dangereux pour elles-mêmes ou pour
+autrui des personnes qui les consultent et dont ils savent qu'elles détiennent
+une arme ou qu'elles ont manifesté leur intention d'en acquérir une.
+
 Aucune sanction disciplinaire ne peut être prononcée du fait du signalement de
 sévices par le médecin aux autorités compétentes dans les conditions prévues au
 présent article.

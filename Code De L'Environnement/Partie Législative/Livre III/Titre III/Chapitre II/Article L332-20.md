@@ -22,6 +22,8 @@ dans l'étendue des circonscriptions pour lesquelles ils sont assermentés ;
 national de la chasse et de la faune sauvage et du Conseil supérieur de la pêche
 ;
 
+4° bis Les gardes champêtres ;
+
 5° Lorsque les mesures de protection portent sur le domaine public maritime ou
 les eaux territoriales, les agents habilités par le décret du 9 janvier 1852 sur
 l'exercice de la pêche maritime à constater les infractions à la réglementation

@@ -29,3 +29,7 @@ les lois organiques ou spéciales qui leur sont propres ;
 
 De constater par procès-verbal les contraventions aux dispositions du code de la
 route dont la liste est fixée par décret en Conseil d'Etat.
+
+Lorsqu'ils constatent une infraction par procès-verbal, les agents de police
+judiciaire adjoints peuvent recueillir les éventuelles observations du
+contrevenant.

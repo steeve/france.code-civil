@@ -4,10 +4,7 @@ Toute personne placée en garde à vue est immédiatement informée par un offic
 de police judiciaire, ou, sous le contrôle de celui-ci, par un agent de police
 judiciaire, de la nature de l'infraction sur laquelle porte l'enquête, des
 droits mentionnés aux articles 63-2, 63-3 et 63-4 ainsi que des dispositions
-relatives à la durée de la garde à vue prévues par l'article 63. La personne
-gardée à vue est également immédiatement informée qu'elle a le choix de faire
-des déclarations, de répondre aux questions qui lui seront posées ou de se
-taire.
+relatives à la durée de la garde à vue prévues par l'article 63.
 
 Mention de cet avis est portée au procès-verbal et émargée par la personne
 gardée à vue ; en cas de refus d'émargement, il en est fait mention.

@@ -3,8 +3,8 @@ Article 78-2
 Les officiers de police judiciaire et, sur l'ordre et sous la responsabilité de
 ceux-ci, les agents de police judiciaire et agents de police judiciaire adjoints
 mentionnés aux articles 20 et 21-1° peuvent inviter à justifier, par tout moyen,
-de son identité toute personne à l'égard de laquelle existe un indice faisant
-présumer :
+de son identité toute personne à l'égard de laquelle existe une ou plusieurs
+raisons plausibles de soupçonner :
 
 - qu'elle a commis ou tenté de commettre une infraction ;
 

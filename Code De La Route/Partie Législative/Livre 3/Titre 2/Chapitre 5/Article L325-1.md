@@ -7,12 +7,17 @@ sécurité ou le droit à réparation des usagers de la route, la tranquillité 
 l'hygiène publique, l'esthétique des sites et des paysages classés, la
 conservation ou l'utilisation normale des voies ouvertes à la circulation
 publique et de leurs dépendances, notamment par les véhicules de transport en
-commun, peuvent, dans les cas et conditions précisés par le décret prévu aux
-articles L. 325-3 et L. 325-11, être immobilisés, mis en fourrière, retirés de
-la circulation et, le cas échéant, aliénés ou livrés à la destruction.
+commun, peuvent à la demande et sous la responsabilité du maire ou de l'officier
+de police judiciaire territorialement compétent, même sans l'accord du
+propriétaire du véhicule, dans les cas et conditions précisés par le décret
+prévu aux articles L. 325-3 et L. 325-11, être immobilisés, mis en fourrière,
+retirés de la circulation et, le cas échéant, aliénés ou livrés à la
+destruction.
 
-Peuvent également être immobilisés, mis en fourrière, retirés de la circulation
-et, le cas échéant, aliénés ou livrés à la destruction les véhicules qui, se
-trouvant sur les voies ouvertes à la circulation publique ou sur leurs
+Peuvent également, à la demande et sous la responsabilité du maire ou de
+l'officier de police judiciaire territorialement compétent, même sans l'accord
+du propriétaire du véhicule, être immobilisés, mis en fourrière, retirés de la
+circulation et, le cas échéant, aliénés ou livrés à la destruction les véhicules
+qui, se trouvant sur les voies ouvertes à la circulation publique ou sur leurs
 dépendances, sont privés d'éléments indispensables à leur utilisation normale et
 insusceptibles de réparation immédiate à la suite de dégradations ou de vols.

@@ -16,5 +16,8 @@ relative à l'enfance délinquante ;
 2° La peine de jours-amende dans les conditions fixées aux articles 131-5 et
 131-25 du code pénal.
 
+3° La confiscation de la chose qui a servi ou était destinée à commettre
+l'infraction.
+
 III. - L'immobilisation peut être prescrite, dans les conditions prévues aux
 articles L. 325-1 à L. 325-3.

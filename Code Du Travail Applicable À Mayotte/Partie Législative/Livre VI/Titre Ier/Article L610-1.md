@@ -10,7 +10,8 @@ ces dispositions.
 
 Ils constatent, en outre, les infractions aux dispositions de protection sociale
 concernant les accidents du travail et les maladies professionnelles du régime
-en vigueur dans la collectivité départementale de Mayotte.
+en vigueur dans la collectivité départementale de Mayotte ainsi que les
+infractions prévues par les articles 225-13 à 225-16-1 du code pénal.
 
 Dans les cas expressément prévus par la loi ou le règlement, ces attributions
 peuvent être exercées par des fonctionnaires de contrôle assimilés.
