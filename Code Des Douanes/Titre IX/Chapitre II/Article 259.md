@@ -1,21 +1,16 @@
 Article 259
 ----
-1. En cas d'événements exceptionnels ayant pour effet d'interrompre
-temporairement les relations maritimes réservées au pavillon français, le
-Gouvernement peut suspendre par décret pris en conseil des ministres et pendant
-tout le temps que dure cette interruption, l'application de l'article 257
-ci-dessus.
+En cas d'événements exceptionnels ayant pour effet d'interrompre temporairement
+les relations maritimes réservées aux navires exploités par des armateurs
+ressortissants d'un Etat membre de la Communauté européenne ou d'un Etat partie
+à l'accord sur l'Espace économique européen, immatriculés dans un Etat membre de
+la Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace
+économique européen et battant pavillon de ce même Etat, le Gouvernement peut
+suspendre par décret délibéré en conseil des ministres après avis du Conseil
+d'Etat, et pendant tout le temps que dure cette interruption, l'application de
+l'article 257 et autoriser ainsi les navires battant pavillon d'un Etat autre
+que ceux précités à effectuer des transports entre les ports de la France
+métropolitaine.
 
-2. Il peut également, dans la même forme et durant la même période, admettre
-exceptionnellement au bénéfice de leur origine les produits qui, par suite de
-l'interruption des relations normales, ne peuvent être importés dans les
-conditions réglementaires. Le bénéfice de ce régime est réservé aux seuls
-produits accompagnés d'un certificat d'origine, dans les conditions fixées par
-l'administration des douanes.
-
-3. Le retour au régime normal est prononcé dans la même forme aussitôt que les
+Le retour au régime normal est prononcé dans la même forme aussitôt que les
 circonstances le permettent.
-
-4. Restent admissibles au bénéfice de leur origine les marchandises en cours de
-route qui sont justifiées avoir été expédiées avant la publication du décret au
-Journal officiel.

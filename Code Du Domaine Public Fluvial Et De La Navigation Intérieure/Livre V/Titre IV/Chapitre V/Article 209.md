@@ -1,25 +1,35 @@
 Article 209
 ----
-Les infractions aux dispositions du présent titre ou à celles des arrêtés
-d'application, à l'exception des infractions aux ordres de réquisition dont les
-sanctions sont prononcées dans les conditions définies au dernier alinéa de
-l'article 204, sont punies d'une amende de 900 F et, en cas de récidive, de 9000
-F. Les chiffres ci-dessus sont quadruplés lorsqu'il s'agit de contraventions aux
-prescriptions des articles 200 à 204, dernier alinéa excepté, du présent
-chapitre, ou aux dispositions réglementaires prises pour l'application de ces
-articles. Toutefois, les contrevenants auront la faculté de se libérer par le
-versement immédiat entre les mains de l'agent verbalisateur de la moitié du
-minimum de l'amende ainsi fixée.
+Est puni d'une amende de 100000 F le fait pour tout prestataire de transport
+public de marchandises par voie navigable, auxiliaire de transport ou loueur de
+bateaux de marchandises avec équipage, d'offrir ou de pratiquer un prix
+inférieur au coût de la prestation qui ne permet pas de couvrir les charges
+entraînées par les obligations légales et réglementaires, notamment en matière
+sociale et de sécurité, ainsi que les charges de carburant et d'entretien, les
+amortissements ou les loyers des bateaux, les frais de péage, les frais de
+documents de transport, les timbres fiscaux et, pour les entreprises
+unipersonnelles, la rémunération du chef d'entreprise.
 
-Les infractions sont constatées par les fonctionnaires et agents visés à
-l'article 208 ci-dessus. Les procès-verbaux sont dispensés de l'affirmation.
+Les personnes morales peuvent être déclarées pénalement responsables, dans les
+conditions prévues par l'article 121-2 du code pénal, de l'infraction prévue au
+présent article.
 
-En plus des sanctions pénales indiquées ci-dessus, toute infraction peut donner
-lieu à l'arrêt du bateau ou du remorqueur ayant servi à commettre l'infraction
-pour une durée de huit jours à un mois, ou à sa réquisition d'usage gratuite
-pour la même durée. En cas de nouvelle infraction, ces durées peuvent être
-triplées.
+La peine encourue par les personnes morales est l'amende suivant les modalités
+prévues à l'article 131-38 du code pénal.
 
-Les sanctions prévues à l'alinéa ci-dessus sont prononcées par le directeur des
-Voies navigables de France. Elles peuvent faire l'objet, devant le ministre de
-l'équipement et du logement, d'un appel qui n'est pas suspensif.
+Les infractions sont recherchées et constatées dans les conditions prévues aux
+articles 45 (premier et troisième alinéas), 46, 47, 51 et 52 de l'ordonnance n°
+86-1243 du 1er décembre 1986 relative à la liberté des prix et de la
+concurrence. Le procureur de la République est préalablement avisé des
+opérations envisagées. Les procès-verbaux qui font foi jusqu'à preuve du
+contraire lui sont transmis sans délai. Copie en est adressée à l'intéressé.
+
+Le transporteur public de marchandises par voie navigable, l'auxiliaire de
+transport ou le loueur de bateaux de marchandises avec équipage évincé en raison
+d'un prix trop bas, la Chambre nationale de la battellerie artisanale, les
+organisations professionnelles de transporteurs par voie navigable,
+d'auxiliaires de transport et de loueurs de bateaux de marchandises avec
+équipage, représentatives au niveau national, peuvent se porter partie civile.
+
+L'action est prescrite dans un délai d'un an à compter de la date de fin
+d'exécution du contrat.
