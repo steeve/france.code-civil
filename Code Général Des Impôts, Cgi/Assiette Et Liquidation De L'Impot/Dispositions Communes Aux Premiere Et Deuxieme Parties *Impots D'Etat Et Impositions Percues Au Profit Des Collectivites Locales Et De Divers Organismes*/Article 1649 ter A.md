@@ -7,6 +7,6 @@ astreintes à la tenue d'une comptabilité-matières qui doit être représenté
 tout agent de la direction générale des impôts.
 
 Les conditions d'application des dispositions du présent article sont fixées par
-règlement d'administration publique (1).
+décret en Conseil d'Etat (1).
 
-1) Annexe I, art. 310 decies.
+(1) Annexe I, art. 310 decies.

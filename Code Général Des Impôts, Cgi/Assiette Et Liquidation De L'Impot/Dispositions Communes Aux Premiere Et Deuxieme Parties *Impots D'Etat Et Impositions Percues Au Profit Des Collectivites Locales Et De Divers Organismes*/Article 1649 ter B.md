@@ -6,6 +6,7 @@ définies par un arrêté du ministre de l'économie et des finances et du minis
 de l'équipement et du logement.
 
 Les conditions d'application des dispositions du présent article sont fixées par
-règlement d'administration publique (1).
+décret en Conseil d'Etat (1).
 
-1) Annexe I, art. 310 quinquies à 310 terdecies et 325.
+(1) Annexe I, art. 310 quinquies à 310 octies et 310 decies à 310 terdecies, et
+livre des procédures fiscales, art. R. 24-1 et R. 213-3.
