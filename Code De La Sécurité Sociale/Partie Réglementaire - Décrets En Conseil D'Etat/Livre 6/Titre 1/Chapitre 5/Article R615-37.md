@@ -16,16 +16,28 @@ laboratoire d'analyses médicales ou du fournisseur ;
 d'un appareil ou d'une installation soumis au régime de l'agrément de l'article
 R. 162-53 ;
 
-5°) l'attestation de la prestation de l'acte par le praticien, l'auxiliaire
-médical ou le directeur de laboratoire comportant le numéro de code de l'acte
-figurant à la nomenclature générale des actes professionnels ou à la
-nomenclature des actes de biologie médicale.
+5° L'attestation de la prestation de l'acte par le praticien, l'auxiliaire
+médical ou le directeur de laboratoire ;.
 
 6°) la mention de la délivrance de prescriptions écrites s'il y a lieu ;
 
 7°) le montant des honoraires payés par l'assuré et, s'il y a lieu, le montant
 de la facture du pharmacien, du laboratoire ou du fournisseur ainsi que
 l'indication de leur acquit.
+
+8° Le numéro de code selon les cas :
+
+a) De l'acte figurant à la nomenclature mentionnée à l'article R. 162-52 ;
+
+b) De l'acte figurant à la nomenclature mentionnée à l'article R. 162-18 ;
+
+c) Des fournitures et appareils inscrits sur la liste ou nomenclature mentionnée
+au 1° de l'article R. 165-1 ;
+
+d) Des médicaments spécialisés mentionnés à l'article L. 162-17 ;
+
+e) Des produits sanguins labiles mentionnés à l'article L. 666-9 du code de la
+santé publique.
 
 Les feuilles de soins sont envoyées à l'organisme d'affiliation de l'assuré dans
 les trente jours suivant l'expiration de leur période de validité.
