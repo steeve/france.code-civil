@@ -17,7 +17,7 @@ c) Une méthode de diagnostic ex vivo.
 Les brevets de ces produits, procédés ou méthodes de diagnostic ne peuvent être
 soumis au régime de la licence d'office dans l'intérêt de la santé publique que
 lorsque ces produits, ou des produits issus de ces procédés, ou ces méthodes
-sont mis à la disposition du public en quantité et qualité insuffisantes ou à
+sont mis à la disposition du public en quantité ou qualité insuffisantes ou à
 des prix anormalement élevés, ou lorsque le brevet est exploité dans des
 conditions contraires à l'intérêt de la santé publique ou constitutives de
 pratiques déclarées anticoncurrentielles à la suite d'une décision

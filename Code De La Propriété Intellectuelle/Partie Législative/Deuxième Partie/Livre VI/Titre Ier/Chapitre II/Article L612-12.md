@@ -10,7 +10,7 @@ Est rejetée, en tout ou partie, toute demande de brevet :
 contenu de la description de la demande initiale ;
 
 4° Qui a pour objet une invention manifestement non brevetable en application
-des articles L. 611-17 à L. 611-20 ;
+des articles L. 611-17, L. 611-18 et L. 611-19 ;
 
 5° Dont l'objet ne peut manifestement être considéré comme une invention au sens
 de l'article L. 611-10, deuxième paragraphe, ou comme une invention susceptible
@@ -32,5 +32,5 @@ Si les motifs de rejet n'affectent la demande de brevet qu'en partie, seules les
 revendications correspondantes sont rejetées.
 
 En cas de non-conformité partielle de la demande aux dispositions des articles
-L. 611-17 et L611-18 ou de l'article L. 612-1, il est procédé d'office à la
-suppression des parties correspondantes de la description et des dessins.
+L. 611-17 et L. 611-18 ou L. 612-1, il est procédé d'office à la suppression des
+parties correspondantes de la description et des dessins.

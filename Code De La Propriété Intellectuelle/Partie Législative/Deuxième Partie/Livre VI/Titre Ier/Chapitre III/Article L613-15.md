@@ -10,7 +10,7 @@ brevet antérieur dont un tiers est titulaire, le tribunal de grande instance
 peut lui accorder une licence d'exploitation du brevet antérieur dans la mesure
 nécessaire à l'exploitation du brevet dont il est titulaire et pour autant que
 cette invention constitue à l'égard du brevet antérieur un progrès technique
-important et présente un intérêt économique certain.
+important et présente un intérêt économique considérable.
 
 La licence accordée au titulaire du brevet postérieur ne peut être transmise
 qu'avec ledit brevet.
