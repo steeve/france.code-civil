@@ -3,7 +3,7 @@ Article L742-1
 La faculté de s'assurer volontairement, pour les risques invalidité et
 vieillesse, est accordée aux personnes qui, ayant été affiliées obligatoirement
 pendant une durée déterminée, cessent de remplir les conditions de l'assurance
-obligatoire [*bénéficiaires*].
+obligatoire.
 
 La même faculté est accordée, pour les mêmes risques, aux personnes qui, sans
 recevoir de rémunération, remplissent effectivement les fonctions et obligations
@@ -15,7 +15,7 @@ tierce personne, dans des conditions fixées par décret en Conseil d'Etat.
 Il en est de même pour le risque vieillesse en ce qui concerne :
 
 1°) les personnes de nationalité française salariées ou assimilées travaillant
-hors du territoire français [*à l'étranger*] ;
+hors du territoire français;
 
 2°) Le parent ou le parent chargé de famille résidant en France ainsi que le
 parent ou le parent chargé de famille de nationalité française, résidant hors du

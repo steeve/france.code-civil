@@ -1,32 +1,16 @@
 Article A40
 ----
-L'indemnité mensuelle allouée aux médecins rapporteurs des commissions
-départementales des soins gratuits est fixée aux sommes indiquées ci-dessous
-[*montant*] :
+Les médecins rapporteurs des commissions contentieuses des soins gratuits
+perçoivent une indemnité mensuelle versée au titre du mois au cours duquel s'est
+tenue la séance de la commission, dont le montant varie en fonction du nombre de
+dossiers examinés pendant la séance, cette indemnité correspondant à l'ensemble
+des attributions leur étant dévolues par le présent code, sans préjudice des
+frais de déplacement et de séjour auxquels ils sont, le cas échéant, exposés au
+cours de l'instruction des dossiers. Le montant de l'indemnité mensuelle est
+fixé ainsi qu'il suit, pour une séance au cours de laquelle ont été examinés :
 
-Indemnité de 99,60 F : Lozère, Hautes-Alpes, Alpes-de-Haute-Provence, territoire
-de Belfort, Ariège, Lot, Creuse, Cantal, Haute-Corse, Corse-du-Sud, Gers,
-Tarn-et-Garonne, Haute-Saône, Haute-Loire, Haute-Marne, Meuse, Hautes-Pyrénées,
-Jura, Corrèze, Mayenne et Nièvre ;
+- jusqu'à 10 dossiers : 457,35 euros ;
 
-Indemnité de 112,70 F : Indre, Ardèche, Loir-et-Cher, Aube, Landes, Yonne,
-Savoie, Aude, Pyrénées-Orientales, Orne, Lot-et-Garonne, Eure-et-Loir, Aveyron,
-Cher, Ardennes, Deux-Sèvres, Drôme, Vienne, Tarn, Vaucluse, Charente,
-Haute-Vienne, Ain, Haute-Savoie, Eure, Dordogne, Vosges, Allier, Côte-d'Or,
-Loiret, Vendée, Indre-et-Loire, Doubs et Manche ;
+- de 11 à 20 dossiers : 762,25 euros ;
 
-Indemnité de 135,10 F : Sarthe, Marne, Gard, Charente-Maritime,
-Pyrénées-Atlantiques, Calvados, Somme, Côtes-d'Armor, Oise, Var, Aisne,
-Puy-de-Dôme, Morbihan, Saône-et-Loire, Val-d'Oise, Seine-et-Marne, Hérault,
-Haut-Rhin, Maine-et-Loire, Essonne, Ille-et-Vilaine, Haute-Garonne et
-Alpes-Maritimes ;
-
-Indemnité de 163,20 F : Meurthe-et-Moselle, Loire, Finistère, Yvelines, Isère,
-Bas-Rhin, Loire-Atlantique, Gironde et Moselle ;
-
-Indemnité de 189,50 F : Seine-Maritime, Val-de-Marne, Seine-Saint-Denis, Rhône,
-Pas-de-Calais, Boûches-du-Rhône et Hauts-de-Seine ;
-
-Indemnité de 207,50 F : Nord ;
-
-Indemnité de 233,00 F : Paris.
+- plus de 20 dossiers : 914,69 euros.

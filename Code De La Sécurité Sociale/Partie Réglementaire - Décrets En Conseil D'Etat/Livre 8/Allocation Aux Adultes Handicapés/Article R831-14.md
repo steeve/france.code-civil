@@ -1,6 +1,6 @@
 Article R831-14
 ----
-L'allocation de logement est versée mensuellement , à terme échu dans les
+L'allocation de logement est versée mensuellement, à terme échu dans les
 conditions déterminées à l'article R. 553-1.
 
 Elle est calculée pour une période de douze mois débutant au 1er juillet de

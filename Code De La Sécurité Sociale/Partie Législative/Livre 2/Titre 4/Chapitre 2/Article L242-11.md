@@ -2,6 +2,8 @@ Article L242-11
 ----
 Les cotisations d'allocations familiales des employeurs et travailleurs
 indépendants sont calculées conformément aux dispositions de l'article L. 131-6.
+Les dispositions de l'article L. 652-3 sont applicables au recouvrement de ces
+cotisations par les organismes visés à l'article L. 213-1.
 
 Par dérogation aux dispositions ci-dessus, sont dispensés du versement de la
 cotisation les personnes justifiant d'un revenu professionnel inférieur à un

@@ -1,21 +1,24 @@
 Article L165-1
 ----
-Le remboursement par l'assurance maladie des dispositifs médicaux à usage
-individuel, des tissus et cellules issus du corps humain quel qu'en soit le
-degré de transformation et de leurs dérivés, des produits de santé autres que
-les médicaments visés à l'article L. 162-17 et des prestations de services et
-d'adaptation associées est subordonné à leur inscription sur une liste établie
-après avis d'une commission dont le secrétariat est assurée par l'Agence
-française de sécurité sanitaire des produits de santé. L'inscription est
-effectuée soit par la description générique de tout ou partie du produit
-concerné, soit sous forme de marque ou de nom commercial. L'inscription sur la
-liste peut elle-même être subordonnée au respect de spécifications techniques,
-d'indications thérapeutiques ou diagnostiques et de conditions particulières de
-prescription et d'utilisation.
+Les organismes d'assurance maladie, ainsi que les mutuelles, les institutions de
+prévoyance et les sociétés d'assurance, peuvent conclure des accords, à
+l'échelon local ou national, avec les distributeurs de dispositifs médicaux à
+usage individuel, notamment en ce qui concerne la qualité, les prix maximum
+pratiqués et les modalités de dispense d'avance de frais.
 
-Les conditions d'application du présent article, notamment les conditions
-d'inscription sur la liste, ainsi que la composition et le fonctionnement de la
-commission sont fixées par décret en Conseil d'Etat.
+Ces accords doivent comporter des dispositions adaptées à la situation des
+bénéficiaires du droit à la protection complémentaire en matière de santé. A ce
+titre, pour les dispositifs médicaux à usage individuel figurant sur la liste
+mentionnée au cinquième alinéa de l'article L. 861-3, ces accords prévoient soit
+l'obligation pour les distributeurs de proposer un dispositif à un prix
+n'excédant pas le montant des frais pris en charge défini par l'arrêté mentionné
+à l'article L. 861-3, soit le montant maximal pouvant être facturé aux
+bénéficiaires du droit à la protection complémentaire en matière de santé.
 
-La procédure et les conditions d'inscription peuvent être adaptées en fonction
-des dispositifs selon leur finalité et leur mode d'utilisation.
+En l'absence d'accord ou lorsque les dispositions de l'accord ne répondent pas
+aux conditions définies à l'alinéa précédent, un arrêté fixe les obligations
+mentionnées à l'alinéa précédent s'imposant aux distributeurs.
+
+Les dispositions du titre VI de l'ordonnance n° 86-1243 du 1er décembre 1986
+relative à la liberté des prix et de la concurrence sont applicables aux
+infractions prévues par cet arrêté.

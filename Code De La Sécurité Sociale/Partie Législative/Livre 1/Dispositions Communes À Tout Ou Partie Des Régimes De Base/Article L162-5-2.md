@@ -24,7 +24,10 @@ géographiques, des éléments qu'elle détermine.
 
 II. - L'annexe annuelle fixe également les tarifs des honoraires, rémunérations
 et frais accessoires dus aux médecins par les assurés sociaux en dehors des cas
-de dépassement autorisés par la ou les conventions.
+de dépassement autorisés par la ou les conventions. Ces tarifs ne peuvent donner
+lieu à dépassement pour les actes dispensés aux bénéficiaires du droit à la
+protection complémentaire en matière de santé, sauf en cas d'exigence
+particulière du patient.
 
 L'objectif prévisionnel d'évolution des dépenses médicales peut comprendre une
 provision pour revalorisation d'honoraires. Une revalorisation d'honoraires ne

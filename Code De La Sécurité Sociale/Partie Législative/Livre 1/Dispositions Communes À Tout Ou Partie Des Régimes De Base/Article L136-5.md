@@ -58,9 +58,14 @@ V. - Les règles édictées ci-dessus donnent lieu à application :
 
 1° Des dispositions de l'article L. 133-3 et des chapitres III et IV du titre IV
 du livre II dans leur rédaction publiée à la date de la publication de la
-dernière loi de financement de la sécurité sociale.
+dernière loi de financement de la sécurité sociale ;
 
-2° Des dispositions des articles 1034, 1035 et 1036 du chapitre V du titre II du
+2° Des dispositions de l'article L. 652-3 pour ce qui concerne le recouvrement,
+par les organismes visés à l'article L. 213-1, de la contribution prévue à
+l'article L. 136-3 et, par les caisses de mutualité sociale agricole, de la
+contribution prévue à l'article L. 136-4 ;
+
+3° Des dispositions des articles 1034, 1035 et 1036 du chapitre V du titre II du
 livre VII du code rural et du décret n° 79-707 du 8 août 1979 dans sa rédaction
 publiée à la date de la publication de la dernière loi de financement de la
 sécurité sociale.

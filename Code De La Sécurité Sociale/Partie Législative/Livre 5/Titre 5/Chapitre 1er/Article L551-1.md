@@ -1,11 +1,12 @@
 Article L551-1
 ----
 Le montant des prestations familiales est déterminé d'après des bases mensuelles
-de calcul fixées par décret, deux ou plusieurs fois par an, de façon à compenser
-totalement ou partiellement la charge que le ou les enfants représentent pour la
-famille.
+de calcul revalorisées par décret, une ou plusieurs fois par an, conformément à
+l'évolution des prix à la consommation hors tabac prévue dans le rapport
+économique, social et financier annexé à la loi de finances pour l'année civile
+à venir.
 
-Ces bases mensuelles de calcul évoluent en fonction de l'augmentation des prix
-et de la participation des familles aux progrès de l'économie. Elles peuvent
-aussi évoluer en fonction de la progression générale des salaires moyens ou du
-salaire minimum interprofessionnel de croissance.
+Si l'évolution constatée des prix à la consommation hors tabac est différente de
+celle qui avait été initialement prévue, il est procédé à un ajustement destiné
+à assurer, pour l'année civile suivante, une évolution des bases mensuelles
+conforme à l'évolution des prix à la consommation hors tabac.

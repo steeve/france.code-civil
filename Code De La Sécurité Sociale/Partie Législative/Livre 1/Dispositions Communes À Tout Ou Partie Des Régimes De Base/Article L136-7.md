@@ -64,15 +64,15 @@ montant de ces sommes ou valeurs et le montant des sommes versées dans le plan 
 
 8° Les répartitions de sommes ou valeurs effectuées par un fonds commun de
 placement à risques dans les conditions prévues aux I et II de l'article 163
-quinquies B du code général des impôts, les gains nets mentionnés à l'article 92
-G du même code ainsi que les distributions effectuées par les sociétés de
-capital-risque dans les conditions prévues au deuxième alinéa de l'article 163
-quinquies C du même code, lors de leur versement ;
+quinquies B du code général des impôts, les gains nets mentionnés au 1 du III de
+l'article 150-0 A du même code ainsi que les distributions effectuées par les
+sociétés de capital-risque dans les conditions prévues au deuxième alinéa de
+l'article 163 quinquies C du même code, lors de leur versement ;
 
 9° Les gains nets et les produits des placements en valeurs mobilières effectués
-en vertu d'un engagement d'épargne à long terme respectivement visés aux 5° de
-l'article 92 D et 16° de l'article 157 du code général des impôts, lors de
-l'expiration du contrat ;
+en vertu d'un engagement d'épargne à long terme respectivement visés aux 5 du
+III de l'article 150-0 A et 16° de l'article 157 du code général des impôts,
+lors de l'expiration du contrat ;
 
 10° Les revenus mentionnés au 5° de l'article 157 du code général des impôts
 procurés par les placements effectués dans le cadre d'un plan d'épargne en vue

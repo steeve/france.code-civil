@@ -16,4 +16,6 @@ l'article L. 651-10 ;
 l'article L. 134-1.
 
 6°) une fraction du produit des contributions sociales mentionnées aux articles
-L. 136-1, L. 136-6, L. 136-7, L. 136-7-1.
+L. 136-1, L. 136-6, L. 136-7, L. 136-7-1, et une fraction du produit des droits
+visé à l'article L. 139-1, à concurrence du montant correspondant à
+l'application des dispositions de l'article L. 139-2.

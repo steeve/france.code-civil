@@ -16,12 +16,12 @@ Conseil d'Etat :
 1°) au cas où la convention ou l'adhésion personnelle liant le praticien ou
 l'auxiliaire médical cesse d'avoir effet ;
 
-2°) en cas de cessation, par l'intéressé, de l'exercice non-salarié de sa
+2°) en cas de cessation, par l'intéressé, de l'exercice non salarié de sa
 profession ;
 
 3°) pendant la durée de toute sanction prononcée par la juridiction compétente à
 l'encontre de l'intéressé et comportant l'interdiction, pour une durée
 supérieure à trois mois, de donner des soins aux assurés sociaux.
 
-Les prestations ne sont accordées que si les cotisations échues ont été versées
-par l'assuré avant l'ouverture du risque.
+Les prestations en espèces ne sont accordées que si les cotisations échues ont
+été versées par l'assuré avant l'ouverture du risque.

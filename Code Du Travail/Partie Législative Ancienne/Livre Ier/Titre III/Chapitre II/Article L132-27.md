@@ -20,6 +20,11 @@ représentative dans le délai fixé à l'article L. 132-28 ci-après ; la deman
 négociation formulée par l'organisation syndicale est transmise dans les huit
 jours par l'employeur aux autres organisations représentatives.
 
-Dans les entreprises visées à l'alinéa précédent, comportant des établissements
-ou groupes d'établissements distincts, cette négociation peut avoir lieu au
-niveau de ces établissements ou groupes d'établissements.
+Dans les entreprises visées à l'alinéa précédent, lorsque les salariés ne sont
+pas couverts par un accord de branche ou par un accord d'entreprise définissant
+les modalités d'un régime de prévoyance maladie, l'employeur est tenu d'engager
+chaque année une négociation sur ce thème.
+
+Dans ces entreprises, comportant des établissements ou groupes d'établissements
+distincts, cette négociation peut avoir lieu au niveau de ces établissements ou
+groupes d'établissements.
