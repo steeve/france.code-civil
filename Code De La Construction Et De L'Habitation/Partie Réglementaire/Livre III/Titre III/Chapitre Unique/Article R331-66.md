@@ -7,29 +7,33 @@ celles qui acquièrent des logements existants et, le cas échéant, les
 améliorent.
 
 Sont assimilées à une acquisition immobilière la souscription ou l'acquisition
-de parts ou d'actions des sociétés régies par le livre II, titre 1er, chapitres
+de parts ou d'actions des sociétés régies par le livre II, titre Ier, chapitres
 II ou III du présent code (première partie).
 
 2° Les personnes physiques, propriétaires d'un logement et qui réalisent, dans
 ce logement, des travaux d'amélioration et des travaux destinés à réduire les
-dépenses d'énergie [*économies*].
+dépenses d'énergie.
 
-3° En ce qui concerne les opérations mentionnées au 5° de l'article R.331-63,
+3° En ce qui concerne les opérations mentionnées au 5° de l'article R. 331-63,
 les personnes qui bénéficient de l'aide personnalisée au logement au titre du
 prêt faisant l'objet du remboursement anticipé.
+
+Toutefois, les personnes physiques dont les revenus sont inférieurs aux plafonds
+de ressources mentionnés à l'article R. 312-3-1 ne peuvent bénéficier de ces
+prêts que si la garantie de l'Etat mentionnée au troisième alinéa de l'article
+L. 312-1 est accordée à ces derniers.
 
 Ces bénéficiaires doivent destiner le logement à leur résidence principale,
 c'est-à-dire l'occupation personnelle du logement au moins huit mois par an,
 soit par elles-mêmes, soit par leur conjoint, soit par leurs ascendants,
-descendants ou ceux de leur conjoint [*durée*].
+descendants ou ceux de leur conjoint.
 
 Cette occupation doit être effective dans le délai maximum d'un an suivant soit
-la déclaration d'achèvement des travaux,
-
-soit l'acquisition des logements si celle-ci est postérieure à ladite
-déclaration. Ce délai peut être porté à six ans lorsque le logement est destiné
-à être occupé par le bénéficiaire du prêt dès sa mise à la retraite ou dès son
-retour d'un département ou territoire d'outre-mer ou de l'étranger.
+la déclaration d'achèvement des travaux, soit l'acquisition des logements si
+celle-ci est postérieure à ladite déclaration. Ce délai peut être porté à six
+ans lorsque le logement est destiné à être occupé par le bénéficiaire du prêt
+dès sa mise à la retraite ou dès son retour d'un département ou territoire
+d'outre-mer ou de l'étranger.
 
 Toutefois, lorsque les bénéficiaires de prêts conventionnés ne peuvent plus,
 pour des raisons professionnelles ou familiales, destiner le logement à leur
@@ -38,11 +42,11 @@ fixées par arrêté conjoint du ministre chargé des finances et du ministre ch
 de la construction et de l'habitation.
 
 Les personnes physiques accédant à la propriété au moyen d'un prêt conventionné
-peuvent passé un contrat conforme à l'article 6 de la loi n° 89-475 du 10
+peuvent passer un contrat conforme à l'article 6 de la loi n° 89-475 du 10
 juillet 1989 relative à l'accueil par des particuliers à leur domicile, à titre
-onéreux, de personnes agées ou handicapées adultes.
+onéreux, de personnes âgées ou handicapées adultes.
 
 Peuvent également bénéficier de ces prêts : les syndicats de copropriétaires qui
 réalisent les travaux visés au 4° de l'article R. 331-63 dans des immeubles où
 les logements appartenant à des personnes physiques et à usage de résidence
-principale représentent la moitié au moins du total des voix [*condition*].
+principale représentent la moitié au moins du nombre total des voix.
