@@ -28,8 +28,3 @@ conditions définies par l'article 66 bis du code des douanes et par l'arrêté 
 directeur général des douanes et droits indirects en date du 5 septembre 1969
 modifié par l'arrêté du 23 décembre 1975 comme en matière de taxe sur la valeur
 ajoutée perçue à l'importation.
-
-Sur le montant des encaissements réalisés par les recettes des impôts et par les
-recettes des douanes au titre de la redevance sur l'édition des ouvrages de
-librairie il est effectué un prélèvement de 5 % pour frais d'assiette et de
-recouvrement.
