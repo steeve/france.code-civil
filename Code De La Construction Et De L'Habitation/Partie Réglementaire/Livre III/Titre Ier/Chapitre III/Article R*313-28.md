@@ -4,7 +4,7 @@ L'agrément des associations mentionnées à l'article R. 313-9 (2°, a) est ret
 si elles cessent de satisfaire à l'une des conditions mentionnées à l'article R.
 313-27.
 
-" Il en est de même pour les associations qui n'ont pas recueilli à la fin d'un
-exercice, au titre des versements mentionnés à l'article R. 313-25 a, un montant
-fixé par arrêté conjoint du ministre chargé de la construction et de
-l'habitation et du ministre chargé de l'économie. "
+Il en est de même pour les associations qui, au terme d'un exercice et au titre
+des versements mentionnés au a du premier alinéa de l'article R. 313-25-1, n'ont
+pas collecté une somme minimale fixée, par zone géographique, par arrêté
+conjoint des ministres chargés du logement et de l'économie.

@@ -10,18 +10,18 @@ Les parts ou actions souscrites ne peuvent être que celles :
 a) De sociétés habilitées à collecter les versements en application de l'article
 R. 313-9 (2. c) ;
 
-b) De sociétés immobilières, autres que celles régies par le livre II, titre
-Ier, chapitre I, II et III du présent code (1re partie), répondant aux
-conditions prévues à l'article R. 313-31 (2. b) et dont l'objet est la
-construction de logements locatifs ou l'acquisition en vue de l'amélioration de
-logements existants destinés à la location.
+b) Des sociétés immobilières, autres que celles régies par le livre II, titre
+Ier, chapitres Ier, II et III, du présent code (1re partie), répondant aux
+conditions prévues soit au b du premier alinéa de l'article R. 313-18, soit au
+2° du premier alinéa de l'article R. 313-31 lorsque leur objet est la
+réalisation des opérations prévues aux 1° et 2° du I de l'article R. 313-17 ;
 
 c) De sociétés immobilières autres que celles régies par le livre II, titre Ier,
 chapitre Ier, II et III du présent code (première partie), ayant pour objet la
 construction de logements locatifs ou l'acquisition en vue de l'amélioration de
 logements existants destinés à la location qui répondent aux conditions prévues
-à l'article R. 313-31 (2. bis) et qui bénéficient à cet effet des prêts prévus à
-l'article R. 331-1.
+au 2° bis du I de l'article R. 313-31 et qui bénéficient à cet effet des prêts
+prévus au 2° du I de l'article R. 313-17.
 
 Les acquisitions de titres sont assimilées à des souscriptions lorsque le cédant
 est un souscripteur et que le prix d'acquisition n'est pas supérieur au montant
