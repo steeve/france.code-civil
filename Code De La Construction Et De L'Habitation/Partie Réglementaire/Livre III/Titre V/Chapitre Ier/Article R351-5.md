@@ -4,16 +4,15 @@ Les ressources servant à déterminer le loyer minimum qui doit rester à la cha
 du bénéficiaire et le coéfficient de prise en charge, tels que définis à
 l'article R. 351-19, sont celles percues pendant l'année civile précédant la
 période prévue par l'article R.351-4 par le bénéficiaire son conjoint et les
-personnes vivant habituellement au foyer, sauf dans les cas mentionnés à
-l'article R. 351-7-2. Sont considérées comme vivant habituellement au foyer les
-personnes y ayant résidé plus de six mois [*durée*] au cours de ladite année
-civile et qui y résident encore au moment de la demande ou au début de la
-période de paiement. Les ressources prises en considération s'entendent du total
-des revenus nets catégoriels retenus pour l'établissement de l'impôt sur le
-revenu d'après le barème des revenus taxés à un taux proportionnel ou soumis à
-un prélèvement libératoire de l'impôt sur le revenu, ainsi que des revenus
-perçus hors de France ou versés par une organisation internationale et après
-application :
+personnes vivant habituellement au foyer. Sont considérées comme vivant
+habituellement au foyer les personnes y ayant résidé plus de six mois [*durée*]
+au cours de ladite année civile et qui y résident encore au moment de la demande
+ou au début de la période de paiement. Les ressources prises en considération
+s'entendent du total des revenus nets catégoriels retenus pour l'établissement
+de l'impôt sur le revenu d'après le barème des revenus taxés à un taux
+proportionnel ou soumis à un prélèvement libératoire de l'impôt sur le revenu,
+ainsi que des revenus perçus hors de France ou versés par une organisation
+internationale et après application :
 
 d'une déduction représentative des frais de garde des enfants à charge, dont le
 montant maximum est fixé par arrêté des ministres chargés du logement, du
