@@ -25,8 +25,7 @@ d'application s'étend au-delà du ressort d'un seul tribunal administratif ;
 juridiction d'un tribunal administratif ou d'un conseil du contentieux
 administratif ;
 
-7° Des litiges d'ordre administratif, autres que ceux relevant du contentieux
-local, nés dans le territoire des îles Wallis-et-Futuna ;
+7° Abrogé ;
 
 8° Des recours en interprétation et des recours en appréciation de légalité des
 actes dont le contentieux relève en premier et dernier ressort du Conseil d'Etat
