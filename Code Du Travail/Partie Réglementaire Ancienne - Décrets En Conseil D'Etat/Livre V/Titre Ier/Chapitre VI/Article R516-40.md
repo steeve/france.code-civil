@@ -11,9 +11,17 @@ sans délai et au plus tard dans les quinze jours du renvoi [*date limite*].
 Lorsqu'un conseiller prud'homme est empêché de siéger à l'audience de départage,
 il pourvoit lui-même à son remplacement par un conseiller prud'homme du même
 élément et appartenant, selon le cas, à sa section, à sa chambre ou à la
-formation de référé. Il avise immédiatement de ce remplacement le
-secrétariat-greffe. Devant le bureau de jugement, les remplacements ne peuvent
-avoir lieu que dans la limite d'un conseiller prud'homme de chaque élément.
+formation de référé.
+
+Lorsqu'il ne pourvoit pas lui-même à son remplacement, le président ou le
+vice-président relevant de sa section ou de sa chambre et de son élément
+pourvoit à ce remplacement dans les mêmes conditions.
+
+Le conseiller prud'homme ou, le cas échéant, le président ou le vice-président
+avise immédiatement de ce remplacement le secrètariat-greffe.
+
+Devant le bureau de jugement, les remplacements ne peuvent avoir lieu que dans
+la limite d'un conseiller prud'homme de chaque élément.
 
 Si, lors de l'audience de départage, la formation n'est pas réunie au complet,
 le juge départiteur, à l'issue des débats, statue seul quel que soit le nombre
