@@ -13,3 +13,7 @@ l'urbanisme et de l'habitation ;
 2° A des sociétés concessionnaires de services publics communaux à caractère
 industriel et commercial lorsque le contrat de concession est soumis à
 l'approbation du préfet.
+
+3° A des sociétés d'économie mixte sportives, constituées en application de
+l'article 9 de la loi n° 75-988 du 29 octobre 1975 relatives au développement de
+l'éducation physique et du sport.
