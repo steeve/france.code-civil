@@ -1,9 +1,9 @@
 Article 102 O
 ----
-Les plus-values ou moins-values réalisées par les caisses de crédit mutuel
-mentionnées à l'article 206-7 du code général des impôts lors de la cession
+Les plus-values ou moins-values réalisées par la caisse centrale et les caisses
+départementales et interdépartementales de crédit mutuel lors de la cession
 d'éléments d'actif immobilisé ou de titres de placement ne sont soumises à
-l'impôt que pour leur fraction acquise à compter du 1er janvier 1980 [*date*].
+l'impôt que pour leur fraction acquise à compter du 1er janvier 1980.
 
 Pour les titres cotés, cette fraction est calculée en retenant comme prix de
 revient leur cours moyen pendant le mois de décembre 1979.
