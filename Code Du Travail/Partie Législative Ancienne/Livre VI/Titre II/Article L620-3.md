@@ -7,21 +7,13 @@ prénoms de tous les salariés occupés dans l'établissement à quelque titre q
 soit. Ces mentions sont portées sur le registre au moment de l'embauchage. Les
 indications complémentaires qui doivent être mentionnées sur ce registre soit
 pour l'ensemble des salariés, soit pour certaines catégories seulement, sont
-définies par voie réglementaire. Le registre du personnel est tenu à la
-disposition des délégués du personnel et des fonctionnaires et agents chargés de
-veiller à l'application du présent code et du code de la sécurité sociale. Dans
-tous les lieux de travail dépendant des établissements mentionnés au premier
-alinéa, l'employeur est tenu de remettre ou de faire remettre immédiatement au
-salarié lors de son embauchage l'un des documents suivants :
+définies par voie réglementaire.
 
-1° Un extrait individuel du registre unique du personnel qu'il certifie conforme
-;
-
-2° Une attestation d'emploi issue d'un carnet à souches numérotées ;
-
-3° Un contrat de travail ou une lettre d'engagement ou tout autre document prévu
-par convention ou accord collectif de branche étendu, qu'il certifie conforme en
-attestant de la date d'embauche.
+Le registre du personnel est tenu à la disposition des délégués du personnel et
+des fonctionnaires et agents chargés de veiller à l'application du présent code
+et du code de la sécurité sociale. Dans tous les lieux de travail dépendant des
+établissements mentionnés à l'alinéa premier du présent article, l'employeur est
+tenu d'effectuer la déclaration prévue à l'article L. 320.
 
 Le document, remis dans les conditions déterminées à l'alinéa précédent et dont
 l'employeur est tenu de conserver un double, doit être produit immédiatement à

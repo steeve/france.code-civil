@@ -1,10 +1,6 @@
 Article R620-3-1
 ----
-L'extrait individuel du registre unique du personnel prévu au 1° du quatrième
-alinéa de l'article L. 620-3 comporte les mentions [*obligatoires*] suivantes :
-
-1° Dénomination sociale ou nom et prénom et adresse de l'employeur ;
-
-2° Nom et prénoms du salarié ;
-
-3° Les indications figurant à l'article R. 620-3.
+Les documents ou éléments prévus au troisième alinéa de l'article R. 320-4 et au
+troisième alinéa de l'article R. 320-5 doivent être produits à toute réquisition
+des services de contrôle mentionnés à l'article L. 324-12, tant que le premier
+bulletin de paie n'a pas été délivré au salarié.

@@ -13,10 +13,10 @@ déterminée :
 3° Les détenus libérés à l'issue d'une période minimale de détention ; sont
 toutefois exclus du bénéfice de cette disposition ceux qui ont été libérés après
 exécution d'une peine privative de liberté prononcée pour infraction aux
-dispositions des articles 334, 334-1, 335, 355, 462 du code pénal et L. 627 du
-code de la santé publique, sauf si cette dernière infraction a été commise
-pendant la minorité ainsi que ceux qui ont été condamnés à deux peines de
-réclusion criminelle ;
+dispositions aux articles 222-34 à 222-39, 224-5, 224-6 et 225-5 à 225-10 du
+code pénal, sauf si, s'agissant des infractions prévues par les articles 222-34
+à 222-39 précités, celles-ci ont été commises pendant la minorité ainsi que ceux
+qui ont été condamnés à deux peines de réclusion criminelle ;
 
 4° Certaines catégories de personnes en attente de réinsertion ou en instance de
 reclassement par application de l'article L. 122-32-1 du code du travail et se

@@ -5,5 +5,5 @@ révision des admissions à l'aide sociale et notamment les membres des conseils
 d'administration des centres communaux d'action sociale, ainsi que toutes
 personnes dont ces établissements utilisent le concours et les membres des
 commissions d'admission, sont tenus au secret professionnel [*obligatoire*] dans
-les termes de l'article 378 du code pénal et passibles des peines prévues audit
-article.
+les termes des articles 226-13 et 226-14 du code pénal et passibles des peines
+prévues audit article.

@@ -6,8 +6,8 @@ l'égard des établissements concernés, le contrôle mentionné aux articles L.
 formation professionnelle commissionnés à cet effet.
 
 Ces agents sont assermentés dans des conditions prévues par décret en Conseil
-d'Etat. Ils sont tenus au secret professionnel dans les termes de l'article 378
-du code pénal.
+d'Etat. Ils sont tenus au secret professionnel dans les termes des articles
+226-13 et 226-14 du code pénal.
 
 L'administration fiscale et les administrations qui financent des actions de
 formation sont tenues de leur communiquer les renseignements nécessaires à

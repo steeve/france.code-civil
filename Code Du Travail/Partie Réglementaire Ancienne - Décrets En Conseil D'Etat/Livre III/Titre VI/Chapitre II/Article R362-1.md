@@ -1,11 +1,28 @@
 Article R362-1
 ----
-Toute personne qui aura contrevenu aux dispositions du premier alinéa de
-l'article L. 320-1 ainsi qu'à l'arrêté pris pour son application sera punie de
-la peine d'amende prévue pour les contraventions de la 4e classe [*sanction
-pénale*].
+Est puni de la peine d'amende prévue pour les contraventions de la cinquième
+classe tout employeur qui aura omis de procéder à la déclaration préalable à
+l'embauche prévue à l'article L. 320 dans les conditions détterminées aux
+articles R. 320-1, R. 320-2 et R. 320-3.
 
-Sera punie de la même peine toute personne qui aura contrevenu aux dispositions
-de l'article L. 321-1-1 ou du 1° (b) de l'article L. 321-2 ou qui n'aura pas
-fourni les renseignements prévus aux articles R. 320-1, R. 321-1, R. 321-4 et R.
-321-6.
+Est puni de la peine d'amende prévue pour les contraventions de la quatrième
+classe le fait pour tout employeur :
+
+- de ne pas fournir au salarié, lors de son embauche, un document sur lequel
+sont reproduites les informations contenues dans la déclaration préalable à
+l'embauche le concernant ;
+
+- de ne pas présenter à toute réquisition des agents mentionnés à l'article L.
+324-12 l'accusé de réception prévu par l'article R. 320-4 ou, tant qu'il n'a pas
+reçu cet accusé de réception, de ne pas leur communiquer les éléments leur
+permettant de vérifier qu'il a procédé à la déclaration préalable d'embauche du
+salarié ;
+
+- de ne pas remettre sans délai au salarié le volet détachable prévu par le
+troisième alinéa de l'article R. 320-4 ou, à défaut, de ne pas délivrer au
+salarié de contrat écrit accompagné de la mention de l'organisme destinataire de
+la déclaration préalable d'embauche.
+
+En cas de récidive, les infractions aux dispositions de l'alinéa ci-dessus sont
+punies de la peine d'amende prévue pour les contraventions de la cinquième
+classe.
