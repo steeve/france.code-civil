@@ -1,11 +1,11 @@
 Article R52
 ----
-Chaque année [*périodicité*], dans la première quinzaine du mois de décembre et
-chaque fois qu'il est nécessaire, la commission départementale prévue à
-l'article L. 270 et l'office départemental des anciens combattants et victimes
-de guerre font respectivement parvenir au préfet les listes prévues aux sixième
-et huitième alinéas de l'article L. 81 ; le préfet les transmet
-aussit&lt;CB&gt;t au président du tribunal des pensions.
+Tous les trois ans, dans la première quinzaine du mois de décembre et chaque
+fois qu'il est nécessaire, la commission départementale prévue à l'article L.
+270 (1) et l'office départemental des anciens combattants et victimes de guerre
+font respectivement parvenir au préfet les listes prévues aux sixième et
+huitième alinéas de l'article L. 81 (2); le préfet les transmet aussitôt au
+président du tribunal des pensions.
 
 A l'effet de pouvoir procéder au tirage au sort sur des listes de vingt membres,
 notamment lorsqu'il y a plusieurs sections dans le département ou qu'un membre
