@@ -1,9 +1,9 @@
 Article L653-1
 ----
 I. - Dans le livre III du présent code, sont applicables à Mayotte les articles
-L. 310-1, L. 310-3, L. 321-1, L. 321-2, L. 321-8, L. 321-9, L. 322-1 à L.
-322-14, L. 331-1 à L. 331-4, L. 331-6 à L. 333-1, L. 333-3, L. 341-1 à L. 342-1,
-L. 350-1, L. 361-1, L. 361-2 et L. 364-1.
+L. 300-3, L. 310-1, L. 310-3, L. 321-1, L. 321-2, L. 321-8, L. 321-9, L. 322-1 à
+L. 322-14, L. 331-1 à L. 331-4, L. 331-6 à L. 333-1, L. 333-3, L. 341-1 à L.
+342-1, L. 350-1, L. 361-1, L. 361-2 et L. 364-1.
 
 II. - Pour l'application de l'article L. 310-1 à Mayotte, les mots : "dans
 chaque département" et "le département" sont remplacés respectivement par les
@@ -41,19 +41,15 @@ IX. - Pour l'application à Mayotte de l'article L. 341-19 :
 440-4 du code de l'urbanisme applicable à Mayotte" ;
 
 - les mots : "L. 480-1, L. 480-2, L. 480-3 et L. 480-5 à L. 480-9 du code de
-l'urbanisme" sont remplacés par les mots :
-
-"L. 440-1, L. 440-2, L. 440-3 et L. 440-5 à L. 440-9 du code de l'urbanisme
-applicable à Mayotte" ;
+l'urbanisme" sont remplacés par les mots : "L. 440-1, L. 440-2, L. 440-3 et L.
+440-5 à L. 440-9 du code de l'urbanisme applicable à Mayotte" ;
 
 - les mots : "L. 480-5 du code de l'urbanisme" sont remplacés par les mots : "L.
 440-5 du code de l'urbanisme applicable à Mayotte" ;
 
 - les mots : "L. 460-1 du code de l'urbanisme" sont remplacés par les mots : "L.
 430-1 du code de l'urbanisme applicable à Mayotte" ; les mots : "L. 480-12" sont
-remplacés par les mots :
-
-"L. 440-10".
+remplacés par les mots : "L. 440-10".
 
 X. - Pour l'application à Mayotte de l'article L. 341-20, après les mots :
 "322-2 du code pénal", sont insérés les mots : "modifié par l'article 724-1 du

@@ -92,7 +92,7 @@ Zones de protection des sites créées en application de l'article 17 de la loi 
 c) patrimoine architectural et urbain.
 
 Zones de protection du patrimoine architectural et urbain instituées en
-application de l'article 70 de la loi n° 83-8 du 7 janvier 1983.
+application des articles L. 642-1 et L. 642-2 du code du patrimoine.
 
 C. - Patrimoine sportif.
 

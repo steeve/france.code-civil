@@ -4,8 +4,8 @@ I. - Lorsque la construction se trouve dans un site classé ou en instance de
 classement, ou dans une zone de protection créée par décret en application des
 articles 17 ou 28 de la loi du 2 mai 1930, le permis de construire ne peut être
 délivré qu'avec l'accord exprès de l'autorité compétente en application du
-décret 88-1124 du 15 décembre 1988 , ou de l'autorité mentionnée dans le décret
-instituant la zone de protection.
+décret n° 88-1124 du 15 décembre 1988 (1), ou de l'autorité mentionnée dans le
+décret instituant la zone de protection.
 
 II. - Lorsque la construction se trouve dans une zone de protection du
 patrimoine architectural, urbain et paysager le permis de construire ne peut
@@ -16,10 +16,9 @@ instruction, sauf si l'architecte des bâtiments de France fait connaître dans 
 délai, par une décision motivée, à cette autorité, son intention d'utiliser un
 délai plus long qui ne peut, en tout état de cause, excéder quatre mois.
 
-En application du deuxième alinéa de l'article 71 de la loi du 7 janvier 1983
-relative à la répartition de compétences entre les communes, les départements,
-les régions et l'Etat, le préfet de région est saisi par lettre recommandée avec
-demande d'avis de réception soit :
+En application du deuxième alinéa de l'article L. 642-3 du code du patrimoine,
+le préfet de région est saisi par lettre recommandée avec demande d'avis de
+réception soit :
 
 a) Par le maire ou l'autorité compétente pour délivrer le permis de construire,
 dans le délai d'un mois à compter de la réception de l'avis émis par

@@ -24,10 +24,9 @@ envisagé est subordonné à l'avis ou à l'accord d'une autorité, d'un service
 d'une commission en application de la loi du 31 décembre 1913 sur les monuments
 historiques, de la loi du 2 mai 1930 sur la protection des monuments naturels et
 des sites, du chapitre III de la loi n° 76-629 du 10 juillet 1976 relative à la
-protection de la nature, ou de l'article 71 de la loi n°83-8 du 7 janvier 1983
-relative à la répartition de compétences entre les communes, les départements,
-les régions et l'Etat, l'autorité, le service ou la commission consulté peut
-faire connaître, par décision motivée, au service chargé de l'instruction de la
+protection de la nature, ou des articles L. 642-3 et L. 642-4 du code du
+patrimoine, l'autorité, le service ou la commission consulté peut faire
+connaître, par décision motivée, au service chargé de l'instruction de la
 demande son intention d'utiliser un délai plus long qui ne peut, en tout état de
 cause, excéder quatre mois.
 

@@ -1,4 +1,4 @@
 Article L1421-4
 ----
-- Le conseil général statue sur l'exercice du droit de préemption prévu par la
-législation sur les archives.
+Les règles relatives aux bibliothèques municipales sont fixées par les
+dispositions des articles L. 310-1 à L. 310-6 du code du patrimoine.

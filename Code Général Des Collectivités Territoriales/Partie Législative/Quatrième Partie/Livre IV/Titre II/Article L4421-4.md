@@ -1,10 +1,8 @@
 Article L4421-4
 ----
 Le conseil des sites de Corse exerce en Corse les attributions dévolues à la
-commission régionale du patrimoine et des sites prévue à l'article 1er de la loi
-n° 97-179 du 28 février 1997 relative à l'instruction des autorisations de
-travaux dans le champ de visibilité des édifices classés ou inscrits et dans les
-secteurs sauvegardés, à la commission spécialisée des unités touristiques
+commission régionale du patrimoine et des sites prévue à l'article L. 612-1 du
+code du patrimoine, à la commission spécialisée des unités touristiques
 nouvelles prévue par l'article 7 de la loi n° 85-30 du 9 janvier 1985 relative
 au développement et à la protection de la montagne et à la commission
 départementale des sites, perspectives et paysages prévue par l'article L.

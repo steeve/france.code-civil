@@ -12,6 +12,6 @@ plastiques, musicaux et cinématographiques.
 Chacune des régions concernées assure la mise en valeur et le développement du
 patrimoine spécifique de la région. La conservation du patrimoine sera définie
 et programmée dans le cadre des commissions régionales du patrimoine et des
-sites mis en place par la loi n° 97-179 du 28 février 1997, et dont la
+sites mis en place par l'article L. 612-1 du code du patrimoine, et dont la
 composition, dans les régions d'outre-mer concernées, est définie par un décret
 en Conseil d'Etat.

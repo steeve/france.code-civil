@@ -6,8 +6,8 @@ ou inscrit ou est protégé au titre des articles 4, 9, 17 ou 28 de la loi du 2
 mai 1930, sa démolition ne peut être ordonnée par le préfet en application de
 l'article L. 28 du code de la santé publique qu'après avis de l'architecte des
 bâtiments de France. Cet avis est réputé délivré en l'absence de réponse dans le
-délai de quinze jours [*silence*].
+délai de quinze jours.
 
 Il en est de même lorsque l'immeuble insalubre se situe dans une zone de
-protection créée conformément à l'article 70 de la loi n° 83-8 du 7 janvier
-1983.
+protection créée conformément aux articles L. 642-1 et L. 642-2 du code du
+patrimoine.

@@ -6,10 +6,9 @@ classé ou inscrit ou est protégé au titre des articles 4, 9, 17 ou 28 de la l
 du 2 mai 1930, sa réparation ou sa démolition ne peut être ordonnée par le maire
 conformément aux articles L. 511-1 et L. 511-2 du code de la construction et de
 l'habitation qu'après avis de l'architecte des bâtiments de France. Cet avis est
-réputé délivré en l'absence de réponse dans le délai de huit jours[*silence*].
-Il en est de même lorsque l'immeuble menacant ruine se situe dans une zone de
-protection créée conformément à l'article 70 de la loi n° 83-8 du 7 janvier
-1983.
+réputé délivré en l'absence de réponse dans le délai de huit jours. Il en est de
+même lorsque l'immeuble menacant ruine se situe dans une zone de protection
+créée conformément aux articles L. 642-1 et L. 642-2 du code du patrimoine.
 
 L'architecte des bâtiments de France est invité à assister à l'expertise prévue
 à l'article L. 511-2 du code de la construction et de l'habitation.

@@ -4,10 +4,9 @@ Lorsque le bâtiment se situe dans une zone de protection du patrimoine
 architectural, urbain et paysager la décision doit être conforme à l'avis de
 l'architecte des bâtiments de France.
 
-En application du deuxième alinéa de l'article 71 de la loi du 7 janvier 1983
-relative à la répartition de compétences entre les communes, les départements,
-les régions et l'Etat, le préfet de région est saisi par lettre recommandée avec
-demande d'avis de réception soit :
+En application du deuxième alinéa de l'article L. 642-3 du code du patrimoine,
+le préfet de région est saisi par lettre recommandée avec demande d'avis de
+réception soit :
 
 a) Par le maire ou l'autorité compétente pour délivrer le permis de démolir,
 dans un délai d'un mois à compter de la réception de l'avis émis par
