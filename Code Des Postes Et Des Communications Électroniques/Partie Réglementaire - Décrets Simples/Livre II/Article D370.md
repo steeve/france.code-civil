@@ -3,16 +3,17 @@ Article D370
 Les informations concernant les offres de liaisons louées, relatives aux
 caractéristiques techniques, aux tarifs et aux conditions de fourniture des
 liaisons, sont rendues publiques par l'exploitant public dans les conditions
-prévues par arrêté du ministre chargé des télécommunications. Cet arrêté précise
-également les modalités selon lesquelles l'exploitant public met à disposition
-du public les informations, établies par l'autorité réglementaire, concernant
-les conditions d'utilisation des liaisons, les procédures de déclaration ou
-d'autorisation ainsi que les conditions de connexion d'un équipement terminal
-aux liaisons louées.
+prévues par arrêté du ministre chargé des télécommunications.
 
-Les modifications des offres existantes sont rendues publiques par l'exploitant
-public dès que possible, et au plus tard dans les deux mois avant leur mise en
-oeuvre, sauf accord de l'autorité réglementaire sur un délai plus court.
+Les conditions d'utilisation des liaisons louées, les procédures de déclaration
+ou d'autorisation ainsi que les conditions de connexion d'un équipement terminal
+aux liaisons louées sont rendues publiques par l'Autorité de régulation des
+télécommunications.
 
-Les informations concernant les nouveaux types d'offre de liaisons louées sont
-publiées au plus tard deux mois avant la mise en oeuvre de l'offre.
+Les informations relatives à de nouvelles offres et les modifications tarifaires
+des offres existantes sont publiées par l'exploitant public en respectant un
+délai de préavis d'un mois.
+
+Les modifications des conditions matérielles d'utilisation des liaisons louées
+sont effectuées conformément au 2 de l'article 11 du cahier des charges annexé
+au décret n° 96-1225 du 27 décembre 1996.

@@ -16,15 +16,9 @@ temporaires ;
 moyennant le respect d'un délai de préavis raisonnable et, à défaut de respect
 de ce délai, les pénalités raisonnables éventuellement exigées ;
 
-- les principes et modalités d'indemnisation.
+- les modes de remboursement ou d'indemnisation.
 
 L'exploitant public rend publiques les statistiques relatives au délai de
 fourniture type et au temps de réparation type des liaisons louées, selon des
-modalités de calcul et une périodicité précisées par l'autorité réglementaire.
-
-Lorsqu'il est conduit à fournir, à la demande d'un utilisateur déterminé, une
-liaison louée correspondant à des caractéristiques particulières, l'exploitant
-public informe l'autorité réglementaire des conditions financières et techniques
-de cette offre. L'autorité réglementaire peut alors, en fonction de la demande
-du marché, demander à l'exploitant public de rendre publiques les conditions de
-fourniture de ces liaisons particulières.
+modalités de calcul et une périodicité précisées par arrêté du ministre chargé
+des télécommunications.

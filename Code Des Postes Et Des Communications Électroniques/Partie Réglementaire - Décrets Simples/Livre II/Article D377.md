@@ -5,7 +5,8 @@ coûts et sont fixés selon des règles tranparentes, conformément aux règles
 suivantes :
 
 - les tarifs des liaisons louées sont indépendants du type d'application que les
-utilisateurs de lignes louées mettent en oeuvre ;
+utilisateurs de lignes louées mettent en oeuvre sans préjudice du principe de
+non-discrimination ;
 
 - ils comportent une redevance initiale de connexion et une redevance périodique
 qui sont indiquées de façon distincte. Lorsque d'autres éléments de tarification
@@ -14,13 +15,35 @@ objectifs ;
 
 - les tarifs des liaisons louées s'appliquent aux prestations fournies à
 l'utilisateur entre les points de terminaison du réseau auxquels il a accès.
-Pour les liaisons louées internationales, des tarifs de demi-circuit peuvent
-être appliqués.
+Pour les liaisons fournies par plus d'un opérateur, dont l'exploitant public,
+des tarifs de demi-circuits peuvent être appliqués.
 
-Le système de comptabilisation des coûts des liaisons louées par l'exploitant
-public permet de vérifier le respect du principe de l'orientation des tarifs en
-fonction des coûts.
+Dans le cadre de la comptabilité prévu à l'article 18 du cahier des charges
+annexé au décret n° 96-1225 du 27 décembre 1996, les coûts des liaisons louées
+incluent :
 
-L'autorité réglementaire approuve ce système de comptabilisation et contrôle son
-application. Elle rend publics les principes de comptabilisation retenus et rend
-compte des vérifications auxquelles elle a procédé.
+a) Les coûts directs encourus pour l'établissement, l'exploitation et la
+maintenance des liaisons louées, ainsi que pour leur commercialisation et leur
+facturation ;
+
+b) Une contribution aux coûts communs, c'est-à-dire aux coûts qui ne peuvent
+être directement imputés ni aux liaisons louées ni à d'autres activités. Les
+coûts communs sont ventilés comme suit :
+
+Chaque fois que cela est possible, la ventilation est effectuée sur la base de
+l'analyse directe de l'origine des coûts ;
+
+Lorsqu'une analyse directe n'est pas possible, les coûts sont ventilés sur la
+base du lien indirect existant avec une autre catégorie ou un autre groupe de
+catégories de coûts pour lesquelles une attribution ou une ventilation directe
+est possible. Le lien indirect est fondé sur des structures de coûts comparables
+;
+
+A défaut, la ventilation est effectuée en fonction du rapport entre l'ensemble
+des coûts affectés aux liaisons louées selon les méthodes décrites au a et à l'
+du b ci-dessus, et l'ensemble des coûts affectés aux autres services, selon les
+mêmes méthodes.
+
+D'autres méthodes de comptabilisation des coûts des liaisons louées ne peuvent
+être appliquées qu'après accord de l'Autorité de régulation des
+télécommunications.
