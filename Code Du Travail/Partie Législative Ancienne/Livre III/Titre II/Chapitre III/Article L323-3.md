@@ -41,3 +41,8 @@ conditions prévues au 5° ci-dessus ;
 8° Les femmes d'invalides internés pour aliénation mentale imputable à un
 service de guerre, si elles bénéficient de l'article L. 124 du code des pensions
 militaires d'invalidité et des victimes de la guerre.
+
+9° Les titulaires d'une allocation ou d'une rente d'invalidité attribuée dans
+les conditions définies par la loi n° 91-1389 du 31 décembre 1991 relative à la
+protection sociale des sapeurs-pompiers volontaires en cas d'accident survenu ou
+de maladie contractée en service.
