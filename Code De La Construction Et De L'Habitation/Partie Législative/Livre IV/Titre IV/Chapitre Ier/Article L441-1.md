@@ -24,6 +24,11 @@ mentionnés à l'alinéa précédent, lors d'une mise en location initiale ou
 ultérieure. Lorsque ces conventions de réservation ne respectent pas les limites
 prévues au présent alinéa, elles sont nulles de plein droit.
 
+Il fixe les conditions dans lesquelles ces conventions de réservation sont
+conclues, en contrepartie d'un apport de terrain, d'un financement ou d'une
+garantie financière, accordés par une commune ou un établissement public de
+coopération intercommunale.
+
 Il détermine également les limites et conditions de réservation des logements
 par le représentant de l'Etat dans le département au profit des personnes
 prioritaires, notamment mal logées ou défavorisées.

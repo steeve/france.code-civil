@@ -5,6 +5,9 @@ coopération intercommunale pour tout ou partie d'une agglomération ou pour un
 ensemble de communes qui entendent par leur coopération répondre à des objectifs
 communs en matière d'habitat.
 
+Pour les communes de Paris, Marseille et Lyon, les maires d'arrondissement ou
+leurs représentants participent à l'élaboration du programme local de l'habitat.
+
 Le programme local de l'habitat définit, pour une durée au moins égale à cinq
 ans, les objectifs et les principes d'une politique visant à répondre aux
 besoins en logements et à favoriser la mixité sociale en assurant entre les

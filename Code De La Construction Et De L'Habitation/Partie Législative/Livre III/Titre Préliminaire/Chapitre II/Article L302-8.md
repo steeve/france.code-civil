@@ -1,61 +1,47 @@
 Article L302-8
 ----
-Les dispositions de l'article L. 302-7 ne sont pas applicables aux communes
-mentionnées à l'article L. 302-5 qui, au vu de leur programme local de l'habitat
-pour les engagements pris postérieurement au 31 décembre 1995, se sont engagées
-par délibération à mettre en oeuvre, dans un délai maximum de trois ans, les
-actions foncières et acquisitions immobilières nécessaires à la réalisation, sur
-le territoire de la commune, d'un nombre de logements sociaux qui, augmenté du
-nombre des logements de même nature commencés pendant la période triennale, doit
-être au moins égal, d'une part, à 1 p. 100 du nombre de résidences principales
-au sens du II de l'article 1411 du code général des impôts et, d'autre part, à 9
-p. 100 du nombre de logements construits sur la commune au cours des dix années
-qui ont précédé l'engagement.
+Le conseil municipal définit un objectif de réalisation de logements locatifs
+sociaux qui ne peut être inférieur au nombre de logements locatifs sociaux
+nécessaires pour atteindre 20 % du total des résidences principales.
 
-Les communes qui ont pris au cours de l'année 1995 l'engagement triennal
-mentionné ci-dessus et qui ne sont pas dotées d'un programme local de l'habitat
-au 1er juillet 1996 redeviennent à cette date redevables de la contribution
-prévue à l'article L. 302-7. Pour les communes d'Ile-de-France comptant moins de
-3 500 habitants qui ont pris l'engagement au cours de l'année 1999, cette date
-est portée au 1er janvier 2000.
+Toutefois, lorsqu'une commune appartient à une communauté urbaine, une
+communauté d'agglomération, une communauté d'agglomération nouvelle, une
+communauté de communes ou à un syndicat d'agglomération nouvelle compétents en
+matière de programme local de l'habitat, celui-ci fixe, de façon à favoriser la
+mixité sociale en assurant entre les communes une répartition équilibrée et
+diversifiée de l'offre de logements, l'objectif de réalisation de logements
+locatifs sociaux sur le territoire de la commune de manière à accroître la part
+de ces logements par rapport au nombre de résidences principales. L'objectif de
+réalisation de logements locatifs sociaux pour l'ensemble des communes de la
+communauté ne peut être inférieur au nombre total de logements locatifs sociaux
+dont la réalisation serait nécessaire, dans les communes soumises au prélèvement
+prévu par le premier alinéa de l'article L. 302-7, pour atteindre 20 % du total
+des résidences principales de ces communes, chacune de ces dernières devant se
+rapprocher de l'objectif de 20 %. Les communes non soumises à ce prélèvement ne
+peuvent se voir imposer la construction de logements sociaux supplémentaires
+sans leur accord.
 
-Sont considérés comme logements sociaux pour l'application du présent article :
+A Paris, Lyon et Marseille, le programme local de l'habitat fixe, de façon à
+favoriser la mixité sociale en assurant entre les arrondissements une
+répartition équilibrée et diversifiée de l'offre de logements, l'objectif de
+réalisation de logements sociaux sur le territoire de l'arrondissement de
+manière à accroître la part des logements par rapport au nombre de résidences
+principales.
 
-1° Les logements locatifs sociaux au sens du 3° de l'article L. 351-2 ;
+Les programmes locaux de l'habitat précisent l'échéancier et les conditions de
+réalisation, ainsi que la répartition équilibrée de la taille, des logements
+sociaux soit par des constructions neuves, soit par l'acquisition de bâtiments
+existants, par période triennale. Ils définissent également un plan de
+revalorisation de l'habitat locatif social existant, de façon à préserver
+partout la mixité sociale sans créer de nouvelles ségrégations. A défaut de
+programme local de l'habitat approuvé avant le 31 décembre 2001, la commune
+prend, sur son territoire, les dispositions nécessaires pour permettre la
+réalisation du nombre de logements locatifs sociaux prévus au premier alinéa
+ci-dessus.
 
-2° Les logements améliorés avec le concours financier de l'Agence nationale pour
-l'amélioration de l'habitat et faisant l'objet d'une convention conclue avec
-l'Etat en application de l'article L. 351-2 du présent code ;
-
-3° Les logements faisant l'objet d'un bail à réhabilitation en application des
-articles L. 252-1 et suivants du présent code ;
-
-4° Les logements-foyers dénommés résidences sociales.
-
-Les logements locatifs sociaux faisant l'objet d'un concours financier de l'Etat
-pour être mis à la disposition des personnes défavorisées mentionnées à
-l'article 1er de la loi n° 90-449 du 31 mai 1990 précitée et les logements
-mentionnés au 3° ci-dessus comptent double.
-
-Un même logement ne peut être décompté qu'une fois, soit au titre des actions
-foncières et acquisitions immobilières, soit au titre des logements commencés.
-
-Au cas où la commune n'a pas atteint ces objectifs au terme de la période
-considérée, elle est soumise pour cette période à la contribution prévue à
-l'article L. 302-7.
-
-Sont toutefois déduites de cette contribution les dépenses engagées par la
-commune au cours des trois années pour l'acquisition de terrains ou de locaux
-destinés à la réalisation de logements sociaux sur son territoire.
-
-Au cas où la commune dépasse ces objectifs au terme de la période considérée,
-l'excédent est comptabilisé au titre des réalisations de la période suivante.
-
-La période triennale commence le 1er janvier de l'année au cours de laquelle
-l'engagement est pris par le conseil municipal. Toutefois, si l'engagement a été
-pris avant le 1er janvier 1995, la période triennale commence le 1er janvier
-1995.
-
-Les actions foncières et acquisitions immobilières réalisées en 1994 et les
-logements commencés en 1993 et 1994 sont comptabilisés au titre des réalisations
-de la période triennale commençant le 1er janvier 1995.
+L'accroissement net du nombre de logements locatifs sociaux prévu pour chaque
+période triennale ne peut être inférieur à 15 % de la différence entre le nombre
+de logements sociaux correspondant à l'objectif fixé au premier ou, le cas
+échéant, au deuxième alinéa et le nombre de logements sociaux sur le territoire
+de la commune. Ces chiffres sont réévalués à l'issue de chaque période
+triennale.

@@ -8,8 +8,9 @@ sociaux, de la sauvegarde du droit des occupants et des objectifs du plan
 départemental d'action pour le logement des personnes défavorisées ainsi que,
 s'il existe, du programme local de l'habitat. Ces opérations donnent lieu à une
 convention entre la commune ou l'établissement public de coopération
-intercommunale compétent en matière d'habitat, l'Agence nationale pour
-l'amélioration de l'habitat et l'Etat.
+intercommunale compétent en matière d'habitat ou le syndicat mixte qui aurait
+reçu mandat de ces derniers, l'Agence nationale pour l'amélioration de l'habitat
+et l'Etat.
 
 Cette convention précise :
 

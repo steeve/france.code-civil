@@ -7,7 +7,7 @@ locatives dès lors qu'au cours du bail les ressources de l'ensemble des
 personnes vivant au foyer excèdent d'au moins 20 % les plafonds de ressources en
 vigueur pour l'attribution de ces logements. Ils doivent exiger le paiement d'un
 tel supplément dès lors qu'au cours du bail le dépassement du plafond de
-ressources est d'au moins 40 %.
+ressources est d'au moins 60 %.
 
 Les ressources sont appréciées selon les modalités applicables en matière
 d'attribution des logements. Toutefois, les dernières ressources connues de

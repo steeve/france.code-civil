@@ -7,24 +7,25 @@ installations et routes nouvelles ainsi que toutes extractions et tous
 affouillements.
 
 Peuvent être cependant autorisés les bâtiments à usage agricole, pastoral ou
-forestier, les refuges et gîtes d'étapes ouverts au public, les installations à
-caractère scientifique si aucune autre implantation n'est possible et les
-équipements d'accueil et de sécurité nécessaires à la pratique de la baignade ou
-des sports nautiques ainsi que les projets visés au 1° de l'article l. 111-1-2.
+forestier, les refuges et gîtes d'étapes ouverts au public pour la promenade et
+la randonnée, les installations à caractère scientifique si aucune autre
+implantation n'est possible et les équipements d'accueil et de sécurité
+nécessaires à la pratique de la baignade ou des sports nautiques ainsi que les
+projets visés au 1° de l'article l. 111-1-2.
 
-Lorsqu'un plan d'occupation des sols est établi, les dispositions du présent
-article peuvent être adaptées par ce document d'urbanisme pour permettre une
-extension mesurée des agglomérations ou l'ouverture d'un terrain de camping dans
-le respect du paysage et des caractéristiques propres à cet espace sensible.
+Lorsqu'un plan local d'urbanisme est établi, les dispositions du présent article
+peuvent être adaptées par ce document d'urbanisme pour permettre une extension
+mesurée des agglomérations ou l'ouverture d'un terrain de camping dans le
+respect du paysage et des caractéristiques propres à cet espace sensible.
 
-Lorsqu'un schéma directeur ou un schéma de secteur est établi pour l'ensemble
-des communes riveraines, ou un plan d'occupation des sols si le plan d'eau est
-situé à l'intérieur du territoire administratif d'une seule commune, les
-dispositions du présent article peuvent également être adaptées pour permettre
-la délimitation, à titre exceptionnel, de hameaux nouveaux intégrés à
+Lorsqu'un schéma de cohérence territorial ou un schéma de secteur est établi
+pour l'ensemble des communes riveraines, ou un plan local d'urbanisme si le plan
+d'eau est situé à l'intérieur du territoire administratif d'une seule commune,
+les dispositions du présent article peuvent également être adaptées pour
+permettre la délimitation, à titre exceptionnel, de hameaux nouveaux intégrés à
 l'environnement. En l'absence des directives territoriales d'aménagement visées
 à l'article L. 145-7, le schéma directeur ou le schéma de secteur est alors
-élaboré dans les conditions prévues au deuxième alinéa de l'article L. 122-1-2.
+élaboré dans les conditions prévues au deuxième alinéa de l'article L. 122-8.
 
 Les ministres chargés de l'urbanisme et de l'environnement peuvent, à titre
 exceptionnel, autoriser l'implantation, sur les rives d'un plan d'eau artificiel

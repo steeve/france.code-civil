@@ -1,29 +1,39 @@
 Article L1331-28
 ----
-Si l'avis du conseil départemental d'hygiène ou de la commission qui en tient
-lieu ou, éventuellement, celui du Conseil supérieur d'hygiène publique de France
-conclut à la réalité de l'insalubrité et à l'impossibilité d'y remédier, le
-représentant de l'Etat dans le département, dans le délai d'un mois :
+Si le conseil départemental d'hygiène ou, éventuellement, le Conseil supérieur
+d'hygiène publique de France conclut à l'impossibilité de remédier à
+l'insalubrité, le préfet prononce, dans le délai d'un mois, l'interdiction
+définitive d'habiter et d'utiliser les lieux, en précisant, sur l'avis du
+conseil départemental d'hygiène ou, éventuellement, du Conseil supérieur
+d'hygiène publique de France, si cette interdiction est d'effet immédiat ou
+applicable au plus tard à l'expiration d'un délai qu'il fixe et qui ne doit pas
+être supérieur à six mois.
 
-1° Prononce l'interdiction définitive d'habiter en précisant, sur l'avis du
-conseil départemental d'hygiène ou de la commission qui en tient lieu ou, le cas
-échéant, sur celui du Conseil supérieur d'hygiène publique de France, si cette
-interdiction est immédiate ou applicable au départ des occupants ;
+Il prescrit toutes mesures appropriées pour mettre les locaux situés dans
+l'immeuble hors d'état d'être utilisables au fur et à mesure de leur évacuation
+et du relogement ou de l'hébergement des occupants dans les conditions fixées
+aux articles L. 521-1 et suivants du code de la construction et de l'habitation.
 
-2° Prescrit toutes mesures appropriées pour mettre les locaux situés dans
-l'immeuble hors d'état d'être habitables au fur et à mesure de leur évacuation
-et du relogement décent des occupants.
+Il peut en outre faire procéder d'office aux mesures nécessaires pour empêcher
+toute utilisation des locaux.
 
 Il peut, le cas échéant, ordonner la démolition de l'immeuble.
 
-L'arrêté du représentant de l'Etat dans le département précise le délai
-d'exécution de ces mesures.
+Dans le cas où il est conclu à la possibilité de remédier à l'insalubrité, le
+préfet prescrit, dans le délai d'un mois, les mesures appropriées et leur délai
+d'exécution indiqués par l'avis du conseil départemental d'hygiène ou,
+éventuellement, du Conseil supérieur d'hygiène publique de France. Il peut
+prononcer l'interdiction temporaire d'habiter et d'utiliser les lieux. Cette
+interdiction prend fin à la date de l'affichage de l'arrêté pris en application
+de l'article L. 1331-28-3.
 
-Dans le cas où l'avis du conseil départemental d'hygiène ou de la commission qui
-en tient lieu ou, le cas échéant, du Conseil supérieur d'hygiène a conclu à la
-possibilité de remédier à l'insalubrité, le représentant de l'Etat dans le
-département prescrit dans le délai d'un mois, par arrêté les mesures appropriées
-indiquées par ces avis, ainsi que leur délai d'exécution ; il peut prononcer
-l'interdiction temporaire d'habiter. Cette interdiction d'habiter prend fin dès
-la constatation de l'exécution de ces mesures par le maire ou l'autorité
-sanitaire.
+La personne tenue d'exécuter les mesures visées à l'alinéa précédent peut se
+libérer de son obligation par la conclusion d'un bail à réhabilitation. Elle
+peut également conclure sur le bien concerné un bail emphytéotique ou un contrat
+de vente moyennant paiement d'une rente viagère, à charge pour les preneur ou
+débirentier d'exécuter les travaux prescrits. Les parties peuvent convenir que
+l'occupant restera dans les lieux lorsqu'il les occupait à la date de l'arrêté
+d'insalubrité.
+
+L'arrêté du préfet comporte le texte reproduit des articles L. 521-1 à L. 521-3
+du code de la construction et de l'habitation.

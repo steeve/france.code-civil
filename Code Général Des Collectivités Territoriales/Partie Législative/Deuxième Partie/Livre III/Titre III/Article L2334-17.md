@@ -33,10 +33,11 @@ l'Entreprise minière et chimique et aux sociétés à participation majoritaire
 l'Entreprise minière et chimique, les logements appartenant aux houillères de
 bassin, aux sociétés à participation majoritaire des houillères de bassin ainsi
 qu'aux sociétés à participation majoritaire des Charbonnages de France et les
-logements locatifs ayant bénéficié de prêts spéciaux consentis par le Crédit
-foncier de France appartenant à des personnes morales autres que celles citées
-ci-dessus à la condition qu'ils constituent sur le territoire d'une commune un
-ensemble d'au moins 2 000 logements.
+logements appartenant à l'Etablissement public de gestion immobilière du Nord -
+Pas-de-Calais et les logements locatifs ayant bénéficié de prêts spéciaux
+consentis par le Crédit foncier de France appartenant à des personnes morales
+autres que celles citées ci-dessus à la condition qu'ils constituent sur le
+territoire d'une commune un ensemble d'au moins 2 000 logements.
 
 Les aides au logement retenues pour l'application du présent article sont, dans
 des conditions définies par décret en Conseil d'Etat, les prestations prévues

@@ -7,7 +7,9 @@ développement du territoire sont exonérés d'impôt sur le revenu ou d'impôt 
 les sociétés à raison des bénéfices provenant des activités implantées dans la
 zone jusqu'au terme du cinquante-neuvième mois suivant celui de la délimitation
 de la zone pour les contribuables qui y exercent déjà leur activité ou, dans le
-cas contraire, celui de leur début d'activité dans l'une de ces zones.
+cas contraire, celui de leur début d'activité dans l'une de ces zones. La date
+de délimitation des zones franches urbaines visée au présent article est réputée
+correspondre, dans tous les cas, au 1er janvier 1997.
 
 Le bénéfice de l'exonération est réservé aux contribuables exerçant une activité
 industrielle, commerciale ou artisanale au sens de l'article 34 et du 5° du I de
@@ -38,8 +40,8 @@ b) produits correspondant aux subventions, libéralités et abandons de créance
 c) produits de créances et d'opérations financières pour le montant qui excède
 le montant des frais financiers engagés au cours du même exercice ou de la même
 année d'imposition, si le contribuable n'est pas un établissement de crédit visé
-à l'article 1er de la loi n° 84-46 du 24 janvier 1984 ((modifiée)) (M) relative
-à l'activité et au contrôle des établissements de crédit ;
+à l'article 1er de la loi n° 84-46 du 24 janvier 1984 modifiée relative à
+l'activité et au contrôle des établissements de crédit ;
 
 d) produits tirés des droits de la propriété industrielle et commerciale,
 lorsque ces droits n'ont pas leur origine dans l'activité exercée dans l'une des
@@ -87,5 +89,3 @@ irrévocable.
 
 IV. Les obligations déclaratives des personnes et organismes concernés par
 l'exonération sont fixées par décret.
-
-(M) Modification.

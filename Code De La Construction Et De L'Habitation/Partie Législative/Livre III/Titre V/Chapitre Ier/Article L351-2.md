@@ -10,7 +10,10 @@ d'aides de l'Etat ou de prêts dont les caractéristiques et les conditions
 d'octroi sont fixées par décret ;
 
 2° Les logements à usage locatif appartenant à des organismes d'habitations à
-loyer modéré ou gérés par eux ou appartenant à des sociétés d'économie mixte, ou
+loyer modéré ou gérés par eux ou appartenant aux bailleurs du secteur locatif
+définis au quatrième alinéa de l'article 41 ter de la loi n° 86-1290 du 23
+décembre 1986 tendant à favoriser l'investissement locatif, l'accession à la
+propriété des logements sociaux et le développement de l'offre foncière, ou
 appartenant à d'autres bailleurs lorsque, dans ce dernier cas, les logements ont
 été construits, acquis ou améliorés avec le concours financier de l'Etat, à
 condition que les bailleurs s'engagent à respecter certaines obligations

@@ -198,8 +198,12 @@ de Corse, versées antérieurement aux communes, mais hors compensation prévue 
 IV bis de l'article 6 de la loi de finances pour 1987 (n° 86-1317 du 30 décembre
 1986), perçu par elle l'année précédant l'institution du taux de taxe
 professionnelle communautaire diminué du coût net des charges transférées
-calculé dans les conditions définies au IV. Cette attribution est recalculée,
-dans les conditions prévues au IV, lors de chaque nouveau transfert de charges.
+calculé dans les conditions définies au IV. L'attribution de compensation est
+majorée d'une fraction de la contribution d'une commune définie à l'article
+L302-8 du code de la construction et de l'habitation. Cette fraction est égale à
+la part du potentiel fiscal de la taxe professionnelle dans le potentiel fiscal
+de la commune. Cette attribution est recalculée, dans les conditions prévues au
+IV, lors de chaque nouveau transfert de charges.
 
 3° Lorsqu'il est fait application à un établissement public de coopération
 intercommunale doté d'une fiscalité propre des dispositions du présent article,

@@ -3,8 +3,11 @@ Article L213-1
 Sont soumis au droit de préemption institué par l'un ou l'autre des deux
 précédents chapitres tout immeuble ou ensemble de droits sociaux donnant
 vocation à l'attribution en propriété ou en jouissance d'un immeuble ou d'une
-partie d'immeuble, bâti ou non bâti, lorsqu'ils sont aliénés volontairement, à
-titre onéreux, sous quelque forme que ce soit.
+partie d'immeuble, bâti ou non bâti, lorsqu'ils sont aliénés, à titre onéreux,
+sous quelque forme que ce soit, à l'exception de ceux qui sont compris dans un
+plan de cession arrêté en application des dispositions des articles L. 621-83 à
+L. 621-101 du code de commerce et dans une unité de production cédée en
+application de l'article L. 622-17 du même code.
 
 Sont également soumises à ce droit de préemption les cessions de droits indivis
 portant sur un immeuble ou une partie d'immeuble, bâti ou non bâti, sauf
@@ -27,10 +30,10 @@ signature du contrat.
 
 Ne sont pas soumis au droit de préemption :
 
-a) Les immeubles construits par les organismes visés à l'article L. 411-2 du
-code de la construction et de l'habitation et qui sont leur propriété, ainsi que
-les immeubles construits par les sociétés coopératives d'habitations à loyer
-modéré de location-attribution :
+a) Les immeubles construits ou acquis par les organismes visés à l'article L.
+411-2 du code de la construction et de l'habitation et qui sont leur propriété,
+ainsi que les immeubles construits par les sociétés coopératives d'habitations à
+loyer modéré de location-attribution :
 
 b) Les immeubles qui font l'objet d'un contrat de vente d'immeuble à construire
 dans les conditions prévues par les articles 1601-1 et suivants du code civil,
@@ -50,8 +53,9 @@ commerce et l'industrie, avec l'une des entreprises visées à l'article 2 de la
 même loi ;
 
 e) Les immeubles qui font l'objet d'une mise en demeure d'acquérir en
-application des articles L. 111-10, L. 123-9 ou L. 311-2 du présent code ou de
-l'article L. 11-7 du code de l'expropriation pour cause d'utilité publique.
+application des articles L. 111-10, L. 123-2, L123-17 ou L. 311-2 du présent
+code ou de l'article L. 11-7 du code de l'expropriation pour cause d'utilité
+publique.
 
 f) Dans les communes où l'ensemble des logements locatifs sociaux au sens du 3°
 de l'article L. 234-10 du code des communes représente moins de 20 p. 100 des

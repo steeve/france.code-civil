@@ -2,9 +2,10 @@ Article L443-7
 ----
 Les organismes d'habitations à loyer modéré peuvent aliéner aux bénéficiaires
 prévus à l'article L. 443-11 des logements construits ou acquis depuis plus de
-dix ans par un organisme d'habitations à loyer modéré. Ces logements doivent
-répondre à des normes d'habitabilité minimale fixées par décret en Conseil
-d'Etat.
+dix ans par un organisme d'habitations à loyer modéré. Ils peuvent proposer à
+ces mêmes bénéficiaires la possibilité d'acquérir ces mêmes logements au moyen
+d'un contrat de location-accession. Ces logements doivent répondre à des normes
+d'habitabilité minimale fixées par décret en Conseil d'Etat.
 
 La décision d'aliéner est prise par l'organisme propriétaire. Elle ne peut
 porter sur des logements et immeubles insuffisamment entretenus. Elle ne doit

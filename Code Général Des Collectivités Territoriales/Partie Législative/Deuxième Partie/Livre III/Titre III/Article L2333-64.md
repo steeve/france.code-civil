@@ -7,7 +7,7 @@ peuvent être assujetties à un versement destiné au financement des transports
 commun lorsqu'elles emploient plus de neuf salariés :
 
 1° Dans une commune ou une communauté urbaine dont la population est supérieure
-à 20 000 habitants ;
+à 10 000 habitants ;
 
 2° Ou dans le ressort d'un établissement public de coopération intercommunale
 compétent pour l'organisation des transports urbains, lorsque la population de

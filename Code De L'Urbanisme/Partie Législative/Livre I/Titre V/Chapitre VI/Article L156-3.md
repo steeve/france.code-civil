@@ -5,7 +5,7 @@ comprises dans la bande littorale définie à l'article L. 156-2 sont préservé
 lorsqu'ils sont à l'usage de plages, d'espaces boisés, de parcs ou de jardins
 publics. Il en est de même des espaces restés naturels situés dans les parties
 actuellement urbanisées de la bande littorale précitée, sauf si un intérêt
-public exposé au plan d'occupation des sols justifie une autre affectation.
+public exposé au plan local d'urbanisme justifie une autre affectation.
 
 II. - Les secteurs de la zone dite des cinquante pas géométriques situés dans
 les parties actuellement urbanisées de la commune ou au droit de ces parties
@@ -14,7 +14,7 @@ de la loi n° 96-1241 du 30 décembre 1996 relative à l'aménagement, la protec
 et la mise en valeur de la zone dite des cinquante pas géométriques dans les
 départements d'outre-mer et sous réserve de la préservation des plages, des
 espaces boisés, des parcs ou des jardins publics, être délimités par le plan
-d'occupation des sols pour être affectés à des services publics, des équipements
+local d'urbanisme pour être affectés à des services publics, des équipements
 collectifs, des opérations de réaménagement de quartier, de logement à caractère
 social et de résorption de l'habitat insalubre, des commerces, des structures
 artisanales, des équipements touristiques et hôteliers ainsi qu'à toute autre

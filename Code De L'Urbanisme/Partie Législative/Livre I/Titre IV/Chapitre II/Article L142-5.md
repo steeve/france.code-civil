@@ -10,9 +10,10 @@ en matière d'expropriation. Toutefois, dans ce cas :
 a) La date de référence prévue à l'article L. 13-15 du code de l'expropriation
 pour cause d'utilité publique est soit la date à laquelle est devenu opposable
 aux tiers le plus récent des actes rendant public, approuvant, révisant ou
-modifiant le plan d'occupation des sols et délimitant la zone dans laquelle est
-situé le bien, soit, en l'absence d'un tel plan, cinq ans avant la déclaration
-par laquelle le propriétaire a manifesté son intention d'aliéner le bien ;
+modifiant le plan d'occupation des sols ou approuvant, modifiant ou révisant le
+plan local d'urbanisme et délimitant la zone dans laquelle est situé le bien,
+soit, en l'absence d'un tel plan, cinq ans avant la déclaration par laquelle le
+propriétaire a manifesté son intention d'aliéner le bien ;
 
 b) Les améliorations, transformations ou changements d'affectation opérés par le
 propriétaire postérieurement à la date fixée au a) ci-dessus ne sont pas

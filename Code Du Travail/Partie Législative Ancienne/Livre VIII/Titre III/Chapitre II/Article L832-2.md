@@ -5,10 +5,8 @@ Saint-Pierre-et-Miquelon, l'Etat peut conclure avec des employeurs des
 conventions ayant pour objet de favoriser l'insertion professionnelle des
 bénéficiaires du revenu minimum d'insertion, des chômeurs de longue durée, des
 personnes reconnues handicapées par la commission technique d'orientation et de
-reclassement professionnel ou, en ce qui concerne Saint-Pierre-et-Miquelon, par
-l'autorité qui exerce les attributions de cette commission, et des personnes
-déterminées par décret en Conseil d'Etat rencontrant des difficultés
-particulières d'accès à l'emploi.
+reclassement professionnel, et des personnes déterminées par décret en Conseil
+d'Etat rencontrant des difficultés particulières d'accès à l'emploi.
 
 I. Les contrats d'accès à l'emploi conclus en vertu de ces conventions donnent
 droit :

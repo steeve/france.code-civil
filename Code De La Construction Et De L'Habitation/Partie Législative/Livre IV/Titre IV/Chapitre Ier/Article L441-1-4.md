@@ -45,16 +45,18 @@ compétence du représentant de l'Etat dans la région après avis des commissio
 et conseils susmentionnés ainsi que de la conférence régionale mentionnée à
 l'article L. 441-1-6.
 
-La conférence du logement rassemble, outre les maires des communes et le ou les
-représentants de l'Etat dans le ou les départements concernés, les bailleurs
-sociaux possédant ou gérant des logements dans le bassin d'habitat, les
-représentants des associations de locataires affiliées à une organisation
-siégeant à la Commission nationale de concertation, des représentants des
-associations agréées dont l'un des objets est l'insertion ou le logement des
-personnes défavorisées, désignés par le représentant de l'Etat, et, lorsqu'ils
-sont titulaires de droits de réservation dans le bassin d'habitat, les
-organismes collecteurs de la participation des employeurs à l'effort de
-construction.
+La conférence du logement rassemble, outre les maires des communes, un
+représentant du ou des conseils généraux concernés et le ou les représentants de
+l'Etat dans le ou les départements concernés, les représentants des
+établissements publics de coopération intercommunale concernés et compétents en
+matière de programme local de l'habitat, les bailleurs sociaux possédant ou
+gérant des logements dans le bassin d'habitat, les représentants des
+associations de locataires affiliées à une organisation siégeant à la Commission
+nationale de concertation, des représentants des associations agréées dont l'un
+des objets est l'insertion ou le logement des personnes défavorisées, désignés
+par le représentant de l'Etat, et, lorsqu'ils sont titulaires de droits de
+réservation dans le bassin d'habitat, les organismes collecteurs de la
+participation des employeurs à l'effort de construction.
 
 Elle est présidée par le représentant des maires des communes intéressées
 désigné par ceux-ci. Toutefois, si la conférence intercommunale du logement ne
@@ -63,4 +65,18 @@ présidée et, au besoin, préalablement créée par le ou les représentants de
 l'Etat dans le ou les départements concernés.
 
 La conférence intercommunale délibère à la majorité de ses membres. Elle se
+réunit au moins une fois par an.
+
+En région d'Ile-de-France, toute commune comptant un nombre de logements
+locatifs sociaux tels que définis à l'article L. 302-5 supérieur à 20 % du total
+des résidences principales peut créer une conférence communale du logement. La
+conférence, présidée par le maire, rassemble le représentant de l'Etat dans le
+département, les bailleurs sociaux possédant ou gérant des logements dans la
+commune, les représentants des associations de locataires affiliées à une
+organisation siégeant à la Commission nationale de concertation, des
+représentants des associations agréées dont l'un des objets est l'insertion ou
+le logement des personnes défavorisées, désignés par le représentant de l'Etat
+dans le département et, lorsqu'ils sont titulaires de droits de réservation dans
+la commune, les organismes collecteurs de la participation des employeurs à
+l'effort de construction, ainsi qu'un représentant du conseil général. Elle se
 réunit au moins une fois par an.

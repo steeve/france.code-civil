@@ -2,9 +2,8 @@ Article L443-11
 ----
 Un logement occupé ne peut être vendu qu'à son locataire. Toutefois, sur demande
 du locataire, le logement peut être vendu à son conjoint ou, s'ils ne disposent
-pas de ressources supérieures à celles qui sont fixées pour l'octroi des prêts
-aidés par l'Etat pour la construction de logements en accession à la propriété,
-à ses ascendants et descendants.
+pas de ressources supérieures à celles qui sont fixées par l'autorité
+administrative, à ses ascendants et descendants.
 
 Tout locataire peut adresser à l'organisme propriétaire une demande
 d'acquisition de son logement. La réponse de l'organisme doit être motivée et
@@ -34,7 +33,11 @@ l'organisme d'habitations à loyer modéré propriétaire peut, après accord du
 représentant de l'Etat dans le département, qui consulte la commune
 d'implantation, vendre des logements vacants à toute personne physique ou
 morale, ou les louer à ces mêmes personnes pour des usages autres que
-l'habitation.
+l'habitation. Afin de contribuer aux politiques de développement social des
+quartiers, et notamment de ceux connaissant des difficultés particulières, un
+organisme d'habitations à loyer modéré peut mettre à disposition d'une
+association des locaux moyennant, éventuellement, le paiement des charges
+locatives correspondant auxdits locaux.
 
 Dans ce cas, les dispositions prévues aux articles L. 311-3 et L. 631-7 ne
 s'appliquent pas.

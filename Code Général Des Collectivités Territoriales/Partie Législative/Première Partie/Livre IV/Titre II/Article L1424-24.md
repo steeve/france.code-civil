@@ -34,9 +34,11 @@ Les représentants des établissements publics de coopération intercommunale so
 au plus fort reste parmi les membres des organes délibérants et les maires des
 communes membres. Les maires des communes qui ne sont pas membres de ces
 établissements publics élisent en leur sein leurs représentants au scrutin
-proportionnel au plus fort reste.
+proportionnel au plus fort reste. Dans les départements d'outre-mer, les
+adjoints au maire peuvent être élus.
 
-Le nombre de suffrages dont dispose chaque maire, d'une part, chaque président
+Le nombre de suffrages dont dispose chaque maire ou dans les départements
+d'outre-mer, chaque adjoint au maire d'une part, chaque président
 d'établissement public, d'autre part, au sein de leur collège électoral
 respectif est déterminé par le montant de la contribution de la commune ou de
 l'établissement public, à due proportion du total des contributions des

@@ -3,9 +3,10 @@ Article L160-1
 En cas d'infraction aux dispositions des projets d'aménagement et des plans
 d'urbanisme maintenus en vigueur dans les conditions énoncées soit à l'article
 L. 124-1, soit à l'article L. 150-1 (2è alinéa), ou en cas d'infraction aux
-dispositions des plans d'occupation des sols, les articles L. 480-1 à L. 480-9
-sont applicables, les obligations visées à l'article L. 480-4 s'entendant
-également de celles résultant des projets et plans mentionnés ci-dessus.
+dispositions des plans d'occupation des sols, des plans locaux d'urbanisme, les
+articles L. 480-1 à L. 480-9 sont applicables, les obligations visées à
+l'article L. 480-4 s'entendant également de celles résultant des projets et
+plans mentionnés ci-dessus.
 
 Les sanctions édictées à l'article L. 480-4 s'appliquent également :
 
@@ -14,7 +15,7 @@ obligations imposées par les articles L. 111-1 à L. 111-1-4, L111-3 et L.
 111-5-2 ainsi que par les règlements pris pour leur application ;
 
 b) En cas de coupes et d'abattages d'arbres effectués en infraction aux
-dispositions du cinquième alinéa de l'article L. 130-1 , sur les territoires des
+dispositions du cinquième alinéa de l'article L. 130-1, sur les territoires des
 communes, parties de communes ou ensemble de communes où l'établissement d'un
 plan d'occupation des sols a été prescrit mais où ce plan n'a pas encore été
 rendu public ;

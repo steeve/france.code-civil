@@ -9,7 +9,7 @@ délibération motivée du conseil municipal ou, le cas échéant, d'une décisi
 motivée du délégataire du droit de préemption.
 
 Si le titulaire du droit de préemption décide d'utiliser ou d'aliéner à d'autres
-fins un bien acquis depuis moins de dix ans par exercice de ce droit, il doit
+fins un bien acquis depuis moins de cinq ans par exercice de ce droit, il doit
 informer de sa décision les anciens propriétaires ou leurs ayants cause
 universels ou à titre universel et leur proposer l'acquisition de ce bien en
 priorité.

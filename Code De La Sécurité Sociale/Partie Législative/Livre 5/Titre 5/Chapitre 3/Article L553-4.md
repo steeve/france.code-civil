@@ -26,8 +26,10 @@ Sur demande de l'allocataire, les cotisations d'assurance volontaire mentionnée
 l'article L. 511-1, à l'exception de l'allocation de logement.
 
 L'allocation de logement prévue à l'article L. 542-1 est versée à l'allocataire,
-sauf dans les cas suivants où elle est versée au bailleur du logement lorsque
-l'allocataire est locataire, au prêteur lorsque l'allocataire est propriétaire :
+sauf dans les cas suivants où elle est versée soit au prêteur lorsque
+l'allocataire est propriétaire, soit au bailleur du logement, sous réserve que
+le logement réponde aux exigences prévues au 2° de l'article L. 542-2, lorsque
+l'allocataire est locataire :
 
 1° L'allocataire est locataire d'un logement compris dans un patrimoine d'au
 moins dix logements, appartenant à un organisme d'habitations à loyer modéré
@@ -45,7 +47,11 @@ cas, du bailleur ou du prêteur ;
 
 3° Dans des conditions fixées par décret. lorsque l'allocataire n'ayant pas
 réglé ses loyers ou sa dette contractée en vue d'accéder à la propriété, le
-bailleur ou le prêteur demande que l'allocation lui soit versée.
+bailleur ou le prêteur demande que l'allocation lui soit versée ;
+
+4° L'allocataire est locataire d'un logement dont les revenus sont soumis aux
+dispositions du g ou du cinquième alinéa du e du 1° du I de l'article 31 du code
+général des impôts.
 
 Dès lors que l'allocation est versée au bailleur ou au prêteur, elle est
 déduite, par les soins de qui reçoit le versement, du montant du loyer et des

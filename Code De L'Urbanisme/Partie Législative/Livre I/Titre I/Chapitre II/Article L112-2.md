@@ -28,7 +28,7 @@ Dans les conditions de l'article L. 112-1, il peut être décidé que l'obligati
 résultant des deux premiers alinéas du présent article n'est pas applicable aux
 immeubles ou parties d'immeubles affectés à l'habitation.
 
-En outre l'autorité compétente peut décider que l'obligation de versement n'est
+En outre, l'autorité compétente peut décider que l'obligation de versement n'est
 pas applicable aux constructions édifiées dans une zone d'aménagement concerté.
 Cette décision prend effet au plus tôt lorsque le programme des équipements
 publics et, s'il en est établi un, le plan d'aménagement de zone ont été

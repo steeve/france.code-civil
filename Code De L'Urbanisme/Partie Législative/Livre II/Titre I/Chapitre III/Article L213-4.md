@@ -4,14 +4,19 @@ A défaut d'accord amiable, le prix d'acquisition est fixé par la juridiction
 compétente en matière d'expropriation ; ce prix est exclusif de toute indemnité
 accessoire, et notamment de l'indemnité de réemploi.
 
+Lorsqu'il est fait application de l'article L. 213-2-1, le prix d'acquisition
+fixé par la juridiction compétente en matière d'expropriation tient compte de
+l'éventuelle dépréciation subie, du fait de la préemption partielle, par la
+fraction restante de l'unité foncière.
+
 Le prix est fixé, payé ou, le cas échéant, consigné selon les règles applicables
 en matière d'expropriation. Toutefois, dans ce cas :
 
 a) La date de référence prévue à l'article L. 13-15 du code de l'expropriation
 pour cause d'utilité publique est la date à laquelle est devenu opposable aux
 tiers le plus récent des actes rendant public, approuvant, révisant ou modifiant
-le plan d'occupation des sols et délimitant la zone dans laquelle est situé le
-bien.
+le plan d'occupation des sols ou approuvant, modifiant ou révisant le plan local
+d'urbanisme et délimitant la zone dans laquelle est situé le bien.
 
 En l'absence d'un tel document, cette date de référence est :
 
@@ -20,7 +25,7 @@ zone d'aménagement différé, lorsque le bien est situé dans un tel périmètr
 lorsque l'acte créant la zone est publié dans le délai de validité d'un
 périmètre provisoire ;
 
-- un an avant la publication de l'acte créant la zone d'aménagement différé.
+- un an avant la publication de l'acte créant la zone d'aménagement différé ;
 
 b) Les améliorations, les transformations ou les changements d'affectation
 opérés par le propriétaire postérieurement à la date mentionnée au a) ci-dessus

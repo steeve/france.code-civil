@@ -14,21 +14,22 @@ l'environnement ou aux paysages.
 
 II - L'extension limitée de l'urbanisation des espaces proches du rivage ou des
 rives des plans d'eau intérieurs désignés à l'article 2 de la loi n° 86-2 du 3
-janvier 1986 précitée doit être justifiée et motivée, dans le plan d'occupation
-des sols, selon des critères liés à la configuration des lieux ou à l'accueil
+janvier 1986 précitée doit être justifiée et motivée, dans le plan local
+d'urbanisme, selon des critères liés à la configuration des lieux ou à l'accueil
 d'activités économiques exigeant la proximité immédiate de l'eau.
 
 Toutefois, ces critères ne sont pas applicables lorsque l'urbanisation est
-conforme aux dispositions d'un schéma directeur ou d'un schéma d'aménagement
-régional ou compatible avec celles d'un schéma de mise en valeur de la mer.
+conforme aux dispositions d'un schéma de cohérence territoriale ou d'un schéma
+d'aménagement régional ou compatible avec celles d'un schéma de mise en valeur
+de la mer.
 
 En l'absence de ces documents, l'urbanisation peut être réalisée avec l'accord
 du représentant de l'Etat dans le département. Cet accord est donné après que la
 commune a motivé sa demande et après avis de la commission départementale des
 sites appréciant l'impact de l'urbanisation sur la nature. Les communes
 intéressées peuvent également faire connaître leur avis dans un délai de deux
-mois suivant le dépôt de la demande d'accord. Le plan d'occupation des sols ou
-le plan d'aménagement de zone doit respecter les dispositions de cet accord.
+mois suivant le dépôt de la demande d'accord. Le plan local d'urbanisme doit
+respecter les dispositions de cet accord.
 
 III - En dehors des espaces urbanisés, les constructions ou installations sont
 interdites sur une bande littorale de cent mètres à compter de la limite haute
@@ -41,9 +42,9 @@ proximité immédiate de l'eau. Leur réalisation est toutefois soumise à enqu�
 publique suivant les modalités de la loi n° 83-630 du 12 juillet 1983 relative à
 la démocratisation des enquêtes publiques et à la protection de l'environnement.
 
-Le plan d'occupation des sols peut porter la largeur de la bande littorale visée
-au premier alinéa du présent paragraphe à plus de cent mètres, lorsque des
-motifs liés à la sensibilité des milieux ou à l'érosion des côtes le justifient.
+Le plan local d'urbanisme peut porter la largeur de la bande littorale visée au
+premier alinéa du présent paragraphe à plus de cent mètres, lorsque des motifs
+liés à la sensibilité des milieux ou à l'érosion des côtes le justifient.
 
 IV - Les dispositions des paragraphes II et III ci-dessus s'appliquent aux rives
 des estuaires les plus importants, dont la liste est fixée par décret en Conseil
