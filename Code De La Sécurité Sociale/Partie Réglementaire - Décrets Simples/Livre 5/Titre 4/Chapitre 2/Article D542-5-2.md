@@ -23,7 +23,7 @@ Pp = Po + Tp x Rp.
 
 Po représente la participation minimale et est égale à la plus élevée des deux
 valeurs suivantes : 8,5 % de la dépense éligible définie au I de l'article D.
-542-5 du même code ou 26,68 Euro ;
+542-5 du même code ou 28 euros ;
 
 Tp représente le taux de participation personnelle ;
 
