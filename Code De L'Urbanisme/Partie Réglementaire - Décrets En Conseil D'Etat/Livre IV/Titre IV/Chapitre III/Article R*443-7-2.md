@@ -6,17 +6,16 @@ conformément aux dispositions des articles R. 421-8, R. 421-9, alinéas 1 à 3,
 421-10 , R. 421-12 à R. 421-17, R. 421-19 à R. 421-28 et R. 421-38-1 à R.
 421-38-19.
 
-Outre les consultations énumérées à l'article R. 421-15, la demande
-d'autorisation d'aménager est soumise pour avis à la commission départementale
-de l'action touristique. Faute de réponse de cette commission dans le délai de
-deux mois à compter du dépôt de la demande, son avis [*tacite*] est réputé
-favorable.
-
 Dans les quinze jours qui suivent le dépôt de la demande et pendant la durée
 d'instruction de celle-ci, le maire procède à l'affichage en mairie d'un avis de
 dépôt de la demande [*publicité, contenu*] comprenant les mentions suivantes :
 nom du demandeur, numéro et date d'enregistrement de la demande, adresse et
 superficie du terrain et nombre d'emplacements projetés.
+
+Outre les consultations énumérées à l'article R. 421-15, la demande
+d'autorisation d'aménager est soumise pour avis à la commission départementale
+de l'action touristique. Faute de réponse de cette commission dans le délai de
+deux mois à compter du dépôt de la demande, son avis est réputé favorable.
 
 Le délai d'instruction des demandes d'autorisation d'aménager un terrain de
 camping et de caravanage est fixé à trois mois à compter de la date de décharge
@@ -30,5 +29,7 @@ ministre compétent.
 
 Faute pour l'autorité compétente d'avoir adressé notification de la décision
 dans le délai d'instruction prévu à l'alinéa précédent, l'autorisation est
-réputée accordée, sauf dans les cas énumérés à l'article R. 421-19 et au 2° de
-l'article R. 443-9, où l'autorisation ne peut être obtenue de façon tacite.
+réputée accordée, sauf dans les cas énumérés à l'article R. 421-19, au 2° de
+l'article R. 443-9 et lorsque le terrain de camping et de stationnement de
+caravanes est situé dans une zone délimitée par le préfet, en application de
+l'article R. 443-8-3, où l'autorisation ne peut être obtenue de façon tacite.
