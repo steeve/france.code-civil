@@ -3,7 +3,7 @@ Article L627
 Seront punis d'un emprisonnement de deux ans à dix ans [*durée*] et d'une amende
 de 5.000 F à 50.000.000 F [*montant*], ou de l'une de ces deux peines seulement,
 ceux qui auront contrevenu aux dispositions des règlements d'administration
-publique prévus à l'article précédent et concernant les substances ou plantes
+publique prévus à l'article L. 626 et concernant les substances ou plantes
 vénéneuses classées comme stupéfiants par voie réglementaire. Lorsque le délit
 aura consisté dans l'importation, la fabrication, ou l'exportation illicite
 desdites substances ou plantes, la peine d'emprisonnement sera de dix à vingt

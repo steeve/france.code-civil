@@ -6,8 +6,7 @@ dangereuses, ainsi que les chefs des établissements où il en est fait usage so
 tenus [*obligation*] d'apposer sur tout récipient, sac ou enveloppe contenant
 ces substances ou préparations, une étiquette ou une inscription indiquant le
 nom et l'origine [*mentions*] de ces substances ou préparations et les dangers
-que présente leur emploi. Ces indications doivent être reproduites sur les
-factures ou bons de livraisons.
+que présente leur emploi.
 
 Les récipients, sacs ou enveloppes contenant les substances ou préparations
 dangereuses doivent être solides et étanches.

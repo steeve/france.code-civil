@@ -15,9 +15,20 @@ d'une mise sur le marché d'un Etat membre des Communautés européennes [*date
 limite*] avant le 18 septembre 1981, tout fabricant ou importateur doit fournir
 à un organisme agréé par le ministre chargé du travail les informations
 nécessaires à l'appréciation des risques encourus par les travailleurs
-susceptibles d'être exposés à cette substance; la même obligation s'impose pour
-toute préparation destinée à être mise sur le marché et qui peut faire courir
-des risques aux travailleurs.
+susceptibles d'être exposés à cette substance.
+
+Les fabricants, les importateurs ou les vendeurs de substances ou de
+préparations dangereuses destinées à ^etre utilisées dans des établissements
+mentionnés à l'article L. 231-1 doivent, dans les conditions définies par décret
+en Conseil d'Etat, fournir à un organisme agréé par les ministres chargés du
+travail et de l'agriculture toutes les informations nécessaires sur ces
+produits, notamment leur composition, en vue de permettre d'en prévenir les
+effets sur la santé ou de répondre à toute demande d'ordre médical destinée au
+traitement des affections induites par ces produits, en particulier en cas
+d'urgence. Un décret en Conseil d'Etat détermine les conditions dans lesquelles
+les informations sont fournies par l'organisme agréé, les personnes qui y ont
+accès et les modalités selon lesquelles sont préservés les secrets de
+fabrication.
 
 Toutefois, les dispositions précédentes ne s'appliquent pas:
 
