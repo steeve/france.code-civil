@@ -1,5 +1,5 @@
 Article R512-17
 ----
-Lorsque survient une vacance, le président du conseil de prud'hommes en informe,
-dans les huit jours [*délai*], le commissaire de la République et le procureur
-de la République.
+Lorsqu'un siège de conseiller prud'homme devient vacant pour quelque cause que
+ce soit, le président de ce conseil constate la vacance et en informe, dans les
+huit jours, le préfet et le procureur de la République.

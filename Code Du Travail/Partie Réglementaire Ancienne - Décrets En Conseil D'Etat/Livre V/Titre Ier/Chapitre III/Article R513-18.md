@@ -2,32 +2,25 @@ Article R513-18
 ----
 La commission administrative prévue au septième alinéa de l'article L. 513-3 est
 composée du maire ou de son représentant, d'un délégué de l'administration
-désigné par le commissaire de la République ou le commissaire adjoint de la
-République, d'un délégué désigné par le président du tribunal de grande
-instance, d'un électeur employeur et d'un électeur salarié. Pour l'électeur
-employeur et pour l'électeur salarié, il est désigné un suppléant.
-
-Les employeurs et les salariés, titulaires et suppléants, sont nommés par le
-conseil municipal, sur proposition du maire, parmi les électeurs inscrits sur la
-liste électorale prud'homale de la commune.
-
-En outre, les organisations professionnelles et syndicales les plus
-représentatives sur le plan national peuvent désigner un représentant qui
-participe aux travaux de la commission avec voix consultative.
-
-Le nombre des bureaux de vote est déterminé par le commissaire de la République
-dans des conditions fixées par décret. Compte tenu du sectionnement électoral,
-et afin de préparer les travaux de la commission administrative, il peut être
-créé des sous-commissions composées de la même façon et selon les mêmes
-modalités que la commission elle-même.
-
-En cas d'impossibilité de composer la commission conformément aux dispositions
-des alinéas 2 et 3 ci-dessus, le conseil municipal peut faire appel à toute
-personne inscrite sur la liste électorale établie en application du code
+désigné par le préfet ou le sous-préfet, d'un représentant de chacune des
+organisations professionnelles et syndicales les plus représentatives au plan
+national, d'un électeur employeur et d'un électeur salarié nommés par le conseil
+municipal, sur proposition du maire, parmi les électeurs inscrits sur la liste
+électorale prud'homale de la commune lors des dernières élections générales
+ainsi que d'un délégué désigné par le directeur départemental du travail, de
+l'emploi et de la formation professionnelle et d'un délégué désigné par le
+président du tribunal de grande instance. En cas d'impossibilité de désigner un
+électeur employeur ou un électeur salarié, le conseil municipal peut faire appel
+à toute personne inscrite sur la liste électorale établie en application du code
 électoral.
 
-Le secrétariat de la commission est assuré par un agent de la commune.
+Il est désigné, pour chacun d'entre eux, un suppléant dans les mêmes formes.
 
-La commission examine l'ensemble des documents mentionnés à l'article R. 513-16.
+Afin de préparer les travaux de la commission administrative, le maire peut
+créer des sous-commissions.
 
-Elle soumet au maire un projet de liste électorale.
+Le maire préside la commission. Il la convoque et en fixe l'ordre du jour. Le
+secrétariat de la commission est assuré par un agent de la commune.
+
+Celui-ci tient à la disposition des membres de la commission, au moins cinq
+jours avant la réunion, les documents nécessaires au travail de la commission.

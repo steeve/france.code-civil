@@ -2,13 +2,16 @@ Article R513-43
 ----
 Les cartes électorales sont envoyées au domicile des électeurs par la mairie.
 
-Leur distribution doit être achevée douze jours avant le jour du scrutin
-[*délai*].
+Cet envoi doit intervenir au plus tard le jour de l'affichage du dépôt de la
+liste électorale en application de l'article R. 513-20.
 
-Les cartes qui n'ont pas été remises à leurs titulaires sont retournées à la
-mairie expéditrice. Elles y sont conservées à la disposition des intéressés
-jusqu'au jour du scrutin inclus si la mairie constitue l'unique bureau de vote
-de la commune.
+Les cartes qui n'ont pu être remises à leurs titulaires sont retournées à la
+mairie expéditrice qui recherche la nouvelle adresse des intéressés et leur
+envoie leurs cartes. En cas d'impossibilité, elles sont remises le jour du
+scrutin au bureau de vote intéressé et y sont tenues à la disposition de leur
+titulaire. Elles ne peuvent être délivrées à l'électeur qu'au vu d'une pièce
+d'identité ou après authentification de son identité par deux témoins inscrits
+sur les listes du même bureau de vote.
 
 Dans les communes où existent plusieurs bureaux de vote, elles sont remises le
 jour du scrutin au bureau de vote intéressé pour être mises à la disposition de

@@ -1,8 +1,7 @@
 Article R513-49
 ----
 Le mandataire de chaque liste fait connaître au président de la commission [*de
-propagande*] le nom du ou des imprimeurs choisis par elle sur la liste des
-imprimeurs agréés.
+propagande*] le nom du ou des imprimeurs choisis par elle.
 
 Le président lui indique les caractéristiques et le nombre maximum des documents
 de chaque catégorie qu'il est autorisé à faire imprimer, ainsi que les tarifs
@@ -18,4 +17,4 @@ postérieurement à cette date.
 
 Les circulaires et bulletins dont le format, le libellé ou l'impression ne
 répondent pas aux prescriptions législatives ou réglementaires, ne sont pas
-acceptés par la commission [*refus*].
+acceptés par la commission *refus*.

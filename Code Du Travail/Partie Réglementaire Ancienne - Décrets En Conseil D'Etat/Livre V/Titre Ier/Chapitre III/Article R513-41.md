@@ -12,5 +12,8 @@ mentionnent :
 - le numéro d'ordre qui lui est attribué sur la liste d'émargement ;
 
 - l'attestation sur l'honneur par laquelle le titulaire de la carte certifie
-n'être frappé d'aucune incapacité électorale résultant des condamnations
-mentionnées aux articles L. 5 et L. 6 du code électoral.
+n'être l'objet d'aucune interdiction, déchéance ou incapacité relative à ses
+droits civiques ;
+
+- les horaires d'ouverture du bureau de vote fixés en application de l'article
+R. 513-55.

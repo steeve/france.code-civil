@@ -1,16 +1,17 @@
 Article R513-50
 ----
 Il est remboursé aux listes qui ont obtenu au moins 5 p. cent des suffrages
-exprimés dans chaque collège et dans chaque section [*condition*], le coût du
-papier et les frais d'impression des circulaires et bulletins de vote prévus
-respectivement aux articles R. 513-44 et R. 513-45.
+exprimés dans chaque collège et dans chaque section et qui n'ont pas été
+déclarées irrecevables en application du deuxième alinéa de l'article L.
+513-3-1, le coût du papier et les frais d'impression des circulaires et
+bulletins de vote prévus respectivement aux articles R. 513-44 et R. 513-45.
 
 Toutefois, seuls sont remboursés, sur présentation des pièces justificatives,
 les frais d'impression réellement exposés.
 
 La somme remboursée ne peut excéder celle résultant de l'application au nombre
 des imprimés admis à remboursement des tarifs d'impression fixés par arrêté du
-préfet, après avis d'une commission départementale comprenant [*composition*] :
+préfet, après avis d'une commission départementale comprenant :
 
 - le préfet ou son représentant, président ;
 

@@ -12,4 +12,5 @@ Les bulletins de vote ne doivent pas comporter d'autres mentions que le conseil
 de prud'hommes, la section, le collège, le nom et le prénom de chaque candidat
 ainsi que le titre de la liste.
 
-Ils ne doivent pas être imprimés sur papier de couleur.
+Ils ne doivent pas être imprimés sur papier de couleur. Les bulletins sont
+rédigés en noir.

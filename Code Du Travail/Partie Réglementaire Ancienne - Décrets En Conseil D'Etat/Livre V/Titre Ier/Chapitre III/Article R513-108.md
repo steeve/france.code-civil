@@ -1,10 +1,11 @@
 Article R513-108
 ----
 Dans les huit jours de l'affichage des résultats prévu à l'article R. 513-106
-[*délai*] tout électeur et tout éligible peuvent contester la régularité des
-listes, l'éligibilité d'un candidat, l'éligibilité ou l'élection d'un élu et la
-régularité des opérations électorales devant le tribunal d'instance
-[*juridiction compétente*] dans le ressort duquel se trouve situé le siège du
+tout électeur, tout éligible ou tout mandataire d'une liste relevant du conseil
+de prud'hommes pour lequel la contestation est formée peut contester la
+régularité ou la recevabilité des listes, l'éligibilité d'un candidat,
+l'éligibilité ou l'élection d'un élu et la régularité des opérations électorales
+devant le tribunal d'instance dans le ressort duquel se trouve situé le siège du
 conseil de prud'hommes.
 
 Le recours est également ouvert au préfet et au procureur de la République dans

@@ -5,3 +5,6 @@ emplacements spéciaux sont réservés par l'autorité municipale pour l'apposit
 des affiches électorales des listes de candidats.
 
 Dans chacun de ces emplacements, une surface égale est attribuée à chaque liste.
+
+Un emplacement est attribué à chaque liste dans l'ordre de dépôt des listes de
+candidats auprès du préfet.
