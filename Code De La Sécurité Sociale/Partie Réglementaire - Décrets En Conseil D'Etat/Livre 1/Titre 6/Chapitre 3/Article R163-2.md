@@ -1,13 +1,14 @@
 Article R163-2
 ----
 Les médicaments auxquels s'applique l'article L. 601 du code de la santé
-publique ne peuvent être remboursés ou pris en charge par les organismes de
-sécurité sociale, sur prescription médicale, ni être achetés ou fournis ou
-utilisés par eux que s'ils figurent sur une liste des médicaments remboursables
-établie par arrêté conjoint du ministre chargé de la santé et du ministre chargé
-de la sécurité sociale. L'arrêté mentionne les indications thérapeutiques
-retenues lors de l'inscription par la commission mentionnée à l'article R.
-163-9.
+publique, ainsi que ceux visés au premier alinéa de l'article 17 de la loi n°
+92-1477 du 31 décembre 1992, ne peuvent être remboursés ou pris en charge par
+les organismes de sécurité sociale, sur prescription médicale, ni être achetés
+ou fournis ou utilisés par eux que s'ils figurent sur une liste des médicaments
+remboursables établie par arrêté conjoint du ministre chargé de la santé et du
+ministre chargé de la sécurité sociale. L'arrêté mentionne les seules
+indications thérapeutiques ouvrant droit à la prise en charge ou au
+remboursement des médicaments.
 
 Lorsque le médicament figure en qualité de spécialité générique au répertoire
 mentionné à l'article R. 5143-8 du code de la santé publique, l'arrêté
@@ -26,12 +27,13 @@ qu'ils ne sont remboursés ou pris en charge qu'après information du contrôle
 médical, selon une procédure fixée par un arrêté du ministre chargé de la
 sécurité sociale. Dans ce cas, est annexée à l'arrêté d'inscription du
 médicament sur la liste une fiche d'information thérapeutique établie par la
-commission mentionnée à l'article R. 163-9 après avis du haut comité médical de
+commission mentionnée à l'article R. 163-15 après avis du haut comité médical de
 la sécurité sociale. Cette fiche rappelle, d'une part, les indications
 thérapeutiques mentionnées au premier alinéa ci-dessus, d'autre part, les
-conditions d'utilisation du médicament résultant de ses caractéristiques
+modalités d'utilisation du médicament résultant de ses caractéristiques
 approuvées par l'autorisation de mise sur le marché et concernant notamment la
-posologie et la durée de traitement. La fiche rappelle également, le cas
+posologie et la durée de traitement dans les indications ouvrant droit à la
+prise en charge ou au remboursement. La fiche rappelle également, le cas
 échéant, les restrictions apportées par l'autorisation de mise sur le marché à
 la prescription et à la délivrance du médicament.
 
@@ -41,5 +43,6 @@ assortie d'une clause précisant qu'ils ne sont remboursés ou pris en charge pa
 les caisses et organismes d'assurance maladie que si leur emploi est prescrit en
 vue du traitement d'un état pathologique.
 
-L'inscription sur la liste des médicaments remboursables est prononcée pour une
-durée de trois ans renouvelable.
+Sous réserve des dispositions prévues au III de l'article R. 163-6,
+l'inscription sur la liste prévue à l'article L. 162-17 est prononcée pour une
+durée de cinq ans.
