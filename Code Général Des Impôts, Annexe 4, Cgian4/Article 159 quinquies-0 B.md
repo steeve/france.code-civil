@@ -1,8 +1,8 @@
 Article 159 quinquies-0 B
 ----
-Les taux des contributions prévues pour l'alimentation du fonds de garantie
-contre les accidents de circulation et de chasse en application des articles 323
-et 323 A de l'annexe II au code général des impôts sont fixés comme suit :
+Les taux des contributions prévues pour l'alimentation du fonds de garantie des
+assurances obligatoires de dommages en application des articles 323 et 323 A de
+l'annexe II au code général des impôts sont fixés comme suit :
 
 a) Contribution des entreprises d'assurance : 1 % de la totalité des charges du
 fonds de garantie ;
