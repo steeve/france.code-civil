@@ -8,7 +8,8 @@ activité et leur statut juridique ;
 
 2° Quatorze représentants des organisations syndicales de salariés
 représentatives au niveau national, dont l'Union nationale des syndicats
-autonomes, ainsi que du syndicat des travailleurs corses ;
+autonomes et la fédération syndicale unitaire, ainsi que du syndicat des
+travailleurs corses ;
 
 3° Une personnalité choisie parmi celles qui, en raison de leur qualité ou de
 leurs activités, concourent au développement économique et social de la Corse.
