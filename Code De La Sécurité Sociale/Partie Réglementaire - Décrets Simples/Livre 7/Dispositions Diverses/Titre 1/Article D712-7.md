@@ -1,7 +1,7 @@
 Article D712-7
 ----
 Les fonctionnaires placés en position de congé spécial subissent sur leurs
-émoluments ou soldes une retenue égale à celle fixée par l'article D. 712-40.
+émoluments ou soldes une retenue égale à celle fixée par l'article D. 712-38.
 L'Etat verse de son côté la cotisation fixée audit article.
 
 Lorsqu'ils n'exercent pas une activité relevant d'un régime obligatoire de
