@@ -1,24 +1,21 @@
 Article 575 E
 ----
-Dans les départements de Corse et dans ceux d'outre-mer, le droit de
-consommation est exigible soit à l'importation, soit à l'issue de la fabrication
-par les usines locales. Il est liquidé et perçu par le service des douanes selon
-les règles et garanties applicables en matière douanière (1).
+Dans les départements d'outre-mer, le droit de consommation est exigible, soit à
+l'importation, soit à l'issue de la fabrication par les usines locales. Il est
+liquidé et perçu selon les règles et garanties applicables en matière douanière
+(1).
 
-Le droit de consommation perçu dans les départements de Corse, de la Guyane et
-de la Réunion reçoit l'affectation prévue pour les droits de consommation sur
-les tabacs en vigueur dans ces départements antérieurement au 1er janvier 1977
-(2).
+Le droit de consommation perçu dans les départements de la Guyane et de la
+Réunion reçoit l'affectation prévue pour les droits de consommation sur les
+tabacs par l'article 1er de la loi n° 66-1011 du 28 décembre 1966 portant
+réforme du régime fiscal particulier des tabacs consommés dans les départements
+de la Guyane, de la Martinique et de la Réunion et par l'article 9 de la loi de
+finances rectificative pour 1974 (n° 74-1114 du 27 décembre 1974).
 
 Pour l'application du régime fiscal des tabacs, les échanges entre la France
-continentale, la collectivité territoriale de Corse et chacun des départements
-d'outre-mer sont assimilés à des opérations d'importation ou d'exportation.
+métropolitaine et chacun des départements d'outre-mer ainsi qu'entre ces
+départements sauf entre la Guadeloupe et la Martinique sont assimilés à des
+opérations d'importation ou d'exportation.
 
 Les unités de conditionnement doivent être revêtues des mentions prescrites par
-l'administration (3).
-
-(1) Voir annexe II, art. 286 B.
-
-(2) Date de mise en application de la loi n° 76-448 du 24 mai 1976 (J.O. du 25).
-
-(3) Annexe IV, art. 56 AQ.
+l'administration (2).

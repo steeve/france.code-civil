@@ -1,9 +1,9 @@
 Article 278 bis
 ----
 La taxe sur la valeur ajoutée [*TVA*] est perçue au taux réduit de 5,50 p. 100
-en ce qui concerne les opérations d'achat, d'importation, de vente, de
-livraison, de commission, de courtage ou de façon portant sur les produits
-suivants :
+en ce qui concerne les opérations d'achat, d'importation, d'acquisition
+intracommunautaire, de vente, de livraison, de commission, de courtage ou de
+façon portant sur les produits suivants :
 
 1° Eau et boissons non alcooliques ;
 

@@ -1,8 +1,8 @@
 Article L281
 ----
 Les contestations relatives au recouvrement des impôts, taxes, redevances et
-sommes quelconques dont la perception incombe aux comptables du Trésor ou de la
-direction générale des impôts doivent être adressées à l'administration dont
+sommes quelconques dont la perception incombe aux comptables publics compétents
+mentionnés à l'article L. 252 doivent être adressées à l'administration dont
 dépend le comptable qui exerce les poursuites.
 
 Les contestations ne peuvent porter que :
@@ -16,7 +16,5 @@ l'impôt.
 
 Les recours contre les décisions prises par l'administration sur ces
 contestations sont portés, dans le premier cas, devant le juge de l'exécution
-(1) [*juridiction compétente*], dans le second cas, devant le juge de l'impôt
-tel qu'il est prévu à l'article L. 199.
-
-(1) A compter du 1er janvier 1993.
+(1), dans le second cas, devant le juge de l'impôt tel qu'il est prévu à
+l'article L. 199.

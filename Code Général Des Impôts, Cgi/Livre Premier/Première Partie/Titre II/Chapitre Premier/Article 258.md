@@ -1,15 +1,29 @@
 Article 258
 ----
-I Les livraisons de biens meubles corporels sont imposables en France lorsque
-ces biens sont situés en France, lors de leur expédition ou de leur transport à
-destination de l'acquéreur ou lors de leur délivrance à l'acquéreur en l'absence
-d'expédition ou de transport; il en est de même lorsque ces biens sont montés ou
-installés en France [*conditions*].
+I. - Le lieu de livraison de biens meubles corporels est réputé se situer en
+France lorsque le bien se trouve en France :
 
-Par dérogation au premier alinéa, lorsque le lieu de départ de l'expédition ou
-du transport des biens est situé à l'étranger, la livraison de ces biens
-effectuée par l'importateur ou pour son compte est imposable en France.
+a) Au moment de l'expédition ou du transport par le vendeur, par l'acquéreur, ou
+pour leur compte, à destination de l'acquéreur ;
 
-II Les opérations immobilières [*portant sur immeubles, fonds de commerce,
-actions ou parts de sociétés immobilières*] mentionnées à l'article 257-6° et 7°
-sont imposables en France lorsqu'elles portent sur un immeuble situé en France.
+b) Lors du montage ou de l'installation par le vendeur ou pour son compte ;
+
+c) Lors de la mise à disposition de l'acquéreur, en l'absence d'expédition ou de
+transport ;
+
+d) Au moment du départ d'un transport dont le lieu d'arrivée est situé sur le
+territoire d'un autre Etat membre de la Communauté économique européenne, dans
+le cas où la livraison, au cours de ce transport, est effectuée à bord d'un
+bateau, d'un aéronef ou d'un train.
+
+Par dérogation aux dispositions du a et du b, lorsque le lieu de départ de
+l'expédition ou du transport est en dehors du territoire des Etats membres de la
+Communauté économique européenne, le lieu de la livraison de ces biens effectuée
+par l'importateur ou pour son compte ainsi que le lieu d'éventuelles livraisons
+subséquentes est réputé se situer en France, lorsque les biens sont importés en
+France.
+
+II. Le lieu des opérations immobilières mentionnées aux 6° et 7° de l'article
+257 se situe en France lorsqu'elles portent sur un immeuble sis en France (1).
+
+(1) Dispositions en vigueur le 1er janvier 1993, art. 121 de la loi.

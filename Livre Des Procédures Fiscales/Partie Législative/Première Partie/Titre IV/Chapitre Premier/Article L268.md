@@ -1,6 +1,6 @@
 Article L268
 ----
-Lorsqu'ils envisagent de faire procéder à la vente d'un fonds de commerce, le
+Lorsqu'il envisage de faire procéder à la vente d'un fonds de commerce, le
 comptable public compétent peut, par dérogation à l'article 15 de la loi du 17
 mars 1909 relative à la vente et au nantissement du fonds de commerce, faire
 ordonner par le président du tribunal de grande instance que cette vente soit
