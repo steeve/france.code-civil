@@ -7,8 +7,9 @@ suivantes :
 les couples, la condition est satisfaite dès lors que l'un de ses membres a
 atteint cet âge ;
 
-- soixante ans, pour les personnes mentionnées au c du même article lorsqu'une
+- soixante ans, pour les personnes mentionnées au d du même article lorsqu'une
 condition d'âge est requise.
 
-La condition de durée d'emploi prévue au dernier alinéa de l'article L. 241-10
-est fixée à une heure par mois civil.
+Le plafond de rémunération prévu au a du I de l'article L. 241-10 est fixé, par
+mois, à soixante-cinq fois la valeur horaire du salaire minimum de croissance en
+vigueur au premier jour du mois considéré.
