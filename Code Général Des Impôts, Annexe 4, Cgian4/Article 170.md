@@ -35,7 +35,7 @@ Les sections de l'office central de répartition des produits industriels ;
 
 L'office national des anciens combattants et victimes de guerre ;
 
-L'office national de la navigation ;
+Les voies navigables de France ;
 
 L'office national interprofessionnel des céréales ;
 

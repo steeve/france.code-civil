@@ -27,8 +27,8 @@ Marseille, Martigues, Port-de-Bouc, Fos, Port-Saint-Louis-du-Rhône.
 Boulogne-sur-Mer, Caen, Cherbourg, Brest, Quimper, Lorient, La Rochelle,
 Bayonne, Sète.
 
-4° Périmètre limitant les terrains concédés à l'office national de la navigation
-au port de Bonneuil-sur-Marne, tel qu'il résulte du plan annexé au règlement
+4° Périmètre limitant les terrains concédés aux voies navigables de France au
+port de Bonneuil-sur-Marne, tel qu'il résulte du plan annexé au règlement
 d'exploitation approuvé par décision ministérielle du 27 août 1953, complétée
 par décisions ministérielles des 13 février 1965 et 1er juillet 1966.
 
