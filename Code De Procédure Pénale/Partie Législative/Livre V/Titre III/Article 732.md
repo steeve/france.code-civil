@@ -18,8 +18,7 @@ inférieure à cinq années, ni supérieure à dix années.
 
 Pendant toute la durée de la liberté conditionnelle, les dispositions de la
 décision peuvent être modifiées, suivant les distinctions de l'article 730, soit
-après avis des membres du comité de probation et d'assistance aux libérés qui
-ont pris en charge le condamné, par le juge de l'application des peines
-compétent pour mettre en oeuvre cette décision, soit, sur proposition de ce
-magistrat, et après avis, le cas échéant, du comité consultatif de libération
-conditionnelle, par le ministre de la justice.
+après avis du service pénitentiaire d'insertion et de probation, par le juge de
+l'application des peines compétent pour mettre en oeuvre cette décision, soit,
+sur proposition de ce magistrat, et après avis, le cas échéant, du comité
+consultatif de libération conditionnelle, par le ministre de la justice.

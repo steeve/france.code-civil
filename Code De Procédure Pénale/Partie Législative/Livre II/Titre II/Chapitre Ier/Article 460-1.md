@@ -1,9 +1,10 @@
 Article 460-1
 ----
-Lorsque la personne qui se prétend lésée s'est constituée partie civile par
-lettre, le président donne lecture de cette lettre dès que l'instruction à
-l'audience est terminée. Le ministère public prend ses réquisitions ; le prévenu
-et, s'il y a lieu, la personne civilement responsable présentent leur défense.
+Lorsque la personne qui se prétend lésée s'est constituée partie civile selon
+les modalités prévues à l'article 420-1, le président donne lecture de sa
+demande dès que l'instruction à l'audience est terminée. Le ministère public
+prend ses réquisitions ; le prévenu et, s'il y a lieu, la personne civilement
+responsable présentent leur défense.
 
 Si le tribunal l'estime nécessaire, il peut ordonner la comparution de la partie
 civile. En ce cas, les débats sur l'ensemble de l'affaire ou uniquement sur les

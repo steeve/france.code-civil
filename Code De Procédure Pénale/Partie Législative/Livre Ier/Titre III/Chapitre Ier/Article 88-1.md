@@ -1,9 +1,8 @@
 Article 88-1
 ----
 La consignation fixée en application de l'article 88 garantit le paiement de
-l'amende civile susceptible d'être prononcée en application du premier alinéa de
-l'article 91.
+l'amende civile susceptible d'être prononcée en application de l'article 177-2.
 
-La somme consignée est restituée lorsque l'action fondée sur cette disposition
-est prescrite ou a abouti à une décision devenue définitive constatant que la
-constitution de partie civile n'était ni abusive ni dilatoire.
+La somme consignée est restituée lorsque cette amende n'a pas été prononcée par
+le juge d'instruction ou, en cas d'appel du parquet ou de la partie civile, par
+la chambre de l'instruction.
