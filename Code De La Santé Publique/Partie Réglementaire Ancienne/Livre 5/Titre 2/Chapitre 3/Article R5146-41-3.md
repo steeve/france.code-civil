@@ -12,5 +12,6 @@ d'emploi des médicaments vétérinaires.
 
 L'exercice de la pharmacovigilance peut impliquer la recherche et l'analyse des
 données contenues dans le dossier d'autorisation de mise sur le marché d'un
-médicament vétérinaire, ainsi que des informations relatives à la fabrication, à
-la conservation et à l'administration aux animaux de ce médicament.
+médicament vétérinaire, ou d'enregistrement d'un médicament homéopathique
+vétérinaire, ainsi que des informations relatives à la fabrication, à la
+conservation et à l'administration aux animaux de ce médicament.

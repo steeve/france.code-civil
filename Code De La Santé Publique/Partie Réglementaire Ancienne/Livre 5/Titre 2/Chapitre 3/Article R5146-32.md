@@ -36,8 +36,27 @@ précliniques et cliniques relatifs à l'association nouvelle doivent être four
 sans qu'il soit nécessaire de fournir la documentation relative à chaque
 constituant individuel.
 
+3° Pour un médicament homéopathique soumis à autorisation de mise sur le marché,
+le demandeur est dispensé de produire tout ou partie des résultats des essais
+pharmacologiques, toxicologiques et cliniques lorsqu'il peut démontrer, par
+référence détaillée à la littérature publiée et reconnue dans la tradition de la
+médecine homéopathique vétérinaire pratiquée en France, que l'usage
+homéopathique du médicament ou des souches homéopathiques le composant est bien
+établi dans l'indication revendiquée et présente toutes garanties d'innocuité.
+
 II. - Lorsqu'il est fait référence à la littérature scientifique publiée, les
 experts doivent justifier le recours à cette documentation bibliographique et
 démontrer qu'elle satisfait aux exigences des protocoles arrêtés en application
 de l'article R. 5146-18 compte tenu notamment de la forme pharmaceutique et des
 constituants de l'excipient.
+
+Pour l'application du 3° du I, lorsqu'il est fait référence à la littérature
+publiée et reconnue dans la tradition de la médecine homéopathique vétérinaire
+pratiquée en France, les experts doivent justifier, sur la base de la
+documentation fournie :
+
+- le caractère homéopathique des souches utilisées et leur utilisation
+traditionnelle dans l'indication revendiquée ;
+
+- l'innocuité du médicament homéopathique vétérinaire, notamment au regard du
+degré de dilution de chacun des constituants.
