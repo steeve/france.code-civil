@@ -1,7 +1,7 @@
 Article R50-17
 ----
 Le secrétaire de la commission convoque au moins deux mois à l'avance le
-demandeur et l'agent judiciaire du Trésor à l'audience qui a été fixée. Cette
+demandeur et le fonds de garantie à l'audience qui a été fixée. Cette
 convocation est faite par lettre recommandée avec demande d'avis de réception.
 
 Les parties sont informées dans la convocation que leurs observations doivent
