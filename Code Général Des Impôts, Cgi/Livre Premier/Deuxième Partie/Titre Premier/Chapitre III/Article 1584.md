@@ -6,15 +6,15 @@ thermales, climatiques, de tourisme et de sports d'hiver, une taxe additionnelle
 aux droits d'enregistrement ou à la taxe de publicité foncière exigibles sur les
 mutations à titre onéreux :
 
-1° D'immeubles et de droits immobiliers situés sur leur territoire;
+1° D'immeubles et de droits immobiliers situés sur leur territoire ;
 
 2° De meubles corporels mentionnés au 2° de l'article 733 vendus publiquement
 dans la commune ;
 
-3° D'offices ministériels ayant leur siège dans la commune;
+3° D'offices ministériels ayant leur siège dans la commune ;
 
 4° De fonds de commerce ou de clientèle établis sur leur territoire et des
-marchandises neuves dépendant de ces fonds;
+marchandises neuves dépendant de ces fonds ;
 
 5° De droit à bail ou de bénéfice d'une promesse de bail portant sur tout ou
 partie d'un immeuble, quelle que soit la forme donnée par les parties, qu'elle
@@ -26,28 +26,18 @@ visées au 2°. Pour les mutations visées aux 3°, 4° et 5° ci-dessus constat
 par un acte passé ou une convention conclue à compter du 10 mai 1993, les taux
 de la taxe sont fixés à :
 
-FRACTION DE LA VALEUR TAXABLE :
+FRACTION DE LA VALEUR TAXABLE : TARIF APPLICABLE
 
-N'excédant pas 150.000 F
+N'excédant pas 150.000 F : 0 %
 
-TARIF APPLICABLE : 0 %
+Comprise entre 150.000 F et 700.000 F : 0,40 %
 
-FRACTION DE LA VALEUR TAXABLE :
-
-Comprise entre 150.000 F et 700.000 F
-
-TARIF APPLICABLE : 0,40 %
-
-FRACTION DE LA VALEUR TAXABLE :
-
-Supérieure à 700.000 F
-
-TARIF APPLICABLE : 1 % (1).
+Supérieure à 700.000 F : 1 %.
 
 Dans le cas prévu au 1° du premier alinéa, elle s'ajoute au droit départemental
 d'enregistrement ou à la taxe départementale de publicité foncière mentionnés
-aux articles 1594 A et 1594 F , sauf lorsque la mutation est soumise au droit
-proportionnel de 0,60 %.
+((aux articles 1594 A, sauf lorsque la mutation est soumise au droit
+proportionnel de 0,60 %, et 1594 F)) (M).
 
 La taxe est soumise aux règles qui gouvernent l'exigibilité, la restitution et
 le recouvrement des droits ou de la taxe auxquels elle s'ajoute (1).
@@ -60,29 +50,32 @@ agricole;
 
 2° (Abrogé);
 
-3° Ventes d'objets donnés en gage prévues par l'article 93 du code de commerce;
+3° Ventes d'objets donnés en gage prévues par l'article 93 du code de commerce ;
 
 4° Ventes opérées en vertu de l'article L342-11 du code rural ;
 
-5° Ventes opérées en vertu de la loi du 8 août 1913 ((modifiée)) (1') sur les
-warrants hôteliers en cas de non-paiement du warrant;
+5° Ventes opérées en vertu de la loi du 8 août 1913 modifiée sur les warrants
+hôteliers en cas de non-paiement du warrant ;
 
 6° Ventes de marchandises avariées par suite d'événements de mer et de débris de
-navires naufragés;
+navires naufragés ;
 
 7° Ventes de véhicules automobiles, de tracteurs agricoles, de cycles à moteur
 et remorques tractées ou semi-portées assujetties à la déclaration de mise en
-circulation et à l'immatriculation;
+circulation et à l'immatriculation ;
 
-8° (Abrogé);
+8° (Abrogé) ;
 
 9° Ventes d'aéronefs ainsi que de navires ou de bateaux servant soit à la
 navigation maritime, soit à la navigation intérieure, autres que les yachts ou
-bateaux de plaisance;
+bateaux de plaisance ;
 
 10° (Abrogé)
 
-(1) La perception de cette taxe a été étendue aux communes du département de la
-Guyane par l'article 10-I de la loi n° 71-1025 du 24 décembre 1971.
+(M) Modification.
 
-(1') Modification de la loi.
+(1) La perception de cette taxe a été étendue aux communes du département de la
+Guyane par l'article 10-I de la loi n° 71-1025 du 24 décembre 1971, dans les
+territoires de la Nouvelle-Calédonie et des îles Wallis-et-Futuna par l'article
+12 II de l'ordonnance 96-267 du 28 mars 1996, JO du 31, en vigueur le 1er mai
+1996.

@@ -9,9 +9,9 @@ Ils peuvent cependant opter pour leur imposition d'après le régime simplifié
 ci-après :
 
 1° Ils sont dispensés de l'obligation de déclaration prévue à l'article 287 et
-doivent seulement déposer avant le 5 mai de chaque année [*date limite*] une
-déclaration indiquant les éléments de liquidation de la taxe sur la valeur
-ajoutée afférente à l'année écoulée;
+doivent seulement déposer avant le 5 mai de chaque année une déclaration
+indiquant les éléments de liquidation de la taxe sur la valeur ajoutée afférente
+à l'année écoulée ;
 
 2° L'exigibilité de la taxe sur la valeur ajoutée due à raison des ventes
 effectuées par eux intervient lors de l'encaissement des acomptes ou du prix ;
@@ -22,29 +22,29 @@ du 2 de l'article 269 ;
 3° Ils peuvent opérer immédiatement la déduction de la taxe ayant grevé les
 biens ne constituant pas des immobilisations et les services, par imputation sur
 la taxe due au titre du trimestre pendant lequel le droit à déduction a pris
-naissance;
+naissance ;
 
 4° Sous réserve des mesures prévues aux 1° à 3° et aux articles 1693 bis et 1785
 D, les exploitants agricoles assujettis à la taxe sur la valeur ajoutée sont
 soumis à l'ensemble des dispositions prévues par le présent code. Toutefois, les
 articles 265, 282, 302 ter à 302 septies A et 1694 ne leur sont pas applicables.
 
-II Sont soumis de plein droit au régime simplifié [*obligatoire*] prévu au I :
+II. Sont soumis de plein droit au régime simplifié prévu au I :
 
 1° Les exploitants agricoles dont les activités sont, par leur nature ou leur
 importance, assimilables à celles exercées par des industriels ou des
 commerçants, même si ces opérations constituent le prolongement de l'activité
-agricole (1);
+agricole (1) ;
 
 2° Pour leurs opérations de vente d'animaux vivants de boucherie et de
 charcuterie, les exploitants agricoles qui, en raison des caractéristiques de
 leur exploitation, exercent une influence notable sur le marché local de ces
-animaux (2). L'exigibilité de la taxe sur la valeur ajoutée due à raison des
-acquisitions intracommunautaires qu'ils réalisent intervient dans les conditions
-fixées au d du 2 de l'article 269 ; 3° Pour leurs activités agricoles, les
-personnes qui effectuent des opérations commerciales d'achat, d'importation,
-d'acquisition intracommunautaire, de vente, de commission et de courtage portant
-sur des animaux vivants de boucherie et de charcuterie;
+animaux (2).
+
+3° Pour leurs activités agricoles, les personnes qui effectuent des opérations
+commerciales d'achat, d'importation, d'acquisition intracommunautaire, de vente,
+de commission et de courtage portant sur des animaux vivants de boucherie et de
+charcuterie ;
 
 4° Les personnes qui effectuent des opérations commerciales d'importation,
 d'acquisition intracommunautaire, de vente, de commission et de courtage portant
@@ -54,9 +54,6 @@ sur des animaux vivants de boucherie et de charcuterie.
 l'ensemble de leurs exploitations, calculé sur deux années civiles consécutives,
 dépasse 300.000 F. L'assujettissement prend effet à compter du 1er janvier de
 l'année suivante et au plus tôt le 1er janvier 1983.
-
-6° Les bailleurs de biens ruraux qui ont exercé l'option autorisée par le 6° de
-l'article 260.
 
 Lorsque la moyenne des recettes, non comprise la taxe sur la valeur ajoutée,
 calculée sur trois années civiles consécutives d'assujettissement, devient
@@ -76,6 +73,9 @@ Toutefois, elle est égale à la limite prévue pour les exploitants individuels
 multipliée par le nombre d'associés lorsque la moyenne des recettes du
 groupement est inférieure ou égale à 900.000 F (3).
 
+6° Les bailleurs de biens ruraux qui ont exercé l'option autorisée par le 6° de
+l'article 260.
+
 7° Pour les prestations de services rendues à leurs sociétaires, les
 coopératives d'utilisation de matériel agricole [*CUMA*] et les coopératives
 d'insémination artificielle.
@@ -92,7 +92,15 @@ matière les concernant (4).
 Les caractéristiques des activités soumises obligatoirement à la taxe sur la
 valeur ajoutée en application du II sont précisées en tant que de besoin par
 décret en conseil d'Etat, après avis des organisations professionnelles
-intéressées (1) (2).
+intéressées (5).
+
+((III bis. Les recettes accessoires commerciales et non commerciales, passibles
+de la taxe sur la valeur ajoutée, réalisées par un exploitant agricole soumis
+pour ses opérations agricoles au régime simplifié prévu au I peuvent être
+imposées selon ce régime lorsque le montant total des recettes accessoires taxes
+comprises n'excède pas, au titre de l'année civile précédente, 200 000 F et 30
+p. 100 du montant des recettes taxes comprises provenant de ses activités
+agricoles)) (M).
 
 IV. En cas de cession ou de cessation de leur activité, les exploitants
 agricoles sont tenus de souscrire dans les trente jours la déclaration prévue au
@@ -105,3 +113,8 @@ agricoles sont tenus de souscrire dans les trente jours la déclaration prévue 
 (3) Disposition applicable à compter du 1er janvier 1987.
 
 (4) Annexe II, art. 260 D à 260 I et 267 quater.
+
+(5) Annexe II, art. 260 A à 260 C.
+
+(M) Modification de la loi. Ces dispositions s'appliquent aux opérations
+réalisées à compter du 1er janvier 1995.

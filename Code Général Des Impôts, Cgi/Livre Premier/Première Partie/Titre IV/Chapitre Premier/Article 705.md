@@ -1,12 +1,11 @@
 Article 705
 ----
-I Le taux de la taxe de publicité foncière ou du droit d'enregistrement est
+I. Le taux de la taxe de publicité foncière ou du droit d'enregistrement est
 réduit à 0,60 % pour les acquisitions d'immeubles ruraux à condition :
 
 1° Qu'au jour de l'acquisition les immeubles soient exploités en vertu d'un bail
 consenti à l'acquéreur, à son conjoint, à ses ascendants ou aux ascendants de
-son conjoint et enregistré ou déclaré depuis au moins deux ans [*délai minimum*]
-;
+son conjoint et enregistré ou déclaré depuis au moins deux ans ;
 
 2° Que l'acquéreur prenne l'engagement, pour lui et ses ayants cause à titre
 gratuit, de mettre personnellement en valeur lesdits biens pendant un délai
@@ -27,16 +26,23 @@ Lorsque l'aliénation du bien acquis avec le bénéfice du taux réduit procède
 acquis en contre-échange à la condition que ces biens aient une valeur au moins
 égale à celle des biens cédés.
 
-L'apport du bien acquis dans les conditions prévues aux alinéas précédents à un
-groupement foncier agricole, à un groupement d'exploitation en commun, à une
-exploitation agricole à responsabilité limitée ou à une société civile
-d'exploitation agricole ne peut avoir pour effet de remettre en cause la
+L'apport du bien acquis dans les conditions prévues au premier et au deuxième
+alinéa à un groupement foncier agricole, à un groupement d'exploitation en
+commun, à une exploitation agricole à responsabilité limitée ou à une société
+civile d'exploitation agricole ne peut avoir pour effet de remettre en cause la
 perception de la taxe de publicité foncière au taux réduit, sous réserve que
 l'apporteur prenne dans l'acte d'apport l'engagement pour lui, son conjoint et
 ses ayants cause à titre gratuit de conserver les parts jusqu'à l'expiration du
 délai de cinq ans à compter de la date du transfert de propriété initial.
 
-II Le même taux est applicable aux acquisitions d'immeubles visées au I faites
+Lorsque la jouissance de biens acquis dans les conditions prévues aux deux
+premiers alinéas est concédée à titre onéreux à l'une des sociétés visées au
+troisième alinéa, le bénéfice du taux réduit est maintenu si l'acquéreur ou ses
+ayants cause à titre gratuit continuent de mettre personnellement en valeur
+lesdits biens dans le cadre de la société, jusqu'à l'expiration du délai de cinq
+ans à compter de leur date d'acquisition.
+
+II. Le même taux est applicable aux acquisitions d'immeubles visées au I faites
 sous les mêmes conditions en vue de l'installation d'un descendant majeur de
 l'acquéreur. En pareil cas, l'engagement d'exploiter est pris par le descendant.
 L'aliénation ou la location du bien acquis consentie à titre onéreux par
