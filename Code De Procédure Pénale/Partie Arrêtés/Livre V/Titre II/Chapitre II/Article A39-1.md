@@ -4,113 +4,112 @@ La liste des établissements pénitentiaires classés dans la catégorie des cen
 de détention ou comportant un quartier centre de détention prévue à l'article D.
 72 est fixée comme suit :
 
-Quartier centre de détention du centre pénitentiaire d'Aiton (Savoie) ;
+Quartier centre de détention du centre pénitentiaire d'Aiton (Savoie).
 
-Centre de détention d'Argentan (Orne) ;
+Centre de détention d'Argentan (Orne).
 
 Quartier centre de détention du centre pénitentiaire d'Avignon-Le Pontet
-(Vaucluse) ;
+(Vaucluse).
 
-Quartier centre de détention du centre pénitentiaire de Baie-Mahault
-(Guadeloupe) ;
+Quartier centre de détention du centre pénitentiaire de Baie-Mahaut
+(Guadeloupe).
 
 Centre de détention de Bapaume (quartier hommes, quartier femmes)
-(Pas-de-Calais) ;
+(Pas-de-Calais).
 
-Centre de détention de Bédenac (Charente-Maritime) ;
+Centre de détention de Bédenac (Charente-Maritime).
 
-Quartier centre de détention du centre pénitentiaire de Caen (Calvados) ;
+Quartier centre de détention du centre pénitentiaire de Caen (Calvados).
 
-Centre de détention de Casabianda (Haute-Corse) ;
+Centre de détention de Casabianda (Haute-Corse).
 
-Centre de détention de Châteaudun (Eure-et-Loir) ;
+Centre de détention de Châteaudun (Eure-et-Loir).
 
-Quartier centre de détention du centre pénitentiaire de Châteauroux (Indre) ;
+Quartier centre de détention du centre pénitentiaire de Châteauroux (Indre).
 
-Quartier centre de détention du centre pénitentiaire de Château-Thierry (Aisne)
-;
+Quartier centre de détention du centre pénitentiaire de Château-Thierry (Aisne).
 
-Quartier centre de détention du centre pénitentiaire de Clairvaux (Aube) ;
+Quartier centre de détention du centre pénitentiaire de Clairvaux (Aube).
 
-Quartier centre de détention du centre pénitentiaire de Draguignan (Var) ;
+Quartier centre de détention du centre pénitentiaire de Draguignan (Var).
 
-Quartier centre de détention du centre pénitentiaire de Ducos (Martinique) ;
+Quartier centre de détention du centre pénitentiaire de Ducos (Martinique).
 
-Centre de détention d'Ecrouves (Meurthe-et-Moselle) ;
+Centre de détention d'Ecrouves (Meurthe-et-Moselle).
 
-Centre de détention d'Eysses (Lot-et-Garonne) ;
+Centre de détention d'Eysses (Lot-et-Garonne).
 
-Centre de détention de Joux-la-Ville (hommes, femmes) (Yonne) ;
+Centre de détention de Joux-la-Ville (hommes, femmes) (Yonne).
 
 Quartier centre de détention du centre pénitentiaire de Lannemezan
-(Hautes-Pyrénées) ;
+(Hautes-Pyrénées).
 
-Quartier centre de détention du centre pénitentiaire de Laon (Aisne) ;
+Quartier centre de détention du centre pénitentiaire de Laon (Aisne).
 
-Centre de détention de Liancourt (Oise) ;
+Centre de détention de Liancourt (Oise).
 
 Quartier centre de détention du centre pénitentiaire de Longuenesse
-(Pas-de-Calais) ;
+(Pas-de-Calais).
 
-Centre de détention de Loos (Nord) ;
+Centre de détention de Loos (Nord).
 
 Quartier centre de détention du centre pénitentiaire de Lorient-Ploemeur
-(Morbihan) ;
+(Morbihan).
 
 Quartier centre de détention du centre pénitentiaire de Marseille (femmes)
-(Bouches-du-Rhône) ;
+(Bouches-du-Rhône).
 
-Quartier centre de détention du centre pénitentiaire de Maubeuge (Nord) ;
+Quartier centre de détention du centre pénitentiaire de Maubeuge (Nord).
 
-Centre de détention de Mauzac (Dordogne) ;
+Centre de détention de Mauzac (Dordogne).
 
-Centre de détention de Melun (Seine-et-Marne) ;
+Centre de détention de Melun (Seine-et-Marne).
 
-Centre de détention de Montmédy (Meuse) ;
+Centre de détention de Montmédy (Meuse).
 
-Centre de détention de Muret (Haute-Garonne) ;
+Centre de détention de Muret (Haute-Garonne).
 
 Quartier centre de détention du centre pénitentiaire de Nantes
-(Loire-Atlantique) ;
+(Loire-Atlantique).
 
-Centre de détention de Neuvic (Dordogne) ;
+Centre de détention de Neuvic (Dordogne).
 
-Centre de détention d'Oermingen (Bas-Rhin) ;
+Centre de détention d'Oermingen (Bas-Rhin).
 
 Quartier centre de détention du centre pénitentiaire de Perpignan
-(Pyrénées-Orientales) ;
+(Pyrénées-Orientales).
 
-Quartier centre de détention du centre pénitentiaire du Port (Réunion) ;
+Quartier centre de détention du centre pénitentiaire du Port (Réunion).
 
-Quartier centre de détention du centre pénitentiaire de Remire-Montjoly (Guyane)
-;
+Quartier centre de détention du centre pénitentiaire de Remire-Montjoly
+(Guyane).
 
 Quartier centre de détention du centre pénitentiaire de Rennes (femmes)
-(Ille-et-Vilaine) ;
+(Ille-et-Vilaine).
 
-Centre de détention de Riom (Puy-de-Dôme) ;
+Centre de détention de Riom (Puy-de-Dôme).
 
-Centre de détention de Saint-Mihiel (Meuse) ;
+Centre de détention de Saint-Mihiel (Meuse).
 
 Quartier centre de détention du centre pénitentiaire de Saint-Pierre
-(collectivité territoriale de Saint-Pierre-et-Miquelon) ;
+(collectivité territoriale de Saint-Pierre-et-Miquelon).
 
 Quartier centre de détention du centre pénitentiaire de Saint-Quentin-Fallavier
-(Isère) ;
+(Isère).
 
-Centre de détention de Saint-Sulpice-la-Pointe (Tarn) ;
+Centre de détention de Saint-Sulpice-la-Pointe (Tarn).
 
-Centre de détention de Salon-de-Provence (Bouches-du-Rhône) ;
+Centre de détention de Salon-de-Provence (Bouches-du-Rhône).
 
-Centre de détention de Tarascon (Bouches-du-Rhône) ;
+Centre de détention de Tarascon (Bouches-du-Rhône).
 
-Centre de détention de Toul (Meurthe-et-Moselle) ;
+Centre de détention de Toul (Meurthe-et-Moselle).
 
-Centre de détention d'Uzerche (Corrèze) ;
+Centre de détention d'Uzerche (Corrèze).
 
-Centre de détention de Val-de-Reuil (Eure) ;
+Centre de détention de Val-de-Reuil (Eure).
 
 Quartier centre de détention du centre pénitentiaire de Varennes-le-Grand
-(Saône-et-Loire) ;
+(Saône-et-Loire).
 
 Centre de détention de Villenauxe-la-Grande (Aube).
