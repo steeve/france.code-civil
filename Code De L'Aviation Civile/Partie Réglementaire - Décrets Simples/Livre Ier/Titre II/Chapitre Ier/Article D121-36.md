@@ -1,7 +1,7 @@
 Article D121-36
 ----
 Le fonctionnaire chargé de la tenue du registre d'immatriculation perçoit à son
-profit un droit fixé uniformément à 10 F pour l'ensemble des formalités
+profit un droit fixé uniformément à 1,5 euro pour l'ensemble des formalités
 ausquelles donne lieu, par aéronef, chacune des opérations suivantes :
 
 Inscription d'un aéronef ;

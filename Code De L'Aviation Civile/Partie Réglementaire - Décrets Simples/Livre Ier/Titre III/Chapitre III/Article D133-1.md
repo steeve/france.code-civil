@@ -22,13 +22,13 @@ de l'appareil contrôlé.
 Lorsque le contrôle est effectué en France métropolitaine, le montant ne peut
 dépasser les limites ci-après :
 
-2 p. 100 ad valorem pour la tranche allant de 0 à 22 000 F ;
+2 % ad valorem pour la tranche allant de 0 à 3 354 euros ;
 
-1,5 p. 100 ad valorem pour la tranche allant de 22 000 F à 110 000 F ;
+1,5 % ad valorem pour la tranche allant de 3 354 euros à 16 769 euros ;
 
-1 p. 100 ad valorem pour la tranche allant de 110 000 F à 220 000 F ;
+1 % ad valorem pour la tranche allant de 16 769 euros à 33 539 euros ;
 
-0,5 p. 100 ad valorem pour la tranche dépassant 220 000 F.
+0,5 % ad valorem pour la tranche dépassant 33 539 euros.
 
 Lorsque le contrôle est effectué hors du territoire métropolitain, les maxima
 indiqués ci-dessus sont affectés d'un coefficient de majoration. Ce dernier est
