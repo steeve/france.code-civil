@@ -13,3 +13,12 @@ président de la Cour des comptes.
 Elle peut également assurer ces vérifications sur demande motivée soit du
 haut-commissaire, soit de l'exécutif de la collectivité territoriale ou de
 l'établissement public concerné.
+
+L'examen de la gestion porte sur la régularité des actes de gestion, sur
+l'économie des moyens mis en oeuvre et sur l'évaluation des résultats atteints
+par rapport aux objectifs fixés par l'organe délibérant. L'opportunité de ces
+objectifs ne peut faire l'objet d'observations.
+
+La chambre territoriale des comptes peut également, dans le cadre du contrôle
+des comptes de l'autorité délégante, vérifier auprès de délégataires de service
+public les comptes qu'ils ont produits aux autorités délégantes.

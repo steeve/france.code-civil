@@ -18,4 +18,9 @@ l'examen de la gestion de tout ou partie des établissements publics nationaux
 relevant d'une même catégorie et ayant leur siège en Polynésie française peuvent
 être délégués à la chambre territoriale des comptes par arrêté du premier
 président de la Cour des comptes pris après avis du procureur général près la
-Cour des comptes et du président de la chambre territoriale des comptes. ;
+Cour des comptes et du président de la chambre territoriale des comptes.
+
+Dans les mêmes conditions, le jugement des comptes et l'examen de la gestion de
+tout ou partie des établissements publics nationaux relevant d'une même
+catégorie et ayant leur siège en Nouvelle-Calédonie peuvent être délégués à la
+chambre territoriale des comptes de la Nouvelle-Calédonie.
