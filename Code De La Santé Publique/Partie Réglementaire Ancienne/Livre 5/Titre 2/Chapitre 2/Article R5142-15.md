@@ -1,17 +1,12 @@
 Article R5142-15
 ----
-Doit être présenté à toute réquisition des agents des douanes lorsque le
-médicament est de statut communautaire au sens de l'article 4 du règlement (CEE)
-n° 2913/92 du Conseil du 12 octobre 1992 établissant le code des douanes
-communautaire, ou à l'appui de la déclaration en douane dans le cas contraire :
+L'autorisation d'importation ou, pour les particuliers, la copie de
+l'autorisation d'importation par une autre voie que le transport personnel,
+mentionnées à l'article R. 5142-12, ou une copie de l'autorisation temporaire
+d'utilisation mentionnée au b de l'article L. 5121-12 accordée pour un
+médicament importé, est présentée lors du contrôle par les agents des douanes.
 
-1° Soit l'autorisation d'importation ou l'autorisation temporaire d'utilisation
-mentionnées au premier alinéa de l'article R. 5142-12 ;
-
-2° Soit une copie certifiée conforme délivrée par l'Agence française de sécurité
-sanitaire des produits de santé de l'autorisation de mise sur le marché ou de
-l'enregistrement du médicament ;
-
-3° Soit un document établi par l'Agence française de sécurité sanitaire des
-produits de santé attestant que le médicament importé a obtenu une autorisation
-de mise sur le marché délivrée par la Communauté européenne.
+Pour les médicaments importés pourvus de l'autorisation de mise sur le marché
+mentionnée à l'article L. 5121-8 ou de l'enregistrement mentionné à l'article L.
+5121-13, les agents des douanes contrôlent le numéro d'autorisation de mise sur
+le marché ou d'enregistrement correspondant qui figure sur le conditionnement.

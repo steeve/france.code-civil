@@ -11,7 +11,9 @@ b) Le pays de provenance et, s'il est distinct, le pays d'origine du médicament
 c) Sa dénomination, sa composition, sa forme pharmaceutique, son dosage et sa
 voie d'administration ;
 
-d) Les quantités importées.
+d) Les quantités importées ;
+
+e) L'objectif de l'importation.
 
 Cette demande est accompagnée :
 
