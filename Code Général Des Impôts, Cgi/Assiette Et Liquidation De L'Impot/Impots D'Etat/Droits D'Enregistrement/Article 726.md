@@ -12,4 +12,8 @@ Le droit est assis [*assiette*] sur le prix exprimé et le capital des charges
 qui peuvent ajouter au prix ou sur une estimation des parties si la valeur
 réelle est supérieure au prix augmenté des charges.
 
-1) Voir art. 639.
+Toutefois, ce droit n'est pas applicable aux acquisitions de droits sociaux
+effectués par une société créée en vue de racheter une autre société dans les
+conditions prévues à l'article 220 quater.
+
+(1) Voir art. 639.
