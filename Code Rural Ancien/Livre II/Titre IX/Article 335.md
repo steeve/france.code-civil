@@ -1,11 +1,10 @@
 Article 335
 ----
-Les infractions aux dispositions des articles 234 à 239 et aux dispositions des
-textes pris pour leur application seront punies d'une amende de 1 300 à 3 000 F
-par contravention constatée.
+Seront punis d'une amende de 10 000 F à 100 000 F et d'un emprisonnement de deux
+mois à deux ans ou de l'une de ces deux peines seulement :
 
-Le tribunal peut prononcer la déchéance du bénéfice des mesures prises en faveur
-des victimes des calamités publiques à l'encontre des contrevenants.
+1° ceux qui auront acquis, détenu, cédé à titre gratuit ou onéreux ou utilisé du
+vaccin antiaphteux en dehors des conditions prévues à l'article 234 ;
 
-Les dispositions des articles 142 et 143 du code pénal sont applicables en ce
-qui concerne les marques prévues à l'article 235.
+2° ceux qui auront manipulé du virus aphteux en dehors des conditions prévues à
+l'article 235.

@@ -3,7 +3,14 @@ Article 226
 Tout propriétaire, toute personne ayant, à quelque titre que ce soit, la charge
 des soins ou la garde d'un animal atteint ou soupçonné d'être atteint de l'une
 des maladies contagieuses prévues par les articles 224 ou 225 est tenu d'en
-faire immédiatement la déclaration au maire de la commune où se trouve l'animal.
+faire immédiatement la déclaration à un vétérinaire sanitaire ainsi qu'au maire
+de la commune où se trouve l'animal.
+
+En outre, toute personne ayant, dans l'exercice d'une profession en rapport avec
+l'élevage, connaissance de l'existence d'un animal présentant des signes de
+fièvre aphteuse ou ayant été exposé à la contagion est tenue d'en faire
+immédiatement la déclaration à un vétérinaire sanitaire ou au maire de la
+commune où se trouve l'animal.
 
 L'animal atteint ou soupçonné d'être atteint d'une maladie contagieuse doit être
 immédiatement, et avant même que l'autorité administrative ait répondu à

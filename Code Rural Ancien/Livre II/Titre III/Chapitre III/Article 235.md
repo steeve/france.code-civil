@@ -1,5 +1,5 @@
 Article 235
 ----
-Le ministre de l'agriculture peut, par arrêté, rendre obligatoire l'apposition
-d'une marque sur les animaux, au moment de la vaccination contre la fièvre
-aphteuse.
+La manipulation des virus aphteux aux fins de recherche, de diagnostic ou de
+fabrication d'antigènes ou de vaccins n'est autorisée que dans les
+établissements agréés par l'autorité administrative.
