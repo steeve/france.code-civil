@@ -1,14 +1,30 @@
 Article R133-5
 ----
-Le ministre chargé de l'aviation civile peut habiliter des organismes techniques
-extérieurs à l'administration, à la délivrance ou au maintien en état de
-validité des documents de navigabilité ou de limitation de nuisances, ou à la
-surveillance de l'aptitude au vol ou du respect des règles d'utilisation.
+Les vérifications nécessaires à la délivrance et au maintien en état de validité
+des certificats et laissez-passer mentionnés aux articles R. 133-1 et R. 133-2
+ainsi que les contrôles prévus à l'article R. 133-1-1 sont exercés au sol et en
+vol soit par des agents de l'Etat, soit par l'intermédiaire d'organismes
+techniques ou de personnes extérieurs à l'administration, disposant de la
+qualification technique nécessaire, habilités à cet effet par le ministre chargé
+de l'aviation civile.
+
+L'habilitation des organismes techniques ou des personnes extérieurs à
+l'administration peut comporter la délivrance et le maintien en état de validité
+des certificats et laissez-passer mentionnés aux articles R. 133-1 et R. 133-2.
 
 Des arrêtés du ministre chargé de l'aviation civile déterminent les cas, les
-conditions et les limites dans lesquels ces organismes exercent leur action.
+conditions et les limites dans lesquels les agents de l'Etat, les organismes
+techniques ou les personnes extérieurs à l'administration habilités à cet effet
+exercent leur action.
 
-Un arrêté conjoint du ministre chargé de l'aviation civile et du ministre chargé
-de la défense peut également habiliter un organisme technique extérieur à
-l'administration à procéder à certaines tâches relatives à la certification de
-type prévue à l'article R. 133-1 (2°), premier alinéa.
+Si cette habilitation porte sur des contrôles et des vérifications en vue de la
+certification de type prévue à l'article R. 133-1 ou en vue de la délivrance du
+certificat d'agrément prévu au 1° de l'article R. 133-1-1, l'arrêté est
+contresigné par le ministre de la défense.
+
+Les contrôleurs auront, pour l'exercice de leur fonction et sur présentation
+d'un ordre de mission, accès à bord des aéronefs.
+
+En ce qui concerne les contrôles en vol effectués à l'égard des transporteurs
+aériens, la liste des contrôleurs sera communiquée aux entreprises soumises à
+ces contrôles. Un titre de transport devra leur être délivré gratuitement.
