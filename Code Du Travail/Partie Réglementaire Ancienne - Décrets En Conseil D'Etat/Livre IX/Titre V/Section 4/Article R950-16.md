@@ -11,14 +11,12 @@ formation ainsi que les effectifs concernés et le montant des versements
 effectués en application de ces conventions et retenus au titre de la
 participation ;
 
+La liste des organismes agréés dans les conditions prévues au 3° de l'article L.
+950-2 (3) ayant reçu des versements de l'employeur ainsi que le montant de
+chacun des versements ;
 
-La liste des organismes agréés dans les conditions prévues au
-
-3° de l'article L. 950-2 (3) ayant reçu des versements de l'employeur ainsi que
-le montant de chacun des versements ;
-
-La liste et le montant des subventions reçues de l'Etat, dans l'année, par
-l'employeur au titre de la formation professionnelle ;
+La liste et le montant des subventions reçues de l'Etat ou de la région, dans
+l'année, par l'employeur au titre de la formation professionnelle ;
 
 L'indication du ou, le cas échéant, des organismes agréés ayant reçu des
 versements de l'employeur en application de l'article L. 950-2-3.
