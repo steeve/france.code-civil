@@ -1,35 +1,28 @@
 Article R163-10
 ----
-Lorsqu'une modification significative intervient dans les données sur lesquelles
-a été fondée l'inscription sur les listes ou l'une des listes prévues à
-l'article L. 162-17 du présent code et à l'article L. 618 du code de la santé
-publique, notamment une extension des indications thérapeutiques, ou dans les
-données qui ont été prises en compte dans la fixation du prix du médicament,
-l'entreprise qui exploite le médicament est tenue d'en faire part au ministre
-chargé de la sécurité sociale ; celui-ci en informe le ministre chargé de la
-santé et le Comité économique du médicament. A cette occasion, les conditions
-d'inscription peuvent être modifiées à l'initiative des ministres chargés de la
-sécurité sociale et de la santé ou à la demande de l'entreprise qui exploite le
-médicament, après avis de la commission mentionnée à l'article R. 163-14 ; le
-prix peut également être modifié à cette occasion, à la demande de l'entreprise,
-du Comité économique du médicament ou des ministres chargés de la sécurité
-sociale, de la santé et de l'économie, dans les conditions prévues à l'article
-R. 163-9.
+I. - La demande de renouvellement de l'inscription d'un médicament sur la liste
+prévue à l'article L. 162-17 est présentée par l'entreprise qui exploite le
+médicament, au plus tard cent quatre-vingts jours avant l'expiration de la durée
+de validité de l'inscription.
 
-A la demande du ministre chargé de la sécurité sociale ou du ministre chargé de
-la santé, l'entreprise qui exploite le médicament est tenue de fournir les
-informations nécessaires à l'appréciation des conditions d'inscription, de
-renouvellement de l'inscription ou de maintien du médicament sur les listes
-prévues à l'article L. 162-17 du présent code et à l'article L. 618 du code de
-la santé publique.
+La demande de renouvellement de l'inscription est adressée au ministre chargé de
+la sécurité sociale, qui en accuse réception et en informe le ministre chargé de
+la santé ; l'entreprise adresse simultanément copie de cette demande à la
+commission prévue à l'article R. 163-15 et au Comité économique du médicament.
+La demande doit être accompagnée d'un dossier comportant les informations
+nécessaires à l'appréciation des conditions de renouvellement de l'inscription
+du médicament en application de l'article R. 163-6.
 
-A la demande du Comité économique du médicament, l'entreprise qui exploite le
-médicament est tenue de fournir les informations nécessaires à l'appréciation
-des conditions de fixation du prix du médicament inscrit sur la liste prévue à
-l'article L. 162-17.
+L'entreprise qui exploite le médicament adresse au Comité économique du
+médicament un dossier comportant les informations relatives au prix du
+médicament dont le renouvellement de l'inscription est sollicité.
 
-L'absence de transmission des informations relatives à l'inscription sur les
-listes prévues à l'article L. 162-17 du présent code et à l'article L. 618 du
-code de la santé publique, en application des premier et deuxième alinéas
-ci-dessus, peut entraîner la radiation des médicaments concernés dans les
-conditions prévues par les articles R. 163-11 et R. 163-12.
+II. - La décision relative au renouvellement de l'inscription doit être prise et
+notifiée à l'entreprise avant l'expiration de la durée de validité de
+l'inscription. L'arrêté renouvelant l'inscription du médicament sur la liste
+doit être publié au plus tard à cette date.
+
+A cette même date, si aucune décision relative au renouvellement de
+l'inscription n'a été notifiée à l'entreprise, le renouvellement de celle-ci est
+accordé tacitement et un avis mentionnant le renouvellement de l'inscription est
+publié au Journal officiel.

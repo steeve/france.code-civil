@@ -35,7 +35,7 @@ professions non agricoles et la Caisse centrale de mutualité sociale agricole.
 
 3. Le président de la commission prévue à l'article R. 5140 ou son représentant.
 
-4. Le président de la Commission de la transparence prévue à l'article R. 163-9
+4. Le président de la Commission de la transparence prévue à l'article R. 163-15
 du code de la sécurité sociale ou son représentant.
 
 5. Dix-huit membres choisis par le ministre chargé de la santé, dont :

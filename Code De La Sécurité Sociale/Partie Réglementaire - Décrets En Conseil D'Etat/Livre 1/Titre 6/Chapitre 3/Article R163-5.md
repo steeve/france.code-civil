@@ -1,13 +1,30 @@
 Article R163-5
 ----
-Peuvent être rayés de la liste prévue à l'article R. 163-2, par arrêté du
-ministre chargé de la santé et du ministre chargé de la sécurité sociale, les
-médicaments qui ne sont plus régulièrement exploités ou qui ne sont plus
-indispensables à la thérapeutique, ou qui ne peuvent plus figurer sur la liste
-en vertu des dispositions des articles R. 163-3 et R. 163-4 ou les médicaments
-dont il est constaté une prescription fréquente hors des indications
-thérapeutiques retenues lors de l'inscription, à la suite d'actions
-publicitaires et de promotion.
+I. - Ne peuvent être inscrits sur la liste prévue à l'article L. 162-17 :
 
-Dans ce dernier cas, l'avis de la commission de contrôle de la publicité
-mentionnée à l'article R. 5054 du code de la santé publique est requis.
+1° Les médicaments dont les éléments de conditionnement, l'étiquetage ou la
+notice, définis à l'article R. 5000 du code de la santé publique, ou la
+publicité auprès des professionnels de santé font mention d'une utilisation non
+thérapeutique ;
+
+2° Les médicaments qui n'apportent ni amélioration du service médical rendu
+appréciée par la commission mentionnée à l'article R. 163-15 ni économie dans le
+coût du traitement médicamenteux ;
+
+3° Les médicaments susceptibles d'entraîner des hausses de consommation ou des
+dépenses injustifiées ;
+
+4° Les médicaments dont le prix proposé par l'entreprise ne serait pas justifié
+eu égard aux critères prévus au premier alinéa de l'article L. 162-16-1 ;
+
+5° Les médicaments dont les forme, dosage ou présentation ne sont pas justifiés
+par l'utilisation thérapeutique.
+
+Les dispositions du 2° ci-dessus ne sont pas applicables aux spécialités
+génériques définies au premier alinéa de l'article L. 601-6 du code de la santé
+publique, lorsque les spécialités de référence appartenant aux mêmes groupes
+génériques figurent sur la liste prévue à l'article L. 162-17.
+
+II. - L'inscription des médicaments qui ont fait l'objet d'une publicité auprès
+du public au sens de l'article L. 551-3 du code de la santé publique peut être
+refusée.

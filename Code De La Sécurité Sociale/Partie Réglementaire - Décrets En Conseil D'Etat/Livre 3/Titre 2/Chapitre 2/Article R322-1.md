@@ -4,7 +4,7 @@ La participation de l'assuré prévue à l'article L. 322-2 est supprimée pour
 certains médicaments reconnus comme irremplaçables et particulièrement coûteux,
 figurant sur une liste établie par arrêté conjoint du ministre chargé de la
 santé et du ministre chargé de la sécurité sociale, après avis de la commission
-instituée par l'article R. 163-8 [*exonération du ticket modérateur*] ainsi que
+instituée par l'article R. 163-15 [*exonération du ticket modérateur*] ainsi que
 pour les frais d'analyses ou d'examens de laboratoire relatifs au dépistage
 sérologique de l'infection par le virus de l'immunodéficience humaine et par le
 virus de l'hépatite C.
@@ -29,9 +29,11 @@ laboratoires, sauf pour ceux qui sont mentionnés au 1° ci-dessus ;
 
 5°) 65 p. 100 pour les médicaments principalement destinés au traitement des
 troubles ou affections sans caractère habituel de gravité [*médicaments de
-confort*], figurant sur une liste établie par arrêté du ministre chargé de la
-santé et du ministre chargé de la sécurité sociale, après avis de la commission
-instituée par l'article R. 163-8 ;
+confort*], et pour les médicaments dont le service médical rendu, tel que défini
+au I de l'article R. 163-3, n'a pas été classé en application du 6° de l'article
+R. 163-18 comme majeur ou important figurant sur une liste établie par arrêté du
+ministre chargé de la santé et du ministre chargé de la sécurité sociale, après
+avis de la commission instituée par l'article R. 163-15 ;
 
 6°) 35 p. 100 pour tous les autres frais, y compris les frais de transport
 prévus au 1° de l'article L. 321-1.
