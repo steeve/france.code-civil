@@ -1,12 +1,13 @@
 Article 363 D
 ----
-I. Il est institué, jusqu'au 31 décembre 1995, une taxe parafiscale sur les
-viandes de veau, boeuf, mouton, porc et animaux des espèces chevaline et asine
-et de leurs croisements, perçue au profit de l'Association nationale pour le
-développement agricole, pour être versée au Fonds national de développement
-agricole. Cette taxe n'est perçue que sur les viandes provenant d'animaux
-d'origine française au sens des dispositions du règlement communautaire du 14
-décembre 1990 susvisé.
+I. Il est institué, à compter du 1er janvier 1996 et jusqu'au 31 décembre 2000,
+une taxe parafiscale (1) sur les viandes de veau, boeuf, mouton, porc,
+volailles, animaux de l'espèce cunicole, de l'espèce caprine et animaux des
+espèces chevaline et asine et de leurs croisements, perçue au profit de
+l'Association nationale pour le développement agricole, pour être versée au
+Fonds national de développement agricole. Cette taxe n'est perçue que sur les
+viandes provenant d'animaux d'origine française au sens des dispositions du
+règlement (CEE) n° 3620/90 du 14 décembre 1990.
 
 II. La taxe est à la charge de l'agriculteur ou de l'éleveur dernier
 propriétaire de l'animal. Elle est acquittée lors de la présentation de cet
@@ -18,21 +19,39 @@ abattages opérés en vue de la vente.
 
 III. Le montant maximum de la taxe est fixé à :
 
-49,50 F par tonne pour la viande de boeuf, la viande de veau u et les viandes
-des espèces chevaline, asine et de leurs croisements ;
+60 F par tonne pour les viandes des animaux de l'espèce bovine ;
 
-52,50 F par tonne pour la viande de porc ;
+44,50 F par tonne pour les viandes des animaux de l'espèce porcine ;
 
-46,50 F par tonne pour la viande de mouton.
+60 F par tonne pour les viandes des animaux des espèces ovine et caprine ;
 
-Un arrêté conjoint des ministres chargés de l'économie, du budget et de
-l'agriculture fixe, chaque année, dans les limites prévues ci-dessus les
-montants de la taxe.
+60 F par tonne pour les viandes des animaux des espèces chevaline, asine et de
+leurs croisements ;
 
-IV. La taxe est constatée et recouvrée suivant les règles et sous les garanties,
-privilèges et sanctions prévus en matière de taxe à la valeur ajoutée.
+44 F par tonne pour les viandes des animaux de l'espèce cunicole ;
 
-Pour son assiette et sa liquidation, sont applicables les dispositions des
-articles 111 quater A, 111 quater B, 111 quater C, 111 quater E, 111 quater F,
-111 quater G, 111 quater H et 111 quater I du chapitre IV de l'annexe III au
-code général des impôts.
+24,80 F par tonne pour les viandes de volailles du genre Gallus, à l'exception
+des poules de réforme ;
+
+72 F par tonne pour les viandes de poules de réforme ;
+
+30,60 F par tonne pour les viandes de dindes ;
+
+36 F par tonne pour les viandes de canards, de pintades et d'oies.
+
+Un arrêté conjoint du ministre chargé de l'économie, du ministre chargé du
+budget et du ministre chargé de l'agriculture fixe, chaque année, dans les
+limites prévues ci-dessus, les montants de la taxe.
+
+IV. La taxe est constatée et recouvrée par la direction générale des impôts
+suivant les règles et sous les garanties, privilèges et sanctions prévus en
+matière de taxe à la valeur ajoutée.
+
+La taxe est perçue par les services des impôts dans tous les établissements où
+il est procédé à l'abattage des animaux.
+
+Elle est assise sur le poids de viande fraîche net, tel qu'il est défini à
+l'article 111 quater LA de l'annexe III au code général des impôts. Pour la
+liquidation de la taxe, sont applicables les dispositions des articles 111
+quater G, 111 quater H et 111 quater I de l'annexe III au code général des
+impôts.
