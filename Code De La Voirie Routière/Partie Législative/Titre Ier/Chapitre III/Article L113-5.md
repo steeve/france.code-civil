@@ -1,9 +1,10 @@
 Article L113-5
 ----
-Lorsqu'ils relèvent du régime de la concession, les travaux exécutés sur la voie
-publique pour l'établissement ou l'entretien des réseaux de transport ou de
-distribution d'électricité ou de gaz sont effectués dans les conditions fixées
-par l'article 10 de la loi du 15 juin 1906 sur les distributions d'énergie.
+Lorsqu'ils relèvent du régime de la concession ou autorisation de transport de
+gaz naturel, les travaux exécutés sur la voie publique pour l'établissement ou
+l'entretien des réseaux de transport ou de distribution d'électricité ou de gaz
+sont effectués dans les conditions fixées par l'article 10 de la loi du 15 juin
+1906 sur les distributions d'énergie.
 
 Lorsqu'ils relèvent du régime de la permission de voirie, ces mêmes travaux sont
 effectués dans les conditions fixées par les articles 1er et 2 de la loi du 27
