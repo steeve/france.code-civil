@@ -4,7 +4,7 @@ Article 231
 y compris la valeur des avantages en nature, sont soumises à une taxe sur les
 salaires égale à 4,25 % de leur montant, à la charge des personnes ou
 organismes, à l'exception des collectivités locales et de leurs groupements, des
-services départementaux de lutte contre l'incendie, des bureaux d'aide sociale
+services départementaux de lutte contre l'incendie, des centres d'action sociale
 dotés d'une personnalité propre lorsqu'ils sont subventionnés par les
 collectivités locales, du centre de formation des personnels communaux et des
 caisses des écoles [*exonérations*], qui paient des traitements, salaires,

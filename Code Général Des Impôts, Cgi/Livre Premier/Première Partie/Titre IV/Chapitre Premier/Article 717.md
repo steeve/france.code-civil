@@ -3,7 +3,7 @@ Article 717
 Les résolutions volontaires ou judiciaires de contrats de vente de maisons
 individuelles répondant aux conditions fixées pour les habitations à loyer
 modéré par l'article L411-1 du code de la construction et de l'habitation et
-construites par les bureaux d'aide sociale, hospices ou hôpitaux, les caisses
+construites par les centres d'action sociale, hospices ou hôpitaux, les caisses
 d'épargne, les sociétés de construction ou par des particuliers, sont soumises à
 une imposition de 430 F [*montant*].
 
