@@ -1,5 +1,8 @@
 Article A159-1
 ----
-En cas de décès ou de disparition de la personne à qui la qualité de combattant
-volontaire de la Résistance a été reconnue, la carte délivrée à l'ayant cause
-est établie conformément au modèle n° 2 annexé au présent titre.
+Lorsque la carte de combattant volontaire de la Résistance est établie au nom
+d'une personne décédée ou disparue, la photographie du titulaire n'y est pas
+apposée.
+
+Mention est faite, au verso, des nom, prénoms, degré de parenté et adresse de
+l'ayant cause auquel la carte est délivrée.
