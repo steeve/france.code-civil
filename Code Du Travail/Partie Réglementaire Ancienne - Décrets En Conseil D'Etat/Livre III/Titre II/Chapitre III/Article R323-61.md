@@ -13,3 +13,7 @@ peuvent être placés sous l'autorité du même responsable.
 Chaque atelier protégé et chaque centre de distribution de travail fait l'objet
 d'une comptabilité distincte, qui est tenue conformément aux prescriptions du
 plan comptable général.
+
+L'atelier protégé doit disposer de ses propres locaux. Si plusieurs activités
+sont organisées dans le même ensemble immobilier, l'atelier protégé doit pouvoir
+être distingué des autres activités.
