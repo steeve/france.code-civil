@@ -1,17 +1,14 @@
-Article 158 quater
+Article 209 ter
 ----
-Les dispositions des articles 158 bis et 158 ter ne sont pas applicables aux
-produits distribués :
+Les dispositions de l'article 209 bis-1 ne sont pas applicables aux produits
+distribués :
 
 1° Par les sociétés immobilières d'investissement et les sociétés immobilières
 de gestion ;
 
-2° Par les sociétés d'investissement régies par les titres I et II de
-l'ordonnance n° 45-2710 du 2 novembre 1945 et remplissant les conditions prévues
-au premier alinéa de l'article 208 A, par les sociétés d'investissement à
-capital variable [*SICAV*] régies par la loi n° 79-12 du 3 janvier 1979 et
-remplissant les conditions prévues au deuxième alinéa du même article, et par
-les organismes assimilés visés aux articles 207-2, 208-1° ter, 1° quater et 1°
+2° Par les sociétés d'investissement remplissant les conditions prévues, suivant
+le cas, au premier alinéa ou au deuxième alinéa de l'article 208 A et par les
+organismes assimilés visés aux articles 207-2, 208-1° ter, 1° quater et 1°
 quinquies ;
 
 3° Par les sociétés immobilières pour le commerce et l'industrie [*SICOMI*]
