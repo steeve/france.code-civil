@@ -3,7 +3,7 @@ Article L931-9
 Nul ne peut administrer ou diriger une institution de prévoyance [*interdiction
 d'exercice, incapacité*] :
 
-1° S'il a fait l'objet d'une condamnation :
+1° S'il a fait l'objet d'une condamnation définitive :
 
 a) Pour crime,
 
@@ -66,3 +66,6 @@ l'encontre de toute personne condamnée pour infraction à la législation ou à
 réglementation relative aux institutions de prévoyance, aux sociétés d'assurance
 régies par le code des assurances et aux mutuelles régies par le code de la
 mutualité.
+
+Les personnes appelées à fonder, diriger ou administrer une institution de
+prévoyance doivent posséder la qualification nécessaire à leur fonction.

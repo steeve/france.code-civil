@@ -1,13 +1,15 @@
 Article R*321-7
 ----
-Le directeur et le contrôleur financier assistent avec voix consultative aux
-délibérations du conseil d'administration et éventuellement à celles du comité
-restreint.
+Le directeur général de l'agence est nommé par le ministre chargé du logement.
+Il prépare les délibérations du conseil d'administration et du comité restreint
+et en assure l'exécution.
 
-Les délibérations concernant le budget, les comptes financiers, les emprunts,
-les acquisitions ou aliénations d'immeubles et les baux ne sont exécutoires
-qu'après approbation expresse du ministre chargé de la construction et de
-l'habitation.
+Ses instructions sont transmises au délégué mentionné à l'article R. 321-11 et
+communiquées au président de la commission instituée à l'article R. 321-10. Il
+prescrit l'exécution des recettes et des dépenses de l'agence. Il représente
+l'agence en justice et dans tous les actes de la vie civile et fait tous actes
+utiles au fonctionnement de l'agence. Il établit le rapport annuel d'activités,
+le soumet au conseil d'administration et le transmet, après approbation du
+conseil, aux ministres de tutelle.
 
-Les autres délibérations sont exécutoires, sauf opposition de l'un des ministres
-intéressés, dans un délai de quinze jours à compter de leur date.
+Il nomme aux emplois de l'agence et a autorité sur le personnel.

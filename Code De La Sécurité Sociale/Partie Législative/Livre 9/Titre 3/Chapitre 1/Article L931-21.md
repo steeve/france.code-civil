@@ -1,31 +1,31 @@
 Article L931-21
 ----
-La décision du ministre chargé de la sécurité sociale ou de la commission de
-contrôle instituée par l'article L. 951-1 prononçant le retrait total de
-l'agrément emporte de plein droit, à dater de sa publication au Journal
-officiel, la dissolution de l'institution de prévoyance.
+La décision du ministre chargé de la sécurité sociale ou celle de la commission
+de contrôle instituée par l'article L. 951-1 prononçant le retrait total de
+l'agrément emporte de plein droit, à dater de sa publication, la dissolution de
+l'institution de prévoyance ou de l'union.
 
-La liquidation est effectuée par un mandataire de justice désigné sur requête de
-la commission par ordonnance rendue par le président du tribunal compétent. Ce
-magistrat commet par la même ordonnance un juge chargé de contrôler les
-opérations de liquidation ; ce juge est assisté, dans l'exercice de sa mission,
-par un ou plusieurs membres de l'inspection générale des affaires sociales ou du
-corps de contrôle des assurances désignés par la commission. Le juge ou le
-liquidateur sont remplacés dans les mêmes formes.
+Dans ce cas, la liquidation judiciaire est ouverte à la requête de la commission
+de contrôle instituée par l'article L. 951-1. La liquidation est régie par le
+chapitre II du titre II du livre VI du code de commerce, sous réserve des
+dispositions du présent chapitre.
 
-Les ordonnances relatives à la nomination ou au remplacement du juge-commissaire
-et du liquidateur ne peuvent être frappées ni d'opposition, ni d'appel, ni de
-recours en cassation.
+La commission de contrôle désigne un liquidateur chargé de la vérification des
+créances d'assurance, ainsi que de l'inventaire des actifs directement liés aux
+passifs, tels que les créances à l'égard des assurés, des cédantes, des
+réassureurs et des co-assureurs.
 
-Un décret en Conseil d'Etat détermine les modalités d'application du présent
-article et notamment les missions dévolues au liquidateur et au
-juge-commissaire, les publications et notifications faites aux créanciers, les
-modalités d'admission, de répartition et de paiement des créances privilégiées,
-certaines et contestées, les transactions et aliénations autorisées par le
-juge-commissaire, les modalités de clôture de la liquidation, les modalités et
-délais de cessation des effets des bulletins d'adhésion aux règlements et des
-contrats souscrits selon que les opérations en cause relèvent du a, du b ou du c
-de l'article L. 931-1.
+Le tribunal désigne parallèlement en tant que liquidateur, lors du jugement
+d'ouverture, un ou plusieurs mandataires de justice, qui peuvent être choisis en
+dehors de la liste des mandataires judiciaires à la liquidation des entreprises.
+Ce liquidateur est chargé de l'inventaire des autres actifs et des opérations de
+liquidation.
 
-Les articles L. 143-10 et L. 143-11 du code du travail sont applicables aux
-opérations de liquidation prévues par le présent article.
+Le tribunal désigne par la même décision un juge-commissaire chargé de contrôler
+les opérations de liquidation. Ce juge est assisté, dans l'exercice de sa
+mission, par un ou plusieurs commissaires désignés par la commission de contrôle
+instituée par l'article L. 951-1.
+
+Le juge-commissaire peut demander à tout moment des renseignements ou des
+justifications au liquidateur et faire effectuer des vérifications sur place par
+les commissaires.

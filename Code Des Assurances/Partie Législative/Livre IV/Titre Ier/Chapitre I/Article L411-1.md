@@ -14,7 +14,7 @@ Le conseil comprend en outre :
 - un membre du Conseil d'Etat ayant le grade de conseiller, désigné par le
 vice-président du Conseil d'Etat ;
 
-- cinq représentants de l'Etat ;
+- six représentants de l'Etat ;
 
 - trois personnalités choisies en raison de leurs compétences, dont un
 professeur des facultés de droit ;

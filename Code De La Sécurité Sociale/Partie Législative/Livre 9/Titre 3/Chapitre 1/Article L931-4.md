@@ -6,9 +6,7 @@ sécurité sociale.
 
 L'agrément est accordé, sur demande de l'institution, pour les opérations d'une
 ou de plusieurs branches d'activité. L'institution ne peut pratiquer que les
-opérations pour lesquelles elle est agréée. L'agrément comporte l'approbation
-des statuts de l'institution. Leur modification fait également l'objet d'une
-approbation.
+opérations pour lesquelles elle est agréée.
 
 Les bulletins d'adhésion aux règlements et les contrats souscrits en infraction
 aux dispositions des deux alinéas précédents sont nuls. Toutefois, cette nullité

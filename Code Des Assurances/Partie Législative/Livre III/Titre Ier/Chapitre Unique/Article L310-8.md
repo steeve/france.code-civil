@@ -1,9 +1,5 @@
 Article L310-8
 ----
-Dans les trois mois suivant la commercialisation d'un nouveau modèle de contrat
-d'assurance, les entreprises d'assurance ou de capitalisation en informent le
-ministre chargé de l'économie, sous une forme définie par arrêté de celui-ci.
-
 Le ministre peut exiger la communication des documents à caractère contractuel
 ou publicitaire ayant pour objet une opération d'assurance ou de capitalisation.
 
