@@ -14,7 +14,8 @@ c) Des servitudes d'utilité publique mentionnées à l'article L. 126-1 ou
 instituées ou modifiées postérieurement à la date où le plan a été rendu public
 ou approuvé ;
 
-d) Des zones d'intervention foncière.
+d) De la liste des lotissements devant être annexés au plan d'occupation des
+sols en application de l'article R. 123-24 (6°).
 
 Un arrêté du maire constate dans chaque cas qu'il a été procédé à la mise à jour
 du plan.
@@ -23,13 +24,3 @@ Dans les cas visés au c de l'alinéa précédent, si cette formalité n'a pas �
 effectuée dans le délai de trois mois suivant la notification par le commissaire
 de la République à la commune, le commissaire de la République y procède
 d'office par arrêté.
-
-Lorsqu'elle consiste à reporter un périmètre de rénovation urbaine, un secteur
-sauvegardé, un périmètre de restauration immobilière ou un périmètre de
-résorption de l'habitat insalubre qui est compris à l'intérieur de la zone
-urbaine d'un plan d'occupation des sols où une zone d'intervention foncière a
-été créée ou instituée de plein droit, la décision constatant la mise à jour du
-plan est communiquée sans délai au conseil supérieur du notariat, à la chambre
-nationale des avoués près la cour d'appel, aux barreaux constitués près les
-tribunaux de grande instance dans le ressort desquels se trouve la commune et
-aux greffes des mêmes tribunaux.
