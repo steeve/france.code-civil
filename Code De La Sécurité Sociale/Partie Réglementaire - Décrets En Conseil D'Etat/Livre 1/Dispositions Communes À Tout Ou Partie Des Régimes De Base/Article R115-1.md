@@ -25,6 +25,10 @@ professions non-agricoles ;
 8°) les caisses de prévoyance mentionnées à l'article 1050 du code rural ;
 
 9°) la caisse des dépôts et consignations pour les fonds et organismes publics
-suivants : le fonds national de solidarité, le fonds spécial d'allocation
-vieillesse, le fonds commun des accidents du travail, le fonds commun des
-accidents du travail agricole.
+suivants : le fonds de solidarité vieillesse instituée par l'article L. 135-1 du
+code de la sécurité sociale, le service de l'allocation spéciale vieillesse, le
+fonds commun des accidents du travail, le fonds commun des accidents du travail
+agricole ;
+
+10° Les organismes agréés [*de recouvrement de cotisations sociales*] mentionnés
+à l'article L. 382-4.

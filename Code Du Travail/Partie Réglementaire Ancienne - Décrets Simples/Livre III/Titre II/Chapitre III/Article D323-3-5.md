@@ -1,7 +1,8 @@
 Article D323-3-5
 ----
-Une équipe technique étudie les cas soumis à la commission [*technique
-d'orientation et de reclassement professionnel*] recueille les avis nécessaires
+Une équipe technique, dont la composition est arrêtée par le préfet et le
+président du conseil général, étudie les cas soumis à la commission [*technique
+d'orientation et de reclassement professionnel*], recueille les avis nécessaires
 et présente la synthèse de ses travaux à la commission qui statue.
 
 L'équipe peut faire appel aux spécialistes qui lui sont extérieurs et dont le

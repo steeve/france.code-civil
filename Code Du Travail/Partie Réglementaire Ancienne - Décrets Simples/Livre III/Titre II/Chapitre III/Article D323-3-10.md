@@ -5,13 +5,13 @@ professionnel*] peut être appelé à siéger dans les sections spécialisées o
 deux [*nombre*] au plus de leur formations.
 
 L'effectif d'une section ou de chacune de ses formations ne peut être supérieur
-à 10 membres, non compris le président.
+à douze membres, non compris le président.
 
 Le président de la commission est de droit président de chacune des sections
 spécialisées. En cas d'absence ou d'empêchement, cette présidence est assurée
-par le directeur départemental du travail et de la main-d'oeuvre pour la
-première section et par le directeur départemental de l'action sanitaire et
-sociale pour la deuxième.
+par le directeur départemental du travail, de l'emploi et de la formation
+professionnelle pour la première section et par le directeur départemental des
+affaires sanitaires et sociales pour la deuxième.
 
 Lorsque les sections comprennent plusieurs formations et que la présidence de
 celles-ci ne peut être assurée conformément à la règle posée à l'alinéa

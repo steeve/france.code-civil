@@ -11,11 +11,11 @@ handicapé et de se prononcer sur l'orientation et le reclassement de
 l'intéressé.
 
 La deuxième section connaît des cas autres que ceux que définit l'alinéa
-précédent. Elle est notamment chargée d'apprécier le taux d'invalidité et le
-degré d'aptitude au travail, de se prononcer sur l'orientation de l'intéressé
-ainsi que sur son admission dans un établissement spécialisé et, en particulier,
-dans ceux qui sont prévus aux articles 46 et 47 de la loi n. 75-534 du 30 juin
-1975 et de déterminer si l'état ou la situation du handicapé justifie
-l'attribution de la ou des allocations prévues aux articles 35 et 36 de la même
-loi ainsi que de l'allocation de logement instituée par la loi modifiée n.
-71-582 du 16 juillet 1971.
+précédent. Elle est notamment chargée d'apprécier le taux d'invalidité, de se
+prononcer sur l'orientation de l'intéressé ainsi que sur son admission dans un
+établissement spécialisé, et, en particulier, dans ceux qui sont prévus aux
+articles 46 et 47 de la loi n° 75-534 du 30 juin 1975, et de déterminer si
+l'état ou la situation de la personne handicapée justifie l'attribution de
+l'allocation compensatrice prévue à l'article 39 de la même loi ou de
+l'allocation aux adultes handicapés prévue aux articles L. 821-1 et L. 821-2 du
+code de la sécurité sociale.
