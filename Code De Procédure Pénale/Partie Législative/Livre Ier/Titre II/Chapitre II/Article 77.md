@@ -1,10 +1,11 @@
 Article 77
 ----
 L'officier de police judiciaire peut, pour les nécessités de l'enquête, garder à
-sa disposition toute personne à l'encontre de laquelle il existe des indices
-faisant présumer qu'elle a commis ou tenté de commettre une infraction. Il en
-informe dès le début de la garde à vue le procureur de la République. La
-personne gardée à vue ne peut être retenue plus de vingt-quatre heures.
+sa disposition toute personne à l'encontre de laquelle il existe une ou
+plusieurs raisons plausibles de soupçonner qu'elle a commis ou tenté de
+commettre une infraction. Il en informe dès le début de la garde à vue le
+procureur de la République. La personne gardée à vue ne peut être retenue plus
+de vingt-quatre heures.
 
 Le procureur de la République peut, avant l'expiration du délai de vingt-quatre
 heures, prolonger la garde à vue d'un nouveau délai de vingt-quatre heures au

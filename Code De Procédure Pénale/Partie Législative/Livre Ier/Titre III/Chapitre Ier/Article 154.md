@@ -2,11 +2,11 @@ Article 154
 ----
 Lorsque l'officier de police judiciaire est amené, pour les nécessités de
 l'exécution de la commission rogatoire, à garder à sa disposition une personne à
-l'encontre de laquelle il existe des indices faisant présumer qu'elle a commis
-ou tenté de commettre une infraction, il en informe dès le début de cette mesure
-le juge d'instruction saisi des faits. Ce dernier contrôle la mesure de garde à
-vue. L'officier de police judiciaire ne peut retenir la personne plus de
-vingt-quatre heures.
+l'encontre de laquelle il existe une ou plusieurs raisons plausibles de
+soupçonner qu'elle a commis ou tenté de commettre une infraction, il en informe
+dès le début de cette mesure le juge d'instruction saisi des faits. Ce dernier
+contrôle la mesure de garde à vue. L'officier de police judiciaire ne peut
+retenir la personne plus de vingt-quatre heures.
 
 La personne doit être présentée avant l'expiration du délai de vingt-quatre
 heures à ce magistrat ou, si la commission rogatoire est exécutée dans un autre

@@ -5,9 +5,9 @@ nécessités de l'enquête sont tenues de comparaître. Si elles ne satisfont pa
 cette obligation, avis en est donné au procureur de la République qui peut les y
 contraindre par la force publique.
 
-Les personnes à l'encontre desquelles n'existent pas d'indices faisant présumer
-qu'elles ont commis ou tenté de commettre une infraction ne peuvent être
-retenues que le temps strictement nécessaire à leur audition.
+Les personnes à l'encontre desquelles il n'existe aucune raison plausible de
+soupçonner qu'elles ont commis ou tenté de commettre une infraction ne peuvent
+être retenues que le temps strictement nécessaire à leur audition.
 
 L'officier de police judiciaire dresse procès-verbal de leurs déclarations. Les
 agents de police judiciaire désignés à l'article 20 peuvent également, sous le

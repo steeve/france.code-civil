@@ -1,9 +1,10 @@
 Article 63
 ----
 L'officier de police judiciaire peut, pour les nécessités de l'enquête, placer
-en garde à vue toute personne à l'encontre de laquelle il existe des indices
-faisant présumer qu'elle a commis ou tenté de commettre une infraction. Il en
-informe dès le début de la garde à vue le procureur de la République.
+en garde à vue toute personne à l'encontre de laquelle il existe une ou
+plusieurs raisons plausibles de soupçonner qu'elle a commis ou tenté de
+commettre une infraction. Il en informe dès le début de la garde à vue le
+procureur de la République.
 
 La personne gardée à vue ne peut être retenue plus de vingt-quatre heures.
 Toutefois, la garde à vue peut être prolongée pour un nouveau délai de

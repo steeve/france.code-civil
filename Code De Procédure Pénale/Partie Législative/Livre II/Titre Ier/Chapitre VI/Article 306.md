@@ -17,3 +17,10 @@ Lorsque le huis clos a été ordonné, celui-ci s'applique au prononcé des arr�
 qui peuvent intervenir sur les incidents contentieux visés à l'article 316.
 
 L'arrêt sur le fond doit toujours être prononcé en audience publique.
+
+Les dispositions du présent article sont applicables devant la cour d'assises
+des mineurs si la personne poursuivie, mineure au moment des faits, est devenue
+majeure au jour de l'ouverture des débats et qu'elle en fait la demande, sauf
+s'il existe un autre accusé qui est toujours mineur ou qui, mineur au moment des
+faits et devenu majeur au jour de l'ouverture des débats, s'oppose à cette
+demande.
