@@ -14,5 +14,5 @@ et financier, les gérants, le président du conseil d'administration ou du
 directoire des sociétés visées au deuxième alinéa de l'article 1649 quater-0 B,
 sont présumés, sauf preuve contraire, être les propriétaires des valeurs
 mobilières non présentées pour inscription en compte ou qui n'auraient pas été
-vendues dans les conditions prévues au quatrième alinéa de l'article L211-4 du
+vendues dans les conditions prévues au cinquième alinéa de l'article L211-4 du
 code précité.
