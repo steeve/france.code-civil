@@ -23,8 +23,9 @@ d'habitations à loyer modéré dont la qualité de la gestion sur les plans
 technique et financier a été appréciée à l'occasion du contrôle prévu aux
 articles L. 451-1 et R. 451-2 pour permettre à ces sociétés de réaliser pour le
 compte de tiers toutes opérations d'aménagement [*zones d'habitation, zones
-industrielles*] prévues au premier alinéa de l'article L. 321-1 du code de
-l'urbanisme. Cet agrément peut être limité dans le temps.
+industrielles*] prévues aux articles L. 300-1 et suivants du code de
+l'urbanisme. Cet agrément peut être limité dans le temps. Cet agrément n'est pas
+nécessaire pour les lotissements.
 
 Il peut également être limité à certaines catégories d'opérations en raison de
 leur nature ou de leur importance ou à une ou plusieurs opérations déterminées.
