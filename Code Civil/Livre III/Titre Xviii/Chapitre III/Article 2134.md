@@ -10,14 +10,17 @@ immeuble, celle qui est requise en vertu du titre portant la date la plus
 ancienne est réputée d'un rang antérieur, quel que soit l'ordre qui résulte du
 registre prévu à l'article 2200.
 
-Dans le cas où le requérant est légalement dispensé de la représentation d'un
-titre, le rang de son inscription est réputé antérieur à celui de toute
-inscription d'hypothèque judiciaire ou conventionnelle requise le même jour.
+Toutefois, les inscriptions de séparations de patrimoine prévues par l'article
+2111, dans le cas visé au second alinéa de l'article 2113, ainsi que celles des
+hypothèques légales prévues à l'article 2121, 1°, 2° et 3°, sont réputées d'un
+rang antérieur à celui de toute inscription d'hypothèque judiciaire ou
+conventionnelle prise le même jour.
 
 Si plusieurs inscriptions sont prises le même jour relativement au même
-immeuble, soit en vertu de titres portant la même date, soit au profit de
-requérants légalement dispensés de la représentation d'un titre, les
-inscriptions viennent en concurrence quel que soit l'ordre du registre susvisé.
+immeuble, soit en vertu de titres prévus au deuxième alinéa mais portant la même
+date, soit au profit de requérants titulaires du privilège et des hypothèques
+visés par le troisième alinéa, les inscriptions viennent en concurrence quel que
+soit l'ordre du registre susvisé.
 
 L'ordre de préférence entre les créanciers privilégiés ou hypothécaires et les
 porteurs de warrants, dans la mesure où ces derniers sont gagés sur des biens
