@@ -23,11 +23,11 @@ partie de ses propres activités.
 II. Sous réserve d'un agrément préalable délivré par le ministre de l'économie
 et des finances (1) et dans la mesure définie par cet agrément, les fusions de
 sociétés et opérations assimilées qui entrent dans les prévisions de l'article
-210 peuvent ouvrir droit, dans la limite édictée au I, deuxième alinéa, au
+210 A peuvent ouvrir droit, dans la limite édictée au I, deuxième alinéa, au
 report des déficits antérieurs non encore déduits soit par les sociétés
 apporteuses, soit par les sociétés bénéficiaires des apports, sur les bénéfices
 ultérieurs de ces dernières.
 
-Ces dispositions s'appliqueront jusqu'au 31 décembre 1981 [*date limite*].
+Ces dispositions s'appliqueront jusqu'au 31 décembre 1982 [*date limite*].
 
 (1) Voir Annexe IV, art. 170 quater.

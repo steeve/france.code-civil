@@ -15,7 +15,7 @@ immatriculés au répertoire des métiers.
 
 Cette taxe comprend :
 
-- un droit fixe par ressortissant, dont le maximum fixé à 240 F (2) est
+- un droit fixe par ressortissant, dont le maximum fixé à 288 F (2) est
 révisable lors du vote de chaque loi de finances et peut donner lieu à
 dépassement dans la limite de 40 % de son montant en vue de financer des actions
 de formation continue ;
@@ -34,5 +34,5 @@ dégrevés d'office de la taxe.
 
 (1) Décret n° 73-942 du 3 octobre 1973 (J.O. du 5).
 
-(2) Montant fixé par la loi de finances pour 1981. Pour 1980, ce maximum était
-fixé à 200 F (Loi n° 80-30 du 18 janvier 1980, art. 94).
+(2) Pour 1981, le maximum était fixé à 240 F (Loi n° 80-1094 du 30 décembre
+1980, art. 69).

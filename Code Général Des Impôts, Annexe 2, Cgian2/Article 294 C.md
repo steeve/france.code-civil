@@ -11,5 +11,5 @@ d'enregistrement ;
 
 2° En ce qui concerne les donations antérieures consenties à compter du 5
 septembre 1979, l'indication du ou des bénéficiaires du droit global à
-exonération de 500.000 F prévu à l'article 793 A du même code et le montant pour
-lequel il a été utilisé.
+exonération prévu à l'article 793 A du même code et le montant pour lequel il a
+été utilisé.

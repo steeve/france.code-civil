@@ -1,7 +1,7 @@
 Article 828
 ----
 I. Sont soumis à un droit fixe d'enregistrement ou à une taxe fixe de publicité
-foncière de 600 F [*montant*] :
+foncière de 750 F [*montant*] :
 
 1° Les actes de constitution des sociétés qui ont uniquement pour objet les
 activités visées à l'article 1655 ter [*sociétés immobilières de copropriété*]
@@ -29,5 +29,5 @@ code de l'urbanisme.
 
 II. Les actes relatifs à la constitution de sociétés ayant pour objet la
 construction d'immeubles affectés à l'habitation pour les trois-quarts au moins
-de leur superficie totale sont soumis à un droit fixe d'enregistrement de 600 F
+de leur superficie totale sont soumis à un droit fixe d'enregistrement de 750 F
 pour les apports mobiliers.

@@ -24,7 +24,7 @@ nombre d'enfants.
 
 Pour l'application des dispositions du premier alinéa, sont assimilées à des
 enfants à charge [*définition*] les personnes considérées comme étant à la
-charge du contribuable en vertu de l'article 196 A.
+charge du contribuable en vertu de l'article 196 A bis.
 
 (1) Disposition applicable à compter de l'imposition des revenus de 1980.
 

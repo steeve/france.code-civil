@@ -1,8 +1,9 @@
 Article L111
 ----
-Une liste des personnes assujetties à l'impôt sur le revenu ou à l'impôt sur les
-sociétés est dressée de manière à distinguer les deux impôts, par chaque
-direction des services fiscaux pour les impositions établies dans son ressort.
+Une liste des personnes assujetties à l'impôt sur le revenu, à l'impôt sur les
+sociétés ou à l'impôt sur les grandes fortunes est dressée de manière à
+distinguer les trois impôts, par chaque direction des services fiscaux pour les
+impositions établies dans son ressort.
 
 Cette liste est tenue par la direction des services fiscaux à la disposition des
 contribuables qui relèvent de sa compétence territoriale. L'administration peut
@@ -14,7 +15,7 @@ aux directions des services fiscaux dont dépendent ces résidences,
 établissements ou exploitations.
 
 La liste concernant l'impôt sur le revenu est complétée, dans les conditions
-fixées par décret par l'indication du nombre de parts retenu pour l'application
+fixées par décret, par l'indication du nombre de parts retenu pour l'application
 du quotient familial et du montant de l'impôt mis à la charge de chaque
 redevable.
 

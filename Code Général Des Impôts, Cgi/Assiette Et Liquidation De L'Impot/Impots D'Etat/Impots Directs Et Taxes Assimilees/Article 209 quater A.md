@@ -3,14 +3,25 @@ Article 209 quater A
 I Les bénéfices que les entreprises de construction de logements passibles de
 l'impôt sur les sociétés retirent des ventes d'immeubles achevés ou assimilées
 [*profits de construction*] peuvent n'être soumis audit impôt lors de leur
-réalisation que sur 30 % [*pourcentage*] de leur montant, si le solde en est
-porté à un compte de réserve spéciale [*condition*].
+réalisation que sur une fraction de leur montant, si le solde en est porté à un
+compte de réserve spéciale. Cette fraction est égale à :
+
+- 30 % du montant des bénéfices réalisés du 1er janvier 1972 au 31 décembre 1981
+;
+
+- 80 % du montant des bénéfices réalisés du 1er janvier 1982 au 31 décembre
+1986.
 
 II Les prélèvements opérés sur cette réserve donnent lieu au paiement de l'impôt
-sur les sociétés lorsque les bénéfices correspondants y sont portés depuis moins
-de sept ans [*délai, durée*]. L'impôt est dû sur la moitié ou sur la totalité
-des sommes prélevées selon qu'elles figurent ou non à la réserve depuis quatre
-ans au moins.
+sur les sociétés lorsque les bénéfices correspondants y sont portés depuis :
+
+- moins de sept ans, pour les bénéfices réalisés du 1er janvier 1972 au 31
+décembre 1981. L'impôt est dû sur la moitié ou sur la totalité des sommes
+prélevées selon qu'elles figurent ou non à la réserve depuis quatre ans au moins
+;
+
+- moins de quatre ans, pour les bénéfices réalisés du 1er janvier 1982 au 31
+décembre 1986. L'impôt est dû sur la totalité des sommes prélevées.
 
 III Les entreprises de construction de logements [*définition*] visées au I
 s'entendent de celles qui ont pour seule activité la construction pour leur

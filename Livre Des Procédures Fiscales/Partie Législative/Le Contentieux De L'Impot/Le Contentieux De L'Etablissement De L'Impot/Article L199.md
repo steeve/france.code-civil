@@ -12,6 +12,7 @@ montant des abonnements prévus à l'article 1700 du même code pour les
 
 En matière de droits d'enregistrement, de taxe de publicité foncière, de droits
 de timbre, de contributions indirectes et de taxes assimilées à ces droits,
-taxes ou contributions, le tribunal compétent est le tribunal de grande
-instance. Les jugements des tribunaux de grande instance sont sans appel et ne
-peuvent être attaqués que par voie de cassation.
+taxes ou contributions sous réserve des dispositions de l'article L. 199 A, le
+tribunal compétent est le tribunal de grande instance. Les jugements des
+tribunaux de grande instance sont sans appel et ne peuvent être attaqués que par
+voie de cassation.

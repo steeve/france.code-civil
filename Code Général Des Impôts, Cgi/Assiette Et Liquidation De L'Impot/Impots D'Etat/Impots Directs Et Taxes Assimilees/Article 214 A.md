@@ -1,7 +1,7 @@
 Article 214 A
 ----
 I Pour la détermination du bénéfice servant de base à l'impôt sur les sociétés,
-les sociétés françaises qui, avant le 1er janvier 1982 [*date limite*], se
+les sociétés françaises qui, avant le 1er janvier 1983 [*date limite*], se
 constituent ou procèdent à des augmentations de capital peuvent, si elles
 remplissent les conditions indiquées au II, déduire les sommes effectivement
 allouées à titre de dividendes aux actions ou parts représentatives des apports
@@ -34,7 +34,7 @@ l'article 1728;
 b Les sociétés par actions, que leurs titres soient ou non cotés en Bourse, et
 les sociétés à responsabilité limitée, pour les opérations de constitution ou
 d'augmentation de capital réalisées entre le 1er juin 1978 et le 31 décembre
-1981.
+1982.
 
 c Les sociétés françaises passibles de l'impôt sur les sociétés à raison des
 dividendes et revenus assimilés distribués en rémunération des sommes qui, ayant

@@ -5,9 +5,11 @@ l'impôt sur les sociétés des sommes que les associés ou actionnaires posséd
 en droit ou en fait la direction de l'entreprise ont mises à la disposition
 constante de la société pendant une période minimale de douze mois est ramené à
 600 F [*montant*] pour les augmentations de capital réalisées avant le 31
-décembre 1981 [*date limite*].
+décembre 1981 [*date limite*] ; ce taux est ramené à 750 F pour les
+augmentations de capital réalisées au cours de l'année 1982 si les associés ou
+actionnaires apporteurs sont des personnes physiques.
 
-II. Est également fixé à 600 F le droit perçu lors de l'incorporation au capital
+II. Est également fixé à 750 F le droit perçu lors de l'incorporation au capital
 d'une société :
 
 1° De la réserve de réévaluation des immobilisations non amortissables prévue à

@@ -29,9 +29,7 @@ Une subvention égale à 4,25 % aux centres régionaux de la propriété foresti
 pour être utilisée dans la limite de leurs budgets respectifs approuvés par les
 ministres chargés de l'économie et des finances et de l'agriculture;
 
-b 4,35 % versés au budget de l'agriculture par voie de fonds de concours
-conformément aux dispositions du premier alinéa de l'article 3 de la loi n°
-51-426 du 16 avril 1951;
+b 4,35 % versés en recettes du budget général ;
 
 c 0,90 % affecté à des subventions allouées pour la diffusion des emplois du
 bois et des produits de la forêt, dans les conditions fixées par arrêté conjoint

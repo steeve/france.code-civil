@@ -10,14 +10,14 @@ modifiés :
 
 A 3,50 % pour les oeufs, les animaux de basse-cour et les animaux de boucherie
 et de charcuterie définis par décret (1) ; ce taux est porté, jusqu'au 31
-décembre 1980, à 4,70 % pour les oeufs, les animaux de basse-cour et les porcs,
+décembre 1981, à 4,70 % pour les oeufs, les animaux de basse-cour et les porcs,
 lorsque ces produits sont commercialisés par l'intermédiaire de groupements de
 producteurs constitués pour la réalisation des objectifs définis par la loi
 d'orientation agricole n° 60-808 du 5 août 1960 ;
 
 A 2,40 % pour les autres produits ; ce taux est porté à 2,90 % pour les vins et
 les fruits et légumes et pour les produits de l'horticulture et des pépinières
-commercialisés, en 1977 et les trois années suivantes, par l'intermédiaire des
+commercialisés, en 1977 et les quatre années suivantes, par l'intermédiaire des
 groupements de producteurs constitués pour la réalisation des objectifs définis
 par la loi d'orientation agricole n° 60-808 du 5 août 1960.
 

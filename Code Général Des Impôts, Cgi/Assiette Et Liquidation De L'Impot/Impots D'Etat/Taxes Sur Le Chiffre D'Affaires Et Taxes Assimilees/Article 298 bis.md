@@ -46,6 +46,19 @@ portant sur des animaux vivants de boucherie et de charcuterie;
 vente, de commission et de courtage portant sur des animaux vivants de boucherie
 et de charcuterie.
 
+5° Les exploitants agricoles, lorsque le montant moyen des recettes de
+l'ensemble de leurs exploitations, calculé sur deux années civiles consécutives,
+dépasse 300.000 F. L'assujettissement prend effet à compter du 1er janvier de
+l'année suivante et au plus tôt le 1er janvier 1983.
+
+Lorsque la moyenne des recettes, non comprise la taxe sur la valeur ajoutée,
+calculée sur trois années civiles consécutives d'assujettissement, devient
+inférieure à 300.000 F, les exploitants agricoles peuvent cesser d'être soumis
+au régime simplifié à compter du 1er janvier suivant, à condition qu'ils le
+signalent au service des impôts avant le 1er février et qu'ils n'aient pas
+bénéficié, au cours de cette période de trois ans, de remboursement de crédit de
+taxe.
+
 III L'option peut être exercée distinctement pour les ventes d'animaux vivants
 de boucherie et de charcuterie et pour les autres activités agricoles.
 
@@ -64,4 +77,4 @@ intéressées (1) (2).
 
 2) Annexe II, art. 260 C.
 
-3) Annexe II, art. 260 D à 267 I et 267 quater.
+3) Annexe II, art. 260 D à 260 I et 267 quater.

@@ -1,6 +1,6 @@
 Article 960
 ----
-I Une taxe de 1.320 F [*montant*] est perçue pour la délivrance de
+I Une taxe de 1.600 F [*montant*] est perçue pour la délivrance de
 l'autorisation ou du récépissé de déclaration d'ouverture de débits de boissons
 de troisième ou quatrième catégorie, ainsi que de translation ou de mutation de
 ces débits (1).
@@ -22,7 +22,7 @@ même en cas d'infraction à la législation des débits de boissons commise par
 cessionnaire dans le délai de trois ans à compter de la mutation et à l'occasion
 de l'exploitation du débit cédé.
 
-I bis La taxe prévue au I est fixée à 265 F pour les débits de boissons de 3e ou
+I bis La taxe prévue au I est fixée à 320 F pour les débits de boissons de 3e ou
 4e catégorie ouverts à titre temporaire dans les foires, expositions ou autres
 manifestations (1).
 
@@ -31,7 +31,7 @@ intervenant au cours d'une année civile pour un débit appartenant à une même
 personne. Elle est payable d'avance le 1er janvier de chaque année [*date*] ou
 lors de la première ouverture du débit.
 
-II Une taxe de 100 F est perçue (1) :
+II Une taxe de 120 F est perçue (1) :
 
 Pour la délivrance du récépissé de déclaration de la profession de commerçant en
 substances vénéneuses;

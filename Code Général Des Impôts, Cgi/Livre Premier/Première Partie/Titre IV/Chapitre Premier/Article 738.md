@@ -1,6 +1,6 @@
 Article 738
 ----
-Sont enregistrées au droit fixe de 150 F [*montant*] :
+Sont enregistrées au droit fixe de 250 F [*montant*] :
 
 1° Les cessions, subrogations, rétrocessions et résiliations de baux à durée
 limitée de biens de toute nature.

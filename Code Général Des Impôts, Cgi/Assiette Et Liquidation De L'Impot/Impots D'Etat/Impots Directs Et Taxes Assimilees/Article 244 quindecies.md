@@ -7,11 +7,13 @@ est déduit des résultats de l'exercice suivant.
 
 En cas de cession d'une immobilisation créée ou acquise avec le bénéfice de la
 déduction avant l'expiration d'un délai de cinq ans, la déduction est rapportée
-au résultat imposable de l'exercice de la cession dans la limite de 10 % de la
-valeur non amortie du bien ou de 10 % de son prix de vente si ce dernier est
-supérieur à cette valeur. Il en est de même lorsque le local commercial dont
-l'aménagement a ouvert droit à la déduction cesse de remplir les conditions
-prévues au présent article.
+au résultat imposable de l'exercice de la cession dans la limite de 5 %, 10 % ou
+15 % de la valeur non amortie du bien ou de 5 %, 10 % ou 15 % de son prix de
+vente si ce dernier est supérieur à cette valeur, selon que le taux de la
+déduction à laquelle l'immobilisation cédée avait donné lieu, avait été de 5 %,
+10 % ou 15 %. Il en est de même lorsque le local commercial dont l'aménagement a
+ouvert droit à la déduction cesse de remplir les conditions prévues au présent
+article.
 
 Lorsque l'immobilisation est cédée à une entreprise qui l'a prise en location de
 manière continue depuis sa création ou son acquisition à l'état neuf, le

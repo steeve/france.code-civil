@@ -4,7 +4,7 @@ I. Lorsqu'un associé, actionnaire, commanditaire ou porteur de parts
 bénéficiaires cède à un tiers, pendant la durée de la société, tout ou partie de
 ses droits sociaux, l'excédent du prix de cession sur le prix d'acquisition - ou
 la valeur au 1er janvier 1949, si elle est supérieure - de ces droits est taxé
-exclusivement à l'impôt sur le revenu au taux de 15 %.
+exclusivement à l'impôt sur le revenu au taux de 15 % (1).
 
 L'imposition de la plus-value ainsi réalisée est subordonnée à la seule
 condition que les droits détenus directement ou indirectement dans les bénéfices
@@ -27,7 +27,7 @@ l'échange et les quatre années suivantes.
 
 I ter. Par exception aux dispositions du paragraphe I bis, l'imposition de la
 plus-value réalisée en cas d'échange de droits sociaux résultant d'une fusion ou
-d'une scission et intervenant entre le 1er janvier 1980 et le 31 décembre 1981
+d'une scission et intervenant entre le 1er janvier 1980 et le 31 décembre 1982
 peut, sur demande expresse du contribuable, être reportée au moment où s'opérera
 la transmission ou le rachat des droits sociaux reçus à l'occasion de l'échange
 par cet associé.
@@ -43,3 +43,5 @@ de laquelle l'échange de droits sociaux est intervenu, sans préjudice des
 sanctions prévues aux articles 1728 et 1729.
 
 II. (Disposition périmée).
+
+Voir également art. 248 B.

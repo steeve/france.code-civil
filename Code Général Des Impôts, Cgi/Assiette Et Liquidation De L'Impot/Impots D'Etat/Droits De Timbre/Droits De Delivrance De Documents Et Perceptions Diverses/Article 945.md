@@ -5,13 +5,13 @@ I. Nul ne peut pénétrer dans les salles où, conformément à la loi du 15 jui
 le directeur de l'établissement et passible d'un droit de timbre (1) dont la
 quotité est fixée comme suit :
 
-30 F si l'entrée est valable pour la journée ;
+35 F si l'entrée est valable pour la journée ;
 
-105 F si l'entrée est valable pour la semaine ;
+130 F si l'entrée est valable pour la semaine ;
 
-255 F si l'entrée est valable pour un mois ;
+310 F si l'entrée est valable pour un mois ;
 
-510 F [*montant*] si l'entrée est valable pour la saison.
+620 F [*montant*] si l'entrée est valable pour la saison.
 
 II. Les dispositions qui précèdent ne sont pas applicables aux cartes d'entrée
 dans les salles de jeux de boule (2).

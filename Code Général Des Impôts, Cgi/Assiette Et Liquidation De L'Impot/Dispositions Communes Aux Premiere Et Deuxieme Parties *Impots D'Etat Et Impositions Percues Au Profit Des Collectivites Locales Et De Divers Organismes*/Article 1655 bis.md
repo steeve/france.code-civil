@@ -40,7 +40,7 @@ par l'arrêté prononçant l'agrément de la société.
 
 II. Les demandes d'agrément doivent indiquer de façon précise l'objet de la
 société et son programme d'équipement [*mentions obligatoires*]. Elles doivent
-être présentées avant le 31 décembre 1981 [*date limite*] au ministre de
+être présentées avant le 31 décembre 1982 [*date limite*] au ministre de
 l'économie et des finances qui les soumet, pour avis, à la commission centrale
 mentionnée à l'article 121 V ter de l'annexe IV au présent code, laquelle
 s'adjoint, pour la circonstance, le directeur général des douanes et des droits

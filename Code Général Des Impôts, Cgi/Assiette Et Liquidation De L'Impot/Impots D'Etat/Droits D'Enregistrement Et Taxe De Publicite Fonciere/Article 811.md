@@ -1,6 +1,6 @@
 Article 811
 ----
-Sont enregistrés au droit fixe de 600 F [*montant*] :
+Sont enregistrés au droit fixe de 750 F [*montant*] :
 
 1° Les actes constatant des prorogations pures et simples de sociétés ;
 
