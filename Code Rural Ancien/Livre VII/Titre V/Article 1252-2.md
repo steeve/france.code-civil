@@ -30,7 +30,15 @@ l'article L. 322-4 du code du travail pour les accidents survenus par le fait ou
 
 6° Les bénéficiaires des allocations versées au titre de l'article L. 322-3 du
 code du travail pour les accidents survenus par le fait ou à l'occasion des
-actions favorisant leur reconversion.
+actions favorisant leur reconversion ;
+
+7° Les salariés d'exploitations ou d'entreprises agricoles ayant leur siège dans
+les départements du Haut-Rhin, du Bas-Rhin ou de la Moselle désignés, dans les
+conditions définies à l'article L. 225-8 du code du travail, pour siéger dans
+une instance instituée par une disposition législative ou réglementaire auprès
+d'une autorité de l'Etat pour les accidents survenus par le fait ou à l'occasion
+de leurs missions, dans la mesure où ils ne bénéficient pas à un autre titre des
+dispositions du présent article.
 
 Des décrets fixent les modalités de prise en charge, par les caisses
 d'assurance-accident agricole des départements du Haut-Rhin, du Bas-Rhin et de
