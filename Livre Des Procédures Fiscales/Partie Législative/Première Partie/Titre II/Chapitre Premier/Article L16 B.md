@@ -15,12 +15,9 @@ preuve de ces agissements, en effectuant des visites en tous lieux, même privé
 où les pièces et documents s'y rapportant sont susceptibles d'être détenus et
 procéder à leur saisie, quel qu'en soit le support.
 
-II. Chaque visite doit être autorisée par une ordonnance du président du
-tribunal de grande instance dans le ressort duquel sont situés les lieux à
-visiter ou d'un juge délégué par lui.
-
-(Le président du tribunal de grande instance peut confier cette fonction au juge
-des libertés et de la détention).
+II. Chaque visite doit être autorisée par une ordonnance du juge des libertés et
+de la détention du tribunal de grande instance dans le ressort duquel sont
+situés les lieux à visiter.
 
 Le juge doit vérifier de manière concrète que la demande d'autorisation qui lui
 est soumise est bien fondée ; cette demande doit comporter tous les éléments
@@ -28,12 +25,9 @@ d'information en possession de l'administration de nature à justifier la visite
 
 L'ordonnance comporte :
 
-Le cas échéant, mention de la délégation du président du tribunal de grande
-instance ;
+l'adresse des lieux à visiter ;
 
-L'adresse des lieux à visiter ;
-
-Le nom et la qualité du fonctionnaire habilité qui a sollicité et obtenu
+le nom et la qualité du fonctionnaire habilité qui a sollicité et obtenu
 l'autorisation de procéder aux opérations de visite.
 
 Le juge motive sa décision par l'indication des éléments de fait et de droit
@@ -98,7 +92,7 @@ l'article 56 du code de procédure pénale ; l'article 58 de ce code est
 applicable.
 
 IV. Un procès-verbal relatant les modalités et le déroulement de l'opération et
-consignant les constatations effectuées est dressé sur le champ par les agents
+consignant les constatations effectuées est dressé sur-le-champ par les agents
 de l'administration des impôts. Un inventaire des pièces et documents saisis lui
 est annexé s'il y a lieu. Le procès-verbal et l'inventaire sont signés par les
 agents de l'administration des impôts et par l'officier de police judiciaire
