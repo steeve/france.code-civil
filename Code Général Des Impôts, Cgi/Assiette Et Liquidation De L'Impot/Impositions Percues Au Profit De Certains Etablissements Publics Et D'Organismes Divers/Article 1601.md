@@ -14,7 +14,7 @@ immatriculés au répertoire des métiers.
 
 Cette taxe comprend :
 
-a. un droit fixe par ressortissant, dont le maximum fixé à 390 F est révisable
+a. un droit fixe par ressortissant, dont le maximum fixé à 404 F est révisable
 lors du vote de la loi de finances de l'année (1). Ce droit fait obligatoirement
 l'objet d'une majoration comprise entre 50 % et 80 % de ce maximum en vue de
 financer des actions de formation continue ;
@@ -34,4 +34,5 @@ dégrevés d'office de la taxe.
 (1) Pour 1984, le maximum était fixé à 355 F (loi n° 83-1179 du 29 décembre
 1983, art. 119) ; pour 1985 à 373 F (loi n° 84-1208 du 29 décembre 1984, art.
 114) ; pour 1986 à 390 F (loi n° 85-1403 du 30 décembre 1985, art. 70) ; pour
-1987 à 404 F (oi n° 86-1317 du 30décembre 1986, ar. 96).
+1987 à 404 F (loi n° 86-1317 du 30 décembre 1986, ar. 96) ; pour 1988 à 425 F
+(loi 87-1060 du 30 décembre 1987, art. 106).

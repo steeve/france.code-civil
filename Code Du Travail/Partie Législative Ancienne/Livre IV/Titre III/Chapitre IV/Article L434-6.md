@@ -6,8 +6,7 @@ en vue de l'examen annuel des comptes prévus à l'article L. 432-4, alinéa 9 e
 documents mentionnés au quatorzième alinéa du même article. Il peut également se
 faire assister d'un expert-comptable dans les conditions prévues à l'article L.
 432-5 et lorsque la procédure de consultation prévue à l'article L. 321-3 pour
-licenciement économique d'ordre structurel ou conjoncturel doit être mise en
-oeuvre.
+licenciement économique doit être mise en oeuvre.
 
 La mission de l'expert-comptable porte sur tous les éléments d'ordre économique,
 financier ou social nécessaires à l'intelligence des comptes et à l'appréciation
@@ -42,4 +41,4 @@ dans des conditions définies par accord entre l'employeur et la majorité des
 membres élus du comité, aux autres locaux de l'entreprise.
 
 Les experts visés ci-dessus sont tenus aux obligations de secret et de
-discrétion tels que définis à l'article L. 432-6.
+discrétion tels que définis à l'article L. 432-7.

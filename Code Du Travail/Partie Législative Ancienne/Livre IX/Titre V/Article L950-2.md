@@ -33,6 +33,9 @@ est prononcé pour un an [*durée*]. Il est éventuellement renouvelé au vu d'u
 rapport faisant ressortir l'activité des organismes concernés au cours de
 l'exercice écoulé.
 
+5° En contribuant au financement des dépenses de fonctionnement des conventions
+de conversion prévues à l'article L. 322-3.
+
 Sont regardées comme des actions de formation [*définition*] au sens du 1° et du
 3° du présent article et peuvent également faire l'objet d'un financement soit
 par les fonds d'assurance-formation, soit dans le cadre des dispositions de

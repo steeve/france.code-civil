@@ -72,21 +72,19 @@ ces opérations ainsi que pour la partie des bénéfices et des plus-values
 qu'elles réalisent en tant que société immobilière pour le commerce et
 l'industrie ;
 
-3° sexies. Les sociétés agréées, dans les conditions prévues par l'article 30 de
+3° sexies. Les sociétés agréées dans les conditions prévues par l'article 30 de
 la loi n° 80-531 du 15 juillet 1980 relative aux économies d'énergie et à
-l'utilisation de la chaleur, pour le financement d'installations ou de matériels
-destinés à économiser l'énergie, à developper les sources d'énergie de
-remplacement des hydrocarbures ou à promouvoir les utilisations du charbon (2) ,
-ainsi que des terrains d'emprise de ces installations ou matériels, pour la
-partie de leur bénéfice net provenant des opérations de crédit-bail et de
-location ou des plus-values qu'elles réalisent dans le cadre des opérations de
-crédit-bail ;
+l'utilisation de la chaleur (Sofergie) pour leurs activités autres que celles
+autorisées par le II de l'article 87 de la loi de finances pour 1987 (n° 86-1317
+du 30 décembre 1986) ; l'exonération concerne la partie de leur bénéfice net
+provenant des opérations de crédit-bail et de location ou des plus-values
+qu'elles réalisent dans le cadre des opérations de crédit-bail ;
 
 3° septies. Les sociétés de capital-risque qui fonctionnent dans les conditions
 prévues à l'article 1er de la loi 85-695 du 11 juillet 1985 pour les produits et
 plus-values nets provenant des titres de sociétés non-cotées qu'elles détiennent
 ainsi que pour les produits et plus-values nets d'autres placements effectués
-dans la limite du tiers de ce portefeuille de titres (3);
+dans la limite du tiers de ce portefeuille de titres (2);
 
 4° Les associations de mutilés de guerre et d'anciens combattants reconnues
 d'utilité publique, émettant des participations à la loterie nationale avec
@@ -108,8 +106,4 @@ de terrains leur appartenant.
 
 (1) Voir Annexe IV, art. 23 bis.
 
-(2) La liste des installations et matériels concernés a été fixée par le décret
-n° 81-37 du 20 janvier 1981 (J.O. du 21), complété par le décret n° 83-832 du 16
-septembre 1983 (J.O. du 21).
-
-(3) Voir le décret n° 85-1102 du 9 octobre 1985 et Annexe II, art. 140 ter.
+(2) Voir le décret n° 85-1102 du 9 octobre 1985 et Annexe II, art. 140 ter.

@@ -34,9 +34,9 @@ pensions militaires d'invalidité et des victimes de guerre ; cette disposition
 est également applicable aux veuves, âgées de plus de soixante-quinze ans, des
 personnes mentionnées ci-dessus.
 
-2. Le quotient familial prévu à l'article 194 est augmenté d'une part entière,
-au lieu d'une demi-part, pour chaque enfant titulaire de la carte d'invalidité
-prévue à l'article 173 du code de la famille et de l'aide sociale.
+2. Le quotient familial prévu à l'article 194 est augmenté d'une demi-part pour
+chaque enfant à charge titulaire de la carte d'invalidité prévue à l'article 173
+du code de la famille et de l'aide sociale.
 
 3. Le quotient familial prévu à l'article 194 est augmenté d'une demi-part pour
 les contribuables mariés, lorsque l'un ou l'autre des conjoints remplit l'une

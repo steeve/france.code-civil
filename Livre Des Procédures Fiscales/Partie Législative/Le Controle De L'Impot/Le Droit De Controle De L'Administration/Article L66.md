@@ -9,13 +9,19 @@ imposables qu'ils ont réalisées, sous réserve de la procédure de régularisa
 prévue à l'article L. 67 ;
 
 2° A l'impôt sur les sociétés, les personnes morales passibles de cet impôt qui
-n'ont pas déposé dans le délai légal leur déclaration de résultats ;
+n'ont pas déposé dans le délai légal leur déclaration, sous réserve de la
+procédure de régularisation prévue à l'article L. 68 ;
 
 3° Aux taxes sur le chiffre d'affaires, les personnes qui n'ont pas déposé dans
 le délai légal les déclarations qu'elles sont tenues de souscrire en leur
-qualité de redevables des taxes.
+qualité de redevables des taxes ;
 
 4° Aux droits d'enregistrement et aux taxes assimilées, les personnes qui n'ont
 pas déposé une déclaration ou qui n'ont pas présenté un acte à la formalité de
 l'enregistrement dans le délai légal, sous réserve de la procédure de
-régularisation prévue à l'article L. 67.
+régularisation prévue à l'article L. 67 ;
+
+5° Aux taxes assises sur les salaires, les personnes assujetties à ces taxes qui
+n'ont pas déposé dans le délai légal les déclarations qu'elles sont tenues de
+souscrire, sous réserve de la procédure de régularisation prévue l'article L.
+68."

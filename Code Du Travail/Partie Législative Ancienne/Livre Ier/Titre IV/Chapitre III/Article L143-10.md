@@ -5,7 +5,7 @@ de toute nature dues aux salariés et apprentis pour les soixante derniers jours
 de travail ou d'apprentissage [*période*] doivent déduction faite des acomptes
 déjà perçus, être payées, nonobstant l'existence de toute autre créance
 privilégiée, jusqu'à concurrence d'un plafond mensuel identique pour toutes les
-catégories de bénéficiaires.
+catégories de bénéficiaires [*super-privilège de la créance de salaire*].
 
 Ce plafond est fixé par voie réglementaire sans pouvoir être inférieur à deux
 fois le plafond retenu pour le calcul des cotisations de sécurité sociale
@@ -17,4 +17,5 @@ accessoires et notamment l'indemnité de fin de contrat [*à durée déterminée
 mentionnée à l'article L. 122-3-5, l'indemnité pour inobservation du délai congé
 mentionnée à l'article L. 122-8, l'indemnité compensatrice mentionnée à
 l'article L. 122-32-6 et l'indemnité de précarité d'emploi mentionnée à
-l'article L. 124-4-4.
+l'article L. 124-4-4 et ainsi que la contribution de l'employeur à l'allocation
+de conversion due au titre d'une convention visée à l'article L. 322-3.

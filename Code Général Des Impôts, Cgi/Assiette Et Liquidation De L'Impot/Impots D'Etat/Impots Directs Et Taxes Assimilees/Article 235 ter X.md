@@ -18,7 +18,9 @@ complémentaire à l'exercice au titre duquel la provision initiale a été
 constituée, au taux de 1 % par mois s'étant écoulé depuis la constitution de
 cette provision. La période ainsi déterminée est diminuée du nombre d'années
 correspondant au nombre d'exercices au titre desquels il n'était pas dû d'impôt
-sur les sociétés.
+sur les sociétés. Pour les provisions constituées au titre d'exercices ouverts à
+compter du 1er janvier 1986, la taxe déterminée dans les conditions définies au
+présent alinéa est assise sur 45 % des excédents des provisions réintégrées.
 
 Toutefois, dans le cas où le montant des provisions constituées pour faire face
 aux sinistres d'un exercice déterminé a été augmenté à la clôture d'un exercice

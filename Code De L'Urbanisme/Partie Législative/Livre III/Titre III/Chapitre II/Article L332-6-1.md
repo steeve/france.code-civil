@@ -16,6 +16,9 @@ d) La taxe pour le financement des dépenses des conseils d'architecture,
 d'urbanisme et de l'environnement prévue à l'article 1599 B du code général des
 impôts ;
 
+e) La taxe spéciale d'équipement prévue à l'article 1599 OB du code général des
+impôts.
+
 2° a) La participation pour raccordement à l'égout prévue à l'article L. 35-4 du
 code de la santé publique ;
 

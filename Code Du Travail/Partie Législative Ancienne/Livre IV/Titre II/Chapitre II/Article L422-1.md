@@ -30,9 +30,9 @@ travail temporaire, pour la mise à disposition de salariés temporaires
 
 Dans les entreprises comportant moins de cinquante salariés [*effectif*], les
 délégués du personnel doivent être réunis et consultés par l'employeur qui
-envisage de procéder à un licenciement collectif pour motif économique d'ordre
-conjoncturel ou structurel. Le procès-verbal de cette réunion est transmis à
-l'autorité administrative compétente.
+envisage de procéder à un licenciement collectif pour motif économique. Le
+procès-verbal de cette réunion est transmis à l'autorité administrative
+compétente.
 
 Lorsque le nombre de licenciements envisagés est au moins égal à dix dans une
 même période de trente jours, la consultation visée à l'alinéa précédent a lieu

@@ -5,8 +5,9 @@ de la Réunion et dans la collectivité territoriale de Saint-Pierre-et-Miquelon
 la commission locale instituée par l'article 18 du décret n° 52-152 du 13
 février 1952 est composée comme suit :
 
-Le commissaire de la République du département, le préfet représentant de l'Etat
-dans la collectivité territoriale ou leur représentant, président;
+Le commissaire de la République du département, le préfet commissaire de la
+République de la collectivité territoriale de Saint-Pierre-et-Miquelon ou leur
+représentant, président;
 
 Le trésorier payeur général;
 
