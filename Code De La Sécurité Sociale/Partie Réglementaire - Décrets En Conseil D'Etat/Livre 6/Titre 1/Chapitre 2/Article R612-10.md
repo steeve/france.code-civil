@@ -1,6 +1,6 @@
 Article R612-10
 ----
-Dans le délai d'un mois prévu au dernier alinéa de l'article R. 612-9, l'assuré
+Dans le délai d'un mois prévu au deuxième alinéa de l'article R. 612-9, l'assuré
 peut se libérer de sa dette ou la contester devant la commission de recours
 amiable constituée auprès de la caisse mutuelle régionale dont il dépend.
 
@@ -10,3 +10,9 @@ dette est contestée.
 La caisse mutuelle régionale avise l'organisme conventionné de la décision prise
 par la commission de recours amiable au cas de contestation de la dette par un
 assuré.
+
+Pour les contestations portant sur le recouvrement de l'indu de prestations
+mentionné à l'article L. 133-4, le professionnel de santé concerné peut se
+libérer de sa dette ou la contester directement devant la commission de recours
+amiable constituée auprès de la caisse mutuelle régionale, dans un délai d'un
+mois suivant la notification de la mise en demeure.
