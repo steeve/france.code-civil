@@ -1,10 +1,10 @@
 Article 124
 ----
-Toute société agréée au titre des articles 104 et 113 peut demander à distraire
-temporairement de son résultat d'ensemble les résultats de celles de ses
+Toute société agréée au titre de l'article 113 peut demander à distraire
+temporairement du résultat consolidé les résultats de celles de ses
 exploitations directes ou indirectes dont les profits ne peuvent être transférés
 en France du fait d'une interdiction émanant des autorités de l'Etat où elles
-sont situées.
+sont situées (1).
 
 Cette demande doit être formulée en même temps que la demande d'agrément s'il
 s'agit d'exploitations remplissant alors ces conditions. Elle doit être
@@ -19,3 +19,6 @@ Les résultats de la société agréée ayant servi de base à l'imposition de c
 dernière à l'impôt sur les sociétés au titre des exercices écoulés, selon le
 cas, depuis la demande d'agrément ou depuis l'interdiction du transfert, sont
 revisés en conséquence.
+
+(1) Ces dispositions s'appliquent aux exercices ouverts à compter du 1er janvier
+1992.

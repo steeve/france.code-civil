@@ -1,4 +1,7 @@
 Article 132
 ----
-La durée d'application du régime du bénéfice mondial ou de celui du bénéfice
-consolidé est fixée par la décision d'agrément.
+L'agrément visé à l'article 113 est accordé pour une durée de cinq ans. Il peut
+être renouvelé par période de trois ans (1).
+
+(1) Cette disposition s'applique aux exercices ouverts à compter du 1er janvier
+1992.

@@ -1,7 +1,7 @@
 Article 46 quater-0 XB
 ----
 Lorsqu'une filiale dont les résultats sont pris en compte pour la détermination
-du résultat d'ensemble défini à l'article 46 quater-O X impute une créance
+du résultat consolidé défini à l'article 46 quater-0 X impute une créance
 constituée au titre de l'article 220 quinquies du code général des impôts ou
 obtient le remboursement de cette créance, la société agréée reverse au Trésor
 un montant égal à celui de l'imputation ou du remboursement de la créance.

@@ -1,12 +1,16 @@
 Article 125
 ----
-Les sociétés agréées en vertu de l'article 104 ou de l'article 113 ne peuvent en
-aucun cas reporter sur leur résultat d'ensemble les déficits subis, selon le
-cas, par leurs exploitations directes ou par leurs exploitations directes et
-indirectes situées hors de France [*à l'étranger*], au cours d'exercices
-antérieurs au premier exercice pour lequel ces sociétés bénéficient du régime
-attaché à l'un ou l'autre de ces agréments.
+La société agréée en vertu de l'article 113 ne peut en aucun cas reporter sur le
+résultat consolidé les déficits subis par les exploitations mentionnées au b et
+au d du 1 de l'article 116, au cours d'exercices antérieurs au premier exercice
+pour lequel les résultats de ces exploitations sont pris en compte pour la
+détermination du résultat consolidé.
 
-Les déficits des exploitations indirectes situées en France sont pris en
-considération pour l'assiette du bénéfice mondial dans la mesure où ils sont
-admis en déduction des bénéfices imposables des sociétés qui les ont subis.
+Les déficits et moins-values nettes à long terme des exploitations mentionnées
+au c du 1 de l'article 116, subis au cours des exercices mentionnés à l'alinéa
+précédent, sont pris en considération pour la détermination du résultat
+consolidé dans la mesure où ils sont admis en déduction respectivement des
+bénéfices et plus-values imposables des sociétés qui les ont subis (1).
+
+(1) Ces dispositions s'appliquent aux exercices ouverts à compter du 1er janvier
+1992.
