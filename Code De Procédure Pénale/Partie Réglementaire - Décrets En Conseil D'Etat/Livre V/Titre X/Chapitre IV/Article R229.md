@@ -1,12 +1,10 @@
 Article R229
 ----
-Les dispositions des articles R222 à R228 ne sont pas applicables à la taxe :
+Un recours contre l'ordonnance de taxe peut être formé devant la chambre
+d'accusation par le ministère public, à la demande du comptable assignataire,
+dans un délai d'un mois à compter du versement de la pièce de dépense par le
+régisseur entre les mains de ce comptable.
 
-1° Des indemnités des témoins, des jurés et des interprètes ;
-
-2° Des dépenses de toute nature inférieures à un maximum fixé par les
-instructions du ministre de la Justice.
-
-Dans ces cas, la taxe du magistrat compétent est apposée sans réquisitoire du
-parquet sur les réquisitions, convocations ou copies de citation, états ou
-mémoires des parties prenantes.
+Le refus motivé du ministère public d'exercer le recours est porté à la
+connaissance du Trésor public. Dans ce cas, le comptable assignataire exécute
+l'ordonnance de taxe.

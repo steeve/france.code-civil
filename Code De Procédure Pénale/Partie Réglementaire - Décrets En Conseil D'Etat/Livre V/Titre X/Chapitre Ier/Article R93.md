@@ -1,45 +1,56 @@
 Article R93
 ----
-Sont, en outre, assimilés aux frais de justice criminelle, correctionnelle et de
-police, en ce qui concerne l'imputation, le paiement et la liquidation, les
-dépenses qui résultent :
+Sont, en outre, assimilées aux frais de justice criminelle, correctionnelle et
+de police, les dépenses qui résultent :
 
 1° Des procédures suivies en application des lois concernant l'enfance
-délinquante et des lois concernant la protection de l'enfance en danger ;
+délinquante et la protection de l'enfance en danger.
 
-2° De l'application de la législation sur le régime des aliénés ;
+2° De l'application de la législation sur le régime des aliénés.
 
 3° Des procédures suivies en application de la législation en matière de tutelle
-des mineurs, de tutelle ou de curatelle des majeurs et de sauvegarde de justice
-;
+des mineurs, de tutelle et curatelle des majeurs et de sauvegarde de justice.
 
-6° Des poursuites d'office en matière civile ;
+4° Des frais exposés à la requête du ministère public lorsque celui-ci est
+partie principale ou partie jointe en matière civile, commerciale et prud'homale
+et des dépens qui peuvent être laissés à la charge du ministère public, lorsque
+celui-ci est partie principale en application de l'article 696 du nouveau code
+de procédure civile.
 
-7° Des inscriptions hypothécaires requises par le ministère public ;
+5° Des inscriptions hypothécaires requises par le ministère public.
 
-8° Des avances faites en matière de règlement judiciaire ou de liquidation des
-biens dans les cas prévus à l'article 94 de la loi n° 67-563 du 13 juillet 1967
-;
+6° Des avances faites en matière de règlement judiciaire ou de liquidation des
+biens dans les cas prévus à l'article 94 de la loi n° 67-563 du 13 juillet 1967,
+ainsi que des frais relatifs aux jugements de clôture pour insuffisance d'actif.
 
-9° Des dispositions de la loi n° 72-11 du 3 janvier 1972 instituant l'aide
-judiciaire ;
+7° Des avances faites par le Trésor public en matière de redressement et de
+liquidation judiciaire des entreprises, en application de l'article 215 de la
+loi n° 85-98 du 25 janvier 1985.
 
-10° Du transport des greffes ou des archives des cours ou tribunaux ;
+8° Des frais de copie, droits, redevances et émoluments dus aux greffiers des
+tribunaux de commerce à l'occasion de toute procédure pour la délivrance des
+pièces à l'autorité judiciaire.
 
-11° De lois spéciales ou de règlements d'administration publique et dont
-l'avance doit être faite par le comptable direct du trésor ;
+9° De l'aide judiciaire et de l'indemnisation des commissions et désignations
+d'office.
 
-12° Des frais exposés devant la commission prévue à l'article 16-2 ;
+10° Des frais et dépens mis à la charge du Trésor public soit en application
+d'une disposition législative ou réglementaire, soit en cas de décision
+juridictionnelle rectifiant ou interprétant une précédente décision.
 
-13° Des enquêtes ordonnées en matière de divorce et de séparation de corps en
-application de l'article 287-1 du Code civil ;
+11° Des frais exposés devant la commission prévue par l'article 16-2.
 
-14° Des indemnités de transport et de séjour des magistrats et des secrétaires
-des juridictions de l'ordre judiciaire, sans préjudice des dispositions de
-l'article R. 92 ;
+12° Des enquêtes ordonnées en matière d'exercice de l'autorité parentale.
 
-15° Des frais postaux des secrétariats-greffes des juridictions civiles
-nécessités par les actes et procédures ainsi que par l'envoi des bulletins de
-casier judiciaire ;
+13° Des indemnités de transport et de séjour des magistrats, des greffiers et
+des secrétaires des juridictions de l'ordre judiciaire, sans préjudice des
+dispositions de l'article R. 92.
 
-16° Des actes faits d'office en matière de scellés.
+14° Des frais postaux des greffes des juridictions civiles nécessités par les
+actes et procédures ainsi que par l'envoi des bulletins de casier judiciaire.
+
+15° Des actes faits d'office en matière de mesures conservatoires prises après
+l'ouverture d'une succession.
+
+16° Des dispositions législatives ou réglementaires particulières prévoyant que
+l'avance doit être faite par le Trésor public.

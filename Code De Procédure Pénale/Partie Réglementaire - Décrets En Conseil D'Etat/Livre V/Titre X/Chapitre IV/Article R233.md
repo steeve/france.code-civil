@@ -1,10 +1,9 @@
 Article R233
 ----
-Toutes les fois qu'il y a partie civile en cause et que celle-ci n'a pas obtenu
-le bénéfice de l'aide judiciaire, les ordonnances de taxe concernant les frais
-d'instruction, expédition et signification des jugements sont décernées contre
-la partie civile s'il y a consignation.
+Sauf dispositions particulières, le paiement des frais est effectué par le
+régisseur d'avances au vu d'un état ou d'un mémoire de la partie prenante
+certifié ou taxé.
 
-Dans tous les cas où la consignation n'a pas été faite ou si elle est
-insuffisante, les ordonnances sont notifiées pour exécution au comptable direct
-du Trésor.
+Le régisseur, en cas de désaccord sur un mémoire certifié, demande au ministère
+public de prendre des réquisitions aux fins de taxe ; dans ce cas, il surseoit
+au paiement jusqu'à taxation définitive.

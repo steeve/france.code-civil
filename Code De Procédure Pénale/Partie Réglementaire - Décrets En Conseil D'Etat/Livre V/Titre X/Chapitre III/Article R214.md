@@ -1,9 +1,9 @@
 Article R214
 ----
-Dans les procédures assimilées, au point de vue des dépenses, aux procès
-criminels, correctionnels et de police, les frais sont avancés par les
-régisseurs d'avances, conformément aux dispositions du présent titre, mais ils
-sont taxés et liquidés d'après le tarif et suivant les règles de chaque
-juridiction compétente.
+Les frais énumérés à l'article R. 93 sont avancés par le Trésor public
+conformément aux dispositions du présent titre : ils sont taxés et liquidés
+d'après le tarif et selon les règles de chaque juridiction compétente.
 
-Leur mode de paiement est celui du présent titre.
+Les dispositions des articles R. 222, R. 223, R. 224-2, R. 225, R. 228, R.
+228-1, R. 229, R. 230, R. 233 et R. 234 sont applicables pour le paiement de ces
+frais.

@@ -12,8 +12,7 @@ ou par des lois spéciales ;
 s'assurer du bon fonctionnement des cabinets d'instruction du ressort de la cour
 d'appel, conformément aux dispositions de l'article 220 ;
 
-3° Par les transports des juges des tribunaux d'instance pour l'établissement de
-la liste annuelle du jury ;
+3° (dispositions abrogées)
 
 4° Par les transports des magistrats de la cour d'appel qui siègent comme
 présidents ou assesseurs dans une cour d'assises tenue hors du chef-lieu du
@@ -29,24 +28,4 @@ désignés par le procureur général, conformément aux articles 46 et 48, pour
 occuper le siège du ministère public près le tribunal de police d'une autre
 ville que celle où ils exercent leurs fonctions ;
 
-6° Par le transport des magistrats, entre autres, du président de la chambre
-d'accusation, du juge d'instruction, du juge des enfants ou du juge de
-l'application des peines, du procureur général ou du procureur de la République,
-à l'effet de se rendre dans un établissement pénitentiaire dans les cas prévus
-notamment aux articles 222, 722, 723, 727 et 730 du Code de procédure pénale
-ainsi qu'à l'article R2 du Code pénal ;
-
-7° Par le transport d'un magistrat pour recevoir la déclaration de nationalité
-souscrite par un détenu ou pour lui en notifier le refus pour cause d'indignité
-;
-
-8° Par le transport du procureur de la République sur l'ordre du procureur
-général pour procéder à la vérification des greffes ou à celles des registres de
-l'état civil ;
-
-9° Par le transport des magistrats pour visiter les hôpitaux psychiatriques, les
-établissements d'éducation surveillée et les services de la liberté surveillée
-ainsi que les établissements privés habilités par le ministère de la Justice ;
-
-10° Par le transport des magistrats, en vertu de l'article 490-3 du Code civil,
-pour visiter les majeurs protégés par la loi.
+6° à 10° (dispositions abrogées).

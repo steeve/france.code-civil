@@ -1,9 +1,9 @@
 Article R227
 ----
-Lorsque les réquisitions du ministère public tendent à ce que la demande de la
-partie prenante soit accueillie sans modification, l'ordonnance de taxe n'est
-susceptible d'aucun recours si le montant de la somme allouée est conforme à
-ladite demande.
+Le président de chaque juridiction ou le magistrat qu'il délègue à cet effet
+taxe les états ou mémoires relatifs à des frais engagés sur la décision des
+autorités appartenant à cette juridiction ou des personnes agissant sous le
+contrôle de ces autorités.
 
-Dans ce cas, le mémoire est revêtu par le chef du secrétariat-greffe de la
-mention Taxe définitive.
+Les frais engagés sur la décision d'un juge d'instruction ou d'un juge des
+enfants sont taxés par ce magistrat.

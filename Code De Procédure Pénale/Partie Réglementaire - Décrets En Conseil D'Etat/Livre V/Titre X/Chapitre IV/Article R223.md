@@ -1,4 +1,4 @@
 Article R223
 ----
-Sous peine de rejet, les états ou mémoires sont dressés conformément aux modèles
-arrêtés par le ministre de la Justice.
+Les parties prenantes déposent ou adressent leur état ou mémoire au greffe de la
+juridiction compétente.
