@@ -33,18 +33,27 @@ santé des armées assurant une mission de convoyage de blessés ou malades.
 
 B. - Par les personnels civils :
 
-a) Services accomplis par le personnel des corps d'ingénieurs techniciens
-d'études et de fabrications ou de techniciens d'études et de fabrications
-relevant du ministre de la défense et par le personnel technique de la
-navigation aérienne relevant du ministre chargé de l'aviation civile, à bord
-d'aéronefs dans l'exercice des fonctions de leur spécialité professionnelle à
-l'occasion des vols d'instruction, d'essais, de mise au point, de mise en oeuvre
-de matériels, équipements et dispositifs ressortissant à leur spécialité.
+Services accomplis à bord d'aéronefs dans l'exercice des fonctions de leur
+spécialité professionnelle à l'occasion de :
 
-b) Services accomplis par les personnels techniques de la météorologie nationale
-embarqués à bord d'aéronefs en vue de l'exécution de missions météorologiques à
-l'occasion de vols d'instruction, d'essais, de mise au point, de mise en oeuvre
-de matériels, équipements et dispositifs ressortissant de leur spécialité.
+a) Vols d'instruction ;
+
+b) Essais d'aéronefs de type nouveau en vue de leur homologation ;
+
+c) Définition et mise au point de procédures spécifiques aux conditions de vol ;
+
+d) Expérimentation de dispositifs ou de matériels embarqués en vue de leur
+évaluation ou de leur adaptation à l'aéronef, lorsque cette expérimentation
+comporte des risques particuliers ;
+
+e) Opérations de mesures et de recherches scientifiques effectuées dans des
+zones à très fortes turbulences et dans des conditions climatiques extrêmes ;
+
+f) Procédures d'identification à très basse altitude de moyens de transport
+effectuées dans les conditions de la circulation aérienne militaire ;
+
+g) Missions de secours et de sauvetage sur zone de recherche ; missions suivies
+d'une descente en rappel ou par treuillage, ainsi que les descentes elles-mêmes.
 
 Tous autres vols accomplis en dehors des conditions prévues aux A et B
 ci-dessus, notamment en qualité de passager, n'ouvrent pas droit à bonification.
