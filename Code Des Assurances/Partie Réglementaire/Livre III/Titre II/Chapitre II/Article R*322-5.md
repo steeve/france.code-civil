@@ -1,8 +1,16 @@
 Article R*322-5
 ----
 Les entreprises françaises soumises au contrôle de l'Etat par l'article L. 310-1
-et constituées sous la forme de société anonyme doivent avoir un capital social
-au moins égal, pour chaque branche pratiquée, au montant fixé par décret en
-Conseil d'Etat pris après avis du conseil national des assurances. Chaque
-actionnaire doit verser, avant la constitution définitive, la moitié au moins du
-montant des actions ou coupures d'actions en numéraire souscrites par lui.
+et constituées sous la forme de société anonyme doivent avoir un capital social,
+non compris les apports en nature, au moins égal à cinq millions de francs pour
+pratiquer les opérations entrant dans les branches mentionnées aux 10 à 15 et
+aux 20, 21, 22, 24, 25 et 28 de l'article R. 321-1 ainsi que les opérations de
+réassurance.
+
+Les mêmes entreprises doivent, pour pratiquer des opérations entrant dans
+d'autres branches que celles énumérées à l'alinéa précédent, avoir un capital
+social, non compris les apports en nature, au moins égal à trois millions de
+francs.
+
+Chaque actionnaire doit verser, avant la constitution définitive, la moitié au
+moins du montant des actions en numéraire souscrites par lui.
