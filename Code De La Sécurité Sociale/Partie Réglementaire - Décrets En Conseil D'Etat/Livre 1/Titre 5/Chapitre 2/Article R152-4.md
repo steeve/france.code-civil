@@ -9,3 +9,9 @@ compétence nationale relève du ministre chargé de l'agriculture qui dispose d
 délai de vingt jours à compter de la date à laquelle il a été saisi pour se
 prononcer. En l'absence de réponse dans ce délai, ces délibérations sont
 exécutoires de plein droit.
+
+Les délibérations du conseil d'administration ou du comité directeur des
+associations ou groupements d'intérêt économique autres que ceux mentionnés à
+l'alinéa précédent sont soumises au contrôle du préfet de région et, s'il y a
+lieu, du ministre chargé de l'agriculture dans les conditions prévues aux
+articles R. 152-2 et R. 152-3.
