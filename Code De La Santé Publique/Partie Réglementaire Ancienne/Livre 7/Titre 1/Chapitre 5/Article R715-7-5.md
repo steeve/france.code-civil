@@ -15,6 +15,11 @@ qualifications et la même ancienneté, sous réserve des dispositions
 réglementaires spécifiques applicables à certaines catégories de personnel
 médical des établissements de santé privés.
 
+La rémunération représentative de l'activité médicale des praticiens mentionnée
+à la dernière phrase de l'article R. 715-6-10 constitue une charge
+d'exploitation. Elle ne fait pas partie des exceptions visées au deuxième alinéa
+de l'article R. 714-3-10.
+
 Les loyers ne sont pris en compte que dans la limite de la valeur locative
 réelle des immeubles pris à bail.
 

@@ -39,9 +39,10 @@ annexes.
 
 Le compte administratif et ses documents annexes, ainsi que le bilan et le
 compte de résultat se rapportant à l'exercice clos sont transmis, dans un délai
-de huit jours, à l'autorité administrative mentionnée à l'article R. 714-3-27 et
-à la caisse régionale d'assurance maladie, qui les tient à la disposition des
-autres organismes responsables de la gestion des régimes d'assurance maladie.
+de huit jours, à l'autorité administrative mentionnée à l'article R. 714-3-27, à
+la caisse chargée du versement de la dotation globale ainsi qu'à la caisse
+régionale d'assurance maladie qui les tient à la disposition des autres
+organismes responsables de la gestion des régimes d'assurance maladie.
 
 Aucune décision modificative au titre de l'exercice en cours ne peut être prise
 avant cette transmission, sauf accord exprès de l'autorité administrative.

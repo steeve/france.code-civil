@@ -8,7 +8,11 @@ globale avant le 1er janvier de l'année à laquelle ils se rapportent.
 
 Les décisions, modificatives mentionnées au quatrième alinéa de l'article R.
 714-3-7 sont approuvées dans les mêmes conditions et délais, sans préjudice des
-dispositions prévues au dernier alinéa de l'article R. 714-3-31.
+dispositions prévues au dernier alinéa de l'article R. 714-3-31. Lorsque ces
+décisions modificatives comportent des propositions de modification du montant
+de la dotation globale et des tarifs de prestations, l'autorité administrative
+doit se prononcer par arrêté soit en modifiant soit en confirmant ce montant et
+ces tarifs.
 
 Les décisions modificatives qui n'ont aucune incidence sur le montant de chacun
 des groupes fonctionnels précédemment approuvé sont exécutoires à compter de la
