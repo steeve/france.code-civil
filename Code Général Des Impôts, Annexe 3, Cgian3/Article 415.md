@@ -7,13 +7,14 @@ Frais d'ouverture des portes;
 Notification au saisi en cas de saisie-exécution hors de son domicile et en son
 absence;
 
-Notification au maire ou au parquet dans les cas prévus par les articles 656,
-659, 660, 684 et 691 du nouveau code de procédure civile;
+Notification au maire, au parquet ou par procès-verbal dans les cas prévus par
+les articles 656, 659, 660, 684 et 691 du nouveau code de procédure civile;
 
 Remise des actes sous enveloppe;
 
-Copie supplémentaire au mari en cas de poursuites contre la femme; Levée des
-états d'inscriptions grevant les fonds de commerce;
+Copie supplémentaire au mari en cas de poursuites contre la femme;
+
+Levée des états d'inscriptions grevant les fonds de commerce;
 
 Dénonciation de la saisie-exécution aux créanciers inscrits sur les fonds de
 commerce;
