@@ -1,20 +1,17 @@
 Article 812
 ----
 I. 1° Sous réserve de ce qui est dit à l'article 813, le droit établi par
-l'article 810-I est perçu au taux de 12 % lorsqu'il s'applique aux actes portant
+l'article 810-I est perçu au taux de 3 % lorsqu'il s'applique aux actes portant
 augmentation, au moyen de l'incorporation de bénéfices, de réserves ou de
 provisions de toute nature, du capital des sociétés visées à l'article 108 ;
 
-1° bis Le taux est réduit à 3 % dans la limite d'un montant annuel d'un million
-de francs par société lorsque l'acte qui constate l'incorporation est enregistré
-postérieurement au 30 juin 1978 ;
+1° bis (Abrogé).
 
-2° Le taux est réduit à 6 % [*pourcentage*] pour les actes enregistrés du 1er
-janvier 1978 au 31 décembre 1984 et, sous réserve du 2° de l'article 812-0 A, à
-1 % pour les actes enregistrés du 1er janvier 1985 au 31 décembre 1987 [*CGI 214
-A*] , lorsque l'augmentation de capital est réalisé au moyen de l'incorporation
-de bénéfices, de réserver ou de provisions de toute nature et lorsque l'une des
-conditions ci-après se trouve remplie :
+2° Sous réserve du 2° de l'article 812-0 A, le taux est réduit à 1 % pour les
+actes enregistrés jusqu'au 31 décembre 1988, lorsque l'augmentation de capital
+est réalisé au moyen de l'incorporation de bénéfices, de réserver ou de
+provisions de toute nature et lorsque l'une des conditions ci-après se trouve
+remplie :
 
 a. L'acte constate en même temps une augmentation de capital en numéraire pour
 un montant au moins égal à celui des sommes incorporées ;

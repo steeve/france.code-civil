@@ -29,8 +29,8 @@ inhumations et transports funéraires;
 Enseignement général, agricole, ménager, professionnel ou artistique;
 
 Droits d'entrée pour la visite des musées, monuments et grottes, sites et parcs
-aménagés autres que les parcs zoologiques et parcs à décors animés qui
-illustrent un thème culturel passibles du taux réduit (1);
+aménagés autres que les parcs zoologiques, botaniques et les parcs à décors
+animés qui illustrent un thème culturel passibles du taux réduit (1);
 
 Locations d'emplacements sur les terrains de camping qui ne bénéficient pas du
 taux réduit (2);

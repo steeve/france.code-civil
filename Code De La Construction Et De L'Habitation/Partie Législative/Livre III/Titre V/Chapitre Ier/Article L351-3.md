@@ -22,3 +22,14 @@ Le barême, révisé le 1er juillet de chaque année, tient compte de l'évoluti
 constatée des prix de détail et du coût de la construction. Cette révision
 assure, par toutes mesures appropriées, le maintien de l'efficacité sociale de
 l'aide personnalisée au logement.
+
+Le barème applicable aux personnes occupant des logements à usage locatifs,
+conventionnés aprés le 31 décembre 1987, en application du 2° et, en ce qui
+concerne les logements améliorés, en application des 3° et 4° de l'article L.
+351-2 du présent code, est celui prévu aux articles L. 542-5 et L. 831-4 du code
+de la sécurité sociale.
+
+Toutefois, le plafond mensuel du loyer pris en compte pour le calcul de l'aide
+accordée aux occupants de logements à usage locatif conventionnés aprés le 31
+décembre 1987 et améliorés en application des 3° et 4° de l'article L. 351-2 du
+présent code, peut être fixé de manière spécifique par décret.

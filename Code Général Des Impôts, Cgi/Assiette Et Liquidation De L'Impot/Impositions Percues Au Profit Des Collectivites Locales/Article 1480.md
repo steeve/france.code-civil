@@ -1,5 +1,5 @@
 Article 1480
 ----
 Les bases d'imposition à la taxe d'habitation, aux taxes foncières et à la taxe
-professionnelle sont, au titre de 1986, multipliées par un coefficient égal à
-0,974 et au titre de 1987, multipliées par un coefficient égal à 0,959.
+professionnelle sont multipliées par un coefficient égal à 0,959 au titre de
+1987 et à 0,962 au titre de 1988.

@@ -30,3 +30,7 @@ industriels susvisés ainsi que pour les propriétés non bâties, et au titre d
 1987, multipliées par un coefficient égal à 0,959 g. Au titre de 1987, à 1,01
 pour les propriétés non bâties, à 1,03 pour les immeubles industriels ne
 relevant pas de l'article 1500 et à 1,05 pour les autres propriétés bâties.
+
+h. Au titre de 1988, à 1 pour les propriétés non bâties, à 1,01 pour les
+immeubles industriels ne relevant pas de l'article 1500 et à 1,03 pour
+l'ensemble des autres propriétés non bâties.
