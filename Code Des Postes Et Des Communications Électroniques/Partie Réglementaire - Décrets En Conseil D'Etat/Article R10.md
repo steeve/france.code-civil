@@ -38,8 +38,8 @@ d'informations qui y figureront ;
 Elle est accompagnée :
 
 1. D'un exemplaire de la liste d'utilisateurs ; pour les listes accessibles par
-voie télématique, le déclarant met à la disposition de la direction de la
-réglementation générale du ministère chargé des télécommunications un accès
+voie télématique, le déclarant met à la disposition de la direction générale des
+postes et télécommunications du ministère chargé des télécommunications un accès
 permanent et gratuit au service télématique ;
 
 2. D'une copie de l'acte réglementaire pris en application de l'article 15 de la
@@ -47,8 +47,8 @@ loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux
 libertés ou du récépissé de déclaration délivré par la Commission nationale de
 l'informatique et des libertés en application de son article 16.
 
-La déclaration est effectuée auprès de la direction de la réglementation
-générale du ministère chargé des télécommunications.
+La déclaration est effectuée auprès de la direction générale des postes et
+télécommunications du ministère chargé des télécommunications.
 
 Il est délivré un récépissé de la déclaration à la réception du dossier complet.
 
@@ -59,7 +59,9 @@ ci-dessus.
 Toute personne qui, sans avoir fait la déclaration préalable prévue au présent
 article, aura mis à la disposition du public une liste d'utilisateurs d'un
 réseau de télécommunications ouvert au public sera punie de la peine d'amende
-prévue pour les contraventions de la cinquième classe.
+prévue pour les contraventions
+
+de la cinquième classe.
 
 En cas de récidive, le contrevenant sera puni de l'amende prévue pour la
 récidive des contraventions de la 5e classe.
