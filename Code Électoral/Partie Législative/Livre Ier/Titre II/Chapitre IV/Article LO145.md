@@ -8,6 +8,7 @@ de façon permanente en qualité de conseil auprès de ces entreprises ou
 établissements.
 
 L'incompatibilité édictée au présent article ne s'applique pas aux députés
-désignés en cette qualité comme membres de conseils d'administration
-d'entreprises nationales ou d'établissements publics nationaux en vertu des
-textes organisant ces entreprises ou établissements.
+désignés soit en cette qualité soit du fait d'un mandat électoral local comme
+présidents ou membres de conseils d'administration d'entreprises nationales ou
+d'établissements publics nationaux en application des textes organisant ces
+entreprises ou établissements.
