@@ -21,24 +21,29 @@ par le livre III du code des assurances ou de la caisse nationale de prévoyance
 351-2 du code du travail, destinées à financer le régime national
 interprofessionnel d'aide aux travailleurs privés d'emploi ;
 
+2° ter La contribution exceptionnelle de solidarité en faveur des travailleurs
+privés d'emploi, instituée par l'article 2 de la loi n° 82-939 du 4 novembre
+1982 ;
+
 3° Les frais inhérents à la fonction ou à l'emploi lorsqu'ils ne sont pas
 couverts par des allocations spéciales.
 
 La déduction à effectuer du chef des frais professionnels est calculée
-forfaitairement en fonction du revenu brut, après défalcation des retenues
-visées aux 1° et 2° et des cotisations visées au 1° bis ; elle est fixée à 10 %
+forfaitairement en fonction du revenu brut, après défalcation des retenues,
+cotisations et contributions mentionnées aux 1° à 2° ter ; elle est fixée à 10 %
 du montant de ce revenu. Elle est limitée à 40.000 F pour l'imposition des
 rémunérations perçues à compter du 1er janvier 1979 [*date*] ; ce plafond est
 relevé dans la même proportion que la limite supérieure de la septième tranche
-du barème de l'impôt sur le revenu (2).
+du barème de l'impôt sur le revenu (2). Toutefois, la déduction est limitée à
+50.900 F pour l'imposition des revenus de l'année 1982.
 
 Toutefois, en ce qui concerne les catégories de professions qui comportent des
 frais dont le montant est notoirement supérieur à celui résultant de
-l'application des pourcentages prévus à l'alinéa précédent, un arrêté
-ministériel (3) fixe le taux de la déduction dont les contribuables appartenant
-à ces professions peuvent bénéficier en sus de la déduction forfaitaire visée
-audit alinéa. Cette déduction supplémentaire est limitée à 50.000 F (4). Elle
-est calculée sur le montant global des rémunérations et des remboursements et
+l'application du pourcentage prévu à l'alinéa précédent, un arrêté ministériel
+(3) fixe le taux de la déduction dont les contribuables appartenant à ces
+professions peuvent bénéficier en sus de la déduction forfaitaire visée audit
+alinéa. Cette déduction supplémentaire est limitée à 50.000 F (3). Elle est
+calculée sur le montant global des rémunérations et des remboursements et
 allocations pour frais professionnels perçus par les intéressés, après
 application à ce montant de la déduction forfaitaire pour frais professionnels
 de 10 %.
@@ -46,8 +51,8 @@ de 10 %.
 Le montant de la ou des déductions forfaitaires pour frais professionnels ne
 peut être inférieur à 1.800 F, sans pouvoir excéder le montant brut des
 traitements et salaires. Cette disposition s'applique séparément aux
-rémunérations perçues par le chef de famille, par son conjoint et par les
-personnes à sa charge (5).
+rémunérations perçues par chaque membre du foyer fiscal désigné à l'article 6-1
+et 3.
 
 Les bénéficiaires de traitements et salaires sont également admis à justifier du
 montant de leurs frais réels, soit dans la déclaration visée à l'article 170,
@@ -58,8 +63,3 @@ prévu aux articles R. 196-1 et R. 196-3 du livre des procédures fiscales.
 
 (2) Plafond fixé à 50.900 F pour l'imposition des revenus de 1981. (3) Annexe
 IV, art. 5 et 5 A.
-
-(4) Le montant de la déduction supplémentaire a été limité à 40.000 F pour
-l'imposition des revenus de 1979.
-
-(5) Montant en vigueur à partir du 1er janvier 1978.
