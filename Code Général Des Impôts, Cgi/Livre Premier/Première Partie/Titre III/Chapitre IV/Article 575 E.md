@@ -11,8 +11,8 @@ les tabacs en vigueur dans ces départements antérieurement au 1er janvier 1977
 (2).
 
 Pour l'application du régime fiscal des tabacs, les échanges entre la France
-continentale, la région de Corse et chacun des départements d'outre-mer sont
-assimilés à des opérations d'importation ou d'exportation.
+continentale, la collectivité territoriale de Corse et chacun des départements
+d'outre-mer sont assimilés à des opérations d'importation ou d'exportation.
 
 Les unités de conditionnement doivent être revêtues des mentions prescrites par
 l'administration (3).

@@ -11,7 +11,7 @@ duquel intervient cet événement, à la condition que l'objet de ces sociétés
 leur programme d'activité aient reçu l'agrément préalable du ministre de
 l'économie, des finances et du budget délivré après avis d'une commission
 composée de représentants de ce ministre et des organisations professionnelles
-de la région Corse et dans la limite fixée par cet agrément.
+de la collectivité territoriale Corse et dans la limite fixée par cet agrément.
 
 II. Les dispositions du I ne sont pas applicables aux entreprises ou activités
 créées dans le cadre d'une concentration, d'une restructuration d'activités

@@ -1,8 +1,8 @@
 Article 298 quindecies
 ----
 Pour l'application de la taxe sur la valeur ajoutée les échanges entre la France
-continentale, la région de Corse et chacun des départements d'outre-mer sont
-assimilés à des opérations d'importation ou d'exportation.
+continentale, la collectivité territoriale de Corse et chacun des départements
+d'outre-mer sont assimilés à des opérations d'importation ou d'exportation.
 
 En ce qui concerne les tabacs importés dans les départements de France
 continentale, la taxe sur la valeur ajoutée qui a grevé les éléments de leur
