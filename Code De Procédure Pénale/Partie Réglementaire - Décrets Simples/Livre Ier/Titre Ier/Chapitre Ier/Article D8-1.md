@@ -22,4 +22,6 @@ produits explosifs et des matières nucléaires, biologiques et chimiques ;
 d'étrangers sans titre ;
 
 9° Office central de lutte contre la criminalité liée aux technologies de
-l'information et de la communication.
+l'information et de la communication ;
+
+10° Office central chargé des disparitions inquiétantes de personnes.
