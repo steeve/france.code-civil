@@ -12,9 +12,9 @@ dans laquelle
 2°) K représente le coefficient de prise en charge déterminé d'après la formule
 :
 
-K égal 0,9 - R / 182.195 x N
+K = 0,9 - R / 186 750 x N
 
-dans laquelle
+dans laquelle :
 
 R représente les ressources imposables déterminées conformément à l'article D.
 755-16 ;
@@ -31,22 +31,21 @@ Soit la somme prise en compte au titre de l'accession à la propriété telle qu
 définie à l'article D. 755-27, éventuellement ramenée au plafond mentionné à
 l'article D. 755-28 ;
 
-4°) C représente une majoration forfaitaire au titre des charges ;
-
-5°) Lo représente le loyer minimum défini à l'article D. 755-15 et aux alinéas
+4°) C représente une majoration forfaitaire au titre des charges ; 5°) Lo
+représente le loyer minimum défini à l'article D. 755-15 et aux alinéas
 ci-après.
 
 Le loyer minimum annuel est obtenu par l'application aux ressources annuelles
 nettes du foyer définies aux articles D. 755-15 et D. 755-16 des pourcentages
 suivants :
 
-0 p. 100 pour la tranche de ressources inférieure ou égale à 9 500 F ;
+0 p. 100 pour la tranche de ressources inférieure ou égale à 9 738 F ;
 
-15 p. 100 pour la tranche de ressources comprise entre 9 500 F et 13 671 F ;
+15 p. 100 pour la tranche de ressources comprise entre 9 738 F et 14 013 F ;
 
-26 p. 100 pour la tranche de ressources comprise entre 13 671 F et 27 342 F ;
+26 p. 100 pour la tranche de ressources comprise entre 14 013 F et 28 026 F ;
 
-36 p. 100 pour la tranche de ressources supérieure à 27 342 F.
+36 p. 100 pour la tranche de ressources supérieure à 28 026 F. ;
 
 Les limites inférieures et supérieures de chacune de ces tranches sont affectées
 des coefficients ou nombres de parts ci-après :
