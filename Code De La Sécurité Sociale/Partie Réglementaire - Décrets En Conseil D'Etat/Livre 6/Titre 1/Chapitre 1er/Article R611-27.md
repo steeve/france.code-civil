@@ -4,11 +4,12 @@ Pour délibérer sur les questions propres à l'un des groupes de professions
 mentionnées à l'article L. 615-1, notamment celles concernant les prestations
 supplémentaires, le conseil d'administration peut siéger en trois sections :
 
-1°) section des professions artisanales ;
+1° La section des professions artisanales, comprenant au moins sept membres ;
 
-2°) section des professions industrielles et commerciales ;
+2° La section des professions industrielles et commerciales, comprenant au moins
+huit membres ;
 
-3°) section des professions libérales.
+3° La section des professions libérales, comprenant au moins cinq membres.
 
 A cet effet, les membres élus du conseil d'administration font partie de la
 section correspondant au groupe professionnel au titre duquel ils ont été élus.

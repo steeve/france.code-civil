@@ -2,7 +2,7 @@ Article R611-10
 ----
 Les représentants des caisses mutuelles régionales au conseil d'administration
 de la caisse nationale sont élus pour six ans au scrutin uninominal. Leur mandat
-est renouvelable. Les collèges électoraux définis aux 1° à 5° de l'article R.
+est renouvelable. Les collèges électoraux définis aux 1° à 6° de l'article R.
 611-9 élisent en même temps des administrateurs titulaires et des suppléants.
 Les suppléants remplacent les administrateurs titulaires en cas de vacance du
 siège en cours de mandat.
