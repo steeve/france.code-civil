@@ -1,9 +1,7 @@
 Article R233-30
 ----
-Il ne peut y avoir moins de deux escaliers, lorsque ceux-ci doivent donner
-passage à plus de 100 personnes à évacuer, appartenant ou non au personnel de
-l'établissement. Ce minimum est augmenté d'une unité par 500 personnes ou
-fraction de 500 personnes en plus des 500 premières.
-
-Une décision du ministre chargé du travail peut toujours, si la sécurité
-l'exige, prescrire un nombre minimum de deux escaliers.
+Les équipements de travail mettant en oeuvre des produits ou des matériaux
+dégageant des gaz, vapeurs, poussières ou autres déchets inflammables doivent
+être munis de dispositifs protecteurs permettant notamment d'éviter qu'une
+élévation de température d'un élément ou des étincelles d'origine électrique ou
+mécanique puissent entraîner un incendie ou une explosion.

@@ -41,7 +41,7 @@ placés sur les véhicules ou leurs remorques.
 incorporés à une machine, à un tracteur ou à un autre matériel et placés entre
 la machine, le tracteur ou tout autre matériel et la charge, ou sur la charge,
 pour permettre la préhension de la charge, tels que élingue, palonnier, pince
-auto-serrante, aimant, ventouse, cé de levage.
+auto-serrante, aimant, ventouse, clé de levage.
 
 4° Composants d'accessoires de levage, non incorporés à un accessoire visé au 3°
 ci-dessus, tels que crochets à oeil, manilles, anneaux, anneaux à tige.
