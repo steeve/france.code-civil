@@ -73,4 +73,21 @@ construire, acquérir, aménager, restaurer, agrandir, améliorer et gérer des
 immeubles en vue de la location et destinés à un usage d'habitation ou à un
 usage professionnel et d'habitation.
 
+Elles peuvent également réaliser en vue de leur vente, dans les conditions
+prévues aux articles L. 261-1 à L. 261-22, à l'association agréée mentionnée à
+l'article 116 de la loi de finances pour 2002 précitée ou aux sociétés civiles
+immobilières dont les parts sont détenues à au moins 99 % par cette association,
+des immeubles à usage principal d'habitation destinés à la location.
+
+Elles peuvent aussi réaliser des prestations de service pour le compte de
+l'association agréée mentionnée à l'article 116 de la loi de finances pour 2002
+précitée, ou des sociétés civiles immobilières dont les parts sont détenues à au
+moins 99 % par cette association, dans des conditions fixées par décret en
+Conseil d'Etat.
+
+Elles peuvent gérer les immeubles à usage principal d'habitation appartenant à
+l'association agréée mentionnée à l'article 116 de la loi de finances pour 2002
+précitée ou aux sociétés civiles immobilières dont les parts sont détenues à au
+moins 99 % par cette association.
+
 Un décret détermine les modalités d'application du présent article.
