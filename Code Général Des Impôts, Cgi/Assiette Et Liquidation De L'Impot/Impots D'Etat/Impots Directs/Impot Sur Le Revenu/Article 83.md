@@ -26,10 +26,7 @@ organismes de prévoyance dépassent 3 % de la même somme, l'excédent est ajou
 la rémunération ;
 
 2° bis Les contributions payées par les salariés prévues par l'article L 351-3
-du code du travail relatif aux allocations d'assurance ainsi que la part
-salariale de la contribution de solidarité instituée par l'article 4 de
-l'ordonnance n° 82-290 du 30 mars 1982 relative à la limitation des possibilités
-de cumuls entre pensions de retraite et revenus d'activités ;
+du code du travail relatif aux allocations d'assurance ;
 
 2° ter La contribution exceptionnelle de solidarité en faveur des travailleurs
 privés d'emploi, instituée par l'article 2 modifié de la loi n° 82-939 du 4

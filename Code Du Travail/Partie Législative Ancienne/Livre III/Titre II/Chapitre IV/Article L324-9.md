@@ -1,7 +1,9 @@
 Article L324-9
 ----
-Le travail clandestin est interdit. Il est également interdit d'avoir recours
-sciemment aux services d'un travailleur clandestin.
+Le travail clandestin est interdit ainsi que la publicité, par quelque moyen que
+ce soit, tendant à favoriser, en toute connaissance de cause, le travail
+clandestin. IL est également interdit d'avoir recours sciemment aux services
+d'un travailleur clandestin.
 
 Ces interdictions s'appliquent aux activités [*de production, transformation,
 réparation, prestation de services*] définies à l'article L. 324-10 ci-dessous.

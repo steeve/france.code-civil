@@ -1,7 +1,8 @@
 Article L552
 ----
 La publicité ou la propagande, sous quelque forme que ce soit, relative aux
-objets, appareils et méthodes, présentés comme favorisant le diagnostic, la
+objets, appareils et méthodes, à l'exclusion des objets visés au troisième
+alinéa de l'article L. 551, présentés comme favorisant le diagnostic, la
 prévention ou le traitement des maladies, des affections relevant de la
 pathologie chirurgicale et des dérèglements physiologiques, le diagnostic ou la
 modification de l'état physique ou physiologique, la restauration, la correction

@@ -24,3 +24,10 @@ l'exception de celles qui figurent à l'annexe III de ladite loi, la
 représentation du comité d'entreprise auprès du conseil d'administration ou de
 surveillance est assurée par le secrétaire du comité d'entreprise ou de l'organe
 qui en tient lieu.
+
+De même, dans les sociétés anonymes dans lesquelles le conseil d'administration
+ou de surveillance comprend des administrateurs ou des membres élus par les
+salariés au titre des articles 97-1 et 137-1 de la loi n° 66-537 du 24 juillet
+1966 sur les sociétés commerciales, la représentation du comité d'entreprise
+auprès de ces conseils est assurée par un membre titulaire du comité désigné par
+ce dernier.

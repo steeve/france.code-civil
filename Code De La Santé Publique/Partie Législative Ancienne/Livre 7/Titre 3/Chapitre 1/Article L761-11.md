@@ -27,4 +27,9 @@ les contrôles biologiques de dépistage à lecture instantanée dont la liste e
 fixée par décret en Conseil d'Etat pris après avis de l'Académie nationale de
 médecine. Ces contrôles biologiques ne donnent pas lieu, en vertu de la
 législation de sécurité sociale, à un remboursement distinct et ne peuvent faire
-l'objet d'un compte rendu écrit.
+l'objet d'un compte rendu écrit ;
+
+7° Les médecins spécialistes qualifiés en anatomie et cytologie pathologiques
+qui effectuent, en dehors des laboratoires d'analyses de biologie médicale et
+dans les conditions fixées par un décret en Conseil d'Etat, des actes d'anatomie
+et de cytologie pathologiques.

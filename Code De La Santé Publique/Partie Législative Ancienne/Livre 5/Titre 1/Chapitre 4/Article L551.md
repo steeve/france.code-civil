@@ -12,3 +12,8 @@ modification de l'état physique ou physiologique, la restauration, la correctio
 ou la modification des fonctions organiques, est soumise aux dispositions
 prévues à l'alinéa 1er du présent article et au décret pris pour son
 application.
+
+La publicité ou la propagande, sous quelque forme que ce soit, relative aux
+préservatifs masculins en tant que moyen de prévention contre les maladies
+transmises par voie sexuelle [*mst*] est soumise aux dispositions prévues au
+premier alinéa du présent article et au décret pris pour son application.

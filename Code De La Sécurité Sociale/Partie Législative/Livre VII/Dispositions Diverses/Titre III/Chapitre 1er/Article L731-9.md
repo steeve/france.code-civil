@@ -2,11 +2,12 @@ Article L731-9
 ----
 Indépendamment des dispositions de l'article L. 731-8, les accords ayant pour
 objet exclusif l'institution dans le cadre professionnel ou interprofessionnel
-de régimes complémentaires de retraites, ainsi que leurs avenants, peuvent être
-agréés par arrêté interministériel, lorsqu'ils sont conclus entre organisations
-syndicales les plus représentatives d'employeurs et de travailleurs au sens de
-l'article L. 133-2 du code du travail et qu'ils ne comportent aucune stipulation
-incompatible avec les dispositions législatives et réglementaires en vigueur.
+de régimes complémentaires de retraites et de prévoyance, ainsi que leurs
+avenants, peuvent être agréés par arrêté interministériel, lorsqu'ils sont
+conclus entre organisations syndicales les plus représentatives d'employeurs et
+de travailleurs au sens de l'article L. 133-2 du code du travail et qu'ils ne
+comportent aucune stipulation incompatible avec les dispositions législatives et
+réglementaires en vigueur.
 
 L'agrément est accordé après avis motivé d'une commission dont la composition
 est fixée par décret.

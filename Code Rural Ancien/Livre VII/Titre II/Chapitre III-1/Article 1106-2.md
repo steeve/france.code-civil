@@ -27,7 +27,11 @@ titre III du présent livre ;
 e) Des suites des accidents survenus dans un régime obligatoire d'assurance
 maladie dont relevaient, soit en qualité d'assurés, soit en qualité d'ayants
 droit, les personnes visées à l'article 1106-1 I avant leur assujettissement au
-présent régime.
+présent régime ;
+
+f) Des accidents survenus aux personnes visées au 1°, 2° et 5° du paragraphe I
+de l'article 1106-1 dans l'exercice d'une activité secondaire non salariée
+non-agricole.
 
 3° De l'invalidité.
 

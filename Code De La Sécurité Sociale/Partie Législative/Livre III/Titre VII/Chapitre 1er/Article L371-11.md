@@ -6,4 +6,4 @@ que celles prévues pour les autres assurés.
 
 Elles sont versées à la collectivité publique d'aide sociale [*bénéficiaire*].
 Toutefois, les frais d'hospitalisation sont payés directement par les caisses
-aux établissements hospitaliers.
+aux établissements hospitaliers ou aux établissements de soins privés agréés.
