@@ -1,24 +1,32 @@
 Article 623
 ----
-Le droit de demander la révision appartient dans les trois premiers cas :
+La révision peut être demandée :
 
-Au ministre de la justice ;
+1° Par le ministre de la justice ;
 
-2° Au condamné ou, en cas d'incapacité, à son représentant légal ;
+2° Par le condamné ou, en cas d'incapacité, par son représentant légal ;
 
-3° Après la mort ou l'absence déclarée du condamné, à son conjoint, à ses
-enfants, à ses parents, à ses légataires universels ou à titre universel, à ceux
+3° Après la mort ou l'absence déclarée du condamné, par son conjoint, ses
+enfants, ses parents, ses légataires universels ou à titre universel ou par ceux
 qui en ont reçu de lui la mission expresse.
 
-La Cour de cassation, chambre criminelle, est saisie par son procureur général,
-en vertu de l'ordre exprès que le ministre de la justice a donné soit d'office,
-soit sur la réclamation des parties.
+La demande en révision est adressée à une commission composée de cinq magistrats
+de la Cour de cassation, désignés par l'assemblée générale de cette juridiction
+et dont l'un, choisi parmi les membres de la chambre criminelle, en assure la
+présidence. Cinq magistrats suppléants sont désignés selon les mêmes formes. Les
+fonctions du ministère public sont exercées par le parquet général de la Cour de
+cassation.
 
-Dans le quatrième cas, le droit de demander la révision appartient au ministre
-de la justice seul, qui statue après avoir fait procéder à toutes recherches et
-vérifications utiles et pris avis d'une commission composée de trois magistrats
-de la Cour de cassation annuellement désignés par elle et choisis en dehors de
-la chambre criminelle, et de trois directeurs au ministère de la justice. Si la
-demande en révision lui paraît devoir être admise, le ministre transmet le
-dossier de la procédure au procureur général près la Cour de cassation qui
-saisit la chambre criminelle.
+Après avoir procédé, directement ou par commission rogatoire, à toutes
+recherches, auditions, confrontations et vérifications utiles et recueilli les
+observations écrites ou orales du requérant ou de son conseil et celles du
+ministère public, cette commission saisit la chambre criminelle, qui statue
+comme cour de révision, des demandes qui lui paraissent pouvoir être admises. La
+commission statue par une décision motivée qui n'est susceptible d'aucun recours
+; cette décision, sur demande du requérant ou de son conseil, est rendue en
+séance publique.
+
+La commission prend en compte, dans le cas où la requête est fondée sur le
+dernier alinéa (4°) de l'article 622, l'ensemble des faits nouveaux ou éléments
+inconnus sur lesquels ont pu s'appuyer une ou des requêtes précédemment
+rejetées.
