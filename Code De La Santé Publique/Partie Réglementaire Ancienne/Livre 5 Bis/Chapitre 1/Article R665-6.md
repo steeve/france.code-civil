@@ -10,5 +10,6 @@ livre.
 
 En cas de litige sur l'application des règles de classification entre le
 fabricant d'un dispositif et un organisme habilité intervenant dans les
-procédures de certification de conformité prévues au présent livre, le ministre
-chargé de la santé détermine la classe dont relève le dispositif en cause.
+procédures de certification de conformité prévues au présent livre, le directeur
+général de l'Agence française de sécurité sanitaire des produits de santé
+détermine la classe dont relève le dispositif en cause.

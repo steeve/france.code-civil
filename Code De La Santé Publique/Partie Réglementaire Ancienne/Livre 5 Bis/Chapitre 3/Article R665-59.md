@@ -20,10 +20,12 @@ après avis de la conférence médicale ;
 l'association, après avis du conseil d'administration.
 
 La désignation du correspondant est immédiatement portée à la connaissance du
-ministre chargé de la santé par l'établissement ou l'association.
+directeur général de l'Agence française de sécurité sanitaire des produits de
+santé par l'établissement ou l'association.
 
-Le ministre chargé de la santé établit et tient à jour un fichier national des
-correspondants de matériovigilance.
+Le directeur général de l'Agence française de sécurité sanitaire des produits de
+santé établit et tient à jour un fichier national des correspondants de
+matériovigilance.
 
 Un ou des correspondants suppléants sont désignés dans les mêmes conditions afin
 d'assurer la permanence de cette fonction au sein de l'établissement ou de

@@ -4,9 +4,9 @@ Il est institué un système national de matériovigilance.
 
 Ce système comprend :
 
-a) A l'échelon central :
+a) A l'échelon national :
 
-- les services du ministre chargé de la santé ;
+- l'Agence française de sécurité sanitaire des produits de santé ;
 
 - la Commission nationale de matériovigilance instituée à l'article R. 665-54 et
 ses sous-commissions techniques prévues à l'article R. 665-55 ;

@@ -1,9 +1,9 @@
 Article R665-27
 ----
 Les organismes chargés de mettre en oeuvre les procédures de certification
-prévues par le présent livre sont habilités à cet effet par arrêté conjoint du
-ministre chargé de la santé et du ministre chargé de l'industrie. L'habilitation
-précise les tâches pour lesquelles elle est accordée.
+prévues par le présent livre sont habilités à cet effet par le directeur général
+de l'Agence française de sécurité sanitaire des produits de santé.
+L'habilitation précise les tâches pour lesquelles elle est accordée.
 
 L'habilitation est accordée en fonction des garanties d'indépendance et de
 compétence présentées par les organismes, de l'expérience qu'ils ont acquise
@@ -24,6 +24,7 @@ Ces organismes doivent en outre avoir souscrit une assurance couvrant leur
 responsabilité civile.
 
 Les organismes habilités doivent s'engager à permettre aux personnes désignées
-par le ministre chargé de la santé ou le ministre chargé de l'industrie
-d'accéder à leurs locaux et de procéder à toutes investigations, afin de
-vérifier qu'ils continuent de satisfaire aux conditions de l'habilitation.
+par le directeur général de l'Agence française de sécurité sanitaire des
+produits de santé d'accéder à leurs locaux et de procéder à toutes
+investigations, afin de vérifier qu'ils continuent de satisfaire aux conditions
+de l'habilitation.

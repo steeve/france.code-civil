@@ -17,7 +17,8 @@ dispositifs sur mesure.
 II. - Les dispositifs médicaux sur mesure doivent, préalablement à leur mise sur
 le marché, faire l'objet de la procédure définie par l'annexe VIII.
 
-Le ministre chargé de la santé peut exiger du fabricant de tels dispositifs
-qu'il lui communique la liste des dispositifs qu'il a produits et qui ont été
-mis en service sur le territoire français, ainsi que les déclarations et la
-documentation relatives à ces dispositifs.
+Le directeur général de l'Agence française de sécurité sanitaire des produits de
+santé peut exiger du fabricant de tels dispositifs qu'il lui communique la liste
+des dispositifs qu'il a produits et qui ont été mis en service sur le territoire
+français, ainsi que les déclarations et la documentation relatives à ces
+dispositifs.

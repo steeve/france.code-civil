@@ -8,9 +8,10 @@ I. - La Commission nationale de matériovigilance comprend [*composition*] :
 
 - le directeur des hôpitaux ou son représentant ;
 
-- le président de l'Agence française du sang ou son représentant ;
+- le président de l'Etablissement français du sang ou son représentant ;
 
-- le directeur général de l'Agence du médicament ou son représentant ;
+- le directeur général de l'Agence française de sécurité sanitaire des produits
+de santé ou son représentant ;
 
 - le directeur général de l'Etablissement français des greffes ou son
 représentant ;
@@ -47,17 +48,19 @@ santé parmi les membres de la commission. Le vice-président supplée le prési
 en cas d'empêchement.
 
 La commission a la faculté d'entendre toute personne qualifiée. Elle peut faire
-appel à des rapporteurs et des experts consultants désignés par le ministre
-chargé de la santé.
+appel à des rapporteurs et des experts consultants désignés par le directeur
+général de l'Agence française de sécurité sanitaire des produits de santé.
 
 Des sous-commissions techniques préparent le travail de la commission. Leurs
-membres sont désignés par arrêté du ministre chargé de la santé.
+membres sont désignés par le directeur général de l'Agence française de sécurité
+sanitaire des produits de santé.
 
 II. - Les membres de la commission doivent, lors de leur nomination, adresser au
-ministre chargé de la santé une déclaration mentionnant les liens directs ou
-indirects qu'ils peuvent avoir avec des entreprises dont les produits sont
-susceptibles de faire l'objet d'une évaluation par la commission. Ils s'engagent
-à signaler toute modification concernant ces liens.
+directeur général de l'Agence française de sécurité sanitaire des produits de
+santé une déclaration mentionnant les liens directs ou indirects qu'ils peuvent
+avoir avec des entreprises dont les produits sont susceptibles de faire l'objet
+d'une évaluation par la commission. Ils s'engagent à signaler toute modification
+concernant ces liens.
 
 Les membres de la commission ne peuvent prendre part ni aux délibérations ni aux
 votes s'ils ont un intérêt direct ou indirect pour le dossier examiné

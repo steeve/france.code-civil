@@ -15,5 +15,6 @@ fabricants ;
 
 3° Avoir réalisé l'ensemble de ces opérations selon des méthodes appropriées.
 
-Cette déclaration doit être tenue à la disposition de l'administration pendant
-une période de cinq ans.
+Cette déclaration doit être tenue à la disposition du directeur général de
+l'Agence française de sécurité sanitaire des produits de santé pendant une
+période de cinq ans.

@@ -2,15 +2,17 @@ Article R665-60
 ----
 Les correspondants de matériovigilance sont chargés :
 
-1° Dans le cadre de leurs relations avec l'échelon central :
+1° Dans le cadre de leurs relations avec l'échelon national :
 
-- de transmettre sans délai au ministre chargé de la santé toute déclaration
-d'incident ou de risque d'incident faite auprès d'eux au titre du signalement
-obligatoire mentionné à l'article R. 665-49 ;
+- de transmettre sans délai au directeur général de l'Agence française de
+sécurité sanitaire des produits de santé toute déclaration d'incident ou de
+risque d'incident faite auprès d'eux au titre du signalement obligatoire
+mentionné à l'article R. 665-49 ;
 
-- de transmettre au ministre chargé de la santé, selon une périodicité
-trimestrielle, les déclarations d'incident ou de dysfonctionnement faites auprès
-d'eux au titre du signalement facultatif mentionné à l'article R. 665-50 ;
+- de transmettre au directeur général de l'Agence française de sécurité
+sanitaire des produits de santé, selon une périodicité trimestrielle, les
+déclarations d'incident ou de dysfonctionnement faites auprès d'eux au titre du
+signalement facultatif mentionné à l'article R. 665-50 ;
 
 - d'informer les fabricants concernés des incidents ou risques d'incident
 mentionnés ci-dessus ;
@@ -21,7 +23,8 @@ collecte, la préparation, la conservation d'éléments et produits du corps hum
 ;
 
 - de conduire les enquêtes et travaux relatifs à la sécurité d'utilisation des
-dispositifs médicaux demandés par le ministre chargé de la santé ;
+dispositifs médicaux demandés par le directeur général de l'Agence française de
+sécurité sanitaire des produits de santé ;
 
 2° Au sein de l'établissement de santé ou de l'association :
 

@@ -1,14 +1,16 @@
 Article R665-54
 ----
-Il est institué auprès du ministre chargé de la santé une Commission nationale
-de matériovigilance dont la mission est :
+La Commission nationale de matériovigilance siège auprès de l'Agence française
+de sécurité sanitaire des produits de santé et a pour mission :
 
 1° D'évaluer les informations sur les incidents ou les risques d'incidents
 mettant en cause des dispositifs médicaux ;
 
-2° De donner un avis au ministre chargé de la santé sur les mesures à prendre
-pour faire cesser les incidents ou les risques d'incidents liés à l'utilisation
-des dispositifs médicaux ;
+2° De donner un avis au directeur général de l'Agence française de sécurité
+sanitaire des produits de santé sur les mesures à prendre pour faire cesser les
+incidents ou les risques d'incidents liés à l'utilisation des dispositifs
+médicaux ;
 
-3° De proposer au ministre chargé de la santé les enquêtes et les travaux
-qu'elle estime utiles à l'exercice de la matériovigilance.
+3° De proposer au directeur général de l'Agence française de sécurité sanitaire
+des produits de santé les enquêtes et les travaux qu'elle estime utiles à
+l'exercice de la matériovigilance.
