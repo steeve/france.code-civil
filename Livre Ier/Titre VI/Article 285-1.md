@@ -4,7 +4,9 @@ Si le local servant de logement à la famille appartient en propre ou
 personnellement à l'un des époux, le juge peut le concéder à bail à l'autre
 conjoint :
 
-1° Lorsque la garde d'un ou plusieurs enfants a été confiée à celui-ci ;
+1° Lorsque l'autorité parentale est exercée par celui-ci sur un ou plusieurs
+enfants ou, en cas d'exercice en commun de l'autorité parentale, lorsqu'un ou
+plusieurs enfants ont leur résidence habituelle dans ce logement ;
 
 2° Lorsque le divorce a été prononcé à la demande de l'époux propriétaire, pour
 rupture de la vie commune.
