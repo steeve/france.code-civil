@@ -5,6 +5,11 @@ I. - Les valeurs amortissables énumérées aux 1°, 2°, 3° et 4° de l'articl
 créance et les titres participatifs, sont inscrites à leur prix d'achat à la
 date d'acquisition.
 
+Lorsqu'un instrument financier à terme est utilisé dans les conditions définies
+à l'article R. 212-71 et qu'il est lié à l'achat d'un titre ou d'un groupe de
+titres de même nature, la valeur de réalisation de l'instrument est prise en
+compte dans le prix d'achat de ce titre ou de ce groupe de titres.
+
 Lorsque le prix d'achat de ces titres est supérieur à leur prix de
 remboursement, la différence est amortie sur la durée de vie résiduelle des
 titres.
@@ -22,7 +27,7 @@ Le prix d'achat et le prix de remboursement s'entendent hors intérêt couru.
 
 Lors de l'arrêté comptable, les moins-values latentes ressortant de la
 différence entre la valeur comptable, diminuée des amortissements et majorée des
-produits mentionnés aux deuxième et troisième alinéas, et la valeur de
+produits mentionnés aux troisième et quatrième alinéas, et la valeur de
 réalisation des titres correspondants évaluée conformément à l'article R.
 212-54, ne font pas l'objet d'une provision.
 

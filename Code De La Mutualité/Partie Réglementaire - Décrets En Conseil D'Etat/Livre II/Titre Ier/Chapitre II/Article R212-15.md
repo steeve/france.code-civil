@@ -56,4 +56,15 @@ de sanctions par la commission de contrôle mentionnée à l'article L. 510-1 ;
 
 8. Les réserves constituées en application des articles L. 111-6 et L. 431-1, y
 compris la part de cotisation versée par la mutuelle ou l'union et non utilisée
-par le système fédéral de garantie ou le fonds de garantie.
+par le système fédéral de garantie ou le fonds de garantie ;
+
+9. Sur demande et justification de la mutuelle ou union et avec l'accord de la
+commission de contrôle mentionnée à l'article L. 510-1, les plus-values latentes
+sur les instruments financiers à terme mentionnés aux articles R. 212-70 et R.
+212-71, dès lors que les opérations correspondantes sont négociées sur un marché
+reconnu au sens du dernier alinéa du A de l'article R. 212-31 ou réalisées de
+gré à gré dans la mesure où elles sont garanties dans les conditions prévues à
+l'article R. 212-81.
+
+Les moins-values latentes sur instruments financiers à terme non provisionnées
+sont déduites des éléments énumérés au 6 (b) et au 9.

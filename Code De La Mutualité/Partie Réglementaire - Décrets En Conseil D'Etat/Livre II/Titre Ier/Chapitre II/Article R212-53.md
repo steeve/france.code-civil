@@ -6,7 +6,11 @@ immobiliers sont inscrits au bilan sur la base du prix d'achat ou de revient,
 dans les conditions ci-après :
 
 a) Les valeurs mobilières et les parts de fonds communs de placement sont
-retenues pour leur prix d'achat. Le prix d'achat s'entend hors intérêt couru ;
+retenues pour leur prix d'achat. Lorsqu'un instrument financier à terme est
+utilisé dans les conditions définies à l'article R. 212-71 et qu'il est lié à
+l'achat d'un titre ou d'un groupe de titres de même nature, la valeur de
+réalisation de l'instrument est prise en compte dans le prix d'achat de ce titre
+ou de ce groupe de titres. Le prix d'achat s'entend hors intérêt couru ;
 
 b) Les immeubles et les parts ou actions des sociétés immobilières ou foncières
 non inscrites à la cote d'une bourse de valeurs d'un Etat membre de
