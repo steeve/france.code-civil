@@ -12,8 +12,8 @@ de la commission lorsque toutes les pièces requises sont fournies. Le demandeur
 est avisé de cet enregistrement.
 
 Un arrêté du ministre chargé de la santé fixe la liste des pièces qui doivent
-accompagner la demande d'homologation et de celles que doit comporter le dossier
-technique.
+accompagner la demande d'homologation ou de renouvellement d'homologation et de
+celles que doit comporter le dossier technique.
 
 Dans des cas exceptionnels, le ministre chargé de la santé peut autoriser la
 production d'un dossier simplifié.
