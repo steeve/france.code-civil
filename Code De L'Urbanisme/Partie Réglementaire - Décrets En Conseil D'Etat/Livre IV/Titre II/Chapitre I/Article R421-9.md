@@ -12,8 +12,7 @@ Les exemplaires de la demande et du dossier de permis de construire font l'objet
 des transmissions prévues à l'article L. 421-2-3. Toutefois dans les cas prévus
 au 1° dudit article, seul le formulaire de demande est transmis au préfet sauf
 lorsque les travaux sont situés à l'intérieur d'une zone délimitée dans les
-conditions prévues au 1° de l'article 1er du décret n° 2002-89 du 16 janvier
-2002 pris pour l'application de la loi n° 2001-44 du 17 janvier 2001 et relatif
+conditions prévues à l'article 5 du décret n° 2004-490 du 3 juin 2004 relatif
 aux procédures administratives et financières en matière d'archéologie
 préventive ou lorsque ces travaux ont une emprise au sol excédant les seuils
 fixés dans les mêmes conditions.
@@ -25,5 +24,5 @@ du demandeur, numéro et date d'enregistrement de la demande, adresse du terrain
 surface hors oeuvre nette et hauteur du projet, destination de la construction.
 
 Lorsque le projet a fait l'objet d'une prescription du préfet de région en
-application du décret du 16 janvier 2002 précité, le permis de construire
-comporte la mention prévue au dernier alinéa de l'article L. 421-2-4.
+application du décret n° 2004-490 du 3 juin 2004 précité, le permis de
+construire comporte la mention prévue au dernier alinéa de l'article L. 421-2-4.

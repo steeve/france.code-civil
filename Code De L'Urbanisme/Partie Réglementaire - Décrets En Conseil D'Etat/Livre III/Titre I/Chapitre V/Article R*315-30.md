@@ -16,12 +16,12 @@ réaliser les travaux des autres tranches sont fixés par l'arrêté d'autorisat
 sans qu'ils puissent excéder une durée de six ans décomptée comme il est dit à
 l'alinéa premier du présent article.
 
-La durée de validité de l'autorisation de lotir est prolongée à concurrence du
-délai de réalisation du diagnostic et, le cas échéant, des fouilles
-archéologiques prescrits par le préfet en application du décret n° 2002-89 du 16
-janvier 2002 pris pour l'application de la loi n° 2001-44 du 17 janvier 2001 et
-relatif aux procédures administratives et financières en matière d'archéologie
-préventive.
+Lorsque des prescriptions archéologiques sont imposées en application de
+l'article 14 du décret n° 2004-490 du 3 juin 2004 relatif aux procédures
+administratives et financières en matière d'archéologie préventive, les délais
+mentionnés aux alinéas précédents courent à compter de la remise du rapport de
+diagnostic et, en cas de prescription de fouilles, de la délivrance de
+l'attestation préfectorale ou du certificat prévus à l'article 53 dudit décret.
 
 Lorsque l'autorisation est devenue caduque, l'opération ne peut être poursuivie
 qu'en ce qui concerne les tranches dont les travaux d'aménagement ont été menés

@@ -12,12 +12,12 @@ en deux tranches, dont la première constitue une unité habitable et ne dépass
 pas 100 mètres carrés de surface hors oeuvre nette et dont la suivante a une
 surface hors oeuvre nette inférieure à la première.
 
-Le délai de validité du permis de construire est prolongé à concurrence de la
-durée de réalisation du diagnostic et, le cas échéant, des fouilles
-archéologiques prescrits par le préfet de région en application du décret n°
-2002-89 du 16 janvier 2002 pris pour l'application de la loi n° 2001-44 du 17
-janvier 2001 et relatif aux procédures administratives et financières en matière
-d'archéologie préventive.
+Lorsque des prescriptions archéologiques sont imposées en application de
+l'article 14 du décret n° 2004-490 du 3 juin 2004 relatif aux procédures
+administratives et financières en matière d'archéologie préventive, le délai de
+deux ans mentionné au premier alinéa court à compter de la remise du rapport de
+diagnostic et en cas de fouilles, de la délivrance de l'attestation préfectorale
+ou du certificat prévus par l'article 53 dudit décret.
 
 Le délai de validité du permis de construire est suspendu, le cas échéant,
 pendant la durée du sursis à exécution de la décision portant octroi dudit

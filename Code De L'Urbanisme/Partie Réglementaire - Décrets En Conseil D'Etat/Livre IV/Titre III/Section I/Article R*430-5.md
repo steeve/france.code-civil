@@ -16,7 +16,12 @@ du 31 décembre 1913.
 
 Les exemplaires de la demande et du dossier de permis de démolir font l'objet
 des transmissions prévues à l'article L. 421-2-3. Toutefois, dans le cas prévu
-au 1er dudit article, seul le formulaire de demande est transmis au préfet.
+au 1er dudit article, seul le formulaire de demande est transmis au préfet sauf
+lorsque les travaux sont situés à l'intérieur d'une zone délimitée dans les
+conditions prévues à l'article 5 du décret n° 2004-490 du 3 juin 2004 relatif
+aux procédures administratives et financières en matière d'archéologie
+préventive et portant le cas échéant sur des emprises au sol excédant le seuil
+fixé dans l'arrêté définissant la zone.
 
 Dans les quinze jours qui suivent le dépôt de la demande et pendant la durée
 d'instruction de celle-ci, le maire procède à l'affichage en mairie d'un avis de
