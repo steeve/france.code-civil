@@ -16,10 +16,10 @@ les conditions prévues aux articles R. 170-43 et R. 170-44 ;
 conformément aux dispositions de l'article R. 170-46 ;
 
 5° De cessions consenties en application des dispositions du troisième alinéa de
-l'article L. 91-1, dans les conditions prévues à la section V du présent
-chapitre ;
+l'article L. 91-1 dans les conditions prévues aux articles R. 170-46-1 à R.
+170-46-4 ;
 
 6° De conventions passées en application du second alinéa de l'article L. 91-1-1
 avec l'établissement public visé audit article, en vue de faire bénéficier cet
 établissement de concessions et de cessions gratuites, dans les conditions
-prévues à l'article R. 170-46-1.
+prévues à l'article R. 170-46-5 et R. 170-46-6.

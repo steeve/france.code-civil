@@ -13,7 +13,6 @@ par le préfet sur l'exécution du programme, la concession est prorogée de ple
 droit.
 
 A défaut de justifications présentées dans les délais ou en cas de non-paiement
-de la redevance prévue au troisième alinéa de l'article R. 170-47 aux dates
-fixées dans l'acte de concession et ses avenants, le préfet prononce la
-déchéance de la concession. L'arrêté prononçant la déchéance est notifié à la
-collectivité.
+de la redevance prévue au second alinéa de l'article R. 170-47 aux dates fixées
+dans l'acte de concession et ses avenants, le préfet prononce la déchéance de la
+concession. L'arrêté prononçant la déchéance est notifié à la collectivité.

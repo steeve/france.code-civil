@@ -12,4 +12,4 @@ définies dans l'acte de concession.
 Le transfert de propriété est consenti sous la condition résolutoire que
 l'immeuble soit exploité à des fins agricoles par le cessionnaire, ses héritiers
 ou ses ayants cause, pendant trente ans à compter de l'octroi de la concession
-et sous réserve de l'application des dispositions de l'article R. 170-65.
+et sous réserve de l'application des dispositions de l'article R. 170-69.

@@ -9,7 +9,9 @@ décès ou le défaut d'exploitation n'est pas suivi d'une transmission du bén�
 de la concession dans les conditions prévues aux deuxième et troisième alinéas
 de l'article R. 170-38 ;
 
-3° Déchéance du concessionnaire.
+3° Dissolution ou cessation d'activité de la personne morale ;
+
+4° Déchéance du concessionnaire.
 
 La vacance est déclarée par le préfet. Elle fait l'objet des mesures de
 publicité prévues à l'article R. 170-37.

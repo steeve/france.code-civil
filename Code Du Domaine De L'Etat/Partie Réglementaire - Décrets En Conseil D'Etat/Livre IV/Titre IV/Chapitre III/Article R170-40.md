@@ -7,7 +7,7 @@ recommandée avec demande d'avis de réception, de se conformer à ses obligatio
 et l'invite à participer à une visite contradictoire des lieux ou à s'y faire
 représenter.
 
-Si la mise en demeure n'a pu être notifiée à la personne de l'intéressé ou d'un
+Si la mise en demeure n'a pu être notifiée au concessionnaire ou à son
 représentant, elle est affichée en mairie pendant un délai de quinze jours.
 
 La visite donne lieu à l'établissement d'un procès-verbal. Si, pour quelque
@@ -15,5 +15,5 @@ raison que ce soit, le concessionnaire ou son représentant ne participe pas à 
 visite ou s'il refuse de signer le procès-verbal, un constat de carence est
 dressé. Lorsque la mise en demeure est restée infructueuse, le concessionnaire
 est déchu de ses droits par le préfet. Dans le cas où l'arrêté de déchéance n'a
-pu être notifié à la personne de l'intéressé ou d'un représentant, il est
-affiché en mairie pendant un délai de quinze jours.
+pu être notifié au concessionnaire ou à son représentant, il est affiché en
+mairie pendant un délai de quinze jours.

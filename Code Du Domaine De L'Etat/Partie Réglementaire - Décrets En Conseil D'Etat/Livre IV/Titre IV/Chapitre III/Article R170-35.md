@@ -4,7 +4,16 @@ Les formulaires de demande de concession sont établis par le préfet ou, le cas
 échéant, par l'Etablissement public d'aménagement en Guyane, selon un modèle
 type agréé par le préfet. La demande indique notamment :
 
-1° L'identité, la profession et l'adresse du demandeur ;
+1° L'identité, la profession et l'adresse du demandeur. Si la demande émane
+d'une personne morale, elle doit être accompagnée d'une copie des statuts et
+comporter les indications suivantes :
+
+dénomination, forme juridique, adresse du siège social, objet social, capital
+social, numéro d'immatriculation au registre du commerce et des sociétés, nom,
+prénom usuel et domicile des personnes ayant le pouvoir d'engager la personne
+morale envers les tiers, nom, prénom usuel et part de capital social détenue par
+les personnes physiques associées mentionnées au deuxième alinéa de l'article R.
+170-33.
 
 2° La situation exacte et la superficie du terrain demandé ;
 

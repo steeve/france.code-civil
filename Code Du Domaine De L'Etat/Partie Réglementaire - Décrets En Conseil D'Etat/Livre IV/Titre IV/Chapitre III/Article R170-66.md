@@ -1,9 +1,6 @@
 Article R170-66
 ----
-Tout acte de cession mentionne les conditions auxquelles le transfert de
-propriété est consenti et notamment celles des conditions dont l'inobservation
-entraîne la résolution de la cession.
-
-Les concessions prévues à l'article R. 170-47 doivent mentionner les conditions
-auxquelles le transfert de propriété sera consenti et notamment celles des
-conditions dont l'inobservation entraîne la résolution de la cession.
+Après avoir, s'il y a lieu, établi le bornage à ses frais, le concessionnaire ou
+le cessionnaire est tenu de payer les frais d'établissement, d'expédition et de
+publication de l'acte de concession ou de cession, ainsi que les frais de
+transcription à la conservation des hypothèques.

@@ -1,11 +1,20 @@
 Article R170-64
 ----
-Les concessions prévues au présent chapitre ne peuvent faire obstacle ni à
-l'exécution par l'Etat d'opérations tendant à la recherche de substances
-minières et à leur exploitation, ni à l'exécution de travaux d'aménagement ou
-d'équipement collectif. Les troubles de jouissance qui pourraient en résulter
-pour le bénéficiaire de la concession ne peuvent donner lieu à une indemnité à
-la charge de l'Etat.
+L'établissement public adresse après instruction le dossier de demande au
+préfet, accompagné de son avis et, le cas échéant, de ses propositions
+d'ajustement de la superficie du terrain dont la cession est demandée, pour
+tenir compte de l'équipement de celui-ci en voirie et réseaux divers et des
+conditions de cession des fonds voisins.
 
-L'acte de concession doit, à peine de nullité, mentionner les dispositions du
-présent article.
+Lorsque l'établissement public a réalisé et financé des travaux d'aménagement en
+vue de la cession, il détermine le coût de ces aménagements bénéficiant à
+l'immeuble à céder et en recouvre le montant à son profit auprès du demandeur.
+
+La cession est consentie par le préfet.
+
+En cas de méconnaissance de l'obligation mentionnée au deuxième alinéa de
+l'article L. 91-6, le préfet fait prononcer la nullité de la cession.
+
+Les dispositions de l'article R. 170-69, du premier alinéa de l'article R.
+170-70 et, le cas échéant, de l'article R. 170-67 sont applicables aux cessions
+prévues par la présente section.

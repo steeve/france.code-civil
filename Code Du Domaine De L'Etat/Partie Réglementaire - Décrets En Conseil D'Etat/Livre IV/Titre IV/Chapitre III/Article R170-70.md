@@ -1,6 +1,9 @@
 Article R170-70
 ----
-Les cessions gratuites de terres à usage agricole prévues au troisième alinéa de
-l'article L. 91-1 peuvent être consenties aux agriculteurs exploitant, sans
-titre régulier, des terres domaniales mises à leur disposition par l'Etat, s'ils
-en font la demande avant le 31 décembre 1992.
+Tout acte de cession mentionne les conditions auxquelles le transfert de
+propriété est consenti et notamment celles des conditions dont l'inobservation
+entraîne la résolution de la cession.
+
+Les concessions prévues à l'article R. 170-47 doivent mentionner les conditions
+auxquelles le transfert de propriété sera consenti et notamment celles des
+conditions dont l'inobservation entraîne la résolution de la cession.
