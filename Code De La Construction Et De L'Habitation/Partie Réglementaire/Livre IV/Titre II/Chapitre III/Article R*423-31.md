@@ -1,8 +1,13 @@
 Article R*423-31
 ----
-Conformément aux dispositions du décret n. 75-30 du 17 janvier 1975, les
-dispositions de la sous-section 2 restent applicables aux offices d'habitations
-à loyer modéré transformés en offices publics d'aménagement et de construction
-après le 18 juin 1976, dans la mesure où elles ne sont pas contraires à la
-présente sous-section, jusqu'à la fin de l'année au cours de laquelle la
-transformation prend effet.
+Les états financiers certifiés conformes par le ou les commissaires aux comptes,
+obligatoirement accompagnés d'un rapport du directeur général sur l'activité de
+l'office pendant l'exercice écoulé, sont transmis au plus tard le 15 mai de
+l'année suivant cet exercice au conseil d'administration qui délibère et propose
+l'affectation du résultat.
+
+Avant le 1er juillet de la même année, des copies de ces documents et du rapport
+du directeur général sont adressées au préfet.
+
+Ces documents ainsi que le rapport du commissaire du Gouvernement sont adressés
+dans les mêmes délais au ministre chargé de la construction et de l'habitation.

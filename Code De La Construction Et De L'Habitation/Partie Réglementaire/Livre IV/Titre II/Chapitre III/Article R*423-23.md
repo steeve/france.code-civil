@@ -1,13 +1,20 @@
 Article R*423-23
 ----
-L'instruction prévue à l'article R. 423-30 fixe les conditions dans lesquelles
-le conseil d'administration peut déterminer les dotations annuelles aux
-provisions pour charges à répartir et pour risques.
+Les instructions prévues à l'article R. 423-30 fixent notamment les conditions
+dans lesquelles le conseil d'administration détermine les dotations annuelles
+aux provisions pour risques et pour dépréciation ainsi que les dotations
+annuelles aux amortissements des charges à répartir sur plusieurs exercices.
 
-La provision pour créances douteuses des loyers, charges et accessoires ne peut
-être inférieure, après la dotation de fin d'exercice, au montant de celles qui
-sont échues depuis plus d'un an et non recouvrées.
+Les sommes dues en loyers, charges et accessoires par les locataires ayant
+quitté leur logement et par ceux dont la dette a une origine antérieure à un an
+sont provisionnées en totalité. Lorsque l'origine de la dette est comprise entre
+trois mois et un an, les sommes dues sont provisionnées selon les taux et dans
+les conditions fixés par les instructions prévues à l'article R. 423-30. Le
+calcul de ces provisions s'effectue sur la base des créances échues et non
+recouvrées au 31 décembre [*date*], exception faite du quittancement de
+décembre.
 
-La dotation annuelle à la provision pour réparations peut varier, selon les
-besoins et les possibilités de l'office, sans jamais pouvoir être inférieure à
-un montant fixé par l'instruction mentionnée ci-dessus.
+La dotation annuelle à la provision pour grosses réparations peut varier, selon
+les besoins et les possibilités de l'office, sans jamais pouvoir être inférieure
+à une fraction de la valeur brute actualisée des immobilisations fixée en
+application des instructions mentionnées ci-dessus.

@@ -1,10 +1,11 @@
 Article R423-64
 ----
-Le compte financier est préparé par le receveur et visé par le président du
-conseil d'administration, qui certifie sa conformité avec ses écritures
-d'ordonnateur.
+Le bilan et le compte de résultat sont préparés par le comptable et visés par le
+président du conseil d'administration.
 
-Il est obligatoirement accompagné d'un rapport du président du conseil
-d'administration sur l'activité de l'office pendant l'année écoulée.
+Les instructions prévues à l'article R. 423-40 fixent l'ensemble des
+informations constituant l'annexe et définissent la répartition des tâches entre
+le comptable et l'ordonnateur pour son élaboration.
 
-Il est délibéré par le conseil d'administration et réglé par le préfet.
+Ces documents sont obligatoirement accompagnés d'un rapport du président du
+conseil d'administration sur l'activité de l'office pendant l'année écoulée.

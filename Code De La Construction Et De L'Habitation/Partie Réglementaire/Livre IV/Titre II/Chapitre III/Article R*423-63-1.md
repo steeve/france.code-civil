@@ -1,4 +1,4 @@
-Article R*423-27
+Article R*423-63-1
 ----
 Le conseil d'administration de l'office délibère sur l'affectation du résultat
 de l'exercice clos selon le schéma suivant :
@@ -11,8 +11,7 @@ a) En cas de cession de biens immobiliers, dans la limite de la plus-value
 correspondante, au compte de réserve Plus-values nettes sur cessions
 immobilières ;
 
-b) Au compte de report à nouveau, dans la limite du solde débiteur de ce compte
-;
+b) Au compte de report à nouveau, dans la limite du solde débiteur de ce compte.
 
 2° Pour le solde :
 

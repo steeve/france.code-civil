@@ -1,6 +1,6 @@
-Article R*423-21
+Article R423-41
 ----
-Sous réserve des dispositions de l'article R. 423-25 ci-après, les
+Sous réserve des dispositions de l'article R. 423-45 ci-après, les
 immobilisations sont comptabilisées soit pour leur prix de revient, soit pour
 leur coût d'acquisition, soit, en cas de donation, pour leur valeur vénale.
 
