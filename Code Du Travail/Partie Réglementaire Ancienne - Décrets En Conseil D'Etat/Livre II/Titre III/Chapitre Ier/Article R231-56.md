@@ -13,7 +13,7 @@ ministre chargé du travail copie de sa demande de rectification ou de compléme
 avec un exemplaire du dossier. Si le fabricant ou l'importateur conteste la
 demande de l'organisme agréé, il en saisit le ministre chargé du travail et
 envoie copie de son recours à l'organisme agréé. Le ministre chargé du travail
-statue dans un délai d'un mois et notifie sa décision au fabricant ou à
+statue et notifie, dans un délai de quinze jours la décision au fabricant ou à
 l'importateur et à l'organisme agréé. L'absence de notification d'une réponse à
 l'expiration de ce délai vaut rejet de la demande. L'organisme agréé dispose à
 nouveau d'un délai d'un mois à compter de la réception d'un dossier rectifié ou

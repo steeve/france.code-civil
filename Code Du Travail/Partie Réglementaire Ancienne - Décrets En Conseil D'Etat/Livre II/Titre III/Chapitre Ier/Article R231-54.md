@@ -1,75 +1,63 @@
 Article R231-54
 ----
-I - Les informations à fournir en application de l'article R. 231-51 (1er
-alinéa) ci-dessus sont les suivantes pour toute substance chimique mise pour la
-première fois sur le marché :
+I - Les informations à fournir en application du premier alinéa de l'article R.
+231-51 sont les suivantes pour toute substance chimique préalablement à sa mise
+sur le marché :
 
-Nom, prénoms, adresse et qualité du signataire de l'envoi ;
+a) Les nom, prénoms, adresse et qualité du déclarant et, le cas échéant, la
+raison sociale et le siège social de l'entreprise pour le compte de laquelle est
+faite la déclaration ;
 
-Désignation chimique normalisée et désignation commerciale de la substance et
-éventuellement de la préparation ou du matériel qui la contient ;
+b) La désignation chimique normalisée et la désignation commerciale de la
+substance et, éventuellement, la désignation des préparations qui la contiennent
+;
 
-Formule chimique de la substance ;
+c) La formule chimique de la substance et éventuellement, la composition des
+préparations qui la contiennent ;
 
-Principe du procédé par lequel elle est obtenue ;
+d) La nature des impuretés que peut contenir la substance et le pourcentage des
+principales d'entre elles ;
 
-Propriétés physiques de la substance ;
+e) Les additifs qui peuvent être associés à la substance ;
 
-Impuretés et additifs pouvant être associés à la substance ;
+e bis) Les données spectrales ;
 
-S'il y a lieu, composition de la préparation ou nature du matériel qui contient
-la substance et teneur de la substance dans cette préparation ou ce matériel ;
+f) Les méthodes de détection et de dosage de la substance dans les préparations
+et dans les milieux où elle peut se rencontrer ;
 
-Conditionnement commercial de la substance ou, s'il y a lieu, de la préparation
-ou du matériel où cette substance est incluse ;
+g) Les quantités que le déclarant prévoit de fabriquer ou d'importer avec
+l'indication des effets recherchés, des modes et des conditions d'utilisation et
+de distribution envisagés ;
 
-Méthodes de détection et de dosage de la substance ;
+h) Les méthodes et précautions à prendre en ce qui concerne l'usage, le
+transport, la manipulation et le stockage de la substance ou des préparations
+qui la contiennent ainsi que les dispositions à prévoir en cas d'accident de
+personne, de dispersion accidentelle ou d'incendie ;
 
-Résultats d'essais de toxicité aiguë et subaiguë, d'action corrosive ou
-irritante ;
+i) Les propriétés physico-chimiques de la substance, notamment ses conditions
+d'inflammation et d'explosion ;
 
-Résultats d'essais de mutagénèse à court terme ;
+j) Les résultats des essais de toxicité aiguë et subaiguë sur des espèces
+animales témoins et les résultats des études d'action corrosive et irritante ;
 
-Résultats d'essais d'inflammation ou d'explosion ;
+k) Les résultats d'essais de mutagenèse à court terme.
 
-Usages envisagés dans les établissements visés à l'article L. 231-1 et
-précautions à prendre dans l'utilisation.
+II - En outre doivent être fournies :
 
-Le fabricant ou l'importateur doit joindre aux informations prévues ci-dessus
-tous autres éléments dont il dispose qui seraient utiles à l'appréciation des
-risques encourus par les travailleurs, notamment le résultats d'essais sur le
-métabolisme ou sur la toxicité chronique ou sur d'autres effets à long terme si
-ces essais ont été réalisés.
+- une déclaration concernant les effets défavorables de la substance en fonction
+des différentes utilisations envisagées ;
 
-Les fabricants ou importateurs de substances chimiques peuvent toutefois se
-dispenser de fournir tout ou partie des résultats d'essais prévus au premier
-alinéa ci-dessus s'ils peuvent établir par d'autres moyens l'innocuité ou le
-degré de nocivité de ces substances pour les travailleurs.
+- une proposition de classification et d'étiquetage appropriée aux dangers
+présentés par la substance ;
 
-II - Dans le cas de préparations [*contenant des substances vénéneuses*] visées
-à l'article R. 231-51 (2e alinéa ci-dessus), les éléments suivants doivent être
-fournis :
+- des propositions de recommandations concernant la sécurité d'emploi de la
+substance.
 
-Nom, prénoms, adresse et qualité du signataire de l'envoi ;
+III - S'il n'est pas possible techniquement ou s'il ne paraît pas nécessaire de
+fournir une information, les raisons devront en être indiquées.
 
-Désignation commerciale de la préparation ;
-
-Composition qualitative de la préparation ;
-
-Teneurs dans la préparation des substances visées à l'article R. 231-51 (2e
-alinéa) ;
-
-Etat physique et conditionnement commercial de la préparation ;
-
-Usages envisagés dans les établissements mentionnés à l'article L. 231-1 et
-précautions à prendre dans l'utilisation.
-
-III - Le fabricant ou l'importateur fait connaître, le cas échéant, à
-l'organisme agréé celles des informations mentionnées aux I et II ci-dessus dont
-la diffusion lui apparaîtrait de nature à entraîner la divulgation des secrets
-de fabrication. Ces dispositions ne peuvent faire obstacle à la fourniture des
-renseignements prévus à l'article R. 231-60 (4e et 5e alinéas) ni à
-l'application des règlements prévus à l'article R. 231-47 (1er alinéa).
-
-IV - Les pièces à fournir en application du présent article doivent être
-rédigées [*obligatoirement*] en langue française.
+IV - Le déclarant doit également joindre aux informations et propositions
+ci-dessus énumérées tous autres éléments dont il dispose et qui seraient utiles
+à l'appréciation des risques encourus par les travailleurs, notamment les
+résultats d'essais sur le métabolisme, sur la toxicité chronique ou sur d'autres
+effets à long terme si ces essais ont été réalisés.

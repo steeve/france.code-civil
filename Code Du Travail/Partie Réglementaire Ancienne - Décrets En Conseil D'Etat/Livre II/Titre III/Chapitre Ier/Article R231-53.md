@@ -1,4 +1,9 @@
 Article R231-53
 ----
-La fourniture des informations prévues par l'article L. 231-7 (3e alinéa) n'est
-pas exigée pour les préparations destinées exclusivement à des usages médicaux.
+Les dispositions du troisième alinéa de l'article L. 231-7 du code du travail ne
+s'appliquent pas aux substances chimiques soit pour leur utilisation dans les
+médicaments, les matériaux au contact de denrées alimentaires, les produits
+servant au nettoyage de ces matériaux, les produits antiparasitaires à usage
+agricole et assimilés, les matières fertilisantes et supports de culture, les
+explosifs , soit pour leur utilisation à titre d'additifs ou d'auxiliaires
+technologiques dans les aliments.
