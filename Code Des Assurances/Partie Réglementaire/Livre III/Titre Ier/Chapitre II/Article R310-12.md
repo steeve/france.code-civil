@@ -1,42 +1,11 @@
-Article R510-1
+Article R310-12
 ----
-L'organisation administrative de la Commission de contrôle des assurances, des
-mutuelles et des institutions de prévoyance mentionnée à l'article L. 510-1 est
-fixée par les articles R. 310-11, R. 310-12 et R. 310-12-1 du code des
-assurances, ci-après reproduits :
-
-"Art. R. 310-11. - I. - La Commission de contrôle des assurances, des mutuelles
-et des institutions de prévoyance se réunit sur convocation de son président ou
-à la demande de la moitié de ses membres.
-
-Elle ne peut délibérer que si cinq au moins de ses membres sont présents, ce
-nombre étant porté à six en matière disciplinaire.
-
-II. - Il est établi un procès-verbal des séances de la commission de contrôle
-par un agent des services qui fait office de secrétaire de séance. Mention y est
-faite des noms des membres présents.
-
-Le procès-verbal est soumis à l'approbation de la commission.
-
-Une fois approuvé, ce procès-verbal est signé par le président et copie en est
-tenue à la disposition de chacun des membres de la commission et des
-commissaires du Gouvernement.
-
-III. - Les membres de la commission perçoivent, pour chaque séance, une
-indemnité dont le montant est fixé par la commission. Le montant des indemnités
-versées annuellement à chaque membre ne doit pas dépasser un cinquième du
-traitement moyen afférent au cinquième groupe supérieur des emplois de l'Etat
-classés hors échelle. Le président de la commission perçoit une rémunération ou
-une indemnité du même montant, assortie d'une indemnité de fonction fixée par le
-ministre chargé de l'économie. Le montant de cette dernière indemnité est publié
-au Journal officiel de la République française."
-
-"Art. R. 310-12. - I. - Sur proposition de son président et à la majorité des
-deux tiers de ses membres, la commission de contrôle peut constituer une ou
-plusieurs commissions spécialisées mentionnées à l'article L. 310-12-1. Elle
-peut les créer en matière d'assurances de personnes, de biens et de
-responsabilité ainsi qu'en matière d'intermédiation et de gouvernance des
-organismes pratiquant des activités d'assurance.
+I. - Sur proposition de son président et à la majorité des deux tiers de ses
+membres, la commission de contrôle peut constituer une ou plusieurs commissions
+spécialisées mentionnées à l'article L. 310-12-1. Elle peut les créer en matière
+d'assurances de personnes, de biens et de responsabilité ainsi qu'en matière
+d'intermédiation et de gouvernance des organismes pratiquant des activités
+d'assurance.
 
 Ces commissions spécialisées ne peuvent intervenir dans les matières relevant du
 pouvoir de sanction mentionné à l'article L. 310-18 du présent code, à l'article
@@ -78,7 +47,7 @@ le cadre des dispositions prévues à l'article L. 510-2 du code de la mutualit�
 Par dérogation aux dispositions du I, cette commission spécialisée est habilitée
 à prononcer à l'encontre des mutuelles régies par le livre III du code de la
 mutualité et selon les modalités définies aux articles R. 510-11, R. 510-12 et
-R. 510-13 du même code, les sanctions prévues à l'article L. 510-11 de ce code.
+R. 510-13 du même code les sanctions prévues à l'article L. 510-11 de ce code.
 
 Lorsqu'elle l'estime utile, cette commission spécialisée renvoie l'affaire
 devant la commission de contrôle.
@@ -113,8 +82,4 @@ contrôle des décisions adoptées par chaque commission spécialisée.
 3° Une décision d'une commission spécialisée est exécutoire sauf si l'un de ses
 membres ou un commissaire du Gouvernement demande, au cours de la séance, que la
 décision soit renvoyée à la Commission de contrôle des assurances, des mutuelles
-et des institutions de prévoyance."
-
-"Art. R. 310-12-1. - Chaque commissaire du Gouvernement dispose d'un délai de
-trois jours ouvrés suivant la réunion de la commission de contrôle pour demander
-une deuxième délibération."
+et des institutions de prévoyance.

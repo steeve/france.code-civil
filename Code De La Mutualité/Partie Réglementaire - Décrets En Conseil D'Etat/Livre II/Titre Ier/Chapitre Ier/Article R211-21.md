@@ -22,3 +22,9 @@ aux engagements souscrits par cet organisme pour la ou les branches concernées.
 Elle précise en outre que toutes les écritures comptables afférentes aux
 engagements pris par cet organisme doivent apparaître dans la comptabilité de la
 mutuelle ou de l'union qui lui est substituée.
+
+Lorsqu'une mutuelle ou une union à laquelle un autre organisme s'est substitué
+pour la totalité de ses opérations choisit de se dispenser de nommer un
+commissaire aux comptes en application du cinquième alinéa de l'article L.
+211-5, le mandat du commissaire aux comptes de l'organisme qui lui est substitué
+est étendu à cette mutuelle ou union.

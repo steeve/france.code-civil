@@ -1,11 +1,16 @@
 Article R510-11
 ----
-Lorsque la commission estime qu'il peut y avoir lieu de faire application des
-sanctions prévues à l'article L. 510-11, elle porte à la connaissance de la
-mutuelle, de l'union ou de la fédération concernée, par lettre recommandée avec
-demande d'avis de réception adressée au représentant légal de l'organisme, les
-faits qui lui sont reprochés ; elle lui fait savoir qu'il peut prendre
-connaissance et copie des pièces du dossier ; elle l'invite à faire parvenir ses
-observations écrites dans un délai qui ne peut être inférieur à huit jours.
+Lorsque la commission de contrôle saisie par son secrétaire général sur le
+fondement d'un rapport de contrôle réalisé par ses services, décide de
+l'ouverture d'une procédure de sanction dans le cadre de l'article L. 510-11 du
+présent code, des articles L. 310-18 et L. 310-18-1 du code des assurances ou de
+l'article L. 951-10 du code de la sécurité sociale, la notification des griefs
+est adressée, par lettre recommandée avec demande d'avis de réception, remise en
+main propre contre récépissé ou exploit d'huissier, à la personne mise en cause,
+accompagnée du rapport d'enquête.
 
-Copie de la lettre de notification est adressée au commissaire du Gouvernement.
+La personne mise en cause transmet ses observations écrites au président de la
+commission dans un délai de quinze jours. La notification des griefs mentionne
+ce délai et précise que la personne mise en cause peut prendre connaissance et
+copie des autres pièces du dossier auprès de la commission et se faire assister
+ou représenter par tout conseil de son choix.

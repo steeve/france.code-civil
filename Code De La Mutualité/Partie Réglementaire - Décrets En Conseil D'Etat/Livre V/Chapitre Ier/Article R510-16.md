@@ -1,25 +1,40 @@
 Article R510-16
 ----
-Lorsque la commission de contrôle décide, en application de l'article L. 510-11,
-d'engager vis-à-vis d'une mutuelle la procédure de transfert d'office du
-portefeuille de bulletins d'adhésion ou de contrats collectifs, cette décision
-est portée à la connaissance de l'ensemble des organismes assureurs mentionnés
-au premier alinéa de l'article L. 212-11 par un avis publié au Journal officiel.
-Cet avis fait courir un délai de quinze jours pendant lequel les organismes qui
-accepteraient de prendre en charge le portefeuille en cause doivent se faire
-connaître à la commission de contrôle.
+I. - Toute mutuelle ou union dont les activités sont régies par le livre II
+projetant d'ouvrir une succursale ou d'exercer des activités en libre prestation
+de services, conformément aux dispositions du troisième alinéa de l'article L.
+510-3, notifie son projet à la commission de contrôle, accompagné des documents
+dont la liste est fixée par arrêté du ministre chargé de la mutualité.
 
-Lorsque la décision porte sur le transfert d'office du portefeuille de bulletins
-d'adhésion ou de contrats collectifs d'une union, cette décision est d'abord
-portée à la connaissance des organismes mutualistes qui en sont membres ainsi
-que de ceux qui ont conclu avec elle une convention régie par les dispositions
-de l'article R. 211-21. Il est fait postérieurement application de la procédure
-prévue à l'alinéa précédent.
+Si la commission estime que les conditions mentionnées à ce même alinéa sont
+réunies, elle communique aux autorités compétentes de l'Etat membre de
+prestation de services, dans le délai d'un mois suivant la notification
+mentionnée au premier alinéa du présent paragraphe, un dossier dont la
+composition est fixée par arrêté du ministre chargé de la mutualité et avise la
+mutuelle ou l'union de cette communication. La mutuelle ou l'union peut
+commencer son activité en liberté d'établissement ou en libre prestation de
+services dès qu'elle en a été avisée.
 
-L'organisme désigné par la commission de contrôle pour prendre en charge le
-portefeuille de bulletins d'adhésion ou de contrats collectifs transférés est
-avisé de cette désignation par lettre recommandée avec demande d'avis de
-réception.
+Le délai de communication des informations aux autorités de l'Etat membre court
+à compter de la réception, par la commission de contrôle, d'un dossier complet.
+Il est de trois mois pour l'établissement d'une succursale et de un mois pour un
+exercice en libre prestation de services.
 
-La décision qui prononce le transfert en fixe les modalités et la date de prise
-d'effet.
+II. - Tout projet de modification de la nature ou des conditions d'exercice des
+activités en liberté d'établissement ou en libre prestation de services
+autorisées conformément aux dispositions du troisième alinéa de l'article L.
+510-3 est notifié à la commission de contrôle.
+
+Si la commission estime que les conditions mentionnées à ce même alinéa sont
+toujours remplies, elle communique aux autorités compétentes de l'Etat membre de
+prestations de services, dans le délai d'un mois suivant la notification
+mentionnée à l'alinéa précédent, un dossier dont la composition est fixée par
+arrêté du ministre chargé de la mutualité et avise la mutuelle ou l'union
+concernée de cette communication. La modification envisagée peut intervenir dès
+réception de cet avis par la mutuelle ou l'union.
+
+III. - Lorsque la commission de contrôle refuse de communiquer aux autorités
+compétentes de l'Etat membre concerné les informations visées au deuxième alinéa
+du I et du II du présent article, elle en avise la mutuelle ou l'union concernée
+et lui fait connaître, dans les délais mentionnés au troisième alinéa du I et au
+deuxième alinéa du II, les raisons de ce refus.

@@ -1,13 +1,40 @@
 Article R510-13
 ----
-En matière disciplinaire, lors de l'audition, le rapporteur, choisi parmi l'un
-des agents mentionnés au troisième alinéa de l'article L. 951-4 du code de la
-sécurité sociale, présente l'affaire.
+I. - L'audience est publique à la demande de l'une des personnes mises en cause.
+Toutefois, le président peut interdire au public l'accès de la salle pendant
+tout ou partie de la séance pour préserver l'ordre public ou lorsque la
+publicité est susceptible de porter atteinte au secret des affaires ou tout
+autre secret protégé par la loi.
 
-Le président peut faire entendre toute personne dont il estime l'audition utile.
+Le président assure la police de la séance.
 
-Le secrétaire général et le commissaire du Gouvernement peuvent présenter des
-observations.
+II. - Lors de la séance, un membre des services de la commission de contrôle,
+désigné par le secrétaire général, présente l'affaire. Les commissaires du
+Gouvernement, le secrétaire général et les autres membres des services de la
+commission participant à la séance peuvent présenter des observations. La
+personne mise en cause et, le cas échéant, son conseil présentent sa défense. Le
+président dirige les débats. Il peut faire entendre toute personne dont il
+estime l'audition utile. Dans tous les cas, la personne mise en cause et, le cas
+échéant, son conseil doit pouvoir prendre la parole en dernier. Lorsque la
+commission s'estime insuffisamment éclairée, elle demande au secrétariat général
+de poursuivre ses diligences.
 
-Le représentant de la mutuelle, de l'union ou de la fédération et, le cas
-échéant, son conseil doivent pouvoir prendre la parole en dernier.
+III. - La commission de contrôle statue en la seule présence de ses membres et
+d'un membre des services faisant office de secrétaire de séance. Les
+commissaires du Gouvernement, le secrétaire général et les autres membres des
+services de la commission de contrôle n'assistent pas aux délibérés.
+
+IV. - Il est établi un procès-verbal de la séance par le secrétaire de séance.
+Le procès-verbal est signé par le président puis transmis aux membres de la
+commission et aux commissaires du Gouvernement.
+
+V. - La décision, signée par le président, est notifiée à la personne concernée
+par lettre recommandée avec demande d'avis de réception, remise en main propre
+contre récépissé ou exploit d'huissier. Elle est communiquée aux commissaires du
+Gouvernement.
+
+VI. - Le cas échéant, la commission peut décider de mettre les frais de
+procédure à la charge de la personne à l'encontre de laquelle une sanction a été
+prononcée. La rémunération des huissiers de justice intervenant au titre du
+présent décret est tarifée comme prévu par les articles R. 181 à R. 184 du code
+de procédure pénale.

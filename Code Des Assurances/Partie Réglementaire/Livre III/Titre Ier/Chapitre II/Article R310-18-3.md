@@ -1,4 +1,4 @@
-Article R510-14
+Article R310-18-3
 ----
 Lorsque la notification est remise par huissier de justice, celui-ci doit faire
 toutes diligences pour parvenir à la délivrance de l'acte à la personne même du
