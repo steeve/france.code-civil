@@ -5,10 +5,9 @@ Cette convention est conforme aux dispositions de l'article L. 34-8, aux
 dispositions du présent code et aux autorisations des deux opérateurs concernés.
 
 La convention est communiquée à l'Autorité de régulation des télécommunications
-dans un délai de dix jours suivant sa conclusion. L'Autorité de régulation des
-télécommunications peut, sur demande, communiquer aux tiers intéressés les
-informations qu'elle contient, sous réserve des informations couvertes par le
-secret des affaires.
+à sa demande. L'Autorité de régulation des télécommunications peut, sur demande,
+communiquer aux tiers intéressés les informations qu'elle contient, sous réserve
+des informations couvertes par le secret des affaires.
 
 Les opérateurs disposant d'informations dans le cadre d'une négociation ou de la
 mise en oeuvre d'un accord d'interconnexion ne peuvent les utiliser qu'aux
@@ -23,8 +22,9 @@ l'Autorité de régulation des télécommunications, qui arrête ses modalités 
 composition et de fonctionnement.
 
 Si l'Autorité de régulation des télécommunications inscrit, après l'attribution
-de son autorisation, un opérateur sur la liste établie en application du 7° de
-l'article L. 36-7, le cahier des charges associé à l'autorisation de cet
-opérateur sera modifié afin d'y porter les nouvelles obligations correspondantes
-relatives à l'interconnexion et fixera le délai dans lequel l'offre catalogue
-devra être publiée.
+de son autorisation, un opérateur sur l'une des listes établies en application
+du 7° de l'article L. 36-7, le cahier des charges associé à l'autorisation de
+cet opérateur sera modifié afin d'y porter les nouvelles obligations
+correspondantes relatives à l'interconnexion et fixera, en ce qui concerne les
+opérateurs inscrits sur les listes établies en application des a et b dudit
+article, le délai dans lequel l'offre catalogue devra être publiée.
