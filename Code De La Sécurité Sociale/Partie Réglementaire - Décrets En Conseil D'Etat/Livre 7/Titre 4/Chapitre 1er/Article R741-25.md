@@ -1,0 +1,20 @@
+Article R741-25
+----
+En cas d'insuffisance de ressources de l'assuré ou du débiteur prévu à l'article
+L. 741-7, ses cotisations d'assurance personnelle ou la part de ces cotisations
+dont il reste personnellement redevable sont prises en charge en tout ou partie
+par l'aide sociale dans les conditions fixées par le titre III et le titre III
+bis du code de la famille et de l'aide sociale.
+
+Les organismes de sécurité sociale sont tenus de communiquer aux collectivités
+publiques auxquelles sont imputées les dépenses d'aide médicale, sur leur
+demande, les informations dont ils disposent concernant les ressources du
+demandeur.
+
+La décision d'admission est notifiée au demandeur et, le cas échéant, à ses
+débiteurs d'aliments ainsi qu'à la caisse primaire d'assurance maladie
+compétente. Tout recours est notifié à cette caisse qui surseoit à l'affiliation
+de l'intéressé, si celui-ci le demande, jusqu'à décision de la juridiction
+compétente.
+
+La décision d'admission est soumise à révision périodique.
