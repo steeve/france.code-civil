@@ -1,16 +1,16 @@
 Article L331-7
 ----
 L'indemnité journalière de repos est accordée à la femme assurée à qui un
-service départemental d'aide sociale à l'enfance ou une oeuvre d'adoption
-autorisée confie un enfant en vue de son adoption. Cette indemnité est également
-accordée à la personne assurée titulaire de l'agrément mentionné aux articles 63
-ou 100-3 du code de la famille et de l'aide sociale lorsqu'elle adopte ou
-accueille un enfant en vue de son adoption par décision de l'autorité étrangère
-compétente, à condition que l'enfant ait été autorisé, à ce titre, à entrer sur
-le territoire français. Elle est due à la condition que l'intéressée cesse tout
-travail salarié durant la période d'indemnisation, pendant dix semaines au plus,
-à compter de l'arrivée de l'enfant au foyer , vingt-deux semaines au plus en cas
-d'adoptions multiples.
+service départemental d'aide sociale à l'enfance ou un organisme autorisé pour
+l'adoption confie un enfant en vue de son adoption. Cette indemnité est
+également accordée à la personne assurée titulaire de l'agrément mentionné aux
+articles 63 ou 100-3 du code de la famille et de l'aide sociale lorsqu'elle
+adopte ou accueille un enfant en vue de son adoption par décision de l'autorité
+étrangère compétente, à condition que l'enfant ait été autorisé, à ce titre, à
+entrer sur le territoire français. Elle est due à la condition que l'intéressée
+cesse tout travail salarié durant la période d'indemnisation, pendant dix
+semaines au plus, à compter de l'arrivée de l'enfant au foyer , vingt-deux
+semaines au plus en cas d'adoptions multiples.
 
 La période d'indemnisation est portée à dix-huit semaines lorsque, du fait de
 l'adoption, l'assurée ou le ménage assume la charge de trois enfants au moins

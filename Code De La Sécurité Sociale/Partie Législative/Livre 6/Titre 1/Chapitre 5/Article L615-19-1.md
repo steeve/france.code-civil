@@ -8,8 +8,8 @@ des professions libérales relevant du régime institué par le présent titre q
 remplissent les conditions de collaboration professionnelle définies par décret
 bénéficient, à l'occasion de leurs maternités :
 
-- d'une allocation forfaitaire de repos maternel destinée à compenser
-partiellement la diminution de leur activité ;
+- de l'allocation forfaitaire de repos maternel mentionnée au premier alinéa de
+l'article L. 615-19 ;
 
 - lorsqu'elles font appel à du personnel salarié pour se faire remplacer dans
 les travaux, professionnels ou ménagers, qu'elles effectuent habituellement,
@@ -18,8 +18,8 @@ remplacement.
 
 Elles bénéficient également, à l'occasion de l'arrivée à leur foyer d'un enfant
 confié en vue de son adoption par un service d'aide sociale à l'enfance ou par
-une oeuvre d'adoption autorisée, des allocations prévues par le présent article
-dans les conditions suivantes :
+un organisme autorisé pour l'adoption, des allocations prévues par le présent
+article dans les conditions suivantes :
 
 1° L'allocation forfaitaire de repos maternel est due pour sa moitié ;
 
@@ -34,8 +34,8 @@ lorsqu'elles adoptent ou accueillent un enfant en vue de son adoption par
 décision de l'autorité étrangère compétente, à condition que l'enfant ait été
 autorisé, à ce titre, à entrer sur le territoire français.
 
-Les montants maximaux des allocations sont revalorisés dans les mêmes conditions
-que celles fixées par les articles L. 141-3 et L. 141-4 du code du travail pour
-le salaire minimum de croissance.
+Le montant maximal de l'allocation de remplacement est revalorisé dans les mêmes
+conditions que celles fixées par les articles L. 141-3 et L. 141-4 du code du
+travail pour le salaire minimum de croissance.
 
 Les mesures d'application du présent article sont fixées par décret.

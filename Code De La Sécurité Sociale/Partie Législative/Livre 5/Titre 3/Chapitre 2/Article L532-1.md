@@ -4,7 +4,12 @@ Lorsque la naissance, l'adoption ou l'accueil d'un enfant a pour effet de porter
 le nombre d'enfants à charge à un nombre égal ou supérieur à un minimum,
 l'allocation parentale d'éducation est attribuée à la personne en assumant la
 charge qui n'exerce plus d'activité professionnelle jusqu'à ce que le plus jeune
-enfant atteigne un âge limite.
+enfant atteigne un âge limite. Toutefois, lorsque l'enfant ouvrant droit à
+ladite allocation est adopté ou confié en vue d'adoption dans les conditions
+prévues à l'article L. 535-1, celle-ci est versée pendant une durée minimale à
+compter de son arrivée au foyer, lorsqu'il a un âge supérieur à un âge limite
+mais inférieur à celui de la fin de l'obligation scolaire. Cette allocation
+n'est pas cumulable avec le complément familial.
 
 L'allocation parentale d'éducation est attribuée à taux partiel à la personne
 qui exerce une activité professionnelle ou poursuit une formation

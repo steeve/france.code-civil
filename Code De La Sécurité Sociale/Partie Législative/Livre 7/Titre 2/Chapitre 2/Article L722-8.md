@@ -1,9 +1,9 @@
-Article L615-19
+Article L722-8
 ----
-Les femmes qui relèvent à titre personnel du régime institué par le présent
-titre bénéficient à l'occasion de leurs maternités d'une allocation forfaitaire
-de repos maternel destinée à compenser partiellement la diminution de leur
-activité.
+Les femmes qui relèvent à titre personnel du régime d'assurance obligatoire
+institué par le présent chapitre bénéficient à l'occasion de leurs maternités
+d'une allocation forfaitaire de repos maternel destinée à compenser
+partiellement la diminution de leur activité.
 
 Lorsqu'elles cessent toute activité professionnelle, les assurées reçoivent
 également une indemnité journalière forfaitaire.

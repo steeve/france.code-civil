@@ -22,9 +22,9 @@ famille, lorsque celle-ci participe à la prise en charge morale ou matérielle 
 l'enfant ou en vue de faciliter le retour de l'enfant dans son foyer.
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent
-article, notamment dans les cas enumérés ci-dessous :
+article, notamment dans les cas énumérés ci-dessous :
 
-a) déchéance de l'autorité parentale des parents ou de l'un d'eux ;
+a) retrait total de l'autorité parentale des parents ou de l'un d'eux ;
 
 b) indignité des parents ou de l'un d'eux ;
 

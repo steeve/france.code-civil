@@ -13,7 +13,7 @@ d'autant. Cette période commence huit semaines avant la date présumée de
 l'accouchement et se termine dix-huit semaines après la date de celui-ci
 lorsque, avant l'accouchement, la salariée elle-même ou le ménage assume déjà la
 charge de deux enfants *nombre* au moins dans les conditions prévues aux
-articles L. 519 à L. 529 du code de la sécurité sociale ou lorsque la salariée a
+articles L. 525 à L. 529 du code de la sécurité sociale ou lorsque la salariée a
 déjà mis au monde au moins deux enfants nés viables *dispositions en faveur du
 troisième enfant*. La période de huit semaines de suspension du contrat de
 travail antérieure à la date présumée de l'accouchement peut être augmentée
@@ -36,14 +36,14 @@ Lorsque l'enfant est resté hospitalisé jusqu'à l'expiration de la sixième
 semaine suivant l'accouchement, la salariée peut reporter à la date de la fin de
 l'hospitalisation tout ou partie du congé auquel elle peut encore prétendre.
 
-La salariée, à qui un service départemental d'aide sociale à l'enfance ou une
-oeuvre d'adoption autorisée confie un enfant en vue de son adoption, a le droit
-de suspendre le contrat de travail pendant une période de dix semaines au plus à
-dater de l'arrivée de l'enfant au foyer, vingt-deux semaines en cas d'adoptions
-multiples. Cette période est portée à dix-huit semaines si l'adoption a pour
-effet de porter à trois ou plus le nombre d'enfants dont la salariée ou le
-ménage assume la charge dans les conditions prévues aux articles L. 519 à L. 529
-du code de la sécurité sociale.
+La salariée, à qui un service départemental d'aide sociale à l'enfance ou un
+organisme autorisé pour l'adoption confie un enfant en vue de son adoption, a le
+droit de suspendre le contrat de travail pendant une période de dix semaines au
+plus à dater de l'arrivée de l'enfant au foyer, vingt-deux semaines en cas
+d'adoptions multiples. Cette période est portée à dix-huit semaines si
+l'adoption a pour effet de porter à trois ou plus le nombre d'enfants dont la
+salariée ou le ménage assume la charge dans les conditions prévues aux articles
+L. 525 à L. 529 du code de la sécurité sociale.
 
 Toutefois, lorsque les deux conjoints assurés travaillent, ce droit est ouvert
 dans les mêmes conditions à celui qui bénéficie des dispositions de l'article L.
