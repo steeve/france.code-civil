@@ -31,14 +31,26 @@ En cas de licenciement, les intéressés auront droit, sauf demande de leur part
 6° Le délai de préavis à observer en cas de résiliation du contrat par l'une ou
 l'autre des parties. Pendant le délai de préavis, le travail aérien mensuel
 demandé aux navigants doit rester égal à la moyenne de celui demandé pendant la
-même période aux membres du personnel navigant de l'entreprise considérée;
+même période aux membres du personnel navigant de l'entreprise considérée ;
 
-7° Le montant de l'indemnité exclusive de départ, allouée au personnel dont le
-contrat prend fin en application de l'article L. 421-9, à raison soit de
-l'impossibilité pour l'entreprise de proposer à l'intéressé de le reclasser dans
-un emploi au sol, soit du refus de l'intéressé d'accepter l'emploi qui lui est
-offert, calculé selon les mêmes modalités que celles prévues au deuxième alinéa
-de l'article L. 122-14-13 du code du travail.
+7° Le montant de l'indemnité exclusive de départ allouée au personnel dont le
+contrat prend fin en application de l'article L. 421-9. Ce montant est calculé
+comme suit :
+
+-moins de dix ans d'ancienneté : un dixième de mois de salaire par année
+d'ancienneté ;
+
+-à partir de dix ans d'ancienneté : un dixième de mois de salaire par année
+d'ancienneté plus un quinzième de mois de salaire par année d'ancienneté au-delà
+de dix ans.
+
+Le salaire à prendre en considération pour le calcul de l'indemnité exclusive de
+départ est égal, selon la formule la plus avantageuse pour l'intéressé, soit au
+douzième de la rémunération des douze derniers mois précédant la date de départ,
+soit au tiers de la rémunération des trois derniers mois ; dans ce cas, toute
+prime ou gratification de caractère annuel ou exceptionnel qui aurait été versée
+au salarié pendant cette période ne serait prise en compte que dans la limite
+d'un montant calculé pro rata temporis.
 
 L'employeur peut cependant ne pas utiliser le navigant en période de
 délai-préavis, mais dans ce cas il doit lui verser, immédiatement et en une

@@ -16,3 +16,9 @@ technique et les autres salariés. Les statuts fixent alors le nombre de membres
 de chaque catégorie, qui sont désignés, pour chacune d'elles, dans les
 conditions prévues par l'article L. 225-23 ou par l'article L. 225-71 du code de
 commerce.
+
+En cas d'opération donnant lieu à l'apport de tout ou partie de l'actif de la
+société Air France à une autre société, titulaire d'une licence d'exploitation
+de transporteur aérien, dont elle détient la majorité du capital social et des
+droits de vote, les dispositions du premier alinéa du présent article sont
+applicables à la société bénéficiaire des apports.

@@ -1,12 +1,18 @@
 Article L360-1
 ----
+Les dispositions du présent titre s'appliquent aux sociétés dont les titres sont
+admis aux négociations sur un marché réglementé et qui soit sont titulaires
+d'une licence d'exploitation de transporteur aérien délivrée en application de
+l'article L. 330-1, soit ont pour principale activité la prise de participations
+dans le capital d'entreprises de transport aérien et détiennent, directement ou
+indirectement, la majorité du capital et des droits de vote d'une société
+titulaire d'une telle licence.
+
 Les titres émis par les sociétés qui sont l'objet du présent titre prennent les
 formes prévues aux articles L. 228-1 et suivants du code de commerce, sous
 réserve des dispositions suivantes.
 
-Les statuts d'une société titulaire d'une licence d'exploitation de transporteur
-aérien délivrée en application de l'article L. 330-1 et dont les titres sont
-admis aux négociations sur un marché réglementé déterminent les conditions dans
+Les statuts des sociétés objet du présent titre déterminent les conditions dans
 lesquelles la société impose la mise sous forme nominative des titres composant
 son capital. Cette obligation peut ne s'appliquer qu'aux actionnaires détenant
 une certaine fraction du capital ou des droits de vote. Les statuts prévoient
