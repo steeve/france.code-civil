@@ -1,8 +1,6 @@
 Article R231-12
 ----
-La mise en demeure prévue à l'article L. 231-5 est notifiée au chef
-d'établissement par l'inspecteur du travail qui la transcrit sur le registre
-prévu à l'article L. 620-3.
-
-Son délai d'exécution ne peut être inférieur [*limite*] à quatre jours
-ouvrables.
+Pour l'application du premier alinéa de l'article L. 231-12, l'inspecteur du
+travail relève les éléments caractérisant la situation de danger grave et
+imminent et précise les mesures qu'il prend pour y remédier. Sa décision, qui
+est d'application immédiate, fait l'objet d'un écrit.

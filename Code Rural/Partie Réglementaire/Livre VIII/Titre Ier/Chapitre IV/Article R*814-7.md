@@ -1,21 +1,15 @@
 Article R*814-7
 ----
-La formation de paysagistes est assurée par l'école nationale supérieure du
-paysage de Versailles qui est un établissement public d'enseignement et de
-recherche.
+La formation conduisant au diplôme de paysagiste DPLG est assurée, sous la
+tutelle conjointe du ministre chargé de l'agriculture et du ministre chargé de
+l'architecture, par l'Ecole nationale supérieure du paysage, établissement
+public d'enseignement et de recherche, ainsi que par les établissements
+d'enseignement supérieur agricole et les écoles d'architecture habilités à cet
+effet par un arrêté conjoint de ces ministres.
 
-Les candidats qui justifient du diplôme d'études universitaires générales ou
-d'un titre reconnu équivalent par le ministre de l'agriculture peuvent être
-admis sur titres et épreuves. La formation comporte trois années d'études
-suivies d'un stage professionnel d'une durée minimale de neuf mois. Elle est
-sanctionnée par le diplôme de paysagiste DPLG.
+La formation comporte trois années d'enseignement suivies d'un travail personnel
+de fin d'études d'une durée maximum d'un an.
 
-L'école peut aussi recevoir directement, en troisième année, des candidats
-titulaire d'un diplôme d'agronomie générale, d'une maîtrise ou d'un titre
-reconnu équivalent par le ministre de l'agriculture.
-
-Le succès, à l'issue de cette troisième année d'études, des titulaires du
-diplôme d'agronomie générale, est sanctionné par le diplôme d'agronomie
-approfondie et par le diplôme d'ingénieur agronome, délivrés par leur école
-d'origine. Ces élèves peuvent ensuite suivre le stage mentionné à l'alinéa
-précédent en vue de l'obtention du diplôme de paysagiste DPLG.
+Le contenu et les modalités de cette formation ainsi que les conditions de
+délivrance du diplôme de paysagiste DPLG sont fixés par un arrêté conjoint des
+ministres chargés de l'agriculture et de l'architecture.
