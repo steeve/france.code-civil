@@ -13,12 +13,12 @@ correspondante, avant que la participation ait été recouvrée, ou la restituti
 dans le cas contraire.
 
 III - Les demandes de dégrèvement sont recevables jusqu'au 31 décembre de la
-deuxième année qui suit celle de la notification d'un avis de mise en
-recouvrement et les demandes de restitution jusqu'au 31 décembre de la deuxième
-année qui suit celle du versement.
+deuxième année qui suit celle de leur mise en recouvrement et les demandes de
+restitution jusqu'au 31 décembre de la deuxième année qui suit celle du
+versement.
 
 IV - Les demandes de dégrèvement ou de restitution sont adressées au chef du
 service de l'Etat dans le département, chargé de l'urbanisme, ou en cas
 d'application de l'article R. 424-1, au maire, qui fait connaître, le cas
-échéant, au directeur des services fiscaux, le montant du dégrèvement ou de la
+échéant, au trésorier-payeur général, le montant du dégrèvement ou de la
 restitution à effectuer.

@@ -6,5 +6,5 @@ exigible est liquidé, notifié et recouvré dans les conditions prévues aux
 articles R. 333-1 à R. 333-6.
 
 Lorsque l'autorité compétente autorise le transfert d'un permis de construire
-qui a rendu exigible le versement, elle doit en informer sans délai le directeur
-des services fiscaux.
+qui a rendu exigible le versement, elle doit en informer sans délai le trésorier
+payeur général.

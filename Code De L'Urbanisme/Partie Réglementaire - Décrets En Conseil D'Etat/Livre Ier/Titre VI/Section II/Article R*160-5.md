@@ -21,11 +21,11 @@ e) De transfert de propriété opéré dans le cadre d'une opération de remembr
 urbain.
 
 f) De divisions faites conformément à un permis de construire lorsque, en
-application de l'article R. 421-7-1, a été joint au dossier de demande du permis
-un plan de répartition de la surface hors oeuvre nette disponible et de la
-surface hors oeuvre nette reconstructible sur chacune des parcelles issues de la
-division ; Ces informations doivent figurer dans les actes de vente des terrains
-concernés ;
+application des dispositions de l'article R. 421-7-1, a été joint au dossier de
+demande de permis un plan de répartition de la surface hors oeuvre nette
+disponible et de la surface hors oeuvre nette reconstructible sur chacune des
+parcelles issues de la division ; Ces informations doivent figurer dans les
+actes de vente des terrains concernés ;
 
 g) de cession, location ou concession d'usage d'un terrain aménagé dans une zone
 d'aménagement concerté, à la condition que cette cession, location ou concession
@@ -36,3 +36,6 @@ application de l'article R. 311-19 ;
 h) de cession d'emplacement dans un terrain aménagé autorisé, destiné uniquement
 à la réception des caravanes ou affecté spécialement à l'implantation des
 habitations légères de loisirs.
+
+i) De dations de biens faites en application des dispositions de l'article L.
+332-19.
