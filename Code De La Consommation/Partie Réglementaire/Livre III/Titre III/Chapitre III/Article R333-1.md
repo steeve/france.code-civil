@@ -1,9 +1,18 @@
 Article R333-1
 ----
-Devant le juge de l'exécution, les parties se défendent elles-mêmes ; elles ont
-la faculté de se faire assister ou représenter conformément aux dispositions de
-l'article 12 du décret n° 92-755 du 31 juillet 1992.
+Les règles relatives aux effets de la saisine de la commission de surendettement
+sur les demandes de remise gracieuse ou de dispense de paiement que peuvent
+accorder les autorités chargées du recouvrement des impôts sont fixées par les
+articles R. 247 A-1 et R. 247-10 A du livre des procédures fiscales ci-dessous
+reproduits :
 
-L'appel et le pourvoi en cassation sont formés, instruits et jugés selon les
-règles de la procédure sans représentation obligatoire prévues aux articles 931
-à 949 et 983 à 995 du nouveau code de procédure civile.
+"Art. R. 247 A-1 - La saisine de la commission de surendettement mentionnée à
+l'article L. 331-1 du code de la consommation vaut demande de remise gracieuse
+d'impôts directs dès lors que cette saisine satisfait aux conditions prévues à
+l'article R. 331-7-3 du même code".
+
+"Art. R. 247-10 A - La saisine de la commission de surendettement mentionnée à
+l'article L. 331-1 du code de la consommation par des tiers tenus au paiement de
+l'impôt vaut demande de dispense de paiement au sens de l'article R. 247-10 du
+présent livre dès lors que cette saisine satisfait aux conditions prévues à
+l'article R. 331-7-3 du code de la consommation".

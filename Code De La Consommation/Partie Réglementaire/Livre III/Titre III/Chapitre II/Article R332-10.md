@@ -14,5 +14,5 @@ l'article R. 332-3.
 
 Lorsque cette mesure a été prise en application de l'article L. 332-2,
 l'attestation est établie par le juge de l'exécution et adressée au débiteur par
-le secrétariat-greffe lors de l'envoi du jugement prévu au deuxième alinéa de
-l'article R. 332-9..
+le greffe lors de l'envoi du jugement prévu au deuxième alinéa de l'article R.
+332-8-1.

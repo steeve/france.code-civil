@@ -5,7 +5,7 @@ de l'expiration du délai prévu à l'article R. 331-19-1, après avoir recueill
 demandé les observations des parties.
 
 En cas d'application des 3° et 4° de l'article L. 331-7 ou du premier ou du
-troisième alinéa de l'article L. 331-7-1, elle s'en explique par une motivation
+deuxième alinéa de l'article L. 331-7-1, elle s'en explique par une motivation
 spéciale.
 
 L'avis de la commission est communiqué aux parties par lettre recommandée avec

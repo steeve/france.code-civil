@@ -1,9 +1,5 @@
 Article R331-10-2
 ----
-Pour l'application des articles L. 331-6, L. 331-7 et L. 331-7-1, la part des
-ressources mensuelles du débiteur à affecter à l'apurement de ses dettes est
-calculée par application du barème prévu à l'article R. 145-2 du code du
-travail. Toutefois, la somme résultant de ce calcul est plafonnée à la
-différence entre le montant des ressources mensuelles réelles de l'intéressé et
-le montant du revenu minimum d'insertion, majoré de 50 % dans le cas d'un
-ménage.
+La demande formée par le débiteur en application de l'article L. 331-7-2 est
+examinée dans les conditions et selon les modalités prévues à l'article R.
+331-8.

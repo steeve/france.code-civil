@@ -7,5 +7,5 @@ L'appel précise dans quel délai les créanciers doivent, par lettre simple
 adressée au secrétariat de la commission, déclarer leurs créances.
 
 A défaut d'accord entre les parties, la commission saisit le juge de l'exécution
-à l'effet de désigner, par une décision insusceptible d'appel, la ou les parties
-qui supporteront les frais de l'appel aux créanciers.
+à l'effet de désigner, par ordonnance, la ou les parties qui supporteront les
+frais de l'appel aux créanciers.
