@@ -1,22 +1,27 @@
 Article A331-1-1
 ----
-Les provisions mathématiques de tous les contrats d'assurance vie dont les
-garanties sont exprimées en francs ou en unités de compte et de tous les
-contrats nuptialité-natalité dont les tarifs ont été établis selon les
-dispositions de l'arrêté du 20 mai 1957 ou de textes postérieurs doivent être
-calculés, à compter du 31 décembre 1982, en prenant en compte les chargements
-destinés aux frais d'acquisition dans l'engagement du payeur de primes.
+1° Les provisions mathématiques des contrats de capitalisation, d'assurance
+nuptialité-natalité, d'acquisition d'immeubles au moyen de la constitution de
+rentes viagères, d'assurance sur la vie dont les tarifs prennent effet à compter
+du 1er juillet 1993, doivent être calculées d'après des taux d'intérêt au plus
+égaux à ceux retenus pour l'établissement du tarif et, s'ils comportent un
+élément viager, d'après les tables de mortalité mentionnées à l'article A.
+335-1.
 
-Lorsque ces chargements ne sont pas connus, ceux-ci sont évalués au niveau
-retenu pour le calcul des valeurs de rachat tel qu'il a pu être exposé dans la
-note technique déposée pour le visa du tarif. Dans l'éventualité où, pour un
-contrat, ce niveau n'est pas déterminé, la valeur provisionnée devra être égale
-au plus à 110 p. 100 de la valeur de rachat.
+2° La provision globale de gestion mentionnée au 4° de l'article R. 331-3 est
+dotée, à due concurrence de l'ensemble des charges de gestion future des
+contrats non couvertes par des chargements sur primes ou par des prélèvements
+sur produits financiers prévus par ceux-ci.
 
-La provision résultant du calcul précédent ne peut être négative, ni inférieure
-à la valeur de rachat du contrat, ni inférieure à la provision correspondant au
-capital réduit.
+3° Les entreprises peuvent calculer les provisions mathématiques de tous leurs
+contrats en cours, en appliquant lors de tous les inventaires annuels ultérieurs
+les bases techniques définies au présent article.
 
-Les provisions mathématiques des contrats d'assurance vie souscrits selon des
-dispositions antérieures à l'arrêté du 20 mai 1957 peuvent être calculées
-suivant les modalités indiquées au présent article.
+Cette possibilité n'est pas ouverte pour les contrats conclus avant l'entrée en
+vigueur du présent arrêté, pour lesquels l'actif représentatif des engagements
+correspondants est isolé dans la comptabilité de l'entreprise et a été déterminé
+de manière à pouvoir procurer un taux de rendement supérieur d'au moins un tiers
+au taux d'intérêt du tarif.
+
+Les entreprises peuvent répartir sur une période de huit ans au plus les effets
+de la modification des bases de calcul des provisions mathématiques.

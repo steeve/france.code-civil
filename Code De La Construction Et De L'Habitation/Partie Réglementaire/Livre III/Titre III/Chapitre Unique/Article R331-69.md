@@ -6,7 +6,7 @@ surface, les opérations d'agrandissement de logements existants, par extension
 ou surélévation, doivent conduire à une création de surface habitable minimale
 fixée par arrêté du ministre chargé de la construction et de l'habitation.
 
-Dans le cas des opérations prévues à l'article R. 331-63 (2° et 3°), les travaux
+Dans le cas des opérations prévues au 3° de l'article R. 331-63, les travaux
 d'amélioration doivent avoir pour effet de mettre en conformité à des normes
 minimales d'habitabilité des logements qui ne le sont pas.
 

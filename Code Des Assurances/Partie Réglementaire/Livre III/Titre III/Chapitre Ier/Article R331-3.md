@@ -16,5 +16,14 @@ pas payables immédiatement après la liquidation de l'exercice qui les a produi
 valeurs comprises dans l'actif de l'entreprise et à la diminution de leur revenu
 ;
 
-4° Toutes autres provisions techniques qui peuvent être fixées par décrets en
-Conseil d'Etat.
+4° Provision de gestion : destinée à couvrir les charges de gestion future des
+contrats non couvertes par ailleurs ;
+
+5° Provision pour aléas financiers : destinée à compenser la baisse de rendement
+de l'actif ;
+
+6° Toutes autres provisions techniques qui peuvent être fixées par décret en
+Conseil d'Etat après avis du Conseil national des assurances.
+
+Un engagement ne peut être provisionné qu'au titre d'une seule des catégories
+mentionnées au présent article.
