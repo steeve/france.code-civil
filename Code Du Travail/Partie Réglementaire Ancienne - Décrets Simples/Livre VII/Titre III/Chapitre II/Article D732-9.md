@@ -1,15 +1,15 @@
 Article D732-9
 ----
-Il est institué auprès de chaque caisse une commission composée, en nombre égal,
-de membres patrons et salariés désignés par le directeur départemental du
-travail et de la main-d'oeuvre et choisis parmi les organisations patronales et
-ouvrières les plus représentatives de la région considérée pour les professions
-assujetties.
+Les entreprises établies dans un pays de l'Espace économique européen
+mentionnées au troisième alinéa de l'article D. 732-1 pourront s'exonérer des
+obligations figurant au présent chapitre si elles justifient que leurs salariés
+bénéficient de leurs droits à congés payés pour la période de détachement dans
+des conditions au moins équivalentes à celles prévues par la législation
+française.
 
-Cette commission statue [*compétence*] sur toutes les attributions qui
-pourraient s'élever au sujet du droit aux congés des travailleurs déclarés à la
-caisse.
-
-Les caisses sont soumises pour l'application des lois et règlements relatifs aux
-congés payés, au contrôle permanent du service chargé de l'inspection du travail
-dans les professions intéressées.
+Lorsque, dans le pays où elles sont établies, ces entreprises sont affiliées à
+une institution équivalente aux caisses de congés payés, elles devront, pour
+bénéficier de l'exonération, justifier qu'elles sont à jour de leurs obligations
+à l'égard de ces institutions à la date du commencement de la prestation et
+qu'elles ont continué à cotiser à l'institution compétente durant le détachement
+temporaire.

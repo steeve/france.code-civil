@@ -14,3 +14,7 @@ Le régime institué par le présent chapitre s'applique également aux carrièr
 annexées aux entreprises susvisées ainsi qu'aux ateliers, chantiers et autres
 établissements travaillant exclusivement pour le fonctionnement et l'entretien
 de ces entreprises, qu'ils soient ou non annexés à celles-ci.
+
+Le régime institué par le présent chapitre s'applique également aux entreprises
+[*non établies en France et détachant temporairement des salariés*] mentionnées
+à l'article D. 341-5.

@@ -2,7 +2,8 @@ Article D732-6
 ----
 Les droits des travailleurs déclarés à la caisse sont déterminés en ce qui
 concerne la durée de leur congé, suivant les dispositions du chapitre III du
-titre II du livre II du code du travail.
+titre II du livre II du code du travail. Ces droits s'appliquent de la même
+façon aux salariés déclarés par les entreprises visées à l'article D. 341-5.
 
 Il est précisé toutefois que cent cinquante heures [*nombre*] de travail
 effectif sont considérées comme équivalentes à un mois pour la détermination de
