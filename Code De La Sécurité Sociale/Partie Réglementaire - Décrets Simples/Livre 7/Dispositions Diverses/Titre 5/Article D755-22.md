@@ -10,7 +10,14 @@ conforme de la quittance de loyer établie au même nom, qui comprend la
 mensualité de janvier ; à défaut, une attestation du bailleur précisant le
 montant du loyer pour le mois de janvier ou éventuellement une quittance ou une
 attestation correspondant au mois pris en considération pour le calcul de
-l'allocation de logement ;
+l'allocation de logement ; Lorsque l'allocation de logement est versée en
+application des 1° et 2° du quatrième alinéa de l'article L. 553-4 et des e et g
+du 1° du I de l'article 31 du code général des impôts, le demandeur fournit,
+outre, le cas échéant, la copie certifiée conforme du contrat, une attestation
+du bailleur précisant le montant du loyer pour le mois de janvier ou,
+éventuellement, dans les cas prévus à l'article D. 542-20, une attestation dudit
+bailleur correspondant au mois pris en considération pour le calcul de
+l'allocation ;
 
 b) Lorsqu'un employé est logé par son employeur moyennant une retenue sur le
 salaire, la production du bulletin de salaire qui justifiera du paiement d'un

@@ -1,9 +1,10 @@
 Article D542-22-4
 ----
-Lorsque l'allocation de logement est versée au bailleur en application du
-sixième alinéa de l'article L. 553-4 et que l'allocataire ne règle pas la part
-de dépense de logement restant à sa charge, le bailleur doit, dans un délai de
-trois mois après la constitution de l'impayé au sens de l'article D. 542-19
+Lorsque l'allocation de logement est versée au bailleur en application des 1° et
+2° du quatrième alinéa de l'article L. 553-4 et des e et g du 1° du I de
+l'article 31 du code général des impôts et que l'allocataire ne règle pas la
+part de dépense de logement restant à sa charge, le bailleur doit, dans un délai
+de trois mois après la constitution de l'impayé au sens de l'article D. 542-19
 (III), porter la situation de l'allocataire défaillant à la connaissance de
 l'organisme payeur.
 
