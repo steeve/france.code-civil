@@ -58,3 +58,9 @@ salarié de l'entreprise en France, ventilé en "personnel de direction et
 cadres", "inspecteurs du cadre", "agents de maîtrise", "employés", "autres
 producteurs salariés", "total du personnel salarié en France", ainsi que le
 nombre d'agents généraux en France.
+
+n) Pour les entreprises pratiquant les opérations mentionnées au 18 de l'article
+R. 321-1, un état complémentaire indiquant les moyens techniques en personnels
+et matériels, y compris la qualification des équipes médicales et la qualité des
+équipements, dont dispose l'entreprise concernée, par elle-même ou par personne
+interposée, pour faire face à ses engagements.

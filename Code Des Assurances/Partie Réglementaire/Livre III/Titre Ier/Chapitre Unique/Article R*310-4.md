@@ -7,7 +7,10 @@ une ou plusieurs des branches mentionnées aux 1 à 17 et 20 à 28 de l'article 
 321-1, le ministre de l'économie et des finances communique aux autorités
 compétentes desdits Etats les documents et renseignements utiles à l'exercice du
 contrôle et prend connaissance des documents et renseignements de même nature
-qui lui sont communiqués par les mêmes autorités.
+qui lui sont communiqués par les mêmes autorités. Lorsque l'entreprise pratique
+les opérations mentionnées à la branche 18 de l'article R. 321-1, cette
+communication concerne également les moyens techniques dont elle dispose pour
+faire face à ses engagements.
 
 Il en est de même lorsqu'il s'agit d'une entreprise dont le siège social n'est
 pas établi sur le territoire d'un Etat membre de la Communauté économique

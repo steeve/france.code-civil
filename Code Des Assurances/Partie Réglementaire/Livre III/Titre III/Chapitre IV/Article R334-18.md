@@ -1,25 +1,18 @@
 Article R334-18
 ----
-L'entreprise qui obtient le bénéfice de la mesure mentionnée au a) de l'article
-R. 334-17 est assujettie à une vérification de solvabilité globale pour
-l'ensemble de ses activités pratiquées sur le territoire de la République
-française et sur celui des autres Etats membres de la communauté économique
-européenne qui acceptent ladite mesure.
+Une entreprise mentionnée à l'article précédent peut également demander, en
+motivant son choix, au ministre chargé de l'économie et des finances de faire
+l'objet dans un autre Etat membre de la vérification de solvabilité globale.
 
-Cette vérification est exercée par le ministre de l'économie, des finances et du
-budget, soit lorsque le plus ancien établissement de l'entreprise dans les Etats
-mentionnés à l'alinéa précédent est situé sur le territoire de la République
-française, soit lorsque l'entreprise justifie qu'elle a obtenu, pour l'exercice
-par le ministre de l'économie, des finances et du budget de ladite vérification,
-l'approbation des autorités de contrôle des Etats membres ayant accepté
-l'application de la mesure mentionnée au a) de l'article R. 334-17.
+Si cette demande est acceptée, elle prend effet à la date à laquelle le ministre
+chargé de l'économie et des finances reçoit notification de l'engagement
+souscrit par l'autorité de contrôle d'un autre Etat membre d'assurer la
+vérification de solvabilité globale.
 
-Toutefois, par dérogation aux dispositions de l'alinéa précédent, lorsque le
-plus ancien établissement de l'entreprise dans les Etats mentionnés au premier
-alinéa du présent article est situé sur le territoire de la République
-française, le ministre de l'économie, des finances et du budget peut, sur
-demande de l'entreprise, accepter que la vérification de solvabilité globale
-soit exercée par l'autorité de contrôle d'un des Etats membres ayant donné leur
-accord à la mesure mentionnée au a) de l'article R. 334-17. Dans ce cas,
-l'entreprise doit justifier de l'approbation des autorités de contrôle des Etats
-membres intéressés.
+L'entreprise est alors dispensée de l'obligation de déposer en France le
+cautionnement prévu par le d de l'article R. 321-8.
+
+Lorsque la vérification de solvabilité globale est exercée par l'autorité de
+contrôle d'un autre Etat membre de la communauté économique européenne, le
+ministre chargé de l'économie et des finances lui adresse toutes informations
+utiles concernant l'activité de la succursale française de l'entreprise.

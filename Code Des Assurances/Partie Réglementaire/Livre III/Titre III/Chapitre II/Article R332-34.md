@@ -1,6 +1,6 @@
 Article R332-34
 ----
-Les entreprises pratiquant une ou plusieurs des branches mentionnées aux 1 à 17
+Les entreprises pratiquant une ou plusieurs des branches mentionnées aux 1 à 18
 de l'article R. 321-1 ne peuvent inscrire au compte "Commissions à amortir" que
 les sommes résultant d'avances consenties sur les commissions dues pour une
 période d'assurance de dix ans au plus ou pour la durée du contrat, si cette

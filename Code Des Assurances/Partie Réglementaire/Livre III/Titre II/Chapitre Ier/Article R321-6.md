@@ -59,6 +59,10 @@ réassurance.
 5. Les prévisions de frais d'installation des services administratifs et du
 réseau de production, ainsi que les moyens financiers destinés à y faire face.
 
+5-1. Pour la branche mentionnée au 18 de l'article R. 321-1, les moyens en
+personnels et matériels dont dispose l'entreprise, par elle-même ou par personne
+interposée, pour faire face à ses engagements.
+
 6. Pour les trois premiers exercices sociaux :
 
 - les prévisions relatives aux frais de gestion autres que les frais

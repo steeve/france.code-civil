@@ -142,6 +142,10 @@ k) Autres pertes pécuniaires.
 
 17. Protection juridique.
 
+18. Assistance :
+
+Assistance aux personnes en difficulté, notamment au cours de déplacements.
+
 20. Vie-Décès :
 
 Toute opération comportant des engagements dont l'exécution dépend de la durée
@@ -163,7 +167,7 @@ garanties en cas de décès accidentel ou d'invalidité.
 
 23. Opérations tontinières :
 
-Toutes opérations comportant la constitution d'associations réunissant des
+Toutes opérations comportant la constitution d'associations réunisant des
 adhérents en vue de capitaliser en commun leurs cotisations et de répartir
 l'avoir ainsi constitué soit entre les survivants, soit entre les ayants droit
 des décédés.
