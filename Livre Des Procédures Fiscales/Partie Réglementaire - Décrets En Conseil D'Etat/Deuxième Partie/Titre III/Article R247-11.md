@@ -8,10 +8,10 @@ directeur des services fiscaux dont dépend le comptable chargé du recouvrement
 La décision appartient :
 
 a) Au directeur des services fiscaux [*autorité compétente*], lorsque les sommes
-faisant l'objet de la demande n'excèdent pas 750.000 F [*montant*] par exercice
-ou affaire, selon la nature des impôts ;
+faisant l'objet de la demande n'excèdent pas 2.000.000 F [*montant*] par
+exercice ou affaire, selon la nature des impôts ;
 
 b) Au directeur général, lorsque les sommes faisant l'objet de la demande
-n'excèdent pas 1.750.000 F par exercice ou affaire ;
+n'excèdent pas 3.000.000 F par exercice ou affaire ;
 
 c) Au ministre, dans les autres cas.
