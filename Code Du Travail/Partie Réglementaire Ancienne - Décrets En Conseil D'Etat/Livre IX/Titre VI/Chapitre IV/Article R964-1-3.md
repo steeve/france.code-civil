@@ -8,8 +8,9 @@ organisation leur permet d'assurer.
 
 L'agrément des organismes collecteurs paritaires à compétence nationale n'est
 accordé que si le montant estimé des collectes annuelles effectuées au titre du
-plan de formation des entreprises et des formations professionnelles en
-alternance est supérieur à 15 000 000 d'euros.
+plan de formation des entreprises et des formations organisées dans le cadre des
+contrats ou des périodes de professionnalisation et du droit individuel à la
+formation est supérieur à 15 000 000 d'euros.
 
 L'agrément est retiré dans le cas où le montant des collectes annuelles
 n'atteint pas, pendant deux années consécutives, le seuil prévu à l'alinéa

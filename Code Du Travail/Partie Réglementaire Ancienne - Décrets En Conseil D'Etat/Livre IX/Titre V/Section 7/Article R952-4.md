@@ -9,4 +9,5 @@ que soit leur taille.
 
 Dans ce cas, l'organisme collecteur est tenu de transmettre au ministre chargé
 de la formation professionnelle un document annuel permettant de suivre l'emploi
-des fonds collectés au titre de la contribution prévue à l'article L. 952-1.
+des fonds collectés au titre de la contribution prévue au quatrième alinéa de
+l'article L. 952-1.

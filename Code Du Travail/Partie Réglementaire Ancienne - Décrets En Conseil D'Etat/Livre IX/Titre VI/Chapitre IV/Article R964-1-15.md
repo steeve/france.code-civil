@@ -1,6 +1,6 @@
 Article R964-1-15
 ----
-Les organismes collecteurs paritaires mentionnés au deuxième alinéa de l'article
+Les organismes collecteurs paritaires mentionnés au premier alinéa de l'article
 L. 961-12 et relevant du champ d'application d'accords relatifs à la formation
 professionnelle continue conclus au niveau interprofessionnel versent, en outre,
 une contribution égale à 0,75 p. 100 du montant des sommes collectées à un fonds

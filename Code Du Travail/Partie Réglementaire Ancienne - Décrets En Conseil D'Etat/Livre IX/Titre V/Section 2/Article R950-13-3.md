@@ -2,7 +2,7 @@ Article R950-13-3
 ----
 Les actions de validation des acquis de l'expérience, lorsqu'elles sont
 financées par l'employeur dans le cadre du plan de formation mentionné au
-dixième alinéa de l'article L. 951-1, sont réalisées en application d'une
+sixième alinéa de l'article L. 951-1, sont réalisées en application d'une
 convention conclue entre l'employeur, le salarié bénéficiaire et l'organisme ou
 chacun des organismes qui intervient en vue de la validation des acquis de
 l'expérience du candidat. Les conventions, conformes aux dispositions de

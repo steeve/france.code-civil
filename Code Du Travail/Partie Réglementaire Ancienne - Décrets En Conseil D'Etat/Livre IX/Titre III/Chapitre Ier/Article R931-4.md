@@ -13,6 +13,5 @@ Dans le cas où le congé de formation est accordé en vue de passer un examen, 
 bénéficiaire de ce congé doit fournir à l'entreprise un certificat attestant
 qu'il a pris part à toutes les épreuves de l'examen.
 
-Lorsque, sans motif valable, le salarié ne peut produire ledit certificat
-[*condition*], il perd le bénéfice du maintien du salaire prévu à l'article L.
-931-8 ou à l'article L. 931-14.
+Lorsque, sans motif valable, le salarié ne peut produire ledit certificat, il
+perd le bénéfice du maintien du salaire prévu à l'article L. 931-8-3.
