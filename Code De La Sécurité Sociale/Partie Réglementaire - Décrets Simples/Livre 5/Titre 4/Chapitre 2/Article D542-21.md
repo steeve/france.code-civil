@@ -14,3 +14,8 @@ Les montants mensuels des plafonds de loyers et de la majoration forfaitaire
 représentative des charges sont fixés par arrêté du ministre chargé de la
 sécurité sociale, du ministre chargé du budget, du ministre chargé de
 l'agriculture et du ministre chargé du logement.
+
+Le loyer mensuel payé par les étudiants logés en résidence universitaire est
+réputé égal à 400 F [*montant*].
+
+Ce montant est augmenté de la majoration forfaitaire représentative des charges.

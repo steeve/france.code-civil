@@ -40,17 +40,34 @@ Les ressources ci-dessus définies sont diminuées d'un abattement forfaitaire
 lorsque les deux conjoints ont exercé une activité professionnelle productrice
 de revenus au cours de l'année civile de référence et que chacun des deux
 revenus correspondants a été au moins égal à douze fois la base mensuelle de
-calcul des allocations familiales en vigueur au 1er juillet de ladite année. Un
-abattement d'un montant identique est opéré sur les ressources de la personne
-seule qui assume la charge d'un ou plusieurs enfants ou d'une ou plusieurs
+calcul des allocations familiales en vigueur au 1er juillet de ladite année.
+
+Cet abattement est fixé à [*montant*] :
+
+1 441 F pour les ménages sans enfants ou personnes à charge ;
+
+2 882 F pour les ménages assumant la charge d'un ou de deux enfants ou personnes
+au sens de l'article L. 542-1 ;
+
+4 323 F pour les ménages assumant la charge d'au moins trois enfants ou
 personnes au sens de l'article L. 542-1.
+
+Un abattement est opéré sur les ressources de la personne seule qui assume la
+charge d'un ou plusieurs enfants ou d'une ou plusieurs personnes au sens de
+l'article L. 542-1.
 
 Cet abattement est fixé à :
 
-2 098 F pour les ménages sans enfants ou personnes à charge ;
+4 323 F pour les personnes seules assumant la charge d'un ou de deux enfants ou
+personnes au sens de l'article L. 542-1 ;
 
-4 196 F pour les personnes seules ou les ménages assumant la charge d'un ou de
-deux enfants ou personnes au sens de l'article L. 542-1 ;
+6 483 F pour les personnes seules assumant la charge d'au moins trois enfants ou
+personnes au sens de l'article L. 542-1.
 
-6 294 F pour les personnes seules ou les ménages assumant la charge d'au moins
-trois enfants ou personnes au sens de l'article L. 542-1.
+Lors de l'ouverture du droit ou en début de période de paiement, lorsque le
+demandeur poursuit des études, ainsi que, le cas échéant, son conjoint, et que
+les ressources du ménage au titre de l'année de référence appréciées au sens des
+alinéas précédents sont inférieures à un montant fixé par arrêté conjoint des
+ministres chargés du logement, du budget, de la sécurité sociale et de
+l'agriculture, les ressources du demandeur ou du ménage sont réputées égales à
+ce montant.
