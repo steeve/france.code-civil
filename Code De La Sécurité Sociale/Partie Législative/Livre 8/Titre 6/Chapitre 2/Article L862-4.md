@@ -16,10 +16,10 @@ II. - Le taux de la contribution est fixé à 1,75 %.
 
 III. - Les organismes mentionnés au I du présent article déduisent du montant de
 la contribution due en application du I et du II ci-dessus un montant égal, pour
-chaque organisme, au produit de la somme de 76,13 euros par le nombre de
-personnes bénéficiant, le dernier jour du deuxième mois du trimestre civil au
-titre duquel la contribution est due, de la prise en charge des dépenses
-mentionnées à l'article L. 861-3 au titre des dispositions du b de l'article L.
-861-4. Ils déduisent également un montant correspondant, pour chaque organisme,
-au quart du crédit d'impôt afférent aux contrats en vigueur le dernier jour du
-deuxième mois du trimestre civil au titre duquel la contribution est due.
+chaque organisme, au produit de la somme de 75 euros par le nombre de personnes
+bénéficiant, le dernier jour du deuxième mois du trimestre civil au titre duquel
+la contribution est due, de la prise en charge des dépenses mentionnées à
+l'article L. 861-3 au titre des dispositions du b de l'article L. 861-4. Ils
+déduisent également un montant correspondant, pour chaque organisme, au quart du
+crédit d'impôt afférent aux contrats en vigueur le dernier jour du deuxième mois
+du trimestre civil au titre duquel la contribution est due.
