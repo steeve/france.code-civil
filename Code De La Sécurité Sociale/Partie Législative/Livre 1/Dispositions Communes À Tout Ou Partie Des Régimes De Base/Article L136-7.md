@@ -8,7 +8,7 @@ II et sauf s'ils sont versés aux personnes visées au III du même article.
 II. - Sont également assujettis à la contribution selon les modalités prévues au
 I, pour la part acquise à compter du 1er janvier 1997 et, le cas échéant,
 constatée à compter de cette même date en ce qui concerne les placements visés
-du 3° au 10° ;
+du 3° au 9° ;
 
 1° Les intérêts et primes d'épargne des comptes d'épargne logement visés à
 l'article L. 315-1 du code de la construction et de l'habitation, respectivement
@@ -72,15 +72,11 @@ l'article 163 quinquies C du même code, lors de leur versement ;
 9° Les gains nets et les produits des placements en valeurs mobilières effectués
 en vertu d'un engagement d'épargne à long terme respectivement visés aux 5 du
 III de l'article 150-0 A et 16° de l'article 157 du code général des impôts,
-lors de l'expiration du contrat ;
-
-10° Les revenus mentionnés au 5° de l'article 157 du code général des impôts
-procurés par les placements effectués dans le cadre d'un plan d'épargne en vue
-de la retraite, lors des retraits. ;
+lors de l'expiration du contrat.
 
 III. - Les dispositions du II ne sont pas applicables aux revenus visés au 3°
 dudit II s'agissant des seuls contrats en unités de compte ni aux revenus
-mentionnés aux 5° à 10°, lorsque ces revenus entrent dans le champ d'application
+mentionnés aux 5° à 9°, lorsque ces revenus entrent dans le champ d'application
 de l'article L. 136-6.
 
 IV. - 1. La contribution sociale généralisée due par les établissements payeurs
