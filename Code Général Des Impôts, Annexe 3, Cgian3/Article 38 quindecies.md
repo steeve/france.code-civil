@@ -52,3 +52,15 @@ a) Attribués à la suite de l'opération de scission ;
 b) Détenus sur toute la période couverte par l'exercice ;
 
 c) Le cas échéant, cédés au cours de l'exercice.
+
+IV. - L'état dont la production est prévue au deuxième alinéa de l'article 221
+bis du code général des impôts doit mentionner pour chacune des immobilisations
+qui fait l'objet d'une réévaluation lors du premier exercice au titre duquel
+l'option a été exercée :
+
+1° La valeur comptable ;
+
+2° La valeur fiscale servant pour le calcul du résultat imposable de cessions
+ultérieures ;
+
+3° La valeur réévaluée.
