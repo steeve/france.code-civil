@@ -1,4 +1,4 @@
-Article D542-5-1
+Article D755-24-1
 ----
 La dépense nette de logement obtenue en déduisant de la somme du loyer principal
 pris en compte (L) et du montant forfaitaire des charges (C) le montant mensuel

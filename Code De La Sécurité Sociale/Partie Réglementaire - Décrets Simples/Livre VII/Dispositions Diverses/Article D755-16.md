@@ -4,15 +4,23 @@ Les ressources mentionnées à l'article D. 755-15 sont déterminées dans les
 conditions prévues aux premier, deuxième et troisième alinéas de l'article D.
 542-10.
 
-Les ressources ci-dessus définies font l'objet d'un abattement forfaitaire de
-3.686 F [*montant*] :
+Les ressources ci-dessus définies font l'objet d'un abattement forfaitaire
+lorsque les deux conjoints ont exercé une activité professionnelle productrice
+de revenus au cours de l'année civile de référence et que chacun des revenus
+correspondants a été au moins égal à 20 402 F. Un abattement d'un montant
+identique est opéré sur les ressources de la personne seule qui assume la charge
+d'un ou de plusieurs enfants ou d'une ou plusieurs personnes au sens de
+l'article L. 542-1.
 
-1°) lorsque les deux conjoints ont exercé une activité professionnelle
-productrice de revenus au cours de l'année civile de référence et que chacun des
-deux revenus correspondants a été au moins égal à 9.852 F ;
+Cet abattement est fixé à :
 
-2°) lorsqu'une personne seule assume la charge d'un ou de plusieurs enfants ou
-d'une ou plusieurs personnes au sens de l'article L. 542-1 du présent code.
+1 976 F pour les ménages sans enfants ou personnes à charge ;
+
+3 952 F pour les personnes seules ou les ménages assumant la charge d'un ou de
+deux enfants ou personnes au sens de l'article L. 542-1 ;
+
+5 928 F pour les personnes seules ou les ménages assumant la charge d'au moins
+trois enfants ou personnes au sens de l'article L. 542-1.
 
 Lorsque le bénéficiaire ou son conjoint n'a pas disposé, au cours de l'année
 civile de référence, de ressources imposables en France ou exercé une activité

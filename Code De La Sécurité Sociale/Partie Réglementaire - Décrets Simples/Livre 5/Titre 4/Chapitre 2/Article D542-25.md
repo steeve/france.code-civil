@@ -11,18 +11,15 @@ les modalités et la périodicité des paiements et présenté à l'appui de la
 demande d'allocation de logement. Le modèle de ce certificat est fixé par arrêté
 du ministre chargé de la sécurité sociale ;
 
-2°) les charges d'intérêts et d'amortissements et les charges accessoires
-afférentes aux emprunts substitués à ceux qui sont mentionnés au 1°) ci-dessus,
-lorsque la substitution est prévue dans le premier contrat de prêt ou
-lorsqu'elle intervient dans le délai de cinq ans à compter de la date de ce
-contrat, dans la limite des sommes restant dues en capital sur le montant du
-premier prêt, d'une part, et que le second prêt entraîne des charges périodiques
-de remboursement plus faibles que celles du prêt auquel il est substitué,
-d'autre part ;
+2°) Les charges d'intérêts et d'amortissements et les charges accessoires
+afférentes aux emprunts substitués à ceux qui sont mentionnés au 1° ci-dessus,
+dans la limite des sommes restant dues en capital sur le montant du premier prêt
+lorsque le second prêt entraîne des charges périodiques de remboursement plus
+faibles que celles du prêt auquel il est substitué ;
 
 3°) les charges afférentes au paiement de tout ou partie du prix d'achat ou
 ayant pour objet de financer les dépenses jugées indispensables à la délivrance
-du certificat de conformité dans les conditions prévues au 1°ci-dessus ;
+du certificat de conformité dans les conditions prévues au 1° ci-dessus ;
 
 4°) le versement des primes de l'assurance-vie contractée par le bénéficiaire en
 garantie de l'exécution des engagements souscrits.
