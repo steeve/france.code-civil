@@ -1,27 +1,27 @@
 Article L330-2
 ----
-I. - Les règlements, la convention-cadre ou la convention type régissant tout
-système de règlements interbancaires ou tout système de règlement et de
-livraison d'instruments financiers mentionnés à L. 330-1 peuvent, lorsqu'ils
+I. - Les règles de fonctionnement, la convention-cadre ou la convention type
+régissant tout système mentionné à l'article L. 330-1 peuvent, lorsqu'ils
 organisent les relations entre plus de deux parties, exiger des établissements
-participant, directement ou indirectement, auxdits systèmes, outre la
-constitution en gage de comptes d'instruments financiers mentionnés à l'article
-L. 431-4, des remises de valeurs, titres, effets, créances ou sommes d'argent ou
-la constitution de sûretés sur lesdites valeurs, titres, effets, créances ou
-sommes d'argent pour satisfaire aux obligations de paiement découlant de la
-participation à un tel système. Les remises susmentionnées sont effectuées en
-pleine propriété, à titre de garantie, et sont opposables aux tiers sans
-formalités.
+participant, directement ou indirectement, à un tel système des garanties
+constituées et susceptibles de réalisation conformément aux dispositions de
+l'article L. 431-7-3 ou l'affectation spéciale des valeurs, titres, effets,
+créances ou sommes d'argent pour satisfaire aux obligations de paiement
+découlant de la participation à un tel système.
 
-II. - Les règlements, la convention-cadre ou la convention type précisent les
-modalités, opposables aux créanciers saisissants, de constitution,
-d'affectation, de réalisation ou d'utilisation des comptes d'instruments
-financiers ou des remises.
+II. - Les règles de fonctionnement, la convention-cadre ou la convention type
+précisent les modalités de constitution, d'affectation, de réalisation ou
+d'utilisation des biens ou droits constitués en garantie.
 
-III. - Les dispositions du titre Ier et du titre II du livre VI du code de
-commerce ou celles équivalentes régissant toutes procédures judiciaires ou
-amiables ouvertes hors de France ne font pas obstacle à l'application du présent
-titre.
+III. - Les dispositions du livre VI du code de commerce ou celles équivalentes
+régissant toutes procédures judiciaires ou amiables ouvertes hors de France
+ainsi que toutes procédures civiles d'exécution ou tout exercice d'un droit
+d'opposition ne font pas obstacle à l'application du présent titre.
+
+Aucun créancier d'un établissement participant, directement ou indirectement, à
+un tel système, ou selon le cas, du système lui-même, ne peut se prévaloir d'un
+droit quelconque sur ces garanties, même sur le fondement des dispositions
+susmentionnées.
 
 IV. - Lorsque les instruments financiers, effets, créances, sommes d'argent ou
 tout instrument similaire émis sur le fondement d'un droit étranger sont

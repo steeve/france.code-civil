@@ -10,8 +10,11 @@ L'opposabilité aux tiers et la mise en oeuvre des droits des banques centrales
 nationales membres du Système européen de banques centrales et de la Banque
 centrale européenne sur les instruments financiers, effets, créances ou sommes
 d'argent nantis, cédés en propriété ou autrement constitués en garantie à leur
-profit ne sont pas affectées par l'ouverture des procédures mentionnées au III
-de l'article L. 330-2.
+profit ne sont pas affectées par l'ouverture des procédures prévues au livre VI
+du code de commerce ou toute procédure judiciaire ou amiable équivalente sur le
+fondement d'un droit étranger, ni par aucune procédure civile d'exécution prise
+sur le fondement du droit français ou d'un droit étranger, ni par l'exercice
+d'un droit d'opposition.
 
 La Banque de France s'assure de la sécurité des moyens de paiement tels que
 définis à l'article L. 311-3, autres que la monnaie fiduciaire, et de la
@@ -43,6 +46,6 @@ L'observatoire établit chaque année un rapport d'activité remis au ministre
 chargé de l'économie, des finances et de l'industrie et transmis au Parlement.
 
 II. - Dans le cadre des missions du Système européen de banques centrales, et
-sans préjudice des compétences du Conseil des marchés financiers et de la
+sans préjudice des compétences de l'Autorité des marchés financiers et de la
 commission bancaire, la Banque de France veille à la sécurité des systèmes de
 compensation, de règlement et de livraison des instruments financiers.
