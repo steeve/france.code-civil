@@ -4,8 +4,9 @@ I. - Les tabacs manufacturés vendus dans les départements de Corse et les taba
 qui y sont importés sont soumis à un droit de consommation.
 
 Pour les cigarettes, ce droit de consommation, par dérogation au taux normal
-mentionné à l'article 575 A, est déterminé conformément au dispositions des
-deuxième, quatrième et cinquième alinéas de l'article 575.
+mentionné à l'article 575 A, et dans la limite d'un contingent de 1 200 tonnes
+par an, est déterminé conformément au dispositions des deuxième, quatrième et
+cinquième alinéas de l'article 575.
 
 La part spécifique est égale à 5 % de la charge fiscale totale afférente aux
 cigarettes de la classe de prix la plus demandée et comprenant le droit de
@@ -18,59 +19,29 @@ Pour les différents groupes de produits mentionnés aux alinéas précédents, 
 taux normal du droit de consommation applicable dans les départements de Corse
 est fixé conformément au tableau ci-après :
 
+GROUPE DE PRODUITS : Cigarettes
 
-GROUPE DE PRODUITS
+TAUX NORMAL (en %) : 35
 
-Cigarettes
+GROUPE DE PRODUITS : Cigares
 
-TAUX NORMAL (en %)
+TAUX NORMAL (en %) : 10
 
-34,5
+GROUPE DE PRODUITS : Tabacs fine coupe destinés à rouler les cigarettes
 
+TAUX NORMAL (en %) : 27
 
-GROUPE DE PRODUITS
+GROUPE DE PRODUITS : Autres tabacs à fumer
 
-Cigares
+TAUX NORMAL (en %) : 22
 
-TAUX NORMAL (en %)
+GROUPE DE PRODUITS : Tabacs à priser
 
-10
+TAUX NORMAL (en %) : 15
 
+GROUPE DE PRODUITS : Tabacs à mâcher
 
-GROUPE DE PRODUITS
-
-Tabacs fine coupe destinés à rouler les cigarettes
-
-TAUX NORMAL (en %)
-
-27
-
-
-GROUPE DE PRODUITS
-
-Autres tabacs à fumer
-
-TAUX NORMAL (en %)
-
-22
-
-
-GROUPE DE PRODUITS
-
-Tabacs à priser
-
-TAUX NORMAL (en %)
-
-15
-
-
-GROUPE DE PRODUITS
-
-Tabacs à mâcher
-
-TAUX NORMAL (en %)
-
-13
+TAUX NORMAL (en %) : 13.
 
 II. - Pour les cigarettes, le prix de vente au détail appliqué dans les
 départements de Corse est au moins égal à 68 % des prix de vente continentaux
@@ -103,9 +74,9 @@ de contributions indirectes.
 V. - Le produit du droit de consommation est affecté au financement de travaux
 de mise en valeur de la Corse et versé à concurrence :
 
-- d'un quart au budget des départements de la Corse ;
+a. d'un quart au budget des départements de la Corse ;
 
-- de trois quarts au budget de la collectivité territoriale de Corse.
+b. de trois quarts au budget de la collectivité territoriale de Corse.
 
 VI. - Les unités de conditionnement doivent être revêtues des mentions
 prescrites par l'administration.
