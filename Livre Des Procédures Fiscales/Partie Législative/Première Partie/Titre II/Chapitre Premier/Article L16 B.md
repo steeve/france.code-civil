@@ -13,11 +13,14 @@ agents de l'administration des impôts, ayant au moins le grade d'inspecteur et
 habilités à cet effet par le directeur général des impôts, à rechercher la
 preuve de ces agissements, en effectuant des visites en tous lieux, même privés,
 où les pièces et documents s'y rapportant sont susceptibles d'être détenus et
-procéder à leur saisie.
+procéder à leur saisie, quel qu'en soit le support.
 
-II. Chaque visite doit être autorisée par une ordonnance du juge des libertés et
-de la détention du tribunal de grande instance dans le ressort duquel sont
-situés les lieux à visiter (1).
+II. Chaque visite doit être autorisée par une ordonnance du président du
+tribunal de grande instance dans le ressort duquel sont situés les lieux à
+visiter ou d'un juge délégué par lui.
+
+(Le président du tribunal de grande instance peut confier cette fonction au juge
+des libertés et de la détention).
 
 Le juge doit vérifier de manière concrète que la demande d'autorisation qui lui
 est soumise est bien fondée ; cette demande doit comporter tous les éléments
@@ -119,7 +122,3 @@ VI. L'administration des impôts ne peut opposer au contribuable les information
 recueillies qu'après restitution des pièces et documents saisis ou de leur
 reproduction et mise en oeuvre des procédures de contrôle visées aux premier et
 deuxième alinéas de l'article L. 47.
-
-(1) Ces dispositions entreront en vigueur le 16 juin 2002. Jusqu'à cette date,
-le président du tribunal peut confier cette autorisation au juge des libertés et
-de la détention.

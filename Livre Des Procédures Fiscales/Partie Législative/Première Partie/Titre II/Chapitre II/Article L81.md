@@ -6,7 +6,7 @@ des documents et des renseignements mentionnés aux articles du présent chapitr
 dans les conditions qui y sont précisées.
 
 Le droit prévu au premier alinéa s'exerce quel que soit le support utilisé pour
-la conservation des documents, y compris lorsqu'il est magnétique.
+la conservation des documents.
 
 Le droit de communication est étendu, en ce qui concerne les documents
 mentionnés aux articles L. 83 à L. 95, au profit des agents des administrations

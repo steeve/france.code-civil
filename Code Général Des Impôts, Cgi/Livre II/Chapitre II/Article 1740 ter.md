@@ -13,12 +13,12 @@ Lorsqu'il est établi qu'une personne a délivré une facture ne correspondant p
 amende fiscale égale à 50 % du montant de la facture.
 
 Lorsqu'il est établi qu'une personne n'a pas respecté l'obligation de délivrance
-d'une facture ou d'un document en tenant lieu, elle est redevable d'une amende
-fiscale égale à 50 % du montant de la transaction. Le client est solidairement
-tenu au paiement de cette amende. Toutefois, lorsque le fournisseur apporte,
-dans les trente jours d'une mise en demeure adressée obligatoirement par
-l'administration fiscale, la preuve que l'opération a été régulièrement
-comptabilisée, il encourt une amende réduite à 5 % du montant de la transaction.
+d'une facture, elle est redevable d'une amende fiscale égale à 50 % du montant
+de la transaction. Le client est solidairement tenu au paiement de cette amende.
+Toutefois, lorsque le fournisseur apporte, dans les trente jours d'une mise en
+demeure adressée obligatoirement par l'administration fiscale, la preuve que
+l'opération a été régulièrement comptabilisée, il encourt une amende réduite à 5
+% du montant de la transaction.
 
 Ces amendes sont recouvrées suivant les procédures et sous les garanties prévues
 pour les taxes sur le chiffre d'affaires. Les réclamations sont instruites et

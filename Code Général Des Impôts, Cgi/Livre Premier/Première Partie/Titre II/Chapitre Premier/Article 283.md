@@ -17,21 +17,20 @@ l'acquéreur est établi hors de France.
 
 2 ter. Pour les livraisons mentionnées au 2° du I de l'article 258 D, la taxe
 doit être acquittée par le destinataire. Toutefois, le vendeur est solidairement
-tenu au paiement de la taxe (1).
+tenu au paiement de la taxe.
 
 2 quater. Pour les livraisons à un autre assujetti d'or sous forme de matière
 première ou de produits semi-ouvrés d'une pureté égale ou supérieure à 325
 millièmes, la taxe est acquittée par le destinataire. Toutefois, le vendeur est
 solidairement tenu au paiement de la taxe.
 
-3. Toute personne qui mentionne la taxe sur la valeur ajoutée sur une facture ou
-tout autre document en tenant lieu est redevable de la taxe du seul fait de sa
-facturation.
+3. Toute personne qui mentionne la taxe sur la valeur ajoutée sur une facture
+est redevable de la taxe du seul fait de sa facturation.
 
-4. Lorsque la facture ou le document ne correspond pas à la livraison d'une
-marchandise ou à l'exécution d'une prestation de services, ou fait état d'un
-prix qui ne doit pas être acquitté effectivement par l'acheteur, la taxe est due
-par la personne qui l'a facturée.
+4. Lorsque la facture ne correspond pas à la livraison d'une marchandise ou à
+l'exécution d'une prestation de services, ou fait état d'un prix qui ne doit pas
+être acquitté effectivement par l'acheteur, la taxe est due par la personne qui
+l'a facturée.
 
 5. Pour les opérations de façon, lorsque le façonnier réalise directement ou
 indirectement plus de 50 % de son chiffre d'affaires avec un même donneur
@@ -42,5 +41,3 @@ chaque déclaration mensuelle ou trimestrielle.
 Toutefois, ces dispositions ne sont pas applicables lorsque le donneur d'ordre
 établit qu'il n'a pas eu connaissance du non-respect par le façonnier de ses
 obligations fiscales.
-
-(1) Ces dispositions s'appliquent à compter du 1er janvier 1993.

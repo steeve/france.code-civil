@@ -1,11 +1,10 @@
 Article 290 sexies
 ----
-Les personnes assujetties à la taxe sur la valeur ajoutée [*TVA*] qui effectuent
-des opérations portant sur des déchets neufs d'industrie ou des matières de
+Les personnes assujetties à la taxe sur la valeur ajoutée qui effectuent des
+opérations portant sur des déchets neufs d'industrie ou des matières de
 récupération, y compris celles qui réalisent des opérations en suspension du
-paiement de la taxe, doivent mentionner sur leurs factures ou tous autres
-documents en tenant lieu, le numéro d'identification qui leur est attribué par
-le service des impôts.
+paiement de la taxe, doivent mentionner sur leurs factures le numéro
+d'identification qui leur est attribué par le service des impôts.
 
 Elles sont, en outre, tenues de mentionner sur ces documents si elles sont
 redevables de plein droit ou, dans le cas contraire, la date d'effet de

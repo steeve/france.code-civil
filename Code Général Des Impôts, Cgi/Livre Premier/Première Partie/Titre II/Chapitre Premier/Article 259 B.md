@@ -32,7 +32,11 @@ article ;
 9° Obligation de ne pas exercer, même à titre partiel, une activité
 professionnelle ou un droit mentionné au présent article.
 
-10° Prestations de télécommunications.
+10° Prestations de télécommunications ;
+
+11° Services de radiodiffusion et de télévision (1) ;
+
+12° Services fournis par voie électronique fixés par décret (1).
 
 Le lieu de ces prestations est réputé ne pas se situer en France même si le
 prestataire est établi en France lorsque le preneur est établi hors de la

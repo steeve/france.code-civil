@@ -13,4 +13,4 @@ l'administration, de la rectification préalable de la facture initiale.
 
 2. La taxe sur la valeur ajoutée facturée dans les conditions définies au 4 de
 l'article 283 ne peut faire l'objet d'aucune déduction par celui qui a reçu la
-facture ou le document en tenant lieu.
+facture.
