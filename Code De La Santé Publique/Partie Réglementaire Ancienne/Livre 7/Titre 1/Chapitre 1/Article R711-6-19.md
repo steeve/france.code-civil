@@ -25,7 +25,6 @@ chaque séjour. Toutefois, si les soins de longue durée sont dispensés pendant
 séjour d'une durée supérieure à un an, la moyenne est calculée sur la période
 des douze mois précédents.
 
-Les honoraires sont fixés à 85 p. 100 de la valeur de l'acte. Sur ces honoraires
-est due à l'établissement une redevance de 10 p. 100, 5 p. 100 étant affectés à
-l'amélioration de l'équipement et 5 p. 100 à l'amélioration des conditions de
-fonctionnement.
+Sur ces honoraires est due à l'établissement une redevance de 10 p. 100, 5 p.
+100 étant affectés à l'amélioration de l'équipement et 5 p. 100 à l'amélioration
+des conditions de fonctionnement.
