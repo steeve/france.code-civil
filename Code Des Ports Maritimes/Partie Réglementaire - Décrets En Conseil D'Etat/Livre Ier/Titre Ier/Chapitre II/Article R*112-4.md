@@ -1,18 +1,19 @@
 Article R*112-4
 ----
 Les mandats des membres du conseil d'administration désignés en application du I
-(2°), de l'article R. 112-1 prennent fin lors du renouvellement de l'assemblée
-qui les a désignés.
+(1° et 2°) de l'article R. *112-1 prennent fin lors du renouvellement de
+l'assemblée qui les a désignés.
 
 Le mandat des autres membres du conseil d'administration est de cinq ans. Il
-peut être renouvelé.
+peut être renouvelé. Lorsque les circonstances l'exigent, ce mandat peut, en
+outre, être prorogé par décret pour une durée n'excédant pas trois mois.
 
 Les dates de début et de fin de mandat sont fixées par le décret portant
 renouvellement général des représentants de l'Etat, des personnalités qualifiées
 et du représentant des ouvriers du port.
 
 Les dates de début et de fin de mandat des membres désignés en application du I
-(1° et 3°), de l'article R. 112-1 sont les mêmes que celles fixées par le décret
+(3°) de l'article R. *112-1 sont les mêmes que celles fixées par le décret
 mentionné à l'alinéa précédent.
 
 Cessent de plein droit de faire partie du conseil les membres qui ont perdu la
@@ -28,5 +29,5 @@ des chambres de commerce.
 
 Le nombre des membres du conseil d'administration nommés par décret qui ont
 dépassé l'âge de soixante-cinq ans ne peut excéder le tiers du nombre total de
-ces membres. Lorsque cette proportion est dépassé, le plus âgé des membres
+ces membres. Lorsque cette proportion est dépassée, le plus âgé des membres
 nommés par décret est réputé démissionnaire d'office.
