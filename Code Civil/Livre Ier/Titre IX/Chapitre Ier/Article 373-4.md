@@ -1,5 +1,9 @@
 Article 373-4
 ----
-S'il ne reste plus ni père ni mère en état d'exercer l'autorité parentale, il y
-aura lieu à l'ouverture d'une tutelle ainsi qu'il est dit à l'article 390
-ci-dessous.
+Lorsque l'enfant a été confié à un tiers, l'autorité parentale continue d'être
+exercée par les père et mère ; toutefois, la personne à qui l'enfant a été
+confié accomplit tous les actes usuels relatifs à sa surveillance et à son
+éducation.
+
+Le tribunal, en confiant l'enfant à titre provisoire à un tiers, peut décider
+qu'il devra requérir l'ouverture d'une tutelle.
