@@ -8,9 +8,8 @@ Le bilan mentionné à l'article R. 712-3 est communiqué pour avis au comité
 régional de l'organisation sanitaire et sociale.
 
 Le projet de carte sanitaire régionale et le projet de schéma d'organisation
-sanitaire régional, ainsi que son annexe, sont soumis pour avis, accompagnés des
-observations des services du contrôle médical des organismes d'assurance
-maladie, successivement :
+sanitaire régional, ainsi que son annexe, sont soumis pour avis, successivement
+:
 
 - aux conférences sanitaires de secteur ;
 

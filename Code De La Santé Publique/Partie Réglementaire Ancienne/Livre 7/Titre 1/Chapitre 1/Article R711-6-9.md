@@ -8,6 +8,7 @@ qu'ils s'engagent à :
 1° Respecter le projet d'établissement et le règlement intérieur ;
 
 2° Exercer leur activité professionnelle dans une zone géographique,
-préalablement déterminée par le préfet après délibération du conseil
-d'administration et avis de la commission médicale d'établissement, leur
-permettant de participer à la permanence dudit établissement.
+préalablement déterminée par le directeur de l'agence régionale de
+l'hospitalisation après délibération du conseil d'administration et avis de la
+commission médicale d'établissement, leur permettant de participer à la
+permanence dudit établissement.

@@ -7,4 +7,5 @@ de déontologie médicale, dispenser des soins à l'hôpital local, dans les
 conditions prévues à l'article R. 711-6-9, avec l'accord du directeur de cet
 hôpital.
 
-Le préfet est immédiatement informé de ce remplacement.
+Le directeur de l'agence régionale de l'hospitalisation est immédiatement
+informé de ce remplacement.

@@ -1,10 +1,10 @@
 Article R712-40
 ----
 Les demandes d'autorisation et de renouvellement d'autorisation ne peuvent,
-après transmission du directeur départemental des affaires sanitaires et
-sociales du département, être examinées par la commission exécutive de l'agence
-régionale de l'hospitalisation ou le ministre chargé de la santé que si elles
-sont accompagnées d'un dossier justificatif complet.
+après transmission du directeur de l'agence régionale de l'hospitalisation, être
+examinées par la commission exécutive de l'agence régionale de l'hospitalisation
+ou le ministre chargé de la santé que si elles sont accompagnées d'un dossier
+justificatif complet.
 
 I. - Ce dossier, dont la composition est arrêtée par les ministres chargés de la
 santé et de la sécurité sociale, doit notamment comporter les éléments

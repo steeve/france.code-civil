@@ -7,7 +7,7 @@ plusieurs des motifs suivants :
 satisfaits ;
 
 2° Lorsque le projet n'est pas compatible avec les objectifs du schéma
-d'organisation sanitaire ;
+d'organisation sanitaire ou avec son annexe ;
 
 3° Lorsque le projet n'est pas conforme aux conditions techniques de
 fonctionnement mentionnées au 3° du premier alinéa de l'article L. 712-9 ;
@@ -31,4 +31,7 @@ L. 712-13 n'ont pas été respectés ;
 par l'arrêté mentionné à l'article L. 712-14, ne sont pas jugés satisfaisants ;
 
 4° Lorsque le demandeur du renouvellement n'accepte pas de souscrire aux
-conditions et engagements mentionnés à l'article L. 712-12-1.
+conditions et engagements mentionnés à l'article L. 712-12-1 ;
+
+5° Lorsque le projet n'est pas compatible avec les objectifs du schéma
+d'organisation sanitaire ou avec son annexe.

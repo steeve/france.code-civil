@@ -25,7 +25,8 @@ ci-après :
 
 2. Caisson hyperbare ;
 
-3. Appareil d'hémodialyse ;
+3. Appareils de dialyse, à l'exception de ceux utilisés pour la dialyse
+péritonéale ;
 
 4. Appareil destiné à la séparation in vivo des éléments figurés du sang ;
 
@@ -49,7 +50,7 @@ utilisation clinique ;
 
 11. Compteur de la radioactivité totale du corps humain ;
 
-12. Appareil de destruction transpariétale des calculs ;
+12. Appareil de destruction transpariétale des calculs.
 
 Sont considérés comme équipements matériels lourds au sens de l'article L.
 712-19 les éléments dont l'adjonction ou la juxtaposition conduit à réaliser
@@ -58,8 +59,9 @@ l'un des appareillages mentionnés ci-dessus.
 III. - Les activités de soins définies à l'article L. 712-2 (2°, b) énumérées
 ci-après :
 
-1. Transplantations d'organes et greffes de moelle osseuse ; 2. Traitement des
-grands brûlés ;
+1. Transplantations d'organes et greffes de moelle osseuse ;
+
+2. Traitement des grands brûlés ;
 
 3. Chirurgie cardiaque ;
 
@@ -82,6 +84,6 @@ scellées ;
 11. Activités cliniques d'assistance médicale à la procréation, activités
 biologiques d'assistance médicale à la procréation, activités de recueil,
 traitement, conservation de gamètes et cession de gamètes issus de don,
-activités de diagnostic prénatal.
+activités de diagnostic prénatal ;
 
 12. Réadaptation fonctionnelle.

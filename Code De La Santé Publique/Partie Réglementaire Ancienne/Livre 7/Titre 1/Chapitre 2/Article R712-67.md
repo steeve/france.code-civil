@@ -7,6 +7,5 @@ comporte au moins un service ou une unité de médecine pratiquant
 l'hospitalisation complète.
 
 Dans le cas où l'établissement ne dispose pas de lits de médecine, il peut
-présenter conjointement à sa demande d'autorisation une demande de reconversion
-de lits d'autres disciplines, dans les conditions prévues par les articles D.
-712-13-4 et D. 712-13-5.
+présenter conjointement à sa demande d'autorisation une demande de conversion de
+lits d'autres disciplines.

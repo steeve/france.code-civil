@@ -13,6 +13,7 @@ d'annulation et de la décision prise. Ces documents sont conservés par le
 directeur de l'établissement.
 
 Un exemplaire du procès-verbal est adressé à chaque délégué de liste ainsi qu'au
-préfet du département.
+préfet du département et au directeur de l'agence régionale de
+l'hospitalisation.
 
 La publicité des résultats du scrutin est assurée par l'établissement.

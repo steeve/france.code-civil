@@ -7,7 +7,7 @@ médical mentionné à l'article L. 710-2 qui sont recueillies, pour chaque
 patient, par le praticien responsable de la structure médicale ou
 médico-technique ou par le praticien ayant dispensé des soins au patient et qui
 sont transmises au médecin responsable de l'information médicale pour
-l'établissement, mentionné à l'article L. 710-5.
+l'établissement, mentionné à l'article L. 710-6.
 
 Ces données ne peuvent concerner que :
 

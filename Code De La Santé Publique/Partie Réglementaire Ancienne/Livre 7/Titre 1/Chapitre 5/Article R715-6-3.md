@@ -50,9 +50,10 @@ j) La proposition de projet d'établissement établie par l'instance dirigeante
 compétente de l'établissement.
 
 La demande et les documents mentionnés ci-dessus sont adressés, par lettre
-recommandée avec demande d'accusé de réception, au préfet du département dans
-lequel est situé l'établissement. Ils doivent parvenir au plus tard le 15 mars
-de l'année précédant celle pour laquelle la demande d'admission est présentée.
+recommandée avec demande d'accusé de réception, au directeur de l'agence
+régionale de l'hospitalisation de la région dans laquelle est situé
+l'établissement. Ils doivent parvenir au plus tard le 15 mars de l'année
+précédant celle pour laquelle la demande d'admission est présentée.
 
 A la suite du dépôt de sa demande d'admission, l'établissement fait l'objet d'un
 contrôle visant à s'assurer qu'il répond aux exigences du service public

@@ -10,4 +10,5 @@ de recherche.
 
 Lorsqu'il existe une telle convention ou lorsqu'une convention a été conclue
 avec un organisme public ou privé pour la formation du personnel médical et
-paramédical, le texte de la convention est communiqué au préfet du département.
+paramédical, le texte de la convention est communiqué au directeur de l'agence
+régionale de l'hospitalisation.
