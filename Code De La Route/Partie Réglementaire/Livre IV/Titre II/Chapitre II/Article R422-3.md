@@ -2,9 +2,11 @@ Article R422-3
 ----
 I. - Lorsqu'une voie ferrée est établie sur une route ou la traverse à niveau,
 la priorité de passage appartient aux matériels circulant normalement sur cette
-voie ferrée, à l'exception des tramways dont les conducteurs doivent respecter
-les signalisations comportant des prescriptions absolues et les indications
-données par les agents réglant la circulation.
+voie ferrée, à l'exception des véhicules de transport public assujettis à
+suivre, de façon permanente, une trajectoire déterminée par un ou des rails
+matériels et empruntant l'assiette des routes, dont les conducteurs doivent
+respecter les signalisations comportant des prescriptions absolues et les
+indications données par les agents réglant la circulation.
 
 II. - Aucun conducteur ne doit s'engager sur un passage à niveau si son véhicule
 risque, du fait de ses caractéristiques techniques ou des conditions de

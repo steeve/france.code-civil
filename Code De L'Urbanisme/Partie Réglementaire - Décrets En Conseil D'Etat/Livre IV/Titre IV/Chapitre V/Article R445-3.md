@@ -28,6 +28,12 @@ en tout état de cause, excéder deux mois à compter de la réception de ces
 pièces. Il fait connaître sa décision à l'autorité compétente pour statuer qui
 notifie au demandeur la prolongation du délai d'instruction qui en résulte.
 
+Lorsque la remontée mécanique comporte un tunnel d'une longueur de plus de 300
+mètres, le préfet doit, préalablement à l'émission de son avis conforme,
+recueillir l'avis de la commission consultative départementale de sécurité et
+d'accessibilité. Dans ce cas, le délai accordé au préfet pour émettre son avis
+est majoré d'un mois.
+
 Faute pour l'autorité compétente d'avoir adressé notification de la décision
 dans le délai d'instruction prévu aux alinéas précédents, l'autorisation est
 réputée accordée, sauf dans les cas énumérés à l'article R. 421-19 et pour les

@@ -3,16 +3,21 @@ Article R445-2
 Le dossier joint à la demande d'autorisation d'exécution des travaux est composé
 des pièces ci-après :
 
-a) Un mémoire descriptif de l'installation indiquant notamment ses
-caractéristiques principales, l'emplacement et la nature des ouvrages projetés,
-sa capacité de transport, l'identité et la qualité du maître d'oeuvre et celles
-des spécialistes dont il s'entoure pour l'assister dans sa mission, ainsi que la
-répartition entre eux des fonctions et des tâches techniques ;
+a) Un mémoire descriptif de l'installation indiquant notamment les
+caractéristiques principales et la capacité de transport de l'installation, la
+nature des ouvrages ou des modifications substantielles projetées et leur
+emplacement, l'identité et la qualité du maître d'oeuvre et celles des
+spécialistes dont il s'entoure pour l'assister dans sa mission, ainsi que la
+répartition entre eux des fonctions et des tâches techniques et, le cas échéant,
+l'identité et la qualité de l'expert ou de l'organisme qualifié agréé dans les
+conditions prévues à l'article 7 du décret n° 2003-425 du 9 mai 2003 relatif à
+la sécurité des transports publics guidés ;
 
 b) Une note sur les mesures de préservation et de réhabilitation du milieu
 naturel prévues ;
 
-c) L'échéancier prévu pour la construction de l'installation ;
+c) L'échéancier prévu pour la construction ou la modification substantielle de
+l'installation ;
 
 d) Un plan de situation à une échelle comprise entre 1/5 000 et 1/25 000
 comportant le tracé du projet ;
@@ -31,8 +36,8 @@ de corroborer les hypothèses retenues et vérifier les calculs ;
 h) Une note sur les dispositions de principe envisagées pour l'évacuation des
 usagers de la remontée mécanique ;
 
-i) Une note sur les risques naturels prévisibles et les dispositions principales
-prévues pour y faire face ;
+i) Une note sur les risques naturels et technologiques prévisibles et les
+dispositions principales prévues pour y faire face ;
 
 j) L'étude ou la notice d'impact prévue, selon le cas, par l'article 2 ou 4 du
 décret n° 77-1141 du 12 octobre 1977.
@@ -65,6 +70,14 @@ consultative départementale de la protection civile, de la sécurité et de
 l'accessibilité ou de la commission de sécurité compétente en vertu des articles
 R. 123-13 ou R. 123-22 du code de la construction et de l'habitation, les plans
 et documents nécessaires à la formulation de cet avis.
+
+e) Dans le cas d'une remontée mécanique empruntant un tunnel d'une longueur de
+plus de 300 mètres, le rapport d'un expert ou d'un organisme qualifié agréé dans
+les conditions prévues à l'article 7 du décret n° 2003-425 du 9 mai 2003 relatif
+à la sécurité des transports publics guidés, présentant les conditions
+d'exploitation de la remontée mécanique au regard des risques naturels et
+technologiques susceptibles d'affecter l'ouvrage et son avis sur la conception
+et l'exploitation de la remontée mécanique au regard de ces risques.
 
 Le dossier est complété, selon le cas :
 
