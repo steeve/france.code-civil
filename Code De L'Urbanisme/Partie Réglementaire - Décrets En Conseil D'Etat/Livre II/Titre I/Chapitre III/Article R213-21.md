@@ -15,3 +15,6 @@ déclaration d'intention d'aliéner.
 L'avis du service des domaines doit être formulé dans le délai d'un mois à
 compter de la date de réception de la demande d'avis. Passé ce délai, il peut
 être procédé librement à l'acquisition.
+
+Les dispositions du présent article s'appliquent également aux propositions
+faites en application des articles L. 211-5 et L. 212-3.
