@@ -20,7 +20,7 @@ la présente section ne sont pas ou ne sont plus remplies ou que les contrôles
 n'ont pas été effectués ;
 
 b) Lorsque l'étiquetage ou la notice du médicament ou du produit ne sont pas
-conformes aux prescriptions de la présente section.
+conformes aux prescriptions générales ou spécifiques prévues au livre V.
 
 Sauf en cas d'urgence, la suspension ou le retrait mentionnés à l'alinéa
 précédent ne peuvent intervenir qu'après communication des griefs au titulaire
