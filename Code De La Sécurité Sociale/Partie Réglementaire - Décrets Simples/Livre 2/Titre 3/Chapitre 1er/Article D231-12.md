@@ -13,9 +13,7 @@ Cette déclaration précise :
 
 2°) le titre de la liste ;
 
-3°) l'ordre de présentation des candidats figurant sur la liste ;
-
-4°) la qualité de candidat titulaire ou suppléant.
+3°) l'ordre de présentation des candidats figurant sur la liste.
 
 A cette déclaration collective sont jointes les déclarations individuelles de
 chacun des candidats de la liste. Chaque déclaration individuelle est signée par
