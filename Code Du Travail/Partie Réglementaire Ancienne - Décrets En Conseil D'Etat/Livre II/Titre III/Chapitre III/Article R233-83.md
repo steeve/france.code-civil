@@ -1,210 +1,74 @@
 Article R233-83
 ----
-Les machines et appareils auxquels s'appliquent les dispositions du premier
-alinéa de l'article L. 233-5 sont les machines et appareils mus, à l'exception
-de la catégorie 10° ci-après, par une source d'énergie autre que la force
-humaine qui entrent dans l'une des catégories suivantes :
+Les équipements de travail auxquels s'appliquent les obligations définies au I
+de l'article L. 233-5 sont ceux qui entrent dans l'une des catégories suivantes
+:
 
-1. Matériels pour l'industrie textile.
+1° Machines, y compris les machines destinées à l'industrie d'extraction des
+minéraux.
 
-Machines et appareils pour le filage des matières textiles synthétiques et
-artificielles ; machines et appareils pour la préparation des matières textiles
-; machines et métiers pour la filature et le retordage des matières textiles ;
-machines à bobiner, mouliner, dévider les matières textiles.
+Une machine est un ensemble de pièces ou d'organes liés entre eux dont au moins
+un est mobile et, le cas échéant, d'actionneurs, de circuits de commande et de
+puissance réunis de façon solidaire en vue d'une application définie telle que
+notamment la transformation, le traitement ou le conditionnement de matériaux et
+le déplacement de charges avec ou sans changement de niveau.
 
-Métiers à tisser, à bonneterie, à tulle, à dentelle, à broderie, à passementerie
-et à filet ; appareils et machines préparatoires pour le tissage, la bonneterie,
-tels que ourdissoirs et encolleuses.
+Un ensemble de machines qui, afin de concourir à un même résultat, sont
+disposées et commandées de manière à être solidaires dans leur fonctionnement
+est considéré comme une machine.
 
-Machines et appareils pour la fabrication et le finissage du feutre en pièce.
+Un équipement interchangeable destiné à être assemblé à une machine ou à une
+série de machines différentes ou à un tracteur par l'utilisateur lui-même, en
+vue d'en modifier la fonction, est, dans la mesure où cet équipement n'est pas
+une pièce de rechange ou un outil, considéré comme une machine.
 
-Machines et appareils pour le lavage, le nettoyage, le séchage, le blanchissage,
-la teinture, l'apprêt et le finissage des fils, tissus et ouvrages en matières
-textiles tels que les appareils à lessiver le linge, repasser et presser les
-confections, enrouler, plier, couper ou denteler les tissus ; machines pour le
-revêtement des tissus et autres supports en vue de la fabrication de
-couvre-parquets ; machines utilisées pour l'impression des fils, tissus, cuir,
-papier de teinture, papier d'emballage et couvre-parquets.
+Les arbres à cardans de transmission de puissance amovibles entre une machine
+automotrice ou un tracteur et une machine réceptrice, ainsi que les dispositifs
+de protection desdits arbres à cardans, sont considérés comme des machines.
 
-Machines à coudre les tissus.
+Sont également considérés comme machines les véhicules et leurs remorques
+destinés à l'industrie d'extraction des minéraux et les véhicules et leurs
+remorques destinés uniquement au transport des marchandises sur les réseaux
+privés routiers, ferroviaires, maritimes ou fluviaux.
 
-2. Machines agricoles ou forestières et matériels pour les industries
-agro-alimentaires.
+Sont également considérés comme machines, dans la mesure où ils n'assurent pas
+la fonction de transport, les matériels répondant à la définition des machines
+placés sur les véhicules ou leurs remorques.
 
-Tracteurs agricoles et forestiers à roues.
+2° Tracteurs agricoles et forestiers à roues.
 
-Machines mobiles agricoles ou forestières.
+3° Accessoires de levage répondant à la définition suivante : équipements non
+incorporés à une machine, à un tracteur ou à un autre matériel et placés entre
+la machine, le tracteur ou tout autre matériel et la charge, ou sur la charge,
+pour permettre la préhension de la charge, tels que élingue, palonnier, pince
+auto-serrante, aimant, ventouse, cé de levage.
 
-Machines, appareils et engins pour battage des produits agricoles, presses à
-paille et à fourrage, tarares et machines similaires pour le nettoyage des
-grains, trieurs à oeufs, à fruits et autres produits agricoles.
+4° Composants d'accessoires de levage, non incorporés à un accessoire visé au 3°
+ci-dessus, tels que crochets à oeil, manilles, anneaux, anneaux à tige.
 
-Machines à traire et autres machines et appareils de laiterie.
+5° Chaînes, câbles et sangles de levage à la longueur non incorporés à un
+accessoire ou à un composant visé au 3° ou 4° ci-dessus ou à une machine, un
+tracteur ou tout autre matériel.
 
-Pressoirs, fouloirs et autres appareils de vinification, de cidrerie et
-similaires.
+6° Appareils de radiographie industrielle et appareils de radiologie
+industrielle :
 
-Autres machines et appareils pour l'agriculture, l'horticulture, la
-sylviculture, l'aviculture et l'apiculture, y compris les germoirs comportant
-des dispositifs mécaniques ou thermiques et les couveuses et éleveuses pour
-l'aviculture.
-
-Machines, appareils et engins pour la minoterie et le traitement des céréales et
-légumes secs.
-
-Machines et appareils, non dénommés ni compris dans d'autres positions du
-présent article pour les industries de la boulangerie, de la pâtisserie, de la
-biscuiterie, des pâtes alimentaires, de la confiserie, de la chocolaterie, de la
-sucrerie, de la brasserie et pour le travail des viandes, poissons, légumes et
-fruits à des fins alimentaires.
-
-3. Matériels pour la préparation des matériaux et le génie civil. Machines et
-appareils à trier, cribler, laver, concasser, broyer, mélanger les terres,
-pierres, minerais et autres matières minérales solides ; machines et appareils à
-agglomérer, former ou mouler les combustibles minéraux solides, les pâtes
-céramiques, le ciment, le plâtre et autres matières minérales en poudre ou en
-pâte ; machines à former les moules de fonderie en sable.
-
-Machines et appareils, fixes ou mobiles, d'extraction, de terrassement,
-d'excavation ou de forage du sol tels que excavateurs, décapeurs, niveleuses,
-buldozers, scrapers, sonnettes de battage.
-
-4. Matériels pour l'industrie du papier et du carton.
-
-Machines et appareils pour la fabrication de la pâte cellulosique telle que la
-pâte à papier et pour la fabrication et le finissage du papier et du carton.
-
-Autres machines et appareils pour le travail de la pâte à papier, du papier et
-du carton, y compris les coupeuses.
-
-5. Matériels d'imprimerie.
-
-Machines à fondre et à composer les caractères ; machines, appareils et matériel
-de clicherie, de stéréotypie et similaires.
-
-Machines et appareils pour l'imprimerie et les arts graphiques, margeurs,
-plieuses et autres appareils auxiliaires d'imprimerie.
-
-Machines et appareils pour le brochage et la reliure, y compris les machines à
-coudre les feuillets.
-
-6. Matériel pour l'industrie du cuir et de la chaussure.
-
-Machines et appareils pour la préparation et le travail des cuirs et peaux et
-pour la fabrication des chaussures et autres ouvrages en cuir ou en peau.
-
-Machines à coudre les cuirs, les chaussures et autres matières similaires en
-feuilles.
-
-7. Matériels pour l'industrie du caoutchouc et des matières plastiques.
-
-Machines et appareils pour le travail du caoutchouc et des matières plastiques
-tels que machines à injecter, extrudeuses, presses à mouler, mélangeurs,
-malaxeurs, calandres.
-
-8. Machines-outils pour le travail du bois, des métaux, de la pierre et des
-matériaux similaires.
-
-Machines-outils pour le travail des métaux et des carbures métalliques.
-
-Machines-outils pour le travail de la pierre, des produits céramiques, du béton,
-de l'amiante-ciment et d'autres matières minérales similaires, et pour le
-travail à froid du verre.
-
-Machines-outils pour le travail du bois, du liège, de l'os, de l'ébonite, des
-matières plastiques artificielles et d'autres matières dures similaires.
-
-9. Machines et appareils portatifs pour emploi à la main :
-
-Outils et machines-outils électromécaniques à moteur incorporé, pour emploi à la
-main ;
-
-Outils et machines-outils pneumatiques ou à moteur incorporé autre qu'électrique
-pour emploi à la main.
-
-10. Appareils de radiographie industrielle utilisant le rayonnement gamma à
+Appareils de radiographie industrielle utilisant le rayonnement gamma, à
 l'exclusion des appareils spécialement conçus pour se déplacer, de façon
 autonome ou non, dans des conduits tubulaires.
 
 Générateurs électriques de rayonnement X, utilisés en radiologie industrielle,
 accessoires compris.
 
-11. Chariots de manutention automoteurs 1/à roues, à l'exclusion de ceux roulant
-sur des rails, à conducteur porté ou à conducteur accompagnant, mus par moteur
-thermique ou par moteur électrique alimenté par batterie, dont la capacité
-nominale n'excède pas 10.000 kilogrammes ou dont la force nominale au crochet
-est inférieure à 20.000 newtons, et leurs équipements amovibles ou non.
-
-Ne sont pas concernés :
-
-a) Les engins à benne appelés dumpers ou tombereaux et brouettes motorisés
-utilisés sur les chantiers de bâtiment, de travaux publics et de travaux
-agricoles ;
-
-b) Les camions avec ou sans remorques, les machines mobiles agricoles et
-forestières, les tracteurs agricoles et forestiers, les engins de chantier et
-les chariots utilisés au fond des mines ;
-
-c) Les fourgons de lait et autres véhicules de livraison similaires ;
-
-d) Les engins élévateurs gerbeurs ne pouvant circuler qu'à l'intérieur de guides
-et dénommés transtockeurs ;
-
-e) Les chariots à poste de conduite élevable d'une capacité nominale dépassant 5
-000 kilogrammes ;
-
-f) Les chariots spécialement conçus pour circuler avec la charge en position
-élevée dépassant 5 000 kilogrammes ;
-
-g) Les chariots cavaliers ;
-
-h) Les tracteurs et chariots commandés à distance ne transportant pas
-d'opérateur ;
-
-i) Les équipements utilisés pour l'entretien en position d'élévation ;
-
-j) Les chariots mus par des formes extérieures d'énergie électrique ;
-
-k) Les grues mobiles ;
-
-l) Les plates-formes élévatrices mobiles ;
-
-m) Les chariots à bras télescopiques.
-
-12. Cabines de projection par pulvérisation, cabines et enceintes de séchage,
+7° Cabines de projection par pulvérisation, cabines et enceintes de séchage,
 cabines mixtes de projection et de séchage destinées à l'emploi de peintures
 liquides, de vernis, de poudres ou de fibres sèches, toxiques, nocifs,
-corrosifs, irritants, comburants ou inflammables, visés à l'article L. 231-6 du
-code du travail. Ces cabines et enceintes sont définies comme des espaces
-délimités par des parois horizontales et verticales distinctes des cloisons ou
-murs du local d'implantation, constituant un volume d'où les projections, les
-vapeurs et les aérosols de peinture ou de vernis ne peuvent sortir que par des
-dispositifs spécifiques de ventilation.
+corrosifs, irritants, comburants ou inflammables, visés à l'article L. 231-6.
 
-13. Autres matériels.
+Ces cabines et enceintes sont définies comme des espaces délimités par des
+parois horizontales et verticales distinctes des cloisons ou murs du local
+d'implantation constituant un volume d'où les projections, les vapeurs et les
+aérosols de peinture ou de vernis ne peuvent sortir que par des dispositifs
+spécifiques de ventilation.
 
-Centrifugeuses et essoreuses centrifuges.
-
-Machines et appareils servant à nettoyer ou à sécher les bouteilles et autres
-récipients ; à remplir, fermer, étiqueter ou capsuler les bouteilles, boites,
-sacs et autres contenants ; à empaqueter ou emballer les marchandises ;
-appareils à gazéifier les boissons ; appareils à laver la vaisselle.
-
-Appareils mécaniques (même à main) à projeter, disperser ou pulvériser des
-matières liquides ou en poudre : pistolets aérographes et appareils similaires ;
-machines et appareils à jet de sable, à jet de vapeur et appareils à jet
-similaires.
-
-Machines et appareils au gaz pour le soudage, le coupage et la trempe
-superficielle.
-
-Laminoirs et trains de laminoirs pour la sidérurgie.
-
-Machines et appareils pour la fabrication et le travail à chaud du verre et des
-ouvrages en verre ; machines pour l'assemblage des lampes, tubes et valves
-électriques, électroniques et similaires.
-
-Calandres et laminoirs, autres que des laminoirs à métaux et les machines à
-laminer le verre.
-
-Scies à chaîne portatives à moteur thermique.
+8° Electrificateurs de clôtures.
