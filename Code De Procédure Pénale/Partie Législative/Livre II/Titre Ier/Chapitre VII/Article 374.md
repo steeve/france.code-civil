@@ -1,3 +1,7 @@
 Article 374
 ----
-L'accusé qui succombe est condamné aux dépens envers la partie civile.
+Lorsqu'elle statue en premier ressort, la cour peut ordonner l'exécution
+provisoire de sa décision, si celle-ci a été demandée, sans préjudice des
+dispositions de l'article 380-9.
+
+Toutefois, l'exécution provisoire des mesures d'instruction est de droit.

@@ -52,7 +52,8 @@ Cet abattement est fixé à 500 F.
 
 Un abattement est opéré sur les ressources de la personne seule qui assume la
 charge d'un ou plusieurs enfants ou d'une ou plusieurs personnes au sens de
-l'article L. 542-1.
+l'article L. 542-1 et qui perçoit l'allocation de logement visée au II de
+l'article D. 542-5.
 
 Cet abattement est fixé à :
 

@@ -20,7 +20,7 @@ au 4 du I de l'article 266 sexies ;
 auxiliaires de lavage, ou des produits adoucissants ou assouplissants pour le
 linge mentionnés au 5 du I de l'article 266 sexies ;
 
-6. Le poids des grains minéraux naturels mentionnés au 6 du I de l'article 266
+6. Le poids des matériaux d'extraction mentionnés au 6 du I de l'article 266
 sexies ;
 
 7. Le poids des substances classées dangereuses selon les critères définis par

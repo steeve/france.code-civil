@@ -1,6 +1,6 @@
 Article 206
 ----
-La chambre d'accusation examine la régularité des procédures qui lui sont
+La chambre de l'instruction examine la régularité des procédures qui lui sont
 soumises.
 
 Si elle découvre une cause de nullité, elle prononce la nullité de l'acte qui en

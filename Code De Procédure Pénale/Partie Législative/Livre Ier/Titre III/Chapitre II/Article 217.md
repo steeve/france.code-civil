@@ -1,13 +1,11 @@
 Article 217
 ----
-Hors le cas prévu à l'article 196, les dispositifs des arrêts sont, dans les
-trois jours, par lettre recommandée, portés à la connaissance des avocats des
-parties.
+Hors le cas prévu à l'article 196, les arrêts sont, dans les trois jours, par
+lettre recommandée, portés à la connaissance des avocats des parties.
 
-Dans les mêmes formes et délais, les dispositifs des arrêts de non-lieu sont
-portés à la connaissance des personnes mise en examen, les dispositifs des
-arrêts de renvoi devant le tribunal correctionnel ou de police sont portés à la
-connaissance des parties.
+Dans les mêmes formes et délais, les arrêts de non-lieu sont portés à la
+connaissance des personnes mise en examen, les arrêts de renvoi devant le
+tribunal correctionnel ou de police sont portés à la connaissance des parties.
 
 Les arrêts contre lesquels les parties peuvent former un pourvoi en cassation
 leur sont signifiés à la requête du procureur général dans les trois jours.

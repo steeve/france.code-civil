@@ -12,7 +12,8 @@ prévues par les articles 135, 145, alinéa premier, 145-1, quatrième alinéa e
 l'article 144. Elle est exécutoire par provision.
 
 Lorsque le prévenu est en détention provisoire, le jugement au fond doit être
-rendu dans les deux mois qui suivent le jour de sa première comparution devant
-le tribunal. Faute de décision au fond à l'expiration de ce délai, il est mis
-fin à la détention provisoire. Le prévenu, s'il n'est pas détenu pour autre
-cause, est mis d'office en liberté.
+rendu dans le mois qui suit le jour de sa première comparution devant le
+tribunal. Ce délai est prolongé d'un mois au maximum à la demande du prévenu.
+Faute de décision au fond à l'expiration de ce délai, il est mis fin à la
+détention provisoire. Le prévenu, s'il n'est pas détenu pour autre cause, est
+mis d'office en liberté.

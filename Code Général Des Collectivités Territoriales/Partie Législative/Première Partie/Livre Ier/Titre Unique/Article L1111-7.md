@@ -26,7 +26,6 @@ en demander l'annulation par la juridiction administrative pour ce seul motif.
 Le représentant de l'Etat dans le département ou dans la région défère l'acte en
 cause, dans les deux mois suivant sa transmission ou sa publication, à la
 section du contentieux du Conseil d'Etat, compétente en premier et dernier
-ressort. Il assortit, si nécessaire, son recours d'une demande de sursis à
-exécution ; le président de la section du contentieux du Conseil d'Etat, ou un
-conseiller d'Etat délégué à cet effet, statue dans un délai de quarante-huit
-heures.
+ressort. Il assortit, si nécessaire, son recours d'une demande de suspension ;
+le président de la section du contentieux du Conseil d'Etat, ou un conseiller
+d'Etat délégué à cet effet, statue dans un délai de quarante-huit heures.

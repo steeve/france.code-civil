@@ -23,8 +23,8 @@ euthanasie.
 Cette ordonnance est notifiée au propriétaire s'il est connu, qui peut la
 déférer soit au premier président de la cour d'appel du ressort ou à un
 magistrat de cette cour désigné par lui, soit, lorsqu'il s'agit d'une ordonnance
-du juge d'instruction, à la chambre d'accusation dans les conditions prévues aux
-cinquième et sixième alinéas de l'article 99.
+du juge d'instruction, à la chambre de l'instruction dans les conditions prévues
+aux cinquième et sixième alinéas de l'article 99.
 
 Le produit de la vente de l'animal est consigné pendant une durée de cinq ans.
 Lorsque l'instance judiciaire qui a motivé la saisie se conclut par un non-lieu

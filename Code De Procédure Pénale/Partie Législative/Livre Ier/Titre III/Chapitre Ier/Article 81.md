@@ -34,16 +34,17 @@ personnalité des personnes mises en examen, ainsi que sur leur situation
 matérielle, familiale ou sociale. Toutefois, en matière de délit, cette enquête
 est facultative.
 
-Le juge d'instruction peut également commettre, suivant les cas, le comité de
-probation et d'assistance aux libérés, le service compétent de l'éducation
-surveillée ou toute personne habilitée en application de l'alinéa qui précède à
-l'effet de vérifier la situation matérielle, familiale et sociale d'une personne
-mise en examen et de l'informer sur les mesures propres à favoriser l'insertion
-sociale de l'intéressée. A moins qu'elles n'aient été déjà prescrites par le
-ministère public, ces diligences doivent être prescrites par le juge
-d'instruction chaque fois qu'il envisage de placer en détention provisoire un
-majeur âgé de moins de vingt et un ans au moment de la commission de
-l'infraction lorsque la peine encourue n'excède pas cinq ans d'emprisonnement.
+Le juge d'instruction peut également commettre, suivant les cas, le service
+pénitentiaire d'insertion et de probation, le service compétent de la protection
+judiciaire de la jeunesse ou toute association habilitée en application de
+l'alinéa qui précède à l'effet de vérifier la situation matérielle, familiale et
+sociale d'une personne mise en examen et de l'informer sur les mesures propres à
+favoriser l'insertion sociale de l'intéressée.A moins qu'elles n'aient été déjà
+prescrites par le ministère public, ces diligences doivent être prescrites par
+le juge d'instruction chaque fois qu'il envisage de placer en détention
+provisoire un majeur âgé de moins de vingt et un ans au moment de la commission
+de l'infraction lorsque la peine encourue n'excède pas cinq ans
+d'emprisonnement.
 
 Le juge d'instruction peut prescrire un examen médical, un examen psychologique
 ou ordonner toutes mesures utiles.
@@ -69,6 +70,6 @@ l'établissement. Ce document est adressé sans délai, en original ou copie et 
 tout moyen, au greffier du juge d'instruction.
 
 Faute par le juge d'instruction d'avoir statué dans le délai d'un mois, la
-partie peut saisir directement le président de la chambre d'accusation, qui
+partie peut saisir directement le président de la chambre de l'instruction, qui
 statue et procède conformément aux troisième, quatrième et cinquième alinéas de
 l'article 186-1.

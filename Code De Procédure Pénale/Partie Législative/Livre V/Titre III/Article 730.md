@@ -1,24 +1,14 @@
 Article 730
 ----
-Le droit d'accorder la libération conditionnelle appartient, selon les
-distinctions ci-après, soit au juge de l'application des peines, soit au
-ministre de la justice.
+Lorsque la peine privative de liberté prononcée est d'une durée inférieure ou
+égale à dix ans, ou que, quelle que soit la peine initialement prononcée, la
+durée de détention restant à subir est inférieure ou égale à trois ans, la
+libération conditionnelle est accordée par le juge de l'application des peines
+selon les modalités prévues par l'article 722.
 
-Lorsque le condamné doit subir une ou plusieurs peines privatives de liberté
-entraînant une détention dont la durée totale, à compter du jour de
-l'incarcération, n'excède pas cinq années, la libération conditionnelle est
-accordée par le juge de l'application des peines après avis de la commission de
-l'application des peines.
-
-Lorsque le condamné doit subir une ou plusieurs peines privatives de liberté
-entraînant une détention dont la durée totale, à compter du jour de
-l'incarcération, excède cinq années, la libération conditionnelle est accordée
-par le ministre de la justice. La proposition de libération conditionnelle est
-établie par le juge de l'application des peines, après avis de la commission de
-l'application des peines. Elle peut être soumise par le ministre de la justice à
-un comité consultatif de libération conditionnelle. L'avis du préfet du
-département où le condamné entend fixer sa résidence est recueilli dans tous les
-cas.
+Dans les autres cas, la libération conditionnelle est accordée par la
+juridiction régionale de la libération conditionnelle, selon les modalités
+prévues par l'article 722-1.
 
 Pour l'application du présent article, la situation de chaque condamné est
 examinée au moins une fois par an, lorsque les conditions de délai prévues à

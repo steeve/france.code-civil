@@ -2,7 +2,9 @@ Article 156
 ----
 Toute juridiction d'instruction ou de jugement, dans le cas où se pose une
 question d'ordre technique, peut, soit à la demande du ministère public, soit
-d'office, ou à la demande des parties, ordonner une expertise.
+d'office, ou à la demande des parties, ordonner une expertise. Le ministère
+public ou la partie qui demande une expertise peut préciser dans sa demande les
+questions qu'il voudrait voir poser à l'expert.
 
 Lorsque le juge d'instruction estime ne pas devoir faire droit à une demande
 d'expertise, il doit rendre une ordonnance motivée au plus tard dans un délai

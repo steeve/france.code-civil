@@ -1,7 +1,46 @@
 Article D542-5
 ----
-Le montant de l'allocation de logement est obtenu par l'application de la
-formule :
+I. - Pour les locataires autres que ceux mentionnés au II du présent article, le
+montant mensuel de l'allocation de logement est égal à la différence entre la
+dépense de logement éligible et une participation personnelle du ménage.
+
+La dépense de logement éligible comprend le loyer principal retenu dans la
+limite d'un plafond, ainsi qu'un montant forfaitaire au titre des charges. Le
+plafond de loyer est fixé en fonction de la zone géographique et, sauf dans le
+cas où le logement occupé est une chambre, de la composition familiale.
+
+La participation personnelle est la somme d'une participation minimale et du
+résultat de l'application d'un taux de participation aux ressources du
+bénéficiaire diminuées, dans la limite du montant desdites ressources, d'un
+montant fixé forfaitairement. Ce forfait est calculé dans les conditions fixées
+par arrêté conjoint des ministres chargés du logement, du budget, de la sécurité
+sociale et de l'agriculture sur la base du montant mensuel du revenu minimum
+d'insertion, fixé en application de l'article 3 de la loi n° 88-1088 du 1er
+décembre 1988 relative au revenu minimum d'insertion.
+
+Dans le cas du calcul de l'allocation de logement des colocataires, le loyer
+principal retenu représente le quotient du loyer effectivement payé par le
+nombre de cotitulaires du bail ou de l'engagement de location, le résultat étant
+pris en compte dans le limite du plafond de loyer qui correspond à la situation
+familiale de chacun des colocataires ; le montant forfaitaire de charges est
+celui qui correspond à la situation familiale de chacune des personnes ou
+ménages concernés.
+
+Les ressources du bénéficiaire sont appréciées conformément aux articles D.
+542-8 à D. 542-12 et arrondies aux 500 F supérieurs.
+
+Le taux de participation susvisé est obtenu par l'addition :
+
+- d'un premier taux qui est fonction de la taille du ménage ;
+
+- d'un second taux qui croît quand le loyer augmente dans la limite d'un plafond
+; il est obtenu par l'application de taux croissants à des tranches successives
+de loyer ; ces tranches sont déterminées en proportion d'un loyer de référence
+fixé en fonction de la composition familiale. ;
+
+II. - Pour les accédants à la propriété ainsi que pour les étudiants logés en
+résidence universitaire, le montant de l'allocation de logement est obtenu par
+l'application de la formule :
 
 AL égal K (L + C - Lo)
 
@@ -26,8 +65,7 @@ Le coefficient K est arrondi à deux décimales par défaut ;
 3°) L représente selon le cas :
 
 Soit le loyer principal effectivement payé défini à l'article D. 542-20 et
-éventuellement ramené au plafond mentionné à l'article D. 542-21 ou en cas de
-location de meublé calculé dans les conditions prévues à l'article D. 542-30 ;
+éventuellement ramené au plafond mentionné à l'article D. 542-21 ;
 
 Soit la somme prise en compte, dont il est fait état aux articles D. 542-25 et
 D. 542-28, et éventuellement ramenée au plafond mentionné à l'article D. 542-27

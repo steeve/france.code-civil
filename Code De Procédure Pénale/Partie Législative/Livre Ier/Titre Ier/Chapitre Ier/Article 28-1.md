@@ -54,9 +54,9 @@ commission est celle prévue par l'article 16-3 et ses textes d'application.
 
 V. - Pour l'exercice des missions mentionnées aux I et II, les agents des
 douanes sont placés sous la direction du procureur de la République, sous la
-surveillance du procureur général et sous le contrôle de la chambre d'accusation
-du siège de leur fonction dans les conditions prévues par les articles 224 à
-230.
+surveillance du procureur général et sous le contrôle de la chambre de
+l'instruction du siège de leur fonction dans les conditions prévues par les
+articles 224 à 230.
 
 VI. - Lorsque, sur réquisition du procureur de la République, les agents des
 douanes mentionnés aux I et II procèdent à des enquêtes judiciaires, il est fait

@@ -21,9 +21,6 @@ ainsi qu'aux articles 238 bis HA à 238 bis HC du même code et des cotisations
 personnelles de sécurité sociale de l'exploitant, de son conjoint et des membres
 de sa famille.
 
-Pour le calcul de la moyenne des revenus, les déficits sont retenus pour un
-montant nul.
-
 II. - Lorsque la durée d'assujettissement au régime de protection sociale des
 non-salariés agricoles d'un chef d'exploitation ou d'entreprise agricole ne
 permet pas de calculer la moyenne des revenus professionnels se rapportant aux
@@ -128,8 +125,8 @@ la contribution est calculée sur une assiette forfaitaire provisoire. Lorsque
 l'importance de l'exploitation ou de l'entreprise agricole peut être appréciée
 en pourcentage de la surface minimum d'installation prévue à l'article L. 312-6
 du même code, cette assiette forfaitaire est égale au produit de ce pourcentage
-par le tiers de 2 028 fois le montant du salaire minimum de croissance. Dans le
-cas contraire, elle est égale à 200 fois le montant du salaire minimum de
+par 30 % de 2 028 fois le montant du salaire minimum de croissance. Dans le cas
+contraire, elle est égale à 150 fois le montant du salaire minimum de
 croissance.
 
 Cette assiette forfaitaire est régularisée lorsque les revenus sont connus.

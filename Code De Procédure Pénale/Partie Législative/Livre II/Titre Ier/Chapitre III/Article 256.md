@@ -2,7 +2,11 @@ Article 256
 ----
 Sont incapables d'être jurés :
 
-1° et 2° abrogés.
+1° Les personnes dont le bulletin n° 1 du casier judiciaire mentionne une
+condamnation pour crime ou une condamnation pour délit à une peine égale ou
+supérieure à six mois d'emprisonnement ;
+
+2° (Abrogé)
 
 3° Ceux qui sont en état d'accusation ou de contumace et ceux qui sont sous
 mandat de dépôt ou d'arrêt ;

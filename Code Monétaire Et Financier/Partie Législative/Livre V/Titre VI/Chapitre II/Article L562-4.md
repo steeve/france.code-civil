@@ -1,0 +1,13 @@
+Article L562-4
+----
+Un service, placé sous l'autorité du ministre chargé de l'économie, reçoit la
+déclaration prévue à l'article L. 562-2. Ce service est composé d'agents publics
+de l'Etat spécialement habilités par le ministre, dans les conditions fixées par
+décret en Conseil d'Etat. Ce service recueille et rassemble tous renseignements
+propres à établir l'origine des sommes ou la nature des opérations faisant
+l'objet de la déclaration. Dès que les informations recueillies mettent en
+évidence des faits susceptibles de relever du trafic de stupéfiants ou de
+l'activité d'organisations criminelles, il en réfère au procureur de la
+République en lui précisant, le cas échéant, que l'administration des douanes a
+été saisie en vue de procéder à des investigations pour la recherche et la
+constatation de l'infraction prévue à l'article 415 du code des douanes.

@@ -19,8 +19,18 @@ qu'elle a causé, a provoqué un trouble exceptionnel et persistant à l'ordre
 public auquel le maintien en détention provisoire demeure l'unique moyen de
 mettre fin.
 
-L'ordonnance prescrivant le maintien en détention provisoire cesse de produire
-effet à l'expiration d'un délai de deux mois.
+Le prévenu en détention est immédiatement remis en liberté si le tribunal
+correctionnel n'a pas commencé à examiner au fond à l'expiration d'un délai de
+deux mois à compter de la date de l'ordonnance de renvoi.
 
-Lorsqu'elle est devenue définitive, cette ordonnance couvre, s'il en existe, les
-vices de la procédure.
+Toutefois, si l'audience sur le fond ne peut se tenir avant l'expiration de ce
+délai, le tribunal peut, à titre exceptionnel, par une décision mentionnant les
+raisons de fait ou de droit faisant obstacle au jugement de l'affaire, ordonner
+la prolongation de la détention pour une nouvelle durée de deux mois. La
+comparution personnelle du prévenu est de droit si lui-même ou son avocat en
+font la demande. Cette décision peut être renouvelée une fois dans les mêmes
+formes. Si le prévenu n'a toujours pas été jugé à l'issue de cette nouvelle
+prolongation, il est remis immédiatement en liberté.
+
+Lorsqu'elle est devenue définitive, l'ordonnance mentionnée au premier alinéa
+couvre, s'il en existe, les vices de la procédure.

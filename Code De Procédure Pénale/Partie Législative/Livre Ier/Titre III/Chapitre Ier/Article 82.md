@@ -3,10 +3,11 @@ Article 82
 Dans son réquisitoire introductif, et à toute époque de l'information par
 réquisitoire supplétif, le procureur de la République peut requérir du magistrat
 instructeur tous actes lui paraissant utiles à la manifestation de la vérité et
-toutes mesures de sûreté nécessaires.
+toutes mesures de sûreté nécessaires. Il peut également demander à assister à
+l'accomplissement des actes qu'il requiert.
 
 Il peut, à cette fin, se faire communiquer la procédure, à charge de la rendre
-dans les vingt-quatre heures [*délai*].
+dans les vingt-quatre heures.
 
 S'il requiert le placement ou le maintien en détention provisoire de la personne
 mise en examen, ses réquisitions doivent être écrites et motivées par référence
@@ -17,4 +18,4 @@ République, il doit, sauf dans les cas prévus par le second alinéa de l'artic
 137, rendre une ordonnance motivée dans les cinq jours de ces réquisitions.
 
 A défaut d'ordonnance du juge d'instruction, le procureur de la République peut,
-dans les dix jours, saisir directement la chambre d'accusation.
+dans les dix jours, saisir directement la chambre de l'instruction.

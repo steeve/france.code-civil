@@ -12,5 +12,5 @@ Le juge d'instruction statue par la même ordonnance sur la restitution des
 objets placés sous main de justice. Il peut refuser la restitution lorsque
 celle-ci présente un danger pour les personnes ou les biens. La décision
 relative à la restitution peut être déférée, par tout personne qui y a intérêt,
-à la chambre d'accusation dans les conditions et selon les modalités prévues par
-l'article 99.
+à la chambre de l'instruction dans les conditions et selon les modalités prévues
+par l'article 99.
