@@ -1,10 +1,10 @@
 Article 17
 ----
-La commission communale peut dans les conditions prévues à l'article 26, décider
-la création, la modification du tracé ou la suppression des chemins ruraux.
+La commission communale ou intercommunale peut établir les projets de
+réalisation de certains des travaux énumérés à l'article 25 du présent code.
 
-Dans le cas de chemins inscrits sur le plan départemental des itinéraires de
-promenade et de randonnée, leur suppression ne peut intervenir que dans les
-conditions prévues à l'article 56 de la loi n° 83-663 du 22 juillet 1983
-complétant la loi n° 83-8 du 7 janvier 1983 relative à la répartition de
-compétences entre les communes, les départements, les régions et l'Etat.
+La commission communale ou intercommunale peut proposer au représentant de
+l'Etat dans le département la constitution d'une ou plusieurs associations
+foncières chargées d'assurer, après la réalisation des échanges, l'exécution des
+travaux visés au premier alinéa ainsi que la gestion et l'entretien des ouvrages
+issus de ces travaux.

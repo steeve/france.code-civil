@@ -1,15 +1,28 @@
 Article 15
 ----
-La commission communale peut décider que sont incorporées à l'exploitation
-rurale qui les enclave toutes les parcelles enclavées. Si une parcelle aboutit
-sur un chemin et est limitrophe des deux côtés de parcelles appartenant au même
-propriétaire, elle est attribuée à ce propriétaire si la superficie est
-inférieure à celle qui est fixée par la commission comme pouvant être
-normalement exploitée, compte tenu des cultures pratiquées et des moyens normaux
-d'exploitation.
+A l'issue de l'enquête, la commission départementale d'aménagement foncier
+statue, en application de l'article 2-4 du présent code, sur les réclamations
+qui lui sont soumises. En outre, les échanges portant sur les biens appartenant
+aux propriétaires ou aux indivisaires représentés selon les modalités prévues à
+l'article 11 ne peuvent être effectués que sur décision motivée de la
+commission.
 
-L'exploitant qui reçoit la parcelle enclavée ou limitrophe restitue à son
-propriétaire une surface équivalente en qualité de la parcelle incorporée avec
-paiement d'une soulte, s'il y a lieu, sinon le propriétaire dépossédé est
-dédommagé par le versement d'une somme fixée par la commission communale et
-représentant la valeur vénale de la propriété.
+Lorsque des réclamations portant sur la valeur vénale des terrains émanent de
+propriétaires n'ayant pas donné l'accord exprès prévu au dernier alinéa de
+l'article 13 et qu'il n'est pas possible d'établir l'égalité de valeur sans
+bouleverser le plan des échanges accepté, la commission, si elle décide de
+procéder aux échanges, prévoit, au besoin après expertise, le paiement d'une
+soulte pour rétablir l'égalité. Les soultes sont supportées par les
+propriétaires bénéficiaires des échanges.
+
+Après avoir statué sur les réclamations dont elle a été saisie, la commission
+départementale consulte les propriétaires intéressés par les modifications
+apportées au projet établi par la commission communale, ainsi que les soultes
+ci-dessus mentionnées. S'il apparaît alors que des oppositions au projet
+d'échanges, ainsi établi, émanent de moins de la moitié des propriétaires
+intéressés représentant moins du quart de la superficie soumise à échanges, la
+commission départementale d'aménagement foncier peut décider que les échanges
+contestés seront, en totalité ou en partie, obligatoirement réalisés, sauf s'ils
+concernent des terrains mentionnés aux 1° à 5° de l'article 20 du présent code,
+ainsi que les dépendances indispensables et immédiates mentionnées au premier
+alinéa dudit article.
