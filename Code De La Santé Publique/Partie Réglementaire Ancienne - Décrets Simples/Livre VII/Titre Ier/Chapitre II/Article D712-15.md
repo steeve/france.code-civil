@@ -9,20 +9,17 @@ qui sont énumérés ci-après :
 
 1° Appareil de circulation sanguine extra-corporelle ;
 
-2° Appareil accélérateur de particules et appareil contenant des sources
-scellées de radioéléments d'activité minimale supérieure à 500 curies, et
-émettant un rayonnement d'énergie supérieur à 500 KeV ;
+2° (Paragraphe abrogé)
 
 3° Cyclotron à utilisation médicale ;
 
-4° Appareils de diagnostic suivants, utilisant l'émission de radioéléments
-artificiels : caméra à scintillation, tomographe à émissions, caméra à positrons
-;
+4° Appareils de diagnostic suivants, utilisant l'émission de radioélements
+artificiels : caméra à scintillation munie de détecteur d'émission de positons
+en coïncidence, tomographe à émissions, caméra à positons ;
 
-5° Appareil d'imagerie ou de spectrométrie par résonance magnétique nucléaire à
-utilisation clinique ;
+5° (Paragraphe abrogé)
 
-6° Appareil de destruction transpariétale des calculs.
+6° (Paragraphe abrogé)
 
 II. - Pour celles des activités de soins définies à l'article L. 712-2 (2°, b)
 qui sont énumérées ci-après :
@@ -35,10 +32,8 @@ qui sont énumérées ci-après :
 
 4° Neurochirurgie ;
 
-5° Utilisation diagnostique et thérapeutique de radioéléments en sources non
-scellées ;
+5° (Paragraphe abrogé)
 
-6° Traitement des affections cancéreuses par rayonnements ionisants de haute
-énergie ;
+6° (Paragraphe abrogé)
 
 7° Activités de procréation médicalement assistée et diagnostic prénatal.
