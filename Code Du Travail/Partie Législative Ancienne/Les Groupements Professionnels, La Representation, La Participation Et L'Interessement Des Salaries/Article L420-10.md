@@ -1,10 +1,11 @@
 Article L420-10
 ----
-Dans les entreprises de travail temporaire, les conditions d'ancienneté prévues
-aux articles L. 420-8 et L. 420-9 sont appréciées, en ce qui concerne les
-travailleurs temporaires, en totalisant les périodes pendant lesquelles ces
-salariés ont été liés à ces entreprises par un contrat de travail temporaire
-soit au cours des douze mois précédant l'élection s'il s'agit de l'électorat,
-soit au cours des dix-huit mois précédant l'élection s'il s'agit de
-l'éligibilité, ce délai étant réduit à six mois dans le cas de création
-d'entreprises ou d'ouverture d'établissement.
+Dans les entreprises de travail temporaire les conditions d'ancienneté prévues
+aux articles L. 420-8 et L. 420-9 sont fixées pour les salariés temporaires, à
+trois mois en ce qui concerne l'électorat et six mois en ce qui concerne
+l'éligibilité. Ces conditions sont appréciées en totalisant les périodes pendant
+lesquelles ces salariés ont été liés à ces entreprises par des contrats de
+travail temporaire au cours des douze mois ou des dix-huit mois précédant
+l'élection, selon qu'il s'agit d'électorat ou d'éligibilité, ce délai étant
+réduit à six mois dans le cas de création d'entreprise ou d'ouverture
+d'établissement.
