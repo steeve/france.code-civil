@@ -9,6 +9,5 @@ victimes salariées ou de leurs ayants droit est remboursée au fonds commun, en
 application de l'article 1153, par la caisse centrale de secours mutuels
 agricoles suivant des modalités fixées par décret.
 
-A partir de cette même date, le fonds commun sera également alimenté par les
-contributions prévues à l'article 1622 du code général des impôts, perçues sur
-les contrats mentionnés à l'article 1234-19.
+Le fonds commun est également alimenté par les contributions prévues aux
+articles 1622 et 1624 bis du code général des impôts.

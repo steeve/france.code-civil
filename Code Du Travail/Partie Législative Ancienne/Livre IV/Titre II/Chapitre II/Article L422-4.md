@@ -11,8 +11,8 @@ entre les délégués du personnel et l'employeur suivant la demande. Il est
 
 S'ils n'ont pu obtenir de réponse suffisante de l'employeur ou si celle-ci
 révèle le caractère préoccupant de la situation économique de l'entreprise [*en
-difficulté*], les délégués du personnel, après avoir pris l'avis de
-l'expert-comptable du comité d'entreprise mentionné à l'article L. 434-6 et du
+difficulté*], les délégués du personnel, après avoir pris l'avis d'un
+expert-comptable dans les conditions prévues à l'article L. 434-6 et du
 commissaire aux comptes, s'il en existe un, peuvent :
 
 1° Dans les sociétés à conseil d'administration ou à conseil de surveillance

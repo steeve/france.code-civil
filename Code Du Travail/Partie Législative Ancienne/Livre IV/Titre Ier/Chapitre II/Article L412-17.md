@@ -1,9 +1,10 @@
 Article L412-17
 ----
-Dans les entreprises de moins de trois cents salariés [*condition d'effectif*],
-le délégué est, de droit, représentant syndical au comité d'entreprise ou
-d'établissement. Le délégué syndical est, à ce titre, destinataire des
-informations fournies au comité d'entreprise.
+Dans les entreprises de moins de trois cents salariés [*condition d'effectif*]
+et dans les établissements appartenant à ces entreprises, le délégué syndical
+est, de droit, représentant syndical au comité d'entreprise ou d'établissement.
+Le délégué syndical est, à ce titre, destinataire des informations fournies au
+comité d'entreprise ou d'établissement.
 
 Les dispositions du précédent alinéa sont applicables à l'échéance normale de
 renouvellement du comité d'entreprise ou d'établissement.

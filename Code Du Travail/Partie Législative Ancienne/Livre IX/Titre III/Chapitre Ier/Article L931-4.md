@@ -8,3 +8,8 @@ demandées dépasse 2 p. 100 du nombre total des heures effectuées dans l'anné
 Toutefois, le nombre d'heures de congé auxquelles les salariés de ces
 établissements ont droit pourra être reporté sur demande d'une année sur l'autre
 sans que ce cumul puisse dépasser quatre ans.
+
+En outre, dans les entreprises artisanales de moins de dix salariés, la
+satisfaction accordée à la demande de congé peut être différée lorsqu'elle
+aboutirait à l'absence simultanée, au titre du congé de formation, d'au moins
+deux salariés de l'entreprise.

@@ -24,3 +24,9 @@ aura été donné par les instances d'orientation mises en place en application 
 l'ordonnance n° 82-273 du 26 mars 1982 et à la condition qu'il n'existe pas pour
 ces jeunes de possibilité de qualification par la voie de l'apprentissage
 [*alinéa ajouté par la loi 575*].
+
+Les dispositions du premier alinéa de l'article L. 122-3-12 ne sont pas
+applicables au contrat de qualification.
+
+Les dispositions de l'article L. 122-3-11, premier alinéa, du présent code, ne
+s'appliquent pas au contrat de qualification.

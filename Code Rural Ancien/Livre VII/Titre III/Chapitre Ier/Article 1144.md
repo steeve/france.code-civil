@@ -36,7 +36,15 @@ brut de sciage ;
 4° Les salariés des artisans ruraux n'employant pas plus de deux ouvriers de
 façon permanente ;
 
-5° Les salariés des entreprises de battage et de travaux agricoles ;
+5° Les salariés des entreprises de travaux agricoles.
+
+Sont considérés comme travaux agricoles :
+
+- les travaux qui entrent dans le cycle de la production animale ou végétale,
+les travaux d'amélioration foncière agricole ainsi que les travaux accessoires
+nécessaires à l'exécution des travaux précèdents ;
+
+- les travaux de création, restauration et entretien des parcs et jardins ;
 
 6° Les gardes-chasse, gardes-pêche, gardes forestiers, jardiniers, jardiniers
 gardes de propriété et, de manière générale, toute personne qui, n'ayant pas la

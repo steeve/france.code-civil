@@ -5,10 +5,9 @@ qui doit être versé par chaque médecin au conseil départemental ; il déterm
 également la quotité de cette cotisation qui doit être versée par le conseil
 départemental au conseil régional dont il relève et au conseil national.
 
-Les cotisations sont obligatoires, sous peine de sanction disciplinaire
-prononcée par le conseil régional.
+Les cotisations sont obligatoires.
 
-Le conseil national [*mission*] gère les biens de l'ordre et peut créer ou
+Le conseil national [*mission*] gère les biens de l'Ordre et peut créer ou
 subventionner des oeuvres intéressant la profession médicale ainsi que les
 oeuvres d'entraide.
 

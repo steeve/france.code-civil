@@ -47,5 +47,13 @@ commission nationale vétérinaire et dont le résultat a été reconnu positif 
 un laboratoire agréé par le ministère de l'agriculture et du développement
 rural.
 
+La leucose enzootique.
+
+Sont considérés comme atteints de leucose enzootique et peuvent donner lieu à
+rédhibition les animaux qui ont fait l'objet d'une recherche de la maladie par
+des épreuves effectuées selon des procédés et des critères approuvés par la
+commission nationale vétérinaire et dont le résultat a été reconnu positif par
+un laboratoire agréé par le ministère de l'agriculture.
+
 Aucune action en garantie ne saurait être introduite si l'acheteur a libéré par
 écrit, au moment de la vente de l'animal, le vendeur de toute garantie.

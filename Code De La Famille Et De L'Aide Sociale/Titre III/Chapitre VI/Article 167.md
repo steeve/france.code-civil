@@ -12,7 +12,7 @@ sociale.
 Un même établissement peut comporter une section d'atelier protégé ou de
 distribution de travail à domicile et une section d'aide par le travail.
 Nonobstant les dispositions prévues au dernier alinéa de l'article L. 323-32 du
-Code du travail, des équipes de personnes handicapées bénéficiant d'une
-admission dans un centre ou une section d'aide par le travail peuvent être
-autorisées à exercer une activité à l'extérieur de l'établissement auquel elles
-demeurent rattachées suivant des modalités qui seront précisées par décret.
+code du travail, des personnes handicapées bénéficiant d'une admission dans un
+centre ou une section d'aide par le travail peuvent être autorisées à exercer
+une activité à l'extérieur de l'établissement auquel elles demeurent rattachées
+suivant des modalités qui seront précisées par décret.
