@@ -1,11 +1,13 @@
 Article A331-20
 ----
-En cas d'amortissement des titres consignés, la Caisse des dépôts et
-consignations procède d'office au remploi en titres de même type. Si ce remploi
-produit une rente inférieure à celle des titres amortis, l'entreprise
-d'assurance doit combler immédiatement la différence par un dépôt
-complémentaire.
+Lorsqu'un traité ou tout engagement de la cédante, quelle qu'en soit la forme,
+prévoit un ajustement rétroactif des primes en fonction de la sinistralité
+constatée ou de tout autre élément de résultat du traité ou d'un autre traité,
+la part du réassureur concerné dans les provisions pour risques en cours est
+diminuée du montant total des compléments de prime qui, compte tenu de la
+sinistralité constatée, seront dus en application de cet engagement.
 
-Les titres consignés ne peuvent être retirés qu'après autorisation du ministre
-de l'économie et des finances, sur justification de la constitution régulière de
-la rente ou de la libération complète de l'entreprise débitrice.
+Lorsque l'application des dispositions du précédent alinéa conduit à une valeur
+négative de la part du réassureur dans les provisions pour risques en cours,
+cette part est inscrite pour une valeur nulle, et la cédante constate, selon le
+cas, une provision pour charges ou une dette à l'égard du réassureur.

@@ -8,5 +8,4 @@ interministériel et qui comprend notamment les programmes de formation projeté
 
 Cette demande est soumise pour avis aux organismes d'assurance maladie
 intéressés, au comité régional de la formation professionnelle, de la promotion
-sociale et de l'emploi et au conseil régional ; elle est ensuite transmise au
-ministre chargé de l'emploi.
+sociale et de l'emploi et au conseil régional.

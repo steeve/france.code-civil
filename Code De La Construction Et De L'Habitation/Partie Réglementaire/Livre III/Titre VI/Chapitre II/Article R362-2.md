@@ -1,7 +1,7 @@
 Article R362-2
 ----
 Le conseil départemental de l'habitat, dans les conditions fixées aux articles
-R. 362-3 à R. 362-8, a vocation à émettre un avis
+R. 362-3 à R. 362-8, a vocation à émettre un avis:
 
 a) Sur la satisfaction des besoins en logements des différentes catégories de
 population ;
@@ -23,13 +23,13 @@ logement sont mises en oeuvre dans le département ;
 
 g) Sur toute création, dissolution ou modification de compétences des organismes
 d'habitations à loyer modéré exerçant ou demandant à être autorisés à exercer
-leur activité dans le département.
+leur activité dans le département;
 
 h) Sur les programmes locaux de l'habitat et leur réalisation.
 
-Il exerce la compétence prévue à l'article L. 351-14 du code de la construction
-et de l'habitation en matière d'aide personnalisée au logement dans les
-conditions fixées à l'article R. 362-7. La commission spécialisée des rapports
-locatifs créée par l'article 41 bis de la loi du 23 décembre 1986 modifiée
-exerce les compétences prévues par l'article 41 ter de la même loi dans les
-conditions définies par l'article R. 362-20.
+La section des aides publiques au logement du conseil départemental de l'habitat
+exerce les compétences prévues à l'article R. 351-47.
+
+La commission spécialisée des rapports locatifs créée par l'article 41 bis de la
+loi du 23 décembre 1986 modifiée exerce les compétences prévues par l'article 41
+ter de la même loi dans les conditions définies par l'article R. 362-20.

@@ -1,9 +1,9 @@
 Article R*351-48
 ----
-" La section des aides publiques au logement du conseil départemental de
-l'habitat est présidée par le commissaire de la République.
+La section des aides publiques au logement du conseil départemental de l'habitat
+est présidée par le préfet ou son représentant.
 
-" Elle est composée du trésorier-payeur général, du directeur départemental de
+Elle est composée du trésorier-payeur général, du directeur départemental de
 l'équipement, du chef du service régional du travail, de l'emploi et de la
 politique sociale agricoles compétent, du directeur régional des affaires
 sanitaires et sociales compétent, du directeur départemental des affaires
@@ -13,4 +13,4 @@ la caisse de mutualité sociale agricole compétente ou de leurs représentants
 respectifs, de deux représentants des usagers désignés par le préfet sur
 proposition des organisations les plus représentatives au niveau du département,
 d'un représentant désigné par le conseil général et d'un représentant de l'union
-départementale des associations familiales. "
+départementale des associations familiales.
