@@ -6,9 +6,8 @@ l'établissement et de ceux mis à sa disposition par une entreprise extérieure
 compris les travailleurs temporaires, ainsi qu'à l'amélioration des conditions
 de travail, notamment en vue de faciliter l'accès des femmes à tous les emplois
 et de répondre aux problèmes liés à la maternité. Il a également pour mission de
-veiller à l'observation des prescriptions législatives et
-
-réglementaires prises en ces matières.
+veiller à l'observation des prescriptions législatives et réglementaires prises
+en ces matières.
 
 Le comité procède à l'analyse des risques professionnels auxquels peuvent être
 exposés les salariés de l'établissement ainsi qu'à l'analyse des conditions de
@@ -28,23 +27,31 @@ l'employeur s'y refuse, il doit motiver sa décision.
 Le comité donne son avis sur les documents se rattachant à sa mission, notamment
 sur le règlement intérieur.
 
+Le comité peut proposer des actions de prévention en matière de harcèlement
+sexuel.
+
 Le comité est consulté avant toute décision d'aménagement important modifiant
 les conditions d'hygiène et de sécurité ou les conditions de travail et,
 notamment, avant toute transformation importante des postes de travail découlant
 de la modification de l'outillage, d'un changement de produit ou de
 l'organisation du travail, avant toute modification des cadences et des normes
-de productivité liées ou non à la rémunération du travail.
+de productivité liées ou non à la rémunération du travail. Dans les entreprises
+dépourvues de comité d'hygiène, de sécurité et des conditions de travail, les
+délégués du personnel et, dans les entreprises dépourvues de délégué du
+personnel, les salariés sont obligatoirement consultés par l'employeur sur les
+matières mentionnées au c du III de l'article L. 230-2.
 
 Le comité est consulté sur le plan d'adaptation prévu au second alinéa de
-l'article L. 432-2 du même code. Dans les établissements comportant une ou
-plusieurs installations soumises à autorisation au titre de l'article 3 de la
-loi n° 76-663 du 19 juillet 1976 relative aux installations classées pour la
-protection de l'environnement, le comité est consulté par le chef
-d'établissement sur les documents établis à l'intention des autorités publiques
-chargées de la protection de l'environnement et il est informé des prescriptions
-imposées par ces m^emes autorités. La liste des documents qui doivent lui ^etre
-soumis pour avis ou portés à sa connaissance est établie dans les conditions
-fixées par l'article L. 236-12.
+l'article L. 432-2 du même code.
+
+Dans les établissements comportant une ou plusieurs installations soumises à
+autorisation au titre de l'article 3 de la loi n° 76-663 du 19 juillet 1976
+relative aux installations classées pour la protection de l'environnement, le
+comité est consulté par le chef d'établissement sur les documents établis à
+l'intention des autorités publiques chargées de la protection de l'environnement
+et il est informé des prescriptions imposées par ces mêmes autorités. La liste
+des documents qui doivent lui être soumis pour avis ou portés à sa connaissance
+est établie dans les conditions fixées par l'article L. 236-12.
 
 Le comité est consulté sur les mesures prises en vue de faciliter la mise, la
 remise ou le maintien au travail des accidentés du travail, des invalides de
