@@ -1,20 +1,19 @@
 Article L123-2
 ----
-Dans les zones à protéger en raison de la qualité de leurs paysages dont la
-définition est fixée par les décrets prévus à l'article L. 125-1, les plans
-d'occupation des sols peuvent déterminer les conditions dans lesquelles les
-possibilités de construction résultant du coefficient d'occupation du sol fixé
-pour l'ensemble de la zone pourront, être transférées en vue de favoriser un
-regroupement des constructions sur d'autres terrains situés dans un ou plusieurs
-secteurs de la même zone.
+Dans les zones urbaines, le plan local d'urbanisme peut instituer des servitudes
+consistant :
 
-Dans ces secteurs, les constructions ne sont autorisées qu'après de tels
-transferts, les possibilités de construire propres aux terrains situés dans ces
-secteurs s'ajoutant alors aux possibilités transférées ; la densité maximum de
-construction desdits secteurs est fixée par le plan.
+a) A interdire, sous réserve d'une justification particulière, dans un périmètre
+qu'il délimite et pour une durée au plus de cinq ans dans l'attente de
+l'approbation par la commune d'un projet d'aménagement global, les constructions
+ou installations d'une superficie supérieure à un seuil défini par le règlement
+; les travaux ayant pour objet l'adaptation, la réfection ou l'extension limitée
+des constructions existantes sont toutefois autorisés ;
 
-En cas de transfert, la totalité du terrain dont les possibilités de
-construction sont transférées est frappée de plein droit d'une servitude
-administrative d'interdiction de construire constatée par un acte authentique
-publié au bureau des hypothèques. Cette servitude ne peut être levée que par
-décret pris sur avis conforme du conseil d'Etat.
+b) A réserver des emplacements en vue de la réalisation, dans le respect des
+objectifs de mixité sociale, de programmes de logements qu'il définit ;
+
+c) A indiquer la localisation prévue et les caractéristiques des voies et
+ouvrages publics, ainsi que les installations d'intérêt général et les espaces
+verts à créer ou à modifier, en délimitant les terrains qui peuvent être
+concernés par ces équipements.

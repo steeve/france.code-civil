@@ -1,20 +1,18 @@
 Article L123-8
 ----
-La déclaration d'utilité publique d'une opération qui n'est pas compatible avec
-les dispositions d'un plan d'occupation des sols rendu public ou approuvé ne
-peut intervenir que si :
+Le président du conseil régional, le président du conseil général, et, le cas
+échéant, le président de l'établissement public prévu à l'article L. 122-4, le
+président de l'autorité compétente en matière d'organisation des transports
+urbains, le président de la communauté ou du syndicat d'agglomération nouvelle
+ainsi que ceux des organismes mentionnés à l'article L. 121-4 ou leurs
+représentants sont consultés à leur demande au cours de l'élaboration du projet
+de plan local d'urbanisme.
 
-- l'enquête publique concernant cette opération, ouverte par le représentant de
-l'Etat dans le département, a porté à la fois sur l'utilité publique de
-l'opération et sur la mise en compatibilité du plan qui en est la conséquence ;
+Il en est de même des présidents des établissements publics de coopération
+intercommunale voisins compétents et des maires des communes voisines ou de
+leurs représentants.
 
-- l'acte déclaratif d'utilité publique est pris après que les dispositions
-proposées par l'Etat pour assurer la mise en compatibilité du plan ont fait
-l'objet d'un examen conjoint de l'Etat, de la commune ou de l'établissement
-public de coopération intercommunale, de la région, du département et des
-organismes mentionnés aux articles L. 121-6 et L. 121-7, et après avis du
-conseil municipal ou de l'organe délibérant de l'établissement public compétent
-en la matière.
-
-La déclaration d'utilité publique emporte approbation des nouvelles dispositions
-du plan.
+Le maire peut recueillir l'avis de tout organisme ou association compétents en
+matière d'aménagement du territoire, d'urbanisme, d'environnement,
+d'architecture et d'habitat et de déplacements, y compris des collectivités
+territoriales des Etats limitrophes.

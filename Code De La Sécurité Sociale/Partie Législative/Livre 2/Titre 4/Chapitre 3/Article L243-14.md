@@ -1,9 +1,9 @@
 Article L243-14
 ----
 I. - Les entreprises ou les établissements d'une même entreprise, redevables de
-cotisations, contributions et taxes d'un montant supérieur à 6 millions de
-francs au titre d'une année civile, sont tenus de régler par virement ou, en
-accord avec leur organisme de recouvrement, par tout autre moyen de paiement
+cotisations, contributions et taxes d'un montant supérieur à 1 million de francs
+au titre d'une année civile, sont tenus de régler par virement ou, en accord
+avec leur organisme de recouvrement, par tout autre moyen de paiement
 dématérialisé, les sommes dont ils sont redevables l'année suivante sur le
 compte spécial d'encaissement de l'organisme de recouvrement dont ils relèvent.
 
