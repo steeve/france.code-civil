@@ -5,6 +5,6 @@ report spécial d'incorporation sont appelés au service actif avec la première
 fraction de contingent incorporée après la date d'expiration de ce report.
 
 Toutefois, ils peuvent renoncer avant terme au bénéfice du report en notifiant
-leur renonciation à leur bureau du service national deux mois au moins avant la
-date d'appel de la fraction de contingent avec laquelle ils souhaitent ^etre
+leur renonciation à leur bureau du service national trois mois au moins avant la
+date d'appel de la fraction de contingent avec laquelle ils souhaitent être
 incorporés.
