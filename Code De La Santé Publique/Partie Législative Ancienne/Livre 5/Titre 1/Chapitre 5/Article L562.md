@@ -1,31 +1,20 @@
 Article L562
 ----
-Sous réserve des dispositions de l'article L. 567-9, les inspecteurs de la
-pharmacie contrôlent l'application des lois et règlements relatifs à la
-pharmacie :
+Les pharmaciens inspecteurs de santé publique, agissant conformément aux
+dispositions des II et III de l'article L. 795-1 peuvent, dans l'attente des
+résultats d'analyse des échantillons prélevés ou de la communication des
+documents demandés, consigner les produits présentant ou susceptibles de
+présenter un danger pour la santé humaine. Ceux-ci sont inventoriés et laissés à
+la garde du détenteur. Ces opérations font l'objet d'un rapport dont une copie
+est remise au détenteur et vaut notification de la décision de consignation.
 
-a) Dans les établissements fabriquant, important ou exportant des objets de
-pansements ou tous articles présentés comme conformes à la pharmacopée ;
+La mesure de consignation ne peut excéder quinze jours que sur autorisation du
+président du tribunal de grande instance ou du juge délégué par lui, saisi sur
+requête par les pharmaciens inspecteurs de santé publique. La demande comporte
+tous les éléments d'information de nature à justifier la prorogation de la
+consignation. Le président du tribunal de grande instance ou le juge délégué par
+lui statue sur cette demande dans les vingt-quatre heures. Il peut ordonner la
+consignation jusqu'à la production des résultats d'analyse ou des documents.
 
-b) Dans les établissements distribuant en gros des médicaments à usage humain,
-des objets et produits mentionnés à l'article L. 512 ;
-
-c) Dans les établissements distribuant en gros des matières premières à usage
-pharmaceutique ;
-
-d) Dans les établissements distribuant au détail ou délivrant au public les
-médicaments, objets ou produits mentionnés à l'article L. 512 ;
-
-e) Dans les établissements de santé ;
-
-f) Dans les dépôts de médicaments, en quelques mains qu'ils soient ;
-
-g) Dans les établissements ou organismes autorisés en application du troisième
-alinéa de l'article L. 676-2 et de l'article L. 676-6.
-
-Dans les établissements mentionnés à l'article L. 617-21, les inspecteurs de la
-pharmacie participent au contrôle de l'application des dispositions du chapitre
-III du titre II du présent livre.
-
-Dans les laboratoires d'analyses de biologie médicale, ils participent au
-contrôle des dispositions du chapitre Ier du titre III du livre VII.
+Le président du tribunal de grande instance ou le juge délégué par lui peut, à
+tout moment, ordonner la mainlevée de la mesure de consignation.

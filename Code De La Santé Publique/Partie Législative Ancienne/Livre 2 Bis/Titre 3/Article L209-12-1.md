@@ -7,5 +7,7 @@ par l'investigateur pendant le déroulement de celle-ci.
 
 A la suite de cette transmission, le comité peut maintenir ou modifier son avis.
 Cette décision est transmise par écrit à l'investigateur dans un délai de cinq
-semaines ; elle est adressée par le promoteur à l'autorité administrative
-compétente dans un délai d'une semaine après sa réception.
+semaines ; elle est adressée par le promoteur à l'Agence française de sécurité
+sanitaire des produits de santé pour les produits mentionnés à l'article L.
+793-1 ou au ministre chargé de la santé dans les autres cas dans un délai d'une
+semaine après sa réception.

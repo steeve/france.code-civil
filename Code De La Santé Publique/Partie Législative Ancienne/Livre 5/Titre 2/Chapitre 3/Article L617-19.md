@@ -1,6 +1,7 @@
 Article L617-19
 ----
-Des décrets fixent les autres modalités d'application du présent chapitre.
+Des décrets pris après avis de l'Agence française de sécurité sanitaire des
+aliments fixent les autres modalités d'application du présent chapitre.
 
 Des dérogations aux dispositions du présent chapitre peuvent être accordées par
 arrêté conjoint du ministre chargé de l'agriculture et du ministre chargé de la

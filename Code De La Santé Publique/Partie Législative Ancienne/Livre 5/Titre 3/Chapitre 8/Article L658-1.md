@@ -1,9 +1,9 @@
 Article L658-1
 ----
-Sont comprises, pour l'application du présent chapitre, comme produits
-cosmétiques et produits d'hygiène corporelle [*définition*], toutes les
-substances ou préparations autres que les médicaments destinées à être mises en
-contact avec les diverses parties superficielles du corps humain ou avec les
-dents et les muqueuses, en vue de les nettoyer, de les protéger, de les
-maintenir en bon état, d'en modifier l'aspect, de les parfumer ou d'en corriger
-l'odeur.
+On entend par produit cosmétique toute substance ou préparation destinée à être
+mise en contact avec les diverses parties superficielles du corps humain,
+notamment l'épiderme, les systèmes pileux et capillaire, les ongles, les lèvres
+et les organes génitaux externes, ou avec les dents et les muqueuses buccales,
+en vue, exclusivement ou principalement, de les nettoyer, de les parfumer, d'en
+modifier l'aspect, de les protéger, de les maintenir en bon état ou de corriger
+les odeurs corporelles.

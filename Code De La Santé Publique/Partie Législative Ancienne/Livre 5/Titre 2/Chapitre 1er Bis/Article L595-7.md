@@ -24,3 +24,12 @@ gros, dans les meilleures conditions financières, des médicaments non
 disponibles par ailleurs aux organisations à but non lucratif et à vocation
 humanitaire, agréées par l'autorité administrative, ainsi qu'à l'Etat pour
 l'exercice de ses missions humanitaires.
+
+Pour des raisons de santé publique et à titre exceptionnel, le ministre chargé
+de la santé peut autoriser, par arrêté pris sur proposition de l'Agence
+française de sécurité sanitaire des produits de santé, la pharmacie à usage
+intérieur d'un établissement de santé réalisant pour son compte des préparations
+hospitalières, telles que définies à l'article L. 511-1, ou l'établissement
+pharmaceutique créé en son sein et autorisé, en application de la loi mentionnée
+audit article, à délivrer ces préparations à d'autres pharmacies à usage
+intérieur d'établissements de santé nommément désignés.

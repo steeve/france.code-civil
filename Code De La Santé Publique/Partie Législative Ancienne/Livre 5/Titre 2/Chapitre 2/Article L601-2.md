@@ -16,14 +16,15 @@ des connaissances scientifiques et qu'ils sont susceptibles de présenter un
 bénéfice réel.
 
 L'utilisation de ces médicaments est autorisée, pour une durée limitée, par
-l'Agence du médicament, à la demande du titulaire des droits d'exploitation du
-médicament dans le cas prévu au a ou à la demande du médecin traitant dans le
-cas prévu au b du présent article.
+l'Agence française de sécurité sanitaire des produits de santé, à la demande du
+titulaire des droits d'exploitation du médicament dans le cas prévu au a ou à la
+demande du médecin traitant dans le cas prévu au b du présent article.
 
 Pour les médicaments mentionnés au a, l'autorisation peut être subordonnée par
-l'Agence du médicament à la condition qu'elle soit sollicitée dans le cadre d'un
-protocole d'utilisation thérapeutique et de recueil d'informations, établi avec
-le titulaire des droits d'exploitation.
+l'Agence française de sécurité sanitaire des produits de santé à la condition
+qu'elle soit sollicitée dans le cadre d'un protocole d'utilisation thérapeutique
+et de recueil d'informations, établi avec le titulaire des droits
+d'exploitation.
 
 L'autorisation peut être suspendue ou retirée si les conditions prévues au
 présent article ne sont plus remplies, ou pour des motifs de santé publique.

@@ -17,9 +17,10 @@ allopathique entraîne l'obligation de présenter une prescription médicale.
 
 Toutefois, ces médicaments homéopathiques doivent faire l'objet, avant leur
 commercialisation ou leur distribution à titre gratuit ou onéreux, en gros ou au
-détail, d'un enregistrement auprès de l'Agence du médicament. Cet enregistrement
-peut être refusé, suspendu ou supprimé si les conditions prévues au présent
-article ne sont pas remplies ou en cas de danger pour la santé publique.
+détail, d'un enregistrement auprès de l'Agence française de sécurité sanitaire
+des produits de santé. Cet enregistrement peut être refusé, suspendu ou supprimé
+si les conditions prévues au présent article ne sont pas remplies ou en cas de
+danger pour la santé publique.
 
 L'enregistrement précise la classification en matière de délivrance du
 médicament.

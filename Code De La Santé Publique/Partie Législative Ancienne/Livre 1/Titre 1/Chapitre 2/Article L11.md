@@ -1,7 +1,17 @@
 Article L11
 ----
-La liste des maladies auxquelles sont applicables les dispositions du présent
-paragraphe concernant la déclaration des maladies contagieuses est dressée par
-décret pris sur le rapport du ministre de la Santé publique et de la Population,
-après avis de l'Académie nationale de médecine et du Conseil supérieur d'hygiène
-publique de France. Elle peut être révisée dans la même forme.
+Font l'objet d'une transmission obligatoire de données individuelles à
+l'autorité sanitaire par les médecins et les responsables des services et
+laboratoires d'analyse de biologie médicale publics et privés :
+
+1° Les maladies qui nécessitent une intervention urgente locale, nationale ou
+internationale ;
+
+2° Les maladies dont la surveillance est nécessaire à la conduite et à
+l'évaluation de la politique de santé publique.
+
+Un décret pris après avis du Conseil supérieur d'hygiène publique de France
+définit la liste des maladies correspondant aux 1° et 2°. Les modalités de la
+transmission des données à l'autorité sanitaire dans les deux cas, en
+particulier la manière dont l'anonymat est protégé, sont fixées par décret en
+Conseil d'Etat.

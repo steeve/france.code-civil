@@ -6,5 +6,4 @@ affections relevant de la pathologie chirurgicale et des dérèglements
 physiologiques, le diagnostic ou la modification de l'état physique ou
 physiologique, la restauration, la correction ou la modification des fonctions
 organiques est soumise aux dispositions des articles L. 551-1 (premier alinéa),
-L. 551-5 et L. 551-6, l'autorité compétente étant, dans ce cas, le ministre
-chargé de la santé.
+L. 551-5 et L. 551-6.

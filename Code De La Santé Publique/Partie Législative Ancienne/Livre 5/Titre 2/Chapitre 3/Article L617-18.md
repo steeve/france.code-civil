@@ -58,3 +58,7 @@ d'outre-mer ;
 
 15° Les conditions d'octroi, de suspension ou de retrait des autorisations
 visées aux deuxième et troisième alinéas de l'article L. 617-1.
+
+A l'exception des cas visés aux 1°, 6° et 14° du présent article, les décrets
+mentionnés au premier alinéa sont pris après avis de l'Agence française de
+sécurité sanitaire des aliments.

@@ -1,5 +1,5 @@
 Article L511-3
 ----
-Les médicaments réactifs mentionnés au 12° de l'article L. 511-1 font l'objet,
-avant leur utilisation, d'une autorisation délivrée par l'Agence du médicament
-dans des conditions définies par décret en Conseil d'Etat.
+La pharmacopée comprend les textes de la pharmacopée européenne et ceux de la
+pharmacopée française. Elle est préparée, rendue obligatoire et publiée dans les
+conditions fixées par décret en Conseil d'Etat.

@@ -12,7 +12,9 @@ conditions contraires aux dispositions des deux premiers alinéas de l'article L
 
 - quiconque aura pratiqué ou fait pratiquer, continué de pratiquer ou de faire
 pratiquer une recherche biomédicale dont la réalisation a été interdite ou
-suspendue par le ministre chargé de la santé [*autorité compétente*].
+suspendue par le ministre chargé de la santé ou par l'Agence française de
+sécurité sanitaire des produits de santé pour les produits mentionnés à
+l'article L. 793-1.
 
 L'investigateur qui réalise une telle recherche en infraction aux dispositions
 de l'article L. 209-18 est puni des mêmes peines.

@@ -7,8 +7,8 @@ contenant des substances actives figurant à l'annexe III du règlement n° 90-2
 limite maximale de résidus provisoire. Au cas où cette période serait prolongée,
 l'autorisation peut être reconduite pour une durée équivalente.
 
-Elle peut être suspendue ou supprimée par l'autorité administrative
-[*compétente*].
+Elle peut être suspendue ou supprimée par l'Agence française de sécurité
+sanitaire des aliments [*compétente*].
 
 L'accomplissement des formalités prévues au présent paragraphe n'a pas pour
 effet d'exonérer le fabricant ou, s'il est distinct, le titulaire de

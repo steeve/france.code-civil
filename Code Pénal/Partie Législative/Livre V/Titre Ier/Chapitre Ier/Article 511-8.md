@@ -5,8 +5,3 @@ cellules et produits humains en vue d'un don sans qu'aient été respectées les
 règles de sécurité sanitaire exigées en application des dispositions de
 l'article L. 665-15 du code de la santé publique est puni de deux ans
 d'emprisonnement et de 200 000 F d'amende.
-
-Est puni des mêmes peines le fait de transformer, d'importer, d'exporter, de
-distribuer, de céder ou d'utiliser des organes, tissus, cellules ou produits du
-corps humain en violation des dispositions prises en application de l'article L.
-665-15-1 du code de la santé publique.

@@ -1,13 +1,5 @@
 Article L658-6
 ----
-Des arrêtés interministériels pris après avis du conseil supérieur d'hygiène
-publique de France et du comité national de la consommation fixent :
-
-1° La liste des agents conservateurs, des bactéricides et des fongicides qui
-peuvent être employés dans les produits cosmétiques ou les produits d'hygiène
-corporelle ;
-
-2° La liste des colorants que peuvent contenir les produits cosmétiques ou les
-produits d'hygiène corporelle destinés à entrer en contact avec les muqueuses ;
-
-3° La liste des substances dont l'usage est prohibé.
+Toute personne ayant accès au dossier et aux informations mentionnés aux
+articles L. 658-4 et L. 658-5 est tenue au secret professionnel dans les
+conditions prévues aux articles 226-13 et 226-14 du code pénal.

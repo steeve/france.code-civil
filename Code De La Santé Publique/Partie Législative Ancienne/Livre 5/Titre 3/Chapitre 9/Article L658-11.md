@@ -3,8 +3,8 @@ Article L658-11
 Les insecticides et les acaricides destinés à être appliqués sur l'homme et les
 produits destinés à l'entretien ou l'application des lentilles de contact
 doivent, avant leur mise sur le marché à titre onéreux ou à titre gratuit, faire
-l'objet d'une autorisation [*obligatoire*] par l'Agence du médicament [*autorité
-compétente*].
+l'objet d'une autorisation [*obligatoire*] par l'Agence française de sécurité
+sanitaire des produits de santé [*autorité compétente*].
 
 Cette autorisation peut être assortie de conditions adéquates ; elle n'est
 accordée que lorsque le fabricant justifie :
@@ -20,7 +20,8 @@ en série.
 Cette autorisation est délivrée pour une durée de cinq ans ; elle est ensuite
 renouvelable par période quinquennale.
 
-Elle peut être suspendue ou supprimée par l'Agence du médicament.
+Elle peut être suspendue ou supprimée par l'Agence française de sécurité
+sanitaire des produits de santé.
 
 L'accomplissement des formalités prévues au présent article n'a pas pour effet
 d'exonérer le fabricant de la responsabilité qu'il peut encourir dans les

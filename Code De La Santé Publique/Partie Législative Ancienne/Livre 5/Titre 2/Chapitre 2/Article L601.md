@@ -6,8 +6,8 @@ pas l'objet d'une autorisation de mise sur le marché délivrée par la Communau
 européenne en application du règlement (CEE) n° 2309/93 du Conseil du 22 juillet
 1993 doit faire l'objet avant sa commercialisation ou sa distribution à titre
 gratuit, en gros ou en détail, d'une autorisation de mise sur le marché délivrée
-par l'Agence du médicament. Cette autorisation peut être assortie de conditions
-adéquates.
+par l'Agence française de sécurité sanitaire des produits de santé. Cette
+autorisation peut être assortie de conditions adéquates.
 
 L'autorisation est refusée lorsqu'il apparaît que le médicament ou le produit
 est nocif dans les conditions normales d'emploi, ou qu'il n'a pas la composition
@@ -30,19 +30,18 @@ raisonnablement être tenu de fournir les renseignements complets ;
 complets ;
 
 - des principes de déontologie médicale interdisent de recueillir ces
-renseignements,
-
-l'autorisation de mise sur le marché peut être délivrée, sous réserve du respect
-d'obligations spécifiques, dans des conditions prévues par décret en Conseil
-d'Etat.
+renseignements, l'autorisation de mise sur le marché peut être délivrée, sous
+réserve du respect d'obligations spécifiques, dans des conditions prévues par
+décret en Conseil d'Etat.
 
 L'autorisation est délivrée pour une durée de cinq ans ; elle est ensuite
 renouvelable par période quinquennale. Toute modification des éléments d'une
-autorisation de mise sur le marché délivrée par l'Agence du médicament, quelle
-que soit son importance, doit être préalablement autorisée.
+autorisation de mise sur le marché délivrée par l'Agence française de sécurité
+sanitaire des produits de santé, quelle que soit son importance, doit être
+préalablement autorisée.
 
-L'autorisation peut être modifiée, suspendue ou retirée par l'Agence du
-médicament.
+L'autorisation peut être modifiée, suspendue ou retirée par l'Agence française
+de sécurité sanitaire des produits de santé.
 
 L'accomplissement des formalités prévues au présent article n'a pas pour effet
 d'exonérer le fabricant ou, s'il est distinct, le titulaire de l'autorisation de

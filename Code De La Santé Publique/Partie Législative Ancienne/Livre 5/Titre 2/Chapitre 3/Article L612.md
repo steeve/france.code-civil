@@ -14,9 +14,10 @@ de l'article L. 617-6 [*organismes compétents*].
 Toutefois, ces groupements peuvent également acheter en gros et détenir ceux des
 médicaments contenant des substances visées à l'article L. 617-6 qui figurent
 sur une liste arrêtée conjointement par le ministre de la santé et le ministre
-de l'agriculture et qui sont nécessaires à la mise en oeuvre des programmes
-sanitaires d'élevage visés au quatrième alinéa du présent article. Ces produits
-sont délivrés aux adhérents du groupement sur présentation d'une ordonnance du
+de l'agriculture sur proposition de l'Agence française de sécurité sanitaire des
+aliments et qui sont nécessaires à la mise en oeuvre des programmes sanitaires
+d'élevage visés au quatrième alinéa du présent article. Ces produits sont
+délivrés aux adhérents du groupement sur présentation d'une ordonnance du
 vétérinaire du groupement, qui revêt la forme d'une prescription détaillée,
 adaptant aux caractéristiques propres de chaque élevage, le programme sanitaire
 agréé.
@@ -34,6 +35,14 @@ commissions visées au précédent alinéa et dont l'exécution est placée sous
 surveillance et la responsabilité effectives d'un docteur vétérinaire visitant
 personnellement et régulièrement l'élevage.
 
+L'agrément est délivré pour une durée de cinq ans. Il est ensuite renouvelable
+par période quinquennale.
+
 Après mise en demeure, cet agrément est suspendu ou retiré par un arrêté du
 ministre de l'agriculture si les conditions ayant motivé son octroi ne sont plus
 satisfaites.
+
+Un délai de six mois à partir de la date de promulgation de la loi n° 98-535 du
+1er juillet 1998 est accordé pour la présentation d'un dossier de renouvellement
+aux groupements qui ont été agréés au titre du présent article depuis plus de
+cinq années à compter de cette même date.

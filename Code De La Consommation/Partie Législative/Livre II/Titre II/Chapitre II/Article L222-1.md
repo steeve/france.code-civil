@@ -16,8 +16,9 @@ recherche et de l'environnement ;
 l'agriculture (service de la qualité alimentaire et des actions vétérinaires et
 service des politiques industrielles agro-alimentaires) ;
 
-5° Les pharmaciens inspecteurs, les médecins inspecteurs du ministère de la
-santé et les agents visés à l'article L. 48 du code de la santé publique ;
+5° Les médecins inspecteurs de santé publique et les pharmaciens inspecteurs de
+santé publique et les agents visés à l'article L. 48 du code de la santé
+publique ;
 
 6° Les inspecteurs du travail ;
 

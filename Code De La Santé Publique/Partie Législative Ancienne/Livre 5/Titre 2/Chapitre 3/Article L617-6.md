@@ -29,7 +29,8 @@ agricoles visés à l'article L. 612, ou détenues ou possédées par ces éleve
 groupements, sauf si elles sont destinées à être employées pour des usages
 agricoles ou phytosanitaires autorisés.
 
-Un décret fixera la liste et les conditions particulières de délivrance des
+Un décret pris après avis de l'Agence française de sécurité sanitaire des
+aliments fixera la liste et les conditions particulières de délivrance des
 substances ou des catégories de substances pouvant être utilisées pour fabriquer
 des médicaments vétérinaires faisant l'objet d'un temps d'attente en application
 de l'article L. 617-2 du présent code [*alinéa rajouté par la loi du 3 décembre

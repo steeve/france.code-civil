@@ -5,11 +5,19 @@ On entend par [*définition*] :
 1° Préparation magistrale, tout médicament préparé extemporanément en pharmacie
 selon une prescription destinée à un malade déterminé ;
 
-2° Préparation hospitalière, tout médicament préparé sur prescription médicale
-et selon les indications de la pharmacopée en raison de l'absence de spécialité
-pharmaceutique disponible ou adaptée, dans la pharmacie à usage intérieur d'un
-établissement de santé et destiné à être dispensé à un ou plusieurs patients
-dans ledit établissement ;
+2° Préparation hospitalière, tout médicament, à l'exception des produits de
+thérapies génique ou cellulaire, préparé selon les indications de la pharmacopée
+et en conformité avec les bonnes pratiques mentionnées à l'article L. 511-2, en
+raison de l'absence de spécialité pharmaceutique disponible ou adaptée dans une
+pharmacie à usage intérieur d'un établissement de santé, ou dans l'établissement
+pharmaceutique de cet établissement de santé autorisé en application de
+l'article 26 de la loi n° 92-1279 du 8 décembre 1992 modifiant le livre V du
+code de la santé publique et relative à la pharmacie et au médicament. Les
+préparations hospitalières sont dispensées sur prescription médicale à un ou
+plusieurs patients par une pharmacie à usage intérieur dudit établissement.
+Elles font l'objet d'une déclaration auprès de l'Agence française de sécurité
+sanitaire des produits de santé, dans des conditions définies par arrêté du
+ministre chargé de la santé ;
 
 3° Préparation officinale, tout médicament préparé en pharmacie selon les
 indications de la pharmacopée et destiné à être dispensé directement aux
@@ -53,7 +61,4 @@ substances ou compositions appelés souches homéopathiques, selon un procédé 
 fabrication homéopathique décrit par la pharmacopée européenne, la pharmacopée
 française ou, à défaut, par les pharmacopées utilisées de façon officielle dans
 un autre Etat membre de la Communauté européenne. Un médicament homéopathique
-peut aussi contenir plusieurs principes ;
-
-12° Médicament réactif, tout produit ayant une activité pharmacologique
-intervenant dans la fabrication des produits de thérapies génique ou cellulaire.
+peut aussi contenir plusieurs principes.

@@ -8,16 +8,6 @@ ou modifier leurs fonctions organiques.
 
 Sont notamment considérés comme des médicaments :
 
-Les produits [*cosmétiques et d'hygiène corporelle*] visés à l'article L. 658-1
-du présent livre :
-
-Contenant une substance ayant une action thérapeutique au sens de l'alinéa 1er
-ci-dessus ;
-
-Ou contenant des substances vénéneuses à des doses et concentrations supérieures
-à celles fixées par la liste prévue par l'article L. 658-5 du présent livre ou
-ne figurant pas sur cette même liste ;
-
 Les produits diététiques qui renferment dans leur composition des substances
 chimiques ou biologiques ne constituant pas elles-mêmes des aliments, mais dont
 la présence confère à ces produits, soit des propriétés spéciales recherchées en

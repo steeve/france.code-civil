@@ -24,8 +24,8 @@ dérogations établies par décret ;
 
 6° La vente au détail et toute dispensation au public des huiles essentielles
 dont la liste est fixée par décret ainsi que de leurs dilutions et préparations
-ne constituant ni des produits cosmétiques ou d'hygiène corporelle, ni des
-produits à usage ménager, ni des denrées ou boissons alimentaires ;
+ne constituant ni des produits cosmétiques ni des produits à usage ménager, ni
+des denrées ou boissons alimentaires ;
 
 7° La vente au détail et toute dispensation au public des aliments lactés
 diététiques pour nourrissons et des aliments de régime destinés aux enfants du

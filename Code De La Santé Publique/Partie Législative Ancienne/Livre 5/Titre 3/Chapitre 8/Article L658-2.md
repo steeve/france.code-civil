@@ -1,16 +1,29 @@
 Article L658-2
 ----
-L'ouverture et l'exploitation de tout établissement fabriquant, conditionnant ou
-important, même à titre accessoire, des produits cosmétiques ou des produits
-d'hygiène corporelle, de même que l'extension de l'activité d'un établissement à
-de tels produits sont subordonnées à une déclaration auprès de l'autorité
-administrative compétente [*condition*].
+L'ouverture et l'exploitation de tout établissement de fabrication, de
+conditionnement ou d'importation, même à titre accessoire, de produits
+cosmétiques, de même que l'extension de l'activité d'un établissement à de
+telles opérations, sont subordonnées à une déclaration auprès de l'Agence
+française de sécurité sanitaire des produits de santé.
 
-La déclaration désigne la ou les personnes physiques responsables de la
-fabrication, du conditionnement, de l'importation, des contrôles de qualité, de
-la détention et de la surveillance des stocks de matières premières et de
-produits finis [*mentions obligatoires*]. Ces personnes devront présenter des
-niveaux de qualification professionnelle qui seront déterminés par décret.
+Cette déclaration est effectuée par le fabricant, ou par son représentant, ou
+par la personne pour le compte de laquelle les produits cosmétiques sont
+fabriqués, ou par le responsable de la mise sur le marché des produits
+cosmétiques importés pour la première fois d'un Etat non membre de la Communauté
+européenne ou non partie à l'accord sur l'Espace économique européen. Elle
+indique les personnes qualifiées responsables désignées en application du
+quatrième alinéa.
 
-Toute modification aux éléments constitutifs de la déclaration doit faire
+Toute modification des éléments figurant dans la déclaration initiale doit faire
 l'objet d'une nouvelle déclaration dans les mêmes formes.
+
+La personne qui dirige un établissement mentionné au premier alinéa désigne une
+ou plusieurs personnes qualifiées responsables de la fabrication, du
+conditionnement, de l'importation, des contrôles de qualité, de l'évaluation de
+la sécurité pour la santé humaine, de la détention et de la surveillance des
+stocks de matières premières et de produits finis. Ces personnes doivent
+posséder des connaissances scientifiques suffisantes attestées par des diplômes,
+titres ou certificats figurant sur une liste établie par arrêté des ministres
+chargés de la santé, de l'industrie, de l'artisanat et de l'enseignement
+supérieur ou justifier d'une expérience pratique appropriée dont la durée et le
+contenu sont déterminés dans les mêmes conditions.

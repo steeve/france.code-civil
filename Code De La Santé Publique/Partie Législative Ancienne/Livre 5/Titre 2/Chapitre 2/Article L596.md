@@ -4,8 +4,10 @@ La fabrication, l'importation, l'exportation et la distribution en gros des
 médicaments, produits et objets mentionnés à l'article L. 512, la fabrication,
 l'importation et la distribution des médicaments destinés à être expérimentés
 sur l'homme ainsi que l'exploitation de spécialités pharmaceutiques ou autres
-médicaments ne peuvent être effectuées que dans des établissements
-pharmaceutiques régis par la présente section.
+médicaments, de générateurs, trousses ou précurseurs définis aux 8°, 9° et 10°
+de l'article L. 511-1 ou de produits mentionnés à l'article L. 658-11 ne peuvent
+être effectuées que dans des établissements pharmaceutiques régis par la
+présente section.
 
 Toute entreprise qui comporte au moins un établissement pharmaceutique doit être
 la propriété d'un pharmacien ou d'une société à la gérance ou à la direction

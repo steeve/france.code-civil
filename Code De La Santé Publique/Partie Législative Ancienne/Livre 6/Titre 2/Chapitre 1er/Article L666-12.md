@@ -1,7 +1,8 @@
 Article L666-12
 ----
-Un décret en Conseil d'Etat fixe les règles d'hémo-vigilance, et notamment la
-nature des informations nécessaires à la surveillance des effets de
+Un décret en Conseil d'Etat pris après avis de l'Agence française de sécurité
+sanitaire des produits de santé fixe les règles d'hémo-vigilance, et notamment
+la nature des informations nécessaires à la surveillance des effets de
 l'utilisation des produits sanguins labiles que les praticiens sont tenus de
 fournir, ainsi que les conditions d'exercice de cette surveillance. Les
 personnes qui ont à connaître de ces informations sont tenues au secret
