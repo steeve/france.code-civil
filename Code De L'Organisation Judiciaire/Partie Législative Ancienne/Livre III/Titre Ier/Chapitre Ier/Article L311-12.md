@@ -1,5 +1,9 @@
 Article L311-12
 ----
-Les cas et conditions dans lesquels le tribunal de grande instance connaîtra à
-juge unique de ce qui a trait à l'exécution forcée des jugements et autres actes
-seront déterminés par le Code de procédure civile.
+Il est institué un juge de l'exécution dont les fonctions sont exercées par le
+président du tribunal de grande instance. Celui-ci peut déléguer ces fonctions à
+un ou plusieurs juges de ce tribunal. Il fixe la durée et l'étendue territoriale
+de cette délégation.
+
+Les incidents relatifs à la répartition des affaires sont tranchés sans recours
+par le président du tribunal de grande instance.
