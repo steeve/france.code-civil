@@ -16,9 +16,7 @@ f) Les coopératives d'utilisation de matériel agricole visées à l'article 55
 régulièrement agréées sauf pour leur personnel administratif ou des ateliers de
 réparations ;
 
-g) Les groupements d'employeurs prévus aux articles L. 127-1 et L. 127-7 du code
-du travail lorsqu'ils sont constitués d'exploitants agricoles, sauf pour leur
-personnel administratif ;
+g) (alinéa supprimé) ;
 
-h) Les associations intermédiaires prévues à l'article L. 128 du code du
+h) Les associations intermédiaires prévues à l'article L. 322-4-16-3 du code du
 travail.
