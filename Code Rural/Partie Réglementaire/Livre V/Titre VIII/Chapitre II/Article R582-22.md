@@ -2,11 +2,11 @@ Article R582-22
 ----
 L'article R. 524-10 est ainsi modifié :
 
-1° A son premier alinéa, les mots : "qui dépasse 700 000 F" sont remplacés par
-les mots : "qui dépasse 14 000 000 FCFP" et les mots :
+1° A son premier alinéa, les mots : "qui dépasse 11000 euros" sont remplacés par
+les mots : "qui dépasse 117 320 euros et les mots :
 
-"n'a pas dépassé 700 000 F" sont remplacés par les mots : "n'a pas dépassé 14
-000 000 FCFP".
+"n'a pas dépassé 110000 euros" sont remplacés par les mots : "n'a pas dépassé
+117 320 euros".
 
 2° A son deuxième alinéa, les mots : "Le commissariat aux comptes peut être
 exercé" sont remplacés par les mots : "Le commissariat aux comptes doit être

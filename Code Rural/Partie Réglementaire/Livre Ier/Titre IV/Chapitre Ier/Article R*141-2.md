@@ -27,7 +27,7 @@ de reddition de compte ainsi que le montant de sa rémunération.
 
 Les sociétés d'aménagement foncier et d'établissement rural qui entendent se
 livrer aux opérations visées à l'alinéa précédent doivent justifier auprès du
-mandant d'une garantie financière forfaitaire d'un montant de 200 000 F
+mandant d'une garantie financière forfaitaire d'un montant de 30000 euros
 résultant d'un engagement de caution fourni par un établissement de crédit ou
 une entreprise d'assurance habilitée à cette fin. Si elles sont autorisées par
 le mandant à l'occasion des opérations susmentionnées à détenir des fonds, le

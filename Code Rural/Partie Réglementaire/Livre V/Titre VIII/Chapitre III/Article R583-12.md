@@ -5,5 +5,4 @@ les dispositions suivantes :
 
 "Un commissaire aux comptes est désigné dans les sociétés d'intérêt collectif
 agricole qui n'ont pas la forme commerciale et dont le chiffre d'affaires hors
-taxes dépasse 10 000 000 FCFP dans les conditions prévues à l'article R.
-524-10".
+taxes dépasse 117 320 euros dans les conditions prévues à l'article R. 524-10".

@@ -1,10 +1,10 @@
 Article R524-10
 ----
 Les coopératives agricoles qui, à la clôture de l'exercice social, ont un
-chiffre d'affaires hors taxes qui dépasse 700 000 F sont tenues de désigner au
-moins un commissaire aux comptes et un suppléant. Il n'y a plus lieu à
+chiffre d'affaires hors taxes qui dépasse 110000 euros sont tenues de désigner
+au moins un commissaire aux comptes et un suppléant. Il n'y a plus lieu à
 désignation si, pendant les deux exercices qui précèdent l'expiration du mandat,
-le chiffre d'affaires n'a pas dépassé 700 000 F.
+le chiffre d'affaires n'a pas dépassé 110000 euros.
 
 Le commissariat aux comptes peut être exercé par un commissaire aux comptes
 inscrit sur la liste prévue à l'article L. 225-219 du code de commerce ou par
