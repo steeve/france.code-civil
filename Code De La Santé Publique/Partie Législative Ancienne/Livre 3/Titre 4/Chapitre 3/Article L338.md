@@ -1,9 +1,18 @@
 Article L338
 ----
-Toute personne placée dans un établissement d'aliénés cessera d'y être retenue
-aussitôt que les médecins de l'établissement auront déclaré, sur le registre
-énoncé en l'article précédent, que la guérison est obtenue.
+Sans préjudice des dispositions mentionnées au précédent article, il est mis fin
+à la mesure d'hospitalisation prise en application de l'article L. 333 ou de
+l'article L. 333-2 dès qu'un psychiatre de l'établissement certifie que les
+conditions de l'hospitalisation sur demande d'un tiers ne sont plus réunies et
+en fait mention sur le registre prévu à l'article L. 341. Ce certificat
+circonstancié doit mentionner l'évolution ou la disparition des troubles ayant
+justifié l'hospitalisation.
 
-S'il s'agit d'un mineur ou d'un interdit, il sera donné immédiatement avis de la
-déclaration des médecins aux personnes auxquelles il devra être remis, et au
-procureur de la République.
+Dans les vingt-quatre heures qui suivent la fin de cette mesure
+d'hospitalisation, le directeur de l'établissement en informe le préfet, la
+commission mentionnée à l'article L. 332-3, les procureurs de la République
+mentionnés à l'article L. 335 et la personne qui a demandé l'hospitalisation.
+
+Le préfet peut ordonner la levée immédiate d'une hospitalisation à la demande
+d'un tiers dans les établissements mentionnés à l'article L. 331 lorsque les
+conditions de l'hospitalisation ne sont plus réunies.

@@ -1,8 +1,9 @@
 Article L348
 ----
-Si dans l'intervalle qui s'écoulera entre les rapports ordonnés par l'article L.
-345, les médecins déclarent, sur le registre tenu en exécution de l'article L.
-337, que la sortie peut être ordonnée, les chefs, directeurs ou préposés
-responsables des établissements, seront tenus, sous peine d'être poursuivis
-conformément à l'article L. 352 ci-après, d'en référer [*obligation*] aussitôt
-au préfet, qui statuera sans délai.
+Lorsque les autorités judiciaires estiment que l'état mental d'une personne qui
+a bénéficié d'un non-lieu, d'une décision de relaxe ou d'un acquittement en
+application des dispositions de l'article 64 du code pénal pourrait compromettre
+l'ordre public ou la sûreté des personnes, elles avisent immédiatement le
+préfet, qui prend sans délai toute mesure utile, ainsi que la commission
+mentionnée à l'article L. 332-3. L'avis médical visé à l'article L. 342 doit
+porter sur l'état actuel du malade.

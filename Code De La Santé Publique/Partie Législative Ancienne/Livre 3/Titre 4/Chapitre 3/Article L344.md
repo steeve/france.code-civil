@@ -1,7 +1,9 @@
 Article L344
 ----
-En cas de danger imminent, attesté par le certificat d'un médecin ou par la
-notoriété publique, les commissaires de police à Paris, et les maires dans les
-autres communes, ordonneront, à l'égard des personnes atteintes d'aliénation
-mentale, toutes les mesures provisoires nécessaires, à la charge d'en référer
-dans les vingt-quatre heures au préfet, qui statuera sans délai.
+Dans les quinze jours, puis un mois après l'hospitalisation et ensuite au moins
+tous les mois, le malade est examiné par un psychiatre de l'établissement qui
+établit un certificat médical circonstancié confirmant ou infirmant, s'il y a
+lieu, les observations contenues dans le précédent certificat et précisant
+notamment les caractéristiques de l'évolution ou la disparition des troubles
+justifiant l'hospitalisation. Chaque certificat est transmis au préfet et à la
+commission mentionnée à l'article L. 332-3 par le directeur de l'établissement.

@@ -1,6 +1,5 @@
 Article L331
 ----
-Des décrets en Conseil d'Etat déterminent les conditions auxquelles sont
-accordées les autorisations énoncées en l'article précédent, les cas où elles
-peuvent être retirées, et les obligations auxquelles sont soumis les
-établissements autorisés.
+Dans chaque département, un ou plusieurs établissements sont seuls habilités par
+le préfet à soigner les personnes atteintes de troubles mentaux qui relèvent du
+chapitre III du présent titre.

@@ -1,9 +1,10 @@
-Article L352-2
+Article L328
 ----
-La personne placée dans un établissement de soins conserve le domicile qui était
-le sien avant le placement aussi longtemps que ce domicile reste à sa
-disposition. Néanmoins, les significations qui y auront été faites pourront,
-suivant les circonstances, être annulées par les tribunaux.
+La personne hospitalisée sans son consentement dans un établissement de soins
+conserve le domicile qui était le sien avant l'hospitalisation aussi longtemps
+que ce domicile reste à sa disposition. Néanmoins, les significations qui y
+auront été faites pourront, suivant les circonstances, être annulées par les
+tribunaux.
 
 Si une tutelle a été constituée, les significations seront faites au tuteur ;
 s'il y a curatelle, elles devront être faites à la fois à la personne protégée

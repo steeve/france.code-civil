@@ -1,7 +1,6 @@
 Article L340
 ----
-Dans les vingt-quatre heures de la sortie, les chefs, préposés ou directeurs en
-donneront avis, aux fonctionnaires désignés dans le dernier paragraphe de
-l'article L. 333, et leur feront connaître le nom et la résidence des personnes
-qui auront retiré le malade, son état mental au moment de la sortie, et, autant
-que possible, l'indication du lieu où il aura été conduit.
+Dans les vingt-quatre heures suivant la sortie, le directeur de l'établissement
+en avise le préfet ainsi que la commission mentionnée à l'article L. 332-3 et
+les procureurs mentionnés à l'article L. 335 et leur fait connaître le nom et
+l'adresse des personnes ou de l'organisme mentionnés à l'article L. 339.

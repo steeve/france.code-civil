@@ -1,12 +1,11 @@
 Article L343
 ----
-A Paris, le préfet de police [*autorité compétente*], et, dans les départements,
-les préfets ordonneront d'office le placement, dans un établissement d'aliénés,
-de toute personne interdite ou non interdite, dont l'état d'aliénation
-compromettrait l'ordre public ou la sûreté des personnes.
-
-Les ordres des préfets seront motivés et devront énoncer les circonstances qui
-les auront rendus nécessaires. Ces ordres, ainsi que ceux qui seront donnés
-conformément aux articles L. 344, 345, 346 et 348, seront inscrits sur un
-registre semblable à celui qui est prescrit par l'article L. 337 ci-dessus, dont
-toutes les dispositions seront applicables aux individus placés d'office.
+En cas de danger imminent pour la sûreté des personnes, attesté par un avis
+médical ou, à défaut, par la notoriété publique, le maire et, à Paris, les
+commissaires de police arrêtent, à l'égard des personnes dont le comportement
+révèle des troubles mentaux manifestes, toutes les mesures provisoires
+nécessaires, à charge d'en référer dans les vingt-quatre heures au préfet qui
+statue sans délai et prononce, s'il y a lieu, un arrêté d'hospitalisation
+d'office dans les formes prévues à l'article L. 342. Faute de décision
+préfectorale, ces mesures provisoires sont caduques au terme d'une durée de
+quarante-huit heures.
