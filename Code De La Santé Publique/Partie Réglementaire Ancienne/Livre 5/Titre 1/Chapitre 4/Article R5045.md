@@ -1,9 +1,13 @@
 Article R5045
 ----
-Les dispositions du présent chapitre sont applicables à toute publicité faite,
-sous quelque forme que ce soit, pour des médicaments.
+Les dispositions du présent chapitre sont applicables à toute publicité ou
+propagande faite, sous quelque forme que ce soit, pour :
 
-Elles s'appliquent également à la publicité faite en faveur des établissements
-pharmaceutiques et des officines, ainsi qu'à la publicité ou à la propagande
-relatives aux produits prévus à l'article L. 551 (2e alinéa) du présent code et
-aux objets, appareils et méthodes prévus à l'article L. 552 du même code.
+1° Les médicaments à usage humain ;
+
+2° Les produits et objets mentionnés à l'article L. 551 (deuxième et troisième
+alinéa) ;
+
+3° Les objets, appareils et méthodes mentionnés à l'article L. 552 ;
+
+4° Les officines et autres établissements pharmaceutiques.

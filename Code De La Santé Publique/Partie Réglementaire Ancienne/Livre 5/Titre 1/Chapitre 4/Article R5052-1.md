@@ -1,34 +1,54 @@
 Article R5052-1
 ----
-Les dispositions de la section II ci-dessus sont applicables à la publicité et à
-la propagande faites en faveur des produits présentés comme favorisant le
-diagnostic, la prévention ou le traitement des maladies, des affections relevant
-de la pathologie chirurgicale et du dérèglement physiologique, sous réserve des
-adaptations ci-après :
+Pour les spécialités pharmaceutiques, la publicité doit être conforme au résumé
+des caractéristiques du médicament prévu à l'article R. 5128-1 ainsi qu'aux
+mentions exigées par la législation sur les prix et la législation sociale.
 
-1° En ce qui concerne l'ensemble des dispositions :
+Elle doit faire connaître :
 
-Les termes "médicaments, spécialités, ou médicaments spécialisés" doivent
-s'entendre comme s'appliquant aux produits relevant de la présente section ;
+1° La dénomination spéciale du médicament prévue à l'article L. 601 du code de
+la santé publique ;
 
-Les termes "fabricants, grossistes-répartiteurs, dépositaires de produits
-pharmaceutiques" doivent s'entendre comme s'appliquant aux fabricants et
-revendeurs en gros ou au détail des produits relevant de la présente section.
+2° Le nom ou la raison sociale et l'adresse du responsable de la mise sur le
+marché ou, le cas échéant, du fabricant ;
 
-2° En ce qui concerne l'article R. 5048, les mentions figurant sur les
-conditionnements, récipients, prospectus ou notices sont dispensées du visa de
-publicité lorsqu'elles comportent exclusivement les indications suivantes :
+3° La ou les formes pharmaceutiques pouvant être utilisées en thérapeutique ;
 
-Le nom et la composition du produit ;
+4° La formule avec les dénominations communes et les doses des principes actifs
+;
 
-Le nom et l'adresse du fabricant ;
+5° Le classement de la spécialité au regard du régime des substances vénéneuses
+;
 
-Le mode d'emploi ;
+6° Le ou les numéros d'identification administrative de la spécialité ;
 
-Le prix de vente au public.
+7° La ou les propriétés pharmacologiques essentielles ;
 
-3° En ce qui concerne l'article R. 5050, ne sont pas exigées les mentions
-énumérées dans les n° 3, 5, 6, 7, 8, 13, 14 et 15 du paragraphe A. Les mentions
-prévues dans les n° 1 et 4 sont remplacées respectivement par le nom et la
-composition du produit, et la mention de la situation du produit par rapport aux
-législations sociales, prévue au n° 16, n'est pas nécessaire.
+8° Les indications thérapeutiques et les contre-indications éventuelles, fixées
+par l'autorisation de mise sur le marché et toute autre décision ministérielle
+ultérieure les concernant ;
+
+9° Le mode d'emploi et la posologie ;
+
+10° Les effets indésirables ou accessoires et les interactions éventuelles en
+cas d'utilisation avec d'autres médicaments ou certains aliments ;
+
+11° Les précautions particulières d'emploi, et, s'il y a lieu, celles à prendre
+en cas d'emploi prolongé ;
+
+12° Toutes autres mentions imposées, le cas échéant, par l'autorisation de mise
+sur le marché ;
+
+13° La situation de la spécialité au regard des législations sociales ;
+
+14° Le prix limite de vente lorsqu'un tel prix est fixé en application des lois
+et règlements en vigueur.
+
+La publicité doit également faire connaître, le cas échéant :
+
+a) L'indication des phénomènes toxiques et des accidents d'intolérance possibles
+;
+
+b) Les risques d'accoutumance ou de dépendance ;
+
+c) Le mode de surveillance du malade pour déceler les accidents éventuels.

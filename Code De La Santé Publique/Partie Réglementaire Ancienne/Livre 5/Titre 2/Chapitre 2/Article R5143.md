@@ -42,6 +42,9 @@ mention pouvant ne figurer que sur l'emballage extérieur ;
 
 j) Les précautions particulières de conservation.
 
+k) Le prix limite de vente au public lorsqu'un tel prix est fixé en application
+des lois et réglements en vigueur.
+
 2° Lorsqu'une notice est jointe au conditionnement, elle doit comporter au moins
 les indications suivantes :
 

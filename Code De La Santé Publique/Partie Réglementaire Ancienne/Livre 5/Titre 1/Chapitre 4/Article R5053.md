@@ -1,7 +1,9 @@
 Article R5053
 ----
-Sans préjudice de l'application des dispositions du code de déontologie
-pharmaceutique, la publicité en faveur des officines et celle qui est faite dans
-les vitrines de pharmacie et dans les emplacements aménagés pour être visibles
-de l'extérieur ne peuvent être réalisées par des procédés ou des moyens
-contraires à la dignité de la profession.
+A l'exception des documents d'information scientifiques, techniques ou
+financiers qui n'ont pas pour objectif principal la promotion d'un médicament,
+les documents publicitaires en faveur des établissements pharmaceutiques qui
+mentionnent un médicament sont soumis aux dispositions de la section II ou de la
+section III, selon qu'ils sont destinés au public ou aux personnes appelées à
+prescrire ou délivrer ce médicament, produit ou objet ou à l'utiliser dans
+l'exercice de leur art.
