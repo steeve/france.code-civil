@@ -9,5 +9,5 @@ L'action en nullité est éteinte lorsque la cause de la nullité a cessé d'exi
 le jour où le tribunal statue sur le fond en première instance, sauf si cette
 nullité est fondée sur l'illicéité de l'objet du groupement.
 
-Les articles 1844-12 et 1844-17 du code civil sont applicables aux groupements
+Les articles 1844-12 à 1844-17 du code civil sont applicables aux groupements
 d'intérêt économique.

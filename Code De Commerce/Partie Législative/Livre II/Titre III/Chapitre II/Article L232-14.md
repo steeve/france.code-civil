@@ -2,7 +2,7 @@ Article L232-14
 ----
 Une majoration de dividendes dans la limite de 10 % peut être attribuée par des
 statuts à tout actionnaire qui justifie, à la clôture de l'exercice, d'une
-inscription nominative depuis deux ans au moins et du maintient de celle ci à la
+inscription nominative depuis deux ans au moins et du maintien de celle-ci à la
 date de mise en paiement du dividende. Son taux est fixé par l'assemblée
 générale extraordinaire. Dans les sociétés admises aux négociations sur un
 marché réglementé, le nombre de titres éligibles à cette majoration de

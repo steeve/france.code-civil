@@ -29,5 +29,4 @@ biens du débiteur pour dettes antérieurement contractées ;
 soit antérieur à la date de cessation de paiement.
 
 II. - Le tribunal peut, en outre, annuler les actes à titre gratuit visés au 1°
-du présent article faits dans les six mois précédant la date de cessation des
-paiements.
+du I faits dans les six mois précédant la date de cessation des paiements.

@@ -10,7 +10,7 @@ arrêtés à la clôture de l'exercice précédent, comprend de fois le chiffre 
 salaire le plus faible attribué par la société aux salariés âgés de plus de
 dix-huit ans.
 
-Le statuts peuvent prévoir que les participants sont répartis par collèges
+Les statuts peuvent prévoir que les participants sont répartis par collèges
 regroupant chacun une catégorie de personnel, chaque collège élisant son ou ses
 mandataires et que l'accord de chaque collège, à des majorités que les statuts
 précisent, est nécessaire pour la modification des statuts de la coopérative et

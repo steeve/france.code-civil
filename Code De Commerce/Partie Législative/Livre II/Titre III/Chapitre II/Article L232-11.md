@@ -5,7 +5,7 @@ des pertes antérieures, ainsi que des sommes à porter en réserve en applicati
 de la loi ou des statuts, et augmenté du report bénéficiaire.
 
 En outre, l'assemblée générale peut décider la mise en distribution de sommes
-prélevées sur les réserves dont elle à la disposition. En ce cas, la décision
+prélevées sur les réserves dont elle a la disposition. En ce cas, la décision
 indique expressément les postes de réserve sur lesquels les prélèvements sont
 effectués. Toutefois, les dividendes sont prélevés par priorité sur le bénéfice
 distribuable de l'exercice.

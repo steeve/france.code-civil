@@ -1,8 +1,8 @@
 Article L226-5
 ----
 Les statuts doivent prévoir pour l'exercice des fonctions de membre du conseil
-de surveillance une limite d'âge s'appliquant soit à l'ensemble des
-administrateurs, soit à un pourcentage déterminé d'entre eux.
+de surveillance une limite d'âge s'appliquant soit à l'ensemble des membres du
+conseil de surveillance, soit à un pourcentage déterminé d'entre eux.
 
 A défaut de disposition expresse dans les statuts, le nombre des membres du
 conseil de surveillance ayant atteint l'âge de soixante-dix ans ne peut être

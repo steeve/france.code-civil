@@ -1,7 +1,7 @@
 Article L711-10
 ----
-Les chambre de commerce et d'industrie sont regroupées en chambres régionales de
-commerce et d'industrie. Sous réserve du droit que conservent les chambres de
+Les chambres de commerce et d'industrie sont regroupées en chambres régionales
+de commerce et d'industrie. Sous réserve du droit que conservent les chambres de
 commerce et d'industrie de former des groupements en vue de la défense
 d'intérêts spéciaux et communs à certaines d'entre elles, les chambres
 régionales de commerce et d'industrie représentent, auprès des pouvoirs publics,

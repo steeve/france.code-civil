@@ -12,5 +12,5 @@ Le rapporteur général, le ou les rapporteurs généraux adjoints et le commiss
 du Gouvernement peuvent présenter des observations.
 
 Le rapporteur général, le ou les rapporteurs généraux adjoints et le rapporteur
-assistent au délibéré sans voix délibérative, sauf lorsque le conseil statue sur
-des pratiques dont il a été saisi en application de l'article L. 462-5.
+assistent au délibéré, sans voix délibérative, sauf lorsque le conseil statue
+sur des pratiques dont il a été saisi en application de l'article L. 462-5.

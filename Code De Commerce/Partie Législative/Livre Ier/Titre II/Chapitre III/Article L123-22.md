@@ -1,6 +1,6 @@
 Article L123-22
 ----
-Les documents comptables sont établis en francs et en langue française.
+Les documents comptables sont établis en euros et en langue française.
 
 Les documents comptables et les pièces justificatives sont conservés pendant dix
 ans.

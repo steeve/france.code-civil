@@ -15,7 +15,7 @@ l'article L. 143-11-4 du code du travail pour les sommes dont elles font
 l'avance en application du troisième alinéa de l'article L. 621-43, même si
 leurs créances ne sont pas encore déclarées.
 
-En ce qui concerne les créances du Trésor public des organismes de sécurité
+En ce qui concerne les créances du Trésor public, des organismes de sécurité
 sociale et des institutions régies par le livre IX du code de la sécurité
 sociale, des remises peuvent être consenties dans les conditions précisées par
 décret en Conseil d'Etat. Il en est de même pour les cessions de rang de

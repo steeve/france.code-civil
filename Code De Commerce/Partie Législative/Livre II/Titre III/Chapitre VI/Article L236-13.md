@@ -2,7 +2,7 @@ Article L236-13
 ----
 Le projet de fusion est soumis aux assemblées d'obligataires des sociétés
 absorbées, à moins que le remboursement des titres sur simple demande de leur
-part ne soit offert audits obligataires. L'offre de remboursement est soumise à
+part ne soit offert auxdits obligataires. L'offre de remboursement est soumise à
 publicité, dont les modalités sont fixées par décret en Conseil d'Etat.
 
 Lorsqu'il y a lieu à remboursement sur simple demande, la société absorbante

@@ -2,7 +2,8 @@ Article L811-16
 ----
 Nul ne peut faire état du titre d'administrateur judiciaire, en dehors de la
 mission qui lui a été confiée, en vertu du deuxième alinéa de l'article L. 811-2
-s'il n'est inscrit sur la liste des administrateurs judiciaires.
+ou du second alinéa de l'article L. 811-8 s'il n'est inscrit sur la liste des
+administrateurs judiciaires.
 
 Toute infraction à cette disposition est punie des peines encourues pour le
 délit d'usurpation de titre prévu par l'article 433-17 du code pénal.

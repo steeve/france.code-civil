@@ -12,7 +12,7 @@ actionnaire ou par un tiers, soit par la société en vue d'une réduction du
 capital.
 
 Le prix retenu est celui de la négociation initiale ; toutefois, la somme versée
-à l'acquéreur non agrée ne peut être inférieure à celle qui résulte du cours de
+à l'acquéreur non agréé ne peut être inférieure à celle qui résulte du cours de
 bourse au jour du refus d'agrément ou, à défaut de cotation ce jour, au jour de
 la dernière cotation précédant ledit refus.
 

@@ -2,9 +2,9 @@ Article L621-137
 ----
 I. - Pendant cette période, l'activité est poursuivie par le débiteur sauf s'il
 apparaît nécessaire au tribunal de nommer un administrateur qui peut être soit
-un administrateur judiciaire, soit toute personne qualifiée. Dans ce cas, le
-débiteur est soit dessaisi et représenté par l'administrateur, soit assisté par
-celui-ci.
+un administrateur judiciaire, soit une personne choisie sur le fondement du
+deuxième alinéa de l'article L. 811-2. Dans ce cas, le débiteur est soit
+dessaisi et représenté par l'administrateur, soit assisté par celui-ci.
 
 II. - En l'absence d'administrateur :
 

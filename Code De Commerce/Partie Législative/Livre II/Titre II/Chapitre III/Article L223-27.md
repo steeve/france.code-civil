@@ -4,7 +4,7 @@ Les décisions sont prises en assemblée. Toutefois, les statuts peuvent stipule
 qu'à l'exception de celles prévues au premier alinéa de l'article L. 223-26
 toutes les décisions ou certaines d'entre elles peuvent être prises par
 consultation écrite des associés ou pourront résulter du consentement de tous
-les associés exprimés dans un acte.
+les associés exprimé dans un acte.
 
 Les associés sont convoqués aux assemblées dans les formes et délais prévus par
 décret en Conseil d'Etat. La convocation est faite par le gérant ou, à défaut,

@@ -1,7 +1,8 @@
 Article L442-6
 ----
 I. - Engage la responsabilité de son auteur et l'oblige à réparer le préjudice
-causé le fait, par tout producteur, commerçant, industriel ou artisan :
+causé le fait, par tout producteur, commerçant, industriel ou personne
+immatriculée au répertoire des métiers :
 
 1° De pratiquer, à l'égard d'un partenaire économique, ou d'obtenir de lui des
 prix, des délais de paiement, des conditions de vente ou des modalités de vente
@@ -57,7 +58,8 @@ au détriment du créancier, sans raison objective, du délai indiqué au deuxi�
 alinéa de l'article L. 441-6. .
 
 II. - Sont nuls les clauses ou contrats prévoyant pour un producteur, un
-commerçant, un industriel ou un artisan, la possibilité :
+commerçant, un industriel ou une personne immatriculée au répertoire des
+métiers, la possibilité :
 
 a) De bénéficier rétroactivement de remises, de ristournes ou d'accords de
 coopération commerciale ;

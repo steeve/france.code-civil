@@ -10,7 +10,7 @@ non écrite.
 L'assemblée spéciale des actionnaires à dividende prioritaire sans droit de vote
 peut émettre un avis avant toute décision de l'assemblée générale. Elle statue
 alors à la majorité des voix exprimées par les actionnaires présents ou
-représentés. Dans le cas ou il est procédé à un scrutin, il n'est pas tenu
+représentés. Dans le cas où il est procédé à un scrutin, il n'est pas tenu
 compte des bulletins blancs. L'avis est transmis à la société. Il est porté à la
 connaissance de l'assemblée générale et consigné à son procès-verbal.
 

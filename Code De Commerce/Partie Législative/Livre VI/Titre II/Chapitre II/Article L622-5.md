@@ -3,8 +3,8 @@ Article L622-5
 Le tribunal qui prononce la liquidation judiciaire nomme le représentant des
 créanciers en qualité de liquidateur. Toutefois, le tribunal peut, par décision
 motivée, à la demande de l'administrateur, d'un créancier, du débiteur ou du
-procureur de la République, désigner le liquidateur parmi les autres mandataires
-judiciaires à la liquidation des entreprises.
+procureur de la République, désigner en qualité de liquidateur une autre
+personne dans les conditions prévues à l'article L. 812-2.
 
 Le tribunal peut soit d'office, soit sur proposition du juge-commissaire ou à la
 demande du procureur de la République, procéder au remplacement du liquidateur.
