@@ -8,3 +8,10 @@ d'aménagement, de construction, pour exploiter des services publics à caractè
 industriel ou commercial, ou pour toute autre activité d'intérêt général ;
 lorsque l'objet de sociétés d'économie mixte locales inclut plusieurs activités,
 celles-ci doivent être complémentaires.
+
+La commune actionnaire d'une société d'économie mixte locale dont l'objet social
+s'inscrit dans le cadre d'une compétence qu'elle a transférée à un établissement
+public de coopération intercommunale peut continuer à participer au capital de
+cette société à condition qu'elle cède à l'établissement public de coopération
+intercommunale plus des deux tiers des actions qu'elle détenait antérieurement
+au transfert de compétences.

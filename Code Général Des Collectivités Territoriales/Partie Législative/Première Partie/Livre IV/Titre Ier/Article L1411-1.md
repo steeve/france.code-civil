@@ -10,7 +10,11 @@ nécessaires au service.
 Les délégations de service public des personnes morales de droit public relevant
 du présent code sont soumises par l'autorité délégante à une procédure de
 publicité permettant la présentation de plusieurs offres concurrentes, dans des
-conditions prévues par un décret en Conseil d'Etat.
+conditions prévues par un décret en Conseil d'Etat. Les garanties
+professionnelles sont appréciées notamment dans la personne des associés et au
+vu des garanties professionnelles réunies en son sein. Les sociétés en cours de
+constitution ou nouvellement créées peuvent être admises à présenter une offre
+dans les mêmes conditions que les sociétés existantes.
 
 La commission mentionnée à l'article L. 1411-5 dresse la liste des candidats
 admis à présenter une offre après examen de leurs garanties professionnelles et

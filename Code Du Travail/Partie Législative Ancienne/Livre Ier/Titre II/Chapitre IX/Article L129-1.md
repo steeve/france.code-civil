@@ -42,6 +42,11 @@ sexdecies du code général des impôts.
 Le mode de paiement de ces prestations de services doit permettre
 l'identification du payeur et du destinataire.
 
+II bis. - Les établissements publics assurant l'hébergement des personnes âgées,
+lorsque leurs activités concernent également l'assistance à domicile aux
+personnes âgées ou handicapées, doivent faire l'objet d'un agrément dans les
+conditions fixées par le III.
+
 III. - Un décret détermine les modalités et conditions de délivrance des
 agréments prévus au présent article, et notamment les conditions particulières
 auxquelles sont soumis les agréments des associations et des entreprises dont

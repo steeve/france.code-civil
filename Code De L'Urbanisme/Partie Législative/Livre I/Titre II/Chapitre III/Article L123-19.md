@@ -6,6 +6,14 @@ par le présent chapitre. Toutefois, les dispositions de l'article L. 123-1, dan
 sa rédaction antérieure à cette loi, leur demeurent applicables jusqu'à leur
 prochaine révision.
 
+Les dispositions de l'article L. 123-1, dans sa rédaction antérieure à la loi n°
+2000-1208 du 13 décembre 2000 précitée, leur demeurent également applicables
+dans le cas où ils font l'objet, selon les modalités définies par le troisième
+alinéa de l'article L. 123-13, d'une révision d'urgence concernant un projet
+présentant un caractère d'intérêt général, à condition que cette révision
+d'urgence soit approuvée avant le 1er janvier 2004 et que la commune ait
+préalablement prescrit une révision générale.
+
 Les plans d'occupation des sols rendus publics avant l'entrée en vigueur de la
 loi n° 2000-1208 du 13 décembre 2000 précitée demeurent opposables dans les
 conditions définies par le dernier alinéa de l'article L. 123-5 dans sa
