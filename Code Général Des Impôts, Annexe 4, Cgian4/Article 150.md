@@ -70,6 +70,9 @@ produit brut des jeux depuis le début de l'année.
 Le total des recettes réalisées depuis le début de l'année est reporté chaque
 jour en toutes lettres et certifié exact par le caissier.
 
-Les 11 21 et 1er de chaque mois la recette de la dizaine écoulée est déclarée
-par le président du comité des jeux ou son suppléant conformément aux
-prescriptions de l'administration.
+Le 1er de chaque mois, la recette totale du mois écoulé est déclarée par le
+président du comité de direction des jeux ou son suppléant, conformément aux
+prescriptions de l'administration (1).
+
+(1) Ces dispositions s'appliquent pour les recettes perçues à compter du 1er
+février 1991.
