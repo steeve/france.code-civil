@@ -22,20 +22,13 @@ peuvent être inscrites globalement à la fin de chaque journée. Le montant des
 opérations inscrites sur le livre est totalisé chaque jour et arrêté par décade
 ou par mois.
 
-Les directeurs entrepreneurs propriétaires des établissements visés au premier
-alinéa sont tenus en outre :
-
-1o De présenter à première réquisition leurs registres de comptabilité ou leurs
-livres aux agents des impôts chargés de la perception de l'impôt sur les
-spectacles et de leur fournir toutes justifications nécessaires à ce sujet
-relativement aux inscriptions qui y sont portées et d'une manière générale à
-toutes les opérations effectuées;
-
-2o De remettre dans les trois premiers jours de chaque décade ou de chaque mois
-selon les indications qu'ils reçoivent à ce sujet au service des impôts qui leur
-est désigné un relevé indiquant le montant total du chiffre des recettes
-effectuées pendant la décade ou le mois précédent et d'acquitter dans les trois
-jours suivants le montant de l'impôt exigible d'après ce relevé.
+Les directeurs, entrepreneurs, propriétaires des établissements visés au premier
+alinéa sont tenus en outre de remettre dans les trois premiers jours de chaque
+décade ou de chaque mois, selon les indications qu'ils reçoivent à ce sujet, au
+service des impôts qui leur est désigné un relevé indiquant le montant total du
+chiffre des recettes effectuées pendant la décade ou le mois précédent et
+d'acquitter, dans les trois jours suivants, le montant de l'impôt exigible
+d'après ce relevé (1).
 
 Le livre prescrit par le présent article ainsi que la comptabilité et les pièces
 justificatives des opérations effectuées par les établissements soumis à l'impôt
@@ -49,3 +42,6 @@ salles spéciales les opérations à inscrire sur le carnet visé au présent ar
 ne concernent que celles pour lesquelles l'impôt sur les spectacles est dû. Il y
 a lieu d'opérer dans ce cas comme s'il y avait en fait deux établissements
 entièrement distincts.
+
+(1) En ce qui concerne les obligations relatives au contrôle, voir livre des
+procédures fiscales, art. A 85-1.

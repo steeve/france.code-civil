@@ -1,9 +1,7 @@
 Article 39
 ----
 1. Le bénéfice net est établi sous déduction de toutes charges, celles-ci
-comprenant, sous réserve des dispositions du 5,
-
-notamment :
+comprenant, sous réserve des dispositions du 5, notamment :
 
 1° Les frais généraux de toute nature, les dépenses de personnel et de
 main-d'oeuvre, le loyer des immeubles dont l'entreprise est locataire.
@@ -15,20 +13,16 @@ les rémunérations directes ou indirectes, y compris les indemnités, allocatio
 avantages en nature et remboursements de frais.
 
 L'indemnité pour congés payés, calculée dans les conditions définies aux
-articles L 223-11 à L 223-13 du code du travail,
-
-revêt du point de vue fiscal le caractère d'un salaire de substitution qui
-constitue une charge normale de l'exercice au cours duquel le salarié prend le
-congé correspondant ;
+articles L 223-11 à L 223-13 du code du travail, revêt du point de vue fiscal le
+caractère d'un salaire de substitution qui constitue une charge normale de
+l'exercice au cours duquel le salarié prend le congé correspondant ;
 
 2° Sauf s'ils sont pratiqués par une copropriété de navires (1), les
-amortissements réellement effectués par l'entreprise,
-
-dans la limite de ceux qui sont généralement admis d'après les usages de chaque
-nature d'industrie, de commerce ou d'exploitation et compte tenu des
-dispositions de l'article 39 A, y compris ceux qui auraient été différés au
-cours d'exercices antérieurs déficitaires, sous réserve des dispositions de
-l'article 39 B.
+amortissements réellement effectués par l'entreprise, dans la limite de ceux qui
+sont généralement admis d'après les usages de chaque nature d'industrie, de
+commerce ou d'exploitation et compte tenu des dispositions de l'article 39 A, y
+compris ceux qui auraient été différés au cours d'exercices antérieurs
+déficitaires, sous réserve des dispositions de l'article 39 B.
 
 Les décrets en Conseil d'Etat (2) prévus à l'article 273 fixent les conséquences
 des déductions prévues à l'article 271 sur la comptabilisation et
@@ -36,19 +30,22 @@ l'amortissement des biens ;
 
 3° Les intérêts servis aux associés à raison des sommes qu'ils laissent ou
 mettent à la disposition de la société, en sus de leur part du capital, quelle
-que soit la forme de la société,
-
-dans la limite de ceux calculés au taux des avances de la banque de France,
-majoré de deux points.
+que soit la forme de la société, dans la limite de ceux calculés à un taux égal
+à 80 % de la moyenne annuelle des taux de rendement brut à l'émission des
+obligations des sociétés privées.
 
 Cette déduction est subordonnée à la condition que le capital ait été
-entièrement libéré ;
+entièrement libéré.
+
+A compter du 1er janvier 1983, les produits des clauses d'indexation afférentes
+aux sommes mises ou laissées à la disposition d'une société par ses associés ou
+ses actionnaires sont assimilés à des intérêts.
 
 3° bis (Abrogé) ;
 
 4° Sous réserve des dispositions de l'article 153, les impôts à la charge de
 l'entreprise, mis en recouvrement au cours de l'exercice, à l'exception des
-taxes prévues aux articles 235 ter T, 238 quater et 239 bis B.
+taxes prévues aux articles 235 ter T, 238 quater, 239 bis B et 990 G.
 
 Si des dégrèvements sont ultérieurement accordés sur ces impôts, leur montant
 entre dans les recettes de l'exercice au cours duquel l'exploitant est avisé de
@@ -65,7 +62,7 @@ titre de l'exercice clos après son paiement ;
 5° Les provisions constituées en vue de faire face à des pertes ou charges
 nettement précisées et que des événements en cours rendent probables, à
 condition qu'elles aient été effectivement constatées dans les écritures de
-l'exercice et figurent au relevé des provisions prévu à l'article 54.
+l'exercice.
 
 Un décret fixe les règles d'après lesquelles des provisions pour fluctuation des
 cours peuvent être retranchées des bénéfices des entreprises dont l'activité
@@ -84,11 +81,12 @@ premier exercice auquel elle s'applique, est rapporté au bénéfice imposable d
 cet exercice. Ces dispositions s'appliquent pour la détermination des résultats
 des exercices clos à compter du 24 septembre 1975 (3).
 
-Les entreprises peuvent, d'autre part, en ce qui concerne les variations de prix
-postérieures au 30 juin 1959, pratiquer en franchise d'impôt une provision pour
-hausse des prix lorsque, pour une matière ou un produit donné, il est constaté,
-au cours d'une période ne pouvant excéder deux exercices successifs clos
-postérieurement à cette date, une hausse de prix supérieure à 10 %.
+Sous réserve des dispositions prévues au septième alinéa, les entreprises
+peuvent, d'autre part, en ce qui concerne les variations de prix postérieures au
+30 juin 1959, pratiquer en franchise d'impôt une provision pour hausse des prix
+lorsque, pour une matière ou un produit donné, il est constaté, au cours d'une
+période ne pouvant excéder deux exercices successifs clos postérieurement à
+cette date, une hausse de prix supérieure à 10 %.
 
 La provision pratiquée à la clôture d'un exercice en application de l'alinéa
 précédent est rapportée de plein droit aux bénéfices imposables de l'exercice en
@@ -100,6 +98,11 @@ effectueront la réintégration dans un délai double de celui de la rotation
 normale des stocks.
 
 Un décret fixe les modalités d'application des deux alinéas qui précèdent (4).
+
+Les matières, produits ou approvisionnements existant en stock à la clôture de
+chaque exercice et qui peuvent donner lieu à la constitution de la provision
+pour fluctuation des cours prévue au deuxième alinéa n'ouvrent pas droit à la
+provision pour hausse des prix.
 
 Un arrêté du ministre de l'économie et des finances (5) fixe les limites dans
 lesquelles sont admises les provisions destinées à faire face aux risques
@@ -115,13 +118,12 @@ nécessaires dès qu'elle constate que les provisions sont devenues sans objet.
 Dans ce cas, les provisions sont, s'il y a lieu, rapportées aux résultats du
 plus ancien des exercices soumis à vérification.
 
-Par dérogation aux dispositions des premier et huitième alinéas qui précèdent,
+Par dérogation aux dispositions des premier et neuvième alinéas qui précèdent,
 la provision pour dépréciation qui résulte éventuellement de l'estimation du
 portefeuille est soumise au régime fiscal des moins-values à long terme défini à
-l'article 39 quindecies-I-2 ; si elle devient ultérieurement sans objet,
-
-elle est comprise dans les plus-values à long terme de l'exercice, visées à
-l'article 39 quindecies-I-1.
+l'article 39 quindecies-I-2 ; si elle devient ultérieurement sans objet, elle
+est comprise dans les plus-values à long terme de l'exercice, visées à l'article
+39 quindecies-I-1.
 
 Toutefois, pour les exercices ouverts à partir du 1er janvier 1974, les titres
 de participation ne peuvent faire l'objet d'une provision que s'il est justifié
@@ -174,10 +176,11 @@ janvier 1975, cette limite est portée à 35.000 F [*montant*] et s'applique à
 l'ensemble des véhicules immatriculés dans la catégorie des voitures
 particulières ;
 
-- en cas d'opérations de crédit-bail ou de location au sens de l'article 281 bis
-C, portant sur des voitures particulières, à la part du loyer supportée par le
-locataire et correspondant à l'amortissement pratiqué par le bailleur pour la
-fraction du prix d'acquisition du véhicule excédant 35.000 F ;
+- en cas d'opérations de crédit-bail ou de location, à l'exception des locations
+de courte durée n'excédant pas trois mois non renouvelables, portant sur des
+voitures particulières, à la part du loyer supportée par le locataire et
+correspondant à l'amortissement pratiqué par le bailleur pour la fraction du
+prix d'acquisition du véhicule excédant 35.000 F ;
 
 - aux dépenses de toute nature résultant de l'achat, de la location ou de toute
 autre opération faite en vue d'obtenir la disposition de yachts ou de bateaux de
@@ -224,10 +227,7 @@ l'entreprise.
 Lorsqu'elles augmentent dans une proportion supérieure à celle des bénéfices
 imposables ou que leur montant excède celui de ces bénéfices, l'administration
 peut demander à l'entreprise de justifier qu'elles sont nécessitées par sa
-gestion (7).
-
-En cas de contestation, le désaccord peut être soumis à l'appréciation de la
-commission départementale prévue à l'article 1651.
+gestion (7) (8).
 
 6. (Dispositions devenues sans objet).
 
@@ -242,10 +242,12 @@ du fait de la réduction d'impôt mentionnée à l'article 199 quater B.
 
 (3) Annexe III, art. 3 à 10 septies.
 
-(4) Annexe III, art. 10 octies à 10 terdecies.
+(4) Annexe III, art. 10 nonies à 10 terdecies.
 
 (5) Annexe IV, art. 2 à 4 septies.
 
 (6) Annexe IV, art. 4 J à 4 L.
 
 (7) Voir Annexe II, art. 33 à 35.
+
+(8) Voir également Livre des procédures fiscales, art. L59 A 2°.

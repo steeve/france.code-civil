@@ -129,9 +129,10 @@ Les membres désignés par les fédérations départementales des syndicats
 d'exploitants agricoles sont appelés à siéger à la commission lorsque celle-ci
 intervient pour fixer les éléments à retenir en vue du calcul du bénéfice
 forfaitaire agricole ou lorsqu'elle connaît d'un différend concernant
-l'évaluation du bénéfice réel de l'exploitation agricole. Lorsqu'il existe dans
-un même département plusieurs fédérations de syndicats d'exploitants agricoles,
-les membres de la commission sont désignés par le préfet sur proposition de ces
+l'évaluation du bénéfice ou du chiffre d'affaires de l'exploitation agricole
+déterminé selon un mode réel d'imposition. Lorsqu'il existe dans un même
+département plusieurs fédérations de syndicats d'exploitants agricoles, les
+membres de la commission sont désignés par le préfet sur proposition de ces
 fédérations.
 
 Les membres désignés par la chambre départementale d'agriculture sont appelés à
@@ -143,8 +144,9 @@ coefficients d'actualisation des évaluations des propriétés non bâties (arti
 Les membres désignés par les chambres de discipline ou par les organisations des
 professions non commerciales du département sont appelés à siéger à la
 commission lorsque le différend soumis à celle-ci porte sur des bénéfices de
-professions non commerciales ou sur des revenus y assimilés. Toutefois, si aucun
-de ces commissaires n'appartient à la profession exercée par l'intéressé, ce
+professions non commerciales, des revenus y assimilés ou des chiffres d'affaires
+réalisés par les titulaires de revenus non commerciaux. Toutefois, si aucun de
+ces commissaires n'appartient à la profession exercée par l'intéressé, ce
 dernier a le droit de demander que l'un d'eux soit remplacé par un représentant
 de l'une des associations professionnelles dont il fait partie. Lorsque le
 différend concerne un médecin ou un chirurgien, un chirurgien-dentiste ou un
@@ -189,8 +191,8 @@ dans celle de détermination de l'évaluation administrative d'un bénéfice non
 commercial conformément à l'article L 7 du même livre ;
 
 - dans la procédure de redressement contradictoire en cas de désaccord sur le
-résultat des vérifications portant sur les matières indiquées à l'article L59 du
-livre précité.
+résultat des vérifications portant sur les matières indiquées à l'article L59 A
+du livre précité.
 
 6. (Abrogé).
 

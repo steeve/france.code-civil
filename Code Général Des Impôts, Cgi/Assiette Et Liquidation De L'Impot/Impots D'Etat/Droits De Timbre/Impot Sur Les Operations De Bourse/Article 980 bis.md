@@ -14,16 +14,7 @@ officielle de cette bourse.
 L'exonération ne s'applique pas aux obligations échangeables ou convertibles en
 actions, aux valeurs assorties de clauses d'indexation ou de clauses de
 participation aux bénéfices de la société émettrice, aux titres dont les
-intérêts bénéficient du régime prévu par les articles 157-8°, 157-14° et 157-15°
-;
-
-a. lorsque, dans les sept ans suivant la date de négociation, ces titres doivent
-être amortis en totalité ou peuvent être intégralement remboursés à la demande
-des porteurs, b. et lorsqu'il ne s'agit ni d'obligations échangeables ou
-convertibles en actions, ni de valeurs assorties de clauses d'indexation ou de
-clauses de participation aux bénéfices de la société émettrice, ni de titres
-dont les intérêts bénéficient du régime prévu par les articles 157-8°, 157-14°
-et 157-15° ;
+intérêts bénéficient du régime prévu par l'article 157-8° ;
 
 3° Aux opérations de bourse effectuées dans le cadre de placements en report par
 les personnes qui font de tels placements ;
@@ -31,7 +22,7 @@ les personnes qui font de tels placements ;
 4° Aux opérations portant sur des valeurs mobilières inscrites à la cote
 officielle d'une bourse de province, à la cote du second marché ou figurant au
 relevé quotidien des valeurs non admises à la cote officielle d'une de ces
-bourses.
+bourses ;
 
 5° Aux achats ou ventes portant sur les titres participatifs visés à l'article
 21 de la loi n° 83-1 du 3 janvier 1983 sur le développement des investissements
