@@ -49,6 +49,9 @@ circonstances caractérisant l'arrêt ;
 - voie de circulation : subdivision de la chaussée ayant une largeur suffisante
 pour permettre la circulation d'une file de véhicules ;
 
+- voie verte : route exclusivement réservée à la circulation des véhicules non
+motorisés, des piétons et des cavaliers ;
+
 - zone 30 : section ou ensemble de sections de routes constituant dans une
 commune une zone de circulation homogène, où la vitesse est limitée à 30 km/h,
 et dont les entrées et sorties sont annoncées par une signalisation et font
