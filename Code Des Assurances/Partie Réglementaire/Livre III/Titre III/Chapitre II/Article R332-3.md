@@ -1,11 +1,11 @@
 Article R332-3
 ----
-Rapportée au montant total des engagements réglementés mentionnés à l'article R.
-331-1, toutes monnaies confondues, diminuée du montant total des actifs
-mentionnés aux articles R. 332-3-4 à R. 332-10, toutes monnaies confondues, la
-valeur au bilan de chacune des catégories d'actifs énumérées ci-après ne peut
-excéder, sauf dérogation accordée cas par cas par la commission de contrôle des
-assurances :
+Rapportée à la base de dispersion constituée par la différence entre le montant
+total des engagements réglementés mentionnés à l'article R. 331-1, toutes
+monnaies confondues, et le montant total des actifs mentionnés aux articles R.
+332-3-4 à R. 332-10, toutes monnaies confondues, la valeur au bilan de chacune
+des catégories d'actif énumérées ci-après ne peut excéder, sauf dérogation
+accordée cas par cas par la commission de contrôle des assurances :
 
 1° 65 p. 100 pour l'ensemble des valeurs mentionnées du 4° au 8° de l'article R.
 332-2 et des prêts mentionnés au troisième alinéa du 1° de l'article R. 332-13,
@@ -19,3 +19,6 @@ l'article R. 332-2 ;
 
 3° 10 p. 100 pour l'ensemble des valeurs mentionnées aux 10°, 11° et 12° de
 l'article R. 332-2 à l'exception des prêts mentionnés au 1° du présent article.
+
+4° 0,5 % pour le montant total des primes ou soultes mentionnées au second
+alinéa du paragraphe D de l'article R. 332-2.
