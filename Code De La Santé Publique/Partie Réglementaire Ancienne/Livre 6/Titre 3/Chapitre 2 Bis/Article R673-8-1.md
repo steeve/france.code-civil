@@ -34,7 +34,10 @@ demandes sont faites en vue d'opérations de prélèvement ou de greffe ;
 l'enseignement et à la recherche dans le domaine des greffes ;
 
 6° De proposer toutes mesures permettant d'assurer la meilleure sécurité
-possible dans les activités de greffe.
+possible dans les activités de greffe ;
+
+7° D'assurer la mise en oeuvre et le fonctionnement du registre national
+automatisé des refus de prélèvement institué par l'article L. 671-7.
 
 A la demande du ministre chargé de la santé, l'établissement participe, dans les
 domaines relevant de sa compétence, à l'élaboration et à la mise en oeuvre des
