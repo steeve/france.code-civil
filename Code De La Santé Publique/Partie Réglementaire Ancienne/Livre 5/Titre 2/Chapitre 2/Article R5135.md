@@ -16,6 +16,11 @@ stupéfiant ou de l'application des dispositions des articles R. 5208-1 ou R.
 c) Médicament soumis à prescription restreinte en application des dispositions
 de l'article R. 5143-5-1.
 
+Pour un médicament classé dans la catégorie des médicaments réservés à l'usage
+hospitalier ou dans celle des médicaments à prescription initiale hospitalière,
+elle comporte, le cas échéant, la mention : Article R. 5143-5-7 du code de la
+santé publique et désigne les utilisateurs habilités.
+
 Elle fixe, le cas échéant, les restrictions en matière de publicité auprès du
 public prévues au premier alinéa de l'article L. 551-3.
 

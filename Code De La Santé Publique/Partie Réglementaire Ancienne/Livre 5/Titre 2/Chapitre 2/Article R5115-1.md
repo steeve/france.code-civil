@@ -9,12 +9,15 @@ individualisé des lots et, s'il y a lieu, leur retrait, à ce que les entrepris
 ou organismes autorisés au titre des 1°, 2°, 3°, 4°, 5°, 6°, 9° et 12° de
 l'article R. 5106 vendent directement aux praticiens habilités à les utiliser et
 en vue de l'emploi exclusif par ces praticiens pour leur usage professionnel,
-sur commande écrite du praticien :
+sur commande écrite du praticien effectuée dans les conditions prévues au
+troisième alinéa de l'article R. 5194 :
 
 a) Les articles de pansement et de suture chirurgicale ;
 
 b) Les médicaments mentionnés à l'article L. 601 utilisés en diagnostic médical,
-en anesthésie, en allergologie, ou d'usage antalgique ou dentaire.
+en anesthésie, en allergologie, ou d'usage antalgique ou dentaire ;
+
+c) Les médicaments mentionnés à l'article R. 5143-5-7.
 
 II. - Outre leurs activités de distribution aux officines, aux pharmacies
 mutualistes ou de sociétés de secours minières et aux pharmacies à usage
@@ -27,14 +30,15 @@ responsable du service ou centre ;
 
 2° Aux dispensaires antivénériens mentionnés à l'article L. 295, les produits
 nécessaires aux traitements ambulatoires qu'ils assurent, sur commande écrite du
-responsable du centre ;
+pharmacien ou du médecin responsable dans le dispensaire de la détention et de
+la dispensation de ces produits ;
 
 3° Aux centres de planification ou d'éducation familiale, les médicaments,
 produits ou objets contraceptifs que les centres distribuent dans les conditions
 prévues à l'article 4 de la loi n° 67-1176 du 28 décembre 1967 ainsi que les
 médicaments que les centres distribuent en application de l'article 6 bis de la
-même loi, sur commande écrite du directeur ou du pharmacien du centre ou du
-médecin autorisé par le préfet ;
+même loi, sur commande écrite du pharmacien attaché au centre, ou, à défaut, du
+directeur, ou d'un autre médecin autorisé par le préfet ;
 
 4° Aux dispensaires antituberculeux mentionnés à l'article L. 220, les
 médicaments antituberculeux que ces dispensaires sont autorisés à délivrer, sur
@@ -46,15 +50,17 @@ médicaments dérivés du sang que ces établissements sont autorisés à dispen
 aux malades qui y sont traités, sur commande écrite du directeur ou d'un
 pharmacien de cet établissement ;
 
-6° Aux établissements mentionnés à l'article L. 595-5, les médicaments classés
-dans la catégorie des médicaments réservés à l'usage hospitalier prévue à
-l'article R. 5143-5-2, sur commande écrite du directeur de l'établissement ou du
-responsable de la détention et de la dispensation des ces médicaments ;
+6° Aux établissements de santé mentionnés à l'article L. 595-5, les médicaments
+répondant aux conditions fixées par ledit article et classés dans la catégorie
+des médicaments réservés à l'usage hospitalier prévue à l'article R. 5143-5-2,
+sur commande écrite du pharmacien ou du médecin responsable dans l'établissement
+de la détention et de la dispensation de ces médicaments ;
 
 7° Aux centres spécialisés de soins aux toxicomanes mentionnés à l'article L.
 355-21-1, les médicaments correspondant strictement aux missions de ces centres,
-sur commande écrite du responsable du centre ou du responsable de la détention
-et de la dispensation de ces médicaments ;
+sur commande écrite du pharmacien ou du médecin responsable dans le centre de la
+détention et de la dispensation de ces médicaments ou du responsable de la
+détention et de la dispensation de ces médicaments ;
 
 8° Aux personnes morales mentionnées à l'article L. 512-2, des gaz à usage
 médical, sur commande écrite du pharmacien qui assure la responsabilité de leur
