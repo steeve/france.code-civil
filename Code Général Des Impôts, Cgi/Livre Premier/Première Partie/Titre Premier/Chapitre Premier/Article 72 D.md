@@ -22,8 +22,12 @@ pouvoir excéder trois fois les limites visées au premier alinéa (2).
 Cette déduction doit être utilisée dans les cinq années qui suivent celle de sa
 réalisation pour l'acquisition et la création d'immobilisations amortissables
 strictement nécessaires à l'activité ou pour l'acquisition et pour la production
-de stocks de produits ou animaux dont le cycle de rotation est supérieur à un
-an.
+de stocks de produits ou animaux dont le cycle de rotation est supérieur à un an
+((ou pour la souscription de parts sociales de sociétés coopératives agricoles
+visées à l'article L521-1 du code rural, dans la limite des investissements
+nouveaux réalisés par elles, et dont elles peuvent justifier à la clôture de
+l'exercice et au prorata du capital souscrit par les coopérateurs dans le
+financement de cet investissement)) (M).
 
 La déduction est pratiquée après application de l'abattement prévu à l'article
 73 B.
@@ -58,6 +62,8 @@ rapportée aux résultats de l'exercice clos à l'occasion de l'apport en socié
 exercices ouverts à compter du 1er janvier 1997.
 
 (2) Disposition applicable aux exercices clos à compter du 2 janvier 1989.
+
+(M) Modification.
 
 (3) Disposition applicable à l'imposition des résultats des exercices ouverts à
 compter du 1er janvier 1995.
