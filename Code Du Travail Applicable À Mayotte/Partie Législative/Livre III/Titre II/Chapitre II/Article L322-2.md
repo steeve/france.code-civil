@@ -1,15 +1,16 @@
 Article L322-2
 ----
 Les contrats emploi-solidarité [*définition*] sont des contrats de travail de
-droit privé à durée déterminée et à temps partiel auxquels ne s'appliquent pas
-les restrictions prévues à l'article L. 122-2 [*absence de terme défini*].
+droit privé à durée déterminée et à temps partiel passés en application de
+l'article L. 122-1-1 [*absence de terme défini*].
 
-Un arrêté du représentant du Gouvernement à Mayotte fixe la durée maximale de
-travail hebdomadaire ainsi que les durées minimale et maximale du contrat.
+Les contrats emploi-solidarité sont conclus pour une durée minimale de trois
+mois. Leur durée maximale est de douze mois. Elle peut être portée à
+vingt-quatre mois pour les personnes rencontrant des difficultés particulières
+d'emploi.
 
-Les contrats emploi-solidarité peuvent être renouvelés deux fois [*nombre*],
-dans la limite de la durée maximale du contrat fixée par l'arrêté prévu à
-l'alinéa précédent.
+Le nombre de renouvellements ne peut être supérieur à deux quelle que soit la
+durée totale du contrat.
 
 Par dérogation à l'article L. 122-5 et sous réserve de clauses contractuelles ou
 conventionnelles relatives aux bénéficiaires de contrats emploi-solidarité

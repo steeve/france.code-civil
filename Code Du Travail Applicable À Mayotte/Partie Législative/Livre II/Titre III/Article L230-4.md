@@ -2,7 +2,7 @@ Article L230-4
 ----
 En tant que de besoin, des décrets en Conseil d'Etat déterminent les mesures
 nécessaires à l'application des règles de protection et de salubrité prévues aux
-articles L. 230-2 à L. 230-6. Ils déterminent notamment :
+articles L. 230-1-1 à L. 230-6. Ils déterminent notamment :
 
 1° Les mesures générales de protection et de salubrité applicables à tous les
 établissements assujettis, notamment en ce qui concerne l'éclairage, l'aération

@@ -1,11 +1,11 @@
 Article R311-1
 ----
 Les employeurs des établissements mentionnés à l'article L. 311-1 sont tenus
-[*obligation*] d'adresser, dans les huit premiers jours de chaque mois
-[*délai*], au chef du service de l'inspection du travail, le relevé des contrats
+d'adresser, dans les huit premiers jours de chaque mois, au directeur du
+travail, de l'emploi et de la formation professionnelle, le relevé des contrats
 de travail conclus ou résiliés au cours du mois précédent.
 
-Ce relevé doit contenir les mentions [*obligatoires*] suivantes :
+Ce relevé doit contenir les mentions suivantes :
 
 1° Nom et adresse de l'employeur ;
 

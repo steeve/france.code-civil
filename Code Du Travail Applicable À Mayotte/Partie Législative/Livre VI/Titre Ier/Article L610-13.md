@@ -7,8 +7,8 @@ hiérarchique auprès du ministre chargé du travail.
 
 Avant l'expiration du délai prévu en application de l'article L. 230-10 ou de
 l'article L. 240-5 et au plus tard dans les quinze jours qui suivent la mise en
-demeure, le chef d'établissement peut saisir d'une réclamation le chef du
-service de l'inspection du travail à Mayotte.
+demeure, le chef d'établissement peut saisir d'une réclamation le directeur du
+travail, de l'emploi et de la formation professionnelle à Mayotte.
 
 Avant l'expiration du délai prévu en application de l'article L. 230-9 et au
 plus tard dans les quinze jours qui suivent la mise en demeure, le chef

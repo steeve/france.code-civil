@@ -1,11 +1,16 @@
 Article L325-1
 ----
-Ont droit à une aide de l'Etat les demandeurs d'emploi inscrits depuis six mois
-auprès de la direction du travail, de l'emploi et de la formation
+Ont droit à une aide de l'Etat les demandeurs d'emploi inscrits depuis plus de
+trois mois auprès de la direction du travail, de l'emploi et de la formation
 professionnelle qui créent ou reprennent une entreprise industrielle,
 commerciale, artisanale ou agricole, soit à titre individuel, soit sous la forme
 d'une société, à condition d'en exercer effectivement le contrôle, ou qui
 entreprennent l'exercice d'une autre profession non salariée.
+
+Pour l'obtention de l'aide prévue à l'alinéa précédent, les volontaires des
+armées ayant accompli leur temps de service comme stagiaire dans une unité du
+service militaire adapté sont réputés avoir satisfait aux conditions
+d'inscription prévues au même alinéa.
 
 Le montant de cette aide forfaitaire est fixé par décret. Elle est réputée
 accordée si un refus explicite n'intervient pas dans le mois qui suit la

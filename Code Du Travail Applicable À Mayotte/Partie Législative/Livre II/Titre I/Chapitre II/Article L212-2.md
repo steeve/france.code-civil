@@ -21,3 +21,12 @@ heures de travail perdues lorsque la loi permet cette récupération.
 En cas de dénonciation ou de non-renouvellement de ces conventions ou accords
 collectifs, les dispositions de ces arrêtés auxquelles il avait été dérogé
 redeviennent applicables.
+
+Dans la perspective du maintien ou du développement de l'emploi, les employeurs,
+les organisations d'employeurs et de salariés peuvent, par convention ou accord
+collectif étendu ou par convention ou accord collectif d'entreprise ou
+d'établissement, fixer les conditions d'une nouvelle organisation du travail
+résultant d'une répartition de la durée du travail sur tout ou partie de
+l'année, à condition que, sur la période retenue, cette durée n'excède pas, en
+moyenne par semaine travaillée, la durée prévue au premier alinéa de l'article
+L. 212-1 ou une durée inférieure prévue par la convention ou l'accord.

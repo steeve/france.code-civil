@@ -1,8 +1,8 @@
 Article R126-6
 ----
-Le représentant du Gouvernement peut, sur le rapport du chef du service de
-l'inspection du travail, mettre fin à tout moment à son agrément, par décision
-motivée :
+Le représentant du Gouvernement peut, sur le rapport du directeur du travail, de
+l'emploi et de la formation professionnelle, mettre fin à tout moment à son
+agrément, par décision motivée :
 
 1° Lorsque les dispositions législatives ou réglementaires relatives aux
 groupements d'employeurs ne sont pas respectées ;

@@ -9,4 +9,4 @@ convoquer une commission de conciliation.
 Cette commission composée, par les soins du représentant du Gouvernement, de
 représentants des organisations patronales et des syndicats de salariés les plus
 représentatifs, en nombre égal, se réunit sous sa présidence ou sous celle du
-chef du service de l'inspection du travail.
+directeur du travail, de l'emploi et de la formation professionnelle.

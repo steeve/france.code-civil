@@ -1,9 +1,9 @@
 Article L152-1
 ----
-Toute infraction aux dispositions de l'article L. 124-1 est punie d'une amende
-de 25 000 F (1) [*montant*]. La récidive est punie d'une amende de 50 000 F (1)
-et d'un emprisonnement de six mois [*durée*] ou de l'une de ces deux peines
-seulement.
+Toute infraction aux dispositions des articles L. 124-1 et L. 124-3 est punie
+d'une amende de 25 000 F (1) [*montant*]. La récidive est punie d'une amende de
+50 000 F (1) et d'un emprisonnement de six mois [*durée*] ou de l'une de ces
+deux peines seulement.
 
 Le tribunal peut prononcer, en outre, l'interdiction d'exercer l'activité de
 sous-entrepreneur de main-d'oeuvre pour une durée de deux ans à dix ans.
