@@ -5,7 +5,7 @@ mentionnées à l'article L. 302-5 qui, au vu de leur programme local de l'habit
 pour les engagements pris postérieurement au 31 décembre 1995 , se sont engagées
 par délibération à mettre en oeuvre, dans un délai maximum de trois ans, les
 actions foncières et acquisitions immobilières nécessaires à la réalisation, sur
-le territoire de la commune, d'un nombre de logements sociaux qui augmenté du
+le territoire de la commune, d'un nombre de logements sociaux qui, augmenté du
 nombre des logements de même nature commencés pendant la période triénnale, doit
 être au moins égal, d'une part, à 1 p. 100 du nombre de résidences principales
 au sens du II de l'article 1411 du code général des impôts et, d'autre part, à 9
@@ -19,8 +19,8 @@ prévue à l'article L. 302-7.
 
 Sont considérés comme logements sociaux pour l'application du présent article :
 
-1° Les logements sociaux prévus au 2° du III de l'article L. 234-12 du code des
-communes ;
+1° Les logements sociaux locatifs et en accession à la propriété mentionnés à
+l'article L. 302-5;
 
 2° Les logements améliorés avec le concours financier de l'Agence nationale pour
 l'amélioration de l'habitat et faisant l'objet d'une convention conclue avec
@@ -56,8 +56,6 @@ l'engagement est pris par le conseil municipal. Toutefois, si l'engagement a ét
 pris avant le 1er janvier 1995, la période triennale commence le 1er janvier
 1995.
 
-
-Les actions foncières et acquisitions immobilières réalisées
-
-en 1994 et les logements commencés en 1993 et 1994 sont comptabilisés au titre
-des réalisations de la période triennale commençant le 1er janvier 1995.
+Les actions foncières et acquisitions immobilières réalisées en 1994 et les
+logements commencés en 1993 et 1994 sont comptabilisés au titre des réalisations
+de la période triennale commençant le 1er janvier 1995.
