@@ -9,4 +9,9 @@ les sections I et II du chapitre III du même titre ainsi que la section II du
 chapitre III du titre V du livre III sont applicables aux logements construits
 en application du titre II de la loi du 13 juillet 1928 établissant un programme
 de construction ou d'habitation à bon marché et de logements, en vue de remédier
-à la crise de l'habitation, qui ne sont pas gérés par un organisme d'H.L.M. "
+à la crise de l'habitation, qui ne sont pas gérés par un organisme d'H.L.M.. Le
+plafond de ressources à prendre en compte pour l'application de l'article L.
+441-3 sera, pour les locataires de logements construits en application de la loi
+du 13 juillet 1928 précitée, supérieur de 50 p. 100 aux plafonds de ressources
+applicables aux bénéficiaires de la législation sur les habitations à loyer
+modéré et des nouvelles aides de l'Etat en secteur locatif. "
