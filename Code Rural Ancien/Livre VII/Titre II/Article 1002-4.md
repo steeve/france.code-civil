@@ -50,9 +50,30 @@ f) De promouvoir et animer l'action sanitaire et sociale ;
 g) De promouvoir la prévention des accidents du travail des salariés agricoles.
 
 III. - La caisse centrale de la mutualité sociale agricole contribue à la mise
-en oeuvre de la politique sociale agricole. A cette fin, elle communique au
-ministre chargé de l'agriculture des statistiques et lui soumet des
-propositions.
+en oeuvre de la politique sociale agricole. Elle soumet à cette fin toutes
+propositions au ministre chargé de l'agriculture et lui communique toutes
+statistiques.
+
+Dans le respect des lois de financement de la sécurité sociale et des
+dispositions des articles 1003-1 à 1003-4, l'autorité compétente de l'Etat
+conclut avec la caisse centrale de la mutualité sociale agricole une convention
+d'objectifs et de gestion à caractère pluriannuel. Cette convention détermine
+pour une période minimale de trois ans les objectifs liés à la gestion des
+régimes de protection sociale des non salariés et des salariés des profession
+agricoles, au service des prestations, au recouvrement des cotisations et des
+impôts affectés, à l'amélioration du service aux usagers et à la politique
+d'action sanitaire et sociale et de prévention. Elle détermine également les
+conditions de conclusion des avenants en cours d'exécution de la convention,
+notamment en fonction des lois de financement de la sécurité sociale et des
+modifications importantes de la charge de travail de la caisse centrale liées à
+l'évolution du cadre législatif et réglementaire de son action, ainsi que le
+processus d'évaluation contradictoire des résultats obtenus au regard des
+objectifs fixés. Cette convention définit des orientations pluriannuelles
+cohérentes avec celles mentionnées dans la convention d'objectifs et de gestion
+de la branche maladie du régime général. L'avenant qui est conclu à la suite de
+la publication de la loi de financement de la sécurité sociale comporte des
+clauses analogues à celles de l'avenant ayant le même objet de la branche
+maladie du régime général.
 
 Elle est soumise aux dispositions applicables, en matière de gestion comptable
 et financière, aux caisses départementales et pluridépartementales de mutualité
