@@ -1,5 +1,11 @@
 Article R531-2
 ----
-L'autorité administrative compétente pour engager les procédures prévues aux
-articles L. 531-2, L. 531-3 et L. 531-4 est déterminée suivant les dispositions
-de l'article R. 122-1.
+Lorsque la commission estime qu'il peut y avoir lieu de faire application des
+sanctions prévues à l'article L. 531-5, elle porte à la connaissance de la
+mutuelle concernée, par lettre recommandée avec demande d'avis de réception
+adressée au représentant légal de la mutuelle, les faits qui lui sont reprochés
+; elle lui fait savoir qu'il peut prendre connaissance et copie des pièces du
+dossier ; elle l'invite à faire parvenir ses observations écrites dans un délai
+qui ne peut être inférieur à huit jours.
+
+Copie de la lettre de notification est adressée au commissaire du Gouvernement.
