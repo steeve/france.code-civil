@@ -15,3 +15,11 @@ l'article 503.
 Les dispositions de l'article D. 116-7, des deuxième et troisième alinéas de
 l'article D. 116-10 ainsi que celles des articles D. 116-11 et D. 116-12 sont
 applicables aux demandes de libération conditionnelle.
+
+La demande de libération conditionnelle est remise au greffe du juge de
+l'application des peines dans les conditions prévues par le deuxième alinéa de
+l'article D. 116-7.
+
+Lorsque la demande relève de la compétence de la juridiction régionale de la
+libération conditionnelle, le greffier du juge de l'application des peines la
+transmet sans délai en copie à cette juridiction.

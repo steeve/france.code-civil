@@ -20,6 +20,11 @@ demande de l'intéressé ou sur réquisitions du procureur de la République, et
 selon la procédure prévue par le sixième alinéa de l'article 722, ordonner l'une
 des mesures mentionnées à cet alinéa.
 
+Toutefois, le juge de l'application des peines peut ordonner l'une de ces
+mesures sans procéder au débat contradictoire prévu par le sixième alinéa de
+l'article 722 lorsque la mesure envisagée reçoit l'accord du ministère public et
+du condamné.
+
 A défaut de décision du juge de l'application des peines dans les trois mois
 suivant la communication visée au premier alinéa et même, en cas d'urgence,
 avant ce terme, la peine peut être ramenée à exécution par le ministère public

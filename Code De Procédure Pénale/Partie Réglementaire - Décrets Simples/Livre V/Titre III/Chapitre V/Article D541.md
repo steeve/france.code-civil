@@ -14,3 +14,11 @@ judiciaire, qu'elle fait l'objet d'une arrestation provisoire et qu'elle
 comparaîtra, dans un délai d'un ou deux mois, selon les distinctions prévues à
 l'article précédent, devant la juridiction chargée de statuer sur l'éventuelle
 révocation de la libération conditionnelle.
+
+Lorsqu'un mandat d'arrêt est délivré dans les conditions prévues par le deuxième
+alinéa de l'article 722-2 à l'encontre d'un condamné bénéficiant d'une
+libération conditionnelle, le délai prévu par l'article 732 est suspendu jusqu'à
+l'exécution du mandat.
+
+Il en est de même pendant la durée de l'arrestation provisoire ordonnée en
+application du deuxième alinéa de l'article 733.
