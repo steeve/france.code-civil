@@ -23,7 +23,12 @@ courant, des protecteurs mobiles ou dispositifs ouvrants munis d'un système de
 maintien en place ne nécessitant pas l'emploi d'un outil pour leur ouverture
 peuvent être utilisés. Aucune mise en marche normale des éléments mobiles ne
 doit être possible tant que ces dispositifs ne sont pas fermés. Leur ouverture
-doit déclencher l'arrêt des éléments mobiles.
+doit déclencher l'arrêt des éléments mobiles. Dans le cas des chariots de
+manutention automoteurs utilisant des moteurs thermiques, l'accès au
+compartiment moteur, s'il existe, peut être empêché par des protecteurs mobiles
+à condition que leur ouverture nécessite l'utilisation d'un outil ou d'une clé
+ou l'utilisation d'une commande installée au poste de conduite si celui-ci est
+situé dans une cabine entièrement close et d'accès verrouillable.
 
 L'accès aux éléments mobiles des machines et appareils autres que ceux qui sont
 mentionnés au 1er alinéa doit être empêché soit par construction, soit par
