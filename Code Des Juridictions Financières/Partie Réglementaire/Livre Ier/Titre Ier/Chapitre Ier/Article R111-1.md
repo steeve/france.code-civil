@@ -36,7 +36,7 @@ l'urbanisme ;
 
 11° Les chambres de commerce et d'industrie et leurs groupements ;
 
-12° Les chambres des métiers et leurs groupements ;
+12° Les chambres de métiers et de l'artisanat et leurs groupements ;
 
 13° Les chambres d'agriculture et leurs groupements.
 
@@ -47,3 +47,22 @@ de trois ans et maximale de cinq ans.
 III. - En cas de délégation, sont applicables les dispositions du présent code
 relatives au jugement des comptes et à l'examen de la gestion des établissements
 publics relevant de la compétence directe des chambres régionales des comptes.
+
+IV. - Les établissements publics nationaux ayant leur siège en Polynésie
+française dont le jugement des comptes et l'examen de la gestion peuvent être
+délégués par arrêté du premier président de la Cour des comptes dans les
+conditions fixées au troisième alinéa de l'article L. 111-9 appartiennent aux
+catégories suivantes :
+
+1° Les établissements publics à caractère scientifique, culturel et
+professionnel mentionnés à l'article L. 711-2 du code de l'éducation ;
+
+2° Les instituts universitaires de formation des maîtres.
+
+La délégation est donnée pour une période minimale de trois ans et maximale de
+cinq ans.
+
+En cas de délégation, sont applicables les dispositions du présent code et des
+règlements en vigueur relatives au jugement des comptes et à l'examen de la
+gestion des établissements publics relevant de la compétence directe de la
+chambre territoriale des comptes de la Polynésie française.

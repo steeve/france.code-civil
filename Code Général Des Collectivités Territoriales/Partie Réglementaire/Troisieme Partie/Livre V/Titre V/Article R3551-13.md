@@ -14,9 +14,9 @@ l'association des maires ;
 
 3° Un représentant de chacune des trois sections de la chambre professionnelle
 de Mayotte puis à compter de leur création un représentant de la chambre de
-commerce et d'industrie de Mayotte, un représentant de la chambre de métiers de
-Mayotte et un représentant de la chambre d'agriculture de Mayotte, si elles en
-font la demande ;
+commerce et d'industrie de Mayotte, un représentant de la chambre de métiers et
+de l'artisanat de Mayotte et un représentant de la chambre d'agriculture de
+Mayotte, si elles en font la demande ;
 
 4° Un représentant de chacune des organisations professionnelles si elles en
 font la demande.

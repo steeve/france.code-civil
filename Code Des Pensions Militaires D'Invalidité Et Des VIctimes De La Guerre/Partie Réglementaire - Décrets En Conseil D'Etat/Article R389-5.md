@@ -31,7 +31,7 @@ départementale prévue à l'article R. 260, de préférence parmi les membres d
 commission qualifiée du conseil d'administration de l'office départemental ;
 
 Si la demande de prêt est déposée par un artisan rural, le président de la
-chambre de métiers ou son représentant ;
+chambre de métiers et de l'artisanat ou son représentant ;
 
 Si la demande de prêt est présentée par un agriculteur sinistré, le délégué
 départemental du ministère de la construction et de l'urbanisme ou son

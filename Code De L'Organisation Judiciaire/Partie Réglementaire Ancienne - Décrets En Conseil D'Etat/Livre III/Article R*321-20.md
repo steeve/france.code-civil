@@ -10,4 +10,5 @@ la révision des listes électorales politiques ;
 liste pour l'élection des membres des chambres d'agriculture ;
 
 3° Les décisions de la commission administrative relatives à la formation et à
-la révision des listes pour l'élection des membres des chambres de métiers.
+la révision des listes pour l'élection des membres des chambres de métiers et de
+l'artisanat.

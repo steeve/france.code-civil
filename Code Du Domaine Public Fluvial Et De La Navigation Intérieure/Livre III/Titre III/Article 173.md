@@ -6,4 +6,4 @@ intérêts professionnels ou économiques des patrons bateliers et des compagnon
 bateliers au service de ceux-ci.
 
 Leur création s'effectue avec le même caractère et avec les mêmes effets que
-celles des chambres de métiers.
+celles des chambres de métiers et de l'artisanat.

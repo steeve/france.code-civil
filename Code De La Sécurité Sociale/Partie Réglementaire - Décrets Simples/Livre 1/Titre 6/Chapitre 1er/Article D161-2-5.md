@@ -17,7 +17,7 @@ production, suivant la nature de l'activité, d'un certificat de radiation du
 registre du commerce et des sociétés, du répertoire des métiers ou du registre
 des entreprises des départements du Haut-Rhin, du Bas-Rhin et de la Moselle, ou
 d'un certificat de cessation d'activité du chef d'entreprise délivré par la
-chambre des métiers.
+chambre de métiers et de l'artisanat.
 
 Dans les autres cas, l'assuré doit produire une attestation sur l'honneur
 mentionnant la date de cessation de toute activité auprès du ou des employeurs

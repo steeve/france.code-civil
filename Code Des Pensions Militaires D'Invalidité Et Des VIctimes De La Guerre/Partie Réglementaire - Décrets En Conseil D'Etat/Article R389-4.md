@@ -17,8 +17,8 @@ Soit le président de la chambre de commerce siégeant au chef-lieu du départem
 ou, à défaut de chambre de commerce au chef-lieu, le président d'une chambre de
 commerce désignée par le préfet ;
 
-Soit, lorsque le demandeur est un artisan, le président de la chambre des
-métiers ;
+Soit, lorsque le demandeur est un artisan, le président de la chambre de métiers
+et de l'artisanat ;
 
 En cas d'empêchement, le président de la chambre compétente peut se faire
 représenter par un membre de ladite chambre ;

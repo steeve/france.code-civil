@@ -20,4 +20,4 @@ représentant ;
 5°) le chef du service régional de l'inspection du travail, de l'emploi et de la
 politique sociale agricoles ou son représentant ;
 
-6°) un représentant de la chambre des métiers.
+6°) un représentant de la chambre de métiers et de l'artisanat.

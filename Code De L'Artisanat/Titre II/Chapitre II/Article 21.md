@@ -1,25 +1,18 @@
 Article 21
 ----
-Les chambres de métiers désignent, dans leur circonscription, des membres
-associés répondant aux conditions d'éligibilité prévues à l'article 4 à raison
-d'un par canton, après consultation des organisations syndicales représentatives
-du secteur des métiers du département. Toutefois, lorsque la situation locale le
-justifie, le préfet peut, pour l'application du présent article, réunir
-plusieurs cantons pour lesquels il ne sera désigné qu'un seul membre associé.
-Dans les villes divisées en arrondissements il est désigné un membre associé
-pour chacun d'eux.
+A chaque renouvellement général des chambres, des membres associés peuvent être
+désignés par l'assemblée générale de la chambre de métiers et de l'artisanat,
+après consultation des organisations professionnelles représentatives du secteur
+des métiers du département. Les membres associés conseillent et assistent les
+ressortissants de la chambre de métiers et de l'artisanat dans les secteurs
+d'activité ou les zones géographiques concernés.
 
-Les membres associés sont habilités à renseigner et à conseiller les
-ressortissants de la chambre de métiers et à les assister éventuellement dans
-les formalités qui leur incombent.
+Les membres associés répondent aux conditions d'éligibilité prévues par
+l'article 5 du décret n° 2004-896 du 27 août 2004 modifiant le décret n° 99-433
+du 27 mai 1999 relatif à la composition des chambres de métiers et à leur
+élection.
 
-A cette fin, la chambre leur donne régulièrement communication de ses
-délibérations, des décisions de son président, et d'une façon générale, leur
-adresse toute documentation utile à l'exercice de leur mission. Ils sont réunis
-une fois par an, sur convocation du président, pour être informés de l'activité
-de la chambre et formuler toutes suggestions utiles dans les limites de la
-compétence de celle-ci.
-
-Les membres associés sont désignés pour une période de six ans. Ils sont
-renouvelables par moitié tous les trois ans à la suite des élections triennales
-aux chambres de métiers.
+Le règlement intérieur fixe un nombre de membres associés limité à la moitié au
+maximum du nombre des membres élus, sauf dérogation admise par le préfet, et
+leur mode de désignation. Il précise leurs missions et les modalités de leur
+participation aux délibérations de l'assemblée générale avec voix consultative.

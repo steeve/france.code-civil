@@ -24,7 +24,7 @@ c) Un par la confédération générale des petites et moyennes entreprises ;
 
 d) Un par la fédération nationale des syndicats d'exploitants agricoles ;
 
-e) Un par l'assemblée permanente des chambres de métiers ;
+e) Un par l'assemblée permanente des chambres de métiers et de l'artisanat ;
 
 f) Un par l'union nationale des associations familiales.
 

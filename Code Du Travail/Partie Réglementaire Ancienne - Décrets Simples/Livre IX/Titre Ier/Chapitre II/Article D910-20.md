@@ -29,6 +29,6 @@ de la région.
 
 La représentation des employeurs est complétée, selon la nature de l'activité de
 l'établissement dont relèvent les personnels en cause, par un représentant de la
-ou des chambres des métiers ou par un représentant de la ou des chambres de
-commerce et d'industrie ou par un représentant de la ou des chambres
+ou des chambres de métiers et de l'artisanat ou par un représentant de la ou des
+chambres de commerce et d'industrie ou par un représentant de la ou des chambres
 d'agriculture.

@@ -1,7 +1,7 @@
 Article 41
 ----
-Les chambres de métiers réglementent et surveillent l'apprentissage dans les
-entreprises artisanales de leur ressort.
+Les chambres de métiers et de l'artisanat réglementent et surveillent
+l'apprentissage dans les entreprises artisanales de leur ressort.
 
 Elles établissent à cet effet, après avoir consulté les organisations
 artisanales de leur ressort, un règlement d'apprentissage déterminant, dans le
@@ -13,7 +13,7 @@ Le règlement d'apprentissage établi en vertu de l'alinéa précédent est soum
 l'approbation du ministre chargé de l'enseignement technique, après consultation
 du comité départemental de l'enseignement technique.
 
-Les chambres de métiers peuvent, par l'intermédiaire de l'assemblée des
-présidents des chambres de métiers, se concerter pour l'établissement d'un
-règlement d'apprentissage commun à plusieurs ou à tous les départements, en
-procédant de préférence par région économique.
+Les chambres de métiers et de l'artisanat peuvent, par l'intermédiaire de
+l'assemblée des présidents des chambres de métiers et de l'artisanat, se
+concerter pour l'établissement d'un règlement d'apprentissage commun à plusieurs
+ou à tous les départements, en procédant de préférence par région économique.

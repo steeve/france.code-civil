@@ -21,7 +21,8 @@ preuve et notamment par la production, suivant la nature de l'activité :
 a. d'un certificat de radiation du registre du commerce et des sociétés, du
 répertoire des métiers ou du registre des entreprises des départements du
 Haut-Rhin, du Bas-Rhin et de la Moselle, ou un certificat de cessation
-d'activité du chef d'entreprise délivré par la chambre des métiers ;
+d'activité du chef d'entreprise délivré par la chambre de métiers et de
+l'artisanat ;
 
 b. d'une attestation de radiation du tableau de l'ordre professionnel dont il
 relevait ;
