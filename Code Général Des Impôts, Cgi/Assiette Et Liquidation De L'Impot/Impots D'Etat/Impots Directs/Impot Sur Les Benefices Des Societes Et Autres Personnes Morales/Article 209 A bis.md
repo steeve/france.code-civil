@@ -3,7 +3,7 @@ Article 209 A bis
 I. Une société qui détient directement [*pourcentage de participation*] au moins
 25 % du capital d'une autre société créée en 1984 et en 1985 pour reprendre une
 entreprise ou un établissement en difficulté exerçant une activité industrielle,
-peut déduire, selon les modalités fixées au deuxième alinéa du I de l'article
+peut déduire, selon les modalités fixées au troisième alinéa du I de l'article
 209, une fraction du déficit fiscal reportable de l'entreprise reprise ou
 afférent à l'établissement repris.
 

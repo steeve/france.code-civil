@@ -61,17 +61,15 @@ F.
 
 Au-delà, la taxe est majorée de 10 F par tranche supplémentaire de 50 F.
 
-Pour les entrées à prix réduit ou avec des cartes d'abonnement et, sous réserve
-des dispositions de l'alinéa suivant, pour les entrées à titre gratuit, la taxe
-est liquidée dans les conditions prévues pour l'impôt sur les spectacles par
-l'article 1563.
+Les entrées à prix réduit sont imposées d'après le prix effectivement payé. Pour
+les sommes perçues au titre des abonnements, la taxe est calculée en rapportant
+le prix payé au nombre d'entrées auquel ces abonnements donnent droit.
 
-Les places exonérées de l'impôt sur les spectacles, indiquées à l'article
-1561-5° et 6° du même code, le sont également de la taxe additionnelle.
+La déclaration et le paiement de la taxe sont effectués dans les conditions
+prévues par l'article 1565 bis pour l'impôt sur les spectacles.
 
-La taxe est constatée et recouvrée par le service des impôts selon les règles et
-sous les sûretés, garanties et sanctions applicables aux contributions
-indirectes.
+La taxe est recouvrée par le service des impôts selon les règles et sous les
+sûretés, garanties et sanctions applicables aux contributions indirectes.
 
 Un décret fixe les conditions d'application des dispositions ci-dessus (2).
 

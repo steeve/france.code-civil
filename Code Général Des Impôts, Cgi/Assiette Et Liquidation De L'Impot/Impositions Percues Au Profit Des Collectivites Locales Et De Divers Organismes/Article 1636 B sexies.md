@@ -26,6 +26,25 @@ taux moyen pondéré des trois autres taxes perçues au profit de la collectivit
 considérée est inférieur au taux moyen pondéré constaté l'année précédente pour
 ces trois taxes dans l'ensemble des collectivités de même nature.
 
+Lorsque le produit de la taxe d'habitation perçu l'année précédente par une
+communauté urbaine en application de l'article 1609 bis provient, pour plus des
+trois quarts de son montant total, des impositions à cette taxe sur le
+territoire d'une seule commune membre, le conseil municipal de cette dernière
+peut, pour l'application de la majoration, additionner les taux des taxes
+foncières, de la taxe d'habitation et de la taxe professionelle perçues au
+profit de la commune et les taux respectifs des mêmes taxes, votés l'année
+précédente par la communauté urbaine.
+
+I bis. Dans les communes où le taux ou les bases de la taxe professionnelle
+étaient nuls l'année précédente, le conseil municipal peut fixer le taux de
+cette taxe. Toutefois, le rapport entre le taux ainsi voté et le taux moyen
+constaté pour la taxe professionnelle l'année précédente dans l'ensemble des
+communes ne doit pas excéder le rapport entre d'une part, le taux moyen de la
+taxe d'habitation et des taxes foncières, pondéré par l'importance relative des
+bases de ces trois taxes dans la commune pour l'année d'imposition, et, d'autre
+part, le taux moyen pondéré de ces trois taxes constaté l'année précédente dans
+l'ensemble des communes.
+
 II. En cas de création d'un groupement de communes doté d'une fiscalité propre,
 les rapports entre les taux des quatre taxes établies par le groupement doivent
 être égaux, la première année, aux rapports constatés l'année précédente entre

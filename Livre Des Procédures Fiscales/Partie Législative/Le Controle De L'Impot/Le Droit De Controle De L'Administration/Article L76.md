@@ -6,5 +6,9 @@ recouvrement des impositions [*délai minimum*], au moyen d'une notification qui
 précise les modalités de leur détermination. Cette notification est interruptive
 de prescription.
 
+La prescription des sanctions fiscales autres que celles visées au troisième
+alinéa de l'article L. 188 est interrompue par la mention portée sur la
+notification de redressements qu'elles pourront être éventuellement appliquées.
+
 Les dispositions du présent article ne sont pas applicables dans les cas prévus
 à l'article L. 68.

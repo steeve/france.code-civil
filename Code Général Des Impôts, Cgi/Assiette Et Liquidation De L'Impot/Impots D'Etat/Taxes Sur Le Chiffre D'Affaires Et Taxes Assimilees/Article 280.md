@@ -1,8 +1,8 @@
 Article 280
 ----
-1 La taxe sur la valeur ajoutée est perçue au taux intermédiaire de 18,60 % (1)
-en ce qui concerne les opérations d'achat, d'importation, de vente, de
-livraison, de commission, de courtage ou de façon portant sur :
+1 La taxe sur la valeur ajoutée est perçue au taux intermédiaire de 18,60 % en
+ce qui concerne les opérations d'achat, d'importation, de vente, de livraison,
+de commission, de courtage ou de façon portant sur :
 
 1° Les produits suivants :
 
@@ -42,7 +42,7 @@ du taux super réduit :
 
 - chocolats et tous produits composés contenant du chocolat ou du cacao à
 l'exception du chocolat, du chocolat de ménage, du chocolat de ménage au lait,
-des fèves de cacao et du beurre de cacao (2) ;
+des fèves de cacao et du beurre de cacao (1) ;
 
 - extraits liquides, sirops, liqueurs et autres boissons à base de cafés, thés,
 chicorées, succédanés et mélanges de ces produits;
@@ -58,10 +58,10 @@ a (Abrogé);
 
 b Aux prestations de services de caractère social, culturel ou qui répondent, en
 raison de leur nature et de leur prix, à des besoins courants et dont la liste
-est fixée par décret (3), ainsi qu'à celles faites par les redevables inscrits
-au répertoire des métiers, à l'exception des opérations dont les
-caractéristiques ne justifient pas l'immatriculation audit répertoire des
-personnes qui y procèdent;
+est fixée par décret (2), ainsi qu'à celles faites par les redevables inscrits
+au répertoire des métiers ou au registre de la chambre nationale de la
+batellerie artisanale, à l'exception des opérations dont les caractéristiques ne
+justifient pas l'immatriculation audit répertoire des personnes qui y procèdent;
 
 c (Abrogé);
 
@@ -75,7 +75,7 @@ f Aux travaux immobiliers concourant :
 
 - à la construction, à la livraison, à la réparation ou à la réfection des voies
 et bâtiments de l'Etat et des collectivités locales, ainsi que de leurs
-établissements publics ;
+établissements publics (3) ;
 
 - à la construction et à la livraison des immeubles destinés à être affectés à
 l'habitation pour les trois quarts au moins de leur superficie;
@@ -102,9 +102,10 @@ l'habitation pour les trois quarts au moins de leur superficie totale;
 droits sociaux donnant vocation à l'attribution des mêmes locaux;
 
 h A l'ensemble des opérations, autres que les reventes en l'état, réalisées par
-les redevables inscrits au répertoire des métiers, lorsque ces redevables sont
-susceptibles de bénéficier du régime prévu à l'article 282-3 ou sont placés par
-option sous le régime simplifié d'imposition;
+les redevables inscrits au répertoire des métiers ou au registre de la chambre
+nationale de la batellerie artisanale , lorsque ces redevables sont susceptibles
+de bénéficier du régime prévu à l'article 282-3 ou sont placés par option sous
+le régime simplifié d'imposition;
 
 i Aux redevances visées à l'article 257-18°;
 
@@ -132,11 +133,12 @@ Les locations et les ventes desdits biens et équipements à l'administration de
 postes et télécommunications sont soumises à la taxe sur la valeur ajoutée au
 taux intermédiaire.
 
-(1) Taux applicable aux opérations pour lesquelles la taxe est exigible à
-compter du 1er juillet 1982 (Loi n° 82-540 du 28 juin 1982, art. 3 V).
+(1) Voir art. 278 bis, renvoi 2.
 
-(2) Voir art. 278 bis, renvoi 2.
-
-(3) Voir annexe III, art. 88.
+(2) Annexe III, art. 88 (3) A compter du 1er janvier 1970, les travaux
+immobiliers concourant à la construction, à la livraison, à la réparation ou à
+la réfection des voies et bâtiments publics à caractère industriel ou commercial
+assujettis à la taxe sur la valeur ajoutée (loi n° 67-1172 du 22 décembre 1967,
+art. 10, J.O. du 29).
 
 (4) Voir annexe II, art. 259.

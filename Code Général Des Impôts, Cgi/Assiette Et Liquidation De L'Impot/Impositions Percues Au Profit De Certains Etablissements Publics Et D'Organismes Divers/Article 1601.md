@@ -14,7 +14,7 @@ immatriculés au répertoire des métiers.
 
 Cette taxe comprend :
 
-a. un droit fixe par ressortissant, dont le maximum fixé à 355 F est révisable
+a. un droit fixe par ressortissant, dont le maximum fixé à 373 F est révisable
 lors du vote de la loi de finances de l'année (1). Ce droit fait obligatoirement
 l'objet d'une majoration comprise entre 50 % et 80 % de ce maximum en vue de
 financer des actions de formation continue ;

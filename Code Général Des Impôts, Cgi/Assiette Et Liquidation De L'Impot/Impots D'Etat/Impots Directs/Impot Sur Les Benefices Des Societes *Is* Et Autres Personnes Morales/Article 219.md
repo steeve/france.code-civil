@@ -9,7 +9,15 @@ Toutefois :
 
 a. Le montant net des plus-values à long terme autres que celles visées à
 l'article 39 quindecies-II fait l'objet d'une imposition séparée au taux de 15
-%, dans les conditions prévues aux articles 39 quindecies-I et 209 quater ;
+%, dans les conditions prévues aux articles 39 quindecies-I-1 et 209 quater ;
+
+L'excédent éventuel des moins-values à long terme ne peut être imputé que sur
+les plus-values à long terme réalisées au cours des dix exercices suivants.
+
+Toutefois, en cas de liquidation d'entreprise, cet excédent peut être déduit des
+bénéfices de l'exercice de liquidation à raison des trois dixièmes de son
+montant en ce qui concerne les moins-values subies au cours des exercices clos à
+compter du 1er décembre 1973.
 
 Le montant net des plus-values à long terme visées à l'article 39 quindecies-II
 fait l'objet d'une imposition séparée au taux de 25 % dans les conditions

@@ -17,7 +17,7 @@ livraisons de l'exploitation ;
 
 2° Les exploitants qui passent du forfait au régime du bénéfice réel peuvent,
 sur agrément de la commission départementale des impôts directs et des taxes sur
-le chiffre d'affaires, clôturer avant le 31 décembre de leur premier exercice
+le chiffre d'affaires, clôturer avant le 31 décembre leur premier exercice
 soumis à ce régime. Dans ce cas, la condition posée au 1° doit être remplie pour
 l'année du changement de régime d'imposition et pour les deux années civiles
 précédentes ;
@@ -29,7 +29,11 @@ livraisons effectuées entre le 1er janvier 1984 et la date de clôture excèden
 50 % des ventes et des livraisons de l'année civile 1984. La même condition doit
 être remplie sur la période correspondante de 1983. La date de clôture doit être
 agréée par la commission départementale des impôts directs et des taxes sur le
-chiffre d'affaires.
+chiffre d'affaires. 4° Les exploitants soumis au régime de bénéfice réel
+peuvent, sur agrément de la commission départementale des impôts directs et des
+taxes sur le chiffre d'affaires, modifier la date de clôture de leur exercice
+lorsqu'ils opèrent une reconversion d'activité par suite d'un changement très
+important de production.
 
 III. Un décret (2) fixe les modalités d'application de la procédure d'agrément
 visée au II et la date d'effet des décisions de la commission départementale des
@@ -39,4 +43,4 @@ de deux ans après la date de leur création.
 
 (1) Disposition applicable à compter de l'imposition des revenus de 1984.
 
-(2) Décret à émettre.
+(2) Voir Annexe III, art. 38 sexdecies CA à 38 sexdecies CF.

@@ -2,7 +2,7 @@ Article 110
 ----
 1. Le résultat d'ensemble défini à l'article 108 est, selon le cas, imposé ou
 reporté dans les conditions prévues respectivement à l'article 219-I ou à
-l'article 209-I, deuxième alinéa, du code général des impôts.
+l'article 209-I, troisième alinéa, du code général des impôts.
 
 2. Par dérogation à l'article 108-2-b, la plus-value nette à long terme
 d'ensemble peut, dans la mesure où la société agréée n'entend pas l'utiliser

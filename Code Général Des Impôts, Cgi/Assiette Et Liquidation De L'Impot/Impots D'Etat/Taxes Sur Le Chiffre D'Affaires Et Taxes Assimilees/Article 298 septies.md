@@ -12,8 +12,8 @@ le taux réel perçu dans les départements de la France métropolitaine soit de
 Martinique et de la Réunion;
 
 2° Pour les autres publications, sous réserve des dispositions de l'article 298
-terdecies A, au taux réduit. En 1982, 1983 et 1984 , le taux réduit est assorti
-d'une réfaction telle que le taux réel perçu est de 4 % ; ce taux est diminué de
-moitié dans les départements de la Guadeloupe, de la Martinique et de la
-Réunion. A cette atténuation de la base imposable se substitue, pour les
+terdecies A, au taux réduit. Jusqu'au 31 décembre 1985, le taux réduit est
+assorti d'une réfaction telle que le taux réel perçu est de 4 % ; ce taux est
+diminué de moitié dans les départements de la Guadeloupe, de la Martinique et de
+la Réunion. A cette atténuation de la base imposable se substitue, pour les
 départements de la Corse, celle qui est prévue à l'article 297-I-1-1°.

@@ -7,11 +7,19 @@ des bénéfices réalisés dans les entreprises exploitées en France ainsi que 
 ceux dont l'imposition est attribuée à la France par une convention
 internationale relative aux doubles impositions.
 
-En cas de déficit subi pendant un exercice, ce déficit est considéré comme une
-charge de l'exercice suivant et déduit du bénéfice réalisé pendant ledit
-exercice. Si ce bénéfice n'est pas suffisant pour que la déduction puisse être
-intégralement opérée, l'excédent du déficit est reporté successivement sur les
-exercices suivants jusqu'au cinquième exercice qui suit l'exercice déficitaire.
+Toutefois, par dérogation aux dispositions du deuxième alinéa de l'article 37,
+l'impôt sur les sociétés dû par les entreprises créées à compter du 1er janvier
+1984 est établi, lorsqu'aucun bilan n'est dressé au cours de la première année
+civile d'activité, sur les bénéfices de la période écoulée depuis le
+commencement des opérations jusqu'à la date de clôture du premier exercice et,
+au plus tard, jusqu'au 31 décembre de l'année suivant celle de la création.
+
+Sous réserve de l'option prévue à l'article 220 quinquies, en cas de déficit
+subi pendant un exercice, ce déficit est considéré comme une charge de
+l'exercice suivant et déduit du bénéfice réalisé pendant ledit exercice. Si ce
+bénéfice n'est pas suffisant pour que la déduction puisse être intégralement
+opérée, l'excédent du déficit est reporté successivement sur les exercices
+suivants jusqu'au cinquième exercice qui suit l'exercice déficitaire.
 
 La limitation du délai de report prévue à l'alinéa précédent n'est pas
 applicable à la fraction du déficit qui correspond aux amortissements
@@ -23,7 +31,7 @@ partie de ses propres activités.
 II. Sous réserve d'un agrément préalable délivré par le ministre de l'économie
 et des finances (1) et dans la mesure définie par cet agrément, les fusions de
 sociétés et opérations assimilées qui entrent dans les prévisions de l'article
-210 A peuvent ouvrir droit, dans la limite édictée au I, deuxième alinéa, au
+210 A peuvent ouvrir droit, dans la limite édictée au I, troisième alinéa, au
 report des déficits antérieurs non encore déduits soit par les sociétés
 apporteuses, soit par les sociétés bénéficiaires des apports, sur les bénéfices
 ultérieurs de ces dernières.

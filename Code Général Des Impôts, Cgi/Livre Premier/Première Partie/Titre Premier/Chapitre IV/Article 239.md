@@ -18,12 +18,11 @@ capitaux.
 
 2. (Disposition périmée).
 
-3. Jusqu'au 31 décembre 1985 [*date limite*], les sociétés de personnes qui ont
-opté avant le 1er janvier 1981 pour l'imposition selon le régime fiscal des
-sociétés de capitaux mentionné au 1 et exerçant une activité industrielle,
-commerciale ou artisanale peuvent renoncer à leur option si elles sont formées
-entre personnes parentes en ligne directe ou entre frères et soeurs, ainsi que
-les conjoints. La renonciation ne peut être effectuée qu'avec l'accord de tous
-les associés.
+3. Les sociétés de personnes qui ont opté avant le 1er janvier 1981 pour
+l'imposition selon le régime fiscal des sociétés de capitaux mentionné au 1 et
+exerçant une activité industrielle, commerciale ou artisanale peuvent renoncer à
+leur option si elles sont formées entre personnes parentes en ligne directe ou
+entre frères et soeurs, ainsi que les conjoints. La renonciation ne peut être
+effectuée qu'avec l'accord de tous les associés.
 
 (1) Annexe IV, art. 22 et 23.

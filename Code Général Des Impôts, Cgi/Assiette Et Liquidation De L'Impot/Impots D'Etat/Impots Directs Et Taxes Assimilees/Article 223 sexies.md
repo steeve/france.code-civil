@@ -12,6 +12,9 @@ Il est également exigible lorsque les produits distribués sont prélevés sur 
 résultats d'exercice clos depuis plus de cinq ans ou depuis une date antérieure
 au 1er janvier 1965.
 
+Le précompte est exigible en cas de distribution de bénéfices ayant été pris en
+compte pour le calcul de la créance prévue à l'article 220 quinquies-I.
+
 2. Un décret fixe les modalités d'application du présent article. Il précise
 notamment les postes du bilan sur lesquels les répartitions doivent être
 imputées ainsi que l'ordre de cette imputation (1).

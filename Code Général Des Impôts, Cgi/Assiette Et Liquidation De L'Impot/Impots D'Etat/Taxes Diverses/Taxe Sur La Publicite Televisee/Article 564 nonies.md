@@ -1,6 +1,6 @@
 Article 564 nonies
 ----
-Il est institué jusqu'au 31 décembre 1984 une taxe sur la publicité télévisée.
+Il est institué jusqu'au 31 décembre 1985 une taxe sur la publicité télévisée.
 
 Elle est due par les personnes qui assurent la régie des messages de publicité
 reçus en France sur des écrans de télévision.

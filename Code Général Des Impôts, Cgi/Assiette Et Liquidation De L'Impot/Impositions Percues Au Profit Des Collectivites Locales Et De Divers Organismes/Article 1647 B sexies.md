@@ -1,9 +1,16 @@
 Article 1647 B sexies
 ----
 I. Sur demande du redevable, la cotisation de taxe professionnelle de chaque
-entreprise est plafonnée à 6 % [*pourcentage*] de la valeur ajoutée produite au
+entreprise est plafonnée à 5 % [*pourcentage*] de la valeur ajoutée produite au
 cours de la période retenue pour la détermination des bases imposables et
 définie selon les modalités prévues aux II et III (1).
+
+I bis Le plafonnement prévu au I s'applique sur la cotisation de taxe
+professionnelle diminuée, le cas échéant, de l'ensemble des réductions et
+dégrèvements dont cette cotisation peut faire l'objet.
+
+Il ne s'applique pas aux taxes visées aux articles 1600 et 1601 ni aux
+prélèvements opérés par l'Etat sur ces taxes en application de l'article 1641.
 
 II. 1 La valeur ajoutée mentionnée au I est égale à l'excédent hors taxe de la
 production sur les consommations de biens et services en provenance de tiers

@@ -16,6 +16,14 @@ revenu imposable.
 % pour les dons faits à des fondations ou associations reconnues d'utilité
 publique et répondant aux conditions fixées au 1 (2).
 
+La condition relative à la reconnaissance d'utilité publique est réputée remplie
+par les associations régies par la loi locale maintenue en vigueur dans les
+départements de la Moselle, du Bas-Rhin et du Haut-Rhin, lorsque la mission de
+ces associations est reconnue d'utilité publique.
+
+Un décret en Conseil d'Etat fixe les conditions de cette reconnaissance et les
+modalités de la procédure déconcentrée permettant de l'accorder.
+
 5 Le bénéfice des dispositions du 1, deuxième alinéa et du 4 est subordonné à la
 condition que soient jointes à la déclaration des revenus des pièces
 justificatives, répondant à un modèle fixé par un arrêté (3) attestant le total
@@ -24,13 +32,20 @@ A défaut, les sommes déduites sont réintégrées au revenu imposable sans
 notification de redressement préalable.
 
 6 La déduction mentionnée au premier alinéa du 1 peut être effectuée, dans la
-limite de 2 p. 1000 pour les dons faits à des organismes répondant à des
+limite de 2 p. 1.000 pour les dons faits à des organismes répondant à des
 conditions quant à leur statut et leurs conditions de fonctionnement fixées par
 décret en Conseil d'Etat (5) et ayant pour objet exclusif de participer, par le
 versement d'aides financières, à la création d'entreprises.
 
 Dans tous les cas, ces organismes doivent être agréés par le ministre de
 l'économie, des finances et du budget.
+
+7 La limite de déduction de 1 p. 1.000 mentionnée au premier alinéa du 1 est
+porté à 2 p. 1.000 [*pourcentage*] pour les dons faits à compter du 1er janvier
+1985 à des fondations associations d'intérêt général et à caractère culturel,
+agréés par le ministre de l'économie, des finances et du budget et le ministre
+de la culture. Cette déduction ne se cumule pas avec celle prévue à l'article
+238 bis A.
 
 (1) Limite applicable à compter de l'imposition des revenus de 1983. Pour
 l'imposition des revenus de 1982, le taux était fixé à 3 %.

@@ -6,7 +6,7 @@ consécutives, l'intéressé est obligatoirement imposé d'après son bénéfice
 compter de la première année suivant la période biennale considérée (1) (2).
 
 Cette limite est fixée à 450.000 F pour la détermination des bénéfices
-imposables au titre des années 1986 et 1987 et à 380.000 F pour la détermination
+imposables au titre des années 1988 et 1989 et à 380.000 F pour la détermination
 des bénéfices imposables au titre des années suivantes. Toutefois, la limite de
 500.000 F reste applicable aux exploitants individuels âgés de cinquante-cinq
 ans au moins à la date à laquelle devrait intervenir le changement de régime

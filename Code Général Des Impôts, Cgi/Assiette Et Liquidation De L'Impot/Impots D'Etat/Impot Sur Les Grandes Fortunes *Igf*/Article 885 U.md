@@ -12,16 +12,20 @@ Le tarif de l'impôt est fixé à :
 
 : : % :
 
-: N'excédant pas 3.400.000 F : 0 :
+: N'excédant pas 3.500.000 F : 0 :
 
-: Comprise entre 3.400.000 F : :
+: Comprise entre 3.500.000 F : :
 
-: et 5.600.000 F : 0,5 :
+: et 5.800.000 F : 0,5 :
 
-: Comprise entre 5.600.000 F : :
+: Comprise entre 5.800.000 F : :
 
-: et 11.200.000 F : 1 :
+: et 11.500.000 F : 1 :
 
-: Supérieure à 11.200.000 F : 1,5 :
+: Comprise entre 11.500.000 F et : :
+
+: 20.000.000 F : 1,5 :
+
+: Supérieure à 20.000.000 F : 2 :
 
 ============================================================

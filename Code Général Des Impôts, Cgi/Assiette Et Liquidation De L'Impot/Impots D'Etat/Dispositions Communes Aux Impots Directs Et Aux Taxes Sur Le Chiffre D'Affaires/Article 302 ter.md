@@ -14,8 +14,7 @@ d'affaires global annuel n'excède pas 500.000 F et si le chiffre d'affaires
 annuel afférent aux activités de la deuxième catégorie ne dépasse pas 150.000 F.
 
 Les chiffres d'affaires annuels de 500.000 F et de 150.000 F s'entendent tous
-droits et taxes compris, à l'exception de la cotisation sur les boissons
-alcooliques instituée par l'article 26 de la loi n° 83-25 du 19 janvier 1983.
+droits et taxes compris.
 
 Pour la détermination du chiffre d'affaires annuel, les ventes d'essence, de
 supercarburant et de gas-oil sont retenues à concurrence de 50 % de leur

@@ -1,7 +1,7 @@
 Article 1018 B
 ----
 Sous réserve des dispositions de l'article 1089 C, il est perçu un droit
-forfaitaire de 20 F pour la délivrance par le secrétariat de la juridiction de
+forfaitaire de 40 F pour la délivrance par le secrétariat de la juridiction de
 toute ampliation d'un acte ou d'une décision en matière civile ou administrative
 ou d'une décision rendue par une juridiction répressive.
 

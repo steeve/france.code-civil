@@ -7,7 +7,7 @@ personnes morales ou organismes passibles de l'impôt sur les sociétés
 bénéficient du régime suivant :
 
 1° Il est perçu un droit fixe d'enregistrement ou une taxe fixe de publicité
-foncière de 1.050 F [*montant*] ;
+foncière de 1.160 F [*montant*] ;
 
 2° Le droit proportionnel de 12 % prévu à l'article 812-I-1° est réduit à 1,20
 %.

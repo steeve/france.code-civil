@@ -7,24 +7,20 @@ courante échangées contre les céréales de semences certifiées dans la limit
 d'un plafond fixé par décret.
 
 Le taux de la taxe est fixé à un pourcentage du prix d'intervention défini par
-l'article 3 du règlement n° 2727 du 29 octobre 1975 du conseil des ministres de
-la communauté économique européenne [*tarif*] :
+l'article 3 du règlement C.E.E. n° 2727/75 :
 
-- 2 % pour le blé tendre ;
-
-- 2,16 % pour le blé dur ;
-
-- 2 % pour l'orge ;
-
-- 3,18 % pour le seigle ;
+- 2,03 % pour le blé tendre, l'orge, le seigle, le blé et le sorgho ;
 
 - 1,82 % pour le maïs.
 
-Pour l'avoine et le sorgho, les taux sont respectivement de 2,65 % et 1,92 % du
-prix de seuil défini à l'article 5-2 du même règlement.
+Pour l'avoine, le taux est fixé à 1,82 % du prix du de seuil défini à l'article
+2 du règlement C.E.E. n° 2727/75.
+
+Pour le triticale, le montant de la taxe applicable est égal à celui qui résulte
+des dispositions prévues ci-dessus pour le seigle.
 
 La taxe est perçue par la direction générale des impôts auprès des collecteurs
-agréés. Elle est constatée, recouvrée, contrôlée et poursuivie selon les règles
+agrées. Elle est constatée, recouvrée, contrôlée et poursuivie selon les règles
 et sous les garanties et sûretés prévues en matière de contributions indirectes.
 
 II. Les éleveurs producteurs de céréales peuvent obtenir la restitution de la

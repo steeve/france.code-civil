@@ -2,7 +2,7 @@ Article 686
 ----
 Les déclarations ou élections de command ou d'ami, par suite d'adjudication ou
 contrat de vente de biens immeubles sont assujetties à une imposition fixe de
-350 F [*montant*] lorsque la faculté d'élire command a été réservée dans l'acte
+390 F [*montant*] lorsque la faculté d'élire command a été réservée dans l'acte
 d'adjudication ou le contrat de vente et que la déclaration est faite par acte
 public et notifiée dans les vingt-quatre heures de l'adjudication ou du contrat
 [*délai*].

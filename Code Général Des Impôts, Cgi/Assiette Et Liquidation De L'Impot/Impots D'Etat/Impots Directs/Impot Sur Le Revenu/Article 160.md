@@ -4,13 +4,19 @@ I. Lorsqu'un associé, actionnaire, commanditaire ou porteur de parts
 bénéficiaires cède à un tiers, pendant la durée de la société, tout ou partie de
 ses droits sociaux, l'excédent du prix de cession sur le prix d'acquisition - ou
 la valeur au 1er janvier 1949, si elle est supérieure - de ces droits est taxé
-exclusivement à l'impôt sur le revenu au taux de 15 % (1).
+exclusivement à l'impôt sur le revenu au taux de 16 % (1).
 
 L'imposition de la plus-value ainsi réalisée est subordonnée à la seule
 condition que les droits détenus directement ou indirectement dans les bénéfices
 sociaux par le cédant ou son conjoint, leurs ascendants et leurs descendants,
 aient dépassé ensemble 25 % de ces bénéfices à un moment quelconque au cours des
 cinq dernières années.
+
+Toutefois, lorsque la cession est consentie au profit de l'une des personnes
+visées au présent alinéa, la plus-value est exonérée si tout ou partie de ces
+droits sociaux n'est pas revendue à un tiers dans un délai de cinq ans. A
+défaut, la plus-value est imposée au nom du premier cédant au titre de l'année
+de la revente des droits au tiers.
 
 Ces dispositions ne sont pas applicables aux associés, commandités et membres de
 sociétés visés à l'article 8 qui sont imposables chaque année à raison de la

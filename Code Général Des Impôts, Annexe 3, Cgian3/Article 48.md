@@ -23,7 +23,7 @@ libérale soumis au régime de la déclaration contrôlée et adhérant à une
 association agréée de membres des professions libérales et de titulaires de
 charges et offices, les indications devant figurer sur l'état mentionné au 1
 sont complétées par la mention de la quote-part de l'abattement prévu à
-l'article 158-4 ter du code général des impôts revenant à chaque associé.
+l'article 158-4 bis du code général des impôts revenant à chaque associé.
 
 2 Les gérants des sociétés en participation et des sociétés de copropriétaires
 de navires qui n'ont pas opté pour le régime fiscal des sociétés de capitaux

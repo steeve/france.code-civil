@@ -1,7 +1,7 @@
 Article 371 W
 ----
 Pour bénéficier au titre d'une année civile donnée de l'abattement prévu à
-l'article 158-4 ter du code général des impôts, les membres des professions
+l'article 158-4 bis du code général des impôts, les membres des professions
 libérales et les titulaires de charges et offices doivent avoir été adhérents
 d'une association agréée pendant toute la durée de l'année ou période
 d'imposition considérée.

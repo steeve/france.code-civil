@@ -23,4 +23,4 @@ de valeurs constituant le portefeuille.
 En outre, les contribuables passibles de l'impôt sur le revenu sont admis à
 déduire de leur bénéfice net total, en vue de l'assiette du prélèvement, les
 déficits antérieurs de leur entreprise, dans les conditions prévues à l'article
-209-I, deuxième alinéa, du code général des impôts.
+209-I, troisième alinéa, du code général des impôts.
