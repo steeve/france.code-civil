@@ -9,3 +9,6 @@ Elle examine toutes les questions intéressant le fonctionnement de la
 juridiction et concernant l'ensemble des magistrats.
 
 Elle prépare les réunions de l'assemblée plénière.
+
+Elle examine le rapport annuel d'activité des maisons de justice et du droit
+situées dans le ressort de la juridiction.

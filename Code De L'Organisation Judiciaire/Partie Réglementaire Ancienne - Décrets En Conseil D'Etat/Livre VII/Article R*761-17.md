@@ -23,4 +23,9 @@ mobilier ;
 
 8° Les conditions de travail du personnel, et les problèmes de sécurité ;
 
-9° Les questions intéressant le fonctionnement interne de la juridiction.
+9° Les questions intéressant le fonctionnement interne de la juridiction ;
+
+10° les projets de convention constitutive d'une maison de justice et du droit
+et la désignation par les chefs de juridiction du ou des magistrats chargés
+d'animer et de coordonner les actions conduites au sein des maisons de justice
+et du droit situées dans le ressort de la juridiction.
