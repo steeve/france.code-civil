@@ -7,15 +7,16 @@ fonctions concernent ou ont concerné tout ou partie du territoire de la région
 
 2° Les fonctionnaires placés auprès du représentant de l'Etat dans la région et
 affectés au secrétariat général pour les affaires régionales en qualité de
-secrétaire général ou de chargé de mission.
+secrétaire général ou de chargé de mission ;
+
+3° Pour une durée d'un an, le président de conseil régional ou le conseiller
+régional visé au deuxième alinéa de l'article 2 de la loi n° 88-227 du 11 mars
+1988 précitée, qui n'a pas déposé l'une des déclarations prévues par ce même
+article.
 
 Pendant la durée de ses fonctions, le médiateur ne peut être candidat à un
 mandat de conseiller régional s'ils n'exerçait le même mandat antérieurement à
 sa nomination.
 
 Les articles L. 199 à L. 203 sont applicables à l'élection des conseillers
-régionaux ;
-
-3° Pour une durée d'un an, le président de conseil régional qui n'a pas déposé
-l'une des déclarations prévues à l'article 2 de la loi n° 88-227 du 11 mars 1988
-relative à la transparence financière de la vie politique.
+régionaux.
