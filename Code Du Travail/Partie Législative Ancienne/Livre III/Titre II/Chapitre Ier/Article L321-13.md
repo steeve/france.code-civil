@@ -45,10 +45,13 @@ délai-congé [*préavis*] prévu aux articles L. 122-5 et suivants, l'employeur
 peut demander aux organismes visés à l'article L. 351-21 le remboursement du
 versement prévu au premier alinéa du présent article.
 
-De même, l'employeur qui conclut avec l'Etat la convention [*d'allocation
-spéciale du FNE*] prévue par le 2° de l'article L. 322-4 et qui en propose le
-bénéfice aux salariés concernés avant l'expiration du délai-congé prévu aux
-articles L. 122-5 et suivants est dispensé de ce versement.
+Cette cotisation n'est pas due dans le cas où le salarié bénéficie des
+allocations spéciales [*du FNE*] prévues par le 2° de l'article L. 322-4.
+
+La cotisation est due également pour chaque rupture du contrat de travail
+intervenue du fait de l'adhésion d'un salarié à une convention de conversion
+prévue par l'article L. 322-3. Le montant de cette cotisation tient compte de la
+participation de l'entreprise au financement de la convention de conversion.
 
 Les dispositions de l'article L. 352-3 sont applicables à la cotisation prévue
 au premier alinéa du présent article.
