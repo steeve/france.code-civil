@@ -14,17 +14,11 @@ de la forêt ;
 3° La réprésentativité des organisations syndicales d'employeurs et de salariés
 est appréciée au plan national, et au plan local par le préfet ;
 
-4° Les dispositions de l'article D. 117-3 sont remplacées dans les départements
-d'outre-mer par les dispositions suivantes :
-
-Les pourcentages fixés aux articles D. 117-1 et D. 117-2 sont uniformément
-majorés de 5 points à compter du début du mois qui suit celui au cours duquel
-l'apprenti a atteint l'âge de dix-huit ans, de 15 points à compter du début du
-mois qui suit celui au cours duquel l'apprenti a atteint l'âge de vingt et un
-ans et de 25 points à compter du début du mois qui suit celui au cours duquel
-l'apprenti a atteint l'âge de vingt-trois ans ; toutefois, cette majoration ne
-peut avoir pour effet de porter les pourcentages fixés à l'article D. 117-1 à
-plus de 75 p. 100 du salaire minimum de croissance.
+4° La rémunération des apprentis est calculée dans les départements d'outre-mer
+selon les règles posées par les articles D. 117-1 et suivants du chapitre VII du
+titre Ier du livre Ier du code du travail sur la base du salaire minimum de
+croissance en vigueur dans ces départements tel que défini à la section I du
+chapitre IV du livre VIII du code du travail.
 
 5° Le montant de la fraction de la taxe d'apprentissage obligatoirement réservée
 au développement de l'apprentissage en application de l'article L. 118-3 est

@@ -1,20 +1,43 @@
 Article D117-1
 ----
-Sous réserve des dispositions de l'article L. 980-11-1, alinéa 2, le salaire
-minimum de l'apprenti prévu par l'article L. 117-10 du présent code est fixé
-comme suit [*montant*] :
+Le salaire minimum perçu par l'apprenti et prévu à l'article L. 117-10 du code
+du travail est fixé comme suit [*montant*] :
 
-à 15 p. 100 du salaire minimum de croissance pendant le premier semestre
+a) Pour les jeunes âgés de seize à dix-sept ans :
+
+- à 25 p. 100 du salaire minimum de croissance pendant la première année
 d'exécution du contrat ;
 
-à 25 p. 100 du salaire minimum de croissance pendant le deuxième semestre
+- à 37 p. 100 du salaire minimum de croissance pendant la deuxième année
 d'exécution du contrat ;
 
-à 35 p. 100 du salaire minimum de croissance pendant le troisième semestre
+- à 53 p. 100 du salaire minimum de croissance pendant la troisième année
 d'exécution du contrat ;
 
-à 45 p. 100 du salaire minimum de croissance pendant le quatrième semestre
+b) Pour les jeunes âgés de dix-huit à vingt ans :
+
+- à 41 p. 100 du salaire minimum de croissance pendant la première année
 d'exécution du contrat ;
 
-à 60 p. 100 du salaire minimum de croissance pendant les cinquième et sixième
-semestres d'exécution du contrat.
+- à 49 p. 100 du salaire minimum de croissance pendant la deuxième année
+d'exécution du contrat ;
+
+- à 65 p. 100 du salaire minimum de croissance pendant la troisième année
+d'exécution du contrat ;
+
+c) Pour les jeunes âgés de vingt et un ans et plus :
+
+- à 53 p. 100 du salaire minimum de croissance ou du salaire minimum
+conventionnel correspondant à l'emploi occupé, s'il est plus favorable, pendant
+la première année d'exécution du contrat ;
+
+- à 61 p. 100 du salaire minimum de croissance ou du salaire minimum
+conventionnel correspondant à l'emploi occupé, s'il est plus favorable, pendant
+la deuxième année d'exécution du contrat ;
+
+- à 78 p. 100 du salaire minimum de croissance ou du salaire minimum
+conventionnel correspondant à l'emploi occupé, s'il est plus favorable, pendant
+la troisième année d'exécution du contrat ;
+
+Les jeunes apprentis de moins de seize ans bénéficient d'une rémunération
+identique à celle prévue pour les apprentis âgés de seize à dix-sept ans.
