@@ -27,4 +27,7 @@ cellules ou gamètes issus du corps humain mentionnés à l'article 18 de la loi
 précitée, aux radio-éléments artificiels définis à l'article L. 631 du code de
 la santé publique et aux déchets relevant de la loi n° 75-633 du 15 juillet 1975
 relative à l'élimination des déchets et à la récupération des matériaux et des
-textes pris pour son application.
+textes pris pour son application. Les dispositions du présent article
+s'appliquent également aux objets de toute nature comportant des images ou des
+représentations d'un mineur à caractère pornographique visées par l'article
+227-23 du code pénal.

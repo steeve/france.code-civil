@@ -10,6 +10,5 @@ années révolues à compter du dernier acte. Il en est ainsi même à l'égard 
 personnes qui ne seraient pas impliquées dans cet acte d'instruction ou de
 poursuite.
 
-Lorsque la victime est mineure et que le crime a été commis par un ascendant
-légitime, naturel ou adoptif ou par une personne ayant autorité sur elle, le
-délai de prescription ne commence à courir qu'à partir de sa majorité.
+Le délai de prescription de l'action publique des crimes commis contre des
+mineurs ne commence à courir qu'à partir de la majorité de ces derniers.

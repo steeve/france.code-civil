@@ -33,7 +33,11 @@ ou de sa mission ;
 
 9° Avec préméditation ;
 
-10° Avec usage ou menace d'une arme.
+10° Avec usage ou menace d'une arme ;
+
+11° Lorsque les faits sont commis à l'intérieur d'un établissement scolaire ou
+éducatif, ou, à l'occasion des entrées ou des sorties des élèves, aux abords
+d'un tel établissement.
 
 Les peines encourues sont portées à cinq ans d'emprisonnement et à 500 000 F
 d'amende lorsque l'infraction définie au premier alinéa est commise sur un
