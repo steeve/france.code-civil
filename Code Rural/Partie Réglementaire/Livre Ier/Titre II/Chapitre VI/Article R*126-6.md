@@ -5,7 +5,7 @@ les périmètres et les mesures d'interdiction et de réglementation des
 plantations et des semis d'essences forestières qui y sont applicables.
 
 Les interdictions de plantations et de semis cessent de produire effet au terme
-de six années à compter de la dernière en date des mesures de publicité prévues
+de dix années à compter de la dernière en date des mesures de publicité prévues
 à l'alinéa suivant.
 
 L'arrêté du préfet est affiché, pendant quinze jours au moins, à la mairie de la
