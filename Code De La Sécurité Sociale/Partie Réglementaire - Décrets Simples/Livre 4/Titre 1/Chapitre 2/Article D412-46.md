@@ -11,9 +11,9 @@ utilisée, la victime adresse celle-ci à la caisse primaire d'assurance maladie
 qui l'a prise en charge et qui délivre à la victime, s'il y a lieu, une nouvelle
 feuille d'accident.
 
-Le médecin de l'administration pénitentiaire communique au médecin conseil de la
-caisse primaire d'assurance maladie, sur sa demande, tous renseignements utiles
-concernant les soins antérieurement donnés à la victime.
+Le praticien hospitalier communique au médecin conseil de la caisse primaire
+d'assurance maladie, sur sa demande, tous renseignements utiles concernant les
+soins antérieurement donnés à la victime.
 
 L'administration pénitentiaire doit également fournir aux caisses d'assurance
 maladie intéressées tous renseignements qui lui sont demandés.
