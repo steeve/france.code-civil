@@ -16,10 +16,6 @@ selon les zones concernées en fonction de la situation mesurée au 1er janvier
 directives territoriales d'aménagement et du schéma directeur de la région
 d'Ile-de-France.
 
-Le comité de décentralisation est consulté par le préfet de la région
-d'Ile-de-France sur tout projet de convention ou avenant préparé par les préfets
-de département. Il donne son avis dans un délai de deux mois.
-
 Lorsque les termes de cette convention ne sont pas respectés, le préfet de
 département, après la mise en demeure restée sans effet, en suspend
 l'application ou la dénonce.

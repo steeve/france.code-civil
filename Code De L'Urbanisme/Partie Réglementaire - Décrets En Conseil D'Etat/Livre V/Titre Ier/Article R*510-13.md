@@ -1,8 +1,8 @@
 Article R*510-13
 ----
-Le comité institué par l'article R. 510-2[*décentralisation, attributions*] est
+Le comité institué par l'article R. 510-2 [*décentralisation, attributions*] est
 chargé, de façon permanente, dans les conditions définies par le ministre de
-l'aménagement du territoire :
+l'aménagement du territoire et par le ministre chargé de la réforme de l'Etat :
 
 a) De déterminer ceux des services et établissements civils ou militaires
 relevant de l'Etat ou soumis à son contrôle, tels qu'ils sont définis à
