@@ -1,8 +1,5 @@
 Article L819
 ----
-L'avancement de grade a lieu exclusivement au choix d'après le tableau
-d'avancement dressé selon les dispositions prévues à l'article L. 821.
-
 L'agent bénéficiant d'un avancement de grade dans son établissement ou après
 nomination dans un autre établissement est classé dans son nouveau grade à
 l'échelon comportant un traitement égal ou, à défaut, immédiatement supérieur à
