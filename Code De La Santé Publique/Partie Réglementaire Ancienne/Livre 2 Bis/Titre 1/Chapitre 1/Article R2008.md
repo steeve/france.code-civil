@@ -12,3 +12,7 @@ Pour ces élections, le quorum est fixé aux deux tiers des membres du comité.
 Si le président fait partie des catégories 1 à 4 mentionnées à l'article R.
 2001, le vice-président est élu parmi les membres des autres catégories et
 inversement.
+
+La durée du mandat du président et du vice-président est de trois ans
+renouvelable. Toutefois ces mandats ne peuvent être renouvelés plus d'une fois
+consécutivement.

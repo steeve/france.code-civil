@@ -1,4 +1,4 @@
 Article R2014
 ----
-Dans chacune des huit catégories de membres mentionnées à l'article R. 2001, les
-membres suppléants peuvent remplacer tout membre titulaire de cette catégorie.
+Les membres suppléants peuvent assister aux séances du comité sans prendre part
+aux délibérations lorsque le membre titulaire qu'ils suppléent est présent.

@@ -1,8 +1,8 @@
 Article R2033
 ----
 Si la recherche porte sur un médicament, un produit défini à l'article L. 658-11
-ou un produit ou objet contraceptif, le promoteur indique, outre les
-informations prévues à l'article R. 2032 :
+ou au 3° de l'article L. 512 ou un produit ou objet contraceptif, le promoteur
+indique, outre les informations prévues à l'article R. 2032 :
 
 1. La phase d'expérimentation clinique ;
 
