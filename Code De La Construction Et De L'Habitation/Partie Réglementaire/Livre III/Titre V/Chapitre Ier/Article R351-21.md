@@ -9,12 +9,13 @@ Les pourcentages et les tranches de ressources sont fixés par arrêté conjoint
 des ministres chargés des finances, de la construction et de l'habitation, de
 l'agriculture et de la sécurité sociale en distinguant :
 
-- les logements neufs occupés par leur propriétaire ;
+- les logements construits ou acquis et améliorés, occupés par leur propriétaire
+ou par l'accédant titulaire d'un contrat de location-accession ;
 
-- les logements existants occupés par leur propriétaire et les logements
-locatifs.
+- les logements existants améliorés, occupés par leur propriétaire et les
+logements locatifs.
 
 Pour l'application du présent article, les ressources sont arrondies dans les
 conditions prévues à l'article R. 351-19.
 
-Le loyer mimimum mensuel est arrondi au franc inférieur.
+Le loyer minimum mensuel est arrondi au franc inférieur.

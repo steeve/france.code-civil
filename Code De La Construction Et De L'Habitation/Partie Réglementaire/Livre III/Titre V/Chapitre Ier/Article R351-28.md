@@ -11,3 +11,7 @@ charges d'emprunt en cas de prêt unique ;
 - à l'établissement habilité ou au bénéficiaire, mensuellement, à terme échu, ou
 selon la périodicité la plus courte de celles prévues par les différents
 contrats de prêts.
+
+Lorsque le bénéficiaire est un accédant titulaire d'un contrat de
+location-accession, l'aide personnalisée est versée selon la même périodicité
+que le paiement de la redevance.

@@ -39,13 +39,15 @@ personnalisée.
 
 Pour l'application du présent article :
 
-- sont assimilés à l'établissement prêteur le vendeur, en cas de vente à terme,
-et les sociétés faisant l'objet des dispositions des articles L. 212-1 à L.
-212-13 [*sociétés constituées en vue de l'attribution d'immeubles par fractions
-divisés*] et L. 213-1 à L. 213-15 [*sociétés coopératives de construction*]
-lorsqu'elles ont été bénéficiaires du prêt principal :
+- sont considérés comme établissement habilité le vendeur, en cas de vente à
+terme, ou de location-accession, et les sociétés faisant l'objet des
+dispositions des articles L. 212-1 à L. 212-13 [*sociétés constituées en vue de
+l'attribution d'immeubles par fractions divisés*] et L. 213-1 à L. 213-15
+[*sociétés coopératives de construction*] lorsqu'elles ont été bénéficiaires du
+prêt principal ;
 
-- est assimilé au propriétaire le porteur de parts ou d'actions de sociétés
-donnant vocation à l'attribution en propriété du logement qu'il occupe dès lors
-qu'il bénéficie directement d'un prêt entrant dans le champ d'application de
-l'article R. 351-2.
+- est assimilé au propriétaire l'accédant titulaire d'un contrat de
+location-accession, et le porteur de parts ou d'actions de sociétés donnant
+vocation à l'attribution en propriété du logement qu'il occupe dès lors qu'il
+bénéficie directement d'un prêt entrant dans le champ d'application de l'article
+R. 351-2.

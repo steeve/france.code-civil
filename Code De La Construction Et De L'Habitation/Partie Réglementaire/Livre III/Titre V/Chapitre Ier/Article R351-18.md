@@ -11,8 +11,9 @@ c) L représente pour une période d'un mois :
 
 - soit le loyer principal effectivement payé pris en compte dans la limite du
 loyer de référence fixé à l'article R. 351-20 - soit la somme prise en compte au
-titre des opérations prévues par l'article R. 351-1, dans la limite de la
-mensualité de référence fixée à l'article R. 351-20 ;
+titre des opérations d'accession, d'amélioration ou de location-accession
+prévues par l'article R. 351-1, dans la limite de la mensualité de référence
+fixée à l'article R. 351-20 ;
 
 d) C représente le montant forfaitaire des charges défini à l'article R. 351-20
 ;
