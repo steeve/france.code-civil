@@ -20,20 +20,18 @@ Le montant des dotations complémentaires aux provisions constituées par une
 société après son entrée dans le groupe à raison des participations détenues
 dans d'autres sociétés du groupe est ajouté à la plus-value nette à long terme
 d'ensemble ou déduit de la moins-value nette à long terme d'ensemble. Le montant
-des provisions rapportées en application de la première phrase du onzième alinéa
-du 5° du 1 de l'article 39 qui correspondent aux dotations complémentaires
-mentionnées à la phrase qui précède est déduit de la plus-value nette à long
-terme d'ensemble ou ajouté à la moins-value nette à long terme d'ensemble si les
-sociétés visées à la même phrase sont ((membres du groupe ou d'un même groupe
-créé ou élargi dans les conditions prévues aux c, d ou e du 6 de l'article 223
-L)) (M) (2) au titre de l'exercice au cours duquel les provisions sont
-rapportées ; pour l'application de cette disposition, les provisions rapportées
-s'imputent en priorité sur les dotations les plus anciennes.
+des provisions rapportées en application de la première phrase du quatorzième
+alinéa du 5° du 1 de l'article 39 qui correspondent aux dotations
+complémentaires mentionnées à la phrase qui précède est déduit de la plus-value
+nette à long terme d'ensemble ou ajouté à la moins-value nette à long terme
+d'ensemble si les sociétés visées à la même phrase sont membres du groupe ou
+d'un même groupe créé ou élargi dans les conditions prévues aux c, d ou e du 6
+de l'article 223 L (2) au titre de l'exercice au cours duquel les provisions
+sont rapportées ; pour l'application de cette disposition, les provisions
+rapportées s'imputent en priorité sur les dotations les plus anciennes.
 
 (1) Cette disposition s'applique pour la détermination des résultats des
 exercices ouverts à compter du 1er janvier 1994.
-
-(M) Modification de la loi 96-314.
 
 (2) Ces dispositions s'appliquent aux opérations de scission intervenues à
 compter du 1er avril 1996.
