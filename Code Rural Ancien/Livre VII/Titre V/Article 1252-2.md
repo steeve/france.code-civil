@@ -14,15 +14,19 @@ pour l'application d'un texte législatif ou réglementaire, lorsqu'elles ne
 bénéficient pas déjà de ces dispositions à un autre titre. Un décret détermine
 la nature desdits organismes et en établit la liste ;
 
-3° Les salariés d'entreprises agricoles ayant leur siège dans les départements
+3° Les salairés d'entreprises agricoles ayant leur siège dans les départements
 du Haut-Rhin, du Bas-Rhin et de la Moselle désignés, en application de l'article
 L. 990-8 du code du travail, pour sièger dans une commission, un conseil ou un
 comité administratifs ou paritaires, pour les accidents survenus par le fait ou
-à l'occasion de leurs missions.
+à l'occasion de leurs missions ;
 
-Des décrets fixent les modalités de prise en charge, par les caisses d'assurance
-accident agricole des départements du Haut-Rhin, du Bas-Rhin et de la Moselle,
-des risques susceptibles de survenir aux personnes visées au présent article
-ainsi que les bases des cotisations et des indemnités ; ils déterminent
+4° Les salariés accomplissant un stage de formation dans les conditions prévues
+par les articles L. 236-10, L. 434-10 et L. 451-1 du code du travail, pour les
+accidents survenus par le fait ou à l'occasion de cette formation.
+
+Des décrets fixent les modalités de prise en charge, par les caisses
+d'assurance-accident agricole des départements du Haut-Rhin, du Bas-Rhin et de
+la Moselle, des risques susceptibles de survenir aux personnes visées au présent
+article ainsi que les bases des cotisations et des indemnités ; ils déterminent
 également la personne morale ou physique à qui incombent les obligations de
 l'employeur.
