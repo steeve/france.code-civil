@@ -1,7 +1,7 @@
 Article L330-8
 ----
-Les programmes d'exploitation, les programmes généraux d'achat et de location de
-matériels volants, les conditions de transport et les tarifs des entreprises de
-transport aérien peuvent être soumis à homologation administrative pour les
-transports effectués à l'aide d'aéronefs dépassant un certain tonnage. Un décret
-en Conseil d'Etat fixe les conditions d'application du présent article.
+Sans préjudice du règlement (CEE) n° 2409/92 du 23 juillet 1992 sur les tarifs
+des passagers et de fret des services aériens annexé au présent code, les tarifs
+et les conditions de transport des services de transport aérien public peuvent
+être soumis à dépôt préalable ou à homologation administrative, dans des
+conditions fixées par décret en Conseil d'Etat.

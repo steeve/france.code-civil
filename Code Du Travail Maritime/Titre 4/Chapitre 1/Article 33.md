@@ -12,5 +12,6 @@ frais communs du navire.
 
 Lors du règlement, le décompte des dépenses et charges communes et le décompte
 des produits et bénéfices sont remis par l'armateur sous sa signature, avec
-leurs justifications et pièces comptables originales, à l'autorité maritime
-chargée de la liquidation des comptes individuels de salaires.
+leurs justifications et pièces comptables originales, à l'autorité chargée de
+l'inspection du travail maritime chargée de la liquidation des comptes
+individuels de salaires.
