@@ -1,6 +1,6 @@
 Article L122-2
 ----
-Les infractions aux dispositions du 12° de l'article R. 40 du code pénal peuvent
-être constatées et poursuivies dans les conditions fixées par les articles 45,
-premier et troisième alinéas, 46, 47 et 52 de l'ordonnance n° 86-1243 du 1er
-décembre 1986 relative à la liberté des prix et de la concurrence.
+Les infractions aux dispositions de l'article R. 635-2 du code pénal peuvent
+être constatées et poursuivies dans les conditions fixées par les articles L.
+450-1 premier et troisième alinéas, L. 450-2, L. 450-3 et L. 450-8 du code de
+commerce.
