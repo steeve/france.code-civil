@@ -1,14 +1,12 @@
 Article D615-11
 ----
-Les conditions de collaboration professionnelle des conjointes des personnes
-mentionnées au 5° de l'article L. 615-1 [*associé unique des entreprises
-unipersonnelles à responsabilité limitée*] et des conjointes de membres des
-professions libérales sont réputées remplies sur la foi d'une déclaration sur
-l'honneur souscrite par le conjoint ayant cause attestant que son épouse
-[*preuve*] :
+Les conditions de collaboration professionnelle des conjointes ou conjoints des
+personnes mentionnées au 5° de l'article L. 615-1 et de membres des professions
+libérales sont réputées remplies sur la foi d'une déclaration sur l'honneur
+souscrite par ces personnes attestant que leur conjoint ou conjointe :
 
-1°) lui apporte effectivement et habituellement sans être rémunérée pour cela
-son concours pour l'exercice de sa propre activité professionnelle ;
+1° Leur apporte effectivement et habituellement, sans être rémunéré pour cela,
+son concours pour l'exercice de leur propre activité professionnelle ;
 
-2°) ne relève pas à titre personnel d'un régime obligatoire d'assurance maladie
+2° Ne relève pas à titre personnel d'un régime obligatoire d'assurance maladie
 et maternité.

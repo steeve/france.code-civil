@@ -1,9 +1,12 @@
 Article D615-10
 ----
 Le bénéfice de chacune des allocation et indemnité prévues par les articles D.
-615-4-1 à D. 615-4-5 et D. 615-5 à D. 615-9 est demandé à l'organisme
-conventionné au moyen d'imprimés dont le modèle est fixé par arrêté du ministre
-chargé de la sécurité sociale.
+615-4-1 à D. 615-9 est demandé à l'organisme conventionné au moyen d'imprimés
+dont le modèle est fixé par arrêté du ministre chargé de la sécurité sociale.
+
+Pour bénéficier de l'indemnité prévue à l'article L. 615-19-2, le chef
+d'entreprise ou le conjoint collaborateur doit justifier de l'établissement de
+la filiation de l'enfant à son égard.
 
 En ce qui concerne l'indemnité de remplacement, le caractère effectif du
 remplacement et des dépenses auxquelles il a donné lieu est justifié par la

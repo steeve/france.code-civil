@@ -1,5 +1,6 @@
 Article D615-13
 ----
-Les montants maximaux prévus aux articles D. 615-5, D. 615-7, D. 615-8 et D.
-615-9 à prendre en considération sont ceux en vigueur au jour de l'accouchement
-ou en cas d'adoption, à la date d'arrivée de l'enfant au foyer .
+Les montants maximaux prévus aux articles D. 615-6 à D. 615-9 à prendre en
+considération sont ceux en vigueur à la date de l'interruption d'activité de la
+mère ou du père donnant lieu à remplacement dans les conditions prévues aux
+articles L. 615-19-1 et L. 615-19-2.

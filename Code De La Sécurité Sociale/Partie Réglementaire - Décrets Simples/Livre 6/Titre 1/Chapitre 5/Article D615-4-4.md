@@ -7,3 +7,6 @@ encore prétendre en application de l'article D. 615-4-2.
 
 La période d'indemnisation de trente jours minimum à soixante jours maximum
 n'est pas réduite de ce fait.
+
+Dans le même cas, le père peut demander le report à la fin de l'hospitalisation
+de l'enfant du délai prévu à l'article D. 615-4-2.
