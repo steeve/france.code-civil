@@ -11,7 +11,7 @@ ou chez lequel l'enfant n'avait pas sa résidence habituelle ;
 3° A un service ou à un établissement sanitaire ou d'éducation, ordinaire ou
 spécialisé ;
 
-4° Au service départemental de l'aide sociale à l'enfance.
+4° A un service départemental de l'aide sociale à l'enfance.
 
 Toutefois, lorsqu'une requête en divorce a été présentée ou un jugement de
 divorce rendu entre les père et mère, ces mesures ne peuvent être prises que si
