@@ -2,41 +2,53 @@ Article 415
 ----
 Sont à la charge des redevables poursuivis les frais accessoires ci-après :
 
-Frais d'ouverture des portes;
+a) Frais d'ouverture des portes ;
 
-Notification au saisi en cas de saisie-exécution hors de son domicile et en son
-absence;
+b) Notification au saisi en cas de saisie-vente hors de son domicile et en son
+absence ;
 
-Notification au maire, au parquet ou par procès-verbal dans les cas prévus par
-les articles 656, 659, 660, 684 et 691 du nouveau code de procédure civile;
+c) Notification au maire, au parquet ou par procès-verbal dans les cas prévus
+par les articles 656, 659, 660, 684 et 691 du nouveau code de procédure civile ;
 
-Remise des actes sous enveloppe;
+d) Remise des actes sous enveloppe ;
 
-Copie supplémentaire au mari en cas de poursuites contre la femme;
+e) Levée des états d'inscriptions grevant les fonds de commerce ;
 
-Levée des états d'inscriptions grevant les fonds de commerce;
+f) Dénonciation de la saisie-vente aux créanciers inscrits sur les fonds de
+commerce ;
 
-Dénonciation de la saisie-exécution aux créanciers inscrits sur les fonds de
-commerce;
+g) Frais demandés par le greffe du tribunal de commerce suite à l'établissement
+d'un état des créanciers nantis ;
 
-Dénonciation de la saisie-brandon au garde-champêtre non présent à la saisie;
+h) Dénonciation d'une opposition à un créancier premier saisissant ;
 
-Récolement lorsque le gardien a obtenu décharge et qu'un nouveau gardien est
-établi;
+i) Sommation au créancier premier saisissant de procéder aux formalités de la
+mise en vente forcée dans un délai de huit jours ;
 
-Sommation au saisissant de faire vendre dans la huitaine les objets saisis;
+j) Frais de garde des meubles ou récoltes saisis ;
 
-Frais de garde des meubles ou récoltes saisis;
+k) Frais de transport ou d'enlèvement des objets saisis ;
 
-Frais de transport des objets saisis;
+l) Honoraires de l'officier ministériel sur le produit de la vente ;
 
-Honoraires du commissaire-priseur sur le produit de la vente;
+m) Allocation due, en dehors du cas de saisie interrompue, lorsque, après
+déplacement de l'agent de poursuites, l'acte de poursuites n'est pas effectué à
+raison d'un incident provenant du fait de la partie qui devait être poursuivie ;
 
-Allocation due en dehors du cas de saisie interrompue lorsque après déplacement
-de l'agent de poursuites l'acte de poursuites n'est pas effectué à raison d'un
-incident provenant du fait de la partie qui devait être poursuivie.
+n) Ensemble des frais de saisie dans le cas où la saisie immobilière a été
+interrompue avant la vente ;
+
+o) Frais d'immobilisation, d'enlèvement et de garde d'un véhicule terrestre à
+moteur ;
+
+p) Commissions de la société de bourse en cas de vente de valeurs mobilières
+admises à la cote officielle ou à celle du second marché ;
+
+q) Honoraires du notaire chargé de l'adjudication de valeurs mobilières non
+admises à la cote officielle ou à celle du second marché ;
+
+r) Frais de publicité provisoire et définitive des sûretés judiciaires.
 
 Ces frais sont comptés aux redevables en conformité du tarif des huissiers de
-justice des agents huissiers du Trésor ou des commissaires-priseurs suivant que
-les poursuites sont faites par un huissier de justice un agent huissier du
-Trésor ou un commissaire-priseur.
+justice, des agents huissiers du Trésor, des commissaires-priseurs, des
+notaires, ou des règles de rémunérations applicables aux avocats.
