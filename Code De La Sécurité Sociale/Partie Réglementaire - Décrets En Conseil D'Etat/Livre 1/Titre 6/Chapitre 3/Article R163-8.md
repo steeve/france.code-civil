@@ -1,29 +1,31 @@
 Article R163-8
 ----
-A la demande du ministre chargé de la santé ou du ministre chargé de la sécurité
-sociale, la commission de la transparence donne un avis sur :
+I. - La demande de renouvellement de l'inscription d'un médicament sur la liste
+prévue à l'article L. 162-17 est présentée par l'entreprise qui exploite le
+médicament, au plus tard cent quatre-vingts jours avant l'expiration de la durée
+de validité de l'inscription.
 
-1° Les documents destinés à donner une information sur les coûts comparés des
-médicaments à même visée thérapeutique ;
+La demande de renouvellement de l'inscription est adressée au ministre chargé de
+la sécurité sociale, qui en accuse réception et en informe le ministre chargé de
+la santé ; l'entreprise adresse simultanément copie de cette demande à la
+commission prévue à l'article R. 163-14 et au Comité économique du médicament.
+La demande doit être accompagnée d'un dossier comportant les informations
+nécessaires à l'appréciation des conditions de renouvellement de l'inscription
+du médicament en application des articles R. 163-3 à R. 163-5.
 
-2° L'intérêt des produits pour lesquels l'inscription ou son renouvellement est
-sollicité, au regard de celui des produits existants. L'avis doit comporter
-notamment une comparaison du produit avec les produits de la classe
-thérapeutique de référence venant en premiers par le nombre de journées de
-traitement, avec le produit de cette classe le plus économique du point de vue
-du coût du traitement médicamenteux et avec le dernier produit inscrit dans la
-même classe ;
+L'entreprise qui exploite le médicament adresse au Comité économique du
+médicament un dossier comportant les informations relatives au prix du
+médicament dont le renouvellement de l'inscription est sollicité.
 
-3° Le classement des produits au regard de la participation des assurés aux
-frais d'acquisition des médicaments ;
+II. - La décision relative au renouvellement de l'inscription doit être prise et
+notifiée à l'entreprise avant l'expiration de la durée de validité de
+l'inscription. L'arrêté renouvelant l'inscription du médicament sur la liste
+doit être publié au plus tard à cette date.
 
-4° Les posologies ;
+A cette même date, si aucune décision relative au renouvellement de
+l'inscription n'a été notifiée à l'entreprise, le renouvellement de celle-ci est
+accordé tacitement et un avis mentionnant le renouvellement de l'inscription est
+publié au Journal officiel.
 
-5° Les durées de traitement dans les indications thérapeutiques retenues ;
-
-6° Le nombre de patients relevant des indications thérapeutiques retenues ;
-
-7° Les conditionnements ;
-
-8° Toute question touchant à la consommation, au remboursement et à la prise en
-charge des produits pharmaceutiques remboursables.
+III. - Le renouvellement de l'inscription d'un médicament est soumis aux
+conditions prévues aux articles R. 163-3 à R. 163-5.
