@@ -11,6 +11,16 @@ ajournement, accorder aux mutuelles et unions dont la gestion n'est entachée
 d'aucune faute lourde le délai strictement nécessaire pour constituer cette
 provision.
 
+Pour le calcul mentionné à l'alinéa précédent, les valeurs déterminées selon
+l'article R. 212-54 prennent en compte les moins-values latentes des opérations
+sur instruments financiers à terme prévues aux articles R. 212-70 à R. 212-72
+ayant comme sous-jacent les actifs mentionnés à l'article R. 212-53. Ces
+moins-values latentes sont prises en compte à hauteur de la partie excédant la
+valeur des titres ou espèces donnés en garantie.
+
+Les plus-values latentes ne sont prises en compte que si elles sont garanties
+dans les conditions prévues à l'article R. 212-81.
+
 La provision pour frais d'acquisition reportés doit être constituée pour un
 montant égal au montant des frais d'acquisition reportés en application des
 dispositions de l'article R. 212-59.
