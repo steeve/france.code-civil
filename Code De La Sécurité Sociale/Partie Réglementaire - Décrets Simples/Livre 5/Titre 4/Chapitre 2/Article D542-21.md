@@ -36,3 +36,9 @@ ou ménage concerné :
 
 -de l'élément C prévu à l'article D. 542-5 dans des conditions fixées par
 l'arrêté mentionné à l'alinéa précédent.
+
+Lorsque le logement occupé est une chambre, le loyer principal effectivement
+payé est pris en compte dans la limite d'un plafond mensuel auquel s'ajoute la
+majoration forfaitaire mensuelle au titre des charges, fixés par arrêté conjoint
+des ministres chargés de la sécurité sociale, du budget, du logement et de
+l'agriculture.

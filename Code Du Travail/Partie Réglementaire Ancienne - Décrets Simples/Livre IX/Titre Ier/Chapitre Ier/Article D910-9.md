@@ -39,6 +39,9 @@ de commerce et d'industrie ;
 
 11° Des parlementaires élus dans le département ;
 
+12° De deux personnalités appartenant au monde économique, choisies en raison de
+leur qualité ou de leurs activités.
+
 Les représentants élus des collectivités territoriales visés au a et b du 9°
 sont élus par l'assemblée délibérante locale respectivement concernée suivant
 les modalités prévues aux quatrième et cinquième alinéas de l'article L. 121-12

@@ -7,7 +7,8 @@ Dans laquelle :
 
 1°) - AL représente le montant de l'allocation de logement ;
 
-2°) - K représente le coefficient de prise en charge déterminé par la formule :
+2°) - K représente le coefficient de prise en charge déterminé, pour chaque
+intervalle de ressources de 500 F, par la formule :
 
 K = 0,9 - 102 702 x N
 
@@ -17,8 +18,8 @@ K = 0,9 - R
 
 Dans laquelle :
 
-R représente les ressources imposables déterminées conformément à l'article D.
-542-10 ;
+R représente la limite supérieure de l'intervalle dans lequel se situent les
+ressources appréciées conformément à l'article D. 542-10 ;
 
 N représente le nombre de parts déterminé dans les conditions prévues au 5° ;
 
@@ -38,8 +39,10 @@ D. 542-28 et éventuellement ramenée au plafond mentionné à l'article D. 542-
 5° Lo représente le loyer minimum. Ce loyer minimum est la part de loyer L tel
 que défini ci-dessus qui doit rester à la charge de l'allocataire, compte tenu
 des ressources du foyer définies aux articles D. 542-8 à D. 542-11 et de la
-composition de la famille. Il est égal à un pourcentage desdites ressources
-déterminé comme suit :
+composition de la famille. Ce loyer minimum est déterminé pour chaque intervalle
+de ressources de 500 F mentionné au 2° ci-dessus. Il est obtenu par
+l'application, à la limite supérieure de l'intervalle dans lequel se situent les
+ressources du foyer, de pourcentages fixés comme suit :
 
 0 p. 100 pour la tranche de ressources inférieure ou égale à 6 823 F ;
 

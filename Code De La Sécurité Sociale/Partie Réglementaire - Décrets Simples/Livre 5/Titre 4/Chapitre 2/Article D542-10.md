@@ -11,11 +11,17 @@ internationale et après :
 a) La déduction au titre des créances alimentaires mentionnée au 2° du II de
 l'article 156 du code général des impôts ;
 
-b) L'abattement mentionné à l'article 157 bis du code général des impôts en
-faveur des personnes âgées ou invalides ;
+b) L'abattement mentionné à l'article 157 bis du code général des impôts pour
+les personnes nées avant le 1er janvier 1931 ou invalides quel que soit leur âge
+;
 
 c) Une déduction représentative des frais de garde des enfants à charge, dont le
 montant maximum est fixé par arrêté du ministre chargé de la sécurité sociale.
+
+Est également prise en considération, après application des déductions
+correspondant à celles visées au deuxième alinéa du 3° de l'article 83 du code
+général des impôts et au quatrième alinéa du 5 (a) de l'article 158 du même
+code, l'indemnité journalière mentionnée au 2° de l'article L. 431-1.
 
 Est toutefois exclue du décompte des ressources l'allocation mentionnée à
 l'article 4 de la loi n° 88-1088 du 1er décembre 1988 relative au revenu minimum

@@ -1,12 +1,10 @@
 Article R136-10
 ----
-Sous réserve des dispositions de l'article R. 136-12 ci-après, les représentants
-des salariés et des employeurs au sein de chaque sous-commission sont nommés par
-le ministre chargé du travail parmi les membres titulaires ou suppléants de la
+Sous réserve des dispositions de l'article R. 136-11, les représentants des
+salariés et des employeurs au sein de chaque sous-commission sont nommés par le
+ministre chargé du travail parmi les membres titulaires ou suppléants de la
 commission nationale, sur proposition des organisations de salariés et
-d'employeurs mentionnées respectivement aux articles R. 136-2 et R. 136-3, et
-pour les entreprises publiques après consultation du conseil national du
-patronat français (C.N.P.F.) [*CNPF*].
+d'employeurs mentionnées respectivement aux articles R. 136-2 et R. 136-3.
 
 Chacun de ces représentants dispose au sein de la commission dont il fait partie
 du nombre de voix appartenant à l'organisation ou à la catégorie qu'il
