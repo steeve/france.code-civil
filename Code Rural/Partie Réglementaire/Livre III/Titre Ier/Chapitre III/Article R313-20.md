@@ -4,11 +4,11 @@ Le conseil d'administration du CNASEA comprend, outre son président :
 
 1° Dix membres représentant l'Etat :
 
-a) Le directeur des exploitations, de la politique sociale et de l'emploi au
-ministère de l'agriculture ou son représentant ;
+a) Le directeur général de la forêt et des affaires rurales au ministère de
+l'agriculture ou son représentant ;
 
-b) Le directeur de l'espace rural et de la forêt au ministère de l'agriculture
-ou son représentant ;
+b) Le sous-directeur chargé des exploitations agricoles au ministère de
+l'agriculture ou son représentant ;
 
 c) Le directeur des affaires financières au ministère de l'agriculture ou son
 représentant ;
