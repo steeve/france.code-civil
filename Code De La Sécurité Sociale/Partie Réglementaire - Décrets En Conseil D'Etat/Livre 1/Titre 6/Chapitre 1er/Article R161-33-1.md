@@ -7,13 +7,13 @@ informations suivantes :
 1° Des données visibles comportant un numéro d'émetteur, un numéro propre à la
 carte et la période de validité de cette dernière et des données
 d'identification du titulaire, à savoir son numéro d'inscription au Répertoire
-national d'identification des personnes physiques, son nom patronymique, ou le
-cas échéant son nom d'usage, et son prénom usuel ;
+national d'identification des personnes physiques, son nom de famille, ou le cas
+échéant son nom d'usage, et son prénom usuel ;
 
 2° Des données inscrites dans le composant électronique de la carte :
 
-a) Les données visibles mentionnées ci-dessus, le nom patronymique s'il diffère
-du nom d'usage, les autres prénoms, le cas échéant, et sa date de naissance ;
+a) Les données visibles mentionnées ci-dessus, le nom de famille s'il diffère du
+nom d'usage, les autres prénoms, le cas échéant, et sa date de naissance ;
 
 b) Les données relatives aux droits du titulaire aux prestations en nature d'un
 régime de base d'assurance maladie ;

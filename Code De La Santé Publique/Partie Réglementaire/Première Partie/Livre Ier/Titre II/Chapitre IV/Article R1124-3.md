@@ -6,7 +6,7 @@ bénéfice individuel direct, les données suivantes :
 
 1° L'identification du ou des lieux de recherches ;
 
-2° Les trois premières lettres du nom patronymique du volontaire ;
+2° Les trois premières lettres du nom de famille du volontaire ;
 
 3° Les deux premières lettres de son premier prénom ;
 

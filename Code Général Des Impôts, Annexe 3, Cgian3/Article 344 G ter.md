@@ -7,7 +7,7 @@ au modèle fixé par la direction générale des impôts, doit comprendre :
 adresse complète et numéro SIRET lorsqu'il a été attribué par l'Institut
 national de la statistique et des études économiques (INSEE) ;
 
-2. L'identification du bénéficiaire ou du cocontractant : nom patronymique, nom
+2. L'identification du bénéficiaire ou du cocontractant : nom de famille, nom
 marital, prénoms, date et lieu de naissance, adresse du dernier domicile connu
 au 1er janvier de l'année de souscription de la déclaration.
 

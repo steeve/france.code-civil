@@ -12,8 +12,8 @@ exercée l'activité principale ;
 
 2° Des données inscrites dans le composant électronique de la carte :
 
-a) Les données visibles mentionnées ci-dessus et le nom patronymique s'il
-diffère du nom d'exercice ;
+a) Les données visibles mentionnées ci-dessus et le nom de famille s'il diffère
+du nom d'exercice ;
 
 b) S'il y a lieu, la ou les spécialités du titulaire, son activité principale,
 sa ou ses activités secondaires et pour chacune d'elles le mode d'exercice et,

@@ -3,7 +3,9 @@ Article R2122-10
 Le maire peut déléguer à un ou à plusieurs fonctionnaires titulaires de la
 commune les fonctions qu'il exerce en tant qu'officier de l'état civil pour la
 réception des déclarations de naissance, de décès, d'enfants sans vie, de
-reconnaissance d'enfants naturels, du consentement d'un enfant majeur à la
+reconnaissance d'enfants naturels, de déclaration parentale conjointe de
+changement de nom de l'enfant naturel, du consentement de l'enfant de plus de
+treize ans à son changement de nom, du consentement d'un enfant majeur à la
 modification de son nom en cas de changement de filiation, pour la
 transcription, la mention en marge de tous actes ou jugements sur les registres
 de l'état civil, de même que pour dresser tous actes relatifs aux déclarations

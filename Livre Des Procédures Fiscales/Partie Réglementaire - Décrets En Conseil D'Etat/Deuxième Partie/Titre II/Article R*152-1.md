@@ -27,7 +27,7 @@ le compte duquel elle est présentée.
 2. Pour une personne physique, la demande comporte tout ou partie des
 indications suivantes :
 
-a) Le nom patronymique et les prénoms ;
+a) Le nom de famille et les prénoms ;
 
 b) Le sexe ;
 
