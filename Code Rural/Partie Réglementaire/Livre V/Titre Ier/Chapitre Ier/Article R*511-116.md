@@ -9,18 +9,18 @@ sont élus par deux collèges distincts :
 
 a) Celui des électeurs exploitant moins de 10 ha, à raison de 7 ;
 
-b) Celui des électeurs exploitant plus de 10 ha, à raison de 5.
+b) Celui des électeurs exploitant plus de 10 ha, à raison de 5 ;
 
 2. D'un membre élu, au scrutin de liste départemental, par les propriétaires ou
 usufruitiers mentionnés à l'article R. 511-8, 2°.
 
-3. De deux membres élus, au scrutin de liste départemental, par les salariés
+3. De quatre membres élus, au scrutin de liste départemental, par les salariés
 mentionnés à l'article R. 511-8, 3°.
 
 4. D'un membre élu, au scrutin de liste départemental, par les anciens
 exploitants et assimilés mentionnés à l'article R. 511-8, 4°.
 
-5. De trois membres élus, au scrutin de liste départemental, par les sociétés
+5. De quatre membres élus, au scrutin de liste départemental, par les sociétés
 coopératives agricoles et les sociétés d'intérêt collectif agricole, ainsi que
 leurs unions et fédérations.
 

@@ -29,16 +29,16 @@ de sa catégorie, à raison de :
 
 - deux pour les propriétaires et usufruitiers ;
 
-- deux pour les salariés des exploitations agricoles ;
+- quatre pour les salariés des exploitations agricoles ;
 
-- deux pour les salariés des groupements professionnels agricoles ;
+- quatre pour les salariés des groupements professionnels agricoles ;
 
 - deux pour les anciens exploitants et assimilés ;
 
 - un pour les sociétés coopératives agricoles mentionnées au a du 5° de
 l'article R. 511-6 ;
 
-- trois pour les autres sociétés coopératives agricoles et les sociétés
+- quatre pour les autres sociétés coopératives agricoles et les sociétés
 d'intérêt collectif agricole mentionnées au b du 5° de l'article R. 511-6 ;
 
 - deux pour les organismes de crédit agricole ;
