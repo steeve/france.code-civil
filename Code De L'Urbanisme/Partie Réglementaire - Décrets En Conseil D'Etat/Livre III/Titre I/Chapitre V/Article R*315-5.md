@@ -1,6 +1,6 @@
 Article R*315-5
 ----
-Le dossier [*contenu*] joint à la demande est constitué des pièces ci-après :
+Le dossier joint à la demande est constitué des pièces ci-après :
 
 a) Une note exposant l'opération, précisant ses objectifs et indiquant les
 dispositions prévues pour assurer l'insertion dans le site, le respect de
@@ -31,7 +31,9 @@ ouvrages à réaliser et les conditions de leur réalisation, notamment le trac�
 des voies, l'implantation des équipements et leurs modalités de raccordement aux
 bâtiments dont l'édification est prévue ;
 
-g) Le cas échéant, une copie de l'autorisation de défrichement ;
+g) S'il y a lieu, une copie de la lettre par laquelle l'autorité compétente fait
+connaître au demandeur que son dossier de demande d'autorisation de coupe ou
+d'abattage et, le cas échéant, d'autorisation de défrichement est complet ;
 
 h) L'étude d'impact définie à l'article 2 du décret n° 77-1141 du 12 octobre
 1977, lorsque l'opération est située en dehors d'une commune ou partie de

@@ -16,6 +16,16 @@ l'expiration du délai d'un mois suivant la date de clôture de l'enquête publi
 concernant l'installation classée et que le permis de construire ne pourra lui
 être délivré avant la clôture de ladite enquête publique.
 
+Lorsque les travaux projetés nécessitent la coupe ou l'abattage d'arbres dans
+des bois, forêts ou parcs soumis aux dispositions de l'article L. 130-1 du
+présent code ou des articles L. 311-1 ou L. 312-1 du code forestier, l'autorité
+compétente pour statuer fait connaître au demandeur, dans la lettre de
+notification mentionnée au premier alinéa, que le délai d'instruction de la
+demande de permis de construire court jusqu'à l'expiration du délai d'un mois
+suivant la date de l'autorisation de coupe ou d'abattage et, le cas échéant, de
+l'autorisation de défrichement et que le permis de construire ne pourra lui être
+délivré avant l'intervention de ladite autorisation.
+
 L'autorité compétente pour statuer avise en outre le demandeur que si aucune
 décision ne lui a été adressée avant la date mentionnée au premier alinéa ou
 avant l'expiration d'un délai d'un mois suivant la date de clôture de l'enquête
@@ -24,7 +34,13 @@ installation classée soumise à autorisation, la lettre de notification des
 délais d'instruction vaudra permis de construire et les travaux pourront être
 entrepris conformément au projet déposé, sous réserve du retrait, dans le délai
 du recours contentieux, du permis tacite au cas où il serait entaché
-d'illégalité.
+d'illégalité. Dans le cas mentionné au troisième alinéa, le demandeur est avisé
+selon les mêmes modalités qu'en l'absence de décision notifiée avant
+l'expiration du délai d'un mois suivant la date de l'autorisation de coupe ou
+d'abattage et, le cas échéant, de l'autorisation de défrichement la lettre de
+notification vaudra permis de construire et les travaux pourront être entrepris
+conformément au projet déposé, sous réserve d'un retrait du permis tacite dans
+les conditions susmentionnées.
 
 Toutefois, lorsque le projet se trouve dans l'un des cas prévus à l'article R.
 421-19, le demandeur est informé qu'il ne pourra bénéficier d'un permis tacite.
