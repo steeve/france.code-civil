@@ -62,6 +62,10 @@ relatif aux mesures de protection de l'environnement contre les émissions
 polluantes des moteurs à allumage par compression destinés à équiper les engins
 mobiles non routiers ;
 
+e) L'article L. 322-10-2 du code de l'environnement relatif aux contraventions
+constatées par la garderie du domaine du Conservatoire de l'espace littoral et
+des rivages lacustres et les agents visés à l'article L. 322-20 du même code.
+
 4° Contraventions en matière de protection ou de contrôle des animaux
 domestiques et des animaux sauvages, apprivoisés ou tenus en captivité réprimées
 par :
