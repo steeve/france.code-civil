@@ -1,12 +1,6 @@
 Article R*231-1
 ----
-En application de l'article L. 231-5, la demande par laquelle un propriétaire
-ou, le cas échéant, le détenteur du droit de pêche avec l'accord écrit du
-propriétaire, sollicite l'application des dispositions du présent titre et des
-textes pris pour son application à un ou plusieurs plans d'eau non visés à
-l'article L. 231-3, est adressée au préfet du département où est situé le plan
-d'eau.
-
-Lorsqu'un plan d'eau est situé sur le territoire de plusieurs départements, la
-demande est adressée au préfet du département où est située la surface en eau la
-plus étendue.
+La Commission nationale vétérinaire (comité consultatif de l'hygiène alimentaire
+ou commission générale) peut être consultée, dans les conditions prévues à
+l'article R. 221-1, sur les questions relatives à l'hygiène des denrées animales
+ou d'origine animale.

@@ -1,5 +1,12 @@
 Article R*212-4
 ----
-Des arrêtés des ministres concernés fixent la forme de la demande à présenter
-pour obtenir une autorisation au titre des articles R. 212-1 et R. 212-6, ainsi
-que la forme de cette autorisation.
+Tout pigeon voyageur né en métropole et dans les départements d'outre-mer est
+muni, au plus tard le dixième jour de sa naissance, d'une bague matricule
+fermée, sans soudure, et portant le millésime de l'année.
+
+Il est également muni d'une bague portant le nom de son propriétaire et son
+adresse ou, à défaut, le nom et l'adresse de l'association colombophile à
+laquelle ce dernier appartient.
+
+Tout pigeon voyageur vivant ou circulant en France doit être porteur de la bague
+matricule française ou de la bague analogue d'une fédération étrangère.

@@ -1,46 +1,43 @@
 Article R*221-2
 ----
-Le Conseil national de la chasse et de la faune sauvage est composé, sous la
-présidence du ministre chargé de la chasse ou de son représentant, des membres
-suivants :
+Sont membres de la commission générale et nommés par arrêté du ministre chargé
+de l'agriculture :
 
-1° a) Le directeur de la nature et des paysages, membre de droit, ou son
-représentant ;
+1° Un membre du Conseil d'Etat en activité ou en retraite ;
 
-b) Le directeur de l'espace rural et de la forêt, membre de droit, ou son
-représentant ;
+2° Le directeur général de l'alimentation ;
 
-c) Le directeur général de l'Office national de la chasse et de la faune
-sauvage, membre de droit, ou son représentant ;
+3° Le directeur des politiques économique et internationale ;
 
-d) Le directeur général de l'Office national des forêts, membre de droit, ou son
-représentant ;
+4° a) Le sous-directeur de la qualité et de la protection des végétaux ;
 
-2° a) Le président de la Fédération nationale des chasseurs, membre de droit, ou
-son représentant ;
+b) Le sous-directeur de la santé et de la protection animales ;
 
-b) Six présidents de fédérations de chasseurs proposés par la Fédération
-nationale des chasseurs ;
+c) Le sous-directeur de la sécurité sanitaire des aliments ;
 
-c) Trois présidents d'associations nationales de chasse proposés par la
-Fédération nationale des chasseurs ;
+5° Le directeur général de l'Agence française de sécurité sanitaire des aliments
+;
 
-d) Le président de l'Association nationale des lieutenants de louveterie, ou son
-représentant ;
+6° Un représentant du ministre de l'intérieur ;
 
-e) Quatre personnalités qualifiées en raison de leurs compétences cynégétiques ;
+7° Un représentant du garde des sceaux, ministre de la justice ;
 
-f) Un représentant des collectivités territoriales proposé par le ministre de
-l'intérieur ;
+8° Un représentant du ministre chargé du budget ;
 
-g) Quatre représentants des organisations professionnelles représentatives de
-l'agriculture et de la forêt proposés par le ministre de l'agriculture ;
+9° Un représentant du ministre chargé des transports ;
 
-h) Quatre représentants des organismes scientifiques ou de protection de la
-nature compétents dans le domaine de la chasse, de la faune sauvage ou de la
-protection de la nature.
+10° Un représentant du ministre chargé de la santé ;
 
-Le directeur des pêches maritimes et des cultures marines, ou son représentant,
-peut assister aux séances du conseil. Il siège à la place du directeur général
-de l'Office national des forêts avec voix délibérative lorsque le conseil
-délibère sur une question concernant la chasse maritime.
+11° Un représentant du ministre chargé de la consommation ;
+
+12° Un représentant de l'Institut national de la recherche agronomique ;
+
+13° Un représentant de l'Institut national de la santé et de la recherche
+médicale ;
+
+14° Trois membres de l'enseignement vétérinaire, de l'Université ou de
+l'Institut Pasteur ;
+
+15° Un membre de l'Académie vétérinaire de France ;
+
+16° Douze personnalités choisies parmi les membres des comités consultatifs.

@@ -1,7 +1,10 @@
 Article R*226-7
 ----
-La commission se réunit sur convocation de son président. Elle est assistée d'un
-secrétariat assuré par l'Office national de la chasse et de la faune sauvage.
-
-Les décisions de la commission nationale sont prises à la majorité des voix,
-celle du président étant prépondérante en cas de partage égal des voix.
+Le préfet est chargé, dans chaque département, de l'exécution du service public
+de l'équarrissage et passe à cet effet, selon les procédures définies par le
+code des marchés publics, les marchés nécessaires dont il est la personne
+responsable au sens de l'article 20 de ce dernier code. Toutefois, lorsque la
+nature des opérations le justifie, des marchés peuvent être passés avec la même
+entreprise, pour tout ou partie de la prestation, pour plusieurs départements.
+En ce cas, le marché désigne le préfet exerçant la fonction de personne
+responsable au sens de l'article 20.

@@ -1,8 +1,15 @@
 Article R*224-2
 ----
-La clôture de la vénerie sous terre intervient le 15 janvier.
+Pour chaque opération de prophylaxie, le préfet, après avoir recueilli l'avis de
+la commission instituée par l'article R. 224-5, de l'inspecteur général de la
+santé publique vétérinaire chargé d'inspection interrégionale territorialement
+compétent, et du directeur départemental de la concurrence et de la consommation
+et de la répression des fraudes, arrête :
 
-Le préfet peut, sur proposition du directeur départemental de l'agriculture et
-de la forêt et après avis du conseil départemental de la chasse et de la faune
-sauvage et de la fédération des chasseurs, autoriser l'exercice de la vénerie du
-blaireau pour une période complémentaire à partir du 15 mai.
+1° Le territoire sur lequel cette opération s'applique ;
+
+2° Les périodes pendant lesquelles la campagne se déroule ;
+
+3° Les modalités pratiques de sa mise en oeuvre ;
+
+4° Le tarif des interventions.

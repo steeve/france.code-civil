@@ -1,9 +1,16 @@
 Article R*234-7
 ----
-Les membres élus du conseil d'administration sont remplacés, en cas d'absence ou
-d'empêchement, par des suppléants élus dans les mêmes conditions.
+L'administration de médicaments vétérinaires mentionnés à l'article R. 234-6 aux
+animaux des espèces dont la chair ou les produits sont destinés à l'alimentation
+humaine doit être effectuée par le vétérinaire prescripteur.
 
-Les membres du conseil d'administration décédés ou démissionnaires et ceux qui,
-en cours de mandat, n'occupent plus les fonctions à raison desquelles ils ont
-été désignés sont remplacés selon les modalités prévues à l'article R. 234-6.
-Les remplaçants sont nommés pour la durée du mandat restant à courir.
+Toutefois, l'administration des médicaments vétérinaires comportant des hormones
+pour la synchronisation du cycle oestral, la préparation des receveuses à
+l'implantation d'un embryon ou celle des donneuses, ainsi que l'administration à
+des équidés ou à des animaux de compagnie de trembolone allyle par voie orale ou
+de substances bêta-agonistes, peuvent être effectuées sous la responsabilité du
+vétérinaire prescripteur. Dans ce cas, le vétérinaire prescripteur établit, dans
+les conditions prévues à l'article R. 5146-51 du code de la santé publique, une
+ordonnance non renouvelable et mentionne, dans le registre d'élevage prévu à
+l'article L. 234-1, le nom et la fonction de la personne qui administre le
+médicament.

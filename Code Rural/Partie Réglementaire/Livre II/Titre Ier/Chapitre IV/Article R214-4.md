@@ -1,37 +1,57 @@
 Article R214-4
 ----
-La commission des conservatoires botaniques nationaux est composée, sous la
-présidence du ministre chargé de la protection de la nature ou de son
-représentant, de :
+Le comité est présidé par le préfet ou son représentant. Il comprend en outre :
 
-1° Quatre membres de droit :
+1° Le président du conseil général ou son représentant ;
 
-a) Le directeur du bureau des ressources génétiques, ou son représentant ;
+2° Le directeur départemental des services vétérinaires ou son représentant, ou,
+dans les départements d'outre-mer, le directeur des services vétérinaires ;
 
-b) Le directeur général du Centre national de la recherche scientifique, ou son
+3° Le directeur départemental de l'agriculture et de la forêt ou son
+représentant, ou dans les départements d'outre-mer, le directeur de
+l'agriculture et de la forêt ou son représentant ;
+
+4° Le commandant de gendarmerie départementale ou son représentant ;
+
+5° Le directeur départemental de la sécurité publique, ou, pour Paris, le
+directeur de la police urbaine de proximité, ou son représentant ;
+
+6° Le directeur départemental des services de secours et d'incendie ou son
 représentant ;
 
-c) Le directeur général de l'Institut national de la recherche agronomique, ou
-son représentant ;
+7° Un représentant de la formation "faune sauvage captive" de la commission
+départementale des sites, perspectives et paysages ;
 
-d) Le directeur du Muséum national d'histoire naturelle, ou son représentant.
+8° Deux maires ou leurs suppléants désignés par le préfet ;
 
-2° Huit membres nommés, pour une durée de quatre ans renouvelable, par le
-ministre chargé de la protection de la nature :
+9° Le président de la chambre d'agriculture ou son représentant ;
 
-a) Sept personnalités qualifiées en botanique, phytogéographie ou biologie de la
-conservation ;
+10° Le président de la chambre de commerce ou son représentant ;
 
-b) Un membre du Conseil national de la protection de la nature, proposé par
-cette instance.
+11° le président du conseil régional de l'ordre des vétérinaires ou son
+représentant ;
 
-Un membre nommé peut être remplacé, en tant que de besoin, par un suppléant si
-celui-ci a été nommé en même temps que lui sur proposition de l'organisme qu'il
-représente.
+12° Un représentant des organisations syndicales de vétérinaires libéraux les
+plus représentatives dans le département ;
 
-En cas de partage égal des voix, le président de la commission a voix
-prépondérante.
+13° Deux représentants des organisations syndicales professionnelles agricoles
+les plus représentatives dans le département ;
 
-Toute personnalité ou tout représentant d'organisme qualifié peut être appelé,
-en tant que de besoin, à assister aux séances de la commission à titre
-consultatif.
+14° Deux représentants d'associations de protection animale les plus
+représentatives dans le département ;
+
+15° Deux représentants d'associations locales de protection de la nature ou
+d'organismes gestionnaires de milieux naturels, de la faune et de la flore ;
+
+16° Un représentant des organisations syndicales les plus représentatives dans
+le département et dont l'objet concerne les prestations commerciales ou le
+commerce des animaux de compagnie ;
+
+17° Un représentant de la société canine régionale.
+
+Le préfet arrête la liste des membres titulaires et suppléants des organisations
+professionnelles et associatives, ainsi que des personnalités. Ces membres sont
+nommés par arrêté préfectoral pour une durée de trois ans.
+
+Le préfet peut inviter aux réunions du comité ou associer à ses travaux toute
+personne dont la collaboration est jugée utile.

@@ -1,4 +1,5 @@
 Article R*212-3
 ----
-Si les conditions fixées ne sont pas respectées, l'autorisation peut être
-suspendue ou révoquée, le bénéficiaire entendu.
+Toute personne créant, transférant ou fermant un colombier de pigeons voyageurs
+en fait la déclaration à l'association colombophile dont elle est membre dans le
+délai d'un mois.

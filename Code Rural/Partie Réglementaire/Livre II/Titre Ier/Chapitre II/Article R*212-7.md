@@ -1,11 +1,23 @@
 Article R*212-7
 ----
-Les spécimens d'espèces animales non domestiques, de leurs parties ou produits
-figurant sur les listes prévues à l'article R. 212-1 peuvent être soumis, dans
-un centre de transit, à un contrôle de leur identité spécifique ou de leurs
-caractéristiques physiques ou biologiques, dans les conditions fixées par arrêté
-conjoint du ministre chargé de la protection de la nature, du ministre de
-l'économie, des finances et du budget et du ministre de l'agriculture, sans
-préjudice de l'application des dispositions législatives et réglementaires en
-vigueur relatives à la santé et à la sécurité publique ou à la surveillance
-sanitaire et à la protection des animaux.
+Les lâchers sur le territoire national de pigeons voyageurs sont effectués sous
+le contrôle de la fédération colombophile française, qui délivre un permis de
+lâcher.
+
+Toutefois, les lâchers d'entraînement de pigeons voyageurs français effectués à
+moins de cent kilomètres du colombier ne sont pas soumis à la délivrance d'un
+permis de lâcher.
+
+La fédération peut, en outre, accorder des dérogations à l'obligation de
+demander un permis de lâcher pour les lâchers d'entraînement de pigeons
+voyageurs français effectués à plus de cent kilomètres du colombier et pour les
+lâchers d'entraînement de pigeons voyageurs étrangers.
+
+Les convois de pigeons voyageurs doivent être accompagnés d'un permis de lâcher
+délivré par la fédération.
+
+Les lâchers de pigeons voyageurs soumis à la délivrance d'un permis ont lieu en
+présence d'un membre de la fédération.
+
+Les lâchers ne peuvent avoir lieu que dans les communes inscrites sur une liste
+établie par la fédération après accord du préfet du département concerné.

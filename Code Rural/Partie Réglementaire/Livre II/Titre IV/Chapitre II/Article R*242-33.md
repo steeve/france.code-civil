@@ -1,10 +1,23 @@
 Article R*242-33
 ----
-Sans préjudice de l'application des sanctions prévues aux articles L. 242-20 et
-L. 242-21 et à la section 4 du présent chapitre, le préfet peut mettre en
-demeure le propriétaire qui ne respecte pas les prescriptions de la décision
-d'agrément de s'y conformer dans un délai qu'il fixe.
+Tout vétérinaire est tenu de remplir scrupuleusement tous les devoirs que lui
+imposent les lois et règlements.
 
-Faute pour le propriétaire d'avoir satisfait à cette mise en demeure, le préfet
-peut, après avoir recueilli les avis mentionnés à l'article R. 242-27, retirer
-l'agrément.
+Il doit respecter le droit que possède toute personne de choisir librement son
+vétérinaire.
+
+Il doit formuler ses prescriptions, en conscience de leurs conséquences pour le
+propriétaire de l'animal, avec toute la clarté nécessaire et donner à qui de
+droit toutes les explications utiles sur la thérapeutique instituée et la
+prescription délivrée.
+
+Il est tenu de conserver à l'égard de sa clientèle une attitude empreinte de
+dignité et d'attention, tenant compte en particulier des relations affectives
+qui peuvent exister entre le maître et l'animal.
+
+Il ne doit pas méconnaître le respect dû à l'animal.
+
+Il doit s'abstenir, même en dehors de l'exercice de la profession, de tout acte
+de nature à déconsidérer celle-ci.
+
+Il lui est interdit de tromper volontairement le public ou ses confrères.

@@ -1,5 +1,7 @@
 Article R*226-1
 ----
-Il est individualisé dans le budget de l'Office national de la chasse et de la
-faune sauvage un compte d'indemnisation des dégâts causés aux récoltes par
-certaines espèces de gibier.
+Les établissements chargés du service public de l'équarrissage et de traitement
+de sous-produits animaux doivent être installés, aménagés, équipés et entretenus
+de façon à permettre, du point de vue sanitaire, l'exécution sans danger du
+travail et la mise en vente de produits finis exempts de substances ou de germes
+nocifs.

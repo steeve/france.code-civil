@@ -1,4 +1,7 @@
 Article R*242-37
 ----
-La zone de protection prévue à l'article L. 242-18 est instituée selon la même
-procédure que celle prévue pour le classement de la réserve.
+Dans les publications médicales ou scientifiques, le vétérinaire ne peut
+utiliser les documents ou résultats d'examens spéciaux et d'observations
+personnelles qui lui ont été fournis par d'autres auteurs, qu'en mentionnant la
+part prise par ces derniers à leur établissement ou en indiquant la référence
+bibliographique afférente.

@@ -1,5 +1,10 @@
 Article R*231-40
 ----
-Sera punie de la peine d'amende prévue pour les contraventions de la 5e classe
-toute personne qui n'aura pas respecté les prescriptions prises en application
-des articles R. 231-20, R. 231-26, R. 231-31 (1°) ou R. 231-34.
+Des arrêtés conjoints du ministre chargé des pêches maritimes et des cultures
+marines et du ministre chargé de la santé, pris après avis du Conseil supérieur
+d'hygiène publique de France, fixent, pour chaque classe de salubrité, les
+paramètres prévus à l'article R. 231-37 et les valeurs qui leur correspondent,
+les plans d'échantillonnage mis en oeuvre, les méthodes d'analyses de référence,
+les règles d'interprétation et d'exploitation des résultats ainsi que les
+modalités selon lesquelles s'exerce la surveillance sanitaire régulière des
+zones de production.

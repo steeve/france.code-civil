@@ -1,7 +1,10 @@
 Article R*231-41
 ----
-Les enclos qui avaient été autorisés en vertu du décret du 24 octobre 1925 pris
-pour l'application de l'article 1er de la loi du 18 juin 1923 conservent le
-bénéfice des dispositions qui leur étaient antérieurement applicables jusqu'au
-renouvellement des autorisations ou concessions qui s'effectuera en application
-de l'article L. 231-6.
+Dans les zones de production, la pêche des coquillages vivants destinés à la
+consommation humaine ne peut être pratiquée à titre non professionnel que sur
+les gisements naturels situés dans des zones classées A ou B.
+
+Les modalités de l'information sanitaire du public se livrant à cette pêche dans
+des zones classées B sont fixées par un arrêté conjoint du ministre chargé de la
+santé et du ministre chargé des pêches maritimes et des cultures marines, pris
+après avis du Conseil supérieur d'hygiène publique de France.

@@ -1,8 +1,16 @@
 Article R*212-5
 ----
-Des arrêtés des ministres concernés peuvent dispenser des autorisations prévues
-aux articles R. 212-1 et R. 212-6, les établissements d'élevage, de vente, de
-location ou de transit d'animaux d'espèces non domestiques ainsi que les
-établissements destinés à la présentation au public de spécimens vivants de la
-faune locale ou étrangère, titulaires de l'autorisation prévue par l'article L.
-213-3.
+La fédération colombophile française est chargée de la répartition des bagues
+matricules dont elle contrôle l'usage.
+
+La bague est accompagnée d'un certificat d'immatriculation portant le même
+numéro qu'elle.
+
+En cas de changement de propriétaire, le certificat d'immatriculation des
+pigeons voyageurs est transmis au nouveau propriétaire.
+
+Les détenteurs de pigeons voyageurs sont responsables de leurs bagues
+matricules.
+
+Les pigeons voyageurs des services de l'Etat sont porteurs de bagues d'un modèle
+spécial.

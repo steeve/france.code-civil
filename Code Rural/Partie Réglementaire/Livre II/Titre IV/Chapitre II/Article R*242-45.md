@@ -1,5 +1,8 @@
 Article R*242-45
 ----
-Les peines prévues aux articles R. 242-38 à R. 242-44 sont applicables aux
-infractions à la réglementation des réserves naturelles volontaires agréées
-prévues à l'article L. 242-11.
+Les vétérinaires doivent entretenir entre eux des rapports de bonne
+confraternité. Celui qu'un dissentiment professionnel oppose à un confrère doit
+chercher la conciliation avec celui-ci. S'il n'y parvient pas, il en avise le
+président du conseil régional de l'ordre, qui tente de régler le différend, ou,
+lorsque celui-ci porte sur l'exercice d'une mission de service public, le
+directeur départemental des services vétérinaires.

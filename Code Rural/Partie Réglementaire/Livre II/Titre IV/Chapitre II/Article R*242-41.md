@@ -1,6 +1,6 @@
 Article R*242-41
 ----
-Seront punis des peines prévues pour les contraventions de la 4e classe ceux qui
-auront contrevenu aux dispositions de la décision de classement comme réserve
-naturelle qui règlementent les activités agricoles, pastorales, forestières ou
-la pratique de jeux ou de sports.
+Il est interdit aux vétérinaires de couvrir et de protéger de leur titre toute
+personne non habilitée à un exercice professionnel vétérinaire, et notamment de
+laisser leurs employés salariés non vétérinaires exercer leur activité hors des
+conditions prévues par la loi.

@@ -1,19 +1,12 @@
 Article R*227-2
 ----
-Sur proposition du directeur départemental de l'agriculture et de la forêt et
-après avis du président de la fédération départementale des chasseurs, le préfet
-fixe, en fonction de la superficie, du boisement et du relief du département, le
-nombre des lieutenants de louveterie et nomme ces derniers pour une durée de six
-ans, renouvelable. Il leur délivre une commission qui détermine le territoire
-sur lequel ils exercent leurs attributions.
+A le caractère d'un programme sanitaire d'élevage, au sens de l'article L.
+5143-7 du code de la santé publique, la définition des interventions qui doivent
+être réalisées systématiquement dans un but prophylactique sur l'ensemble d'un
+troupeau, lot ou bande d'animaux, selon un calendrier préétabli en fonction des
+dominantes pathologiques particulières à chaque type d'élevage et compte tenu
+tant des conditions géographiques propres à la région que des facteurs
+climatiques et saisonniers.
 
-En cas de négligence dans leurs fonctions, abus ou pour toute autre cause grave,
-la commission peut leur être retirée par décision motivée du préfet.
-
-L'arrêté prévu à l'article L. 227-3 fixe les conditions dans lesquelles, en cas
-d'empêchement, le lieutenant de louveterie titulaire peut se faire remplacer
-pour l'exercice de ses compétences techniques.
-
-Si un lieutenant de louveterie vient à décéder, à démissionner ou à faire
-l'objet d'un retrait de commission, son remplaçant ne pourra être nommé que pour
-le temps qui restait à courir par le prédécesseur.
+Est assimilé à un programme sanitaire d'élevage tout programme qui a pour objet
+de maîtriser le cycle oestral des femelles domestiques adultes.

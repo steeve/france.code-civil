@@ -1,8 +1,11 @@
 Article R*241-29
 ----
-L'établissement dresse, en accord avec les administrations intéressées, un
-programme d'aménagement du parc.
+Les sociétés régies par la présente sous-section ont pour objet l'exercice en
+commun de la médecine et de la chirurgie des animaux.
 
-Ce programme, qui prévoit notamment les travaux d'équipement et de mise en
-valeur à réaliser, est approuvé par le ministre chargé de la protection de la
-nature et le ministre chargé du budget.
+Ces sociétés reçoivent l'appellation de sociétés civiles professionnelles de
+vétérinaires.
+
+Chaque associé a la qualité et le titre de vétérinaire associé.
+
+Une société ne peut comprendre plus de huit associés.

@@ -1,7 +1,7 @@
 Article R*226-11
 ----
-La commission arrête chaque année le barème des prix unitaires des denrées en
-fonction duquel est calculé le montant des indemnités.
-
-Elle fixe les dates extrêmes d'enlèvement des différentes récoltes, au-delà
-desquelles les demandes d'indemnisation sont toutes présentées à la commission.
+Dans chaque commune, l'arrêté du préfet portant à la connaissance du public les
+noms et adresses des titulaires de marchés chargés de la collecte des cadavres
+d'animaux et des déchets d'abattoirs, ainsi que toutes informations permettant
+de joindre ceux-ci sans délai, est affiché à la mairie. Un extrait de cet arrêté
+est également publié dans un organe de presse local.

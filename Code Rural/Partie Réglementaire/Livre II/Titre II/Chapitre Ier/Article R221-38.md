@@ -1,7 +1,6 @@
 Article R221-38
 ----
-Les dispositions réglementaires relatives aux fédérations départementales des
-chasseurs sont applicables de plein droit aux deux fédérations
-interdépartementales mentionnées à l'article L. 421-12 du code de
-l'environnement, sous réserve des dispositions particulières définies aux
-articles R. 221-39 à R. 221-41.
+Les capitaines des bateaux et navires qui ont débarqué des animaux en cours de
+route ne peuvent décharger ou transborder dans un port français les déjections,
+fumiers, litières et matériaux des parcs sans que ces matières aient été
+préalablement désinfectées sous la surveillance d'un vétérinaire inspecteur.
