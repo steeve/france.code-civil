@@ -1,20 +1,31 @@
 Article R443-10
 ----
-Les demandes formulées par les locataires d'habitations à loyer modéré en vue de
-l'accession à la propriété en application des articles L. 443-7 et L. 443-8
-doivent [*conditions*] :
+En application de l'article L. 443-7, l'organisme propriétaire peut vendre :
 
-1. Concerner les logements construits depuis plus de dix ans, ce délai étant
-décompté à partir de la date de la réception provisoire ;
+1° Les maisons individuelles construites par l'organisme depuis plus de vingt
+ans, ce délai courant à compter de la date de déclaration d'achèvement des
+travaux mentionnés à l'article R 460-1 du code de l'urbanisme, ou acquises par
+l'organisme depuis plus de vingt ans à compter de la date de l'acte
+d'acquisition.
 
-2. Etre souscrites soit par les locataires d'un de ces logements justifiant
-avoir joui pendant plus de cinq ans, d'une manière continue ou non, de la
-qualité de locataire d'organismes d'habitations à loyer modéré ou d'organismes
-ayant construit avec le bénéfice de la législation sur les habitations à loyer
-modéré, soit par les locataires ou les occupants de bonne foi et avec titres des
-cités d'expérience justifiant du même délai.
+Est considérée comme maison individuelle le bâtiment d'habitation comportant un
+accès direct vers l'extérieur et ne comprenant qu'un seul logement, au sens du
+troisième alinéa de l'article R. 111-1 ;
 
-Les logements-foyers destinés notamment aux personnes âgées, aux jeunes
-travailleurs, aux travailleurs migrants et aux étudiants ne peuvent faire
-l'objet d'une opération d'achat dans le cadre des dispositions des articles L.
-443-7 à L. 443-15.
+2° Les logements situés dans un immeuble collectif, contruits par l'organisme
+depuis plus de dix ans, ce délai courant à compter de la date de déclaration
+d'achèvement des travaux mentionnés à l'article R. 460-1 du code de l'urbanisme,
+ou acquis par l'organisme depuis plus de dix ans.
+
+Est considéré comme immeuble collectif tout immeuble dont les caractéristiques
+ne répondent pas à celles définies au 1° ci-dessus.
+
+Les logements mentionnés aux 1° et 2° ci-dessus qui ont fait l'objet de travaux
+d'amélioration avec l'aide de l'Etat ou d'une collectivité publique ne peuvent
+être cédés qu'à l'expiration d'un délai de cinq ans à compter de la date de
+déclaration d'achèvement des travaux ou de la réception des travaux par le
+maître de l'ouvrage.
+
+Les immeubles collectifs et les logements qu'ils comportent ainsi que les
+maisons individuelles visés à l'article L. 443-7 ne peuvent être cédés que s'ils
+satisfont aux normes techniques énoncées en annexe au présent code.
