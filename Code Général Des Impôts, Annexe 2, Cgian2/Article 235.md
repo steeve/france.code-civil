@@ -1,6 +1,5 @@
 Article 235
 ----
-Pour les entreprises qui bénéficient de la franchise ou de la décote prévues à
-l'article 282 du code général des impôts, lors de l'acquisition des biens
-amortissables, le droit à déduction afférent à ces biens est réduit à
-concurrence du montant de cette franchise ou décote.
+Pour les assujettis qui bénéficient de la franchise prévue à l'article 282 du
+code général des impôts, le montant de la taxe déductible afférente aux biens
+constituant des immobilisations est diminué du montant de la franchise.

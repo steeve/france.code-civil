@@ -1,7 +1,8 @@
 Article 213
 ----
-Par dérogation aux dispositions de l'article 212 l'administration peut
-autoriser, ou obliger, les entreprises qui exploitent des secteurs d'activité
-différents à déterminer un pourcentage de déduction particulier pour chaque
-secteur [*distinct*] d'activité. Dans ce cas, chaque secteur est considéré comme
-une entreprise distincte pour l'exercice du droit à déduction.
+Lorsqu'un assujetti a des secteurs d'activités qui ne sont pas soumis à des
+dispositions identiques au regard de la taxe sur la valeur ajoutée, ces secteurs
+font l'objet de comptes distincts pour l'application du droit à déduction.
+
+Le montant de la taxe déductible au titre des biens communs aux différents
+secteurs est déterminé par application du rapport prévu à l'article 212.

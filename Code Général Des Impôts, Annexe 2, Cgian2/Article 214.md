@@ -1,7 +1,7 @@
 Article 214
 ----
-Pour l'application des articles 212 et 213 les entreprises déterminent, à la fin
-de chaque année civile, le pourcentage de déduction qui se dégage des recettes
-réalisées au cours de ladite année. Ce pourcentage est retenu pour le calcul des
-droits à déduction ouverts au titre des biens acquis au cours de l'année
-suivante.
+Le rapport [*pourcentage général de déduction, prorata*], prévu à l'article 212
+est déterminé provisoirement en fonction des recettes réalisées l'année
+précédente ou des recettes prévisionnelles de l'année en cours. Le montant des
+taxes déductibles est définitivement arrêté avant le 25 avril de l'année
+suivante [*date limite*].

@@ -1,17 +1,18 @@
 Article 212
 ----
-Les entreprises qui ne sont pas assujetties à la taxe sur la valeur ajoutée pour
-l'ensemble de leurs activités sont autorisées à déduire une fraction de la taxe
-sur la valeur ajoutée qui a grevé les biens constituant des immobilisations.
+Les assujettis qui ne réalisent pas exclusivement des opérations ouvrant droit à
+déduction sont autorisés à déduire une fraction de la taxe sur la valeur ajoutée
+qui a grevé les biens constituant des immobilisations égale au montant de cette
+taxe multipliée par le rapport existant entre le montant annuel des recettes
+afférentes à des opérations ouvrant droit à déduction et le montant annuel des
+recettes afférentes à l'ensemble des opérations réalisées [*pourcentage général
+de déduction, prorata, calcul, définition*] (1).
 
-Cette fraction est égale au montant de la taxe qui a grevé lesdits biens affecté
-du pourcentage qui résulte du rapport existant entre les recettes soumises à la
-taxe sur la valeur ajoutée et l'ensemble des recettes réalisées par l'entreprise
-(1).
+L'Etat et les collectivités locales n'inscrivent le produit de leurs opérations
+provenant de leur budget qu'au seul dénominateur du rapport.
 
-Pour la détermination de ce rapport, les recettes comprennent les droits et
-taxes exigibles ; les recettes qui proviennent des opérations visées à l'article
-222 sont majorées de la taxe sur la valeur ajoutée.
+Les recettes s'entendent tous frais et taxes compris à l'exclusion de la taxe
+sur la valeur ajoutée.
 
-1) Voir également art. 242 septies I pour les entreprises imposées selon le
+(1) Voir également art. 242 septies I pour les entreprises imposées selon le
 régime simplifié.

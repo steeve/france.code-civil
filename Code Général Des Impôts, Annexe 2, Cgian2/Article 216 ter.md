@@ -1,15 +1,15 @@
 Article 216 ter
 ----
-Les dispositions de l'article 216 bis s'appliquent aux biens définis ci-après :
+La taxe déductible est celle afférente :
 
-1° Investissements immobiliers et véhicules de transports publics appartenant à
-l'Etat, à des collectivités locales et à leurs établissements publics, dont
-l'exploitation est concédée ou affermée et lorsque leur coût grève le
-fonctionnement du service public et que la concession ou l'affermage ne sont pas
-soumis à la taxe sur la valeur ajoutée.
+1° aux investissements immobiliers et véhicules de transports publics que
+l'Etat, les collectivités locales et leurs établissements publics ont concédés
+ou affermés lorsque leur coût constitue l'un des éléments du prix du service
+soumis à la taxe ;
 
-2° Immeubles édifiés par les sociétés de construction dont les parts ou actions
-donnent vocation à l'attribution en propriété ou en jouissance d'un immeuble ou
-d'une fraction d'immeuble.
+2° aux immeubles édifiés par les sociétés de construction dont les parts ou
+actions donnent vocation à l'attribution en propriété ou en jouissance d'un
+immeuble ou d'une fraction d'immeuble [*sociétés immobilières de copropriété*] ;
 
-3° (Abrogé)
+3° aux travaux de grosses réparations ou d'améliorations d'immeubles à la charge
+du preneur.

@@ -1,13 +1,14 @@
 Article 236
 ----
-La taxe afférente aux dépenses exposées pour assurer le logement ou
-l'hébergement des dirigeants et du personnel des entreprises n'est pas
-déductible.
+N'est pas déductible la taxe ayant grevé des biens ou services utilisés par des
+tiers, par des dirigeants ou le personnel de l'entreprise, tels que le logement
+ou l'hébergement, les frais de réception, de restaurant, de spectacles ou toute
+dépense ayant un lien direct ou indirect avec les déplacements ou la résidence.
 
-Toutefois, cette exclusion ne concerne pas la taxe afférente aux dépenses
-exposées pour assurer, sur les lieux du travail, le logement gratuit du
-personnel salarié chargé de la sécurité ou de la surveillance d'un ensemble
-industriel ou commercial ou d'un chantier de travaux.
+Toutefois, cette exclusion ne concerne pas les vêtements de travail ou de
+protection, les locaux et le matériel mis à disposition du personnel sur les
+lieux de travail, le logement gratuit du personnel salarié chargé sur les lieux
+de travail de la sécurité ou de la surveillance.
 
 (1) La construction, l'agrandissement, l'aménagement et la modernisation
 d'établissements hôteliers de tourisme n'ouvrent pas droit à déduction lorsque
