@@ -37,16 +37,19 @@ des limites fixées par arrêté du ministre chargé de la construction et de
 l'habitation ;
 
 9° La réalisation d'opérations de logements-foyers à usage locatif tels que
-définis aux articles R. 351-55 et R. 351-56.
+définis aux articles R. 351-55 et R. 351-56 ;
+
+10° L'acquisition de logements dans le cadre des dispositions prévues à
+l'article L. 261-3.
 
 Dans les limites et conditions fixées par la présente section, et notamment par
 les articles R. 331-12, R. 331-14, R. 331-15, des subventions et des prêts
 définis par la sous-section 2 peuvent être accordés pour financer l'acquisition
-de logements locatifs et le cas échéant les travaux d'amélioration ainsi que les
-opérations et travaux mentionnés aux 1°, 2°, 4°, 6°, 7° et 8° de l'alinéa
-précédent, lorsque les logements concernés sont adaptés aux besoins de ménages
-qui rencontrent des difficultés d'insertion particulières. Les dispositions des
-articles R. 331-9 à R. 331-24 relatives aux opérations
+de logements locatifs existants et le cas échéant les travaux d'amélioration
+ainsi que les opérations et travaux mentionnés aux 1°, 2°, 4°, 6°, 7°, 8° et 10°
+de l'alinéa précédent lorsque les logements concernés sont adaptés aux besoins
+des ménages qui rencontrent des difficultés d'insertion particulières. Les
+dispositions des articles R. 331-9 à R. 331-24 relatives aux opérations
 d'acquisition-amélioration sont applicables à ces logements y compris en
 l'absence de travaux. Le coût d'acquisition de ces logements ne doit pas excéder
 un pourcentage de la valeur de base des opérations d'acquisition-amélioration

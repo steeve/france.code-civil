@@ -1,8 +1,9 @@
 Article D323-2
 ----
 Les catégories de bénéficiaires visées à l'article L. 323-3 comptent pour au
-moins une unité ; elles comptent au moins pour deux unités l'année de leur
-embauche et l'année suivante.
+moins une unité. Si elles sont titulaires d'un contrat de travail à durée
+indéterminée, elles comptent au moins pour deux unités l'année d'embauche et
+l'année suivante.
 
 En outre, un décompte particulier est effectué dans les conditions suivantes
 sans qu'une personne puisse être comptabilisée au titre de plus d'une catégorie
