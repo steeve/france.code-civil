@@ -1,10 +1,11 @@
 Article 465
 ----
 Dans le cas visé à l'article 464, premier alinéa, s'il s'agit d'un délit de
-droit commun et si la peine prononcée est au moins d'une année d'emprisonnement
-sans sursis, le tribunal peut, par décision spéciale et motivée, lorsque les
-éléments de l'espèce justifient une mesure particulière de sûreté, décerner
-mandat de dépôt ou d'arrêt contre le prévenu.
+droit commun ou d'un délit d'ordre militaire prévu par le livre III du code de
+justice militaire et si la peine prononcée est au moins d'une année
+d'emprisonnement sans sursis, le tribunal peut, par décision spéciale et
+motivée, lorsque les éléments de l'espèce justifient une mesure particulière de
+sûreté, décerner mandat de dépôt ou d'arrêt contre le prévenu.
 
 Le mandat d'arrêt continue à produire son effet, même si le tribunal, sur
 opposition, ou la cour, sur appel, réduit la peine à moins d'une année
