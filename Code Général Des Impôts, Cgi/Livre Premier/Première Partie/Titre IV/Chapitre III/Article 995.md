@@ -53,6 +53,10 @@ des risques de transfusion sanguine pour satisfaire aux conditions de
 l'assurance obligatoire des dommages causés aux donneurs et aux receveurs de
 sang humain et de produits sanguins d'origine humaine (2).
 
+11° Les assurances contre les risques de toute nature relatifs aux véhicules
+terrestres à moteur utilitaires d'un poids total autorisé en charge supérieur à
+3,5 tonnes.
+
 (1) Ces dispositions s'appliquent à compter du 1er juillet 1990, sauf pour les
 opérations d'assurance sur la vie réalisées dans le cadre d'un plan d'épargne
 populaire pour lesquels la date d'application est fixée au 1er janvier 1990.

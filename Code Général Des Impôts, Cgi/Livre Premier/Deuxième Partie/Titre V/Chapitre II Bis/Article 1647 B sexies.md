@@ -2,8 +2,10 @@ Article 1647 B sexies
 ----
 I. Sur demande du redevable, la cotisation de taxe professionnelle de chaque
 entreprise est plafonnée à 3,5 % [*pourcentage*] de la valeur ajoutée produite
-au cours de la période retenue pour la détermination des bases imposables et
-définie selon les modalités prévues aux II et III (1).
+au cours de l'année au titre de laquelle l'imposition est établie ou au cours du
+dernier exercice de douze mois clos au cours de cette même année lorsque cet
+exercice ne coïncide pas avec l'année civile. La valeur ajoutée est définie
+selon les modalités prévues au II.
 
 I bis. Le plafonnement prévu au I s'applique sur la cotisation de taxe
 professionnelle diminuée, le cas échéant, de l'ensemble des réductions et
@@ -15,7 +17,7 @@ Il ne s'applique pas non plus à la cotisation minimum prévue à l'article 1647
 
 II. 1. La valeur ajoutée mentionnée au I est égale à l'excédent hors taxe de la
 production sur les consommations de biens et services en provenance de tiers
-constaté pour la période de référence définie aux articles 1467 A et 1478.
+constaté pour la période définie au I.
 
 2. Pour la généralité des entreprises, la production de l'exercice est égale à
 la différence entre [*calcul*] :
@@ -64,24 +66,11 @@ variation des stocks.
 6. Un décret en Conseil d'Etat fixe, en tant que de besoin, les modalités
 d'application du présent paragraphe.
 
-III. La valeur ajoutée d'un établissement nouveau dépendant d'une entreprise à
-établissements multiples est, pour l'année d'imposition suivant celle de la
-création, obtenue :
+III. (Abrogé pour les impositions établies au titre de 1993 et des années
+suivantes).
 
-1° Lorsqu'il s'agit d'une entreprise soumise à un régime d'imposition d'après le
-bénéfice réel, en multipliant le total :
-
-Des frais de personnel de l'année de la création, ajustés pour correspondre à
-une année pleine ;
-
-Et du prix de revient des immobilisations affecté du taux moyen d'amortissement
-de l'entreprise par le rapport constaté pour les autres établissements entre ces
-éléments et le montant total des bases ;
-
-2° Lorsqu'il s'agit d'une entreprise soumise à un régime forfaitaire
-d'imposition, en multipliant le chiffre d'affaires de l'année de la création,
-ajusté pour correspondre à une année pleine, par le rapport constaté pour les
-autres établissements entre cet élément et le montant total des bases.
+IV. Les dégrèvements résultant de l'application du présent article sont
+ordonnancés dans les six mois suivant celui du dépôt de la demande.
 
 (1) Taux applicable pour les impositions établies au titre de 1991 et des années
 suivantes. Précédemment le taux était de 4 %.

@@ -1,19 +1,21 @@
 Article 200 bis
 ----
-Les cotisations d'impôt sur le revenu dues au titre de l'année 1991 sont
+Les cotisations d'impôt sur le revenu dues au titre de l'année 1992 sont
 minorées dans les conditions suivantes :
 
 MONTANT DE LA COTISATION / MINORATION
 
-N'excédant pas 26 250 F / 11 %
+N'excédant pas 26 990 F / 11 %
 
-De 26 251 F à 32 790 F / Différence entre 6 560 F et 14 % de la cotisation
+De 26 991 F à 33 710 F / Différence entre 6 745 F et 14 % de la cotisation
 
-De 32 791 F à 39 350 F / 6 %
+De 33 711 F à 40 460 F / 6 %
 
-De 39 351 F à 46 260 F / Différence entre 7 870 F et 14 % de la cotisation
+De 40 461 F à 47 560 F / Différence entre 8 090 F et 14 % de la cotisation
 
-Au-delà de 46 260 F / 3 % Si le revenu imposable par part n'excède pas 332 360 F
+Au-delà de 47 560 F / 3 % si le revenu imposable, y compris les revenus soumis à
+l'impôt à un taux proportionnel, divisé par le nombre de parts, n'excède pas 341
+670 F
 
 Les cotisations d'impôt sur le revenu s'entendent avant déduction des crédits
 d'impôt, de l'avoir fiscal et des prélèvements ou retenues non libératoires.

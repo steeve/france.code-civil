@@ -3,7 +3,7 @@ Article 219
 I. Pour le calcul de l'impôt, toute fraction du bénéfice imposable inférieure à
 10 F est négligée.
 
-Le taux normal de l'impôt est fixé à 34 % (1).
+Le taux normal de l'impôt est fixé à 33,1/3 % (1).
 
 Toutefois :
 
@@ -131,13 +131,13 @@ alinéas ci-dessus, corrigés des provisions sur titres déduites ou réintégr�
 dans les résultats, diminués, le cas échéant, de la déduction prévue à l'alinéa
 précédent.
 
-Ces dispositions s'appliquent pour la détermination des résultats des exercices
-clos à compter du 1er octobre 1991.
-
 " L'excédent des moins-values à long terme subies au cours d'un exercice clos à
 compter du 1er octobre 1991 peut être déduit des bénéfices de l'exercice de
 liquidation d'une entreprise intervenue au cours des exercices ouverts à compter
 du 1er janvier 1991 à raison des dix-huit trente-quatrièmes de son montant. "
+
+Ces dispositions s'appliquent pour la détermination des résultats des exercices
+clos à compter du 1er octobre 1991.
 
 b. (Disposition périmée).
 
@@ -180,6 +180,11 @@ janvier 1992. Pour ces exercices le taux du supplément d'impôt sur les sociét
 défini au deuxième alinéa est réduit à 0 p. 100 du montant net distribué à
 concurrence de la somme algébrique des résultats comptables de ces mêmes
 exercices ainsi que des sommes réputées distribuées. "
+
+Les dispositions du présent c sont abrogées pour les distributions mises en
+paiement au cours des exercices ouverts à compter du 1er janvier 1993 ainsi que
+pour les sommes réputées distribuées au cours de l'exercice qui précède le
+premier exercice ouvert à compter de cette date.
 
 d. Les distributions pour lesquelles le précompte mobilier prévu à l'article 223
 sexies a été acquitté ne sont pas retenues pour l'application des dispositions
@@ -251,12 +256,12 @@ b. L'application de ce taux réduit est subordonnée à la condition que les
 opérations de construction correspondantes présentent un caractère accessoire
 pour la société intéressée.
 
-(1) Ce taux s'applique aux exercices ouverts à compter du 1er janvier 1991. Il
-était fixé à 37 % pour les exercices ouverts à compter du 1er janvier 1990, à 39
-% pour les exercices ouverts entre le 1er janvier 1989 et le 31 décembre 1989, à
-42 % pour les exercices ouverts entre le 1er janvier 1988 et le 31 décembre 1988
-et à 45 % pour les exercices ouverts entre le 1er janvier 1987 et le 31 décembre
-1987.
+(1) Ce taux s'applique aux exercices ouverts à compter du 1er janvier 1993. Il
+était fixé à 34 % pour les exercices ouverts à compter du 1er janvier 1991, à 37
+% pour les exercices ouverts à compter du 1er janvier 1990, à 39 % pour les
+exercices ouverts entre le 1er janvier 1989 et le 31 décembre 1989, à 42 % pour
+les exercices ouverts entre le 1er janvier 1988 et le 31 décembre 1988 et à 45 %
+pour les exercices ouverts entre le 1er janvier 1987 et le 31 décembre 1987.
 
 (2) Voir annexe III, art. 46 quater-0 ZY.
 

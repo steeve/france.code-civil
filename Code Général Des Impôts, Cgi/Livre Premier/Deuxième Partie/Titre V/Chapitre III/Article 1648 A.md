@@ -55,7 +55,13 @@ régime fiscal prévu à l'article 1609 nonies C, les bases d'imposition d'un
 de laquelle est situé cet établissement, excèdent deux fois la moyenne nationale
 des bases communales de taxe professionnelle par habitant, il est perçu
 directement un prélèvement de taxe professionnelle du groupement au profit du
-fonds départemental de péréquation de la taxe professionnelle.
+fonds départemental de péréquation de la taxe professionnelle pour les
+établissements créés avant le 1er janvier 1976, à l'exception de ceux produisant
+de l'énergie ou traitant des combustibles, l'assiette du prélèvement est limitée
+de manière que le groupement conserve, sur le territoire de la commune sur
+lequel est implanté l'établissement, au moins 80 p. 100 du montant divisé par
+0,960 des bases de taxe professionnelle qui étaient imposables en 1979 au profit
+de cette commune.
 
 Ce prélèvement est égal au montant des bases excédentaires de l'établissement
 pondérées par le taux de taxe professionnelle perçue par le groupement.
@@ -82,9 +88,10 @@ La liste des communes concernées est arrêtée par le conseil général du
 département où est implanté l'établissement dont les bases sont écrêtées ou par
 la commission interdépartementale lorsque plusieurs départements sont concernés.
 
-Sur ce fonds, le conseil général prélève, par priorité, au profit des communes
-ou syndicats de communes bénéficiaires de ces ressources et à concurrence du
-montant de l'écrêtement, les sommes qui leur sont nécessaires pour permettre le
+Sur la partie du fonds alimentée par l'écrêtement des bases communales, le
+conseil général prélève, par priorité, au profit des communes ou syndicats de
+communes bénéficiaires de ces ressources et à concurrence du montant de
+l'écrêtement, les sommes qui leur sont nécessaires pour permettre le
 remboursement des annuités d'emprunts contractés par eux avant le 1er juillet
 1975.
 
@@ -135,7 +142,42 @@ traitement est considérée comme un établissement.
 IV. A défaut d'accord prévu au II sur le plan interdépartemental et au III, la
 répartition est effectuée par arrêté du ministre de l'intérieur.
 
-IV bis- (Périmé).
+IV bis. 1° Sur la partie du fonds alimentée par l'écrêtement des bases des
+groupements soumis, de plein droit ou après option, aux dispositions fiscales de
+l'article 1609 nonies C, le conseil général prélève, par priorité, au profit du
+groupement dont les bases ont été écrêtées, 20 p. 100 au moins et 40 p. 100 au
+plus du montant de l'écrêtement.
+
+Le solde est réparti :
+
+a) Par priorité, au profit des communes ou syndicats de communes bénéficiaires
+des ressources et à concurrence du montant de l'écrêtement, les sommes qui leur
+sont nécessaires pour permettre le remboursement des annuités d'emprunts
+contractés par eux avant le 1er juillet 1975 ;
+
+b) Ensuite, d'une part, entre les groupements de communes à fiscalité propre,
+les syndicats utilisant les dispositions de partage de taxe professionnelle de
+l'article 11 de la loi n° 80-10 du 10 janvier 1980 portant aménagement de la
+fiscalité directe locale et les communes défavorisées par la faiblesse de leur
+potentiel fiscal ou l'importance de leurs charges, d'autre part, entre les
+communes qui répondent aux conditions déterminées au 2° du II et au III de
+l'article 1648 A.
+
+2° Sur la partie du fonds alimentée par l'écrêtement des bases des groupements à
+fiscalité propre, le conseil général prélève, par priorité, au profit du
+groupement dont les bases ont été écrêtées, deux tiers au moins, trois quarts au
+plus du montant de l'écrêtement.
+
+Dans le cas où l'écrêtement concerne les bases d'établissements installés sur
+une zone d'activités économiques et assujetties aux dispositions du II de
+l'article 1609 quinquies C du présent code, ce reversement ne peut être
+inférieur aux annuités des emprunts contractés pour l'équipement de cette zone
+dans la limite des ressources prélevées par l'écrêtement.
+
+Le solde éventuel est réparti entre les groupements à fiscalité propre ou les
+syndicats utilisant les dispositions de partage de taxe professionnelle de
+l'article 11 de la loi n° 80-10 du 10 janvier 1980 précitée défavorisés par la
+faiblesse de leur potentiel fiscal ou l'importance de leurs charges.
 
 V. Une fraction des recettes départementales de la taxe professionnelle peut
 également être affectée au fonds par décision du conseil général. Ce supplément

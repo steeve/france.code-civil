@@ -21,21 +21,34 @@ centres de gestion et l'ordre des experts comptables et des comptables agréés.
 Ils font appel aux membres de l'ordre pour la vérification par sondages de ces
 documents.
 
-III. Les dispositions du II sont applicables à l'ensemble des des centres de
+Ils peuvent également tenir et présenter les comptes des personnes morales dont
+l'activité est agricole et ceux des adhérents pour leurs activités
+économiquement connexes à l'exploitation agricole. La surveillance de ces
+dossiers est effectuée par un membre de l'ordre des experts-comptables lorsque
+leur chiffre d'affaires vient à excéder les limites du III.
+
+III. - Les dispositions du II sont applicables à l'ensemble des centres de
 gestion en ce qui concerne leurs adhérents industriels, commerçants et artisans
 soumis sur option au régime simplifié d'imposition prévu à l'article 302 septies
 A bis ou soumis de plein droit à ce régime lorsque leur chiffre d'affaires ne
-dépasse pas le double des limites du régime du forfait.
+dépasse pas 60 p. 100 des limites prévues au I de l'article 302 septies A.
+
+Les dispositions du II sont également applicables à l'ensemble des centres de
+gestion en ce qui concerne leurs adhérents industriels, commerçants et artisans,
+pour leurs activités agricoles, économiquement connexes, exercées à titre
+individuel lorsque les recettes de l'activité agricole ne viennent pas excéder
+la limite du régime simplifié agricole prévue au b du II de l'article 69, ainsi
+que pour leurs activités non commerciales économiquement connexes.
 
 IV. Les centres de gestion agréés et habilités peuvent tenir ou centraliser,
 dans des conditions fixées par décret, les documents comptables de leurs
 adhérents dont le chiffre d'affaires n'excède pas les limites du régime
-simplifié d'imposition.
+simplifié d'imposition y compris pour leurs activités agricoles ou non
+commerciales qui leur sont économiquement connexes.
 
 Ils peuvent également, dans les mêmes conditions, continuer de tenir ou de
-centraliser les documents comptables des entreprises adhérentes tant que le
-chiffre d'affaires réalisé par celles-ci n'excède pas une fois et demie ces
-limites.
+centraliser les documents comptables des entreprises adhérentes quelle que soit
+l'évolution de leur chiffre d'affaires.
 
 Les experts-comptables, les comptables agréés, les sociétés membres de l'ordre
 et les experts-comptables stagiaires autorisés exercent, sous leur

@@ -19,3 +19,8 @@ ou de variétés;
 
 De tout document ou programme audiovisuel ne comportant qu'accessoirement des
 éléments de création originale.
+
+Toutefois, dans la limite de 20 p. 100 des financements annuels visés à
+l'article 238 bis HE, l'agrément prévu au même article peut être délivré aux
+oeuvres de coproduction réalisées dans une langue du pays du coproducteur
+majoritaire établi dans un Etat membre de la Communauté économique européenne.

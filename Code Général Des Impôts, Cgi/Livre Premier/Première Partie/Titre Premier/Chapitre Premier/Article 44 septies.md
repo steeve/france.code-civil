@@ -28,9 +28,13 @@ surveillance ou membre du directoire.
 
 Cette exonération peut être accordée sur agrément du ministre chargé du budget
 si la procédure de redressement judiciaire n'est pas mise en oeuvre ou si la
-reprise concerne des branches complètes et autonomes d'activité et est effectuée
-dans le cadre de cessions ordonnées par le juge-commissaire en application de
-l'article 155 de la loi n° 85-98 du 25 janvier 1985 précitée.
+reprise concerne des branches complètes et autonomes d'activité industrielle et
+est effectuée dans le cadre de cessions ordonnées par le juge-commissaire en
+application de l'article 155 de la loi n° 85-98 du 25 janvier 1985 précitée. Il
+en est de même si la reprise porte sur un ou plusieurs établissements
+industriels en difficulté d'une entreprise industrielle et dans la mesure où la
+société créée pour cette reprise est indépendante juridiquement et
+économiquement de l'entreprise cédante.
 
 Lorsqu'une société créée dans les conditions prévues aux trois alinéas ci-dessus
 interrompt, au cours des trois premières années d'exploitation, l'activité
