@@ -1,11 +1,11 @@
 Article R322-5
 ----
 I. - Le nouveau propriétaire d'un véhicule déjà immatriculé doit, s'il veut le
-maintenir en circulation, faire établir, dans un délai de quinze jours à compter
-de la date de la mutation portée sur la carte grise, un certificat
-d'immatriculation à son nom. A cet effet, il doit adresser au préfet compétent
-en application des dispositions de l'article R. 322-1 une demande de certificat
-d'immatriculation d'un véhicule accompagnée :
+maintenir en circulation, faire établir, dans un délai d'un mois à compter de la
+date de la mutation portée sur la carte grise, un certificat d'immatriculation à
+son nom. A cet effet, il doit adresser au préfet compétent en application des
+dispositions de l'article R. 322-1 une demande de certificat d'immatriculation
+d'un véhicule accompagnée :
 
 1° De la carte grise qui lui a été remise par l'ancien propriétaire ;
 
@@ -17,18 +17,11 @@ susceptible de modifier les indications de la précédente carte grise ;
 répond aux conditions requises pour être maintenu en circulation conformément
 aux dispositions du chapitre III du présent titre ;
 
-4° Du certificat de non-opposition au transfert du certificat d'immatriculation
-et de l'attestation d'inscription ou de non-inscription de gage établis depuis
-moins d'un mois par le préfet qui a délivré la précédente carte grise ou par le
-préfet compétent pour délivrer la nouvelle, ou par voie électronique lorsque la
-demande est présentée par l'intermédiaire du site internet du ministère de
-l'intérieur.
-
-5° D'une déclaration d'achat en cas de vente du véhicule par un professionnel.
+4° D'une déclaration d'achat en cas de vente du véhicule par un professionnel.
 
 II. - La carte grise portant la mention de la mutation ou de la revente par un
 professionnel n'est valable pour la circulation du véhicule que pendant une
-durée de quinze jours à compter de ladite mutation ou de ladite revente.
+durée d'un mois à compter de ladite mutation ou de ladite revente.
 
 III. - Le ministre chargé des transports définit par arrêté pris après avis du
 ministre de l'intérieur les conditions d'application du présent article,

@@ -16,10 +16,7 @@ véhicule et de la carte grise, les nom et adresse du contrevenant, les noms,
 qualités et affectations des agents qui la rédigent et précise la résidence de
 l'officier de police judiciaire qualifié pour lever la mesure.
 
-III. - Lorsqu'il s'agit d'un cyclomoteur à deux roues, seule la fiche
-d'immobilisation est remise par l'agent à l'officier de police judiciaire
-territorialement compétent.
-
-IV. - Par dérogation aux dispositions du I ci-dessus, si la mesure a été motivée
-par le franchissement d'une barrière de dégel, l'autorité saisie est l'ingénieur
-des ponts et chaussées ou, s'il s'agit d'une voie communale, le maire.
+III. - Par dérogation aux dispositions du I ci-dessus, si la mesure a été
+motivée par le franchissement d'une barrière de dégel, l'autorité saisie est
+l'ingénieur des ponts et chaussées ou, s'il s'agit d'une voie communale, le
+maire.
