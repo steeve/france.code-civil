@@ -14,7 +14,3 @@ associés de toutes impositions ou pénalités éventuellement exigibles au titr
 la période antérieure à raison des immeubles attribués, à moins qu'une
 vérification fiscale concernant les mêmes personnes n'ait été engagée ou
 annoncée avant le 19 octobre 1982.
-
-La section 0II devient 0I bis dans l'édition du 31 mars 1999 :
-
-décret 99-381 du 18 mai 1999 art. 1, JO du 20 mai.
