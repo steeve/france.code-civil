@@ -1,15 +1,14 @@
 Article R*212-18
 ----
-La taxe sur les passagers n'est pas perçue pour :
+La redevance sur les passagers n'est pas applicable :
 
-- les enfants âgés de moins de quatre ans ;
+1° Aux enfants âgés de moins de quatre ans ;
 
-- les militaires voyageant en formations constituées ;
+2° Aux militaires voyageant en formations constituées ;
 
-- le personnel de bord, les agents de l'armateur voyageant pour les besoins du
-service et munis d'un titre de transport gratuit ;
+3° Au personnel de bord ;
 
-- les fonctionnaires chargés d'assurer à bord un service administratif ;
+4° Aux agents de l'armateur voyageant pour les besoins du service et munis d'un
+titre de transport gratuit ;
 
-- les passagers des navires de croisière qui ne débarquent que temporairement au
-cours de l'escale.
+5° Aux agents publics dans l'exercice de leurs missions à bord.

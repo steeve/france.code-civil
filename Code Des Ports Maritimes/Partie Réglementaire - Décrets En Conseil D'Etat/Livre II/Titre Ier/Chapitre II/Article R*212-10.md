@@ -1,4 +1,5 @@
 Article R*212-10
 ----
-Les réductions prévues aux articles R. 212-8 et R. 212-9 ne peuvent pas être
-cumulées ; seule est appliquée la plus avantageuse pour le navire.
+La redevance peut être assortie d'abattements ou de majorations, dans la limite
+de 30 % du taux de base, en fonction de la période de la journée, de la semaine
+ou de l'année où s'effectuent les touchées.

@@ -8,7 +8,10 @@ Le comité de pilotage stratégique est composé de :
 
 - le trésorier-payeur général ou son représentant ;
 
-- le directeur du port ou son représentant ;
+- le directeur du port ou son représentant.
+
+Dans les ports contigus à un port militaire, le préfet maritime ou son
+représentant assiste de droit aux séances du comité de pilotage stratégique.
 
 2° Trois membres représentant l'exécutif des collectivités territoriales et de
 leur groupement :

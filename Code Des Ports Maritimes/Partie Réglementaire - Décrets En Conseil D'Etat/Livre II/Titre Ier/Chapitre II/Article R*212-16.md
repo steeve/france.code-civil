@@ -1,6 +1,6 @@
 Article R*212-16
 ----
-La taxe sur les marchandises n'est pas due pour :
+La redevance sur les marchandises n'est pas due pour :
 
 - les matériaux employés au lestage ou provenant du délestage des navires s'ils
 sont effectivement débarqués et ne donnent lieu à aucune opération commerciale ;
@@ -19,8 +19,6 @@ sans avoir quitté cette enceinte, sont rechargées sur le même navire en
 continuation de transport ;
 
 - le matériel débarqué des navires pour réparation ou nettoyage ;
-
-- les sacs de dépêches, les sacs postaux et les colis postaux ;
 
 - les bagages accompagnant les passagers ;
 

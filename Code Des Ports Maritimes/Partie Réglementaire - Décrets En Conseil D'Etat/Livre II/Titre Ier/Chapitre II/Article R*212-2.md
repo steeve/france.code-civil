@@ -1,4 +1,4 @@
 Article R*212-2
 ----
-La taxe sur le navire et, le cas échéant, la taxe de stationnement sont à la
-charge de l'armateur.
+La redevance sur le navire et, le cas échéant, la redevance de stationnement
+sont à la charge de l'armateur.
