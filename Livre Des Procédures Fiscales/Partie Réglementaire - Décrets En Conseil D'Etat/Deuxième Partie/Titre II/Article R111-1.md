@@ -15,4 +15,4 @@ c) Le revenu imposable ;
 
 d) Le montant de l'impôt mis à sa charge, défini par l'article R. 111-2 ;
 
-e) Le montant de l'avoir fiscal.
+e) abrogé

@@ -5,13 +5,14 @@ doit, dans le mois de cette distribution partielle comme dans le cas d'une
 distribution globale prévue à l'article 41 sexdecies C, produire un état
 comportant l'indication du montant et de la date de mise en distribution de cet
 acompte, de l'exercice au titre duquel il est versé ainsi que du nombre de parts
-ayant vocation à cette répartition.
+ayant vocation à cette répartition et de la part de cet acompte éligible à la
+réfaction de 50 % mentionnée au 2° du 3 de l'article 158 du code général des
+impôts.
 
 II - Pour chaque acompte, le gérant est tenu de rédiger un état analogue à celui
 prévu à l'article 41 sexdecies D mais tenant compte uniquement, pour la
 détermination des divers montants qui doivent y être mentionnés, des produits du
-fonds compris dans l'acompte et des avoirs fiscaux ou crédits d'impôt attachés à
-ces produits.
+fonds compris dans l'acompte et des crédits d'impôt attachés à ces produits.
 
 III - Lors de la répartition pour solde des produits d'un exercice déterminé,
 des états analogues à ceux prévus respectivement aux articles 41 sexdecies C et
