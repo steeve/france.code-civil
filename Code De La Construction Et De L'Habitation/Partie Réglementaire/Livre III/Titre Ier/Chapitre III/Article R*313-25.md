@@ -1,7 +1,8 @@
 Article R*313-25
 ----
 Les sommes recueillies au titre de la participation des employeurs par les
-organismes collecteurs comprennent :
+organismes collecteurs énnumérés au b et c du 2 de l'article R313-9 comprennent
+:
 
 a) Les versements effectués par les employeurs en application des articles R.
 313-8 à R. 313-11 ;
@@ -25,7 +26,7 @@ mentionnés à l'article R. 313-9 (2. a, b) ou à l'Agence nationale pour la
 participation des employeurs à l'effort de construction sont déduits de ces
 sommes.
 
-Le montant des sommes en attente d'un emploi conforme à l'article R. 313-31 ne
+Le montant des sommes em attente d'un emploi conforme à l'article R. 313-31 ne
 peut dépasser une fraction des sommes recueillies au titre de l'exercice
 précédent, définie par arrêté du ministre chargé de la construction et de
 l'habitation et du ministre chargé de l'industrie et du commerce.
