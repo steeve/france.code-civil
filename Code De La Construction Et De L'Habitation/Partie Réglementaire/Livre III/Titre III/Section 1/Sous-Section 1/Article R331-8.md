@@ -12,11 +12,11 @@ d'économie mixte ayant pour objet statutaire la rénovation urbaine et la
 restauration immobilière dans le cadre des opérations qui leur sont confiées par
 les collectivités publiques ;
 
-3. D'autres personnes morales ou physiques, lorsqu'elles contribuent au
-financement de l'opération par un apport en capital minimum fixé par arrêté des
-ministres chargés de la construction et de l'habitation et des finances, et
-qu'elles s'engagent à assurer elles-mêmes la gestion de ces logements ou à la
-confier à des personnes ou organismes agréés par arrêté du ministre chargé de la
+3. Des personnes morales ou physiques, lorsqu'elles contribuent au financement
+de l'opération par un financement propre minimum fixé par arrêté des ministres
+chargés de la construction et de l'habitation et des finances, et qu'elles
+s'engagent à assurer elles-mêmes la gestion de ces logements ou à la confier à
+des personnes ou organismes agréés par arrêté du ministre chargé de la
 construction et de l'habitation.
 
 L'octroi de ces prêts est subordonné à la passation par le demandeur d'une
