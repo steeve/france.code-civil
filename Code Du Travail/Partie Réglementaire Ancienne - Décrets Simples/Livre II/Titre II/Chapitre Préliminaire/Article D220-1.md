@@ -1,7 +1,8 @@
 Article D220-1
 ----
 Il peut être dérogé, dans des conditions et selon des modalités fixées par
-convention ou accord collectif étendu, aux dispositions de l'article L. 220-1 :
+convention ou accord collectif étendu ou par convention ou accord d'entreprise
+ou d'établissement, aux dispositions de l'article L. 220-1 :
 
 1° Pour les activités caractérisées par l'éloignement entre le domicile et le
 lieu de travail du salarié ou par l'éloignement entre différents lieux de
