@@ -16,12 +16,13 @@ titre individuel, soit au nom d'un organisme, d'un service ou d'une association,
 seraient susceptibles d'apporter une aide morale ou matérielle aux femmes et aux
 couples confrontés aux problèmes de l'accueil de l'enfant.
 
-Sauf en ce qui concerne les établissements hospitaliers publics ces
+Sauf en ce qui concerne les établissements hospitaliers publics, ces
 consultations ne peuvent se dérouler à l'intérieur des établissements dans
 lesquels sont pratiquées des interruptions volontaires de la grossesse [*lieu*].
 
 Les personnels des organismes visés au premier alinéa sont soumis aux
-dispositions de l'article 378 du Code pénal [*secret professionnel*].
+dispositions des articles 226-13 et 226-14 du Code pénal [*secret
+professionnel*].
 
 Chaque fois que cela est possible, le couple participe à la consultation et à la
 décision à prendre.

@@ -11,7 +11,7 @@ ces dispositions.
 Ils constatent, en outre, les infractions aux dispositions des articles L. 431,
 L. 472, deuxième alinéa, et L. 473, alinéa premier, du code de la sécurité
 sociale ainsi que les infractions à la règle de l'égalité professionnelle
-définies au 3° de l'article 416 du code pénal.
+définies au 3° de l'article 225-2 du code pénal.
 
 Dans les cas expressément prévus par la loi ou le règlement, ces attributions
 peuvent être exercées par des fonctionnaires de contrôle assimilés.

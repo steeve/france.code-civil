@@ -8,4 +8,4 @@ signification, sont fixées par arrêté du ministre chargé de la santé.
 
 Toute personne portant, contrairement aux dispositions de l'alinéa précédent, un
 insigne ne correspondant pas à sa qualité sera passible des sanctions prévues au
-premier alinéa de l'article 259 du code pénal.
+premier alinéa de l'article 433-17 du code pénal.

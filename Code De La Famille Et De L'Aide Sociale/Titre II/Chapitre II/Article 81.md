@@ -1,8 +1,5 @@
 Article 81
 ----
-L'article 378 du Code pénal relatif au secret professionnel est applicable à
-toute personne engagée dans le service de l'aide sociale à l'enfance.
-
 Le procureur de la République pourra, à l'occasion d'une procédure d'adoption ou
 de légitimation adoptive, prendre connaissance des dossiers concernant les
 enfants recueillis par le service. En toutes matières, le service de l'aide
@@ -25,4 +22,4 @@ révélé au cours de cette procédure ou mentionné dans la décision à interv
 [*non*] ; toutes mesures devront, en outre, être prises pour qu'il ne puisse
 être porté directement ou indirectement à la connaissance de l'intéressé ou de
 toute autre personne non liée, de par ses fonctions, par le secret professionnel
-visé à l'article 378 du Code pénal.
+visé à l'article 226-13 et 226-14 du Code pénal.

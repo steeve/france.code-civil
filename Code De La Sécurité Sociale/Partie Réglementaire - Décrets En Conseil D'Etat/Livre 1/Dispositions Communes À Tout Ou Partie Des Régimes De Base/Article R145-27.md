@@ -6,4 +6,4 @@ des conseils centraux de la section D et de la section G de l'ordre des
 pharmaciens ainsi que les membres des sections des assurances sociales des
 conseils nationaux de l'ordre des médecins, de l'ordre des chirurgiens-dentistes
 et de l'ordre des pharmaciens sont astreints au secret professionnel dans les
-conditions prévues par l'article 378 du code pénal.
+conditions prévues par les articles 226-13 et 226-14 du code pénal.

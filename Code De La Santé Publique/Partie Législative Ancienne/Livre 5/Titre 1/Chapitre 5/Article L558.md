@@ -6,7 +6,8 @@ l'importance des activités relevant de l'inspection de la pharmacie dans chaque
 région.
 
 La compétence de certains inspecteurs de la pharmacie peut, en tant que de
-besoin, être étendue à certaines régions. Ils sont tenus au secret professionnel
-dans les conditions prévues à l'article 378 du Code pénal. Ils prêtent serment
-devant le tribunal de grande instance de leur résidence [*juridiction
-compétente*].
+besoin, être étendue à plusieurs régions.
+
+Ils sont tenus au secret professionnel dans les conditions prévues aux articles
+226-13 et 226-14 du Code pénal. Ils prêtent serment devant le tribunal de grande
+instance de leur résidence [*juridiction compétente*].

@@ -33,9 +33,10 @@ par le représentant de l'Etat dans le département sur des listes de présentat
 - des personnalités qualifiées désignées par le représentant de l'Etat dans le
 département.
 
-La durée du mandat est de trois ans. Il est renouvelable une fois. Les membres
-du conseil de famille sont tenus au secret professionnel selon les prescriptions
-de l'article 378 du code pénal.
+La durée du mandat est de trois ans. Il est renouvelable une fois.
+
+Les membres du conseil de famille sont tenus au secret professionnel selon les
+prescriptions des articles 226-13 et 223-14 du code pénal.
 
 Un décret en Conseil d'Etat précise la composition et fixe les règles de
 fonctionnement du ou des conseils de famille, institués dans le département.

@@ -22,4 +22,4 @@ concernent l'hygiène, la sécurité et les conditions de travail. Ils sont tenu
 de ne pas révéler les secrets de fabrication et, en général, les procédés
 d'exploitation dont ils pourraient prendre connaissance dans l'exercice de leurs
 fonctions. Toute violation de ces obligations est punie conformément à l'article
-378 du code pénal.
+226-13 du code pénal.

@@ -1,12 +1,25 @@
 Article L209-19
 ----
-Est puni d'une peine d'emprisonnement de six mois à trois ans [*durée*] et d'une
-amende de 12 000 F à 200 000 F [*montant*] ou de l'une de ces deux peines
-seulement quiconque aura pratiqué ou fait pratiquer sur l'être humain une
-recherche biomédicale sans avoir recueilli le consentement prévu par les
-articles L. 209-9 et L. 209-10 du présent code, ou alors qu'il aura été retiré.
+Ainsi qu'il est dit à l'article 223-8 du code pénal, le fait de pratiquer ou de
+faire pratiquer sur une personne une recherche biomédicale sans avoir recueilli
+le consentement libre, éclairé et exprès de l'intéressé, des titulaires de
+l'autorité parentale ou du tuteur dans les cas prévus par les dispositions du
+présent code est puni de trois ans d'emprisonnement [*durée*] et de 300 000 F
+d'amende [*montant - (1)*].
 
-Est punie des peines prévues à l'alinéa précédent toute personne qui aura
-pratiqué ou fait pratiquer une recherche biomédicale en infraction aux
-dispositions des articles L. 209-4 à L. 209-6 et du dernier alinéa de l'article
-L. 209-9.
+Les mêmes peines sont applicables lorsque le consentement a été retiré avant
+qu'il ne soit procédé à la recherche biomédicale.
+
+Ainsi qu'il est dit à l'article 223-9 du code pénal, les personnes morales
+peuvent être déclarées responsables pénalement, dans les conditions prévues par
+l'article 121-2 du code pénal, de cette infraction.
+
+Les peines encourues par les personnes morales sont :
+
+1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
+
+2° Les peines mentionnées à l'article 131-39 du code pénal.
+
+L'interdiction mentionnée au 2° de l'article 131-39 du code pénal porte sur
+l'activité dans l'exercice de laquelle ou à l'occasion de laquelle l'infraction
+a été commise.

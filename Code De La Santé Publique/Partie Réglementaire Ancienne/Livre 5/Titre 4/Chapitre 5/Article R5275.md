@@ -53,7 +53,7 @@ Le président et le vice-président de la commission sont désignés par le mini
 chargé de la santé ; ils peuvent être choisis en dehors des membres de la
 commission.
 
-Les personnalités mentionnées au 3° sont nommés pour une durée de trois ans. La
+Les personnalités mentionnées au 3° sont nommées pour une durée de trois ans. La
 durée totale des mandats successifs qu'elles peuvent exercer, en qualité de
 titulaire, ne peut excéder six ans.
 
@@ -68,8 +68,8 @@ appareils préparent le travail de la commission. Ces experts sont désignés pa
 arrêté du ministre chargé de la santé sur proposition de la commission.
 
 Sans préjudice du secret professionnel auquel sont astreints, dans les
-conditions prévues à l'article 378 du code pénal, les membres de la commission
-et des groupes d'experts ainsi que les personnels qui assistent aux
+conditions prévues aux articles 226-13, 226-14 du code pénal, les membres de la
+commission et des groupes d'experts ainsi que les personnels qui assistent aux
 délibérations, ces délibérations sont secrètes.
 
 La commission se prononce à la majorité simple. En cas de partage égal des voix,

@@ -28,7 +28,7 @@ Ils ne peuvent, en dehors du cadre des attributions de la commission, faire éta
 des informations qu'ils ont pu recueillir sur les personnes dont la situation
 leur a été présentée. Sous réserve des dispositions des 4° et 6° de l'article L.
 332-4, ils sont soumis au secret professionnel dans les conditions prévues par
-l'article 378 du code pénal.
+les articles 226-13 et 226-14 du code pénal.
 
 La commission désigne, en son sein, son président, dans des conditions fixées
 par voie réglementaire.

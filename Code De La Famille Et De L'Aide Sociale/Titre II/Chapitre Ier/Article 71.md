@@ -13,16 +13,16 @@ concernant les situations de mineurs maltraités ou présumés l'être. Il trans
 immédiatement au président du conseil général, selon le dispositif mis en place
 en application de l'article 68, les informations qu'il recueille et les
 appréciations qu'il formule à propos de ces mineurs. A cette fin, le président
-du conseil général [*autorité compétente*] informe le groupement des modalités
-de fonctionnement permanent du dispositif départemental. Ce service établit une
-étude épidémiologique annuelle au vu des informations qu'il a recueillies et de
-celles qui lui ont été transmises dans les conditions prévues au quatrième
-alinéa du présent article.
+du conseil général informe le groupement des modalités de fonctionnement
+permanent du dispositif départemental. Ce service établit une étude
+épidémiologique annuelle au vu des informations qu'il a recueillies et de celles
+qui lui ont été transmises dans les conditions prévues au quatrième alinéa du
+présent article.
 
 Le secret professionnel est applicable aux agents du service d'accueil
-téléphonique dans les conditions prévues à l'article 378 du code pénal. Le
-troisième alinéa de l'article 68 ci-dessus est également applicable aux
-informations recueillies par le service d'accueil téléphonique.
+téléphonique dans les conditions prévues aux articles 226-13 et 226-14 du code
+pénal. Le troisième alinéa de l'article 68 ci-dessus est également applicable
+aux informations recueillies par le service d'accueil téléphonique.
 
 La convention constitutive du groupement précise les conditions dans lesquelles
 le dispositif mentionné à l'article 68 transmet au service d'accueil

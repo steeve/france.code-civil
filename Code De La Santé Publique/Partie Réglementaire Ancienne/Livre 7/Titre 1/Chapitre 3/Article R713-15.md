@@ -9,4 +9,4 @@ Ce registre est tenu à la disposition des membres de la conférence qui peuvent
 le consulter sur place et obtenir des copies ou des extraits des procès-verbaux
 ; ces copies ou extraits ne peuvent être utilisés que sous réserve du respect de
 l'obligation de discrétion professionnelle et, le cas échéant, des prescriptions
-de l'article 378 du code pénal.
+des articles 226-13 et 226-14 du code pénal.

@@ -4,8 +4,8 @@ Sous réserve des dispositions de l'article L. 663 ci-après, nul, s'il ne répo
 aux conditions fixées à l'article L. 582 du présent titre [*brevet
 professionnel*], ne peut se qualifier préparateur en pharmacie ni, notamment sur
 le plan professionnel, user des droits et prérogatives attachés à cette qualité,
-sous peine de sanctions prévues à l'article 259 du code pénal. En cas de
-récidive, la peine sera doublée.
+sous peine de sanctions encourues pour le délit d'usurpation de titre prévu par
+l'article 433-17 du code pénal. En cas de récidive, la peine sera doublée.
 
 Les dispositions du présent article ne sont applicables [*non*] ni aux étudiants
 en pharmacie, qui peuvent être employés dans une pharmacie aux conditions

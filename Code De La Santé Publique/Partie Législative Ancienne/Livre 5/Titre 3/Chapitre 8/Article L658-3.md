@@ -17,14 +17,13 @@ traitement des intoxications visés à l'alinéa précédent la formule intégra
 produit ne s'applique pas [*non*] aux parfums proprement dits et aux
 compositions parfumantes, pour lesquels doivent toutefois être indiqués et
 transmis la liste et le dosage des supports et des produits [*substances
-vénéneuses, colorants, conservateurs, bactéricides et fongicides*]
-
-prévus aux articles L. 658-5 et L. 658-6 du présent code entrant éventuellement
-dans leur composition.
+vénéneuses, colorants, conservateurs, bactéricides et fongicides*] prévus aux
+articles L. 658-5 et L. 658-6 du présent code entrant éventuellement dans leur
+composition.
 
 Les personnes ayant accès aux dossiers ou aux formules visées au présent article
-sont tenues au secret professionnel selon les modalités prévues à l'article 378
-du code pénal, sauf à l'égard des autorités judiciaires.
+sont tenues au secret professionnel selon les modalités prévues aux articles
+226-13 et 226-14 du code pénal, sauf à l'égard des autorités judiciaires.
 
 Un décret fixe les conditions permettant la protection, notamment dans les
 centres de traitement des intoxications, du secret de la formule intégrale du

@@ -5,5 +5,5 @@ prêtent, devant le tribunal d'instance , serment de ne rien révéler des secre
 de fabrication et en général des procédés et résultats d'exploitation dont ils
 pourraient prendre connaissance dans l'exercice de leur mission. Cette
 prestation de serment est renouvelée à l'occasion de tout renouvellement
-d'agrément. Toute violation de serment est punie des peines prévues à l'article
-378 du code pénal.
+d'agrément. Toute violation de serment est punie des peines fixées par l'article
+226-13 du code pénal.

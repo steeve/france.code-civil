@@ -10,5 +10,5 @@ Ce registre est tenu en permanence à la disposition des autorités judiciaires 
 administratives compétentes.
 
 Toute personne appelée par ses fonctions à prendre connaissance de ce registre
-est tenue au secret professionnel [*obligatoire*] dans les conditions et sous
-les peines prévues à l'article 378 du code pénal.
+est tenue au secret professionnel dans les conditions et sous les peines fixées
+par l'article 226-13 du code pénal.

@@ -17,13 +17,13 @@ la commune ;
 devoir leur confier la charge ;
 
 4. Exercer devant toutes les juridictions, sans avoir à justifier d'un agrément
-ou d'une autorisation préalable de l'autorité publique, notamment des agréments
-prévus à l'article 289, alinéa 3, du code pénal et à l'article premier de la loi
-n° 88-14 du 5 janvier 1988 relative aux actions en justice des associations
-agréées de consommateurs et à l'information des consommateurs, l'action civile
-relativement aux faits de nature à nuire aux intérêts moraux et matériels des
-familles.
+ou d'une autorisation préalable de l'autorité publique, notamment de l'agrément
+prévu et à l'article premier de la loi n° 88-14 du 5 janvier 1988 relative aux
+actions en justice des associations agréées de consommateurs et à l'information
+des consommateurs, l'action civile relativement aux faits de nature à nuire aux
+intérêts moraux et matériels des familles, y compris pour les infractions
+prévues par l'article 227-24 du code pénal.
 
 Chaque association familiale ou fédération d'associations familiales, dans la
-limite de ces statuts, conserve le droit de représenter auprès des pouvoirs
+limite de ses statuts, conserve le droit de représenter auprès des pouvoirs
 publics les intérêts dont elle a assumé la charge.
