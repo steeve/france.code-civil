@@ -32,5 +32,10 @@ une activité professionnelle, soit, s'il est âgé de moins de dix-huit ans
 [*mineur*], d'acquérir une instruction ou une formation professionnelle d'un
 niveau normal;
 
+5° bis Les contrats d'assurance en cas de vie qui garantissent le versement d'un
+capital ou d'une rente viagère à l'assuré atteint d'une infirmité qui l'empêche
+de se livrer dans des conditions normales de rentabilité à une activité
+professionelle ;
+
 6° Les contrats d'assurances sur les risques de gel de récoltes et de tempêtes
 sur récoltes ou sur bois sur pied.
