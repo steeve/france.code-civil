@@ -1,25 +1,16 @@
 Article R*322-53
 ----
 L'administration de la société est confiée à un conseil d'administration nommé
-par l'assemblée générale et composé de cinq membres au moins.
+par l'assemblée générale et composé de cinq membres au moins, non compris les
+administrateurs élus par les salariés conformément aux dispositions de l'article
+L. 322-26-2 et dont le nombre doit figurer dans les statuts.
 
-Ceux-ci sont choisis parmi les sociétaires remplissant les conditions requises
-par les statuts pour être administrateur en ce qui concerne soit la somme de
-valeurs assurées, soit le montant minimal de cotisations versées.
+Les administrateurs sont choisis parmi les sociétaires à jour de leurs
+cotisations, à l'exception de ceux qui sont élus par les salariés. Ils doivent
+être remplacés lorsqu'ils ne remplissent plus cette condition.
 
-Pour les sociétés pratiquant une ou plusieurs des branches mentionnées aux 19 à
-23 de l'article R. 321-1, les membres du conseil d'administration doivent être
-choisis parmi les sociétaires ayant souscrit des contrats pour le montant
-minimal de valeur déterminé par les statuts.
-
-Les administrateurs doivent être remplacés dès qu'ils ne remplissent plus ces
-conditions.
-
-Ils ne peuvent être nommés pour plus de six ans, ils sont rééligibles, sauf
-stipulation contraire des statuts. Toutefois, ils peuvent être désignés par les
-statuts avec stipulation formelle que leur nomination ne sera pas soumise à
-l'assemblée générale ; en ce cas, ils ne peuvent être nommés pour plus de trois
-ans.
+Ils ne peuvent être nommés pour plus de six ans ; ils sont rééligibles, sauf
+stipulation contraire des statuts.
 
 Ils sont révocables pour faute grave par l'assemblée générale.
 
