@@ -1,10 +1,11 @@
 Article R*422-8-1
 ----
 L'activité des sociétés anonymes coopératives de production d'habitations à
-loyer modéré s'exerce sur le territoire de la région où est situé leur siège
-social. Elles ont également compétence pour intervenir sur le territoire des
-départements limitrophes à la région de leur siège, après accord de la commune
-d'implantation de l'opération.
+loyer modéré et des sociétés anonymes coopératives d'intérêt collectif
+d'habitations à loyer modéré s'exerce sur le territoire de la région où est
+situé leur siège social. Elles ont également compétence pour intervenir sur le
+territoire des départements limitrophes à la région de leur siège, après accord
+de la commune d'implantation de l'opération.
 
 Le ministre chargé de la construction et du logement peut, après avis du conseil
 supérieur des habitations à loyer modéré, agréer spécialement les sociétés dont

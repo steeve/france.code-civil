@@ -1,7 +1,8 @@
 Article R423-75-1
 ----
 Les sociétés anonymes d'habitations à loyer modéré, les sociétés anonymes de
-crédit immobilier et les sociétés anonymes coopératives de production
+crédit immobilier, les sociétés anonymes coopératives d'intérêt collectif
+d'habitations à loyer modéré et les sociétés anonymes coopératives de production
 d'habitations à loyer modéré peuvent souscrire ou acquérir des actions ou des
 parts d'autres sociétés d'habitations à loyer modéré, de sociétés anonymes de
 coordination d'organismes d'habitations à loyer modéré, ou de sociétés
