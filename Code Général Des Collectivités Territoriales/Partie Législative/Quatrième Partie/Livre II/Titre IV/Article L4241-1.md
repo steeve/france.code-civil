@@ -1,6 +1,6 @@
 Article L4241-1
 ----
-- Préalablement à leur examen par le conseil régional, le conseil économique et
+Préalablement à leur examen par le conseil régional, le conseil économique et
 social régional est obligatoirement saisi pour avis des documents relatifs :
 
 1° A la préparation et à l'exécution dans la région du plan de la nation ;
@@ -15,7 +15,10 @@ leurs orientations générales ;
 4° Aux orientations générales dans les domaines sur lesquels le conseil régional
 est appelé à délibérer en application des lois reconnaissant une compétence aux
 régions, ainsi qu'aux schémas et aux programmes prévus par ces lois et au bilan
-des actions menées dans ces domaines.
+des actions menées dans ces domaines ;
+
+5° Le projet de budget annexé à la motion mentionnée à l'article L. 4311-1-1,
+pour se prononcer sur ses orientations générales.
 
 A l'initiative du président du conseil régional, il peut être saisi de demandes
 d'avis et d'études sur tout projet à caractère économique, social ou culturel.

@@ -1,6 +1,6 @@
 Article L4311-1
 ----
-- Dans un délai de deux mois précédant l'examen du budget, un débat a lieu au
+Dans un délai de dix semaines précédant l'examen du budget, un débat a lieu au
 conseil régional sur les orientations budgétaires.
 
 Le projet de budget de la région est préparé et présenté par le président du
