@@ -23,6 +23,4 @@ convention ;
 et de ses annexes annuelles ;
 
 5° Sans préjudice des compétences du pouvoir réglementaire, les modalités de
-détermination des sommes dues aux entreprises ainsi que les mécanismes par
-lesquels est assuré le respect de l'objectif prévu au 1° de l'article L.
-322-5-3.
+détermination des sommes dues aux entreprises.
