@@ -9,19 +9,13 @@ En recettes :
 2° Les subventions d'équipement ;
 
 3° Le produit des emprunts que les établissements et services sont autorisés à
-contracter par arrêté du commissaire de la République. Toutefois, lorsque
-l'annuité de remboursement de l'emprunt pour lequel l'autorisation est demandée
-par un établissement ou un service, cumulé avec celle des emprunts
-antérieurement contractés par lui, est supérieure à 20 p. 100 du montant global
-de la participation annuelle des chambres d'agriculture, destinée à assurer le
-fonctionnement de l'établissement ou du service pour l'exercice en cours,
-l'autorisation est donnée par arrêté du ministre de l'agriculture. L'arrêté du
-commissaire de la République ou du ministre de l'agriculture doit intervenir
-dans les deux mois à compter de la date de réception de l'accord de l'organisme
-prêteur. A défaut de publication d'un arrêté dans ce délai, de demande de
-modification ou de production de documents supplémentaires par le commissaire de
-la République ou le ministre de l'agriculture, la délibération de la chambre est
-exécutoire.
+contracter par arrêté du préfet de la région du siège desdits établissements ou
+services. Cet arrêté doit intervenir dans les deux mois à compter de la date de
+réception, par le préfet, de l'accord pour l'octroi d'un prêt à l'établissement
+ou au service formulé par l'organisme prêteur. A défaut de publication d'un
+arrêté dans ce délai, d'une demande de modification du projet ou de production
+de documents supplémentaires par le préfet, la délibération du comité de
+direction interchambres d'agriculture est exécutoire.
 
 En dépenses :
 

@@ -9,18 +9,13 @@ En recettes :
 2° Les subventions d'équipement ;
 
 3° Le produit des emprunts que les chambres régionales d'agriculture sont
-autorisées à contracter par arrêté du ministre de l'agriculture. Lorsque les
-annuités de l'emprunt pour lequel l'autorisation est demandée, cumulées avec
-celles des emprunts antérieurement contractés, sont inférieures à 20 p. 100 du
-montant des cotisations des chambres départementales du ressort de la chambre
-régionale destinées à assurer le fonctionnement de celle-ci pour l'exercice en
-cours, l'autorisation est donnée par le commissaire de la République. L'arrêté
-du commissaire de la République de région ou du ministre de l'agriculture doit
-intervenir dans les deux mois à compter de la date de réception de l'accord de
-l'organisme prêteur. A défaut de publication d'un arrêté dans ce délai ou de
-demande de modification ou de production de documents supplémentaires par le
-commissaire de la République ou le ministre de l'agriculture, la délibération
-est exécutoire.
+autorisées à contracter par arrêté du préfet de la région où elles ont leur
+siège. Cet arrêté doit intervenir dans les deux mois à compter de la date de
+réception, par le préfet, de l'accord pour l'octroi d'un prêt à la chambre
+d'agriculture formulé par l'organisme prêteur. A défaut de publication d'un
+arrêté dans ce délai, d'une demande de modification du projet ou de production
+de documents supplémentaires par le préfet, la délibération de la chambre est
+exécutoire.
 
 En dépenses :
 
