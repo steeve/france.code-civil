@@ -5,8 +5,9 @@ sanitaire de secteur instituée par l'article L. 713-1 est déterminé comme sui
 
 1° Représentants des établissements publics de santé :
 
-a) Lorsque l'établissement compte au plus deux cents lits et places : les deux
-membres de droit mentionnés au troisième alinéa de l'article L. 713-3 ;
+a) Lorsque l'établissement compte au plus deux cents lits et places : le
+directeur de l'établissement et le président de la commission médicale
+d'établissement, membres de droit.
 
 b) Lorsque l'établissement compte plus de deux cents lits et places : en sus des
 deux représentants prévus au a ci-dessus, un représentant supplémentaire,
