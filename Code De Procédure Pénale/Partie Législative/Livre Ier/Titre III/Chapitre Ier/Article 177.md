@@ -1,0 +1,17 @@
+Article 177
+----
+Si le juge d'instruction estime que les faits ne constituent ni crime, ni délit,
+ni contravention, ou si l'auteur est resté inconnu, ou s'il n'existe pas de
+charges suffisantes contre la personne mise en examen, il déclare, par une
+ordonnance, qu'il n'y a lieu à suivre.
+
+Les personnes mises en examen sont déclarées hors de cause et, si elles sont
+détenues provisoirement, mises en liberté. L'ordonnance met fin au contrôle
+judiciaire.
+
+Le juge d'instruction statue par la même ordonnance sur la restitution des
+objets placés sous main de justice. Il peut refuser la restitution lorsque
+celle-ci présente un danger pour les personnes ou les biens. La décision
+relative à la restitution peut être déférée, par tout personne qui y a intérêt,
+à la chambre d'accusation dans les conditions et selon les modalités prévues par
+l'article 99.

@@ -17,16 +17,6 @@ dénonciateur ou le faux témoin par la faute desquels la condamnation a été
 prononcée. Elle est payée comme frais de justice criminelle, correctionnelle et
 de police.
 
-Les frais de l'instance en révision sont avancés par le Trésor à partir de la
-saisine de la commission prévue par l'article 623.
-
-Si l'arrêt ou le jugement définitif de révision prononce une condamnation, il
-met à la charge du condamné ou, s'il y a lieu, des demandeurs en révision, les
-frais dont l'Etat peut demander le remboursement.
-
-Le demandeur en révision qui succombe dans son instance est condamné à tous les
-frais.
-
 Si le demandeur le requiert, l'arrêt ou le jugement de révision d'où résulte
 l'innocence du condamné est affiché dans la ville où a été prononcée la
 condamnation, dans la commune du lieu où le crime ou le délit a été commis, dans

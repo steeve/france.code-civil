@@ -1,11 +1,10 @@
 Article 746
 ----
-La suspension de la peine ne s'étend pas au paiement des frais du procès et des
-dommages-intérêts.
+La suspension de la peine ne s'étend pas au paiement des dommages-intérêts.
 
-Elle ne s'étend pas non plus aux peines accessoires et aux incapacités résultant
-de la condamnation.
+Elle ne s'étend pas non plus aux incapacités, interdictions et déchéances
+résultant de la condamnation.
 
-Toutefois, les peines accessoires et les incapacités cesseront d'avoir effet du
-jour où, par application des dispositions des articles 743 et 745, la
-condamnation aura été déclarée ou réputée non avenue.
+Toutefois, ces incapacités, interdictions et déchéances cesseront d'avoir effet
+du jour où, par application des dispositions de l'article 743 ou de l'article
+132-52 du code pénal, la condamnation aura été déclarée ou réputée non avenue.

@@ -20,7 +20,7 @@ la juridiction de renvoi, en ce qui concerne les déclarations faites par des
 personnes qui ne peuvent plus être entendues.
 
 Les scellés sont ouverts par le premier président ou par un magistrat délégué
-par lui, en présence du condamné assisté de son conseil, ou eux dûment appelés,
+par lui, en présence du condamné assisté de son avocat, ou eux dûment appelés,
 ou en présence de l'une des personnes visées à l'article 623 (3°), ou elles
 dûment appelées.
 
