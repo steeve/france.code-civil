@@ -28,8 +28,10 @@ les ressources et les charges du débiteur. La même disposition est applicable 
 cas de vente amiable dont le principe, destiné à éviter une saisie immobilière,
 et les modalités ont été arrêtés d'un commun accord entre le débiteur et
 l'établissement de crédit. En toute hypothèse, le bénéfice des présentes
-dispositions ne peut être invoqué plus d'un an après la vente, à moins que dans
-ce délai la commission prévue à l'article L. 331-1 n'ait été saisie.
+dispositions ne peut être invoqué plus de deux mois après sommation faite
+d'avoir à payer le montant de la fraction des prêts immobiliers restant due, à
+moins que, dans ce délai, la commission n'ait été saisie. A peine de nullité, la
+sommation de payer reproduit les termes du présent alinéa.
 
 La commission peut recommander que ces mesures soient subordonnées à
 l'accomplissement par le débiteur d'actes propres à faciliter ou à garantir le
