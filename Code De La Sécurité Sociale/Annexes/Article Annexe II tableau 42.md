@@ -1,77 +1,96 @@
 Article Annexe II tableau 42
 ----
-Date de création : 20 avril 1963.
-
-Dernière mise à jour : 14 mai 1981.
-
 DESIGNATION DES MALADIES :
 
-Déficit audiométrique, bilatéral par lésion cochléaire, irréversible et ne
-s'aggravant plus après la cessation de l'exposition au risque
+Déficit audiométrique bilatéral par lésion cochléaire irréversible. Ce déficit
+est évalué par une audiométrie effectuée de trois semaines à un an après
+cessation de l'exposition aux bruits lésionnels, en cabine insonorisée avec un
+audiomètre calibré.
 
-Ce déficit sera confirmé par une nouvelle audiométrie effectuée de trois
-semaines à un an après cessation de l'exposition aux bruits lésionnels. Cette
-audiométrie doit être tonale ou vocale et faire apparaître au minimum sur la
-meilleure oreille un déficit moyen de 35 décibels calculé en divisant par 10 la
-somme des déficits mesurés sur les fréquences 500, 1.000, 2.000 et 4.000 hertz,
-pondérés respectivement par les coefficients 2, 4, 3 et 1
+Cette audiométrie doit être tonale et vocale et faire apparaître au minimum sur
+la meilleure oreille un déficit moyen de 35 décibels, calculé en divisant par 10
+la somme des déficits mesurés sur les fréquences 500, 1 000, 2 000 et 4 000
+hertz, pondérés respectivement par les coefficients 2, 4, 3 et 1.
+
+Aucune évolution de ce déficit ne peut être prise en compte après l'expiration
+du délai de prise en charge, sauf en cas de nouvelle exposition au risque.
 
 DELAI DE PRISE EN CHARGE :
 
-un an après la cessation de l'exposition au risque acoustique, sous-réserve
-d'une durée d'exposition d'un an, réduite à trente jours en ce qui concerne la
-mise au point des propulseurs, réacteurs et moteurs à piston.
+1 an après cessation de l'exposition au risque acoustique (sous réserve d'une
+durée d'exposition d'un an, réduite à trente jours en ce qui concerne la mise au
+point des propulseurs, réacteurs et moteurs thermiques).
 
 LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
 
-Travaux exposant aux bruits provoqués par :
+Travaux exposant aux bruits lésionnels provoqués par :
 
-Les travaux sur métaux par percussion, abrasion ou projection, tels que :
+- les travaux sur métaux par percussion, abrasion ou projection tels que :
 
-Le décolletage, l'emboutissage, l'estampage, le broyage, le fraisage, le
+- le décolletage, l'emboutissage, l'estampage, le broyage, le fraisage, le
 martelage, le burinage, le rivetage, le laminage, l'étirage, le tréfilage, le
 découpage, le sciage, le cisaillage, le tronçonnage ;
 
-L'ébarbage, le meulage, le polissage, le gougeage par procédé arc-air, la
-métallisation.
+- l'ébarbage, le meulage, le polissage, le gougeage par procédé arc-air, la
+métallisation ;
 
-L'utilisation de marteaux et perforateurs pneumatiques.
+- le câblage, le toronnage et le bobinage de fils d'acier ;
 
-La manutention mécanisée de récipients métalliques.
+- l'utilisation de marteaux et perforateurs pneumatiques ;
 
-Les travaux de verrerie à proximité des fours, machines de fabrication, broyeurs
-et concasseurs ; l'embouteillage.
+- la manutention mécanisée de récipients métalliques ;
 
-Le tissage sur métiers à navette battante.
+- les travaux de verrerie à proximité des fours, machines de fabrication,
+broyeurs et concasseurs ; l'embouteillage ;
 
-La mise au point, les essais et l'utilisation de propulseurs, réacteurs, moteurs
-thermiques ou électriques, groupes électrogènes, groupes hydrauliques,
-installations de compression ou de détente fonctionnant à des pressions
-manométriques différentes de la pression atmosphérique.
+- le tissage sur métiers ou machines à tisser ;
 
-L'emploi et la destruction de munitions ou explosifs militaires.
+- la mise au point, les essais et l'utilisation des propulseurs, réacteurs,
+moteurs thermiques, groupes électrogènes, groupes hydrauliques, installations de
+compression ou de détente fonctionnant à des pressions différentes de la
+pression atmosphérique, ainsi que des moteurs électriques de puissance comprise
+entre 11 kW et 55 kW s'ils fonctionnent à plus de 2 360 tours par minute, de
+ceux dont la puissance est comprise entre 55 kW et 220 kW s'ils fonctionnent à
+plus de 1 320 tours par minute et de ceux dont la puissance dépasse 220 kW ;
 
-L'emploi d'explosifs en galerie souterraine.
+- l'emploi ou la destruction de munitions ou d'explosifs ;
 
-L'utilisation de pistolets de scellement.
+- l'utilisation de pistolets de scellement ;
 
-Le broyage, le concassage, le criblage, le sciage et l'usinage de pierres et de
-produits minéraux.
+- le broyage, le concassage, le criblage, le sciage et l'usinage de pierres et
+de produits minéraux ;
 
-Les installations de séchage de matières organiques par ventilation.
+- les procédés industriels de séchage de matières organiques par ventilation ;
 
-L'abattage et le tronçonnage des arbres.
+- l'abattage, le tronçonnage et l'ébranchage mécaniques des arbres ;
 
-L'emploi de machines à bois en atelier.
+- l'emploi des machines à bois en atelier : scies circulaires de tous types,
+scies à ruban, dégauchisseuses, raboteuses, toupies, machines à fraiser,
+tenonneuses, mortaiseuses, moulurières, plaqueuses de chants intégrant des
+fonctions d'usinage, défonceuses, ponceuses, clouteuses ;
 
-L'utilisation de bouteurs, décapeurs, chargeuses, moutons, pelles mécaniques.
+- l'utilisation d'engins de chantier : bouteurs, décapeurs, chargeuses, moutons,
+pelles mécaniques, chariots de manutention tous terrains ;
 
-Le broyage, l'injection et l'usinage des matières plastiques et du caoutchouc.
+- le broyage, l'injection et l'usinage des matières plastiques et du caoutchouc
+;
 
-Le travail sur les rotatives dans l'industrie graphique.
+- le travail sur les rotatives dans l'industrie graphique ;
 
-La fabrication et le conditionnement mécanisé du papier et du carton.
+- la fabrication et le conditionnement mécanisé du papier et du carton ;
 
-L'emploi de matériel vibrant pour l'élaboration de produits en béton.
+- l'emploi de matériel vibrant pour l'élaboration de produits en béton ;
 
-Les essais et la réparation d'appareils sonores.
+- les essais et la réparation en milieu industriel des appareils de sonorisation
+;
+
+- les travaux de moulage sur machines à secousses et de décochage sur grilles
+vibrantes ;
+
+- la fusion en four industriel par arcs électriques ;
+
+- les travaux sur ou à proximité des aéronefs dont les moteurs sont en
+fonctionnement dans l'enceinte d'aérodromes et d'aéroports ;
+
+- l'exposition à la composante audible dans les travaux de soudage par ultrasons
+des matières plastiques.
