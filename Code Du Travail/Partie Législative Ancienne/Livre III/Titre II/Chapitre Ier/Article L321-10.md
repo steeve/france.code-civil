@@ -1,9 +1,7 @@
 Article L321-10
 ----
-En cas de règlement judiciaire ou de liquidation des biens d'une entreprise de
-plus de dix salariés, l'employeur, ou le syndic, doit réunir le comité
-d'entreprise ou, à défaut, les délégués du personnel et l'informer du calendrier
-prévisionnel des licenciements collectifs éventuels.
-
-L'employeur, ou le syndic, ne peut adresser de lettres de licenciement avant
-d'avoir procédé à cette information.
+En cas de redressement judiciaire, l'administrateur ou, à défaut, l'employeur ou
+le liquidateur, suivant les cas, qui envisage des licenciements économiques doit
+réunir et consulter le comité d'entreprise ou, à défaut, les délégués du
+personnel dans les conditions prévues aux articles L. 321-3, L. 321-4, L. 422-1,
+cinquième et sixième alinéas, et L. 432-1, troisième alinéas.

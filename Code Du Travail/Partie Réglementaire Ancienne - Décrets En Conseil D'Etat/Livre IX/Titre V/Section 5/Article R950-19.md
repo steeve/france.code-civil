@@ -7,4 +7,5 @@ République de la région lorsque ces agents n'interviennent que dans les limite
 d'une région. Ils sont habilités à exercer le contrôle des dépenses effectuées
 tant par l'entreprise elle-même que par des organismes formateurs pour
 l'exécution des conventions conclues conformément aux dispositions des articles
-L. 920-1 à L. 920-11 et L. 940-1.
+L. 920-1 à L. 920-11 et L. 940-1 et à effectuer les opérations prévues à
+l'article L. 950-8.

@@ -29,6 +29,15 @@ comité d'entreprise lorsqu'il prend une participation dans une société et de
 l'informer lorsqu'il a connaissance d'une prise de participation dont son
 entreprise est l'objet.
 
+Il est également informé et consulté avant toute déclaration de cessation des
+paiements et lorsque l'entreprise fait l'objet d'une procédure de redressement
+judiciaire, avant toute décision relative à la poursuite de l'activité ainsi que
+lors de l'élaboration du projet de plan de redressement de l'entreprise dans les
+conditions prévues aux articles 20, 25 et 89 de la loi n° 85-98 du 25 janvier
+1985 précitée. La ou les personnes qu'il a désignées selon les dispositions de
+l'article 226 de ladite loi sont entendues par le tribunal compétent dans les
+conditions fixées aux articles 6, 23, 36, 61 et 68 de ladite loi.
+
 Il est habilité à donner un avis sur les augmentations de prix. Il peut être
 consulté par les autorités chargées de la fixation et du contrôle des prix.
 
