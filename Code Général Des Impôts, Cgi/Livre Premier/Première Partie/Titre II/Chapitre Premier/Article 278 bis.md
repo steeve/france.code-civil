@@ -18,8 +18,9 @@ utilisés pour la fabrication des huiles fluides alimentaires ;
 fabrication de ces vinaigres ;
 
 5° Chocolat, chocolat de ménage, chocolat de ménage au lait (2), fèves de cacao
-et beurre de cacao ; 6° Cafés, thés, chicorées, succédanés et mélanges de ces
-produits ;
+et beurre de cacao ;
+
+6° Cafés, thés, chicorées, succédanés et mélanges de ces produits ;
 
 7° Pâtisserie fraîche dont la définition est fixée par arrêté ministériel (3) ;
 
@@ -34,7 +35,10 @@ desserts à préparer même s'ils contiennent du chocolat ou du cacao ;
 11° Produits alimentaires non soumis expressément à un autre taux ;
 
 12° Produits d'origine agricole, de la pêche, de la pisciculture et de
-l'aviculture n'ayant subi aucune transformation.
+l'aviculture n'ayant subi aucune transformation à l'exception des produits de
+l'horticulture et de la sylviculture qui ne constituent ni des semences ni des
+plants d'essences ligneuses forestières pouvant être utilisées pour le
+reboisement et les plantations d'alignement (4).
 
 (1) Pour les boissons non alcooliques, taux applicable à compter du 8 juillet
 1988.
@@ -43,3 +47,5 @@ l'aviculture n'ayant subi aucune transformation.
 titre Ier de l'annexe au décret n° 76-692 du 13 juillet 1976 (JO du 25).
 
 (3) Annexe IV, art. 30-0 A.
+
+(4) Cette disposition s'applique à compter du 1er août 1991.
