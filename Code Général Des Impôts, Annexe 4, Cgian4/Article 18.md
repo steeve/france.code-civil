@@ -1,51 +1,48 @@
 Article 18
 ----
-Pour l'année 1991, les limites de chaque tranche du tarif de la retenue à la
+Pour l'année 1992, les limites de chaque tranche du tarif de la retenue à la
 source applicable aux traitements, salaires, pensions et rentes viagères servis
 à des personnes qui ne sont pas fiscalement domiciliées en France sont fixées
 comme suit :
 
-TAUX APPLICABLE : 0 p. 100
+Taux applicable : 0 p.100
 
+LIMITES DES TRANCHES SELON LA PÉRIODE À LAQUELLE SE RAPPORTENT LES PAIEMENTS :
 
-LIMITES DES TRANCHES SELON LA PÉRIODE À LAQUELLE SE RAPPORTENT LES PAIEMENTS
+Moins de : 55.500 F / Année
 
-Année (en francs) : Moins de 53 870
+13.875 F / Trimestre
 
-Trimestre (en francs) : Moins de 13 468
+4.625 F / Mois
 
-Mois (en francs) : Moins de 4 490
+1.068 F / Semaine
 
-Semaine (en francs) : Moins de 1 036
+178 F / Jour ou fraction de jour
 
-Jour ou fraction de jour (en francs) : Moins de 173
+Taux applicable : 15 p. 100
 
-TAUX APPLICABLE : 15 p. 100
+LIMITES DES TRANCHES SELON LA PÉRIODE À LAQUELLE SE RAPPORTENT LES PAIEMENTS :
 
+De : 55.500 F à 161.070 F / Année
 
-LIMITES DES TRANCHES SELON LA PÉRIODE À LAQUELLE SE RAPPORTENT LES PAIEMENTS
+De : 13.875 F à 401268 F / Trimestre
 
-Année (en francs) : De 53 870 à 156 370
+De : 4.625 F à 131423 F / Mois
 
-Trimestre (en francs) : De 13 468 à 39 093
+De : 1.068 F à 3.098 F / Semaine
 
-Mois (en francs) : De 4 490 à 13 031
+De : 178 F à 517 F / Jour ou fraction de jour
 
-Semaine (en francs) : De 1 036 à 3 008
+Taux applicable : 25 p. 100
 
-Jour ou fraction de jour (en francs) : De 173 à 502
+LIMITES DES TRANCHES SELON LA PÉRIODE À LAQUELLE SE RAPPORTENT LES PAIEMENTS :
 
-TAUX APPLICABLE : 25 p. 100
+Au-delà de : 161.070 F / Année
 
+40.268 F / Trimestre
 
-LIMITES DES TRANCHES SELON LA PÉRIODE À LAQUELLE SE RAPPORTENT LES PAIEMENTS
+13.423 F / Mois
 
-Année (en francs) : Au-delà de 156 370
+3.098 F / Semaine
 
-Trimestre (en francs) : Au-delà de 39 093
-
-Mois (en francs) : Au-delà de 13 031
-
-Semaine (en francs) : Au-delà de 3 008
-
-Jour ou fraction de jour (en francs) : Au-delà de 502.
+517 F / Jour ou fraction de jour.
