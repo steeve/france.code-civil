@@ -3,7 +3,7 @@ Article 148-2
 Toute juridiction appelée à statuer, en application des articles 141-1 et 148-1,
 sur une demande de mainlevée totale ou partielle du contrôle judiciaire ou sur
 une demande de mise en liberté se prononce après audition du ministère public,
-du prévenu ou de son conseil ; le prévenu non détenu et son conseil sont
+du prévenu ou de son avocat ; le prévenu non détenu et son avocat sont
 convoqués, par lettre recommandée, quarante-huit heures au moins avant la date
 de l'audience.
 

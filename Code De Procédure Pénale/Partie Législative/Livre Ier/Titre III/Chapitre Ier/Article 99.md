@@ -4,9 +4,9 @@ Au cours de l'information, le juge d'instruction est compétent pour décider de
 la restitution des objets placés sous main de justice.
 
 Il statue, par ordonnance motivée, soit sur réquisitions du procureur de la
-République, soit, après avis de ce dernier, d'office ou sur requête de
-l'inculpé, de la partie civile ou de toute autre personne qui prétend avoir
-droit sur l'objet.
+République, soit, après avis de ce dernier, d'office ou sur requête de la
+personne mise en examen de la partie civile ou de toute autre personne qui
+prétend avoir droit sur l'objet.
 
 Il peut également, avec l'accord du procureur de la République, décider d'office
 de restituer ou de faire restituer à la victime de l'infraction les objets

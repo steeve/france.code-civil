@@ -1,10 +1,10 @@
 Article 669
 ----
-L'inculpé, le prévenu, l'accusé et toute partie à l'instance qui veut récuser un
-juge d'instruction, un juge de police, un, plusieurs ou l'ensemble des juges du
-tribunal correctionnel, des conseillers de la cour d'appel ou de la cour
-d'assises doit, à peine de nullité, présenter requête au premier président de la
-cour d'appel.
+La personne mise en examen, le prévenu, l'accusé et toute partie à l'instance
+qui veut récuser un juge d'instruction, un juge de police, un, plusieurs ou
+l'ensemble des juges du tribunal correctionnel, des conseillers de la cour
+d'appel ou de la cour d'assises doit, à peine de nullité, présenter requête au
+premier président de la cour d'appel.
 
 Les magistrats du ministère public ne peuvent être récusés.
 

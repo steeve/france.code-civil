@@ -10,6 +10,6 @@ La peine ainsi prononcée est subie immédiatement après celle encourue pour
 l'infraction à l'occasion de laquelle l'usurpation de nom a été commise.
 
 Est puni des peines prévues à l'alinéa premier celui qui, par de fausses
-déclarations relatives à l'état civil d'un inculpé, a sciemment été la cause de
-l'inscription d'une condamnation sur le casier judiciaire d'un autre que cet
-inculpé.
+déclarations relatives à l'état civil d'une personne poursuivie, a sciemment été
+la cause de l'inscription d'une condamnation sur le casier judiciaire d'une
+autre personne.

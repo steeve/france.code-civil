@@ -1,9 +1,8 @@
 Article 126
 ----
-Tout inculpé arrêté en vertu d'un mandat d'amener, qui a été maintenu pendant
-plus de vingt-quatre heures dans la maison d'arrêt sans avoir été interrogé, est
-considéré comme arbitrairement détenu.
+Toute personne arrêtée en vertu d'un mandat d'amener, qui a été maintenue
+pendant plus de vingt-quatre heures dans la maison d'arrêt sans avoir été
+interrogée, est considérée comme arbitrairement détenue.
 
-Tous magistrats ou fonctionnaires qui ont ordonné ou sciemment toléré cette
-détention arbitraire sont punis des peines portées aux articles 119 et 120 du
-code pénal.
+Les articles 432-4 à 432-6 du code pénal sont applicables aux magistrats ou
+fonctionnaires qui ont ordonné ou sciemment toléré cette détention arbitraire.

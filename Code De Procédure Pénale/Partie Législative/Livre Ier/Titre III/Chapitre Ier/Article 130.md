@@ -1,7 +1,7 @@
 Article 130
 ----
 Lorsqu'il y a lieu à transfèrement dans les conditions prévues par les articles
-128 et 129, l'inculpé doit être conduit devant le juge d'instruction qui a
+128 et 129, la personne doit être conduite devant le juge d'instruction qui a
 délivré le mandat dans les quatre jours de la notification du mandat.
 
 Toutefois, ce délai est porté à six jours en cas de transfèrement d'un

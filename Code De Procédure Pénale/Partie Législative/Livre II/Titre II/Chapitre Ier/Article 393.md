@@ -7,7 +7,7 @@ République peut, s'il estime qu'une information n'est pas nécessaire, procéde
 comme il est dit aux articles 394 à 396.
 
 Le procureur de la République informe alors la personne déférée devant lui
-qu'elle a le droit à l'assistance d'un conseil de son choix ou commis d'office.
+qu'elle a le droit à l'assistance d'un avocat de son choix ou commis d'office.
 L'avocat choisi ou, dans le cas d'une demande de commission d'office, le
 bâtonnier de l'Ordre des avocats, en est avisé sans délai.
 

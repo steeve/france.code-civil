@@ -1,8 +1,8 @@
 Article 148-7
 ----
-Lorsque l'inculpé, le prévenu ou l'accusé est détenu, la demande de mise en
-liberté peut aussi être faite au moyen d'une déclaration auprès du chef de
-l'établissement pénitentiaire.
+Lorsque la personne mise en examen, le prévenu ou l'accusé est détenu, la
+demande de mise en liberté peut aussi être faite au moyen d'une déclaration
+auprès du chef de l'établissement pénitentiaire.
 
 Cette déclaration est constatée et datée par le chef de l'établissement
 pénitentiaire qui la signe, ainsi que le demandeur. Si celui-ci ne peut signer,

@@ -1,20 +1,23 @@
 Article 154
 ----
-Lorsque, pour les nécessités de l'exécution de la commission rogatoire,
-l'officier de police judiciaire est amené à retenir une personne à sa
-disposition, celle-ci doit être obligatoirement conduite, dans les vingt-quatre
-heures, devant le juge d'instruction dans le ressort duquel se poursuit
-l'exécution. Après audition de la personne qui lui est amenée, le juge
-d'instruction peut accorder l'autorisation écrite de prolonger la garde à vue
-d'un nouveau délai de vingt-quatre heures.
+Dès que, pour les nécessités de l'exécution de la commission rogatoire,
+l'officier de police judiciaire est amené à garder une personne à sa
+disposition, il en informe le juge d'instruction saisi des faits qui contrôle la
+mesure de garde à vue. Il ne peut retenir cette personne plus de vingt-quatre
+heures.
 
-A titre exceptionnel, cette autorisation peut être accordée, par décision
-motivée, sans que la personne soit conduite devant le juge d'instruction.
+La personne doit être présentée avant l'expiration du délai de vingt-quatre
+heures à ce magistrat ou, si la commission rogatoire est exécutée dans un autre
+ressort que celui de son siège, au juge d'instruction du lieu d'exécution de la
+mesure. A l'issue de cette présentation, le juge d'instruction peut accorder
+l'autorisation écrite de prolonger la mesure d'un nouveau délai dont il fixe la
+durée sans que celle-ci puisse excéder vingt-quatre heures. Il peut, à titre
+exceptionnel, accorder cette autorisation par décision écrite et motivée sans
+présentation préalable de la personne.
 
-Les gardes à vue auxquelles il est ainsi procédé par un officier de police
-judiciaire sont mentionnées dans les formes prévues aux articles 64 et 65.
+Pour l'application du présent article, les ressorts des tribunaux de grande
+instance de Paris, Nanterre, Bobigny et Créteil constituent un seul et même
+ressort.
 
-Le juge d'instruction fixe le délai dans lequel les procès-verbaux dressés par
-l'officier de police judiciaire doivent lui être transmis par celui-ci. A défaut
-d'une telle fixation, ces procès-verbaus doivent lui être transmis dans les huit
-jours de la fin des opérations exécutées en vertu de la commission rogatoire.
+Les dispositions des articles 63-1, 63-2, 63-3, 63-4, 64 et 65 sont applicables
+aux gardes à vue exécutées dans le cadre de la présente section.

@@ -1,9 +1,8 @@
 Article 117
 ----
-L'inculpé et la partie civile peuvent à tout moment de l'information faire
-connaître au juge d'instruction le nom du conseil choisi par eux ; s'ils
-désignent plusieurs conseils, ils doivent faire connaître celui d'entre eux
-auquel seront adressées les convocations et notifications ; à défaut de ce
-choix, celles-ci seront adressées au conseil le premier choisi ainsi qu'au
-deuxième conseil lorsque ce dernier n'est pas inscrit au même barreau que le
-premier.
+Nonobstant les dispositions prévues à l'article 116, le juge d'instruction peut
+procéder à un interrogatoire immédiat et à des confrontations si l'urgence
+résulte soit de l'état d'un témoin en danger de mort, soit de l'existence
+d'indices sur le point de disparaître.
+
+Le procès-verbal fait mention des causes d'urgence.

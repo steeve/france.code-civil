@@ -5,4 +5,4 @@ demande, le ministère public prend ses réquisitions, le prévenu, et, s'il y a
 lieu, la personne civilement responsable, présentent leur défense.
 
 La partie civile et le ministère public peuvent répliquer. Le prévenu ou son
-conseil auront toujours la parole les derniers.
+avocat auront toujours la parole les derniers.

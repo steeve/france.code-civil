@@ -1,37 +1,25 @@
 Article 114
 ----
-Lors de la première comparution, le juge d'instruction constate l'identité de
-l'inculpé, lui fait connaître expressément chacun des faits qui lui sont imputés
-et l'avertit qu'il est libre de ne faire aucune déclaration. Mention de cet
-avertissement est faite au procès-verbal.
+Les parties ne peuvent être entendues, interrogées ou confrontées, à moins
+qu'elles n'y renoncent expressément, qu'en présence de leurs avocats ou ces
+derniers dûment appelés.
 
-Si l'inculpé désire faire des déclarations, celles-ci sont immédiatement reçues
-par le juge d'instruction.
+Les avocats sont convoqués au plus tard cinq jours ouvrables avant
+l'interrogatoire ou l'audition de la partie qu'ils assistent par pli recommandé
+avec demande d'avis de réception, télécopie avec récépissé ou verbalement avec
+émargement au dossier de la procédure.
 
-Le magistrat donne avis à l'inculpé de son droit de choisir un conseil parmi les
-avocats inscrits au tableau ou admis au stage, ou parmi les avoués, et à défaut
-de choix, il lui en fait désigner un d'office, si l'inculpé le demande. La
-désignation est faite par le bâtonnier de l'Ordre des avocats s'il existe un
-conseil de l'Ordre et, dans le cas contraire, par le président du tribunal.
+La procédure est mise à leur disposition quatre jours ouvrables au plus tard
+avant la première comparution de la personne convoquée ou la première audition
+de la partie civile ; elle est ensuite, sur leur demande, mise à tout moment à
+leur disposition durant les jours ouvrables.
 
-Mention de cette formalité est faite au procès-verbal.
+Par dérogation aux dispositions des deux alinéas qui précèdent, lorsqu'une
+personne est déférée devant le juge d'instruction, son avocat est convoqué sans
+délai et par tout moyen ; il peut consulter immédiatement le dossier et
+s'entretenir librement avec la personne qu'il assiste.
 
-La partie civile a également le droit de se faire assister d'un conseil dès sa
-première audition.
-
-A l'issue de la première comparution, l'inculpé laissé en liberté ou placé sous
-contrôle judiciaire doit déclarer au juge d'instruction son adresse personnelle.
-Il peut toutefois lui substituer l'adresse d'un tiers chargé de recevoir les
-actes qui lui sont destinés, s'il produit l'accord de ce dernier. L'adresse
-déclarée doit être située, si l'information se déroule en métropole, dans un
-département métropolitain ou, si l'information se déroule dans un département
-d'outre-mer dans ce département.
-
-L'inculpé est avisé qu'il doit signaler au juge d'instruction, jusqu'à la
-clôture de l'information, par nouvelle déclaration ou par lettre recommandée
-avec demande d'avis de réception, tout changement de l'adresse déclarée. Il est
-également avisé que toute notification ou signification faite à la dernière
-adresse déclarée sera réputée faite à sa personne.
-
-Mention de cet avis, ainsi que de la déclaration d'adresse, est portée au
-procès-verbal.
+Après la première comparution ou la première audition, les avocats des parties
+peuvent se faire délivrer, à leurs frais, copie de tout ou partie des pièces et
+actes du dossier pour leur usage exclusif et sans pouvoir en établir de
+reproduction.

@@ -1,9 +1,7 @@
 Article 115
 ----
-Nonobstant les dispositions prévues à l'article précédent, le juge d'instruction
-peut procéder à un interrogatoire immédiat et à des confrontations si l'urgence
-résulte, soit de l'état d'un témoin en danger de mort, soit de l'existence
-d'indices sur le point de disparaître, ou encore dans le cas prévu au dernier
-alinéa de l'article 72.
-
-Le procès-verbal doit faire mention des causes d'urgences.
+Les parties peuvent à tout moment de l'information faire connaître au juge
+d'instruction le nom de l'avocat choisi par elles ; si elles désignent plusieurs
+avocats, elles doivent faire connaître celui d'entre eux auquel seront adressées
+les convocations et notifications ; à défaut de ce choix, celles-ci seront
+adressées à l'avocat premier choisi.

@@ -1,7 +1,6 @@
 Article 459
 ----
-Le prévenu, les autres parties et leurs conseils peuvent déposer des
-conclusions.
+Le prévenu, les autres parties et leurs avocats peuvent déposer des conclusions.
 
 Ces conclusions sont visées par le président et le greffier ; ce dernier
 mentionne ce dépôt aux notes d'audience.

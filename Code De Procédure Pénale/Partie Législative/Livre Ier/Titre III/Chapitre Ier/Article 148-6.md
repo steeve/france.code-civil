@@ -9,6 +9,6 @@ Elle doit être constatée et datée par le greffier qui la signe ainsi que le
 demandeur ou son avocat. Si le demandeur ne peut signer, il en est fait mention
 par le greffier.
 
-Lorsque l'inculpé placé sous contrôle judiciaire ne réside pas dans le ressort
-de la juridiction compétente, la déclaration au greffier peut être faite au
-moyen d'une lettre recommandée avec demande d'avis de réception.
+Lorsque la personne ou son avocat ne réside pas dans le ressort de la
+juridiction compétente, la déclaration au greffier peut être faite au moyen
+d'une lettre recommandée avec demande d'avis de réception.

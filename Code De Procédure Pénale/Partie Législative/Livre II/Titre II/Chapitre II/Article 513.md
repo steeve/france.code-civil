@@ -5,6 +5,8 @@ est interrogé.
 
 Les témoins ne sont entendus que si la cour a ordonné leur audition.
 
-Les parties en cause ont la parole dans l'ordre prévu par l'article 460.
+Les parties en cause ont la parole dans l'ordre suivant : d'abord, les parties
+appelantes, puis les parties intimées ; s'il y a plusieurs parties appelantes ou
+intimées, elles sont entendues dans l'ordre fixé par le président.
 
 Le prévenu ou son avocat auront toujours la parole les derniers.
