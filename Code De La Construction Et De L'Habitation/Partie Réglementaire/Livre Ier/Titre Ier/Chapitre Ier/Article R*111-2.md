@@ -14,5 +14,6 @@ hauteurs sous plafond.
 
 Il n'est pas tenu compte de la superficie des combles non aménagés, caves,
 sous-sols, remises, garages, terrasses, loggias, balcons, séchoirs extérieurs au
-logement, vérandas, locaux communs et autres dépendances des logements, ni des
-parties de locaux d'une hauteur inférieure à 1,80 mètre.
+logement, vérandas, volumes vitrés prévus à l'article R. 111-10, locaux communs
+et autres dépendances des logements, ni des parties de locaux d'une hauteur
+inférieure à 1,80 mètre.
