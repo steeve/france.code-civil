@@ -1,13 +1,12 @@
 Article 213
 ----
-Le mari, chef de la famille, a le choix de la résidence du ménage ; la femme est
-obligée d'habiter avec son mari, celui-ci est tenu de la recevoir.
+Le mari est le chef de la famille. Il exerce cette fonction dans l'intérêt
+commun du ménage et des enfants.
 
-Un droit de recours au tribunal, statuant en chambre du conseil, le mari dûment
-appelé et le ministère public entendu, est ouvert à la femme contre une fixation
-abusive de la résidence du ménage par le mari.
+La femme concourt avec le mari à assurer la direction morale et matérielle de la
+famille, à pourvoir à son entretien, à élever les enfants et à préparer leur
+établissement.
 
-La qualité de chef de famille cesse d'exister au profit du mari 1° dans les cas
-d'absence, d'interdiction, d'impossibilité pour le mari de manifester sa
-volonté, et de séparation de corps ; 2° lorsqu'il est condamné, même par
-contumace, à une peine criminelle, pendant la durée de sa peine.
+La femme remplace le mari dans sa fonction de chef s'il est hors d'état de
+manifester sa volonté en raison de son incapacité, de son absence, de son
+éloignement ou de tout autre cause.
