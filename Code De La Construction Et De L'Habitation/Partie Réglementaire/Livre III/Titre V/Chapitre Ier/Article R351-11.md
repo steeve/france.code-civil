@@ -1,14 +1,17 @@
 Article R351-11
 ----
-Lorsque le bénéficiaire apporte la preuve qu'il supporte des charges de loyer
-supplémentaires consécutives à une obligation de résidence séparée imposée par
-ses conditions de travail, il est procédé, à partir du premier jour du mois
-civil suivant celui au cours duquel ces charges apparaissent, à un abattement
-forfaitaire sur les ressources du ménage déterminées dans les conditions prévues
-aux articles R. 351-5 et R. 351-7. Le montant de cet abattement est fixé par
-arrêté conjoint des ministres chargés de la sécurité sociale, du budget, de
-l'agriculture et du logement.
+Lorsque le bénéficiaire justifie qu'en raison d'obligations professionnelles,
+lui-même ou, le cas échéant, son conjoint est contraint d'occuper de manière
+habituelle un logement distinct de celui de son ou de leur lieu de résidence
+principale et qu'il supporte des charges de loyer supplémentaires afférentes à
+ce logement, il est procédé à un abattement forfaitaire sur les ressources de la
+personne ou du ménage déterminées dans les conditions prévues aux articles R.
+351-5 et R. 351-7.
 
-Lorsque les charges de loyer supplémentaires disparaissent, l'abattement prévu
-au premier alinéa est supprimé à partir du premier jour du mois civil au cours
-duquel lesdites charges disparaissent [*date d'effet*].
+L'abattement est appliqué à compter du premier jour du mois civil suivant celui
+au cours duquel le bénéficiaire doit supporter ces charges. Il est supprimé à
+compter du premier jour du mois civil au cours duquel le bénéficiaire cesse de
+les supporter.
+
+Le montant de cet abattement est fixé par un arrêté conjoint des ministres
+chargés de la sécurité sociale, du budget, de l'agriculture et du logement.
