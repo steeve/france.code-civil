@@ -29,10 +29,7 @@ compris lorsqu'ils sont prélevés à l'occasion d'une intervention chirurgicale
 
 7° Les produits de thérapie génique et cellulaire ;
 
-8° Les réactifs de laboratoire ainsi que les réactifs conditionnés en vue de la
-vente au public et destinés au diagnostic médical ou à celui de la grossesse et
-les réactifs utilisés pour les examens d'anatomie et de cytologie pathologiques
-;
+8° [*Abrogé*]
 
 9° Les produits destinés à l'entretien ou à l'application des lentilles de
 contact ;

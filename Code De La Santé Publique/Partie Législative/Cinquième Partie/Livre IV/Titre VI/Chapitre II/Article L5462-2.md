@@ -1,4 +1,7 @@
 Article L5462-2
 ----
-Le fait de passer outre aux interdictions mentionnées à l'article L. 5221-1 est
-puni de deux ans d'emprisonnement et de 25 000 F d'amende.
+Le fait, pour le fabricant ou son mandataire, l'importateur, le distributeur et
+les professionnels de santé utilisateurs d'un dispositif médical de diagnostic
+in vitro, de ne pas respecter les obligations qui leur incombent en application
+de l'article L. 5222-3 est puni d'un an d'emprisonnement et de 15000 euros
+d'amende.

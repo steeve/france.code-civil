@@ -1,6 +1,11 @@
 Article L5221-1
 ----
-Sont interdites la fabrication et la distribution, à titre onéreux ou gratuit,
-de jouets ou d'amusettes, contenant les substances vénéneuses ou dangereuses
-dont la liste est établie et mise à jour par décret en Conseil d'Etat pris sur
-avis du Conseil supérieur d'hygiène publique de France.
+Constituent des dispositifs médicaux de diagnostic in vitro les produits,
+réactifs, matériaux, instruments et systèmes, leurs composants et accessoires,
+ainsi que les récipients pour échantillons, destinés spécifiquement à être
+utilisés in vitro, seuls ou en combinaison, dans l'examen d'échantillons
+provenant du corps humain, afin de fournir une information concernant un état
+physiologique ou pathologique, avéré ou potentiel, ou une anomalie congénitale,
+pour contrôler des mesures thérapeutiques, ou pour déterminer la sécurité d'un
+prélèvement d'éléments du corps humain ou sa compatibilité avec des receveurs
+potentiels.

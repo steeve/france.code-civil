@@ -8,10 +8,7 @@ présent code :
 2° La préparation des objets de pansements et de tous articles présentés comme
 conformes à la pharmacopée, la préparation des insecticides et acaricides
 destinés à être appliqués sur l'homme, la préparation des produits destinés à
-l'entretien ou l'application des lentilles oculaires de contact ainsi que la
-préparation des produits et réactifs conditionnés en vue de la vente au public
-et qui, sans être mentionnés à l'article L. 5111-1, sont cependant destinés au
-diagnostic médical ou à celui de la grossesse ;
+l'entretien ou l'application des lentilles oculaires de contact ;
 
 3° La préparation des générateurs, trousses ou précurseurs mentionnés à
 l'article L. 5121-1 ;
@@ -30,7 +27,10 @@ des denrées ou boissons alimentaires ;
 7° La vente au détail et toute dispensation au public des aliments lactés
 diététiques pour nourrissons et des aliments de régime destinés aux enfants du
 premier âge, c'est-à-dire de moins de quatre mois, dont les caractéristiques
-sont fixées par arrêté des ministres chargés de la consommation et de la santé.
+sont fixées par arrêté des ministres chargés de la consommation et de la santé ;
+
+8° La vente au détail et toute dispensation de dispositifs médicaux de
+diagnostic in vitro destinés à être utilisés par le public.
 
 La fabrication et la vente en gros des drogues simples et des substances
 chimiques destinées à la pharmacie sont libres à condition que ces produits ne

@@ -2,10 +2,9 @@ Article L5211-5-2
 ----
 Il est institué au profit de l'Agence française de sécurité sanitaire des
 produits de santé une taxe annuelle frappant les dispositifs médicaux tels
-qu'ils sont définis à l'article L. 5211-1 et les dispositifs médicaux de
-diagnostic in vitro mentionnés au 4° de l'article L. 5311-1, mis sur le marché
-français. Elle est exigible des fabricants, ou pour les produits importés hors
-de la Communauté européenne, de leurs mandataires.
+qu'ils sont définis à l'article L. 5211-1, mis sur le marché français. Elle est
+exigible des fabricants, ou pour les produits importés hors de la Communauté
+européenne, de leurs mandataires.
 
 Le taux de cette taxe est fixé à 0,15 % du chiffre d'affaires annuel hors taxes
 réalisé. La taxe n'est pas exigible lorsque les ventes n'ont pas atteint, au
