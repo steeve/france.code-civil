@@ -1,6 +1,6 @@
 Article 237 bis A
 ----
-I Toute entreprise employant habituellement plus de 100 salariés [*effectif*],
+I Toute entreprise employant habituellement plus de 100 salariés *effectif*,
 quelles que soient la nature de son activité et sa forme juridique, est soumise
 aux obligations des articles L 442-1 à L 442-14 du code du travail, destinées à
 garantir le droit de ses salariés à participer aux fruits de l'expansion de
@@ -31,13 +31,14 @@ de participation ne peuvent être admises en déduction des bénéfices imposabl
 qu'au titre des exercices au cours desquels elles seront réparties.
 
 III Les entreprises visées au I sont autorisées à constituer en franchise
-d'impôt, à la clôture des exercices arrêtés à compter du 1er octobre 1984, une
-provision pour investissement égale à 50 % du montant des sommes correspondant à
-la participation (2) supplémentaire attribuée en application d'accords
-dérogatoires de participation, portées à la réserve spéciale de participation au
-cours du même exercice et admises en déduction des bénéfices imposables lorsque
-les accords dérogatoires de participation reconduits ont été signés avant le 1er
-octobre 1973, et à 15 % lorsqu'ils l'ont été depuis cette date.
+d'impôt, à la clôture des exercices arrêtés à compter du 1er octobre 1984 (2) ,
+une provision pour investissement (3) égale à 50 % du montant des sommes
+correspondant à la participation (4) supplémentaire attribuée en application
+d'accords dérogatoires de participation, portées à la réserve spéciale de
+participation au cours du même exercice et admises en déduction des bénéfices
+imposables lorsque les accords dérogatoires de participation reconduits ont été
+signés avant le 1er octobre 1973, et à 15 % lorsqu'ils l'ont été depuis cette
+date.
 
 Les sociétés anonymes à participation ouvrière sont autorisées à constituer en
 franchise d'impôt, à la clôture de chaque exercice, une provision pour
@@ -59,6 +60,12 @@ d'un exercice est au plus égal à celui des sommes portées à la réserve spé
 de participation au titre du même exercice. Les dotations à la réserve légale et
 au fonds de développement de ces sociétés peuvent tenir lieu, à due concurrence,
 de provision pour investissement.
+
+Toutefois ces dispositions ne sont pas applicables lorsqu'une société
+coopérative ouvrière de production [*SCOP*] fait application des dispositions
+prévues à l'article 26 de la loi n° 78-763 du 19 juillet 1978 (5) et qu'un ou
+plusieurs associés non-employés détiennent directement ou indirectement plus de
+la moitié de son capital.
 
 A défaut de conclusion de l'accord prévu à l'article L 442-5 du code du travail,
 dans le délai d'un an qui commence à courir à la clôture de l'exercice au titre
@@ -89,4 +96,13 @@ immobilisations amortissables prévue à l'article 238 bis J ne sont pas pris en
 compte pour le calcul de la participation. (Loi n° 76-1232 du 29 décembre 1976,
 art. 61-IV. Loi n° 77-1467 du 30 décembre 1977, art. 69-I).
 
-(2) Voir Annexe II, art. 171 bis.
+(2) Jusqu'au 1er octobre 1984 ces entreprises étaient autorisées à constituer en
+franchise d'impôt une provision pour investissement égale à 25 % du montant des
+sommes portées à la reserve spéciale de participation pour les exercices clos à
+compter du 1er octobre 1981 et à 12 % pour les exercices clos à compter du 1er
+octobre 1983.
+
+(3) Voir Annexe II, art. 171 bis.
+
+(4) Jusqu'au 1er octobre 1984 ce pourcentage était de 75 % pour les accords
+signés avant le 1er octobre 1973.
