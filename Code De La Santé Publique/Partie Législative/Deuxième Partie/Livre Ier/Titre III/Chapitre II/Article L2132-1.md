@@ -6,9 +6,9 @@ défaut, il peut être demandé au service départemental de protection maternel
 et infantile.
 
 Un arrêté ministériel détermine le modèle et le mode d'utilisation de ce carnet
-où sont mentionnés obligatoirement les résultats des examens médicaux prévus à
-l'article L. 2132-2 et où doivent être notées, au fur et à mesure, toutes les
-constatations importantes concernant la santé de l'enfant.
+où sont mentionnés obligatoirement les résultats des examens médicaux prévus aux
+articles L. 2132-2 et L. 2132-2-1 et où doivent être notées, au fur et à mesure,
+toutes les constatations importantes concernant la santé de l'enfant.
 
 Le carnet est établi au nom de l'enfant. Il est remis aux parents ou aux
 personnes titulaires de l'exercice de l'autorité parentale ou aux personnes ou

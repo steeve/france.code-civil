@@ -5,5 +5,5 @@ travailleurs salariés une contribution des entreprises assurant l'exploitation
 en France, au sens des articles L5124-1, L5124-2, L5136-2 et L5124-18 du code de
 la santé publique, d'une ou plusieurs spécialités pharmaceutiques donnant lieu à
 remboursement par les caisses d'assurance maladie en application des premier et
-deuxième alinéas de l'article L. 162-17 du présent code ou des spécialités
+dernier alinéas de l'article L. 162-17 du présent code ou des spécialités
 inscrites sur la liste des médicaments agréés à l'usage des collectivités.

@@ -8,11 +8,11 @@ tel que défini à l'article L. 138-10 ;
 
 b) A concurrence de 40 %, sur la progression du chiffre d'affaires tel que
 défini à l'article L. 138-10, réalisé en France par les entreprises redevables
-au titre des spécialités inscrites sur la liste mentionnée à l'article L.
-162-17, par rapport au chiffre d'affaires réalisé en France au titre des
-spécialités inscrites sur ladite liste par les mêmes entreprises, lorsque cette
-progression est supérieure au taux de progression de l'objectif national de
-dépenses d'assurance maladie tel que défini à l'article L. 138-10 ;
+au titre des spécialités inscrites sur la liste mentionnée au premier alinéa de
+l'article L. 162-17, par rapport au chiffre d'affaires réalisé en France au
+titre des spécialités inscrites sur ladite liste par les mêmes entreprises,
+lorsque cette progression est supérieure au taux de progression de l'objectif
+national de dépenses d'assurance maladie tel que défini à l'article L. 138-10 ;
 
 c) A concurrence de 30 %, sur les charges exposées par l'ensemble des
 entreprises redevables au titre des dépenses de prospection et d'information

@@ -2,7 +2,7 @@ Article L615-14
 ----
 Les prestations de base servies aux ressortissants du régime institué par le
 présent livre en cas de maladie ou d'accident sont celles prévues aux 1°, 2°,
-3°, 4°, 6°, 7° et 8° de l'article L. 321-1 et, en cas de maternité, celles
+3°, 4°, 6°, 7°, 8° et 9° de l'article L. 321-1 et, en cas de maternité, celles
 prévues à l'article L. 331-2.
 
 A cet effet, il est fait application des dispositions prévues aux articles L.

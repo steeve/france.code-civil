@@ -1,7 +1,6 @@
 Article L122-2
 ----
-Le contrat de travail peut également être conclu pour une durée déterminée
-[*condition, type*] :
+Le contrat de travail peut également être conclu pour une durée déterminée :
 
 1° Lorsqu'il est conclu au titre de dispositions législatives et réglementaires
 destinées à favoriser l'embauchage de certaines catégories de personnes sans
@@ -11,8 +10,7 @@ emploi ;
 seront fixées par décret, à assurer un complément de formation professionnelle
 au salarié.
 
-Ce contrat doit comporter un terme fixé avec précision dès sa conclusion
-[*mention*].
+Ce contrat doit comporter un terme fixé avec précision dès sa conclusion.
 
 Il peut être renouvelé une fois. Les dispositions de l'article L. 122-1-2 et L.
-122-3-11 ne sont pas applicables à ce contrat [*terme, contrats successifs*].
+122-3-11 ne sont pas applicables à ce contrat.

@@ -8,6 +8,6 @@ II. - Le produit des prélèvements mentionnés au I est ainsi réparti :
 20 % à la première section du Fonds de solidarité vieillesse, mentionnée à
 l'article L. 135-2 ;
 
-50 % au fonds mentionné à l'article L. 135-6 ;
+65 % au fonds mentionné à l'article L. 135-6 ;
 
-30 % à la Caisse nationale d'assurance vieillesse des travailleurs salariés.
+15 % à la Caisse nationale d'assurance vieillesse des travailleurs salariés.

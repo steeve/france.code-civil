@@ -53,8 +53,9 @@ la lutte contre l'exclusion en matière d'accès aux soins.
 Un avenant annuel à la convention d'objectifs et de gestion de la branche
 maladie du régime général détermine, en fonction de l'objectif national de
 dépenses d'assurance maladie voté par le Parlement, l'objectif prévisionnel des
-dépenses de soins de ville et, en son sein, l'objectif de dépenses déléguées et
-précise les conditions et modalités de mise en oeuvre de ces objectifs.
+dépenses de soins de ville et, en son sein, la part mentionnée à l'article L.
+162-43 et l'objectif de dépenses déléguées et précise les conditions et
+modalités de mise en oeuvre de ces objectifs.
 
 Les dépenses de soins de ville comprennent :
 

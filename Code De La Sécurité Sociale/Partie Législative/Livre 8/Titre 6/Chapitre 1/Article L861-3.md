@@ -30,6 +30,12 @@ bénéficient de la procédure de dispense d'avance de frais pour les frais des
 actes réalisés par ce médecin ou par les médecins spécialistes qui se déclarent
 correspondants de ce médecin, pour eux-mêmes ou leurs ayants droit.
 
+Les personnes dont le droit aux prestations définies aux cinq premiers alinéas
+du présent article vient à expiration bénéficient, pour une durée d'un an à
+compter de la date d'expiration de ce droit, de la procédure de dispense
+d'avance des frais prévue à l'alinéa précédent pour la part de leurs dépenses
+prise en charge par les régimes obligatoires d'assurance maladie et maternité.
+
 Pour l'application de cette dispense d'avance de frais, un décret détermine les
 modalités de paiement des professionnels et établissements de santé permettant
 notamment qu'ils aient un interlocuteur unique pour l'ensemble de la procédure.

@@ -3,10 +3,28 @@ Article L315-2
 Les avis rendus par le service du contrôle médical portant sur les éléments
 définis au I de l'article L. 315-1 s'imposent à l'organisme de prise en charge.
 
-Si, indépendamment des dispositions particulières qui subordonnent le bénéfice
-de certaines prestations à l'accord préalable de l'organisme de prise en charge,
-le service du contrôle médical estime qu'une prestation mentionnée à l'article
-L. 321-1 n'est pas médicalement justifiée, la caisse, après en avoir informé
-l'assuré, en suspend le service. Les contestations d'ordre médical portant sur
-cette décision donnent lieu à l'expertise médicale mentionnée à l'article L.
-141-1.
+Le bénéfice de certaines prestations mentionnées au I de l'article L. 315-1 peut
+être subordonné à l'accord préalable du service du contrôle médical. Cet accord
+préalable peut être exigé pour les prestations dont :
+
+- la nécessité doit être appréciée au regard d'indications déterminées ou de
+conditions particulières d'ordre médical ;
+
+- la justification, du fait de leur caractère innovant ou des risques encourus
+par le bénéficiaire, doit être préalablement vérifiée eu égard notamment à
+l'état du bénéficiaire et aux alternatives thérapeutiques possibles ;
+
+- le caractère particulièrement coûteux doit faire l'objet d'un suivi
+particulier afin d'en évaluer l'impact sur les dépenses de l'assurance maladie.
+
+Il est précisé lors de l'admission au remboursement des prestations mentionnées
+au I de l'article L. 315-1 que leur bénéfice est, le cas échéant, subordonné à
+l'accord préalable mentionné ci-dessus.
+
+Les conditions d'application des alinéas précédents sont fixées par décret.
+
+Si, indépendamment des dispositions des deuxième à cinquième alinéas le service
+du contrôle médical estime qu'une prestation mentionnée à l'article L. 321-1
+n'est pas médicalement justifiée, la caisse, après en avoir informé l'assuré, en
+suspend le service. Les contestations d'ordre médical portant sur cette décision
+donnent lieu à l'expertise médicale mentionnée à l'article L. 141-1.

@@ -15,8 +15,7 @@ décret qui sont supérieurs à 169 fois le salaire minimum de croissance major�
 majoré de 60 p. 100.
 
 Les dispositions du présent article sont applicables aux gains et rémunérations
-versés aux salariés par les employeurs visés aux 2°, 3°, 4° et 6° de l'article
-L. 722-1 du code rural.
+versés aux salariés visés au 1° de l'article L. 722-20 du code rural.
 
 II. - L'article 7 de la loi n° 93-1313 du 20 décembre 1993 quinquennale relative
 au travail, à l'emploi et à la formation professionnelle est abrogé.

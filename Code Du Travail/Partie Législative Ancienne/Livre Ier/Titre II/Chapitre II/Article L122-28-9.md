@@ -20,14 +20,14 @@ modalités fixées par décret en Conseil d'Etat.
 
 Lorsque le salarié entend prolonger son congé ou son activité à temps partiel,
 il doit avertir l'employeur de cette prolongation, par lettre recommandée avec
-demande d'avis de réception, au moins un mois avant le terme initialement prévu
-et l'informer, le cas échéant, de son intention soit de transformer le congé de
-présence parentale en activité à temps partiel, soit de transformer l'activité à
-temps partiel en congé de présence parentale. Toutefois, pendant la période
-d'activité à temps partiel ou à l'occasion des prolongations de celle-ci, le
-salarié ne peut pas modifier la durée du travail initialement choisie sauf
-accord de l'employeur ou si une convention ou un accord collectif de travail le
-prévoit expressément.
+demande d'avis de réception, au moins quinze jours avant le terme initialement
+prévu et l'informer, le cas échéant, de son intention soit de transformer le
+congé de présence parentale en activité à temps partiel, soit de transformer
+l'activité à temps partiel en congé de présence parentale. Toutefois, pendant la
+période d'activité à temps partiel ou à l'occasion des prolongations de
+celle-ci, le salarié ne peut pas modifier la durée du travail initialement
+choisie sauf accord de l'employeur ou si une convention ou un accord collectif
+de travail le prévoit expressément.
 
 A l'issue du congé de présence parentale ou de la période d'exercice de son
 activité à temps partiel, le salarié retrouve son précédent emploi ou un emploi

@@ -14,7 +14,7 @@ correspondant à la différence entre les dépenses et les recettes ainsi défin
 :
 
 1° Soit au financement des actions expérimentales relatives aux filières et
-réseaux de soins prévues à l'article L. 162-31-1 du présent code ;
+réseaux de soins ;
 
 2° Soit au financement des programmes de santé publique élaborés par la
 conférence régionale de santé en vertu de l'article L. 767 du code de la santé

@@ -2,11 +2,13 @@ Article L544-8
 ----
 L'allocation de présence parentale n'est pas cumulable avec :
 
-1° L'indemnisation des congés de maternité ou d'adoption ;
+1° L'indemnisation des congés de maternité, de paternité ou d'adoption ;
 
-2° L'allocation forfaitaire de repos maternel prévue aux articles L. 615-19 et
-L. 722-8 du présent code ou l'allocation de remplacement pour maternité prévue à
-l'article L. 732-10 du code rural ;
+2° L'indemnité d'interruption d'activité ou l'allocation de remplacement pour
+maternité ou paternité, prévues aux articles L. 615-19 à L. 615-19-2 et L. 722-8
+à L. 722-8-3 du présent code, aux articles L. 732-10 à L. 732-12-1 du code rural
+et à l'article 17 de la loi n° 97-1051 du 18 novembre 1997 d'orientation sur la
+pêche maritime et les cultures marines ;
 
 3° L'indemnisation des congés de maladie ou d'accident du travail ;
 

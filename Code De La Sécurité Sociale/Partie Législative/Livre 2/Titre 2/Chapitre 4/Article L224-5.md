@@ -1,21 +1,20 @@
 Article L224-5
 ----
-Les caisses nationales et l'Agence centrale des organismes de sécurité sociale
-peuvent confier à l'union des caisses nationales prévue à l'article L. 200-2 des
-tâches communes sur délégation de leur conseil respectif, notamment pour les
-opérations immobilières, la coordination de l'action sanitaire et sociale, les
-problèmes relatifs aux conditions de travail du personnel des organismes de
-sécurité sociale et la signature des conventions collectives prévues aux
-articles L. 123-1 et L. 123-2.
+L'Union des caisses nationales de sécurité sociale, union nationale au sens de
+l'article L. 216-3, assure les tâches mutualisées de la gestion des ressources
+humaines du régime général de sécurité sociale. Elle négocie et conclut les
+conventions collectives nationales prévues aux articles L. 123-1 et L. 123-2.
 
-L'union est composée :
+Elle évalue, coordonne et participe à la mise en oeuvre des politiques de
+formation du personnel. Elle assure le suivi de la gestion prévisionnelle de
+l'emploi, des effectifs, de la masse salariale et des politiques de recrutement
+du régime général. Elle promeut la sécurité et la santé au travail.
 
--d'une part, des représentants des assurés sociaux désignés par les
-organisations syndicales nationales de salariés représentatives au sens de
-l'article L. 133-2 du code du travail, et en nombre égal des représentants
-d'employeurs désignés par des organisations professionnelles nationales
-d'employeurs représentatives ;
-
--et, d'autre part, du président et du vice-président des caisses nationales et
-de l'agence centrale des organismes de sécurité sociale qui ne peuvent
-appartenir au même collège.
+Elle peut se voir confier par l'Etat, les caisses nationales du régime général
+ou l'Agence centrale des organismes de sécurité sociale des missions sur les
+questions relatives aux conditions de travail du personnel des organismes de
+sécurité sociale, ou sur tout sujet de fonctionnement des organismes d'intérêt
+commun, notamment pour les opérations immobilières. Elle peut également passer
+convention avec les caisses nationales des autres régimes de sécurité sociale
+pour la réalisation de travaux portant sur des sujets d'intérêt commun,
+notamment pour les opérations immobilières.

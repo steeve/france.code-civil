@@ -16,7 +16,7 @@ de ces navires.
 
 Ce versement est garanti par le même privilège que les salaires des gens de mer.
 
-Les droits correspondant auxdits versements se prescrivent par cinq ans, à dater
+Les droits correspondant audits versements se prescrivent par cinq ans, à dater
 du désarmement administratif du bâtiment.
 
 II. - Tous les services non embarqués accomplis par des marins et qui sont de
@@ -28,7 +28,8 @@ versement prévu au I.
 III. - Les périodes de perception d'une indemnité journalière sur la Caisse
 générale de prévoyance des marins français en cas d'accident, de maladie
 résultant d'un risque professionnel, d'accident non professionnel, de maladie ou
-de maternité donnent lieu, de la part des bénéficiaires, au versement de la
+de maternité ou de congé de paternité prévu par l'article L. 122-25-4 du code du
+travail donnent lieu, de la part des bénéficiaires, au versement de la
 cotisation personnelle assise sur le montant de cette indemnité.
 
 IV. - Les services à l'Etat ainsi que les périodes visées aux 9° et 12° de

@@ -43,8 +43,8 @@ conditions prévues à l'article L. 212-15-3 du code du travail, est compatible
 avec les limites définies au I de l'article 19 de la loi n° 2000-37 du 19
 janvier 2000 précitée.
 
-Il est majoré dans les zones de revitalisation rurale mentionnées à l'article L.
-322-13 du code du travail.
+Il est majoré dans les zones de revitalisation rurale et de redynamisation
+urbaine mentionnées à l'article L. 322-13 du code du travail.
 
 Le montant de cet allégement est calculé chaque mois civil, pour chaque salarié,
 en fonction décroissante de la rémunération et dans la limite d'un minimum,
@@ -54,6 +54,14 @@ travail et sous réserve du respect de ces dispositions, le calcul de
 l'allégement peut être adapté pour tenir compte de la rémunération mensuelle
 minimale, dans des conditions et selon des modalités fixées par décret en
 Conseil d'Etat.
+
+Dans les entreprises de transport routier où la durée des temps de service des
+personnels de conduite marchandises "grands routiers" ou "longue distance" ainsi
+que des personnels "courte distance" est fixée conformément aux dispositions de
+l'article 19 de la loi n° 2000-37 du 19 janvier 2000 précitée au plus soit à
+trente-cinq heures hebdomadaires, soit à 1 600 heures sur l'année, le montant de
+l'allégement auquel ouvrent droit les salariés dont la durée du travail est
+fixée dans ces limites est majoré d'un montant fixé par décret.
 
 Dans les entreprises où la durée du travail est fixée conformément aux
 dispositions de l'article 19 de la loi n° 2000-37 du 19 janvier 2000 précitée et

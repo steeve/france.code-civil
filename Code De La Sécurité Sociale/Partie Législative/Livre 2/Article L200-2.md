@@ -21,7 +21,8 @@ par la Caisse nationale des allocations familiales.
 Les ressources du régime général sont collectées et centralisées par les
 organismes chargés du recouvrement.
 
-Une union des caisses nationales peut se voir confier par ces caisses les tâches
+L'Union des caisses nationales de sécurité sociale exerce pour le compte de ces
+caisses et de l'Agence centrale des organismes de sécurité sociale des tâches
 qui leur sont communes.
 
 La gestion commune de trésorerie des différentes branches relevant des caisses

@@ -1,7 +1,7 @@
 Article L122-3
 ----
 En aucun cas un contrat de travail à durée déterminée ne peut être conclu
-[*interdiction*] :
+*interdiction* :
 
 1° Pour remplacer un salarié dont le contrat de travail est suspendu par suite
 d'un conflit collectif de travail ;

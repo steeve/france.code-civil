@@ -1,10 +1,10 @@
 Article L138-10
 ----
 Lorsque le chiffre d'affaires hors taxes réalisé en France, au cours de l'année
-civile, au titre des médicaments inscrits sur la liste mentionnée à l'article L.
-162-17, à l'exception des médicaments orphelins désignés comme tels en
-application des dispositions du règlement (CE) n° 141/2000 précité par
-l'ensemble des entreprises assurant l'exploitation d'une ou plusieurs
+civile, au titre des médicaments inscrits sur la liste mentionnée au premier
+alinéa de l'article L. 162-17, à l'exception des médicaments orphelins désignés
+comme tels en application des dispositions du règlement (CE) n° 141/2000 précité
+par l'ensemble des entreprises assurant l'exploitation d'une ou plusieurs
 spécialités pharmaceutiques au sens de l'article L. 596 du code de la santé
 publique et n'ayant pas passé convention avec le Comité économique des produits
 de santé, dans les conditions mentionnées au troisième alinéa ci-après, s'est
