@@ -10,7 +10,7 @@ b. Contribution des responsables d'accidents non assurés :
 
 Taux normal : 10% des indemnités restant à leur charge ;
 
-Taux réduit : 5% c. Contribution des assurés : 1,40% des primes.
+Taux réduit : 5% c. Contribution des assurés : 1,90% [*pourcentage*] des primes.
 
 2. La contribution des assurés est perçue sur les primes émises postérieurement
 au 30 septembre 1952, nettes d'annulation.
