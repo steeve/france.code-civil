@@ -11,3 +11,9 @@ création.
 II. Les entreprises ne peuvent bénéficier de cette exonération qu'à la condition
 de déclarer leurs acquisitions au service des impôts de la situation des biens
 dans les quinze jours de la signature de l'acte.
+
+III. Lorsque les conditions requises pour bénéficier de l'exonération prévue à
+l'article 1383 B et celles prévues au présent article sont remplies, le
+contribuable doit opter pour l'un ou l'autre de ces deux régimes avant le 1er
+janvier de l'année au titre de laquelle l'exonération prend effet. L'option est
+irrévocable.
