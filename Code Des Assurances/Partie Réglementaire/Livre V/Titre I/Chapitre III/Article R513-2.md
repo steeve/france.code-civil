@@ -14,8 +14,9 @@ professionnel ;
 b) Soit de l'exercice à temps complet pendant six mois au moins de fonctions
 relatives à la production ou à l'application de contrats d'assurances, dans les
 services intérieurs ou extérieurs d'une entreprise mentionnée à l'article L.
-310-1, d'un courtier ou d'une société de courtage d'assurances, d'un agent
-général d'assurances, ainsi que de l'application d'un stage professionnel ;
+310-1, d'un courtier ou d'une société de courtage d'assurances, d'une personne
+physique ou société titulaire d'un mandat d'agent général d'assurances, ainsi
+que de l'application d'un stage professionnel ;
 
 c) Soit de l'accomplissement d'un stage professionnel. Dans ce cas, il est
 vérifié au début du stage que les candidats ont un niveau suffisant de
