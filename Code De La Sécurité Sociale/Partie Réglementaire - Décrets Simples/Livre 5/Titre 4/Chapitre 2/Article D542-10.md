@@ -45,10 +45,10 @@ personnes au sens de l'article L. 542-1.
 
 Cet abattement est fixé à :
 
-1 976 F pour les ménages sans enfants ou personnes à charge ;
+2 031 F pour les ménages sans enfants ou personnes à charge ;
 
-3 952 F pour les personnes seules ou les ménages assumant la charge d'un ou de
+4 062 F pour les personnes seules ou les ménages assumant la charge d'un ou de
 deux enfants ou personnes au sens de l'article L. 542-1 ;
 
-5 928 F pour les personnes seules ou les ménages assumant la charge d'au moins
+6 093 F pour les personnes seules ou les ménages assumant la charge d'au moins
 trois enfants ou personnes au sens de l'article L. 542-1.
