@@ -21,11 +21,10 @@ suivant celui au cours duquel il était exigible en vertu du 1, la majoration de
 non réglées.
 
 Lorsque la liquidation de l'impôt n'a pas été faite par la société ou que cette
-liquidation a été opérée d'après des bénéfices ou un résultat net définis à
-l'article 360, inférieurs à ceux qui ont été compris dans la déclaration
-souscrite en exécution du 1 de l'article 223 du code général des impôts, la
-majoration de 10 % est calculée en tenant compte des bénéfices ou du résultat
-net portés dans la déclaration susvisée.
+liquidation a été opérée d'après des bénéfices ou résultats, inférieurs à ceux
+qui ont été compris dans la déclaration souscrite en exécution du 1 de l'article
+223 du code général des impôts, la majoration de 10 % est calculée en tenant
+compte des bénéfices ou résultats portés dans la déclaration susvisée.
 
 4. Le recouvrement du solde de liquidation ou fraction du solde de liquidation
 et de la majoration de 10 % correspondante est poursuivi, le cas échéant, en

@@ -8,12 +8,12 @@ déclaré passible de l'impôt sur les sociétés au taux normal prévu au deuxi
 alinéa du I de l'article 219 du code précité ;
 
 1° bis : Le bénéfice constaté au titre d'un exercice s'entend du bénéfice fiscal
-déclaré qui a été soumis à l'impôt sur les sociétés au taux normal prévu au
-deuxième alinéa du I de l'article 219 du code général des impôts, à l'exclusion
-de la fraction de ce bénéfice qui a été distribuée, de celle qui a donné lieu à
-un impôt payé au moyen d'avoirs fiscaux ou de crédits d'impôt et de celle qui a
-été prise en compte pour la détermination du crédit d'impôt prévu aux articles
-220 quater et 220 quater A du même code ;
+déclaré qui a été soumis à l'impôt sur les sociétés indifféremment aux taux
+prévus au deuxième alinéa et au b du I de l'article 219 du code général des
+impôts, à l'exclusion de la fraction de ce bénéfice qui a été distribuée, de
+celle qui a donné lieu à un impôt payé au moyen d'avoirs fiscaux ou de crédits
+d'impôt et de celle qui a été prise en compte pour la détermination du crédit
+d'impôt prévu aux articles 220 quater et 220 quater A du même code ;
 
 2° La fraction non distribuée du bénéfice défini au 1° bis est obtenue en
 déduisant de ce bénéfice le montant des distributions effectuées par prélèvement
