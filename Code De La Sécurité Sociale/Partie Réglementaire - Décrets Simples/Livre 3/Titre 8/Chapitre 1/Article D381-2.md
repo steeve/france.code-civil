@@ -5,9 +5,9 @@ sécurité sociale, celui des conjoints ou concubins n'exerçant pas d'activité
 professionnelle qui remplit les conditions posées ci-après :
 
 1°) soit avoir à charge au moins un enfant de moins de trois ans et bénéficier
-de l'allocation pour jeune enfant, sous réserve que les ressources du ménage ne
-dépassent pas le plafond de ressources qui est retenu pour l'attribution de
-l'allocation de rentrée scolaire ;
+de l'allocation de base de la prestation d'accueil du jeune enfant, sous réserve
+que les ressources du ménage ne dépassent pas le plafond de ressources qui est
+retenu pour l'attribution de l'allocation de rentrée scolaire ;
 
 2°) soit avoir à charge au moins trois enfants et bénéficier du complément
 familial, sous réserve que les ressources du ménage n'excèdent pas le plafond de

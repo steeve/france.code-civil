@@ -10,7 +10,7 @@ de Strasbourg.
 
 L'immatriculation des personnes ayant la charge d'un enfant handicapé prend
 effet à compter du premier jour du trimestre civil suivant le mois au cours
-duquel l'assujetti remplit les conditions d'affiliation définies ci-dessus .
+duquel l'assujetti remplit les conditions d'affiliation définies ci-dessus.
 
 L'immatriculation des personnes assumant, au foyer familial, la charge d'un
 handicapé adulte prend effet à compter du premier jour du trimestre civil

@@ -1,6 +1,6 @@
 Article D542-10
 ----
-Sous réserve des dispositions des articles R. 531-11 à R. 531-14 et D. 542-11 et
+Sous réserve des dispositions des articles R. 532-4 à R. 532-8 et D. 542-11 et
 des alinéas suivants du présent article, les ressources prises en considération
 s'entendent du total des revenus nets catégoriels retenus pour l'établissement
 de l'impôt sur le revenu d'après le barème des revenus taxés à un taux
@@ -33,14 +33,13 @@ code général des impôts au titre des reports des déficits constatés au cour
 d'une année antérieure à celle qui est prise en considération.
 
 Lorsque les ressources de l'année de référence de l'allocataire ou de son
-conjoint ne proviennent pas d'une activité salariée [*non-salariée*] et que ces
-ressources ne sont pas connues au moment de la demande ou du réexamen des
-droits, il est tenu compte des dernières ressources connues et déterminées dans
-les conditions prévues aux alinéas précédents. Ces ressources sont revalorisées
-par application du taux d'évolution en moyenne annuelle de l'indice général des
-prix à la consommation des ménages [*indexation*] pour l'année civile de
-référence figurant dans le rapport économique et financier annexé au projet de
-loi de finances.
+conjoint ne proviennent pas d'une activité salariée et que ces ressources ne
+sont pas connues au moment de la demande ou du réexamen des droits, il est tenu
+compte des dernières ressources connues et déterminées dans les conditions
+prévues aux alinéas précédents. Ces ressources sont revalorisées par application
+du taux d'évolution en moyenne annuelle de l'indice général des prix à la
+consommation des ménages pour l'année civile de référence figurant dans le
+rapport économique et financier annexé au projet de loi de finances.
 
 Les ressources ci-dessus définies sont diminuées d'un abattement forfaitaire
 lorsque les deux conjoints ont exercé une activité professionnelle productrice
@@ -77,30 +76,30 @@ majoration fixée par le même arrêté.
 
 En cas d'accession à la propriété, lorsque le prêt est accordé postérieurement
 au 30 septembre 1992, si les ressources du bénéficiaire et de son conjoint,
-déterminées en application des alinéas précédents et des articles R. 531-14 et
-D. 542-11 sont inférieures à un montant égal à treize fois la mensualité de
-charges de prêt déclarées par l'allocataire, les ressources du bénéficiaire et
-de son conjoint sont réputées égales à ce montant sauf lorsqu'il y a lieu
-d'appliquer les dispositions des articles R. 531-11 à R. 531-13.
+déterminées en application des alinéas précédents et des articles R. 532-8 et D.
+542-11 sont inférieures à un montant égal à treize fois la mensualité de charges
+de prêt déclarées par l'allocataire, les ressources du bénéficiaire et de son
+conjoint sont réputées égales à ce montant sauf lorsqu'il y a lieu d'appliquer
+les dispositions des articles R. 532-4 à R. 532-7.
 
 A compter du 1er octobre 1994, pour les contrats de prêts signés postérieurement
 au 30 septembre 1994, si les ressources du bénéficiaire et de son conjoint
-appréciées au sens des alinéas 1 à 9 du présent article et des articles R.
-531-14 et D. 542-11 sont inférieures à un montant égal à treize fois la
-mensualité de charges de prêt déclarées par l'allocataire lorsque l'allocation
-est accordée en application du 1°, 3° ou 4° de l'article D. 542-24, celles-ci
-sont réputées égales à ce montant, sauf lorsque, postérieurement à la date de
-signature du contrat de prêt et pendant la période d'accession en cours, il y a
-lieu d'appliquer les dispositions des articles R. 531-11 à R. 531-13.
+appréciées au sens des alinéas 1 à 9 du présent article et des articles R. 532-8
+et D. 542-11 sont inférieures à un montant égal à treize fois la mensualité de
+charges de prêt déclarées par l'allocataire lorsque l'allocation est accordée en
+application du 1°, 3° ou 4° de l'article D. 542-24, celles-ci sont réputées
+égales à ce montant, sauf lorsque, postérieurement à la date de signature du
+contrat de prêt et pendant la période d'accession en cours, il y a lieu
+d'appliquer les dispositions des articles R. 532-4 à R. 532-7.
 
 Pour les contrats de prêts signés postérieurement au 30 septembre 1994, si les
 ressources du bénéficiaire et de son conjoint appréciées au sens des premier au
-neuvième alinéas du présent article et des articles R. 531-14, D. 542-11 et D.
+neuvième alinéas du présent article et des articles R. 532-8, D. 542-11 et D.
 542-12 sont inférieures à un montant forfaitaire lorsque l'allocation est
 accordée en application du 2° de l'article D. 542-24, celles-ci sont réputées
 égales à ce montant sauf lorsque, postérieurement à la date de signature du
 contrat de prêt et pendant la période d'accession en cours, il y a lieu
-d'appliquer les dispositions des articles R. 531-11 à R. 531-13.
+d'appliquer les dispositions des articles R. 532-4 à R. 532-7.
 
 Le montant forfaitaire visé à l'alinéa précédent est fixé par arrêté conjoint
 des ministres chargés de la sécurité sociale, du budget, de l'agriculture et du
