@@ -9,3 +9,16 @@ dans les quinze jours.
 
 La mise en demeure ne peut concerner que les périodes d'emploi comprises dans
 les cinq ans qui précèdent la date de son envoi.
+
+L'institution gestionnaire de l'allocation d'assurance transmet au directeur
+départemental du travail et de l'emploi copie de la contrainte signifiée à
+l'employeur défaillant, lorsque celle-ci est restée sans effet.
+
+Pour le recouvrement des contributions et des majorations de retard, si la mise
+en demeure reste sans effet, le directeur de l'organisme créancier peut délivrer
+une contrainte qui, à défaut d'opposition du débiteur devant le tribunal
+compétent, comporte tous les effets d'un jugement et confère notamment le
+bénéfice de l'hypothèque judiciaire.
+
+Les modalités d'application du présent article sont fixées par décret en Conseil
+d'Etat.

@@ -1,20 +1,16 @@
 Article L320
 ----
-L'embauche d'un salarié ne peut intervenir qu'après déclaration nominative
-effectuée par l'employeur auprès des organismes de protection sociale désignés à
-cet effet dans les conditions fixées par un décret en Conseil d'Etat.
+L'embauche d'un salarié ne peut intervenir qu'après déclaration [*préalable*]
+nominative effectuée par l'employeur auprès des organismes de protection sociale
+désignés à cet effet dans les conditions fixées par un décret en Conseil d'Etat.
 
-Cette déclaration ne constitue pas l'une des formalités visées au 2° de
-l'article L. 324-10.
+Cette déclaration, dont la mise en oeuvre sera progressivement étendue à
+l'ensemble des départements, est obligatoire à compter du 1er septembre 1993,
+selon des modalités prévues par décret en Conseil d'Etat.
 
-La mise en oeuvre de cette obligation se fera de manière progressive.
+A cette date, le non-respect de l'obligation de déclaration est sanctionné par
+les peines prévues par décret en Conseil d'Etat et constaté par les agents
+énumérés à l'article L. 324-12.
 
-Jusqu'au 31 décembre 1992, la mise en application de la disposition ci-dessus
-sera expérimentée dans le ressort de certaines unions pour le recouvrement des
-cotisations de sécurité sociale et d'allocations familiales, caisses primaires
-d'assurance maladie et caisses de mutualité sociale agricole déterminées dans
-les conditions fixées par décret en Conseil d'Etat.
-
-Le bilan de cette expérimentation sera présenté au Parlement au cours de la
-session précédant la fin de cette période, pour déterminer les modalités de sa
-généralisation.
+Un bilan de cette déclaration sera présenté au Parlement avant le 30 juin 1994
+pour déterminer d'éventuels aménagements.

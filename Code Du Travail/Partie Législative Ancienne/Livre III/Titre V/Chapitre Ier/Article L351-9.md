@@ -21,7 +21,7 @@ réclusion criminelle ;
 4° Certaines catégories de personnes en attente de réinsertion ou en instance de
 reclassement par application de l'article L. 122-32-1 du code du travail et se
 trouvant, du fait de circonstances indépendantes de leur volonté, dans une
-situation les excluant du bénéfice des allocations d'assurance.
+situation les excluant du bénéfice de l'allocation d'assurance.
 
 Le droit à l'allocation d'insertion est subordonné :
 
@@ -34,7 +34,7 @@ b) En ce qui concerne les personnes définies aux 2°, 3° et 4°, à une condit
 de ressources.
 
 Cette allocation est à la charge du fonds de solidarité créé par la loi n°
-82-939 du 4 novembre 1982 [*financement*].
+82-939 du 4 novembre 1982.
 
 Un décret en Conseil d'Etat détermine les mesures d'application du présent
 article, à l'exception des taux qui sont fixés par décret.

@@ -1,43 +1,19 @@
 Article L351-3
 ----
-Les allocations d'assurance sont attribuées aux travailleurs mentionnés à
-l'article L. 351-1 qui satisfont à des conditions d'âge et d'activité
-antérieure. Elles comprennent :
+L'allocation d'assurance est attribuée aux travailleurs mentionnés à l'article
+L. 351-1 qui satisfont à des conditions d'âge et d'activité antérieure.
 
-a) Une allocation de base ;
+Cette allocation est calculée soit en fonction de la rémunération antérieurement
+perçue dans la limite d'un plafond, soit en fonction de la rémunération ayant
+servi au calcul des contributions visées à l'article L. 351-3-1 ; elle ne peut
+excéder le montant net de la rémunération antérieurement perçue ; elle peut
+comporter un taux dégressif en fonction de l'âge des intéressés et de la durée
+de l'indemnisation.
 
-b) Une allocation de fin de droits.
+Elle est accordée pour des durées limitées compte tenu de l'âge des intéressés
+et de leurs conditions d'activité professionnelle antérieure. Ces durées ne
+peuvent être inférieures aux durées fixées par décret en Conseil d'Etat.
 
-L'allocation de base est calculée en fonction du salaire antérieurement perçu ;
-elle ne peut excéder le montant net de ce dernier ; elle peut comporter un taux
-dégressif en fonction de l'âge des intéressés et la durée de l'indemnisation.
-
-Les allocations d'assurance sont accordées pour des durées limitées compte tenu
-de l'âge des intéressés et de leurs références de travail. A l'expiration de ces
-durées, les droits des intéressés peuvent faire l'objet de prolongations
-résultant de mesures individuelles.
-
-Les durées maximales d'indemnisation ne peuvent être inférieures aux durées
-fixées par décret en Conseil d'Etat.
-
-Le temps consacré, avec l'accord de l'agence nationale pour l'emploi, à des
-actions de formation rémunérées s'impute partiellement sur la durée de service
-des allocations d'assurance.
-
-Les allocations d'assurance [*chômage*] sont financées par des contributions des
-employeurs et des salariés assises sur les rémunérations brutes dans la limite
-d'un plafond. Elles peuvent être également financées par des contributions
-forfaitaires à la charge des employeurs à l'occasion de la fin d'un contrat de
-travail dont la durée permet l'ouverture de droits aux allocations.
-
-Les contributions forfaitaires visées à l'alinéa précédent ne sont toutefois pas
-applicables :
-
-- aux contrats conclus en application des articles L. 115-1 et L. 322-4-7 et du
-chapitre Ier du titre VIII du livre IX ;
-
-- aux contrats conclus par une personne physique pour un service rendu à son
-domicile, ou pour l'emploi d'une assistante maternelle agréée.
-
-Les taux des contributions et allocations sont calculés de manière à garantir
-l'équilibre financier du régime.
+Le temps consacré, avec l'accord de l'Agence nationale pour l'emploi, à des
+actions de formation rémunérées s'impute partiellement ou totalement sur la
+durée de service de l'allocation d'assurance.

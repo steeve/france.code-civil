@@ -8,7 +8,13 @@ exercer l'une des tâches existant dans l'entreprise et après avis des délégu
 du personnel, un autre emploi approprié à ses capacités et aussi comparable que
 possible à l'emploi précédemment occupé, au besoin par la mise en oeuvre de
 mesures telles que mutations, transformations de postes ou aménagement du temps
-de travail.
+de travail. Si le salarié n'est pas reclassé dans l'entreprise à l'issue d'un
+délai d'un mois à compter de la date de l'examen de reprise du travail ou s'il
+n'est pas licencié, l'employeur est tenu de verser à l'intéressé, dès
+l'expiration de ce délai, le salaire correspondant à l'emploi que celui-ci
+occupait avant la suspension de son contrat de travail. Ces dispositions
+s'appliquent également en cas d'inaptitude à tout emploi dans l'entreprise
+constatée par le médecin du travail.
 
 S'il ne peut proposer un autre emploi, l'employeur est tenu [*condition de
 forme*] de faire connaître par écrit [*obligation*] les motifs qui s'opposent au
