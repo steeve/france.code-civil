@@ -27,7 +27,11 @@ second alinéa du 1 de l'article 6 pour la construction ou l'acquisition de
 logements neufs, le montant de 2 287 euros est porté à 4 573 euros. Il est
 augmenté de 305 euros par personne à charge au sens des articles 196 à 196 B. En
 outre, il est appliqué une majoration complémentaire de 76 euros pour le
-deuxième enfant et de 152 euros par enfant à partir du troisième.
+deuxième enfant et de 152 euros par enfant à partir du troisième. Les sommes de
+305 euros, 76 euros et 152 euros sont divisées par deux pour les enfants réputés
+à charge égale de l'un et l'autre des parents. Pour l'application de ces
+dispositions, les enfants réputés à charge égale de chacun des parents sont
+décomptés en premier (1).
 
 Pour les prêts contractés à compter du 18 septembre 1991 pour la construction ou
 l'acquisition de logements neufs, le montant des intérêts à prendre en compte

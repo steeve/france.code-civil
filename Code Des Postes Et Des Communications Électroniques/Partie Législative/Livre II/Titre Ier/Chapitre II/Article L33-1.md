@@ -88,6 +88,14 @@ doivent être conformes à des clauses types dont il détermine le contenu. Les
 dispositions du projet de décret relatives à la clause mentionnée au m sont
 soumises pour avis au Conseil de la concurrence.
 
+B. - Pour les services de communication électronique utilisant des antennes
+paraboliques bidirectionnelles d'une puissance de transmission inférieure ou
+égale à 2 watts, les redevances de mise à disposition et de gestion des
+fréquences radioélectriques dues par les exploitants de réseaux de
+télécommunications par satellite ouverts au public sont établies respectivement
+sur une base forfaitaire métropolitaine ou régionale, par décret pris après avis
+de l'Autorité de régulation des télécommunications.
+
 II. - Les opérateurs réalisant un chiffre d'affaires annuel sur le marché des
 télécommunications supérieur à un seuil fixé par arrêté des ministres chargés
 des télécommunications et de l'économie sont tenus d'individualiser sur le plan

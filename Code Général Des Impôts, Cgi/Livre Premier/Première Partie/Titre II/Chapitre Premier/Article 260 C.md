@@ -48,6 +48,9 @@ obligataires (4).
 
 13° Abrogé.
 
+14° Aux opérations portant sur les produits de capitalisation relevant du code
+des assurances.
+
 (1) Annexe IV, art. 23 O.
 
 (2) Voir l'article 23 P de l'annexe IV.

@@ -10,12 +10,13 @@ capital en cas de vie et sont d'une durée effective au moins égale à six ans,
 bien comportent la garantie d'une rente viagère avec jouissance effectivement
 différée d'au moins six ans, quelle que soit la date de la souscription. Ces
 primes ouvrent droit à réduction d'impôt dans la limite de 610 euros, majorée de
-150 euros par enfant à charge ; ces limites s'appliquent à l'ensemble des
-contrats souscrits par les membres d'un même foyer fiscal.
+150 euros par enfant à charge et de 75 euros lorsque l'enfant est réputé à
+charge égale de l'un et l'autre de ses parents (1) ; ces limites s'appliquent à
+l'ensemble des contrats souscrits par les membres d'un même foyer fiscal.
 
 A compter de l'imposition de 1984, la réduction d'impôt est calculée sur la
 fraction de la prime représentative de l'opération d'épargne. Un décret fixe les
-modalités de détermination de cette fraction de prime (1) ;
+modalités de détermination de cette fraction de prime ;
 
 La réduction d'impôt ne s'applique ni aux primes payées à compter du 20
 septembre 1995 au titre des contrats à versements libres ni aux primes payées au
@@ -38,14 +39,14 @@ Primes définies aux premier et deuxième alinéas du 1°, lorsqu'elles sont
 afférentes à des contrats destinés à garantir le versement d'un capital ou d'une
 rente viagère à l'assuré atteint, lors de la conclusion du contrat, d'une
 infirmité qui l'empêche de se livrer, dans des conditions normales de
-rentabilité, à une activité professionnelle (2).
+rentabilité, à une activité professionnelle.
 
 Les conditions d'application de ces dispositions sont, en tant que de besoin,
 fixées par décret. Ces primes ouvrent droit à réduction d'impôt dans la limite
-de 1 070 euros, majorée de 230 euros par enfant à charge ; ces limites
-s'appliquent à l'ensemble des contrats souscrits par les membres d'un même foyer
-fiscal ;
+de 1 070 euros, majorée de 230 euros par enfant à charge et de 115 euros lorsque
+l'enfant est réputé à charge égale de l'un et l'autre de ses parents (1) ; ces
+limites s'appliquent à l'ensemble des contrats souscrits par les membres d'un
+même foyer fiscal ;
 
 3° Un arrêté du ministre de l'économie et des finances définit les
-justifications auxquelles est subordonné le bénéfice de la réduction d'impôt
-(3).
+justifications auxquelles est subordonné le bénéfice de la réduction d'impôt.

@@ -1,7 +1,9 @@
 Article 575 H
 ----
-Nul, autre que les fournisseurs dans les entrepôts et les débitants dans les
-points de vente ou les personnes désignées au 3 de l'article 565, les
-acheteurs-revendeurs mentionnés au troisième alinéa de l'article 568, dans leurs
-entrepôts, leurs locaux commerciaux ou à bord des moyens de transport, ne peut
-détenir plus de 10 kilogrammes de tabacs manufacturés.
+A l'exception des fournisseurs dans les entrepôts, des débitants dans les points
+de vente, des personnes désignées au 3 de l'article 565, des
+acheteurs-revendeurs mentionnés au troisième alinéa de l'article 568 ou, dans
+des quantités fixées par arrêté du ministre chargé du budget, des revendeurs
+mentionnés au premier alinéa dudit article, nul ne peut détenir dans des
+entrepôts, des locaux commerciaux ou à bord des moyens de transports plus de 10
+kilogrammes de tabacs manufacturés.

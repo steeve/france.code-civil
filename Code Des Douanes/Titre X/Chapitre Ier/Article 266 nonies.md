@@ -8,12 +8,20 @@ tonne, la quotité est en euros.
 Déchets.
 
 Déchets réceptionnés dans une installation de stockage de déchets ménagers et
-assimilés, 9,15.
+assimilés non autorisée au titre du titre Ier du livre V du code de
+l'environnement pour ladite réception, 18,29.
 
 Déchets réceptionnés dans une installation de stockage de déchets ménagers et
-assimilés de provenance extérieure au périmètre du plan d'élimination des
-déchets, élaboré en vertu de l'article L. 541-14 du code de l'environnement,
-dans lequel est située l'installation de stockage, 13,72.
+assimilés autorisée au titre du titre Ier du livre V du code de l'environnement
+pour ladite réception :
+
+- ayant fait l'objet d'un enregistrement dans le cadre du système communautaire
+de management environnemental et d'audit (EMAS) défini par le règlement (CE) n°
+761/2001 du Parlement européen et du Conseil, du 19 mars 2001, ou dont le
+système de management environnemental a été certifié conforme à la norme
+internationale ISO 14001 par un organisme accrédité, 7,5.
+
+- autre, 9,15.
 
 Déchets industriels spéciaux réceptionnés dans une installation d'élimination de
 déchets industriels spéciaux, 9,15.
@@ -37,11 +45,9 @@ Hydrocarbures non méthaniques, solvants et autres composés organiques volatils
 
 Décollage d'aéronefs.
 
-Aérodromes du groupe 1, 10,37.
+Aérodromes du groupe 1, 22.
 
-Aérodromes du groupe 2, 3,81.
-
-Aérodromes du groupe 3, 0,76.
+Aérodromes du groupe 2, 8.
 
 Lubrifiants, huiles et préparations lubrifiantes dont l'utilisation génère des
 huiles usagées.
@@ -97,22 +103,18 @@ par installation.
 stockage de déchets industriels spéciaux ne s'applique pas aux résidus de
 traitement des installations d'élimination de déchets assujetties à la taxe.
 
-La majoration applicable aux déchets réceptionnés dans une installation de
-stockage des déchets ménagers et assimilés de provenance extérieure au périmètre
-du plan d'élimination des déchets, élaboré en vertu de l'article L. 541-14 du
-code de l'environnement, dans lequel est située l'installation de stockage ne
-s'applique pas aux déchets dont le transfert entre le site de regroupement et le
-site de traitement final est effectué par voie ferroviaire ou par voie fluviale,
-sous réserve que la desserte routière terminale, lorsqu'elle est nécessaire,
-n'excède pas 20 % du kilométrage de l'itinéraire global. L'autorité
-administrative compétente est chargée d'accorder l'exonération de cette
-majoration au vu des documents fournis par le transporteur.
+3 bis. Les déchets réceptionnés dans une installation de stockage de déchets
+ménagers et assimilés, autorisée au titre du titre Ier du livre V du code de
+l'environnement pour ladite réception, après la date limite d'exploitation
+figurant dans l'arrêté préfectoral d'autorisation, sont taxés au taux
+correspondant aux déchets réceptionnés dans les installations non autorisées au
+titre du titre Ier du livre V du même code.
 
 4. Le poids des oxydes d'azote et autres composés oxygénés de l'azote est
 exprimé en équivalent dioxyde d'azote hormis pour le protoxyde d'azote.
 
 5. Les aérodromes où la taxe générale sur les activités polluantes est perçue en
-application du 3 de l'article 266 septies sont répartis dans les trois groupes
+application du 3 de l'article 266 septies sont répartis dans les deux groupes
 affectés d'un taux unitaire spécifique mentionnés dans le tableau ci-dessus en
 fonction de la gêne sonore réelle subie par les riverains, telle qu'elle est
 constatée dans les plans de gêne sonore prévus à l'article L. 571-15 du code de

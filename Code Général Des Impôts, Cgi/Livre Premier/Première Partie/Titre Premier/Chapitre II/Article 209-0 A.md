@@ -46,9 +46,10 @@ qui font l'objet d'un réméré ne sont pas pris en compte au numérateur du rap
 ;
 
 b. les titres dont la valeur est retenue pour le calcul de la proportion
-mentionnée au a sont rémunérés par des dividendes ouvrant droit à l'avoir
-fiscal. Les produits des titres définis à la phrase précédente sont constitués
-directement par ces dividendes et par les plus-values résultant de leur cession.
+mentionnée au a sont rémunérés par des distributions prélevées sur les
+bénéfices. Les produits des titres définis à la phrase précédente sont
+constitués directement par ces bénéfices distribués et par les plus-values
+résultant de leur cession.
 
 Les entreprises régies par le code des assurances qui détiennent, à la clôture
 du premier exercice d'application du présent article, des titres d'organismes de

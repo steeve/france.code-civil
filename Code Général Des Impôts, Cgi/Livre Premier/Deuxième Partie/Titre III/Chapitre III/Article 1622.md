@@ -29,11 +29,18 @@ limite d'un plafond annuel de 24 millions d'euros.
 
 Le recouvrement de ces contributions forfaitaires est effectué auprès des
 organismes assureurs par l'Etat. Les organismes concernés effectuent avant le 30
-juin de chaque année la déclaration du nombre des personnes assurées. Ces
-organismes acquittent avant le 30 octobre le montant des contributions. Le
-régime d'obligations de paiement et de pénalités est identique à celui appliqué
-à la taxe sur les conventions d'assurances visé à l'article 1708.
+juin de chaque année la déclaration du nombre de personnes assurées. Ces
+organismes acquittent, au vu d'une déclaration conforme au modèle prescrit par
+l'administration, auprès du service des impôts chargé du recouvrement dont
+relève leur siège social :
 
-Un décret prévoit les modalités de déclaration auxquelles sont astreints les
-organismes assureurs et les mesures nécessaires à l'application du présent
-article (1).
+1° Au plus tard les 20 avril et 20 juillet, deux acomptes correspondant chacun à
+40 % de la contribution de l'année précédente ;
+
+2° Au plus tard le 30 octobre, le solde résultant de la différence entre le
+montant total de la contribution due au titre de l'année en cours et les deux
+acomptes précédemment versés.
+
+Les modalités de déclaration auxquelles sont astreints les organismes assureurs
+et les mesures nécessaires à l'application du présent article sont fixées par
+décret.

@@ -3,7 +3,7 @@ Article L151-1
 Le champ d'application de la taxe générale sur les activités polluantes est fixé
 par l'article 266 sexies du code des douanes ci-après reproduit :
 
-"Art. 266 sexies. - I. - Il est institué une taxe générale sur les activités
+"Art. 266 sexies - I. - Il est institué une taxe générale sur les activités
 polluantes qui est due par les personnes physiques ou morales suivantes :
 
 1. Tout exploitant d'une installation de stockage de déchets ménagers et
@@ -36,8 +36,8 @@ qui livre sur le marché intérieur après achat, importation ou fabrication dan
 un autre Etat membre de la Communauté européenne ou qui met à la consommation
 des préparations pour lessives, y compris des préparations auxiliaires de
 lavage, ou des produits adoucissants ou assouplissants pour le linge relevant
-respectivement au a du 4 et des rubriques 34022090, 34029090 et 38091010 à
-38099100 du tarif douanier ;
+respectivement des rubriques 34022090, 34029090 et 38091010 à 38099100 du tarif
+douanier ;
 
 6. a) Toute personne qui livre pour la première fois après fabrication nationale
 ou qui livre sur le marché intérieur après achat, importation ou fabrication
@@ -75,7 +75,8 @@ leur volume, des risques particuliers à l'environnement.
 II. - La taxe ne s'applique pas :
 
 1. Aux installations d'élimination de déchets industriels spéciaux exclusivement
-affectées à la valorisation comme matière ;
+affectées à la valorisation comme matière ni aux installations d'élimination de
+déchets exclusivement affectées à l'amiante-ciment ;
 
 2. a. Aux aéronefs de masse maximale au décollage inférieure à 2 tonnes ;
 
@@ -89,10 +90,18 @@ de silicium ;
 4. Aux lubrifiants, aux préparations pour lessives, y compris les préparations
 auxiliaires de lavage, aux produits adoucissants ou assouplissants pour le
 linge, aux matériaux d'extraction, aux produits antiparasitaires à usage
-agricole ou aux produits assimilés mentionnés au a du 4 et aux 5, 6 et 7 du I du
-présent article lorsque la première livraison après fabrication nationale
-consiste en une expédition directe à destination d'un Etat membre de la
-Communauté européenne ou en une exportation ;
+agricole ou aux produits assimilés mentionnés respectivement au a du 4 et aux 5,
+6 et 7 du I du présent article lorsque la première livraison après fabrication
+nationale consiste en une expédition directe à destination d'un Etat membre de
+la Communauté européenne ou en une exportation ;
 
 5. A l'exploitation d'installations classées par les entreprises inscrites au
-répertoire des métiers."
+répertoire des métiers.
+
+III - Sont exonérées de la taxe mentionnée au I, dans la limite de 20 % de la
+quantité annuelle totale de déchets reçus par installation, les réceptions de
+matériaux ou déchets inertes. Sont considérés comme déchets inertes les déchets
+qui ne se décomposent pas, ne brûlent pas et ne produisent aucune autre réaction
+physique ou chimique, ne sont pas biodégradables et ne détériorent pas d'autres
+matières avec lesquels ils entrent en contact, d'une manière susceptible
+d'entraîner une pollution de l'environnement ou de nuire à la santé humaine."

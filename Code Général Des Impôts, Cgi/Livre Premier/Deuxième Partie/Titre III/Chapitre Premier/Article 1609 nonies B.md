@@ -19,17 +19,7 @@ dans l'ensemble des communes membres.
 
 III. (Abrogé).
 
-IV. Lorsqu'ils peuvent être perçus par des établissements publics de coopération
-intercommunale, les autres droits et taxes mentionnés au III de l'article 1379
-peuvent être transférés à la communauté ou au syndicat d'agglomération nouvelle,
-par délibérations concordantes de toutes les communes membres.
-
-Le transfert de ces droits et taxes à la communauté ou au syndicat
-d'agglomération nouvelle s'accompagne des obligations liées à leur perception.
-
-En cas de dénonciation de l'accord par une des communes membres, la perception
-de ces droits et taxes par la communauté ou le syndicat d'agglomération nouvelle
-prend fin sur le territoire de cette commune.
+IV. (Abrogé).
 
 V. En cas de rattachement à une communauté ou à un syndicat d'agglomération
 nouvelle, les dispositions des I et II de l'article 1638 quater sont
