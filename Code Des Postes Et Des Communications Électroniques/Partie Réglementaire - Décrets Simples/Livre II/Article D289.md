@@ -1,12 +1,12 @@
 Article D289
 ----
-Pour la taxation des communications, le réseau téléphonique est organisé en
-circonscriptions tarifaires.
+Pour la détermination du prix des communications téléphoniques, le réseau public
+est organisé en circonscriptions tarifaires.
 
-La composition et le chef-lieu de chaque circonscription tarifaire sont fixés
-par arrêté.
-
-La circonscription tarifaire est constituée de [*définition*] l'ensemble des
-postes téléphoniques rattachés à un ou plusieurs centres téléphoniques qui en
-assurent la desserte. Chacun de ces postes ne peut appartenir qu'à une seule
-circonscription tarifaire. Un des centres téléphoniques est érigé en chef-lieu.
+L'étendue et le chef-lieu de chaque circonscription tarifaire sont définis par
+l'exploitant et transmis pour homologation au ministre chargé des communications
+électroniques et au ministre chargé de l'économie, conformément à l'article 33
+du cahier des charges de France Télécom. Il en est de même pour toute
+modification de la circonscription tarifaire. A défaut de décision notifiée dans
+le délai d'un mois suivant cette transmission, l'homologation est réputée
+acquise.
