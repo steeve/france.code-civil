@@ -1,16 +1,22 @@
 Article R5178
 ----
-Les substances inscrites au tableau C et leurs dilutions, à l'exception des
-médicaments spécialisés, doivent être conservées dans un endroit où n'ont pas
-accès les personnes étrangères à l'établissement.
+Les personnes titulaires de l'autorisation prévue à l'article R. 5171 sont
+tenues de dresser un état annuel indiquant [*mentions obligatoires*] pour chaque
+stupéfiant :
 
-Les récipients contenant lesdites substances doivent comporter le nom des
-substances tel qu'il figure au tableau C.
+1° Les quantités reçues ;
 
-Cette inscription doit être faite en caractères noirs très apparents sur une
-étiquette verte [*couleur*] fixée de telle sorte qu'elle ne puisse pas être
-involontairement détachée.
+2° Les quantités utilisées pour la fabrication ou la transformation, en
+indiquant la nature et la quantité des produits obtenus ;
 
-Elle doit être accompagnée de la mention "DANGEREUX" inscrite en caractères
-noirs très apparents sur une bande de couleur verte, faisant le tour de
-l'enveloppe ou du récipient.
+3° Les quantités cédées ;
+
+4° Les stocks en fin d'année, y compris les stocks de produits en cours de
+transformation.
+
+Cet état, qui couvre l'année civile écoulée, est adressé au ministre chargé de
+la santé [*autorité compétente*] au plus tard le 15 février [*date limite*].
+
+L'autorisation prévue à l'article R. 5171 peut imposer à son titulaire
+l'établissement et la production au cours de chaque année civile de plusieurs
+états récapitulatifs.
