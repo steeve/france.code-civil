@@ -1,6 +1,8 @@
 Article L232-8
 ----
-Les dispositions de l'article L. 232-7 sont applicables aux syndicats
-interhospitaliers sous réserve des dispositions des articles L. 713-5 à L. 713-7
-du code de la santé publique concernant les modalités de création,
-d'organisation et d'activité de ces établissements.
+La chambre régionale des comptes, dans le ressort de laquelle est situé le siège
+du Centre national de la fonction publique territoriale, exerce le contrôle des
+actes budgétaires de cet établissement, mis en oeuvre par le représentant de
+l'Etat dans le département où est situé ce siège, dans les conditions prévues
+aux articles L. 1612-1 à L. 1612-16 et L. 1612-18 du code général des
+collectivités territoriales.
