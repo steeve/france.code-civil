@@ -5,7 +5,7 @@ l'ordre judiciaire.
 
 La commission comprend également :
 
-1° Le maire ou l'un des conseillers municipaux désigné par lui ;
+1° Le maire et un conseiller municipal désigné par le conseil municipal ;
 
 2° Trois exploitants, propriétaires ou preneurs en place exerçant sur le
 territoire de la commune ou, à défaut, sur le territoire d'une commune
@@ -14,12 +14,16 @@ limitrophe ainsi que deux suppléants, désignés par la chambre d'agriculture ;
 3° Trois propriétaires de biens fonciers non bâtis dans la commune ainsi que
 deux propriétaires suppléants, élus par le conseil municipal ;
 
-4° Une personne qualifiée en matière de protection de la nature désignée par le
-préfet ;
+4° Trois personnes qualifiées en matière de faune, de flore et de protection de
+la nature et des paysages, désignées par le préfet, dont une sur proposition du
+président de la chambre d'agriculture ;
 
 5° Deux fonctionnaires désignés par le préfet ;
 
-6° Un délégué du directeur des services fiscaux.
+6° Un délégué du directeur des services fiscaux ;
+
+7° Un représentant du président du conseil général désigné par le président de
+cette assemblée.
 
 A défaut de désignation des exploitants par la chambre d'agriculture ou
 d'élection des propriétaires par le conseil municipal, dans un délai de trois

@@ -10,5 +10,10 @@ peut présenter aux collectivités publiques toutes suggestions en rapport avec 
 mission. Il peut notamment proposer les mesures propres à éviter toute
 construction des terrains contigus au domaine public maritime.
 
+Son intervention peut être étendue par décret en Conseil d'Etat à des secteurs
+géographiques limitrophes des cantons et communes mentionnés à l'alinéa
+précédent et constituant avec eux une unité écologique ou paysagère dont la
+majorité de la surface est située dans les limites desdits cantons et communes.
+
 Cet établissement est appelé "Conservatoire de l'espace littoral et des rivages
 lacustres".
