@@ -8,8 +8,8 @@ salariés.
 
 Il est également constitué des comités d'entreprise dans les exploitations,
 entreprises et établissements agricoles et assimilés et dans les organismes
-professionnels agricoles de quelque nature qu'ils soient, mentionnés aux
-articles 1060 (4, 6 et 7) 1144 (1er alinéa), 1149 et 1152 du Code rural.
+professionnels agricoles de quelque nature qu'ils soient, employant les salariés
+définis à l'article 1144 (1. à 7., 9. et 10.) du code rural.
 
 Dans les entreprises employant moins de cinquante salariés, des arrêtés du
 ministre chargé du travail, du ministre chargé de l'industrie et des autres
