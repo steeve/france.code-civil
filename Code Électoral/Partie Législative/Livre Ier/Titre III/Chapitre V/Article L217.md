@@ -1,4 +1,4 @@
 Article L217
 ----
-Un règlement d'administration publique détermine les conditions d'application
-des articles du présent chapitre.
+Un décret en Conseil d'Etat détermine les conditions d'application des articles
+du présent chapitre.

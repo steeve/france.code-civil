@@ -7,7 +7,6 @@ d'incapacité d'au moins 50 %, ainsi qu'en faveur des anciens combattants
 domiciliés en Algérie, dans les départements d'outre-mer et dans les pays
 d'outre-mer au sens du présent code.
 
-Un règlement d'administration publique prévoira les modalités d'attribution de
-la retraite du combattant aux titulaires étrangers de la carte du combattant
-résidant en France, ainsi qu'aux titulaires de la carte du combattant résidant à
-l'étranger.
+Un décret en Conseil d'Etat prévoira les modalités d'attribution de la retraite
+du combattant aux titulaires étrangers de la carte du combattant résidant en
+France, ainsi qu'aux titulaires de la carte du combattant résidant à l'étranger.

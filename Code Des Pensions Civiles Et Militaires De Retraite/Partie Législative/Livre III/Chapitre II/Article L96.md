@@ -9,5 +9,5 @@ Les dispositions de l'article L. 56 ne sont pas opposables à ces établissement
 pour le remboursement des avances ainsi faites.
 
 Le mode suivant lequel le Trésor couvre la caisse nationale d'épargne et les
-caisses de crédit municipal de leurs avances est déterminé par règlement
-d'administration publique.
+caisses de crédit municipal de leurs avances est déterminé par décret en Conseil
+d'Etat.

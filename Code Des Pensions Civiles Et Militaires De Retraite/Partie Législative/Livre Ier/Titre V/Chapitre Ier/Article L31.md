@@ -3,7 +3,7 @@ Article L31
 La réalité des infirmités invoquées, la preuve de leur imputabilité au service,
 le taux d'invalidité qu'elles entraînent, l'incapacité permanente à l'exercice
 des fonctions sont appréciés par une commission de réforme selon des modalités
-qui sont fixées par un règlement d'administration publique.
+qui sont fixées par un décret en Conseil d'Etat.
 
 Le pouvoir de décision appartient, dans tous les cas, au ministre dont relève
 l'agent et au ministre des finances.
