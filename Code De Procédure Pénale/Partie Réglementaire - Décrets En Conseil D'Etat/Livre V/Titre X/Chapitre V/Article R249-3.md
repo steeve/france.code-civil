@@ -19,3 +19,8 @@ exposés, conformément aux distinctions prévues par l'article R. 249-2. Elle e
 accompagnée des pièces justificatives des frais exposés, comprenant notamment
 une attestation de l'avocat indiquant soit le montant de ses honoraires, soit le
 fait que ceux-ci ont dépassé le montant prévu au premier alinéa du même article.
+Lorsque l'indemnité demandée porte également sur les frais prévus par le dernier
+alinéa de l'article R. 249-2, figure en outre parmi les pièces justificatives
+une attestation du bénéficiaire provisoire indiquant soit le montant de sa
+rémunération, soit que celle-ci était supérieure aux montants prévus au dernier
+alinéa de cet article.

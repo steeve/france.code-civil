@@ -1,9 +1,8 @@
 Article R140
 ----
 Il est accordé aux jurés, pendant la durée de la session, une indemnité
-journalière déterminée par la formule suivante :
-
-I = 40 + (S x 8), dans laquelle :
+journalière déterminée par la formule suivante : I = 6 + (S x 8), dans laquelle
+:
 
 I est le montant de l'indemnité forfaitaire exprimé en euros ;
 

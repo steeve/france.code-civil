@@ -5,7 +5,7 @@ soit devant les cours et tribunaux statuant en matière criminelle,
 correctionnelle ou de police reçoivent une indemnité de comparution déterminée
 par la formule suivante :
 
-I = 10 + (S x 4) dans laquelle :
+I = 1,5 + (S x 4) dans laquelle :
 
 I est le montant de l'indemnité forfaitaire exprimée en euros ;
 

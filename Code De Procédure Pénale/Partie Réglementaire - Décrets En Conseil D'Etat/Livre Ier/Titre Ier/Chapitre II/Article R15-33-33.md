@@ -3,12 +3,21 @@ Article R15-33-33
 Le Médiateur ou le délégué du procureur de la République doit satisfaire aux
 conditions suivantes :
 
-1° Ne pas exercer d'activités judiciaires à titre professionnel ;
+1° Ne pas exercer de fonctions judiciaires ou participer au fonctionnement du
+service de la justice ou être investi d'un mandat électif dans le ressort de la
+cour d'appel ;
 
 2° Ne pas avoir fait l'objet d'une condamnation, incapacité ou déchéance
 mentionnée sur le bulletin n° 2 du casier judiciaire ;
 
-3° Présenter des garanties de compétence, d'indépendance et d'impartialité.
+3° Présenter des garanties de compétence, d'indépendance et d'impartialité ;
+
+4° Ne pas être âgé de plus de 75 ans ;
+
+5° Sauf dispense accordée par le garde des sceaux, ministre de la justice, ne
+pas être conjoint, concubin, parent ou allié jusqu'au degré d'oncle ou de neveu
+inclusivement d'un magistrat ou d'un fonctionnaire de la juridiction ou lié avec
+l'un d'entre eux par un pacte civil de solidarité.
 
 Le Médiateur ou le délégué du procureur de la République appelé à se voir
 confier des missions concernant des mineurs doit en outre s'être signalé par

@@ -5,12 +5,16 @@ conditions fixées pour les déplacements des fonctionnaires du groupe II, il es
 alloué aux délégués et aux médiateurs du procureur de la République :
 
 1° Pour une mission tendant à procéder au rappel des obligations résultant de la
-loi en application des dispositions du 1° de l'article 41-1 : 7,62 euros ;
+loi en application des dispositions du 1° de l'article 41-1 ou à notifier une
+ordonnance pénale en application des dispositions de l'article 495-3 : 7,62
+euros ;
 
 2° Pour une mission tendant à favoriser la réparation du dommage, la
 régularisation d'une situation ou l'orientation vers une structure sanitaire,
 sociale ou professionnelle en application des dispositions des 2°, 3° et 4° de
-l'article 41-1 : 15,24 euros ;
+l'article 41-1 et à vérifier le respect par la personne de ses engagements,
+ainsi que pour une mission de contrôle de la mise en oeuvre de la peine de stage
+de citoyenneté : 15,24 euros ;
 
 3° Pour une mission de médiation en application des dispositions du 5° de
 l'article 41-1 : 38,87 euros ;
@@ -21,9 +25,11 @@ a) Pour la notification des mesures proposées et le recueil de l'accord de la
 personne : 15,24 euros ;
 
 b) Pour le contrôle de l'exécution des mesures décidées : 7,62 euros lorsqu'il
-s'agit des mesures prévues aux 1°, 2° ou 3° de l'article 41-2 ; 15, 24 euros
-lorsqu'est également décidée la mesure prévue au 4° de l'article 41-2 ou celle
-prévue au sixième alinéa de cet article.
+s'agit d'une des mesures prévues aux 1° à 5° et 8° à 12° de l'article 41-2 ;
+15,24 euros lorsqu'est également décidée une des mesures prévues aux 6°, 7° et
+13° de l'article 41-2 ou celle prévue au quinzième alinéa de cet article. Le
+montant cumulé des sommes ainsi allouées ne peut toutefois excéder celui dû pour
+quatre de ces mesures.
 
 Lorsque la personne habilitée est une association qui a passé une convention
 avec le premier président et le procureur général de la cour d'appel dans le
@@ -39,3 +45,6 @@ Lorsque les mesures prévues aux 1° à 3° ci-dessus concernent un mineur, le
 délégué ou le Médiateur du procureur qui doit procéder à l'audition des
 responsables légaux du mineur se voit allouer une indemnité supplémentaire de
 7,62 euros.
+
+L'indemnité prévue au 1° pour les rappels des obligations résultant de la loi
+n'est pas cumulable avec celles prévues aux 2°, 3° ou 4°.

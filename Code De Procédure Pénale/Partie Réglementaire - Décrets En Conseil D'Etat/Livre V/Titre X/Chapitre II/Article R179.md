@@ -8,4 +8,5 @@ cassation ;
 2° 10 euros pour le service d'une audience du tribunal correctionnel ou du
 tribunal pour enfants ;
 
-3° 7,5 euros pour le service d'une audience du tribunal de police.
+3° 7,5 euros pour le service d'une audience du tribunal de police ou de la
+juridiction de proximité.
