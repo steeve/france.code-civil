@@ -17,7 +17,10 @@ cotisations à la charge de l'employeur dues, en application des articles L.
 salarié.
 
 Le montant forfaitaire de la réduction prévue à l'article L. 241-14 est fixé à
-1,28 F.
+28 % du montant du minimum garanti prévu à l'article L. 141-8 du code du travail
+et en vigueur au cours de la période d'emploi au titre de laquelle est dû le
+repas ou l'indemnité compensatrice, le résultat étant arrondi au centime le plus
+proche.
 
 L'employeur tient à la disposition des agents de contrôle mentionnés à l'article
 L. 243-7 un document justificatif du montant des réductions qu'il a appliquées
