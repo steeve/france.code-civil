@@ -7,8 +7,8 @@ autres zones agricoles défavorisées définies par les articles R. 113-13 à R.
 113-15 et pour le reste du territoire.
 
 Dans les limites fixées par cet arrêté, le préfet du département fixe, après
-avis de la commission mixte départementale, le montant de la dotation attribuée
-au bénéficiaire.
+avis de la commission départementale d'orientation de l'agriculture , le montant
+de la dotation attribuée au bénéficiaire.
 
 Le préfet prend notamment en compte :
 
@@ -18,7 +18,8 @@ Le préfet prend notamment en compte :
 professionnelle en agriculture ;
 
 3° Les critères d'appréciation adaptés aux spécificités de l'économie agricole
-locale arrêtés après avis de la commission mixte départementale.
+locale arrêtés après avis de la commission départementale d'orientation de
+l'agriculture.
 
 Sans préjudice des cas mentionnés à l'article R. 343-10, lorsque le projet
 d'installation fait apparaître que le conjoint du chef d'exploitation exerce sur

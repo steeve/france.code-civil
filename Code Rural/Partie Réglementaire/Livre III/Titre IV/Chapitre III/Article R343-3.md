@@ -19,9 +19,9 @@ une limite à la superficie de l'exploitation si le dépassement de la surface
 maximum prévue à cet article n'a pas pour effet de porter le revenu disponible
 par unité de travail agricole familial au-delà de la limite maximum fixée au 1°
 de l'article R. 343-12 ; le préfet prend la décision, après avis de la
-commission mixte départementale, sur la base d'une étude faisant ressortir la
-situation économique et financière du bénéficiaire suite à l'augmentation de la
-surface.
+commission départementale d'orientation de l'agriculture , sur la base d'une
+étude faisant ressortir la situation économique et financière du bénéficiaire
+suite à l'augmentation de la surface.
 
 Les prêts à moyen terme spéciaux réservés aux jeunes agriculteurs nés avant le
 1er janvier 1967 et ayant déposé une demande avant le 1er juillet 1989 peuvent

@@ -6,7 +6,7 @@ cesser son activité agricole à la suite d'une des procédures prévues au chap
 Ier du présent titre.
 
 L'indemnité peut également être accordée, après avis de la commission
-départementale des agriculteurs en difficulté, si, en raison de la situation
+départementale d'orientation de l'agriculture , si, en raison de la situation
 économique et financière de l'exploitation, l'intéressé doit cesser son activité
 en se conformant aux conditions fixées à l'article R. 353-2.
 
