@@ -14,19 +14,19 @@ II. (Abrogé).
 III. (Disposition périmée).
 
 IV. A l'importation, la perception de la taxe prévue à l'article 1613 du code
-général des impôts est suspendue partiellement jusqu'au 31 décembre 1989, son
+général des impôts est suspendue partiellement jusqu'au 31 décembre 1990, son
 taux étant ramené à 1 p. 100 sur les bois tropicaux ci-dessous énumérés, par
 référence à la nomenclature tarifaire de la direction générale des douanes et
 des droits indirects :
 
-1 Les bois d'okoumé bruts, même écorcés ou simplement dégrossis (4403.34.100) ;
+1° Les bois d'okoumé bruts, même écorcés ou simplement dégrossis (4403.34.100) ;
 
-2 Les bois d'okoumé sciés ou dédossés longitudinalement, tranchés ou déroulés,
+2° Les bois d'okoumé sciés ou dédossés longitudinalement, tranchés ou déroulés,
 même rabotés, poncés ou collés par jointure digitale, d'une épaisseur excédant 6
 millimètres (compris dans les positions tarifaires 4407.22.10.0 à 4407.22.90.0).
 
-A l'importation, la perception de la taxe prévue à l'article 1618 bis du code
-général des impôts est suspendue en totalité jusqu'au 31 décembre 1989 pour les
+V. A l'importation, la perception de la taxe prévue à l'article 1618 bis du code
+général des impôts est suspendue en totalité jusqu'au 31 décembre 1990 pour les
 bois tropicaux énumérés ci-après par référence à la nomenclature tarifaire de la
 direction générale des douanes et droits indirects :
 
@@ -49,19 +49,19 @@ d'importation, les intéressés doivent justifier, par la tenue d'une comptabili
 matières, de l'origine et de l'espèce des bois dont il s'agit.
 
 VII. La perception de la taxe prévue à l'article 1613 du code général des impôts
-est suspendue en totalité jusqu'au 31 décembre 1989 sur les produits ci-dessous
+est suspendue en totalité jusqu'au 31 décembre 1990 sur les produits ci-dessous
 énumérés, par référence à la nomenclature tarifaire de la direction générale des
 douanes et droits indirects, lorsqu'ils sont destinés à l'exportation :
 
-1 Les bois de mine (4403.20002) ;
+1° Les bois de mine (4403.20002) ;
 
-2 Les bois feuillus et résineux sciés ou dédossés longitudinalement, tranchés ou
-déroulés même rabotés, poncés ou collés par jointure digitale, d'une épaisseur
-supérieure à 6 millimètres (44.07) ;
+2° Les bois feuillus et résineux sciés ou dédossés longitudinalement, tranchés
+ou déroulés même rabotés, poncés ou collés par jointure digitale, d'une
+épaisseur supérieure à 6 millimètres (44.07) ;
 
-3 Les traverses en bois pour voies ferrées ou similaires (44.06) ;
+3° Les traverses en bois pour voies ferrées ou similaires (44.06) ;
 
-4 Les merrains, même sciés sur les deux faces principales, mais non autrement
+4° Les merrains, même sciés sur les deux faces principales, mais non autrement
 travaillés (4416.00.100).
 
 VIII. Les dispositions du VII sont applicables aux exportations effectuées par
