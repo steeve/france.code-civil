@@ -1,22 +1,8 @@
 Article L612-4
 ----
-Les cotisations des assurés actifs sont, chaque année, calculées, à titre
-provisionnel, en pourcentage du revenu professionnel non-salarié non-agricole de
-l'avant-dernière année retenu pour le calcul de l'impôt sur le revenu ou, le cas
-échéant, de revenus forfaitaires. Le revenu professionnel est revalorisé par
-application successivement du taux d'évolution en moyenne annuelle de l'indice
-général des prix à la consommation des ménages constaté pour la dernière année,
-et du taux d'évolution en moyenne annuelle du même indice figurant dans le
-rapport économique et financier annexé au projet de loi de finances pour l'année
-au titre de laquelle la cotisation est due . Par dérogation à ces dispositions,
-la cotisation peut, à la demande de l'assuré, être fixée sur la base d'une
-assiette forfaitaire inférieure, dès lors que les éléments d'appréciation
-fournis par celui-ci sur l'importance de ses revenus professionnels au cours de
-l'année au titre de laquelle la cotisation est due établissent que ces revenus
-seront inférieurs à l'assiette retenue en application du présent alinéa.
-
-Lorsque le revenu professionnel est définitivement connu, la cotisation fait
-l'objet d'une régularisation.
+Les cotisations sont définies conformément aux dispositions de l'article L.
+131-6 et calculées dans la limite d'un plafond, dans des conditions déterminées
+par décret.
 
 Les cotisations des retraités sont calculées en pourcentage des allocations ou
 pensions de retraite servies pendant l'année en cours par les régimes de base et

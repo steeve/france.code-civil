@@ -1,7 +1,8 @@
 Article L221-3
 ----
-La caisse nationale de l'assurance maladie est administrée par un conseil
-d'administration de vingt-cinq membres, comprenant :
+Sous réserve des dispositions de l'article L. 221-4, la Caisse nationale de
+l'assurance maladie des travailleurs salariés est administrée par un conseil
+d'administration de vingt-cinq membres comprenant :
 
 1°) quinze représentants des assurés sociaux désignés par les organisations
 syndicales nationales de salariés représentatives ;

@@ -21,6 +21,6 @@ départements suivants : Côte-d'Or, Nièvre, Rhône, Saône-et-Loire et Yonne ;
 4° Du premier samedi de mars au troisième dimanche de septembre, dans les
 départements autres que ceux désignés ci-dessus.
 
-Toutefois, la pêche du saumon, de la truite de mer, de l'ombre commun, des
-écrevisses autres que l'écrevisse américaine, des grenouilles verte et rousse
-est réglée par les articles R. 236-9 à R. 236-12.
+Toutefois, la pêche de l'ombre commun, des écrevisses autres que l'écrevisse
+américaine, des grenouilles verte et rousse est réglée par les articles R. 236-9
+à R. 236-12.

@@ -1,12 +1,13 @@
 Article R341-7
 ----
-Les dispositions des articles R. 341-1 à R. 341-6 sont applicables aux
-entreprises étrangères pour leurs opérations sur le territoire de la République
-française dans les conditions fixées par le décret mentionné à l'article R.
-341-1.
+Les documents comptables relatifs aux opérations en devises doivent être tenus
+dans chacune des devises utilisées, dans les conditions fixées par arrêté du
+ministre chargé de l'économie, pris après avis du Conseil national de la
+comptabilité. Toutefois, les entreprises dont les opérations en devises ne sont
+pas significatives peuvent tenir leurs documents comptables uniquement en francs
+français.
 
-Pour les entreprises soumises à une vérification de solvabilité globale exercée
-par la commission de contrôle des assurances, en vertu de la section IV du
-chapitre IV du titre III du présent livre, les mêmes dispositions sont
-applicables aux opérations effectuées dans l'ensemble des pays auxquels s'étend
-cette vérification.
+Les comptes annuels sont établis en francs français. Pour l'établissement des
+comptes annuels, les opérations en devises sont converties en francs français
+d'après les cours de change constatés à la date de la clôture des comptes ou, à
+défaut, à la date antérieure la plus proche.

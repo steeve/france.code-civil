@@ -1,10 +1,10 @@
 Article R332-5
 ----
-Les provisions mathématiques des contrats d'assurance sur la vie à capital
-variable, dans lesquels la somme assurée est déterminée par rapport à une valeur
-de référence, doivent être représentées à l'actif du bilan par des placements
-entrant dans la composition de cette valeur de référence et dans les proportions
-fixées par ladite composition.
+Les provisions mathématiques des contrats d'assurance sur la vie ou de
+capitalisation à capital variable, dans lesquels la somme assurée est déterminée
+par rapport à une valeur de référence, doivent être représentées à l'actif du
+bilan par des placements entrant dans la composition de cette valeur de
+référence et dans les proportions fixées par ladite composition.
 
 Ces placements ne sont pas soumis aux limitations prévues aux articles R. 332-3
 et R. 332-3-1.

@@ -19,13 +19,8 @@ industriels et commerciaux au sens des dispositions du code général des impôt
 qui ne sont pas visés aux articles 128 et 130 de la présente loi, même s'ils ne
 sont pas visés à l'article L. 242-11.
 
-La contribution est, à titre provisionnel, assise sur le revenu de
-l'avant-dernière année précédant celle au titre de laquelle elle est due,
-revalorisé par application, successivement, du taux d'évolution en moyenne
-annuelle de l'indice général des prix à la consommation des ménages constaté
-pour la dernière année et du taux d'évolution en moyenne annuelle du même indice
-figurant dans le rapport économique et financier annexé au projet de loi de
-finances pour l'année au titre de laquelle la contribution est due.
+La contribution est assise à titre provisionnel sur le revenu de
+l'avant-dernière année précédant celle au titre de laquelle elle est due.
 
 Pour les employeurs et travailleurs indépendants ainsi que pour les titulaires
 de bénéfices non commerciaux et de bénéfices industriels et commerciaux visés au

@@ -21,5 +21,10 @@ Le prix d'achat et le prix de remboursement s'entendent hors intérêt couru.
 Lors de l'arrêté comptable, les moins-values latentes ressortant de la
 différence entre la valeur comptable, diminuée des amortissements et majorée des
 produits mentionnés aux deuxième et troisième alinéas du présent article, et la
-valeur de réalisation des titres correspondants évaluée conformément au 2°, a ou
-b de l'article R. 332-20, ne font pas l'objet d'une provision.
+valeur de réalisation des titres correspondants évaluée conformément à l'article
+R. 332-20-1, ne font pas l'objet d'une provision.
+
+Néanmoins, lorsqu'il y a lieu de considérer que le débiteur ne sera pas en
+mesure de respecter ses engagements, soit pour le paiement des intérêts, soit
+pour le remboursement du principal, une provision pour dépréciation doit être
+constituée à l'inventaire.

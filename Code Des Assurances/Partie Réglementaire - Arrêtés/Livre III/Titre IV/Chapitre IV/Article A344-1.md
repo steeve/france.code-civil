@@ -1,4 +1,6 @@
 Article A344-1
 ----
-Les catégories d'assurance mentionnées à l'article R. 341-1 et la forme des
-états institués par l'article R. 342-17 sont fixées par le présent chapitre.
+Les sociétés d'épargne et les entreprises tontinières peuvent, sous réserve de
+l'accord de la Commission de contrôle des assurances, adapter à leur situation
+particulière les modèles prévus pour les entreprises agréées pour les opérations
+mentionnées au 1° de l'article L. 310-1.

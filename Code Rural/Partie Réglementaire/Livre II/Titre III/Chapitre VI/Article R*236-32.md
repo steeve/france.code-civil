@@ -17,7 +17,8 @@ mètres, ou un filet de type Coul de 1,50 mètre de diamètre maximum ;
 
 3° Trois nasses ;
 
-4° Six bosselles à anguilles ou six nasses de type anguillère ou à lamproie ;
+4° Six bosselles à anguilles ou six nasses de type anguillère à écrevisses ou à
+lamproie ;
 
 5° Six balances à écrevisses ou à crevettes ;
 
