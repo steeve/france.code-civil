@@ -17,24 +17,26 @@ plusieurs Etats membres de la Communauté européenne font partie ; obligations
 membre de l'O.C.D.E. ;
 
 2° Obligations, parts de fonds communs de créance et titres participatifs
-inscrits à la cote d'une bourse de valeurs d'un Etat membre de l'O.C.D.E.,
-autres que celles ou ceux visés au 1° ;
+négociés sur un marché reconnu , autres que celles ou ceux visés au 1° ;
 
-2° bis Titres de créances négociables (certificats de dépôt, billets de
-trésorerie, bons des institutions et des sociétés financières spécialisées) émis
-par des personnes morales autres que les Etats membres de l'O.C.D.E., ayant leur
-siège social sur le territoire de ces Etats, à condition que ces titres soient
-négociés sur un marché réglementé en fonctionnement régulier d'un Etat membre de
-l'O.C.D.E. ;
+2° bis Titres de créances négociables d'un an au plus (certificats de dépôt et
+billets de trésorerie) rémunérés à taux fixe ou indexé sur un taux usuel sur les
+marchés interbancaire, monétaire ou obligataire, et émis par des personnes
+morales autres que les Etats membres de l'OCDE ayant leur siège social sur le
+territoire de ces Etats et dont des titres sont négociés sur un marché reconnu ;
+
+2° ter Bons à moyen terme négociables répondant aux conditions mentionnées à
+l'article R. 332-14-1, et émis par des personnes morales autres que les Etats
+membres de l'OCDE ayant leur siège social sur le territoire de ces Etats et dont
+des titres sont négociés sur un marché reconnu ;
 
 3° Actions des sociétés d'investissement à capital variable et parts de fonds
 communs de placement dont l'objet est limité à la gestion d'un portefeuille de
-valeurs mentionnées aux 1°, 2° et 2° bis du présent article, dans les conditions
-fixées par l'article R. 332-14 ;
+valeurs mentionnées aux 1°, 2°, 2° bis et 2° ter du présent article, dans les
+conditions fixées par l'article R. 332-14 ;
 
-4° Actions et autres valeurs mobilières, inscrites à la cote d'une bourse de
-valeurs d'un Etat membre de l'O.C.D.E., autres que celles visées aux 3°, 5°, 5°
-bis, 8° et 9° bis ;
+4° Actions et autres valeurs mobilières, négociées sur un marché reconnu, autres
+que celles visées aux 3°, 5°, 5° bis, 8° et 9° bis ;
 
 5° Actions des entreprises d'assurance, de réassurance, de capitalisation ayant
 leur siège social sur le territoire de l'un des Etats membres de l'O.C.D.E. ;
@@ -45,15 +47,28 @@ autres que celles visées au 5° ;
 6° Actions, parts et droits émis par des sociétés commerciales et obligations,
 titres participatifs et titres subordonnés émis par les sociétés d'assurance
 mutuelles, ayant leur siège social sur le territoire de l'un des Etats membres
-de l'O.C.D.E., autres que les valeurs visées aux 2°, 2° bis, 3°, 4°, 5°, 5° bis,
-8° et 9° bis ;
+de l'O.C.D.E., autres que les valeurs visées aux 2°, 2° bis, 2° ter 3°, 4°, 5°,
+5° bis, 7° bis, 8° et 9° bis ;
 
 7° Parts des fonds communs de placement à risques du chapitre IV de la loi n°
-88-1201 du 23 décembre 1988 ;
+88-1201 du 23 décembre 1988 et parts de fonds communs de placement dans
+l'innovation mentionnés au chapitre IV bis de la même loi ;
+
+7° bis Actions des sociétés d'investissement à capital variable et parts des
+fonds communs de placement bénéficiant d'une procédure allégée mentionnés aux
+chapitres IV ter et V ter de la loi n° 88-1201 du 23 décembre 1988 modifiée.
 
 8° Actions des sociétés d'investissement à capital variable et parts des fonds
-communs de placement, autres que celles mentionnées aux 3° et 7°, dans les
-conditions fixées par l'article R. 332-14.
+communs de placement, autres que celles mentionnées aux 3°,7° et 7° bis , dans
+les conditions fixées par l'article R. 332-14.
+
+Les marchés reconnus mentionnés aux 2°, 2° bis, 2° ter et 4° du présent article
+sont les marchés réglementés des Etats parties à l'accord sur l'Espace
+économique européen ou les marchés de pays tiers membres de l'OCDE en
+fonctionnement régulier. Les autorités compétentes de ces pays doivent avoir
+défini les conditions de fonctionnement du marché, d'accès à ce marché et
+d'admission aux négociations, et imposé le respect d'obligations de déclaration
+et de transparence.
 
 B. - Actifs immobiliers :
 
@@ -62,9 +77,8 @@ de l'un des Etats membres de l'O.C.D.E. ;
 
 9° bis Parts ou actions des sociétés à objet strictement immobilier, parts des
 sociétés civiles à objet strictement foncier, ayant leur siège social sur le
-territoire de l'un des Etats membres de l'O.C.D.E., inscrites ou non inscrites à
-la cote d'une bourse de valeurs d'un Etat membre de l'O.C.D.E., dans les
-conditions fixées par l'article R. 332-15.
+territoire de l'un des Etats membres de l'O.C.D.E., dans les conditions fixées
+par l'article R. 332-15.
 
 C. - Prêts et dépôts :
 
@@ -83,5 +97,13 @@ l'article R. 332-13 ;
 
 13° Dépôts, dans les conditions fixées par l'article R. 332-16.
 
-Les intérêts courus des placements énumérés ci-dessus sont assimilés auxdits
-placements.
+D. - Dispositions communes :
+
+Les intérêts courus des placements énumérés au présent article sont assimilés
+auxdits placements.
+
+Les actifs représentatifs des provisions techniques sont évalués en net des
+dettes contractées pour l'acquisition de ces mêmes actifs.
+
+Les actifs donnés en garantie d'un engagement particulier ne sont pas
+admissibles en représentation des autres engagements.

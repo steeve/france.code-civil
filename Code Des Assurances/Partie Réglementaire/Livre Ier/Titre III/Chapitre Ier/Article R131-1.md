@@ -2,8 +2,8 @@ Article R131-1
 ----
 Les unités de comptes visées à l'article L. 131-1 sont :
 
-1° Les actifs énumérés aux 1°, 2°, 2° bis, 3°, 4°, 5° et 8° de l'article R.
-332-2 ;
+1° Les actifs énumérés aux 1°, 2°, 2° bis, 2° ter, 3°, 4°, 5° et 8° de l'article
+R. 332-2 ;
 
 2° Dans des conditions fixées par décret, les parts ou actions visées au 9° bis
 de l'article R. 332-2 ;

@@ -1,7 +1,7 @@
 Article R332-19
 ----
-I Les valeurs amortissables énumérées aux 1°, 2° et 2° bis de l'article R.
-332-2, autres que les obligations indexées, les parts de fonds communs de
+I Les valeurs amortissables énumérées aux 1°, 2°, 2° bis et 2° ter de l'article
+R. 332-2, autres que les obligations indexées, les parts de fonds communs de
 créance et les titres participatifs, sont inscrites à leur prix d'achat à la
 date d'acquisition.
 
@@ -32,7 +32,9 @@ constituée à l'inventaire.
 II. - Le I du présent article s'applique également aux obligations indexées sur
 le niveau général des prix, avec garantie de remboursement au pair et émises ou
 garanties par un Etat, un organisme ou une collectivité publics mentionnés au 1°
-du A de l'article R. 332-2. La différence entre le prix d'achat d'une obligation
+du A de l'article R. 332-2. ou dont le débiteur est juridiquement un
+établissement public national de l'un des Etats parties à l'accord sur l'Espace
+économique européen. La différence entre le prix d'achat d'une obligation
 indexée sur le niveau général des prix et son prix de remboursement est
 constatée linéairement sur la durée résiduelle du titre. Le prix de
 remboursement s'entend du prix de remboursement initial multiplié par le rapport
