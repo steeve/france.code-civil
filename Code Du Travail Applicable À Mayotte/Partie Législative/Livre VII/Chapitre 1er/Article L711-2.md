@@ -22,4 +22,7 @@ recherche d'un emploi ;
 7° La réalisation d'un bilan de compétences professionnelles et personnelles
 pour définir un projet professionnel et, le cas échéant, de formation ;
 
-8° La lutte contre l'illettrisme.
+8° La lutte contre l'illettrisme ;
+
+9° Les actions de formation continue relatives à la radioprotection des
+personnes prévues par l'article L. 1333-11 du code de la santé publique.

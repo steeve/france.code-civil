@@ -17,11 +17,14 @@ prévu à l'article L. 124-4 un contrat écrit ou en ayant conclu un contrat ne
 comportant pas les mentions prévues aux 1° et 3° de l'article L. 124-4 ou
 comportant ces mentions de manière volontairement inexacte ;
 
-c) Exercé son activité sans avoir fait les déclarations [*administratives*]
-prévues à l'article L. 124-10 ;
+c) Exercé son activité sans avoir fait les déclarations prévues à l'article L.
+124-10 ;
 
 d) Exercé son activité sans avoir obtenu la garantie financière prévue à
 l'article L. 124-8 ;
+
+e) Méconnu l'obligation de proposer au salarié temporaire un ou des contrats
+dans les conditions prévues à l'article L. 124-22.
 
 2° Tout utilisateur qui aura :
 

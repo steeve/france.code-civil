@@ -1,14 +1,28 @@
 Article L1336-6
 ----
-Est puni de deux mois d'emprisonnement et de 25 000 F d'amende, sans préjudice
-des pénalités prévues à l'article 414 du code des douanes, le fait :
+Est puni de six mois d'emprisonnement et d'une amende de 7 500 Euro le fait :
 
-1° De préparer, d'importer, d'exporter des radioéléments artificiels sans
-l'autorisation mentionnée à l'article L. 1333-5 ;
+1° De ne pas se conformer, dans le délai imparti par une mise en demeure
+notifiée par l'autorité qui a délivré l'autorisation ou enregistré la
+déclaration, aux prescriptions prises pour l'application du chapitre III du
+présent titre relatives à l'exercice d'une pratique ou à l'usage d'une substance
+ou d'un dispositif réglementés en application de l'article L. 1333-2 ;
 
-2° D'utiliser des radioéléments artificiels ou des produits en contenant dans
-des conditions autres que celles qui leur ont été fixées au moment de
-l'attribution prévue à l'article L. 1333-6 ;
+2° De ne pas mettre en oeuvre, dans le délai imparti par une mise en demeure
+notifiée par l'autorité qui a délivré l'autorisation ou enregistré la
+déclaration, les mesures de surveillance de l'exposition, de protection et
+d'information des personnes prévues par l'article L. 1333-8 ;
 
-3° D'ajouter des radioéléments artificiels ou des produits en contenant aux
-aliments ou aux produits cosmétiques.
+3° De ne pas mettre en oeuvre, dans le délai imparti par une mise en demeure
+notifiée par l'autorité chargée du contrôle, les mesures de surveillance prévues
+à l'article L. 1333-10 ;
+
+4° De ne pas communiquer les informations nécessaires à la mise à jour du
+fichier national des sources radioactives mentionné à l'article L. 1333-9 ;
+
+5° De ne pas se conformer, dans les délais impartis par une mise en demeure
+notifiée par l'autorité ayant délivré l'autorisation, aux conditions
+particulières mentionnées au 1° de l'article L. 1333-17 ;
+
+6° De faire obstacle aux fonctions des agents de l'Etat mentionnés à l'article
+L. 1421-1.

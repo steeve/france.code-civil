@@ -1,22 +1,17 @@
 Article L1523-6
 ----
-Pour son application dans le territoire des îles Wallis et Futuna, l'article L.
-1341-1 est ainsi rédigé :
+Le chapitre III du titre III du livre III est applicable dans le territoire des
+îles Wallis-et-Futuna sous réserve des adaptations suivantes :
 
-" Art. L. 1341-1. - Le centre antipoison prévu par l'article L. 6431-3 a accès à
-la composition de toute préparation dans l'exercice de ses missions de conseil,
-de soins ou de prévention en vue d'empêcher les effets sur la santé ou de
-répondre à toute demande d'ordre médical destinée aux traitements des affections
-induites par ces produits, en particulier en cas d'urgence.
+1° Les troisième et quatrième alinéas de l'article L. 1333-4 ne sont pas
+applicables dans le territoire des îles Wallis-et-Futuna ;
 
-Les fabriquants, importateurs ou les vendeurs de toutes préparations doivent
-fournir leur composition au centre antipoison dès qu'il en est fait la demande.
-Ils sont libérés de cette obligation lorsque les informations concernant ces
-préparations ont déjà été données à l'organisme agréé chargé de les centraliser.
+2° Au premier alinéa de l'article L. 1333-11, les mots : "à l'article L. 231-2
+du code du travail" sont remplacés par les mots :
 
-Les compositions recueillies par le centre antipoison de l'agence de santé sont
-transmises dans des conditions assurant leur confidentialité à l'organisme agréé
-déterminé à l'alinéa précédent.
+"à l'article 134 de la loi n° 52-1322 du 15 décembre 1952 instituant le code du
+travail applicable dans le territoire des îles Wallis-et-Futuna" ;
 
-Un décret en Conseil d'Etat définit le contenu de l'information transmise au
-centre antipoison ou au centre agréé. "
+3° Au deuxième alinéa de l'article L. 1333-11, les mots : "à l'article L. 902 du
+code du travail" sont remplacés par les mots : "à l'article 218 ter de la loi du
+15 décembre 1952 précitée".

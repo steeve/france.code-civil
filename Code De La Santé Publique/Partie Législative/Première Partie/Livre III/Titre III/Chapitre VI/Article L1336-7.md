@@ -1,13 +1,8 @@
 Article L1336-7
 ----
-Est puni de 25 000 F d'amende toute publicité relative à l'emploi de
-radioéléments artificiels ou de produits en contenant :
+Les personnes morales peuvent être déclarées responsables pénalement, dans les
+conditions prévues par l'article 121-2 du code pénal, des infractions définies
+aux articles L. 1336-5 et L. 1336-6.
 
-1° En médecine humaine ou vétérinaire, lorsque cette publicité est dirigée vers
-d'autres personnes que des médecins, vétérinaires ou pharmaciens ;
-
-2° En dehors du champ de la médecine humaine ou vétérinaire, sans autorisation
-du ou des ministres intéressés.
-
-Le tribunal peut interdire la vente du produit dont la publicité est ainsi
-interdite.
+Elles encourent l'amende, suivant les modalités prévues à l'article 131-38 du
+code pénal.
