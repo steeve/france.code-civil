@@ -8,3 +8,6 @@ dans le département, les sections des mutuelles à caractère professionnel ou
 interprofessionnel instituées dans le département dans les conditions prévues
 par l'article L. 221-1 ainsi que les sections, situées dans le département, qui
 sont prévues par les statuts d'une mutuelle et dotées d'un organe de gestion.
+
+Le nombre des membres de ce comité est fixé par arrêté du commissaire de la
+République du département ; il est compris entre six et vingt-quatre.
