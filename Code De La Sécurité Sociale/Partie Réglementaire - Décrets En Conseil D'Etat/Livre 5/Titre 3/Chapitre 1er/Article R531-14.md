@@ -11,10 +11,13 @@ ménage perçues au titre de l'année civile de référence et appréciées selo
 dispositions de l'article R. 531-10 sont au plus égales à 812 fois le salaire
 minimum de croissance horaire en vigueur au 31 décembre de ladite année ;
 
-b) Au renouvellement du droit, au 1er juillet, sous réserve des dispositions du
-III, si ni le bénéficiaire ni son conjoint ou concubin n'a disposé de ressources
-appréciées conformément à l'article R. 531-10 pendant l'année civile de
-référence.
+b) Au premier renouvellement du droit, si les ressources lors de l'ouverture du
+droit ont été évaluées forfaitairement ;
+
+c) Au renouvellement du droit, au 1er juillet, sauf dans le cas visé au b
+ci-dessus, si ni le bénéficiaire ni son conjoint ou concubin n'a disposé de
+ressources appréciées conformément à l'article R. 531-10 pendant l'année civile
+de référence.
 
 II. - L'évaluation forfaitaire correspond :
 
@@ -25,12 +28,8 @@ affectée des déductions prévues au deuxième alinéa du 3° de l'article 83 e
 quatrième alinéa du 5 (a) de l'article 158 du code général des impôts ;
 
 b) S'il s'agit d'une personne exerçant une activité professionnelle non salariée
-à 2 028 fois le salaire minimum de croissance horaire en vigueur au 1er janvier
+à 1 500 fois le salaire minimum de croissance horaire en vigueur au 1er janvier
 qui précède l'ouverture ou le renouvellement du droit.
 
 Le montant des ressources ainsi déterminé est affecté des déductions et
 abattements prévus au premier alinéa de l'article R. 531-10.
-
-III. - Lorsque les ressources, lors de l'ouverture du droit, ont été déterminées
-sur la base d'une évaluation forfaitaire, les mêmes ressources sont prises en
-compte lors du premier renouvellement du droit.
