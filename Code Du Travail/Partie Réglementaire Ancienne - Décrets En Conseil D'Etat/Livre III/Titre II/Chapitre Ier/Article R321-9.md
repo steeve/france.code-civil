@@ -1,10 +1,21 @@
 Article R321-9
 ----
-Toute personne qui aura contrevenu aux dispositions du premier alinéa de
-l'article L. 320-1 ainsi qu'à l'arrêté pris pour son application sera punie de
-la peine d'amende prévue pour les contraventions de la 4e classe.
+La lettre recommandée avec accusé de réception adressée au salarié en
+application de l'article L. 321-15 du code du travail indique [*mentions
+obligatoires*] :
 
-Sera punie de la même peine toute personne qui aura contrevenu aux dispositions
-de l'article L. 321-1 ou du 1° (b) de l'article L. 321-2 ou qui n'aura pas
-fourni les renseignements prévus aux articles R. 320-1, R. 321-1, R. 321-4 et R.
-321-6..
+1. La nature et l'objet de l'action envisagée par l'organisation syndicale
+représentative ;
+
+2. Que l'action sera conduite par l'organisation syndicale qui pourra exercer
+elle-même les voies de recours contre le jugement ;
+
+3. Que le salarié pourra, à tout moment, intervenir dans l'instance engagée par
+l'organisation syndicale ou mettre un terme à cette action ;
+
+4. Que le salarié peut faire connaître à l'organisation syndicale son opposition
+à l'action envisagée dans un délai de quinze jours à compter de la date de
+réception.
+
+Ce n'est que passé ce délai que l'acceptation [*accord*] tacite du salarié
+concerné est considérée comme acquise.
