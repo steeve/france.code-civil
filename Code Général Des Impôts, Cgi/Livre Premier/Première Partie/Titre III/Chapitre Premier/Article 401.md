@@ -1,11 +1,16 @@
 Article 401
 ----
-Pour l'application des articles qui suivent, sont compris sous la dénomination
-d'alcools, les eaux-de-vie, esprits, liqueurs, fruits à l'eau-de-vie, apéritifs,
-vermouths, vins de liqueur, mistelles et autres spiritueux quelconques, les vins
-artificiels, les vins édulcorés en dehors des conditions et limites permises,
-les boissons de raisins secs et, en général, tous les liquides alcooliques non
-dénommés, ainsi que toutes préparations à base alcoolique.
+Pour l'application des articles qui suivent sont dénommés :
+
+a) produits intermédiaires : les produits relevant des codes N.C. 2204, 2205,
+2206 du tarif des douanes qui ont un titre alcoométrique acquis compris entre
+1,2 p. 100 vol. et 22 p. 100 vol. et qui ne sont pas des bières, des vins ou des
+produits visés à l'article 438 ;
+
+b) alcools : les produits qui relèvent des codes N.C. 2207 et 2208 du tarif des
+douanes et qui ont un titre alcoométrique acquis supérieur à 1,2 p. 100 vol.
+ainsi que les produits désignés à l'alinéa précédent qui ont un titre
+alcoométrique acquis supérieur à 22 p. 100 vol.
 
 Sont assimilés au point de vue fiscal à l'alcool éthylique les corps appartenant
 à la famille chimique des alcools ou présentant une fonction chimique alcool,
@@ -15,4 +20,4 @@ susceptibles de remplacer l'alcool éthylique dans l'un quelconque de ses emploi
 Des décisions du ministre de l'économie et des finances déterminent ceux de ces
 produits auxquels s'applique la disposition qui précède.
 
-1) Annexe III, art. 169.
+(1) Annexe III, art. 169.
