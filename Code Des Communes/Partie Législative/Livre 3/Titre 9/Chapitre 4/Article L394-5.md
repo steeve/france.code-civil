@@ -6,8 +6,8 @@ de loyer de casernement.
 
 Dans la double limite des dotations inscrites au budget de l'Etat et des
 paiements effectués par la préfecture de police au cours de l'exercice
-considéré, la participation de l'Etat est égale à 37,5p. 100. [*proportion*] des
-dépenses suivantes inscrites au budget spécial de la préfecture de police.
+considéré, la participation de l'Etat est égale à 25 p. 100 des dépenses
+suivantes inscrites au budget spécial de la préfecture de police.
 
 1° Rémunération des militaires de la brigade des sapeurs-pompiers de Paris, y
 compris l'alimentation des militaires pendant la durée légale du service ;
