@@ -19,6 +19,11 @@ Le salaire différé résultant du contrat de travail institué par l'article 63
 décret du 29 juillet 1939 relatif à la famille et à la natalité françaises, pour
 l'année échue et l'année courante :
 
+La créance du conjoint survivant instituée par l'article 14 de la loi n° 89-1008
+du 31 décembre 1989 relative au développement des entreprises commerciales et
+artisanales et à l'amélioration de leur environnement économique, juridique et
+social.
+
 Les rémunérations pour les six derniers mois des salariés, apprentis et
 l'indemnité due par l'employeur aux jeunes en stage d'initiation à la vie
 professionnelle, telle que prévue à l'article L. 980-11-1 du code du travail ;

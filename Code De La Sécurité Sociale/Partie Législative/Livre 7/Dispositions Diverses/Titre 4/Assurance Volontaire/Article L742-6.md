@@ -24,11 +24,13 @@ location-gérance de leur fonds dont elles conservent la propriété ;
 vieillesse et qui participent à l'exercice d'une activité professionnelle
 non-salariée non-agricole mentionnée aux 1° et 2° de l'article L. 621-3 ;
 
-5°) les conjoints collaborateurs mentionnés au registre du commerce et des
+5°) Les conjoints collaborateurs mentionnés au registre du commerce et des
 sociétés, au répertoire des métiers ou au registre des entreprises tenu par les
-chambres de métiers d'Alsace et de la Moselle qui ne bénéficient pas d'un régime
-obligatoire d'assurance vieillesse. Les conditions d'application de cette
-disposition sont fixées par décret.
+chambres de métiers d'Alsace et de la Moselle, ainsi que les conjoints des
+personnes mentionnées à l'article L. 622-9 du présent code remplissant des
+conditions de collaboration professionnelle définies par décret qui ne
+bénéficient pas d'un régime obligatoire d'assurance vieillesse. Les conditions
+d'application de cette disposition sont fixées par décret.
 
 6°) Les conjoints collaborateurs des personnes exerçant une des activités
 professionnelles mentionnées aux articles L. 622-5 et L. 723-1.
