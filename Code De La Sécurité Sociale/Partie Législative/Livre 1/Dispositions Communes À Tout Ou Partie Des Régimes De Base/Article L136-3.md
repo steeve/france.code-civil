@@ -11,7 +11,8 @@ majorés des déductions et abattements mentionnés aux articles 44 quater, 44
 sexies et 44 septies, au 4 bis de l'article 158 et aux articles 238 bis HA à 238
 bis HC du code général des impôts. Les cotisations personnelles de sécurité
 sociale mentionnées à l'article 154 bis du code général des impôts sont ajoutées
-au bénéfice pour le calcul de la contribution.
+au bénéfice pour le calcul de la contribution à l'exception de celles prises en
+compte dans le revenu défini à l'article L. 242-11.
 
 Sont soumis à la contribution les bénéfices non commerciaux et les bénéfices
 industriels et commerciaux au sens des dispositions du code général des impôts

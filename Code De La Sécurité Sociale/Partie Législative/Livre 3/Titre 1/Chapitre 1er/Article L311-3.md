@@ -11,8 +11,9 @@ pourboires :
 suivants du code du travail ;
 
 2°) les voyageurs et représentants de commerce [*VRP*] soumis aux dispositions
-des articles L. 751-1 et suivants du code du travail ; 3°) les employés
-d'hôtels, cafés et restaurants ;
+des articles L. 751-1 et suivants du code du travail ;
+
+3°) les employés d'hôtels, cafés et restaurants ;
 
 4°) sans préjudice des dispositions du 5°) du présent article réglant la
 situation des sous-agents d'assurances, les mandataires non assujettis à la taxe
@@ -33,9 +34,10 @@ industriels ;
 
 7°) les conducteurs de voitures publiques dont l'exploitation est assujettie à
 des tarifs de transport fixés par l'autorité publique, lorsque ces conducteurs
-ne sont pas propriétaires de leur voiture ; 8°) les porteurs de bagages occupés
-dans les gares s'ils sont liés, à cet effet, par un contrat avec l'exploitation
-ou avec un concessionnaire ;
+ne sont pas propriétaires de leur voiture ;
+
+8°) les porteurs de bagages occupés dans les gares s'ils sont liés, à cet effet,
+par un contrat avec l'exploitation ou avec un concessionnaire ;
 
 9°) les ouvreuses de théâtres, cinémas, et autres établissements de spectacles,
 ainsi que les employés qui sont dans les mêmes établissements chargés de la
@@ -47,13 +49,15 @@ rémunération, la garde et l'entretien d'enfants qui leur sont confiés par les
 parents, une administration ou une oeuvre au contrôle desquels elles sont
 soumises ;
 
-11°) les gérants de sociétés à responsabilité limitée à condition que lesdits
-gérants ne possèdent pas, ensemble, plus de la moitié du capital social, étant
-entendu que les parts appartenant, en toute propriété ou en usufruit, au
-conjoint et aux enfants mineurs non émancipés d'un gérant, sont considérées
-comme possédées par ce dernier ;
+11°) Les gérants de sociétés à responsabilité limitée et de sociétés d'exercice
+libéral à responsabilité limitée à condition que lesdits gérants ne possèdent
+pas ensemble plus de la moitié du capital social, étant entendu que les parts
+appartenant, en toute propriété ou en usufruit, au conjoint et aux enfants
+mineurs non émancipés d'un gérant sont considérées comme possédées par ce
+dernier ;
 
-12°) les présidents-directeurs et directeurs généraux des sociétés anonymes ;
+12°) Les présidents-directeurs et directeurs généraux des sociétés anonymes et
+des sociétés d'exercice libéral à forme anonyme ;.
 
 13°) les membres des sociétés coopératives ouvrières de production ainsi que les
 gérants, les directeurs généraux, les présidents du conseil d'administration et
@@ -87,18 +91,17 @@ dispositions du cinquième alinéa de l'article 6 de la loi n° 89-475 du 10
 juillet 1989 relative à l'accueil par des particuliers, à leur domicile, à titre
 onéreux, de personnes âgées ou handicapées adultes.
 
-18° Les vendeurs-colporteurs de presse et porteurs de presse, visés aux
+18°) Les vendeurs-colporteurs de presse et porteurs de presse, visés aux
 paragraphes I et II de l'article 22 de la loi n° 91-1 du 3 janvier 1991 tendant
 au développement de l'emploi par la formation dans les entreprises, l'aide à
 l'insertion sociale et professionnelle et l'aménagement du temps de travail,
 pour l'application du troisième plan pour l'emploi, non immatriculés au registre
 du commerce ou au registre des métiers.
 
-19° Les avocats salariés, ainsi que les avocats porteurs de parts sociales ou
-d'actions d'une société d'exercice libéral constituée pour l'exercice de leur
-profession, sauf pour les risques gérés par la Caisse nationale des barreaux
-français visée à l'article L. 723-1 à l'exception des risques invalidité-décès.
+19°) Les avocats salariés, sauf pour les risques gérés par la Caisse nationale
+des barreaux français visée à l'article L. 723-1 à l'exception des risques
+invalidité-décès.
 
-20° les vendeurs à domicile visés au I de l'article 3 de la loi n° 93-121 du 27
+20°) Les vendeurs à domicile visés au I de l'article 3 de la loi n° 93-121 du 27
 janvier 1993 portant diverses mesures d'ordre social, non immatriculés au
 registre du commerce ou au registre spécial des agents commerciaux.
