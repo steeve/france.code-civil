@@ -1,20 +1,32 @@
 Article L443-14
 ----
-Pendant un délai de dix ans à compter de l'acquisition, toute aliénation
-volontaire d'un logement acheté dans les conditions de la présente section doit,
-à peine de nullité, être préalablement déclarée à l'organisme vendeur. Celui-ci
-dispose, pendant cette période, d'un droit de rachat par préférence dont les
-conditions d'exercice sont définies par décret.
+Toute décision d'aliénation d'un élément du patrimoine immobilier d'un organisme
+d'habitations à loyer modéré, exception faite des cas visés aux articles L.
+443-7 et L. 443-8, est prise par accord entre cet organisme, la commune du lieu
+d'implantation et le représentant de l'Etat dans le département. Il en est de
+même pour les décisions visant à concéder des baux de plus de douze ans ou
+relatives à des échanges d'un élément du patrimoine immobilier.
 
-Jusqu'à l'acquittement total du prix de vente et, en tout état de cause, pendant
-le même délai de dix ans, l'acquéreur ne peut utiliser le logement comme
-résidence secondaire et tout changement d'affectation, toute location ou
-sous-location partielle ou totale, meublée ou non meublée, d'une habitation à
-loyer modéré, acquise au titre de la présente section, est subordonné à
-l'autorisation de l'organisme d'habitations à loyer modéré. Le prix de location
-ne peut être supérieur au montant des loyers prévus aux articles L. 442-1 et
-suivants.
+Le prix de vente de ces éléments du patrimoine immobilier ne peut être inférieur
+à l'évaluation faite par les services des domaines. Toutefois, en cas de vente
+d'un logement à son occupant, ce prix ne peut être inférieur à l'évaluation
+faite par les services des domaines sur la base du prix d'un logement comparable
+libre d'occupation. A titre exceptionnel, les cessions entre organismes
+d'habitations à loyer modéré ou à une collectivité publique peuvent se faire sur
+une base différente.
 
-Toute infraction aux dispositions des alinéas précédents sera punie d'un
-emprisonnement de deux à six mois et d'une amende de 2000 F à 30000 F ou de
-l'une de ces deux peines seulement [*sanction*].
+Le paiement doit se faire au comptant. Les sommes perçues par les organismes
+d'habitations à loyer modéré au titre des ventes ainsi consenties reçoivent les
+affectations prévues à l'article L. 443-11.
+
+Lorsqu'il s'agit de ventes de logements à des personnes physiques, celles-ci ne
+doivent pas disposer de ressources supérieures à celles fixées pour l'octroi de
+prêts aidés par l'Etat pour la construction de logements en accession à la
+propriété.
+
+Tout acte conclu en infraction aux dispositions du présent article est nul.
+L'action en nullité se prescrit par dix ans à compter de la date de l'acte.
+
+Les dispositions qui précèdent ne sont pas applicables aux opérations
+entreprises en vue de l'accession à la propriété ni aux cessions gratuites de
+terrains imposées par l'autorité compétente.
