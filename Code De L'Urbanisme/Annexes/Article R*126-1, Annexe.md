@@ -109,7 +109,7 @@ a) Electricité et gaz.
 Périmètres à l'intérieur desquels ont été instituées des servitudes en
 application :
 
-De l'article 12 modifié de la loi du 15 juin 1906 ;
+Des articles 12 et 12 bis de la loi du 15 juin 1906 modifiée ;
 
 De l'article 298 de la loi de finances du 13 juillet 1925 ;
 
