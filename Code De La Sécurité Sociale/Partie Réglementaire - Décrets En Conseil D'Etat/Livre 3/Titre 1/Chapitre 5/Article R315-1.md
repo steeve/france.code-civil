@@ -34,3 +34,11 @@ deuxième alinéa de l'article L. 162-12-9 et aux articles L. 162-12-16 et L.
 
 Le service du contrôle médical exerce ses missions dans les conditions définies
 par le présent chapitre et par le chapitre 6 du titre VI du livre Ier.
+
+IV. - Lorsque le service du contrôle médical constate qu'une prescription
+établie par un professionnel de santé a exclu la possibilité de substitution
+prévue au deuxième alinéa de l'article L. 512-3 du code de la santé publique, il
+peut se faire communiquer par ce professionnel, dans le respect des règles de la
+déontologie médicale, les éléments de toute nature relatifs à cette exclusion ;
+cette communication est éventuellement suivie de la mise en oeuvre de la
+procédure prévue à l'article R. 315-1-2.

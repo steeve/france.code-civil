@@ -9,4 +9,7 @@ obligatoires*]:
 
 3° La date d'exécution ;
 
-4° Les quantités délivrées.
+4° Les quantités délivrées ;
+
+5° Le cas échéant, les mentions prévues au premier alinéa de l'article R.
+5143-10.
