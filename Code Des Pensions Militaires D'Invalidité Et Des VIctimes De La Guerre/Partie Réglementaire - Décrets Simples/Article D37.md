@@ -22,3 +22,5 @@ qu'à la date du jugement de la décision rendu par la juridiction compétente.
 L'allocation provisoire d'attente cesse d'être allouée après l'échéance du
 dernier payement trimestriel qui précède immédiatement la remise du titre
 définitif de pension.
+
+Il n'est plus attribué d'allocation provisoire d'attente.

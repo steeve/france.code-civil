@@ -9,3 +9,5 @@ définitif de pension, une allocation provisoire d'attente payable par trimestre
 Le montant de cette allocation provisoire d'attente est déterminé d'après le
 taux de la pension à laquelle les ayants droit peuvent prétendre en exécution du
 présent code.
+
+Il n'est plus attribué d'allocation provisoire d'attente.
