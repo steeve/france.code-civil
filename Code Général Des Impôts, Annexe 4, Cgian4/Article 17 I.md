@@ -54,14 +54,7 @@ installations ;
 
 d. Travaux d'installation des matériels désignés aux a, b et c..
 
-2° Autres aménagements spécifiques réalisés dans les constructions neuves en vue
-d'accroître les apports solaires.
-
-Les dépenses correspondantes ne peuvent ouvrir droit à la réduction d'impôt que
-si la valeur du coefficient des besoins volumiques de chauffage (coefficient B)
-défini à l'article 2-2° de l'arrêté du 24 mars 1982 relatif aux équipements et
-aux caractéristiques thermiques des bâtiments d'habitation est inférieure d'au
-moins 10 % à la valeur maximale autorisée pour la zone géographique intéressée.
+2° (Abrogé)
 
 2. Installation de pompes à chaleur. Fourniture et pose des pompes à chaleur
 destinées au chauffage du logement ou à la production d'eau chaude sanitaire.
@@ -85,7 +78,15 @@ utilisation de plusieurs énergies :
 
 Chaudières polycombustibles dont la biomasse constitue l'un des combustibles,
 chaudières à biomasse en relève de chaudières, ainsi que tout système bi-énergie
-ayant fait l'objet d'un agrément de l'Agence pour les économies d'énergie.
+ayant fait l'objet d'un agrément de l'Agence française pour la maîtrise de
+l'énergie.
 
 5. Fourniture et pose de microcentrales hydrauliques destinées aux besoins
 énergétiques du logement.
+
+6. Dépenses relatives à l'amélioration des performances thermiques des
+constructions neuves si le logement bénéficie, au moment de sa construction, de
+l'attribution du label haute performance énergétique (trois ou quatre étoiles)
+ou du label solaire institué par l'arrêté du 5 juillet 1983 relatif à
+l'attribution pour les bâtiments d'habitation d'un label haute performance
+énergétique et d'un label solaire.

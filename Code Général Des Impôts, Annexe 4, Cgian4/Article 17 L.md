@@ -43,10 +43,13 @@ c. En cas d'acquisition d'un logement neuf déjà équipé, une attestation du
 vendeur mentionnant la nature et le montant des dépenses ouvrant droit à
 réduction d'impôt en application des articles 17 I et 17 J ;
 
-d. En outre, pour les dépenses visées à l'article 17 I-1-2° :
-
-un certificat visé par la direction départementale de l'équipement précisant la
-valeur du coefficient des besoins volumiques de chauffage.
+d. En outre, pour les dépenses visées au 6 de l'article 17 I, une fiche
+d'attribution du label visée par un organisme ayant signé une convention avec le
+ministre chargé du logement dans les conditions prévues à l'article 11 de
+l'arrêté du 5 juillet 1983 relatif à l'attribution pour les bâtiments
+d'habitation d'un label haute performance énergétique et d'un label solaire et
+concernant soit le logement pour lequel la déduction est demandée, soit
+l'ensemble immobilier dont il fait partie.
 
 2. Dans le cas des immeubles en copropriété, chacun des copropriétaires est
 admis à bénéficier d'une réduction d'impôt pour la quote-part, correspondant à

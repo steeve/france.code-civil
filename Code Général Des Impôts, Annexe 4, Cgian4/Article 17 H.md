@@ -48,7 +48,7 @@ fenêtres à étanchéité renforcée, lorsque leur installation est rendue néc
 par la mise en place de vitrages isolants ;
 
 Pose de volets isolants caractérisés par une résistance thermique supérieure à
-0,30 m2 °C/W et par une bonne étanchéité à l'air (présence de joints).
+0,30 Wm2° C et par une bonne étanchéité à l'air (présence de joints).
 
 4. Limitation des déperditions thermiques par renouvellement d'air.
 
