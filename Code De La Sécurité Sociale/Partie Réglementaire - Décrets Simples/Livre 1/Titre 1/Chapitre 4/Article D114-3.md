@@ -3,6 +3,13 @@ Article D114-3
 La commission se réunit au moins deux fois par an, à l'initiative de son
 président.
 
+La commission est réunie une première fois entre le 15 avril et le 15 juin et
+traite des comptes du régime général de sécurité sociale.
+
+La seconde réunion se déroule entre le 15 septembre et le 15 octobre. Les
+comptes de l'ensemble des régimes obligatoires de sécurité sociale y sont
+présentés à la commission et analysés par elle.
+
 Elle reçoit communication des comptes des régimes de sécurité sociale établis
 pour l'année antérieure et des comptes prévisionnels établis pour l'année en
 cours et l'année suivante par les directions compétentes des ministères

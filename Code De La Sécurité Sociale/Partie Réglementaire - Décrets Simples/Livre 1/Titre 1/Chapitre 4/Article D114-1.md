@@ -28,52 +28,55 @@ e) Un par l'assemblée permanente des chambres de métiers ;
 
 f) Un par l'union nationale des associations familiales.
 
-5° a) Le président du conseil d'administration de l'agence centrale des
+5° a) Le président du conseil d'administration de l'Agence centrale des
 organismes de sécurité sociale ;
 
 b) Le président du conseil d'administration de la Caisse nationale de
 l'assurance maladie des travailleurs salariés ;
 
-c) Le président du conseil d'administration de la Caisse nationale d'assurance
+c) Le président de la commission des accidents du travail et des maladies
+professionnelles prévue à l'article L. 221-4 ;
+
+d) Le président du conseil d'administration de la Caisse nationale d'assurance
 vieillesse des travailleurs salariés ;
 
-d) Le président du conseil d'administration de la Caisse nationale des
+e) Le président du conseil d'administration de la Caisse nationale des
 allocations familiales ;
 
-e) Le président du conseil central d'administration de la mutualité sociale
+f) Le président du conseil central d'administration de la mutualité sociale
 agricole ;
 
-f) Le président du conseil d'administration de la Caisse nationale d'assurance
+g) Le président du conseil d'administration de la Caisse nationale d'assurance
 vieillesse des professions libérales ;
 
-g) Le président du conseil d'administration de la Caisse de compensation de
+h) Le président du conseil d'administration de la Caisse de compensation de
 l'organisation autonome nationale de l'industrie et du commerce ;
 
-h) Le président du conseil d'administration de la Caisse autonome nationale de
-compensation de l'assurance vieillesse artisanale ;
+i) Le président du conseil d'administration de la Caisse de compensation de
+l'assurance vieillesse artisanale ;
 
-i) Le président du conseil d'administration de la Caisse nationale d'assurance
-maladie et maternité des travailleurs non-salariés des professions non agricoles
+j) Le président du conseil d'administration de la Caisse nationale d'assurance
+maladie et maternité des travailleurs non salariés des professions non agricoles
 ;
 
-i bis) Le président du conseil d'administration de la Caisse nationale de
-retraite des agents des collectivités locales ;
+k) Le président du conseil d'administration de la Caisse nationale de retraite
+des agents des collectivités locales ;
 
-j) La commission comprend en outre un représentant des régimes autres que ceux
+l) La commission comprend en outre un représentant des régimes autres que ceux
 énumérés ci-dessus, désigné après entente entre les présidents des caisses et
-institutions intéressées ou, à défaut, par le ministre chargé de la sécurité
+institutions intéressés ou, à défaut, par le ministre chargé de la sécurité
 sociale ;
 
-k) Le président du conseil d'administration de l'association générale des
+m) Le président du conseil d'administration du Fonds de solidarité vieillesse ;
+
+n) Le président du conseil d'administration de l'Association des régimes de
+retraites complémentaires ;
+
+o) Le président du conseil d'administration de l'Association générale des
 institutions de retraites des cadres ;
 
-l) Le président du conseil d'administration de l'association des régimes de
-retraites complémentaires.
-
-m) Un représentant désigné par la fédération nationale de la mutualité
-française.
-
-n) Le président du conseil d'administration du fonds de solidarité vieillesse.
+p) Un représentant désigné par la Fédération nationale de la mutualité française
+;
 
 6° Le président du Centre national des professions de santé ainsi que quatre
 représentants des organisations professionnelles de médecins et trois
