@@ -21,7 +21,8 @@ automatiques ;
 Matériels de transfert : élévateurs et releveurs hydrauliques ou électriques,
 lève-personnes ;
 
-Fauteuils roulants ;
+Lorsqu'ils ont une vitesse inférieure ou égale à dix kilomètres par heure : les
+fauteuils roulants et les scooters médicaux ;
 
 Appareils modulaires de verticalisation ;
 
