@@ -1,11 +1,14 @@
 Article R232-1
 ----
-Dans les locaux fermés affectés au travail, le cube d'air par personne employée
-ne peut être inférieur à 7 mètres cubes [*minimum*].
+Dans les locaux fermés où le personnel est appelé à séjourner, l'air doit être
+renouvelé de façon à :
 
-Le cube d'air est de 10 mètres cubes au moins par personne employée dans les
-laboratoires, cuisines, chais ; il en est de même dans les magasins, boutiques
-et bureaux ouverts au public.
+1° Maintenir un état de pureté de l'atmosphère propre à préserver la santé des
+travailleurs ;
 
-Un avis affiché dans chaque local de travail indique sa capacité en mètres
-cubes.
+2° Eviter les élévations exagérées de température, les odeurs désagréables et
+les condensations.
+
+Les règles applicables à l'aération, à la ventilation et à l'assainissement des
+locaux mentionnés au premier alinéa ci-dessus sont fixées, suivant la nature et
+les caractères de ces locaux, aux articles R. 232-1-1 à R. 232-1-11.

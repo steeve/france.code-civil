@@ -1,8 +1,15 @@
 Article R232-2
 ----
-Les locaux fermés affectés au travail doivent [*obligation*] être aérés. Ils
-sont munis de fenêtres ou autres ouvertures à chassis mobiles donnant
-directement sur le dehors.
+Dans les puits, conduites de gaz, carneaux, conduits de fumée, cuves,
+réservoirs, citernes, fosses, galeries et dans les lieux où il n'est pas
+possible d'assurer de manière permanente le respect des dispositions de la
+présente sous-section, les travaux ne doivent être entrepris qu'après
+vérification de l'absence de risque pour l'hygiène et la sécurité des
+travailleurs et, le cas échéant, après assainissement de l'atmosphère et vidange
+du contenu.
 
-L'aèration doit être suffisante pour empêcher une élévation exagérée de la
-température.
+Pendant l'exécution des travaux la ventilation doit être réalisée, selon le cas,
+suivant les prescriptions définies à l'article R. 232-1-3 ou à l'article R.
+232-1-6, de manière à maintenir la salubrité de l'atmosphère et à en assurer un
+balayage permanent, sans préjudice des dispositions du décret n° 65-48 du 8
+janvier 1965.
