@@ -19,3 +19,13 @@ la référence au conseil général ;
 
 5° La référence au président du conseil régional est remplacée par la référence
 au président du conseil général.
+
+6° Les références aux communes de moins de 3 500 habitants et aux communes de
+plus de 3 500 habitants sont remplacées :
+
+a) Jusqu'au renouvellement des conseils municipaux de 2007, par les références
+respectivement aux communes de moins et de plus de 20 000 habitants ;
+
+b) A compter du renouvellement des conseils municipaux de 2007 et jusqu'au
+renouvellement de 2013, par les références aux communes de moins et de plus de
+10 000 habitants.

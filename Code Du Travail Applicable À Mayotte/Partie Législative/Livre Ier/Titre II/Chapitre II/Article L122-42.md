@@ -1,9 +1,11 @@
 Article L122-42
 ----
-Les employeurs sont tenus [*obligations*] de laisser à leurs salariés, candidats
-à l'Assemblée nationale ou au Sénat, le temps nécessaire [*crédit d'heures*]
-pour participer à la campagne électorale dans la limite de vingt jours ouvrables
-[*délai*].
+Les employeurs sont tenus de laisser à leurs salariés, candidats à l'Assemblée
+nationale ou au Sénat, le temps nécessaire pour participer à la campagne
+électorale dans la limite de vingt jours ouvrables. Le même droit est accordé,
+sur leur demande, aux salariés candidats au Parlement européen, au conseil
+municipal dans une commune d'au moins 3500 habitants ou au conseil général de
+Mayotte, dans la limite de dix jours ouvrables.
 
 Le salarié bénéficie à sa convenance des dispositions de l'alinéa précédent, à
 condition que chaque absence soit au moins d'une demi-journée entière. Il doit

@@ -7,7 +7,7 @@ en fonction.
 
 La suspension prend effet quinze jours après la notification qui en est faite à
 l'employeur, à la diligence du salarié, par lettre recommandée avec demande
-d'avis de réception [*point de départ, délai, conditions de forme*].
+d'avis de réception.
 
 Le salarié doit manifester son intention de reprendre son emploi en adressant à
 son employeur une lettre recommandée avec demande d'avis de réception au plus
