@@ -21,6 +21,10 @@ d'entremise à la vente, les commettants des intermédiaires auxquels cette
 disposition s'applique majorent leur chiffre d'affaires du montant des
 commissions versées.
 
+Le chiffre d'affaires retenu pour asseoir la contribution exceptionnelle prévue
+par l'article 8 de la loi n° 91-738 du 31 juillet 1991 portant diverses mesures
+d'ordre social est exclu de l'assiette de la contribution sociale de solidarité.
+
 Pour les sociétés d'assurances et de capitalisation régies par le code des
 assurances et les sociétés de réassurances, l'assiette de la contribution
 sociale de solidarité est constituée, pour leur activité principale, par les
@@ -35,5 +39,5 @@ articles L. 113 et L. 161 du livre des procédures fiscales.
 Quiconque n'aura pas fourni, dans les conditions fixées par décret, la
 déclaration prévue à l'alinéa ci-dessus ou aura fourni sciemment des
 renseignements inexacts ou incomplets dans cette déclaration, sera puni d'un
-emprisonnement de deux mois à deux ans et d'une amende de 3.600 à 60.000 F ou de
-l'une de ces deux peines seulement .
+emprisonnement de deux ans et d'une amende de 60.000 F (1) ou de l'une de ces
+deux peines seulement . (1) Amende applicable depuis le 23 décembre 1985.
