@@ -66,8 +66,10 @@ l'empêchement qui ne saurait excéder un an.
 Le dépouillement du scrutin a lieu au siège de l'office ; il est effectué, en
 présence d'au moins un représentant de chaque liste de candidats, par un bureau
 comprenant le président en exercice de l'office et un membre du conseil
-d'administration choisi parmi les administrateurs désignés par le préfet. Les
-résultats sont affichés immédiatement dans tous les immeubles dépendant de
+d'administration choisi parmi les administrateurs désignés par le préfet ou,
+lorsque l'élection a lieu en période d'administration provisoire de l'office,
+l'administrateur provisoire et une personne désignée à cette fin par le préfet.
+Les résultats sont affichés immédiatement dans tous les immeubles dépendant de
 l'office. Un procès-verbal du résultat du scrutin est remis à chaque liste en
 présence, ainsi qu'au préfet du département du siège de l'office.
 
@@ -80,8 +82,8 @@ R. 120 du code électoral ;
 compter de la clôture du dépouillement des élections ; la perte de la qualité de
 locataire met un terme au mandat des administrateurs nommés en cette qualité ;
 
-6° Au cas de création d'un nouvel office ou d'élections faisant suite à une
-dissolution, les attributions conférées par les dispositions du présent article
-aux offices existants ou à certains des membres de leur conseil d'administration
-sont exercées jusqu'à l'entrée en fonction du nouveau conseil d'administration
-par le préfet ou par les fonctionnaires qu'il délègue à cet effet.
+6° Au cas de création d'un nouvel office, les attributions conférées par les
+dispositions du présent article aux offices existants ou à certains des membres
+de leur conseil d'administration sont exercées jusqu'à l'entrée en fonction du
+nouveau conseil d'administration par le préfet ou par les fonctionnaires qu'il
+délègue à cet effet.

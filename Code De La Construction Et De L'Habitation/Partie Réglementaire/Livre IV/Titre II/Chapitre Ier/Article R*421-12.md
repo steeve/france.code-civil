@@ -1,6 +1,6 @@
 Article R*421-12
 ----
 Tout membre du conseil d'administration qui, sans motifs reconnus légitimes par
-ce dernier, a manqué à trois convocations successives peut être, après avoir été
-admis à fournir des explications, déclaré démissionnaire par le préfet et
-remplacé immédiatement [*absence, sanction*].
+ce dernier, ne s'est pas rendu à trois convocations successives peut, après
+avoir été mis en mesure de présenter ses observations dans le délai d'un mois,
+être déclaré démissionnaire par le préfet. Il est immédiatement remplacé.

@@ -1,9 +1,7 @@
 Article R362-18-1
 ----
-Il est créé au sein du conseil départemental de l'habitat un comité permanent,
-qui émet en son nom un avis sur toute création, dissolution ou modification de
-compétences des organismes d'habitations à loyer modéré exerçant ou demandant à
-être autorisés à exercer leur activité dans le département.
+Il est créé au sein du conseil départemental de l'habitat un comité permanent
+qui émet, au nom du conseil, l'avis prévu au g de l'article R. 362-2.
 
 Ce comité comprend deux membres de chacun des groupes définis à l'article R.
 362-10 a et un membre de la section prévue au b du même article, désignés par le
