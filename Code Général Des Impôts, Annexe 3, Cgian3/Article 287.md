@@ -41,3 +41,6 @@ déclarations visées au 2 de l'article 37 du même décret ;
 
 13° Pour la publication des décisions et des actes constatant les désistements
 mentionnés à l'article 28-4°-d du décret susvisé du 4 janvier 1955.
+
+14° Pour les actes et attestations rectificatives publiés en application du 3 de
+l'article 34 du décret n° 55-1350 modifié du 14 octobre 1955.

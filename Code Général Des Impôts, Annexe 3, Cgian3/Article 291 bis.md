@@ -1,6 +1,13 @@
 Article 291 bis
 ----
-Il est alloué un salaire fixe de 20 F [*montant*] par personne pour la
-délivrance du relevé des formalités ou du certificat qu'il n'existe pas de
-compte au nom de la personne dénommée dans la réquisition, prévus au 2 de
-l'article 85-1 du décret n° 55-1350 du 14 octobre 1955 modifié.
+Le tarif des salaires exigibles lors de la demande de délivrance des copies et
+des extraits de fiches personnelles de propriétaire ou de fiches d'immeuble est
+fixé à :
+
+1° Copies et extraits de fiches personnelles de propriétaires :
+
+- 40 F par personne individuellement désignée.
+
+2° Copies et extraits de fiches d'immeuble :
+
+- 40 F par immeuble indiqué.

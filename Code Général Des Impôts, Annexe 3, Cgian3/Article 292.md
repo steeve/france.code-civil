@@ -1,16 +1,7 @@
 Article 292
 ----
-Il est perçu :
-
-2 F par formalité avec minimum de 20 F par personne pour la délivrance du relevé
-des formalités prévu à l'article 8 de l'arrêté du 9 avril 1956 portant création
-et fonctionnement des centres spéciaux d'archives hypothécaires;
-
-20 F pour la délivrance du certificat qu'il n'existe aucun compte ou aucune
-formalité remontant à plus de cinquante ans au compte de la personne désignée
-dans la réquisition.
-
-Pour la délivrance par les conservateurs des hypothèques des copies ou extraits
-des documents déposés dans les centres spéciaux d'archives hypothécaires ou
-provisoirement conservés au bureau des hypothèques les salaires sont dus aux
-tarifs prévus aux articles 288 à 291 et 298-II.
+Le tarif des salaires exigibles pour la délivrance des relevés de formalités
+prévus au 2 de l'article 85-1 du décret n° 55-1350 modifié du 14 octobre 1955,
+et à l'article 8 de l'arrêté du 9 avril 1956 portant création et fonctionnement
+des centres spéciaux d'archives hypothécaires est fixé à 30 F par personne du
+chef de laquelle les renseignements sont demandés.
