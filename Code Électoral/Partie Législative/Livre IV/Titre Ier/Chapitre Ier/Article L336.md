@@ -1,6 +1,6 @@
 Article L336
 ----
-Les conseillers régionaux sont élus pour cinq ans ; ils sont rééligibles.
+Les conseillers régionaux sont élus pour six ans ; ils sont rééligibles.
 
 Les conseils régionaux se renouvellent intégralement.
 
