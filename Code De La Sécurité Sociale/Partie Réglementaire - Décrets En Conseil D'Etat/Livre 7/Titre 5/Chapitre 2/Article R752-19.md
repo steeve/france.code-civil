@@ -8,14 +8,14 @@ employés dans des établissements situés dans les départements d'outre-mer.
 L'exonération est déterminée par mois civil et pour chaque salarié en prenant en
 compte le nombre d'heures de travail rémunérées au cours du mois.
 
-Pour les salariés dont la rémunération n'est pas déterminée en fonction du
-nombre d'heures de travail effectuées, est pris en compte le nombre d'heures
-correspondant, sur la période d'emploi rémunérée, à l'application de la durée
-légale ou, si elle est inférieure, à la durée conventionnelle du travail.
-Lorsqu'un salarié est employé à temps partiel, la limite d'exonération
-déterminée en application des dispositions précédentes est proratisée selon le
-rapport entre la rémunération qui lui est versée et celle qu'il percevrait en
-cas d'exercice de son activité à temps plein.
+Pour les salariés dont la rémunération ne peut être déterminée au cours du mois
+en fonction d'un nombre d'heures de travail rémunérées, le nombre d'heures de
+travail pris en compte est réputé égal à la durée collective du travail
+applicable dans l'établissement ou la partie de l'établissement où est employé
+le salarié calculée sur le mois. Lorsque leur période d'emploi rémunérée couvre
+une partie du mois civil, le nombre d'heures à prendre en compte est égal au
+produit du nombre de jours calendaires compris dans la période par un trentième
+du nombre d'heures correspondant à cette durée collective.
 
 En cas de suspension du contrat de travail donnant lieu à versement de
 rémunération, est pris en compte le nombre d'heures correspondant, sur la
