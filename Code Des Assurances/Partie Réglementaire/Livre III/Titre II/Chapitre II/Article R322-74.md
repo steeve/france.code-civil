@@ -1,7 +1,8 @@
 Article R322-74
 ----
-Les sociétés d'assurance à forme mutuelle ne peuvent contracter d'emprunts que
-pour constituer :
+Sous réserve des dispositions des articles L. 322-2-1 et R. 322-105, les
+sociétés d'assurance mutuelles ne peuvent contracter d'emprunts que pour
+constituer :
 
 1° Le fonds d'établissement qu'elles peuvent avoir à constituer aux termes de
 l'article R. 322-47 ;
@@ -17,18 +18,17 @@ opérations et du financement de la production nouvelle ;
 
 Tous les emprunts destinés à former les fonds mentionnés aux 2° et 3° du
 précédent alinéa doivent être autorisés préalablement par l'assemblée générale
-délibérant comme il est dit à l'article R. 322-65 et, dans le cas du 3°, par le
-ministre de l'économie et des finances.
+délibérant comme il est dit à l'article R. 322-65.
 
 Tout emprunt destiné à la constitution et, éventuellement, à l'alimentation du
 fonds social complémentaire doit être autorisé par l'assemblée générale
 délibérant comme il est dit à l'article R. 322-63 et faire l'objet d'une
-résolution spéciale dont la teneur doit être préalablement approuvée par le
-ministre chargé de l'économie et des finances, qui se prononce au vu de l'un des
-plans mentionnés à l'article R. 322-49. Ce plan doit être obligatoirement joint
-au texte de la résolution. A l'expiration d'un délai de deux mois à dater du
-dépôt du texte de la résolution et du document mentionné ci-dessus, et en
-l'absence de décision expresse du ministre, l'autorisation est considérée comme
+résolution spéciale dont la teneur doit être préalablement approuvée par la
+commission de contrôle des assurances, qui se prononce au vu de l'un des plans
+mentionnés à l'article R. 322-49. Ce plan doit être obligatoirement joint au
+texte de la résolution. A l'expiration d'un délai de deux mois à dater du dépôt
+du texte de la résolution et du document mentionné ci-dessus, et en l'absence de
+décision expresse de la commission, l'autorisation est considérée comme
 accordée.
 
 La résolution déterminera quels sociétaires devront souscrire à l'emprunt, sans
@@ -46,8 +46,8 @@ doit figurer également en caractères apparents sur les titres d'emprunts.
 
 Il est porté chaque année dans les charges de l'entreprise une somme constante
 destinée au paiement des intérêts et au remboursement des emprunts ou à la
-constitution de la réserve pour amortissement des emprunts. Sur autorisation du
-ministre de l'économie et des finances, il peut, pendant les cinq années suivant
-la date d'émission de l'emprunt, être dérogé à cette obligation. Celle-ci ne
-s'applique pas aux emprunts contractés pour la constitution et, éventuellement,
-l'alimentation du fonds social complémentaire.
+constitution de la réserve pour amortissement des emprunts. Sur autorisation de
+la commission de contôle des assurances, il peut, pendant les cinq années
+suivant la date d'émission de l'emprunt, être dérogé à cette obligation.
+Celle-ci ne s'applique pas aux emprunts contractés pour la constitution et,
+éventuellement, l'alimentation du fonds social complémentaire.
