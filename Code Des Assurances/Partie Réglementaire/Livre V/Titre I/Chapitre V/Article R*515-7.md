@@ -6,7 +6,7 @@ condamnations encourues pour des infractions mentionnées à l'article L. 511-2 
 pour des infractions de même nature, par la production d'un extrait du casier
 judiciaire ou, à défaut, d'un document équivalent délivré par une autorité
 judiciaire ou administrative compétente de l'Etat d'origine ou de provenance,
-membre de la Communauté économique européenne.
+membre de la Communauté européenne.
 
 Dans le cas où la législation de cet Etat ne prévoit pas la délivrance de l'un
 de ces documents, l'intéressé doit produire une attestation de déclaration sous

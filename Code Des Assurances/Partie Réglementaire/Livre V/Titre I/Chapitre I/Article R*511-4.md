@@ -6,10 +6,10 @@ doit, sous réserve des dérogations prévues au chapitre II du présent titre :
 1° Avoir la majorité légale ;
 
 2° Etre soit de nationalité française, soit ressortissante d'un Etat membre de
-la Communauté économique européenne, soit ressortissante d'un Etat dont la
-législation permet aux ressortissants français d'exercer sur son territoire une
-activité analogue, soit bénéficiant d'une convention internationale les
-assimilant aux ressortissants français ;
+la Communauté européenne, soit ressortissante d'un Etat dont la législation
+permet aux ressortissants français d'exercer sur son territoire une activité
+analogue, soit bénéficiant d'une convention internationale les assimilant aux
+ressortissants français ;
 
 3° Remplir les conditions de capacité professionnelle prévues, pour chaque
 catégorie, par décret pris sur le rapport du ministre de l'économie et des
