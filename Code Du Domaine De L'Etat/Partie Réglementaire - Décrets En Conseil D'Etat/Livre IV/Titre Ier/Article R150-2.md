@@ -1,7 +1,7 @@
 Article R150-2
 ----
-Les chefs des services fiscaux et les directeurs des impôts peuvent, dans les
-conditions fixées par le chef du service des domaines, déléguer une partie de
-leurs pouvoirs en matière domaniale aux fonctionnaires ayant au moins le grade
-d'inspecteur. Ils peuvent également donner délégation de signature à ces mêmes
-agents.
+Dans la limite des compétences domaniales qui lui sont propres, le fonctionnaire
+chargé d'un service à compétence nationale ou d'un service déconcentré de la
+direction générale des impôts peut, dans les conditions fixées par le directeur
+général des impôts, déléguer sa signature aux agents, ayant au moins le grade de
+contrôleur, placés sous son autorité.
