@@ -22,18 +22,17 @@ publique exerçant les compétences requises, déterminées par décret, et dont
 liste est fixée par arrêté du ministre chargé du budget.
 
 II. - Le directeur régional des douanes et droits indirects peut autoriser
-l'emploi d'empreintes fiscales imprimées par les matériels ou logiciels
-mentionnés au I de l'article 164 AM en lieu et place des vignettes. Les
-empreintes doivent comporter les mentions requises au II du même article.
+l'emploi d'empreintes fiscales imprimées par les matériels ou logiciels de
+validation mentionnés à l'article 164 L ou au I de l'article 164 AM en lieu et
+place des vignettes. Les empreintes doivent comporter les mentions requises au
+II du même article.
 
-III. - Sans préjudice des dispositions des articles 164 AT et 164 AU, tout
-usager est tenu, pour chaque vignette ou empreinte manquante ou en cas de
+III. - Sans préjudice des dispositions des articles 164 AL, 164 AT et 164 AU,
+tout usager est tenu, pour chaque vignette ou empreinte manquante ou en cas de
 discontinuité dans la série des numéros d'empreintes devant être apposées sur
 les documents d'accompagnement mentionnés à l'article 302 M du code général des
 impôts et les autres documents de circulation prévus par la réglementation des
 contributions indirectes dans le code général des impôts, d'acquitter une
-indemnité.
-
-Cette indemnité est égale au montant du droit au tarif le plus élevé,
+indemnité. Cette indemnité est égale au montant du droit au tarif le plus élevé,
 correspondant à la quantité moyenne par titre de mouvement des expéditions
 réalisées au cours des trois mois précédents.

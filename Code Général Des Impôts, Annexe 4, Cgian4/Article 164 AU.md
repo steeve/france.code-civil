@@ -1,21 +1,27 @@
 Article 164 AU
 ----
 I. - Toute personne qui désire être autorisée à utiliser les matériels ou
-logiciels doit présenter toutes garanties d'honorabilité et de solvabilité et en
-faire la demande, sur un imprimé fourni par l'administration, au directeur
-régional des douanes et droits indirects du lieu d'utilisation, en précisant
-l'usage auquel ils sont destinés. Une demande séparée est faite par matériel ou
-logiciel.
+logiciels de validation doit présenter toutes garanties d'honorabilité et de
+solvabilité et en faire la demande, sur un imprimé fourni par l'administration,
+au directeur régional des douanes et droits indirects du lieu d'utilisation, en
+précisant l'usage auquel ils sont destinés. Une demande séparée est faite par
+matériel ou logiciel de validation. Le demandeur doit être titulaire de
+l'autorisation d'employer des empreintes mentionnée à l'article 54 A. Il doit
+prendre l'engagement de ne pas rétrocéder à des tiers le ou les matériels ou
+logiciels de validation loués, de ne les utiliser que pour son usage personnel
+ou des personnes agréées nommément désignées auprès de l'administration, de ne
+pas déplacer ou laisser déplacer les matériels ou logiciels de validation en
+dehors de l'établissement désigné comme lieu d'exploitation sans l'autorisation
+du service des douanes et droits indirects et de se conformer strictement aux
+règles en vigueur.
 
-Elle doit prendre l'engagement de ne pas rétrocéder à des tiers le ou les
-matériels ou logiciels loués, de ne les utiliser que pour son usage personnel ou
-des personnes nommément désignées, de ne pas déplacer ou laisser déplacer les
-matériels ou logiciels en dehors de l'établissement désigné comme lieu
-d'exploitation sans l'autorisation du service des douanes et droits indirects et
-de se conformer strictement aux règles en vigueur.
-
-En cas d'utilisation collective, la personne autorisée doit préciser les nom,
-adresse et numéro d'agrément des utilisateurs.
+En cas d'utilisation collective, la personne autorisée doit être en mesure pour
+chaque utilisateur de préciser les nom, adresse et numéro d'agrément mentionné
+au quatrième alinéa de l'article 286 K de l'annexe II au code général des
+impôts, à toute réquisition du service. Ces utilisateurs doivent être titulaires
+de l'autorisation mentionnée à l'article 54 A pour employer les empreintes
+fiscales des matériels et logiciels de validation mentionnés au premier alinéa
+du présent article auxquels ils sont rattachés.
 
 II. - Seront réputés non timbrés les documents et marques fiscales dont les
 empreintes auront été apposées par une personne non autorisée.
