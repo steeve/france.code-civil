@@ -1,14 +1,15 @@
 Article 238 septies E
 ----
-I. - Constitue une prime de remboursement :
+I. Constitue une prime de remboursement :
 
-1. Pour les emprunts négociables visés à l'article 118, les titres de créances
-négociables visés à l'article 124 B et tous autres titres ou contrats d'emprunt
-ou de capitalisation non négociables, émis ou conclus à compter du 1er janvier
-1993, la différence entre les sommes ou valeurs à recevoir quelle que soit leur
-nature, à l'exception des intérêts linéaires versés chaque année à échéances
-régulières et restant à recevoir après l'acquisition, et celles versées lors de
-la souscription ou de l'acquisition ;
+1. Pour les emprunts négociables visés à l'article 118 (( et aux 6° et 7° de
+l'article 120 )) (1) , les titres de créances négociables visés à l'article 124
+B et tous autres titres ou contrats d'emprunt ou de capitalisation ((
+négociables ou non )) (1), émis ou conclus à compter du 1er janvier 1993, la
+différence entre les sommes ou valeurs à recevoir quelle que soit leur nature, à
+l'exception des intérêts linéaires versés chaque année à échéances régulières et
+restant à recevoir après l'acquisition, et celles versées lors de la
+souscription ou de l'acquisition ;
 
 2. Pour les emprunts ou titres de même nature démembrés à compter du 1er janvier
 1993, la différence entre les sommes ou valeurs à recevoir quelle que soit leur
@@ -94,3 +95,5 @@ contrats de même nature, les éléments retenus pour le calcul de ces sommes. C
 V. - Les dispositions du présent article ne sont pas applicables aux titres
 détenus par les personnes physiques dans le cadre de la gestion de leur
 patrimoine privé.
+
+(1) Modifications de la loi 93-1353.

@@ -1,9 +1,9 @@
 Article 208 sexies
 ----
 Les entreprises créées dans les départements de la Corse du 1er janvier 1988 au
-31 décembre 1993 [*période, date de création*], soumises à l'impôt sur les
-sociétés dans les conditions de droit commun et qui exercent l'ensemble de leur
-activité dans ces départements et dans les secteurs de l'industrie, de
+31 décembre ((1994)) (1) [*période, date de création*], soumises à l'impôt sur
+les sociétés dans les conditions de droit commun et qui exercent l'ensemble de
+leur activité dans ces départements et dans les secteurs de l'industrie, de
 l'hôtellerie, du bâtiment et des travaux publics sont exonérées d'impôt sur les
 sociétés à raison des bénéfices qu'elles réalisent à compter de la date de leur
 création jusqu'au terme du quatre-vingt-quinzième mois suivant celui au cours
@@ -24,3 +24,5 @@ du livre des procédures fiscales.
 
 Le bénéfice à retenir pour l'application du présent article s'entend du bénéfice
 déclaré selon les modalités prévues à l'article 53 A.
+
+(1) Modification de la loi 93-1353.

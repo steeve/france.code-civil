@@ -5,11 +5,11 @@ les biens livrés ou les services rendus à un autre assujetti ou à une personn
 morale non assujettie, ainsi que pour les acomptes perçus au titre de ces
 opérations lorsqu'ils donnent lieu à exigibilité de la taxe.
 
-Tout assujetti doit également délivrer une facture ou un document en tenant lieu
-pour les livraisons de biens dont le lieu n'est pas situé en France en
-application des dispositions de l'article 258 A et pour les livraisons de biens
-exonérées en application du I de l'article 262 ter, ainsi que pour les acomptes
-perçus au titre de ces opérations.
+((Tout assujetti doit également délivrer une facture ou un document en tenant
+lieu pour les livraisons de biens visées aux articles 258 A et 258 B et pour les
+livraisons de biens exonérées en application du I de l'article 262 ter et du II
+de l'article 298 sexies, ainsi que pour les acomptes perçus au titre de ces
+opérations)) (1).
 
 L'assujetti doit conserver un double de tous les documents émis.
 
@@ -34,10 +34,9 @@ III. Un décret en Conseil d'Etat fixe les autres éléments d'identification de
 parties et données concernant les biens livrés ou les services rendus qui
 doivent figurer sur la facture.
 
-la facture doit être établie par les prestataires.
-
 IV. L'entraîneur bénéficiaire des sommes mentionnées au 19° de l'article 257
 doit établir une facture du montant du gain réalisé et y ajouter le montant de
 la taxe sur la valeur ajoutée.
 
-(1) Voir Annexe III, art. 95.
+(1) Modifications de la loi 93-1353, dispositions applicables à compter du 1er
+janvier 1993. [*Cf. Instruction 1994-09-07 3E-2-94.*]
