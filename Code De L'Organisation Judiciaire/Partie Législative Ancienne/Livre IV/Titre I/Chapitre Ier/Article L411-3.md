@@ -1,0 +1,3 @@
+Article L411-3
+----
+Comme il est dit à l'article 632 du code du commerce : ...
