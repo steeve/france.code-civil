@@ -12,8 +12,9 @@ convention de réciprocité avec la France dans le cadre de l'article L. 643-8 ;
 3°) résider sur le territoire de la France métropolitaine ;
 
 4°) ne pas bénéficier et ne pas être en droit de bénéficier, de son propre chef
-ou du chef de son conjoint, d'un avantage de vieillesse tel que pension,
-retraite, rente ou allocation de vieillesse :
+ou du chef de son conjoint, d'un avantage de vieillesse, quelle que soit sa
+dénomination, servi par un régime de base obligatoire institué par une
+disposition législative ou réglementaire :
 
 a. du régime général de sécurité sociale ;
 
@@ -32,7 +33,8 @@ présent titre et au décret n° 51-727 du 6 juin 1951 modifié ;
 
 5°) ne pas disposer de revenus annuels de quelque nature que ce soit, réels ou
 présumés, excédant, allocation spéciale comprise, un chiffre limite de
-ressources fixé par décret.
+ressources fixé par décret. S'il existe un excédent inférieur au montant de
+l'allocation spéciale une allocation différentielle est servie.
 
 Pour l'évaluation des ressources des postulants, il est fait application des
 dispositions des articles R. 815-22, R. 815-25 à R. 815-33 et R. 815-40.
