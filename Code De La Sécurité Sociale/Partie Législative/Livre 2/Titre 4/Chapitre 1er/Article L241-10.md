@@ -23,22 +23,12 @@ d'invalidité et des victimes de la guerre ;
 
 d) Des personnes se trouvant, dans des conditions définies par décret, dans
 l'obligation de recourir à l'assistance d'une tierce personne pour accomplir les
-actes ordinaires de la vie et titulaires :
+actes ordinaires de la vie, sous réserve d'avoir dépassé un âge fixé par décret
+;
 
-- soit d'un avantage de vieillesse servi en application du présent code ou du
-code rural ;
-
-- soit d'une pension d'invalidité servie par un régime spécial de sécurité
-sociale, sous réserve d'avoir dépassé un âge déterminé par décret ;
-
-- soit d'une pension allouée aux militaires invalides au titre de l'article L. 2
-du code des pensions militaires d'invalidité et des victimes de la guerre, sous
-réserve d'avoir dépassé un âge déterminé par décret ;
-
-e) Des personnes remplissant, dans des conditions définies par décret, la
-condition de degré de dépendance prévue à l'article 2 de la loi n° 97-60 du 24
-janvier 1997 tendant à mieux répondre aux besoins des personnes âgées par
-l'institution d'une prestation spécifique dépendance.
+e) Des personnes remplissant la condition de perte d'autonomie prévue à
+l'article L. 232-2 du code de l'action sociale et des familles, dans des
+conditions définies par décret.
 
 L'exonération est accordée sur la demande des intéressés par l'organisme chargé
 du recouvrement des cotisations dans les conditions fixées par arrêté
@@ -56,18 +46,21 @@ sociales, d'accidents du travail et d'allocations familiales dues sur la
 rémunération qu'elles versent à ces particuliers.
 
 III. - Les rémunérations des aides à domicile employées sous contrat à durée
-indéterminée par les associations admises, en application de l'article L. 129-1
-du code du travail, à exercer des activités concernant la garde d'enfant ou
-l'assistance aux personnes âgées ou handicapées, les centres communaux et
-intercommunaux d'action sociale et les organismes habilités au titre de l'aide
-sociale ou ayant passé convention avec un organisme de sécurité sociale sont
-exonérées totalement des cotisations patronales d'assurances sociales,
-d'accidents du travail et d'allocations familiales pour la fraction versée en
-contrepartie de l'exécution des tâches effectuées chez les personnes visées aux
-b, c, d et e du I ou bénéficiaires de prestations d'aide ménagère aux personnes
-âgées ou handicapées au titre de l'aide sociale légale ou dans le cadre d'une
-convention conclue entre ces associations ou organismes et un organisme de
-sécurité sociale.
+indéterminée ou sous contrat à durée déterminée pour remplacer les salariés
+absents ou dont le contrat de travail est suspendu dans les conditions visées à
+l'article L. 122-1-1 du code du travail par les associations admises, en
+application de l'article L. 129-1 du code du travail, à exercer des activités
+concernant la garde d'enfant ou l'assistance aux personnes âgées ou handicapées,
+les centres communaux et intercommunaux d'action sociale et les organismes
+habilités au titre de l'aide sociale ou ayant passé convention avec un organisme
+de sécurité sociale sont exonérées totalement des cotisations patronales
+d'assurances sociales, d'accidents du travail et d'allocations familiales pour
+la fraction versée en contrepartie de l'exécution des tâches effectuées chez les
+personnes visées au I ou bénéficiaires de prestations d'aide ménagère aux
+personnes âgées ou handicapées au titre de l'aide sociale légale ou dans le
+cadre d'une convention conclue entre ces associations ou organismes et un
+organisme de sécurité sociale, dans la limite, pour les personnes visées au a du
+I, du plafond prévu par ce a.
 
 Un décret détermine les modalités d'application de l'exonération prévue par
 l'alinéa ci-dessus et notamment :

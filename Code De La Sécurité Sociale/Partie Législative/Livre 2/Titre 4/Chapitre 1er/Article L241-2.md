@@ -22,12 +22,8 @@ et revenus de remplacement mentionnés aux 1° et 2° du présent article.
 Les ressources des assurances maladie, maternité, invalidité et décès sont en
 outre constituées par :
 
-1° Une fraction égale à 2,61 % du droit de consommation prévu à l'article 575 du
+1° Une fraction égale à 8,84 % du droit de consommation prévu à l'article 575 du
 code général des impôts ;
 
-2° Une fraction fixée à 45 % du produit du droit de consommation prévu à
-l'article 403 du code général des impôts, à l'exception du produit de ce droit
-de consommation perçu dans les départements de la collectivité territoriale de
-Corse et du prélèvement perçu au profit du budget annexe des prestations
-sociales agricoles selon les dispositions de l'article 1615 bis du code général
-des impôts.
+2° Le remboursement par la Caisse nationale des allocations familiales des
+indemnités versées en application des articles L. 331-8 et L. 722-8-3.

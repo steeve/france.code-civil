@@ -81,10 +81,10 @@ relative à la famille ;
 
 7° Les indemnités journalières ou allocations versées par les organismes de
 sécurité sociale ou, pour leur compte, par les employeurs à l'occasion de la
-maladie, de la maternité, des accidents du travail et des maladies
-professionnelles, à l'exception des rentes viagères et indemnités en capital
-servies aux victimes d'accident du travail ou de maladie professionnelle ou à
-leurs ayants droit.
+maladie, de la maternité ou de la paternité, des accidents du travail et des
+maladies professionnelles, à l'exception des rentes viagères et indemnités en
+capital servies aux victimes d'accident du travail ou de maladie professionnelle
+ou à leurs ayants droit.
 
 III. - Ne sont pas inclus dans l'assiette de la contribution :
 

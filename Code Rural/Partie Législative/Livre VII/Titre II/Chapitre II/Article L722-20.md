@@ -43,7 +43,20 @@ généraux des sociétés anonymes, ainsi que gérants de sociétés à responsa
 limitée, à condition que lesdits gérants ne possèdent pas, ensemble, plus de la
 moitié du capital social, étant entendu que les parts appartenant, en toute
 propriété ou en usufruit, au conjoint et aux enfants mineurs non émancipés d'un
-gérant sont considérées comme possédées par ce dernier.
+gérant sont considérées comme possédées par ce dernier ;
+
+9° Lorsque les sociétés dont ils sont les dirigeants relèvent des dispositions
+des 1° à 4° de l'article L. 722-1, présidents et dirigeants des sociétés par
+actions simplifiées ;
+
+10° Dirigeants des associations ayant un objet agricole, remplissant les
+conditions prévues au deuxième alinéa du d du 1° du 7 de l'article 261 du code
+général des impôts ;
+
+9° Lorsque les groupements mutualistes dont ils sont administrateurs relèvent
+des dispositions du 6° du présent article, administrateurs des groupements
+mutualistes qui perçoivent une indemnité de fonction et qui ne relèvent pas, à
+titre obligatoire, d'un régime de sécurité sociale.
 
 Les salariés et assimilés définis au présent article sont désignés dans les
 titres II à VI du présent livre par les termes salariés agricoles.

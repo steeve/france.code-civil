@@ -7,6 +7,10 @@ dans la limite du plafond visé à l'article L. 741-14. En ce qui concerne la
 cotisation ouvrière, ce plafond s'applique à l'ensemble de la rémunération
 perçue par le salarié.
 
+Par dérogation au précédent alinéa, la part de cotisations incombant à chaque
+employeur peut être déterminée comme si le salarié occupait un emploi à temps
+partiel dans chacun des établissements employeurs.
+
 Au cas où un salarié relève simultanément du régime applicable aux professions
 agricoles et du régime applicable aux professions non agricoles, le plafond
 mentionné au premier alinéa s'applique en ce qui concerne les cotisations

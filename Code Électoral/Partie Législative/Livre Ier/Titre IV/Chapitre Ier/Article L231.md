@@ -22,8 +22,8 @@ comprises dans le ressort de leur commandement territorial ;
 
 5° Les fonctionnaires des corps actifs de la police nationale ;
 
-6° Les comptables des deniers communaux et les entrepreneurs de services
-municipaux ;
+6° Les comptables des deniers communaux agissant en qualité de fonctionnaire et
+les entrepreneurs de services municipaux ;
 
 7° Les directeurs et les chefs de bureau de préfecture et les secrétaires en
 chef de sous-préfecture ;
@@ -34,7 +34,7 @@ adjoints, chefs de service et chefs de bureau de conseil général et de conseil
 régional, le directeur de cabinet du président de l'assemblée et le directeur de
 cabinet du président du conseil exécutif de Corse, les directeurs généraux, les
 directeurs, les directeurs adjoints, chefs de service et chefs de bureau de la
-collectivité territoriale de Corse et de ses établissements publics ;.
+collectivité territoriale de Corse et de ses établissements publics ;
 
 9° En tant que chargés d'une circonscription territoriale de voirie : les
 ingénieurs en chef, ingénieurs divisionnaires et ingénieurs des travaux publics

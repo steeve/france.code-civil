@@ -1,8 +1,7 @@
 Article L135-3
 ----
 Les recettes du fonds affectées au financement des dépenses mentionnées à
-l'article L. 135-2 et à l'article 49 de la loi n° 2002-73 du 17 janvier 2002 de
-modernisation sociale sont constituées par :
+l'article L. 135-2 sont constituées par :
 
 1° Une fraction du produit des contributions sociales mentionnées aux articles
 L. 136-1, L. 136-6, L. 136-7 et L. 136-7-1, à concurrence d'un montant

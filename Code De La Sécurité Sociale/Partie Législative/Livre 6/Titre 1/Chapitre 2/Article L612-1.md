@@ -13,9 +13,10 @@ de certaines sociétés instituées par l'article L. 651-1 ;
 l'article L. 651-10 ;
 
 5°) les versements à intervenir au titre de la compensation instituée par
-l'article L. 134-1.
+l'article L. 134-1 ;
 
 6°) une fraction du produit des contributions sociales mentionnées aux articles
-L. 136-1, L. 136-6, L. 136-7, L. 136-7-1, et une fraction du produit des droits
-visé à l'article L. 139-1, à concurrence du montant correspondant à
-l'application des dispositions de l'article L. 139-2.
+L. 136-1, L. 136-6, L. 136-7, L. 136-7-1 ;
+
+7° Le remboursement par la Caisse nationale des allocations familiales des
+indemnités versées en application de l'article L. 615-19-2.

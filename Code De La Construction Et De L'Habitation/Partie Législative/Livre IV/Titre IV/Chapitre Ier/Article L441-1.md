@@ -10,11 +10,13 @@ de la composition, du niveau de ressources et des conditions de logement
 actuelles du ménage, de l'éloignement des lieux de travail et de la proximité
 des équipements répondant aux besoins des demandeurs. Il fixe des critères
 généraux de priorité pour l'attribution des logements, notamment au profit de
-personnes mal logées, défavorisées ou rencontrant des difficultés particulières
-de logement pour des raisons d'ordre financier ou tenant à leurs conditions
-d'existence. Il fixe également les conditions dans lesquelles le maire de la
-commune d'implantation des logements est consulté sur les principes régissant
-ces attributions et sur le résultat de leur application.
+personnes en situation de handicap ou de familles ayant à leur charge une
+personne en situation de handicap, de personnes mal logées, défavorisées ou
+rencontrant des difficultés particulières de logement pour des raisons d'ordre
+financier ou tenant à leurs conditions d'existence. Il fixe également les
+conditions dans lesquelles le maire de la commune d'implantation des logements
+est consulté sur les principes régissant ces attributions et sur le résultat de
+leur application.
 
 Le décret mentionné à l'alinéa précédent fixe également les limites et
 conditions dans lesquelles les organismes d'habitations à loyer modéré peuvent,

@@ -12,9 +12,10 @@ Le montant de l'objectif quantifié national est arrêté par les ministres char
 de la santé, de la sécurité sociale, de l'économie et du budget en fonction de
 l'objectif national de dépenses d'assurance maladie, dans un délai de quinze
 jours suivant la promulgation de la loi de financement de la sécurité sociale.
-Ce montant prend en compte les évolutions de toute nature à l'issue desquelles
-des établissements de santé ou des services et des activités de ces
-établissements se trouvent placés, pour tout ou partie :
+Ce montant prend en compte, outre la part mentionnée à l'article L. 162-43, les
+évolutions de toute nature à l'issue desquelles des établissements de santé ou
+des services et des activités de ces établissements se trouvent placés, pour
+tout ou partie :
 
 a) Sous le régime de financement prévu à l'article L. 174-1 du présent code
 alors qu'ils étaient auparavant régis par l'article L. 710-16-2 du code de la

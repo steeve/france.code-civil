@@ -7,10 +7,13 @@ l'adoption confie un enfant en vue de son adoption. Cette indemnité est
 articles 63 ou 100-3 du code de la famille et de l'aide sociale lorsqu'elle
 adopte ou accueille un enfant en vue de son adoption par décision de l'autorité
 étrangère compétente, à condition que l'enfant ait été autorisé, à ce titre, à
-entrer sur le territoire français. Elle est due à la condition que l'intéressée
-cesse tout travail salarié durant la période d'indemnisation, pendant dix
-semaines au plus, à compter de l'arrivée de l'enfant au foyer , vingt-deux
-semaines au plus en cas d'adoptions multiples.
+entrer sur le territoire français.
+
+L'indemnité journalière de repos est due, pendant dix semaines au plus ou
+vingt-deux semaines au plus en cas d'adoptions multiples, à la condition que
+l'intéressée cesse tout travail salarié durant la période d'indemnisation.
+Celle-ci débute à compter de l'arrivée de l'enfant au foyer ou dans les sept
+jours qui précèdent la date prévue de cette arrivée.
 
 La période d'indemnisation est portée à dix-huit semaines lorsque, du fait de
 l'adoption, l'assurée ou le ménage assume la charge de trois enfants au moins
@@ -24,6 +27,7 @@ renoncé à son droit.
 
 La période d'indemnisation prévue au présent article peut faire l'objet d'une
 répartition entre la mère et le père adoptifs lorsque l'un et l'autre ont
-vocation à bénéficier de l'indemnité journalière de repos. La période
-d'indemnisation ne pourra pas être fractionnée en plus de deux parties, dont la
-plus courte ne pourra être inférieure à quatre semaines.
+vocation à bénéficier de l'indemnité journalière de repos. Dans ce cas, la
+période d'indemnisation est augmentée de onze jours ou de dix-huit jours en cas
+d'adoptions multiples et ne peut être fractionnée en plus de deux parties, dont
+la plus courte est au moins égale à onze jours.

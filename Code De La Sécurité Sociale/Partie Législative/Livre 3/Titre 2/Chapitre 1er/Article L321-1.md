@@ -52,4 +52,7 @@ santé ;
 
 8° La couverture des frais relatifs aux examens de dépistage effectués dans le
 cadre des programmes arrêtés en application des dispositions de l'article L. 55
-du code de la santé publique.
+du code de la santé publique ;
+
+9° La couverture des frais relatifs à l'examen de prévention bucco-dentaire
+mentionné à l'article L. 2132-2-1 du code de la santé publique.

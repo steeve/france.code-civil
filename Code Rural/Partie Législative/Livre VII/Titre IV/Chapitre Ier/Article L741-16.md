@@ -11,3 +11,7 @@ pas, par année civile, un maximum fixé par décret.
 
 Un décret fixe les taux réduits ainsi que la durée maximale d'emploi y ouvrant
 droit.
+
+Lorsqu'ils embauchent des travailleurs occasionnels dans le cadre d'un contrat
+de travail défini à l'article L. 122-3-18 du code du travail, la rémunération ne
+donne pas lieu à cotisation d'assurances sociales à la charge du salarié.

@@ -116,4 +116,13 @@ décret précise les types d'activités et de rémunérations en cause.
 Toutefois, ces dispositions ne sont pas applicables, sur leur demande, dans des
 conditions fixées par décret, aux personnes exerçant à titre principal une des
 professions visées à l'article L. 621-3, lorsque les activités occasionnelles
-visées ci-dessus en sont le prolongement.
+visées ci-dessus en sont le prolongement ;
+
+22° Les dirigeants des associations remplissant les conditions prévues au
+deuxième alinéa du d du 1° du 7 de l'article 261 du code général des impôts ;
+
+23° Les présidents et dirigeants des sociétés par actions simplifiées ;
+
+24° Les administrateurs des groupements mutualistes qui perçoivent une indemnité
+de fonction et qui ne relèvent pas, à titre obligatoire, d'un régime de sécurité
+sociale.
