@@ -2,33 +2,36 @@ Article D162-17-1
 ----
 Les frais d'hospitalisation pris en charge par les régimes obligatoires
 d'assurance maladie, mentionnés au I de l'article L. 162-22-2, sont ceux
-correspondant au forfait global annuel mentionné à l'article L. 162-22-8 et aux
-prestations suivantes :
+correspondant aux forfaits et aux remboursements afférents à la fourniture des
+produits suivants :
 
-- forfait journalier de séjour et de soins, à l'exception du forfait journalier
-de soins de longue durée ;
+- forfait global annuel d'urgence ;
 
-- prestation versée pour la fourniture de données dans le cadre du programme de
-médicalisation des systèmes d'information ;
+- prix de journée ;
 
-- suppléments au forfait journalier de séjour et de soins :
-
-chambre particulière pour raison médicale, surveillance du malade, frais
-d'hospitalisation du nouveau-né donnant lieu à facturation en supplément de
-l'hospitalisation de la mère en maison de repos, chambre chaude, incubateur,
-chambre plombée, alimentation parentérale ;
-
-- forfait de médicaments ;
+- forfait de surveillance médicale ;
 
 - forfait d'entrée ;
 
-- forfait d'activité non programmée ;
+- forfait de prestations pour la fourniture de données dans le cadre du
+programme de médicalisation des systèmes d'information ;
 
-- forfait de consommable onéreux ;
+- supplément au prix de journée pour mise à disposition du patient, sur
+prescription médicale imposant l'isolement, d'une chambre particulière ;
 
-- forfait de traitement cardiaque ;
+- forfaits d'accueil et de suivi ;
 
-- forfait journalier cardiaque ;
+- forfaits d'accueil et de surveillance ;
+
+- forfait de séance de chimiothérapie ;
+
+- supplément au forfait de séance de chimiothérapie ;
+
+- forfaits de séance de soins ;
+
+- forfait de dialyse ;
+
+- forfait de médicaments ;
 
 - forfait afférent aux frais de salle d'opération et majorations de nuit,
 dimanche et jours fériés ;
@@ -36,44 +39,36 @@ dimanche et jours fériés ;
 - forfait afférent aux frais de sécurité et d'environnement et majorations de
 nuit, dimanche et jours fériés ;
 
+- forfaits afférents aux frais de salle d'accouchement et majorations de nuit,
+dimanche et jours fériés ;
+
+- forfait pour la prise en charge du nouveau-né ;
+
 - forfait d'anesthésie et réanimation ;
 
 - forfait afférent aux frais de sécurité pour les actes d'anesthésie réalisés à
 l'occasion d'une sismothérapie ;
 
-- forfait afférent aux frais de salle d'accouchement et majorations de nuit,
-dimanche et jours fériés ;
-
-- forfaits d'accueil et de suivi ;
-
-- forfaits d'accueil et de surveillance ;
-
-- forfait de séance de diagnostic ;
-
-- forfait de séance de chimiothérapie ;
-
-- forfait de séance de radiothérapie ;
-
-- autres forfaits de séances de soins ;
+- forfait de consommable onéreux ;
 
 - forfait de petit matériel ;
 
-- forfait de séance de dialyse ;
+- forfait d'activité non programmée ;
 
 - forfait d'accueil et de traitement des urgences ;
 
 - produits sanguins labiles, y compris les frais de transport y afférents ;
 
-- produits sanguins stables ayant le statut de médicaments et inscrits sur la
-liste des spécialités pharmaceutiques agréées à l'usage des collectivités ;
-
 - lait humain ;
+
+- dispositifs médicaux implantables, les implants issus de dérivés d'origine
+humaine ou en comportant ;
 
 - orthoprothèses ;
 
 - prothèses oculaires et faciales ;
 
-- dispositifs médicaux implantables actifs ou non et implants issus de dérivés
-d'origine animale ou en comportant, et greffons tissulaires d'origine humaine ;
+- appareils divers de correction orthopédique et matériaux pour réalisation
+d'appareil d'immobilisation d'application immédiate ;
 
 - véhicules pour handicapés physiques.
