@@ -5,19 +5,19 @@ passagers des navires de commerce perçue au titre du droit de port sont les
 suivants pour les passagers empruntant un aéroglisseur amphibie ou tout autre
 navire :
 
-1. Passagers à destination d'un port de France continentale ou de la Corse :
-7,88 F (avec réduction de 50 p. 100 pour les passagers de 4e classe). Les
+1. Passagers à destination d'un port de la France continentale ou de la Corse :
+8,08 F (avec réduction de 50 p. 100 pour les passagers de 4e classe). Les
 passagers d'aéroglisseur amphibie ou de navire à classe unique sont assimilés
 aux passagers de 2e classe pour la perception de la taxe ;
 
 2. Passagers en provenance ou à destination d'un port des îles Britanniques ou
-des îles Anglo-Normandes : 16,67 F ;
+des îles Anglo-Normandes : 17,09 F ;
 
 3. Passagers en provenance ou à destination d'un port situé en Europe (à
 l'exception de ceux cités aux 1 et 2 ci-dessus) ou en tout pays du bassin
-méditerranéen : 20 F ;
+méditerranéen : 20,50 F ;
 
-4. Passagers en provenance ou à destination de tous les autres ports : 71,21 F.
+4. Passagers en provenance ou à destination de tous les autres ports : 72,99 F.
 
 Les taux de la taxe sur les passagers sont réduits :
 
