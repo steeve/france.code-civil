@@ -80,12 +80,10 @@ compte dans ce choix de l'orientation médicale de l'établissement ;
 
 5° Les représentants des usagers sont nommés par le directeur de l'agence
 régionale de l'hospitalisation, après avis du préfet du département dans lequel
-l'établissement a son siège, parmi les personnes proposées par les organisations
-qui représentent au niveau régional ou départemental les intérêts des patients,
-des consommateurs, des familles, des personnes âgées et des personnes
-handicapées et dont le directeur de l'agence estime que l'objet social
-correspond le mieux à l'orientation médicale et médico-sociale de
-l'établissement.
+l'établissement a son siège, parmi les personnes proposées par les associations
+agréées en application de l'article L. 1114-1 et dont le directeur de l'agence
+estime que l'objet social correspond le mieux à l'orientation médicale et
+médico-sociale de l'établissement.
 
 III. - Les membres des conseils d'administration des établissements publics de
 santé interhospitaliers mentionnés à l'article R. 714-2-7-1, qui ne sont ni

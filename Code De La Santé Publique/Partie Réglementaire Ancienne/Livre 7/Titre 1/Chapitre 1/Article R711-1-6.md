@@ -16,8 +16,6 @@ conseil d'administration, ou l'organe qualifié qui en tient lieu, ne comporte
 pas de représentant des usagers, un représentant de ceux-ci est désigné par le
 directeur de l'agence régionale de l'hospitalisation, après avis du préfet du
 département dans lequel l'établissement a son siège, parmi les personnes
-proposées par les organisations qui représentent au niveau régional ou
-départemental les intérêts des patients, des consommateurs, des familles, des
-personnes âgées et des personnes handicapées, et dont le directeur de l'agence
-estime que l'objet social correspond le mieux à l'orientation médicale et
-médico-sociale de l'établissement.
+proposées par les associations agréées en application de l'article L. 1114-1, et
+dont le directeur de l'agence estime que l'objet social correspond le mieux à
+l'orientation médicale et médico-sociale de l'établissement.

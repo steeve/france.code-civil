@@ -35,9 +35,8 @@ celle-ci ;
 
 10° Trois représentants des personnels désignés par le ministre chargé de la
 santé, sur proposition des organisations syndicales les plus représentatives,
-parmi les personnels titulaires relevant de la loi n° 86-33 du 9 janvier 1986
-modifiée portant dispositions statutaires relatives à la fonction publique
-hospitalière ;
+parmi les personnels titulaires relevant du titre IV du statut général des
+fonctionnaires ;
 
 11° Trois personnalités qualifiées nommées par le ministre chargé de la santé,
 sur proposition du préfet du département du Val-de-Marne après avis du directeur
