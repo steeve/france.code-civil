@@ -1,18 +1,38 @@
 Article R*213-4
 ----
-Le certificat est délivré par le ministre chargé de la protection de la nature
-après avis d'une commission comprenant en nombre égal des représentants des
-ministères intéressés, des responsables d'établissements mentionnés à l'article
-R. 213-5 et des personnalités qualifiées.
+I. - Le certificat de capacité est délivré par le préfet.
 
-Un arrêté du ministre fixe l'organisation et le fonctionnement de la commission.
+II. - Le ministre chargé de la protection de la nature fixe par arrêté, pris
+après avis de la commission instituée par l'article R. 213-1-1, les diplômes ou
+les conditions d'expérience professionnelle exigés à l'appui de la demande
+prévue par l'article R. 213-3.
 
-Le certificat de capacité peut être accordé à titre définitif ou pour une
-période limitée.
+III. - Lorsque l'objet principal des établissements fixes ou mobiles est la
+présentation au public d'animaux appartenant à des espèces non domestiques
+autres que celles figurant sur une liste arrêtée par le ministre chargé de la
+protection de la nature, le préfet saisit la commission nationale instituée par
+l'article R. 213-1-1.
 
-Il fixe la liste des espèces ou groupes d'espèces ainsi que le nombre des
-animaux de chaque espèce ou groupe dont le bénéficiaire peut assurer
-l'entretien, ainsi que la nature des activités susceptibles d'être pratiquées.
+IV. - Lorsque l'objet de l'établissement est différent de celui mentionné au III
+ou que la présentation au public porte sur des animaux figurant sur la liste
+prévue au III, le certificat de capacité est délivré après avis de la commission
+départementale des sites, perspectives et paysages siégeant dans la formation de
+faune sauvage captive.
 
-Ces qualifications peuvent être modifiées sur demande du bénéficiaire présentée
-selon les mêmes modalités que la demande initiale.
+Un arrêté du ministre chargé de la protection de la nature, pris après avis de
+la commission instituée par l'article R. 213-1-1, fixe, en fonction des diplômes
+et des conditions d'expérience, ainsi, éventuellement, que des espèces animales
+concernées, les cas où le certificat de capacité peut être délivré sans
+consultation de la commission départementale des sites, perspectives et
+paysages.
+
+V. - Le certificat de capacité peut être accordé pour une durée indéterminée ou
+limitée. Il peut être suspendu ou retiré, après que son détenteur a été mis à
+même de présenter ses observations.
+
+VI. - Le certificat de capacité mentionne les espèces ou groupes d'espèces et le
+type d'activités pour lesquels il est accordé, ainsi, éventuellement, que le
+nombre d'animaux dont l'entretien est autorisé.
+
+Le bénéficiaire du certificat peut demander sa modification, laquelle est
+instruite dans les conditions prévues par le présent article.
