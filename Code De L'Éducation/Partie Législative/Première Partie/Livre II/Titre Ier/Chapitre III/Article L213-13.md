@@ -1,5 +1,6 @@
 Article L213-13
 ----
-La loi prévue à l'article 46 de la loi n° 82-1153 du 30 décembre 1982
-d'orientation des transports intérieurs adaptera les dispositions des articles
-L. 213-11 et L. 213-12 à la région d'Ile-de-France.
+Les articles L. 213-11 et L. 213-12 ne s'appliquent pas dans la région
+d'Ile-de-France, conformément aux dispositions de l'ordonnance n° 59-151 du 7
+janvier 1959 relative à l'organisation des transports de voyageurs en
+Ile-de-France.

@@ -1,5 +1,5 @@
 Article L213-14
 ----
-La participation de l'Etat en matière de transports scolaires est égale à 65 %
-des dépenses subventionnables dans tous les départements où les transports
-scolaires sont gratuits à la date du 30 juin 1983.
+Dans la région d'Ile-de-France, les frais de transport individuel des élèves
+handicapés vers les établissements scolaires rendus nécessaires du fait de leur
+handicap sont supportés par le Syndicat des transports d'Ile-de-France.
