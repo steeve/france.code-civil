@@ -1,4 +1,5 @@
 Article L5
 ----
-Ne doivent pas être inscrits sur les listes électorales les majeurs sous
-tutelle.
+Les majeurs placés sous tutelle ne peuvent être inscrits sur les listes
+électorales à moins qu'ils n'aient été autorisés à voter par le juge des
+tutelles.

@@ -12,3 +12,11 @@ Lors de la présentation de la liste des fournitures scolaires, les élèves
 reçoivent une information sur la nécessité d'éviter l'achat de produits
 fabriqués par des enfants dans des conditions contraires aux conventions
 internationalement reconnues.
+
+L'enseignement d'éducation civique comporte également, à l'école primaire et au
+collège, une formation consacrée à la connaissance et au respect des problèmes
+des personnes handicapées et à leur intégration dans la société.
+
+Les établissements scolaires s'associent avec les centres accueillant des
+personnes handicapées afin de favoriser les échanges et les rencontres avec les
+élèves.

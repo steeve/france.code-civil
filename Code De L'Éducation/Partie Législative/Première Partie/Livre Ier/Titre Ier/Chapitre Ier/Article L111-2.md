@@ -9,8 +9,8 @@ ses responsabilités d'homme et de citoyen. Elle constitue la base de l'éducati
 permanente. Les familles sont associées à l'accomplissement de ces missions.
 
 Pour favoriser l'égalité des chances, des dispositions appropriées rendent
-possible l'accès de chacun, en fonction de ses aptitudes, aux différents types
-ou niveaux de la formation scolaire.
+possible l'accès de chacun, en fonction de ses aptitudes et de ses besoins
+particuliers, aux différents types ou niveaux de la formation scolaire.
 
 L'Etat garantit le respect de la personnalité de l'enfant et de l'action
 éducative des familles.

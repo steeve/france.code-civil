@@ -4,7 +4,7 @@ Ne peuvent être conseillers municipaux :
 
 1° Les individus privés du droit électoral ;
 
-2° Ceux qui sont pourvus d'un conseil judiciaire ;
+2° Les majeurs placés sous tutelle ou sous curatelle ;
 
 3° (Abrogé) ;
 

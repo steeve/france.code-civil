@@ -21,13 +21,14 @@ définies par les articles L. 162-4-1 et L. 322-5 et dans les conditions et
 limites tenant compte de l'état du malade et du coût du transport fixées par
 décret en Conseil d'Etat ;
 
-3°) La couverture, sur décision de la commission d'éducation spéciale créée par
-l'article 6 de la loi n° 75-534 du 30 juin 1975, des frais d'hébergement et de
+3° La couverture, sur décision de la commission mentionnée à l'article L. 146-9
+du code de l'action sociale et des familles, des frais d'hébergement et de
 traitement des enfants ou adolescents handicapés dans les établissements
-d'éducation spéciale et professionnelle, ainsi que celle des frais de traitement
-concourant à cette éducation dispensée en dehors de ces établissements, à
-l'exception de la partie de ces frais incombant à l'Etat en application de
-l'article 5 de la loi n° 75-534 du 30 juin 1975 ;
+mentionnés au 2° et au 12° du I de l'article L. 312-1 du même code ainsi que
+celle des frais de traitement concourant à leur éducation dispensée en dehors de
+ces établissements, à l'exception de la partie de ces frais incombant à l'Etat
+en application des articles L. 112-1 à L. 112-4, L. 123-4-1, L. 351-1 à L. 351-3
+et L. 352-1 du code de l'éducation ;
 
 4°) La couverture des frais de soins et d'hospitalisation afférents à
 l'interruption volontaire de grossesse effectuée dans les conditions prévues à
@@ -41,7 +42,7 @@ l'incapacité peut être également constatée, dans les mêmes conditions, par 
 sage-femme dans la limite de sa compétence professionnelle et pour une durée
 fixée par décret ; toutefois, les arrêts de travail prescrits à l'occasion d'une
 cure thermale ne donnent pas lieu à indemnité journalière, sauf lorsque la
-situation de l'intéressé le justifie suivant des conditions fixées par décret.
+situation de l'intéressé le justifie suivant des conditions fixées par décret ;
 
 6°) La couverture des frais relatifs aux actes et traitements à visée préventive
 réalisés dans le cadre des programmes mentionnés à l'article L. 1411-6 du code

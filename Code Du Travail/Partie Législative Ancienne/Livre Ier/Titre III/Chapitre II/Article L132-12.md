@@ -10,7 +10,7 @@ examen, par les parties, de l'évolution économique et de la situation de
 l'emploi dans la branche, de son évolution et des prévisions annuelles ou
 pluriannuelles établies, notamment pour ce qui concerne les contrats de travail
 à durée déterminée et les missions de travail temporaire, ainsi que des actions
-éventuelles de prévention envisagées compte tenu de ces prévisions ainsi que de
+éventuelles de prévention envisagées compte tenu de ces prévisions, ainsi que de
 l'évolution des salaires effectifs moyens par catégories professionnelles et par
 sexe, au regard, le cas échéant, des salaires minima hiérarchiques. A cet effet,
 un rapport est remis par la partie patronale aux organisations de salariés au
@@ -46,3 +46,16 @@ tous les cinq ans, pour engager une négociation sur l'institution d'un ou
 plusieurs plans d'épargne interentreprises ou plans d'épargne pour la retraite
 collectifs interentreprises mentionnés aux articles L. 443-1-1 et L. 443-1-2,
 lorsqu'il n'existe aucun accord conclu à ce niveau en la matière.
+
+Les organisations mentionnées au premier alinéa se réunissent pour négocier,
+tous les trois ans, sur les mesures tendant à l'insertion professionnelle et au
+maintien dans l'emploi des travailleurs handicapés. La négociation porte
+notamment sur les conditions d'accès à l'emploi, à la formation et à la
+promotion professionnelles ainsi que sur les conditions de travail, de maintien
+dans l'emploi et d'emploi.
+
+La négociation sur l'insertion professionnelle et le maintien dans l'emploi des
+travailleurs handicapés se déroule sur la base d'un rapport établi par la partie
+patronale présentant, pour chaque secteur d'activité, la situation par rapport à
+l'obligation d'emploi des travailleurs handicapés prévue par la section 1 du
+chapitre III du titre II du livre III.

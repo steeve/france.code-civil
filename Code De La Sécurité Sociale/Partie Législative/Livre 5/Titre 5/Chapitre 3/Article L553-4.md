@@ -15,11 +15,11 @@ d'éducation ;
 
 2°) pour le paiement des frais entraînés par les soins, l'hébergement,
 l'éducation ou la formation notamment dans les établissements mentionnés à
-l'article L. 541-1 : l'allocation d'éducation spéciale. En cas de non-paiement
-de ces frais, la personne physique ou morale ou l'organisme qui assume la charge
-de l'éducation spéciale, de la formation ou de l'entretien de l'enfant peut
-obtenir de l'organisme débiteur de l'allocation que celle-ci lui soit versée
-directement.
+l'article L. 541-1 : l'allocation d'éducation de l'enfant handicapé. En cas de
+non-paiement de ces frais, la personne physique ou morale ou l'organisme qui
+assume la charge de l'éducation spéciale, de la formation ou de l'entretien de
+l'enfant peut obtenir de l'organisme débiteur de l'allocation que celle-ci lui
+soit versée directement.
 
 Sur demande de l'allocataire, les cotisations d'assurance volontaire mentionnées
 à l'article L. 742-1 sont recouvrées sur les prestations familiales visées à

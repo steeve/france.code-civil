@@ -10,7 +10,7 @@ Les prestations familiales comprennent :
 
 4°) l'allocation de logement ;
 
-5°) l'allocation d'éducation spéciale
+5°) l'allocation d'éducation de l'enfant handicapé ;
 
 6°) l'allocation de soutien familial ;
 

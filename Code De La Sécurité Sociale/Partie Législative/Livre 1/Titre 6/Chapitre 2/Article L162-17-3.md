@@ -25,7 +25,9 @@ des organismes d'assurance maladie complémentaire.
 Un décret précise la composition et les règles de fonctionnement du comité,
 notamment les conditions dans lesquelles assistent sans voix délibérative à ses
 séances d'autres représentants de l'Etat que ceux mentionnés à l'alinéa
-précédent.
+précédent ainsi qu'un représentant de la Caisse nationale de solidarité pour
+l'autonomie mentionnée à l'article L. 14-10-1 du code de l'action sociale et des
+familles.
 
 II. - Le Comité économique des produits de santé assure un suivi périodique des
 dépenses de médicaments en vue de constater si l'évolution de ces dépenses est

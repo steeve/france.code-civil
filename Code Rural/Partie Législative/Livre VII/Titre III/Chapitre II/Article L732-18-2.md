@@ -8,3 +8,6 @@ personnes non salariées des professions agricoles et, le cas échéant, dans un
 plusieurs autres régimes obligatoires au moins égale à une limite définie par
 décret, tout ou partie de cette durée ayant donné lieu à cotisations à la charge
 de l'assuré.
+
+La pension des intéressés est majorée en fonction de la durée ayant donné lieu à
+cotisations considérée, dans des conditions précisées par décret.

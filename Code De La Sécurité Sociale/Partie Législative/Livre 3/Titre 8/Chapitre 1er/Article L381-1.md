@@ -34,17 +34,20 @@ ses membres :
 
 1°) ayant la charge d'un enfant handicapé qui n'est pas admis dans un internat,
 dont l'incapacité permanente est au moins égale à un taux fixé par décret et qui
-n'a pas atteint l'âge limite d'attribution de l'allocation d'éducation spéciale
-;
+n'a pas atteint l'âge limite d'attribution de l'allocation d'éducation de
+l'enfant handicapé ;
 
-2°) ou assumant, au foyer familial, la charge d'un handicapé adulte dont
-l'incapacité permanente est au moins égale au taux ci-dessus rappelé et dont le
-maintien au foyer est reconnu souhaitable par la commission prévue à l'article
-L. 323-11 du code du travail, dès lors que ledit handicapé est son conjoint,
-ascendant, descendant ou collatéral ou l'ascendant, descendant ou collatéral
-d'un des membres du couple. Les différends auxquels peut donner lieu
-l'application du présent alinéa relèvent du contentieux technique de la sécurité
-sociale mentionné à l'article L. 143-1 du présent code.
+2°) Ou assumant, au foyer familial, la charge d'une personne adulte handicapée
+dont la commission prévue à l'article L. 146-9 du code de l'action sociale et
+des familles reconnaît que l'état nécessite une assistance ou une présence
+définies dans des conditions fixées par décret et dont le taux d'incapacité
+permanente est au moins égal au taux ci-dessus rappelé, dès lors que ladite
+personne handicapée est son conjoint, son concubin, la personne avec laquelle
+elle a conclu un pacte civil de solidarité ou son ascendant, descendant ou
+collatéral ou l'ascendant, descendant ou collatéral d'un des membres du couple.
+Les différends auxquels peut donner lieu l'application du présent alinéa
+relèvent du contentieux technique de la sécurité sociale mentionné à l'article
+L. 143-1 du présent code.
 
 Le financement de l'assurance vieillesse des catégories de personnes mentionnées
 par le présent article est assuré par une cotisation à la charge exclusive des

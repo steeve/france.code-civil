@@ -13,9 +13,4 @@ catégories d'entre eux, ainsi que la desserte des immeubles riverains ;
 3° Réserver sur la voie publique ou dans tout autre lieu de stationnement ouvert
 au public des emplacements de stationnement aménagés aux véhicules utilisés par
 les personnes titulaires de la carte de stationnement prévue à l'article L.
-241-3-2 du code de l'action sociale et des familles. Il peut délivrer des
-autorisations de stationnement, donnant droit à l'usage de ces emplacements sur
-le territoire communal, aux personnes titulaires de la carte Station debout
-pénible prévue à l'article L. 241-3-1 du même code. Le stationnement sans
-autorisation d'un véhicule sur ces emplacements réservés est considéré comme
-gênant.
+241-3-2 du code de l'action sociale et des familles.

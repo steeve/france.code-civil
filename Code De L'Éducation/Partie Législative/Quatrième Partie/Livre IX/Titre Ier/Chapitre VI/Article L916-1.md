@@ -31,7 +31,11 @@ des étudiants boursiers.
 Par dérogation au premier alinéa, des assistants d'éducation peuvent être
 recrutés par l'Etat pour exercer des fonctions d'aide à l'accueil et à
 l'intégration des élèves handicapés dans les conditions prévues à l'article L.
-351-3.
+351-3, ainsi que pour exercer des fonctions d'accompagnement auprès des
+étudiants handicapés inscrits dans les établissements d'enseignement supérieur
+mentionnés aux titres Ier, II, IV et V du livre VII du présent code et pour
+lesquels une aide a été reconnue nécessaire par la commission mentionnée à
+l'article L. 146-9 du code de l'action sociale et des familles.
 
 Les conditions d'application du présent article sont fixées par décret pris
 après avis du comité technique paritaire ministériel du ministère chargé de

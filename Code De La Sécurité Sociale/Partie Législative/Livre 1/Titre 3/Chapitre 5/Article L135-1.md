@@ -14,10 +14,12 @@ par les organisations professionnelles d'employeurs et de travailleurs
 indépendants représentatives, ainsi que les conditions de fonctionnement et de
 gestion du fonds sont fixées par décret en Conseil d'Etat.
 
-A titre transitoire, jusqu'au 30 juin 2005, le Fonds de solidarité vieillesse
-gère la Caisse nationale de solidarité pour l'autonomie instituée par la loi n°
-2004-626 du 30 juin 2004 relative à la solidarité pour l'autonomie des personnes
-âgées et des personnes handicapées.
+A titre transitoire, jusqu'à une date fixée par arrêté des ministres chargés des
+personnes âgées, des personnes handicapées, du budget et de la sécurité sociale
+qui ne peut être postérieure au 31 décembre 2005, le fonds de solidarité
+vieillesse gère la Caisse nationale de solidarité pour l'autonomie instituée par
+la loi n° 2004-626 du 30 juin 2004 relative à la solidarité pour l'autonomie des
+personnes âgées et des personnes handicapées.
 
 Le fonds de solidarité vieillesse peut à titre dérogatoire recruter des agents
 de droit privé régis par les conventions collectives applicables au personnel

@@ -13,3 +13,8 @@ les affiches intérieures.
 
 Il est interdit d'y joindre aucune qualification ni aucun commentaire tendant à
 présenter la boisson comme possédant une valeur hygiénique ou médicale.
+
+Toutes les unités de conditionnement des boissons alcoolisées portent, dans les
+conditions fixées par arrêté du ministre chargé de la santé, un message à
+caractère sanitaire préconisant l'absence de consommation d'alcool par les
+femmes enceintes.

@@ -19,7 +19,8 @@ pêche maritime et les cultures marines ;
 6° Le complément de libre choix d'activité de la prestation d'accueil du jeune
 enfant ;
 
-7° Le complément d'allocation d'éducation spéciale perçu pour le même enfant ;
+7° Le complément d'allocation d'éducation de l'enfant handicapé perçu pour le
+même enfant ;
 
 8° L'allocation aux adultes handicapés.
 
@@ -32,6 +33,7 @@ du versement de l'allocation de présence parentale et est, à la date de
 cessation de paiement de l'allocation de présence parentale, repris et poursuivi
 jusqu'à son terme.
 
-Lorsque le complément d'allocation d'éducation spéciale est attribué au titre
-d'une période pour laquelle un droit à l'allocation de présence parentale a déjà
-été ouvert, la prestation la plus favorable reste acquise au bénéficiaire.
+Lorsque le complément d'allocation d'éducation de l'enfant handicapé est
+attribué au titre d'une période pour laquelle un droit à l'allocation de
+présence parentale a déjà été ouvert, la prestation la plus favorable reste
+acquise au bénéficiaire.

@@ -8,9 +8,10 @@ leurs représentants participent à l'élaboration du programme local de l'habit
 
 Le programme local de l'habitat définit, pour une durée au moins égale à six
 ans, les objectifs et les principes d'une politique visant à répondre aux
-besoins en logements et en hébergement, et à favoriser le renouvellement urbain
-et la mixité sociale en assurant entre les communes et entre les quartiers d'une
-même commune une répartition équilibrée et diversifiée de l'offre de logements.
+besoins en logements et en hébergement, à favoriser le renouvellement urbain et
+la mixité sociale et à améliorer l'accessibilité du cadre bâti aux personnes
+handicapées (1) en assurant entre les communes et entre les quartiers d'une même
+commune une répartition équilibrée et diversifiée de l'offre de logements.
 
 Ces objectifs et ces principes tiennent compte de l'évolution démographique et
 économique, de l'évaluation des besoins des habitants actuels et futurs, de la

@@ -17,8 +17,8 @@ au niveau de la branche ;
 
 3° Les éléments essentiels servant à la détermination des classifications
 professionnelles et des niveaux de qualification, notamment les mentions
-relatives aux diplômes professionnels ou à leurs équivalences, à condition que
-ces diplômes aient été créés depuis plus d'un an ;
+relatives aux diplômes et aux titres professionnels délivrés au nom de l'Etat, à
+condition que ces diplômes et titres aient été créés depuis plus d'un an ;
 
 4° Les éléments énumérés ci-dessous du salaire applicable par catégories
 professionnelles, ainsi que les procédures et la périodicité prévues pour sa
@@ -61,7 +61,9 @@ formation, de promotion professionnelle et de conditions de travail ;
 
 11° Les conditions propres à concrétiser le droit au travail de toutes personnes
 handicapées en état d'exercer une profession, notamment par application de
-l'obligation d'emploi prévue à l'article L. 323-9 ;
+l'obligation d'emploi prévue à l'article L. 323-1, ainsi que par des mesures
+d'aménagement de postes ou d'horaires, d'organisation du travail et des actions
+de formation visant à remédier aux inégalités de fait affectant ces personnes ;
 
 12° En tant que de besoin dans la branche :
 

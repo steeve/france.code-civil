@@ -11,4 +11,5 @@ mentionnés au 2° de l'article L. 6111-2 du code de la santé publique, sont
 prises en charge suivant des modalités fixées par voie réglementaire soit par
 les régimes d'assurance maladie, soit par l'aide médicale de l'Etat. Le montant
 annuel de ces dépenses prises en charge par l'assurance maladie est inclus dans
-le montant total annuel défini à l'article L. 174-1-1 du présent code.
+le montant total annuel défini à l'article L. 314-3 du code de l'action sociale
+et des familles.
