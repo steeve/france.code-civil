@@ -23,8 +23,8 @@ quinze dernières années d'activité lorsqu'ils sont supérieurs à ceux visés
 premier alinéa ci-dessus, soit à l'un des emplois ci-après détenus au cours des
 quinze dernières années d'activité pendant deux ans au moins :
 
-1° Emplois supérieurs visés au second alinéa de l'article 3 de l'ordonnance du 4
-février 1959 relative au statut général des fonctionnaires ;
+1° Emplois supérieurs visés au 1° de l'article 3 de la loi n° 84-16 du 11
+janvier 1984 précitée ;
 
 2° Emplois de chef de service, de directeur adjoint ou de sous-directeur
 d'administration centrale ;
@@ -32,7 +32,7 @@ d'administration centrale ;
 3° Emplois supérieurs occupés par des officiers généraux et supérieurs.
 
 Les dispositions qui précèdent sont applicables aux tributaires du présent code
-occupant en position de détachement un des emplois visés à l'article 15-I (1°,
-2°, 3° et 4°) du décret modifié n° 65-773 du 9 septembre 1965. Dans cette
+occupant en position de détachement un des emplois visés visés aux a, b, c du 2°
+du I de l'article 15 du décret modifié n° 65-773 du 9 septembre 1965. Dans cette
 hypothèse, les intéressés sont astreints au versement de la retenue pour pension
 sur les émoluments afférents à l'emploi de détachement.

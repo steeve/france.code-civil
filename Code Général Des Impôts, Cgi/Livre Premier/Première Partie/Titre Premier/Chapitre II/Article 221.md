@@ -7,12 +7,12 @@ régime d'imposition d'après le bénéfice réel ou d'après le régime simplif
 2 En cas de dissolution, de transformation entraînant la création d'une personne
 morale nouvelle , d'apport en société, de fusion, de transfert du siège ou d'un
 établissement à l'étranger, l'impôt sur les sociétés est établi dans les
-conditions prévues à l'article 201-1 et 3.
+conditions prévues aux 1 et 3 de à l'article 201.
 
 Il en est de même, sous réserve des dispositions de l'article 221 bis, lorsque
 les sociétés ou organismes mentionnés aux articles 206 à 208 quinquies, 239 et
-239 bis AA cessent d'être soumis à l'impôt sur les sociétés au taux prévu au
-deuxième alinéa du paragraphe I de l'article 219.
+239 bis AA cessent totalement ou partiellement d'être soumis à l'impôt sur les
+sociétés au taux prévu au deuxième alinéa du paragraphe I de l'article 219.
 
 2 bis Qu'elle s'accompagne ou non d'un changement de forme juridique, la
 modification des statuts tendant à assigner à une société quelconque un objet
@@ -42,7 +42,7 @@ cessation d'entreprise. Toutefois, dans cette situation, les dispositions de
 l'article 221 bis sont applicables, sauf en ce qui concerne les provisions dont
 la déduction est prévue par des dispositions légales particulières.
 
-6 Lorsqu'une société d'intérêt collectif agricole renonce a u statut défini aux
+6 Lorsqu'une société d'intérêt collectif agricole renonce au statut défini aux
 articles L. 531-1 à L. 535-4 du code rural, les dispositions du premier alinéa
 du 2 ne s'appliquent pas si cette renonciation ne s'accompagne pas d'un
 changement de régime fiscal.

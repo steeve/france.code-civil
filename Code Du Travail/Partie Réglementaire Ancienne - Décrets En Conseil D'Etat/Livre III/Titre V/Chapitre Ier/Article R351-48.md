@@ -13,4 +13,4 @@ de l'Etat à la création d'emploi.
 Cette période est réduite, le cas échéant, du nombre de jours écoulés entre la
 fin du troisième mois suivant l'inscription comme demandeur d'emploi et la date
 de dépôt de la demande d'admission au bénéfice de l'aide ; toutefois, elle ne
-peut être inférieure à 67 jours.
+peut être inférieure à 94 jours.

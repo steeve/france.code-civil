@@ -16,6 +16,10 @@ de neuf salariés [*effectifs*], à l'exception de l'Etat et des collectivités
 locales, de leurs établissements publics administratifs et des employeurs
 relevant du régime agricole au regard des lois sur la sécurité sociale ; le taux
 de cette contribution, assise sur la totalité des salaires et recouvrée suivant
-les règles applicables en matière de sécurité sociale, est fixé à 0,20 p. 100 ;
-3°) Par une contribution de l'Etat. Le fonds supporte les charges résultant de
-l'application du présent titre.
+les règles applicables en matière de sécurité sociale, est fixé à 0,20 p. 100.
+Pour les rémunérations et gains versés à compter du 1er juillet 1991, le taux de
+0,20 p. 100 est porté à 0,40 p. 100.
+
+3°) Par une contribution de l'Etat.
+
+Le fonds supporte les charges résultant de l'application du présent titre.

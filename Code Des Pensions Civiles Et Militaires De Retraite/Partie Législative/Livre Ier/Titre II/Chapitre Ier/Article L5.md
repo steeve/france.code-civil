@@ -4,8 +4,8 @@ Les services pris en compte dans la constitution du droit à pension sont :
 
 1° Les services accomplis en qualité de fonctionnaire titulaire, la période
 pendant laquelle les intéressés ont été autorisés à accomplir un service à temps
-partiel dans les conditions prévues au dernier alinéa de l'article 34 du statut
-général des fonctionnaires étant comptée pour la totalité de sa durée ;
+partiel dans les conditions prévues à l'article 37 de la loi n° 84-16 du 11
+janvier 1984 précitée étant comptée pour la totalité de sa durée ;
 
 2° Les services militaires, à l'exclusion de ceux effectués en temps de paix
 avant l'âge de seize ans ;
