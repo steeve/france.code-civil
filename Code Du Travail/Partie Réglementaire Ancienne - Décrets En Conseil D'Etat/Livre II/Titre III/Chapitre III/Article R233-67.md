@@ -1,14 +1,14 @@
 Article R233-67
 ----
-Les décisions d'homologation et d'examen de type peuvent être retirées par le
-ministre chargé du travail après que le titulaire de l'homologation, de
-l'attestation d'examen de type a été appelé à présenter ses observations et
-après avis du conseil supérieur de la prévention des risques professionnels
-ainsi que, le cas échéant, de l'organisme ayant délivré l'attestation d'examen
-de type si les prescriptions règlementaires applicables sont méconnues ou
-lorsqu'il est constaté à l'usage que le matériel présente un défaut, notamment
-de conception ou de construction, susceptible de compromettre l'hygiène ou la
-sécurité des travailleurs.
+Les décisions d'homologation et de délivrance d'attestation d'examen de type
+peuvent être retirées par le ministre chargé du travail après que le titulaire
+de l'homologation, de l'attestation d'examen de type a été appelé à présenter
+ses observations et après avis du conseil supérieur de la prévention des risques
+professionnels ainsi que, le cas échéant, de l'organisme ayant délivré
+l'attestation d'examen de type si les prescriptions règlementaires applicables
+sont méconnues ou lorsqu'il est constaté à l'usage que le matériel présente un
+défaut, notamment de conception ou de construction, susceptible de compromettre
+l'hygiène ou la sécurité des travailleurs.
 
 La décision de retrait doit être motivée. Elle est notifiée à l'intéressé par
 lettre recommandée avec demande d'avis de réception [*condition de forme*]. Elle

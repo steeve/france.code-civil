@@ -8,11 +8,12 @@ conditions et modalités d'agrément des organismes.
 Le chef d'établissement choisit l'organisme agréé sur une liste dressée par le
 ministre chargé du travail.
 
-Toutefois, les vérifications concernant un matériel ou un produit soumis à
-l'examen de type sont effectuées par l'organisme désigné compétent pour cet
-examen de type et les vérifications concernant un matériel ou un produit soumis
-à homologation par l'organisme compétent pour procéder à l'examen préalable à
-l'homologation.
+Toutefois lorsqu'un organisme a été désigné ou habilité par arrêté du ministre
+chargé du travail, en application des dispositions de la présente section, les
+vérifications concernant les appareils, machines, éléments de machines,
+protecteurs de machines, dispositifs, équipements ou produits de protection
+correspondants sont effectuées par ledit organisme dans la limite de la
+compétence qui lui est dévolue par cet arrêté.
 
 Le chef d'établissement justifie qu'il a saisi l'organisme agréé dans les quinze
 jours suivant la date de demande de vérification. Il transmet au ministre chargé
