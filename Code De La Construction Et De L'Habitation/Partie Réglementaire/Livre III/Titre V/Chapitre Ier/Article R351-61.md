@@ -2,12 +2,15 @@ Article R351-61
 ----
 Le coefficient K, au plus égal à 0,95, est déterminé par la formule :
 
-K = 0,95 - ((R -(r X N))/(CM X N)) dans laquelle :
+K = 0,95 - ((R -(r X N))/(CM X N))
+
+dans laquelle :
 
 R représente les ressources déterminées conformément à l'article R. 351-5,
-arrondies au multiple de 500 F immédiatement inférieur ; r est un coefficient
-fixé par arrêté conjoint des ministres chargés du logement, du budget, de la
-sécurité sociale et de l'agriculture ;
+arrondies au franc inférieur ;
+
+r est un coefficient fixé par arrêté conjoint des ministres chargés du logement,
+du budget, de la sécurité sociale et de l'agriculture ;
 
 CM est un coefficient multiplicateur fixé par arrêté conjoint des ministres
 chargés du logement, du budget, de la sécurité sociale et de l'agriculture ;

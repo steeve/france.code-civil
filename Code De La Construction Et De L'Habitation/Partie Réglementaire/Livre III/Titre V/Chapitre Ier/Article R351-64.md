@@ -14,7 +14,7 @@ Le gestionnaire doit, dans un délai de trois mois aprés la constitution de
 l'impayé défini à l'alinéa précédent, porter la situation du bénéficiaire
 défaillant à la connaissance de la section des aides publiques publiques au
 logement du conseil départemental de l'habitat et justifier qu'il poursuit par
-tous les moyens de recouvrement de sa créance.
+tous les moyens le recouvrement de sa créance.
 
 Sauf en cas de mauvaise foi avérée, le versement de l'aide personnalisée au
 logement (A.P.L.) est maintenu sur décision de la section départementale des
@@ -25,7 +25,9 @@ Si le gestionnaire ne saisit pas la section dans les délais susmentionnés ou
 n'apporte pas les justifications prévues au troisième alinéa, celle-ci est
 habilitée à décider que le gestionnair devra rembourser à l'organisme payeur
 tout ou partie de l'aide personnalisée versée depuis la défaillance du
-bénéficiaire.
+bénéficiaire. Le gestionnaire ne pourra se retourner vers le bénéficiaire pour
+lui réclamer l'aide personnalisée que la section départementale des aides
+publiques au logement lui demande de rembourser.
 
 Les organismes payeurs saisissent la section des cas dont ils ont connaissance
 dans lesquels le bénéficiaire n'est pas à jour de ses obligations.

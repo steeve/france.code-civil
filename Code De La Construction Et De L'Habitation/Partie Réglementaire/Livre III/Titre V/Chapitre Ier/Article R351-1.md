@@ -20,3 +20,6 @@ a été construit ou acquis dans les conditions définies par l'article L. 351-2
 (6.). " La notion de résidence principale doit être entendue [*définition*] au
 sens du logement effectivement occupé au moins huit mois par an soit par le
 bénéficiaire ou par son conjoint, soit par leurs descendants. "
+
+" Le logement mis à la disposition d'un requérant par un de ses ascendants ou de
+ses descendants n'ouvre pas droit au bénéfice de l'aide. "

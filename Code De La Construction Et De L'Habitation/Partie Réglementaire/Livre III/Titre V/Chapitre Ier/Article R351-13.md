@@ -9,9 +9,17 @@ prévue à l'article L. 351-25 du code du travail, les revenus d'activité
 professionnelle perçus par l'intéressé pendant l'année civile de référence sont
 affectés d'un abattement de 30 p. 100. Cette mesure s'applique à partir du
 premier jour du mois civil suivant celui au cours duquel est intervenu le
-changement de situation. " Le nombre minimal d'heures de chômage partiel requis
-pour bénéficier de l'abattement de 30 p. 100 [*pourcentage*] est de quarante
-heures sur une période de deux mois consécutifs. "
+changement de situation.
+
+" La rémunération perçue par les personnes relevant des conventions conclues en
+application du deuxième alinéa de l'article L. 961-1 du code du travail est
+assimilée, pendant la durée de la formation et pour l'application des
+dispositions de l'alinéa précédent, à l'allocation de chômage à laquelle elle
+s'est substituée lors de l'entrée en formation. "
+
+" Le nombre minimal d'heures de chômage partiel requis pour bénéficier de
+l'abattement de 30 p. 100 [*pourcentage*] est de quarante heures sur une période
+de deux mois consécutifs. "
 
 Lorsque l'intéressé reprend une activité professionnelle rémunérée l'abattement
 est supprimé à partir du premier jour du mois civil au cours duquel intervient
