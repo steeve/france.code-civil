@@ -21,4 +21,10 @@ nature temporaire de ces emplois ;
 4° Remplacement d'un pharmacien titulaire d'officine dans les cas prévus aux
 premier et troisième alinéas de l'article L. 5125-21 du code de la santé
 publique ou remplacement d'un directeur de laboratoire d'analyses de biologie
-médicale tel que prévu à l'article L. 6221-11 du même code.
+médicale tel que prévu à l'article L. 6221-11 du même code ;
+
+5° Remplacement d'un chef d'exploitation agricole ou d'entreprise tels que
+définis aux 1° à 4° de l'article L. 722-1 du code rural, d'un aide familial,
+d'un associé d'exploitation, ou de leur conjoint visé à l'article L. 722-10 du
+même code dès lors qu'il participe effectivement à l'activité de l'entreprise ou
+de l'exploitation agricole.

@@ -7,6 +7,10 @@ personnel ou, à défaut de ceux-ci, les salariés à désigner, au sein de
 l'entreprise, un représentant des salariés. Les salariés élisent leur
 représentant par vote secret au scrutin uninominal à un tour.
 
+Le tribunal peut, soit d'office, soit à la demande du procureur de la
+République, désigner plusieurs administrateurs et plusieurs représentants des
+créanciers.
+
 L'administrateur peut demander la désignation d'un ou plusieurs experts.
 
 L'administrateur informe par courrier recommandé avec accusé de réception le

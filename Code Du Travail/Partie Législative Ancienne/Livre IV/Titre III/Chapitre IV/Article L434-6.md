@@ -5,9 +5,8 @@ en vue de l'examen annuel des comptes prévus à l'article L. 432-4, alinéa 9 e
 13, et, dans la limite de deux fois par exercice, en vue de l'examen des
 documents mentionnés au quatorzième alinéa du même article. Il peut également se
 faire assister d'un expert-comptable dans les conditions prévues aux articles L.
-432-1 (quatrième alinéa), L. 432-1 bis et L. 432-5 et lorsque la procédure de
-consultation prévue à l'article L. 321-3 pour licenciement économique doit être
-mise en oeuvre.
+432-1 bis et L. 432-5 et lorsque la procédure de consultation prévue à l'article
+L. 321-3 pour licenciement économique doit être mise en oeuvre.
 
 La mission de l'expert-comptable porte sur tous les éléments d'ordre économique,
 financier ou social nécessaires à l'intelligence des comptes et à l'appréciation
@@ -15,7 +14,7 @@ de la situation de l'entreprise.
 
 Pour opérer toute vérification ou tout contrôle qui entre dans l'exercice de ces
 missions, l'expert-comptable a accès aux mêmes documents que le commissaire aux
-comptes *information*.
+comptes.
 
 Dans le cadre de la mission prévue à l'article L. 432-1 bis, l'expert a accès
 aux documents de toutes les sociétés concernées par l'opération.

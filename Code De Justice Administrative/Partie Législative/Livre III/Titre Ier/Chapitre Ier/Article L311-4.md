@@ -9,9 +9,9 @@ sanction prises par la commission de contrôle des assurances ;
 2° De l'article L. 313-13 du code de la construction et de l'habitation contre
 les décisions de sanction prises par le ministre chargé du logement ;
 
-3° De l'article L. 36-11 du code des postes et télécommunications contre les
-décisions de sanction prises par l'Autorité de régulation des télécommunications
-;
+3° De l'article L. 36-11 du code des postes et communications électroniques
+contre les décisions de sanction prises par l'Autorité de régulation des
+télécommunications ;
 
 4° De l'article L. 951-10 du code de la sécurité sociale et l'article L. 531-6
 du code de la mutualité contre les décisions de sanction prises par la
@@ -25,12 +25,9 @@ et 42-4 de cette loi ;
 sanction prises par la Commission des opérations de bourse à l'encontre des
 prestataires de service d'investissement agréés ;
 
-7° De l'article 33-3 de la loi n° 88-1201 du 23 décembre 1988 contre les
-décisions de sanction prises par le conseil de discipline de la gestion
-financière ;
+7° De l'article L. 623-3 du code monétaire et financier ;
 
-8° De l'article 26 de la loi n° 99-223 du 23 mars 1999 contre les décisions de
-sanction du Conseil de prévention et de lutte contre le dopage ;
+8° Des articles L. 3634-2, L. 3634-3 et L. 3634-4 du code de la santé publique ;
 
 9° De l'article 40 de la loi n° 2000-108 du 10 février 2000 contre les décisions
-de sanction prises par la Commission de régulation de l'électricité.
+de sanction prises par la Commission de régulation de l'énergie.

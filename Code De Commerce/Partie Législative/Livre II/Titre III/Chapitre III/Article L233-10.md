@@ -12,7 +12,7 @@ directeurs généraux ou les membres de son directoire ou ses gérants ;
 2° Entre une société et les sociétés qu'elle contrôle au sens de l'article L.
 233-3 ;
 
-3° Entre des sociétés contrôlées par là même ou les mêmes personnes ;
+3° Entre des sociétés contrôlées par la même ou les mêmes personnes ;
 
 4° Entre les associés d'une société par actions simplifiée à l'égard des
 sociétés que celle-ci contrôle.

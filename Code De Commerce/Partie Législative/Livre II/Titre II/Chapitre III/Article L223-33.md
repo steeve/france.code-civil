@@ -9,4 +9,4 @@ Lorsqu'il n'y a pas eu de commissaire aux apports ou lorsque la valeur retenue
 est différente de celle proposée par le commissaire aux apports, les gérants de
 la société et les personnes ayant souscrit à l'augmentation du capital sont
 solidairement responsables pendant cinq ans, à l'égard des tiers, de la valeur
-attribuée audits apports.
+attribuée auxdits apports.

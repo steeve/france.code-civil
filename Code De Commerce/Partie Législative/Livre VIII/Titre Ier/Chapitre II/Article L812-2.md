@@ -1,37 +1,42 @@
 Article L812-2
 ----
 I. - Nul ne peut être désigné en justice pour exercer les fonctions de
-mandataire judiciaire à la liquidation des entreprises, dans une procédure de
-redressement judiciaire, s'il n'est inscrit sur la liste établie à cet effet par
-une commission instituée au siège de chaque cour d'appel.
+mandataire judiciaire au redressement et à la liquidation des entreprises, dans
+une procédure de redressement judiciaire, s'il n'est inscrit sur la liste
+établie à cet effet par une commission nationale.
 
-II. - La commission visée au premier alinéa est ainsi composée :
+II. - Toutefois, à titre exceptionnel, le tribunal peut, par décision
+spécialement motivée et après avis du procureur de la République, désigner comme
+mandataire judiciaire au redressement et à la liquidation des entreprises une
+personne physique justifiant d'une expérience ou d'une qualification
+particulière au regard de la nature de l'affaire et remplissant les conditions
+définies aux 1° à 4° de l'article L. 812-3.
 
-1° Un magistrat du siège de la cour d'appel, président ;
+Les personnes visées à l'alinéa précédent ne doivent pas, au cours des cinq
+années précédentes, avoir perçu à quelque titre que ce soit, directement ou
+indirectement, une rétribution ou un paiement de la part de la personne physique
+ou morale faisant l'objet d'une mesure de redressement ou de liquidation
+judiciaires, d'une personne qui détient le contrôle de cette personne morale ou
+de l'une des sociétés contrôlées par elle au sens des II et III de l'article L.
+233-16, ni s'être trouvées en situation de conseil de la personne physique ou
+morale concernée ou de subordination par rapport à elle. Elles doivent, en
+outre, n'avoir aucun intérêt dans le mandat qui leur est donné et n'être pas au
+nombre des anciens administrateurs ou mandataires judiciaires ayant fait l'objet
+d'une décision de radiation ou de retrait des listes en application des articles
+L. 811-6, L. 811-12, L. 812-4 et L. 812-9. Elles sont tenues d'exécuter les
+mandats qui leur sont confiés en se conformant, dans l'accomplissement de leurs
+diligences professionnelles, aux mêmes obligations que celles qui s'imposent aux
+mandataires judiciaires au redressement et à la liquidation des entreprises
+inscrits sur la liste. Elles ne peuvent exercer les fonctions de mandataire
+judiciaire au redressement et à la liquidation des entreprises à titre habituel.
 
-2° Un magistrat d'une chambre régionale des comptes dont le ressort correspond
-en tout ou partie à celui de la cour d'appel ;
+Les personnes désignées en application du premier alinéa du présent II doivent,
+lors de l'acceptation de leur mandat, attester sur l'honneur qu'elles
+remplissent les conditions fixées aux 1° à 4° de l'article L. 812-3, qu'elles se
+conforment aux obligations énumérées à l'alinéa précédent et qu'elles ne font
+pas l'objet d'une interdiction d'exercice en application de l'avant-dernier
+alinéa de l'article L. 814-10.
 
-3° Un membre d'une juridiction commerciale du premier degré du ressort de la
-cour d'appel ;
-
-4° Un professeur de droit, de sciences économiques ou de gestion ;
-
-5° Deux personnes qualifiées en matière économique ou sociale ;
-
-6° Deux personnes inscrites sur la liste des mandataires-liquidateurs ;
-
-7° Une personne inscrite sur la liste des experts en diagnostic d'entreprise.
-
-III. - En cas d'égalité des voix, celle du président est prépondérante.
-
-IV. - Le président et les membres de la commission ainsi que leurs suppléants,
-en nombre égal et choisis dans les mêmes catégories, sont désignés pour trois
-ans dans des conditions fixées par décret.
-
-V. - Un magistrat du parquet est désigné pour exercer les fonctions de
-commissaire du Gouvernement auprès de la commission régionale et assurer,
-notamment, l'instruction des demandes d'inscription.
-
-VI. - Les frais de fonctionnement des commissions régionales sont à la charge de
-l'Etat.
+III. - Lorsque le tribunal nomme une personne morale, il désigne en son sein une
+ou plusieurs personnes physiques pour la représenter dans l'accomplissement du
+mandat qui lui est confié.

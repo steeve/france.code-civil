@@ -15,4 +15,4 @@ commission économique tient une deuxième réunion afin d'entendre les résulta
 des travaux de l'expert.
 
 Les dispositions du premier alinéa sont réputées satisfaites lorsque le comité
-d'entreprise se réunit en application du neuvième alinéa de l'article L. 432-1.
+d'entreprise se réunit en application du quatrième alinéa de l'article L. 432-1.

@@ -15,7 +15,7 @@ peuvent détenir plus de 25 % de l'ensemble du capital des deux sociétés. Les
 fonctions de gérant, de président du conseil d'administration ou du directoire,
 de président du conseil de surveillance et de directeur général sont assurées
 par des commissaires aux comptes. Les trois quarts au moins des membres des
-organes de gestion d'administration, de direction ou de surveillance et les
+organes de gestion, d'administration, de direction ou de surveillance et les
 trois quarts au moins des actionnaires ou associés doivent être des commissaires
 aux comptes. Les représentants permanents des sociétés de commissaires aux
 comptes associés ou actionnaires doivent être des commissaires aux comptes.

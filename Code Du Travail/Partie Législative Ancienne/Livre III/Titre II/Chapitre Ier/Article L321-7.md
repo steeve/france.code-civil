@@ -8,11 +8,11 @@ Lorsque le projet de licenciement donne lieu à la consultation des représentan
 du personnel prévue à l'article L. 321-3, sa notification est faite au plus tôt
 le lendemain de la date prévue pour la première réunion visée audit article.
 Elle est accompagnée de tout renseignement concernant la convocation, l'ordre du
-jour et la tenue de cette réunion *mentions obligatoires*.
+jour et la tenue de cette réunion [*mentions obligatoires*].
 
-En l'absence de plan de sauvegarde de l'emploi au sens de l'article L. 321-4-1,
-l'autorité administrative constate cette carence par notification à l'entreprise
-dès qu'elle en a eu connaissance et au plus tard dans les huit jours suivant la
+En l'absence de plan social au sens de l'article L. 321-4-1, l'autorité
+administrative constate cette carence par notification à l'entreprise dès
+qu'elle en a eu connaissance et au plus tard dans les huit jours suivant la
 notification prévue à l'alinéa précédent.
 
 L'autorité administrative compétente s'assure que les représentants du personnel
@@ -49,37 +49,13 @@ reporté jusqu'à la date d'envoi de l'information à l'autorité administrative
 compétente. Les lettres de licenciement ne pourront être adressées aux salariés
 qu'à compter de cette date.
 
-L'autorité administrative compétente peut, tout au long de la procédure et
-jusqu'à la dernière réunion du comité d'entreprise, présenter toute proposition
-destinée à compléter ou modifier le plan de sauvegarde de l'emploi, en tenant
-compte de la situation économique et des capacités financières de l'entreprise
-et, le cas échéant, du groupe auquel l'entreprise appartient.
+L'autorité administrative compétente peut présenter toute proposition pour
+compléter ou modifier le plan social, en tenant compte de la situation
+économique de l'entreprise.
 
-La réponse motivée de l'employeur, accompagnée de l'avis du comité d'entreprise
-ou des délégués du personnel, est transmise à l'autorité administrative
-compétente. En l'absence de comité d'entreprise ou de délégués du personnel, les
-propositions de l'autorité administrative compétente sont portées à la
-connaissance des salariés par voie d'affichage sur les lieux de travail ainsi
-que la réponse motivée de l'employeur à ces propositions.
-
-La réponse motivée de l'employeur doit parvenir à l'autorité administrative
-compétente avant la fin du délai prévu au premier alinéa de l'article L. 321-6
-pour l'envoi des lettres de licenciement. Lesdites lettres ne peuvent pas être
-adressées aux salariés, une fois ce délai passé, tant que l'employeur n'a pas
-fait parvenir sa réponse motivée à l'autorité administrative compétente.
-
-A l'issue de la procédure visée à l'article L. 321-2, le plan de sauvegarde de
-l'emploi définitivement arrêté est transmis par l'employeur à l'autorité
-administrative compétente. Cette dernière dispose d'un délai de huit jours à
-compter de la réception dudit plan pour en constater la carence éventuelle.
-Cette carence est notifiée à l'employeur qui doit en informer immédiatement les
-représentants du personnel. L'employeur est tenu, sur la demande du comité
-d'entreprise ou des délégués du personnel, d'organiser une réunion
-supplémentaire du comité d'entreprise ou, à défaut, des délégués du personnel,
-en vue d'un nouvel examen du plan de sauvegarde de l'emploi. Cette demande doit
-être exprimée dans les deux jours ouvrables suivant la notification du constat
-de carence par l'autorité administrative compétente.
-
-Le délai prévu au premier alinéa de l'article L. 321-6 est reporté jusqu'au
-lendemain de la réunion susmentionnée. Les lettres de licenciement ne peuvent
-être adressées aux salariés qu'à compter de cette date.
+Ces propositions sont formulées avant la dernière réunion du comité d'entreprise
+; elles sont communiquées à l'employeur et au comité d'entreprise ou aux
+délégués du personnel. En l'absence de comité d'entreprise ou de délégués du
+personnel, elles sont portées à la connaissance des salariés par voie
+d'affichage sur les lieux de travail ainsi que la réponse motivée de l'employeur
+à ces propositions, qu'il adresse à l'autorité administrative compétente.

@@ -12,8 +12,8 @@ générale.
 L'acquisition, la cession ou le transfert de ces actions peut être effectué par
 tous moyens. Ces actions peuvent être annulées dans la limite de 10 % du capital
 de la société par périodes de vingt-quatre mois. La société informe chaque mois
-le Conseil des marchés financiers des achats, des cessions, transferts et
-annulations ainsi réalisées. Le Conseil des marchés financiers porte cette
+le Conseil des marchés financiers des achats, cessions, transferts et
+annulations ainsi réalisés. Le Conseil des marchés financiers porte cette
 information à la connaissance du public.
 
 Les sociétés qui font participer les salariés aux fruits de l'expansion de
