@@ -8,12 +8,13 @@ Elle est faite collectivement pour chaque liste par la personne ayant la qualit�
 de responsable de liste. A cet effet, chaque candidat établit un mandat signé de
 lui, confiant au responsable de liste le soin de faire ou de faire faire, par
 une personne déléguée par lui, toutes déclarations et démarches utiles à
-l'enregistrement de la liste, pour le premier et le second tour. La liste
-déposée indique expressément :
+l'enregistrement de la liste, pour le premier et le second tours. La liste
+déposée indique expressément [*mentions obligatoires*] :
 
 1° Le titre de la liste présentée ;
 
-2° Les nom, prénoms, date et lieu de naissance de chacun des candidats.
+2° Les nom, prénoms, sexe, date et lieu de naissance, domicile et profession de
+chacun des candidats.
 
 Le dépôt de la liste doit être assorti, pour le premier tour, de l'ensemble des
 mandats des candidats qui y figurent ainsi que des documents officiels qui
@@ -35,8 +36,9 @@ article sont remplies et si les documents officiels visés au quatrième alinéa
 les deux premiers alinéas de l'article L. 228.
 
 En cas de refus de délivrance du récépissé, tout candidat de la liste intéressée
-dispose de vingt-quatre heures pour saisir le tribunal administratif qui statue,
-en premier et dernier ressort, dans les trois jours du dépôt de la requête.
+dispose de vingt-quatre heures [*délai*] pour saisir le tribunal administratif
+qui statue, en premier et dernier ressort, dans les trois jours du dépôt de la
+requête.
 
 Faute par le tribunal administratif d'avoir statué dans ce délai, le récépissé
 est délivré.

@@ -9,6 +9,11 @@ pour les frais d'analyses ou d'examens de laboratoire relatifs au dépistage
 sérologique de l'infection par le virus de l'immunodéficience humaine et par le
 virus de l'hépatite C.
 
+La participation de l'assuré prévue à l'article L. 322-2 est également supprimée
+pour les frais d'examens de dépistage sous réserve que ces examens soient
+effectués dans le cadre des programmes figurant sur la liste mentionnée au
+deuxième alinéa de l'article L. 55 du code de la santé publique.
+
 La participation de l'assuré prévue à l'article L. 322-2 est fixée ainsi qu'il
 suit [*montant du ticket modérateur*] :
 
@@ -20,8 +25,9 @@ laboratoires afférents à des soins dispensés dans les mêmes conditions ;
 2°) 20 p. 100 du tarif de responsabilité de la caisse pour les frais
 d'hospitalisation dans un établissement public ou privé ;
 
-3°) 30 p. 100 pour les frais d'honoraires des praticiens, sauf pour ceux qui
-sont mentionnés au 1° ci-dessus ;
+3°) 30 % pour les frais d'honoraires des praticiens, y compris pour les actes
+d'anatomie et de cytologie pathologiques quel que soit le coefficient associé à
+leur cotation, sauf pour les frais mentionnés au 1° ci-dessus ;
 
 4°) 40 p. 100 pour les frais d'honoraires des auxiliaires médicaux, sauf pour
 ceux qui sont mentionnés au 1° ci-dessus, et pour les frais d'analyses ou de
