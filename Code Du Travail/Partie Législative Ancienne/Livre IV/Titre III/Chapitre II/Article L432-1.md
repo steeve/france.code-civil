@@ -4,50 +4,12 @@ Dans l'ordre économique, le comité d'entreprise est obligatoirement informé e
 consulté sur les questions intéressant l'organisation, la gestion et la marche
 générale de l'entreprise et, notamment, sur les mesures de nature à affecter le
 volume ou la structure des effectifs, la durée du travail, les conditions
-d'emploi, de travail et de formation professionnelle du personnel
-*attributions*.
+d'emploi, de travail et de formation professionnelle du personnel.
 
-Le comité d'entreprise est obligatoirement informé et consulté sur tout projet
-de restructuration et de compression des effectifs. Il émet un avis sur ledit
-projet et sur ses modalités d'application et peut formuler des propositions
-alternatives à ce projet. Cet avis et les éventuelles propositions alternatives
-sont transmis à l'autorité administrative compétente.
-
-Le comité d'entreprise dispose d'un droit d'opposition qui se traduit par la
-saisine d'un médiateur selon les modalités prévues à l'article L. 432-1-3.
-Pendant la durée de la mission du médiateur, le projet en question est suspendu.
-
-Le comité d'entreprise, lors de sa première réunion tenue en application du
-deuxième alinéa du présent article, peut décider de recourir à l'assistance de
-l'expert-comptable dans les conditions prévues aux premier, deuxième, troisième
-et sixième alinéas de l'article L. 434-6. Dans les entreprises soumises aux
-dispositions des articles L. 435-1 et L. 435-2, dès lors que les mesures
-envisagées excèdent le pouvoir du ou des chefs d'établissements concernés ou
-qu'elles visent plusieurs établissements simultanément, cette désignation est
-effectuée par le comité central d'entreprise. Dans ce cas, la seconde réunion du
-ou des comités d'établissement concernés ne peut avoir lieu avant la tenue de la
-seconde réunion du comité central d'entreprise. Si le comité central
-d'entreprise n'use pas de son droit de désigner un expert-comptable, un comité
-d'établissement peut en user à la condition que la mission de l'expert-comptable
-ainsi désigné se cantonne aux activités de l'établissement concerné.
-
-A l'occasion de la consultation prévue au deuxième alinéa du présent article,
-l'employeur est tenu de fournir au comité d'entreprise une réponse motivée à ses
-avis et à ses éventuelles propositions alternatives au cours d'une seconde
-réunion qui se tient dans un délai minimal de quinze jours à compter de la date
-de la première réunion. Lorsque le comité d'entreprise a désigné un
-expert-comptable, la seconde réunion prévue au présent alinéa a lieu vingt et un
-jours au plus tard après la première réunion. Le rapport de l'expert-comptable
-est transmis aux membres du comité d'entreprise et au chef d'entreprise au moins
-huit jours avant la date prévue pour la seconde réunion.
-
-L'employeur ne peut présenter un plan de sauvegarde de l'emploi en vertu de
-l'article L. 321-4-1 tant qu'il n'a pas apporté de réponse motivée aux avis et
-propositions alternatives formulés par le comité d'entreprise en application des
-précédentes dispositions.
-
-Les dispositions des troisième à sixième alinéas ne sont pas applicables aux
-entreprises en redressement ou en liquidation judiciaires.
+Le comité d'entreprise est obligatoirement saisi en temps utile des projets de
+compression des effectifs ; il émet un avis sur l'opération projetée et ses
+modalités d'application. Cet avis est transmis à l'autorité administrative
+compétente.
 
 Le comité est informé et consulté sur les modifications de l'organisation
 économique ou juridique de l'entreprise, notamment en cas de fusion, de cession,

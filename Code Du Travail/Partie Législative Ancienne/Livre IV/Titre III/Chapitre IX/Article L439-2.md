@@ -19,7 +19,7 @@ constitutives du groupe.
 En cas d'annonce d'offre publique d'achat ou d'offre publique d'échange portant
 sur l'entreprise dominante d'un groupe, le chef de cette entreprise en informe
 immédiatement le comité de groupe. Il est alors fait application au niveau du
-comité de groupe des dispositions prévues aux neuvième et dixième alinéas de
+comité de groupe des dispositions prévues aux quatrième et cinquième alinéas de
 l'article L. 432-1 pour le comité d'entreprise.
 
 Le respect des dispositions de l'alinéa précédent dispense des obligations
