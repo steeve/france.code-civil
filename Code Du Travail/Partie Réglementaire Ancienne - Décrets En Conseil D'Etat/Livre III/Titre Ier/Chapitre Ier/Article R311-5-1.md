@@ -1,0 +1,9 @@
+Article R311-5-1
+----
+Lorsqu'elles entendent bénéficier des dispositions de l'article L. 311-9, les
+communes adressent leur demande de convention au commissaire de la République de
+département et au délégué départemental de l'agence nationale pour l'emploi
+*ANPE, autorités compétentes*.
+
+A cette demande est jointe copie de la délibération du conseil municipal
+autorisant le maire à passer convention avec l'Agence.
