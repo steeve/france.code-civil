@@ -66,7 +66,7 @@ Fort-de-France : Martinique ;
 
 Mamoudzou : Mayotte ;
 
-Saint-Denis : Réunion ;
+Saint-Denis : Réunion, Terres australes et antarctiques françaises ;
 
 Saint-Pierre : Saint-Pierre-et-Miquelon ;
 

@@ -1,6 +1,6 @@
 Article R443-3
 ----
-Un plan d'épargne d'entreprise peut prévoir que chacun des versements des
-salariés ou anciens salariés devra être d'un montant minimum ; celui-ci ne peut
-toutefois pas excéder une somme fixée par arrêté du ministre chargé des finances
-et du ministre chargé du travail.
+Un plan d'épargne mentionné aux articles L. 443-1, L. 443-1-1 et L. 443-1-2 peut
+prévoir un montant annuel minimum de versements des adhérents ; celui-ci ne peut
+toutefois pas excéder une somme fixée par arrêté du ministre chargé de
+l'économie et du ministre chargé du travail.

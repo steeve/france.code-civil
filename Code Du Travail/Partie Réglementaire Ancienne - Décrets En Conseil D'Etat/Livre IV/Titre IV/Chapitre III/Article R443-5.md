@@ -1,18 +1,18 @@
 Article R443-5
 ----
-Il est tenu au nom de chaque salarié et ancien salarié un compte individuel
-ouvert soit dans les livres de l'entreprise, soit dans ceux de l'établissement
-chargé par elle des opérations comptables relatives au plan d'épargne de
-l'entreprise.
+L'entreprise tient le registre des comptes administratifs ouverts au nom de
+chaque adhérent retraçant les sommes affectées aux plans d'épargne ; ce registre
+comporte pour chaque adhérent la ventilation des investissements réalisés et les
+délais d'indisponibilité restant à courir. La tenue de ce registre peut être
+déléguée ; en ce cas, le contrat de délégation doit préciser les modalités
+d'information du délégataire. Les coordonnées du teneur de registre sont
+mentionnées dans les règlements des plans régis par les articles L. 443-1 et L.
+443-1-2.
 
-Les sommes mentionnées à l'article R. 443-4 sont portées au crédit des comptes
-individuels ouverts au nom des salariés et anciens salariés. Ces comptes sont
-débités du montant des sommes employées en titres émis par l'entreprise ou en
-actions de sociétés d'investissement à capital variable ou versées au
-dépositaire des avoirs d'un fonds commun de placement.
+L'accord instituant le plan d'épargne mentionné à l'article L. 443-1-1 désigne
+les sociétés ou établissements qui sont chargés de la tenue du registre
+mentionné au premier alinéa.
 
-L'entreprise ou l'établissement mentionné au premier alinéa établit un relevé
-des actions ou des parts appartenant à chaque salarié et ancien salarié. Une
-copie de ce relevé est adressée au moins une fois par an aux intéressés avec
-l'indication, s'il y a lieu, du solde de leur compte [*information - mentions
-obligatoires*].
+La personne chargée de la tenue de ce registre établit un relevé des actions ou
+des parts appartenant à chaque adhérent. Une copie de ce relevé est adressée au
+moins une fois par an aux intéressés avec l'indication de l'état de leur compte.

@@ -13,6 +13,6 @@ obligatoirement effectuées au moyen de lettres recommandées avec demande d'avi
 de réception.
 
 Les notifications des requêtes et mémoires mentionnent qu'en cas d'inobservation
-du délai imparti pour produire en application de l'article R. 611-9 ou de
+du délai imparti pour produire en application de l'article R. 611-10 ou de
 l'article R. 611-17, l'instruction pourra, sans mise en demeure préalable, être
 close dans les conditions prévues aux articles R. 613-1 et R. 613-2.

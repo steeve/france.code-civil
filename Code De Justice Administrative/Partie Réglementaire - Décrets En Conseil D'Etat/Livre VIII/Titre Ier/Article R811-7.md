@@ -16,8 +16,8 @@ statuant sur les recours pour excès de pouvoir ;
 4° Les litiges en matière de contributions directes, de taxes sur le chiffre
 d'affaires et de taxes assimilées ;
 
-5° Les litiges en matière de pensions, d'aide sociale, d'emplois réservés,
-d'indemnisation des rapatriés ;
+5° Les litiges en matière de pensions, d'aide sociale, d'aide personnalisée au
+logement, d'emplois réservés et d'indemnisation des rapatriés ;
 
 6° Les demandes d'exécution d'un arrêt de la cour administrative d'appel ou d'un
 jugement rendu par un tribunal administratif situé dans le ressort de la cour et
