@@ -1,6 +1,6 @@
 Article R5144-11
 ----
-Les déclarations mentionnées aux articles R. 5144-8 et R. 5144-9 sont faites sur
-des imprimés dont le modèle est déterminé par arrêté du ministre chargé de la
-santé [*autorité compétente*] sur proposition du directeur général de l'Agence
-du médicament.
+Sans préjudice du secret professionnel auquel peuvent être astreints, dans les
+conditions prévues à l'article 226-13 du code pénal, les membres, les
+rapporteurs et les experts de la commission, les délibérations de celle-ci sont
+confidentielles.

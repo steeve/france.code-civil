@@ -1,16 +1,14 @@
 Article R5144-1
 ----
-Il est institué auprès du ministre chargé de la santé une Commission nationale
-de la pharmacovigilance dont la mission est [*attributions*] :
+La pharmacovigilance a pour objet la surveillance du risque d'effet indésirable
+résultant de l'utilisation des médicaments et produits à usage humain mentionnés
+à l'article L. 511-1, des produits mentionnés à l'article L. 658-11 et des
+médicaments et produits contraceptifs mentionnés à l'article 2 du décret n°
+69-104 du 3 février 1969.
 
-1° De recueillir et d'évaluer les informations sur les effets inattendus ou
-toxiques des médicaments postérieurement à la délivrance de l'autorisation de
-mise sur le marché mentionnée à l'article L. 601 ;
-
-2° De donner un avis au ministre chargé de la santé sur les mesures à prendre,
-notamment en application des articles L. 601 et L. 605, pour faire cesser les
-incidents et accidents qui se sont révélés liés à l'emploi d'un médicament ou à
-l'emploi simultané de plusieurs médicaments ;
-
-3° De proposer au ministre chargé de la santé les enquêtes et travaux qu'elle
-estime utiles à l'exercice de la pharmacovigilance.
+La présente section définit des règles générales relatives à la
+pharmacovigilance exercée sur l'ensemble des médicaments et produits visés au
+précédent alinéa. Ces règles s'appliquent à la pharmacovigilance exercée sur les
+médicaments dérivés du sang et sur les autres médicaments d'origine humaine sous
+réserve des règles particulières prévues pour ces médicaments par le 11° de
+l'article L. 605.

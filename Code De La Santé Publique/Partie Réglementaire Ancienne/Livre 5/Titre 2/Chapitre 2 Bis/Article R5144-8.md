@@ -1,6 +1,9 @@
 Article R5144-8
 ----
-Tout médecin, chirurgien-dentiste ou sage-femme, ayant constaté un effet
-inattendu ou toxique susceptible d'être dû à un médicament qu'il a prescrit doit
-[*obligation*] en faire la déclaration immédiate au centre régional de
-pharmacovigilance.
+Le directeur général de l'Agence du médicament informe l'Agence européenne pour
+l'évaluation des médicaments de tout effet indésirable grave concernant un
+médicament qui lui a été déclaré ou notifié, au plus tard quinze jours après
+cette déclaration ou cette notification.
+
+Le cas échéant, il informe dans le même délai l'entreprise ou l'organisme
+exploitant le médicament ou le produit concerné.

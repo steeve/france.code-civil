@@ -1,43 +1,19 @@
 Article R5144-2
 ----
-La Commission nationale de la pharmacovigilance comprend [*composition*] :
+La pharmacovigilance comporte :
 
-1° Quatre [*nombre*] membres de droit :
+- le signalement des effets indésirables mentionnés à l'article R. 5144-1 et le
+recueil des informations les concernant ;
 
-Le directeur général de la santé ou son représentant ;
+- l'enregistrement, l'évaluation et l'exploitation de ces informations dans un
+but de prévention ;
 
-Le directeur général de l'Agence du médicament ou son représentant ;
+- la réalisation de toutes études et de tous travaux concernant la sécurité
+d'emploi des médicaments et produits mentionnés à l'article R. 5144-1.
 
-Le directeur des hôpitaux ou son représentant ;
-
-Le directeur général de l'Institut national de la santé et de la recherche
-médicale (I.N.S.E.R.M.) [*INSERM*] ou son représentant.
-
-2° Vingt-sept membres nommés par le ministre chargé de la santé pour une durée
-de trois ans :
-
-Onze cliniciens dont au moins trois médecins généralistes ;
-
-Dix toxicologues ou pharmacologues ;
-
-Trois pharmaciens hospitaliers ;
-
-Un pharmacien d'officine ;
-
-Une personnalité scientifique proposée par le ministre chargé de la consommation
-;
-
-Une personnalité compétente en matière de pharmacovigilance dans l'industrie
-pharmaceutique.
-
-Vingt-sept suppléants sont désignés dans les mêmes conditions que les membres
-titulaires.
-
-Le président et le vice-président sont désignés par le ministre chargé de la
-santé [*autorité compétente*] parmi les membres de la commission.
-
-En cas d'absence du président et du vice-président, le ministre chargé de la
-santé nomme un président de séance.
-
-La commission peut faire appel à des experts consultants choisis sur une liste
-établie par le directeur général de l'Agence du médicament.
+L'exercice de la pharmacovigilance peut impliquer la recherche et l'analyse des
+données contenues dans le dossier préclinique d'expérimentation animale ou dans
+le dossier des essais cliniques d'un médicament ou produit, ainsi que des
+informations relatives à la fabrication, à la conservation, à la vente, à la
+délivrance et aux pratiques de consommation, de prescription et d'administration
+aux patients de ce médicament ou produit.

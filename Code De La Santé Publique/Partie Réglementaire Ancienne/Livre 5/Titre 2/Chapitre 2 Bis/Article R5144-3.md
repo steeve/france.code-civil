@@ -1,15 +1,16 @@
 Article R5144-3
 ----
-Les travaux de la Commission nationale sont préparés par un comité technique
-présidé par le président de la commission nationale ou, en son absence, par le
-vice-président.
+La pharmacovigilance s'exerce :
 
-Le comité technique comprend [*composition*] les membres de droit de la
-commission et un représentant de chacun des centres régionaux de
-pharmacovigilance mentionnés à l'article R. 5144-6.
+- pour les médicaments et produits devant faire l'objet de l'autorisation de
+mise sur le marché prévue à l'article L. 601, après la délivrance de cette
+autorisation ;
 
-Le comité est chargé [*attributions*] notamment de coordonner la collecte des
-informations ainsi que les enquêtes et travaux demandés aux centres régionaux.
+- pour les médicaments mentionnés à l'article L. 601-2, après la délivrance de
+l'autorisation temporaire d'utilisation ;
 
-Il peut faire appel pour tout ou partie de ses travaux aux experts mentionnés à
-l'article R. 5144-2.
+- pour les médicaments homéopathiques mentionnés à l'article L. 601-3, après
+l'enregistrement prévu par cet article ;
+
+- pour les produits mentionnés à l'article L. 658-11, après la délivrance de
+l'autorisation prévue par cet article.

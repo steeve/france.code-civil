@@ -1,13 +1,16 @@
 Article R5144-5
 ----
-La Commission nationale rassemble et exploite :
+Il est institué un système national de pharmacovigilance.
 
-1° Les informations que recueillent les centres régionaux mentionnés à l'article
-R. 5144-6 sur les effets inattendus ou toxiques des médicaments ;
+Ce système comprend :
 
-2° Les informations qui doivent lui être transmises en application de l'article
-R. 5144-9 par les titulaires d'autorisation de mise sur le marché d'un
-médicament au sujet des effets inattendus ou toxiques de ce médicament.
+- l'Agence du médicament ;
 
-La commission peut en outre être directement informée, notamment par les centres
-de traitement des intoxications, les médecins ou les pharmaciens.
+- la Commission nationale de pharmacovigilance, mentionnée à l'article R.
+5144-9, et son comité technique, prévu à l'article R. 5144-12 ;
+
+- les centres régionaux de pharmacovigilance mentionnés à l'article R. 5144-14 ;
+
+- les membres des professions de santé et les entreprises ou organismes
+mentionnés aux articles R. 5144-19 à R. 5144-21, ainsi que les pharmacies à
+usage intérieur mentionnées à l'article L. 595-1.
