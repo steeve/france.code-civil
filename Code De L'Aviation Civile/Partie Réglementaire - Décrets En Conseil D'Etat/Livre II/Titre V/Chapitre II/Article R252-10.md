@@ -5,7 +5,7 @@ moins huit fois par an. Le président est, en outre, tenu de réunir immédiatem
 le conseil s'il y est invité par le ministre chargé de l'aviation civile. Le
 tiers au moins des membres peut également, en indiquant l'ordre du jour de la
 séance, convoquer le conseil si celui-ci ne s'est pas réuni depuis plus de deux
-mois. (4)
+mois.
 
 Le conseil ne peut valablement délibérer que lorsque la moitié au moins de ses
 membres en exercice assiste à la séance. Toutefois, si le quorum n'est pas
@@ -14,11 +14,15 @@ du jour, séparée par un intervalle de trois jours francs au moins de la
 première. Les délibérations seront alors valables quel que soit le nombre des
 membres présents.
 
-Un administrateur peut donner, par lettre, mandat à un autre administrateur de
-le représenter à une séance du conseil d'administration. Chaque administrateur
-ne peut disposer, au cours d'une même séance, que d'une seule procuration. Les
-délibérations sont prises à la majorité absolue des membres présents ou
-représentés. En cas de partage, la voix du président est prépondérante. (5)
+Un administrateur peut donner mandat à un autre administrateur nommé ou élu dans
+le même collège de le représenter à une séance du conseil d'administration.
+Chaque administrateur ne peut disposer, au cours d'une même séance, que d'une
+seule procuration.
+
+Les délibérations sont prises à la majorité des suffrages exprimés. Dans le cas
+où il est procédé à un scrutin secret, il n'est pas tenu compte des bulletins
+blancs ou nuls. En cas de partage des suffrages exprimés, la voix du président
+est prépondérante.
 
 Les procès-verbaux sont signés par le président. Ils font mention des personnes
 présentes. Une ampliation est notifiée au ministre chargé de l'aviation civile.
@@ -32,9 +36,9 @@ du compte administratif ou de sa situation personnelle. Il est également tenu a
 secret professionnel.
 
 Le directeur général de l'aviation civile et le chef du service des bases
-aériennes siègent, avec voix consultative, au conseil d'administration de
-l'Aéroport de Paris, respectivement en qualité de commissaire du Gouvernement et
-de commissaire du Gouvernement adjoint. (1)
+aériennes siègent, avec voix consultative, au conseil d'administration des
+aéroports de Paris, respectivement en qualité de commissaire du Gouvernement et
+de commissaire du Gouvernement adjoint.
 
 En cas d'absence ou d'empêchement du commissaire du Gouvernement, ses pouvoirs
-sont exercés par le commissaire du Gouvernement adjoint. (2)
+sont exercés par le commissaire du Gouvernement adjoint.
