@@ -8,9 +8,10 @@ parvenir à l'autorité qui les a agréées les pièces suivantes :
 
 1. La copie intégrale du procès-verbal de l'assemblée générale ;
 
-2. La copie des documents mis à la disposition des associés coopérateurs avant
-l'assemblée générale : bilan de l'exercice écoulé, rapports du conseil
-d'administration et des commissaires aux comptes ;
+2. La copie des documents mis à la disposition des associés-coopérateurs avant
+l'assemblée générale : comptes annuels, rapports aux associés, le cas échéant
+comptes consolidés et rapport sur la gestion du groupe, rapports des
+commissaires aux comptes sur les comptes annuels et les comptes consolidés ;
 
 3. Un état indiquant le nombre des associés coopérateurs ainsi que le nom des
 administrateurs, des commissaires aux comptes, du directeur, des personnes
