@@ -1,7 +1,8 @@
 Article R755-11
 ----
 Le ménage ou la personne qui n'a pas, au cours de l'année de référence, disposé
-de ressources imposables en France peut bénéficier du complément familial .
+de ressources telles que déterminées à l'article R. 755-4 peut bénéficier du
+complément familial .
 
 Le montant des ressources pris en considération est égal, pour les personnes qui
 exercent une activité salariée, à douze fois leur rémunération mensuelle lors de

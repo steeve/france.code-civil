@@ -1,8 +1,8 @@
 Article R531-14
 ----
 Le ménage ou la personne qui n'a pas, au cours de l'année civile de référence,
-disposé de ressources imposables en France peut bénéficier de l'allocation pour
-jeune enfant.
+disposé de ressources telles que déterminées à l'article R. 531-10 peut
+bénéficier de l'allocation pour jeune enfant.
 
 Le montant des ressources pris en considération est égal, pour les personnes qui
 exercent une activité salariée, à douze fois leur rémunération mensuelle lors de

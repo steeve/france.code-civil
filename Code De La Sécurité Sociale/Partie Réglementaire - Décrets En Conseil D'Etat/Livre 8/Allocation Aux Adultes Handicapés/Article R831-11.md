@@ -3,17 +3,22 @@ Article R831-11
 La demande d'allocation de logement doit être assortie des justifications
 suivantes :
 
-1°) l'original, la copie certifiée conforme ou une photocopie de la quittance de
-loyer, qui comprend la mensualité de janvier, ou éventuellement, dans les cas
-prévus aux troisième, quatrième et cinquième alinéas de l'article R. 831-14,
-celle qui correspond au mois pris en considération pour le calcul de
-l'allocation de logement ; dans le cas prévu au sixième alinéa de l'article R.
-831-21, il sera fourni une attestation du bailleur indiquant le montant du loyer
-de référence ; lorsqu'un employé est logé par son employeur moyennant une
-retenue sur le salaire, la production du bulletin de salaire justifiera du
-paiement d'un loyer ; en cas d'accession à la propriété, l'allocataire doit
-justifier des obligations qui lui incombent et dont il demande la prise en
-considération pour l'octroi de l'allocation de logement ;
+1° Au moment de la demande :
+
+a) En cas de location, l'original, la copie certifiée conforme ou une photocopie
+de la quittance de loyer qui comprend la mensualité de janvier ; à défaut une
+attestation du bailleur précisant le montant du loyer pour le mois de janvier ou
+éventuellement, dans les cas prévus aux troisième, quatrième et cinquième
+alinéas de l'article R. 831-14, une quittance ou une attestation correspondant
+au mois pris en considération pour le calcul de l'allocation de logement ;
+
+b) Lorsqu'un employé est logé par son employeur moyennant une retenue sur le
+salaire, la production du bulletin de salaire qui justifiera du paiement d'un
+loyer ;
+
+c) En cas d'accession à la propriété, l'allocataire doit justifier des
+obligations qui lui incombent et dont il demande la prise en considération pour
+l'octroi de l'allocation de logement.
 
 2°) toutes justifications de l'affectation, de la superficie et de la salubrité
 du local ;
@@ -28,8 +33,17 @@ R. 831-7.
 Cette déclaration doit comporter l'indication des ressources telles qu'elles ont
 été déclarées à l'administration fiscale au titre de l'année civile antérieure.
 
-Les justifications prévues aux 1°, 3° et 4° doivent être renouvelées chaque
-année avant le 1er juillet.
+Pour le renouvellement des droits, doivent être fournies avant le 1er juillet de
+chaque année les pièces suivantes :
+
+a) L'original, la copie certifiée conforme ou une photocopie de la quittance de
+loyer, qui comprend la mensualité de janvier, ou éventuellement, dans les cas
+prévus aux troisième, quatrième et cinquième alinéas de l'article R. 831-14,
+celle qui correspond au mois pris en considération pour le calcul de
+l'allocation de logement ; ou, selon les cas, les pièces prévues au 1° (b et c)
+du premier alinéa du présent article ;
+
+b) Les justifications prévues au 3° et 4° du premier alinéa du présent article.
 
 En cas de non-présentation des justifications avant le 1er juillet le paiement
 de l'allocation de logement peut être suspendu.
