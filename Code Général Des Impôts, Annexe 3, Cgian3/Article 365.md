@@ -11,10 +11,10 @@ recouvrement des impôts directs habilité à recevoir le premier acompte ou, s'
 n'est pas dû d'acomptes, au comptable du Trésor du lieu d'imposition défini par
 l'article 218 A du code général des impôts.
 
-2. ((Le comptable du Trésor transmet au service des impôts le bordereau-avis de
+2. Le comptable du Trésor transmet au service des impôts le bordereau-avis de
 liquidation et envoie au redevable une situation sur laquelle sont récapitulés
 les encaissements constatés. Ce document vaut quittance libératoire pour
-l'ensemble des sommes reçues)) (M).
+l'ensemble des sommes reçues.
 
 3. Si le solde de liquidation n'a pas été intégralement versé le 15 du mois
 suivant celui au cours duquel il était exigible en vertu du 1, la majoration de
@@ -22,10 +22,11 @@ suivant celui au cours duquel il était exigible en vertu du 1, la majoration de
 non réglées.
 
 Lorsque la liquidation de l'impôt n'a pas été faite par la société ou que cette
-liquidation a été opérée d'après un bénéfice inférieur à celui qui a été compris
-dans la déclaration souscrite en exécution du 1 de l'article 223 du code général
-des impôts, la majoration de 10 % est calculée en tenant compte du bénéfice
-porté dans la déclaration susvisée.
+liquidation a été opérée d'après ((des bénéfices ou un résultat net définis à
+l'article 360, inférieurs à ceux qui ont)) (M) été compris dans la déclaration
+souscrite en exécution du 1 de l'article 223 du code général des impôts, la
+majoration de 10 % est calculée en tenant compte ((des bénéfices ou du résultat
+net portés)) (M) dans la déclaration susvisée.
 
 4. Le recouvrement du solde de liquidation ou fraction du solde de liquidation
 et de la majoration de 10 % correspondante est poursuivi, le cas échéant, en

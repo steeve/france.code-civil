@@ -8,4 +8,5 @@ rapprochée.
 
 Sont dispensées de verser les acomptes prévus à l'alinéa ci-dessus les sociétés
 pour lesquelles le montant de l'impôt sur les sociétés correspondant aux
-bénéfices de référence définis à l'article 360 n'excède pas 1.000 F.
+bénéfices de référence ou au résultat net définis à l'article 360 n'excède pas
+1.000 F.
