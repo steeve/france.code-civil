@@ -2,8 +2,8 @@ Article R*234-10
 ----
 Le conseil d'administration délibère notamment sur les points suivants :
 
-1° L'orientation de la politique du Conseil supérieur de la pêche, les
-programmes pluriannuels d'activités et d'investissements ;
+1° L'orientation de la politique du Conseil supérieur de la pêche, le projet
+d'établissement, les programmes pluriannuels d'activités et d'investissements ;
 
 2° Le règlement intérieur. Ce règlement précise la composition, les attributions
 et les règles de fonctionnement des commissions du conseil d'administration
@@ -35,4 +35,6 @@ neuf ans ;
 12° Les actions en justice ;
 
 13° L'organisation et les missions des délégations régionales du Conseil
-supérieur de la pêche.
+supérieur de la pêche ;
+
+14° Les conditions générales d'attribution des aides et subventions.

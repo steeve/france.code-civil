@@ -14,3 +14,7 @@ rentes viagères mentionnées au 2° de l'article 199 septies du code général 
 impôts lorsqu'elles ont été constituées en faveur d'une personne handicapée ou,
 dans la limite d'un montant fixé par décret, lorsqu'elles ont été constituées
 par une personne handicapée pour elle-même.
+
+Les prestations et les ressources d'origine étrangère ou versées par une
+organisation internationale sont prises en compte pour l'application des limites
+de cumul prévues aux articles L. 821-1 et L. 821-3.
