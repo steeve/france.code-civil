@@ -7,13 +7,12 @@ transmise au représentant de l'Etat dans le département du lieu du stage, ou �
 l'autorité compétente de la collectivité d'outre-mer, dans un délai de quinze
 jours à compter de la fin de cette formation.
 
-II.- -La délivrance de l'attestation de stage donne droit à la récupération de
-quatre points dans la limite du plafond affecté au permis de conduire de son
-titulaire. Une nouvelle reconstitution de points, après une formation
-spécifique, n'est possible qu'au terme d'un délai de deux ans. La délivrance de
-l'attestation de stage sensibilisation à la sécurité routière effectué dans le
-cadre des dispositions de l'article 131-35-1 du code pénal ne donne pas droit à
-récupération de points.
+II. - L'attestation délivrée à l'issue du stage effectué en application des
+dispositions de l'alinéa 2 de l'article L. 223-6 donne droit à la récupération
+de quatre points dans la limite du plafond affecté au permis de conduire de son
+titulaire. Une nouvelle reconstitution de points, après une formation spécifique
+effectuée en application des mêmes dispositions, n'est possible qu'au terme d'un
+délai de deux ans.
 
 III. - L'autorité administrative mentionnée au I ci-dessus procède à la
 reconstitution du nombre de points dans un délai d'un mois à compter de la
