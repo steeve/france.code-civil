@@ -4,4 +4,4 @@ Pour l'application de la condition de ressources prévue à l'article R. 543-5, 
 situation de famille est appréciée au 31 juillet précédant la rentrée scolaire
 considérée.
 
-Il est fait application des articles R. 531-10 à R. 531-14.
+Il est fait application des articles R. 532-3 à R. 532-8.
