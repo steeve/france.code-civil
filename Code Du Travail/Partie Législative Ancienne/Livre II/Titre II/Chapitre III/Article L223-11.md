@@ -1,15 +1,13 @@
 Article L223-11
 ----
-L'indemnité afférente au congé [*payé*] prévu par l'article L. 223-2 est égale
-au dixième de la rémunération totale perçue par le salarié au cours de la
-période de référence [*montant*]. Pour la détermination de la rémunération
-totale [*mode de calcul*], il est tenu compte de l'indemnité de congé de l'année
-précédente ainsi que les indemnités afférentes au repos compensateur prévues à
-l'article L. 212-5-1 du présent code et l'article 993-1 du code rural et les
-périodes assimilées à un temps de travail [*congé payé, congé maternité,
-accident du travail, maladie professionnelle, service national*] par l'article
-L. 223-4 sont considérées comme ayant donné lieu à rémunération en fonction de
-l'horaire de travail de l'établissement.
+L'indemnité afférente au congé prévu par l'article L. 223-2 est égale au dixième
+de la rémunération totale perçue par le salarié au cours de la période de
+référence. Pour la détermination de la rémunération totale, il est tenu compte
+de l'indemnité de congé de l'année précédente ainsi que les indemnités
+afférentes au repos compensateur prévues à l'article L. 212-5-1 du présent code
+et par l'article L. 713-9 du code rural et les périodes assimilées à un temps de
+travail par l'article L. 223-4 sont considérées comme ayant donné lieu à
+rémunération en fonction de l'horaire de travail de l'établissement.
 
 Lorsque la durée du congé est différente de celle qui est prévue à l'article L.
 223-2, l'indemnité est calculée selon les règles fixées ci-dessus et

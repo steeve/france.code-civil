@@ -1,0 +1,51 @@
+Article L713-5
+----
+I. - La durée du travail effectif est le temps pendant lequel le salarié est à
+la disposition de l'employeur et doit se conformer à ses directives, sans
+pouvoir vaquer librement à des occupations personnelles.
+
+Le temps nécessaire à la restauration ainsi que les temps consacrés aux pauses
+sont considérés comme du temps de travail effectif lorsque les critères définis
+à l'alinéa précédent sont réunis. Même s'ils ne sont pas reconnus comme du temps
+de travail, ils peuvent faire l'objet d'une rémunération par voie
+conventionnelle ou contractuelle.
+
+Sans préjudice des clauses des conventions collectives, des usages ou des
+dispositions du contrat de travail l'assimilant à du temps de travail effectif,
+le temps nécessaire à l'habillage et au déshabillage fait l'objet de
+contreparties, soit sous forme de repos, soit financières, devant être
+déterminées par convention ou accord collectif ou à défaut par le contrat de
+travail, lorsque le port d'une tenue de travail est imposé sur le lieu de
+travail par des dispositions législatives ou réglementaires, par des clauses
+conventionnelles, le règlement intérieur ou le contrat de travail.
+
+II. - Une durée équivalente à la durée légale peut être instituée dans les
+professions et pour des emplois déterminés comportant des périodes d'inaction
+soit par décret, pris après conclusion d'une convention ou d'un accord de
+branche, soit par décret en Conseil d'Etat. Ces périodes sont rémunérées
+conformément aux usages ou aux conventions ou accords collectifs.
+
+III. - Une période d'astreinte s'entend comme une période pendant laquelle le
+salarié, sans être à la disposition permanente et immédiate de l'employeur, a
+l'obligation de demeurer à son domicile ou à proximité afin d'être en mesure
+d'intervenir pour effectuer un travail au service de l'entreprise, la durée de
+cette intervention étant considérée comme un temps de travail effectif.
+
+Ces astreintes sont mises en place par des conventions ou accords collectifs
+étendus ou des accords d'entreprise ou d'établissement, qui en fixent le mode
+d'organisation ainsi que la compensation financière ou sous forme de repos à
+laquelle elles donnent lieu. A défaut de conclusion d'une convention ou accord,
+les conditions dans lesquelles les astreintes sont organisées et les
+compensations financières ou en repos auxquelles elles donnent lieu sont fixées
+par l'employeur après information et consultation du comité d'entreprise ou, en
+l'absence de comité d'entreprise, des délégués du personnel s'il en existe, et
+après information de l'inspecteur du travail.
+
+La programmation individuelle des périodes d'astreinte doit être portée à la
+connaissance de chaque salarié concerné quinze jours à l'avance, sauf
+circonstances exceptionnelles et sous réserve que le salarié en soit averti au
+moins un jour franc à l'avance. En fin de mois, l'employeur doit remettre à
+chaque salarié concerné un document récapitulant le nombre d'heures d'astreinte
+effectuées par celui-ci au cours du mois écoulé ainsi que la compensation
+correspondante. Ce document, qui est tenu à la disposition des agents de
+contrôle de l'inspection du travail, est conservé pendant une durée d'un an.

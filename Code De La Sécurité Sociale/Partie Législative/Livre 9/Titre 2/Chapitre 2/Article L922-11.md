@@ -1,10 +1,10 @@
 Article L922-11
 ----
-Est réputée non écrite et nulle de plein droit , toute disposition des statuts
-ou du règlement d'une institution de retraite mentionnée soit au présent titre,
-soit au I de l'article 1050 du code rural intéressant le personnel salarié d'une
-ou de plusieurs professions, lorsque cette disposition emporte la perte des
-droits à la retraite d'un salarié pour changement de profession.
+Est réputée non écrite et nulle de plein droit, toute disposition des statuts ou
+du règlement d'une institution de retraite mentionnée soit au présent titre,
+soit au I de l'article L. 727-2 du code rural intéressant le personnel salarié
+d'une ou de plusieurs professions, lorsque cette disposition emporte la perte
+des droits à la retraite d'un salarié pour changement de profession.
 
 Les régimes mentionnés à l'alinéa précédent doivent, s'il y a lieu, modifier
 leurs dispositions pour définir les nouvelles modalités assurant la sauvegarde

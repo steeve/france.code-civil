@@ -18,6 +18,3 @@ En cas de rupture du contrat de travail pour motif économique intervenant aprè
 ou pendant une période de modulation, le salarié conserve le supplément de
 rémunération qu'il a, le cas échéant, perçu par rapport au nombre d'heures
 effectivement travaillées.
-
-Les dispositions du présent article sont applicables aux salariés [*agricoles*]
-mentionnés à l'article 1144 (1° à 7° et 10°) du code rural.
