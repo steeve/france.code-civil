@@ -74,10 +74,13 @@ qui ne saurait excéder un an.
 Le dépouillement du scrutin a lieu au siège de la société ; il est effectué, en
 présence d'au moins un représentant de chaque liste de candidats, par un bureau
 comprenant le président en exercice de la société et un membre du conseil
-d'administration ou de surveillance ne représentant pas les locataires ; les
-résultats sont affichés immédiatement dans tous les immeubles dépendant de la
-société. Un procès-verbal du résultat du scrutin est remis à chaque liste en
-présence, ainsi qu'au préfet du département du siège de la société.
+d'administration ou de surveillance ne représentant pas les locataires ou,
+lorsque l'élection a lieu en période d'administration provisoire de la société,
+l'administrateur provisoire et une personne désignée à cette fin par le préfet
+du département du siège de la société ; les résultats sont affichés
+immédiatement dans tous les immeubles dépendant de la société. Un procès-verbal
+du résultat du scrutin est remis à chaque liste en présence, ainsi qu'au préfet
+du département du siège de la société.
 
 Les réclamations contre les opérations électorales sont portées devant le
 tribunal d'instance du lieu du siège de la société dans la quinzaine qui suit le
