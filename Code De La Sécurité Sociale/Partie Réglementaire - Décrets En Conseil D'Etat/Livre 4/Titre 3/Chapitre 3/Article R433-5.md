@@ -1,25 +1,29 @@
 Article R433-5
 ----
-Pour le calcul de l'indemnité journalière, le salaire déterminé conformément à
-l'article R. 436-1 à prendre en considération est celui de la période
-correspondant au montant :
+Le salaire journalier servant de base au calcul de l'indemnité journalière
+prévue à l'article L. 433-1 est déterminé comme suit :
 
-1°) de la dernière, des deux dernières ou des quatre dernières payes antérieures
-à la date de l'arrêt de travail, si le salaire ou le gain est réglé
-mensuellement, deux fois par mois, toutes les deux semaines ou chaque semaine ;
+1° 1/30 du montant de la ou des deux dernières payes antérieures à la date de
+l'arrêt de travail, si le salaire est réglé mensuellement ou deux fois par mois
+;
 
-2°) des payes afférentes au mois antérieur à la date de l'arrêt de travail, si
-le salaire ou le gain est réglé journellement ou à intervalles irréguliers, au
+2° 1/28 du montant des deux ou des quatre dernières payes antérieures à la date
+de l'arrêt de travail, si le salaire est réglé toutes les deux semaines ou
+chaque semaine ;
+
+3° 1/30 du montant des payes afférentes au mois antérieur à la date de l'arrêt
+de travail, si le salaire est réglé journellement ou à intervalles réguliers, au
 début ou à la fin d'un travail ;
 
-3°) du salaire ou du gain des trois mois antérieurs à la date de l'arrêt de
-travail, si ledit salaire ou gain n'est pas réglé au moins une fois par mois,
-mais l'est au moins une fois par trimestre ;
+4° 1/90 du montant du salaire des trois mois antérieurs à la date d'arrêt du
+travail, si ce salaire n'est pas réglé au moins une fois par mois, mais l'est au
+moins une fois par trimestre ;
 
-4°) du salaire ou du gain des douze mois antérieurs à la date de l'arrêt de
-travail lorsque l'activité de l'entreprise n'est pas continue ou présente un
+5° 1/360 du montant du salaire des douze mois antérieurs à la date de l'arrêt de
+travail, lorsque l'activité de l'entreprise n'est pas continue ou présente un
 caractère saisonnier ou lorsque la victime exerce une profession de manière
 discontinue.
 
-Le salaire journalier est obtenu en divisant ce montant par le nombre de jours
-ouvrables contenus dans ladite période.
+L'indemnité journalière calculée à partir de ce salaire journalier ne peut
+dépasser le montant du gain journalier net perçu par la victime et déterminé
+selon des modalités fixées par arrêté du ministre chargé de la sécurité sociale.

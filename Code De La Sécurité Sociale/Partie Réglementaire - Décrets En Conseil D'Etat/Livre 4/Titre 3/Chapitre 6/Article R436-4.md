@@ -9,7 +9,7 @@ d'un an ayant pris fin au dernier inventaire de l'établissement ou de la
 succursale avant la date de l'arrêt de travail.
 
 Le salaire journalier est calculé en divisant le salaire annuel ainsi déterminé
-par le nombre de jours ouvrables correspondant à ladite période.
+par 360.
 
 Dans le cas où l'établissement ou la succursale est géré par des conjoints ou
 lorsque le gérant emploie un personnel auxiliaire à ses frais et sous sa
