@@ -4,7 +4,8 @@ La garantie de l'Etat peut être accordée en totalité ou en partie :
 
 1° A la compagnie française d'assurance pour le commerce extérieur, pour ses
 opérations d'assurances des risques commerciaux, politiques, monétaires,
-catastrophiques ainsi que de certains risques dits extraordinaires.
+catastrophiques et de certains risques dits extraordinaires, ainsi que pour les
+opérations de gestion des droits et obligations y afférents.
 
 2° Aux exportateurs pour les opérations prévues à l'article 53 de la loi n°
 48-1516 du 26 septembre 1948, fixant l'évaluation des voies et moyens du budget
