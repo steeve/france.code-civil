@@ -6,6 +6,4 @@ le ministre chargé du budget après avis des ministres chargés de la santé et
 la sécurité sociale.
 
 Les modalités particulières de ce contrôle sont fixées par arrêté conjoint des
-ministres chargés du budget, de la santé et de la sécurité sociale. Cet arrêté
-fixe notamment le montant au-dessous duquel les marchés ne sont pas soumis au
-visa du contrôleur financier.
+ministres chargés du budget, de la santé et de la sécurité sociale.

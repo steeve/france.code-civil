@@ -13,3 +13,10 @@ généraux une partie de ses compétences relatives au fonctionnement courant de
 ces directions, hôpitaux, groupes hospitaliers et services généraux. Toutefois,
 il peut toujours évoquer et régler lui-même des affaires comprises dans cette
 délégation en vue d'assurer le bon fonctionnement du service public hospitalier.
+
+Le directeur général peut déléguer par arrêté aux personnes mentionnées au
+troisième alinéa du présent article ses compétences de personne responsable des
+marchés. Ces délégations énumèrent les catégories de marchés pour lesquelles
+elles sont données. En ce qui concerne les marchés de fournitures et de
+services, ces catégories sont définies en appliquant la nomenclature prévue à
+l'article 27 du code des marchés publics.
