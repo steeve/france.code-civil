@@ -13,4 +13,8 @@ médicale.
 
 Dans tous les cas, le directeur de l'établissement veille à ce que toutes
 dispositions soient prises pour assurer la garde et la confidentialité des
-dossiers conservés dans l'établissement.
+dossiers conservés dans l'établissement. Lorsque, pour assurer la
+confidentialité des échanges électroniques des informations contenues dans le
+dossier médical, sont utilisées des cartes électroniques, ces cartes sont
+conformes aux dispositions des articles R. 161-52 à R. 161-54 du code de la
+sécurité sociale.
