@@ -3,6 +3,9 @@ Article R247-7
 La décision du directeur des services fiscaux ou du directeur régional peut être
 soumise au directeur général des impôts.
 
-La décision du directeur général des impôts ou du ministre peut faire l'objet de
-recours devant les mêmes autorités, mais seulement si des faits nouveaux sont
-invoqués [*condition*].
+La décision du directeur régional des douanes et droits indirects peut être
+soumise au directeur général des douanes et droits indirects.
+
+La décision du directeur général des impôts ou du directeur général des douanes
+et droits indirects, selon le cas, ou du ministre, peut faire l'objet de recours
+devant les mêmes autorités, mais seulement si des faits nouveaux sont invoqués.
