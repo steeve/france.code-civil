@@ -1,10 +1,45 @@
 Article R*420-18
 ----
-Toute transaction ayant pour objet de fixer ou de régler les indemnités dues par
-les responsables non assurés d'accidents corporels causés par l'emploi d'un ou
-plusieurs des véhicules définis à l'article L. 420-1, ou par leurs remorques ou
-semi-remorques, ou d'accidents corporels de chasse ou de destruction des animaux
-nuisibles définis à l'article 366 ter du code rural, doit être notifiée au fonds
-de garantie par le débiteur de l'indemnité dans un délai d'un mois, par lettre
-recommandée avec demande d'avis de réception, sous peine d'une amende de 40 à
-160 F.
+1. Les dommages matériels que le fonds de garantie prend en charge par
+application de l'article L. 420-1 du code sont uniquement ceux qui sont causés
+accidentellement par un ou plusieurs véhicules terrestres à moteur ainsi que par
+les remorques ou semi-remorques de ces véhicules.
+
+Sont exclus du bénéfice du fonds de garantie :
+
+a) Le propriétaire, hormis le cas où le véhicule a été volé, le conducteur et,
+d'une façon générale, toute personne qui a la garde du véhicule au moment de
+l'accident ;
+
+b) Lorsqu'ils sont transportés dans le véhicule : le conjoint, les ascendants et
+descendants des personnes mentionnées au a et dont la responsabilité est engagée
+du fait de l'accident ainsi que les représentants légaux de la personne morale
+propriétaire du véhicule.
+
+Lorsque le véhicule qui a causé l'accident a été volé, sont également exclus du
+bénéfice du fonds de garantie les complices du vol et d'une manière générale
+toutes les personnes transportées dans le véhicule si elles ne peuvent justifier
+de leur bonne foi.
+
+Toutefois, les personnes désignées au présent article peuvent invoquer la
+garantie du fonds lorsque l'accident a été causé par un autre véhicule terrestre
+à moteur, dans la mesure de la responsabilité de celui qui a la garde de ce
+véhicule.
+
+Lorsqu'un contrat d'assurance a été souscrit pour garantir les conséquences
+pécuniaires de la responsabilité civile découlant de l'emploi du véhicule qui a
+causé les dommages matériels, le fonds de garantie ne peut être appelé à
+indemniser la victime ou ses ayants droit qu'en cas de nullité du contrat, de
+suspension du contrat ou de la garantie de non-assurance ou d'assurance
+partielle, opposables à la victime ou à ses ayants droit. L'assureur doit
+déclarer sans délai au fonds de garantie les accidents pour lesquels il entend
+invoquer une de ces exceptions. Il doit en aviser la victime ou ses ayants droit
+en précisant le numéro de la police.
+
+2. Les dispositions des articles R. 420-13 à R. 420-16 sont applicables à
+l'indemnisation des dommages matériels.
+
+3. Le fonds de garantie ne prend pas en charge des dommages matériels subis par
+l'Etat et par les collectivités publiques, entreprises et organismes
+bénéficiaires d'une dérogation à l'obligation d'assurance accordée en
+application de l'article L. 211-3.

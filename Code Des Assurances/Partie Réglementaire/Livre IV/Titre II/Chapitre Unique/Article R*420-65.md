@@ -2,10 +2,11 @@ Article R*420-65
 ----
 Le bureau central français doit indiquer au fonds de garantie soit qu'il
 n'existe pas de garantie d'assurance, soit, s'il en existe une, les raisons pour
-lesquelles le jeu de cette garantie est refusée en tout ou partie.
+lesquelles le jeu de cette garantie est refusé en tout ou partie.
 
-Le bureau central français transmet au fonds de garantie les indications en sa
-possession concernant notamment :
+Le bureau central français transmet au fonds de garantie les indications
+relatives à l'identification de l'auteur, à la responsabilité, aux dommages
+subis par les victimes et notamment :
 
 a) La date et le lieu de l'accident ;
 

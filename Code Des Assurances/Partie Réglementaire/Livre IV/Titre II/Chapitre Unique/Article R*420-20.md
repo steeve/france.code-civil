@@ -1,32 +1,42 @@
 Article R*420-20
 ----
-Les victimes d'accidents ou leurs ayants droit doivent adresser au fonds de
-garantie leurs demandes d'indemnités par lettre recommandée avec demande d'avis
-de réception. A l'appui de leur demande, ils sont tenus de justifier.
+1. Pour bénéficier des dispositions de l'article R. 420-18 toute victime de
+dommages matériels mentionnés audit article doit, sous peine de déchéance de ses
+droits éventuels à l'égard du fonds de garantie, adresser audit fond une
+déclaration accompagnée de l'état descriptif des dommages et de justifications
+relatives à l'identité de l'adversaire, à sa responsabilité et à l'absence ou à
+l'insuffisance d'assurance ou de garantie de la personne présumée responsable
+des dommages. Cette déclaration doit être adressée au fonds dans le délai d'un
+mois à compter du jour où la victime a eu connaissance de l'absence ou de
+l'insuffisance de garantie de la personne présumée responsable des dommages
+notamment par le refus de prise en charge du sinistre par l'assureur de cette
+personne et au plus tard dans le délai de six mois a compter du jour de
+l'accident, sauf si la victime est en mesure de rapporter la preuve qu'ayant
+fait elle-même ou par mandataire des diligences nécessaires pour obtenir la
+prise en charge de ses dommages par un assureur, il ne lui a pas été possible
+dans ce délai de six mois de déterminer si une garantie d'assurance pouvait ou
+non jouer à son profit.
 
-1° Soit qu'ils sont français, soit qu'ils ont leur résidence principale sur le
-territoire de la République française;
+Toutefois, la déchéance prévue à l'alinéa précédent n'est pas opposable à la
+victime de l'accident qui a subi à la fois des dommages corporels et des
+dommages matériels.
 
-Soit qu'ils sont ressortissants d'un Etat ayant conclu avec la France un accord
-de réciprocité et qu'ils remplissent les conditions fixées par cet accord ;
+2. La demande d'indemnité doit être adressée au fonds de garantie dans le délai
+d'un an à compter soit de la date de la transaction, soit de la date de la
+décision de justice passée en force de chose jugée.
 
-Soit enfin, pour les accidents causés par l'emploi de véhicules définis à
-l'article L. 420-1, qu'ils sont ressortissants d'un Etat membre de la Communauté
-économique européenne autre que la France, du Saint-Siège, de Saint-Marin ou de
-Monaco, ou qu'ils ont leur résidence principale dans un de ces Etats.
+En outre, les victimes ou leurs ayants droit doivent, dans le délai de trois ans
+à compter de l'accident, avoir conclu une transaction avec l'auteur de celui-ci
+ou intenté contre lui une action en justice.
 
-2° Que l'accident ouvre droit à réparation à leur profit dans les termes de la
-législation française sur la responsabilité civile et qu'il ne peut donner droit
-à indemnisation complète à aucun autre titre. Si la victime ou ses ayants droit
-peuvent prétendre à une indemnisation partielle à un autre titre, le fonds de
-garantie ne prend en charge que le complément.
+Les délais prévus aux deux alinéas précédents ne courent que du jour où les
+intéressés ont eu connaissance du dommage, s'ils prouvent qu'ils l'ont ignoré
+jusque-là.
 
-Les réclamants doivent également justifier soit que le responsable de l'accident
-n'a pu être identifié, soit qu'il s'est révélé, ainsi qu'éventuellement son
-assureur, totalement ou partiellement insolvable après la fixation de
-l'indemnité par une transaction ou une décision de justice exécutoire.
+Ces délais sont impartis à peine de forclusion, à moins que les intéressés ne
+prouvent qu'ils ont été dans l'impossibilité d'agir avant l'expiration desdits
+délais.
 
-Pour le fonds de garantie, l'insolvabilité du responsable de l'accident résulte
-d'une sommation de payer suivie de refus ou demeurée sans effet pendant un délai
-d'un mois à compter de sa signification. Celle de l'assureur résulte du retrait
-de l'agrément administratif.
+3. Les dispositions des articles R. 420-4 à R. 420-11 sont applicables à
+l'indemnisation des dommages matériels de la victime d'un accident qui a subi
+également des dommages corporels.

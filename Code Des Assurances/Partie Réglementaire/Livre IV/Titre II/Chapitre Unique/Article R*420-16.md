@@ -1,9 +1,14 @@
 Article R*420-16
 ----
-Si la demande d'indemnité a été portée devant une juridiction civile dans les
-conditions prévues à l'article R. 420-14, la victime ou ses ayants droit
-peuvent, lorsque sont remplies les conditions mentionnées au 1° de l'article R.
-420-15, demander à l'assureur le paiement des sommes qui leur ont été allouées
-en application des articles 515, 771 et 808 à 811 du nouveau code de procédure
-civile, et qui leur seraient versées par le fonds de garantie si le règlement
-était effectué par ce dernier.
+Sans préjudice de l'exercice de l'action résultant de la subrogation légale du
+fonds de garantie dans les droits que possède le créancier de l'indemnité contre
+l'auteur de l'accident ou l'assureur, le fonds de garantie a le droit de
+réclamer également au débiteur de l'indemnité, d'une part, des intérêts qui sont
+calculés au taux légal et courent depuis la date du paiement des indemnités
+jusqu'à la date de remboursement de celles-ci, d'autre part, une allocation
+forfaitaire qui est destinée à couvrir les frais de recouvrement et dont le
+montant est fixé sur les bases que détermine un décret pris sur la proposition
+du ministre du budget.
+
+Le cas échéant, le fonds de garantie recouvre également sur le débiteur de
+l'indemnité la contribution mentionnée au 2° de l'article R. 420-27.

@@ -1,30 +1,57 @@
 Article R*420-15
 ----
-Si la demande d'indemnité a été portée devant une juridiction répressive ou si
-une transaction approuvée par le fonds de garantie est intervenue avec le
-responsable de l'accident, la victime ou ses ayants droit peuvent demander à
-l'assureur le paiement des sommes qui leur seraient versées par le fonds si le
-règlement était effectué par ce dernier, à la condition de justifier :
+Le fonds de garantie peut intervenir même devant les juridictions répressives et
+même pour la première fois en cause d'appel, en vue, notamment, de contester le
+principe ou le montant de l'indemnité réclamée, dans toutes les instances
+engagées entre les victimes d'accidents corporels ou leurs ayants droit, d'une
+part, les responsables ou leurs assureurs, d'autre part. Il intervient alors à
+titre principal et peut user de toutes les voies de recours ouvertes par la loi.
+En aucun cas, cette intervention ne peut motiver une condamnation conjointe ou
+solidaire du fonds de garantie et du responsable.
 
-1° Que le fonds de garantie leur a fait connaître, conformément à l'article R.
-420-13 :
+Sous réserve des dispositions du quatrième alinéa du présent article, la victime
+ou ses ayants droit doivent adresser sans délai au fonds de garantie, par lettre
+recommandée avec demande d'avis de réception, une copie de tout acte introductif
+d'instance ayant pour objet de saisir la juridiction compétente d'une demande
+d'indemnité dirigée contre un défendeur dont il n'est pas établi que la
+responsabilité civile est couverte par une assurance.
 
-a) Qu'il conteste le bien-fondé de l'exception invoquée par l'assureur ou qu'il
-n'est pas en mesure de prendre une décision définitive à ce sujet,
+Tout acte introductif d'instance, dont une copie doit être adressée au fonds de
+garantie en application de l'alinéa précédent, doit contenir les précisions
+suivantes : date et lieu de l'accident, nature du véhicule ou agent ou
+instrument du dommage, autorité ayant dressé le procès-verbal ou le rapport
+mentionné à l'article R. 420-3, montant de la demande en ce qui concerne la
+répartition des dommages résultant de l'accident corporel ou, à défaut, nature
+et gravité de ces dommages. Il doit, en outre, mentionner d'après les
+indications contenues dans le procès-verbal ou le rapport précité ou celles
+recueillies ultérieurement, notamment celles fournies par l'assureur en
+application du premier alinéa de l'article R. 420-5 :
 
-b) Qu'en l'absence de garantie de l'assureur, ils seraient admis à bénéficier de
-la garantie dudit fonds.
+Soit que la responsabilité civile du défendeur n'est pas couverte par un contrat
+d'assurance ;
 
-2° Que le montant de l'indemnité a été fixé par une décision de justice
-exécutoire opposable au fonds ou par une transaction approuvée par lui.
+Soit que l'assureur, dont les nom et adresse doivent être précisés ainsi que le
+numéro de la police, entend contester sa garantie ou invoquer la limitation de
+celle-ci ;
 
-L'assureur est alors tenu de procéder au paiement des sommes susmentionnées pour
-le compte de qui il appartiendra. S'il n'exécute pas cette obligation, il peut y
-être contraint par une ordonnance rendue par le juge des référés à la requête de
-la victime ou de ses ayants droit.
+Soit que le demandeur ne possède aucun des deux renseignements ci-dessus, les
+éléments lui permettant de douter de l'existence d'une assurance couvrant les
+dommages dont il est demandé réparation devant être mentionnés le cas échéant.
 
-Lorsque le bien-fondé de l'exception par lui opposée est reconnu soit par accord
-avec le fonds de garantie, soit judiciairement, cet assureur peut réclamer au
-fonds de garantie le remboursement des sommes qu'il a payées pour le compte de
-celui-ci après établissement de l'insolvabilité totale ou partielle du
-responsable dans les conditions prévues à l'article R. 420-20.
+Les dispositions des deux alinéas qui précédent ne sont pas applicables lorsque
+la demande d'indemnité est portée devant une juridiction répressive. Dans ce
+cas, la victime ou ses ayants droit doivent, dix jours au moins avant l'audience
+retenue pour les débats, aviser le fonds de garantie par lettre recommandée avec
+demande d'avis de réception de leur constitution de partie civile ou de
+l'éventualité de cette constitution. Cet avis doit mentionner, outre les
+diverses indications prévues au troisième alinéa du présent article, les nom,
+prénoms et adresse de l'auteur des dommages et, le cas écheant, du civilement
+responsable ainsi que la juridiction saisie de l'action publique et la date de
+l'audience.
+
+Les notifications effectuées dans les conditions prévues aux alinéas précédents
+ont pour effet, même si le fonds de garantie n'est pas intervenu à l'instance,
+de rendre opposable à celui-ci la décision rendue sur la demande d'indemnité.
+Toute mention inexacte contenue dans les notifications est sanctionnée, en cas
+de mauvaise foi, par la déchéance du recours éventuel du demandeur contre le
+fonds de garantie.

@@ -1,9 +1,9 @@
 Article R*420-9
 ----
-Sont exclus du bénéfice du fonds de garantie le conjoint, les ascendants et les
-descendants de l'auteur de l'accident.
-
-Toutefois ces personnes peuvent invoquer la garantie du fonds lorsque l'accident
-occasionné par un acte de chasse ou de destruction des animaux nuisibles engage
-la responsabilité d'une autre personne et dans la mesure de cette
-responsabilité.
+Si la demande d'indemnité a été portée devant une juridiction civile dans les
+conditions prévues à l'article R. 420-7, la victime ou ses ayants droit peuvent,
+lorsque sont remplies les conditions mentionnées au 1° de l'article R. 420-8,
+demander à l'assureur le paiement des sommes qui leur ont été allouées en
+application des articles 515, 771 et 808 à 811 du nouveau code de procédure
+civile, et qui leur seraient versées par le fonds de garantie si le règlement
+était effectué par ce dernier.
