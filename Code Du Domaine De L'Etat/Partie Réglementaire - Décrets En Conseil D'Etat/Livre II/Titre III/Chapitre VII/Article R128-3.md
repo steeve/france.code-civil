@@ -13,3 +13,7 @@ domaine, sur proposition du ministre affectataire ou gestionnaire. Dans ce cas,
 la convention peut prévoir que des conventions annexes seront signées par les
 représentants du ministre chargé du domaine dans les départements ou pays où
 sont situés les immeubles concernés.
+
+Lorsqu'elle porte sur un immeuble militaire visé au 6 de l'article R. 128-1, la
+convention de gestion est également signée par le ministre de la défense ou son
+représentant.

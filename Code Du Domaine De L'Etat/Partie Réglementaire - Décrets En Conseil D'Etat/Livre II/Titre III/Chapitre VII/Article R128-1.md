@@ -18,4 +18,9 @@ préservé ;
 ou d'aménagement de toute nature ;
 
 5° Immeubles compris dans la zone définie à l'article L. 87, dans les conditions
-prévues aux articles R. 169 à R. 169-3.
+prévues aux articles R. 169 à R. 169-3 ;
+
+6° Immeubles militaires compris dans un site ayant fait l'objet d'une décision
+de restructuration prise par le ministre de la défense en application d'une loi
+de programmation militaire lorsque leur cession à la valeur estimée par le
+service des domaines n'est pas possible.
