@@ -1,12 +1,15 @@
 Article A63
 ----
-L'adjudication a lieu publiquement par devant le préfet ou son délégué, assisté
-d'un représentant du service gestionnaire et d'un représentant du service des
-domaines.
+En cas d'adjudication par combinaison des enchères verbales et des soumissions
+cachetées, ces dernières doivent être rédigées et remises ou adressées au
+président du bureau d'adjudication dans les conditions prévues à l'article A.
+62. Elles ne peuvent être ni retirées ni modifiées après l'ouverture de la
+séance d'adjudication.
 
-L'avis relatif à l'adjudication indique les lieux où sont déposés le cahier des
-charges générales et le cahier des clauses spéciales.
+Il est procédé en premier lieu aux enchères verbales puis à l'ouverture des
+enveloppes contenant les soumissions cachetées.
 
-Au moment de l'adjudication, l'ordre des lots peut être modifié et certains lots
-peuvent être retirés de l'adjudication sans que les amateurs puissent élever
-aucune réclamation ni prétendre à une indemnité quelconque.
+L'adjudication est prononcée au profit de l'enchérisseur ou du soumissionnaire
+le plus offrant sous réserve, s'il s'agit du soumissionnaire, que son offre soit
+supérieure à la mise à prix. En cas d'égalité d'offres, il est procédé
+conformément aux dispositions du dernier alinéa de l'article A. 62.
