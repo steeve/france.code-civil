@@ -9,9 +9,9 @@ Les plus-values mentionnées aux articles 150 U à 150 UB du code général des
 impôts sont également assujetties à cette contribution.
 
 II. - Sont également assujettis à la contribution selon les modalités prévues au
-I, pour la part acquise à compter du 1er janvier 1997 et, le cas échéant,
-constatée à compter de cette même date en ce qui concerne les placements visés
-du 3° au 9° ;
+premier alinéa du I, pour la part acquise à compter du 1er janvier 1997 et, le
+cas échéant, constatée à compter de cette même date en ce qui concerne les
+placements visés du 3° au 9° ;
 
 1° Les intérêts et primes d'épargne des comptes d'épargne logement visés à
 l'article L. 315-1 du code de la construction et de l'habitation, respectivement
@@ -120,7 +120,11 @@ de placement et, le cas échéant, sur les autres prélèvements ; l'excédent
 
 3. Les modalités d'application du présent article sont fixées par décret.
 
-V. - La contribution visée aux I, II et IV ci-dessus est assise, contrôlée et
-recouvrée selon les mêmes règles et sous les mêmes sûretés, privilèges et
-sanctions que le prélèvement mentionné à l'article 125 A du code général des
-impôts.
+V. - La contribution visée au premier alinéa du I et aux II et IV ci-dessus est
+assise, contrôlée et recouvrée selon les mêmes règles et sous les mêmes sûretés,
+privilèges et sanctions que le prélèvement mentionné à l'article 125 A du code
+général des impôts.
+
+VI. - La contribution portant sur les plus-values mentionnées au second alinéa
+du I est assise, contrôlée et recouvrée selon les mêmes règles et sous les mêmes
+sûretés, privilèges et sanctions que l'impôt sur le revenu.

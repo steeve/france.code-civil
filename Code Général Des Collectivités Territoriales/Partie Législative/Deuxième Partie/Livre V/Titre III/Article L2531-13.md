@@ -5,41 +5,41 @@ ressources fiscales des communes et des établissements publics de coopération
 intercommunale de la région d'Ile-de-France.
 
 I Sont soumises à un premier prélèvement les communes de la région
-d'Ile-de-France dont le potentiel fiscal par habitant est supérieur d'au moins
-40 p. 100 au potentiel fiscal moyen par habitant des communes de la région
-d'Ile-de-France. Ce dernier est égal à la somme des potentiels fiscaux des
+d'Ile-de-France dont le potentiel financier par habitant est supérieur d'au
+moins 25 % au potentiel financier moyen par habitant des communes de la région
+d'Ile-de-France. Ce dernier est égal à la somme des potentiels financiers des
 communes de la région d'Ile-de-France rapportée à la population de l'ensemble de
 ces communes.
 
 Le prélèvement est réalisé dans les conditions suivantes :
 
-1° Lorsque le potentiel fiscal par habitant d'une commune est égal ou supérieur
-à 1,4 fois le potentiel fiscal moyen par habitant des communes de la région
-d'Ile-de-France et est inférieur à deux fois ce potentiel fiscal, il est perçu
-un prélèvement égal à 8 p. 100 du montant du potentiel fiscal excédant le
-potentiel fiscal moyen par habitant multiplié par le nombre d'habitants de la
-commune considérée ;
+1° Lorsque le potentiel financier par habitant d'une commune est égal ou
+supérieur à 1,25 fois le potentiel financier moyen par habitant des communes de
+la région d'Ile-de-France et est inférieur à deux fois ce potentiel financier,
+il est perçu un prélèvement égal à 8 p. 100 du montant du potentiel financier
+excédant le potentiel financier moyen par habitant multiplié par le nombre
+d'habitants de la commune considérée ;
 
-2° Lorsque le potentiel fiscal par habitant d'une commune est égal ou supérieur
-à deux fois le potentiel fiscal moyen par habitant des communes de la région
-d'Ile-de-France et est inférieur à trois fois ce potentiel fiscal, il est perçu
-un prélèvement égal à 9 p. 100 du montant du potentiel fiscal excédant le
-potentiel fiscal moyen par habitant multiplié par le nombre d'habitants de la
-commune considérée ;
+2° Lorsque le potentiel financier par habitant d'une commune est égal ou
+supérieur à deux fois le potentiel financier moyen par habitant des communes de
+la région d'Ile-de-France et est inférieur à trois fois ce potentiel financier,
+il est perçu un prélèvement égal à 9 p. 100 du montant du potentiel financier
+excédant le potentiel financier moyen par habitant multiplié par le nombre
+d'habitants de la commune considérée ;
 
-3° Lorsque le potentiel fiscal par habitant d'une commune est égal ou supérieur
-à trois fois le potentiel fiscal moyen par habitant des communes de la région
-d'Ile-de-France, il est perçu un prélèvement égal à 10 p. 100 du montant du
-potentiel fiscal excédant le potentiel fiscal moyen par habitant multiplié par
-le nombre d'habitants de la commune considérée.
+3° Lorsque le potentiel financier par habitant d'une commune est égal ou
+supérieur à trois fois le potentiel financier moyen par habitant des communes de
+la région d'Ile-de-France, il est perçu un prélèvement égal à 10 p. 100 du
+montant du potentiel financier excédant le potentiel financier moyen par
+habitant multiplié par le nombre d'habitants de la commune considérée.
 
 Les communes éligibles à la dotation de solidarité urbaine ou au fonds au titre
 de la même année sont exonérées de contribution au fonds.
 
-En 1996, la contribution des communes dont le potentiel fiscal est compris entre
-1,4 et 1,5 fois le potentiel fiscal moyen par habitant des communes de la région
-d'Ile-de-France, et qui contribuent au fonds pour la première fois, fait l'objet
-d'un abattement de 50 p. 100.
+En 1996, la contribution des communes dont le potentiel financier est compris
+entre 1,4 et 1,5 fois le potentiel financier moyen par habitant des communes de
+la région d'Ile-de-France, et qui contribuent au fonds pour la première fois,
+fait l'objet d'un abattement de 50 p. 100.
 
 Le prélèvement opéré en application du présent paragraphe ne peut excéder 5 p.
 100 du montant des dépenses réelles de fonctionnement de la commune constatées
@@ -55,15 +55,10 @@ alinéa de l'article L. 2332-2.
 La population à prendre en compte pour l'application du présent paragraphe est
 arrêtée dans les conditions prévues à l'article L. 2334-2.
 
-Le potentiel fiscal à prendre en compte pour l'application du présent paragraphe
-est majoré du montant, pour la dernière année connue, de la compensation prévue
-au I du D de l'article 44 de la loi de finances pour 1999 (n° 98-1266 du 30
-décembre 1998). ;
-
 II. - 1° Sont soumises à un deuxième prélèvement les communes de la région
 d'Ile-de-France dont les bases totales d'imposition à la taxe professionnelle
-divisées par le nombre d'habitants excèdent 3,5 fois la moyenne des bases de
-taxe professionnelle par habitant constatée au niveau national.
+divisées par le nombre d'habitants excèdent 3 fois la moyenne des bases de taxe
+professionnelle par habitant constatée au niveau national.
 
 Pour les communes dont le revenu moyen par habitant est supérieur ou égal à 90 %
 du revenu moyen par habitant des communes de la région d'Ile-de-France, ce
@@ -77,7 +72,7 @@ bases dépassant le seuil précité, sans toutefois que son montant puisse excé
 celui du prélèvement prévu au I.
 
 Pour les communes dont les bases totales d'imposition à la taxe professionnelle
-divisées par le nombre d'habitants sont inférieures à 3,5 fois la moyenne des
+divisées par le nombre d'habitants sont inférieures à 3 fois la moyenne des
 bases de taxe professionnelle par habitant de la région d'Ile-de-France, le
 montant du prélèvement visé au premier alinéa du II ne peut excéder 1,1 fois
 celui du prélèvement prévu au I.

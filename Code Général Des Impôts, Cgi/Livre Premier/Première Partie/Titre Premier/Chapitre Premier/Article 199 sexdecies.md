@@ -17,13 +17,22 @@ renonce au bénéfice des dispositions de l'article 156 relatives aux pensions
 alimentaires, pour la pension versée à ce même ascendant.
 
 La réduction d'impôt est égale à 50 % du montant des dépenses effectivement
-supportées, retenues dans la limite de 7 400 euros et de 10 000 euros pour les
-dépenses engagées à compter du 1er janvier 2003. Ce plafond est porté à 13 800
-euros pour les contribuables mentionnés au 3° de l'article L. 341-4 du code de
-la sécurité sociale, ainsi que pour les contribuables ayant à leur charge une
-personne, vivant sous leur toit, mentionnée au 3° dudit article, ou un enfant
-donnant droit au complément d'allocation d'éducation spéciale prévu par le
-deuxième alinéa de l'article L. 541-1 du code de la sécurité sociale.
+supportées, retenues dans la limite d'un plafond de 10 000 euros pour les
+dépenses engagées en 2004 et de 12 000 euros pour les dépenses engagées à
+compter du 1er janvier 2005. Ce plafond est porté à 13 800 euros pour les
+dépenses engagées en 2004 et à 20 000 euros pour les dépenses engagées à compter
+du 1er janvier 2005 pour les contribuables mentionnés au 3° de l'article L.
+341-4 du code de la sécurité sociale, ainsi que pour les contribuables ayant à
+leur charge une personne, vivant sous leur toit, mentionnée au 3° dudit article,
+ou un enfant donnant droit au complément d'allocation d'éducation spéciale prévu
+par le deuxième alinéa de l'article L. 541-1 du code de la sécurité sociale. Le
+plafond de 12 000 euros est majoré de 1 500 euros par enfant à charge au sens
+des articles 196 et 196 B et au titre de chacun des membres du foyer fiscal âgé
+de plus de soixante-cinq ans. La majoration s'applique également aux ascendants
+visés au premier alinéa du 1° remplissant la même condition d'âge. Le montant de
+1 500 euros est divisé par deux pour les enfants réputés à charge égale de l'un
+et l'autre de leurs parents. Le plafond de 12 000 euros augmenté de ces
+majorations ne peut excéder 15 000 euros.
 
 Ainsi qu'il est dit au premier alinéa de l'article L. 129-3 du code du travail,
 l'aide financière mentionnée à cet article n'est pas déduite du montant des

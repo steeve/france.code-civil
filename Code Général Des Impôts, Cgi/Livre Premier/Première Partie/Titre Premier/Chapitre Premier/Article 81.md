@@ -135,7 +135,7 @@ conditions et limites aux dividendes des actions de travail attribuées aux
 salariés des sociétés anonymes à participation ouvrière régies par la loi du 26
 avril 1917, à compter du 1er janvier 1991 ;
 
-19° Dans la limite de 4,60 euros par titre, le complément de rémunération
+19° Dans la limite de 4,80 euros par titre, le complément de rémunération
 résultant de la contribution de l'employeur à l'acquisition par le salarié des
 titres-restaurant émis conformément aux dispositions du titre III de
 l'ordonnance n° 67-830 du 27 septembre 1967, lorsque cette contribution est
@@ -225,8 +225,19 @@ l'amiante admis au bénéfice d'une allocation de cessation anticipée d'activit
 visée au 9° de l'article L. 12 du code des pensions de retraite des marins
 français du commerce, de pêche ou de plaisance.
 
+33° bis Les indemnités versées, sous quelque forme que ce soit, aux victimes de
+l'amiante ou à leurs ayants droit par le Fonds d'indemnisation des victimes de
+l'amiante en application de l'article 53 de la loi de financement de la sécurité
+sociale pour 2001 (n° 2000-1257 du 23 décembre 2000) ou par décision de justice
+(1) ;
+
 34° La rémunération versée aux bénéficiaires d'un contrat insertion-revenu
 minimum d'activité institué à l'article L. 322-4-15 du code du travail ;
 
 35° L'aide financière de l'Etat mentionnée à l'article L. 351-24 du code du
 travail.
+
+36° Les salaires versés aux enfants âgés de vingt et un ans au plus au 1er
+janvier de l'année d'imposition en rémunération d'une activité exercée pendant
+leurs congés scolaires ou universitaires, dans la limite de deux fois le montant
+mensuel du salaire minimum de croissance (2).

@@ -67,6 +67,91 @@ aux seuils indicatifs fixés par l'article 9, point 2, de la directive 92/12/CEE
 du Conseil, du 25 février 1992, relative au régime général, à la détention, à la
 circulation et aux contrôles des produits soumis à accises.
 
+Toutefois, les cigarettes en provenance de l'Estonie, de la Hongrie, de la
+Lettonie, de la Lituanie, de la Pologne, de la Slovaquie, de la Slovénie et de
+la République tchèque, ainsi que les autres produits du tabac en provenance de
+la République tchèque, les tabacs destinés à rouler les cigarettes et les autres
+tabacs à fumer en provenance d'Estonie, acquis aux conditions du marché
+intérieur de ces Etats membres et introduits en France, sont soumis au droit de
+consommation mentionné à l'article 575, pour toutes les quantités excédant
+celles qui seraient admises en franchise si les produits provenaient de pays
+tiers à la Communauté européenne.
+
+Les dispositions du précédent alinéa s'appliquent pour chaque pays de provenance
+et chaque type de produit mentionnés dans le tableau ci-dessous, jusqu'à la fin
+de la période dérogatoire accordée à ces Etats membres en vue de différer
+l'application des niveaux minimum de taxation, tels qu'ils résultent des
+directives n° 92/79/CEE du Conseil, du 19 octobre 1992, concernant le
+rapprochement des taxes frappant les cigarettes et n° 92/80/CEE du Conseil, du
+19 octobre 1992, concernant le rapprochement des taxes frappant les tabacs
+manufacturés autres que les cigarettes :
+
+ETAT MEMBRE de provenance : Estonie
+
+CATEGORIE de produits : Cigarettes
+
+DATE DE FIN de la période dérogatoire obtenue par chaque Etat membre de
+provenance : 31 décembre 2009
+
+CATEGORIE de produits : Tabacs à fumer (tabacs à rouler, tabacs à pipe)
+
+DATE DE FIN de la période dérogatoire obtenue par chaque Etat membre de
+provenance : 31 décembre 2009
+
+ETAT MEMBRE de provenance : Hongrie
+
+CATEGORIE de produits : Cigarettes
+
+DATE DE FIN de la période dérogatoire obtenue par chaque Etat membre de
+provenance : 31 décembre 2008
+
+ETAT MEMBRE de provenance : Lettonie
+
+CATEGORIE de produits : Cigarettes
+
+DATE DE FIN de la période dérogatoire obtenue par chaque Etat membre de
+provenance : 31 décembre 2009
+
+ETAT MEMBRE de provenance : Lituanie
+
+CATEGORIE de produits : Cigarettes
+
+DATE DE FIN de la période dérogatoire obtenue par chaque Etat membre de
+provenance : 31 décembre 2008
+
+ETAT MEMBRE de provenance : Pologne
+
+CATEGORIE de produits : Cigarettes
+
+DATE DE FIN de la période dérogatoire obtenue par chaque Etat membre de
+provenance : 31 décembre 2008
+
+ETAT MEMBRE de provenance : Slovaquie
+
+CATEGORIE de produits : Cigarettes
+
+DATE DE FIN de la période dérogatoire obtenue par chaque Etat membre de
+provenance : 31 décembre 2008
+
+ETAT MEMBRE de provenance : Slovénie
+
+CATEGORIE de produits : Cigarettes
+
+DATE DE FIN de la période dérogatoire obtenue par chaque Etat membre de
+provenance : 31 décembre 2007
+
+ETAT MEMBRE de provenance : République tchèque
+
+CATEGORIE de produits : Cigarettes
+
+DATE DE FIN de la période dérogatoire obtenue par chaque Etat membre de
+provenance : 31 décembre 2007
+
+CATEGORIE de produits : Autres produits du tabac
+
+DATE DE FIN de la période dérogatoire obtenue par chaque Etat membre de
+provenance : 31 décembre 2006.
+
 2. L'impôt est dû :
 
 1° Dans les cas visés aux a, a bis et b du 1° du 1, par la personne qui met à la
@@ -77,8 +162,7 @@ constatés ;
 
 3° (abrogé)
 
-4° Dans le cas mentionné au 4° du 1, par la personne qui détient ces produits à
-des fins commerciales en France.
+4° Dans les cas mentionnés au 4° du 1, par la personne qui détient ces produits.
 
 3. L'impôt est acquitté par toute personne qui a bénéficié d'une exonération ou
 d'une franchise des droits d'accises mentionnée à l'article 302 E ou aux 1° et

@@ -98,7 +98,7 @@ dénomination du bénéficiaire. Un décret en Conseil d'Etat détermine les
 modalités d'application de cette disposition.
 
 6. Par dérogation aux dispositions du premier alinéa du 5 et jusqu'à
-l'imposition des revenus de l'année 2003, le bénéfice de la réduction d'impôt
+l'imposition des revenus de l'année 2006, le bénéfice de la réduction d'impôt
 est accordé aux contribuables qui transmettent la déclaration de leurs revenus
 par voie électronique, en application de l'article 1649 quater B ter, à la
 condition que soient mentionnés sur cette déclaration l'identité de chaque

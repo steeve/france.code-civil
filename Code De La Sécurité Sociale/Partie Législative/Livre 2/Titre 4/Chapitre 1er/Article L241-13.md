@@ -35,7 +35,7 @@ rémunération.
 Pour les gains et rémunérations versés à compter du 1er juillet 2005, le
 coefficient maximal est de 0,26. Il est atteint pour une rémunération horaire
 égale au salaire minimum de croissance. Ce coefficient devient nul pour une
-rémunération horaire égale au salaire minimum de croissance majoré de 70 %. Pour
+rémunération horaire égale au salaire minimum de croissance majoré de 60 %. Pour
 les gains et rémunérations versés avant cette date, les dispositions du présent
 article s'appliquent sous réserve de celles de l'article 10 de la loi n° 2003-47
 du 17 janvier 2003 relative aux salaires, au temps de travail et au

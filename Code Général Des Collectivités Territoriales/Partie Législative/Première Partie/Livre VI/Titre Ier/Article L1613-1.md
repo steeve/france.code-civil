@@ -57,5 +57,10 @@ régions, en application des articles L. 1614-4 et L. 1614-8-1, et aux
 départements, hors la fraction de cette dotation correspondant aux concours
 particuliers prévus aux articles L. 1614-8 et L. 1614-14.
 
+A compter de 2006, pour le calcul du montant de la dotation globale de
+fonctionnement, le montant de la dotation globale de fonctionnement de 2005
+calculé dans les conditions ci-dessus est diminué du montant des réfactions sur
+la dotation de compensation effectuées en application du 3°.
+
 2° L'indice prévisionnel défini au premier alinéa du présent article est
 appliqué au montant ainsi obtenu.

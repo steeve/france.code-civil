@@ -14,11 +14,11 @@ Fraction de la valeur taxable :
 
 Comprise entre 23 000 et 107 000 euros
 
-Tarif applicable : 3,80 %
+Tarif applicable : 4 %
 
 Fraction de la valeur taxable :
 
-Supérieure à 107 000 euros : 2,40 %.
+Supérieure à 107 000 euros : 2,60 %.
 
 Le droit est perçu sur le prix de la vente de l'achalandage, de la cession du
 droit au bail et des objets mobiliers ou autres servant à l'exploitation du

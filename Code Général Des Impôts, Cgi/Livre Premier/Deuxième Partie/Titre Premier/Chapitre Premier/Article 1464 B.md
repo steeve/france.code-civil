@@ -1,11 +1,10 @@
 Article 1464 B
 ----
-I. Les entreprises créées à compter du 1er janvier 1989 qui bénéficient des
-exonérations prévues aux articles 44 sexies et 44 septies, peuvent être
-exonérées, dans les conditions prévues à l'article 1464 C, de la taxe
-professionnelle dont elles sont redevables, pour les établissements qu'elles ont
-créés ou repris à une entreprise en difficulté, au titre des deux années suivant
-celle de leur création.
+I. Les entreprises qui bénéficient des exonérations prévues aux articles 44
+sexies et 44 septies, peuvent être exonérées, dans les conditions prévues à
+l'article 1464 C, de la taxe professionnelle dont elles sont redevables, pour
+les établissements qu'elles ont créés ou repris à une entreprise en difficulté,
+au titre des deux années suivant celle de leur création.
 
 II. Les entreprises ne peuvent bénéficier de cette exonération qu'à la condition
 d'en avoir adressé la demande au service des impôts de chacun des établissements
@@ -18,6 +17,10 @@ III. Lorsqu'un établissement remplit les conditions requises pour bénéficier 
 l'exonération temporaire de taxe professionnelle prévue à l'article 1465 et de
 l'exonération de taxe professionnelle prévue au I, l'entreprise doit opter pour
 l'un ou l'autre de ces régimes. Cette option est irrévocable (1).
+
+III bis. - L'exonération prévue au I s'applique dans les limites prévues par le
+règlement (CE) n° 69/2001 de la Commission, du 12 janvier 2001, concernant
+l'application des articles 87 et 88 du traité CE aux aides de minimis. (2)
 
 IV. Les dispositions du dixième alinéa de l'article 1465 s'appliquent au présent
 article.

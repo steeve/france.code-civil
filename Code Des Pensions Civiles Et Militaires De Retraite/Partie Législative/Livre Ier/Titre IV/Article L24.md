@@ -14,17 +14,19 @@ décret en Conseil d'Etat ;
 2° Lorsque le fonctionnaire est mis à la retraite pour invalidité et qu'il n'a
 pas pu être reclassé dans un emploi compatible avec son état de santé ;
 
-3° Pour les femmes fonctionnaires :
+3° Lorsque le fonctionnaire civil est parent de trois enfants vivants, ou
+décédés par faits de guerre, ou d'un enfant vivant, âgé de plus d'un an et
+atteint d'une invalidité égale ou supérieure à 80 %, à condition qu'il ait, pour
+chaque enfant, interrompu son activité dans des conditions fixées par décret en
+Conseil d'Etat.
 
-a) Soit lorsqu'elles sont mères de trois enfants vivants ou décédés par faits de
-guerre ou d'un enfant vivant âgé de plus d'un an et atteint d'une invalidité
-égale ou supérieure à 80 %.
+Sont assimilées à l'interruption d'activité mentionnée à l'alinéa précédent les
+périodes n'ayant pas donné lieu à cotisation obligatoire dans un régime de
+retraite de base, dans des conditions fixées par décret en Conseil d'Etat.
 
-Sont assimilés aux enfants visés à l'alinéa précédent les enfants énumérés au
-paragraphe II de l'article L. 18 que les intéressées ont élevés dans les
-conditions prévues au paragraphe III dudit article.
-
-b) Abrogé.
+Sont assimilés aux enfants mentionnés au premier alinéa les enfants énumérés au
+II de l'article L. 18 que l'intéressé a élevés dans les conditions prévues au
+III dudit article ;
 
 4° Lorsque le fonctionnaire ou son conjoint est atteint d'une infirmité ou d'une
 maladie incurable le plaçant dans l'impossibilité d'exercer une quelconque

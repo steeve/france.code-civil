@@ -10,8 +10,8 @@ départements de métropole ou 7 500 habitants dans les départements d'outre-me
 les communes dont la population est supérieure à 2 000 habitants et n'excède pas
 20 000 habitants dans les départements de métropole ou est supérieure à 7 500
 habitants et n'excède pas 35 000 habitants dans les départements d'outre-mer et
-dont le potentiel fiscal par habitant est inférieur à 1,3 fois le potentiel
-fiscal moyen par habitant de l'ensemble des communes de métropole dont la
+dont le potentiel financier par habitant est inférieur à 1,3 fois le potentiel
+financier moyen par habitant de l'ensemble des communes de métropole dont la
 population est supérieure à 2 000 habitants et n'excède pas 20 000 habitants ;
 
 les établissements publics de coopération intercommunale dont la population
@@ -26,9 +26,9 @@ indiqués ci-dessus.
 - les établissements publics de coopération intercommunale de plus de 20 000
 habitants dans les départements de métropole et de plus de 35 000 habitants dans
 les départements d'outre-mer, composés de communes de moins de 3 500 habitants,
-dont le potentiel fiscal moyen par habitant est inférieur à 1,3 fois le
-potentiel fiscal moyen par habitant de l'ensemble des établissements publics de
-coopération intercommunale de même nature.
+dont le potentiel financier moyen par habitant est inférieur à 1,3 fois le
+potentiel financier moyen par habitant de l'ensemble des établissements publics
+de coopération intercommunale de même nature.
 
 Les communes de la collectivité territoriale de Saint-Pierre-et-Miquelon
 bénéficient de la dotation.

@@ -14,9 +14,9 @@ sens de l'article 34 ;
 
 b. Sont nouvelles au sens de l'article 44 sexies ou créées dans le cadre de
 l'extension d'une activité préexistante si elles remplissent les conditions du
-II du même article ou créées dans les conditions des cinq premiers alinéas de
-l'article 44 septies et, s'il s'agit de sociétés, ne sont pas détenues à plus de
-50 p. 100 par une entreprise individuelle ;
+II du même article ou créées dans les conditions du I de l'article 44 septies
+et, s'il s'agit de sociétés, ne sont pas détenues à plus de 50 p. 100 par une
+entreprise individuelle ;
 
 c. Réalisent à la clôture de l'exercice de création ou de reprise et des deux
 exercices suivants un chiffre d'affaires qui n'excède pas 4 600 000 euros

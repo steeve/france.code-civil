@@ -3,10 +3,10 @@ Article L221-15
 Le bénéfice de ce compte sur livret est réservé aux contribuables qui ont leur
 domicile fiscal en France et qui justifient chaque année que l'impôt établi à
 leur nom à raison de l'ensemble de leurs revenus n'excède pas, avant imputation
-de l'avoir fiscal, du crédit d'impôt et des prélèvements non libératoires, un
-plafond qui est révisé chaque année dans la même proportion que la première
-tranche du barème de l'impôt sur le revenu, le résultat obtenu étant arrondi à
-la dizaine de francs supérieure.
+des crédits d'impôt et des prélèvements non libératoires, un plafond qui est
+révisé chaque année dans la même proportion que la première tranche du barème de
+l'impôt sur le revenu, le résultat obtenu étant arrondi à la dizaine de francs
+supérieure.
 
 L'impôt mentionné à l'alinéa premier est celui qui est mis en recouvrement
 l'année qui précède celle pour laquelle une justification est demandée.

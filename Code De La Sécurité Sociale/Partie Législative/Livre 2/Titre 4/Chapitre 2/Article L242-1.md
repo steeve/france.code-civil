@@ -9,12 +9,12 @@ tous autres avantages en argent, les avantages en nature, ainsi que les sommes
 perçues directement ou par l'entremise d'un tiers à titre de pourboire.
 
 Lorsque le bénéficiaire d'une option accordée dans les conditions prévues aux
-articles 208-1 à 208-8-2 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés
-commerciales ne remplit pas les conditions prévues au I de l'article 163 bis C
-du code général des impôts, est considéré comme une rémunération le montant
-déterminé conformément au II du même article. Toutefois l'avantage correspondant
-à la différence définie au II de l'article 80 bis du code général des impôts est
-considéré comme une rémunération lors de la levée de l'option.
+articles L. 225-177 à L. 225-186 du code de commerce ne remplit pas les
+conditions prévues au I de l'article 163 bis C du code général des impôts, est
+considéré comme une rémunération le montant déterminé conformément au II du même
+article. Toutefois l'avantage correspondant à la différence définie au II de
+l'article 80 bis du code général des impôts est considéré comme une rémunération
+lors de la levée de l'option.
 
 Il ne peut être opéré sur la rémunération ou le gain des intéressés servant au
 calcul des cotisations des assurances sociales, des accidents du travail et des
@@ -69,11 +69,9 @@ Sont également pris en compte, dans les conditions prévues à l'article L.
 commerce, d'un établissement artisanal, ou d'un établissement commercial ou
 industriel muni du mobilier ou du matériel nécessaire à son exploitation, que la
 location, dans ce dernier cas, comprenne ou non tout ou partie des éléments
-incorporels
-
-du fonds de commerce ou d'industrie, lorsque ces revenus sont perçus par une
-personne qui réalise des actes de commerce au titre de l'entreprise louée ou y
-exerce une activité.
+incorporels du fonds de commerce ou d'industrie, lorsque ces revenus sont perçus
+par une personne qui réalise des actes de commerce au titre de l'entreprise
+louée ou y exerce une activité.
 
 Sont aussi prises en compte les indemnités versées à l'occasion de la rupture du
 contrat de travail à l'initiative de l'employeur ou à l'occasion de la cessation
@@ -81,3 +79,11 @@ forcée des fonctions des mandataires sociaux, dirigeants et personnes visées �
 l'article 80 ter du code général des impôts, à hauteur de la fraction de ces
 indemnités qui est assujettie à l'impôt sur le revenu en application de
 l'article 80 duodecies du même code.
+
+Les attributions gratuites d'actions effectuées conformément aux dispositions
+des articles L. 225-197-1 à L. 225-197-3 du code de commerce sont exclues de
+l'assiette des cotisations mentionnées au premier alinéa si sont respectées les
+conditions d'attribution fixées par le conseil d'administration ou, le cas
+échéant, le directoire, en application des dispositions du sixième alinéa de
+l'article L. 225-197-1 du même code. A défaut, l'employeur est tenu au paiement
+de la totalité des cotisations sociales, y compris pour leur part salariale.

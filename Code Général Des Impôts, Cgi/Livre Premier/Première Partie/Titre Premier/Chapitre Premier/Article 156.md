@@ -15,9 +15,13 @@ revenu global des années suivantes jusqu'à la sixième année inclusivement.
 Toutefois, n'est pas autorisée l'imputation :
 
 1° des déficits provenant d'exploitations agricoles lorsque le total des revenus
-nets d'autres sources excède 53 360 euros ; ces déficits peuvent cependant être
+nets d'autres sources excède 60 000 euros ; ces déficits peuvent cependant être
 admis en déduction des bénéfices de même nature des années suivantes jusqu'à la
 sixième inclusivement.
+
+Le montant mentionné au premier alinéa du présent 1° est révisé chaque année
+selon les mêmes modalités que la limite supérieure de la première tranche du
+barème de l'impôt sur le revenu (1).
 
 1° bis des déficits provenant, directement ou indirectement, des activités
 relevant des bénéfices industriels ou commerciaux lorsque ces activités ne
@@ -238,16 +242,16 @@ du patrimoine ;
 
 2° Arrérages de rentes payés par lui à titre obligatoire et gratuit constituées
 avant le 2 novembre 1959 ; pensions alimentaires répondant aux conditions fixées
-par les articles 205 à 211 et 367 du code civil à l'exception de celles versées
-aux ascendants quand il est fait application des dispositions prévues aux
-premier et deuxième alinéas du 1° de l'article 199 sexdecies ; versements de
-sommes d'argent mentionnés à l'article 275-1 du code civil lorsqu'ils sont
+par les articles 205 à 211, 367 et 767 du code civil à l'exception de celles
+versées aux ascendants quand il est fait application des dispositions prévues
+aux premier et deuxième alinéas du 1° de l'article 199 sexdecies ; versements de
+sommes d'argent mentionnés à l'article 275 du code civil lorsqu'ils sont
 effectués sur une période supérieure à douze mois à compter de la date à
 laquelle le jugement de divorce, que celui-ci résulte ou non d'une demande
 conjointe, est passé en force de chose jugée et les rentes versées en
-application des articles 276 ou 278 du même code en cas de séparation de corps
-ou de divorce, ou en cas d'instance en séparation de corps ou en divorce et
-lorsque le conjoint fait l'objet d'une imposition séparée, les pensions
+application des articles 276, 278 ou 279-1 du même code en cas de séparation de
+corps ou de divorce, ou en cas d'instance en séparation de corps ou en divorce
+et lorsque le conjoint fait l'objet d'une imposition séparée, les pensions
 alimentaires versées en vertu d'une décision de justice et en cas de révision
 amiable de ces pensions, le montant effectivement versé dans les conditions
 fixées par les articles 208 et 371-2 du code civil ; contribution aux charges du
@@ -255,7 +259,7 @@ mariage définie à l'article 214 du code civil, lorsque son versement résulte
 d'une décision de justice et à condition que les époux fassent l'objet d'une
 imposition séparée ; dans la limite de 2 700 euros et, dans les conditions
 fixées par un décret en Conseil d'Etat, les versements destinés à constituer le
-capital de la rente prévue à l'article 294 du code civil.
+capital de la rente prévue à l'article 373-2-3 du code civil.
 
 Le contribuable ne peut opérer aucune déduction pour ses descendants mineurs
 lorsqu'ils sont pris en compte pour la détermination de son quotient familial.

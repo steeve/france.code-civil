@@ -16,14 +16,23 @@ progression fixé par le comité des finances locales entre 60 % et 80 % du taux
 de progression de l'ensemble des ressources de la dotation globale de
 fonctionnement.
 
-A compter de 2005, la dotation forfaitaire de chaque département évolue chaque
-année selon un taux de progression fixé par le comité des finances locales entre
-60 % et 80 % du taux de progression de l'ensemble des ressources de la dotation
-globale de fonctionnement.
+A compter de 2005, la dotation forfaitaire de chaque département, à l'exception
+du département de Paris, est constituée d'une dotation de base et, le cas
+échéant, d'une garantie.
 
-A compter de 2004, l'augmentation annuelle du solde de la dotation globale de
-fonctionnement des départements après prélèvement de la dotation forfaitaire et
-de la dotation de compensation prévue à l'article L. 3334-7-1 est répartie par
-le comité des finances locales entre la dotation de péréquation mentionnée à
-l'article L. 3334-4 et la dotation de fonctionnement minimale mentionnée à
-l'article L. 3334-7 ;
+En 2005, chaque département perçoit une dotation de base égale à 70 Euros par
+habitant. Il perçoit le cas échéant une garantie égale à la différence entre le
+montant qu'il aurait perçu en appliquant à sa dotation forfaitaire de 2004 un
+taux de progression égal à 60 % du taux de croissance de l'ensemble des
+ressources de la dotation globale de fonctionnement, d'une part, et sa dotation
+de base pour 2005, d'autre part.
+
+A compter de 2006, le montant de la dotation de base par habitant de chaque
+département et, le cas échéant, sa garantie, évoluent chaque année selon un taux
+de progression fixé par le comité des finances locales entre 60 % et 70 % du
+taux de croissance de l'ensemble des ressources de la dotation globale de
+fonctionnement.
+
+A compter de 2005, la dotation forfaitaire du département de Paris est égale à
+la dotation forfaitaire qu'il a perçue l'année précédente indexée selon le taux
+de progression fixé en application des deux alinéas précédents.

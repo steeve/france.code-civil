@@ -25,12 +25,14 @@ annulations ainsi réalisés. Le Conseil des marchés financiers porte cette
 information à la connaissance du public.
 
 Les sociétés qui font participer les salariés aux fruits de l'expansion de
-l'entreprise par l'attribution de leurs propres actions ainsi que celles qui
-entendent consentir des options d'achat d'actions à des salariés peuvent
-utiliser à cette fin tout ou partie des actions acquises dans les conditions
-prévues ci-dessus. Elles peuvent également leur proposer d'acquérir leurs
-propres actions dans les conditions prévues par le II de l'article L. 225-196 et
-par les articles L. 443-1 et suivants du code du travail.
+l'entreprise par l'attribution de leurs propres actions, celles qui attribuent
+leurs actions dans les conditions prévues aux articles L. 225-197-1 à L.
+225-197-3 ainsi que celles qui entendent consentir des options d'achat d'actions
+à des salariés peuvent utiliser à cette fin tout ou partie des actions acquises
+dans les conditions prévues ci-dessus. Elles peuvent également leur proposer
+d'acquérir leurs propres actions dans les conditions prévues par le II de
+l'article L. 225-196 et par les articles L. 443-1 et suivants du code du
+travail.
 
 En cas d'annulation des actions achetées, la réduction de capital est autorisée
 ou décidée par l'assemblée générale extraordinaire qui peut déléguer au conseil

@@ -6,7 +6,10 @@ parts de société à responsabilité limitée et avances en compte courant, don
 moins 10 % dans des nouvelles entreprises exerçant leur activité ou
 juridiquement constituées depuis moins de cinq ans, telles que définies par le 1
 et le a du 2 de l'article L. 214-36, émises par des sociétés ayant leur siège
-dans un Etat membre de la Communauté européenne qui sont soumises à l'impôt sur
+dans un Etat membre de la Communauté européenne, ou dans un autre Etat partie à
+l'accord sur l'Espace économique européen ayant conclu avec la France une
+convention fiscale qui contient une clause d'assistance administrative en vue de
+lutter contre la fraude ou l'évasion fiscale, qui sont soumises à l'impôt sur
 les sociétés dans les conditions de droit commun ou en seraient passibles dans
 les mêmes conditions si l'activité était exercée en France, et qui remplissent
 les conditions suivantes :
@@ -47,13 +50,18 @@ Sont également prises en compte dans le calcul du quota de 60 % les
 participations versées à des sociétés de caution mutuelle ou à des organismes de
 garantie intervenant dans la zone géographique choisie par le fonds.
 
-2. Les dispositions du 3, du 4 et du 5 de l'article L. 214-36 s'appliquent aux
-fonds d'investissement de proximité sous réserve du respect du quota de 60 % et
-des conditions d'éligibilité tels que définis au 1 du présent article.
-Toutefois, par dérogation aux dispositions du 5 du même article, les fonds
-d'investissement de proximité créés jusqu'au 31 décembre 2004 doivent respecter
-leur quota d'investissement de 60 % au plus tard lors de l'inventaire de clôture
-du deuxième exercice suivant celui de leur constitution.
+Lorsque les titres d'une société détenus par un fonds d'investissement de
+proximité sont admis aux négociations sur un marché mentionné au 1 de l'article
+L. 214-36, ils continuent à être éligibles au quota d'investissement de 60 %
+pendant une durée de cinq ans à compter de leur admission.
+
+2. Les dispositions du 5 de l'article L. 214-36 s'appliquent aux fonds
+d'investissement de proximité sous réserve du respect du quota de 60 % et des
+conditions d'éligibilité tels que définis au 1 du présent article. Toutefois,
+par dérogation aux dispositions du 5 du même article, les fonds d'investissement
+de proximité créés jusqu'au 31 décembre 2004 doivent respecter leur quota
+d'investissement de 60 % au plus tard lors de l'inventaire de clôture du
+deuxième exercice suivant celui de leur constitution.
 
 3. Les parts d'un fonds d'investissement de proximité ne peuvent pas être
 détenues :

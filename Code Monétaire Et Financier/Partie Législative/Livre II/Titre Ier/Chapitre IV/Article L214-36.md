@@ -1,11 +1,13 @@
 Article L214-36
 ----
 1. L'actif d'un fonds commun de placement à risques doit être constitué, pour 50
-% au moins, de titres participatifs ou de titres donnant accès directement ou
-indirectement au capital de sociétés qui ne sont pas admises aux négociations
-sur un marché réglementé français ou étranger, ou, par dérogation à l'article L.
-214-20, de parts de sociétés à responsabilité limitée ou de sociétés dotées d'un
-statut équivalent dans leur Etat de résidence.
+% au moins, de titres participatifs ou de titres de capital, ou donnant accès au
+capital, émis par des sociétés qui ne sont pas admises aux négociations sur un
+marché d'instruments financiers français ou étranger, dont le fonctionnement est
+assuré par une entreprise de marché ou un prestataire de services
+d'investissement ou tout autre organisme similaire étranger, ou, par dérogation
+à l'article L. 214-20, de parts de sociétés à responsabilité limitée ou de
+sociétés dotées d'un statut équivalent dans leur Etat de résidence.
 
 2. L'actif peut également comprendre :
 
@@ -18,21 +20,31 @@ remplissant les conditions pour être retenues dans ce quota ;
 b) Des droits représentatifs d'un placement financier dans une entité constituée
 dans un Etat membre de l'Organisation de coopération et de développement
 économiques dont l'objet principal est d'investir dans des sociétés dont les
-titres de capital ne sont pas admis aux négociations sur un marché réglementé.
-Ces droits ne sont retenus dans le quota d'investissement de 50 % du fonds qu'à
-concurrence du pourcentage d'investissement direct de l'actif de l'entité
+titres de capital ne sont pas admis aux négociations sur un marché mentionné au
+1. Ces droits ne sont retenus dans le quota d'investissement de 50 % du fonds
+qu'à concurrence du pourcentage d'investissement direct de l'actif de l'entité
 concernée dans les sociétés éligibles à ce même quota.
 
-3. Sont également pris en compte pour le calcul du quota d'investissement de 50
-% les titres, détenus depuis cinq ans au plus, des sociétés admises aux
-négociations sur l'un des marchés réglementés de valeurs de croissance de
-l'Espace économique européen ou un compartiment de valeurs de croissance de ces
-marchés dont la liste est fixée par arrêté du ministre chargé de l'économie.
+3. Sont également éligibles au quota d'investissement prévu au 1, dans la limite
+de 20 % de l'actif du fonds, les titres de capital, ou donnant accès au capital,
+admis aux négociations sur un marché mentionné au 1 d'un Etat partie à l'accord
+sur l'Espace économique européen, émis par des sociétés dont la capitalisation
+boursière est inférieure à 150 millions d'euros. La capitalisation boursière est
+évaluée selon la moyenne des cours d'ouverture des soixante jours de bourse
+précédant celui de l'investissement. Un décret en Conseil d'Etat détermine les
+modalités d'application de cette évaluation notamment en cas de première
+cotation ou d'opération de restructuration d'entreprises.
 
 4. Lorsque les titres d'une société détenus par un fonds commun de placement à
-risques sont admis aux négociations sur un marché réglementé, ils continuent à
-être pris en compte dans le quota d'investissement de 50 % pendant une durée de
-cinq ans à compter de leur admission.
+risques sont admis aux négociations sur un marché d'instruments financiers
+français ou étrangers, dont le fonctionnement est assuré par une entreprise de
+marché ou un prestataire de services d'investissement ou tout autre organisme
+similaire étranger, ils continuent à être pris en compte dans le quota
+d'investissement de 50 % pendant une durée de cinq ans à compter de leur
+admission. Le délai de cinq ans n'est toutefois pas applicable si les titres de
+la société admis à la cotation répondent aux conditions du 3 à la date de cette
+cotation et si le fonds respecte, compte tenu de ces titres, la limite de 20 %
+mentionnée audit 3.
 
 5. Le quota d'investissement de 50 % doit être respecté au plus tard lors de
 l'inventaire de clôture de l'exercice suivant l'exercice de la constitution du

@@ -14,8 +14,9 @@ catégorie d'établissement à laquelle elles appartiennent.
 
 Au titre de la deuxième année d'attribution de la dotation dans la même
 catégorie, le coefficient d'intégration fiscale non corrigé des dépenses de
-transfert des communautés urbaines de 2000 à 2002, des communautés de communes
-et des communautés d'agglomération est pondéré par le rapport entre le
-coefficient d'intégration fiscale moyen de leur catégorie tel que défini au 2°
-du III de l'article L. 5211-30 et ce coefficient d'intégration fiscale moyen,
-non corrigé des dépenses de transfert.
+transfert des communautés de communes faisant application des dispositions de
+l'article 1609 nonies C du code général des impôts et des communautés
+d'agglomération est pondéré par le rapport entre le coefficient d'intégration
+fiscale moyen de leur catégorie tel que défini au 2° du III de l'article L.
+5211-30 et ce coefficient d'intégration fiscale moyen, non corrigé des dépenses
+de transfert.
