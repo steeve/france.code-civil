@@ -19,4 +19,7 @@ produits explosifs et des matières nucléaires, biologiques et chimiques ;
 7° Office central pour la répression de la grande délinquance financière ;
 
 8° Office central pour la répression de l'immigration irrégulière et de l'emploi
-d'étrangers sans titre.
+d'étrangers sans titre ;
+
+9° Office central de lutte contre la criminalité liée aux technologies de
+l'information et de la communication.
