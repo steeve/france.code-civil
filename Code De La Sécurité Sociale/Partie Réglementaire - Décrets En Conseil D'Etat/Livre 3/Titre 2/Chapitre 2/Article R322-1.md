@@ -4,10 +4,9 @@ La participation de l'assuré prévue à l'article L. 322-2 est supprimée pour
 certains médicaments reconnus comme irremplaçables et particulièrement coûteux,
 figurant sur une liste établie par arrêté conjoint du ministre chargé de la
 santé et du ministre chargé de la sécurité sociale, après avis de la commission
-instituée par l'article R. 163-15 [*exonération du ticket modérateur*] ainsi que
-pour les frais d'analyses ou d'examens de laboratoire relatifs au dépistage
-sérologique de l'infection par le virus de l'immunodéficience humaine et par le
-virus de l'hépatite C.
+instituée par l'article R. 163-15 ainsi que pour les frais d'analyses ou
+d'examens de laboratoire relatifs au dépistage sérologique de l'infection par le
+virus de l'immunodéficience humaine et par le virus de l'hépatite C.
 
 La participation de l'assuré prévue à l'article L. 322-2 est également supprimée
 pour les frais d'examens de dépistage sous réserve que ces examens soient
@@ -15,7 +14,7 @@ effectués dans le cadre des programmes figurant sur la liste mentionnée au
 deuxième alinéa de l'article L. 55 du code de la santé publique.
 
 La participation de l'assuré prévue à l'article L. 322-2 est fixée ainsi qu'il
-suit [*montant du ticket modérateur*] :
+suit :
 
 1°) 20 p. 100 pour les frais d'honoraires des praticiens et auxiliaires médicaux
 afférents aux soins dispensés au cours d'une hospitalisation dans un
@@ -34,14 +33,19 @@ ceux qui sont mentionnés au 1° ci-dessus, et pour les frais d'analyses ou de
 laboratoires, sauf pour ceux qui sont mentionnés au 1° ci-dessus ;
 
 5°) 65 p. 100 pour les médicaments principalement destinés au traitement des
-troubles ou affections sans caractère habituel de gravité [*médicaments de
-confort*], et pour les médicaments dont le service médical rendu, tel que défini
-au I de l'article R. 163-3, n'a pas été classé en application du 6° de l'article
-R. 163-18 comme majeur ou important figurant sur une liste établie par arrêté du
-ministre chargé de la santé et du ministre chargé de la sécurité sociale, après
-avis de la commission instituée par l'article R. 163-15 ;
+troubles ou affections sans caractère habituel de gravité, et pour les
+médicaments dont le service médical rendu, tel que défini au I de l'article R.
+163-3, n'a pas été classé en application du 6° de l'article R. 163-18 comme
+majeur ou important figurant sur une liste établie par arrêté du ministre chargé
+de la santé et du ministre chargé de la sécurité sociale, après avis de la
+commission instituée par l'article R. 163-15 ;
 
-6°) 35 p. 100 pour tous les autres frais, y compris les frais de transport
+6°) 65 p. 100 pour les spécialités homéopathiques, dès lors qu'elles sont
+inscrites sur la liste établie en application du premier alinéa de l'article L.
+162-17 par le ministre chargé de la santé et le ministre chargé de la sécurité
+sociale ;
+
+7°) 35 p. 100 pour tous les autres frais, y compris les frais de transport
 prévus au 1° de l'article L. 321-1.
 
 La participation de l'assuré en ce qui concerne les frais de transport n'est pas
