@@ -1,6 +1,7 @@
 Article L284
 ----
-Les conseils municipaux élisent dans les communes de moins de 9 000 habitants :
+Les conseils municipaux élisent parmi leurs membres dans les communes de moins
+de 9 000 habitants :
 
 - un délégué pour les conseils municipaux de neuf et onze membres;
 

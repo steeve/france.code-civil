@@ -1,7 +1,7 @@
 Article L318
 ----
 Tout membre du collège électoral qui, sans cause légitime, n'aura pas pris part
-au scrutin, sera condamné à une amende de 4,5 euros par le tribunal de grande
+au scrutin, sera condamné à une amende de 100 euros par le tribunal de grande
 instance du chef-lieu, sur les réquisitions du ministère public.
 
 La même peine peut être appliquée dans les mêmes conditions au délégué suppléant

@@ -1,6 +1,6 @@
 Article L334-16
 ----
-Le sénateur est élu par un collège électoral composé :
+Les sénateurs sont élus par un collège électoral composé :
 
 1° Du député ;
 
