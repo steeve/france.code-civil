@@ -1,30 +1,17 @@
 Article 214
 ----
-Le mari est obligé de fournir à la femme tout ce qui est nécessaire pour les
-besoins de sa vie selon ses facultés et son état.
+Si le contrat de mariage ne règle pas la contribution des époux aux charges du
+mariage, ils contribuent à celles-ci en proportion de leurs facultés
+respectives.
 
-Sur les biens dont elle a l'administration, la femme doit contribuer
-proportionnellement à ses facultés et à celles de son mari tant aux frais du
-ménage qu'à ceux d'éducation des enfants communs, sauf dans les cas prévus aux
-articles 1537 ou 1575, où la contribution de la femme est fixée sur les bases en
-ces articles.
+L'obligation d'assumer ces charges pèse, à titre principal, sur le mari. Il est
+obligé de fournir à la femme tout ce qui est nécessaire pour les besoins de la
+vie selon ses facultés et son état.
 
-Faute par l'un des époux de remplir son obligation, l'autre époux pourra obtenir
-du juge de paix l'autorisation de saisir-arrêter et de toucher des salaires, du
-produit du travail ou des revenus de son conjoint une part proportionnée à ses
-besoins.
+La femme s'acquitte de sa contribution aux charges du mariage par ses apports en
+dot ou en communauté et par les prélèvements qu'elle fait sur les ressources
+personnelles dont l'administration lui est réservée.
 
-Les époux seront appelés devant le juge de paix par une lettre recommandée du
-greffier indiquant la nature de la demande.
-
-Ils devront comparaître en personne, sauf en cas d'empêchement absolu et dûment
-justifié.
-
-La signification du jugement par l'époux qui l'aura obtenu à son conjoint et aux
-tiers débiteurs lui vaut par elle-même attribution des sommes saisies.
-
-Les jugements ainsi rendus seront exécutoires par provision nonobstant
-opposition ou appel.
-
-Une nouvelle décision peut toujours être provoquée si un changement des
-situations respectives le justifie.
+Si l'un des deux époux ne remplit pas ses obligations, il peut y être contraint
+par l'autre époux dans les formes prévues à l'article 864 du code de procédure
+civile.
