@@ -1,9 +1,9 @@
 Article R131-13
 ----
 Le juge de l'application des peines procède à toutes diligences qu'il juge
-utiles. Il consulte le conseil départemental de prévention de la délinquance,
-qui a trois mois pour donner son avis. Il communique ensuite la demande
-d'habilitation au président du tribunal.
+utiles. Il consulte le conseil départemental de prévention, qui a trois mois
+pour donner son avis. Il communique ensuite la demande d'habilitation au
+président du tribunal.
 
 L'assemblée générale des magistrats du siège et du parquet du tribunal statue
 sur la demande d'habilitation, après rapport du juge de l'application des peines
