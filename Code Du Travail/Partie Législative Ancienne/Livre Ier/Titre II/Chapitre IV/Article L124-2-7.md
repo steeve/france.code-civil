@@ -1,11 +1,21 @@
 Article L124-2-7
 ----
-Dans les cas prévus au 2° de l'article L. 124-2 et aux 1° et 2° de l'article L.
-124-2-1, un accord préalable de l'autorité administrative est nécessaire si un
-licenciement individuel ou collectif fondé sur un motif économique est survenu
-dans l'établissement utilisateur au cours des douze mois précédents et a
-concerné des salariés de même catégorie professionnelle.
+Sans préjudice de l'application de l'article L. 321-14, dans un établissement où
+il a été procédé à un licenciement pour motif économique, dans les six mois qui
+suivent ce licenciement, il ne peut être fait appel à un salarié d'une
+entreprise de travail temporaire pour le motif d'accroissement temporaire de
+l'activité, y compris pour l'exécution d'une tâche occasionnelle, précisément
+définie et non durable, ne relevant pas de l'activité normale de l'entreprise
+utilisatrice.
 
-Pour l'application de l'alinéa qui précède, il est fait référence aux catégories
-professionnelles telles qu'elles sont déterminées par les dispositions
-règlementaires relatives au bilan social.
+Cette interdiction s'applique aux postes concernés par ledit licenciement.
+
+Elle ne s'applique pas lorsque la durée du contrat non susceptible de
+renouvellement n'excède pas trois mois, ou lorsque le contrat est lié à la
+survenance dans l'entreprise, qu'il s'agisse de l'entrepreneur principal ou d'un
+sous-traitant, d'une commande exceptionnelle à l'exportation dont l'importance
+nécessite la mise en oeuvre de moyens quantitativement ou qualitativement
+exorbitants de ceux que l'entreprise utilise ordinairement.
+
+Cette possibilité est subordonnée à l'information et à la consultation préalable
+du comité d'entreprise, ou, à défaut, des délégués du personnel, s'il en existe.

@@ -3,7 +3,8 @@ Article L950-2
 Les employeurs doivent consacrer au financement des actions de formation
 définies à l'article L. 950-1 un pourcentage minimal de 1,2 p. 100 du montant,
 entendu au sens du 1 de l'article 231 du code général des impôts, des salaires
-payés pendant l'année en cours.
+payés pendant l'année en cours Ce pourcentage est fixé à 2 p. 100 pour les
+entreprises de travail temporaire.
 
 Dans le cadre de l'obligation définie à l'alinéa précédent, les employeurs :
 
@@ -11,7 +12,8 @@ Dans le cadre de l'obligation définie à l'alinéa précédent, les employeurs 
 salaires de l'année de référence à un organisme paritaire agréé par l'Etat au
 titre du congé individuel de formation. Au titre des obligations relatives aux
 années 1990, 1991 et 1992, le taux est porté à 0,15 p. 100 pour les versements
-effectués en 1991, 1992 et 1993 ;
+effectués en 1991, 1992 et 1993 ; Pour les entreprises de travail temporaire, le
+taux est fixé à 0,25 p. 100.
 
 - et consacrent obligatoirement 0,30 p. 100 des salaires de l'année précédente
 majorés du taux d'évolution du salaire moyen par tête aux formations

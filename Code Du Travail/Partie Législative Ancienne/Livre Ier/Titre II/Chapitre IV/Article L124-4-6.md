@@ -14,8 +14,16 @@ Les obligations afférentes à la médecine du travail sont, selon des modalité
 fixées par décret, à la charge de l'entrepreneur de travail temporaire. Sauf
 lorsque ce dernier relève du régime agricole, la médecine du travail est assurée
 par des services médicaux, faisant l'objet d'un agrément spécifique, qui devront
-être mis en place au plus tard le 1er mars 1983 [*date limite*].
+être mis en place au plus tard le 1er mars 1983.
 
 Lorsque l'activité exercée par le salarié temporaire nécessite une surveillance
 médicale spéciale au sens de la réglementation relative à la médecine du
 travail, les obligations correspondantes sont à la charge de l'utilisateur.
+
+Les équipements de protection individuelle sont fournis par l'utilisateur.
+Toutefois, certains équipements de protection individuelle personnalisés,
+définis par voie de convention ou d'accord collectif, peuvent être fournis par
+l'entrepreneur de travail temporaire.
+
+Les salariés temporaires ne doivent pas supporter la charge financière des
+équipements de protection individuelle.

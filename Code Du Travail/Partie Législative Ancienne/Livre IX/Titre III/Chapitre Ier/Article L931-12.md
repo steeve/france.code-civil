@@ -16,4 +16,4 @@ congé en raison des nécessités propres de son entreprise ou de son exploitati
 3. Les règles selon lesquelles est déterminée, pour un travailleur, la
 périodicité des congés auxquels il peut prétendre en vertu du présent titre,
 compte non tenu des congés dont il a pu bénéficier antérieurement par
-application de l'article L. 931-14 [*anciennement article L930-2*].
+application de l'article L. 931-14.

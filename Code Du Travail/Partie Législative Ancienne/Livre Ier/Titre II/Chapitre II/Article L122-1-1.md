@@ -1,18 +1,19 @@
 Article L122-1-1
 ----
-Le contrat de travail à durée déterminée peut ne pas comporter un terme précis
-lorsqu'il est conclu :
+Le contrat de travail ne peut être conclu pour une durée déterminée que dans les
+cas suivants :
 
-1° Pour remplacer un salarié absent ou dont le contrat de travail est suspendu ;
+1° Remplacement d'un salarié en cas d'absence, de suspension de son contrat de
+travail, de départ définitif précédant la suppression de son poste de travail
+ayant fait l'objet d'une saisine du comité d'entreprise ou, à défaut, des
+délégués du personnel, s'il en existe, ou en cas d'attente de l'entrée en
+service effective du salarié recruté par contrat à durée indéterminée appelé à
+le remplacer ;
 
-2° Pour des emplois à caractère saisonnier ;
+2° Accroissement temporaire de l'activité de l'entreprise ;
 
-3° Pour des emplois pour lesquels, dans certains secteurs d'activité, il est
-d'usage constant de ne pas recourir au contrat à durée indéterminée en raison de
-la nature de l'activité exercée et du caractère par nature temporaire de cet
-emploi ; la liste de ces secteurs d'activité est établie par décret ou par voie
-de convention ou d'accord collectif étendu.
-
-A moins que les parties ne lui aient fixé un terme précis, le contrat doit être
-conclu pour une durée minimale et il a pour terme la fin de l'absence du salarié
-ou la réalisation de l'objet pour lequel il est conclu.
+3° Emplois à caractère saisonnier ou pour lesquels, dans certains secteurs
+d'activité définis par décret ou par voie de convention ou d'accord collectif
+étendu, il est d'usage constant de ne pas recourir au contrat de travail à durée
+indéterminée en raison de la nature de l'activité exercée et du caractère par
+nature temporaire de ces emplois.

@@ -9,16 +9,15 @@ nécessaires à l'accomplissement de leur mission, notamment auprès d'un salari
 son poste de travail, sous réserve de ne pas apporter de gêne importante à
 l'accomplissement du travail des salariés.
 
-Le chef d'entreprise est tenu [*obligation*] de laisser aux membres titulaires
-du comité d'entreprise et, dans les entreprises de plus de cinq cents salariés
-[*effectifs*], aux représentants syndicaux au comité d'entreprise prévus à
-l'article L. 433-1, le temps nécessaire à l'exercice de leurs fonctions dans la
-limite d'une durée qui, sauf circonstances exceptionnelles, ne peut excéder
-vingt heures par mois [*crédit d'heures de délégation*]. Dans le cas
-d'entreprises dont l'effectif est supérieur à cinq cents salariés, mais dont
-aucun des établissements distincts n'atteint ce seuil, le chef d'entreprise est
-tenu de laisser aux représentants syndicaux au comité central d'entreprise le
-temps nécessaire à l'exercice de leurs fonctions, dans la limite d'une durée
+Le chef d'entreprise est tenu de laisser aux membres titulaires du comité
+d'entreprise et, dans les entreprises de plus de cinq cents salariés, aux
+représentants syndicaux au comité d'entreprise prévus à l'article L. 433-1, le
+temps nécessaire à l'exercice de leurs fonctions dans la limite d'une durée qui,
+sauf circonstances exceptionnelles, ne peut excéder vingt heures par mois. Dans
+le cas d'entreprises dont l'effectif est supérieur à cinq cents salariés, mais
+dont aucun des établissements distincts n'atteint ce seuil, le chef d'entreprise
+est tenu de laisser aux représentants syndicaux au comité central d'entreprise
+le temps nécessaire à l'exercice de leurs fonctions, dans la limite d'une durée
 qui, sauf circonstances exceptionnelles, ne peut excéder vingt heures par mois.
 
 Ce temps est de plein droit considéré comme temps de travail et payé à
@@ -33,6 +32,12 @@ déduit des vingt heures prévues au deuxième alinéa pour les membres titulair
 En ce qui concerne les représentants syndicaux prévus à l'article L. 433-1, le
 temps passé aux séances du comité leur est payé comme temps de travail et n'est
 pas déduit dans les entreprises de plus de cinq cents salariés des vingt heures
-prévues au deuxième alinéa [*antérieurement à la loi 575 :
+prévues au deuxième alinéa.
 
-premier alinéa*].
+Dans les entreprises de travail temporaire, les heures de délégation utilisées
+entre deux missions, conformément à des dispositions conventionnelles, par un
+membre titulaire du comité d'entreprise pour l'exercice de son mandat, sont
+considérées comme des heures de travail. Elles sont réputées être rattachées,
+pour ce qui concerne leur rémunération et les charges sociales y afférentes, au
+dernier contrat de travail avec l'entreprise de travail temporaire au titre de
+laquelle il a été élu membre titulaire du comité d'entreprise.
