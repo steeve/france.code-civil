@@ -1,16 +1,14 @@
 Article R742-7
 ----
-Une commission nationale des conventions collectives de la marine marchande
-siège auprès du ministre chargé de la marine marchande [*tutelle*].
+Pour l'application du chapitre III du titre II du livre V du présent code, les
+attributions dévolues au directeur régional du travail et de l'emploi sont
+exercées par le directeur régional des affaires maritimes.
 
-Cette commission donne au ministre un avis motivé sur l'extension des
-conventions collectives prévue à l'article R. 742-3.
+Les conflits collectifs de travail concernant les personnels navigants qui n'ont
+pas été soumis à la procédure conventionnelle de conciliation prévue à l'article
+L. 523-1, deuxième alinéa du présent code, peuvent être portés devant le chef du
+quartier des affaires maritimes en vue d'une conciliation [*recours, autorité
+compétente*].
 
-Elle donne également son avis sur toute difficulté née à l'occasion de la
-négociation de conventions collectives et, plus généralement, elle peut être
-consultée par le ministre sur toute question relative à la conclusion et à
-l'application de ces conventions.
-
-Elle fournit à la commission supérieure des conventions collectives mentionnée à
-l'article L. 137-1 tous éléments d'appréciation intéressant la marine marchande
-pour l'établissement du budget type prévu par l'article L. 137-2.
+A défaut de solution, ils peuvent être portés devant une commission nationale ou
+régionale de conciliation.
