@@ -28,6 +28,9 @@ l'employeur s'y refuse, il doit motiver sa décision.
 Le comité donne son avis sur les documents se rattachant à sa mission, notamment
 sur le règlement intérieur.
 
+Le comité peut proposer des actions de prévention en matière de harcèlement
+sexuel.
+
 Le comité est consulté avant toute décision d'aménagement important modifiant
 les conditions d'hygiène et de sécurité ou les conditions de travail et,
 notamment, avant toute transformation importante des postes de travail découlant
@@ -37,6 +40,15 @@ de productivité liées ou non à la rémunération du travail.
 
 Le comité est consulté sur le plan d'adaptation prévu au second alinéa de
 l'article L. 432-2 du même code.
+
+Dans les établissements comportant une ou plusieurs installations soumises à
+autorisation au titre de l'article 3 de la loi n° 76-663 du 19 juillet 1976
+relative aux installations classées pour la protection de l'environnement, le
+comité est consulté par le chef d'établissement sur les documents établis à
+l'intention des autorités publiques chargées de la protection de l'environnement
+et il est informé des prescriptions imposées par ces mêmes autorités. La liste
+des documents qui doivent lui être soumis pour avis ou portés à sa connaissance
+est établie dans les conditions fixées par l'article L. 236-12.
 
 Le comité est consulté sur les mesures prises en vue de faciliter la mise, la
 remise ou le maintien au travail des accidentés du travail, des invalides de
