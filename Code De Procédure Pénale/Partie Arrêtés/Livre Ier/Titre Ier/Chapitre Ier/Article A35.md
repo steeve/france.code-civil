@@ -11,30 +11,38 @@ affectés à titre exclusif dans l'une des formations de services suivantes :
 - l'Office central pour la répression de l'immigration irrégulière et de
 l'emploi d'étrangers sans titre ;
 
-- les groupes d'investigations et de procédures de la brigade des chemins de fer
-;
+- la brigade des chemins de fer ;
 
-- l'unité de contrôle des trains internationaux de la brigade des chemins de fer
-;
+- l'unité nationale d'escorte, de soutien et d'intervention ;
 
-- l'unité nationale d'escorte, de soutien et d'intervention.
+- le bureau de la police aéronautique.
 
-2° Pour les directions interrégionales et les directions interdépartementales de
-la police aux frontières :
+2° Pour les directions zonales de la police aux frontières :
+
+- les brigades des chemins de fer ;
 
 - les brigades mobiles de recherches ;
 
-- les brigades de police aéronautique.
+- les brigades de police aéronautique ;
 
-3° Pour les directions départementales, les services départementaux, les
-directions, les services et les directions territoriales de la police aux
+- les unités d'éloignement.
+
+3° Pour les directions de la police aux frontières des aérodromes
+Charles-de-Gaulle, Le Bourget et de l'aérodrome d'Orly, les directions
+départementales, les directions de la police aux frontières de la
+Nouvelle-Calédonie et des îles Wallis-et-Futuna, de la Polynésie française, de
+Saint-Pierre-et-Miquelon et de Mayotte et les services locaux de la police aux
 frontières :
 
 - les unités d'investigations ;
 
 - les services de quart et du contrôle de l'immigration ;
 
-- les brigades mobiles de recherches.
+- les brigades de chemin de fer ;
+
+- les brigades mobiles de recherches ;
+
+- les unités d'éloignement.
 
 4° Pour les unités autoroutières des compagnies républicaines de sécurité pour
 les voies de circulation auxquelles elles sont affectées : les bureaux de
