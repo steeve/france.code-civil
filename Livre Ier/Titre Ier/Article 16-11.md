@@ -9,7 +9,12 @@ En matière civile, cette identification ne peut être recherchée qu'en exécut
 d'une mesure d'instruction ordonnée par le juge saisi d'une action tendant soit
 à l'établissement ou la contestation d'un lien de filiation, soit à l'obtention
 ou la suppression de subsides. Le consentement de l'intéressé doit être
-préalablement et expressément recueilli.
+préalablement et expressément recueilli. Sauf accord exprès de la personne
+manifesté de son vivant, aucune identification par empreintes génétiques ne peut
+être réalisée après sa mort.
 
 Lorsque l'identification est effectuée à des fins médicales ou de recherche
-scientifique, le consentement de la personne doit être au préalable recueilli.
+scientifique, le consentement exprès de la personne doit être recueilli par
+écrit préalablement à la réalisation de l'identification, après qu'elle a été
+dûment informée de sa nature et de sa finalité. Le consentement mentionne la
+finalité de l'identification. Il est révocable sans forme et à tout moment.
