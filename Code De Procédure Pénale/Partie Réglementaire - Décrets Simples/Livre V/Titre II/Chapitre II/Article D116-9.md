@@ -46,6 +46,10 @@ Dès qu'il est rendu, le jugement est notifié au ministère public. Une copie e
 est adressée au directeur du service pénitentiaire d'insertion et de probation
 et, lorsque le condamné est incarcéré, au chef de l'établissement pénitentiaire.
 
+L'appel du jugement est formé soit au greffe du juge de l'application des peines
+selon les modalités prévues aux deux premiers alinéas de l'article 502, soit
+selon les modalités prévues à l'article 503.
+
 Lorsque le juge de l'application des peines accorde l'une des mesures
 mentionnées au sixième alinéa de l'article 722, la mise à exécution de la mesure
 ne peut intervenir, avant l'expiration du délai de vingt-quatre heures à compter

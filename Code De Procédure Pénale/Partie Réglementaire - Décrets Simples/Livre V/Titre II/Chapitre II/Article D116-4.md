@@ -11,4 +11,4 @@ désigné un d'office par le bâtonnier de l'ordre des avocats ; le bâtonnier e
 avisé de cette demande par tous moyens et sans délai. Cet avocat communique
 librement avec le condamné dans les conditions prévues par les articles D. 68 et
 D. 69. Le permis prévu par l'article D. 68 est délivré par le juge de
-l'application des peines.
+l'application des peines ou son greffier.
