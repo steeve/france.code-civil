@@ -2,8 +2,11 @@ Article L122-28-10
 ----
 Tout salarié titulaire de l'agrément mentionné aux articles 63 ou 100-3 du code
 de la famille et de l'aide sociale a le droit de bénéficier d'un congé non
-rémunéré lorsqu'il se rend dans les départements d'outre-mer, les territoires
-d'outre-mer ou à l'étranger en vue de l'adoption d'un ou de plusieurs enfants.
+rémunéré lorsque, en vue de l'adoption d'un enfant, il se rend à l'étranger ou
+dans un département d'outre-mer, un territoire d'outre-mer ou l'une des
+collectivités territoriales de Saint-Pierre-et-Miquelon et de Mayotte, que ce
+soit à partir d'un département métropolitain ou d'un autre département
+d'outre-mer ou de la collectivité territoriale de Saint-Pierre-et-Miquelon.
 
 Le droit au congé est ouvert pour une durée maximale de six semaines par
 agrément.
