@@ -1,9 +1,8 @@
 Article L321-5
 ----
-Dans les entreprises ou établissements mentionnés à l'article L. 321-3 où sont
-occupés habituellement au moins cinquante salariés [*effectifs*], un délai
-[*légal de réflexion*] doit obligatoirement s'écouler entre la consultation des
-représentants du personnel prévue audit article et la demande d'autorisation de
-licenciement collectif visée à l'article L. 321-8 [*condition*]. Ce délai ne
-peut être inférieur à quinze jours [*minimum*], sans préjudice des dispositions
-plus favorables prévues par accords contractuels.
+Quels que soient l'effectif de l'entreprise ou de l'établissement et le nombre
+de salariés sur lequel porte le projet de licenciement économique, les
+employeurs qui envisagent de prononcer un tel licenciement devront, dans les cas
+non mentionnés au deuxième alinéa de l'articlé L. 321-3, dégager, dans les
+limites des dispositions de l'article L. 321-5-1, les moyens permettant la mise
+en oeuvre des conventions de conversion mentionnées à l'article L. 322-3.
