@@ -15,4 +15,4 @@ de domicile prévue au b du I dudit article 188 pour être inscrits sur la liste
 remplissent plus les conditions prévues pour figurer sur le tableau.
 
 La commission administrative spéciale informe l'électeur inscrit au tableau
-annexe de cette inscription au plus tard le 30 avril.
+annexe de cette inscription au plus tard le 16 avril.

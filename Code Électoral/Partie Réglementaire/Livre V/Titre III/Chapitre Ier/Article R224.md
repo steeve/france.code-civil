@@ -2,7 +2,7 @@ Article R224
 ----
 La liste électorale spéciale et le tableau annexe sont signés de tous les
 membres de la commission administrative spéciale et déposés au secrétariat de la
-mairie le 5 avril. Le jour même du dépôt, ils sont tenus à la disposition du
+mairie le 22 mars. Le jour même du dépôt, ils sont tenus à la disposition du
 public et affichés par le maire aux lieux accoutumés, où ils doivent demeurer
 pendant dix jours.
 
