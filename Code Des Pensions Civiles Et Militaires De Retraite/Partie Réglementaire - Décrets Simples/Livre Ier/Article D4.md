@@ -3,8 +3,8 @@ Article D4
 Les retenues rétroactives font l'objet de précomptes mensuels calculés à raison
 de 5 p. 100 du traitement budgétaire net ordonnancé au profit des intéressés,
 sauf le dernier précompte à effectuer pour solde. La première retenue est opérée
-sur le traitement du troisième mois qui suit celui au cours duquel est présentée
-la demande visée à l'article R. 7.
+sur le traitement du deuxième mois qui suit celui au cours duquel le
+fonctionnaire a accepté la notification de validation.
 
 Les versements mensuels à effectuer par les fonctionnaires placés dans une
 position où ils ne perçoivent pas de traitement ou l'intégralité de leur

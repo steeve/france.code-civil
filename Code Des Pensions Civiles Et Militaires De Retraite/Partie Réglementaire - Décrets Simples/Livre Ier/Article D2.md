@@ -1,10 +1,12 @@
 Article D2
 ----
-La demande de validation des services d'auxiliaire, de temporaire, d'aide ou de
-contractuel visés à l'article L. 5 porte obligatoirement sur la totalité desdits
-services, continus ou discontinus, que l'intéressé a accomplis antérieurement à
-son affiliation au régime du présent code.
+La demande de validation des services mentionnés à l'avant-dernier alinéa de
+l'article L. 5 porte obligatoirement sur la totalité desdits services que
+l'intéressé a accomplis antérieurement à son affiliation au régime du présent
+code.
 
-Toutefois, sont exclues de la validation les périodes correspondant à
-l'accomplissement d'une fraction desdits services et déjà rémunérées dans une
-pension de l'Etat ou des collectivités visées à l'article L. 84.
+Le silence gardé par le fonctionnaire ou le militaire pendant le délai prévu au
+dernier alinéa de l'article L. 5 vaut refus. L'acceptation ou le refus sont
+irrévocables. Lorsque le fonctionnaire ou le militaire décède avant l'expiration
+de ce délai, sans avoir accepté ou refusé la notification de la validation, la
+procédure est définitivement interrompue.

@@ -1,7 +1,6 @@
 Article D47
 ----
-Des arrêtés du ministre de l'économie, des finances et du budget déterminent
-notamment :
+Le ministre chargé du budget détermine :
 
 1° Les comptables publics qui participent au paiement des pensions ;
 
