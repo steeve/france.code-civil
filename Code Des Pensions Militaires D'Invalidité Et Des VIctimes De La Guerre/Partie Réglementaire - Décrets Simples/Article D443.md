@@ -13,9 +13,9 @@ Le directeur général peut donner délégation à des fonctionnaires de catégo
 placés sous son autorité pour signer, en son nom, les actes, conventions et
 marchés pour les affaires relevant de leurs attributions.
 
-Le directeur général prépare les projets de transaction en matière de marchés et
-signe pour le compte de l'office national les transactions après approbation
-expresse des autorités de tutelle.
+Le directeur général prépare les projets de transaction et signe pour le compte
+de l'office national les transactions après approbation expresse des autorités
+de tutelle.
 
 En sa qualité d'ordonnateur, il exerce ses attributions dans les conditions
 prévues par le décret n° 53-1227 du 10 décembre 1953, relatif à la
