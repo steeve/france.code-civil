@@ -8,4 +8,5 @@ commettre un médecin aux fins de procéder à tout examen qui lui paraîtrait
 nécessaire.
 
 Il peut recueillir les renseignements relatifs à un pupille de l'Etat dans les
-conditions prévues à l'article 81 du code de la famille et de l'aide sociale.
+conditions prévues aux articles L. 221-7 et L. 221-8 du code de l'action sociale
+et des familles.

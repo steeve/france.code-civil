@@ -1,9 +1,9 @@
 Article 162
 ----
-Les personnes âgées visées à l'article 157 ne disposant pas de ressources
+Les personnes âgées visées à l'article L. 113-1 ne disposant pas de ressources
 supérieures à un plafond qui sera fixé par décret peuvent obtenir, outre les
-allocations prévues aux articles 158, 160 et 161, la carte sociale
-d'économiquement faibles.
+allocations prévues à l'article L. 231-1, la carte sociale d'économiquement
+faibles.
 
 Cette carte ouvre droit :
 
@@ -12,8 +12,9 @@ tenu des régimes d'indemnisation ou d'assurances sociales dont bénéficie déj
 l'intéressé et de l'aide qui lui est due au titre d'une créance alimentaire ou
 de toute autre obligation ;
 
-2. A l'inscription aux foyers prévus à l'article 163, sous réserve d'une
-participation des intéressés déterminée par la commission d'admission ;
+2. A l'inscription aux foyers prévus aux articles L. 231-3 et L. 231-6, sous
+réserve d'une participation des intéressés déterminée par la commission
+d'admission ;
 
 3. A un voyage aller et retour chaque année sur les réseaux de la Société
 nationale des chemins de fer français au tarif et pour la durée de validité des
