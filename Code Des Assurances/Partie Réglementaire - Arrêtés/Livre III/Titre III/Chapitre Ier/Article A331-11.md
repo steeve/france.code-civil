@@ -1,10 +1,8 @@
 Article A331-11
 ----
-Les dispositions de l'article A. 331-10 s'appliquent aux rentes constituées à
-partir du 1er janvier 1954.
-
-Le montant minimal des provisions de rentes constituées antérieurement doit être
-évalué ;
+Par dérogation aux dispositions du premier alinéa de l'article A 331-10, le
+montant minimal des provisions de rentes d'accidents du travail constituées
+antérieurement au 1er janvier 1954 doit être évalué :
 
 1° D'après le barème annexé à l'arrêté du 29 décembre 1920 si la constitution a
 été effectuée avant le 1er janvier 1920 ;
@@ -35,3 +33,26 @@ gestion et frais de paiement ;
 
 8° D'après le barème annexé à l'arrêté du 8 juin 1950 si la constitution a été
 effectuée du 1er janvier 1950 au 31 décembre 1953.
+
+Par dérogation aux dispositions du premier alinéa de l'article A 331-10, le
+montant minimal des provisions de rentes autres que des rentes d'accidents du
+travail doit, lorsque l'accident est survenu antérieurement au 1er janvier 1954,
+être évalué :
+
+1° D'après la table de mortalité AF ;
+
+2° Suivant les taux d'intérêt ci-dessous :
+
+4,25 p. 100 si l'accident est antérieur au 1er janvier 1942 ;
+
+3,50 p. 100 si l'accident est survenu entre le 1er janvier 1942 et le 31
+décembre 1944 ;
+
+3 p. 100 si l'accident est survenu entre le 1er janvier 1945 et le 31 décembre
+1947 ;
+
+3,50 p. 100 si l'accident est survenu entre le 1er janvier 1948 et le 31
+décembre 1949.
+
+3° D'après la table de mortalité CR et le taux de 4,25 p. 100 si l'accident est
+survenu entre le 1er janvier 1950 et le 31 décembre 1953.
