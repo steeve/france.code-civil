@@ -17,4 +17,4 @@ contribution des entreprises ; celle-ci ne peut être inférieure à la prise en
 charge des frais de tenue de compte.
 
 En cas de liquidation d'une entreprise, les frais de tenue de compte dus
-postérieurement à la liquidation sont mis à la charge des salariés.
+postérieurement à la liquidation sont mis à la charge des participants.

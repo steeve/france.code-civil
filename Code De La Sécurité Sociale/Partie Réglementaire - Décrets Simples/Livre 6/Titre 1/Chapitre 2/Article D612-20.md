@@ -24,3 +24,6 @@ ministre chargé de la sécurité sociale. A partir de ce montant, il est statu�
 sur proposition du directeur, par la commission de recours amiable de la caisse
 mutuelle régionale. Les décisions tant du directeur que de la commission de
 recours amiable doivent ête motivées.
+
+Les dispositions du présent article sont applicables aux majorations prévues au
+cinquième alinéa de l'article L. 131-6..

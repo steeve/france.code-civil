@@ -1,8 +1,8 @@
 Article D633-10
 ----
-Il est procédé le 1er janvier de chaque année à l'ajustement des cotisations
-provisionnelles mentionnées aux articles D. 633-5 et D. 633-6 sur la base des
-revenus de l'année à laquelle se rapportent ces cotisations.
+Il est procédé le 1er janvier de chaque année à la régularisation des
+cotisations provisionnelles mentionnées aux articles D. 633-5 et D. 633-6 sur la
+base des revenus de l'année à laquelle se rapportent ces cotisations.
 
 Si le montant de la cotisation définitive est supérieur à celui de la cotisation
 provisionnelle, le solde doit être versé par l'assuré en même temps et dans les

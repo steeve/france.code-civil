@@ -1,9 +1,9 @@
 Article D633-15
 ----
 Les assurés peuvent formuler une demande gracieuse de remise des majorations de
-retard visées à l'article D. 633-13. Cette requête n'est recevable qu'après
-règlement de la totalité des cotisations ayant donné lieu à application des
-majorations.
+retard visées à l'article D. 633-13 et au cinquième alinéa de l'article L.
+131-6. Cette requête n'est recevable qu'après règlement de la totalité des
+cotisations ayant donné lieu à application des majorations.
 
 Le directeur de la caisse est compétent pour statuer sur des demandes portant
 sur des montants inférieurs à un seuil fixé par arrêté du ministre chargé de la
