@@ -16,8 +16,9 @@ fixant le régime des matériels de guerre, armes et munitions ;
 
 5° Les délits prévus par les articles 222-11, 222-12 (1° à 10°), 222-13 (1° à
 10°), 222-16, 222-17, 222-18, 222-32, 227-3 à 227-11, 311-3, 311-4 (1° à 8°),
-313-5, 314-5, 314-6, 321-1, 322-1 à 322-4, 322-12, 322-13, 322-14, 433-5 et
-521-1 du code pénal et L. 628 du code de la santé publique ;
+313-5, 314-5, 314-6, 321-1, 322-1 à 322-4, 322-12, 322-13, 322-14, 433-3,
+premier alinéa, 433-5 et 521-1 du code pénal et L. 628 du code de la santé
+publique ;
 
 6° Les délits prévus par le code rural en matière de chasse, de pêche et de
 protection de la faune et de la flore et les délits prévus par le décret-loi du

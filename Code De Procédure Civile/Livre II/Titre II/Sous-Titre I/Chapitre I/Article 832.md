@@ -1,7 +1,5 @@
 Article 832
 ----
-Le greffier convoque le défendeur par lettre simple.
-
-La convocation mentionne les nom, prénoms, profession et adresse du demandeur,
-l'objet de la demande, ainsi que les lieu, jour et heure auxquels sera tentée la
-conciliation.
+La durée initiale de la mission du conciliateur ne peut excéder un mois. Cette
+mission peut être renouvelée une fois, pour une même durée, à la demande du
+conciliateur.

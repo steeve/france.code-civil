@@ -9,3 +9,7 @@ investie.
 
 Lorsqu'il est adressé à une personne dépositaire de l'autorité publique,
 l'outrage est puni de six mois d'emprisonnement et de 50 000 F d'amende.
+
+Lorsqu'il est commis en réunion, l'outrage prévu au premier alinéa est puni de
+six mois d'emprisonnement et de 50 000 F d'amende, et l'outrage prévu au
+deuxième alinéa est puni d'un an d'emprisonnement et de 100 000 F d'amende.

@@ -8,13 +8,12 @@ l'article L. 221-4 sont saisis, pour avis et dans le cadre de leurs compétences
 respectives, de tout projet de mesure législative ou réglementaire ayant des
 incidences sur l'équilibre financier de la branche ou entrant dans leur domaine
 de compétence et notamment des projets de loi de financement de la sécurité
-sociale. Les conseils d'administration sont également saisis du projet de
-rapport visé à l'article L. 111-3. Les avis sont motivés.
+sociale. Les avis sont motivés.
 
 Le conseil d'administration de l'Agence centrale des organismes de sécurité
 sociale peut recevoir délégation des conseils des caisses nationales et de la
 commission prévue à l'article L. 221-4 pour examiner tout projet de texte
-relatif aux ressources du régime général. ;
+relatif aux ressources du régime général.
 
 Le Gouvernement transmet au Parlement les avis rendus sur les projets de loi.
 
