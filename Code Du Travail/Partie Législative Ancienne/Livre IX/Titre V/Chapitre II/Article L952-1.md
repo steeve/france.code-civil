@@ -8,9 +8,9 @@ pourcentage minimal de 0,15 p. 100 du montant, entendu au sens des règles
 prévues aux chapitres Ier et II du titre IV du livre II du code de la sécurité
 sociale, ou aux chapitres II et III du titre II du livre VII du code rural, pour
 les employeurs de salariés [*agricoles*] visés à l'article 1144 dudit code, des
-salaires payés pendant l'année en cours. A défaut de dispositions contraires
-prévues par une convention ou un accord collectif étendu, les contributions
-inférieures à 100 F ne sont pas exigibles.
+rémunérations versées pendant l'année en cours. A défaut de dispositions
+contraires prévues par une convention ou un accord collectif étendu, les
+contributions inférieures à 100 F ne sont pas exigibles.
 
 A compter du 1er janvier 1992, la contribution dont les modalités de calcul ont
 été fixées à l'alinéa précédent est versée par l'employeur, avant le 1er mars de

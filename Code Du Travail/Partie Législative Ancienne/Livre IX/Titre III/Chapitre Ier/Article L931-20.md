@@ -4,11 +4,13 @@ Pour financer le congé de formation défini par les dispositions de la présent
 section et le congé de bilan de compétences visé à l'article L. 931-26, les
 entreprises ou établissements, qu'ils soient ou non soumis à l'obligation
 définie à l'article L. 951-1, font à l'organisme paritaire agréé un versement
-dont le montant est égal à 1 p. 100 du montant, entendu au sens du 1 de
-l'article 231 du code général des impôts, des salaires versés aux titulaires
-d'un contrat à durée déterminée pendant l'année en cours ; les contrats
-mentionnés au dernier alinéa de l'article L. 931-15 ne donnent pas lieu à ce
-versement.
+dont le montant est égal à 1 p. 100 du montant, entendu au sens des règles
+prévues aux chapitres Ier et II du titre IV du livre II du code de la sécurité
+sociale, ou aux chapitres II et III du titre II du livre VII du code rural, pour
+les employeurs de salariés visés à l'article 1144 dudit code, des rémunérations
+versées aux titulaires d'un contrat à durée déterminée pendant l'année en cours
+; les contrats mentionnés au dernier alinéa de l'article L. 931-15 ne donnent
+pas lieu à ce versement.
 
 Ce versement, distinct de tous les autres auxquels les entreprises sont tenues
 pour la formation par un texte législatif ou contractuel, est effectué avant le

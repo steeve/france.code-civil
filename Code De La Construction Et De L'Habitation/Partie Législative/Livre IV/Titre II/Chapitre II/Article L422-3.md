@@ -22,6 +22,12 @@ d'habitation ;
 5° De réaliser des hébergements de loisir à vocation sociale selon les modalités
 prévues à l'article L. 421-1.
 
+Elles peuvent, en outre, avec l'accord du maire de la commune d'implantation et
+du représentant de l'Etat dans le département, gérer en qualité
+d'administrateurs de biens des logements situés dans des copropriétés
+connaissant des difficultés importantes de fonctionnement ou être syndics de ces
+copropriétés.
+
 Elles peuvent réaliser pour le compte d'autres organismes d'habitations à loyer
 modéré des prestations de services pour des missions rentrant dans l'objet
 social et la compétence territoriale desdits organismes et des organismes
@@ -38,5 +44,9 @@ permanent du Conseil supérieur des habitations à loyer modéré, détermine le
 modalités de mise en oeuvre de la procédure, dite de révision coopérative,
 définie au présent alinéa, ainsi que les conditions d'agrément garantissant le
 pluralisme de son exercice et le respect des principes coopératifs.
+
+Elles peuvent aussi prendre à bail des logements vacants pour les donner en
+sous-location à des personnes physiques dans les conditions fixées par les
+articles L. 444-1 et suivants.
 
 Un décret détermine les modalités d'application du présent article.

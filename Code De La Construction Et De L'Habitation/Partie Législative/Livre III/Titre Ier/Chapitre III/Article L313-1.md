@@ -12,14 +12,14 @@ logements, d'acquisition, d'aménagement ou de remise en état de logements
 anciens des sommes représentant à compter du 1er janvier 1991, 0,55 p. 100 et, à
 compter du 1er janvier 1992, 0,45 p. 100 au moins du montant, entendu au sens
 des règles prévues au chapitres Ier et II du titre IV du livre II du code de la
-sécurité sociale, des salaires payés par eux au cours de l'exercice écoulé. Ces
-dispositions sont applicables aux établissements publics ayant un caractère
-industriel ou commercial, ainsi qu'aux organismes de l'Etat, des collectivités
-locales et de leurs établissements publics ayant le même caractère. Les sommes
-acquitées par les entreprises au taux de 0,65 p. 100 avant le 30 juin 1991
-pourront, pour la fraction excédant les sommes dues avec un taux de 0,55 p. 100,
-être imputées sur la participation versée en 1992 à raison des salaires payés en
-1991.
+sécurité sociale, des rémunérations versées par eux au cours de l'exercice
+écoulé. Ces dispositions sont applicables aux établissements publics ayant un
+caractère industriel ou commercial, ainsi qu'aux organismes de l'Etat, des
+collectivités locales et de leurs établissements publics ayant le même
+caractère. Les sommes acquitées par les entreprises au taux de 0,65 p. 100 avant
+le 30 juin 1991 pourront, pour la fraction excédant les sommes dues avec un taux
+de 0,55 p. 100, être imputées sur la participation versée en 1992 à raison des
+salaires payés en 1991.
 
 Les employeurs qui, au moyen de leurs ressources propres, à l'exclusion
 d'indemnités de dommages de guerre, ont investi au cours d'un exercice,

@@ -42,3 +42,6 @@ d'après les tarifs dûment établis ;
 
 8° Le produit de la taxe sur les passagers prévue à l'article L. 211-2 du code
 des ports maritimes.
+
+9° Le produit des taxes sur les convois, les inhumations et les crémations
+prévus à l'article L. 2223-22.

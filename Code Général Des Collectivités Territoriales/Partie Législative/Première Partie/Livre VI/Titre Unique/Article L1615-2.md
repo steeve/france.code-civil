@@ -14,3 +14,10 @@ Les établissements publics de coopération intercommunale bénéficient, en lie
 place des communes membres propriétaires, des attributions du Fonds de
 compensation pour la taxe sur la valeur ajoutée au titre des dépenses
 d'investissement exposées dans l'exercice de leurs compétences.
+
+Les services départementaux d'incendie et de secours bénéficient, en lieu et
+place des communes, des établissements publics intercommunaux ou des
+départements propriétaires, des attributions du Fonds de compensation pour la
+taxe sur la valeur ajoutée au titre des dépenses exposées, à compter du 1er
+janvier 1998, dans l'exercice de leurs compétences sur les biens visés à
+l'article L. 1424-17.
