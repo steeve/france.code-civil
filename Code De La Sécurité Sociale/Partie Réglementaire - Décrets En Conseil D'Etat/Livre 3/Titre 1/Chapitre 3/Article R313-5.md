@@ -3,8 +3,8 @@ Article R313-5
 Pour invoquer le bénéfice de l'assurance invalidité, l'assuré social doit avoir
 été immatriculé depuis douze mois au premier jour du mois au cours duquel est
 survenue l'interruption de travail suivie d'invalidité ou la constatation de
-l'état d'invalidité résultant de l'usure prématurée de l'organisme [*condition
-d'ouverture du droit*]. Il doit justifier en outre :
+l'état d'invalidité résultant de l'usure prématurée de l'organisme. Il doit
+justifier en outre :
 
 a) Soit que le montant des cotisations dues au titre des assurances maladie,
 maternité, invalidité et décès assises sur les rémunérations qu'il a perçues
