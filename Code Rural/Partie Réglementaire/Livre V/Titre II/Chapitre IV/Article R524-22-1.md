@@ -1,7 +1,7 @@
 Article R524-22-1
 ----
 Toute coopérative agricole ou union de coopératives agricoles dont le chiffre
-d'affaires du dernier exercice est supérieur à 500 000 F hors taxe est tenue de
+d'affaires du dernier exercice est supérieur à 700 000 F hors taxe est tenue de
 déposer en double exemplaire, au greffe du tribunal compétent, dans le mois qui
 suit l'approbation des comptes annuels par l'assemblée générale des associés :
 
