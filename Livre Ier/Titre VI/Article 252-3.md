@@ -1,5 +1,8 @@
 Article 252-3
 ----
-Ce qui a été dit ou écrit à l'occasion d'une tentative de conciliation, sous
-quelque forme qu'elle ait eu lieu, ne pourra pas être invoqué pour ou contre un
-époux ou un tiers dans la suite de la procédure.
+Lorsque le juge constate que le demandeur maintient sa demande, il incite les
+époux à régler les conséquences du divorce à l'amiable.
+
+Il leur demande de présenter pour l'audience de jugement un projet de règlement
+des effets du divorce. A cet effet, il peut prendre les mesures provisoires
+prévues à l'article 255.

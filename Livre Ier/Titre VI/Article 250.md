@@ -1,4 +1,7 @@
 Article 250
 ----
-En cas d'interdiction légale résultant d'une condamnation, l'action en divorce
-ne peut être exercée par le tuteur qu'avec l'autorisation de l'époux interdit.
+La demande en divorce est présentée par les avocats respectifs des parties ou
+par un avocat choisi d'un commun accord.
+
+Le juge examine la demande avec chacun des époux, puis les réunit. Il appelle
+ensuite le ou les avocats.

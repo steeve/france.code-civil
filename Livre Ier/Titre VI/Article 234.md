@@ -1,5 +1,4 @@
 Article 234
 ----
-Si l'autre époux reconnaît les faits devant le juge, celui-ci prononce le
-divorce sans avoir à statuer sur la répartition des torts. Le divorce ainsi
-prononcé produit les effets d'un divorce aux torts partagés.
+S'il a acquis la conviction que chacun des époux a donné librement son accord,
+le juge prononce le divorce et statue sur ses conséquences.

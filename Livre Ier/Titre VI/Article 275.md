@@ -1,16 +1,17 @@
 Article 275
 ----
-Le juge décide des modalités selon lesquelles s'exécutera l'attribution ou
-l'affectation de biens en capital :
+Lorsque le débiteur n'est pas en mesure de verser le capital dans les conditions
+prévues par l'article 274, le juge fixe les modalités de paiement du capital,
+dans la limite de huit années, sous forme de versements périodiques indexés
+selon les règles applicables aux pensions alimentaires.
 
-1. Versement d'une somme d'argent ;
+Le débiteur peut demander la révision de ces modalités de paiement en cas de
+changement important de sa situation. A titre exceptionnel, le juge peut alors,
+par décision spéciale et motivée, autoriser le versement du capital sur une
+durée totale supérieure à huit ans.
 
-2. Abandon de biens en nature, meubles ou immeubles, en propriété, en usufruit,
-pour l'usage ou l'habitation, le jugement opérant cession forcée en faveur du
-créancier ;
+Le débiteur peut se libérer à tout moment du solde du capital indexé.
 
-3. Dépôt de valeurs productives de revenus entre les mains d'un tiers chargé de
-verser les revenus à l'époux créancier de la prestation jusqu'au terme fixé.
-
-Le jugement de divorce peut être subordonné au versement effectif du capital ou
-à la constitution des garanties prévues à l'article 277.
+Après la liquidation du régime matrimonial, le créancier de la prestation
+compensatoire peut saisir le juge d'une demande en paiement du solde du capital
+indexé.

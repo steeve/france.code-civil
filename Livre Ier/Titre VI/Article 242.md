@@ -1,5 +1,5 @@
 Article 242
 ----
-Le divorce peut être demandé par un époux pour des faits imputables à l'autre
-lorsque ces faits constituent une violation grave ou renouvelée des devoirs et
-obligations du mariage et rendent intolérable le maintien de la vie commune.
+Le divorce peut être demandé par l'un des époux lorsque des faits constitutifs
+d'une violation grave ou renouvelée des devoirs et obligations du mariage sont
+imputables à son conjoint et rendent intolérable le maintien de la vie commune.

@@ -1,8 +1,8 @@
 Article 246
 ----
-Lorsque le divorce aura été demandé en application des articles 233 à 245, les
-époux pourront, tant qu'aucune décision sur le fond n'aura été rendue, demander
-au juge aux affaires familiales de constater leur accord et d'homologuer le
-projet de convention réglant les conséquences du divorce.
+Si une demande pour altération définitive du lien conjugal et une demande pour
+faute sont concurremment présentées, le juge examine en premier lieu la demande
+pour faute.
 
-Les dispositions des articles 231 et 232 seront alors applicables.
+S'il rejette celle-ci, le juge statue sur la demande en divorce pour altération
+définitive du lien conjugal.

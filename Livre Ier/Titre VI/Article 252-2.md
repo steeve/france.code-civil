@@ -1,6 +1,8 @@
 Article 252-2
 ----
-Lorsqu'il ne parvient pas à les faire renoncer au divorce, le juge essaye
-d'amener les époux à en régler les conséquences à l'amiable, notamment, en ce
-qui concerne les enfants, par des accords dont pourra tenir compte le jugement à
-intervenir.
+La tentative de conciliation peut être suspendue et reprise sans formalité, en
+ménageant aux époux des temps de réflexion dans une limite de huit jours.
+
+Si un plus long délai paraît utile, le juge peut décider de suspendre la
+procédure et de recourir à une nouvelle tentative de conciliation dans les six
+mois au plus. Il ordonne, s'il y a lieu, les mesures provisoires nécessaires.
