@@ -8,12 +8,17 @@ personnes vivant habituellement au foyer, sauf dans les cas mentionnés à
 l'article R. 351-7-2. Sont considérées comme vivant habituellement au foyer les
 personnes y ayant résidé plus de six mois au cours de ladite année civile et qui
 y résident encore au moment de la demande ou au début de la période de paiement.
-
 Ces ressources s'entendent du revenu net imposable de l'année civile de
-référence susmentionnée, abstraction faite des déductions opérées en vertu de
-l'article 156-I du code général des impôts au titre des reports des déficits
-constatés au cours d'une année antérieure à celle qui est prise en
-considération.
+référence susmentionnée sous réserve des dispositions suivantes :
+
+- il est fait abstraction des déductions opérées en vertu de l'article 156.I du
+code général des impôts au titre des reports des déficits constatés au cours
+d'une année antérieure à celle qui est prise en considération ;
+
+- il n'est tenu compte de la déduction des frais de garde prévue à l'article 154
+ter du code général des impôts que dans la limite d'un montant fixé par arrêté
+conjoint des ministres chargés du logement, du budget, de la sécurité sociale et
+de l'agriculture.
 
 Lorsque le ou les revenus imposables ne provenant pas d'une activité salariée ne
 sont pas connus au moment de la demande ou du réeaxemen des droits, il est tenu
