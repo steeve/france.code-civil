@@ -1,12 +1,17 @@
 Article 2 D
 ----
-Pour l'application des dispositions du troisième alinéa de l'article 38 bis C du
-code général des impôts, le taux d'actualisation qu'il y a lieu de retenir est
-égal à la moyenne arithmétique des taux médians, définis ci-après, pratiqués par
-les établissements de crédit qui interviennent de manière significative sur les
-marchés.
+I. Pour l'application du 1° quater du 1 de l'article 39 du code général des
+impôts, l'option irrévocable et globale de l'émetteur pour une période de deux
+ans est exercée par la première inscription en comptabilité des frais d'émission
+d'un emprunt en charges à répartir sur plusieurs exercices.
 
-Le taux médian constitue, pour chacun de ces établissements, la moyenne entre,
-d'une part, le taux fixe auquel il accepte de prêter de l'argent et, d'autre
-part, le taux fixe auquel il accepte d'emprunter, pratiqués sur chaque marché
-dont les opérations sont de même durée et libellées dans la même devise.
+II. La période de deux ans court à partir du premier jour de l'exercice au cours
+duquel l'option a été exercée selon les modalités du I.
+
+III. L'option visée au I est reconduite tacitement par période de deux ans. Elle
+est irrévocable pendant cette période.
+
+IV. Les entreprises qui désirent renoncer à leur option doivent notifier leur
+choix à l'administration par une mention expresse jointe à leur déclaration de
+résultat déposée au titre de l'exercice suivant la période pour laquelle ladite
+option a été exercée ou reconduite tacitement.
