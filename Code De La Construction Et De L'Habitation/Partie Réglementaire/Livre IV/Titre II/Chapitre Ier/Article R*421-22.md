@@ -3,9 +3,9 @@ Article R*421-22
 Les fonctions de directeur général et de directeur sont incompatibles avec
 celles de membre du conseil d'administration.
 
-Le directeur général [*attributions*] assiste, avec voix consultative, aux
-séances du conseil d'administration dont il prépare et exécute les décisions,
-sous réserve des pouvoirs conférés au président par l'article R. 421-19.
+Le directeur général assiste, avec voix consultative, aux séances du conseil
+d'administration dont il prépare et exécute les décisions, sous réserve des
+pouvoirs conférés au président par l'article R. 421-19.
 
 Il est ordonnateur, passe tous actes et contrats et dirige l'activité de
 l'office dans le cadre des orientations générales fixées par le conseil
@@ -13,8 +13,8 @@ d'administration.
 
 Le directeur général a autorité sur les services et recrute le personnel. Il
 fixe les effectifs et la rémunération du personnel dans la limite des crédits
-prévus à cet effet par le budget et dans les conditions prévues par l'article 27
-du décret n. 73-986 du 22 octobre 1973.
+prévus à cet effet par le budget et dans les conditions prévues par le décret n°
+93-852 du 17 juin 1993 et son annexe.
 
 Il fournit au conseil d'administration les informations qu'ils demandent.
 
