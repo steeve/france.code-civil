@@ -11,3 +11,7 @@ au vote.
 Lorsque l'ordre du jour du comité comporte des questions intéressant l'hygiène,
 la sécurité et les conditions de travail, le médecin du travail assiste avec
 voix consultative à la réunion du comité.
+
+Le président du comité technique d'établissement, en sa qualité de chef
+d'établissement, peut se faire assister du ou des collaborateurs de son choix,
+sans que celui-ci ou ceux-ci puissent prendre part aux votes.
