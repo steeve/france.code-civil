@@ -16,6 +16,5 @@ composés exclusivement de matériaux combustibles ou sublimables et il ne peut 
 charbon pulvérisé.
 
 Les cercueils peuvent également être fabriqués dans un matériau ayant fait
-l'objet d'un agrément renouvelable tous les cinq ans [*périodicité*] par le
-ministre chargé de la santé, aprés avis du Conseil supérieur d'hygiène publique
-de France.
+l'objet d'un agrément par le ministre chargé de la santé, aprés avis du Conseil
+supérieur d'hygiène publique de France.

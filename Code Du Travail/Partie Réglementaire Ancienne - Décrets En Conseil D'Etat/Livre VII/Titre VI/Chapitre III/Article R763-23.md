@@ -1,8 +1,9 @@
 Article R763-23
 ----
-La licence d'agence de mannequins prévue par l'article L. 763-3 est délivrée
-pour trois ans par arrêté du ministre chargé du travail, après avis de la
-commission instituée à l'article R. 763-30.
+La licence d'agence de mannequin prévue par l'article L. 763-3 est délivrée pour
+trois ans par le préfet du département, après avis du directeur départemental du
+travail, de l'emploi et de la formation professionnelle. Ce dernier instruit le
+dossier en liaison avec le directeur régional des affaires culturelles.
 
 Elle peut être renouvelée pour une durée identique dans les conditions prévues à
 l'article R. 763-27.

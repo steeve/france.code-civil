@@ -3,7 +3,10 @@ Article R668-4-3
 Les autorisations spécifiques mentionnées aux articles R. 668-4-1 et R. 668-4-2
 sont accordées pour une durée de cinq ans renouvelable, après avis de la
 commission d'organisation de la transfusion sanguine dans le ressort de laquelle
-se trouve le siège de l'établissement de transfusion sanguine concerné.
+se trouve le siège de l'établissement de transfusion sanguine concerné. Pour les
+équipements mentionnés au 2 de l'article R. 668-4-2, le silence gardé par
+l'Agence française du sang vaut autorisation tacite à l'expiration d'un délai de
+trois mois à compter de la date de réception de la demande.
 
 Elles doivent être obtenues avant la mise en oeuvre de l'activité ou avant le
 début des travaux ou de l'installation de l'équipement.

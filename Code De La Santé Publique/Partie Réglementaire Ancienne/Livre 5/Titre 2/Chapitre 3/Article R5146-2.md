@@ -12,3 +12,8 @@ demande. Dans les cas exceptionnels, ce délai peut être prorogé, dans la limi
 de quatre-vingt-dix jours, par décision de l'autorité compétente. Cette
 prorogation doit être notifiée au demandeur avant l'expiration du précédent
 délai.
+
+Pour les établissements mentionnés au 2° du deuxième alinéa de l'article R.
+5146-1, le silence gardé par les ministres vaut autorisation tacite à
+l'expiration de l'un des délais mentionnés à l'alinéa précédent à compter de la
+date de réception de la demande.

@@ -8,7 +8,11 @@ formation professionnelle les machines ou appareils dont l'usage est proscrit
 par les articles précédents. Ces autorisations sont accordées par l'inspecteur
 du travail, après avis favorable du médecin du travail ou du médecin chargé de
 la surveillance des élèves ; en outre, une autorisation du professeur ou du
-moniteur d'atelier est requise pour chaque emploi.
+moniteur d'atelier est requise pour chaque emploi. L'autorisation est réputée
+acquise si l'inspecteur du travail n'a pas fait connaître sa décision dans un
+délai de deux mois à compter de la réception de la demande complète, envoyée par
+lettre recommandée avec demande d'avis de réception et comportant l'avis
+favorable du médecin et du professeur ou du moniteur responsable.
 
 Des mesures doivent être prises pour assurer l'efficacité du contrôle exercé par
 le professeur ou le moniteur d'atelier.

@@ -18,3 +18,5 @@ représentant.
 Le directeur départemental de l'action sanitaire et sociale ou son représentant.
 
 Un médecin inspecteur de la santé.
+
+Le directeur régional des affaires culturelles ou son représentant.

@@ -1,5 +1,5 @@
 Article R*213-13
 ----
-Dès réception de l'accord du ministre, le préfet recueille l'avis des
-collectivités locales intéressées, qui doivent se prononcer dans le délai de
-quarante-cinq jours, faute de quoi il est passé outre.
+Le préfet recueille l'avis des collectivités locales intéressées, qui doivent se
+prononcer dans le délai de quarante-cinq jours, faute de quoi il est passé
+outre.

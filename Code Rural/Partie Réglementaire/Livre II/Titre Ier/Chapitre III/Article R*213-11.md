@@ -1,11 +1,14 @@
 Article R*213-11
 ----
-Le préfet, après s'être assuré que les locaux, installations, aménagements ou
-équipements prévus ainsi que les conditions de fonctionnement envisagées
-tiennent compte des prescriptions relatives :
+Les établissements d'élevage, de vente, de location, de transit ou de
+présentation au public d'animaux vivants d'espèces non domestiques sont classés,
+par arrêté du ministre chargé de la protection de la nature, en deux catégories.
 
-1° A la sécurité et à la santé publique ;
+La première catégorie regroupe les établissements qui présentent des dangers ou
+inconvénients graves pour les espèces sauvages et les milieux naturels ainsi que
+pour la sécurité des personnes.
 
-2° Au contrôle sanitaire et à la protection des animaux,
-
-transmet le dossier au ministre chargé de la protection de la nature.
+La seconde catégorie regroupe les établissements qui, ne présentant pas de tels
+dangers ou inconvénients, doivent néanmoins respecter les prescriptions édictées
+en application de l'article R. 213-6 pour assurer la protection des espèces
+sauvages et des milieux naturels ainsi que pour la sécurité des personnes.

@@ -13,3 +13,8 @@ exceptionnels, ce délai peut être prorogé dans la limite de quatre-vingt-dix
 jours selon le cas, par le ministre chargé de la santé ou par le directeur
 général de l'Agence du médicament. Cette dernière décision doit être notifiée au
 demandeur avant l'expiration du précédent délai.
+
+Pour les établissements mentionnés aux deuxième et troisième alinéas de
+l'article R. 5106, le silence gardé par le ministre vaut autorisation tacite à
+l'expiration de l'un des délais mentionnés à l'alinéa précédent courant à
+compter de la date de réception de la demande.
