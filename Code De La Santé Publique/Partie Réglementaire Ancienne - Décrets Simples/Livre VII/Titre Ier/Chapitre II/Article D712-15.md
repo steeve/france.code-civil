@@ -22,6 +22,8 @@ artificiels : caméra à scintillation, tomographe à émissions, caméra à pos
 5° Appareil d'imagerie ou de spectrométrie par résonance magnétique nucléaire à
 utilisation clinique.
 
+6° Appareil de destruction transpariétale des calculs.
+
 II. - Pour celles des activités de soins définies à l'article L. 712-2 (2°, b)
 qui sont énumérées ci-après :
 
@@ -39,5 +41,8 @@ scellées ;
 6° Traitement des affections cancéreuses par rayonnements ionisants de haute
 énergie ;
 
-7° Activités cliniques de procréation médicalement assistée et diagnostic
-prénatal.
+7° Activités de procréation médicalement assistée et diagnostic prénatal.
+
+8° Accueil et traitement des urgences, lorsque cette activité de soins est
+exercée sous forme d'un pôle spécialisé défini par l'article R. 712-66 ou dans
+les conditions dérogatoires prévues à l'article R. 712-69.
