@@ -20,8 +20,8 @@ l'exclusion des travaux d'entretien proprement dits.
 
 c) Les prêts sont évalués d'après les actes qui en font foi ;
 
-d) Les nues-propriétés et les usufruits sont évalués suivant les règles
-déterminées par la commission de contrôle des assurances.
+d) Les nues propriétés et les usufruits sont évalués suivant les règles
+déterminées par arrêté du ministre chargé de l'économie et des finances.
 
 Dans tous les cas, sont déduits, s'il y a lieu, les remboursements effectués et
 les provisions pour dépréciation.
