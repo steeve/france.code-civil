@@ -1,4 +1,4 @@
 Article R815-1
 ----
-L'autorité compétente pour administrer le fonds national de solidarité institué
-par l'article L. 815-1 est le ministre chargé des affaires sociales.
+Le fonds spécial d'invalidité mentionné à l'article L. 815-3-1 est administré
+par le ministre chargé de la sécurité sociale.

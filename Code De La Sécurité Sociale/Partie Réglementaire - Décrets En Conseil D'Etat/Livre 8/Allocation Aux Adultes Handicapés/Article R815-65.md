@@ -8,8 +8,8 @@ de l'allocation supplémentaire.
 Ces renseignements doivent faire l'objet d'états dûment arrêtés et signés par le
 directeur de l'organisme ou service.
 
-En ce qui concerne le régime des salariés agricoles et les régimes d'allocations
-vieillesse des non-salariés, les états prévus à l'article R. 815-64 et au
-premier alinéa du présent article sont fournis respectivement par la caisse
-centrale de secours mutuels agricoles et par les caisses nationales mentionnées
-au premier alinéa de l'article L. 621-2.
+En ce qui concerne le régime des salariés agricoles et les régimes des
+non-salariés, les états prévus à l'article R. 815-64 et au premier alinéa du
+présent article sont fournis respectivement par la caisse centrale de secours
+mutuels agricoles et par les caisses nationales mentionnées au premier alinéa de
+l'article L. 621-2.

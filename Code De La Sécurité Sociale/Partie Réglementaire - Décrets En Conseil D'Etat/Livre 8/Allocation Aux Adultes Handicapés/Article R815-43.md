@@ -1,7 +1,8 @@
 Article R815-43
 ----
 Pour l'application de l'article L. 815-10, le commissaire de la République de
-région agit au nom du fonds national de solidarité.
+région agit au nom du fonds de solidarité vieillesse et du fonds spécial
+d'invalidité.
 
 Sans préjudice des dispositions du troisième alinéa de l'article R. 815-57,
 lorsqu'il constate qu'un bénéficiaire de l'allocation supplémentaire ne remplit
