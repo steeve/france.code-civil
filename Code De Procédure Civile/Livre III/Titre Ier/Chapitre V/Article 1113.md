@@ -1,8 +1,8 @@
 Article 1113
 ----
-Si l'époux n'a pas usé de l'autorisation d'assigner dans les trois mois du
-prononcé de l'ordonnance, son conjoint pourra, dans un nouveau délai de trois
-mois, l'assigner lui-même et requérir un jugement sur le fond.
+Dans les trois mois du prononcé de l'ordonnance, seul l'époux qui a présenté la
+requête initiale peut assigner en divorce.
 
-Si l'un ou l'autre des époux n'a pas saisi le juge aux affaires familiales à
-l'expiration des six mois, les mesures provisoires sont caduques.
+En cas de réconciliation des époux ou si l'instance n'a pas été introduite dans
+les trente mois du prononcé de l'ordonnance, toutes ses dispositions sont
+caduques, y compris l'autorisation d'introduire l'instance.

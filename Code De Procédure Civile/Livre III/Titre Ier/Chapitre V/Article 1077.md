@@ -1,10 +1,9 @@
 Article 1077
 ----
-En cours d'instance, il ne peut être substitué à une demande fondée sur un des
-cas de divorce définis à l'article 229 du Code civil, une demande fondée sur un
-autre cas.
+La demande ne peut être fondée que sur un seul des cas prévus à l'article 229 du
+code civil. Toute demande formée à titre subsidiaire sur un autre cas est
+irrecevable.
 
-Toutefois, s'ils parviennent à un accord en cours d'instance, les époux peuvent
-saisir le juge, dans les conditions prévues par l'article 246 du Code civil,
-d'une requête établie selon les formes réglées à la section II du présent
-chapitre.
+Hormis les cas prévus aux articles 247 à 247-2 du code civil, il ne peut, en
+cours d'instance, être substitué à une demande fondée sur un des cas de divorce
+définis à l'article 229 du code civil une demande fondée sur un autre cas.

@@ -1,11 +1,6 @@
 Article 1087
 ----
-Dans tous les cas, le juge aux affaires familiales statue, sans formalité, sur
-les demandes respectives. Sa décision est, de droit, exécutoire à titre
-provisoire.
-
-Le délai d'appel est de quinze jours ; il court à compter de la notification.
-Lorsqu'il a été saisi sur simple requête, le juge peut décider soit d'office,
-soit à la demande de l'un des intéressés, qu'il ne sera pas procédé à la
-signification de la décision mais que celle-ci sera notifiée par le greffier par
-lettre recommandée avec demande d'avis de réception.
+L'effet suspensif qui s'attache au pourvoi en cassation ainsi qu'à son délai ne
+s'applique pas aux dispositions de la décision ou de la convention homologuée
+qui concernent les pensions, la contribution à l'entretien et l'éducation de
+l'enfant et l'exercice de l'autorité parentale.

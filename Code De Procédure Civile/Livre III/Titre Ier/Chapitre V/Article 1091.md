@@ -1,15 +1,10 @@
 Article 1091
 ----
-A peine d'irrecevabilité, la requête comprend en annexe :
+A peine d'irrecevabilité, la requête comprend en annexe une convention portant
+règlement complet des effets du divorce et incluant notamment un état liquidatif
+du régime matrimonial ou la déclaration qu'il n'y a pas lieu à liquidation.
+L'état liquidatif doit être passé en la forme authentique devant notaire lorsque
+la liquidation porte sur des biens soumis à publicité foncière.
 
-1° Une convention temporaire par laquelle les époux règlent, pour la durée de
-l'instance, leur situation réciproque sur les différents points qui pourraient
-faire l'objet de mesures provisoires au sens des articles 255 et 256 du code
-civil ;
-
-2° Un projet de convention définitive, portant règlement complet des effets du
-divorce, avec l'indication, s'il en est besoin, d'un notaire chargé de liquider
-le régime matrimonial.
-
-Sous la même sanction, chacun des documents est daté et est signé par chacun des
+Sous la même sanction, chacun des documents est daté et signé par chacun des
 époux et leur avocat.

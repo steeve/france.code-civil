@@ -1,8 +1,11 @@
 Article 1079
 ----
-L'enquête sociale donne lieu à la rédaction d'un rapport où sont consignées les
-constatations faites par l'enquêteur et les solutions proposées par lui.
+La prestation compensatoire ne peut être assortie de l'exécution provisoire.
 
-Le juge donne communication du rapport aux parties en leur fixant un délai dans
-lequel elles auront la faculté de demander un complément d'enquête ou une
-contre-enquête.
+Toutefois, elle peut l'être en tout ou partie, lorsque l'absence d'exécution
+aurait des conséquences manifestement excessives pour le créancier en cas de
+recours sur la prestation compensatoire alors que le prononcé du divorce a
+acquis force de chose jugée.
+
+Cette exécution provisoire ne prend effet qu'au jour où le prononcé du divorce a
+acquis force de chose jugée.

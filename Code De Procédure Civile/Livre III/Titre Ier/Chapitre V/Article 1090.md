@@ -1,7 +1,7 @@
 Article 1090
 ----
-La requête, qui n'indique pas les motifs du divorce, doit contenir, à peine
-d'irrecevabilité :
+La requête, qui n'indique pas les faits à l'origine de la demande, doit
+contenir, à peine d'irrecevabilité :
 
 1° Les nom, prénoms, profession, résidence, nationalité, date et lieu de
 naissance de chacun des époux ; la date et le lieu de leur mariage ; les mêmes

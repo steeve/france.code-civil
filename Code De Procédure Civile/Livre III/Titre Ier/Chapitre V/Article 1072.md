@@ -1,17 +1,17 @@
 Article 1072
 ----
-Si, après le prononcé du divorce, un litige s'élève entre les époux sur l'une de
-ses conséquences, le juge aux affaires familiales compétent pour en connaître
-est celui du lieu où, lors de l'introduction de l'instance, réside l'époux qui a
-l'exercice de l'autorité parentale ou, en cas d'exercice en commun, l'époux chez
-qui a été fixée la résidence habituelle des enfants mineurs ; à défaut, le juge
-aux affaires familiales du lieu où réside l'époux qui n'a pas pris l'initiative
-de la demande.
+Sans préjudice de toute autre mesure d'instruction et sous réserve des
+dispositions prévues au troisième alinéa de l'article 373-2-12 du code civil, le
+juge peut, même d'office, ordonner une enquête sociale s'il s'estime
+insuffisamment informé par les éléments dont il dispose.
 
-Toutefois, lorsque le litige porte seulement sur la pension alimentaire ou la
-prestation compensatoire, la juridiction compétente peut être celle du lieu où
-réside l'époux créancier ou le parent qui assume à titre principal la charge des
-enfants même majeurs.
+L'enquête sociale porte sur la situation de la famille ainsi que, le cas
+échéant, sur les possibilités de réalisation du projet des parents ou de l'un
+d'eux quant aux modalités d'exercice de l'autorité parentale.
 
-Ce juge aux affaires familiales peut demander communication du dossier à la
-juridiction qui a prononcé le divorce.
+Elle donne lieu à un rapport où sont consignées les constatations faites par
+l'enquêteur et les solutions proposées par lui.
+
+Le juge donne communication du rapport aux parties en leur fixant un délai dans
+lequel elles auront la faculté de demander un complément d'enquête ou une
+nouvelle enquête.

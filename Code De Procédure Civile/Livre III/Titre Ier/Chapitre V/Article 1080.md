@@ -1,13 +1,10 @@
 Article 1080
 ----
-Quand il y a lieu de statuer sur l'exercice de l'autorité parentale, l'époux à
-qui cet exercice n'avait pas été précédemment confié peut établir un projet
-détaillé des moyens qu'il mettrait en oeuvre pour assurer l'entretien et
-l'éducation des enfants si cet exercice lui était attribué ; il en est de même
-lorsque l'époux demande à exercer seul l'autorité parentale qui était
-précédemment exercée en commun. Des tiers, parents ou amis, peuvent se porter
-caution de la bonne exécution du projet.
+Lorsque des biens ou des droits sont attribués à titre de prestation
+compensatoire en application du 2° de l'article 274 du code civil, la convention
+homologuée ou la décision qui prononce le divorce précise leur valeur.
 
-L'enquête sociale porte, le cas échéant, sur les possibilités de réalisation du
-projet aussi bien que sur la situation actuelle, sans préjudice de toute mesure
-d'instruction.
+Lorsque ces biens ou droits sont soumis à la publicité foncière, elle précise en
+outre les mentions nécessaires à la publication du titre de propriété dans les
+formes prévues par le décret n° 55-22 du 4 janvier 1955 portant réforme de la
+publicité foncière.
