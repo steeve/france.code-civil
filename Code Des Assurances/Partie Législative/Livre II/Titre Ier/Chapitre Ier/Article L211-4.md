@@ -2,13 +2,16 @@ Article L211-4
 ----
 L'assurance prévue à l'article L. 211-1 doit comporter une garantie de la
 responsabilité civile s'étendant à l'ensemble des territoires des Etats membres
-de la Communauté économique européenne ainsi qu'aux territoires des Etats
-suivants : Saint-Siège, Saint-Marin, Monaco, Autriche, Finlande, Norvège, Suède,
-Suisse, Liechtenstein. Cette garantie, lorsqu'elle est appelée à jouer hors du
-territoire français, est accordée par l'assureur dans les limites et conditions
-prévues par la législation nationale de l'Etat sur le territoire duquel s'est
-produit le sinistre ou par celle de l'Etat où le véhicule a son stationnement
-habituel lorsque la couverture d'assurance y est plus favorable.
+de la Communauté européenne ainsi qu'aux territoires de tout Etat tiers pour
+lequel les bureaux nationaux de tous les Etats membres de la Communauté
+européenne se portent individuellement garants du règlement des sinistres
+survenus sur leur territoire et provoqués par la circulation des véhicules ayant
+leur stationnement habituel dans cet Etat tiers. Cette garantie, lorsqu'elle est
+appelée à jouer hors du territoire français, est accordée par l'assureur dans
+les limites et conditions prévues par la législation nationale de l'Etat sur le
+territoire duquel s'est produit le sinistre ou par celle de l'Etat où le
+véhicule a son stationnement habituel lorsque la couverture d'assurance y est
+plus favorable.
 
 Cette assurance doit également comporter une garantie de la responsabilité
 civile en cas de sinistre survenant au cours du trajet reliant directement deux

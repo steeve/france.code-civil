@@ -13,7 +13,9 @@ du présent article doivent également couvrir la responsabilité civile de tout
 personne ayant la garde ou la conduite, même non autorisée, du véhicule, à
 l'exception des professionnels de la réparation, de la vente et du contrôle de
 l'automobile, ainsi que la responsabilité civile des passagers du véhicule objet
-de l'assurance.
+de l'assurance. Toutefois, en cas de vol d'un véhicule, ces contrats ne couvrent
+pas la réparation des dommages subis par les auteurs, coauteurs ou complices du
+vol.
 
 L'assureur est subrogé dans les droits que possède le créancier de l'indemnité
 contre la personne responsable de l'accident lorsque la garde ou la conduite du
