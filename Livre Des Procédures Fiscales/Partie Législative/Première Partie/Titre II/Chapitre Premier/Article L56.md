@@ -12,4 +12,5 @@ déclaration ;
 
 4° Dans les cas de taxation ou évaluation d'office des bases d'imposition ;
 
-5° (Devenu sans objet).
+5° Dans le cas d'application de la procédure de règlement particulière prévue à
+l'article L. 62.
