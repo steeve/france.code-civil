@@ -1,7 +1,8 @@
 Article R353-11
 ----
-Le bailleur est tenu, envers les organismes chargés du paiement de l'aide
-personnalisée au logement, de fournir toutes les informations et justifications
-nécessaires à l'établissement du droit à l'aide personnalisée au logement, à la
-liquidation et au versement de celle-ci, dans les conditions définies par la
-convention.
+Lors de leur mise en service et au fur et à mesure de leur vacance, les
+logements sont loués à des personnes dont les ressources annuelles n'excèdent
+pas le plafond déterminé dans les conditions prévues par l'article R. 331-12.
+Toutefois, ces plafonds ne s'appliquent pas aux logements financés dans les
+conditions prévues par la section III du chapitre unique du titre III du présent
+livre.
