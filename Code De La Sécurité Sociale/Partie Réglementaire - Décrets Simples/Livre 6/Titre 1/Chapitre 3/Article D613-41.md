@@ -16,6 +16,6 @@ accompagnés de son avis ou approbation et de l'avis du comité départemental
 d'examen. Il fait parvenir, d'autre part, son avis ou la copie de la décision
 d'approbation au trésorier-payeur général.
 
-Les dispositions du premier alinéa du présent article sont applicables aux
-comptes annuels de la caisse nationale dont l'approbation est de la compétence
-du ministre chargé de la sécurité sociale.
+Les dispositions ci-dessus sont applicables aux comptes annuels de la caisse
+nationale qui sont transmis, au plus tard pour le 30 avril qui suit la fin de
+l'exercice, aux comités départementaux visés au premier alinéa.
