@@ -18,7 +18,8 @@ Les lapins des garennes ;
 
 Les ruches à miel ;
 
-Les poissons des étangs ;
+Les poissons des eaux non visées à l'article 402 du code rural et des plans
+d'eau visés aux articles 432 et 433 du même code ;
 
 Les pressoirs, chaudières, alambics, cuves et tonnes ;
 
