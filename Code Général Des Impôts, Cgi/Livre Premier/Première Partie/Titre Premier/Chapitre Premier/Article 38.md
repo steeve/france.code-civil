@@ -40,7 +40,7 @@ exercices clos à compter du 31 décembre 1978 [*date, point de départ*]. Les
 produits qui, en application de la législation précédemment en vigueur, ont déjà
 servi à la détermination des résultats d'exercices antérieurs sont déduits pour
 la détermination des résultats des exercices auxquels les sommes correspondantes
-doivent désormais être rattachées.
+doivent désormais être rattachées. (1 a).
 
 3. Pour l'application des 1 et 2, les stocks sont évalués au prix de revient ou
 au cours du jour de la clôture de l'exercice, si ce cours est inférieur au prix
@@ -60,9 +60,15 @@ fonction du dernier cours de change connu, les écarts de conversion constatés
 sont pris en compte pour la détermination du résultat imposable de l'exercice. A
 la clôture de chaque exercice, le prix de revient des titres est augmenté ou
 diminué, selon les cas, des écarts de conversion mentionnés à ce même alinéa.
-Ces dispositions sont applicables aux écarts de change relatifs à la période
-postérieure à l'ouverture du premier exercice clos à compter du 31 décembre
-1990.
+((Toutefois, lorsque les établissements concernés détiennent des titres
+d'investissement mentionnés à l'article 38 bis B et des titres de participation,
+libellés en monnaie étrangère et dont l'acquisition a été financée en francs,
+les écarts de conversion mentionnés au présent alinéa et constatés sur ces
+titres ne sont pas pris en compte dans le résultat fiscal de l'exercice ; dans
+ce cas, sur le plan fiscal, le prix de revient de ces titres ne tient pas compte
+des écarts de conversion)) (1'). Ces dispositions sont applicables aux écarts de
+change relatifs à la période postérieure à l'ouverture du premier exercice clos
+à compter du 31 décembre 1990.
 
 5. Le profit ou la perte résultant de cessions de titres par un fonds commun de
 placement est compris dans le résultat de l'exercice au cours duquel les parts
@@ -98,10 +104,10 @@ bourse de valeurs ou traités sur un marché ou par référence à un marché (4
 
 2° Dans le cas où un contrat à terme d'instruments financiers en cours à la
 clôture de l'exercice a pour clause exclusive de compenser le risque d'une
-opération de l'exercice suivant, traitée sur un marché de nature différente,
-l'imposition du profit réalisé sur le contrat est reportée au dénouement de
-celui-ci, à condition que les opérations dont la compensation est envisagée
-figurent sur le document prévu au 3° (5) ;
+opération de ((l'un des deux exercices suivants)) (1'), traitée sur un marché de
+nature différente, l'imposition du profit réalisé sur le contrat est reportée au
+dénouement de celui-ci, à condition que les opérations dont la compensation est
+envisagée figurent sur le document prévu au 3° (5) (5') ;
 
 2° bis Le profit sur un contrat à terme portant sur des devises et ayant pour
 seul objet la couverture du risque de change d'une opération future est imposé
@@ -133,16 +139,19 @@ déclaration de résultats de l'exercice. A défaut, la perte sur une position
 n'est pas déductible du résultat imposable (6).
 
 7. Le profit ou la perte résultant de l'échange d'actions effectué dans le cadre
-d'une offre publique d'échange, réalisée conformément à la réglementation en
-vigueur, est compris dans le résultat de l'exercice au cours duquel les actions
-reçues en échange sont cédées. Dans ce cas, le profit ou la perte résultant de
-la cession ultérieure de ces titres est déterminé par rapport à la valeur que
-les actions remises à l'échange avaient du point de vue fiscal. Toutefois, en
-cas d'échange avec soulte, la plus-value réalisée est, à concurrence du montant
-de la soulte reçue, comprise dans le bénéfice de l'exercice au cours duquel
-intervient l'échange. Le montant imposable peut bénéficier du régime des
-plus-values à long terme prévu à l'article 39 duodecies, dans la limite de la
-plus-value réalisée sur les titres détenus depuis deux ans au moins.
+d'une offre publique d'échange ((ou de la conversion d'obligations en actions))
+(6'), réalisée conformément à la réglementation en vigueur, est compris dans le
+résultat de l'exercice au cours duquel les actions reçues en échange sont
+cédées. Dans ce cas, le profit ou la perte résultant de la cession ultérieure de
+ces titres est déterminé par rapport à la valeur que les actions remises à
+l'échange ((ou les obligations converties)) (6') avaient du point de vue fiscal.
+
+Toutefois, en cas d'échange (ou de conversion)) (6') avec soulte, la plus-value
+réalisée est, à concurrence du montant de la soulte reçue, comprise dans le
+bénéfice de l'exercice au cours duquel intervient l'échange ((ou la conversion))
+(6'). Le montant imposable peut bénéficier du régime des plus-values à long
+terme prévu à l'article 39 duodecies, dans la limite de la plus-value réalisée
+sur les ((actions)) (6') détenus depuis deux ans au moins.
 
 Ces dispositions ne sont pas applicables si la soulte dépasse 10 p. 100 de la
 valeur nominale des parts ou des actions attribuées ou si la soulte reçue excède
@@ -236,6 +245,12 @@ constatés par la société d'assurance.
 (1) En ce qui concerne les plus-values réalisées dans le cadre des opérations de
 nationalisation, voir art. 248 A.
 
+(1 a) Cf. Instruction 1994-08-11 4A-11-94 pour les honoraires perçus par les
+entreprises d'expert-comptable.
+
+(1') Modification de la loi 93-1353. Cf. Instruction 1994-03-07 4A-6-94 et
+Instruction 1994-04-20 4A-9-94.
+
 (2) Disposition applicable pour la détermination des résultats des exercices
 clos à compter du 16 avril 1986. Pour les exercices en cours à cette date, voir
 loi n° 86-824 du 11 juillet 1986, art. 21-II.
@@ -246,7 +261,15 @@ loi n° 86-824 du 11 juillet 1986, art. 21-II.
 
 (5) Voir annexe III, art. 2 B.
 
+(5") Ces dispositions s'appliquent pour déterminer les résultats des exercices
+ouverts à compter du 1er janvier 1994.
+
 (6) Voir annexe III, art. 2 C.
 
+(6') Modification de la loi 94-679. Ces dispositions s'appliquent aux
+conversions d'obligations en actions réalisées à compter du 1er janvier 1993
+
 (7) Ces dispositions s'appliquent aux opérations qui affectent les résultats des
-exercices ouverts à compter du 1er janvier 1992. (8) Voir annexe III, art. 38 B.
+exercices ouverts à compter du 1er janvier 1992.
+
+(8) Voir annexe III, art. 38 B.

@@ -23,15 +23,10 @@ externe ou du transit communautaire interne (1).
 
 II Toutefois, sont exonérés :
 
-1° Pendant la durée du régime qui leur est attribué, les biens qui sont importés
-et mis :
-
-a) Sous le régime de l'admission temporaire pour vente éventuelle, prévu par la
-directive (CEE) n° 85-362 modifiée du 16 juillet 1985 du Conseil des communautés
-européennes ;
-
-b) Ou sous les régimes d'entrepôt à l'importation ou à l'exportation ou du
-perfectionnement actif autres que ceux qui sont mentionnés au 2 du I (1).
+((1° Pendant la durée du régime qui leur est attribué, les biens qui sont
+importés et mis sous les régimes d'entrepôt à l'importation ou à l'exportation
+ou du perfectionnement actif autres que ceux qui sont mentionnés au 2 du I ;))
+(1)
 
 1° bis (Supprimé).
 
@@ -98,7 +93,8 @@ territoire d'un autre Etat membre de la Communauté économique européenne et q
 font l'objet par l'importateur d'une livraison exonérée en vertu du I de
 l'article 262 ter.
 
-(1) Voir annexe III, art. 73 G et 73 H.
+(1) Modifications de la loi 93-1353 ; dispositions applicables à compter du 1er
+janvier 1993.
 
 (2) Arrêté du 30 décembre 1983 (JO du 25 janvier 1984).
 

@@ -50,7 +50,7 @@ novembre 1982 ;
 pour souscrire au capital d'une société nouvelle exerçant une activité
 industrielle, commerciale, artisanale ou libérale. Cette souscription doit
 intervenir l'année de la création de la société ou au cours de deux années
-suivantes [*délai*.
+suivantes *délai*.
 
 La déduction ne peut excéder 50 % du salaire versé à l'emprunteur par la société
 nouvelle. Elle ne peut être supérieure à 100.000 F.
@@ -63,15 +63,17 @@ conditions de droit commun, exercer une activité mentionnée aux articles 34 et
 Les actions souscrites doivent obligatoirement revêtir la forme nominative.
 
 Le bénéfice de la déduction est subordonné au dépôt des titres chez un
-intermédiaire agréé *]condition, obligation*.
+intermédiaire agréé.
 
 Si les actions ou les parts sociales souscrites sont cédées avant l'expiration
 d'un délai de cinq ans à compter de leur souscription, le total des intérêts
 déduits est ajouté au revenu brut perçu par l'emprunteur l'année de la cession.
 
-Toutefois, aucun rehaussement n'est effectué lorsque l'emprunteur ou son
-conjoint se trouve dans l'un des cas prévus au troisième alinéa de l'article 199
-quinquies B.
+((Toutefois, aucun rehaussement n'est effectué lorsque l'emprunteur ou son
+conjoint soumis à une imposition commune se trouve dans l'un des cas suivant :
+invalidité correspondant au classement dans la deuxième ou troisième des
+catégories prévues à l'article L. 341-4 du code de la sécurité sociale, décès,
+départ à la retraite ou licenciement)) (2')
 
 Un décret fixe les modalités d'application du présent paragraphe, notamment les
 obligations des emprunteurs et des intermédiaires agréés (3).
@@ -89,12 +91,12 @@ couverts par des allocations spéciales.
 
 La déduction à effectuer du chef des frais professionnels est calculée
 forfaitairement en fonction du revenu brut, après défalcation des cotisations,
-contributions et intérêts (5) mentionnés aux 1° à 2° quinquies et à l'article 83
-bis ; elle est fixée à 10 % du montant de ce revenu. Elle est limitée à 54.770 F
+contributions et intérêts mentionnés aux 1° à 2° quinquies et à l'article 83 bis
+; elle est fixée à 10 % du montant de ce revenu. Elle est limitée à 54.770 F
 pour l'imposition des rémunérations perçues en 1984 ; chaque année, le plafond
 retenu pour l'imposition des revenus de l'année précédente est relevé dans la
-même proportion que la limite supérieure de la septième tranche du barème de
-l'impôt sur le revenu (4).
+même proportion que la limite supérieure de la ((première)) tranche du barème de
+l'impôt sur le revenu (4) (M).
 
 Toutefois, en ce qui concerne les catégories de professions qui comportent des
 frais dont le montant est notoirement supérieur à celui résultant de
@@ -113,7 +115,8 @@ rémunérations perçues par chaque membre du foyer fiscal désigné à l'articl
 et 3.
 
 La somme de 2.000 F figurant à l'alinéa précédent est révisée chaque année dans
-la même proportion que la septième tranche du barème de l'impôt sur le revenu.
+la même proportion que ((la limite supérieure de la première tranche du barème
+de l'impôt sur le revenu)) (6) (M).
 
 Les bénéficiaires de traitements et salaires sont également admis à justifier du
 montant de leurs frais réels, soit dans la déclaration visée à l'article 170,
@@ -127,17 +130,32 @@ de l'année d'imposition .
 Sont assimilées à des frais professionnels réels les dépenses exposées en vue de
 l'obtention d'un diplôme ou d'une qualification professionnelle dans la
 perspective d'une insertion ou d'une conversion professionnelle par les
-personnes tirant un revenu de la pratique d'un sport. (1) Annexe III, art. 38
-septdecies.
+personnes tirant un revenu de la pratique d'un sport.
+
+((Les frais de déplacement de moins de quarante kilomètres entre le domicile et
+le lieu de travail sont admis, sur justificatifs, au titre des frais
+professionnels réels. Lorsque la distance est supérieure, la déduction admise
+porte sur les quarante premiers kilomètres, sauf circonstances particulières
+notamment liées à l'emploi justifiant une prise en compte complète)) (M).
+
+(1) Annexe III, art. 38 septdecies.
 
 (2) A compter de l'imposition des revenus de 1988 et de 1989, la base de calcul
 des limites de 19 % et de 3 % est égale à douze fois le plafond annuel moyen
 retenu pour le calcul des cotisations de sécurité sociale.
 
+(2') Modification, édition 1994, Conséquences de la péremption des articles 199
+quinquies à 199 quinquies G.)
+
 (3) Annexe III, art. 38 septdecies A à 38 septdecies E.
 
-(4) Pour l'imposition des revenus de l'année 1990 la déduction est limitée à
-66.950 F. La limite était de de 64.870 F pour l'imposition des revenus de 1989.
+(4) Pour l'imposition des revenus de l'année 1993 la déduction est limitée à
+72.250 F. La limite était de de 70.900 F pour l'imposition des revenus de 1992.
+
+(M) Modification de la loi 93-1352. Cf .Instruction 1994-07-08 5F-8-94.
 
 (5) Voir les déductions supplémentaires pour frais professionnels aux articles 5
 et 5 A de l'annexe 4.
+
+(6) Pour l'imposition des revenus de l'année 1993, le minimum de déduction est
+fixé à 2.160 F.

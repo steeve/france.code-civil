@@ -8,3 +8,10 @@ dans les écritures de la Banque de France lorsque leur montant excède 10 000 F
 
 2. Les dispositions visées au 1 entrent en vigueur à des dates fixées par décret
 et au plus tard le 31 décembre 1992.
+
+((3. Les paiements afférents à l'impôt visé à l'article 1668 sont effectués par
+virement directement opéré sur le compte du Trésor ouvert dans les écritures de
+la Banque de France lorsque leur montant excède un million de francs)) (1).
+
+(1) Modification. Ces dispositions entrent en application au plus tôt le 1er
+janvier 1995 et au plus tard le 1er janvier 1996, à des dates fixées par décret.

@@ -111,7 +111,9 @@ a) b) c) (Périmés).
 
 d) Au cours des années 1993 à 1995 par les entreprises qui ont bénéficié du
 crédit d'impôt recherche au titre de l'année 1992 ou par celles qui n'ont jamais
-bénéficié du dispositif du crédit d'impôt recherche (2).
+bénéficié du dispositif du crédit d'impôt recherche ((ou qui n'ont pas renouvelé
+leur option au titre des périodes 1987 à 1989 et 1990 à 1992)) (Modification de
+la loi 93-1352) (2).
 
 IV ter. (Périmé).
 
@@ -127,7 +129,7 @@ afférent aux années 1990 à 1992.
 Ces dispositions sont applicables, sur option de l'entreprise exercée en 1993,
 pour le calcul du crédit d'impôt recherche afférent à l'année 1992. (2) Ces
 dispositions s'appliquent pour le calcul du crédit d'impôt-recherche des années
-1992 à 1995.
+1992 à 1995. Cf. Instruction 1994-04-21 4A-8-94.
 
 (3) Ces dépenses sont prises en compte pour la première fois pour le calcul du
 crédit d'impôt de l'année 1987.

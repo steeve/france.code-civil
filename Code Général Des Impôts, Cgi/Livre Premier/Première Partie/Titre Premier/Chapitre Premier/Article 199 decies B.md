@@ -13,15 +13,19 @@ l'immeuble ou son acquisition si elle est postérieure ;
 3° Le loyer et les ressources du locataire n'excèdent pas des plafonds fixés par
 décret.
 
+((4° La location n'est pas conclue avec un membre du foyer fiscal, un ascendant
+ou un descendant du contribuable)) (1) (1').
+
 Ces dispositions s'appliquent également aux souscriptions au capital de sociétés
-civiles régies par la loi n° 70-1300 du 31 décembre 1970 fixant le régime
-applicable aux sociétés civiles autorisées à faire publiquement appel à
-l'épargne, réalisées à compter du 1er janvier 1993 lorsque la société s'engage à
-affecter intégralement le produit de la souscription annuelle, dans les six mois
-qui suivent la clôture de celle-ci, à l'acquisition de logements neufs loués
-dans les mêmes conditions. Le souscripteur doit s'engager à conserver les parts
-pendant une durée de six ans à compter de la date de l'achèvement des immeubles
-ou de leur acquisition par la société si elle est postérieure.
+civiles régies par la loi n° 70-1300 du 31 décembre 1970 ((modifiée)) (1')
+fixant le régime applicable aux sociétés civiles autorisées à faire publiquement
+appel à l'épargne, réalisées à compter du 1er janvier 1993 lorsque la société
+s'engage à affecter intégralement le produit de la souscription annuelle, dans
+les six mois qui suivent la clôture de celle-ci, à l'acquisition de logements
+neufs loués dans les mêmes conditions. Le souscripteur doit s'engager à
+conserver les parts pendant une durée de six ans à compter de la date de
+l'achèvement des immeubles ou de leur acquisition par la société si elle est
+postérieure.
 
 La réduction d'impôt ne peut être opérée qu'une fois et est répartie sur quatre
 années au maximum. Elle est imputée la première année à raison du quart des
@@ -34,3 +38,8 @@ d'ouverture de chantier prévue à l'article R. 421-40 du code de l'urbanisme. C
 document accompagné d'une pièce attestant de sa réception en mairie doit être
 joint à la déclaration des revenus de l'année au titre de laquelle le bénéfice
 de la réduction d'impôt est demandé.
+
+(1) Ces dispositions sont applicables aux locations conclues à compter du 1er
+janvier 1994 ; modifications de la loi 93-1352.
+
+(1') Modifications édition 1994.

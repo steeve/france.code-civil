@@ -10,7 +10,7 @@ Toutefois les rémunérations ne sont admises en déduction des résultats que d
 la mesure où elles correspondent à un travail effectif et ne sont pas excessives
 eu égard à l'importance du service rendu. Cette disposition s'applique à toutes
 les rémunérations directes ou indirectes, y compris les indemnités, allocations,
-avantages en nature et remboursements de frais.
+avantages en nature et remboursements de frais (1).
 
 1° bis Pour les exercices clos à compter du 31 décembre 1987 et sous réserve des
 dispositions du 9, l'indemnité de congé payé calculée dans les conditions
@@ -24,7 +24,7 @@ substitution qui constitue une charge normale de l'exercice au cours duquel le
 salarié prend le congé correspondant. Cette option ne peut pas être exercée par
 les entreprises créées après le 31 décembre 1986. Elle est exercée avant
 l'expiration du délai de dépôt de la déclaration des résultats du premier
-exercice clos à compter du 31 décembre 1987 (1).
+exercice clos à compter du 31 décembre 1987 (1').
 
 Pour les exercices clos avant le 31 décembre 1987, l'indemnité de congé payé
 calculée dans les conditions prévues aux articles L. 223-11 à L. 223-13 du code
@@ -51,6 +51,22 @@ et son montant dès l'origine, si cette fraction excède 10 p. 100 des sommes
 initialement mises à la disposition de l'emprunteur. Elles ne sont pas
 applicables aux emprunts convertibles et à ceux dont le remboursement est à la
 seule initiative de l'emprunteur.
+
+((1° quater. Sur option irrévocable et globale de l'émetteur pour une période de
+deux ans, les frais d'émission des emprunts répartis par fractions égales sur la
+durée des emprunts émis pendant cette période, ou sur justification de
+l'émetteur, sur une durée inférieure déterminée par l'incidence prévue de
+l'investissement correspondant sur l'exploitation.
+
+((En cas de remboursement anticipé d'un emprunt, de conversion ou d'échange, les
+frais d'émission non encore déduits sont admis en charge au prorata du capital
+remboursé, converti ou échangé.
+
+((Ces dispositions ne sont pas applicables aux emprunts dont le remboursement
+est à la seule initiative de l'emprunteur.
+
+((Un décret fixe les conditions d'application de ces dispositions, notamment en
+ce qui concerne les modalités d'option et les obligation déclaratives.)) (3').
 
 2° Sauf s'ils sont pratiqués par une copropriété de navires (3), une copropriété
 de cheval de course ou d'étalon, les amortissements réellement effectués par
@@ -217,6 +233,12 @@ ou de l'emprunteur, à la constitution d'une provision. De même le prêteur ne
 peut constituer de provision pour dépréciation de la créance représentative de
 ces titres ;
 
+((La dépréciation des valeurs, titres ou effets qui sont l'objet d'une pension
+dans les conditions prévues par la loi n° 93-1444 du 31 décembre 1993 portant
+diverses dispositions relatives à la banque de France, à l'assurance, au crédit
+et aux marchés financiers, ne peut donner lieu, de la part du cessionnaire, à la
+constitution d'une provision déductible sur le plan fiscal)) (9').
+
 Par exception aux dispositions du onzième alinéa qui précède, la provision
 éventuellement constituée par une entreprise en vue de faire face à la
 dépréciation d'une participation dans une filiale implantée à l'étranger n'est
@@ -280,23 +302,25 @@ l'exercice non professionnel de la pêche et, d'autre part, les charges, à
 l'exception de celles ayant un caractère social, résultant de l'achat, de la
 location ou de toute autre opération faite en vue d'obtenir la disposition de
 résidences de plaisance ou d'agrément, ainsi que de l'entretien de ces
-résidences.
+résidences ; ((les dépenses et charges ainsi définies comprennent notamment les
+amortissements)) (10').
 
 Sauf justifications, les dispositions du premier alinéa sont applicables :
 
 A l'amortissement des véhicules immatriculés dans la catégorie des voitures
-particulières pour la fraction de leur prix d'acquisition qui dépasse 65 000 F
-(11);
+particulières pour la fraction de leur prix d'acquisition qui dépasse ((100.000
+F)) (11) ;
 
 En cas d'opérations de crédit bail ou de location, à l'exception de locations de
 courte durée n'excédant pas trois mois non renouvelables, portant sur des
 voitures particulières, à la part du loyer supportée par le locataire et
 correspondant à l'amortissement pratiqué par le bailleur pour la fraction du
-prix d'acquisition du véhicule excédant 65 000 F (11) ;
+prix d'acquisition du véhicule excédant ((100.000 F)) (11) ;
 
 Aux dépenses de toute nature résultant de l'achat, de la location ou de toute
 autre opération faite en vue d'obtenir la disposition de yachts ou de bateaux de
-plaisance à voile ou à moteur ainsi que de leur entretien.
+plaisance à voile ou à moteur ainsi que de leur entretien ; ((les amortissements
+sont regardés comme faisant partie de ces dépenses)) (10').
 
 La fraction de l'amortissement des véhicules de tourisme exclue des charges
 déductibles par les limitations ci-dessus est néanmoins retenue pour la
@@ -339,7 +363,7 @@ l'entreprise.
 Lorsqu'elles augmentent dans une proportion supérieure à celle des bénéfices
 imposables ou que leur montant excède celui de ces bénéfices, l'administration
 peut demander à l'entreprise de justifier qu'elles sont nécessitées par sa
-gestion (12) (13).
+gestion (12).
 
 6. (Dispositions devenues sans objet).
 
@@ -350,7 +374,7 @@ du fait de la réduction d'impôt mentionnée à l'article 199 quater B.
 
 8. Si un fonds de commerce, un fonds artisanal ou l'un de leurs éléments
 incorporels non amortissables est loué dans les conditions prévues au 3° de
-l'article 1er de la loi n°66-455 du 2 juillet 1966 relative aux entreprises
+l'article 1er de la loi n° 66-455 du 2 juillet 1966 relative aux entreprises
 pratiquant le crédit-bail, la quote-part des loyers pris en compte pour la
 fixation du prix de vente convenu pour l'acceptation de la promesse unilatérale
 de vente n'est pas déductible pour l'assiette de l'impôt sur les bénéfices dû
@@ -358,7 +382,7 @@ par le locataire. Elle doit être indiquée distinctement dans le contrat de
 crédit-bail.
 
 Un décret fixe les modalités d'application de ces dispositions, notamment les
-obligations déclaratives (14).
+obligations déclaratives (13).
 
 9. L'indemnité de congé payé correspondant aux droits acquis durant la période
 neutralisée définie ci-après, calculée dans les conditions prévues aux articles
@@ -375,12 +399,17 @@ indemnités.
 
 Un décret fixe les modalités d'application du présent 9 (14).
 
-(1) L'option est formulée sur un imprimé conforme au modèle établi par
+(1) Instruction 1994-03-07 4C-4-94, contrat "homme-clé".
+
+(1') L'option est formulée sur un imprimé conforme au modèle établi par
 l'administration (Décret n° 87-1029 du 22 décembre 1987, art. 7, JO DU 24).
 
 (2) Annexe III, art. 49 octies à 49 octies D.
 
 (3) Voir art. 39 E et 61 A.
+
+(3') Modification de la loi 94-679. Art. 63 II : ces dispositions s'appliquent
+aux emprunts émis au cours des exercices ouverts à compter du 1er janvier 1994.
 
 (4) Annexe II, art. 15 et 229.
 
@@ -399,17 +428,19 @@ la clôture des mêmes exercices.
 
 (9) Annexe IV art. 2 à 4 septies.
 
+(9') Modification, édition 1994.
+
 (10) Cette disposition a un caractère interprétatif.
 
+(10') Modification de la loi 93-1353 art. 35 I ; voir aussi le II. Cf.
+Instruction 1994-03-07 4B-2-94.
+
 (11) Limite applicable aux véhicules dont la première mise en circulation est
-intervenue à compter du 1er janvier 1988. Cette limite était fixée à 50.000 F
-pour les véhicules acquis à l'état neuf à compter du 1er juillet 1985 ;
-antérieurement, elle était fixée à 35.000 F.
+intervenue à compter du 1er novembre 1993. Cf. Instruction 1994-02-04 4C-2-94.
 
-(12) Voir annexe II, art. 33 à 35.
+(12) Voir annexe II, art. 33 à 35 et également livre de procédures fiscales,
+art. L59 A 2°.
 
-(13) Voir également livre de procédures fiscales, art. L59 A 2°.
+(13) Annexe III, art. 38 quindecies E.
 
-(14) Annexe III, art. 38 quindecies E.
-
-(15) Annexe III, art. 49 octies à 49 octies D.
+(14) Annexe III, art. 49 octies à 49 octies D.

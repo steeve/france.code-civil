@@ -20,8 +20,8 @@ b. les prestations mentionnées aux 3°, 5° et 6° de l'article 259 A et à
 l'article 259 B du code général des impôts, pour lesquelles la taxe est due par
 le preneur en vertu du 2° de l'article 283 du même code.
 
-III. La suspension est autorisée, après avis du ministre du développement
-industriel et scientifique, par une décision du ministre de l'économie et des
-finances [*autorité compétente*], qui fixe les modalités et conditions
-conformément aux dispositions des articles 274 à 276 du code général des impôts
-et des textes pris pour leur application.
+((c) Les livraisons mentionnées au 2° du I de l'article 258 D du code général
+des impôts, pour lesquelles la taxe est due par le destinataire en application
+du 2 ter de l'article 283 du même code)) (1).
+
+(1) Modification du décret.

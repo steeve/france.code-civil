@@ -17,9 +17,13 @@ La remise spéciale ne peut pas dépasser un tiers de centime pour 1 F.
 Si les obligations ne sont pas apurées dans le délai fixé par le premier alinéa,
 le Trésor poursuit immédiatement, outre le recouvrement des droits garantis, le
 paiement des intérêts de ces droits calculés d'après le taux de l'intérêt légal,
-et ce à partir de l'expiration de ce délai.
+et ce à partir de l'expiration de ce délai (2).
 
-Le paiement du droit de garantie sur les ouvrages d'or, d'argent et de platine,
-visé à l'article 527, peut être effectué dans les mêmes conditions.
+Le paiement du droit ((spécifique sur les ouvrages d'or ou contenant de l'or,
+d'argent ou de platine)) (2') , visé à l'article 527, peut être effectué dans
+les mêmes conditions.
 
-1) Annexe IV, art. 194.
+(1) Annexe IV, art. 194.
+
+(2) Voir l'article 18 VI de la loi 94-1163 du 30 décembre 1994. (2')
+Modification de la loi.

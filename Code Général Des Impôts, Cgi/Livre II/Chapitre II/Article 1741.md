@@ -8,13 +8,12 @@ de faire sa déclaration dans les délais prescrits, soit qu'il ait volontaireme
 dissimulé une part des sommes sujettes à l'impôt, soit qu'il ait organisé son
 insolvabilité ou mis obstacle par d'autres manoeuvres au recouvrement de
 l'impôt, soit en agissant de toute autre manière frauduleuse, est passible,
-indépendamment des sanctions fiscales applicables, d'une amende de 5.000 F à
-250.000 F et d'un emprisonnement d'un an à cinq ans. Lorsque les faits ont été
-réalisés ou facilités au moyen soit d'achats ou de ventes sans facture, soit de
-factures ne se rapportant pas à des opérations réelles, ou qu'ils ont eu pour
-objet d'obtenir de l'Etat des remboursements injustifiés, leur auteur est
-passible d'une amende de 5.000 F à 500.000 F et d'un emprisonnement de deux à
-cinq ans. Les dispositions de l'article 463 du code pénal sont applicables.
+indépendamment des sanctions fiscales applicables, d'une ((amende de 250.000 F
+et d'un emprisonnement de cinq ans)) (M). Lorsque les faits ont été réalisés ou
+facilités au moyen soit d'achats ou de ventes sans facture, soit de factures ne
+se rapportant pas à des opérations réelles, ou qu'ils ont eu pour objet
+d'obtenir de l'Etat des remboursements injustifiés, leur auteur est passible
+d'une amende ((de 500.000 F et d'un emprisonnement de cinq ans)) (M).
 
 Toutefois, cette disposition n'est applicable, en cas de dissimulation, que si
 celle-ci excède le dixième de la somme imposable ou le chiffre de 1.000 F.
@@ -29,15 +28,13 @@ contribuables. Les frais de la publication et de l'affichage dont il s'agit sont
 intégralement à la charge du condamné.
 
 En cas de récidive dans le délai de cinq ans, le contribuable est puni d'une
-amende de 15.000 F à 700.000 F et d'un emprisonnement de quatre ans à dix ans et
-peut être privé en tout ou partie, pendant cinq ans au moins et dix ans au plus,
-des droits civiques énumérés par l'article 42 du code pénal. L'affichage et la
+amende de ((700.000 F et d'un emprisonnement de dix ans)) (M) et peut être privé
+en tout ou partie, pendant cinq ans au moins et dix ans au plus, des droits
+civiques énumérés par l'article 131-26 du code pénal. L'affichage et la
 publicité du jugement sont ordonnés dans les conditions prévues à l'alinéa
 précédent.
 
-L'article 463 du code pénal peut être appliqué, sauf en ce qui concerne les
-peines prévues au troisième alinéa et à la seconde phrase du quatrième alinéa du
-présent article.
-
 Les poursuites sont engagées dans les conditions prévues aux articles L 229 à L
 231 du livre des procédures fiscales.
+
+(M) Modifications des lois.

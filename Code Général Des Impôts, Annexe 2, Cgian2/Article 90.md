@@ -10,6 +10,6 @@ l'intéressé a bénéficié est reversé de plein droit à l'Etat, sans préjud
 l'application d'une majoration de 25 %.
 
 La cotisation correspondante, qui peut être établie malgré l'expiration du délai
-de reprise fixé par l'article L. 169 du livre des procédures fiscales, est
-exigible en totalité dès la mise en recouvrement du rôle sous les sanctions
-édictées par l'article 1761 dudit code.
+de reprise fixé par le premier alinéa de l'article L. 169 du livre des
+procédures fiscales, est exigible en totalité dès la mise en recouvrement du
+rôle sous les sanctions édictées par l'article 1761 dudit code.

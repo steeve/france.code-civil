@@ -21,8 +21,8 @@ bis.
 bénéficier des avantages fiscaux résultant des dispositions du dernier alinéa de
 l'article 62, des 2° quater et 2° quinquies de l'article 83, des articles 150 U,
 150 V, 163 quinquies A, 163 quinquies B, 163 septdecies, 199 undecies, 199
-terdecies et 199 terdecies A, du dernier alinéa de l'article 726 ainsi que du
-III ter de l'article 810 ne peuvent figurer dans le plan.
+terdecies et 199 terdecies A, du ((troisième alinéa de l'article 726)) (1) ainsi
+que du III ter de l'article 810 ne peuvent figurer dans le plan.
 
 3. Le titulaire du plan, son conjoint et leurs ascendants et descendants ne
 doivent pas, pendant la durée du plan, détenir ensemble, directement ou
@@ -41,3 +41,5 @@ figurant sur le plan ou tout rachat entraîne la clôture du plan.
 
 IV. Les avoirs fiscaux et crédits d'impôt attachés aux produits encaissés dans
 le cadre du plan sont restitués dans des conditions fixées par décret.
+
+(1) Modification de la loi.

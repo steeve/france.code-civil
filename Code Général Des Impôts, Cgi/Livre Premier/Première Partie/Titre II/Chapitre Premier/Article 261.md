@@ -24,9 +24,10 @@ celles qui déterminent l'arrêt de la filière ;
 définie par les articles L325-1 à L325-3 du code rural. Cette exonération pourra
 être étendue par décret en Conseil d'Etat aux départements d'outre-mer (2) ;
 
-4° Les opérations effectuées par les pêcheurs et armateurs à la pêche, en ce qui
-concerne la vente des produits de leur pêche (poissons, crustacés, coquillages
-frais ou conservés à l'état frais par un procédé frigorifique) ;
+4° Les opérations effectuées par les pêcheurs et armateurs à la pêche, ((à
+l'exception des pêcheurs en eau douce,)) (2') en ce qui concerne la vente des
+produits de leur pêche (poissons, crustacés, coquillages frais ou conservés à
+l'état frais par un procédé frigorifique) ;
 
 5° (Abrogé).
 
@@ -53,13 +54,16 @@ produits inférieur à 6.000.000 F ;
 
 4. (Professions libérales et activités diverses) :
 
-1° Les soins dispensés aux personnes par les membres des professions médicales
-et paramédicales ainsi que les travaux d'analyse de biologie médicale et les
+1° Les soins dispensés aux personnes par les membres ((des professions médicales
+et paramédicales réglementées, et par les psychologues, psychanalystes et
+psychothérapeutes titulaires d'un des diplômes requis, à la date de sa
+délivrance, pour être recruté comme psychologue dans la fonction publique
+hospitalière)) (3') ainsi que les travaux d'analyse de biologie médicale et les
 fournitures de prothèses dentaires par les dentistes et les prothésistes ,
 
-1° bis Les frais d'hospitalisation et de traitement dans les établissements de
-soins mentionnés à l'article 31 de la loi n° 70-1318 du 31 décembre 1970 portant
-réforme hospitalière.
+((1° bis Les frais d'hospitalisation et de traitement dans les établissements de
+santé privés titulaires de l'autorisation mentionnée à l'article L. 712-8 du
+code de la santé publique ;)) (3")
 
 2° Les livraisons, commissions, courtages et façons portant sur les organes, le
 sang et le lait humains ;
@@ -87,10 +91,16 @@ De l'enseignement et de la formation professionnelle agricoles réglementés par
 la loi n° 60-791 du 2 août 1960 relative à l'enseignement et la formation
 professionnelle agricole ;
 
-De la formation professionnelle continue assurée par les personnes morales de
-droit public, dans les conditions prévues par les articles L 900-1 et suivants
-du code du travail (livre IX) relatifs à la formation professionnelle continue
-dans le cadre de l'éducation permanente ;
+((De la formation professionnelle continue, telle qu'elle est définie par les
+dispositions législatives et réglementaires qui la régissent, assurée soit par
+des personnes morales de droit public, soit par des personnes de droit privé
+titulaires d'une attestation délivrée par l'autorité administrative compétente
+reconnaissant qu'elles remplissent les conditions fixées pour exercer leur
+activité dans le cadre de la formation professionnelle continue ; (3"')
+
+((Un décret en Conseil d'Etat fixe les conditions d'application de cette
+disposition, notamment pour ce qui concerne les conditions de délivrance et de
+validité de l'attestation)).
 
 De l'enseignement primaire, secondaire, supérieur ou technique à distance,
 dispensé par les organismes publics ou les organismes privés régis par la loi n°
@@ -286,9 +296,18 @@ dans les conditions et selon les modalités prévues par décret en Conseil d'Et
 
 (2) Voir décret n° 64-285 du 2 avril 1964 (J.O. du 4).
 
+(2') Art. 22 de la loi 93-1352.
+
 (3) Ces dispositions ne s'appliquent pas aux biens cédés à des personnes qui ont
 souscrit un contrat de crédit-bail ou de location avec option d'achat avant le 8
 septembre 1989.
+
+(3') Art. 21 de la loi 93-1353.
+
+(3") Art. 22 de la loi 93-1353. Cette disposition s'applique à compter de la
+date d'entrée en vigueur de l'article L. 712-8 du code de la santé publique.
+
+(3"') Art. 23 de la loi 93-1353. [*Cf Instruction 1995-07-28 3A-8-95.*]
 
 (4) Cf. décret n° 61-610 du 14 juin 1961 (J.O. du 15).
 

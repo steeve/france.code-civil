@@ -54,6 +54,10 @@ c) La variation des taux définis aux a et b est celle constatée l'année
 précédant celle au titre de laquelle la communauté de communes vote le taux de
 taxe professionnelle applicable dans la zone d'activités économiques.
 
+((2° bis En cas d'incorporation d'une commune ou partie de commune dans une zone
+d'activités économiques, les dispositions du III de l'article 1638 quater sont
+applicables)) (1) ;
+
 3° Les groupements de communes soumis aux dispositions du présent paragraphe
 bénéficient de la compensation prévue au IV bis de l'article 6 de la loi de
 finances pour 1987 (n° 86-1317 du 30 décembre 1986), modifié par l'article 46 de
@@ -86,3 +90,5 @@ III. Les dispositions de l'article 1609 nonies C sont applicables aux
 communautés de communes par délibération du conseil de communauté statuant à la
 majorité des trois quarts. Cette décision demeure applicable tant qu'elle n'a
 pas été rapportée dans les mêmes conditions.
+
+(1) Modification de la loi.

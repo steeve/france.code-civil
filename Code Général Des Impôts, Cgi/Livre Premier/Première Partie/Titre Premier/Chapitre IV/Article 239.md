@@ -16,13 +16,11 @@ mars 1991, même si elle s'effectue au-delà du troisième mois de l'exercice.
 
 Les dispositions du présent paragraphe ne sont pas applicables :
 
-aux sociétés immobilières de copropriété visées à l'article 1655 ter,
+Aux sociétés immobilières de copropriété visées à l'article 1655 ter,
 
-aux sociétés de personnes issues de la transformation antérieure de sociétés de
-capitaux.
-
-aux sociétés civiles mentionnées aux articles 238 ter, 239 ter, 239 quater A et
-239 septies (1).
+((Aux sociétés de personnes issues de la transformation de sociétés de capitaux
+intervenues depuis moins de quinze ans)) (1), Aux sociétés civiles mentionnées
+aux articles 238 ter, 239 ter, 239 quater A et 239 septies (2).
 
 2. (Disposition périmée).
 
@@ -33,5 +31,7 @@ leur option si elles sont formées entre personnes parentes en ligne directe ou
 entre frères et soeurs, ainsi que les conjoints. La renonciation ne peut être
 effectuée qu'avec l'accord de tous les associés.
 
-(1) Ces dispositions s'appliquent aux options exercées à compter du 18 novembre
+(1) Modification de la loi 93-1353. Cf. Instruction 1994-03-23 4H-4-94.
+
+(2) Ces dispositions s'appliquent aux options exercées à compter du 18 novembre
 1992.

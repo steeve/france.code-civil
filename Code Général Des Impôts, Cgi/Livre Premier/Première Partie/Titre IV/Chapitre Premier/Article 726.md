@@ -20,4 +20,10 @@ quater A. Lorsque le rachat a été soumis à l'accord du ministre chargé des
 finances, prévu à l'article 220 quater B, le bénéfice des présentes dispositions
 est subordonné à cet accord (1).
 
+((Les perceptions mentionnées au premier alinéa ne sont pas applicables aux
+cessions de droits sociaux résultant d'opérations de pensions régies par
+l'article 12 de la loi n° 93-1444 du 31 décembre 1993 portant diverses
+dispositions relatives à la Banque de France, à l'assurance, au crédit et aux
+marchés financiers.)) (Modification de la loi 93-1444).
+
 (1) Voir l'article 1740 quinquies.

@@ -17,26 +17,27 @@ assimilées aux huiles végétales alimentaires), lors de l'importation ;
 c) Pour les huiles qui font l'objet d'une acquisition intracommunautaire lors de
 l'acquisition.
 
-II Les taux de la taxe sont fixés comme suit :
+II ((Les taux de la taxe sont fixés comme suit :
 
-PAR KILOGRAMME (en francs) / PAR LITRE (en francs)
+((PAR KILOGRAMME (en francs) / PAR LITRE (en francs)
 
-Huile d'olive, 0,884, 0,796
+((Huile d'olive, 0,902, 0,812
 
-Huiles d'arachide et de maïs, 0,796, 0,725
+((Huiles d'arachide et de maïs, 0,812, 0,739
 
-Huiles de colza et de pépins de raisin, 0,408, 0,372
+((Huiles de colza et de pépins de raisin, 0,416, 0,379
 
-Autres huiles végétales fluides et huiles d'animaux marins dont le commerce et
-l'utilisation ne sont pas soumis aux règles internationales ou nationales
-relatives aux espèces protégées, 0,694, 0,606
+((Autres huiles végétales fluides et huiles d'animaux marins dont le ((commerce
+et l'utilisation ne sont pas soumis aux règles ((internationales ou nationales
+relatives aux espèces protégées, ((0,708, 0,618
 
-Huiles de coprah et de palmiste, 0,530, 0,606
+((Huiles de coprah et de palmiste, 0,541, 0,618
 
-Huile de palme, 0,485, 0,606
+((Huile de palme, 0,495, 0,618
 
-Huiles d'animaux marins dont le commerce et l'utilisation sont soumis aux règles
-internationales ou nationales relatives aux espèces protégées, 0,884, 0,606
+((Huiles d'animaux marins dont le commerce et l'utilisation sont ((soumis aux
+règles internationales ou nationales relatives aux ((espèces protégées, 0,902,
+0,618)) (Modification de la loi 93-1352).
 
 Pour les produits alimentaires importés ou qui font l'objet d'une acquisition
 intracommunautaire incorporant des huiles imposables, la taxation est effectuée

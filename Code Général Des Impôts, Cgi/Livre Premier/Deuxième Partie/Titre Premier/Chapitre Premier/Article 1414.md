@@ -28,4 +28,14 @@ III. Les bénéficiaires du revenu minimum d'insertion sont dégrevés d'office 
 la taxe d'habitation afférente à leur habitation principale lorsqu'ils occupent
 cette habitation dans les conditions prévues à l'article 1390.
 
+((IV. Les contribuables visés au 2° du I ci-dessus sont également dégrevés de la
+taxe d'habitation afférente à leur habitation principale lorsqu'ils occupent
+cette habitation avec leurs enfants majeurs lorsque ceux-ci sont inscrits comme
+demandeurs d'emploi et ne disposent pas de ressources supérieures au revenu
+minimum d'insertion)) (2).
+
 (1) Voir livre des procédures fiscales, art. L98.
+
+(2) Modification de la loi 93-1353.
+
+[*Cf. Instruction 1994-05-31 6D-2-94.*]

@@ -59,6 +59,10 @@ inférieur à 10 p. 100.
 du 1° ci-dessus, le taux de taxe professionnelle est fixé par le conseil de
 communauté dans les conditions prévues au II de l'article 1636 B decies.
 
+((3° En cas de rattachement d'une commune à un groupement faisant application du
+présent article, les dispositions des I et II de l'article 1638 quater sont
+applicables)) (1').
+
 III. 1° La communauté verse à chaque commune membre une attribution de
 compensation égale au produit de taxe professionnelle perçu par elle l'année
 précédant l'institution du taux de taxe professionnelle communautaire diminué du
@@ -111,71 +115,72 @@ commune ;
 - 10 p. 100 selon le nombre d'établissements soumis à la législation sur les
 installations classées implantées dans chaque commune.
 
-(( IV. Lorsqu'il est fait application à un groupement doté d'une fiscalité
-propre des dispositions du présent article, l'attribution de compensation
-versée, chaque année, par le groupement aux communes membres est égale à la
-différence constatée, l'année précédant celle de la première application de ces
+IV. Lorsqu'il est fait application à un groupement doté d'une fiscalité propre
+des dispositions du présent article, l'attribution de compensation versée,
+chaque année, par le groupement aux communes membres est égale à la différence
+constatée, l'année précédant celle de la première application de ces
 dispositions, entre :
 
-(( a) D'une part, le produit de la taxe professionnelle perçue par la commune ;
+a) D'une part, le produit de la taxe professionnelle perçue par la commune ;
 
-(( b) Et, d'autre part, le produit de la taxe d'habitation, de la taxe foncière
-sur les propriétés bâties et de la taxe foncière sur les propriétés non bâties
-perçu dans la commune au profit du groupement.
+b) Et, d'autre part, le produit de la taxe d'habitation, de la taxe foncière sur
+les propriétés bâties et de la taxe foncière sur les propriétés non bâties perçu
+dans la commune au profit du groupement.
 
-(( L'attribution de compensation ainsi déterminée est diminuée :
+L'attribution de compensation ainsi déterminée est diminuée :
 
-(( a) Du montant des compensations perçues par la commune, l'année précédant
-celle de la première application des dispositions de l'article 1609 nonies C, en
+a) Du montant des compensations perçues par la commune, l'année précédant celle
+de la première application des dispositions de l'article 1609 nonies C, en
 contrepartie des exonérations prévues aux articles 1390, 1391 et au I de
 l'article 1414 ;
 
-(( b) Du montant net des charges transférées, lorsque la décision du groupement
-de faire application des dispositions du présent article s'accompagne d'un
+b) Du montant net des charges transférées, lorsque la décision du groupement de
+faire application des dispositions du présent article s'accompagne d'un
 transfert de compétences ; ce montant est calculé dans les conditions définies
 au I.
 
-(( Lorsque l'attribution de compensation est négative, la commune est tenue
+Lorsque l'attribution de compensation est négative, la commune est tenue
 d'effectuer un versement à due concurrence à la communauté de communes.
 
-(( V. Pour les communes membres d'un groupement soumis aux dispositions du
-présent article, le taux à prendre en compte pour le calcul de la compensation
-visée au deuxième alinéa de l'article 21 de la loi de finances pour 1992 (n°
-91-1322 du 30 décembre 1991) est majoré du taux voté en 1991 par le groupement
-lorsqu'il s'agit d'un groupement ayant opté pour le régime fiscal prévu au
-présent article ou, lorsqu'il s'agit d'une communauté de villes, par le
-groupement dont celle-ci est issue ou auquel elle s'est substituée.
+V. Pour les communes membres d'un groupement soumis aux dispositions du présent
+article, le taux à prendre en compte pour le calcul de la compensation visée au
+deuxième alinéa de l'article 21 de la loi de finances pour 1992 (n° 91-1322 du
+30 décembre 1991) est majoré du taux voté en 1991 par le groupement lorsqu'il
+s'agit d'un groupement ayant opté pour le régime fiscal prévu au présent article
+ou, lorsqu'il s'agit d'une communauté de villes, par le groupement dont celle-ci
+est issue ou auquel elle s'est substituée.
 
-(( VI. 1. Les sommes versées aux communes en application du IV de l'article 6 de
-la loi de finances pour 1987 (n° 86-1317 du 30 décembre 1986), modifié par
-l'article 46 de la loi de finances pour 1992 (n° 91-1322 du 30 décembre 1991) et
+VI. 1. Les sommes versées aux communes en application du IV de l'article 6 de la
+loi de finances pour 1987 (n° 86-1317 du 30 décembre 1986), modifié par
+l'article 46 de la loi de finances pour 1992 (n° 91-1322 du 30 décembre 1991),
 l'article 124 de la loi n° 92-125 du 6 février 1992 d'orientation relative à
-l'administration territoriale de la République leur restent acquises
-lorsqu'elles deviennent membres d'une communauté de villes.
+l'administration territoriale de la République ((et l'article 54 de la loi de
+finances pour 1994 (n° 93-1352 du 30 décembre 1993) )) (1') leur restent
+acquises lorsqu'elles deviennent membres d'une communauté de villes.
 
-(( 2. Les groupements de communes soumis aux dispositions du prése article
+2. Les groupements de communes soumis aux dispositions du prése article
 bénéficient de la compensation prévue au IV bis de l'article 6 précité de la loi
 de finances pour 1987 au lieu et place de leurs communes membres.
 
-(( Pour le calcul de cette compensation :
+Pour le calcul de cette compensation :
 
-(( a) Le taux de taxe professionnelle à retenir est le taux moyen pondéré de
-taxe professionnelle constaté en 1986 dans l'ensemble des communes membres du
+a) Le taux de taxe professionnelle à retenir est le taux moyen pondéré de taxe
+professionnelle constaté en 1986 dans l'ensemble des communes membres du
 groupement ; ce taux est, le cas échéant, majoré du taux de taxe professionnelle
 voté en 1986 par le groupement lorsqu'il s'agit d'un groupement ayant opté pour
 l'application des dispositions du présent article ou, lorsqu'il s'agit d'une
 communauté de villes, par le groupement dont celle-ci est issue ou auquel elle
 s'est substituée ; ces taux sont multipliés par 0,960 ;
 
-(( b) Les recettes fiscales à retenir, la première année d'application des
+b) Les recettes fiscales à retenir, la première année d'application des
 dispositions du présent article, pour le calcul de la réfaction de 2 p. 100
 prévue au IV bis de l'article 6 précité, s'entendent du produit des rôles
 généraux de taxe professionnelle émis, l'année précédente, au profit des
 communes membres du groupement et, le cas échéant, au profit du groupement
 lorsqu'il s'agit d'un groupement ayant opté pour l'application des dispositions
 du présent article ou, lorsqu'il s'agit d'une communauté de villes, par le
-groupement dont celle-ci est issue ou auquel elle s'est substituée)) (2).
+groupement dont celle-ci est issue ou auquel elle s'est substituée.
 
 (1) Voir décret 93-220 du 16 février 1993, JO du 18).
 
-(2) Modifications de la loi.
+(1') Modifications de la loi.

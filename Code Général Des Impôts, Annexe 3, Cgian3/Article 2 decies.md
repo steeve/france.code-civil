@@ -10,8 +10,8 @@ deuxième trimestre de 1991 et le deuxième trimestre de l'année qui précède 
 de la signature du bail ;
 
 2° Les montants figurant à l'article 2 octies sont majorés de la variation de la
-limite supérieure de la 7e tranche du barème de l'impôt sur le revenu entre
-l'année 1990 et l'année qui précède celle de la signature du bail si le
+limite supérieure de la première tranche du barème de l'impôt sur le revenu
+entre l'année 1990 et l'année qui précède celle de la signature du bail si le
 locataire dispose de son avis d'imposition à cette date ou de l'avant-dernière
 année qui précède celle de la signature du bail dans le cas contraire ;
 

@@ -3,35 +3,36 @@ Article 570
 Selon les modalités fixées par voie réglementaire, tout fournisseur est soumis
 aux obligations suivantes :
 
-1° Livrer des tabacs aux seuls débitants désignés à l'article 568;
+1° Livrer des tabacs aux seuls débitants désignés à l'article 568 ;
 
 2° Conserver la propriété des tabacs depuis leur entrée ou leur fabrication en
-France jusqu'à leur vente au détail après consignation chez le débitant;
+France jusqu'à leur vente au détail après consignation chez le débitant ;
 
-3° Consentir à chaque débitant une remise dont le taux est fixé par arrêté (1).
-Cette remise comprend l'ensemble des avantages directs ou indirects qui lui sont
-alloués ;
+3° Consentir à chaque débitant une remise dont ((les taux sont fixés par arrêté
+pour la France continentale, d'une part, et pour les départements de Corse,
+d'autre part)) (1, 1'). Cette remise comprend l'ensemble des avantages directs
+ou indirects qui lui sont alloués ;
 
 4° Consentir à chaque débitant les crédits dans des conditions fixées par décret
 en Conseil d'Etat (2) ;
 
 5° Livrer les tabacs commandés par tout débitant quelle que soit la localisation
-géographique du débit;
+géographique du débit ;
 
 6° Utiliser pour chaque livraison à un débitant un document revêtu de la marque
 du monopole de vente au détail, conforme au modèle fixé par l'administration, et
-fournir périodiquement à celle-ci des relevés récapitulatifs des livraisons;
+fournir périodiquement à celle-ci des relevés récapitulatifs des livraisons ;
 
 7° Présenter à l'administration pour obtenir la mainlevée des tabacs importés,
 soit un titre de mouvement à destination d'un entrepôt, soit le document
-mentionné au 6° en cas d'expédition à un débitant;
+mentionné au 6° en cas d'expédition à un débitant ;
 
 8° Lorsque les tabacs transitent par des entrepôts autres que douaniers :
 
 - soumettre ces entrepôts au contrôle de l'administration ;
 
 - y tenir une comptabilité-matières qui doit être représentée à toute
-réquisition de l'administration;
+réquisition de l'administration ;
 
 - faire circuler les tabacs jusqu'au dernier entrepôt sous le couvert d'un titre
 de mouvement.
@@ -41,5 +42,7 @@ l'agrément, sans préjudice des dispositions contentieuses prévues en matière
 contributions indirectes.
 
 (1) Taux fixé à 8 % par arrêté du 21 septembre 1976 (JO du 9 octobre).
+
+(1') Modification de la loi.
 
 (2) Annexe II, art. 282.

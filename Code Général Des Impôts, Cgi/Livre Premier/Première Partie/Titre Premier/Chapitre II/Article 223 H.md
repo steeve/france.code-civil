@@ -28,4 +28,11 @@ le capital de la société distributrice.
 Les dispositions du premier alinéa s'appliquent aux dividendes mis en paiement
 par une société du groupe au cours du premier exercice dont le résultat n'est
 pas pris en compte dans le résultat d'ensemble, si cette distribution a lieu
-avant l'événement qui entraîne sa sortie du groupe.
+avant l'événement qui entraîne sa sortie du groupe. ((Elles s'appliquent
+également, lorsque intervient une opération visée au c du 6 de l'article 223 L,
+aux dividendes prélevés sur les résultats du groupe ayant cessé du fait de cette
+opération et distribués entre les sociétés du nouveau groupe pendant les deux
+premiers exercices ; il en est de même, dans la situation définie au d du 6 du
+même article, des dividendes prélevés sur les résultats du groupe ayant cessé et
+distribués entre les sociétés du nouveau groupe pendant le premier exercice.))
+(Modification de la loi 93-1352).

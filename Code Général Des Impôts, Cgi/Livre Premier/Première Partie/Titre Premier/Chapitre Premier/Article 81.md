@@ -11,15 +11,16 @@ b (Transféré sous l'article 80 ter-b) ;
 
 2° Les prestations familiales énumérées par l'article L. 511-1 du code de la
 sécurité sociale, l'aide à la famille pour l'emploi d'une assistante maternelle
-agréée et l'allocation de garde d'enfant à domicile visées respectivement aux
-articles L. 841-1 et L. 842-1 du même code, l'allocation de salaire unique,
-l'allocation de salaire unique, l'allocation de la mère au foyer et l'allocation
-pour frais de garde, maintenues dans le cadre des articles 12 et 13 de la loi n°
-77-765 du 12 juillet 1977 instituant le complément familial, l'allocation aux
-adultes handicapés, les suppléments de revenu familial prévus par la loi n°
-80-545 du 17 juillet 1980 portant diverses dispositions en vue d'améliorer la
-situation des familles nombreuses, et l'allocation pour dépenses de scolarité
-instituée par l'article 121 de la loi n° 92-1376 du 30 septembre 1992 ;
+agréée ((ainsi que la majoration de cette aide)) (M) et l'allocation de garde
+d'enfant à domicile visées respectivement aux articles L. 841-1 et L. 842-1 du
+même code, l'allocation de salaire unique, l'allocation de salaire unique,
+l'allocation de la mère au foyer et l'allocation pour frais de garde, maintenues
+dans le cadre des articles 12 et 13 de la loi n° 77-765 du 12 juillet 1977
+instituant le complément familial, l'allocation aux adultes handicapés, les
+suppléments de revenu familial prévus par la loi n° 80-545 du 17 juillet 1980
+portant diverses dispositions en vue d'améliorer la situation des familles
+nombreuses, et l'allocation pour dépenses de scolarité instituée par l'article
+121 de la loi n° 92-1376 du 30 septembre 1992 ;
 
 2° bis L'allocation de logement prévue par les articles L831-1 à L831-7 du code
 de la sécurité sociale, ainsi que le montant de l'aide personnalisée au logement
@@ -134,9 +135,9 @@ du 27 septembre 1967 et les textes pris pour son application (4) ;
 
 19° bis Le complément de rémunération résultant de la contribution de
 l'employeur à l'acquisition de chèques-vacances par les salariés, dans les
-conditions fixées par l'ordonnance n° 82-283 du 26 mars 1982 (5), dans la limite
-du salaire minimum interprofessionnel de croissance apprécié sur une base
-mensuelle ;
+conditions fixées par l'ordonnance n° 82-283 du 26 mars 1982, dans la limite du
+salaire minimum interprofessionnel de croissance apprécié sur une base mensuelle
+;
 
 20° Les attributions gratuites d'actions :
 
@@ -154,22 +155,20 @@ du 4 janvier 1973.
 21° (Abrogé).
 
 22° Les indemnités de départ en retraite, prévues au premier alinéa de l'article
-L122-14-13 du code du travail (6) dans la limite de 20 000 F.
+L122-14-13 du code du travail (5) dans la limite de 20 000 F.
 
 23° L'indemnité compensatoire pour frais de transport instituée par les décrets
 n°s 89-251 du 20 avril 1989, 89-372 du 8 juin 1989 et 89-537 du 3 août 1989.
 
+(M) Modification de la loi.
+
 (1) Voir décret n° 64-285 du 2 avril 1964 (J.O. du 4).
 
-(2) Chiffre applicable depuis le 1er janvier 1990 ; cette limite était
-antérieurement de 18 F.
+(2) Chiffre applicable à partir de l'imposition des revenus de 1993 ; cette
+limite était antérieurement de 21,50 F.
 
 (3) Annexe IV, art. 23 M.
 
 (4) Annexe II, art. 39.
 
-(5) Modifiée par l'article 31-II-1 de la loi n° 83-1179 du 29 décembre 1983.
-
-(6) Code du travail, art. L122-14-13.
-
-(+) En ce qui concerne la taxe sur les salaires, voir art. 231.
+(5) Code du travail, art. L122-14-13.

@@ -15,7 +15,9 @@ principale exercée) caractérisant l'activité de l'entreprise ou de
 l'établissement mentionné au second alinéa de l'article 5 dudit décret ;
 
 3° S'il y a lieu, l'intitulé de la convention collective de branche applicable
-au salarié ;
+au salarié ou, à défaut, la référence au code du travail pour les dispositions
+relatives à la durée des congés payés du salarié et à la durée des délais de
+préavis en cas de cessation de la relation de travail ;
 
 4° Le nom et l'emploi du salarié ainsi que sa position dans la classification
 conventionnelle qui lui est applicable ; la position du salarié est notamment

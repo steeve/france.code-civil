@@ -42,6 +42,22 @@ l'entreprise utilisatrice ou si l'acquéreur cesse son activité, les sommes
 déduites sont rapportées au résultat imposable de l'entreprise ayant opéré la
 déduction au titre de l'exercice au cours duquel cet événement se réalise.
 
+((Toutefois, la reprise de la déduction n'est pas effectuée lorsque les biens
+ayant ouvert droit à déduction sont transmis dans le cadre des opérations
+mentionnées aux articles 41, 151 octies, 210 A ou 210 B si le bénéficiaire de la
+transmission s'engage à maintenir l'exploitation des biens outre-mer dans le
+cadre d'une activité mentionnée au premier alinéa pendant la fraction du délai
+de conservation restant à courir.
+
+((L'engagement est pris dans l'acte constatant la transmission ou, à défaut,
+dans un acte sous seing privé ayant date certaine, établi à cette occasion.
+
+((En cas de non-respect de cet engagement, le bénéficiaire de la transmission
+doit rapporter à ses résultats imposables, au titre de l'exercice au cours
+duquel l'engagement cesse d'être respecté, une somme égale au montant de la
+déduction fiscale à laquelle les biens transmis ont ouvert droit.))
+(Modification art. 20 I A de la loi) (1').
+
 II. Les entreprises mentionnées au I peuvent, d'autre part, déduire de leur
 revenu imposable une somme égale au montant total des souscriptions au capital
 des sociétés de développement régional des départements d'outre-mer ou des
@@ -58,7 +74,15 @@ mentionnés ci-avant pendant les cinq ans qui suivent leur acquisition ou pendan
 leur durée normale d'utilisation si elle est inférieure. En cas de non-respect
 de cet engagement, les sommes déduites sont rapportées aux résultats imposables
 de l'entreprise ayant opéré la déduction au titre de l'exercice au cours duquel
-le non-respect de l'engagement est constaté.
+le non-respect de l'engagement est constaté ; ((ces dispositions ne sont pas
+applicables si les immobilisations en cause sont comprises dans un apport
+partiel d'actif réalisé sous le bénéfice de l'article 210 B ou si la société qui
+en est propriétaire fait l'objet d'une fusion placée sous le régime de l'article
+210 A, à la condition que la société bénéficiaire de l'apport, ou la société
+absorbante selon le cas, réponde aux conditions d'activité prévues au présent
+alinéa et reprenne, sous les mêmes conditions et sanctions, l'engagement
+mentionné à la phrase qui précède pour la fraction du délai restant à courir.))
+(Modification de la loi art. 20 I B) (1').
 
 Pour ouvrir droit à déduction, la constitution ou l'augmentation du capital des
 sociétés mentionnées à l'alinéa précédent et dont le montant est supérieur à 30
@@ -179,6 +203,27 @@ bénéfice des déductions prévues aux II et II bis , les sommes déduites sont
 rapportées [*réintégration*] au résultat imposable de l'année de cession, dans
 la limite, de la totalité du prix de cession.
 
+((Toutefois, ces dispositions ne sont pas applicables dans le cas où, dans le
+délai de cinq ans, l'entreprise propriétaire des titres ayant ouvert droit à la
+déduction prévue au II ou au II bis fait l'objet d'une transmission dans le
+cadre des dispositions prévues aux articles 41, 151 octies, 210 A ou 210 B si
+l'entreprise qui devient propriétaire des titres remplit les conditions
+nécessaires pour bénéficier de cette déduction et s'engage à conserver les
+titres pendant la fraction du délai de conservation restant à courir.
+L'engagement est pris dans l'acte constatant la transmission ou, à défaut, par
+acte sous seing privé ayant date certaine, établi à cette occasion.
+
+((En cas de non-respect de cet engagement, le bénéficiaire de la transmission
+doit rapporter à ses résultats imposables, au titre de l'exercice au cours
+duquel l'engagement cesse d'être respecté, une somme égale au montant de la
+déduction fiscale à laquelle les titres transmis ont ouvert droit, dans la
+limite de la totalité du prix de cession. Il en est de même dans le cas où les
+titres souscrits avec le bénéfice de la déduction prévue au II ou au II bis sont
+apportés ou échangés dans le cadre d'opérations soumises aux dispositions des
+articles 210 A ou 210 B, si l'entreprise conserve, sous les mêmes conditions et
+sanctions, les titres nouveaux qui se sont substitués aux titres d'origine.))
+(Modification art. 20 I C de la loi) (1').
+
 IV bis. La déduction opérée en application du I est limitée à 75 p. 100 du
 montant de l'investissement lorsqu'elle s'impute sur les résultats d'une
 entreprise non soumise à l'impôt sur les sociétés.
@@ -206,6 +251,9 @@ V. Les dispositions du présent article sont applicables jusqu'au 31 décembre
 Un décret précise, en tant que de besoin, les modalités de leur application (3).
 
 (1) Annexe III, art. 46 quaterdecies B et 46 quaterdecies BA.
+
+(1') Ces dispositions s'appliquent aux opérations intervenues à compter du 1er
+janvier 1994.
 
 (2) Annexe IV, art. 170 nonies.
 

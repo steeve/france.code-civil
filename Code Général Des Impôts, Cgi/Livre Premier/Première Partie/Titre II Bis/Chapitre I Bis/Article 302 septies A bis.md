@@ -28,8 +28,13 @@ entreprises mentionnées au III-b et au IV peuvent renoncer au bénéfice du
 présent article, ainsi que les conditions d'exercice de l'option prévue au
 III-a.
 
-VI (2) Il n'est pas exigé de bilan des entreprises soumises à l'impôt sur le
-revenu selon le régime d'imposition prévu au I, lorsque leur chiffre d'affaires
+
+VI
+
+Dispositions applicables aux exercices clos à compter du 1er janvier 1987.
+
+Il n'est pas exigé de bilan des entreprises soumises à l'impôt sur le revenu
+selon le régime d'imposition prévu au I, lorsque leur chiffre d'affaires
 n'excède pas 1 000 000 F s'il s'agit d'entreprises dont le commerce principal
 est de vendre des marchandises, objets, fournitures et denrées à emporter ou à
 consommer sur place, ou de fournir le logement, ou 300 000 F s'il s'agit
@@ -40,7 +45,24 @@ Ces montants sont calculés dans les conditions prévues à l'article 302 ter.
 Ces entreprises sont dispensées de présenter leur bilan lors des vérifications
 de comptabilité.
 
-(1) Voir également annexe II, art. 38, 38 bis, 267 septies A à 267 septies C ;
-annexe III, art. 38-III.
 
-(2) Dispositions applicables aux exrcices clos à compter du 1er janvier 1988.
+VI
+
+Dispositions applicables aux exercices ouverts à compter du 1er janvier 1996.
+
+Il n'est pas exigé de bilan des exploitants individuels et des sociétés visées à
+l'article 239 quater A soumis à l'impôt sur le revenu selon le régime
+d'imposition prévu au I, lorsque leur chiffre d'affaires n'excède pas 1 000 000
+F s'il s'agit d'entreprises dont le commerce principal est de vendre des
+marchandises, objets, fournitures et denrées à emporter ou à consommer sur
+place, ou de fournir le logement, ou 300 000 F s'il s'agit d'autres entreprises.
+
+Ces montants sont calculés dans les conditions prévues à l'article 302 ter.
+
+Ces entreprises sont dispensées de présenter leur bilan lors des vérifications
+de comptabilité (1').
+
+(1) Voir également annexe II, art. 38, 38 bis, 267 septies A à 267 septies C ;
+annexe III, art. 38 III.
+
+(1') [*Cf. Instruction 1996-08-20 4G-3-96.*]

@@ -89,7 +89,7 @@ imposables au taux de 18 p. 100. Les provisions pour dépréciation qui se
 rapportent aux mêmes éléments sont comprises dans les plus-values à long terme
 imposables au taux de 18 p. 100 lorsqu'elles deviennent sans objet.
 
-" Le régime des plus-values et moins-values à long terme cesse de s'appliquer au
+Le régime des plus-values et moins-values à long terme cesse de s'appliquer au
 résultat de la cession de titres du portefeuille réalisée à compter du 1er
 juillet 1991 à l'exclusion des parts ou actions de sociétés, autres que celles
 émises par des organismes de placement collectif en valeurs mobilières français
@@ -97,19 +97,26 @@ ou étrangers, des bons de souscription d'actions, des certificats
 d'investissement et des certificats coopératifs d'investissement et des parts de
 fonds commun de placement à risques qui remplissent les conditions prévues au 1°
 bis du II de l'article 163 quinquies B et qui sont détenues par l'entreprise
-depuis au moins cinq ans.
+depuis au moins cinq ans. ((Ce dernier délai est ramené à deux ans pour les
+fonds communs de placement à risques qui satisfont aux conditions posées par le
+quatrième alinéa du 1° de l'article 209-0 A ; toutefois, pour l'appréciation des
+conditions visées dans la phrase précédente, les actions, certificats
+d'investissement et certificats coopératifs d'investissement pris en compte
+s'entendent de ceux qui ne sont pas admis à la négociation sur un marché
+réglementé français ou étranger)) (1').
 
-" A compter de la même date, le régime des plus-values et moins-values à long
-terme cesse également de s'appliquer en ce qui concerne les titres de sociétés
-dont l'actif est constitué principalement par des titres exclus de ce régime en
-application de l'alinéa précédent ou dont l'activité consiste de manière
-prépondérante en la gestion des mêmes valeurs pour leur propre compte.
+((A compter de la date du 1er juillet 1991 visée au troisième alinéa, le régime
+le régime des plus-values et moins-values à long terme)) (M) cesse également de
+s'appliquer en ce qui concerne les titres de sociétés dont l'actif est constitué
+principalement par des titres exclus de ce régime en application de l'alinéa
+précédent ou dont l'activité consiste de manière prépondérante en la gestion des
+mêmes valeurs pour leur propre compte.
 
-" Les provisions pour dépréciation afférentes aux titres concernés par les
+Les provisions pour dépréciation afférentes aux titres concernés par les
 troisième et quatrième alinéas ci-dessus cessent d'être soumises au régime des
 plus et moins-values à long terme.
 
-" Les moins-values à long terme afférentes à des titres exclus du régime des
+Les moins-values à long terme afférentes à des titres exclus du régime des
 plus-values à long terme en application des troisième et quatrième alinéas
 ci-dessus, subies au cours d'un exercice clos à compter du 1er novembre 1990 et
 restant à reporter après compensation avec les plus-values à long terme relevant
@@ -118,7 +125,7 @@ comme une charge du premier exercice clos à compter du 1er octobre 1991 pour un
 fraction de leur montant égale au rapport qui existe entre le taux de 25 p. cent
 et le taux normal de l'impôt sur les sociétés.
 
-" Les moins-values à long terme afférentes à des éléments d'actif qui relevaient
+Les moins-values à long terme afférentes à des éléments d'actif qui relevaient
 du taux de 19 p. cent mentionné au a du I du présent article existant à
 l'ouverture du premier exercice clos à compter du 1er novembre 1990 et restant à
 reporter après compensation avec les plus-values relevant du taux de 18 p. cent
@@ -131,7 +138,7 @@ alinéas ci-dessus, corrigés des provisions sur titres déduites ou réintégr�
 dans les résultats, diminués, le cas échéant, de la déduction prévue à l'alinéa
 précédent.
 
-" L'excédent des moins-values à long terme subies au cours d'un exercice clos à
+L'excédent des moins-values à long terme subies au cours d'un exercice clos à
 compter du 1er octobre 1991 peut être déduit des bénéfices de l'exercice de
 liquidation d'une entreprise intervenue au cours des exercices ouverts à compter
 du 1er janvier 1991 à raison des dix-huit trente-quatrièmes de son montant. "
@@ -197,11 +204,12 @@ n'a pas été acquitté et le total des bénéfices distribués.
 Les dispositions de la dernière phrase de l'alinéa précédent s'appliquent
 également aux distributions payées en actions ou en parts sociales par les
 sociétés et coopératives autres que celles qui sont régies par la loi n° 66-537
-du 24 juillet 1966 sur les sociétés commerciales, conformément aux règles qui
-les régissent si ces distributions sont mises en paiement dans un délai fixé par
-l'assemblée compétente ; ce délai, qui ne peut être supérieur à trois mois à
-compter de la date de réunion de ladite assemblée, expire dans tous les cas au
-plus tard à la fin du neuvième mois qui suit la clôture de l'exercice concerné.
+du 24 juillet 1966 ((modifiée)) sur les sociétés commerciales, conformément aux
+règles qui les régissent si ces distributions sont mises en paiement dans un
+délai fixé par l'assemblée compétente ; ce délai, qui ne peut être supérieur à
+trois mois à compter de la date de réunion de ladite assemblée, expire dans tous
+les cas au plus tard à la fin du neuvième mois qui suit la clôture de l'exercice
+concerné.
 
 Pour les sociétés et coopératives à capital variable, si le montant moyen du
 capital déterminé à la clôture d'un exercice est inférieur au montant moyen du
@@ -219,8 +227,8 @@ janvier 1991 modifiant diverses dispositions intéressant l'agriculture et la
 forêt ne sont pas retenues pour l'application des dispositions du c dans les
 conditions et limites prévues pour les distributions payées en actions ou parts
 sociales par les sociétés ou coopératives à capital variable autres que celles
-qui sont régies par la loi n° 66-537 du 24 juillet 1966 sur les sociétés
-commerciales.
+qui sont régies par la loi n° 66-537 du 24 juillet 1966 ((modifiée)) sur les
+sociétés commerciales.
 
 d bis. Pour l'application du premier alinéa du d, les distributions exonérées du
 précompte mobilier en application du 8° du 3 de l'article 223 sexies sont
@@ -262,6 +270,11 @@ pour la société intéressée.
 exercices ouverts entre le 1er janvier 1989 et le 31 décembre 1989, à 42 % pour
 les exercices ouverts entre le 1er janvier 1988 et le 31 décembre 1988 et à 45 %
 pour les exercices ouverts entre le 1er janvier 1987 et le 31 décembre 1987.
+
+(1') Modification de la loi 93-1353 art. 40 ; [*cf. Instruction 1994-02-14
+4B-1-94.*]
+
+(M) Modifications, édition 1994.
 
 (2) Voir annexe III, art. 46 quater-0 ZY.
 

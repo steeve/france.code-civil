@@ -1,48 +1,48 @@
 Article 18
 ----
-Pour l'année 1992, les limites de chaque tranche du tarif de la retenue à la
+Pour l'année 1994, les limites de chaque tranche du tarif de la retenue à la
 source applicable aux traitements, salaires, pensions et rentes viagères servis
 à des personnes qui ne sont pas fiscalement domiciliées en France sont fixées
 comme suit :
 
 Taux applicable : 0 p.100
 
-LIMITES DES TRANCHES SELON LA PÉRIODE À LAQUELLE SE RAPPORTENT LES PAIEMENTS :
+Limites des tranches selon la période à laquelle se rapportent les paiements :
 
-Moins de : 55.500 F / Année
+Moins de : 58.150 F / Année
 
-13.875 F / Trimestre
+14.538 F / Trimestre
 
-4.625 F / Mois
+4.846 F / Mois
 
-1.068 F / Semaine
+1.119 F / Semaine
 
-178 F / Jour ou fraction de jour
+187 F / Jour ou fraction de jour
 
 Taux applicable : 15 p. 100
 
-LIMITES DES TRANCHES SELON LA PÉRIODE À LAQUELLE SE RAPPORTENT LES PAIEMENTS :
+Limites des tranches selon la période à laquelle se rapportent les paiements :
 
-De : 55.500 F à 161.070 F / Année
+De : 58.150 F à 168.730 F / Année
 
-De : 13.875 F à 401268 F / Trimestre
+De : 14.538 F à 42.183 F / Trimestre
 
-De : 4.625 F à 131423 F / Mois
+De : 4.846 F à 14.061 F / Mois
 
-De : 1.068 F à 3.098 F / Semaine
+De : 1.119 F à 3.245 F / Semaine
 
-De : 178 F à 517 F / Jour ou fraction de jour
+De : 187 F à 541 F / Jour ou fraction de jour
 
 Taux applicable : 25 p. 100
 
-LIMITES DES TRANCHES SELON LA PÉRIODE À LAQUELLE SE RAPPORTENT LES PAIEMENTS :
+Limites des tranches selon la période à laquelle se rapportent les paiements :
 
-Au-delà de : 161.070 F / Année
+Au-delà de : 168.730 F / Année
 
-40.268 F / Trimestre
+42.183 F / Trimestre
 
-13.423 F / Mois
+14.061 F / Mois
 
-3.098 F / Semaine
+3.245 F / Semaine
 
-517 F / Jour ou fraction de jour.
+541 F / Jour ou fraction de jour.

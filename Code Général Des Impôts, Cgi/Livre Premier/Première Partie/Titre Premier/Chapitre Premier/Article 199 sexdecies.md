@@ -10,7 +10,7 @@ ayant pour objet l'aide à domicile et habilité au titre de l'aide sociale ou
 conventionné par un organisme de sécurité sociale.
 
 La réduction d'impôt est égale à 50 p. 100 du montant des dépenses effectivement
-supportées, retenues dans la limite de 25 000 F.
+supportées, retenues dans la limite de (( 26.000 F )) (Modification de la loi).
 
 La réduction d'impôt est accordée sur présentation des pièces justifiant du
 paiement des salaires et des cotisations sociales, de l'identité du

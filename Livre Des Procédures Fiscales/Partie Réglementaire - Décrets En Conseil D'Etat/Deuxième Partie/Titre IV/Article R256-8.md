@@ -10,5 +10,5 @@ L'autorité administrative habilitée à signer et rendre exécutoires les avis 
 mise en recouvrement, mentionnée au deuxième alinéa de l'article L. 256, est le
 directeur des services fiscaux ou le directeur régional des douanes en ce qui
 concerne, pour ce dernier, le recouvrement des contributions indirectes, droits,
-taxes, redevances et impositions obéissant aux mêmes règles et du droit de
-garantie.
+taxes, redevances et impositions obéissant aux mêmes règles et droit spécifique
+prévu par l'article 527 du code général des impôts.

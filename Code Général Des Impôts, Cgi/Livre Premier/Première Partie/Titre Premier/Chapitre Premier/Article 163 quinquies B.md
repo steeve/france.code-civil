@@ -1,10 +1,10 @@
 Article 163 quinquies B
 ----
 I. Les personnes physiques qui prennent l'engagement de conserver, pendant cinq
-ans au moins [*durée minimale de détention*] à compter de leur souscription, des
-parts de fonds communs de placement à risques sont exonérées de l'impôt sur le
-revenu à raison des sommes ou valeurs auxquelles donnent droit les parts
-concernées au titre de cette même période.
+ans au moins à compter de leur souscription, des parts de fonds communs de
+placement à risques sont exonérées de l'impôt sur le revenu à raison des sommes
+ou valeurs auxquelles donnent droit les parts concernées au titre de cette même
+période.
 
 Cette disposition s'applique aux souscriptions de parts effectuées depuis le 1er
 janvier 1984.
@@ -49,14 +49,18 @@ III. Les sommes ou valeurs qui ont été exonérées d'impôt sur le revenu en v
 du I sont ajoutées au revenu imposable de l'année au cours de laquelle le fonds
 ou le contribuable cesse de remplir les conditions fixées aux I et II.
 
-Toutefois, l'exonération est maintenue en cas de cession des parts par le
-contribuable lorsque lui-même ou son conjoint se trouve dans l'un des cas prévus
-au troisième alinéa de l'article 199 quinquies B.
+((Toutefois, l'exonération est maintenue en cas de cession des parts par le
+contribuable lorsque lui-même ou l'un des époux soumis à une imposition commune
+se trouve dans l'un des cas suivants : invalidité correspondant au classement
+dans la deuxième ou troisième des catégories prévues à l'article L. 341-4 du
+code de la sécurité sociale, décès, départ à la retraite ou licenciement)) (M).
 
 IV. Un décret fixe les obligations incombant aux porteurs de parts ainsi qu'aux
 gérants et dépositaires des fonds mentionnés au titre II bis de la loi n° 79-594
 du 13 juillet 1979 complétée par la loi n° 83-1 du 3 janvier 1983, art. 23 et de
-ceux remplissant les conditions prévues au II 2 °.
+ceux remplissant les conditions prévues au II 2°.
+
+(M) Modification, édition 1994.
 
 (1) Annexe III, art. 41 W à 41 X. Voir également Annexe III, art. 39 quater, 39
 quinquies, 41 sexdecies G, 280 A et livre des procédures fiscales, art. R 87-1.

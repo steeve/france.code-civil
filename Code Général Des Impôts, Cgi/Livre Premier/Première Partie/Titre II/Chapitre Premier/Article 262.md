@@ -26,8 +26,8 @@ II. Sont également exonérés de la taxe sur la valeur ajoutée :
 1° Les prestations de services consistant en travaux portant sur des biens
 meubles acquis ou importés en vue de faire l'objet de ces travaux et expédiés ou
 transportés en dehors du territoire des Etats membres de la Communauté
-économique européenne par le prestataire de services ou par le preneur établi en
-dehors de ce territoire ou pour leur compte ;
+économique européenne par le prestataire de services ou par le preneur établi
+((hors de France)) (1') ou pour leur compte ;
 
 2° Les opérations de livraison, de réparation, de transformation, d'entretien,
 d'affrètement et de location portant sur :
@@ -103,12 +103,15 @@ d'une des situations définies auxdits a et b (6) ;
 en exonération totale des droits à l'importation ou sous l'une des procédures du
 transit externe ou transit communautaire interne avec maintien de ce régime ou
 de ces procédures, ainsi que les prestations de services afférentes à ces
-livraisons (65) ;
+livraisons (6) ;
 
 14° Les prestations de services se rapportant à l'importation de biens et dont
 la valeur est comprise dans la base d'imposition de l'importation.
 
 (1) Annexe III, art. 73 G, 73 H et 74.
+
+(1') Modification de la loi 93-1353, dispositions applicables à compter du 1er
+janvier 1993.
 
 (2) Annexe IV, art. 42 à 46.
 

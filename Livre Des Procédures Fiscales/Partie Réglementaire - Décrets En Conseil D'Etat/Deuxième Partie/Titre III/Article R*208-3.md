@@ -12,8 +12,8 @@ recouvrés par les comptables de la direction générale des impôts ;
 
 c) Au directeur régional des douanes et droits indirects, s'il s'agit de
 contributions indirectes, droits, taxes, redevances, impositions assimilées et
-de droit de garantie recouvrés par les comptables de la direction générale des
-douanes et droits indirects.
+du droit spécifique prévu par l'article 527 du code général des impôts recouvrés
+par les comptables de la direction générale des douanes et droits indirects.
 
 La demande, appuyée de toutes justifications utiles, doit être formulée dans le
 délai d'un an à compter de la notification de la décision soit du directeur ou

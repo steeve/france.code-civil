@@ -65,6 +65,13 @@ limite de la réduction obtenue.
 Toutefois, la reprise d'impôt n'est pas pratiquée lorsque le remboursement fait
 suite à un sinistre survenu après que les dépenses ont été payées.
 
+(( d) La condition d'ancienneté des immeubles n'est pas exigée lorsque ceux-ci
+sont situés dans une zone classée en état de catastrophe naturelle et que les
+dépenses sont effectuées dans l'année qui suit la date de constatation de cet
+état par arrêté ministériel, par un contribuable qui a déposé un dossier
+d'indemnisation auprès de la préfecture ou d'un organisme régi par le code des
+assurances.)) (Modification de la loi 93-1352).
+
 (1) Ces dispositions s'appliquent aux dépenses payées à compter du 1er janvier
 1993.
 

@@ -21,6 +21,11 @@ II. Le vendeur est exonéré de la taxe si la vente est faite à un musée natio
 la Bibliothèque nationale, à une autre bibliothèque de l'Etat ou à une
 bibliothèque d'une autre collectivité publique.
 
+((Il en est de même si la vente est faite à un service d'archives de l'Etat,
+d'une collectivité locale ou d'une autre collectivité publique. Cette
+disposition s'applique aux ventes réalisées à compter du 15 octobre 1993.))
+(Modification de la loi 93-1352).
+
 La vente par enchères publiques des objets désignés au deuxième alinéa du I est
 exonérée du paiement de la taxe lorsque leur propriétaire n'a pas en France son
 domicile fiscal.

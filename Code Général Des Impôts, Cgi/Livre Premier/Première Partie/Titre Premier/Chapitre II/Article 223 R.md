@@ -22,3 +22,8 @@ sur dividendes sont réputés provenir des résultats de l'exercice au cours duq
 ces acomptes ont été versés ; les résultats comptables sont retenus en
 proportion de la participation détenue par la société dans le capital de la
 société distributrice.
+
+((Lorsqu'un groupe bénéficie des dispositions prévues au 5 de l'article 223-I,
+la partie du déficit afférente à une société, calculée dans les conditions
+prévues audit 5 et qui demeure reportable, ne peut plus être imputée si cette
+société sort du groupe.)) (Modification de la loi 93-1532).

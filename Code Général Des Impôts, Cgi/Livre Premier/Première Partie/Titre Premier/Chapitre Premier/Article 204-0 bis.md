@@ -28,8 +28,26 @@ proportions que l'indemnité de fonctions (1).
 II. En cas de cumul de mandats, un seul comptable du Trésor est chargé de la
 retenue libératoire.
 
-III. Lorsqu'un élu local cesse toute activité professionnelle, par dérogation au
-I, il peut opter pour une imposition de son indemnité de fonctions à l'impôt sur
-le revenu suivant les règles applicables aux traitements et salaires.
+((III. Tout élu local peut opter pour l'imposition de ses indemnités de fonction
+à l'impôt sur le revenu suivant les règles applicables aux traitements et
+salaires, dans les conditions suivantes :
+
+((1° Lorsque les indemnités de fonction ont été soumises au titre d'une année à
+la retenue à la source mentionnée au I, l'option est effectuée à l'occasion du
+dépôt de la déclaration d'ensemble des revenus perçus au titre de la même année.
+La retenue à la source s'impute sur l'impôt sur le revenu dû au titre de l'année
+au cours de laquelle elle a été opérée ; l'excédent éventuel est remboursé.
+
+((Cette disposition s'applique aux indemnités de fonction perçues à compter du
+1er janvier 1993.
+
+((2° L'option peut être exercée avant le 1er janvier de l'année au titre de
+laquelle l'impôt sur le revenu est établi. Elle s'applique tant qu'elle n'a pas
+été expressément dénoncée dans les mêmes conditions. Les modalités
+d'application, et notamment les obligations déclaratives, sont fixées par
+décret.
+
+((Cette disposition s'applique aux indemnités de fonction perçues à compter du
+1er janvier 1994.)) (Modification de la loi 93-1352).
 
 (1) Ces dispositions s'appliquent à compter du 1er janvier 1993.

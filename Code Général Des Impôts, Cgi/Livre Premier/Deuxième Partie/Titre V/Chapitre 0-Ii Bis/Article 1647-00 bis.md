@@ -26,4 +26,12 @@ l'article 1er de la loi n° 57-1260 du 12 décembre 1957.
 Ces dégrèvements sont à la charge des collectivités territoriales et de leurs
 groupements. Ils s'imputent sur les attributions mentionnées à l'article 34 de
 la loi n° 77-774 du 7 juin 1977 portant diverses dispositions d'ordre économique
-et financier.
+et financier. ((Les délibérations prises par les collectivités locales et leurs
+groupements dotés d'une fiscalité propre pour l'application des dispositions
+ci-dessus s'appliquent également, à compter de 1995, et dans les mêmes
+conditions, aux jeunes agriculteurs qui s'installent à compter du 1er janvier
+1994 et qui bénéficient des prêts à moyen terme spéciaux prévus par le décret n°
+88-176 du 23 février 1988 relatif aux aides à l'installation des jeunes
+agriculteurs.)) (Modification de la loi 93-1352 art. 31) (1).
+
+(1) : cf. Instruction 1994-04-12 6B-1-94.

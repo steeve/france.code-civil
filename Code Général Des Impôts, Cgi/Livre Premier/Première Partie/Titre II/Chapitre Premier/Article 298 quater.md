@@ -12,49 +12,39 @@ ou du transport des produits agricoles ;
 
 c) Des exportations de produits agricoles.
 
-I bis. A partir du 1er janvier 1969 et jusqu'à la date à laquelle les taux de la
-taxe sur la valeur ajoutée seraient modifiés, le taux du remboursement
-forfaitaire est fixé, sous réserve des dispositions du I ter :
+((I bis. Le taux du remboursement forfaitaire est fixé pour les ventes faites à
+compter du 1er janvier 1993 :
 
-1° A 3,65 % pour les ventes d'oeufs, de lait et d'animaux de basse-cour ;
+((1° A 4 p. 100 pour le lait, les animaux de basse-cour, les oeufs, les animaux
+de boucherie et de charcuterie définis par décret, ainsi que les céréales, les
+oléagineux et les protéagineux désignés à l'annexe I du règlement (C.E.E.) n°
+1765-92 du 30 juin 1992 du Conseil de la Communauté européenne instituant un
+régime de soutien aux producteurs de certaines cultures arables ;
 
-2° A 3,75 % pour les ventes faites à compter du 1er janvier 1990 d'animaux de
-boucherie et de charcuterie définis par décret (1) ;
+((2° A 3,05 p. 100 pour les autres produits)) (M).
 
-3° A 2,55 % pour les ventes d'autres produits.
-
-I ter. 1. Lorsque les produits sont commercialisés par l'intermédiaire de
-groupements de producteurs constitués pour la réalisation des objectifs définis
-par la loi d'orientation agricole n° 60-808 du 5 août 1960, les taux prévus au I
-bis sont portés à :
-
-1° 4,85 % pour les ventes d'oeufs, d'animaux de basse-cour et de porcs faites du
-1er janvier 1986 au 31 décembre 1992 ;
-
-2° 3,05 % Pour les ventes de vins, de fruits et légumes, de produits de
-l'horticulture et des pépinières faites du 1er janvier 1986 au 31 décembre 1992
-;
+I ter. ((1. Périmé))
 
 2. (Abrogé à compter du 1er janvier 1993) ;
 
-II. Des décrets en Conseil d'Etat (2) fixent, en tant que de besoin, les
-conditions d'application des I à I ter, notamment les justifications à fournir
-par les bénéficiaires du remboursement forfaitaire, ainsi que les bases de
-calcul dudit remboursement dans le cas d'exportation ou de livraisons
+II. Des décrets en Conseil d'Etat (1) fixent, en tant que de besoin, les
+conditions d'application des ((I et I bis)) (M), notamment les justifications à
+fournir par les bénéficiaires du remboursement forfaitaire, ainsi que les bases
+de calcul dudit remboursement dans le cas d'exportation ou de livraisons
 intracommunautaires d'animaux vivants.
 
 III. La déclaration déposée en vue d'obtenir le bénéfice du remboursement
-forfaitaire (3) est recevable jusqu'au 31 décembre de l'année suivant celle au
+forfaitaire (2) est recevable jusqu'au 31 décembre de l'année suivant celle au
 cours de laquelle le droit au remboursement forfaitaire est né.
 
 IV. Les justifications exigées pour l'octroi du remboursement forfaitaire
 peuvent être modifiées, pour certains secteurs de la production agricole, par
-décret (4) pris après avis des organisations professionnelles agricoles.
+décret (3) pris après avis des organisations professionnelles agricoles.
 
-(1) Annexe III, art. 65 A.
+(M) Modification de la loi 93-1352.
 
-(2) Annexe II, art. 263 à 267 bis.
+(1) Annexe II, art. 263 à 267 bis.
 
-(3) Voir Annexe II, art. 266.
+(2) Voir Annexe II, art. 266.
 
-(4) Voir Annexe III, art. 98 bis.
+(3) Voir Annexe III, art. 98 bis.

@@ -39,6 +39,15 @@ Toutefois, l'option produit immédiatement effet, pour les exercices ouverts au
 cours des six premiers mois de l'année 1988, si elle est formulée avant le 1er
 juillet 1988. L'option est valable pour cinq exercices.
 
+((Sous réserve des dispositions prévues aux c et d du 6 de l'article 223 L, la
+société mère notifie, avant la clôture de chacun des exercices arrêtés au cours
+de la période de validité de l'option, la liste des sociétés membres du groupe à
+compter de l'exercice suivant. A défaut, le résultat d'ensemble est déterminé à
+partir du résultat des sociétés mentionnées sur la dernière liste notifiée au
+service dans le délai indiqué à la phrase qui précède si ces sociétés continuent
+à remplir les conditions prévues à la présente section.)) (Modification de la
+loi 93-1352).
+
 Chaque société du groupe est tenue solidairement au paiement de l'impôt sur les
 sociétés, de l'imposition forfaitaire annuelle et du précompte et, le cas
 échéant, des intérêts de retard, majorations et amendes fiscales

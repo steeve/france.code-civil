@@ -81,21 +81,54 @@ construire lorsqu'elle est supérieure ;
 b) Est subordonnée à la condition que l'acquisition nouvelle soit effectuée
 moins de deux ans après l'achèvement de la construction (2).
 
-8° Les prélèvements, utilisations, affectations de biens achetés, importés,
-extraits, fabriqués ou transformés par les assujettis ainsi que les prestations
-de services qu'ils effectuent lorsque ces opérations sont faites pour des
-besoins autres que ceux de l'entreprise et, notamment pour les besoins de ses
-dirigeants, de son personnel ou de tiers, pour les besoins d'une activité non
-imposable ou pour les besoins d'une activité imposable si le droit à déduction
-de la taxe afférente au bien ou au service peut faire l'objet d'une exclusion,
-d'une limitation ou d'une régularisation. Toutefois, ne sont pas visés les
-prélèvements effectués pour les besoins de l'entreprise afin de donner des
-cadeaux de faible valeur et des échantillons. Le montant à retenir pour mettre
-en oeuvre la présente disposition est fixé par arrêté . Cette limite s'applique
-par objet et par an pour un même bénéficiaire (3).
+((8° Les opérations suivantes assimilées, selon le cas, à des livraisons de
+biens ou à des prestations de services effectuées à titre onéreux.
 
-Un décret en Conseil d'Etat (4) définit les opérations désignées ci-dessus ainsi
-que le moment où la taxe devient exigible;
+((1. Sont assimilés à des livraisons de biens effectuées à titre onéreux :
+
+((a) Le prélèvement par un assujetti d'un bien de son entreprise pour ses
+besoins privés ou ceux de son personnel ou qu'il transmet à titre gratuit ou,
+plus généralement, qu'il affecte à des fins étrangères à son entreprise, lorsque
+ce bien ou les éléments le composant ont ouvert droit à une déduction complète
+ou partielle de la taxe sur la valeur ajoutée. Toutefois, ne sont pas visés les
+prélèvements effectués pour les besoins de l'entreprise pour donner des cadeaux
+de faible valeur et des échantillons. Le montant à retenir pour l'imposition de
+ces prélèvements est fixé par arrêté. Cette limite s'applique par objet et par
+an pour un même bénéficiaire ;
+
+((b) L'affectation par un assujetti aux besoins de son entreprise d'un bien
+produit, construit, extrait, transformé, acheté, importé ou ayant fait l'objet
+d'une acquisition intracommunautaire dans le cadre de son entreprise lorsque
+l'acquisition d'un tel bien auprès d'un autre assujetti, réputée faite au moment
+de l'affectation, ne lui ouvrirait pas droit à déduction complète parce que le
+droit à déduction de la taxe afférente au bien fait l'objet d'une exclusion ou
+d'une limitation ou peut faire l'objet d'une régularisation ; cette disposition
+s'applique notamment en cas d'affectation de biens à des opérations situées hors
+du champ d'application de la taxe sur la valeur ajoutée ;
+
+((c) L'affectation d'un bien par un assujetti à un secteur d'activité exonéré
+n'ouvrant pas droit à déduction, lorsque ce bien a ouvert droit à une déduction
+complète ou partielle de la taxe sur la valeur ajoutée lors de son acquisition
+ou de son affectation conformément au b ;
+
+((d) La détention de biens par un assujetti ou par ses ayants droit en cas de
+cessation de son activité économique taxable, lorsque ces biens ont ouvert droit
+à déduction complète ou partielle lors de leur acquisition ou de leur
+affectation conformément au b.
+
+((2. Sont assimilées à des prestations de services effectuées à titre onéreux :
+
+((a) L'utilisation d'un bien affecté à l'entreprise pour les besoins privés de
+l'assujetti ou pour ceux de son personnel ou, plus généralement, à des fins
+étrangères à son entreprise, lorsque ce bien a ouvert droit à une déduction
+complète ou partielle de la taxe sur la valeur ajoutée ;
+
+((b) Les prestations de services à titre gratuit effectuées par l'assujetti pour
+ses besoins privés ou pour ceux de son personnel ou, plus généralement, à des
+fins étrangères à son entreprise.)) (3)
+
+3. Un décret en Conseil d'Etat (4) définit les opérations désignée ci-dessus
+ainsi que le moment où la taxe devient exigible;
 
 9° Les livraisons qu'un non-assujetti à la taxe sur la valeur ajoutée se fait à
 lui-même et qui portent sur les viandes des animaux de boucherie et de
@@ -146,11 +179,9 @@ propriétaires.
 
 (2) Voir Annexe II, art. 255.
 
-(3) Voir Annexe IV, art. 23 N.
+(3) Modifications de la loi 93-1353.
 
-Arrêté 1993-01-26 art. 1er : "La limite visée au premier alinéa du 8° de
-l'article 257 du CGI est fixée à 200 F toutes taxes comprises". (4) Annexe II,
-art. 173 à 175.
+(4) Voir Annexe IV, art. 23 N.
 
 (5) Annexe III, art. 65 A.
 

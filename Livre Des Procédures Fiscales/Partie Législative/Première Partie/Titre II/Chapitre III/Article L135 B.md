@@ -21,7 +21,7 @@ locales.
 
 Les informations transmises aux collectivités locales et à leurs groupements
 dotés d'une fiscalité propre sont couvertes par le secret professionnel, et
-soumises aux dispositions de la loi n° 78-17 du 6 janvier 1978 relative à
-l'informatique, aux fichiers et aux libertés. Leur utilisation respecte les
+soumises aux dispositions de la loi n° 78-17 du 6 janvier 1978 modifiée relative
+à l'informatique, aux fichiers et aux libertés. Leur utilisation respecte les
 obligations de discrétion et de sécurité selon des modalités définies par un
 décret en Conseil d'Etat.

@@ -1,11 +1,13 @@
 Article 575 M
 ----
 En ce qui concerne les tabacs manufacturés importés dans les départements de
-France continentale, les infractions aux dispositions de l'article 571 et des
-articles 575 à 575 D sont recherchées, constatées, poursuivies et réprimées
-comme en matière de douane (1).
+France métropolitaine, les infractions aux dispositions des articles 571,575 à
+575 D et 575 E bis son recherchées, constatées, poursuivies et réprimées comme
+en matière de douane (1).
 
-Les infractions aux articles 575 E et 575 E bis sont recherchées, constatées,
-poursuivies et réprimées comme en matière de douane.
+Les infractions à l'article 575 E sont recherchées, constatées, poursuivies et
+réprimées comme en matière de douane.
 
-(1) Voir art. 1793 A.
+(1) Modifications de la loi.
+
+(2) Voir art. 1793 A.

@@ -2,26 +2,17 @@ Article 885 U
 ----
 Le tarif de l'impôt est fixé à :
 
-Fraction de la valeur nette taxable du patrimoine :
+FRACTION DE LA VALEUR nette taxable du patrimoine / TARIF APPLICABLE (en
+pourcentage)
 
-N'excédant pas 4.390.000 F , Tarif applicable (en % ) 0.
+N'excédant pas 4 470 000 F : 0
 
-Fraction de la valeur nette taxable du patrimoine :
+Comprise entre 4 470 000 F et 7 270 000 F : 0,5
 
-Comprise entre 4.390.000 F et 7.130.000 F, tarif applicable : 0,5.
+Comprise entre 7 270 000 F et 14 420 000 F : 0,7
 
-Fraction de la valeur nette taxable du patrimoine :
+Comprise entre 14 420 000 F et 22 380 000 F : 0,9
 
-Comprise entre 7.130.000 F et 14.150.000 F, tarif applicable : 0,7.
+Comprise entre 22 380 000 F et 43 330 000 F : 1,2
 
-Fraction de la valeur nette taxable du patrimoine :
-
-Comprise entre 14.150.000 F et 21.960.000 F, tarif applicable : 0,9.
-
-Fraction de la valeur nette taxable du patrimoine :
-
-Comprise entre 21.960.000 F et 42.520.000 F, tarif applicable : 1,2.
-
-Fraction de la valeur nette taxable du patrimoine :
-
-Supérieure à 42.520.000 F : 1,5.
+Supérieure à 43 330 000 F : 1,5.

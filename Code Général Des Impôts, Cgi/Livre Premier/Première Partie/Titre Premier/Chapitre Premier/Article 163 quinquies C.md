@@ -31,12 +31,16 @@ Les sommes qui ont été exonérées d'impôt sur le revenu sont ajoutées au re
 imposable de l'année au cours de laquelle la société ou le contribuable cesse de
 remplir les conditions fixées au précédent alinéa.
 
-Toutefois, l'exonération est maintenue en cas de cession des actions par le
-contribuable lorsque lui-même ou son conjoint se trouve dans l'un des cas prévus
-au troisième alinéa de l'article 199 quinquies B.
+((Toutefois, l'exonération est maintenue en cas de cession des actions par le
+contribuable lorsque lui-même ou l'un des époux soumis à une imposition commune
+se trouve dans l'un des cas suivants : invalidité correspondant au classement
+dans la deuxième ou troisième des catégories prévues à l'article L. 341-4 du
+code de la sécurité sociale, décès, départ à la retraite ou licenciement.)) (M)
 
 Les dispositions du présent article sont applicables lorsque les plus-values ou
 les revenus distribués ont été réalisés au cours de l'exercice au titre duquel
 la distribution est effectuée ou des trois exercices précédents.
 
 (1) Annexe II, art. 60 A.
+
+(M) Modification.

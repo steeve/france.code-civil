@@ -4,10 +4,10 @@ Les personnes autorisées à frapper des médailles munies ou non de belière so
 tenues d'apposer sur celles-ci leur poinçon de maître. Ce poinçon a, suivant le
 cas, l'une des formes indiquées ci-après :
 
-Losange, pour les médailles en platine, or ou argent;
+Losange, pour les médailles en platine, or ou contenant de l'or ou argent ;
 
 Carré parfait pour les médailles en métal commun doublé ou plaqué d'or ou
-d'argent ou bien en métal commun doré ou argenté;
+d'argent ou bien en métal commun doré ou argenté ;
 
 Triangle pour les médailles en métal commun.
 

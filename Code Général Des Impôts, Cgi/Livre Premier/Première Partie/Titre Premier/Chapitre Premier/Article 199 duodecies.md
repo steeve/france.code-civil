@@ -28,9 +28,7 @@ activités ;
 " 4° Les souscriptions donnant lieu aux déductions prévues au dernier alinéa de
 l'article 62, au 2° quater de l'article 83, aux articles 163 quindecies et 163
 septdecies ou aux réductions d'impôt prévues aux articles 199 quinquies et 199
-undecies ne peuvent ouvrir droit à la réduction d'impôt mentionnée au I. Cette
-réduction d'impôt est exclusive du bénéfice des dispositions de l'article 163
-octodecies.
+undecies ne peuvent ouvrir droit à la réduction d'impôt mentionnée au I.
 
 III. La réduction d'impôt s'applique sur l'impôt calculé dans les conditions
 fixées par l'article 197 avant l'application, le cas échéant, du VI de cet

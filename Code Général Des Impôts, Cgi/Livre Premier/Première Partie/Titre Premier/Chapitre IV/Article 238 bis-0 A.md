@@ -8,10 +8,10 @@ des documents de haute valeur artistique ou historique, dont l'offre de donation
 suivantes :
 
 1. L'entreprise s'engage à remettre le bien à l'Etat dans un délai maximum de
-dix ans à compter [*computation*] de l'acceptation définitive de cette offre par
-l'Etat. Cette acceptation est prononcée selon la procédure prévue à l'article
-1716 bis, après avis du conseil artistique de la réunion des musées nationaux.
-Cet avis doit être communiqué dans un délai d'un mois.
+dix ans à compter de l'acceptation définitive de cette offre par l'Etat. Cette
+acceptation est prononcée selon la procédure prévue à l'article 1716 bis, après
+avis du conseil artistique de la réunion des musées nationaux. Cet avis doit
+être communiqué dans un délai d'un mois.
 
 Lorsqu'elle a été acceptée, l'offre de don devient irrévocable.
 
@@ -54,9 +54,9 @@ de dépôt.
 
 7. Lorsque le tribunal prononce la liquidation judiciaire ou autorise la cession
 de l'entreprise en application des dispositions de la loi n° 85-98 du 25 janvier
-1985 relative au redressement et à la liquidation judiciaires des entreprises
-avant le terme prévu du délai fixé au 1, la propriété du bien est transférée à
-l'Etat.
+1985 ((modifiée)) (M) relative au redressement et à la liquidation judiciaires
+des entreprises avant le terme prévu du délai fixé au 1, la propriété du bien
+est transférée à l'Etat.
 
 8. Lorsque la propriété du bien ne peut être transférée à l'Etat dans les
 conditions prévues au 1, et en dehors de l'hypothèse visée au 7, les sommes
@@ -65,3 +65,5 @@ l'exercice au cours duquel il apparaît que le bien ne peut plus être transfér
 
 Dans ce cas, il est fait application de l'intérêt de retard prévu à l'article
 1727, à compter de la date à laquelle les sommes ont été déduites.
+
+(M) Modification de la loi.

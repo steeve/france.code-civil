@@ -1,15 +1,16 @@
 Article 215
 ----
-I. Lorsque le rapport entre le montant annuel des recettes afférentes à des
-opérations ouvrant droit à déduction et le montant des recettes afférentes à
-l'ensemble des opérations réalisées par l'assujetti [*pourcentage général de
-déduction*] diminue de plus de dix centièmes dans les neuf années qui suivent
-celle de l'achèvement ou de l'acquisition d'un immeuble, l'assujetti est
-redevable d'une fraction de la taxe initialement déduite. Cette fraction est
-égale au dixième de la différence entre le produit de la taxe qui a grevé
-l'immeuble par le rapport initial et le produit de la même taxe par le rapport
-de l'année considérée. Les assujettis qui cessent de réaliser exclusivement des
-opérations ouvrant droit à déduction sont tenus à la même obligation.
+I. Lorsque le rapport entre le montant annuel du ((chiffre d'affaires)) afférent
+à des opérations ouvrant droit à déduction et le montant du ((chiffre
+d'affaires)) (1) afférent à l'ensemble des opérations réalisées par l'assujetti
+[*pourcentage général de déduction*] diminue de plus de dix centièmes dans les
+neuf années qui suivent celle de l'achèvement ou de l'acquisition d'un immeuble,
+l'assujetti est redevable d'une fraction de la taxe initialement déduite. Cette
+fraction est égale au dixième de la différence entre le produit de la taxe qui a
+grevé l'immeuble par le rapport initial et le produit de la même taxe par le
+rapport de l'année considérée. Les assujettis qui cessent de réaliser
+exclusivement des opérations ouvrant droit à déduction sont tenus à la même
+obligation.
 
 Lorsque le rapport entre le montant annuel des recettes afférentes à des
 opérations ouvrant droit à déduction et le montant des recettes afférentes à
@@ -19,6 +20,12 @@ l'achèvement d'un immeuble, l'assujetti peut opérer une déduction
 complémentaire. Celle-ci est égale au dixième de la différence entre le produit
 de la taxe qui a grevé l'immeuble par le rapport de l'année considérée et le
 produit de la même taxe par le rapport initial.
+
+((Lorsque l'immeuble est partiellement utilisé pour des opérations situées hors
+du champ d'application de la taxe sur la valeur ajoutée, le calcul de la
+régularisation s'effectue à partir du montant de la taxe déductible, calculé
+après application de la proportion visée à l'article 207 bis et déterminé au
+titre de l'année considérée)) (1).
 
 Lorsque le droit à déduction n'a été ouvert qu'après la date de l'achèvement ou
 de l'acquisition de l'immeuble, la date de l'ouverture du droit à déduction se
@@ -41,3 +48,5 @@ lesquels la déduction initiale ne pouvait plus donner lieu à régularisation �
 date d'entrée en vigueur du décret n° 75-102 du 20 février 1975 modifiant
 certaines dispositions relatives aux conditions de déduction de la taxe sur la
 valeur ajoutée qui a grevé des biens constituant des immobilisations.
+
+(1) Modifications du décret.

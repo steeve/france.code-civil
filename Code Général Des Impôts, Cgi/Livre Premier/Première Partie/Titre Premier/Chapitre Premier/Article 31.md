@@ -47,13 +47,14 @@ reprise au titre de l'année de la rupture de l'engagement ou de la cession.
 Ce taux est accordé dans les mêmes conditions pour les revenus fonciers perçus
 par les contribuables qui, pour la gestion de leur patrimoine personnel,
 souscrivent entre le 1er juin 1986 et le 31 décembre 1989 à la constitution des
-sociétés civiles régies par la loi n° 70-1300 du 31 décembre 1970 fixant le
-régime applicable aux sociétés civiles autorisées à faire publiquement appel à
-l'épargne ou aux augmentations de capital de telles sociétés constituées durant
-la même période, lorsque le produit de cette souscription est exclusivement
-destiné à financer la construction ou l'acquisition d'immeubles locatifs neufs
-situés en France et affectés pour les trois quarts au moins de leur superficie
-[*proportion, fraction*] à usage d'habitation principale du locataire.
+sociétés civiles régies par la loi n° 70-1300 du 31 décembre 1970 ((modifiée))
+(1') fixant le régime applicable aux sociétés civiles autorisées à faire
+publiquement appel à l'épargne ou aux augmentations de capital de telles
+sociétés constituées durant la même période, lorsque le produit de cette
+souscription est exclusivement destiné à financer la construction ou
+l'acquisition d'immeubles locatifs neufs situés en France et affectés pour les
+trois quarts au moins de leur superficie [*proportion, fraction*] à usage
+d'habitation principale du locataire.
 
 Le taux de 35 p. 100 mentionné au deuxième alinéa est ramené à 25 p. 100 pour
 les investissements qui ouvrent droit à la réduction d'impôt dans les conditions
@@ -87,3 +88,5 @@ e) (Devenu sans objet).
 II (Transféré sous l'article 156-II-1° ter).
 
 (1) Ces dispositions s'appliquent à compter de l'imposition des revenus de 1993.
+
+(1') Modification de la loi.

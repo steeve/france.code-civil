@@ -12,11 +12,10 @@ l'établissement de décomptes ou à des encaissements successifs, au moment de
 l'expiration des périodes auxquelles ces décomptes ou encaissements se
 rapportent ;
 
-a ter) Pour les livraisons de biens et les prestations de services qui sont
-réputées être effectuées à un assujetti ou par un assujetti en application des
+((a ter) Pour les livraisons de biens, les prestations de services et les
+acquisitions intracommunautaires réputées effectuées en application des
 dispositions du V de l'article 256 et du III de l'article 256 bis, au moment où
-la livraison du bien ou la prestation de services dans laquelle cet assujetti
-s'entremet est effectuée ;
+l'opération dans laquelle l'assujetti s'entremet est effectuée ; ))
 
 b) Pour les livraisons à soi-même entrant dans le champ d'application de
 l'article 257-7°, au moment de la livraison qui doit intervenir, au plus tard,
@@ -54,14 +53,9 @@ Les entrepreneurs de travaux immobiliers peuvent, dans des conditions et pour
 les travaux qui sont fixés par décret, opter pour le paiement de la taxe sur les
 livraisons (3).
 
-d) Pour les acquisitions intracommunautaires, le 15 du mois suivant celui au
-cours duquel s'est produit le fait générateur ou lors de la délivrance de la
-facture lorsque celle-ci est intervenue entre cette date et celle du fait
-générateur ou à la date du fait générateur lorsque la délivrance de la facture
-le précède.
+((d) Pour les acquisitions intracommunautaires, le 15 du mois suivant celui au
+cours duquel s'est produit le fait générateur.
 
-(1) Annexe II, art. 243 à 245.
-
-(2) Annexe III, art. 77.
-
-(3) Annexe III, art. 78 à 84.
+((Toutefois, la taxe devient exigible lors de la délivrance de la facture, à
+condition qu'elle précède la date d'exigibilité prévue à l'alinéa précédent et
+qu'il ne s'agisse pas d'une facture d'acompte)).

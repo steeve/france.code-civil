@@ -25,4 +25,12 @@ La taxe est recouvrée et les infractions sont recherchées, constatées,
 poursuivies et sanctionnées selon les règles et sous les garanties prévues en
 matière de contributions indirectes.
 
+((Toutefois, à l'importation en provenance de pays non membres de la Communauté
+européenne, la taxe est recouvrée et les infractions sont recherchées,
+constatées, poursuivies et sanctionnées selon les règles, privilèges et
+garanties prévus en matière de douane.)) (2)
+
 (1) Voir annexe III art. 333 H bis à 333 H quinquies.
+
+(2) Ces dispositions, modifications de la loi 93-1353, sont applicables à
+compter du 1er janvier 1994.

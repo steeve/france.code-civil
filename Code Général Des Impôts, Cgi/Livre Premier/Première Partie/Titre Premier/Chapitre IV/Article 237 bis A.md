@@ -9,17 +9,21 @@ disposition est subordonnée au dépôt de l'accord de participation à la direc
 départementale du travail et de l'emploi du lieu où cet accord a été conclu.
 
 II. 1. Les entreprises peuvent constituer, en franchise d'impôt, une provision
-pour investissement égale à une fraction du montant des sommes portées à la
+pour investissement égale à ((50 p. 100)) (1) du montant des sommes portées à la
 réserve spéciale de participation au cours du même exercice et admises en
 déduction des bénéfices imposables, qui sont attribuées en plus de la
 participation de droit commun en application d'accords qui répondent aux
 conditions prévues à l'article 12 de l'ordonnance n° 86-1134 du 21 octobre 1986.
-Cette fraction est égale à 50 p. 100 [*pourcentage*] lorsque les accords
-reconduits ont été signés avant le 1er octobre 1973 et à 30 p. 100 lorsqu'ils
-l'ont été depuis cette date.
 
-Cette fraction est réduite de moitié lorsque les accords prévoient que les
-sommes attribuées sont indisponibles pendant trois ans [*durée*] seulement.
+((Les entreprises ayant adopté un régime facultatif conformément à l'article L.
+442-15 du code du travail peuvent également constituer, dans les mêmes
+conditions, une provision pour investissement égale à 25 p. 100 du montant des
+sommes portées à la réserve de participation au cours du même exercice et qui
+correspondent à la participation de droit commun.)) (1)
+
+((Le montant de la provision visée aux premier et deuxième alinéas est réduit))
+(1) de moitié lorsque les accords prévoient que les sommes attribuées sont
+indisponibles pendant trois ans [*durée*] seulement.
 
 2. Les sociétés anonymes à participation ouvrière peuvent constituer, en
 franchise d'impôt, à la clôture de chaque exercice, une provision pour
@@ -65,3 +69,8 @@ sociétés du groupe dont il s'agit, ou à plusieurs d'entre elles.
 
 III. Les dispositions du présent article s'appliquent pour chaque entreprise au
 premier jour du premier exercice ouvert après le 23 octobre 1986.
+
+(1) Modification de la loi.
+
+[*Cf. art. 34 : ces dispositions s'appliquent pour la détermination des
+résultats imposables du premier exercice ouvert à compter du 1er janvier 1994.*]

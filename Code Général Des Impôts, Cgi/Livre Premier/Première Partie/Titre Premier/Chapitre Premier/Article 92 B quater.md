@@ -1,8 +1,8 @@
 Article 92 B quater
 ----
 1. Avant le 1er janvier 1993, les versements sur un plan d'épargne en actions
-[*PEA*] défini à l'article 163 quinquies D peuvent être constitués en tout ou
-partie par le transfert de titres détenus par le contribuable.
+défini à l'article 163 quinquies D peuvent être constitués en tout ou partie par
+le transfert de titres détenus par le contribuable.
 
 Ces opérations de transfert sont assimilées à des cessions po ur l'application
 des dispositions de l'article 92 B sauf si elles portent sur des titres acquis
@@ -30,5 +30,14 @@ la cession est immédiatement investi dans un plan en un contrat de
 capitalisation visé au f du 1 du I de l'article 2 de la loi n° 92-666 du 16
 juillet 1992.
 
+Les limites mentionnées au I et au 1 bis de l'article 92 B du code général des
+impôts sont appréciées, pour l'imposition des autres gains nets réalisés au
+cours de la même année par le foyer fiscal, en faisant abstraction du montant
+des transferts ou des cessions réalisés du 23 juin au 31 décembre 1993
+correspondant à la plus-value dont le report de l'imposition est demandé.
+
 La plus-value dont l'imposition a été reportée est exonérée lorsque le plan
-d'épargne en actions n'est pas clos avant l'expiration de la cinquième année.
+d'épargne en actions n'est pas clos avant l'expiration de la cinquième année
+(1).
+
+(1) Voir l'article 41 octovicies de l'annexe III.
