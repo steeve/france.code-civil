@@ -3,9 +3,9 @@ Article R*227-2
 Sur proposition du directeur départemental de l'agriculture et de la forêt et
 après avis du président de la fédération départementale des chasseurs, le préfet
 fixe, en fonction de la superficie, du boisement et du relief du département, le
-nombre des lieutenants de louveterie et nomme ces derniers pour une durée de
-trois ans, renouvelable. Il leur délivre une commission qui détermine le
-territoire sur lequel ils exercent leurs attributions.
+nombre des lieutenants de louveterie et nomme ces derniers pour une durée de six
+ans, renouvelable. Il leur délivre une commission qui détermine le territoire
+sur lequel ils exercent leurs attributions.
 
 En cas de négligence dans leurs fonctions, abus ou pour toute autre cause grave,
 la commission peut leur être retirée par décision motivée du préfet.
