@@ -30,9 +30,9 @@ pour la construction de ces immeubles doivent permettre la mise en place
 ultérieure d'appareils de mesure et de répartition des frais de chauffage sans
 intervention significative ;
 
-d) Aux immeubles collectifs bénéficiant du label provisoire haute performance
-énergétique ou solaire ou du label qualitel-H.P.E., définis par les arrêtés
-prévus au troisième alinéa de l'article R. 111-6 du présent code ;
+d) Aux immeubles collectifs bénéficiant du label "haute performance
+énergétique", défini par l'arrêté prévu au III de l'article R. 111-20 du présent
+code ;
 
 e) Aux immeubles collectifs faisant appel, au moins pour la moitié de la
 puissance de chauffage des locaux, aux énergies renouvelables (solaire,
