@@ -1,16 +1,26 @@
 Article R442-25
 ----
-Toute répartition entre les membres du personnel donne lieu à la remise, à
-chaque bénéficiaire, d'une fiche indiquant :
+L'avoir fiscal et le crédit d'impôt attachés aux revenus des valeurs mobilières
+attribuées aux salariés ou acquises pour leur compte en application des articles
+L. 442-1 à L. 442-16 donnent lieu à délivrance d'un certificat distinct,
+conformément aux dispositions de l'article 77 de l'annexe II au code général des
+impôts.
 
-Le montant total de la réserve spéciale de participation pour l'exercice écoulé
-;
+Lorsque ces revenus sont totalement exonérés, conformément aux dispositions du
+II de l'article L. 442-8, le certificat est établi pour la totalité de l'avoir
+fiscal ou du crédit d'impôt au nom de l'organisme chargé de la conservation des
+titres et la restitution de l'avoir fiscal ou du crédit d'impôt mentionné sur ce
+certificat est demandée par cet organisme.
 
-Le montant des droits attribués à l'intéressé ;
+Lorsque l'exonération ne porte que sur la moitié de ces revenus le certificat
+établi au nom de l'organisme chargé de la conservation des titres ne mentionne
+que la moitié de l'avoir fiscal ou du crédit d'impôt qui s'attache à ces
+revenus. La restitution demandée par l'organisme porte alors sur un montant
+réduit de moitié.
 
-S'il y a lieu, l'organisme auquel est confiée la gestion de ces droits ;
+La demande de restitution, accompagnée du certificat, est adressée au service
+des impôts du siège de l'organisme qui l'a établie.
 
-La date à partir de laquelle lesdits droits seront négociables ou exigibles ;
-
-Les cas dans lesquels ils peuvent être exceptionnellement liquidés ou transférés
-avant l'expiration de ce délai.
+La restitution est opérée au profit de cet organisme, à charge pour lui
+d'employer les sommes correspondantes de la même façon que les revenus auxquels
+elles se rattachent.

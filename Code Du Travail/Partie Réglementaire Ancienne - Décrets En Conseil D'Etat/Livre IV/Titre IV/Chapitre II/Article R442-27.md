@@ -1,20 +1,13 @@
 Article R442-27
 ----
-L'attestation prévue par l'article L. 442-13 est établie par l'inspecteur des
-impôts sur demande de l'entreprise. Cette demande doit être accompagnée d'un
-état annexe rempli par l'entreprise conformément à un modèle arrêté par le
-ministre chargé de l'économie et des finances.
+Dans les sociétés coopératives ouvrières de production, la réserve spéciale de
+participation des salariés est calculée sur les bases suivantes :
 
-L'attestation est délivrée à l'entreprise dans les trois mois [*délai*] qui
-suivent celui de la présentation de cette demande ou, si la déclaration fiscale
-des résultats afférents à l'exercice considéré est souscrite après la
-présentation de cette demande dans les trois mois qui suivent celui du dépôt de
-cette déclaration.
+1° Le bénéfice est réputé égal, pour chaque exercice, aux excédents nets de
+gestion définis à l'article 32 de la loi n° 78-763 du 19 juillet 1978, déduction
+faite d'une fraction égale à 25 p. 100 de ceux-ci, telle qu'elle est prévue au
+3° de l'article 33 de la même loi. Ce bénéfice est diminué d'une somme calculée
+par application à celui-ci du taux de droit commun de l'impôt sur les sociétés ;
 
-Lorsque aucune demande d'attestation n'a été présentée, six mois après la
-clôture d'un exercice, l'inspecteur du travail [*compétent*] peut se substituer
-à l'entreprise pour obtenir cette attestation.
-
-Toute modification d'assiette du bénéfice net intervenue postérieurement à
-l'envoi d'une attestation délivrée dans les conditions prévues aux deux alinéas
-qui précèdent donne lieu à l'établissement d'une attestation rectificative.
+2° Les capitaux propres de l'entreprise sont réputés égaux au montant du capital
+social effectivement libéré à la clôture de l'exercice considéré.

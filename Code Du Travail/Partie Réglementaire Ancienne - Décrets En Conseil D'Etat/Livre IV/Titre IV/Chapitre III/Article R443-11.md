@@ -1,6 +1,6 @@
 Article R443-11
 ----
-Les fonds communs de placement constitués pour l'emploi des sommes affectées à
-la réalisation d'un plan d'épargne d'entreprise ne peuvent comprendre que des
-valeurs mobilières françaises et des disponibilités courantes placées à court
-terme ou à vue.
+Les cas mentionnés à l'article L. 443-6 dans lesquels les actions ou parts
+acquises pour le compte des salariés leur sont délivrées avant l'expiration du
+délai d'indisponibilité minimum de cinq ans sont les cas énumérés à l'article R.
+442-17.

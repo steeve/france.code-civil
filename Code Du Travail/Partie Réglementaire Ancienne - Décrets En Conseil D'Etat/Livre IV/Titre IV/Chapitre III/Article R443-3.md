@@ -1,5 +1,6 @@
 Article R443-3
 ----
-Un plan d'épargne d'entreprise peut offrir plusieurs formules de placement.
-Chaque salarié de l'entreprise peut exercer son choix entre toutes les formules
-de placement offertes.
+Un plan d'épargne d'entreprise peut prévoir que chacun des versements des
+salariés ou anciens salariés devra être d'un montant minimum ; celui-ci ne peut
+toutefois pas excéder une somme fixée par arrêté du ministre chargé des finances
+et du ministre chargé du travail.

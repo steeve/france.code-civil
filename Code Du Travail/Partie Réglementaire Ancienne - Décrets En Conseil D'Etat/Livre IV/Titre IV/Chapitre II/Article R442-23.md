@@ -1,9 +1,14 @@
 Article R442-23
 ----
-Le personnel est informé par tout moyen prévu dans l'accord passé avec
-l'entreprise et, à défaut, par voie d'affichage sur les emplacements réservés
-aux communications syndicales en application de /M/l'article L.
-422-9/M/DECR.0808 19-09-1974 :
+Lorsque la déclaration des résultats d'un exercice est rectifiée par
+l'administration ou par le juge de l'impôt, le montant de la participation des
+salariés au bénéfice de cet exercice fait l'objet d'un nouveau calcul, compte
+tenu des rectifications apportées.
 
-l'article L. 420-19// de la formule retenue pour l'exercice de son droit à
-participer aux fruits de l'expansion de l'entreprise.
+Le montant de la réserve spéciale de participation est modifié en conséquence au
+cours de l'exercice pendant lequel les rectifications opérées par
+l'administration ou par le juge de l'impôt sont devenues définitives ou ont été
+formellement acceptées par l'entreprise. Ce montant est majoré d'un intérêt dont
+le taux est fixé par arrêté des ministres chargés des finances et du travail et
+qui court à partir du premier jour du quatrième mois de l'exercice qui suit
+celui au titre duquel les rectifications ont été opérées [*point de départ*].

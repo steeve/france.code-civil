@@ -1,22 +1,24 @@
 Article R442-19
 ----
-Pour l'examen des accords mentionnés à l'article L. 442-6, le centre d'étude des
-revenus et des coûts est complété [*composition*] comme suit :
+L'employeur doit présenter dans les six mois qui suivent la clôture de chaque
+exercice [*communication - délai*] un rapport au comité d'entreprise ou à la
+commission spécialisée créée par ce comité dans des conditions analogues à
+celles prévues par l'article L. 434-7.
 
-Trois [*nombre*] personnalités nommées pour une durée de trois ans, en raison de
-leur compétence en matière de participation, par décret pris sur proposition du
-président du centre d'étude des revenus et des coûts ;
+Ce rapport comporte notamment [*contenu*] :
 
-Cinq représentants des employeurs ;
+a) Les éléments servant de base au calcul du montant de la réserve spéciale de
+participation des salariés pour l'exercice écoulé ;
 
-Cinq représentants des salariés.
+b) Des indications précises sur la gestion et l'utilisation des sommes affectées
+à cette réserve.
 
-Les représentants des employeurs et des salariés sont désignés par décret.
+Lorsque le comité d'entreprise est appelé à siéger pour examiner ce rapport, les
+questions ainsi examinées doivent faire l'objet de réunions distinctes ou d'une
+mention spéciale à son ordre du jour. Le comité peut se faire assister par
+l'expert-comptable prévu à l'article L. 434-6.
 
-Participent aux délibérations du centre avec voix consultative, le directeur
-général des impôts, le directeur du Trésor, le directeur général du travail et
-de l'emploi, le chef du service interministériel de l'intéressement et de la
-participation ou leurs représentants, un représentant du ministre chargé de
-l'industrie, et, pour les accords relevant de leurs attributions, le directeur
-des affaires sociales au ministère de l'agriculture et du développement rural ou
-son représentant et un représentant du ministre chargé des transports.
+Dans tous les cas où il n'existe pas de comité d'entreprise, le rapport
+mentionné ci-dessus doit être présenté aux délégués du personnel et adressé à
+chaque salarié présent dans l'entreprise à l'expiration du délai de six mois
+suivant la clôture de l'exercice.

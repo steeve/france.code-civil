@@ -1,6 +1,5 @@
 Article R443-1
 ----
-Les dispositions de la présente partie sont applicables aux plans d'épargne
-d'entreprise qui, remplissant les conditions fixées par les articles L. 443-3,
-L. 443-4, L. 443-5, L. 443-6, L. 443-7, bénéficient des dispositions fiscales
-édictées par les articles L. 443-8 et L. 443-9.
+Lorsque les plans d'épargne sont établis en vertu d'accords avec le personnel,
+ces accords doivent être conclus selon l'une des procédures énumérées à
+l'article L. 442-10.

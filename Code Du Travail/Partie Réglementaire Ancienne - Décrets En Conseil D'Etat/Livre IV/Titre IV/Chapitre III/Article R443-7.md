@@ -1,7 +1,10 @@
 Article R443-7
 ----
-Les entreprises ou les sociétés de gestion des fonds communs de placement prévus
-à l'article R. 443-11 ci-dessous établissent chaque année un compte rendu de
-leurs opérations contenant les indications nécessaires à l'information des
-salariés participant au plan d'épargne. Ce compte rendu est remis par
-l'entreprise à chacun de ces derniers.
+Lorsque, en application de l'article L. 443-5, les sociétés procèdent à des
+augmentations de capital réservées aux salariés et anciens salariés adhérant au
+plan d'épargne d'entreprise, par l'intermédiaire d'un fonds commun de placement,
+le bulletin de souscription est signé par le gérant du fonds.
+
+La société émettrice notifie au gérant du fonds le nombre d'actions souscrites.
+Le gérant informe chaque adhérent du nombre de parts souscrit et lui adresse un
+relevé nominatif mentionnant la date de cessibilité de ces parts.

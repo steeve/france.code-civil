@@ -1,6 +1,7 @@
 Article R442-21
 ----
-Les règles fixées par les articles R. 442-17 et R. 442-18 ci-dessus sont
-également applicables en ce qui concerne les avenants éventuellement apportés à
-des accords en cours de validité ainsi qu'en cas de renouvellement des accords
-arrivés à expiration.
+La partie qui dénonce un accord de participation doit aussitôt notifier cette
+décision au directeur départemental du travail et de l'emploi.
+
+La dénonciation d'un accord passé au sein d'un comité d'entreprise est constatée
+au procès-verbal de la séance au cours de laquelle cette dénonciation a eu lieu.
