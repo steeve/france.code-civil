@@ -4,10 +4,10 @@ Article 210 A
 immobilisé apporté du fait d'une fusion ne sont pas soumises à l'impôt sur les
 sociétés [*exonération*].
 
-Il en est de même, jusqu'au 31 décembre 1982 [*date limite*], de la plus-value
-éventuellement dégagée par la société absorbante lors de l'annulation des
-actions ou parts de son propre capital qu'elle reçoit ou qui correspondent à ses
-droits dans la société absorbée.
+Il en est de même, jusqu'au 31 décembre 1987 de la plus-value éventuellement
+dégagée par la société absorbante lors de l'annulation des actions ou parts de
+son propre capital qu'elle reçoit ou qui correspondent à ses droits dans la
+société absorbée.
 
 2. L'impôt sur les sociétés n'est applicable aux provisions figurant au bilan de
 la société absorbée que si elles deviennent sans objet.

@@ -1,15 +1,23 @@
 Article 812 A
 ----
-I. Le droit perçu lors de l'incorporation au capital d'une société passible de
-l'impôt sur les sociétés des sommes que les associés ou actionnaires possédant
-en droit ou en fait la direction de l'entreprise ont mises à la disposition
-constante de la société pendant une période minimale de douze mois est ramené à
-600 F [*montant*] pour les augmentations de capital réalisées avant le 31
-décembre 1981 [*date limite*] ; ce taux est ramené à 750 F pour les
-augmentations de capital réalisées au cours de l'année 1982 si les associés ou
-actionnaires apporteurs sont des personnes physiques.
+I. 1. Le droit perçu lors de l'incorporation au capital d'une société passible
+de l'impôt sur les sociétés des sommes que les associés ou actionnaires
+possédant en droit ou en fait la direction de l'entreprise ont mises à la
+disposition constante de la société pendant une période minimale de douze mois
+est ramené à 600 F [*montant*] pour les augmentations de capital réalisées avant
+le 31 décembre 1981 [*date limite*].
 
-II. Est également fixé à 750 F le droit perçu lors de l'incorporation au capital
+2. Lorsque les associés ou actionnaires apporteurs sont des personnes physiques,
+le bénéfice du droit fixe prévu au 1 pour les augmentations de capital est
+maintenu jusqu'au 31 décembre 1987 ; ce droit est de :
+
+- 750 F pour les augmentations de capital réalisées du 1er janvier au 31
+décembre 1982 ;
+
+- 900 F pour les augmentations de capital réalisées à compter du 1er janvier
+1983.
+
+II. Est également fixé à 900 F le droit perçu lors de l'incorporation au capital
 d'une société :
 
 1° De la réserve de réévaluation des immobilisations non amortissables prévue à

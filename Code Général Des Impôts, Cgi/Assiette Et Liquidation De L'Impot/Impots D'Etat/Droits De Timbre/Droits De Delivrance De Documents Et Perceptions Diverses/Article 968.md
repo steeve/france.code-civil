@@ -2,7 +2,7 @@ Article 968
 ----
 I Les certificats d'immatriculation des véhicules automobiles et de tous autres
 véhicules à moteur (cartes grises) donnent lieu, pour toute perception au profit
-du Trésor, au paiement d'une taxe dont le taux est fixé à 26 F [*montant*] par
+du Trésor, au paiement d'une taxe dont le taux est fixé à 26 F par
 cheval-vapeur.
 
 Pour les véhicules ayant plus de dix ans d'âge, la taxe est réduite de moitié
@@ -31,7 +31,7 @@ démonstration et dont le poids total en charge n'excède pas 3,5 tonnes.
 
 V Les certificats d'immatriculation des séries W et WW donnent lieu, pour toute
 perception au profit du Trésor, au paiement d'une taxe dont le taux est fixé
-respectivement à 52 F et 26 F [*montant*].
+respectivement à 52 F et 26 F.
 
 VI La délivrance de duplicata de certificats est subordonnée au paiement d'une
 taxe de 7 F pour les vélomoteurs et les motocyclettes dont la cylindrée n'excède
@@ -46,4 +46,8 @@ morale propriétaire du véhicule.
 VII Aucune taxe n'est due lorsque la délivrance de la carte grise est
 consécutive à un changement d'état matrimonial.
 
-1) Annexe IV, art. 121 K.
+VIII Les dispositions des paragraphes I à VII cessent d'être applicables à
+l'entrée en vigueur de la première délibération du conseil régional prise en
+vertu de l'article 1635 bis H-I.
+
+(1) Annexe IV, art. 121 K.

@@ -1,8 +1,8 @@
 Article 954
 ----
 Chaque visa de passeport étranger, dont la durée de validité ne peut être
-supérieure à un an, donne lieu à la perception d'un droit de 35 F [*montant*],
-si le visa est valable pour l'aller et retour, et de 15 F, s'il n'est valable
+supérieure à un an, donne lieu à la perception d'un droit de 50 F [*montant*],
+si le visa est valable pour l'aller et retour, et de 25 F, s'il n'est valable
 que pour la sortie. Toutefois, le visa est délivré gratuitement, par mesure de
 réciprocité, aux ressortissants des puissances étrangères dont la liste est
 établie par arrêté du ministre des affaires étrangères, du ministre de

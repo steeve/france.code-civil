@@ -1,6 +1,6 @@
 Article 848
 ----
-Sont soumis à un droit d'enregistrement de 250 F [*montant*] :
+Sont soumis à un droit d'enregistrement de 300 F [*montant*] :
 
 1° Les certificats de propriété, autres que ceux établis par les secrétariats
 des juridictions judiciaires.

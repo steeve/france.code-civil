@@ -10,7 +10,7 @@ de francs par société lorsque l'acte qui constate l'incorporation est enregist
 postérieurement au 30 juin 1978 ;
 
 2° Le taux est réduit à 6 % pour les actes enregistrés entre le 1er janvier 1978
-et le 31 décembre 1982 [*période*], lorsque l'augmentation de capital est
+et le 31 décembre 1987 [*période*], lorsque l'augmentation de capital est
 réalisée au moyen de l'incorporation de bénéfices, de réserves ou de provisions
 de toute nature et lorsque l'une des conditions ci-après se trouve remplie :
 
@@ -29,7 +29,7 @@ compter de la date de l'acte ;
 est ramené à 2 % lorsque conformément aux dispositions du 2°, l'opération
 d'incorporation est accompagnée, précédée ou suivie d'une augmentation de
 capital en numéraire d'un montant au moins égal et lorsque l'acte qui la
-constate est enregistré avant le 1er janvier 1983 [*date limite*].
+constate est enregistré avant le 1er janvier 1988 [*date limite*].
 
 3° Le droit de 12 % est réduit à 2,40 % pour les actes portant incorporation au
 capital de la réserve de reconstitution des entreprises sinistrées, assimilée à

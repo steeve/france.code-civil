@@ -1,8 +1,8 @@
 Article 260
 ----
 Peuvent sur leur demande acquitter la taxe sur la valeur ajoutée : [*option*] 1°
-Les personnes qui réalisent des opérations mentionnées aux 5°, 6°, 7°, 8° du 4
-de l'article 261 (1);
+Les personnes qui réalisent des opérations mentionnées aux 5°, 6°, 7° du 4 de
+l'article 261 (1);
 
 2° Les personnes qui donnent en location des locaux nus pour les besoins de
 l'activité d'un industriel, d'un commerçant ou d'un prestataire de services (2);
@@ -27,9 +27,8 @@ Les conditions et modalités de l'option sont fixées par décret en Conseil d'E
 
 4) Voir Annexe II, art. 201 bis et 201 ter.
 
-5) Annexe II, art. 201 quinquies à 201 septies.
-
-6) Les modalités suivant lesquelles viendront à expiration les options formulées
-avant le 1er janvier 1979 pour des activités pour lesquelles l'option n'est plus
-ouverte à compter de cette date ont été fixées par le décret n° 79-41 du 17
-janvier 1979 (J.O. du 18), et n° 81-1121 du 17 décembre 1981 (J.O. du 19).
+5) Annexe II, art. 201 quinquies à 201 septies 6) Les modalités suivant
+lesquelles viendront à expiration les options formulées avant le 1er janvier
+1979 pour des activités pour lesquelles l'option n'est plus ouverte à compter de
+cette date ont été fixées par le décret n° 79-41 du 17 janvier 1979 (J.O. du
+18), et n° 81-1121 du 17 décembre 1981 (J.O. du 19).

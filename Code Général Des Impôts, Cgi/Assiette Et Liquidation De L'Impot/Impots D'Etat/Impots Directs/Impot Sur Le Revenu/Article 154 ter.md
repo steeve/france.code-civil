@@ -5,7 +5,8 @@ inférieur au plafond de la neuvième tranche du barème de l'impôt sur le reve
 peut déduire de ses revenus professionnels les dépenses nécessitées par la garde
 des enfants qu'il a à sa charge âgés de moins de trois ans. Cette déduction est
 limitée à 3.000 F [*plafond*] par enfant, sans pouvoir excéder le montant des
-revenus professionnels net de frais (1).
+revenus professionnels net de frais.
 
-1) Chiffre limite applicable à compter de l'imposition des revenus de l'année
-1978.
+La même possibilité est ouverte, sous les mêmes conditions et dans les mêmes
+limites, aux foyers fiscaux dont les deux conjoints justifient d'un emploi à
+plein temps.

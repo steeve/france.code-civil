@@ -1,6 +1,6 @@
 Article 847
 ----
-Sont soumis à une imposition fixe de 250 F [*montant*] :
+Sont soumis à une imposition fixe de 300 F [*montant*] :
 
 1° Les contrats de mariage, lorsqu'ils ne peuvent donner lieu à la perception
 d'une imposition proportionnelle ou progressive d'un montant plus élevé ;

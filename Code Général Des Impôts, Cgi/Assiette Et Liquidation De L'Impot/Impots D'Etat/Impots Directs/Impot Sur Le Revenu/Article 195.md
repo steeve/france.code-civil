@@ -46,8 +46,15 @@ des conditions fixées au 1 c, d et d bis (1).
 contribuables mariés invalides lorsque chacun des conjoints remplit l'une des
 conditions fixées au 1 c, d et d bis (2).
 
-(1) Dispositions applicables pour la première fois pour la détermination des
-revenus imposables au titre de l'année 1981.
+5. Le quotient familial prévu à l'article 194 est augmenté d'une demi-part pour
+les contribuables célibataires, divorcés ou veufs ayant un ou plusieurs enfants
+à charge lorsque ces contribuables remplissent l'une des conditions d'invalidité
+fixées au 1-c, d ou d bis (3).
+
+(1) Disposition nouvelle applicable, pour la première fois, pour l'imposition
+des revenus de l'année 1981.
 
 (2) Disposition nouvelle applicable, pour la première fois, pour l'imposition
 des revenus de l'année 1980.
+
+(3) Disposition applicable à compter de l'imposition des revenus de 1982.

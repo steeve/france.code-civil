@@ -1,7 +1,7 @@
 Article 827
 ----
 I. Sont soumis à un droit fixe d'enregistrement ou à une taxe fixe de publicité
-foncière de 250 F [*montant*] :
+foncière de 300 F [*montant*] :
 
 1° Les actes constatant l'attribution d'actif net faite à un ou plusieurs
 organismes attributaires par une société d'habitations à loyer modéré, en vertu
@@ -24,4 +24,4 @@ II. Les actes constitutifs de sociétés, lorsqu'ils ne mentionnent que l'apport
 de marchés concernant la construction d'immeubles à usage principal
 d'habitation, effectué à titre pur et simple à des sociétés qui se constituent
 en vue de l'exécution de ces marchés entre personnes appartenant aux divers
-corps de métiers appelés à y concourir, sont enregistrés au droit fixe de 250 F.
+corps de métiers appelés à y concourir, sont enregistrés au droit fixe de 300 F.

@@ -8,19 +8,10 @@ recommandations suivantes :
 impôts conformément à l'un des plans comptables professionnels agréés par le
 ministre de l'économie et des finances ;
 
-2° En ce qui concerne les recettes, mentionner sur ces documents le détail des
-sommes reçues, l'identité du client, le mode de règlement et la nature des
-prestations fournies.
-
-Toutefois, lorsque les dispositions de l'article 378 du code pénal relatives au
-secret professionnel sont applicables, la nature des prestations fournies et
-l'identité du client ne sont pas mentionnées. La nature des prestations fournies
-ne peut faire l'objet de demandes de renseignements de la part de
-l'administration des impôts. A l'égard des organismes tenus d'établir des
-relevés récapitulatifs par praticien en application de l'article L 97 du livre
-des procédures fiscales, le droit de communication ne peut, en ce qui concerne
-la nature des prestations fournies, porter que sur les mentions correspondant à
-la nomenclature générale des actes professionnels.
+2° En ce qui concerne les adhérents non soumis au secret professionnel en
+application de l'article 378 du code pénal, mentionner, outre les indications
+prévues par l'article 1649 quater G du code général des impots, la nature des
+prestations fournies ;
 
 3° Accepter le règlement des honoraires par chèques libellés dans tous les cas à
 leur ordre et ne pas endosser ces chèques, sauf pour remise directe à
@@ -36,5 +27,11 @@ maladie ou de soins, conformément aux dispositions de l'article L 97 du livre
 des procédures fiscales et du décret n° 72-480 du 12 juin 1972, l'intégralité
 des honoraires effectivement perçus même s'ils ne peuvent que partiellement
 donner lieu à remboursement pour les assurés.
+
+A l'égard des organismes tenus d'établir des relevés récapitulatifs par
+praticien en application de l'article L97 du livre des procédures fiscales, le
+droit de communication ne peut, en ce qui concerne la nature des prestations
+fournies, porter que sur les mentions correspondant à la nomenclature générale
+des actes professionnels.
 
 (1) Annexe IV, art. 164 F quaterdecies à 164 F octovicies.

@@ -1,18 +1,18 @@
 Article 816
 ----
 I. A la condition d'être présentés à la formalité fusionnée ou à
-l'enregistrement avant le 1er janvier 1983 [*date limite*], les actes qui
+l'enregistrement avant le 1er janvier 1988 [*date limite*], les actes qui
 constatent des opérations de fusion auxquelles participent exclusivement des
 personnes morales ou organismes passibles de l'impôt sur les sociétés
 bénéficient du régime suivant :
 
 1° Il est perçu un droit fixe d'enregistrement ou une taxe fixe de publicité
-foncière de 750 F [*montant*] ;
+foncière de 900 F [*montant*] ;
 
 2° Le droit proportionnel de 12 % prévu à l'article 812-I-1° est réduit à 1,20
 %.
 
-Il se calcule jusqu'au 31 décembre 1982 sur la valeur de l'actif net de la
+Il se calcule jusqu'au 31 décembre 1987 sur la valeur de l'actif net de la
 société absorbée sous déduction du montant libéré et non amorti du capital
 social.
 

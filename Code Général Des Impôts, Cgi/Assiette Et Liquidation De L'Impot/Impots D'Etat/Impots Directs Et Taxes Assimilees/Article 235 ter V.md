@@ -1,6 +1,6 @@
 Article 235 ter V
 ----
-La taxe est assise sur [*assiette*] :
+La taxe est assise sur :
 
 - les cadeaux de toute nature, à l'exception des objets conçus spécialement pour
 la publicité et dont la valeur unitaire ne dépasse pas 200 F par bénéficiaire,
@@ -22,4 +22,7 @@ sociétés ;
 
 - les frais de congrès et de manifestations assimilées ainsi que les frais de
 croisières et de voyages d'agrément et les dépenses de toute nature s'y
-rapportant, pour la fraction de leur montant total qui excède 5.000 F.
+rapportant, pour la fraction de leur montant total qui excède 5.000 F. Les frais
+de toute nature soumis à la taxe au titre des exercices ouverts à compter du 1er
+janvier 1983 sont réduits au prorata de la part du chiffre d'affaires ou du
+montant de recettes hors taxes, réalisé à l'exportation.

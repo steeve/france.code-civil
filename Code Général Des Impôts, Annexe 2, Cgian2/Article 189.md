@@ -2,8 +2,8 @@ Article 189
 ----
 L'option pour le paiement de la taxe sur la valeur ajoutée prévue à l'article
 260-1° du code général des impôts s'applique à l'ensemble des opérations
-accomplies dans l'exercice de l'une des activités mentionnées aux 5°, 6°, 7° ou
-8° de l'article 261-4 du même code.
+accomplies dans l'exercice de l'une des activités mentionnées aux 5°, 6°, ou 7°
+de l'article 261-4 du même code.
 
 Toutefois, lorsqu'une même personne effectue des opérations relevant d'activités
 de nature différente, l'option peut n'être formulée que pour une ou plusieurs de

@@ -1,6 +1,6 @@
 Article 813
 ----
-I. (Périmé).
+I. (Périmé)
 
 II. Les actes par lesquels les sociétés qui ont émis avant le 1er avril 1972 (1)
 des obligations convertibles en actions incorporent à leur capital social :
@@ -12,9 +12,9 @@ la loi n° 59-1472 du 28 décembre 1959 ;
 
 - soit des réserves spéciales de réévaluation dégagées conformément aux articles
 1er et 53-I de la loi n° 59-1472 du 28 décembre 1959, sont soumis à un droit
-fixe de 375 F à condition qu'ils soient enregistrés dans le délai d'un an à
+fixe de 450 F à condition qu'ils soient enregistrés dans le délai d'un an à
 compter de la date d'expiration de la période fixée pour l'exercice de l'option
 accordée aux porteurs d'obligations.
 
-(1) Date portée au 1er avril 1974 pour les entreprises exerçant leurs activités
+(1) Date portée au 1er avril 1974 pour les entreprises exerçant leur activité
 dans les départements d'outre-mer [*DOM*].

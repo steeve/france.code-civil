@@ -9,11 +9,11 @@ sont soumis à la taxe sur la valeur ajoutée :
 de l'article 39 bis, au taux réduit, assorti toutefois d'un abattement tel que
 le taux réel perçu dans les départements de la France métropolitaine soit de 2,1
 %; ce taux est diminué de moitié dans les départements de la Guadeloupe, de la
-Martinique et de la Réunion [*DOM*] ;
+Martinique et de la Réunion;
 
 2° Pour les autres publications, sous réserve des dispositions de l'article 298
-terdecies A, au taux réduit (1). En 1982, le taux réduit est assorti d'une
-réfaction telle que le taux réel perçu est de 4 % ; ce taux est diminué de
+terdecies A, au taux réduit (1). En 1982 et 1983, le taux réduit est assorti
+d'une réfaction telle que le taux réel perçu est de 4 % ; ce taux est diminué de
 moitié dans les départements de la Guadeloupe, de la Martinique et de la
 Réunion. A cette atténuation de la base imposable se substitue, pour les
 départements de la Corse, celle qui est prévue à l'article 297-I-1-1°.

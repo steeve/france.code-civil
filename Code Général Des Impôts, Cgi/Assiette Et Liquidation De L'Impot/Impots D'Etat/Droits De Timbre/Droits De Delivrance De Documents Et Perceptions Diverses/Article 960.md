@@ -31,7 +31,7 @@ intervenant au cours d'une année civile pour un débit appartenant à une même
 personne. Elle est payable d'avance le 1er janvier de chaque année [*date*] ou
 lors de la première ouverture du débit.
 
-II Une taxe de 120 F est perçue (1) :
+II Une taxe de 200 F est perçue (1) :
 
 Pour la délivrance du récépissé de déclaration de la profession de commerçant en
 substances vénéneuses;
@@ -41,4 +41,4 @@ Pour la délivrance du bulletin d'inscription de marchand d'objets d'occasion;
 Pour la délivrance du récépissé de déclaration à la personne désirant se livrer
 au commerce des armes et des munitions.
 
-1) Annexe III, art. 313 AY.
+(1) Annexe III, art. 313 AY.

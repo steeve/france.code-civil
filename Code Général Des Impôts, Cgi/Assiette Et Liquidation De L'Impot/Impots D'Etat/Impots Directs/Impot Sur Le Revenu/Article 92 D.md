@@ -1,6 +1,6 @@
 Article 92 D
 ----
-Les dispositions des articles 92 A et 92 B ne s'appliquent pas :
+Les dispositions de l'articles 92 B ne s'appliquent pas :
 
 1° Aux cessions mentionnées à l'article 160 [*plus-values de cession de droits
 sociaux, exonération*] ;

@@ -23,19 +23,19 @@ suit (1) :
 
 : Véhicules dont l'âge : : : :
 
-: n'excède pas cinq ans : 160 : 300 : 700 :
+: n'excède pas cinq ans : 170 : 320 : 760 :
 
 : Véhicules ayant plus de : : : :
 
 : cinq ans mais moins de : : : :
 
-: vingt ans d'âge : 80 : 150 : 350 :
+: vingt ans d'âge : 85 : 160 : 380 :
 
 : Véhicules ayant plus de : : : :
 
 : vingt ans mais moins de : : : :
 
-: vingt-cinq ans d'âge : 70 : 70 : 70 :
+: vingt-cinq ans d'âge : 76 : 76 : 76 :
 
 ===================================================================
 
@@ -59,30 +59,32 @@ suit (1) :
 
 : Véhicules dont l'âge : : : :
 
-: n'excède pas cinq ans : 800 : 1.380 : 2.000 :
+: n'excède pas cinq ans : 900 : 1.600 : 2.400 :
 
 : Véhicules ayant plus de : : : :
 
 : cinq ans mais moins de : : : :
 
-: vingt ans d'âge : 400 : 690 : 1.000 :
+: vingt ans d'âge : 450 : 800 : 1.200 :
 
 : Véhicules ayant plus de : : : :
 
 : vingt ans mais moins de : : : :
 
-: vingt-cinq ans d'âge : 70 : 70 : 70 :
+: vingt-cinq ans d'âge : 76 : 76 : 76 :
 
-=================================================================== II. Le tarif
-de la taxe spéciale prévue au b de l'article 1007 est fixé comme suit (1) :
+===================================================================
 
-- véhicules dont l'âge n'excède pas cinq ans : 7.000 F [*montant*] ;
+II. Le tarif de la taxe spéciale prévue au b de l'article 1007 est fixé comme
+suit (1) :
 
-- véhicules ayant plus de cinq ans mais moins de vingt ans d'âge : 3.500 F ;
+- véhicules dont l'âge n'excède pas cinq ans : 8.100 F ;
 
-- véhicules ayant plus de vingt ans mais moins de vingt-cinq ans d'âge : 1.000
+- véhicules ayant plus de cinq ans mais moins de vingt ans d'âge : 4.050 F ;
+
+- véhicules ayant plus de vingt ans mais moins de vingt-cinq ans d'âge : 1.100
 F.
 
 III (abrogé)
 
-(1) A compter de la période d'imposition débutant en 1982.
+(1) A compter de la période d'imposition débutant en 1983.

@@ -1,6 +1,6 @@
 Article 94 A
 ----
-1. Les gains nets mentionnés aux articles 92 A, 92 B et 92 F sont constitués
+1. Les gains nets mentionnés aux articles 92 B et 92 F sont constitués
 [*calcul*] par la différence entre le prix effectif de cession des titres ou
 droits, net des frais et taxes acquittés par le cédant, et leur prix effectif
 d'acquisition par celui-ci ou, en cas d'acquisition à titre gratuit, leur valeur
@@ -32,11 +32,6 @@ comptant le plus élevé de l'année 1978.
 Pour l'ensemble des valeurs françaises à revenu variable, il peut également
 retenir le cours moyen de cotation au comptant de ces titres pendant l'année
 1972.
-
-A partir de 1984, le contribuable retiendra comme prix d'acquisition, pour
-l'ensemble des titre cotés acquis avant le 1er janvier 1984, le cours au
-comptant le plus élevé de l'année 1983, sauf si leur prix effectif d'acquisition
-est d'un montant supérieur. La même disposition s'appliquera tous les cinq ans.
 
 4. Le prix d'acquisition des titres acquis en vertu d'un engagement d'épargne à
 long terme est réputé égal au dernier cours coté au comptant de ces titres

@@ -1,6 +1,6 @@
 Article 822
 ----
-I. Donnent ouverture à un droit fixe de 250 F [*montant*] :
+I. Donnent ouverture à un droit fixe de 300 F [*montant*] :
 
 1° Les apports mobiliers constatés dans des actes d'augmentation du capital
 social des groupements agricoles fonciers [*GAF*] visés à l'article 5 de la loi

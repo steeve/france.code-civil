@@ -18,11 +18,16 @@ apportée, de ce chef, au bénéfice imposable.
 2° Les amortissements effectués suivant les règles applicables en matière de
 bénéfices industriels et commerciaux.
 
-1 bis. (Abrogé).
-
 3° Les loyers versés en exécution d'un contrat de crédit-bail ou de location au
 sens de l'article 281 bis C portant sur des voitures particulières, à
 l'exclusion de la part de loyer visée à l'article 39-4.
+
+Les dépenses exposées pour la tenue de la comptabilité et, éventuellement, pour
+l'adhésion à une association agréée ne sont pas prises en compte pour la
+détermination du résultat imposable lorsqu'elles sont supportées par l'Etat du
+fait de la réduction d'impôt mentionnée à l'article 199 quater B.
+
+1 bis. (Abrogé).
 
 1 ter. Les agents généraux d'assurances et leurs sous-agents peuvent demander
 que le revenu imposable provenant des commissions versées par les compagnies

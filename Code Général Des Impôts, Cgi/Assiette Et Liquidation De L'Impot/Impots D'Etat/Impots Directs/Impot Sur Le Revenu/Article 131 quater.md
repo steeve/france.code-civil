@@ -10,7 +10,7 @@ a. L'emprunt doit comporter une durée de cinq ans au moins et, en cas
 d'amortissement anticipé, une vie moyenne d'au moins trois ans ;
 
 b. L'opération doit être expressément admise par l'administration fiscale au
-bénéfice de ce régime spécial avant le 31 décembre 1982 [*date limite*] ;
+bénéfice de ce régime spécial avant le 31 décembre 1987 [*date limite*] ;
 
 II. Les dispositions du I sont également applicables :
 

@@ -1,6 +1,6 @@
 Article 1051
 ----
-Sont soumis à une imposition fixe de 250 F [*montant*] :
+Sont soumis à une imposition fixe de 300 F [*montant*] :
 
 1° Les transferts de biens de toute nature opérés entre organismes d'habitations
 à loyer modéré [*HLM*] et sociétés anonymes de crédit immobilier ou leurs unions
