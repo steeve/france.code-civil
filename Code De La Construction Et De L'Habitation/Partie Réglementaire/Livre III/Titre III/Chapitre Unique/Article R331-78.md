@@ -2,8 +2,7 @@ Article R331-78
 ----
 Dans les limites et conditions fixées par la section I (sous-sections I à V),
 sauf dispositions expresses particulières de la présente section, des prêts à
-taux préférentiel et révisable dont les caractéristiques sont définies à
-l'article R. 331-82 peuvent être accordés pour financer :
+taux préférentiel et révisable peuvent être accordés pour financer :
 
 L'acquisition de droits de construire ou de terrains destinés à la construction
 de logements à usage locatif et la construction de ces logements ;
