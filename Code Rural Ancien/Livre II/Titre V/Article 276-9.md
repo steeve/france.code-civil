@@ -1,0 +1,37 @@
+Article 276-9
+----
+Est puni de 50 000 F d'amende :
+
+1° Le fait, pour toute personne gérant un refuge ou une fourrière ou exerçant
+l'une des activités visées à l'article 276-3, en méconnaissance d'une mise en
+demeure prononcée en application de l'article 276-8 :
+
+- de ne pas avoir procédé à la déclaration prévue au IV de l'article 276-3 ;
+
+- de ne pas disposer d'installations conformes aux règles sanitaires et de
+protection animale pour les animaux ou de ne pas les utiliser ;
+
+- de ne pas être titulaire d'un certificat de capacité, ou de ne pas s'assurer
+qu'au moins une personne en contact avec les animaux, dans les lieux où
+s'exercent les activités, est titulaire d'un certificat de capacité ;
+
+2° Le fait, pour tout détenteur de plus de neuf chiens sevrés visés au V de
+l'article 276-3, de ne pas disposer d'installations conformes aux règles
+sanitaires et de protection animale pour ces animaux, malgré la mise en demeure
+prononcée en application de l'article 276-8.
+
+Les personnes physiques coupables de l'une des infractions prévues au présent
+article encourent également la peine complémentaire de l'affichage et la
+diffusion de la décision prononcée dans les conditions prévues par l'article
+131-35 du code pénal.
+
+Les personnes morales peuvent être déclarées responsables pénalement dans les
+conditions prévues par l'article 121-2 du code pénal des infractions prévues au
+présent article.
+
+Les peines encourues par les personnes morales sont :
+
+- l'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
+
+- l'affichage ou la diffusion ordonnés dans les conditions prévues par l'article
+131-35 du code pénal.

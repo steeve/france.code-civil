@@ -1,9 +1,8 @@
 Article 285
 ----
-Sont réputés vices rédhibitoires et donnent seuls ouverture aux actions
-résultant des articles 1641 et suivants du code civil, sans distinction des
-localités où les ventes et échanges ont lieu, les maladies ou défauts ci-après,
-savoir :
+Sont réputés vices rédhibitoires et donnent ouverture aux actions résultant des
+articles 1641 et suivants du code civil, sans distinction des localités où les
+ventes et échanges ont lieu, les maladies ou défauts ci-après, savoir :
 
 Pour le cheval, l'âne et le mulet :
 

@@ -1,15 +1,19 @@
 Article 277
 ----
-Tout entrepreneur de transport par terre ou par eau doit pourvoir, toutes les
-douze heures au moins, à l'abreuvement et à l'alimentation des animaux confiés à
-sa garde.
+I. - Toute personne procédant, dans un but lucratif, pour son compte ou pour le
+compte d'un tiers, au transport d'animaux vivants doit recevoir un agrément
+délivré par les services vétérinaires placés sous l'autorité du préfet. Ceux-ci
+s'assurent que le demandeur est en mesure d'exécuter les transports dans le
+respect des règles techniques et sanitaires en vigueur ainsi que des règles
+concernant la formation des personnels.
 
-Si les animaux transportés sont accompagnés d'un gardien, l'entrepreneur est
-tenu de fournir gratuitement les seaux, auges, et autres ustensiles pour
-permettre l'alimentation et l'abreuvement et aussi l'eau nécessaire.
+II. - Est puni d'une peine de six mois d'emprisonnement et de 50 000 F d'amende
+le fait de transporter des animaux sans détenir l'agrément prévu au I. Les
+personnes morales peuvent être déclarées responsables pénalement dans les
+conditions prévues par l'article 121-2 du code pénal de l'infraction prévue au
+présent article. La peine encourue par les personnes morales est l'amende
+suivant les modalités prévues par l'article 131-38 du code pénal.
 
-Les transports par chemin de fer restent d'ailleurs soumis aux règlements
-arrêtés par le ministre chargé des travaux publics, après avis du ministre de
-l'agriculture, les sociétés exploitantes entendues. Ces règlements déterminent
-les obligations des sociétés exploitantes et la rémunération qui peut leur être
-due.
+III. - Un décret en Conseil d'Etat détermine les conditions de délivrance, de
+suspension ou de retrait de l'agrément et les règles applicables au transport
+des animaux vivants.
