@@ -10,3 +10,7 @@ droits et libertés des communes, des départements et des régions.
 
 Les actes transmis sont accompagnés des dossiers et des pièces d'instruction
 ayant servi à leur délivrance.
+
+Lorsque a été prescrite la réalisation de fouilles archéologiques préventives,
+le permis de construire indique que les travaux de construction ne peuvent être
+entrepris avant l'achèvement de ces fouilles.
