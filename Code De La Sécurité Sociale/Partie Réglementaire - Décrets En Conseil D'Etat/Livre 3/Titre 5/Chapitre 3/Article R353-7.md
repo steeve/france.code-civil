@@ -13,6 +13,3 @@ la demande est déposée dans le délai d'un an suivant la période de douze moi
 3° Au premier jour du mois suivant la date de réception de la demande si
 celle-ci est déposée après l'expiration du délai d'un an mentionné aux 1° et 2°
 ci-dessus.
-
-Cette date ne peut toutefois être inférieure au premier jour du mois suivant le
-cinquante-cinquième anniversaire du conjoint survivant ou divorcé.

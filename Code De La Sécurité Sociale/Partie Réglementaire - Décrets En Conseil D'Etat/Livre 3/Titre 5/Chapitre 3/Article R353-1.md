@@ -1,26 +1,13 @@
 Article R353-1
 ----
-La pension de réversion prévue aux articles L. 353-1, L. 353-2 et L. 353-3 est
-attribuée lorsque le conjoint de l'assuré décédé ou disparu [*condition*] :
+Les ressources mentionnées au premier alinéa de l'article L. 353-1 sont
+appréciées dans les conditions fixées par les articles R. 815-25 à R. 815-28 et
+au deuxième alinéa de l'article R. 815-32 ; toutefois, elles ne comprennent pas
+les revenus d'activité et de remplacement de l'assuré décédé.
 
-1°) a atteint l'âge de cinquante-cinq ans ;
-
-2°) était marié depuis au moins deux ans [*durée*] à la date du décès ou de la
-disparition de l'assuré sauf si un enfant au moins est issu du mariage ;
-
-3°) ne dispose pas, à la date de la demande de pension de réversion, de
-ressources personnelles dépassant le montant annuel du salaire minimum de
-croissance. Ces ressources sont appréciées dans les conditions fixées par les
-articles R. 815-25 à R. 815-28 et R. 815-32 et sans tenir compte des avantages
-de réversion, ni des revenus des biens mobiliers et immobiliers acquis du chef
-du conjoint décédé ou disparu ou en raison de ce décès ou de cette disparition.
-Les ressources à prendre en compte sont celles afférentes aux trois mois civils
-précédant la date de la demande ; leur montant ne doit pas alors excéder le
-quart du montant annuel prévu ci-dessus, calculé sur la base de 2 080 fois le
-montant horaire du salaire minimum de croissance. Dans le cas contraire, ce
-montant annuel est comparé aux ressources afférentes aux douze mois civils
-précédant la date de la demande.
-
-Si les conditions de ressources ne sont pas remplies à la date de la demande,
-elles sont appréciées à la date du décès, compte tenu des dispositions en
-vigueur à cette date.
+Les ressources à prendre en compte lors de la demande sont celles afférentes aux
+trois mois civils précédant la date d'effet de la pension de réversion.
+Lorsqu'elles excèdent le quart du plafond applicable en vertu du premier alinéa
+de l'article L. 353-1, il leur est substitué celles afférentes aux douze mois
+civils précédant cette date, qui sont alors comparées au montant annuel de ce
+plafond.

@@ -26,5 +26,5 @@ chaque assuré titulaire d'une pension à la date du 1er janvier, à une
 compensation unique calculée au prorata du montant annuel des avantages
 d'invalidité versés au cours de l'année civile écoulée. Le montant de cette
 compensation n'est pas pris en compte pour l'appréciation de la condition de
-ressources en vue de l'attribution et du service d'un avantage non contributif,
-de l'allocation de veuvage ou d'une prestation d'aide sociale.
+ressources en vue de l'attribution et du service d'un avantage non contributif
+ou d'une prestation d'aide sociale.

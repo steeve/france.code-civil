@@ -26,5 +26,5 @@ chaque assuré titulaire d'une pension ou d'une rente à la date du 1er janvier,
 une compensation unique calculée au prorata du montant annuel des avantages de
 retraite versés au cours de l'année civile écoulée. Le montant de cette
 compensation n'est pas pris en compte pour l'appréciation de la condition de
-ressources en vue de l'attribution et du service d'un avantage non contributif,
-de l'allocation de veuvage ou d'une prestation d'aide sociale.
+ressources en vue de l'attribution et du service d'un avantage non contributif
+ou d'une prestation d'aide sociale.

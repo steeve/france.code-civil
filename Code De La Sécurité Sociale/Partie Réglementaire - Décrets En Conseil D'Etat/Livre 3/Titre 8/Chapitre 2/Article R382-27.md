@@ -14,9 +14,9 @@ fraction de cotisation est versée par l'artiste auteur à l'organisme agréé
 compétent.
 
 Lorsqu'il y a précompte, les cotisations dues au titre de l'assurance maladie
-maternité et de l'assurance veuvage, la contribution sociale généralisée et la
-contribution pour le remboursement de la dette sociale à la charge de
-l'artiste-auteur sont précomptées :
+maternité, la contribution sociale généralisée et la contribution pour le
+remboursement de la dette sociale à la charge de l'artiste-auteur sont
+précomptées :
 
 1° Aux taux de droit commun sur les revenus assimilés fiscalement à des
 traitements et salaires ;
