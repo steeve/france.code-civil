@@ -14,7 +14,8 @@ du décret du 24 février 1984 précité et à l'article 1er du décret du 29 ma
 Se joignent à eux, cumulativement et dans l'ordre fixé ci-dessous dès lors que
 la commission examine les questions de leur catégorie :
 
-a) Les assistants ;
+a) Les assistants, les praticiens contractuels et les praticiens adjoints
+contractuels ;
 
 b) Les pharmaciens gérants ;
 

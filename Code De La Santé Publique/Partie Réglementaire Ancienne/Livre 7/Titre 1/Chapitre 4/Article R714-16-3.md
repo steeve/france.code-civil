@@ -15,4 +15,4 @@ coordonnateurs de fédération. Dans le cas contraire, ces derniers sont classé
 dans la catégorie mentionnée à l'article R. 714-16-1 (2°). Les personnels
 mentionnés à l'article 1er, 2° et 3° et 77 du même décret sont classés dans la
 catégorie prévue à l'article R. 714-16-1 (3°) ; le nombre de représentants de
-cette catégorie est alors porté à trois.
+cette catégorie est alors porté à quatre.

@@ -9,7 +9,7 @@ par un ou des collaborateurs de leur choix dont le directeur du service des
 soins infirmiers ;
 
 b) Le représentant du comité technique d'établissement prévu à l'article L.
-714-19 ;
+6144-5 ;
 
 c) Le médecin inspecteur régional et le médecin inspecteur de la santé ;
 
@@ -19,8 +19,14 @@ plus âgé des candidats est élu ;
 
 e) Le médecin-conseil de la caisse assurant l'analyse d'activité de
 l'établissement en application de l'article R. 166-5 du code de la sécurité
-sociale.
+sociale ;
 
-Toutefois, les personnes mentionnées aux b, c, d et e ci-dessus ne siègent pas
-lorsque la commission médicale d'établissement se réunit en formation restreinte
-dans les cas prévus à l'article R. 714-16-24.
+f) Le médecin responsable de l'information médicale, s'il n'est pas membre de la
+commission ;
+
+g) Le médecin responsable de la médecine du travail, s'il n'est pas membre de la
+commission.
+
+Toutefois, les personnes mentionnées aux b à g ci-dessus ne siègent pas lorsque
+la commission médicale d'établissement se réunit en formation restreinte dans
+les cas prévus à l'article R. 714-16-24.

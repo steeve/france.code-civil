@@ -33,4 +33,16 @@ des assistants hospitaliers en application du décret n° 87-788 du 28 septembre
 1987 ;
 
 8° La candidature et les missions des consultants mentionnés au dernier alinéa
-de l'article L. 714-21.
+de l'article L. 714-21 ;
+
+9° Le renouvellement triennal des attachés, en application du décret n° 81-291
+du 30 mars 1981 ;
+
+10° L'examen des candidatures de praticiens contractuels en application du
+décret n° 93-701 du 27 mars 1993 ;
+
+11° L'examen des candidatures de praticiens adjoints contractuels en application
+du décret n° 95-569 du 6 mai 1995 ;
+
+12° L'examen des conventions relatives aux activités d'intérêt général prévues à
+l'article 11 du décret n° 82-1149 du 29 décembre 1982.

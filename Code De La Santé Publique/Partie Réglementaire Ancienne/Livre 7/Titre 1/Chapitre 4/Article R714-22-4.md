@@ -8,7 +8,7 @@ département ;
 
 2° La sage-femme ou le cadre paramédical ou médico-technique qui assiste le chef
 de service ou de département en application du premier alinéa de l'artice L.
-714-23 ;
+6146-5 ;
 
 3° Le surveillant-chef ou le surveillant du service ou du département ;
 

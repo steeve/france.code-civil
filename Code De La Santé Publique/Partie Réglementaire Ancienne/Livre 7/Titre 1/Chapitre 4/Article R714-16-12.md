@@ -45,4 +45,4 @@ Le nombre de lits ou places mentionné au 2° du présent article est constaté 
 le directeur de l'agence régionale de l'hospitalisation. Il n'est tenu compte
 que des places autorisées. Le nombre de lits de soins de longue durée est compté
 pour moitié. N'entrent pas en ligne de compte les lits qui ne répondent pas aux
-missions définies à l'article L. 711-3.
+missions définies à l'article L. 6112-1.

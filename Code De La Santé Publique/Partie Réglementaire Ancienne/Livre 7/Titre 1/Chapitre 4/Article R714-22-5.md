@@ -11,8 +11,9 @@ maîtres de conférences des universités - praticiens hospitaliers, des pratici
 hospitaliers universitaires et des praticiens hospitaliers à temps plein et à
 temps partiel ;
 
-b) Le collège des chefs de clinique des universités - assistants des hôpitaux,
-des assistants hospitaliers universitaires et des assistants ;
+b) Le collège des chefs de clinique des universités-assistants des hôpitaux, des
+assistants hospitaliers universitaires, des assistants, des praticiens
+contractuels et des praticiens adjoints contractuels ;
 
 c) Le collège des attachés des hôpitaux ;
 

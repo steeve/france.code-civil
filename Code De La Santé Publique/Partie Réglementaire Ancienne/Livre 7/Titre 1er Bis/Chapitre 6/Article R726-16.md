@@ -16,8 +16,14 @@ commission au scrutin majoritaire à un tour ; en cas d'égalité de suffrages, 
 plus âgé des candidats est élu ;
 
 e) Le médecin chargé du contrôle médical auprès de la caisse de prévoyance
-sociale de Mayotte.
+sociale de Mayotte ;
 
-Toutefois, les personnes mentionnées aux b, c, d et e ci-dessus ne siègent pas
-lorsque la commission médicale d'établissement se réunit en formation restreinte
-dans les cas prévus à l'article R. 726-18.
+f) Le médecin responsable de l'information médicale, s'il n'est pas membre de la
+commission ;
+
+g) Le médecin responsable de la médecine du travail, s'il n'est pas membre de la
+commission.
+
+Toutefois, les personnes mentionnées aux b à g ci-dessus ne siègent pas lorsque
+la commission médicale d'établissement se réunit en formation restreinte dans
+les cas prévus à l'article R. 726-18.

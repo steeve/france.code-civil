@@ -23,7 +23,8 @@ c) Les personnels temporaires et non titulaires mentionnés aux articles 1er (2�
 3°) et 77 du décret n° 84-135 du 24 février 1984 et à l'article 1er B du décret
 du 24 janvier 1990 ;
 
-d) Les assistants ;
+d) Les assistants, les praticiens contractuels et les praticiens adjoints
+contractuels ;
 
 e) Les pharmaciens gérants ;
 
