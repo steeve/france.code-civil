@@ -5,10 +5,11 @@ présente section. Ces annexes sont au nombre de six et sont respectivement
 relatives aux clauses que doivent insérer dans leurs statuts :
 
 1° Pour l'annexe I, les sociétés immobilières mentionnées au 2° du I de
-l'article R. 313-31 qui ont pris la forme de sociétés anonymes ; ces sociétés
-peuvent réaliser des opérations locatives prévues à l'article R. 313-17 et des
-opérations à finalité d'accession à la propriété prévues à l'article R. 313-16
-financées dans les conditions dudit article.
+l'article R. 313-31 qui ont pris la forme de sociétés anonymes ou de sociétés
+par actions simplifiées ; ces sociétés peuvent réaliser des opérations locatives
+prévues à l'article R. 313-17 et des opérations à finalité d'accession à la
+propriété prévues à l'article R. 313-16 financées dans les conditions dudit
+article.
 
 2° Pour l'annexe II, les sociétés immobilières mentionnées au 2° du I de
 l'article R. 313-31 qui ont pris la forme de sociétés civiles et qui ne peuvent
