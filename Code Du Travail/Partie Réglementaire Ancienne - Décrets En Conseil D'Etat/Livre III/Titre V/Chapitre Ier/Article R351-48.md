@@ -1,9 +1,8 @@
 Article R351-48
 ----
-Le montant de l'aide est majoré de deux allocations spécifiques de solidarité
-servies pendant une période de 250 jours à compter du 91ème jour d'activité,
-lorsque le projet comporte au minimum une création nette et immédiate d'emploi
-salarié.
+Le montant de l'aide est majoré de deux allocations journalières servies pendant
+une période de 250 jours à compter du 91ème jour d'activité, lorsque le projet
+comporte au minimum une création nette et immédiate d'emploi salarié.
 
 Cette majoration ne peut être accordée que pour la conclusion d'un contrat de
 travail à durée indéterminée et à temps complet. Elle ne peut être accordée au
