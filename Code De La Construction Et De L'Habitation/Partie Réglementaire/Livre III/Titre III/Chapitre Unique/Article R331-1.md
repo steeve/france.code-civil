@@ -47,4 +47,6 @@ et travaux mentionnés aux 1°, 2°, 4°, 6°, 7° et 8° de l'alinéa précéde
 coût d'acquisition de ces logements ne doit pas excéder un pourcentage du prix
 témoin des opérations d'acquisition-amélioration fixé par arrêté des ministres
 chargés de la construction et de l'habitation et des finances pour des zones
-géographiques déterminées.
+géographiques déterminées. Ces dispositions s'appliquent également aux
+logements-foyers dénommés résidences sociales et mentionnés à l'article R.
+351-55.
