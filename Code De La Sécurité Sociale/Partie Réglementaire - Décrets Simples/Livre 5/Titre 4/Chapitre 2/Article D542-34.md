@@ -8,3 +8,5 @@ familiales.
 Ce pourcentage est égal à 240 p. 100 pour les familles de trois enfants nés ou à
 naître, avec majoration de 20 p. 100 par enfant né ou à naître au-delà du
 troisième.
+
+Le montant de la prime de déménagement est arrondi au franc le plus proche.
