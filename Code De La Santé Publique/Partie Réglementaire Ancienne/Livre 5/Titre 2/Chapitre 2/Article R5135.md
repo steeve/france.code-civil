@@ -16,6 +16,9 @@ stupéfiant ou de l'application des dispositions des articles R. 5208-1 ou R.
 c) Médicament soumis à prescription restreinte en application des dispositions
 de l'article R. 5143-5-1.
 
+Elle fixe, le cas échéant, les restrictions en matière de publicité auprès du
+public prévues au premier alinéa de l'article L. 551-3.
+
 L'autorisation est accompagnée du résumé des caractéristiques du produit
 mentionné à l'article R. 5128, tel que ce résumé est approuvé par le directeur
 général de l'Agence du médicament.

@@ -1,13 +1,7 @@
 Article R5045
 ----
-Les dispositions du présent chapitre sont applicables à toute publicité ou
-propagande faite, sous quelque forme que ce soit, pour :
-
-1° Les médicaments à usage humain ;
-
-2° Les produits et objets mentionnés à l'article L. 551 (deuxième et troisième
-alinéa) ;
-
-3° Les objets, appareils et méthodes mentionnés à l'article L. 552 ;
-
-4° Les officines et autres établissements pharmaceutiques.
+Tous les éléments contenus dans la publicité pour un médicament, lorsque
+celle-ci est admise, doivent être conformes aux renseignements figurant dans le
+résumé des caractéristiques du produit mentionné à l'article R. 5128, ou, pour
+les médicaments homéopathiques mentionnés à l'article L. 601-3, aux
+renseignements figurant dans le dossier d'enregistrement.

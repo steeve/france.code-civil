@@ -53,9 +53,9 @@ La commission peut faire appel à des experts qui siègent avec voix consultativ
 et le ministre chargé de la santé peut lui demander d'en entendre.
 
 L'instruction des dossiers peut être confiée à des rapporteurs extérieurs à la
-commission désignés par le directeur de la pharmacie et du médicament sur
-proposition du président de la commission. Ces rapporteurs peuvent être appelés
-à siéger à la commission avec voix consultative.
+commission désignés par le directeur général de la santé sur proposition du
+président de la commission. Ces rapporteurs peuvent être appelés à siéger à la
+commission avec voix consultative.
 
-Le secrétariat de la commission est assuré par la direction de la pharmacie et
-du médicament.
+Le secrétariat de la commission est assuré par la direction générale de la
+santé.

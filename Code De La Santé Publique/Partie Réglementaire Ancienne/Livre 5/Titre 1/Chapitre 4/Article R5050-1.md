@@ -1,9 +1,16 @@
 Article R5050-1
 ----
-Sont dispensées de visa de publicité, lorsqu'elles figurent sur les
-conditionnements, récipients, prospectus ou notices relatifs aux produits
-mentionnés au deuxième alinéa de l'article L. 551, les mentions suivantes :
+Toute publicité auprès du public pour un produit mentionné à l'article L. 658-11
+doit :
 
-a) Le nom et la composition du produit ;
+1. Etre conçue de façon à ce que le caractère publicitaire du message soit
+évident ;
 
-b) Le mode d'emploi et les précautions d'emploi, s'il y a lieu.
+2. Comporter au moins :
+
+a) La dénomination du produit ainsi que sa composition ;
+
+b) Les informations indispensables au bon usage du produit ;
+
+c) Une invitation expresse et lisible à lire attentivement les instructions
+figurant sur la notice ou sur le conditionnement extérieur, selon le cas.

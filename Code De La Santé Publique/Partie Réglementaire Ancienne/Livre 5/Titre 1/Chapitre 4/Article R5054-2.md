@@ -1,38 +1,15 @@
 Article R5054-2
 ----
-I. - La commission est consultée sur les demandes et les retraits de visas de
-publicité dans les conditions fixées à la section I.
+La commission se réunit sur convocation du directeur général de l'Agence du
+médicament.
 
-II. - Lorsque la publicité n'est pas soumise à autorisation, le directeur
-général de l'Agence du médicament peut, en cas d'inobservation des dispositions
-applicables, et par dérogation à l'article R. 5045-2, mettre en demeure le
-responsable de la mise sur le marché de modifier une publicité dans un délai
-déterminé. En cas de non-respect de cette mise en demeure, après avis de la
-commission, il peut prononcer l'interdiction de la publicité incriminée.
+Les délibérations ne sont valables que si la moitié au moins des membres de la
+commission sont présents.
 
-Après avis de la commission, le directeur général de l'Agence du médicament peut
-:
+Le résultat des votes est acquis à la majorité des votes exprimés. En cas de
+partage égal de voix, celle du président est prépondérante.
 
-1. Interdire une publicité ;
-
-2. Interdire la poursuite d'une campagne publicitaire ;
-
-3. Interdire une publicité ou la poursuite d'une campagne publicitaire et exiger
-soit la diffusion, par les mêmes moyens ou des moyens équivalents, d'un
-rectificatif approuvé par la commission, soit l'envoi de lettres rectificatives
-aux destinataires de la publicité et ce aux frais de l'établissement.
-
-Le directeur général de l'Agence du médicament rend publiques les mesures
-d'interdiction. Ces mesures ne peuvent être prises qu'après que l'intéressé a
-été avisé et, s'il le désire, entendu par la commission.
-
-En cas d'urgence, le directeur général de l'Agence du médicament peut suspendre,
-sans consultation préalable de la commission et pour une durée de trois mois au
-plus, la diffusion d'une publicité manifestement contraire aux dispositions
-applicables. La commission doit être saisie dans ce délai.
-
-Pour la publicité en faveur des produits mentionnés au deuxième alinéa de
-l'article L. 551, les décisions prévues au présent article sont prises par le
-ministre chargé de la santé.
-
-Les mesures d'interdiction sont publiées par extrait au Journal officiel.
+Le secrétariat de la commission est assuré par l'Agence du médicament. Le
+secrétariat des groupes de travail est assuré par l'Agence du médicament ou,
+pour les groupes compétents à l'égard des produits mentionnés à l'article L.
+551-10, par la direction générale de la santé.

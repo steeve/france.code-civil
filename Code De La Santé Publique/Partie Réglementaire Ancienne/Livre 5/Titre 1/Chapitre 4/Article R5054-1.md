@@ -8,31 +8,25 @@ En cas de vacance survenant au cours d'un mandat, le mandat du suppléant appel�
 à remplacer un membre titulaire ou celui du membre nouveau appelé à remplacer un
 suppléant prend fin à la même date que celui du membre remplacé.
 
-La commission peut faire appel à des experts qui siègent avec voix consultative
-et le ministre chargé de la santé ou le directeur général de l'Agence du
-médicament peut lui demander d'en entendre.
+La commission peut faire appel à des experts, qui siègent avec voix
+consultative. Le ministre chargé de la santé ou le directeur général de l'Agence
+du médicament peut demander à la commission d'entendre des experts.
 
 L'instruction des dossiers peut être confiée à des rapporteurs extérieurs à la
-commission, désignés par le directeur général de l'Agence du médicament, sur
-proposition du président de la commission.
+commission, désignés par le directeur général de l'Agence du médicament ou,
+lorsqu'il s'agit de dossiers concernant les produits mentionnés à l'article L.
+551-10, par décision du ministre chargé de la santé prise après avis du
+directeur général de l'Agence du médicament.
 
 Ces rapporteurs peuvent être appelés à siéger à la commission avec voix
 consultative.
 
-Des groupes de travail peuvent être créés par le directeur général de l'Agence
-du médicament, sur proposition du président, notamment en vue de préparer les
-avis de la commission.
+Des groupes de travail peuvent être créés, notamment en vue de préparer les avis
+de la commission, par le directeur général de l'Agence du médicament ou, pour
+les groupes compétents à l'égard des produits mentionnés à l'article L. 551-10,
+par décision du ministre chargé de la santé prise après avis du directeur
+général de l'Agence du médicament.
 
-La commission se réunit sur convocation de son président ou du directeur général
-de l'Agence du médicament.
-
-Les délibérations ne sont valables que si la moitié des membres de la commission
-sont présents.
-
-Les résultats des votes sont acquis à la majorité des votes exprimés. En cas de
-partage des voix, celle du président est prépondérante.
-
-Les délibérations sont secrètes.
-
-Le secrétariat de la commission et des groupes de travail est assuré par
-l'Agence du médicament.
+Le ministre chargé de la santé ou le directeur général de l'Agence du médicament
+peut demander la communication de toute information complémentaire nécessaire à
+l'accomplissement des missions de la commission.

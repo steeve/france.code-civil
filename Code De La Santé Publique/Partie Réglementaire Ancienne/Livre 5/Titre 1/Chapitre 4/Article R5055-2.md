@@ -10,7 +10,7 @@ Par un procureur de la République ;
 Par un pharmacien-inspecteur régional de la santé ;
 
 Par un conseil de l'ordre ou un syndicat des médecins, des pharmaciens, des
-chirurgiens dentistes, des sages-femmes, ou par un syndicat de membres des
+chirurgiens-dentistes, des sages-femmes, ou par un syndicat de membres des
 professions paramédicales ;
 
 Par un organisme réunissant des professionnels de la publicité ;

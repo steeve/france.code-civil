@@ -1,16 +1,45 @@
 Article R5047
 ----
-Sous réserve des dispositions des articles R. 5049 et R. 5050-1, la publicité
-auprès du public relative à des médicaments dont la délivrance n'est pas
-obligatoirement soumise à prescription médicale, en application du titre III du
-livre V du présent code, et qui ne sont pas remboursés par les organismes de
-sécurité sociale, en application des articles R. 163-1 à R. 163-12 du code de la
-sécurité sociale, ainsi que la publicité relative aux produits mentionnés au
-deuxième alinéa de l'article L. 551 sont soumises à une autorisation du ministre
-chargé de la santé ou, dans le cas mentionné au 1° de l'article R. 5045-2, du
-directeur général de l'Agence du médicament dénommée visa de publicité et
-délivrée après avis de la commission chargée du contrôle de la publicité et de
-la diffusion de recommandations sur le bon usage des médicaments. Ce visa est
-réputé acquis au terme d'un délai d'un mois après l'avis de ladite commission.
+Toute publicité pour un médicament auprès des professionnels de santé mentionnés
+à l'article L. 551-6 doit être adaptée à ses destinataires. Elle doit préciser
+la date à laquelle elle a été établie ou révisée en dernier lieu et comporter au
+moins les informations suivantes :
 
-Pour les autres médicaments toute publicité auprès du public est interdite.
+a) La dénomination du médicament ;
+
+b) Le nom et l'adresse de l'entreprise exploitant le médicament ;
+
+c) La forme pharmaceutique du médicament ;
+
+d) La composition qualitative et quantitative en principes actifs, avec la
+dénomination commune, et en constituants de l'excipient dont la connaissance est
+nécessaire à la bonne administration du médicament ;
+
+e) Le (ou les) numéro(s) d'autorisation de mise sur le marché ou
+d'enregistrement ;
+
+f) La (ou les) propriété(s) pharmacologique(s) essentielle(s) au regard des
+indications thérapeutiques ;
+
+g) Les indications thérapeutiques et les contre-indications ;
+
+h) Le mode d'administration et si nécessaire la voie d'administration ;
+
+i) La posologie ;
+
+j) Les effets indésirables ;
+
+k) Les mises en garde spéciales et les précautions particulières d'emploi ;
+
+l) Les interactions médicamenteuses et autres ;
+
+m) Le classement du médicament en matière de prescription et de délivrance
+mentionné dans l'autorisation de mise sur le marché ;
+
+n) Le prix limite de vente au public lorsqu'un tel prix est fixé en application
+des lois et règlements en vigueur, accompagné, dans ce cas, du coût du
+traitement journalier ;
+
+o) La situation du médicament au regard du remboursement par les organismes
+d'assurance maladie, ou de l'agrément pour les collectivités publiques prévu à
+l'article L. 618.

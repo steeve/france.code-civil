@@ -1,4 +1,5 @@
 Article R5047-2
 ----
-Toute publicité diffusée auprès du public doit faire mention du numéro sous
-lequel le visa a été délivré.
+Lorsqu'un médicament est soumis aux conditions de prescription restreinte
+prévues aux articles R. 5143-5-1 à R. 5143-5-5, la publicité ne peut être
+effectuée qu'auprès des prescripteurs habilités à établir la prescription.

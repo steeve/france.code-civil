@@ -1,20 +1,12 @@
 Article R5046-2
 ----
-Il ne peut être délivré des échantillons de spécialités pharmaceutiques qu'aux
-personnes habilitées à prescrire des médicaments et à la condition que les
-bénéficiaires en aient fait la demande, dans les limites fixées par les
-dispositions relatives à leur droit de prescription.
+Le visa de publicité mentionné à l'article L. 551-5 est délivré par le directeur
+général de l'Agence du médicament, après avis de la commission chargée du
+contrôle de la publicité et de la diffusion de recommandations sur le bon usage
+des médicaments mentionnée à l'article R. 5054.
 
-Dans les établissements de soins, des échantillons de médicaments peuvent être
-remis aux prescripteurs, sur leur demande, par l'intermédiaire du pharmacien de
-l'établissement.
-
-Toute délivrance d'échantillon d'un médicament soumis au régime des stupéfiants
-est interdite.
-
-Les échantillons doivent être identiques aux spécialités pharmaceutiques
-concernées et porter la mention "échantillon médical gratuit".
-
-La délivrance d'échantillons des spécialités pharmaceutiques est interdite dans
-les enceintes accessibles au public à l'occasion de congrès médicaux et
-pharmaceutiques.
+Ce visa est réputé acquis au terme d'un délai d'un mois courant à partir du
+premier jour suivant la séance de la commission au cours de laquelle un avis a
+été donné sur la publicité concernée. Dans ce cas, le directeur général de
+l'Agence du médicament communique sans délai à l'entreprise le numéro d'ordre du
+visa mentionné à l'article R. 5046-3.
