@@ -1,15 +1,29 @@
 Article D231-2
 ----
-Les sièges de représentants désignés des assurés sociaux dans les conseils
-d'administration des caisses de sécurité sociale sont répartis entre les
-organisations syndicales nationales représentatives à la représentation
-proportionnelle avec application de la règle du plus fort reste.
+Les sièges des représentants des assurés sociaux dans les conseils
+d'administration des organismes visés aux articles L. 211-2, L. 212-2, L. 213-2,
+L. 215-2, L. 215-3, L. 215-7, L. 752-6 et L. 752-9 sont répartis ainsi :
 
-Un arrêté du ministre chargé de la sécurité sociale, publié au Journal Officiel
-de la République française, "fixe en conséquence le nombre de sièges revenant à
-chaque organisation dans le conseil d'administration de chacune des caisses
-nationales.
+- Confédération générale du travail : deux ;
 
-Un arrêté du commissaire de la République de la région dans laquelle la caisse a
-son siège fixe dans les mêmes conditions le nombre de sièges revenant à chaque
-organisation dans le conseil d'administration de chaque caisse régionale.
+- Confédération générale du travail Force ouvrière : deux ;
+
+- Confédération française démocratique du travail : deux ;
+
+- Confédération française des travailleurs chrétiens : un ;
+
+- Confédération française de l'encadrement CGC : un.
+
+Les sièges des représentants des assurés sociaux dans les conseils
+d'administration des caisses nationales et de l'Agence centrale des organismes
+de sécurité sociale sont répartis ainsi :
+
+- Confédération générale du travail : trois ;
+
+- Confédération générale du travail Force ouvrière : trois ;
+
+- Confédération française démocratique du travail : trois ;
+
+- Confédération française des travailleurs chrétiens : deux ;
+
+- Confédération française de l'encadrement CGC : deux.

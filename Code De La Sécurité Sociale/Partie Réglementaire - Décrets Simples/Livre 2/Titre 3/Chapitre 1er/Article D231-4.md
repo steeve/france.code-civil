@@ -1,8 +1,9 @@
 Article D231-4
 ----
-Les membres des conseils d'administration des caisses nationales et de l'Union
-des caisses nationales de sécurité sociale sont nommés par arrêté du ministre
-chargé de la sécurité sociale.
+Les membres des conseils d'administration des caisses nationales de l'Agence
+centrale des organismes de sécurité sociale et de l'Union des caisses nationales
+de sécurité sociale sont nommés par arrêté du ministre chargé de la sécurité
+sociale.
 
 Les membres désignés des conseils d'administration des autres caisses ainsi que
 des unions de recouvrement des cotisations de sécurité sociale sont nommés par
