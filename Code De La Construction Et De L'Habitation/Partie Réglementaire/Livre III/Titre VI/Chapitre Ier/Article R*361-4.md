@@ -134,10 +134,20 @@ d) Pour les usagers, douze membres représentant :
 
 - la Confédération générale des cadres.
 
-e) Six personnalités choisies en raison de leur compétence par le ministre
+e) Pour les associations d'insertion et de défense des personnes en situation
+d'exclusion par le logement, quatre membres, à savoir :
+
+- deux membres représentant l'Union nationale interfédérale des oeuvres et
+organismes privés sanitaires et sociaux ;
+
+- un membre représentant Aide à toute détresse Quart-Monde (ATD Quart-Monde) ;
+
+- un membre représentant Droit au logement (DAL).
+
+f) Six personnalités choisies en raison de leur compétence par le ministre
 chargé de la construction et de l'habitation.
 
-Les membres mentionnés aux c et d du présent article sont désignés par
-l'organisme qu'ils représentent. Des suppléants des membres mentionnés aux b, c
-et d sont désignés en nombre égal et dans les mêmes conditions que les
+Les membres mentionnés aux c, d et e du présent article sont désignés par
+l'organisme qu'ils représentent. Des suppléants des membres mentionnés aux b, c,
+d et e sont désignés en nombre égal et dans les mêmes conditions que les
 titulaires.
