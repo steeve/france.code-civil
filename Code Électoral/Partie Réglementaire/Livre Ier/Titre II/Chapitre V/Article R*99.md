@@ -1,5 +1,6 @@
 Article R*99
 ----
-La déclaration de candidature est rédigée sur papier libre. Elle comporte, outre
-les mentions prévues à l'article L. 155, l'indication de la liste électorale sur
-laquelle chacun des candidats est inscrit.
+Les déclarations de candidatures peuvent être rédigées sur papier libre. Elles
+comportent, outre les mentions prévues aux articles L. 154 L. 155, l'indication
+des listes électorales sur lesquelles le candidat et son remplaçant sont
+inscrits.
