@@ -1,13 +1,25 @@
 Article R231-54-3
 ----
-Les installations et les appareils de protection collective doivent être
-régulièrement vérifiés et maintenus en parfait état de fonctionnement. Les
-résultats des vérifications sont tenus à la disposition de l'inspecteur du
-travail, des agents des services de prévention des organismes de sécurité
-sociale, du médecin du travail et des membres du comité d'hygiène, de sécurité
-et des conditions de travail ou, à défaut, des délégués du personnel.
+L'employeur définit et applique les mesures de prévention visant à supprimer ou
+à réduire au minimum le risque d'exposition à des agents chimiques dangereux :
 
-En outre, une notice, établie par l'employeur après avis du comité d'hygiène, de
-sécurité et des conditions de travail ou, à défaut, des délégués du personnel,
-fixe les procédures à mettre en oeuvre pour assurer la surveillance et la
-maintenance des installations de protection collective.
+1° En concevant et en organisant des méthodes de travail adaptées ;
+
+2° En prévoyant un matériel adéquat pour les opérations impliquant des agents
+chimiques dangereux ainsi que des procédures d'entretien régulières qui
+protègent la santé et la sécurité des travailleurs ;
+
+3° En réduisant au minimum le nombre de travailleurs exposés ou susceptibles de
+l'être, compte tenu des risques encourus par un travailleur isolé ;
+
+4° En réduisant au minimum la durée et l'intensité de l'exposition ;
+
+5° En imposant des mesures d'hygiène appropriées ;
+
+6° En réduisant au minimum nécessaire la quantité d'agents chimiques présents
+sur le lieu de travail pour le type de travail concerné ;
+
+7° En concevant des procédures de travail adéquates, notamment des dispositions
+assurant la sécurité lors de la manutention, du stockage et du transport sur le
+lieu de travail des agents chimiques dangereux et des déchets contenant de tels
+agents.

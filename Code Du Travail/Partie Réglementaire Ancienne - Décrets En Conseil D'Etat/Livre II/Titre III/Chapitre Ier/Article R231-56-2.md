@@ -7,5 +7,5 @@ mesure où cela est techniquement possible, par une substance, une préparation 
 un procédé qui, dans ses conditions d'emploi, n'est pas ou est moins dangereux
 pour la santé ou la sécurité des travailleurs.
 
-II. - L'employeur fournit, sur sa demande, à l'inspecteur du travail le résultat
-de ses investigations.
+II. - L'employeur consigne le résultat de ses investigations dans le document
+unique prévu à l'article R. 230-1.

@@ -1,15 +1,13 @@
 Article R231-54-8
 ----
-I. - Une signalisation de sécurité appropriée doit être mise en place dans les
-locaux de travail où sont utilisées des substances ou des préparations chimiques
-dangereuses, afin d'informer les travailleurs de l'existence d'un risque
-d'émissions accidentelles, dangereuses pour la santé.
+Les installations et les appareils de protection collective doivent être
+régulièrement vérifiés et maintenus en parfait état de fonctionnement. Les
+résultats des vérifications sont consignés dans les conditions prévues à
+l'article L. 620-6.
 
-II. - En cas d'incident ou d'accident de fonctionnement des installations et des
-appareils de protection collective, susceptible d'entraîner une exposition
-importante des travailleurs, le personnel non indispensable à la sécurité de
-marche des installations ou aux interventions nécessaires pour remédier à la
-pollution éventuelle doit être évacué de la zone à risque.
-
-Ce personnel ne peut être autorisé à revenir sur les lieux que lorsque l'air
-présente l'état de pureté suffisant.
+En outre, une notice, établie par l'employeur, après avis du comité d'hygiène,
+de sécurité et des conditions de travail ou, à défaut, des délégués du
+personnel, fixe les conditions de l'entretien des installations et des appareils
+de protection collective et les procédures à mettre en oeuvre pour assurer leur
+surveillance, notamment pour détecter d'éventuelles défaillances et les
+éliminer.
