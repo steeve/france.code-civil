@@ -1,7 +1,7 @@
 Article 39
 ----
 La déclaration mentionnée à l'article 87 du code général des impôts doit
-comporter, par établissement, les indications suivantes [*contenu*] :
+comporter, par établissement, les indications suivantes :
 
 1° Concernant le déclarant :
 
@@ -18,22 +18,26 @@ c) Le montant de la taxe sur les salaires ;
 a) Son identification : nom patronymique, le cas échéant nom de l'époux,
 prénoms, sexe, date et lieu de naissance ;
 
-b) L'adresse de son domicile au 31 décembre de l'année du revenu ; c) La nature,
-la période et les conditions d'exercice de l'emploi ;
+b) L'adresse de son domicile au 31 décembre de l'année du revenu ;
 
-d) Le montant des sommes payées pendant l'année, en distinguant :
+c) La nature, la période et les conditions d'exercice de l'emploi ;
 
-- le montant des sommes payées en argent avant et après déduction des
-contributions ouvrières aux assurances sociales et au chômage et des retenues
-pour la retraite ;
+d) Le montant des sommes payées pendant l'année en distinguant ;
+
+- le montant brut des rémunérations entendu au sens des articles 231 et suivants
+du code général des impôts ;
+
+- le total des versements en argent et en nature après déduction des cotisations
+ouvrières aux assurances sociales et au chômage et des retenues pour la retraite
+;
 
 - la valeur et le type des avantages en nature ;
 
 - le montant des indemnités pour frais d'emploi et des remboursements de frais,
-avec l'indication de leur caractère forfaitaire ou réel ou de leur prise en
-charge directe par l'employeur ;
+avec indication de leur caractère forfaitaire ou réel ou de leur prise en charge
+directe par l'employeur ;
 
-- le montant des sommes versées au titre des chèques vacances ;
+- le montant des sommes versées au titre des chèques vacances.
 
 e) Le taux de la déduction supplémentaire à laquelle la profession exercée ouvre
 droit, le cas échéant, ainsi que l'option choisie par l'entreprise pour

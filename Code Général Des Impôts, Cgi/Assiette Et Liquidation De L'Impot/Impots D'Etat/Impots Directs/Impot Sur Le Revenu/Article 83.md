@@ -19,11 +19,11 @@ prévoyance complémentaires auxquels le salarié est affilié à titre obligato
 
 Lorsque le total des versements du salarié et de l'employeur tant aux caisses de
 sécurité sociale au titre de l'assurance vieillesse qu'aux organismes de
-retraite et de prévoyance complémentaires excède 19 % d'une somme égale à huit
-fois le plafond annuel moyen retenu pour le calcul des cotisations de sécurité
-sociale ou lorsqu'à l'intérieur de cette limite, les versements aux seuls
-organismes de prévoyance dépassent 3 % de la même somme, l'excédent est ajouté à
-la rémunération ;
+retraite et de prévoyance complémentaires excède 19 % d'une somme égale à douze
+fois (2) le plafond annuel moyen retenu pour le calcul des cotisations de
+sécurité sociale ou lorsqu'à l'intérieur de cette limite, les versements aux
+seuls organismes de prévoyance dépassent 3 % de la même somme, l'excédent est
+ajouté à la rémunération ;
 
 2° bis Les contributions payées par les salariés prévues par l'article L 351-3
 du code du travail relatif aux allocations d'assurance ;
@@ -60,7 +60,7 @@ conjoint se trouve dans l'un des cas prévus au troisième alinéa de l'article 
 quinquies B.
 
 Un décret fixe les modalités d'application du présent paragraphe, notamment les
-obligations des emprunteurs et des intermédiaires agréés (2).
+obligations des emprunteurs et des intermédiaires agréés (3).
 
 2° quinquies Les intérêts des emprunts contractés, à compter du 1er janvier
 1984, pour souscrire au capital d'une société coopérative ouvrière de production
@@ -68,7 +68,7 @@ obligations des emprunteurs et des intermédiaires agréés (2).
 l'article 48 de la loi n° 78-763 du 19 juillet 1978 portant statut des sociétés
 coopératives ouvrières de production.
 
-Cette disposition est applicable dans les conditions fixées au 2° quater.
+Cette disposition est applicable dans les conditions fixées au 2° quater (3).
 
 3° Les frais inhérents à la fonction ou à l'emploi lorsqu'ils ne sont pas
 couverts par des allocations spéciales.
@@ -77,7 +77,7 @@ La déduction à effectuer du chef des frais professionnels est calculée
 forfaitairement en fonction du revenu brut, après défalcation des cotisations,
 contributions et intérêts mentionnés aux 1° à 2° quinquies et à l'article 83 bis
 ; elle est fixée à 10 % du montant de ce revenu. Elle est limitée à 54.770 F
-pour l'imposition des rémunérations perçues en 1984 (3) ; chaque année, le
+pour l'imposition des rémunérations perçues en 1984 (4) ; chaque année, le
 plafond retenu pour l'imposition des revenus de l'année précédente est relevé
 dans la même proportion que la limite supérieure de la septième tranche du
 barème de l'impôt sur le revenu.
@@ -85,7 +85,7 @@ barème de l'impôt sur le revenu.
 Toutefois, en ce qui concerne les catégories de professions qui comportent des
 frais dont le montant est notoirement supérieur à celui résultant de
 l'application du pourcentage prévu à l'alinéa précédent, un arrêté ministériel
-(4) fixe le taux de la déduction dont les contribuables appartenant à ces
+(5) fixe le taux de la déduction dont les contribuables appartenant à ces
 professions peuvent bénéficier en sus de la déduction forfaitaire visée audit
 alinéa. Cette déduction supplémentaire est limitée à 50.000 F. Elle est calculée
 sur le montant global des rémunérations et des remboursements et allocations
@@ -105,7 +105,12 @@ prévu aux articles R. 196-1 et R. 196-3 du livre des procédures fiscales.
 
 (1) Annexe III, art. 38 septdecies.
 
-(2) Annexe III, art. 38 septdecies A à 38 septdecies E.
+(2) Jusqu'à l'imposition des revenus de l'année 1987 cette limite est égale à
+huit fois le même plafond.
 
-(3) Plafond fixé à 57.840 F pour l'imposition des revenus de 1985. (4) Annexe
-IV, art. 5 et 5 A.
+(3) Annexe III, art. 38 septdecies A à 38 septdecies E.
+
+(4) Plafond fixé à 59.230 F pour l'imposition des revenus de 1986, à 61.190 F
+pour l'imposition des revenus de 1987.
+
+(5) Annexe IV, art. 5 et 5 A.

@@ -17,9 +17,9 @@ familial, l'allocation aux adultes handicapés, les suppléments de revenu
 familial prévus par la loi n° 80-545 du 17 juillet 1980 portant diverses
 dispositions en vue d'améliorer la situation des familles nombreuses ;
 
-2° bis L'allocation de logement instituée par la loi n° 71-582 du 16 juillet
-1971 modifiée, ainsi que le montant de l'aide personnalisée au logement prévue
-par les articles L 351-1 à L 351-14 du code de la construction et de
+2° bis L'allocation de logement prévue par les articles L831-1 à L831-7 du code
+de la sécurité sociale, ainsi que le montant de l'aide personnalisée au logement
+prévue par les articles L 351-1 à L 351-14 du code de la construction et de
 l'habitation ;
 
 2° ter Les majorations de retraite ou de pension pour charges de famille ;
@@ -57,7 +57,7 @@ de la loi du 1er octobre 1936 et de l'article 6 de la loi n° 652 du 26 juin 194
 11° (Abrogé) ;
 
 12° Les retraites mutuelles servies aux anciens combattants et victimes de la
-guerre dans le cadre des dispositions des articles 91 et suivants du code de la
+guerre dans le cadre des dispositions de l'article L321-9 du code de la
 mutualité ;
 
 13° Les indemnités correspondant aux indemnités de délai-congé et, le cas
@@ -69,6 +69,10 @@ renoncé à leur emploi entre le 25 juin 1940 et le jour de la libération ;
 
 14° La fraction des pensions temporaires d'orphelins qui correspond au montant
 des prestations familiales auxquelles aurait eu droit le parent décédé ;
+
+14° bis Les pensions temporaires d'orphelin, à concurrence de l'allocation aux
+adultes handicapés, lorsqu'elles remplacent cette allocation en tout ou partie
+du fait de la loi ;
 
 15° Les prestations, visées à l'article 20 de la loi n° 62-933 du 8 août 1962
 complémentaire à la loi d'orientation agricole, dans le cadre de l'entraide
@@ -143,6 +147,9 @@ du 4 janvier 1973.
 
 21° (Abrogé).
 
+22° Les indemnités de départ en retraite, prévues au premier alinéa de l'article
+L122-14-13 du code du travail (6) dans la limite de 20 000 F.
+
 (1) Voir décret n° 64-285 du 2 avril 1964 (J.O. du 4).
 
 (2) Chiffre applicable depuis le 1er janvier 1986 ; cette limite était
@@ -153,3 +160,5 @@ antérieurement de 12 F.
 (4) Annexe II, art. 39.
 
 (5) Modifiée par l'article 31-II-1 de la loi n° 83-1179 du 29 décembre 1983.
+
+(6) Code du travail, art. L122-14-13.

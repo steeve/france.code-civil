@@ -11,10 +11,17 @@ versement.
 
 Toutefois, cette obligation n'est pas applicable aux immeubles édifiés par
 l'Etat, les régions, les départements ou les communes, ni aux immeubles édifiés
-par les établissements publics administratifs lorsqu'ils sont affectés à un
+par les établissements publics administratifs, lorsqu'ils sont affectés à un
 service public ou d'utilité générale et qu'ils ne sont pas productifs de
 revenus.
 
 Dans les conditions de l'article L. 112-1, il peut être décidé que l'obligation
 résultant des deux premiers alinéas du présent article n'est pas applicable aux
 immeubles ou parties d'immeubles affectés à l'habitation.
+
+En outre l'autorité compétente peut décider que l'obligation de versement n'est
+pas applicable aux constructions édifiées dans une zone d'aménagement concerté.
+Cette décision prend effet au plus tôt lorsque le programme des équipements
+publics et, s'il en est établi un, le plan d'aménagement de zone ont été
+approuvés. Elle demeure applicable jusqu'à l'expiration de la validité de l'acte
+portant création de la zone.
