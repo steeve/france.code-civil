@@ -1,7 +1,10 @@
 Article D122-21
 ----
-En cas de pourvoi en cassation dirigé contre une décision qui a condamné un
-employeur pour licenciement sans cause réelle et sérieuse en application des
-dispositions de l'article L. 122-14-4 du code du travail, la cassation du chef
-de décision qui emporte condamnation au profit du salarié atteint le chef de la
-décision qui ordonne d'office le remboursement des indemnités de chômage.
+En l'absence d'opposition dans le mois qui suit la notification de l'ordonnance
+portant injonction de payer [*délai*], quelles que soient les modalités de la
+notification, ou en cas de désistement de l'employeur qui a formé opposition,
+l'institution peut demander l'apposition sur l'ordonnance de la formule
+exécutoire.
+
+L'ordonnance produit tous les effets d'un jugement contradictoire. Elle n'est
+pas susceptible d'appel.

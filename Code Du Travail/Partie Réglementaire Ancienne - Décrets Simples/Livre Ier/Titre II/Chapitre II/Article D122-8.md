@@ -1,14 +1,10 @@
 Article D122-8
 ----
-La demande est formée par simple requête remise ou adressée au
-secrétariat-greffe.
+Les salariés qui exercent leur activité professionnelle en dehors de tout
+établissement, à l'exception des salariés visés à l'article D. 122-7, ont droit
+à ce que les heures passées à l'exercice des fonctions de conseiller du salarié
+entre 8 heures et 18 heures soient considérées, en tout ou partie, comme des
+heures de travail et payées comme telles par l'employeur.
 
-Elle indique la dénomination, la forme et le siège social de l'institution et de
-l'employeur si ce dernier est une personne morale, ainsi que l'organe qui les
-représente légalement ; si l'employeur est une personne physique, elle indique
-ses nom, prénoms, profession et adresse [*mentions obligatoires*].
-
-Elle précise le montant des allocations dont le remboursement a été ordonné.
-
-La copie certifiée conforme de la décision et un relevé de compte individuel de
-l'allocataire sont joints à la demande.
+Ce dernier est remboursé intégralement dans les conditions prévues à l'article
+D. 122-6.

@@ -1,13 +1,14 @@
 Article D122-11
 ----
-L'employeur peut s'opposer à l'ordonnance portant injonction de payer, en
-formant opposition devant le tribunal d'instance qui a rendu l'ordonnance
-[*juridiction compétente*].
+La demande est formée par simple requête remise ou adressée au
+secrétariat-greffe.
 
-L'opposition est formée dans le mois qui suit la notification de l'ordonnance
-[*délai*].
+Elle indique la dénomination, la forme et le siège social de l'institution et de
+l'employeur si ce dernier est une personne morale, ainsi que l'organe qui les
+représente légalement ; si l'employeur est une personne physique, elle indique
+ses nom, prénoms, profession et adresse [*mentions obligatoires*].
 
-Toutefois, si la notification n'a pas été faite à personne, l'opposition est
-recevable jusqu'à l'expiration du délai d'un mois suivant le premier acte
-signifié à personne ou, à défaut, suivant la première mesure d'exécution ayant
-pour effet de rendre indisponibles en tout ou partie les biens de l'employeur.
+Elle précise le montant des allocations dont le remboursement a été ordonné.
+
+La copie certifiée conforme de la décision et un relevé de compte individuel de
+l'allocataire sont joints à la demande.

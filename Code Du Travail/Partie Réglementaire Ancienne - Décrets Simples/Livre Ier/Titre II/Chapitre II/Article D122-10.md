@@ -1,5 +1,5 @@
 Article D122-10
 ----
-Une copie certifiée conforme de la requête et de l'ordonnance est notifiée à
-l'employeur par le secrétaire-greffier [*greffier*] par lettre recommandée avec
-demande d'avis de réception [*condition de forme*].
+La demande en recouvrement est portée devant le tribunal d'instance du lieu où
+demeure l'employeur [*ressort*]. Tout autre juge doit se déclarer d'office
+incompétent.

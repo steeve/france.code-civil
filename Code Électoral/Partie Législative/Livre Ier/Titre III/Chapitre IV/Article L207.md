@@ -1,12 +1,18 @@
 Article L207
 ----
 Le mandat de conseiller général est incompatible, dans le département, avec les
-fonctions d'architecte départemental, d'ingénieur des travaux publics de l'État,
-chef de section principal ou chef de section des travaux publics de l'État
+fonctions d'architecte départemental, d'ingénieur des travaux publics de l'Etat,
+chef de section principal ou chef de section des travaux publics de l'Etat
 chargé d'une circonscription territoriale de voirie, d'employé des bureaux de la
 préfecture ou d'une sous-préfecture et, généralement, de tous les agents
-salariés ou subventionnés sur les fonds départementaux. La même incompatibilité
-existe à l'égard des entrepreneurs des services départementaux.
+salariés ou subventionnés sur les fonds départementaux.
+
+La même incompatibilité existe à l'égard des représentants légaux des
+établissements départementaux ou interdépartementaux mentionnés aux 1°, 2° et 3°
+de l'article 2 de la loi n° 86-33 du 9 janvier 1986 portant dispositions
+statutaires relatives à la fonction publique hospitalière, dans le ou les
+départements de rattachement de l'établissement où ils sont affectés, et à
+l'égard des entrepreneurs de services départementaux.
 
 Ne sont pas considérés comme salariés et compris dans les cas spécifiés à
 l'alinéa précédent les médecins chargés, dans leur canton ou les cantons

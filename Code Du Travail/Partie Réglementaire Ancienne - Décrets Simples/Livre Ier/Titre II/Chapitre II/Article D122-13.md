@@ -1,4 +1,5 @@
 Article D122-13
 ----
-L'opposition est formée au secrétariat-greffe soit par déclaration contre
-récépissé, soit par lettre recommandée.
+Une copie certifiée conforme de la requête et de l'ordonnance est notifiée à
+l'employeur par le secrétaire-greffier [*greffier*] par lettre recommandée avec
+demande d'avis de réception [*condition de forme*].

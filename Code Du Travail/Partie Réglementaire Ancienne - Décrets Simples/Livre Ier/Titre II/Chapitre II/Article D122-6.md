@@ -1,18 +1,21 @@
 Article D122-6
 ----
-Lorsqu'un conseil de prud'hommes a ordonné d'office le remboursement des
-allocations de chômage dans les conditions prévues au deuxième alinéa de
-l'article L. 122-14-4 du code du travail, le secretaire-greffier [*greffier*] du
-conseil de prud'hommes, à l'expiration du délai d'appel, adresse à l'organisme
-concerné une copie certifiée conforme du jugement en précisant si ce dernier a
-fait ou non l'objet d'un appel.
+Les employeurs sont remboursés mensuellement par l'Etat des salaires maintenus
+en application des dispositions de l'article L. 122-14-15 ainsi que de
+l'ensemble des avantages et des charges sociales leur incombant qui y affèrent.
 
-La copie certifiée conforme du jugement est adressée par lettre simple à
-l'institution qui a versé les indemnités de chômage si celle-ci est désignée
-dans les pièces de la procédure ou, à défaut, à l'institution du lieu où demeure
-le salarié.
+Lorsque l'horaire de travail est supérieur à la durée légale, la charge des
+majorations pour heures supplémentaires est répartie entre l'Etat et leurs
+employeurs proportionnellement au temps passé par le conseiller salarié
+respectivement au sein de son entreprise et dans l'exercice de sa fonction
+d'assistance.
 
-Lorsque le remboursement des allocations de chômage a été ordonné d'office par
-une cour d'appel, le secrétaire-greffier [*greffier*] de cette juridiction
-adresse à l'organisme concerné, selon les formes prévues à l'alinéa précédent,
-une copie certifiée conforme de la décision.
+Ce remboursement est effectué au vu d'une demande établie par l'employeur et
+contresignée par le conseiller salarié mentionnant l'ensemble des absences de
+l'entreprise ayant donné lieu à maintien de la rémunération ainsi que les autres
+éléments nécessaires au calcul des sommes dues. Cette demande de remboursement
+est accompagnée d'une copie du bulletin de salaire correspondant ainsi que des
+attestations des salariés bénéficiaires de l'assistance.
+
+En cas d'employeurs multiples, il sera produit autant de demandes de
+remboursement qu'il y a d'employeurs ayant maintenu des salaires.
