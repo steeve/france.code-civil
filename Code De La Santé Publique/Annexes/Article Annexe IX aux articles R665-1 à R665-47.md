@@ -341,7 +341,12 @@ Tous les dispositifs fabriqués à partir de tissus d'origine animale ou de
 dérivés rendus non viables entrent dans la classe III, sauf si ces dispositifs
 sont destinés à entrer en contact uniquement avec une peau intacte.
 
-5. Règle 18 :
+5. Classification par dérogation aux autres règles :
 
-Par dérogation aux autres règles, les poches à sang figurent dans la classe II
-b.
+5.1. Règle 18 :
+
+Les poches à sang figurent dans la classe II b ;
+
+5.2. Règle 19 :
+
+Les implants mammaires figurent dans la classe III.
