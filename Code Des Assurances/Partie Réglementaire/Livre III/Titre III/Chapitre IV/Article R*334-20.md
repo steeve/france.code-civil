@@ -1,16 +1,11 @@
 Article R*334-20
 ----
-Les entreprises françaises agréées à la date de publication du présent code pour
-pratiquer une ou plusieurs des branches mentionnées aux 1 à 17 de l'article R.
-321-1, et dont à la même date la marge de solvabilité n'atteint pas le montant
-réglementaire, disposent d'un délai expirant le 31 juillet 1978 pour justifier
-dudit montant.
-
-Si elles ne sont pas en mesure de respecter ce délai, elles peuvent bénéficier,
-avec l'accord du ministre de l'économie et des finances, d'un délai
-supplémentaire expirant le 31 juillet 1980.
-
-Ce délai supplémentaire ne peut être accordé que si l'entreprise soumet à
-l'approbation du ministre de l'économie et des finances, suivant le cas, soit le
-plan de redressement prévu à l'article R. 323-2, soit le plan de financement à
-court terme prévu à l'article R. 323-4.
+Lorsque la vérification de solvabilité globale est exercée par le ministre de
+l'économie, des finances et du budget et que l'entreprise justifie qu'elle a
+obtenu des autorités de contrôle d'un ou plusieurs des Etats membres de la
+Communauté économique européenne d'être dispensée de déposer dans ces Etats le
+cautionnement de même nature que celui prévu au d) de l'article R. 321-8, elle
+doit déposer sur le territoire de la République française un cautionnement égal
+au quart du montant minimal du fonds de garantie calculé en fonction de
+l'activité globale qu'elle exerce en France et dans les autres Etats membres
+ayant accordé la dispense.

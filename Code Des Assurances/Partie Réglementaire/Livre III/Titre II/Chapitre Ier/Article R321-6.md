@@ -35,20 +35,19 @@ d'agrément, sauf pour les branches mentionnées aux 4, 5, 6, 7, 12, 14 et 15 de
 l'article R. 321-1, deux exemplaires des tarifs.
 
 S'il s'agit d'opérations d'assurance comportant des engagements dont l'exécution
-dépend de la durée de la vie humaine, d'opérations ayant pour objet le versement
-d'un capital en cas de mariage ou de naissance d'enfants ou d'opérations ayant
-pour objet l'acquisition d'immeubles au moyen de la constitution de rentes
-viagères, l'entreprise doit produire le tarif complet des primes brutes ou
-cotisations, des primes pures et s'il y a lieu, des primes d'inventaire
-afférentes à toutes ces opérations, ainsi qu'une note technique exposant le mode
+dépend de la durée de la vie humaine, d'opérations complémentaires aux
+opérations précédentes, notamment celles ayant pour objet des garanties en cas
+de décès accidentel ou d'invalidité, ou d'opérations ayant pour objet le
+versement d'un capital en cas de mariage ou de naissance d'enfants, ou
+d'opérations ayant pour objet l'acquisition d'immeubles au moyen de la
+constitution de rentes viagères, l'entreprise doit produire le tarif afférent à
+toutes ces opérations, ainsi qu'une note technique exposant le mode
 d'établissement des tarifs et les bases de calcul des diverses catégories de
-primes ou cotisations.
-
-S'il s'agit d'opérations d'appel à l'épargne en vue de la capitalisation,
-l'entreprise doit produire le tarif complet des versements ou cotisations,
-accompagné de tableaux indiquant au moins année par année les provisions
-mathématiques et les valeurs de rachat correspondantes, ainsi que d'une note
-technique exposant le mode d'établissement de ces divers éléments.
+primes ou cotisations. S'il s'agit d'opérations de prévoyance collective,
+l'entreprise doit produire une note technique exposant le mode d'établissement
+des tarifs, les modalités de détermination des primes ou cotisations annuelles
+ainsi que les indications relatives à la fixation du nombre d'unités de rente
+correspondant auxdites primes ou cotisations.
 
 S'il s'agit d'opérations tontinières, l'entreprise doit produire les tarifs et
 les barèmes afférents à toutes ses opérations, ainsi qu'une note technique
@@ -65,7 +64,7 @@ réseau de production, ainsi que les moyens financiers destinés à y faire face
 - les prévisions relatives aux frais de gestion autres que les frais
 d'installation, notamment les frais généraux et les commissions ;
 
-- les prévisions relatives aux primes ou cotisations et aux sinistres ;
+- Les prévisions relatives aux primes ou cotisations et sinistres ;
 
 - la situation probable de trésorerie.
 
@@ -74,16 +73,14 @@ d'installation, notamment les frais généraux et les commissions ;
 - les prévisions relatives aux moyens financiers destinés à la couverture des
 engagements ;
 
-- lorsque la demande d'agrément concerne une ou plusieurs des branches ou
-sous-branches mentionnées aux 1 à 17 de l'article R. 321-1, les prévisions
-relatives à la marge de solvabilité que l'entreprise doit posséder en
-application du chapitre IV du titre III du présent livre.
+- Les prévisions relatives à la marge de solvabilité que l'entreprise doit
+posséder en application des dispositions des sections II ou III du chapitre IV
+du titre III du présent livre.
 
-8. Pour les entreprises sollicitant l'agrément pour les opérations comprises
-dans une ou plusieurs des branches ou sous-branches mentionnées aux 1 à 17 de
-l'article R. 321-1 la justification des éléments constituant le montant minimal
-du fonds de garantie que l'entreprise doit posséder conformément aux
-dispositions du chapitre IV du titre III du présent livre.
+8. La justification des éléments constituant le montant minimal du fonds de
+garantie que l'entreprise doit posséder, selon le cas, conformément aux
+dispositions des sections II ou III du chapitre IV du titre III du présent
+livre.
 
 II. - En cas de demande d'extension d'agrément, les documents mentionnés aux c,
 d, e et f du présent article ne sont pas exigés. L'entreprise doit en revanche

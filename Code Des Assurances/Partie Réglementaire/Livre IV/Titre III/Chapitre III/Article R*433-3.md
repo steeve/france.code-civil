@@ -21,9 +21,7 @@ que le montant minimal de rentes inscriptible au grand-livre de l'établissement
 5° Le barème de rachat des rentes inférieures au montant minimal inscriptible au
 grand-livre de la caisse nationale de prévoyance ;
 
-6° La limite et les conditions dans lesquelles la caisse nationale peut
-consentir au rachat de ses contrats, ainsi que les combinaisons d'assurances
-pour lesquelles ce rachat peut être accordé ;
+6° Les conditions de rachat des contrats.
 
 7° Les conditions de garantie de l'invalidité ;
 

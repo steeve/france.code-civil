@@ -1,16 +1,16 @@
 Article R321-9
 ----
-Le mandataire général mentionné aux articles R. 321-7, c et c bis, et R. 321-8,
-c, s'il est une personne physique, doit avoir son domicile et résider sur le
-territoire de la République française et doit produire un extrait de son casier
-judiciaire datant de moins de trois mois ou un document équivalent délivré par
-une autorité judiciaire ou administrative compétente d'un Etat membre de la
-Communauté économique européenne autre que la France, ou à défaut, une
-déclaration sous serment ou une déclaration solennelle faite par lui devant une
-autorité compétente ou un notaire qui délivre une attestation faisant foi de ce
-serment ou de cette déclaration solennelle. S'il n'est pas de nationalité
-française, le mandataire général doit satisfaire aux dispositions des lois et
-règlements relatifs à la situation et à la police des étrangers.
+Le mandataire général mentionné aux articles R. 321-7, c et R. 321-8, c, s'il
+est une personne physique, doit avoir son domicile et résider sur le territoire
+de la République française et doit produire un extrait de son casier judiciaire
+datant de moins de trois mois ou un document équivalent délivré par une autorité
+judiciaire ou administrative compétente d'un Etat membre de la Communauté
+économique européenne autre que la France, ou à défaut, une déclaration sous
+serment ou une déclaration solennelle faite par lui devant une autorité
+compétente ou un notaire qui délivre une attestation faisant foi de ce serment
+ou de cette déclaration solennelle. S'il n'est pas de nationalité française, le
+mandataire général doit satisfaire aux dispositions des lois et règlements
+relatifs à la situation et à la police des étrangers.
 
 Si le mandataire est une personne morale, le siège social de celle-ci doit être
 établi sur le territoire de la République française, et la personne physique

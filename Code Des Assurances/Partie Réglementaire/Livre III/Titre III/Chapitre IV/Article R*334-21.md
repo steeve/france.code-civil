@@ -1,11 +1,8 @@
 Article R*334-21
 ----
-Les entreprises françaises agréées à la date de publication du présent code pour
-pratiquer une ou plusieurs des branches mentionnées aux 1 à 17 de l'article R.
-321-1, et dont au 31 juillet 1978 le montant annuel des primes ou cotisations
-émises, accessoires compris et annulations déduites, n'atteint pas le sextuple
-du montant minimal du fonds de garantie, peuvent être dispensées par le ministre
-de l'économie et des finances de toute obligation concernant le montant du fonds
-de garantie, jusqu'à la clôture de l'exercice au cours duquel le total annuel
-des primes ou cotisations définies comme il est dit ci-dessus dépasse le
-sextuple du montant minimal du fonds de garantie.
+Le bénéfice de chacune des mesures mentionnées aux a), b) et c) de l'article R.
+334-17 peut être retiré par le ministre de l'économie, des finances et du
+budget.
+
+Toute entreprise intéressée peut renoncer à l'application de chacune des mêmes
+mesures.

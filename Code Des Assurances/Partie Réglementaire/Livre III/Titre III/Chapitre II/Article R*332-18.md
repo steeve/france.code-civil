@@ -8,10 +8,10 @@ sur le territoire de la République française.
 
 Toutefois, cette autorisation préalable n'est pas exigée d'une entreprise
 française ou d'une entreprise étrangère dont le siège social est établi sur le
-territoire d'un Etat membre de la Communauté économique européenne, agréée pour
-pratiquer une ou plusieurs des branches mentionnées aux 1 à 17 de l'article R.
-321-1. L'entreprise intéressée doit néanmoins être en mesure de justifier
-qu'après transfert elle satisfait intégralement à ses obligations concernant la
+territoire d'un Etat membre de la Communauté économique européenne.
+
+L'entreprise intéressée doit néanmoins être en mesure de justifier qu'après
+transfert elle satisfait intégralement à ses obligations concernant la
 représentation de ses engagements et la localisation de ses actifs sur le
 territoire de la République française.
 

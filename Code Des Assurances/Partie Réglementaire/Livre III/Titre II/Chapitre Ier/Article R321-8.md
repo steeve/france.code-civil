@@ -21,13 +21,11 @@ physique ou morale ayant la qualité de mandataire général et satisfaisant aux
 conditions fixées par décret en Conseil d'Etat pris après avis du conseil
 national des assurances ;
 
-d) Si la demande d'agrément est relative à une ou plusieurs des branches ou
-sous-branches mentionnées aux 1 à 17 de l'article R. 321-1, la justification que
-l'entreprise dispose sur le territoire de la République française d'actifs au
-moins égaux à la moitié du montant minimal du fonds de garantie qu'elle doit
-posséder conformément aux dispositions du chapitre IV du titre III du présent
-livre, et l'engagement de déposer le quart de ce montant à titre de
-cautionnement, sauf si l'entreprise est soumise à une vérification de
+d) la justification que l'entreprise dispose sur le territoire de la République
+française d'actifs au moins égaux à la moitié du montant minimal du fonds de
+garantie qu'elle doit posséder conformément aux dispositions du chapitre IV du
+titre III du présent livre, et l'engagement de déposer le quart de ce montant à
+titre de cautionnement, sauf si l'entreprise est soumise à une vérification de
 solvabilité globale exercée par l'autorité de contrôle d'un Etat membre de la
 Communauté économique européenne autre que la France ;
 
