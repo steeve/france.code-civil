@@ -6,5 +6,5 @@ supérieur à 10 % du revenu net global déclaré par le contribuable, avant
 application de cette déduction, au titre de l'année considérée.
 
 Le montant de ladite déduction est limité à 25 % du revenu net global susvisé,
-sans pouvoir excéder la somme de 3.000 F majorée de 1.000 F par personne à la
-charge du contribuable au sens de l'article 196 du code général des impôts.
+sans pouvoir excéder la somme de 457 euros majorée de 152 euros par personne à
+la charge du contribuable au sens de l'article 196 du code général des impôts.
