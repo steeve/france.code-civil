@@ -28,13 +28,13 @@ municipaux ;
 7° Les directeurs et les chefs de bureau de préfecture et les secrétaires en
 chef de sous-préfecture ;
 
-8° Les membres du cabinet du président du conseil général et du président du
-conseil régional, les directeurs généraux, les directeurs, directeurs adjoints,
-chefs de service et chefs de bureau de conseil général et de conseil régional,
-les membres du cabinet du président de l'Assemblée et les membres du cabinet du
-président du conseil exécutif de Corse, les directeurs généraux, les directeurs,
-directeurs adjoints, chefs de service et chefs de bureau de la collectivité
-territoriale de Corse et de ses établissements publics ;
+8° Les directeurs de cabinet du président du conseil général et du président du
+conseil régional, les directeurs généraux, les directeurs, les directeurs
+adjoints, chefs de service et chefs de bureau de conseil général et de conseil
+régional, le directeur de cabinet du président de l'assemblée et le directeur de
+cabinet du président du conseil exécutif de Corse, les directeurs généraux, les
+directeurs, les directeurs adjoints, chefs de service et chefs de bureau de la
+collectivité territoriale de Corse et de ses établissements publics ;.
 
 9° En tant que chargés d'une circonscription territoriale de voirie : les
 ingénieurs en chef, ingénieurs divisionnaires et ingénieurs des travaux publics

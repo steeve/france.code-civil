@@ -6,6 +6,14 @@ partie de ses fonctions aux vice-présidents et, en l'absence ou en cas
 d'empêchement de ces derniers, à d'autres membres du conseil régional. Ces
 délégations subsistent tant qu'elles ne sont pas rapportées.
 
-Il est le chef des services de la région. Il peut, sous sa surveillance et sa
-responsabilité, donner délégation de signature en toute matière aux responsables
-desdits services.
+Le membre du conseil régional ayant démissionné de la fonction de président de
+conseil régional en application des articles LO 141 du code électoral, L.
+2122-4, L. 3122-3 du présent code ou de l'article 6-2 de la loi n° 77-729 du 7
+juillet 1977 relative à l'élection des représentants au Parlement européen ne
+peut recevoir de délégation jusqu'au terme de son mandat de conseiller régional
+ou jusqu'à la cessation du mandat ou de la fonction l'ayant placé en situation
+d'incompatibilité.
+
+Le président du conseil régional est le chef des services de la région. Il peut,
+sous sa surveillance et sa responsabilité, donner délégation de signature en
+toute matière aux responsables desdits services.

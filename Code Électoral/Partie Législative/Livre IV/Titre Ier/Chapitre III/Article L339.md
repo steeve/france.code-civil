@@ -1,7 +1,6 @@
 Article L339
 ----
-Nul ne peut être élu conseiller régional s'il n'est pas âgé de vingt et un ans
-révolus.
+Nul ne peut être élu conseiller régional s'il n'est âgé de dix-huit ans révolus.
 
 Sont éligibles au conseil régional tous les citoyens inscrits sur une liste
 électorale ou justifiant qu'ils devaient y être inscrits avant le jour de
