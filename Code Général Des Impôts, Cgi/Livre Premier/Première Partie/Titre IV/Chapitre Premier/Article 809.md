@@ -37,6 +37,40 @@ fiscal rend les droits et taxes de mutation à titre onéreux exigibles sur les
 apports purs et simples qui lui ont été faits depuis le 1er août 1965 par des
 personnes non soumises audit impôt (1).
 
-Les droits sont perçus sur la valeur vénale des biens à la date du changement.
+III. 1° Les apports visés au 3° du paragraphe I faits à une société d'exercice
+libéral à responsabilité limitée, à forme anonyme ou en commandite par actions,
+sont soumis au droit d'enregistrement ou à la taxe de publicité foncière au taux
+de 1 p. 100.
+
+2° Les sociétés non soumises à l'impôt sur les sociétés qui se transforment en
+une société visée au 1° sont exonérées des droits prévus au paragraphe II.
+
+3° Les dispositions du 1° et du 2° s'appliquent lorsque :
+
+a) La profession libérale ne pouvait être exercée sous forme de société à
+responsabilité limitée ou de société de capitaux avant l'entrée en vigueur de la
+loi n° 90-1258 du 31 décembre 1990 relative à l'exercice sous forme de sociétés
+des professions libérales soumises à un statut législatif ou réglementaire ou
+dont le titre est protégé ;
+
+b) Les biens apportés étaient affectés à l'exercice d'une activité libérale
+avant l'expiration d'un délai d'un an suivant la publication de la loi
+mentionnée au a ;
+
+c) L'apport ou la transformation intervient dans les trois ans de la publication
+de la loi n° 90-1258 du 31 décembre 1990 précitée ;
+
+d) L'apporteur, en cas d'apport, ou les associés, en cas de transformation,
+s'engagent à conserver pendant cinq ans les droits sociaux remis en contrepartie
+de l'apport ou détenus à la date du changement de régime fiscal.
+
+Lorsque l'engagement n'est pas respecté, le droit prévu au paragraphe II
+ci-dessus, majoré des taxes additionnelles, devient immédiatement exigible.
+
+4° Les biens qui ont bénéficié du régime de faveur prévu aux 1° et 2° sont
+soumis aux droits de mutation à titre onéreux s'ils sont attribués, lors du
+partage social, à un associé autre que l'apporteur et au droit prévu au
+paragraphe III de l'article 810 s'ils sont apportés à une autre société passible
+de l'impôt sur les sociétés.
 
 (1) Annexe II, art. 295 à 301.
