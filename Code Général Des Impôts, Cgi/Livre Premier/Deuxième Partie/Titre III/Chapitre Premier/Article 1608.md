@@ -1,9 +1,9 @@
 Article 1608
 ----
 Il est institué une taxe spéciale d'équipement destinée à permettre à
-l'établissement public d'aménagement de la Basse-Seine de financer les
-acquisitions foncières auxquelles il procède et de contribuer au financement des
-travaux d'équipement d'intérêt régional.
+l'établissement public foncier de Normandie de financer les acquisitions
+foncières auxquelles il procède et de contribuer au financement des travaux
+d'équipement d'intérêt régional.
 
 Le montant de cette taxe est arrêté chaque année pour l'année suivante dans la
 limite de 6 860 000 euros, par le conseil d'administration de l'établissement
@@ -19,4 +19,4 @@ Les cotisations sont établies et recouvrées, les réclamations sont présenté
 jugées comme en matière de contributions directes.
 
 Les conditions d'application du présent article sont fixées par décret en
-Conseil d'Etat (1).
+Conseil d'Etat.
