@@ -9,16 +9,16 @@ suivantes :
 a) Pour les branches 20 et 21, à l'exception des garanties complémentaires :
 
 Le montant minimal de la marge de solvabilité est calculé par rapport aux
-provisions mathématiques et de gestion et aux capitaux sous risque. Il est égal
-à la somme des deux résultats suivants :
+provisions mentionnées aux 1° et 4° de l'article R. 931-10-17 et aux capitaux
+sous risque. Il est égal à la somme des deux résultats suivants :
 
 - le premier résultat est obtenu en multipliant un nombre représentant 4 p. 100
-de la somme des provisions mathématiques et de gestion, relatives aux opérations
-directes sans déduction des cessions en réassurance et aux acceptations en
-réassurance, par le rapport existant, pour le dernier exercice, entre le montant
-des provisions mathématiques, après cessions en réassurance et le montant des
-provisions mathématiques brut de réassurance, sans que ce rapport puisse être
-inférieur à 85 p. 100 ;
+de la somme des provisions mentionnées aux 1° et 4° de l'article R. 931-10-17,
+relatives aux opérations directes sans déduction des cessions en réassurance et
+aux acceptations en réassurance, par le rapport existant, pour le dernier
+exercice, entre le montant des provisions mathématiques, après cessions en
+réassurance et le montant des provisions mathématiques brut de réassurance, sans
+que ce rapport puisse être inférieur à 85 p. 100 ;
 
 - le second résultat est obtenu en multipliant un nombre représentant 0,3 p. 100
 des capitaux sous risque par le rapport existant, pour le dernier exercice,
@@ -65,9 +65,9 @@ rapport puisse être inférieur à 50 p. 100.
 c) Pour la branche 24, à l'exception des opérations de capitalisation exprimées
 en unités de compte, le montant minimal de la marge de solvabilité est égal au
 résultat obtenu en multipliant un nombre représentant 4 p. 100 des provisions
-techniques relatives aux opérations directes et aux acceptations brutes de
-réassurance par le rapport mentionné au premier résultat défini au a du présent
-article.
+mentionnées aux 1° et 4° de l'article R. 931-10-17 relatives aux opérations
+directes et aux acceptations brutes de réassurance par le rapport mentionné au
+premier résultat défini au a du présent article.
 
 d) Pour la branche 22, à l'exception des garanties complémentaires, la branche
 24 lorsqu'il s'agit d'opérations de capitalisation exprimées en unités de compte
@@ -97,5 +97,5 @@ risque brut de réassurance, sans que ce rapport puisse être inférieur à 50 p
 
 e) Pour la branche 26, le montant minimal de la marge de solvabilité est égal à
 un nombre représentant 4 p. 100 de la provision technique spéciale mentionnée à
-la section 4 du chapitre II du titre III du présent livre, dans la limite de la
-provision mathématique théorique mentionnée à ladite section.
+l'article R. 932-4-4, dans la limite de la provision mathématique théorique
+mentionnée à l'article R. 932-4-15.
