@@ -49,10 +49,12 @@ susceptibles de remplacer l'alcool éthylique dans un quelconque de ses emplois
 lorsque ces mélanges sont destinés à la consommation humaine ou qu'ils
 présentent des dangers pour la santé publique ;
 
-8° détention ou vente par un fabricant ou marchand d'ouvrages d'or ou contenant
-de l'or, d'argent ou de platine revêtus, soit de l'empreinte de faux poinçons
-anciens, soit de marques anciennes entées, soudées ou contretirées, soit de
-l'empreinte de poinçons de fantaisie imitant les poinçons anciens ;
+8° détention ou vente frauduleuse par un fabricant ou marchand d'ouvrages d'or
+ou contenant de l'or, d'argent ou de platine revêtus, soit de l'empreinte de
+faux poinçons, contrefaisant les poinçons anciens ou en vigueur, soit de marques
+anciennes entées, soudées ou contretirées, soit de l'empreinte de poinçons de
+fantaisie imitant les poinçons anciens ou les poinçons en vigueur, soit de
+l'empreinte de poinçons volés ;
 
 9° (Abrogé) ;
 

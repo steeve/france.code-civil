@@ -15,7 +15,6 @@ L'iridium associé au platine est compté comme platine.
 
 Aucune tolérance négative de titre n'est admise.
 
-Le titre des ouvrages est garanti par l'Etat, à l'exception de celui des
-produits contenant de l'or aux titres de 585 ou 375 millièmes, dont la garantie,
-dite "garantie publique", est assurée par le service de la garantie ou par un
-autre organisme de contrôle agréé par l'Etat.
+Le titre des ouvrages est garanti par l'Etat, par les organismes de contrôle
+agréés par l'Etat ou par les professionnels habilités par une convention conclue
+avec l'administration des douanes et droits indirects (1).

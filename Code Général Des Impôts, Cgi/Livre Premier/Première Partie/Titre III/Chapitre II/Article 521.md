@@ -3,12 +3,12 @@ Article 521
 Les fabricants d'ouvrages d'or ou contenant de l'or, d'argent ou de platine sont
 soumis à la législation de la garantie prévue au présent chapitre, non seulement
 à raison de leur propre production mais également pour les ouvrages qu'ils ont
-fait réaliser pour leur compte par des tiers avec des matières leur appartenant.
-Les personnes qui mettent sur le marché ces ouvrages en provenance des autres
-Etats membres de l'Union européenne et des pays tiers, ou leurs représentants,
-sont également soumises à cette législation.
+fait réaliser pour leur compte par des tiers avec des matières leur appartenant
+ou pas (1). Les personnes qui mettent sur le marché ces ouvrages en provenance
+des autres Etats membres de l'Union européenne et des pays tiers, ou leurs
+représentants, sont également soumises à cette législation.
 
-(Alinéas 2 et 3 abrogés).
+Alinéas 2 et 3 abrogés.
 
 Les ouvrages d'or ou contenant de l'or, d'argent ou de platine, commercialisés
 en France, doivent être conformes aux titres prescrits par la loi.

@@ -20,7 +20,7 @@ pénalité ;
 et sirops d'inuline en infraction à la réglementation des sucrages édictée par
 le présent code et les textes d'application ;
 
-5° Infractions aux articles 521, 531, 545 à 547, 550 et 551 en matière de
-garantie ;
+5° Infractions aux dispositions des articles 521, 524, 526, 531, 535 à 539, 543,
+545 à 551 ;
 
 6° à 8° (Abrogés).

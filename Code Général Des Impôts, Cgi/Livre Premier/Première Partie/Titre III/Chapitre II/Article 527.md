@@ -1,36 +1,31 @@
 Article 527
 ----
-Les ouvrages mentionnés à l'article 522 supportent un droit spécifique fixé, par
-hectogramme, conformément au tableau ci-après :
+Les ouvrages mentionnés à l'article 522 supportent une contribution fixée à :
 
-a. Ouvrages en platine de 999, 950, 900 et 850 millièmes : 81 euros.
+a. Pour les ouvrages en or, alliage d'or et platine, 8 euros par ouvrage marqué
+;
 
-b. Ouvrages en or de 999, 916 et 750 millièmes : 42 euros
+b. Pour les ouvrages en argent, 4 euros par ouvrage marqué.
 
-c. Ouvrages contenant de l'or de 585 et 375 millièmes : 33 euros
+Toutefois, le montant de cette contribution est limité respectivement à 4 euros
+et 2 euros jusqu'au 30 juin 2005.
 
-d. Ouvrages en argent de 999, 925 et 800 millièmes : 2 euros.
+Dans les départements d'outre-mer, la contribution est fixée à :
 
-Dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la
-Réunion, le droit spécifique applicable aux ouvrages d'or ou contenant de l'or
-est fixé à 50 % de celui prévu ci-dessus (1).
+a. Pour les ouvrages en or, alliage d'or et platine, 2 euros par ouvrage marqué
+;
 
-Le fait générateur du droit spécifique sur ces ouvrages est constitué par leur
-mise sur le marché.
+b. Pour les ouvrages en argent, 1 euros par ouvrage marqué.
 
-La mise sur le marché est constituée par la première livraison après la
-fabrication, l'importation, l'acquisition intracommunautaire ou la livraison
-effectuée dans les conditions prévues au 1° du I de l'article 258 B.
+Le fait générateur de la contribution est constitué par l'apposition du poinçon
+sur les ouvrages par les bureaux de garantie.
 
-Le droit est exigible lors de la réalisation du fait générateur. Il est dû,
-selon le cas, par le fabricant, l'importateur, la personne qui réalise
-l'acquisition intracommunautaire ou le vendeur ou son représentant fiscal.
+L'exigibilité intervient lors du fait générateur.
 
-Les redevables du droit spécifique sur ces ouvrages doivent déposer
-mensuellement une déclaration mentionnant les opérations imposables et les
-opérations exonérées effectuées le mois précédent ainsi que les opérations pour
-lesquelles le remboursement est demandé (2). Le montant des sommes exigibles est
-acquitté au moment du dépôt de cette déclaration. Toutefois, les opérateurs ont
-la faculté d'acquitter le droit au comptant lors de la mise sur le marché
-national des ouvrages en déposant immédiatement ladite déclaration. Les
-conditions dans lesquelles s'effectue cette option sont fixées par décret (3).
+Les redevables sont tenus de souscrire au plus tard le 15 du mois suivant la
+date d'exigibilité, auprès du service des douanes chargé du recouvrement, une
+déclaration conforme à un modèle fixé par l'administration et accompagnée du
+paiement de cette contribution. Toutefois, ils ont la possibilité d'acquitter la
+contribution au comptant en déposant ladite déclaration à la date du fait
+générateur. Les modalités d'application du présent article sont fixées par
+décret (1).
