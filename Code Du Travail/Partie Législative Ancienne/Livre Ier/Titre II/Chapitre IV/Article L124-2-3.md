@@ -1,12 +1,9 @@
 Article L124-2-3
 ----
-Il ne peut être fait appel aux salariés des entreprises de travail temporaire
-[*interdiction, cas, type*] :
-
-1° Pour remplacer un salarié dont le contrat de travail est suspendu par suite
-d'un conflit collectif de travail dans l'établissement utilisateur ;
-
-2° Pour certains des travaux qui font l'objet d'une surveillance médicale
-spéciale au sens de la réglementation relative à la médecine du travail et qui
-figurent sur une liste établie par arrêtés du ministre chargé du travail ou du
-ministre chargé de l'agriculture.
+Le terme de la mission prévu au contrat ou fixé par avenant peut être avancé ou
+reporté à raison d'un jour pour cinq jours de travail. Cet aménagement du terme
+de la mission ne peut avoir pour effet ni de réduire la durée la mission
+initialement prévue de plus de dix jours de travail, ni de conduire à un
+dépassement de la durée des missions fixées par l'article L. 124-2. Pour les
+missions inférieures à dix jours de travail, le terme de la mission peut être
+avancé ou reporté de deux jours.

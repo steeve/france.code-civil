@@ -18,13 +18,6 @@ complémentaires effectuées par un salarié à temps partiel au cours de la mê
 semaine ou d'un même mois ne peut être supérieur au tiers de la durée
 hebdomadaire ou mensuelle de travail prévue dans son contrat.
 
-Lorsque pendant une période de douze semaines consécutives l'horaire moyen
-réellement effectué par un salarié a dépassé de deux heures au moins par
-semaine, ou de l'équivalent mensuel de cette durée, l'horaire prévu dans son
-contrat, celui-ci est modifié, sous réserve d'un préavis de sept jours et sauf
-opposition du salarié intéressé, en ajoutant à l'horaire antérieurement fixé la
-différence entre cet horaire et l'horaire moyen réellement effectué.
-
 Les heures complémentaires ne peuvent avoir pour effet de porter la durée du
 travail effectuée par un salarié au niveau de la durée légale du travail ou de
 la durée fixée conventionnellement. Le refus d'effectuer les heures

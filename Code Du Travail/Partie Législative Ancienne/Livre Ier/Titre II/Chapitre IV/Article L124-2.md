@@ -1,33 +1,21 @@
 Article L124-2
 ----
-Un utilisateur ne peut faire appel aux salariés des entreprises de travail
-temporaire mentionnés à l'article L. 124-1 que pour des tâches non durables
-dénommées "missions" au sens du présent chapitre, et dans les seuls cas suivants
-[*condition d'emploi*] :
+Un utilisateur peut faire appel aux salariés des entreprises de travail
+temporaire mentionnées à l'article L. 124-1 pour l'exécution d'une tâche non
+durable dénommée "mission".
 
-1° Absence temporaire ou suspension du contrat de travail d'un salarié ne
-résultant pas d'un conflit collectif de travail;
+Le contrat de travail temporaire ne peut avoir pour objet de pourvoir
+durablement un emploi lié à l'activité normale et permanente de l'entreprise
+utilisatrice.
 
-2° Survenance d'un surcroît exceptionnel et temporaire d'activité;
+Sous réserve des dispositions de l'article L. 124-2-1, la mission doit comporter
+un terme fixé avec précision dès la conclusion du contrat de mise à disposition
+mentionné à l'article L. 124-3.
 
-3° Exécution d'une tâche occasionnelle, précisément définie et non durable;
+Le contrat de travail temporaire peut être renouvelé [*nombre*] une fois pour
+une durée déterminée au plus égale à celle de la période initiale. Les
+conditions de renouvellement sont stipulées dans le contrat ou font l'objet d'un
+avenant soumis au salarié préalablement au terme initialement prévu.
 
-4° Survenance de la fin d'un contrat de travail à durée indéterminée dans
-l'attente de l'entrée en service effectif du salarié appelé à remplacer celui
-dont le contrat a pris fin;
-
-5° Travaux urgents dont l'exécution immédiate est nécessaire pour prévenir les
-accidents imminents, organiser les mesures de sauvetage ou réparer les
-insuffisances du matériel, des installations ou des bâtiments de l'entreprise
-présentant un danger pour les travailleurs.
-
-La mission doit comporter un terme fixé avec précision lors de la conclusion du
-contrat mentionné à l'article L. 124-3. Sa durée totale, compte tenu, le cas
-échéant, du renouvellement prévu à l'article L. 124-2-4 ne peut excéder [*date
-limite*] six mois dans les cas définis aux 2°, 4° et 5° et un an dans le cas
-défini au 3° ci-dessus.
-
-Toutefois, lorsque le contrat est conclu pour le motif mentionné au 1°
-ci-dessus, il peut ne pas comporter un terme précis; il doit alors être conclu
-pour une durée minimale et il a pour terme la fin de l'absence du salarié
-remplacé.
+La durée totale du contrat, compte tenu le cas échéant du renouvellement, ne
+peut excéder vingt-quatre mois.

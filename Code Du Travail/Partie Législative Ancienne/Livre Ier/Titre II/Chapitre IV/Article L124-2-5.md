@@ -1,6 +1,8 @@
 Article L124-2-5
 ----
-Si les parties décident de se réserver la faculté d'aménager le terme de la
-mission dans les conditions prévues au dernier alinéa de l'article L. 124-2 ou
-au troisième alinéa de l'article L. 124-2-4, elles doivent le préciser dans le
-contrat de mise à disposition ou dans l'avenant prévoyant son renouvellement.
+Dans le cas mentionné au 1° du premier alinéa de l'article L. 124-2-1,
+[*remplacement d'un salarié absent ou dont le contrat est suspendu*] le contrat
+peut prendre effet avant l'absence du salarié.
+
+En outre, le terme de la mission peut être reporté jusqu'au surlendemain du jour
+où le salarié de l'entreprise utilisatrice reprend son emploi.

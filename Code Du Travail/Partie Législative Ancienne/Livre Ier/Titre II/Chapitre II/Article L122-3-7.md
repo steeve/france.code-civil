@@ -1,5 +1,8 @@
 Article L122-3-7
 ----
-Sous réserve des dispositions des articles L. 231-8, L. 412-15, L. 420-23, L.
-436-2, le contrat de travail à durée déterminée cesse de plein droit à
-l'échéance du terme [*date de fin de contrat*].
+Lorsque le contrat de travail à durée déterminée est conclu pour remplacer un
+salarié temporairement absent ou dont le contrat de travail est suspendu, il
+peut prendre effet avant l'absence du salarié à remplacer.
+
+En outre, le terme du contrat initialement fixé peut être reporté jusqu'au
+surlendemain du jour où le salarié remplacé reprend son emploi.
