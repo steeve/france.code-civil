@@ -17,6 +17,11 @@ L'appel a un effet suspensif, sauf en matière d'inscription au tableau.
 Toutefois, lorsque la réinscription au tableau est demandée par application des
 dispositions de l'article L. 428, l'appel a également un effet suspensif.
 
+En matière disciplinaire, lorsque les faits ont été portés à la connaissance de
+l'autorité qui a saisi le conseil régional par un organisme de sécurité sociale,
+celui-ci reçoit notification de la décision du conseil régional et peut faire
+appel.
+
 Les décisions rendues par la section disciplinaire du conseil national ne sont
 susceptibles de recours que devant le Conseil d'Etat dans les conditions du
 droit commun.
