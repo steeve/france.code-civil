@@ -19,19 +19,16 @@ Le montant maximal des ressources fiscales par habitant résultant de
 l'application des dispositions du troisième alinéa est fixé chaque année par
 décret (2).
 
-Le montant par habitant des ressources fiscales inscrites au budget de chaque
-établissement public régional ne peut progresser de plus de 20 % par an.
-
 Lorsque les recouvrements opérés font apparaître que le maximum a été dépassé
 pour un exercice, le montant de ressources excédant de plus de 5 % ce maximum
 est reporté et vient en déduction du montant maximum de ressources autorisé pour
 l'exercice suivant cette constatation.
 
 La taxe régionale additionnelle est répartie suivant les modalités définies aux
-articles 1636 B quinquies, 1636 B octies-I et 1636 C.
+articles 1636 B octies-I et 1636 C.
 
 (1) Disposition applicable à compter de 1981.
 
-(2) Montant maximal fixé pour 1981 à 67,68 F par le décret n° 81-102 du 4
-février 1981. Pour 1980, le plafond avait été fixé à 60 F (Loi n° 80-30 du 18
-janvier 1980, art. 84).
+(2) Montant maximal fixé pour 1982 à 79,32 F par le décret n° 82-44 du 16
+janvier 1982. Pour 1981, le montant avait été fixé à 67,68 F par le décret n°
+81-102 du 4 février 1981.
