@@ -6,10 +6,17 @@ d'opposition.
 Elles ne peuvent être frappées d'appel ou de pourvoi en cassation qu'avec le
 jugement sur le fond.
 
-Toutefois elles sont susceptibles d'appel dans les cas et conditions prévus en
-matière d'expertise, ou de sursis à statuer ; elles le sont également dans les
-quinze jours à compter de leur signification lorsqu'elles ont pour effet de
-mettre fin à l'instance, lorsqu'elles constatent son extinction ou lorsqu'elles
-ont trait aux mesures provisoires ordonnées en matière de divorce ou de
-séparation de corps ou aux provisions qui peuvent être accordées au créancier
-lorsque l'existence de l'obligation n'est pas sérieusement contestable.
+Toutefois, elles sont susceptibles d'appel dans les cas et conditions prévus en
+matière d'expertise ou de sursis à statuer. Elles le sont également, dans les
+quinze jours à compter de leur signification :
+
+1° Lorsqu'elles ont pour effet de mettre fin à l'instance ou lorsqu'elles
+constatent son extinction ;
+
+2° Lorsqu'elles ont trait aux mesures provisoires ordonnées en matière de
+divorce ou de séparation de corps ;
+
+3° Lorsque, dans le cas où le montant de la demande est supérieur au taux de
+compétence en dernier ressort, elles ont trait aux provisions qui peuvent être
+accordées au créancier au cas où l'existence de l'obligation n'est pas
+sérieusement contestable.

@@ -6,7 +6,8 @@ chefs, sauf à rétablir, s'il y a lieu, le véritable exposé des prétentions
 respectives des parties et de leurs moyens.
 
 La demande doit être présentée un an au plus tard après que la décision est
-passée en force de chose jugée.
+passée en force de chose jugée ou, en cas de pourvoi en cassation de ce chef, à
+compter de l'arrêt d'irrecevabilité.
 
 Le juge est saisi par simple requête de l'une des parties, ou par requête
 commune. Il statue après avoir entendu les parties ou celles-ci appelées.
