@@ -22,15 +22,16 @@ Lorsqu'ils sont payables en espèces les revenus visés à l'alinéa précédent
 soumis à l'impôt sur le revenu au titre de l'année soit de leur paiement en
 espèces ou par chèques, soit de leur inscription au crédit d'un compte.
 
-Pour l'assiette de l'impôt sur le revenu, il est opéré un abattement de 5.000 F
-(1) par an et par foyer fiscal sur la somme des revenus imposables, provenant de
-titres participatifs ou de valeurs mobilières à revenu fixe émis en France
-[*intérêts d'obligations*] et inscrits à la cote officielle d'une bourse de
-valeurs française, et d'intérêts servis sur les versements effectués dans les
-fonds salariaux. Toutefois, ces dispositions ne s'appliquent pas aux valeurs
-assorties d'une clause d'indexation et dont la liste est fixée par arrêté du
-ministre de l'économie et des finances (2). Un décret fixera, en tant que de
-besoin, les conditions d'application du présent alinéa.
+Pour l'assiette de l'impôt sur le revenu des années antérieures à 1986, il est
+opéré un abattement de 5.000 F (1) par an et par foyer fiscal sur la somme des
+revenus imposables, provenant de titres participatifs ou de valeurs mobilières à
+revenu fixe émis en France [*intérêts d'obligations*] et inscrits à la cote
+officielle d'une bourse de valeurs française, et d'intérêts servis sur les
+versements effectués dans les fonds salariaux. Toutefois, ces dispositions ne
+s'appliquent pas aux valeurs assorties d'une clause d'indexation et dont la
+liste est fixée par arrêté du ministre de l'économie et des finances (2). Un
+décret fixera, en tant que de besoin, les conditions d'application du présent
+alinéa.
 
 L'abattement prévu au troisième alinéa est opéré sur les revenus des obligations
 mentionnées à l'article 132 ter qui ont été remises en échange d'actions de
@@ -41,20 +42,27 @@ et suivantes, un abattement de 1.000 F par an et par foyer fiscal est opéré su
 les intérêts de l'emprunt d'Etat 8,80 % 1977 autorisé par la loi n° 77-486 du 13
 mai 1977.
 
-Pour l'assiette de l'impôt sur le revenu, il est opéré un abattement de 3.000 F
-par an et par foyer fiscal sur le montant imposable des revenus correspondant à
-des dividendes d'actions émises en France. Toutefois, cet abattement ne peut
-être effectué sur le montant des revenus d'actions souscrites à compter du 1er
-janvier 1983 avec le bénéfice des déductions prévues à l'article 238 bis HB. Le
-bénéfice de cette disposition est réservé aux contribuables dont le revenu net
-global défini à l'article 156 n'excède pas la limite de la dixième tranche du
-barème prévu à l'article 197-I, ce chiffre étant arrondi à la dizaine de
-milliers de francs supérieure.
+Pour l'assiette de l'impôt sur le revenu des années antérieures à 1986, il est
+opéré un abattement de 3.000 F par an et par foyer fiscal sur le montant
+imposable des revenus correspondant à des dividendes d'actions émises en France.
+Toutefois, cet abattement ne peut être effectué sur le montant des revenus
+d'actions souscrites avec le bénéfice de la réduction d'impôt prévue à l'article
+199 undecies. Le bénéfice de cette disposition est réservé aux contribuables
+dont le revenu net global défini à l'article 156 n'excède pas la limite de la
+dixième tranche du barème prévu à l'article 197-I, ce chiffre étant arrondi à la
+dizaine de milliers de francs supérieure.
 
 Les abattements prévus aux troisième, quatrième, cinquième et sixième alinéas du
 présent paragraphe peuvent, le cas échéant, être utilisés, en tout ou partie,
 par les porteurs de parts de fonds communs de placement (3), lors de
 l'imposition en leur nom des produits répartis par le fonds.
+
+Pour l'assiette de l'impôt sur le revenu dû au titre des années 1986 et
+suivantes, il est opéré sur la somme des revenus imposables un abattement annuel
+de 5.000 F pour une personne célibataire, veuve ou divorcée, de 8.000 F si cette
+personne est âgée de plus de soixante-cinq ans et de 10.000 F pour un couple
+marié. Cet abattement s'applique aux revenus compris dans le champ d'application
+des abattements cités aux troisième et sixième alinéas.
 
 4. Les bénéfices des professions industrielles, commerciales, artisanales et
 ceux de l'exploitation minière sont déterminés conformément aux dispositions des
@@ -81,7 +89,7 @@ résultats d'ensemble sans qu'il y ait lieu de les décomposer entre leurs diver
 4 bis. Les adhérents des centres de gestion et associations agréés définis aux
 articles 1649 quater C à 1649 quater H ainsi que les membres d'un groupement ou
 d'une société visés aux articles 8 à 8 quater adhérant à l'un de ces organismes
-bénéficient d'un abattement de 20 % sur leurs bénéfices déclarés soumis à un
+(4) bénéficient d'un abattement de 20 % sur leurs bénéfices déclarés soumis à un
 régime réel d'imposition.
 
 Le taux de l'abattement est ramené à 10 % pour la fraction du bénéfice qui
@@ -108,11 +116,11 @@ mentionnées au 6 sont déterminés conformément aux dispositions des articles 
 91.
 
 Les pensions et retraites font l'objet d'un abattement de 10 % qui ne peut, pour
-l'imposition des revenus de 1984, excéder 23.100 F. Ce plafond est applicable au
+l'imposition des revenus de 1985, excéder 24.400 F. Ce plafond est applicable au
 montant des pensions et retraites perçues par les membres du foyer fiscal (4).
 Il est revalorisé chaque année dans la même proportion que la limite de la
 première tranche du barème de l'impôt sur le revenu ; le montant obtenu est
-arrondi, s'il y a lieu, à la centaine de francs supérieure.
+arrondi, s'il y a lieu, à la centaine de francs supérieure (5).
 
 L'abattement indiqué à l'alinéa précédent ne peut être inférieur à 1.800 F, sans
 pouvoir excéder le montant brut des pensions et retraites. Cette disposition
@@ -125,17 +133,17 @@ troisième alinéas ci-dessus, n'est retenu dans les bases de l'impôt sur le
 revenu que pour 80 % de son montant.
 
 Par exception aux dispositions de l'alinéa précédent, les salaires et indemnités
-accessoires supérieurs à 182.000 F alloués par des sociétés à des personnes qui
+accessoires supérieurs à 192.200 F alloués par des sociétés à des personnes qui
 détiennent, directement ou indirectement, plus de 35 % des droits sociaux sont
-retenus, pour la fraction excédant 182.000 F, à raison de 90 % de leur montant,
-net de frais professionnels.
+retenus, pour la fraction excédant 192.200 F, à raison de 90 % de leur montant,
+net de frais professionnels (6).
 
 Aucun abattement n'est pratiqué sur la fraction du montant des salaires, net de
-frais professionnels, et pensions qui excède 495.000 F pour l'imposition des
-revenus de 1984 (5). Cette limite est relevée chaque année dans la même
+frais professionnels, et pensions qui excède 460.000 F pour l'imposition des
+revenus de 1982 et 1983 (5). Cette limite est relevée chaque année dans la même
 proportion que le plafond de la déduction forfaitaire de 10 % pour frais
 professionnels prévu à l'article 83-3° ; le montant obtenu est arrondi le cas
-échéant au millier de francs supérieur ;
+échéant au millier de francs supérieur (7);
 
 b. Les dispositions du a sont applicables aux allocations versées aux
 travailleurs privés d'emploi mentionnées à l'article 231 bis D, premier et
@@ -173,10 +181,16 @@ chiffre était auparavant de 3.000 F.
 (2) Annexe IV, art. 6 ter.
 
 (3) Loi n° 79-594 du 13 juillet 1979, modifiée par la loi n° 83-1 du 3 janvier
-1983, art. 23 (JO des 2, 3 et 4) ; loi 84-578 du 9 juillet 1984 art. 8 (J.O. du
-11).
+1983, art. 23 (JO des 2, 3 et 4) ; loi 84-578 du 9 juillet 1984 art. 8 II (J.O.
+du 11).
 
-(4) Pour l'imposition des revenus de 1979 à 1982 le plafond s'appréciait pour
-chaque titulaire de pensions ou retraites. Il était fixé à 9.800 F pour 1982.
+(4) Voir Annexe III, art. 48 1 bis.
 
-(5) Limite également fixée à 460.000 F pour l'imposition des revenus de 1982.
+(5) Plafond fixé à 23.100 F pour l'imposition des revenus de 1984 et à 24.400 F
+pour l'imposition des revenus de 1985.
+
+(6) Limite applicable pour l'imposition des revenus de 1985. Cette limite était
+fixée à 182.000 F pour l'imposition des revenus de 1984.
+
+(7) Limite fixée à 495.000 F pour l'imposition des revenus de 1984 et à 523.000
+F pour l'imposition des revenus de 1985.

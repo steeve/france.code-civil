@@ -8,8 +8,8 @@ l'année suivante, accompagnés d'un bordereau indiquant, outre la désignation 
 l'adresse du déclarant, le montant de l'excédent à reverser. Ce bordereau doit
 être remis à la recette des impôts du siège du fonds d'assurance-formation.
 
-A défaut, il est fait application de la procédure prévue par l'article 163
-quindecies.
+A défaut, il est fait application de la procédure prévue à l'article R. 950-21
+du code du travail.
 
 Les dispositions qui précèdent ne s'appliquent qu'à partir de la troisième année
 suivant celle au cours de laquelle le fonds d'assurance-formation a, selon le

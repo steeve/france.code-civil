@@ -23,17 +23,12 @@ conserver pendant un délai de deux ans.
 
 2. Le régime fiscal des sociétés mères s'applique également aux sociétés
 françaises par actions ou à responsabilité limitée qui ont souscrit à l'émission
-et conservé sous la forme nominative, quel qu'en soit le nombre :
-
-a. Soit des obligations des anciens grands réseaux français de chemin de fer
-d'intérêt général ou des chemins de fer de grande ceinture de Paris, ou de la
-société nationale des chemins de fer français, lorsque la souscription est
-antérieure au 1er décembre 1941 ;
-
-b. Soit des obligations de la société nationale des chemins de fer français,
-lorsque ces obligations proviennent de la conversion effectuée en vertu de la
-loi du 2 décembre 1941 de titres visés à l'alinéa qui précède et souscrits
-eux-mêmes à l'émission.
+et conservé sous la forme nominative, quel qu'en soit le nombre, des obligations
+de la société nationale des chemins de fer français [*SNCF*] , lorsque ces
+obligations proviennent de la conversion effectuée en vertu de la loi du 2
+décembre 1941 d'obligations, souscrites elles-mêmes à l'émission, des anciens
+grands réseaux français de chemins de fer d'intérêt général ou des chemins de
+fer de grande ceinture de Paris.
 
 3. Le même régime s'applique également lorsqu'une société propriétaire de Kuxes
 de Gewerkschaften a reçu des actions nouvelles en échange des Kuxes de
@@ -86,6 +81,9 @@ du 24 décembre 1969 ;
 
 f. Aux produits distribués aux associés des sociétés agréées pour le financement
 des économies d'énergie mentionnées à l'article 208-3° sexies.
+
+g. Aux produits et plus-values nets distribués par les sociétés de
+capital-risque exonérés en application du 3° septies de l'article 208.
 
 7. Le régime fiscal des sociétés mères ne peut s'appliquer aux produits des
 actions des sociétés immobilières d'investissement régies par l'article 33-I de

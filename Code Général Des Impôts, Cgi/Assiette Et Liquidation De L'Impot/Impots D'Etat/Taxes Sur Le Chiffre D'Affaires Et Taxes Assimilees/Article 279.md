@@ -24,10 +24,10 @@ a quater. (Abrogé) ;
 
 b. 1° Les remboursements et les rémunérations versés par les communes ou leurs
 groupements aux exploitants des services de distribution d'eau et
-d'assainissement ;
+d'assainissement (4) ;
 
 2° Les taxes, surtaxes et redevances perçues sur les usagers des réseaux
-d'assainissement ;
+d'assainissement (4) ;
 
 b bis. Les spectacles suivants :
 
@@ -69,13 +69,21 @@ des services rendus.
 L'agrément est prononcé conjointement par le ministre de la culture et le
 ministre de l'économie, des finances et du budget après avis d'une commission
 dont la composition et le fonctionnement sont prévus par arrêté de ces mêmes
-ministres.
+ministres (5).
 
 Un décret en Conseil d'Etat fixe les conditions de l'agrément et les modalités
-d'application du présent article (5).
+d'application du présent article (6).
 
 b septies. Les prestations de services effectuées par les agences de voyages et
-les organisateurs de circuits touristiques.
+les organisateurs de circuits touristiques (7).
+
+b octies. La redevance pour droit d'usage des appareils recepteurs de télévision
+et des appareils d'enregistrement et de reproduction des images et du son en
+télévision [*magnétoscopes*] et les abonnements souscrits par les usagers afin
+de recevoir les services de télévision prévus à l'article 79 de la loi n° 82-652
+du 29 juillet 1982 sur la communication audiovisuelle et à l'article 1er de la
+loi 84-743 du 1er août 1984 relative à l'exploitation des services de
+radiotélévision mis à la disposition du public sur un réseau cablé;
 
 c. Les opérations d'achat, d'importation, de vente, de livraison, de commission,
 de courtage ou de façon, portant sur les produits suivants :
@@ -86,7 +94,7 @@ de courtage ou de façon, portant sur les produits suivants :
 animaux de basse-cour, des poissons d'élevage destinés à la consommation humaine
 et des abeilles, ainsi que les produits entrant dans la composition de ces
 aliments et dont la liste est fixée par arrêté du ministre de l'économie et des
-finances pris après avis des professions intéressées (6) ;
+finances pris après avis des professions intéressées (8) ;
 
 14° Préparations magistrales, produits officinaux et spécialités pharmaceutiques
 destinées à l'usage de la médecine humaine et faisant l'objet de l'autorisation
@@ -113,7 +121,8 @@ fait l'objet, soit d'une homologation, soit d'une autorisation de vente délivr�
 par le ministre de l'agriculture.
 
 e. Les opérations d'achat, d'importation, de vente, de livraison, de commission,
-de courtage ou de façon portant sur les livres.
+de courtage, de façon ainsi que de location ou de cession de droits portant sur
+les livres.
 
 (1) Cf. décret n° 66-371 du 13 juin 1966 relatif au classement et aux prix des
 hôtels et restaurants.
@@ -122,11 +131,13 @@ hôtels et restaurants.
 
 (3) Annexe III, art. 85 bis.
 
-(4) Disposition applicable à compter du 1er juillet 1984.
+(4) Disposition à caractère interprétatif.
 
-(5) Décret 84-1090 1984-12-07. Arrêté 1984-12-07 (JONC du 8 ;
+(5) Arrêté 1984-12-07 (JONC du 8 ;
 
-Annexe II, art. 242 ter A à 242 ter F et Annexe IV, art. 170 septies A et 170
-octies).
+(6) Annexe II, art. 242 ter A à 242 ter F et Annexe IV, art. 170 septies A et
+170 octies).
 
-(6) Annexe IV, art. 31.
+(7) Dispositions applicables à compter du 1er avril 1985.
+
+(8) Annexe IV, art. 31.

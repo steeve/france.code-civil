@@ -41,11 +41,25 @@ A compter du 1er janvier 1983, les produits des clauses d'indexation afférentes
 aux sommes mises ou laissées à la disposition d'une société par ses associés ou
 ses actionnaires sont assimilés à des intérêts.
 
+La limite prévue au premier alinéa n'est pas applicable aux intérêts afférents
+aux avances consenties par une société à une autre société lorsque la première
+possède, au regard de la seconde, la qualité de société-mère au sens de
+l'article 145 et que ces avances proviennent de sommes empruntées par appel
+public à l'épargne sur le marché obligataire, ou par émission de titres de
+créances mentionnés au 1° bis du III bis de l'article 125 A ; dans ce cas, les
+intérêts sont déductibles dans la limite des intérêts des ressources ainsi
+collectées par la société-mère pour le compte de sa ou de ses filiales. Ces
+dispositions sont applicables aux intérêts afférents aux ressources empruntées à
+compter du 1er janvier 1986.
+
+Les conditions d'application de l'alinéa précédent (3) , notamment les
+obligations déclaratives des sociétés mentionnées, sont fixées par décret (3).
+
 3° bis (Abrogé) ;
 
 4° Sous réserve des dispositions de l'article 153, les impôts à la charge de
 l'entreprise, mis en recouvrement au cours de l'exercice, à l'exception des
-taxes prévues aux articles 235 ter T, 238 quater, 235 ter Y, 239 bis B et 990 G.
+taxes prévues aux articles 235 ter T, 235 ter Y, 238 quater, 239 bis B et 990 G.
 
 Si des dégrèvements sont ultérieurement accordés sur ces impôts, leur montant
 entre dans les recettes de l'exercice au cours duquel l'exploitant est avisé de
@@ -62,19 +76,17 @@ titre de l'exercice clos après son paiement ;
 5° Les provisions constituées en vue de faire face à des pertes ou charges
 nettement précisées et que des événements en cours rendent probables, à
 condition qu'elles aient été effectivement constatées dans les écritures de
-l'exercice.
-
-Toutefois, ne sont pas déductibles les provisions que constitue une entreprise
-en vue de faire face au versement d'allocations en raison du départ à la
-retraite ou préretraite des membres ou anciens membres de son personnel, ou de
-ses mandataires sociaux.
+l'exercice. Toutefois, ne sont pas déductibles les provisions que constitue une
+entreprise en vue de faire face au versement d'allocations en raison du départ à
+la retraite ou préretraite des membres ou anciens membres de son personnel, ou
+de ses mandataires sociaux (4).
 
 Un décret fixe les règles d'après lesquelles des provisions pour fluctuation des
 cours peuvent être retranchées des bénéfices des entreprises dont l'activité
 consiste essentiellement à transformer directement des matières premières
-acquises sur les marchés internationaux (3) ou des matières premières acquises
+acquises sur les marchés internationaux (5) ou des matières premières acquises
 sur le territoire national et dont les prix sont étroitement liés aux variations
-des cours internationaux (3).
+des cours internationaux (5).
 
 Pour les entreprises dont l'objet principal est de faire subir en France la
 première transformation au pétrole brut, le montant de la provision pour
@@ -84,7 +96,7 @@ réglementaires en vigueur. L'excédent éventuel de la provision antérieuremen
 constituée, par rapport à la nouvelle limite maximale calculée à la clôture du
 premier exercice auquel elle s'applique, est rapporté au bénéfice imposable de
 cet exercice. Ces dispositions s'appliquent pour la détermination des résultats
-des exercices clos à compter du 24 septembre 1975 (3).
+des exercices clos à compter du 24 septembre 1975 (5).
 
 Sous réserve des dispositions prévues au septième alinéa, les entreprises
 peuvent, d'autre part, en ce qui concerne les variations de prix postérieures au
@@ -102,14 +114,14 @@ des stocks est supérieure à trois ans. Dans ce dernier cas, les entreprises
 effectueront la réintégration dans un délai double de celui de la rotation
 normale des stocks.
 
-Un décret fixe les modalités d'application des deux alinéas qui précèdent (4).
+Un décret fixe les modalités d'application des deux alinéas qui précèdent (6).
 
 Les matières, produits ou approvisionnements existant en stock à la clôture de
 chaque exercice et qui peuvent donner lieu à la constitution de la provision
 pour fluctuation des cours prévue au deuxième alinéa n'ouvrent pas droit à la
 provision pour hausse des prix.
 
-Un arrêté du ministre de l'économie et des finances (5) fixe les limites dans
+Un arrêté du ministre de l'économie et des finances (7) fixe les limites dans
 lesquelles sont admises les provisions destinées à faire face aux risques
 particuliers afférents aux opérations de crédit à moyen et à long terme ainsi
 qu'aux crédits à moyen terme résultant de ventes ou de travaux effectués à
@@ -173,21 +185,22 @@ location ou de toute autre opération faite en vue d'obtenir la disposition de
 résidences de plaisance ou d'agrément, ainsi que de l'entretien de ces
 résidences.
 
-Sauf justifications, les dispositions de l'alinéa qui précède sont applicables :
+Sauf justifications, les dispositions du premier alinéa sont applicables :
 
-- à l'amortissement des voitures de tourisme pour la fraction de leur prix
-d'acquisition qui dépasse 20.000 F ; pour les exercices clos à compter du 1er
-janvier 1975, cette limite est portée à 35.000 F [*montant*] et s'applique à
-l'ensemble des véhicules immatriculés dans la catégorie des voitures
-particulières ;
+A l'amortissement des véhicules immatriculés dans la catégorie des voitures
+particulières pour la fraction de leur prix d'acquisition qu dépasse 35 000 F ;
+cette limite est portée à 50 000 F pour les véhicules acquis à l'état neuf à
+compter du 1er juillet 1985;
 
-- en cas d'opérations de crédit-bail ou de location, à l'exception des locations
-de courte durée n'excédant pas trois mois non renouvelables, portant sur des
+En cas d'opérations de crédit bail ou de location, à l'exception de locations de
+courte durée n'excédant pas trois mois non renouvelables, portant sur des
 voitures particulières, à la part du loyer supportée par le locataire et
 correspondant à l'amortissement pratiqué par le bailleur pour la fraction du
-prix d'acquisition du véhicule excédant 35.000 F ;
+prix d'acquisition du véhicule excédant 35 000 F. Cette limite est portée à 50
+000 F pour les opérations portant sur des véhicules acquis à l'état neuf à
+compter du 1er juillet 1985;
 
-- aux dépenses de toute nature résultant de l'achat, de la location ou de toute
+- Aux dépenses de toute nature résultant de l'achat, de la location ou de toute
 autre opération faite en vue d'obtenir la disposition de yachts ou de bateaux de
 plaisance à voile ou à moteur ainsi que de leur entretien.
 
@@ -198,7 +211,7 @@ des véhicules ainsi amortis.
 
 5. Lorsque les dépenses appartenant aux catégories ci-après excèdent les
 chiffres fixés par arrêté du ministre de l'économie et des finances, pris après
-consultation des professions intéressées (6), elles ne sont déductibles que si
+consultation des professions intéressées (8), elles ne sont déductibles que si
 elles figurent sur le relevé visé à l'article 54 quater.
 
 Les dépenses visées à l'alinéa qui précède sont :
@@ -232,7 +245,7 @@ l'entreprise.
 Lorsqu'elles augmentent dans une proportion supérieure à celle des bénéfices
 imposables ou que leur montant excède celui de ces bénéfices, l'administration
 peut demander à l'entreprise de justifier qu'elles sont nécessitées par sa
-gestion (7) (8).
+gestion (9) (10).
 
 6. (Dispositions devenues sans objet).
 
@@ -241,18 +254,34 @@ pour l'adhésion à un centre de gestion agréé ne sont pas prises en compte po
 la détermination du résultat imposable lorsqu'elles sont supportées par l'Etat
 du fait de la réduction d'impôt mentionnée à l'article 199 quater B.
 
+8. Si un fonds de commerce ou un établissement artisanal est loué dans les
+conditions prévues au 3° de l'article 1er de la loi n°66-455 du 2 juillet 1966
+relative aux entreprises pratiquant le crédit-bail, la quote-part des loyers
+pris en compte pour la fixation du prix de vente convenu pour l'acceptation de
+la promesse unilatérale de vente n'est pas déductible pour l'assiette de l'impôt
+sur les bénéfices dû par le locataire. Elle doit être indiquée distinctement
+dans le contrat de crédit-bail (11).
+
+Un décret fixe les modalités d'application de ces dispositions, notamment les
+obligations déclaratives (11).
+
 (1) Voir art. 39 E et 61 A.
 
 (2) Annexe II, art. 15 et 229.
 
-(3) Annexe III, art. 3 à 10 septies.
+(3) Décret à emettre.
 
-(4) Annexe III, art. 10 nonies à 10 terdecies.
+(4) Cette disposition a un caractère interprétatif.
 
-(5) Annexe IV, art. 2 à 4 septies.
+(5) Annexe III, art. 3 à 10 septies.
 
-(6) Annexe IV, art. 4 J à 4 L.
+(6) Annexe III, art. 10 nonies à 10 terdecies.
 
-(7) Voir Annexe II, art. 33 à 35.
+(7) Annexe IV art. 2 à 4 septies.
 
-(8) Voir également Livre des procédures fiscales, art. L59 A 2°.
+(8) Annexe IV art. 4 J à 4 L.
+
+(9) Voir annexe II, art. 33 à 35.
+
+(10) Voir également livre de procédures fiscales, art. L59 A 2° (11) Annexe III,
+art. 38 quindecies E

@@ -77,8 +77,7 @@ d'emprunts contractés par l'Etat et par les collectivités publiques ou privée
 l'ordonnance n° 67-830 du 27 septembre 1967 et des textes pris pour son
 application (1) ;
 
-7° Les attestations de propriété visées à l'article 22 modifié du décret n°
-55-1595 du 7 décembre 1955 relatif au régime des titres nominatifs ;
+7° (Disposition devenue sans objet);
 
 8° (Abrogé) ;
 
