@@ -1,14 +1,19 @@
 Article L122-3-11
 ----
-Si la relation contractuelle de travail se poursuit après l'échéance du terme du
-contrat, celui-ci devient un contrat à durée indéterminée.
+A l'expiration du contrat conclu pour une durée déterminée, il ne peut être
+recouru, pour pourvoir le poste du salarié dont le contrat a pris fin, ni à un
+contrat à durée déterminée ni à un contrat de travail temporaire défini au
+chapitre IV du présent titre avant l'expiration d'une période égale au tiers de
+la durée de ce contrat [*contrats successifs, délai*] renouvellement inclus.
 
-Dans les cas mentionnés au 1° de l'article L. 122-1 [*remplacement d'un salarié
-absent*] et à l'article L. 122-3 [*emplois saisonniers ou temporaires*], les
-dispositions de l'alinéa ci-dessus ne font pas obstacle à la conclusion, avec le
-même salarié, de contrats à durée déterminée successifs.
+Les dispositions de l'alinéa ci-dessus ne sont pas applicables, lorsque le
+contrat de travail à durée déterminée est conclu pour assurer le remplacement
+d'un salarié temporairement absent ou dont le contrat de travail est suspendu,
+en cas de nouvelle absence du salarié remplacé. Il en est de même pour
+l'exécution de travaux urgents nécessités par des mesures de sécurité et lorsque
+le contrat de travail à durée déterminée est conclu dans l'un des cas mentionnés
+aux 2° et 3° du premier alinéa de l'article L. 122-1-1.
 
-Lorsque la relation contractuelle de travail se poursuit à l'issue d'un contrat
-à durée déterminée, le salarié conserve l'ancienneté qu'il avait acquise au
-terme de ce contrat. La durée de ce contrat est déduite de la période d'essai
-éventuellement prévue dans le nouveau contrat.
+Elles ne sont pas non plus applicables en cas de rupture anticipée due au fait
+du salarié [*démission*], et en cas de refus par le salarié du renouvellement de
+son contrat, pour la durée du contrat non renouvelé.

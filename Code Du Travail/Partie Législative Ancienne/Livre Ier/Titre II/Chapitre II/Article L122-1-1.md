@@ -1,26 +1,18 @@
 Article L122-1-1
 ----
-Le directeur départemental du travail et de l'emploi ou le fonctionnaire de
-contrôle assimilé peut autoriser la conclusion de contrats à durée déterminée ne
-pouvant excéder vingt-quatre mois dans les deux cas suivants [*type*] :
+Le contrat de travail à durée déterminée peut ne pas comporter un terme précis
+lorsqu'il est conclu :
 
-1° Survenance dans l'entreprise d'une commande exceptionnelle, notamment à
-l'exportation, dont l'importance nécessite la mise en oeuvre de moyens
-qualitativement ou quantitativement exorbitants de ceux qu'elle utilise
-ordinairement, pendant plus de six mois ;
+1° Pour remplacer un salarié absent ou dont le contrat de travail est suspendu ;
 
-2° Remplacement d'un salarié sous contrat à durée indéterminée ayant
-définitivement quitté son poste de travail et ne pouvant être remplacé par un
-autre salarié sous contrat à durée indéterminée en raison d'arrêts d'activité ou
-de changements de techniques de production ou de matériel expressément prévus,
-ayant fait l'objet d'une saisine du comité d'entreprise ou, à défaut, des
-délégués du personnel, s'ils existent, et devant, dans un délai maximum de
-vingt-quatre mois, aboutir à des suppressions d'emplois dans l'entreprise.
+2° Pour des emplois à caractère saisonnier ;
 
-Ce contrat doit comporter un terme fixé avec précision dès sa conclusion ; sa
-durée totale, compte tenu, le cas échéant, du renouvellement prévu à l'article
-L. 122-3-2 ne peut excéder vingt-quatre mois. Le directeur départemental du
-travail et de l'emploi géographiquement compétent ou le fonctionnaire de
-contrôle assimilé prend sa décision dans un délai de quinze jours suivant la
-date à laquelle il a reçu la demande motivée. A défaut de réponse dans ce délai,
-la demande est réputée acquise [*accord tacite*].
+3° Pour des emplois pour lesquels, dans certains secteurs d'activité, il est
+d'usage constant de ne pas recourir au contrat à durée indéterminée en raison de
+la nature de l'activité exercée et du caractère par nature temporaire de cet
+emploi ; la liste de ces secteurs d'activité est établie par décret ou par voie
+de convention ou d'accord collectif étendu.
+
+A moins que les parties ne lui aient fixé un terme précis, le contrat doit être
+conclu pour une durée minimale et il a pour terme la fin de l'absence du salarié
+ou la réalisation de l'objet pour lequel il est conclu.

@@ -14,5 +14,6 @@ au salarié.
 Ce contrat doit comporter un terme fixé avec précision dès sa conclusion
 [*mention*].
 
-Il peut être renouvelé une fois. Les dispositions des articles L. 122-3-2 et L.
-122-3-12 ne sont pas applicables à ce contrat [*terme, contrats successifs*].
+Il peut être renouvelé une fois. Les dispositions des articles L. 122-1 alinéa 4
+et L. 122-3-11 ne sont pas applicables à ce contrat [*terme, contrats
+successifs*].
