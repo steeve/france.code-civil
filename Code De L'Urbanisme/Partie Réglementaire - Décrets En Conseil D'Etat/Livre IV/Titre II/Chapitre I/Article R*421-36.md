@@ -45,13 +45,13 @@ délimitation et jusqu'à ce que le plan de sauvegarde et de mise en valeur ait
 été rendu public ;
 
 13° Pour les constructions qui, en raison de leur emplacement à proximité d'un
-ouvrage militaire, sont soumises à l'autorisation du ministre chargé des armées,
-en vertu du décret du 10 août 1853, de la loi du 18 juillet 1895 ou de la loi du
-11 juillet 1933 ;
+ouvrage militaire, sont soumises à l'autorisation du ministre de la défense, en
+vertu du décret du 10 août 1853, de la loi du 18 juillet 1895 ou de la loi du 11
+juillet 1933 ;
 
 14° Pour les constructions qui, en raison de leur situation à l'intérieur d'un
-polygone d'isolement, sont soumises à l'autorisation du ministre chargé des
-armées en vertu de l'article 5 de la loi du 8 août 1929.
+polygone d'isolement, sont soumises à l'autorisation du ministre de la défense
+en vertu de l'article 5 de la loi du 8 août 1929.
 
 15° Lorsque le projet de construction, situé dans le périmètre d'urbanisation
 d'une agglomération nouvelle, se trouve dans une zone d'aménagement concerté ou

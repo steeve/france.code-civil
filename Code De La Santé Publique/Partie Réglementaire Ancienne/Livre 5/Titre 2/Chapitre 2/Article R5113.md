@@ -37,4 +37,4 @@ sous l'autorité directe du directeur.
 Dans la Pharmacie centrale des armées et dans les établissements de
 ravitaillement sanitaire du service de santé des armées, le pharmacien
 responsable des établissements pharmaceutiques qui en dépendent est le
-pharmacien chimiste des armées désigné par le ministre chargé des armées.
+pharmacien chimiste des armées désigné par le ministre de la défense.

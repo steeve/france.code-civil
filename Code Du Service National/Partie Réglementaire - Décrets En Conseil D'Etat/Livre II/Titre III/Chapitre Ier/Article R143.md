@@ -9,4 +9,4 @@ service national, admis d'office au cycle de formation des élèves officiers de
 réserve du service de santé.
 
 Ce cycle comprend une période de formation initiale et une période d'application
-dont les modalités sont fixées par un arrêté du ministre chargé des armées.
+dont les modalités sont fixées par un arrêté du ministre de la défense.

@@ -21,5 +21,5 @@ générale.
 Ces services sont rendus, en ce qui concerne la circulation aérienne générale,
 pour le compte du ministre chargé de l'aviation civile en application de
 l'article D. 131-2 de la présente section, et, en ce qui concerne la circulation
-aérienne militaire, pour le compte du ministre chargé des armées, en application
-des articles D. 131-3 et D. 131-4 de la présente section.
+aérienne militaire, pour le compte du ministre de la défense, en application des
+articles D. 131-3 et D. 131-4 de la présente section.

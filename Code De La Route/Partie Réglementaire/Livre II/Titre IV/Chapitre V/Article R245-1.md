@@ -15,7 +15,7 @@ l'air expiré, prévues par les articles L. 234-3 à L. 234-5 et L. 234-9 sont
 effectuées au moyen d'un appareil conforme à un type homologué selon des
 modalités définies par arrêté du ministre chargé de la santé publique, après
 avis du ministre chargé des transports, du ministre de l'intérieur et du
-ministre chargé des armées."
+ministre de la défense."
 
 "Art. R. 234-4. - Lorsque, pour procéder aux vérifications prévues par les
 articles L. 234-4, L. 234-5 et L. 234-9, l'officier ou l'agent de police

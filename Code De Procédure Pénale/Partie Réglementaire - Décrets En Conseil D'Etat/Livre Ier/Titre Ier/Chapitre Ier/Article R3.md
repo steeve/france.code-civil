@@ -15,7 +15,7 @@ cassation, président ;
 magistrats honoraires, et des officiers supérieurs de la gendarmerie dont quatre
 au plus peuvent être en retraite, en nombre égal. Ce nombre, qui est au moins de
 huit et au plus de quinze, est déterminé par arrêté conjoint du garde des
-sceaux, ministre de la justice, et du ministre chargé des armées en fonction du
+sceaux, ministre de la justice, et du ministre de la défense en fonction du
 nombre de candidats à l'examen technique prévu à l'article R. 5.
 
 Le secrétariat de la commission est assuré par la gendarmerie nationale.

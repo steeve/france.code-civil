@@ -2,9 +2,9 @@ Article R22
 ----
 L'instruction des demandes présentées par les militaires et marins résidant à
 l'étranger est assurée par un ou plusieurs centres de réforme désignés à cet
-effet par un arrêté du ministre chargé des armées et du ministre chargé des
-anciens combattants et victimes de guerre qui fixe, le cas échéant, la
-compétence respective des centres ainsi désignés.
+effet par un arrêté du ministre de la défense et du ministre chargé des anciens
+combattants et victimes de guerre qui fixe, le cas échéant, la compétence
+respective des centres ainsi désignés.
 
 Les commissions de réforme appelées à connaître desdites demandes sont celles
 qui fonctionnent auprès du centre de réforme chargé de leur instruction.

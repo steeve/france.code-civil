@@ -4,7 +4,7 @@ A l'extérieur des zones grevées de servitudes de dégagement en application du
 présent titre, l'établissement de certaines installations qui, en raison de leur
 hauteur, pourraient constituer des obstacles à la navigation aérienne est soumis
 à une autorisation spéciale du ministre chargé de l'aviation civile et du
-ministre chargé des armées.
+ministre de la défense.
 
 Des arrêtés ministériels déterminent les installations soumises à autorisation
 ainsi que la liste des pièces qui doivent être annexées à la demande

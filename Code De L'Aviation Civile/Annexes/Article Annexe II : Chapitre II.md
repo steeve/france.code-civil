@@ -438,8 +438,8 @@ vol et le service d'alerte.
 Les modalités de désignation des organismes chargés d'assurer les services de la
 circulation aérienne dans les régions d'information de vol et les espaces
 contrôlés sont fixées par arrêté du ministre chargé de l'aviation civile ou par
-arrêté conjoint du ministre chargé de l'aviation civile et du ministre chargé
-des armées pour les espaces aériens où un organisme unique de la circulation
+arrêté conjoint du ministre chargé de l'aviation civile et du ministre de la
+défense pour les espaces aériens où un organisme unique de la circulation
 aérienne assure simultanément des services à la circulation aérienne générale et
 à la circulation aérienne militaire.
 

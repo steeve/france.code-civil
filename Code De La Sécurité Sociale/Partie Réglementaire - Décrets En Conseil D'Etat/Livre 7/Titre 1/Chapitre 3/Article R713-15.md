@@ -9,7 +9,7 @@ Les crédits inscrits aux chapitres budgétaires sont limitatifs, à l'exception
 des crédits ouverts pour le paiement des prestations obligatoires qui ont un
 caractère évaluatif.
 
-Le budget est approuvé par arrêté conjoint du ministre chargé des armées, du
+Le budget est approuvé par arrêté conjoint du ministre de la défense, du
 ministre chargé du budget et du ministre chargé de la sécurité sociale.
 
 En cours d'année, les modifications aux prévisions du budget font l'objet de

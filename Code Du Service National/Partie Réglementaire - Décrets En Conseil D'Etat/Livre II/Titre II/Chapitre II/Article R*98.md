@@ -8,4 +8,4 @@ majorité des voix.
 
 Ses membres sont tenus au secret des délibérations.
 
-Le ministre chargé des armées désigne le secrétaire de la commission.
+Le ministre de la défense désigne le secrétaire de la commission.

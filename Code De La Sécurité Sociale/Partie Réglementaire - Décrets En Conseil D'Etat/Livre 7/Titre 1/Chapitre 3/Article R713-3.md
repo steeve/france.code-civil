@@ -22,14 +22,14 @@ représentant ;
 
 4° Le directeur des services financiers ou son représentant ;
 
-5° Trois membres désignés par le ministre chargé des armées ;
+5° Trois membres désignés par le ministre de la défense ;
 
 6° Deux membres désignés par le ministre chargé de la sécurité sociale ;
 
 7° Deux membres désignés par le ministre chargé du budget.
 
 Les représentants de l'Etat autres que les membres de droit sont désignés pour
-trois ans. Leur mandat est renouvelable.
+trois ans [*durée du mandat*]. Leur mandat est renouvelable.
 
 Les représentants des affiliés à la caisse sont :
 
@@ -45,8 +45,8 @@ Les représentants des affiliés à la caisse sont :
 
 6° Deux représentants des personnels retraités.
 
-Les représentants des affiliés sont désignés par le ministre chargé des armées
-pour trois ans. Leur mandat est renouvelable.
+Les représentants des affiliés sont désignés par le ministre de la défense pour
+trois ans. Leur mandat est renouvelable.
 
 Au conseil d'administration sont adjoints, avec voix consultative :
 
@@ -54,8 +54,8 @@ Au conseil d'administration sont adjoints, avec voix consultative :
 médicaux ;
 
 2° Un représentant du Conseil supérieur de la fonction militaire désigné, pour
-la durée de son mandat, par le ministre chargé des armées sur proposition du
-Conseil supérieur de la fonction militaire.
+la durée de son mandat, par le ministre de la défense sur proposition du Conseil
+supérieur de la fonction militaire.
 
 Leurs mandats sont renouvelables.
 

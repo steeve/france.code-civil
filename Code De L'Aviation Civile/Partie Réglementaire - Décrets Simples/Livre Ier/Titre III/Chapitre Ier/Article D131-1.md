@@ -7,4 +7,4 @@ chargé de l'aviation civile ;
 
 - la circulation aérienne militaire comprenant elle-même la circulation
 opérationnelle militaire et la circulation d'essais et de réception, qui relève
-de la compétence du ministre chargé des armées.
+de la compétence du ministre de la défense.

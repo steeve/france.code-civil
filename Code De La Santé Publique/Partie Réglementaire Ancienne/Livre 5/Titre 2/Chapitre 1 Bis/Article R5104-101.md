@@ -1,6 +1,6 @@
 Article R5104-101
 ----
 La gérance de la pharmacie à usage intérieur de la pharmacie centrale des armées
-est assurée par un pharmacien chimiste des armées désigné par le ministre chargé
-des armées. Ce pharmacien assure personnellement ses fonctions dans l'un des
+est assurée par un pharmacien chimiste des armées désigné par le ministre de la
+défense. Ce pharmacien assure personnellement ses fonctions dans l'un des
 emplacements de la pharmacie à usage intérieur.

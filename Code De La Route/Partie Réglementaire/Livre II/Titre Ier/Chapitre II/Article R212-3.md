@@ -32,8 +32,8 @@ pédagogique (CAPP) ;
 
 3° Le brevet de spécialiste de l'armée de terre (BSAT), mention instruction
 élémentaire de conduite, ou les diplômes militaires reconnus équivalents à
-celui-ci par arrêté conjoint du ministre chargé des transports et du ministre
-chargé des armées ;
+celui-ci par arrêté conjoint du ministre chargé des transports et du ministre de
+la défense ;
 
 4° Les diplômes d'enseignement de la conduite délivrés dans les territoires
 d'outre-mer et dans les collectivités territoriales de Mayotte et de

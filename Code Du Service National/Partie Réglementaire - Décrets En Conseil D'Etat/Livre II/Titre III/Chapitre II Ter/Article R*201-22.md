@@ -1,9 +1,9 @@
 Article R*201-22
 ----
 Les candidatures sont déposées par les intéressés auprès du bureau ou du centre
-du service national dont ils relèvent. Le ministre chargé des armées, sous
-réserve des dispositions de l'article L. 6, transmet les candidatures au
-ministre chargé de la sécurité civile.
+du service national dont ils relèvent. Le ministre de la défense, sous réserve
+des dispositions de l'article L. 6, transmet les candidatures au ministre chargé
+de la sécurité civile.
 
 Lorsque leur demande est agréée par ce ministre, les jeunes gens sont mis pour
 emploi à sa disposition. Ils reçoivent une affectation, selon les modalités qui

@@ -1,6 +1,6 @@
 Article D370-4
 ----
-Outre le président, le conseil supérieur de l'aviation marchande comprend
+Outre le président, le Conseil supérieur de l'aviation marchande comprend
 quarante-trois autres membres répartis en deux collèges, qui sont nommés par
 arrêté du ministre chargé de l'aviation civile, dans les conditions suivantes :
 
@@ -26,7 +26,7 @@ président de la Cour des comptes ;
 
 - un représentant du ministre chargé des relations extérieures ;
 
-- un représentant du ministre chargé des armées ;
+- un représentant du ministre de la défense ;
 
 - un représentant du ministre chargé de la tutelle des chambres de commerce et
 d'industrie ;
@@ -62,7 +62,7 @@ syndicales représentatives au plan national dans le domaine du transport aérie
 3° Trois représentants des usagers du transport aérien ;
 
 4° Deux représentants des gestionnaires d'aéroports, dont un représentant
-d'Aéroport de Paris ;
+d'Aéroports de Paris ;
 
 5° Un représentant des industries françaises aéronautiques et spatiales.
 

@@ -23,8 +23,8 @@ Elle définit :
 organismes chargés de cette circulation.
 
 Les procédures d'application prévues dans la présente réglementation font
-l'objet d'un arrêté (RCAM 3) du ministre chargé des armées et sont publiées par
-la division information aéronautique de la direction de la circulation aérienne
+l'objet d'un arrêté (RCAM 3) du ministre de la défense et sont publiées par la
+division information aéronautique de la direction de la circulation aérienne
 militaire (DIRCAM).
 
 Il appartient à chaque état-major ou direction, au centre d'essais en vol et à
@@ -36,8 +36,8 @@ réglementation.
 Nota. - La présente réglementation se conforme chaque fois que possible, en y
 faisant référence, à l'annexe II à la section I du chapitre Ier du titre III du
 livre Ier de la troisième partie du code de l'aviation civile (art. D. 131-1 à
-D. 131-10) relative aux " Services de la circulation aérienne générale " (RCA
-2), dont elle s'efforce de suivre le plan.
+D. 131-10) relative aux "Services de la circulation aérienne générale" (RCA 2),
+dont elle s'efforce de suivre le plan.
 
 
 LES SERVICES DE LA CIRCULATION AÉRIENNE MILITAIRE
@@ -66,7 +66,7 @@ Chapitre II : Généralités
 2.1. Bénéficiaires des services de la circulation aérienne militaire
 
 Les services de la circulation aérienne militaire sont assurés au profit des
-aéronefs relevant du ministre chargé des armées.
+aéronefs relevant du ministre de la défense.
 
 En outre, les aéronefs d'Etat relevant d'autres ministères ou d'autres Etats,
 après approbation du commandant de la défense aérienne, et les aéronefs en
@@ -77,7 +77,7 @@ accords particuliers.
 2.2. Services de la circulation aérienne militaire
 
 Ils sont assurés par un dispositif composé par l'ensemble des organismes de la
-circulation aérienne militaire relevant du ministre chargé des armées. Des
+circulation aérienne militaire relevant du ministre de la défense. Des
 organismes désignés de la circulation aérienne générale, relevant du ministre
 chargé de l'aviation civile, peuvent rendre les services de la CAM dans le cadre
 de l'article D. 131-9 du code de l'aviation civile.
@@ -249,13 +249,12 @@ la CAM.
 
 2.2.4.1. Les procédures employées par les organismes chargés de rendre les
 services de la circulation aérienne militaire aux aéronefs appartenant à la
-circulation aérienne militaire sont fixées par arrêté du ministre chargé des
-armées.
+circulation aérienne militaire sont fixées par arrêté du ministre de la défense.
 
 2.2.4.2. Des procédures complémentaires employées par les organismes de la
 circulation aérienne chargés de rendre simultanément des services à des aéronefs
 relevant de la CAM et à des aéronefs relevant de la CAG peuvent être établies
-par arrêté conjoint du ministre chargé des armées et du ministre chargé de
+par arrêté conjoint du ministre de la défense et du ministre chargé de
 l'aviation civile.
 
 2.3. Espaces aériens et aérodromes où sont assurés des services de la CAM
@@ -532,7 +531,7 @@ Conforme au RCA 2.
 2.3.6. Identification.
 
 Les règles d'identification contenues au RCA 2 s'appliquent aux EACS et aux
-aérodromes dont le ministre chargé des armées est affectataire principal.
+aérodromes dont le ministre de la défense est affectataire principal.
 
 2.4. Organismes assurant les services de la CAM
 
@@ -544,7 +543,7 @@ relatifs à leurs installations.
 
 Ils peuvent également rendre les services de la CAG au profit des aéronefs de
 cette circulation, conformément aux arrêtés conjoints du ministre chargé de
-l'aviation civile et du ministre chargé des armées (art. D. 131-9 du code de
+l'aviation civile et du ministre de la défense (art. D. 131-9 du code de
 l'aviation civile).
 
 2.4.2. Spécifications relatives aux organismes de la CAM.
@@ -578,7 +577,7 @@ particulières.
 Chargés de rendre les services de la CAM aux aéronefs de la circulation d'essais
 et de réception, les CCER sont implantés :
 
-- sur des aérodromes dont le ministre chargé des armées est affectataire ;
+- sur des aérodromes dont le ministre de la défense est affectataire ;
 
 - dans les centres de la navigation aérienne civile ;
 
@@ -647,11 +646,11 @@ les autres organismes de la circulation aérienne.
 2.4.3. Désignation des organismes.
 
 Les organismes de la circulation aérienne militaire font l'objet d'une
-désignation par l'autorité compétente concernée relevant du ministre chargé des
-armées ou par arrêté conjoint du ministre chargé de l'aviation civile et du
-ministre chargé des armées pour les espaces aériens lorsqu'un organisme unique
-de la circulation aérienne assure simultanément des services à la circulation
-aérienne générale et à la circulation aérienne militaire.
+désignation par l'autorité compétente concernée relevant du ministre de la
+défense ou par arrêté conjoint du ministre chargé de l'aviation civile et du
+ministre de la défense pour les espaces aériens lorsqu'un organisme unique de la
+circulation aérienne assure simultanément des services à la circulation aérienne
+générale et à la circulation aérienne militaire.
 
 Ils sont publiés par la voie de l'information aéronautique.&lt; RL&gt; 2.4.4.
 Identification.

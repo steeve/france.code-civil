@@ -45,4 +45,4 @@ l'ordre national des pharmaciens.
 
 VI. - Dans la Pharmacie centrale des armées et dans les établissements de
 ravitaillement sanitaire du service de santé des armées, le ou les pharmaciens
-responsables intérimaires sont désignés par le ministre chargé des armées.
+responsables intérimaires sont désignés par le ministre de la défense.

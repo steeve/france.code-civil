@@ -8,7 +8,7 @@ règlements de la circulation aérienne.
 
 Ce rapport, établi en trois exemplaires, est adressé :
 
-- aux représentants qualifiés du ministre chargé des armées ;
+- aux représentants qualifiés du ministre de la défense ;
 
 - à la direction de l'entreprise intéressée ;
 

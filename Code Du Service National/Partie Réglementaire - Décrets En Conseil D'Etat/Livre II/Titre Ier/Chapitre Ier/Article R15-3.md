@@ -2,8 +2,8 @@ Article R15-3
 ----
 La commission interministérielle des formes civiles du service national comprend
 un président et quatre membres désignés par le Premier ministre ; deux des
-membres de la commission sont désignés sur proposition du ministre chargé des
-armées.
+membres de la commission sont désignés sur proposition du ministre de la
+défense.
 
 Le ministre de l'intérieur, le ministre des affaires étrangères, le ministre
 chargé des affaires sociales, le ministre chargé de l'environnement, le ministre

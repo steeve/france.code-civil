@@ -19,5 +19,5 @@ les autoroutes.
 
 II. - Pour l'application du 3° du I ci-dessus, les modalités de l'habilitation
 et la définition des catégories de personnels habilités font l'objet d'un arrêté
-conjoint du ministre de l'intérieur, du ministre de la justice, du ministre
-chargé des armées et du ministre chargé des transports.
+conjoint du ministre de l'intérieur, du ministre de la justice, du ministre de
+la défense et du ministre chargé des transports.

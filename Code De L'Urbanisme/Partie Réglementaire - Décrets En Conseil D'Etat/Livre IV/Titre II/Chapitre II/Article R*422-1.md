@@ -12,4 +12,4 @@ compétent.
 Sont également exemptées de permis de construire les installations situées à
 l'intérieur des arsenaux de la marine, des aérodromes militaires et des grands
 camps figurant sur une liste fixée par arrêté conjoint du ministre chargé de
-l'urbanisme et du ministre chargé des armées.
+l'urbanisme et du ministre de la défense.

@@ -1,6 +1,6 @@
 Article R511-1
 ----
-Le conseil supérieur de la mutualité est présidé par le ministre chargé de la
+Le Conseil supérieur de la mutualité est présidé par le ministre chargé de la
 mutualité. Il comprend :
 
 Deux membres du Parlement, soit un député et un sénateur, élus par leurs
@@ -30,8 +30,8 @@ l'ensemble des mutuelles réparties par collèges régionaux et cinq représenta
 les activités mutualistes spécifiques, élus par les précédents ;
 
 Trois personnes qualifiées dans les domaines d'activité des mutuelles, dont deux
-désignées par le ministre chargé de la mutualité et une par le ministre chargé
-des armées ;
+désignées par le ministre chargé de la mutualité et une par le ministre de la
+défense ;
 
 Un représentant de chaque confédération syndicale désignée ci-après :
 

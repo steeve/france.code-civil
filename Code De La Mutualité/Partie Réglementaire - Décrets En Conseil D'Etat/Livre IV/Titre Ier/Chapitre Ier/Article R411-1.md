@@ -34,8 +34,8 @@ Le président du directoire du fonds de garantie institué à l'article L. 431-4
 son représentant ;
 
 Trois personnes qualifiées dans les domaines d'activité des mutuelles, dont deux
-désignées par le ministre chargé de la mutualité et une par le ministre chargé
-des armées ;
+désignées par le ministre chargé de la mutualité et une par le ministre de la
+défense ;
 
 Un représentant de chaque confédération syndicale désignée ci-après :
 

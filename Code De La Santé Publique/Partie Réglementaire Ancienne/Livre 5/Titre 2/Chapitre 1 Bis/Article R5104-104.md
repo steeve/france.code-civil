@@ -2,7 +2,7 @@ Article R5104-104
 ----
 Lorsque l'importance de l'activité de la pharmacie à usage intérieur l'exige et
 en tout état de cause pour exercer ces activités sur chacun des emplacements de
-la pharmacie à usage intérieur, le ministre chargé des armées désigne un ou
+la pharmacie à usage intérieur, le ministre de la défense désigne un ou
 plusieurs pharmaciens chimistes des armées pour assister le pharmacien chargé de
 la gérance.
 

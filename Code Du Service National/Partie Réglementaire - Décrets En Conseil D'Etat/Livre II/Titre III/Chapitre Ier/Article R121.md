@@ -2,7 +2,7 @@ Article R121
 ----
 La commission prévue à l'article R. 115 est composée ainsi qu'il suit :
 
-Un représentant du ministre chargé des armées ;
+Un représentant du ministre de la défense ;
 
 Un médecin des armées en fonctions à la caisse nationale militaire de la
 sécurité sociale ;
@@ -18,7 +18,7 @@ L'officier le plus ancien en grade préside la commission ; sa voix est
 prépondérante en cas de partage des voix.
 
 Les membres de la commission et leurs suppléants sont désignés par le ministre
-chargé des armées.
+de la défense.
 
 Le contrôleur financier ou son représentant peut participer aux séances avec
 voix consultative.
