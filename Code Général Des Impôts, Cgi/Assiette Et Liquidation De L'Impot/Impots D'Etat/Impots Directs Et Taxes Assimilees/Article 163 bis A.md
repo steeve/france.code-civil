@@ -28,10 +28,14 @@ d A compter du 1er juin 1978, les engagements d'épargne à long terme ne peuven
 être contractés ou prorogés que pour une durée maximum de cinq ans.
 
 III bis Les placements en valeurs mobilières réalisés dans le cadre d'engagement
-d'épargne à long terme ne peuvent, à compter du 1er octobre 1973, être effectués
-sous la forme de parts sociales de sociétés dans lesquelles le souscripteur, son
-conjoint, leurs ascendants ou leurs descendants possèdent des intérêts directs
-ou indirects.
+d'épargne à long terme ne peuvent pas être effectués :
+
+a A compter du 1er octobre 1973, sous la forme de parts sociales de sociétés
+dans lesquelles le souscripteur, son conjoint, leurs ascendants ou leurs
+descendants possèdent des intérêts directs ou indirects ;
+
+b A compter du 1er janvier 1983, sous la forme de droits sociaux souscrits avec
+le bénéfice des déductions prévues à l'article 238 bis HB ;
 
 IV Si le souscripteur ne tient pas ses engagements, les sommes qui ont été
 exonérées en vertu des dispositions qui précèdent sont ajoutées au revenu
