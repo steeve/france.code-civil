@@ -1,0 +1,28 @@
+Article R950-3
+----
+Les dépenses mentionnées au 1 du deuxième alinéa de l'article L. 950-2 sont les
+dépenses acquittées au cours de l'année de paiement des salaires servant de base
+au calcul de la participation ou dues au titre de cette année.
+
+Les dépenses mentionnées aux 2 et 3 du deuxième alinéa de l'article L. 950-2
+sont prises en compte pour le calcul de la participation effective de
+l'employeur à la condition d'avoir été engagées et payées avant le 1er mars
+[*date limite*] de l'année suivant celle au titre de laquelle est due cette
+participation.
+
+Dans ce cas, une mention indiquant l'année à laquelle se rapportent lesdites
+dépenses doit être portée par le bénéficiaire sur les pièces et documents
+justificatifs dont la production est prévue à l'article R. 950-20.
+
+En cas de cession, de cessation d'entreprise ou de décès de l'exploitant, les
+dispositions de l'alinéa 2 ci-dessus ne sont applicables qu'aux dépenses qui ont
+été engagées et payées antérieurement à la cession, à la cessation de
+l'entreprise ou au décès.
+
+Les dépenses mentionnées au premier alinéa ci-dessus sont déterminées selon les
+modalités définies aux articles R. 950-4 à R. 950-13 ci-après ; elles doivent
+concerner le financement d'actions de formation professionnelle continue du type
+de celles qui sont définies à l'article L. 940-2, à l'exclusion des dépenses
+consacrées au financement des premières formations technologiques et
+professionnelles définies à l'article 1er de la loi n. 71-578 du 16 juillet
+1971.

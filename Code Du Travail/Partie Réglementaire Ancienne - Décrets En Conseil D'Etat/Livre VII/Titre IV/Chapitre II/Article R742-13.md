@@ -1,0 +1,21 @@
+Article R742-13
+----
+Chacune des commissions régionales de conciliation comprend [*composition*] :
+
+Le directeur des affaires maritimes ou son représentant, président ;
+
+Un membre du tribunal administratif dans le ressort duquel se trouve le siège de
+la direction ;
+
+Six [*nombre*] représentants des armateurs, respectivement pour la navigation de
+commerce et pour la pêche maritime ;
+
+Six représentants des personnels navigants, respectivement pour la navigation de
+commerce et pour la pêche maritime.
+
+Quand le conflit examiné concerne seulement les officiers, les représentants des
+personnels navigants sont des représentants des officiers.
+
+Quand le conflit examiné concerne directement à la fois les personnels officiers
+et non officiers, les organisations représentant les officiers désignent deux
+des six représentants des personnels navigants.

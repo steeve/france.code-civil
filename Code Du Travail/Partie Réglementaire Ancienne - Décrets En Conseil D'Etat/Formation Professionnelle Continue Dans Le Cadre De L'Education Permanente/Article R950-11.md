@@ -1,0 +1,15 @@
+Article R950-11
+----
+Les dépenses de rémunération des stagiaires prises en compte en vertu de
+l'article L. 950-2 (1°) s'entendent du montant brut des rémunérations telles
+qu'elles sont déclarées à l'administration fiscale en application de l'article
+87 du code général des impôts [*calcul*], majoré des cotisations de sécurité
+sociale à la charge de l'employeur afférentes auxdites rémunérations, ainsi que
+des charges légales assises sur ces rémunérations.
+
+Les rémunérations retenues sont, selon le cas, soit celles que les stagiaires
+ont effectivement perçues pendant la durée du stage, soit un fraction de la
+rémunération annuelle de chaque salarié ayant suivi un stage de formation. Cette
+fraction est déterminée en appliquant à la rémunération annuelle le rapport
+constaté entre le nombre d'heures de stage et le nombre total d'heures
+rémunérées dans l'année.

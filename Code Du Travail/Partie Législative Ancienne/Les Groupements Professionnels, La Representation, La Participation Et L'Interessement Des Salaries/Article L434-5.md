@@ -1,0 +1,6 @@
+Article L434-5
+----
+Le chef d'entreprise ou son représentant doit faire connaître à la réunion du
+comité qui suit la communication du procès-verbal, sa décision motivée sur les
+propositions qui lui ont été soumises. Les déclarations sont consignées dans le
+procès-verbal.
