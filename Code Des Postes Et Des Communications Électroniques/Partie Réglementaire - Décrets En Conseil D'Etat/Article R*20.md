@@ -3,7 +3,7 @@ Article R*20
 La commission prévue à l'article R. 19 est présidée par un membre du Conseil
 d'Etat désigné par le vice-président du Conseil d'Etat.
 
-Elle comprend [*composition*], outre son président :
+Elle comprend, outre son président :
 
 -un représentant du ministre des finances ;
 
