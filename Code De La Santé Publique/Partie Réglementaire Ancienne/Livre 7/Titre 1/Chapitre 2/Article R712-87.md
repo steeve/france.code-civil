@@ -16,13 +16,13 @@ et traitant des grossesses à hauts risques maternels identifiés dispose d'une
 unité de réanimation d'adultes permettant d'y accueillir la mère en cas
 d'urgence et d'une unité de réanimation néonatale.
 
-II. - La néonatologie s'exerce dans des installations autorisées en médecine.
+II. - La néonatologie s'exerce dans des installations autorisées à cet effet.
 Toute unité de néonatologie constitue soit une unité individualisée, soit un
 secteur séparé au sein d'une unité de pédiatrie.
 
-III. - La réanimation néonatale s'exerce dans des installations autorisées en
-médecine. Elle ne peut être pratiquée que si l'établissement de santé comprend
-sur le même site une unité de néonatologie autorisée dont une partie des
+III. - La réanimation néonatale s'exerce dans des installations autorisées à cet
+effet. Elle ne peut être pratiquée que si l'établissement de santé comprend sur
+le même site une unité de néonatologie autorisée dont une partie des
 installations est affectée aux soins intensifs de néonatologie. Toute unité de
 réanimation néonatale constitue soit une unité individualisée, soit un secteur
 séparé au sein d'une unité de réanimation pédiatrique.

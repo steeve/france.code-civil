@@ -24,7 +24,8 @@ b) Pour les équipements matériels lourds énumérés aux 2°, 3°, 4°, 9° et
 II de l'article R. 712-2 ;
 
 c) Pour les activités de soins énumérées aux 7° à 10° et au 12° du III de
-l'article R. 712-2.
+l'article R. 712-2, à l'exception, au 9°, de l'activité d'obstétrique, qui
+s'apprécie au niveau du secteur sanitaire.
 
 Les indices de besoins afférents aux installations, équipements et activités
 énumérés par le présent article sont fixés par le directeur de l'agence
