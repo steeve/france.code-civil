@@ -24,7 +24,8 @@ des articles 375-1 et 422.
 
 5° Les frais de saisie ou de mise sous séquestre ou en fourrière, les frais en
 matière de scellés et ceux de l'immobilisation décidée en application de
-l'article 43-3 (3° bis) du code pénal.
+l'article 43-3 (3° bis) du code pénal [* article(s) abrogé(s), cf. article(s)
+131-6, 131-7 et 131-9 du nouveau code pénal *].
 
 6° Les frais d'enquête sociale et d'expertise engagés en matière d'exécution ou
 d'application des peines et en matière de grâces.
@@ -45,9 +46,8 @@ chapitre II du présent titre.
 11° Les frais postaux et télégraphiques, le port des paquets pour une procédure
 pénale.
 
-12° Les frais d'impression, d'insertion et de publication des arrêts, jugements
-et ordonnances de justice selon les dispositions des articles R. 210 et
-suivants.
+12° Les frais des procédures suivies en application des lois concernant
+l'enfance délinquante.
 
 13° Les indemnités accordées aux victimes d'erreurs judiciaires ainsi que les
 frais de révision et les secours aux individus relaxés ou acquittés.
