@@ -15,8 +15,8 @@ caisses d'assurance et de réassurance mutuelles agricoles pratiquant l'assuranc
 automobile.
 
 3. Six membres représentent les personnes assujetties à l'obligation d'assurance
-; ils sont nommés sur proposition respective de l'assemblée permanente des
-présidents de chambres de commerce et d'industrie de France, de l'assemblée
+; ils sont nommés sur proposition respective de l'assemblée des présidents de
+chambres françaises de commerce et d'industrie de France, de l'assemblée
 permanente des présidents de chambres d'agriculture, de l'assemblée permanente
 des présidents de chambres de métiers, de la fédération française des clubs
 automobiles, des organismes professionnels les plus représentatifs des

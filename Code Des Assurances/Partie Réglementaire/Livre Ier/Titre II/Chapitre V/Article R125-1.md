@@ -12,7 +12,7 @@ juridiques des universités.
 Six membres représentent les assurés. Ils sont nommés sur proposition des
 organismes mentionnés ci-après :
 
-Un par l'assemblée permanente des chambres de commerce et d'industrie ;
+Un par l'assemblée des chambres françaises de commerce et d'industrie ;
 
 Un par l'assemblée permanente des chambres de métiers ;
 
