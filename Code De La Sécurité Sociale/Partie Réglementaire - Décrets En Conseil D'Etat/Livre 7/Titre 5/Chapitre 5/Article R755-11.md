@@ -19,6 +19,11 @@ ci-dessus, si ni le bénéficiaire ni son conjoint ou concubin n'a disposé de
 ressources appréciées conformément à l'article R. 755-4 pendant l'année civile
 de référence.
 
+La condition relative à l'existence d'une activité professionnelle rémunérée ou
+à la perception de l'allocation mentionnée à l'article 4 de la loi du 1er
+décembre 1988 précitée est appréciée au cours du mois civil précédant
+l'ouverture du droit ou du mois de mai précédant le renouvellement du droit.
+
 II. - L'évaluation forfaitaire correspond :
 
 a) S'il s'agit d'une personne exerçant une activité salariée à douze fois la
@@ -28,7 +33,7 @@ affectée des déductions prévues au deuxième alinéa du 3° de l'article 83 e
 quatrième alinéa du 5 (a) de l'article 158 du code général des impôts ;
 
 b) S'il s'agit d'une personne exerçant une activité professionnelle non salariée
-à 1 500 fois le salaire minimum de croissance horaire en vigueur au 1er janvier
+à 1 200 fois le salaire minimum de croissance horaire en vigueur au 1er janvier
 qui précède l'ouverture ou le renouvellement du droit.
 
 Le montant des ressources ainsi déterminé est affecté des déductions et
