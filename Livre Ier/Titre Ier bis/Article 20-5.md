@@ -5,4 +5,4 @@ applicables aux enfants nés en France des agents diplomatiques ou des consuls d
 carrière de nationalité étrangère.
 
 Ces enfants ont toutefois la faculté d'acquérir volontairement la qualité de
-français conformément aux dispositions des articles 21-7 et suivants.
+Français conformément aux dispositions de l'article 21-11 ci-après.

@@ -1,6 +1,12 @@
 Article 21-11
 ----
-Sous réserve des dispositions de l'article 21-8, tout étranger né en France de
-parents étrangers, qui est régulièrement incorporé en qualité d'engagé ou en vue
-de l'accomplissement du service national actif, avant l'âge de vingt et un ans,
-acquiert la nationalité française à la date de son incorporation.
+L'enfant mineur né en France de parents étrangers peut à partir de l'âge de
+seize ans réclamer la nationalité française par déclaration, dans les conditions
+prévues aux articles 26 et suivants si, au moment de sa déclaration, il a en
+France sa résidence et s'il a eu sa résidence habituelle en France pendant une
+période continue ou discontinue d'au moins cinq ans, depuis l'âge de onze ans.
+
+Dans les mêmes conditions, la nationalité française peut être réclamée, au nom
+de l'enfant mineur né en France de parents étrangers, à partir de l'âge de
+treize ans et avec son consentement personnel, la condition de résidence
+habituelle en France devant alors être remplie à partir de l'âge de huit ans.
