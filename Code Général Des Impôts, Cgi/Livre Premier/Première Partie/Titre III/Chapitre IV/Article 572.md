@@ -18,6 +18,9 @@ supérieure.
 Toutefois, dans les départements de Corse, le prix de détail est déterminé
 conformément aux dispositions de l'article 268 bis du code des douanes.
 
-En cas de changement de prix de vente, les débitants de tabac sont tenus de
-déclarer, dans les cinq jours qui suivent la date d'entrée en vigueur des
-nouveaux prix, les quantités en leur possession à cette date.
+En cas de changement de prix de vente, et sur instruction expresse de
+l'administration (1), les débitants de tabac sont tenus de déclarer, dans les
+cinq jours qui suivent la date d'entrée en vigueur des nouveaux prix, les
+quantités en leur possession à cette date.
+
+(1) Ces dispositions s'appliquent à compter du 1er janvier 2001.

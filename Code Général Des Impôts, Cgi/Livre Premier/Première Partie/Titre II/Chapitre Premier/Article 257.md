@@ -113,6 +113,9 @@ du 15 septembre 1999 et qui sont réalisés avant le 31 décembre 2002.
 
 Un décret en Conseil d'Etat définit les conditions d'application des b et c ;
 
+7° ter Les livraisons à soi-même d'ouvrages de circulation routière donnant lieu
+à la perception de péages soumis à la taxe sur la valeur ajoutée ; (1)
+
 8° Les opérations suivantes assimilées, selon le cas, à des livraisons de biens
 ou à des prestations de services effectuées à titre onéreux.
 
@@ -205,3 +208,6 @@ prévue par l'article 53 de la loi 86-1067 du 30 septembre 1986 modifiée relati
 19° Les sommes attribuées par les sociétés de course au titre des gains de
 course réalisés par les entraîneurs pour les chevaux dont ils sont
 propriétaires.
+
+(1) Ces dispositions sont applicables aux ouvrages mis en service à compter du
+12 septembre 2000.

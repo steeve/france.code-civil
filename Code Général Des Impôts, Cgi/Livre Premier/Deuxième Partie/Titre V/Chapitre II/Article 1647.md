@@ -27,7 +27,7 @@ IV. (Sans objet).
 V. - L'Etat perçoit au titre de frais d'assiette, de recouvrement, de
 dégrèvements et de non-valeurs un prélèvement de :
 
-a. 2,50 p. 100 en sus du montant de la taxe de publicité foncière ou de droits
+a. 2,50 p. 100 en sus du montant de la taxe de publicité foncière ou des droits
 d'enregistrement perçus au profit des départements en application de l'article
 1594 A.
 

@@ -1,7 +1,7 @@
 Article 1135
 ----
 Sous réserve qu'elles soient dressées entre le 1er janvier 1986 et le 31
-décembre 2000, les procurations et les attestations notariées après décès sont
+décembre 2001, les procurations et les attestations notariées après décès sont
 exonérées de toute perception au profit du Trésor lorsqu'elles sont établies en
 vue du règlement d'une indivision successorale comportant des biens immobiliers
 situés en Corse.
