@@ -33,7 +33,12 @@ domaine public et, prévue à l'article L. 48, d'installations existantes situé
 sur une propriété privée.
 
 Elle se prononce sur ces différends dans les conditions de forme et de procédure
-prévues au I.
+prévues au I. En outre, elle procède à une consultation publique de toutes les
+parties intéressées avant toute décision imposant l'utilisation partagée entre
+opérateurs des installations mentionnées au 2°.
+
+3° Les conditions techniques et financières de la fourniture des listes
+d'abonnés prévue à l'article L. 33-4.
 
 III. - Les décisions prises par l'Autorité de régulation des télécommunications
 en application des I et II peuvent faire l'objet d'un recours en annulation ou

@@ -19,6 +19,12 @@ terminaison de ce réseau.
 On entend par réseau ouvert au public tout réseau de télécommunications établi
 ou utilisé pour la fourniture au public de services de télécommunications.
 
+3° bis Points de terminaison d'un réseau.
+
+On entend par points de terminaison d'un réseau les points physiques par
+lesquels les utilisateurs accèdent à un réseau de télécommunications ouvert au
+public. Ces points de raccordement font partie du réseau.
+
 4° Réseau indépendant.
 
 On entend par réseau indépendant un réseau de télécommunications réservé à un
@@ -82,29 +88,38 @@ audiovisuelle diffusés par voie hertzienne ou distribués par câble, sauf dans
 les cas où ils permettent d'accéder également à des services de
 télécommunications.
 
-11° Réseau, installation ou équipement terminal radioélectrique.
+11° Réseau, installation ou équipement radioélectrique.
 
-Un réseau, une installation ou un équipement terminal sont qualifiés de
-radioélectriques lorsqu'ils utilisent des fréquences hertziennes pour la
-propagation des ondes en espace libre.
-
-Au nombre des réseaux radioélectriques, figurent notamment les réseaux utilisant
-les capacités de satellites.
+Un réseau, une installation ou un équipement sont qualifiés de radioélectriques
+lorsqu'ils utilisent des fréquences radioélectriques pour la propagation des
+ondes en espace libre. Au nombre des réseaux radioélectriques figurent notamment
+les réseaux utilisant les capacités de satellites ;
 
 12° Exigences essentielles.
 
-On entend par exigences essentielles les exigences nécessaires pour garantir,
-dans l'intérêt général, la sécurité des usagers et du personnel des exploitants
-de réseaux de télécommunications, la protection des réseaux et notamment des
-échanges d'informations de commande et de gestion qui y sont associés, le cas
-échéant la bonne utilisation du spectre radioélectrique ainsi que, dans les cas
-justifiés, l'interopérabilité des services et celle des équipements terminaux,
-la protection des données, la protection de l'environnement et la prise en
-compte des contraintes d'urbanisme et d'aménagement du territoire.
+On entend par exigences essentielles les exigences nécessaires pour garantir
+dans l'intérêt général la santé et la sécurité des personnes, la compatibilité
+électromagnétique entre les équipements et installations de télécommunications
+et, le cas échéant, une bonne utilisation du spectre des fréquences
+radioélectriques en évitant des interférences dommageables pour les tiers. Les
+exigences essentielles comportent également, dans les cas justifiés, la
+protection des réseaux et notamment des échanges d'informations de commande et
+de gestion qui y sont associés, l'interopérabilité des services et celle des
+équipements terminaux, la protection des données, la protection de
+l'environnement et la prise en compte des contraintes d'urbanisme et
+d'aménagement du territoire, la compatibilité des équipements terminaux et des
+équipements radioélectriques avec des dispositifs empêchant la fraude, assurant
+l'accès aux services d'urgence et facilitant leur utilisation par les personnes
+handicapées.
 
 On entend par interopérabilité des équipements terminaux l'aptitude de ces
 équipements à fonctionner, d'une part, avec le réseau et, d'autre part, avec les
-autres équipements terminaux permettant d'accéder à un même service.
+autres équipements terminaux.
+
+Un décret définit les valeurs limites que ne doivent pas dépasser les champs
+électromagnétiques émis par les équipements utilisés dans les réseaux de
+télécommunication ou par les installations mentionnées à l'article L. 33-3,
+lorsque le public y est exposé.
 
 13° Exploitant public.
 
