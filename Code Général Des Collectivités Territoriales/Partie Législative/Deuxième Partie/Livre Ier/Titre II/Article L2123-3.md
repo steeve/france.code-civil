@@ -2,8 +2,8 @@ Article L2123-3
 ----
 - I. - Indépendamment des autorisations d'absence dont ils bénéficient dans les
 conditions prévues à l'article L. 2123-1, les maires, les adjoints et, dans les
-communes de 100 000 habitants au moins, les conseillers municipaux ont droit à
-un crédit d'heures leur permettant de disposer du temps nécessaire à
+communes de 3 500 habitants au moins, les conseillers municipaux ont droit à un
+crédit d'heures leur permettant de disposer du temps nécessaire à
 l'administration de la commune ou de l'organisme auprès duquel ils la
 représentent et à la préparation des réunions des instances où ils siègent.
 
@@ -20,6 +20,11 @@ maire des communes de 10 000 à 29 999 habitants ;
 3° A l'équivalent de 60 p. 100 de la durée hebdomadaire légale du travail pour
 les conseillers municipaux des communes de 100 000 habitants au moins et les
 adjoints au maire des communes de moins de 10 000 habitants.
+
+4° A l'équivalent de 40 % de la durée légale du travail pour les conseillers
+municipaux des communes de 30 000 à 99 999 habitants, de 30 % pour les
+conseillers municipaux des communes de 10 000 à 29 999 habitants et de 15 % pour
+les conseillers municipaux des communes de 3 500 à 9 999 habitants.
 
 Les heures non utilisées pendant un trimestre ne sont pas reportables.
 
