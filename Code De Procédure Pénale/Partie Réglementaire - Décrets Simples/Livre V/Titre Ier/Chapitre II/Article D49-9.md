@@ -6,3 +6,8 @@ des peines de la cour d'appel en application des dispositions du deuxième alin�
 de l'article 712-13, sont désignés par le premier président, après avis de
 l'assemblée générale des magistrats du siège, pour une durée de trois ans. Deux
 suppléants sont désignés dans les mêmes formes pour une même durée.
+
+Avant d'entrer en fonction, les personnes mentionnées à l'alinéa précédent
+prêtent devant la cour d'appel le serment de bien et fidèlement remplir leurs
+fonctions et de conserver le secret des délibérations. Les dispositions de
+l'article R. 522-10 du code de l'organisation judiciaire leur sont applicables.
