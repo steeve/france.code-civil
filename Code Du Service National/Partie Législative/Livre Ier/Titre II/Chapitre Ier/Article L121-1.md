@@ -13,9 +13,20 @@ chaque année. La durée totale du volontariat ne peut excéder soixante mois.
 
 Il est souscrit au titre d'une armée ou d'une formation rattachée.
 
-Les volontaires peuvent servir dans les départements, territoires et
-collectivités territoriales d'outre-mer au titre du service militaire adapté.
-Ceux qui sont nés ou ont leur résidence habituelle dans les départements,
-territoires et collectivités territoriales d'outre-mer peuvent demander à
-recevoir une formation professionnelle. Ils servent alors en tant que stagiaires
-du service militaire adapté.
+Les volontaires peuvent servir dans les départements d'outre-mer, à Mayotte, à
+Saint-Pierre-et-Miquelon, à Wallis-et-Futuna, dans les Terres australes et
+antarctiques françaises, en Polynésie française et en Nouvelle-Calédonie au
+titre du service militaire adapté. Ceux qui sont nés ou ont leur résidence
+habituelle dans les départements d'outre-mer, à Mayotte, à
+Saint-Pierre-et-Miquelon, à Wallis-et-Futuna, dans les Terres australes et
+antarctiques françaises, en Polynésie française et en Nouvelle-Calédonie peuvent
+demander à recevoir une formation professionnelle. Ils servent alors en tant que
+stagiaires du service militaire adapté. La formation peut inclure la
+participation des stagiaires à des chantiers d'application, qui sont mis en
+oeuvre par les unités du service militaire adapté à la demande de l'Etat, des
+collectivités publiques d'outre-mer, de leurs établissements publics et des
+associations à but non lucratif déclarées d'utilité publique. Les travaux ainsi
+réalisés par ces stagiaires ne donnent pas lieu à rémunération de la prestation
+effectuée. Par dérogation aux dispositions du troisième alinéa, le volontariat
+des stagiaires du service militaire adapté peut être renouvelé pour une période
+de deux à douze mois.
