@@ -30,3 +30,6 @@ donné lieu à décision ;
 f) Le cas échéant, l'autorisation de mise sur le marché obtenue pour cette
 spécialité pharmaceutique soit dans un Etat membre des communautés européennes,
 soit dans un pays tiers, pour autant que cette autorisation y existe.
+
+g) Le cas échéant, l'indication de l'intention du demandeur de solliciter
+l'inscription du médicament sur la liste des médicaments remboursables.
