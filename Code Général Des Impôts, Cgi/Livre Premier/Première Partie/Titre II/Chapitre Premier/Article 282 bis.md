@@ -8,6 +8,6 @@ Un décret fixe les conditions d'application du présent article, notamment en c
 qui concerne les entreprises qui clôturent leur exercice comptable en cours
 d'année (2).
 
-1) Pour les affaires réalisées à compter du 1er janvier 1978.
+(1) Pour les affaires réalisées à compter du 1er janvier 1978.
 
-2) Annexe II, art. 204 quinquies et 204 sexies.
+(2) Annexe II, art. 204 quinquies et 204 sexies.

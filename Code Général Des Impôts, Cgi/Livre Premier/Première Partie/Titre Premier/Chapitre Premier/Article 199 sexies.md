@@ -46,38 +46,5 @@ d. Pour les prêts contractés et les dépenses payées à compter du 1er janvie
 contribuables dont le revenu net imposable par part n'excède pas la limite
 inférieure de la douzième tranche du barème de l'impôt sur le revenu.
 
-2° a. Dépenses effectuées par un contribuable pour sa résidence principale,
-qu'il en soit ou non propriétaire, lorsque ces dépenses ont pour objet
-d'améliorer l'isolation thermique ou la mesure et la régulation du chauffage, ou
-encore de remplacer une chaudière dans des conditions permettant une économie de
-produits pétroliers.
-
-Le montant maximum des dépenses à retenir pour le calcul de la réduction d'impôt
-est fixé à 8000 F par logement, cette somme étant augmentée de 1000 F par
-personne à la charge du contribuable au sens des articles 196, 196 A bis et 196
-B ; ces montants sont portés respectivement à 12.000 F et 2000 F pour les
-dépenses payées à compter du 1er janvier 1985. Pour les contribuables qui
-échelonnent leurs dépenses sur plusieurs années, la réduction d'impôt peut être
-accordée au titre de chacune de ces années sans que le total des dépenses
-retenues puisse être supérieur au montant qui serait admis en l'absence
-d'échelonnement. Le bénéfice de la réduction d'impôt est réservé aux logements
-existant au 1er juillet 1981 et aux logements ayant fait l'objet avant cette
-date, soit d'une demande de permis de construire, soit d'une déclaration
-préalable de travaux. Lorsque le bénéficiaire de la réduction d'impôt est
-remboursé en tout ou partie de ses dépenses par un tiers, dans un délai de dix
-ans, il fait l'objet, au titre de l'année du remboursement, d'une majoration de
-son impôt sur le revenu égale à 25 % de la somme remboursée ;
-
-b. Le régime de la réduction d'impôt visée au a est étendu aux dépenses
-relatives à l'installation de pompes à chaleur et à l'utilisation des énergies
-nouvelles pour le chauffage des logements quelle que soit leur date de
-construction ;
-
-c. Les dispositions du a et du b s'appliquent aux dépenses réalisées du 1er
-janvier 1982 au 31 décembre 1986. La liste des travaux et matériels ouvrant
-droit à réduction d'impôt est fixée par arrêté ministériel (1) ;
-
-d. Les dispositions du 1°-b sont étendues aux dépenses visées aux a à c
-ci-dessus.
-
-(1) Annexe IV, art. 17 H à 17 L.
+2° a b c d (Périmé à l'exception du troisième alinéa du a transféré sous
+l'article L172 E du LPF).
