@@ -2,7 +2,7 @@ Article L131-82
 ----
 Le tiré doit payer, nonobstant l'absence, l'insuffisance ou l'indisponibilité de
 provision, tout chèque établi sur une formule délivrée par lui d'un montant égal
-ou inférieur à cent francs, le titulaire du compte et le tiré étant en ce cas
+ou inférieur à 15 euros, le titulaire du compte et le tiré étant en ce cas
 réputés légalement avoir conclu lors de la délivrance de la formule une
 convention portant ouverture de crédit irrévocable.
 
