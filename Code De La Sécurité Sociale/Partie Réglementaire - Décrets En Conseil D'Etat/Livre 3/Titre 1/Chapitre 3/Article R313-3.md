@@ -1,9 +1,10 @@
 Article R313-3
 ----
 1° Pour avoir droit aux indemnités journalières de l'assurance maladie pendant
-les six premiers mois d'interruption de travail et aux indemnités journalières
-de l'assurance maternité, l'assuré social doit justifier aux dates de référence
-prévues aux 2° et 3° de l'article R. 313-1 :
+les six premiers mois d'interruption de travail, aux allocations journalières de
+maternité et aux indemnités journalières de l'assurance maternité, l'assuré
+social doit justifier aux dates de référence prévues aux 2° et 3° de l'article
+R. 313-1 :
 
 a) Soit que le montant des cotisations dues au titre des assurances maladie,
 maternité, invalidité et décès assises sur les rémunérations qu'il a perçues

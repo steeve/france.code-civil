@@ -6,7 +6,8 @@ minimum de croissance au 1er janvier qui précède immédiatement la période de
 référence ou à six heures de travail salarié :
 
 1°) chaque journée indemnisée au titre de la maladie, de la maternité, de la
-paternité ou de l'invalidité à l'exclusion des journées indemnisées en
+paternité ou de l'invalidité ainsi que chaque journée de perception de
+l'allocation journalière de maternité à l'exclusion des journées indemnisées en
 application des articles L. 161-8 et L. 311-5 ;
 
 2°) chaque journée d'interruption de travail due à la maladie au titre de
