@@ -2,9 +2,10 @@ Article R57-4
 ----
 Il est statué sur la demande dans les conditions ci-après :
 
-I. - Dans le cas visé au premier alinéa du I de l'article R. 57-3, après
-instruction par le chef du service déconcentré de l'Etat concerné, la décision
-relève de la compétence du préfet.
+I. - Dans le cas visé au premier alinéa du I de l'article R. 57-3, et sauf en ce
+qui concerne le domaine public militaire, après instruction par le chef du
+service déconcentré de l'Etat concerné, la décision relève de la compétence du
+préfet.
 
 Toutefois, si l'instruction de la demande, qui comporte obligatoirement la
 consultation du directeur des services fiscaux et, le cas échéant, de
@@ -20,9 +21,9 @@ concerné et du ministre chargé du domaine auxquels le préfet transmet la dema
 accompagnée de son avis.
 
 Lorsque la demande concerne le domaine public militaire, la décision relève dans
-tous les cas de la compétence du ministre de la défense et du ministre chargé du
-domaine, auxquels l'autorité militaire transmet la demande accompagnée de son
-avis.
+tous les cas de la compétence du ministre de la défense, sous réserve des
+attributions dévolues au ministre chargé du domaine en application de l'article
+L. 30.
 
 II. - Dans les cas visés aux deuxième et troisième alinéas du I de l'article R.
 57-3, la décision est prise par l'autorité compétente de l'établissement public
