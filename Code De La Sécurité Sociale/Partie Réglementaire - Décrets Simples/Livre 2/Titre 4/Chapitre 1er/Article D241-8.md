@@ -7,9 +7,8 @@ l'article D. 241-7 est réputé égal :
 
 1. Pour les salariés dont la durée du travail est fixée par une convention
 individuelle de forfait annuel en jours, au produit de la durée légale du
-travail calculée sur le mois et du rapport entre ce forfait et le plafond
-maximal de deux cent dix-sept jours prévu au III de l'article L. 212-15-3 du
-code du travail.
+travail calculée sur le mois et du rapport entre ce forfait et deux cent
+dix-huit jours.
 
 2. Pour les salariés dont la durée du travail est fixée par une convention
 individuelle de forfait annuel en heures, à cinquante-deux douzièmes de leur

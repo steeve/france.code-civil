@@ -7,7 +7,7 @@ formule suivante :
 
 Coefficient =
 
-(0,26/0,7) x (1,7 x SMIC x nombre d'heures rémunérées/rémunération mensuelle
+(0,26/0,6) x (1,6 x SMIC x nombre d'heures rémunérées/rémunération mensuelle
 brute - 1)
 
 Pour ce calcul :
