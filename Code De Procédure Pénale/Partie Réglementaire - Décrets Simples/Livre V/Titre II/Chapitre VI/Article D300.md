@@ -9,5 +9,5 @@ La compétence du ministre de la justice est exclusive en ce qui concerne :
 1° Le transfèrement à titre administratif de tout détenu d'une région
 pénitentiaire à une autre ;
 
-2° Les transfèrements vers ou à partir d'une maison centrale ou d'un centre de
-détention à vocation nationale.
+2° Les transfèrements vers ou à partir d'une maison centrale ou d'un quartier
+maison centrale.

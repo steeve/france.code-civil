@@ -1,10 +1,10 @@
 Article D250-4
 ----
-Lors de sa comparution devant la commission de discipline, le détenu présente en
-personne, sous la seule réserve des dispositions du deuxième alinéa ci-dessous,
-ses explications écrites ou orales. Le président de la commission peut décider
-de faire entendre par la commission, en qualité de témoin, toute personne dont
-l'audition lui paraît utile.
+Lors de sa comparution devant la commission de discipline, le détenu présente,
+en personne, sous réserve des dispositions du deuxième alinéa ci-dessous et des
+dispositions prises en application de l'article 24 de la loi n° 2000-321 du 12
+avril 2000 relative aux droits des citoyens dans leurs relations avec les
+administrations, ses explications écrites ou orales.
 
 Si le détenu ne comprend pas la langue française, n'est pas en mesure de
 s'exprimer dans cette langue, ou s'il est physiquement incapable de s'exprimer,
