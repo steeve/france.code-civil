@@ -5,6 +5,7 @@ et qui bénéficie du droit à opposition peut, à tout moment, proposer l'appor
 son territoire à l'association :
 
 a) Soit par une adhésion, sans réserves, à l'association communale avec les
-seuls droits conférés par l'article L. 222-20 ;
+seuls droits conférés par l'article L. 422-22 du code de l'environnement ;
 
-b) Soit par un contrat passé avec l'association.
+b) Soit par un contrat écrit avec l'association, qui précise les conditions de
+cet apport.

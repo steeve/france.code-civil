@@ -5,7 +5,7 @@ le préfet, procède immédiatement à l'élection d'un bureau de séance.
 
 Elle établit la liste des terrains soumis à l'action de l'association et la
 liste des membres de ladite association conformément aux dispositions de
-l'article L. 222-19.
+l'article L. 422-21 du code de l'environnement.
 
 Ceux de ces membres qui sont présents ou régulièrement représentés approuvent
 les statuts sur proposition du président de séance.

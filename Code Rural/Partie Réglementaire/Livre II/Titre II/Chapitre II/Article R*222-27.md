@@ -10,7 +10,7 @@ justifiée, ainsi que l'état des enclaves qui y sont comprises ;
 communale, c'est-à-dire :
 
 a) Les terrains d'un seul tenant d'une superficie inférieure aux minimums fixés
-par l'article L. 222-13, éventuellement modifiés ;
+par l'article L. 422-13 du code de l'environnement, éventuellement modifiés ;
 
 b) Les terrains mentionnés à l'article R. 222-21 pour lesquels l'opposition n'a
 pas été formulée ;
@@ -20,4 +20,4 @@ pas été estimée fondée ;
 
 d) Les terrains du domaine privé de l'Etat, autres que les forêts domaniales,
 qui n'auront pas fait l'objet d'une décision d'exclusion conformément à
-l'article L. 222-11.
+l'article L. 422-11 du code de l'environnement.

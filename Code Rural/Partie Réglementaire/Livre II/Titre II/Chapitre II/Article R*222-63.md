@@ -1,11 +1,12 @@
 Article R*222-63
 ----
 Les statuts de l'association communale de chasse agréée doivent comprendre,
-outre les dispositions déjà prévues par les articles L. 222-19 et L. 222-20, les
-dispositions ci-après :
+outre les dispositions déjà prévues par les articles L. 422-21 et L. 422-22 du
+code de l'environnement, les dispositions ci-après :
 
-1° L'énoncé de ses objets conformes à ceux prévus à l'article L. 222-2, à
-l'exclusion de tout autre, notamment de la location de ses droits de chasse ;
+1° L'énoncé de ses objets conformes à ceux prévus à l'article L. 422-2 du code
+de l'environnement, à l'exclusion de tout autre, notamment de la location de ses
+droits de chasse ;
 
 2° L'indication de son titre, de son siège social et de son affiliation à la
 fédération départementale des chasseurs conformément aux statuts de celle-ci ;
@@ -13,19 +14,20 @@ fédération départementale des chasseurs conformément aux statuts de celle-ci
 3° L'indication de la durée illimitée de l'association ;
 
 4° La liste des catégories des personnes qui seront admises à adhérer à
-l'association et qui comprendront, outre celles prévues à l'article L. 222-19,
-les titulaires du permis de chasser qui seraient présentés à l'association par
-un propriétaire en contrepartie de son apport volontaire de son droit de chasse,
-ainsi que les modalités d'adhésion à l'association ;
+l'association et qui comprendront, outre celles prévues à l'article L. 422-21 du
+code de l'environnement, les titulaires du permis de chasser qui seraient
+présentés à l'association par un propriétaire en contrepartie de son apport
+volontaire de son droit de chasse, ainsi que les modalités d'adhésion à
+l'association ;
 
 5° Le nombre minimum d'adhérents nécessaires pour la constitution de
 l'association ;
 
 6° D'une part, le pourcentage minimum de titulaires du permis de chasser
 n'entrant dans aucune des catégories mentionnées au premier alinéa de l'article
-L. 222-19, et qui sera au moins de 10 p. 100 du nombre fixé au 5°, d'autre part,
-les conditions de présentation et d'instruction des demandes d'admission
-correspondantes ;
+L. 422-21 du code de l'environnement, et qui sera au moins de 10 p. 100 du
+nombre fixé au 5°, d'autre part, les conditions de présentation et d'instruction
+des demandes d'admission correspondantes ;
 
 7° Le nombre de membres du conseil d'administration, qui sera composé pour deux
 tiers au moins de titulaires du permis de chasser et la durée du mandat des
@@ -77,14 +79,15 @@ du droit de chasser sur le territoire de l'association, en cas de non-paiement
 de la cotisation après mise en demeure ou de fautes graves ou répétées ;
 
 b) Pour les membres énumérés aux 1°, 2° et 3° du premier alinéa de l'article L.
-222-19 autres que ceux prévus au a ci-dessus, la suspension du droit de chasser
-sur le territoire de l'association ou l'exclusion temporaire en cas de
-non-paiement de la cotisation après mise en demeure ou de fautes graves ou
-répétées ;
+422-21 du code de l'environnement autres que ceux prévus au a ci-dessus, la
+suspension du droit de chasser sur le territoire de l'association ou l'exclusion
+temporaire en cas de non-paiement de la cotisation après mise en demeure ou de
+fautes graves ou répétées ;
 
-c) Pour les membres énumérés au deuxième alinéa de l'article L. 222-19, la
-suspension du droit de chasser sur le territoire de l'association, l'exclusion
-temporaire ou définitive en cas de fautes graves ou répétées.
+c) Pour les membres énumérés au deuxième alinéa de l'article L. 422-21 du code
+de l'environnement, la suspension du droit de chasser sur le territoire de
+l'association, l'exclusion temporaire ou définitive en cas de fautes graves ou
+répétées.
 
 14° La procédure disciplinaire applicable dans les cas prévus au 13° ;
 
