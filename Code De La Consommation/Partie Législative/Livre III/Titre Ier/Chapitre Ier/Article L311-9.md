@@ -11,3 +11,5 @@ reconduction du contrat. Elle fixe également les modalités du remboursement, q
 doit être échelonné, sauf volonté contraire du débiteur, des sommes restant dues
 dans le cas où le débiteur demande à ne plus bénéficier de son ouverture de
 crédit.
+
+La mention "carte de crédit" est spécifiée sur la carte.
