@@ -14,3 +14,6 @@ A défaut de pharmacien, le directeur ou un autre médecin du centre, nommément
 désigné, peut être autorisé par le préfet, après avis du pharmacien inspecteur
 régional, à gérer et à délivrer directement ces médicaments aux personnes
 mentionnées au premier alinéa.
+
+Le silence gardé par le préfet vaut autorisation tacite à l'expiration d'un
+délai de deux mois à compter de la date de réception de la demande.

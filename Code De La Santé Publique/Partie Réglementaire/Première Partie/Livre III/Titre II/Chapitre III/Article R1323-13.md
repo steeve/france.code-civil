@@ -13,6 +13,13 @@ l'article R. 1323-12 ne sont exécutoires qu'un mois après leur réception par 
 ministres mentionnés à l'article L. 1323-1 et par le ministre chargé du budget,
 à moins que l'un d'eux n'y fasse opposition.
 
+Les délibérations portant sur le budget, le compte financier et l'affectation
+des résultats sont exécutoires, à défaut d'approbation expresse déjà notifiée, à
+l'expiration d'un délai d'un mois partant de la date de réception, par les
+ministres chargés de l'agriculture, de la consommation et de la santé, de la
+délibération et des documents correspondants, à moins que l'un de ces ministres
+n'y fasse opposition pendant ce délai.
+
 Lorsque l'un des ministres précités demande par écrit des informations ou
 documents complémentaires, le délai est suspendu jusqu'à la production de ces
 informations ou documents.

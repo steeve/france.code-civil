@@ -1,5 +1,0 @@
-Article R5049
-----
-Les dispositions de la section 1 du présent chapitre, à l'exception de l'article
-R. 5048, sont applicables à la publicité pour les générateurs, trousses et
-précurseurs définis aux 8°, 9° et 10° de l'article L. 511-1.
