@@ -1,9 +1,10 @@
 Article R244-11
 ----
-Lorsque l'aménagement ou le fonctionnement d'un parc n'est pas conforme à la
-charte, le ministre chargé de la protection de la nature peut mettre fin au
-classement du territoire.
+Lorsque le fonctionnement ou l'aménagement d'un parc n'est pas conforme à la
+charte ou que le parc ne remplit plus les critères qui ont justifié son
+classement, il peut être mis fin au classement du territoire en "parc naturel
+régional" par décret.
 
-Il recueille au préalable l'avis de la commission des parcs naturels régionaux
-et entend l'organisme chargé de l'aménagement et de la gestion du parc ainsi que
-la ou les régions concernées.
+Le ministre chargé de l'environnement invite au préalable la ou les régions
+concernées ainsi que l'organisme chargé de l'aménagement et de la gestion du
+parc à présenter leurs observations sur la mesure envisagée.

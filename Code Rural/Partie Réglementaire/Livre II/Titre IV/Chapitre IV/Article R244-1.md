@@ -1,17 +1,22 @@
 Article R244-1
 ----
-A l'initiative des régions, un territoire à l'équilibre fragile et au patrimoine
-naturel et culturel riche peut être classé en parc naturel régional s'il s'agit
-à la fois :
+A l'initiative des régions, dans le cadre de leur compétence en matière
+d'aménagement du territoire, peut être classé en parc naturel régional un
+territoire à l'équilibre fragile, au patrimoine naturel et culturel riche et
+menacé, faisant l'objet d'un projet de développement, fondé sur la préservation
+et la valorisation du patrimoine.
 
-1° De protéger ce patrimoine, notamment par une gestion adaptée des milieux
-naturels ;
+Le parc naturel régional a pour objet :
 
-2° De contribuer au développement économique et social de ce territoire dans les
-conditions prévues par les lois relatives aux droits et libertés des communes,
-des départements et des régions ;
+a) De protéger ce patrimoine, notamment par une gestion adaptée des milieux
+naturels et des paysages ;
 
-3° De promouvoir l'accueil, l'éducation et l'information du public ;
+b) De contribuer à l'aménagement du territoire ;
 
-4° De réaliser des actions expérimentales ou exemplaires dans les domaines cités
+c) De contribuer au développement économique, social, culturel et à la qualité
+de la vie ;
+
+d) D'assurer l'accueil, l'éducation et l'information du public ;
+
+e) De réaliser des actions expérimentales ou exemplaires dans les domaines cités
 ci-dessus et de contribuer à des programmes de recherche.

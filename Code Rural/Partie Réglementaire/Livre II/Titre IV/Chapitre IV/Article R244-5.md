@@ -1,12 +1,12 @@
 Article R244-5
 ----
-La région élabore en accord avec les collectivités locales concernées la charte
-du parc.
+La décision de classement intervient au terme d'une procédure engagée par une
+délibération motivée du conseil régional par laquelle celui-ci prescrit
+l'élaboration de la charte, détermine un périmètre d'étude et définit les
+modalités de l'association à l'élaboration de la charte des collectivités
+territoriales concernées et de la consultation de leurs groupements et des
+autres partenaires intéressés.
 
-La charte est accompagnée :
-
-1° D'un programme d'actions pluriannuel, réalisable par tranches et chiffré pour
-les trois premières années ;
-
-2° Des mesures prévisionnelles de nature à assurer l'équilibre de gestion de
-l'organisme chargé de l'aménagement et de la gestion du parc.
+Dans le cas d'un projet de parc interrégional, les régions adoptent des
+délibérations concordantes. Un des préfets de région concerné est désigné comme
+préfet coordonnateur par le ministre chargé de l'environnement.

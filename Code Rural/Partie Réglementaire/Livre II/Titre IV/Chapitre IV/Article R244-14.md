@@ -1,7 +1,23 @@
 Article R244-14
 ----
-Lorsque des aménagements, ouvrages ou travaux soumis à la procédure de l'étude
-ou de la notice d'impact en vertu de la loi n° 76-629 du 10 juillet 1976 et des
-textes pris pour son application intéressent la zone du parc naturel régional,
-l'organisme chargé de l'aménagement et de la gestion du parc est saisi de cette
-étude ou de cette notice pour avis dans les délais réglementaires d'instruction.
+Une convention d'application de la charte est signée avec l'Etat, représenté par
+le préfet de région, dans les trois mois suivant la publication du décret de
+classement. Les préfets de département sont étroitement associés à l'élaboration
+de cette convention.
+
+Cette convention précise les engagements de l'Etat pour la mise en oeuvre de la
+charte, et notamment :
+
+- les modalités selon lesquelles l'Etat exerce ses compétences pour appliquer
+les orientations et les mesures de la charte ;
+
+- les moyens que l'Etat ou ses services consacrent à leurs actions dans ce
+domaine ;
+
+- les modalités de la concertation à établir entre l'Etat, le parc et les
+collectivités territoriales concernées pour veiller à la cohérence de leurs
+actions mutuelles sur le territoire classé.
+
+Des conventions particulières pourront être établies avec les différents
+partenaires concourant à l'action du parc, ou concernés par la mise en oeuvre de
+la charte.
