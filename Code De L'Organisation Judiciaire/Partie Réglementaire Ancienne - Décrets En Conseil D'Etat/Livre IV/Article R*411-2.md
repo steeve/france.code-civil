@@ -1,4 +1,4 @@
 Article R*411-2
 ----
-Le nombre des juges et le nombre des chambres de chaque tribunal de commerce
-sont fixés par décret.
+Les tribunaux de commerce [*compétence*] jugent en dernier ressort les demandes
+dont le principal n'excède pas la valeur de 7000 F [*francs - montant maximum*].
