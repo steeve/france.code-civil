@@ -31,6 +31,11 @@ Toutefois, la reprise n'est pas effectuée en cas de donation, si le donataire
 prend, dans l'acte, et respecte l'engagement de conserver les titres jusqu'au
 terme de la cinquième année suivant l'apport ou le changement du régime fiscal.
 
+((La reprise n'est pas davantage effectuée en cas de cession, si le cessionnaire
+prend, dans l'acte, et respecte l'engagement de conserver les titres jusqu'au
+terme de la cinquième année suivant le changement de régime fiscal lorsque ce
+dernier intervient entre le 1er janvier 1997 et le 31 décembre 1998)) (M).
+
 Les biens qui ont bénéficié de la réduction du taux à 1 p. cent en 1991 ou ont
 supporté le droit fixe prévu au troisième alinéa sont soumis au droit de
 mutation à titre onéreux s'ils sont attribués, lors du partage social, à un
@@ -50,4 +55,4 @@ V. (Abrogé).
 
 (1) A compter du 15 janvier 1992.
 
-[*Cf. Instruction 1995-08-21 7H-1-95.*]
+(M) Modification de la loi 96-1182.

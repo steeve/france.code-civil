@@ -24,7 +24,8 @@ plus-values à long terme soumises antérieurement au taux réduit de 10 %, de 1
 %, de 18 %, 19 % ou de 25 %.
 
 b. Elle doit se substituer à la société absorbée pour la réintégration des
-plus-values dont l'imposition avait été différée chez cette dernière.
+((résultats dont la prise en compte avait été différée pour l'imposition de
+cette dernière)) (M).
 
 c. Elle doit calculer les plus-values réalisées ultérieurement à l'occasion de
 la cession des immobilisations non amortissables qui lui sont apportées d'après
@@ -34,14 +35,14 @@ société absorbée.
 d. Elle doit réintégrer dans ses bénéfices imposables les plus-values dégagées
 lors de l'apport des biens amortissables. La réintégration des plus-values est
 effectuée par parts égales sur une période de quinze ans pour les constructions
-et les droits qui se rapportent à des constructions ((ainsi que pour les
+et les droits qui se rapportent à des constructions ainsi que pour les
 plantations et les agencements et aménagements des terrains amortissables sur
 une période au moins égale à cette durée ; dans les autres cas, la réintégration
 s'effectue par parts égales sur une période de cinq ans. Lorsque le total des
 plus-values nettes sur les constructions, les plantations et les agencements et
 aménagements des terrains excède 90 p. 100 de la plus-value nette globale sur
 éléments amortissables, la réintégration des plus-values afférentes aux
-constructions, aux plantations et aux agencements et aménagements des terrains))
+constructions, aux plantations et aux agencements et aménagements des terrains
 (1) est effectuée par parts égales sur une période égale à la durée moyenne
 pondérée d'amortissement de ces biens. Toutefois, la cession d'un bien
 amortissable entraîne l'imposition immédiate de la fraction de la plus-value
@@ -78,26 +79,23 @@ Ces dispositions s'appliquent aux droits afférents aux contrats de crédit-bail
 portant sur des éléments incorporels amortissables d'un fonds de commerce ou
 d'un fonds artisanal.
 
-((6. Pour l'application du présent article, les titres du portefeuille dont le
+6. Pour l'application du présent article, les titres du portefeuille dont le
 résultat de cession est exclu du régime des plus ou moins-values à long terme
 conformément à l'article 219 sont assimilés à des éléments de l'actif
 immobilisé.
 
-((Pour l'application du c du 3, en cas de cession ultérieure des titres
-mentionnés au premier alinéa, la plus-value est calculée d'après la valeur que
-ces titres avaient, du point de vue fiscal, dans les écritures de la société
-absorbée)) (3).
+Pour l'application du c du 3, en cas de cession ultérieure des titres mentionnés
+au premier alinéa, la plus-value est calculée d'après la valeur que ces titres
+avaient, du point de vue fiscal, dans les écritures de la société absorbée (2).
 
-(1) Modifications de la loi 95-95. Ces dispositions s'appliquent à l'imposition
-des résultats des exercices ouverts à compter du 1er janvier 1995.
+(1) Ces dispositions s'appliquent à l'imposition des résultats des exercices
+ouverts à compter du 1er janvier 1995.
 
-[*Cf. Instruction 1997-11-20 4I-2-97*].
-
-(2) Ces dispositions sont applicables aux cessions réalisées à compter du 1er
-janvier 1992.
-
-(3) Paragraphe inséré par la loi 94-1163. Ces dispositions sont applicables aux
-opérations de fusion prenant effet au cours des exercices ouverts à compter du
-1er janvier 1994.
+(2) Ces dispositions sont applicables aux opérations de fusion prenant effet au
+cours des exercices ouverts à compter du 1er janvier 1994.
 
 [*Cf. Instruction 1995-06-29 4I-1-95.*]
+
+(M) Modification de la loi 96-1182. Ces dispositions sont applicables aux
+opérations de fusion ou assimilées, qui seront réalisées à compter du 1er
+janvier 1997. [*Instruction 1997-12-01 4I-3-97*].

@@ -1,14 +1,14 @@
 Article 124 bis
 ----
 I. Pour les appareils automatiques visés au III de l'article 1560 du code
-général des impôts, la déclaration prévue au sixième alinéa de l'article 1563
-dudit code, ci-après dénommée "déclaration d'exploitation", est souscrite en
-deux exemplaires sur un carnet par les personnes citées au III de l'article 1560
-du code général des impôts. Ledit carnet est remis à ces personnes par un bureau
-ou une recette locale des douanes et droits indirects. Le premier exemplaire de
-la déclaration d'exploitation est conservé par le forain dans son carnet, le
-deuxième exemplaire est remis au bureau ou à la recette locale des douanes et
-droits indirects compétent.
+général des impôts, la déclaration prévue au ((septième alinéa de l'article 1563
+dudit code)) (M), ci-après dénommée "déclaration d'exploitation", est souscrite
+en deux exemplaires sur un carnet par les personnes citées au III de l'article
+1560 du code général des impôts. Ledit carnet est remis à ces personnes par un
+bureau ou une recette locale des douanes et droits indirects. Le premier
+exemplaire de la déclaration d'exploitation est conservé par le forain dans son
+carnet, le deuxième exemplaire est remis au bureau ou à la recette locale des
+douanes et droits indirects compétent.
 
 Le titulaire du carnet doit souscrire une déclaration d'exploitation par fête
 foraine.
@@ -83,3 +83,5 @@ V.- Le carnet doit être présenté à toute réquisition des agents des douanes
 droits indirects.
 
 VI.- La délivrance de duplicata est interdite.
+
+(M) Modification.

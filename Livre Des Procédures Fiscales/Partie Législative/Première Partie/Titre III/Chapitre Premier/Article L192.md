@@ -12,8 +12,8 @@ cette dernière lorsque le litige ou le redressement est soumis au juge.
 
 Elle incombe également au contribuable à défaut de comptabilité ou de pièces en
 tenant lieu, comme en cas de taxation d'office à l'issue d'un examen
-contradictoire de l'ensemble de la situation fiscale personnelle en application
-des dispositions des articles L. 16 et L. 69 (1).
+contradictoire de la situation fiscale personnelle en application des
+dispositions des articles L. 16 et L. 69 (1).
 
 (1) Les dispositions du présent article sont applicables aux contentieux
 relatifs à des impositions établies sur le fondement de rectifications ou de

@@ -43,9 +43,16 @@ Si le changement d'exploitant prend effet le 1er janvier, le nouvel exploitant
 est imposé pour l'année du changement sur les bases relatives à l'activité de
 son prédécesseur.
 
+((IV bis. Pour les deux années qui suivent celle où elles sont, pour la première
+fois, assujetties à l'impôt sur les sociétés, les bases d'imposition des
+sociétés civiles professionnelles sont calculées dans les conditions définies au
+deuxième alinéa du II)) (M).
+
 V. La valeur locative est corrigée en fonction de la période d'activité pour les
 exploitants d'hôtels de tourisme saisonniers classés dans les conditions fixées
 par le ministre chargé du tourisme, les restaurants, les établissements de
 spectacles ou de jeux ainsi que les établissements thermaux.
 
 (1) Annexe II, art. 310 HS et 310 HT.
+
+(M) Modification de la loi 96-1182.

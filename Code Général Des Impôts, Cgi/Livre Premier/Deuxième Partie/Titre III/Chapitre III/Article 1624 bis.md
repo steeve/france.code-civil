@@ -7,11 +7,9 @@ cotisations acquittées au titre des contrats de l'assurance contre les accident
 de la vie privée, les accidents du travail et les maladies professionnelles
 instituée par les articles 1234-1 et suivants du code rural.
 
-((Le taux de cette contribution est fixé à 7 p. 100. Ce taux s'applique aux
-primes ou cotisations émises à compter du 1er janvier 1996)) (M).
+Le taux de cette contribution est fixé à 10 p. 100. Ce taux s'applique aux
+primes ou cotisations émises à compter du 1er janvier 1997.
 
 Cette contribution est liquidée et recouvrée suivant les mêmes règles, sous les
 mêmes garanties et sous les mêmes sanctions que la contribution prévue à
 l'article 1622.
-
-(M) Modification de la loi.

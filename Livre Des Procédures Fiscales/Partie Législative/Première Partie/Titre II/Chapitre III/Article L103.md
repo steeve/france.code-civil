@@ -8,7 +8,7 @@ redevances prévus au code général des impôts.
 
 Le secret s'étend à toutes les informations recueillies à l'occasion de ces
 opérations. Pour les informations recueillies à l'occasion d'un examen
-contradictoire de l'ensemble de la situation fiscale personnelle, l'obligation
-du secret professionnel nécessaire au respect de la vie privée s'impose au
-vérificateur à l'égard de toutes personnes autres que celles ayant, par leurs
-fonctions, à connaître du dossier.
+contradictoire de la situation fiscale personnelle, l'obligation du secret
+professionnel nécessaire au respect de la vie privée s'impose au vérificateur à
+l'égard de toutes personnes autres que celles ayant, par leurs fonctions, à
+connaître du dossier.

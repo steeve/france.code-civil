@@ -21,11 +21,11 @@ consacrent :
 
 au conditionnement des fruits et légumes,
 
-et à l'organisation des ventes aux enchères;
+et à l'organisation des ventes aux enchères ;
 
 2° Les coopératives agricoles et vinicoles, pour leurs activités autres que la
 vinification et quel que soit le mode de commercialisation employé, lorsque
-l'effectif salarié correspondant n'excède pas trois personnes;
+l'effectif salarié correspondant n'excède pas trois personnes ;
 
 3° Les organismes suivants, susceptibles d'adhérer aux caisses de crédit
 agricole mutuel en vertu des dispositions législatives et réglementaires qui
@@ -46,6 +46,10 @@ chambres d'agriculture ;
 4° Les caisses locales d'assurances mutuelles agricoles régies par l'article
 1235 du code rural qui ont au plus deux salariés ou mandataires rémunérés.
 
+((Pour l'appréciation du nombre de salariés, la période de référence à retenir
+est l'année mentionnée à l'article 1467 A, pour les impositions établies au
+titre de 1997 et des années suivantes)) (M).
+
 II. A compter de 1992, l'exonération prévue aux 1° et 2° du I est supprimée pour
 :
 
@@ -56,3 +60,5 @@ b) Les sociétés d'intérêt collectif agricole dont plus de 50 p. 100 du capit
 ou des voix sont détenus directement ou par l'intermédiaire de filiales par des
 associés autres que ceux visés aux 1°, 2° et 3° de l'article L. 522-1 du code
 rural.
+
+(M) Modification de la loi 96-1182.

@@ -1,6 +1,6 @@
 Article 145
 ----
-Les établissements visés au deuxième alinéa de l'article 1563 du code général
+Les établissements visés au troisième alinéa de l'article 1563 du code général
 des impôts sont tenus de se conformer aux prescriptions des articles 127, 128 et
 129 lorsqu'un prix spécial est établi pour l'entrée. Ils doivent en outre dans
 tous les cas qu'il y ait prix d'entrée ou non tenir un livre spécial, aux pages

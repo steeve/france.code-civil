@@ -46,6 +46,11 @@ Les apprentis sous contrat ne sont pas comptés au nombre des salariés.
 La rémunération du travail s'entend de la somme du bénéfice, des salaires versés
 et des cotisations sociales y afférentes.
 
+((Pour l'appréciation des conditions relatives au nombre de salariés et au
+chiffre d'affaires, la période de référence à retenir est celle mentionnée à
+l'article 1467 A, pour les impositions établies au titre de 1997 et des années
+suivantes)) (M).
+
 3° Pour les sociétés coopératives et unions de sociétés coopératives d'artisans,
 les sociétés coopératives et unions de sociétés coopératives de
 patrons-bateliers et les sociétés coopératives maritimes, de moitié, lorsque
@@ -59,3 +64,5 @@ II. (Dispositions devenues sans objet).
 (1) Annexe II, art. 310 HA.
 
 (2) Voir aussi art. 1649 quater BA.
+
+(M) Modification de la loi 96-1182.

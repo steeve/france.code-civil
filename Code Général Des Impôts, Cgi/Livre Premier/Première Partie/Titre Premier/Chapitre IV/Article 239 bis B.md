@@ -18,9 +18,9 @@ ni de l'impôt sur les sociétés.
 
 II. L'application des dispositions du I est réservée aux sociétés qui auront
 obtenu à cette fin, préalablement à leur dissolution, un agrément du ministre de
-l'économie et des finances délivré après avis du conseil de direction du fonds
-de développement économique et social. L'agrément peut comporter des limitations
-et être assorti de conditions particulières, notamment en ce qui concerne les
+l'économie et des finances délivré après avis du comité des investissements à
+caractère économique et social. L'agrément peut comporter des limitations et
+être assorti de conditions particulières, notamment en ce qui concerne les
 modalités de la liquidation et la destination à donner aux éléments d'actif
 liquidés. Pour les petites entreprises, l'agrément est accordé selon une
 procédure décentralisée, dans des conditions qui sont fixées par arrêté du

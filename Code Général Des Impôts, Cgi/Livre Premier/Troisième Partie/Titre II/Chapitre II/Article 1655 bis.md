@@ -40,7 +40,7 @@ par l'arrêté prononçant l'agrément de la société.
 
 II. Les demandes d'agrément doivent indiquer de façon précise l'objet de la
 société et son programme d'équipement. Elles doivent être présentées avant le 31
-décembre 1996 au ministre de l'économie et des finances qui les soumet, pour
+décembre 2001 au ministre de l'économie et des finances qui les soumet, pour
 avis, à la commission centrale instituée par l'article 18 du décret n° 52-152 du
 13 février 1952 (1), laquelle s'adjoint, pour la circonstance, le directeur
 général des douanes et des droits indirects ou son représentant.

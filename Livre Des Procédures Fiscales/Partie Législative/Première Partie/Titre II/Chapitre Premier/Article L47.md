@@ -1,17 +1,17 @@
 Article L47
 ----
-Un examen contradictoire de l'ensemble de la situation fiscale personnelle d'une
-personne physique au regard de l'impôt sur le revenu ou une vérification de
-comptabilité ne peut être engagée sans que le contribuable en ait été informé
-par l'envoi ou la remise d'un avis de vérification.
+Un examen contradictoire de la situation fiscale personnelle d'une personne
+physique au regard de l'impôt sur le revenu ou une vérification de comptabilité
+ne peut être engagée sans que le contribuable en ait été informé par l'envoi ou
+la remise d'un avis de vérification.
 
 Cet avis doit préciser les années soumises à vérification et mentionner
 expressément, sous peine de nullité de la procédure, que le contribuable a la
 faculté de se faire assister par un conseil de son choix.
 
 L'avis envoyé ou remis au contribuable avant l'engagement d'un examen
-contradictoire de l'ensemble de la situation fiscale personnelle peut comporter
-une demande des relevés de compte.
+contradictoire de la situation fiscale personnelle peut comporter une demande
+des relevés de compte.
 
 En cas de contrôle inopiné tendant à la constatation matérielle des éléments
 physiques de l'exploitation ou de l'existence et de l'état des documents
