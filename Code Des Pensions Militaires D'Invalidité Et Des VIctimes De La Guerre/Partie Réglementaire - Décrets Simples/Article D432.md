@@ -62,5 +62,8 @@ par l'ennemi ou en territoire français annexé par l'ennemi,
 le patronage et l'aide matérielle qui leur sont dus par la reconnaissance de la
 nation ;
 
+Veuves de titulaires de la carte du combattant ou de bénéficiaires du présent
+code décédés.
+
 b) D'exercer l'action sociale nécessaire en faveur des sinistrés, réfugiés et
 spoliés, tant qu'ils demeurent détenteurs de la carte attestant leur qualité.
