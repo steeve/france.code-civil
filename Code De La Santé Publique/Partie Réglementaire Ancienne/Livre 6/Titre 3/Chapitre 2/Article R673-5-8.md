@@ -10,7 +10,8 @@ Le dossier du donneur contient, sous forme rendue anonyme :
 1° Les antécédents médicaux personnels et familiaux nécessaires à la mise en
 oeuvre de l'assistance médicale à la procréation avec tiers donneur ;
 
-2° Les résultats de tests de dépistage sanitaires obligatoires ;
+2° Les résultats des tests de dépistage sanitaire prévus aux articles R.
+673-5-10 et R. 673-5-11 ;
 
 3° Le nombre d'enfants issus du don ;
 
@@ -22,7 +23,7 @@ d'ovocytes donnés ;
 
 6° Le consentement écrit du couple auquel appartient le donneur.
 
-Les praticiens agréés pour les activits mentionnées au premier alinéa,
+Les praticiens agréés pour les activités mentionnées au premier alinéa,
 conformément à l'article L. 152-9 et à l'article R. 152-9-2, sont responsables
 de la bonne tenue du dossier et de l'exactitude des informations qui y sont
 consignées.
