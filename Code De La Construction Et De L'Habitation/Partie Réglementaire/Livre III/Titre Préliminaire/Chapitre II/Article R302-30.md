@@ -40,3 +40,6 @@ maître d'ouvrage concerné.
 terrains ou de biens immobiliers devant effectivement donner lieu à la
 réalisation de logements locatifs sociaux et leur valeur vénale estimée, à la
 date de la cession, par le service des domaines.
+
+Seule peut être admise en déduction la fraction des dépenses qui n'a pas fait
+l'objet d'une subvention du fonds d'aménagement urbain.
