@@ -1,8 +1,8 @@
 Article D231-10
 ----
-Dans les trois jours ouvrés qui suivent l'affichage de la liste, tout électeur
-peut réclamer l'inscription ou la radiation d'un électeur omis ou indûment
-inscrit, par déclaration orale ou écrite, faite, remise ou adressée au
+Dans les trois jours ouvrés qui suivent l'affichage de la liste, tout tout
+électeur peut réclamer l'inscription ou la radiation d'un électeur omis ou
+indûment inscrit, par déclaration orale ou écrite, faite, remise ou adressée au
 secrétariat-greffe du tribunal d'instance du siège de l'organisme.
 
 La déclaration indique les nom, prénoms et adresse du requérant et la qualité en

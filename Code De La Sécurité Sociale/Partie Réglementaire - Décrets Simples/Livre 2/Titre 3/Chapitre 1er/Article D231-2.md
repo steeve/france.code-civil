@@ -1,8 +1,8 @@
 Article D231-2
 ----
 Les sièges des représentants des assurés sociaux dans les conseils
-d'administration des organismes visés aux articles L. 211-2, L. 212-2, L. 213-2,
-L. 215-2, L. 215-3, L. 215-7, L. 752-6 et L. 752-9 sont répartis ainsi :
+d'administration des organismes visés aux articles L. 212-2, L. 213-2, L. 215-2,
+L. 215-3, L. 215-7, L. 752-6 et L. 752-9 sont répartis ainsi :
 
 - Confédération générale du travail : deux ;
 

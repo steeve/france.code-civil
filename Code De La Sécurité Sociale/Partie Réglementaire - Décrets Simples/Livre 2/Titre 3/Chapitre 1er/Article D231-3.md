@@ -1,8 +1,8 @@
 Article D231-3
 ----
 Les représentants des employeurs dans les conseils d'administration des
-organismes de sécurité sociale du régime général visés aux articles L. 211-2, L.
-215-2, L. 215-3 et L. 215-7 sont désignés à raison de :
+organismes de sécurité sociale du régime général visés aux articles L. 215-2, L.
+215-3 et L. 215-7 sont désignés à raison de :
 
 - quatre membres par le Mouvement des entreprises de France ;
 
@@ -11,8 +11,7 @@ organismes de sécurité sociale du régime général visés aux articles L. 211
 
 - deux membres par l'Union professionnelle artisanale.
 
-Les représentants des employeurs dans les conseils d'administration de la Caisse
-nationale de l'assurance maladie des travailleurs salariés et de la Caisse
+Les représentants des employeurs au conseil d'administration de la Caisse
 nationale d'assurance vieillesse des travailleurs salariés sont désignés à
 raison de :
 
