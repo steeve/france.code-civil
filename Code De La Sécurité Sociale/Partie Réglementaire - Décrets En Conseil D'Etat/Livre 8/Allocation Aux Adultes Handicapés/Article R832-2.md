@@ -22,7 +22,10 @@ fonctionnement sont fixés par arrêté interministériel.
 Cette dérogation peut être prolongée dans les mêmes conditions par période de
 deux ans renouvelable, après enquête sociale et au vu d'une attestation motivée
 du commissaire de la République certifiant que l'allocataire ne peut être logé
-conformément aux conditions fixées au premier alinéa du présent article.
+conformément aux conditions fixées au premier alinéa du présent article sauf si
+le local est loué ou sous-loué à une personne hébergée en application de la loi
+n° 89-475 du 10 juillet 1989 relative à l'accueil par des particuliers, à leur
+domicile, à titre onéreux, de personnes âgées ou handicapées adultes.
 
 L'allocation de logement n'est pas due si le local est loué ou sous-loué en
 partie à des tiers.
@@ -32,12 +35,20 @@ qui concerne les personnes qui occupent un logement aménagé de manière à
 constituer une unité d'habitation autonome et situé dans un foyer doté de
 services collectifs.
 
-Les dispositions du deuxième alinéa ne sont pas applicables aux personnes
-résidant dans une maison de retraite ; celles-ci doivent disposer d'une chambre
-d'au moins 9 mètres carrés pour une personne seule et de 16 mètres carrés pour
-deux personnes. Le droit à l'allocation de logement n'est pas ouvert si la
-chambre est occupée par plus de deux personnes. Les personnes ou les ménages
-bénéficiaires de l'allocation de logement et qui s'en trouveraient exclus par
-application des présentes normes continueront à en bénéficier, pour le même
-local, dans la limite des dérogations qui leur avaient été accordées avant le
-1er juillet 1978.
+Les dispositions des deuxième, troisième et quatrième alinéas ne sont pas
+applicables aux personnes résidant dans une maison de retraite ou hébergées dans
+les unités et centres de long séjour relevant de la loi n° 70-1318 du 31
+décembre 1970 portant réforme hospitalière, celles-ci doivent disposer d'une
+chambre d'au moins 9 mètres carrés pour une personne seule et de 16 mètres
+carrés pour deux personnes. Le droit à l'allocation de logement n'est pas ouvert
+si la chambre est occupée par plus de deux personnes. Les personnes ou les
+ménages bénéficiaires de l'allocation de logement et qui s'en trouveraient
+exclus par application des présentes normes continueront à en bénéficier, pour
+le même local, dans la limite des dérogations qui leur avaient été accordées
+avant le 1er juillet 1978.
+
+Les caractéristiques des locaux affectés aux personnes hébergées en application
+de la loi n° 89-475 du 10 juillet 1989 relative à l'accueil par des
+particuliers, à leur domicile, à titre onéreux, de personnes âgées ou
+handicapées adultes sont celles qui sont fixées à l'article 3 du décret n°
+90-504 du 22 juin 1990.

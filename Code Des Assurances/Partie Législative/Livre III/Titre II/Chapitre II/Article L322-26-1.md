@@ -1,8 +1,12 @@
 Article L322-26-1
 ----
-En cas de dissolution non motivée par un retrait d'agrément d'une société
-d'assurance à forme mutuelle, l'excédent de l'actif net sur le passif est
-dévolu, par décision de l'assemblée générale, soit à d'autres sociétés
-d'assurance à forme mutuelle ou sociétés mutuelles d'assurance ou union de
-sociétés mutuelles d'assurance, soit à des associations reconnues d'utilité
-publique.
+Les sociétés d'assurance mutuelles ont un objet non commercial. Elles sont
+constituées pour assurer les risques apportés par leurs sociétaires. Moyennant
+le paiement d'une cotisation fixe ou variable, elles garantissent à ces derniers
+le règlement intégral des engagements qu'elles contractent. Toutefois, les
+sociétés d'assurance mutuelles pratiquant les opérations d'assurance sur la vie
+ou de capitalisation ne peuvent recevoir de cotisations variables.
+
+Ces sociétés fonctionnent sans capital social, dans des conditions fixées, pour
+l'ensemble des catégories mentionnées à l'article L. 322-26-4, par décret en
+Conseil d'Etat.

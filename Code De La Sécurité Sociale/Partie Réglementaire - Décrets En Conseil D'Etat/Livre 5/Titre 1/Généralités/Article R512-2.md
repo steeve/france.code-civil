@@ -2,7 +2,7 @@ Article R512-2
 ----
 Les enfants ouvrent droit aux prestations familiales :
 
-1°) jusqu'à l'âge de 17 ans pour l'enfant dont la rémunération n'excède pas le
+1°) jusqu'à l'âge de 18 ans pour l'enfant dont la rémunération n'excède pas le
 plafond fixé au deuxième alinéa ;
 
 2°) jusqu'à l'âge de 20 ans, lorsque n'étant plus soumis à l'obligation
