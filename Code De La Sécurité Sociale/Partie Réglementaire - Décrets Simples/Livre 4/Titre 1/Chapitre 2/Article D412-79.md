@@ -336,7 +336,8 @@ main de justice ;
 5° conciliateurs.
 
 B. - En ce qui concerne le ministère chargé du travail (articles L. 323-11, L.
-122-14, R. 323-82 et R. 323-83, D. 122-1 à D. 122-5 du code du travail) :
+122-14, L. 511-4, R. 323-82 et R. 323-83, D. 122-1 à D. 122-5 du code du
+travail) :
 
 1°) membres du conseil supérieur pour le reclassement professionnel et social
 des travailleurs handicapés prévu à l'article R. 323-82 du code du travail et
@@ -347,7 +348,10 @@ travail ;
 professionnel prévues à l'article L. 323-11 du code du travail ;
 
 3°) conseillers des salariés convoqués à un entretien préalable à licenciement
-inscrits sur une liste dressée par le préfet du département.
+inscrits sur une liste dressée par le préfet du département ;
+
+4° Membres du Conseil supérieur de la prud'homie institué par l'article L. 511-4
+du code du travail.
 
 C. - En ce qui concerne le ministère chargé des affaires sociales et ministère
 chargé de l'éducation (loi n° 75-534 du 30 juin 1975 d'orientation en faveur des

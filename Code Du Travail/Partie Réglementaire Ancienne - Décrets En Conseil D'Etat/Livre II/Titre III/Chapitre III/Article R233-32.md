@@ -1,6 +1,6 @@
 Article R233-32
 ----
-Si les équipements servant au levage de charges sont installés à demeure, leur
-solidité et leur stabilité pendant l'emploi doivent être assurées compte tenu
-notamment des charges à lever et des contraintes induites aux points de
-suspension ou de fixation aux structures.
+Les équipements de travail servant au levage des charges doivent être équipés et
+installés de manière à assurer leur solidité et leur stabilité pendant l'emploi
+compte tenu notamment des charges à lever et des contraintes induites aux points
+de suspension ou de fixation aux structures.
