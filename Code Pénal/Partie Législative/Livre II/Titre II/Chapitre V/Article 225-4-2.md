@@ -16,7 +16,7 @@ ou lors de son arrivée sur le territoire de la République ;
 
 5° Lorsque la personne a été mise en contact avec l'auteur des faits grâce à
 l'utilisation, pour la diffusion de messages à destination d'un public non
-déterminé, d'un réseau de télécommunications ;
+déterminé, d'un réseau de communication électronique ;
 
 6° Dans des circonstances qui exposent directement la personne à l'égard de
 laquelle l'infraction est commise à un risque immédiat de mort ou de blessures

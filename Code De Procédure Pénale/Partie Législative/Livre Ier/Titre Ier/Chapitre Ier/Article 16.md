@@ -32,10 +32,7 @@ judiciaire ni se prévaloir de cette qualité que s'ils sont affectés à un emp
 comportant cet exercice et en vertu d'une décision du procureur général près la
 cour d'appel les y habilitant personnellement.L'exercice de ces attributions est
 momentanément suspendu pendant le temps où ils participent, en unité constituée,
-à une opération de maintien de l'ordre. Lorsqu'ils appartiennent à un service
-dont la compétence excède le ressort de la cour d'appel, la décision
-d'habilitation est prise par le procureur général près la cour d'appel du siège
-de leur fonction.
+à une opération de maintien de l'ordre.
 
 Toutefois, les fonctionnaires visés au 4° ne peuvent recevoir l'habilitation
 prévue à l'alinéa précédent que s'ils sont affectés soit dans un service ou une
