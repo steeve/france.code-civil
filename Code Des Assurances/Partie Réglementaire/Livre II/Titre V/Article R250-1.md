@@ -1,10 +1,11 @@
 Article R250-1
 ----
 Le président et les membres du Bureau central de tarification institué par les
-articles L. 125-6, L. 212-1, L. 220-5 et L. 243-4 ainsi que par l'article
-1234-10 du code rural sont nommés pour une période de trois ans renouvelable,
-par arrêté du ministre chargé de l'économie et des finances, sous réserve des
-dispositions de la dernière phrase du 4° du quatrième alinéa du présent article.
+articles L. 125-6, L. 212-1, L. 220-5, L. 243-4 et L. 252-1 ainsi que par
+l'article 1234-10 du code rural sont nommés pour une période de trois ans
+renouvelable, par arrêté du ministre chargé de l'économie et des finances, sous
+réserve des dispositions de la dernière phrase du 4° et de la dernière phrase du
+5° du quatrième alinéa du présent article.
 
 Le président est choisi parmi les conseillers d'Etat, les conseillers à la Cour
 de cassation, les conseillers maîtres à la Cour des comptes ou les professeurs
@@ -56,4 +57,24 @@ l'obligation d'assurance, nommés sur proposition des organisations syndicales �
 vocation générale d'exploitants agricoles les plus représentatives. Les
 représentants des personnes assujetties à l'obligation d'assurance sont nommés
 par le ministre chargé de l'agriculture pour une période de trois ans
-renouvelable.
+renouvelable ;
+
+5° Lorsqu'il statue en matière d'assurance obligatoire de responsabilité civile
+médicale définie à l'article L. 251-1, six membres représentant les entreprises
+d'assurance pratiquant sur le territoire de la République française l'assurance
+de responsabilité civile médicale prévue à ce même article, nommés sur
+proposition des organismes professionnels, et six membres représentant les
+assujettis à cette obligation d'assurance. Ces derniers sont nommés par arrêté
+du ministre chargé de la santé pour une période de trois ans renouvelable et
+comprennent :
+
+a) Au moins un membre représentant les professionnels de santé exerçant à titre
+libéral sur proposition du Centre national des professions de santé ;
+
+b) Au moins un membre sur proposition des organismes professionnels
+représentatifs des établissements de santé ;
+
+c) Au moins un membre sur proposition des organismes professionnels
+représentatifs des producteurs, exploitants et fournisseurs de produits de santé
+à l'état de produits finis mentionnés à l'article L. 5311-1 du code de la santé
+publique, à l'exclusion des 5°, 11°, 14° et 15°.
