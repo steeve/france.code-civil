@@ -9,8 +9,7 @@ arrondissements, lorsque le décès est survenu dans un arrondissement autre que
 celui où le défunt était domicilié.
 
 En cas de décès dans les hôpitaux ou les formations sanitaires, les hôpitaux
-maritimes, coloniaux, civils, ou autres établissements publics, soit en France,
-soit dans les colonies ou les pays de protectorat, les directeurs,
+maritimes, civils, ou autres établissements publics, les directeurs,
 administrateurs ou maîtres de ces hôpitaux ou établissements devront en donner
 avis, dans les vingt-quatre heures, à l'officier de l'état civil ou à celui qui
 en remplit les fonctions.

@@ -16,6 +16,6 @@ aussitôt, si le double du registre est au greffe, le procureur de la Républiqu
 de son arrondissement.
 
 Si l'acte en marge duquel une mention devra être effectuée a été dressé ou
-transcrit dans une colonie ou à l'étranger, l'officier de l'état civil qui a
-dressé ou transcrit l'acte donnant lieu à mention en avisera, dans les trois
-jours, le ministre des colonies ou le ministre des affaires étrangères.
+transcrit à l'étranger, l'officier de l'état civil qui a dressé ou transcrit
+l'acte donnant lieu à mention en avisera, dans les trois jours, le ministre des
+affaires étrangères.
