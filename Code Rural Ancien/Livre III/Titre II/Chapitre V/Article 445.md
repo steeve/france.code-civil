@@ -1,0 +1,28 @@
+Article 445
+----
+Sont habilités à rechercher et à constater les infractions aux dispositions du
+présent titre et des textes pris pour son application, en quelque lieu qu'elles
+soient commises, outre les officiers et agents de police judiciaire énumérés aux
+articles 16, 20 et 21 du code de procédure pénale et les agents habilités par
+des lois spéciales :
+
+1° Les agents du Conseil supérieur de la pêche commissionnés à cet effet par
+décision ministérielle, et assermentés ;
+
+2° Les ingénieurs du génie rural, des eaux et des forêts, les ingénieurs des
+travaux et les agents qualifiés chargés de la police de la pêche dans les
+directions départementales de l'agriculture et à l'Office national des forêts,
+les ingénieurs et agents qualifiés des services chargés de la navigation,
+commissionnés à cet effet par décision ministérielle et assermentés ;
+
+3° Les gardes champêtres.
+
+Les agents commissionnés du Conseil supérieur de la pêche peuvent contrôler les
+conditions dans lesquelles, au-delà de la limite de salure des eaux, est
+pratiquée la pêche des espèces de poissons vivant alternativement dans les eaux
+douces et dans les eaux salées.
+
+Peuvent également rechercher et constater les infractions aux dispositions du
+présent titre et des textes pris pour son application les agents des douanes
+ainsi que les agents autorisés par le décret du 9 janvier 1852 sur l'exercice de
+la pêche maritime.
