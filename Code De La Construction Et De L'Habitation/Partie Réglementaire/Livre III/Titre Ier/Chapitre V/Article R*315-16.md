@@ -5,6 +5,14 @@ une prime d'épargne versée au moment de la réalisation du prêt et égale au
 montant des intérêts acquis à la date de la demande de prêt et pris en compte
 pour le calcul du montant du prêt.
 
+La prime d'épargne versée au souscripteur d'un compte d'épargne logement ouvert
+à compter du 1er juillet 1985 est égale à une fraction des intérêts acquis à la
+date de la demande du prêt.
+
+La valeur de la fraction est fixée par arrêté du ministre chargé des finances,
+du ministre chargé de la construction et de l'habitation et du ministre chargé
+des PTT.
+
 Toutefois la prime d'épargne ne peut pas dépasser par opération de prêt un
 montant fixé par arrêté du ministre chargé des finances, du ministre chargé de
 la construction et de l'habitation et du ministre chargé des postes et
