@@ -5,15 +5,13 @@ l'établissement public de rattachement les offices publics d'habitations à loy
 modéré peuvent être transformés en office public d'aménagement et de
 construction.
 
-Cette transformation est prononcée par arrêté du ministre chargé de l'intérieur
-et de la décentralisation, du ministre chargé des finances et du ministre chargé
-de l'urbanisme et du logement, après avis du Conseil supérieur des habitations à
-loyer modéré.
+La transformation est prononcée, après avis du Conseil supérieur des habitations
+à loyer modéré, par le préfet du département du siège de l'office.
 
-Deux ou plusieurs offices publics d'habitations à loyer modéré appartenant à une
-même région peuvent demander à se transformer par voie de fusion en un seul
-office public d'aménagement et de construction ; cette transformation est
-soumise aux règles fixées aux alinéas précédents.
+Lorsque la transformation de plusieurs établissements publics d'habitations à
+loyer modéré en un office public d'aménagement et de construction s'opère par
+voie de fusion, cette transformation est soumise aux règles fixées aux articles
+R. 421-1-1 ou R. 421-51-1.
 
 Seuls peuvent obtenir la transformation les offices publics d'habitations à
 loyer modéré dont la qualité de gestion est compatible avec une telle opération.
