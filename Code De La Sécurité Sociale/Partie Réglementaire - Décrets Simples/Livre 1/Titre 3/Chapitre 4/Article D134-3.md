@@ -15,7 +15,9 @@ montant moyen annuel, par bénéficiaire, de l'ensemble :
 a) Des prestations en nature, pour ce qui concerne l'assurance maladie ;
 
 b) Des prestations versées aux retraités de droit direct âgés d'au moins
-soixante-cinq ans, en ce qui concerne l'assurance vieillesse.
+soixante-cinq ans, déduction faite des prestations prises en charge par le fonds
+mentionné au chapitre V du livre III du livre Ier du présent code, en ce qui
+concerne l'assurance vieillesse.
 
 2°) cotisation moyenne : la cotisation théorique uniforme qui devrait être
 versée par chaque cotisant actif de l'ensemble des régimes dans chacune des

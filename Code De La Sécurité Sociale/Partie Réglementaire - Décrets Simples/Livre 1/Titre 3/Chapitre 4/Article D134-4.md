@@ -14,3 +14,7 @@ livre III ;
 
 3°) les assujettis exonérés ou dispensés totalement du versement des
 cotisations.
+
+Sont néanmoins considérés comme cotisants actifs les effectifs dont les
+cotisations sont prises en charge par le fonds mentionné au chapitre V du titre
+III du livre Ier du présent code.
