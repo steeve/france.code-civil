@@ -7,7 +7,7 @@ rémunérées avec un des établissements ou organismes mentionnés à l'article
 vote.
 
 Les membres du réseau d'experts et les membres du personnel de l'agence ne
-peuvent, avant l'expiration d'un délai de trois ans, travailler pour ou
+peuvent, avant l'expiration d'un délai de dix-huit mois, travailler pour ou
 entretenir des relations professionnelles rémunérées avec un des établissements
 ou organismes mentionnés à l'article L. 710-5 pour lequel ils ont participé à
 une procédure d'accréditation.

@@ -13,9 +13,8 @@ R. 710-6-5, le collège ne peut valablement délibérer que si au moins huit de 
 membres sont présents dont au moins deux membres de chacune des catégories
 mentionnées à l'article R. 791-2-16.
 
-Les délibérations du collège de l'accréditation sont adoptées à la majorité
-simple des membres présents. La voix du président est prépondérante en cas de
-partage égal des voix.
+La voix du président et, en son absence, du vice-président est prépondérante en
+cas de partage égal des voix.
 
 Lors des délibérations relatives à la validation de rapports d'accréditation et
 à l'accréditation des établissements de santé ou des organismes cités à
