@@ -6,5 +6,5 @@ mentionnés à l'article A. 335-3 doivent être calculées d'après un taux au p
 
 - soit le taux du tarif ;
 
-- soit le taux de rendement réel, diminué d'un point, de l'actif représentatif
-des engagements correspondants.
+- soit le taux de rendement réel diminué d'un cinquième, de l'actif
+représentatif des engagements correspondants.
