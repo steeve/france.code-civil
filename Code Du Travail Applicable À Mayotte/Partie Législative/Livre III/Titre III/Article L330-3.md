@@ -5,10 +5,10 @@ salariée sans avoir obtenu au préalable une autorisation de travail. Le montan
 maximum de l'amende est égal à vingt-cinq fois le taux horaire du salaire
 minimum interprofessionnel garanti en vigueur dans la collectivité territoriale.
 
-Sans préjudice des poursuites judiciaires qui peuvent être intentées à son
-encontre, l'employeur qui engage ou conserve à son service un étranger non muni
-d'une autorisation de travail est également puni d'une amende. Le montant
-maximum de celle-ci est égal à cent fois le taux horaire du salaire minimum
+L'employeur qui engage ou conserve à son service un étranger non muni d'une
+autorisation de travail est puni d'une amende sauf si des poursuites judiciaires
+sont intentées à son encontre pour les mêmes faits. Le montant maximum de
+celle-ci est égal à cent fois le taux horaire du salaire minimum
 interprofessionnel garanti en vigueur dans la collectivité territoriale.
 L'amende est due pour chaque étranger employé sans titre de travail.
 
