@@ -10,6 +10,6 @@ Lesdites cotisations sont calculées sur la base des rémunérations ou gains
 perçus par les travailleurs intéressés au titre de leur activité salariée ou
 assimilée relevant du régime général de sécurité sociale. Pour l'application des
 dispositions relatives au plafond des cotisations, il est tenu compte, le cas
-échéant, dans les conditions prévues au deuxième alinéa de l'article L. 242-3,
+échéant, dans les conditions prévues au premier alinéa de l'article L. 242-3,
 des rémunérations ou gains soumis à retenues au titre du régime spécial de
 retraite.

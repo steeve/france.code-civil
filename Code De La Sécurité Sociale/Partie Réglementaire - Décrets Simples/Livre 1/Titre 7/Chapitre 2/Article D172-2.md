@@ -13,8 +13,8 @@ est demandé ;
 régime auquel l'assuré était affilié à la date de l'interruption de travail ;
 
 3°) en ce qui concerne les prestations de l'assurance maternité, au régime
-auquel l'assuré était affilié à la date soit de la première constatation
-médicale de la grossesse, soit du début du repos prénatal ;
+auquel l'assuré était affilié au premier jour du neuvième mois précédant la date
+présumée de l'accouchement ou au début du repos prénatal ;
 
 4°) en ce qui concerne les prestations de l'assurance décès, au régime auquel
 l'assuré était affilié à la date du décès ;
