@@ -40,6 +40,14 @@ participation au titre du même exercice. Les dotations à la réserve légale e
 fonds de développement de ces sociétés peuvent tenir lieu, à due concurrence, de
 provision pour investissement.
 
+Cette disposition n'est pas applicable aux sociétés coopératives ouvrières de
+production dont le capital est détenu pour plus de 50 p. 100 par des personnes
+définies au 1 quinquies de l'article 207 et des titulaires de certificats
+coopératifs d'investissement, à l'exception de celles dont la majorité du
+capital est détenue par une autre société coopérative ouvrière de production
+dans les conditions prévues à l'article 25 de la loi n° 78-763 du 19 juillet
+1978 portant statut des sociétés coopératives ouvrières de production.
+
 4. La provision visée aux 1 à 3 est rapportée au bénéfice imposable si elle
 n'est pas utilisée dans le délai d'un an à l'acquisition ou la création
 d'immobilisations. Ce délai est porté à quatre ans pour les sociétés
