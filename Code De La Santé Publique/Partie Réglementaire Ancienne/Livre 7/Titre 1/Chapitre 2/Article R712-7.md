@@ -19,8 +19,8 @@ installations et structures de psychiatrie ;
 
 a) Pour la réanimation et les soins de suite et de réadaptation ;
 
-b) Pour les équipements matériels lourds énumérés aux 2, 3, 4, 5, 7 (a), 8, 9,
-10, 11 et 12 du II de l'article R. 712-2 ;
+b) Pour les équipements matériels lourds énumérés aux 2, 4, 5, 7 (a), 8, 9, 10,
+11 et 12 du II de l'article R. 712-2 ;
 
 c) Pour les activités de soins énumérées aux 6° à 10°, à l'exception dans le 9°
 de l'activité obstétrique qui s'apprécie au niveau du secteur sanitaire, et au

@@ -8,7 +8,7 @@ I. - Cinq ans pour :
 a) Les appareils de circulation sanguine extracorporelle mentionnés au II-1 de
 l'article R. 712-2 ;
 
-b) Les activités de soins mentionnées aux 1, 3, 4, 5, 6, 9 et 11 du III de
+b) Les activités de soins mentionnées aux 1, 3, 4, 5, 6, 9, 10 et 11 du III de
 l'article R. 712-2 ;
 
 c) Les structures pratiquant l'anesthésie ou la chirurgie ambulatoires
@@ -22,8 +22,7 @@ II. - Sept ans pour :
 a) Les équipements matériels lourds énumérés au II de l'article R. 712-2 à
 l'exception des appareils de circulation sanguine extracorporelle ;
 
-b) Les activités de traitement de l'insuffisance rénale chronique mentionnées au
-III-10 de l'article R. 712-2.
+b) (Paragraphe supprimé)
 
 III. - Dix ans pour :
 

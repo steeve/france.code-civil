@@ -29,8 +29,7 @@ ci-après :
 
 2. Caisson hyperbare ;
 
-3. Appareils de dialyse, à l'exception de ceux utilisés pour la dialyse
-péritonéale ;
+3. (Paragraphe supprimé)
 
 4. Appareil destiné à la séparation in vivo des éléments figurés du sang ;
 
@@ -87,7 +86,8 @@ ci-après :
 
 9. Obstétrique, néonatologie, réanimation néonatale ;
 
-10. Traitement de l'insuffisance rénale chronique ;
+10. Traitement de l'insuffisance rénale chronique par la pratique de l'épuration
+extrarénale ;
 
 11. Activités cliniques d'assistance médicale à la procréation, activités
 biologiques d'assistance médicale à la procréation, activités de recueil,

@@ -23,6 +23,9 @@ a) Volume d'activité ou dépenses à la charge de l'assurance maladie ;
 
 b) Maintien des caractéristiques du projet après l'autorisation ;
 
+4° Comportant, le cas échéant, les conventions de coopération qu'il a passées
+avec un ou plusieurs autres établissements ;
+
 B. - Un dossier relatif aux personnels, faisant apparaître les engagements du
 demandeur en ce qui concerne les effectifs et la qualification des personnels,
 notamment médicaux, nécessaires à la mise en oeuvre du projet ;
