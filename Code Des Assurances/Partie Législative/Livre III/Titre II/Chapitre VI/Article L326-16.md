@@ -13,9 +13,11 @@ finances.
 
 Si, à la clôture de la liquidation, l'actif de l'entreprise cédante se révèle
 supérieur au passif transféré, l'excédent fait l'objet d'une répartition entre
-les anciens actionnaires ou associés. Les membres du conseil d'administration de
-l'entreprise transférée n'acquièrent, du fait du transfert d'office, aucun droit
-dans la gestion de l'entreprise absorbante, ni aucun droit à indemnité.
+les anciens actionnaires ou associés.
+
+Les membres du conseil d'administration de l'entreprise transférée n'acquièrent,
+du fait du transfert d'office, aucun droit dans la gestion de l'entreprise
+absorbante, ni aucun droit à indemnité.
 
 Les possibilités de reclassement du personnel de l'entreprise transférée dans
 l'entreprise absorbante font l'objet d'une convention entre les deux
@@ -29,7 +31,7 @@ transférés.
 
 Dans le cas de transfert d'office, le ministre de l'économie et des finances
 peut, après avis de la commission mentionnée à l'article L. 323-3, imposer au
-fonds de garantie institué par l'article L. 420-1 le versement à l'entreprise
+fonds de garantie institué par l'article L. 421-1 le versement à l'entreprise
 cessionnaire d'une somme dont il détermine le montant, et destinée à compléter
 les ressources affectées à l'indemnisation des dommages mentionnés à l'article
 L. 211-1.

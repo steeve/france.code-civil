@@ -23,7 +23,7 @@ La commission comprend au titre des représentants de la profession :
 représentant ;
 
 - le président du conseil d'administration du fonds de garantie institué par
-l'article L. 420-1, ou son représentant ;
+l'article L. 421-1, ou son représentant ;
 
 - le président de l'organisation professionnelle la plus représentative de la
 catégorie à laquelle appartient l'entreprise dont la situation doit faire

@@ -18,4 +18,4 @@ soumis à l'obligation prévue à l'article L. 211-1.
 
 Le liquidateur procède au recouvrement des rappels dont le produit, exclusif de
 tous frais et commissions, est versé au fonds de garantie institué par l'article
-L. 420-1 dans les dix jours suivant l'expiration de chaque trimestre.
+L. 421-1 dans les dix jours suivant l'expiration de chaque trimestre.
