@@ -1,15 +1,24 @@
 Article R2221-90
 ----
-La délibération du conseil municipal décidant de mettre fin à l'exploitation de
-la régie détermine la date à laquelle prennent fin les opérations de la régie.
+Le conseil municipal délibère sur l'affectation du résultat comptable de la
+section d'exploitation du budget selon les modalités suivantes :
 
-Les comptes sont arrêtés à cette date.
+I. - L'excédent comptable est affecté :
 
-Le maire est chargé de procéder à la liquidation de la régie ; à cet effet, il
-désigne un liquidateur dont il détermine les pouvoirs.
+1° En priorité au compte Report à nouveau dans la limite du solde débiteur de ce
+compte ;
 
-Les opérations de liquidation sont retracées dans une comptabilité tenue par
-l'agent comptable ; cette comptabilité est annexée à celle de la commune.
+2° Au financement des mesures d'investissement pour le montant des plus-values
+de cession d'éléments d'actif dans la limite du solde disponible ;
 
-Au terme des opérations de liquidation, l'actif et le passif sont repris au
-budget de la commune.
+3° Pour le surplus, au financement des charges d'exploitation ou
+d'investissement, en report à nouveau ou au reversement à la collectivité locale
+de rattachement.
+
+II. - Le déficit comptable est couvert :
+
+1° En priorité par une reprise totale ou partielle sur le report à nouveau
+débiteur ;
+
+2° Pour le surplus, par ajout aux charges d'exploitation de l'exercice qui suit
+celui au titre duquel est affecté le résultat.
