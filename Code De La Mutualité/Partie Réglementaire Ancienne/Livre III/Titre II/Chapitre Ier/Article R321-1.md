@@ -1,5 +1,16 @@
 Article R321-1
 ----
-Les règlements des caisses autonomes mutualistes et leurs modifications sont
-approuvés par le ministre chargé de la mutualité dans les conditions prévues à
-l'article R. 122-1 et à l'article R. 122-2 respectivement.
+Pour l'application des dispositions du présent titre, les risques mentionnés à
+l'article L. 321-1 sont classés comme suit :
+
+1. Accidents.
+
+2. Incapacité de travail ou invalidité résultant de la maladie et autres risques
+comportant le service de prestations au-delà d'un an [*durée*].
+
+3. Opérations comportant des engagements dont l'exécution dépend de la vie
+humaine (vieillesse, vie, décès).
+
+4. Prévoyance collective mentionnée à l'article L. 121-1 (2e alinéa).
+
+5. Réassurance d'opérations pratiquées par les caisses autonomes mutualistes.
