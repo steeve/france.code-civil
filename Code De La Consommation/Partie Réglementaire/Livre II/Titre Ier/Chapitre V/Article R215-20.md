@@ -1,9 +1,14 @@
 Article R215-20
 ----
-Le laboratoire dresse, dès l'achèvement de ses travaux, un rapport où sont
-consignés les résultats de l'examen et des analyses auxquels cet échantillon a
-donné lieu.
+Le laboratoire d'Etat, mentionné à l'article R. 215-18, dresse, dès l'achèvement
+de ses travaux, ou dès la réception des résultats des analyses ou essais confiés
+aux laboratoires admis à procéder à l'expertise en vertu des articles R.
+215-18-1 et R. 215-18-2, un rapport où sont consignés et interprétés les
+résultats de l'examen et des analyses auxquels cet échantillon a donné lieu.
 
-Ce rapport est adressé au préfet du département d'où provient cet échantillon.
-Dans le ressort de la préfecture de police, le rapport est adressé au préfet de
-police.
+Lorsqu'il est fait appel à un laboratoire relevant des articles R. 215-18-1 ou
+R. 215-18-2, ses rapports d'analyses ou essais sont joints au rapport du
+laboratoire d'Etat.
+
+Le rapport du laboratoire d'Etat est adressé au préfet du département d'où
+provient cet échantillon.
