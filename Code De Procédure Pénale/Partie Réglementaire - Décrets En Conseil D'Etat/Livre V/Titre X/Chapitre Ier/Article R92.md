@@ -72,4 +72,8 @@ décembre 1990 sur la réglementation des télécommunications ;
 
 20° Les indemnités et vacations qui peuvent être accordées aux membres
 titulaires et suppléants de la formation de jugement de la Cour de justice de la
-République selon les modalités prévues au décret n° 95-692 du 9 mai 1995.
+République selon les modalités prévues au décret n° 95-692 du 9 mai 1995 ;
+
+21° Les frais des administrateurs ad hoc lorsqu'ils figurent sur la liste prévue
+à l'article R. 53 ou qu'il a été fait application des dispositions de l'article
+R. 53-6.
