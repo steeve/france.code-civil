@@ -26,20 +26,19 @@ et des finances.
 
 IV. (Disjoint. Disposition non fiscale).
 
-V. 1. L'Etat opère un prélèvement (3) au titre des frais d'assiette, de
-recouvrement, de dégrèvement et de non-valeurs afférents aux droits et taxes
-transférés aux départements et à la région de Corse en application des articles
-1594 A, 1599 C et 1599 nonies. Ce prélèvement est calculé en sus des droits et
-taxes.
+V. 1. L'Etat perçoit au titre de frais d'assiette, de recouvrement, de
+dégrèvements et de non-valeurs 2,50 % du montant des taxes et droits
+départementaux ou des taxes régionales mentionnés aux articles 1594 A, 1599 C et
+1599 nonies. Cette somme esr calculée en sus du montant de ces droits et taxes
+et selon les modalités définies aux 2 et 3.
 
 2. Les sommes perçues au titre des frais d'assiette et de recouvrement afférents
 à la taxe de publicité foncière et aux droits d'enregistrement sont recouvrées
 en négligeant les centimes (4).
 
 3. Les frais d'assiette et de recouvrement afférents à la taxe différentielle
-sur les véhicules à moteur et à la taxe spéciale sur les voitures particulières
-de plus de 16 CV sont perçus dans les conditions fixées aux articles 1599 I et
-1599 nonies, deuxième alinéa (5).
+sur les véhicules à moteur sont perçus dans les conditions fixées aux articles
+1599 I et 1599 nonies, deuxième alinéa (5).
 
 (1) Pour les taxes parafiscales, voir Annexe II, art. 367.
 

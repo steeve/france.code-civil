@@ -1,7 +1,7 @@
 Article 1582
 ----
 Les communes sur le territoire desquelles sont situées des sources d'eaux
-minérales peuvent percevoir une surtaxe dans la limite de 0,015 F [*montant*]
+minérales peuvent percevoir une surtaxe dans la limite de 0,020 F [*montant*]
 par litre ou fraction de litre (1).
 
 Lorsque le produit de cette surtaxe excède le montant des ressources ordinaires

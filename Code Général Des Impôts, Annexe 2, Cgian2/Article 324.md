@@ -3,7 +3,8 @@ Article 324
 En exécution de l'article 1607 du code général des impôts, sont applicables à la
 taxe spéciale d'équipement :
 
-1° Les dispositions des articles 1390, premier alinéa, et 1414 dudit code (1);
+1° Les dispositions des articles 1390, premier alinéa, 1414 et 1414 A dudit code
+(1);
 
 2° Les dispositions des chapitres Ier à IV du livre II du même code relatives au
 recouvrement des contributions directes.

@@ -82,6 +82,12 @@ partie de leur bénéfice net provenant des opérations de crédit-bail et de
 location ou des plus-values qu'elles réalisent dans le cadre des opérations de
 crédit-bail ;
 
+3° septies. Les sociétés de capital-risque qui fonctionnent dans les conditions
+prévues à l'article 1er de la loi 85-695 du 11 juillet 1985 pour les produits et
+plus-values nets provenant des titres de sociétés non-cotées qu'elles détiennent
+ainsi que pour les produits et plus-values nets d'autres placements effectués
+dans la limite du tiers de ce portefeuille de titres (3);
+
 4° Les associations de mutilés de guerre et d'anciens combattants reconnues
 d'utilité publique, émettant des participations à la loterie nationale avec
 l'autorisation du ministre des anciens combattants et sous le contrôle organisé
@@ -105,3 +111,5 @@ de terrains leur appartenant.
 (2) La liste des installations et matériels concernés a été fixée par le décret
 n° 81-37 du 20 janvier 1981 (J.O. du 21), complété par le décret n° 83-832 du 16
 septembre 1983 (J.O. du 21).
+
+(3) Voir le décret n° 85-1102 du 9 octobre 1985 et Annexe II, art. 140 ter.

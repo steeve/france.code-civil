@@ -7,17 +7,20 @@ N'entrent pas en compte pour la détermination du revenu net global :
 2° bis (Périmé) ;
 
 3° Les lots et les primes de remboursement attachés aux bons et obligations émis
-en France avant le 1er juin 1985 avec l'autorisation du ministre de l'économie
-et des finances ;
+en France avec l'autorisation du ministre de l'économie et des finances à
+l'exception des primes de remboursement attachées aux titres émis à compter du
+1er juin 1985 lorsqu'elles sont supérieures à 5 % [*pourcentage maximal*] du
+nominal (1) ;
 
-3°bis Les primes de remboursement attachées aux titres émis à compter du 1er
-juin 1985 lorsqu'elles ne sont pas supérieures à 5 % [*pourcentage maximal*] du
-nominal.
+3° bis (Dispositions transférées sous le 3 °) ;
 
 4° Les pensions, prestations et allocations affranchies de l'impôt en vertu de
 l'article 81 ;
 
-5° (Disposition périmée) ;
+5° Les produits et plus-values que procurent les placements effectués dans le
+cadre d'un plan d'épargne en vue de la retraite ainsi que les avoirs fiscaux et
+crédits d'impôt attachés à ces produits et remboursés par l'Etat ; ces sommes
+s'ajoutent aux versements effectués sur le plan (2) ;
 
 6° Les gratifications allouées aux vieux travailleurs à l'occasion de la
 délivrance de la médaille d'honneur par le ministère des affaires sociales ;
@@ -46,7 +49,7 @@ et de l'habitation ainsi que la prime d'épargne versée aux titulaires de ces
 comptes ;
 
 9° ter. Les intérêts versés au titulaire du compte d'épargne sur livret ouvert
-en application de l'article 80 de la loi n° 76-1232 du 29 décembre 1976 (1) :
+en application de l'article 80 de la loi n° 76-1232 du 29 décembre 1976 (3) :
 
 - aux travailleurs, salariés de l'artisanat, des ateliers industriels, des
 chantiers et de l'agriculture ;
@@ -70,10 +73,10 @@ Il ne peut être ouvert qu'un compte par contribuable ou un pour chacun des épo
 soumis à une imposition commune.
 
 Les sommes déposées sur le compte prévu au premier alinéa ne peuvent excéder un
-plafond fixé par décret (2) dans la limite de 20.000 F par compte.
+plafond fixé par décret (4) dans la limite de 20.000 F par compte.
 
 Les valeurs mobilières sont celles servant au financement de l'industrie
-française et entrant dans des catégories fixées par décret (3) ;
+française et entrant dans des catégories fixées par décret (5) ;
 
 9° quinquies. Les intérêts des sommes inscrites sur les livrets
 d'épargne-entreprise ouverts dans les conditions fixées par l'article 1er de la
@@ -102,11 +105,19 @@ d'assurance-vieillesse des artisans et commerçants, en application de l'article
 d'indemnisation créés en application de la loi n° 78-1 du 2 janvier 1978
 relative à l'indemnisation des français rapatriés d'outre-mer.
 
-(1) Les livrets d'épargne au profit des travailleurs manuels peuvent être
-transformés en livret d'épargne-entreprise dans les conditions fixées par le
-décret n° 85-68 du 22 janvier 1985 (J.O. du 23).
+21° Les avantages visés à l'article 163 bis D.
 
-(2) Plafond fixé à 10.000 F par compte (décret n° 83-872 du 30 septembre 1983,
+(1) Voir article 125 D.
+
+(2) Annexe III, 41 ZC et 41 ZG.
+
+(3) A compter de la date de promulgation de la loi n°84-578 du 9 juillet 1984,
+il ne peut plus être ouvert de livrets. Les livrets d'épargne au profit des
+travailleurs manuels peuvent être transformés en livret d'épargne-entreprise
+dans les conditions fixées par le décret n° 85-68 du 22 janvier 1985 (J.O. du
+23).
+
+(4) Plafond fixé à 10.000 F par compte (décret n° 83-872 du 30 septembre 1983,
 JO du 2 octobre).
 
-(3) Décret n° 83-872 du 30 septembre 1983 (JO du 2 octobre).
+(5) Décret n° 83-872 du 30 septembre 1983 (JO du 2 octobre).

@@ -47,8 +47,8 @@ majorées d'un tiers ;
 professionnel peut être actualisée au moyen d'un coefficient unique par
 département.
 
-IV. L'actualisation des valeurs locatives foncières prévue pour 1983 est
-remplacée par une revalorisation forfaitaire dans les conditions prévues à
+IV. Les actualisations des valeurs locatives foncières prévues pour 1983 et 1986
+sont remplacées par une revalorisation forfaitaire dans les conditions prévues à
 l'article 1518 bis, deuxième et troisième alinéas.
 
 (1) Actuellement, 1er janvier 1970.

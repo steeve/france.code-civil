@@ -14,12 +14,11 @@ II. L'exonération est subordonnée aux conditions suivantes :
 1° Ces fonds doivent être soumis aux dispositions du titre II bis de la loi n°
 79-594 du 13 juillet 1979 relative aux fonds communs de placement et leurs
 actifs doivent être constitués de façon constante et pour 40 % au moins de
-titres émis :
-
-a. Aux fins d'augmentations de capital en numéraire réalisées après le 1er
-janvier 1984 par des sociétés soumises à l'impôt sur les sociétés exerçant une
-activité visée à l'article 34 et dont les actions ne sont pas admises à la cote
-officielle ou à la cote du second marché ;
+titres, y compris les obligations convertibles, émis. a. Aux fins
+d'augmentations de capital en numéraire réalisées après le 1er janvier 1984 par
+des sociétés soumises à l'impôt sur les sociétés exerçant une activité visée à
+l'article 34 et dont les actions ne sont pas admises à la cote officielle ou à
+la cote du second marché ;
 
 b. Ou aux fins de constitution du capital de sociétés définies au a, réalisée
 par apport en numéraire après le 1er janvier 1984 ;
@@ -46,6 +45,7 @@ IV. Un décret (1) fixe les obligations incombant aux porteurs de parts ainsi
 qu'aux gérants et dépositaires des fonds mentionnés au présent article et aux
 fonds définis au titre II bis de la loi n° 79-594 du 13 juillet 1979 (2).
 
-(1) Décret à émettre.
+(1) Annexe III, art. 41 W à 41 X. Voir également Annexe III, art. 39 quater, 39
+quinquies, 41 sexdecies G, 280 A et livre des procédures fiscales, art. R 87-1.
 
 (2) Complétée par la loi n° 83-1 du 3 janvier 1983, art. 23.
