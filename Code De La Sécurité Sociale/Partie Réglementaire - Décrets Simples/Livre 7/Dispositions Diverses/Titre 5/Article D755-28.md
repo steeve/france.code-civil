@@ -11,6 +11,10 @@ et du ministre chargé des départements et des territoires d'outre-mer, pris
 après avis du conseil d'administration de la caisse nationale des allocations
 familiales.
 
+L'arrêté mentionné à l'alinéa précédent fixe par ailleurs le montant forfaitaire
+servant au calcul du RP et les modalités de calcul de la participation
+personnelle prévus au I de l'article D. 542-5.
+
 Cet arrêté fixe également, compte tenu de la date à laquelle ont été contractés
 les emprunts faisant l'objet du certificat de prêt prévu à l'article D. 755-27,
 le plafond mensuel dans la limite duquel sont prises en considération les sommes
@@ -35,22 +39,8 @@ Ce montant est augmenté de la majoration forfaitaire représentative des charge
 
 Lorsque plusieurs personnes ou ménages constituant des foyers distincts occupent
 le même logement et qu'ils sont cotitulaires du bail ou de l'engagement de
-location, l'élément L de la formule de calcul tel que défini à l'article D.
-542-5 représente le quotient du loyer effectivement payé par le nombre de
-cotitulaires du bail ou de l'engagement de location, le résultat étant pris en
-compte dans la limite d'un loyer de référence correspondant à la situation
-familiale de chacun des intéressés et défini par arrêté conjoint des ministres
-chargés de la sécurité sociale, du budget, de l'agriculture, du logement et des
-départements d'outre-mer.
-
-Dans le cas visé à l'alinéa précédent, il est fait application à chaque personne
-ou ménage concerné :
-
-- du coefficient N correspondant à la situation familiale du ménage ou de la
-personne tel que défini à l'article D. 755-24 ;
-
-- de l'élément C prévu au présent article dans les conditions fixées par
-l'arrêté mentionné ci-dessus.
+location, le montant mensuel de la majoration forfaitaire représentative des
+charges est fixé par l'arrêté mentionné au premier alinéa. ;
 
 Lorsque plusieurs personnes ou ménages constituant des foyers distincts occupent
 le même logement et qu'ils sont copropriétaires du logement et cotitulaires du
