@@ -65,6 +65,13 @@ informations ci-dessus ainsi que d'autres informations compatibles avec le
 résumé des caractéristiques du produit. Ces éléments doivent être utiles pour
 l'éducation sanitaire et ne présenter aucun caractère promotionnel.
 
+Lorsque le médicament ou produit a des effets sur la capacité de conduire des
+véhicules ou d'utiliser des machines, mentionnés au p de l'article R. 5128-2,
+son conditionnement extérieur doit comporter un pictogramme, dont le modèle est
+déterminé par arrêté du ministre chargé de la santé pris sur proposition du
+directeur général de l'Agence française de sécurité sanitaire des produits de
+santé.
+
 Les mentions prévues ci-dessus doivent être rédigées en français. Elles peuvent
 en outre être rédigées dans d'autres langues, à condition que les mêmes mentions
 figurent dans toutes les langues utilisées.
