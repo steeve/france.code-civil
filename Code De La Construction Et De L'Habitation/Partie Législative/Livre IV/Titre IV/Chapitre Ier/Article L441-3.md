@@ -1,14 +1,31 @@
 Article L441-3
 ----
-Les organismes d'habitations à loyer modéré peuvent exiger des locataires dont
-les ressources dépassent les plafonds fixés pour l'attribution du logement à
-loyer modéré qu'ils occupent le paiement d'un supplément en sus du loyer
-principal et des charges locatives. Le montant de ce supplément est déterminé
-selon un barème qu'ils établissent par immeuble ou groupe d'immeubles, en
-fonction de l'importance du dépassement constaté, du loyer acquitté ainsi que du
-nombre et de l'âge des personnes vivant au foyer. Le représentant de l'Etat dans
-le département du siège de l'organisme et celui du département du lieu de
-situation des logements reçoivent communication du barème. A défaut d'opposition
-motivée du représentant de l'Etat dans le département du siège de l'organisme
-dans le délai d'un mois à compter de la plus tardive de ces communications, ce
-barème est exécutoire.
+Les organismes d'habitations à loyer modéré peuvent exiger des locataires des
+logements visés au premier alinéa de l'article L. 441-1 le paiement d'un
+supplément de loyer de solidarité en sus du loyer principal et des charges
+locatives dès lors qu'au cours du bail les ressources de l'ensemble des
+personnes vivant au foyer excèdent d'au moins 10 p. 100 les plafonds de
+ressources en vigueur pour l'attribution de ces logements. Ils doivent exiger le
+paiement d'un tel supplément dès lors qu'au cours du bail le dépassement du
+plafond de ressources est d'au moins 40 p. 100.
+
+Les ressources sont appréciées selon les modalités applicables en matière
+d'attribution des logements. Toutefois, les dernières ressources connues de
+l'ensemble des personnes vivant au foyer sont prises en compte sur demande du
+locataire qui justifie que ces ressources sont inférieures d'au moins 10 p. 100
+à celles de l'année de référence. En outre, il est tenu compte de l'évolution de
+la composition familiale intervenue dans l'année en cours à la condition qu'elle
+soit dûment justifiée.
+
+Les plafonds pris en compte sont ceux qui sont applicables à la date à laquelle
+le supplément de loyer est exigé.
+
+Chaque organisme d'habitations à loyer modéré détermine, selon les conditions
+fixées ci-après, les modalités de calcul du montant du supplément de loyer de
+solidarité.
+
+Les dispositions du présent article ne sont pas applicables dans les zones de
+revitalisation rurale telles que définies par la loi n° 95-115 du 4 février 1995
+d'orientation pour l'aménagement et le développement du territoire, les grands
+ensembles et les quartiers d'habitat dégradé mentionnés au I de l'article 1466 A
+du code général des impôts.

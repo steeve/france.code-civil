@@ -26,21 +26,21 @@ Il détermine également les limites et conditions de réservation des logements
 par le représentant de l'Etat dans le département au profit des personnes
 prioritaires, notamment mal logées ou défavorisées.
 
-" Les organismes d'habitations à loyer modéré informent chaque année le conseil
+Les organismes d'habitations à loyer modéré informent chaque année le conseil
 municipal des communes sur le territoire desquelles ils possèdent plus de cent
 logements de la politique générale qu'ils poursuivent en ce qui concerne
 notamment l'entretien, les travaux de réhabilitation ou d'aménagement, le loyer
 et la politique d'attribution de ces logements et les demandes en attente.
 
-" Le maire d'une commune sur le territoire de laquelle sont implantés des
+Le maire d'une commune sur le territoire de laquelle sont implantés des
 logements à usage locatif est entendu, à sa demande, par le conseil
 d'administration des organismes d'habitations à loyer modéré. Il est informé
 tous les trois mois des attributions de logements effectuées par ces organismes.
 
-" Il participe aux délibérations de la commission d'attribution des logements.
+Il participe aux délibérations de la commission d'attribution des logements.
 
-" Les dispositions des quatrième et cinquième alinéas sont applicables aux
+Les dispositions des quatrième et cinquième alinéas sont applicables aux
 sociétés civiles immobilières dont le capital est constitué majoritairement par
 les fonds provenant de la participation des employeurs à l'effort de
 construction et aux sociétés d'économie mixte locales d'aménagement et de
-construction. "
+construction.

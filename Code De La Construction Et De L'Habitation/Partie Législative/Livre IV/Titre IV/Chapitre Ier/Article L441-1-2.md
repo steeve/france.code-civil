@@ -7,5 +7,5 @@ est incluse dans un grand ensemble anciennement classé en zone à urbaniser par
 priorité, une commission d'attribution chargée d'attribuer nominativement chacun
 de ces logements locatifs.
 
-" Le maire de la commune où sont implantés les logements attribués, ou son
-représentant, est membre de droit de ladite commission. "
+Le maire de la commune où sont implantés les logements attribués, ou son
+représentant, est membre de droit de ladite commission.
