@@ -1,7 +1,7 @@
 Article 298 bis
 ----
-I Pour leurs opérations agricoles, les exploitants agricoles sont placés sous le
-régime du remboursement forfaitaire prévu aux articles 298 quater et 298
+I. Pour leurs opérations agricoles, les exploitants agricoles sont placés sous
+le régime du remboursement forfaitaire prévu aux articles 298 quater et 298
 quinquies. Ils sont dispensés du paiement de la taxe sur la valeur ajoutée et
 des obligations qui incombent aux assujettis.
 
@@ -13,8 +13,8 @@ l'article 287-1 et doivent seulement déposer avant le 5 mai de chaque année
 [*date limite*] une déclaration indiquant les éléments de liquidation de la taxe
 sur la valeur ajoutée afférente à l'année écoulée;
 
-2° Le fait générateur de la taxe sur la valeur ajoutée due à raison des ventes
-effectuées par eux est constitué par l'encaissement des acomptes ou du prix;
+2° L'exigibilité de la taxe sur la valeur ajoutée due à raison des ventes
+effectuées par eux intervient lors de l'encaissement des acomptes ou du prix ;
 
 3° Ils peuvent opérer immédiatement la déduction de la taxe ayant grevé les
 biens ne constituant pas des immobilisations et les services, par imputation sur
@@ -59,22 +59,33 @@ signalent au service des impôts avant le 1er février et qu'ils n'aient pas
 bénéficié, au cours de cette période de trois ans, de remboursement de crédit de
 taxe.
 
-III L'option peut être exercée distinctement pour les ventes d'animaux vivants
+Pour les groupements agricoles d'exploitation en commun [*GAEC*] dont tous les
+associés participent effectivement et régulièrement à l'activité du groupement
+par leur travail personnel, la moyenne des recettes mentionnée aux premier et
+deuxième alinéa est fixée à 360.000 F (3).
+
+III. L'option peut être exercée distinctement pour les ventes d'animaux vivants
 de boucherie et de charcuterie et pour les autres activités agricoles.
 
 Les conditions et les modalités de l'option sont fixées par décret en conseil
 d'Etat. Ce décret, qui énumère les animaux de boucherie et de charcuterie dont
 la vente peut faire l'objet d'une option spéciale, peut notamment prévoir
 l'identification ou le marquage des animaux et la tenue d'une comptabilité
-matière les concernant (3).
+matière les concernant (4).
 
 Les caractéristiques des activités soumises obligatoirement à la taxe sur la
 valeur ajoutée en application du II sont précisées en tant que de besoin par
 décret en conseil d'Etat, après avis des organisations professionnelles
 intéressées (1) (2).
 
-1) Annexe II, art. 260 A et 260 B.
+IV. En cas de cession ou de cessation de leur activité, les exploitants
+agricoles sont tenus de souscrire dans les trente jours la déclaration prévue au
+1° du I ou, le cas échéant, au deuxième alinéa du I de l'article 1693 bis.
 
-2) Annexe II, art. 260 C.
+(1) Annexe II, art. 260 A et 260 B.
 
-3) Annexe II, art. 260 D à 260 I et 267 quater.
+(2) Annexe II, art. 260 C.
+
+(3) Limite applicable à compter du 1er janvier 1984.
+
+(4) Annexe II, art. 260 D à 260 I et 267 quater.

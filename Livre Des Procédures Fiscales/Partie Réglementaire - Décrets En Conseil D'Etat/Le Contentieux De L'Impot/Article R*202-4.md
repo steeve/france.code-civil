@@ -19,4 +19,4 @@ rapport au greffe. Les conclusions du contribuable et de l'administration sur ce
 rapport sont formulées par mémoires respectivement signifiés dans les deux mois
 qui suivent cette notification.
 
-A l'expiration de ce délai, le tribunal statue en audience publique.
+Le tribunal statue à l'expiration de ce délai.

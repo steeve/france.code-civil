@@ -1,14 +1,14 @@
 Article 1649 ter F
 ----
-I. Les particuliers non commerçants doivent effectuer le règlement des
-transactions d'un montant supérieur à 10.000 F portant sur des bijoux,
-pierreries, objets d'art, de collection ou d'antiquité soit par chèque répondant
-aux caractéristiques de barrement d'avance et de non-transmissibilité par voie
-d'endossement mentionnées à l'article L. 96 du livre des procédures fiscales,
-soit par virement bancaire ou postal [*obligation de paiement par chèque*].
+Tout règlement d'un montant supérieur à 10.000 F, effectué par un particulier
+non commerçant, en paiement d'un bien ou d'un service, doit être opéré soit par
+chèque répondant aux caractéristiques de barrement d'avance et de
+non-transmissibilité par voie d'endossement mentionnées à l'article L. 96 du
+livre des procédures fiscales, soit par virement bancaire ou postal, soit par
+carte de paiement ou de crédit.
 
-II. Les ressortissants étrangers ne possédant ni domicile fiscal ni compte en
-banque en France peuvent continuer d'effectuer le règlement de leurs achats
-supérieurs à 10.000 F portant sur des bijoux, pierreries, objets d'art ou de
-collection, en chèques de voyage ou en billets après relevé de leur identité par
-le vendeur.
+Toutefois, les particuliers non commerçants n'ayant pas leur domicile fiscal en
+France pouuront continuer d'effectuer le règlement de tout bien ou service d'un
+montant supérieur à 10.000 F en chèques de voyage ou en billets, après relevé,
+par le vendeur du bien ou le prestataire de service, de leur identité et
+domicile justifiés.

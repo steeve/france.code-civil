@@ -12,7 +12,7 @@ de commerce [*VRP*], établie par la loi du 8 octobre 1919 ;
 b. 25 F pour la carte frontalière visée à l'article 16 de la loi du 31 décembre
 1917 ;
 
-c. 100 F [*montant*] pour toutes autres cartes d'identité.
+c. 105 F [*montant*] pour toutes autres cartes d'identité.
 
 Le droit de timbre se substitue, le cas échéant, aux diverses taxes auxquelles
 donnaient ouverture, en vertu des lois précitées, les cartes comprises dans les

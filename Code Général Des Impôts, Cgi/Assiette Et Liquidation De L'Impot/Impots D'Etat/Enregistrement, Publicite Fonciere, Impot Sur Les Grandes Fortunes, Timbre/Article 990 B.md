@@ -7,4 +7,5 @@ dernière date inclusivement, au remboursement du bon.
 
 Si la période allant de l'émission au remboursement du bon est inférieure à un
 an et si elle ne comprend pas un 1er janvier, ce prélèvement est calculé en
-proportion de la durée du bon par rapport à une année entière.
+proportion de la durée du bon par rapport à une année entière. A compter du 1er
+janvier 1984, le taux est de 2 %.

@@ -6,5 +6,5 @@ pour un montant total égal ou supérieur à 0,50 % de l'encours de ces crédits
 des provisions individualisées répondant aux conditions de l'article 39-1-5°,
 premier alinéa, du code général des impôts, les caisses de crédit agricole sont
 tenues de faire figurer au 1er janvier 1979 à leur bilan la provision prévue au
-septième alinéa de l'article précité. Le taux de cette provision est fixé à 0,50
+huitième alinéa de l'article précité. Le taux de cette provision est fixé à 0,50
 %.

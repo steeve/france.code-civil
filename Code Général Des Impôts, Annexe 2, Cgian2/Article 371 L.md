@@ -15,7 +15,7 @@ En cas de première adhésion à un centre agréé pour l'imposition du bénéfi
 l'exercice ouvert depuis moins de trois mois à la date de l'adhésion;
 
 En cas de retrait d'agrément, pour l'imposition du bénéfice de l'année ou de
-l'exercice en cours déclaré dans les conditions prévues à l'article 53 du code
+l'exercice en cours déclaré dans les conditions prévues à l'article 53 A du code
 général des impôts.
 
 Les déclarations de résultats des membres adhérents d'un centre de gestion agréé

@@ -1,7 +1,7 @@
 Article 126
 ----
 1. Les dispositions des articles 39-1-5°, deuxième, quatrième, cinquième et
-septième alinéas, 39 bis, 39 quinquies A, 219-II et III et 238 octies du code
+huitième alinéas, 39 bis, 39 quinquies A, 219-II et III et 238 octies du code
 général des impôts ne sont pas applicables pour la détermination du résultat
 d'ensemble des sociétés agréées en vertu de l'article 104 [*bénéfice mondial*]
 ou du résultat consolidé des sociétés agréées en vertu de l'article 113

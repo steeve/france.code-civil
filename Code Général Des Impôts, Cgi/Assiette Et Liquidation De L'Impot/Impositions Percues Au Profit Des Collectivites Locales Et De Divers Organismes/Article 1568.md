@@ -3,7 +3,7 @@ Article 1568
 Les débitants d'alcool acquittent une licence, valable pour un seul
 établissement.
 
-Les tarifs annuels sont ainsi fixés, pour les débits d'alcool pourvus d'une
+Les tarifs annuels sont ainsi fixés (1), pour les débits d'alcool pourvus d'une
 licence restreinte comportant la vente d'alcool à emporter, ou à consommer sur
 place à l'occasion des repas et comme accessoire de la nourriture, ou encore la
 vente de vins de liqueur ou de boissons similaires, d'apéritifs à base de vin,
@@ -18,13 +18,13 @@ de 18 degrés d'alcool :
 
 : : : :
 
-: 1.000 habitants et au-dessous : 6 : 120 :
+: 1.000 habitants et au-dessous : 125 : 250 :
 
-: 1.001 à 10.000 habitants : 12 : 240 :
+: 1.001 à 10.000 habitants : 250 : 500 :
 
-: 10.001 à 50.000 habitants : 18 : 360 :
+: 10.001 à 50.000 habitants : 375 : 750 :
 
-: Plus de 50.000 habitants : 24 : 480 :
+: Plus de 50.000 habitants : 500 : 1.000 :
 
 =================================================================== Ces tarifs
 sont doublés pour les débits pourvus de licences dites "de plein exercice"
@@ -37,3 +37,5 @@ doit être fixé en unités de francs.
 Le chiffre de la population servant de base au calcul de la licence est le
 chiffre de la population recensée, déduction faite de la population comptée à
 part.
+
+(1) Tarifs applicables à compter du 1er janvier 1985.

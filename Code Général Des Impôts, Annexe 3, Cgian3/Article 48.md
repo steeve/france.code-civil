@@ -3,7 +3,7 @@ Article 48
 1 Les gérants des sociétés en nom collectif ou en commandite simple qui n'ont
 pas opté pour le régime fiscal des sociétés de capitaux sont tenus de fournir au
 service des impôts, en même temps que la déclaration annuelle prévue aux
-articles 53, 97 et 101 du code général des impôts, un état indiquant
+articles 53 A, , 97 et 101 du code général des impôts, un état indiquant
 [*mentions*] :
 
 1° Les noms, prénoms et domiciles des associés;

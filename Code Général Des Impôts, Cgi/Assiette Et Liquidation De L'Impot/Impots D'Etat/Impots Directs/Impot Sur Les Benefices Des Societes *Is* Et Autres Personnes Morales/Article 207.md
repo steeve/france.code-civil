@@ -44,6 +44,14 @@ nécessaires tendant à prouver qu'elles fonctionnent conformément aux
 dispositions législatives et réglementaires relatives au statut juridique de la
 coopération agricole ;
 
+3° bis Lorsqu'elles fonctionnent conformément aux dispositions de la loi n°
+83-657 du 20 juillet 1983 relative au développement de certaines activités
+d'économie sociale, les coopératives artisanales et leurs unions, les
+coopératives d'entreprises de transports, les coopératives artisanales de
+transport fluvial ainsi que les coopératives maritimes et leurs unions, visées
+au chapitre Ier du titre III de la même loi, sauf pour les affaires effectuées
+avec des non-sociétaires ;
+
 4° Les offices publics d'habitations à loyer modéré [*HLM*], les sociétés
 d'habitations à loyer modéré et les sociétés anonymes de crédit immobilier régis
 par les articles L 411-1 et suivants du code de la construction et de
@@ -51,7 +59,7 @@ l'habitation, ainsi que les unions de ces offices et sociétés ;
 
 4° bis. Les offices publics d'aménagement et de construction visés à l'article L
 421-1 du code de la construction et de l'habitation pour les opérations faites
-en application de la législation sur les habitations à loyer modéré (1) ;
+en application de la législation sur les habitations à loyer modéré ;
 
 5° Les bénéfices réalisés par des associations sans but lucratif régies par la
 loi du 1er juillet 1901 organisant, avec le concours des communes ou des
@@ -67,7 +75,7 @@ ajoutée ;
 6° Les départements, communes et syndicats de communes, ainsi que leurs régies
 de services publics ;
 
-6° bis. Dans les conditions qui sont fixées par décret (2), les établissements
+6° bis. Dans les conditions qui sont fixées par décret (1), les établissements
 publics et sociétés concessionnaires visés à l'article L 321-1, premier alinéa,
 du Code de l'urbanisme ;
 
@@ -138,25 +146,6 @@ personnel que comme mandataire, d'un nombre de voix supérieur à 5 % du nombre
 total des voix attachées aux actions effectivement représentées à ladite
 assemblée.
 
-3. Les caisses locales de crédit mutuel adhérentes à la confédération nationale
-du crédit mutuel qui, non soumises aux dispositions législatives et
-réglementaires concernant le crédit agricole mutuel, sont régies par les
-dispositions de l'article 5 de l'ordonnance n° 58-966 du 16 octobre 1958 et
-fonctionnent conformément aux dispositions du décret n° 62-1305 du 6 novembre
-1962 sont assujetties à l'impôt sur les sociétés dans les conditions prévues à
-l'article 206-5.
+3. (Abrogé).
 
-Toutefois, elles sont exonérées dudit impôt pour les revenus de capitaux
-mobiliers qui proviennent du placement des fonds qu'elles ont reçus en dépôt.
-Les modalités et conditions d'application de la présente disposition sont fixées
-par décret.
-
-(1) Disposition entrée en vigueur dans les délais normaux de publication du
-décret n° 73-986 du 22 octobre 1973 relatif aux offices publics d'aménagement et
-de construction institués par transformation d'offices publics d'habitation à
-loyer modéré (J.O. du 26-10-1973).
-
-(2) Annexe III, art. 46 bis à 46 quater.
-
-(3) Disposition entrée en vigueur dans les délais normaux de publication des
-décrets n° 74-239, 74-240 et 74-241 du 15 mars 1974 (J.O. du 16).
+(1) Annexe III, art. 46 bis à 46 quater.

@@ -18,9 +18,9 @@ apportée, de ce chef, au bénéfice imposable.
 2° Les amortissements effectués suivant les règles applicables en matière de
 bénéfices industriels et commerciaux.
 
-3° Les loyers versés en exécution d'un contrat de crédit-bail ou de location au
-sens de l'article 281 bis C portant sur des voitures particulières, à
-l'exclusion de la part de loyer visée à l'article 39-4.
+3° Les loyers versés en exécution d'un contrat de crédit-bail ou de location
+portant sur des voitures particulières, à l'exclusion de la part de loyer visée
+à l'article 39-4.
 
 Les dépenses exposées pour la tenue de la comptabilité et, éventuellement, pour
 l'adhésion à une association agréée ne sont pas prises en compte pour la
@@ -54,6 +54,13 @@ La déduction forfaitaire de 10 % [*pourcentage*] pour frais professionnels,
 prévue à l'article 83-3°, s'applique au montant brut des droits perçus diminué
 des cotisations payées au titre des régimes obligatoire et complémentaire
 obligatoire de sécurité sociale.
+
+En sus de la déduction forfaitaire visée au deuxième alinéa, les écrivains et
+compositeurs peuvent bénéficier d'une déduction forfaitaire supplémentaire pour
+frais professionnels dont le taux est fixé à 25 %. Cette déduction
+supplémentaire est calculée sur le montant brut des droits après application de
+la déduction forfaitaire pour frais professionnels de 10 %. Elle est limitée à
+50.000 F.
 
 2. Dans le cas de concession de licence d'exploitation d'un brevet, ou de
 cession ou de concession d'un procédé ou formule de fabrication par l'inventeur

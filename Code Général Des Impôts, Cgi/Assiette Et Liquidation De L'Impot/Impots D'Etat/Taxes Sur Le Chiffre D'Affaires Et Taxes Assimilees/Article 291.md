@@ -9,10 +9,11 @@ admission temporaire, entrepôt, magasins et aires de dédouanement,
 perfectionnement actif, transit, ainsi que les prestations de services relatives
 à ces biens (1);
 
-2° Dans les conditions prévues à l'article 189 du code des douanes, les biens
-faisant l'objet d'une admission exceptionnelle en franchise des droits de
-douane, autre que celles prévues dans le tarif douanier commun, ou qui seraient
-susceptibles d'en bénéficier s'ils étaient importés de pays tiers;
+2° Les biens importés définitivement dans le cadre des franchises fiscales
+communautaires et qui sont désignés par arrêté.
+
+Cet arrêté détermine également les modalités d'application du présent paragraphe
+(2) ;
 
 3° Les produits suivants :
 
@@ -30,7 +31,7 @@ d'ouvrages;
 
 5° Dans les conditions fixées par arrêté du ministre du budget, les navires,
 aéronefs, objets incorporés, engins et filets pour la pêche maritime prévus à
-l'article 262 II-2° à 5° (2);
+l'article 262 II-2° à 5° (3);
 
 6° Les produits de la pêche en l'état ou ayant fait l'objet d'opérations
 destinées à les préserver en vue de leur commercialisation importés par les
@@ -44,7 +45,7 @@ d'antiquité, lorsque l'importation est réalisée directement à destination, s
 de négociants qui destinent ces oeuvres ou objets à la revente, soit
 d'établissements agréés par le ministre de la culture et de la communication;
 les conditions d'application de ces dispositions sont fixées par arrêté du
-ministre du budget (3);
+ministre du budget (4);
 
 9° Les objets d'occasion, d'antiquité ou de collection, oeuvres d'art
 originales, pierres précieuses et perles visés au a du 3° du 1 de l'article 261
@@ -67,8 +68,10 @@ valeur ajoutée dans cet Etat membre;
 à l'exception de celles de ces opérations qui portent sur des bateaux de sport
 ou de plaisance.
 
-1) Annexe III, 73 F à 73 H.
+(1) Annexe III, 73 F à 73 H.
 
-2) Annexe IV, art. 42 à 46.
+(2) Arrêté du 30 décembre 1983 (JO du 25 janvier 1984).
 
-3) Annexe IV, art. 50 nonies et 50 decies.
+(3) Annexe IV, art. 42 à 46.
+
+(4) Annexe IV, art. 50 nonies et 50 decies.

@@ -12,4 +12,8 @@ a) Ses nom, prénoms et adresse ;
 
 b) Le nombre de parts correspondant à sa situation et à ses charges de famille ;
 
-c) Le montant de l'impôt mis à sa charge, défini par l'article R. 111-2.
+c) Le revenu imposable ;
+
+d) Le montant de l'impôt mis à sa charge, défini par l'article R. 111-2 ;
+
+e) Le montant de l'avoir fiscal.

@@ -1,8 +1,8 @@
 Article 38 sexdecies K
 ----
 Les immobilisations acquises ou créées avant la date d'ouverture du premier
-exercice dont les résultats sont déterminés d'après le régime du bénéfice réel
-sont inscrites au bilan :
+exercice dont les résultats sont déterminés selon le régime normal d'imposition
+d'après le bénéfice réel.
 
 Pour leur valeur d'origine lorsqu'elles ne sont pas amortissables;
 

@@ -1,8 +1,8 @@
 Article 703
 ----
-Le taux de la taxe de publicité foncière ou du droit d'enregistrement est réduit
-à 2 % pour les acquisitions de propriété en nature de bois et forêts, à la
-condition :
+Sous réserve des dispositions de l'article 1594 D, le taux de la la taxe de
+publicité foncière ou du droit d'enregistrement est réduit à 2 % pour les
+acquisitions de propriété en nature de bois et forêts, à la condition :
 
 1° Que l'acte constatant l'acquisition soit appuyé d'un certificat délivré sans
 frais par le directeur départemental de l'agriculture attestant que les bois et

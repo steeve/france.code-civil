@@ -14,11 +14,11 @@ maintenu jusqu'au 31 décembre 1987 ; ce droit est de :
 - 750 F pour les augmentations de capital réalisées du 1er janvier au 31
 décembre 1982 ;
 
-- 900 F pour les augmentations de capital réalisées à compter du 1er janvier
+- 1.050 F pour les augmentations de capital réalisées à compter du 1er janvier
 1983.
 
-II. Est également fixé à 900 F le droit perçu lors de l'incorporation au capital
-d'une société :
+II. Est fixé à 1.160 F le droit perçu lors de l'incorporation au capital d'une
+société :
 
 1° De la réserve de réévaluation des immobilisations non amortissables prévue à
 l'article 238 bis I ;

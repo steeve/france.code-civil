@@ -1,7 +1,7 @@
 Article 821
 ----
 Sont soumis à un droit fixe d'enregistrement ou à une taxe fixe de publicité
-foncière de 300 F [*montant*] :
+foncière de 350 F [*montant*] :
 
 1° Sous réserve des dispositions de l'article 238 septies, les actes constatant,
 avant le 1er janvier 1988, la constitution, l'augmentation du capital d'un

@@ -22,8 +22,13 @@ soit qualifiée cession de pas de porte, indemnité de départ ou autrement.
 Cette taxe, dont la perception est confiée au service des impôts, est fixée à
 1,20 % [*taux*].
 
-Elle est soumise aux règles qui gouvernent l'exigibilité, la restitution et le
-recouvrement des droits ou de la taxe auxquels elle s'ajoute (2).
+Dans le cas prévu au 1° du premier alinéa, elle s'ajoute au droit départemental
+d'enregistrement ou à la taxe départementale de publicité foncière mentionnés à
+l'article 1594 A, sauf lorsque la mutation est soumise au taux proportionnel de
+0,60 %.
+
+La taxe est soumise aux règles qui gouvernent l'exigibilité, la restitution et
+le recouvrement des droits ou de la taxe auxquels elle s'ajoute (2).
 
 Les ressources provenant de ce fonds de péréquation seront réparties entre les
 communes de moins de 5.000 habitants suivant un barème établi par le conseil
@@ -32,7 +37,7 @@ la population, des charges de voirie de la commune, de la valeur du centime, du
 pourcentage officiel de sinistre et de l'effort fiscal fourni par la
 collectivité bénéficiaire.
 
-1) Sous réserve des dispositions de l'article 1595 ter.
+(1) Sous réserve des dispositions de l'article 1595 ter.
 
-2) La perception de cette taxe a été étendue aux communes du département de la
+(2) La perception de cette taxe a été étendue aux communes du département de la
 Guyane par l'article 10-I de la loi n° 71-1025 du 24 décembre 1971.

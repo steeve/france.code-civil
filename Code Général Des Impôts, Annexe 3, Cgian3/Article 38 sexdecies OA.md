@@ -1,6 +1,6 @@
 Article 38 sexdecies OA
 ----
-En cas de passage du régime du forfait au régime d'imposition d'après le
+En cas de passage du régime du forfait au régime normal d'imposition d'après le
 bénéfice réel :
 
 - les animaux figurant dans le stock d'entrée du premier exercice dont les

@@ -2,13 +2,13 @@ Article 1003-4
 ----
 Le budget annexe des prestations sociales agricoles comporte :
 
-1° En recettes :
+1. En recettes :
 
 a) Les divers impôts, taxes et amendes qui lui sont affectés ;
 
 b) La fraction des cotisations dues par les assujettis affectées au service des
 prestations familiales, des assurances sociales et de l'assurance vieillesse des
-non-salariés agricoles ;
+non salariés agricoles ;
 
 c) Les subventions du fonds national de solidarité institué par l'article L. 684
 du code de la sécurité sociale ;
@@ -20,11 +20,15 @@ e) Les dons et legs ;
 
 f) Les prélèvements sur le fonds de réserve visé à l'article 1003-5 ;
 
-2° En dépenses :
+g) Une contribution de la caisse nationale des allocations familiales ;
+
+h) Le versement de l'Etat au titre de l'allocation aux adultes handicapés.
+
+2. En dépenses :
 
 a) Les versements destinés au paiement par les caisses des prestations
 familiales, des prestations des assurances sociales et des prestations de
-l'assurance vieillesse des non-salariés agricoles y compris les prestations
+l'assurance vieillesse des non salariés agricoles y compris les prestations
 versées en application des dispositions du livre IX du code de la sécurité
 sociale ;
 

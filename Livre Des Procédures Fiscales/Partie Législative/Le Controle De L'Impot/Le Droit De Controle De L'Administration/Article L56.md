@@ -9,8 +9,8 @@ ou d'organismes divers ;
 par procès-verbal suivi de transaction ou de poursuites correctionnelles ;
 
 3° En matière de droits de timbre, lorsqu'ils ne sont pas payés sur état ou sur
-déclaration, et de taxes sur les véhicules à moteur prévues à l'article 1007 du
-code général des impôts ;
+déclaration, et de taxes sur les véhicules à moteur prévues à l'article 1599 C
+du code général des impôts ;
 
 4° Dans les cas de taxation, rectification ou évaluation d'office des bases
 d'imposition ;

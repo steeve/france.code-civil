@@ -15,9 +15,9 @@ l'année suivant celle au cours de laquelle les dépenses définies à l'article
 
 En cas de cession ou de cessation d'entreprise, la déclaration afférente à
 l'année en cours et, le cas échéant, celle afférente à l'année précédente, sont
-déposées dans les dix jours de la cession ou de la cessation [*délai*]. En cas
-de décès de l'employeur, ces déclarations sont déposées dans les six mois qui
-suivent la date du décès.
+déposées dans les trente jours de la cession ou de la cessation [*délai*]. En
+cas de décès de l'employeur, ces déclarations sont déposées dans les six mois
+qui suivent la date du décès.
 
 En cas de règlement judiciaire ou de liquidation des biens, elles sont
-produites, dans les dix jours de la date du jugement.
+produites, dans les trente jours de la date du jugement.

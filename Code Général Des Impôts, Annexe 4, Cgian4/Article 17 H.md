@@ -1,22 +1,18 @@
 Article 17 H
 ----
-La liste des dépenses destinées à économiser l'énergie admises en déduction du
-revenu imposable dans les conditions prévues à l'article 156-II-1° quater-a du
-code général des impôts est fixée comme suit pour les logements existants au 1er
-juillet 1981 ou ayant fait l'objet, avant cette date, d'une demande de permis de
-construire :
+La liste des dépenses destinées à économiser l'énergie ouvrant droit à la
+réduction d'impôt prévue à l'article 199 sexies du code général des impôts est
+fixée comme suit pour les logements existants au 1er juillet 1981 ou ayant fait
+l'objet, avant cette date, d'une demande de permis de construire :
 
-1 - Remplacement de chaudière.
-
-Remplacement d'une chaudière usagée par une chaudière neuve de puissance au plus
-égale fonctionnant à l'aide d'une source d'énergie autre que l'électricité ;
-toutefois, la déduction n'est pas applicable si l'ancienne chaudière
-fonctionnait à l'aide de combustibles non pétroliers et si la nouvelle
-fonctionne à l'aide de produits pétroliers. Pour l'application de cette
-disposition, les générateurs de chaleur fixes sont assimilés à des chaudières ;
-
-Remplacement d'un brûleur de chaudière usagé par un brûleur neuf d'un débit au
-plus égal ;
+1 - Remplacement de chaudière. Remplacement d'une chaudière usagée par une
+chaudière neuve de puissance au plus égale fonctionnant à l'aide d'une source
+d'énergie autre que l'électricité ; toutefois, la réduction d'impôt n'est pas
+applicable si l'ancienne chaudière fonctionnait à l'aide de combustibles non
+pétroliers et si la nouvelle fonctionne à l'aide de produits pétroliers. Pour
+l'application de cette disposition, les générateurs de chaleur fixes sont
+assimilés à des chaudières ; Remplacement d'un brûleur de chaudière usagé par un
+brûleur neuf d'un débit au plus égal ;
 
 Fourniture et pose de récupérateurs de chaleur sur les fumées de chaudières, à
 l'exclusion des systèmes d'obturation des conduits de fumée ;

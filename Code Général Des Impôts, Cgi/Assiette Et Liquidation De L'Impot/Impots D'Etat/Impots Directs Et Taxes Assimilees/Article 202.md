@@ -5,12 +5,12 @@ l'impôt sur le revenu dû en raison des bénéfices provenant de l'exercice de
 cette profession y compris ceux qui proviennent de créances acquises et non
 encore recouvrées et qui n'ont pas encore été imposés est immédiatement établi.
 
-Les contribuables doivent, dans un délai de dix jours déterminé comme il est
+Les contribuables doivent, dans un délai de trente jours déterminé comme il est
 indiqué ci-après, aviser l'administration de la cessation et lui faire connaître
 la date à laquelle elle a été ou sera effective, ainsi que, s'il y a lieu, les
 nom, prénoms et adresse du successeur.
 
-Ce délai de dix jours commence à courir [*point de départ*] :
+Ce délai de trente jours commence à courir [*point de départ*] :
 
 - lorsqu'il s'agit de la cessation de l'exercice d'une profession autre que
 l'exploitation d'une charge ou d'un office, du jour où la cessation a été

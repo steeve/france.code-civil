@@ -1,7 +1,7 @@
 Article 17 I
 ----
 La liste des dépenses relatives à l'utilisation des énergies nouvelles et à
-l'installation de pompes à chaleur mentionnées à l'article 156-II-1° quater-b du
+l'installation de pompes à chaleur mentionnées à l'article 199 sexies-2°-b du
 code général des impôts est fixée comme suit pour l'ensemble des logements,
 quelle que soit leur date de construction :
 
@@ -54,19 +54,17 @@ installations ;
 
 d. Travaux d'installation des matériels désignés aux a, b et c..
 
-2. Autres aménagements spécifiques réalisés dans les constructions neuves en vue
+2° Autres aménagements spécifiques réalisés dans les constructions neuves en vue
 d'accroître les apports solaires.
 
-Les dépenses correspondantes ne peuvent être déduites que si la valeur du
-coefficient des besoins volumiques de chauffage (coefficient B) défini à
-l'article 2-2° de l'arrêté du 24 mars 1982 relatif aux équipements et aux
-caractéristiques thermiques des bâtiments d'habitation est inférieure d'au moins
-10 % à la valeur maximale autorisée pour la zone géographique intéressée.
+Les dépenses correspondantes ne peuvent ouvrir droit à la réduction d'impôt que
+si la valeur du coefficient des besoins volumiques de chauffage (coefficient B)
+défini à l'article 2-2° de l'arrêté du 24 mars 1982 relatif aux équipements et
+aux caractéristiques thermiques des bâtiments d'habitation est inférieure d'au
+moins 10 % à la valeur maximale autorisée pour la zone géographique intéressée.
 
-2. Installation de pompes à chaleur.
-
-Fourniture et pose des pompes à chaleur destinées au chauffage du logement ou à
-la production d'eau chaude sanitaire.
+2. Installation de pompes à chaleur. Fourniture et pose des pompes à chaleur
+destinées au chauffage du logement ou à la production d'eau chaude sanitaire.
 
 Sont exclus tous les appareils dont la conception permet l'usage à des fins
 telles que le refroidissement ou le rafraîchissement de l'eau ou des locaux,

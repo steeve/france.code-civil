@@ -1,6 +1,6 @@
 Article 826
 ----
-Sont soumis à un droit fixe de 900 F [*montant*] :
+Sont soumis à un droit fixe de 1.050 F [*montant*] :
 
 1° Les actes et écrits qui ont pour objet la constitution de sociétés en
 participation ayant uniquement en vue des études ou des recherches, à

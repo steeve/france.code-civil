@@ -3,11 +3,12 @@ Article L62
 A l'issue d'une vérification de comptabilité et pour l'ensemble des impôts sur
 lesquels porte cette vérification, les contribuables dont le chiffre d'affaires
 de l'un quelconque des exercices soumis à vérification, ajusté, s'il y a lieu, à
-une période de douze mois, ne dépasse pas le double des limites prévues pour
-l'admission au régime du forfait, peuvent, à condition de présenter une demande
-en ce sens avant toute notification de redressement, réparer, moyennant le
-paiement d'un intérêt de retard de 0,75 p. 100 [*taux, pourcentage*] par mois,
-les erreurs ou inexactitudes, omissions ou insuffisances constatées.
+une période de douze mois, ne dépasse pas les limites prévues au paragraphe I de
+l'article 302 septies A du code général des impôts, peuvent, à condition de
+présenter une demande en ce sens avant toute notification de redressement,
+réparer, moyennant le paiement d'un intérêt de retard de 0,75 p. 100 [*taux,
+pourcentage*] par mois, les erreurs ou inexactitudes, omissions ou insuffisances
+constatées.
 
 Cette procédure de règlement particulière ne peut être appliquée que si
 [*conditions d'application*] :

@@ -1,6 +1,6 @@
 Article 831
 ----
-I. Sont enregistrés au droit fixe de 900 F [*montant*] à raison des apports
+I. Sont enregistrés au droit fixe de 1.050 F [*montant*] à raison des apports
 mobiliers qu'ils constatent, les actes de constitution et d'augmentation de
 capital des sociétés d'investissement en valeurs mobilières, régies par les
 titres I et II de l'ordonnance n° 45-2710 du 2 novembre 1945, qui s'engagent à

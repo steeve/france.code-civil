@@ -2,7 +2,7 @@ Article 209
 ----
 I. Sous réserve des dispositions de la présente section, les bénéfices passibles
 de l'impôt sur les sociétés sont déterminés d'après les règles fixées par les
-articles 34 à 45, 53 à 57 et 302 septies A bis et en tenant compte uniquement
+articles 34 à 45, 53 A à 57 et 302 septies A bis et en tenant compte uniquement
 des bénéfices réalisés dans les entreprises exploitées en France ainsi que de
 ceux dont l'imposition est attribuée à la France par une convention
 internationale relative aux doubles impositions.
@@ -30,4 +30,4 @@ ultérieurs de ces dernières.
 
 Ces dispositions s'appliqueront jusqu'au 31 décembre 1987.
 
-(1) Voir Annexe IV, art. 170 quater.
+(1) Voir art. 1649 nonies, annexe IV, art. 170 sexies.

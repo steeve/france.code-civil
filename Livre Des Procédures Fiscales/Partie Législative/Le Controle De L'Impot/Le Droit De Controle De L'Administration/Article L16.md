@@ -2,9 +2,10 @@ Article L16
 ----
 En vue de l'établissement de l'impôt sur le revenu, l'administration peut
 demander au contribuable des éclaircissements. Elle peut, en outre, lui demander
-des justifications au sujet de sa situation et de ses charges de famille ainsi
-que des charges retranchées du revenu net global par application de l'article
-156 du code général des impôts.
+des justifications au sujet de sa situation et de ses charges de famille, ainsi
+que des charges retranchées du revenu net global ouvrant droit à une réduction
+d'impôt sur le revenu en application des articles 156, 199 sexies et 199 septies
+du code général des impôts.
 
 Elle peut également lui demander des justifications lorsqu'elle a réuni des
 éléments permettant d'établir que le contribuable peut avoir des revenus plus
@@ -20,8 +21,8 @@ domicile fiscal à l'établissement payeur dans les conditions prévues au 4° e
 du III bis du même article. Il en va de même pour les ventes d'or monnayé ou
 d'or en barres ou en lingots de poids et de titres admis par la Banque de
 France, lorsque l'identité et le domicile du vendeur n'avaient pas été
-enregistrés par l'intermédiaire dans les conditions prévues par le décret n°
-81-888 du 30 septembre 1981.
+enregistrés par l'intermédiaire dans les conditions prévues par l'article 211 A
+de l'annexe III au code général des impôts.
 
 Les demandes visées aux alinéas précédents doivent indiquer explicitement les
 points sur lesquels elles portent et fixer à l'intéressé, pour fournir sa

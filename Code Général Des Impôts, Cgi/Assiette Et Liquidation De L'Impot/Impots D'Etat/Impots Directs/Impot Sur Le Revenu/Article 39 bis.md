@@ -44,29 +44,29 @@ nécessaires à l'exploitation du journal.
 
 L'exclusion des terrains et participations prévue à la dernière phrase du
 premier alinéa du 1 bis A bis est applicable pour l'utilisation de la provision
-constituée en vertu du premier alinéa (1).
+constituée en vertu du premier alinéa.
 
 1 bis A bis. Les entreprises de presse mentionnées au 1 sont autorisées à
 constituer en franchise d'impôt, par prélèvement sur les résultats imposables
-des exercices 1980, 1981, 1982 et 1983, une provision exclusivement affectée à
-l'acquisition de matériels et constructions strictement nécessaires à
-l'exploitation du journal ou à déduire de ces résultats les dépenses exposées en
-vue du même objet. Sont notamment exclues de la présente provision les
-acquisitions de terrains et les participations dans les entreprises.
+des exercices 1980 à 1984, une provision exclusivement affectée à l'acquisition
+de matériels et constructions strictement nécessaires à l'exploitation du
+journal ou à déduire de ces résultats les dépenses exposées en vue du même
+objet. Sont notamment exclues de la présente provision les acquisitions de
+terrains et les participations dans les entreprises.
 
 Les sommes prélevées ou déduites en vertu de l'alinéa précédent sont limitées à
 :
 
 - 40 % pour la généralité des publications et 65 % pour les quotidiens du
 bénéfice de l'exercice 1980, - 30 % pour la généralité des publications et 60 %
-pour les quotidiens du bénéfice des exercices 1981, 1982 et 1983.
+pour les quotidiens du bénéfice des exercices 1981 à 1984.
 
 1 bis B. Pour l'application des 1 bis, 1 bis A et 1 bis A bis, sont assimilées à
 des quotidiens [*définition*], les publications à diffusion départementale ou
 régionale consacrées principalement à l'information politique et générale,
 paraissant au moins une fois par semaine et dont le prix de vente n'excède pas
 de 75 % celui de la majorité des quotidiens. Un arrêté du ministre de l'économie
-et des finances fixe les conditions de cette assimilation (2).
+et des finances fixe les conditions de cette assimilation (1).
 
 Les provisions indiquées aux 1 bis et 1 bis A ne peuvent être utilisées qu'au
 financement des deux tiers du prix de revient des éléments qui y sont définis.
@@ -86,7 +86,7 @@ l'exercice 1980, cette fraction est égale à 55 % pour la généralité des
 publications et à 90 % pour les quotidiens et les publications assimilées
 définies au 1 bis B, premier alinéa. Ces pourcentages sont ramenés
 respectivement à 40 % et à 80 % pour les éléments acquis au moyen des sommes
-prélevées ou déduites des bénéfices des exercices 1981, 1982 et 1983.
+prélevées ou déduites des bénéfices des exercices 1981 à 1984.
 
 1 bis C. Pour la détermination des résultats des exercices 1975 et suivants,
 sont exclues du bénéfice du régime prévu aux 1 bis, 1 bis A et 1 bis A bis les
@@ -107,7 +107,7 @@ mentionnés au présent article sont amortis pour un montant égal à la fractio
 prix d'achat ou de revient qui a été prélevée sur lesdits bénéfices ou
 provisions.
 
-Sans préjudice de l'application des dispositions de l'article 39-1-5°, huitième
+Sans préjudice de l'application des dispositions de l'article 39-1-5°, neuvième
 alinéa, les provisions non utilisées conformément à leur objet avant la fin de
 la cinquième année suivant celle de leur constitution sont rapportées aux
 bénéfices soumis à l'impôt au titre de ladite année.
@@ -125,7 +125,4 @@ vue du paiement des indemnités calculées en tenant compte de l'ancienneté
 acquise par ces journalistes et salariés au service de l'ancienne entreprise,
 qu'elles doivent verser en cas de licenciement de ces derniers.
 
-(1) Dispositions applicables aux acquisitions réalisées à compter du 1er janvier
-1980.
-
-(2) Annexe IV, art. 4 octies.
+(1) Annexe IV, art. 4 octies.

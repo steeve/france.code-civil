@@ -10,6 +10,10 @@ disposition de cette personne morale, dans la mesure où le total de ces avances
 excède 200.000 F [*montant plafond*] ou 300.000 F selon qu'il s'agit d'intérêts
 versés jusqu'au 31 décembre 1976 inclus ou après cette date ;
 
+Les dépôts dont les intérêts bénéficient du régime d'imposition prévu à
+l'article 125 C ne sont pas pris en compte pour le calcul du total des avances
+mentionnées au premier alinéa ;
+
 2° Les intérêts des sommes que les associés d'une personne morale laissent ou
 mettent, directement ou par personnes interposées, à la disposition de cette
 personne morale, lorsque la constitution et la rémunération de ce placement sont

@@ -7,7 +7,7 @@ exercice antérieur, acquitter une taxe représentative de l'intérêt correspon
 à l'avantage de trésorerie ainsi obtenu.
 
 La taxe est assise [*assiette*] sur la moitié des excédents des provisions
-réintégrés, diminuée, d'une part, d'une franchise égale, pour chaque excédent, à
+réintégrés, diminués, d'une part, d'une franchise égale, pour chaque excédent, à
 3 % du montant de celui-ci et des règlements de sinistres effectués au cours de
 l'exercice par prélèvement sur la provision correspondante, d'autre part, des
 dotations complémentaires constituées à la clôture du même exercice en vue de

@@ -10,6 +10,6 @@ Toutefois en cas de location le montant annuel du loyer est celui en vigueur au
 II. Par dérogation aux dispositions du I, premier alinéa les renseignements
 utiles à l'évaluation des établissements industriels dont les immobilisations
 figurent à l'actif d'une entreprise industrielle ou commerciale astreinte aux
-obligations définies à l'article 54 du code général des impôts sont tirés du
+obligations définies à l'article 53 A du code général des impôts sont tirés du
 bilan du dernier exercice clos antérieurement à la date de souscription des
 déclarations.

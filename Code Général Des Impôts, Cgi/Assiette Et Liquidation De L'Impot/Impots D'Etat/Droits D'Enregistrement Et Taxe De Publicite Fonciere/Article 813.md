@@ -12,7 +12,7 @@ la loi n° 59-1472 du 28 décembre 1959 ;
 
 - soit des réserves spéciales de réévaluation dégagées conformément aux articles
 1er et 53-I de la loi n° 59-1472 du 28 décembre 1959, sont soumis à un droit
-fixe de 450 F à condition qu'ils soient enregistrés dans le délai d'un an à
+fixe de 525 F à condition qu'ils soient enregistrés dans le délai d'un an à
 compter de la date d'expiration de la période fixée pour l'exercice de l'option
 accordée aux porteurs d'obligations.
 
