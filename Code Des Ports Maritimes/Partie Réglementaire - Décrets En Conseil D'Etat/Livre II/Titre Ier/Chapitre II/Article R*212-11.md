@@ -1,18 +1,16 @@
 Article R*212-11
 ----
-Des réductions de la taxe sur le navire peuvent également être accordées par les
-tarifs pris pour chaque port :
+Par dérogation aux articles R. 211-1, R. 212-3, R. 212-7 à R. 212-10, l'acte
+fixant dans chaque port la redevance sur le navire peut prévoir, en cas
+d'ouverture de relations nouvelles, que les navires effectuant un transport
+maritime de passagers, de marchandises sur remorques (dites RO-RO) ou de
+conteneurs entre les Etats membres de l'Union européenne ou des Parties à
+l'accord de l'Espace économique européen sont soumis pendant une durée
+n'excédant pas trois ans :
 
-- à la sortie, aux navires de certains types, cette réduction pouvant être
-limitée aux navires de lignes régulières ;
+1° Soit à un forfait de redevance fixé pour l'ensemble de leur activité pour une
+période déterminée et liquidé pro rata temporis par échéances au plus de trois
+mois ;
 
-- aux navires de lignes régulières effectuant, au cours d'un même voyage, des
-escales successives dans plusieurs ports français de la métropole ;
-
-- aux navires en provenance ou à destination de la Corse ou des départements ou
-territoires d'outre-mer ;
-
-- aux navires qui opèrent dans certaines parties de la circonscription portuaire
-;
-
-- aux navires de croisière.
+2° Soit à un forfait de redevance fixé à l'unité par passager, remorque, tonne
+ou multiples de tonnes, ou conteneur.

@@ -6,5 +6,5 @@ décision de la collectivité compétente, à une instruction comportant les mê
 formalités que celles prévues à l'article R. 122-4.
 
 Les concessions et leurs avenants sont accordés après instruction comportant les
-mêmes formalités que celles prévues à l'article R. 122-10. Lorsque la convention
+mêmes formalités que celles prévues à l'article R. 122-9. Lorsque la convention
 comporte la réalisation de travaux, il n'est procédé qu'à une seule instruction.

@@ -1,19 +1,21 @@
 Article R*211-1
 ----
-Le droit de port comprend :
+Le droit de port est dû à raison des opérations commerciales ou des séjours des
+navires effectués dans le port. Les éléments constitutifs du droit de port
+comprennent, dans les conditions définies au présent code, les redevances
+suivantes :
 
-Pour les navires de commerce :
+1° Pour les navires de commerce :
 
-- une taxe sur le navire et, le cas échéant, une taxe de stationnement ;
+a) Une redevance sur le navire ;
 
-- une taxe sur les marchandises ;
+b) Une redevance de stationnement ;
 
-- la taxe sur les passagers, mentionnée à l'article L. 211-2.
+c) Une redevance sur les marchandises ;
 
-Pour les navires de pêche :
+d) Une redevance sur les passagers ;
 
-- une redevance d'équipement des ports de pêche.
+2° Pour les navires de pêche, une redevance d'équipement des ports de pêche ;
 
-Pour les navires de plaisance ou de sport :
-
-- une redevance d'équipement des ports de plaisance.
+3° Pour les navires de plaisance ou de sport, une redevance d'équipement des
+ports de plaisance.

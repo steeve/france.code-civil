@@ -1,10 +1,10 @@
 Article R*122-4
 ----
 I. - Le dossier d'instruction comporte l'étude d'impact définie à l'article 2 du
-décret n° 77-1141 du 12 octobre 1977 modifié pris pour l'application de
-l'article 2 de la loi n° 76-629 du 10 juillet 1976 relative à la protection de
-la nature lorsque le coût total des travaux de construction ou d'extension
-excède le montant fixé au C de l'article 3 du même décret.
+décret n° 77-1141 du 12 octobre 1977 modifié pris pour l'application des
+articles L. 122-1 à L. 122-3 du code de l'environnement lorsque le coût total
+des travaux de construction ou d'extension excède le montant fixé au C de
+l'article 3 du même décret.
 
 Le dossier d'instruction comporte également l'évaluation mentionnée à l'article
 5 du décret n° 84-617 du 17 juillet 1984 pris pour l'application de l'article 14
@@ -17,11 +17,11 @@ En outre, lorsqu'il y a lieu, le dossier :
 - mentionne la ou les rubriques de la nomenclature annexée au décret n° 93-743
 du 29 mars 1993 relatif à la nomenclature des opérations soumises à autorisation
 ou à déclaration en application de l'article 10 de la loi n° 92-3 du 3 janvier
-1992 sur l'eau, dont relèvent les travaux ;
+1992 sur l'eau (1), dont relèvent les travaux ;
 
 - comporte le document prévu au 4° de l'article 2 du décret n° 93-742 du 29 mars
-1993 relatif aux procédures d'autorisation et de déclaration prévues par
-l'article 10 de la loi n° 92-3 du 3 janvier 1992 sur l'eau. Si l'étude d'impact
+1993 relatif aux procédures d'autorisation et de déclaration prévues par les
+articles L. 214-1 à L. 214-6 du code de l'environnement. Si l'étude d'impact
 fournit les informations requises, elle tient lieu de ce document.
 
 II. - L'instruction, menée par le directeur du port, comprend les formalités
@@ -43,8 +43,8 @@ marine marchande. La grande commission nautique est consultée sur les opératio
 comportant une modification des ouvrages extérieurs du port ou des chenaux
 d'accès ; la commission nautique locale est consultée dans les autres cas ;
 
-6° Consultation de la commission régionale pour l'amélioration des conditions de
-débarquement des produits de la pêche (CORECODE) ;
+6° Consultation le cas échéant de la commission régionale pour l'amélioration
+des conditions de débarquement des produits de la pêche (CORECODE) ;
 
 7° Instruction mixte, conformément à la réglementation en vigueur ;
 

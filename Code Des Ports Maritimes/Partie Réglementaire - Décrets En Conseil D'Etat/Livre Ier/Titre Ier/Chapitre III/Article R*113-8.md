@@ -8,17 +8,16 @@ service détaché et fixe la rémunération du personnel dans les limites arrêt
 par le conseil d'administration, sous réserve de l'observation des règles de
 tutelle.
 
-Il représente le port en justice et dans tous les actes de la vie civile. Il a
-la faculté de conclure des transactions, dans les conditions prévues par les
-articles 2044 et suivants du code civil, après accord du conseil
-d'administration, du commissaire du Gouvernement et du contrôleur d'Etat.
+Il représente le port autonome de plein droit devant toutes les juridictions et
+pour tous les actes de la vie civile. Il a la faculté de conclure des
+transactions dans les conditions prévues par les articles 2044 et suivants du
+code civil et par le règlement intérieur du conseil d'administration. Les
+transactions sont subordonnées à l'accord préalable du commissaire du
+Gouvernement et du contrôleur d'Etat. Lorsque leur montant est supérieur à 100
+000 euros, elles sont également subordonnées à l'accord préalable du conseil
+d'administration.
 
 Il procède aux achats et passe les marchés ou traités.
-
-Il a la faculté de conclure des transactions, dans les conditions prévues par
-les articles 2044 et suivants du code civil, sous réserve de l'accord préalable
-du conseil d'administration, du ministre chargé des ports maritimes et du
-ministre chargé du budget.
 
 Il assure la gestion financière du port autonome ; il est ordonnateur principal
 du port. Des ordonnateurs secondaires peuvent être institués, sur sa

@@ -1,19 +1,17 @@
 Article R*212-6
 ----
-La taxe sur le navire n'est pas due pour les navires énumérés ci-après :
+La redevance sur le navire est liquidée distinctement à raison des opérations
+d'entrée et de sortie du navire.
 
-Navires câbliers ;
+Toutefois, lorsqu'un navire ne débarque ou ne transborde ni passagers ni
+marchandises, la redevance sur le navire n'est liquidée qu'une fois à l'entrée.
+Lorsqu'un navire n'embarque ni passagers ni marchandises, la redevance sur le
+navire n'est liquidée qu'une fois à la sortie.
 
-Navires affectés au pilotage, au sauvetage et au remorquage ;
+Lorsqu'un navire n'effectue que des opérations de soutage ou d'avitaillement ou
+de déchargement de déchets d'exploitation ou de résidus de cargaison ou
+n'effectue aucune opération commerciale, la redevance sur le navire n'est
+liquidée qu'une fois à la sortie.
 
-Bâtiments de servitude ;
-
-Navires en relâche forcée qui n'effectuent aucune opération commerciale ;
-
-Navires qui n'embarquent, ne débarquent ou ne transbordent ni passagers ni
-marchandises autres que le fret postal ou les colis postaux et qui n'effectuent
-aucune opération de soutage ou d'avitaillement ;
-
-Navires qui, ne pouvant avoir accès à une installation portuaire, se trouvent
-obligés d'effectuer leurs opérations de débarquement ou d'embarquement ou de
-transbordement en dehors du port.
+La redevance sur le navire est acquittée ou doit être garantie avant le départ
+du navire.
