@@ -1,12 +1,12 @@
 Article 1664
 ----
 1° En ce qui concerne les contribuables qui auront été compris dans les rôles de
-l'année précédente pour une somme au moins égale à 750 F, l'impôt sur le revenu
-donne lieu, par dérogation aux dispositions de l'article 1663 et en l'absence
-d'option pour le paiement mensuel telle qu'elle est prévue à l'article 1681 A, à
-deux versements d'acomptes le 31 janvier et le 30 avril de l'année suivant celle
-au cours de laquelle sont réalisés les revenus servant de base de calcul de
-l'impôt.
+l'année précédente pour une somme au moins égale à 1.000 F, l'impôt sur le
+revenu donne lieu, par dérogation aux dispositions de l'article 1663 et en
+l'absence d'option pour le paiement mensuel telle qu'elle est prévue à l'article
+1681 A, à deux versements d'acomptes le 31 janvier et le 30 avril de l'année
+suivant celle au cours de laquelle sont réalisés les revenus servant de base de
+calcul de l'impôt.
 
 Le montant de chaque acompte est égal au tiers des cotisations mises à la charge
 du redevable dans les rôles concernant la dernière année au titre de laquelle il
@@ -19,11 +19,11 @@ paiement mensuel, au versement d'un acompte provisionnel égal à 60 % de cette
 cotisation et payable au plus tard le 15 mai de la même année.
 
 Cet acompte n'est pas dû si le montant de la cotisation n'atteint pas la somme
-de 750 F.
+de 1.000 F.
 
 2° A défaut de paiement volontaire, le recouvrement des acomptes exigibles est
 assuré et poursuivi dans les conditions fixées pour les impôts directs par le
-livre II du présent code [*art. 1657 à art. 1965 FA*].
+titre IV du livre des procédures fiscales [*art. L. 252 à art. L. 253*].
 
 3° Le solde de l'impôt, tel qu'il résulte de la liquidation opérée par le
 service des impôts, est recouvré par voie de rôles dans les conditions fixées
