@@ -7,7 +7,7 @@ comptabilisées au cours du même exercice.
 S'il y a excédent, celui-ci doit être affecté, avant le 30 juin de l'année
 suivante, au financement d'actions de formation au bénéfice de demandeurs
 d'emploi sans contrat de travail organisées dans des centres de formation
-conventionnés dans les conditions prévues par l'article L. 951-1 (3.) du code du
+conventionnés dans les conditions prévues par l'article L. 951-1 (3°) du code du
 travail.
 
 Les excédents non utilisés dans les conditions ci-dessus prévues sont reversés
