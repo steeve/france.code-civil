@@ -1,45 +1,51 @@
 Article D910-3
 ----
 Le comité régional de la formation professionnelle, de la promotion sociale et
-de l'emploi se compose [*composition*] :
+de l'emploi se compose :
 
-1° Du commissaire de la République de région ou de son représentant ;
+1° Du préfet de région ou de son représentant ;
 
 2° Du président du conseil régional ou de son représentant ;
 
-3° De cinq représentants désignés sur proposition de chacune des organisations
-syndicales nationales de salariés les plus représentatives [*nombre*] ;
+3° Du ou des recteurs d'académie ou de leurs représentants ;
 
-4° De cinq représentants des employeurs désignés sur proposition des
-organisations professionnelles nationales les plus représentatives, dont un
-représentant des exploitants agricoles et un représentant des artisans désignés
-sur proposition des organisations professionnelles nationales les plus
-représentatives, dans ces deux secteurs ;
+4° De cinq représentants des salariés désignés sur proposition des organisations
+syndicales nationales représentatives ;
 
-5° D'un représentant de la fédération de l'éducation nationale ;
+5° De cinq représentants des employeurs désignés sur proposition des
+organisations interprofessionnelles nationales représentatives dont un
+représentant des exploitants agricoles et un représentant des artisans ;
 
-6° D'un représentant des personnels des établissements publics d'enseignement ;
+6° De deux représentants des personnels d'établissements publics d'enseignement
+désignés sur proposition des organisations professionnelles représentatives
+conformément aux résultats des élections aux commissions administratives
+paritaires académiques ;
 
-7° D'un représentant des chambres de commerce et d'industrie ;
+7° De cinq représentants des secteurs économiques et associatifs :
 
-8° D'un représentant des chambres de métiers ;
+a) Un représentant des chambres de commerce etd'industrie ;
 
-9° D'un représentant des chambres d'agriculture ;
+b) Un représentant des chambres de métiers ;
 
-10° De deux représentants du secteur associatif et de l'économie sociale
-désignés sur proposition du comité économique et social régional.
+c) Un représentant des chambres d'agriculture ;
 
-Le commissaire de la République de région nomme les membres du comité visé aux
-3° à 10° ci-dessus pour une durée de trois ans. Il nomme des suppléants dans les
-mêmes conditions.
+d) Un représentant des organismes de formation désigné par le préfet de région ;
 
-En fonction de l'ordre du jour, le comité régional peut associer à ses travaux
-d'autres personnes choisies en raison de leur compétence.
+e) Un représentant des associations familiales désigné sur proposition du
+conseil économique et social régional.
 
-En particulier, le ou les recteurs d'académie, ou leurs représentants, sont
-associés aux travaux du comité régional chaque fois que ces travaux impliquent
-une participation des établissements relevant du ministère de l'éducation
-nationale ou abordent des questions liées aux compétences exercées par le
-recteur, notamment en matière de formation initiale ; de la même façon, le
-directeur régional du travail et de l'emploi est associé, lorsque sont traités
-des problèmes d'emploi.
+Le préfet est assisté du directeur régional de l'agriculture et de la forêt et
+du directeur régional des affaires maritimes chaque fois que les travaux du
+comité impliquent une participation des établissements relevant de leur autorité
+ou abordent des questions liées aux compétences qu'ils exercent, notamment en
+matière de formation initiale.
+
+Le préfet de région arrête la liste des membres du comité, titulaires et
+suppléants, pour une durée de trois ans. Ce mandat peut être renouvelé. Les
+membres qui font partie du comité en raison de leurs fonctions administratives
+ou électives doivent être remplacés à partir du moment où ils cessent d'être
+investis de ces fonctions. Leur remplacement doit avoir lieu dans les trois mois
+de la vacance.
+
+Le comité régional peut associer à ses travaux, en fonction de l'ordre du jour,
+d'autres personnes choisies en raison de leurs compétences.
