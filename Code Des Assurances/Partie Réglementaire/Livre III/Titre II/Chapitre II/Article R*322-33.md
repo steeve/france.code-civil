@@ -1,6 +1,6 @@
 Article R*322-33
 ----
-Dans la limite de 5 % du montant du capital social, des actions des sociétés
+Dans la limite de 15 % du montant du capital social, des actions des sociétés
 centrales d'assurance sont offertes en une ou plusieurs fois :
 
 - aux membres du personnel et aux agents généraux des entreprises nationales qui
@@ -13,10 +13,3 @@ des entreprises ou la réalisation d'un plan d'épargne d'entreprise ;
 
 - aux organismes de retraite et de prévoyance qui auront été spécialement agréés
 à cet effet par le ministre de l'économie et des finances.
-
-Les demandeurs de ces différentes catégories ne peuvent se porter acquéreurs
-d'actions qu'à concurrence de quantités fixées par arrêté du ministre de
-l'économie et des finances.
-
-Les actions sont cédées en tenant compte à la fois des prix proposés et des
-quantités demandées.
