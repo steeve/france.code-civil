@@ -20,9 +20,8 @@ agricole (art. 949 et 950 du code général des impôts);
 
 3° (Abrogé);
 
-4° Les passeports, laissez-passer, sauf-conduits pour l'étranger et les titres
-de voyages délivrés aux réfugiés ou apatrides (art. 953 et 954 du code général
-des impôts);
+4° Les passeports pour l'étranger et les titres de voyages délivrés aux réfugiés
+ou apatrides (art. 953 et 954 du code général des impôts);
 
 5° Les certificats internationaux pour automobiles et les permis internationaux
 de conduire (art. 966 du code général des impôts);

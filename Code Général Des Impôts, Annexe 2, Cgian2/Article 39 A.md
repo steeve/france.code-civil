@@ -1,13 +1,13 @@
 Article 39 A
 ----
-La limite de 150.000 F indiquée à l'article 92 B du code général des impôts
-s'entend de la moyenne des cessions de l'année considérée et des deux années
-précédentes dans les cas suivants :
+La limite de 150.000 F indiquée au I de l'article 92 B du code général des
+impôts s'entend de la moyenne des cessions de l'année considérée et des deux
+années précédentes dans les cas suivants :
 
 1° Licenciement du contribuable ou de l'un des époux soumis à une imposition
 commune ; bénéficient de cette disposition les personnes qui se trouvent privées
 d'activité professionnelle pour des raisons indépendantes de leur volonté et
-sont inscrites comme demandeurs d'emploi à l'agence nationale pour l'emploi;
+sont inscrites comme demandeurs d'emploi à l'agence nationale pour l'emploi ;
 
 2° Départ à la retraite ou en préretraite du contribuable ou de l'un des époux
 soumis à une imposition commune, sous réserve que l'intéressé ne poursuive ou ne
@@ -19,11 +19,11 @@ l'application à l'occasion de leur départ en préretraite.
 soumis à une imposition commune ou un enfant à charge et correspondant au
 classement dans la seconde ou la troisième des catégories d'invalidité prévues à
 l'article L 341-4 du code de la sécurité sociale et ouvrant droit à la carte
-d'invalidité prévue à l'article 173 du code de la famille et de l'aide sociale;
+d'invalidité prévue à l'article 173 du code de la famille et de l'aide sociale ;
 
 4° Décès du contribuable ou de l'un des époux soumis à une imposition commune ;
 
-5° Divorce ou séparation de corps;
+5° Divorce ou séparation de corps ;
 
 6° Redressement judiciaire ou liquidation de biens du contribuable ou de l'un
 des époux soumis à une imposition commune ;
