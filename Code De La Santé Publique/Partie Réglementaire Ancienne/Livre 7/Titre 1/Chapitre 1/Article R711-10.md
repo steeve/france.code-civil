@@ -1,10 +1,12 @@
 Article R711-10
 ----
-L'organisation des soins et le fonctionnement médical de la structure de
-l'établissement public de la santé qui intervient en milieu pénitentiaire sont
-régis par les dispositions de la section III du chapitre IV du présent titre
-sans préjudice des dispositions de l'article L. 326 et du décret du 14 mars 1986
-susmentionné.
+Les modalités d'intervention de l'établissement public de santé mentionné à
+l'article R. 711-7 sont fixées par un protocole signé par les préfets de la
+région et du département, le directeur régional des services pénitentiaires, le
+chef de l'établissement pénitentiaire et le directeur de l'établissement de
+santé concerné, après avis du conseil d'administration.
 
-Cette intervention s'inscrit dans le projet d'établissement défini à l'article
-L. 714-11.
+Il en est de même en ce qui concerne les modalités d'intervention de
+l'établissement de santé éventuellement désigné en application de l'article R.
+711-9. Dans ce cas, le directeur de l'établissement public de santé mentionné à
+l'article R. 711-7 est également signataire de ce protocole complémentaire.

@@ -1,8 +1,9 @@
 Article R711-9
 ----
-En l'absence, à proximité de l'établissement pénitentiaire, d'un établissement
-public de santé participant à la sectorisation psychiatrique, par dérogation aux
-articles R. 711-7 et R. 711-8, une convention peut être conclue au titre de la
-lutte contre les maladies mentales avec un établissement de santé privé
-participant au service public hospitalier relevant des dispositions de l'article
-L. 711-11.
+Lorsque l'établissement public de santé désigné par le préfet ne comporte pas de
+service de psychiatrie et que l'établissement pénitentiaire n'est pas desservi
+par un service médico-psychologique régional mentionné à l'article 11 du décret
+n° 86-602 du 14 mars 1986, le préfet de région désigne en outre, dans les mêmes
+conditions, l'établissement public de santé ou l'établissement de santé privé
+admis à participer à l'exécution du service public hospitalier, situé à
+proximité, qui est chargé de dispenser aux détenus les soins en psychiatrie.

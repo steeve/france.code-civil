@@ -1,37 +1,11 @@
 Article R711-14
 ----
-Les conventions mentionnées à l'article R. 711-7 définissent, dans le respect
-des dispositions de la présente section, notamment :
-
-1° Les conditions dans lesquelles les personnels de l'établissement public de
-santé assurent l'examen systématique des détenus arrivant dans l'établissement
-pénitentiaire et dispensent à ceux-ci des soins courants et certains soins
-spécialisés ;
-
-2° Les modalités de participation de l'établissement public de santé au
-programme de prévention et d'éducation pour la santé mentionnées à l'article R.
-711-13.
-
-Les conventions contiennent, en outre, des dispositions relatives :
-
-1° A l'aménagement et l'équipement des locaux mentionnés à l'article R. 711-11 ;
-
-2° Aux conditions dans lesquelles les détenus peuvent recourir aux équipements
-médicaux situés dans l'établissement public de santé ;
-
-3° Aux conditions dans lesquelles l'établissement public de santé établit et
-archive le dossier médical des patients dans le respect des dispositions des
-articles R. 710-2-1 à R. 710-2-8 ;
-
-4° A la définition du système d'information permettant l'analyse de l'activité,
-dans les conditions prévues à l'article L. 710-5 ;
-
-5° Aux conditions dans lesquelles les dépenses et recettes afférentes aux
-activités définies par la convention sont prévues et inscrites au budget de
-l'établissement public de santé ainsi qu'aux modalités de règlement des dépenses
-qui donnent lieu à remboursement par l'établissement pénitentiaire.
-
-Les conventions peuvent également prévoir l'aménagement, à la charge de
-l'administration pénitentiaire, de locaux spécialement prévus pour assurer en
-toute sécurité l'hospitalisation des détenus dans l'établissement public de
-santé.
+L'établissement public de santé mentionné à l'article R. 711-7 coordonne les
+actions de prévention et d'éducation pour la santé organisées dans
+l'établissement pénitentiaire. Il élabore à ce titre un programme en accord avec
+ledit établissement ainsi qu'avec les préfets de région et de département et le
+président du conseil général pour les actions et services, dont sont
+respectivement responsables l'Etat et le département en application, notamment,
+de l'article 37 de la loi n° 83-663 du 22 juillet 1983. Les organismes
+d'assurance maladie ainsi que les autres collectivités et associations
+concernées sont associés à ce programme.

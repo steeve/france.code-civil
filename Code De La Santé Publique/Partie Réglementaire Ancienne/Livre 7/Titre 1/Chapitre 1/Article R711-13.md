@@ -1,9 +1,25 @@
 Article R711-13
 ----
-L'établissement public de santé élabore un programme de prévention et
-d'éducation pour la santé en accord avec l'établissement pénitentiaire ainsi
-qu'avec le préfet et le président du conseil général pour les actions et
-services dont sont respectivement responsables l'Etat et le département en
-application notamment de l'article 37 de la loi n° 83-663 du 22 juillet 1983,
-les organismes d'assurance maladie ainsi que les autres collectivités et
-associations concernées sont associés à ce programme.
+L'établissement public de santé désigné en application de l'article R. 711-7
+dispense en milieu pénitentiaire et, le cas échéant, hospitalier, des soins aux
+détenus dont l'état ne nécessite pas une hospitalisation ; dans les mêmes
+conditions, il effectue ou fait effectuer les examens, notamment radiologiques
+ou de laboratoires nécessaires au diagnostic.
+
+En outre :
+
+1° Il recueille les données épidémiologiques collectées lors de la visite
+médicale d'entrée, conformément à une fiche type dont le modèle est fixé par un
+arrêté conjoint du ministre de la justice et du ministre chargé de la santé ;
+
+2° Il pourvoit à l'équipement médical et non médical des locaux spécialisés de
+l'établissement pénitentiaire destinés aux consultations, aux soins et aux
+examens, et en assure l'entretien ;
+
+3° Il assure la fourniture et le transport des produits et petits matériels à
+usage médical ainsi que des médicaments et des produits pharmaceutiques qui sont
+placés sous la responsabilité du pharmacien gérant la pharmacie à usage
+intérieur de l'établissement de santé conformément au deuxième alinéa de
+l'article L. 595-9 ;
+
+4° Il assure l'élimination des déchets hospitaliers.
