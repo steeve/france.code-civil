@@ -1,6 +1,6 @@
 Article D251-1
 ----
-Les aérodromes suivants font partie de l'ensemble constitué par l'Aéroport de
+Les aérodromes suivants font partie de l'ensemble constitué par Aéroports de
 Paris :
 
 Charles-de-Gaulle, Orly, Le Bourget ;

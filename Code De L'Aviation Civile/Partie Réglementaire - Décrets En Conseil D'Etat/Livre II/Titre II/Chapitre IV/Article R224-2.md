@@ -19,12 +19,12 @@ l'aviation marchande.
 
 II. - Les taux des redevances mentionnées au I ci-dessus sont fixés :
 
-- pour Aéroports de Paris par son conseil d'administration ;
+- pour Aéroports de Paris, par son conseil d'administration ;
 
-- pour les autres aérodromes par l'exploitant ; en ce qui concerne les
-aérodromes dotés d'une commission consultative économique en application des
-dispositions du décret n° 60-652 du 28 juin 1960, modifié par le décret n°
-73-287 du 13 mars 1973, la décision est prise après avis de ladite commission.
+- pour les autres aérodromes, par l'exploitant.
+
+Si l'aérodrome est doté d'une commission consultative économique, les taux sont
+fixés après avis de cette commission.
 
 A. - S'il s'agit d'un aérodrome :
 
@@ -104,8 +104,17 @@ l'article L. 213-2, si l'aérodrome en cause a assuré en moyenne, au cours des
 trois dernières années civiles connues, un trafic de moins de 200 000 passagers,
 embarqués ou débarqués.
 
-Les taux fixés par Aéroports de Paris ou par l'exploitant de l'aérodrome sont
-exécutoires à l'expiration d'un délai de deux mois francs à compter de leur
-réception par l'autorité compétente, sauf si, dans ce délai, l'un des deux
-ministres ou le préfet, selon le cas, y fait opposition. Dans cette dernière
-hypothèse, les taux précédemment en vigueur demeurent applicables.
+Les taux sont exécutoires à l'expiration d'un délai :
+
+- d'un mois franc à compter de leur réception par les deux ministres, pour les
+aérodromes Charles-de-Gaulle et Paris-Orly ;
+
+- de deux mois francs à compter de leur réception par l'autorité compétente,
+pour les autres aérodromes,
+
+sauf si, dans ces délais, l'un des ministres, ou le préfet, selon le cas, s'y
+oppose en tout ou partie.
+
+Dans cette dernière hypothèse, seuls les taux n'ayant pas fait l'objet d'une
+opposition sont exécutoires aux dates précitées, ceux précédemment en vigueur
+restant applicables dans le cas contraire.
