@@ -1,13 +1,14 @@
 Article R250-1
 ----
 Le président et les membres du Bureau central de tarification institué par les
-articles L. 125-6, L. 212-1, L. 220-5 et L. 243-4 sont nommés par arrêté du
-ministre de l'économie et des finances pour une période de trois ans
-renouvelable.
+articles L. 125-6, L. 212-1, L. 220-5 et L. 243-4 ainsi que par l'article
+1234-10 du code rural sont nommés pour une période de trois ans renouvelable,
+par arrêté du ministre chargé de l'économie et des finances, sous réserve des
+dispositions de la dernière phrase du 4° du quatrième alinéa du présent article.
 
 Le président est choisi parmi les conseillers d'Etat, les conseillers à la Cour
 de cassation, les conseillers maîtres à la Cour des comptes ou les professeurs
-des disciplines juridiques des universités.
+des disciplines juridiques des universités, en activité ou honoraires.
 
 Le président et les membres sont remplacés en cas d'empêchement par des
 suppléants nommés dans les mêmes conditions que les membres titulaires.
@@ -44,4 +45,15 @@ proposition des organismes professionnels, et cinq représentants des personnes
 soumises aux obligations prévues par les articles L. 241-1 à L. 242-1, à savoir
 notamment les architectes, les entrepreneurs, les fabricants de matériaux
 préfabriqués, les promoteurs constructeurs et les maîtres d'ouvrages
-industriels, nommés sur proposition des organisations les plus représentatives.
+industriels, nommés sur proposition des organisations les plus représentatives ;
+
+4° Lorsqu'il statue en matière d'assurance obligatoire des personnes non
+salariées contre les accidents et les maladies professionnelles dans
+l'agriculture en vertu de l'article 1234-10 du code rural, quatre représentants
+des sociétés d'assurances, nommés sur proposition des organisations
+professionnelles concernées, et quatre représentants des personnes assujetties à
+l'obligation d'assurance, nommés sur proposition des organisations syndicales à
+vocation générale d'exploitants agricoles les plus représentatives. Les
+représentants des personnes assujetties à l'obligation d'assurance sont nommés
+par le ministre chargé de l'agriculture pour une période de trois ans
+renouvelable.
