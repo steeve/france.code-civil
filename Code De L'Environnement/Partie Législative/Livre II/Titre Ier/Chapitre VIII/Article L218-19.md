@@ -6,4 +6,4 @@ de la navigation maritime, un des événements mentionnés par le protocole I de
 convention mentionnée à l'article L. 218-10 ou toute autre personne ayant charge
 du navire, au sens de l'article 1er de ce protocole, de ne pas établir et
 transmettre un rapport conformément aux dispositions dudit protocole, est puni
-d'un an d'emprisonnement et de 300 000 F d'amende.
+de deux ans d'emprisonnement et de 180 000 euros d'amende.

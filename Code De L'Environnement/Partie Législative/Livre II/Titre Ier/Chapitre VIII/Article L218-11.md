@@ -1,7 +1,7 @@
 Article L218-11
 ----
-Est puni d'un an d'emprisonnement et de 300 000 F d'amende le fait, pour tout
-capitaine d'un navire français soumis aux dispositions de la convention
+Est puni de deux ans d'emprisonnement et de 180 000 euros d'amende le fait, pour
+tout capitaine d'un navire français soumis aux dispositions de la convention
 mentionnée à l'article L. 218-10 et appartenant aux catégories suivantes :
 
 1° Navires-citernes d'une jauge brute inférieure à 150 tonneaux ;
