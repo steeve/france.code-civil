@@ -1,19 +1,15 @@
 Article L5441-8
 ----
-Est puni de 30 000 F d'amende le fait :
+Est puni de deux ans d'emprisonnement et de 30000 euros d'amende le fait :
 
-1° De délivrer, exception faite des aliments médicamenteux, un médicament
-vétérinaire au public :
+1° De mettre sur le marché à titre gratuit ou onéreux un médicament vétérinaire
+soumis aux dispositions des articles L. 5141-5, L. 5141-9 ou L. 5141-10 sans
+avoir préalablement obtenu l'autorisation de mise sur le marché,
+l'enregistrement ou l'autorisation temporaire d'utilisation prévu à ces articles
+;
 
-a) Sans qu'il ait reçu une autorisation de mise sur le marché prévue à l'article
-L. 5141-5 ou l'autorisation prévue à l'article L. 5141-10 ;
-
-b) En méconnaissance des conditions dont est assortie l'autorisation de mise sur
-le marché ;
-
-2° De délivrer au public un prémélange médicamenteux ou d'utiliser un tel
-mélange pour la fabrication d'aliments médicamenteux sans qu'il ait reçu
-l'autorisation de mise sur le marché prévue à l'article L. 5141-5 ;
-
-3° D'importer des médicaments vétérinaires sans l'autorisation prévue à
-l'article L. 5142-7.
+2° D'importer des médicaments vétérinaires, autres que ceux transportés par des
+vétérinaires conformément à l'article L. 5141-15, sans avoir préalablement
+obtenu, selon le cas, l'autorisation d'importation, l'autorisation de mise sur
+le marché, l'autorisation temporaire d'utilisation, l'enregistrement ou le
+certificat mentionné à l'article L. 5142-7.

@@ -1,18 +1,9 @@
 Article L5141-7
 ----
-L'autorisation de mise sur le marché est délivrée pour une durée de cinq ans ;
-elle est renouvelable par période quinquennale.
+Comme il est dit au VII de l'article L. 234-2 du code rural, ci-après reproduit
+:
 
-Toutefois, les médicaments contenant des substances actives figurant à l'annexe
-III du règlement n° 90-2377 (CEE) précité ne sont autorisés que pour la période
-pour laquelle a été fixée la limite maximale de résidus provisoire. Au cas où
-cette période est prolongée, l'autorisation peut être reconduite pour une durée
-équivalente.
-
-Elle peut être suspendue ou supprimée par l'Agence française de sécurité
-sanitaire des aliments.
-
-L'autorisation de mise sur le marché peut être refusée à une spécialité
-pharmaceutique vétérinaire de même composition qualitative et quantitative
-qu'une autre spécialité pour laquelle le même fabricant a déjà obtenu une
-autorisation sous une autre dénomination.
+" Art.L. 234-2.-VII.-Un médicament vétérinaire soumis à autorisation de mise sur
+le marché en application de l'article L. 5141-5 du code de la santé publique ne
+peut être administré à un animal que si cette autorisation a été délivrée et
+dans les conditions prévues par elle ou par la prescription d'un vétérinaire. "

@@ -1,9 +1,16 @@
 Article L5146-2
 ----
-Ces fonctionnaires contrôlent dans les établissements exploités par les
-personnes physiques ou morales mentionnées aux articles L. 5142-1, L. 5143-2 et
-L. 5143-6, ainsi que dans les dépôts de médicaments vétérinaires, en quelque
-main qu'ils se trouvent, l'exécution des prescriptions du présent titre.
+Ont qualité pour rechercher et constater les infractions aux dispositions du
+présent chapitre, ainsi qu'aux mesures réglementaires prises pour leur
+application :
 
-Les denrées alimentaires d'origine animale sont contrôlées en vue de la
-recherche de résidus médicamenteux, toxiques ou dangereux.
+1° Les pharmaciens inspecteurs de santé publique, conformément aux articles L.
+5411-1, L. 5411-2 et L. 5411-3 ;
+
+2° Les vétérinaires inspecteurs, auxquels les dispositions des articles L.
+5411-1, L. 5411-2 et L. 5411-3 sont applicables pour l'exercice de cette mission
+;
+
+3° Les agents de la direction générale de la concurrence, de la consommation et
+de la répression des fraudes, qui disposent à cet effet des pouvoirs prévus aux
+chapitres II à VI du titre Ier du livre II du code de la consommation.

@@ -1,10 +1,13 @@
 Article L5442-5
 ----
-En cas de condamnation pour infraction aux conditions auxquelles est subordonnée
-la publicité concernant les médicaments vétérinaires, le tribunal peut interdire
-la vente du produit faisant l'objet d'une publicité irrégulière.
+Lorsque l'autorité judiciaire est saisie d'une poursuite pour infraction aux
+dispositions du présent chapitre, le représentant de l'Etat dans le département
+peut, si l'intérêt de l'hygiène publique ou de la santé animale l'exige,
+prononcer la fermeture provisoire de l'établissement.
 
-Sont punies des peines prévues pour les infractions aux conditions auxquelles
-est subordonnée la publicité concernant les médicaments vétérinaires, les
-personnes qui bénéficient d'une publicité irrégulière et les agents de diffusion
-de cette publicité.
+Les personnes physiques coupables d'une infraction prévue au présent chapitre
+encourent la peine complémentaire de la fermeture temporaire ou définitive de
+l'établissement.
+
+La récidive des infractions prévues aux articles du présent chapitre est punie
+de six mois d'emprisonnement et de 9000 euros d'amende.

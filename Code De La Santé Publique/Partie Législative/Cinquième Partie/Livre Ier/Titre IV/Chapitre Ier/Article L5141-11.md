@@ -1,14 +1,18 @@
 Article L5141-11
 ----
-Des conditions particulières de production, d'autorisation de mise sur le marché
-et de délivrance sont applicables à l'aliment médicamenteux.
+Pour la fabrication d'aliments médicamenteux, seuls peuvent être utilisés des
+prémélanges médicamenteux ayant obtenu une autorisation de mise sur le marché
+mentionnée à l'article L. 5141-5 ou une autorisation temporaire d'utilisation
+mentionnée à l'article L. 5141-10.
 
-L'aliment médicamenteux ne peut être fabriqué qu'à partir d'un prémélange
-médicamenteux ayant reçu l'autorisation de mise sur le marché.
+L'aliment médicamenteux ne peut être délivré au public et administré à l'animal
+s'il ne répond aux conditions prévues au premier alinéa ci-dessus. Des
+conditions particulières de fabrication, d'importation, d'exportation, de
+prescription, de délivrance et d'utilisation sont applicables à l'aliment
+médicamenteux.
 
-Par dérogation, les vétérinaires peuvent faire fabriquer sous leur
-responsabilité et sur prescription un aliment médicamenteux à partir de plus
-d'un prémélange médicamenteux autorisé à la condition que ne soit disponible,
-dans des délais compatibles avec les nécessités thérapeutiques, aucun prémélange
-médicamenteux autorisé spécifique pour la maladie à traiter ou à prévenir dans
-l'espèce concernée.
+Aucun prémélange médicamenteux ne peut être délivré au public ni administré à
+l'animal. Les prémélanges médicamenteux ne peuvent être délivrés qu'à un
+établissement autorisé en application de l'article L. 5142-2 pour la fabrication
+d'aliments médicamenteux ou à un éleveur pour la fabrication extemporanée
+d'aliments médicamenteux dans les conditions prévues à l'article L. 5143-3.

@@ -1,13 +1,6 @@
 Article L5442-4
 ----
-Lorsque l'autorité judiciaire est saisie d'une poursuite pour infraction aux
-dispositions du présent chapitre, le représentant de l'Etat dans le département
-peut, si l'intérêt de l'hygiène publique ou de la santé animale l'exige,
-prononcer la fermeture provisoire de l'établissement.
-
-Les personnes physiques coupables d'une infraction prévue au présent chapitre
-encourent la peine complémentaire de la fermeture temporaire ou définitive de
-l'établissement.
-
-La récidive des infractions prévues aux articles du présent chapitre est punie
-de six mois d'emprisonnement et de 60 000 F d'amende.
+Le fait de fabriquer un aliment médicamenteux à partir d'un prémélange n'ayant
+pas obtenu une autorisation de mise sur le marché mentionnée à l'article L.
+5141-5 ou une autorisation temporaire d'utilisation mentionnée à l'article L.
+5141-10 est puni d'un an d'emprisonnement et de 15000 euros d'amende.
