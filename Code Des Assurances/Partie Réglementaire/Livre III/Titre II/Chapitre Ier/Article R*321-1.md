@@ -190,10 +190,7 @@ décès ou en cas de cessation ou de réduction d'activités.
 Toute opération à caractère collectif définie à la section I du chapitre Ier du
 titre IV du livre IV.
 
-27. Acquisition d'immeubles :
-
-Toute opération ayant pour objet l'acquisition d'immeubles au moyen de la
-constitution de rentes viagères.
+27. (mention abrogée).
 
 28. Epargne :
 
@@ -202,8 +199,3 @@ les adhérents, soit en vue de les affecter à des comptes de dépôt portant
 intérêt, soit en vue de la capitalisation en commun, avec participation aux
 bénéfices d'autres sociétés, gérées ou administrées directement ou
 indirectement.
-
-30. Réassurance :
-
-Toute opération d'acceptation en réassurance pratiquée par les entreprises dont
-l'activité s'étend à d'autres branches.
