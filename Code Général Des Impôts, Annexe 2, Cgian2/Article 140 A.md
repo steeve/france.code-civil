@@ -12,7 +12,7 @@ du code général des impôts, qui ont été versées par l'employeur ;
 formations technologiques et professionnelles qui peuvent donner lieu à
 exonération ;
 
-4° Le montant du versement à effectuer, le cas échéant, à la caisse du receveur
-des impôts.
+4° Le montant du versement à effectuer, le cas échéant, auprès des comptables de
+la direction générale des impôts.
 
 La déclaration doit être rédigée sur un imprimé fourni par l'administration.
