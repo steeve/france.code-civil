@@ -14,13 +14,13 @@ Aux décharges de ce compte sont portées les quantités d'alcool :
 
 Régulièrement expédiées sous le couvert de titres de mouvement Renfermées dans
 les échantillons prélevés par les agents des impôts aux fins d'analyse et
-régulièrement expédiées à cet effet à des laboratoires notamment à celui du
-ministère de l'économie et des finances Déclarées soumises à un repassage une
-rectification ou une déshydratation Constituées d'alcools imparfaits et
-déclarées être ajoutées aux matières à distiller lorsque ces alcools ont déjà
-été pris en charge Dénaturées sur place dans les conditions réglementaires Dont
-la perte accidentelle ou la destruction est régulièrement constatée Dégagées en
-manquant lors des inventaires.
+régulièrement expédiées à cet effet à des laboratoires notamment à celui de la
+direction générale des douanes et droits indirects Déclarées soumises à un
+repassage une rectification ou une déshydratation Constituées d'alcools
+imparfaits et déclarées être ajoutées aux matières à distiller lorsque ces
+alcools ont déjà été pris en charge Dénaturées sur place dans les conditions
+réglementaires Dont la perte accidentelle ou la destruction est régulièrement
+constatée Dégagées en manquant lors des inventaires.
 
 Les quantités d'alcool utilisées pour la macération de fruits ne sont pas
 portées aux décharges du compte de magasin.

@@ -6,5 +6,5 @@ produits achevés, définis à l'article 188.
 
 Si, ne présentant pas ce caractère, ces produits contiennent encore de l'alcool
 à l'état libre, le service des impôts peut, sur l'avis du service des
-laboratoires du ministère de l'économie et des finances, les dispenser des
-formalités à la circulation.
+laboratoires de la direction générale des douanes et droits indirects, les
+dispenser des formalités à la circulation.
