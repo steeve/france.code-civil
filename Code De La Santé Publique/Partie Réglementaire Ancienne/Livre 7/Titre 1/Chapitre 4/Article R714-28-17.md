@@ -6,12 +6,12 @@ et réglementaires la régissant ainsi que des stipulations des contrats des
 praticiens.
 
 Elle peut se saisir de toute question relative à l'exercice de l'activité
-libérale des praticiens ou en être saisie par le préfet du département, le
-directeur de la caisse primaire d'assurance maladie, le président du conseil
-d'administration, le président de la commission médicale d'établissement et le
-directeur de l'établissement. Un praticien peut saisir la commission de
-l'activité libérale de toute question relative à l'exercice de son activité
-libérale.
+libérale des praticiens ou en être saisie par le directeur de l'agence régionale
+de l'hospitalisation, le directeur de la caisse primaire d'assurance maladie, le
+président du conseil d'administration, le président de la commission médicale
+d'établissement et le directeur de l'établissement. Un praticien peut saisir la
+commission de l'activité libérale de toute question relative à l'exercice de son
+activité libérale.
 
 La commission de l'activité libérale peut soumettre aux autorités mentionnées à
 l'alinéa précédent toute question ou proposition relative à l'activité libérale

@@ -1,13 +1,20 @@
 Article R714-28-12
 ----
-Les honoraires des praticiens au titre de leur activité libérale sont, en
-application de l'article L. 6154-3, perçus pour leur compte par le comptable de
-l'établissement et font l'objet d'un reversement mensuel au praticien.
+Les praticiens qui choisissent de percevoir directement leurs honoraires
+fournissent au directeur de l'établissement public de santé un état
+récapitulatif de l'exercice de leur activité libérale, nécessaire au calcul de
+la redevance qu'ils doivent acquitter en application de l'article L. 6154-3. La
+redevance due fait l'objet d'un paiement trimestriel.
 
-Les praticiens adressent chaque mois au directeur de l'établissement un état
-récapitulatif de l'exercice de leur activité.
+Lorsque l'établissement recouvre les honoraires pour le compte du praticien, ce
+dernier adresse au directeur de l'établissement public de santé cet état
+récapitulatif. L'établissement reverse mensuellement les honoraires à
+l'intéressé et prélève trimestriellement le montant de la redevance.
 
-La redevance prévue à l'article L. 6154-3 est prélevée trimestriellement.
+Les organismes gestionnaires d'un régime de base d'assurance maladie
+communiquent tous les six mois au directeur et au président de la commission de
+l'activité libérale mentionnée à l'article L. 6154-5 de l'établissement public
+de santé les informations énumérées à l'article L. 6154-3.
 
 Les praticiens hospitaliers à temps plein ne peuvent être nommés régisseurs de
 recettes pour l'encaissement des honoraires résultant de l'exercice de

@@ -1,10 +1,10 @@
 Article R714-28-21
 ----
 Lorsque, par application de l'article L. 6154-6, la commission est consultée par
-le préfet du département sur la suspension ou le retrait de l'autorisation
-d'exercer d'un praticien ou qu'elle décide de se saisir du cas d'un praticien,
-son président désigne, parmi les membres de la commission, un rapporteur chargé
-d'instruire le dossier.
+le directeur de l'agence régionale de l'hospitalisation sur la suspension ou le
+retrait de l'autorisation d'exercer d'un praticien ou qu'elle décide de se
+saisir du cas d'un praticien, son président désigne, parmi les membres de la
+commission, un rapporteur chargé d'instruire le dossier.
 
 Le praticien peut prendre connaissance des pièces de son dossier trente jours au
 moins avant la réunion de la commission. Il peut demander à être entendu par
@@ -21,6 +21,6 @@ présents. En cas de partage des voix, celle du président est prépondérante.
 
 Les avis et propositions de la commission sont motivés.
 
-Lorsqu'elle a été saisie par le préfet du département, la commission rend son
-avis deux mois au plus tard après cette saisine ; passé ce délai, cet avis est
-réputé rendu.
+Lorsqu'elle a été saisie par le directeur de l'agence régionale de
+l'hospitalisation, la commission rend son avis deux mois au plus tard après
+cette saisine ; passé ce délai, cet avis est réputé rendu.

@@ -1,7 +1,7 @@
 Article R714-28-18
 ----
 Les membres de la commission de l'activité libérale de l'établissement sont
-nommés par le préfet du département.
+nommés par le directeur de l'agence régionale de l'hospitalisation.
 
 La commission comprend :
 
@@ -23,8 +23,8 @@ directeur de la caisse primaire d'assurance maladie ;
 5° Deux praticiens exerçant une activité libérale désignés par la commission
 médicale d'établissement ;
 
-6° Un praticien n'exerçant pas d'activité libérale désigné par la commission
-médicale d'établissement.
+6° Un praticien statutaire à temps plein, n'exerçant pas d'activité libérale,
+désigné par la commission médicale d'établissement.
 
 La commission élit son président parmi ses membres, par vote à bulletin secret,
 à la majorité absolue au premier tour de scrutin, à la majorité relative au
