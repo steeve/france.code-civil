@@ -2,9 +2,9 @@ Article R233-60
 ----
 Toute modification faite par le constructeur ou l'importateur d'un élément du
 matériel tel qu'il est décrit dans le dossier qui a été fourni à l'appui d'une
-demande d'homologation ou de visa d'examen technique d'un appareil, machine,
+demande d'homologation ou d'attestation d'examen de type d'un appareil, machine,
 élément de machine, doit faire l'objet d'une nouvelle demande d'homologation ou
-de visa d'examen technique.
+d'attestation d'examen de type.
 
 Toutefois, lorsque la modification n'a aucune incidence défavorable sur
 l'hygiène ou la sécurité des travailleurs, le constructeur ou l'importateur peut
