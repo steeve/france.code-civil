@@ -4,14 +4,20 @@ Toute ordonnance comportant une prescription de médicaments ou produits
 mentionnés à la présente section doit être rédigée après examen du malade et
 indiquer lisiblement [*mentions obligatoires*] :
 
-1° Le nom, l'adresse et la qualité du prescripteur, sa signature et la date à
-laquelle elle a été rédigée ;
+1° Le nom, la qualité et, le cas échéant, la qualification ou le titre du
+prescripteur, son adresse, sa signature et la date à laquelle l'ordonnance a été
+rédigée ;
 
 2° La dénomination du médicament ou du produit prescrit, sa posologie et son
 mode d'emploi ;
 
 3° La quantité prescrite ou la durée du traitement et, éventuellement, le nombre
-de renouvellements.
+de renouvellements ;
+
+4° Pour un médicament classé dans la catégorie des médicaments à prescription
+initiale hospitalière en application des dispositions de l'article R. 5143-5-3,
+la date à laquelle un nouveau diagnostic doit être effectué lorsque
+l'autorisation de mise sur le marché le prévoit.
 
 En outre, elle mentionne :
 
