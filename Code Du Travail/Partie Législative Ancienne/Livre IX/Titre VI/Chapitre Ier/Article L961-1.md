@@ -1,10 +1,10 @@
 Article L961-1
 ----
-L'Etat, les régions, les employeurs et les organismes paritaires agréés en en
+L'Etat, les régions, les employeurs et les organismes paritaires agréés en
 application de l'article L. 951-3 concourent au financement de la rémunération
 des stagiaires de la formation professionnelle.
 
-les institutions mentionnnées à l'article L. 351-2 du présent code concourent
+les institutions mentionnées à l'article L. 351-2 du présent code concourent
 également à ce financement, selon des modalités fixéees par voie de conventions
 conclues avec l'état ou les régions.
 

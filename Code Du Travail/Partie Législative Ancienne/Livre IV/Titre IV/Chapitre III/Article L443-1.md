@@ -11,8 +11,17 @@ d'épargne d'entreprise.
 Dans les entreprises dont l'effectif habituel comprend au moins un et au plus
 cent salariés, les chefs de ces entreprises, ou, s'il s'agit de personnes
 morales, leurs présidents, directeurs généraux, gérants ou membres du
-directoire, peuvent également participer aux plans d'épargne d'entreprise. Les
-plans d'épargne d'entreprise peuvent être établis dans toute entreprise à
+directoire, peuvent également participer aux plans d'épargne d'entreprise.
+Lorsque l'entreprise comporte au moins un délégué syndical ou est dotée d'un
+comité d'entreprise, le plan d'épargne d'entreprise doit être négocié avec le
+personnel.
+
+Si, au terme de la négociation, aucun accord n'a été conclu, il est établi un
+procès-verbal de désaccord dans lequel sont consignées en leur dernier état les
+propositions respectives des parties et les mesures que l'employeur entend
+appliquer unilatéralement.
+
+Les plans d'épargne d'entreprise peuvent être établis dans toute entreprise à
 l'initiative de celle-ci ou en vertu d'un accord avec le personnel, notamment en
 vue de recevoir les versements faits en application des chapitres Ier et II
 ci-dessus. Lors de la négociation des accords prévus aux chapitres précités, la

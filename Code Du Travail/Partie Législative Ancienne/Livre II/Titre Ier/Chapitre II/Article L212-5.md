@@ -6,10 +6,11 @@ hebdomadaire du travail fixée par l'article L. 212-1 ou de la durée considér�
 comme équivalente sont régies par les dispositions suivantes :
 
 I. - Les heures supplémentaires donnent lieu à une majoration de salaire dont le
-taux est fixé par une convention ou un accord de branche étendu. Ce taux ne peut
-être inférieur à 10 %. A défaut de convention ou d'accord, chacune des huit
-premières heures supplémentaires donne lieu à une majoration de 25 % et les
-heures suivantes à une majoration de 50 %.
+taux est fixé par une convention ou un accord de branche étendu ou une
+convention ou un accord d'entreprise ou d'établissement. Ce taux ne peut être
+inférieur à 10 %. A défaut de convention ou d'accord, chacune des huit premières
+heures supplémentaires donne lieu à une majoration de 25 % et les heures
+suivantes à une majoration de 50 %.
 
 II. - Une convention ou un accord collectif étendu ou une convention ou un
 accord d'entreprise ou d'établissement peut, sans préjudice des dispositions de

@@ -1,9 +1,9 @@
 Article L953-1
 ----
-A compter du 1er janvier 1992 [*date, point de départ*], les travailleurs
-indépendants, les membres des professions libérales et des professions non
-salariées, y compris ceux n'employant aucun salarié, bénéficient personnellement
-du droit à la formation professionnelle continue.
+A compter du 1er janvier 1992, point de départ*, les travailleurs indépendants,
+les membres des professions libérales et des professions non salariées, y
+compris ceux n'employant aucun salarié, bénéficient personnellement du droit à
+la formation professionnelle continue.
 
 A cette fin, ils consacrent chaque année au financement des actions définies à
 l'article L. 950-1 une contribution qui ne peut être inférieure à 0,15 p. 100 du
@@ -11,8 +11,7 @@ montant annuel du plafond de la sécurité sociale. Toutefois, sont dispensées 
 versement de cette contribution les personnes dispensées du versement de la
 cotisation personnelle d'allocations familiales qui justifient d'un revenu
 professionnel non salarié non agricole inférieur à un montant déterminé dans les
-conditions prévues à l'article L. 242-11 du code de la sécurité sociale
-[*exonération*].
+conditions prévues à l'article L. 242-11 du code de la sécurité sociale.
 
 Cette contribution, à l'exclusion de celle effectuée par les assujettis visés
 aux articles L. 953-2 et L. 953-3, est versée à un fonds d'assurance formation

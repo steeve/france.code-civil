@@ -16,8 +16,8 @@ et plus, dans les conditions fixées aux premier et deuxième alinéas de l'arti
 L. 434-10.
 
 Pour les établissements de moins de trois cents salariés, ces conditions sont
-fixées par la convention collective de branche ou, à défaut, par des
-dispositions spécifiques fixées par voie réglementaire.
+fixées par convention ou accord collectif ou, à défaut, par des dispositions
+spécifiques fixées par voie réglementaire.
 
 En outre, dans les établissements comprenant au moins une installation figurant
 sur la liste prévue au IV de l'article L. 515-8 du code de l'environnement ou

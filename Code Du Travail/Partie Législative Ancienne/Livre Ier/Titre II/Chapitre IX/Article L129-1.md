@@ -19,7 +19,8 @@ Cet agrément ne peut être délivré qu'aux associations sans but lucratif, don
 les activités concernent les tâches ménagères ou familiales, et,
 obligatoirement, soit la garde des enfants, soit l'assistance aux personnes
 âgées, handicapées ou à celles qui ont besoin d'une aide personnelle à leur
-domicile.
+domicile ou d'une aide à la mobilité dans l'environnement de proximité
+favorisant leur maintien à domicile.
 
 Dans le cas prévu au 1° ci-dessus, les associations peuvent demander aux
 employeurs une contribution représentative de leurs frais de gestion. Les

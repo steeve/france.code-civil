@@ -1,16 +1,10 @@
 Article L933-1
 ----
-Le comité d'entreprise est obligatoirement consulté tous les ans [*périodicité*]
-sur les orientations de la formation professionnelle dans l'entreprise en
-fonction des perspectives économiques et de l'évolution de l'emploi, des
-investissements et des technologies dans l'entreprise.
-
-Ces orientations doivent prendre en compte l'analyse de la situation comparée
-des hommes et des femmes, telle qu'elle ressort des informations fournies par
-l'employeur en application des articles L. 132-28 et L. 432-3-1, ainsi que les
-mesures arrêtées en application de l'article L. 123-3 du présent code.
-
-Le comité d'entreprise est obligatoirement saisi chaque fois qu'un changement
-important affecte l'un des éléments mentionnés aux alinéas précédents. En outre,
-une telle délibération doit avoir lieu dans les trois mois qui précèdent
-l'ouverture de la négociation prévue à l'article L. 932-2 [*délai*].
+Tout salarié titulaire d'un contrat de travail à durée indéterminée, à
+l'exclusion des contrats mentionnés au titre Ier du livre Ier et au chapitre Ier
+du titre VIII du présent livre, disposant d'une ancienneté d'au moins un an dans
+l'entreprise qui l'emploie, bénéficie chaque année d'un droit individuel à la
+formation d'une durée de vingt heures, sauf dispositions d'une convention ou
+d'un accord collectif interprofessionnel, de branche ou d'entreprise prévoyant
+une durée supérieure. Pour les salariés à temps partiel, cette durée est
+calculée prorata temporis.

@@ -32,4 +32,6 @@ réduction opérée au titre de l'impôt sur le revenu ainsi que les modalités
 suivant lesquelles sont appréciés les effectifs des entreprises pour
 l'application de l'article L. 442-1. Il fixe également les conditions dans
 lesquelles le présent chapitre est appliqué aux sociétés mères et aux sociétés
-filiales.
+filiales. Il détermine, en outre, le mode de calcul de la réserve spéciale de
+participation pour les entreprises situées dans des zones franches et exonérées
+d'impôt sur le revenu ou d'impôt sur les sociétés.

@@ -4,11 +4,16 @@ La convention de branche conclue au niveau national contient obligatoirement,
 pour pouvoir être étendue, outre les clauses prévues aux articles L. 132-5, L.
 132-7 et L. 132-17, des dispositions concernant :
 
-1° L'exercice du droit syndical et la liberté d'opinion des salariés ;
+1° L'exercice du droit syndical et la liberté d'opinion des salariés, le
+déroulement de carrière des salariés exerçant des responsabilités syndicales et
+l'exercice de leurs fonctions ;
 
 2° Les délégués du personnel, le comité d'hygiène, de sécurité et des conditions
 de travail, les comités d'entreprise et le financement des activités sociales et
 culturelles gérées par lesdits comités ;
+
+2° bis Les conditions d'exercice des mandats de négociation et de représentation
+au niveau de la branche ;
 
 3° Les éléments essentiels servant à la détermination des classifications
 professionnelles et des niveaux de qualification, notamment les mentions
@@ -88,4 +93,8 @@ employeurs et les salariés liés par la convention ;
 d'épargne d'entreprise, et notamment la possibilité d'affecter une partie des
 sommes collectées dans le cadre du plan prévu à l'article L. 443-1-2, s'il est
 mis en place, à l'acquisition de parts des fonds solidaires mentionnés au III de
-l'article L. 443-1-2.
+l'article L. 443-1-2 ;
+
+16° Les modalités de prise en compte dans la branche ou l'entreprise des
+demandes relatives aux thèmes de négociation émanant d'une ou des organisations
+syndicales de salariés représentatives.

@@ -16,9 +16,11 @@ manquements à la probité, aux bonnes moeurs et à l'honneur.
 d'identification de la personne physique ou morale, ainsi que les éléments
 descriptifs de son activité. L'autorité administrative de l'Etat chargée de la
 formation professionnelle procède à l'enregistrement des déclarations au vu des
-pièces produites. L'enregistrement est annulé par décision de la même autorité
-administrative lorsqu'il apparaît que les prestations réalisées ne correspondent
-pas aux actions visées à l'article L. 900-2. Les décisions d'annulation de
+pièces produites. Après une mise en demeure dont le délai est défini par décret,
+l'enregistrement est annulé par décision de la même autorité administrative
+lorsqu'il apparaît que les prestations réalisées ne correspondent pas aux
+actions visées à l'article L. 900-2 ou lorsque les règles définies aux articles
+L. 920-1 et L. 920-13 ne sont pas respectées. Les décisions d'annulation de
 l'enregistrement sont motivées et notifiées aux intéressés dans les conditions
 prévues à l'article L. 991-8. La déclaration devient caduque lorsque les bilans
 pédagogiques et financiers prévus à l'article L. 920-5 ne font apparaître aucune

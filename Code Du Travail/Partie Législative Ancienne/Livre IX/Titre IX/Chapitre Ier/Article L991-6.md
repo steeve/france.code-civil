@@ -1,6 +1,6 @@
 Article L991-6
 ----
-Des décrets déterminent, en tant que de besoin, les modalités d'application de
-la présente loi aux salariés exerçant des activités qui, par leur nature,
-conduisent à une dispersion ou à une mobilité permanente du personnel, en
-excluant l'occupation de façon continue, par un même employeur.
+La convention conclue par un organisme de formation, lorsqu'elle est financée
+sur fonds publics, doit prévoir des mesures de compensation en cas d'inexécution
+totale ou partielle. A défaut de compensation, l'inexécution donne lieu à
+reversement, total ou partiel, aux collectivités publiques concernées.

@@ -27,9 +27,7 @@ limites journalières et hebdomadaires se substituant à celles prévues au
 deuxième alinéa des articles L. 212-1 et L. 212-7, à condition de prévoir des
 modalités de contrôle de l'application de ces nouveaux maxima conventionnels et
 de déterminer les conditions de suivi de l'organisation du travail et de la
-charge de travail des salariés concernés et sous réserve que cette convention ou
-cet accord n'ait pas fait l'objet d'une opposition en application de l'article
-L. 132-26.
+charge de travail des salariés concernés.
 
 La convention ou l'accord peut également préciser que les conventions de forfait
 en heures sur l'année sont applicables aux salariés itinérants non cadres dont
@@ -38,19 +36,17 @@ réelle autonomie dans l'organisation de leur emploi du temps pour l'exercice de
 responsabilités qui leur sont confiées.
 
 III. - La convention ou l'accord collectif prévoyant la conclusion de
-conventions de forfait en jours ne doit pas avoir fait l'objet d'une opposition
-en application de l'article L. 132-26. Cette convention ou cet accord doit fixer
-le nombre de jours travaillés. Ce nombre ne peut dépasser le plafond de deux
-cent dix-sept jours. La convention ou l'accord définit, au regard de leur
-autonomie dans l'organisation de leur emploi du temps, les catégories de cadres
-concernés. La convention ou l'accord précise en outre les modalités de décompte
-des journées et des demi-journées travaillées et de prise des journées ou
-demi-journées de repos. Il détermine les conditions de contrôle de son
-application et prévoit des modalités de suivi de l'organisation du travail des
-salariés concernés, de l'amplitude de leurs journées d'activité et de la charge
-de travail qui en résulte. L'accord peut en outre prévoir que des jours de repos
-peuvent être affectés sur un compte épargne-temps dans les conditions définies
-par l'article L. 227-1.
+conventions de forfait en jours doit fixer le nombre de jours travaillés. Ce
+nombre ne peut dépasser le plafond de deux cent dix-sept jours. La convention ou
+l'accord définit, au regard de leur autonomie dans l'organisation de leur emploi
+du temps, les catégories de cadres concernés. La convention ou l'accord précise
+en outre les modalités de décompte des journées et des demi-journées travaillées
+et de prise des journées ou demi-journées de repos. Il détermine les conditions
+de contrôle de son application et prévoit des modalités de suivi de
+l'organisation du travail des salariés concernés, de l'amplitude de leurs
+journées d'activité et de la charge de travail qui en résulte. L'accord peut en
+outre prévoir que des jours de repos peuvent être affectés sur un compte
+épargne-temps dans les conditions définies par l'article L. 227-1.
 
 Les salariés concernés ne sont pas soumis aux dispositions de l'article L. 212-1
 et du deuxième alinéa de l'article L. 212-7. Les dispositions des articles L.

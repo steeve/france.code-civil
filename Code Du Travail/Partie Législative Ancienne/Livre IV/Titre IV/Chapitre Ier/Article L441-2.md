@@ -13,6 +13,11 @@ accord d'intéressement ; un engagement de négocier, dans chacune des filiales
 qui ne sont pas couvertes par un tel accord, dans un délai maximum de quatre
 mois à compter de cette même date, doit être pris par l'entreprise.
 
+Les accords d'intéressement, au sens du présent chapitre, conclus au sein d'un
+groupe de sociétés établies dans plusieurs Etats membres de l'Union européenne,
+ouvrent droit aux exonérations précitées pour les primes versées à leurs
+salariés par les entreprises parties auxdits accords situées en France.
+
 Ces accords doivent instituer un système d'information du personnel et de
 vérification des modalités d'exécution de l'accord. Ils comportent notamment un
 préambule indiquant les motifs de l'accord ainsi que les raisons du choix des

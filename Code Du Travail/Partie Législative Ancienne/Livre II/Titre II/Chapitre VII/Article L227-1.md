@@ -1,9 +1,8 @@
 Article L227-1
 ----
 Une convention ou un accord collectif étendu ou une convention ou un accord
-d'entreprise ou d'établissement n'ayant pas fait l'objet de l'opposition prévue
-à l'article L. 132-26 peut prévoir la création d'un compte épargne-temps au
-profit des salariés.
+d'entreprise ou d'établissement peut prévoir la création d'un compte
+épargne-temps au profit des salariés.
 
 Le compte épargne-temps a pour objet de permettre au salarié qui le désire
 d'accumuler des droits à congé rémunéré ou de se constituer une épargne,

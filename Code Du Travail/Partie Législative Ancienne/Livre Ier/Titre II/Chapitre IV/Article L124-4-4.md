@@ -18,8 +18,9 @@ Elle n'est pas due :
 
 1° Dans le cas de contrats de travail temporaire conclus au titre du 3° de
 l'article L. 124-2-1 si un accord collectif étendu entre les organisations
-professionnelles d'employeurs et de salariés de la branche du travail temporaire
-le prévoit ;
+professionnelles d'employeurs et de salariés de la branche du travail
+temporaire, ou si une convention ou un accord conclu au sein d'entreprises ou
+d'établissements de cette branche le prévoit ;
 
 2° Dans le cas de contrats de travail temporaire conclus dans le cadre de
 l'article L. 124-21 ;

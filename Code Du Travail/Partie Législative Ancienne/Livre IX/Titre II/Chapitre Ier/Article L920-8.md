@@ -7,12 +7,12 @@ fixées par décret.
 Les organismes à activités multiples doivent suivre d'une façon distincte en
 comptabilité l'activité au titre de la formation professionnelle continue.
 
-Des décrets en Conseil d'Etat pris conformément aux articles 17-1 et 64 de la
-loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales et à l'article 27
-de la loi n° 84-148 du 1er mars 1984 relative à la prévention et au règlement
-amiable des difficultés des entreprises peuvent fixer des seuils particuliers
-aux dispensateurs de formation mentionnés à l'alinéa premier en ce qui concerne
-l'obligation de désigner un commissaire aux comptes.
+Des décrets en Conseil d'Etat pris conformément aux articles L. 221-9 et L.
+223-35 du code de commerce et à l'article 27 de la loi n° 84-148 du 1er mars
+1984 relative à la prévention et au règlement amiable des difficultés des
+entreprises peuvent fixer des seuils particuliers aux dispensateurs de formation
+mentionnés à l'alinéa premier en ce qui concerne l'obligation de désigner un
+commissaire aux comptes.
 
 Le contrôle des comptes des dispensateurs de formation de droit privé constitués
 en groupement d'intérêt économique doit être exercé par un commissaire aux
