@@ -8,6 +8,6 @@ peut comporter des mentions complémentaires portant sur la catégorie
 particulière de travailleurs handicapés et sur l'établissement qui a fabriqué le
 produit considéré.
 
-Les modalités d'application du présent article sont précisées par un arrêté
-d'application du ministre chargé du travail qui fixe, en particulier, les formes
-et les dimensions du label.
+Les modalités d'application du présent article sont précisées par un arrêté du
+ministre chargé du travail qui fixe, en particulier, les formes et les
+dimensions du label.

@@ -1,8 +1,9 @@
 Article R323-88
 ----
-Une section permanente est créée au sein du Conseil supérieur. Elle est chargé
-d'étudier les questions qui lui sont soumises par le ministre chargé du travail
-ou par le Conseil supérieur.
+Une section permanente est créée au sein du Conseil supérieur.
+
+Elle est chargée d'étudier les questions qui lui sont soumises par le ministre
+chargé du travail ou par le Conseil supérieur.
 
 Elle est présidée par le ministre chargé du travail ou son représentant et
 comprend [*composition*] les membres ci-après du conseil supérieur :

@@ -13,7 +13,8 @@ partie de ce portefeuille ;
 les conditions prévues au titre II de l'ordonnance du 2 novembre 1945 précitée,
 pour la partie des bénéfices visée au 1°. Ces sociétés cesseront de bénéficier
 des dispositions du présent alinéa trois ans après leur création, si leurs
-actions ne sont pas introduites à une cote d'agents de change avant ce délai ;
+actions ne sont pas introduites à la cote officielle ou à la cote du second
+marché d'une bourse de valeurs avant ce délai ;
 
 1° bis A. Les sociétés d'investissement à capital variable [*SICAV*] régies par
 la loi n° 79-12 du 3 janvier 1979 pour les bénéfices réalisés dans le cadre de

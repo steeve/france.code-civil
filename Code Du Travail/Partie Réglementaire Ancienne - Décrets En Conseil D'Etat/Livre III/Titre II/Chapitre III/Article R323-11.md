@@ -1,14 +1,13 @@
 Article R323-11
 ----
-Les contestations survenant, soit pendant la période d'essai, soit à
-l'expiration de celle-ci, relatives notamment à l'affectation au poste de
-travail considéré, aux aptitudes professionnelles ou au rendement du
-bénéficiaire, sont soumises à l'inspecteur du travail et la main-d'oeuvre
-[*compétence*] ou, pour les professions agricoles, à l'inspecteur des lois
-sociales en agriculture qui statue dans les quinze jours de leur réception.
-
-Les recours contre les décisions de l'inspecteur sont portés,
-
-par application de l'article L. 323-6, dans les huit jours [*délai*] de la
-notification, devant la commission départementale de contrôle. Celle-ci statue
-par une décision motivée.
+Le commissaire de la République du département où chaque établissement concerné
+est situé ou, dans le cas des entreprises dans lesquelles un accord a été conclu
+en application de l'article L. 323-8-1 concernant des établissements situés dans
+plusieurs départements, le commissaire de la République du département où est
+situé le siège de l'entreprise [*autorité territorialement compétente*] adresse
+à l'employeur qui n'a pas rempli les obligations définies aux articles L. 323-1,
+L. 323-8, L. 323-8-1, L. 323-8-5 une notification motivée de la pénalité prévue
+à l'article L. 323-8-6 qui lui est appliquée et établit un titre de perception
+pour la somme correspondante. Il transmet ce titre au trésorier-payeur général
+qui en assure le recouvrement suivant la procédure prévue par les décrets du 29
+décembre 1962 et du 14 mars 1986 susvisés.
