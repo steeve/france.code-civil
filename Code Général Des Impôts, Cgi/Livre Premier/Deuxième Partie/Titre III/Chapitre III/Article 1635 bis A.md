@@ -15,12 +15,17 @@ l'article 991.
 
 Son taux est fixé à :
 
-10 % en ce qui concerne les conventions d'assurances contre l'incendie;
+a) 10 % en ce qui concerne les conventions d'assurances contre l'incendie;
 
-5 % en ce qui concerne les autres conventions d'assurances.
+b) 5 % en ce qui concerne les autres conventions d'assurances.
 
 Ces taux sont portés respectivement à 15 % et à 7 % pour une période de cinq ans
 à compter du 1er janvier 1992.
+
+((Pour une période d'un an à compter du 1er janvier 1997, le taux prévu au a est
+maintenu à 15 % et celui prévu au b est maintenu à 7 %, à l'exception des
+conventions couvrant les dommages aux cultures et la mortalité du bétail dont le
+taux est fixé à 5 %)) (M) ;
 
 Les contrats d'assurance sur les risques de gel de récoltes sont exonérés de
 cette contribution.
@@ -30,6 +35,9 @@ ans, une contribution additionnelle complémentaire de 7 % sur toutes les primes
 ou cotisations afférentes aux conventions d'assurance couvrant les risques de
 responsabilité publique et de dommages relatifs aux véhicules utilitaires
 affectés aux exploitants agricoles (2).
+
+((La contribution additionnelle complémentaire prévue par le premier alinéa est
+prorogée au taux de 7 % jusqu'au 31 décembre 1997)) (M) ;
 
 Les modalités d'application en seront fixées par un arrêté conjoint du ministre
 chargé de l'agriculture et du ministre chargé du budget (3) ;
@@ -52,6 +60,8 @@ les risques nautiques desdites exploitations.
 
 (1) Voir annexe II, art. 326 et décret n° 65-842 du 4 octobre 1965, art. 1
 modifié.
+
+(M) Modification de la loi.
 
 (2) A compter du 1er janvier 1992.
 

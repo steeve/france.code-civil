@@ -1,6 +1,7 @@
 Article L169 A
 ----
-Le délai de reprise prévu à l'article L. 169 s'applique également :
+Le délai de reprise prévu ((au premier alinéa de l'article L. 169)) (M)
+s'applique également :
 
 1° A la retenue à la source sur les revenus de capitaux mobiliers prévue à
 l'article 119 bis du code général des impôts ;
@@ -23,3 +24,5 @@ de construction ;
 
 Ainsi qu'à tous prélèvements et taxes qui tiennent lieu de l'impôt sur le revenu
 ou de l'impôt sur les sociétés.
+
+(M) Modification de la loi 96-1181.

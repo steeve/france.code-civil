@@ -9,5 +9,5 @@ contribuable change fréquemment son lieu de résidence ou de principal
 établissement, ou a transféré son activité à l'étranger sans déposer la
 déclaration de ses résultats ou de ses revenus non commerciaux, ou ne s'est pas
 fait connaître d'un centre de formalités des entreprises ou du greffe du
-tribunal de commerce ou d'un organisme consulaire, ou si un contrôle fiscal n'a
-pu avoir lieu du fait du contribuable ou de tiers.
+tribunal de commerce, ou si un contrôle fiscal n'a pu avoir lieu du fait du
+contribuable ou de tiers.

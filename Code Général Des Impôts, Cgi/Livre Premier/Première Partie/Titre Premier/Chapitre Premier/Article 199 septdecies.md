@@ -27,5 +27,8 @@ d'application des articles 199 sexies et 199 sexies C.
 La réduction d'impôt prévue au premier alinéa est égale à 25 p. 100 du montant
 annuel des intérêts payés au prêteur.
 
+((Les dispositions du 5 du I de l'article 197 sont applicables)) (M).
+
 II. Les modalités d'application du présent article et notamment les obligations
-des prêteurs et des contribuables sont fixées par décret.
+des prêteurs et des contribuables sont fixées par décret. (M) Modification de la
+loi 96-1181.

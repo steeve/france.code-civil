@@ -9,8 +9,7 @@ souscriptions. Ces versements doivent intervenir dans les trois ans suivant la
 date de constitution de la société et sont retenus dans une limite qui ne peut
 excéder pendant cette période 40 000 F pour les contribuables célibataires,
 veufs ou divorcés, et 80 000 F pour les contribuables mariés soumis à imposition
-commune. Les dispositions du premier alinéa du IV de l'article 199 terdecies
-s'appliquent à cette réduction.
+commune. Les dispositions du 5 du I de l'article 197 sont applicables.
 
 Un salarié ne peut bénéficier que de l'un des avantages mentionnés à l'alinéa
 précédent ou à l'article 83 ter et pour les souscriptions au capital d'une seule

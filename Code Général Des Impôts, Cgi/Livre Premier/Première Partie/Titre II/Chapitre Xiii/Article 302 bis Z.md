@@ -5,9 +5,7 @@ de transport public aérien sur le nombre de passagers embarquant dans les
 aéroports situés en France continentale, quelle que soit leur destination. Cette
 taxe s'ajoute aux prix demandés aux passagers.
 
-((Son tarif est de 3 F par passager)) (M).
+Son tarif est de 1 F par passager.
 
 Les règles de déclaration, paiement, contrôle, sanctions, recouvrement et
 contentieux applicables à cette taxe sont celles prévues à l'article 302 bis K.
-
-(M) Modification de la loi.

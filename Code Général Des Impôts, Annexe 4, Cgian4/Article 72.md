@@ -5,9 +5,7 @@ mentions particulières suivantes :
 
 la quotité du timbre;
 
-un numéro propre à chaque empreinte suivant l'ordre de numération ainsi que à
-l'exception des appareils exclusivement destinés au timbrage des effets de
-commerce :
+un numéro propre à chaque empreinte suivant l'ordre de numération ainsi que :
 
 la date de l'apposition ;
 

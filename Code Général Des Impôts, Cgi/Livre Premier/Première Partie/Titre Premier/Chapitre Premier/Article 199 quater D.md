@@ -2,11 +2,11 @@ Article 199 quater D
 ----
 Les contribuables célibataires, veufs ou divorcés domiciliés en France au sens
 de l'article 4 B peuvent bénéficier d'une réduction de leur impôt sur le revenu
-égale à 25 p. 100 [*pourcentage*] des dépenses nécessitées par la garde des
-enfants âgés de moins de six ans qu'ils ont à leur charge. Le montant global des
-dépenses à retenir pour le calcul de la réduction d'impôt est limité à 15.000 F
-par enfant, sans pouvoir excéder le montant des revenus professionnels net de
-frais. Le II de l'article 199 sexies A est applicable.
+égale à 25 p. 100 des dépenses nécessitées par la garde des enfants âgés de
+moins de six ans qu'ils ont à leur charge. Le montant global des dépenses à
+retenir pour le calcul de la réduction d'impôt est limité à 15.000 F par enfant,
+sans pouvoir excéder le montant des revenus professionnels net de frais. Les
+dispositions du 5 du I de l'article 197 sont applicables.
 
 La même possibilité est ouverte, sous les mêmes conditions et dans les mêmes
 limites, aux foyers fiscaux dont les conjoints justifient, soit de deux emplois

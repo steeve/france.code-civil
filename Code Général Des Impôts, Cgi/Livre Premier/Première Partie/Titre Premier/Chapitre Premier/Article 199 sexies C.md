@@ -17,8 +17,8 @@ Au titre d'une année, les dépenses ouvrant droit à réduction d'impôt sont
 limitées à la moitié des montants définis au deuxième alinéa ; l'excédent ouvre
 droit à réduction d'impôt au titre de l'année suivante.
 
-Les dispositions du b du 1° de l'article 199 sexies et du 7 de l'article 199
-undecies s'appliquent à cette réduction d'impôt.
+((Les dispositions du b du 1° du I de l'article 199 sexies et du 5 du I
+l'article 197 s'appliquent à cette réduction d'impôt)) (M).
 
 La réduction d'impôt est accordée sur présentation de factures mentionnant la
 nature et le montant des travaux (2).
@@ -27,10 +27,10 @@ II. Lorsque, pour une opération déterminée, le contribuable opte pour
 l'application des dispositions prévues au I, les intérêts des emprunts
 contractés à compter du 1er janvier 1985 pour financer les dépenses de grosses
 réparations afférentes à la résidence principale n'ouvrent pas droit à la
-réduction d'impôt prévue au a du 1° de l'article 199 sexies.
+réduction d'impôt prévue au a du 1° du I de l'article 199 sexies.
 
 III. a) La réduction mentionnée au I bénéficie sous les mêmes conditions, aux
-dépenses payées du 1er janvier 1990 au 31 décembre ((1996)) (M).
+dépenses payées du 1er janvier 1990 au 31 décembre 1996.
 
 Les dépenses ouvrant droit à cette réduction sont limitées, au cours de cette
 période, aux montants prévus au deuxième alinéa du paragraphe I.
@@ -71,22 +71,23 @@ dépenses sont effectuées dans l'année qui suit la date de constatation de cet
 d'indemnisation auprès de la préfecture ou d'un organisme régi par le code des
 assurances.
 
-((e. la condition d'ancienneté des immeubles n'est pas exigée pour les travaux
+e. la condition d'ancienneté des immeubles n'est pas exigée pour les travaux
 destinés à faciliter l'accès de l'immeuble aux personnes handicapées et à
-adapter leur logement.)) (M)
+adapter leur logement.
 
-((IV. - Lorsque, pour l'acquisition d'un logement en accession à la propriété,
-le contribuable bénéficie de l'avance remboursable ne portant pas intérêt prévue
+IV. - Lorsque, pour l'acquisition d'un logement en accession à la propriété, le
+contribuable bénéficie de l'avance remboursable ne portant pas intérêt prévue
 par l'article R. 317-1 du code de la construction et de l'habitation, la
-réduction d'impôt prévue au III ne s'applique pas)) (M).
+réduction d'impôt prévue au III ne s'applique pas.
 
 (1) Ces sommes de 15.000 F et 30.000 F s'appliquent aux dépenses payées à
 compter du 1er octobre 1994. [*Cf. Instruction 1995-02-23 5B-9-95*].
 
+(M) Modification de la loi 96-1181.
+
 (2) Voir article 1740 quater.
 
-(M) Modification de la loi. [*Cf. Instruction 1996-01-16 5B-3-96 - Cf.
-Instruction 1996-05-02 5B-11-96*].
+[*Cf. Instruction 1996-01-16 5B-3-96 - Cf. Instruction 1996-05-02 5B-11-96*].
 
 (3) A compter du 15 mars 1992.
 

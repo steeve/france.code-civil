@@ -16,7 +16,7 @@ de ces biens dont la transmission n'a pas encore été assujettie au droit de
 mutation à titre gratuit comme inclus dans les tranches les plus élevées de
 l'actif imposable.
 
-Pour le calcul des abattements et réductions édictés par les articles 779 et
-780, il est tenu compte des abattements et des réductions effectués sur les
-donations antérieures visées à l'alinéa précédent consenties par la même
+Pour le calcul des abattements et réductions édictés par les articles 779, 780,
+et 790 B (1) il est tenu compte des abattements et des réductions effectués sur
+les donations antérieures visées au deuxième alinéa consenties par la même
 personne.

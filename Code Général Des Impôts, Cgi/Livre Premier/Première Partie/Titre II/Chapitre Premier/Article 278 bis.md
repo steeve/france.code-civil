@@ -22,6 +22,14 @@ d) Du caviar ;
 3° Produits d'origine agricole, de la pêche, de la pisciculture et de
 l'aviculture n'ayant subi aucune transformation (1) ;
 
+3° bis Produits suivants à usage domestique :
+
+a. bois de chauffage ;
+
+b. produits de la sylviculture agglomérés destinés au chauffage ;
+
+c. déchets de bois destinés au chauffage.
+
 4° Aliments simples ou composés utilisés pour la nourriture du bétail, des
 animaux de basse-cour, des poissons d'élevage destinés à la consommation humaine
 et des abeilles, ainsi que les produits entrant dans la composition de ces
@@ -44,4 +52,4 @@ de l'agriculture ;
 
 6° Livres, y compris leur location.
 
-(1) Modification de la loi. Entrée en vigueur le 1er janvier 1995.
+(1) Entrée en vigueur le 1er janvier 1995.

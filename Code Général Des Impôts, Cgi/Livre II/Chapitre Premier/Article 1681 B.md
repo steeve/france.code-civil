@@ -5,6 +5,9 @@ contribuable, est égal au dixième de l'impôt établi au titre de ses revenus 
 l'avant-dernière année, ou, si cet impôt n'a pas encore été établi, de l'impôt
 sur ses derniers revenus annuels imposés.
 
+((Toutefois, les prélèvements effectués lors des quatre premiers mois de l'année
+1997 sont réduits de 6 p. 100 dans une limite mensuelle de 1 000 F)) (M).
+
 S'il estime que les prélèvements mensuels effectués ont atteint le montant des
 cotisations dont il sera finalement redevable, le contribuable peut demander la
 suspension des prélèvements suivants.
@@ -23,3 +26,5 @@ au montant de l'impôt présumé par le contribuable, celui-ci perd pour l'anné
 bénéfice de son option pour le paiement mensuel et une majoration de 10 p. 100
 lui est appliquée sur la différence entre les deux tiers de l'impôt dû et le
 montant des prélèvements effectués conformément à sa demande.
+
+(M) Modification de la loi 96-1181.

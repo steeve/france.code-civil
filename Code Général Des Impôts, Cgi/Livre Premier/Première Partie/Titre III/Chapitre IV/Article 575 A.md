@@ -1,68 +1,37 @@
 Article 575 A
 ----
 Pour les différents groupes de produits définis à l'article 575, le taux normal
-et le minimum de perception sont fixés conformément au tableau ci-après :
+est fixé conformément au tableau ci-après :
 
 Groupe de produits : Cigarettes
 
-Taux normal :
-
-1. A compter du 18 janvier 1993 : 57,00
-
-2. A compter du 24 mai 1993 : 58,70
-
-Minimum de perception par mille unités ou par mille grammes : 30 F
+Taux normal à compter du 1er août 1995 : 58,30
 
 Groupe de produits : Cigares
 
-Taux normal :
-
-1. A compter du 18 janvier 1993 : 29,26
-
-2. A compter du 24 mai 1993 : 29,26
-
-Minimum de perception par mille unités ou par mille grammes : 34 F
+Taux normal à compter du 1er août 1995 : 28,86
 
 Groupe de produits : Tabacs fine coupe destinés à rouler les cigarettes
 
-Taux normal :
-
-1. A compter du 18 janvier 1993 : 49,40
-
-3. A compter du 24 mai 1993 : 51,40
+Taux normal à compter du 1er août 1995 : 51
 
 Groupe de produits : Autres tabacs à fumer
 
-Taux normal :
-
-1. A compter du 18 janvier 1993 : 47,14
-
-3. A compter du 24 mai 1993 : 47,14
-
-Minimum de perception par mille unités ou par mille grammes : 12 F
+Taux normal à compter du 1er août 1995 : 46,74
 
 Groupe de produits : Tabacs à priser
 
-Taux normal :
-
-1. A compter du 18 janvier 1993 : 40,60
-
-2. A compter du 24 mai 1993 : 40,60
-
-Minimum de perception par mille unités ou par mille grammes : 8 F
+Taux normal à compter du 1er août 1995 : 40,20
 
 Groupe de produits : Tabacs à mâcher
 
-Taux normal :
+Taux normal à compter du 1er août 1995 : 27,47
 
-1. A compter du 18 janvier 1993 : 27,87
+((Le minimum de perception mentionné à l'article 575 est fixé à 380 F pour les
+cigarettes et à 150 F pour les tabacs fine coupe destinés à rouler les
+cigarettes. A partir de l'année 1998, ce minimum de perception est révisé chaque
+année en fonction de l'évolution, pour l'année civile écoulée, de l'indice des
+prix à la consommation pour les ménages urbains incluant les tabacs)) (M).
 
-2. A compter du 24 mai 1993 : 27,87
-
-Minimum de perception par mille unités ou par mille grammes : 7 F.
-
-((A compter du 1er août 1995 et jusqu'au 31 décembre 1996, les taux normaux pour
-les différents groupes de produits prévus au premier alinéa sont minorés de 0,4
-point)) (M).
-
-(M) Modification.
+(M) Modification de la loi 96-1181. Ces dispositions sont applicables à compter
+du 1er janvier 1997.

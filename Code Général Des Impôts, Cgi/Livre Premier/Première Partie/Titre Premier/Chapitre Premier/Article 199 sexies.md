@@ -1,6 +1,6 @@
 Article 199 sexies
 ----
-Lorsqu'elles n'entrent pas en compte pour l'évaluation des revenus des
+I. Lorsqu'elles n'entrent pas en compte pour l'évaluation des revenus des
 différentes catégories, les dépenses suivantes effectuées par un contribuable
 ouvrent droit à une réduction d'impôt sur le revenu :
 
@@ -64,16 +64,20 @@ exploitants ;
 
 d. (Abrogé) (1).
 
-((e. Lorsque, pour l'acquisition d'un logement en accession à la propriété, le
+e. Lorsque, pour l'acquisition d'un logement en accession à la propriété, le
 contribuable bénéficie de l'avance remboursable ne portant pas intérêt prévue
 par l'article R. 317-1 du code de la construction et de l'habitation, la
 réduction d'impôt prévue au a ne s'applique pas aux intérêts des emprunts
-complémentaires souscrits par lui)) (M).
+complémentaires souscrits par lui.
 
 2° a, b, c, d (Périmé à l'exception du troisième alinéa du a transféré sous
 l'article L172 E du LPF).
 
-(1) Ces dispositions s'appliquent aux contrats conclus et aux dépenses payées à
-compter du 1er juillet 1993.
+II. Les dispositions du I ne s'appliquent pas aux intérêts afférents aux prêts
+contractés pour la construction ou l'acquisition de logements neufs à compter du
+1er janvier 1997 et aux dépenses de ravalement payées à compter de la même date.
+Pour les autres logements, ces dispositions ne s'appliquent pas aux intérêts
+afférents aux prêts contractés à compter du 1er janvier 1998.
 
-(M) Modification de la loi. [*Cf. Instruction 1996-05-02 5B-11-96*].
+(1) Abrogé pour les contrats conclus et les dépenses payées à compter du 1er
+juillet 1993.

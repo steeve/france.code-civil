@@ -1,9 +1,9 @@
 Article 46 AI bis
 ----
-I. Lorsqu'un contribuable entend bénéficier de la réduction d'impôt prévue à
-l'article 199 terdecies-0 A du code général des impôts, il informe la société au
-capital de laquelle il a souscrit, au plus tard le 31 décembre de l'année de la
-souscription.
+I. Lorsqu'un contribuable entend bénéficier de la réduction d'impôt prévue aux I
+à V de l'article 199 terdecies-0 A du code général des impôts, il informe la
+société au capital de laquelle il a souscrit, au plus tard le 31 décembre de
+l'année de la souscription.
 
 Dans ce cas, la société lui délivre un état individuel qui mentionne :
 

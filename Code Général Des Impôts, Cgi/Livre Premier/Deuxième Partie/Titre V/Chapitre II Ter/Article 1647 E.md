@@ -13,14 +13,10 @@ Cette imposition minimale ne peut avoir pour effet de mettre à la charge de
 l'entreprise un supplément d'imposition excédant, pour 1996 deux fois et demie,
 pour 1997 trois fois et, pour 1998 quatre fois la cotisation définie au III.
 
-II. Le supplément d'imposition, défini par différence entre la cotisation
+II. ((Le supplément d'imposition, défini par différence entre la cotisation
 résultant des dispositions du I et la cotisation de taxe professionnelle
-déterminée selon les règles définies au III, est versé au fonds national de
-péréquation de la taxe professionnelle. La dotation budgétaire de l'Etat au
-fonds est réduite à due concurrence. Cette réduction est prise en compte dans le
-calcul à structure constante défini à l'article 32 de la loi de finances pour
-1996 (n° 95-1346 du 30 décembre 1995) à hauteur de 300 millions de francs en
-1996.
+déterminée selon les règles définies au III, est une recette du budget général
+de l'Etat)) (M).
 
 III. Pour l'application du II, la cotisation de taxe professionnelle est
 déterminée conformément aux dispositions du I bis de l'article 1647 B sexies.
@@ -36,3 +32,5 @@ conformément au III et la liquidation du supplément d'imposition défini au II
 font l'objet d'une déclaration par le redevable auprès du comptable du Trésor
 dont relève son principal établissement avant le 31 décembre de l'année au titre
 de laquelle les cotisations de taxe professionnelle visées au III sont dues.
+
+(M) Modification.

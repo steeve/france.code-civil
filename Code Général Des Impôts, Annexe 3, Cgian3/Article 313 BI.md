@@ -8,11 +8,9 @@ spontanément par les parties ou annexés à des actes soumis à l'enregistremen
 
 2° Les photocopies et reproductions obtenues par un moyen photographique ;
 
-3° Les actes et effets de commerce passés ou rédigés en dehors des départements
-français et pour lesquels le droit de timbre devient exigible.
+3° Les actes passés ou rédigés en dehors des départements français et pour
+lesquels le droit de timbre devient exigible ; (M).
 
-4° Les effets de commerce émis par les redevables admis à se libérer de leurs
-impositions auprès des comptables des impôts au moyen d'obligations cautionnées
-;
+4° (Sans objet) ;
 
 5° Les actes sous-seing privé présentés à la formalité de l'enregistrement.

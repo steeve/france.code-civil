@@ -28,27 +28,27 @@ Ces dispositions ne sont pas applicables en cas de changement d'activité.
 
 2. Sont exclues du régime du forfait :
 
-((les sociétés ou organismes dont les résultats sont imposés selon le régime des
-sociétés de personnes défini à l'article 8, à l'exception des sociétés civiles
-soumises au régime du bénéfice forfaitaire agricole dont l'activité principale
-entre dans le champ d'application de l'article 63 et qui sont visées au 2 de
-l'article 206)) (1)
+a) les sociétés ou organismes dont les résultats sont imposés selon le régime
+des sociétés de personnes défini à l'article 8, à l'exception des sociétés
+civiles soumises au régime du bénéfice forfaitaire agricole dont l'activité
+principale entre dans le champ d'application de l'article 63 et qui sont visées
+au 2 de l'article 206 (1)
 
-- les personnes morales passibles de l'impôt sur les sociétés;
+b) les personnes morales passibles de l'impôt sur les sociétés;
 
-- les opérations portant sur des immeubles, des fonds de commerce ou des actions
-ou parts de sociétés immobilières et dont les résultats doivent être compris
-dans les bases de l'impôt sur le revenu au titre des bénéfices industriels et
-commerciaux;
+c) les opérations portant sur des immeubles, des fonds de commerce ou des
+actions ou parts de sociétés immobilières et dont les résultats doivent être
+compris dans les bases de l'impôt sur le revenu au titre des bénéfices
+industriels et commerciaux;
 
-- les opérations soumises à la taxe sur la valeur ajoutée en vertu de l'article
-257-7°;
+d) les opérations soumises à la taxe sur la valeur ajoutée en vertu du 7° de
+l'article 257 ;
 
-- les opérations de location de matériels ou de biens de consommation durable,
+e) les opérations de location de matériels ou de biens de consommation durable,
 sauf lorsqu'elles présentent un caractère accessoire et connexe pour une
 entreprise industrielle ou commerciale.
 
-Les opérations visées au 8° du I de l'article 35 ;
+f) Les opérations visées au 8° du I de l'article 35 ;
 
 2 bis. Les forfaits doivent tenir compte des réalités des petites entreprises
 et, en particulier, de l'évolution des marges dans l'activité considérée et de
@@ -64,6 +64,12 @@ observations.
 civile (2) et pour une période de deux ans; les montants servant de base à
 l'impôt peuvent être différents pour chacune des deux années de cette période.
 
+((Par exception aux dispositions du premier alinéa, le chiffre d'affaires et le
+bénéfice sont fixés par année civile pour les périodes d'imposition couvertes
+par les procédures de taxation d'office ou d'évaluation d'office prévues au 3°
+de l'article L. 66 et au 1° de l'article L. 73 du livre des procédures
+fiscales)) (M).
+
 6. Les forfaits sont conclus après l'expiration de la première année de la
 période biennale pour laquelle ils sont fixés.
 
@@ -76,18 +82,20 @@ l'impôt est celui qui a été fixé pour la seconde année de la période bienn
 
 9. Ces forfaits peuvent être dénoncés :
 
-- par l'entreprise, avant le 16 février de la deuxième année qui suit la période
-biennale pour laquelle ils ont été conclus et, en cas de tacite reconduction,
-avant le 16 février de la deuxième année qui suit celle à laquelle s'appliquait
-la reconduction [*date limite*];
+a) par l'entreprise, avant le 16 février de la deuxième année qui suit la
+période biennale pour laquelle ils ont été conclus et, en cas de tacite
+reconduction, avant le 16 février de la deuxième année qui suit celle à laquelle
+s'appliquait la reconduction ;
 
-- par l'administration, pendant les trois premiers mois des mêmes années.
+b) par l'administration, pendant les trois premiers mois des mêmes années.
 
 10. (Transféré sous l'article L8 du livre des procédures fiscales).
 
-(1) Modification de la loi. Cette disposition s'applique pour la détermination
-des résultats imposables des exercices ouverts à compter du 1er janvier 1996.
-[*Cf. Instruction 1996-08-20 4G-3-96.*]
+(1) Cette disposition s'applique pour la détermination des résultats imposables
+des exercices ouverts à compter du 1er janvier 1996. [*Cf. Instruction
+1996-08-20 4G-3-96.*]
 
 (2) En cas de passage du régime du bénéfice réel ou du régime simplifié à celui
 du forfait, voir Annexe II, art. 38.
+
+(M) Modification de la loi 96-1181.

@@ -13,9 +13,18 @@ suivantes. Le fractionnement donne lieu au paiement de l'intérêt, au taux lég
 recouvré dans les mêmes conditions et sous les mêmes garanties et sanctions que
 l'impôt en principal.
 
+((Ces dispositions sont également applicables lorsqu'une société mentionnée aux
+articles 8 et 8 ter, exerçant une activité libérale, cesse d'être soumise au
+régime prévu par ces articles du fait d'une option pour le régime applicable aux
+sociétés de capitaux exercée dans les conditions prévues au 1 de l'article 239))
+(M).
+
 En cas de transfert du domicile hors de France, de décès, de retrait de
 l'associé de la société ou de non-paiement de l'une des fractions de l'impôt, le
 solde restant dû, augmenté de l'intérêt couru, est exigible immédiatement (1).
+
+(M) Modification de la loi 96-1181. Ces dispositions s'appliquent à compter de
+l'imposition des revenus de 1996.
 
 (1) Dispositions applicables à compter de l'imposition des revenus de 1995.
 [*Cf. Instruction 1995-03-16 5G-8-95.*]

@@ -28,17 +28,17 @@ Ces dispositions ne sont pas applicables aux associés, commandités et membres 
 sociétés visés à l'article 8 qui sont imposables chaque année à raison de la
 quote-part des bénéfices sociaux correspondant à leurs droits dans la société.
 
-((Les moins-values subies au cours d'une année sont imputables exclusivement sur
+Les moins-values subies au cours d'une année sont imputables exclusivement sur
 les plus-values de même nature réalisées au cours de la même année ou des cinq
-années suivantes)) (1').
+années suivantes (1').
 
 Le taux prévu au premier alinéa est réduit de 30 % dans les départements de la
 Guadeloupe, de la Martinique [*DOM*] et de la Réunion et de 40 % dans le
 département de la Guyane. Les taux résultant de ces dispositions sont arrondis,
 s'il y a lieu, à l'unité inférieure.
 
-Les plus-values imposables en application du présent article ((ainsi que les
-moins-values)) (1') doivent être déclarées dans les conditions prévues au 1 de
+Les plus-values imposables en application du présent article ainsi que les
+moins-values (1') doivent être déclarées dans les conditions prévues au 1 de
 l'article 170 selon des modalités qui sont précisées par décret (2).
 
 I bis. En cas d'échange de droits sociaux résultant d'une fusion ou d'une
@@ -82,21 +82,40 @@ de titres réalisés à compter du 1er janvier 1991.
 4. L'imposition de la plus-value réalisée à compter du 1er janvier 1991 en cas
 d'échange de droits sociaux résultant d'une opération de fusion, scission ou
 d'apport de titres à une société soumise à l'impôt sur les sociétés peut être
-reportée dans les conditions prévues au II de l'article 92 B (3).
+reportée dans les conditions prévues au II de l'article 92 B (3). ((Il en est de
+même lorsque l'échange des titres est réalisé par une société ou un groupement
+dont les associés ou membres sont personnellement passibles de l'impôt sur le
+revenu pour la part des bénéfices correspondant à leurs droits dans la société
+ou le groupement. Les conditions d'application sont précisées par décret)) (M).
 
-Cette disposition est également applicable aux échanges avec soulte à condition
+Ces dispositions sont également applicables aux échanges avec soulte à condition
 que celle-ci n'excède pas 10 p. 100 de la valeur nominale des titres reçus.
 Toutefois, la partie de la plus-value correspondant à la soulte reçue est
 imposée immédiatement.
+
+((5. Pour l'application du régime d'imposition défini au présent article,
+lorsque les titres reçus dans les cas prévus au 4 font l'objet d'un échange dans
+les mêmes conditions, l'imposition des plus-values antérieurement reportée peut,
+à la demande du contribuable, être reportée de nouveau au moment où s'opérera la
+cession, le rachat, le remboursement ou l'annulation des nouveaux titres reçus à
+condition que l'imposition de la plus-value réalisée lors de cet échange soit
+elle-même reportée.
+
+((Un décret fixe les conditions d'application du premier alinéa)) (M1).
 
 II (Disposition périmée).
 
 (1) Voir également art. 248 B. Taux applicable aux plus-values réalisées à
 compter du 1er janvier 1984.
 
-(1') Modification de la loi 94-1162. Ces dispositions s'appliquent aux
-moins-values résultant de cessions réalisées à compter du 16 novembre 1994.
+(1') Ces dispositions s'appliquent aux moins-values résultant de cessions
+réalisées à compter du 16 novembre 1994.
 
 (2) Voir annexe 3 art. 41 tervicies.
 
 (3) Voir annexe 3 art. 41 quatervicies à 41 sexvicies.
+
+(M) Modification de la loi 96-1181.
+
+(M1) Modification de la loi 96-1181. Cette disposition s'applique aux échanges
+de droits sociaux réalisés à compter du 1er janvier 1996.
