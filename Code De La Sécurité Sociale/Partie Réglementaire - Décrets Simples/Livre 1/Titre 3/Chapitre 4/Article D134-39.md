@@ -17,7 +17,7 @@ régime de sécurité sociale de la Banque de France ainsi déterminées pour ch
 catégorie de prestations sont affectées de coefficients respectivement égaux aux
 valeurs correspondant au rapport :
 
-R/R' ;
+R/R'.
 
 Le montant du remboursement est égal à la somme des résultats partiels ainsi
 obtenus.

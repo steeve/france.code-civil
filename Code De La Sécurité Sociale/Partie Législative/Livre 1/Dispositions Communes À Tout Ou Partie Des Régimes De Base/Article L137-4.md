@@ -6,6 +6,6 @@ dispositions applicables aux cotisations de sécurité sociale, conformément au
 dispositions du chapitre 3 du titre III et des chapitres 2 et 4 du titre IV du
 livre Ier du présent code et, en outre, du chapitre 5 du titre II du livre VII
 du code rural pour le régime agricole, dans leur rédaction en vigueur à la date
-de publication de l'ordonnance n° 96-51 du 24 janvier 1996. Toutefois, les
-décisions rendues par les tribunaux de sécurité sociale jugeant de ces
-différends sont susceptibles d'appel quel que soit le montant du litige.
+de la publication de la dernière loi de financement de la sécurité sociale.
+Toutefois, les décisions rendues par les tribunaux de sécurité sociale jugeant
+de ces différends sont susceptibles d'appel quel que soit le montant du litige.

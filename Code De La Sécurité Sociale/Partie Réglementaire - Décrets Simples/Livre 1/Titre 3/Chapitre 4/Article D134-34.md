@@ -1,6 +1,6 @@
 Article D134-34
 ----
-Sont considérés comme bénéficiaires l'ensemble des personnes protégées, à
+Sont considérées comme bénéficiaires l'ensemble des personnes protégées, à
 l'exclusion de celles définies ci-dessous :
 
 1°) les affiliés mentionnés aux sections 3 et 5 du chapitre 1er du titre VIII du

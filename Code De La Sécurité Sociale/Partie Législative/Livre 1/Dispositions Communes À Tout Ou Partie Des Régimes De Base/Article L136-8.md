@@ -1,22 +1,27 @@
 Article L136-8
 ----
 I. - Le taux des contributions sociales mentionnées aux articles L. 136-1, L.
-136-6, L. 136-7 et L. 136-7-1 est fixé à 3,40 p. 100, sous réserve des taux
+136-6, L. 136-7 et L. 136-7-1 est fixé à 7,50 p. 100, sous réserve des taux
 fixés au III de l'article L. 136-7-1.
 
-II. - Par dérogation au I, sont assujettis à la contribution sociale au taux de
-1 p. 100 les revenus visés aux 1° et 2° du III de l'article L. 136-2, perçus par
-les personnes dont la cotisation d'impôt sur le revenu de l'année précédente est
-inférieure au montant mentionné au 1 bis de l'article 1657 du code général des
-impôts et dont la cotisation de l'année précédente définie aux I et II de
-l'article 1417 du code général des impôts dans sa rédaction antérieure au 1er
-janvier 1997 est supérieure à ce même montant.
+II. - Par dérogation au I, sont assujetties à la contribution au taux de 6,2 %
+les pensions de retraite et d'invalidité, les allocations de chômage et de
+préretraite ainsi que les indemnités et allocations visées au 7° du II de
+l'article L. 136-2.
 
-III. - Le produit des contributions mentionnées au I est versé à la Caisse
+III. - Par dérogation au I et au II, sont assujettis à la contribution sociale
+au taux de 3,8 % les revenus visés aux 1° et 2° du III de l'article L. 136-2,
+perçus par les personnes dont la cotisation d'impôt sur le revenu de l'année
+précédente est inférieure au montant mentionné au 1 bis de l'article 1657 du
+code général des impôts et dont le montant des revenus de l'avant-dernière année
+tels que définis au V de l'article 1417 du code général des impôts excède les
+seuils déterminés en application des dispositions des I et IV du même article.
+
+IV. - Le produit des contributions mentionnées au I est versé à la Caisse
 nationale des allocations familiales pour la part correspondant à un taux de 1,1
 p. 100 au fonds institué par l'article L. 135-1 pour la part correspondant à un
 taux de 1,3 p. 100 et, dans les conditions fixées à l'article L. 139-2, aux
 régimes obligatoires d'assurance maladie pour la part correspondant à un taux de
-1 p. 100, y compris dans le cas mentionné au II. Le produit des contributions
-visées au III de l'article L. 136-7-1 est réparti au prorata des taux visés dans
-le présent paragraphe.
+5,1 % ou de 3,8 % pour les revenus visés au II et au III. Le produit des
+contributions visées au III de l'article L. 136-7-1 est réparti au prorata des
+taux visés dans le présent paragraphe.
