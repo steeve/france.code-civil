@@ -11,7 +11,6 @@ versement.
 
 Toutefois, cette obligation n'est pas applicable aux immeubles édifiés par
 l'Etat, les régions, les départements ou les communes, ni aux immeubles édifiés
-par les établissements publics administratifs à vocation culturelle,
-scientifique, d'enseignement, de santé ou d'assistance, lorsqu'ils sont affectés
-à un service public ou d'utilité générale et qu'ils ne sont pas productifs de
+par les établissements publics administratifs lorsqu'ils sont affectés à un
+service public ou d'utilité générale et qu'ils ne sont pas productifs de
 revenus.

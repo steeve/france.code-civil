@@ -11,16 +11,16 @@ prescriptions dudit arrêté ou susceptible de causer une méprise dans l'esprit
 des acquéreurs sur les charges et conditions auxquelles le lotissement entend
 subordonner la vente ou la location des lots.
 
-Les promesses et les actes de vente, ainsi que les engagements de location,
-doivent reproduire tant les prescriptions de l'arrêté d'autorisation, en
-précisant sa date, que les charges et conditions de vente ou de location des
-lots prévus dans le cahier des charges.
+L' arrêté d'autorisation et le cahier des charges fixanr les conditions de vente
+ou de location des lots sont remis à l'acquéreur lors de la signature de la
+promesse de vente ou de l'acte de vente ainsi qu'au preneur lors de la signature
+des engagements de locations ils doivent leur avoir été communiqués
+préalablement.
+
+Les actes mentionnent que ces formalités ont été effectuées .
 
 Toute infraction aux dispositions du présent article est passible d'une amende
-de /M/500 F à 50.000 F/M/Loi 1285 Art. 41 : 2.000 à 100.000 F//. En cas de
-récidive, l'amende est de /M/1.000 F à 100.000 F/M/Loi 1285 Art. 415 : 3.000 à
-300.000 F//.
+de 2.000 à 100.000 F. En cas de récidive, l'amende est de 3.000 à 300.000 F.
 
 Aucun acompte ne peut être accepté avant l'intervention de l'arrêté
-d'autorisation, sous peine d'une amende de /M/1.000 F à 100.000 F/M/Loi 1285
-Art. 41 : 2.000 à 200.000 F//.
+d'autorisation, sous peine d'une amende de 2.000 à 200.000 F.

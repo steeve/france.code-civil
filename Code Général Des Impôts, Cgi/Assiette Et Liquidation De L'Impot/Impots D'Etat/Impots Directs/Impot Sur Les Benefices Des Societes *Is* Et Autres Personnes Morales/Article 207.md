@@ -2,9 +2,10 @@ Article 207
 ----
 1. Sont exonérés de l'impôt sur les sociétés :
 
-1° (Devenu sans objet) 2° Sauf pour les opérations effectuées avec des
-non-sociétaires et à condition qu'elle fonctionnent conformément aux
-dispositions qui les régissent :
+1° (Disposition devenue sans objet).
+
+2° Sauf pour les opérations effectuées avec des non-sociétaires et à condition
+qu'elle fonctionnent conformément aux dispositions qui les régissent :
 
 - les sociétés coopératives agricoles d'approvisionnement et d'achat ;
 
@@ -70,12 +71,22 @@ région ;
 les opérations à raison desquelles ils sont exonérés de la taxe sur la valeur
 ajoutée ;
 
-6° Les départements, communes et syndicats de communes, ainsi que leurs régies
-de services publics ;
+6° Les régions, départements, communes et syndicats de communes, ainsi que leurs
+régies de services publics ;
 
-6° bis. Dans les conditions qui sont fixées par décret (1), les établissements
-publics et sociétés concessionnaires visés à l'article L 321-1, premier alinéa,
-du Code de l'urbanisme ;
+6° bis. Dans les conditions fixées par décret (1), les établissements publics et
+sociétés d'économie mixte concessionnaires d'opérations d'aménagement, en
+application du deuxième alinéa de l'article L. 300-4 du code de l'urbanisme,
+pour les résultats provenant des opérations réalisées dans le cadre des
+procédures suivantes :
+
+- zone d'aménagement concerté [*ZAC*] ;
+
+- lotissements ;
+
+- zone de restauration immobilière ;
+
+- zone de résorption de l'habitat insalubre.
 
 7° Les sociétés coopératives de construction qui procèdent, sans but lucratif,
 au lotissement et à la vente de terrains leur appartenant. Cette exonération est
@@ -94,9 +105,11 @@ et du ministre de l'industrie, sont exonérées de l'impôt sur les sociétés p
 la partie des bénéfices provenant des produits nets de leur portefeuille ou des
 plus-values qu'elles réalisent sur la vente des titres ou parts sociales faisant
 partie de ce portefeuille, lorsqu'elles se conforment aux dispositions ci-après
-: [*conditions*] a. Ces sociétés doivent avoir pour objet exclusif toutes
-opérations se rattachant à la gestion d'un portefeuille de valeurs mobilières et
-de parts sociales émises par les sociétés qui se livrent à la recherche et à
+: [*conditions*]
+
+a. Ces sociétés doivent avoir pour objet exclusif toutes opérations se
+rattachant à la gestion d'un portefeuille de valeurs mobilières et de parts
+sociales émises par les sociétés qui se livrent à la recherche et à
 l'exploitation des gisements d'hydrocarbures liquides ou gazeux, au raffinage,
 au stockage, au transport ou à la distribution des hydrocarbures liquides ou
 gazeux ainsi qu'à la pétroléo-chimie.

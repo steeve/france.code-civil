@@ -1,7 +1,10 @@
 Article L314-1
 ----
-Lorsque à la suite d'une déclaration d'utilité publique prononcée en vue de la
-réalisation d'une opération d'urbanisation, des immeubles bâtis ou non bâtis ont
-été déclarés cessibles, l'Etat, la collectivité territoriale ou l'établissement
-public expropriant peut en prendre possession dans les conditions prévues par
-les articles L. 314-2 à L. 314-8.
+La personne publique qui a pris l'initiative de la réalisation de l'une des
+opérations d'aménagement définies dans le présent livre ou qui bénéficie d'une
+expropriation est tenue, envers les occupants des immeubles intéressés, aux
+obligations prévues ci-après.
+
+Les occupants, au sens du présent chapitre, sont les propriétaires occupants,
+les locataires, les occupants de bonne foi maintenus dans les lieux et les
+preneurs de baux professionnels, commerciaux, artisanaux, industriels ou ruraux.

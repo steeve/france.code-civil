@@ -16,3 +16,8 @@ b) De réaliser des constructions destinées à l'accession à la propriété ;
 
 c) D'accorder des prêts aux sociétés d'habitations à loyer modéré dans des
 conditions fixées par décret.
+
+d) De réaliser des lotissements.
+
+Elles peuvent, en outre, réaliser des hébergements de loisirs à vocation sociale
+dans les conditions prévues à l'article L. 421-1.

@@ -1,17 +1,18 @@
 Article L333-2
 ----
-Le montant du versement défini à l'article L. 112-2 est dû par le bénéficiaire
-de l'autorisation de construire. En cas de désaccord sur la valeur du terrain,
-il est provisoirement arrêté, puis mis en recouvrement sur la base de
-l'estimation administrative.
+Le montant du versement défini à l'article L. 112-2 est dû [*redevable*] par le
+bénéficiaire de l'autorisation de construire. En cas de désaccord sur la valeur
+du terrain, il est provisoirement arrêté, puis mis en recouvrement sur la base
+de l'estimation administrative.
 
 Il doit être effectué à la recette des impôts de la situation des biens en trois
 fractions légales.
 
-Le paiement du premier tiers est exigible à l'expiration du délai de trois mois
-à compter de la délivrance du permis de construire, celui du deuxième à
-l'expiration d'un délai de six mois à compter de ladite délivrance, et celui du
-troisième à l'expiration d'un délai de dix-huit mois à compter de la même date.
+Le paiement de la première fraction est exigible à l'expiration d'un délai de
+dix-huit mois à compter de la date de délivrance du permis de construire ou de
+la date à laquelle l'autorisation de construire est réputée avoir été tacitement
+accordée et celui de la seconde fraction à l'expiration d'un délai de trente-six
+mois à compter de cette même date.
 
 Après décision définitive de la juridiction de l'expropriation, il est procédé,
 selon le cas, à la mise en recouvrement d'une somme complémentaire ou à la

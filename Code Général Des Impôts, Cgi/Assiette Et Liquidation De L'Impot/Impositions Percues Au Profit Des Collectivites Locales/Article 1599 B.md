@@ -12,11 +12,10 @@ l'ensemble immobilier déterminée conformément à l'article 1585 D.
 
 La taxe est assise [*assiette*] et recouvrée selon les mêmes modalités et sous
 les mêmes sanctions que la taxe locale d'équipement. Elle doit être payée à la
-recette des impôts en deux fractions égales. Le versement de la première
-fraction est opéré dans le délai d'un an à compter de la délivrance du permis de
-construire et celui de la seconde dans le délai de deux ans à compter de cette
-même date. Son produit est perçu au profit du département [*organisme
-bénéficiaire*].
+recette des impôts de la situation des biens en un versement exigible à
+l'expiration du délai prévu au troisième alinéa de l'article 1723 quater pour le
+premier versement de la taxe locale d'équipement. Son produit est perçu au
+profit du département [*organisme bénéficiaire*].
 
 (1) Les décisions des conseils généraux relatives à la taxe sont applicables à
 compter du 1er mai 1982 si elles interviennent avant cette date et à compter du
