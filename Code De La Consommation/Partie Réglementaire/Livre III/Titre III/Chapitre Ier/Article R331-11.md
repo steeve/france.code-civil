@@ -7,7 +7,8 @@ l'exécution par lettre simple signée par son président.
 La lettre précise les nom, prénoms, profession et adresse du débiteur et ceux
 des créanciers en cause ou, pour les personnes morales, leur dénomination et
 leur siège social ; elle contient l'exposé de l'objet et des motifs de la
-saisine. Y sont annexés les documents nécessaires à la vérification des
+saisine et indique, le cas échéant, que celle-ci est opérée à la demande du
+débiteur. Y sont annexés les documents nécessaires à la vérification des
 créances.
 
 La commission informe les créanciers concernés et le débiteur de la saisine du

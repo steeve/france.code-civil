@@ -11,9 +11,11 @@ y a de parties et les envoie à la commission avec les pièces transmises. La
 commission adresse à chacune des parties une copie exécutoire de l'ordonnance
 par lettre recommandée avec demande d'avis de réception.
 
-En cas d'illégalité des recommandations ou d'irrégularité de la procédure, le
-juge adresse copie de son ordonnance à la commission et lui renvoie les pièces
-en l'invitant à se conformer aux dispositions de l'article R. 331-20 ; le
-secrétariat-greffe en informe les parties par lettre simple.
+En cas d'illégalité des recommandations ou d'irrégularité de la procédure ou
+lorsque les mesures recommandées en application du troisième alinéa de l'article
+L. 331-7-1 sont infondées, le juge adresse copie de son ordonnance à la
+commission et lui renvoie les pièces en l'invitant à se conformer aux
+dispositions de l'article R. 331-20 ; le secrétariat-greffe en informe les
+parties par lettre simple.
 
 La décision du juge n'est pas susceptible d'appel.

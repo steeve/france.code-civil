@@ -7,8 +7,9 @@ simple.
 
 Ces lettres mentionnent que le débiteur peut, dans un délai de quinze jours à
 compter de la notification visée à l'alinéa précédent, saisir la commission aux
-fins de voir recommander les mesures prévues à l'article L. 331-7 dont elles
-reproduisent intégralement les dispositions.
+fins de voir recommander les mesures prévues à l'article L. 331-7 ou au premier
+alinéa de l'article L. 331-7-1 dont elles reproduisent intégralement les
+dispositions.
 
 Lorsque, en application de l'article L. 331-5, le juge de l'exécution a prononcé
 la suspension d'une ou plusieurs des procédures d'exécution diligentées contre
