@@ -2,7 +2,7 @@ Article 355
 ----
 1. Les prescriptions visées par les articles 352, 353 et 354 ci-dessus n'ont pas
 lieu et deviennent trentenaires quand il y a, avant les termes prévus,
-contrainte décernée et signifiée, demande formée en justice, condamnation,
+contrainte décernée et notifiée, demande formée en justice, condamnation,
 promesse, convention ou obligation particulière et spéciale relative à l'objet
 qui est répété.
 
