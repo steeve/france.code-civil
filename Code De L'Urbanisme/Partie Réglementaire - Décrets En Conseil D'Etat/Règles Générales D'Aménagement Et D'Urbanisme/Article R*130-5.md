@@ -1,14 +1,24 @@
 Article R*130-5
 ----
-Lorsqu'un propriétaire décide de procéder, dans un bois, forêt ou parc, situé
-sur le territoire d'une commune ou partie de commune où l'établissement d'un
-plan d'occupation des sols a été prescrit mais où ce plan n'a pas encore été
-rendu public, à un défrichement soumis à autorisation administrative en
-application de l'article 157 du code forestier, ou qu'il soumet à l'approbation
-du préfet un règlement d'exploitation ou une demande d'autorisation de coupe au
-titre de l'article 188 du code forestier, la déclaration de défrichement, le
-projet de règlement d'exploitation ou la demande d'autorisation de coupe vaut
-aussi demande d'autorisation préalable de coupe au sens du cinquième alinéa de
-l'article L. 130-1 du code de l'urbanisme ainsi que demande d'autorisation
-préalable pour l'application de l'article L. 421-6 dudit code. L'instruction est
-engagée conjointement au titre des deux législations.
+Sous réserve des dispositions de l'article R. 130-1, toute coupe ou abattage
+d'arbres compris dans un espace boisé classé est subordonné à une autorisation
+expresse. Si celle-ci n'est pas prononcée dans les quatre mois de la saisine,
+l'accord est réputé refusé.
+
+L'autorité compétente pour statuer sur la demande se prononce par arrêté.
+
+L'autorisation peut être subordonnée à des prescriptions spéciales concernant
+notamment la technique de gestion, le respect de certains peuplements,
+l'obligation de procéder à des reboisements ou à des plantations de
+remplacement.
+
+La décision est notifiée au demandeur par lettre recommandée accompagnée,
+lorsque la décision est négative ou assortie de prescriptions, d'une demande
+d'avis de réception postal [*conditions de forme*].
+
+L'autorisation est valable deux ans [*durée, péremption*]. Elle peut toutefois,
+si la coupe ou l'abattage n'ont pu être pratiqués au cours des années pour
+lesquelles l'autorisation a été donnée, être prolongée d'une année.
+
+Les coupes rases doivent être suivies dans les cinq ans de travaux de
+reboisement, à défaut de régénération naturelle.

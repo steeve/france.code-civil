@@ -1,15 +1,26 @@
 Article R*130-2
 ----
-Le propriétaire qui a fait agréer un plan simple de gestion dans les conditions
-prévues par la loi du 6 août 1963 et le décret du 13 avril 1966 peut effectuer
-sans formalité les coupes et abattages d'arbres prévus audit plan.
+La demande d'autorisation [*contenu*], établie conformément au modèle national
+fixé par arrêté du ministre chargé de l'urbanisme est, ainsi que le dossier qui
+l'accompagne, présentée en 4 exemplaires par le propriétaire du terrain ou par
+une personne morale ayant qualité pour bénéficier soit de l'expropriation dudit
+terrain pour cause d'utilité publique, soit des servitudes prévues à l'article
+12 de la loi du 15 juin 1906 sur les distributions d'énergie.
 
-S'il désire procéder soit à une coupe extraordinaire au sens de l'article 77 du
-décret du 13 avril 1966, soit à une exploitation soumise au régime spécial
-d'autorisation administrative institué par les articles 80 et 81 dudit décret,
-l'autorisation qu'il doit obtenir dans l'un et l'autre cas, tient lieu de
-l'autorisation préalable prévue au cinquième alinéa de l'article L. 130-1.
+Cette demande peut concerner un abattage, une coupe ou plusieurs coupes
+échelonnées, le cas échéant, sur plusieurs années. Elle doit préciser la
+situation, la nature et la quotité de chaque coupe ou abattage ainsi que l'année
+de son exécution et les éventuels travaux de plantations que le propriétaire
+s'engage à exécuter.
 
-Le propriétaire peut effectuer sans formalité les coupes qui entrent dans le
-cadre d'une autorisation par catégories définies par arrêté du préfet pris après
-avis du centre régional de la propriété forestière.
+Tous les exemplaires de la demande et du dossier sont adressés par lettre
+recommandée avec demande d'avis de réception postal au maire de la commune où
+sont envisagés les coupes ou abattages, ou déposés contre décharge à la mairie.
+
+Les exemplaires de la demande et du dossier font l'objet des transmissions
+prévues à l'article L. 421-2-3.
+
+Au cas où la demande est présentée par les personnes morales mentionnées au 1er
+alinéa, l'autorité compétente pour statuer adresse au propriétaire une copie de
+cette demande par lettre recommandée avec demande d'avis de réception postal
+[*conditions de forme*].
