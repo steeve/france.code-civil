@@ -1,8 +1,8 @@
 Article 832-1
 ----
 Lorsque le juge envisage de désigner un conciliateur, il en avise les parties
-par lettre recommandée avec demande d'avis de réception et les invite à lui
-faire connaître leur acceptation dans le délai de quinze jours.
+par lettre simple et les invite à lui faire connaître leur acceptation dans le
+délai de quinze jours.
 
 Il les informe qu'en l'absence d'accord de leur part il procédera comme il est
 dit aux articles 833 et 834.

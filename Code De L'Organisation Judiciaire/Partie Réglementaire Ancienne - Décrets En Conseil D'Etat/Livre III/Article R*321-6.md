@@ -1,10 +1,10 @@
 Article R*321-6
 ----
-Le tribunal d'instance connaît en dernier ressort jusqu'à la valeur de 13000 F
+Le tribunal d'instance connaît en dernier ressort jusqu'à la valeur de 25000 F
 [*francs*] et à charge d'appel à quelque valeur que la demande puisse s'élever
 [*compétence*] :
 
-1° [*Abrogé*] ;
+1° (Abrogé) ;
 
 2° Des contestations relatives au contrat de salaire différé ;
 

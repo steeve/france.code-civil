@@ -1,9 +1,10 @@
 Article 761
 ----
 Le président peut également décider que les avocats se présenteront à nouveau
-devant lui, à une date qu'il fixe, pour conférer une dernière fois de l'affaire
-s'il estime qu'un ultime échange de conclusions ou qu'une ultime communication
-de pièces suffit à la mettre en état.
+devant lui, à une date qu'il fixe, pour conférer une dernière fois de l'affaire,
+s'il estime qu'un ultime échange de conclusions ou une ultime communication de
+pièces suffit à la mettre en état ou que les conclusions des parties doivent
+être mises en conformité avec les dispositions de l'article 753.
 
 Dans ce cas, il impartit à chacun des avocats le délai nécessaire à la
 signification des conclusions et, s'il y a lieu, à la communication des pièces.

@@ -1,11 +1,14 @@
 Article 954
 ----
-Les conclusions d'appel doivent formuler expressément les prétentions de la
-partie et les moyens sur lesquels chacune des prétentions est fondée.
+Les conclusions d'appel doivent formuler expressément les prétentions des
+parties et les moyens de fait et de droit sur lesquels chacune de ses
+prétentions est fondée. Elles comprennent en outre l'indication des pièces
+invoquées. A cet effet, un bordereau récapitulatif leur est annexé.
 
-L'avoué ou les avoués d'une ou plusieurs parties peuvent être invités à
-récapituler les moyens qui auraient été successivement présentés. Les moyens qui
-ne sont pas récapitulés sont regardés comme abandonnés.
+Les parties doivent reprendre, dans leurs dernières écritures, les prétentions
+et moyens précédemment présentés ou invoqués dans leurs conclusions antérieures.
+A défaut, elles sont réputées les avoir abandonnés et la cour ne statue que sur
+les dernières conclusions déposées.
 
 La partie qui conclut à l'infirmation du jugement doit expressément énoncer les
 moyens qu'elle invoque sans pouvoir procéder par voie de référence à ses

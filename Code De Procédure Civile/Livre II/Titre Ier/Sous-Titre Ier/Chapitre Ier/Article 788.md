@@ -9,6 +9,3 @@ demandeur et viser les pièces justificatives.
 
 Copie de la requête et des pièces doit être remise au président pour être versée
 au dossier du tribunal.
-
-L'autorisation d'assigner à jour fixe peut être donnée, même d'office, par le
-président du tribunal saisi d'une procédure de référé.

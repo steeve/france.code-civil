@@ -1,3 +1,4 @@
 Article 382
 ----
-La décision de radiation est une mesure d'administration judiciaire.
+Le retrait du rôle est ordonné lorsque toutes les parties en font la demande
+écrite et motivée.
