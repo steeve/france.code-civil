@@ -33,14 +33,13 @@ sous-sol ;
 
 d) Les zones, dites "Zones ND", à protéger en raison, d'une part, de l'existence
 de risques ou de nuisances, d'autre part, de la qualité des sites, des milieux
-naturels, des paysages et de leur intérêt, notamment du point de vue esthétique
-ou écologique ; à l'intérieur des zones qui constituent un paysage de qualité et
-à l'exclusion des parties de territoire présentant un intérêt pour le
+naturels, des paysages et de leur intérêt, notamment du point de vue esthétique,
+historique ou écologique ; à l'intérieur des zones qui constituent un paysage de
+qualité et à l'exclusion des parties de territoire présentant un intérêt pour le
 développement des exploitations agricoles ou forestières sont indiqués ceux des
 secteurs où est applicable le transfert des possibilités de construction prévu à
-l'article L. 123-2.
-
-3. Ces zones urbaines ou naturelles comprennent, le cas échéant :
+l'article L. 123-2. 3. Ces zones urbaines ou naturelles comprennent, le cas
+échéant :
 
 a) Les espaces boisés classés à conserver ou à créer ;
 

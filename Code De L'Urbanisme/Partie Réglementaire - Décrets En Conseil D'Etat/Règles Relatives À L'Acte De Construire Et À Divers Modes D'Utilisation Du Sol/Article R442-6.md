@@ -15,7 +15,7 @@ A la salubrité, à la sécurité ou à la tranquillité publique ;
 Au caractère ou à l'intérêt des lieux avoisinants ;
 
 Aux sites, aux paysages naturels ou urbains, à la conservation des perspectives
-monumentales ;
+monumentales ou aux vestiges ou sites archéologiques.
 
 A l'exercice des activités agricoles et forestières ou à la conservation des
 milieux naturels, de la faune ou de la flore.
