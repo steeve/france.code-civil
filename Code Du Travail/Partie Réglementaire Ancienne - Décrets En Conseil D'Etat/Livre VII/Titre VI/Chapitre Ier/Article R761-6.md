@@ -12,10 +12,12 @@ La désignation et l'élection des suppléants sont opérées dans les condition
 prévues à l'article R. 761-5 ci-dessus sauf pour ce qui est du représentant des
 entreprises de communication audiovisuelle du secteur privé, qui est désigné par
 les organisations professionnelles les plus représentatives de ces entreprises.
+En cas de désaccord des organisations susmentionnées, le siège en litige est
+pourvu par arrêté du ministre chargé de la communication.
 
-Un représentant et un représentant de chaque catégorie sont également désignés
-en qualité de correspondants dans les régions délimitées par le règlement
-intérieur prévu à l'article R. 761-7.
+Un représentant et un remplaçant de chaque catégorie sont également désignés en
+qualité de correspondants dans les régions délimitées par le règlement intérieur
+prévu à l'article R. 761-7.
 
 Pour chacune de ces régions, le représentant et le remplaçant de la première
 catégorie sont désignés par l'organisation la plus représentative des directeurs
@@ -24,5 +26,5 @@ le représentant et le remplaçant de la seconde catégorie sont élus par les
 journalistes titulaires de la carte d'identité professionnelle.
 
 Les correspondants ainsi que les membres suppléants qui ne remplacent pas un
-membre titulaire peuvent être entendus par la commission avant que celle-ci ne
+membre titulaire peuvent être entendus par la commission, avant que celle-ci ne
 délibère.
