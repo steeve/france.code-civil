@@ -16,3 +16,8 @@ principales orientations en ce qui concerne le parti d'aménagement adopté, la
 localisation des principales extensions urbaines et des activités essentielles,
 des grandes protections régionales, ainsi que l'implantation des équipements
 publics ou d'intérêt général les plus importants.
+
+Le schéma d'aménagement régional comprend également le chapitre individualisé
+prévu au dernier alinéa de l'article L. 144-2. Les documents graphiques se
+rapportant au chapitre individualisé peuvent être établis à une échelle
+différente de celle prévue à l'alinéa précédent.
