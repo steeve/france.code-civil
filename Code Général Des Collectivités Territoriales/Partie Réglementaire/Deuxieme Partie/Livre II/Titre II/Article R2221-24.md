@@ -9,5 +9,4 @@ industriel et commercial, soit au président du conseil d'administration
 lorsqu'il s'agit d'une régie chargée de l'exploitation d'un service public à
 caractère administratif pour prendre toute décision concernant la préparation,
 la passation, l'exécution et le règlement des marchés de travaux, de fournitures
-et de services qui peuvent être passés en la forme négociée en raison de leur
-montant.
+et de services qui peuvent être passés selon la procédure adaptée.
