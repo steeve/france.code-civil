@@ -14,4 +14,6 @@ d'actions de sociétés donnant vocation à l'attribution en propriété du loge
 qu'ils occupent.
 
 - soit un logement à usage locatif, faisant l'objet d'une convention intervenue
-en vertu des articles L. 351-2 (2., 3. ou 4.), L. 325-1 ou L. 431-6.
+en vertu des articles L. 351-2 (2., 3. ou 4.), L. 325-1 ou L. 431-6 ou d'un
+contrat d'amélioration intervenu en vertu de l'article 59 de la loi n. 82-526 du
+22 juin 1982 relative aux droits et obligations des locataires et des bailleurs.
