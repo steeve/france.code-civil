@@ -23,5 +23,15 @@ Le schéma d'aménagement de la Corse prend en compte les programmes de l'Etat e
 harmonise ceux des collectivités locales et de leurs établissements et services
 publics.
 
+Le schéma d'aménagement de la Corse vaut schéma de mise en valeur de la mer, tel
+qu'il est défini par l'article 57 de la loi n° 83-8 du 7 janvier 1983 précitée,
+notamment en ce qui concerne les orientations fondamentales de la protection, de
+l'aménagement et de l'exploitation du littoral.
+
+Les dispositions correspondantes sont regroupées dans un chapitre individualisé
+au sein du schéma d'aménagement régional. Ces dispositions doivent avoir
+recueilli l'accord du représentant de l'Etat préalablement à la mise à
+disposition du public de l'ensemble du projet de schéma d'aménagement.
+
 Le schéma d'aménagement de la Corse a les mêmes effets que les prescriptions
 définies en application de l'article L. 111-1-1.

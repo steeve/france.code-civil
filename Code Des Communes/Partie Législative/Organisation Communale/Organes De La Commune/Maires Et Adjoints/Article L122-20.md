@@ -51,3 +51,7 @@ leurs demandes ;
 15° D'exercer au nom de la commune le droit de préemption à l'intérieur des
 zones d'aménagement différé ou des zones d'intervention foncière ou le droit de
 substitution dans les zones de préemption des périmètres sensibles.
+
+16° D'intenter au nom de la commune les actions en justice ou de défendre la
+commune dans les actions intentées contre elle, dans les cas définis par le
+conseil municipal.

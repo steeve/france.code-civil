@@ -11,7 +11,7 @@ l'application des dispositions relatives à la protection générale de la sant�
 publique énumérées, notamment, au titre Ier du livre Ier du présent code et
 relevant des autorités municipales.
 
-Jusqu'au 31 décembre 1984, les bureaux municipaux d'hygiène qui, à la date
+Jusqu'au 31 décembre 1985, les bureaux municipaux d'hygiène qui, à la date
 d'entrée en vigueur de la section 4 du titre II de la loi n° 83-663 du 22
 juillet 1983, exercent effectivement des attributions en matière de vaccination
 ou de désinfection ainsi qu'en matière de contrôle administratif et technique
