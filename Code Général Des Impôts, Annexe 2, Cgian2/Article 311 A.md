@@ -46,4 +46,5 @@ le dégazolinage et la désulfuration, mais à l'exclusion du gaz réinjecté da
 gisement producteur ou brûlé dans les torches. Pour les hydrocarbures gazeux, la
 redevance pourra être établie soit sur le gaz naturel brut s'il est livré en cet
 état, soit sur les produits hydrocarburés issus du dégazolinage ou de la
-désulfuration du gaz naturel brut.
+désulfuration du gaz naturel brut. Pour le gaz carbonique la redevance est
+calculée d'après le volume du gaz livré dans l'année aux utilisateurs.
