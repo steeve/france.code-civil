@@ -12,3 +12,8 @@ Les limites territoriales de l'aménagement peuvent comprendre des parties de
 territoire de communes limitrophes lorsque la commission communale estime que
 l'aménagement comporte, au sens du présent titre, un intérêt pour les
 propriétaires ou les exploitants de ces parties de territoire.
+
+En zone de montagne, cette constitution est de droit lorsqu'elle est demandée à
+l'occasion de l'élaboration ou de la révision d'un plan d'occupation des sols
+par l'une des catégories de personnes ou par les services visés au premier
+alinéa ci-dessus.

@@ -12,6 +12,11 @@ Sauf accord des propriétaires et exploitants intéressés, le nouveau lotisseme
 ne peut allonger la distance moyenne des terres au centre d'exploitation
 principal, si ce n'est dans la mesure nécessaire au regroupement parcellaire.
 
+Lorsqu'a été ordonné un remembrement-aménagement en vertu de l'article 19-1, les
+dispositions des deuxième et troisième alinéas du présent article relatives à
+l'amélioration des conditions d'exploitation ne s'appliquent qu'aux terres
+agricoles visées au II dudit article.
+
 Le département assure le règlement des dépenses relatives aux opérations de
 réorganisation foncière et de remembrement. L'ingénieur en chef du génie rural
 est ordonnateur des dépenses.

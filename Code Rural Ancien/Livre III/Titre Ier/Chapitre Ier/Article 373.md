@@ -60,3 +60,8 @@ Dans les parties des réserves naturelles et des parcs nationaux où la chasse e
 autorisée ainsi que dans les zones périphériques des parcs nationaux, le
 ministre chargé de la protection de la nature peut instituer et mettre en oeuvre
 un plan de chasse pour certaines espèces d'animaux.
+
+Dans les zones de montagne, un plan de chasse du grand gibier peut être institué
+dans les mêmes conditions pour les massifs locaux dont les limites sont définies
+par le représentant de l'Etat dans le département après avis du président de la
+fédération départementale des chasseurs et des communes concernées.

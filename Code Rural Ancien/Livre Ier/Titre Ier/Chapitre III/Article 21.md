@@ -6,6 +6,9 @@ qu'il a apportés, déduction faite de la surface nécessaire aux ouvrages
 collectifs visés à l'article 25 du présent code, et compte tenu des servitudes
 maintenues ou créées.
 
+En cas de remembrement-aménagement, ces dispositions sont applicables sur
+l'ensemble du périmètre.
+
 Lorsque des terrains ne peuvent être réattribués conformément aux dispositions
 de l'article 20 du présent code, en raison de la création des aires nécessaires
 aux ouvrages collectifs communaux, il peut être attribué une valeur d'échange

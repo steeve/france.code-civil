@@ -1,5 +1,4 @@
 Article 58-22
 ----
-Les fonctionnaires et agents chargés de veiller à l'application du présent
-chapitre ont un droit de visite sur les terres et peuvent demander aux
-intéressés toutes explications qu'ils jugeraient utiles.
+Les dépenses afférentes à l'application des dispositions de l'article 58-17 sont
+prises en charge par le département.

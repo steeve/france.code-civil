@@ -3,7 +3,8 @@ Article 9
 La commission communale fait établir tous documents qu'elle estime nécessaires
 pour apprécier la situation des exploitations agricoles de la commune en vue de
 l'application du présent titre et, en particulier, en vue de déterminer
-l'existence et l'assiette des parcelles abandonnées.
+l'existence et l'assiette des parcelles abandonnées, incultes ou manifestement
+sous-exploitées.
 
 Ces documents comprennent notamment :
 
@@ -13,10 +14,11 @@ place, sur lequel seront déterminés :
 1° La consistance des propriétés rurales de la zone intéressée aux opérations ;
 
 2° L'emplacement des parcelles qui constituent l'ensemble des propriétés avec
-bâtiments, abandonnées ou incultes depuis au moins trois ans ;
+bâtiments, abandonnées, incultes ou manifestement sous-exploitées depuis au
+moins trois ans ;
 
-3° L'emplacement des parcelles abandonnées ou incultes depuis au moins trois ans
-sans bâtiment ;
+3° L'emplacement des parcelles abandonnées, incultes ou manifestement
+sous-exploitées depuis au moins trois ans sans bâtiment ;
 
 4° Les parcelles enclavées ;
 
@@ -35,9 +37,10 @@ et adresse du propriétaire enregistré par le cadastre, du locataire ou de
 l'exploitant ;
 
 2° Un état alphabétique des propriétaires des exploitations pourvues de
-bâtiments, abandonnées ou incultes depuis au moins trois ans ainsi que des
-parcelles abandonnées ou incultes depuis au moins trois ans, non rattachées à
-une exploitation agricole figurant sur l'état précité ;
+bâtiments, abandonnées, incultes ou manifestement sous-exploitées depuis au
+moins trois ans ainsi que des parcelles abandonnées, incultes ou manifestement
+sous-exploitées depuis au moin trois ans, non rattachées à une exploitation
+agricole figurant sur l'état précité ;
 
 3° Un état des chemins ruraux publics reconnus ou non reconnus ;
 

@@ -12,7 +12,14 @@ des cours d'eau non domaniaux, même non accessoires des travaux de curage. Les
 articles 120 et 121 sont applicables. Si les travaux intéressent la salubrité
 publique, une partie de la dépense peut être mise à la charge d'une ou plusieurs
 communes intéressées dans les conditions qui sont fixées par le règlement
-d'administration publique prévu à l'article 54.
+d'administration publique prévu à l'article 54 ;
+
+3° Assurer temporairement, à la demande des propriétaires de terrains attribués
+dans la surface affectée à l'urbanisation à l'intérieur d'un périmètre de
+remembrement-aménagement et après accord, le cas échéant, de l'association
+foncière urbaine, l'exploitation agricole de ces terrains. L'association
+foncière peut à cette fin conclure, pour le compte des propriétaires, des
+conventions qui ne relèvent pas de la législation sur le fermage.
 
 Si les travaux visés aux 1° et 2° intéressent la totalité des propriétés
 comprises dans le périmètre de remembrement, une assemblée générale des

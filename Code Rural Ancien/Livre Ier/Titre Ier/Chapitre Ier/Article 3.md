@@ -8,7 +8,8 @@ constituent la zone d'aménagement foncier.
 Elle fixe en conséquence :
 
 a) Le ou les périmètres à l'intérieur desquels elle est d'avis de procéder aux
-opérations de remembrement définies au chapitre III du présent titre ;
+opérations de remembrement ou de remembrement-aménagement définies au chapitre
+III du présent titre ;
 
 b) Le ou les périmètres à l'intérieur desquels elle est d'avis que les
 opérations de réorganisation foncière définies au chapitre II du présent titre

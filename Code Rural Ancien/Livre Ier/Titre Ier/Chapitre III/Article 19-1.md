@@ -1,9 +1,10 @@
 Article 19-1
 ----
-I. - Lorsque l'élaboration d'un document d'urbanisme et un remembrement rural
-sont prescrits, la procédure de remembrement-aménagement peut être ordonnée par
-l'autorité administrative après avis de la commission communale d'aménagement
-foncier et après accord du conseil municipal.
+I. - Lorsque, dans une ou plusieurs communes, l'élaboration ou la révision d'un
+plan d'occupation des sols est prescrite et qu'une commission communale ou
+intercommunale est instituée, le représentant de l'Etat dans le département,
+après accord du ou des conseils municipaux, ordonne le remembrement-aménagement
+dans les conditions prévues à l'article 3 et en fixe le périmètre.
 
 II. - Dans le périmètre de remembrement-aménagement, la part de surface agricole
 affectée à l'urbanisation et à la constitution de réserves foncières destinées

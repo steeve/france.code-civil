@@ -12,7 +12,9 @@ que la commune ou l'établissement public détermine, la région, le départemen
 les organismes mentionnés aux articles L. 121-6 et L. 121-7 ; le maire ou le
 président de l'établissement public peut recueillir l'avis de tout organisme ou
 association ayant compétence en matière de construction, d'aménagement ou
-d'urbanisme.
+d'urbanisme. En zone de montagne, la commission communale d'aménagement foncier
+est consultée à l'initiative du maire dans toute commune où est décidée
+l'élaboration d'un plan d'occupation des sols.
 
 Au vu de la décision prescrivant l'élaboration d'un plan d'occupation des sols,
 le représentant de l'Etat porte à la connaissance de la commune ou de
