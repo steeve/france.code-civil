@@ -10,6 +10,3 @@ Elle comporte la signature de chaque candidat et indique expressément :
 
 2° Les noms, prénoms, date et lieu de naissance, domicile et profession de
 chaque candidat.
-
-La déclaration de candidature peut comporter l'indication d'un emblème que les
-candidats choisissent pour qu'il soit imprimé sur leur bulletin de vote.

@@ -1,6 +1,7 @@
 Article L60
 ----
-Le vote a lieu sous enveloppes.
+Le vote a lieu sous enveloppe, obligatoirement d'une couleur différente de celle
+de la précédente consultation générale.
 
 Le jour du vote, celles-ci sont mises à la disposition des électeurs dans la
 salle de vote.
