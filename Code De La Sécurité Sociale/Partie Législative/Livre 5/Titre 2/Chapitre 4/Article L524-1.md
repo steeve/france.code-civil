@@ -24,3 +24,7 @@ tout ou partie, du montant des ressources servant au calcul de l'allocation.
 L'allocation de parent isolé est attribuée sous réserve des traités et accords
 internationaux ratifiés par la France, aux ressortissants étrangers remplissant
 des conditions de durée de résidence en France qui seront fixées par décret.
+
+L'Etat verse au Fonds national des prestations familiales, géré par la Caisse
+nationale des allocations familiales, une subvention correspondant aux sommes
+versées au titre de l'allocation de parent isolé.

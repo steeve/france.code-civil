@@ -47,10 +47,9 @@ livre VII du présent code et par les particuliers employeurs.
 Le bénéfice des dispositions du présent article ne peut être cumulé avec celui
 d'une autre exonération totale ou partielle de cotisations patronales ou
 l'application de taux spécifiques, d'assiettes ou montants forfaitaires de
-cotisations, à l'exception des exonérations prévues par l'article 7 de la loi n°
-93-1313 du 20 décembre 1993 quinquennale relative au travail, à l'emploi et à la
-formation professionnelle et par les deux premiers alinéas de l'article L.
-322-12 du code du travail et par l'article L. 241-14.
+cotisations, à l'exception des exonérations prévues par les deux premiers
+alinéas de l'article L. 322-12 du code du travail et par l'article L. 241-14 du
+présent code.
 
 Un décret fixe les modalités d'application du présent article et, notamment,
 précise l'ordre dans lequel s'applique le cumul mentionné à l'alinéa précédent

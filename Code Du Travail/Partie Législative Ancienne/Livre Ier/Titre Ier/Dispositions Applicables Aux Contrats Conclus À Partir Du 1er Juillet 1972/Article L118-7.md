@@ -1,9 +1,12 @@
 Article L118-7
 ----
 Les contrats d'apprentissage ouvrent droit à une indemnité compensatrice
-forfaitaire versée par l'Etat à l'employeur. Cette indemnité se compose d'une
-aide à l'embauche d'apprentis et d'une indemnité de soutien à l'effort de
-formation réalisé par l'employeur.
+forfaitaire versée par l'Etat à l'employeur. Cette indemnité se compose :
+
+1° D'une aide à l'embauche lorsque l'apprenti dispose d'un niveau de formation
+inférieur à un minimum défini par décret ;
+
+2° D'une indemnité de soutien à l'effort de formation réalisé par l'employeur.
 
 L'indemnité de soutien à l'effort de formation est majorée en fonction de l'âge
 de l'apprenti et de la durée de la formation selon un barème fixé par décret

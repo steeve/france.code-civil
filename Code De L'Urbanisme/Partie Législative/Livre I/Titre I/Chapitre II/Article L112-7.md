@@ -7,8 +7,8 @@ lesquelles sont exclus de cette surface les combles et sous-sols non
 aménageables pour l'habitation ou pour d'autres activités, les balcons, loggias
 et terrasses, les aires de stationnement, les surfaces nécessaires aux
 aménagements en vue de l'amélioration de l'hygiène des locaux et à l'isolation
-thermique ou acoustique, ainsi que les surfaces annexes aux bâtiments
-d'exploitation agricole.
+thermique ou acoustique, ainsi que les surfaces des bâtiments d'exploitation
+agricole.
 
 La même définition est retenue en ce qui concerne l'établissement de l'assiette
 de la taxe locale d'équipement.

@@ -53,3 +53,14 @@ ceux-ci sont compétents en matière de fonctionnement des établissements
 d'enseignement élémentaire et préélémentaire. Les années suivantes, ces
 majorations évoluent selon les modalités définies aux sixième à huitième
 alinéas.
+
+
+Article 118
+
+A compter de 1999, la dotation forfaitaire des communes qui, en application de
+l'article 10 de la loi n° 91-429 du 13 mai 1991 instituant une dotation de
+solidarité urbaine et un fonds de solidarité des communes de la région
+d'Ile-de-France, réformant la dotation globale de fonctionnement des communes et
+des départements et modifiant le code des communes, ont contribué à partir de
+1991 au financement de la dotation de solidarité urbaine, et qui bénéficiaient
+en 1997 de cette même dotation, est relevée d'un pourcentage égal à 8,9 %.

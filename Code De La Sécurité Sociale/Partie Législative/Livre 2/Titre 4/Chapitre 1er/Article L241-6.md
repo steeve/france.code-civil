@@ -20,12 +20,10 @@ conditions fixées par décret ;
 3°) des cotisations et ressources affectées aux prestations familiales des
 personnes salariées et non-salariées des régimes agricoles ;
 
-4° Une fraction du produit des contributions sociales mentionnées aux articles
+4° une fraction du produit des contributions sociales mentionnées aux articles
 L. 136-1, L. 136-6, L. 136-7 et L. 136-7-1, à concurrence d'un montant
 correspondant à l'application d'une taxe de 1,1 p. 100 à l'assiette des
-contributions.
+contributions ;
 
-5°) les versements de l'Etat correspondant au coût intégral des éxonérations
-opérées en application des articles L. 241-6-2 et L. 241-6-4, et de l'article 7
-de la loi n° 93-1313 du 20 décembre 1993 quinquennale relative au travail, à
-l'emploi et à la formation professionnelle.
+5°) la subvention de l'Etat correspondant aux sommes versées au titre de
+l'allocation de parent isolé prévue aux articles L. 524-1 et L. 755-18.
