@@ -3,23 +3,22 @@ Article 575 A
 Pour les différents groupes de produits définis à l'article 575, le taux normal
 est fixé conformément au tableau ci-après :
 
-GROUPE DE PRODUITS/ TAUX NORMAL (applicable au 1er janvier 2002)
+GROUPE DE PRODUITS/ TAUX NORMAL
 
-Cigarettes : 62
+Cigarettes : 64 %
 
-Cigares : 20,00
+Cigares : 27,57 %
 
-Tabacs fine coupe destinés à rouler les cigarettes : 51,69
+Tabacs fine coupe destinés à rouler les cigarettes : 58,57 %L&gt; Autres tabacs
+à fumer : 52,42 %
 
-Autres tabacs à fumer : 47,43
+Tabacs à priser : 45,57 %
 
-Tabacs à priser : 40,89
+Tabacs à mâcher : 32,17 %
 
-Tabacs à mâcher : 28,16
-
-Le minimum de perception mentionné à l'article 575 est fixé à 108 euros pour les
+Le minimum de perception mentionné à l'article 575 est fixé à 128 euros pour les
 cigarettes.
 
-Il est fixé à 56 euros pour les tabacs de fine coupe destinés à rouler les
-cigarettes, à 45 euros pour les autres tabacs à fumer et à 55 euros pour les
-cigares.
+Il est fixé à 75 euros pour les tabacs fine coupe destinés à rouler les
+cigarettes, à 60 euros pour les autres tabacs à fumer et à 89 euros pour les
+cigares (1).
