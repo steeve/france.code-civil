@@ -5,6 +5,5 @@ conclues pour une durée limitée en vue d'organiser :
 
 Des stages de conversion ;
 
-Des stages d'adaptation ;
-
-Des stages de prévention au sens de l'article L. 940-2 (1. et 2.).
+Des stages d'adaptation ; Des stages de prévention au sens de l'article L.
+900-2.

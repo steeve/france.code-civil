@@ -5,7 +5,7 @@ sous la responsabilité du préfet de la région parisienne avec la participatio
 de représentants du conseil d'administration du district, du comité consultatif
 économique et social et des préfets des départements ; la procédure
 d'établissement de ce schéma est conduite par le chef du service régional de
-l'équipement, avec le concours des chefs des services de l'Etat.
+l'équipement, avec le concours des chefs des services de l'Etat [*élaboration*].
 
 Il est approuvé par décret ou par décret en Conseil d'Etat lorsqu'un ou
 plusieurs conseils généraux, représentant un quart au moins de la population
