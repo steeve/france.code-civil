@@ -1,4 +1,4 @@
 Article R*148-1
 ----
-L'élection prévue à l'article L. 293-3 du code électoral a lieu sans débat et au
-scrutin secret.
+Les élections prévues aux articles L. 293-1 et L. 293-2 du code électoral ont
+lieu sans débat et au scrutin secret.
