@@ -3,16 +3,16 @@ Article R151-1
 Seront punis des peines prévues par le 5° de l'article 131-13 du code pénal pour
 les contraventions de la cinquième classe :
 
-" 1° Le pilote qui n'aura pas tenu son carnet de vol ou le carnet de route de
+1° Le pilote qui n'aura pas tenu son carnet de vol ou le carnet de route de
 l'aéronef lorsque ce document est exigé par la réglementation en vigueur ;
 
-" 2° Le propriétaire qui aura omis de conserver le carnet de route de l'aéronef
+2° Le propriétaire qui aura omis de conserver le carnet de route de l'aéronef
 pendant les trois ans qui suivent la dernière inscription ;
 
-" 3° Ceux qui auront contrevenu aux articles R. 131-1 et R. 131-2 ;
+3° Ceux qui auront contrevenu aux articles R. 131-1 et R. 131-2 ;
 
-" 4° Les organisateurs de spectacles publics d'évolution d'aéronefs qui n'auront
+4° Les organisateurs de spectacles publics d'évolution d'aéronefs qui n'auront
 pas obtenu l'autorisation requise par l'article R. 131-3 et les pilotes qui
 auront participé à ces manifestations ;
 
-" 5° Ceux qui auront contrevenu à l'article R. 133-12. "
+5° Ceux qui auront contrevenu à l'article R. 131-5.
