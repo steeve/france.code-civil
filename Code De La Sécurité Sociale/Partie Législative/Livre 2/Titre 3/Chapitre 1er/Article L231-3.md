@@ -38,4 +38,4 @@ des conseils d'administration.
 
 Chaque organisation ayant désigné un ou plusieurs représentants au conseil
 d'administration des organismes de sécurité sociale mentionnés aux titres I et
-II du présent livre peut désigner un administrateur suppléant.
+II du présent livre peut désigner un nombre égal d'administrateurs suppléants.

@@ -1,8 +1,7 @@
 Article L225-3
 ----
 L'agence centrale des organismes de sécurité sociale est gérée par un conseil
-d'administration qui comprend, outre un président nommé par décret, des
-représentants en nombre égal :
+d'administration qui comprend des représentants en nombre égal :
 
 1°) de la caisse nationale des allocations familiales ;
 

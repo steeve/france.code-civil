@@ -36,7 +36,8 @@ ressortissants dudit organisme.
 
 Sont déchues de leur mandat les personnes désignées qui cessent d'appartenir à
 l'organisation qui a procédé à leur désignation au sein des conseils
-d'administration.
+d'administration ainsi que les administrateurs qui, sans motif légitime,
+n'assistent pas à quatre séances consécutives du conseil d'administration .
 
 L'inéligibilité de candidats n'entraîne pas l'invalidité de la liste sur
 laquelle ils se présentent.
