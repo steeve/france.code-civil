@@ -70,7 +70,11 @@ même code ;
 
 g. Des périodes pendant lesquelles l'assuré a bénéficié du revenu de
 remplacement prévu à l'article R. 322-7-2 du code du travail en application de
-la convention prévue au VI de cet article.
+la convention prévue au VI de cet article ;
+
+h. Des périodes pendant lesquelles l'assuré a bénéficié de l'allocation de
+congé-solidarité dans les conditions prévues par l'article 15 de la loi n°
+2000-1207 du 13 décembre 2000.
 
 5°) pour les bénéficiaires de la législation sur les accidents du travail, les
 dispositions des 1° ou 3° ci-dessus sont applicables selon que l'assuré a perçu
