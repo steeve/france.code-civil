@@ -20,5 +20,6 @@ respectées ;
 5° Les dispositions de l'article L. 209-18 ne sont pas respectées ;
 
 6° La recherche a lieu en dépit d'une décision d'interdiction ou de suspension
-prise par le ministre ou le directeur général de l'Agence du médicament en
-application du dernier alinéa de l'article L. 209-12.
+prise par le ministre ou le directeur général de l'Agence française de sécurité
+sanitaire des produits de santé en application du dernier alinéa de l'article L.
+209-12.

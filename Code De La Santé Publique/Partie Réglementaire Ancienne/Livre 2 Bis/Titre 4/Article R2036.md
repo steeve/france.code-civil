@@ -1,8 +1,8 @@
 Article R2036
 ----
 La lettre d'intention est adressée, selon le cas, au ministre chargé de la santé
-ou au directeur général de l'Agence du médicament par envoi recommandé avec
-demande d'avis de réception.
+ou au directeur général de l'Agence française de sécurité sanitaire des produits
+de santé par envoi recommandé avec demande d'avis de réception.
 
 S'il s'agit d'une recherche sans bénéfice individuel direct dont le promoteur
 est le ministère de la défense, la lettre d'intention est adressée par
