@@ -8,6 +8,12 @@ Le montant global de cette provision ne peut excéder [*plafond*], par rapport a
 montant des primes ou cotisations, nettes d'annulation et de réassurance, émises
 au cours de l'exercice :
 
-200 % pour l'assurance grêle, 300 % pour les autres risques dus à des éléments
-naturels, 500 % pour le risque atomique, 500 % pour les risques de
-responsabilité civile dus à la pollution.
+200 % pour l'assurance grêle,
+
+300 % pour les autres risques dus à des éléments naturels,
+
+300 % pour les risques spatiaux,
+
+500 % pour le risque atomique,
+
+500 % pour les risques de responsabilité civile dus à la pollution.
