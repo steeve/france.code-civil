@@ -1,20 +1,19 @@
 Article D323-3-7
 ----
-La commission [*technique d'orientation et de reclassement professionnel*] est
-saisie :
+La commission est saisie :
 
 Par le handicapé lui-même ;
 
 Par ses parents ou par les personnes qui en ont la charge effective ou qui sont
 ses représentants légaux ;
 
-Par le directeur départemental de l'action sanitaire et sociale et le directeur
-départemental du travail et de la main-d'oeuvre ou le fonctionnaire qui exerce
-les fonctions de ce dernier compte tenu de l'activité professionnelle de
-l'assuré ;
+Par le directeur départemental des affaires sanitaires et sociales et le
+directeur départemental du travail, de l'emploi et de la formation
+professionnelle ou le fonctionnaire qui exerce les fonctions de ce dernier
+compte tenu de l'activité professionnelle de l'assuré ;
 
-Par l'Agence nationale pour l'emploi [*ANPE*], avec l'accord du handicapé,
-lorsqu'elle a enregistré une demande d'emploi de celui-ci ;
+Par l'Agence nationale pour l'emploi, avec l'accord du handicapé, lorsqu'elle a
+enregistré une demande d'emploi de celui-ci ;
 
 Par l'organisme d'assurance maladie intéressé ;
 
@@ -25,5 +24,5 @@ Ou par l'autorité responsable de tout centre, établissement ou service médica
 ou social intéressé.
 
 Dans tous les cas le handicapé et, s'il y a lieu, les personnes qui en ont la
-charge effective ou qui sont les représentants légaux sont informés de la
+charge effective ou qui sont ses représentants légaux sont informés de la
 saisine.
