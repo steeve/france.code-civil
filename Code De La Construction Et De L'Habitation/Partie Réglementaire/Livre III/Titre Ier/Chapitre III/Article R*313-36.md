@@ -17,16 +17,18 @@ chargé de l'artisanat à utiliser directement au financement des programmes
 agréés dans les conditions fixées à l'article R 313-31 tout ou partie des sommes
 qu'ils ont recueillies.
 
-L'organisme interprofessionnel reçoit en subventions des organismes collecteurs
-des sommes destinées à permettre aux organismes utilisateurs directs dont les
-ressources seraient insuffisantes de réaliser des opérations qui leur auraient
-été confiées dans le cadre de programmes agréés. A ce titre :
+L'organisme interprofessionnel reçoit des organismes collecteurs des sommes
+destinées à permettre aux organismes utilisateurs directs dont les ressources
+seraient insuffisantes de réaliser des opérations dans le cadre de programmes
+agréés. A ce titre :
 
-a) Les organismes collecteurs doivent lui reverser les sommes qu'ils n'ont pas
-été autorisés à utiliser directement dans les conditions et sous les sanctions
-fixées par un des arrêtés mentionnés au dernier alinéa du présent article ;
+a) Les organismes collecteurs doivent lui reverser en subvention les sommes
+qu'ils n'ont pas été autorisés à utiliser directement, dans les conditions et
+sous les sanctions fixées par un des arrêtés mentionnés au dernier alinéa du
+présent article ;
 
-b) Il peut imposer aux organismes collecteurs le versement de subventions.
+b) Il peut imposer aux organismes utilisateurs directs le versement de sommes en
+tant que de besoin.
 
 Des arrêtés du ministre chargé des finances, du ministre chargé de la
 construction et de l'habitation, du ministre chargé du travail, du ministre
