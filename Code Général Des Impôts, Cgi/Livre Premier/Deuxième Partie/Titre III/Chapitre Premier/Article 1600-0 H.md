@@ -1,6 +1,6 @@
 Article 1600-0 H
 ----
-- Sont également assujettis à la contribution mentionnée à l'article 1600-0 G,
+Sont également assujettis à la contribution mentionnée à l'article 1600-0 G,
 dans les conditions et selon les modalités prévues aux I et II de cet article :
 
 1. Les revenus d'activité et de remplacement de source étrangère perçus à
@@ -21,3 +21,6 @@ contribution instituée par l'article 14 de l'ordonnance n° 96-50 du 24 janvier
 
 4. Les plus-values exonérées d'impôt sur le revenu en application du 7 du III de
 l'article 150-0 A au titre des années visées au I de l'article 1600-0 G.
+
+5. Les plus-values à long terme exonérées d'impôt en application de l'article
+151 septies A.
