@@ -1,17 +1,12 @@
 Article R*152-7
 ----
-Est puni de l'amende prévue pour les contraventions de la 5e classe le fait pour
-le bailleur défini à l'article R. 127-1 de se soustraire aux obligations de
-surveillance et de gardiennage qui lui incombent en application des articles R.
-127-1 et R. 127-2. Le contrevenant encourt autant d'amendes qu'il manque de
-gardiens par tranche de cent logements locatifs dont il a la gestion.
+Sans préjudice de l'application, le cas échéant, des peines plus fortes prévues
+aux articles 209 à 233 du code pénal et à l'article L. 480-12 du code de
+l'urbanisme et l'article L. 152-10 du présent code, quiconque a mis obstacle à
+l'exercice du droit de visite prévu aux articles R. 123-45 et R. 123-48 est puni
+de la peine d'amende prévue pour les contraventions de la 5è classe. En cas de
+récidive, la peine d'amende est celle prévue pour les contraventions de la 5è
+classe en récidive.
 
-Le fait pour le bailleur de ne pas déférer à la demande qui lui est faite en
-application de l'article R. 127-4 ou de transmettre des informations mensongères
-ou erronées est puni de la même peine d'amende prévue pour les contraventions de
-la 5e classe.
-
-Les personnes morales peuvent être déclarées responsables pénalement, dans les
-conditions prévues à l'article 121-2 du code pénal, des infractions définies au
-présent article. La peine encourue par les personnes morales est l'amende selon
-les modalités prévues par l'article 131-41 du code pénal.
+Est puni des mêmes peines tout propriétaire ou exploitant qui contrevient aux
+dispositions des articles R. 123-49, 1er alinéa, et R. 123-51.

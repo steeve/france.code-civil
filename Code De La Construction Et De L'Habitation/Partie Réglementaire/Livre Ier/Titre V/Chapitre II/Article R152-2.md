@@ -1,10 +1,8 @@
 Article R152-2
 ----
-Toute infraction à celles des dispositions des articles R. 122-23 et R. 122-28
-qui sont relatives à l'obligation pour le propriétaire d'assister aux visites de
-contrôle est punie de l'amende prévue au 5° de l'article 131-13 du code pénal.
-En cas de récidive, la peine d'amende est celle prévue pour les contravantions
-de 5e classe en récidive.
+Les personnes morales peuvent être déclarées responsables pénalement, dans les
+conditions prévues par l'article 121-2 du code pénal, des infractions définies à
+l'article R. 152-1.
 
-Est punie des mêmes peines toute infraction aux dispositions de l'article R.
-122-29.
+La peine encourue par les personnes morales est l'amende, suivant les modalités
+prévues par l'article 131-41 du code pénal.
