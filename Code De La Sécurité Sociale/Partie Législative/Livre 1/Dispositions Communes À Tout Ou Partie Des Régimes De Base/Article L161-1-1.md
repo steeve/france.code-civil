@@ -1,27 +1,21 @@
 Article L161-1-1
 ----
-Toute personne pour laquelle il ne peut être immédiatement établi qu'elle relève
-à un titre quelconque d'un régime obligatoire d'assurance maladie et maternité
-ou du régime de l'assurance personnelle est affiliée provisoirement au régime de
-l'assurance personnelle prévu aux articles L. 741-1 et suivants, sous réserve
-qu'elle remplisse la condition de résidence prévue pour ce régime.
+Par dérogation aux dispositions en vigueur, l'exercice de leur nouvelle activité
+par les personnes mentionnées au 2° de l'article L. 351-24 du code du travail
+ouvre droit, pour une période et dans la limite d'un plafond de revenus ou de
+rémunérations fixés par décret, à l'exonération des cotisations dues aux régimes
+d'assurance maladie, maternité, veuvage, vieillesse, invalidité et décès et
+d'allocations familiales auxquels elles sont affiliées en raison de l'exercice
+de cette activité et aux prestations servies par ces régimes.
 
-Par dérogation aux dispositions de l'article L. 741-9, les intéressés
-bénéficient provisoirement à compter de la date de leur affiliation, pour
-eux-mêmes et pour leurs ayants droit au sens de l'article L. 313-3 et de
-l'article L. 161-14, des prestations en nature de l'assurance maladie et
-maternité servies par le régime général.
+L'exonération prévue à l'alinéa précédent porte :
 
-Dès que le régime d'affiliation dont relève la personne est déterminé, il est
-procédé à une régularisation de sa situation pour la période de son affiliation
-provisoire à l'assurance personnelle. Dans le cas où l'intéressé relève d'un
-régime distinct de l'assurance personnelle, les prestations servies pendant la
-période d'affiliation provisoire sont remboursées par ce régime au régime de
-l'assurance personnelle. Dans le cas contraire, il est maintenu au régime de
-l'assurance personnelle, les cotisations correspondant à la période
-d'affiliation provisoire étant dues à compter du premier jour de cette
-affiliation, compte tenu des droits éventuels de l'intéressé à leur prise en
-charge.
+1° Sur les cotisations à la charge de l'employeur et du salarié et afférentes à
+la fraction des rémunérations versées au cours de la période d'exonération, si
+ces personnes relèvent d'un régime de salariés ;
 
-Des dispositions réglementaires fixent les modalités d'application du présent
-article, et notamment les conditions de régularisation.
+2° Sur les cotisations dues au titre de l'activité exercée au cours de la
+période d'exonération, si ces personnes relèvent d'un régime de non-salariés.
+
+L'exonération doit être demandée par l'employeur dans le cas mentionné au 1° et
+par le non-salarié dans le cas mentionné au 2°.

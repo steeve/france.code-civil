@@ -7,8 +7,8 @@ appel à un expert agréé :
 professionnelle ou à caractère professionnel est constaté dans l'établissement ;
 
 2° En cas de projet important modifiant les conditions d'hygiène et de sécurité
-ou les conditions de travail, prévu au sixième alinéa de l'article L. 236-2 ;
-l'expertise doit ^etre faite dans le délai d'un mois ; ce délai peut ^etre
+ou les conditions de travail, prévu au septième alinéa de l'article L. 236-2 ;
+l'expertise doit être faite dans le délai d'un mois ; ce délai peut être
 prolongé pour tenir compte des nécessités de l'expertise ; le délai total ne
 peut excéder quarante-cinq jours.
 
@@ -25,7 +25,7 @@ complément d'expertise sur les conditions de travail, faire appel à cet expert
 III. - Les frais d'expertise sont à la charge de l'employeur.
 
 Si l'employeur entend contester la nécessité de l'expertise, la désignation de
-l'expert, le co^ut, l'étendue ou le délai de l'expertise, cette contestation est
+l'expert, le coût, l'étendue ou le délai de l'expertise, cette contestation est
 portée devant le président du tribunal de grande instance statuant en urgence.
 
 L'employeur ne peut s'opposer à l'entrée de l'expert dans l'établissement. Il

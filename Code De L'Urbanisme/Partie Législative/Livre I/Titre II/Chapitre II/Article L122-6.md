@@ -5,8 +5,9 @@ orientations en cours d'établissement intéressant les programmes de l'Etat, de
 collectivités locales et des établissements et services publics ainsi que les
 décisions qui les concernent, dès lors que ces orientations ne sont pas
 susceptibles de compromettre la réalisation d'un projet d'intérêt général au
-sens de l'article L. 121-12 ou l'application des lois d'aménagement et
-d'urbanisme prévues à l'article L. 111-1-1.
+sens de l'article L. 121-12 ou l'application des directives territoriales
+d'aménagement et, en leur absence, des lois d'aménagement et d'urbanisme prévues
+à l'article L. 111-1-1.
 
 Les programmes et décisions concernés font l'objet, à la demande des autorités
 compétentes intéressées et dans les conditions définies par décret en Conseil

@@ -8,6 +8,7 @@ naturels sensibles, boisés ou non.
 
 La politique du département prévue à l'alinéa précédent doit être compatible
 avec les orientations des schémas directeurs et des chartes intercommunales de
-développement et d'aménagement, lorsqu'ils existent, ainsi que des prescritions
-nationales ou particulières à certaines parties du territoire fixées en
-application de l'article L. 111-1-1.
+développement et d'aménagement, lorsqu'ils existent, ou avec les directives
+territoriales d'aménagement mentionnées à l'article L. 111-1-1 ou, en l'absence
+de directive territoriale d'aménagement, avec les lois d'aménagement et
+d'urbanisme prévues au même article.

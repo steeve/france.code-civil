@@ -9,8 +9,9 @@ L'exonération porte sur les rémunérations dues :
 1° Pour les bénéficiaires âgés de plus de cinquante ans et de moins de
 soixante-cinq ans, demandeurs d'emploi depuis plus d'un an ou percevant le
 revenu minimum d'insertion et sans emploi depuis plus d'un an, jusqu'à ce qu'ils
-justifient de cent cinquante trimestres d'assurance, au sens de l'article L.
-351-1 du code de la sécurité sociale ;
+justifient de la durée d'assurance, définie au deuxième alinéa de l'article L.
+351-1 du code de la sécurité sociale, requise pour l'ouverture du droit à une
+pension de vieillesse à taux plein ;
 
 2° Dans la limite d'une période de dix-huit mois suivant la date d'embauche pour
 :

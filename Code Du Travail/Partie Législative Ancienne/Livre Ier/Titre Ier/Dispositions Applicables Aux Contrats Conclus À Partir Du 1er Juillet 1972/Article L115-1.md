@@ -9,11 +9,7 @@ d'une qualification professionnelle sanctionnée par un diplôme de l'enseigneme
 professionnel ou technologique du second degré ou du supérieur ou un ou
 plusieurs titres d'ingénieurs ou titres homologués dans les conditions prévues à
 l'article 8 de la loi n° 71-577 du 16 juillet 1971 d'orientation sur
-l'enseignement technologique et figurant sur une liste établie par arrêté des
-ministres intéressés, après avis de la commission permanente du Conseil national
-de la formation professionnelle, de la promotion sociale et de l'emploi. Les
-titres homologués qui ont été reconnus par une convention collective de travail
-étendue sont inscrits de plein droit sur cette liste.
+l'enseignement technologique.
 
 L'apprentissage fait l'objet d'un contrat conclu entre un apprenti ou son
 représentant légal et un employeur. Il associe une formation dans une ou

@@ -23,16 +23,19 @@ Pour l'application de l'alinéa précédent, le gain net retiré de la cession
 d'actions acquises dans les conditions prévues aux articles 208-1 à 208-8-2 de
 la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales est égal à la
 différence entre le prix effectif de cession des actions net des frais et taxes
-acquittés par le cédant et le prix de souscription ou d'achat ;
+acquittés par le cédant et le prix de souscription ou d'achat majoré, le cas
+échéant, de l'avantage visé au deuxième alinéa de l'article L. 242-1 du code de
+la sécurité sociale.
 
 f) Des revenus des locations meublées non professionnelles ;
 
 g) De tous autres revenus mentionnés à l'article 92 du code général des impôts
 et qui n'ont pas été assujettis à la contribution en application de l'article
-129 de la présente loi [*nouvel article L136-3 du code de la sécurité
-sociale*]." II. - Les contribuables dont la cotisation d'impôt sur le revenu est
-inférieure au montant mentionné au 1 bis de l'article 1657 du code général des
-impôts ne sont pas assujettis à la contribution.
+129 de la présente loi [*nouvel article L136-3 du code de la sécurité sociale*].
+
+II. - Les contribuables dont la cotisation d'impôt sur le revenu est inférieure
+au montant mentionné au 1 bis de l'article 1657 du code général des impôts ne
+sont pas assujettis à la contribution.
 
 III. - La contribution portant sur les revenus mentionnés au I ci-dessus est
 assise, contrôlée et recouvrée selon les mêmes règles et sous les mêmes sûretés,

@@ -1,9 +1,11 @@
 Article L212-5-1
 ----
-Les heures supplémentaires de travail visées à l'article L. 212-5 ouvrent droit
-à un repos compensateur obligatoire dont la durée est égale à 50 p. 100 du temps
-de travail accompli en heures supplémentaires au-delà de quarante-deux heures
-dans les entreprises de plus de dix salariés.
+Les heures supplémentaires de travail visées à l'article L. 212-5 et effectuées
+à l'intérieur du contingent fixé par le décret prévu au premier alinéa de
+l'article L. 212-6 ouvrent droit à un repos compensateur obligatoire dont la
+durée est égale à 50 p. 100 du temps de travail accompli en heures
+supplémentaires au-delà de quarante-deux heures dans les entreprises de plus de
+dix salariés.
 
 Lorsque les heures supplémentaires sont effectuées dans les cas énumérés à
 l'article L. 221-12, le repos compensateur obligatoire est fixé à 20 p. 100 du
@@ -15,19 +17,16 @@ Les heures supplémentaires effectuées au-delà du contingent fixé par le déc
 prévu au premier alinéa de l'article L. 212-6 ouvrent droit à un repos
 compensateur obligatoire dont la durée est égale à 50 p. 100 de ces heures
 supplémentaires pour les entreprises de dix salariés au plus et à 100 p. 100
-pour les entreprises de plus de dix salariés. Le repos prévu au présent alinéa
-n'est pas applicable, dans les entreprises de plus de dix salariés, aux heures
-supplémentaires ayant ouvert droit au repos compensateur prévu au premier
-alinéa.
+pour les entreprises de plus de dix salariés.
 
-Le repos ne peut être pris que par journée entière, chacune étant réputée
-correspondre à huit heures de repos compensateur, à la convenance du salarié, en
-dehors d'une période fixée par voie réglementaire. Toutefois, ce repos pourra
-être pris par demi-journée dans certains secteurs d'activité déterminés par
-décret. Ce repos qui est assimilé à une période de travail effectif pour le
-calcul des droits du salarié donne lieu à une indemnisation qui ne doit
-entraîner aucune diminution par rapport à la rémunération que le salarié aurait
-perçue s'il avait accompli son travail.
+Le repos ne peut être pris que par journée entière [*modalités fractionnement*],
+chacune étant réputée correspondre à huit heures de repos compensateur, à la
+convenance du salarié, en dehors d'une période fixée par voie réglementaire.
+Toutefois, ce repos pourra être pris par demi-journée dans certains secteurs
+d'activité déterminés par décret. Ce repos qui est assimilé à une période de
+travail effectif pour le calcul des droits du salarié donne lieu à une
+indemnisation qui ne doit entraîner aucune diminution par rapport à la
+rémunération que le salarié aurait perçue s'il avait accompli son travail.
 
 Un décret détermine, pour les travailleurs des entreprises qui ne relèvent pas
 d'un accord conclu, en ce domaine, entre des organisations syndicales

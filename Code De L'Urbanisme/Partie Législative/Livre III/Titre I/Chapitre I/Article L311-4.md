@@ -6,7 +6,7 @@ plan prend en considération les dispositions du programme local de l'habitat
 lorsqu'il existe. Il comporte tout ou partie des éléments énumérés aux articles
 L. 123-1 et L. 130-1. et précise les mesures destinées à préserver la qualité
 des paysages. Il est élaboré par la personne publique qui a pris l'initiative de
-la création de la zone. "
+la création de la zone.
 
 Sont associés à cette élaboration l'Etat et la commune et, à leur demande, et
 dans les formes que la personne publique qui a prix l'initiative de la création
@@ -32,7 +32,7 @@ comprend les pièces requises par le code de l'expropriation pour cause d'utilit
 publique, l'enquête prévue ci-dessus vaut enquête préalable à la déclaration
 d'utilité publique des travaux nécessaires à l'aménagement de la zone.
 
-Lorsque la commune est dotée d'un plan d'occupation des sols opposables aux
+Lorsque la commune est dotée d'un plan d'occupation des sols opposable aux
 tiers, l'autorité compétente peut, par dérogation aux dispositions des deuxième
 et troisième alinéas du présent article, soumettre directement à enquête
 publique un projet de plan d'aménagement de zone, à condition que ce projet ne
@@ -54,9 +54,10 @@ ledit plan, le représentant de l'Etat dans le département peut élaborer et
 approuver, après avis du conseil municipal ou de l'organe délibérant de
 l'établissement public de coopération intercommunale compétent et enquête
 publique, la modification du plan d'aménagement de zone afin que celui-ci soit
-compatible avec les prescriptions nouvelles prises en application de l'article
-L. 111-1-1 ou avec les orientations d'un schéma directeur ou d'un schéma de
-secteur approuvé ou arrêté postérieurement à l'approbation du plan, ou pour
-permettre la réalisation d'un nouveau projet d'intérêt général relevant de
-l'Etat, de la région, du département ou d'autres intervenants, et correspondant
-aux définitions prises en application de l'article L. 121-12.
+compatible, dans les conditions prévues par l'article L. 111-1-1, avec les
+orientations d'un schéma directeur ou d'un schéma de secteur approuvé ou arrêté
+postérieurement à l'approbation du plan, ou avec les directives territoriales
+d'aménagement, ou avec les lois d'aménagement et d'urbanisme, ou pour permettre
+la réalisation d'un nouveau projet d'intérêt général relevant de l'Etat, de la
+région, du département ou d'autres intervenants, et correspondant aux
+définitions prises en application de l'article L. 121-12.

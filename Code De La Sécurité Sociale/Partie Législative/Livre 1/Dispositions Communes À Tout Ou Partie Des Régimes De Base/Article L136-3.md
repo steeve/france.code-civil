@@ -19,8 +19,12 @@ industriels et commerciaux au sens des dispositions du code général des impôt
 qui ne sont pas visés aux articles 128 et 130 de la présente loi, même s'ils ne
 sont pas visés à l'article L. 242-11.
 
-La contribution est assise à titre provisionnel sur le revenu de
-l'avant-dernière année précédant celle au titre de laquelle elle est due.
+La contribution est, à titre provisionnel, assise sur le revenu professionnel de
+l'avant-dernière année précédant celle au titre de laquelle elle est due, puis
+ajustée sur le revenu professionnel de l'année précédente.
+
+Lorsque le revenu professionnel est définitivement connu, la contribution fait
+l'objet d'une régularisation.
 
 Pour les employeurs et travailleurs indépendants ainsi que pour les titulaires
 de bénéfices non commerciaux et de bénéfices industriels et commerciaux visés au
@@ -37,6 +41,3 @@ travailleurs indépendants ainsi que par les titulaires de bénéfices non
 commerciaux et de bénéfices industriels et commerciaux visés à l'alinéa
 précédent est calculée à titre provisionnel sur les revenus professionnels, tels
 que définis et déterminés au présent article, majorés de 25 p. 100.
-
-Lorsque le revenu professionnel est définitivement connu, la contribution fait
-l'objet d'une régularisation.

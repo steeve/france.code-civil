@@ -55,8 +55,3 @@ télécommunications, par des particuliers employeurs, ni aux gains et
 rémunérations perçus par les salariés ou assimilés dont l'emploi donne lieu à
 l'application de taux spécifiques, d'assiettes ou montants forfaitaires de
 cotisations.
-
-Le bénéfice de ces dispositions ne peut pas être cumulé avec celui d'une autre
-exonération partielle ou totale de cotisations patronales à l'exception des
-exonérations prévues par les deux premiers alinéas de l'article L. 322-12 du
-code du travail pour le travail à temps partiel.

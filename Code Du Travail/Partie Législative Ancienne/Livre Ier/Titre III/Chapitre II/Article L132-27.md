@@ -3,8 +3,9 @@ Article L132-27
 Dans les entreprises où sont constituées une ou plusieurs sections syndicales
 d'organisations représentatives au sens de l'article L. 132-2, l'employeur est
 tenu d'engager chaque année une négociation sur les salaires effectifs
-[*périodicité*], la durée effective et l'organisation du temps de travail. Cette
-négociation est l'occasion d'un examen par les parties de l'évolution de
+[*périodicité*], la durée effective et l'organisation du temps de travail,
+notamment la mise en place du travail à temps partiel à la demande des salariés.
+Cette négociation est l'occasion d'un examen par les parties de l'évolution de
 l'emploi dans l'entreprise, et notamment du nombre de salariés dont les gains et
 rémunérations sont, en application de l'article L. 241-6-1 du code de la
 sécurité sociale, exonérés totalement ou partiellement des cotisations

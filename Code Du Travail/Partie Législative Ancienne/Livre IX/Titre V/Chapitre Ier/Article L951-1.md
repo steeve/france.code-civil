@@ -2,16 +2,16 @@ Article L951-1
 ----
 Les employeurs occupant au minimum dix salariés doivent consacrer au financement
 des actions définies à l'article L. 950-1 un pourcentage minimal de 1,2 p. 100
-du montant, entendu au sens du 1 de l'article 231 du code général des impôts,
-des salaires payés pendant l'année en cours. Les sommes sur lesquelles portent
-les exonérations mentionnées aux articles 231bis C à 231 bis N du code général
-des impôts ne sont pas prises en compte pour l'établissement du montant de la
-contribution définie ci-dessus. Ce pourcentage est porté à 1,4 p. 100 à compter
-du 1er janvier 1992 et à 1,5 p. 100 à compter du 1er janvier 1993. Pour les
-entreprises de travail temporaire, le taux est fixé à 2 p. 100 ; dans ce dernier
-cas, il s'applique, à compter du 1er janvier 1992, aux salaires payés pendant
-l'année en cours, quelles que soient la nature et la date de la conclusion des
-contrats de travail.
+du montant, entendu au sens des règles prévues aux chapitres Ier et II du titre
+IV du livre II du code de la sécurité sociale, ou aux chapitres II et III du
+titre II du livre VII du code rural, pour les employeurs de salariés
+[*agricoles*] visés à l'article 1144 dudit code, des salaires payés pendant
+l'année en cours. Ce pourcentage est porté à 1,4 p. 100 à compter du 1er janvier
+1992 et à 1,5 p. 100 à compter du 1er janvier 1993. Pour les entreprises de
+travail temporaire, le taux est fixé à 2 p. 100 ; dans ce dernier cas, il
+s'applique, à compter du 1er janvier 1992, aux salaires payés pendant l'année en
+cours, quelles que soient la nature et la date de la conclusion des contrats de
+travail.
 
 Dans le cadre de l'obligation définie à l'alinéa précédent :
 
@@ -20,6 +20,18 @@ salaires de l'année de référence à un organisme paritaire agréé par l'Etat
 titre du congé individuel de formation. Ce pourcentage est porté à 0,20 p. 100 à
 compter du 1er janvier 1993 ; pour les entreprises de travail temporaire, le
 taux est porté à 0,30 p. 100 à compter du 1er janvier 1992 ;
+
+Des accords de branches étendus tels que mentionnés à l'article L. 932-2
+définissent les conditions dans lesquelles une partie de ce versement, ne
+pouvant excéder 50 p. 100 de celui-ci, est attribuée à l'organisme collecteur
+paritaire agréé de la branche professionnelle concernée et est affectée au
+capital de temps de formation.
+
+Les sommes ainsi perçues au titre du plan de formation doivent être
+individualisées dans les comptes de l'organisme collecteur.
+
+Un décret en Conseil d'Etat précise les modalités d'application des deux alinéas
+ci-dessus.
 
 2° Les employeurs consacrent 0,30 p. 100 des salaires de l'année précédente
 majorés du taux d'évolution du salaire moyen par tête aux contrats d'insertion

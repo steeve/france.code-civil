@@ -77,11 +77,11 @@ faire l'objet d'aucune dérogation, à l'exception des adaptations mineures
 rendues nécessaires par la nature du sol, la configuration des parcelles ou le
 caractère des constructions avoisinantes.
 
-Les plans d'occupation des sols doivent être compatibles avec les prescriptions
-prises en application de l'article L. 111-1-1 et les orientations des schémas
-directeurs et des schémas de secteur, s'ils existent, et respecter les
-servitudes d'utilité publique affectant l'utilisation du sol ainsi que les
-dispositions nécessaires à la mise en oeuvre de projets d'intérêt général
-relevant de l'Etat, de la région, du département ou d'autres intervenants. Ils
-prennent en considération les dispositions des programmes locaux de l'habitat
-lorsqu'ils existent.
+Les plans d'occupation des sols doivent être compatibles dans les conditions
+fixées par l'article L. 111-1-1 avec les orientations des schémas directeurs et
+des schémas de secteur ou les directives territoriales d'aménagement ou les lois
+d'aménagement ou d'urbanisme , et respecter les servitudes d'utilité publique
+affectant l'utilisation du sol ainsi que les dispositions nécessaires à la mise
+en oeuvre de projets d'intérêt général relevant de l'Etat, de la région, du
+département ou d'autres intervenants. Ils prennent en considération les
+dispositions des programmes locaux de l'habitat lorsqu'ils existent.

@@ -5,10 +5,8 @@ titre bénéficient à l'occasion de leurs maternités d'une allocation forfaita
 de repos maternel destinée à compenser partiellement la diminution de leur
 activité.
 
-Lorsqu'elles font appel à du personnel salarié pour se faire remplacer dans les
-travaux, professionnels ou ménagers, qu'elles effectuent habituellement, cette
-indemnité est complétée d'une indemnité de remplacement proportionnelle à la
-durée et au coût de celui-ci.
+Lorsqu'elles cessent toute activité professionnelle, les assurées reçoivent
+également une indemnité journalière forfaitaire.
 
 Les femmes mentionnées au premier alinéa bénéficient des allocations prévues par
 le présent article à l'occasion de l'arrivée à leur foyer d'un enfant confié en
@@ -22,14 +20,14 @@ Les allocations sont servies dans les conditions suivantes :
 
 1°) l'allocation forfaitaire prévue au premier alinéa est due pour sa moitié ;
 
-2°) l'allocation de remplacement est due pour la ou les périodes de remplacement
-se situant après l'arrivée de l'enfant au foyer, la durée maximale d'attribution
-de la prestation étant égale à la moitié de celle qui est prévue en cas de
-maternité.
+2°) l'indemnité journalière est due pour la ou les périodes d'interruption
+d'activité se situant après l'arrivée de l'enfant au foyer, la durée maximale
+d'attribution de la prestation étant égale à la moitié de celle qui est prévue
+en cas de maternité.
 
-Les mesures d'application, et notamment le montant des allocations et la durée
-maximum du remplacement indemnisable, sont fixées par le décret prévu ci-dessus.
+Un décret détermine les modalités d'application du présent article, et notamment
+le montant de l'allocation prévue au premier alinéa, ainsi que les montants et
+la durée d'attribution de l'indemnité journalière prévue au deuxième alinéa.
 
-Les montants maximaux des allocations sont revalorisés dans les mêmes conditions
-que celles fixées par les articles L. 141-3 et L. 141-4 du code du travail pour
-le salaire minimum de croissance.
+Les montants des prestations sont revalorisés dans les mêmes conditions que
+celles fixées pour le plafond prévu à l'article L. 241-3.
