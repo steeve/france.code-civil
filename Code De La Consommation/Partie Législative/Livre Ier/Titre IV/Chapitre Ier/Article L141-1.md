@@ -6,7 +6,7 @@ décembre 1986 relative à la liberté des prix et de la concurrence, reproduits
 paragraphe IV ci-après, les infractions aux dispositions prévues au présent code
 par :
 
-1° Les articles L. 122-6 et L. 122-7 ;
+1° Les articles L. 121-70, L. 121-71, L. 121-72, L. 122-6 et L. 122-7 ;
 
 2° Les articles L. 132-1 à L. 132-5, L. 133-1 et 134-1.
 
