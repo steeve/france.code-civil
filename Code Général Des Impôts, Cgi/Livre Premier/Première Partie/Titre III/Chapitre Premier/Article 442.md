@@ -5,9 +5,7 @@ hydromels :
 
 1° (Abrogé à compter du 1er janvier 1993) ;
 
-2° Expédiés à des distillateurs de profession, à des entrepositaires agréés, à
-des fabricants de vinaigre, à condition qu'ils soient pris en charge au compte
-des destinataires;
+2° (Abrogé) ;
 
 3° (Abrogé à compter du 1er janvier 1993) ;
 

@@ -1,23 +1,31 @@
 Article 435
 ----
-Sont compris sous la dénomination de vin, cidre ou poiré, dans les dispositions
-du présent code, le vin, le cidre ou le poiré achevé et potable, et les liquides
-se présentant sous les divers états par lesquels peut passer le produit du
-raisin, de la pomme ou de la poire depuis le moût jusqu'à la lie non parvenue à
-dessication complète.
+I. 1° Dans les dispositions du présent code relatives aux contributions
+indirectes, sont compris sous la dénomination de vin, les produits, autres que
+les vins mousseux, relevant des codes NC 2204 et 2205 du tarif des douanes dont
+le titre alcoométrique acquis est supérieur à 1,2 % vol. et qui répondent aux
+conditions prévues aux a et a bis du 2° de l'article 438 ;
 
-Les dénominations "cidre doux" ou "poiré doux", "cidre pur jus doux" ou "poiré
-pur jus doux" sont réservées respectivement aux cidres et aux poirés, aux cidres
-pur jus ou aux poirés pur jus, présentant au maximum 3 % vol. d'alcool acquis.
+2° Sont regardés comme vins mousseux, les produits relevant des codes NC 2204 et
+2205 du tarif des douanes qui ont un titre alcoométrique acquis compris entre
+1,2 % et 15 % vol. et ont une surpression dépassant un seuil fixé par décret ou
+sont présentés dans des bouteilles fermées dans des conditions également fixées
+par décret ;
 
-Sont considérés comme jus de raisin légèrement fermentés, les "pétillants de
-raisin" dont l'effervescence et le titre alcoolique acquis, ne dépassant pas 3 %
-vol., résultent de la fermentation de ce jus par le procédé de la cuve close,
-sans coupage avec du vin.
+3° Sont également soumis au régime fiscal des vins tous les produits
+vitivinicoles, autres que les vins, définis par les règlements communautaires en
+vigueur portant organisation commune du marché vitivinicole, qui relèvent des
+codes NC 2204 et 2205 du tarif des douanes et qui présentent un titre
+alcoométrique acquis supérieur à 1,2 % vol.
 
-Sont assimilés aux vins et suivent leur régime les moûts concentrés de raisin
-liquides utilisés pour l'édulcoration des vins.
+II. 1° Dans les dispositions du présent code relatives aux contributions
+indirectes, sont compris sous la dénomination de produits ou boissons fermentés
+autres que le vin ou la bière, les produits relevant des codes NC 2204 à 2206 du
+tarif des douanes dont le titre alcoométrique acquis est supérieur à 1,2 % vol.
+et qui répondent aux conditions prévues aux b et c du 2° et au 3° de l'article
+438 ;
 
-Sont assimilés aux cidres et poirés et suivent leur régime fiscal les moûts
-concentrés liquides de pommes ou de poires fraîches utilisés pour l'édulcoration
-des cidres et poirés.
+2° Sont regardés comme produits ou boissons fermentés mousseux, les produits
+répondant à la définition du 1° et qui ont une surpression dépassant un seuil
+fixé par décret ou sont présentés dans des bouteilles fermées dans des
+conditions également fixées par décret.
