@@ -11,5 +11,5 @@ personnes morales qui exercent leur activité en France dans un ou plusieurs
 ou par personne interposée, possèdent un ou plusieurs immeubles situés en France
 ou sont titulaires de droits réels portant sur ces biens, au centre des impôts
 du lieu de situation de ces biens. Si l'application de cette règle conduit à une
-pluralité de lieux de dépôt, l'engagement est déposé au centre des impôts des
-non-résidents.
+pluralité de lieux de dépôt, l'engagement est déposé au centre-recette des
+impôts des entreprises étrangères.

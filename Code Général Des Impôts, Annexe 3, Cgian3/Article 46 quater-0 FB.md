@@ -3,10 +3,11 @@ Article 46 quater-0 FB
 L'engagement prévu au c du 2 de l'article 119 ter du code général des impôts
 doit faire l'objet d'une déclaration qui est adressée à la fois à
 l'établissement payeur en France des dividendes et à la direction des services
-généraux et de l'informatique (centre des impôts des non-résidents). Cette
-déclaration doit être souscrite par la personne morale bénéficiaire des
-dividendes avant la date de la première mise en paiement des dividendes suivant
-la date d'inscription en compte des titres de la société émettrice.
+généraux et de l'informatique (centre-recette des impôts des entreprises
+étrangères). Cette déclaration doit être souscrite par la personne morale
+bénéficiaire des dividendes avant la date de la première mise en paiement des
+dividendes suivant la date d'inscription en compte des titres de la société
+émettrice.
 
 Elle comprend les renseignements suivants :
 
