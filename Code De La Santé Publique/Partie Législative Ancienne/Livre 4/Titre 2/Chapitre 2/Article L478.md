@@ -9,6 +9,17 @@ l'infirmière exerce (infirmiers exerçant à titre libéral, infirmiers salari�
 secteur public, infirmiers salariés du secteur privé, infirmiers de secteur
 psychiatrique).
 
+Toutefois, l'infirmier ou infirmière n'ayant pas de résidence professionnelle
+peut être autorisé à remplacer un infirmier ou une infirmière.
+
+L'autorisation mentionnée à l'alinéa précédent est délivrée, pour une durée
+limitée, par le préfet du département de leur domicile. Elle est renouvelable
+dans les mêmes conditions.
+
+Les conditions d'application des deux alinéas précédents, et notamment les
+modalités de remplacement, la durée des autorisations et les conditions de leur
+prorogation sont fixées par décret pris après avis du Conseil d'Etat.
+
 En cas de transfert de la résidence professionnelle dans un autre département,
 l'infirmier ou l'infirmière doit demander le transfert de son inscription dans
 un délai de trois mois à compter du transfert de résidence, faute de quoi il est

@@ -12,11 +12,16 @@ technique d'établissement.
 
 Dans ce cas, le conseil d'administration nomme les responsables des structures
 médicales et médico-techniques ainsi créées après avis de la commission médicale
-d'établissement. Il prévoit, après consultation de la commission médicale
-d'établissement et du comité technique d'établissement, les modalités de
-participation et d'expression des personnels au fonctionnement de ces
-structures. La mise en place de celles-ci ne peut intervenir qu'à l'occasion des
-renouvellements des chefs de service en fonction à la date de promulgation de la
-loi n° 91-748 du 31 juillet 1991 portant réforme hospitalière [Dispositions
-déclarées inséparables de l'article L. 724-21 (alinéas 1 et 2) de la présente
-loi par décision du Conseil constitutionnel n° 91-297 DC du 29 juillet 1991.].
+d'établissement qui siège en formation restreinte aux praticiens titulaires. Il
+prévoit, après consultation de la commission médicale d'établissement et du
+comité technique d'établissement, les modalités de participation et d'expression
+des personnels au fonctionnement de ces structures. La mise en place de
+celles-ci ne peut intervenir qu'à l'occasion des renouvellements des chefs de
+service en fonction à la date de promulgation de la loi n° 91-748 du 31 juillet
+1991 portant réforme hospitalière [Dispositions déclarées inséparables de
+l'article L. 724-21 (alinéas 1 et 2) de la présente loi par décision du Conseil
+constitutionnel n° 91-297 DC du 29 juillet 1991.].
+
+Les dispositions du troisième alinéa ne font pas obstacle à l'application des
+dispositions relatives aux sanctions prises en cas de faute ou d'insuffisance
+professionnelle et aux décisions prises dans l'intérêt du service.

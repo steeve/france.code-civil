@@ -31,7 +31,7 @@ Lorsque la formation des intéressés porte sur des matières substantiellement
 différentes de celles qui figurent au programme du diplôme d'Etat français ou
 lorsqu'une ou plusieurs des activités professionnelles dont l'exercice est
 subordonné à la possession dudit diplôme ne sont pas réglementées dans l'Etat
-membre d'origine ou de provenance, ou ne sont pas réglementées d'une manière
+membre d'origine ou de provenance, ou sont réglementées d'une manière
 différente, le ministre chargé des affaires sociales peut exiger que les
 intéressés choisissent, soit de se soumettre à une épreuve d'aptitude, soit
 d'accomplir un stage d'adaptation dont la durée ne peut excéder trois ans.

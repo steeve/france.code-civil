@@ -1,8 +1,8 @@
 Article L714-17
 ----
 Dans chaque établissement public de santé, est institué un comité technique
-d'établissement présidé par le président du conseil d'administration ou, par
-délégation de celui-ci, par le directeur et composé de représentants du
+d'établissement présidé par le directeur, ou son représentant, membre du corps
+des personnels de direction de l'établissement et composé de représentants du
 personnel relevant du titre IV du statut général des fonctionnaires, élus par
 collèges définis en fonction des catégories mentionnées à l'article 4 de ce
 titre sur des listes présentées par les organisations syndicales représentatives
