@@ -5,15 +5,15 @@ les conditions d'admission de retrait ou d'exclusion des entreprises affiliées
 par convention à la société de groupe d'assurance.
 
 Ils doivent prévoir que l'admission ou l'exclusion d'une entreprise affiliée par
-convention fait l'objet d'une déclaration préalable auprès du ministre chargé de
-l'économie, accompagnée d'un dossier dont la composition est fixée par arrêté de
-celui-ci. Le ministre peut, dans un délai de trois mois à compter de la
-réception du dossier, s'opposer à l'opération, si celle-ci apparaît contraire
-aux intérêts des assurés des entreprises affiliées par convention, par une
-décision motivée prise après avis de la commission des entreprises d'assurances
-mentionnée à l'article L. 411-4 et adressée à la ou aux personnes intéressées
-par lettre recommandée avec accusé de réception. A défaut d'opposition du
-ministre, l'opération peut être réalisée à l'expiration de ce délai.
+convention fait l'objet d'une déclaration préalable auprès du comité des
+entreprises d'assurance, accompagnée d'un dossier dont la composition est fixée
+par arrêté du ministre chargé de l'économie. Le comité peut, dans un délai de
+trois mois à compter de la réception du dossier, s'opposer à l'opération, si
+celle-ci apparaît contraire aux intérêts des assurés des entreprises affiliées
+par convention, par une décision motivée prise et adressée à la ou aux personnes
+intéressées par lettre recommandée avec accusé de réception. A défaut
+d'opposition du comité, l'opération peut être réalisée à l'expiration de ce
+délai.
 
 2° Les statuts des sociétés de groupe d'assurance mutuelle doivent également :
 
@@ -50,5 +50,5 @@ le droit de demander la convocation de l'assemblée générale de ladite entrepr
 et de proposer lors de celle-ci l'élection de nouveaux candidats au poste
 d'administrateur.
 
-III. - Les dispositions du 4° de l'article R. 332-47 et de l'article R. 332-48
+III. - Les dispositions du 4° de l'article R. 322-47 et de l'article R. 322-48
 sont applicables aux statuts des sociétés de groupe d'assurance mutuelle.

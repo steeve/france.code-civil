@@ -11,5 +11,5 @@ justifié par l'application du principe de réciprocité, ou lorsque l'entrepris
 française, les a totalement liquidées. En outre, la restitution n'intervient
 qu'à l'expiration d'un délai de trois mois à compter de la date de publication
 au Journal officiel d'un avis permettant à tout créancier intéressé de présenter
-au ministre de l'économie et des finances ses observations sur la restitution
+au comité des entreprises d'assurance ses observations sur la restitution
 envisagée.

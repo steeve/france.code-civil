@@ -1,9 +1,8 @@
 Article R*321-1
 ----
-L'agrément administratif prévu par l'article L. 321-1 est accordé par le
-ministre de l'économie et des finances. Pour l'octroi de cet agrément, les
-opérations d'assurance sont classées en branches et sous-branches de la manière
-suivante :
+L'agrément administratif prévu par l'article L. 321-1 est accordé par le comité
+des entreprises d'assurance. Pour l'octroi de cet agrément, les opérations
+d'assurance sont classées en branches et sous-branches de la manière suivante :
 
 1. Accidents (y compris les accidents de travail et les maladies
 professionnelles) :
@@ -26,7 +25,7 @@ c) Combinaisons.
 
 3. Corps de véhicules terrestres (autres que ferroviaires) :
 
-Toute dommage subi par :
+Tout dommage subi par :
 
 a) Véhicules terrestres à moteur ;
 

@@ -1,17 +1,18 @@
 Article R322-111
 ----
 L'union est chargée, pour le compte et à la place de la société d'assurance
-mutuelle réassurée, de faire, au ministre de l'économie et des finances, les
+mutuelle réassurée, de faire, au comité des entreprises d'assurance, les
 différentes communications prescrites par l'article L. 310-8 et à la commission
-de contrôle des assurances celles qui sont prévues à l'article R. 310-6-1, de
-tenir à son siège les livres de comptabilité, registres ou fichiers prévus par
-le titre IV du présent livre, de mettre à la disposition des
-commissaires-contrôleurs tous les documents mentionnés à l'article R. 310-2 et
-de produire les comptes et les états dont la publication et le dépôt auprès de
-la commission de contrôle des assurances sont imposés par la réglementation en
-vigueur. L'union doit constituer et représenter dans les conditions fixées par
-le titre III du présent livre l'intégralité des dettes, réserves et provisions
-afférentes aux engagements souscrits par la société réassurée.
+de contrôle des assurances, des mutuelles et des institutions de prévoyance
+celles qui sont prévues à l'article R. 310-6-1, de tenir à son siège les livres
+de comptabilité, registres ou fichiers prévus par le titre IV du présent livre,
+de mettre à la disposition des commissaires-contrôleurs tous les documents
+mentionnés à l'article R. 310-2 et de produire les comptes et les états dont la
+publication et le dépôt auprès de la commission de contrôle des assurances, des
+mutuelles et des institutions de prévoyance sont imposés par la réglementation
+en vigueur. L'union doit constituer et représenter dans les conditions fixées
+par le titre III du présent livre l'intégralité des dettes, réserves et
+provisions afférentes aux engagements souscrits par la société réassurée.
 
 Toutes les écritures comptables afférentes aux engagements pris par la société
 réassurée doivent apparaître dans la comptabilité de l'union.

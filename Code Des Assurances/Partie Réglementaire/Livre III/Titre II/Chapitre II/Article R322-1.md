@@ -9,8 +9,8 @@ celles qui sont énoncées à l'article L. 322-2-3.
 Lorsque l'entreprise choisit de confier les sinistres de la branche de
 protection juridique à une entreprise juridiquement distincte, conformément aux
 dispositions du deuxième tiret du premier alinéa de l'article L. 322-2-3, elle
-doit adresser copie des statuts de cette entreprise au ministre chargé de
-l'économie et des finances.
+doit adresser copie des statuts de cette entreprise au comité des entreprises
+d'assurance.
 
 Si cette entreprise juridiquement distincte a des liens de la nature de ceux qui
 sont définis à l'article L. 310-15 avec une autre entreprise qui pratique

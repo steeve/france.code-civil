@@ -3,8 +3,8 @@ Article R353-1
 I. - Une entreprise d'assurance ne peut prendre sur le territoire de la
 République française des engagements en libre prestation de services dans les
 conditions définies à l'article L. 353-4 qu'à partir du moment où elle a reçu du
-ministre de l'économie et des finances un document attestant qu'il est en
-possession des documents suivants, que l'entreprise doit lui adresser :
+comité des entreprises d'assurance un document attestant qu'il est en possession
+des documents suivants, que l'entreprise doit lui adresser :
 
 1° Un certificat de solvabilité délivré par l'autorité de contrôle de l'Etat du
 siège social énumérant les branches que l'entreprise est habilitée à pratiquer
