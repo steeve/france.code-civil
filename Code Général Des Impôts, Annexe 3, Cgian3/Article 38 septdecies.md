@@ -13,7 +13,9 @@ A compter de l'imposition des revenus de 1989, elles sont également étendues a
 cotisations et aux arrérages versés dans le cadre du régime de retraite
 complémentaire institué par l'Union nationale des mutuelles retraite des
 instituteurs et des fonctionnaires de l'éducation nationale et de la fonction
-publique. Toutefois, les arrérages qui correspondent aux cotisations versées à
-ce régime avant le 1er janvier 1989 demeurent soumis au régime fiscal des rentes
-viagères constituées à titre onéreux défini au 6 de l'article 158 du code
-général des impôts.
+publique puis, à compter de son transfert, géré par l'Union mutualiste retraite.
+Toutefois, les arrérages qui correspondent aux cotisations versées au régime
+institué par l'Union nationale des mutuelles retraite des instituteurs et des
+fonctionnaires de l'éducation nationale et de la fonction publique avant le 1er
+janvier 1989 demeurent soumis au régime fiscal des rentes viagères constituées à
+titre onéreux défini au 6 de l'article 158 du code général des impôts.
