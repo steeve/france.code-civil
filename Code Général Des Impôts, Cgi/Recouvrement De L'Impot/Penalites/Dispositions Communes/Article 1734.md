@@ -5,7 +5,7 @@ celui au cours duquel l'impôt aurait dû être acquitté.
 
 2. Toutefois, en ce qui concerne les impôts sur les revenus et les taxes
 accessoires, autres que l'impôt sur les sociétés, la taxe d'apprentissage, la
-participation des employeurs au financement de la formation professionnelle
+participation des employeurs au développement de la formation professionnelle
 continue, les retenues opérées au titre de l'impôt sur le revenu et de la taxe
 sur les salaires, le point de départ du calcul des intérêts de retard prévus à
 l'article 1728 et à l'article L 62 du livre des procédures fiscales est le 1er
@@ -19,10 +19,9 @@ l'expiration du délai de déclaration.
 
 Toutefois, pour les impôts et taxes auxquels s'applique le 2, le calcul est
 arrêté, soit le dernier jour du mois suivant celui au cours duquel la base
-d'imposition a été notifiée au contribuable, soit, au cas de taxation ou
-rectification d'office ou d'échelonnement d'impositions supplémentaires, le
-dernier jour du mois suivant celui au cours duquel le rôle doit être mis en
-recouvrement.
+d'imposition a été notifiée au contribuable, soit, au cas de taxation d'office
+ou d'échelonnement d'impositions supplémentaires, le dernier jour du mois
+suivant celui au cours duquel le rôle doit être mis en recouvrement.
 
 4. Le taux des intérêts de retard est fixé, par mois, à 0,75 % du montant des
 droits correspondant à l'insuffisance, l'inexactitude ou l'omission relevée.
