@@ -21,8 +21,8 @@ retard, doit obligatoirement être laissé à la charge du débiteur.
 
 Toutefois, par dérogation à l'alinéa précédent, la commission de recours amiable
 ou le directeur de l'organisme de recouvrement, dans la limite de leur
-compétence respective, peuvent décider dans des cas exceptionnels, la remise
-partielle ou intégrale du minimum de majoration visé à l'alinéa précédent.
-Lorsque le montant de ladite remise excède 40 % du plafond mensuel de la
-sécurité sociale, la décision est soumise par l'organisme à l'approbation
-conjointe du trésorier-payeur général et du préfet de région.
+compétence respective, peuvent décider dans des cas exceptionnels ou de force
+majeure, la remise partielle ou intégrale du minimum de majoration visé à
+l'alinéa précédent. Lorsque le montant de ladite remise excède 40 % du plafond
+mensuel de la sécurité sociale, la décision est soumise par l'organisme à
+l'approbation conjointe du trésorier-payeur général et du préfet de région.
