@@ -5,7 +5,7 @@ Les dispositions de l'article 344-0 A s'appliquent :
 1° Aux déclarations de résultat mentionnées aux articles 172 et 223 du code
 général des impôts et aux déclarations et documents devant y être annexés ;
 
-2° A la déclaration de précompte prévue à l'article 46 quater-0 F ;
+2° (Abrogé) ;
 
 3° A la déclaration dont l'article 102 Z de l'annexe II du code général des
 impôts prévoit la production pour les entreprises ou personnes morales qui sont
