@@ -49,19 +49,19 @@ rémunération qu'elles versent à ces particuliers.
 III. - Les rémunérations des aides à domicile employées sous contrat à durée
 indéterminée ou sous contrat à durée déterminée pour remplacer les salariés
 absents ou dont le contrat de travail est suspendu dans les conditions visées à
-l'article L. 122-1-1 du code du travail par les associations admises, en
-application de l'article L. 129-1 du code du travail, à exercer des activités
-concernant la garde d'enfant ou l'assistance aux personnes âgées ou handicapées,
-les centres communaux et intercommunaux d'action sociale et les organismes
-habilités au titre de l'aide sociale ou ayant passé convention avec un organisme
-de sécurité sociale sont exonérées totalement des cotisations patronales
-d'assurances sociales, d'accidents du travail et d'allocations familiales pour
-la fraction versée en contrepartie de l'exécution des tâches effectuées chez les
-personnes visées au I ou bénéficiaires de prestations d'aide ménagère aux
-personnes âgées ou handicapées au titre de l'aide sociale légale ou dans le
-cadre d'une convention conclue entre ces associations ou organismes et un
-organisme de sécurité sociale, dans la limite, pour les personnes visées au a du
-I, du plafond prévu par ce a.
+l'article L. 122-1-1 du code du travail par les associations et les entreprises
+admises, en application de l'article L. 129-1 du code du travail, à exercer des
+activités concernant la garde d'enfant ou l'assistance aux personnes âgées ou
+handicapées, les centres communaux et intercommunaux d'action sociale et les
+organismes habilités au titre de l'aide sociale ou ayant passé convention avec
+un organisme de sécurité sociale sont exonérées totalement des cotisations
+patronales d'assurances sociales, d'accidents du travail et d'allocations
+familiales pour la fraction versée en contrepartie de l'exécution des tâches
+effectuées chez les personnes visées au I ou bénéficiaires de prestations d'aide
+ménagère aux personnes âgées ou handicapées au titre de l'aide sociale légale ou
+dans le cadre d'une convention conclue entre ces associations ou organismes et
+un organisme de sécurité sociale, dans la limite, pour les personnes visées au a
+du I, du plafond prévu par ce a.
 
 Un décret détermine les modalités d'application de l'exonération prévue par
 l'alinéa ci-dessus et notamment :
