@@ -1,12 +1,12 @@
 Article L351-15
 ----
-Toute action [*en justice*] ou poursuite intentée contre un employeur pour
-infraction aux dispositions du présent chapitre, du chapitre correspondant de la
-partie R et des décrets pris pour l'application desdits chapitres est
-obligatoirement précédée d'une mise en demeure par lettre recommandée avec avis
-de réception qui invite l'intéressé à régulariser sa situation dans les quinze
-jours [*délai*].
+Par dérogation aux dispositions des articles L. 351-1 et L. 351-16, le bénéfice
+des allocations [*d'assurance chômage*] prévues à l'article L. 351-3 peut être
+maintenu, sur leur demande, aux travailleurs étrangers involontairement privés
+d'emploi qui quittent la France pour s'installer dans leur pays d'origine.
 
-La mise en demeure ne peut concerner que les périodes d'emploi comprises dans
-les cinq ans qui précèdent la date de son envoi [*point de départ, délai de
-prescription*].
+Le versement du revenu de remplacement se fait alors en une fois, dans la limite
+maximum des droits constitués à la date du départ.
+
+Les mesures d'application du présent article sont prises selon la procédure
+définie à l'article L. 351-8.

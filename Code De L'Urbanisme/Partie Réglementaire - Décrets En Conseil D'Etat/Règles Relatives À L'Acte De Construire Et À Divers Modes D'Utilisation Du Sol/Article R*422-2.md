@@ -2,7 +2,9 @@ Article R*422-2
 ----
 Sont exemptés du permis de construire sur l'ensemble du territoire :
 
-a) Les travaux de ravalement ;
+a) Les travaux de ravalement, notamment en vue de l'isolement thermique des
+b^timents existants, dont le revêtement extérieur ne modifie pas notablement
+l'aspect de la construction.
 
 b) Les travaux à exécuter sur les édifices classés au titre de la législation
 sur les monuments historiques dans les conditions prévues par cette législation

@@ -1,12 +1,16 @@
 Article L351-21
 ----
-Les institutions visées à l'article L. 351-2 procèdent à la constitution, au
-bénéfice des travailleurs privés d'emploi, des dossiers d'admission aux
-prestations prévues aux articles L. 351-5 et L. 351-6 et ouvrent les droits
-auxdites prestations après vérification des conditions mentionnées à l'article
-L. 351-4 et L. 351-6. Les opérations de contrôle de la recherche d'emploi prévue
-aux articles L. 351-1 et L. 351-7 sont effectuées par des agents publics placés
-sous l'autorité du ministre chargé du travail.
+Les parties signataires de l'accord prévu à l'article L. 351-8 confient le
+service des allocations d'assurance et le recouvrement des contributions
+mentionnées à l'article L. 351-3 à un ou des organismes de droit privé de leur
+choix.
 
-Pour l'exercice de leur mission, ces agents ont accès aux renseignements détenus
-par les administrations sociales et fiscales.
+L'Etat peut également, par convention, confier à ces organismes ou à toute autre
+personne morale de droit privé, la gestion des allocations de solidarité
+mentionnées aux articles L. 351-9 et L. 351-10 ainsi que, en l'absence de
+l'accord agréé prévu par l'article L. 351-8, les missions définies à l'alinéa
+précédent.
+
+Les agents des services des impôts ainsi que ceux des organismes de sécurité
+sociale peuvent communiquer à ces organismes les renseignements nécessaires à
+l'assiette des cotisations et au calcul des prestations.
