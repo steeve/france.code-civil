@@ -1,17 +1,17 @@
 Article R133-2
 ----
-Lorsque des clauses salariales figurant dans des conventions collectives
-départementales intéressant les professions agricoles sont modifiées par voie
-d'avenants et que ceux-ci font l'objet d'une procédure d'extension ou
-d'élargissement, le commissaire de la République [*autorité compétente*] fait
-publier au recueil des actes administratifs de la préfecture un avis indiquant
-notamment où ces avenants ont été déposés en application de l'article R. 132-1.
-Les organisations et les personnes intéressées disposent d'un délai de quinze
-jours à compter de la publication de cet avis pour faire connaître leurs
-observations. L'avis indique le service auprès duquel les observations doivent
-être présentées.
+Les avenants [*portant sur les salaires*] visés à l'article L. 133-10 du présent
+code, dont l'extension est envisagée, sont transmis périodiquement aux membres
+de la sous-commission des conventions et accords de la commission nationale de
+la négociation collective. Ceux-ci disposent d'un délai de quinze jours à
+compter de la date d'envoi pour faire connaître s'ils en demandent l'examen par
+ladite sous-commission [*procédure d'examen accéléré*].
 
-Le cas échéant, le commissaire de la République fait publier au recueil des
-actes administratifs de la préfecture l'arrêté d'extension ou d'élargissement
-et, en cas d'extension, les dispositions de l'avenant ayant fait l'objet de
-l'arrêté.
+Sont soumis à l'examen de la sous-commission les avenants susvisés pour lesquels
+au moins une demande d'examen a été faite, ainsi que ceux pour lesquels des
+oppositions sont notifiées, sans demande d'examen, lorsque ces oppositions
+émanent soit de deux membres employeurs, soit de deux membres salariés.
+
+Les avenants susvisés qui n'ont pas à être soumis à l'examen de la
+sous-commission sont réputés avoir recueilli l'avis motivé favorable de la
+commission nationale de la négociation collective [*accord tacite*].
