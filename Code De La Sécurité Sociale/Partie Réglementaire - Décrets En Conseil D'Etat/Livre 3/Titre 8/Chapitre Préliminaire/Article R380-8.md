@@ -1,6 +1,6 @@
-Article R741-8
+Article R380-8
 ----
 A défaut de règlement dans le délai d'un mois à partir de la mise en demeure, le
-directeur de l'organisme chargé du recouvrement peut délivrer une contrainte
+directeur de l'organisme chargé du recouvrement peut décerner une contrainte
 dans les conditions fixées par l'article L. 244-9 et la section 2 du chapitre
-III du livre Ier.
+III du titre III du livre Ier.

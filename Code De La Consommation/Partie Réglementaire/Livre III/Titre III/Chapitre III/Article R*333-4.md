@@ -1,8 +1,8 @@
 Article R*333-4
 ----
 Les règles relatives aux remises que peuvent accorder les organismes de
-prévoyance ou de sécurité sociale sont fixées par les articles R. 243-20-3 et R.
-741-39, second alinéa, du code de la sécurité sociale, reproduits ci-après :
+prévoyance ou de sécurité sociale sont fixées par l' article R. 243-20-3 du code
+de la sécurité sociale, reproduit ci-après :
 
 "Art. R. 243-20-3 :
 
@@ -28,13 +28,3 @@ du recouvrement dans ce délai vaut rejet de la demande.
 "La remise des majorations de retard est acquise lorsque le plan conventionnel
 de règlement a reçu l'accord des parties ou lorsque le juge a arrêté les mesures
 visant à assurer le redressement."
-
-"Art. R. 741-39, second alinéa :
-
-"Pour l'application de l'article L. 333-1 du code de la consommation, le conseil
-d'administration ou la commission de recours amiable des caisses de mutualité
-sociale agricole peuvent accorder, selon les modalités prévues à l'article R.
-243-20-3, une remise partielle ou totale des majorations de retard afférentes
-aux cotisations échues non réglées dues par les personnes affiliées à
-l'assurance personnelle qui supportent personnellement la charge de ces
-cotisations".
