@@ -5,7 +5,7 @@ d'attribution*] s'il en résulte une modification à l'état antérieur des lieu
 déterminant un dommage [*caractères*] direct, matériel et actuel. A défaut
 d'accord amiable, cette indemnité est fixée par le tribunal administratif.
 
-La demande d'indemnité doit, à peine de forclusion, parvenir au ministre chargé
-de l'exécution des travaux dans le délai d'un an [*computation*] à compter de la
-notification aux intéressés des dispositions qui leur sont imposées
-[*formalités*].
+La demande d'indemnité doit, à peine de forclusion, parvenir à la personne
+chargée de l'exécution des travaux dans le délai d'un an [*computation*] à
+compter de la notification aux intéressés des dispositions qui leur sont
+imposées [*formalités*].

@@ -1,20 +1,22 @@
 Article L33-3
 ----
-Sous réserve de la conformité des installations radioélectriques et, le cas
-échéant, des équipements terminaux aux dispositions de l'article L. 34-9,
-peuvent être établis librement :
+Sous réserve de leur conformité aux dispositions du présent code, sont établis
+librement :
 
 1° Les réseaux internes ;
 
-2° Les réseaux indépendants, autres que radioélectriques, dont les points de
-terminaison sont distants de moins de 300 mètres et dont les liaisons ont une
-capacité inférieure à un seuil fixé par arrêté du ministre chargé des
+2° Les cabines téléphoniques en dehors de la voie publique ;
+
+3° Les réseaux indépendants de proximité, autres que radioélectriques, d'une
+longueur inférieure à un seuil fixé par le ministre chargé des
 télécommunications ;
 
-3° Les installations radioélectriques exclusivement composées d'appareils de
-faible puissance et de faible portée, dont les catégories sont déterminées par
-arrêté conjoint des ministres chargés de la défense, de l'intérieur et des
-télécommunications.
+4° Les installations radioélectriques de faible puissance et de faible portée
+dont les catégories sont déterminées conjointement par les ministres chargés des
+télécommunications, de la défense et de l'intérieur ;
 
-Le ministre chargé des télécommunications détermine les conditions techniques
-d'exploitation des réseaux et installations visés aux 2° et 3° ci-dessus.
+5° Les installations radioélectriques n'utilisant pas des fréquences
+spécifiquement assignées à leur utilisateur.
+
+Les conditions d'utilisation des installations radioélectriques mentionnées
+ci-dessus sont déterminées dans les conditions prévues à l'article L. 36-6.

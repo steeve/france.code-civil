@@ -1,6 +1,6 @@
 Article L89
 ----
-Sauf dans les cas visés au 3° de l'article L. 33-3, l'utilisation de fréquences
+Sauf dans les cas mentionnés à l'article L. 33-3, l'utilisation de fréquences
 radioélectriques en vue d'assurer soit l'émission, soit à la fois l'émission et
 la réception de signaux est soumise à autorisation administrative.
 
