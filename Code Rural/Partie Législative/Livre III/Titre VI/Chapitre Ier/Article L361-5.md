@@ -18,7 +18,7 @@ a) 10 % en ce qui concerne les conventions d'assurance contre l'incendie ;
 
 b) 5 % en ce qui concerne les autres conventions d'assurance.
 
-Pour 1999, le taux prévu au a est fixé à 15 % et le taux prévu au b est fixé à 7
+Pour 2000, le taux prévu au a est fixé à 15 % et le taux prévu au b est fixé à 7
 % à l'exception des conventions couvrant les dommages aux cultures et la
 mortalité du bétail, dont le taux reste fixé à 5 %.
 
@@ -42,7 +42,7 @@ les risques nautiques desdites exploitations.
 égal au produit des contributions mentionnées aux 1° et 2° ci-dessus.
 
 A titre exceptionnel, à compter du 1er juillet 1987 et jusqu'au 31 décembre
-1999, il est établi au profit du fonds de garantie des calamités agricoles une
+2000, il est établi au profit du fonds de garantie des calamités agricoles une
 contribution additionnelle complémentaire de 7 % sur toutes les primes ou
 cotisations afférentes aux conventions d'assurance couvrant les risques de
 responsabilité civile et de dommages relatifs aux véhicules utilitaires affectés

@@ -65,7 +65,7 @@ Ces dispositions ne sont pas applicables aux emprunts dont le remboursement est
 à la seule initiative de l'emprunteur.
 
 Un décret fixe les conditions d'application de ces dispositions, notamment en ce
-qui concerne les modalités d'option et les obligation déclaratives.
+qui concerne les modalités d'option et les obligations déclaratives.
 
 2° Sauf s'ils sont pratiqués par une copropriété de navires, une copropriété de
 cheval de course ou d'étalon, les amortissements réellement effectués par
@@ -82,9 +82,9 @@ des biens;
 3° Les intérêts servis aux associés à raison des sommes qu'ils laissent ou
 mettent à la disposition de la société, en sus de leur part du capital, quelle
 que soit la forme de la société, dans la limite de ceux calculés à un taux égal
-à la moyenne annuelle ((des taux effectifs moyens pratiqués par les
-établissements de crédit pour des prêts à taux variable aux entreprises, d'une
-durée initiale supérieure à deux ans)) (M) (1).
+à la moyenne annuelle des taux effectifs moyens pratiqués par les établissements
+de crédit pour des prêts à taux variable aux entreprises, d'une durée initiale
+supérieure à deux ans (1).
 
 Cette déduction est subordonnée à la condition que le capital ait été
 entièrement libéré.
@@ -108,17 +108,17 @@ dispositions sont applicables aux intérêts afférents aux ressources emprunté
 compter du 1er janvier 1986. Elles cessent de s'appliquer pour la détermination
 des résultats imposables des exercices ouverts à compter du 1er janvier 1988.
 
-Les conditions d'application de l'alinéa précédent , notamment les obligations
+Les conditions d'application de l'alinéa précédent, notamment les obligations
 déclaratives des sociétés mentionnées, sont fixées par décret ;
 
 3° bis (Abrogé) ;
 
 4° Sous réserve des dispositions de l'article 153, les impôts à la charge de
 l'entreprise, mis en recouvrement au cours de l'exercice, à l'exception des
-taxes prévues aux articles 235 ter Y, 238 quater, 239 bis B et 990 G ((et, pour
+taxes prévues aux articles 235 ter Y, 238 quater, 239 bis B et 990 G et, pour
 les rappels de taxe sur la valeur ajoutée afférents à des opérations au titre
 desquelles la taxe due peut être totalement ou partiellement déduite par le
-redevable lui-même, du montant de la taxe déductible)) ( M) (2).
+redevable lui-même, du montant de la taxe déductible (2).
 
 Si des dégrèvements sont ultérieurement accordés sur ces impôts, leur montant
 entre dans les recettes de l'exercice au cours duquel l'exploitant est avisé de
@@ -358,9 +358,9 @@ l'intérêt direct de l'exploitation ;
 
 2. Les transactions, amendes, confiscations, pénalités de toute nature mises à
 la charge des contrevenants aux dispositions légales régissant les prix, le
-ravitaillement, la répartition des divers produits et l'assiette des impôts,
-contributions et taxes, ne sont pas admises en déduction des bénéfices soumis à
-l'impôt.
+ravitaillement, la répartition des divers produits, l'assiette et le
+recouvrement des impôts, contributions et taxes, ne sont pas admises en
+déduction des bénéfices soumis à l'impôt.
 
 2 bis. Pour les contrats conclus au cours d'exercices ouverts à compter de
 l'entrée en vigueur de la Convention sur la lutte contre la corruption d'agents
@@ -529,8 +529,6 @@ premier et deuxième alinéas sont admises en déduction du résultat imposable.
 Lorsque le contrat de crédit-bail est cédé, les quotes-parts de loyers non
 déductibles sont considérées comme un élément du prix de revient du contrat pour
 le calcul de la plus-value dans les conditions de l'article 39 duodecies A.
-
-(M) Modification.
 
 (1) Cette disposition s'applique aux exercices ouverts à compter du 1er janvier
 1999.

@@ -38,3 +38,12 @@ l'organisme gestionnaire du fonds ou du compte unique avant le 1er septembre
 1996. Le contrôle, le recouvrement, le contentieux, les garanties et sanctions
 relatifs à cette contribution sont régis par les règles applicables en matière
 de taxe sur les salaires.
+
+Ce même fonds national est habilité à gérer les excédents financiers dont
+disposent les organismes collecteurs paritaires agréés gérant les contributions
+des employeurs affectées au financement du capital de temps de formation prévues
+par l'article 78 de la loi n° 95-116 du 4 février 1995 portant diverses
+dispositions d'ordre social et repris par le 1° de l'article L. 951-1 du présent
+code. Ces excédents sont appréciés, pour la première année, au 31 décembre 1999,
+et peuvent exceptionnellement concourir aux actions de l'Etat en matière de
+formation professionnelle.

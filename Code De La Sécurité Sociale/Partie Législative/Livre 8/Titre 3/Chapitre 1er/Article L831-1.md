@@ -20,3 +20,8 @@ au titre d'une autre réglementation, d'une indemnité ou allocation répondant 
 même objet et qui est d'un montant égal ou supérieur à la première de ces
 prestations . Lorsque cette indemnité ou allocation est d'un montant inférieur à
 l'allocation de logement, celle-ci est réduite à due concurrence.
+
+L'allocation de logement n'est pas due aux personnes qui sont locataires d'un
+logement appartenant à l'un de leurs ascendants ou descendants, ou ceux de leur
+conjoint ou concubin ou de toute personne liée à elles par un contrat conclu en
+application de l'article 515-1 du code civil.

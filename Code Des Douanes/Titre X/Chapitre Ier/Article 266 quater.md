@@ -5,7 +5,7 @@ Guyane, de la Martinique et de la Réunion, une taxe spéciale de consommation s
 les produits désignés ci-après :
 
 
-Numéro du tarif douanier
+Numéros du tarif des douanes
 
 Désignation des produits
 
@@ -33,8 +33,17 @@ Gazole présentant un point d'éclair inférieur à 120 °C
 
 Hectolitre
 
-2. Le taux de cette taxe est fixé par arrêté du préfet sur proposition du
-conseil général. Ce taux ne peut excéder :
+38 24 90
+
+Emulsion d'eau dans du gazole stabilisée par des agents tensio-actifs, dont la
+teneur en eau est égale ou supérieure à 7 % en volume sans dépasser 20 % en
+volume : autre, destinée à être utilisée comme carburant
+
+
+Hectolitre
+
+2. Le taux de cette taxe est fixé par le Conseil régional. Ce taux ne peut
+excéder :
 
 a) pour les essences et les supercarburants, le taux de la taxe intérieure de
 consommation visée au tableau B annexé au 1 de l'article 265 ci-dessus
@@ -44,7 +53,7 @@ b) pour le gazole, le taux de la taxe intérieure de consommation applicable à 
 même produit.
 
 2 bis. Les produits visés au 1 ci-dessus peuvent être admis en exonération
-totale ou partielle de la taxe par le conseil régional aux conditions qu'il
+totale ou partielle de la taxe par le Conseil régional aux conditions qu'il
 fixe.
 
 3. En cas de relèvement des taux de la taxe spéciale dans les conditions prévues

@@ -27,9 +27,9 @@ Ces opérations sont imposables même lorsqu'elles revêtent un caractère civil
 1. Sont notamment visés :
 
 a) Les ventes et les apports en société de terrains à bâtir, des biens assimilés
-à ces terrains par ((le A de l'article 1594-0 G)) (M) ainsi que les indemnités
-de toute nature perçues par les personnes qui exercent sur ces immeubles un
-droit de propriété ou de jouissance, ou qui les occupent en droit ou en fait ;
+à ces terrains par le A de l'article 1594-0 G ainsi que les indemnités de toute
+nature perçues par les personnes qui exercent sur ces immeubles un droit de
+propriété ou de jouissance, ou qui les occupent en droit ou en fait ;
 
 Sont notamment visés par le premier alinéa, les terrains pour lesquels, dans un
 délai de quatre ans à compter de la date de l'acte qui constate l'opération,
@@ -37,16 +37,16 @@ l'acquéreur ou le bénéficiaire de l'apport obtient le permis de construire ou
 commence les travaux nécessaires pour édifier un immeuble ou un groupe
 d'immeubles ou pour construire de nouveaux locaux en surélévation.
 
-((Ces dispositions ne sont pas applicables aux terrains acquis par des personnes
+Ces dispositions ne sont pas applicables aux terrains acquis par des personnes
 physiques en vue de la construction d'immeubles que ces personnes affectent à un
 usage d'habitation.
 
-((Toutefois, lorsque le cédant est une collectivité territoriale ou un
-groupement de collectivités territoriales, il peut, sur option, soumettre la
-cession à la taxe sur la valeur ajoutée)) (M) (2).
+Toutefois, lorsque le cédant est une collectivité territoriale ou un groupement
+de collectivités territoriales, il peut, sur option, soumettre la cession à la
+taxe sur la valeur ajoutée (2).
 
-((Un décret en Conseil d'Etat détermine les modalités d'application des
-troisième et quatrième alinéas)) (M) ;
+Un décret en Conseil d'Etat détermine les modalités d'application des troisième
+et quatrième alinéas ;
 
 b) Les ventes d'immeubles et les cessions, sous forme de vente ou d'apport en
 société, de parts d'intérêt ou d'actions dont la possession assure en droit ou
@@ -65,12 +65,12 @@ lorsqu'il s'agit :
 droit ou en fait l'attribution en propriété ou en jouissance d'un immeuble ou
 d'une fraction d'immeuble ;
 
-- de logements sociaux à usage locatif mentionnés ((aux 3° et 5°)) (M) de
-l'article L. 351-2 du code de la construction et de l'habitation financés au
-moyen d'un prêt prévu à l'article R. 331-1 du même code qui bénéficient de la
-décision favorable prise dans les conditions prévues aux articles R. 331-3 et R.
-331-6 du même code à compter du 1er octobre 1996, et dont l'ouverture de
-chantier est intervenue à compter de cette date.
+- de logements sociaux à usage locatif mentionnés aux 3° et 5° de l'article L.
+351-2 du code de la construction et de l'habitation financés au moyen d'un prêt
+prévu à l'article R. 331-1 du même code qui bénéficient de la décision favorable
+prise dans les conditions prévues aux articles R. 331-3 et R. 331-6 du même code
+à compter du 1er octobre 1996, et dont l'ouverture de chantier est intervenue à
+compter de cette date.
 
 2. Les dispositions qui précèdent ne sont pas applicables :
 
@@ -90,28 +90,26 @@ commune à une communauté de communes, en application du premier alinéa de
 l'article L. 5214-18 du code général des collectivités territoriales, n'est pas
 pris en compte pour l'application du 2.
 
-3. Abrogé (M) ;
+3. Abrogé ;
 
 7° bis Sous réserve de l'application du 7°, et dans la mesure où ces travaux
-portent sur des logements sociaux à usage locatif mentionnés ((aux 2°, 3° et
-5°)) (M) de l'article L. 351-2 du code de la construction et de l'habitation,
-les livraisons à soi-même :
+portent sur des logements sociaux à usage locatif mentionnés aux 2°, 3° et 5° de
+l'article L. 351-2 du code de la construction et de l'habitation, les livraisons
+à soi-même :
 
-a) De travaux d'amélioration mentionnés à l'article R. 323-3 du code de la
-construction et de l'habitation, qui bénéficient de la subvention prévue aux
-articles R. 323-1 à R. 323-12 dudit code, et qui ont fait l'objet de la décision
-favorable du représentant de l'Etat dans le département prévue à l'article R.
-323-5 du même code prise à compter du 1er janvier 1998 ;
+a. De travaux d'amélioration mentionnés à l'article R. 323-3 du code de la
+construction et de l'habitation qui bénéficient de la subvention prévue aux
+articles R. 323-1 à R. 323-12 dudit code, et qui sont réalisés à compter du 1er
+janvier 1998 ;
 
-b) De travaux d'amélioration, de transformation ou d'aménagement mentionnés à
-l'article R. 331-1 du code de la construction et de l'habitation, qui
-bénéficient d'un prêt prévu audit article, et qui ont fait l'objet de la
-décision favorable du représentant de l'Etat dans le département prévue aux
-articles R. 331-3 et R. 331-6 du même code prise à compter du 1er janvier 1998 ;
+b. De travaux d'amélioration, de transformation ou d'aménagement, notamment
+lorsqu'ils bénéficient d'un prêt mentionné à l'article R. 331-1 du code de la
+construction et de l'habitation, et qui sont réalisés à compter du 1er janvier
+1998 ;
 
-c) De travaux d'amélioration, de transformation ou d'aménagement autres que ceux
-mentionnés aux a et b, ayant fait l'objet d'une décision favorable du
-représentant de l'Etat dans le département prise à compter du 1er janvier 1998.
+c. De travaux d'entretien, autres que l'entretien des espaces verts et les
+travaux de nettoyage, pour lesquels le fait générateur est intervenu à compter
+du 15 septembre 1999 et qui sont réalisés avant le 31 décembre 2002.
 
 Un décret en Conseil d'Etat définit les conditions d'application des b et c ;
 
@@ -209,8 +207,6 @@ course réalisés par les entraîneurs pour les chevaux dont ils sont
 propriétaires.
 
 (1) Voir Annexe II, art. 243 à 259.
-
-(M) Modification.
 
 (2) Ces dispositions s'appliquent aux ventes ayant acquis date certaine à
 compter du 22 octobre 1998.

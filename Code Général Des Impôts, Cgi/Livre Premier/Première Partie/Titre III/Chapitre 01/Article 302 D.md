@@ -1,15 +1,85 @@
 Article 302 D
 ----
-I. L'impôt est exigible :
+I. - 1. L'impôt est exigible :
 
-a) Lors de la mise à la consommation en France métropolitaine. Le produit est
-mis à la consommation soit lorsqu'il cesse de bénéficier du régime suspensif,
-soit lorsqu'il est importé. L'importation s'entend de l'entrée en France en
-provenance de pays ou territoires non compris dans le territoire communautaire
-ou de la sortie d'un régime douanier suspensif ; l'impôt est dû par la personne
-qui met à la consommation ;
+1° Lors de la mise à la consommation. Le produit est mis à la consommation :
 
-b) Lors de la constatation de manquants.
+a. Lorsqu'il cesse de bénéficier du régime suspensif des droits d'accises prévu
+au II de l'article 302 G ou de l'entrepôt mentionné au 8° de l'article 570 ;
+
+b. Lorsqu'il est importé, à l'exclusion des cas où il est placé, au moment de
+l'importation, sous un régime suspensif des droits d'accises mentionné au a.
+
+Est considérée comme une importation :
+
+- l'entrée en France d'un produit originaire ou en provenance d'un Etat ou d'un
+territoire n'appartenant pas à la Communauté européenne et qui n'a pas été mis
+en libre pratique ou d'un produit en provenance d'un territoire d'un autre Etat
+membre exclu du territoire de la Communauté européenne tel que défini au II de
+l'article 302 C ;
+
+- pour un bien placé lors de son entrée sur le territoire sous l'un des régimes
+suivants prévus par les règlements communautaires en vigueur : magasins et aires
+de dépôt temporaire, zone franche, entrepôt franc, entrepôt d'importation,
+perfectionnement actif, admission temporaire en exonération totale des droits,
+transit communautaire externe ou interne, la sortie de ce régime en France ;
+
+2° Lors de la constatation des manquants, sauf si ces manquants correspondent à
+des déchets ou des pertes obtenus, dans la limite d'un taux annuel de déchets ou
+de pertes, en cours de fabrication ou de transformation d'alcools et de boissons
+alcooliques ou à des pertes, dans la limite d'un taux annuel forfaitaire, en
+cours de stockage d'alcools et de boissons alcooliques. Le taux annuel de
+déchets ou de pertes est fixé pour chaque entrepôt suspensif des droits
+d'accises par l'administration, sur proposition de l'entrepositaire agréé. Un
+décret détermine les modalités d'application des présentes dispositions et fixe
+le taux annuel forfaitaire pour les pertes en cours de stockage.
+
+Chez les entrepositaires agréés qui détiennent des alcools et des boissons
+alcooliques appartenant à des catégories différemment imposées, les manquants
+imposables sont soumis au tarif le plus élevé de la catégorie concernée ;
+
+3° Dans les cas d'utilisation de capsules, empreintes, vignettes ou autres
+marques fiscales représentatives des droits indirects, lors de l'apposition
+desdites capsules, empreintes, vignettes ou autres marques fiscales sur les
+récipients ;
+
+4° Sans que cela fasse obstacle aux dispositions du 9° de l'article 458 et des
+articles 575 G et 575 H, lors de la constatation de la détention, en France,
+d'alcools, de boissons alcooliques et de tabacs manufacturés à des fins
+commerciales pour lesquels le détenteur ne peut prouver, par la production d'un
+document d'accompagnement, d'une facture ou d'un ticket de caisse, selon le cas,
+qu'ils circulent en régime suspensif de l'impôt ou que l'impôt a été acquitté en
+France ou y a été garanti conformément à l'article 302 U.
+
+Pour établir que ces produits sont détenus en France à des fins commerciales,
+l'administration tient compte des éléments suivants :
+
+a. L'activité professionnelle du détenteur des produits ;
+
+b. Le lieu où ces produits se trouvent, le mode de transport utilisé ou les
+documents relatifs à ces produits ;
+
+c. La nature de ces produits ;
+
+d. Les quantités de ces produits, notamment lorsque celles-ci sont supérieures
+aux seuils indicatifs fixés par l'article 9, point 2, de la directive 92/12/CEE
+du Conseil, du 25 février 1992, relative au régime général, à la détention, à la
+circulation et aux contrôles des produits soumis à accises.
+
+2. L'impôt est dû :
+
+1° Dans les cas visés aux a et b du 1° du 1, par la personne qui met à la
+consommation ;
+
+2° Dans le cas de manquants, par la personne chez laquelle les manquants sont
+constatés ;
+
+3° Dans le cas visé au 3° du 1, par la personne qui appose les capsules,
+empreintes, vignettes ou autres marques fiscales représentatives des droits
+indirects sur les récipients ;
+
+4° Dans le cas mentionné au 4° du 1, par la personne qui détient ces produits à
+des fins commerciales en France.
 
 II. L'impôt est également exigible, pour les produits déjà mis à la consommation
 dans un autre Etat de la Communauté européenne :
@@ -26,6 +96,13 @@ France par le vendeur ou pour son compte ; l'impôt est dû, par le représentan
 fiscal du vendeur mentionné au II de l'article 302 V ci-après, lors de la
 réception des produits ;
 
-c) Lorsque les produits sont détenus en France à des fins commerciales alors
-qu'ils n'ont pas supporté l'impôt en France ; l'impôt est dû par le détenteur
-des produits.
+III. - 1. L'impôt est liquidé mensuellement, au plus tard le cinquième jour de
+chaque mois, sur la base d'une déclaration des quantités de produits mis à la
+consommation au cours du mois précédent transmise à l'administration.
+
+2. L'impôt est acquitté auprès de l'administration soit à la date de la
+liquidation, soit dans le délai d'un mois à compter de cette date, une caution
+garantissant le paiement de l'impôt dû est exigée dans l'un et l'autre cas.
+
+3. Un arrêté du ministre chargé du budget fixe le modèle et le contenu de la
+déclaration mentionnée au 1.

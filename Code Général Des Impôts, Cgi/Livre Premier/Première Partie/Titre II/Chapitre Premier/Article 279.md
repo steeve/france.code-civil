@@ -65,9 +65,9 @@ b bis a - 1° le prix du billet d'entrée donnant exclusivement accès à des
 concerts donnés dans des établissements où il est servi facultativement des
 consommations pendant le spectacle ;
 
-2° les dispositions du 1° s'appliquent aux ((établissements dont l'exploitant
-est titulaire de la licence de la catégorie mentionnée au 1° de l'article 1er-1
-de l'ordonnance n° 45-2339 du 13 octobre 1945)) (M) relative aux spectacles qui
+2° les dispositions du 1° s'appliquent aux établissements dont l'exploitant est
+titulaire de la licence de la catégorie mentionnée au 1° de l'article 1er-1 de
+l'ordonnance n° 45-2339 du 13 octobre 1945 relative aux spectacles qui
 justifient avoir organisé au minimum vingt concerts l'année précédente ;
 
 3° un décret fixe les modalités d'application des 1° et 2° ;
@@ -111,8 +111,8 @@ manifestations organisées, l'exploitant doit faire apparaître dans sa
 comptabilité une ventilation des recettes correspondant à chaque taux. La
 détermination de l'assiette de l'impôt s'effectue sur une base réelle ;
 
-((b decies - Les abonnements relatifs aux livraisons d'électricité et de gaz
-combustible, distribués par réseaux publics)) (M) ;
+b decies - Les abonnements relatifs aux livraisons d'électricité et de gaz
+combustible, distribués par réseaux publics ;
 
 c, d, e (Abrogé) (à compter du 1er janvier 1993) ;
 
@@ -127,12 +127,13 @@ sur les oeuvres cinématographiques et sur les livres.
 Cette disposition n'est pas applicable aux cessions de droits portant sur des
 oeuvres d'architecture et des logiciels.
 
-((h. Les prestations de collecte, de tri et de traitement des déchets visés aux
+h. Les prestations de collecte, de tri et de traitement des déchets visés aux
 articles L. 2224-13 et L. 2224-14 du code général des collectivités
 territoriales, portant sur des matériaux ayant fait l'objet d'un contrat conclu
 entre une commune ou un établissement public de coopération intercommunale et un
 organisme ou une entreprise agréé au titre de la loi n° 75-633 du 15 juillet
-1975 relative à l'élimination des déchets et à la récupération des matériaux))
-(M).
+1975 relative à l'élimination des déchets et à la récupération des matériaux.
 
-(M) Modification.
+i. Jusqu'au 31 décembre 2002, les prestations de services fournies par des
+entreprises agréées en application du II de l'article L. 129-1 du code du
+travail.

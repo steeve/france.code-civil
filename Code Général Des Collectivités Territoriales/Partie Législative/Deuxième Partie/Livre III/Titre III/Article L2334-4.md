@@ -75,3 +75,12 @@ des dispositions de l'article 11 de la loi n° 80-10 du 10 janvier 1980 portant
 aménagement de la fiscalité directe locale, les bases retenues pour déterminer
 leur potentiel fiscal tiennent compte de la correction de potentiel fiscal
 appliquée la dernière année précédant l'institution de ce régime.
+
+Lorsque, à compter de 1999, l'institution du régime fiscal prévu à l'article
+1609 quinquies C du code général des impôts entraîne, pour des communes membres
+de l'établissement public de coopération intercommunale faisant application de
+ce régime, la cessation de l'application des dispositions de l'article 11 de la
+loi n° 80-10 du 10 janvier 1980 portant aménagement de la fiscalité directe
+locale, les bases retenues pour déterminer leur potentiel fiscal tiennent compte
+de la correction de potentiel fiscal appliquée la dernière année précédant
+l'institution de ce régime.

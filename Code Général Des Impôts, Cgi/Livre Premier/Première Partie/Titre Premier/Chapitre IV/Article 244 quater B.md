@@ -53,20 +53,15 @@ mentionnées au b.
 
 Ce pourcentage est fixé à :
 
-1° 65 p. 100 des dépenses de personnel qui se rapportent aux chercheurs et
-techniciens de recherche qui exercent tout ou partie de leur activité dans la
-région d'Ile-de-France ;
+1° (abrogé).
 
-2° 100 p. 100 des dépenses de personnel qui se rapportent aux chercheurs et
-techniciens de recherche affectés exclusivement dans les territoires ruraux de
-développement prioritaire et dans les zones d'aménagement du territoire
-mentionnés à la dernière phrase du premier alinéa de l'article 1465.
+2° (abrogé).
 
-((3° 100 p. 100 des dépenses de personnel qui se rapportent aux personnes
+3° 100 p. 100 des dépenses de personnel qui se rapportent aux personnes
 titulaires d'un doctorat ou d'un diplôme équivalent pendant les douze premiers
 mois suivant leur recrutement à la condition que le contrat de travail de ces
 personnes soit à durée indéterminée et que l'effectif salarié de l'entreprise ne
-soit pas inférieur à celui de l'année précédente)) (M) (1).
+soit pas inférieur à celui de l'année précédente.
 
 d. Les dépenses exposées pour la réalisation d'opérations de même nature
 confiées à des organismes de recherche publics ou à des universités ;
@@ -161,8 +156,3 @@ V. (Périmé).
 VI. Un décret fixe les conditions d'application du présent article. Il en adapte
 les dispositions aux cas d'exercice de durée inégale ou ne coïncidant pas avec
 l'année civile.
-
-(M) Modification.
-
-(1) Cette modification s'applique pour la détermination du crédit d'impôt
-calculé sur les dépenses de recherche exposées à compter du 1er janvier 1999.
