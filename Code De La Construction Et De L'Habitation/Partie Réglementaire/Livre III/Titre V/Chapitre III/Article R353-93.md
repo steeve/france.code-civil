@@ -1,5 +1,5 @@
 Article R353-93
 ----
-Les bailleurs signataires des conventions régies par la présente section
-apportent au fonds national de l'habitation la contribution financière prévue à
-l'article L. 351-7.
+Lors de leur mise en service et au fur et à mesure de leur vacance, les
+logements sont loués à des personnes dont les ressources annuelles n'excèdent
+pas le plafond déterminé dans les conditions prévues par l'article R. 331-12.

@@ -1,9 +1,22 @@
 Article R353-96
 ----
-Les logements conventionnés sont loués nus à des personnes physiques, à titre de
-résidence principale et occupés au moins huit mois [*durée*] par an. Ils ne
-peuvent faire l'objet de sous-location sauf au profit de personnes ayant passé
-avec le locataire un contrat conforme à l'article 6 de la loi n° 89-475 du 10
-juillet 1989 relative à l'accueil par des particuliers à leur domicile, à titre
-onéreux, de personnes agées ou handicapées et doivent répondre aux conditions
-d'occupation suffisante telles que définies par l'article L. 621-2.
+En application des dispositions de l'article L. 353-7 à la date d'entrée en
+vigueur de la convention, le bailleur propose au locataire ou occupant de bonne
+foi dans les lieux un projet de bail auquel sont annexés une copie de ladite
+convention ainsi que des éléments du barème de l'aide personnalisée au logement.
+
+Le locataire dispose d'un délai de six mois pour accepter ce projet de bail qui
+reproduit en caractères très apparents le texte intégral de l'article L. 353-7
+précité et qui fait l'objet d'une notification aux intéressés dans les
+conditions fixées par les conventions. S'il refuse, et sous réserve des
+dispositions de la loi n° 67-561 du 12 juillet 1967, il n'est rien changé aux
+stipulations du bail en cours. Dans ce cas, le locataire n'a pas droit à l'aide
+personnalisée au logement et le propriétaire peut demander une révision de ses
+engagements conventionnels ou le report de leurs effets jusqu'à l'expiration du
+bail.
+
+Pour les logements mentionnés à l'article R. 353-90 (1°), le bail prend effet à
+compter de la date d'acceptation par le locataire.
+
+Pour les autres logements faisant l'objet de travaux d'amélioration, le bail
+prend effet à la date d'achèvement des travaux.

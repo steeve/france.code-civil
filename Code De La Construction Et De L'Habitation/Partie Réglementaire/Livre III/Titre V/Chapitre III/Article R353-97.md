@@ -1,11 +1,15 @@
 Article R353-97
 ----
-Au moins quinze jours avant la date de signature du bail, en cas de vacance du
-logement, le bailleur adresse au candidat locataire une lettre portant
-réservation du logement pendant un délai minimum de quinze jours. Dans le cas où
-le logement est disponible à plus brève échéance, ce délai peut être ramené à
-huit jours francs.
+Pour les logements mentionnés au dernier alinéa de l'article R. 353-95 dont la
+construction a été financée dans les conditions prévues par le titre Ier du
+présent livre et par l'article 269 du code de l'urbanisme et de l'habitation
+dans le cas où ces logements font l'objet de travaux justifiés par des
+considérations de sécurité, de salubrité ou de mise aux normes minimales
+d'habitabilité, complétés ou non par des travaux d'amélioration de la qualité,
+le bailleur présente aux locataires concernés un projet de bail conforme aux
+dispositions prévues à l'alinéa dudit article et entrant en vigueur après
+l'achèvement des travaux.
 
-Le bailleur est tenu [*obligation*] de proposer un bail [*contenu*] conforme à
-la convention, auquel sont annexés une copie de ladite convention ainsi que les
-éléments du barème de l'aide personnalisée au logement.
+Ce projet de bail reproduit en caractères très apparents le texte intégral de
+l'article L. 353-8 et fait l'objet d'une notification aux intéressés dans les
+conditions fixées par les conventions.

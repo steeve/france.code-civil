@@ -1,11 +1,9 @@
 Article R353-101
 ----
-Le loyer est payable par fraction mensuelle à terme échu sauf convention
-expresse du bail qui peut prévoir le paiement par terme à échoir, jusqu'à une
-date qui est fixée par les conventions.
-
-Le bailleur remet au preneur un document faisant clairement apparaître le
-montant du loyer, des sommes accessoires et, en cas de versement de l'aide
-personnalisée au bailleur, également celui de cette aide. Il est tenu de
-remettre, sur la demande du preneur et après paiement intégral du loyer et des
-sommes accessoires, une quittance ou un reçu des sommes versées.
+Les bailleurs sont tenus envers les organismes chargés de la liquidation et du
+paiement de l'aide personnalisée au logement, de fournir toutes les informations
+et justifications nécessaires à l'établissement du droit à l'aide personnalisée
+au logement, ainsi qu'à la liquidation et au versement de celle-ci, dans les
+conditions définies par les directives du conseil de gestion du Fonds national
+de l'habitation, conformément aux dispositions de la convention nationale prévue
+à l'article L. 351-8.
