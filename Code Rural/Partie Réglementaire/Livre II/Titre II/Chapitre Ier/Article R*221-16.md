@@ -7,6 +7,13 @@ personnel contractuel.
 
 Il est ordonnateur principal des recettes et des dépenses de l'établissement.
 
+Il est la personne responsable des marchés au sens de l'article 20 du code des
+marchés publics. Il peut déléguer l'exercice de cette compétence à des
+personnels de conception et d'encadrement placés sous son autorité, pour la
+passation de conventions, contrats et marchés de travaux, de fournitures ou de
+services. Ces délégations énumèrent les catégories de marchés pour lesquelles
+elles sont données.
+
 Il prépare les délibérations du conseil d'administration et lui rend compte de
 leur exécution.
 
