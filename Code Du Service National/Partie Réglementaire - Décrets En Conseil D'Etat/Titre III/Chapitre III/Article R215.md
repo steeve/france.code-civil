@@ -1,6 +1,6 @@
 Article R215
 ----
-Des permissions exceptionnelles pour événements familiaux d'une durée au plus
-égale à dix jours peuvent ^etre accordées pour la naissance d'un enfant, le
-mariage de l'intéressé, le décès du conjoint ou d'un enfant, le décès du père ou
-de la mère.
+Des permissions exceptionnelles d'une durée au plus égale à dix jours peuvent
+être accordées pour la naissance d'un enfant, le mariage de l'intéressé, le
+décès du conjoint, d'un enfant ou d'un parent (grands-parents, parents,
+beaux-parents, frère, soeur).
