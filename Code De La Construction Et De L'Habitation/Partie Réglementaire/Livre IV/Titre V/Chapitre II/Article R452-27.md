@@ -2,10 +2,8 @@ Article R452-27
 ----
 En application de l'article L. 511-32 du code monétaire et financier, la caisse
 est dotée d'un commissaire du Gouvernement, qui est nommé et exerce ses
-fonctions dans les conditions que déterminent les articles 15 et suivants du
-décret n° 84-709 du 24 juillet 1984 modifié pris en application de la loi n°
-84-46 du 24 janvier 1984 relative à l'activité et au contrôle des établissements
-de crédit.
+fonctions dans les conditions que déterminent les articles D. 615-1 et suivants
+du code monétaire et financier.
 
 Le commissaire du Gouvernement veille notamment à ce que la caisse respecte les
 dispositions législatives et réglementaires qui la régissent et exerce son
@@ -20,5 +18,5 @@ jours. Sa demande doit être motivée. Si, après une seconde délibération, le
 désaccord subsiste, le commissaire du Gouvernement peut opposer un refus motivé
 à cette décision.
 
-Il a accès aux séances du conseil d'administration, du comité des aides et du
-comité d'audit.
+Il a accès aux séances du conseil d'administration, de la commission de
+réorganisation du comité des aides et du comité d'audit.

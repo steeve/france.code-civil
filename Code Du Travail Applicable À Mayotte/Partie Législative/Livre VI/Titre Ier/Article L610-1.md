@@ -11,7 +11,10 @@ ces dispositions.
 Ils constatent, en outre, les infractions aux dispositions de protection sociale
 concernant les accidents du travail et les maladies professionnelles du régime
 en vigueur dans la collectivité départementale de Mayotte ainsi que les
-infractions prévues par les articles 225-13 à 225-16-1 du code pénal.
+infractions prévues par les articles 225-13 à 225-16-1 du code pénal. Ils
+constatent également les infractions prévues par les articles 28 et 28-1 de
+l'ordonnance n° 2000-373 du 26 avril 2000 relative aux conditions d'entrée et de
+séjour des étrangers à Mayotte.
 
 Dans les cas expressément prévus par la loi ou le règlement, ces attributions
 peuvent être exercées par des fonctionnaires de contrôle assimilés.
