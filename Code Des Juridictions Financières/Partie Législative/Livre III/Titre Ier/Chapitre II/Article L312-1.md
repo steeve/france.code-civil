@@ -21,23 +21,23 @@ accomplis dans l'exercice de leurs fonctions :
 a) Les membres du Gouvernement ;
 
 b) Les présidents de conseil régional et, quand ils agissent dans le cadre des
-dispositions du c de l'article 11 de la loi n° 72-619 du 5 juillet 1972 portant
-création et organisation des régions, les vice-présidents et autres membres du
-conseil régional ;
+dispositions des articles L. 4132-3 à L. 4132-10, L. 4132-13, L. 4132-15, L.
+4132-21, L. 4132-22, L. 4132-25, L. 4133-1, L. 4133-2, L. 4133-4 à L. 4133-8, L.
+4231-1 à L. 4231-5 du code général des collectivités territoriales, les
+vice-présidents et autres membres du conseil régional ;
 
 c) Le président du conseil exécutif de Corse et, quand ils agissent dans le
-cadre des dispositions du dernier alinéa de l'article 33 de la loi n° 91-428 du
-13 mai 1991 portant statut de la collectivité territoriale de Corse, les
-conseillers exécutifs ;
+cadre des dispositions du dernier alinéa de l'article L. 4424-4 du code général
+des collectivités territoriales, les conseillers exécutifs ;
 
 d) Les présidents de conseil général et, quand ils agissent dans le cadre des
-dispositions de l'article 31 de la loi n° 82-213 du 2 mars 1982 relative aux
-droits et libertés des communes, des départements et des régions, les
-vice-présidents et autres membres du conseil général ;
+dispositions des articles L. 3221-3 et L. 3221-7 du code général des
+collectivités territoriales, les vice-présidents et autres membres du conseil
+général ;
 
 e) Les maires et, quand ils agissent dans le cadre des dispositions des articles
-L. 122-11 et L. 122-13 du code des communes, les adjoints et autres membres du
-conseil municipal ;
+L. 2122-17 à L. 2122-20 et L. 2122-25 du code général des collectivités
+territoriales, les adjoints et autres membres du conseil municipal ;
 
 f) Les présidents élus de groupements de collectivités territoriales et, quand
 ils agissent par délégation du président, les vice-présidents et autres membres

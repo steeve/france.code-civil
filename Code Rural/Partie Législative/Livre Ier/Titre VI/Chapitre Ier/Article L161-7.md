@@ -15,10 +15,10 @@ Dans les autres cas, le conseil municipal pourra instituer la taxe prévue aux
 alinéas précédents, si le chemin est utilisé pour l'exploitation d'un ou de
 plusieurs fonds.
 
-Sont applicables à cette taxe les dispositions de l'article L. 231-13 du code
-des communes, ci-après reproduites :
+Sont applicables à cette taxe les dispositions de l'article L. 2331-11 du code
+général des collectivités territoriales, ci-après reproduites :
 
-"Art. L. 231-13 : Les taxes particulières dues par les habitants ou
+"Art. L. 2331-11 : Les taxes particulières dues par les habitants ou
 propriétaires en vertu des lois et usages locaux sont réparties par délibération
 du conseil municipal.
 

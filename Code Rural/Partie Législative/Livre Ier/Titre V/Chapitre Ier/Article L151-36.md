@@ -1,10 +1,10 @@
 Article L151-36
 ----
 Les départements, les communes ainsi que les groupements de ces collectivités et
-les syndicats mixtes créés en application de l'article L. 166-1 du code des
-communes peuvent prescrire ou exécuter les travaux entrant dans les catégories
-ci-dessous définies, lorsqu'ils présentent, du point de vue agricole ou
-forestier, un caractère d'intérêt général ou d'urgence :
+les syndicats mixtes créés en application de l'article L. 5721-2 du code général
+des collectivités territoriales peuvent prescrire ou exécuter les travaux
+entrant dans les catégories ci-dessous définies, lorsqu'ils présentent, du point
+de vue agricole ou forestier, un caractère d'intérêt général ou d'urgence :
 
 1° Lutte contre l'érosion et les avalanches, défense contre les torrents,
 reboisement et aménagement des versants, défense contre les incendies et

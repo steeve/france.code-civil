@@ -4,8 +4,8 @@ La préparation et l'exécution des opérations d'aménagement foncier sont
 assurées, sous la direction des commissions communales ou intercommunales
 d'aménagement foncier, par des techniciens rémunérés par le département en
 application de barèmes fixés, après avis du comité des finances locales prévu à
-l'article L. 234-20 du code des communes, conjointement par le ministre de
-l'agriculture et le ministre chargé du budget.
+l'article L. 1211-1 du code général des collectivités territoriales,
+conjointement par le ministre de l'agriculture et le ministre chargé du budget.
 
 Lorsqu'il s'agit de l'exécution d'une opération de remembrement, de
 remembrement-aménagement, de réorganisation foncière, d'aménagement foncier
