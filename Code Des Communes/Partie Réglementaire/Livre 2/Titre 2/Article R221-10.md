@@ -29,9 +29,12 @@ délibération relative à la durée d'amortissement est transmise au receveur
 municipal.
 
 Tout plan d'amortissement commencé doit être poursuivi jusqu'à son terme, sauf
-cession, affectation, réforme ou destruction du bien. Le plan d'amortissement ne
-peut être modifié qu'en cas de changement significatif dans les conditions
-d'utilisation du bien.
+cession, affectation, mise à disposition, réforme ou destruction du bien. Le
+plan d'amortissement ne peut être modifié qu'en cas de changement significatif
+dans les conditions d'utilisation du bien. La commune ou le groupement
+bénéficiaire de la mise à disposition ou de l'affectation poursuit
+l'amortissement du bien selon le plan d'amortissement initial ou conformément à
+ses propres règles, définies par le présent article.
 
 Une assemblée délibérante peut fixer un seuil unitaire en deçà duquel les
 immobilisations de peu de valeur ou dont la consommation est très rapide
@@ -40,9 +43,10 @@ receveur municipal et ne peut être modifiée au cours d'un même exercice
 budgétaire.
 
 L'état des biens meubles et immeubles annexé aux documents budgétaires indique
-pour les biens amortis, ainsi que pour les biens acquis, cédés, affectés,
-réformés ou détruits, la durée d'amortissement, le coût historique, la valeur
-nette comptable, les amortissements antérieurs et l'amortissement de l'exercice.
+pour les biens amortis, ainsi que pour les biens acquis, cédés, affectés, mis à
+disposition, réformés ou détruits, la durée d'amortissement, le coût historique,
+la valeur nette comptable, les amortissements antérieurs et l'amortissement de
+l'exercice.
 
 L'état joint au compte administratif doit correspondre aux données figurant dans
 le compte de gestion du comptable.
