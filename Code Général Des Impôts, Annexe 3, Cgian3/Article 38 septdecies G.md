@@ -35,9 +35,6 @@ c) Le nombre de titres acquis ;
 
 d) La date d'acquisition et le prix payé par le salarié.
 
-Les intermédiaires agréés mentionnés ci-dessus sont ceux énumérés à l'article 95
-B de l'annexe II au code général des impôts.
-
 Les intermédiaires agréés mentionnés ci-dessus sont :
 
 a) 1° La Banque de France ;
@@ -46,11 +43,9 @@ a) 1° La Banque de France ;
 
 3° Les établissements de crédit ;
 
-4° ((Les prestataires de services d'investissement)) (M) ;
+4° Les prestataires de services d'investissement ;
 
-5° Les établissements visés au troisième alinéa du 2 de l'article 18 de la loi
-n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des
-établissements de crédit ;
+5° (disposition devenue sans objet).
 
 b) 1° Les entreprises gérant des valeurs acquises dans le cadre de la
 législation sur les plans d'épargne d'entreprise ou de l'actionnariat des
@@ -83,5 +78,3 @@ parts ou actions ;
 8° Les caisses locales de crédit agricole mutuel ainsi que les caisses de crédit
 mutuel agricole et rural régies par le titre Ier du livre V du code rural, pour
 la souscription ou la cession de leurs parts.
-
-(M) Modification.
