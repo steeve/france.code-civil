@@ -67,8 +67,8 @@ pas.
 
 L'autorité administrative détermine les maxima et les minima prévus aux alinéas
 ci-dessus sur proposition de commissions consultatives paritaires
-départementales et, le cas échéant, régionales et nationale. En cas de carence
-de ces commissions, l'autorité compétente procède elle-même à cette fixation.
+départementales et, le cas échéant, nationale. En cas de carence de ces
+commissions, l'autorité compétente procède elle-même à cette fixation.
 
 Ces maxima et ces minima font l'objet d'un nouvel examen au plus tard tous les
 six ans. S'ils sont modifiés, le prix des baux en cours ne peut, sous réserve

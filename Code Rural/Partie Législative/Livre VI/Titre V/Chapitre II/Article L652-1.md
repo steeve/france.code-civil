@@ -6,4 +6,4 @@ l'insémination artificielle, s'il n'est muni d'une licence délivrée par le
 ministre de l'agriculture.
 
 Les conditions d'attribution des licences sont fixées par décret en Conseil
-d'Etat pris après avis du Conseil supérieur de l'élevage.
+d'Etat.
