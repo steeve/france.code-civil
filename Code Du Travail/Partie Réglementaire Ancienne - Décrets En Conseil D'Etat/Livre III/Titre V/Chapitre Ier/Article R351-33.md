@@ -6,4 +6,7 @@ fait connaître à l'intéressé et aux institutions gestionnaires du régime
 d'assurance chômage sa décision motivée de lui refuser l'attribution, le
 renouvellement ou le maintien du revenu de remplacement par application de
 l'article R. 351-27 ou R. 351-28 ou de l'exclure temporairement ou
-définitivement du bénéfice de ce revenu en application de l'article R. 351-27.
+définitivement du bénéfice de ce revenu en application de l'article R. 351-27
+sauf dans le cas où il est statué sur une demande présentée par l'intéressé
+lui-même, cette décision ne peut intervenir qu'après qu'il a été mis à même de
+présenter ses observations écrites.
