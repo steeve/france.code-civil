@@ -1,0 +1,47 @@
+Article L673-8
+----
+I. Peuvent seules bénéficier d'une greffe d'organes, de moelle, de cornée ou
+d'autres tissus dont la liste est fixée par arrêté après avis de l'établissement
+public, les personnes, quel que soit leur lieu de résidence, qui sont inscrites
+sur une liste nationale.
+
+II. Il est créé un établissement public national, dénommé Etablissement français
+des greffes, placé sous la tutelle du ministre chargé de la santé.
+
+L'Etablissement français des greffes est chargé de l'enregistrement de
+l'inscription des patients sur la liste définie au paragraphe I du présent
+article, de la gestion de celle-ci et de l'attribution des greffons, qu'ils
+aient été prélevés en France ou hors du territoire national.
+
+L'Etablissement français des greffes est, en outre, notamment chargé :
+
+- de promouvoir le don d'organes, de moelle, de cornée ou d'autres tissus en
+participant à l'information du public ;
+
+- d'établir et de soumettre à homologation par arrêté du ministre chargé de la
+santé les règles de répartition et d'attribution des greffons ; celles-ci
+devront prendre en considération le caractère d'urgence que peuvent revêtir
+certaines indications de greffe ;
+
+- de préparer les règles de bonnes pratiques qui doivent s'appliquer au
+prélèvement, à la conservation, au transport et à la transformation de
+l'ensemble des parties et produits du corps humain : ces règles sont homologuées
+par arrêté du ministre chargé de la santé ;
+
+- de donner un avis au ministre chargé de la santé en ce qui concerne les
+organismes autorisés à importer et à exporter les tissus et les cellules issus
+du corps humain ;
+
+- de donner un avis au ministre chargé de la santé sur les autorisations prévues
+aux articles L. 712-8 à L. 712-20 du code de la santé publique.
+
+L'Etablissement français des greffes est soumis à un régime administratif,
+budgétaire, financier et comptable, et à un contrôle de l'Etat, adaptés à la
+nature particulière de ses missions et déterminés par voie réglementaire. Il
+peut recruter des personnels contractuels, de droit public ou privé. Il peut
+conclure avec ces agents des contrats à durée indéterminée.
+
+L'établissement est doté d'un conseil médical et scientifique. Ce conseil est
+consulté par le directeur pour toutes les missions et avis de nature médicale et
+scientifique confiés à l'établissement. Sa composition et les modalités de
+nomination de ses membres sont fixées par décret en Conseil d'Etat.
