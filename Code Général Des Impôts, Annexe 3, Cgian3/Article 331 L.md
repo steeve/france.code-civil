@@ -4,7 +4,7 @@ La redevance sur l'édition des ouvrages de librairie prévue par l'article 1609
 decies A du code général des impôts est établie et perçue selon les modalités
 ci-après.
 
-Pour l'appréciation de la limite d'exonération de 200 000 F les éditeurs
+Pour l'appréciation de la limite d'exonération de 500 000 F les éditeurs
 déclarent chaque année à la recette des impôts dont ils relèvent le montant du
 chiffre d'affaires qu'ils ont réalisé l'année précédente dans leur branche
 d'activité " édition " [*formalité*]. Cette déclaration est souscrite au plus
