@@ -74,6 +74,8 @@ s'agissant des seuls contrats en unités de comptes et aux 5 à 10, lorsque ces
 revenus entrent dans le champ d'application de l'article 1600-0 G.
 
 III. Les revenus de placement visés au I, acquis ou en ce qui concerne les
-placements visés du 3 au 10 du même I, constatés à la date du 31 janvier 2009 et
-pour lesquels la contribution n'est pas encore exigible sont soumis à cette date
-à la contribution.
+placements visés du 3 au 10 du même I, constatés à la date du ((31 janvier
+2014)) (M) et pour lesquels la contribution n'est pas encore exigible sont
+soumis à cette date à la contribution.
+
+(M) Modification.
