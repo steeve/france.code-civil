@@ -18,6 +18,6 @@ impôts.
 
 La répartition des espaces publicitaires entre les différentes marques est
 arrêtée, sur le plan national, par un accord entre les fabricants, les
-fournisseurs et les débitants ou, à défaut d'accord, par arrêté du ministre de
-l'économie et des finances. Toutefois les modalités actuelles de publicité dans
-les débits restent en vigueur jusqu'au 1er juillet 1977.
+fournisseurs et les débitants. A défaut d'accord, le litige est soumis à
+l'arbitrage dans les conditions prévues au décret n° 80-354 du 14 mai 1980
+relatif à l'arbitrage.
