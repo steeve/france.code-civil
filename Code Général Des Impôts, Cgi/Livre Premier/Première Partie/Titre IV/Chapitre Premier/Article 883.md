@@ -21,8 +21,11 @@ d'habitation de caractère définitif.
 
 4° Aux actes, pièces et écrits visés :
 
-a A l'article 1058;
+a) A l'article 1058;
 
-b à h (dispositions périmées).
+b) A l'article 12 du code de la famille et de l'aide sociale, concernant les
+associations familiales et les unions d'associations familiales.
+
+c à h (dispositions périmées).
 
 (1) Voir annexe III, art. 396.
