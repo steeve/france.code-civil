@@ -16,7 +16,7 @@ de la commission de recours amiable doivent être motivées.
 
 Lorsque les cotisations sont acquittées avec un retard d'un mois ou plus à
 compter de la date limite d'exigibilité, un minimum de majoration de retard,
-fixé à 0,8 p. 100 des cotisations arriérées par mois ou fraction de mois de
+fixé à 0,6 p. 100 des cotisations arriérées par mois ou fraction de mois de
 retard, doit obligatoirement être laissé à la charge du débiteur.
 
 Toutefois, par dérogation à l'alinéa précédent, la commission de recours amiable
