@@ -4,7 +4,7 @@ Sera puni de l'amende prévue pour les contraventions de la 4e classe quiconque 
 
 1° Fait usage de l'un des procédés ou modes de pêche ou de l'un des instruments,
 filets ou engins de pêche prohibés en application des articles R. 236-106 à R.
-236-112 ;
+236-111 et R. 236-112 (1° à 7°) ;
 
 2° Pratique la pêche pendant les temps d'interdiction prévus en application de
 l'article R. 236-100 ;

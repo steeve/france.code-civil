@@ -1,8 +1,10 @@
 Article R*236-101
 ----
-Les heures pendant lesquelles la pêche est autorisée et où il est notamment
-permis de tendre, de poser ou de relever des filets et des nasses sont les
-suivantes :
+La pêche aux lignes ne peut s'exercer plus d'une demi-heure avant le lever du
+soleil ni plus d'une demi-heure après son coucher.
+
+Les nasses, engins et filets ne peuvent être tendus, posés ou relevés que durant
+les heures suivantes :
 
 De 6 h 30 à 18 heures en janvier ;
 
@@ -28,13 +30,18 @@ De 5 h 45 à 17 h 45 en novembre ;
 
 De 6 h 30 à 17 h 30 en décembre.
 
-Par dérogation, les pics peuvent être levés une heure avant l'heure d'ouverture.
+Pendant la période où l'heure d'été est appliquée, il convient d'ajouter une
+heure aux heures définies ci-dessus.
+
+Toutefois, les grands pics peuvent être levés une heure avant les heures
+définies ci-dessus.
+
+Pendant les mois de juin, juillet, août et septembre, la pose des filets à
+perches dont les dimensions des mailles sont inférieures à 32 millimètres est
+autorisée une heure et demie avant les heures définies ci-dessus.
 
 La circulation sur le lac avec des engins de pêche est autorisée une demi-heure
-avant l'ouverture journalière de la pêche.
+avant l'heure d'ouverture pour autant que les filets soient secs.
 
-La circulation sur le lac avec des engins de pêche ou avec des poissons demeure
-autorisée une demi-heure après la fermeture journalière de la pêche.
-
-Pendant la période où l'heure d'été est appliquée, il convient d'ajouter une
-heure à chacune des heures fixées au tableau ci-dessus.
+La circulation sur le lac demeure autorisée une demi-heure après l'heure de
+fermeture pour le transport des engins, des filets ou des poissons.
