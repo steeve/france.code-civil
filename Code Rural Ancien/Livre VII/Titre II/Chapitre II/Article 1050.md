@@ -11,12 +11,3 @@ par le titre Ier du livre XII du code de la sécurité sociale.
 
 Les caisses de prévoyance peuvent grouper tout ou partie des salariés d'une ou
 plusieurs entreprises.
-
-Les accords ayant pour objet l'institution d'un régime complémentaire de
-prévoyance et de retraite en faveur des salariés mentionnés aux alinéas
-ci-dessus ainsi que les accords ayant pour objet de modifier ou de compléter le
-régime ainsi créé peuvent être rendus obligatoires suivant les modalités prévues
-aux articles L. 133-1 à L. 133-4, L. 133-6, L. 133-8 à L. 133-16 du code du
-travail par arrêté du ministre chargé de l'agriculture pour tous les employeurs
-et travailleurs compris dans leur champ d'application professionnel et
-territorial.
