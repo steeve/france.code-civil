@@ -15,11 +15,12 @@ par le contrat de prêt.
 La radiation de l'hypothèque est effectuée sur mainlevée selon le cas, de
 l'autorité administrative, ou du représentant légal de l'établissement prêteur.
 
-La caisse de prêts aux organismes d'habitations à loyer modéré est subrogée dans
-l'hypothèque prise par les sociétés de crédit immobilier comme garantie des
-prêts qu'elles consentent au moyen des avances qui leur sont accordées par cette
-caisse.
-
-Cette subrogation peut se substituer en partie à la garantie prévue au premier
-alinéa du présent article dans des conditions fixées par décision de l'autorité
-administrative.
+La caisse de garantie du logement social est subrogée, à compter du 1er janvier
+1986, dans l'hypothèque prise par les sociétés de crédit immobilier comme
+garantie des prêts qu'elles consentent au moyen des avances accordées jusqu'à
+cette date par la caisse de prêts aux organismes d'habitations à loyer modéré.
+La caisse des dépots et consignations est subrogée dans l'hypothèque prise par
+ces sociétés comme garantie des prêts qu'elles consentent au moyen des avances
+accordées par cette caisse. Ces subrogations peuvent se substituer en partie à
+la garantie prévue au premier alinéa du présent article dans des conditions
+fixées par décision de l'autorité administrative.
