@@ -1,34 +1,21 @@
 Article R321-1
 ----
-Les employeurs des professions et établissements [*sous contrôle des services
-publics de la main-d'oeuvre*] prévus à l'article L. 321-1 (1.) sont tenus
-d'adresser, dans les huit premiers jours de chaque mois [*délai*], au directeur
-départemental du travail et de la main-d'oeuvre, le relevé des contrats de
-travail conclus ou résiliés au cours du mois précédent.
+Lorsque, dans une entreprise ou un établissement ou dans une profession
+mentionnés à l'article L. 321-2, le nombre des licenciements pour motif
+économique est inférieur à dix dans une même période de trente jours [*durée*],
+l'employeur doit informer par écrit [*formalité*] le directeur départemental du
+travail et de l'emploi [*information de l'autorité administrative compétente,
+DDTE*] des licenciements prononcés dans les huit jours de l'envoi des lettres de
+licenciement aux salariés concernés [*délai*].
 
-Ce relevé doit contenir les mentions [*obligatoires*]
+L'employeur est tenu de préciser à cette occasion [*mentions obligatoires*] :
 
-suivantes :
+1. Son nom et son adresse ;
 
-1. Nom et adresse de l'employeur ;
+2. La nature de l'activité et l'effectif de l'entreprise ou de l'établissement ;
 
-2. Nature de l'activité de l'entreprise ;
+3. Les nom, prénoms, nationalité, date de naissance, sexe, adresse, emploi et
+qualification du ou des salariés licenciés ;
 
-3. Nom, prénoms, nationalité, date de naissance, sexe, emploi et qualification
-du ou des salariés dont le contrat a été conclu ou résilié ;
-
-4. Date d'effet du ou des contrats de travail ou de leur résiliation avec, dans
-le cas de résiliation pour motif économique, l'indication de la nature de ce
-motif.
-
-Sur la demande expresse des services chargés du contrôle de l'emploi, l'adresse
-du ou des salariés visés au 3° ci-dessus devra en outre être communiquée.
-
-Tout employeur qui embauche une personne inscrite comme demandeur d'emploi à
-l'Agence nationale pour l'emploi doit dans les quarante-huit heures suivant
-l'embauche en informer le service de l'agence dont il relève [*délai*].
-
-Cette information est transmise par un document fourni au demandeur par l'Agence
-nationale pour l'emploi au demandeur d'emploi qui est tenu de le remettre à son
-nouvel employeur. La date d'embauche doit être mentionnée sur ce document, cette
-mention est certifiée exacte par l'employeur.
+4. La date de la notification des licenciements aux salariés concernés [*date
+d'effet*].
