@@ -21,9 +21,15 @@ ou si, dans un délai de six mois à compter de cette même notification, la
 modification ou la révision engagée par la commune n'a pas été approuvée.
 L'arrêté du préfet est publié au recueil des actes administratifs de la
 préfecture. Mention en est insérée en caractères apparents dans deux journaux
-régionaux ou locaux diffusés dans le département.
+diffusés dans le département.
 
-Le projet de modification ou de révision élaboré par le préfet est soumis par ce
+Lorsque le projet comporte une réduction grave des terres agricoles, il est
+soumis pour avis à la commission départementale d'orientation de l'agriculture
+et à la chambre d'agriculture en application de l'article L. 112-3 du code
+rural. Leur avis est réputé favorable faute de réponse dans un délai d'un mois.
+
+Le projet de modification ou de révision élaboré par le préfet éventuellement
+modifié pour tenir compte, le cas échéant, des avis recueillis est soumis par ce
 dernier à une enquête publique dans les formes prévues à l'article R. 123-11, le
 préfet étant toutefois substitué au maire pour l'application de cet article.
 
@@ -36,6 +42,6 @@ municipal est réputée favorable si elle n'est pas intervenue dans ce délai.
 Lorsque l'avis mentionné à l'alinéa précédant a été recueilli ou est réputé
 acquis, la modification ou la révision du plan d'occupation des sols, tenant
 éventuellement compte des résultats de l'enquête et de cet avis, est approuvée
-par arrêté du préfet. Cet arrêté fait l'objet des mesures de publicité et
-d'information du public fixées au quatrième alinéa du présent article et à
-l'article R. 123-14.
+par arrêté du commissaire d la République. Cet arrêté fait l'objet des mesures
+de publicité et d'information du public fixées au quatrième alinéa du présent
+article et à l'article R. 123-14.

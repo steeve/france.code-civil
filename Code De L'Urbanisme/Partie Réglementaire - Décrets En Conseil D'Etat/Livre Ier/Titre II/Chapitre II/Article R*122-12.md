@@ -20,8 +20,3 @@ associées à son élaboration.
 La délibération de l'organe délibérant de l'établissement public approuvant le
 schéma directeur ou le schéma de secteur est exécutoire dans les conditions
 fixées à l'article L. 122-1-3.
-
-Le préfet ne peut notifier à l'établissement public des demandes de modification
-du schéma, en application du a) du second alinéa de l'article L. 122-1-3, que
-pour ceux des projets d'intérêt général qui ont été portés à la connaissance de
-l'établissement public conformément à l'article R. 122-10.

@@ -6,6 +6,6 @@ les mairies des communes membres concernées ainsi qu'à la préfecture du ou de
 départements concernés.
 
 Mention des lieux où le schéma peut être consulté est insérée en caractères
-apparents dans deux journaux régionaux ou locaux diffusés dans le ou les
-départements concernés et affichée au siège de l'établissement public ainsi que
-dans les mairies des communes membres concernées.
+apparents dans deux journaux diffusés dans le ou les départements concernés et
+affichée pendant un mois au siège de l'établissement public ainsi que dans les
+mairies des communes membres concernées.

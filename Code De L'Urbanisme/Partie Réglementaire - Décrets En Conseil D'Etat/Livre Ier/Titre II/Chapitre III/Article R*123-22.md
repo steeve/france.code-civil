@@ -9,8 +9,9 @@ l'utilisation su sol.
 
 2. Le coefficient d'occupation du sol s'applique à la superficie du terrain qui
 fait l'objet de la demande d'autorisation de construire ou de lotir, y compris,
-le cas échéant, les terrains cédés gratuitement dans les conditions fixées par
-les articles R. 332-15 et R. 332-16. La surface des bâtiments existants
+le cas échéant, aux terrains classés comme espaces boisés en application de
+l'article L. 130-1 et aux terrains cédés gratuitement dans les conditions fixées
+par les articles R. 332-15 et R. 332-16. La surface des bâtiments existants
 conservés sur le terrain, appréciée comme il est dit à l'article L. 111-5, est
 déduite des possibilités de construction.
 

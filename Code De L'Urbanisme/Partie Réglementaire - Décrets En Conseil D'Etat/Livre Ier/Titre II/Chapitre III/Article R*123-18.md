@@ -48,7 +48,7 @@ a) Les espaces boisés classés à conserver ou à créer ;
 b) Les zones d'activités spécialisées ;
 
 c) Lorsqu'il y a lieu d'imposer des prescriptions architecturales, les secteurs
-pour lesquels un plan de masse coté à trois dimensions définit des disciplines
+pour lesquels un plan de masse coté à trois dimensions définit des régles
 spéciales.
 
 II - Les documents graphiques font apparaître, s'il y a lieu :
@@ -81,10 +81,10 @@ délivrer l'autorisation de construire peut subordonner cette autorisation à la
 démolition de tout ou partie des bâtiments existants sur le terrain où
 l'implantation de la construction est envisagée ;
 
-6° Les quartiers, rues, monuments, sites et secteurs à protéger ou à mettre en
-valeur pour des motifs d'ordre esthétique, historique ou écologique, et
-notamment les zones dans lesquelles la démolition des immeubles est subordonnée
-à la délivrance d'un permis de démolir.
+6° Les éléments de paysage, quartiers, rues, monuments, sites et secteurs à
+protéger ou à mettre en valeur pour des motifs d'ordre esthétique, historique ou
+écologique, et notamment les secteurs dans lesquels la démolition des immeubles
+est subordonnée à la délivrance d'un permis de démolir.
 
 Un arrêté du ministre chargé de l'urbanisme détermine la légende des différentes
 servitudes mentionnées aux I et II et pouvant figurer sur les documents

@@ -6,9 +6,10 @@ conciliation, donne lieu, dans les conditions fixées au premier alinéa de
 l'article R. 123-9, à la consultation des services de l'Etat et des personnes
 publiques associées si le maire estime que la nature et l'importance des
 modifications envisagées justifient cette consultation. Le plan, accompagné par
-les avis des personnes publiques et des associations mentionnées au deuxième
-alinéa de l'article R. 123-10, est ensuite transmis au conseil municipal, qui
-l'approuve par délibération.
+les avis des personnes publiques, des associations et des organismes de gestion
+des parcs naturels régionaux ainsi que par les communications du préfet
+mentionnés au deuxième alinéa de l'article R. 123-10, est ensuite transmis au
+conseil municipal, qui l'approuve par délibération.
 
 La délibération approuvant le plan d'occupation des sols fait l'objet des
 mesures de publicité mentionnées au 3è alinéa de l'article R. 123-10. Elle est

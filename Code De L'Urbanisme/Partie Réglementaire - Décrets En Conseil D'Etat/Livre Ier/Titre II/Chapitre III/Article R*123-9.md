@@ -4,8 +4,12 @@ Le projet de plan d'occupation des sols arrêté par délibération du conseil
 municipal est communiqué par le maire pour avis, en ce qui les concerne, aux
 personnes publiques associées à l'élaboration du plan, et sur leur demande, aux
 communes limitrophes et aux établissements publics de coopération intercommunale
-directement intéressés. Leur avis est réputé favorable faute de réponse dans un
-délai de trois mois à compter de la transmission.
+directement intéressés. Lorsque le projet de plan d'occupation des sols comporte
+une réduction grave des terres agricoles, il est également soumis pour avis à la
+commission départementale d'orientation de l'agriculture et à la chambre
+d'agriculture, en application de l'article R. 112-3 du code rural. Leur avis est
+réputé favorable faute de réponse dans un délai de trois mois à compter de la
+transmission.
 
 Lorsque le préfet constate que le projet de plan d'occupation des sols arrêté ne
 permet pas la mise en oeuvre d'un projet d'intérêt général déjà communiqué à la
@@ -22,9 +26,10 @@ conseils municipaux des communes membres concernées ; faute de réponse dans un
 délai de trois mois, l'accord est réputé donné.
 
 Lorsqu'il en fait la demande au maire, le président d'une association mentionnée
-à l'article L. 121-8 reçoit communication du projet de plan d'occupation des
-sols ou est invité à en prendre connaissance au lieu désigné à cet effet. Il
-peut faire connaître ses observations écrites sur le projet de plan d'occupation
-des sols dans un délai d'un mois courant à compter de la reception du projet de
-plan d'occupation des sols ou de la date à laquelle il a pris connaissance de
+à l'article L. 121-8 ou le président de l'organisme de gestion d'un parc naturel
+régional reçoit communication du projet de plan d'occupation des sols ou est
+invité à en prendre connaissance au lieu désigné à cet effet. Il peut faire
+connaître ses observations écrites sur le projet de plan d'occupation des sols
+dans un délai d'un mois courant à compter de la reception du projet de plan
+d'occupation des sols ou de la date à laquelle il a pris connaissance de
 celui-ci.

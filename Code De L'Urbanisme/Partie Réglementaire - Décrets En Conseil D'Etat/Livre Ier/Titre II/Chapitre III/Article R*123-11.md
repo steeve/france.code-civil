@@ -36,11 +36,11 @@ rapport et les conclusions du commissaire enquêteur ou de la commission
 d'enquête.
 
 Un avis portant ces indications à la connaissance du public est, par les soins
-du maire, publié en caractères apparents dans deux journaux régionaux ou locaux
-diffusés dans le département, quinze jours au moins avant le début de l'enquête
-et rappelé de même dans les huit premiers jours de celle-ci. Il est publié par
-voie d'affiches et éventuellement par tous autres procédés dans la ou les
-communes membres concernées.
+du maire, publié en caractères apparents dans deux journaux diffusés dans le
+département, quinze jours au moins avant le début de l'enquête et rappelé de
+même dans les huit premiers jours de celle-ci. Il est publié par voie d'affiches
+et éventuellement par tous autres procédés dans la ou les communes membres
+concernées.
 
 L'enquête s'ouvre selon le cas :
 
@@ -69,7 +69,7 @@ elles sont favorables ou défavorables. Le commissaire enqueteur ou le présiden
 de la commission d'enquête adresse le dossier accompagné du rapport et des
 conclusions au maire dans le délai d'un mois à compter de la date de clôture de
 l'enquête. Copie du rapport et des conclusions est communiquée par le maire au
-commissaire de la République et au président du tribunal administratif.
+préfet et au président du tribunal administratif.
 
 Le rapport et les conclusions sont tenus à la disposition du public à la mairie
 ou, le cas échéant, au siège de l'établissement public compétent et aux mairies

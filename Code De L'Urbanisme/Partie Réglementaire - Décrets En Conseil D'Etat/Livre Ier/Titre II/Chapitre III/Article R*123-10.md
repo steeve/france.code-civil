@@ -8,17 +8,20 @@ est rendu public par arrêté du maire.
 
 Le plan d'occupation des sols rendu public comporte en annexe les avis des
 personnes publiques consultées mentionnées aux 1er et 3é alinéas de l'article R.
-123-9 et des associations mentionnées à l'article L. 121-8 ayant présenté des
-observations, les communications du préfet, ainsi que la liste des autres
-personnes consultées au cours de l'élaboration du plan d'occupation des sols.
+123-9, des associations mentionnées à l'article L. 121-8 et des organismes de
+gestion des parcs naturels régionaux ayant présenté des observations, les
+communications du préfet, ainsi que la liste des autres personnes consultées au
+cours de l'élaboration du plan d'occupation des sols.
 
 L'arrêté rendant public le plan d'occupation des sols fait l'objet pendant un
 mois d'un affichage en mairie ou au siège de l'établissement public de
 coopération intercommunale compétent et, dans ce cas, aux mairies des communes
 membres concernées. Mention en est insérée en caractères apparents dans deux
-journaux régionaux ou locaux diffusés dans le département.
+journaux diffusés dans le département.
 
 L'arrêté rendant public le plan d'occupation des sols n'est exécutoire qu'après
 accomplissement des mesures de publicité mentionnées ci-dessus, et, dans les
 communes non couvertes par un schéma directeur ou un schéma de secteur approuvé,
-que dans les conditions prévues par l'article L. 123-3-2.
+que dans les conditions prévues par l'article L. 123-3-2. Pour l'affichage en
+mairie, la date à prendre en considération est celle du premier jour où il est
+effectué.

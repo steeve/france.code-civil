@@ -51,8 +51,7 @@ siège de l'établissement public de coopération intercommunale compétent et d
 les mairies des communes membres concernées. Les dispositions qu'elle a adoptées
 sont tenues à la disposition du public dans les conditions prévues au cinquième
 alinéa ci-dessus. Mention de la délibération et des lieux où le dossier peut
-être consulté est insérée dans deux journaux régionaux ou locaux diffusés dans
-le département.
+être consulté est insérée dans deux journaux diffusés dans le département.
 
 Le délai de six mois pendant lequel la délibération demeure en vigueur en
 application du dernier alinéa de l'article L. 123-4 court à compter de la date à

@@ -1,10 +1,11 @@
 Article R*123-16
 ----
-Le plan d'occupation des sols comprend :
+Un plan d'occupation des sols comprend :
 
-1. Un ou plusieurs documents graphiques ;
+1° Un rapport de présentation ;
 
-2. Un règlement.
+2° Un règlement ;
 
-Il est accompagné d'un rapport de présentation ainsi que des annexes visées à
-l'article R. 123-24.
+3° Un ou plusieurs documents graphiques ;
+
+4° Des annexes.

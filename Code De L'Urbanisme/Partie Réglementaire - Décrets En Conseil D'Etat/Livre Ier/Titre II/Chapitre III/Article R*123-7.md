@@ -17,5 +17,4 @@ nécessaires à l'élaboration du plan d'occupation des sols.
 Cet arrêté fait l'objet pendant un mois d'un affichage en mairie ou au siège de
 l'établissement public de coopération intercommunale compétent et, dans ce cas,
 aux mairies des communes membres concernées. Mention en est insérée en
-caractères apparents dans deux journaux régionaux ou locaux diffusés dans le
-département.
+caractères apparents dans deux journaux diffusés dans le département.

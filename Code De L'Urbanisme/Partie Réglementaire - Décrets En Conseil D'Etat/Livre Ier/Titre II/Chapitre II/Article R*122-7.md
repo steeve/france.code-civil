@@ -5,7 +5,11 @@ conseil général et du conseil régional du ou des départements et régions
 concernés par le projet de schéma directeur ou de schéma de secteur ainsi qu'aux
 présidents de chambres de commerce et d'industrie, de chambres de métiers et de
 chambres d'agriculture et aux présidents des autres établissements publics de
-coopération intercommunale également concernés.
+coopération intercommunale également concernés. Le cas échéant, elle est aussi
+notifiée aux présidents des sections régionales de la conchyliculture et,
+lorsque tout ou partie du territoire concerné par le schéma directeur ou de
+secteur est situé dans un parc national, ou sa zone périphérique, compris dans
+un massif de montagne, au directeur de l'établissement public du parc.
 
 Dans un délai de deux mois à compter de la transmission de cette délibération,
 leurs destinataires font connaître au président de l'établissement public de

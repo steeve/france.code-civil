@@ -2,19 +2,21 @@ Article R*123-5
 ----
 Dans un délai de trois mois à compter de la transmission de la délibération
 prescrivant l'établissement du plan d'occupation des sols, le préfet porte à la
-connaissance du maire, les prescriptions nationales ou particulières et les
-servitudes d'utilité publique applicables au territoire concerné ainsi que les
-projets d'intérêt général au sens de l'article L. 121-12 et, éventuellement
-parmi les dispositions relatives au contenu du plan d'occupation des sols,
-prévues aux articles R. 123-15 à R. 123-24, celles qui sont nécessaires à la
-mise en oeuvre de ces projets. En outre, il porte à sa connaissance les
-objectifs minima à atteindre en matière de politique locale de l'habitat, en
-tenant compte du programme local de l'habitat lorsqu'il existe.
+connaissance du maire, les directives territoriales d'aménagement ou les lois
+d'aménagement et d'urbanisme et les servitudes d'utilité publique applicables au
+territoire concerné ainsi que les projets d'intérêt général au sens de l'article
+L. 121-12 et, éventuellement parmi les dispositions relatives au contenu du plan
+d'occupation des sols, prévues aux articles R. 123-15 à R. 123-24, celles qui
+sont nécessaires à la mise en oeuvre de ces projets. En outre, il porte à sa
+connaissance les objectifs minima à atteindre en matière de politique locale de
+l'habitat, en tenant compte du programme local de l'habitat lorsqu'il existe.
 
 Il porte également à sa connaissance toute autre information qu'il juge utile à
-l'élaboration du plan. Au cours de l'élaboration du plan, le préfet communique
-au maire dans les meilleurs délais les prescriptions nationales ou
-particulières, les servitudes d'utilité publique nouvellement instituées ou
+l'élaboration du plan notamment l'obligation, conformément à l'article L. 112-2
+du code rural, de consulter la carte des terres agricoles approuvée. Au cours de
+l'élaboration du plan, le préfet communique au maire dans les meilleurs délais
+les directives territoriales d'aménagement ou les lois d'aménagement et
+d'urbanisme , les servitudes d'utilité publique nouvellement instituées ou
 modifiées ainsi que tout élément nouveau d'information concernant les projets
 d'intérêt général.
 

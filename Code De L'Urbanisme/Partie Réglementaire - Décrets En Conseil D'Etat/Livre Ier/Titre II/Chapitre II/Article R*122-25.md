@@ -27,10 +27,15 @@ définition de la capacité d'accueil des espaces urbanisés ou à urbaniser en
 tenant compte notamment de l'équilibre entre l'emploi et l'habitat ainsi que des
 moyens de transport ;
 
-e) La justification de la compatibilité du schéma directeur avec les lois
-d'aménagement et d'urbanisme et les prescriptions prises pour leur application à
-l'article L. 111-1-1 ainsi que la justification que ces dispositions ne
-compromettent pas la mise en oeuvre d'un projet d'intérêt général.
+e) La justification de la compatibilité du schéma directeur avec les directives
+territoriales d'aménagement et en l'absence de ces directives avec les lois
+d'aménagement et d'urbanisme ; la justification, en outre, de sa compatibilité
+avec un schéma de mise en valeur de la mer, avec les directives de protection et
+de mise en valeur des paysages ainsi qu'avec les orientations et les mesures de
+la charte d'un parc naturel régional, lorsque l'autorité compétente pour
+approuver le schéma a adhéré, après accord des communes concernées, à la charte
+; la justification enfin que ses dispositions ne compromettent pas la mise en
+oeuvre d'un projet d'intérêt général.
 
 II. - Les documents graphiques font apparaître :
 
