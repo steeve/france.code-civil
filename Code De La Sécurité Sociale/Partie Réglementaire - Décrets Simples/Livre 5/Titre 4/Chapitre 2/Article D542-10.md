@@ -56,10 +56,10 @@ l'article D. 542-5.
 
 Cet abattement est fixé à :
 
-708 euros pour les personnes seules assumant la charge d'un ou de deux enfants
+721 euros pour les personnes seules assumant la charge d'un ou de deux enfants
 ou personnes au sens de l'article L. 542-1 ;
 
-1 061 euros pour les personnes seules assumant la charge d'au moins trois
+1 080 euros pour les personnes seules assumant la charge d'au moins trois
 enfants ou personnes au sens de l'article L. 542-1.
 
 Lors de l'ouverture du droit ou en début de période de paiement, lorsque le

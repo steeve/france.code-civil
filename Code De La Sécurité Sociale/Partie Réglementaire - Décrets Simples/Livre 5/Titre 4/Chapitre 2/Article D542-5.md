@@ -48,13 +48,22 @@ Dans laquelle :
 
 1°) AL représente le montant de l'allocation de logement ;
 
-2° K représente le coefficient de prise en charge déterminé, pour chaque
+2°) K représente le coefficient de prise en charge déterminé, pour chaque
 intervalle de ressources de 100 Euros, par la formule :
 
-K = 0,9 - R/16 833,72 x N
 
-dans laquelle : R représente la limite supérieure de l'intervalle dans lequel se
-situent les ressources appréciées conformément à l'article D. 542-10.
+R
+
+K = 0,9 - 17 136,73 x N
+
+dans laquelle :
+
+R représente la limite supérieure de l'intervalle dans lequel se situent les
+ressources appréciées conformément à l'article D. 542-10 ;
+
+N représente le nombre de parts déterminé dans les conditions prévues au 5° ;
+
+Le coefficient K est arrondi à deux décimales par défaut.
 
 3°) L représente selon le cas :
 
@@ -67,26 +76,26 @@ D. 542-28, et éventuellement ramenée au plafond mentionné à l'article D. 542
 
 4°) C représente une majoration forfaitaire au titre des charges ;
 
-5° Lo représente le loyer minimum. Ce loyer minimum est la part de loyer L tel
+5°) Lo représente le loyer minimum. Ce loyer minimum est la part de loyer L tel
 que défini au 3° qui doit rester à la charge de l'allocataire compte tenu des
 ressources du foyer définies aux articles D. 542-8 à D. 542-11 et de la
 composition de la famille. Ce loyer minimum est déterminé pour chaque intervalle
-de ressources de 100 Euros mentionné au 2°. Il est obtenu par l'application, à
-la limite supérieure de l'intervalle dans lequel se situent les ressources du
-foyer, de pourcentages fixés comme suit :
+de ressources de 100 Euros. Il est obtenu par l'application, à la limite
+supérieure de l'intervalle dans lequel se situent les ressources du foyer, de
+pourcentages fixés comme suit :
 
-0 % pour la tranche de ressources inférieure ou égale à 1 118,29 Euros ;
+0 % pour la tranche de ressources inférieure ou égale à 1 138,42 Euros ;
 
-3 % pour la tranche de ressources comprise entre 1 118,29 Euros et 1 609,13
+3 % pour la tranche de ressources comprise entre 1 138,42 Euros et 1 638,09
 Euros ;
 
-26 % pour la tranche de ressources comprise entre 1 609,13 Euros et 2 066,68
+26 % pour la tranche de ressources comprise entre 1 638,09 Euros et 2 103,88
 Euros ;
 
-29 % pour la tranche de ressources comprise entre 2 066,68 Euros et 3 218,11
+29 % pour la tranche de ressources comprise entre 2 103,88 Euros et 3 276,04
 Euros ;
 
-41 % pour la tranche de ressources supérieure à 3 218,11 Euros.
+41 % pour la tranche de ressources supérieure à 3 276,04 Euros.
 
 Les limites inférieures et supérieures de chacune de ces tranches sont affectées
 des coefficients (ou nombre de parts) ci-après :
@@ -104,4 +113,4 @@ des coefficients (ou nombre de parts) ci-après :
 Ce dernier coefficient est majoré de 0,5 par enfant ou par personne à charge
 supplémentaire.
 
-Le loyer minimum ainsi obtenu est majoré d'un montant égal à 74,97 euros.
+Le loyer minimum ainsi obtenu est majoré d'un montant égal à 76,32 euros.

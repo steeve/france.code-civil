@@ -28,9 +28,9 @@ pour la première fois par le bénéficiaire.
 Le loyer mensuel payé par les étudiants logés en résidence universitaire est
 réputé égal à :
 
-70,04 Euros lorsqu'il s'agit d'une personne isolée ;
+70,88 Euros lorsqu'il s'agit d'une personne isolée ;
 
-109,07 Euros lorsqu'il s'agit d'un ménage.
+110,38 Euros lorsqu'il s'agit d'un ménage.
 
 707 F pour la période du 1er juillet 2001 au 31 décembre 2001, et à 107,78 Euro
 à compter du 1er janvier 2002 lorsqu'il s'agit d'un ménage.
