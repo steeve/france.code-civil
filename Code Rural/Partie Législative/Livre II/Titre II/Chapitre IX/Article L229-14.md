@@ -9,7 +9,6 @@ Cette location est consentie, sur sa demande, pour toute la durée du bail,
 moyennant une indemnité calculée proportionnellement au prix de location de la
 chasse sur le ban communal.
 
-Si le propriétaire ne manifeste pas l'intention d'user de ce droit dans la
-huitaine qui suit le jour de l'adjudication définitive de la chasse sur le ban
-communal en adressant au maire une déclaration écrite, les terrains enclavés
-restent compris dans le lot communal de chasse.
+Si le propriétaire ne manifeste pas l'intention d'user de ce droit dans le délai
+fixé à l'article L. 229-12 en adressant au maire une déclaration écrite, les
+terrains enclavés restent compris dans le lot communal de chasse.
