@@ -1,7 +1,7 @@
 Article 524
 ----
-Les objets que le propriétaire d'un fonds y a placés pour le service et
-l'exploitation de ce fonds sont immeubles par destination.
+Les animaux et les objets que le propriétaire d'un fonds y a placés pour le
+service et l'exploitation de ce fonds sont immeubles par destination.
 
 Ainsi, sont immeubles par destination, quand ils ont été placés par le
 propriétaire pour le service et l'exploitation du fonds :
@@ -28,5 +28,5 @@ usines ;
 
 Les pailles et engrais.
 
-Sont aussi immeubles par destination, tous effets mobiliers que le propriétaire
-a attachés au fonds à perpétuelle demeure.
+Sont aussi immeubles par destination tous effets mobiliers que le propriétaire a
+attachés au fonds à perpétuelle demeure.
