@@ -32,6 +32,13 @@ du domicile du locataire ou celle de l'établissement d'affectation.
 Les dispositions du présent article ne sont applicables ni aux cyclomoteurs à
 trois roues non munis d'une carrosserie ni aux cyclomoteurs à deux roues.
 
+Les dispositions du présent article ne sont pas applicables aux machines
+agricoles automotrices et aux véhicules ou appareils agricoles remorqués,
+appartenant à une exploitation agricole, à une entreprise de travaux agricoles
+ou à une coopérative d'utilisation de matériel agricole, ainsi qu'aux véhicules
+ou appareils agricoles remorqués dont le poids total en charge est inférieur à
+1,5 tonne.
+
 Un arrêté du ministre chargé des transports, pris après avis du ministre de
 l'intérieur, fixe les conditions d'application du présent article.
 

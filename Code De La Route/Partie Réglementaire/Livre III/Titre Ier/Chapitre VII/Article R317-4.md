@@ -10,5 +10,6 @@ de travail dans les transports routiers, publics ou privés ;
 2° Lorsque le conducteur ne peut présenter les documents dûment renseignés
 concernant les conditions de travail dans les transports publics et privés ;
 
-3° Lorsque l'appareil de contrôle permettant l'enregistrement de la vitesse a
-été l'objet d'une modification affectant son fonctionnement normal.
+3° En l'absence d'appareil de contrôle permettant l'enregistrement de la vitesse
+ou lorsque celui-ci a fait l'objet d'une modification ou d'une détérioration
+affectant son fonctionnement normal.
