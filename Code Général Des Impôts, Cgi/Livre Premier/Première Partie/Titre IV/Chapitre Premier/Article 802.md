@@ -5,11 +5,10 @@ et légataires, leurs tuteurs, curateurs ou administrateurs légaux est terminé
 par une mention ainsi conçue :
 
 "... Le déclarant affirme sincère et véritable la présente déclaration ; il
-affirme, en outre, sous les peines édictées par l'article 8 de la loi du 18
-avril 1918 (art. 1837 du code général des Impôts), que cette déclaration
-comprend l'argent comptant, les créances et toutes autres valeurs mobilières
-françaises ou étrangères qui, à sa connaissance, appartenaient au défunt, soit
-en totalité, soit en partie".
+affirme, en outre, sous les peines édictées par l'article 1837 du code général
+des impôts, que cette déclaration comprend l'argent comptant, les créances et
+toutes autres valeurs mobilières françaises ou étrangères qui, à sa
+connaissance, appartenaient au défunt, soit en totalité, soit en partie".
 
 Lorsque le déclarant affirme ne savoir ou ne pouvoir signer, lecture de la
 mention prescrite à l'alinéa qui précède lui est donnée, ainsi que de l'article

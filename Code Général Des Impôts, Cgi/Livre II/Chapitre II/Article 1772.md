@@ -1,8 +1,8 @@
 Article 1772
 ----
 1. Sont passibles, indépendamment des sanctions fiscales édictées par le présent
-code, d'une amende de 3.600 F à 30.000 F et d'un emprisonnement d'un an à cinq
-ans ou de l'une de ces deux peines seulement :
+code, d'une amende de 30 000 F et d'un emprisonnement de cinq ans ou de l'une de
+ces deux peines seulement :
 
 1° Tout agent d'affaires, expert et toute autre personne qui fait profession,
 soit pour son compte, soit comme dirigeant ou agent salarié de société,
@@ -14,7 +14,7 @@ lesdits clients ;
 
 2° Quiconque, encaissant directement ou indirectement des revenus à l'étranger,
 ne les a pas mentionnés séparément dans sa déclaration conformément aux
-prescriptions des articles 170-2 et 173-2, lorsque la dissimulation est établie
+prescriptions du 2 des articles 170 et 173, lorsque la dissimulation est établie
 ;
 
 3° Quiconque est convaincu d'avoir encaissé sous son nom des coupons appartenant
@@ -28,7 +28,7 @@ des pièces fausses ou reconnues inexactes ;
 l'article L 111 du livre des procédures fiscales, tout ou partie des listes de
 contribuables visées audit article.
 
-2. Les personnes visées au 1-1° et 3° sont en outre, le cas échéant, tenues
+2. Les personnes visées aux 1° et 3° du 1 sont en outre, le cas échéant, tenues
 solidairement avec leurs clients au paiement des sommes, tant en principal qu'en
 pénalités et amendes, dont la constatation aurait été compromise par leurs
 manoeuvres.

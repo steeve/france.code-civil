@@ -5,10 +5,10 @@ pénale relatifs à la connexité des infractions, les poursuites en vue de
 l'application des sanctions pénales prévues à l'article 1741 du code général des
 impôts en cas de fraude fiscale sont portées devant le tribunal correctionnel
 dans le ressort duquel l'un quelconque des impôts en cause aurait dû être établi
-ou acquitté [*juridiction compétente*].
+ou acquitté.
 
 Dans le cas où une personne a commis l'une des infractions prévues aux articles
-1771 à 1779 du code général des impôts en matière d'impôts directs, les
+1771 à 1778 du code général des impôts en matière d'impôts directs, les
 poursuites sont portées devant le tribunal correctionnel dans le ressort duquel
 l'infraction a été commise.
 

@@ -1,17 +1,17 @@
 Article 945
 ----
 I. Nul ne peut pénétrer dans les salles où, conformément à la loi du 15 juin
-1907, les jeux de hasard sont autorisés, sans être muni d'une carte délivrée par
-le directeur de l'établissement et passible d'un droit de timbre (1) dont la
-quotité est fixée comme suit :
+1907 modifiée, les jeux de hasard sont autorisés, sans être muni d'une carte
+délivrée par le directeur de l'établissement et passible d'un droit de timbre
+(1) dont la quotité est fixée comme suit :
 
 65 F si l'entrée est valable pour la journée ;
 
 240 F si l'entrée est valable pour la semaine ;
 
-800 F si l'entrée est valable pour un mois ;
+600 F si l'entrée est valable pour un mois ;
 
-1.200 F [*montant*] si l'entrée est valable pour la saison (2).
+1.200 F si l'entrée est valable pour la saison (2).
 
 II. Les dispositions qui précèdent ne sont pas applicables aux cartes d'entrée
 dans les salles de jeux de boule ainsi que dans les salles où sont exploités des
