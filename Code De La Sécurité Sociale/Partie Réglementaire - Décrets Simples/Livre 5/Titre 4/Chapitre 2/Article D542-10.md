@@ -50,10 +50,10 @@ l'article L. 542-1.
 
 Cet abattement est fixé à [*montant*] :
 
-4 440 F pour les personnes seules assumant la charge d'un ou de deux enfants ou
+4 507 F pour les personnes seules assumant la charge d'un ou de deux enfants ou
 personnes au sens de l'article L. 542-1 ;
 
-6 658 F pour les personnes seules assumant la charge d'au moins trois enfants ou
+6 758 F pour les personnes seules assumant la charge d'au moins trois enfants ou
 personnes au sens de l'article L. 542-1.
 
 Lors de l'ouverture du droit ou en début de période de paiement, lorsque le
@@ -72,3 +72,17 @@ chargés du logement, du budget, de la sécurité sociale et de l'agriculture, l
 ressources du bénéficiaire et de son conjoint sont réputées égales à ce montant
 sauf lorsqu'il y a lieu d'appliquer les dispositions des articles R. 531-11 à R.
 531-13.
+
+A compter du 1er octobre 1994, pour les contrats de prêts signés postérieurement
+au 30 septembre 1994, si les ressources du bénéficiaire et de son conjoint
+appréciées au sens des alinéas 1 à 9 du présent article et des articles R.
+531-14 et D. 542-11 sont inférieures à un montant variable selon que
+l'allocation est accordée en application du 1°, 3° ou 4° de l'article D. 542-24
+ou en application du 2° dudit article, celles-ci sont réputées égales à ce
+montant, sauf lorsque, postérieurement à la date de signature du contrat de prêt
+et pendant la période d'accession en cours, il y a lieu d'appliquer les
+dispositions des articles R. 531-11 à R. 531-13.
+
+Les montants visés à l'alinéa précédent sont fixés par arrêté conjoint des
+ministres chargés de la sécurité sociale, du budget, de l'agriculture et du
+logement.
