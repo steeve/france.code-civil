@@ -21,4 +21,9 @@ si la coupe ou l'abattage n'ont pu être pratiqués au cours des années pour
 lesquelles l'autorisation a été donnée, être prolongée d'une année.
 
 Les coupes rases doivent être suivies dans les cinq ans de travaux de
-reboisement, à défaut de régénération naturelle.
+reboisement, à défaut de régénération naturelle [*delai*]. L'autorisation est
+publiée par voie d'affichage à la mairie pendant deux mois [*durée*]. Dans les
+zones urbaines, elle est en outre préalablement portée à la connaissance du
+public, [*publicité*] par apposition de la décision de l'autorité compétente sur
+un panneau implanté à la limite du terrain boisé concerné et visible d'une voie
+ouverte au public.

@@ -5,13 +5,14 @@ A. - Patrimoine naturel.
 a) Forêts.
 
 Servitudes de protection des forêts soumises au régime forestier et instituées
-en application des articles 98 à 103 du code forestier.
+en application des articles L. 151-1 à L. 151-6 du code forestier.
 
 Servitudes relatives aux forêts dites de protection instituées en application
-des articles 187 à 189 du code forestier.
+des articles L. 411-1 à L. 413-1 du code forestier.
 
 Prescriptions et interdictions auxquelles sont soumis les propriétaires en
-application des articles 199, 200, 205, 220 et 221 du code forestier.
+application des articles L. 421-1, L. 432-1, L. 432-2, L. 531-1 et L. 541-2 du
+code forestier.
 
 b) Littoral maritime.
 
@@ -49,6 +50,11 @@ loi n° 76-629 du 10 juillet 1976.
 Zones de protection des réserves naturelles en application de l'article 27 de la
 loi n° 76-629 du 10 juillet 1976.
 
+Périmètres de protection autour des réserves naturelles instituées en
+application de l'article 27 de la loi n° 76-629 du 10 juillet 1976 relative à la
+protection de la nature, tel qu'il a été complété par l'article 58-1 de la loi
+n° 83-663 du 22 juillet 1983.
+
 Parcs nationaux créés en application de la loi n° 60-708 du 22 juillet 1960.
 
 B. - Patrimoine culturel.
@@ -79,8 +85,13 @@ Sites classés ;
 Zones de protection des sites créées en application de l'article 17 de la loi du
 2 mai 1930 modifiée.
 
+c) patrimoine architectural et urbain.
+
+Zones de protection du patrimoine architectural et urbain instituées en
+application de l'article 70 de la loi n° 83-8 du 7 janvier 1983.
+
 C. - Patrimoine sportif.
 
-Terrains de sport dont le changement d'affectation est soumis à autorisation du
-ministre chargé des sports en application des dispositions de la loi du 26 mai
-1941, modifiée par la loi n. 75-988 du 29 octobre 1975.
+Terrains de sport dont le changement d'affectation est soumis à autorisation en
+application des dispositions de l'article 42 de la loi n° 84-610 du 16 juillet
+1984.
