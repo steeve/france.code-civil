@@ -10,15 +10,14 @@ criminelle.
 Les services de police et les unités de gendarmerie adressent aux services
 relevant de la direction centrale de la police judiciaire ou, lorsqu'ils entrent
 dans le domaine de compétence de l'office central mentionné au 8° de l'article
-D. 8-1, de la direction centrale du contrôle de l'immigration et de la lutte
-contre l'emploi des clandestins les renseignements relatifs à la délinquance et
-à la criminalité susceptibles d'être exploités dans un but de centralisation, de
-classification ou de diffusion (avis, fiches, statistiques).
+D. 8-1, de la direction centrale de la police aux frontières les renseignements
+relatifs à la délinquance et à la criminalité susceptibles d'être exploités dans
+un but de centralisation, de classification ou de diffusion (avis, fiches,
+statistiques).
 
-La direction centrale de la police judiciaire et la direction centrale du
-contrôle de l'immigration et de la lutte contre l'emploi des clandestins
-transmettent aux autres services de la police nationale ainsi qu'à la
-gendarmerie nationale par tout moyen, toutes indications utiles à
+La direction centrale de la police judiciaire et la direction centrale de la
+police aux frontières transmettent aux autres services de la police nationale
+ainsi qu'à la gendarmerie nationale par tout moyen, toutes indications utiles à
 l'identification ou à la recherche de malfaiteurs. Le service de police ou
 l'unité de gendarmerie qui est à l'origine d'une demande de diffusion doit
 figurer parmi les autorités à prévenir dès la découverte des individus

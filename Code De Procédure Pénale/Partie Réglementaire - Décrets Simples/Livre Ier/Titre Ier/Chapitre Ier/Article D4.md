@@ -1,11 +1,11 @@
 Article D4
 ----
 Le magistrat fait appel aux officiers de police judiciaire relevant de la
-direction centrale de la police judiciaire ou de la direction centrale du
-contrôle de l'immigration et de la lutte contre l'emploi des clandestins dans
-les cas de nécessité, en tenant compte des possibilités que procurent à
-l'officier de police judiciaire premier saisi sa rapidité d'intervention, ses
-sources d'information, sa connaissance de l'affaire et du milieu humain.
+direction centrale de la police judiciaire ou de la direction centrale de la
+police aux frontières dans les cas de nécessité, en tenant compte des
+possibilités que procurent à l'officier de police judiciaire premier saisi sa
+rapidité d'intervention, ses sources d'information, sa connaissance de l'affaire
+et du milieu humain.
 
 Le concours de ces officiers de police judiciaire peut se révéler indispensable
 lorsque la poursuite de l'enquête exige :
