@@ -1,7 +1,7 @@
 Article L980-1
 ----
-Tout jeune de dix-huit à vingt-cinq ans peut compléter sa formation initiale
-dans le cadre de formations alternées.
+Tout jeune de seize à vingt-cinq ans peut compléter sa formation initiale dans
+le cadre de formations alternées [*condition d'âge*].
 
 Elles ont pour objectif de permettre aux jeunes d'acquérir une qualification
 professionnelle, de s'adapter à un emploi ou à un type d'emploi ou de faciliter

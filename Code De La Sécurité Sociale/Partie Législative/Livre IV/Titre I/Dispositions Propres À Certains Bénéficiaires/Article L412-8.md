@@ -65,18 +65,21 @@ missions dans les conditions définies par décret ;
 8°) les personnes mentionnées à l'article 2 du décret-loi du 17 juin 1938
 relatif à la réorganisation et à l'unification du régime d'assurance des marins
 pour les accidents du travail et les maladies professionnelles survenus en
-dehors de l'exécution du contrat d'engagement maritime.
+dehors de l'exécution du contrat d'engagement maritime ; 9°) les salariés
+accomplissant un stage de formation dans les conditions prévues par les articles
+L. 236-10, L. 434-10 et L. 451-1 du code du travail, pour les accidents survenus
+par le fait ou à l'occasion de cette formation.
 
 Les dispositions de l'article L. 434-1 [*indemnité en capital*] du présent code
-ne sont pas applicables aux personnes mentionnées aux a. et b. du 2° ci-dessus.
+ne sont pas applicables aux personnes mentionnées aux a. et b. du 1° ci-dessus.
 
 Un décret précise, en tant que de besoin, les catégories d'élèves, d'étudiants
 et de stages ainsi que la nature des établissements mentionnés aux a. et b. du
-2° ci-dessus.
+1° ci-dessus.
 
 En ce qui concerne les personnes mentionnées aux 1°, 2° et 3° du présent article
 et non assujetties aux assurances sociales en vertu du livre III, le décret en
-Conseil d'Etat et, pour les personnes mentionnées aux 4°, 5°, 6° et 7°, les
+Conseil d'Etat et, pour les personnes mentionnées aux 4°, 5°, 6°, 7° et 9° des
 décrets prévus par ceux-ci, déterminent à qui incombent les obligations de
 l'employeur. Pour les personnes qui ne sont pas rémunérées ou ne reçoivent pas
 une rémunération normale, ils fixent les bases des cotisations et celles des

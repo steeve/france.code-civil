@@ -23,11 +23,12 @@ de l'interruption de travail, lorsque le travail n'est pas continu ou présente
 un caractère saisonnier.
 
 Pour l'application des dispositions qui précèdent, il est tenu compte du salaire
-dans la limite du plafond mentionné à l'article L. 241-3. Toutefois, lorsque
-l'assiette des cotisations fait l'objet d'un abattement par application des
-dispositions des articles R. 242-7 à R. 242-11, il est tenu compte du salaire
-brut perçu par l'assuré, sans abattement, dans la limite du plafond
-correspondant.
+servant de base, lors de chaque paie, au calcul de la cotisation due pour les
+risques maladie, maternité, invalidité et décès dans la limite du plafond
+mentionné à l'article L. 241-3. Toutefois, lorsque l'assiette des cotisations
+fait l'objet d'un abattement par application des dispositions des articles R.
+242-7 à R. 242-11, il est tenu compte du salaire brut perçu par l'assuré, sans
+abattement, dans la limite du plafond correspondant.
 
 Un arrêté du ministre chargé de la sécurité sociale fixe les modalités suivant
 lesquelles est déterminé le gain journalier servant de base au calcul des

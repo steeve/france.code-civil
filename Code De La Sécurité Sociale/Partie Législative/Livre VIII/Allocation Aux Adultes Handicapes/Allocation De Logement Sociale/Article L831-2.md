@@ -20,7 +20,9 @@ code du travail de se procurer un emploi ;
 activité salariée et qui occupent un logement indépendant des logements de leurs
 ascendants, selon des conditions fixées par décret en Conseil d'Etat.
 
-Cette allocation de logement ne peut se cumuler avec celle qui est prévue par
-l'article L. 542-1 [*allocation du logement familial*] du présent code, sous
-réserve des dispositions prévues au dernier alinéa de l'article L. 831-1
-ci-dessus.
+5°) les demandeurs d'emploi qui ne sont plus indemnisés au titre de l'allocation
+de base et qui satisfont aux conditions d'activité antérieure et de ressources
+prévues par le premier alinéa de l'article L. 351-10 du code du travail. Cette
+allocation de logement ne peut se cumuler avec celle qui est prévue par
+l'article L. 542-1 du présent code, sous réserve des dispositions prévues au
+dernier alinéa de l'article L. 831-1 ci-dessus.

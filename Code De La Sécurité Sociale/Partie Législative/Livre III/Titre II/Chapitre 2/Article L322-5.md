@@ -1,8 +1,15 @@
 Article L322-5
 ----
-Les frais de déplacement de l'assuré ou de ses ayants droit qui doivent quitter
-la commune où ils résident pour se rendre à la convocation du médecin-conseil ou
-se soumettre, soit à un contrôle, soit à un traitement prescrit dans les
-conditions prévues à l'article L. 324-1 sont à la charge [*financière*] de la
-caisse primaire. Le taux de ces frais et les modalités de remboursement sont
-déterminés par un arrêté ministériel.
+Les frais de transport sont pris en charge sur la base du trajet et du mode de
+transport les moins onéreux compatibles avec l'état du bénéficiaire [*montant du
+remboursement*].
+
+Les tarifs de responsabilité des caisses pour la prise en charge des frais de
+transport sont fixés par arrêté des ministres chargés de la sécurité sociale et
+du budget.
+
+Les conditions dans lesquelles l'assuré peut être dispensé de l'avance des frais
+[*éxonération, tiers payant*] sont déterminées par des conventions conclues
+entre les organismes d'assurance maladie et les entreprises de transport
+sanitaire, conformément à une convention type fixée par arrêté du ministre
+chargé de la sécurité sociale.
