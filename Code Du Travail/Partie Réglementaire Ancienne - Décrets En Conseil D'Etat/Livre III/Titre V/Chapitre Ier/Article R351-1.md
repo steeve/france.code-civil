@@ -1,8 +1,7 @@
 Article R351-1
 ----
-Les durées maximales [*d'indemnisation*] pendant lesquelles les allocations
-d'assurance mentionnées à l'article L. 351-3 sont servies ne peuvent être
-inférieures à :
+Les durées [*d'indemnisation*] pendant lesquelles les allocations d'assurance
+mentionnées à l'article L. 351-3 sont servies ne peuvent être inférieures à :
 
 a) Quatre mois pour les salariés justifiant d'une activité de quatre mois au
 cours des huit derniers mois précédant la fin du contrat de travail ;

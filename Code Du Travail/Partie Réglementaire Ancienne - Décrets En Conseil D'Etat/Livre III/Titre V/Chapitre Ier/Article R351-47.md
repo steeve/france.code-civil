@@ -19,7 +19,7 @@ condition d'activité antérieure énoncée au 1° de l'article R. 351-13, est �
 à quatre fois le montant de l'allocation journalière pour une période de 188
 jours ;
 
-4° L'aide versée aux personnes visées aux c et d de l'article R. 351-1 est égale
+4° L'aide versée aux personnes visées aux d et e de l'article R. 351-1 est égale
 à quatre fois le montant de l'allocation journalière pour une période de 250
 jours à compter du 91e jour d'activité ; cette période est réduite, le cas
 échéant, du nombre de jours écoulés entre la fin du troisième mois suivant

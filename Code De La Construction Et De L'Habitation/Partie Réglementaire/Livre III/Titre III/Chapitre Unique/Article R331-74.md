@@ -1,10 +1,15 @@
 Article R331-74
 ----
 Le taux d'intérêt des prêts conventionnés ne peut excéder un taux maximum qui
-résulte de l'addition :
+résulte de l'addition d'un taux de référence et d'une marge, variable en
+fonction des caractéristiques du prêt.
 
-- d'un taux de référence, déterminé trimestriellement par le Crédit foncier de
-France, selon des modalités définies par la convention type prévue à l'article
-R. 331-65 ;
+Les modalités de détermination et de révision du taux de référence et le niveau
+de la marge sont fixés par arrêté du ministre chargé de l'économie.
 
-- et d'une marge fixée par cette même convention.
+Toutefois, le niveau de la marge des prêts conventionnés bénéficiant de la
+garantie de l'Etat mentionnée au troisième alinéa de l'article L. 312-1 est fixé
+par arrêté conjoint du ministre chargé de l'économie et des finances et du
+ministre chargé du logement.
+
+Le taux de référence est publié par le Crédit foncier de France.
