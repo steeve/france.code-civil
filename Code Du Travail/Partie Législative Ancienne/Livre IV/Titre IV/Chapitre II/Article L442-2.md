@@ -1,15 +1,16 @@
 Article L442-2
 ----
-Dans les entreprises mentionnées à l'article L. 441-7, une réserve spéciale de
+Dans les entreprises mentionnées à l'article L. 442-1, une réserve spéciale de
 participation des salariés doit être constituée comme suit :
 
 1. Les sommes affectées à cette réserve spéciale sont, après clôture des comptes
 de l'exercice, calculées sur le bénéfice réalisé en France métropolitaine et
 dans les départements d'outre-mer, tel qu'il est retenu pour être imposé au taux
-de droit commun de l'impôt sur les sociétés ou de l'impôt sur le revenu. Ce
-bénéfice est diminué de l'impôt correspondant qui, pour les entreprises soumises
-à l'impôt sur le revenu, est déterminé dans les conditions fixées par décret en
-Conseil d'Etat ;
+de droit commun de l'impôt sur le revenu ou aux taux de l'impôt sur les sociétés
+prévus au deuxième alinéa et au f, du I de l'article 219 du code général des
+impôts. Ce bénéfice est diminué de l'impôt correspondant qui, pour les
+entreprises soumises à l'impôt sur le revenu, est déterminé dans les conditions
+fixées par décret en Conseil d'Etat ;
 
 2. Une déduction représentant la rémunération au taux de 5 p. 100 des capitaux
 propres de l'entreprise est opérée sur le bénéfice net ainsi défini ;
@@ -29,6 +30,6 @@ Un décret en Conseil d'Etat précise la définition des éléments mentionnés 
 présent article, notamment le mode de calcul, éventuellement forfaitaire, de la
 réduction opérée au titre de l'impôt sur le revenu ainsi que les modalités
 suivant lesquelles sont appréciés les effectifs des entreprises pour
-l'application de l'article L. 441-7. Il fixe également les conditions dans
+l'application de l'article L. 442-1. Il fixe également les conditions dans
 lesquelles le présent chapitre est appliqué aux sociétés mères et aux sociétés
 filiales.

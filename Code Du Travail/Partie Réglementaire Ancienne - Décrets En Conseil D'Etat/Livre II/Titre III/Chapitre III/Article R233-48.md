@@ -1,8 +1,6 @@
 Article R233-48
 ----
-Lorsque l'exécution de la mise en demeure comporte la création d'installations
-nouvelles et non pas seulement l'utilisation d'installations existantes
-[*condition*] le délai minimum prévu à l'article précédent est porté à :
-
-Quinze jours pour les mises en demeure fondées sur les dispositions de l'article
-R. 233-3 (alinéas 1 et 3).
+Les articles R. 233-1, R. 233-1-1, R. 233-1-3, R. 233-4, R. 233-5, R. 233-11, R.
+233-11-1, R. 233-11-2, R. 233-13, R. 233-42-1 (alinéa 2) et R. 233-42-2 sont
+applicables aux travailleurs indépendants et aux employeurs mentionnés à
+l'article L. 235-18.

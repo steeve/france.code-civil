@@ -1,9 +1,6 @@
 Article 722-1
 ----
-L'article 131-23 est rédigé comme suit :
+Le 7° de l'article 132-45 est ainsi rédigé :
 
-" Art. 131-23. - Le travail d'intérêt général est soumis aux prescriptions
-législatives et réglementaires applicables localement relatives au travail de
-nuit, à l'hygiène, à la sécurité ainsi qu'au travail des femmes et des jeunes
-travailleurs. Le travail d'intérêt général peut se cumuler avec l'exercice de
-l'activité professionnelle. "
+" 7° S'abstenir de conduire certains véhicules terrestres pour la conduite
+desquels un permis est nécessaire. "

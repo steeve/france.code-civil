@@ -10,4 +10,14 @@ carburants utilisés par les commerçants sédentaires dont le principal
 réalisent une partie de leur chiffre d'affaires par des ventes ambulantes est
 remboursée dans la limite de 1.500 litres par an et par entreprise.
 
-Les modalités d'application de cette mesure sont fixées par décret.
+A compter du 1er janvier 1997, la taxe intérieure de consommation sur le gaz
+naturel véhicules et la taxe intérieure sur les produits pétroliers pour le gaz
+de pétrole liquéfié carburant sont remboursées aux exploitants de réseaux de
+transport public en commun de voyageurs, dans la limite de 12 000 litres par
+véhicule et par an.
+
+A compter du 1er janvier 1997, la limite visée au premier alinéa est fixée à 6
+500 litres pour le gaz naturel véhicules et la taxe intérieure sur les produits
+pétroliers pour le gaz de pétrole liquéfié carburant.
+
+Les modalités d'application de ces mesures sont fixées par décret.

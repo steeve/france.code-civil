@@ -12,9 +12,12 @@ services dans les conditions prévues à l'article R.* 515-9, ainsi que, dans ce
 sociétés, les associés et les tiers qui ont le pouvoir de gérer ou
 d'administrer.
 
-2° Les personnes physiques titulaires d'un mandat d'agent général d'assurances
-ou chargées à titre provisoire, pour une période de deux ans au plus non
-renouvelable, des fonctions d'agent général d'assurances ;
+2° Les personnes physiques et sociétés anonymes, sociétés en commandite par
+actions ou sociétés à responsabilité limitée, titulaires d'un mandat d'agent
+général d'assurances et, dans ces sociétés, les associés et les tiers qui ont le
+pouvoir de gérer ou d'administrer ; les mêmes personnes physiques ou morales
+peuvent être chargées à titre provisoire, pour une période de deux ans au plus
+non renouvelable, des fonctions d'agent général d'assurances ;
 
 3° Les personnes physiques salariées commises à cet effet :
 
@@ -22,7 +25,7 @@ a) Soit par une entreprise mentionnée à l'article L. 310-1 ;
 
 b) Soit par une personne ou société mentionnée au 1° ci-dessus ;
 
-c) Soit une personne mentionnée au 2° ci-dessus ;
+c) Soit une personne physique ou morale mentionnée au 2° ci-dessus ;
 
 4° Les personnes physiques non-salariées, autres que les agents généraux
 d'assurances, et mandatées à cet effet par une entreprise, société ou personne

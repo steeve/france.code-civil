@@ -1,6 +1,7 @@
 Article L2213-2
 ----
-- Le maire peut, par arrêté motivé, eu égard aux nécessités de la circulation :
+Le maire peut, par arrêté motivé, eu égard aux nécessités de la circulation et
+de la protection de l'environnement :
 
 1° Interdire à certaines heures l'accès de certaines voies de l'agglomération ou
 de certaines portions de voie ou réserver cet accès, à certaines heures, à

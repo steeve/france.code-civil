@@ -34,6 +34,11 @@ invalidité, de la législation des accidents du travail ou d'un régime spécia
 sécurité sociale ou de l'article L. 18 du code des pensions militaires
 d'invalidité et des victimes de guerre.
 
+d) Des personnes titulaires de la prestation spécifique dépendance visée à
+l'article 2 de la loi n° 97-60 du 24 janvier 1997 tendant à mieux répondre aux
+besoins des personnes âgées par l'institution d'une prestation spécifique
+dépendance.
+
 L'exonération est accordée sur la demande des intéressés par l'organisme chargé
 du recouvrement des cotisations dans les conditions fixées par arrêté
 ministériel.

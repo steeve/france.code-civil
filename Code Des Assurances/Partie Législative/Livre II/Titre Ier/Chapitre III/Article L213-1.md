@@ -13,10 +13,6 @@ l'assurance obligatoire en matière de circulation de véhicules terrestres à
 moteur instituée par l'article L. 211-1. Elle est recouvrée par les entreprises
 d'assurance, dans les mêmes conditions et en même temps que ces primes.
 
-Les employeurs dispensés de l'obligation d'assurance en vertu de l'article L.
-211-3 versent une cotisation forfaitaire calculée selon des modalités fixées par
-décret en Conseil d'Etat.
-
 Il appartient aux personnes physiques ou morales qui ne cotisent pas soit en
 qualité d'employeur, soit en qualité d'affilié à un régime obligatoire
 d'assurance maladie ou qui ne bénéficient pas d'un tel régime en qualité

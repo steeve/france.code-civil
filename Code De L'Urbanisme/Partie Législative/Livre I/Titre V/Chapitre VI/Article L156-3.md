@@ -1,14 +1,30 @@
 Article L156-3
 ----
-Dans les parties actuellement urbanisées de la commune :
+I. - Les terrains situés dans les parties actuellement urbanisées de la commune
+comprises dans la bande littorale définie à l'article L. 156-2 sont préservés
+lorsqu'ils sont à l'usage de plages, d'espaces boisés, de parcs ou de jardins
+publics. Il en est de même des espaces restés naturels situés dans les parties
+actuellement urbanisées de la bande littorale précitée, sauf si un intérêt
+public exposé au plan d'occupation des sols justifie une autre affectation.
 
-1° Les terrains compris dans la bande littorale définie à l'article L. 156-2
-sont préservés lorsqu'ils sont à usage de plages, d'espaces boisés, de parcs ou
-de jardins publics. Il en est de même des parties restées naturelles de la zone
-sauf si un intérêt public exposé au plan d'occupation des sols justifie une
-autre affectation ; 2° Les secteurs de la zone des cinquante pas géomètriques
-situés au droit des parties actuellement urbanisées peuvent, dès lors qu'ils
-sont déjà équipés ou occupés à la date de promulgation de la loi n° 86-2 du 3
-janvier 1986 précitée, être délimités par le plan d'occupation des sols pour
-être affectés à des services publics, à des activités exigeant la proximité
-immédiate de la mer ou à des opérations de résorption de l'habitat insalubre.
+II. - Les secteurs de la zone dite des cinquante pas géométriques situés dans
+les parties actuellement urbanisées de la commune ou au droit de ces parties
+peuvent, dès lors qu'ils sont déjà équipés ou occupés à la date de publication
+de la loi n° 96-1241 du 30 décembre 1996 relative à l'aménagement, la protection
+et la mise en valeur de la zone dite des cinquante pas géométriques dans les
+départements d'outre-mer et sous réserve de la préservation des plages, des
+espaces boisés, des parcs ou des jardins publics, être délimités par le plan
+d'occupation des sols pour être affectés à des services publics, des équipements
+collectifs, des opérations de réaménagement de quartier, de logement à caractère
+social et de résorption de l'habitat insalubre, des commerces, des structures
+artisanales, des équipements touristiques et hôteliers ainsi qu'à toute autre
+activité économique dont la localisation à proximité de la mer est justifiée par
+son usage ou par une nécessité économique de desserte par voie maritime. Des
+mesures compensatoires devront alors être mises en oeuvre permettant le maintien
+de l'équilibre du milieu marin et terrestre.
+
+Ces installations organisent ou préservent l'accès et la libre circulation le
+long du rivage.
+
+III. - Sont autorisées, dans les secteurs visés au II ci-dessus, l'adaptation,
+la réfection et l'extension limitée des constructions existantes.

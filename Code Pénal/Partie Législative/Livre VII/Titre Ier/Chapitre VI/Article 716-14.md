@@ -11,6 +11,6 @@ moins deux ans et ayant préalablement consenti au transfert des embryons ou à
 l'insémination artificielle.
 
 " Est puni des mêmes peines le fait de procéder à des activités d'assistance
-médicale en vue d'un objet autre que de remédier à une infertilité dont le
-caractère pathologique a été médicalement diagnostiqué ou d'éviter la
-transmission à un enfant d'une maladie d'une particulière gravité. "
+médicale à la procréation en vue d'un objet autre que de remédier à une
+infertilité dont le caractère pathologique a été médicalement diagnostiqué ou
+d'éviter la transmission à un enfant d'une maladie d'une particulière gravité. "

@@ -1,9 +1,8 @@
 Article R513-1
 ----
-Les courtiers d'assurances, les associés ou tiers qui, dans une société de
-courtage d'assurances, ont le pouvoir de gérer ou d'administrer et les agents
-généraux d'assurances doivent justifier préalablement à leur entrée en fonctions
-:
+Les courtiers d'assurances, les agents généraux d'assurances et les associés ou
+tiers mentionnés au 1° et au 2° de l'article R. 511-2 doivent justifier
+préalablement à leur entrée en fonctions :
 
 a) Soit de la possession d'un diplôme mentionné sur une liste fixée par arrêté
 pris par le ministre de l'économie, des finances et du budget, le ministre de
@@ -13,13 +12,13 @@ professionnel ;
 
 b) Soit de l'exercice à temps complet, pendant deux ans au moins, dans les
 services intérieurs ou extérieurs d'une entreprise mentionnée à l'article L.
-310-1, d'un courtier ou d'une société de courtage d'assurances ou d'un agent
-général d'assurances ou d'un agent d'assurances ou d'une société mentionnés au
-dernier alinéa du présent article, de fonctions relatives à la production ou à
-l'application de contrats d'assurance ou de capitalisation ainsi que de
-l'accomplissement d'un stage professionnel soit de l'exercice à temps complet
-pendant un an au moins, en qualité de cadre ou de dirigeant, dans ces mêmes
-entreprises.
+310-1, d'un courtier ou d'une société de courtage d'assurances d'une personne
+physique ou société titulaire d'un mandat d'agent général d'assurances ou d'un
+agent d'assurances ou d'une société mentionnés au dernier alinéa du présent
+article, de fonctions relatives à la production ou à l'application de contrats
+d'assurance ou de capitalisation ainsi que de l'accomplissement d'un stage
+professionnel soit de l'exercice à temps complet pendant un an au moins, en
+qualité de cadre ou de dirigeant, dans ces mêmes entreprises.
 
 c) Soit de l'exercice, pendant deux ans au moins, en qualité de cadre ou de chef
 d'entreprise, de fonctions de responsabilité dans une entreprise industrielle ou

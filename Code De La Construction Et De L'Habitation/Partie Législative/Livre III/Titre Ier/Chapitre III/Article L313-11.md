@@ -5,4 +5,4 @@ l'Etat, pour un quart de représentants des organisations d'employeurs
 représentatives au plan national, pour un quart de représentants des
 organisations de salariés représentatives au plan national et pour un quart de
 représentants des associations mentionnées à l'article L. 313-7 et organismes
-mentionnés au premier alinéa de l'article L. 313-7-1.
+mentionnés au premier alinéa de l'article L. 313-16.

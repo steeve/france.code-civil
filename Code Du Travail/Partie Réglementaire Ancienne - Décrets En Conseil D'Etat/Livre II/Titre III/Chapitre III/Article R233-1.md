@@ -27,3 +27,10 @@ utilisation effective. Les équipements de protection individuelle et les
 vêtements de travail mis à la disposition des travailleurs conformément aux
 dispositions du présent titre ne constituent pas des avantages en nature au sens
 de l'article L. 223-13.
+
+Les travailleurs indépendants et les employeurs mentionnés à l'article L. 235-18
+doivent utiliser des équipements de travail et des équipements de protection
+individuelle appropriés ou convenablement adaptés, choisis en fonction des
+conditions et des caractéristiques particulières du travail. En tant que de
+besoin, ils doivent mettre en oeuvre les mesures définies aux alinéas 3 et 4
+ci-dessus.

@@ -3,7 +3,7 @@ Article L313-10
 L'Agence nationale gère un fonds de garantie dont les règles d'intervention sont
 définies par arrêté conjoint des ministres intéressés, afin de faciliter la
 bonne fin des opérations engagées par les associations mentionnées à l'article
-L. 313-7 et organismes mentionnés au premier alinéa de l'article L. 313-7-1.
+L. 313-7 et organismes mentionnés au premier alinéa de l'article L. 313-16.
 
 Le fonds de garantie est alimenté par un prélèvement annuel opéré sur les fonds
 collectés par ces associations et organismes et dont le montant est déterminé
