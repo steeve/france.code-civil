@@ -29,9 +29,10 @@ de l'allocataire et du bailleur ou du prêteur :
 
 - en cas de location, au bailleur du logement,
 
-- dans les autres cas, au prêteur,
+- dans les autres cas, au prêteur.
 
-dans des conditions fixées par décret.
+Cette modalité de versement ne peut être modifiée qu'avec l'accord de
+l'allocataire et, selon le cas, du bailleur ou du prêteur.
 
 A la suite du non-paiement des loyers ou du non-remboursement de la dette
 contractée en vue d'accéder à la propriété, pendant une période déterminée,

@@ -34,6 +34,15 @@ outre :
 - pour le compte de l'Etat, des collectivités locales ou des établissements
 publics, réaliser et assurer l'entretien des constructions liées à l'habitat ;
 
+- réaliser pour le compte d'autres organismes d'habitations à loyer modéré des
+prestations de services pour des missions rentrant dans l'objet social et la
+compétence territoriale desdits organismes et des organismes prestataires ;
+
+- avec l'accord du maire de la commune d'implantation et du représentant de
+l'Etat dans le département, gérer, en qualité d'administrateurs de biens, des
+logements situés dans des copropriétés connaissant des difficultés importantes
+de fonctionnement ou être syndics de ces copropriétés.
+
 - réaliser des hébergements de loisirs à vocation sociale, en assurant, le cas
 échéant, l'ensemble des tâches incombant au maître d'ouvrage. Un décret en
 Conseil d'Etat définit les conditions de financement de ces hébergements et la
