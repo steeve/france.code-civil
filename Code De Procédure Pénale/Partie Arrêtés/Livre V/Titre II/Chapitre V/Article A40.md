@@ -38,7 +38,7 @@ Le président de la Cour de justice de la République ;
 Les premiers présidents des cours d'appel et les procureurs généraux près les
 cours d'appel ;
 
-Les présidents de chambre d'accusation ;
+Les présidents de chambre de l'instruction ;
 
 Les présidents des tribunaux de grande instance et les procureurs de la
 République près les tribunaux de grande instance ;

@@ -7,7 +7,7 @@ greffier des indemnités pour frais de voyage et de séjour nécessités :
 police, dans les cas prévus par le Code de procédure pénale ou par des lois
 spéciales ;
 
-2° Par les transports du président de la chambre d'accusation à l'effet de
+2° Par les transports du président de la chambre de l'instruction à l'effet de
 s'assurer du bon fonctionnement des cabinets d'instruction du ressort de la cour
 d'appel, conformément aux dispositions de l'article 220 ;
 

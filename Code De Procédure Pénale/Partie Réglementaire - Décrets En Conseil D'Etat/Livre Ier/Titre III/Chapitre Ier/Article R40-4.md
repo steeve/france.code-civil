@@ -1,8 +1,7 @@
 Article R40-4
 ----
 Les décisions du premier président de la cour d'appel peuvent faire l'objet d'un
-recours devant la Commission nationale d'indemnisation des détentions
-provisoires de la part :
+recours devant la Commission nationale de réparation des détentions de la part :
 
 1° Du demandeur ;
 

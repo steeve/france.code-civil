@@ -11,7 +11,7 @@ pénale est remplacée par une référence aux dispositions de procédure pénal
 applicables localement ;
 
 2° Pour l'application de l'article R. 212-5, la chambre des appels
-correctionnels ou la chambre d'accusation assure avec la chambre civile le
+correctionnels ou la chambre de l'instruction assure avec la chambre civile le
 service des audiences solennelles ;
 
 3° Pour l'application de l'article R. 212-7, la référence au nouveau code de

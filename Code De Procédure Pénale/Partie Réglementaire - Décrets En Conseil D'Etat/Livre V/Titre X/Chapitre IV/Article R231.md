@@ -7,7 +7,7 @@ Ce recours est porté devant la juridiction d'appel au cas où la décision qui
 contient la liquidation peut être entreprise par cette voie.
 
 Dans le cas où la décision qui contient la liquidation des dépens n'est pas
-susceptible d'appel, le recours est porté devant la chambre d'accusation.
+susceptible d'appel, le recours est porté devant la chambre de l'instruction.
 
 Le recours est formé au greffe de la juridiction qui a rendu la décision, selon
 les règles et dans le délai qui sont, suivant le cas, ceux de l'appel ou du

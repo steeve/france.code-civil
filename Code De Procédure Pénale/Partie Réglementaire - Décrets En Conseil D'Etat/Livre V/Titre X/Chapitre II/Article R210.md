@@ -4,8 +4,8 @@ Les seules impressions qui doivent être payées à titre de frais de justice so
 :
 
 1° Celle des publications ou insertions de communiqué, relatives à des décisions
-de non-lieu, qui sont ordonnées par le juge d'instruction ou la chambre
-d'accusation en application des articles 177-1 et 212-1 ;
+de non-lieu, qui sont ordonnées par le juge d'instruction ou la chambre de
+l'instruction en application des articles 177-1 et 212-1 ;
 
 2° Celles des signalements individuels de personnes arrêtées dans les cas
 exceptionnels où l'envoi de ces signalements aurait été reconnu indispensable ;

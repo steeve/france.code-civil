@@ -10,6 +10,6 @@ nécessaire à des vérifications de toute nature sur les éléments de l'estima
 présentée par l'expert.
 
 S'il n'est pas tenu compte de ses observations, le ministère public peut saisir,
-par l'intermédiaire du procureur général, le président de la chambre
-d'accusation, qui statue dans les huit jours par une décision qui ne peut faire
+par l'intermédiaire du procureur général, le président de la chambre de
+l'instruction, qui statue dans les huit jours par une décision qui ne peut faire
 l'objet de recours.

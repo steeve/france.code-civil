@@ -3,7 +3,7 @@ Article R15-35
 La personne physique ou morale, selon qu'elle désire être habilitée à procéder à
 des enquêtes de personnalité dans le ressort du tribunal de grande instance ou
 dans celui de la cour d'appel, en fait la demande au moyen des juges
-d'instruction ou au président de la chambre d'accusation.
+d'instruction ou au président de la chambre de l'instruction.
 
 La demande présentée par une association comporte notamment :
 

@@ -17,5 +17,5 @@ activités judiciaires de l'intéressé ;
 
 4° Les notations annuelles établies en application des dispositions ci-après.
 
-Le dossier est communiqué à la chambre d'accusation lorsque celle-ci se trouve
-saisie dans les conditions fixées à l'article 225.
+Le dossier est communiqué à la chambre de l'instruction lorsque celle-ci se
+trouve saisie dans les conditions fixées à l'article 225.

@@ -8,3 +8,6 @@ demande d'avis de réception.
 
 Une copie de la décision est remise au procureur général près la Cour de
 cassation.
+
+Une copie de la décision est en outre adressée, au ministère de la justice, à la
+commission de suivi de la détention provisoire.

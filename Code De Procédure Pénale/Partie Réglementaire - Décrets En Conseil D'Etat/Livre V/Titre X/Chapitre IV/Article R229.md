@@ -1,7 +1,7 @@
 Article R229
 ----
-Un recours contre l'ordonnance de taxe peut être formé devant la chambre
-d'accusation par le ministère public, à la demande du comptable assignataire,
+Un recours contre l'ordonnance de taxe peut être formé devant la chambre de
+l'instruction par le ministère public, à la demande du comptable assignataire,
 dans un délai d'un mois à compter du versement de la pièce de dépense par le
 régisseur entre les mains de ce comptable.
 

@@ -6,7 +6,7 @@ requête signée du demandeur ou d'un des mandataires mentionnés au premier ali
 de l'article R. 27 et remise contre récépissé ou adressée par lettre recommandée
 avec demande d'avis de réception au greffe de la cour d'appel.
 
-La requête contient l'exposé des faits, le montant de l'indemnité demandée et
+La requête contient l'exposé des faits, le montant de la réparation demandée et
 toutes indications utiles, notamment en ce qui concerne :
 
 1° La date et la nature de la décision qui a ordonné la détention provisoire
@@ -23,4 +23,5 @@ copie de la décision de non-lieu, de relaxe ou d'acquittement.
 Le délai de six mois prévu à l'article 149-2 ne court à compter de la décision
 de non-lieu, de relaxe ou d'acquittement devenue définitive que si, lors de la
 notification de cette décision, la personne a été avisée de son droit de
-demander une indemnisation ainsi que des dispositions de l'article 149-1.
+demander une réparation ainsi que des dispositions de l'article 149-1, 149-2 et
+149-3 (premier alinéa).

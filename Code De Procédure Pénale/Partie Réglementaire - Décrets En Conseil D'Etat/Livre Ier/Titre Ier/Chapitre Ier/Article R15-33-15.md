@@ -7,5 +7,5 @@ notation qu'il transmet chaque année au procureur général près la cour d'app
 de Paris.
 
 Celui-ci établit la notation après avoir recueilli, le cas échéant, les
-observations des présidents de la chambre d'accusation de Paris et des autres
-procureurs généraux concernés.
+observations des présidents de la chambre de l'instruction de Paris et des
+autres procureurs généraux concernés.

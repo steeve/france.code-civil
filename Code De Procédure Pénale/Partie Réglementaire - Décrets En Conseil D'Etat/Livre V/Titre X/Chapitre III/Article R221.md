@@ -8,7 +8,7 @@ La partie condamnée aux dépens peut former un recours contre la disposition de
 la décision relative à la liquidation de ces frais. A défaut d'appel sur le
 fond, le recours, motivé, est formé au greffe de la juridiction dont émane la
 décision, dans le mois de la notification de cette décision. Il est porté devant
-la chambre d'accusation.
+la chambre de l'instruction.
 
 En l'absence de condamnation aux dépens, les frais d'enquête sociale sont
 recouvrés contre la partie désignée par le juge qui a ordonné l'enquête.
