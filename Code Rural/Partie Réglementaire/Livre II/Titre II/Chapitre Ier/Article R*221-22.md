@@ -22,9 +22,13 @@ d'annulation. Si la décision ministérielle n'intervient pas dans le délai d'u
 mois à compter de la date à laquelle le ministre a été saisi, la décision du
 conseil d'administration prend son entier effet.
 
-Les délibérations relatives au règlement intérieur, au budget, au compte
-financier, aux emprunts, aux acquisitions et aliénations de biens immobiliers ne
-sont exécutoires que si elles ont été approuvées par arrêté concerté du ministre
-chargé de la chasse et du ministre de l'économie, des finances et du budget.
-Toutefois, ces ministres peuvent exempter d'approbation certaines catégories de
-délibérations.
+Les délibérations portant sur le budget et ses modifications ainsi que sur le
+compte financier sont approuvées par le ministre chargé de la chasse et le
+ministre chargé du budget dans les conditions déterminées par le décret n°
+99-575 du 8 juillet 1999 relatif aux modalités d'approbation de certaines
+décisions financières des établissements publics sous tutelle de l'Etat.
+
+Les délibérations mentionnées aux 6°, 8°, 11° et 13° de l'article R. 221-15
+deviennent exécutoires de plein droit si le ministre chargé de la chasse ou le
+ministre chargé du budget n'y font pas opposition dans le mois qui suit la
+réception par eux du procès-verbal de la séance.

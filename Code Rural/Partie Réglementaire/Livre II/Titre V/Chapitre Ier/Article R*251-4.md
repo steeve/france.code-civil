@@ -18,7 +18,8 @@ La mer ;
 
 b) Le directeur général de l'Office national des forêts ;
 
-c) Le directeur de l'Office national de la chasse ;
+c) Le directeur général de l'Office national de la chasse et de la faune sauvage
+;
 
 d) Le directeur du Muséum national d'histoire naturelle ;
 
