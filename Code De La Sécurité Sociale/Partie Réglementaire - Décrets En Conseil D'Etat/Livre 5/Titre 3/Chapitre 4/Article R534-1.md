@@ -1,6 +1,6 @@
 Article R534-1
 ----
-Une déclaration de grossesse doit être produite dans les quinze premières
+Une déclaration de grossesse doit être produite dans les quatorze premières
 semaines de la grossesse .
 
 La déclaration de grossesse est faite :
