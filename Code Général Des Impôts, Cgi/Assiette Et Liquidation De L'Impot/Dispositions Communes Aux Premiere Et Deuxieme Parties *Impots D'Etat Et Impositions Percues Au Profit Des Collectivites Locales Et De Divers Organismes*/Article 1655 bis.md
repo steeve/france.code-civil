@@ -4,11 +4,11 @@ I. A condition d'être préalablement agréées par arrêté du ministre de l'é
 et des finances, les sociétés anonymes, en commandite par actions ou à
 responsabilité limitée ayant pour objet la recherche et l'exploitation minière
 dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la
-Réunion peuvent bénéficier, dans ces départements, pendant une période maximale
-de vingt-cinq ans, majorée, le cas échéant, dans la limite de cinq ans, des
-délais normaux d'installation, d'un régime fiscal de longue durée qui comporte
-uniquement et à l'exclusion de tous autres impôts, taxes, redevances présents et
-futurs :
+Réunion [*DOM*] peuvent bénéficier, dans ces départements, pendant une période
+maximale de vingt-cinq ans, majorée, le cas échéant, dans la limite de cinq ans,
+des délais normaux d'installation, d'un régime fiscal de longue durée qui
+comporte uniquement et à l'exclusion de tous autres impôts, taxes, redevances
+présents et futurs :
 
 1° Le paiement, dans les conditions de droit commun, des droits
 d'enregistrement, de timbre et de la taxe de publicité foncière ;
@@ -39,11 +39,12 @@ collectivités locales sont fixés, pour toute la durée d'application du régim
 par l'arrêté prononçant l'agrément de la société.
 
 II. Les demandes d'agrément doivent indiquer de façon précise l'objet de la
-société et son programme d'équipement. Elles doivent être présentées avant le 31
-décembre 1980 au ministre de l'économie et des finances qui les soumet, pour
-avis, à la commission centrale mentionnée à l'article 121 V ter de l'annexe IV
-au présent code, laquelle s'adjoint, pour la circonstance, le directeur général
-des douanes et des droits indirects ou son représentant.
+société et son programme d'équipement [*mentions obligatoires*]. Elles doivent
+être présentées avant le 31 décembre 1981 [*date limite*] au ministre de
+l'économie et des finances qui les soumet, pour avis, à la commission centrale
+mentionnée à l'article 121 V ter de l'annexe IV au présent code, laquelle
+s'adjoint, pour la circonstance, le directeur général des douanes et des droits
+indirects ou son représentant.
 
 L'arrêté d'agrément définit :
 
@@ -56,7 +57,7 @@ celle-ci devant être déterminée dans les limites fixées au I ;
 3° Le tarif et les modalités du paiement de la redevance visée au I et de la
 répartition de son produit entre l'Etat et les collectivités locales.
 
-III. Toute société agréée peut demander à être replacée sous le régime de droit
+III. Toute société agréée peut demander à être remplacée sous le régime de droit
 commun. Ce régime est applicable à partir d'une date fixée par arrêté du
 ministre de l'économie et des finances.
 
@@ -74,4 +75,4 @@ comportant l'exécution d'un programme d'investissement dont le montant minimal
 est fixé par arrêté du ministre de l'économie et des finances (1). Toutefois,
 ces sociétés ne sont pas soumises à la redevance spéciale visée au I-5°.
 
-1) Annexe IV, art. 121 V undecies.
+(1) Annexe IV, art. 121 V undecies.

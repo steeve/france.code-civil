@@ -1,6 +1,6 @@
 Article 928
 ----
-Est fixé à 0,50 F [*montant*], y compris le droit de la décharge donnée par le
+Est fixé à 1 F [*montant*] y compris le droit de la décharge donnée par le
 destinataire, et pour chacun des transports effectués en grande ou en petite
 vitesse, le droit de timbre des récépissés, bulletins d'expédition ou autres
 pièces en tenant lieu, délivrés par les administrations des voies ferrées

@@ -15,15 +15,15 @@ immatriculés au répertoire des métiers.
 
 Cette taxe comprend :
 
-- un droit fixe par ressortissant, dont le maximum fixé à 168 F (2) est
+- un droit fixe par ressortissant, dont le maximum fixé à 240 F (2) est
 révisable lors du vote de chaque loi de finances et peut donner lieu à
 dépassement dans la limite de 40 % de son montant en vue de financer des actions
-de formation continue;
+de formation continue ;
 
 - un droit additionnel à la taxe professionnelle, dont le produit est arrêté par
-les chambres de métiers sans pouvoir excéder 50 % de celui du droit fixe, et
-sans que puisse être pris en compte pour son calcul le dépassement prévu
-ci-dessus.
+les chambres de métiers sans pouvoir excéder 50 % [*pourcentage*] de celui du
+droit fixe, et sans que puisse être pris en compte pour son calcul le
+dépassement prévu ci-dessus.
 
 Toutefois, le régime applicable dans les départements du Bas-Rhin, du Haut-Rhin
 et de la Moselle demeure en vigueur.
@@ -32,7 +32,7 @@ Les chefs d'entreprises individuelles titulaires de l'allocation supplémentaire
 du fonds national de solidarité prévue par la loi n° 56-639 du 30 juin 1956 sont
 dégrevés d'office de la taxe.
 
-1) Décret n° 73-942 du 3 octobre 1973 (J.O. du 5).
+(1) Décret n° 73-942 du 3 octobre 1973 (J.O. du 5).
 
-2) Montant fixé par la loi de finances pour 1979. Pour 1978 ce maximum avait été
-fixé à 140 F (loi n° 77-1467 du 30 décembre 1977, art. 76).
+(2) Montant fixé par la loi de finances pour 1981. Pour 1980, ce maximum était
+fixé à 200 F (Loi n° 80-30 du 18 janvier 1980, art. 94).
