@@ -54,3 +54,7 @@ l'ouverture d'une succession.
 
 16° Des dispositions législatives ou réglementaires particulières prévoyant que
 l'avance doit être faite par le Trésor public.
+
+18° Des frais de l'appel aux créanciers prévu à l'article 11 de la loi n°
+89-1010 du 31 décembre 1989 relative à la prévention et au règlement des
+difficultés liées au surendettement des particuliers et des familles.
