@@ -14,13 +14,13 @@ d'appel, conformément aux dispositions de l'article 220 ;
 3° (dispositions abrogées)
 
 4° Par les transports des magistrats du ressort de la cour d'appel qui siègent
-comme présidents ou assesseurs dans une cour d'assises tenue hors du chef-lieu
-du ressort, et du procureur général ou de ses substituts qui vont y porter la
-parole, sans qu'il y ait lieu de distinguer entre les sessions ordinaires et
-extraordinaires, ainsi que du procureur de la République lorsqu'il occupe le
-siège du ministère public devant les tribunaux d'instance de son ressort, en
-application de l'article 45 du présent code ou de l'article 4 de l'ordonnance n°
-58-1273 du 22 décembre 1958 ;
+comme présidents ou assesseurs dans une cour d'assises tenue hors du siège de la
+juridiction où ils sont affectés, et du procureur général ou de ses substituts
+qui vont y porter la parole, sans qu'il y ait lieu de distinguer entre les
+sessions ordinaires et extraordinaires, ainsi que du procureur de la République
+lorsqu'il occupe le siège du ministère public devant les tribunaux d'instance de
+son ressort, en application de l'article 45 du présent code ou de l'article 4 de
+l'ordonnance n° 58-1273 du 22 décembre 1958 ;
 
 5° Par les transports des commissaires de police, ou des officiers de police
 désignés par le procureur général, conformément aux articles 46 et 48, pour
