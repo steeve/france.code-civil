@@ -1,15 +1,14 @@
 Article 1
 ----
-Les lois sont exécutoires dans tout le territoire français, en vertu de la
-promulgation qui en est faite par le Roi (le Président de la République).
+Les lois et, lorsqu'ils sont publiés au Journal officiel de la République
+française, les actes administratifs entrent en vigueur à la date qu'ils fixent
+ou, à défaut, le lendemain de leur publication. Toutefois, l'entrée en vigueur
+de celles de leurs dispositions dont l'exécution nécessite des mesures
+d'application est reportée à la date d'entrée en vigueur de ces mesures.
 
-Elles seront exécutées dans chaque partie du Royaume (de la République), du
-moment où la promulgation en pourra être connue.
+En cas d'urgence, entrent en vigueur dès leur publication les lois dont le
+décret de promulgation le prescrit et les actes administratifs pour lesquels le
+Gouvernement l'ordonne par une disposition spéciale.
 
-La promulgation faite par le Roi (le Président de la République) sera réputée
-connue dans le département de la résidence royale (dans le département où siège
-le Gouvernement), un jour après celui de la promulgation ; et dans chacun des
-autres départements, après l'expiration du même délai, augmenté d'autant de
-jours qu'il y aura de fois 10 myriamètres (environ 20 lieues anciennes), entre
-la ville où la promulgation en aura été faite, et le chef-lieu de chaque
-département.
+Les dispositions du présent article ne sont pas applicables aux actes
+individuels.
