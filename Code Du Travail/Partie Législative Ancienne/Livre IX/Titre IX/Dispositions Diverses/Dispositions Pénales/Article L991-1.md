@@ -12,7 +12,8 @@ les organismes chargés de réaliser les bilans de compétences ;
 
 3° Les activités d'accueil, d'information, d'orientation et d'évaluation, en
 matière de formation professionnelle continue, au financement desquelles l'Etat
-concourt par voie de convention.
+concourt par voie de convention ou réalisées dans le cadre des contrats
+mentionnés à l'article L. 981-7.
 
 Le contrôle administratif et financier porte sur l'ensemble des moyens
 financiers, techniques et pédagogiques, à l'exclusion des qualités pédagogiques,
