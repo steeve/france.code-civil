@@ -1,13 +1,15 @@
 Article R*528-5
 ----
-Les membres du conseil supérieur de la coopération agricole autres que ceux
-représentant l'administration ou désignés ès qualités sont nommés pour trois ans
-par arrêté du ministre de l'agriculture. Leur mandat est renouvelable.
+Les membres du Conseil supérieur d'orientation de la coopération agricole et de
+la commission centrale d'agrément autres que ceux représentant l'administration
+ou désignés ès qualités sont nommés par arrêté du ministre de l'agriculture pour
+une durée de trois ans renouvelable.
 
-En cas de vacance, il est procédé à la désignation de nouveaux membres pour le
-temps restant à courir jusqu'à l'expiration de la période de trois ans
-mentionnée à l'alinéa précédent.
+Les membres démissionnaires, décédés ou qui perdent la qualité au titre de
+laquelle ils sont désignés sont remplacés. Le mandat des nouveaux membres expire
+à la date à laquelle aurait normalement pris fin celui des membres qu'ils
+remplacent.
 
-Les membres représentant l'administration ou désignés ès qualités peuvent se
-faire représenter. Des suppléants sont désignés pour les autres membres sauf
-pour ceux qui sont nommés en raison de leur compétence.
+Tout membre du conseil ou de la commission peut, en cas d'empêchement, donner
+pouvoir pour le représenter à un autre membre du conseil ou de la commission,
+selon le cas. Aucun membre ne peut détenir plus d'un pouvoir.

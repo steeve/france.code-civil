@@ -1,47 +1,44 @@
 Article R*528-3
 ----
-Le conseil supérieur de la coopération agricole est présidé par le ministre de
-l'agriculture qui peut se faire représenter.
+Le Conseil supérieur d'orientation de la coopération agricole est présidé par le
+ministre de l'agriculture, qui peut se faire représenter.
 
-Le ministre de l'agriculture nomme un vice-président.
+Le Conseil supérieur d'orientation de la coopération agricole comprend :
 
-Sont membres de droit du Conseil supérieur de la coopération agricole :
+a) Quatre représentants du ministre de l'agriculture ;
 
-- quatre représentants du ministre chargé de l'agriculture ;
+b) Un représentant du ministre chargé de l'économie et des finances ;
 
-- le directeur du service de la législation fiscale, représentant le ministre
-chargé du budget ;
+c) Un représentant du ministre chargé du budget ;
 
-- le directeur du Trésor, représentant le ministre chargé de l'économie et des
-finances ;
+d) Un représentant du garde des sceaux, ministre de la justice ;
 
-- le directeur des affaires civiles et du sceau représentant le garde des
-sceaux, ministre de la justice ;
+e) Un représentant du ministre chargé de l'aménagement du territoire ;
 
-- le délégué général à l'innovation sociale et à l'économie sociale,
-représentant le ministre chargé de l'économie sociale ;
+f) Le délégué interministériel à l'innovation sociale et à l'économie sociale ou
+son représentant ;
 
-- le président de la Confédération française de la coopération agricole ;
+g) Le président de la Confédération française de la coopération agricole ou son
+représentant ;
 
-- le président de la Confédération nationale de la mutualité, de la coopération
-et du crédit agricole ;
+h) Le président de la Confédération nationale de la mutualité, de la coopération
+et du crédit agricole ou son représentant ;
 
-- le président de l'assemblée permanente des chambres d'agriculture.
+i) Le président de l'assemblée permanente des chambres d'agriculture ou son
+représentant ;
 
-Le Conseil supérieur de la coopération agricole comprend en outre :
+j) Quatre représentants des sociétés coopératives agricoles et des sociétés
+d'intérêt collectif agricole, désignés par le ministre de l'agriculture sur
+proposition de la Confédération française de la coopération agricole ;
 
-- quatre représentants des sociétés coopératives agricoles et des sociétés
-d'intérêt collectif agricole désignés par le ministre chargé de l'agriculture
-sur proposition de la Confédération française de la coopération agricole ;
+k) Un représentant de chacune des organisations syndicales d'exploitants
+agricoles à vocation générale habilitées en application de l'article 3 du décret
+du 28 février 1990 susvisé ;
 
-- un représentant de chacune des organisations syndicales d'exploitants
-agricoles à vocation générale habilitées en application de l'article 1er du
-décret n° 90-187 du 28 février 1990 ;
+l) Trois représentants des personnels des sociétés coopératives agricoles,
+désignés par le ministre de l'agriculture sur proposition des organisations
+syndicales les plus représentatives, dont un au titre des cadres ou directeurs
+de coopératives ;
 
-- trois représentants des personnels des sociétés coopératives agricoles
-désignés par le ministre chargé de l'agriculture sur proposition des
-organisations syndicales les plus représentatives, dont un au titre des cadres
-ou directeurs de coopératives ;
-
-- trois personnalités qualifiées en raison de leur compétence nommées par le
-ministre chargé de l'agriculture.
+m) Trois personnalités qualifiées en raison de leur compétence, nommées par le
+ministre de l'agriculture.
