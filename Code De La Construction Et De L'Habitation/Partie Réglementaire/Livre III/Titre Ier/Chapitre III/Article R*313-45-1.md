@@ -2,13 +2,13 @@ Article R*313-45-1
 ----
 Il est créé un Comité national de la participation des employeurs à l'effort de
 construction présidé par le ministre chargé de la construction et de
-l'habitation ou son représentant [*attributions, composition*].
+l'habitation ou son représentant.
 
 Ce comité est consulté sur tous les projets de textes relatifs à la
-réglementation de la participation des employeurs. Il peut faire toutes
-propositions relatives à l'application de cette réglementation. Il étudie et
-propose les conditions dans lesquelles sont élaborées les statistiques relatives
-au mouvement des fonds de la participation des employeurs.
+réglementation de la participation des employeurs à l'effort de construction, à
+l'exception de ceux pris en application des articles L. 313-7 à L. 313-16 et
+L313-33 ; il peut faire toute proposition relative à l'application de cette
+réglementation.
 
 Ce comité est composé :
 

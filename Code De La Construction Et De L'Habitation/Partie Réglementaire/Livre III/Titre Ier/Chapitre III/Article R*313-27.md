@@ -1,8 +1,19 @@
 Article R*313-27
 ----
-Celles des associations mentionnées à l'article précédent, créées
-postérieurement à l'entrée en vigueur du décret n° 75-1269 du 27 décembre 1975,
-doivent, au moins trois mois avant de collecter la participation des employeurs,
-effectuer, dans les conditions prévues par un arrêté du ministre chargé de la
-construction et de l'habitation, une déclaration auprès du directeur
-départemental de l'équipement du lieu de leur siège social.
+L'agrément comme organisme collecteur des associations mentionnées à l'article
+précédent est subordonné au respect des conditions suivantes :
+
+1° Ces associations doivent grouper au moins cent employeurs assujettis à la
+participation ; ce minimum est réduit à trente si la majorité des membres de
+l'association est composée de syndicats professionnels ou interprofessionnels ;
+
+2° Elles ne doivent pas admettre parmi leurs administrateurs ou dirigeants une
+personne à laquelle sont applicables les dispositions de l'article L. 313-29 ou
+qui a appartenu à un conseil d'administration suspendu en application de
+l'article L. 313-13 ;
+
+3° Leurs statuts comportent les clauses types prévues à l'article R. 313-30.
+
+L'arrêté d'agrément précise, s'il y a lieu, le domaine d'intervention
+particulier de l'association et les modalités d'utilisation des fonds recueillis
+qui en résultent.

@@ -8,6 +8,10 @@ R. 313-25-1 sous l'une ou plusieurs des formes suivantes :
 1° Prêts à des personnes physiques dans les conditions prévues à l'article R.
 313-15. Ces prêts ne doivent pas constituer un accessoire du contrat de travail.
 
+1° bis Subventions à des personnes physiques pour la réalisation d'opérations
+mentionnées à l'article R. 313-15 et remplissant les conditions précisées par
+arrêté conjoint des ministres chargés du logement et de l'économie.
+
 2° Souscriptions de titres de sociétés immobilières dont les parts ou actions ne
 permettent pas l'attribution de logements en toute propriété ou en jouissance et
 qui réalisent des opérations prévues aux articles R. 313-16, R. 313-17 et R.
@@ -28,7 +32,7 @@ ou en jouissance et qui bénéficient de prêts prévus au 2° du I de l'article
 Lorsque ces sociétés bénéficient d'un prêt visé à l'article R. 331-67, elles
 doivent respecter les plafonds de loyer et de ressources des locataires prévus
 au III de l'article R. 313-17. Ces plafonds sont expressément mentionnés dans le
-contrat de réservation prévu par l'article L. 313-1-1.
+contrat de réservation prévu par l'article L. 313-26.
 
 2° ter Acquisition, à l'expiration de la durée prévue au premier alinéa de
 l'article R. 313-20, de titres des sociétés immobilières mentionnées aux 2° et
@@ -58,10 +62,9 @@ construction.
 articles R. 313-16, R. 313-17 et R. 313-18.
 
 4° Prêts à des sociétés coopératives de construction régies par le livre II,
-titre Ier, chapitre III, du présent code, ou à des
-
-sociétés immobilières créées par des sociétés de crédit immobilier réalisant des
-opérations définies à l'article R. 313-16.
+titre Ier, chapitre III, du présent code, ou à des sociétés immobilières créées
+par des sociétés de crédit immobilier réalisant des opérations définies à
+l'article R. 313-16.
 
 5° Prêts à des personnes physiques ou morales pour des opérations prévues au II
 de l'article R. 313-17.

@@ -8,8 +8,9 @@ autorisation spéciale du ministre chargé de la construction et de l'habitation
 par des sociétés filiales de ces organismes. Ils peuvent participer au
 financement d'annexes sociales conformément à l'article R. 313-31 (7.).
 
-Les organismes comprenant aux postes d'administrateur ou de direction une
-personne ayant exercé l'une ou l'autre de ces fonctions dans un organisme
-habilité à collecter, dans les douze mois précédant une interdiction de collecte
-prévue à l'article R. 313-22, ne pourront pas être agréés ou conserver
-l'agrément prévu à l'article R. 313-21 [*incompatibilité*].
+Les organismes dans lesquels la fonction d'administrateur ou un emploi de
+direction a été confié à une personne à laquelle sont applicables les
+dispositions de l'article L. 313-29 ou qui a siégé au conseil d'administration
+d'une association suspendu en application de l'article L. 313-13, ne pourront
+pas être agréés ou conserver l'agrément prévu à l'article R. 313-21
+[*incompatibilité*].

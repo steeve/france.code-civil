@@ -3,8 +3,7 @@ Article R313-35-2
 Elle est administrée par un conseil d'administration dont la composition est la
 suivante :
 
-a) &gt; Deux représentants du ministre chargé de la construction et de
-l'habitation ;
+a) Deux représentants du ministre chargé de la construction et de l'habitation ;
 
 - un représentant du ministre chargé des affaires sociales ;
 
@@ -17,28 +16,26 @@ intéressés ;
 
 b) Cinq représentants des salariés désignés respectivement par :
 
-- la confédération générale du travail (C.G.T.) ;
+- la confédération générale du travail (CGT) ;
 
-- la confédération française démocratique du travail (C.F.D.T.) ;
+- la confédération française démocratique du travail (CFDT) ;
 
-- la confédération générale du travail-force ouvrière (C.G.T.-F.O.) ;
+- la confédération générale du travail-force ouvrière (CGT-FO) ;
 
-- la confédération française des travailleurs chrétiens (C.F.T.C.) ;
+- la confédération française des travailleurs chrétiens (CFTC) ;
 
-- la confédération française de l'encadrement
-
-- confédération générale des cadres (C.F.E.-C.G.C.) ;
+- la confédération française de l'encadrement confédération générale des cadres
+(CFE-CGC) ;
 
 c) Cinq représentants des employeurs :
 
-- quatre désignés par le conseil national du patronat français (C.N.P.F.) ;
+- quatre désignés par le conseil national du patronat français (CNPF) ;
 
 - un désigné par la confédération générale des petites et moyennes entreprises
-(C.G.P.M.E.) ;
+(CGPME) ;
 
-d) Cinq représentants des associations et organismes mentionnés à l'article R.
-313-9 2° (a, b et d), désignés par l'Union nationale interprofessionnelle du
-logement.
+d) Cinq représentants des associés collecteurs de l'Union d'économie sociale du
+logement désignés par elle.
 
 Les administrateurs mentionnés aux b, c et d ci-dessus sont, ainsi que leur
 suppléant désigné dans les mêmes conditions, nommés pour une période de trois
