@@ -1,15 +1,13 @@
 Article 1122-1
 ----
-Sans préjudice de l'application de l'article 1122, deuxième et troisième
-alinéas, du présent code, ont droit à la retraite forfaitaire prévue à l'article
-1121, 1°, et dans les mêmes conditions, à l'âge de soixante-cinq ans ou de
-soixante ans en cas d'inaptitude au travail, les membres de la famille du chef
-d'exploitation qui ont satisfait à toutes les prescriptions du chapitre IV du
-titre II du livre VII du présent code.
+Le conjoint du chef d'exploitation ou d'entreprise agricole et les membres de la
+famille ont droit à la pension de retraite forfaitaire dans les conditions
+prévues au 1° du premier alinéa de l'article 1121. Les membres de la famille
+s'entendent des ascendants, descendants, frères, soeurs et alliés au même degré
+du chef d'exploitation ou d'entreprise ou de son conjoint. Le conjoint et les
+membres de la famille doivent remplir les conditions fixées par l'article 1124.
 
-Le conjoint survivant des personnes visées à l'alinéa précédent a droit, s'il
-n'est pas lui-même bénéficiaire d'un avantage au titre d'un régime de sécurité
-sociale, st s'il satisfait aux conditions, fixées par décret, relatives à son
-âge, à ses ressources personnelles, ainsi qu'à la durée du mariage, à une
-retraite de réversion d'un montant égal à celui de la retraite forfaitaire dont
-bénéficiait ou aurait bénéficié l'assuré.
+Le conjoint survivant des personnes mentionnées à l'alinéa précédent a droit,
+dans les conditions fixées au premier alinéa de l'article 1122, à une retraite
+de réversion d'un montant égal à celui de la retraite forfaitaire dont
+bénéficiait ou aurait pu bénéficier l'assuré.
