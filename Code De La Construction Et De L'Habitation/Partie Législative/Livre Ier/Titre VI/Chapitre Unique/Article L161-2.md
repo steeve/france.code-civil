@@ -10,8 +10,8 @@ adaptations suivantes :
 sont supprimées et les mots : "permis de construire" sont remplacés par les mots
 : "autorisation de construire" ;
 
-- à l'article L. 118-8-2, les mots : "ladite autorisation" sont remplacés par
+- à l'article L. 111-8-2, les mots : "ladite autorisation" sont remplacés par
 les mots : "cette dernière autorisation" ;
 
-- à l'article L. 125-2, la date de mise en conformité des installations est
-fixée au 31 décembre 2001.
+- à l'article L. 125-2, la date : "31 décembre 1992" est remplacée par la date :
+"31 décembre 2001".
