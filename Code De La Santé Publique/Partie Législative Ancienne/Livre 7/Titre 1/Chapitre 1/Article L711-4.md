@@ -14,8 +14,12 @@ services. Ils doivent être en mesure de les accueillir de jour et de nuit,
 établissement mentionné au premier alinéa.
 
 Ils dispensent aux patients les soins préventifs, curatifs ou palliatifs que
-requiert leur état et veillent à la continuité de ces soins, à l'issue de leur
-admission ou de leur hébergement.
+requiert leur état et veillent à la continuité de ces soins, en s'assurant qu'à
+l'issue de leur admission ou de leur hébergement, tous les patients disposent
+des conditions d'existence nécessaires à la poursuite de leur traitement. A
+cette fin, ils orientent les patients sortants ne disposant pas de telles
+conditions d'existence vers des structures prenant en compte la précarité de
+leur situation.
 
 Ils ne peuvent établir aucune discrimination entre les malades en ce qui
 concerne les soins. Ils ne peuvent organiser des régimes d'hébergement

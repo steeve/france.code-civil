@@ -16,6 +16,11 @@ construction et de l'habitation dans la limite du montant de l'aide due, soit de
 l'avantage en nature procuré par un hébergement au titre duquel aucune de ces
 aides n'est due.
 
+Toutefois, les rémunérations tirées d'activités professionnelles ou de stages de
+formation qui ont commencé au cours de la période de versement de l'allocation
+peuvent, selon des modalités fixées par voie réglementaire, être exclues, en
+tout ou partie, du montant des ressources servant au calcul de l'allocation.
+
 L'allocation de parent isolé est attribuée sous réserve des traités et accords
 internationaux ratifiés par la France, aux ressortissants étrangers remplissant
 des conditions de durée de résidence en France qui seront fixées par décret.

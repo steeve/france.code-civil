@@ -6,9 +6,11 @@ et des renseignements concernant l'ensemble des personnes vivant au foyer
 permettant de calculer l'importance du dépassement éventuel du plafond de
 ressources et de déterminer si le locataire est redevable du supplément de
 loyer. Le locataire est tenu de répondre à cette demande dans un délai d'un
-mois. L'organisme d'habitations à loyer modéré n'est pas tenu de présenter cette
-demande aux locataires bénéficiant de l'aide personnalisée au logement
-mentionnée à l'article L. 351-1.
+mois. L'organisme d'habitations à loyer modéré n'est tenu de présenter cette
+demande ni aux locataires bénéficiant de l'aide personnalisée au logement
+mentionnée à l'article L. 351-1, ni aux locataires bénéficiant de l'allocation
+de logement prévue à l'article L. 542-1 du code de la sécurité sociale ou de
+l'allocation de logement prévue à l'article L. 831-1 du même code.
 
 A défaut et après mise en demeure restée infructueuse pendant quinze jours,
 l'organisme d'habitations à loyer modéré liquide provisoirement le supplément de

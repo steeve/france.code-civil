@@ -43,6 +43,6 @@ compétente, à laquelle seront également adressés les procès-verbaux des ré
 prévues à l'article L. 321-3. Ces procès-verbaux devront comporter les avis,
 suggestions et propositions des représentants du personnel.
 
-Les représentants du personnel sont informés de l'exécution du plan social au
-cours de l'année suivant l'expiration du délai prévu au premier alinéa de
-l'article L. 321-6.
+Les représentants du personnel et l'autorité administrative sont informés de
+l'exécution du plan social au cours de l'année suivant l'expiration du délai
+prévu au premier alinéa de l'article L. 321-6.

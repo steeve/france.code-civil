@@ -1,7 +1,8 @@
 Article L161-1
 ----
-Par dérogation aux dispositions en vigueur, les personnes mentionnées au premier
-alinéa de l'article L. 351-24 du code du travail, qui en font préalablement la
+Par dérogation aux dispositions en vigueur, les personnes mentionnées aux
+deuxième (1°), troisième (2°), quatrième (3°), cinquième (4°) et sixième (5°)
+alinéas de l'article L. 351-24 du code du travail, qui en font préalablement la
 demande, continuent à être affiliées pendant les premiers mois de leur nouvelle
 activité, dans une limite fixée par décret, au régime d'assurances sociales et
 de prestations familiales dont elles relevaient au titre de leur dernière

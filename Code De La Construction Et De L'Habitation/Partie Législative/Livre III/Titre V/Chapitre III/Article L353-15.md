@@ -10,8 +10,9 @@ Par dérogation au I de l'article 15 de la loi n° 89-462 du 6 juillet 1989
 tendant à améliorer les rapports locatifs et portant modification de la loi n°
 86-1290 du 23 décembre 1986, le délai de préavis applicable au congé donné par
 un locataire d'un logement mentionné à l'article L. 353-14 qui bénéficie de
-l'attribution d'un autre logement mentionné au même article est ramené à deux
-mois.
+l'attribution dans le parc du même bailleur d'un autre logement mentionné au
+même article est ramené à un mois. Ce délai est de deux mois si les deux
+logements appartiennent à des bailleurs différents.
 
 A compter du 13 novembre 1982 et nonobstant toute disposition ou stipulation
 contraire, les charges récupérables sont exigibles dans les conditions prévues à

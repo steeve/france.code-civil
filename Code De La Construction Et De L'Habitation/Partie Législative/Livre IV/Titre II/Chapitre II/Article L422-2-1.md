@@ -14,3 +14,14 @@ l'exception de celles prévues aux articles 95 à 97 et 130 à 132 de la loi n°
 
 Un décret en Conseil d'Etat détermine, en tant que de besoin, les conditions
 d'application du présent article.
+
+Les représentants des locataires sont élus sur des listes de candidats présentés
+par des associations oeuvrant dans le domaine du logement.
+
+Ces associations doivent être indépendantes de tout parti politique ou
+organisation philosophique, confessionnelle, ethnique ou raciale et ne pas
+poursuivre des intérêts collectifs qui seraient en contradiction avec les
+objectifs du logement social fixés par le code de la construction et de
+l'habitation, et notamment par les articles L. 411 et L. 441, ou du droit à la
+ville tel que défini par la loi n° 91-662 du 13 juillet 1991 d'orientation pour
+la ville.

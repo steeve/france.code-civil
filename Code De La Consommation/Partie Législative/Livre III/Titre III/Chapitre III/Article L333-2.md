@@ -13,4 +13,5 @@ détourner ou de dissimuler, tout ou partie de ses biens ;
 juge, aura aggravé son endettement en souscrivant de nouveaux emprunts ou aura
 procédé à des actes de disposition de son patrimoine pendant le déroulement de
 la procédure de traitement de la situation de surendettement, ou pendant
-l'exécution du plan ou des mesures de l'article L. 331-7.
+l'exécution du plan ou des mesures de l'article L. 331-7 ou de l'article L.
+331-7-1.

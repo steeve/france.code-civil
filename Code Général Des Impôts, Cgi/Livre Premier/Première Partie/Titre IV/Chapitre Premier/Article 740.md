@@ -13,6 +13,12 @@ financement des télécommunications (2) ;
 3° Les baux à construction soumis, sur option, à la taxe sur la valeur ajoutée ;
 l'exonération est applicable dans les conditions prévues à l'article 691.
 
+4° Les sous-locations consenties aux personnes défavorisées mentionnées à
+l'article 1er de la loi n° 90-449 du 31 mai 1990 visant à la mise en oeuvre du
+droit au logement par un organisme ne se livrant pas à une exploitation ou à des
+opérations de caractère lucratif, lorsqu'il est agréé dans les conditions
+prévues à l'article 92 L. par le représentant de l'Etat dans le département.
+
 (1) Seuil applicable à compter de la période d'imposition s'ouvrant le 1er
 octobre 1991.
 

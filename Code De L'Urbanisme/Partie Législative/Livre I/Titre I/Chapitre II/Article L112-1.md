@@ -23,15 +23,15 @@ la moitié des communes représentant les deux tiers de la population.
 
 La limite de densité ne peut être inférieure à 1 et, pour la vill de Paris, à
 1,5. Aucune décision nouvelle instaurant, supprimant, modifiant le plafond légal
-de densité, ou prise en application du quatrième alinéa de l'article l.112-2, ne
-peut intervenir avant l'expiration d'un délai de trois ans à compter de la date
-d'entrée en vigueur de la précédente délibération. Cependant, une nouvelle
+de densité, ou prise en application du cinquième alinéa de l'article L. 112-2,
+ne peut intervenir avant l'expiration d'un délai de trois ans à compter de la
+date d'entrée en vigueur de la précédente délibération. Cependant, une nouvelle
 délibération peut être adoptée dans les six mois qui suivent le renouvellement
 du conseil municipal ou la désignation du conseil de la communauté urbaine ou de
 l'organe délibérant du groupement de communes compétent.
 
-Toutefois, la première décision suivant la publication de la loi n°86-1290 du 23
-décembre 1986 tendant à favoriser l'investissement locatif, l'accession à la
+Toutefois, la première décision suivant la publication de la loi n° 86-1290 du
+23 décembre 1986 tendant à favoriser l'investissement locatif, l'accession à la
 propriété de logements sociaux et le developpement de l'offre foncière peut être
 prise sans condition de délai.
 

@@ -7,11 +7,26 @@ l'article L. 331-2. Le juge de l'exécution est compétent pour connaître des
 recours dirigés contre les décisions rendues par elle à ce titre.
 
 La commission dresse l'état d'endettement du débiteur. Celui-ci est tenu de lui
-déclarer les éléments actifs et passifs de son patrimoine.
+déclarer les éléments actifs et passifs de son patrimoine. Lorsque la commission
+constate que le remboursement d'une ou plusieurs dettes du débiteur principal
+est garanti par un cautionnement, elle informe la caution de l'ouverture de la
+procédure. La caution peut faire connaître par écrit à la commission ses
+observations.
 
-Elle peut entendre toutes les personnes dont l'audition lui paraît utile.
+Le débiteur est entendu à sa demande par la commission. Celle-ci peut également
+entendre toute personne dont l'audition lui paraît utile, sous réserve que
+celle-ci intervienne à titre gratuit.
 
 La commission peut faire publier un appel aux créanciers.
+
+Après avoir été informés par la commission de l'état du passif déclaré par le
+débiteur, les créanciers disposent d'un délai de trente jours pour fournir, en
+cas de désaccord sur cet état, les justifications de leurs créances en
+principal, intérêts et accessoires. A défaut, la créance est prise en compte par
+la commission au vu des seuls éléments fournis par le débiteur.
+
+Les créanciers doivent alors indiquer si les créances en cause ont donné lieu à
+une caution et si celle-ci a été actionnée.
 
 Nonobstant toute disposition contraire, elle peut obtenir communication, auprès
 des administrations publiques, des établissements de crédit, des organismes de

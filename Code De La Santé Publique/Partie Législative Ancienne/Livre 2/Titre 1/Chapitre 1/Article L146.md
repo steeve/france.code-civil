@@ -7,6 +7,9 @@ et à la promotion de la santé maternelle et infantile qui comprend notamment :
 1° Des mesures de prévention médicales, psychologiques, sociales et d'éducation
 pour la santé en faveur des futurs parents et des enfants ;
 
+1° bis Des actions d'accompagnement psychologique et social des femmes enceintes
+et des jeunes mères de famille, particulièrement les plus démunies ;
+
 2° Des actions de prévention et de dépistage des handicaps des enfants de moins
 de six ans ainsi que de conseil aux familles pour la prise en charge de ces
 handicaps ;

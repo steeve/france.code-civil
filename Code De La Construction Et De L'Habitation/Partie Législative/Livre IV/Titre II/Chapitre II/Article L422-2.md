@@ -25,7 +25,11 @@ d'orientation pour l'aménagement et le développement du territoire ;
 
 - de réaliser pour le compte d'autres organismes d'habitations à loyer modéré
 des prestations de services pour des missions rentrant dans l'objet social et la
-compétence territoriale desdits organismes et des organismes prestataires.
+compétence territoriale desdits organismes et des organismes prestataires ;
+
+- d'acquérir et donner en location à des organismes agréés par arrêté du
+représentant de l'Etat dans le département des hôtels, meublés ou non, destinés
+à l'hébergement temporaire de personnes en difficulté.
 
 Elles peuvent, en outre :
 

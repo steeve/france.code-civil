@@ -4,9 +4,10 @@ En cas d'échec de sa mission de conciliation, la commission peut, à la demande
 du débiteur et après avoir mis les parties en mesure de fournir leurs
 observations, recommander tout ou partie des mesures suivantes :
 
-1° Reporter ou rééchelonner le paiement des dettes autres que fiscales,
-parafiscales ou envers les organismes de sécurité sociale, sans que le délai de
-report ou de rééchelonnement puisse excéder cinq ans ou la moitié de la durée de
+1° Rééchelonner, y compris, le cas échéant, en différant le paiement d'une
+partie des dettes, le paiement des dettes autres que fiscales, parafiscales ou
+envers les organismes de sécurité sociale, sans que le délai de report ou de
+rééchelonnement puisse excéder huit ans ou la moitié de la durée de
 remboursement restant à courir des emprunts en cours ; en cas de déchéance du
 terme, le délai de report ou de rééchelonnement peut atteindre la moitié de la
 durée qui restait à courir avant la déchéance ;
@@ -15,23 +16,25 @@ durée qui restait à courir avant la déchéance ;
 
 3° Prescrire que les sommes correspondant aux échéances reportées ou
 rééchelonnées porteront intérêt à un taux réduit qui peut être inférieur au taux
-d'intérêt légal sur décision spéciale et motivée et si la situation du débiteur
-l'exige ;
+d'intérêt légal sur proposition spéciale et motivé et si la situation du
+débiteur l'exige. Quelle que soit la durée du plan de redressement, le taux ne
+peut être supérieur au taux légal.
 
 4° En cas de vente forcé du logement principal du débiteur, grevé d'une
 inscription bénéficiant à un établissement de crédit ayant fourni les sommes
-nécessaires à son acquisition, réduire, par décision spéciale et motivée, le
+nécessaires à son acquisition, réduire, par proposition spéciale et motivée, le
 montant de la fraction des prêts immobiliers restant due aux établissements de
-crédit après la vente, dans des proportions telles que son paiement, assorti
-d'un rééchelonnement calculé comme il est dit ci-dessus, soit compatible avec
-les ressources et les charges du débiteur. La même disposition est applicable en
-cas de vente amiable dont le principe, destiné à éviter une saisie immobilière,
-et les modalités ont été arrêtés d'un commun accord entre le débiteur et
-l'établissement de crédit. En toute hypothèse, le bénéfice des présentes
-dispositions ne peut être invoqué plus de deux mois après sommation faite
-d'avoir à payer le montant de la fraction des prêts immobiliers restant due, à
-moins que, dans ce délai, la commission n'ait été saisie. A peine de nullité, la
-sommation de payer reproduit les termes du présent alinéa.
+crédit après la vente, après imputation du prix de vente sur le capital restant
+dû, dans des proportions telles que son paiement, assorti d'un rééchelonnement
+calculé comme il est dit ci-dessus, soit compatible avec les ressources et les
+charges du débiteur. La même disposition est applicable en cas de vente amiable
+dont le principe, destiné à éviter une saisie immobilière, et les modalités ont
+été arrêtés d'un commun accord entre le débiteur et l'établissement de crédit.
+En toute hypothèse, le bénéfice des présentes dispositions ne peut être invoqué
+plus de deux mois après sommation faite d'avoir à payer le montant de la
+fraction des prêts immobiliers restant due, à moins que, dans ce délai, la
+commission n'ait été saisie. A peine de nullité, la sommation de payer reproduit
+les termes du présent alinéa.
 
 La commission peut recommander que ces mesures soient subordonnées à
 l'accomplissement par le débiteur d'actes propres à faciliter ou à garantir le

@@ -38,4 +38,9 @@ mois civil suivant le décès.
 Toutefois, les dispositions du I et du II ne peuvent avoir pour effet
 d'interrompre le droit à l'aide personnalisée au logement ou, le cas échéant,
 aux allocations de logement visées aux articles L. 542-1 et L. 831-1 du code de
-la sécurité sociale.
+la sécurité sociale. Les dispositions du premier alinéa du I ne s'appliquent pas
+aux personnes qui, hébergées par un organisme logeant à titre temporaire des
+personnes défavorisées et bénéficiant de l'aide prévue à l'article L. 851-1 du
+code de la sécurité sociale, accèdent à un logement ouvrant droit à l'aide
+personnalisée au logement. Dans ce cas, l'aide est due à compter du premier jour
+du mois civil au cours duquel les conditions d'ouverture du droit sont réunies.

@@ -4,8 +4,8 @@ Toute publicité faite, reçue ou perçue en France qui, quel que soit son suppo
 porte sur l'une des opérations de crédit visées à l'article L. 311-2, doit :
 
 1° Préciser l'identité du prêteur, la nature, l'objet et la durée de l'opération
-proposée ainsi que le coût total et, s'il y a lieu, le taux effectif global du
-crédit et les perceptions forfaitaires ;
+proposée ainsi que le coût total et, s'il y a lieu, le taux effectif global
+mensuel et annuel du crédit et les perception forfaitaires ;
 
 2° Préciser le montant, en francs, des remboursements par échéance ou, en cas
 d'impossibilité, le moyen de le déterminer. Ce montant inclut le coût de

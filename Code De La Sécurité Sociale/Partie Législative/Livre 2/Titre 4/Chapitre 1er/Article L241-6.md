@@ -1,9 +1,9 @@
 Article L241-6
 ----
-Les charges de prestations familiales, d'aide à la scolarité et des aides à
-l'emploi pour la garde des jeunes enfants sont couvertes par des cotisations,
-ressources et contributions centralisées par la caisse nationale des allocations
-familiales qui suit l'exécution de toutes les dépenses .
+Les charges de prestations familiales et des aides à l'emploi pour la garde des
+jeunes enfants sont couvertes par des cotisations, ressources et contributions
+centralisées par la caisse nationale des allocations familiales qui suit
+l'exécution de toutes les dépenses .
 
 Les cotisations et ressources mentionnées à l'alinéa précédent comprennent :
 
@@ -29,7 +29,3 @@ contributions.
 opérées en application des articles L. 241-6-2 et L. 241-6-4, et de l'article 7
 de la loi n° 93-1313 du 20 décembre 1993 quinquennale relative au travail, à
 l'emploi et à la formation professionnelle.
-
-6° Les versements de l'Etat correspondant au coût intégral de l'aide à la
-scolarité prévue à l'article 23 de la loi n° 94-629 du 25 juillet 1994 relative
-à la famille.

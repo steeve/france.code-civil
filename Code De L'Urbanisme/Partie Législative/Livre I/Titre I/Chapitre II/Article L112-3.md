@@ -12,6 +12,6 @@ est à fois affecté à un service public ou d'utilité générale et non produc
 revenus.
 
 Il n'est pas non plus tenu compte, dans le cas d'une décision prise en
-application du quatrième alinéa de l'article l.112-2, de la surface de plancher
+application du cinquième alinéa de l'article L. 112-2, de la surface de plancher
 des immeubles ou parties d'immeubles déjà implantés sur ce terrain et affectés à
 l'habitation.

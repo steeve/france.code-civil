@@ -17,3 +17,8 @@ d'application ;
 et services pour la petite enfance qui apparaissent nécessaires, ainsi que le
 calendrier de réalisation et le coût prévisionnel des opérations projetées par
 la commune.
+
+Les modalités de fonctionnement des équipements et services d'accueil des
+enfants de moins de six ans doivent faciliter l'accès aux enfants de familles
+rencontrant des difficultés du fait de leurs conditions de vie ou de travail ou
+en raison de la faiblesse de leurs ressources.

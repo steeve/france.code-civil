@@ -1,8 +1,8 @@
 Article L332-2
 ----
 Une partie peut contester devant le juge de l'exécution les mesures recommandées
-par la commission en application de l'article L. 331-7, dans les quinze jours de
-la notification qui lui en est faite.
+par la commission en application de l'article L. 331-7 ou de l'article L.
+331-7-1, dans les quinze jours de la notification qui lui en est faite.
 
 Avant de statuer, le juge peut, à la demande d'une partie, ordonner par
 provision l'exécution d'une ou plusieurs des mesures visées au premier alinéa.

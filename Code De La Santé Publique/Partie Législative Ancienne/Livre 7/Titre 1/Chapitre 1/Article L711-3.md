@@ -20,7 +20,12 @@ paramédical et à la recherche dans leurs domaines de compétence ;
 coordination ;
 
 6° Conjointement avec les praticiens et les autres professionnels de santé,
-personnes et services concernés, à l'aide médicale urgente.
+personnes et services concernés, à l'aide médicale urgente ;
+
+7° A la lutte contre l'exclusion sociale, en relation avec les autres
+professions et institutions compétentes en ce domaine, ainsi que les
+associations qui oeuvrent dans le domaine de l'insertion et de la lutte contre
+l'exclusion, dans une dynamique de réseaux.
 
 Le service public hospitalier assure, dans des conditions fixées par voie
 réglementaire, les examens de diagnostic et les soins dispensés aux détenus en
