@@ -15,23 +15,29 @@ lorsque le syndicat ou l'exploitation agricole constitue le principal
 et de pisciculture et établissements assimilés, à l'exception de ceux qui
 relèvent du régime social des marins ;
 
-3° Les ouvriers et employés occupés dans les exploitations de bois.
+3° Les ouvriers et employés occupés à des travaux forestiers et les salariés des
+entreprises de travaux forestiers.
 
-Sont considérées comme exploitation de bois :
+Sont considérées comme travaux forestiers les travaux suivants :
 
-a) Les travaux d'abattage, ébranchage, éhouppage, débardage sous toutes ses
-formes, les travaux précédant ou suivant normalement ces opérations tels que
-débroussaillage, nettoyage des coupes ainsi que le transport de bois effectué
-par l'entreprise qui a procédé à tout ou partie des opérations précédentes ;
+- Travaux d'exploitation de bois, à savoir abattage, ébranchage, élagage,
+éhouppage, débardage sous toutes ses formes, travaux précédant ou suivant
+normalement ces opérations tels que débroussaillement, nettoyage des coupes
+ainsi que le transport de bois effectué par l'entreprise qui a procédé à tout ou
+partie des opérations précédentes et, lorsqu'ils sont effectués sur le parterre
+de la coupe, travaux de façonnage, de conditionnement du bois, de sciage et de
+carbonisation, quels que soient les procédés utilisés ;
 
-b) Lorsqu'ils sont effectués sur le parterre de la coupe, les travaux de
-façonnage, de conditionnement des bois, de sciage et de carbonisation, quels que
-soient les procédés utilisés.
+- Travaux de reboisement et de sylviculture, y compris l'élagage le
+débroussaillement et le nettoyage des coupes ;
 
-Ces travaux conservent le caractère agricole lorsqu'ils sont effectués en dehors
-du parterre de la coupe par une entreprise ou une section d'entreprise dont
-l'activité principale est l'exploitation forestière ou la production de bois
-brut de sciage ;
+- Travaux d'équipement forestier, lorsqu'ils sont accessoires aux travaux
+ci-dessus.
+
+Ces travaux conservent leur caractère forestier lorsqu'ils sont effectués en
+dehors du parterre de la coupe par une entreprise ou une section d'entreprise
+dont l'activité principale est l'exploitation forestière ou la production de
+bois brut de sciage ;
 
 4° Les salariés des artisans ruraux n'employant pas plus de deux ouvriers de
 façon permanente ;
