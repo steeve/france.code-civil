@@ -1,6 +1,7 @@
 Article D712-40
 ----
-Par dérogation aux dispositions de l'article D. 712-38, le taux de la cotisation
-due au titre des fonctionnaires de l'Etat mentionnée par le décret n° 49-1039 du
-1er août 1949, est fixé à 1 p. 100 pour les intéressés et à 2,95 p. 100 pour
-l'Etat.
+En application du deuxième alinéa de l'article L. 131-7-1, le taux de la
+cotisation afférente à la couverture des prestations en nature de l'assurance
+maladie, maternité et invalidité à la charge des fonctionnaires de l'Etat
+mentionnés à l'article D. 712-50 est fixé à 1 %. Le taux de la cotisation à la
+charge de l'Etat pour ces fonctionnaires est fixé à 2,95 %.

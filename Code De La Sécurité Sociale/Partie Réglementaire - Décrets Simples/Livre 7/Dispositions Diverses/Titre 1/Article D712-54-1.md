@@ -9,8 +9,10 @@ industriel ou commercial, soit auprès d'une administration de l'Etat ou d'un
 commercial, les cotisations dues au régime général de sécurité sociale, pour la
 couverture des prestations en nature de l'assurance maladie-maternité, sont
 calculées, par dérogation aux dispositions de l'article D. 712-40 et du deuxième
-alinéa de l'article D. 712-51, dans les conditions définies à l'article D.
-712-38.
+alinéa de l'article D. 712-51, sur la base des traitements soumis à retenue pour
+pension et d'un taux fixé à 14,45 %, soit 9,70 % à la charge de l'Etat et 4,75 %
+à la charge de l'assuré en application du deuxième alinéa de l'article L.
+131-7-1.
 
 Les fonctionnaires de l'Etat et les magistrats mentionnés à l'alinéa précédent
 et leurs ayants droit qui résident avec eux bénéficient des prestations en
@@ -31,3 +33,7 @@ est de même, par dérogation aux dispositions du deuxième alinéa de l'article
 712-52, pour les ayants droit des fonctionnaires de l'Etat et des magistrats
 visés à la phrase précédente et aux deux premiers alinéas lorsque ces ayants
 droit résident ou séjournent dans un département d'outre-mer.
+
+Par dérogation aux dispositions du premier alinéa de l'article D. 712-52, les
+fonctionnaires de l'Etat et les magistrats visés aux trois alinéas précédents
+bénéficient des dispositions de l'article D. 712-12.
