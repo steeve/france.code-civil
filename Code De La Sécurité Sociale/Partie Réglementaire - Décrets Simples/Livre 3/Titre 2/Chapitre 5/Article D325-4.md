@@ -40,4 +40,33 @@ dans les conditions fixées à l'article D. 325-12 ;
 
 11° Se prononce sur le rapport annuel d'activité présenté par le directeur ainsi
 que sur les projets de loi et de règlement intéressant les matières de sa
-compétence.
+compétence ;
+
+12° Fixe annuellement, pour l'application du I de l'article L. 325-2, un état
+prévisionnel des dépenses et des recettes du fonds de l'assurance maladie visé
+au a de l'article D. 325-10, d'une part, dans le cadre de l'évolution des
+dépenses déterminées par la loi du financement de la sécurité sociale et,
+d'autre part, dans les limites de l'équilibre financier du régime local défini
+aux articles D. 325-12 à D. 325-14.
+
+L'état prévisionnel des dépenses à la charge du régime local est établi compte
+tenu :
+
+a) Pour les dépenses hospitalières de la région Alsace et de la région Lorraine,
+du montant des dotations régionales de ces deux régions déterminées conformément
+aux dispositions de l'article L. 174-1-1 ;
+
+b) Pour les dépenses de soins de ville de la région Alsace et de la région
+Lorraine, de l'objectif prévisionnel d'évolution des dépenses soins de ville
+fixé par l'avenant annuel à la convention d'objectifs et de gestion de la
+branche maladie du régime général, mentionné à l'article L. 227-1.
+
+Si les résultats comptables du fonds de l'assurance maladie constatés à la
+clôture de l'exercice sont excédentaires, tout ou partie de cet excédent peut
+être affecté par le conseil d'administration à des actions prévues par les
+articles L. 162-31-1 du présent code et L. 767 du code de la santé publique,
+dans le cadre des prévisions de dépenses du fonds de l'assurance maladie de
+l'exercice suivant.
+
+Cette disposition ne peut avoir pour résultat de déroger aux règles relatives au
+seuil du fonds de réserve fixé au premier alinéa de l'article D. 325-12.
