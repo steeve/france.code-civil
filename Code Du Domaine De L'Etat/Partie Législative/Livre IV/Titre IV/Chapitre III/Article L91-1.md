@@ -11,7 +11,15 @@ Le cessionnaire doit s'engager à maintenir l'usage agricole des biens cédés
 pendant trente ans à compter de la date du transfert de propriété, cette période
 de trente ans étant réduite de la durée effective de la période probatoire.
 
-Les dispositions prévues à l'alinéa précédent peuvent être étendues, dans des
-conditions fixées par décret en Conseil d'Etat, aux agriculteurs ayant réalisé
-depuis au moins cinq ans avant l'entrée en vigueur du présent article un
-programme de mise en valeur des terres mises à leur disposition par l'Etat.
+Peuvent également bénéficier de cessions gratuites les agriculteurs qui, depuis
+leur installation, antérieure à la date de publication de l'ordonnance n° 98-777
+du 2 septembre 1998 et pendant une période d'au moins cinq ans, ont réalisé
+l'aménagement et la mise en valeur des terres mises à leur disposition par
+l'Etat, les ont exploitées directement à des fins exclusivement agricoles et qui
+s'engagent à les maintenir à cet usage pendant trente ans à compter de la date
+de transfert de propriété.
+
+Les dispositions du présent article sont applicables aux personnes morales dont
+l'objet est essentiellement agricole et dont plus de 50 % du capital social est
+détenu par des personnes physiques répondant aux conditions requises pour
+bénéficier à titre individuel de ces dispositions.
