@@ -6,7 +6,3 @@ département. Elle est décidée par arrêté du ministre de l'intérieur lorsqu
 compétence territoriale n'excède pas ces limites.
 
 Leur compétence territoriale est modifiée selon les mêmes formes.
-
-Toutefois, la création des services visés à l'article R. 15-20 (1°) est décidée
-par décret lorsque ceux-ci sont situés dans un département comportant plusieurs
-tribunaux de grande instance.

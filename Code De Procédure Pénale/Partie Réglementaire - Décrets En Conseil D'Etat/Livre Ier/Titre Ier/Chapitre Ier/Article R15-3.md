@@ -13,3 +13,7 @@ siège des fonctions de l'officier de police judiciaire intéressé.
 La demande doit préciser la nature des fonctions confiées à cet officier de
 police judiciaire et les limites territoriales dans lesquelles il sera appelé à
 les exercer habituellement.
+
+Si l'officier de police judiciaire est affecté dans une unité de la gendarmerie
+nationale, la demande d'habilitation est transmise selon les distinctions
+prévues aux a, b ou c de l'article R. 14.

@@ -2,25 +2,28 @@ Article R15-24
 ----
 Les catégories d'unités de la gendarmerie nationale au sein desquelles les
 officiers et agents de police judiciaire exercent leurs fonctions habituelles et
-dont la compétence s'exerce dans le ressort d'un ou de plusieurs tribunaux de
-grande instance d'une même cour d'appel sont les suivantes :
+dont la compétence s'étend au ressort d'un département ou d'une collectivité
+d'outre-mer ou de la Nouvelle-Calédonie sont les suivantes :
 
-1° Les brigades de recherches de la gendarmerie départementale implantées au
-chef-lieu du département, pour le département où elles sont situées ;
+1° Les brigades de recherches et les brigades territoriales de la gendarmerie
+départementale organisées ou non en communauté de brigade ;
 
-2° Les brigades départementales de renseignements judiciaires de la gendarmerie
-départementale, pour le département où elles sont situées ;
+2° Les brigades départementales de renseignements et d'investigations
+judiciaires de la gendarmerie nationale et les brigades de renseignements et
+d'investigations judiciaires dans les collectivités d'outre-mer et en
+Nouvelle-Calédonie ;
 
-3° Les pelotons et brigades motorisés de la gendarmerie départementale et les
-brigades motorisées de la gendarmerie mobile, pour le département où ils sont
-situés :
+3° Les brigades motorisées de la gendarmerie départementale et de la gendarmerie
+mobile ;
 
 4° Les pelotons de surveillance et d'intervention de la gendarmerie
-départementale, pour le département où ils sont situés ;
+départementale ;
 
-5° Les brigades ou postes de la gendarmerie maritime placés auprès des services
-des affaires maritimes, pour les arrondissements maritimes où ils sont situés ;
+5° La brigade de gendarmerie maritime de la marine marchande à Paris, les
+brigades ou postes de la gendarmerie maritime placés auprès des directions
+départementales des affaires maritimes, ainsi que les pelotons et brigades de la
+gendarmerie maritime implantés sur les bases ou établissements de la marine ;
 
-6° Les sections ou brigades de la gendarmerie de l'armement non visées au 7° de
-l'article R. 15-23 pour les établissements relevant de la délégation générale
-pour l'armement auxquels ils sont rattachés.
+6° Les brigades de la gendarmerie de l'armement placées auprès des
+établissements relevant de la délégation générale pour l'armement autres que
+ceux implantés dans le ressort des cours d'appel de Paris ou de Versailles.
