@@ -24,3 +24,9 @@ prises par des sociétés d'économie mixte locales pour le compte d'une région
 d'un établissement public de coopération interrégionale.
 
 7° Le budget adopté selon la procédure prévue par l'article L. 4311-1-1..
+
+8° Les décisions prises par les régions d'outre-mer en application des articles
+68-21 et 68-22 du code minier ;.
+
+9° Les décisions prises par les régions d'outre-mer en application de l'article
+L. 4433-15-1.

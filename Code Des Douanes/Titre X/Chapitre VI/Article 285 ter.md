@@ -15,7 +15,11 @@ mois qui suit la date de publication de la délibération du conseil régional.
 La taxe est constatée, recouvrée et contrôlée par le service des douanes sous
 les mêmes garanties, privilèges et sanctions qu'en matière de droits de douane.
 
+Une part égale à 30 % du produit de la taxe est affectée au budget des communes
+classées comme stations balnéaires. Ce prélèvement est réparti entre les
+communes concernées au prorata de leur population.
+
 L'Etat perçoit sur le produit de cette taxe un prélèvement pour frais d'assiette
 et de recouvrement égal à 2,5 % du montant dudit produit.
 
-Ces dispositions s'appliquent jusqu'au 31 décembre 2001.
+Ces dispositions s'appliquent jusqu'au 31 décembre 2006.

@@ -8,7 +8,9 @@ affectés. Il peut être prévu, dans des conditions et des limites déterminée
 décret en Conseil d'Etat, la création de plusieurs instituts universitaires de
 formation des maîtres dans certaines académies ou le rattachement à des
 établissements publics à caractère scientifique, culturel et professionnel
-autres que des universités.
+autres que des universités. Lorsqu'un institut universitaire de formation des
+maîtres est créé dans une académie qui ne comprend aucune université, il est
+rattaché à une ou plusieurs universités d'une autre académie.
 
 Les instituts universitaires de formation des maîtres sont des établissements
 publics d'enseignement supérieur. Etablissements publics à caractère

@@ -40,9 +40,32 @@ fonctionnement assumées par l'Etat et par d'autres collectivités ;
 - aux infrastructures de transport et au développement des transports publics de
 personnes.
 
+- à des dépenses d'investissement d'intérêt départemental au tres que les
+précédentes dans la limite de 10 % du montant de la dotation.
+
 C. - Une partie du produit de la taxe est répartie entre les communes qui la
 consacrent :
 
 - à la voirie dont elles ont la charge ;
 
 - au développement des transports publics de personnes.
+
+- à des dépenses d'investissement d'intérêt communal autres que les précédentes
+dans la limite de 10 % du montant de la dotation.
+
+D. - Dans les départements de la Guadeloupe, de la Guyane et de la Martinique,
+une partie du produit de la taxe est affectée au budget des communes de plus de
+50 000 habitants et des établissements publics de coopération intercommunale
+lorsque la population de l'ensemble des communes membres de l'établissement
+dépasse 50 000 habitants, ayant mis en place un service public de transports
+urbains de personnes ou ayant approuvé un plan de déplacement urbain. Elle est
+affectée au financement des dépenses d'investissement et de fonctionnement des
+transports publics urbains et des autres services de transports publics qui,
+sans être entièrement à l'intérieur du périmètre de transports urbains,
+concourent à la desserte de l'agglomération dans le cadre d'un contrat passé
+avec l'autorité responsable de l'organisation des transports urbains. Elle peut
+également être affectée aux aides à la modernisation de l'activité de
+transporteur public de personnes urbain.
+
+Son montant est égal à 3 % du produit total. Elle est répartie entre les
+communes et les établissements publics éligibles au prorata de leur population.

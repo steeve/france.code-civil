@@ -5,7 +5,7 @@ Guyane, de la Martinique et de la Réunion, une taxe spéciale de consommation s
 les produits désignés ci-après :
 
 
-Numéros du tarif des douanes
+Numéro du tarif des douanes
 
 Désignation des produits
 
@@ -62,3 +62,15 @@ consommation avant la date du changement de tarif et existant en stock à cette
 date chez les importateurs, producteurs, raffineurs, négociants et distributeurs
 de produits pétroliers et assimilés, à l'exception des produits se trouvant dans
 les cuves des stations-service.
+
+4. Par dérogation aux dispositions du présent article, les communes de
+Saint-Barthélemy et de Saint-Martin fixent, par délibération du conseil
+municipal et dans la limite de 1,50 F par litre de carburant consommé, les taux
+de la taxe spéciale de consommation sur les produits visés au premier alinéa et
+perçoivent cette taxe sur leur territoire, en lieu et place du Conseil régional.
+Les recettes correspondantes sont affectées à des fonds d'investissement
+destinés à financer l'entretien et la modernisation de la voirie des îles de
+Saint-Barthélemy et de Saint-Martin. En conséquence, les communes de
+Saint-Barthélemy et de Saint-Martin ne bénéficient plus du reversement aux
+communes par la région de la Guadeloupe du produit de la taxe spéciale de
+consommation sur les produits visés au premier alinéa.

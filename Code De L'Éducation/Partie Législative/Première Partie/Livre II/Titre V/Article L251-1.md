@@ -7,3 +7,8 @@ communes applicables à cette collectivité.
 
 Les articles L. 213-1 à L. 213-9 et L. 214-5 à L. 214-10 ne sont pas applicables
 à Saint-Pierre-et-Miquelon.
+
+Aux articles L. 112-1 et L. 351-2, les mots : "commission départementale
+d'éducation spéciale" sont remplacés par les mots :
+
+"commission territoriale d'éducation spéciale".

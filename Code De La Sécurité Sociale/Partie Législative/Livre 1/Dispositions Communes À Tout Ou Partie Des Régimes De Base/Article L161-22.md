@@ -27,7 +27,9 @@ législatif ou réglementaire ;
 4°) activités exercées par des personnes bénéficiant de l'article L. 634-6-1 ;
 
 5°) activités d'hébergement en milieu rural réalisées avec des biens
-patrimoniaux.
+patrimoniaux ;
+
+6° Des activités de parrainage définies à l'article L. 811-2 du code du travail.
 
 Les dispositions du premier alinéa ne sont pas opposables à l'assuré qui demande
 le bénéfice d'une pension au titre des articles L. 351-15, L. 634-3-1, L.
