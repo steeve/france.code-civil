@@ -21,8 +21,8 @@ indemnité de 70 F).
 - auxquels il est procédé les dimanches et jours fériés ... C 1,5 (plus une
 indemnité de 50 F).
 
-d) Pour chaque examen prévu par l'article L. 627-1 du Code de la santé publique
-... C 2
+d) Pour chaque examen prévu par l'article 706-29 du code de procédure pénale ...
+C 2
 
 2° Pour un transport sur les lieux et description de cadavre ... C 2,5
 
