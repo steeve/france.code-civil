@@ -1,13 +1,16 @@
 Article R*523-5
 ----
 En cas de retraite, l'associé coopérateur a droit au remboursement de ses parts
-de capital social.
+de capital social à leur valeur nominale. Toutefois, si les statuts le
+prévoient, il reçoit un montant déterminé par application du deuxième alinéa de
+l'article 18 de la loi du 10 septembre 1947 modifiée ou des articles L. 523-1 et
+L. 523-7, alinéas 3 à 5.
 
-Sauf application des dispositions prévues aux articles L. 523-1 et L. 523-7,
-alinéas 3 à 5, le montant de ce remboursement sera fixé conformément aux
-dispositions de l'article 18 de la loi du 10 septembre 1947 modifiée portant
-statut de la coopération, sans préjudice des intérêts dus sur ces parts et des
-ristournes qui peuvent revenir à l'intéressé.
+Le montant du remboursement est réduit dans l'hypothèse et selon les modalités
+visées à l'article L. 523-2-1.
+
+Dans tous les cas le remboursement est opéré sans préjudice des intérêts dus sur
+ces parts et des ristournes qui peuvent revenir à l'intéressé.
 
 Le remboursement des parts annulées doit être compensé par la constitution d'une
 réserve de même montant.
