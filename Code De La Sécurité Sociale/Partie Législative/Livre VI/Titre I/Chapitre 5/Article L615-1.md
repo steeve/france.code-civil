@@ -31,4 +31,5 @@ de finances n° 63-156 du 23 février 1963 ;
 
 4°) sous réserve des dispositions de l'article L. 311-2 et du 11° de l'article
 L. 311-3, le conjoint associé qui participe à l'activité de l'entreprise
-artisanale ou commerciale.
+artisanale ou commerciale ; 5°) l'associé unique des entreprises unipersonnelles
+à responsabilité limitée.
