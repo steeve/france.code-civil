@@ -1,13 +1,16 @@
 Article R314-4
 ----
-En vue de faciliter la construction de logements destinés à la location aux
-fonctionnaires ou agents de l'Etat et des établissements publics de l'Etat
-mentionnés au premier alinéa de l'article R. 314-1, des conventions peuvent être
-conclues par les ministres chargés des finances, de la défense et de la
-construction et de l'habitation dans des conditions fixées par décret pris sur
-le rapport des ministres chargés des finances, de la fonction publique et de la
-construction et de l'habitation, avec des organismes et sociétés de construction
-qui s'engagent à réserver, en contrepartie de la contribution de l'Etat ou des
-établissements publics de l'Etat, des logements destinés à être loués aux
-fonctionnaires ou agents ci-dessus indiqués. Le pouvoir de passer lesdites
-conventions peut être délégué aux préfets.
+Des conventions peuvent être conclues par l'Etat et ses établissements publics
+n'ayant pas le caractère industriel et commercial avec des organismes ou
+sociétés de construction ou de construction et de gestion de logements ainsi
+qu'avec des organismes gestionnaires de la participation des employeurs à
+l'effort de construction qui s'engagent, en contrepartie d'une contribution
+financière revêtant la forme de prêts ou de subventions, à réserver des
+logements destinés à être loués à des agents de l'Etat ou de ces établissements
+publics.
+
+Ces conventions doivent être conformes à une convention type déterminée par
+arrêté conjoint des ministres des finances et du logement. Elles sont signées,
+au nom de l'Etat, par les ministres qui peuvent déléguer ce pouvoir au
+représentant de l'Etat dans le département et, au nom des établissements
+publics, par les autorités habilitées en vertu de leurs statuts.
