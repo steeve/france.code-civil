@@ -3,7 +3,8 @@ Article L423-16
 Les délégués sont élus pour un an [*durée du mandat*] et rééligibles.
 
 Leurs fonctions prennent fin par le décès, la démission, la résiliation du
-contrat de travail ou la perte des conditions requises pour l'éligibilité.
+contrat de travail ou la perte des conditions requises pour l'éligibilité. Ils
+conservent leur mandat en cas de changement de catégorie professionnelle.
 
 En cas de modification dans la situation juridique de l'employeur telle que
 mentionnée au deuxième alinéa de l'article L. 122-12, le mandat des délégués du

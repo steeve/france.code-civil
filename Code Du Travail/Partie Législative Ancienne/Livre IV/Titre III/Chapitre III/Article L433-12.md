@@ -1,11 +1,12 @@
 Article L433-12
 ----
-Les membres du comité d'entreprise sont désignés pour deux ans, leur mandat est
+Les membres du comité d'entreprise sont élus pour deux ans, leur mandat est
 renouvelable.
 
 Les fonctions de ces membres prennent fin par le décès, la démission, la
 résiliation du contrat de travail ou à la suite d'une condamnation entraînant la
-perte du droit d'éligibilité.
+perte du droit d'éligibilité. Ils conservent leur mandat en cas de changement de
+catégorie professionnelle.
 
 Tout membre du comité peut être révoqué en cours de mandat sur proposition faite
 par l'organisation syndicale qui l'a présenté et approuvé au scrutin secret par

@@ -3,9 +3,11 @@ Article L231-3-1
 Sans préjudice de l'application, s'il y a lieu, des mesures prévues au 3. de
 l'article L. 231-2, tout chef d'établissement est tenu d'organiser une formation
 pratique et appropriée en matière de sécurité, au bénéfice des travailleurs
-qu'il embauche, de ceux qui changent de poste de travail ou de technique, de
-ceux qu'il utilise dans les cas prévus aux alinéas 1° à 4° de l'article L. 124-2
-ainsi que dans les cas prévus aux articles L. 124-2-1 et L. 124-2-2 et, à la
+qu'il embauche, de ceux qui changent de poste de travail ou de technique, des
+travailleurs liés par un contrat de travail temporaire en application des
+articles L. 124-2 et L. 124-2-1 à l'exception de ceux auxquels il est fait appel
+en vue de l'exécution de travaux urgents nécessités par des mesures de sécurité
+et déjà dotés de la qualification nécessaire à cette intervention et, à la
 demande du médecin du travail, de ceux qui reprennent leur activité après un
 arrêt de travail d'une durée d'au moins vingt et un jours.
 
@@ -28,9 +30,9 @@ L'étendue de l'obligation établie par le présent article varie selon la taill
 de l'établissement, la nature de son activité, le caractère des risques qui y
 sont constatés et le type des emplois occupés par les salariés concernés.
 
-Un règlement d'administration publique [*RAP*] pris en application de l'article
-L. 231-2 fixe les conditions dans lesquelles la formation prévue au présent
-article est organisée et dispensée.
+Un décret en Conseil d'Etat pris en application de l'article L. 231-2 fixe les
+conditions dans lesquelles la formation prévue au présent article est organisée
+et dispensée.
 
 Toute modification apportée au poste de travail pour des raisons de sécurité,
 qui entraînerait une diminution de la productivité, est suivie d'une période

@@ -9,22 +9,30 @@ nécessaires à l'accomplissement de leur mission, notamment auprès d'un salari
 son poste de travail, sous réserve de ne pas apporter de gêne importante à
 l'accomplissement du travail des salariés.
 
-Le chef d'entreprise est tenu de laisser aux membres titulaires du comité
-d'entreprise et, dans les entreprises de plus de cinq cents salariés, aux
-représentants syndicaux au comité d'entreprise prévus à l'article L. 433-1, le
-temps nécessaire à l'exercice de leurs fonctions dans la limite d'une durée qui,
-sauf circonstances exceptionnelles, ne peut excéder vingt heures par mois.
+Le chef d'entreprise est tenu [*obligation*] de laisser aux membres titulaires
+du comité d'entreprise et, dans les entreprises de plus de cinq cents salariés
+[*effectifs*], aux représentants syndicaux au comité d'entreprise prévus à
+l'article L. 433-1, le temps nécessaire à l'exercice de leurs fonctions dans la
+limite d'une durée qui, sauf circonstances exceptionnelles, ne peut excéder
+vingt heures par mois [*crédit d'heures de délégation*]. Dans le cas
+d'entreprises dont l'effectif est supérieur à cinq cents salariés, mais dont
+aucun des établissements distincts n'atteint ce seuil, le chef d'entreprise est
+tenu de laisser aux représentants syndicaux au comité central d'entreprise le
+temps nécessaire à l'exercice de leurs fonctions, dans la limite d'une durée
+qui, sauf circonstances exceptionnelles, ne peut excéder vingt heures par mois.
 
 Ce temps est de plein droit considéré comme temps de travail et payé à
 l'échéance normale. En cas de contestation par l'employeur de l'usage fait du
 temps ainsi alloué, il lui appartient de saisir la juridiction compétente.
 
 Le temps passé par les membres titulaires et suppléants aux séances du comité et
-de la commission prévue au dernier alinéa de l'article L. 434-7 est également
-payé comme temps de travail. Il n'est pas déduit des vingt heures prévues à
-l'alinéa précédent pour les membres titulaires.
+aux réunions des commissions prévues aux quatrième et sixième alinéas de
+l'article L. 434-7 est également payé comme temps de travail. Il n'est pas
+déduit des vingt heures prévues au deuxième alinéa pour les membres titulaires.
 
 En ce qui concerne les représentants syndicaux prévus à l'article L. 433-1, le
 temps passé aux séances du comité leur est payé comme temps de travail et n'est
 pas déduit dans les entreprises de plus de cinq cents salariés des vingt heures
-prévues au deuxième alinéa.
+prévues au deuxième alinéa [*antérieurement à la loi 575 :
+
+premier alinéa*].
