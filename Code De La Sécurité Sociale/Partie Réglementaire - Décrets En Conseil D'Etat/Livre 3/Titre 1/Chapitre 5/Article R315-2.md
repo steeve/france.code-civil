@@ -5,6 +5,6 @@ conseils, chirurgiens-dentistes conseils et pharmaciens conseils.
 
 Pour la direction du service du contrôle médical, le directeur de la caisse
 nationale de l'assurance maladie est assisté d'un médecin conseil national et de
-deux médecins conseils nationaux adjoints. Des praticiens conseils peuvent se
+trois médecins conseils nationaux adjoints. Des praticiens conseils peuvent se
 voir confier à l'échelon national certaines attributions ou missions d'ordre
 technique.

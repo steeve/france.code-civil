@@ -5,7 +5,7 @@ sociale, le nombre de sièges attribués aux représentants d'une part des assur
 sociaux, d'autre part des employeurs, ainsi que la répartition de ces sièges
 entre les organisations représentant chacune de ces deux catégories
 d'administrateurs sont identiques à ceux retenus pour la composition des
-conseils d'administration des organismes visés à l'article L. 211-2.
+conseils des organismes visés à l'article L. 211-2.
 
 Les suppléants sont désignés conformément aux dispositions du I de l'article L.
 231-3.

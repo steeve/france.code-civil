@@ -1,7 +1,7 @@
 Article R123-28
 ----
-Chaque année sont organisés deux concours ouvrant l'accès au centre national
-d'études supérieures de sécurité sociale.
+Chaque année sont organisés deux concours ouvrant l'accès à l'Ecole nationale
+supérieure de sécurité sociale.
 
 Le concours interne est ouvert aux personnes âgées de vingt-trois ans au moins
 et de cinquante ans au plus au 1er janvier de l'année du concours et justifiant
@@ -12,7 +12,7 @@ Le concours externe est ouvert aux personnes âgées de trente ans au plus au 1e
 janvier de l'année du concours soit titulaires d'un diplôme national
 sanctionnant un second cycle d'études supérieures, ou d'un titre ou d'un diplôme
 de même niveau figurant sur une liste fixée, sur proposition du conseil
-d'administration du centre, et après avis du ministre chargé des universités,
+d'administration de l'école, et après avis du ministre chargé des universités,
 par arrêté du ministre chargé de la sécurité sociale et du ministre de
 l'agriculture, soit ayant terminé avec succès la première année du second cycle
 d'études supérieures juridiques ou économiques.
@@ -35,16 +35,11 @@ des concours sont fixés par arrêté conjoint du ministre chargé de la sécuri
 sociale et du ministre chargé de l'agriculture sur proposition du conseil
 d'administration.
 
-La liste des candidats définitivement admis en qualité d'élèves au Centre
-national d'études supérieures de sécurité sociale est fixée par un arrêté
-conjoint du ministre chargé de la sécurité sociale et du ministre chargé de
-l'agriculture.
+La liste des candidats définitivement admis en qualité d'élèves à l'Ecole
+nationale supérieure de sécurité sociale est fixée par un arrêté conjoint du
+ministre chargé de la sécurité sociale et du ministre chargé de l'agriculture.
 
 Les candidats définitivement admis doivent obligatoirement suivre la prochaine
 scolarité suivant la date du concours, sauf dérogation accordée par le directeur
-du centre sur demande motivée des intéressés ainsi que de leur employeur pour
+de l'école sur demande motivée des intéressés ainsi que de leur employeur pour
 les candidats internes.
-
-Toutefois les candidats définitivement admis qui sont astreints au service
-national et aptes à l'accomplir immédiatement sont tenus de le faire avant la
-scolarité.

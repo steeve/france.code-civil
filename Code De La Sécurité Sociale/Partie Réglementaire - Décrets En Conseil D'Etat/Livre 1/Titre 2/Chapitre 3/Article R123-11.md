@@ -1,9 +1,8 @@
 Article R123-11
 ----
-Le Centre national d'études supérieures de sécurité sociale est administré par
-un conseil d'administration dont les membres sont nommés par arrêté du ministre
-chargé de la sécurité sociale et du ministre chargé de l'agriculture. Il
-comprend :
+L'Ecole nationale supérieure de sécurité sociale est administré par un conseil
+d'administration dont les membres sont nommés par arrêté du ministre chargé de
+la sécurité sociale et du ministre chargé de l'agriculture. Il comprend :
 
 1° a) Six représentants du régime général de sécurité sociale désignés par
 l'union des caisses nationales de sécurité sociale ;
@@ -26,10 +25,10 @@ travailleurs non salariés des professions non agricoles.
 2° Deux personnes qualifiées désignées par le ministre chargé de la sécurité
 sociale.
 
-3° Un ancien élève du centre désigné par l'association des anciens élèves.
+3° Un ancien élève de l'école désigné par l'association des anciens élèves.
 
 4° Un représentant de chacune des promotions des élèves en cours de scolarité,
-élu dans les conditions prévues par le règlement intérieur du centre.
+élu dans les conditions prévues par le règlement intérieur de l'école.
 
 Lorsqu'il exerce les attributions prévues aux articles R. 123-14 et R. 123-22,
 le conseil d'administration ne comprend que les membres mentionnés aux 1°, 2° et

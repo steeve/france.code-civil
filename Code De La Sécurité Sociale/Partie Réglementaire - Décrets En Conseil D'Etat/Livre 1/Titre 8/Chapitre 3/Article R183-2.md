@@ -1,10 +1,10 @@
 Article R183-2
 ----
-Le conseil d'administration de chaque union régionale des caisses d'assurance
-maladie comprend :
+Le conseil de chaque union régionale des caisses d'assurance maladie comprend :
 
-1° Dix-huit membres désignés parmi les administrateurs titulaires ou suppléants
-des caisses primaires d'assurance maladie membres de l'union régionale, dont :
+1° Dix-huit membres désignés parmi les membres des conseils titulaires ou
+suppléants des caisses primaires d'assurance maladie membres de l'union
+régionale, dont :
 
 a) Huit représentants des assurés sociaux, désignés par les organisations
 syndicales de salariés interprofessionnelles représentatives au plan national,

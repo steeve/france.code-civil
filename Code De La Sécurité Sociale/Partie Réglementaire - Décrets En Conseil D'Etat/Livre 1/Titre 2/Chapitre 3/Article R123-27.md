@@ -1,8 +1,7 @@
 Article R123-27
 ----
-Les biens appartenant à l'Etat et affectés au centre national d'études
-supérieures de sécurité sociale au 13 juin 1977 [*date*] sont remis à
-l'établissement :
+Les biens appartenant à l'Etat et affectés à l'Ecole nationale supérieure de
+sécurité sociale au 13 juin 1977 sont remis à l'établissement :
 
 1°) en toute propriété en ce qui concerne les biens meubles ;
 

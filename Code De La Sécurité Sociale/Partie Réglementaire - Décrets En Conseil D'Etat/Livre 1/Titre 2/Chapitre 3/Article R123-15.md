@@ -1,7 +1,7 @@
 Article R123-15
 ----
 Le conseil d'administration règle par ses délibérations les affaires générales
-du centre.
+de l'école.
 
 Il délibère obligatoirement sur :
 
@@ -9,9 +9,9 @@ Il délibère obligatoirement sur :
 commission pédagogique ;
 
 2° Le rapport annuel présenté par le directeur sur l'activité et le
-fonctionnement du centre ;
+fonctionnement de l'école ;
 
-3° Le budget du centre et ses modifications ;
+3° Le budget de l'école et ses modifications ;
 
 4° Le compte financier et l'affectation des résultats ;
 
@@ -25,9 +25,9 @@ montant, doivent lui être soumis pour approbation ;
 
 8° L'acceptation des dons et legs ;
 
-9° Le règlement intérieur du centre et, si besoin est, celui du conseil
+9° Le règlement intérieur de l'école et, si besoin est, celui du conseil
 d'administration.
 
 Le conseil d'administration donne son avis sur les questions qui lui sont
 soumises par le ministre chargé de la sécurité sociale, le ministre chargé de
-l'agriculture et par le directeur du centre.
+l'agriculture et par le directeur de l'école.

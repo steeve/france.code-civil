@@ -6,9 +6,10 @@ directeur de l'Union des caisses nationales de sécurité sociale dans un délai
 maximum de trois semaines à compter de la date de publication de l'appel à
 candidatures.
 
-Les candidats adressent également copie de leur candidature au directeur de
-l'organisme national compétent et au directeur régional des affaires sanitaires
-et sociales dont relève l'organisme dans lequel ils exercent leur fonction.
+Les candidats adressent également copie de leur candidature au directeur ou au
+directeur général de l'organisme national compétent et au directeur régional des
+affaires sanitaires et sociales dont relève l'organisme dans lequel ils exercent
+leur fonction.
 
 Les candidats aux postes de directeur et d'agent comptable des caisses
 régionales d'assurance maladie et des caisses générales de sécurité sociale

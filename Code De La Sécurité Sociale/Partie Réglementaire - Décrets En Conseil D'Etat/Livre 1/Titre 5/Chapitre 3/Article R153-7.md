@@ -3,12 +3,12 @@ Article R153-7
 Si les budgets de la gestion administrative, de l'action sanitaire et sociale,
 de la prévention et du contrôle médical d'un organisme de sécurité sociale ou
 des établissements gérés par celui-ci, bien que régulièrement arrêtés, votés ou
-délibérés, selon le cas, par le conseil d'administration avant le 1er janvier,
-ne sont pas en état d'être exécutés au commencement de l'année à laquelle ils se
-rapportent, les dépenses ordinaires portées au dernier budget continuent à être
-faites jusqu'à l'entrée en vigueur du nouveau budget, sous réserve des
-modifications justifiées par l'exécution des engagements autorisés ou des
-dépenses obligatoires.
+délibérés, selon le cas, par le conseil ou le conseil d'administration avant le
+1er janvier, ne sont pas en état d'être exécutés au commencement de l'année à
+laquelle ils se rapportent, les dépenses ordinaires portées au dernier budget
+continuent à être faites jusqu'à l'entrée en vigueur du nouveau budget, sous
+réserve des modifications justifiées par l'exécution des engagements autorisés
+ou des dépenses obligatoires.
 
 Ces crédits ne peuvent être employés chaque mois que dans la limite du douzième
 des crédits annuels. Toutefois, pour les crédits en litige, le ministre ou son

@@ -5,24 +5,24 @@ est présidé par un inspecteur général des affaires sociales, désigné par l
 de l'inspection générale des affaires sociales pour une durée de cinq ans, et
 comprend les neuf autres membres suivants :
 
--le directeur de la Caisse nationale de l'assurance maladie des travailleurs
+- le directeur de la Caisse nationale de l'assurance maladie des travailleurs
 salariés ;
 
--le directeur de la Caisse nationale d'assurance vieillesse des travailleurs
+- le directeur de la Caisse nationale d'assurance vieillesse des travailleurs
 salariés ;
 
--le directeur de la Caisse nationale des allocations familiales ;
+- le directeur de la Caisse nationale des allocations familiales ;
 
--le directeur de l'Agence centrale des organismes de sécurité sociale ;
+- le directeur de l'Agence centrale des organismes de sécurité sociale ;
 
--le directeur de l'Union des caisses nationales de sécurité sociale ;
+- le directeur de l'Union des caisses nationales de sécurité sociale ;
 
--le directeur du Centre national d'études supérieures de sécurité sociale ;
+- le directeur de l'Ecole nationale supérieure de sécurité sociale ;
 
--un directeur régional des affaires sanitaires et sociales, désigné par le
+- un directeur régional des affaires sanitaires et sociales, désigné par le
 directeur de la sécurité sociale ;
 
--deux anciens agents de direction ayant exercé les fonctions de directeur ou
+- deux anciens agents de direction ayant exercé les fonctions de directeur ou
 d'agent comptable au sein d'un organisme du régime général et ayant fait valoir
 leurs droits à la retraite depuis moins de trois ans, désignés par le président
 du conseil d'administration de l'Union des caisses nationales de sécurité

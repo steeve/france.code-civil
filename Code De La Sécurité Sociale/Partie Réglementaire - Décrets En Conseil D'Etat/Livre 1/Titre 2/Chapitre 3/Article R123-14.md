@@ -1,15 +1,15 @@
 Article R123-14
 ----
-Le directeur du centre est nommé par décret sur le rapport du ministre chargé de
-la sécurité sociale et du ministre chargé de l'agriculture, après avis du
+Le directeur de l'école est nommé par décret sur le rapport du ministre chargé
+de la sécurité sociale et du ministre chargé de l'agriculture, après avis du
 conseil d'administration.
 
-Le directeur des études et des stages, le directeur du perfectionnement et le
-secrétaire général sont nommés par arrêté conjoint du ministre chargé de la
+Le directeur de la formation initiale, le directeur de la formation continue et
+le secrétaire général sont nommés par arrêté conjoint du ministre chargé de la
 sécurité sociale et du ministre chargé de l'agriculture, sur proposition du
-conseil d'administration et après avis du directeur du centre. Il est mis fin à
+conseil d'administration et après avis du directeur de l'école. Il est mis fin à
 leurs fonctions par arrêté conjoint des mêmes ministres après avis du conseil
-d'administration et du directeur du centre.
+d'administration et du directeur de l'école.
 
 L'agent comptable est nommé par arrêté conjoint du ministre chargé du budget, du
 ministre chargé de la sécurité sociale et du ministre chargé de l'agriculture.

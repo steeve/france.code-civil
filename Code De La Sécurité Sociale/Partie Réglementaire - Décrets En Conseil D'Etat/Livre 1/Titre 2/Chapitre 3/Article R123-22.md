@@ -1,8 +1,8 @@
 Article R123-22
 ----
-Les conférenciers du Centre national d'études supérieures de sécurité sociale
-sont nommés par le directeur, qui en informe le conseil d'administration. Il est
-mis fin à leurs fonctions dans les mêmes conditions.
+Les conférenciers de l'Ecole nationale supérieure de sécurité sociale sont
+nommés par le directeur, qui en informe le conseil d'administration. Il est mis
+fin à leurs fonctions dans les mêmes conditions.
 
 Ils sont choisis de préférence parmi les professeurs de l'enseignement supérieur
 ou secondaire, les fonctionnaires, les personnels supérieurs d'encadrement des

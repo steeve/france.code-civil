@@ -21,7 +21,7 @@ délégation.
 
 En cas de partage des voix, celle du président est prépondérante.
 
-Le directeur du centre, le contrôleur financier et l'agent comptable assistent
+Le directeur de l'école, le contrôleur financier et l'agent comptable assistent
 aux séances du conseil.
 
 Le conseil d'administration peut entendre toute personne utile à son

@@ -1,12 +1,10 @@
 Article R224-7
 ----
-Le directeur de chaque caisse assure le fonctionnement de la caisse sous le
-contrôle du conseil d'administration. Il exécute les décisions du conseil
-d'administration et, pour l'assurance accidents du travail et maladies
-professionnelles, celles de la commission instituée par l'article L. 221-4. Il
-peut, le cas échéant, recevoir délégation du conseil d'administration et, en ce
-qui concerne le directeur de la caisse nationale de l'assurance maladie, de la
-commission instituée par l'article L. 221-4.
+Le directeur des organismes visés aux articles L. 222-1 et L. 223-1 assure le
+fonctionnement desdits organismes sous le contrôle du conseil d'administration.
+Il exécute les décisions du conseil d'administration et peut, le cas échéant, en
+recevoir délégation. Il exécute les décisions du conseil d'administration. Il
+peut, le cas échéant, en recevoir délégation.
 
 Le directeur a seul autorité sur le personnel, fixe l'organisation du travail
 dans les services et assure la discipline générale ; sous réserve des

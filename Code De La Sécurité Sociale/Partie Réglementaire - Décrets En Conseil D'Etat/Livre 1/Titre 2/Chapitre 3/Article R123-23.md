@@ -1,7 +1,7 @@
 Article R123-23
 ----
 Outre les contributions des organismes ou régimes de sécurité sociale, les
-recettes du centre comprennent :
+recettes de l'école comprennent :
 
 1°) les revenus des biens, fonds et valeurs ;
 
@@ -9,11 +9,11 @@ recettes du centre comprennent :
 
 3°) le produit des travaux effectués pour le compte de tiers ;
 
-4°) le produit des activités du centre ;
+4°) le produit des activités de l'école ;
 
 5°) les produits de l'aliénation des biens, fonds et valeurs ;
 
 6°) les sommes perçues en matière de formation professionnelle.
 
-Le centre peut recevoir des subventions allouées par l'Etat ou d'autres
+L'école peut recevoir des subventions allouées par l'Etat ou d'autres
 collectivités publiques.

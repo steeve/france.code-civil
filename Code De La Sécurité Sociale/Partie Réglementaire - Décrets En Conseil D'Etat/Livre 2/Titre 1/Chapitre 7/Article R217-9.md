@@ -1,9 +1,10 @@
 Article R217-9
 ----
-Au vu de l'avis du comité des carrières des agents de direction, le directeur de
-l'organisme national compétent établit la liste de trois noms prévue au deuxième
-alinéa de l'article L. 217-3 parmi les candidatures recevables transmises par
-l'Union des caisses nationales de sécurité sociale.
+Pour les nominations autres que celles prévues à l'article L. 217-3-1, le
+directeur de l'organisme national compétent établit, au vu de l'avis du comité
+des carrières des agents de direction, la liste des trois noms prévue à
+l'article L. 217-3 parmi les candidatures recevables transmises par l'Union des
+caisses nationales de sécurité sociale.
 
 Cette liste est adressée par le directeur de l'organisme national, dans un délai
 de huit jours à compter de la réunion du comité, au président du conseil

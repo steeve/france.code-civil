@@ -1,7 +1,7 @@
 Article R315-5
 ----
 Le médecin-conseil national est nommé par le directeur de la Caisse nationale de
-l'assurance maladie des travailleurs salariés. Les deux médecins-conseils
+l'assurance maladie des travailleurs salariés. Les trois médecins-conseils
 nationaux adjoints sont nommés par le directeur de la Caisse nationale de
 l'assurance maladie des travailleurs salariés, après avis du médecin-conseil
 national.
