@@ -9,7 +9,14 @@ sous le régime du placement sous surveillance électronique. La décision de
 recourir au placement sous surveillance électronique ne peut être prise qu'après
 avoir recueilli le consentement du condamné, donné en présence de son avocat. A
 défaut de choix par le condamné, un avocat est désigné d'office par le
-bâtonnier.
+bâtonnier. La décision de placement sous surveillance électronique d'un mineur
+non émancipé ne peut être prise, dans les mêmes conditions, qu'avec l'accord des
+titulaires de l'exercice de l'autorité parentale.
+
+Lorsque le lieu désigné par le juge de l'application des peines n'est pas le
+domicile du condamné, la décision de placement sous surveillance électronique ne
+peut être prise qu'avec l'accord du maître des lieux, sauf s'il s'agit d'un lieu
+public.
 
 Le placement sous surveillance électronique peut également être décidé, selon
 les modalités prévues à l'alinéa précédent, à titre probatoire de la libération

@@ -4,8 +4,8 @@ Au cours du délai fixé par la juridiction pour accomplir un travail d'intérê
 général, le condamné doit, outre l'obligation d'accomplir le travail prescrit,
 satisfaire aux mesures de contrôle suivantes :
 
-1° Répondre aux convocations du juge de l'application des peines ou de l'agent
-de probation désigné ;
+1° Répondre aux convocations du juge de l'application des peines ou du
+travailleur social désigné ;
 
 2° Se soumettre à l'examen médical préalable à l'exécution de la peine qui a
 pour but de rechercher s'il n'est pas atteint d'une affection dangereuse pour
@@ -19,8 +19,8 @@ obstacle à l'exécution du travail d'intérêt général selon les modalités f
 tout déplacement qui ferait obstacle à l'exécution du travail d'intérêt général
 selon les modalités fixées ;
 
-5° Recevoir les visites de l'agent de probation et lui communiquer tous
-documents ou renseignements relatifs à l'exécution de la peine.
+5° Recevoir les visites du travailleur social et lui communiquer tous documents
+ou renseignements relatifs à l'exécution de la peine.
 
 Il doit également satisfaire à celles des obligations particulières prévues à
 l'article 132-45 que la juridiction lui a spécialement imposées.

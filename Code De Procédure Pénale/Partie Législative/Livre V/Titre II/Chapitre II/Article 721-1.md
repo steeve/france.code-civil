@@ -3,13 +3,14 @@ Article 721-1
 Après un an de détention, une réduction supplémentaire de la peine peut être
 accordée aux condamnés qui manifestent des efforts sérieux de réadaptation
 sociale, notamment en passant avec succès un examen scolaire, universitaire ou
-professionnel traduisant l'acquisition de connaissances nouvelles ou justifiant
-de progrès réels dans le cadre d'un enseignement ou d'une formation. Sauf
-décision du juge de l'application des peines, prise après avis de la commission
-de l'application des peines, les personnes condamnées à un suivi
-socio-judiciaire comprenant une injonction de soins, et qui refusent de suivre
-un traitement pendant leur incarcération, ne sont pas considérées comme
-manifestant des efforts sérieux de réadaptation sociale.
+professionnel traduisant l'acquisition de connaissances nouvelles, en justifiant
+de progrès réels dans le cadre d'un enseignement ou d'une formation ou en
+s'efforçant d'indemniser leurs victimes. Sauf décision du juge de l'application
+des peines, prise après avis de la commission de l'application des peines, les
+personnes condamnées à un suivi socio-judiciaire comprenant une injonction de
+soins, et qui refusent de suivre un traitement pendant leur incarcération, ne
+sont pas considérées comme manifestant des efforts sérieux de réadaptation
+sociale.
 
 Cette réduction, accordée par le juge de l'application des peines après avis de
 la commission de l'application des peines, ne peut excéder, si le condamné est

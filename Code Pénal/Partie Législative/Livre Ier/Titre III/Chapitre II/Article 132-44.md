@@ -3,16 +3,16 @@ Article 132-44
 Les mesures de contrôle auxquelles le condamné doit se soumettre sont les
 suivantes :
 
-1° Répondre aux convocations du juge de l'application des peines ou de l'agent
-de probation désigné ;
+1° Répondre aux convocations du juge de l'application des peines ou du
+travailleur social désigné ;
 
-2° Recevoir les visites de l'agent de probation et lui communiquer les
+2° Recevoir les visites du travailleur social et lui communiquer les
 renseignements ou documents de nature à permettre le contrôle de ses moyens
 d'existence et de l'exécution de ses obligations ;
 
-3° Prévenir l'agent de probation de ses changements d'emploi ;
+3° Prévenir le travailleur social de ses changements d'emploi ;
 
-4° Prévenir l'agent de probation de ses changements de résidence ou de tout
+4° Prévenir le travailleur social de ses changements de résidence ou de tout
 déplacement dont la durée excéderait quinze jours et rendre compte de son retour
 ;
 
