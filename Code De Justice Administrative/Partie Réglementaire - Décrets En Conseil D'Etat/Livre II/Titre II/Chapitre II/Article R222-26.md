@@ -5,10 +5,7 @@ ou, en cas d'absence ou d'empêchement, d'un magistrat désigné à cet effet pa
 président de la cour et ayant au moins le grade de président. Elle comprend,
 outre le président :
 
-1° Deux magistrats affectés à la chambre, désignés en suivant l'ordre du tableau
+1° Un magistrat affecté à la chambre, désigné en suivant l'ordre du tableau
 parmi les magistrats présents ;
 
-2° Un magistrat affecté à une autre chambre, désigné en suivant l'ordre du
-tableau parmi les magistrats présents autres que les présidents de chambre ;
-
-3° Le magistrat rapporteur.
+2° Le magistrat rapporteur.
