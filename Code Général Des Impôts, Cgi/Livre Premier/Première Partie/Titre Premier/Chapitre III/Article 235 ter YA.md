@@ -28,4 +28,8 @@ code.
 V. Un décret précise les modalités d'application du présent article, notamment
 les obligations déclaratives incombant aux établissements redevables de la
 contribution des institutions financières et aux fonds de garantie afin de
-justifier du versement des cotisations de chaque établissement.
+justifier du versement des cotisations de chaque établissement (1).
+
+VI. - Le crédit d'impôt prévu au II n'est plus imputable sur la contribution des
+institutions financières à compter de la contribution due en 2003 sur les
+dépenses et charges comptabilisées en 2002.

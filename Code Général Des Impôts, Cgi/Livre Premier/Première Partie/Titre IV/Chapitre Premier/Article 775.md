@@ -1,4 +1,5 @@
 Article 775
 ----
-Sur justifications fournies par les héritiers, les frais funéraires sont déduits
-de l'actif de la succession dans la limite d'un maximum de 910 euros.
+Les frais funéraires sont déduits de l'actif de la succession pour un montant de
+1 500 €, et pour la totalité de l'actif si celui-ci est inférieur à ce montant
+(1).

@@ -7,6 +7,15 @@ obtenir soit la réparation d'erreurs commises dans l'assiette ou le calcul des
 impositions, soit le bénéfice d'un droit résultant d'une disposition législative
 ou réglementaire.
 
+Relèvent de la même juridiction les réclamations qui tendent à obtenir la
+réparation d'erreurs commises par l'administration dans la détermination d'un
+résultat déficitaire, même lorsque ces dernières n'entraînent pas la mise en
+recouvrement d'une imposition supplémentaire. Les réclamations peuvent être
+présentées à compter de la réception de la réponse aux observations du
+contribuable mentionnée à l'article L. 57 ou, en cas de saisine de la commission
+départementale des impôts directs et des taxes sur le chiffre d'affaires, à
+compter de la notification de l'avis rendu par cette commission.
+
 Sont instruites et jugées selon les règles du présent chapitre toutes actions
 tendant à la décharge ou à la réduction d'une imposition ou à l'exercice de
 droits à déduction, fondées sur la non-conformité de la règle de droit dont il a

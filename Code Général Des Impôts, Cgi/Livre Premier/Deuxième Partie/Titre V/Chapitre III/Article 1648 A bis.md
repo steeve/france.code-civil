@@ -29,10 +29,8 @@ dotation annuelle versée par l'Etat en application du 2° ci-dessus.
 
 5° La somme visée au deuxième alinéa du 6° du II de l'article 1635 sexies.
 
+6° Une dotation annuelle versée par l'Etat à raison de la réforme du régime
+d'assujettissement de France Télécom aux impôts directs locaux. Cette dotation
+est fixée à 271 millions d'euros pour 2003.
+
 III. (Abrogé).
-
-(1) Montant périmé au 1er janvier 2002.
-
-(2) Pour les années 1996, 1997 et 1998, l'évolution de cette dotation obéit
-également aux règles définies à l'article 32 de la Loi de finances pour 1996 (n°
-95-1346 du 30 décembre 1995).

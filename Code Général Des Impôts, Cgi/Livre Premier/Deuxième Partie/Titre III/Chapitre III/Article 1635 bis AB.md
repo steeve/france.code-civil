@@ -13,9 +13,9 @@ comportant des garanties autres que celles visées au premier alinéa doivent
 distinguer la partie de la prime ou cotisation afférente à ces dernières
 garanties.
 
-Le taux de la contribution est de 8,5 % en ce qui concerne les primes ou
-cotisations d'assurance payées par les entreprises artisanales et de 25,5 % en
-ce qui concerne les autres primes ou cotisations d'assurance.
+Le taux de la contribution est de 4 % (1) en ce qui concerne les primes ou
+cotisations d'assurance payées par les entreprises artisanales et de 12,5 % (1)
+en ce qui concerne les autres primes ou cotisations d'assurance.
 
 Cette contribution, appelée lors de l'émission annuelle de la prime, est
 recouvrée suivant les mêmes règles, sous les mêmes garanties et les mêmes

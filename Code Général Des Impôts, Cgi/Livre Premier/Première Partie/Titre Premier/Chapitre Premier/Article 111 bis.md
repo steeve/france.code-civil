@@ -6,3 +6,6 @@ distribués aux associés en proportion de leurs droits.
 
 Cette disposition est applicable, le cas échéant, au prorata des résultats qui
 cessent d'être soumis à cet impôt.
+
+Les dispositions du présent article ne sont pas applicables aux sociétés admises
+au bénéfice du régime prévu à l'article 208 C.

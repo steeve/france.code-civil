@@ -17,11 +17,4 @@ lorsque le changement ne porte que sur une partie de l'établissement, il est
 tenu de souscrire dans les mêmes délais une déclaration rectificative de ses
 bases de taxe professionnelle.
 
-III. Une déclaration récapitulative est souscrite par les entreprises à
-établissements multiples auprès du service dont dépend le principal
-établissement, avant le 1er octobre de l'année précédant celle de l'imposition
-(2).
-
-(1) Annexe II, art. 310 HQ.
-
-(2) Annexe II, art. 310 HR.
+III. Abrogé.

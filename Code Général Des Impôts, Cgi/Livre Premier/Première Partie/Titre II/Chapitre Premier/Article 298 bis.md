@@ -34,12 +34,10 @@ II. Sont soumis de plein droit au régime simplifié prévu au I :
 1° Les exploitants agricoles dont les activités sont, par leur nature ou leur
 importance, assimilables à celles exercées par des industriels ou des
 commerçants, même si ces opérations constituent le prolongement de l'activité
-agricole.
+agricole à l'exception de celles de ces opérations considérées comme entrant
+dans les usages habituels et normaux de l'agriculture.
 
-2° Pour leurs opérations de vente d'animaux vivants de boucherie et de
-charcuterie, les exploitants agricoles qui, en raison des caractéristiques de
-leur exploitation, exercent une influence notable sur le marché local de ces
-animaux.
+2° (abrogé)
 
 3° Pour leurs activités agricoles, les personnes qui effectuent des opérations
 commerciales d'achat, d'importation, d'acquisition intracommunautaire, de vente,
@@ -109,4 +107,4 @@ agricoles.
 
 IV. En cas de cession ou de cessation de leur activité, les exploitants
 agricoles sont tenus de souscrire dans les trente jours la déclaration prévue au
-1° du I ou, le cas échéant, au deuxième alinéa du I de l'article 1693 bis.
+1° du I ou, le cas échéant, au troisième alinéa du I de l'article 1693 bis.

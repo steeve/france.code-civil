@@ -8,7 +8,7 @@ I. Il est créé un fonds national de péréquation qui dispose :
 l'article 6 de la loi de finances pour 1987 (n° 86-1317 du 30 décembre 1986). Ce
 montant évolue chaque année, à compter de 1996, en fonction de l'indice de
 variation des recettes fiscales de l'Etat tel que défini au 2° du II de
-l'article 1648 A bis.
+l'article 1648 A bis (1).
 
 II. Le fonds est réparti entre les communes dans les conditions précisées aux
 III, III bis, IV, V et VI ci-dessous, après prélèvement opéré
@@ -48,10 +48,10 @@ habitants au moins dont le potentiel fiscal est inférieur du tiers au potentiel
 fiscal moyen par habitant de l'ensemble des communes appartenant au même groupe
 démographique, et l'effort fiscal est supérieur à 80 % de l'effort fiscal moyen
 des communes appartenant au même groupe démographique bénéficient du fonds dans
-les conditions prévues au IV.
+les conditions prévues au IV (2).
 
 Les communes qui remplissent la première condition mais pas la seconde, sans que
-leur effort fiscal ne soit inférieur à 90 p. 100 de l'effort fiscal moyen des
+leur effort fiscal ne soit inférieur à 90 % de l'effort fiscal moyen des
 communes appartenant au même groupe démographique, bénéficient d'une attribution
 dans les conditions définies au IV.
 
@@ -116,8 +116,7 @@ groupe démographique et le potentiel fiscal par habitant de la commune, calcul�
 à partir de la seule taxe professionnelle.
 
 Seules sont éligibles les communes dont le potentiel fiscal par habitant est
-inférieur de 20 p. 100 au potentiel fiscal par habitant du même groupe
-démographique.
+inférieur de 20 % au potentiel fiscal par habitant du même groupe démographique.
 
 VI. Aucune attribution calculée en application des alinéas précédents n'est
-versée si son montant est inférieur ou égal à 305 euros.
+versée si son montant est inférieur ou égal à 300 euros.

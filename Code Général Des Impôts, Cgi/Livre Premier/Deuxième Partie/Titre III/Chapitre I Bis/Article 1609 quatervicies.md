@@ -46,13 +46,13 @@ d'aérodromes sont fixées comme suit :
 
 CLASSE : 1
 
-Tarifs par passager : De 2,45 à 4,7 euros
+Tarifs par passager : De 4,3 à 8,5 euros
 
 Tarifs par tonne de fret ou de courrier : De 0,3 à 0,6 euro.
 
 CLASSE : 2
 
-Tarifs par passager : De 1,2 à 4,7 euros.
+Tarifs par passager : De 3,5 à 8 euros.
 
 Tarifs par tonne de fret ou de courrier : De 0,15 à 0,6 euro.
 

@@ -15,6 +15,6 @@ avant le 31 décembre 1990 à condition qu'elle s'incorporent à des installatio
 de production existant au 31 décembre 1980.
 
 Les constructions répondant aux critères définis au premier alinéa et achevées
-avant le 1er janvier 2003 peuvent faire l'objet d'un amortissement exceptionnel
+avant le 1er janvier 2006 peuvent faire l'objet d'un amortissement exceptionnel
 sur douze mois à condition qu'elles s'incorporent à des installations de
 production.

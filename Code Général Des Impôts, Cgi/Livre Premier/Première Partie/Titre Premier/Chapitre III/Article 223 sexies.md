@@ -71,4 +71,8 @@ articles 145 et 216 et retirent de ces participations deux tiers au moins de
 leur bénéfice comptable hors plus-values.
 
 Toutefois, l'exonération de précompte ne s'applique que pour la partie de la
-distribution qui provient des dividendes de ces participations.
+distribution qui provient des dividendes de ces participations ;
+
+9° par les sociétés d'investissements immobiliers cotées et leurs filiales
+visées à l'article 208 C et prélevés sur les bénéfices exonérés en application
+du premier alinéa du II de cet article.

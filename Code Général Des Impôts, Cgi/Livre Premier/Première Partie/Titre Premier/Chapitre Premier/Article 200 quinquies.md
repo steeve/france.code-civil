@@ -2,7 +2,7 @@ Article 200 quinquies
 ----
 I. - Les contribuables qui ont leur domicile fiscal en France au sens de
 l'article 4 B peuvent bénéficier d'un crédit d'impôt d'un montant de 1 525 euros
-au titre des dépenses payées entre le 1er janvier 2001 et le 31 décembre 2002
+au titre des dépenses payées entre le 1er janvier 2001 et le 31 décembre 2005
 pour l'acquisition à l'état neuf ou pour la première souscription d'un contrat
 de location avec option d'achat ou de location souscrit pour une durée d'au
 moins deux ans d'un véhicule automobile terrestre à moteur, dont la conduite

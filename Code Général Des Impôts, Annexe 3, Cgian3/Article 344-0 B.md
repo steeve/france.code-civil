@@ -20,9 +20,8 @@ taxe sur la valeur ajoutée ;
 aux articles 229, 235 ter J, 235 ter KD du code précité et 161 de l'annexe II au
 même code ;
 
-6° A la déclaration récapitulative de taxe professionnelle prévue au III de
-l'article 1477 et à la déclaration de cotisation minimum de taxe professionnelle
-prévue au IV de l'article 1647 E du même code ;
+6° A la déclaration de cotisation minimum de taxe professionnelle prévue au IV
+de l'article 1647 E du même code ;
 
 7° A la déclaration des sociétés immobilières mentionnée aux articles 172 bis du
 même code et 46 C ;

@@ -266,3 +266,10 @@ a. Le taux réduit de l'impôt sur les sociétés est fixé à 25 % ;
 b. L'application de ce taux réduit est subordonnée à la condition que les
 opérations de construction correspondantes présentent un caractère accessoire
 pour la société intéressée.
+
+IV. - Le taux de l'impôt est fixé à 16,5 % en ce qui concerne les plus-values
+imposables en application du 2 de l'article 221 et du deuxième alinéa de
+l'article 223 F, relatives aux immeubles et parts des organismes mentionnés au
+dernier alinéa du II de l'article 208 C inscrits à l'actif des sociétés
+d'investissements immobiliers cotées et de leurs filiales qui ont opté pour le
+régime prévu à cet article.

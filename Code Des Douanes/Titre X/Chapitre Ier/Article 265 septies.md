@@ -15,15 +15,12 @@ taxe intérieure de consommation sur le gazole.
 Ce remboursement est égal à la différence entre le taux de la taxe intérieure de
 consommation sur les produits pétroliers visé au tableau B annexé au 1 de
 l'article 265 applicable au gazole identifié à l'indice 22 et un taux spécifique
-qui est fixé, pour la période du 11 janvier 1999 au 10 janvier 2000, à 244,64 F
-par hectolitre. Ce taux spécifique est fixé à 35,09 euros par hectolitre pour la
-période du 21 janvier 2001 au 20 janvier 2002 et à 36,77 euros par hectolitre
-pour la période du 21 janvier 2002 au 20 janvier 2003. A compter du 21 janvier
-2001, pour chaque semestre, le taux spécifique est affecté, le cas échéant, de
-la différence, si elle est positive, entre le tarif applicable en vertu du d du
-2 du tableau B du 1 de l'article 265 à la date du 1er octobre 2000 et la moyenne
-des taux applicables en vertu du même d pour chacun des bimestres dudit
-semestre.
+qui est fixé, pour la période du 11 janvier 1999 au 10 janvier 2000, à 37,30
+euros (244,64 F) par hectolitre. Ce taux spécifique est fixé à 35,09 euros par
+hectolitre pour la période du 21 janvier 2001 au 20 janvier 2002 et à 36,77
+euros par hectolitre pour la période du 21 janvier 2002 au 31 décembre 2002, et
+37,06 euros par hectolitre pour la période du 1er janvier 2003 au 20 janvier
+2003.
 
 Le remboursement est plafonné à 20 000 litres de gazole par semestre et par
 véhicule. Il est accordé aux entreprises établies dans la Communauté européenne

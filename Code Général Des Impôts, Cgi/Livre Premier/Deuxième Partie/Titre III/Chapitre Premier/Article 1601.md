@@ -13,7 +13,7 @@ de la sécurité sociale sont dégrevées d'office de la taxe.
 Cette taxe est composée :
 
 a. d'un droit fixe par ressortissant, arrêté par les chambres de métiers dans la
-limite d'un montant maximum fixé à 101 euros ;
+limite d'un montant maximum fixé à 105 euros ;
 
 b. d'un droit additionnel à la taxe professionnelle, dont le produit est arrêté
 par les chambres de métiers ; celui-ci ne peut excéder 50 % du produit du droit

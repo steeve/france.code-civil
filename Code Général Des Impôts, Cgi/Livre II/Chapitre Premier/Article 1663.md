@@ -22,7 +22,11 @@ En cas de cession ou de cessation d'entreprise ou de l'exercice d'une profession
 non commerciale, ou de décès de l'exploitant ou du contribuable, l'impôt sur le
 revenu et l'impôt sur les sociétés établis dans les conditions prévues aux
 articles 201, 202, 204 et au 2 de l'article 221 sont immédiatement exigibles
-pour la totalité.
+pour la totalité. Par exception, le montant dû par les sociétés
+d'investissements immobiliers cotées et leurs filiales au titre de l'imposition
+des plus-values visées au IV de l'article 219 est exigible le 15 décembre de
+l'année d'option pour le quart de son montant, le solde étant versé par fraction
+égale au plus tard le 15 décembre des trois années suivant le premier paiement.
 
 Sont également exigibles immédiatement pour la totalité les droits et pénalités
 visés aux articles 1679 bis, 1725, 1726, 1731 et 1768.

@@ -129,7 +129,7 @@ prévues pour les communes ;
 
 2° bis Une deuxième part qui sert à verser :
 
-1. En 1999, en 2000, en 2001 et en 2002 :
+1. En 1999, en 2000, en 2001, en 2002 et en 2003 :
 
 a. Une compensation aux communes éligibles en 1998 à la dotation de solidarité
 urbaine prévue à l'article L. 2334-15 du code général des collectivités
@@ -166,7 +166,7 @@ Les attributions qui reviennent aux communes bénéficiaires de cette part sont
 égales à la baisse enregistrée par chaque commune entre 1998 et 1999 de la
 dotation prévue au IV de l'article 6 de la loi de finances précitée.
 
-2. En 2000, en 2001 et en 2002 :
+2. En 2000, en 2001, en 2002 et en 2003 :
 
 a. Une compensation aux communes éligibles en 1999 à la dotation de solidarité
 urbaine prévue à l'article L. 2334-15 du code général des collectivités
@@ -202,7 +202,7 @@ Les attributions qui reviennent aux communes bénéficiaires de cette part sont
 dotation prévue au IV de l'article 6 de la loi de finances pour 1987 (n° 86-1317
 du 30 décembre 1986) ;
 
-3. En 2001 et en 2002 :
+3. En 2001, en 2002 et en 2003 :
 
 a. Une compensation aux communes éligibles en 2000 à la dotation de solidarité
 urbaine prévue à l'article L. 2334-15 du code général des collectivités
@@ -256,6 +256,9 @@ des collectivités territoriales.
 Le montant des crédits affectés à chacune de ces parts est fixé chaque année par
 le comité des finances locales, à qui il est rendu compte de l'utilisation
 desdites parts.
+
+II bis - La diminution des bases résultant du deuxième alinéa du 2° de l'article
+1467 n'est pas prise en compte pour l'application des 2° et 3° du II.
 
 III. Après application des dispositions du II, le comité des finances locales
 arrête le solde de la seconde fraction du Fonds qui est affecté au fonds

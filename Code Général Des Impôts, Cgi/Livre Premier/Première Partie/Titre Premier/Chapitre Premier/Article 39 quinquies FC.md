@@ -8,4 +8,4 @@ de l'amortissement exceptionnel prévu aux articles 39 quinquies E et 39
 quinquies F.
 
 II. Les dispositions du présent article s'appliquent aux investissements
-réalisés avant le 1er janvier 2003.
+réalisés avant le 1er janvier 2006.

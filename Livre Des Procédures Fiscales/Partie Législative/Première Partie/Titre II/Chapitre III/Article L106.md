@@ -7,9 +7,11 @@ Ces extraits ne peuvent être délivrés que sur une ordonnance du juge du tribu
 d'instance s'ils sont demandés par des personnes autres que les parties
 contractantes ou leurs ayants cause.
 
-Ces extraits peuvent être délivrés dans les mêmes conditions, pour les besoins
-des recherches généalogiques nécessaires au règlement d'une succession, au
-notaire chargé dudit règlement ou aux personnes agissant à sa demande. ;
+Ces extraits peuvent être délivrés, pour les besoins des recherches
+généalogiques nécessaires au règlement d'une succession, au notaire chargé dudit
+règlement ou aux personnes agissant à sa demande, sans qu'il soit besoin de
+demander l'ordonnance du juge du tribunal d'instance mentionnée au deuxième
+alinéa.
 
 Dans les conditions prévues au deuxième alinéa, il peut être délivré copie ou
 extrait du double des actes sous signature privée déposé au service des impôts

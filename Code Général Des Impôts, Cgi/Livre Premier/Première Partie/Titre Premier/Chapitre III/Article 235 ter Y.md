@@ -15,8 +15,11 @@ fournitures et services extérieurs, des frais de transport et de déplacement,
 des frais divers de gestion et des amortissements des immeubles, matériels et
 véhicules utilisés pour les besoins de l'exploitation.
 
-III. Le taux de la contribution est fixé à 1 %. Sur son montant ainsi calculé,
-il est pratiqué un abattement de 3 000 euros.
+III. Le taux de la contribution est fixé à 1 %. Toutefois, ce taux est fixé à
+0,80 % pour la contribution due en 2003 sur les dépenses et charges
+comptabilisées en 2002 et à 0,40 % pour la contribution due en 2004 sur les
+dépenses et charges comptabilisées en 2003. Sur son montant ainsi calculé, il
+est pratiqué un abattement de 3 000 euros.
 
 Elle est établie et recouvrée comme la retenue à la source sur le produit des
 obligations prévue au 1 de l'article 119 bis et sous les mêmes garanties et

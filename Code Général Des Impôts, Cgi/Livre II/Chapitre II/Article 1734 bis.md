@@ -6,9 +6,8 @@ dispositions de l'article 53 A ou le relevé détaillé de certaines catégories
 dépenses prévu à l'article 54 quater ou l'état des abandons de créances et
 subventions prévu au sixième alinéa de l'article 223 B ou qui fournissent des
 renseignements incomplets sont punis d'une amende égale à 5 % des sommes ne
-figurant pas sur le tableau, le relevé ou l'état.
+figurant pas sur le tableau, le relevé ou l'état du seul exercice au titre
+duquel l'infraction est mise en évidence.
 
-Ce taux est ramené à 1 % lorsque aucune infraction de même nature n'a été
-antérieurement commise par le contribuable au titre des trois années précédant
-celle au titre de laquelle l'infraction est commise et que les sommes
-correspondantes sont réellement déductibles.
+Ce taux est ramené à 1 % lorsque les sommes correspondantes sont réellement
+déductibles.

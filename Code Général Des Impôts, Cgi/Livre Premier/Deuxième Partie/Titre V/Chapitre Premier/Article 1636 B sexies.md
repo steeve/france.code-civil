@@ -97,22 +97,31 @@ l'ensemble des communes. Ces règles sont applicables pour les communes qui ont
 adhéré à un établissement public de coopération intercommunale à compter de
 1995.
 
-4. Par exception aux dispositions du b du 1, pour les départements dans lesquels
-le taux de taxe professionnelle de l'année précédente est inférieur au taux
-moyen national de cette taxe constaté la même année pour l'ensemble des
-départements, le conseil général peut, sans pouvoir dépasser ce taux, augmenter
-son taux de taxe professionnelle, par rapport à l'année précédente, dans la
-limite d'une fois et demie l'augmentation de son taux de taxe d'habitation ou,
-si elle est moins élevée, de son taux moyen pondéré de la taxe d'habitation et
-des taxes foncières.
+4. A compter de 2003 et par exception aux dispositions du b du 1, les communes,
+les départements et les organismes de coopération intercommunale dotés d'une
+fiscalité propre peuvent augmenter leur taux de taxe professionnelle, par
+rapport à l'année précédente, dans la limite d'une fois et demie l'augmentation
+de leur taux de taxe d'habitation ou, si elle est moins élevée, de leur taux
+moyen pondéré de la taxe d'habitation et des taxes foncières.
 
-Les dispositions du premier alinéa ne sont pas applicables lorsqu'il est fait
-application des dispositions du quatrième alinéa du 2.
+Les dispositions du premier alinéa du présent 4 ne sont pas applicables
+lorsqu'il est fait application des dispositions du quatrième alinéa du 2.
 
-La majoration prévue au 3 n'est pas applicable l'année au titre de laquelle il
-est fait application des dispositions du premier alinéa (1).
+La majoration prévue au 3 n'est pas applicable s'il est fait application des
+dispositions du premier alinéa du présent 4.
 
-5. (Périmé).
+5. En 2003, l'instance délibérante d'un établissement public de coopération
+intercommunale faisant application des dispositions de l'article 1609 nonies C
+fixe librement le taux de la taxe professionnelle à condition que le produit
+attendu de cette taxe, majoré de la compensation prévue au D de l'article 44 de
+la loi de finances pour 1999 (n° 98-1266 du 30 décembre 1998), ne soit pas
+supérieur au produit voté de cette taxe en 2002, majoré de la même compensation
+pour 2002.
+
+Les dispositions du premier alinéa ne s'appliquent pas aux établissements
+publics de coopération intercommunale dont le périmètre est modifié en 2002 et
+ne font pas obstacle à l'application des autres dispositions du présent code, si
+elles permettent le vote d'un taux de taxe professionnelle plus élevé.
 
 I bis. 1. Dans les communes où le taux ou les bases de la taxe professionnelle
 étaient nuls l'année précédente, le conseil municipal peut fixer le taux de

@@ -1,9 +1,12 @@
 Article L152
 ----
 Les agents des administrations fiscales communiquent aux organismes et services
-chargés de la gestion d'un régime obligatoire de sécurité sociale et aux
-institutions mentionnées au chapitre Ier du titre II du livre IX du code de la
-sécurité sociale les informations nominatives nécessaires :
+chargés de la gestion d'un régime obligatoire de sécurité sociale, de
+l'attribution de la protection complémentaire en matière de santé visée à
+l'article L. 861-1 du code de la sécurité sociale, à la direction générale de la
+comptabilité publique et aux institutions mentionnées au chapitre Ier du titre
+II du livre IX du code de la sécurité sociale les informations nominatives
+nécessaires :
 
 1° à l'appréciation des conditions d'ouverture et de maintien des droits aux
 prestations ;
