@@ -12,4 +12,8 @@ appelés enquêteurs de première information.
 
 Un décret en Conseil d'Etat fixe les conditions de commissionnement des
 enquêteurs techniques, d'agrément des enquêteurs de première information et de
-nomination des membres des commissions d'enquête.
+nomination des membres des commissions d'enquête. Ce décret définit également
+dans quels cas et selon quelles procédures les enquêteurs techniques de
+nationalité étrangère peuvent être autorisés à participer à des investigations
+sur le territoire national, lorsque leur participation est nécessaire au bon
+déroulement de l'enquête.

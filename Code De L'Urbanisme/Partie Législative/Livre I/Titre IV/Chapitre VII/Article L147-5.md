@@ -25,9 +25,8 @@ existant, ainsi que l'amélioration, l'extension mesurée ou la reconstruction d
 constructions existantes, ne peuvent être admises que lorsqu'elles n'entraînent
 pas un accroissement de la capacité d'accueil d'habitants exposés aux nuisances,
 elles peuvent, en outre, être admises dans les secteurs déjà urbanisés et
-desservis par des équipements publics de la zone C lorsqu'elles n'entraînent
-qu'un faible accroissement de la capacité d'accueil d'habitants exposés aux
-nuisances.
+desservis par des équipements publics de la zone C lorsqu'elles n'entraînent pas
+d'accroissement de la capacité d'accueil d'habitants exposés aux nuisances.
 
 3° Dans les zones A et B, les équipements publics ou collectifs ne sont admis
 que lorsqu'ils sont nécessaires à l'activité aéronautique ou indispensables aux
@@ -42,8 +41,8 @@ septies du code des douanes.
 5° A l'intérieur des zones C, les plans d'exposition au bruit peuvent délimiter
 des secteurs où, pour permettre le renouvellement urbain des quartiers ou
 villages existants, des opérations de réhabilitation et de réaménagement urbain
-peuvent être autorisées, à condition qu'elles n'entraînent pas d'augmentation
-significative de la population soumise aux nuisances sonores.
+peuvent être autorisées, à condition qu'elles n'entraînent pas d'augmentation de
+la population soumise aux nuisances sonores.
 
 Le contrat de location d'immeuble à usage d'habitation ayant pour objet un bien
 immobilier situé dans l'une des zones de bruit définies par un plan d'exposition
