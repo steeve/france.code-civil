@@ -23,21 +23,24 @@ B 2 Détail des primes par combinaisons ou sous-catégories.
 B 3 Primes et résultats des acceptations et des cessions en réassurance.
 
 B 4 Eléments d'actif représentant les engagements réglementés et les
-cautionnements et montant de ces engagements et cautionnements. A 5 Liste
-détaillée des placements.
+cautionnements et montant de ces engagements et cautionnements.
 
-B 6 Récapitulation des placements.
+A 5 Liste détaillée des placements.
 
-B 7 Avoirs et engagements en France.
+B 6 Sinistres, paiements et provisions à la charge des cessionnaires.
 
-B 8 Compte d'exploitation générale par pays.
+B 7 Avoirs et engagements par monnaie au 31 décembre.
+
+B 8 Compte d'exploitation par zones économiques.
 
 B 9 Primes.
 
 A 10 Primes et sinistres de la catégorie véhicules terrestres à moteur.
 
-B 10, B 10 bis et B 10 ter Paiements et provisions pour sinistres. B 11 Marge de
-solvabilité.
+B 10, B 10 simplifiés, B 10 bis et B 10 ter Paiements et provisions pour
+sinistres.
+
+B 11 Marge de solvabilité.
 
 A 20 Mouvement au cours de l'exercice inventorié des polices, capitaux ou rentes
 assurés (réassurances non déduites).
@@ -55,13 +58,14 @@ capitalisation aux résultats techniques et financiers. B 26 Etat justificatif d
 la participation des assurés sur la vie ou des porteurs de contrats de
 capitalisation aux résultats techniques et financiers.
 
-B 27 Etat concernant les opérations de coassurance communautaire. Les
-entreprises doivent ajouter des rubriques à celles des tableaux modèles chaque
-fois qu'une telle addition est utile à la sincérité des comptes rendus ; elles
-ont la faculté de le faire chaque fois que cela est utile à la clarté de ces
-comptes. Toutefois, les postes complémentaires doivent toujours être présentés
-comme des subdivisions des rubriques plus générales figurant au tableau modèle,
-et le total de ces postes complémentaires doit toujours être porté sous la
-rubrique réglementaire à laquelle lesdits postes sont rattachés.
+B 27 Etat concernant les opérations de coassurance communautaire.
+
+Les entreprises doivent ajouter des rubriques à celles des tableaux modèles
+chaque fois qu'une telle addition est utile à la sincérité des comptes rendus ;
+elles ont la faculté de le faire chaque fois que cela est utile à la clarté de
+ces comptes. Toutefois, les postes complémentaires doivent toujours être
+présentés comme des subdivisions des rubriques plus générales figurant au
+tableau modèle, et le total de ces postes complémentaires doit toujours être
+porté sous la rubrique réglementaire à laquelle lesdits postes sont rattachés.
 
 Les lignes et les colonnes "néant" peuvent être supprimées.

@@ -11,11 +11,11 @@ posées par le présent chapitre ; de calculer conformément aux prescriptions
 réglementaires les provisions techniques des affaires gérées ; d'adresser
 annuellement au ministre de l'économie et des finances et aux entreprises
 adhérentes un compte d'exploitation générale et un compte général de pertes et
-profits conformes aux comptes 80 et 87, ainsi qu'un état modèle B.10, B.10 bis
-ou B.10 ter, avec indication des pourcentages afférents à chaque entreprise
-adhérente, ainsi que tous autres documents nécessaires au contrôle des
-opérations de coassurance ou de coréassurance qui pourraient être demandés par
-le ministre de l'économie et des finances.
+profits conformes aux comptes 80 et 87, ainsi qu'un état modèle B.10, B.10
+simplifié, B.10 bis ou B.10 ter, avec indication des pourcentages afférents à
+chaque entreprise adhérente, ainsi que tous autres documents nécessaires au
+contrôle des opérations de coassurance ou de coréassurance qui pourraient être
+demandés par le ministre de l'économie et des finances.
 
 Lorsque ces conditions sont remplies, les entreprises adhérentes sont, par
 dérogation aux articles R. 342-13 et R. 342-14, dispensées de fournir au
