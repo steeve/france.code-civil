@@ -1,41 +1,61 @@
 Article R322-7
 ----
-Les conventions [*de coopération*] mentionnées à l'article R. 322-1 (2°) peuvent
-prévoir l'attribution d'une allocation spéciale pour les travailleurs âgés
-faisant l'objet d'un licenciement économique qui, selon une procédure qui doit
-être fixée par chaque convention, auront été déclarés non susceptibles d'un
-reclassement, ainsi que pour les travailleurs âgés menacés d'un licenciement
-économique qui acceptent la transformation de leur emploi à temps plein en
-emploi à mi-temps [*bénéficiaires*].
+I. - Les conventions mentionnées à l'article L. 322-4 peuvent prévoir
+l'attribution d'une allocation spéciale pour les travailleurs âgés faisant
+l'objet d'un licenciement pour motif économique qui, selon des modalités fixées
+par chaque convention, auront été déclarés non susceptibles d'un reclassement.
 
 Ces conventions fixent le montant des ressources garanties et le montant de
-l'allocation spéciale, compte tenu, le cas échéant, des rémunérations versées
-par les employeurs et des allocations ayant le même objet que celui de
-l'allocation régie par le présent article.
+l'allocation spéciale, compte tenu, le cas échéant, du montant de l'indemnité de
+licenciement et des allocations ayant le même objet que la présente allocation.
+Elles déterminent également le niveau de la contribution financière acquittée
+par l'entreprise signataire de la convention.
 
-L'allocation spéciale est servie au plus tard jusqu'à soixante-cinq ans [*âge
-limite*]. Les conditions dans lesquelles elle peut être éventuellement cumulée
-avec une pension de retraite et les modalités de ce calcul sont déterminées par
-décret.
+II. - Elles peuvent également prévoir une allocation de préretraite progressive
+pour les travailleurs âgés lorsque la transformation volontaire de leur emploi à
+temps plein en emploi à temps partiel ou en emploi pendant certaines périodes de
+l'année permet le recrutement d'un ou de plusieurs demandeurs d'emploi ou la
+diminution du nombre de licenciements pour motif économique.
 
-Ces mêmes conventions peuvent également prévoir l'attribution d'une allocation
-spéciale aux travailleurs âgés lorsque la cessation volontaire de leur activité
-ou la transformation de leur emploi à temps plein en emploi à mi-temps permet le
-reclassement ou le placement d'un ou de plusieurs demandeurs d'emploi.
+Pour l'application des dispositions qui précèdent, la durée du travail accompli
+par le salarié intéressé doit être égale à 40 p. 100 au moins ou 50 p. 100 au
+plus de la durée antérieure du travail à temps plein.
 
-En cas de reprise d'une activité professionnelle, le versement de l'allocation
-mentionnée aux premier et quatrième alinéas du présent article est suspendue.
+Les conventions de préretraite progressive déterminent le montant des ressources
+garanties et de l'allocation compte tenu, le cas échéant, des allocations ayant
+le même objet. Elles déterminent également le nombre de recrutements de
+demandeurs d'emploi effectués par l'entreprise en remplacement des salariés en
+préretraite progressive et le niveau de sa contribution financière pour toute
+adhésion non compensée par une embauche de demandeurs d'emploi.
+
+III. - Les allocations spéciales et de préretraite progressive sont servies au
+plus tard jusqu'à soixante-cinq ans. Les conditions dans lesquelles elles
+peuvent être éventuellement cumulées avec une pension de retraite et les
+modalités de ce cumul sont déterminées par décret.
+
+Le versement de l'allocation spéciale est suspendu en cas de reprise d'une
+activité professionnelle. Le versement de l'allocation de préretraite
+progressive est suspendu en cas d'accroissement de la durée du travail des
+bénéficiaires chez l'employeur ayant conclu la convention ou en cas de reprise
+d'une activité professionnelle par le salarié.
+
 Cependant, à titre exceptionnel et pour certaines tâches d'intérêt général
 accomplies pour le compte d'organismes privés à but non lucratif ou de
-collectivités publiques ayant conclu à cet effet une convention avec le
-représentant de l'Etat le versement de l'allocation spéciale peut être maintenu
-en tenant compte des rémunérations éventuellement perçues par l'intéressé
-[*cumul, emploi chômage*].
+collectivités publiques ayant à cet effet conclu une convention avec le
+représentant de l'Etat, le versement de l'allocation spéciale et de l'allocation
+de préretraite progressive peut être maintenu en tenant compte des rémunérations
+éventuellement perçues par l'intéressé. L'allocation de préretraite progressive
+est également maintenue dans le cas où le salarié exerce des missions de turorat
+hors temps de travail dans les conditions définies à l'article L. 322-4 (3°).
 
-Le salaire de référence servant de base à la détermination des allocations
-spéciales versées aux salariés bénéficiaires des conventions conclues en
-application du présent article est fixé d'après les rémunérations, sur
-lesquelles ont été assises les contributions au régime d'assurance chômage au
-titre des douze mois civils précédant le dernier jour de travail payé à
-l'intéressé. Il est revalorisé dans des conditions et suivant des modalités
-définies par décret.
+IV. - Le salaire de référence servant de base à la détermination des allocations
+versées aux salariés bénéficiaires des conventions conclues en application du
+présent article est fixé d'après les rémunérations sur lesquelles ont été
+assises les contributions au régime d'assurance chômage au titre des douze mois
+civils précédant le dernier jour de travail payé à l'intéressé. Il est
+revalorisé dans des conditions et suivant des modalités définies par décret.
+
+V. - Un arrêté conjoint du ministre chargé de l'emploi et du ministre chargé du
+budget précise notamment les conditions d'adhésion des salariés aux conventions
+visées par le présent article, les modalités de calcul du salaire de référence
+et les modalités de détermination de la contribution financière des entreprises.
