@@ -1,49 +1,24 @@
 Article R322-55
 ----
-Les administrateurs peuvent choisir parmi eux ou, si les statuts le permettent,
-en dehors d'eux, un ou plusieurs directeurs ; ils sont responsables envers la
-société de la gestion de ces directeurs.
+Les fonctions d'administrateur et de mandataires mutualistes sont gratuites.
 
-Les statuts doivent prévoir pour l'exercice des fonctions de directeur une
-limite d'âge qui, à défaut d'une disposition expresse, est fixée à soixante-cinq
-ans.
+Cependant, si les statuts le prévoient, le conseil d'administration peut décider
+d'allouer aux administrateurs, dans des limites fixées par l'assemblée générale,
+des indemnités compensatrices du temps passé pour l'exercice de leurs fonctions
+et de rembourser leurs frais de déplacement, de séjour et de garde d'enfants.
 
-Toute nomination intervenue en violation des dispositions prévues à l'alinéa
-précédent est nulle.
+Le conseil d'administration peut également décider d'allouer, dans les mêmes
+conditions, aux mandataires mutualistes des indemnités au titre des contraintes
+afférentes aux missions qui leur ont été confiées dans l'exercice de leur mandat
+et de rembourser leurs frais de déplacement, de séjour et de garde d'enfants.
 
-Lorsqu'un directeur atteint la limite d'âge, il est réputé démissionnaire
-d'office.
+Les indemnités mentionnées aux deux alinéas précédents ont le caractère de
+rémunération au sens de l'article L. 242-1 du code de la sécurité sociale.
 
-Le total des rémunérations que les administrateurs peuvent percevoir en une
-année de la société, à quelque titre que ce soit, ne peut excéder ni le
-traitement annuel fixe du directeur, ni le pourcentage des frais de gestion
-déterminé par l'assemblée générale.
+Le présent article est applicable aux agents publics dans les conditions fixées
+par les dispositions statutaires ou réglementaires qui les régissent.
 
-Aucune rémunération liée d'une manière directe ou indirecte au chiffre
-d'affaires de la société ne peut être allouée à quelque titre que ce soit à un
-administrateur ou à un directeur.
-
-Le directeur et les employés, autres que le personnel directement chargé de la
-commercialisation, ne peuvent être rémunérés que par un traitement fixe et par
-des avantages accessoires ayant le caractère soit d'aide et d'assistance à
-eux-mêmes ou aux membres de leur famille, soit de contribution à la constitution
-de pensions de retraite en leur faveur. Ces avantages ne peuvent en aucun cas
-consister en allocations variables avec l'activité de la société, notamment avec
-le montant des cotisations, le montant des valeurs assurées, ou le nombre des
-sociétaires.
-
-Les dispositions précédentes ne font pas obstacle à l'institution d'un
-intéressement collectif des salariés de l'entreprise dans les conditions prévues
-par l'ordonnance n° 86-1134 du 21 octobre 1986 modifiée relative à
-l'intéressement et à la participation des salariés aux résultats de l'entreprise
-et à l'actionnariat.
-
-Les avantages accessoires qui seraient accordés au directeur ou à l'un
-quelconque des employés, autres que ceux qui sont chargés du placement et de la
-souscription des contrats et que ceux qui dirigent cette activité ou en assurent
-l'encadrement, ne peuvent représenter plus de 20 % du total des sommes affectées
-par la société à de tels avantages, ni plus de 25 % du montant du traitement de
-l'intéressé.
-
-Les sociétés d'assurance mutuelles ne peuvent, en aucun cas, attribuer à forfait
-leur gestion à quelque personne ou à quelque organisme que ce soit.
+L'assemblée générale est informée chaque année du montant des indemnités
+effectivement allouées et des frais remboursés aux administrateurs et aux
+mandataires mutualistes. Ces indemnités et frais sont portés en charges
+d'exploitation.
