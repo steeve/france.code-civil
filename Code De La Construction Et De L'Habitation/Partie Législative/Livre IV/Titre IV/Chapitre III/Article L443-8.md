@@ -1,7 +1,11 @@
 Article L443-8
 ----
-Cette possibilité d'acquisition en propriété est également offerte aux
-locataires ou occupants de bonne foi et avec titres des cités d'expérience
-construites par le ministère chargé de la construction et de l'habitation en
-application de l'ordonnance n. 45-2064 du 8 septembre 1945 (art. 1er) et de la
-loi n. 47-580 du 30 mars 1947.
+Lorsque des immeubles collectifs appartenant à un organisme d'habitations à
+loyer modéré comportent de façon durable un nombre important de logements libres
+à la location, l'organisme propriétaire peut procéder à la vente de ces
+logements au profit des personnes physiques ne disposant pas de ressources
+supérieures à celles qui sont fixées pour l'octroi des prêts aidés par l'Etat
+pour la construction de logements en accession à la propriété. Les locataires de
+l'organisme disposent d'un droit de priorité pour l'acquisition de ces
+logements. Un décret en Conseil d'Etat précise les conditions d'application du
+présent article.

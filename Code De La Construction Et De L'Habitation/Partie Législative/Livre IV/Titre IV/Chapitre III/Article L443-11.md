@@ -1,8 +1,8 @@
 Article L443-11
 ----
-L'acheteur peut payer le prix de vente au comptant ou se libérer par un
-versement initial au moins égal à 20 p. 100 du prix d'acquisition et, pour le
-solde, par des versements dont le montant est calculé compte tenu de ses
-ressources. Dans ce cas les délais de paiement ne peuvent être supérieurs à
-quinze années à compter de l'acquisition du logement et l'acquéreur est soumis
-aux dispositions de l'article L. 443-2.
+Les sommes perçues par les organismes d'habitations à loyer modéré au titre des
+ventes ainsi consenties sont affectées au remboursement des emprunts
+éventuellement contractés pour la la construction des logements vendus et des
+aides publiques qui y sont attachées, ainsi qu'à l'amélioration de leur
+patrimoine et au financement de programmes nouveaux de construction de
+logements.
