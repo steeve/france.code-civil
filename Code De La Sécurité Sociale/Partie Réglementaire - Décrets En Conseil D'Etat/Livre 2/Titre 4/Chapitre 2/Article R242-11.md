@@ -12,7 +12,3 @@ partiel :
 avait été employé à temps complet ;
 
 4°) le montant de l'abattement d'assiette appliqué pour l'année.
-
-Pour les salariés à temps partiel relevant du régime général de sécurité
-sociale, l'état doit être accompagné d'une déclaration de l'intéressé attestant
-qu'il est employé à titre exclusif dans l'entreprise.

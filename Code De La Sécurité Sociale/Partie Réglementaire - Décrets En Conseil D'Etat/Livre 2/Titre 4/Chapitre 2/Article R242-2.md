@@ -7,6 +7,17 @@ en application des dispositions des mêmes décrets, en décomposant la période
 laquelle s'applique le règlement de la rémunération en mois, quinzaines,
 semaines et jours ouvrables.
 
+Si la période à laquelle s'applique le règlement de la rémunération est exprimée
+en jours, les cotisations peuvent également être calculées dans la limite
+obtenue en multipliant la somme fixée pour une rémunération mensuelle par autant
+de trentièmes du plafond mensuel que la période considérée comporte de jours
+ouvrables ou non ouvrables dans la limite de trente trentièmes.
+
+Si la période à laquelle s'applique le règlement de la rémunération est exprimée
+en heures, les cotisations sont calculées dans la limite obtenue en multipliant
+la somme fixée pour une rémunération mensuelle par ce nombre d'heures divisé par
+151, 67.
+
 Les éléments de rémunération versés occasionnellement, à des intervalles
 irréguliers, ou à des intervalles différents de la périodicité des paies sont,
 pour le calcul des cotisations, lorsqu'ils sont versés en même temps qu'une

@@ -14,7 +14,7 @@ choisi par l'assuré.
 
 Dans le cas d'une fusion d'organismes habilités, dans les conditions prévues à
 l'article R. 611-132 du présent code, ou dans le cas d'une adhésion à un
-groupement régional de sociétés d'assurance conventionné par la caisse mutuelle
+groupement de sociétés d'assurance conventionné par la caisse mutuelle
 régionale, les assurés concernés sont affiliés de plein droit à l'organisme
 résultant de la fusion ou au groupement auquel l'organisme a adhéré. Cette
 affiliation ne fait pas obstacle à l'exercice par les assurés de la faculté de

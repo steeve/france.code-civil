@@ -42,6 +42,6 @@ d'organisation technique rendant ce contrôle impossible, le retrait
 d'habilitation peut être prononcé par le ministre chargé de la sécurité sociale,
 après avis de la caisse mutuelle régionale et de la caisse nationale et au vu
 des observations de l'organisme. En ce qui concerne les organismes régis par le
-code des assurances et les groupements régionaux de sociétés d'assurances, le
-retrait est prononcé par arrêté conjoint du ministre chargé du budget et du
-ministre chargé de la sécurité sociale.
+code des assurances et les groupements de sociétés d'assurances, le retrait est
+prononcé par arrêté conjoint du ministre chargé du budget et du ministre chargé
+de la sécurité sociale.

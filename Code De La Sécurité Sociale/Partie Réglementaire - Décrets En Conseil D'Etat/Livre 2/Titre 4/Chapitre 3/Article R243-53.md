@@ -1,8 +1,8 @@
 Article R243-53
 ----
-L'organisme créancier conserve son privilège au-delà de deux ans et trois mois,
-en application du deuxième alinéa de l'article L. 243-5, s'il a été fait mention
-de la saisie en marge des inscriptions avant l'expiration dudit délai.
+L'organisme créancier conserve son privilège au-delà de deux ans et six mois, en
+application du deuxième alinéa de l'article L. 243-5, s'il a été fait mention de
+la saisie en marge des inscriptions avant l'expiration dudit délai.
 
 Le greffier opère cette mention au vu des indications contenues dans un
 certificat établi par l'organisme créancier, si la saisie a été pratiquée à la

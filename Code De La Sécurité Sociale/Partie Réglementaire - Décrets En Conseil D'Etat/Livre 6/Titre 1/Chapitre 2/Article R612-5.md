@@ -2,11 +2,11 @@ Article R612-5
 ----
 Le privilège prévu à l'article R. 612-4 ne conserve ses effets à l'égard des
 sommes dues par des commerçants que s'il a fait l'objet d'une inscription à un
-registre public tenu au greffe du tribunal de commerce dans un délai de trois
-mois suivant l'échéance desdites sommes.
+registre public tenu au greffe du tribunal de commerce dans un délai de six mois
+suivant l'échéance desdites sommes.
 
-L'inscription conserve le privilège pendant deux ans et trois mois à compter du
-jour où elle est effectuée [*durée*]. Elle ne peut être renouvelée.
+L'inscription conserve le privilège pendant deux ans et six mois à compter du
+jour où elle est effectuée. Elle ne peut être renouvelée.
 
 Une inscription peut faire l'objet à tout moment d'une radiation totale ou
 partielle à la diligence des caisses mutuelles régionales ou du redevable sur
