@@ -1,8 +1,11 @@
 Article R351-2
 ----
-Les bénéficiaires de la garantie de ressources prévue à l'article L. 351-5 sont
-dispensés de la condition de recherche d'emploi prévue à l'article L. 351-1.
+En application du deuxième alinéa de l'article L. 351-16 du présent code, sont
+dispensés, à leur demande, de la condition de recherche d emploi posée au
+premier alinéa dudit article:
 
-Sont également dispensés de cette condition les bénéficiaires de l'allocation de
-base mentionnée à l'article l351-5, âgés de soixante ans ou de plus de soixante
-ans
+1° les bénéficiaires des allocations mentionnées à l article L. 351-3 âgés de
+soixante ans ou plus ;
+
+2° les bénéficiaires des allocations mentionnées à l article L. 351-10 âgés de
+cinquante-cinq ans ou plus .
