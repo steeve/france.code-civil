@@ -15,7 +15,14 @@ l'administration a fait connaître au contrevenant la sanction qu'elle se propos
 d'appliquer, les motifs de celle-ci et la possibilité dont dispose l'intéressé
 de présenter dans ce délai ses observations.
 
-L'amende est recouvrée suivant les mêmes procédures et sous les mêmes garanties,
-sûretés et privilèges que celles prévues pour la taxe sur la valeur ajoutée. Les
-recours contre les décisions prises par l'administration sont portés devant le
-tribunal administratif.
+((L'amende est prononçée, dans le même délai de reprise qu'en matière de taxe
+sur la valeur ajoutée, par l'administration qui constate l'infraction. Le
+recouvrement et le contentieux de cette amende sont assurés et suivis par
+l'administration qui prononce l'amende suivant les mêmes procédures, et sous les
+mêmes garanties, sûretés et privilèges que ceux prévus pour cette taxe ;
+
+((Lorsqu'une infraction prévue audit article a fait l'objet d'une amende
+prononcée par l'une des deux administrations, elle ne peut plus être sanctionnée
+par l'autre)) (M).
+
+(M) Modification.
