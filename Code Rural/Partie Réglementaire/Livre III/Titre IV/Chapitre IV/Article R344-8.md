@@ -1,8 +1,7 @@
 Article R344-8
 ----
-Quels que soient le régime matrimonial et les apports respectifs des conjoints,
-un ménage ne peut pas bénéficier simultanément de plusieurs plans d'amélioration
-matérielle.
-
-En outre, il ne peut être attribué de plan d'amélioration matérielle à une
-exploitation bénéficiaire d'un plan de développement en cours de réalisation.
+Un plan d'investissements est une programmation pluriannuelle d'investissements
+réalisée par une personne satisfaisant aux conditions fixées à la section 1. Le
+plan couvre une période de cinq ans pendant laquelle doivent être réalisés les
+investissements et peuvent être demandés les prêts spéciaux de modernisation
+prévu à l'article R. 344-13.
