@@ -1,7 +1,7 @@
 Article 313-7
 ----
 Les personnes physiques coupables de l'un des délits prévus aux articles 313-1,
-313-2, 313-4 et 313-6 encourent également les peines complémentaires suivantes :
+313-2 et 313-6 encourent également les peines complémentaires suivantes :
 
 1° L'interdiction des droits civiques, civils et de famille, suivant les
 modalités prévues par l'article 131-26 ;

@@ -5,8 +5,8 @@ délit peut être sanctionné d'une ou de plusieurs des peines suivantes :
 
 1° La dissolution, lorsque la personne morale a été créée ou, lorsqu'il s'agit
 d'un crime ou d'un délit puni en ce qui concerne les personnes physiques d'une
-peine d'emprisonnement supérieure à cinq ans, détournée de son objet pour
-commettre les faits incriminés ;
+peine d'emprisonnement supérieure ou égale à trois ans, détournée de son objet
+pour commettre les faits incriminés ;
 
 2° L'interdiction, à titre définitif ou pour une durée de cinq ans au plus,
 d'exercer directement ou indirectement une ou plusieurs activités

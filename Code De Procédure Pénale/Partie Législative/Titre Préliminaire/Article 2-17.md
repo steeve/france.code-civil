@@ -1,15 +1,21 @@
 Article 2-17
 ----
-Toute association régulièrement déclarée depuis au moins cinq ans à la date des
-faits et se proposant par ses statuts de défendre et d'assister l'individu ou de
-défendre les droits et libertés individuels et collectifs peut, à l'occasion
-d'actes commis par toute personne physique ou morale, dans le cadre d'un
-mouvement ou organisation ayant pour but ou pour effet de créer ou d'exploiter
-une dépendance psychologique ou physique, dès lors que ces actes portent
-atteinte aux droits de l'homme et aux libertés fondamentales, exercer les droits
-reconnus à la partie civile en ce qui concerne les infractions prévues par les
-articles 222-1 à 222-6, 222-7 à 222-14, 222-15 à 222-18, 222-22 à 222-32, 223-5
-à 223-6, 224-1 à 224-5, 225-5 à 225-12, 225-13 à 225-16, 227-15 à 227-17-2, et
-227-22 à 227-27, 311-1, 311-3 à 311-11, 312-1 à 312-12 et 313-1 à 313-4, 314-1 à
-314-2, 321-1 du code pénal lorsque l'action publique a été mise en mouvement par
-le ministère public ou la partie lésée.
+Toute association reconnue d'utilité publique régulièrement déclarée depuis au
+moins cinq ans à la date des faits et se proposant par ses statuts de défendre
+et d'assister l'individu ou de défendre les droits et libertés individuels et
+collectifs peut, à l'occasion d'actes commis par toute personne physique ou
+morale dans le cadre d'un mouvement ou organisation ayant pour but ou pour effet
+de créer, de maintenir ou d'exploiter une sujétion psychologique ou physique,
+exercer les droits reconnus à la partie civile en ce qui concerne les
+infractions d'atteintes volontaires ou involontaires à la vie ou à l'intégrité
+physique ou psychique de la personne, de mise en danger de la personne,
+d'atteinte aux libertés de la personne, d'atteinte à la dignité de la personne,
+d'atteinte à la personnalité, de mise en péril des mineurs ou d'atteintes aux
+biens prévues par les articles 221-1 à 221-6, 222-1 à 222-40, 223-1 à 223-15,
+223-15-2, 224-1 à 224-4, 225-5 à 225-15, 225-17 et 225-18, 226-1 à 226-23, 227-1
+à 227-27, 311-1 à 311-13, 312-1 à 312-12, 313-1 à 313-3, 314-1 à 314-3 et 324-1
+à 324-6 du code pénal, les infractions d'exercice illégal de la médecine ou de
+la pharmacie prévues par les articles L. 4161-5 et L. 4223-1 du code de la santé
+publique, et les infractions de publicité mensongère, de fraudes ou de
+falsifications prévues par les articles L. 121-6 et L. 213-1 à L. 213-4 du code
+de la consommation.
