@@ -22,7 +22,8 @@ tenu du nombre des médecins inscrits aux derniers tableaux publiés pour
 l'ensemble des départements métropolitains.
 
 2° Deux membres représentant, l'un les départements de la Guadeloupe, de la
-Martinique et de la Guyane, et l'autre le département de la Réunion.
+Martinique et de la Guyane, et l'autre le département de la Réunion et la
+collectivité territoriale de Mayotte.
 
 Outre ces deux membres titulaires sont désignés, dans les mêmes conditions que
 ceux-ci, deux suppléants qui sont obligatoirement élus parmi les médecins

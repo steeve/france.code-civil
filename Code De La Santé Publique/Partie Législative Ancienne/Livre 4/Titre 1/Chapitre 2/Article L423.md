@@ -1,7 +1,7 @@
 Article L423
 ----
-Les peines disciplinaires que le conseil régional ou la chambre territoriale de
-discipline peut appliquer sont les suivantes [*énumération*] :
+Les peines disciplinaires que le conseil régional ou la chambre de discipline
+peut appliquer sont les suivantes [*énumération*] :
 
 L'avertissement.
 
@@ -18,12 +18,14 @@ excéder trois années [*durée maximum*].
 La radiation du tableau de l'Ordre.
 
 Les deux premières de ces peines comportent, en outre, la privation du droit de
-faire partie du conseil départemental, du conseil régional ou du Conseil
-national de l'Ordre pendant une durée de trois ans ; les suivantes la privation
-de ce droit à titre définitif. Le médecin radié ne peut se faire inscrire à un
-autre tableau de l'Ordre. La décision qui l'a frappé est portée à la
-connaissance des autres conseils départementaux ou organes territoriaux et du
-Conseil national dès qu'elle est devenue définitive [*publicité*].
+faire partie du conseil départemental, du conseil territorial, de la chambre de
+discipline du conseil régional ou du Conseil national de l'Ordre pendant une
+durée de trois ans ; les suivantes la privation de ce droit à titre définitif.
+Le médecin radié ne peut se faire inscrire à un autre tableau de l'Ordre. La
+décision qui l'a frappé est portée à la connaissance des autres conseils
+départementaux des conseils, organes, délégations ou institutions en remplissant
+les missions outre-mer et du Conseil national dès qu'elle est devenue définitive
+[*publicité*].
 
 Les peines et interdictions prévues au présent article s'appliquent sur
 l'ensemble du territoire de la République, y compris les territoires et

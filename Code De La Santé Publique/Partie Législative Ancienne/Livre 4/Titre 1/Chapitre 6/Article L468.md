@@ -1,17 +1,17 @@
 Article L468
 ----
-Un conseil départemental de l'ordre des médecins ne sera constitué dans le
-département de Saint-Pierre-et-Miquelon que lorsque le nombre de médecins
-exerçant dans ce département et remplissant les conditions d'éligibilité prévues
-par l'article L. 387 sera au moins le double de l'effectif minimal prévu pour
-les conseils départementaux.
+Le conseil de l'ordre des médecins est constitué dans la collectivité
+territoriale de Saint-Pierre-et-Miquelon lorsque le nombre de médecins exerçant
+dans cette collectivité territoriale et remplissant les conditions d'éligibilité
+prévues à l'article L. 387 est au moins le double de l'effectif minimal prévu
+pour un conseil départemental.
 
 Jusqu'à ce qu'il en soit ainsi, l'inscription au tableau de l'ordre des médecins
-est prononcée par le préfet [*autorité compétente*].
+est prononcée par le préfet.
 
-Toutes les autres attributions du conseil départemental sont dévolues à une
-délégation de trois [*nombre*] membres désignés par le préfet sur proposition du
-conseil national de l'ordre des médecins.
+Les autres attributions du conseil sont dévolues à une délégation de trois
+membres désignés par le préfet sur proposition du Conseil national de l'ordre
+des médecins.
 
 Les dispositions du présent article, à l'exception de celles qui figurent à
 l'alinéa précédent, sont applicables aux chirurgiens-dentistes et aux
