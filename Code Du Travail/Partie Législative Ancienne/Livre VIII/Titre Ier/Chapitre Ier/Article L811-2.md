@@ -1,10 +1,11 @@
 Article L811-2
 ----
-Dans les départements d'outre-mer, l'employeur, pour assurer dans l'entreprise
-la formation pratique d'un apprenti, d'un jeune âgé de dix-huit à trente ans en
-contrat d'accès à l'emploi, d'un salarié en contrat d'adaptation, d'un salarié
-en contrat d'orientation ou d'un salarié en contrat de qualification, peut, pour
-une durée limitée, bénéficier du concours de personnes qui les parrainent.
+Dans les départements d'outre-mer et à Saint-Pierre-et-Miquelon, l'employeur,
+pour assurer dans l'entreprise la formation pratique d'un apprenti, d'un jeune
+âgé de dix-huit à trente ans en contrat d'accès à l'emploi, d'un salarié en
+contrat d'adaptation, d'un salarié en contrat d'orientation ou d'un salarié en
+contrat de qualification, peut, pour une durée limitée, bénéficier du concours
+de personnes qui les parrainent.
 
 Ces personnes sont choisies parmi les salariés concernés par une mesure de
 retraite anticipée au sens de l'article L. 322-4 du présent code, les

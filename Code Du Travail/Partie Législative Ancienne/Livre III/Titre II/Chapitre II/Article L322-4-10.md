@@ -29,3 +29,6 @@ notamment des représentants des maires des communes ou des présidents des
 mise en oeuvre du contrat d'avenir. La composition, les missions et les
 conditions d'organisation et de fonctionnement de cette commission sont fixées
 par décret.
+
+Dans les départements d'outre-mer, l'agence d'insertion met en oeuvre les
+contrats d'avenir conclus avec les bénéficiaires du revenu minimum d'insertion.

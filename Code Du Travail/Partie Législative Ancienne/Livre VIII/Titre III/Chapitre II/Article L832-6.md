@@ -1,10 +1,10 @@
 Article L832-6
 ----
-Dans les départements d'outre-mer, les jeunes âgés de dix-huit à trente ans
-ainsi que les bénéficiaires du dispositif prévu à l'article L. 322-4-18 arrivant
-au terme de leur contrat peuvent bénéficier d'une aide financière de l'Etat
-dénommée aide à un projet initiative-jeune, en vue de faciliter la réalisation
-d'un projet professionnel.
+Dans les départements d'outre-mer et à Saint-Pierre-et-Miquelon, les jeunes âgés
+de dix-huit à trente ans ainsi que les bénéficiaires du dispositif prévu à
+l'article L. 322-4-18 arrivant au terme de leur contrat peuvent bénéficier d'une
+aide financière de l'Etat dénommée aide à un projet initiative-jeune, en vue de
+faciliter la réalisation d'un projet professionnel.
 
 Cette aide bénéficie aux jeunes qui :
 
@@ -46,9 +46,9 @@ articles 313-1 à 313-3 du code pénal.
 
 Les jeunes bénéficiant ou ayant bénéficié de l'aide à un projet initiative-jeune
 et créant ou reprenant une entreprise à but lucratif dont le siège et
-l'établissement principal sont situés dans un département d'outre-mer et dont
-ils assurent la direction effective peuvent également bénéficier des aides
-prévues à l'article L. 351-24.
+l'établissement principal sont situés dans un département d'outre-mer ou à
+Saint-Pierre-et-Miquelon et dont ils assurent la direction effective peuvent
+également bénéficier des aides prévues à l'article L. 351-24.
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent article
 et notamment celles de la suspension ou de la suppression de l'aide, ainsi que
