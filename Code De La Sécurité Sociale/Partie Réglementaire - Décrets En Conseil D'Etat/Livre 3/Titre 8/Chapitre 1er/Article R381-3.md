@@ -1,9 +1,10 @@
 Article R381-3
 ----
 La cotisation due au titre des personnes mentionnées à l'article L. 381-1, à
-l'exception des bénéficiaires de l'allocation parentale d'éducation, est égale
-au taux cumulé de la cotisation employeur et salarié dans le régime général de
-sécurité sociale, pour la couverture du risque vieillesse.
+l'exception des bénéficiaires de l'allocation parentale d'éducation et de
+l'allocation de présence parentale, est égale au taux cumulé de la cotisation
+employeur et salarié dans le régime général de sécurité sociale, pour la
+couverture du risque vieillesse.
 
 Cette cotisation est assise sur une assiette forfaitaire correspondant, par
 mois, au produit du montant du salaire horaire minimum de croissance et des
