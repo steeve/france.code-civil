@@ -34,11 +34,15 @@ ministre chargé de la construction et de l'habitation.
 L'octroi de la subvention est, dans ce cas, subordonné à la production des
 rapports mentionnés au 1. a ou b ci-dessus.
 
-Des dérogations aux taux de la subvention peuvent être accordées par le ministre
-chargé de la construction et de l'habitation, pour des opérations à caractère
-expérimental et, après avis du comité directeur du fonds d'aménagement urbain,
-pour des opérations "Habitat et vie sociale" ainsi que pour d'autres opérations
-lorsqu'elles présentent un caractère social marqué.
+Des dérogations aux taux de la subvention peuvent être accordées pour des
+opérations à caractère expérimental, pour des opérations "habitat et vie
+sociale" ou pour toute autre opération lorsqu'elle présente un caractère social
+marqué.
 
-La décision d'octroi de subvention est prise par le préfet [*autorité
-compétente*].
+La décision de dérogation est prise par le commissaire de la République
+[*autorité compétente*]. Elle ne peut avoir pour effet de modifier le taux de 40
+p. 100 mentionné au 2) ci-dessus. Toutefois, les majorations de taux supérieures
+à 10 p. 100 du côut prévisionnel des travaux et les dérogations portant sur des
+opérations ayant le caractère d'investissement public national ne peuvent être
+octroyées que par décision du ministre chargé de la construction et de
+l'habitation.

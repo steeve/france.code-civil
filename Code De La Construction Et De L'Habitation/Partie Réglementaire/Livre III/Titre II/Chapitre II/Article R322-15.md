@@ -13,6 +13,5 @@ c) Utilisé comme résidence secondaire au-delà des périodes de un, trois et c
 ans prévues à l'article R. 322-13.
 
 En cas de modification de la situation familiale de l'occupant du logement
-primé, des dérogations à l'article R. 322-1 peuvent être accordées par le
-ministre chargé de la construction et de l'habitation aprés avis de la
-commission prévue à l'article R. 322-12.
+primé, des dérogations à l'article R. 322-12 peuvent être accordées par le
+commissaire de la République.
