@@ -54,3 +54,9 @@ public ;
 
 Il peut être saisi, pour avis, par un fournisseur de service auquel a été refusé
 le bénéfice de l'un des kiosques télématiques ou téléphoniques.
+
+Le comité consultatif des kiosques télématiques et téléphoniques peut être
+également saisi par l'un de ses membres de toute question relative à l'accès ou
+au maintien d'un fournisseur de services au kiosque télématique ou téléphonique,
+ou au respect par un fournisseur de services des engagements résultant de la
+convention conclue en application de l'article R. 54-1.
