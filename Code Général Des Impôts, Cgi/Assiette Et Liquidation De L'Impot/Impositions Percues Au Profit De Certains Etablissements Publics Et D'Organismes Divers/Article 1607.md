@@ -6,10 +6,9 @@ travaux figurant aux programmes d'équipement de la région d'Ile-de-France.
 Le montant de cette taxe est arrêté chaque année, pour l'année suivante, par le
 conseil régional [*autorité compétente*].
 
-II. Jusqu'à l'ouverture du premier exercice suivant l'élection des conseils
-régionaux au suffrage universel direct, le montant de la taxe prévue au I est
-notifié au ministre de l'économie et des finances. Il ne peut être inférieur à
-250 millions de francs ni supérieur à 450 millions de francs (1).
+II. Jusqu'au 31 décembre 1986, le montant de la taxe prévue au I est notifié au
+ministre de l'économie et des finances. Il ne peut être inférieur à 250 millions
+de francs ni supérieur à 450 millions de francs (1).
 
 Toutefois, le montant de la taxe arrêté par le conseil régional de même que les
 montants minimum et maximum prévus ci-dessus sont majorés de plein droit chaque
