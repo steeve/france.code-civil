@@ -1,33 +1,34 @@
 Article R322-53
 ----
-L'administration de la société est confiée à un conseil d'administration nommé
-par l'assemblée générale et composé de cinq membres au moins, non compris les
-administrateurs élus par les salariés conformément aux dispositions de l'article
-L. 322-26-2 et dont le nombre doit figurer dans les statuts.
+I. - Lorsque la société est administrée par un conseil d'administration,
+celui-ci est composé de trois membres au moins, non compris les membres élus par
+les salariés, conformément aux dispositions de l'article L. 322-26-2. Les
+statuts fixent le nombre maximum des membres du conseil.
 
-Les administrateurs sont choisis parmi les sociétaires à jour de leurs
-cotisations, à l'exception de ceux qui sont élus par les salariés. Ils doivent
-être remplacés lorsqu'ils ne remplissent plus cette condition.
+Toutefois, en cas de décès, de démission ou de révocation du président du
+conseil d'administration et si le conseil n'a pu le remplacer par un de ses
+membres, il peut nommer, sous réserve des dispositions du IV de l'article R.
+322-55-2, un administrateur supplémentaire qui est appelé aux fonctions de
+président.
 
-Ils ne peuvent être nommés pour plus de six ans ; ils sont rééligibles, sauf
-stipulation contraire des statuts.
+II. - Le conseil d'administration élit parmi ses membres un président qui est, à
+peine de nullité de la nomination, une personne physique. Le conseil peut
+décider de lui allouer une indemnité dans les conditions prévues à l'article R.
+322-55-1 pour les administrateurs. Les statuts peuvent prévoir de lui allouer
+une rémunération dont le montant est déterminé par le conseil d'administration.
 
-Ils sont révocables pour faute grave par l'assemblée générale.
+Le président est nommé pour une durée qui ne peut excéder celle de son mandat
+d'administrateur. Il est rééligible. Le conseil d'administration peut le
+révoquer à tout moment. Toute disposition contraire est réputée non écrite.
 
-Les statuts doivent prévoir, pour l'exercice des fonctions d'administrateur, une
-limite d'âge s'appliquant soit à l'ensemble des administrateurs, soit à un
-pourcentage déterminé d'entre eux.
+III. - Le président du conseil d'administration organise et dirige les travaux
+de celui-ci, dont il rend compte à l'assemblée générale. Il veille au bon
+fonctionnement des organes de la société et s'assure, en particulier, que les
+administrateurs sont en mesure de remplir leur mission.
 
-A défaut de disposition expresse dans les statuts, le nombre des administrateurs
-ayant dépassé l'âge de soixante-dix ans ne peut être supérieur au tiers des
-administrateurs en fonctions.
-
-Toute nomination intervenue en violation des dispositions prévues à l'alinéa
-précédent est nulle.
-
-A défaut de disposition expresse dans les statuts prévoyant une autre procédure,
-lorsque la limitation statutaire ou légale fixée pour l'âge des administrateurs
-est dépassée, l'administrateur le plus âgé est réputé démissionnaire d'office.
-
-Les sociétés d'assurance mutuelles ne peuvent, en aucun cas, attribuer à forfait
-leur gestion à quelque personne ou à quelqu'organisme que ce soit.
+Le président du conseil d'administration rend compte, à l'assemblée générale
+réunie en application de l'article R. 322-62, des conditions de préparation et
+d'organisation des travaux du conseil ainsi que des procédures de contrôle
+interne mises en place par la société. Sans préjudice des dispositions de
+l'article R. 322-53-3, le rapport indique en outre les éventuelles limitations
+que le conseil d'administration apporte aux pouvoirs du directeur général.

@@ -21,5 +21,8 @@ Leurs statuts peuvent prévoir que les tarifs sont fixés par la société ou ca
 auprès de laquelle ces organismes sont réassurés dans les conditions définies au
 premier alinéa du présent article.
 
-Enfin, ces organismes ne sont pas soumis à l'obligation de désigner un
-commissaire aux comptes mentionnée à l'article R. 322-67.
+Ces organismes ne sont pas soumis à l'obligation de désigner un commissaire aux
+comptes mentionnée à l'article R. 322-67, ni à l'obligation de désigner un
+directeur général mentionnée à l'article R. 322-53-2. Les dispositions du
+deuxième alinéa du III de l'article R. 322-53 et des III à VI de l'article R.
+322-55-4 ne leur sont pas applicables.

@@ -33,8 +33,8 @@ L'émission doit être réalisée en une ou plusieurs fois dans le délai de qui
 mois à compter de l'adoption de la résolution par l'assemblée générale des
 sociétaires.
 
-Le conseil d'administration rend compte à la plus prochaine assemblée générale
-de la mise en oeuvre de la résolution.
+Le conseil d'administration ou le directoire rend compte à la plus prochaine
+assemblée générale de la mise en oeuvre de la résolution.
 
 II. - Les dispositions des sections III et III bis du chapitre V du décret n°
 67-236 du 23 mars 1967, à l'exception de celles qui concernent exclusivement les

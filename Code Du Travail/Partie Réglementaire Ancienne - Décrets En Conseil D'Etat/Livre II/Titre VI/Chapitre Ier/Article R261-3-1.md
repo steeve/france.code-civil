@@ -38,7 +38,8 @@ L. 212-4-13 ;
 c) Aura employé à temps partiel un salarié sans respecter le nombre ou la durée
 de la ou des interruptions d'activité quotidienne prévus par les articles L.
 212-4-4 et L. 212-4-6 ou par une convention ou un accord collectif de branche
-étendus ou agréés prévus par ces articles.
+étendus ou agréés prévus par ces articles ou par une convention ou accord
+d'entreprise ou d'établissement.
 
 Les contraventions donneront lieu à autant d'amendes qu'il y a de salariés
 indûment employés.

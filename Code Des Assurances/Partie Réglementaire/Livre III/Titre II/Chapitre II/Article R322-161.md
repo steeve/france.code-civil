@@ -22,9 +22,10 @@ d'établissement ;
 
 b) Prévoir que l'assemblée générale est composée de toutes les entreprises
 affiliées par convention, représentées chacune exclusivement par un de ses
-dirigeants ou administrateurs dûment mandaté ou par un représentant directement
-nommé soit par l'assemblée générale, soit par des délégués eux-mêmes nommés par
-l'assemblée générale de l'entreprise affiliée par convention ;
+dirigeants, administrateurs ou membres du conseil de surveillance dûment mandaté
+ou par un représentant directement nommé soit par l'assemblée générale, soit par
+des délégués eux-mêmes nommés par l'assemblée générale de l'entreprise affiliée
+par convention ;
 
 c) Déterminer le nombre de voix dont dispose chacune de ces entreprises, ce
 nombre pouvant être proportionnel au montant de ses encaissements ou du nombre
@@ -35,11 +36,11 @@ des pouvoirs de contrôle à l'égard des entreprises affiliées par convention,
 condition que les statuts de celles-ci le permettent, y compris en ce qui
 concerne leur gestion. Ils peuvent notamment, à la même condition :
 
-a) Subordonner à l'autorisation préalable du conseil d'administration de la
-société la conclusion par ces entreprises d'opérations énumérées par les
-statuts, notamment la cession d'immeubles par nature, la cession totale ou
-partielle d'actifs ou de participations, la constitution de sûretés et l'octroi
-de cautions, avals ou garanties ;
+a) Subordonner à l'autorisation préalable du conseil d'administration ou du
+conseil de surveillance de la société la conclusion par ces entreprises
+d'opérations énumérées par les statuts, notamment la cession d'immeubles par
+nature, la cession totale ou partielle d'actifs ou de participations, la
+constitution de sûretés et l'octroi de cautions, avals ou garanties ;
 
 b) Prévoir des pouvoirs de sanction de la société à l'égard de ces entreprises.
 
@@ -48,7 +49,7 @@ admission à la société de groupe d'assurance mutuelle modifie au préalable s
 propres statuts afin de reconnaître à la société de groupe d'assurance mutuelle
 le droit de demander la convocation de l'assemblée générale de ladite entreprise
 et de proposer lors de celle-ci l'élection de nouveaux candidats au poste
-d'administrateur.
+d'administrateur ou de membres du conseil de surveillance.
 
 III. - Les dispositions du 4° de l'article R. 322-47 et de l'article R. 322-48
 sont applicables aux statuts des sociétés de groupe d'assurance mutuelle.
