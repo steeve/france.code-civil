@@ -4,24 +4,24 @@ I. - Les dispositions du I de l'article R. 231-52 ne s'appliquent pas aux
 substances suivantes :
 
 1° Substances chimiques qui ne sont utilisées que comme ingrédients actifs pour
-les médicaments à usage humain ou vétérinaire, mentionnés à l'article L. 511 du
-code de la santé publique ;
+les médicaments à usage humain ou vétérinaire, mentionnés à l'article L. 5111-1
+du code de la santé publique ;
 
 2° Substances chimiques contenues dans des produits cosmétiques et substances
-cosmétiques destinés à l'utilisateur final, au sens de l'article L. 658-1 du
+cosmétiques destinés à l'utilisateur final, au sens de l'article L. 5131-1 du
 code de la santé publique ;
 
-3° Substances chimiques qui ne sont présentes que dans les déchets définis par
-la loi n° 75-633 du 15 juillet 1975 ;
+3° Substances chimiques qui ne sont présentes que dans les déchets définis au II
+de l'article L. 541-1 du code de l'environnement ;
 
 4° Substances chimiques exclusivement utilisées dans l'alimentation animale ;
 
 5° Substances chimiques qui ne sont utilisées que comme ingrédients actifs de
-produits antiparasitaires à usage agricole au sens de la loi du 2 novembre 1943
-validée et modifiée, ou de produits assimilés ;
+produits antiparasitaires à usage agricole au sens de l'article L. 253-1 du code
+rural ;
 
-6° Substances radioactives auxquelles s'applique le décret n° 86-1103 du 2
-octobre 1986 ;
+6° Substances radioactives auxquelles s'applique la section VIII du présent
+chapitre ;
 
 7° Substances chimiques exclusivement utilisées comme additifs ou comme arômes
 alimentaires ;
@@ -36,17 +36,17 @@ de l'environnement.
 II. - Les dispositions du II de l'article R. 231-52 ne s'appliquent pas aux
 substances et aux préparations suivantes :
 
-1° Produits radioactifs auxquels s'applique le décret n° 86-1103 du 2 octobre
-1986 ;
+1° Produits radioactifs auxquels s'applique la section VIII du présent chapitre
+;
 
-2° Déchets définis par la loi n° 75-633 du 15 juillet 1975 ;
+2° Déchets définis au II de l'article L. 541-1 du code de l'environnement ;
 
-3° Médicaments à usage humain ou vétérinaire mentionnés à l'article L. 511 du
+3° Médicaments à usage humain ou vétérinaire mentionnés à l'article L. 5111-1 du
 code de la santé publique et produits cosmétiques mentionnés à l'article L.
-658-1 du même code ;
+5131-1 du même code ;
 
-4° Produits antiparasitaires à usage agricole au sens de la loi du 2 novembre
-1943 validée et modifiée ou produits assimilés ;
+4° Produits antiparasitaires à usage agricole au sens de l'article L. 253-1 du
+code rural ;
 
 5° Munitions, matières explosives et explosifs ;
 

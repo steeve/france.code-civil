@@ -9,11 +9,10 @@ mutagènes ou toxiques pour la reproduction.
 
 Pour l'application de la présente sous-section, est considérée comme agent
 cancérogène, mutagène ou toxique pour la reproduction toute substance ou toute
-préparation visée au 1 de l'article R. 231-51 pour laquelle l'étiquetage, prévu
-par l'article L. 231-6, comporte une mention indiquant explicitement son
-caractère cancérogène, mutagène ou toxique pour la reproduction ainsi que toute
-substance, toute préparation ou tout procédé défini comme tel par arrêté des
-ministres chargés du travail et de l'agriculture.
+préparation classée cancérogène, mutagène ou toxique pour la reproduction de
+catégorie 1 ou 2 ainsi que toute substance, toute préparation ou tout procédé
+défini comme tel par arrêté des ministres chargés du travail et de
+l'agriculture.
 
 Pour l'application de la présente sous-section, est considérée comme valeur
 limite d'exposition professionnelle, sauf indication contraire, la limite de la
