@@ -1,9 +1,8 @@
 Article 121-2
 ----
 Les personnes morales, à l'exclusion de l'Etat, sont responsables pénalement,
-selon les distinctions des articles 121-4 à 121-7 et dans les cas prévus par la
-loi ou le règlement, des infractions commises, pour leur compte, par leurs
-organes ou représentants.
+selon les distinctions des articles 121-4 à 121-7, des infractions commises,
+pour leur compte, par leurs organes ou représentants.
 
 Toutefois, les collectivités territoriales et leurs groupements ne sont
 responsables pénalement que des infractions commises dans l'exercice d'activités
