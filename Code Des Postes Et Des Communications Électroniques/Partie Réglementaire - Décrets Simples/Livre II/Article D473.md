@@ -1,15 +1,12 @@
 Article D473
 ----
-Les dispositions du présent chapitre s'appliquent aux stations radio-électriques
-appartenant aux catégories suivantes :
-
-1. Stations installées par les services officiels de l'aéronautique civile pour
-les besoins de la navigation aérienne (exploitation ou expérimentation) ;
-
-2. Stations aéronautiques des aéro-clubs ;
-
-3. Stations aéronautiques, stations fixes aéronautiques, stations de radiophare
-installées par les entreprises de transport aérien ou par des particuliers pour
-assurer les communications nécessaires à l'utilisation d'aéronefs ;
-
-4. Stations installées à bord des aéronefs.
+Les stations des services radioélectriques, lorsqu'elles assurent des
+communications relatives à la sécurité, à la régularité du trafic aérien et à la
+facilitation des vols ou des essais concernant le matériel employé, sont
+soumises aux dispositions des articles D. 133-19 à D. 133-19-10 du code de
+l'aviation civile. Lorsqu'elles assurent des communications autres que celles
+visées ci-dessus, l'établissement du réseau et la fourniture du service de
+communications électroniques correspondant sont autorisés par le ministre chargé
+des communications électroniques, conformément au présent code. Dans ce cas, les
+caractéristiques techniques d'installation des stations sont fixées par le
+ministre chargé de l'aviation civile.
