@@ -65,5 +65,5 @@ n'ayant pas donné lieu à communication des déclarations.
 Le service institué à l'article L. 562-4 est rendu destinataire de ces
 informations par le garde des sceaux, ministre de la justice.
 
-Les dispositions du présent article sont applicables en Nouvelle-Calédonie, dans
-les territoires d'outre-mer et à Mayotte.
+Les dispositions du présent article sont applicables à Mayotte, en
+Nouvelle-Calédonie, en Polynésie française et à Wallis-et-Futuna.

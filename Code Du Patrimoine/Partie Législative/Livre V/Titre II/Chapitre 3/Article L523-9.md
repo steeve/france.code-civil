@@ -6,7 +6,7 @@ délais de réalisation de ces fouilles ainsi que les indemnités dues en cas de
 dépassement de ces délais.
 
 L'Etat autorise les fouilles après avoir contrôlé la conformité du contrat
-mentionné au deuxième alinéa avec les prescriptions de fouilles édictées en
+mentionné au premier alinéa avec les prescriptions de fouilles édictées en
 application de l'article L. 522-2.
 
 L'opérateur exécute les fouilles conformément aux décisions prises et aux

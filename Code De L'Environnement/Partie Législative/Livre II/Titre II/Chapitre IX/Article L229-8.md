@@ -39,6 +39,6 @@ européenne.
 
 V. - Le plan met en réserve des quotas d'émission destinés à être affectés aux
 exploitants d'installations autorisées au cours de la durée du plan ainsi qu'à
-ceux dont l'autorisation viendrait à être modifiée ou dont le niveau de
-production varierait de façon substantielle. L'Etat peut se porter acquéreur de
-quotas en application du II de l'article L. 229-15 pour compléter cette réserve.
+ceux dont l'autorisation viendrait à être modifiée. L'Etat peut se porter
+acquéreur de quotas en application du II de l'article L. 229-15 pour compléter
+cette réserve.

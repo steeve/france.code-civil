@@ -7,10 +7,10 @@ introduire un recours en annulation ou en réformation devant la cour d'appel de
 Paris.
 
 Les décisions sont publiées au Bulletin officiel de la concurrence, de la
-consommation et de la répression des fraudes. Le ministre chargé de l'économie
-veille à leur exécution. Les décisions peuvent prévoir une publication limitée
-pour tenir compte de l'intérêt légitime des parties à ce que leurs secrets
-d'affaires ne soient pas divulgués.
+consommation et de la répression des fraudes. Les décisions peuvent prévoir une
+publication limitée pour tenir compte de l'intérêt légitime des parties à ce que
+leurs secrets d'affaires ne soient pas divulgués. Le ministre chargé de
+l'économie veille à leur exécution.
 
 Le recours n'est pas suspensif. Toutefois, le premier président de la cour
 d'appel de Paris peut ordonner qu'il soit sursis à l'exécution de la décision si
@@ -20,3 +20,6 @@ d'une exceptionnelle gravité.
 
 Le pourvoi en cassation, formé le cas échéant, contre l'arrêt de la cour, est
 exercé dans un délai d'un mois suivant sa notification.
+
+Le ministre chargé de l'économie peut, dans tous les cas, former un pourvoi en
+cassation contre l'arrêt de la cour d'appel de Paris.

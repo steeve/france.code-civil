@@ -1,6 +1,6 @@
 Article L723-18
 ----
-Dans chaque canton, les électeurs du deuxième collège élisent quatre délégués
+Dans chaque canton, les électeurs du deuxième collège élisent trois délégués
 cantonaux.
 
 Toutefois, si le nombre des électeurs d'un ou plusieurs cantons est inférieur à

@@ -10,6 +10,14 @@ ressort des tribunaux de commerce limitrophes ;
 2° Qui remplissent la condition de nationalité prévue à l'article L. 2 du code
 électoral ;
 
+2° bis A l'encontre desquelles une procédure de redressement ou de liquidation
+judiciaires n'a pas été ouverte ;
+
+2° ter Qui, s'agissant des personnes mentionnées au 1° ou au 2° de l'article L.
+713-7 du code de commerce, n'appartiennent pas à une société ou à un
+établissement public ayant fait l'objet d'une procédure de redressement ou de
+liquidation judiciaires ;
+
 3° Et qui justifient soit d'une immatriculation pendant les cinq dernières
 années au moins au registre du commerce et des sociétés, soit de l'exercice,
 pendant une durée totale cumulée de cinq ans, de l'une des qualités énumérées à

@@ -1,6 +1,6 @@
 Article L221-4
 ----
-Les enregistrements sont réalisés dans les conditions ne portant atteinte ni au
+Les enregistrements sont réalisés dans des conditions ne portant atteinte ni au
 bon déroulement des débats ni au libre exercice des droits de la défense. Ils
 sont réalisés à partir de points fixes.
 

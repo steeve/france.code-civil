@@ -21,13 +21,20 @@ Ils doivent, en outre, pour prendre part au vote :
 1° Remplir les conditions fixées à l'article L. 2 du code électoral, à
 l'exception de la nationalité ;
 
-2° Ne pas avoir été condamnés à l'une des peines, déchéances ou sanctions
-prévues par les articles L. 5 et L. 6 du code électoral et par l'article L.
-625-8 du présent code ou à une interdiction d'exercer une activité commerciale ;
+2° Ne pas avoir fait l'objet de l'interdiction visée à l'article L. 6 du code
+électoral ;
+
+2° bis N'avoir pas été frappé de faillite personnelle ou d'une des mesures
+d'interdiction ou de déchéance telles que prévues au chapitre V du titre II du
+livre VI du présent code, au titre VI de la loi n° 85-98 du 25 janvier 1985
+relative au redressement et à la liquidation judiciaires des entreprises ou,
+dans le régime antérieur à cette loi, au titre II de la loi n° 67-563 du 13
+juillet 1967 sur le règlement judiciaire, la liquidation des biens, la faillite
+personnelle et les banqueroutes, d'une mesure d'interdiction définie à l'article
+L. 625-8 du présent code ou d'une mesure d'interdiction d'exercer une activité
+commerciale ;
 
 3° Ne pas avoir été condamnés à des peines, déchéances ou sanctions prononcées
 en vertu de législations en vigueur dans les Etats membres de la Communauté
 européenne ou dans les Etats parties à l'accord sur l'Espace économique européen
-qui, si elles avaient été prononcées par une juridiction française, feraient
-obstacle à l'inscription sur la liste électorale établie conformément aux
-dispositions du code électoral.
+équivalentes à celles visées aux 2° et 2° bis.

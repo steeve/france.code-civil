@@ -22,12 +22,18 @@ de la Cour des comptes ;
 6° Quatre membres choisis en raison de leur compétence en matière d'assurance,
 de mutualité et de prévoyance.
 
-Les membres mentionnés aux 3° à 6° sont nommés par arrêté conjoint des ministres
-chargés de l'économie, de la sécurité sociale et de la mutualité.
+Les membres mentionnés aux 3° et 6° sont nommés par arrêté conjoint des
+ministres chargés de l'économie, de la sécurité sociale et de la mutualité. Un
+vice-président de la commission de contrôle est également nommé parmi ces
+membres par arrêté conjoint des ministres, pris après avis du président. Le
+vice-président exerce les compétences du président en cas d'absence ou
+d'empêchement de celui-ci.
 
-Le gouverneur de la Banque de France peut être représenté. Des suppléants du
-président et des autres membres sont nommés dans les mêmes conditions que les
-titulaires.
+Le gouverneur de la Banque de France peut être représenté. Des suppléants des
+membres mentionnés aux 3° à 6° sont nommés dans les mêmes conditions que les
+titulaires. Le suppléant du membre nommé vice-président de la commission de
+contrôle le remplace lorsqu'il exerce les compétences du président en
+application de l'alinéa précédent.
 
 Le directeur du Trésor, ou son représentant, et le directeur de la sécurité
 sociale, ou son représentant, siègent auprès de la commission de contrôle en

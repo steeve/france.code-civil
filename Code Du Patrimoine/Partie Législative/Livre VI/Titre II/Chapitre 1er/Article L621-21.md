@@ -9,6 +9,6 @@ d'Etat. En cas de cession à une personne privée, le principe et les conditions
 de la cession sont approuvés par décret en Conseil d'Etat, l'ancien propriétaire
 ayant été mis en mesure de présenter ses observations.
 
-Les dispositions du premier alinéa de l'article L. 621-22 sont applicables aux
-cessions faites à des personnes publiques, en vertu des dispositions du premier
-alinéa du présent article.
+Les dispositions de l'article L. 621-22 sont applicables aux cessions faites à
+des personnes publiques, en vertu des dispositions du premier alinéa du présent
+article.

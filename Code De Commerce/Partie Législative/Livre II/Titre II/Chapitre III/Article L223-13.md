@@ -23,9 +23,7 @@ auteur.
 Il peut aussi être stipulé que la société continuera, soit avec le conjoint
 survivant, soit avec un ou plusieurs des héritiers, soit avec toute autre
 personne désignée par les statuts ou, si ceux-ci l'autorisent, par dispositions
-testamentaires. Lorsque la société continue dans ces conditions, la valeur des
-droits sociaux attribués aux bénéficiaires de cette stipulation est rapportée à
-la succession.
+testamentaires.
 
 Dans les cas prévus au présent article, la valeur des droits sociaux est
 déterminée au jour du décès conformément à l'article 1843-4 du code civil.

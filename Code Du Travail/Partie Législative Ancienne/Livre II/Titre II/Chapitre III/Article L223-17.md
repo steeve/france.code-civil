@@ -13,7 +13,6 @@ l'article L. 631-1.
 
 Les contrôleurs doivent être agréés. Cet agrément est révocable à tout moment.
 
-Avant d'entrer en fonction les contrôleurs prêtent, devant le préfet du
-département où la caisse a son siège, serment de ne rien révéler des secrets de
-fabrication et, en général, des procédés et résultats d'exploitation dont ils
-pourraient prendre connaissance dans l'exercice de leur mission.
+Les contrôleurs ne doivent rien révéler des secrets de fabrication ni des
+procédés et résultats d'exploitation dont ils pourraient prendre connaissance
+dans l'exercice de leur mission.

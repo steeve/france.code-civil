@@ -10,7 +10,7 @@ déterminera les monuments auxquels s'applique cette extension et délimitera le
 périmètre de protection propre à chacun d'eux.
 
 Lors de l'élaboration ou de la révision d'un plan local d'urbanisme, le
-périmètre de 500 mètres mentionné au cinquième alinéa peut, sur proposition de
+périmètre de 500 mètres mentionné au premier alinéa peut, sur proposition de
 l'architecte des Bâtiments de France et après accord de la commune, être modifié
 de façon à désigner des ensembles d'immeubles et des espaces qui participent de
 l'environnement du monument pour en préserver le caractère ou contribuer à en

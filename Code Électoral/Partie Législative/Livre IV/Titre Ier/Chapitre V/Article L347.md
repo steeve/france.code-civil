@@ -1,7 +1,8 @@
 Article L347
 ----
-La déclaration de candidature résulte du dépôt à la préfecture de région d'une
-liste répondant aux conditions fixées aux articles L. 338, L. 346 et L. 348.
+La déclaration de candidature résulte du dépôt à la préfecture chef-lieu de la
+région d'une liste répondant aux conditions fixées aux articles L. 338, L. 346
+et L. 348.
 
 Elle est faite collectivement pour chaque liste par le candidat tête de liste ou
 par un mandataire porteur d'un mandat écrit établi par ce candidat. Elle indique

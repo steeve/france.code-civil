@@ -25,7 +25,9 @@ paiement ;
 
 g) La justification de l'une ou l'autre des garanties de paiement prévues à
 l'article 14 de la loi n° 75-1334 du 31 décembre 1975 relative à la
-sous-traitance.
+sous-traitance ou de toute autre garantie, délivrée par un établissement de
+crédit ou une entreprise d'assurance, de nature à garantir le paiement des
+sommes dues au titre du sous-traité.
 
 Copie des contrats de sous-traitance est adressée par le constructeur à
 l'établissement qui apporte la garantie prévue à l'article L. 231-6.

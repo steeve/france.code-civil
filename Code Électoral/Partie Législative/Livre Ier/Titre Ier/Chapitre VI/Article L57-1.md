@@ -1,8 +1,8 @@
 Article L57-1
 ----
 Des machines à voter peuvent être utilisées dans les bureaux de vote des
-communes de plus de 3 500 habitants figurant sur une liste qui sera fixée par
-décret en Conseil d'Etat.
+communes de plus de 3 500 habitants figurant sur une liste arrêtée dans chaque
+département par le représentant de l'Etat.
 
 Les machines à voter doivent être d'un modèle agréé par arrêté du ministre de
 l'Intérieur et satisfaire aux conditions suivantes :

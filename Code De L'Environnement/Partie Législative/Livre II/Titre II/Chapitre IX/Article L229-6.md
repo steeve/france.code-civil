@@ -4,8 +4,7 @@ Les installations qui entrent dans le champ d'application de la présente sectio
 sont soumises à autorisation pour l'émission de gaz à effet de serre.
 
 L'autorisation prévue à l'article L. 512-1 tient lieu de l'autorisation prévue à
-l'alinéa précédent sous réserve des dispositions particulières contenues dans la
-présente section.
+l'alinéa précédent.
 
 Un arrêté pris par le ministre chargé des installations classées fixe les
 modalités de mise en oeuvre des obligations particulières de surveillance, de

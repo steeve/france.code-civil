@@ -1,11 +1,13 @@
 Article L430-3
 ----
-L'opération de concentration doit être notifiée au ministre chargé de
-l'économie. Cette notification intervient lorsque la ou les parties concernées
-sont engagées de façon irrévocable, et notamment après la conclusion des actes
-la constituant, la publication de l'offre d'achat ou d'échange ou l'acquisition
-d'une participation de contrôle. Le renvoi par la Commission des Communautés
-européennes vaut notification.
+L'opération de concentration doit être notifiée au ministre chargé de l'économie
+avant sa réalisation. La notification peut intervenir dès lors que la ou les
+parties concernées sont en mesure de présenter un projet suffisamment abouti
+pour permettre l'instruction du dossier et notamment lorsqu'elles ont conclu un
+accord de principe, signé une lettre d'intention ou dès l'annonce d'une offre
+publique. Le renvoi au ministre chargé de l'économie de tout ou partie d'un cas
+de concentration notifié à la Commission européenne vaut notification au sens du
+présent article.
 
 L'obligation de notification incombe aux personnes physiques ou morales qui
 acquièrent le contrôle de tout ou partie d'une entreprise ou, dans le cas d'une

@@ -5,13 +5,13 @@ la sauvegarde des éléments remarquables des espaces naturels ou paysagers
 menacés de dégradation, de disparition ou de dispersion sont énoncées à
 l'article L. 143-2 du code du patrimoine ci-après reproduit :
 
-"Art. L. 143-2. - La "Fondation du patrimoine" a pour but de promouvoir la
+"Art. L. 143-2 - La "Fondation du patrimoine" a pour but de promouvoir la
 connaissance, la conservation et la mise en valeur du patrimoine national. Elle
 s'attache à l'identification, à la préservation et à la mise en valeur du
 patrimoine non protégé.
 
 "Elle contribue à la sauvegarde des monuments, édifices, ensembles mobiliers ou
-éléments remarquables des épaves naturels ou paysagers menacés de dégradation,
+éléments remarquables des espaces naturels ou paysagers menacés de dégradation,
 de disparition ou de dispersion. Elle concourt ainsi à l'emploi, à l'insertion,
 à la formation et à la transmission des savoir-faire dans les secteurs de la
 restauration et de la valorisation du patrimoine et des sites.

@@ -1,7 +1,7 @@
 Article L132-1
 ----
-Le dépôt légal consiste en la remise du document à l'organisme dépositaire ou
-par son envoi en franchise postale, en un nombre limité d'exemplaires.
+Le dépôt légal consiste en la remise du document à l'organisme dépositaire ou en
+son envoi en franchise postale, en un nombre limité d'exemplaires.
 
 Un décret en Conseil d'Etat fixe :
 

@@ -3,13 +3,12 @@ Article L233-7
 Lorsque les actions d'une société ayant son siège sur le territoire de la
 République sont inscrites en compte chez un intermédiaire habilité dans les
 conditions prévues par l'article L. 211-4 du code monétaire et financier, toute
-personne physique ou personne morale agissant seule ou de concert détenant des
-titres de capital au porteur inscrits en compte chez un intermédiaire habilité
-et qui vient à posséder un nombre d'actions représentant plus du vingtième, du
-dixième, du cinquième, du tiers, de la moitié ou des deux tiers du capital ou
-des droits de vote informe la société dans un délai fixé par décret en Conseil
-d'Etat, à compter du franchissement du seuil de participation, du nombre total
-d'actions ou de droits de vote qu'elle possède.
+personne physique ou personne morale agissant seule ou de concert qui vient à
+posséder un nombre d'actions représentant plus du vingtième, du dixième, du
+cinquième, du tiers, de la moitié ou des deux tiers du capital ou des droits de
+vote informe la société dans un délai fixé par décret en Conseil d'Etat, à
+compter du franchissement du seuil de participation, du nombre total d'actions
+ou de droits de vote qu'elle possède.
 
 Elle en informe également l'Autorité des marchés financiers dans un délai de
 cinq jours de bourse à compter du franchissement du seuil de participation,
