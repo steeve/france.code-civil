@@ -11,7 +11,12 @@ a. par le régime des travailleurs non-salariés des professions non-agricoles,
 pour ce qui concerne les prestations en nature de l'assurance maladie ;
 
 b. par le régime des exploitants agricoles, à ses retraités de droit direct âgés
-d'au moins soixante-cinq ans, pour ce qui concerne l'assurance vieillesse ;
+d'au moins soixante-cinq ans, pour ce qui concerne l'assurance vieillesse.
+
+Toutefois, pour 1992 et 1993, la prestation de référence servant au calcul de la
+compensation visée à l'alinéa précédent est la prestation servie par
+l'organisation autonome du régime d'assurance vieillesse des professions
+industrielles et commerciales.
 
 2°) cotisation moyenne : la cotisation théorique uniforme qui devrait être
 versée par chaque cotisant actif de l'ensemble des régimes dans chacune des
