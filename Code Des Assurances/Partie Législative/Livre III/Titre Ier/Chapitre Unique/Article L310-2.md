@@ -1,8 +1,8 @@
 Article L310-2
 ----
-Sous réserve des dispositions de l'article L. 310-10, les opérations définies à
-l'article L. 310-1 ne peuvent être pratiquées sur le territoire de la République
-française que :
+Sous réserve des dispositions de l'article L. 310-10, les opérations d'assurance
+directe définies à l'article L. 310-1 ne peuvent être pratiquées sur le
+territoire de la République française que :
 
 1° par les entreprises ayant leur siège social en France, à partir de leur siège
 ou de leurs succursales régulièrement établies dans un Etat membre des

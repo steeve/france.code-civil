@@ -1,8 +1,8 @@
 Article L310-12
 ----
 Il est institué une commission de contrôle des assurances chargée de contrôler
-les entreprises mentionnées à l'article L. 310-1, à l'exception de celles qui
-ont pour objet exclusif la réassurance.
+les entreprises soumises au contrôle de l'Etat en application de l'article L.
+310-1.
 
 La commission veille au respect, par les entreprises d'assurance, des
 dispositions législatives ou réglementaires relatives à l'assurance. Elle
@@ -31,3 +31,12 @@ La commission peut décider de soumettre au contrôle toute personne physique ou
 morale ayant reçu d'une entreprise mentionnée à l'article L. 310-1 un mandat de
 souscription ou de gestion, ou exerçant, à quelque titre que ce soit, le
 courtage d'assurance.
+
+La commission veille également au respect, par les entreprises soumises au
+contrôle de l'Etat en application de l'article L. 310-1-1 et les sociétés de
+participations d'assurance définies à l'article L. 345-1, des dispositions
+législatives et réglementaires qui leur sont applicables en vertu du présent
+livre. Un arrêté du ministre chargé de l'économie détermine la nature, la
+périodicité et le contenu des informations et des documents que les entreprises
+mentionnées au présent alinéa sont tenues de communiquer périodiquement à la
+commission de contrôle des assurances pour lui permettre d'exercer sa mission.
