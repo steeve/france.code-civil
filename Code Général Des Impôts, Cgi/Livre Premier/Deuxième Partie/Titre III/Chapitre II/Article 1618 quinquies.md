@@ -14,24 +14,26 @@ b. Pour les huiles importées en France continentale et en Corse (y compris les
 huiles d'animaux marins qui, pour l'assujettissement à la taxe spéciale, sont
 assimilées aux huiles végétales alimentaires), lors de l'importation.
 
-II. Les taux de la taxe sont fixés comme suit (1) : Huile d'olive : Par
-kilogramme 0,816 F Par litre 0,735 F
+II. Les taux de la taxe sont fixés comme suit (1) :
 
-Huiles d'arachide et de maïs : Par kilogramme 0,735 F Par litre 0,670 F
+Huile d'olive : Par kilogramme 0,83916 F, Par litre 0,756 F ;
 
-Huiles de colza et de pépins de raisin : Par kilogramme 0,376 F Par litre 0,343
+Huiles d'arachide et de maïs : Par kilogramme 0,75635 F Par litre 0,689 F ;
+
+Huiles de colza et de pépins de raisin : Par kilogramme 0,387 F Pa litre 0,363 F
+;
 
 Autres huiles végétales fluides et huiles d'animaux marins dont le commerce et
 l'utilisation ne sont pas soumis aux règles internationales ou nationales
-relatives aux espèces protégées : Par kilogramme 0,641 F Par litre 0,560 F
+relatives aux espèces protégées : Par kilogramme 0,659 F Par litre 0,576 F ;
 
-Huiles de coprah et de palmiste : Par kilogramme 0,489 F Par litre 0,560 F
+Huiles de coprah et de palmiste : Par kilogramme 0,503 F Par litre 0,576 F ;
 
-Huile de palme : Par kilogramme 0,447 F Par litre 0,560 F
+Huile de palme : Par kilogramme 0,460 F Par litre 0,576 F ;
 
-Huiles d'animaux marins dont le commerce et l'utilisation ne sont pas soumis aux
+Huiles d'animaux marins dont le commerce et l'utilisation ne sont pa soumis aux
 règles internationales ou nationales relatives aux espèces protégées : Par
-kilogramme 0,816 F Par litre 0,560 F
+kilogramme 0,839 F Par litre 0,576 F
 
 Pour les produits alimentaires importés incorporant des huiles imposables, la
 taxation est effectuée selon les quantités et les natures d'huile entrant dans
@@ -56,7 +58,7 @@ ne frappe que les huiles effectivement destinées à l'alimentation humaine, pou
 qu'elle ne soit perçue qu'une seule fois, et pour qu'elle ne soit pas supportée
 en cas d'exportation.
 
-(1) Taux applicables à compter du 1er janvier 1990.
+(1) Taux applicables à compter du 1er janvier 1991.
 
 (2) Voir annexe IV, art. 159 ter A. Le dernier tarif forfaitaire a été fixé par
 un arrêté du 30 décembre 1988 (J.O. du 4 février 1989).

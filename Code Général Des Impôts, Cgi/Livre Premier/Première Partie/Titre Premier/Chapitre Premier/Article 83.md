@@ -5,33 +5,36 @@ des sommes payées et des avantages en argent ou en nature accordés :
 
 1° Les cotisations de sécurité sociale ;
 
-1° bis (1) Les cotisations afférentes au régime de retraite complémentaire
-institué par la caisse nationale de prévoyance de la fonction publique. Des
-décrets (2) peuvent étendre le bénéfice de cette disposition aux régimes de
-retraites complémentaires constitués au profit des fonctionnaires et agents de
-l'Etat, des collectivités locales et des établissements publics, soit auprès
-d'organismes relevant du code de la mutualité, soit auprès d'entreprises
-d'assurances régies par le livre III du code des assurances ou de la caisse
-nationale de prévoyance ;
+1° bis Les cotisations afférentes au régime de retraite complémentaire institué
+par la caisse nationale de prévoyance de la fonction publique. Des décrets
+peuvent étendre le bénéfice de cette disposition aux régimes de retraites
+complémentaires constitués au profit des fonctionnaires et agents de l'Etat, des
+collectivités locales et des établissements publics, soit auprès d'organismes
+relevant du code de la mutualité, soit auprès d'entreprises d'assurances régies
+par le livre III du code des assurances ou de la caisse nationale de prévoyance
+(1) ;
 
 2° Les cotisations ou les primes versées aux organismes de retraite et de
 prévoyance complémentaires auxquels le salarié est affilié à titre obligatoire.
+
 Lorsque le total des versements du salarié et de l'employeur tant aux caisses de
 sécurité sociale au titre de l'assurance vieillesse qu'aux organismes de
 retraite et de prévoyance complémentaires excède 19 % d'une somme égale à huit
-fois (3) le plafond annuel moyen retenu pour le calcul des cotisations de
+fois (2) le plafond annuel moyen retenu pour le calcul des cotisations de
 sécurité sociale ou lorsqu'à l'intérieur de cette limite, les versements aux
 seuls organismes de prévoyance dépassent 3 % de la même somme, l'excédent est
-ajouté à la rémunération ; Lorsque le total des versements aux caisses de
-sécurité sociale au titre de l'assurance vieillesse et aux régimes de retraites
-complémentaires adhérant à l'association des régimes de retraite complémentaire
-et à l'association générale des institutions de retraites des cadres excède 19
-p. 100 d'une somme égale à huit fois le plafond annuel moyen retenu pour le
-calcul des cotisations de sécurité sociale, l'excédent n'est pas réintégré s'il
-correspond à des cotisations qui ne donnent pas droit à l'attribution de points
-supplémentaires de retraite ou à des rachats de cotisations afférents à la
-tranche C du salaire effectués auprès de régimes de retraites complémentaires
-adhérant à l'association générale des institutions de retraites des cadres ;
+ajouté à la rémunération ;
+
+Lorsque le total des versements aux caisses de sécurité sociale au titre de
+l'assurance vieillesse et aux régimes de retraites complémentaires adhérant à
+l'association des régimes de retraite complémentaire et à l'association générale
+des institutions de retraites des cadres excède 19 p. 100 d'une somme égale à
+huit fois le plafond annuel moyen retenu pour le calcul des cotisations de
+sécurité sociale, l'excédent n'est pas réintégré s'il correspond à des
+cotisations qui ne donnent pas droit à l'attribution de points supplémentaires
+de retraite ou à des rachats de cotisations afférents à la tranche C du salaire
+effectués auprès de régimes de retraites complémentaires adhérant à
+l'association générale des institutions de retraites des cadres ;
 
 2° bis Les contributions payées par les salariés prévues par l'article L 351-3
 du code du travail relatif aux allocations d'assurance ;
@@ -68,7 +71,7 @@ conjoint se trouve dans l'un des cas prévus au troisième alinéa de l'article 
 quinquies B.
 
 Un décret fixe les modalités d'application du présent paragraphe, notamment les
-obligations des emprunteurs et des intermédiaires agréés (4).
+obligations des emprunteurs et des intermédiaires agréés (3).
 
 2° quinquies Les intérêts des emprunts contractés, à compter du 1er janvier
 1984, pour souscrire au capital d'une société coopérative ouvrière de production
@@ -76,7 +79,7 @@ obligations des emprunteurs et des intermédiaires agréés (4).
 l'article 48 de la loi n° 78-763 du 19 juillet 1978 portant statut des sociétés
 coopératives ouvrières de production.
 
-Cette disposition est applicable dans les conditions fixées au 2° quater (4).
+Cette disposition est applicable dans les conditions fixées au 2° quater.
 
 3° Les frais inhérents à la fonction ou à l'emploi lorsqu'ils ne sont pas
 couverts par des allocations spéciales.
@@ -85,26 +88,29 @@ La déduction à effectuer du chef des frais professionnels est calculée
 forfaitairement en fonction du revenu brut, après défalcation des cotisations,
 contributions et intérêts (5) mentionnés aux 1° à 2° quinquies et à l'article 83
 bis ; elle est fixée à 10 % du montant de ce revenu. Elle est limitée à 54.770 F
-pour l'imposition des rémunérations perçues en 1984 (6) ; chaque année, le
-plafond retenu pour l'imposition des revenus de l'année précédente est relevé
-dans la même proportion que la limite supérieure de la septième tranche du
-barème de l'impôt sur le revenu.
+pour l'imposition des rémunérations perçues en 1984 ; chaque année, le plafond
+retenu pour l'imposition des revenus de l'année précédente est relevé dans la
+même proportion que la limite supérieure de la septième tranche du barème de
+l'impôt sur le revenu (4).
 
 Toutefois, en ce qui concerne les catégories de professions qui comportent des
 frais dont le montant est notoirement supérieur à celui résultant de
 l'application du pourcentage prévu à l'alinéa précédent, un arrêté ministériel
-(7) fixe le taux de la déduction dont les contribuables appartenant à ces
+fixe le taux de la déduction dont les contribuables appartenant à ces
 professions peuvent bénéficier en sus de la déduction forfaitaire visée audit
 alinéa. Cette déduction supplémentaire est limitée à 50.000 F. Elle est calculée
 sur le montant global des rémunérations et des remboursements et allocations
 pour frais professionnels perçus par les intéressés, après application à ce
-montant de la déduction forfaitaire pour frais professionnels de 10 %.
+montant de la déduction forfaitaire pour frais professionnels de 10 % (5).
 
 Le montant de la ou des déductions forfaitaires pour frais professionnels ne
-peut être inférieur à 1.800 F, sans pouvoir excéder le montant brut des
+peut être inférieur à 2.000 F, sans pouvoir excéder le montant brut des
 traitements et salaires. Cette disposition s'applique séparément aux
 rémunérations perçues par chaque membre du foyer fiscal désigné à l'article 6-1
 et 3.
+
+La somme de 2.000 F figurant à l'alinéa précédent est révisée chaque année dans
+la même proportion que la septième tranche du barème de l'impôt sur le revenu.
 
 Les bénéficiaires de traitements et salaires sont également admis à justifier du
 montant de leurs frais réels, soit dans la déclaration visée à l'article 170,
@@ -113,34 +119,18 @@ prévu aux articles R. 196-1 et R. 196-3 du livre des procédures fiscales. Le
 montant des frais réels à prendre en compte au titre de l'acquisition des
 immeubles, des véhicules et autres biens dont la durée d'utilisation est
 supérieure à un an s'entend de la dépréciation que ces biens ont subie au cours
-de l'année d'imposition (8).
+de l'année d'imposition .
 
-(1) Les dispositions du 1° bis sont étendues aux cotisations et aux arrérages
-versés dans le cadre du régime de retraite complémentaire institué par l'Union
-nationale des mutuelles retraite des instituteurs et des fonctionnaires de
-l'éducation nationale et de la fonction publique, et ce à compter de
-l'imposition des revenus de 1989.
+(1) Annexe III, art. 38 septdecies.
 
-Toutefois les arrérages qui correspondent aux cotisations versées avant le 1er
-janvier 1989 demeurent soumis au régime fiscal des rentes viagères constituées à
-titre onéreux défini au 6 de l'article 158 du CGI.
+(2) A compter de l'imposition des revenus de 1988 et de 1989, la base de calcul
+des limites de 19 % et de 3 % est égale à douze fois le plafond annuel moyen
+retenu pour le calcul des cotisations de sécurité sociale.
 
-(2) Annexe III, art. 38 septdecies.
+(3) Annexe III, art. 38 septdecies A à 38 septdecies E.
 
-(3) A compter de l'imposition des revenus de 1988, le mot "huit" est remplacé
-par le mot "douze" ; puis le mot "huit" remplace le mot "douze" à compter de
-l'imposition des revenus de 1990.
+(4) Pour l'imposition des revenus de l'année 1990 la déduction est limitée à
+66.950 F. La limite était de de 64.870 F pour l'imposition des revenus de 1989.
 
-(4) Annexe III, art. 38 septdecies A à 38 septdecies E.
-
-(5) Suppression de "retenues".
-
-(6) Plafond fixé à 57.840 F pour l'imposition des revenus de 1985, à 59.230 F
-pour l'imposition des revenus de 1986, à 61.190 F pour l'imposition des revenus
-de 1987, à 62.790 F pour l'imposition des revenus de 1988 et à 64.870 F pour
-l'imposition des revenus de 1989.
-
-(7) Annexe IV, art. 5 et 5 A.
-
-(8) Ces dispositions ont un caractère interprétatif, sous réserve des décisions
-de justice passées en force de chose jugée.
+(5) Voir les déductions supplémentaires pour frais professionnels aux articles 5
+et 5 A de l'annexe 4.

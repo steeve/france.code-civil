@@ -41,12 +41,13 @@ période, aux montants prévus au deuxième alinéa du paragraphe I.
 Les dépenses de 1989 et 1990 qui ouvrent droit à réduction d'impôt au titre de
 1990 sont limitées à la moitié des montants définis à l'alinéa précédent.
 
-b) La réduction prévue au a s'applique aux dépenses qui ont pour objet
-d'améliorer l'isolation thermique si l'immeuble a été achevé avant le 1er
-janvier 1982.
+b) La réduction prévue au a s'applique aux dépenses payées par un contribuable
+pour sa résidence principale, qu'il en soit propriétaire ou locataire, et qui
+ont pour objet d'améliorer l'isolation thermique ou la régulation du chauffage
+si l'immeuble a été achevé avant le 1er janvier 1982 (1).
 
 La liste des travaux et matériaux ouvrant droit à réduction d'impôt est fixée
-par arrêté ministériel.
+par arrêté ministériel (2).
 
 c) Lorsque le bénéficiaire de la réduction d'impôt est remboursé dans un délai
 de cinq ans de tout ou partie du montant des dépenses qui ont ouvert droit à cet
@@ -57,5 +58,7 @@ limite de la réduction obtenue.
 Toutefois, la reprise d'impôt n'est pas pratiquée lorsque le remboursement fait
 suite à un sinistre survenu après que les dépenses ont été payées.
 
-[*(1) Cette disposition prend effet pour les dépenses payées à compter du 1er
-janvier 1987.*]
+(1) Ces dispositions s'appliquent aux dépenses payées à compter du 1er janvier
+1991.
+
+(2) Voir Annexe IV, art. 17 M à 17 O.

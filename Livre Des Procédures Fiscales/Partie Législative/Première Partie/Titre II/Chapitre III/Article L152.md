@@ -2,7 +2,8 @@ Article L152
 ----
 Les agents de l'administration des impôts peuvent communiquer aux organismes de
 sécurité sociale les renseignements nécessaires à l'assiette des cotisations et
-au calcul des prestations.
+au calcul des prestations ainsi qu'à l'assiette et au calcul de la contribution
+sociale généralisée.
 
 Ils peuvent également signaler aux directeurs régionaux de la sécurité sociale,
 aux directeurs régionaux des affaires sanitaires et sociales et aux directeurs

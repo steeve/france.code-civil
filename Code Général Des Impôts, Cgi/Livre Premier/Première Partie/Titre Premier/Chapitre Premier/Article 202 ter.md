@@ -1,7 +1,7 @@
 Article 202 ter
 ----
-L'impôt sur le revenu est établi dans les conditions prévues à l'article 201
-lorsque les sociétés ou organismes placés sous le régime des sociétés de
+L'impôt sur le revenu est établi dans les conditions prévues ux articles 201 et
+202 lorsque les sociétés ou organismes placés sous le régime des sociétés de
 personnes défini aux articles 8 à 8 ter cessent d'être soumis à ce régime ou
 s'ils changent leur objet social ou leur activité réelle ou lorsque les
 personnes morales mentionnées aux articles 238 ter, 239 quater A, 239 quater B,

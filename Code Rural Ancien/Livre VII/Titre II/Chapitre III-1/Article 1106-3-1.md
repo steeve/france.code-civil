@@ -22,5 +22,5 @@ remplacement se situent nécessairement après l'arrivée de l'enfant au foyer, 
 durée maximale d'attribution de la prestation étant égale à la moitié de celle
 qui est prévue en cas de maternité.
 
-Les dépenses afférentes au service de cette prestation sont couvertes par une
-cotisation additionnelle à la cotisation prévue par l'article 1106-6.
+Les dépenses afférentes au service de cette prestation sont financées par la
+cotisation prévue par l'article 1106-6.

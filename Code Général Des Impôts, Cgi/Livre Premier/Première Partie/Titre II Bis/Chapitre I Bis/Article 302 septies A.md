@@ -3,9 +3,9 @@ Article 302 septies A
 I. Il est institué par décret en conseil d'Etat (1) un régime simplifié de
 liquidation des taxes sur le chiffre d'affaires dues par les personnes qui ne
 sont pas placées sous le régime du forfait et dont le chiffre d'affaires
-n'excède pas 3.000.000 F, s'il s'agit d'entreprises dont le commerce principal
+n'excède pas 3.500.000 F, s'il s'agit d'entreprises dont le commerce principal
 est de vendre des marchandises, objets, fournitures et denrées à emporter ou à
-consommer sur place ou de fournir le logement, ou 900.000 F, s'il s'agit
+consommer sur place ou de fournir le logement, ou 1.000.000 F, s'il s'agit
 d'autres entreprises. Ces limites s'apprécient en faisant abstraction de la taxe
 sur la valeur ajoutée et des taxes assimilées.
 
@@ -24,7 +24,7 @@ nécessaires de la législation en vigueur, notamment pour les entreprises qui
 bénéficient de la franchise et de la décote et pour celles qui n'ont clôturé
 aucun exercice au cours d'une année civile.
 
-(1) Annexe II, art. 204 ter, 204 quater, 242 quater à 242 septies 267 quinquies
-à 267 septies.
+(1) Annexe II, art. 204 ter, 204 quater, 242-0 C I 2, II 2, 242-0 D, 242 quater
+à 242 septies, 267 quinquies à 267 septies.
 
 (2) Annexe II, art. 242 septies A à 242 septies L.

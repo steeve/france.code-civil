@@ -28,9 +28,13 @@ acquis en contre-échange à la condition que ces biens aient une valeur au moin
 égale à celle des biens cédés.
 
 L'apport du bien acquis dans les conditions prévues aux alinéas précédents à un
-groupement foncier agricole ou à une exploitation agricole à responsabilité
-limitée ne peut avoir pour effet de remettre en cause la perception de la taxe
-de publicité foncière au taux réduit.
+groupement foncier agricole, à un groupement d'exploitation en commun, à une
+exploitation agricole à responsabilité limitée ou à une société civile
+d'exploitation agricole ne peut avoir pour effet de remettre en cause la
+perception de la taxe de publicité foncière au taux réduit, sous réserve que
+l'apporteur prenne dans l'acte d'apport l'engagement pour lui, son conjoint et
+ses ayants cause à titre gratuit de conserver les parts jusqu'à l'expiration du
+délai de cinq ans à compter de la date du transfert de propriété initial.
 
 II Le même taux est applicable aux acquisitions d'immeubles visées au I faites
 sous les mêmes conditions en vue de l'installation d'un descendant majeur de

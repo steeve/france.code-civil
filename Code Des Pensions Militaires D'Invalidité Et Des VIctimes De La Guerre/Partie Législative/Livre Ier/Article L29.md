@@ -6,9 +6,11 @@ raison desquelles cette pension a été accordée.
 
 Cette demande est recevable sans condition de délai.
 
-La pension ayant fait l'objet de la demande est révisée lorsque le degré
-d'invalidité résultant de l'infirmité ou de l'ensemble des infirmités est
-reconnu supérieur de 10 % au moins du pourcentage antérieur.
+La pension ayant fait l'objet de la demande est révisée, à un taux supérieur ou
+inférieur au taux primitif, lorsque le degré d'invalidité résultant de
+l'infirmité ou de l'ensemble des infirmités est reconnu, après examen médical,
+différer de 10 % au moins du pourcentage antérieur, après avis d'une commission
+constituée par décret.
 
 Toutefois, l'aggravation ne peut être prise en considération que si le
 supplément d'invalidité est exclusivement imputable aux blessures et aux

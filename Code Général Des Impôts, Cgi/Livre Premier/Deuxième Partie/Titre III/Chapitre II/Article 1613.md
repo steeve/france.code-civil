@@ -1,83 +1,159 @@
 Article 1613
 ----
-I Il est institué une taxe sur les produits des exploitations forestières à
-l'exclusion des bois de chauffage sur les produits de scieries et sur les
-sciages rabotés, rainés, bouvetés, languetés, feuillurés, chanfreinés ou
-similaires, imprégnés, injectés ou enduits qui sont produits en France ou
-importés (1).
+I. Il est institué une taxe forestière sur les sciages, éléments de charpente,
+menuiseries industrielles du bâtiment, parquets, lambris, moulures, baguettes,
+bois de placage, bois contre-plaqués, panneaux, palettes, emballages en bois,
+papiers et cartons fabriqués ou importés en France métropolitaine.
 
-Son taux est fixé à 4,70 %.
+II. Le taux de la taxe forestière est fixé à :
 
-Le produit de cette taxe, après prélèvement annuel de la somme visée à l'article
-564 bis, est réparti de la manière suivante :
+1° 1,30 p. 100 de la valeur des produits ci-dessous énumérés, par référence au
+système harmonisé de désignation et de codification des marchandises :
 
-a 94,75 % versés au compte spécial du Trésor, intitulé "Fonds forestier
-national";
+a) Parquets, lambris, moulures, baguettes :
 
-Sur les recettes qui lui sont ainsi affectées, le fonds forestier national
-attribue :
+44 09 10 10, 44 09 20 10. - Moulures, baguettes ;
 
-Une subvention égale à 7,50 % au centre technique du bois pour être utilisée
-dans la limite du budget de cet organisme, approuvé par les ministres chargés de
-l'économie et des finances, de l'agriculture et de l'industrie;
+44 09 10 90, 44 09 20 91, 44 09 20 99. - Parquets ;
 
-Une subvention égale à 4,25 % au fonds national de développement agricole pour
-être utilisée par l'association nationale de développement agricole dans la
-limite du budget de cette association approuvé par les ministres chargés de
-l'économie et des finances et de l'agriculture;
+44 18 30 10, 44 18 30 90, 44 18 90 00. - Panneaux pour parquets ;
 
-Une subvention égale à 4,25 % aux centres régionaux de la propriété forestière
-pour être utilisée dans la limite de leurs budgets respectifs approuvés par les
-ministres chargés de l'économie et des finances et de l'agriculture;
+b) Eléments de charpente :
 
-b 4,35 % versés en recettes du budget général ;
+44 18 40 00. - Coffrages en bois pour bétonnage ;
 
-c 0,90 % affecté à des subventions allouées pour la diffusion des emplois du
-bois et des produits de la forêt, dans les conditions fixées par arrêté conjoint
-du ministre de l'agriculture et du ministre de l'industrie après consultation
-des principales associations professionnelles et des associations des communes
-forestières désignées par les ministres intéressés.
+44 18 90 00. - Charpentes industrielles, charpentes en lamellé-collé, éléments
+de charpente ;
 
-La taxe donne lieu à un prélèvement pour frais d'assiette et de perception dans
-les conditions fixées par décret (2).
+c) Emballages industriels :
 
-II Sous réserve des dispositions des 1° à 5°, la taxe est assise [*assiette*] et
-recouvrée suivant les mêmes règles, sous les mêmes garanties et sous les mêmes
-sanctions que la taxe sur la valeur ajoutée :
+44 15 20 10. - Palettes ;
 
-1° En ce qui concerne les sciages rabotés, rainés, bouvetés, languetés,
-feuillurés, chanfreinés ou similaires, imprégnés, injectés ou enduits la taxe
-est assise sur la valeur des sciages bruts. Pour les sciages importés, cette
-valeur est déterminée par application de réfactions dont les taux sont fixés par
-arrêté conjoint du ministre de l'agriculture et du ministre des finances (3);
+44 15 20 90. - Caisses-palettes ;
 
-2° A l'importation, la taxe est assise et recouvrée par le service des douanes
-selon les mêmes règles, sous les mêmes garanties et les mêmes sanctions qu'en
-matière de droits de douane;
+2° 1 p. 100 de la valeur des produits suivants, énumérés selon la même référence
+:
 
-3° Le fait générateur de la taxe est constitué pour les affaires de vente y
-compris les ventes à l'exportation par l'encaissement du prix et pour les
-utilisations et les transferts par livraison des produits bruts;
+a) Sciages :
 
-4° L'application de la taxe est étendue à toute personne, ayant ou non un
-établissement en France, quelle que soit sa situation au regard des impôts et
-taxes visés au livre Ier du présent code, qui exploite en France des coupes de
-bois en vue de la livraison des produits à l'étranger ou qui achète en vue de
-l'exportation, directement ou par l'intermédiaire, notamment, de
-commissionnaires, courtiers, représentants, même aux conditions de livraison de
-la marchandise hors de France, des produits d'exploitation forestière et des
-produits de scierie à une personne non assujettie à ladite taxe; la valeur
-imposable est celle qui est définie par l'article 36 du code des douanes, sauf
-si le prix des produits a été stipulé "départ". S'il ne s'agit pas de produits
-bruts, la valeur imposable est la valeur justifiée des bois ou produits bruts
-utilisés; un décret fixe en tant que de besoin les modalités d'application du
-présent paragraphe 5° La perception de la taxe peut être suspendue en totalité
-ou en partie par décret pour certains produits (4).
+44 07. - Bois de sciage ;
 
-1) Annexe IV, art. 156 et 157.
+44 16 00 10. - Merrains bruts ;
 
-2) Annexe III, art. 332.
+44 06. - Traverses en bois pour voies ferrées ;
 
-3) Annexe IV, art. 157 bis.
+b) Bois de placage :
 
-4) Annexe III, art. 332 bis.
+44 04 10 00, 44 04 20 00. - Bois en éclisses, lames, rubans et similaires ;
+
+44 08. - Feuilles issues du tranchage ou du déroulage n'excédant pas 6 mm, à
+l'exception des feuilles issues du déroulage destinées à la fabrication de
+contre-plaqués ;
+
+c) Bois contre-plaqués :
+
+44 12 11 00, 44 12 12 00, 44 12 19 00. - Bois contre-plaqués ;
+
+3° 0,50 p. 100 de la valeur des produits suivants, énumérés selon la même
+référence :
+
+a) Menuiseries industrielles du bâtiment :
+
+44 18 10 00. - Fenêtres, porte-fenêtres et leurs cadres et chambranles ;
+
+44 18 20 00. - Portes et leurs cadres, chambranles et seuils, panneaux de
+façades en bois ;
+
+44 18 90 00. - Profilés pour menuiserie, blocs-portes, volets, fermetures en
+bois ;
+
+b) Emballages légers :
+
+44 15 10 10. - Emballages, caisses, caissettes, cageots en bois ;
+
+c) Panneaux :
+
+44 10 10 10, 44 10 10 30, 44 10 10 50, 44 10 10 90. - Panneaux de particules, à
+l'exclusion des panneaux revêtus d'autres matières que le bois ;
+
+44 11. - Panneaux en fibre de bois ou d'autres matières ligneuses ;
+
+44 12. - Panneaux plaqués, exclusivement de bois ou d'autres matières ligneuses.
+
+4° 0,10 p. 100 de la valeur des produits suivants, énumérés selon la même
+référence :
+
+48 01. - Papier journal en rouleaux ou en feuilles ;
+
+48 02. - Papiers et cartons, non couchés ni enduits des types utilisés pour
+l'écriture, l'impression ou d'autres fins graphiques, et papiers et cartons pour
+cartes ou bandes à perforer, en rouleaux ou en feuilles, autres que les papiers
+des numéros 48 01 ou 48 03, papiers et cartons formés feuille à feuille (papiers
+à la main) ;
+
+48 03. - Papiers des types utilisés pour papiers de toilette, pour serviettes à
+démaquiller, pour essuie-mains, pour serviettes ou pour papiers similaires à
+usages domestique, d'hygiène ou de toilette, ouate de cellulose et nappes de
+fibres de cellulose, même crêpés, plissés, gaufrés, estampés, perforés, coloriés
+en surface, décorés en surface ou imprimés, en rouleaux d'une largeur excédant
+36 cm ou en feuilles de forme carrée ou rectangulaire dont un côté au moins
+excède 36 cm à l'état non plié ;
+
+48 04. - Papiers et cartons kraft, non couchés ni enduits, en rouleaux ou en
+feuilles, autres que ceux des numéros 48 02 ou 48 03 ;
+
+48 05. - Autres papiers et cartons, non couchés ni enduits, en rouleaux ou en
+feuilles ;
+
+48 06. - Papiers et cartons sulfurisés, papiers ingraissables, papiers-calques
+et papier dit cristal " et autres papiers calandrés transparents ou
+translucides, en rouleaux ou en feuilles ;
+
+48 09 20. - Papiers dits autocopiants " ;
+
+48 10. - Papiers et cartons couchés au kaolin ou à d'autres substances
+inorganiques sur une ou sur les deux faces, avec ou sans liants, à l'exclusion
+de tout autre couchage ou enduction, même coloriés en surface, décorés en
+surface ou imprimés, en rouleaux ou en feuilles ;
+
+48 13. - Papiers à cigarettes, à l'exception du papier des numéros 48 13 10 et
+48 13 20 découpé à format ou en cahiers ou en tubes ou en rouleaux d'une largeur
+n'excédant pas 5 cm ;
+
+48 23 59 90. - Autres papiers et cartons des types utilisés pour l'écriture,
+l'impression ou d'autres fins graphiques autres, autres.
+
+III. Le produit de cette taxe est versé au compte spécial du Trésor intitulé :
+Fonds forestier national.
+
+IV. 1. La taxe forestière est due en France métropolitaine par les entreprises
+qui fabriquent et par les personnes qui importent un des produits énumérés au I.
+
+2. Pour les produits fabriqués en France, le fait générateur de la taxe est
+constitué soit par leur livraison en France métropolitaine soit par leur
+utilisation lorsque ceux-ci sont mis en oeuvre par le fabricant pour son propre
+usage ou pour les besoins de la fabrication de produits non taxables.
+
+L'assiette de la taxe est constituée par le montant net de toutes taxes de la
+recette lorsque ces produits sont livrés, ou par le prix de revient net de
+toutes taxes, lorsque l'entreprise utilise des produits taxables pour son propre
+usage ou pour les besoins de la fabrication de produits non taxables.
+
+Toutefois, les livraisons faites en France à des exportateurs ne sont pas à
+comprendre dans l'assiette et les importations destinées à ces mêmes
+exportateurs ne sont pas imposables lorsque le client ou l'importateur
+justifient de l'exportation en produisant une attestation, visée par le service
+des impôts dont ils relèvent, certifiant que les produits sont destinés à être
+exportés en l'état ou après transformation. Cette attestation doit comporter
+l'engagement d'acquitter la taxe dans le cas où les produits ne recevraient pas
+la destination ayant motivé l'exclusion de l'assiette ou l'exonération, sans
+préjudice des pénalités prévues aux articles 1725 à 1740.
+
+La taxe est constatée dans les conditions définies à l'article 287 et recouvrée
+avec les sanctions et garanties prévues à l'article 1697.
+
+3. Pour les produits importés, le fait générateur de la taxe est constitué par
+l'importation. La taxe est assise et recouvrée par le service des douanes selon
+les mêmes règles, sous les mêmes garanties et les mêmes sanctions qu'en matière
+douanière. La base d'imposition est constituée par la valeur définie par la
+législation douanière conformément aux règlements communautaires en vigueur.

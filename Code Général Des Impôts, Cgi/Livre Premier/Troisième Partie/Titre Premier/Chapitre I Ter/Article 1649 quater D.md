@@ -24,7 +24,8 @@ documents.
 III. Les dispositions du II sont applicables à l'ensemble des des centres de
 gestion en ce qui concerne leurs adhérents industriels, commerçants et artisans
 soumis sur option au régime simplifié d'imposition prévu à l'article 302 septies
-A bis.
+A bis ou soumis de plein droit à ce régime lorsque leur chiffre d'affaires ne
+dépasse pas le double des limites du régime du forfait.
 
 IV. Les centres de gestion agréés et habilités peuvent tenir ou centraliser,
 dans des conditions fixées par décret, les documents comptables de leurs
