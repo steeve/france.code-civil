@@ -20,7 +20,8 @@ dressée dans des conditions fixées par décret en Conseil d'Etat ;
 
 5° Les officiers de port et les officiers de port adjoints ;
 
-6° Les contrôleurs des transports terrestres ;
+6° Les fonctionnaires ou agents de l'Etat chargés du contrôle des transports
+terrestres placés sous l'autorité du ministre chargé des transports ;
 
 7° Les agents des douanes ;
 
@@ -28,7 +29,11 @@ dressée dans des conditions fixées par décret en Conseil d'Etat ;
 à la circulation publique et soumis à péage, agréés par le préfet ;
 
 9° Les agents verbalisateurs mentionnés à l'article L. 116-2 du code de la
-voirie routière.
+voirie routière ;
+
+10° Les agents des exploitants d'aérodromes, assermentés et agréés par le
+préfet, pour les seules contraventions aux règles de stationnement dans
+l'emprise de l'aérodrome.
 
 La liste des contraventions que chaque catégorie d'agents mentionnée ci-dessus
 est habilitée à constater est fixée par décret en Conseil d'Etat.

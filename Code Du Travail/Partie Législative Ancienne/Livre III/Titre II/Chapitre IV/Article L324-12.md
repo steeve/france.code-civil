@@ -8,10 +8,11 @@ des caisses de mutualité sociale agricole, les inspecteurs du travail, les
 contrôleurs du travail et fonctionnaires de contrôle assimilés au sens de
 l'article L. 611-10, les officiers et les agents assermentés des affaires
 maritimes, les fonctionnaires des corps techniques de l'aviation civile
-commissionnés à cet effet et assermentés ainsi que les contrôleurs et les
-adjoints de contrôle des transports terrestres, et constatées par ces agents au
-moyen des procès-verbaux transmis directement au parquet. Ces procès-verbaux
-font foi jusqu'à preuve contraire.
+commissionnés à cet effet et assermentés ainsi que les fonctionnaires ou agents
+de l'Etat chargés du contrôle des transports terrestres placés sous l'autorité
+du ministre chargé des transports, et constatées par ces agents au moyen des
+procès-verbaux transmis directement au parquet. Ces procès-verbaux font foi
+jusqu'à preuve contraire.
 
 Pour la recherche et la constatation de ces infractions, les agents précités
 disposent des pouvoirs d'investigation accordés par les textes particuliers qui
