@@ -6,5 +6,5 @@ la décision ordonnant les mesures provisoires, faute de quoi l'enfant est remis
 demande.
 
 Si l'instruction n'est pas terminée dans le délai prévu à l'alinéa précédent, le
-juge peut [*pouvoirs*], après avis du procureur de la République, proroger ce
-délai pendant un temps dont il détermine la durée.
+juge peut, après avis du procureur de la République, proroger ce délai pour une
+durée qui ne peut excéder six mois.
