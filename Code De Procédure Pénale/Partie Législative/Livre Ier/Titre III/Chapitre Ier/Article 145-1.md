@@ -13,15 +13,18 @@ de la détention prévue à l'alinéa précédent ne peut être ordonnée qu'une
 pour une durée n'excédant pas deux mois.
 
 Dans les autres cas, la personne mise en examen ne peut être maintenue en
-détention au-delà d'un an. Toutefois, à titre exceptionnel, et sous réserve des
-dispositions de l'article 145-3, le juge d'instruction peut, à l'expiration de
-ce délai, décider de prolonger la détention pour une durée qui ne peut être
+détention au-delà de huit mois. Toutefois, à titre exceptionnel, et sous réserve
+des dispositions de l'article 145-3, le juge d'instruction peut, à l'expiration
+de ce délai, décider de prolonger la détention pour une durée qui ne peut être
 supérieure à quatre mois par une ordonnance motivée. Celle-ci est rendue
 conformément aux dispositions des premier et quatrième alinéas de l'article 145,
 l'avocat ayant été convoqué conformément aux dispositions du deuxième alinéa de
-l'article 114. Cette décision peut être renouvelée selon la même procédure.
-Néanmoins, la personne mise en examen ne peut être maintenue en détention
-au-delà de deux ans, lorsque la peine encourue ne dépasse pas cinq ans.
+l'article 114. Cette décision ne peut être renouvelée lorsque la peine encourue
+est inférieure ou égale à cinq ans d'emprisonnement. Lorsque la peine encourue
+est supérieure à cinq ans d'emprisonnement, cette décision peut être renouvelée
+selon la même procédure, sous réserve, lorsque la peine encourue est inférieure
+à dix ans d'emprisonnement, que la personne mise en examen ne soit pas maintenue
+en détention provisoire plus de deux ans.
 
 Les ordonnances visées aux premier et deuxième alinéas du présent article sont
 rendues après avis du procureur de la République et, s'il y a lieu, observations
