@@ -1,12 +1,13 @@
 Article L3334-11
 ----
-- La première part de la dotation globale d'équipement mentionnée à l'article L.
+La première part de la dotation globale d'équipement mentionnée à l'article L.
 3334-10 est répartie chaque année entre les départements, leurs groupements, les
 syndicats à caractère administratif associant des communes ou groupements de
 communes et un ou plusieurs départements ou régions, ainsi que les services
-départementaux d'incendie et de secours, les centres de gestion et le Centre
-national de la fonction publique territoriale, après consultation du comité des
-finances locales, à raison de :
+départementaux d'incendie et de secours, les agences des transports publics de
+personnes de Guadeloupe, de Guyane et de Martinique, les centres de gestion et
+le Centre national de la fonction publique territoriale, après consultation du
+comité des finances locales, à raison de :
 
 75 p. 100 au plus, au prorata des dépenses réelles directes d'investissement de
 chaque département, groupement de départements ou syndicats à caractère
