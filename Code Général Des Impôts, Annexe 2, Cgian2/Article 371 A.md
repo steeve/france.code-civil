@@ -3,10 +3,10 @@ Article 371 A
 Pour bénéficier de l'agrément prévu par l'article 1649 quater C du code général
 des impôts, les centres de gestion doivent avoir la forme d'une association
 légalement constituée dont les membres fondateurs sont soit des experts
-comptables, des comptables agréés ou des sociétés membres de l'ordre, soit des
-chambres de commerce et d'industrie, des chambres de métiers ou des chambres
-d'agriculture, soit des organisations professionnelles légalement constituées
-d'industriels, de commerçants, d'artisans ou d'agriculteurs.
+comptables ou des sociétés membres de l'ordre, soit des chambres de commerce et
+d'industrie, des chambres de métiers ou des chambres d'agriculture, soit des
+organisations professionnelles légalement constituées d'industriels, de
+commerçants, d'artisans ou d'agriculteurs.
 
 Les organisations professionnelles mentionnées au premier alinéa comprennent les
 syndicats professionnels et leurs unions institués conformément aux dispositions
@@ -20,3 +20,7 @@ notamment dans les domaines de l'assistance technique et de la formation. Ces
 services sont réservés aux membres adhérents.
 
 Ils ne peuvent agir en qualité de mandataires de leurs membres.
+
+Toutefois, les centres peuvent recevoir mandat de leurs membres ayant adhéré au
+système de transfert des données fiscales et comptables pour transmettre les
+informations correspondant aux obligations déclaratives de ces membres.
