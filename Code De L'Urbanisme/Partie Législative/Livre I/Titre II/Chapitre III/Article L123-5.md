@@ -17,6 +17,13 @@ d'urbanisme pour permettre la reconstruction de bâtiments détruits ou endommag
 les prescriptions imposées aux constructeurs en vue d'assurer la sécurité des
 biens et des personnes sont contraires à ces règles.
 
+L'autorité compétente pour délivrer le permis de construire peut également, par
+décision motivée, accorder des dérogations à une ou plusieurs règles du plan
+local d'urbanisme pour permettre la restauration ou la reconstruction
+d'immeubles protégés au titre de la législation sur les monuments historiques,
+lorsque les contraintes architecturales propres à ces immeubles sont contraires
+à ces règles.
+
 L'autorité compétente recueille l'accord du préfet et du maire ou du président
 de l'établissement public de coopération intercommunale compétent en matière de
 plan local d'urbanisme, lorsqu'ils ne sont pas ceux qui délivrent le permis de

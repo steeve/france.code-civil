@@ -5,11 +5,11 @@ désigner un commissaire aux comptes et dont les comptes des trois derniers
 exercices de douze mois ont été régulièrement approuvés par les associés, peut,
 sans faire appel public à l'épargne, émettre des obligations nominatives.
 
-L'émission d'obligations est décidée par l'assemblée générale des associés
-conformément aux dispositions applicables aux assemblées générales
-d'actionnaires. Ces titres sont soumis aux dispositions applicables aux
-obligations émises par les sociétés par actions, à l'exclusion de celles prévues
-par les articles L. 228-39 à L. 228-43 et L. 228-51.
+L'émission d'obligations est décidée par l'assemblée des associés conformément
+aux dispositions applicables aux assemblées générales d'actionnaires. Ces titres
+sont soumis aux dispositions applicables aux obligations émises par les sociétés
+par actions, à l'exclusion de celles prévues par les articles L. 228-39 à L.
+228-43 et L. 228-51.
 
 Lors de chaque émission d'obligations par une société remplissant les conditions
 de l'alinéa 1er, la société doit mettre à la disposition des souscripteurs une

@@ -1,15 +1,6 @@
 Article L723-44
 ----
 Sauf dérogation expresse accordée par le ministre chargé de l'agriculture, les
-personnes exerçant les fonctions de membre du conseil d'administration d'un
-organisme de mutualité sociale agricole, ainsi que leur conjoint, ne peuvent
-exercer l'une des professions suivantes : agent ou courtier d'assurance,
-directeur ou administrateur d'un établissement de crédit autre que le Crédit
-agricole, d'une compagnie d'assurances ou de réassurance autre qu'une caisse
-d'assurance ou de réassurance mutuelle agricole ou d'une caisse de sécurité
-sociale, agent d'affaires.
-
-Sauf dérogation expresse accordée par le ministre chargé de l'agriculture, les
 personnes exerçant les fonctions de directeur ou d'agent comptable d'un
 organisme de mutualité sociale agricole, ainsi que leur conjoint, ne peuvent
 exercer l'une des professions suivantes : agent ou courtier d'assurance,

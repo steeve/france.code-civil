@@ -12,5 +12,5 @@ la dépense ou au recouvrement de la recette.
 
 En cas de désaccord constaté entre le conseil d'administration et un comité de
 la protection sociale dans chacune des matières énoncées aux 1° à 5° et aux a à
-c de l'article L. 723-35, l'autorité administrative compétente peut, à
+d de l'article L. 723-35, l'autorité administrative compétente peut, à
 l'expiration d'un délai déterminé, prendre les décisions y afférentes.

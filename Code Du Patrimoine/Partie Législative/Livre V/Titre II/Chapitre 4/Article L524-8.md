@@ -4,7 +4,7 @@ Au vu des éléments transmis par l'autorité compétente pour délivrer les
 autorisations ou recevoir les déclarations ou demandes mentionnées aux articles
 L. 524-2 et L. 524-4, le montant de la redevance d'archéologie préventive est
 liquidé et ordonnancé par le représentant de l'Etat dans le département ou, dans
-les cas prévus par l'article 255 A du livre des procédures fiscales, par le
+les cas prévus par l'article L. 255 A du livre des procédures fiscales, par le
 maire lorsqu'il est fait application du a de l'article L. 524-4 et par le
 représentant de l'Etat dans la région lorsqu'il est fait application des b ou c
 ou du cinquième alinéa de l'article L. 524-4.

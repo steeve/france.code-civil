@@ -1,12 +1,12 @@
 Article L621-32
 ----
-Lorsqu'elles ne concernent pas des travaux pour lesquels le permis de
-construire, le permis de démolir ou l'autorisation mentionnée à l'article L.
-442-1 du code de l'urbanisme est nécessaire, la demande d'autorisation prévue à
-l'article L. 621-31 est adressée à l'autorité administrative. Celle-ci statue
-après avoir recueilli l'avis de l'architecte des Bâtiments de France. Toutefois,
-si le ministre chargé de la culture a décidé d'évoquer le dossier,
-l'autorisation ne peut être délivrée qu'avec son accord exprès.
+Lorsqu'elle ne concerne pas des travaux pour lesquels le permis de construire,
+le permis de démolir ou l'autorisation mentionnée à l'article L. 442-1 du code
+de l'urbanisme est nécessaire, la demande d'autorisation prévue à l'article L.
+621-31 est adressée à l'autorité administrative. Celle-ci statue après avoir
+recueilli l'avis de l'architecte des Bâtiments de France. Toutefois, si le
+ministre chargé de la culture a décidé d'évoquer le dossier, l'autorisation ne
+peut être délivrée qu'avec son accord exprès.
 
 Si l'autorité administrative n'a pas notifié sa réponse aux intéressés dans le
 délai de quarante jours à dater du dépôt de leur demande ou si cette réponse ne

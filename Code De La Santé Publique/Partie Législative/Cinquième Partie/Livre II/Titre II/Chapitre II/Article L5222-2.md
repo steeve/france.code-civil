@@ -1,7 +1,11 @@
 Article L5222-2
 ----
-La personne responsable d'une mise sur le marché d'un dispositif médical de
-diagnostic in vitro d'occasion fait établir préalablement une attestation
-technique, dont les modalités sont définies par décret, garantissant que le
-dispositif médical de diagnostic in vitro concerné est toujours conforme aux
-exigences essentielles qui lui sont applicables.
+La personne physique ou morale responsable de la revente d'un dispositif médical
+de diagnostic in vitro d'occasion figurant sur une liste fixée par arrêté du
+ministre chargé de la santé, pris sur proposition du directeur général de
+l'Agence française de sécurité sanitaire des produits de santé, fait établir
+préalablement par un organisme agréé à cet effet par décision du directeur
+général de l'Agence française de sécurité sanitaire des produits de santé une
+attestation technique justifiant du maintien des performances du dispositif
+médical de diagnostic in vitro concerné. Les modalités de l'agrément des
+organismes et de l'attestation technique sont définies par décret.
