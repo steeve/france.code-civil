@@ -4,8 +4,8 @@ I. - Dans le cadre de l'obligation définie à l'article 235 ter D, les employeu
 effectuent un versement au moins égal à 0,15 p. 100 des salaires de l'année de
 référence à un organisme paritaire agréé par l'Etat au titre du congé individuel
 de formation [*CIF*]. Ce pourcentage est porté à 0,20 p. 100 à compter du 1er
-janvier 1993 ; pour les entreprises de travail temporaire, le taux est fixé à
-0,25 p. 100.
+janvier 1993 ; pour les entreprises de travail temporaire, le taux est porté à
+0,30 p. 100 à compter du 1er janvier 1992.
 
 II. - Lorsqu'un employeur n'a pas effectué le versement mentionné au I avant le
 1er mars de l'année suivant celle au titre de laquelle est due cette
