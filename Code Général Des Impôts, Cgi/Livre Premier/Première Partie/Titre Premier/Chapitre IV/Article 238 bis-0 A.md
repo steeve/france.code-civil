@@ -5,18 +5,15 @@ peuvent bénéficier d'une réduction d'impôt égale à 90 % des versements eff
 en faveur de l'achat de biens culturels présentant le caractère de trésors
 nationaux ayant fait l'objet d'un refus de délivrance d'un certificat
 d'exportation par l'autorité administrative, dans les conditions prévues à
-l'article 7 de la loi n° 92-1477 du 31 décembre 1992 relative aux produits
-soumis à certaines restrictions de circulation et à la complémentarité entre les
-services de police, de gendarmerie et de douane et pour lesquels l'Etat a fait
-au propriétaire du bien une offre d'achat dans les conditions prévues par
-l'article 9-1 de la même loi.
+l'article L. 111-4 du code du patrimoine et pour lesquels l'Etat a fait au
+propriétaire du bien une offre d'achat dans les conditions prévues par l'article
+L. 121-1 du même code.
 
 Cette réduction d'impôt est également applicable, après avis motivé de la
-commission prévue à l'article 7 de la loi n° 92-1477 du 31 décembre 1992
-précitée, aux versements effectués en faveur de l'achat des biens culturels
-situés en France ou à l'étranger dont l'acquisition présenterait un intérêt
-majeur pour le patrimoine national au point de vue de l'histoire, de l'art ou de
-l'archéologie.
+commission prévue à l'article L. 111-4 précité, aux versements effectués en
+faveur de l'achat des biens culturels situés en France ou à l'étranger dont
+l'acquisition présenterait un intérêt majeur pour le patrimoine national au
+point de vue de l'histoire, de l'art ou de l'archéologie.
 
 Les versements ne sont pas déductibles pour la détermination du bénéfice
 imposable.
