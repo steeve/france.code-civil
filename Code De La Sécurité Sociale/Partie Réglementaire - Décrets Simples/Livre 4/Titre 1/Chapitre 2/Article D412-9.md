@@ -10,5 +10,6 @@ services de prévention de la mutualité sociale agricole.
 
 Les caisses régionales d'assurance maladie ou les caisses de mutualité sociale
 agricole peuvent recommander aux établissements et institutions recevant des
-pupilles de l'éducation surveillée de prendre toutes mesures qu'elles jugent
-utiles concernant l'hygiène et la sécurité des pupilles dans leur travail.
+pupilles de la protection judiciaire de la jeunesse de prendre toutes mesures
+qu'elles jugent utiles concernant l'hygiène et la sécurité des pupilles dans
+leur travail.

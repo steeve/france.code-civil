@@ -1,10 +1,10 @@
 Article D412-16
 ----
-Lorsque la victime perd la qualité de pupille de l'éducation surveillée avant la
-guérison ou la consolidation de la blessure, une feuille d'accident conforme aux
-prescriptions de l'article L. 441-5 lui est délivrée par la caisse primaire
-d'assurance maladie de sa résidence où elle doit obligatoirement se présenter
-pour être prise en charge.
+Lorsque la victime perd la qualité de pupille de la protection judiciaire de la
+jeunesse avant la guérison ou la consolidation de la blessure, une feuille
+d'accident conforme aux prescriptions de l'article L. 441-5 lui est délivrée par
+la caisse primaire d'assurance maladie de sa résidence où elle doit
+obligatoirement se présenter pour être prise en charge.
 
 A la fin du traitement ou dès que la feuille d'accident est entièrement
 utilisée, la victime adresse celle-ci à la caisse primaire d'assurance maladie

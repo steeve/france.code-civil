@@ -16,5 +16,5 @@ attaché à l'établissement ou par le praticien qui a donné des soins, suivant
 cas.
 
 Celui-ci remet l'un de ces certificats au directeur qui en adresse lui-même et
-sur le champ copie à la caisse primaire. Le second est délivré à la victime avec
+sur-le-champ copie à la caisse primaire. Le second est délivré à la victime avec
 les pièces ayant servi à l'établir.
