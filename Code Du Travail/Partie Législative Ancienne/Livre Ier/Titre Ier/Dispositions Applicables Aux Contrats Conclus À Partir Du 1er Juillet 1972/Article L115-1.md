@@ -29,10 +29,7 @@ ministères :
 
 1° Soit dans les conditions prévues par une convention, dont le contenu est fixé
 par décret, conclue entre cet établissement, toute personne morale visée au
-premier alinéa de l'article L. 116-2 et la région. Les sections d'apprentissage
-ainsi constituées sont assimilables à des centres de formation d'apprentis pour
-ce qui concerne les dispositions financières prévues au chapitre VIII du présent
-titre ;
+premier alinéa de l'article L. 116-2 et la région ;
 
 2° Soit dans le cadre d'une convention dont le contenu est fixé par décret entre
 cet établissement et un centre de formation d'apprentis créé par convention
