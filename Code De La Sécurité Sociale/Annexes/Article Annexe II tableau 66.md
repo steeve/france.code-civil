@@ -54,8 +54,8 @@ Préparation, emploi, manipulation de chloroplatinates et pentoxyde de vanadium,
 notamment dans la fabrication des catalyseurs.
 
 Travaux exposant à l'inhalation d'anhydrides d'acides volatils, notamment
-anhydrides phtaliques, trimellitiques, tétrachlorophtaliques,
-hexahydrophtaliques, himiques.
+anhydrides maléique, phtalique, trimellitique, tétrachlorophtalique,
+hexahydrophtalique, himique.
 
 Travaux exposant à la colophane chauffée, notamment lors de la soudure en
 électronique.
@@ -81,14 +81,16 @@ stérilisation ;
 
 Fabrication et conditionnement du chloramine T.
 
+Manipulation de gypsophile (gypsophila paniculata).
+
 DESIGNATION DES MALADIES :
 
 - B -
 
 Syndrome respiratoire fébrile avec dyspnée, toux, expectoration, récidivant
-après nouvelle exposition au risque dont l'étiologie professionnelle est
-confirmée par la présence dans le sérum d'anticorps précipitants permettant
-d'identifier l'agent pathogène correspondant au produit responsable.
+après nouvelle exposition au risque dont l'étiologie est confirmée par la
+présence dans le sérum d'anticorps précipitants permettant d'identifier l'agent
+pathogène correspondant au produit responsable.
 
 DELAI DE PRISE EN CHARGE : 30 jours
 
