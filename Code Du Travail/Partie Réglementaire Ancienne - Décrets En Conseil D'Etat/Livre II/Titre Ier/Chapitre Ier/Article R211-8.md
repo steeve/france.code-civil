@@ -33,3 +33,8 @@ a) Les demandes d'autorisation ou d'agrément sont considérées comme rejetées
 
 b) La demande de renouvellement de l'agrément est considérée comme acceptée
 [*accord tacite*].
+
+La liste des décisions portant attribution, renouvellement, non-renouvellement
+ou retrait de l'agrément est publiée sous forme d'avis, au cours du premier et
+du troisième trimestre de chaque année civile, au Journal officiel de la
+République française.

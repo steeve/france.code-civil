@@ -3,10 +3,9 @@ Article R*159
 Chaque candidat ou chaque liste de candidats désireux de bénéficier des
 dispositions prévues à l'article L. 308 (3e alinéa) et à l'article R. 157 doit
 présenter sa demande au président de la commission visée aux articles
-précédents, accompagnée du récépissé définitif délivré par la préfecture et du
-récépissé attestant qu'il a déposé un cautionnement de 200 F entre les mains du
-trésorier-payeur général. Le président indique aux candidats le nombre maximum
-de documents de chaque catégorie qu'ils sont autorisés à faire imprimer.
+précédents, accompagnée du récépissé définitif délivré par la préfecture. Le
+président indique aux candidats le nombre maximal de documents de chaque
+catégorie qu'ils sont autorisés à faire imprimer.
 
 Les candidats doivent remettre au président de la commission les exemplaires de
 la circulaire et une quantité de bulletins au moins égale au double du nombre

@@ -5,3 +5,6 @@ le transfert du siège d'une agence artistique, la création d'une succursale ou
 d'un bureau annexe, doit [*conditions*] être adressée au ministre chargé du
 travail par lettre recommandée avec demande d'avis de réception. Elle est
 soumise pour avis à la commission prévue à l'article R. 762-3.
+
+Le silence gardé pendant plus de quatre mois sur la demande d'autorisation vaut
+octroi de l'autorisation.

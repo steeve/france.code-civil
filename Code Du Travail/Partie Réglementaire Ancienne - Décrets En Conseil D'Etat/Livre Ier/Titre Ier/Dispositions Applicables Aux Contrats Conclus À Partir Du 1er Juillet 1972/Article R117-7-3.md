@@ -10,6 +10,9 @@ régional de l'agriculture et de la forêt, après avis, le cas échéant, du
 président de l'université ou du directeur de l'établissement d'enseignement
 supérieur concerné, au vu de l'évaluation des compétences du jeune concerné.
 
+Faute de réponse dans le délai d'un mois suivant le dépôt de la demande,
+l'autorisation prévue à l'alinéa ci-dessus est réputée acquise.
+
 La réduction de la durée du contrat ainsi autorisée n'est pas cumulable avec les
 réductions de durée prévues par les articles R. 117-7, R. 117-7-1 et R. 117-7-2.
 

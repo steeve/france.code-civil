@@ -2,12 +2,11 @@ Article R38
 ----
 Chaque candidat ou son mandataire ou le mandataire de chaque liste fait
 connaître au président de la commission, en déposant les justifications visées à
-l'article précédent, le nom de l'imprimeur choisi par lui sur la liste des
-imprimeurs agréés.
+l'article précédent, le nom de l'imprimeur choisi par lui.
 
 Le président lui indique les caractéristiques et le nombre maximum des documents
 de chaque catégorie qu'il est autorisé à faire imprimer ainsi que les tarifs
-maxima d'impression et d'affichage fixés en application de l'article R. 39.
+maximaux d'impression et d'affichage fixés en application de l'article R. 39.
 
 Le mandataire du candidat ou de la liste doit remettre au président de la
 commission, avant une date limite fixée pour chaque tour de scrutin par arrêté
