@@ -1,14 +1,11 @@
 Article R3443-1
 ----
-La dotation de fonctionnement minimale instituée par l'article L. 3334-7, après
-répartition entre les départements métropolitains et les départements
-d'outre-mer, organisée par l'article R. 3334-1 est répartie entre les
-départements d'outre-mer qui en remplissent les conditions d'attribution :
-
-1° Pour 80 % en fonction de leur population ;
-
-2° Pour 10 % en fonction de la longueur de la voirie classée dans le domaine
-public départemental, la longueur de voirie située en zone de montagne étant
-affectée d'un coefficient multiplicateur de 1,3 ;
-
-3° Pour 10 % en fonction inverse de leur potentiel fiscal brut.
+La quote-part de la dotation de péréquation prévue pour les départements
+d'outre-mer au dernier alinéa de l'article L. 3334-4, qui bénéficie à la
+collectivité départementale de Mayotte en vertu de l'article L. 3563-6 et à la
+collectivité territoriale de Saint-Pierre-et-Miquelon en vertu de l'article 35
+de la loi n° 85-1268 du 29 novembre 1985 relative à la dotation globale de
+fonctionnement, est constituée d'une quote-part de la dotation de péréquation
+urbaine et d'une quote-part de la dotation de fonctionnement minimale,
+déterminées par application au montant total de chacune de ces dotations du
+rapport majoré défini à l'article L. 3443-1.

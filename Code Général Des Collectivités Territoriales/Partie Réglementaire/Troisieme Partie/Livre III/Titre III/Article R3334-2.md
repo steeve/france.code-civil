@@ -1,15 +1,10 @@
 Article R3334-2
 ----
-La dotation de fonctionnement minimale est répartie entre les départements
-métropolitains qui en remplissent les conditions d'attribution :
+Le nombre total des bénéficiaires d'aides au logement et le nombre total de
+logements mentionnés au 2° de l'article L. 3334-6-1 sont déterminés dans les
+conditions fixées respectivement au deuxième alinéa de l'article R. 2334-4 et à
+l'article R. 2334-5.
 
-1° Pour 30 % de son montant, proportionnellement à la longueur de la voirie
-classée dans le domaine public départemental, la longueur de voirie située en
-zone de montagne étant affectée d'un coefficient multiplicateur de 1,3 ;
-
-2° Pour 30 % de son montant, proportionnellement au rapport entre le potentiel
-fiscal moyen par kilomètre carré de l'ensemble des départements et le potentiel
-fiscal par kilomètre carré de chaque département bénéficiaire ;
-
-3° Pour 40 % de son montant, proportionnellement à l'inverse du potentiel fiscal
-brut de chaque département bénéficiaire.
+Le nombre de bénéficiaires du revenu minimum d'insertion mentionné au 3° de
+l'article L. 3334-6-1 est apprécié au 1er janvier de l'année précédant celle au
+titre de laquelle est versée la dotation de péréquation urbaine.

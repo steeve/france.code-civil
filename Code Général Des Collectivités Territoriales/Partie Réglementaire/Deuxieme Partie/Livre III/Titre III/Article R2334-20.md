@@ -5,9 +5,9 @@ crédits de la dotation, visée au deuxième alinéa de l'article L. 2334-34, le
 autorisations de programme et les crédits de paiement sont répartis entre les
 départements à raison de :
 
-- 30 % en fonction de l'écart relatif entre le potentiel fiscal moyen par
+- 30 % en fonction de l'écart relatif entre le potentiel financier moyen par
 habitant des communes du département éligibles à la dotation globale
-d'équipement et le potentiel fiscal moyen par habitant de l'ensemble des
+d'équipement et le potentiel financier moyen par habitant de l'ensemble des
 communes éligibles ;
 
 - 25 % en fonction de la population des communes éligibles ;

@@ -1,7 +1,7 @@
 Article R234-4
 ----
-Le montant de la quote-part de la dotation d'aménagement prévue aux quatrième et
-cinquième alinéas de l'article L. 2334-13 du code général des collectivités
+Le montant de la quote-part de la dotation d'aménagement prévue aux troisième et
+quatrième alinéas de l'article L. 2334-13 du code général des collectivités
 territoriales est réparti entre les communes de la Nouvelle-Calédonie, à raison
 de :
 
