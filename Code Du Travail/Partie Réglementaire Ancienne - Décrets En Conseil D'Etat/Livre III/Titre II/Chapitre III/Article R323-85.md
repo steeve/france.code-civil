@@ -20,22 +20,22 @@ pour :
 b) Par arrêté conjoint du ministre chargé du travail et du ministre de la santé
 publique pour :
 
-- les deux [*nombre*] personnalités représentant les oeuvres gestionnaires des
-centres de rééducation et de reclassement ;
+- les quatre représentants des institutions gestionnaires des centres de
+rééducation et de réadaptation professionnelle et des établissements de travail
+protégé ;
 
-- les quatre représentants des organisations syndicales des médecins du travail,
-médecins de sanatorium, médecins d'orientation professionnelle et médecins
-d'hôpital psychiatrique.
+- les quatre représentants des organisations syndicales ou associations de
+médecins du travail, médecins de rééducation et de réadaptation fonctionnelle,
+praticiens hospitaliers de psychiatrie et médecins de main-d'oeuvre.
 
-C) Par arrêté du ministre chargé du travail pour :
+c) Par arrêté du ministre chargé du travail pour :
 
 - le membre du conseil d'Etat, sur la proposition du vice-président du conseil
 d'Etat ;
 
 - le représentant de la commission de la main-d'oeuvre du commissariat général
-du plan d'équipement de la productivité,
-
-sur proposition du commissaire général ;
+du plan d'équipement de la productivité, sur proposition du commissaire général
+;
 
 - les représentants des travailleurs sur proposition des organisations
 syndicales les plus représentatives sur le plan national ;
@@ -58,8 +58,16 @@ caisse ;
 - le représentant de la mutualité agricole sur proposition du ministre de
 l'agriculture ;
 
-- les trois représentants du corps médical, qui devront comprendre un membre du
-conseil supérieur de la médecine du travail, présenté par ledit conseil sur
-proposition de la confédération des syndicats médicaux français ;
+- le médecin membre du Conseil supérieur de la prévention des risques
+professionnels, sur proposition dudit conseil ;
 
-- le spécialiste des problèmes psychotechniques.
+- le spécialiste des problèmes d'insertion professionnelle des travailleurs
+handicapés ;
+
+- le représentant de l'Association nationale pour la gestion du Fonds de
+développement pour l'insertion professionnelle des handicapés ;
+
+- le représentant de l'Agence nationale pour l'emploi ;
+
+- le représentant de l'Association pour la formation professionnelle des
+adultes.

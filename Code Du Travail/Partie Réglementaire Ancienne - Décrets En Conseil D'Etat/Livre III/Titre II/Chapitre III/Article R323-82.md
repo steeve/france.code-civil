@@ -33,18 +33,20 @@ compétentes ;
 - d'un représentant de la commission de la main-d'oeuvre, du commissariat
 général du plan et de la productivité ;
 
-- De cinq [*nombre*] représentants des organisations syndicales patronales ;
+- de cinq [*nombre*] représentants des organisations syndicales patronales ;
 
 - de cinq représentants des organisations syndicales ouvrières ;
 
-- de huit représentants au maximum d'associations de handicapés à caractère
-national désignés par le ministre chargé du travail ;
+- de dix représentants au maximum d'associations de personnes handicapées, à
+caractère national désignés par le ministre chargé du travail en accord avec
+lesdites associations ;
 
-- de deux personnalités représentant les oeuvres gestionnaires des centres de
-réadaptation et de reclassement choisies en raison de leurs initiatives et de
-leurs réalisations en faveur des handicapés.
+- de quatre représentants des institutions gestionnaires des centres de
+rééducation et de réadaptation professionnelle et des établissements de travail
+protégé choisies en raison de leurs initiatives et de leurs réalisations en
+faveur des handicapés.
 
-- D'un représentant de la caisse nationale d'assurance maladie des travailleurs
+- d'un représentant de la caisse nationale d'assurance maladie des travailleurs
 salariés ;
 
 - d'un représentant de la caisse nationale d'assurance maladie et maternité des
@@ -52,16 +54,24 @@ travailleurs non-salariés ;
 
 - d'un représentant de la mutualité sociale agricole ;
 
-- de trois représentants du corps médical désignés par la confédération des
-syndicats médicaux français ;
+- d'un médecin membre du Conseil supérieur de la prévention des risques
+professionnels, présenté par ledit conseil ;
 
-- de quatre représentants des organisations syndicales de médecins du travail,
-médecins de sanatorium, médecins d'orientation professionnelle et médecins
-d'hôpital psychiatrique désignés par le ministre chargé du travail, en accord
-avec le ministre de la santé publique ;
+- de quatre représentants des organisations syndicales ou associations de
+médecins du travail, médecins de rééducation et de réadaptation fonctionnelle,
+praticiens hospitaliers de psychiatrie et médecins de main-d'oeuvre désignés par
+le ministre chargé du travail, en accord avec le ministre de la santé publique ;
 
-- d'un spécialiste des problèmes psychotechniques désigné par le ministre chargé
-du travail.
+- d'un spécialiste des problèmes d'insertion professionnelle des travailleurs
+handicapés désigné par le ministre chargé du travail ;
+
+- d'un représentant de l'Association nationale pour la gestion du Fonds de
+développement pour l'insertion professionnelle des handicapés ;
+
+- d'un représentant de l'Agence nationale pour l'emploi ;
+
+- d'un représentant de l'Association pour la formation professionnelle des
+adultes.
 
 La composition du conseil supérieur ne peut être modifiée que par décret en
 Conseil d'Etat.

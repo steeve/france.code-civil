@@ -1,8 +1,7 @@
 Article R323-88
 ----
-Une section permanente est créée au sein du Conseil supérieur.
-
-Elle est chargée d'étudier les questions qui lui sont soumises par le ministre
+Une section permanente est créée au sein du Conseil supérieur. Elle est chargée
+[*attributions*] d'étudier les questions qui lui sont soumises par le ministre
 chargé du travail ou par le Conseil supérieur.
 
 Elle est présidée par le ministre chargé du travail ou son représentant et
@@ -21,27 +20,36 @@ Le représentant du ministre de l'intérieur ;
 
 Le membre du conseil d'Etat ;
 
-Quatre représentants des associations de handicapés à caractère national ;
+Cinq représentants des associations de personnes handicapées, à caractère
+national ;
 
-Deux [*nombre*] représentants des oeuvres gestionnaires des centres de
-réadaptation et de reclassement ;
+Quatre représentants des institutions gestionnaires des centres de rééducation
+et de réadaptation professionnelle et des établissements de travail protégé ;
 
 Les représentants des organisations syndicales d'employeurs et de travailleurs ;
 
-Le représentant du corps médical membre du conseil supérieur de la médecine du
-travail et de la main-d'oeuvre ;
+Le médecin membre du Conseil supérieur de la prévention des risques
+professionnels ;
 
-Les représentants des organisations syndicales de médecins du travail et de
-médecins de sanatorium ;
+Les représentants des organisations syndicales ou associations de médecins du
+travail et de médecins de main-d'oeuvre ;
 
 Les représentants de la caisse nationale de sécurité sociale des travailleurs
 salariés et de la caisse nationale d'assurance maladie et maternité des
-travailleurs non-salariés.
+travailleurs non-salariés ;
 
-Le représentant de la mutualité sociale agricole.
+Le représentant de la mutualité sociale agricole ;
+
+Le représentant de l'Association nationale pour la gestion du fonds de
+développement pour l'insertion professionnelle des handicapés ;
+
+Le représentant de l'Agence nationale pour l'emploi ;
+
+Le représentant de l'Association pour la formation professionnelle des adultes ;
+
+Le spécialiste des problèmes d'insertion professionnelle des travailleurs
+handicapés.
 
 Les membres de la section permanente et leurs suppléants sont désignés par le
 ministre chargé du travail qui est saisi, en ce qui concerne les représentants
-des associations de handicapés,
-
-des propositions du conseil supérieur.
+des associations de handicapés, des propositions du conseil supérieur.
