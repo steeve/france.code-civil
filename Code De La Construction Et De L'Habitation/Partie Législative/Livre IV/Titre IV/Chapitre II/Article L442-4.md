@@ -1,5 +1,5 @@
 Article L442-4
 ----
-Des changements de locaux peuvent être imposés aux locataires ou occupants en
-vue d'une meilleure utilisation familiale, dans les conditions précisées par
-arrêté du ministre chargé de la construction et de l'habitation.
+En cas de sous-occupation du logement, il peut être attribué au locataire un
+nouveau logement correspondant à ses besoins, nonobstant les plafonds de
+ressources prévus à l'article L. 441-1.
