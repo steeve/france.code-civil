@@ -26,13 +26,13 @@ g) Un programme d'activités comprenant les pièces suivantes :
 se propose de garantir ;
 
 2. Pour chacune des branches ou sous-branches faisant l'objet de la demande
-d'agrément, sauf pour les branches mentionnées aux 4, 5, 6, 7 et 12 de l'article
-R. 321-1, deux exemplaires des polices et imprimés destinés à être distribués au
-public ou publiés ;
+d'agrément, sauf pour les opérations relevant des grands risques définis aux
+articles L. 351-4 et R. 351-1, deux exemplaires des polices et imprimés destinés
+à être distribués au public ou publiés ;
 
 3. Pour chacune des branches ou sous-branches faisant l'objet de la demande
-d'agrément, sauf pour les branches mentionnées aux 4, 5, 6, 7, 12, 14 et 15 de
-l'article R. 321-1, deux exemplaires des tarifs.
+d'agrément, sauf pour les opérations relevant des grands risques définis aux
+articles L. 351-4 et R. 351-1, deux exemplaires des tarifs.
 
 S'il s'agit d'opérations d'assurance comportant des engagements dont l'exécution
 dépend de la durée de la vie humaine, d'opérations complémentaires aux

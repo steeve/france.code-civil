@@ -38,3 +38,13 @@ Les entreprises sont tenus d'envoyer au ministre de l'économie, des finances et
 du budget, dans le délai qu'il détermine, la traduction en langue française,
 certifiée conforme, de tous les documents se rapportant à leurs opérations et
 non rédigés dans cette langue.
+
+Toutefois en ce qui concerne les grands risques mentionnés aux articles L. 351-4
+et R. 351-1, les dispositions des premier, quatrième, cinquième et sixième
+alinéas ne sont pas applicables. Le ministre chargé de l'économie et des
+finances peut, pour toute entreprise couvrant des grands risques, demander la
+communication des conditions générales des polices, propositions, bulletins de
+souscriptions, prospectus destinés à être distribués au public sans que cette
+exigence puisse constituer pour l'entreprise une condition préalable à
+l'exercice de son activité. Lorsque cette communication est demandée, les
+entreprises sont tenues de respecter les dispositions de l'alinéa précédent.

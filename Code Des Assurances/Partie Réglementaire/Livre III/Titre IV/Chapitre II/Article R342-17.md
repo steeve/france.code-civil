@@ -10,8 +10,7 @@ général de pertes et profits établi selon le compte 87 ;
 - le compte des résultats en instance d'affectation établi selon le compte 88,
 
 les entreprises doivent établir chaque année, dans la forme fixée par arrêté du
-ministre de l'économie et des finances pris après avis du conseil national des
-assurances, les états suivants :
+ministre de l'économie et des finances, les états suivants :
 
 A 1 Compte d'exploitation générale par catégories ou sous-catégories.
 
@@ -58,7 +57,10 @@ capitalisation aux résultats techniques et financiers. B 26 Etat justificatif d
 la participation des assurés sur la vie ou des porteurs de contrats de
 capitalisation aux résultats techniques et financiers.
 
-B 27 Etat concernant les opérations de coassurance communautaire.
+B 27 Etat concernant les opérations de coassurance communautaire. B 28 Etat
+concernant le montant des primes réalisées en libre prestation de services, sans
+déduction de réassurance, par Etat membre des communautés européennes et par
+groupe de branches.
 
 Les entreprises doivent ajouter des rubriques à celles des tableaux modèles
 chaque fois qu'une telle addition est utile à la sincérité des comptes rendus ;
