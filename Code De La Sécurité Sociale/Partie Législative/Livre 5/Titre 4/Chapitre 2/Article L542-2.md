@@ -23,3 +23,8 @@ temporaire des personnes défavorisées et bénéficiant de l'aide mentionnée �
 l'article L. 851-1, accèdent à un logement ouvrant droit à l'allocation de
 logement, afin d'assurer la continuité des prestations prévue par le second
 alinéa de l'article L. 552-1.
+
+L'allocation de logement n'est pas due aux personnes qui sont locataires d'un
+logement appartenant à l'un de leurs ascendants ou descendants, ou ceux de leur
+conjoint ou concubin ou de toute personne liée à elles par un contrat conclu en
+application de l'article 515-1 du code civil.
