@@ -6,5 +6,5 @@ En cas de naissances multiples :
 mentionnée à l'article R. 531-1 dues pour chaque enfant né au-delà du premier ;
 
 2° L'allocation pour jeune enfant mentionnée à l'article R. 531-1-1 est versée
-pour chaque enfant concerné jusqu'au dernier jour du mois civil au cours duquel
-il atteint son premier anniversaire .
+pour chaque enfant concerné jusqu'au dernier jour du mois civil précédant celui
+au cours duquel il atteint l'âge de trois ans.
