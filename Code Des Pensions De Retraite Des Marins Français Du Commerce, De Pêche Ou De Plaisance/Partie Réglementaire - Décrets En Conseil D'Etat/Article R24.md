@@ -9,49 +9,50 @@ lieu les services de chacun des membres des équipages et des participants.
 
 Ces taux sont déterminés conformément au barème ci-après :
 
-==============================================================
+DESIGNATION :
 
-: DESIGNATION : CONTRIBUTION : COTISATION : TOTAL :
+Marins (cas général)
 
-: : patronale : ouvrière : :
+Contribution patronale (%) : 17,70
 
-:----------------------:--------------:------------:---------:
+Cotisation ouvrière (%) : 10,90
 
-: : p. 100 : p. 100 : p. 100 :
+TOTAL : 28,60
 
-: : : : :
+DESIGNATION :
 
-: Marins (cas général) : 17,70 : 10,7 : 28,40 :
 
-: : : : :
+Etrangers admis à concourir à pension
 
-: Etrangers admis à : : : :
+Contribution patronale (%) : 17,70
 
-: concourir à pension : 17,70 : 10,7 : 28,40 :
+Cotisation ouvrière (%) : 10,90
 
-: : : : :
+TOTAL : 28,60
 
-: Marins des : : : :
+DESIGNATION :
 
-: territoires : : : :
+Marins des territoires d'outre-mer non admis à concourir à pension
 
-: d'outre-mer non : : : :
+Contribution patronale (%) : 17,70
 
-: admis à concourir : : : :
+Cotisation ouvrière (%) : néant
 
-: à pension : 17,70 : Néant : 17,70 :
+TOTAL : 17,70
 
-: : : : :
+DESIGNATION :
 
-: Etrangers non admis : : : :
 
-: à concourir à : : : :
+Etrangers non admis à concourir à pension
 
-: pension : 28,40 : Néant : 28,40 :
+Contribution patronale (%) : 28,40
 
-============================================================== Lorsqu'il est
-établi, par un rapport de l'autorité consulaire annexé au rôle d'équipage, que
-l'embarquement d'étrangers hors d'un port français a été motivé par l'absence de
-marins français au port d'embarquement, la contribution patronale est ramenée de
-28,40 p. 100 [*pourcentage*] à 17,70 p. 100 jusqu'au jour où le navire touche un
-port français.
+Cotisation ouvrière (%) : néant
+
+TOTAL : 28,40
+
+Lorsqu'il est établi, par un rapport de l'autorité consulaire annexé au rôle
+d'équipage, que l'embarquement d'étrangers hors d'un port français a été motivé
+par l'absence de marins français au port d'embarquement, la contribution
+patronale est ramenée de 28,40 p. 100 [*pourcentage*] à 17,70 p. 100 jusqu'au
+jour où le navire touche un port français.
