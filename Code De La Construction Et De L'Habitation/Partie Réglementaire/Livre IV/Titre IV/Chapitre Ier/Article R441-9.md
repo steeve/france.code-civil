@@ -30,7 +30,13 @@ ou de surveillance visées aux alinéas précédents, en proportions identiques 
 celles mentionnées auxdits alinéas. Ces représentants sont désignés par le
 conseil d'administration ou de surveillance sur proposition, pour chaque
 catégorie d'entre eux, des membres correspondants dudit conseil. Ces
-représentants ne sont pas nécessairement membres de ce conseil.
+représentants ne sont pas nécessairement membres de ce conseil ;
+
+Lorsque l'attribution des logements figure au nombre des missions confiées par
+un mandat de gérance conclu en application de l'article L. 442-9, le président
+de la commission d'attribution de l'organisme mandant participe, avec voix
+délibérative, aux séances de la commission d'attribution du mandataire pour
+l'attribution des logements faisant l'objet du mandat.
 
 II. - Le conseil d'administration ou de surveillance de l'organisme définit les
 orientations qui guident l'attribution des logements et sont communes aux
