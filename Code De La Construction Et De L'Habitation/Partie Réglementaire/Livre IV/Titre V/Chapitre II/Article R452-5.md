@@ -10,8 +10,8 @@ l'économie et du ministre chargé du budget :
 
 - un représentant du ministre chargé du budget ;
 
-- le président de l'Union nationale des fédérations d'organismes d'habitations à
-loyer modéré et deux autres représentants de cette union désignés par elle ;
+- trois représentants de l'union mentionnée à l'article L. 452-2, désignés par
+elle ;
 
 - un représentant de la Fédération nationale des sociétés d'économie mixte,
 désigné par cette fédération ;
