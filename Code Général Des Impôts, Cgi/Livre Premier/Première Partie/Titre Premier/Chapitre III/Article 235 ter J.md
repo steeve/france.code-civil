@@ -5,9 +5,11 @@ déclaration en double exemplaire, indiquant notamment le montant de la
 participation à laquelle ils étaient tenus et les dépenses effectivement
 consenties en vertu de l'article L 951-1 du code du travail.
 
-La déclaration des employeurs mentionnés à l'article 235 ter F doit être
-accompagnée soit du procès-verbal de la délibération du comité d'entreprise,
-soit du procès-verbal de carence.
+Les employeurs qui occupent au moins cinquante salariés attestent sur l'honneur
+qu'ils ont satisfait à l'obligation de consultation du comité d'entreprise
+prévue à l'article L. 951-8 du code du travail. A la demande de
+l'administration, ils doivent produire les procès-verbaux justifiant du respect
+de cette obligation.
 
 II La déclaration prévue au I, doit être produite au plus tard le 30 avril de
 l'année suivant celle au cours de laquelle les dépenses définies à l'article L

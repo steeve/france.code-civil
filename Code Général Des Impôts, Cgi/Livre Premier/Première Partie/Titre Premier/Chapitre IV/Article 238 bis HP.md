@@ -18,14 +18,14 @@ c) Et qui n'ont pas été financés par une société visée au premier alinéa.
 
 Par dérogation aux premier et deuxième alinéas, les sociétés agréées peuvent :
 
-- dans la limite de 10 % de leur capital social libéré, mettre ou laisser leurs
-disponibilités en comptes productifs d'intérêts si la créance correspondante est
-liquide ;
+a) - dans la limite de 10 % de leur capital social libéré, mettre ou laisser
+leurs disponibilités en comptes productifs d'intérêts si la créance
+correspondante est liquide ;
 
-- et, dans la limite de 15 % du capital souscrit pour le financement de navires
-visés au premier alinéa, prendre en charge des travaux d'équipement et de
-modernisation, tels que définis par le règlement (CE) n° 2369/2002 du Conseil du
-20 décembre 2002 modifiant le règlement (CE) n° 2792/1999 définissant les
+b) - et, dans la limite de 15 % du capital souscrit pour le financement de
+navires visés au premier alinéa, prendre en charge des travaux d'équipement et
+de modernisation, tels que définis par le règlement (CE) n° 2369/2002 du Conseil
+du 20 décembre 2002 modifiant le règlement (CE) n° 2792/1999 définissant les
 modalités et conditions des actions structurelles de la Communauté dans le
 secteur de la pêche, sur ces navires, à la condition qu'ils soient réalisés dans
 un délai de cinq années à compter du versement effectif de la souscription au
@@ -73,19 +73,19 @@ undecies A ou 199 undecies B ou 217 undecies.
 
 Par dérogation au premier alinéa, les sociétés agréées peuvent :
 
-- dans la limite de 25 % de leur capital social libéré, mettre ou laisser leurs
-disponibilités en comptes productifs d'intérêts si la créance correspondante est
-liquide ;
+a) - dans la limite de 25 % de leur capital social libéré, mettre ou laisser
+leurs disponibilités en comptes productifs d'intérêts si la créance
+correspondante est liquide ;
 
-- et, dans la limite de 15 % du capital souscrit pour le financement de navires
-visés au premier alinéa, prendre en charge des travaux d'équipement et de
-modernisation, tels que définis par le règlement (CE) n° 2369/2002 du Conseil du
-20 décembre 2002 précité, sur ces navires, à la condition qu'ils soient réalisés
-dans un délai de cinq années à compter du versement effectif de la souscription
-au capital de la société agréée. A défaut d'utilisation dans ce délai de cinq
-ans, les sommes souscrites affectées à ces travaux doivent être rétrocédées à
-l'artisan pêcheur ou aux pêcheurs associés lors du transfert de propriété du
-navire sous la forme d'une réduction du prix de cession du navire.
+b) - et, dans la limite de 15 % du capital souscrit pour le financement de
+navires visés au premier alinéa, prendre en charge des travaux d'équipement et
+de modernisation, tels que définis par le règlement (CE) n° 2369/2002 du Conseil
+du 20 décembre 2002 précité, sur ces navires, à la condition qu'ils soient
+réalisés dans un délai de cinq années à compter du versement effectif de la
+souscription au capital de la société agréée. A défaut d'utilisation dans ce
+délai de cinq ans, les sommes souscrites affectées à ces travaux doivent être
+rétrocédées à l'artisan pêcheur ou aux pêcheurs associés lors du transfert de
+propriété du navire sous la forme d'une réduction du prix de cession du navire.
 
 Cette disposition est applicable sous respect des conditions fixées aux neuvième
 à treizième alinéas du I.

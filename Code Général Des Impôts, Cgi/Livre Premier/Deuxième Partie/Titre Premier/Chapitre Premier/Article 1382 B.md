@@ -5,6 +5,4 @@ intercommunale à fiscalité propre peuvent, par délibération prise dans les
 conditions prévues à l'article 1639 A bis, exonérer, pour la part de taxe
 foncière sur les propriétés bâties qui leur revient, les bâtiments affectés à
 l'activité de déshydratation de fourrages, à l'exclusion de ceux abritant les
-presses et les séchoirs. Toutefois, pour l'application de cette exonération au
-titre de 2003, les délibérations doivent intervenir au plus tard le 31 janvier
-2003.
+presses et les séchoirs.
