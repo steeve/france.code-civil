@@ -3,7 +3,7 @@ Article L713-7
 Une convention ou un accord collectif étendu ou une convention ou un accord
 d'établissement peut, sans préjudice des dispositions de l'article L. 713-9,
 prévoir le remplacement de tout ou partie du paiement des heures
-supplémentaires, ainsi que des majorations prévues au II de l'article L. 713-6,
+supplémentaires, ainsi que des majorations prévues au I de l'article L. 713-6,
 par un repos compensateur équivalent.
 
 Dans les entreprises ou exploitations non assujetties à l'obligation visée par

@@ -33,7 +33,7 @@ L. 132-26.
 
 La convention ou l'accord peut également préciser que les conventions de forfait
 en heures sur l'année sont applicables aux salariés itinérants non cadres dont
-la durée du temps de travail ne peut être prédéterminée et qui disposent d'une
+la durée du temps de travail ne peut être prédéterminée ou qui disposent d'une
 réelle autonomie dans l'organisation de leur emploi du temps pour l'exercice des
 responsabilités qui leur sont confiées.
 
@@ -41,18 +41,16 @@ III. - La convention ou l'accord collectif prévoyant la conclusion de
 conventions de forfait en jours ne doit pas avoir fait l'objet d'une opposition
 en application de l'article L. 132-26. Cette convention ou cet accord doit fixer
 le nombre de jours travaillés. Ce nombre ne peut dépasser le plafond de deux
-cent dix-sept jours. La convention ou l'accord définit les catégories de
-salariés concernés pour lesquels la durée du temps de travail ne peut être
-prédéterminée du fait de la nature de leurs fonctions, des responsabilités
-qu'ils exercent et du degré d'autonomie dont ils bénéficient dans l'organisation
-de leur emploi du temps. La convention ou l'accord précise en outre les
-modalités de décompte des journées et des demi-journées travaillées et de prise
-des journées ou demi-journées de repos. Il détermine les conditions de contrôle
-de son application et prévoit des modalités de suivi de l'organisation du
-travail des salariés concernés, de l'amplitude de leurs journées d'activité et
-de la charge de travail qui en résulte. L'accord peut en outre prévoir que des
-jours de repos peuvent être affectés sur un compte épargne-temps dans les
-conditions définies par l'article L. 227-1.
+cent dix-sept jours. La convention ou l'accord définit, au regard de leur
+autonomie dans l'organisation de leur emploi du temps, les catégories de cadres
+concernés. La convention ou l'accord précise en outre les modalités de décompte
+des journées et des demi-journées travaillées et de prise des journées ou
+demi-journées de repos. Il détermine les conditions de contrôle de son
+application et prévoit des modalités de suivi de l'organisation du travail des
+salariés concernés, de l'amplitude de leurs journées d'activité et de la charge
+de travail qui en résulte. L'accord peut en outre prévoir que des jours de repos
+peuvent être affectés sur un compte épargne-temps dans les conditions définies
+par l'article L. 227-1.
 
 Les salariés concernés ne sont pas soumis aux dispositions de l'article L. 212-1
 et du deuxième alinéa de l'article L. 212-7. Les dispositions des articles L.

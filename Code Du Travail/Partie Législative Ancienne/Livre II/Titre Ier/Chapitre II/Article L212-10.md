@@ -1,10 +1,9 @@
 Article L212-10
 ----
-Les accords d'entreprise ou d'établissement prévus à l'article L. 212-8 et aux
-premier alinéa du I de l'article L. 212-5, cinquième alinéa de l'article L.
-212-5-1 et à l'article L. 212-7-1 qui dérogent aux dispositions législatives ou
-conventionnelles peuvent faire l'objet de l'opposition prévue à l'article L.
-132-26.
+Les accords d'entreprise ou d'établissement prévus à l'article L. 212-8, au
+cinquième alinéa de l'article L. 212-5-1 et à l'article L. 212-7-1 qui dérogent
+aux dispositions législatives ou conventionnelles peuvent faire l'objet de
+l'opposition prévue à l'article L. 132-26.
 
 Sont passibles des mêmes peines que celles qu'entraînent les infractions aux
 dispositions des articles L. 212-5, L. 212-5-1 et L. 212-6 [*sanction pénale*] :

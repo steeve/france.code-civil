@@ -15,11 +15,10 @@ Ce soutien est calculé par référence aux cotisations et contributions sociale
 patronales obligatoires de toutes natures, dont le paiement est exigé à raison
 du versement du salaire. Ce soutien n'est pas cumulable avec une autre aide à
 l'emploi attribuée par l'Etat. Il est cumulable avec les réductions et les
-allégements de cotisations prévus aux articles L. 241-6-4, L. 241-13, L.
-241-13-1 et L. 241-14 du code de la sécurité sociale ainsi qu'aux articles L.
-241-13 et L. 241-13-1 du code de la sécurité sociale tels que visés par
-l'article L. 741-4 du code rural et aux articles L. 741-5 et L. 741-6 de ce
-dernier code.
+allégements de cotisations prévus aux articles L. 241-6-4, L. 241-13 et L.
+241-14 du code de la sécurité sociale ainsi qu'à l'article L. 241-13 tel que
+visé par l'article L. 741-4 du code rural et aux articles L. 741-5 et L. 741-6
+de ce dernier code.
 
 Un décret précise le montant et les modalités d'attribution du soutien ainsi que
 les conditions d'application du présent article.

@@ -18,13 +18,12 @@ II. - Une convention ou un accord étendu ou une convention ou un accord
 d'entreprise ou d'établissement peut prévoir que la durée hebdomadaire moyenne
 sur l'année est réduite, en tout ou partie, en deçà de trente-neuf heures, par
 l'attribution de journées ou de demi-journées de repos. Lorsque la durée du
-travail constatée excède trente-cinq heures en moyenne sur l'année et, en tout
-état de cause, une durée annuelle de 1 600 heures, les heures effectuées au-delà
-de cette durée sont des heures supplémentaires auxquelles s'appliquent les
-dispositions des articles L. 212-5, L. 212-5-1 et L. 212-6. Ces dispositions
-sont également applicables aux heures non déjà décomptées à ce titre et qui
-auraient été effectuées au-delà de trente-neuf heures ou d'un plafond inférieur
-fixé par la convention ou l'accord.
+travail constatée excède une durée annuelle de 1 600 heures, les heures
+effectuées au-delà de cette durée sont des heures supplémentaires auxquelles
+s'appliquent les dispositions des articles L. 212-5, L. 212-5-1 et L. 212-6. Ces
+dispositions sont également applicables aux heures non déjà décomptées à ce
+titre et qui auraient été effectuées au-delà de trente-neuf heures ou d'un
+plafond inférieur fixé par la convention ou l'accord.
 
 La convention ou l'accord détermine les modalités de prise des journées ou des
 demi-journées de repos, pour partie au choix du salarié et pour partie au choix

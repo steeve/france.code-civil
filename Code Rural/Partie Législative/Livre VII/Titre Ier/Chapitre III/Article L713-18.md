@@ -1,10 +1,9 @@
 Article L713-18
 ----
-Les accords d'entreprise ou d'établissement prévus à l'article L. 713-14, au
-premier alinéa du I de l'article L. 713-6, à l'article L. 713-8 et au cinquième
-alinéa de l'article L. 713-9 qui dérogent aux dispositions législatives ou
-conventionnelles peuvent faire l'objet de l'opposition prévue à l'article L.
-132-26 du code du travail.
+Les accords d'entreprise ou d'établissement prévus à l'article L. 713-14, à
+l'article L. 713-8 et au cinquième alinéa de l'article L. 713-9 qui dérogent aux
+dispositions législatives ou conventionnelles peuvent faire l'objet de
+l'opposition prévue à l'article L. 132-26 du code du travail.
 
 Sont passibles des mêmes peines que celles qu'entraînent les infractions aux
 dispositions des articles L. 713-6, L. 713-9 et L. 713-11 :

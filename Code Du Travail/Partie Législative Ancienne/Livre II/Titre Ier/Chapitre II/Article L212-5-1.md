@@ -1,21 +1,23 @@
 Article L212-5-1
 ----
-Les heures supplémentaires de travail visées à l'article L. 212-5 et effectuées
-à l'intérieur du contingent fixé par le décret prévu au premier alinéa de
-l'article L. 212-6 ouvrent droit à un repos compensateur obligatoire dont la
-durée est égale à 50 p. 100 du temps de travail accompli en heures
-supplémentaires au-delà de quarante-deux heures dans les entreprises de plus de
-dix salariés. Ce seuil est fixé à quarante et une heures à compter du 1er
-janvier 1999.
+Les heures supplémentaires de travail mentionnées à l'article L. 212-5 et
+effectuées à l'intérieur du contingent conventionnel fixé selon les modalités
+prévues au deuxième alinéa de l'article L. 212-6 lorsqu'il existe, ou, à défaut,
+du contingent fixé par le décret prévu au premier alinéa de l'article L. 212-6,
+ouvrent droit à un repos compensateur obligatoire dont la durée est égale à 50 %
+du temps de travail accompli en heures supplémentaires au-delà de quarante et
+une heures dans les entreprises de plus de vingt salariés.
 
 Les heures supplémentaires effectuées dans les cas énumérés à l'article L.
 221-12 ne s'imputent pas sur le contingent annuel prévu à l'article L. 212-6.
 
-Les heures supplémentaires effectuées au-delà du contingent fixé par le décret
-prévu au premier alinéa de l'article L. 212-6 ouvrent droit à un repos
-compensateur obligatoire dont la durée est égale à 50 p. 100 de ces heures
-supplémentaires pour les entreprises de dix salariés au plus et à 100 p. 100
-pour les entreprises de plus de dix salariés.
+Les heures supplémentaires effectuées au-delà du contingent conventionnel fixé
+selon les modalités prévues au deuxième alinéa de l'article L. 212-6 lorsqu'il
+existe, ou, à défaut, du contingent fixé par le décret prévu au premier alinéa
+de l'article L. 212-6, ouvrent droit à un repos compensateur obligatoire dont la
+durée est égale à 50 % de ces heures supplémentaires, pour les entreprises de
+vingt salariés au plus, et à 100 % pour les entreprises de plus de vingt
+salariés.
 
 Le repos peut être pris selon deux formules, la journée entière ou la
 demi-journée, à la convenance du salarié, en dehors d'une période définie par
@@ -50,16 +52,16 @@ A défaut d'accord entre des organisations syndicales d'employeurs et de salari�
 les plus représentatives au plan national, un décret fixe également les
 modalités d'application du présent article en cas d'activités saisonnières.
 
-Le salarié dont le contrat de travail est résilié [*rupture*] avant qu'il ait pu
-bénéficier du repos compensateur auquel il a droit ou avant qu'il ait acquis des
-droits suffisants pour pouvoir prendre ce repos [*condition*] reçoit une
-indemnité en espèces correspondant à ses droits acquis, déterminés suivant les
-modalités prévues au présent article. Cette indemnité est due sans qu'il y ait
-lieu de distinguer suivant que cette résiliation résulte du fait du salarié ou
-du fait de l'employeur. Elle est également due aux ayants droit du salarié dont
-le décès survient avant qu'il ait pu bénéficier du repos compensateur auquel il
-avait droit ou avant qu'il ait acquis des droits suffisants pour pouvoir prendre
-ce repos. Elle est alors versée à ceux des ayants droit qui auraient qualité
-pour obtenir le paiement des salaires arriérés.
+Le salarié dont le contrat de travail est résilié avant qu'il ait pu bénéficier
+du repos compensateur auquel il a droit ou avant qu'il ait acquis des droits
+suffisants pour pouvoir prendre ce repos reçoit une indemnité en espèces
+correspondant à ses droits acquis, déterminés suivant les modalités prévues au
+présent article. Cette indemnité est due sans qu'il y ait lieu de distinguer
+suivant que cette résiliation résulte du fait du salarié ou du fait de
+l'employeur. Elle est également due aux ayants droit du salarié dont le décès
+survient avant qu'il ait pu bénéficier du repos compensateur auquel il avait
+droit ou avant qu'il ait acquis des droits suffisants pour pouvoir prendre ce
+repos. Elle est alors versée à ceux des ayants droit qui auraient qualité pour
+obtenir le paiement des salaires arriérés.
 
 L'indemnité ci-dessus a le caractère de salaire.
