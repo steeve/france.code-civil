@@ -9,7 +9,7 @@ suivantes :
 - les convocations adressées à ses membres doivent mentionner l'inscription de
 ces questions à l'ordre du jour ;
 
-- les membres présents et représentés doivent disposer de la moitié au moins du
+- les membres présents et représentés doivent disposesr de la moitié au moins du
 nombre total des voix statutaires ;
 
 - la décision doit être prise à la majorité des deux tiers des voix de ces

@@ -15,7 +15,7 @@ Toutefois, si la demande soumise au tribunal d'instance pose une question
 préjudicielle, le tribunal renvoie les parties à se pourvoir devant le tribunal
 compétent, conformément aux dispositions du nouveau Code de procédure civile.
 
-Le secrétaire-greffier du tribunal d'instance adresse, dans les deux jours,
-copie de la décision au président de la commission départementale, aux maires
-des communes intéressées et, par lettre recommandée avec demande d'avis de
-réception, aux parties.
+Le greffier du tribunal d'instance adresse, dans les deux jours, copie de la
+décision au président de la commission départementale, aux maires des communes
+intéressées et, par lettre recommandée avec demande d'avis de réception, aux
+parties.

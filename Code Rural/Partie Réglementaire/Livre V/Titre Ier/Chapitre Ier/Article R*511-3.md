@@ -24,9 +24,7 @@ Les représentants de ces organisations sont désignés par le préfet sur
 proposition, d'une part, des organisations syndicales d'exploitants agricoles à
 vocation générale habilitées en application de l'article 1er du décret n° 90-187
 du 28 février 1990 et, d'autre part, des organisations de coopération, de crédit
-et de mutualité agricoles. Dans le cas d'un service interdépartemental, ces
-représentants sont désignés par les mêmes organisations à la diligence des
-commissaires de la République concernés.
+et de mutualité agricoles.
 
 Un fonctionnaire, désigné par le commissaire de la République, participe aux
 travaux de ce comité, avec voix consultative.

@@ -2,7 +2,7 @@ Article L411-58
 ----
 Le bailleur a le droit de refuser le renouvellement du bail s'il veut reprendre
 le bien loué pour lui-même ou au profit du conjoint ou d'un descendant majeur ou
-mineur émancipé de plein droit.
+mineur émancipé.
 
 Toutefois, le preneur peut s'opposer à la reprise lorsque lui-même, ou en cas de
 copreneurs l'un d'entre eux, se trouve à moins de cinq ans de l'âge auquel peut

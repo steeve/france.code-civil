@@ -6,6 +6,7 @@ R. 213-6, R. 213-11 et R. 213-12 ainsi que la liste des espèces et le nombre de
 animaux de chaque espèce dont la détention est autorisée.
 
 Cette autorisation ne peut, pour les établissements mobiles, être accordée que
-si les animaux non domestiques présentés au public participent à un spectacle
-dans les conditions prévues par le décret n° 87-223 du 26 mars 1987 relatif aux
-conditions d'utilisation des animaux dans les spectacles publics et les jeux.
+si les animaux d'espéces non domestiques présentés au public participent à un
+spectacle dans les conditions prévues par le décret n° 87-223 du 26 mars 1987
+relatif aux conditions d'utilisation des animaux dans les spectacles publics et
+les jeux.

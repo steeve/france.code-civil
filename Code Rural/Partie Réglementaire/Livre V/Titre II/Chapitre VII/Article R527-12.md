@@ -13,7 +13,7 @@ l'agriculture.
 Les articles R. 527-4 à R. 527-7, R. 527-9 et R. 527-10 sont applicables à ces
 fédérations.
 
-Pour l'application de l'article L. 527-1, l'association nationale de révision de
+Pour l'application de l'article L. 527-1, l'Association nationale de révision de
 la coopération agricole veille à la mise en oeuvre du commissariat aux comptes
 par les fédérations et au respect des règles d'indépendance et de discipline des
 personnes physiques qui exercent les fonctions de commissaire aux comptes au nom

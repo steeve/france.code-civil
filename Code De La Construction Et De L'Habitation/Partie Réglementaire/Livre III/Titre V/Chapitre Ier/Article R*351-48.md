@@ -10,6 +10,7 @@ sanitaires et sociales compétent, du directeur départemental des affaires
 sanitaires et sociales, du président du conseil d'administration de la caisse
 d'allocations familiales concernée, du président du conseil d'administration de
 la caisse de mutualité sociale agricole compétente ou de leurs représentants
-respectifs et de deux représentants des usagers désignés par le commissaire de
-la République sur proposition des organisations les plus représentatives au
-niveau du département. "
+respectifs, de deux représentants des usagers désignés par le préfet sur
+proposition des organisations les plus représentatives au niveau du département,
+d'un représentant désigné par le conseil général et d'un représentant de l'union
+départementale des associations familiales. "

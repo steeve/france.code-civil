@@ -12,13 +12,13 @@ chasse.
 
 Elle est adressée chaque année :
 
-a) Pour les terrains entièrement soumis au régime forestier, au chef de centre
-de l'Office national des forêts ;
+a) Pour les terrains entièrement soumis au régime forestier, au représentant de
+l'Office national des forêts dans le département ;
 
 b) Pour les terrains soumis pour partie au régime forestier et pour partie non
 soumis à ce régime, au président de la fédération départementale des chasseurs,
-à charge pour lui de joindre à son avis celui du chef de centre de l'Office
-national des forêts ;
+à charge pour lui de joindre à son avis celui du représentant de l'Office
+national des forêts dans le département ;
 
 c) Pour les autres terrains, au président de la fédération départementale des
 chasseurs.

@@ -25,7 +25,7 @@ agricole, les membres de toute société, quelles qu'en soient la forme et la
 dénomination, ayant pour objet la gestion d'une exploitation agricole et qui ne
 figure pas sur la liste des groupements professionnels agricoles : il en est de
 même pour leurs conjoints, leurs aides familiaux et leurs associés
-d'exploitation.
+d'exploitation ;
 
 2. Les personnes qui, ayant ou non la qualité d'exploitant, sont propriétaires
 ou usufruitiers dans le département, de parcelles soumises au statut du fermage

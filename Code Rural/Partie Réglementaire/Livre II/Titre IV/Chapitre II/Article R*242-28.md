@@ -8,7 +8,7 @@ La décision d'agrément fixe :
 1° Les limites de la réserve ;
 
 2° La nature des mesures conservatoires dont la réserve est affectée en vertu
-des dispositions de l'article R. 242-28 ;
+des dispositions de l'article R. 242-29 ;
 
 3° Les obligations du propriétaire en matière de surveillance et de protection
 de la réserve.

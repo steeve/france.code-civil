@@ -5,8 +5,8 @@ V du présent livre, sous réserve qu'ils vivent habituellement au foyer :
 
 1. Les enfants ouvrant droit aux prestations familiales et ceux qui, bien que
 n'ouvrant pas droit à ces prestations, doivent être considérés comme étant à
-charge au sens des articles L. 525 et L. 527 à L. 529 du code de la sécurité
-sociale ;
+charge au sens des articles L. 512-3 et L. 521-2 du code de la sécurité sociale
+;
 
 2. a) Les ascendants du bénéficiaire ou de son conjoint qui sont âgés d'au moins
 soixante-cinq ans ou de soixante ans en cas d'inaptitude au travail et dont les

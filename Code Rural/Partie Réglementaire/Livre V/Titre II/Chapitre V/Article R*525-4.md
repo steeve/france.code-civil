@@ -12,14 +12,13 @@ président du conseil d'administration du groupement coopératif un accusé de
 réception portant mention de la date de dépôt.
 
 Les demandes d'agrément des sociétés coopératives agricoles dont l'agrément doit
-être prononcé par arrêté du commissaire de la République de région sont
-adressées à l'ingénieur général chargé de la région où se trouve le siège social
-de la société.
+être prononcé par arrêté du préfet de région sont adressées à l'ingénieur
+général chargé de la région où se trouve le siège social de la société.
 
 Les demandes d'agrément des sociétés coopératives agricoles, dont l'agrément
-doit être prononcé par arrêté du commissaire de la République du département,
-sont adressées au secrétariat de la commission départementale des structures où
-se trouve le siège social de la société.
+doit être prononcé par arrêté du préfet du département, sont adressées au
+secrétariat de la commission départementale des structures où se trouve le siège
+social de la société.
 
 Le directeur départemental de l'agriculture enregistre la demande et en accuse
 réception dans les mêmes conditions que celles prévues au deuxième alinéa du

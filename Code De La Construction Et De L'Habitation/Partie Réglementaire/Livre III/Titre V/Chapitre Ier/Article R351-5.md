@@ -8,16 +8,16 @@ personnes vivant habituellement au foyer, sauf dans les cas mentionnés à
 l'article R. 351-7-2. Sont considérées comme vivant habituellement au foyer les
 personnes y ayant résidé plus de six mois [*durée*] au cours de ladite année
 civile et qui y résident encore au moment de la demande ou au début de la
-période de paiement.
+période de paiement. Les ressources prises en considération s'entendent du total
+des revenus nets catégoriels retenus pour l'établissement de l'impôt sur le
+revenu d'après le barème des revenus taxés à un taux proportionnel ou soumis à
+un prélèvement libératoire de l'impôt sur le revenu, ainsi que des revenus
+perçus hors de France ou versés par une organisation internationale et après
+application :
 
-" Les ressources prises en considération s'entendent du total des revenus nets
-catégoriels retenus pour l'établissement de l'impôt sur le revenu d'après le
-barème et après application :
-
-" - de la déduction des frais de garde des enfants mentionnée à l'article 154
-ter du code général des impôts, dans la limite d'un montant fixé par arrêté des
-ministres chargés du logement, du budget, de la sécurité sociale et de
-l'agriculture ;
+d'une déduction représentative des frais de garde des enfants à charge, dont le
+montant maximum est fixé par arrêté des ministres chargés du logement, du
+budget, de la sécurité sociale et de l'agriculture ".
 
 " - de la déduction au titre des créances alimentaires mentionnée au 2° du II de
 l'article 156 du code général des impôts ;
@@ -47,7 +47,7 @@ des ménages pour l'année civile de référence figurant dans le rapport écono
 et financier annexé au projet de loi finances. "
 
 Ne sont prises en compte que pour la fraction dépassant le plafond individuel
-prévu à l'article L. 688 du code de la sécurité sociale les ressources de
+prévu à l'article L. 815-8 du code de la sécurité sociale les ressources de
 chacune des personnes vivant habituellement au foyer qui sont : Soit ascendants
 du bénéficiaire ou de son conjoint âgés d'au moins soixante-cinq ans ou d'au
 moins soixante ans en cas d'inaptitude au travail ; Soit "grands infirmes" au

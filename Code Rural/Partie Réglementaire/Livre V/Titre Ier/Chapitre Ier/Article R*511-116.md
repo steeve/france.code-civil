@@ -9,7 +9,7 @@ sont élus par deux collèges distincts :
 
 a) Celui des électeurs exploitant moins de 10 ha, à raison de 7 ;
 
-b) Celui des électeurs exploitant plus de 10 ha, à raison de 5 ;
+b) Celui des électeurs exploitant plus de 10 ha, à raison de 5.
 
 2. D'un membre élu, au scrutin de liste départemental, par les propriétaires ou
 usufruitiers mentionnés à l'article R. 511-8, 2°.
