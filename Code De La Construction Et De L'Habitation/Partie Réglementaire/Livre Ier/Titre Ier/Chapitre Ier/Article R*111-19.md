@@ -1,23 +1,15 @@
 Article R*111-19
 ----
-Un arrêté conjoint des ministres chargés de la construction et de l'habitation,
-de la santé et du ministre de l'intérieur peut, par dérogation aux dispositions
-de la présente section, fixer des règles spéciales à certaines catégories de
-logements destinés à l'occupation temporaire ou saisonnière dont la gestion et
-l'entretien sont organisés et assurés de façon permanente.
+Les dispositions de la présente sous-section sont applicables aux établissements
+recevant du public et installations ouvertes au public ci-après :
 
-Le ministre chargé de la construction et de l'habitation et le ministre chargé
-de la santé peuvent accorder conjointement, en tant que de besoin, des
-dérogations aux dispositions de la présente section pour la réalisation
-d'habitations ayant un caractère expérimental.
+a) Tous bâtiments, locaux et enceintes dans lesquels des personnes sont admises
+soit librement, soit moyennant une rétribution ou une participation quelconque,
+ou dans lesquels sont tenues des réunions ouvertes à tout venant ou sur
+invitation, payantes ou non ;
 
-Le ministre chargé de la construction et de l'habitation peut accorder des
-dérogations aux dispositions de la présente section pour la réalisation de
-bâtiments d'habitation collectifs nouveaux ayant un caractère expérimental
-rendant momentanément impossible leur application.
+b) Les locaux scolaires, universitaires et de formation ;
 
-Le préfet peut accorder des dérogations aux dispositions de la présente section
-lorsque les caractéristiques du terrain ou la présence de constructions
-existantes fait obstacle à leur application. Le préfet se prononce par arrêté
-après consultation de la commission départementale prévue à l'article 6 du
-décret n° 78-109 du 1er février 1978.
+c) Les installations ouvertes au public, notamment les espaces publics ou privés
+qui desservent des établissements recevant du public ou qui sont aménagés en vue
+de leur utilisation par le public, le mobilier urbain qui y est implanté.
