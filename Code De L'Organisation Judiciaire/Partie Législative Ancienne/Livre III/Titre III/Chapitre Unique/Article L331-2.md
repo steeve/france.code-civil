@@ -1,13 +1,11 @@
 Article L331-2
 ----
-En matière civile, la juridiction de proximité connaît en dernier ressort des
-actions personnelles mobilières dont elle est saisie par une personne physique
-pour les besoins de sa vie non professionnelle, jusqu'à la valeur de 1500 euros
-ou d'une valeur indéterminée mais qui ont pour origine l'exécution d'une
-obligation dont le montant n'excède pas 1500 euros.
-
-Elle connaît des procédures d'injonction de payer ou de faire, dans les
-conditions prévues au premier alinéa.
+Sous réserve des dispositions législatives ou réglementaires fixant la
+compétence particulière des autres juridictions, la juridiction de proximité
+connaît en matière civile, en dernier ressort, des actions personnelles ou
+mobilières jusqu'à la valeur de 4 000 euros. Elle connaît aussi à charge d'appel
+des demandes indéterminées qui ont pour origine l'exécution d'une obligation
+dont le montant n'excède pas 4 000 euros.
 
 Elle connaît aussi, dans les mêmes conditions, en vue de lui donner force
 exécutoire, de la demande d'homologation du constat d'accord formée par les

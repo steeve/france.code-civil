@@ -1,6 +1,8 @@
 Article L321-2
 ----
-Conformément à l'article L. 323-39 du Code du travail, toutes les contestations
-relatives à l'application de la section III du chapitre III du titre II du livre
-III dudit code concernant l'emploi obligatoire des pères de famille sont de la
-compétence du tribunal d'instance.
+Sous réserve des dispositions législatives ou réglementaires fixant la
+compétence particulière des autres juridictions, le tribunal d'instance connaît,
+en matière civile, à charge d'appel, de toutes actions personnelles ou
+mobilières jusqu'à la valeur de 10 000 euros. Il connaît aussi, à charge
+d'appel, des demandes indéterminées qui ont pour origine l'exécution d'une
+obligation dont le montant n'excède pas 10 000 euros.
