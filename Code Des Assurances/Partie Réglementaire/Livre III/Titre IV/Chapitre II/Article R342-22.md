@@ -1,7 +1,7 @@
 Article R342-22
 ----
-Les renseignements généraux du dossier annuel à produire au ministre de
-l'économie et des finances par les entreprises étrangères agréées en France sont
+Les renseignements généraux du dossier annuel à produire à la commission de
+contrôle des assurances par les entreprises étrangères agréées en France sont
 les suivants :
 
 a) La raison sociale de l'entreprise, la date de sa constitution, l'adresse de
@@ -25,15 +25,19 @@ les opérations effectuées par le siège spécial pour la France :
 f) La liste des branches exploitées, l'année du début de l'exploitation et la
 date des agréments administratifs dans les termes de l'article L. 321-1.
 
+f bis) en ce qui concerne les succursales d'entreprises dont le siège social est
+établi sur le territoire d'un autre Etat membre de la Communauté économique
+européenne, la liste des pays où la succursale exerce en liberté de prestation
+de services et les branches qu'elle y pratique, pour les grands risques la date
+d'accusé de réception des documents par les autorités de contrôle de ces pays
+et, pour les risques de masse, la date de l'agrément délivré par ces mêmes
+autorités, si cet agrément existe ;
+
 g) Un tableau indiquant les ventes et les achats de portefeuilles de contrats
 effectués au cours de l'exercice, les modifications aux branches exploitées sur
 le territoire de la République française.
 
-h) La liste des accords conclus avec d'autres entreprises d'assurance en matière
-de tarifs, de conditions générales des contrats, d'organisation professionnelle,
-de concurrence ou de gestion financière mentionnés à l'article L. 310-5, ainsi
-que la liste des accords administratifs ou commerciaux avec d'autres entreprises
-d'assurance, de réassurance ou de capitalisation.
+h) [*paragraphe abrogé*].
 
 i) Les obligations et les autres emprunts émis au cours de l'exercice, les
 remboursements et les amortissements effectués.

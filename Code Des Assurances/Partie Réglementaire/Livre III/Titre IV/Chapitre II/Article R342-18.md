@@ -22,6 +22,6 @@ l'article R. 342-17 ;
 l'un quelconque, ou plusieurs, ou la totalité des états comptables, financiers
 ou statistiques dits états B institués par l'article R. 342-17. Ces arrêtés ne
 peuvent être pris que pour l'ensemble des entreprises pratiquant une même
-catégorie ou sous-catégorie d'assurance ; ils sont rendus après avis du conseil
-national des assurances et doivent être publiés au Journal officiel avant le 1er
-mars de l'année suivant l'exercice auquel ils s'appliquent.
+catégorie ou sous-catégorie d'assurance ; ils doivent être publiés au Journal
+officiel avant le 1er mars de l'année suivant l'exercice auquel ils
+s'appliquent.

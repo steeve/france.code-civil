@@ -1,90 +1,140 @@
 Article R343-2
 ----
-Comptes financiers.
+Comptes spéciaux.
 
-50 Emprunts à moins d'un an.
+00 Engagements en faveur de l'entreprise.
 
-502 Emprunts pour cautionnements.
+000 Avals, cautions, garanties contractuels reçus.
 
-5020 En France.
+001 Avals, cautions, garanties légaux dont bénéficie l'entreprise. Autres
+engagements reçus par l'entreprise.
 
-5029 En France.
+009 Créditeurs éventuels.
 
-503 Autres emprunts.
+01 Engagements à la charge de l'entreprise.
 
-5030 En France.
+010 Avals, cautions et garanties contractuels donnés par l'entreprise.
 
-5039 A l'étranger.
+0100 Garantie de rachat de créances hypothécaires ou de financement de prêts
+hypothécaires.
 
-509 Avances de l'Etat.
+0101 Garantie d'acquisition d'immeubles d'habitation.
 
-51 Prêts non affectables à la représentation des engagements réglementés.
+01010 Habitations neuves.
 
-513 Prêts non garantis aux entreprises ou aux personnes physiques ;
+01011 Habitations anciennes.
 
-516 Prêts aux Etats ou organismes étrangers non membres de l'organisation de
-coopération et de développement économique ;
+0102 Garantie d'acquisition d'immeubles commerciaux et industriels.
 
-517 Prêts à l'étranger.
+0103 Garantie d'acquisition de titres représentatifs d'immeubles d'habitation.
 
-518 Autres prêts et créances ;
+01030 Habitations neuves.
 
-519 Provision pour dépréciation des prêts.
+01031 Habitations anciennes.
 
-52 Effets à payer.
+0104 Garantie d'acquisition de titres représentatifs d'immeubles commerciaux et
+industriels.
 
-53 Effets à recevoir.
+0105 Filiales.
 
-54 Chèques et coupons à encaisser.
+0106 Garantie de rachat d'obligations.
 
-540 Chèques.
+0107 Divers.
 
-545 Coupons et intérêts échus et non recouvrés.
+011 Avals, cautions et garanties légaux à la charge de l'entreprise.
 
-55 Titres de placement non émunérés aux articles R. 332-2 et R. 332-9.
+012 Engagements contractuels de solidarité.
 
-550 Titres cotés, partie libérée, en France.
+0120 Pour participation à une association ou un groupement de coassurance ou de
+coréassurance.
 
-552 Titres non cotés, partie libérée, en France.
+013 Engagements légaux de solidarité.
 
-553 Parts de SARL en France.
+014 Engagements contractuels résultant de l'inexécution d'un contrat.
 
-554 Titres émis par la société et rachetés par elle ;
+015 Engagements légaux résultant de l'inexécution d'un contrat.
 
-556 Autres titres ;
+016 Autres engagements contractuels.
 
-557 Titres non cotés, partie non libérée, en France.
+017 Autres engagements légaux.
 
-558 Valeurs à l'étranger.
+0170 Droits d'adhésion non remboursés.
 
-559 Provision pour dépréciation des titres de placement.
+019 Débiteurs éventuels.
 
-56 Banques et chèques postaux.
+03 Autres charges envers des tiers.
 
-560 Banque de France.
+035 Filiales.
 
-562 Autres banques en France.
+037 Divers.
 
-564 Comptes du Trésor en France.
+039 Débiteurs éventuels.
 
-565 Chèques postaux en France.
+05 Plan d'investissement intéressant l'entreprise.
 
-566 Comptes dans les caisses des établissements publics en France.
+052 Opérations immobilières.
 
-567 Autres établissements en France.
+057 Divers.
 
-568 Banques à l'étranger.
+059 Montant des investissements projetés.
 
-569 Autres établissements à l'étranger.
+06 Valeurs reçues en nantissement des cessionnaires et rétrocessionnaires.
 
-57 Caisse.
+061 Immobilisations en France.
 
-570 Siège social.
+0611 Parts de sociétés civiles à objet foncier.
 
-571 Succursales (France).
+0613 Parts ou actions de sociétés immobilières non cotées.
 
-578 Succursales (étranger).
+063 Valeurs mobilières et titres assimilés.
 
-59 Virements internes.
+0630 Valeurs d'Etat ;
 
-590 Virements de fonds.
+0631 Autres valeurs cotées (obligations et titres participatifs) ;
+
+0632 Autres valeurs cotées (actions et autres valeurs mobilières) ;
+
+0633 Actions de sociétés d'investissement à capital variable et parts de fonds
+communs de placements ;
+
+06331 Sociétés d'investissement à capital variable et fonds communs de
+placements d'obligations et de titres de créances négociables.
+
+06336 Autres sociétés d'investissement à capital variable et fonds communs de
+placements.
+
+0634 Actions de Sicav et parts de FCP
+
+06341 Sicav et F.C.P d'obligations.
+
+06342 Sicav et F.C.P diversifiés.
+
+0636 Valeurs étrangères cotées en France (obligations).
+
+637 Valeurs étrangères cotées en France (actions).
+
+069 Cessionnaires et rétrocessionnaires propriétaires des valeurs.
+
+07 Valeurs appartenant à des institutions de prévoyance régies par l'article L.
+732-1 du code de la sécurité sociale.
+
+070 Valeurs.
+
+079 Institutions propriétaires de valeurs.
+
+08 Valeurs remises par des organismes réassurés avec caution solidaire ou avec
+substitution.
+
+080 Valeurs.
+
+089 Organismes propriétaires des valeurs.
+
+09 Autres valeurs détenues par l'entreprise.
+
+090 Valeurs déposées par les administrateurs.
+
+092 Valeurs déposées par les agents.
+
+094 Valeurs déposées par d'autres tiers.
+
+099 Propriétaires des valeurs.

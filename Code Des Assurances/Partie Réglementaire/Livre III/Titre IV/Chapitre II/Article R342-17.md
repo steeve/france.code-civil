@@ -26,6 +26,8 @@ cautionnements et montant de ces engagements et cautionnements.
 
 A 5 Liste détaillée des placements.
 
+B 5, état justificatif de la quote-part mentionnée à l'article R. 344-1.
+
 B 6 Sinistres, paiements et provisions à la charge des cessionnaires.
 
 B 7 Avoirs et engagements par monnaie au 31 décembre.
