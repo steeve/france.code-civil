@@ -1,11 +1,18 @@
 Article R331-65
 ----
-Les banques ou établissements [*prêteurs*] qui ont passé avec l'Etat ou avec le
-Crédit Foncier de France agissant pour le compte de l'Etat, une convention
-conforme à une convention type, approuvée par arrêté du ministre chargé des
-finances et reproduite en annexe au présent code, sont habilités à consentir des
-prêts conventionnés.
+Les établissements de crédit qui ont passé avec l'Etat ou avec la Société de
+gestion du fonds de garantie de l'accession sociale à la propriété (SGFGAS)
+agissant pour le compte de l'Etat une convention conforme à une convention type,
+approuvée par arrêté du ministre chargé de l'économie et reproduite en annexe du
+présent code, sont habilités à consentir des prêts conventionnés.
 
 La Caisse nationale d'épargne est également habilitée à consentir des prêts
 conventionnés dans des conditions conformes à celles fixées par la convention
 type mentionnée à l'alinéa précédent.
+
+La SGFGAS est substituée dans les droits et obligations du Crédit foncier de
+France au titre des conventions conclues antérieurement à la date de publication
+du décret n° 2000-711 du 27 juillet 2000 relatif aux prêts conventionnés et
+modifiant l'article R. 331-65 du code de la construction et de l'habitation avec
+les établissements de crédit consentant des prêts conventionnés, y compris sur
+les prêts accordés antérieurement.

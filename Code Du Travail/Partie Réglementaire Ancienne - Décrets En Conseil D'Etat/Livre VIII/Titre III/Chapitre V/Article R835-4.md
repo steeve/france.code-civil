@@ -17,9 +17,8 @@ contrats d'insertion par l'activité prévu au 1° du présent article, l'envelo
 financière prévisionnelle allouée à chaque agence d'insertion et correspondant à
 la participation financière de l'Etat à ces contrats ;
 
-4° Après avoir recueilli les propositions des agences d'insertion, la
-répartition de la participation financière de l'Etat visée à l'article 2 du
-décret du 20 janvier 1989 modifié portant application aux départements
+4° La répartition de la participation financière de l'Etat visée à l'article 2
+du décret du 20 janvier 1989 modifié portant application aux départements
 d'outre-mer de la loi n° 88-1088 du 1er décembre 1988 modifiée relative au
 revenu minimum d'insertion entre la part affectée au logement et la part
 affectée aux autres actions d'insertion ; il répartit cette dernière entre les
