@@ -4,7 +4,7 @@ Pour l'appréciation de la condition d'effectif prévue à l'article 235 ter D :
 
 a) Jusqu'au terme prévu par le contrat ou, à défaut, jusqu'à l'expiration d'une
 période de deux ans à compter de sa conclusion, les titulaires des contrats de
-travail définis aux articles L. 981-1, L. 981-6 et L. 981-7 du code du travail
+travail définis aux articles L. 981-1, L. 981-6 et L. 981-7 du code du travail,
 ne sont pas pris en compte ;
 
 b) Les salariés à temps partiel sont pris en compte dans les conditions fixées
@@ -25,12 +25,12 @@ contrats d'accès à l'emploi prévus à l'article L. 832-2 du code du travail, 
 les départements d'outre-mer et la collectivité territoriale de
 Saint-Pierre-et-Miquelon.
 
-e) Les titulaires des contrats emploi-solidarité définis aux articles L.322-4-7
+e) Les titulaires des contrats emploi-solidarité définis aux articles L. 322-4-7
 et suivants du code du travail et des emplois visé visés à l'article L.
 322-4-8-1 du même code ainsi que les titulaires dans les départements
-d'outre-mer des contrats d'insertion par l'activité prévus à l'article 42-8 de
-la loi n° 88-1088 du 1er décembre 1988 modifiée, ne sont pas pris en compte
-pendant toute la durée des contrats ;
+d'outre-mer des contrats d'insertion par l'activité prévus à l'article L. 522-8
+du code de l'action sociale et des familles, ne sont pas pris en compte pendant
+toute la durée des contrats ;
 
 f) Les apprentis avec lesquels un contrat régulier d'apprentissage a été conclu
 dans les conditions prévues aux articles L. 117-1 à L. 117-18 du code du travail

@@ -1,9 +1,11 @@
 Article 1066
 ----
-I. Les actes faits et les décisions rendues en vertu des titres III et IV du
-code de la famille et de l'aide sociale et exclusivement relatifs au service de
-l'aide sociale sont exonérés du droit de timbre et, sous réserve des
-dispositions de l'article 1020, des droits d'enregistrement.
+I. Sous réserve des dispositions de l'article 1020 et conformément au deuxième
+alinéa de l'article L. 132-11 du code de l'action sociale et des familles, les
+actes faits et les décisions rendues dans le cadre de l'attribution des
+prestations d'aide sociale mentionnées à l'article L. 111-1 du même code sont
+dispensés du droit de timbre et enregistrés gratis lorsqu'il y a lieu à la
+formalité de l'enregistrement.
 
 II. Les dispositions du I sont applicables aux acquisitions immobilières
 réalisées par les établissements ou organismes figurant sur une liste dressée
