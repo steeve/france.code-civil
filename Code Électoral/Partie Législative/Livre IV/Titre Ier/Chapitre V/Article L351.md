@@ -1,10 +1,10 @@
 Article L351
 ----
-Pour les déclarations de candidature avant le premier tour, le candidat placé en
+Pour les déclarations de candidature avant le premier tour, le candidat désigné
 tête de liste, ou son mandataire, dispose d'un délai de quarante-huit heures
 pour contester le refus d'enregistrement devant le tribunal administratif dans
 le ressort duquel se trouve le chef-lieu de la région, qui statue dans les trois
-jours. ;
+jours.
 
 Lorsque le refus d'enregistrement est motivé par l'inobservation des
 dispositions des articles L. 339, L. 340, L. 341-1 ou L. 348, la liste dispose
@@ -15,7 +15,7 @@ Dans le cas prévu à l'alinéa précédent, la candidature est enregistrée si 
 tribunal administratif, saisi par le candidat tête de liste ou son mandataire,
 n'a pas statué dans le délai prévu au premier alinéa.
 
-Pour les déclarations de candidature avant le second tour, le candidat placé en
+Pour les déclarations de candidature avant le second tour, le candidat désigné
 tête de liste, ou son mandataire, dispose d'un délai de vingt-quatre heures pour
 contester le refus d'enregistrement devant le tribunal administratif dans le
 ressort duquel se trouve le chef-lieu de la région, qui statue dans les

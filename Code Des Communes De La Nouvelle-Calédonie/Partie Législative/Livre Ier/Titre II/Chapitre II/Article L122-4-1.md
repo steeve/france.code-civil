@@ -1,9 +1,8 @@
 Article L122-4-1
 ----
-Les fonctions de maire sont incompatibles avec l'exercice d'un mandat de
-représentant au Parlement européen ou d'une des fonctions électives suivantes :
-président du gouvernement de la Polynésie française, président d'un conseil
-régional, président d'un conseil général.
+Les fonctions de maire sont incompatibles avec l'exercice d'une des fonctions
+électives suivantes : président du gouvernement de la Polynésie française,
+président d'un conseil régional, président d'un conseil général.
 
 Les fonctions de maire sont également incompatibles avec celles de membre de la
 Commission européenne, membre du directoire de la Banque centrale européenne ou

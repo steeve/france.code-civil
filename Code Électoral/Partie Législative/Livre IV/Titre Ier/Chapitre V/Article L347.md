@@ -9,7 +9,9 @@ expressément :
 
 1° Le titre de la liste présentée ;
 
-2° Les nom, prénoms, sexe, date et lieu de naissance, domicile et profession de
+2° Les nom et prénoms du candidat tête de liste ;
+
+3° Les nom, prénoms, sexe, date et lieu de naissance, domicile et profession de
 chacun des candidats.
 
 Pour chaque tour de scrutin, la déclaration comporte la signature de chaque
