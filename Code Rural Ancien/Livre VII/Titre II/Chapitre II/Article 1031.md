@@ -9,7 +9,12 @@ mentionnés à l'article 6 de la loi n° 82-1 du 4 janvier 1982, ainsi que sur l
 avantages de retraite financés en tout ou partie par une contribution de
 l'employeur ou ayant donné lieu à rachat de cotisations, à l'exclusion des
 bonifications ou majorations pour enfants autres que les annuités
-supplémentaires.
+supplémentaires. Elles sont également constituées par une fraction du produit
+des contributions sociales mentionnées aux articles L. 136-1, L. 136-6, L.
+136-7, L. 136-7-1 du code de la sécurité sociale, et par une fraction du produit
+des droits visé à l'article L. 139-1 du même code, à concurrence du montant
+correspondant à l'application des dispositions de l'article L. 139-2 du même
+code.
 
 Un plafond est appliqué aux rémunérations ou gains servant de base au calcul des
 cotisations dues par l'employeur et par le salarié au titre de l'assurance
@@ -53,11 +58,11 @@ ou en cas d'appel sous les drapeaux.
 Des cotisations forfaitaires peuvent être fixées par arrêté interministériel
 pour certaines catégories de travailleurs salariés ou assimilés.
 
-La partie de la rémunération des personnes mentionnées au 1 de l'article L. 128
-du code du travail correspondant à une durée d'activité inférieure ou égale à la
-limite fixée par le décret prévu à l'article L. 241-11 du code de la sécurité
-sociale ne donne pas lieu à cotisations d'assurances sociales agricoles à la
-charge de l'employeur.
+La partie de la rémunération des personnes mentionnées au 1 de l'article L.
+322-4-16-3 du code du travail correspondant à une durée d'activité inférieure ou
+égale à la limite fixée par le décret prévu à l'article L. 241-11 du code de la
+sécurité sociale ne donne pas lieu à cotisations d'assurances sociales agricoles
+à la charge de l'employeur.
 
 Lorsqu'ils embauchent des travailleurs occasionnels ou des demandeurs d'emploi
 inscrits à ce titre à l'agence nationale pour l'emploi pendant une durée

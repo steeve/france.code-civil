@@ -1,8 +1,13 @@
 Article A614-1
 ----
-Les services extérieurs du ministère chargé de l'urbanisme sont autorisés à
-faire appel à des architectes qui prendront le titre d'architectes-conseils de
-l'équipement.
+Dans la limite des crédits ouverts à cet effet, le ministère de l'équipement,
+des transports et du logement peut faire appel à des architectes et à des
+paysagistes qui lui apportent leur concours de façon continue ou intermittente
+sans renoncer à leur emploi principal. Ils prendront respectivement le titre
+d'architectes-conseils et de paysagistes-conseils de l'équipement.
 
-Ces architectes assurent les missions qui leur sont confiées par le ministre
-chargé de l'urbanisme ou ses délégués.
+Dans le département de leur affectation, ils ne peuvent intervenir à titre privé
+dans aucune opération, sauf dérogation expresse accordée par le ministre.
+
+Ces architectes et ces paysagistes assurent les missions qui leur sont confiées
+par le ministre ou ses délégués.

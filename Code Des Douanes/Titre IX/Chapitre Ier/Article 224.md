@@ -1,10 +1,13 @@
 Article 224
 ----
-1. Le droit de francisation et de navigation est perçu au profit de l'Etat, ou,
+1. Le droit de francisation et de navigation est perçu au profit de l'Etat ou,
 lorsqu'il est perçu au titre des navires de plaisance visés au dernier alinéa de
-l'article 223, au profit de la collectivité territoriale de Corse un prélèvement
-pour frais d'assiette et de recouvrement égal à 2,5 % du montant dudit produit.
-Ce prélèvement est affecté au budget général.
+l'article 223, au profit de la collectivité territoriale de Corse.
+
+L'Etat perçoit sur le produit du droit de francisation et de navigation perçu au
+profit de la collectivité territoriale de Corse un prélèvement pour frais
+d'assiette et de recouvrement égal à 2,5 % du montant dudit produit. Ce
+prélèvement est affecté au budget général.
 
 Il est recouvré par année civile.
 
@@ -25,11 +28,11 @@ par le ministère de la jeunesse et des sports.
 l'article 223 ci-dessus font l'objet, pour les navires de plaisance ou de sport,
 d'un abattement pour vétusté égal à :
 
-- 25 % pour les bateaux de 10 à 20 ans ;
+- 25 % pour les bateaux de 10 à 20 ans,
 
-- 50 % pour les bateaux de 20 à 25 ans ;
+- 50 % pour les bateaux de 20 à 25 ans,
 
 - 75 % pour le bateaux de plus de 25 ans.
 
 5. Le droit de francisation et de navigation n'est pas perçu lorsque son
-montant, calculé par navire, est inférieur à 50 F.
+montant, calculé par navire, est inférieur à 500 F.

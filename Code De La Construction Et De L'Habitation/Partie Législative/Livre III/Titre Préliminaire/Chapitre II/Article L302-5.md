@@ -1,9 +1,10 @@
 Article L302-5
 ----
 Les dispositions de la présente section s'appliquent aux communes dont la
-population est au moins égale à 3 500 habitants, qui sont comprises, au sens du
-recensement général de la population, dans une agglomération de plus de 200 000
-habitants et dans lesquelles à la fois:
+population est au moins égale à 1 500 habitants en Ile-de-France et à 3 500
+habitants dans les autres régions, qui sont comprises, au sens du recensement
+général de la population, dans une agglomération de plus de 200 000 habitants et
+dans lesquelles à la fois:
 
 - le nombre de logements locatifs sociaux mentionnés à l'article L. 2334-17 du
 code général des collectivités territoriales, majoré comme il est dit à

@@ -1,4 +1,5 @@
 Article A614-3
 ----
-Les dépenses correspondant à la rémunération des architectes conseils de
-l'équipement sont imputées sur les crédits du ministère chargé de l'urbanisme.
+Les dépenses correspondantes à la rémunération et au remboursement des frais de
+déplacement des architectes-conseils et des paysagistes-conseils sont imputées
+sur les crédits du ministère de l'équipement, des transports et du logement.
