@@ -1,5 +1,5 @@
 Article R*151-2
 ----
-Les dispositions de l'article L. 256 du code électoral [*champ d'application*]
-sont applicables pour l'élection des commissions syndicales dans les communes de
-2 500 habitants et plus.
+Pour l'application de l'article L. 28 du code électoral, la liste des électeurs
+de la section est tenue en mairie et en préfecture à la disposition des
+personnes intéressées.
