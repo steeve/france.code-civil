@@ -16,6 +16,18 @@ accord avec le chef d'exploitation ou d'entreprise agricole et, le cas échéant
 la société d'exploitation dans des conditions prévues par décret en Conseil
 d'Etat.
 
+L'option prend effet à compter du 1er janvier de l'année en cours si l'intéressé
+remplissait à cette date les conditions prévues aux deux premiers alinéas du
+présent article et si elle est formulée avant le 1er juillet. Dans le cas
+contraire, elle prend effet au 1er janvier suivant.
+
+Par dérogation, l'option formulée avant le 1er juillet 2000 prend effet au 1er
+janvier 1999 si le conjoint remplissait, à cette dernière date, les conditions
+fixées à l'article 1122-1. Pour les personnes bénéficiant du statut de conjoint
+collaborateur d'exploitation ou d'entreprise agricole à compter du 1er janvier
+1999, la cotisation prévue au b de l'article 1123 due pour l'année 2000 est
+majorée au titre de l'année 1999 dans des conditions fixées par décret.
+
 Le collaborateur bénéficie du droit à l'assurance vieillesse des personnes non
 salariées des professions agricoles dans les conditions prévues aux chapitres IV
 et IV-1 du titre II du livre VII lorsque son conjoint relève du régime agricole,
