@@ -6,9 +6,9 @@ le modèle est fixé par arrêté du ministre chargé de la sécurité sociale e
 doit comporter notamment la signature du médecin traitant et, après sa
 prescription, la cause et la durée probable de l'incapacité de travail.
 
-L'avis d'arrêt de travail doit être adressé par l'assuré au service médical dans
-le délai de deux jours suivant la date de la constatation médicale de
-l'incapacité de travail.
+L'avis d'arrêt de travail doit, sauf en cas d'hospitalisation, être adressé par
+l'assuré au service médical dans le délai de deux jours suivant la date de la
+constatation médicale de l'incapacité de travail.
 
 Dans le cas où l'assuré reprend son travail avant la fin de la durée d'arrêt de
 travail prescrite par son médecin traitant, il doit adresser au service médical

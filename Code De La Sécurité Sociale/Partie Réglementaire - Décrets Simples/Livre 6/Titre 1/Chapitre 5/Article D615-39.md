@@ -1,8 +1,7 @@
-Article D615-19
+Article D615-39
 ----
-Pour l'application du premier alinéa de l'article D. 615-17, les conditions
-d'ouverture du droit aux prestations sont appréciées au jour de la constatation
-médicale de l'incapacité de travail.
+Les conditions d'ouverture du droit aux prestations sont appréciées au jour de
+la constatation médicale de l'incapacité de travail.
 
 L'indemnité journalière est attribuée à l'expiration d'un délai de carence de
 trois jours en cas d'hospitalisation et de sept jours en cas d'accident ou de
