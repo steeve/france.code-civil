@@ -29,3 +29,10 @@ partie sur le territoire d'un parc national ou d'un parc naturel régional gér�
 par un établissement public administratif, le produit de la taxe peut être
 reversé par les groupements de communes à l'organisme gestionnaire du parc dans
 le cadre d'une convention.
+
+Les syndicats mixtes qui ne comprennent que des collectivités territoriales ou
+leurs groupements à fiscalité propre peuvent également instituer, dans les
+conditions prévues aux alinéas précédents, la taxe de séjour ou la taxe de
+séjour forfaitaire lorsqu'ils réalisent des actions de promotion en faveur du
+tourisme ou, dans la limite de leurs compétences, des actions de protection et
+de gestion de leurs espaces naturels.

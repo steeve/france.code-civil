@@ -17,8 +17,7 @@ sont conformes aux clauses types annexées au décret n° 69-295 du 24 mars 1969
 5°) les sociétés mentionnées à l'article 4 de la loi n° 69-717 du 8 juillet 1969
 relative à certaines dispositions concernant les sociétés ;
 
-6°) les sociétés régies par la loi n° 47-1775 du 10 septembre 1947 à l'exclusion
-des sociétés coopératives de consommation régies par la loi du 7 mai 1917 ;
+6°) ...
 
 7°) les sociétés d'investissements régies par les titres Ier à III de
 l'ordonnance n° 45-2710 du 2 novembre 1945 et la loi n° 79-12 du 3 janvier 1979
@@ -26,3 +25,11 @@ l'ordonnance n° 45-2710 du 2 novembre 1945 et la loi n° 79-12 du 3 janvier 197
 
 8°) les sociétés d'aménagement foncier et d'établissement rural régies par
 l'article 15 de la loi n° 60-808 du 5 août 1960 dite loi d'orientation agricole.
+
+9°) ...
+
+10° Les sociétés en nom collectif et les groupements d'intérêt économique
+constitués exclusivement entre des sociétés exonérées par application des
+dispositions prévues aux 1° à 8°, pour la réalisation d'opérations que ces
+sociétés peuvent mettre en oeuvre directement avec le bénéfice de cette
+exonération.
