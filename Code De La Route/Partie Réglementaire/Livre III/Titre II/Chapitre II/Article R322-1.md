@@ -4,7 +4,7 @@ Tout propriétaire d'un véhicule à moteur, d'une remorque dont le poids total
 autorisé en charge est supérieur à 500 kilogrammes ou d'une semi-remorque, qui
 souhaite le mettre en circulation pour la première fois, doit adresser au préfet
 du département de son domicile une demande de certificat d'immatriculation en
-justifiant de son identité et en déclarant son domicile.
+justifiant de son identité et de son domicile.
 
 Toutefois, lorsque le propriétaire est une personne morale ou une entreprise
 individuelle, la demande de certificat d'immatriculation doit être adressée au
