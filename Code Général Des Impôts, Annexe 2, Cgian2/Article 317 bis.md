@@ -20,14 +20,12 @@ d'utilité publique;
 Des établissements congréganistes légalement reconnus ou autorisés;
 
 Des associations déclarées qui ont pour but exclusif l'assistance ou la
-bienfaisance au sens de l'article 35 de la loi du 14 janvier 1933 relative à la
-surveillance des établissements de bienfaisance privés ou dont l'objet et la
-gestion présentent un caractère désintéressé au sens de l'article 1er du décret
-n° 67-731 du 30 août 1967. Le bénéfice de cette disposition est subordonné à la
-condition que l'association constructrice s'engage, pour elle et ses ayants
-cause, à donner à la construction une affectation conforme à ce qui est dit
-ci-dessus pendant une durée minimale de cinq ans à compter de l'achèvement de
-cette construction;
+bienfaisance ou dont l'objet et la gestion présentent un caractère désintéressé
+au sens de l'article 1er du décret n° 67-731 du 30 août 1967. Le bénéfice de
+cette disposition est subordonné à la condition que l'association constructrice
+s'engage, pour elle et ses ayants cause, à donner à la construction une
+affectation conforme à ce qui est dit ci-dessus pendant une durée minimale de
+cinq ans à compter de l'achèvement de cette construction;
 
 Des caisses primaires et régionales d'assurance maladie et d'assurance
 vieillesse, des caisses générales de sécurité sociale des départements d'outre

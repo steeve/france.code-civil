@@ -58,4 +58,4 @@ inscrites au compte de provision spéciale sont rapportées au résultat de
 l'exercice au cours duquel il apparaît que le bien ne peut plus être transféré.
 
 Dans ce cas, il est fait application de l'intérêt de retard prévu à l'article
-1727, à compter de la date à laquelle les sommes ont été déduites.
+1734, à compter de la date à laquelle les sommes ont été déduites.
