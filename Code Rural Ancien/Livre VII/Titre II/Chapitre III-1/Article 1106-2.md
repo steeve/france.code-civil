@@ -31,7 +31,13 @@ présent régime ;
 
 f) Des accidents survenus aux personnes visées au 1°, 2° et 5° du paragraphe I
 de l'article 1106-1 dans l'exercice d'une activité secondaire non salariée
-non-agricole.
+non-agricole ;
+
+g) Des accidents survenus aux personnes qui bénéficient du maintien de leurs
+droits aux prestations en nature du présent régime en vertu des articles L.
+161-8, L. 161-9, L. 161-10, L. 161-11, L. 161-12, L. 161-13, L. 161-15 du code
+de la sécurité sociale, L. 962-1 du code du travail, ou du troisième alinéa de
+l'article 1106-1.
 
 3° De l'invalidité.
 

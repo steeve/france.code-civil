@@ -32,13 +32,3 @@ agricole à responsabilité limitée constituée conformément à la loi n° 85-
 11 juillet 1985 relative à l'entreprise unipersonnelle à responsabilité limitée
 et à l'exploitation agricole à responsabilité limitée est répartie entre les
 associés exploitants dans les conditions prévues à l'article 1065.
-
-Les cotisations dues pour les assujettis prévus au 6° du I de l'article 1106-1
-pour la couverture des risques assurés et des dépenses complémentaires y
-afférentes sont intégralement à la charge des assureurs débiteurs des pensions
-d'invalidité mentionnées au B de l'article 1234-3. Les modalités de
-détermination de ces cotisations sont fixées par décret en Conseil d'Etat.
-
-Les opérations financières relatives au présent chapitre sont retracées, en
-recettes et en dépenses, dans le budget annexe des prestations sociales
-agricoles.

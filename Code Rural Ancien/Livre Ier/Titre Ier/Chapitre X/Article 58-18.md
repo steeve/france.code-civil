@@ -14,3 +14,7 @@ L'Etat peut confier la réalisation des opérations d'aménagement et de remise 
 état des terres expropriées aux sociétés d'aménagement foncier et
 d'établissement rural et aux sociétés prévues à l'article 2 de la loi n° 46-860
 du 30 avril 1946 dans des conditions définies par décret en Conseil d'Etat.
+
+A cet effet, les sociétés d'aménagement foncier et d'établissement rural peuvent
+devenir cessionnaires en propriété des terres expropriées dans des conditions
+définies par décret en Conseil d'Etat.

@@ -6,7 +6,13 @@ et 5° du I de l'article 1106-1 pour assurer leur remplacement dans les travaux
 de l'exploitation agricole lorsque, prenant part de manière constante à ces
 travaux, elles sont empêchées de les accomplir en raison de la maternité ou de
 l'arrivée à leur foyer d'un enfant confié en vue de son adoption par un service
-d'aide sociale à l'enfance ou par une oeuvre d'adoption autorisée.
+d'aide sociale à l'enfance ou par une oeuvre d'adoption autorisée. Le bénéfice
+de l'allocation de remplacement ci-dessus prévue est également accordé aux non
+salariées agricoles visées à l'article 1106-1 (1°, 2° et 5°) qui perçoivent
+leurs prestations du régime de leur activité salariée, au prorata de leur
+activité à temps partiel sur l'exploitation lorsqu'elles répondent à des
+conditions de durée maximale d'activité salariée précisées par le décret en
+Conseil d'Etat prévu ci-après.
 
 Un décret en Conseil d'Etat détermine les mesures d'application de l'alinéa
 précédent et, en particulier, la ou les périodes de remplacement ouvrant droit

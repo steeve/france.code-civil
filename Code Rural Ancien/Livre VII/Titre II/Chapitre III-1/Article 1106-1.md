@@ -9,6 +9,15 @@ sur le territoire métropolitain et qu'elle ait au moins l'importance définie a
 I de l'article 1003-7-1, sous réserve des dérogations visées aux II et III du
 même article ;
 
+Sont assimilées aux chefs d'exploitation mentionnés à l'alinéa précédent pour le
+bénéfice des prestations en nature de l'assurance maladie et maternité, les
+personnes ayant cessé leur activité non salariée agricole à la suite des
+procédures prévues au chapitre II de la loi n° 88-1202 du 30 décembre 1988
+précitée et qui répondent à des conditions d'âge et de durée d'activité
+professionnelle fixées par décret. Le maintien de ces droits leur est assuré
+jusqu'à l'âge auquel elles peuvent prétendre à bénéficier de la pension de
+retraite prévue à l'article 1110 ;
+
 2° aux aides familiaux non salariés et associés d'exploitation définis par la
 loi n° 73-650 du 13 juillet 1973 des chefs d'exploitation ou d'entreprise
 ci-dessus visés.
@@ -43,7 +52,7 @@ chronique, dans l'impossibilité permanente de se livrer à une activité
 rémunératrice ;
 
 Ceux de moins de vingt ans qui bénéficient de l'article L. 528 du code de la
-sécurité sociale.
+sécurité sociale ;
 
 5° aux membres non salariés de toute société, quelles qu'en soient la forme et
 la dénomination, lorsque ces membres consacrent leur activité, pour le compte de

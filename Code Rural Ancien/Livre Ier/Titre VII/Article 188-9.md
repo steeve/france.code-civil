@@ -1,15 +1,19 @@
 Article 188-9
 ----
-I. - a) Toute personne qui aura omis de souscrire la demande d'autorisation
-d'exploiter prévue à l'article 188-2 sera punie d'une amende de 1.000 F à
-100.000 F.
+I. - a) Sera punie d'une amende de 1 000 à 15 000 F toute personne qui aura omis
+de souscrire une demande d'autorisation d'exploiter ou de présenter une
+déclaration préalable conformément à l'article 188-2.
 
-b) Toute personne qui aura sciemment fourni à l'autorité compétente des
-renseignements inexacts à l'appui d'une demande d'autorisation d'exploiter sera
-punie d'une amende de 2.000 F à 100.000 F.
+b) Sera punie d'une amende de 2 000 F à 100 000 F toute personne qui, sciemment,
+aura fourni à l'autorité compétente des renseignements inexacts à l'appui d'une
+demande d'autorisation d'exploiter ou d'une déclaration préalable ou qui aura
+présenté une déclaration préalable alors que l'opération projetée ressortissait
+au régime de l'autorisation d'exploiter.
 
-II. - Celui qui exploitera en dépit d'un refus d'autorisation d'exploiter devenu
-définitif sera puni d'une amende de 2.000 F à 100.000 F.
+II. - Sera punie d'une amende de 2 000 F à 100 000 F toute personne qui
+exploitera en dépit d'un refus d'autorisation d'exploiter devenu définitif ou
+qui n'aura pas présenté de déclaration préalable à la suite de la mise en
+demeure prévue à l'article 188-7.
 
 III. - Le tribunal correctionnel peut impartir à toute personne en infraction
 avec les dispositions du présent titre un délai pour mettre fin à l'opération

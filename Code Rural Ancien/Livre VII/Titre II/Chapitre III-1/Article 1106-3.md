@@ -48,7 +48,13 @@ besoin, par décret en Conseil d'Etat ;
 
 3° a) Pour les personnes visées au a de l'avant-dernier paragraphe de l'article
 1106-1 le droit aux prestations est ouvert dans le régime dont relève leur
-activité principale ;
+activité principale; toutefois, si l'activité salariée exercée simultanément
+avec leur activité principale non salariée agricole répond aux conditions de
+durée du travail ou de versement de cotisations prévues à l'article L. 313-1 du
+code de la sécurité sociale pour l'ouverture du droit aux prestations en espèces
+des assurances maladie et maternité, les intéressés perçoivent lesdites
+prestations qui leur sont servies par le régime d'assurance maladie dont ils
+relèvent au titre de leur activité salariée ;
 
 b) Pour les personnes visées à l'article 1106-1 (3°) ou titulaires d'une pension
 d'invalidité en application de l'article 1106-3 (2°) qui ont exercé
@@ -65,17 +71,17 @@ la pension d'invalidité ou à l'avantage de vieillesse substitué.
 Cependant il n'est pas apporté de modification à la situation des personnes qui,
 à la date prévue par le premier alinéa de l'article 36 de la loi du 12 juillet
 1966, bénéficient d'un avantage ouvrant droit aux prestations en nature soit des
-assurances sociales en vertu des articles L. 317, L. 352, L. 353 ou L. 642 bis
-du code de la sécurité sociale, de la réglementation applicable aux régimes
-spéciaux visés à l'article L. 3 du code de la sécurité sociale ou de la
-législation relative au régime agricole des assurances sociales des salariés,
-soit du régime d'assurances maladie, invalidité et maternité des exploitants
-agricoles, en application du chapitre III-1 du titre II du livre VII du code
-rural. Néanmoins, lorsque les intéressés sont titulaires d'une pension
-d'invalidité au titre du seul régime d'assurance maladie, invalidité et
-maternité des exploitants agricoles ou d'un avantage de vieillesse substitué,
-les prestations en nature leur sont servies par ledit régime au titre de la
-pension d'invalidité ou de l'avantage de vieillesse substitué ;
+assurances sociales en vertu des articles L. 313-4, L. 311-9 et R. 312-1, L.
+311-10 ou L. 381-26 du code de la sécurité sociale, de la réglementation
+applicable aux régimes spéciaux visés à l'article L. 711-1 du code de la
+sécurité sociale ou de la législation relative au régime agricole des assurances
+sociales des salariés, soit du régime d'assurances maladie, invalidité et
+maternité des exploitants agricoles, en application du chapitre III-1 du titre
+II du livre VII du code rural. Néanmoins, lorsque les intéressés sont titulaires
+d'une pension d'invalidité au titre du seul régime d'assurance maladie,
+invalidité et maternité des exploitants agricoles ou d'un avantage de vieillesse
+substitué, les prestations en nature leur sont servies par ledit régime au titre
+de la pension d'invalidité ou de l'avantage de vieillesse substitué ;
 
 c) Pour les personnes visées au b de l'avant-dernier paragraphe de l'article
 1106-1, le droit aux prestations est ouvert dans le régime de leur choix.

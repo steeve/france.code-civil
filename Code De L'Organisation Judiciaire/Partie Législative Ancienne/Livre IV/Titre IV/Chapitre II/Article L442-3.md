@@ -1,36 +1,34 @@
 Article L442-3
 ----
-Les bailleurs et preneurs doivent, pour pouvoir être inscrits sur les listes
-électorales, réunir les conditions suivantes:
+Dans le mois qui suit la publication des listes, les électeurs figurant sur ces
+listes sont convoqués, [*délai*] huit jours au moins à l'avance, à la mairie par
+voie d'affiches, en vue de procéder à l'élection, dans chaque ressort, au
+scrutin [*mode*] secret et à la majorité relative, des deux membres titulaires
+et de deux suppléants de chaque catégorie et, s'il y a lieu, de chaque section
+devant composer le tribunal paritaire.
 
-Etre de nationalité française ou ressortissant d'un Etat membre de la Communauté
-économique européenne ;
+Chacun des bailleurs et preneurs ne peut exercer son droit de vote que dans une
+seule commune.
 
-Avoir vingt et un ans au moins ;
+Les convocations sont faites à la diligence du préfet. Le préfet peut fixer les
+heures d'ouverture et de clôture du scrutin.
 
-Jouir de leurs droits civils, civiques et professionnels ;
+Avant l'ouverture du scrutin, il est procédé à la désignation d'un bureau
+composé [*composition*] du maire ou d'un adjoint, président, et de deux membres.
+Ce bureau procède aux opérations de dépouillement dans les mêmes conditions que
+pour les élections municipales et sous la responsabilité du maire ou de son
+adjoint.
 
-Etre domiciliés dans le ressort du tribunal paritaire ou y résider.
+Les résultats, ainsi que les feuilles de dépouillement, les bulletins de vote et
+les enveloppes sont transmis sur-le-champ au chef-lieu du département où il est
+procédé à la vérification des opérations électorales par une commission présidée
+par le préfet ou son représentant assisté d'un magistrat désigné par le premier
+président de la cour d'appel et de cinq membres désignés par les organisations
+syndicales agricoles proportionnellement à leur importance.
 
-Les personnes morales possédant la qualité de bailleur ou de preneur de baux à
-ferme ou à colonat partiaire et ayant leur siège social dans le ressort du
-tribunal paritaire sont électeurs par un représentant qu'elles désignent. Ce
-représentant doit remplir les conditions énumérées à l'alinéa premier. Il est
-éligible si la personne morale qu'il représente possède depuis cinq ans la
-qualité de bailleur ou de preneur, s'il est âgé de plus de vingt-six ans et s'il
-a fait la déclaration de candidature prévue aux alinéas qui suivent. Pour les
-groupements agricoles d'exploitation en commun, il n'est pas dérogé à l'article
-7 de la loi n° 62-917 du 8 août 1962.
+La composition des tribunaux paritaires est affichée au greffe du tribunal
+[*délai*] cinq jours francs au moins avant la première audience de la session.
 
-Sont éligibles [*conditions*] les électeurs de nationalité française âgés de
-vingt-six ans au moins possédant depuis cinq ans la qualité de bailleur ou de
-preneur de baux à ferme ou à colonat partiaire et ayant fait une déclaration de
-candidature.
-
-Cette déclaration comporte [*mentions obligatoires*] les nom, prénoms et date de
-naissance, domicile et profession du candidat. Elle est adressée, revêtue de la
-signature du candidat, au préfet dans un délai de huit jours à compter de la
-publication des listes électorales. Un récépissé est délivré au déclarant.
-
-Les noms des candidats sont affichés dans chaque mairie huit jours au moins
-[*délai*] avant la date du scrutin.
+Les contestations relatives à l'application du présent article sont de la
+compétence du tribunal administratif. Elles sont instruites et jugées comme en
+matière d'élections municipales.

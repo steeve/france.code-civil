@@ -1,12 +1,9 @@
 Article L442-5
 ----
-Les membres assesseurs des tribunaux paritaires sont élus pour cinq ans [*mandat
-- durée*].
+Lorsqu'un tribunal paritaire ne peut être constitué ou ne peut fonctionner, il
+est supprimé par décret pris sur le rapport du garde des sceaux, ministre de la
+justice.
 
-Avant d'entrer en fonction, ils prêtent individuellement, devant le juge
-d'instance, le serment de remplir leurs fonctions avec zèle et intégrité et de
-garder le secret des délibération.
-
-Si le nombre total des assesseurs, titulaires et suppléants d'une même catégorie
-d'une section se trouve réduit à deux, le préfet organise une élection partielle
-complémentaire dans le délai de deux mois.
+Le décret portant publication de la partie réglementaire du code de
+l'organisation judiciaire est le décret n° 2008-522 du 2 juin 2008 publié au
+Journal officiel du 4 juin 2008.
