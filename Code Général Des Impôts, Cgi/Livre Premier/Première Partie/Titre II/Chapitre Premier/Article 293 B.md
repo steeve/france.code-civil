@@ -3,16 +3,17 @@ Article 293 B
 I. Pour leurs livraisons de biens et leurs prestations de services, les
 assujettis bénéficient d'une franchise qui les dispense du paiement de la taxe
 sur la valeur ajoutée lorsqu'ils ont réalisé au cours de l'année civile
-précédente un chiffre d'affaires d'un montant n'excédant pas 70 000 F.
+précédente un chiffre d'affaires d'un montant n'excédant pas ((100 000 F)) (M)
+(1).
 
 Les assujettis peuvent se placer sous ce régime de franchise dès le début de
 leur activité soumise à la taxe sur la valeur ajoutée.
 
 II. Les dispositions du I cessent de s'appliquer aux assujettis dont le chiffre
-d'affaires de l'année en cours dépasse le montant de 100 000 F. Ils deviennent
-redevables de la taxe sur la valeur ajoutée pour les prestations de services et
-pour les livraisons de biens effectuées à compter du premier jour du mois au
-cours duquel ce chiffre d'affaires est dépassé.
+d'affaires de l'année en cours dépasse le montant de ((120 000 F)) (M) (1) . Ils
+deviennent redevables de la taxe sur la valeur ajoutée pour les prestations de
+services et pour les livraisons de biens effectuées à compter du premier jour du
+mois au cours duquel ce chiffre d'affaires est dépassé.
 
 III. Les chiffres d'affaires limites du I et du II sont respectivement de 245
 000 F et de 300 000 F :
@@ -21,13 +22,16 @@ III. Les chiffres d'affaires limites du I et du II sont respectivement de 245
 et à la Cour de cassation et les avoués, dans le cadre de l'activité définie par
 la réglementation applicable à leur profession ;
 
-2° Pour la livraison de leurs oeuvres désignées ((aux 1° à 12° de l'article
-L112-2 du code de la propriété intellectuelle)) (M) et la cession des droits
-patrimoniaux qui leur sont reconnus par la loi par les auteurs d'oeuvres de
-l'esprit, à l'exception des architectes.
+2° Pour la livraison de leurs oeuvres désignées aux 1° à 12° de l'article L112-2
+du code de la propriété intellectuelle et la cession des droits patrimoniaux qui
+leur sont reconnus par la loi par les auteurs d'oeuvres de l'esprit, à
+l'exception des architectes.
 
 Ces dispositions s'appliquent également aux artistes-interprètes visés à
-l'article ((L212-1 du code de la propriété intellectuelle)) (M) pour
-l'exploitation des droits patrimoniaux qui leur sont reconnus par la loi.
+l'article L212-1 du code de la propriété intellectuelle pour l'exploitation des
+droits patrimoniaux qui leur sont reconnus par la loi.
 
-(M) Modifications de la loi.
+(M) Modification. Ces dispositions sont applicables à compter du 1er janvier
+1997.
+
+(1) Cf. Instructions 1997-01-02 3F-1-97, 1997-01-02 5G-1-97, 1997-01-02 4Q-1-97.
