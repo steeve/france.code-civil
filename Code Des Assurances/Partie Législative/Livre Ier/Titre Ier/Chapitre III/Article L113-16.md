@@ -26,12 +26,8 @@ L'assureur doit rembourser à l'assuré la partie de prime ou de cotisation
 correspondant à la période pendant laquelle le risque n'a pas couru, période
 calculée à compter de la date d'effet de la résiliation.
 
-Il peut être stipulé le paiement d'une indemnité à l'assureur par l'assuré dans
-tous les cas de résiliation susmentionnés lorsqu'elle est le fait de l'assuré.
-Le paiement d'une indemnité doit, à peine de nullité, faire l'objet d'une clause
-expresse rédigée en caractères très apparents dans la police et rappelée aux
-conditions particulières de celle-ci. Ladite indemnité ne peut dépasser la
-moitié d'une prime ou d'une cotisation annuelle.
+Il ne peut être prévu le paiement d'une indemnité à l'assureur dans les cas de
+résiliation susmentionnés.
 
 Les dispositions du présent article ne sont pas applicables aux assurances sur
 la vie. Elles sont applicables à compter du 9 juillet 1973 aux contrats

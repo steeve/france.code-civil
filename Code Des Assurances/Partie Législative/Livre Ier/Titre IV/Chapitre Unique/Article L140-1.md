@@ -1,6 +1,10 @@
 Article L140-1
 ----
-Par dérogation aux dispositions des articles L. 132-2 et L. 132-3, le
-représentant légal d'un majeur en tutelle peut adhérer au nom de celui-ci à un
-contrat d'assurance de groupe en cas de décès, conclu par l'exécution d'une
-convention de travail ou d'un accord d'entreprise.
+Est un contrat d'assurance de groupe le contrat souscrit par une personne morale
+ou un chef d'entreprise en vue de l'adhésion d'un ensemble de personnes
+répondant à des conditions définies au contrat, pour la couverture des risques
+dépendant de la durée de la vie humaine, des risques portant atteinte à
+l'intégrité physique de la personne ou liés à la maternité, des risques
+d'incapacité de travail ou d'invalidité ou du risque de chômage.
+
+Les adhérents doivent avoir un lien de même nature avec le souscripteur.

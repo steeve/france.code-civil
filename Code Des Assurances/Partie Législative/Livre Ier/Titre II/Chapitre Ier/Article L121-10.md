@@ -18,10 +18,8 @@ l'aliénation par lettre recommandée.
 Lorsqu'il y a plusieurs héritiers ou plusieurs acquéreurs, si l'assurance
 continue, ils sont tenus solidairement du paiement des primes.
 
-Est nulle toute clause par laquelle serait stipulée au profit de l'assureur, à
-titre de dommages et intérêts, une somme excédant le montant de la prime d'une
-année dans l'hypothèse de décès de l'assuré ou d'aliénation de la chose assurée,
-si l'héritier ou l'acquéreur opte pour la résiliation du contrat.
+Il ne peut être prévu le paiement d'une indemnité à l'assureur dans les cas de
+résiliation susmentionnés.
 
 Les dispositions du présent article ne sont pas applicables au cas d'aliénation
 d'un véhicule terrestre à moteur.
