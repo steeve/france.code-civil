@@ -1,9 +1,6 @@
 Article L326-2
 ----
-Chaque département est tenu d'avoir un établissement public, spécialement
-destiné à recevoir et soigner les aliénés, ou de traiter, à cet effet, avec un
-établissement public ou privé, soit de ce département, soit d'un autre
-département.
-
-Les traités passés avec les établissements publics ou privés doivent être
-approuvés par le ministre de la Santé publique et de la Population.
+Dans chaque département, un ou plusieurs établissements assurant le service
+public hospitalier sont habilités par le représentant de l'Etat à soigner les
+personnes qui sont atteintes de maladies mentales et qui relèvent du chapitre
+III du présent titre.
