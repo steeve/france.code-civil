@@ -21,3 +21,6 @@ décret en Conseil d'Etat.
 e) A l'opération d'aménagement Euroméditerranée dans la commune de Marseille
 dans le périmètre de compétence de l'établissement public d'aménagement
 Euroméditerranée.
+
+f) A l'opération d'aménagement de Nanterre dans le périmètre de compétence de
+l'Etablissement public d'aménagement de Seine-Arche à Nanterre.
