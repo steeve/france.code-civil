@@ -24,7 +24,9 @@ le prévoit ;
 
 5° Les mentions prévues au quatrième alinéa de l'article R. 5143-5-4 et au 3° de
 l'article R. 5143-5-5 lorsque l'autorisation de mise sur le marché ou
-l'autorisation temporaire d'utilisation les prévoit.
+l'autorisation temporaire d'utilisation les prévoit ;
+
+6° Le cas échéant, la mention prévue à l'article R. 5143-11.
 
 En outre, elle mentionne :
 
