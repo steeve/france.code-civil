@@ -34,6 +34,10 @@ application de conventions ;
 Dépenses de bilans de compétences effectuées au bénéfice du personnel de
 l'entreprise en application des conventions visées à l'article R. 900-3 ;
 
+Dépenses de validation des acquis de l'expérience effectuées au bénéfice du
+personnel de l'entreprise en application des dispositions des articles R.
+950-13-3 et R. 950-13-4 ;
+
 Rémunérations versées aux stagiaires par l'entreprise ;
 
 Versements effectués dans les conditions prévues à l'article L. 951-1 (5°) du
@@ -63,10 +67,11 @@ effectuées au cours de chacune des trois années précédentes ;
 
 9° Le nombre de salariés de l'entreprise ;
 
-10° Le nombre de stagiaires ayant bénéficié d'une formation ou d'un bilan de
-compétences au cours de l'année, financée en tout ou partie au moyen de la
-participation de l'employeur, ainsi que le nombre d'heures de formation et de
-bilan de compétences reçues par eux, selon qu'elles ont ou non donné lieu au
+10° Le nombre de stagiaires ayant bénéficié d'une formation, d'un bilan de
+compétences ou d'une validation des acquis de l'expérience au cours de l'année,
+financé en tout ou partie au moyen de la participation de l'employeur, ainsi que
+le nombre d'heures de formation, de bilan de compétences et de validation des
+acquis de l'expérience reçues par eux, selon qu'elles ont ou non donné lieu au
 maintien d'une rémunération ;
 
 11° La répartition de ces stagiaires :

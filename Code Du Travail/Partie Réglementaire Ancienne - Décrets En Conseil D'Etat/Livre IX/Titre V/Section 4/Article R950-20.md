@@ -2,8 +2,7 @@ Article R950-20
 ----
 Doivent être joints à la déclaration [*du montant de la participation*] :
 
-Un état, en double exemplaire, présenté selon le modèle établi par
-l'administration et comprenant :
+Un état, en double exemplaire, et comprenant :
 
 La liste des conventions passées par l'employeur avec des organismes de
 formation ainsi que les effectifs concernés et le montant des versements
@@ -14,6 +13,11 @@ La liste des conventions mentionnées à l'article R. 900-3 passées par
 l'employeur avec des organismes réalisant des bilans de compétences au bénéfice
 du personnel de l'entreprise ainsi que les effectifs concernés et le montant des
 dépenses imputées sur l'obligation de participer ;
+
+La liste des conventions mentionnées à l'article R. 950-13-3 passées par
+l'employeur avec des organismes intervenant à la validation des acquis de
+l'expérience au bénéfice du personnel de l'entreprise ainsi que les effectifs
+concernés et le montant des dépenses imputées sur l'obligation de participer ;
 
 La liste des organismes agréés dans les conditions prévues au 4° de l'article L.
 951-1 ayant reçu des versements de l'employeur ainsi que le montant de chacun
