@@ -19,11 +19,10 @@ l'association au sein d'une fédération lui permettant d'assurer une activité
 effective en vue de la défense des victimes et agréée par arrêté du ministre de
 la justice.
 
-II. - La demande d'agrément est adressée à la direction des affaires criminelles
-et des grâces du ministère de la justice. Le dossier accompagnant la demande
-d'agrément doit comprendre un exemplaire des statuts et du récépissé de
-déclaration, ainsi que la justification des conditions prévues aux 1° à 3°
-ci-dessus.
+II. - La demande d'agrément est adressée au ministère de la justice. Le dossier
+accompagnant la demande d'agrément doit comprendre un exemplaire des statuts et
+du récépissé de déclaration, ainsi que la justification des conditions prévues
+aux 1° à 3° ci-dessus.
 
 Lorsque le dossier remis est complet, il en est délivré récépissé. La décision
 d'agrément ou de refus est notifiée dans un délai de deux mois à compter de la
