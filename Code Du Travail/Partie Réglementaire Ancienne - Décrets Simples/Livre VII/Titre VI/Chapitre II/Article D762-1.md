@@ -12,3 +12,6 @@ Le présent chapitre est applicable également aux entreprises de production de
 films, studios de prises de vues cinématographiques et postsynchronisation,
 postes de radiodiffusion, de télévision, d'enregistrement de disques et de
 bandes pour leur personnel artistique et technique.
+
+La présente section s'applique également au personnel artistique et technique
+détaché dans les conditions mentionnées à l'article D. 341-5.
