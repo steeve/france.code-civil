@@ -80,11 +80,9 @@ sang et le lait humains ;
 mars 1850, 12 juillet 1875 et 30 octobre 1886 ;
 
 - de l'enseignement universitaire dispensé dans les établissements publics et
-dans les établissements privés visés à l'article 5 de la loi n° 68-978 du 12
-novembre 1968 d'orientation de l'enseignement supérieur ;
-
-- de l'enseignement technique ou professionnel réglementé par la loi du 25
-juillet 1919 et le décret du 14 septembre 1956 ;
+dans les établissements privés visés aux articles 43 à 45 de la loi n° 84-52 du
+26 janvier 1984 . - de l'enseignement technique ou professionnel réglementé par
+la loi du 25 juillet 1919 et le décret du 14 septembre 1956 ;
 
 - de l'enseignement et de la formation professionnelle agricoles réglementés par
 la loi n° 60-791 du 2 août 1960 relative à l'enseignement et la formation
@@ -252,6 +250,10 @@ Tous les organismes concernés par les a, b et c sont placés sous le régime du
 chiffre d'affaires réel ; un décret en Conseil d'Etat détermine leurs
 obligations ainsi que l'étendue et les modalités d'exercice de leurs droits à
 déduction (5) ;
+
+1° bis Les opérations effectuées par les associations intermédiaires agréées en
+application de l'article L128 du code du travail, dans les conditions prévues au
+1° ;
 
 2° Les opérations effectuées par les institutions ou les établissements fondés
 par des associations sous le régime de la loi de 1901, par des groupements

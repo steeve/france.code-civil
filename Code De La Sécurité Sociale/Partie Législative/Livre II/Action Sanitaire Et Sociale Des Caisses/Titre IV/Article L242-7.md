@@ -12,11 +12,11 @@ mesures de prévention prescrites en application des articles L. 422-1 et L.
 La cotisation supplémentaire est due à partir de la date à laquelle ont été
 constatés les risques exceptionnels ci-dessus mentionnés.
 
-L'arrêté mentionné au premier alinéa du présent article fixe la part minimale du
-produit des cotisations supplémentaires qui doit être affecté à l'attribution de
-ristournes.
-
-La décision de la caisse régionale est susceptible de recours devant la
+L'arrêté mentionné au premier alinéa du présent article fixe le pourcentage du
+montant des cotisations d'accidents du travail et de maladies professionnelles
+et la part minimale du produit des cotisations supplémentaires qui doivent être
+affectés à l'attribution des ristournes et des avances prévues à l'article L.
+422-5. La décision de la caisse régionale est susceptible de recours devant la
 commission mentionnée à l'article L. 242-5.
 
 En cas de carence de la caisse, l'autorité compétente de l'Etat peut statuer,

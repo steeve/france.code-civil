@@ -7,7 +7,12 @@ salariés agricoles ou d'un régime spécial de retraite au sens de l'article L.
 décret en Conseil d'Etat, ou ultérieurement, est subordonné à la rupture
 définitive de tout lien professionnel avec l'employeur ou, pour les assurés
 exerçant une activité non-salariée, à la cessation définitive de cette activité
-.
+. Toutefois, dans le cas où l'assuré exerce simultanément des activités
+salariées et des activités non-salariées relevant de régimes d'assurance
+vieillesse dans lesquels, compte tenu de son âge, il ne peut bénéficier d'une
+pension liquidée au taux plein ou sans coefficient d'abattement, il est autorisé
+à différer la cessation des activités non-salariées jusqu'à l'âge où il sera
+susceptible de bénéficier d'une telle pension dans les régimes concernés.
 
 Les dispositions du premier alinéa ne font pas obstacle à l'exercice des
 activités suivantes :

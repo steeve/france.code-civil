@@ -56,10 +56,17 @@ b. De l'exploitation des propriétés agricoles ou forestières ;
 
 c. Des revenus de capitaux mobiliers dont ils disposent - à l'exception des
 dividendes des sociétés françaises - lorsque ces revenus n'entrent pas dans le
-champ d'application de la retenue à la source visée à l'article 119 bis.
+champ d'application de la retenue à la source visée à l'article 119 bis ; ces
+revenus sont comptés dans le revenu imposable pour leur montant brut ;
 
-Pour l'application de l'alinéa qui précède, les revenus de capitaux mobiliers
-sont comptés dans le revenu imposable pour leur montant brut.
+D. Des dividendes des sociétés immobilières et des sociétés agréées visées aux
+3° ter à 3° sexies de l'article 208 et à l'article 208 B perçus à compter du 1er
+janvier 1987. Ces dividendes sont comptés dans le revenu imposable pour leur
+montant brut.
+
+5 bis. Les associations intermédiaires agréées en application de l'article L128
+du code du travail sont soumises à l'impôt sur les sociétés dans les conditions
+prévues au 5 ;
 
 6. 1° La caisse nationale de crédit agricole, les caisses régionales de crédit
 agricole mutuel mentionnées à l'article 614 du code rural et les caisses locales
