@@ -25,6 +25,9 @@ d'instruction pour une durée de six mois renouvelable, en ce qui concerne
 l'activité dans l'exercice ou à l'occasion de laquelle l'infraction a été
 commise.
 
+Pour les obligations prévues aux 1° et 2°, les dispositions des articles 142 à
+142-3 sont applicables.
+
 Les interdictions prévues aux 3° et 4° ne peuvent être ordonnées par le juge
 d'instruction que dans la mesure où elles sont encourues à titre de peine par la
 personne morale poursuivie. La mesure prévue au 5° ne peut être ordonnée par le
