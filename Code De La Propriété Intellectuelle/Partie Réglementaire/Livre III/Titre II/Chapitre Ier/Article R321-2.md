@@ -1,9 +1,15 @@
 Article R321-2
 ----
-Les documents mentionnés à l'article L. 321-5 sont communiqués, sur demande
-écrite, dans les conditions prévues aux articles 40 à 42 du décret n° 78-704 du
-3 juillet 1978.
+Tout associé peut, à tout moment, demander à la société de lui adresser :
 
-Sera puni de la peine d'amende prévue pour la 3e classe de contraventions tout
-gérant de droit ou de fait qui aura refusé de communiquer tout ou partie des
-documents mentionnés à l'alinéa précédent.
+1° La liste des mandataires sociaux ;
+
+2° Un tableau retraçant sur une période de cinq ans le montant annuel des sommes
+perçues et réparties ainsi que des prélèvements pour frais de gestion et des
+autres prélèvements ;
+
+3° Un document décrivant les règles de répartition applicables ;
+
+4° Le produit des droits lui revenant au cours des douze derniers mois,
+résultant des contrats conclus avec les utilisateurs, et la manière dont ce
+produit est déterminé.
