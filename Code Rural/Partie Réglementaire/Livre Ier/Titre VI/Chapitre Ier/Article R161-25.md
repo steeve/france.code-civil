@@ -1,8 +1,9 @@
 Article R161-25
 ----
-I. - Le juge du tribunal d'instance statue sur les contestations mentionnées à
-l'article L. 161-4.
-
-II. - Les infractions aux dispositions des articles R. 161-8 à R. 161-24
-relatives à la conservation des chemins ruraux sont constatées et pourvuivies
-dans les conditions prévues par le code de procédure pénale.
+Les délibérations des conseils municipaux portant sur l'aliénation de tout ou
+partie d'un ou plusieurs chemins ruraux appartenant à plusieurs communes ou
+constituant un même itinéraire s'étendant sur le territoire de plusieurs
+communes doivent être précédées d'une enquête publique unique, conduite par un
+même commissaire enquêteur, effectuée dans les conditions de forme et de
+procédure prévues aux articles R. 141-4 à R. 141-9 du code de la voirie
+routière.
