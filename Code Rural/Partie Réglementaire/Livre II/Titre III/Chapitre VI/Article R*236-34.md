@@ -1,12 +1,14 @@
 Article R*236-34
 ----
-Dans les eaux de la 2e catégorie, les membres des associations agréées de
-pêcheurs professionnels en eau douce peuvent pêcher au moyen d'engins, de filets
-et de lignes dont la nature, les dimensions et le nombre sont définis soit dans
-le cadre de la location du droit de pêche de l'Etat dans les eaux mentionnées à
-l'article L. 235-1, soit par arrêté du préfet pour tout ou partie des eaux non
-mentionnées à l'article L. 235-1, soit par l'autorisation de vidange de plan
-d'eau délivrée en application de l'article L. 232-9.
+Dans les eaux de la 2e catégorie, ainsi que dans les plans d'eau de la 1re
+catégorie dont la liste est fixée par le ministre chargé de la pêche en eau
+douce, les membres des associations agréées de pêcheurs professionnels en eau
+douce peuvent pêcher au moyen d'engins, de filets et de lignes dont la nature,
+les dimensions et le nombre sont définis soit dans le cadre de la location du
+droit de pêche de l'Etat dans les eaux mentionnées à l'article L. 235-1, soit
+par arrêté du préfet pour tout ou partie des eaux non mentionnées à l'article L.
+235-1, soit par l'autorisation de vidange de plan d'eau délivrée en application
+de l'article L. 232-9.
 
 Seul peut être autorisé l'usage des engins et filets suivants :
 
