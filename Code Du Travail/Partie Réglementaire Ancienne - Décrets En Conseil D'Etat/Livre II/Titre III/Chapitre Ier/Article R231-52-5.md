@@ -1,28 +1,24 @@
 Article R231-52-5
 ----
-I - Toutes les substances auxquelles s'appliquent les dispositions de l'article
-R. 231-52-4 doivent, dans la mesure où leurs propriétés dangereuses sont connues
-du fabricant ou l'importateur, être emballées et étiquetées en fonction de ces
-propriétés et dans des conditions conformes aux dispositions nationales ou
-communautaires en vigueur. Lorsque ces substances sont importées d'un Etat
-membre des communautés européennes, l'étiquetage imposé par cet Etat doit être
-utilisé dans sa version française. Au cas où il n'est pas possible au déclarant
-de recourir à un étiquetage adapté, l'étiquette doit porter la mention :
-"Attention : substance non encore complètement testée".
+Les substances auxquelles s'appliquent les dispositions de l'article R. 231-52-4
+doivent, dans la mesure où leurs propriétés dangereuses sont connues du
+déclarant, être emballées et étiquetées en fonction de ces propriétés et dans
+des conditions conformes aux dispositions réglementaires prises en application
+de l'article L. 231-6. Lorsque les essais et recherches sont en cours,
+l'étiquette doit en outre porter la mention : "Attention : substance non encore
+testée complètement". L'étiquetage doit être rédigé en français.
 
-II - Si une des substances mentionnées au I ci-dessus doit recevoir un
-étiquetage correspondant à la catégorie "très toxique" ou "toxique", le
-fabricant joint à sa déclaration, dans les cas prévus au I et au II de l'article
-R. 231-52-4, un document indiquant :
+En outre, en ce qui concerne les substances mentionnées aux III et V de
+l'article R. 231-52-4 et considérées, sur la base des connaissances disponibles,
+comme étant très toxiques, toxiques, cancérogènes, toxiques pour la reproduction
+ou mutagènes, le fabricant ou l'importateur doit communiquer à l'organisme agréé
+:
 
-a) Les méthodes et précautions à prendre en ce qui concerne l'usage, le
+1° Les méthodes et précautions à prendre en ce qui concerne l'usage, le
 transport, la manipulation et le stockage de la substance ou des préparations
 qui la contiennent ;
 
-b) Les mesures à prendre en cas d'incendie, de contact avec l'eau, de dispersion
-accidentelle ou d'accident de personne.
+2° Les mesures à prendre en cas d'incendie, de contact avec l'eau, de dispersion
+accidentelle ou d'accident de personne ;
 
-Les fabricants ou les importateurs des substances énumérées au III de l'article
-R. 231-52-4 sont tenus, lorsque ces dernières appartiennent à la catégorie
-précitée, d'informer l'organisme agréé de leur mise sur le marché et de produire
-à l'appui le document prévu à l'alinéa précédent.
+3° Les données relatives à la toxicité aiguë lorsqu'elles sont disponibles.

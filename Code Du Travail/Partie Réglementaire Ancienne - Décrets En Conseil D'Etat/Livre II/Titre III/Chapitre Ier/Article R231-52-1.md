@@ -1,9 +1,11 @@
 Article R231-52-1
 ----
-Les organismes agréés au sens de l'article L. 231-7 (3e et 4e alinéa) sont
-désignés par arrêtés du ministre chargé du travail après avis du conseil
-supérieur de la prévention des risques professionnels. L'arrêté d'agrément fixe
-les modalités techniques d'exécution de la mission de ces organismes.
+Les organismes agréés prévus aux troisième et quatrième alinéas de l'article L.
+231-7 sont désignés par arrêtés des ministres chargés du travail et de
+l'agriculture après avis du Conseil supérieur de la prévention des risques
+professionnels et de la Commission nationale d'hygiène et de sécurité du travail
+en agriculture. L'arrêté d'agrément fixe les modalités techniques d'exécution de
+la mission de ces organismes.
 
 L'agrément peut être retiré dans les mêmes formes, après que l'organisme agréé a
 été appelé à présenter ses observations, lorsque celui-ci ne se conforme pas aux
