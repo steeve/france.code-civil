@@ -2,10 +2,9 @@ Article R950-14
 ----
 Les dépenses de rémunération des stagiaires prises en compte en vertu de
 l'article L. 951-2 s'entendent du montant brut des rémunérations telles qu'elles
-sont déclarées à l'administration fiscale en application de l'article 87 du code
-général des impôts [*calcul*], majoré des cotisations de sécurité sociale à la
-charge de l'employeur afférentes auxdites rémunérations, ainsi que des charges
-légales assises sur ces rémunérations.
+sont définies aux articles L. 951-1 et L. 952-1, majoré des cotisations de
+sécurité sociale à la charge de l'employeur afférentes auxdites rémunérations,
+ainsi que des charges légales assises sur ces rémunérations.
 
 Les rémunérations retenues sont, selon le cas, soit celles que les stagiaires
 ont effectivement perçues pendant la durée du stage, soit un fraction de la

@@ -1,7 +1,7 @@
 Article R953-2
 ----
-Les fonds d'assurance-formation de non-salariés mentionnés au b du troisième
-alinéa de l'article R. 953-1 sont créés soit par des organisations syndicales
+Les fonds d'assurance-formation de non-salariés mentionnés au troisième alinéa
+de l'article R. 953-1 sont créés soit par des organisations syndicales
 d'employeurs représentatives et des chambres de commerce et d'industrie, soit
 par des organisations syndicales représentatives de professions libérales.
 

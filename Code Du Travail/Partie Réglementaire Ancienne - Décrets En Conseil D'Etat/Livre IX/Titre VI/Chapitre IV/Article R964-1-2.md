@@ -1,10 +1,9 @@
 Article R964-1-2
 ----
 I. - Dans le champ d'application des accords mentionnés à l'article R. 964-1-1,
-les agréments au titre de la collecte des contributions mentionnées au huitième
-alinéa (2°) de l'article L. 951-1, à l'article L. 952-1 et à l'article 30 de la
-loi de finances pour 1985 (n° 84-1208 du 29 décembre 1984) ne peuvent être
-accordés qu'à un même organisme collecteur.
+les agréments au titre de la collecte des contributions mentionnées au quatrième
+alinéa (2°) et au septième alinéa de l'article L. 951-1 et à l'article L. 952-1
+ne peuvent être accordés qu'à un même organisme collecteur.
 
 Un agrément de portée régionale ou interrégionale ne peut être accordé qu'à un
 seul organisme collecteur paritaire par région. Dans ce cas, le champ d'activité

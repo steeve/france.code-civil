@@ -24,7 +24,12 @@ personnes morales, relevant des organisations d'employeurs signataires de
 l'accord mentionné à l'article R. 964-1-1, des conventions dont l'objet est de
 permettre à ces personnes de mettre en oeuvre, sous la responsabilité et le
 contrôle du conseil d'administration paritaire, tout ou partie des décisions de
-gestion des organismes.
+gestion des organismes. Ces personnes morales, ainsi que celles mentionnées au
+cinquième alinéa de l'article L. 961-12, produisent chaque année, avant le 30
+avril, au conseil d'administration de l'organisme paritaire collecteur agréé
+avec lequel elles ont conclu une telle convention, un rapport retraçant, selon
+des modalités définies par ce conseil, l'exécution des missions qui leur ont été
+confiées.
 
 En aucun cas, les tâches de gestion d'un organisme collecteur paritaire ne
 peuvent être confiées directement ou indirectement, notamment dans le cadre des

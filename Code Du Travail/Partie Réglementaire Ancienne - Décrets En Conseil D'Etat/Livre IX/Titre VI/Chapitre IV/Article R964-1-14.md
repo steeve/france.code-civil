@@ -1,6 +1,6 @@
 Article R964-1-14
 ----
-Les organismes collecteurs paritaires agréés mentionnés au deuxième alinéa de
+Les organismes collecteurs paritaires agréés mentionnés au premier alinéa de
 l'article L. 961-12 peuvent rémunérer les missions et services qui sont
 effectivement accomplis, en vue d'assurer la gestion paritaire des fonds de la
 formation professionnelle continue, par les organisations signataires des

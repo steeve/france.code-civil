@@ -10,11 +10,5 @@ La détermination du montant de la contribution versée au fonds, lorsqu'elle
 implique une décision au niveau de l'entreprise, intervient après consultation
 du comité d'entreprise ou, à défaut, des délégués du personnel.
 
-Le conseil de gestion de ces fonds doit être composé d'un nombre égal de
+Le conseil d'administration de ces fonds doit être composé d'un nombre égal de
 représentants des employeurs et des organisations de salariés.
-
-Les fonds d'assurance-formation de salariés peuvent accepter l'adhésion
-d'entreprises non assujetties à l'obligation de participation. La convention
-constitutive du fonds d'assurance-formation en précise les conditions. La
-cotisation de ces entreprises doit être assise sur le montant des salaires
-versés à leur personnel.
