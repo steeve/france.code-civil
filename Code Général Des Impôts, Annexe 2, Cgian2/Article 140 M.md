@@ -8,7 +8,4 @@ fraction de cette taxe réservée au développement de l'apprentissage.
 
 Les versements effectués au titre des articles 140 K bis et 140 K ter s'imputent
 sur cette fraction. Le montant du versement mentionné à l'article 140 K ter est
-de 20 % de ladite fraction.
-
-(Dispositions applicables à la taxe d'apprentissage versée à compter du 1er
-janvier 1997).
+de 25 % de ladite fraction.
