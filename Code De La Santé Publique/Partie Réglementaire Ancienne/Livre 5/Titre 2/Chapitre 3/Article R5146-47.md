@@ -9,5 +9,5 @@ tarifaires autorisées.
 
 Toutefois, sont autorisés les dons destinés à encourager la recherche et
 l'enseignement au profit d'établissements publics ou de fondations reconnues
-d'utilité publique, sous réserve de déclaration préalable au ministre de la
-santé et au ministre de l'agriculture [*conditions*].
+d'utilité publique, sous réserve de déclaration préalable au préfet du
+département dans lequel ces institutions ont leur siège [*autorité compétente*].

@@ -1,14 +1,15 @@
 Article R5146-21
 ----
-Les experts et leurs collaborateurs sont tenus au secret professionnel en ce qui
-concerne la nature des produits essayés, les essais eux-mêmes et leurs
-résultats.
+Les expérimentateurs, les investigateurs, les experts et toutes les personnes
+appelées à collaborer aux essais sont tenus au secret professionnel dans les
+conditions et sous les peines prévues par l'article 226-13 du code pénal en ce
+qui concerne la nature des produits étudiés, les protocoles et les résultats
+obtenus.
 
-Ils ne peuvent donner de renseignements relatifs à leurs travaux qu'au
-fabricant, responsable de la mise sur le marché au directeur général de l'Agence
-française de sécurité sanitaire des aliments et aux ministres chargés de
-l'agriculture et de la santé.
+Ils ne peuvent, sans l'accord du promoteur, donner d'informations relatives aux
+essais qu'aux ministres chargés de l'agriculture et de la santé, au directeur
+général de l'Agence française de sécurité sanitaire des aliments et aux agents
+des corps d'inspection et de contrôle mentionnés à l'article L. 617-20.
 
-Aucune publication relative à l'expérimentation d'un médicament ne peut être
-effectuée sans l'accord conjoint de l'expert et du responsable de la mise sur le
-marché.
+Les essais ne peuvent faire l'objet d'aucun commentaire écrit ou oral sans
+l'accord conjoint de l'investigateur ou de l'expérimentateur et du promoteur.

@@ -1,20 +1,29 @@
 Article R5146-31
 ----
-Le ou les comptes rendus des expertises cliniques comprennent le relevé de
-chaque observation, le cas échéant, la description détaillée des échecs
-rencontrés en cours d'expérimentation, et les conclusions relatives notamment
-[*mentions, contenu*] :
+I. - Pour les médicaments non immunologiques :
 
-a) A l'innocuité dans les conditions normales d'emploi ;
+a) La documentation relative aux essais précliniques comprend :
 
-b) A la posologie et à la durée de traitement et de la période d'observation ;
+- l'établissement de l'activité pharmacodynamique et des caractéristiques
+pharmacocinétiques ;
 
-c) Aux indications et à l'effet thérapeutique ;
+- l'évaluation de la tolérance au médicament chez l'animal de destination et des
+éventuels effets indésirables ;
 
-d) Aux contre-indications, aux effets secondaires indésirables, aux interactions
-constatées éventuellement avec d'autres médicaments ou additifs alimentaires ;
+- l'étude d'organismes résistants après l'utilisation de médicaments destinés à
+prévenir ou à traiter des maladies infectieuses ou des infestations parasitaires
+;
 
-e) Aux conditions normales et particulières de prescription, de délivrance et
-d'emploi ;
+b) La documentation relative aux essais cliniques comprend :
 
-f) Aux risques cliniques de surdosage.
+- la mise en évidence des effets thérapeutiques dans les conditions normales
+d'emploi, des contre-indications, des interactions constatées avec d'autres
+médicaments ou additifs alimentaires, des signes cliniques en cas de surdosage ;
+
+- la posologie et la durée de traitement.
+
+II. - Pour les médicaments immunologiques, la documentation relative aux essais
+cliniques comprend les essais d'efficacité mettant en évidence les effets
+thérapeutiques dans les conditions normales d'emploi, la posologie et la durée
+du traitement ou, dans le cas d'un vaccin, le schéma vaccinal proposé, les
+contre-indications et les effets indésirables éventuels.

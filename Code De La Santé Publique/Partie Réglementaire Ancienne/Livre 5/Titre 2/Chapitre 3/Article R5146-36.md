@@ -4,8 +4,9 @@ Tout changement du titulaire de l'autorisation de mise sur le marché est
 subordonné à une décision du directeur général de l'Agence française de sécurité
 sanitaire des aliments [*autorité compétente*].
 
-La demande comprend, outre les mentions prévues aux points a, j et n de
-l'article R. 5146-26 :
+La demande comprend, outre les mentions prévues aux 5° et 7° de l'article R.
+5146-27 et les projets de conditionnements extérieurs et primaires et, s'il y a
+lieu, de notice :
 
 a) L'accord du titulaire de l'autorisation ;
 

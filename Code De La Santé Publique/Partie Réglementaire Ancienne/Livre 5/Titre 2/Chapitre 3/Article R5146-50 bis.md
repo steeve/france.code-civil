@@ -10,10 +10,11 @@ L'agrément ne peut être donné qu'aux installations permettant, dans les
 conditions de fonctionnement prévues par le constructeur, la réalisation d'un
 mélange homogène et l'élimination complète des lots préparés.
 
-Un arrêté conjoint du ministre de l'agriculture et du ministre chargé de la
-santé fixe les modalités de présentation et d'instruction des demandes ainsi que
-les spécifications techniques auxquelles doivent répondre les installations pour
-obtenir l'agrément susmentionné.
+Un arrêté des ministres chargés de l'agriculture et de la santé, pris sur
+proposition du directeur général de l'Agence française de sécurité sanitaire des
+aliments fixe les modalités de présentation et d'instruction des demandes ainsi
+que les spécifications techniques auxquelles doivent répondre les installations
+pour obtenir l'agrément susmentionné.
 
 Toute décision de refus d'agrément doit être motivée et intervenir dans les
 quatre-vingt-dix jours à compter du dépôt de la demande. A défaut de décision

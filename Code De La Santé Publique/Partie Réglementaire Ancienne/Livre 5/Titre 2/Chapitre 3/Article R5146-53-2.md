@@ -15,6 +15,6 @@ desdites substances.
 
 Un relevé trimestriel, récapitulant par substance les quantités produites,
 acquises, cédées ou utilisées pour la fabrication de médicaments vétérinaires,
-doit être adressé au ministre chargé de l'agriculture et, sur sa demande, au
-ministre chargé de la santé au plus tard à la fin du mois qui suit le trimestre
-concerné.
+doit être adressé au ministre chargé de l'agriculture et au directeur général de
+l'Agence française de sécurité sanitaire des aliments, au plus tard à la fin du
+mois qui suit le trimestre concerné [*date limite*].

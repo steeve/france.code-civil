@@ -1,17 +1,19 @@
 Article R5146-33-1
 ----
-Lorsque le directeur général de l'Agence française de sécurité sanitaire des
-aliments est saisi, en même temps que le comité des médicaments vétérinaires
-institué par les articles 16 et 17 de la directive n° 81-851 du conseil des
-communautés européennes du 28 septembre 1981, par les autorités compétentes d'un
-Etat membre des communautés européennes d'une demande d'autorisation de mise sur
-le marché émanant d'un ressortissant de cet Etat membre, il dispose d'un délai
-de 120 jours à compter de la date de réception du dossier pour notifier au
-comité des médicaments vétérinaires son éventuelle opposition à l'octroi de
-cette autorisation [*délai, point de départ*].
+Lorsque le dossier de demande d'autorisation de mise sur le marché est incomplet
+ou irrégulier, le directeur général de l'Agence française de sécurité sanitaire
+des aliments invite le demandeur à compléter ou à régulariser celui-ci.
 
-La décision sur la demande d'autorisation de mise sur le marché est prise par le
-directeur général de l'Agence française de sécurité sanitaire des aliments dans
-les trente jours qui suivent la réception de l'avis émis ou du constat effectué
-par le comité conformément aux articles 18 et 19 de la directive susmentionnée
-[*autorités compétentes*].
+Le directeur général peut soumettre le médicament et, si nécessaire, ses
+matières premières, ses produits intermédiaires ou autres constituants, au
+contrôle d'un laboratoire de l'Agence française de sécurité sanitaire des
+aliments, permettant de s'assurer que les méthodes de contrôles utilisées par le
+fabricant et décrites dans le dossier de demande d'autorisation de mise sur le
+marché sont satisfaisantes. Il procède, le cas échéant, au contrôle de la
+méthode analytique proposée par le demandeur pour le dépistage des résidus.
+L'instruction peut comporter, en outre, une étude sur place des conditions de
+fabrication et de contrôle.
+
+Le directeur général peut requérir du demandeur toute information complémentaire
+nécessaire à l'instruction de la demande. Le délai prévu à l'article R.
+5146-33-2 est alors suspendu jusqu'à la réception des éléments demandés.

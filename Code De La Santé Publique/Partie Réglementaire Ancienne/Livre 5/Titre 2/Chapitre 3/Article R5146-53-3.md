@@ -11,5 +11,6 @@ système d'enregistrement approprié :
 l'acquéreur.
 
 Un relevé trimestriel, récapitulant par médicament les quantités cédées, doit
-être adressé au ministre chargé de l'agriculture et, sur sa demande, au ministre
-chargé de la santé au plus tard à la fin du mois qui suit le trimestre concerné.
+être adressé au ministre chargé de l'agriculture et au directeur général de
+l'Agence française de sécurité sanitaire des aliments, au plus tard à la fin du
+mois qui suit le trimestre concerné [*date limite*].

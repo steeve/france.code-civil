@@ -1,21 +1,26 @@
 Article R5146-29
 ----
-Les comptes rendus des expertises analytiques comprennent [*mentions, contenu*]
-:
+La documentation relative aux essais analytiques des médicaments vétérinaires
+comprend :
 
-a) La formule intégrale du médicament ainsi que les changements qui ont pu être
-apportés à cette formule en cours d'expérimentation ;
+1° La composition qualitative et quantitative du médicament ;
 
-b) Le protocole détaillé de la technique utilisée par le fabricant, les
-résultats obtenus par l'expert et les limites extrêmes d'acceptation ;
+2° La description de tous les constituants et du conditionnement primaire ;
 
-c) L'interprétation de ces résultats ;
+3° La description du mode et des conditions de fabrication du médicament, ainsi
+que la formule de fabrication ;
 
-d) La description des essais de stabilité ayant permis de déterminer la durée
-proposée de conservation ;
+4° La description des techniques de contrôle des matières premières, des
+produits intermédiaires de la fabrication et du produit fini, la description des
+techniques de contrôle en cours de fabrication, l'indication des résultats
+obtenus par application de ces techniques ainsi que toutes indications utiles
+sur le conditionnement primaire ;
 
-e) La quantité minimale de chaque constituant du médicament vétérinaire et le
-nombre minimal d'unités de vente qu'il sera nécessaire de prélever pour procéder
-utilement, en cas d'attribution de l'autorisation de mise sur le marché, à des
-contrôles postérieurs à la délivrance de cette autorisation par le Centre
-national d'études vétérinaires et alimentaires.
+5° L'indication de la quantité minimale de chaque constituant du médicament et
+du nombre minimal d'unités de vente qu'il sera nécessaire de prélever pour
+procéder utilement à des contrôles postérieurs à la délivrance de l'autorisation
+de mise sur le marché prescrits par le directeur général de l'Agence française
+de sécurité sanitaire des aliments ;
+
+6° La description des essais de stabilité ayant permis de déterminer la durée
+proposée de conservation.

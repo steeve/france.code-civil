@@ -1,6 +1,5 @@
 Article R5146-39-3
 ----
-Les membres de la commission mentionnée à l'article R. 5146-38 ne peuvent être
-ni salariés d'un établissement de préparation de produits pharmaceutiques
-vétérinaires, ni avoir un intérêt financier direct ou indirect dans un tel
-établissement [*incompatibilité, interdiction*].
+Les ministres chargés de l'agriculture et de la santé peuvent solliciter l'avis
+de la commission sur toute question ayant trait au domaine de compétence de
+cette commission.

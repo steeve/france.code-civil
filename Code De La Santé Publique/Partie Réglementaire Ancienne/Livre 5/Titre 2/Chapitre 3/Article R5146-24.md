@@ -1,12 +1,20 @@
 Article R5146-24
 ----
-Les produits remis aux experts et ceux qui sont utilisés pour la réalisation
-d'essais comparatifs doivent avoir fait l'objet, pour chaque lot de fabrication,
-des contrôles analytiques nécessaires pour en garantir la qualité. Le fabricant
-ou le responsable de la mise sur le marché conserve des échantillons des lots
-remis aux experts.
+Les médicaments soumis aux essais cliniques, d'une part, et les éventuels
+médicaments de référence et les placebos, d'autre part, doivent être préparés
+selon les bonnes pratiques de fabrication, définies selon les modalités énoncées
+à l'article L. 616-1.
 
-L'étiquetage de ces produits comporte : la composition quantitative en principes
-actifs, le numéro de lot de fabrication, le nom du fabricant et la mention "ce
-produit est réservé aux essais, article R. 5146-24 du code de la santé
-publique".
+L'étiquetage de ces médicaments comporte :
+
+1° Le nom du promoteur et son adresse ;
+
+2° La référence de l'essai en cours ;
+
+3° La référence permettant de connaître leur formule intégrale, leur numéro de
+lot de fabrication, leur date de péremption ;
+
+4° Les indications nécessaires à leur bonne conservation ;
+
+5° La mention suivante : "Réservé aux essais cliniques de médicaments
+vétérinaires".
