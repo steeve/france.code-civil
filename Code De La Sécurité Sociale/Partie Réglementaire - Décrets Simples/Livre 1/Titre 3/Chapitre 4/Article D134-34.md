@@ -1,12 +1,21 @@
 Article D134-34
 ----
-Sont considérées comme bénéficiaires l'ensemble des personnes protégées, à
-l'exclusion de celles définies ci-dessous :
+Le montant des prestations en nature des assurances maladie et maternité prévues
+au titre III remboursé par la Caisse nationale de l'assurance maladie des
+travailleurs salariés est déterminé dans les conditions ci-après :
 
-1°) les affiliés mentionnés aux sections 3 et 5 du chapitre 1er du titre VIII du
-livre III ;
+Le montant des prestations retenues pour le calcul des remboursements dus par la
+Caisse nationale de l'assurance maladie des travailleurs salariés est déterminé
+à partir des tarifs de responsabilité du régime général. Pour les différentes
+catégories de prestations et pour chacun des deux régimes, il est établi un taux
+moyen pondéré de remboursement égal au rapport entre le montant des prestations
+et le montant des dépenses ouvrant droit à prestations, calculé sur la base de
+100 % des tarifs. Ces taux, R pour le régime général, R' pour le régime de
+sécurité sociale des clercs et employés de notaires, sont calculés à partir des
+résultats statistiques annuels des dépenses de prestations. Les dépenses de
+prestations du régime de sécurité sociale des clercs et employés de notaires
+ainsi déterminées pour chaque catégorie de prestations sont affectées de
+coefficients respectivement égaux aux valeurs correspondant au rapport : R/R'.
 
-2°) les assurés volontaires ;
-
-3°) les assujettis exonérés ou dispensés totalement du versement des
-cotisations.
+Le montant du remboursement est égal à la somme des résultats partiels ainsi
+obtenus.
