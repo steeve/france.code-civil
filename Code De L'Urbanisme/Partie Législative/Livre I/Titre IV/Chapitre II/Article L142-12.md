@@ -1,24 +1,9 @@
 Article L142-12
 ----
 Les dispositions des articles L. 142-1 à L. 142-11 entreront en vigueur à une
-date fixée par un décret en conseil d'Etat qui devra intervenir dans un délai
-d'un an à compter de la publication de la loi n° 86-841 du 17 juillet 1986
-tendant à modifier la durée ou la date d'application du certaines règles
-concernant le code de l'urbanisme.
-
-Jusqu'à cette date :
-
-- les aliénations de biens compris dans une zone de préemption délimitée à
-l'intérieur d' un périmètre sensible demeurent soumises aux dispositions du
-chapitre II du titre IV du livre Ier du code de l'urbanisme dans leur rédaction
-antérieure à la loi n°85-729 du 18 juillet 1985 relative à la définition et à la
-mise en oeuvre de principes d'aménagement et aux textes pris pour son
-application, quelle que soit la date de la déclaration d'intention d'aliéner ;
-
-- les autorisations de construire demeurent soumises, quelle que soit leur date,
-à la taxe départementale d'espaces verts ; les délibérations prises par les
-conseils généraux relatives à la taxe départementale des espaces naturels
-sensibles ne pourront recevoir exécution.
+date fixée par le décret prévu à l'article L. 142-13 et au plus tard un an après
+la publication de la loi n° 85-729 du 18 juillet 1985 relative à la définition
+et à la mise en oeuvre de principes d'aménagement.
 
 A compter de cette date, les départements où la taxe départementale d'espaces
 verts était instituée sur l'ensemble de leur territoire perçoivent la taxe
