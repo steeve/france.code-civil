@@ -36,4 +36,4 @@ régime d'obligations de paiement et de pénalités est identique à celui appli
 
 Un décret prévoit les modalités de déclaration auxquelles sont astreints les
 organismes assureurs et les mesures nécessaires à l'application du présent
-article.
+article (1).
