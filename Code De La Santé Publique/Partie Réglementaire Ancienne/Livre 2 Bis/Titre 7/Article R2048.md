@@ -1,8 +1,8 @@
 Article R2048
 ----
 Les contrats mentionnés à l'article R. 2047 ne peuvent prévoir de clauses
-excluant de la garantie les dommages subis par les victimes que dans les cas
-suivants :
+excluant de la garantie les dommages subis par les victimes ou leurs ayants
+droit que dans les cas suivants :
 
 1° Les recherches biomédicales n'ont pas lieu dans les conditions prévues au
 premier tiret de l'article L. 209-3 du code de la santé publique ;
@@ -20,4 +20,5 @@ respectées ;
 5° Les dispositions de l'article L. 209-18 ne sont pas respectées ;
 
 6° La recherche a lieu en dépit d'une décision d'interdiction ou de suspension
-prise par le ministre en application du dernier alinéa de l'article L. 209-12.
+prise par le ministre ou le directeur général de l'Agence du médicament en
+application du dernier alinéa de l'article L. 209-12.
