@@ -22,7 +22,7 @@ ci-dessus établissent et publient des comptes consolidés dans les conditions
 définies par un règlement du comité de la réglementation comptable.
 
 Ces comptes sont certifiés par les commissaires aux comptes dans les conditions
-prévues au deuxième alinéa de l'article L. 225-235 du code de commerce.
+prévues au deuxième alinéa de l'article L. 823-9 du code de commerce.
 
 III. - Lorsque deux ou plusieurs mutuelles ou unions appartiennent à un groupe,
 l'une de ces entités établit et publie des comptes combinés. Un décret détermine
@@ -32,5 +32,5 @@ sont constitués par agrégation de l'ensemble des comptes des entités concern�
 un règlement du comité de la réglementation comptable.
 
 Les comptes mentionnés au présent article sont certifiés par les commissaires
-aux comptes dans les conditions prévues au deuxième alinéa de l'article L.
-225-235 du code de commerce.
+aux comptes dans les conditions prévues au deuxième alinéa de l'article L. 823-9
+du code de commerce.

@@ -29,6 +29,19 @@ total ou partiel de troupeaux en application des articles L. 221-2 ou L. 234-4
 du code rural et la valeur en stock ou en compte d'achats des animaux abattus
 sont exclus de ces revenus.
 
+Lorsque les personnes mentionnées à l'article L. 722-4 du code rural estiment
+que les revenus professionnels pris en compte pour le calcul de la contribution
+subissent une variation, cette contribution peut, sur demande des intéressés
+formulée auprès de la caisse de mutualité sociale agricole, être calculée au
+titre des appels fractionnés ou des versements mensuels sur la base de
+l'assiette des revenus intégrant cette variation dès le début de l'année civile
+au titre de laquelle cette contribution est due.
+
+Une majoration de retard de 10 % est appliquée sur l'insuffisance de versement
+des appels fractionnés ou des versements mensuels lorsque les revenus définitifs
+de l'année considérée sont supérieurs de plus d'un tiers aux revenus estimés par
+l'intéressé pour cette même année.
+
 II. - Lorsque la durée d'assujettissement au régime de protection sociale des
 non-salariés agricoles d'un chef d'exploitation ou d'entreprise agricole ne
 permet pas de calculer la moyenne des revenus professionnels se rapportant aux

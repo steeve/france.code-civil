@@ -14,3 +14,6 @@ résultant de ce choix sont à la charge des utilisateurs.
 Lorsqu'une zone de mise en place est attribuée à une coopérative d'insémination
 artificielle, celle-ci est tenue d'accepter, comme usagers, les éleveurs non
 adhérents.
+
+Les dispositions du présent article ne sont pas applicables aux éleveurs d'ovins
+et de porcins.

@@ -1,6 +1,10 @@
 Article L654-5
 ----
-Les collectivités publiques propriétaires d'abattoirs construits avec l'aide
-financière de l'Etat sont tenues de mettre leurs installations à la disposition
-de groupements d'éleveurs, dans des conditions qui sont fixées par arrêté du
-ministre de l'agriculture et du ministre de l'intérieur.
+L'exploitant d'un abattoir public est seul habilité à exécuter, dans l'enceinte
+de l'abattoir, les opérations d'abattage et celles qui s'y rattachent
+directement, qui sont déterminées par décret.
+
+L'exploitant peut se livrer à la commercialisation des seuls sous-produits
+animaux non destinés à la consommation humaine visés par le règlement (CE) n°
+1774/2002 du Parlement européen et du Conseil du 3 octobre 2002 et dans les
+conditions prévues par celui-ci.

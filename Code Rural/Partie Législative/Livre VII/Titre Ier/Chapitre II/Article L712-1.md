@@ -5,10 +5,10 @@ déterminée à l'exclusion des contrats visés à l'article L. 122-2 du code du
 travail, remet au salarié et adresse à la caisse de mutualité sociale agricole
 les parties qui leur sont respectivement destinées du document appelé "titre
 emploi simplifié agricole" est réputé satisfaire aux obligations prévues par les
-articles L. 122-3-1, L. 143-3, L. 212-4-3 et L. 320 du code du travail, et les
-articles L. 722-25, L. 741-3, L. 741-5 à L. 741-14, ainsi qu'aux déclarations au
-titre du service de santé au travail et du régime des prestations mentionnées à
-l'article L. 351-2 du code du travail.
+articles L. 122-3-1, L. 127-2, L. 127-9, L. 143-3, L. 212-4-3 et L. 320 du code
+du travail, et les articles L. 722-25, L. 741-3, L. 741-5 à L. 741-14, ainsi
+qu'aux déclarations au titre du service de santé au travail et du régime des
+prestations mentionnées à l'article L. 351-2 du code du travail.
 
 L'inscription sur le registre unique du personnel est réputée accomplie lorsque
 les employeurs tiennent à la disposition des personnes mentionnées au troisième
@@ -20,9 +20,8 @@ Le titre emploi simplifié agricole est délivré par les caisses de mutualité
 sociale agricole aux employeurs qui font appel, au moyen d'un ou plusieurs
 contrats de travail à durée déterminée, à des salariés occupés dans les
 activités ou les exploitations, entreprises ou établissements mentionnés aux 1°
-à 4° de l'article L. 722-1, ainsi qu'aux coopératives d'utilisation de matériel
-agricole, et aux coopératives agricoles employant moins de onze salariés
-permanents.
+à 4° et 6° de l'article L. 722-1 ainsi qu'aux 2°, 3° et 6° de l'article L.
+722-20.
 
 Par dérogation à l'article L. 143-2 du code du travail, lorsqu'il est fait usage
 de ce titre, pour des travaux saisonniers, les salariés sont rémunérés à l'issue

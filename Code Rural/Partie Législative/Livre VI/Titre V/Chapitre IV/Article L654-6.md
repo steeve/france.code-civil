@@ -1,9 +1,15 @@
 Article L654-6
 ----
-En ce qui concerne les établissements d'abattage de volailles, lorsque ceux-ci
-ne satisfont pas par leurs aménagements, leurs équipements ou leur
-fonctionnement, aux conditions d'hygiène et de salubrité fixées par les
-règlements prévus par l'article 262 ou par la législation relative aux
-installations classées, le préfet peut, après mise en demeure de l'exploitant
-d'avoir à se conformer dans le délai imparti aux mesures prescrites, décider la
-fermeture temporaire ou définitive de l'établissement.
+Les usagers des abattoirs publics peuvent, dans des conditions définies par
+décret en Conseil d'Etat :
+
+1° Lorsque des opérations de manipulation, de préparation, de transformation, de
+conditionnement ou d'entreposage des produits d'origine animale destinés à la
+consommation humaine ne sont pas réalisées par l'exploitant dans l'enceinte de
+l'abattoir, y exécuter lesdites opérations ;
+
+2° Dans des cas limitativement prévus par ce décret, réaliser les mêmes
+opérations pour les sous-produits animaux non destinés à la consommation humaine
+visés par le règlement (CE) n° 1774/2002 du Parlement européen et du Conseil du
+3 octobre 2002, ainsi que leur commercialisation, dans les conditions prévues
+par celui-ci.

@@ -2,7 +2,7 @@ Article L272-2
 ----
 I. - Les mots "décret en Conseil d'Etat" et "décret" sont remplacés par les mots
 "arrêté du représentant du Gouvernement" aux articles L. 221-3, L. 223-3, L.
-223-4, L. 223-7, L. 223-18, L. 223-3-1, L. 231-5 et L. 232-3.
+223-4, L. 223-7, L. 223-18, L. 231-5 et L. 232-3.
 
 II. - Les pouvoirs conférés aux ministres par les articles L. 201-1, L. 202-1,
 L. 202-2, L. 202-3, L. 202-4, L. 221-1, L. 223-9 après avis du directeur de

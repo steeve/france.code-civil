@@ -13,11 +13,11 @@ A l'exception des coopératives agricoles qui font appel public à l'épargne, l
 2° de l'article L. 233-17 du code précité leur est applicable.
 
 Les comptes consolidés sont certifiés par deux commissaires aux comptes au moins
-dans les conditions prévues au deuxième alinéa de l'article L. 225-235 du code
-précité. Ceux-ci sont désignés conformément aux dispositions du troisième alinéa
-de l'article L. 612-1 du code de commerce. Lorsque les coopératives agricoles
-font appel public à l'épargne, un commissaire aux comptes au moins est choisi
-sur la liste mentionnée à l'article L. 225-219 du code précité.
+dans les conditions prévues à l'article L. 823-9 du code précité. Ceux-ci sont
+désignés conformément aux dispositions du troisième alinéa de l'article L. 612-1
+du code de commerce. Lorsque les coopératives agricoles font appel public à
+l'épargne, un commissaire aux comptes au moins est choisi sur la liste
+mentionnée à l'article L. 225-219 du code précité.
 
 Un décret en Conseil d'Etat fixe en tant que de besoin les conditions
 particulières applicables à la consolidation des comptes des coopératives

@@ -2,9 +2,9 @@ Article L223-5
 ----
 Tout propriétaire, toute personne ayant, à quelque titre que ce soit, la charge
 des soins ou la garde d'un animal atteint ou soupçonné d'être atteint de l'une
-des maladies contagieuses mentionnées aux articles L. 223-2 ou L. 223-3 est tenu
-d'en faire immédiatement la déclaration à un vétérinaire sanitaire ainsi qu'au
-maire de la commune où se trouve l'animal.
+des maladies contagieuses mentionnées à l'article L. 223-2 est tenu d'en faire
+immédiatement la déclaration à un vétérinaire sanitaire ainsi qu'au maire de la
+commune où se trouve l'animal.
 
 En outre, toute personne ayant, dans l'exercice d'une profession en rapport avec
 l'élevage, connaissance de l'existence d'un animal présentant des signes de

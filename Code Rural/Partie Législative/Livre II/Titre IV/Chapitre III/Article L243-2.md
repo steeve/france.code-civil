@@ -42,11 +42,11 @@ vocation sanitaire agréé par le ministre chargé de l'agriculture, ou relevant
 chapitre III du titre V du livre VI et des articles L. 671-9 à L. 671-11 et L.
 681-5 ;
 
-h) Les fonctionnaires et agents contractuels relevant du service des haras
-nationaux du ministère de l'agriculture titulaires d'une licence d'inséminateur
-pour l'espèce équine et spécialement habilités à cet effet, intervenant dans le
-cadre de leurs attributions sous l'autorité médicale d'un vétérinaire ou d'un
-docteur vétérinaire, pour la réalisation de constats de gestation, notamment par
+h) Les fonctionnaires et agents contractuels relevant de l'établissement public
+"les Haras nationaux" titulaires d'une licence d'inséminateur pour l'espèce
+équine et spécialement habilités à cet effet, intervenant dans le cadre de leurs
+attributions sous l'autorité médicale d'un vétérinaire ou d'un docteur
+vétérinaire, pour la réalisation de constats de gestation, notamment par
 échographie, des femelles équines.
 
 Les fonctionnaires et agents contractuels relevant du service des haras, des
