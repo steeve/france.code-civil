@@ -36,5 +36,18 @@ application de l'article L. 111-1-1.
 6. La liste des lotissements dont les règles d'urbanisme ont été maintenues en
 application de l'alinéa 2 de l'article L. 315-2-1.
 
-7. Le plan d'exposition au bruit d'un aérodrome , établi en application des
+7. Le plan d'exposition au bruit d'un aérodrome, établi en application des
 articles L. 147-1 à L. 147-6.
+
+8. Le classement des infrastructures de transports terrestres ainsi que les
+secteurs situés au voisinage de ces infrastructures qui sont affectés par le
+bruit, et dans lesquels existent des prescriptions d'isolement acoustique,
+déterminés en application de l'article 13 de la loi n° 92-1444 du 31 décembre
+1992 relative à la lutte contre le bruit. Ces documents portent référence des
+arrêtés préfectoraux correspondants et indication des lieux où ils peuvent être
+consultés.
+
+9° Les dispositions d'un projet de plan de prévention des risques naturels
+prévisibles rendues opposables en application de l'article 40-2 de la loi n°
+87-565 du 22 juillet 1987 relative à l'organisation de la sécurité civile, à la
+protection de la forêt contre l'incendie et à la prévention des risques majeurs.

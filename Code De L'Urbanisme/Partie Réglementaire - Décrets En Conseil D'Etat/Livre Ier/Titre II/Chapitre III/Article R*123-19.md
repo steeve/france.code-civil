@@ -51,6 +51,11 @@ l) Les périmètres à l'intérieur desquels l'autorité compétente peut sursoi
 statuer sur les demandes d'autorisation en application de l'article L. 111-10 ;
 
 m) Le périmètre des secteurs dans lesquels un programme d'aménagement d'ensemble
-a été approuvé en application de l'article L. 332-9.
+a été approuvé en application de l'article L. 332-9 ;
 
-2° Les zones d'aménagement concerté.
+n) Le périmètre des secteurs situés au voisinage des infrastructures de
+transports terrestres qui sont affectés par le bruit, et dans lesquels existent
+des prescriptions d'isolement acoustique, déterminés en application de l'article
+13 de la loi n° 92-1444 du 31 décembre 1992 relative à la lutte contre le bruit.
+
+2° (paragraphe abrogé).
