@@ -1,34 +1,33 @@
 Article D712-4
 ----
-Le collège national d'experts est composé de quinze membres permanents, dont le
-président, nommés [*mode de désignation*] par le ministre chargé de la santé en
-raison de leur compétence particulière en matière d'évaluation médicale et de
-l'organisation des soins ou de santé publique.
+Le collège national d'experts est composé de dix-sept membres nommés par le
+ministre chargé de la santé en raison de leur compétence particulière dans le
+domaine de l'évaluation en santé, de l'organisation des soins ou de la santé
+publique.
 
 Il comprend :
 
 1° Un médecin inspecteur de santé publique ;
 
-2° Un médecin-conseil nommé sur proposition conjointe des trois
-médecins-conseils nationaux appartenant respectivement à la Caisse nationale
-d'assurance maladie des travailleurs salariés, à la Caisse nationale d'assurance
-maladie maternité des travailleurs non salariés des professions non agricoles et
-aux caisses centrales de secours mutuels agricoles ;
+2° Un médecin-conseil nommé sur proposition conjointe des médecins-conseils
+nationaux de la Caisse nationale de l'assurance maladie des travailleurs
+salariés, de la Caisse nationale d'assurance maladie et maternité des
+travailleurs non salariés et de la Caisse centrale de la mutualité sociale
+agricole ;
 
 3° Un représentant de l'Institut national de la santé et de la recherche
 médicale ;
 
-4° Un inspecteur général de l'Institut national de la statistique et des études
-économiques ;
+4° Un représentant du Haut Comité de la santé publique ;
 
-5° Le directeur de l'Agence nationale pour le développement de l'évaluation
-médicale ;
-
-6° Un représentant de la Fédération nationale des observatoires régionaux de
+5° Un représentant de la Fédération nationale des observatoires régionaux de
 santé ;
 
-7° Deux praticiens hospitaliers, dont un exerçant dans un centre hospitalier
-universitaire ;
+6° Un représentant du conseil scientifique de l'Agence nationale d'accréditation
+et d'évaluation en santé ;
+
+7° Deux praticiens hospitaliers en activité, dont un exerçant dans un centre
+hospitalier et universitaire ;
 
 8° Un médecin exerçant dans un établissement de santé privé ;
 
@@ -37,7 +36,13 @@ public de santé ;
 
 10° Un infirmier général exerçant dans un établissement public de santé ;
 
-11° Un ingénieur biomédical hospitalier, nommé après avis du Centre national de
-l'équipement hospitalier ;
+11° Un ingénieur biomédical exerçant dans un établissement de santé public ou
+privé.
 
-12° Trois personnalités qualifiées.
+Le collège national comprend, en outre, cinq membres choisis par le ministre sur
+une liste de candidats désignés en leur sein par les collèges régionaux
+d'experts et représentant au moins trois catégories de membres de ces collèges.
+
+Le directeur des hôpitaux ou son représentant et le directeur général de la
+santé ou son représentant participent de droit aux travaux du collège national
+d'experts.

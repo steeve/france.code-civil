@@ -1,5 +1,5 @@
 Article D712-12
 ----
-A l'exception du médecin inspecteur régional de santé publique, les membres de
-la commission régionale sont nommés pour une période de trois ans, renouvelable
-[*mode de désignation, durée*].
+Le collège régional d'experts peut appeler à participer à ses travaux, à titre
+consultatif et temporaire, des personnes qualifiées dans le domaine de
+l'évaluation, de l'organisation des soins ou de la santé publique.
