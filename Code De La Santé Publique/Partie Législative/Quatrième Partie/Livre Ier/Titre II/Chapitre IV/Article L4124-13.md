@@ -9,6 +9,7 @@ de métropole de ces deux ordres.
 
 Les sages-femmes de la Guadeloupe, de la Guyane et de la Martinique sont
 soumises à la compétence du conseil interrégional de l'ordre des sages-femmes de
-la région Ile-de-France. Elles participent à l'élection des délégués des
-conseils départementaux de Paris au conseil interrégional de la région
-Ile-de-France de cet ordre.
+la région Ile-de-France. Les membres des conseils départementaux de l'ordre des
+sages-femmes de ces départements participent à l'élection des membres du conseil
+interrégional de l'ordre des sages-femmes dont relèvent les sages-femmes de la
+région Ile-de-France.

@@ -7,8 +7,9 @@ dix-neuf membres, à savoir :
 chargé de la santé sur la base du ressort territorial des conseils régionaux
 métropolitains ;
 
-2° Deux membres représentant, l'un les départements de Guadeloupe, de Martinique
-et de Guyane, l'autre le département de la Réunion ;
+2° Deux membres représentant, l'un, les chirurgiens-dentistes exerçant à la
+Guadeloupe, en Guyane et à la Martinique et, l'autre, les chirurgiens-dentistes
+exerçant à la Réunion et à Mayotte ;
 
 3° a) Trois membres supplémentaires pour le ressort territorial du Conseil
 régional Ile-de-France ; ces trois membres sont répartis entre les départements

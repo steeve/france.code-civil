@@ -1,9 +1,10 @@
 Article L4132-7
 ----
-Sous réserve des dispositions de l'article L. 4132-8, la chambre disciplinaire
-de première instance de l'ordre des médecins comprend neuf membres titulaires et
-neuf membres suppléants sauf en ce qui concerne la chambre de la région
-Rhône-Alpes qui comprend onze membres titulaires et onze membres suppléants.
+Sous réserve des dispositions des articles L. 4132-8 et L. 4132-8-1, la chambre
+disciplinaire de première instance de l'ordre des médecins comprend neuf membres
+titulaires et neuf membres suppléants sauf en ce qui concerne la chambre de la
+région Rhône-Alpes qui comprend onze membres titulaires et onze membres
+suppléants.
 
 Les membres de la chambre disciplinaire de première instance sont élus par les
 conseils départementaux parmi les personnes de nationalité française qui

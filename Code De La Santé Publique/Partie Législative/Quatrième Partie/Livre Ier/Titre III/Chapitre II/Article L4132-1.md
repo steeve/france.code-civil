@@ -20,15 +20,11 @@ régionaux désignés par arrêté du ministre chargé de la santé, compte tenu
 nombre des médecins inscrits aux derniers tableaux publiés pour l'ensemble des
 départements métropolitains.
 
-2° Quatre membres représentant respectivement les départements de la Guadeloupe,
-de la Guyane, de la Martinique et de la Réunion.
-
-Outre ces quatre membres titulaires, sont désignés, dans les mêmes conditions
-que ceux-ci, quatre suppléants qui sont obligatoirement élus parmi les médecins
-exerçant régulièrement en métropole.
-
-L'élection de ces membres titulaires et suppléants est opérée conformément aux
-règles fixées au 1° du présent article.
+2° Trois membres représentant respectivement les médecins exerçant à la
+Guadeloupe, en Guyane et à la Martinique et un membre représentant les médecins
+exerçant à la Réunion et à Mayotte. Chacun de ces quatre membres titulaires est
+assisté d'un suppléant. Ces membres titulaires et suppléants sont élus
+conformément aux règles fixées au 1° du présent article.
 
 3° Un membre de l'Académie nationale de médecine qui est désigné par ses
 collègues.
