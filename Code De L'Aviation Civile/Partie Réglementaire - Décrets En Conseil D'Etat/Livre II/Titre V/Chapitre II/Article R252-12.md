@@ -13,7 +13,7 @@ l'exploitation de l'aéroport.
 
 Il exerce toutes actions judiciaires tant en demande qu'en défense.
 
-" Il passe tous actes, contrats, traités et marchés. "
+Il passe tous actes, contrats, traités et marchés.
 
 Il nomme aux emplois de direction.
 
@@ -48,7 +48,9 @@ Il décide la mise à la disposition des usagers, sous le régime de l'occupatio
 temporaire du domaine public, des terrains, ouvrages et installations de
 l'aéroport, sous réserve de l'approbation du contrôleur d'Etat et du commissaire
 du Gouvernement lorsque l'occupation temporaire est prévue pour une durée
-supérieure à cinq ans.
+supérieure à cinq ans. Il décide, sous la même réserve, la délivrance des titres
+d'occupation du domaine public de l'Etat mentionnés à l'article R. 253-5,
+troisième alinéa.
 
 Il présente au ministre chargé de l'aviation civile ses propositions concernant
 les conditions d'établissement et de perception des redevances mentionnées au
@@ -60,6 +62,6 @@ l'article R. 224-3 dans les conditions prévues audit article.
 Il présente au ministre chargé de l'aviation civile et au ministre de l'économie
 et des finances ses propositions concernant les participations financières et
 les concessions d'affermages qu'il peut avoir intérêt à autoriser ainsi que la
-création de filiales ".
+création de filiales.
 
 Il peut déléguer une partie de ses attributions à son président.
