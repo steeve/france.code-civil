@@ -1,14 +1,22 @@
 Article D118-4
 ----
 L'employeur est tenu de reverser à l'Etat l'intégralité des sommes perçues au
-titre du soutien à l'embauche d'apprentis dans les cas suivants :
+titre de l'aide à l'embauche d'apprentis dans les cas suivants :
 
-a) Rupture du contrat de travail, à l'exception des cas de licenciement pour
-force majeure, de résiliation sur accord des cosignataires faisant suite à une
-demande écrite du jeune ou à l'obtention du diplôme ou du titre préparé en
-application du quatrième alinéa de l'article L. 115-2, ou, en cas de faute grave
-ou de manquements répétés de l'apprenti à ses obligations, de résiliation par le
-conseil de prud'hommes conformément aux dispositions de l'article L. 117-17 ;
+a) Rupture du contrat d'apprentissage à l'initiative de l'employeur hors des cas
+prévus par l'article L. 117-17 ;
 
-b) Décision d'opposition à l'engagement d'apprentis prise dans les conditions
+b) Résiliation du contrat d'apprentissage prononcée par le conseil de
+prud'hommes aux torts de l'employeur ;
+
+c) Décision d'opposition à l'engagement d'apprentis prise dans les conditions
 prévues par les articles L. 117-5 et L. 117-5-1.
+
+L'employeur qui entend contester la décision de reversement de l'aide à
+l'embauche doit, préalablement à tout recours contentieux et dans un délai d'un
+mois à compter de la notification de la décision, former un recours devant le
+directeur régional du travail, de l'emploi et de la formation professionnelle ou
+le chef du service régional de l'inspection du travail, de l'emploi et de la
+politique sociale agricoles en ce qui concerne les professions agricoles ou le
+directeur régional du travail des transports en ce qui concerne les entreprises
+ou les établissements relevant de son contrôle.
