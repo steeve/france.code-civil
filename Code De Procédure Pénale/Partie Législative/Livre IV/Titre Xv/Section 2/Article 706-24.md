@@ -8,20 +8,20 @@ que les perquisitions, visites domiciliaires et saisies de pièces à conviction
 pourront être faites sans l'assentiment de la personne chez laquelle elles ont
 lieu.
 
-[Les trois premiers alinéas de l'article 10 sont déclarés non conformes à la
+(Les trois premiers alinéas de l'article 10 sont déclarés non conformes à la
 Constitution par décision du Conseil constitutionnel n° 96-377 DC du 16 juillet
-1996 dans la mesure où ils visent les cas d'enquête préliminaire.]
+1996 dans la mesure où ils visent les cas d'enquête préliminaire).
 
-Si les nécessités de l'enquête [Dispositions déclarées non conformes à la
+Si les nécessités de l'enquête (Dispositions déclarées non conformes à la
 Constitution par décision du Conseil constitutionnel n° 96-377 DC du 16 juillet
-1996] l'exigent, les visites, perquisitions et saisies peuvent être opérées en
-dehors des heures prévues par l'article 59.
+1996) de flagrance l'exigent, les visites, perquisitions et saisies peuvent être
+opérées en dehors des heures prévues par l'article 59.
 
 Les opérations prévues à l'alinéa précédent doivent, à peine de nullité, être
 autorisées sur requête du procureur de la République par le président du
-tribunal de grande instance ou le juge délégué par lui, [Dispositions déclarées
+tribunal de grande instance ou le juge délégué par lui, (Dispositions déclarées
 non conformes à la Constitution par décision du Conseil constitutionnel n°
-96-377 DC du 16 juillet 1996] les autorisations sont données pour des
+96-377 DC du 16 juillet 1996) les autorisations sont données pour des
 perquisitions déterminées. Chaque autorisation fait l'objet d'une décision
 écrite, précisant la qualification de l'infraction dont la preuve est recherchée
 ainsi que l'adresse des lieux dans lesquels les visites, perquisitions et
