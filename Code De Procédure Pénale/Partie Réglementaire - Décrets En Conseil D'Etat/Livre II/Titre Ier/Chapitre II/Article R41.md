@@ -6,26 +6,32 @@ dans le cas contraire autre que le chef-lieu du département.
 
 COUR D'ASSISES :
 
-Département : Charente-Maritime.
 
-Siège : Saintes.
+DEPARTEMENTS
 
-Département : Manche.
+SIEGES
 
-Siège : Coutances.
 
-Département : Pas-de-Calais.
+Charente-Maritime
 
-Siège : Saint-Omer.
+Saintes
 
-Département : Saône-et-Loire.
 
-Siège : Chalon-sur-Saône.
+Manche
 
-Département : VAR.
+Coutances
 
-Siège : Draguignan (à titre temporaire).
 
-Département : Vaucluse.
+Pas-de-Calais
 
-Siège : Carpentras (à titre temporaire).
+Saint-Omer
+
+
+Saône-et-Loire
+
+Chalon-sur-Saône
+
+
+Var
+
+Draguignan (à titre temporaire)
