@@ -13,9 +13,7 @@ l'exploitation de l'aéroport.
 
 Il exerce toutes actions judiciaires tant en demande qu'en défense.
 
-Il passe tous actes, contrats, traités et marchés dans les conditions fixées par
-arrêté du ministre chargé de l'aviation civile et du ministre de l'économie et
-des finances.
+" Il passe tous actes, contrats, traités et marchés. "
 
 Il nomme aux emplois de direction.
 
@@ -61,6 +59,7 @@ l'article R. 224-3 dans les conditions prévues audit article.
 
 Il présente au ministre chargé de l'aviation civile et au ministre de l'économie
 et des finances ses propositions concernant les participations financières et
-les concessions d'affermages qu'il peut avoir intérêt à autoriser.
+les concessions d'affermages qu'il peut avoir intérêt à autoriser ainsi que la
+création de filiales ".
 
 Il peut déléguer une partie de ses attributions à son président.

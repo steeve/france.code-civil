@@ -7,10 +7,12 @@ Une section d'exploitation ;
 
 Une section d'opérations en capital. Pour cette dernière section, tous les
 chapitres relatifs aux dépenses d'investissement ont un caractère limitatif.
+Toutefois, en cours d'année, lorsque l'exécution des dépenses l'exige, des
+virements de chapitre à chapitre peuvent, sur proposition du directeur général,
+être autorisés par le contrôleur d'Etat.
 
 L'état de prévisions est présenté par le directeur général au conseil
-d'administration, qui l'adopte dans les conditions prévues à l'article R.
-252-12.
+d'administration qui l'adopte dans les conditions prévues à l'article R. 252-12.
 
 Les modifications reconnues nécessaires en cours d'exercice sont présentées et
 adoptées dans les mêmes conditions.
