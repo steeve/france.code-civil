@@ -15,7 +15,13 @@ maladies énumérées au même tableau ;
 
 - lorsque la sidérose visée au tableau n° 44 se manifeste par une insuffisance
 respiratoire chronique caractérisée et dans les cas de complications énumérées
-au même tableau.
+au même tableau ;
+
+- lorsqu'il s'agit d'une affection broncho-pulmonaire primitive visée au tableau
+n° 44 bis associée à une sidérose ;
+
+- lorsque la broncho-pneumopathie visée au tableau n° 91 se manifeste par une
+insuffisance respiratoire chronique caractérisée.
 
 Dans les cas de complications aiguës énumérées ci-après :
 
