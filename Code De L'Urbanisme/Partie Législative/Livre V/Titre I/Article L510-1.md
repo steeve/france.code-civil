@@ -38,6 +38,12 @@ ou les présidents des établissements publics, qui sont mentionnés au II,
 peuvent, par délégation et exclusivement dans le cadre d'une convention
 mentionnée au II, mettre en oeuvre la décision d'agrément mentionnée au même II.
 
+Les opérations visées au I ne sont pas soumises à agrément lorsqu'elles sont
+situées dans les zones franches urbaines définies au B du 3 de l'article 42 de
+la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le
+développement du territoire et lorsqu'elles visent la transformation de locaux
+en bureaux.
+
 V. - Un bilan de l'agrément est établi à l'expiration de chaque contrat de plan,
 dans les zones où cette procédure est instituée.
 

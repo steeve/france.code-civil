@@ -1,11 +1,17 @@
 Article L2143-2
 ----
-- Le conseil municipal peut créer des comités consultatifs sur tout problème
+Le conseil municipal peut créer des comités consultatifs sur tout problème
 d'intérêt communal concernant tout ou partie du territoire de la commune. Ces
 comités comprennent des personnes qui peuvent ne pas appartenir au conseil,
 notamment des représentants des associations locales.
 
-Il en fixe la composition sur proposition du maire.
+Chaque année, il en fixe la composition sur proposition du maire.
 
-Chaque comité est présidé par un membre du conseil municipal. Il établit chaque
-année un rapport communiqué au conseil municipal.
+Chaque comité est présidé par un membre du conseil municipal, désigné par le
+maire.
+
+Les comités peuvent être consultés par le maire sur toute question ou projet
+intéressant les services publics et équipements de proximité et entrant dans le
+domaine d'activité des associations membres du comité. Ils peuvent par ailleurs
+transmettre au maire toute proposition concernant tout problème d'intérêt
+communal pour lequel ils ont été institués.

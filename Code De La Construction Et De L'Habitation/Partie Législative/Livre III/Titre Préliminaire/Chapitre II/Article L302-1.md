@@ -7,9 +7,9 @@ communs en matière d'habitat.
 
 Le programme local de l'habitat définit, pour une durée au moins égale à cinq
 ans, les objectifs et les principes d'une politique visant à répondre aux
-besoins en logements et à assurer entre les communes et entre les quartiers
-d'une même commune une répartition équilibrée et diversifiée de l'offre de
-logements.
+besoins en logements et à favoriser la mixité sociale en assurant entre les
+communes et entre les quartiers d'une même commune une répartition équilibrée et
+diversifiée de l'offre de logements.
 
 Ces objectifs et ces principes tiennent compte de l'évolution démographique et
 économique, de l'évaluation des besoins des habitants actuels et futurs, de la
