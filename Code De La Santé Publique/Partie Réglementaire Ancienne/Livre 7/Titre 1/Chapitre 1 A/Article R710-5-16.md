@@ -1,4 +1,4 @@
-Article R712-56
+Article R710-5-16
 ----
 La commission établit chaque année et rend public un rapport analysant l'état et
 les perspectives d'évolution des systèmes d'information respectifs des ministres
@@ -11,8 +11,8 @@ qui concerne notamment :
 a) Les systèmes d'information spécifiques ou commun ;
 
 b) Les conditions de transmission des informations entre les établissements de
-santé, les ministres chargés de la santé et de la sécurité sociale et les
-organismes d'assurance maladie ;
+santé, les agences régionales de l'hospitalisation, les ministres chargés de la
+santé et de la sécurité sociale et les organismes d'assurance maladie ;
 
 c) La politique de diffusion de données issues des systèmes d'information
 respectifs ou commun.

@@ -1,4 +1,4 @@
-Article R712-55
+Article R710-5-15
 ----
 Les ministres chargés de la santé et de la sécurité sociale et les organismes
 d'assurance maladie tiennent la commission informée de l'ensemble des
