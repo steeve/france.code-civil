@@ -1,46 +1,22 @@
 Article R714-2-5
 ----
-La composition des conseils d'administration des centres hospitaliers et des
-centres hospitaliers régionaux ayant le caractère d'établissements publics de
-santé interdépartementaux est fixée comme suit :
+Les conseils d'administration des centres hospitaliers et des centres
+hospitaliers régionaux ayant le caractère d'établissements publics de santé
+interdépartementaux sont composés de vingt et un membres, à savoir
+[*composition*] :
 
-1° Quatre représentants des conseils généraux des départements intéressés, aucun
-département ne pouvant avoir plus de deux sièges ;
+1° Six représentants des départements concernés, désignés par les conseils
+généraux, aucun département ne pouvant avoir plus de quatre représentants ;
 
-2° Le maire de la commune siège de l'établissement, ou son représentant désigné
-en son sein par le conseil municipal de ladite commune sur proposition du maire
-;
+2° Un représentant de la commune dans laquelle l'établissement a son siège,
+désigné par le conseil municipal ;
 
-3° Un membre du conseil régional de la région dans laquelle l'établissement a
-son siège ;
+3° Un représentant de la région dans laquelle l'établissement a son siège,
+désigné par le conseil régional ;
 
-4° Six représentants des organismes de sécurité sociale dont :
+4° Les treize membres mentionnés aux 6° à 11° de l'article R. 714-2-1.
 
-a) Trois représentants de la ou des caisses régionales d'assurance maladie
-correspondant aux départements intéressés ;
-
-b) Un représentant de la caisse chargée du versement de la dotation globale ;
-
-c) Deux représentants de régimes d'assurance maladie autres que celui auquel est
-rattachée la caisse chargée du versement de la dotation globale, déterminés par
-le préfet du département où l'établissement a son siège en fonction de
-l'importance relative des fraix exposés dans l'établissement considéré par
-lesdits régimes pour leurs ressortissants ; à défaut d'accord entre les
-organismes de ces régimes, le préfet détermine sur la même base les organismes
-appelés à désigner ces représentants.
-
-5° Le président et le vice-président de la commission médicale d'établissement ;
-
-6° Deux autres membres de la commission médicale d'établissement ;
-
-7° Un membre de la commission du service de soins infirmiers ;
-
-8° Trois représentants des personnels titulaires relevant du titre IV du statut
-général des fonctionnaires ;
-
-9° Trois personnalités qualifiées dont un médecin et un représentant des
-professions paramédicales n'exerçant pas dans l'établissement.
-
-Sous réserve des dispositions du dernier alinéa de l'article L. 714-2, le
-président du conseil d'administration est élu par le conseil parmi les
-représentants des conseils généraux.
+Sous réserve des dispositions de l'avant-dernier alinéa de l'article L. 714-2,
+le président du conseil d'administration est élu par le conseil parmi les
+représentants des collectivités territoriales ou parmi les personnalités
+qualifiées.

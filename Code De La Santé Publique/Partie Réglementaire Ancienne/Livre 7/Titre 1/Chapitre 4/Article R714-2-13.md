@@ -1,5 +1,12 @@
 Article R714-2-13
 ----
-Chaque conseil d'administration élit un vice-président pour trois ans. En cas
-d'empêchement du président et du vice-président, la présidence des séances du
-conseil appartient au plus âgé des membres présents.
+Lorsque le président du conseil d'administration a été désigné par le maire ou
+le président du conseil général dans les conditions prévues au huitième alinéa
+de l'article L. 714-2, son mandat prend fin en même temps que le mandat électif
+du maire ou du président du conseil général.
+
+Si le président du conseil d'administration désigné dans les conditions
+susrappelées cesse d'être membre du conseil d'administration avant la fin du
+mandat électif du maire ou du président du conseil général qu'il a remplacé,
+celui-ci désigne le nouveau président, selon les mêmes modalités, pour la durée
+du mandat restant à courir.

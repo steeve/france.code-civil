@@ -1,33 +1,29 @@
 Article R714-2-1
 ----
-Sous réserve des dispositions de l'article 714-2-6, les conseils
+Sous réserve des dispositions de l'article R. 714-2-6, les conseils
 d'administration des centres hospitaliers et des centres hospitaliers régionaux
-ayant le caractère d'établissement publics de santé communaux sont composés de
-vingt-trois membres, à savoir :
+ayant le caractère d'établissements publics de santé communaux sont composés de
+vingt et un membres, à savoir :
 
-1° Le maire de la commune, ou son représentant désigné en son sein par le
-conseil municipal sur proposition du maire, président ;
+1° Le maire de la commune, président de droit ; lorsque le maire ne souhaite pas
+assurer les fonctions de président, il désigne son remplaçant parmi les membres
+mentionnés aux 2° à 5° et au 10° ci-dessous ; cette circonstance ne fait pas
+obstacle à ce que le maire reste membre du conseil d'administration ;
 
-2° Trois membres du conseil municipal de la commune autres que ceux mentionnés
-au 1° ;
+2° Trois représentants désignés par le conseil municipal de la commune ; ce
+chiffre est porté à quatre lorsque le maire, remplacé dans ses fonctions de
+président dans les conditions indiquées au 1° renonce, par ailleurs, à être
+membre du conseil d'administration ;
 
-3° Un membre du conseil général du département dans lequel est située la commune
-;
+3° Deux représentants de deux autres communes de la région, choisies selon les
+règles fixées au I de l'article R. 714-2-25 ; chacun de ces représentants est
+désigné par le conseil municipal de la commune intéressée ;
 
-4° Un membre du conseil régional ;
+4° Un représentant du département dans lequel est située la commune, désigné par
+le conseil général ;
 
-5° Six représentants des organismes de sécurité sociale, dont :
-
-a) Trois représentants de la caisse régionale d'assurance maladie ;
-
-b) Un représentant de la caisse chargée du versement de la dotation globale ;
-
-c) Deux représentants de régime d'assurance maladie autres que celui auquel
-appartient la caisse chargée du versement de la dotation globale, déterminés par
-le préfet du département en fonction de l'importance relative des frais exposés
-dans l'établissement considéré par chacun de ces régimes pour leurs
-ressortissants ; à défaut d'accord entre les organismes de ces régimes le préfet
-détermine sur la même base les organismes appelés à désigner ces représentants.
+5° Un représentant de la région dans laquelle est située la commune, désigné par
+le conseil régional ;
 
 6° Le président et le vice-président de la commission médicale d'établissement ;
 
@@ -38,9 +34,8 @@ détermine sur la même base les organismes appelés à désigner ces représent
 9° Trois représentants des personnels titulaires relevant du titre IV du statut
 général des fonctionnaires ;
 
-10° Trois personnalités connues pour leurs travaux sur les problèmes
-hospitaliers ou leur attachement à la cause hospitalière, dont :
+10° Trois personnalités qualifiées, dont un médecin non hospitalier n'exerçant
+pas dans l'établissement et un représentant non hospitalier des professions
+paramédicales ;
 
-a) Un médecin non hospitalier, n'exerçant pas dans l'établissement ;
-
-b) Un représentant non hospitalier des professions paramédicales.
+11° Deux représentants des usagers.

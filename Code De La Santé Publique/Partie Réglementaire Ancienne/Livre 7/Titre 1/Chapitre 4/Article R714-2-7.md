@@ -1,31 +1,25 @@
 Article R714-2-7
 ----
 I. - Les conseils d'administration des hôpitaux locaux ayant le caractère
-d'établissements publics de santé communaux sont composés de dix-neuf membres, à
+d'établissements publics de santé communaux sont composés de dix-sept membres, à
 savoir :
 
-1° Le maire de la commune, ou son représentant désigné en son sein par le
-conseil municipal sur proposition du maire, président ;
+1° Le maire de la commune, président ; lorsque le maire ne souhaite pas assurer
+les fonctions de président, il désigne son remplaçant parmi les membres
+mentionnés aux 2° à 4° et au 9° ci-dessous ; cette circonstance ne fait pas
+obstacle à ce que le maire reste membre du conseil d'administration ;
 
-2° Deux membres du conseil municipal de la commune autres que ceux désignés au
-1° ;
+2° Deux représentants désignés par le conseil municipal de la commune ; ce
+chiffre est porté à trois lorsque le maire, remplacé dans ses fonctions de
+président dans les conditions indiquées au 1° ci-dessus, renonce, par ailleurs,
+à être membre du conseil d'administration ;
 
-3° Deux membres du conseil général du département dans lequel est situé la
-commune ;
+3° Deux représentants de deux autres communes du secteur sanitaire, choisies
+selon les règles fixées au I de l'article R. 714-2-25 ; chacun de ces
+représentants est désigné par le conseil municipal de la commune intéressée ;
 
-4° Cinq représentants des organismes de sécurité sociale, dont :
-
-a) Deux représentants de la caisse régionale d'assurance maladie ;
-
-b) Un représentant de la caisse chargée du versement de la dotation globale ;
-
-c) Deux représentants de régimes d'assurance maladie autres que celui auquel
-appartient la caisse chargée du versement de la dotation globale, déterminés par
-le préfet du département en fonction de l'importance relative des frais exposés
-dans l'établissement considéré par chacun de ces régimes pour leur
-ressortissants ; à défaut d'accord entre les organismes de ces régimes, le
-préfet détermine sur la même base les organismes appelés à désigner ces
-représentants ;
+4° Un représentant du département dans lequel est située la commune, désigné par
+le conseil général ;
 
 5° Le président et le vice-président de la commission médicale d'établissement ;
 
@@ -36,50 +30,38 @@ représentants ;
 8° Deux représentants des personnels titulaires relevant du titre IV du statut
 général des fonctionnaires ;
 
-9° Trois personnalités connues pour leurs travaux sur les problèmes hospitaliers
-ou leur attachement à la cause hospitalière, dont un médecin non hospitalier
-n'exerçant pas dans l'établissement et un représentant non hospitalier des
-professions paramédicales.
+9° Trois personnalités qualifiées, dont un médecin non hospitalier n'exerçant
+pas dans l'établissement et un représentant non hospitalier des professions
+paramédicales ;
+
+10° Deux représentants des usagers.
 
 II. - Lorsque l'hôpital local est un hôpital intercommunal, le conseil
-d'administration comprend :
+d'administration comprend dix-sept membres, à savoir :
 
-1° Les trois membres mentionnés au 1° de l'article R. 714-2-2 ;
+1° Cinq représentants des communes concernées désignés par leurs conseils
+municipaux, dont un représentant au moins de la commune siège, aucune commune ne
+pouvant avoir plus de trois représentants ;
 
-2° Le maire de la commune siège de l'établissement, ou son représentant désigné
-en son sein par le conseil municipal de ladite commune sur proposition du maire
-;
+2° Un représentant du département dans lequel est située la commune, désigné par
+le conseil général ;
 
-3° Un membre du conseil général du département dans lequel est située la commune
-siège de l'établissement ;
+3° Le président et le vice-président de la commission médicale d'établissement ;
 
-4° Cinq représentants des organismes de sécurité sociale, dont :
+4° Un autre membre de la commission médicale d'établissement ;
 
-a) Trois représentants de la caisse régionale d'assurance maladie ;
+5° Un membre de la commission du service de soins infirmiers ;
 
-b) Un représentant de la caisse chargée du versement de la dotation globale ;
-
-c) Un représentant d'un régime d'assurance maladie autre que celui auquel
-appartient la caisse chargée du versement de la dotation globale, déterminé par
-le préfet du département en fonction de l'importance relative des frais exposés
-dans l'établissement considéré par ledit régime pour ses ressortissants ; à
-défaut d'accord entre les organismes de ce régime, le préfet détermine sur la
-même base l'organisme appelé à désigner l'intéressé ;
-
-5° Le président et le vice-président de la commission médicale d'établissement ;
-
-6° Un autre membre de la commission médicale d'établissement ;
-
-7° Un membre de la commission du service de soins infirmiers ;
-
-8° Deux représentants des personnels titulaires relevant du titre IV du statut
+6° Deux représentants des personnels titulaires relevant du titre IV du statut
 général des fonctionnaires ;
 
-9° Trois personnalités connues pour leurs travaux sur les problèmes hospitaliers
-ou leur attachement à la cause hospitalière, dont un médecin non hospitalier
-n'exerçant pas dans l'établissement et un représentant non hospitalier des
-professions paramédicales.
+7° Trois personnalités qualifiées dont un médecin non hospitalier n'exerçant pas
+dans l'établissement et un représentant non hospitalier des professions
+paramédicales ;
 
-Sous réserve des dispositions du dernier alinéa de l'article L. 714-2, le
-président du conseil d'administration est élu par le conseil parmi les
-représentants des conseils municipaux.
+8° Deux représentants des usagers.
+
+Sous réserve des dispositions de l'avant-dernier alinéa de l'article L. 714-2,
+le président du conseil d'administration est élu par le conseil parmi les
+représentants des collectivités territoriales ou parmi les personnalités
+qualifiées.
