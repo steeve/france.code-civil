@@ -3,7 +3,11 @@ Article 350
 L'enfant recueilli par un particulier, une oeuvre privée ou un service de l'aide
 sociale à l'enfance, dont les parents se sont manifestement désintéressés
 pendant l'année qui précède l'introduction de la demande en déclaration
-d'abandon, peut être déclaré abandonné par le tribunal de grande instance.
+d'abandon, peut être déclaré abandonné par le tribunal de grande instance. La
+demande en déclaration d'abandon est obligatoirement transmise par le
+particulier, l'oeuvre privée ou le service de l'aide sociale à l'enfance à
+l'expiration du délai d'un an dès lors que les parents se sont manifestement
+désintéressés de l'enfant.
 
 Sont considérés comme s'étant manifestement désintéressés de leur enfant les
 parents qui n'ont pas entretenu avec lui les relations nécessaires au maintien
