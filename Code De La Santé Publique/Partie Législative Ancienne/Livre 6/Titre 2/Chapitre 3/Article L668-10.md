@@ -1,7 +1,0 @@
-Article L668-10
-----
-L'Etablissement français du sang assume même sans faute, la responsabilité des
-risques encourus par les donneurs à raison des opérations de prélèvement.
-
-Il doit contracter une assurance couvrant sa responsabilité du fait de ces
-risques.
