@@ -2,7 +2,7 @@ Article R243-7
 ----
 En cas de cession de l'entreprise ou de cessation d'activité de l'entreprise ou
 de l'un de ses établissements, le versement des cotisations est exigible dans un
-délai de dix jours. Ce délai court :
+délai de trente jours. Ce délai court :
 
 1°) lorsqu'il s'agit de la vente ou de la cession d'un fonds de commerce, du
 jour où la vente ou la cession a été publiée dans le Bulletin officiel des
