@@ -35,21 +35,15 @@ techniques modernes de l'agriculture, sont considérées comme des dépenses
 d'amélioration non rentables à condition que la construction nouvelle n'entraîne
 pas une augmentation du fermage;
 
-d Une déduction forfaitaire fixée à 10 % (1) des revenus bruts et représentant
-les frais de gestion et l'amortissement. En ce qui concerne les constructions
+d Une déduction forfaitaire fixée à 10 % des revenus bruts et représentant les
+frais de gestion et l'amortissement. En ce qui concerne les constructions
 nouvelles, reconstructions et additions de construction qui bénéficient de
-l'exonération de vingt-cinq ans de taxe foncière sur les propriétés bâties
-prévue à l'article 1385, le taux de la déduction forfaitaire est porté à 15 %
+l'exonération de quinze ans de taxe foncière sur les propriétés bâties prévue à
+l'article 1385 II bis, le taux de la déduction forfaitaire est porté à 15 %
 pendant la durée de cette exonération; le taux de 15 % s'applique également aux
 revenus provenant des biens ruraux placés sous le régime des baux à long terme
 mentionnés à l'article 743-2° ;
 
-e En ce qui concerne les bâtiments servant aux exploitations rurales, les
-charges énumérées au 2°-a à d, à la condition que le propriétaire renonce de
-façon expresse et définitive, pour l'ensemble de ses propriétés, à l'exemption
-prévue à l'égard de ces bâtiments à l'article 15-I.
+e (Devenu sans objet).
 
 II (Transféré sous l'article 156-II-1° ter).
-
-1) Les taux de 10 % et de 15 % s'appliquent pour la première fois aux revenus de
-l'année 1981.
