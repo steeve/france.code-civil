@@ -1,10 +1,10 @@
 Article L531-2
 ----
 En cas de difficultés financières de nature à compromettre le fonctionnement
-normal d'une mutuelle, l'autorité administrative peut, sur proposition de
-l'assemblée générale, confier, pour une durée maximum d'un an, tout ou partie
-des pouvoirs dévolus au conseil d'administration de cette mutuelle, et notamment
-celui de fixer les montants ou les taux des cotisations, à un ou plusieurs
+normal d'une mutuelle, la commission peut, sur proposition de l'assemblée
+générale, confier, pour une durée maximum d'un an, tout ou partie des pouvoirs
+dévolus au conseil d'administration de cette mutuelle, et notamment celui de
+fixer les montants ou les taux des cotisations, à un ou plusieurs
 administrateurs provisoires choisis par l'assemblée générale en dehors des
 membres du conseil d'administration.
 

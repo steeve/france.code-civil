@@ -11,7 +11,11 @@ Ne sont pas soumises à cette obligation :
 
 a) Les entreprises et organismes régis par le code des assurances ;
 
-b) Les institutions définies aux articles L. 3 et L. 4 du code de la sécurité
-sociale ;
+b) Les institutions définies à l'article L. 732-1 du code de la sécurité sociale
+;
 
 c) Les institutions régies par le titre II du livre VII du code rural.
+
+Les mutuelles qui gèrent un régime obligatoire de sécurité sociale sont régies
+par le présent code, sous réserve des dispositions législatives, réglementaires
+et statutaires qui sont propres à la gestion d'un tel régime.

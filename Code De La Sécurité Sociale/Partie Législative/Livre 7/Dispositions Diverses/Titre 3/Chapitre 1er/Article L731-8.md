@@ -1,11 +1,11 @@
 Article L731-8
 ----
-Les régimes complémentaires de retraite ou de prévoyance des salariés sont créés
-ou modifiés soit par voie d'accord collectif interprofessionnel, professionnel
-ou d'entreprise, soit à la suite d'une ratification à la majorité des
-intéressés, dans les conditions fixées par décret en Conseil d'Etat, d'un projet
-d'accord proposé par le chef d'entreprise.
+Les régimes de retraites complémentaires obligatoires et facultatifs prévoient,
+dans leurs règlements, les conditions d'attribution d'une pension de réversion
+au conjoint séparé de corps ou divorcé non remarié, quelle que soit la cause de
+la séparation de corps ou du divorce.
 
-Ils peuvent également faire l'objet de stipulations dans les conventions
-collectives susceptibles d'être étendues ou élargies conformément aux
-dispositions du chapitre III du titre III du livre premier du code du travail.
+En cas d'attribution d'une pension de réversion au conjoint survivant et au
+conjoint divorcé, les droits de chacun d'entre eux ne pourront être inférieurs à
+la part qui lui reviendrait si celle-ci était calculée en fonction de la durée
+respective de chaque mariage.

@@ -1,7 +1,13 @@
 Article L731-4
 ----
-Par dérogation aux dispositions de l'article L. 731-1, il peut être créé, dans
-les conditions fixées au premier alinéa de l'article L. 644-1, une institution
-de prévoyance obligatoire commune aux personnes salariées et non-salariées
-exerçant, à titre principal ou non, les professions de moniteur de ski, de guide
-de haute montagne et d'accompagnateur en moyenne montagne.
+Aucune disposition comportant une discrimination fondée sur le sexe ne peut être
+insérée, à peine de nullité, dans un accord de retraite ou de prévoyance tel que
+défini à l'article L. 731-1, dans une clause de convention collective ayant le
+même objet ou dans les statuts, règlements et annexes tarifaires des
+institutions autorisées à fonctionner en application de l'article L. 732-1 .
+
+L'alinéa précédent ne fait pas obstacle aux dispositions relatives à la
+protection de la femme en raison de la maternité.
+
+Il ne s'applique pas aux dispositions relatives à la fixation de l'âge de la
+retraite et aux conditions d'attribution des pensions de reversion.
