@@ -15,11 +15,11 @@ celui-ci est défini à l'article L. 439-1 ;
 du capital entre les actionnaires détenant plus de 10 % du capital et la
 position de l'entreprise dans la branche d'activité à laquelle elle appartient.
 
-Au moins une fois par an, le chef d'entreprise présente au comité d'entreprise
-un rapport d'ensemble écrit sur l'activité de l'entreprise, le chiffre
-d'affaires, les bénéfices ou pertes constatés, les résultats globaux de la
-production en valeur et en volume, les transferts de capitaux importants entre
-la société mère et les filiales, la situation de la sous-traitance,
+Au moins une fois par an [*périodicité*], le chef d'entreprise présente au
+comité d'entreprise un rapport d'ensemble écrit sur l'activité de l'entreprise,
+le chiffre d'affaires, les bénéfices ou pertes constatés, les résultats globaux
+de la production en valeur et en volume, les transferts de capitaux importants
+entre la société mère et les filiales, la situation de la sous-traitance,
 l'affectation des bénéfices réalisés, les aides ou avantages financiers
 consentis à l'entreprise par l'Etat, les régions et les collectivités locales et
 leur emploi, les investissements, l'évolution de la structure et du montant des
@@ -58,21 +58,36 @@ prévues par la loi n° 66-537 du 24 juillet 1966 modifiée.
 Le comité d'entreprise reçoit communication des documents comptables établis par
 les entreprises qui ne revêtent pas la forme de société commerciale.
 
+Dans les sociétés visées à l'article 340-1 de la loi n° 66-537 du 24 juillet
+1966 modifiée sur les sociétés commerciales, les documents établis en
+application de cet article et des articles 340-2 et 340-3 de la même loi sont
+communiqués au comité d'entreprise. Il en est de même dans les sociétés non
+visées à cet article qui établissent ces documents. Les informations données au
+comité d'entreprise en application du présent alinéa sont réputées
+confidentielles au sens de l'article L. 432-7. Les dispositions qui précèdent
+s'appliquent aux groupements d'intérêt économique mentionnés à l'article 10-1 de
+l'ordonnance n° 67-821 du 23 septembre 1967 sur les groupements d'intérêt
+économique.
+
+Le comité d'entreprise reçoit également communication du rapport visé aux
+articles 64-2 et 226 de la loi du 24 juillet 1966 susvisée et des réponses,
+rapports et délibérations dans les cas prévus aux articles 230-1, 230-2 de la
+même loi et 10-3 de l'ordonnance du 23 septembre 1967 susvisée.
+
 Au cours de chaque trimestre, le chef d'entreprise communique au comité
 d'entreprise des informations sur l'évolution générale des commandes et de la
-situation financière, sur l'exécution des programmes de production [*loi 25 du
-19 janvier 1983 :*] ainsi que sur la situation de l'entreprise au regard des
-cotisations de sécurité sociale. Chaque trimestre dans les entreprises d'au
-moins trois cents salariés et chaque semestre dans les autres, le chef
-d'entreprise informe également le comité des mesures envisagées en ce qui
-concerne l'amélioration, le renouvellement ou la transformation de l'équipement
-ou des méthodes de production et d'exploitation et de leurs incidences sur les
-conditions de travail et d'emploi. La situation de l'emploi est analysée en
-retraçant l'évolution des effectifs et de la qualification des salariés par
-sexe, y compris pour les salariés sous contrat à durée déterminée, les
-travailleurs temporaires et les salariés appartenant à une entreprise
-extérieure. L'employeur doit également préciser les motifs l'ayant amené à
-recourir à ces trois catégories de personnel. Le comité peut prendre
+situation financière, sur l'exécution des programmes de production ainsi que sur
+la situation de l'entreprise au regard des cotisations de sécurité sociale.
+Chaque trimestre dans les entreprises d'au moins trois cents salariés et chaque
+semestre dans les autres, le chef d'entreprise informe également le comité des
+mesures envisagées en ce qui concerne l'amélioration, le renouvellement ou la
+transformation de l'équipement ou des méthodes de production et d'exploitation
+et de leurs incidences sur les conditions de travail et d'emploi. La situation
+de l'emploi est analysée en retraçant l'évolution des effectifs et de la
+qualification des salariés par sexe, y compris pour les salariés sous contrat à
+durée déterminée, les travailleurs temporaires et les salariés appartenant à une
+entreprise extérieure. L'employeur doit également préciser les motifs l'ayant
+amené à recourir à ces trois catégories de personnel. Le comité peut prendre
 connaissance des contrats passés avec les entreprises de travail temporaire pour
 la mise à disposition des travailleurs temporaires ainsi qu'avec les
 établissements de travail protégé lorsque ceux-ci prévoient la formation et

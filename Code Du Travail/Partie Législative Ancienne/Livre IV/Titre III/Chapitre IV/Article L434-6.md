@@ -1,9 +1,13 @@
 Article L434-6
 ----
 Le comité d'entreprise peut se faire assister d'un expert-comptable de son choix
-en vue de l'examen annuel des comptes prévu à l'article L. 432-4 et lorsque la
-procédure de consultation prévue à l'article L. 321-3 pour licenciement
-économique d'ordre structurel ou conjoncturel doit être mise en oeuvre.
+en vue de l'examen annuel des comptes prévus à l'article L. 432-4, alinéa 9 et
+13, et, dans la limite de deux fois par exercice, en vue de l'examen des
+documents mentionnés au dizième alinéa du même article. Il peut également se
+faire assister d'un expert-comptable dans les conditions prévues à l'article L.
+432-5 et lorsque la procédure de consultation prévue à l'article L. 321-3 pour
+licenciement économique d'ordre structurel ou conjoncturel doit être mise en
+oeuvre.
 
 La mission de l'expert-comptable porte sur tous les éléments d'ordre économique,
 financier ou social nécessaires à l'intelligence des comptes et à l'appréciation
@@ -13,11 +17,10 @@ Pour opérer toute vérification ou tout contrôle qui entre dans l'exercice de 
 missions, l'expert-comptable a accès aux mêmes documents que le commissaire aux
 comptes [*information*].
 
-Le comité d'entreprise, dans les entreprises d'au moins trois cents salariés
-[*effectif*], peut, en outre, avoir recours à un expert à l'occasion de tout
-projet important dans les cas énumérés à l'article L. 432-2 [*introduction de
-nouvelles technologies*]. Cet expert dispose des éléments d'information prévus à
-ce même article.
+Le comité d'entreprise, dans les entreprises d'au moins trois cents salariés,
+peut, en outre, avoir recours à un expert à l'occasion de tout projet important
+dans les cas énumérés à l'article L. 432-2. Cet expert dispose des éléments
+d'information prévus à ce même article.
 
 L'expert-comptable et l'expert visé à l'alinéa ci-dessus sont rémunérés par
 l'entreprise. Ils ont libre accès dans l'entreprise.

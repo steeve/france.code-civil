@@ -1,7 +1,13 @@
 Article L432-9
 ----
-Le comité d'entreprise émet des avis et voeux dans l'exercice des attributions
-consultatives définies aux articles L. 432-1 à L. 432-4.
+La contribution versée chaque année par l'employeur pour financer des
+institutions sociales du comité d'entreprise ne peut, en aucun cas, être
+inférieure au total le plus élevé des sommes affectées aux dépenses sociales de
+l'entreprise atteint au cours des trois dernières années [*période*] précédant
+la prise en charge des activités sociales et culturelles par le comité
+d'entreprise, à l'exclusion des dépenses temporaires lorsque les besoins
+correspondants ont disparu.
 
-Le chef d'entreprise rend compte en la motivant de la suite donnée à ces avis et
-voeux.
+Le rapport de cette contribution au montant global des salaires payés ne peut
+non plus être inférieur au même rapport existant pour l'année de référence
+définie à l'alinéa précédent.
