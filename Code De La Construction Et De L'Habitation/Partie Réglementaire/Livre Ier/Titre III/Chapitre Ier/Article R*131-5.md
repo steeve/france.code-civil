@@ -2,8 +2,8 @@ Article R*131-5
 ----
 En ce qui concerne les immeubles collectifs autres que ceux qui sont mentionnés
 à l'article R. 131-4, la date limite pour la mise en service des appareils
-prévus à l'article R. 131-3 est le 31 décembre 1985 [*détermination quantité de
-chaleur*].
+prévus à l'article R. 131-3 [*détermination quantité de chaleur*] est le 31
+décembre 1990 [*date*] .
 
 Toutefois ledit article n'est applicable ni aux immeubles où il est
 techniquement impossible de poser les appareils de mesure, ni aux immeubles dans
