@@ -20,7 +20,8 @@ pour ceux qui, ayant obtenu le bénéfice des dispositions de l'article L. 10,
 effectuent un service autre que ceux de l'aide technique, de la coopération ou
 des objecteurs de conscience.
 
-b) Des périodes d'exercice qui peuvent être effectuées au titre d'une forme de
-service national autre que celle dans laquelle a été accompli le service actif ;
-la durée totale de ces périodes ne peut excéder six mois et chacune d'elles ne
-peut dépasser un mois.
+b) Des périodes qui peuvent être effectuées au titre d'une forme de service
+national autre que celle dans laquelle a été accompli le service actif ; la
+durée totale de ces périodes ne peut excéder six mois et chacune d'elles ne peut
+dépasser un mois. Ces dispositions sont applicables sous réserve des
+dispositions du chapitre Ier du titre III.

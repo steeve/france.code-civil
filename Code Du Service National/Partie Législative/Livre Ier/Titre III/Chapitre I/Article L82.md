@@ -6,7 +6,7 @@ l'article L. 83.
 
 Ils sont tenus de rejoindre leur formation ou leur poste en cas de mobilisation
 générale ou partielle, ordonnée par décret, en cas de rappel par ordre
-individuel et en cas de convocation pour les périodes d'exercice.
+individuel et en cas de convocation pour les périodes.
 
 Il peut être procédé au rappel des disponibles et réservistes d'une manière
 distincte et indépendante par armée, arme, service, unité ou partie du
