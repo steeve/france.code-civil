@@ -3,14 +3,13 @@ Article R*261-19
 La garantie d'achèvement résulte également :
 
 a) Si la vente porte sur une maison individuelle, dont les fondations sont
-achevées et à condition que les versements prévus n'excèdent pas au total
-[*montant*] :
+achevées et à condition que les versements prévus n'excèdent pas au total :
 
-20 p. 100 du prix à l'achèvement des fondations ;
+20 % du prix à l'achèvement des fondations ;
 
-45 p. 100 à la mise hors d'eau ;
+45 % à la mise hors d'eau ;
 
-85 p. 100 à l'achèvement de la maison.
+85 % à l'achèvement de la maison.
 
 Le solde est payé ou consigné comme il est dit pour le solde prévu à l'article
 R. 261-14.
@@ -28,6 +27,4 @@ qualifiée à cet effet ;
 b) Si la vente est réalisée par une société d'économie mixte de construction
 agréée à cet effet par le ministre chargé des finances et le ministre chargé de
 la construction et de l'habitation ou dont une collectivité publique détient au
-moins 35 p. 100 du capital social ;
-
-c) Si la vente est réalisée par un organisme d'habitations à loyer modéré.
+moins 35 % du capital social.
