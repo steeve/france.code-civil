@@ -1,28 +1,14 @@
 Article R323-6
 ----
-I. - Les voitures particulières et les camionnettes doivent faire l'objet :
+I.-Les contrôles techniques prévus au présent chapitre sont effectués par les
+services de l'Etat ou par un contrôleur agréé par l'Etat exerçant ses fonctions,
+dans les conditions prévues par la présente section, dans des installations de
+contrôle agréées rattachées, le cas échéant, à un réseau de contrôle agréé.
 
-1° D'un contrôle technique dans les six mois précédant l'expiration d'un délai
-de quatre ans à compter de la date de leur première mise en circulation ;
-
-2° Postérieurement à ce contrôle, d'un contrôle technique périodique, renouvelé
-tous les deux ans ;
-
-3° Avant toute mutation intervenant au-delà du délai de quatre ans prévu au 1°
-ci-dessus, d'un contrôle technique, dont sont toutefois dispensés les véhicules
-ayant subi un contrôle technique dans les six mois précédant la date de demande
-d'établissement du nouveau certificat d'immatriculation.
-
-II. - En outre, les camionnettes doivent faire l'objet, dans les deux mois
-précédant l'expiration d'un délai d'un an après chaque contrôle technique
-réalisé à partir du 1er janvier 1999, d'un contrôle technique complémentaire
-portant sur le contrôle des émissions polluantes.
-
-III. - Ne sont pas soumis à ces obligations les véhicules devant subir un
-contrôle technique en application d'une réglementation spécifique, notamment les
-véhicules de moins de dix places, conducteur compris, affectés au transport
-public de personnes, les véhicules utilisés pour les transports sanitaires
-terrestres, les véhicules utilisés pour l'enseignement de la conduite des
-véhicules à moteur, les véhicules utilisés dans le cadre de l'exploitation des
-entreprises de remise et de tourisme, ainsi que les taxis et les voitures de
-remise.
+II.-Pour l'application de la présente section, sont considérés comme véhicules
+légers les véhicules mentionnés à l'article R. 323-22 et les véhicules
+mentionnés aux articles R. 323-24 et R. 323-26 dont le poids total autorisé en
+charge n'excède pas 3, 5 tonnes. Sont considérés comme véhicules lourds les
+véhicules mentionnés aux articles R. 323-23 et R. 323-25 et les véhicules
+mentionnés aux articles R. 323-24 et R. 323-26 dont le poids total autorisé en
+charge est supérieur à 3, 5 tonnes.

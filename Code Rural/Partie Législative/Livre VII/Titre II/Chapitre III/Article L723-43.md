@@ -7,8 +7,18 @@ de l'Etat dans le département les renseignements qu'ils détiennent, à
 l'exception des informations à caractère médical, pour les besoins du contrôle
 des conditions d'attribution des aides à caractère économique.
 
-Un décret en Conseil d'Etat, pris après avis de la commission nationale de
-l'informatique et des libertés, rendu selon les modalités prévues à l'article 15
-de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et
-aux libertés, fixe le contenu et les conditions de cette communication ainsi que
-son emploi par l'administration.
+Les caisses et organismes de mutualité sociale agricole mentionnés à l'alinéa
+précédent sont également autorisés à communiquer aux services de l'inspection du
+travail, de l'emploi et de la politique sociale agricole les renseignements
+qu'ils détiennent, à l'exception des informations à caractère médical, pour les
+besoins des services placés sous l'autorité du ministre chargé de l'agriculture
+en vue de la promotion de l'emploi agricole ainsi que du contrôle de
+l'application de la législation et de la réglementation dans les matières
+suivantes : régime du travail, conventions et accords collectifs de travail,
+emploi, régimes de protection sociale des salariés et non-salariés des
+professions agricoles.
+
+Un décret en Conseil d'Etat, pris après avis de la Commission nationale de
+l'informatique et des libertés, fixe le contenu et les conditions des
+communications mentionnées au présent article ainsi que de leur emploi par
+l'administration.

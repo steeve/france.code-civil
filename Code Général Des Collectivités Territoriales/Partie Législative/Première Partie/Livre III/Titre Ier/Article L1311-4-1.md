@@ -14,7 +14,8 @@ parties, le lieu d'implantation de la ou des constructions projetées et le
 programme technique de construction. Elle fixe également la durée et les
 modalités de la mise à disposition des constructions.
 
-Les constructions mentionnées au présent article peuvent donner lieu à la
+Les constructions mentionnées au présent article ainsi que celles qui sont
+réalisées dans le cadre de contrats de partenariat peuvent donner lieu à la
 conclusion de contrats de crédit-bail. Dans ce cas, le contrat comporte des
 clauses permettant de préserver les exigences du service public.
 

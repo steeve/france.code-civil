@@ -41,13 +41,26 @@ Les haras.
 Sous réserve des dispositions du 9°, cette exonération n'est pas applicable aux
 immeubles qui appartiennent à des établissements publics autres que les
 établissements publics de coopération intercommunale, les syndicats mixtes, les
-ententes interdépartementales, (1) les établissements scientifiques,
-d'enseignement et d'assistance, ni aux organismes de l'Etat, des départements ou
-des communes ayant un caractère industriel ou commercial.
+ententes interdépartementales, les établissements scientifiques, d'enseignement
+et d'assistance, ni aux organismes de l'Etat, des départements ou des communes
+ayant un caractère industriel ou commercial.
 
 Les immeubles qui sont incorporés gratuitement au domaine de l'Etat, des
 collectivités locales ou des établissements publics, en vertu d'une convention,
 sont imposables jusqu'à l'expiration de celle-ci.
+
+1° bis Pendant toute la durée du contrat et dans les mêmes conditions que celles
+prévues au 1°, les immeubles construits dans le cadre de contrats de partenariat
+et qui, à l'expiration du contrat, sont incorporés au domaine de la personne
+publique conformément aux clauses de ce contrat.
+
+Pour l'application des conditions prévues au 1°, la condition relative à
+l'absence de production de revenus doit être appréciée au regard de la personne
+publique au domaine de laquelle l'immeuble doit être incorporé.
+
+Pour bénéficier de cette exonération, le titulaire du contrat doit joindre à la
+déclaration prévue à l'article 1406 une copie du contrat et tout document
+justifiant de l'affectation de l'immeuble.
 
 2° (Périmé).
 
@@ -115,5 +128,3 @@ demeurent la propriété de l'Etat ;
 11° Les outillages et autres installations et moyens matériels d'exploitation
 des établissements industriels à l'exclusion de ceux visés à l'article 1381 1°
 et 2°.
-
-(1) Ces dispositions s'appliquent aux impositions établies à compter de 1999.

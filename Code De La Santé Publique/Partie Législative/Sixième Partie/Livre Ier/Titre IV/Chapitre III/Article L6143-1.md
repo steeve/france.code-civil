@@ -66,8 +66,9 @@ réglementaires ;
 
 17° Les hommages publics ;
 
-18° Les baux emphytéotiques mentionnés à l'article L. 6148-2 et les conventions
-conclues en application de l'article L. 6148-3 et de l'article L. 1311-4-1 du
-code général des collectivités territoriales, lorsqu'elles répondent aux besoins
-d'un établissement public de santé ou d'une structure de coopération sanitaire
-dotée de la personnalité morale publique.
+18° Les baux emphytéotiques mentionnés à l'article L. 6148-2, les contrats de
+partenariat conclus en application du titre Ier de l'ordonnance n° 2004-559 du
+17 juin 2004 et les conventions conclues en application de l'article L. 6148-3
+et de l'article L. 1311-4-1 du code général des collectivités territoriales,
+lorsqu'elles répondent aux besoins d'un établissement public de santé ou d'une
+structure de coopération sanitaire dotée de la personnalité morale publique.

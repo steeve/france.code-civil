@@ -34,6 +34,7 @@ d'acquérir, avant le terme fixé par le bail, les installations rénovées ou
 édifiées par le titulaire.
 
 Le financement des constructions dans le cadre des baux emphytéotiques
-mentionnés au présent article peut donner lieu à la conclusion de contrats de
+mentionnés au présent article ainsi que de celles qui sont réalisées dans le
+cadre de contrats de partenariat peut donner lieu à la conclusion de contrats de
 crédit-bail. Dans ce cas, le contrat comporte des clauses permettant de
 préserver les exigences du service public.
