@@ -33,3 +33,7 @@ l'objet d'un compte rendu écrit ;
 qui effectuent, en dehors des laboratoires d'analyses de biologie médicale et
 dans les conditions fixées par un décret en Conseil d'Etat, des actes d'anatomie
 et de cytologie pathologiques.
+
+Cependant, l'article L. 759 du code de la santé publique est applicable à ceux
+de ces médecins qui effectuent les actes de cytogénétique en vue d'établir un
+diagnostic prénatal relatif à l'enfant à naître.

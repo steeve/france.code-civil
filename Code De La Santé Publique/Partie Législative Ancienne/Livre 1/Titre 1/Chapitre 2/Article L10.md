@@ -1,17 +1,30 @@
 Article L10
 ----
-Toute personne qui exerce, dans un établissement ou organisme public ou privé de
-prévention ou de soins appartenant aux catégories dont la liste est établie par
-arrêté conjoint du ministre de la santé publique et de la population et du
-ministre du travail, une activité professionnelle l'exposant à des risques de
-contamination, doit être immunisée contre la variole, les fièvres typhoïde et
-paratyphoïde A et B, la diphtérie, le tétanos et la poliomyélite [*vaccinations
-obligatoires*].
+Toute personne qui, dans un établissement ou organisme public ou privé de
+prévention ou de soins, exerce une activité professionnelle l'exposant à des
+risques de contamination doit être immunisée contre l'hépatite B, la diphtérie,
+le tétanos et la poliomyélite.
 
-Les conditions de cette immunisation sont fixées par arrêté du ministre de la
-Santé publique et de la Population pris après consultation du Conseil supérieur
-d'hygiène publique et compte tenu, en particulier, des contre-indications
-médicales.
+En outre, les personnes qui exercent une activité professionnelle dans un
+laboratoire d'analyses de biologie médicale doivent être immunisées contre la
+fièvre typhoïde.
 
-Les dépenses entraînées par ces vaccinations sont à la charge des établissements
-ou organismes employeurs.
+Un arrêté conjoint du ministre chargé de la santé et du ministre chargé du
+travail, pris après avis du Conseil supérieur d'hygiène publique de France,
+détermine les catégories d'établissements et organismes concernés.
+
+Tout élève ou étudiant d'un établissement préparant à l'exercice des professions
+médicales et des autres professions de santé dont la liste est déterminée par
+arrêté du ministre chargé de la santé, qui est soumis à l'obligation d'effectuer
+une part de ses études dans un établissement ou organisme public ou privé de
+prévention ou de soins, doit être immunisé contre les maladies visées à l'alinéa
+premier du présent article [*vaccinations obligatoires*].
+
+Les établissements ou organismes employeurs ou, pour les élèves et étudiants,
+les établissements ayant reçu leur inscription, prennent à leur charge les
+dépenses entraînées par ces vaccinations.
+
+Les conditions de l'immunisation prévue au présent article sont fixées par
+arrêté du ministre chargé de la santé pris après avis du Conseil supérieur
+d'hygiène publique de France et compte tenu, en particulier, des
+contre-indications médicales.

@@ -7,9 +7,14 @@ problèmes relatifs aux conditions de travail du personnel des organismes de
 sécurité sociale et la signature des conventions collectives prévues aux
 articles L. 123-1 et L. 123-2.
 
-L'union est composée en nombre égal de représentants de chacune des trois
-caisses nationales, désignés par leur conseil respectif, et comprend des
-représentants des administrateurs assurés sociaux et des administrateurs
-employeurs dans la proportion respective de trois cinquièmes et de deux
-cinquièmes. En ce qui concerne la représentation des assurés sociaux, chacune
-des organisations mentionnées à l'article L. 214-6 doit être représentée.
+L'union est composée :
+
+- d'une part, des représentants des assurés sociaux désignés par les
+organisations syndicales nationales de salariés représentatives au sens de
+l'article L. 133-2 du code du travail, et en nombre égal des représentants
+d'employeurs désignés par des organisations professionnelles nationales
+d'employeurs représentatives ;
+
+- et, d'autre part, du président et du vice-président des caisses nationales et
+de l'agence centrale des organismes de sécurité sociale qui ne peuvent
+appartenir au même collège.
