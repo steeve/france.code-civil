@@ -5,12 +5,16 @@ particuliers.
 
 Il peut adjoindre aux commissions avec voix consultative des experts et des
 techniciens appartenant à l'entreprise et choisis en dehors du comité. Les
-dispositions de l'article L. 432-6 leur sont applicables.
+dispositions de l'article L. 432-7 leur sont applicables.
 
 Les rapports des commissions sont soumis à la délibération du comité.
 
-Dans les entreprises employant plus de trois cents salariés, le comité
-d'entreprise constitue obligatoirement une commission chargée d'étudier les
-problèmes généraux relatifs à la formation et au perfectionnement professionnel,
-à l'adaptation à l'emploi compte tenu de l'évolution des techniques, ainsi que
-ceux concernant l'emploi et le travail des jeunes ou des handicapés.
+Dans les entreprises employant au moins deux cents salariés, le comité
+d'entreprise constitue une commission de la formation qui est chargée de
+préparer les délibérations du comité d'entreprise prévues à l'article L. 432-3.
+
+Cette commission est, en outre, chargée d'étudier les moyens propres à favoriser
+l'expression des salariés en matiére de formation et de participer à
+l'information de ceux-ci dans le même domaine. Elle étudie également les
+problèmes spécifiques concernant l'emploi et le travail des jeunes et des
+handicapés.
