@@ -126,15 +126,19 @@ par des arrêtés du ministre de l'économie et des finances (5);
 
 16° et 17° (Abrogés);
 
-18° Nonobstant leur caractère de taxes parafiscales, les redevances pour droit
-d'usage sur les appareils récepteurs de radiophonie et de télévision.
+18° Les redevances pour droit d'usage prévues par l'article 62 de la loi n°
+82-652 du 29 juillet 1982 sur la communication audiovisuelle et le décret n°
+82-971 du 17 novembre 1982 sont soumises à la taxe sur la valeur ajoutée (6).
 
-1) Voir Annexe II, art. 243 à 259.
+(1) Voir Annexe II, art. 243 à 259.
 
-2) Décret à émettre.
+(2) Annexe II, art. 178 A à 178 C.
 
-3) Annexe III, art. 65 A.
+(3) Annexe III, art. 65 A.
 
-4) Annexe IV, art. 45.
+(4) Annexe IV, art. 45.
 
-5) Annexe IV, art. 42 à 46.
+(5) Annexe IV, art. 42 à 46.
+
+(6) Dispositions applicables à compter de la promulgation de la loi n° 82-652 du
+29 juillet 1982.

@@ -66,14 +66,15 @@ ces opérations ainsi que pour la partie des bénéfices et des plus-values
 qu'elles réalisent en tant que société immobilière pour le commerce et
 l'industrie ;
 
-3° sexies. Les sociétés agréées pour le financement d'installations ou de
-matériels destinés à économiser l'énergie, à développer les sources d'énergie de
-remplacement des hydrocarbures ou à promouvoir les utilisations du charbon (2),
-mentionnées à l'article 30 de la loi n° 80-531 du 15 juillet 1980 relative aux
-économies d'énergie et à l'utilisation de la chaleur, pour la partie de leur
-bénéfice net provenant des opérations de crédit-bail et de location prévues au I
-du même article ou des plus-values qu'elles réalisent dans le cadre des
-opérations de crédit-bail ;
+3° sexies. Les sociétés agréées, dans les conditions prévues par l'article 30 de
+la loi n° 80-531 du 15 juillet 1980 relative aux économies d'énergie et à
+l'utilisation de la chaleur, pour le financement d'installations ou de matériels
+destinés à économiser l'énergie, à developper les sources d'énergie de
+remplacement des hydrocarbures ou à promouvoir les utilisations du charbon (2) ,
+ainsi que des terrains d'emprise de ces installations ou matériels, pour la
+partie de leur bénéfice net provenant des opérations de crédit-bail et de
+location ou des plus-values qu'elles réalisent dans le cadre des opérations de
+crédit-bail ;
 
 4° Les associations de mutilés de guerre et d'anciens combattants reconnues
 d'utilité publique, émettant des participations à la loterie nationale avec
