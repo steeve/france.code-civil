@@ -1,7 +1,7 @@
 Article L951-3
 ----
 La commission comprend cinq membres nommés [*mode de désignation*] pour une
-durée de six ans par arrêté conjoint du ministre chargé de la sécurité sociale
+durée de cinq ans par arrêté conjoint du ministre chargé de la sécurité sociale
 et du ministre chargé de l'agriculture [*autorités compétentes*] :
 
 1° Un membre du Conseil d'Etat ayant au moins le rang de conseiller d'Etat,
@@ -30,3 +30,7 @@ il est remplacé par le directeur des exploitations, de la politique sociale et
 de l'emploi ou son représentant.
 
 En cas de partage égal des voix, celle du président est prépondérante.
+
+Le mandat des membres de la présente commission à la date de publication de la
+loi n° 97-277 du 25 mars 1997 créant les plans d'épargne retraite s'achève le 31
+décembre 2000.

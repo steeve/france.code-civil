@@ -40,3 +40,7 @@ livre. Un arrêté du ministre chargé de l'économie détermine la nature, la
 périodicité et le contenu des informations et des documents que les entreprises
 mentionnées au présent alinéa sont tenues de communiquer périodiquement à la
 commission de contrôle des assurances pour lui permettre d'exercer sa mission.
+
+Le mandat des membres de la présente commission à la date de publication de la
+loi n° 97-277 du 25 mars 1997 créant les plans d'épargne retraite est prolongé
+jusqu'au 31 décembre 2000.
