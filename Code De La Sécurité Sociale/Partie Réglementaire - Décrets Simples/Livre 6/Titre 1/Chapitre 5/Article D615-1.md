@@ -25,11 +25,11 @@ de l'affection dont le malade est reconnu atteint ;
 3°) la participation de l'assuré est supprimée en ce qui concerne les frais de
 fourniture d'appareils d'orthopédie mentionnés au 2° de l'article L. 322-3 ;
 
-4°) la participation de l'assuré est supprimée à l'occasion de tout acte ou
-série d'actes dont le coefficient global à la nomenclature générale des actes
-professionnels est égal ou supérieur à 50. Toutefois, ces dispositions ne sont
-pas applicables aux actes figurant à la section III du chapitre VII du titre III
-de la nomenclature générale des actes professionnels ;
+4° La participation de l'assuré est supprimée à l'occasion de tout acte ou série
+d'actes dont le coefficient global à la Nomenclature générale des actes
+professionnels est égal ou supérieur à 50 ; toutefois, ces dispositions ne sont
+pas applicables aux actes de prothèse dentaire ainsi qu'aux actes d'anatomie et
+de cytologie pathologiques ;
 
 5°) la participation de l'assuré est supprimée en cas de grossesse, pendant une
 période qui débute quatre mois avant la date présumée de l'accouchement et se
@@ -50,7 +50,12 @@ il est fait appel à un expert dans les conditions prévues à l'article R. 141-
 
 8°) la participation de l'assuré est supprimée pour les frais d'analyses ou
 d'examens de laboratoire relatifs au dépistage sérologique de l'infection par le
-virus de l'immunodéficience humaine et par le virus de l'hépatite C.
+virus de l'immunodéficience humaine et par le virus de l'hépatite C ;
+
+9° La participation de l'assuré est supprimée pour les frais d'examens de
+dépistage sous réserve que ces examens soient effectués dans le cadre des
+programmes figurant sur la liste mentionnée au deuxième alinéa de l'article L.
+55 du code de la santé publique.
 
 La décision de la caisse fixe la durée de la période d'exonération, sous réserve
 du maintien du droit aux prestations en application de l'article L. 615-8.
