@@ -1,10 +1,21 @@
 Article R362-1
 ----
-Le conseil départemental de l'habitat procède à toutes concertations propres à
-permettre de répondre aux besoins en matière d'habitat et à assurer la meilleure
-efficacité aux aides publiques dans le département.
+Le comité régional de l'habitat émet chaque année, sur la base d'un rapport
+présenté par le préfet de région, un avis sur :
 
-Il émet un avis sur la situation et les perspectives de l'habitat dans le
-département en ce qui concerne notamment la satisfaction des besoins en
-logements des différentes catégories de population, l'état du patrimoine,
-l'activité du secteur du bâtiment et la qualité de l'habitat.
+1° La satisfaction des besoins en logement des différentes catégories de
+population ;
+
+2° Les orientations de la politique de l'habitat dans la région et des actions
+engagées par l'Etat et les collectivités territoriales ;
+
+3° La programmation annuelle des différentes aides publiques au logement dans la
+région et la coordination de ces financements, en particulier ceux de l'Etat, de
+ses établissements publics, des collectivités territoriales et de leurs
+groupements et de la participation des employeurs à l'effort de construction ;
+
+4° Les modalités d'application dans la région des principes qui régissent
+l'attribution des logements locatifs sociaux ;
+
+5° Les politiques menées dans la région en faveur du logement des populations
+défavorisées et des populations immigrées.

@@ -1,9 +1,9 @@
 Article R*351-30
 ----
 Lorsque le bénéficiaire ne règle pas la part de dépense de logement restant à sa
-charge, son cas est soumis à la section des aides publiques au logement du
-conseil départemental de l'habitat par le bailleur ou l'établissement habilité
-percevant l'aide personnalisée pour son compte.
+charge, son cas est soumis à la section départementale des aides publiques au
+logement par le bailleur ou l'établissement habilité percevant l'aide
+personnalisée pour son compte.
 
 En secteur locatif, l'impayé est constitué soit lorsque trois termes nets
 consécutifs sont totalement impayés, soit lorsque le locataire est débiteur à

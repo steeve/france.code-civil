@@ -1,9 +1,8 @@
 Article R351-64
 ----
 Lorsque le bénéficiaire ne règle pas la part de dépense de logement restant à sa
-charge, son cas est soumis à la section des aides publiques au logement du
-conseil départemental de l'habitat par le gestionnaire percevant l'aide
-personnalisée pour son compte.
+charge, son cas est soumis à la section départementale des aides publiques au
+logement par le gestionnaire percevant l'aide personnalisée pour son compte.
 
 L'impayé est constitué soit lorsque trois termes nets consécutifs sont
 totalement impayés, soit lorsque le résident est débiteur à l'égard du
@@ -12,9 +11,9 @@ la redevance.
 
 Le gestionnaire doit, dans un délai de trois mois aprés la constitution de
 l'impayé défini à l'alinéa précédent, porter la situation du bénéficiaire
-défaillant à la connaissance de la section des aides publiques publiques au
-logement du conseil départemental de l'habitat et justifier qu'il poursuit par
-tous les moyens le recouvrement de sa créance.
+défaillant à la connaissance de la section départementale des aides publiques
+publiques au logement et justifier qu'il poursuit par tous les moyens le
+recouvrement de sa créance.
 
 Sauf en cas de mauvaise foi avérée, le versement de l'aide personnalisée au
 logement (A.P.L.) est maintenu sur décision de la section départementale des

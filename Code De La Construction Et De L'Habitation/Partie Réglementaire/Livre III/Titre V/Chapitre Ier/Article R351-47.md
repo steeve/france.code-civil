@@ -1,7 +1,7 @@
 Article R351-47
 ----
-Les compétences prévues à l'article L. 351-14 sont exercées par la section des
-aides publiques au logement du conseil départemental de l'habitat. Dans les
+Les compétences prévues à l'article L. 351-14 sont exercées par une commission
+dénommée "section départementale des aides publiques au logement". Dans les
 conditions déterminées par l'article R. 351-49, cette section :
 
 1. Décide, selon les modalités fixées par les articles R. 351-30, R. 351-31 et

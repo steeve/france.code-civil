@@ -1,18 +1,17 @@
 Article R362-5
 ----
-Le conseil départemental de l'habitat est informé au moins une fois par an des
-conditions de logement des différentes catégories de population dans le
-département au vu d'un état des besoins quantitatifs et qualitatifs dans le
-domaine du logement élaboré par le préfet.
+Les membres du comité régional de l'habitat mentionnés au 1° de l'article R.
+362-3 sont les suivants :
 
-Il émet un avis sur les conditions du respect des principes définis pour
-l'attribution des logements construits avec le concours financier de l'Etat dans
-le cadre des dispositions propres à chaque secteur locatif mentionné à l'article
-37 de la loi du 22 juin 1982 relative aux droits et obligations des locataires
-et des bailleurs.
+1° Le président du conseil régional ou, en Corse, le président du conseil
+exécutif de Corse, ou son représentant ;
 
-Le conseil départemental de l'habitat est informé des prppositions en matière
-d'attribution de logements contenues dans les programmes locaux de l'habitat
-élaborés par les communes ou groupements de communes du département. Il donne
-son avis au préfet sur leur cohérence et leur compatibilité avec les objectifs
-et les règles fixés dans le département.
+2° Les présidents des conseils généraux, ou leur représentant ;
+
+3° Les présidents des communautés urbaines, des communautés d'agglomération et
+des syndicats d'agglomération nouvelle compétents en matière de programme local
+de l'habitat, ou leur représentant ;
+
+4° Les présidents des communautés de communes ayant conclu une convention de
+délégation de compétence avec l'Etat en application de l'article L. 301-5-1 du
+code de la construction et de l'habitation, ou leur représentant.
