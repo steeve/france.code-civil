@@ -7,7 +7,7 @@ infractions suivantes dans les affaires qui sont ou apparaîtraient d'une grande
 complexité :
 
 1° Délits prévus par les articles 222-38, 313-1, 313-2, 313-4, 313-6, 314-1,
-314-2, 432-10 à 432-15, 433-1, 433-2 et 434-9 du code pénal ;
+314-2, 324-1, 324-2, 432-10 à 432-15, 433-1, 433-2 et 434-9 du code pénal ;
 
 2° Délits prévus par la loi n° 66-537 du 24 juillet 1966 sur les sociétés
 commerciales ;
@@ -25,7 +25,7 @@ et à la liquidation judiciaires des entreprises ;
 
 8° Délits prévus par le code de l'urbanisme ;
 
-9° Délits par le code de la consommation ;
+9° Délits prévus par le code de la consommation ;
 
 10° Délits prévus par la loi n° 84-46 du 24 janvier 1984 relative à l'activité
 et au contrôle des établissements de crédit ;
