@@ -472,17 +472,18 @@ exclusive de ces véhicules au service de la clientèle et limitée en outre à 
 véhicule par hôtel de 20 à 100 chambres et à deux véhicules par hôtel de plus de
 100 chambres.
 
-3. Pour bénéficier de la franchise de la taxe sur la valeur ajoutée les
+3. Pour bénéficier de la franchise de la taxe sur la valeur ajoutée, les
 importateurs doivent :
 
-1° En faire la demande sur la déclaration d'importation;
+1° En faire la demande sur la déclaration d'importation ;
 
 2° Déposer à l'appui de la déclaration d'importation une attestation en double
-exemplaire indiquant les nom prénoms profession ou raison sociale et adresse du
-destinataire ainsi que la nature la quantité et la valeur des produits importés.
+exemplaire indiquant les nom, prénoms, profession ou raison sociale et adresse
+du destinataire, ainsi que la nature, la quantité et la valeur des produits
+importés.
 
-Cette attestation devra porter l'engagement pour le cas où les produits ne
+Cette attestation devra porter l'engagement, pour le cas où les produits ne
 recevraient pas l'affectation justifiant l'exonération de la taxe sur la valeur
-ajoutée d'acquitter à la recette des impôts la taxe devenue exigible sans
-préjudice des pénalités prévues aux articles 1727, 1729, 1731 et 1784 à 1786 du
-code général des impôts.
+ajoutée, d'acquitter à la recette des impôts, la taxe devenue exigible, sans
+préjudice des pénalités prévues aux articles 1727, 1729, 1731 et 1785 B à 1786
+du code général des impôts.

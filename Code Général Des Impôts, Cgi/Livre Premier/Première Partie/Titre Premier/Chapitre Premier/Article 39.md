@@ -114,10 +114,10 @@ déclaratives des sociétés mentionnées, sont fixées par décret ;
 
 4° Sous réserve des dispositions de l'article 153, les impôts à la charge de
 l'entreprise, mis en recouvrement au cours de l'exercice, à l'exception des
-taxes prévues aux articles 235 ter Y, 238 quater, 239 bis B et 990 G et, pour
-les rappels de taxe sur la valeur ajoutée afférents à des opérations au titre
-desquelles la taxe due peut être totalement ou partiellement déduite par le
-redevable lui-même, du montant de la taxe déductible.
+taxes prévues aux articles 238 quater et 990 G et, pour les rappels de taxe sur
+la valeur ajoutée afférents à des opérations au titre desquelles la taxe due
+peut être totalement ou partiellement déduite par le redevable lui-même, du
+montant de la taxe déductible.
 
 Si des dégrèvements sont ultérieurement accordés sur ces impôts, leur montant
 entre dans les recettes de l'exercice au cours duquel l'exploitant est avisé de
@@ -129,19 +129,7 @@ d'un ordre de versement émis au cours de l'exercice ;
 
 4° ter (Abrogé) ;
 
-4° quater - Les droits de mutation à titre gratuit acquittés par les héritiers,
-donataires ou légataires d'une entreprise individuelle, pour la part des droits
-afférente à cette entreprise, et les intérêts payés en application des
-dispositions de l'article 1717, pour la même part, lorsque l'une au moins de ces
-personnes prend l'engagement de poursuivre l'activité en participant de façon
-personnelle, continue et directe à l'accomplissement des actes nécessaires à
-cette activité pendant les cinq années suivant la date de la transmission de
-l'entreprise. La déduction est opérée au titre des exercices au cours desquels
-les droits sont acquittés ou ceux au cours desquels les intérêts sont versés.
-
-En cas de non-respect de l'engagement visé au premier alinéa, les sommes
-déduites en vertu des dispositions du premier alinéa sont rapportées aux
-résultats imposables de l'exercice au cours duquel l'engagement a été rompu ;
+4° quater (Abrogé) ;
 
 5° Les provisions constituées en vue de faire face à des pertes ou charges
 nettement précisées et que des événements en cours rendent probables, à
@@ -243,7 +231,7 @@ l'étranger.
 Les provisions qui, en tout ou en partie, reçoivent un emploi non conforme à
 leur destination ou deviennent sans objet au cours d'un exercice ultérieur sont
 rapportées aux résultats dudit exercice. Lorsque le rapport n'a pas été effectué
-par l'entreprise elle-même, l'administration peut procéder aux redressements
+par l'entreprise elle-même, l'administration peut procéder aux rectifications
 nécessaires dès qu'elle constate que les provisions sont devenues sans objet.
 Dans ce cas, les provisions sont, s'il y a lieu, rapportées aux résultats du
 plus ancien des exercices soumis à vérification.
@@ -287,10 +275,9 @@ Par exception aux dispositions du dix-septième alinéa, la provision
 éventuellement constituée par une entreprise en vue de faire face à la
 dépréciation d'une participation dans une filiale implantée à l'étranger n'est
 admise sur le plan fiscal que pour la fraction de son montant qui excède les
-sommes déduites en application des dispositions des articles 39 octies A et 39
-octies B et non rapportées au résultat de l'entreprise. Cette disposition
-s'applique pour la détermination des résultats des exercices ouverts à compter
-du 1er janvier 1988.
+sommes déduites en application des dispositions de l'article 39 octies A et non
+rapportées au résultat de l'entreprise. Cette disposition s'applique pour la
+détermination des résultats des exercices ouverts à compter du 1er janvier 1988.
 
 Les dispositions de l'alinéa précédent sont également applicables à la fraction
 du montant de la provision pour dépréciation mentionnée à cet alinéa, qui excède

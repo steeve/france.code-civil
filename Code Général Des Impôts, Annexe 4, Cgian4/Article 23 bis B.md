@@ -23,14 +23,13 @@ proportion existant entre le taux réduit d'imposition prévu au premier alinéa
 a du I de l'article 219 du code général des impôts et le taux normal prévu au
 deuxième alinéa du I du même article ;
 
-c. En application des dispositions des articles 39 octies A, 39 octies B ou 39
-octies D du code général des impôts, par une société française à raison des
-investissements réalisés à l'étranger. Si le résultat de l'exploitation
-étrangère qui a fait l'objet de l'investissement n'est pas retenu pour la
-détermination du résultat consolidé, la réintégration est limitée à la fraction
-de la provision qui excède le déficit de cette exploitation déterminé selon les
-modalités prévues au III de l'article 39 octies B ou au III de l'article 39
-octies D du code déjà cité ;
+c. En application des dispositions des articles 39 octies A ou 39 octies D du
+code général des impôts, par une société française à raison des investissements
+réalisés à l'étranger. Si le résultat de l'exploitation étrangère qui a fait
+l'objet de l'investissement n'est pas retenu pour la détermination du résultat
+consolidé, la réintégration est limitée à la fraction de la provision qui excède
+le déficit de cette exploitation déterminé selon les modalités prévues au III de
+l'article 39 octies D du code déjà cité ;
 
 2° Des déductions effectuées au titre des dispositions du 2 de l'article 39
 quinquies A et du II de l'article 217 undecies du code général des impôts par

@@ -1,8 +1,8 @@
 Article 10 GA quater
 ----
 Les entreprises qui constituent des provisions en application des dispositions
-des articles 39 octies A ou 39 octies B du code général des impôts doivent
-joindre à leur déclaration de résultats de chaque exercice :
+de l'article 39 octies A du code général des impôts doivent joindre à leur
+déclaration de résultats de chaque exercice :
 
 Pour les filiales situées dans un Etat qui n'est pas membre de la Communauté
 européenne, un bilan dont la traduction est certifiée par un traducteur juré ;
