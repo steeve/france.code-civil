@@ -11,12 +11,20 @@ pénitentiaire, les frais de transport des procédures et des pièces à convict
 commission rogatoire et autres frais de procédure pénale en matière
 internationale.
 
-3° Les honoraires et indemnités qui peuvent être accordés aux experts, aux
-interprètes-traducteurs ainsi qu'aux personnes chargées des enquêtes sociales ou
-de personnalité ou d'une mission de médiation ou tendant à favoriser la
-réparation du dommage préalablement à la décision du procureur de la République
-sur les poursuites ou contribuant au contrôle judiciaire dans les conditions
-prévues aux articles R. 121 et R. 121-1 du présent code.
+3° Les honoraires et indemnités qui peuvent être accordés aux personnes ci-après
+:
+
+a) Experts et traducteurs interprètes ;
+
+b) Personnes chargées des enquêtes sociales ou de personnalité ;
+
+c) Personnes contribuant au contrôle judiciaire ;
+
+d) Médiateurs du procureur de la République chargés d'une mission de médiation
+en application des dispositions du 5° de l'article 41-1 ;
+
+e) Délégués du procureur de la République chargés d'une des missions prévues par
+les 1° à 4° de l'article 41-1 ou intervenant au cours d'une composition pénale.
 
 4° Les indemnités qui peuvent être accordées aux témoins, aux jurés par
 application des articles R. 123 à R. 146 et aux parties civiles par application
