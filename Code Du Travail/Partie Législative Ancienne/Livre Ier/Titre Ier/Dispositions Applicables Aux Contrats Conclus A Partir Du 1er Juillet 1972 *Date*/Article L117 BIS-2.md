@@ -1,0 +1,8 @@
+Article L117 BIS-2
+----
+Le temps consacré par l'apprenti aux enseignements et activités pédagogiques
+mentionnés à l'article L. 116-3 est compris dans l'horaire de travail. Pour les
+reste du temps, et dans la limite de l'horaire de travail applicable dans
+l'entreprise, l'apprenti [*obligation*] est tenu d'effectuer le travail qui lui
+est confié par l'employeur. Ce travail doit être en relation directe avec la
+profession prévue au contrat.
