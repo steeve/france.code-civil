@@ -49,10 +49,10 @@ correspondant à l'activité principale de cet établissement".
 Lorsqu'un employeur exerce des activités professionnelles multiples, la section
 au titre de laquelle il est électeur est déterminée par son activité principale.
 
-Lorsqu'un salarié exerce son activité professionnelle dans plusieurs
-entreprises, la section au titre de laquelle il est électeur est déterminée
-comme s'il n'était employé que dans l'entreprise où s'exerce son activité
-principale.
+Lorsqu'un salarié exerce son activité professionnelle [*multiple*] dans
+plusieurs entreprises, la section au titre de laquelle il est électeur est
+déterminée comme s'il n'était employé que dans l'entreprise où s'exerce son
+activité principale.
 
 L'activité principale de l'employeur est celle de ses activités professionnelles
 au titre de laquelle il occupe le plus grand nombre de salariés.
@@ -472,9 +472,9 @@ l'expiration de la période de dépôt des candidatures mentionnée à l'article
 513-35.
 
 Une liste peut faire l'objet d'un retrait à condition que la moitié des
-candidats inscrits sur cette liste le demande au préfet par écrit et que cette
-demande soit enregistrée au plus tard la veille de la date de la publication
-mentionnée au premier alinéa.
+candidats inscrits sur cette liste le demande au commissaire de la République
+par écrit et que cette demande soit enregistrée au plus tard la veille de la
+date de la publication mentionnée au premier alinéa.
 
 Un candidat décédé peut être remplacé jusqu'à l'expiration du délai de dépôt des
 candidatures".
@@ -729,7 +729,7 @@ Pendant les dix jours précédant l'élection, dans chaque commune, des
 emplacements spéciaux sont réservés par l'autorité municipale pour l'apposition
 des affiches électorales des listes de candidats.
 
-Dans chacun de ces emplacements, une surface égale est attribuée à chaque liste.
+Donc chacun de ces emplacements, une surface égale est attribuée à chaque liste.
 
 Un emplacement est attribué à chaque liste dans l'ordre de dépôt des listes de
 candidats auprès du préfet.
@@ -1088,7 +1088,9 @@ Les plis de type officiel portant la mention "Vote par correspondance" sont
 conservés par les services des postes jusqu'au jour du scrutin.
 
 Le jour du scrutin, les plis sont remis par les agents des postes aux présidents
-des bureaux de vote, qui leur en donnent décharge".&lt;RL "Art. R. 513-85 :
+des bureaux de vote, qui leur en donnent décharge".
+
+"Art. R. 513-85 :
 
 Immédiatement après la clôture du scrutin et préalablement au dépouillement, le
 président du bureau de vote ouvre chaque pli et vérifie que l'enveloppe
