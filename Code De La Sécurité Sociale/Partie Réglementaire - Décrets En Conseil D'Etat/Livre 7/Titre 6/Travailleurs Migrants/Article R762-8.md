@@ -23,9 +23,11 @@ de bénéficier de l'assurance volontaire ;
 l'adhésion, si la demande est présentée après l'expiration de ce délai de trois
 mois.
 
-Les assurés ont droit aux prestations de l'assurance invalidité pour les
-infirmités constatées à compter du premier jour du treizième mois suivant la
-date d'effet de l'adhésion.
+Les assurés ont droit aux prestations de l'assurance invalidité s'ils justifient
+de douze mois consécutifs d'adhésion à titre personnel, au premier jour du mois
+au cours duquel est survenue l'interruption de travail suivie d'invalidité ou la
+constatation de l'état d'invalidité résultant de l'usure prématurée de
+l'organisme.
 
 Dans tous les cas, le versement des prestations est subordonné à la
 justification du paiement des cotisations exigibles à la date à laquelle les
