@@ -24,6 +24,9 @@ prévues au décret n° 65-1158 du 24 décembre 1965 ;
 
 7° bis. (Disposition périmée) ;
 
+7° ter La rémunération des sommes déposées sur les livrets d'épargne populaire
+ouverts dans les conditions prévues par la loi n° 82-357 du 27 avril 1982 ;
+
 8° Les arrérages des titres de l'emprunt 3 1/2 % 1952, autorisé par la loi n°
 52-565 du 21 mai 1952 et de l'emprunt 3 1/2 % 1958, autorisé par l'ordonnance n°
 58-529 du 11 juin 1958, ainsi que les plus-values éventuelles de cession ou de
