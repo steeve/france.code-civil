@@ -1,12 +1,21 @@
 Article 444
 ----
-Les témoins déposent ensuite séparément, soit sur les faits reprochés au
-prévenu, soit sur sa personnalité et sur sa moralité.
+Les témoins sont entendus séparément soit lors des débats sur les faits
+reprochés au prévenu, soit lors des débats sur sa personnalité.
 
-Parmi les témoins cités, ceux qui sont produits par les parties poursuivantes
-sont entendus les premiers, sauf pour le président à régler lui-même
-souverainement l'ordre d'audition des témoins.
+Le témoin cité à la requête du ministère public est interrogé par le ministère
+public, le cas échéant par l'avocat de la partie civile, puis par l'avocat du
+prévenu.
+
+Le témoin cité à la requête d'une partie est interrogé par l'avocat de la partie
+qui l'a appelé, par le ministère public puis par les avocats des autres parties.
+S'il est cité par la partie civile, il est interrogé en dernier lieu par la
+défense.
+
+La partie civile et le prévenu peuvent poser des questions aux témoins par
+l'intermédiaire du président.
 
 Peuvent également, avec l'autorisation du tribunal, être admises à témoigner,
-les personnes, proposées par les parties, qui sont présentes à l'ouverture des
-débats sans avoir été régulièrement citées.
+dans les conditions prévues par les trois alinéas précédents, les personnes
+proposées par les parties qui sont présentes à l'ouverture des débats sans avoir
+été régulièrement citées.
