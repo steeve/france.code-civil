@@ -1,20 +1,12 @@
 Article R*131-5
 ----
-Les dispositions de la présente section ne sont pas applicables :
+En ce qui concerne les immeubles collectifs autres que ceux qui sont mentionnés
+à l'article R. 131-4, la date limite pour la mise en service des appareils
+prévus à l'article R. 131-3 est le 31 décembre 1985 [*détermination quantité de
+chaleur*].
 
-- aux immeubles pourvus, de construction, d'une part, d'un système de chauffage
-commun et, d'autre part, d'un système de chauffage d'appoint individuel, à
-condition que ce dernier soit immeuble par incorporation et que sa puissance
-soit égale au moins au quart de la puissance totale des installations de
-chauffage ;
-
-- aux immeubles pour lesquels il est établi par le constructeur, que les
-déperditions thermiques sont inférieures à une valeur fixée par arrêté conjoint
-du ministre chargé de la construction et de l'habitation et du ministre chargé
-de l'industrie, compte tenu de l'isolation thermique réalisée ou des
-récupérations ou transferts de chaleur opérés par des équipements tels que des
-échangeurs de chaleur ou pompes à chaleur ;
-
-- aux immeubles faisant appel, au moins pour la moitié de la consommation de
-chauffage des locaux, à l'énergie géothermique, à l'énergie solaire ou aux
-énergies de rejets thermiques.
+Toutefois ledit article n'est applicable ni aux immeubles où il est
+techniquement impossible de poser les appareils de mesure, ni aux immeubles dans
+lesquels la charge financière annuelle de ces appareils, comprenant
+l'amortissement sur dix années et les frais de fonctionnement, serait supérieure
+au dixième des frais annuels de combustible ou d'énergie.
