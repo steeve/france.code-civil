@@ -5,12 +5,12 @@ font apparaître que les équipements produits ne sont pas conformes au type qui
 fait l'objet de l'attestation d'examen ou d'examen C.E. de type ou lorsque les
 contrôles opérés en application de l'article R. 20-9 font apparaître que les
 équipements produits ne respectent pas les exigences essentielles qui leur sont
-applicables, l'agrément est suspendu par le directeur général des postes et
-télécommunications. Cette décision est motivée et notifiée au titulaire de
-l'agrément, qui est invité à prendre les mesures de mise en conformité des
-appareils existants jugées nécessaires dans un délai qui ne peut être inférieur
-à trente jours.
+applicables, l'attestation de conformité est suspendue par l'Autorité de
+régulation des télécommunications. Cette décision est motivée et notifiée au
+titulaire de l'attestation de conformité, qui est invité à prendre les mesures
+de mise en conformité des appareils existants jugées nécessaires dans un délai
+qui ne peut être inférieur à trente jours.
 
-S'il n'est pas satisfait à cette demande dans le délai fixé, le directeur
-général des postes et télécommunications peut retirer l'agrément par une
-décision motivée, notifiée au titulaire de cet agrément.
+S'il n'est pas satisfait à cette demande dans le délai fixé, l'Autorité de
+régulation des télécommunications peut retirer l'attestation de conformité par
+une décision motivée, notifiée au titulaire de cette attestation de conformité.

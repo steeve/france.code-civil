@@ -27,14 +27,14 @@ service et à l'entretien des équipements figurant sur la liste mentionnée au 
 de l'article R. 20-22.
 
 4° Pendant la période d'inscription provisoire, dont la durée ne peut excéder un
-an, les travaux réalisés par l'entreprise peuvent être vérifiés par la direction
-générale des postes et télécommunications, de sa propre initiative ou sur
-demande de la commission d'admission des installateurs.
+an, les travaux réalisés par l'entreprise peuvent être vérifiés par l'Autorité
+de régulation des télécommunications, de sa propre initiative ou sur demande de
+la commission d'admission des installateurs.
 
 A l'issue de cette période, la capacité de l'entreprise est appréciée au regard
 de la compétence et de l'expérience acquises dans la spécialité choisie.
 
-Le ministre chargé des télécommunications statue, après avis de la commission
-d'admission des installateurs, sur l'inscription définitive de l'entreprise
-demanderesse sur la liste des installateurs admis. Les refus d'inscription sont
-motivés et notifiés à l'entreprise concernée.
+L'Autorité de régulation des télécommunications statue, après avis de la
+commission d'admission des installateurs, sur l'inscription définitive de
+l'entreprise demanderesse sur la liste des installateurs admis. Les refus
+d'inscription sont motivés et notifiés à l'entreprise concernée.

@@ -1,29 +1,31 @@
 Article R20-9
 ----
-Lorsque le fabricant ou son mandataire décide de solliciter l'agrément selon la
-procédure prévue au b du 1° de l'article R. 20-2, il présente au directeur
-général des postes et télécommunications une demande d'évaluation du système
-d'assurance de qualité complète qu'il met en oeuvre pour garantir la conformité
-de ses produits aux exigences essentielles qui leur sont applicables.
+Lorsque le fabricant ou son mandataire décide de solliciter l'attestation de
+conformité selon la procédure prévue au b du 1° de l'article R. 20-2, il
+présente à l'Autorité de régulation des télécommunications une demande
+d'évaluation du système d'assurance de qualité complète qu'il met en oeuvre pour
+garantir la conformité de ses produits aux exigences essentielles qui leur sont
+applicables.
 
 Cette demande comporte toutes les informations appropriées sur les produits
 concernés ainsi qu'une documentation complète permettant d'apprécier la qualité
 de la conception du produit, de sa fabrication et du contrôle de celle-ci.
 
-Après un examen sur pièces et, éventuellement, sur place, le directeur général
-des postes et télécommunications prend une décision motivée d'évaluation du
-système d'assurance de qualité complète. Lorsqu'il estime que ce système
-garantit la conformité des équipements aux exigences essentielles, il délivre au
-fabricant ou à son mandataire une déclaration ou déclaration C.E. de conformité.
+Après un examen sur pièces et, éventuellement, sur place, l'Autorité de
+régulation des télécommunications prend une décision motivée d'évaluation du
+système d'assurance de qualité complète. Lorsqu'elle estime que ce système
+garantit la conformité des équipements aux exigences essentielles, elle délivre
+au fabricant ou à son mandataire une déclaration ou déclaration C.E. de
+conformité.
 
 Le fabricant s'engage à remplir les obligations découlant du système d'assurance
-de qualité complète approuvé et à en maintenir l'efficacité. Il autorise la
-direction générale des postes et télécommunications à accéder, à des fins
+de qualité complète approuvé et à en maintenir l'efficacité. Il autorise
+l'Autorité de régulation des télécommunications à accéder, à des fins
 d'inspection, aux lieux de conception, de fabrication, d'inspection, d'essais et
 de stockage des matériels concernés.
 
-Le fabricant informe le directeur général des postes et télécommunications de
-tout projet d'adaptation du système d'assurance de qualité complète. Ce dernier
+Le fabricant informe l'Autorité de régulation des télécommunications de tout
+projet d'adaptation du système d'assurance de qualité complète. Cette dernière
 fait connaître au fabricant s'il y a lieu ou non de procéder à une nouvelle
 évaluation du système révisé.
 
