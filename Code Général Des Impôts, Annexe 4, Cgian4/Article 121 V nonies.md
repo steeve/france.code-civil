@@ -1,24 +1,20 @@
 Article 121 V nonies
 ----
-1. Le ministre de l'économie et des finances président de la commission centrale
-statue :
+La commission centrale donne un avis motivé :
 
-1o (Abrogé) 2o Sur les demandes d'agrément présentées au titre de l'article 208
-quater du code général des impôts [*exonération d'IS*] :
+1° Sur les demandes d'agrément présentées au titre de l'article 208 quater du
+code général des impôts lorsque le montant du programme d'investissement excède
+la limite de délégation de pouvoir prévue par l'article 121 V octies, ainsi que
+lorsque le directeur des services fiscaux ou le trésorier payeur général ne
+partage pas l'avis émis par la commission locale ;
 
-Lorsque le montant du programme d'investissement excède le plafond fixé à
-l'article 121 V octies-2-2o;
+2° Sur les demandes d'agrément présentées au titre de l'article 1655 bis du code
+général des impôts.
 
-Lorsque le programme d'investissement doit être réalisé dans le département de
-la Guyane;
+Le ministre du budget statue sur les demandes d'agrément fiscal de la compétence
+de la commission centrale. Sa décision est notifiée par le directeur des
+services fiscaux du département intéressé.
 
-Lorsque le directeur des services fiscaux ne partage pas l'avis émis par la
-commission locale.
-
-Les décisions du ministre de l'économie et des finances sont communiquées au
-président de la commission locale qui les notifie aux contribuables intéressés.
-
-2. La commission centrale émet un avis motivé sur les demandes d'agrément
-présentées au titre de l'article 1655 bis du code général des impôts [*régime
-fiscal des sociétés ayant pour objet la recherche et l'exploitation minière dans
-les TOM*].
+La commission centrale d'agrément peut également formuler des observations sur
+les avis émis par les commissions locales et entrant dans les limites de la
+compétence départementale.
