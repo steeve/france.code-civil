@@ -1,7 +1,9 @@
 Article R950-28
 ----
-Lorsque les objectifs de formation professionnelle et de promotion sociale
-poursuivis par les signataires d'un engagement de développement de la formation
-répondent aux orientations prioritaires et aux critères d'intervention définis
-par l'Etat, ce dernier peut décider d'apporter une contribution à cet
-engagement. [*financement*].
+Sans préjudice des dispositions du deuxième alinéa de l'article L. 950-2-4,
+l'engagement de développement de la formation est, avant signature, soumis par
+l'autorité administrative signataire à l'avis du comité régional de la formation
+professionnelle, de la promotion sociale et de l'emploi s'il a un champ
+d'application régional ou, si celui-ci excède le cadre régional, à l'avis de la
+commission permanente du conseil national de la formation professionnelle, de la
+promotion sociale et de l'emploi [*condition préalable*].
