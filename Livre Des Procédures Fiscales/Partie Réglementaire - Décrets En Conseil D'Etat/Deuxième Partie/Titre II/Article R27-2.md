@@ -1,4 +1,5 @@
 Article R27-2
 ----
-Chez les fabricants d'isoglucose, les agents des impôts peuvent effectuer tous
-inventaires ou prélèvements d'échantillons qui leur paraissent nécessaires.
+Chez les fabricants d'isoglucose, les agents du service des douanes et droits
+indirects peuvent effectuer tous inventaires ou prélèvements d'échantillons qui
+leur paraissent nécessaires.
