@@ -63,3 +63,11 @@ V. - A titre transitoire, les cotisations dues au titre de l'année 1990 seront
 calculées sur la base des revenus de l'année 1988 et les cotisations dues au
 titre de l'année 1991 seront calculées sur la base de la moyenne des revenus des
 années 1988 et 1989.
+
+VI. - Par dérogation aux dispositions du premier alinéa du II du présent
+article, les chefs d'exploitation ou d'entreprise agricole âgés de plus de
+cinquante-cinq ans peuvent, dans des conditions fixées par décret, opter jusqu'à
+la date de liquidation de leur retraite pour une assiette de cotisations
+constituée de leurs revenus professionnels tels que définis au présent article
+et afférents à l'année précédant celle au titre de laquelle les cotisations sont
+dues.

@@ -1,9 +1,13 @@
 Article 1106-6-1
 ----
 I. - Les cotisations des aides familiaux et des associés d'exploitation
-mentionnés au troisième alinéa (2°) du paragraphe I de l'article 1106-1 sont
-calculées en pourcentage des cotisations dues pour eux-mêmes par les chefs
-d'exploitation ou d'entreprise.
+mentionnés au 2° du I de l'article 1106-1 sont calculées en pourcentage des
+cotisations dues pour eux-mêmes par les chefs d'exploitation ou d'entreprise.
+Leur taux est fixé par décret.
+
+Ces cotisations ne peuvent excéder le montant de la cotisation d'un chef
+d'exploitation ou d'entreprise percevant un revenu, fixé par décret par
+référence au salaire minimum de croissance.
 
 II. - Les cotisations dues par les retraités sont calculées en pourcentage des
 pensions de retraite servies pendant l'année en cours par le régime de base et
