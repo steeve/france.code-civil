@@ -1,16 +1,22 @@
 Article R351-3
 ----
 Sous réserve des dispositions prévues au dernier alinéa du présent article, le
-droit à l'aide personnalisée est ouvert à compter de la première échéance de
-loyer au locataire titulaire d'un bail conclu en application d'une des
-conventions définies aux articles L. 353-1 à L. 353-13 et qui acquitte
-effectivement un loyer [*bénéficiaire*].
+droit à l'aide personnalisée est ouvert :
 
-Dans les cas prévus à l'article L. 353-7, l'aide personnalisée n'est attribuée
-au titulaire du bail mentionné à l'alinéa précédent qu'à compter de la date
-d'exigibilité du nouveau loyer défini par la convention et applicable après
-exécution des travaux.
+Au locataire d'un logement conventionné en application de la section I du
+chapitre III du titre V du livre III de la première partie du code de la
+construction et de l'habitation, qui est titulaire d'un bail conforme aux
+stipulations de la convention, à compter de la première échéance du loyer prévu
+par ce bail [*bénéficiaire*] ;
 
-L'aide personnalisée est maintenue, aprés expiration ou résiliation de la
+Au locataire ou à l'occupant de bonne foi d'un logement conventionné en
+application de la section II du chapitre III du titre V du livre III de la
+première partie du code de la construction et de l'habitation, soit à compter de
+la première échéance du nouveau loyer notifié par le bailleur s'il s'agit d'un
+locataire ou occupant de bonne foi dans les lieux, soit à compter de la première
+échéance du loyer prévu par l'engagement de location s'il s'agit d'un nouveau
+locataire.
+
+L'aide personnalisée est maintenue, après expiration ou résiliation de la
 convention, au locataire ou à l'occupant qui acquitte un loyer et qui justifie
 des conditions prévues à l'article L. 353-9.
