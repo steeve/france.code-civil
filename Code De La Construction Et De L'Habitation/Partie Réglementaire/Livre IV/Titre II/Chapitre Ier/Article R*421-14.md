@@ -1,13 +1,11 @@
 Article R*421-14
 ----
-Les fonctions des membres du conseil d'administration sont gratuites. Toutefois
-le président, les vice-présidents du conseil d'administration et le président de
-la commission [*d'attributions des logements*] prévue à l'article R. 421-23
-peuvent bénéficier d'indemnités de fonctions forfaitaires dont les montants
-maxima sont fixés, selon la nature des fonctions exercées et d'après
-l'importance des établissements, par arrêté du ministre chargé de la
-construction et de l'habitation et du ministre chargé des finances.
+Le mandat de tous les administrateurs est gratuit.
 
-Le régime des frais de déplacement des membres du conseil d'administration est
-également fixé par arrêté du ministre chargé de la construction et de
-l'habitation et du ministre chargé des finances.
+Toutefois, le conseil d'administration peut décider, dans les conditions prévues
+par l'article R. 421-56 du code de la construction et de l'habitation,
+l'allocation d'une indemnité forfaitaire aux administrateurs salariés, ainsi que
+le remboursement des frais de déplacement des membres du conseil.
+
+Les administrateurs fonctionnaires ou agents de l'Etat et des collectivités
+territoriales bénéficient du régime des autorisations d'absence.

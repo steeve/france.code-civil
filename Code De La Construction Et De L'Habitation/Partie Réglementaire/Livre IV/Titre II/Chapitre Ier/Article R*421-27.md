@@ -18,9 +18,8 @@ séance.
 Il reçoit également copie des procès-verbaux desdites séances ainsi que des
 décisions prises par délégation du conseil d'administration.
 
-Il peut demander au conseil d'administration ou au conseil restreint de
-délibérer sur toute question qu'il juge utile de leur soumettre et, le cas
-échéant, provoquer leur réunion.
+Il peut demander au conseil d'administration de délibérer sur toute question
+qu'il juge utile de leur soumettre et, le cas échéant, provoquer leur réunion.
 
 Il est tenu régulièrement informé des projets et activités de l'office public
 d'aménagement et de construction et reçoit communication des documents
@@ -28,8 +27,8 @@ nécessaires à cet effet.
 
 Les délibérations autres que celles prévues à l'article R. 421-25 sont
 exécutoires à l'expiration d'un délai de dix jours à compter de la réunion du
-conseil d'administration ou du conseil restreint, à moins qu'avant l'expiration
-de ce délai le commissaire du Gouvernement ne demande une nouvelle délibération.
+conseil d'administration, à moins qu'avant l'expiration de ce délai le
+commissaire du Gouvernement ne demande une nouvelle délibération.
 
 Le commissaire du Gouvernement adresse au ministre chargé de la construction et
 de l'habitation un rapport annuel sur l'exercice de sa mission et sur l'activité

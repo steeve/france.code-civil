@@ -22,5 +22,7 @@ intenter une action en justice sans cette autorisation. Dans tous les cas, il
 doit rendre compte des actions qu'il a introduites à la prochaine séance du
 conseil d'administration.
 
-Il peut déléguer à un conseil restreint les pouvoirs spécifiés aux 3. et 7.
-ci-dessus.
+Le conseil d'administration peut déléguer les pouvoirs spécifiés aux 3° et 7°
+ci-dessus au bureau mentionné à l'article R. 421-15.
+
+Le bureau rend compte de son activité au conseil d'administration.

@@ -11,5 +11,4 @@ du ministre chargé de la construction et de l'habitation peut étendre ces
 participations à d'autres organismes.
 
 Les souscriptions de parts ou d'actions et les prises de participation doivent
-être autorisées par le conseil restreint, dans le cadre d'un montant global fixé
-par le conseil d'administration et révisé aussi souvent qu'il est nécessaire.
+être autorisées par le conseil d'administration.

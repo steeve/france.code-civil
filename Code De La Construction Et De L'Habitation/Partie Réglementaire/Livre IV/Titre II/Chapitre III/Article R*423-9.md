@@ -2,7 +2,7 @@ Article R*423-9
 ----
 L'agent comptable est chargé, sous sa responsabilité, du paiement des dépenses.
 
-A charge d'en saisir le conseil restreint à sa plus prochaine réunion, le
+A charge d'en saisir le conseil d'administration à sa plus prochaine réunion, le
 directeur général peut requérir, par écrit, l'agent comptable de passer outre au
 refus de règlement d'un mandat et de procéder à son paiement sans autre délai.
 La déclaration de refus de paiement et l'acte de réquisition sont annexés au
