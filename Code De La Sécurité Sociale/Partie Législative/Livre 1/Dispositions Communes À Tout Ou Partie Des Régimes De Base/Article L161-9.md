@@ -7,4 +7,5 @@ leurs droits aux prestations en nature de l'assurance maladie et maternité de
 leur régime d'origine aussi longtemps qu'ils bénéficient de cette allocation ou
 de ce congé. En cas de reprise du travail, les personnes susmentionnées
 retrouvent leurs droits aux prestations en nature et en espèces de l'assurance
-maladie-maternité, pendant une période fixée par décret.
+maladie-maternité et de l'assurance invalidité, pendant une période fixée par
+décret.

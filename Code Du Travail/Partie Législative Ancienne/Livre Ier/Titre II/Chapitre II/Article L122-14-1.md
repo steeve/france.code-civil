@@ -8,6 +8,10 @@ Cette lettre ne peut être expédiée moins d'un jour franc [*délai*] après la
 pour laquelle le salarié a été convoqué en application des dispositions de
 l'article L. 122-14.
 
+En l'absence d'institutions représentatives du personnel dans l'entreprise, les
+délais visés à l'alinéa précédent sont respectivement de quatre jours et de
+douze jours.
+
 Toutefois, si le salarié est licencié individuellement pour un motif d'ordre
 économique ou s'il est inclus dans un licenciement collectif d'ordre économique
 concernant moins de dix salariés dans une même période de trente jours, la

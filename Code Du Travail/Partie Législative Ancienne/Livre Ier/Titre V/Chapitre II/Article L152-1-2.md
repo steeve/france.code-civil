@@ -1,9 +1,16 @@
 Article L152-1-2
 ----
-A l'audience de renvoi et au vu des mesures définies et, le cas échéant,
-exécutées par l'employeur, le tribunal apprécie s'il y a lieu de prononcer une
-dispense de peine ou d'infliger les peines prévues par la loi.
+Les dispositions des articles 469-1 et 469-3 du code de procédure pénale
+relatives à l'ajournement du prononcé de la peine sont applicables dans le cas
+de poursuites pour infraction aux dispositions de l'article L. 123-1 [*égalité
+professionnelle des hommes et des femmes*], sous réserve des mesures
+particulières suivantes :
 
-Toutefois, dans le cas où le délai prévu au deuxième alinéa de l'article L.
-152-1-1 n'a pas été respecté, le tribunal peut prononcer un nouvel et dernier
-ajournement et impartir un nouveau délai au prévenu pour exécuter l'injonction.
+L'ajournement comporte injonction à l'employeur de définir, après consultation
+du comité d'entreprise ou, à défaut, des délégués du personnel, et dans un délai
+déterminé, les mesures propres à assurer dans l'entreprise en cause le
+rétablissement de l'égalité professionnelle entre les femmes et les hommes.
+L'ajournement peut, le cas échéant, comporter également injonction à l'employeur
+d'exécuter dans le même délai les mesures définies.
+
+Le tribunal peut ordonner l'exécution provisoire de sa décision.

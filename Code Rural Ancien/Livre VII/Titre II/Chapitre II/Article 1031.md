@@ -15,11 +15,15 @@ Un plafond est appliqué aux rémunérations ou gains servant de base au calcul 
 cotisations dues par l'employeur et par le salarié au titre de l'assurance
 vieillesse.
 
-Des décrets fixent le plafond mentionné à l'alinéa précédent, les différents
-taux de cotisations, ainsi que les exonérations accordées aux titulaires
-d'avantages de retraite ou des revenus de remplacement mentionnés à l'article 6
-de la loi n° 82-1 du 4 janvier 1982 modifiée, dont les ressources sont
-insuffisantes.
+La couverture des charges de l'assurance vieillesse est également assurée par
+une cotisation à la charge des employeurs assise sur la totalité des
+rémunérations et gains perçus par les salariés.
+
+Des décrets fixent le plafond mentionné au deuxième alinéa ci-dessus, les
+différents taux de cotisations, ainsi que les exonérations accordées aux
+titulaires d'avantages de retraite ou des revenus de remplacement mentionnés à
+l'article 6 de la loi n° 82-1 du 4 janvier 1982 modifiée, dont les ressources
+sont insuffisantes.
 
 Les contributions des employeurs destinées au financement des prestations
 complémentaires de retraite et de prévoyance sont exclues de l'assiette des

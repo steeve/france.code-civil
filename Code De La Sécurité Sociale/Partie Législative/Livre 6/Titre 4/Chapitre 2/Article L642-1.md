@@ -1,25 +1,23 @@
 Article L642-1
 ----
 Toute personne exerçant une activité professionnelle relevant de l'organisation
-autonome des professions libérales est tenue de verser des cotisations destinées
-à financer le régime des allocations de vieillesse mentionnés à l'article L.
-643-1. Le taux et l'assiette de ces cotisations, ainsi que les modalités de leur
-recouvrement sont fixés par décrets rendus après consultation du conseil
-d'administration de la caisse nationale d'assurance vieillesse des professions
-libérales. Ce taux doit être calculé de telle façon que le montant des
-cotisations puisse couvrir en même temps les frais et allocations de l'année
-courante et, le cas échéant, le déficit de l'année précédente.
+autonome d'assurance vieillesse des professions libérales est tenue de verser
+des cotisations destinées à financer notamment :
 
-Les décrets mentionnés au deuxième alinéa doivent prévoir l'exonération des
-cotisations en cas d'insuffisance des revenus professionnels et des ressources
-de toute nature de l'assujetti et de son conjoint, à l'exclusion des allocations
-familiales.
+1° Le régime de l'allocation vieillesse mentionné aux articles L. 643-1 à L.
+643-10 ;
 
-Ces décrets peuvent également prévoir une cotisation majorée pour les personnes
-dont le conjoint n'a cotisé lui-même à aucune institution obligatoire de
-retraite, les droits accordés à celui-ci par l'article L. 643-7 étant majorés en
-conséquence.
+2° Les charges de compensation incombant à cette organisation en application des
+articles L. 134-1 et L. 134-2.
 
-A défaut d'équilibre entre les dépenses et les recettes les versements incombant
-à une caisse peuvent être partiellement suspendus par décret pris en conseil des
-ministres.
+Les charges mentionnées aux 1° et 2° sont couvertes par une cotisation
+forfaitaire et par une cotisation proportionnelle déterminée en pourcentage des
+revenus professionnels libéraux de l'avant-dernière année retenus pour le calcul
+de l'impôt sur le revenu.
+
+Le montant de la cotisation forfaitaire et le taux de la cotisation
+proportionnelle aux revenus sont fixés par décret rendu après consultation du
+conseil d'administration de la Caisse nationale d'assurance vieillesse des
+professions libérales. Ces cotisations sont calculées de telle sorte qu'elles
+couvrent les charges de l'année courante et, le cas échéant, le déficit de
+l'année précédente.

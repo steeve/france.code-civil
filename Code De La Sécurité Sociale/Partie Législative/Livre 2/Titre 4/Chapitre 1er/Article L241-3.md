@@ -16,6 +16,11 @@ de l'employeur et pour partie à la charge du salarié.
 Des cotisations forfaitaires peuvent être fixées par des arrêtés ministériels
 pour certaines catégories de salariés ou assimilés.
 
+La couverture des charges de l'assurance vieillesse est également assurée par
+des cotisations à la charge des employeurs et assises sur la totalité des
+rémunérations ou gains perçus par les travailleurs salariés ou assimilés. Le
+taux de ces cotisations est fixé par décret.
+
 Le recouvrement des cotisations mentionnées au présent article est assuré pour
 le compte de la caisse nationale d'assurance vieillesse par les unions de
 recouvrement. Le contrôle et le contentieux du recouvrement sont également

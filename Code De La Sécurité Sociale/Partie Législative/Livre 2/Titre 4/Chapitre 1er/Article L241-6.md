@@ -18,4 +18,6 @@ employeurs et travailleurs indépendants des professions non-agricoles, dans des
 conditions fixées par décret ;
 
 3°) des cotisations et ressources affectées aux prestations familiales des
-personnes salariées et non-salariées des régimes agricoles.
+personnes salariées et non-salariées des régimes agricoles ;
+
+4°) Le produit de la contribution sociale généralisée.

@@ -34,4 +34,4 @@ Les dispositions du premier alinéa ne sont pas opposables à l'assuré qui dema
 le bénéfice d'une pension au titre des articles L. 351-15, L. 634-3-1, L.
 643-8-1 du présent code ou 1121-2 du code rural .
 
-Les dispositions du présent article sont applicables jusqu'au 31 décembre 1990.
+Les dispositions du présent article sont applicables jusqu'au 31 décembre 1991.
