@@ -7,7 +7,7 @@ suivants :
 Contribution des entreprises d'assurances : 10 % de la totalité des charges du
 fonds de garantie.
 
-Contribution forfaitaire des assurés : 0,90 F par personne garantie.
+Contribution forfaitaire des assurés : 1,50 F par personne garantie.
 
 2. Le versement d'acomptes sur leur contribution peut être demandé aux sociétés
 d'assurances par le fonds de garantie.

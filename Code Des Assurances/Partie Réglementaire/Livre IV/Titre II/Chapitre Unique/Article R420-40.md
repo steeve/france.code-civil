@@ -11,4 +11,4 @@ fonds de garantie, à compter du 1er janvier 1977.
 - taux réduit lorsque l'accident résulte d'une opération de destruction des
 animaux nuisibles effectuée en vertu des articles 393 à 395 du code rural : 5 %.
 
-Contribution forfaitaire des assurés : 0,90 F par personne garantie.
+Contribution forfaitaire des assurés : 1,50 F par personne garantie.
