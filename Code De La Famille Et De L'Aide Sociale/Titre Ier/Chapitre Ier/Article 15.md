@@ -1,5 +1,5 @@
 Article 15
 ----
-Les associations de famille créées antérieurement au 3 mars 1945 [*date limite*]
-sont et demeurent placées sous le régime et bénéficient du statut défini par la
-présente section.
+Un décret en Conseil d'Etat fixe les conditions d'application de la présente
+section. Il précise notamment les modalités des élections des conseils
+d'administration de l'union nationale et des unions départementales.

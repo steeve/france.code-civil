@@ -13,6 +13,9 @@ entre eux justifient cette mesure, soit par des personnes agréées à cet effet
 dans des conditions fixées par décret, par le responsable du service de l'aide
 sociale à l'enfance.
 
+Cet agrément est accordé par l'autorité compétente dans un délai qui ne peut
+excéder neuf mois à compter du jour de la demande [*point de départ*].
+
 La définition du projet d'adoption, simple ou plénière suivant les circonstances
 particulières à la situation de l'enfant, ainsi que le choix des adoptants
 éventuels sont assurés par le tuteur avec l'accord du conseil de famille.

@@ -8,6 +8,6 @@ individuelles et collectives des restrictions qui ne seraient pas justifiées pa
 la nature de la tâche à accomplir ni proportionnées au but recherché.
 
 Il ne peut comporter de dispositions lésant les salariés dans leur emploi ou
-leur travail, en raison de leur sexe, de leur situation de famille, de leurs
-origines, de leurs opinions ou confessions, ou de leur handicap, à capacité
-professionnelle égale [*non discrimination*].
+leur travail, en raison de leur sexe, de leurs moeurs, de leur situation de
+famille, de leurs origines, de leurs opinions ou confessions, ou de leur
+handicap, à capacité professionnelle égale [*non discrimination*].

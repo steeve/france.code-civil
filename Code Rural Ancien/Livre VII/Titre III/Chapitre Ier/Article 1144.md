@@ -9,7 +9,12 @@ nature qu'elles soient ainsi que dans les exploitations d'élevage, de dressage,
 d'entraînement, les haras, les entreprises de toute nature, bureaux, dépôts ou
 magasins de vente se rattachant à des syndicats ou exploitations agricoles
 lorsque le syndicat ou l'exploitation agricole constitue le principal
-établissement ;
+établissement ainsi que ceux occupés dans les structures d'accueil touristique
+implantées sur des exploitations agricoles, lorsque l'activité complémentaire
+d'accueil constitue le prolongement de la mise en valeur de l'exploitation.
+
+Un décret détermine les critères permettant d'apprécier le caractère accessoire
+de l'activité touristique.
 
 2° Les ouvriers et employés occupés dans les établissements de conchyliculture
 et de pisciculture et établissements assimilés, à l'exception de ceux qui
@@ -20,7 +25,7 @@ entreprises de travaux forestiers.
 
 Sont considérées comme travaux forestiers les travaux suivants :
 
-- Travaux d'exploitation de bois, à savoir abattage, ébranchage, élagage,
+- travaux d'exploitation de bois, à savoir abattage, ébranchage, élagage,
 éhouppage, débardage sous toutes ses formes, travaux précédant ou suivant
 normalement ces opérations tels que débroussaillement, nettoyage des coupes
 ainsi que le transport de bois effectué par l'entreprise qui a procédé à tout ou
@@ -28,10 +33,10 @@ partie des opérations précédentes et, lorsqu'ils sont effectués sur le parte
 de la coupe, travaux de façonnage, de conditionnement du bois, de sciage et de
 carbonisation, quels que soient les procédés utilisés ;
 
-- Travaux de reboisement et de sylviculture, y compris l'élagage le
+- travaux de reboisement et de sylviculture, y compris l'élagage le
 débroussaillement et le nettoyage des coupes ;
 
-- Travaux d'équipement forestier, lorsqu'ils sont accessoires aux travaux
+- travaux d'équipement forestier, lorsqu'ils sont accessoires aux travaux
 ci-dessus.
 
 Ces travaux conservent leur caractère forestier lorsqu'ils sont effectués en

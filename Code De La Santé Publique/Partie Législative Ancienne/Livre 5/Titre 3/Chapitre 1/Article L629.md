@@ -13,9 +13,14 @@ L. 627, les tribunaux pourront interdire au condamné l'exercice de la professio
 à l'occasion de laquelle le délit aura été commis pendant un délai qui ne pourra
 excéder cinq ans [*délai de prescription*].
 
-Dans les cas prévus au premier alinéa de l'article L. 627, la confiscation des
-matériels et installations ayant servi à la fabrication et au transport des
-substances ou plantes devra être ordonnée.
+Dans les cas prévus par les alinéas premier et deuxième de l'article L. 627,
+seront saisis et confisqués les installations, matériels et tous biens mobiliers
+ayant servi, directement ou indirectement, à la commission de l'infraction ainsi
+que tout produit provenant de celle-ci, à quelque personne qu'ils appartiennent
+à moins que les propriétaires n'établissent leur bonne foi. Les frais
+d'enlèvement et de transport de ces installations, matériels et biens seront à
+la charge du condamné ; s'ils ont été avancés pas l'administration, ils seront
+recouvrés comme frais de justice criminelle.
 
 Dans les cas prévus au 1° du quatrième alinéa de l'article L. 627, les tribunaux
 pourront ordonner la confiscation des ustensiles, matériels et meubles dont les

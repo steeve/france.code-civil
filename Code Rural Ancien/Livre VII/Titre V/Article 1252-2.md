@@ -22,7 +22,11 @@ comité administratifs ou paritaires, pour les accidents survenus par le fait ou
 
 4° Les salariés accomplissant un stage de formation dans les conditions prévues
 par les articles L. 236-10, L. 434-10 et L. 451-1 du code du travail, pour les
-accidents survenus par le fait ou à l'occasion de cette formation.
+accidents survenus par le fait ou à l'occasion de cette formation ;
+
+5° Les bénéficiaires des allocations mentionnées au sixième alinéa (4°) de
+l'article L. 322-4 du code du travail pour les accidents survenus par le fait ou
+à l'occasion des actions favorisant leur reclassement.
 
 Des décrets fixent les modalités de prise en charge, par les caisses
 d'assurance-accident agricole des départements du Haut-Rhin, du Bas-Rhin et de

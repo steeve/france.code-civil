@@ -17,4 +17,8 @@ dû être établies ;
 
 f) Les coopératives d'utilisation de matériel agricole visées à l'article 550 et
 régulièrement agréées sauf pour leur personnel administratif ou des ateliers de
-réparations.
+réparations ;
+
+g) Les groupements d'employeurs prévus aux articles L. 127-1 et L. 127-7 du code
+du travail lorsqu'ils sont constitués d'exploitants agricoles, sauf pour leur
+personnel administratif.

@@ -1,23 +1,25 @@
 Article 22
 ----
-Une carte de priorité est attribuée aux mères de famille remplissant l'une des
-conditions suivantes :
+Une carte de priorité est délivrée par les organismes chargés du versement des
+prestations familiales aux personnes remplissant l'une des conditions suivantes
+[*bénéficiaires*] :
 
-a) mères de famille ayant au moins trois enfants [*nombre*] de moins de seize
-ans ou deux enfants de moins de quatre ans, à la condition que ces enfants
-soient légitimes, reconnus ou adoptés ;
+a) Femmes enceintes ;
 
-b) femmes enceintes ;
+b) Ménages ou personnes ayant la charge effective et permanente, au sens de
+l'article L. 519 du code de la sécurité sociale, d'un enfant de moins de trois
+ans ;
 
-c) mères allaitant leur enfant au sein ;
+c) Ménages ou personnes ayant la charge effective ou permanente, au sens du même
+article, d'au moins trois enfants de moins de seize ans ou de deux enfants de
+moins de quatre ans.
 
-d) mères décorées de la médaille de la famille française.
+Cette carte est délivrée par l'autorité administrative de l'Etat aux personnes
+qui, décorées de la médaille de la famille française, n'en sont pas moins
+titulaires par application de l'alinéa premier du présent article.
 
-Elle peut être délivrée à un autre membre de la famille au lieu et place des
-mères visées au a, lorsque celles-ci sont décédées ou se trouvent dans
-l'incapacité physique d'utiliser personnellement la carte.
+La carte est valable pour toute la durée de la grossesse.
 
-Elle n'est pas délivrée [*non*] aux mères qui, par suite de divorce, de
-séparation ou d'abandon de famille, ne vivent pas avec leurs enfants ; elle
-peut, dans ce cas, être délivrée à un autre membre de la famille. Il ne peut
-être délivré plus d'une carte par foyer [*nombre*].
+Dans les autres cas, la durée de validité de la carte est de trois ans, avec
+renouvellement pour la même période si les conditions fixées à l'alinéa premier
+ci-dessus continuent d'être remplies.
