@@ -1,19 +1,14 @@
 Article 100-1
 ----
-Toute personne ou association qui, habituellement, à titre principal ou
-accessoire, place en vue de leur adoption des mineurs de quinze ans [*âge*] ou
-sert d'intermédiaire pour leur adoption ou leur placement en vue de leur
-adoption, même avec l'intervention des parents, doit, sans préjudice des
-formalités imposées par le droit commun en matière de protection de l'enfance, y
-être autorisée par le préfet sur avis du conseil visé à l'article 97 ci-dessus
-[*condition*].
+Toute personne physique et toute personne morale de droit privé qui sert
+d'intermédiaire pour l'adoption ou le placement en vue d'adoption de mineurs de
+quinze ans [*âge*], doit avoir obtenu une autorisation préalable d'exercer cette
+activité auprès du président du conseil général de chaque département dans
+lequel elle envisage de placer les mineurs concernés.
 
-L'absence de notification de refus dans les quatre mois de la demande vaudra
-autorisation [*tacite*].
+Les bénéficiaires de l'autorisation visée à l'alinéa précédent doivent obtenir
+une habilitation du ministre compétent pour exercer leur activité au profit de
+mineurs étrangers.
 
-Les personnes ou associations autorisées sont tenus aux obligations prévues par
-les articles 55 et 64, alinéa 1er.
-
-Un décret pris en Conseil d'Etat déterminera les conditions dans lesquelles est
-accordée, refusée ou retirée l'autorisation visée à l'alinéa 1er ainsi que les
-obligations particulières imposées aux personnes ou associations autorisées.
+Un décret en Conseil d'Etat fixe les conditions d'application du présent
+article.

@@ -9,3 +9,7 @@ exceptionnel.
 
 Elles peuvent être ordonnées en même temps pour plusieurs enfants relevant de la
 même autorité parentale.
+
+La décision fixe la durée de la mesure sans que celle-ci puisse, lorsqu'il
+s'agit d'une mesure éducative exercée par un service ou une institution, excéder
+deux ans. La mesure peut être renouvelée par décision motivée.

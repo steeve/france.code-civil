@@ -6,7 +6,9 @@ leur employeur, pour chaque mineur confié en garde permanente, un contrat de
 placement distinct du contrat de travail.
 
 Ce contrat précise notamment le rôle de la famille d'accueil et celui du service
-ou organisme employeur à l'égard du mineur et de sa famille.
+ou organisme employeur à l'égard du mineur et de sa famille. Il fixe les
+conditions de l'arrivée de l'enfant dans la famille d'accueil et de son départ,
+ainsi que du soutien éducatif dont il bénéficiera.
 
 Si l'assistante maternelle est mariée et demeure avec son conjoint, le contrat
 de placement doit être également signé [*obligatoirement*] par celui-ci.

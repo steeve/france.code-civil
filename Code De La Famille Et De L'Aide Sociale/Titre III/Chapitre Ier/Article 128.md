@@ -1,29 +1,35 @@
 Article 128
 ----
-Dans un délai d'un mois, à compter de la notification aux intéressés de la
-décision de la commission [*d'admission*], un recours peut être formé devant la
-commission départementale. Les recours sont jugés par cette commission qui siège
-au chef-lieu du département et qui comprend sept membres :
+Un recours peut être formé devant la commission départementale contre les
+décisions des commissions d'admission ou des autorités siégeant dans le
+département mentionnées au second alinéa de l'article 124-2, dans le délai de
+deux mois à compter de leur notification aux intéressés [*point de départ*.
 
-Le président du tribunal du chef-lieu, président ;
+La commission départementale siège au chef-lieu du département *]composition*.
+Elle est présidée par le président du tribunal de grande instance du chef-lieu
+ou le magistrat désigné par lui pour le remplacer. Elle comprend, en outre :
 
-Trois conseillers généraux élus par le conseil général ;
+- trois conseillers généraux élus par le conseil général ;
 
-Trois fonctionnaires de l'Administration des finances désignés par le préfet.
+- trois fonctionnaires de l'Etat en activité ou à la retraite désignés par le
+représentant de l'Etat dans le département.
 
-Assistent à la commission avec voix consultative :
+En cas d'égal partage des voix, le président a voix prépondérante.
 
-Un représentant des organismes de sécurité sociale ou de la mutualité sociale
-agricole désigné par le préfet dans les conditions fixées par règlement
-d'administration publique ;
+Le secrétaire de la commission assure les fonctions de rapporteur.
 
-Un représentant d'une commission administrative d'hôpital ou d'hospice désigné
-par le préfet.
+Il peut lui être adjoint un ou plusieurs rapporteurs. Ils sont nommés par le
+président de la commission parmi les personnes figurant sur une liste établie
+conjointement par le président du conseil général et le représentant de l'Etat
+dans le département. Ils ont voix délibérative sur les affaires qu'ils
+rapportent.
 
-Le secrétaire de la commission assure les fonctions de rapporteur. Il peut lui
-être adjoint un ou plusieurs rapporteurs.
+Un commissaire du Gouvernement désigné par le représentant de l'Etat dans le
+département prononce ses conclusions sur les affaires que lui confie le
+président. Il n'a pas voix délibérative.
 
-Le directeur départemental de la population et de l'aide sociale exerce auprés
-de la commission départementale les fonctions de commissaire du Gouvernement. En
-cette qualité, il donne ses conclusions sur chacune des affaires soumises à la
-commission.
+Le secrétaire, les rapporteurs et les commissaires du Gouvernement sont choisis
+parmi les fonctionnaires ou magistrats en activité ou à la retraite.
+
+Le demandeur, accompagné de la personne ou de l'organisme de son choix, est
+entendu lorsqu'il le souhaite.

@@ -1,8 +1,8 @@
 Article 98
 ----
-L'autorisation d'organiser un centre familial de placement est accordée par
-arrêté préfectoral pris sur la proposition du directeur départemental de la
-population et de l'aide sociale et du directeur de la santé après avis du
-conseil visé à l'article précédent, déterminant notamment le périmètre de
-l'organisation, les conditions de surveillance auxquelles sont soumis ces
-placements particulièrement au point de vue sanitaire.
+Les articles 207, 208, 209, 209 bis, 210, 211, 212 et 215 du présent code sont
+applicables aux établissements du type de ceux mentionnés à l'article 95 et
+créés par des collectivités publiques.
+
+Le pouvoir de fermeture mentionné à l'article 97 est exercé par le représentant
+de l'Etat dans le département.

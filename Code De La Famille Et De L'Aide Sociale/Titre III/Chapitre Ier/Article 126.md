@@ -1,35 +1,38 @@
 Article 126
 ----
-La commission d'admission comprend cinq membres [*nombre*] :
+La commission d'admission à l'aide sociale [*composition*] est présidée par un
+magistrat du siège en activité ou honoraire ou par une personnalité compétente,
+désigné par le premier président de la cour d'appel.
 
-Un magistrat du siège en activité ou honoraire, désigné par le premier président
-de la cour d'appel, président.
+Elle comprend, outre le président :
 
-Deux fonctionnaires de l'administration des finances désignés par le préfet.
+1° Lorsqu'elle statue sur les demandes de prestations relevant du département en
+application de l'article 32 de la loi n° 83-663 du 22 juillet 1983 précitée, le
+conseiller général du canton comportant la commune où la demande a été déposée
+ou du canton du demandeur dans le cas où le dossier est transmis dans les
+conditions prévues à l'article 194, ou un conseiller général suppléant désigné
+par le conseil général et le maire de la commune concernée ou un conseiller
+municipal, suppléant ;
 
-Ces membres titulaires peuvent être remplacés par des membres suppléants
-désignés dans les mêmes conditions.
+2° Lorsqu'elle statue sur les demandes de prestations relevant de l'Etat en
+application de l'article 35 de la loi n° 83-663 du 22 juillet 1983 précitée,
+deux fonctionnaires de l'Etat désignés par le représentant de l'Etat dans le
+département ou leurs suppléants désignés dans les mêmes conditions.
 
-Le conseiller général du canton comprenant la commune où réside l'intéressé.
+Lorsque la commission siège dans la formation prévue au 1° ci-dessus, les
+personnes mentionnées au 2° peuvent siéger avec voix consultative. Lorsqu'elle
+siège dans la formation prévue au 2°, les personnes mentionnées au 1° peuvent
+siéger avec voix consultative.
 
-Pour les affaires concernant la commune, le maire de la commune intéressée. Le
-maire peut se faire suppléer par un membre du conseil municipal.
+Lorsqu'elle statue en application du cinquième alinéa de l'article 194, la
+commission siège en formation plénière.
 
-En cas de partage, la voix du président est prépondérante.
+En cas d'égal partage des voix, le président a voix prépondérante.
 
-Assistent à la commission avec voix consultative :
+Peuvent siéger avec voix consultative un représentant des organismes de sécurité
+sociale ou de la mutualité sociale agricole et un représentant d'un centre
+communal d'action sociale désignés conjointement par le président du conseil
+général et le représentant de l'Etat dans le département.
 
-Un représentant des organismes de sécurité sociale ou de la mutualité sociale
-agricole, désigné par le préfet dans les conditions qui sont fixées par arrêté
-interministériel.
-
-Un représentant d'un bureau d'aide sociale désigné par le préfet.
-
-Le directeur départemental de la population et de l'aide sociale ou son
-représentant, représente le préfet auprès de la commission.
-
-Le conseil général fixe, sur proposition du préfet, le ressort de la commission
-et la périodicité de ses réunions dans les conditions déterminées par décret.
-
-Le secrétariat de la commission est assuré par un secrétaire rapporteur désigné
-par le préfet dans les conditions fixées par ledit décret.
+Le demandeur, accompagné de la personne ou de l'organisme de son choix, est
+entendu lorsqu'il le souhaite sur décision du président de la commission.
