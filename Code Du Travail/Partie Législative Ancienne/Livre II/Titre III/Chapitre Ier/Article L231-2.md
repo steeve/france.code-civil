@@ -11,25 +11,20 @@ couchage du personnel, etc. ;
 2. Au fur et à mesure des nécessités constatées les prescriptions particulières
 relatives soit à certaines professions, soit à certains modes de travail ;
 
-3. Les mesures relatives à l'organisation et au fonctionnement, dans les
-établissements assujettis des institutions ayant pour mission d'aider à
-l'observation des prescriptions ci-dessus indiquées et de contribuer à
-l'amélioration des conditions d'hygiène et de sécurité du travail et à la
-protection de la santé des travailleurs.
+3. Les modalités de l'évaluation des risques pour la santé et la sécurité des
+travailleurs prévue au III de l'article L. 230-2.
 
 4. L'organisation, le fonctionnement ainsi que les modalités de participation
 des établissements au financement d'organismes professionnels d'hygiène, de
 sécurité et des conditions de travail, constitués dans les branches d'activités
-à haut risque ; ces
-
-organismes, qui doivent associer les représentants des organisations
-professionnelles d'employeurs et de salariés les plus représentatives et dont
-l'activité est coordonnée par l'agence pour l'amélioration des conditions de
-travail prévue à l'article L. 200-5, sont chargés notamment de promouvoir la
-formation à la sécurité, de déterminer les causes techniques des risques
-professionnels, de susciter les initiatives professionnelles en matière de
-prévention et de proposer aux pouvoirs publics toutes mesures dont l'expérience
-aura fait apparaître l'utilité.
+à haut risque ; ces organismes, qui doivent associer les représentants des
+organisations professionnelles d'employeurs et de salariés les plus
+représentatives et dont l'activité est coordonnée par l'agence pour
+l'amélioration des conditions de travail prévue à l'article L. 200-5, sont
+chargés notamment de promouvoir la formation à la sécurité, de déterminer les
+causes techniques des risques professionnels, de susciter les initiatives
+professionnelles en matière de prévention et de proposer aux pouvoirs publics
+toutes mesures dont l'expérience aura fait apparaître l'utilité.
 
 Les établissements tenus de constituer un comité d'hygiène, de sécurité et des
 conditions de travail, notamment en application de l'article L. 236-1, ne sont

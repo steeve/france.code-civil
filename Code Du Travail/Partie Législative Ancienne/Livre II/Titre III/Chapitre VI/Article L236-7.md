@@ -1,9 +1,9 @@
 Article L236-7
 ----
-Le chef d'établissement est tenu de laisser chacun des représentants du
+Le chef d'établissement est tenu de laisser à chacun des représentants du
 personnel au comité d'hygiène, de sécurité et des conditions de travail le temps
 nécessaire à l'exercice de leurs fonctions. Ce temps est au moins égal à deux
-heures par mois dans les établissements occupant jusqu'à 9 salariés
+heures par mois dans les établissements occupant jusqu'à 99 salariés
 [*effectif*], cinq heures par mois dans les établissements occupant de 100 à 299
 salariés, dix heures par mois dans les établissements occupant de 300 à 499
 salariés, quinze heures par mois dans les établissements occupant de 500 à 1499
@@ -35,3 +35,8 @@ prévues au premier alinéa [*crédit d'heures*].
 L'inspecteur du travail doit être prévenu de toutes les réunions du comité
 d'hygiène, de sécurité et des conditions de travail et peut y assister
 [*information*].
+
+Lors des visites effectuées par l'inspecteur ou le contrôleur du travail, les
+représentants du personnel au comité d'hygiène, de sécurité et des conditions de
+travail doivent être informés de sa présence par le chef d'établissement et
+doivent pouvoir présenter leurs observations.

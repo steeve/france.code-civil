@@ -5,14 +5,15 @@ dispositions du présent titre les établissements industriels, commerciaux et
 agricoles et leurs dépendances, de quelque nature que ce soit, publics ou
 privés, laïques ou religieux, même s'ils ont un caractère coopératif,
 d'enseignement professionnel ou de bienfaisance, y compris les établissements où
-ne sont employés que les membres de la famille sous l'autorité, soit du père,
+ne sont employés que les membres de la famille sous l'autorité soit du père,
 soit de la mère, soit du tuteur.
 
 Sont également soumis à ces dispositions les offices publics ou ministériels,
 les professions libérales, les sociétés civiles, les syndicats professionnels,
 les associations et groupements de quelque nature que ce soit, ainsi que les
-établissements [*d'hospitalisation publics*] mentionnés à l'article L792 du code
-de la santé publique et les établissements de soins privés.
+établissements mentionnés à l'article 2 de la loi n° 86-33 du 9 janvier 1986
+portant dispositions statutaires relatives à la fonction publique hospitalière
+et les établissements de soins privés.
 
 Sont également soumis aux dispositions du présent titre les établissements
 publics à caractère industriel et commercial et les établissements publics
@@ -23,9 +24,10 @@ dispositions peuvent, compte tenu des caractères particuliers de certains de ce
 établissements et des organismes de représentation du personnel éventuellement
 existants, faire l'objet d'adaptations sous réserve d'assurer les mêmes
 garanties aux salariés de ces établissements. Ces adaptations résultent de
-décrets en Conseil d'Etat. Les ateliers des établissements publics dispensant un
-enseignement technique ou professionnel sont soumis aux dispositions des
-chapitres II, III et IV du présent titre, en ce qui concerne tant les personnels
-que les élèves. Un décret d'application fixe les conditions de mise en oeuvre de
-ces dispositions eu égard aux finalités spécifiques des établissements
-d'enseignement.
+décrets en Conseil d'Etat.
+
+Les ateliers des établissements publics dispensant un enseignement technique ou
+professionnel sont soumis aux dispositions des chapitres II, III et IV du
+présent titre, en ce qui concerne tant les personnels que les élèves. Un décret
+d'application fixe les conditions de mise en oeuvre de ces dispositions eu égard
+aux finalités spécifiques des établissements d'enseignement.

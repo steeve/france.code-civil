@@ -1,18 +1,35 @@
 Article L236-9
 ----
-Le comité d'hygiène, de sécurité et des conditions de travail peut faire appel à
-un expert lorsqu'un risque grave, révélé ou non par un accident du travail ou
-une maladie à caractère professionnel, est constaté dans l'établissement.
+I. - Le comité d'hygiène, de sécurité et des conditions de travail peut faire
+appel à un expert agréé :
 
-En cas de désaccord avec l'employeur sur la nécessité d'une telle expertise, sur
-la désignation de l'expert ou sur le coût de l'expertise, la décision est prise
-par le président du tribunal de grande instance statuant en urgence
-[*juridiction compétente*].
+1° Lorsqu'un risque grave, révélé ou non par un accident du travail, une maladie
+professionnelle ou à caractère professionnel est constaté dans l'établissement ;
 
-Les frais d'expertise sont à la charge de l'employeur.
+2° En cas de projet important modifiant les conditions d'hygiène et de sécurité
+ou les conditions de travail, prévu au sixième alinéa de l'article L. 236-2 ;
+l'expertise doit ^etre faite dans le délai d'un mois ; ce délai peut ^etre
+prolongé pour tenir compte des nécessités de l'expertise ; le délai total ne
+peut excéder quarante-cinq jours.
+
+Les conditions dans lesquelles les experts mentionnés ci-dessus sont agréés par
+les ministres chargés du travail et de l'agriculture sont fixées par voie
+réglementaire.
+
+II. - Dans le cas où le comité d'entreprise ou d'établissement a recours à un
+expert, en application du quatrième alinéa de l'article L. 434-6, à l'occasion
+d'un projet important d'introduction de nouvelles technologies, le comité
+d'hygiène, de sécurité et des conditions de travail doit, s'il souhaite un
+complément d'expertise sur les conditions de travail, faire appel à cet expert.
+
+III. - Les frais d'expertise sont à la charge de l'employeur.
+
+Si l'employeur entend contester la nécessité de l'expertise, la désignation de
+l'expert, le co^ut, l'étendue ou le délai de l'expertise, cette contestation est
+portée devant le président du tribunal de grande instance statuant en urgence.
 
 L'employeur ne peut s'opposer à l'entrée de l'expert dans l'établissement. Il
 lui fournit les informations nécessaires à l'exercice de sa mission.
 
-L'expert est tenu aux obligations de secret et de discrétion tels que définis à
-l'article L. 236-3.
+L'expert est tenu aux obligations de secret [*professionnel*] et de discrétion
+tels que définis à l'article L. 236-3.

@@ -1,47 +1,79 @@
 Article L233-5
 ----
-Il est interdit d'exposer, de mettre en vente, de vendre, d'importer, de louer,
-de céder à quelque titre que ce soit ou d'utiliser :
+I. - Les machines, appareils, outils, engins, matériels et installations
+ci-après désignés par les termes d'équipements de travail qui font l'objet des
+opérations mentionnées au II du présent article doivent être conçus et
+construits de façon que leur mise en place, leur utilisation, leur réglage, leur
+maintenance, dans des conditions conformes à leur destination, n'exposent pas
+les personnes à un risque d'atteinte à leur sécurité ou leur santé.
 
-a) Des appareils, machines et éléments de machines qui ne sont pas construits,
-disposés, protégés ou commandés dans des conditions assurant la sécurité et
-l'hygiène des travailleurs ;
+Les protecteurs et dispositifs de protection, les équipements et produits de
+protection individuelle, ci-après dénommés moyens de protection, qui font
+l'objet des opérations mentionnées au II du présent article doivent être conçus
+et fabriqués de manière à protéger les personnes, dans des conditions
+d'utilisation et de maintenance conformes à leur destination, contre les risques
+pour lesquels ils sont prévus.
 
-b) Des protecteurs de machines ainsi que des dispositifs, équipements ou
-produits de protection qui ne sont pas de nature à garantir les travailleurs
-contre les dangers de tous ordres auxquels ils sont exposés.
+II. - Il est interdit d'exposer, de mettre en vente, de vendre, d'importer, de
+louer, de mettre à disposition ou de céder à quelque titre que ce soit des
+équipements de travail et des moyens de protection mentionnés au 1° du III du
+présent article qui ne répondent pas aux dispositions prévues au 3° du III.
 
-Des décrets en Conseil d'Etat pris dans les conditions prévues à l'alinéa 1er de
-l'article L. 231-3 et après avis des organisations professionnelles d'employeurs
-et de salariés intéressés :
+III. - Des décrets en Conseil d'Etat, pris dans les conditions prévues au
+premier alinéa de l'article L. 231-3 et après avis des organisations syndicales
+d'employeurs et des organisations syndicales de salariés intéressées,
+déterminent :
 
-1. Déterminent les matériels y compris les matériels agricoles, auxquels
-s'appliquent les dispositions du premier alinéa du présent article ;
+1° Les équipements de travail et les moyens de protections soumis aux
+obligations de sécurité définies au I du présent article ;
 
-2. Définissent les conditions d'hygiène et de sécurité auxquelles les matériels
-les plus dangereux et les protecteurs de machines doivent satisfaire pour que
-soit assurée la protection des travailleurs et fixent la procédure à suivre pour
-vérifier l'efficacité des mesures prescrites à cet effet ;
+2° Les procédures de certification de conformité aux règles techniques
+auxquelles doivent se soumettre les fabricants, importateurs et cédants, ainsi
+que les garanties dont ils bénéficient.
 
-3. Fixent les règles générales d'hygiène et de sécurité auxquelles doivent
-satisfaire les autres matériels et déterminent le mode d'établissement des
-prescriptions techniques nécessaires à l'application de ces règles ;
+L'issue de la procédure de certification de conformité peut être notamment
+subordonnée au résultat :
 
-4. Organisent une procédure d'urgence permettant de s'opposer à ce que des
-matériels ne répondant pas aux exigences définies aux a et b du premier alinéa
-ci-dessus fassent l'objet des opérations énumérées au premier alinéa du présent
-article.
+a) De vérifications, même inopinées, effectuées par des organismes habilités,
+dans les locaux de fabrication ou de stockage d'équipements de travail ou de
+moyens de protection qui, s'ils se révélaient non conformes, seraient
+susceptibles d'exposer les personnes concernées à un risque grave ;
 
-Des arrêtés du ministre chargé du travail peuvent établir la liste des normes
-techniques de sécurité dont le respect permet de satisfaire aux règles édictées
-par les décrets prévus aux 2° et 3° du deuxième alinéa. Ces arrêtés peuvent
-rendre obligatoires certaines de ces normes.
+b) D'examens ou essais, même destructifs, lorsque l'état de la technique le
+requiert ;
 
-Par dérogation aux dispositions du premier alinéa, sont autorisées, pour une
-durée déterminée, l'importation aux fins d'exposition et l'exposition dans les
-foires et salons autorisés de matériels et de produits ne satisfaisant pas aux
-prescriptions d'hygiène et de sécurité définies au deuxième alinéa [*non
-conformes*]. Toutefois, leur exposition est subordonnée à la présence d'un
-avertissement placé à proximité pendant toute la durée de l'exposition, dont les
-caractéristiques sont fixées par un arrêté du ministre chargé du travail pris
-après avis du Conseil supérieur de la prévention des risques professionnels.
+3° Les règles techniques auxquelles doit satisfaire chaque type d'équipement de
+travail et de moyen de protection ainsi que la procédure de certification qui
+lui est applicable ;
+
+4° Les conditions dans lesquelles l'autorité administrative habilitée à
+contrôler la conformité peut demander au fabricant ou à l'importateur
+communication d'une documentation dont le contenu est précisé par arrêté ;
+l'absence de communication de cette documentation technique dans le délai
+prescrit constitue un indice de non-conformité de l'équipement de travail ou du
+moyen de protection aux règles techniques qui lui sont applicables, susceptible
+d'entraîner la mise en oeuvre des mesures prévues au 5° ci-après.
+
+Les personnes ayant accès à cette documentation technique sont tenues de ne pas
+révéler les secrets de fabrication et les procédés d'exploitation dont elles
+pourraient avoir connaissance à cette occasion ;
+
+5° Les conditions dans lesquelles est organisée une procédure de sauvegarde
+permettant :
+
+a) Soit de s'opposer à ce que des équipements de travail ou des moyens de
+protection ne répondant pas aux exigences définies au I du présent article et à
+tout ou partie des règles techniques prévues au 3° ci-dessus fassent l'objet des
+opérations visées au II du présent article et au II de l'article L. 233-5-1 ;
+
+b) Soit de subordonner l'accomplissement de ces opérations à des vérifications,
+épreuves, règles d'entretien, modifications des modes d'emploi des équipements
+de travail ou moyens de protection concernés.
+
+IV. - Des arrêtés du ministre chargé du travail ou du ministre chargé de
+l'agriculture :
+
+1° Peuvent établir la liste des normes dont le respect est réputé satisfaire aux
+règles techniques prévues au 3° du III du présent article ;
+
+2° Peuvent rendre obligatoires certaines des normes mentionnées au 1° ci-dessus.

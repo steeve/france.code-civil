@@ -1,8 +1,8 @@
 Article L231-3
 ----
-Les décrets en Conseil d'Etat prévus à l'article L. 231-2 (1., 2. et 3.) sont
-pris, sans préjudice de l'application, s'il y a lieu, de l'article L. 231-3,
-après avis du conseil supérieur de la prévention des risques professionnels.
+Les décrets en Conseil d'Etat prévus à l'article L. 231-2 sont pris, sans
+préjudice de l'application, s'il y a lieu, de l'article L. 231-3, après avis du
+conseil supérieur de la prévention des risques professionnels.
 
 Ce conseil se substitue notamment à la commission d'hygiène industrielle, à la
 commission de sécurité du travail et au conseil supérieur de la médecine du
