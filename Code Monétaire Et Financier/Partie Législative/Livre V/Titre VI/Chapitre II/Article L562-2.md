@@ -5,10 +5,12 @@ tenus, dans les conditions fixées par le présent titre, de déclarer au servic
 institué à l'article L. 562-4 :
 
 1. Les sommes inscrites dans leurs livres qui pourraient provenir du trafic de
-stupéfiants ou d'activités criminelles organisées ;
+stupéfiants, de la fraude aux intérêts financiers des Communautés européennes,
+de la corruption ou d'activités criminelles organisées ;
 
 2. Les opérations qui portent sur des sommes lorsque celles-ci pourraient
-provenir du trafic de stupéfiants ou d'activités criminelles organisées.
+provenir du trafic de stupéfiants, de la fraude aux intérêts financiers des
+Communautés européennes, de la corruption ou d'activités criminelles organisées.
 
 Les organismes financiers sont également tenus de déclarer à ce service :
 

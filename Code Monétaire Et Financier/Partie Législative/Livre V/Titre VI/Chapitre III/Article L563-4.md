@@ -1,11 +1,12 @@
 Article L563-4
 ----
 Sans préjudice des dispositions édictant des obligations plus contraignantes,
-les organismes financiers conservent pendant cinq ans à compter de la clôture de
-leurs comptes ou de la cessation de leurs relations avec eux les documents
-relatifs à l'identité de leurs clients habituels ou occasionnels. Ils conservent
-également les documents relatifs aux opérations faites par ceux-ci pendant cinq
-ans à compter de leur exécution.
+les organismes financiers et les personnes mentionnés à l'article L. 562-1
+conservent pendant cinq ans à compter de la clôture de leurs comptes ou de la
+cessation de leurs relations avec eux les documents relatifs à l'identité de
+leurs clients habituels ou occasionnels. Ils conservent également les documents
+relatifs aux opérations faites par ceux-ci pendant cinq ans à compter de leur
+exécution.
 
 Pour l'application du présent titre, le service institué à l'article L. 562-4 et
 l'autorité de contrôle peuvent demander que ces pièces leur soient communiquées,

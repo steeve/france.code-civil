@@ -2,8 +2,8 @@ Article L564-3
 ----
 Un décret en Conseil d'Etat fixe les conditions d'application du présent titre,
 sans préjudice des règlements professionnels ou administratifs prévus par les
-législations applicables aux organismes financiers mentionnés à l'article L.
-562-1.
+législations applicables aux organismes financiers et aux personnes mentionnés à
+l'article L. 562-1.
 
 Pour l'application du présent titre :
 

@@ -1,12 +1,19 @@
 Article L822-2
 ----
-Les peines disciplinaires sont [*liste*] :
+Les peines disciplinaires sont :
 
-1° L'avertissement ;
+1° Le rappel à l'ordre ;
 
-2° Le blâme ;
+2° L'avertissement ;
 
-3° La destitution.
+3° Le blâme ;
 
-La destitution entraîne la radiation pendant un délai de cinq ans de la liste
-électorale prévue par l'article L. 11 du code électoral.
+4° L'interdiction temporaire ;
+
+5° La destitution ou le retrait de l'honorariat.
+
+Les peines mentionnées aux 1° à 4° peuvent être assorties de la peine
+complémentaire de l'inéligibilité temporaire au Conseil national des greffiers
+des tribunaux de commerce. La durée maximale de cette peine complémentaire est
+de cinq ans pour les peines mentionnées aux 1° à 3°, et de dix ans à compter de
+la cessation de la mesure d'interdiction pour la peine mentionnée au 4°.

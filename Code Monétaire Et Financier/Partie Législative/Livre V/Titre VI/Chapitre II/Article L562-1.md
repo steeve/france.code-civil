@@ -37,5 +37,15 @@ pierres précieuses, de matériaux précieux, d'antiquités et d'oeuvres d'art.
 10. Aux entreprises bénéficiant de l'exemption prévue par le II de l'article L.
 511-7.
 
+11. Aux experts comptables et aux commissaires aux comptes ;
+
+12. Aux notaires, huissiers de justice, administrateurs judiciaires et
+mandataires judiciaires à la liquidation des entreprises ainsi qu'aux avocats au
+Conseil d'Etat et à la Cour de cassation, aux avocats et aux avoués près les
+cours d'appel, dans les conditions prévues à l'article L. 562-2-1 ;
+
+13. Aux commissaires-priseurs judiciaires et aux sociétés de ventes volontaires
+de meubles aux enchères publiques.
+
 Pour l'application du présent titre, les personnes mentionnées aux 1 à 6 sont
 désignées sous le nom d'organismes financiers.

@@ -2,9 +2,8 @@ Article L812-1
 ----
 Les mandataires judiciaires au redressement et à la liquidation des entreprises
 sont les mandataires, personnes physiques ou morales, chargés par décision de
-justice de représenter les créanciers et de procéder éventuellement à la
-liquidation d'une entreprise dans les conditions définies par le titre II du
-livre VI.
+justice de représenter les créanciers et de procéder à la liquidation d'une
+entreprise dans les conditions définies par le titre II du livre VI.
 
 Les tâches que comporte l'exécution de leur mandat leur incombent
 personnellement. Ils peuvent toutefois, lorsque le bon déroulement de la

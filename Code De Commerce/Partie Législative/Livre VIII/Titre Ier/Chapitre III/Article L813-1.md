@@ -23,7 +23,8 @@ sur les listes dressées, pour l'information des juges, en application de
 l'article 2 de la loi n° 71-498 du 29 juin 1971 relative aux experts
 judiciaires.
 
-Chaque cour d'appel procède à l'inscription des experts de cette spécialité sur
-avis de la commission nationale créée à l'article L. 812-2. Cette inscription
-est valable pour trois ans. L'expert peut renouveler sa demande à l'expiration
-de ce délai.
+Chaque cour d'appel procède à l'inscription des experts de cette spécialité
+selon les dispositions de l'article 2 de la loi n° 71-498 du 29 juin 1971
+relative aux experts judiciaires. Leur inscription sur la liste nationale des
+experts judiciaires est faite après avis de la commission nationale créée à
+l'article L. 812-2.
