@@ -1,20 +1,23 @@
 Article R*621-40
 ----
 L'Office national interprofessionnel des céréales est administré par un conseil
-central de quarante-neuf membres.
+central de cinquante et un membres :
 
-1° Vingt-cinq représentant les producteurs de céréales :
+1° Vingt-six représentant les producteurs de céréales :
 
 a) Neuf choisis parmi les membres agriculteurs des comités départementaux ou
 interdépartementaux des céréales proposés par eux à raison d'un membre pour
-chacune des neufs régions céréalières métropolitaines définies par arrêté du
-ministre chargé de l'agriculture ;
+chacune des neuf régions céréalières métropolitaines définies par arrêté du
+ministre de l'agriculture ;
 
-b) Deux proposés par l'assemblée permanente des chambres d'agriculture ;
+b) Deux proposés par l'assemblée permanente des chambres d'agriculture dont un
+représentant des éleveurs ;
 
-c) Quatre, dont un représentant les éleveurs, proposés par les organisations
-syndicales d'exploitants agricoles à compétence nationale les plus
-représentatives ;
+c) Cinq proposés par les organisations syndicales d'exploitants agricoles
+mentionnées à l'article 3 du décret n° 90-187 du 28 février 1990 relatif à la
+représentation des organisations syndicales d'exploitants agricoles au sein de
+certains organismes ou commissions, à raison d'au moins un membre pour chacune
+de ces organisations ;
 
 d) Quatre, dont un représentant les riziculteurs, proposés par les organisations
 de producteurs les plus représentatives ;
@@ -23,7 +26,7 @@ e) Six représentants des coopératives de céréales proposés par les organisa
 à compétence nationale les plus représentatives, dont un représentant les
 coopératives fabriquant des aliments du bétail ;
 
-2° Dix-sept représentant le commerce et les industries de la filière proposés
+2° Dix-huit représentant le commerce et les industries de la filière proposés
 par les organisations professionnelles à compétence nationale les plus
 représentatives :
 
@@ -43,13 +46,15 @@ g) Deux fabricants d'aliments du bétail ;
 
 h) Un représentant des industries diverses utilisant le blé ;
 
-i) Un malteur ;
+i) Un représentant des industries utilisant des céréales autres que le blé ;
 
-j) Un représentant des industries utilisant des céréales autres que le blé ;
+j) Un représentant des industries utilisant le riz ;
 
-k) Un représentant des industries utilisant le riz ;
+k) Un représentant des industries semencières ;
 
-l) Un représentant des industries semencières ;
+l) Un malteur ;
+
+m) Un brasseur.
 
 3° Deux représentants d'associations de défense des consommateurs, proposés par
 le ministre chargé de la consommation ;
