@@ -1,9 +1,11 @@
 Article 46 quater-0 YN
 ----
-Pour bénéficier du crédit d'impôt mentionné à l'article 220 octies du code
-général des impôts, les entreprises doivent déposer, au titre de chacune des
-années 1998 à 2000, une déclaration spéciale conforme au modèle prévu par
-l'administration. Cette déclaration spéciale est annexée à la déclaration
-annuelle de résultat, déposée en vertu du 1 de l'article 223 du code général des
-impôts, qui se rapporte au premier exercice clos à compter du 31 décembre de
-l'année pour laquelle l'entreprise désire bénéficier de ce crédit.
+Pour la détermination des dépenses visées aux b, c, d et e du 1° du A du III et
+aux b, c, d et e du 2° du A du III de l'article 220 sexies du code général des
+impôts, il y a lieu de retenir les dotations aux amortissements fiscalement
+déductibles afférentes aux immobilisations détenues par l'entreprise de
+production déléguée et affectées directement à la réalisation de l'oeuvre
+cinématographique ouvrant droit au crédit d'impôt. Seules sont prises en compte
+les dotations aux amortissements correspondant à la période durant laquelle
+l'immobilisation a été effectivement utilisée pour la réalisation de l'oeuvre
+éligible au crédit d'impôt.
