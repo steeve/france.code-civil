@@ -5,7 +5,8 @@ schémas directeurs ou des schémas de secteur, s'il en existe, les règles
 générales et les servitudes d'utilisation des sols, qui peuvent notamment
 comporter l'interdiction de construire.
 
-A cette fin, ils doivent :
+Les plans d'occupation des sols doivent, à cette fin, en prenant en compte la
+préservation de la qualité des paysages et la maîtrise de leur évolution :
 
 1° Délimiter des zones urbaines ou à urbaniser prenant notamment en compte les
 besoins en matière d'habitat, d'emploi, de services et de transport des
@@ -43,24 +44,27 @@ conserver, à modifier ou à créer, y compris les rues ou sentiers piétonniers
 les pistes cyclables et délimiter les zones qui sont ou peuvent être aménagées
 en vue de la pratique du ski et les secteurs réservés aux remontées mécaniques
 en indiquant, le cas échéant, les équipements et aménagements qui peuvent y être
-prévus ; 7° délimiter les quartiers, rues, monuments, sites et secteurs à
-protéger ou à mettre en valeur pour des motifs d'ordre esthétique, historique ou
-écologique ;
+prévus ;
+
+7° Identifier et délimiter les quartiers, rues, monuments, sites, éléments de
+paysage et secteurs à protéger ou à mettre en valeur pour des motifs d'ordre
+esthétique, historique ou écologique et définir, le cas échéant, les
+prescriptions de nature à assurer leur protection ;
 
 8° fixer les emplacements réservés aux voies et ouvrages publics, aux
 installations d'intérêt général ainsi qu'aux espaces verts ;
 
 9° localiser, dans les zones urbaines, les terrains cultivés à protéger et
-inconstructibles quels que soient les équipements éventuels qui les desservent.
+inconstructibles quels que soient les équipements éventuels qui les desservent ;
 
 10° Délimiter les secteurs dans lesquels la délivrance du permis de construire
-peut être surbordonnée à la démolition de tout ou partie des bâtiments existants
-sur le terrain où l'implantation de la construction est envisagée.
+peut être subordonnée à la démolition de tout ou partie des bâtiments existants
+sur le terrain où l'implantation de la construction est envisagée ;
 
 11° Délimiter les zones dans lesquelles pourront s'implanter les magasins de
 commerce de détail dont l'octroi du permis de construire ou la réalisation est
 soumis à autorisation préalable de la commission départementale d'urbanisme
-commercial par l'article L. 451-5 du présent code.
+commercial par l'article L. 451-5 du présent code ;
 
 12° Délimiter les zones visées à l'article L. 372-3 du code des communes.
 

@@ -1,9 +1,16 @@
 Article L133-2
 ----
-La constitution de l'association foncière de remembrement est obligatoire sauf
-si, à la demande de la commission communale d'aménagement foncier et après avis
-de la commission départementale, le conseil municipal s'engage à réaliser
-l'ensemble des travaux décidés par la commission communale.
+A la demande de la commission communale d'aménagement foncier, le conseil
+municipal peut s'engager à réaliser tout ou partie des travaux définis à
+l'article L. 123-8. La constitution de l'association foncière est obligatoire
+dès lors que le conseil municipal ne s'engage pas à réaliser l'ensemble des
+travaux.
+
+En ce qui concerne les travaux définis au 6° de l'article L. 123-8, la
+délibération du conseil municipal sur un éventuel engagement au titre du
+précédent alinéa doit être préalable à la décision de la commission communale
+d'aménagement foncier. Un décret en Conseil d'Etat fixe les modalités
+d'application du présent alinéa.
 
 Lorsque ces travaux ou ouvrages présentent un intérêt commun pour plusieurs
 associations foncières, celles-ci peuvent se constituer, pour les missions

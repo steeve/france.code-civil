@@ -22,8 +22,12 @@ Le projet architectural mentionné ci-dessus définit, par des plans et document
 écrits, l'implantation des bâtiments, leur composition, leur organisation et
 l'expression de leur volume ainsi que le choix des matériaux et des couleurs.
 
+" Le projet architectural précise, par des documents graphiques ou
+photographiques, l'insertion dans l'environnement et l'impact visuel des
+bâtiments ainsi que le traitement de leurs accès et de leurs abords. "
+
 Conformément aux dispositions de l'article 4 de la loi n° 77-2 du 3 janvier 1977
-sur l'architecture, par dérogation au deuxième alinéa ci-dessus, ne sont pas
+sur l'architecture, par dérogation au quatrième alinéa ci-dessus, ne sont pas
 tenues de recourir à un architecte les personnes physiques qui déclarent vouloir
 édifier ou modifier, pour elles-mêmes, une construction de faible importance
 dont les caractéristiques, et notamment la surface maximale de plancher, sont

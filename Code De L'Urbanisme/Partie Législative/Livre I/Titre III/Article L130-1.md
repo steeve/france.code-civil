@@ -1,9 +1,10 @@
 Article L130-1
 ----
-Les plans d'occupation des sols peuvent classer comme espaces boisés
-[*définition*], les bois, forêts, parcs à conserver, à protéger ou à créer,
-qu'ils soient soumis ou non au régime forestier, enclos ou non, attenant ou non
-à des habitations.
+Les plans d'occupation des sols peuvent classer comme espaces boisés, les bois,
+forêts, parcs à conserver, à protéger ou à créer, qu'ils soient soumis ou non au
+régime forestier, enclos ou non, attenant ou non à des habitations. Ce
+classement peut s'appliquer également à des arbres isolés, des haies ou réseaux
+de haies, des plantations d'alignements.
 
 Le classement interdit tout changement d'affectation ou tout mode d'occupation
 du sol de nature à compromettre la conservation, la protection ou la création
