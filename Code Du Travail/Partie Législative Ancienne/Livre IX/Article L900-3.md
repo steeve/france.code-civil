@@ -6,8 +6,8 @@ initiative, une formation lui permettant, quel que soit son statut, d'acquérir
 une qualification correspondant aux besoins de l'économie prévisibles à court ou
 moyen terme :
 
-- soit entrant dans le champ d'application de l'article 8 de la loi n° 71-577 du
-16 juillet 1971 d'orientation sur l'enseignement technologique ;
+- soit enregistrée dans le répertoire national des certifications
+professionnelles prévu à l'article L. 335-6 du code de l'éducation ;
 
 - soit reconnue dans les classifications d'une convention collective nationale
 de branche ;
@@ -15,13 +15,6 @@ de branche ;
 - soit figurant sur une liste établie par la commission paritaire nationale de
 l'emploi d'une branche professionnelle ;
 
-Le crédit-formation a pour objet de permettre à toute personne d'acquérir une
-telle qualification et donne droit :
-
-- à un bilan de compétences et à l'élaboration d'un projet personnalisé de
-parcours de formation ;
-
-- à la prise en charge de tout ou partie de cette formation, dans le cadre des
-orientations arrêtées, dans leur champ de compétence respectif, par l'Etat, les
-régions, les organisations professionnelles et les syndicats d'employeurs et de
-salariés représentatifs au plan national.
+L'Etat et la région contribuent à l'exercice du droit à la qualification,
+notamment pour les personnes n'ayant pas acquis de qualification reconnue dans
+le cadre de la formation initiale.

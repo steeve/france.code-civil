@@ -17,9 +17,7 @@ d'actions ou de publics considérés comme prioritaires et les critères relatif
 l'ordre de satisfaction des demandes.
 
 Toutefois, l'extension de cet accord ou de cette convention est subordonnée au
-respect des dispositions des premier et troisième alinéas de l'article L. 931-9
-ainsi que des dispositions relatives au montant minimal de rémunération prévu
-par le quatrième alinéa de l'article L. 931-8-2.
+respect des dispositions des premier et troisième alinéas de l'article L. 931-9.
 
 En l'absence de l'accord ou de la convention prévus au présent article, les
 dispositions des articles L. 931-8-2 et L. 931-9 sont applicables.

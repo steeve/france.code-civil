@@ -1,17 +1,20 @@
 Article L900-1
 ----
-La formation professionnelle permanente constitue une obligation nationale. Elle
-comporte une formation initiale et des formations ultérieures destinées aux
-adultes et aux jeunes déjà engagés dans la vie active ou qui s'y engagent. Ces
-formations ultérieures constituent la formation professionnelle continue.
+La formation professionnelle tout au long de la vie constitue une obligation
+nationale. Elle comporte une formation initiale et des formations ultérieures
+destinées aux adultes et aux jeunes déjà engagés dans la vie active ou qui s'y
+engagent. Ces formations ultérieures constituent la formation professionnelle
+continue.
 
-La formation professionnelle continue fait partie de l'éducation permanente.
-Elle a pour objet de permettre l'adaptation des travailleurs au changement des
-techniques et des conditions de travail, de favoriser leur promotion sociale par
-l'accès aux différents niveaux de la culture et de la qualification
-professionnelle et leur contribution au développement culturel, économique et
-social. Elle peut être dispensée à des salariés titulaires d'un contrat de
-travail prévoyant une formation en alternance.
+La formation professionnelle continue a pour objet de favoriser l'insertion ou
+la réinsertion professionnelle des travailleurs, de permettre leur maintien dans
+l'emploi, de favoriser le développement de leurs compétences et l'accès aux
+différents niveaux de la qualification professionnelle, de contribuer au
+développement économique et culturel et à leur promotion sociale.
+
+Elle vise également à permettre le retour à l'emploi des personnes qui ont
+interrompu leur activité professionnelle pour s'occuper de leurs enfants ou de
+leur conjoint ou ascendants en situation de dépendance.
 
 L'Etat, les collectivités locales, les établissements publics, les
 établissements d'enseignement publics et privés, les associations, les

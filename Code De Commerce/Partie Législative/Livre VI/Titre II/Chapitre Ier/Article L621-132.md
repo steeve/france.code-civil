@@ -119,6 +119,14 @@ contrat de travail, dans les délais prévus au 2° de l'article L. 143-11-1 ;
 - lorsque intervient un jugement de liquidation judiciaire ou un jugement
 arrêtant le plan de cession totale de l'entreprise.
 
+L'assurance prévue à l'article L. 143-11-1 ne couvre pas les sommes qui
+concourent à l'indemnisation du préjudice causé par la rupture du contrat de
+travail dans le cadre d'un licenciement pour motif économique, en application
+d'un accord d'entreprise ou d'établissement ou de groupe ou d'une décision
+unilatérale de l'employeur, lorsque l'accord a été conclu et déposé et la
+décision notifiée moins de dix-huit mois avant la date du jugement d'ouverture
+de la procédure de redressement ou de liquidation judiciaire.
+
 Art. L. 143-11-4. - Le régime d'assurance prévu à l'article L. 143-11-1 est mis
 en oeuvre par une association créée par les organisations nationales
 professionnelles d'employeurs les plus représentatives et agréée par le ministre

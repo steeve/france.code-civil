@@ -1,12 +1,10 @@
 Article L123-4
 ----
 Pour assurer l'égalité professionnelle entre les femmes et les hommes, au vu
-notamment du rapport prévu à l'article L. 432-3-1 du présent code, [*sur la
-situation comparée d'emploi et de formation des hommes et des femmes*], les
-mesures visées à l'article L. 123-3 peuvent faire l'objet d'un plan pour
-l'égalité professionnelle entre les femmes et les hommes négocié dans
-l'entreprise conformément aux dispositions des articles L. 132-18 à L. 132-26 du
-présent code.
+notamment du rapport prévu à l'article L. 432-3-1 du présent code, les mesures
+visées à l'article L. 123-3 peuvent faire l'objet d'un plan pour l'égalité
+professionnelle entre les femmes et les hommes négocié dans l'entreprise
+conformément aux dispositions des articles L. 132-18 à L. 132-25.
 
 Si, au terme de la négociation, aucun accord n'est intervenu, l'employeur peut
 mettre en oeuvre ce plan, sous réserve d'avoir préalablement consulté et

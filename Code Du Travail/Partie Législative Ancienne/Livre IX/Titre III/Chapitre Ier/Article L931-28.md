@@ -13,9 +13,9 @@ Le congé visé au premier alinéa est également accordé au salarié qui souha
 livrer à une activité de recherche et d'innovation dans un établissement public
 de recherche, une entreprise publique ou privée.
 
-II. - Dans les établissements de deux cents salariés et plus [*condition
-d'effectif*], lorsque plusieurs travailleurs remplissant les conditions fixées
-au paragraphe précédent, demandent un congé d'enseignement ou de recherche, la
+II. - Dans les établissements de deux cents salariés et plus *condition
+d'effectif*, lorsque plusieurs travailleurs remplissant les conditions fixées au
+paragraphe précédent, demandent un congé d'enseignement ou de recherche, la
 satisfaction accordée à certaines demandes peut être différée afin que le
 pourcentage de travailleurs simultanément absents au titre de ce congé ne
 dépasse pas 2 p. 100 du nombre total des travailleurs dudit établissement.

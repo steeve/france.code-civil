@@ -2,8 +2,8 @@ Article L952-4
 ----
 Les employeurs sont tenus de remettre à la recette des impôts compétente une
 déclaration indiquant notamment les montants de la participation à laquelle ils
-étaient tenus et du versement effectué ainsi que la désignation de l'organisme
-destinataire.
+étaient tenus et des versements effectués ainsi que la désignation de
+l'organisme destinataire.
 
 La déclaration doit être produite au plus tard le 30 avril de l'année suivant
 celle au cours de laquelle est due la participation.

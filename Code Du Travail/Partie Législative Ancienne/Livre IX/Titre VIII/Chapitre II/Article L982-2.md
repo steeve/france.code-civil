@@ -1,18 +1,16 @@
 Article L982-2
 ----
-L'Etat apporte son concours au financement des stages prévus à l'article L.
-982-1, dans les conditions définies au titre IV du livre IX. Ces stages font
-l'objet de conventions conclues par l'Etat avec des établissements, organismes
-ou associations qui dispensent l'enseignement général ou technologique, qui
-assurent la formation professionnelle, ou qui préparent les jeunes à leur
-insertion dans la vie professionnelle et sociale.
+La période de professionnalisation a pour objet de permettre à son bénéficiaire
+d'acquérir une des qualifications prévues à l'article L. 900-3 ou de participer
+à une action de formation dont l'objectif est défini par la commission paritaire
+nationale de l'emploi de la branche professionnelle dont relève l'entreprise.
 
-La convention décrit le programme de formation du stage. Elle précise également
-les modalités de collaboration entre l'établissement ou l'organisme signataire
-et les organismes ou entreprises qu'il associe à l'action de formation au titre
-de l'exercice d'une activité sur les lieux de travail.
-
-Lorsque le stage est organisé en alternance, la convention prévoit les modalités
-de coopération entre l'organisme de formation et les entreprises d'accueil, en
-particulier pour le rôle des tuteurs chargés d'accueillir et de guider les
-jeunes pendant leur temps de présence en entreprise.
+Une convention ou un accord collectif de branche ou, à défaut, un accord
+collectif conclu entre les organisations représentatives d'employeurs et de
+salariés signataires d'un accord constitutif d'un organisme collecteur paritaire
+des fonds de la formation professionnelle continue interprofessionnel détermine
+la liste des qualifications accessibles au titre de la période de
+professionnalisation. Les conventions ou accords collectifs de branche
+déterminent également les conditions dans lesquelles la commission paritaire
+nationale de l'emploi de la branche professionnelle concernée définit les
+objectifs mentionnés au premier alinéa.

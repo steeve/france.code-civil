@@ -4,7 +4,7 @@ Dans les établissements et professions mentionnés à l'article L. 200-1, les
 jeunes travailleurs âgés de moins de dix-huit ans ainsi que les jeunes de moins
 de dix-huit ans qui accomplissent des stages d'initiation ou d'application en
 milieu professionnel dans le cadre d'un enseignement alterné ou du déroulement
-de leur scolarité ne peuvent être employés à un travail effectif excédant sept
+de leur scolarité ne peuvent être employés à un travail effectif excédant huit
 heures par jour, non plus que la durée fixée, pour une semaine, par l'article L.
 212-1. L'employeur est tenu de laisser à ceux d'entre eux qui sont soumis à
 l'obligation de suivre des cours professionnels pendant la journée de travail le

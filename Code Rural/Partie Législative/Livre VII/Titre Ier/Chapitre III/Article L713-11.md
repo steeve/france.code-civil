@@ -11,7 +11,8 @@ variation de la durée hebdomadaire de travail dans les limites de trente et une
 hebdomadaire inférieur ou égal à soixante-dix heures par an.
 
 Un contingent supérieur ou inférieur à celui qui est ci-dessus prévu peut être
-fixé par une convention collective ou un accord collectif étendus.
+fixé par une convention collective ou un accord collectif étendus ou un accord
+d'entreprise ou d'établissement.
 
 Pour le calcul du contingent fixé par le décret prévu au premier alinéa et du
 contingent mentionné au deuxième alinéa, sont prises en compte les heures

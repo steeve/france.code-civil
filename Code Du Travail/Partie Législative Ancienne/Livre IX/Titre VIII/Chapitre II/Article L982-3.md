@@ -1,8 +1,9 @@
 Article L982-3
 ----
-Les jeunes bénéficiaires des stages prévus à l'article L. 982-1 sont rémunérés
-par l'Etat en fonction des dispositions du titre VI du livre IX du présent code.
-
-Les dispositions du chapitre II du titre VI du livre IX du présent code sont
-applicables aux bénéficiaires des stages mentionnés à l'article L. 982-1
-[*protection sociale*].
+Le pourcentage de salariés simultanément absents au titre de la période de
+professionnalisation ne peut, sauf accord du chef d'entreprise ou du responsable
+de l'établissement, dépasser 2 % du nombre total de salariés de l'entreprise ou
+de l'établissement. Dans l'entreprise ou l'établissement de moins de cinquante
+salariés, le bénéfice d'une période de professionnalisation peut être différé
+lorsqu'il aboutit à l'absence simultanée au titre des périodes de
+professionnalisation d'au moins deux salariés.

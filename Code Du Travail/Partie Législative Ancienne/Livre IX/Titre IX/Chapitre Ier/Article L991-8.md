@@ -1,31 +1,28 @@
 Article L991-8
 ----
-Lorsqu'un salarié de l'entreprise est désigné pour siéger dans une commission,
-un conseil ou un comité administratifs ou paritaires appelés à traiter des
-problèmes d'emploi et de formation ou pour participer à un jury d'examen,
-l'employeur est tenu d'accorder à ce salarié le temps nécessaire pour participer
-aux réunions des organismes précités.
+Les contrôles prévus au présent chapitre peuvent être opérés soit sur place,
+soit sur pièces.
 
-Cette autorisation d'absence ne peut être refusée par l'employeur que dans le
-cas où il estime, après avis conforme du comité d'entreprise ou, s'il n'en
-existe pas, des délégués du personnel, que cette absence pourrait avoir des
-conséquences préjudiciables à la production et à la marche de l'entreprise.
+Les résultats du contrôle sont notifiés à l'intéressé dans un délai ne pouvant
+dépasser trois mois à compter de la fin de la période d'instruction avec
+l'indication des procédures dont il dispose pour faire valoir ses observations.
+Cette notification interrompt la prescription courant à l'encontre du Trésor
+public, au regard des versements dus et des pénalités fiscales correspondantes.
 
-Le refus de cette autorisation d'absence par l'employeur doit être motivé.
+Les décisions de rejet de dépenses, de retrait d'habilitation, de résiliation de
+la convention ou de reversement mentionnés au présent chapitre prises par
+l'autorité de l'Etat chargée de la formation professionnelle ne peuvent
+intervenir, après la notification des résultats du contrôle, que si la procédure
+contradictoire mentionnée au deuxième alinéa a été respectée. Ces décisions sont
+motivées et notifiées aux intéressés.
 
-En cas de différend, l'inspecteur du travail peut être saisi par l'une des
-parties et pris pour arbitre [*recours, autorité compétente*].
+S'il y a lieu, transmission en est également faite à l'administration fiscale.
+Le recouvrement des versements exigibles et des pénalités correspondantes est
+immédiatement poursuivi dans les conditions prévues au paragraphe I de l'article
+L. 951-9.
 
-La liste des organismes visés au premier alinéa est fixée par arrêté
-interministériel.
-
-La participation des salariés aux instances nommées au présent article
-n'entraîne aucune diminution de leur rémunération. Un décret fixe les conditions
-dans lesquelles les dépenses afférentes au maintien du salaire et au
-remboursement des frais de déplacement sont supportées par les organismes visés
-à l'alinéa précédent ou par l'entreprise. Dans ce cas, le salaire ainsi que les
-cotisations sociales obligatoires et, s'il y a lieu, la taxe sur les salaires
-qui s'y rattachent sont pris en compte par priorité au titre de l'exonération
-établie par l'article 1er de la loi n. 71-578 du 16 juillet 1971 et,
-subsidiairement, au titre de la participation mise à la charge des employeurs
-par l'article L. 950-2 ci-dessus.
+Lorsque les contrôles ont révélé l'inexécution d'actions financées par l'Etat,
+les collectivités locales ou les organismes collecteurs des fonds de la
+formation professionnelle continue, l'autorité administrative chargée de la
+formation professionnelle les en informe, chacun pour ce qui le concerne, à
+l'issue de la procédure contradictoire prévue au deuxième alinéa.

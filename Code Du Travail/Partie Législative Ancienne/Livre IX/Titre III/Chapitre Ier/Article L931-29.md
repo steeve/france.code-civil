@@ -4,9 +4,9 @@ I. - Les salariés qui ne sont pas titulaires d'un diplôme professionnel, ou qu
 ne sont pas liés par un contrat de travail prévoyant une formation
 professionnelle répondant à des conditions fixées par voie législative ou
 réglementaire, ont droit, jusqu'à ce qu'ils atteignent l'âge de vingt-cinq ans
-révolus [*jeunes*], à un congé [*de formation*] leur permettant de suivre des
-stages du type de ceux définis à l'article L. 900-2. Le bénéfice de ce congé ne
-peut être refusé.
+révolus *jeunes*, à un congé *de formation* leur permettant de suivre des stages
+du type de ceux définis à l'article L. 900-2. Le bénéfice de ce congé ne peut
+être refusé.
 
 Pendant le congé, la rémunération est maintenue par l'employeur. Les frais de
 formation peuvent être pris en compte par l'employeur, qui peut alors imputer

@@ -5,6 +5,10 @@ que soient la nature de son activité et sa forme juridique, est soumise aux
 obligations de la présente section, destinées à garantir le droit de ses
 salariés à participer aux résultats de l'entreprise.
 
+Si une entreprise ayant conclu un accord d'intéressement vient à employer au
+moins cinquante salariés, les obligations de la présente section ne s'appliquent
+qu'à la date d'expiration de l'accord d'intéressement.
+
 Pour l'application des dispositions qui précèdent, l'effectif des salariés
 employés habituellement par les entreprises de travail temporaire est calculé en
 ajoutant au nombre des salariés permanents le nombre moyen par jour ouvrable des

@@ -1,39 +1,26 @@
 Article L991-1
 ----
-Afin d'améliorer l'exercice des professions agricoles, l'Etat et les régions
-contribuent, en liaison avec les organisations professionnelles dans les
-conditions fixées au titre IV du présent livre, au financement des stages
-organisés en vue d'assurer la formation des exploitants, salariés des
-exploitations, aides familiaux, salariés et non-salariés des secteurs
-para-agricoles et agro-alimentaire, dans des centres de formation publics ou
-privés. Une fraction de ces contributions peut être réservée au financement
-d'actions de formation en alternance organisées dans des conditions fixées par
-décret au bénéfice des aides familiaux et associés d'exploitation. Les modalités
-de mise en oeuvre de ces actions peuvent faire l'objet d'accords-cadre conclus
-entre l'Etat ou une ou plusieurs régions, d'une part, et une ou plusieurs
-organisations professionnelles ou chambres d'agriculture, d'autre part.
+L'Etat exerce un contrôle administratif et financier sur :
 
-Ces formations sont notamment dispensées dans des centres de formation
-professionnelle et de promotion agricoles créés par le ministère de
-l'agriculture dans des conditions fixées par décret, ainsi que dans les chambres
-d'agriculture.
+1° Les dépenses de formation exposées par les employeurs au titre de leur
+obligation de participation au développement de la formation professionnelle
+continue instituée par l'article L. 950-1 et les actions prévues aux articles L.
+900-2 et L. 900-3 qu'ils conduisent, financées par l'Etat, les collectivités
+locales ou les organismes collecteurs des fonds de la formation professionnelle
+continue.
 
-Indépendamment des sanctions prévues à l'article L. 920-1 pour les diverses
-actions de formation professionnelle, certaines de ces dernières pourront donner
-lieu à la préparation de diplômes des enseignements supérieurs et techniques
-agricoles.
+2° Les activités conduites en matière de formation professionnelle continue par
+les organismes paritaires agréés, par les organismes habilités à percevoir la
+contribution de financement visée aux articles L. 953-1, L. 953-3 et L. 953-4,
+par les organismes de formation et leurs sous-traitants, par les organismes
+chargés de réaliser les bilans de compétences et par les organismes qui
+assistent des candidats dans leur demande de validation des acquis de
+l'expérience ;
 
-En outre, conformément aux dispositions de l'article L. 961-10 ci-dessus, l'Etat
-peut participer au financement de fonds d'assurance de formation créés par les
-professionnels de ce secteur.
+3° Les activités d'accueil, d'information, d'orientation et d'évaluation, en
+matière de formation professionnelle continue, au financement desquelles l'Etat
+concourt par voie de convention.
 
-Les centres de formation professionnelle et de promotion agricoles publics et
-les centres privés apportent leur concours, en liaison avec les divers
-départements ministériels intéressés, à la formation des pluriactifs nécessaires
-au maintien des exploitations agricoles, à l'équilibre économique et à
-l'animation du milieu rural. Les centres ci-dessus mentionnés apportent à leurs
-programmes de formation, lorsqu'ils s'adressent à des personnes appelées à
-travailler en zone de montagne, les adaptations nécessaires pour tenir compte
-des situations et des besoins particuliers de cette zone liés à l'exercice de la
-pluriactivité, des différentes activités saisonnières et des métiers spécifiques
-de la montagne.
+Le contrôle administratif et financier porte sur l'ensemble des moyens
+financiers, techniques et pédagogiques, à l'exclusion des qualités pédagogiques,
+mis en oeuvre pour la formation professionnelle continue.

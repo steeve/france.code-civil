@@ -12,6 +12,4 @@ accord collectif de branche étendu ou d'un accord d'entreprise ou
 d'établissement.
 
 Cet accord collectif doit comporter les justifications du recours au travail de
-nuit visées au premier alinéa. Compte tenu du caractère dérogatoire du travail
-de nuit, l'accord collectif ne doit pas avoir fait l'objet d'une opposition en
-application de l'article L. 132-26.
+nuit visées au premier alinéa.

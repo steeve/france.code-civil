@@ -1,9 +1,17 @@
 Article L981-5
 ----
-Un décret en Conseil d'Etat détermine les mesures d'application des articles L.
-981-1 à L. 981-3 et notamment les garanties d'ordre technique et professionnel
-auxquelles est subordonnée l'habilitation établie par l'article L. 981-2 ainsi
-que les règles relatives à l'homologation des qualifications obtenues par la
-voie des formations en alternance et ayant fait l'objet de certificats délivrés
-avant qu'elles ne soient inscrites sur la liste prévue à l'article 8 de la loi
-n° 71-577 du 16 juillet 1971 précitée.
+Sauf dispositions conventionnelles ou contractuelles plus favorables, les
+salariés âgés de moins de vingt-six ans et titulaires des contrats mentionnés à
+l'article L. 981-1 perçoivent pendant la durée du contrat à durée déterminée ou
+de l'action de professionnalisation du contrat à durée indéterminée une
+rémunération calculée en fonction du salaire minimum de croissance et dont le
+montant est fixé par décret. Ce montant peut varier en fonction de l'âge du
+bénéficiaire et du niveau de sa formation. Le même décret fixe les conditions de
+déduction des avantages en nature.
+
+Les titulaires de contrats de professionnalisation âgés d'au moins vingt-six ans
+perçoivent, pendant la durée du contrat à durée déterminée ou de l'action de
+professionnalisation du contrat à durée indéterminée, une rémunération qui ne
+peut être inférieure ni au salaire minimum de croissance ni à 85 % de la
+rémunération minimale prévue par les dispositions de la convention ou de
+l'accord collectif de branche dont relève l'entreprise.

@@ -1,8 +1,8 @@
 Article L952-2
 ----
-Les sommes versées par les employeurs en application de l'article L. 952-1 sont
-gérées paritairement au sein d'une section particulière de l'organisme
-collecteur agréé.
+Les sommes versées par les employeurs en application du quatrième alinéa de
+l'article L. 952-1 sont gérées paritairement au sein d'une section particulière
+de l'organisme collecteur agréé.
 
 Elles sont mutualisées dès leur réception ; toutefois, lorsque l'organisme
 collecteur agréé est un fonds d'assurance formation mentionné à l'article L.

@@ -1,24 +1,21 @@
 Article L981-2
 ----
-Seules les entreprises habilitées par l'autorité administrative peuvent conclure
-des contrats de travail à durée déterminée répondant aux conditions de l'article
-L. 981-1.
+Le contrat de professionnalisation est établi par écrit et déposé auprès de la
+direction départementale du travail, de l'emploi et de la formation
+professionnelle. Lorsqu'il est à durée déterminée, il est conclu en application
+de l'article L. 122-2.
 
-Cette habilitation est subordonnée soit à la conclusion par l'entreprise, après
-consultation du comité d'entreprise ou, à défaut, des délégués du personnel,
-d'une convention avec un établissement d'enseignement public ou un organisme de
-formation public ou privé mentionné à l'article L. 920-4, prévoyant les
-modalités d'organisation de la formation alternée, soit à l'adhésion de
-l'entreprise à un accord-cadre conclu entre l'Etat et une organisation
-professionnelle ou interprofessionnelle.
-
-Cet accord-cadre, conclu après consultation des organisations syndicales de
-salariés représentatives au plan national au sens de l'article L. 133-2 du
-présent code, définit les conditions dans lesquelles les entreprises qui y
-adhèrent et les établissements d'enseignement ou organismes de formation
-mentionnés ci-dessus participent à la mise en oeuvre d'un programme de formation
-alternée.
-
-Ces conventions ou accords-cadre déterminent notamment le rôle des tuteurs
-chargés d'accueillir et de guider les jeunes pendant leur temps de présence en
-entreprise.
+L'action de professionnalisation qui fait l'objet d'un contrat à durée
+déterminée ou l'action de professionnalisation qui se situe au début d'un
+contrat à durée indéterminée est d'une durée minimale comprise entre six et
+douze mois. Cette durée minimale peut être allongée jusqu'à vingt-quatre mois,
+notamment pour les personnes sorties du système éducatif sans qualification
+professionnelle reconnue, ou lorsque la nature des qualifications visées
+l'exige. Ces bénéficiaires et la nature de ces qualifications sont définis par
+convention ou accord collectif de branche ou, à défaut, par accord collectif
+conclu entre les organisations représentatives d'employeurs et de salariés
+signataires de l'accord constitutif d'un organisme collecteur paritaire
+interprofessionnel des fonds de la formation professionnelle continue mentionné
+au quatrième alinéa de l'article L. 951-1 et au troisième alinéa de l'article L.
+952-1. La nature de ces qualifications peut être définie par un accord conclu au
+niveau national et interprofessionnel.

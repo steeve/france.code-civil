@@ -1,20 +1,31 @@
 Article L910-1
 ----
-La politique de formation professionnelle et de promotion sociale de l'Etat fait
-l'objet d'une coordination entre les départements ministériels, et d'une
-concertation avec les organisations représentatives des employeurs et des
-travailleurs salariés ainsi que des travailleurs indépendants, d'une part, et
-avec les conseils régionaux, d'autre part.
+Il est créé un Conseil national de la formation professionnelle tout au long de
+la vie : ce conseil est chargé de favoriser, au plan national, la concertation
+entre les acteurs pour la conception des politiques de formation professionnelle
+et le suivi de leur mise en oeuvre, en liaison avec les comités de coordination
+régionaux de l'emploi et de la formation professionnelle. Il est chargé
+d'évaluer les politiques régionales d'apprentissage et de formation
+professionnelle tout au long de la vie. Il donne son avis sur la législation et
+la réglementation applicables en matière de formation professionnelle tout au
+long de la vie et d'apprentissage.
 
-A cet effet, il est créé auprès du Premier ministre un comité interministériel,
-dont le ministre de l'éducation nationale est le vice-président, et un groupe
-permanent de hauts fonctionnaires, dont le président est désigné par le Premier
-ministre. Ces organismes s'appuient, pour l'élaboration et la mise en oeuvre de
-la politique de formation professionnelle, de la promotion sociale et de
-l'emploi de l'Etat, sur les avis d'un Conseil national de la formation
-professionnelle, de la promotion sociale et de l'emploi réunissant notamment des
-représentants des pouvoirs publics et des organisations professionnelles et
-syndicats intéressés.
+Il établit tous les ans un rapport sur l'utilisation des ressources financières
+soit collectées, soit affectées à la formation professionnelle tout au long de
+la vie ainsi qu'à l'apprentissage. Il assure ainsi un contrôle régulier de
+l'emploi de ces fonds. Il établit tous les trois ans un rapport d'évaluation des
+politiques régionales d'apprentissage et de formation tout au long de la vie.
+Ces rapports sont transmis au Parlement, aux conseils régionaux et aux comités
+de coordination régionaux de l'emploi et de la formation professionnelle.
+
+Il est composé de représentants élus des conseils régionaux, de représentants de
+l'Etat et du Parlement et de représentants des organisations professionnelles et
+syndicales intéressées. Il comprend, en outre, des personnes qualifiées en
+matière de formation professionnelle.
+
+Les conditions de nomination des membres du conseil et l'exercice de ses
+missions, notamment de contrôle, ainsi que ses modalités de fonctionnement et de
+compte rendu de son activité, sont fixées par décret.
 
 Sont institués des comités de coordination régionaux de l'emploi et de la
 formation professionnelle et des comités départementaux de l'emploi.

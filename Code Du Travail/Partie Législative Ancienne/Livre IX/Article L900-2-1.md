@@ -6,7 +6,7 @@ bénéficie des dispositions du code du travail et, le cas échéant, du code ru
 relatives à la durée du travail - à l'exception de celles relatives aux heures
 supplémentaires - ainsi que celles relatives au repos hebdomadaire, à l'hygiène,
 à la sécurité et aux conditions de travail prévues au titre troisième du livre
-II du présent code [*protection sociale*].
+II du présent code *protection sociale*.
 
 La durée du travail applicable au stagiaire visé à l'alinéa précédent ne peut
 excéder la durée légale hebdomadaire et la durée quotidienne du travail fixées
