@@ -3,11 +3,11 @@ Article 1751
 1. (Abrogé).
 
 2. Dans tous les cas où est relevée l'infraction aux règles de facturation
-telles que prévues à l'article 31 de l'ordonnance n° 86-1243 du 1er décembre
-1986 relative à la liberté des prix et de la concurrence, l'entreprise de
-l'auteur du délit peut être placée sous séquestre jusqu'à l'exécution de la
+telles que prévues à l'article 31 modifié de l'ordonnance n° 86-1243 du 1er
+décembre 1986 relative à la liberté des prix et de la concurrence, l'entreprise
+de l'auteur du délit peut être placée sous séquestre jusqu'à l'exécution de la
 décision définitive. La mesure de séquestre pourra être étendue à l'ensemble du
-patrimoine de l'auteur du délit.
+patrimoine de l'auteur du délit (1).
 
 La mise sous séquestre peut être ordonnée par le juge d'instruction ou par le
 tribunal correctionnel saisis, en tout état de la procédure, sur réquisition du
