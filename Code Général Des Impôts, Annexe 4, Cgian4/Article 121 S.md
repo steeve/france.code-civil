@@ -2,12 +2,16 @@ Article 121 S
 ----
 Tout propriétaire d'un véhicule dispensé ou exonéré de la taxe différentielle ou
 de la taxe spéciale en raison de sa qualité personnelle est tenu de demander à
-la recette des impôts dont il dépend en fournissant les justifications
-[*condition d'exonération*] dont la nature est fixée par l'administration la
-délivrance d'une vignette gratis qui est utilisée dans les mêmes conditions que
-les vignettes de la série normale.
+la recette des impôts dont il dépend en fournissant les justifications dont la
+nature est fixée par l'administration la délivrance d'une vignette gratis qui
+est utilisée dans les mêmes conditions que les vignettes de la série normale.
 
-La vignette gratis [*gratuité*] est également délivrée sur justification :
+Doivent également être munis d'une vignette gratis les véhicules répondant aux
+normes figurant au III de l'annexe I du décret n° 79-80 du 25 janvier 1979
+relatif aux transports sanitaires privés utilisés par une entreprise agréée
+conformément à l'article 1er dudit décret.
+
+La vignette gratis est également délivrée sur justification :
 
 a. Pour les véhicules visés à l'article 304-3o de l'annexe II au code général
 des impôts lorsqu'ils ne portent aucune marque extérieure susceptible

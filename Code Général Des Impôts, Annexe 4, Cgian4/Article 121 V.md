@@ -1,17 +1,17 @@
 Article 121 V
 ----
-Sont exonérés [*exonération*] de la taxe différentielle sur les véhicules à
-moteur [*vignette*] instituée par l'article 1007-a du code général des impôts
-les véhicules spéciaux dont la liste suit :
+Sont exonérés de la taxe différentielle sur les véhicules à moteur instituée par
+l'article 1007-a du code général des impôts les véhicules spéciaux dont la liste
+suit :
 
-1o Les fourgons funéraires et corbillards automobiles;
+1° Les fourgons funéraires et corbillards automobiles;
 
-2o Les bennes à ordures ménagères les arroseuses les balayeuses; 3o Les
+2° Les bennes à ordures ménagères les arroseuses les balayeuses; 3° Les
 ambulances;
 
-4o Les tonnes de vidange;
+4° Les tonnes de vidange;
 
-5o Les engins considérés pour l'application des articles R 110 à R117 du code de
+5° Les engins considérés pour l'application des articles R 110 à R117 du code de
 la route comme matériels de travaux publics et énumérés ci-après :
 
 a. Pompes centrifuges groupes moto-pompes pompes ou stations de pompages mobiles
@@ -54,9 +54,9 @@ n. Soudeuses mobiles sur camion;
 
 o. Postes automobiles de dégraissage et de gonflage;
 
-6o Les camions ateliers dépanneurs munis d'un engin de levage;
+6° Les camions ateliers dépanneurs munis d'un engin de levage;
 
-7o Le matériel d'incendie automobile énuméré ci-après :
+7° Le matériel d'incendie automobile énuméré ci-après :
 
 a. Matériel d'incendie de premier secours ordinaire;
 
@@ -76,7 +76,7 @@ h. Dévidoir;
 
 i. Accessoires divers;
 
-8o Le matériel sanitaire automobile ci-après :
+8° Le matériel sanitaire automobile ci-après :
 
 a. Chirurgical;
 
@@ -88,7 +88,7 @@ d. Epurateur d'eau;
 
 e. Désinfection et désinsectisation;
 
-9o Le matériel de radiodiffusion et de télévision ci-après fixé à demeure sur
+9° Le matériel de radiodiffusion et de télévision ci-après fixé à demeure sur
 camion camionnette ou fourgon automobile :
 
 a. Appareils émetteurs de T.S.F.;
@@ -99,8 +99,12 @@ c. Appareils de mesure de son;
 
 d. Laboratoire de développement de films;
 
-10o Les véhicules militaires faisant l'objet d'une immatriculation particulière;
+10° Les véhicules militaires faisant l'objet d'une immatriculation particulière;
 
-11o Les véhicules aménagés spécialement pour le transport du lait du vin du
+11° Les véhicules aménagés spécialement pour le transport du lait du vin du
 bétail et de la viande ne transportant que ces produits et ne sortant pas des
 limites de la zone courte à laquelle ils sont rattachés.
+
+12° Les véhicules répondant aux normes figurant au III de l'annexe I du décret
+n° 79-80 du 25 janvier 1979 relatif aux transports sanitaires privés utilisés
+par une entreprise agréée conformément à l'article 1er dudit décret.
