@@ -19,6 +19,17 @@ exercée au titre de 1992 ou au titre de l'année de création ou de la premièr
 année au cours de laquelle le contribuable expose des dépenses visées au premier
 alinéa.
 
+((Une réduction d'impôt s'applique également aux dépenses de formation exposées
+par les mêmes contribuables au cours des années 1994 à 1996 dans les conditions
+visées aux deuxième et troisième alinéas du présent article. Sont également
+prises en compte les dépenses exposées au profit du conjoint collaborateur du
+chef d'entreprise, au sens de l'article 1er de la loi n° 82-596 du 10 juillet
+1982 relative aux conjoints d'artisans et de commerçants travaillant dans
+l'entreprise familiale. Cette réduction d'impôt est égale à 35 p. 100 des
+dépenses exposées chaque année. Le montant des dépenses retenues pour le calcul
+de la réduction d'impôt ne peut excéder 10 000 F au cours de cette période
+triennale)) (1).
+
 Lorsque les dépenses de formation exposées au cours d'une année sont inférieures
 à celles exposées au cours de l'année qui précède, il est pratiqué une
 imputation, égale à 35 p. 100 du montant de la différence, sur la réduction
@@ -29,4 +40,6 @@ d'impôt.
 
 Un décret fixe les conditions d'application du présent article, notamment en ce
 qui concerne les obligations incombant aux contribuables et aux organismes
-agréés. "
+agréés.
+
+(1) Modification de la loi 94-126.
