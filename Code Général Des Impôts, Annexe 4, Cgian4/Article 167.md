@@ -2,7 +2,7 @@ Article 167
 ----
 1. Sont notamment soumis au régime prévu à l'article 165-1 :
 
-L'office national de la navigation ;
+((Les voies navigables de France)) (M) ;
 
 La caisse nationale du crédit agricole ;
 
@@ -25,7 +25,7 @@ Les manufactures nationales ;
 
 L'administration des monnaies et médailles ;
 
-L'imprimerie nationale ;
+(M) ((Devenu sans objet)) ;
 
 Les arsenaux, poudreries et usines mécaniques de l'Etat.
 
@@ -56,3 +56,5 @@ Les sections de l'office de répartition des produits industriels ;
 L'office national interprofessionnel des céréales ;
 
 L'office national des anciens combattants et victimes de guerre.
+
+(M) Modifications.
