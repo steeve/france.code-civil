@@ -43,16 +43,18 @@ fixée par décret ; toutefois, les arrêts de travail prescrits à l'occasion d
 cure thermale ne donnent pas lieu à indemnité journalière, sauf lorsque la
 situation de l'intéressé le justifie suivant des conditions fixées par décret ;
 
-6°) les frais afférents aux examens prescrits en application de l'article L. 153
-du code de la santé publique ;
+6° La couverture des frais relatifs aux actes et traitements à visée préventive
+réalisés dans le cadre des programmes prioritaires de prévention définis en
+application des dispositions de l'article L. 1417-2 du code de la santé
+publique, et notamment des frais relatifs aux examens de dépistage effectués au
+titre des programmes prévus par l'article L. 1411-2 du même code ainsi que des
+frais afférents aux examens prescrits en application de l'article L. 2121-1 du
+même code et aux vaccinations dont la liste est fixée par arrêté des ministres
+chargés de la santé et de la sécurité sociale ;
 
-7°) La couverture des frais afférents aux vaccinations dont la liste est fixée
-par arrêté du ministre chargé de la sécurité sociale et du ministre chargé de la
-santé ;
+7°) (Abrogé) ;
 
-8° La couverture des frais relatifs aux examens de dépistage effectués dans le
-cadre des programmes arrêtés en application des dispositions de l'article L. 55
-du code de la santé publique ;
+8°) (Abrogé) ;
 
 9° La couverture des frais relatifs à l'examen de prévention bucco-dentaire
 mentionné à l'article L. 2132-2-1 du code de la santé publique.
