@@ -1,6 +1,10 @@
 Article L252-3
 ----
-Les associations agréées peuvent exercer les droits reconnus à la partie civile
-en ce qui concerne les faits constituant une infraction aux articles L. 211-1,
-L. 211-2, L. 212-1, L. 213-2 à L. 213-4 et L. 242-3, et portant un préjudice
-direct ou indirect aux intérêts collectifs qu'elles ont pour objet de défendre.
+Les associations agréées mentionnées à l'article L. 252-2 peuvent exercer les
+droits reconnus à la partie civile en ce qui concerne les faits portant un
+préjudice direct ou indirect aux intérêts collectifs qu'elles ont pour objet de
+défendre et constituant une infraction aux dispositions législatives relatives à
+la protection de la nature et de l'environnement, à l'amélioration du cadre de
+vie, à la protection de l'eau, de l'air, des sols, des sites et paysages, à
+l'urbanisme, ou ayant pour objet la lutte contre les pollutions et les
+nuisances, ainsi qu'aux textes pris pour leur application.

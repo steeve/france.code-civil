@@ -1,5 +1,8 @@
 Article L224-6
 ----
-Il est interdit de mettre en vente, de vendre, d'acheter, de transporter ou de
-colporter du gibier pendant le temps où la chasse n'est pas permise dans le
-département.
+La mise en vente, la vente, l'achat, le transport ou le colportage du gibier
+pendant le temps où la chasse n'est pas permise dans le département sont
+réglementés par l'autorité administrative.
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent
+article.

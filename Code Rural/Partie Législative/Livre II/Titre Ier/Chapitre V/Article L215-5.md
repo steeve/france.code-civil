@@ -1,9 +1,9 @@
 Article L215-5
 ----
 Sont habilités à constater les infractions aux dispositions des articles L.
-211-1, L. 211-2, L. 212-1, L. 213-2 à L. 213-5, outre les officiers et agents de
-police judiciaire énumérés aux articles 16, 20 et 21 du code de procédure pénale
-:
+211-1, L. 211-2, L. 211-3, L. 212-1, L. 213-2 à L. 213-5, outre les officiers et
+agents de police judiciaire énumérés aux articles 16, 20 et 21 du code de
+procédure pénale :
 
 1° Les agents des douanes commissionnés ;
 

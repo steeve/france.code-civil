@@ -14,24 +14,23 @@ obligations imposées par les articles L. 111-1 à L. 111-1-4, L111-3 et L.
 111-5-2 ainsi que par les règlements pris pour leur application ;
 
 b) En cas de coupes et d'abattages d'arbres effectués en infraction aux
-dispositions du cinquième alinéa de l'article L. 130-1, sur les territoires des
+dispositions du cinquième alinéa de l'article L. 130-1 , sur les territoires des
 communes, parties de communes ou ensemble de communes où l'établissement d'un
 plan d'occupation des sols a été prescrit mais où ce plan n'a pas encore été
 rendu public ;
 
 c) En cas d'exécution de travaux ou d'utilisation du sol en infraction aux
 dispositions de l'article L. 142-11 relatif à la protection des espaces naturels
-sensibles des départements sensibles ;
+sensibles des départements ;
 
 d) En cas d'exécution de travaux ou d'utilisation du sol en infraction aux
 prescriptions architecturales ou aux règles particulières édictées dans une zone
 d'environnement protégé en application de l'article L. 143-1 (alinéa 2).
 
-Toute association, soit reconnue d'utilité publique, soit régulièrement déclarée
-depuis trois ans au moins et agréée, se proposant par ses statuts d'agir pour la
-protection et l'amélioration du cadre de vie et de l'environnement, peut exercer
-les droits reconnus à la partie civile en ce qui concerne les faits constituant
-une infraction aux alinéas premier et second du présent article et portant un
+Toute association agréée de protection de l'environnement en application des
+dispositions de l'article L. 252-1 du code rural, peut exercer les droits
+reconnus à la partie civile en ce qui concerne les faits constituant une
+infraction aux alinéas premier et second du présent article et portant un
 préjudice direct ou indirect aux intérêts collectifs qu'elle a pour objet de
 défendre.
 

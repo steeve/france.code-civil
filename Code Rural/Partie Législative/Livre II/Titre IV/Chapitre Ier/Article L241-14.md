@@ -1,7 +1,8 @@
 Article L241-14
 ----
-Sont constatées par des agents assermentés, commissionnés par le ministre chargé
-des parcs nationaux :
+Sont constatées par des agents commissionnés par l'autorité administrative et
+assermentés auprès du tribunal de grande instance auquel est rattaché leur
+domicile :
 
 1° Les infractions spécialement définies pour la protection des parcs nationaux
 ;

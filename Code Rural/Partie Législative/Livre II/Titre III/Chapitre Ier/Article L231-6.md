@@ -37,6 +37,6 @@ par l'administration, dans des conditions fixées par décret. Les propriétaire
 devront déposer leur demande avant le 1er janvier 1996.
 
 Ceux qui auront créé des piscicultures sans concession ou sans autorisation
-seront punis d'une amende de 25 000 F et condamnés à remettre les lieux en état,
-sous astreinte définie à l'article L. 238-7, sans préjudice de l'application des
-dispositions du présent titre.
+seront punis d'une amende de 1 000 F à 15 000 F et condamnés à remettre les
+lieux en état, sous astreinte définie à l'article L. 238-7, sans préjudice de
+l'application des dispositions du présent titre.

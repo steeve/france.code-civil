@@ -16,4 +16,11 @@ exécution des prescriptions.
 En cas de carence de l'autorité compétente, le préfet de département peut se
 substituer à elle après mise en demeure restée sans effet.
 
+Si l'une des zones visées au présent article est couverte par un plan de
+prévention des risques naturels prévisibles établi en application de la loi n°
+87-565 du 22 juillet 1987 relative à l'organisation de la sécurité civile, à la
+protection de la forêt contre l'incendie et à la prévention des risques majeurs,
+les prescriptions fixées en application du présent article doivent être
+compatibles avec celles définies par ce plan.
+
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
