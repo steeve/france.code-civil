@@ -1,6 +1,6 @@
 Article L302-5-1
 ----
-Si, dans un délai de trente mois à compter de la publication de la loi n° 91-662
+Si, dans un délai de quatre ans à compter de la publication de la loi n° 91-662
 du 13 juillet 1991 précitée, une commune, visée à l'article L. 302-5, n'est pas
 couverte par un programme local de l'habitat, le représentant de l'Etat peut,
 pour répondre aux fins poursuivies par cette loi, selon les conditions fixées
