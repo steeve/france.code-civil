@@ -1,4 +1,4 @@
 Article R*410-17
 ----
-Le certificat d'urbanisme tient lieu des certificats prévus aux articles R.
-211-6, R. 213-3 et R. 142-6 .
+Le certificat d'urbanisme indique si le bien est situé ou non à l'intérieur du
+périmètre d'un des droits de préemption définis par le code de l'urbanisme.

@@ -1,9 +1,10 @@
 Article R*410-18
 ----
-Le certificat d'urbanisme peut être prorogé une seule fois pour une durée d'un
-an sur demande présentée deux mois au moins avant l'expiration du délai de
-validité, si les prescriptions d'urbanisme et les servitudes administratives de
-tous ordres applicables au terrain n'ont pas évolué.
+Le certificat d'urbanisme peut être prorogé par périodes d'une année sur demande
+présentée deux mois au moins avant l'expiration du délai de validité, si les
+prescriptions d'urbanisme, les servitudes administratives de tous ordres et le
+régime des taxes et participations d'urbanisme applicables au terrain n'ont pas
+évolué.
 
 La demande de prorogation, formulée en double exemplaire par lettre accompagnée
 du certificat à proroger, est déposée et transmise dans les conditions prévues à

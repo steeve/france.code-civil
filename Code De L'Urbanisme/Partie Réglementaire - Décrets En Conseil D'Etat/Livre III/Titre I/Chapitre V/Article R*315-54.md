@@ -1,7 +1,6 @@
 Article R*315-54
 ----
-Les divisions de terrains en vue de l'implantation de bâtiments qui ne
-constituent pas des lotissements au sens de l'article R. 315-1 (alinéa 1er et 2)
-doivent, à l'exception des divisions visées à l'article R. 315-2, être précédées
-de la délivrance d'un certificat d'urbanisme portant sur chacun des terrains
-devant provenir de la division.
+Le propriétaire ou son mandataire adresse au maire de la commune un plan de
+division préalablement à toute division de terrain en vue de l'implantation de
+bâtiments qui ne constitue pas un lotissement au sens de l'article R. 315-1
+(alinéas 1 et 2) ou qui n'est pas une des divisions visées à l'article R. 315-2.
