@@ -5,6 +5,18 @@ Exception faite des aliments médicamenteux, aucun médicament vétérinaire ne 
 le marché délivrée par arrêté conjoint du ministre de la santé et du ministre de
 l'agriculture [*interdiction, condition*].
 
+Toutefois, lorsque la situation sanitaire l'exige, la commercialisation ou
+l'utilisation d'un médicament vétérinaire autorisé par un autre Etat membre de
+la Communauté peut être autorisée par décision conjointe du ministre chargé de
+l'agriculture et du ministre chargé de la santé.
+
+En cas d'épizootie et sans préjudice des dispositions de l'article L. 617-4, le
+ministre chargé de l'agriculture et le ministre chargé de la santé peuvent, par
+décision conjointe, autoriser pour une durée limitée, l'utilisation de
+médicaments vétérinaires immunologiques n'ayant pas fait l'objet d'une
+autorisation de mise sur le marché, en l'absence de médicaments vétérinaires
+adéquats.
+
 Aucun prémélange médicamenteux ne peut être délivré au public [*interdiction*].
 Il ne peut être utilisé pour la fabrication d'aliments médicamenteux s'il n'a
 reçu au préalable l'autorisation prévue à l'alinéa ci-dessus. Cette autorisation

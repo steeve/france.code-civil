@@ -1,7 +1,9 @@
 Article L616
 ----
-Tout établissement dans lequel sont préparés, vendus en gros ou distribués en
-gros des médicaments vétérinaires, doit faire l'objet d'une autorisation
-administrative [*obligation*] qui peut être suspendue ou supprimée en cas
-d'infraction aux dispositions du présent chapitre ou des règlements pris pour
-son application.
+L'ouverture d'un établissement visé à l'article L. 615 est subordonnée à une
+autorisation administrative [*obligation*]. Celle-ci peut être, après mise en
+demeure, suspendue ou retirée en cas d'infraction aux dispositions du présent
+livre.
+
+Toute modification des éléments figurant dans l'autorisation initiale doit faire
+l'objet d'une autorisation préalable.
