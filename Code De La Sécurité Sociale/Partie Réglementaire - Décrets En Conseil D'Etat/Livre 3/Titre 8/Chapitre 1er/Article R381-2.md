@@ -1,11 +1,11 @@
 Article R381-2
 ----
 L'immatriculation est effectuée, en tant que de besoin, par la caisse régionale
-d'assurance maladie [*compétente territoriale*] dans le ressort de laquelle est
-situé le domicile des intéressés. Lorsque le domicile se situe dans la région
-parisienne ou dans la région de Strasbourg, sont respectivement compétentes : la
-caisse nationale d'assurance vieillesse des travailleurs salariés ou la caisse
-régionale d'assurance vieillesse des travailleurs salariés de Strasbourg.
+d'assurance maladie dans le ressort de laquelle est situé le domicile des
+intéressés. Lorsque le domicile se situe dans la région parisienne ou dans la
+région de Strasbourg, sont respectivement compétentes : la caisse nationale
+d'assurance vieillesse des travailleurs salariés ou la caisse régionale
+d'assurance vieillesse des travailleurs salariés de Strasbourg.
 
 Cette immatriculation prend effet :
 

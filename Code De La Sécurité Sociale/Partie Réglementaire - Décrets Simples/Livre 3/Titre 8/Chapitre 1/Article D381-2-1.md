@@ -8,3 +8,6 @@ alinéas de l'article R. 531-9 et que ses revenus professionnels nets de
 cotisations sociales issus de son activité à temps partiel pendant la période de
 perception de l'allocation parentale d'éducation n'excèdent pas 63 p. 100 du
 plafond de la sécurité sociale en vigueur au 1er janvier de l'année considérée.
+
+Ces dispositions sont applicables au membre du couple, ayant au moins un enfant
+à charge, qui bénéficie de l'allocation de présence parentale.
