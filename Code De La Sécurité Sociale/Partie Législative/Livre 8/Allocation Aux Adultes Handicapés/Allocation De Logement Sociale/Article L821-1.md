@@ -24,3 +24,13 @@ conditions prévues au premier alinéa ci-dessus, l'allocation aux adultes
 handicapés continue de lui être servie jusqu'à ce qu'elle perçoive effectivement
 l'avantage auquel elle a droit. Les sommes trop perçues à ce titre font l'objet
 d'un reversement par le bénéficiaire.
+
+Lorsque l'allocation aux adultes handicapés est versée en complément de la
+garantie de ressources prévue au paragraphe IV du chapitre II de la loi
+d'orientation n° 75-534 du 30 juin 1975 en faveur des personnes handicapées,
+servie à une personne exerçant une activité professionnelle en centre d'aide par
+le travail, le cumul de ces deux avantages est limité à des montants fixés par
+décret qui varient notamment selon qu'elle est mariée ou vit maritalement et a
+une ou plusieurs personnes à sa charge. Ces montants varient en fonction du
+salaire minimum interprofessionnel de croissance prévu à l'article L. 141-4 du
+code du travail.
