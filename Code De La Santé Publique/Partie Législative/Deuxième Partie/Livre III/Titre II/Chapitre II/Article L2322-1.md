@@ -8,3 +8,7 @@ l'autorisation préalable du représentant de l'Etat dans le département.
 
 Les conditions d'ouverture et de fonctionnement que doivent remplir ces
 établissements sont fixées par voie réglementaire.
+
+Un décret fixe les installations autorisées dont les établissements de santé
+privés sont tenus de disposer lorsqu'ils souhaitent pratiquer des interruptions
+volontaires de grossesse.
