@@ -10,16 +10,15 @@ dans les travaux, professionnels ou ménagers, qu'elles effectuent
 habituellement, cette indemnité est complétée d'une indemnité de remplacement
 proportionnelle à la durée et au coût de celui-ci.
 
-Les conjointes de membres des professions libérales relevant du régime
-d'assurance obligatoire institué par le présent chapitre qui remplissent les
-conditions de collaboration professionnelle définies par décret, bénéficient des
-allocations prévues par le présent article.
-
-Les femmes mentionnées aux premier et troisième alinéas bénéficient, à
-l'occasion de l'arrivée à leur foyer d'un enfant confié en vue de son adoption
-par un service d'aide sociale à l'enfance, ou par une oeuvre d'adoption
-autorisée, des allocations prévues par le présent article, dans les conditions
-suivantes :
+Les femmes mentionnées au premier alinéa bénéficient des allocations prévues par
+le présent article à l'occasion de l'arrivée à leur foyer d'un enfant confié en
+vue de son adoption par un service d'aide sociale à l'enfance ou par une oeuvre
+d'adoption autorisée. Ces allocations sont également accordées aux femmes
+titulaires de l'agrément mentionné aux articles 63 ou 100-3 du code de la
+famille et de l'aide sociale lorsqu'elles adoptent ou accueillent un enfant en
+vue de son adoption par décision de l'autorité étrangère compétente, à condition
+que l'enfant ait été autorisé, à ce titre, à entrer sur le territoire français.
+Les allocations sont servies dans les conditions suivantes :
 
 1°) l'allocation forfaitaire prévue au premier alinéa est due pour sa moitié ;
 

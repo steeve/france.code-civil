@@ -14,8 +14,15 @@ activité à temps partiel sur l'exploitation lorsqu'elles répondent à des
 conditions de durée maximale d'activité salariée précisées par le décret en
 Conseil d'Etat prévu ci-après.
 
-Un décret en Conseil d'Etat détermine les mesures d'application de l'alinéa
-précédent et, en particulier, la ou les périodes de remplacement ouvrant droit
+L'allocation de remplacement est également accordée aux femmes visées à l'alinéa
+précédent titulaires de l'agrément mentionné aux articles 63 ou 100-3 du code de
+la famille et de l'aide sociale lorsqu'elles adoptent ou accueillent un enfant
+en vue de son adoption par décision de l'autorité étrangère compétente, à
+condition que l'enfant ait été autorisé, à ce titre, à entrer sur le territoire
+français.
+
+Un décret en Conseil d'Etat détermine les mesures d'application des alinéas
+précédents et, en particulier, la ou les périodes de remplacement ouvrant droit
 au bénéfice de l'avantage ci-dessus prévu ainsi que la durée maximale
 d'attribution dudit avantage. En cas d'adoption, la ou les périodes de
 remplacement se situent nécessairement après l'arrivée de l'enfant au foyer, la

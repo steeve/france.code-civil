@@ -18,6 +18,8 @@ Toutefois, le service des indemnités dues aux travailleurs sans emploi est, à 
 date d'interruption du versement de l'allocation parentale d'éducation,
 poursuivi jusqu'à l'expiration des droits.
 
-Lorsqu'une allocation parentale d'éducation à mi-taux est servie, elle est
-cumulable avec les indemnisations prévues aux 1° et 3° du présent article,
-correspondant à l'activité à taux réduit que le bénéficiaire exerce.
+L'allocation parentale d'éducation à taux partiel n'est pas cumulable, à
+l'ouverture du droit, avec les indemnisations et l'allocation de remplacement
+mentionnées aux 1° à 5°. Elle est cumulable, en cours de droit, avec les
+indemnisations et allocations mentionnées aux 1° à 4° perçues au titre de
+l'activité à temps partiel que le bénéficiaire exerce ou a exercée.
