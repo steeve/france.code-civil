@@ -8,3 +8,6 @@ mise en service dans l'établissement, à une vérification initiale en vue de
 s'assurer qu'ils sont installés conformément aux spécifications prévues, le cas
 échéant, par la notice d'instructions du fabricant et peuvent être utilisés en
 sécurité.
+
+Les travailleurs indépendants sont également tenus à la vérification initiale
+mentionnée à l'alinéa précédent, dans les conditions prévues audit alinéa.

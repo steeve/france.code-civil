@@ -2,11 +2,12 @@ Article R233-42-2
 ----
 Des arrêtés du ministre chargé du travail ou du ministre chargé de l'agriculture
 déterminent les équipements de protection individuelle et catégories
-d'équipement de protection individuelle pour lesquels le chef d'établissement
-doit procéder ou faire procéder à des vérifications générales périodiques afin
-que soit décelé en temps utile toute défectuosité susceptible d'être à l'origine
-de situations dangereuses ou tout défaut d'accessibilité contraire aux
-conditions déterminées conformément à l'article R. 233-42-1.
+d'équipement de protection individuelle pour lesquels le chef d'établissement ou
+le travailleur indépendant doit procéder ou faire procéder à des vérifications
+générales périodiques afin que soit décelé en temps utile toute défectuosité
+susceptible d'être à l'origine de situations dangereuses ou tout défaut
+d'accessibilité contraire aux conditions déterminées conformément à l'article R.
+233-42-1.
 
 Ces arrêtés précisent la périodicité des vérifications et, en tant que de
 besoin, leur nature et leur contenu.
@@ -43,3 +44,12 @@ des rapports correspondants et à leur archivage dans l'établissement doivent
 
 Le registre de sécurité et les rapports peuvent être tenus et conservés sur tout
 support dans les conditions prévues par les articles L. 620-7 et D. 620-1.
+
+S'ils répondent aux critères de qualification et de compétence définis par
+l'alinéa 4 ci-dessus, les travailleurs indépendants peuvent procéder eux-mêmes à
+ces vérifications.
+
+Dans les cas visés à l'article 23 du décret n° 65-48 du 8 janvier 1965 modifié,
+les travailleurs indépendants consignent les résultats de ces vérifications,
+ainsi que le nom et la qualité de la personne qui les a effectuées, sur le
+registre prévu audit article.
