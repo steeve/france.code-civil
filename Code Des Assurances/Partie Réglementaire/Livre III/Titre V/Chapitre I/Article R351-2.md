@@ -23,7 +23,15 @@ effectue une activité en libre prestation de services ;
 
 3° Une liste des branches ou sous-branches que l'entreprise se propose de
 pratiquer ainsi que la nature des risques qu'elle se propose de garantir sur le
-territoire de la République française.
+territoire de la République française ;
+
+4° La désignation du représentant pour la gestion des sinistres mentionné à
+l'article L. 351-6-1 ainsi que les déclarations d'adhésion au fonds de garantie
+mentionné à l'article L. 421-2 et au bureau central français, lorsque
+l'entreprise se propose de couvrir, sur le territoire de la République
+française, les risques de responsabilité civile résultant de l'emploi de
+véhicules terrestres à moteur autre que la responsabilité civile du
+transporteur.
 
 II. - Lorsqu'une entreprise d'assurance ayant son siège dans un Etat membre des
 communautés européennes et couvrant sur le territoire de la République française
