@@ -26,7 +26,10 @@ plusieurs cours d'appel ou parties de celles-ci :
 police judiciaire de Paris ainsi que leurs détachements, antennes et services
 départementaux ;
 
-- la direction des renseignements généraux de la préfecture de police.
+- la direction des renseignements généraux de la préfecture de police ;
+
+- le département des missions de police administrative et judiciaire de la
+direction de la logistique de la préfecture de police.
 
 3° Services dont la compétence territoriale s'étend sur le ressort d'un ou
 plusieurs tribunaux de grande instance ou parties de ceux-ci :
