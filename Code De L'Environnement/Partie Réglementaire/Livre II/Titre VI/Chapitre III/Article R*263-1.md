@@ -1,7 +1,10 @@
 Article R*263-1
 ----
 Les dispositions du chapitre III du titre IV du présent livre sont applicables à
-la collectivité territoriale de Mayotte.
+la collectivité territoriale de Mayotte, à l'exception de l'article R. 243-7-1,
+du 8° de l'article R. 243-31 et des modifications apportées par le décret n°
+2003-839 du 29 août 2003 aux articles R. 243-1, R. 243-4, R. 243-7, R. 243-8, R.
+243-8-1, R. 243-8-2, R. 243-8-4 et R. 243-8-5.
 
 Sous réserve des dispositions du présent chapitre, les autres dispositions du
 présent livre en vigueur au 29 août 1990 sont applicables à la collectivité
@@ -12,5 +15,4 @@ territoriale de Mayotte, à l'exception de celles des articles suivants : R.
 228-7 et R. 228-13, R. 229-1 à R. 229-21, R. 231-41, R. 236-1 à R. 236-59, R.
 236-61, R. 236-62 (2e alinéa), R. 236-98 à R. 236-121, R. 238-6, R. 241-51, R.
 241-60, R. 242-8, R. 242-21 (2e alinéa), R. 244-1 à R. 244-15, R. 252-18 (3e
-alinéa), R. 261-1 à R. 262-1, ainsi que des points III, V et VII de l'annexe à
-l'article R. 243-23.
+alinéa), R. 261-1 à R. 262-1.
