@@ -8,7 +8,7 @@ l'Assemblée nationale et le Sénat, des représentants :
 de l'éducation et des finances, en nombre au moins égal à la moitié des sièges
 du conseil d'administration ;
 
-2° Du Conseil supérieur des Français de l'étranger, des organismes gestionnaires
+2° De l'Assemblée des Français de l'étranger, des organismes gestionnaires
 d'établissements, des fédérations d'associations de parents d'élèves de
 l'enseignement français à l'étranger, ainsi que des personnels affectés tant
 dans les établissements d'enseignement à l'étranger que dans les services
