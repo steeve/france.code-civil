@@ -15,7 +15,8 @@ Elles peuvent se faire assister ou représenter par une personne de leur choix.
 
 L'avis de la commission prévu à l'article L. 1142-8 précise pour chaque chef de
 préjudice les circonstances, les causes, la nature et l'étendue des dommages
-subis ainsi que son appréciation sur les responsabilités encourues.
+subis ainsi que son appréciation sur les responsabilités encourues. Il indique
+si les dommages répondent aux conditions prévues à l'article L. 1142-1-1.
 
 Il précise également si, à la date où il est rendu, l'état de la victime est
 consolidé ou non.

@@ -1,8 +1,8 @@
 Article R1142-5
 ----
-Chaque commission régionale de conciliation et d'indemnisation des accidents
-médicaux, des affections iatrogènes et des infections nosocomiales comprend,
-outre son président :
+Chaque commission régionale ou interrégionale de conciliation et d'indemnisation
+des accidents médicaux, des affections iatrogènes et des infections nosocomiales
+comprend, outre son président :
 
 1° Six représentants des usagers proposés par les associations d'usagers du
 système de santé ayant fait l'objet d'un agrément au niveau régional dans les
@@ -29,9 +29,9 @@ organisations d'hospitalisation privée les plus représentatives au plan
 régional, dont un représentant des organisations d'hospitalisation privée à but
 non lucratif participant au service public hospitalier ;
 
-4° Deux représentants de l'Office national d'indemnisation des accidents
-médicaux, des affections iatrogènes et des infections nosocomiales désignés par
-son conseil d'administration ;
+4° Le président du conseil d'administration et le directeur de l'Office national
+d'indemnisation des accidents médicaux, des affections iatrogènes et des
+infections nosocomiales ou leurs représentants ;
 
 5° Deux représentants des entreprises pratiquant l'assurance de responsabilité
 civile médicale prévue à l'article L. 1142-2 ;
@@ -39,12 +39,21 @@ civile médicale prévue à l'article L. 1142-2 ;
 6° Quatre personnalités qualifiées dans le domaine de la réparation des
 préjudices corporels.
 
+Lorsqu'ils sont désignés comme membres d'une commission interrégionale, les
+représentants des usagers sont proposés par les associations d'usagers du
+système de santé ayant fait l'objet d'un agrément au niveau de l'une au moins
+des régions concernées ou ayant fait l'objet d'un agrément au niveau national et
+ayant une représentation au niveau de l'une au moins des régions. Les
+professionnels de santé et les responsables des institutions et établissements
+publics et privés de santé sont proposés ou désignés, selon le cas, par les
+instances de la région dans le ressort de laquelle ils exercent.
+
 Des suppléants à chacun des membres de la commission, autres que le président,
 sont nommés dans les mêmes conditions que le titulaire. Les suppléants ne
 participent aux délibérations de la commission qu'en cas d'absence du titulaire.
 
-Dans les régions où le nombre de dossiers le justifie, peuvent être nommés un ou
-plusieurs présidents adjoints.
+Lorsque le nombre de dossiers le justifie, peuvent être nommés un ou plusieurs
+présidents adjoints.
 
 En cas de décès, de démission, de cessation de fonctions pour toute autre cause
 d'un membre de la commission, celui-ci est remplacé par son suppléant qui

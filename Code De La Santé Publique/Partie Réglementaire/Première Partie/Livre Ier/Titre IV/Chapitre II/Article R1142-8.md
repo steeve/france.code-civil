@@ -4,7 +4,7 @@ Le président de la commission, lorsqu'il n'est pas détaché auprès de l'offic
 et, le cas échéant, son ou ses adjoints perçoivent des indemnités eu égard aux
 sujétions particulières auxquelles ils sont soumis.
 
-Il en va de même des médiateurs indépendants prévus au troisième alinéa de
+Il en va de même des médiateurs indépendants prévus au quatrième alinéa de
 l'article L. 1142-5.
 
 Des indemnités sont attribuées aux autres membres ou à leurs suppléants lorsque

@@ -6,10 +6,10 @@ victime ou ses ayants droit peuvent adresser à l'office, par lettre recommandé
 avec accusé de réception, une demande aux fins d'obtenir une indemnisation de sa
 part.
 
-Il en va de même lorsque, alors que la commission régionale estime qu'un dommage
-est imputable à plusieurs responsables, les assureurs de ces derniers n'ont pas
-fait d'offre conjointe à l'issue des quatre mois dont ils disposent pour ce
-faire.
+Il en va de même lorsque, alors que la commission régionale ou interrégionale
+estime qu'un dommage est imputable à plusieurs responsables, les assureurs de
+ces derniers n'ont pas fait d'offre conjointe à l'issue des quatre mois dont ils
+disposent pour ce faire.
 
 L'office enregistre la demande et en informe l'auteur.
 

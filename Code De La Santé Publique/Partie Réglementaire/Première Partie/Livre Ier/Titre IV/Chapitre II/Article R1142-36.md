@@ -5,4 +5,5 @@ officiel de la République française.
 
 La liste initiale ainsi que ses actualisations annuelles publiées dans les mêmes
 conditions sont adressées aux juridictions mentionnées à l'article L. 1142-11
-ainsi qu'aux commissions régionales qui les tiennent à la disposition du public.
+ainsi qu'aux commissions régionales et interrégionales qui les tiennent à la
+disposition du public.

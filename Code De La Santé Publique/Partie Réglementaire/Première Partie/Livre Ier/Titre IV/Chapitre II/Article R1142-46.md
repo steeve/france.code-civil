@@ -30,12 +30,16 @@ l'article R. 1142-53 ;
 10° Les conditions générales d'emploi et de recrutement du personnel ;
 
 11° La désignation des représentants de l'office dans les commissions régionales
-;
+et interrégionales ;
 
 12° Les questions relatives aux offres d'indemnisation et aux transactions
 auxquelles elles peuvent donner lieu, susceptibles d'avoir soit une portée
 exceptionnelle selon l'appréciation du directeur, et à son initiative, soit une
-incidence financière supérieure à un seuil fixé par le conseil lui-même.
+incidence financière supérieure à un seuil fixé par le conseil lui-même ;
+
+13° Les rapports semestriels relatifs à son fonctionnement et à son activité
+qu'il transmet au ministre chargé de la santé en vue de la préparation de la loi
+de financement de la sécurité sociale.
 
 Les décisions du conseil d'administration sont exécutoires trente jours après
 leur réception par le ministre chargé de la santé et par le ministre chargé du

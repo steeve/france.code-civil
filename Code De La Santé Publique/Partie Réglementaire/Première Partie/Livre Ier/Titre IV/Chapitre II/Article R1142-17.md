@@ -6,7 +6,10 @@ l'organisme de santé ou au producteur, à l'exploitant ou au distributeur de
 produits de santé dont la responsabilité a été mise en cause par le demandeur et
 à son assureur. Lorsque l'avis indique que le dommage engage la responsabilité
 de plusieurs personnes, il est adressé à chacune des personnes considérées ainsi
-qu'à leurs assureurs respectifs.
+qu'à leurs assureurs respectifs. L'avis est également adressé au service médical
+des organismes de sécurité sociale auxquels est ou était affiliée la victime
+lors du dommage qu'elle a subi, ainsi qu'à celui des autres tiers payeurs des
+prestations versées du chef de ce dommage.
 
 L'avis précise, le cas échéant, que la personne considérée par la commission
 comme responsable des dommages n'a pas communiqué le nom de son assureur ou

@@ -22,8 +22,8 @@ g) Le directeur du Trésor ou son représentant ;
 
 h) Le directeur des affaires civiles et du sceau ou son représentant ;
 
-i) Le directeur des exploitations, de la politique sociale et de l'emploi au
-ministère de l'agriculture ou son représentant ;
+i) Le directeur général de la forêt et des affaires rurales ou son représentant
+;
 
 j) Le directeur général de l'industrie, des technologies de l'information et des
 postes ou son représentant ;
