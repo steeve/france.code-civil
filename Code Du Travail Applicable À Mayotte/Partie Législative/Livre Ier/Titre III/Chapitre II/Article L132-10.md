@@ -9,6 +9,6 @@ ou accord collectif de travail au secrétariat-greffe de la juridiction du
 travail.
 
 Les textes sont applicables, sauf stipulations contraires, à partir du jour qui
-suit leur dépôt auprès du service compétent [*date d'entrée en vigueur*].
+suit leur dépôt auprès du service compétent.
 
 Il peut être donné communication et délivré copie des textes déposés.

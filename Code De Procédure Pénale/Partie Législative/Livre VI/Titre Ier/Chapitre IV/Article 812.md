@@ -9,4 +9,4 @@ mesure ou de son maintien pour une durée qu'il fixe et qui ne peut se prolonger
 au-delà du jour de la première liaison aérienne ou maritime.
 
 Le fait de se soustraire à l'obligation définie au précédent alinéa est puni
-d'un an de prison et 100 000 F d'amende.
+d'un an de prison et 15 000 euros d'amende.

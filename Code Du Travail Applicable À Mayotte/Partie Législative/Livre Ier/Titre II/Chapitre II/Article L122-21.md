@@ -15,9 +15,8 @@ le salarié aurait reçus s'il avait accompli son travail. En cas d'inexécution
 totale ou partielle du délai-congé résultant soit de la fermeture temporaire ou
 définitive de l'établissement, soit de la réduction de l'horaire de travail
 habituellement pratiqué dans l'établissement en deçà de la durée légale de
-travail, le salaire [*de référence*] à prendre en considération est celui
-qu'aurait perçu l'intéressé s'il avait accompli son travail jusqu'à l'expiration
-du délai-congé sur la base de la durée légale ou conventionnelle de travail
-applicable à l'entreprise, dans le cas où il travaillait à temps plein, ou de la
-durée du travail fixée dans son contrat de travail lorsqu'il travaillait à temps
-partiel.
+travail, le salaire à prendre en considération est celui qu'aurait perçu
+l'intéressé s'il avait accompli son travail jusqu'à l'expiration du délai-congé
+sur la base de la durée légale ou conventionnelle de travail applicable à
+l'entreprise, dans le cas où il travaillait à temps plein, ou de la durée du
+travail fixée dans son contrat de travail lorsqu'il travaillait à temps partiel.

@@ -20,8 +20,7 @@ suivants :
 - l'expérience et l'ancienneté du syndicat.
 
 Tout syndicat affilié à une organisation représentative selon le code du travail
-applicable à la collectivité territoriale de Mayotte est considéré comme
-représentatif dans l'établissement.
+applicable à Mayotte est considéré comme représentatif dans l'établissement.
 
 Lorsqu'aucune organisation syndicale ne présente de liste ou lorsque la
 participation est inférieure à un taux fixé par décret, les listes peuvent être

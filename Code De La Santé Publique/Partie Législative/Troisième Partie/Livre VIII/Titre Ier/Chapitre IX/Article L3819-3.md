@@ -1,8 +1,8 @@
 Article L3819-3
 ----
 Les infractions aux dispositions des articles L. 3813-7, L. 3813-9 et L.
-3813-10, relatifs à la publicité des boissons alcooliques, sont punies de 500
-000 F d'amende. Le maximum de l'amende peut être porté à 50 % du montant des
+3813-10, relatifs à la publicité des boissons alcooliques, sont punies de 75000
+euros d'amende. Le maximum de l'amende peut être porté à 50 % du montant des
 dépenses consacrées à l'opération illégale.
 
 En cas de récidive, les personnes physiques reconnues coupables de l'infraction

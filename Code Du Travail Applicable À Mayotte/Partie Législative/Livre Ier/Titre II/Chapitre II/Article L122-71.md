@@ -1,8 +1,7 @@
 Article L122-71
 ----
 L'inspecteur du travail peut à tout moment exiger le retrait ou la modification
-des dispositions [*du réglement intérieur*] contraires aux articles L. 122-68 et
-L. 122-69.
+des dispositions contraires aux articles L. 122-68 et L. 122-69.
 
 Cette décision, motivée, est notifiée à l'employeur et communiquée, pour
 information, aux représentants du personnel.

@@ -1,10 +1,10 @@
 Article L143-2
 ----
 Les salaires des employés et ceux des ouvriers bénéficiaires d'une convention ou
-d'un accord de mensualisation doivent être payés au moins une fois par mois
-[*périodicité*] ; en l'absence de convention ou d'accord de la nature
-susmentionnée, les salaires des ouvriers doivent être payés au moins deux fois
-par mois, à seize jours au plus d'intervalle.
+d'un accord de mensualisation doivent être payés au moins une fois par mois ; en
+l'absence de convention ou d'accord de la nature susmentionnée, les salaires des
+ouvriers doivent être payés au moins deux fois par mois, à seize jours au plus
+d'intervalle.
 
 Pour tout travail aux pièces dont l'exécution doit durer plus d'une quinzaine,
 les dates de paiement peuvent être fixées de gré à gré, mais l'ouvrier doit

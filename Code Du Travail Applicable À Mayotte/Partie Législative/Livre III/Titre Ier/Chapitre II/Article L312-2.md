@@ -1,10 +1,9 @@
 Article L312-2
 ----
-Est réputé [*travail*] clandestin [*définition*] l'exercice à but lucratif d'une
-activité de production, de transformation, de réparation ou de prestation de
-services ou l'accomplissement d'actes de commerce par toute personne physique ou
-morale qui s'est soustraite intentionnellement à l'une quelconque des
-obligations suivantes :
+Est réputé clandestin l'exercice à but lucratif d'une activité de production, de
+transformation, de réparation ou de prestation de services ou l'accomplissement
+d'actes de commerce par toute personne physique ou morale qui s'est soustraite
+intentionnellement à l'une quelconque des obligations suivantes :
 
 1° Requérir son immatriculation au répertoire des métiers ou au registre du
 commerce et des sociétés, lorsque celle-ci est obligatoire ;

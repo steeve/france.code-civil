@@ -4,7 +4,7 @@ Comme il est dit à l'article 726-12 du code pénal, ci-après reproduit :
 
 " L'article 511-21 est ainsi rédigé :
 
-" Art. 511-21. - Le fait de procéder à un diagnostic préimplantatoire sans que
+" Art. 511-21.-Le fait de procéder à un diagnostic préimplantatoire sans que
 soit attestée, par un médecin exerçant son activité dans un établissement
 mentionné à l'article 511-20, la forte probabilité, pour le couple, de donner
 naissance à un enfant atteint d'une maladie génétique d'une particulière gravité

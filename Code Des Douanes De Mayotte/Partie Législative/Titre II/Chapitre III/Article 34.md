@@ -14,6 +14,6 @@ fonctionnaires du grade d'administrateur civil ou à des agents remplissant des
 fonctions de même importance.
 
 III. - Les personnes ayant à connaître et à utiliser les informations ainsi
-communiquées sont, dans les conditions et sous les peines prévues à l'article
-378 du code pénal, tenues au secret professionnel pour tout ce qui concerne
+communiquées sont, dans les conditions et sous les peines fixées par l'article
+226-13 du code pénal, tenues au secret professionnel pour tout ce qui concerne
 lesdites informations.

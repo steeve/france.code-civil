@@ -3,7 +3,7 @@ Article L122-13
 A l'expiration du contrat conclu pour une durée déterminée, il ne peut être
 recouru, pour pourvoir le poste du salarié dont le contrat a pris fin, à un
 contrat à durée déterminée avant l'expiration d'une période égale au tiers de la
-durée de ce contrat renouvellement inclus [*contrats successifs, délai*].
+durée de ce contrat renouvellement inclus.
 
 Les dispositions de l'alinéa ci-dessus ne sont pas applicables lorsque le
 contrat de travail à durée déterminée est conclu pour assurer le remplacement

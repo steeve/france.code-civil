@@ -7,5 +7,4 @@ particulière à certains salariés définis par lesdites dispositions.
 Ces règles sont applicables au cas où le salarié est lié par des contrats de
 travail à plusieurs employeurs.
 
-Les parties ne peuvent renoncer [*interdiction*] par avance au droit de s'en
-prévaloir.
+Les parties ne peuvent renoncer par avance au droit de s'en prévaloir.

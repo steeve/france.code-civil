@@ -1,10 +1,10 @@
 Article L221-20
 ----
 Dans les établissements de commerce de détail où le repos hebdomadaire a lieu
-normalement le dimanche [*jour*], ce repos peut être supprimé les dimanches
-désignés, pour chaque commerce de détail, par un arrêté du maire [*autorité
-compétente*] pris après avis des organisations d'employeurs et de travailleurs
-intéressées. Le nombre de ces dimanches ne peut excéder trois par an.
+normalement le dimanche, ce repos peut être supprimé les dimanches désignés,
+pour chaque commerce de détail, par un arrêté du maire pris après avis des
+organisations d'employeurs et de travailleurs intéressées. Le nombre de ces
+dimanches ne peut excéder trois par an.
 
 Chaque salarié ainsi privé du repos du dimanche doit bénéficier d'un repos
 compensateur et d'une majoration de salaire pour ce jour de travail

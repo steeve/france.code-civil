@@ -1,6 +1,6 @@
 Article L332-1
 ----
-Les déclarations de candidatures doivent être déposées au plus tard [*délai*].
+Les déclarations de candidatures doivent être déposées au plus tard :
 
 - pour le premier tour, le deuxième vendredi qui précède le jour du scrutin, à
 vingt-quatre heures ;

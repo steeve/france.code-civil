@@ -2,7 +2,7 @@ Article L3819-21
 ----
 L'infraction aux dispositions d'un jugement ou de la loi portant contre la
 personne condamnée, interdiction d'exercer la profession de débitant de boissons
-est punie de deux ans d'emprisonnement et de 30 000 F d'amende.
+est punie de deux ans d'emprisonnement et de 4500 euros d'amende.
 
 Pendant la durée de cette interdiction, la personne condamnée ne peut, sous les
 mêmes peines, être employée, à quelque titre que ce soit, dans l'établissement

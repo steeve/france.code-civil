@@ -5,5 +5,5 @@ par semaine.
 
 La durée quotidienne du travail effectif par salarié ne peut excéder dix heures,
 sauf dérogations exceptionnelles dans des conditions fixées par arrêté du
-représentant du Gouvernement et dans la limite d'une durée maximum de douze
-heures de travail effectif.
+représentant de l'Etat et dans la limite d'une durée maximum de douze heures de
+travail effectif.

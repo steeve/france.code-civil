@@ -1,11 +1,9 @@
 Article L4411-17
 ----
-Pour son application dans la collectivité territoriale de Mayotte, l'article L.
-4124-6 est ainsi rédigé :
+Pour son application à Mayotte, l'article L. 4124-6 est ainsi rédigé :
 
-" Art. L. 4124-6. - Dans la collectivité territoriale de Mayotte, les peines
-disciplinaires que le conseil régional ou interrégional peut appliquer sont les
-suivantes :
+" Art. L. 4124-6. - A Mayotte, les peines disciplinaires que le conseil régional
+ou interrégional peut appliquer sont les suivantes :
 
 1° L'avertissement ;
 
@@ -14,7 +12,7 @@ suivantes :
 3° L'interdiction temporaire ou permanente d'exercer une, plusieurs ou la
 totalité des fonctions de médecin, de chirurgien-dentiste ou de sage-femme,
 conférées ou rétribuées par l'Etat, les départements, les communes, les
-collectivités territoriales, les territoires d'outre-mer, les établissements
+collectivités départementales, les territoires d'outre-mer, les établissements
 publics, les établissements reconnus d'utilité publique ou des fonctions
 médicales accomplies en application des lois sociales ;
 

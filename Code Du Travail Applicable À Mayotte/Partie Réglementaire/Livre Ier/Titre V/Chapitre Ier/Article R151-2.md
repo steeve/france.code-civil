@@ -1,8 +1,8 @@
 Article R151-2
 ----
-Sont passibles de l'amende prévue pour les contraventions de la 5e classe [*(1)
-montant*] les employeurs qui paient des salaires inférieurs au minimum prévu par
-l'article L. 113-9 [*pourcentage du SMIG*].
+Sont passibles de l'amende prévue pour les contraventions de la 5e classe (1)
+les employeurs qui paient des salaires inférieurs au minimum prévu par l'article
+L. 113-9.
 
 L'amende sera appliquée autant de fois qu'il y aura d'apprentis rémunérés dans
 des conditions illégales.

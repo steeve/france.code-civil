@@ -1,10 +1,9 @@
 Article R156-2
 ----
-Sont passibles de l'amende prévue pour les contraventions de la 5e classe [*(1)
-montant*] les employeurs qui paient des salaires inférieurs au minimum prévu par
-l'article L. 141-2 ainsi que les employeurs qui paient des rémunérations
-inférieures à la rémunération mensuelle minimale garantie par l'article L.
-141-3.
+Sont passibles de l'amende prévue pour les contraventions de la 5e classe les
+employeurs qui paient des salaires inférieurs au minimum prévu par l'article L.
+141-2 ainsi que les employeurs qui paient des rémunérations inférieures à la
+rémunération mensuelle minimale garantie par l'article L. 141-3.
 
 L'amende sera appliquée autant de fois qu'il y aura de travailleurs rémunérés
 dans des conditions illégales.

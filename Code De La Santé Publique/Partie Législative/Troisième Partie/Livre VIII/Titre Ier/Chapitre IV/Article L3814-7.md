@@ -1,7 +1,6 @@
 Article L3814-7
 ----
-L'article L. 3223-2 applicable dans la collectivité territoriale de Mayotte est
-ainsi rédigé :
+L'article L. 3223-2 applicable à Mayotte est ainsi rédigé :
 
 " Art. L. 3223-2. - Cette commission se compose :
 
@@ -13,7 +12,7 @@ supérieur d'appel ;
 
 3° De deux personnalités qualifiées et d'un représentant d'une organisation
 représentative des familles de personnes atteintes de troubles mentaux désignés
-par le représentant du Gouvernement.
+par le représentant de l'Etat.
 
 Les membres de la commission ne peuvent, en dehors du cadre des attributions de
 la commission, faire état des informations qu'ils ont pu recueillir sur les

@@ -2,8 +2,8 @@ Article 870
 ----
 L'article 752 est ainsi rédigé :
 
-" Art. 752. - La contrainte judiciaire ne peut être exécutée contre les
-condamnés qui justifient de leur insolvabilité en produisant :
+" Art. 752. - La contrainte par corps ne peut être exécutée contre les condamnés
+qui justifient de leur insolvabilité en produisant :
 
 1° Un certificat du percepteur ou de l'agent qui exerce les fonctions dévolues
 au percepteur de leur domicile constatant qu'ils ne sont pas imposés ;

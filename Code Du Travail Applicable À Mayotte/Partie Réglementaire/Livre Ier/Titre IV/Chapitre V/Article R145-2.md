@@ -2,8 +2,7 @@ Article R145-2
 ----
 La cession des créances mentionnées à l'article L. 145-1 ne peut être consentie,
 quel qu'en soit le montant, que par une déclaration souscrite par le cédant en
-personne devant le greffier du tribunal de première instance [*autorité
-compétente*].
+personne devant le greffier du tribunal de première instance.
 
 Le greffier fait mention de la déclaration sur les fiches individuelles prévues
 à l'article R. 145-20. Il adresse, lorsqu'il en est requis par les parties ou

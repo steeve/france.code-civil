@@ -2,8 +2,8 @@ Article L132-12
 ----
 Les organisations qui sont liées par une convention de branche ou, à défaut, par
 des accords professionnels, se réunissent, au moins une fois par an, pour
-négocier sur les salaires et, au moins une fois tous les cinq ans
-[*périodicité*], pour examiner la nécessité de réviser les classifications.
+négocier sur les salaires et, au moins une fois tous les cinq ans, pour examiner
+la nécessité de réviser les classifications.
 
 La négociation sur les salaires est l'occasion, au moins une fois par an, d'un
 examen, par les parties, de l'évolution économique de la situation de l'emploi

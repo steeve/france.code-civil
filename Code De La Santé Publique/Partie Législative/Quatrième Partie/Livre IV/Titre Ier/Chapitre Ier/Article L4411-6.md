@@ -1,7 +1,6 @@
 Article L4411-6
 ----
-Pour son application dans la collectivité territoriale de Mayotte, l'article L.
-4113-6 est ainsi modifié :
+Pour son application à Mayotte, l'article L. 4113-6 est ainsi modifié :
 
 Au premier alinéa, les mots " par les régimes obligatoires de sécurité sociale "
 sont remplacés par les mots " par le régime d'assurance maladie maternité fixé
@@ -11,7 +10,7 @@ santé publique à Mayotte ".
 
 La dernière phrase du quatrième alinéa est ainsi rédigée :
 
-" Lorsque le champ d'application de ces conventions intéresse la collectivité
-territoriale de Mayotte et un ou plusieurs départements, elles sont, avant leur
-mise en oeuvre, soumises pour avis au conseil national de l'ordre compétent en
-lieu et place des instances territoriales ou départementales. "
+" Lorsque le champ d'application de ces conventions intéresse Mayotte et un ou
+plusieurs départements, elles sont, avant leur mise en oeuvre, soumises pour
+avis au conseil national de l'ordre compétent en lieu et place des instances
+territoriales ou départementales. "

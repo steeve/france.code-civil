@@ -1,8 +1,7 @@
 Article L1516-2
 ----
-Sont applicables dans la collectivité territoriale de Mayotte, sous réserve des
-dispositions des articles L. 1516-3 à L. 1516-6, les dispositions suivantes du
-livre IV de la présente partie :
+Sont applicables à Mayotte, sous réserve des dispositions des articles L. 1516-3
+à L. 1516-6, les dispositions suivantes du livre IV de la présente partie :
 
 1° Les dispositions des chapitres II à V du titre Ier ;
 

@@ -21,7 +21,7 @@ usage médical ainsi que des médicaments et des produits pharmaceutiques qui so
 placés sous la responsabilité du pharmacien gérant la pharmacie de
 l'établissement conformément au deuxième alinéa de l'article L. 577 étendu à
 Mayotte par l'ordonnance n° 92-1070 du 1er octobre 1992 portant extension et
-adaptation à la collectivité territoriale de Mayotte de diverses dispositions
-législatives relatives à la santé publique ;
+adaptation à Mayotte de diverses dispositions législatives relatives à la santé
+publique ;
 
 4° Il assure l'élimination des déchets hospitaliers.

@@ -14,10 +14,10 @@ décret n° 98-844 du 22 septembre 1998 fixant les conditions et les modalités 
 règlement des frais occasionnés par les déplacements des personnels civils de
 l'Etat, à l'intérieur d'un territoire d'outre-mer, entre la métropole et un
 territoire d'outre-mer, entre deux territoires d'outre-mer et entre un
-territoire d'outre-mer et un département d'outre-mer, la collectivité
-territoriale de Mayotte ou celle de Saint-Pierre-et-Miquelon ou le décret n°
-90-437 du 28 mai 1990 fixant les conditions et les modalités de règlement des
-frais occasionnés par les déplacements des personnels civils sur le territoire
-métropolitain de la France lorsqu'ils sont à la charge des budgets de l'Etat,
-des établissements publics nationaux à caractère administratif et certains
-organismes subventionnés.
+territoire d'outre-mer et un département d'outre-mer, Mayotte ou la collectivité
+territoriale de Saint-Pierre-et-Miquelon ou le décret n° 90-437 du 28 mai 1990
+fixant les conditions et les modalités de règlement des frais occasionnés par
+les déplacements des personnels civils sur le territoire métropolitain de la
+France lorsqu'ils sont à la charge des budgets de l'Etat, des établissements
+publics nationaux à caractère administratif et certains organismes
+subventionnés.

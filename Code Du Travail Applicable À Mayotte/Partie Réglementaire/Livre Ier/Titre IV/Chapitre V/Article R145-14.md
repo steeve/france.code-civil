@@ -5,8 +5,8 @@ La répartition des sommes encaissées dans les conditions prévues aux articles
 convocation des parties intéressées.
 
 Cette répartition est effectuée dès que la somme à distribuer atteint, déduction
-faite des frais à prélever et des créances privilégiées, un dividende de 35 p.
-100 au moins.
+faite des frais à prélever et des créances privilégiées, un dividende de 35 % au
+moins.
 
 Toutefois, en cas de cause grave, notamment à la cessation des services du
 débiteur saisi, il est procédé à cette répartition quel que soit le montant des
@@ -28,9 +28,9 @@ disposition contraire à la loi et qu'elle ne comprenne aucun frais à la charge
 du débiteur. Le juge la fera porter sur les fiches individuelles prévues à
 l'article R. 145-20.
 
-Il n'est pas fait de répartition de sommes au-dessous de 10 F, à moins que les
-retenues opérées jusqu'à cette somme soient suffisantes pour désintéresser les
-créanciers.
+Il n'est pas fait de répartition de sommes au-dessous de 1,5 euros, à moins que
+les retenues opérées jusqu'à cette somme soient suffisantes pour désintéresser
+les créanciers.
 
 Toute partie intéressée peut réclamer, à ses frais, une copie ou un extrait de
 l'état de répartition.

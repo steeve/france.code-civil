@@ -1,7 +1,6 @@
 Article L1515-6
 ----
-Pour son application dans la collectivité territoriale de Mayotte, l'article L.
-1343-1 est ainsi rédigé :
+Pour son application à Mayotte, l'article L. 1343-1 est ainsi rédigé :
 
 " Ont qualité pour rechercher et constater les infractions aux dispositions de
 l'article L. 1343-4 en ce qu'elles concernent les substances et préparations

@@ -11,7 +11,7 @@ peut être à nouveau transféré en dehors de la commune qu'après l'expiration
 délai de dix ans.
 
 Les demandes d'autorisation de transfert sont soumises à une commission
-administrative présidée par le représentant du Gouvernement.
+administrative présidée par le représentant de l'Etat.
 
 Un arrêté des ministres chargés de l'outre-mer et de la santé fixe la
 composition et le fonctionnement de la commission territoriale des transferts

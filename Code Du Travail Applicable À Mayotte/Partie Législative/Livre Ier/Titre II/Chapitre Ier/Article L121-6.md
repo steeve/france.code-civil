@@ -1,8 +1,8 @@
 Article L121-6
 ----
 Tout contrat de travail passé avec un salarié qui ne réside pas à Mayotte au
-moment de la proposition d'emploi doit être écrit [*condition de forme*]. Il
-doit obligatoirement préciser [*mentions obligatoires*] :
+moment de la proposition d'emploi doit être écrit. Il doit obligatoirement
+préciser :
 
 1° La durée minimale du contrat en cas de contrat à durée indéterminée et les
 mentions visées à l'article L. 122-4 en cas de contrat à durée déterminée ;

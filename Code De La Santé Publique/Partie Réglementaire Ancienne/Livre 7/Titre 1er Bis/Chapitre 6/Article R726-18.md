@@ -2,13 +2,13 @@ Article R726-18
 ----
 La commission médicale d'établissement siège en formation plénière.
 
-"Toutefois, elle siège en formation restreinte dans les cas suivants :
+Toutefois, elle siège en formation restreinte dans les cas suivants :
 
-"1° Lorsqu'elle examine des questions individuelles relatives au recrutement et
-à la carrière des personnels médicaux.
+1° Lorsqu'elle examine des questions individuelles relatives au recrutement et à
+la carrière des personnels médicaux.
 
-"Cette formation est limitée aux praticiens titulaires mentionnés à l'article
-1er du décret du 24 février 1984 précité et à l'article 1er du décret du 29 mars
+Cette formation est limitée aux praticiens titulaires mentionnés à l'article 1er
+du décret du 24 février 1984 précité et à l'article 1er du décret du 29 mars
 1985 précité.
 
 Se joignent à eux, cumulativement et dans l'ordre fixé ci-dessous dès lors que

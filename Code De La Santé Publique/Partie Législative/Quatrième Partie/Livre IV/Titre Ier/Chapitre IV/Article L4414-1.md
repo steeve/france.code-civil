@@ -1,8 +1,8 @@
 Article L4414-1
 ----
-Sont applicables dans la collectivité territoriale de Mayotte, et sous réserve
-des adaptations prévues aux articles L. 4414-2 à L. 4414-4, les dispositions
-suivantes du livre III de la présente partie :
+Sont applicables à Mayotte, et sous réserve des adaptations prévues aux articles
+L. 4414-2 à L. 4414-4, les dispositions suivantes du livre III de la présente
+partie :
 
 1° Le titre II, à l'exception de la dernière phrase du deuxième alinéa de
 l'article L. 4321-3, et des articles L. 4321-5 à L. 4321-7, L. 4321-13 à L.

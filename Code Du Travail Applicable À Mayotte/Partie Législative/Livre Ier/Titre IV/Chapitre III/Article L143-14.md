@@ -16,4 +16,4 @@ l'expiration des périodes de garantie prévues à l'article L. 143-11, et ce
 jusqu'à concurrence du plafond mentionné aux articles L. 143-9 et L. 143-10 ;
 
 4° Pour les autres créances, dans les trois mois suivant l'expiration de la
-période de garantie [*délai*].
+période de garantie.

@@ -12,6 +12,6 @@ l'alinéa 1er du présent article, toutes les fois que ces mentions ne contienne
 ni obligations, ni quittance, ni aucune autre convention donnant lieu au droit
 proportionnel.
 
-La formule " libre de tout engagement " et toute autre constatant l'expiration
+La formule "libre de tout engagement" et toute autre constatant l'expiration
 régulière du contrat de travail, les qualités professionnelles et les services
 rendus sont comprises dans l'exemption.

@@ -1,13 +1,13 @@
 Article R355-56
 ----
 Le présent titre, à l'exception de son article R. 355-34, est applicable en
-Nouvelle-Calédonie, dans les territoires d'outre-mer et dans la collectivité
-territoriale de Mayotte, sous réserve des adaptations suivantes :
+Nouvelle-Calédonie, dans les territoires d'outre-mer et à Mayotte, sous réserve
+des adaptations suivantes :
 
 1° Aux articles R. 355-33 et R. 355-38, les mots : "dans le département" sont
 remplacés par les mots : "en Nouvelle-Calédonie" pour la Nouvelle-Calédonie, par
 les mots : "dans le territoire" pour les territoires d'outre-mer et par les mots
-: "dans la collectivité territoriale" pour Mayotte ;
+: "dans la collectivité départementale" pour Mayotte ;
 
 2° A l'article R. 355-33, les mots : "du conseil départemental de l'ordre des
 médecins" sont remplacés par les mots : "de l'organe de l'ordre" en

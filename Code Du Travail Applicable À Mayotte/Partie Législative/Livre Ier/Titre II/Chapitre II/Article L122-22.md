@@ -1,12 +1,12 @@
 Article L122-22
 ----
 Le salarié lié par contrat de travail à durée indéterminée et qui est licencié
-alors qu'il compte deux ans [*durée*] d'ancienneté ininterrompue au service du
-même employeur a droit, sauf en cas de faute grave, à une indemnité minimum de
+alors qu'il compte deux ans d'ancienneté ininterrompue au service du même
+employeur a droit, sauf en cas de faute grave, à une indemnité minimum de
 licenciement, dont le taux et les modalités de calcul en fonction de la
 rémunération brute dont il bénéficiait antérieurement à la rupture du contrat de
-travail sont fixés par arrêté du représentant du Gouvernement à Mayotte, après
-avis de la commission consultative du travail.
+travail sont fixés par arrêté du représentant de l'Etat à Mayotte, après avis de
+la commission consultative du travail.
 
 Tout salarié dont la mise à la retraite résulte d'une décision de l'employeur a
 droit, sous réserve des dispositions plus favorables contenues dans une

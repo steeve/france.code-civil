@@ -11,4 +11,4 @@ dès sa conclusion. Les dispositions des deux derniers alinéas de l'article L.
 122-1 et de l'article L. 122-13 ne lui sont pas applicables.
 
 Les modalités d'application du présent article sont fixées par arrêté du
-représentant du Gouvernement à Mayotte.
+représentant de l'Etat à Mayotte.

@@ -1,7 +1,7 @@
 Article L3819-8
 ----
 Toute infraction aux dispositions des trois articles L. 3813-39, L. 3813-40 et
-L. 3813-41 est punie de deux mois d'emprisonnement et de 25 000 F d'amende.
+L. 3813-41 est punie de deux mois d'emprisonnement et de 3750 euros d'amende.
 
 En outre, le tribunal prononce la fermeture définitive de l'établissement en cas
 d'infraction aux articles L. 3813-40 et L. 3813-41.

@@ -1,8 +1,7 @@
 Article L1515-1
 ----
-Sont applicables dans la collectivité territoriale de Mayotte, sous réserve des
-dispositions des articles L. 1515-2 à L. 1515-6, les dispositions suivantes du
-livre III de la présente partie :
+Sont applicables à Mayotte, sous réserve des dispositions des articles L. 1515-2
+à L. 1515-6, les dispositions suivantes du livre III de la présente partie :
 
 1° Le titre Ier ;
 

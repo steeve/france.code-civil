@@ -6,4 +6,4 @@ des machines, mécanismes, appareils de transmission, outils et engins mentionn�
 à l'article L. 230-3 avec les lois et règlements relatifs au régime du travail,
 et notamment avec les règlements prévus au premier alinéa de l'article L. 230-4.
 Ces vérifications sont faites par des organismes agréés par le ministre chargé
-du travail ou par le représentant du Gouvernement à Mayotte.
+du travail ou par le représentant de l'Etat à Mayotte.

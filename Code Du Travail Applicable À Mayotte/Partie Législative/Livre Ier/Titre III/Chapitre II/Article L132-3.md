@@ -1,8 +1,7 @@
 Article L132-3
 ----
-Les représentants des organisations mentionnées à l'article précédent
-[*organisations syndicales, associations d'employeurs*] peuvent contracter, au
-nom de l'organisation qu'ils représentent, en vertu :
+Les représentants des organisations mentionnées à l'article précédent peuvent
+contracter, au nom de l'organisation qu'ils représentent, en vertu :
 
 1° Soit d'une stipulation statutaire de cette organisation ;
 

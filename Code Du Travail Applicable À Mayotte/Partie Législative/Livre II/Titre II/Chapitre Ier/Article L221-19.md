@@ -1,10 +1,9 @@
 Article L221-19
 ----
-La fermeture [*des établissements*] prévue à l'article précédent ne s'applique
-pas aux stands des exposants dans l'enceinte des expositions, foires ou salons
-figurant sur une liste déterminée, après consultation des organisations
-d'employeurs et de travailleurs intéressées, par arrêté du représentant du
-Gouvernement à Mayotte.
+La fermeture prévue à l'article précédent ne s'applique pas aux stands des
+exposants dans l'enceinte des expositions, foires ou salons figurant sur une
+liste déterminée, après consultation des organisations d'employeurs et de
+travailleurs intéressées, par arrêté du représentant de l'Etat à Mayotte.
 
 Ne peuvent figurer sur la liste prévue à l'alinéa précédent que les
 manifestations dont la durée n'excède pas trois semaines.

@@ -1,7 +1,7 @@
 Article D212-1
 ----
 Les heures perdues dans les cas prévus à l'article L. 212-3 ne peuvent être
-récupérées que dans les douze mois précédant ou suivant leur perte [*délai*].
+récupérées que dans les douze mois précédant ou suivant leur perte.
 
 L'inspecteur du travail est préalablement informé par le chef d'établissement
 des interruptions collectives de travail et des modalités de la récupération.

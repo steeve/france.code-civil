@@ -1,8 +1,8 @@
 Article L2411-1
 ----
-Les titres suivants du livre Ier de la présente partie sont applicables dans la
-collectivité territoriale de Mayotte, sous réserve des adaptations prévues aux
-articles L. 2411-2 à L. 2411-9 :
+Les titres suivants du livre Ier de la présente partie sont applicables à
+Mayotte, sous réserve des adaptations prévues aux articles L. 2411-2 à L. 2411-9
+:
 
 1° Le titre Ier, à l'exception du dernier alinéa de l'article L. 2112-2 et de
 l'article L. 2112-3 ;

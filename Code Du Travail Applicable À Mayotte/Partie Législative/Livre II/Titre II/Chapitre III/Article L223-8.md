@@ -1,10 +1,9 @@
 Article L223-8
 ----
-Par accord entre le salarié visé à l'article L. 121-6 [*salarié qui ne réside
-pas à Mayotte*] et son employeur, il peut être dérogé [*dérogation*]
-exceptionnellement aux dispositions relatives à la périodicité, aux dates de
-départ et au fractionnement des congés payés fixées par les articles L. 223-1,
-L. 223-6 et L. 223-7.
+Par accord entre le salarié visé à l'article L. 121-6 et son employeur, il peut
+être dérogé exceptionnellement aux dispositions relatives à la périodicité, aux
+dates de départ et au fractionnement des congés payés fixées par les articles L.
+223-1, L. 223-6 et L. 223-7.
 
 Le salarié intéressé peut alors être autorisé à différer, en tout ou partie, le
 congé acquis dans les conditions des articles L. 223-2 à L. 223-5 sur une

@@ -1,7 +1,7 @@
 Article R941-1
 ----
-Pour l'application des dispositions étendues par le présent titre dans la
-collectivité territoriale de Mayotte, il y a lieu de lire :
+Pour l'application des dispositions étendues par le présent titre à Mayotte, il
+y a lieu de lire :
 
 1° "Tribunal supérieur d'appel" à la place de "cour d'appel" ;
 

@@ -1,13 +1,12 @@
 Article L140-1
 ----
-Tout employeur est tenu [*obligation*] d'assurer, pour un même travail ou pour
-un travail de valeur égale, l'égalité de rémunération entre les hommes et les
-femmes.
+Tout employeur est tenu d'assurer, pour un même travail ou pour un travail de
+valeur égale, l'égalité de rémunération entre les hommes et les femmes.
 
-Par rémunération [*définition*], au sens du présent chapitre, il faut entendre
-le salaire ou traitement ordinaire de base ou minimum et tous les autres
-avantages et accessoires payés, directement ou indirectement, en espèces ou en
-nature, par l'employeur au travailleur en raison de l'emploi de ce dernier.
+Par rémunération, au sens du présent chapitre, il faut entendre le salaire ou
+traitement ordinaire de base ou minimum et tous les autres avantages et
+accessoires payés, directement ou indirectement, en espèces ou en nature, par
+l'employeur au travailleur en raison de l'emploi de ce dernier.
 
 Sont considérés comme ayant une valeur égale les travaux qui exigent des
 salariés un ensemble comparable de connaissances professionnelles consacrées par

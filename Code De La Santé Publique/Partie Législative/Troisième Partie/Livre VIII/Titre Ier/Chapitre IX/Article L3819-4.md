@@ -2,7 +2,7 @@ Article L3819-4
 ----
 La consommation de boissons alcooliques à bord des véhicules routiers de
 transports en commun de personnes selon les dispositions de l'article L. 3813-19
-est punie de 25 000 F d'amende.
+est punie de 3750 euros d'amende.
 
 En outre, le jugement prononce la fermeture définitive du débit ou des débits
 ouverts ou maintenus indûment.

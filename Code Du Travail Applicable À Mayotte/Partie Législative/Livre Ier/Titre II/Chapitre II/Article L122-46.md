@@ -21,5 +21,5 @@ retrouver son emploi initial.
 Le changement d'affectation ne doit entraîner aucune diminution de rémunération.
 Toutefois, lorsqu'un tel changement intervient à l'initiative de la salariée, le
 maintien de la rémunération est subordonné à une présence d'un an dans
-l'entreprise [*condition d'ancienneté*] à la date retenue par le médecin comme
-étant celle du début de la grossesse.
+l'entreprise à la date retenue par le médecin comme étant celle du début de la
+grossesse.

@@ -1,9 +1,10 @@
 Article 712-1
 ----
-L'article 131-23 est rédigé comme suit :
+Le dernier alinéa de l'article 131-35 est ainsi rédigé :
 
-" Art. 131-23. - Le travail d'intérêt général est soumis aux prescriptions
-législatives et réglementaires applicables localement relatives au travail de
-nuit, à l'hygiène, à la sécurité ainsi qu'au travail des femmes et des jeunes
-travailleurs. Le travail d'intérêt général peut se cumuler avec l'exercice de
-l'activité professionnelle. "
+" La diffusion de la décision est faite par le Journal officiel de la République
+française, par le Journal officiel du territoire, par une ou plusieurs autres
+publications de presse, ou par un ou plusieurs services de communication
+audiovisuelle. Les publications ou les services de communication audiovisuelle
+chargés de cette diffusion sont désignés par la juridiction. Ils ne peuvent
+s'opposer à cette diffusion. "

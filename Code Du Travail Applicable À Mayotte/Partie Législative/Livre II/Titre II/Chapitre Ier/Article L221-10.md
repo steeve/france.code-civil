@@ -32,5 +32,5 @@ aériens ;
 13° Entreprises d'émission et de réception de télégraphie sans fil.
 
 Les autres catégories d'établissements qui peuvent bénéficier du droit de donner
-le repos hebdomadaire par roulement sont désignées par arrêté du représentant du
-Gouvernement à Mayotte.
+le repos hebdomadaire par roulement sont désignées par arrêté du représentant de
+l'Etat à Mayotte.

@@ -1,7 +1,6 @@
 Article 878
 ----
-Pour l'application du présent code dans la collectivité territoriale de Mayotte
-:
+Pour l'application du présent code à Mayotte :
 
 Les termes : "cour d'appel" ou : "chambre des appels correctionnels" ou :
 "chambre de l'instruction" sont remplacés par les termes : "tribunal supérieur

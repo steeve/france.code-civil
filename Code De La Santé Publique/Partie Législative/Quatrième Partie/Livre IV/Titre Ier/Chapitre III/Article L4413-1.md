@@ -1,8 +1,8 @@
 Article L4413-1
 ----
-Sont applicables dans la collectivité territoriale de Mayotte, sous réserve des
-dispositions des articles L. 4413-2 à L. 4413-9, les dispositions suivantes du
-titre Ier du livre III de la présente partie :
+Sont applicables à Mayotte, sous réserve des dispositions des articles L. 4413-2
+à L. 4413-9, les dispositions suivantes du titre Ier du livre III de la présente
+partie :
 
 1° Le chapitre Ier, à l'exception du second alinéa de l'article L. 4311-8, des
 articles L. 4311-10 et L. 4311-11, L. 4311-14, des trois derniers alinéas de

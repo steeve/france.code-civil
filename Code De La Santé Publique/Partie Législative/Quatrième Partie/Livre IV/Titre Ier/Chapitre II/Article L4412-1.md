@@ -1,8 +1,7 @@
 Article L4412-1
 ----
-Sont applicables dans la collectivité territoriale de Mayotte, sous réserve des
-dispositions des articles L. 4412-2 à L. 4412-6, les dispositions suivantes du
-livre II de la présente partie :
+Sont applicables à Mayotte, sous réserve des dispositions des articles L. 4412-2
+à L. 4412-6, les dispositions suivantes du livre II de la présente partie :
 
 1° Le titre Ier, à l'exception des articles L. 4211-2, L. 4211-3, L. 4211-8, L.
 4212-1, L. 4212-6 et L. 4212-7 ;

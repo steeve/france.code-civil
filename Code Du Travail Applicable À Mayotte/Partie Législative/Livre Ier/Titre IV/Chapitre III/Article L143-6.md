@@ -7,4 +7,4 @@ créanciers à raison de fournitures de matériaux et d'autres objets servant à
 construction des ouvrages.
 
 Les sommes dues aux ouvriers à titre de salaire sont payées de préférence à
-celles dues aux fournisseurs [*créanciers privilègiés*].
+celles dues aux fournisseurs.

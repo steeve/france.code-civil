@@ -1,7 +1,6 @@
 Article L5514-3
 ----
-Pour son application dans la collectivité territoriale de Mayotte, l'article L.
-5414-1 est ainsi rédigé :
+Pour son application à Mayotte, l'article L. 5414-1 est ainsi rédigé :
 
 " Art. L. 5414-1. - Les agents de la direction générale de la concurrence, de la
 consommation et de la répression des fraudes, de la direction générale des

@@ -1,8 +1,8 @@
 Article D223-2
 ----
 La période ordinaire des vacances doit dans tous les cas être portée par
-l'employeur à la connaissance du personnel au moins deux mois [*délai*] avant
-l'ouverture de cette période.
+l'employeur à la connaissance du personnel au moins deux mois avant l'ouverture
+de cette période.
 
 L'ordre des départs est communiqué à chaque ayant droit quinze jours avant son
 départ et affiché dans les ateliers, bureaux et magasins. Il est fixé par

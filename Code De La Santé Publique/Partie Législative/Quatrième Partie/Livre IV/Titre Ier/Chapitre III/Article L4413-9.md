@@ -1,7 +1,6 @@
 Article L4413-9
 ----
-L'article L. 4313-7 applicable dans la collectivité territoriale de Mayotte est
-ainsi rédigé :
+L'article L. 4313-7 applicable à Mayotte est ainsi rédigé :
 
 " Art. L. 4313-7. - La commission territoriale de discipline et la commission
 nationale de discipline peuvent prononcer les sanctions suivantes :

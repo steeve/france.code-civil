@@ -39,5 +39,5 @@ puissent porter atteinte au libre choix du syndicat par ceux-ci ;
 délai-congé et à l'indemnité de licenciement.
 
 Les groupements constitués dans le cadre du présent article ne peuvent exercer
-leur activité qu'après avoir été agréés par arrêté du représentant du
-Gouvernement à Mayotte.
+leur activité qu'après avoir été agréés par arrêté du représentant de l'Etat à
+Mayotte.

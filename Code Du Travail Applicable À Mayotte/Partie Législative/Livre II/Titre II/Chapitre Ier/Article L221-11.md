@@ -12,5 +12,5 @@ perte ou la dépréciation du produit en cours de fabrication ;
 prévoit la possibilité d'organiser le travail de façon continue pour des raisons
 économiques.
 
-Un arrêté du représentant du Gouvernement à Mayotte fixe la nomenclature des
+Un arrêté du représentant de l'Etat à Mayotte fixe la nomenclature des
 industries comprises dans les deux premières catégories ci-dessus définies.

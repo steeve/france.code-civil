@@ -1,6 +1,6 @@
 Article L324-1
 ----
-La collectivité territoriale peut conclure avec des employeurs établis sur son
+La collectivité départementale peut conclure avec des employeurs établis sur son
 territoire, à l'exclusion des personnes morales de droit public, des conventions
 ayant pour objet de favoriser l'insertion en entreprise des jeunes rencontrant
 des difficultés d'accès à l'emploi dans le cadre d'un contrat de travail dénommé

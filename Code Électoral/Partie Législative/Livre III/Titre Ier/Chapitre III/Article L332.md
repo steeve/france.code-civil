@@ -10,9 +10,9 @@ lui, confiant au responsable de liste le soin de faire ou de faire faire, par
 une personne déléguée par lui, toutes déclarations et démarches utiles à
 l'enregistrement de la liste, pour le premier et le second tour. Le dépôt de la
 liste par son responsable doit être assorti de l'ensemble des mandats des
-candidats qui y figurent. La liste déposée indique expressément.
+candidats qui y figurent. La liste déposée indique expressément :
 
-1° Le titre de la liste présentée;
+1° Le titre de la liste présentée ;
 
 2° Les nom, prénoms, sexe, date et lieu de naissance, domicile et profession de
 chacun des candidats.

@@ -1,6 +1,6 @@
 Article L221-22
 ----
-Un arrêté du représentant du Gouvernement à Mayotte détermine les industries ne
+Un arrêté du représentant de l'Etat à Mayotte détermine les industries ne
 fonctionnant que pendant une partie de l'année dans lesquelles le repos
 hebdomadaire peut être en partie différé dans les conditions prévues par
 l'article L. 221-12 pour les usines à feu continu ou à marche continue, sous

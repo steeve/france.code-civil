@@ -1,8 +1,7 @@
 Article R330-5
 ----
-Pour accorder ou refuser l'autorisation de travail sollicitée le représentant du
-Gouvernement [*autorité compétente*] prend notamment en considération les
-éléments suivants d'appréciation :
+Pour accorder ou refuser l'autorisation de travail sollicitée le représentant de
+l'Etat prend notamment en considération les éléments suivants d'appréciation :
 
 1° La situation de l'emploi présente et à venir dans la profession demandée par
 le travailleur étranger ;

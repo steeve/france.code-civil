@@ -1,7 +1,6 @@
 Article L4413-6
 ----
-L'article L. 4313-1, applicable dans la collectivité territoriale de Mayotte,
-est ainsi rédigé :
+L'article L. 4313-1, applicable à Mayotte, est ainsi rédigé :
 
 " Art. L. 4313-1. - Les infirmiers et infirmières qui ont manqué à leurs
 obligations professionnelles sont poursuivis devant la commission territoriale
@@ -16,7 +15,7 @@ infirmières.
 La commission territoriale est présidée par le président du tribunal
 administratif de Mamoudzou et comprend deux assesseurs infirmiers ou infirmières
 dont au moins un titulaire du diplôme français d'Etat, désignés par le
-représentant du Gouvernement. Seuls peuvent être désignés comme assesseurs les
+représentant de l'Etat. Seuls peuvent être désignés comme assesseurs les
 infirmiers et infirmières de nationalité française qui exercent la profession
 régulièrement depuis trois ans au moins et qui n'ont pas fait l'objet d'une
 sanction disciplinaire ou d'une mesure d'interdiction prononcée par une

@@ -18,5 +18,5 @@ participent à la mise en oeuvre d'un programme de formation alternée. Il
 détermine notamment le rôle des tuteurs chargés d'accueillir et de guider les
 salariés pendant leur temps de présence en entreprise.
 
-Un arrêté du représentant du Gouvernement à Mayotte détermine les garanties
-d'ordre technique et professionnel auxquelles est subordonnée l'habilitation.
+Un arrêté du représentant de l'Etat à Mayotte détermine les garanties d'ordre
+technique et professionnel auxquelles est subordonnée l'habilitation.

@@ -37,5 +37,6 @@ collectivités territoriales" ;
 
 10° "code du travail applicable à Mayotte", au lieu de : "code du travail" ;
 
-11° "décisions des autorités compétentes", au lieu de : "arrêté du ministre de
-la santé".
+11° "décisions des autorités compétentes", au lieu de :
+
+"arrêté du ministre de la santé".

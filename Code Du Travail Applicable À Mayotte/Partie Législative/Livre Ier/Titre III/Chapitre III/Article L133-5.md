@@ -3,10 +3,9 @@ Article L133-5
 En cas d'absence ou de carence des organisations de salariés ou d'employeurs se
 traduisant par une impossibilité persistante de conclure une convention ou un
 accord dans une branche d'activité ou un secteur territorial déterminé, le
-représentant du Gouvernement à Mayotte peut, à la demande d'une des
-organisations représentatives intéressées ou de sa propre initiative, sauf
-opposition écrite et motivée de la majorité des membres de la commission
-consultative du travail :
+représentant de l'Etat à Mayotte peut, à la demande d'une des organisations
+représentatives intéressées ou de sa propre initiative, sauf opposition écrite
+et motivée de la majorité des membres de la commission consultative du travail :
 
 1° Rendre obligatoire dans le secteur professionnel considéré une convention ou
 un accord de branche déjà étendu à un secteur professionnel différent. Le

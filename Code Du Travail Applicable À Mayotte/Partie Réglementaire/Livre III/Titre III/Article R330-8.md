@@ -1,12 +1,11 @@
 Article R330-8
 ----
 A peine de nullité, les agents chargés du contrôle doivent transmettre le
-procès-verbal au représentant du Gouvernement dans les trois jours de sa
-signature.
+procès-verbal au représentant de l'Etat dans les trois jours de sa signature.
 
 L'employeur et le salarié doivent être entendus par un fonctionnaire désigné par
-le représentant du Gouvernement, dans un délai compris entre quatre et neuf
-jours suivant la remise aux intéressés de la copie du procès-verbal.
+le représentant de l'Etat, dans un délai compris entre quatre et neuf jours
+suivant la remise aux intéressés de la copie du procès-verbal.
 
 Sauf à se faire représenter en cas d'empêchement pour un motif légitime,
 l'employeur ou le représentant légal de l'entreprise et le salarié sont tenus de

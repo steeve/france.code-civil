@@ -10,11 +10,11 @@ ou conventionnelles, il doit recommander aux parties de soumettre le conflit à
 la juridiction de droit commun compétente pour en connaître.
 
 A dater de la réception de la proposition de règlement du conflit soumise par le
-médiateur aux parties [*point de départ*], celles-ci ont la faculté, pendant un
-délai de huit jours, de notifier au médiateur, par lettre recommandée avec
-accusé de réception, qu'elles rejettent sa proposition. Ces rejets doivent être
-motivés. Le médiateur informe aussitôt, par lettre recommandée, la ou les autres
-organisations parties au conflit de ces rejets et de leurs motivations.
+médiateur aux parties, celles-ci ont la faculté, pendant un délai de huit jours,
+de notifier au médiateur, par lettre recommandée avec accusé de réception,
+qu'elles rejettent sa proposition. Ces rejets doivent être motivés. Le médiateur
+informe aussitôt, par lettre recommandée, la ou les autres organisations parties
+au conflit de ces rejets et de leurs motivations.
 
 Au terme du délai de huit jours prévu ci-dessus, le médiateur constate l'accord
 ou le désaccord des parties. L'accord sur la recommandation du médiateur lie les

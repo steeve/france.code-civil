@@ -51,4 +51,6 @@ Toutefois, le nombre de représentants des personnels mentionnés aux 3° à 7°
 ci-dessus ne peut être supérieur à la moitié du nombre des représentants des
 personnels siégeant au titre du 1°. Au cas où ce nombre excéderait la moitié
 desdits représentants, il sera réduit dans l'ordre inverse d'énumération des
-collèges visés aux 3° à 6°.
+collèges visés aux 3°
+
+à 6°.

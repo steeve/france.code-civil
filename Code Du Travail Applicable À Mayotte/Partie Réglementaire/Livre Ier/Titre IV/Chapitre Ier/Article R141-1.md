@@ -1,8 +1,8 @@
 Article R141-1
 ----
-Le salaire minimum interprofessionnel garanti [*SMIG*] applicable aux jeunes
-travailleurs de l'un ou de l'autre sexe, âgés de moins de dix-huit ans et de
-capacité physique normale, comporte un abattement désormais fixé :
+Le salaire minimum interprofessionnel garanti applicable aux jeunes travailleurs
+de l'un ou de l'autre sexe, âgés de moins de dix-huit ans et de capacité
+physique normale, comporte un abattement désormais fixé :
 
 - à 20 p. 100 avant dix-sept ans ;
 

@@ -8,12 +8,11 @@ pas interdites sont autorisées exclusivement :
 ;
 
 2° Par voie de radiodiffusion sonore pour les catégories de radios et dans les
-tranches horaires déterminées par arrêté du représentant du Gouvernement :
+tranches horaires déterminées par arrêté du représentant de l'Etat :
 
 3° Sous forme d'affiches et d'enseignes dans les zones de production, sous forme
 d'affichettes et d'objets à l'intérieur des lieux de vente à caractère
-spécialisé, dans des conditions définies par arrêté du représentant du
-Gouvernement ;
+spécialisé, dans des conditions définies par arrêté du représentant de l'Etat ;
 
 4° Sous forme d'envoi par les producteurs, les fabricants, les importateurs, les
 négociants, les concessionnaires ou les entrepositaires, de messages, de
@@ -28,7 +27,7 @@ ou dépositaires, à l'exclusion de toute autre indication :
 
 6° A l'occasion des fêtes et foires traditionnelles consacrées à des boissons
 alcooliques locales et à l'intérieur de celles-ci, dans des conditions définies
-par arrêté du représentant du Gouvernement.
+par arrêté du représentant de l'Etat.
 
 Toute opération de parrainage est interdite lorsqu'elle a pour objet ou pour
 effet la propagande ou la publicité, directe ou indirecte, en faveur des

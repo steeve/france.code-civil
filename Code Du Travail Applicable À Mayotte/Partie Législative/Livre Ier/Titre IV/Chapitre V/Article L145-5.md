@@ -1,8 +1,7 @@
 Article L145-5
 ----
 Tous les actes d'une nature quelconque, décisions et formalités, auxquels donne
-lieu l'exécution du présent chapitre sont enregistrés gratis [*exonération
-fiscale*].
+lieu l'exécution du présent chapitre sont enregistrés gratis.
 
 Ces actes ou décisions ainsi que leurs copies sont établis sur papier libre.
 

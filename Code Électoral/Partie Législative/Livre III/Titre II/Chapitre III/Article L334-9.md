@@ -25,6 +25,9 @@ adjoint et chef de bureau dans les services du représentant du Gouvernement.
 
 8° Vice-recteur.
 
+9° Membres du conseil économique et social de Mayotte ou du conseil pour la
+culture, l'éducation et l'environnement de Mayotte.
+
 Les conseillers généraux de Mayotte ne peuvent, pendant la durée de leur mandat,
 être nommés dans un emploi salarié de la collectivité territoriale de Mayotte ou
 subventionné sur ses fonds, s'ils ne possédaient pas la qualité d'agent de

@@ -16,5 +16,5 @@ Les représentants du personnel donnent leur avis sur ces dérogations. Cet avis
 est transmis à l'inspecteur du travail.
 
 Les mesures nécessaires à l'application des dispositions du deuxième alinéa du
-présent article sont déterminées par arrêté du représentant du Gouvernement à
-Mayotte, après avis de la commission consultative du travail.
+présent article sont déterminées par arrêté du représentant de l'Etat à Mayotte,
+après avis de la commission consultative du travail.

@@ -3,7 +3,7 @@ Article R126-1
 Pour l'application du troisième alinéa de l'article L. 126-1, le groupement
 d'employeurs adresse à l'inspecteur du travail, dans le mois suivant sa
 constitution, une déclaration qui comporte les mentions et à laquelle sont
-joints les documents [*obligatoires*] suivants :
+joints les documents suivants :
 
 1° Le nom, le siège social et la forme juridique du groupement ;
 

@@ -1,10 +1,9 @@
 Article L223-7
 ----
-Le congé payé ne dépassant pas douze jours ouvrables doit [*obligation*] être
-continu. La durée des congés pouvant être pris en une seule fois ne peut excéder
-vingt-quatre jours. Il peut être dérogé individuellement à cette disposition
-pour ceux des salariés qui justifient de contraintes géographiques
-particulières.
+Le congé payé ne dépassant pas douze jours ouvrables doit être continu. La durée
+des congés pouvant être pris en une seule fois ne peut excéder vingt-quatre
+jours. Il peut être dérogé individuellement à cette disposition pour ceux des
+salariés qui justifient de contraintes géographiques particulières.
 
 Le congé principal d'une durée supérieure à douze jours ouvrables et au plus
 égale à vingt-quatre jours ouvrables peut être fractionné par l'employeur avec

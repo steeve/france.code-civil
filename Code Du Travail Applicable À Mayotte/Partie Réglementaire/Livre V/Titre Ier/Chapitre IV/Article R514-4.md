@@ -16,4 +16,4 @@ l'article R. 513-5.
 Lorsqu'une partie régulièrement convoquée ne comparaît pas ou ne se fait pas
 représenter devant le médiateur sans motif légitime, le médiateur établit
 conformément aux dispositions de l'article L. 520-1, un rapport qu'il envoie au
-représentant du Gouvernement aux fins de transmission au parquet.
+représentant de l'Etat aux fins de transmission au parquet.

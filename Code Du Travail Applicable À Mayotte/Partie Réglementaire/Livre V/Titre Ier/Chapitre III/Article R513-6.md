@@ -2,8 +2,8 @@ Article R513-6
 ----
 La convocation des parties au conflit doit être faite, à la diligence du
 président de la commission, soit par lettre recommandée avec demande d'avis de
-réception, soit par avertissement délivré contre récépissé signé par l'intéressé
-[*condition de forme*].
+réception, soit par avertissement délivré contre récépissé signé par
+l'intéressé.
 
 Lorsque l'une d'elles, régulièrement convoquée, ne comparaît pas ou ne se fait
 pas représenter devant la commission dans les cas et conditions prévus aux deux

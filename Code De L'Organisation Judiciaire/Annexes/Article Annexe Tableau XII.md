@@ -1,848 +1,831 @@
 Article Annexe Tableau XII
 ----
-Tableau XII : Siège et ressort des tribunaux de grande instance et des tribunaux
-de première instance compétents pour connaître des contestations sur la
-nationalité française ou étrangère des personnes physiques.
+Siège et ressort des tribunaux de grande instance et des tribunaux de première
+instance compétents pour connaître des contestations sur la nationalité
+française ou étrangère des personnes physiques
 
 
-Département
+DÉPARTEMENT
 
-Tribunal de grande instance compétent dans le département
+TRIBUNAL DE GRANDE instance compétent dans le département
 
-
-Ressort dans lequel la juridiction exerce ses attributions
-
-Gers
+RESSORT dans lequel la juridiction exerce ses attributions
 
 Cour d'appel d'Agen
 
-Tribunal de grande instance d'Auch.
 
-Ressort du tribunal de grande instance d'Auch.
+Gers
+
+Auch
+
+Auch.
 
 
 Lot
 
-Tribunal de grande instance de Cahors
+Cahors
 
-Ressort du tribunal de grande instance de Cahors.
+Cahors.
 
 
 Lot-et-Garonne
 
-Tribunal de grande instance d'Agen.
+Agen
 
-Ressort des tribunaux de grande instance d'Agen et de Marmande
+Agen et Marmande.
 
 Cour d'appel d'Aix-en-Provence
 
 
 Alpes-de-Haute-Provence
 
-Tribunal de grande instance de Digne.
+Digne
 
-Ressort du tribunal de grande instance de Digne.
+Digne.
 
 
 Alpes-Maritimes
 
-Tribunal de grande instance de Nice.
+Nice
 
-Ressort des tribunaux de grande instance de Grasse et Nice.
+Grasse et Nice.
 
 
-Bouches-du Rhône
+Bouches-du-Rhône
 
-Tribunal de grande instance de Marseille.
+Marseille
 
-Ressort des tribunaux de grande instance d'Aix-en-Provence, Marseille et
-Tarascon.
+Aix-en-Provence, Marseille et Tarascon.
 
 
 Var
 
-Tribunal de grande instance de Toulon.
+Toulon
 
-Ressort des tribunaux de grande instance de Draguignan et de Toulon. Cour
-d'appel d'Amiens
+Draguignan et Toulon.
+
+Cour d'appel d'Amiens
 
 
 Aisne
 
-Tribunal de grande instance de Laon.
+Laon
 
-Ressort des tribunaux de grande instance de Laon, Saint-Quentin et Soissons.
+Laon, Saint-Quentin et Soissons.
 
 
 Oise
 
-Tribunal de grande instance de Beauvais.
+Beauvais
 
-Ressort des tribunaux de grande instance de Beauvais, Compiègne et Senlis.
+Beauvais, Compiègne et Senlis.
 
 
 Somme
 
-Tribunal de grande instance d'Amiens.
+Amiens
 
-Ressort des tribunaux de grande instance d'Abbeville, Amiens et Péronne
+Abbeville, Amiens et Péronne.
 
 Cour d'appel d'Angers
 
 
 Maine-et-Loire
 
-Tribunal de grande instance d'Angers.
+Angers
 
-Ressort des tribunaux de grande instance d'Angers et de Saumur.
+Angers et Saumur.
 
 
 Mayenne
 
-Tribunal de grande instance de Laval.
+Laval
 
-Ressort du tribunal de grande instance de Laval.
+Laval.
 
 
 Sarthe
 
-Tribunal de grande instance du Mans.
+Le Mans
 
-
-Ressort du tribunal de grande instance du Mans
+Le Mans.
 
 Cour d'appel de Bastia
 
 
 Corse-du-Sud
 
-Tribunal de grande instance d'Ajaccio.
+Ajaccio
 
-Ressort du tribunal de grande instance d'Ajaccio.
+Ajaccio.
 
 
 Haute-Corse
 
-Tribunal de grande instance de Bastia.
+Bastia
 
-
-Ressort du tribunal de grande instance de Bastia
+Bastia.
 
 Cour d'appel de Besançon
 
 
 Territoire de Belfort
 
-Tribunal de grande instance de Belfort.
+Belfort
 
-Ressort du tribunal de grande instance de Belfort.
+Belfort.
 
 
 Doubs
 
-Tribunal de grande instance de Besançon.
+Besançon
 
-Ressort du tribunal de grande instance de Besançon.
+Besançon.
 
-Tribunal de grande instance de Montbéliard.
 
-Ressort du tribunal de grande instance de Montbéliard.
+Montbéliard
+
+Montbéliard.
 
 
 Jura
 
-Tribunal de grande instance de Lons-le-Saunier.
+Lons-le-Saunier
 
-Ressort des tribunaux de grande instance de Dole et de Lons-le-Saunier.
+Dôle et Lons-le-Saunier.
 
 
 Haute-Saône
 
-Tribunal de grande instance de Vesoul.
+Vesoul
 
-
-Ressort des tribunaux de grande instance de Lure et de Vesoul
+Lure et Vesoul.
 
 Cour d'appel de Bordeaux
 
 
 Charente
 
-Tribunal de grande instance d'Angoulême.
+Angoulême
 
-Ressort du tribunal de grande instance d'Angoulême.
+Angoulême.
 
 
 Dordogne
 
-Tribunal de grande instance de Périgueux.
+Périgueux
 
-Ressort des tribunaux de grande instance de Bergerac et de Périgueux.
+Bergerac et Périgueux.
 
 
 Gironde
 
-Tribunal de grande instance de Bordeaux.
+Bordeaux
 
-Ressort des tribunaux de grande instance de Bordeaux et de Libourne.
+Bordeaux et Libourne.
 
 Cour d'appel de Bourges
 
 
 Cher
 
-Tribunal de grande instance de Bourges.
+Bourges
 
-Ressort du tribunal de grande instance de Bourges.
+Bourges.
 
 
 Indre
 
-Tribunal de grande instance de Châteauroux.
+Châteauroux
 
-Ressort du tribunal de grande instance de Châteauroux.
+Châteauroux.
 
 
 Nièvre
 
-Tribunal de grande instance de Nevers.
+Nevers
 
-
-Ressort du tribunal de grande instance de Nevers
+Nevers.
 
 Cour d'appel de Caen
 
 
 Calvados
 
-Tribunal de grande instance de Caen.
+Caen
 
-Ressort des tribunaux de grande instance de Caen et Lisieux.
+Caen et Lisieux.
 
 
 Manche
 
-Tribunal de grande instance de Coutances.
+Coutances
 
-Ressort des tribunaux de grande instance d'Avranches, Cherbourg et Coutances.
+Avranches, Cherbourg et Coutances.
 
 
 Orne
 
-Tribunal de grande instance de Alençon.
+Alençon
 
-Ressort des tribunaux de grande instance d'Alençon et Argentan
+Alençon et Argentan.
 
 Cour d'appel de Chambéry
 
 
 Savoie
 
-Tribunal de grande instance de Chambéry
+Chambéry
 
-Ressort des tribunaux de grande instance d'Albertville et Chambéry.
+Albertville et Chambéry.
 
 
 Haute-Savoie
 
-Tribunal de grande instance d'Annecy.
+Annecy
 
-Ressort des tribunaux de grande instance d'Annecy, Bonneville et
-Thonon-les-Bains
+Annecy, Bonneville et Thonon-les-Bains.
 
 Cour d'appel de Colmar
 
 
 Bas-Rhin
 
-Tribunal de grande instance de Strasbourg.
+Strasbourg
 
-Ressort des tribunaux de grande instance de Saverne et Strasbourg.
+Saverne et Strasbourg.
 
 
 Haut-Rhin
 
-Tribunal de grande instance de Mulhouse.
+Mulhouse
 
-
-Ressort des tribunaux de grande instance de Colmar et Mulhouse
+Colmar et Mulhouse.
 
 Cour d'appel de Dijon
 
 Côte-d'Or
 
-Tribunal de grande instance de Dijon.
 
-Ressort du tribunal de grande instance de Dijon.
+Dijon
+
+Dijon.
 
 
 Haute-Marne
 
-Tribunal de grande instance de Chaumont.
+Chaumont
 
-Ressort du tribunal de grande instance de Chaumont.
+Chaumont.
 
 
 Saône-et-Loire
 
-Tribunal de grande instance de Chalon-sur-Saône.
+Chalon-sur-Saône
 
-
-Ressort des du tribunal de grande instance de Chalon-sur-Saône et Mâcon
+Chalon-sur-Saône et Mâcon.
 
 Cour d'appel de Douai
 
 
 Nord
 
-Tribunal de grande instance de Lille.
+Lille
 
-Ressort des tribunaux de grande instance d'Avesnes-sur-Helpe, Cambrai, Douai,
-Dunkerque, Hazebrouck, Lille et Valenciennes.
+Avesnes-sur-Helpe, Cambrai, Douai, Dunkerque, Hazebrouck, Lille et Valenciennes.
 
 
 Pas-de-Calais
 
-Tribunal de grande instance de Béthune.
+Béthune
 
-Ressort des tribunaux de grande instance d'Arras, Béthune, Boulogne-sur-Mer et
-Saint-Omer
+Arras, Béthune, Boulogne-sur-Mer et Saint-Omer.
 
 Cour d'appel de Grenoble
 
 
 Hautes-Alpes
 
-Tribunal de grande instance de Gap.
+Gap
 
-Ressort du tribunal de grande instance de Gap.
+Gap.
 
 
 Drôme
 
-Tribunal de grande instance de Valence.
+Valence
 
-Ressort du tribunal de grande instance de Valence.
+Valence.
 
 
 Isère
 
-Tribunal de grande instance de Grenoble.
+Grenoble
 
-Ressort des tribunaux de grande instance de Bourgoin-Jallieu, Grenoble et Vienne
+Bourgoin-Jallieu, Grenoble et Vienne.
 
 Cour d'appel de Limoges
 
 
 Corrèze
 
-Tribunal de grande instance de Tulle.
+Tulle
 
-Ressort des tribunaux de grande instance de Brive et Tulle.
+Brive et Tulle.
 
 
 Creuse
 
-Tribunal de grande instance de Guéret.
+Guéret
 
-Ressort du tribunal de grande instance de Guéret.
+Guéret.
 
 
 Haute-Vienne
 
-Tribunal de grande instance de Limoges.
+Limoges
 
-Ressort du tribunal de grande instance de Limoges.
+Limoges.
 
 Cour d'appel de Lyon
 
 
 Ain
 
-Tribunal de grande instance de Bourg-en-Bresse.
+Bourg-en-Bresse
 
-Ressort des tribunaux de grande instance de Belley et Bourg-en-Bresse.
+Belley et Bourg-en-Bresse.
 
 
 Loire
 
-Tribunal de grande instance de Saint-Etienne.
+Saint-Etienne
 
-Ressort des tribunaux de grande instance de Montbrison, Roanne et Saint-Etienne.
+Montbrison, Roanne et Saint-Etienne.
 
 
 Rhône
 
-Tribunal de grande instance de Lyon.
+Lyon
 
-
-Ressort des tribunaux de grande instance de Lyon et Villefranche-sur-Saône
+Lyon et Villefranche-sur-Saône.
 
 Cour d'appel de Metz
 
 
 Moselle
 
-Tribunal de grande instance de Metz.
+Metz
 
-Ressort des tribunaux de grande instance de Metz, Sarreguemines et Thionville
+Metz, Sarreguemines et Thionville.
 
 Cour d'appel de Montpellier
 
 
 Aude
 
-Tribunal de grande instance de Carcassonne.
+Carcassonne
 
-Ressort des tribunaux de grande instance de Carcassonne et Narbonne.
+Carcassonne et Narbonne.
 
 
 Aveyron
 
-Tribunal de grande instance de Rodez.
+Rodez
 
-Ressort des tribunaux de grande instance de Millau et Rodez.
+Millau et Rodez.
 
 
 Hérault
 
-Tribunal de grande instance de Montpellier.
+Montpellier
 
-Ressort des tribunaux de grande instance de Béziers et Montpellier.
+Béziers et Montpellier.
 
 
 Pyrénées-Orientales
 
-Tribunal de grande instance de Perpignan.
+Perpignan
 
-
-Ressort du tribunal de grande instance de Perpignan
+Perpignan.
 
 Cour d'appel de Nancy
 
 
 Meurthe-et-Moselle
 
-Tribunal de grande instance de Nancy.
+Nancy
 
-Ressort des tribunaux de grande instance de Briey et Nancy.
+Briey et Nancy.
 
 
 Meuse
 
-Tribunal de grande instance de Verdun.
+Verdun
 
-Ressort des tribunaux de grande instance de Bar-le-Duc et Verdun.
+Bar-le-Duc et Verdun.
 
 
 Vosges
 
-Tribunal de grande instance d'Epinal.
+Epinal
 
-Ressort des tribunaux de grande instance d'Epinal et Saint-Dié
+Epinal et Saint-Dié.
 
 Cour d'appel de Nîmes
 
 
 Ardèche
 
-Tribunal du grande instance de Privas.
+Privas
 
-Ressort du tribunal de grande instance de Privas.
+Privas.
 
 
 Gard
 
-Tribunal de grande instance de Nîmes.
+Nîmes
 
-Ressort des tribunaux de grande instance d'Alès et Nîmes.
+Alès et Nîmes.
 
 
 Lozère
 
-Tribunal de grande instance de Mende.
+Mende
 
-Ressort du tribunal de grande instance de Mende.
+Mende.
 
 
 Vaucluse
 
-Tribunal de grande instance d'Avignon.
+Avignon
 
-Ressort des tribunaux de grande instance d'Avignon et Carpentras
+Avignon et Carpentras.
 
 Cour d'appel d'Orléans
 
 
 Indre-et-Loire
 
-Tribunal de grande instance de Tours.
+Tours
 
-Ressort du tribunal de grande instance de Tours.
+Tours.
 
 
 Loir-et-Cher
 
-Tribunal de grande instance de Blois.
+Blois
 
-Ressort du tribunal de grande instance de Blois.
+Blois.
 
 
 Loiret
 
-Tribunal de grande instance d'Orléans.
+Orléans
 
-Ressort des tribunaux de grande instance de Montargis et d'Orléans
+Montargis et Orléans.
 
 Cour d'appel de Paris
 
 
 Essonne
 
-Tribunal de grande instance d'Evry.
+Evry
 
-Ressort du tribunal de grande instance d'Evry.
+Evry.
 
 
 Seine-et-Marne
 
-Tribunal de grande instance de Melun.
+Melun
 
-Ressort des tribunaux de grande instance de Fontainebleau, Meaux et Melun.
+Fontainebleau, Meaux et Melun.
 
 
 Seine-Saint-Denis
 
-Tribunal de grande instance de Bobigny.
+Bobigny
 
-Ressort du tribunal de grande instance de Bobigny.
+Bobigny.
 
 
 Val-de-Marne
 
-Tribunal de grande instance de Créteil.
+Créteil
 
-Ressort du tribunal de grande instance de Créteil.
+Créteil.
 
 
 Yonne
 
-Tribunal de grande instance d'Auxerre.
+Auxerre
 
-Ressort des tribunaux de grande instance d'Auxerre et Sens.
+Auxerre et Sens.
 
 
 Paris
 
-Tribunal de grande instance de Paris.
+Paris
 
-
-Ressort du tribunal de grande instance de Paris
+Paris.
 
 Cour d'appel de Pau
 
 
 Landes
 
-Tribunal de grande instance de Mont-de-Marsan.
+Mont-de-Marsan
 
-Ressort des tribunaux de grande instance de Dax et Mont-de-Marsan.
+Dax et Mont-de-Marsan.
 
 
 Pyrénées-Atlantiques
 
-Tribunal de grande instance de Pau.
+Pau
 
-Ressort des tribunaux de grande instance de Bayonne et Pau.
+Bayonne et Pau.
 
 
 Hautes-Pyrénées
 
-Tribunal de grande instance de Tarbes.
+Tarbes
 
-Ressort du tribunal de grande instance de Tarbes.
+Tarbes.
 
 Cour d'appel de Poitiers
 
 
 Charente-Maritime
 
-Tribunal de grande instance de La Rochelle.
+La Rochelle
 
-Ressort des tribunaux de grande instance de La Rochelle et Rochefort.
+La Rochelle et Rochefort.
 
-Tribunal de grande instance de Saintes.
 
-Ressort du tribunal de grande instance de Saintes.
+Saintes
+
+Saintes.
 
 
 Deux-Sèvres
 
-Tribunal de grande instance de Niort.
+Niort
 
-Ressort des tribunaux de grande instance de Bressuire et Niort.
+Bressuire et Niort.
 
 
 Vendée
 
-Tribunal de grande instance de La Roche-sur-Yon.
+La Roche-sur-Yon
 
-Ressort des tribunaux de grande instance de La Roche-sur-Yon et Les
-Sables-d'Olonne.
+La Roche-sur-Yon et les Sables-d'Olonne.
 
 
 Vienne
 
-Tribunal de grande instance de Poitiers.
+Poitiers
 
-
-Ressort du tribunal de grande instance Poitiers
+Poitiers.
 
 Cour d'appel de Reims
 
 
 Ardennes
 
-Tribunal de grande instance de Charleville-Mézières.
+Charleville-Mézières
 
-Ressort du tribunal de grande instance de Charleville-Mézières.
+Charleville-Mézières.
 
 
 Aube
 
-Tribunal de grande instance de Troyes.
+Troyes
 
-Ressort du tribunal de grande instance de Troyes.
+Troyes.
 
 
 Marne
 
-Tribunal de grande instance de Reims.
+Reims
 
-
-Ressort des tribunaux de grande instance de Châlons-sur-Marne et Reims
+Châlons-en-Champagne.
 
 Cour d'appel de Rennes
 
 Côtes-d'Armor
 
-Tribunal de grande instance de Saint-Brieuc.
 
-Ressort des tribunaux de grande instance de Dinan, Guingamp et Saint-Brieuc.
+Saint-Brieuc
+
+Dinan, Guingamp et Saint-Brieuc.
 
 
 Finistère
 
-Tribunal de grande instance de Quimper.
+Quimper
 
-Ressort des tribunaux de grande instance de Brest, Morlaix et Quimper.
+Brest, Morlaix et Quimper.
 
 
 Ille-et-Vilaine
 
-Tribunal de grande instance de Rennes.
+Rennes
 
-Ressort des tribunaux de grande instance de Rennes et Saint-Malo.
+Rennes et Saint-Malo.
 
 
 Loire-Atlantique
 
-Tribunal de grande instance de Nantes.
+Nantes
 
-Ressort des tribunaux de grande instance de Nantes et Saint-Nazaire.
+Nantes et Saint-Nazaire.
 
 
 Morbihan
 
-Tribunal de grande instance de Lorient.
+Lorient
 
-
-Ressort des tribunaux de grande instance de Lorient et Vannes
+Lorient et Vannes.
 
 Cour d'appel de Riom
 
 
 Allier
 
-Tribunal de grande instance de Moulins.
+Moulins
 
-Ressort des tribunaux de grande instance de Cusset, Montluçon et Moulins.
+Cusset, Montluçon et Moulins.
 
 
 Cantal
 
-Tribunal de grande instance d'Aurillac.
+Aurillac
 
-Ressort du tribunal de grande instance d'Aurillac.
+Aurillac.
 
 
 Haute-Loire
 
-Tribunal de grande instance du Puy-en-Velay.
+Le Puy-en-Velay
 
-Ressort du tribunal de grande instance du Puy-en-Velay.
+Le Puy-en-Velay.
 
 
 Puy-de-Dôme
 
-Tribunal de grande instance de Clermont-Ferrand.
+Clermont-Ferrand
 
-
-Ressort des tribunaux de grande instance de Clermont-Ferrand et Riom
+Clermont-Ferrand et Riom.
 
 Cour d'appel de Rouen
 
 
 Eure
 
-Tribunal de grande instance d'Evreux.
+Evreux
 
-Ressort des tribunaux de grande instance de Bernay et Evreux.
+Bernay et Evreux.
 
 
 Seine-Maritime
 
-Tribunal de grande instance de Rouen.
+Rouen
 
-Ressort des tribunaux de grande instance de Dieppe, Le Havre et Rouen
+Dieppe, Le Havre et Rouen.
 
 Cour d'appel de Toulouse
 
 
 Ariège
 
-Tribunal de grande instance de Foix.
+Foix
 
-Ressort des tribunaux de grande instance de Foix.
+Foix.
 
 
 Haute-Garonne
 
-Tribunal de grande instance de Toulouse.
+Toulouse
 
-Ressort des tribunaux de grande instance de Toulouse et Saint-Gaudens.
+Toulouse et Saint-Gaudens.
 
 
 Tarn
 
-Tribunal de grande instance d'Albi.
+Albi
 
-Ressort des tribunaux de grande instance d'Albi et Castres.
+Albi et Castres.
 
 
 Tarn-et-Garonne
 
-Tribunal de grande instance de Montauban.
+Montauban
 
-
-Ressort du tribunal de grande instance de Montauban
+Montauban.
 
 Cour d'appel de Versailles
 
 
-Eure-et-Loir
+Eure-et-Loire
 
-Tribunal de grande instance de Chartres.
+Chartres
 
-Ressort du tribunal de grande instance de Chartres.
+Chartres.
 
 
 Hauts-de-Seine
 
-Tribunal de grande instance de Nanterre.
+Nanterre
 
-Ressort du tribunal de grande instance de Nanterre.
+Nanterre.
 
 Val-d'Oise
 
-Tribunal de grande instance Pontoise.
 
-Ressort du tribunal de grande instance de Pontoise.
+Pontoise
+
+Pontoise.
 
 
 Yvelines
 
-Tribunal de grande instance de Versailles.
+Versailles
 
-Ressort du tribunal de grande instance de Versailles.
+Versailles.
 
 Cour d'appel de Basse-Terre
 
 
 Guadeloupe
 
-Tribunal de grande instance de Pointe-à-Pitre.
+Pointe-à-Pitre
 
-
-Ressort des tribunaux de grande instance de Basse-Terre et Pointe-à-Pitre
+Basse-Terre et Pointe-à-Pitre.
 
 Cour d'appel de Fort-de-France
 
 
 Guyane
 
-Tribunal de grande instance de Cayenne.
+Cayenne
 
-Ressort du tribunal de grande instance de Cayenne.
+Cayenne.
 
 
 Martinique
 
-Tribunal de grande instance de Fort-de-France.
+Fort-de-France
 
+Fort-de-France.
 
-Ressort du tribunal de grande instance de Fort-de-France
-
-Cour d'appel de Saint-Denis (Réunion)
+Cour d'appel de Saint-Denis-de-la-Réunion
 
 
 Réunion
 
-Tribunal de grande instance de Saint-Denis.
+Saint-Denis
 
-
-Ressort des tribunaux de grande instance de Saint-Denis et Saint-Pierre
+Saint-Denis et Saint-Pierre.
 
 Cour d'appel de Nouméa
 
 
-Nouvelle-Calédonie
+La Nouvelle-Calédonie
 
-Tribunal de première instance de Nouméa.
+TPI Nouméa
 
-Ressort du tribunal de première instance de Nouméa.
+Ressort TPI Nouméa.
 
 
 Territoire des îles Wallis-et-Futuna
 
-Tribunal de première instance de Mata-Utu.
+TPI Mata-Utu
 
-
-Ressort du tribunal de première instance de Mata-Utu
+Ressort TPI Mata-Utu.
 
 Cour d'appel de Papeete
 
 
-Territoire de Polynésie française
+Territoire de Polynésie-Française
 
-Tribunal de première instance de Papeete.
+TPI Papeete
 
-Ressort de la cour d'appel de Papeete
+Ressort CA Papeete.
 
-Tribunal supérieur d'appel de Saint-Pierre-et-Miquelon
+Tribunal supérieur d'appel de Saint-Pierre et Miquelon
 
 
 Collectivité territoriale de Saint-Pierre-et-Miquelon
 
-Tribunal de première instance de Saint-Pierre.
+TPI Saint-Pierre
 
-Ressort du tribunal supérieur d'appel de Saint-Pierre
+Ressort du TSA Saint-Pierre.
 
 Tribunal supérieur d'appel de Mamoudzou
 
 
-Collectivité territoriale de Mayotte
+Mayotte
 
-Tribunal de première instance de Mamoudzou.
+TPI Mamoudzou
 
-Ressort du tribunal de première instance de Mamoudzou.
+Ressort TPI Mamoudzou.

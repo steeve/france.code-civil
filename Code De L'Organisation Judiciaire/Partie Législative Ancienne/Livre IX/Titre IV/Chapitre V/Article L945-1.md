@@ -1,3 +1,3 @@
 Article L945-1
 ----
-Il y a dans la collectivité territoriale de Mayotte une cour criminelle.
+Il y a à Mayotte une cour criminelle.

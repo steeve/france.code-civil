@@ -7,9 +7,8 @@ instance ou du juge désigné par lui à cet effet.
 
 Sur la réquisition du créancier, le juge convoque le débiteur devant lui au
 moyen d'une lettre recommandée adressée par le greffier avec demande d'avis de
-réception [*condition de forme*] Le délai pour la comparution est de huit jours
-à partir de la date de remise figurant à l'avis de réception [*point de
-départ*].
+réception. Le délai pour la comparution est de huit jours à partir de la date de
+remise figurant à l'avis de réception.
 
 Les lieu, jour et heure de l'essai de conciliation sont indiqués verbalement au
 créancier au moment où il formule sa réquisition.

@@ -9,4 +9,4 @@ Il ne peut résilier le contrat de travail à durée déterminée que s'il justi
 soit d'une faute grave de l'intéressé, soit d'un cas de force majeure.
 
 Toute résiliation du contrat de travail prononcée en méconnaissance des
-dispositions du présent article est nulle [*sanction*].
+dispositions du présent article est nulle.

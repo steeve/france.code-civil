@@ -2,8 +2,7 @@ Article D211-3
 ----
 Si l'inspecteur du travail n'a pas manifesté son opposition motivée à
 l'embauchage dans un délai de huit jours francs à compter de l'expédition de la
-demande [*point de départ*], le cachet de la poste faisant foi, l'autorisation
-est réputée accordée [*accord tacite*].
+demande, le cachet de la poste faisant foi, l'autorisation est réputée accordée.
 
 Si, dans ce même délai, l'inspecteur du travail a fait connaître qu'il
 subordonnait son autorisation à une ou plusieurs modifications ou adjonctions

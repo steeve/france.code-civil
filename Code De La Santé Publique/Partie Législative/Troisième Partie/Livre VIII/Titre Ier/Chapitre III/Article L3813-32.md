@@ -9,5 +9,5 @@ d'utilité publique pendant la durée des manifestations.
 
 Chaque ouverture est subordonnée à l'avis conforme du commissaire général de
 l'exposition ou de la foire ou de toute personne ayant même qualité. L'avis est
-annexé à la déclaration souscrite auprès du représentant du Gouvernement et à la
+annexé à la déclaration souscrite auprès du représentant de l'Etat et à la
 recette buraliste des contributions indirectes.

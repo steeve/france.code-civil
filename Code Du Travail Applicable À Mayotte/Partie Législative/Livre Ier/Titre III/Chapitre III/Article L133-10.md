@@ -1,7 +1,7 @@
 Article L133-10
 ----
-Dans les formes prévues par la présente section, le représentant du Gouvernement
-à Mayotte peut, à la demande d'une des organisations représentatives intéressées
+Dans les formes prévues par la présente section, le représentant de l'Etat à
+Mayotte peut, à la demande d'une des organisations représentatives intéressées
 ou de sa propre initiative :
 
 - abroger l'arrêté en vue de mettre fin à l'extension de la convention ou d'un

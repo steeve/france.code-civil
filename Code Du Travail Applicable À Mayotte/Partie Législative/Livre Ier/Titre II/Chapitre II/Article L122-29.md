@@ -20,4 +20,4 @@ premier alinéa de l'article L. 122-22.
 
 Les dispositions du présent article ne sont pas applicables aux salariés qui ont
 moins de deux ans d'ancienneté dans l'entreprise et aux licenciements opérés par
-les employeurs qui occupent habituellement moins de onze salariés [*effectif*].
+les employeurs qui occupent habituellement moins de onze salariés.

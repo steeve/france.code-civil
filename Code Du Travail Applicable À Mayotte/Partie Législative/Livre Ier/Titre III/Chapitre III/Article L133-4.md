@@ -1,6 +1,6 @@
 Article L133-4
 ----
-Le représentant du Gouvernement à Mayotte peut, de même, conformément aux règles
+Le représentant de l'Etat à Mayotte peut, de même, conformément aux règles
 fixées à l'article précédent, rendre obligatoires par arrêté les avenants ou
 annexes à une convention ou à un accord étendu.
 

@@ -5,8 +5,8 @@ l'exécution d'un certain travail ou la fourniture de certains services, avec un
 entrepreneur qui recrute lui-même la main-d'oeuvre nécessaire et que cet
 entrepreneur n'est ni inscrit au registre du commerce ni immatriculé au
 répertoire des métiers ni propriétaire d'un fonds de commerce, le chef
-d'entreprise encourt [*sanction*] dans les cas suivants et nonobstant toute
-stipulation contraire les responsabilités ci-après indiquées :
+d'entreprise encourt dans les cas suivants et nonobstant toute stipulation
+contraire les responsabilités ci-après indiquées :
 
 1° Si les travaux sont exécutés ou les services fournis dans son établissement
 ou dans les dépendances de celui-ci, le chef d'entreprise, en cas
@@ -23,5 +23,4 @@ salaires et congés payés ainsi que pour le versement des cotisations sociales.
 
 Dans les cas ci-dessus cités le salarié lésé et la caisse de prévoyance sociale
 peuvent engager, en cas d'insolvabilité de l'entrepreneur, une action directe
-[*voie de recours*] contre le chef d'entreprise pour qui le travail a été
-effectué.
+contre le chef d'entreprise pour qui le travail a été effectué.

@@ -2,8 +2,8 @@ Article R726-19
 ----
 Les avis et voeux de la commission médicale d'établissement sont adressés, dans
 un délai maximum de quinze jours, par les soins du secrétariat au conseil
-d'administration, au représentant du Gouvernement à Mayotte, au directeur de
-l'agence régionale de l'hospitalisation et au médecin inspecteur de la santé.
+d'administration, au représentant de l'Etat à Mayotte, au directeur de l'agence
+régionale de l'hospitalisation et au médecin inspecteur de la santé.
 
 Le président de la commission médicale d'établissement assure l'information du
 corps médical, odontologique et pharmaceutique de l'établissement en lui

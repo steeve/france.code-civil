@@ -7,8 +7,8 @@ proposition des organisations syndicales d'employeurs et de salariés les plus
 représentatives à Mayotte. Ces organisations soumettent à cet effet des listes
 comportant des noms en nombre double de celui des postes à pourvoir.
 
-Avant de procéder aux nominations, le représentant du Gouvernement prend l'avis
-du directeur du travail, de l'emploi et de la formation professionnelle.
+Avant de procéder aux nominations, le représentant de l'Etat prend l'avis du
+directeur du travail, de l'emploi et de la formation professionnelle.
 
 Des membres suppléants, en nombre double de celui des membres titulaires, sont
 désignés dans les mêmes conditions que ces derniers. Ils ne peuvent siéger qu'en

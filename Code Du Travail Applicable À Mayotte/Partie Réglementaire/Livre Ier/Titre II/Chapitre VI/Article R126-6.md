@@ -1,6 +1,6 @@
 Article R126-6
 ----
-Le représentant du Gouvernement peut, sur le rapport du directeur du travail, de
+Le représentant de l'Etat peut, sur le rapport du directeur du travail, de
 l'emploi et de la formation professionnelle, mettre fin à tout moment à son
 agrément, par décision motivée :
 

@@ -17,4 +17,4 @@ aux services de police et aux services d'incendie et de secours.
 
 Les dépenses du centre de réception et de régulation des appels sont financées
 par des contributions qui peuvent notamment provenir des régimes obligatoires
-d'assurance maladie, de l'Etat et de la collectivité territoriale de Mayotte.
+d'assurance maladie, de l'Etat et de Mayotte.

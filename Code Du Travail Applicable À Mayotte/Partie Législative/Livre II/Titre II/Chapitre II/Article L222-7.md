@@ -5,4 +5,4 @@ salaires mensuels, bimensuels ou hebdomadaires.
 
 Les salariés rémunérés à l'heure, à la journée ou au rendement ont droit à une
 indemnité égale au salaire qu'ils ont perdu du fait de ce chômage. Cette
-indemnité est à la charge [*financière*] de l'employeur.
+indemnité est à la charge de l'employeur.

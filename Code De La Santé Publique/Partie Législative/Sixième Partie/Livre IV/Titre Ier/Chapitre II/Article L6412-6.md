@@ -1,8 +1,8 @@
 Article L6412-6
 ----
 Les dispositions des articles L. 6122-1 à L. 6122-5, L. 6122-7 à L. 6122-14, à
-l'exception du deuxième alinéa de l'article L. 6122-7, sont applicables dans la
-collectivité territoriale de Mayotte pour les projets relatifs à :
+l'exception du deuxième alinéa de l'article L. 6122-7, sont applicables à
+Mayotte pour les projets relatifs à :
 
 1° La création et l'extension de l'établissement public de santé territorial ;
 

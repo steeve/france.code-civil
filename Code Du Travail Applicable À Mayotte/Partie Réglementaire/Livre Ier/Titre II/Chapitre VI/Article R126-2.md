@@ -1,7 +1,7 @@
 Article R126-2
 ----
-L'agrément prévu à l'article L. 126-2 est accordé par le représentant du
-Gouvernement après avis du directeur du travail, de l'emploi et de la formation
+L'agrément prévu à l'article L. 126-2 est accordé par le représentant de l'Etat
+après avis du directeur du travail, de l'emploi et de la formation
 professionnelle.
 
 La demande d'agrément, datée et signée par la personne habilitée à cet effet par

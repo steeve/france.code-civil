@@ -8,8 +8,8 @@ La durée de ces conventions est de douze mois, renouvelables par voie d'avenant
 dans la limite d'une durée maximale de soixante mois.
 
 Le contrat de travail conclu en vertu de ces conventions est un contrat de
-travail de droit privé dénommé contrat emploi consolidé à durée indéterminée ou
-à durée déterminée passé en application de l'article L. 122-1-1. Lorsque ces
+travail de droit privé dénommé "contrat emploi consolidé" à durée indéterminée
+ou à durée déterminée passé en application de l'article L. 122-1-1. Lorsque ces
 contrats sont conclus pour une durée déterminée, leur durée initiale est de
 douze mois. Ils sont renouvelables chaque année par avenant dans la limite d'une
 durée totale de soixante mois.
@@ -28,5 +28,5 @@ Les institutions représentatives du personnel mentionnées à l'article L. 322-
 lorsqu'elles existent, sont informées des conventions conclues.
 
 Les modalités d'application du présent article, et notamment la durée minimum
-hebdomadaire du travail, sont fixées par arrêté du représentant du Gouvernement
-à Mayotte.
+hebdomadaire du travail, sont fixées par arrêté du représentant de l'Etat à
+Mayotte.

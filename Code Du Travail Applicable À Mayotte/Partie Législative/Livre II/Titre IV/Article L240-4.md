@@ -10,5 +10,5 @@ en cas de refus, de faire connaître les motifs qui s'opposent à ce qu'il y soi
 donné suite.
 
 En cas de difficulté ou de désaccord, la décision est prise par l'inspecteur du
-travail après avis d'un médecin désigné à cet effet par le représentant du
-Gouvernement.
+travail après avis d'un médecin désigné à cet effet par le représentant de
+l'Etat.

@@ -1,7 +1,7 @@
 Article L134-1
 ----
-Dans les administrations de l'Etat et de la collectivité territoriale ainsi que
-dans les entreprises publiques et les établissements publics lorsqu'ils
+Dans les administrations de l'Etat et de la collectivité départementale ainsi
+que dans les entreprises publiques et les établissements publics lorsqu'ils
 emploient du personnel dans les conditions du droit privé, les conditions
 d'emploi et de travail ainsi que les garanties sociales peuvent être
 déterminées, en ce qui concerne les catégories de personnel qui ne sont pas

@@ -3,7 +3,7 @@ Article L6414-2
 Le conseil d'administration de l'établissement public de santé territorial de
 Mayotte comprend six catégories de membres :
 
-1° Des représentants de la collectivité territoriale et des communes ;
+1° Des représentants de la collectivité départementale et des communes ;
 
 2° Des représentants du personnel médical, odontologique et pharmaceutique ;
 
@@ -43,8 +43,8 @@ d'empêchement.
 Les représentants mentionnés au 1° sont désignés par les assemblées des
 collectivités qu'ils représentent.
 
-Le représentant du Gouvernement ou son représentant assiste aux séances du
-conseil d'administration de l'établissement. Il est entendu à sa demande.
+Le représentant de l'Etat ou son représentant assiste aux séances du conseil
+d'administration de l'établissement. Il est entendu à sa demande.
 
 Les modalités d'application du présent article sont définies par voie
 réglementaire.

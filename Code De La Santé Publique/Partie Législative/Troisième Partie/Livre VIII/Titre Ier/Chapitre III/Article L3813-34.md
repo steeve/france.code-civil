@@ -1,17 +1,17 @@
 Article L3813-34
 ----
-Le représentant du Gouvernement peut prendre des arrêtés pour déterminer, sans
+Le représentant de l'Etat peut prendre des arrêtés pour déterminer, sans
 préjudice des droits acquis, les distances auxquelles les débits de boissons à
 consommer sur place ne pourront être établis autour d'édifices de cultes.
 
-Des arrêtés du représentant du Gouvernement peuvent être pris pour déterminer,
-sans préjudice des droits acquis, des zones de protection autour des entreprises
+Des arrêtés du représentant de l'Etat peuvent être pris pour déterminer, sans
+préjudice des droits acquis, des zones de protection autour des entreprises
 industrielles ou commerciales, en raison notamment de l'importance de l'effectif
 des salariés, ou des conditions de travail de ces derniers. L'avis du chef du
 service de l'inspection du travail, du conseil territorial d'hygiène et du
 directeur des affaires sanitaires et sociales est requis.
 
-Des arrêtés du représentant du Gouvernement sont pris, à titre obligatoire, sans
+Des arrêtés du représentant de l'Etat sont pris, à titre obligatoire, sans
 préjudice des droits acquis, pour déterminer les distances auxquelles les débits
 de boissons à consommer sur place ne peuvent être établis autour des bâtiments
 suivants :
@@ -40,5 +40,5 @@ boissons, d'autre part. Dans ce calcul, la dénivellation en dessus et au-dessou
 du sol, selon que le débit est installé dans un édifice en hauteur ou dans une
 infrastructure en sous-sol, doit être prise en ligne de compte.
 
-Un arrêté du représentant du Gouvernement précise, en tant que de besoin, les
+Un arrêté du représentant de l'Etat précise, en tant que de besoin, les
 modalités d'application du présent article.

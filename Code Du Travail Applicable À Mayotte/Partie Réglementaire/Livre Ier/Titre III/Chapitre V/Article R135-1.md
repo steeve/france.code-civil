@@ -5,11 +5,11 @@ collectif de travail, l'avis prévu à l'article L. 135-7 doit être affiché da
 les lieux de travail, aux emplacements réservés aux communications destinées au
 personnel.
 
-Cet avis doit comporter [*mentions obligatoires*] l'intitulé des conventions et
-des accords collectifs de travail applicables dans l'établissement. Il doit
-préciser où les textes sont tenus à la disposition du personnel ainsi que les
-modalités propres à permettre à tout salarié de l'établissement de les
-consulter, pendant son temps de présence sur le lieu de travail.
+Cet avis doit comporter l'intitulé des conventions et des accords collectifs de
+travail applicables dans l'établissement. Il doit préciser où les textes sont
+tenus à la disposition du personnel ainsi que les modalités propres à permettre
+à tout salarié de l'établissement de les consulter, pendant son temps de
+présence sur le lieu de travail.
 
 En ce qui concerne les concierges ou gardiens d'immeuble, les employés de
 maison, les travailleurs isolés ou à domicile, la délivrance par l'employeur à

@@ -4,7 +4,7 @@ Comme il est dit à l'article 726-14 du code pénal, ci-après reproduit :
 
 " L'article 511-24 est ainsi rédigé :
 
-" Art. 511-24. - Est puni de cinq ans d'emprisonnement et de 500 000 F d'amende
+" Art. 511-24.-Est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende
 le fait de procéder à des activités d'assistance médicale à la procréation
 lorsque celles-ci ne répondent pas à la demande parentale d'un couple ou lorsque
 le couple bénéficiaire n'est pas composé d'un homme et d'une femme vivants, en

@@ -1,11 +1,10 @@
 Article L4412-6
 ----
-Pour son application dans la collectivité territoriale de Mayotte, l'article L.
-4232-11 est ainsi rédigé :
+Pour son application à Mayotte, l'article L. 4232-11 est ainsi rédigé :
 
-" Dans la collectivité territoriale de Mayotte, les pharmaciens inscrits dans la
-section E élisent un ou plusieurs délégués chargés de les représenter auprès du
-représentant de l'Etat dans la collectivité.
+" A Mayotte, les pharmaciens inscrits dans la section E élisent un ou plusieurs
+délégués chargés de les représenter auprès du représentant de l'Etat dans la
+collectivité.
 
 Le nombre des délégués à élire est défini par arrêté du ministre chargé de
 l'outre-mer.

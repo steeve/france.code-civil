@@ -6,7 +6,7 @@ de salaires résultant d'une décision d'employeur ou d'un groupement d'employeu
 et qui, contrairement aux articles L. 140-1 et L. 140-2, comporte, pour un ou
 des travailleurs de l'un des deux sexes, une rémunération inférieure à celle de
 travailleurs de l'autre sexe pour un même travail ou un travail de valeur égale,
-est nulle de plein droit [*sanction*].
+est nulle de plein droit.
 
 La rémunération plus élevée dont bénéficient ces derniers travailleurs est
 substituée de plein droit à celle que comportait la disposition entachée de
