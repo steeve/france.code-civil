@@ -3,8 +3,8 @@ Article L132-8
 La convention et l'accord collectif de travail à durée indéterminée peuvent être
 dénoncés par les parties signataires. Ils prévoient les conditions dans
 lesquelles ils peuvent être dénoncés, et notamment la durée du préavis qui doit
-précéder la dénonciation. En l'absence de stipulation expresse, cette durée
-[*tacite*] est de trois mois.
+précéder la dénonciation. En l'absence de stipulation expresse, cette durée est
+de trois mois.
 
 La dénonciation est notifiée, par son auteur, aux autres signataires de la
 convention ou de l'accord, et doit donner lieu à dépôt conformément à l'article
@@ -13,8 +13,8 @@ L. 132-10.
 Lorsque la dénonciation émane de la totalité des signataires employeurs ou des
 signataires salariés, la convention ou l'accord continue de produire effet
 jusqu'à l'entrée en vigueur de la convention ou de l'accord qui lui est
-substitué ou, à défaut, pendant une durée d'un an à compter du dépôt de la
-dénonciation, sauf clause prévoyant une durée supérieure.
+substitué ou, à défaut, pendant une durée d'un an à compter de l'expiration du
+délai de préavis, sauf clause prévoyant une durée déterminée supérieure.
 
 Lorsque la dénonciation est le fait d'une partie seulement des signataires
 employeurs ou des signataires salariés, elle ne fait pas obstacle au maintien en
@@ -25,10 +25,10 @@ l'égard des auteurs de la dénonciation.
 Lorsqu'une convention ou un accord a été dénoncé par la totalité des signataires
 employeurs ou des signataires salariés, une nouvelle négociation doit s'engager,
 à la demande d'une des parties intéressées, dans les trois mois qui suivent la
-date de la dénonciation [*délai*]. Il en est de même, à la demande d'une des
-organisations syndicales représentatives de salariés intéressés, en cas de
-dénonciation de la convention ou de l'accord dans les conditions prévues à
-l'article L. 132-14, en ce qui concerne le secteur visé par la dénonciation.
+date de la dénonciation. Il en est de même, à la demande d'une des organisations
+syndicales représentatives de salariés intéressés, en cas de dénonciation de la
+convention ou de l'accord dans les conditions prévues à l'article L. 132-14, en
+ce qui concerne le secteur visé par la dénonciation.
 
 Lorsque la convention ou l'accord qui a été dénoncé n'a pas été remplacé par une
 nouvelle convention ou un nouvel accord dans les délais précisés au troisième

@@ -11,9 +11,10 @@ La partie la plus diligente remet également un exemplaire de chaque convention
 ou accord collectif de travail au secrétariat-greffe du conseil de prud'hommes
 du lieu de conclusion.
 
-Les textes sont applicables, sauf stipulations contraires,
+Pour les conventions et accords collectifs visés à l'article L. 132-26, le dépot
+ne peut intervenir qu'après un délai de huit jours à dater de leur conclusion.
 
-à partir du jour qui suit leur dépôt auprès du service compétent [*date, point
-de départ*].
+Les textes sont applicables, sauf stipulations contraires, à partir du jour qui
+suit leur dépôt auprès du service compétent [*date, point de départ*].
 
 Il peut être donné communication et délivré copie des textes déposés.

@@ -6,8 +6,8 @@ exonéré, en tout ou en partie, de la contribution patronale définie à l'arti
 L. 41, pour l'équipage du bateau sur lequel il est embarqué.
 
 L'étendue de cette exonération est fixée par voie réglementaire en fonction de
-la jauge des bateaux et, en outre, en ce qui concerne les pilotes, du volume
-annuel des bateaux pilotés dans chaque station à l'entrée et à la sortie.
+la longueur des bateaux et, en ce qui concerne les pilotes, du volume annuel des
+navires pilotés dans chaque station à l'entrée et à la sortie.
 
 Les dispositions précédentes sont applicables [*bénéficiaires*] :
 

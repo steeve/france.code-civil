@@ -9,6 +9,12 @@ pour pouvoir être étendue, outre les clauses prévues aux articles L. 132-5, L
 2° Les délégués du personnel, les comités d'entreprise et le financement des
 activités sociales et culturelles gérées par lesdits comités ;
 
+2° bis Les comités d'hygiène, de sécurité et des conditions de travail,
+notamment les modalités de la formation nécessaire à l'exercice des missions des
+membres des comités d'hygiène, de sécurité et des conditions de travail dans les
+entreprises de moins de trois cents salariés ainsi que les modalités de
+financement de cette formation ;
+
 3° Les éléments essentiels servant à la détermination des classifications
 professionnelles et des niveaux de qualification, notamment les mentions
 relatives aux diplômes professionnels ou à leurs équivalences, à condition que

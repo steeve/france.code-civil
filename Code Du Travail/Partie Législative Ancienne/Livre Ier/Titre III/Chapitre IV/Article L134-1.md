@@ -1,11 +1,14 @@
 Article L134-1
 ----
 Dans les entreprises publiques et les établissements publics à caractère
-industriel ou commercial, les conditions d'emploi et de travail ainsi que les
-garanties sociales peuvent être déterminées, en ce qui concerne les catégories
-de personnel qui ne sont pas soumises à un statut législatif ou réglementaire
-particulier, par des conventions et accords collectifs de travail conclus
-conformément aux dispositions du présent titre [*bénéficiaires*].
+industriel ou commercial et les établissements publics déterminés par décret qui
+assurent tout à la fois une mission de service public à caractère administratif
+et à caractère industriel et commercial, lorsqu'ils emploient du personnel dans
+les conditions du droit privé, les conditions d'emploi et de travail ainsi que
+les garanties sociales peuvent être déterminées, en ce qui concerne les
+catégories de personnel qui ne sont pas soumises à un statut législatif ou
+réglementaire particulier, par des conventions et accords collectifs de travail
+conclus conformément aux dispositions du présent titre.
 
 Les dispositions de l'alinéa précédent s'appliquent aux entreprises privées,
 lorsque certaines catégories de personnel sont régies par le même statut
