@@ -4,7 +4,7 @@ Le comptable mentionné aux premier et deuxième alinéas de l'article L. 256 es
 le comptable de la direction générale des impôts ou le comptable de la direction
 générale des douanes et droits indirects en ce qui concerne, pour ce dernier, le
 recouvrement des contributions indirectes, droits, taxes, redevances et
-impositions obéissant aux mêmes règles et du droit spécifique prévu par
+impositions obéissant aux mêmes règles et de la contribution prévue par
 l'article 527 du code général des impôts.
 
 Le comptable public compétent pour établir l'avis de mise en recouvrement est
@@ -17,5 +17,5 @@ L'autorité administrative habilitée à signer et rendre exécutoires les avis 
 mise en recouvrement, mentionnée au deuxième alinéa de l'article L. 256, est le
 directeur des services fiscaux ou le directeur régional des douanes en ce qui
 concerne, pour ce dernier, le recouvrement des contributions indirectes, droits,
-taxes, redevances et impositions obéissant aux mêmes règles et du droit
-spécifique prévu par l'article 527 du code général des impôts.
+taxes, redevances et impositions obéissant aux mêmes règles et de la
+contribution prévue par l'article 527 du code général des impôts.
