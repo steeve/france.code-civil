@@ -20,7 +20,7 @@ administrateurs ou membres du conseil de surveillance de la société, et d'un
 administrateur ou membre du conseil de surveillance représentant les locataires
 ;
 
-- s'il s'agit d'une société coopérative de production d'H.L.M. ou d'une société
+- s'il s'agit d'une société coopérative de production d'HLM ou d'une société
 d'économie mixte, de membres du conseil d'administration ou de surveillance de
 la société.
 
@@ -57,9 +57,8 @@ Le président peut appeler à siéger, à titre consultatif, un représentant de
 bureaux d'aide sociale, ou un représentant du service chargé de l'action
 sanitaire et sociale du département du lieu d'implantation des logements.
 
-La commission d'attribution et chacune des commissions s'il en est
-
-constitué plusieurs se réunissent au moins une fois tous les deux mois.
+La commission d'attribution et chacune des commissions s'il en est constitué
+plusieurs se réunissent au moins une fois tous les deux mois.
 
 La ou les commissions rendent compte de leur activité au conseil
 d'administration de l'organisme, au moins une fois par an.

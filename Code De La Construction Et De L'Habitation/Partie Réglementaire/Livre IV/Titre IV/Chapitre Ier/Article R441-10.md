@@ -9,4 +9,4 @@ En outre, des réservations supplémentaires peuvent être consenties par les
 organismes d'habitations à loyer modéré en contrepartie d'un apport de terrain
 ou d'un financement, aux bénéficiaires visés à l'article R. 441-9, sur les
 logements ne faisant pas l'objet d'une réservation au titre de l'article R.
-441-12. "
+441-12.

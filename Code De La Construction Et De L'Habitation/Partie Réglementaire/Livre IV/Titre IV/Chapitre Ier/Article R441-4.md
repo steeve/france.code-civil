@@ -19,10 +19,10 @@ c) Aux personnes qu'un nouvel emploi conduit à changer de résidence ;
 
 d) Aux personnes ayant des difficultés graves à faire face aux dépenses liées au
 logement qu'elles occupent à la suite d'une réduction brutale de leurs
-ressources. "
+ressources;
 
 e) Aux associations mentionnées à l'article R. 441-1.
 
-Le règlement départemental établi par le commissaire de la République en
-application de l'article L. 441-2 précise les conditions dans lesquelles ces
-différents critères sont pris en compte.
+Le règlement départemental établi par le préfet en application de l'article L.
+441-2 précise les conditions dans lesquelles ces différents critères sont pris
+en compte.
