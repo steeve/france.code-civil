@@ -9,7 +9,10 @@ applicable à l'année en cours et la valeur de service du point de retraite à
 effet du 1er avril selon les modalités établies par le règlement prévu à
 l'article L. 635-5.
 
-Pour les années 1997, 1998, 1999 et 2000, l'évolution de la valeur du point de
-retraite ne peut pas excéder l'évolution de l'indice des prix à la consommation
-hors tabac de l'année précédente ou celle des revenus soumis à cotisation au
-titre de l'année en cours lorsqu'elle est inférieure.
+La revalorisation de la valeur du point de retraite ne peut pas excéder
+l'évolution de l'indice des prix à la consommation hors tabac de l'année
+précédente ou celle des revenus soumis à cotisation au titre de l'année en
+cours, lorsqu'elle est inférieure.
+
+Pour les années 2003, 2004 et 2005, la valeur du point de retraite demeure fixée
+à la valeur applicable à compter du 1er avril 2002.
