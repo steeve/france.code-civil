@@ -1,11 +1,7 @@
 Article R*224-6
 ----
-Dans le respect des dispositions du deuxième alinéa de l'article L. 424-2 du
-code de l'environnement, ainsi que des nécessités de la protection des autres
-espèces d'oiseaux, le ministre chargé de la chasse peut, par arrêté, ouvrir la
-chasse à certaines espèces d'oiseaux de passage ou de gibier d'eau entre le 10
-août et le 1er septembre et la fermer entre le 1er et le 20 février, dans les
-conditions qu'il fixe.
-
-Il consulte préalablement le Conseil national de la chasse et de la faune
-sauvage.
+Par exception aux dispositions de l'article R. 224-3, le ministre chargé de la
+chasse fixe par arrêté les dates d'ouverture et de fermeture de la chasse aux
+oiseaux de passage et au gibier d'eau, après avis du Conseil national de la
+chasse et de la faune sauvage. Cet arrêté prévoit les conditions spécifiques de
+la chasse de ces gibiers.
