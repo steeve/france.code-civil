@@ -1,10 +1,10 @@
 Article D99-11
 ----
-Les opérateurs figurant sur la liste établie en application du 7° de l'article
-L. 36-7 sont tenus de publier, dans les conditions déterminées par leur cahier
-des charges, un catalogue décrivant une offre technique et tarifaire
+Les opérateurs figurant sur les listes établies en application des a et b du 7°
+de l'article L. 36-7 sont tenus de publier, dans les conditions déterminées par
+leur cahier des charges, un catalogue décrivant une offre technique et tarifaire
 d'interconnexion approuvée préalablement par l'Autorité de régulation des
-télécommunications. Ils sont soumis aux dispositions du présent paragraphe.
+télécommunications.
 
 Ces opérateurs ne peuvent invoquer l'existence d'une offre inscrite au catalogue
 pour refuser d'engager des négociations commerciales avec un autre opérateur en
@@ -23,10 +23,11 @@ tenu des droits et obligations propres à chacune de ces catégories
 d'utilisateurs. Ces conditions doivent être suffisamment détaillées pour faire
 apparaître les divers éléments propres à répondre aux demandes.
 
-Les informations nécessaires à la mise en oeuvre de l'interconnexion sont
-fournies aux autres opérateurs dans les mêmes conditions et avec le même degré
-de qualité que celles que ces opérateurs fournissent à leurs propres services ou
-à ceux de leurs filiales et partenaires. Ils informent les autres opérateurs des
-modifications de leurs offres d'interconnexion avec un préavis au moins égal à
-six mois, sauf si l'Autorité de régulation des télécommunications en décide
+Les opérateurs inscrits sur les listes établies en application des a, b et c du
+7° de l'article L. 36-7 fournissent les informations nécessaires à la mise en
+oeuvre de l'interconnexion aux autres opérateurs dans les mêmes conditions et
+avec le même degré de qualité que celles qu'ils fournissent à leurs propres
+services ou à leurs filiales et partenaires. Ils informent les autres opérateurs
+des modifications de leurs offres d'interconnexion avec un préavis au moins égal
+à six mois, sauf si l'Autorité de régulation des télécommunications en décide
 autrement.

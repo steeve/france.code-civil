@@ -1,4 +1,5 @@
 Article D369
 ----
-Les liaisons louées sont fournies dans les conditions fixées par la présente
+Les offres de liaisons louées des opérateurs désignés en application de
+l'article L. 34-2-1 doivent être conformes aux dispositions de la présente
 section.

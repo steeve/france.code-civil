@@ -15,12 +15,11 @@ objectifs ;
 
 - les tarifs des liaisons louées s'appliquent aux prestations fournies à
 l'utilisateur entre les points de terminaison du réseau auxquels il a accès.
-Pour les liaisons fournies par plus d'un opérateur, dont l'exploitant public,
-des tarifs de demi-circuits peuvent être appliqués.
+Pour les liaisons fournies par plus d'un opérateur des tarifs de demi-circuits
+peuvent être appliqués.
 
-Dans le cadre de la comptabilité prévu à l'article 18 du cahier des charges
-annexé au décret n° 96-1225 du 27 décembre 1996, les coûts des liaisons louées
-incluent :
+Dans le cadre de la comptabilité prévue au II de l'article L. 34-8, les coûts
+des liaisons louées incluent :
 
 a) Les coûts directs encourus pour l'établissement, l'exploitation et la
 maintenance des liaisons louées, ainsi que pour leur commercialisation et leur

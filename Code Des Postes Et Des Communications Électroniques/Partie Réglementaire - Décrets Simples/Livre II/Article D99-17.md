@@ -1,10 +1,18 @@
 Article D99-17
 ----
-Les tarifs des services d'interconnexion offerts par ces opérateurs, qu'ils
-soient inclus dans leur catalogue d'interconnexion ou offerts en sus, rémunèrent
-l'usage effectif du réseau de transport et de desserte et reflètent les coûts
-correspondants. Ces opérateurs doivent être en mesure de montrer que leur tarif
-d'interconnexion reflète effectivement les coûts.
+Les tarifs des services d'interconnexion offerts par les opérateurs inscrits sur
+les listes établies en application des a et b du 7° de l'article L. 36-7, qu'ils
+soient inclus dans leur catalogue d'interconnexion ou offerts en sus, et par les
+exploitants de réseaux de radiotéléphonie mobile inscrits sur la liste établie
+en application du d du même article, rémunèrent l'usage effectif du réseau de
+transport et de desserte et reflètent les coûts correspondants. Ces opérateurs
+doivent être en mesure de démontrer que leur tarif d'interconnexion reflète
+effectivement les coûts.
+
+Les dispositions du précédent alinéa sont applicables aux tarifs des accès
+mentionnés au deuxième alinéa du IV de l'article L. 34-8 fournis par les
+opérateurs inscrits sur la liste établie en application du a du 7° de l'article
+L. 36-7.
 
 Pour les prestations contenues dans les conventions d'interconnexion ne figurant
 pas au catalogue d'interconnexion défini à l'article D. 99-16, l'Autorité de
@@ -14,8 +22,10 @@ conventions pour ces prestations reflètent les coûts.
 
 Les tarifs d'interconnexion doivent reposer sur les principes suivants :
 
-1. Les coûts pris en compte doivent être pertinents, c'est-à-dire liés par une
-forme de causalité, directe ou indirecte, au service rendu d'interconnexion ;
+1. Les coûts pris en compte doivent être pertinents,
+
+c'est-à-dire liés par une forme de causalité, directe ou indirecte, au service
+rendu d'interconnexion ;
 
 2. Les coûts pris en compte doivent tendre à accroître l'efficacité économique à
 long terme, c'est-à-dire que les coûts considérés doivent prendre en compte les

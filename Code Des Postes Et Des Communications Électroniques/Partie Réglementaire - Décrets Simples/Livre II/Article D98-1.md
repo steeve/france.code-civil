@@ -377,7 +377,7 @@ service universel ;
 indicateurs pertinents permettant de l'apprécier, et aux conventions
 d'acheminement de trafic signées avec un opérateur français ou étranger ;
 
-- dans un délai de dix jours suivant leur conclusion :
+- à la demande de l'Autorité de régulation des télécommunications :
 
 - l'ensemble des conventions d'interconnexion ;
 

@@ -1,11 +1,12 @@
 Article D99-23
 ----
-Les opérateurs inscrits sur la liste établie en application du 7° de l'article
-L. 36-7 sont tenus de répondre, dans des conditions objectives, transparentes et
-non discriminatoires, aux demandes raisonnables d'accès à la boucle locale, pour
-la partie métallique de leur réseau comprise entre le répartiteur principal et
-le point de terminaison situé dans les locaux de l'abonné, lorsqu'elles émanent
-des titulaires de l'autorisation prévue à l'article L. 33-1.
+Les opérateurs inscrits sur la liste établie en application du a du 7° de
+l'article L. 36-7 sont tenus de répondre, dans des conditions objectives,
+transparentes et non discriminatoires, aux demandes raisonnables d'accès à la
+boucle locale, pour la partie métallique de leur réseau comprise entre le
+répartiteur principal et le point de terminaison situé dans les locaux de
+l'abonné, lorsqu'elles émanent des titulaires de l'autorisation prévue à
+l'article L. 33-1.
 
 L'accès à la boucle locale se traduit, selon la demande :
 

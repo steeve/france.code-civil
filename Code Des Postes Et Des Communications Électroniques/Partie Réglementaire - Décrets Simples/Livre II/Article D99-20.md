@@ -1,9 +1,8 @@
 Article D99-20
 ----
-Après concertation au sein du comité de l'interconnexion et consultation
-publique, l'Autorité de régulation des télécommunications définira une méthode
-tendant vers une meilleure efficacité à long terme des coûts pris en compte que
-celle résultant de la méthode initiale énoncée à l'article D. 99-19 tout en
+Après concertation au sein du comité de l'interconnexion, l'Autorité de
+régulation des communications électroniques définira une méthode pour chaque
+liste prise en application des a, b ou d du 7° de l'article L. 36-7 tout en
 respectant les principes énoncés à l'article D. 99-17. A cette fin, elle
 s'appuie sur la comparaison des résultats de modèles technico-économiques et de
 modèles fondés sur la comptabilité de l'opérateur en maintenant la référence aux

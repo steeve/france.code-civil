@@ -1,11 +1,12 @@
 Article D99-15
 ----
-Les conditions techniques et tarifaires des services d'interconnexion de ces
-opérateurs doivent être suffisamment détaillées pour faire apparaître les divers
-éléments propres à répondre aux demandes. En particulier, les tarifs relatifs
-aux services d'interconnexion doivent être suffisamment décomposés pour que l'on
-puisse s'assurer que l'opérateur demandeur ne paye que l'utilisation des
-éléments strictement liés à la prestation demandée.
+Les conditions techniques et tarifaires des services d'interconnexion des
+opérateurs inscrits sur les listes établies en application des a, b et d du 7°
+de l'article L. 36-7 doivent être suffisamment détaillées pour faire apparaître
+les divers éléments propres à répondre aux demandes. En particulier, les tarifs
+relatifs aux services d'interconnexion doivent être suffisamment décomposés pour
+que l'on puisse s'assurer que l'opérateur demandeur ne paye que l'utilisation
+des éléments strictement liés à la prestation demandée.
 
 En application de ce principe, ces opérateurs doivent en particulier offrir dans
 leur catalogue d'interconnexion un accès :
@@ -30,10 +31,10 @@ demande de l'Autorité de régulation des télécommunications, d'établir pour 
 commutateur une offre transitoire. Les critères objectifs suivant lesquels
 l'Autorité de régulation des télécommunications peut demander l'établissement
 d'une offre transitoire sont homologués par arrêté du ministre chargé des
-télécommunications dans les conditions prévues à l'article L. 36-6. Cette offre
-transitoire permet à l'opérateur demandeur de disposer d'une tarification visant
-à refléter les coûts qu'il aurait supportés, en l'absence de contraintes
-techniques d'accès, pour acheminer les communications à destination ou en
-provenance, d'une part, des abonnés raccordés à ce commutateur et, d'autre part,
-des abonnés qui auraient été accessibles sans passer par un commutateur de
+communications électroniques dans les conditions prévues à l'article L. 36-6.
+Cette offre transitoire permet à l'opérateur demandeur de disposer d'une
+tarification visant à refléter les coûts qu'il aurait supportés, en l'absence de
+contraintes techniques d'accès, pour acheminer les communications à destination
+ou en provenance, d'une part, des abonnés raccordés à ce commutateur et, d'autre
+part, des abonnés qui auraient été accessibles sans passer par un commutateur de
 hiérarchie supérieure.

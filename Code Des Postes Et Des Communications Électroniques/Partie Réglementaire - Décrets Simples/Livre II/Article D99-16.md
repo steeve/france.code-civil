@@ -1,7 +1,8 @@
 Article D99-16
 ----
-Les catalogues d'interconnexion de ces opérateurs doivent au minimum inclure les
-prestations et éléments suivants, pour les exploitants de réseau ouvert au
+Les catalogues d'interconnexion des opérateurs inscrits sur les listes établies
+en application des a et b du 7° de l'article L. 36-7 doivent au minimum inclure
+les prestations et éléments suivants, pour les exploitants de réseau ouvert au
 public :
 
 - services d'acheminement du trafic commuté, offrant des accès techniques et des
@@ -15,7 +16,11 @@ suivant une liste arrêtée préalablement par l'Autorité de régulation des
 télécommunications, après consultation du comité de l'interconnexion ;
 
 - modalités de mise en oeuvre de la portabilité des numéros et de la sélection
-du transporteur permettant d'assurer l'égalité d'accès ;
+du transporteur permettant d'assurer l'égalité d'accès. En application de
+l'article L. 36-6, l'Autorité de régulation des télécommunications précise les
+services de sélection du transporteur concernés par les dispositions de l'alinéa
+précédent ainsi que les conditions et les délais de mise en oeuvre de la
+sélection du transporteur appel par appel et de la présélection ;
 
 - description de l'ensemble des points physiques d'interconnexion et des
 conditions d'accès à ces points lorsque c'est l'opérateur tiers qui fournit la
@@ -31,17 +36,6 @@ d'interconnexion, et notamment le protocole de signalisation utilisé à ces
 interfaces, et ses conditions de mise en oeuvre ;
 
 - services d'aboutement de liaisons louées.
-
-En complément de la sélection appel par appel, les modalités de mise en oeuvre
-de la sélection du transporteur permettent aux clients de ces opérateurs
-d'accéder aux services commutés de tout opérateur interconnecté au moyen d'une
-présélection et d'écarter, appel par appel, tout choix de présélection en
-composant un préfixe court.
-
-En application de l'article L. 36-6, l'Autorité de régulation des
-télécommunications précise les services concernés par les dispositions de
-l'alinéa précédent ainsi que les conditions et les délais de mise en oeuvre de
-la sélection du transporteur appel par appel et de la présélection.
 
 Les catalogues de ces opérateurs pour les fournisseurs de service téléphonique
 au public doivent inclure les prestations et éléments énumérés ci-dessus qui

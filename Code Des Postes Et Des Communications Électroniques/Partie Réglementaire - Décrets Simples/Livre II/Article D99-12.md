@@ -1,6 +1,7 @@
 Article D99-12
 ----
-Ces opérateurs fournissent l'interconnexion dans des conditions non
+Les opérateurs inscrits sur les listes établies en application des a, b et c du
+7° de l'article L. 36-7 fournissent l'interconnexion dans des conditions non
 discriminatoires.
 
 Les modalités techniques et financières des services d'interconnexion qu'ils
@@ -19,7 +20,8 @@ décrites suivant les cas dans des accords ou conventions d'interconnexion. Elle
 doivent pouvoir être justifiées sur demande de l'Autorité de régulation des
 télécommunications.
 
-Ces opérateurs tiennent une comptabilité séparée pour leurs activités
+Les opérateurs inscrits sur les listes établies en application des a et b du 7°
+de l'article L. 36-7 tiennent une comptabilité séparée pour leurs activités
 d'interconnexion, dont les spécifications sont établies dans les conditions
 visées à l'article D. 99-13. Celle-ci a pour objet de valoriser les activités,
 services et éléments de réseaux utilisés par ces opérateurs à leur prix de

@@ -18,7 +18,7 @@ de ce délai, les pénalités raisonnables éventuellement exigées ;
 
 - les modes de remboursement ou d'indemnisation.
 
-L'exploitant public rend publiques les statistiques relatives au délai de
+Ces opérateurs rendent publiques les statistiques relatives au délai de
 fourniture type et au temps de réparation type des liaisons louées, selon des
 modalités de calcul et une périodicité précisées par arrêté du ministre chargé
-des télécommunications.
+des communications électroniques.
