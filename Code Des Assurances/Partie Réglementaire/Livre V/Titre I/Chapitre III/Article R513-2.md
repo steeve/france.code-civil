@@ -16,9 +16,9 @@ b) Soit de l'exercice à temps complet pendant six mois au moins de fonctions
 relatives à la production ou à l'application de contrats d'assurances, dans les
 services intérieurs ou extérieurs d'une entreprise mentionnée à l'article L.
 310-1, d'un courtier ou d'une société de courtage d'assurances, d'un agent
-général d'assurances, ainsi que de l'accomplissement d'un stage professionnel
-d'une durée minimale de cent heures, effectué en quatre semaines au moins et
-deux mois au plus ;
+général d'assurances, ainsi que de l'application d'un stage professionnel d'une
+durée minimale de cent heures, effectué en quatre semaines au moins et deux mois
+au plus ;
 
 c) Soit de l'accomplissement d'un stage professionnel d'une durée minimale de
 trois cents heures, effectué en huit semaines au moins et six mois au plus. Dans
@@ -30,12 +30,12 @@ connaissances doivent être annexés au livret de stage mentionné à l'article 
 Ces durées de trois cents heures, huit semaines et six mois sont remplacées
 respectivement par :
 
-Cent cinquante heures, quatre semaines et trois mois pour les assurances sur la
-vie, à l'exception des assurances populaires définies à l'article L. 132-28 ;
+- cent cinquante heures, quatre semaines et trois mois pour les assurances sur
+la vie ;
 
-Cent heures, trois semaines et deux mois pour les assurances populaires et la
-capitalisation. Les dispositions prévues aux a, b, c et d ci-dessus sont
-également applicables aux personnes mentionnées au 3° de l'article R. 512-2,
-ainsi qu'aux secrétaires trésoriers de sociétés ou caisses locales d'assurances
-mutuelles agricoles autres que ceux mentionnés au dernier alinéa de l'article R.
-513-1.
+- cent heures, trois semaines et deux mois pour la capitalisation.
+
+Les dispositions prévues aux a, b et c ci-dessus sont également applicables aux
+personnes mentionnées au 3° de l'article R. 512-2, ainsi qu'aux secrétaires
+trésoriers de sociétés ou caisses locales d'assurances mutuelles agricoles
+autres que ceux mentionnés au dernier alinéa de l'article R. 513-1.

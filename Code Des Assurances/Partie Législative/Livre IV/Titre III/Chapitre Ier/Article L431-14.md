@@ -16,21 +16,27 @@ promotion de la qualité dans la construction.
 
 La gestion du fonds est confiée à la caisse centrale de réassurance.
 
-Le fonds est alimenté par une contribution à la charge des entreprises
-d'assurance. Son assiette est constituée par les primes ou cotisations
-d'assurance correspondant aux garanties d'assurance obligatoire des dommages à
-la construction, ainsi qu'aux garanties d'assurance décennale souscrites par
-toute personne, qu'elle soit ou non liée au maître de l'ouvrage par un contrat
-de louage d'ouvrage, pour couvrir sa responsabilité dans des travaux de
-bâtiment.
+Le fonds est alimenté par une contribution des assurés assise sur les primes ou
+cotisations d'assurance émises à compter du 1er janvier 1986 et correspondant
+aux garanties d'assurance obligatoire des dommages à la construction ainsi
+qu'aux garanties d'assurance décennale souscrite par toute personne, qu'elle
+soit ou non liée au maître d'ouvrage par un contrat de louage d'ouvrage, pour
+couvrir sa responsabilité dans les travaux de bâtiment.
 
-Le taux de la contribution est de 5 % en ce qui concerne les primes ou
-cotisations d'assurance des entreprises artisanales et de 15 % pour les autres
-primes ou cotisations d'assurance.
+Les contrats couvrant les chantiers ouverts à compter du 1er janvier 1986 et
+comportant des garanties autres que celles visées à l'alinéa précédent doivent
+distinguer la partie de la prime ou cotisation afférente à ces dernières
+garanties.
+
+Le taux de la contribution est de 8,5 % en ce qui concerne les primes ou
+cotisations d'assurance payées par les entreprises artisanales et de 25,5 % en
+ce qui concerne les autres primes ou cotisations d'assurance.
 
 Cette contribution est recouvrée suivant les mêmes règles, sous les mêmes
 garanties et les mêmes sanctions que la taxe sur les conventions d'assurance
 prévue aux articles 991 et suivants du code général des impôts.
+
+Les ressources du fonds peuvent également provenir d'emprunts.
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent
 article.

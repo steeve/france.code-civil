@@ -16,10 +16,20 @@ se livrant à une exploitation ou à des opérations de caractère lucratif.
 formes visées au 1, si elles se livrent à une exploitation ou à des opérations
 visées aux articles 34 et 35.
 
-3. Les sociétés en nom collectif, les sociétés en commandite simple et les
-sociétés en participation sont soumises à l'impôt sur les sociétés si elles
-optent pour leur assujettissement à cet impôt dans les conditions prévues à
-l'article 239.
+3. Sont soumises à l'impôts sur les sociétés si elles optent pour leur
+assujettissement à cet impôt dans les conditions prévues à l'article 239 :
+
+Les sociétés en nom collectif ;
+
+Les sociétés en commandite simple ;
+
+Les sociétés en participation ;
+
+Les sociétés à responsabilité limitée dont l'associé unique est une personne
+physique [*EURL*] ;
+
+Les exploitations agricoles à responsabilité limitée mentionnées au 5° de
+l'article 8 [*EARL*].
 
 Cette option entraîne l'application auxdites sociétés, sous réserve des
 exceptions prévues par le présent code, de l'ensemble des dispositions
@@ -86,9 +96,9 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent artic
 centrale du crédit mutuel agricole et rural visée à l'article 20 de la loi n°
 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des établissements
 de crédit sont assujetties à l'impôt sur les sociétés dans les conditions de
-droit commun.
+droit commun (6).
 
-Un décret fixe les conditions d'application du présent paragraphe.
+Un décret fixe les conditions d'application du présent paragraphe (7).
 
 (1) Voir Annexe III, art. 46 quater-0 A.
 
@@ -99,3 +109,8 @@ Un décret fixe les conditions d'application du présent paragraphe.
 (4) Disposition applicable aux exercices ouverts à compter du 1er janvier 1984.
 
 (5) Annexe II, art. 102 RA à 102 RC.
+
+(6) Dispositions applicables aux exercices ouverts à compter du 1er janvier
+1985.
+
+(7) Annexe III, art. 46 quater-0 Z à 46 quater-0 ZC

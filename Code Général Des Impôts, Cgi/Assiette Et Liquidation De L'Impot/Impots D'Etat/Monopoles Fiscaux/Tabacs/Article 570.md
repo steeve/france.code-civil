@@ -8,12 +8,12 @@ aux obligations suivantes :
 2° Conserver la propriété des tabacs depuis leur entrée ou leur fabrication en
 France jusqu'à leur vente au détail après consignation chez le débitant;
 
-3° Consentir à chaque débitant une remise dont le taux minimum est fixé par
-arrêté (1). Cette remise comprend l'ensemble des avantages directs ou indirects
-qui lui sont alloués ;
+3° Consentir à chaque débitant une remise dont le taux est fixé par arrêté (1).
+Cette remise comprend l'ensemble des avantages directs ou indirects qui lui sont
+alloués ;
 
-4° Consentir à chaque débitant les crédits minima dans des conditions fixées par
-décret en Conseil d'Etat (2) ;
+4° Consentir à chaque débitant les crédits dans des conditions fixées par décret
+en Conseil d'Etat (2) ;
 
 5° Livrer les tabacs commandés par tout débitant quelle que soit la localisation
 géographique du débit;

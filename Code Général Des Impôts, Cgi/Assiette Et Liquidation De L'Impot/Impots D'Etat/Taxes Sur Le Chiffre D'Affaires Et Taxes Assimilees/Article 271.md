@@ -34,8 +34,8 @@ domiciliées ou établies en dehors de la Communauté économique européenne ou
 rapportent à des exportations de biens à destination de pays autres que les
 Etats membres de la Communauté;
 
-c Les opérations exonérées en application des dispositions des articles 262, 263
-et 1° du II de l'article 291;
+c Les opérations exonérées en application des dispositions des articles 262, 262
+bis, 263 et des 1° et 1° bis du II de l'article 291;
 
 d Les opérations non imposables en France réalisées par des assujettis dans la
 mesure où elles ouvriraient droit à déduction si leur lieu d'imposition se
