@@ -1,70 +1,18 @@
 Article R831-11
 ----
-I.-La demande d'allocation de logement doit être assortie des justifications
-suivantes :
+I. - Le modèle de la demande d'allocation de logement et de son renouvellement,
+assortie de pièces justificatives tenant compte de la situation du demandeur ou
+allocataire, est déterminé par arrêté du ministre chargé de la sécurité sociale
+et du ministre chargé du logement.
 
-1° Au moment de la demande :
+II. - (Paragraphe supprimé)
 
-a) En cas de location, et lorsqu'il y a contrat, la copie certifiée conforme du
-contrat établi au nom du demandeur ainsi que l'original ou la copie certifiée
-conforme de la quittance de loyer établie au même nom qui comprend la mensualité
-de janvier ; à défaut une attestation du bailleur précisant le montant du loyer
-pour le mois de janvier ou éventuellement, dans les cas prévus aux troisième,
-quatrième et cinquième alinéas de l'article R. 831-14, une quittance ou une
-attestation correspondant au mois pris en considération pour le calcul de
-l'allocation de logement ;
-
-Lorsque l'allocation de logement est versée en application des 1° et 2° du
-deuxième alinéa de l'article L. 835-2 et des e et g du 1° du I de l'article 31
-du code général des impôts, le demandeur fournit, outre, le cas échéant, la
-copie certifiée conforme du contrat, une attestation du bailleur précisant le
-montant du loyer pour le mois de janvier ou, éventuellement, dans les cas prévus
-aux troisième, quatrième et cinquième alinéas de l'article R. 831-14, une
-attestation dudit bailleur correspondant au mois pris en considération pour le
-calcul de l'allocation ;
-
-b) Lorsqu'un employé est logé par son employeur moyennant une retenue sur le
-salaire, la production du bulletin de salaire qui justifiera du paiement d'un
-loyer ;
-
-c) En cas d'accession à la propriété, l'allocataire doit justifier des
-obligations qui lui incombent et dont il demande la prise en considération pour
-l'octroi de l'allocation de logement.
-
-2°) toutes justifications de l'affectation, de la superficie et de la salubrité
-du local ;
-
-3°) un état des personnes vivant habituellement au foyer ;
-
-4°) une déclaration sur l'honneur indiquant le total des ressources perçues au
-cours de l'année précédente par le requérant et par toutes personnes vivant ou
-ayant vécu à son foyer dans les conditions déterminées aux articles R. 831-4 à
-R. 831-7.
-
-Cette déclaration doit comporter l'indication des ressources telles qu'elles ont
-été déclarées à l'administration fiscale au titre de l'année civile antérieure.
-
-II.-Pour le renouvellement des droits doivent être fournis :
-
-a) L'original, la copie certifiée conforme ou une photocopie de la quittance de
-loyer qui comprend la mensualité de janvier ou, éventuellement, celle qui
-correspond au mois pris en considération pour le calcul de l'allocation de
-logement, ou, selon les cas, les pièces prévues au 1° (b et c) du premier alinéa
-du présent article ;
-
-Lorsque l'allocation de logement est versée en application des 1° et 2° du
-deuxième alinéa de l'article L. 835-2 du présent code et des e et g du 1° du I
-de l'article 31 du code général des impôts, le bailleur transmet à la caisse
-avant le 15 mai précédant le début de la nouvelle période de versement, d'une
-part, l'une ou l'autre des attestations prévues au second alinéa du a du 1° du I
-ci-dessus, d'autre part, une attestation de ce bailleur indiquant que le
-bénéficiaire est à jour de ses obligations ou, dans le cas contraire, la date à
-laquelle la caisse a été saisie en application de l'article R. 831-21-4 ;
-
-b) Les justifications prévues aux 3° et 4° du premier alinéa du présent article.
-
-III.-En cas de non-présentation des justifications prévues aux 3° et 4° avant le
-1er juillet , le paiement des allocations de logement peut être suspendu.
+III. - En cas de non-présentation avant le 1er juillet d'un état des personnes
+vivant habituellement au foyer ainsi que d'une déclaration sur l'honneur
+indiquant le total des ressources perçues au cours de l'année précédente par
+l'intéressé et par toutes personnes vivant ou ayant vécu à son foyer dans les
+conditions déterminées aux articles R. 831-4 à R. 831-7, le paiement des
+allocations de logement peut être suspendu.
 
 En cas de non-présentation des justifications relatives au paiement du loyer ou
 des mensualités d'accession à la propriété avant le 1er juin, ou lorsque
@@ -91,7 +39,7 @@ versement de l'allocation de logement entre les mains du bailleur ou du prêteur
 si celui-ci en a fait la demande. Dans ce cas, il est fait application des
 dispositions des articles R. 831-21-1 à R. 831-21-3 et R. 831-25.
 
-IV.-A défaut de demande de versement entre ses mains émanant du bailleur ou du
+IV. - A défaut de demande de versement entre ses mains émanant du bailleur ou du
 prêteur, l'organisme payeur suspend le versement de l'allocation de logement et,
 compte tenu de la situation du bénéficiaire, décide :
 

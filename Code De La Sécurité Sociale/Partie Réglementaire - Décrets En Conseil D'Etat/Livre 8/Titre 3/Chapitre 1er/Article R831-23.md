@@ -8,8 +8,7 @@ principal de la dette, afférentes aux emprunts contractés en vue de l'accessio
 à la propriété d'un logement et qui ont fait, pour chacun d'entre eux, l'objet
 d'un certificat daté, notifié au demandeur par les organismes prêteurs précisant
 les modalités et la périodicité des paiements et présenté à l'appui de la
-demande d'allocation de logement ; le modèle de ce certificat est fixé par
-arrêté du ministre chargé de la sécurité sociale ;
+demande d'allocation de logement ;
 
 2° Les charges d'intérêts et d'amortissements et les charges accessoires
 afférentes aux emprunts substitués à ceux qui sont mentionnés au 1° ci-dessus,
