@@ -11,12 +11,17 @@ d'apprentissage ;
 
 b) D'une indemnité de soutien à l'effort de formation réalisé par l'employeur ;
 cette indemnité est attribuée sous la forme de versements effectués à l'issue de
-chaque année du cycle de formation à l'employeur de l'apprenti à la date de fin
-de ce cycle.
+chaque année du cycle de formation à l'employeur de l'apprenti à la fin de
+l'année du cycle de formation considérée.
 
 Les contrats d'apprentissage dont la durée est inférieure au minimum prévu au
-premier alinéa de l'article L. 115-2 n'ouvrent pas droit à l'indemnité
-compensatrice forfaitaire.
+premier alinéa de l'article L. 115-2 n'ouvrent pas droit au versement de
+l'indemnité compensatrice forfaitaire, sauf dans les cas mentionnés ci-dessous.
 
-Les contrats d'apprentissage prolongés en application de l'article L. 117-9 ne
-donnent pas lieu à l'attribution du versement au titre de l'aide à l'embauche.
+Les contrats d'apprentissage qui sont conclus pour permettre à l'apprenti de
+terminer une dernière année du cycle de formation déjà commencée avec un autre
+employeur ou pour un cycle complet de formation d'une durée inférieure à un an
+correspondant à l'année scolaire, ainsi que ceux prolongés en application de
+l'article L. 117-9, ouvrent droit au versement au titre du soutien à l'effort de
+formation, mais ne donnent pas lieu à l'attribution du versement au titre de
+l'aide à l'embauche.
