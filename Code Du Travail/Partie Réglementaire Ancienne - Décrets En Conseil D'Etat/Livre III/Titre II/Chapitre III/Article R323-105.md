@@ -1,7 +1,10 @@
 Article R323-105
 ----
-Le classement des candidats est arrêté par les ministres chargés des anciens
-combattants et victimes de guerre et du travail.
+Le classement des candidats est arrêté par le ministre chargé des anciens
+combattants et victimes de guerre et le ministre chargé du travail [*autorité
+compétente*]. Les dispositions du dernier alinéa de l'article R. 430 du code des
+pensions militaires d'invalidité et des victimes de guerre sont applicables aux
+handicapés candidats aux emplois réservés.
 
 Ce classement est établi au moins une fois par an [*périodicité*]. Il est
 valable jusqu'à la publication du classement suivant.
