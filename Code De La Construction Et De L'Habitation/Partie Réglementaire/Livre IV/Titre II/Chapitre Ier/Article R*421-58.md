@@ -33,12 +33,12 @@ l'élection, l'office adresse à chaque locataire les bulletins de vote
 correspondant à chacune des listes de candidats avec éventuellement pour chacune
 d'elles l'indication de son affiliation ;
 
-4° La date de l'élection, qui doit être comprise entre le 15 mai et le 15 juin,
-ainsi que les modalités pratiques de celles-ci sont arrêtées par le conseil
-d'administration ; le vote a lieu soit par correspondance, soit par dépôt des
-bulletins dans une urne, soit simultanément par les deux méthodes, au scrutin
-secret de liste à un tour avec représentation proportionnelle au plus fort
-reste, sans radiation ni panachage.
+4° La date de l'élection, qui doit être comprise entre le 15 novembre et le 15
+décembre, ainsi que les modalités pratiques de celles-ci sont arrêtées par le
+conseil d'administration ; le vote a lieu soit par correspondance, soit par
+dépôt des bulletins dans une urne, soit simultanément par les deux méthodes, au
+scrutin secret de liste à un tour avec représentation proportionnelle au plus
+fort reste, sans radiation ni panachage.
 
 Chaque liste doit comprendre six noms ; les sièges revenant à chaque liste en
 fonction des résultats du scrutin sont attribués dans l'ordre des noms figurant
