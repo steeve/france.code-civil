@@ -8,8 +8,9 @@ La déclaration comporte notamment l'indication du montant, détaillé par natur
 de revenu et déterminé selon les modalités propres à chacun d'eux, des éléments
 qui composent le revenu brut global du contribuable.
 
-((Les contribuables doivent également déclarer, séparément, les revenus visés au
-troisième alinéa du 1 de l'article 49 F)) (M).
+Les contribuables doivent également déclarer, séparément, les revenus visés
+((respectivement aux troisième et quatrième alinéas)) (M) du 1 de l'article 49
+(M).
 
 La déclaration mentionne séparément le montant des revenus, de quelque nature
 qu'ils soient, encaissés directement ou indirectement dans les territoires

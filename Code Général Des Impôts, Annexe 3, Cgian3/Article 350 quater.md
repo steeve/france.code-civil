@@ -4,14 +4,11 @@ I. - La direction générale des douanes et droits indirects exerce les
 compétences prévues :
 
 1° Aux articles 306, 321, 412, 426, 427, 445, 450, 454, 475, 560, 616, 620,
-1562, 1564 du code général des impôts ;
+1562, ((1565 septies)) (M) du code général des impôts ;
 
 2° Au deuxième alinéa de l'article 444 du code général des impôts ;
 
 3° A l'article 511 bis du code général des impôts.
-
-Le ministre chargé du budget autorise les nouveaux procédés de dénaturation des
-alcools en application du même article de ce ce code ;
 
 4° A l'article 570 du code général des impôts ;
 
@@ -38,8 +35,7 @@ application de l'article 304 du code général des impôts ;
 2° Pour requérir la représentation du registre mentionné à l'article 330 du code
 général des impôts ;
 
-3° Pour recevoir après saisie les ouvrages d'or ((ou contenant de l'or)) (1),
-d'argent et de platine en application de l'article 541 du code général des
-impôts.
+3° Pour recevoir après saisie les ouvrages d'or ou contenant de l'or, d'argent
+et de platine en application de l'article 541 du code général des impôts.
 
 (1) Modification.

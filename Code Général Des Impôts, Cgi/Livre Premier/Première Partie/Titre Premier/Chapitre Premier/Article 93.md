@@ -32,13 +32,13 @@ conversion professionnelle par les personnes tirant un revenu de la pratique
 d'un sport.
 
 6° Les loyers versés en exécution d'un contrat de crédit-bail portant sur un
-immeuble, dans les conditions et limites fixées au 10 de l'article 39.
+immeuble, dans les conditions et limites fixées au 10 de l'article 39 (2).
 
 7° Les droits de mutation à titre gratuit acquittés par les héritiers,
 donataires ou légataires d'une exploitation, pour la part des droits afférente à
 cette exploitation, et les intérêts payés en application des dispositions de
 l'article 1717, pour la même part, dans les conditions prévues au 4° quater du 1
-de l'article 39.
+de l'article 39 (3).
 
 1 bis. (Abrogé).
 
@@ -73,7 +73,7 @@ l'article 100 bis, soumis à l'impôt sur le revenu selon les règles prévues e
 matière de traitements et salaires.
 
 La déduction forfaitaire de 10 % pour frais professionnels, prévue à l'article
-83-3°, s'applique au montant brut des droits perçus diminué des cotisations
+83 3°, s'applique au montant brut des droits perçus diminué des cotisations
 payées au titre des régimes obligatoire et complémentaire obligatoire de
 sécurité sociale.
 
@@ -82,9 +82,9 @@ compositeurs peuvent bénéficier d'une déduction forfaitaire supplémentaire p
 frais professionnels dont le taux est fixé à 25 %. Cette déduction
 supplémentaire est calculée sur le montant brut des droits après application de
 la déduction forfaitaire pour frais professionnels de 10 %. Elle est limitée à
-50.000 F (1''').
+50 000 F.
 
-Pour l'imposition des revenus des années 1997, 1998 et 1999, la limite de 50 000
+Pour l'imposition des revenus des années 1998, 1999 et 2000, la limite de 50 000
 F mentionnée au troisième alinéa est respectivement fixée à 30 000 F, 20 000 F
 et 10 000 F.
 
@@ -117,16 +117,24 @@ sous déduction d'un abattement de 10 000 F.
 
 Cette disposition s'applique si le cédant est âgé de soixante ans au moins et
 soixante-cinq ans au plus à la date de la cession et s'il cesse d'exercer une
-activité de chef d'entreprise (2).
+activité de chef d'entreprise (4).
+
+8. Sur demande expresse des contribuables soumis au régime de la déclaration
+contrôlée qui exercent une activité professionnelle au sens du 1 de l'article
+92, les subventions visées à l'article 42 septies ne sont pas comprises dans les
+résultats de l'année en cours à la date de leur versement. Dans ce cas, elles
+sont imposables dans les conditions définies par ce dernier article (5).
 
 (1) En ce qui concerne les plus-values réalisées dans le cadre des opérations de
 nationalisation, voir art. 248 B.
 
-(1') Ces dispositions s'appliquent aux contrats conclus à compter du 1er janvier
+(2) Ces dispositions s'appliquent aux contrats conclus à compter du 1er janvier
 1996.
 
-(1'') Ces dispositions s'appliquent à compter de l'imposition des revenus de
+(3) Ces dispositions s'appliquent à compter de l'imposition des revenus de
 l'année 1997.
 
-(2) Ces dispositions s'appliquent aux cessions intervenues à compter du 1er
+(4) Ces dispositions s'appliquent aux cessions intervenues à compter du 1er
 janvier 1992.
+
+(5) Ces dispositions s'appliquent à compter de l'imposition des revenus de 1997.

@@ -3,12 +3,12 @@ Article 49 E
 I. La déclaration prévue à l'article 49 D doit comprendre :
 
 1° L'identification du déclarant : nom et prénoms ou raison sociale, adresse
-complète et numéro Siret lorsqu'il a été attribué par l'I.N.S.E.E..
+complète et numéro Siret lorsqu'il a été attribué par l'INSEE.
 
 2° L'identification de la nature des opérations réalisées et la référence aux
 comptes concernés ;
 
-3° L'identification du bénéficiaire ou du cocontractant :
+3° L'identification du souscripteur, du bénéficiaire ou du cocontractant :
 
 a. Pour les personnes physiques, nom patronymique, nom marital, prénoms, sexe,
 date et lieu de naissance, adresse du dernier domicile connu au 1er janvier de

@@ -5,7 +5,8 @@ exerce l'activité le 1er janvier (1).
 
 Toutefois le contribuable qui cesse toute activité dans un établissement n'est
 pas redevable de la taxe pour les mois restant à courir, sauf en cas de cession
-de l'activité exrcée dans l'établissement.
+de l'activité exrcée dans l'établissement ((ou en cas de transfert d'activité))
+(M).
 
 Lorsqu'au titre d'une année une cotisation de taxe professionnelle a été émise
 au nom d'une personne autre que le redevable légal de l'impôt, l'imposition de
@@ -43,10 +44,10 @@ Si le changement d'exploitant prend effet le 1er janvier, le nouvel exploitant
 est imposé pour l'année du changement sur les bases relatives à l'activité de
 son prédécesseur.
 
-((IV bis. Pour les deux années qui suivent celle où elles sont, pour la première
+IV bis. Pour les deux années qui suivent celle où elles sont, pour la première
 fois, assujetties à l'impôt sur les sociétés, les bases d'imposition des
 sociétés civiles professionnelles sont calculées dans les conditions définies au
-deuxième alinéa du II)) (M).
+deuxième alinéa du II.
 
 V. La valeur locative est corrigée en fonction de la période d'activité pour les
 exploitants d'hôtels de tourisme saisonniers classés dans les conditions fixées
@@ -55,4 +56,4 @@ spectacles ou de jeux ainsi que les établissements thermaux.
 
 (1) Annexe II, art. 310 HS et 310 HT.
 
-(M) Modification de la loi 96-1182.
+(M) Modification.

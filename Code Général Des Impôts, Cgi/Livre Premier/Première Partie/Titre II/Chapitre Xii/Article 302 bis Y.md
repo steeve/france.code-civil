@@ -1,7 +1,7 @@
 Article 302 bis Y
 ----
-1. Les actes des huissiers de justice sont soumis à une taxe forfaitaire de 50
-francs.
+1. Les actes des huissiers de justice sont soumis à une taxe forfaitaire de
+((60)) (M) francs.
 
 Sont exonérés de la taxe :
 
@@ -21,16 +21,16 @@ mutualité ;
 2° ou qui, portant sur une somme n'excédant pas 3 500 F, ne sont pas accomplis
 en application des règles de procédure se rattachant directement à une instance
 ou à l'exécution d'une décision de justice et ne constituent pas une
-signification du certificat de non-paiement prévu aux articles 65-3 du
-décret-loi du 30 octobre 1935 unifiant le droit en matière de chèque et relatif
-aux cartes de paiement et L. 103-1 du code des postes et télécommunications.
+signification du certificat de non-paiement prévu à l'article 65-3 du décret-loi
+du 30 octobre 1935 unifiant le droit en matière de chèque et relatif aux cartes
+de paiement.
 
 2. La taxe est due par les huissiers de justice pour le compte du débiteur. Elle
 est intégralement exigible dès que les encaissements, même partiels, des sommes
 dues au titre d'un acte accompli ont atteint ou dépassé son montant.
 
 3. Elle est constatée, recouvrée et contrôlée selon les règles, garanties et
-sanctions prévues en matière de taxe sur la valeur ajoutée (1).
+sanctions prévues en matière de taxe sur la valeur ajoutée.
 
-(1) Ces dispositions sont applicables aux actes des huissiers de justice
-accomplis à compter du 1er janvier 1994.
+(M) Modification de la loi 97-1269 applicable aux actes des huissiers accomplis
+à compter du 1er janvier 1998.

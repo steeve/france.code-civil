@@ -3,9 +3,9 @@ Article 1647
 I. Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement sur
 le montant :
 
-De la taxe locale d'équipement visée à l'article 1585 A ;
+a De la taxe locale d'équipement visée à l'article 1585 A ;
 
-Des droits, taxes, redevances et autres impositions visés au II de l'article
+b Des droits, taxes, redevances et autres impositions visés au II de l'article
 1635 ter.
 
 Le taux de ce prélèvement est fixé à 4 % [*pourcentage*] du montant des
@@ -39,9 +39,14 @@ moteur mentionnée aux articles 1599 C et 1599 nonies. Le taux est porté à 3 p
 prélèvement est perçu dans les conditions fixées à l'article 1599 I et au
 deuxième alinéa de l'article 1599 nonies.
 
-((VI. Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement
-de 1 p. 100 sur le montant des taxes mentionnées aux articles 302 bis ZA et 302
-bis ZB)) (M).
+VI. Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement de
+1 p. 100 sur le montant des taxes mentionnées aux articles 302 bis ZA et 302 bis
+ZB (1).
 
-(M) Modification de la loi. Cette disposition s'applique aux taxes acquittées à
-compter du 1er janvier 1996.
+VII. ((Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement
+de 1,5 % sur le montant de la taxe mentionnée à l'article 302 bis KB)) (M).
+
+(1) Cette disposition s'applique aux taxes acquittées à compter du 1er janvier
+1996.
+
+(M) Modification de la loi 97-1239.

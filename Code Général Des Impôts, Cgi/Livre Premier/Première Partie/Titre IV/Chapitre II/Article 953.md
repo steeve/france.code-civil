@@ -1,7 +1,7 @@
 Article 953
 ----
 I. La durée de validité des passeports ordinaires délivrés en France est fixée à
-cinq ans. Le prix en est de 350 F, y compris les frais de papier et de timbre et
+cinq ans. Le prix en est de 400 F, y compris les frais de papier et de timbre et
 tous frais d'expédition.
 
 II. Sont dispensés du paiement du prix fixé au I les passeports délivrés aux

@@ -117,6 +117,10 @@ l'article 260, il est fait abstraction, pour la détermination d la base
 d'imposition, de la valeur du droit de reprise des constructions lorsque
 celles-ci doivent devenir la propriété du bailleur en fin de bail.
 
+6° En ce qui concerne les livraisons à soi-même de travaux visées au 7° bis de
+l'article 257, la taxe sur la valeur ajoutée est assise sur le prix de revient
+total des travaux.
+
 (1) Voir Annexe III, art. 76-1.
 
 (2) Abrogation à compter du 1er janvier 1995.

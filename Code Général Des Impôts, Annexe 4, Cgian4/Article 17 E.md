@@ -10,43 +10,36 @@ intéressés de bénéficier de la réduction d'impôt prévue ci-dessus ;
 II. Le certificat prévu au I comporte, selon un modèle publié par
 l'administration, les indications suivantes :
 
-- désignation de l'assureur ;
+-désignation de l'assureur ;
 
-- nom, prénoms et adresse du souscripteur ;
+-nom, prénoms et adresse du souscripteur ;
 
-- numéro du contrat ;
+-numéro du contrat ;
 
-- date d'effet et durée du contrat ou de l'avenant ;
+-date d'effet et durée du contrat ou de l'avenant ;
 
-- montant des primes venues à échéance au cours de l'année civile.
+-montant des primes venues à échéance au cours de l'année civile.
 
 Il précise en outre :
 
-((1. Pour les contrats ou avenants visés au 1° de l'article 199 septies susvisé
-:
+1. Pour les contrats ou avenants visés au 1° de l'article 199 septies susvisé :
 
-((a) la nature du contrat : contrat à "primes périodiques", à "prime unique" ou
-"à versements libres" ;
+a) la nature du contrat : contrat à " primes périodiques ", à " prime unique "
+ou " à versements libres " ;
 
-((b) le montant des primes représentatif de l'opération d'épargne en distinguant
-:
+b) Le montant des primes représentatif de l'opération d'épargne en distinguant :
 
-((1° D'une part, le montant correspondant :
+1° Le montant correspondant aux primes payées au titre de contrats à primes
+périodiques conclus ou prorogés avant le 20 septembre 1995 ;
 
-((- aux primes payées au titre de contrats à primes périodiques conclus ou
-prorogés avant le 20 septembre 1995 ;
+2° Le montant correspondant aux primes payées au titre des contrats à primes
+périodiques conclus ou prorogés du 20 septembre 1995 au 31 décembre 1995 ;
 
-((- ou aux primes payées du 1er janvier 1995 au 19 septembre 1995 au titre de
-contrats à versements libres ou à prime unique conclus ou prorogés avant le 20
-septembre 1995 ;
+3° Le montant correspondant aux primes payées au titre de contrats à primes
+périodiques conclus ou prorogés du 1er janvier 1996 au 4 septembre 1996.
 
-((2° D'autre part, le montant correspondant aux primes payées à compter du 20
-septembre 1995 au titre de contrats à versements libres ou à prime unique quelle
-que soit la date de leur conclusion ou de leur prorogation ou de contrats à
-primes périodiques conclus ou prorogés à compter du 20 septembre 1995)) (M).
-
-2. pour les contrats ou avenants prévus ((au 2° de l'article 199 septies)) (M)
-les nom et prénoms du bénéficiaire du capital ou de la rente viagère;
+2. pour les contrats ou avenants prévus au 2° de l'article 199 septies les nom
+et prénoms du bénéficiaire du capital ou de la rente viagère ;
 
 III. Lorsque les contrats d'assurance en cas de décès visés au 2° de l'article
 199 septies sont souscrits sous la forme de contrats collectifs, l'organisme
@@ -55,5 +48,3 @@ souscripteur délivre à ses adhérents le certificat décrit au II.
 IV. Le certificat décrit au II est joint par le souscripteur à sa déclaration
 d'ensemble des revenus de l'année au titre de laquelle il peut bénéficier de la
 réduction d'impôt.
-
-(M) Modifications de l'arrêté du 30 janvier 1996.

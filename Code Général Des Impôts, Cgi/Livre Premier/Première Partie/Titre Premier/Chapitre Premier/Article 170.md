@@ -4,10 +4,13 @@ Article 170
 audit impôt est tenue de souscrire et de faire parvenir à l'administration une
 déclaration détaillée de ses revenus et bénéfices et de ses charges de famille.
 
-Toutefois, dans tous les cas où le contribuable n'est pas imposable à raison de
-l'ensemble de ses revenus ou bénéfices, la déclaration est limitée à
-l'indication de ceux de ces revenus ou bénéfices qui sont soumis à l'impôt sur
-le revenu.
+((Lorsque)) (M) le contribuable n'est pas imposable à raison de l'ensemble de
+ses revenus ou bénéfices, la déclaration est limitée à l'indication de ceux de
+ces revenus ou bénéfices qui sont soumis à l'impôt sur le revenu.
+
+((Dans tous les cas, la déclaration prévue au premier alinéa doit mentionner
+également le montant des bénéfices exonérés en application des articles 44
+sexies, 44 octies et 44 decies.)) (M)
 
 1 bis Les époux doivent conjointement signer la déclaration d'ensemble des
 revenus de leur foyer.
@@ -44,3 +47,5 @@ applicable aux autres éléments du revenu global.
 5. Le contribuable qui a demandé l'application des dispositions de l'article 163
 A est tenu de déclarer chaque année la fraction des indemnités qui doit être
 ajoutée à ses revenus de l'année d'imposition.
+
+(M) Modification.

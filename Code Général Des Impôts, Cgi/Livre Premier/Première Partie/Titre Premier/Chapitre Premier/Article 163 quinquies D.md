@@ -17,12 +17,12 @@ Les sommes versées sur un plan d'épargne en actions ne peuvent être employée
 l'acquisition de titres offerts dans les conditions mentionnées à l'article 80
 bis.
 
-2. Les titres ou parts dont la souscription a permis au titulaire du plan de
+2. ((Les titres ou parts dont la souscription a permis au titulaire du plan de
 bénéficier des avantages fiscaux résultant des dispositions des 2° quater et 2°
-quinquies de l'article 83, des articles 150 U, 150 V, 163 quinquies A, 163
-quinquies B, 163 septdecies, 199 undecies, 199 terdecies et 199 terdecies A, du
-troisième alinéa de l'article 726 ainsi que du III ter de l'article 810 ne
-peuvent figurer dans le plan.
+quinquies de l'article 83, des articles 83 ter, 150 U, 150 V, 163 quinquies A,
+163 quinquies B, 163 septdecies, 199 undecies, 199 terdecies et 199 terdecies A,
+du I bis de l'article 163 bis C, du troisième alinéa de l'article 726 ainsi que
+du III ter de l'article 810 ne peuvent figurer dans le plan)) (M).
 
 3. Le titulaire du plan, son conjoint et leurs ascendants et descendants ne
 doivent pas, pendant la durée du plan, détenir ensemble, directement ou
@@ -41,3 +41,5 @@ figurant sur le plan ou tout rachat entraîne la clôture du plan.
 
 IV. Les avoirs fiscaux et crédits d'impôt attachés aux produits encaissés dans
 le cadre du plan sont restitués dans des conditions fixées par décret.
+
+(M) Modification.

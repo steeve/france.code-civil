@@ -76,22 +76,25 @@ territoriales.
 2° La seconde fraction est répartie par application des dispositions du II. Son
 montant est fixé par le comité des finances locales par différence entre les
 ressources prévues à l'article 1648 A bis et les sommes nécessaires à
-l'application des dispositions du 1° ci-dessus ((ainsi qu'à l'application des
+l'application des dispositions du 1° ci-dessus ainsi qu'à l'application des
 dispositions du B de l'article 4 de la loi n° 96-987 du 14 novembre 1996
-relative à la mise en oeuvre du pacte de relance pour la ville)) (M). Les sommes
-ainsi dégagées ne peuvent être inférieures à 90 p. 100 du montant des ressources
+relative à la mise en oeuvre du pacte de relance pour la ville. Les sommes ainsi
+dégagées ne peuvent être inférieures à 90 p. 100 du montant des ressources
 définies aux 1°, 2° et 3° du II de l'article 1648 A bis.
 
 II. Le surplus des ressources du fonds défini au 2° du I comporte :
 
 1° (Abrogé) ;
 
-2° Une première part, au plus égale à 25 % de ce surplus, qui sert à verser une
-compensation aux communes qui enregistrent d'une année sur l'autre une perte
-importante de bases d'imposition à la taxe professionnelle. Cette compensation
-est versée de manière dégressive sur deux ans. Ce délai est porté à quatre ans
-pour les communes bénéficiaires de cette première part, à compter du 1er janvier
-1990.
+2° Une première part, ((au plus égale à 27 % de ce surplus)) (M), qui sert à
+verser une compensation aux communes qui enregistrent d'une année sur l'autre
+une perte importante de bases d'imposition à la taxe professionnelle. Cette
+compensation est versée de manière dégressive sur deux ans. Ce délai est porté à
+quatre ans pour les communes bénéficiaires de cette première part, à compter du
+1er janvier 1990.
+
+((Ce délai est réduit à trois ans pour les communes bénéficiaires de cette
+première part, à compter du 1er janvier 1998)) (M).
 
 Les conditions que doivent remplir les communes pour bénéficier de cette
 première part ainsi que le calcul des attributions qui leur reviennent sont
@@ -110,6 +113,16 @@ La deuxième année, de 75 p. 100 de l'attribution reçue l'année précédente 
 La troisième année, de 50 p. 100 de l'attribution reçue la première année ;
 
 La quatrième année, de 25 p. 100 de l'attribution reçue la première année.
+
+((A compter du 1er janvier 1998, les communes dont les pertes de bases sont
+compensées sur trois ans bénéficient :
+
+((- la première année, d'une attribution au plus égale à 90 % de la perte de
+bases qu'elles ont enregistrée ;
+
+((- la deuxième année, de 75 % de l'attribution reçue l'année précédente ;
+
+((- la troisième année, de 50 % de l'attribution reçue la première année)) (M).
 
 Toutefois, à compter du 1er janvier 1986, cette durée est portée à cinq ans pour
 les communes situées dans les cantons où l'Etat anime une politique de
@@ -147,7 +160,7 @@ A V ter.
 V. Les modalités d'application du présent article sont fixées par décret en
 Conseil d'Etat (1).
 
-(M) Modification de la loi 96-987.
+(M) Modification.
 
 (1) Décret 85-260 du 22 février 1985 (JO du 24), décret 91-1081 du 14 octobre
 1991 (JO du 19) et décret n° 92-568 du 30 juin 1992 (JO du 1er juillet).

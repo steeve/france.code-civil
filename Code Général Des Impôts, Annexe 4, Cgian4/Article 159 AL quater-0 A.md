@@ -3,36 +3,36 @@ Article 159 AL quater-0 A
 Le montant de la taxe prévue à l'article 363 D de l'annexe II au code général
 des impôts est fixé comme suit par kilogramme net :
 
-Viande de boeuf et viande de veau : 0,048 F ;
+((a. Viande de boeuf et viande de veau : 0,0480 F ;
 
-Viande de porc : 0,036 F ;
+b. Viande de porc : 0,0360 F ;
 
-Viande de mouton : 0,046 5 F ;
+c. Viande de mouton : 0,0465 F ;
 
-Viandes des espèces chevaline, asine et de leurs croisements :
+d. Viandes des espèces chevaline, asine et de leurs croisements :
 
-0,048 F ;
+0,0480 F ;
 
-Viande de l'espèce caprine : 0,03 F ;
+e. Viande de l'espèce caprine : 0,0300 F ;
 
-Viande de lapin : 0,022 F ;
+f. Viande de lapin : 0,0220 F ;
 
-((Viande de poulet et de coq non labellisés : 0,008 F ;
+g. Viande de poulet et de coq non labellisés : 0,0085 F ;
 
-((Viande de poulet et de coq labellisés : 0,015 F ;
+h. Viande de poulet et de coq labellisés : 0,0159 F ;
 
-Viande de poule de réforme : 0,036 F ;
+i. Viande de poule de réforme : 0,0420 F ;
 
-((Viande de dinde non labellisée : 0,010 F ;
+j. Viande de dinde non labellisée : 0,0106 F ;
 
-((Viande de dinde labellisée : 0,020 F ;
+k. Viande de dinde labellisée : 0,0212 F ;
 
-((Viande de canard non labellisé : 0,015 5 F ;
+l. Viande de canard non labellisé : 0,0165 F ;
 
-((Viande de canard labellisé : 0,020 F ;
+m. Viande de canard labellisé : 0,0212 F ;
 
-((Viande de pintade et d'oie non labellisées : 0,018 F ;
+n. Viande de pintade et d'oie non labellisées : 0,0191 F ;
 
-((Viande de pintade et d'oie labellisées : 0,020 F)) (M).
+o. Viande de pintade et d'oie labellisées : 0,0212 F.)) (M)
 
-(M) Modifications de l'arrêté 1996-12-28.
+(M) Modification.

@@ -12,4 +12,7 @@ l'existence des comptes et porte à la connaissance des services autorisés à
 consulter ce fichier (1) la liste de ceux qui sont détenus par une ou plusieurs
 personnes physiques ou morales.
 
+Les informations ne peuvent être communiquées qu'aux personnes ou organismes
+bénéficiant d'une habilitation législative et dans la limite fixée par la loi.
+
 (1) Arrêté du 14 juin 1982, art. 4, (J.O. des 21 et 22)

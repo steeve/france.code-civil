@@ -29,3 +29,8 @@ perception fixé par 1.000 unités.
 Les tabacs manufacturés autres que les cigarettes sont soumis à un taux normal
 applicable à leur prix de vente au détail, sous réserve d'un minimum de
 perception fixé par mille unités ou par mille grammes.
+
+Pour l'année 1998, le montant du droit de consommation, applicable à un produit,
+ne peut être inférieur au montant du droit de consommation calculé sur la base
+du prix de vente au détail résultant de la première homologation postérieure au
+1er décembre 1997.

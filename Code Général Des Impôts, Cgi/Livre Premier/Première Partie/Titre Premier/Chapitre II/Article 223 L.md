@@ -8,8 +8,8 @@ aux articles 220 quater et 220 quater A.
 
 3. Les déductions effectuées par des sociétés du groupe au titre des
 dispositions du 2 de l'article 39 quinquies A et du paragraphe II de l'article
-238 bis HA à raison des sommes versées pour la souscription au capital d'autres
-sociétés du même groupe sont réintégrées au résultat d'ensemble.
+((217 undecies)) (M) à raison des sommes versées pour la souscription au capital
+d'autres sociétés du même groupe sont réintégrées au résultat d'ensemble.
 
 4. Si les résultats d'une société du groupe sont imposables selon les modalités
 prévues à l'article 217 bis, les sommes qui leur sont ajoutées ou retranchées
@@ -130,7 +130,7 @@ comporte l'indication de la durée de cet exercice.
 La société mère visée au premier alinéa du présent d ajoute au résultat
 d'ensemble de l'exercice qui y est également mentionné les sommes dont la
 réintégration est prévue aux articles 223 F, 223 R ainsi qu'au b du présent 6 du
-fait de la sortie du groupe de toutes les sociétés qui le composaient. ((e. Les
+fait de la sortie du groupe de toutes les sociétés qui le composaient. e. Les
 dispositions du c sont applicables lorsque la société mère d'un groupe fait
 l'objet d'une scission dans les conditions prévues à l'article 210 B. Chaque
 société bénéficiaire des apports procède aux réintégrations mentionnées au
@@ -143,12 +143,9 @@ dans le traité de scission.
 
 Pour l'application des dispositions du présent e, la société absorbante et la
 société absorbée visées au c s'entendent respectivement de chacune des sociétés
-bénéficiaires des apports et de la société scindée)) (M).
+bénéficiaires des apports et de la société scindée .
 
 (1) Dispositions applicables à l'impôt dû par les sociétés sur leurs résultats
 des exercices clos à compter du 31 décembre 1989.
 
-[*Cf. Instruction 1995-01-17 4H-2-95*].
-
-(M) Modification de la loi 96-314. Ces dispositions s'appliquent aux opérations
-de scission intervenues à compter du 1er avril 1996.
+(M) Modification.

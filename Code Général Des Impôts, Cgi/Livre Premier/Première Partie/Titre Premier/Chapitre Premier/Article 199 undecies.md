@@ -48,10 +48,9 @@ de l'agriculture, du bâtiment et des travaux publics, des transports et de
 l'artisanat ;
 
 e. Au montant des souscriptions en numéraire au capital d'une société soumise à
-l'impôt sur les sociétés, mentionnée au II bis de l'article 238 bis HA et
-réalisées à compter du 1er juillet 1993 sous réserve de l'obtention d'un
-agrément préalable du ministre chargé du budget, délivré dans les conditions
-prévues au III ter du même article.
+l'impôt sur les sociétés, mentionnée au II bis de l'article ((217 undecies)) (M)
+sous réserve de l'obtention d'un agrément préalable du ministre chargé du
+budget, délivré dans les conditions prévues au III du même article.
 
 Lorsque la société affecte tout ou partie de la souscription à la construction
 d'immeubles destinés à l'exercice d'une des activités visées ci-dessus, elle
@@ -74,7 +73,7 @@ Un décret détermine les conditions d'application de l'alinéa précédent.
 
 La réduction d'impôt prévue au premier alinéa s'applique aux souscriptions en
 numéraire au capital de sociétés mentionnées au cinquième alinéa du II de
-l'article 238 bis HA et réalisées à compter du 1er juillet 1993.
+l'article ((217 undecies)) (M).
 
 Les souscripteurs de parts ou actions des sociétés mentionnées au présent 1
 doivent s'engager à les conserver pendant cinq ans à compter de la date de la
@@ -84,7 +83,10 @@ souscription.
 du capital des sociétés mentionnées au 1 et dont le montant est supérieur à
 30.000.000 F doit avoir été portée, préalablement à sa réalisation, à la
 connaissance du ministre chargé du budget, et n'avoir pas appelé d'objection
-motivée de sa part dans un délai de trois mois.
+motivée de sa part dans un délai de trois mois. ((Il en est de même de la
+construction d'un ou plusieurs immeubles ayant fait l'objet d'un seul permis de
+construire dont le prix de revient est supérieur à 30 000 000 F ou de
+l'acquisition de logements situés dans de tels immeubles)) (M).
 
 3. La réduction d'impôt s'applique pour le calcul de l'impôt dû au titre de
 l'année d'achèvement de l'immeuble, ou de son acquisition si elle est
@@ -138,8 +140,8 @@ fusion à respecter les engagements mentionnés au huitième alinéa du 1 pour l
 fraction du délai restant à courir (1).
 
 Quand un contribuable pratique la réduction d'impôt définie au présent article,
-((les dispositions du a du 1° du I de l'article 199 sexies)) (M) et des articles
-199 nonies à 199 decies B ne sont pas applicables.
+les dispositions du a du 1° du I de l'article 199 sexies et des articles 199
+nonies à 199 decies B ne sont pas applicables.
 
 La location d'un logement neuf consentie dans des conditions fixées par décret à
 un organisme public ou privé pour le logement à usage d'habitation principale de
@@ -153,9 +155,9 @@ futur d'achèvement avant le 1er janvier 1986.
 conditions, aux territoires d'outre-mer et aux collectivités territoriales de
 Mayotte et Saint-Pierre-et-Miquelon.
 
-7. ((Les dispositions du 5 du I de l'article 197 sont applicables)) (M).
+7. Les dispositions du 5 du I de l'article 197 sont applicables.
 
 (1) Ces dispositions s'appliquent aux opérations intervenues à compter du 1er
 janvier 1994.
 
-(M) Modification de la loi 96-1181.
+(M) Modification de la loi 97-1269.

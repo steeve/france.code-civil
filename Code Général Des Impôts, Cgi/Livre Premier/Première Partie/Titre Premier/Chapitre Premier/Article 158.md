@@ -31,12 +31,18 @@ suivants :
 3° Revenus correspondant à des dividendes d'actions émises en France. Toutefois,
 cet abattement ne peut être effectué sur le montant des revenus d'actions
 souscrites avec le bénéfice de la réduction d'impôt prévue à l'article 199
-undecies. Il ne s'applique pas aux revenus d'actions qui ne répondent pas aux
-conditions prévues par la première phrase du 1° de l'article 163 octies
-lorsqu'ils sont encaissés par des personnes qui détiennent, directement ou
-indirectement, plus de 35 p. 100 des droits sociaux dans la société
-distributrice. Pour l'application de cette disposition, les droits sociaux
-appartenant au conjoint sont considérés comme détenus indirectement.
+undecies. ((Il s'applique aux revenus d'actions de sociétés françaises inscrites
+à la cote officielle ou au second marché des bourses françaises de valeurs ou
+qui, inscrites au hors-cote, font l'objet de transactions d'une importance et
+d'une fréquence qui sont fixées par décret lorsqu'ils sont encaissés par des
+personnes qui détiennent, directement ou indirectement, plus de 35 % des droits
+sociaux dans la société distributrice)) (M). Il ne s'applique pas aux revenus
+d'actions qui ne répondent pas aux conditions prévues par la première phrase du
+1° de l'article 163 octies lorsqu'ils sont encaissés par des personnes qui
+détiennent, directement ou indirectement, plus de 35 p. 100 des droits sociaux
+dans la société distributrice. Pour l'application de cette disposition, les
+droits sociaux appartenant au conjoint sont considérés comme détenus
+indirectement.
 
 4° (Dispositions abrogées) ;
 
@@ -126,7 +132,7 @@ mentionnées au 6 sont déterminés conformément aux dispositions des articles 
 90.
 
 Les pensions et retraites font l'objet d'un abattement de 10 % qui ne peut, pour
-l'imposition des revenus de 1996, excéder 28 000 F. Ce plafond est applicable au
+l'imposition des revenus de 1996, excéder 28.000 F. Ce plafond est applicable au
 montant total des pensions et retraites perçues par les membres du foyer fiscal.
 Cet abattement ne peut excéder 24 000 F pour l'imposition des revenus de 1997,
 20 000 F pour l'imposition des revenus de 1998 et 16 000 F pour l'imposition des
@@ -165,6 +171,10 @@ b bis. Les dispositions du a sont applicables aux prestations servies sous forme
 de rentes ou pour perte d'emploi subie, au titre des contrats d'assurance groupe
 ou des régimes mentionnés au deuxième alinéa de l'article 154 bis (6) ;
 
+((Les dispositions du a sont également applicables aux prestations servies sous
+forme de rentes au titre des contrats d'assurance de groupe visés au premier
+alinéa de l'article 154 bis-0 A)) (M) (7).
+
 b ter. les dispositions du a sont applicables aux pensions servies au titre des
 plans d'épargne retraite institués par la loi n° 97-277 du 25 mars 1997 créant
 les plans d'épargne retraite ainsi qu'aux sommes retirées de ces plans.
@@ -184,7 +194,7 @@ en vue de la retraite ou de versement d'une pension présentant ou non un
 caractère viager, les dispositions du a sont applicables aux sommes retirées ou
 à la pension perçue.
 
-Lorsque le retrait dépasse une somme fixée par décret (7), le contribuable peut
+Lorsque le retrait dépasse une somme fixée par décret (8), le contribuable peut
 demander l'application du système prévu à l'article 150 R, sans fractionnement
 du paiement.
 
@@ -224,6 +234,10 @@ conditions que les revenus énumérés à l'article 124.
 Ces dispositions ne sont pas applicables aux arrérages correspondant aux
 cotisations ayant fait l'objet de la déduction prévue au 1° bis de l'article 83.
 
+(M) Modification.
+
+Conséquence de la péremption de l'article 163 octies.
+
 (1) Cette disposition s'applique à compter de l'imposition des revenus de 1994.
 
 (2) Ces dispositions s'appliquent aux intérêts encaissés à compter du 1er août
@@ -232,12 +246,14 @@ cotisations ayant fait l'objet de la déduction prévue au 1° bis de l'article 
 (3) Loi n° 79-594 du 13 juillet 1979, abrogée par la loi n° 88-120 du 23
 décembre 1988.
 
-(4) Pour l'imposition des revenus de 1995, le minimum d'abattement est fixé à
-1.960 F.
+(4) Pour l'imposition des revenus de 1997, le minimum d'abattement est fixé à
+2.020 F.
 
-(5) La limite est fixée à 680.000 F pour l'imposition des revenus de 1995. Elle
-était de 667.000 F pour 1994.
+(5) La limite est fixée à 701.000 F pour l'imposition des revenus de 1997. Elle
+était de 693.000 F pour 1996.
 
 (6) Disposition applicable à compter du 13 février 1994.
 
-(7) Annexe III, art. 41 ZH.
+(7) Disposition applicable à compter du 19 novembre 1997.
+
+(8) Annexe III, art. 41 ZH.

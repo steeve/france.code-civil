@@ -32,7 +32,9 @@ en cours d'exercice, il est calculé compte tenu de la durée de présence des
 salariés en cause pendant l'exercice.
 
 Ces dispositions ne s'appliquent pas aux entreprises qui exercent une activité
-bancaire, financière, d'assurances, de gestion ou de location d'immeubles.
+bancaire, financière, d'assurances, de gestion ou de location d'immeubles, ni
+aux entreprises exerçant une activité de pêche maritime créées à compter du 1er
+janvier 1997.
 
 II. Le capital des sociétés nouvelles ne doit pas être détenu, directement ou
 indirectement, pour plus de 50 p. 100 par d'autres sociétés.

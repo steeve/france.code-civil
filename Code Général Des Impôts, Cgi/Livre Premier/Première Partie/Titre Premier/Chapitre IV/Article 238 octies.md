@@ -45,10 +45,7 @@ Elles peuvent également être placées sous le régime d'exonération prévu à
 l'article 210, en cas de fusion de sociétés ou d'opérations assimilées
 remplissant les conditions prévues au 2 dudit article 210.
 
-III. Les profits que les entreprises relevant de l'impôt sur le revenu ont
-placés sous le régime de l'exonération conditionnelle prévue au I sont soumis à
-cet impôt au taux de 30 % lorsqu'ils sont dégagés du 1er janvier 1972 au 31
-décembre 1981 à l'occasion de l'aliénation d'un bien acquis en remploi.
+III. (Périmé) (M).
 
 (1) Annexe III, art. 10 H bis et 46 quater-0 R.
 
@@ -59,3 +56,5 @@ décembre 1981 à l'occasion de l'aliénation d'un bien acquis en remploi.
 (4) Annexe II, art. 168.
 
 (5) Annexe II, art. 166, 167 et 169.
+
+(M) Modification.

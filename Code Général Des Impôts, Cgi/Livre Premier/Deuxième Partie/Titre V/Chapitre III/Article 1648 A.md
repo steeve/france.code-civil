@@ -32,7 +32,9 @@ nouvelles.
 
 I bis. Pour les établissements produisant de l'énergie ou traitant des
 combustibles, toute unité de production ou de traitement est considérée comme un
-établissement pour l'application du paragraphe I (1).
+établissement ((pour l'application des I et III)) (1) (M).
+
+((Les dispositions du I sexies ne sont alors pas applicables)) (M)
 
 I ter. Lorsque, dans un groupement de communes ayant opté pour le régime fiscal
 prévu au II de l'article 1609 quinquies C, les bases d'imposition d'un
@@ -77,6 +79,22 @@ taux de taxe professionnelle du district.
 
 I quinquies. La moyenne des bases de taxe professionnelle par habitant à retenir
 pour l'application en Corse des I, I ter et I quater est multipliée par 0,75.
+
+((I sexies. A compter du 1er janvier 1998, lorsqu'à la suite d'une opération
+d'apport, de scission d'entreprise ou mise à disposition de biens visés à
+l'article 1469, intervenue après le 31 décembre 1995, les éléments d'imposition
+d'un établissement qui a donné lieu, l'année de l'opération ou l'année
+précédente si l'opération intervient le 1er janvier, aux prélèvements prévus aux
+I, I ter et I quater, sont répartis entre plusieurs établissements imposables
+dans la même commune au nom d'entreprises contrôlées en droit directement ou
+indirectement par une même personne, ces établissements sont réputés n'en
+constituer qu'un seul pour l'application des dispositions du présent article,
+sous réserve que leur activité consiste en la poursuite exclusive d'une ou
+plusieurs activités précédemment exercées dans l'établissement d'origine.
+
+((Ces dispositions sont définitivement inapplicables lorsqu'au 1er janvier d'une
+année les conditions relatives à l'activité et au contrôle ne sont pas
+remplies)) (M).
 
 II. Les ressources du fond sont réparties par le conseil général si les
 collectivités concernées sont situées dans les limites d'un même département, ou
@@ -130,41 +148,38 @@ l'une ou l'autre des catégories définies au a et au b ci-dessus.
 Chacune des catégories définies aux 1° et 2° recevra au minimum 40 % des
 ressources de ce fonds.
 
-III. Lorsque l'excédent provient d'un établissement produisant de l'énergie ou
-traitant des combustibles, créé à partir du 1er janvier 1976, la répartition de
-la fraction de ressources mentionnée au 2° du II, établie par le ou les
-départements concernés dans les conditions prévues au II, est soumise à
-l'accord, à la majorité qualifiée, des communes d'implantation et des communes
-concernées, telles qu'elles sont définies au 2° du II (2).
+III. Lorsque l'excédent provient d'un établissement ((au sens du I bis)) (M)
+produisant de l'énergie ou traitant des combustibles, créé à partir du 1er
+janvier 1976, la répartition de la fraction de ressources mentionnée au 2° du
+II, établie par le ou les départements concernés dans les conditions prévues au
+II, est soumise à l'accord, à la majorité qualifiée, des communes d'implantation
+et des communes concernées, telles qu'elles sont définies au 2° du II (2).
 
-Pour l'application du présent paragraphe, chaque unité de production ou de
-traitement est considérée comme un établissement.
-
-IV. ((A défaut de l'accord prévu au sein de la commission interdépartementale
-par le II et le IV bis ou entre les communes d'implantation et les communes
-concernées par le III)) (M) la répartition est effectuée par arrêté du ministre
-de l'intérieur.
+IV. A défaut de l'accord prévu au sein de la commission interdépartementale par
+le II et le IV bis ou entre les communes d'implantation et les communes
+concernées par le III la répartition est effectuée par arrêté du ministre de
+l'intérieur.
 
 IV bis. 1° Sur la partie du fonds alimentée par l'écrêtement des bases des
 groupements soumis, de plein droit ou après option, aux dispositions fiscales de
-l'article 1609 nonies C, le conseil général ((ou, le cas échéant, la commission
-interdépartementale)) (M) prélève, par priorité, au profit du groupement dont
-les bases ont été écrêtées, 20 p. 100 au moins et 40 p. 100 au plus du montant
-de l'écrêtement.
+l'article 1609 nonies C, le conseil général ou, le cas échéant, la commission
+interdépartementale prélève, par priorité, au profit du groupement dont les
+bases ont été écrêtées, 20 p. 100 au moins et 40 p. 100 au plus du montant de
+l'écrêtement.
 
-((Le conseil général ou, le cas échéant, la commission interdépartementale
+Le conseil général ou, le cas échéant, la commission interdépartementale
 répartit le solde :
 
-((a) Par priorité, et à concurrence du montant de l'écrêtement, au profit des
+a) Par priorité, et à concurrence du montant de l'écrêtement, au profit des
 communes ou syndicats de communes bénéficiaires des ressources, pour le
 remboursement des annuités d'emprunts contractés par eux avant le 1er juillet
 1975 ;
 
-((b) Entre les communes et les groupements de communes à fiscalité propre
+b) Entre les communes et les groupements de communes à fiscalité propre
 défavorisés par la faiblesse de leur potentiel fiscal ou l'importance de leurs
 charges ;
 
-((c) Entre les communes qui répondent aux conditions fixées au 2° du II)) (M).
+c) Entre les communes qui répondent aux conditions fixées au 2° du II.
 
 2° Sur la partie du fonds alimentée par l'écrêtement des bases des groupements à
 fiscalité propre, le conseil général ((ou, le cas échéant, la commission
@@ -174,10 +189,10 @@ l'écrêtement. ((Cette proportion est fixée de telle sorte que les communes
 bénéficiaires du fonds ne subissent pas, d'une année sur l'autre, une diminution
 excessive du montant de leur attribution liée à cette affectation prioritaire.
 
-((A compter du 1er janvier 1996, le prélèvement au profit du groupement dont les
+A compter du 1er janvier 1996, le prélèvement au profit du groupement dont les
 bases ont été écrêtées est fixé à 30 p. 100 au moins et 60 p. 100 au plus du
 montant de l'écrêtement, lorsque le groupement a été créé après le 31 décembre
-1992)) (M).
+1992.
 
 Dans le cas où l'écrêtement concerne les bases d'établissements installés sur
 une zone d'activités économiques et assujetties aux dispositions du II de
@@ -185,8 +200,8 @@ l'article 1609 quinquies C du présent code, ce reversement ne peut être
 inférieur aux annuités des emprunts contractés pour l'équipement de cette zone
 dans la limite des ressources prélevées par l'écrêtement.
 
-((Le conseil général ou, le cas échéant, la commission interdépartementale
-répartit le solde dans les conditions prévues au deuxième alinéa du 1°)) (M).
+Le conseil général ou, le cas échéant, la commission interdépartementale
+répartit le solde dans les conditions prévues au deuxième alinéa du 1°.
 
 V. Une fraction des recettes départementales de la taxe professionnelle peut
 également être affectée au fonds par décision du conseil général. Ce supplément
@@ -206,15 +221,15 @@ l'ensemble de l'agglomération, proportionnelle à la population de la commune ;
 
 b. A compter de la seconde année de fonctionnement de la communauté ou du
 syndicat d'agglomération nouvelle, le potentiel fiscal de chaque commune est
-celui qui est défini ((à l'article L5334-16 du code général des collectivités
-territoriales)) (M).
+celui qui est défini à l'article L5334-16 du code général des collectivités
+territoriales.
 
 VI. Les conditions d'application du présent article sont fixées par décret en
 Conseil d'Etat (2).
 
 (1) Cette disposition a un caractère interprétatif.
 
+(M) Modification de la loi 97-1239.
+
 (2) Voir annexe II, art. 328 à 328 B et décret n° 81-120 du 6 février 1981 (J.O.
 des 9 et 10).
-
-(M) Modifications.

@@ -100,9 +100,9 @@ conclu.
 
 Ces dispositions s'appliquent aux contrats, options et autres instruments
 financiers à terme conclus en France ou à l'étranger, qui sont cotés sur une
-bourse de valeurs ou traités sur un marché ou par référence à un marché (4) ((à
+bourse de valeurs ou traités sur un marché ou par référence à un marché (4) à
 l'exception des contrats visés au quatrième alinéa du 7, reçus dans le cadre
-d'une opération d'échange visée à ce même alinéa )) (M) ;
+d'une opération d'échange visée à ce même alinéa (4') ;
 
 2° Dans le cas où un contrat à terme d'instruments financiers en cours à la
 clôture de l'exercice a pour clause exclusive de compenser le risque d'une
@@ -168,24 +168,24 @@ Ces dispositions ne sont pas applicables si le total de la soulte et, le cas
 la valeur nominale des actions attribuées ou si ce total excède la plus-value
 réalisée.
 
-((Lorsque, à l'occasion d'une opération d'échange d'actions mentionnée au
-premier alinéa, l'un des coéchangistes garantit, par un contrat d'instrument
-financier, à une date fixée dans l'offre et comprise entre douze et soixante
-mois suivant la date de clôture de cette offre, le cours des actions remises à
-l'échange dont il est l'émetteur, le profit ou la perte résultant de l'échange
-d'actions est soumis aux dispositions de ce premier alinéa et le profit
-résultant de l'attribution de ce contrat d'instrument financier n'est pas
-compris dans les résultats de l'exercice de l'échange ; les sommes reçues par le
-coéchangiste sont comprises, selon le cas, dans les résultats de l'exercice de
-cession du contrat ou de celui de la mise en oeuvre de la garantie prévue par le
-contrat. Dans ce dernier cas, les sommes reçues peuvent bénéficier du régime des
+Lorsque, à l'occasion d'une opération d'échange d'actions mentionnée au premier
+alinéa, l'un des coéchangistes garantit, par un contrat d'instrument financier,
+à une date fixée dans l'offre et comprise entre douze et soixante mois suivant
+la date de clôture de cette offre, le cours des actions remises à l'échange dont
+il est l'émetteur, le profit ou la perte résultant de l'échange d'actions est
+soumis aux dispositions de ce premier alinéa et le profit résultant de
+l'attribution de ce contrat d'instrument financier n'est pas compris dans les
+résultats de l'exercice de l'échange ; les sommes reçues par le coéchangiste
+sont comprises, selon le cas, dans les résultats de l'exercice de cession du
+contrat ou de celui de la mise en oeuvre de la garantie prévue par le contrat.
+Dans ce dernier cas, les sommes reçues peuvent bénéficier du régime des
 plus-values à long terme prévu à l'article 39 duodecies si les actions remises
 et reçues à l'échange relèvent de ce régime, respectivement à la date de
 l'opération d'échange et à l'échéance du contrat en cause, et si l'action dont
 le cours est garanti par ce contrat ainsi que ce dernier ont été conservés
 jusqu'à cette échéance. Pour l'appréciation de cette dernière condition, les
 contrats conservés jusqu'à la date de leur échéance sont affectés par priorité
-aux actions encore détenues à cette date)) (M).
+aux actions encore détenues à cette date.
 
 Lorsqu'une entreprise remet à l'échange plusieurs titres en application des
 modalités d'échange, la valeur mentionnée à la deuxième phrase du premier alinéa
@@ -286,12 +286,12 @@ loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales n'a pas
 d'incidence sur les résultats imposables, par dérogation aux 1 et 2 du présent
 article ;
 
-2° Toutefois, les dispositions du onzième alinéa du 5° du 1 de l'article 39 sont
-applicables à la fraction de la provision constituée à raison de l'écart
-d'équivalence négatif, qui correspond à la dépréciation définie au douzième
-alinéa du 5° du 1 de l'article 39, des titres évalués selon cette méthode.
-L'excédent éventuel de cette provision n'est pas déductible pour l'assiette de
-l'impôt.
+2° Toutefois, les dispositions du ((quatorzième alinéa du 5° du 1 de l'article
+39)) (M) sont applicables à la fraction de la provision constituée à raison de
+l'écart d'équivalence négatif, qui correspond à la dépréciation définie au
+((quinzième alinéa du 5° du 1 de l'article 39)) (M), des titres évalués selon
+cette méthode. L'excédent éventuel de cette provision n'est pas déductible pour
+l'assiette de l'impôt.
 
 Les provisions qui sont transférées au poste d'écart d'équivalence ainsi que
 celles devenues sans objet en raison de l'application de la méthode d'évaluation
@@ -328,12 +328,12 @@ nationalisation, voir art. 248 A.
 clos à compter du 16 avril 1986. Pour les exercices en cours à cette date, voir
 loi n° 86-824 du 11 juillet 1986, art. 21-II.
 
-(3) Dispositions appplicables à compter du 1er janvier 1991.
+(3) Dispositions applicables à compter du 1er janvier 1991.
 
 (4) Voir annexe III, art. 2 A.
 
-(M) Modification de la loi 96-1182. Ces dispositions s'appliquent aux opérations
-d'échange réalisées à compter du 1er janvier 1997.
+(4')Ces dispositions s'appliquent aux opérations d'échange réalisées à compter
+du 1er janvier 1997.
 
 (5) Voir annexe III, art. 2 B.
 
@@ -347,5 +347,7 @@ exercices ouverts à compter du 1er janvier 1994.
 
 (8) Ces dispositions s'appliquent aux opérations qui affectent les résultats des
 exercices ouverts à compter du 1er janvier 1995.
+
+(M) Modification de la loi 97-1269.
 
 (9) Voir annexe III, art. 38 B.

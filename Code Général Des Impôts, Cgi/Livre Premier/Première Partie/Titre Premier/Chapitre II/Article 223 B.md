@@ -19,13 +19,13 @@ Il est majoré du montant des dotations complémentaires aux provisions
 constituées par une société après son entrée dans le groupe, à raison des
 créances qu'elle détient sur d'autres sociétés du groupe ou des risques qu'elle
 encourt du fait de telles sociétés. Il est minoré du montant des provisions
-rapportées en application du dixième alinéa du 5° du 1 de l'article 39 qui
+rapportées en application du treizième alinéa du 5° du 1 de l'article 39 qui
 correspondent aux dotations complémentaires mentionnées à la phrase qui précède
-si les sociétés visées à la même phrase sont ((membres du groupe ou d'un même
+si les sociétés visées à la même phrase sont membres du groupe ou d'un même
 groupe créé ou élargi dans les conditions prévues aux c, d ou e du 6 de
-l'article 223 L)) (M) (1) au titre de l'exercice au cours duquel ces provisions
-sont rapportées ; pour l'application de cette disposition, les provisions
-rapportées s'imputent en priorité sur les dotations les plus anciennes (2).
+l'article 223 L (1) au titre de l'exercice au cours duquel ces provisions sont
+rapportées ; pour l'application de cette disposition, les provisions rapportées
+s'imputent en priorité sur les dotations les plus anciennes (2).
 
 Le montant des jetons de présence et tantièmes distribués par les sociétés
 filiales du groupe est ajouté au résultat d'ensemble.
@@ -63,11 +63,11 @@ c. Si les titres cédés à la société membre du groupe ont été acquis
 immédiatement auparavant, auprès de personnes autres que celles mentionnées au
 septième alinéa du présent article, et en vue de rétrocession.
 
-(M) Modification de la loi 96-314.
-
 (1) Ces dispositions s'appliquent aux opérations de scission intervenues à
 compter du 1er avril 1996.
 
 (2) Les dispositions relatives aux provisions pour risques entrent en vigueur
 pour la détermination des résultats des exercices ouverts à compter du 1er
 janvier 1992.
+
+(M) Modification.

@@ -20,8 +20,7 @@ actions ou parts de sociétés immobilières et dont les résultats doivent êtr
 compris dans les bases de l'impôt sur le revenu au titre des bénéfices
 industriels ou commerciaux ;
 
-7° Les opérations concourant à la production ou à la livraison d'immeubles (1)
-(1').
+7° Les opérations concourant à la production ou à la livraison d'immeubles (1).
 
 Ces opérations sont imposables même lorsqu'elles revêtent un caractère civil.
 
@@ -45,22 +44,22 @@ fraction d'immeuble ;
 
 c) Les livraisons à soi-même d'immeubles.
 
-((Toutefois, la livraison à soi-même d'immeubles affectés ou destinés à être
+Toutefois, la livraison à soi-même d'immeubles affectés ou destinés à être
 affectés à l'habitation pour les trois quarts au moins de leur superficie totale
 et d'immeubles qui ne sont pas destinés à être utilisés pour la réalisation
 d'opérations soumises à la taxe sur la valeur ajoutée n'est imposée que
 lorsqu'il s'agit :
 
-((- d'immeubles construits par des sociétés dont les parts ou actions assurent
-en droit ou en fait l'attribution en propriété ou en jouissance d'un immeuble ou
+- d'immeubles construits par des sociétés dont les parts ou actions assurent en
+droit ou en fait l'attribution en propriété ou en jouissance d'un immeuble ou
 d'une fraction d'immeuble ;
 
-((- de logements sociaux à usage locatif mentionnés au 3° de l'article L. 351-2
-du code de la construction et de l'habitation financés au moyen d'un prêt prévu
-à l'article R. 331-1 du même code qui bénéficient de la décision favorable prise
+- de logements sociaux à usage locatif mentionnés au 3° de l'article L. 351-2 du
+code de la construction et de l'habitation financés au moyen d'un prêt prévu à
+l'article R. 331-1 du même code qui bénéficient de la décision favorable prise
 dans les conditions prévues aux articles R. 331-3 et R. 331-6 du même code à
 compter du 1er octobre 1996, et dont l'ouverture de chantier est intervenue à
-compter de cette date)) (M).
+compter de cette date.
 
 2. Les dispositions qui précèdent ne sont pas applicables :
 
@@ -96,6 +95,30 @@ construire lorsqu'elle est supérieure ;
 b) Est subordonnée à la condition que l'acquisition nouvelle soit effectuée
 moins de deux ans après l'achèvement de la construction (2).
 
+((7° bis Sous réserve de l'application du 7°, et dans la mesure où ces travaux
+portent sur des logements sociaux à usage locatif mentionnés aux 2° et 3° de
+l'article L. 351-2 du code de la construction et de l'habitation, les livraisons
+à soi-même :
+
+((a) De travaux d'amélioration mentionnés à l'article R. 323-3 du code de la
+construction et de l'habitation, qui bénéficient de la subvention prévue aux
+articles R. 323-1 à R. 323-12 dudit code, et qui ont fait l'objet de la décision
+favorable du représentant de l'Etat dans le département prévue à l'article R.
+323-5 du même code prise à compter du 1er janvier 1998 ;
+
+((b) De travaux d'amélioration, de transformation ou d'aménagement mentionnés à
+l'article R. 331-1 du code de la construction et de l'habitation, qui
+bénéficient d'un prêt prévu audit article, et qui ont fait l'objet de la
+décision favorable du représentant de l'Etat dans le département prévue aux
+articles R. 331-3 et R. 331-6 du même code prise à compter du 1er janvier 1998 ;
+
+((c) De travaux d'amélioration, de transformation ou d'aménagement autres que
+ceux mentionnés aux a et b, ayant fait l'objet d'une décision favorable du
+représentant de l'Etat dans le département prise à compter du 1er janvier 1998.
+
+((Un décret en Conseil d'Etat définit les conditions d'application des b et c
+;)) (M).
+
 8° Les opérations suivantes assimilées, selon le cas, à des livraisons de biens
 ou à des prestations de services effectuées à titre onéreux.
 
@@ -107,10 +130,9 @@ généralement, qu'il affecte à des fins étrangères à son entreprise, lorsqu
 bien ou les éléments le composant ont ouvert droit à une déduction complète ou
 partielle de la taxe sur la valeur ajoutée. Toutefois, ne sont pas visés les
 prélèvements effectués pour les besoins de l'entreprise pour donner des cadeaux
-de faible valeur et des échantillons. Le montant à retenir pour l'imposition
-((des prélèvements correspondant aux cadeaux de faible valeur)) (M1) est fixé
-par arrêté. Cette limite s'applique par objet et par an pour un même
-bénéficiaire (2');
+de faible valeur et des échantillons. Le montant à retenir pour l'imposition des
+prélèvements correspondant aux cadeaux de faible valeur est fixé par arrêté.
+Cette limite s'applique par objet et par an pour un même bénéficiaire ;
 
 b) L'affectation par un assujetti aux besoins de son entreprise d'un bien
 produit, construit, extrait, transformé, acheté, importé ou ayant fait l'objet
@@ -190,15 +212,9 @@ prévue par l'article 53 de la loi 86-1067 du 30 septembre 1986 modifiée relati
 course réalisés par les entraîneurs pour les chevaux dont ils sont
 propriétaires.
 
-(1) Voir Annexe II, art. 243 à 259. [*Cf. Instruction 1996-01-03 8A-1-96*].
-
-(1') Cf. Instruction 1997-02-18 8A-1-97. (M) Modification de la loi 96-1181.
+(1) Voir Annexe II, art. 243 à 259.
 
 (2) Voir Annexe II, art. 255.
-
-(2') Cf. Instruction 1997-03-20 3D-3-97.
-
-(M1) Modification de la loi 96-1182.
 
 (3) Voir Annexe IV, art. 23 N.
 
@@ -207,3 +223,5 @@ propriétaires.
 (5) Annexe IV, art. 45.
 
 (6) Annexe IV, art. 42 à 46.
+
+(M) Modification.

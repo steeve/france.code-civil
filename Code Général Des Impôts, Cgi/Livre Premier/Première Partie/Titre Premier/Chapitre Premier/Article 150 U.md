@@ -14,8 +14,7 @@ limité à 500 000 F.
 
 La plus-value dont l'imposition a été reportée est exonérée à condition qu'à
 l'issue de la cinquième année qui suit l'augmentation de capital, les capitaux
-propres mentionnés au 5° du II de l'article 220 sexies n'aient pas fait l'objet
-d'une réduction.
+propres n'aient pas fait l'objet d'une réduction.
 
 La plus-value est exonérée lorsque la réduction des capitaux propres est
 exclusivement motivée par l'apurement des pertes subies par la société après
@@ -33,8 +32,7 @@ l'entreprise exerce son activité principale dans le secteur de l'industrie et
 secteur.
 
 Ces dispositions sont exclusives de l'application des dispositions des articles
-83 ter, 163 quindecies, 199 undecies, 199 terdecies, 199 terdecies A, 220 sexies
-et 238 bis HE.
+83 ter, 199 undecies, 199 terdecies, 199 terdecies A et 238 bis HE.
 
 Un décret fixe les conditions d'application du présent article, et notamment les
 obligations déclaratives du contribuable.

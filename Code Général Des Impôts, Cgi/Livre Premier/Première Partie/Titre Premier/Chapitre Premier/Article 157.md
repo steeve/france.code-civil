@@ -12,8 +12,8 @@ l'exception des primes de remboursement attachées aux titres émis à compter d
 1er juin 1985 lorsqu'elles sont supérieures à 5 % du nominal et de celles
 distribuées ou réparties à compter du 1er janvier 1989 par un organisme de
 placement collectif en valeurs mobilières visé par la loi n° 88-1201 du 23
-décembre 1988 ((modifiée)) (M) lorsque ces primes représentent plus de 10 p. 100
-du montant de la distribution ou de la répartition.
+décembre 1988 modifiée lorsque ces primes représentent plus de 10 p. 100 du
+montant de la distribution ou de la répartition.
 
 Ces dispositions ne sont pas applicables aux primes de remboursement définies au
 II de l'article 238 septies A.
@@ -39,7 +39,15 @@ s'ajoutent aux versements effectués sur le plan (1) ;
 
 5° bis Les produits et plus-values que procurent les placements effectués dans
 le cadre du plan d'épargne en actions défini à l'article 163 quinquies D ainsi
-que les avoirs fiscaux et crédits d'impôt restitués (2) (2');
+que les avoirs fiscaux et crédits d'impôt restitués (2) (2'); ((toutefois, à
+compter de l'imposition des revenus de 1997, les produits, avoirs fiscaux et
+crédits d'impôt restitués procurés par des placements effectués en actions ou
+parts de sociétés qui ne sont pas admises aux négociations sur un marché
+réglementé, à l'exception des intérêts versés dans les conditions prévues à
+l'article 14 de la loi n° 47-1775 du 10 septembre 1947 portant statut de la
+coopération aux titres de capital de sociétés régies par cette loi, ne
+bénéficient de cette exonération que dans la limite de 10 % du montant de ces
+placements)) (M) ;
 
 5° ter La rente viagère, lorsque le plan d'épargne en actions défini à l'article
 163 quinquies D se dénoue après huit ans par le versement d'une telle rente ;
@@ -91,19 +99,16 @@ métiers.
 Il en est de même de la prime versée au travailleur manuel qui procède
 effectivement à la création ou au rachat d'une entreprise artisanale ;
 
-9° quater Le produit des placements en valeurs mobilières effectués sur un
-compte pour le développement industriel ouvert par les personnes physiques ayant
-leur domicile fiscal en France dans les établissements et organismes autorisés à
-recevoir des dépôts.
+9° quater Le produit des ((dépôts)) (M) effectués sur un compte pour le
+développement industriel ouvert par les personnes physiques ayant leur domicile
+fiscal en France dans les établissements et organismes autorisés à recevoir des
+dépôts.
 
 Il ne peut être ouvert qu'un compte par contribuable ou un pour chacun des époux
 soumis à une imposition commune.
 
 Les sommes déposées sur le compte prévu au premier alinéa ne peuvent excéder un
 plafond fixé par décret dans la limite de 30.000 F par compte.
-
-Les valeurs mobilières sont celles servant au financement de l'industrie
-française et entrant dans des catégories fixées par décret (4) ;
 
 9° quinquies Les intérêts des sommes inscrites sur les livrets
 d'épargne-entreprise ouverts dans les conditions fixées par l'article 1er de la
@@ -134,14 +139,14 @@ relative à l'indemnisation des français rapatriés d'outre-mer.
 
 21° Les avantages visés à l'article 163 bis D.
 
-22° ((Le versement de la prime d'épargne et de ses intérêts capitalisés ainsi
-que le versement au-delà de la huitième année qui suit l'ouverture du plan
-d'épargne populaire des produits capitalisés et de la rente viagère)) (M).
+22° Le versement de la prime d'épargne et de ses intérêts capitalisés ainsi que
+le versement au-delà de la huitième année qui suit l'ouverture du plan d'épargne
+populaire des produits capitalisés et de la rente viagère.
 
 Il en est de même lorsque le retrait des fonds intervient avant la fin de la
 huitième année à la suite du décès du titulaire du plan ou dans les deux ans du
 décès du conjoint soumis à imposition commune ou de l'un des événements suivants
-survenu à l'un d'entre eux (6):
+survenu à l'un d'entre eux :
 
 a) expiration des droits aux allocations d'assurance chômage prévues par le code
 du travail en cas de licenciement ;
@@ -185,14 +190,16 @@ Le retrait partiel de fonds intervenu dans les conditions prévues ci-dessus
 n'entraîne pas de clôture du plan mais interdit tout nouveau versement.
 
 Lorsque le retrait entraîne la clôture du plan, la somme des primes d'épargne et
-de leurs intérêts capitalisés, le cas échéant, est immédiatement versée (4').
+de leurs intérêts capitalisés, le cas échéant, est immédiatement versée.
 
 Un décret en Conseil d'Etat précise les modalités d'application ainsi que les
-obligations déclaratives des contribuables et des intermédiaires (5).
+obligations déclaratives des contribuables et des intermédiaires (4).
 
 (1) Annexe III, 41 ZC et 41 ZG.
 
 (2) Annexe III, 41 ZW.
+
+(M) Modification de la loi 97-1269.
 
 (3) A compter de la date de promulgation de la loi n° 84-578 du 9 juillet 1984,
 il ne peut plus être ouvert de livrets. Les livrets d'épargne au profit des
@@ -200,9 +207,4 @@ travailleurs manuels peuvent être transformés en livret d'épargne-entreprise
 dans les conditions fixées par le décret n° 85-68 du 22 janvier 1985 (J.O. du
 23).
 
-(4) Décret n° 83-872 du 30 septembre 1983 (JO du 2 octobre).
-
-(M) Modification de la loi 96-1181.
-
-(5) Annexe II articles 91 quater A et 91 quater B. (6) [*Cf. Instruction
-1996-11-20 5I-6-96.*]
+(4) Annexe II articles 91 quater A et 91 quater B.
