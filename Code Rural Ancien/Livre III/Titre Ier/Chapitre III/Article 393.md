@@ -1,9 +1,9 @@
 Article 393
 ----
-Le ministre de l'agriculture, assisté du conseil national de la chasse et de la
-faune sauvage, prend des arrêtés pour déterminer les espèces d'animaux
-malfaisants ou nuisibles que le propriétaire, possesseur ou fermier peut, en
-tout temps, détruire sur ses terres et les conditions d'exercice de ce droit.
+Un décret en conseil en d'Etat désigne l'autorité administrative compétente pour
+déterminer les espèces d'animaux malfaisants ou nuisibles que le propriétaire,
+possesseur ou fermier peut, en tout temps, détruire sur ses terres et les
+conditions d'exercice de ce droit.
 
 Indépendamment des dispositions prévues à l'alinéa précédent, tout propriétaire
 ou fermier peut repousser ou détruire, même avec des armes à feu, mais à

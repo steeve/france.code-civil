@@ -9,12 +9,6 @@ consentement de celui à qui le droit de chasse appartient.
 Tous les autres moyens de chasse, y compris l'avion et l'automobile, même comme
 moyens de rabat, sont formellement prohibés.
 
-L'utilisation des bourses et furets destinés à prendre les lapins est autorisée
-dans les départements ou parties de départements où le lapin est classé comme
-animal nuisible. Dans les autres lieux, des autorisations individuelles et
-exceptionnelles, données par les préfets, sont nécessaires pour la capture des
-lapins avec bourses et furets.
-
 Le ministre chargé de la chasse peut prendre des arrêtés :
 
 1° Pour prévenir la destruction ou favoriser le repeuplement des oiseaux ou de
@@ -31,7 +25,7 @@ daim, chamois, isard, bouquetin, et mouflon) sur les territoires de chasse
 pendant la période de chasse propre à chaque département, telle qu'elle est
 définie au premier alinéa de l'article 371.
 
-L'arrêté du ministre est pris sur proposition du préfet, présentée à la demande
+L'arrêté du Ministre est pris sur proposition du préfet, présentée à la demande
 conjointe du conservateur des eaux et forêts et du président de la fédération
 départementale des chasseurs.
 
