@@ -3,8 +3,7 @@ Article L1424-24
 Le service départemental d'incendie et de secours est administré par un conseil
 d'administration composé de représentants du département, des communes et des
 établissements publics de coopération intercommunale compétents en matière de
-secours et de lutte contre l'incendie, élus pour trois ans dans les conditions
-suivantes :
+secours et de lutte contre l'incendie, élus dans les conditions suivantes :
 
 1° Huit sièges répartis par moitié entre, d'une part, le département et, d'autre
 part, les communes et les établissements publics de coopération intercommunale.
@@ -32,10 +31,10 @@ L1424-26 et L1424-46.
 Les représentants du département sont élus par le conseil général en son sein.
 Les représentants des établissements publics de coopération intercommunale sont
 élus par les présidents de ces établissements publics au scrutin proportionnel
-au plus fort reste parmi les présidents, les membres des conseils et les maires
-des communes membres de ces établissements publics. Les maires des communes qui
-ne sont pas membres de ces établissements publics élisent en leur sein leurs
-représentants au scrutin proportionnel au plus fort reste.
+au plus fort reste parmi les membres des organes délibérants et les maires des
+communes membres. Les maires des communes qui ne sont pas membres de ces
+établissements publics élisent en leur sein leurs représentants au scrutin
+proportionnel au plus fort reste.
 
 Le nombre de suffrages dont dispose chaque maire, d'une part, chaque président
 d'établissement public, d'autre part, au sein de leur collège électoral
@@ -47,6 +46,10 @@ intercommunale, d'autre part.
 En cas d'absence ou d'empêchement, les membres du conseil d'administration sont
 remplacés par des suppléants élus selon les mêmes modalités et pour la même
 durée qu'eux.
+
+3° Les élections ont lieu dans les quatre mois suivant le renouvellement général
+des conseils municipaux et dans les quatre mois suivant le renouvellement par
+moitié ou le renouvellement intégral du conseil général.
 
 Assistent, en outre, aux réunions du conseil d'administration, avec voix
 consultative :
