@@ -1,6 +1,13 @@
 Article 119
 ----
-Les travaux d'élargissement, de régularisation et de redressement des cours
-d'eau non domaniaux qui sont jugés nécessaires pour compléter les travaux de
-curage, sont assimilés à ces derniers, et leur exécution est poursuivie en vertu
-des articles précédents.
+Pendant la durée des travaux, les propriétaires sont tenus de laisser passer sur
+leurs terrains les fonctionnaires et agents chargés de la surveillance, les
+entrepreneurs et ouvriers, ainsi que les engins mécaniques strictement
+nécessaires à la réalisation des travaux.
+
+Les terrains actuellement bâtis ou clos de murs ainsi que les cours et les
+jardins attenant aux habitations sont exempts de la servitude en ce qui concerne
+le passage des engins.
+
+Ce droit s'exerce autant que possible en suivant la rive du cours d'eau et en
+respectant les arbres et les plantations existants.

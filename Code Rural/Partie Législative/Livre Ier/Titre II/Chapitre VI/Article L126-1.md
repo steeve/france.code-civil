@@ -1,9 +1,10 @@
 Article L126-1
 ----
 Afin de favoriser une meilleure répartition des terres entre les productions
-agricoles, la forêt et les espaces de nature ou de loisirs en milieu rural, les
-préfets peuvent, après avis des chambres d'agriculture et des centres régionaux
-de la propriété forestière, définir :
+agricoles, la forêt, les espaces de nature ou de loisirs et les espaces habités
+en milieu rural et d'assurer la préservation de milieux naturels ou de paysages
+remarquables, les préfets peuvent, après avis des chambres d'agriculture, des
+centres régionaux de la propriété forestière et des conseils généraux, définir :
 
 1° Les zones dans lesquelles des plantations et des semis d'essences forestières
 peuvent être interdits ou réglementés. Les interdictions et les réglementations
@@ -14,7 +15,7 @@ exonérations d'impôts et avantages fiscaux de toute nature prévus en faveur d
 propriétés boisées ou des reboisements sont supprimés, les propriétaires peuvent
 être tenus de détruire le boisement irrégulier et il peut, lors des opérations
 de remembrement, ne pas être tenu compte de la nature boisée du terrain, il peut
-être procédé à la destruction d'office des boisements irréguliers.
+être procédé à la destruction d'office des boisements irréguliers ;
 
 2° Les périmètres dans lesquels sont développées, par priorité, les actions
 forestières ainsi que les utilisations des terres et les mesures d'accueil en

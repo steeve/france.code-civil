@@ -36,9 +36,17 @@ du code rural ne sont pas soumis à ce droit.
 
 Au cas où le Conservatoire de l'espace littoral et des rivages lacustres est
 territorialement compétent, celui-ci ou, à défaut, la commune, peut se
-substituer au département si celui-ci n'exerce pas le droit de préemption. Au
-cas où le conservatoire n'est pas compétent, la commune peut se substituer au
-département si celui-ci n'exerce pas son droit de préemption.
+substituer au département si celui-ci n'exerce pas le droit de préemption. Sur
+le territoire d'un parc national ou d'un parc naturel régional et dans les
+réserves naturelles dont la gestion leur est confiée, l'établissement public
+chargé du parc national ou du parc naturel régional ou, à défaut, la commune
+peut se substituer au département et, le cas échéant, au Conservatoire de
+l'espace littoral et des rivages lacustres, si ceux-ci n'exercent pas leur droit
+de préemption. Pour un parc naturel régional, l'exercice de ce droit de
+préemption est subordonné à l'accord explicite du département. Au cas où ni le
+conservatoire ni l'établissement public chargé d'un parc national ou d'un parc
+naturel régional n'est compétent, la commune peut se substituer au département
+si celui-ci n'exerce pas son droit de préemption.
 
 Lorsque la commune fait partie d'un établissement public de coopération
 intercommunale y ayant vocation, elle peut, en accord avec cet établissement,
@@ -47,9 +55,16 @@ lui déléguer ce droit.
 Le département peut déléguer son droit de préemption à l'occasion de
 l'aliénation d'un bien soumis à ce droit ou sur un ou plusieurs secteurs de la
 zone de préemption au Conservatoire de l'espace littoral et des rivages
-lacustres, lorsque celui-ci est territorialement compétent, à l'Etat, à une
-collectivité territoriale ou à l'Agence des espaces verts de la région
+lacustres, lorsque celui-ci est territorialement compétent, à l'établissement
+public chargé d'un parc national ou à celui chargé d'un parc naturel régional
+pour tout ou partie de la zone de préemption qui se trouve sur le territoire du
+parc ou dans les réserves naturelles dont la gestion leur est confiée, à l'Etat,
+à une collectivité territoriale ou à l'Agence des espaces verts de la région
 d'Ile-de-France. Les biens acquis entrent dans le patrimoine du délégataire.
+
+Si, à son expiration, le décret de classement d'un parc naturel régional n'est
+pas renouvelé, les biens que ce parc a acquis par exercice de ce droit de
+préemption deviennent propriété du département.
 
 Dans les articles L. 142-1 et suivants, l'expression "titulaire du droit de
 préemption" s'entend également du délégataire en application du précédent
