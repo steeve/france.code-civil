@@ -1,11 +1,14 @@
 Article L321-13
 ----
-Toute rupture du contrat de travail d'un salarié âgé de cinquante-cinq ans ou
-plus ouvrant droit au versement de l'allocation de base prévue à l'article L.
-351-3 entraîne l'obligation pour l'employeur de verser aux organismes visés à
-l'article L. 351-21 une cotisation égale à six mois du salaire brut moyen des
-douze derniers mois travaillés. Cette cotisation n'est pas due dans les cas
-suivants [*exonération*] :
+Toute rupture du contrat de travail d'un salarié d'un âge déterminé par décret
+ouvrant droit au versement de l'allocation de base prévue à l'article L. 351-3
+entraîne l'obligation pour l'employeur de verser aux organismes visés à
+l'article L. 351-21 une cotisation dont le montant est fixé par décret dans la
+limite de douze mois de salaire brut calculé sur la moyenne mensuelle des
+salaires versés au cours des douze derniers mois travaillés. Ce montant peut
+varier selon l'âge auquel intervient la rupture et la taille de l'entreprise
+concernée. Cette cotisation n'est pas due dans les cas suivants [*exonération*]
+:
 
 1° Licenciement pour faute grave ou lourde ;
 
@@ -20,7 +23,11 @@ l'entreprise ;
 5° Démission trouvant son origine dans un déplacement de la résidence du
 conjoint, résultant d'un changement d'emploi de ce dernier ;
 
-6° Rupture du contrat de travail due à la force majeure.
+6° Rupture du contrat de travail due à la force majeure ;
+
+7° Rupture du contrat de travail d'un salarié qui était, lors de son embauche,
+âgé de plus de cinquante ans et inscrit depuis plus de trois mois comme
+demandeur d'emploi, laquelle embauche est intervenue après le 9 juin 1992.
 
 Toutefois, lorsque l'un des salariés visés à l'alinéa précédent est reclassé
 sous contrat à durée indéterminée dans les trois mois suivant l'expiration du
