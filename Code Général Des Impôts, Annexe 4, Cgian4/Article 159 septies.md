@@ -3,24 +3,23 @@ Article 159 septies
 Les montants de la taxe instituée par les articles 339 à 341 de l'annexe II au
 code général des impôts sont fixés comme suit :
 
-Véhicules automobiles de transport de marchandises dont le PTAC est égal ou
-supérieur à 3,5 tonnes et inférieur à 6 tonnes :
+Véhicules automobiles de transport de marchandises dont le P.T.A.C. est
+supérieur à 3,5 tonnes et inférieur à 6 tonnes.
 
-- A partir du 16 juillet 1976 : 56 F - A partir du 1er janvier 1977 : 62 F - A
-partir du 1er janvier 1978 : 68 F - A partir du 1er janvier 1979 : 74 F - A
-partir du 1er janvier 1980 : 80 F Véhicules automobiles de transport de
-marchandises dont le PTAC est égal ou supérieur à 6 tonnes et inférieur à 11
-tonnes :
+- A partir du 1er janvier 1981 : 110 F - A partir du 1er janvier 1982 : 130 F -
+A partir du 1er janvier 1983 : 150 F - A partir du 1er janvier 1984 : 170 F - A
+partir du 1er janvier 1985 : 200 F Véhicules automobiles de transport de
+marchandises dont le P.T.A.C. est égal ou supérieur à 6 tonnes et inférieur à 11
+tonnes.
 
-- A partir du 16 juillet 1976 : 84 F - A partir du 1er janvier 1977 : 93 F - A
-partir du 1er janvier 1978 : 102 F - A partir du 1er janvier 1979 : 111 F - A
-partir du 1er janvier 1980 : 120 F Véhicules automobiles de transport de
-marchandises dont le PTAC est égal ou supérieur à 11 tonnes :
+- A partir du 1er janvier 1981 : 170 F - A partir du 1er janvier 1982 : 190 F -
+A partir du 1er janvier 1983 : 220 F - A partir du 1er janvier 1984 : 260 F - A
+partir du 1er janvier 1985 : 300 F Véhicules de transports en commun de
+voyageurs.
 
-- A partir du 16 juillet 1976 : 126 F - A partir du 1er janvier 1977 : 140 F - A
-partir du 1er janvier 1978 : 153 F - A partir du 1er janvier 1979 : 167 F - A
-partir du 1er janvier 1980 : 180 F Tracteurs routiers :
+Véhicules automobiles de transport de marchandises dont le P.T.A.C. est égal ou
+supérieur à 11 tonnes.
 
-- A partir du 16 juillet 1976 : 126 F - A partir du 1er janvier 1977 : 140 F - A
-partir du 1er janvier 1978 : 153 F - A partir du 1er janvier 1979 : 167 F - A
-partir du 1er janvier 1980 : 180 F.
+- A partir du 1er janvier 1981 : 250 F - A partir du 1er janvier 1982 : 290 F -
+A partir du 1er janvier 1983 : 330 F - A partir du 1er janvier 1984 : 380 F - A
+partir du 1er janvier 1985 : 450 F Tracteurs routiers.
