@@ -43,4 +43,9 @@ approvisionnement ;
 
 i) En outre, pour les syndicats interhospitaliers, l'arrêté prévu à l'article L.
 6132-2 permettant de vérifier qu'une telle demande est conforme à l'objet du
-syndicat.
+syndicat ;
+
+j) Lorsque la pharmacie d'un établissement de santé ou d'un syndicat
+interhospitalier a notamment pour rôle d'assurer la stérilisation des
+dispositifs médicaux, un document attestant de l'adoption du système prévu à
+l'article R. 711-1-16.
