@@ -28,9 +28,9 @@ des impôts);
 de conduire (art. 966 du code général des impôts);
 
 6° Les permis de conduire les véhicules automobiles les motocyclettes d'une
-cylindrée supérieure à 125 cm3 et tous autres véhicules à moteur (art. 1635 bis
-D-I du code général des impôts);
+cylindrée supérieure à 125 cm3 et tous autres véhicules à moteur (art. 1599
+terdecies du code général des impôts);
 
 7° Les certificats d'immatriculation des véhicules automobiles et de tous autres
-véhicules à moteur (cartes grises) (art. 1635 bis G du code général des impôts
-et art. 339 à 341 de l'annexe II à ce code).
+véhicules à moteur (cartes grises) (art. 1599 quindecies du code général des
+impôts et art. 339 à 341 de l'annexe II à ce code).

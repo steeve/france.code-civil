@@ -16,7 +16,7 @@ revenu global des années suivantes jusqu'à la cinquième année inclusivement
 Toutefois, n'est pas autorisée l'imputation :
 
 1° Des déficits provenant d'exploitations agricoles lorsque le total des revenus
-nets d'autres sources excède 40.000 F [*montant*] ; ces déficits peuvent
+nets d'autres sources excède 70.000 F [*montant*] ; ces déficits peuvent
 cependant être admis en déduction des bénéfices de même nature des années
 suivantes jusqu'à la cinquième inclusivement ;
 
@@ -44,10 +44,10 @@ meublés ; ces déficits s'imputent exclusivement sur les bénéfices retirés d
 cette même activité au cours des années suivantes jusqu'à la cinquième
 inclusivement.
 
-5° Des pertes résultant d'opérations mentionnées à l'article 150 ter, lorsque
-l'option prévue au 8° du paragraphe I de l'article 35 n'a pas été exercée ; ces
-pertes sont imputables exclusivement sur les profits de même nature réalisés au
-cours de la même année ou des cinq années suivantes ;
+5° Des pertes résultant d'opérations mentionnées aux articles 150 ter et 150
+octies, lorsque l'option prévue au 8° du paragraphe I de l'article 35 n'a pas
+été exercée ; ces pertes sont imputables exclusivement sur les profits de même
+nature réalisés au cours de la même année ou des cinq années suivantes ;
 
 6° Des pertes résultant d'opérations réalisées à l'étranger sur un marché à
 terme d'instruments financiers [*MATIF*] ; ces pertes sont imputables

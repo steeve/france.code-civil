@@ -21,10 +21,11 @@ service des douanes du point de sortie, être mise à l'appui du registre visé 
 a.
 
 2 En ce qui concerne les exportations de perles fines (no 71-01 du tarif des
-douanes) et de pierres gemmes brutes ou taillées (no 71-02, ex 91-11 F et 92-13
-B du tarif des douanes), les bureaux de douane de Paris-Choron, de Saint-Claude
-(Jura), de Marseille-Port (Bouches-du-Rhône) et de Lyon-Port Rambaud (Rhône)
-sont seuls habilités à délivrer les déclarations d'exportations prévues au 1-c.
+douanes) et de pierres gemmes brutes ou taillées (no 71-02, 71-03, 85-22-10 et
+91-14-20 du tarif des douanes), les bureaux de douane de Paris-Choron, de
+Saint-Claude (Jura), de Marseille-Port (Bouches-du-Rhône) et de Lyon-Port
+Rambaud (Rhône) sont seuls habilités à délivrer les déclarations d'exportations
+prévues au 1-c.
 
 Les exportations par la voie postale de pierres gemmes brutes ou taillées, de
 perles fines, de métaux précieux, de bijouterie, de joaillerie, d'orfèvrerie et
@@ -80,9 +81,11 @@ destinés à l'exportation, avec l'indication [*mentions*] :
 
 1° De la date de l'inscription;
 
-2° Des nom et adresse du négociant pour le compte duquel il agit; 3° Du nombre
-et, s'il y a lieu, des marques et numéros des colis; 4° De l'espèce et de la
-valeur des objets ou marchandises;
+2° Des nom et adresse du négociant pour le compte duquel il agit;
+
+3° Du nombre et, s'il y a lieu, des marques et numéros des colis;
+
+4° De l'espèce et de la valeur des objets ou marchandises;
 
 b Qu'il inscrive sur un autre registre spécialement affecté à cet usage, par
 ordre de date, les expéditions qu'il effectue avec l'indication de la date de

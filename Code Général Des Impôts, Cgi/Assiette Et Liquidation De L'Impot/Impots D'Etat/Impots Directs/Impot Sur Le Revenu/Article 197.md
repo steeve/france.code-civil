@@ -7,31 +7,31 @@ Sous réserve des dispositions de l'article 160, l'impôt est calculé pour les
 contribuables mariés sans enfant à charge et les contribuables célibataires
 ayant un enfant à charge, en appliquant le taux de (1) :
 
-0 % à la fraction du revenu qui n'excède pas 32.060 F ;
+0 % à la fraction du revenu qui n'excède pas 33.120 F ;
 
-5 % à la fraction du revenu comprise entre 32.060 F et 33.520 F ;
+5 % à la fraction du revenu comprise entre 33.120 F et 34.640 F ;
 
-10 % à la fraction du revenu comprise entre 335200 F et 39.740 F ;
+9,6 % à la fraction du revenu comprise entre 34.640 F et 41.060 F ;
 
-15 % à la fraction du revenu comprise entre 39.740 F et 62.840 F ;
+14,4 % à la fraction du revenu comprise entre 41.060 F et 64.920 F ;
 
-20 % à la fraction du revenu comprise entre 62.840 F et 80.780 F ;
+19,2 % à la fraction du revenu comprise entre 64.920 F et 83.460 F ;
 
-25 % à la fraction du revenu comprise entre 80.780 F et 101.480 F ;
+24 % à la fraction du revenu comprise entre 83.460 F et 104.820 F ;
 
-30 % à la fraction du revenu comprise entre 101.480 F et 122.780 F ;
+28,8 % à la fraction du revenu comprise entre 104.820 F et 126.840 F ;
 
-35 % à la fraction du revenu comprise entre 122.780 F et 141.660 F ;
+33,6 % à la fraction du revenu comprise entre 126.840 F et 146.340 F ;
 
-40 % à la fraction du revenu comprise entre 141.660 F et 236.040 F ;
+38,4 % à la fraction du revenu comprise entre 146.340 F et 243.820 F ;
 
-45 % à la fraction du revenu comprise entre 236.040 F et 324.620 F ;
+43,2 % à la fraction du revenu comprise entre 243.820 F et 335.340 F ;
 
-50 % à la fraction du revenu comprise entre 324.620 F et 383.980 F ;
+49 % à la fraction du revenu comprise entre 335.340 F et 396.660 F ;
 
-55 % à la fraction du revenu comprise entre 383.980 F et 436.800 F ;
+53,9 % à la fraction du revenu comprise entre 396.660 F et 451.220 F ;
 
-58 % à la fraction du revenu supérieure à 436.800 F.
+56,8 % à la fraction du revenu supérieure à 451.220 F.
 
 Pour les autres contribuables, les chiffres de revenu visés ci-dessus sont
 augmentés ou diminués en considération de la situation et des charges de famille
@@ -44,36 +44,34 @@ de la Réunion [*DOM*] et de 40 % dans le département de la Guyane.
 
 Le montant de la réduction d'impôt prévue au quatrième alinéa ne peut excéder
 18.000 F dans les départements de la Guadeloupe, de la Martinique et de la
-Réunion et 24.000 F dans le département de la Guyane (2). Ces chiffres évoluent
+Réunion et 24.000 F dans le département de la Guyane. Ces chiffres évoluent
 chaque année comme la limite supérieure de la dixième tranche du barème prévu au
-deuxième alinéa (3).
+deuxième alinéa (2).
 
 II, III et IV (Abrogés).
 
 V. (Disposition périmée).
 
-VI L'impôt calculé dans les conditions mentionnées au I est diminué, dans la
-limite de son montant, de la différence entre 4 400 F et son montant (4).
+VI. L'impôt calculé dans les conditions mentionnées au I est diminué, dans la
+limite de son montant, de la différence entre 4 400 F et son montant.
 
-VII La réduction d'impôt brut résultant de l'application du quotient familial ne
-peut excéder 10 770 F [*montant maximum*] par demi-part s'ajoutant à une part
+VII. La réduction d'impôt brut résultant de l'application du quotient familial
+ne peut excéder 11 130 F [*montant maximum*] par demi-part s'ajoutant à une part
 pour les contribuables célibataires, divorcés, veufs ou soumis à l'imposition
 distincte prévue au 4 de l'article 6 et à 2 parts pour les contribuables mariés
 soumis à une imposition commune.
 
 Toutefois our les contribuables célibataires, divorcés, ou soumis à l'imposition
 distincte prévue au 4 de l'article 6, ayant un ou plusieurs enfants à charge, la
-réduction d'impôt est limitée à 13 770 F lorsque les demi-parts additionnelles
-sont au nombre de deux. Ce plafond est augmenté de de 10 770 F par demi-part
-additionnelle supplémentaire.
+réduction d'impôt est limitée à 14 230 F (3) lorsque les demi-parts
+additionnelles sont au nombre de deux. Ce plafond est augmenté de de 11 130 F
+(3) par demi-part additionnelle supplémentaire.
 
 (1) Barème applicable pour l'établissement de l'impôt sur le revenu dû au titre
-de l'année 1986.
+de l'année 1987.
 
-(2) Limite applicable pour la première fois pour l'imposition des revenus de
-1980.
+(2) Chiffres portés à 29.450 F et 38.990 F pour 1986, à 30.430 F et 40.280 F
+pour 1987.
 
-(3) Chiffres portés à 27.230 F et 36.050 F pour 1984 et à 28.760 F et 38.070 F
-pour 1985 et 38.990 pour 1986.
-
-(4) Chiffre applicable pour l'imposition des revenus de 1986.
+(3) Ces montants étaient fixés à 10.770 F et 13.770 F pour l'imposition des
+revenus de 1986.

@@ -33,5 +33,5 @@ sociétés établies hors de France.
 II. Toutefois, les entreprises qui estiment relever des dispositions de
 l'article 209 B-II du code général des impôts peuvent se limiter à indiquer dans
 leur déclaration la liste de leurs participations mentionnée au a du I. La
-production de cette liste vaut indication expresse au sens du deuxième alinéa de
-l'article 1728 du même code.
+production de cette liste vaut indication expresse au sens de l'article 1732 du
+même code.

@@ -1,12 +1,12 @@
 Article 50 nonies
 ----
-1. L'exonération de la taxe sur la valeur ajoutée prévue à l'article 291-II-8o
+1. L'exonération de la taxe sur la valeur ajoutée prévue à l'article 291-II-8°
 du code général des impôts en faveur des oeuvres d'art originales timbres objets
-de collection ou d'antiquité repris aux numéros 99-04, 99-05 et 99-06 du tarif
+de collection ou d'antiquité repris aux numéros 97-04, 97-05 et 97-06 du tarif
 des droits de douane d'importation importés par des négociants en vue de leur
 revente est subordonnée à la production à l'appui de la déclaration
 d'importation d'une attestation en double exemplaire conforme au modèle annexé à
-l'arrêté du 23 décembre 1967 (1) [*conditions*].
+l'arrêté du 23 décembre 1967 (1).
 
 2. Cette attestation doit être signée par le négociant importateur et visée par
 le service des impôts qui certifie la qualité d'assujetti à la taxe sur la

@@ -9,14 +9,14 @@ fumés en l'état :
 
 3° Les rouleaux de tabac munis d'une cape extérieure, couleur normale des
 cigares et d'une sous-cape, toutes deux en tabac reconstitué relevant de la
-sous-position 24.02 E du tarif douanier commun de la communauté économique
+sous-position 24-03-91 du tarif douanier commun de la communauté économique
 européenne [*CEE*], lorsque au moins 60 % en poids des particules de tabac ont
 une largeur et une longueur supérieures à 1,75 millimètre et lorsque la cape est
 apposée en hélice avec un angle aigu minimal de 30 degrés par rapport à l'axe
 longitudinal du cigare ;
 
 4° Les rouleaux de tabac munis d'une cape extérieure, couleur normale des
-cigares, en tabac reconstitué relevant de la sous-position 24.02 E du tarif
+cigares, en tabac reconstitué relevant de la sous-position 24-03-91 du tarif
 douanier commun de la communauté économique européenne, lorsque leur masse
 unitaire sans filtre ni embout est égale ou supérieure à 2,3 grammes et si au
 moins 60 % en poids des particules de tabac ont une largeur et une longueur
