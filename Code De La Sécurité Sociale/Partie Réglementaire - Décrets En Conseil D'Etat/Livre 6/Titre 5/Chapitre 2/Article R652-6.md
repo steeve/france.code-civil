@@ -1,30 +1,30 @@
 Article R652-6
 ----
-Faute de paiement de la créance dans le délai de quinze jours mentionné à
-l'article R. 652-5, l'organisme créancier peut présenter une requête afin que le
-tiers détenteur remette à l'organisme, à concurrence du montant de la créance,
-les sommes qu'il détient pour le compte du débiteur.
+Le tiers détenteur procède au paiement sur la présentation d'un certificat
+délivré par le secrétariat-greffe du juge de l'exécution visé à la sous-section
+4, attestant qu'aucune contestation n'a été formulée dans le mois suivant la
+notification de l'opposition au débiteur. Le paiement peut intervenir avant
+l'expiration de ce délai si le débiteur a déclaré au créancier ne pas contester
+l'opposition. Cette déclaration doit être constatée par écrit.
 
-La requête est portée devant le président du tribunal des affaires de sécurité
-sociale du lieu où demeure le débiteur.
+Le créancier qui a reçu le paiement en donne quittance au tiers détenteur et en
+informe le débiteur. Dans la limite des sommes versées, ce paiement éteint
+l'obligation du débiteur et du tiers détenteur. Si le débiteur se libère
+directement de sa dette entre les mains du créancier, celui-ci en informe le
+tiers détenteur et donne la mainlevée de l'opposition.
 
-A peine d'irrecevabilité, la requête est formée par lettre recommandée avec
-demande d'avis de réception ou remise au secrétariat du tribunal des affaires de
-sécurité sociale contre récépissé.
+Le créancier qui n'a pas été payé par le tiers détenteur conserve ses droits
+contre le débiteur. En cas de refus de paiement par le tiers détenteur, la
+contestation est portée devant le juge de l'exécution visé à la sous-section 4,
+qui peut délivrer un titre exécutoire contre le tiers détenteur.
 
-La requête contient à peine de nullité :
-
-1° L'indication du nom et domicile du débiteur ou l'adresse de son établissement
-;
-
-2° L'indication des nom et domicile du tiers détenteur ou, s'il s'agit d'une
-personne morale, de sa dénomination et de son siège social ;
-
-3° L'indication de la dénomination et du siège de l'organisme créancier au
-bénéfice duquel l'opposition est faite ;
-
-4° Les causes de l'opposition et le décompte distinct des cotisations, des
-majorations de retard et des pénalités pour lesquelles l'opposition est
-effectuée.
-
-La requête est accompagnée des documents justificatifs.
+Les oppositions et toute autre mesure d'exécution emportant effet d'attribution
+immédiate lorsqu'elles sont reçues le même jour par le tiers détenteur, même si
+elles émanent de créanciers privilégiés, sont réputées faites simultanément et
+viennent en concours si les sommes disponibles ne permettent pas de
+désintéresser la totalité des créanciers. La réception ultérieure d'autres
+oppositions ou d'autres mesures d'exécution emportant effet d'attribution
+immédiate, même émanant de créanciers privilégiés, ainsi que la survenance d'un
+jugement portant ouverture d'un redressement judiciaire ou d'une liquidation
+judiciaire ne remettent pas en cause l'effet d'attribution immédiate prévu par
+l'article L. 652-3.
