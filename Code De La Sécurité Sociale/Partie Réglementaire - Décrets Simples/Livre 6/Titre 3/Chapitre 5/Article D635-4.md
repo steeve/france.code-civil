@@ -2,9 +2,9 @@ Article D635-4
 ----
 Pour les assurés en activité autres que ceux qui sont mentionnés aux troisième
 et quatrième alinéas ci-après, la cotisation annuelle du régime d'assurance
-vieillesse complémentaire est assise sur les revenus professionnels non-salariés
+vieillesse complémentaire est assise sur les revenus professionnels non salariés
 de l'avant-dernière année civile déclarés dans les conditions fixées à l'article
-D. 633-3 et dans la limite d'un plafond égal à trois fois celui mentionné à
+D. 633-3 et dans la limite d'un plafond égal à quatre fois celui mentionné à
 l'article L. 633-10 en vigueur dans l'année où la cotisation est due. A défaut
 de déclaration par l'assuré de ses revenus professionnels, la cotisation est
 déterminée sur la base de ladite limite.
@@ -39,7 +39,7 @@ tenu des dispositions de l'article D. 742-24.
 
 Pour les chauffeurs de taxi visés à l'article D. 635-3, la cotisation annuelle
 du régime d'assurance vieillesse complémentaire est assise sur les revenus
-professionnels non-salariés définis à l'article D. 633-3 et dans les conditions
+professionnels non salariés définis à l'article D. 633-3 et dans les conditions
 prévues par le présent article.
 
 Pour les chauffeurs de taxi en activité au 1er janvier 1979 âgés de moins de
