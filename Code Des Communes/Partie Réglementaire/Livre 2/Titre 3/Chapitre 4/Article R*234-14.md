@@ -1,10 +1,7 @@
 Article R*234-14
 ----
-Le comité élit son président, parmi les membres élus, au scrutin secret à la
-majorité absolue.
-
-Si après deux tours de scrutin aucun candidat n'a obtenu la majorité absolue, il
-est procédé à un troisième tour de scrutin et l'élection a lieu à la majorité
-relative.
-
-En cas d'égalité de suffrages le plus âgé est déclaré élu.
+Le montant perçu par une commune au titre du 1° du II de l'article L. 234-13 est
+égal au produit de sa population par l'écart relatif entre le potentiel fiscal
+moyen par habitant des communes appartenant au même groupe démographique et le
+potentiel fiscal par habitant de la commune, pondéré par l'effort fiscal pris en
+compte dans la limite de 1,2.

@@ -1,7 +1,7 @@
 Article R*234-10
 ----
-Une commission centrale de recensement est instituée auprès du ministre de
-l'intérieur. Elle est présidée par un conseiller d'Etat et doit comprendre un
-représentant du ministère de l'intérieur et trois représentants des associations
-nationales d'élus locaux, désignés par le ministre de l'intérieur
-[*définition*].
+Sont également considérés comme logements sociaux et sont retenus à raison d'un
+logement pour trois lits les logements-foyers tels que définis à l'article R.
+351-55 du code de la construction et de l'habitation et les résidences
+universitaires gérées par les centres régionaux des oeuvres universitaires et
+sociales.

@@ -1,22 +1,19 @@
 Article R*234-22
 ----
-La dotation revenant aux communes touristiques ou thermales est répartie :
+Les représentants des maires sont élus par le collège des maires de France, au
+scrutin majoritaire de liste à un tour, avec dépôt de listes complètes sans
+adjonction ni supression de noms et sans modification de l'ordre de
+présentation.
 
-" a) Pour 50 p. 100 de son montant, proportionnellement à la capacité d'accueil
-pondérée existante et en voie de création ;
+La liste doit comprendre au moins :
 
-" b) Pour 30 p. 100 de son montant, proportionnellement à la capacité d'accueil
-pondérée existante et en voie de création, majorée ou minorée
-proportionnellement au rapport entre la charge nette par habitant de la commune
-concernée et la charge nette moyenne par habitant de l'ensemble des communes de
-même importance démographique ;
+a) Un maire des départements d'outre-mer ;
 
-" c) Pour 15 p. 100 de son montant, proportionnellement au produit de la taxe de
-séjour et de la taxe de séjour forfaitaire perçu sur son territoire au titre du
-dernier exercice connu ;
+b) Un maire des territoires d'outre-mer ;
 
-" d) Pour 5 p. 100 de son montant, proportionnellement à la capacité d'accueil
-pondérée existante et en voie de création, majorée ou minorée
-proportionnellement à l'écart relatif entre le potentiel fiscal moyen par
-habitant des communes de même importance démographique que la commune concernée
-et le potentiel fiscal par habitant de cette commune.
+c) Un maire de commune touristique ou thermale inscrite sur la liste prévue à
+l'article L. 234-13 dans sa rédaction antérieure à la loi n° 93-1436 du 31
+décembre 1993 portant réforme de la dotation globale de fonctionnement et
+modifiant le code des communes et le code général des impôts ;
+
+" d) Trois maires de communes de moins de 2 000 habitants.

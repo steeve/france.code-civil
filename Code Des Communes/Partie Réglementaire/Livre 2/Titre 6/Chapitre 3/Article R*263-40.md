@@ -12,12 +12,10 @@ multiplié par l'effort fiscal de la commune pris en compte dans la limite de
 
 " b) Pour 20 p. 100 au moins et 40 p. 100 au plus de son montant,
 proportionnellement au nombre de logements sociaux recensés dans la commune,
-tels que mentionnés au 3° du premier alinéa de l'article L. 234-10 du code des
-communes.
+tels que mentionnés au 2° III de l'article L. 234-12.
 
 " Le potentiel fiscal par habitant de la commune est déterminé dans les
-conditions prévues à l'article L. 234-6 et à l'article L. 234-19-3 du code des
-communes.
+conditions prévues aux articles L. 234-2 et L. 234-4.
 
 " Le potentiel fiscal de référence est égal :
 
@@ -29,6 +27,5 @@ habitant de l'ensemble des communes de la région d'Ile-de-France de plus de 10
 par habitant de l'ensemble des communes de la région d'Ile-de-France de moins de
 10 000 habitants.
 
-" Le calcul de l'effort fiscal est opéré ainsi que prévu à l'article L. 234-5 du
-code des communes et, pour les communes membres d'un groupement de communes, au
-b du 1° du II de l'article L. 1648 B du code général des impôts. "
+" Le calcul de l'effort fiscal est opéré dans les conditions prévues à l'article
+L. 234-5.

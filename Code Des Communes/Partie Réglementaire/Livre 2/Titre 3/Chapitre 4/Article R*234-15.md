@@ -1,6 +1,6 @@
 Article R*234-15
 ----
-Les élections des membres du comité des finances locales et du président peuvent
-être contestées devant le Conseil d'Etat par tout électeur, par les candidats et
-par le ministre de l'intérieur, dans les dix jours qui suivent la publication
-des résultats au Journal officiel.
+Le montant perçu par une commune au titre du 4° du II de l'article L. 234-13 est
+égal au produit de sa population par l'écart relatif entre le potentiel fiscal
+par hectare de la commune et le potentiel fiscal moyen par hectare des communes
+de moins de 10 000 habitants.
