@@ -4,10 +4,17 @@ Article 340 sexies
 pour l'indemnisation des victimes d'accidents corporels de chasse sont les
 suivants :
 
-Contribution des entreprises d'assurances : 10 % de la totalité des charges du
-fonds de garantie.
+a. Contribution des entreprises d'assurances : 10 % de la totalité des charges
+du fonds de garantie ;
 
-Contribution forfaitaire des assurés : 1,50 F par personne garantie.
+b. Contribution des responsables d'accidents corporels non assurés :
+
+Taux normal : 10% des indemnités restant à leur charge ;
+
+Taux réduit lorsque l'accident résulte d'une opération de destruction des
+animaux nuisibles effectuée en vertu des articles 393 à 395 du code rural : 5% ;
+
+c. Contribution forfaitaire des assurés : 1,50 F par personne garantie.
 
 2. Le versement d'acomptes sur leur contribution peut être demandé aux sociétés
 d'assurances par le fonds de garantie.
