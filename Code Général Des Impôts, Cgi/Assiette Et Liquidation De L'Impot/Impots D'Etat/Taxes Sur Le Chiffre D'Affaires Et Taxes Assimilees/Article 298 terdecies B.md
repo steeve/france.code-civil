@@ -1,8 +1,7 @@
 Article 298 terdecies B
 ----
-Pour bénéficier de l'abattement prévu à l'article 298 terdecies A les
-publications doivent présenter depuis plus d'un an [*délai*] les
-caractéristiques suivantes :
+Pour bénéficier des taux prévus à l'article 298 terdecies A les publications
+doivent présenter depuis plus d'un an les caractéristiques suivantes :
 
 - paraître avec une périodicité régulière une fois par semaine au moins;
 
