@@ -15,8 +15,7 @@ naturel véhicules et la taxe intérieure sur les produits pétroliers pour le g
 de pétrole liquéfié carburant sont remboursées aux exploitants de transport
 public en commun de voyageurs, dans la limite de 40 000 litres par an et par
 véhicule. A compter du 1er janvier 2000, ces taxes sont remboursées dans la même
-limite aux exploitants de bennes de ramassage de déchets ménagers d'un poids
-total roulant autorisé égal ou supérieur à 12 tonnes.
+limite aux exploitants de bennes de ramassage de déchets ménagers.
 
 Les modalités d'application de ces mesures sont fixées par décret.
 
