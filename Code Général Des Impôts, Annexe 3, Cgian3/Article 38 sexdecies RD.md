@@ -14,5 +14,5 @@ date d'acquisition ou de création et le prix de revient des éléments d'actif
 affectés à l'exercice de leur profession, le montant des amortissements
 effectués sur ces éléments ainsi que, éventuellement, le prix et la date de
 cession de ces mêmes éléments. II. - Les documents comptables et pièces
-justificatives énumérés au I doivent être conservés jusqu'à l'expiration du
-délai de six ans prévu à l'article L. 82 du livre des procédures fiscales.
+justificatives énumérés au I doivent être conservés selon les modalités prévues
+à l'article L. 102 B du livre des procédures fiscales.
