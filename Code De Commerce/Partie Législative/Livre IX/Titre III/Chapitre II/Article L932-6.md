@@ -1,6 +1,8 @@
 Article L932-6
 ----
-Aux articles L. 225-25 et L. 225-72, la référence aux articles 20 et 21 de la
-loi n° 88-1201 du 23 décembre 1988 relative aux organismes de placement
-collectif en valeurs mobilières et portant création des fonds communs de créance
-est supprimée.
+Aux articles L. 225-177, L. 225-179 et L. 233-11, les mots : "la date de
+publication de la loi n° 2001-420 du 15 mai 2001 relative aux nouvelles
+régulations économiques" sont remplacés par les mots : "la date de publication
+de l'ordonnance n° 2004-604 du 24 juin 2004 portant réforme du régime des
+valeurs mobilières émises par les sociétés commerciales et extension à
+l'outre-mer de dispositions ayant modifié la législation commerciale".

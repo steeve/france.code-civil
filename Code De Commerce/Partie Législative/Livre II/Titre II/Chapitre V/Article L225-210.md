@@ -24,4 +24,4 @@ L'assemblée générale peut décider de ne pas tenir compte de ces actions pour
 détermination des droits préférentiels de souscription attachés aux autres
 actions. A défaut les droits attachés aux actions possédées par la société
 doivent être, avant la clôture du délai de souscription, soit vendus en bourse,
-soit repartis entre les actionnaires au prorata des droits de chacun.
+soit répartis entre les actionnaires au prorata des droits de chacun.

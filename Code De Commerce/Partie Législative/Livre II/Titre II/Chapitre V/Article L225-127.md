@@ -1,13 +1,9 @@
 Article L225-127
 ----
-Le capital social est augmenté, soit par émission d'actions nouvelles, soit par
-majoration du montant nominal des actions existantes.
+Le capital social est augmenté soit par émission d'actions ordinaires ou
+d'actions de préférence, soit par majoration du montant nominal des titres de
+capital existants.
 
-Les actions nouvelles sont libérées, soit en numéraire, soit par compensation
-avec des créances liquides et exigibles sur la société, soit par incorporation
-de réserves, bénéfices ou primes d'émission, soit par apport en nature, soit par
-conversion d'obligations.
-
-L'augmentation du capital par majoration du montant nominal des actions n'est
-décidée qu'avec le consentement unanime des actionnaires, à moins qu'elle ne
-soit réalisée par incorporation de réserves, bénéfices ou primes d'émission.
+Il peut également être augmenté par l'exercice de droits attachés à des valeurs
+mobilières donnant accès au capital, dans les conditions prévues aux articles L.
+225-149 et L. 225-177.

@@ -1,8 +1,10 @@
 Article L228-17
 ----
-Le président et les membres du conseil d'administration, les directeurs
-généraux, les membres du directoire et du conseil de surveillance d'une société
-anonyme, les gérants d'une société en commandite par actions et leur conjoint
-non séparé de corps ainsi que leurs enfants mineurs non émancipés ne peuvent
-détenir, sous quelque forme que ce soit, des actions à dividende prioritaire
-sans droit de vote émises par cette société.
+En cas de fusion ou de scission, les actions de préférence peuvent être
+échangées contre des actions des sociétés bénéficiaires du transfert de
+patrimoine comportant des droits particuliers équivalents, ou selon une parité
+d'échange spécifique tenant compte des droits particuliers abandonnés.
+
+En l'absence d'échange contre des actions conférant des droits particuliers
+équivalents, la fusion ou la scission est soumise à l'approbation de l'assemblée
+spéciale prévue à l'article L. 225-99.

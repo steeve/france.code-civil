@@ -1,27 +1,15 @@
 Article L228-15
 ----
-Les titulaires d'actions à dividende prioritaire sans droit de vote sont réunis
-en assemblée spéciale dans des conditions fixées par décret en Conseil d'Etat.
+La création de ces actions donne lieu à l'application des articles L. 225-8, L.
+225-14, L. 225-147 et L. 225-148 relatifs aux avantages particuliers lorsque les
+actions sont émises au profit d'un ou plusieurs actionnaires nommément désignés.
+Dans ce cas, le commissaire aux apports prévu par ces articles est un
+commissaire aux comptes n'ayant pas réalisé depuis cinq ans et ne réalisant pas
+de mission au sein de la société.
 
-Tout actionnaire possédant des actions à dividende prioritaire sans droit de
-vote peut participer à l'assemblée spéciale. Toute clause contraire est réputée
-non écrite.
-
-L'assemblée spéciale des actionnaires à dividende prioritaire sans droit de vote
-peut émettre un avis avant toute décision de l'assemblée générale. Elle statue
-alors à la majorité des voix exprimées par les actionnaires présents ou
-représentés. Dans le cas où il est procédé à un scrutin, il n'est pas tenu
-compte des bulletins blancs. L'avis est transmis à la société. Il est porté à la
-connaissance de l'assemblée générale et consigné à son procès-verbal.
-
-L'assemblée spéciale peut désigner un ou, si les statuts le prévoient, plusieurs
-mandataires chargés de représenter les actionnaires à dividende prioritaire sans
-droit de vote à l'assemblée générale des actionnaires et, le cas échéant, d'y
-exposer leur avis avant tout vote de cette dernière. Cet avis est consigné au
-procès-verbal de l'assemblée générale.
-
-Sous réserve de l'article L. 228-16, toute décision modifiant les droits des
-titulaires d'actions à dividende prioritaire sans droit de vote n'est définitive
-qu'après approbation par l'assemblée spéciale visée au premier alinéa du présent
-article, statuant selon les conditions de quorum et de majorité prévues à
-l'article L. 225-99.
+Les titulaires d'actions devant être converties en actions de préférence de la
+catégorie à créer ne peuvent, à peine de nullité de la délibération, prendre
+part au vote sur la création de cette catégorie et les actions qu'ils détiennent
+ne sont pas prises en compte pour le calcul du quorum et de la majorité, à moins
+que l'ensemble des actions ne fassent l'objet d'une conversion en actions de
+préférence.

@@ -20,10 +20,9 @@ rémunérations versées aux personnes les mieux rémunérées, le nombre de ces
 personnes étant de dix ou de cinq selon que l'effectif du personnel excède ou
 non deux cents salariés ;
 
-5° Du montant global, certifié par les commissaires aux comptes des sommes
-ouvrant droit aux déductions fiscales visées à l'article 238 bis AA du code
-général des impôts ainsi que de la liste des actions nominatives de parrainage,
-de mécénat ;
+5° Du montant global, certifié par les commissaires aux comptes des versements
+effectués en application des 1 et 4 de l'article 238 bis du code général des
+impôts ainsi que de la liste des actions nominatives de parrainage, de mécénat ;
 
 6° De la liste et de l'objet des conventions portant sur des opérations
 courantes conclues à des conditions normales, établis conformément aux articles

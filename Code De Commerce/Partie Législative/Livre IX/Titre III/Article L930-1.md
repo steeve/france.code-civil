@@ -7,8 +7,7 @@ dispositions suivantes du présent code sont applicables en Nouvelle-Calédonie 
 131-6, L. 131-9, L. 134-1 à L. 134-17, L. 145-34 à L. 145-36, L. 145-38 et L.
 145-39 ;
 
-2° Le livre II, à l'exception des articles L. 822-1 à L. 822-10, L. 252-1 à L.
-252-13 ;
+2° Le livre II, à l'exception des articles L. 252-1 à L. 252-13 ;
 
 3° Le livre III, à l'exception des articles L. 310-4, L. 321-1 à L. 321-38, L.
 322-7 et L. 322-10 ;
@@ -17,4 +16,6 @@ dispositions suivantes du présent code sont applicables en Nouvelle-Calédonie 
 524-20 et L. 524-21 ;
 
 5° Le livre VI, à l'exception des articles L. 621-38, L. 621-132 et L. 628-1 à
-L. 628-8.
+L. 628-8 ;
+
+6° Le titre II du livre VIII.

@@ -1,11 +1,11 @@
 Article L228-93
 ----
-Une société par actions peut émettre des valeurs mobilières prévues à l'article
-L. 228-91 et donnant droit à l'attribution de titres qui, à cet effet, sont ou
-seront émis en représentation d'une quotité du capital de la société qui
-possède, directement ou indirectement, plus de la moitié de son capital.
+Une société par actions peut émettre des valeurs mobilières donnant accès au
+capital de la société qui possède directement ou indirectement plus de la moitié
+de son capital ou de la société dont elle possède directement ou indirectement
+plus de la moitié du capital.
 
-Dans ce cas, l'émission de ces titres doit être autorisée par l'assemblée
-générale extraordinaire des actionnaires de cette dernière société. La décision
-de cette assemblée emporte de plein droit renonciation de ses actionnaires à
-leur droit préférentiel de souscription à ces titres.
+A peine de nullité, l'émission doit être autorisée par l'assemblée générale
+extraordinaire de la société appelée à émettre ces valeurs mobilières et par
+celle de la société au sein de laquelle les droits sont exercés, dans les
+conditions prévues par l'article L. 228-92.

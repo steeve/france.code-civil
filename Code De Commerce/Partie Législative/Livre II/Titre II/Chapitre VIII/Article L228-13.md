@@ -1,28 +1,13 @@
 Article L228-13
 ----
-Les actions à dividende prioritaire sans droit de vote donnent droit à un
-dividende prioritaire prélevé sur le bénéfice distribuable de l'exercice avant
-toute autre affectation. S'il apparaît que le dividende prioritaire ne peut être
-intégralement versé en raison de l'insuffisance du bénéfice distribuable,
-celui-ci doit être réparti à due concurrence entre les titulaires d'actions à
-dividende prioritaire sans droit de vote. Le droit au paiement du dividende
-prioritaire qui n'a pas été intégralement versé en raison de l'insuffisance du
-bénéfice distribuable est reporté sur l'exercice suivant et, s'il y a lieu, sur
-les deux exercices ultérieurs ou, si les statuts le prévoient, sur les exercices
-ultérieurs. Ce droit s'exerce prioritairement par rapport au paiement du
-dividende prioritaire dû au titre de l'exercice.
+Les droits particuliers mentionnés à l'article L. 228-11 peuvent être exercés
+dans la société qui possède directement ou indirectement plus de la moitié du
+capital de l'émettrice ou de la société dont l'émettrice possède directement ou
+indirectement plus de la moitié du capital.
 
-Le dividende prioritaire ne peut être inférieur ni au premier dividende visé à
-l'article L. 232-16 ni à un montant égal à 7,5 % du montant libéré du capital
-représenté par les actions à dividende prioritaire sans droit de vote. Ces
-actions ne peuvent donner droit au premier dividende.
+L'émission doit alors être autorisée par l'assemblée générale extraordinaire de
+la société appelée à émettre des actions de préférence et par celle de la
+société au sein de laquelle les droits sont exercés.
 
-Après prélèvement du dividende prioritaire ainsi que du premier dividende, si
-les statuts en prévoient, ou d'un dividende de 5 % au profit de toutes les
-actions ordinaires calculé dans les conditions prévues à l'article L. 232-16,
-les actions à dividende prioritaire sans droit de vote ont, proportionnellement
-à leur montant nominal, les mêmes droits que les actions ordinaires.
-
-Dans le cas où les actions ordinaires sont divisées en catégories ouvrant des
-droits inégaux au premier dividende, le montant du premier dividende prévu au
-deuxième alinéa du présent article s'entend du premier dividende le plus élevé.
+Les commissaires aux comptes des sociétés intéressées doivent établir un rapport
+spécial.

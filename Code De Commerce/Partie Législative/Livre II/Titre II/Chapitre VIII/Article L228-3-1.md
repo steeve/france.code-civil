@@ -3,9 +3,10 @@ Article L228-3-1
 I. - Aussi longtemps que la société émettrice estime que certains détenteurs
 dont l'identité lui a été communiquée le sont pour le compte de tiers
 propriétaires des titres, elle est en droit de demander à ces détenteurs de
-révéler l'identité des propriétaires de ces titres, dans les conditions prévues
-respectivement au premier alinéa du II de l'article L. 228-2 pour les titres au
-porteur et au premier alinéa de l'article L. 228-3 pour les titres nominatifs.
+révéler l'identité des propriétaires de ces titres, ainsi que la quantité de
+titres détenus par chacun d'eux, dans les conditions prévues respectivement au
+premier alinéa du II de l'article L. 228-2 pour les titres au porteur et au
+premier alinéa de l'article L. 228-3 pour les titres nominatifs.
 
 II. - A l'issue de ces opérations, et sans préjudice des obligations de
 déclaration de participations significatives imposées par les articles L. 233-7,

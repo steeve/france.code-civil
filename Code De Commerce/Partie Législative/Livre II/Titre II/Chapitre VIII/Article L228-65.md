@@ -20,5 +20,6 @@ de préférence par rapport à la créance des obligataires composant la masse ;
 conférées aux obligataires, au report de l'échéance du paiement des intérêts et
 à la modification des modalités d'amortissement ou du taux des intérêts.
 
-II. - L'assemblée générale délibère dans les conditions de quorum et de majorité
-prévues aux deuxième et troisième alinéas de l'article L. 225-98.
+II. - L'assemblée générale délibère dans les conditions de quorum prévues au
+deuxième alinéa de l'article L. 225-98. Elle statue à la majorité des deux tiers
+des voix dont disposent les porteurs présents ou représentés.

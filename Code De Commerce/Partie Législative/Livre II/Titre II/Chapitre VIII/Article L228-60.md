@@ -11,5 +11,3 @@ L'assemblée ne peut délibérer sur une question qui n'est pas inscrite à l'or
 du jour.
 
 Sur deuxième convocation, l'ordre du jour de l'assemblée ne peut être modifié.
-
-Les dispositions de l'article L. 225-114 sont applicables.

@@ -1,5 +1,6 @@
 Article L228-20
 ----
-Il n'est pas tenu compte des actions à dividende prioritaire sans droit de vote
-pour la détermination du pourcentage prévu à l'article L. 233-1 ou à l'article
-L. 233-2.
+Lorsque les actions de préférence sont inscrites aux négociations sur un marché
+réglementé, elles peuvent être rachetées ou remboursées, à l'initiative de la
+société ou du porteur, si le marché n'est pas liquide, dans les conditions
+prévues par les statuts.

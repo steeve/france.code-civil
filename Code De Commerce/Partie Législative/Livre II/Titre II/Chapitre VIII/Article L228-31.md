@@ -19,7 +19,7 @@ extraordinaire mentionnée au premier alinéa du présent article.
 
 Le prix mentionné à l'alinéa précédent est déterminé selon les modalités
 énoncées au 2° de l'article 283-1-1 de la loi n° 66-537 du 24 juillet 1966 sur
-les sociétés commerciales.
+les sociétés commerciales (1).
 
 Le montant de l'indemnisation revenant aux détenteurs non identifiés est
 consigné.

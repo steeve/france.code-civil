@@ -1,12 +1,13 @@
 Article L212-3
 ----
-I. - Les actions émises en territoire français et soumises à la législation
+I. - Sous réserve des dispositions du troisième alinéa de l'article L. 211-4,
+les actions émises en territoire français et soumises à la législation
 française, des sociétés par actions, autres que les SICAV, qui ne sont pas
 admises aux négociations sur un marché réglementé revêtent la forme nominative.
 
 II. - Cette obligation doit être satisfaite dans un délai de six mois à compter
 de la date d'émission des actions concernées ou de la date à laquelle celles-ci
-ont cessé d'être admises aux négociations sur un marché réglementé.
+ont cessé d'être admises aux opérations d'un dépositaire central.
 
 Passé ce délai, les détenteurs d'actions qui ne satisfont pas à l'obligation
 prévue au I, ne peuvent exercer les droits attachés à ces titres, que si ceux-ci

@@ -1,5 +1,5 @@
 Article L212-7
 ----
-Les règles concernant l'émission d'obligations avec bons de souscriptions
-d'actions sont fixées par les articles L. 225-150 à L. 225-158 du code de
-commerce.
+Les règles relatives à l'émission de titres donnant accès au capital et aux
+titulaires de ces titres sont fixées par les articles L. 228-91 à L. 228-106 du
+code de commerce relatifs aux valeurs mobilières donnant accès au capital.

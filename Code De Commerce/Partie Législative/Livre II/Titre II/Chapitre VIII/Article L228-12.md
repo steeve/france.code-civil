@@ -1,30 +1,21 @@
 Article L228-12
 ----
-Les actions à dividende prioritaire sans droit de vote peuvent être créées par
-augmentation de capital ou par conversion d'actions ordinaires déjà émises.
-Elles peuvent être converties en actions ordinaires.
+L'assemblée générale extraordinaire des actionnaires est seule compétente pour
+décider l'émission, le rachat et la conversion des actions de préférence au vu
+d'un rapport spécial des commissaires aux comptes. Elle peut déléguer ce pouvoir
+dans les conditions fixées par les articles L. 225-129 à L. 225-129-6.
 
-Les actions à dividende prioritaire sans droit de vote ne peuvent représenter
-plus du quart du montant du capital social. Leur valeur nominale est égale à
-celle des actions ordinaires ou, le cas échéant, des actions ordinaires de l'une
-des catégories précédemment émises par la société.
+Les modalités de rachat ou de conversion des actions de préférence peuvent
+également être fixées dans les statuts.
 
-Les titulaires d'actions à dividende prioritaire sans droit de vote bénéficient
-des droits reconnus aux autres actionnaires, à l'exception du droit de
-participer et de voter, du chef de ces actions, aux assemblées générales des
-actionnaires de la société.
+A tout moment de l'exercice en cours et au plus tard lors de la première réunion
+suivant la clôture de celui-ci, le conseil d'administration ou le directoire
+constate, s'il y a lieu, le nombre et le montant nominal des actions issues de
+la conversion des actions de préférence, au cours de l'exercice écoulé, et
+apporte les modifications nécessaires aux clauses des statuts relatives au
+montant du capital social et au nombre des titres qui le composent.
 
-En cas de création d'actions à dividende prioritaire sans droit de vote par
-conversion d'actions ordinaires déjà émises ou en cas de conversion d'actions à
-dividende prioritaire sans droit de vote en actions ordinaires, l'assemblée
-générale extraordinaire détermine le montant maximal d'actions à convertir et
-fixe les conditions de conversion sur rapport spécial du commissaire aux
-comptes. Sa décision n'est définitive qu'après approbation par l'assemblée
-spéciale des titulaires d'actions à dividende prioritaire sans droit de vote et
-par l'assemblée générale extraordinaire des titulaires d'obligations avec bons
-de souscription, d'obligations convertibles ou échangeables contre les actions.
-
-L'offre de conversion est faite en même temps et à proportion de leur part dans
-le capital social à tous les actionnaires, à l'exception des personnes
-mentionnées à l'article L. 228-17. L'assemblée générale extraordinaire fixe le
-délai pendant lequel les actionnaires peuvent accepter l'offre de conversion.
+Le président du directoire ou le directeur général peut, sur délégation du
+directoire ou du conseil d'administration, procéder à ces opérations à tout
+moment de l'exercice et au plus tard dans le délai fixé par décret en Conseil
+d'Etat.

@@ -1,5 +1,5 @@
 Article L242-4
 ----
 Est puni des peines prévues à l'article L. 242-3 le fait, pour toute personne,
-d'avoir soit participé aux négociations, soit établi ou publié la valeur des
-actions ou promesses d'actions visées audit article.
+d'avoir établi ou publié la valeur des actions ou promesses d'actions visées
+audit article.

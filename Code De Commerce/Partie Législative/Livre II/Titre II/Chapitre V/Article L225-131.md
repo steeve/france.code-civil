@@ -1,7 +1,7 @@
 Article L225-131
 ----
 Le capital doit être intégralement libéré avant toute émission d'actions
-nouvelles à libérer en numéraire, à peine de nullité de l'opération.
+nouvelles à libérer en numéraire.
 
 En outre, l'augmentation du capital par appel public à l'épargne, réalisée moins
 de deux ans après la constitution d'une société selon les articles L. 225-12 à

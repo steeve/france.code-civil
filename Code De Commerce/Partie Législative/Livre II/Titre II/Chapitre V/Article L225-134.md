@@ -4,9 +4,9 @@ I. - Si les souscriptions à titre irréductible et, le cas échéant, à titre
 réductible n'ont pas absorbé la totalité de l'augmentation de capital :
 
 1° Le montant de l'augmentation de capital peut être limité au montant des
-souscriptions sous la double condition que celui-ci atteigne les trois quarts au
-moins de l'augmentation décidée et que cette faculté ait été prévue expressément
-par l'assemblée lors de l'émission ;
+souscriptions sauf décision contraire de l'assemblée générale. En aucun cas, le
+montant de l'augmentation de capital ne peut être inférieur aux trois quarts de
+l'augmentation décidée ;
 
 2° Les actions non souscrites peuvent être librement réparties totalement ou
 partiellement, à moins que l'assemblée en ait décidé autrement ;
