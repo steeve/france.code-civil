@@ -38,3 +38,8 @@ ci-dessus pour ceux qui ont prêté les deniers pour l'acquisition d'un immeuble
 
 6° Les créanciers et légataires d'une personne défunte, sur les immeubles de la
 succession, pour la garantie des droits qu'ils tiennent de l'article 878.
+
+7° Les accédants à la propriété titulaires d'un contrat de location-accession
+régi par la loi n° 84-595 du 12 juillet 1984 définissant la location-accession à
+la propriété immobilière sur l'immeuble faisant l'objet du contrat, pour la
+garantie des droits qu'ils tiennent de ce contrat.

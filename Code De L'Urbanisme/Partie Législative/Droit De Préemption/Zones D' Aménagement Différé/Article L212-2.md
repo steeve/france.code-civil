@@ -36,7 +36,7 @@ En cas de déclaration d'utilité publique, l'exercice du droit de préemption
 produit les mêmes effets que l'accord amiable en matière d'expropriation en ce
 qui concerne l'extinction des droits réels et personnels.
 
-l'Etat peut toujours se substituer à une collectivité locale, un établissement
+L'Etat peut toujours se substituer à une collectivité locale, un établissement
 public ou une société d'économie mixte qui n'exerce pas le droit de préemption
 dont cette personne morale a été investie en vertu de l'alinéa premier du
 présent article ou qui n'acquiert pas un bien dont l'acquisition lui est
@@ -45,4 +45,6 @@ ainsi acquis a déjà été affecté à des fins d'intérêt général, il sera 
 titulaire du droit de préemption à la condition que ce dernier justifie de
 projets d'utilisation immédiate du bien dont il s'agit à des fins d'intérêt
 général et que sa demande soit formulée dans l'année [*délai*] qui suit la
-période d'exercice du droit de préemption.
+période d'exercice du droit de préemption. Les dispositions du troisième alinéa
+de l'article L. 211-2 s'appliquent dans le périmètre des zones d'aménagement
+différé.
