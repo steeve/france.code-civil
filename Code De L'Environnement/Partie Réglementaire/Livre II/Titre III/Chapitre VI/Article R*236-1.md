@@ -6,7 +6,7 @@ engins et aux filets sur les eaux du domaine public et des associations agréée
 de pêcheurs professionnels en eau douce ainsi que par les personnes qui
 pratiquent la capture du poisson à l'aide de lignes dans les piscicultures
 créées à des fins de valorisation touristique sont fixés ainsi qu'il suit pour
-l'année 2004 :
+l'année 2005 :
 
 1° Pêcheurs professionnels à temps plein ou partiel, notamment les
 adjudicataires, cofermiers et titulaires de licences de pêche professionnelle
@@ -45,8 +45,8 @@ L. 431-6 du code de l'environnement, à l'exception de la personne physique
 propriétaire du plan d'eau : 10,50 euros ;
 
 7° Pêcheurs amateurs, membres d'une association agréée de pêche et de
-pisciculture, titulaires d'une carte de pêche Vacances, valable pour quinze
-jours consécutifs entre le 1er juin et le 30 septembre : 12 euros ;
+pisciculture, titulaires d'une carte de pêche Vacances, valable pour 15 jours
+consécutifs entre le 1er juin et le 30 septembre : 12 euros ;
 
 8° Pêcheurs amateurs dans les cours d'eau de 2e catégorie et dans les plans
 d'eau de 1re et de 2e catégorie, membres d'une association agréée de pêche et de
@@ -56,14 +56,14 @@ Les pêcheurs appartenant à plusieurs des catégories mentionnées ci-dessus ne
 sont assujettis que pour le montant de la taxe dont le taux est le plus élevé.
 
 Tout pêcheur amateur qui pratique la pêche des salmonidés migrateurs (truite de
-mer et saumon) doit acquitter une taxe supplémentaire au taux de 23,50 euros.
+mer et saumon) doit acquitter une taxe supplémentaire au taux de 33,50 euros.
 
 Tout pêcheur professionnel qui pratique la pêche des salmonidés migrateurs
-(truite de mer et saumon) doit acquitter une taxe supplémentaire au taux de 32
+(truite de mer et saumon) doit acquitter une taxe supplémentaire au taux de 42
 euros.
 
 Tout pêcheur professionnel de civelle doit acquitter une taxe supplémentaire au
-taux de 205 euros.
+taux de 220 euros.
 
 Tout pêcheur amateur de civelle doit acquitter une taxe supplémentaire au taux
-de 41 euros.
+de 56 euros.
