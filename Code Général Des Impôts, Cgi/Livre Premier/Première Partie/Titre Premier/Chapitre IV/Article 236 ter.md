@@ -5,9 +5,10 @@ les dépenses exposées à l'occasion d'études archéologiques préalables ou
 d'opérations archéologiques qui constituent un élément du prix de revient d'une
 immobilisation peuvent être déduites des résultats de l'exercice au cours duquel
 elles sont engagées, si elles sont effectuées en application des dispositions de
-la loi du 27 septembre 1941 portant réglementation des fouilles archéologiques,
-de la loi n° 76-629 du 10 juillet 1976 relative à la protection de la nature et
-de la loi n° 76-1285 du 31 décembre 1976 portant réforme de l'urbanisme.
+la loi du 27 septembre 1941 modifiée portant réglementation des fouilles
+archéologiques, de la loi n° 76-629 du 10 juillet 1976 modifiée relative à la
+protection de la nature et de la loi n° 76-1285 du 31 décembre 1976 portant
+réforme de l'urbanisme.
 
 Les sommes ainsi déduites sont rapportées aux résultats du même exercice et des
 exercices suivants, au même rythme que l'amortissement de l'immobilisation et,
