@@ -12,9 +12,8 @@ B - Troubles respiratoires : dyspnée asthmatiforme, oedème broncho-alvéolaire
 C - Troubles nerveux : céphalées, vertiges, confusion mentale accompagnée de
 myosis
 
-D - Troubles généraux et vasculaires :
-
-asthénie, bradycardie et hypotension, amblyopie.
+D - Troubles généraux et vasculaires : asthénie, bradycardie et hypotension,
+amblyopie.
 
 Le diagnostic sera confirmé dans tous les cas (A, B, C, D) par un abaissement
 significatif du taux de la cholinestérase sérique et de l'acétylcholinestérase
@@ -30,5 +29,4 @@ LISTE INDICATIVE DES PRINCIPAUX TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
 
 Toute préparation ou manipulation des phosphates, pyrophosphates et
 thiophosphates d'alcoyle, d'aryle ou d'alcoylaryle et autres organophosphorés
-anticholinestérasiques ainsi que par les phosphoramides et carbamates
-anticholinestérasiques.
+ainsi que par les phosphoramides et carbamates, anticholinestérasiques.
