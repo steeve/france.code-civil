@@ -12,6 +12,10 @@ cadastral constatée sur le plan national à la suite de la révision des
 III Le taux maximum et les conditions d'application de la taxe sont fixés par
 décret en Conseil d'Etat (2).
 
-1) Annexe III, art. 331-0D.
+Au titre de 1989, le taux de la taxe est fixé à 2,02 % pour les propriétés no
+bâties mentionnées au IV.
 
-2) Annexe II, art. 317 A et 317 B.
+IV La taxe est supprimée à compter de 1990 pour les propriétés non bâties
+classées en terres, prés, vergers, vignes, bois, landes et eaux.
+
+(1) Annexe II, art. 319, art. 319 A 2) Annexe II, art. 317 A et 317 B.
