@@ -19,5 +19,10 @@ Le fait, pour tout conducteur, de circuler, en marche normale, sur la partie
 gauche d'une chaussée à double sens de circulation est puni de l'amende prévue
 pour les contraventions de la quatrième classe.
 
+Tout conducteur coupable de cette dernière infraction encourt également la peine
+complémentaire de suspension du permis de conduire pour une durée de trois ans
+au plus, cette suspension pouvant être limitée à la conduite en dehors de
+l'activité professionnelle.
+
 Cette dernière contravention donne lieu de plein droit à la réduction de trois
 points du permis de conduire.

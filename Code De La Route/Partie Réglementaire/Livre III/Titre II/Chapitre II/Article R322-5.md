@@ -17,14 +17,14 @@ susceptible de modifier les indications de la précédente carte grise ;
 répond aux conditions requises pour être maintenu en circulation conformément
 aux dispositions du chapitre III du présent titre ;
 
-4° D'une attestation d'inscription ou de non-inscription de gage établie depuis
-moins d'un mois par la préfecture qui a délivré la précédente carte grise ;
+4° Du certificat de non-opposition au transfert du certificat d'immatriculation
+et de l'attestation d'inscription ou de non-inscription de gage établis depuis
+moins d'un mois par le préfet qui a délivré la précédente carte grise ou par le
+préfet compétent pour délivrer la nouvelle, ou par voie électronique lorsque la
+demande est présentée par l'intermédiaire du site internet du ministère de
+l'intérieur.
 
-5° Du certificat de non-opposition au transfert du certificat d'immatriculation
-établi depuis moins de deux mois par la préfecture qui a délivré la précédente
-carte grise ;
-
-6° D'une déclaration d'achat en cas de vente du véhicule par un professionnel.
+5° D'une déclaration d'achat en cas de vente du véhicule par un professionnel.
 
 II. - La carte grise portant la mention de la mutation ou de la revente par un
 professionnel n'est valable pour la circulation du véhicule que pendant une

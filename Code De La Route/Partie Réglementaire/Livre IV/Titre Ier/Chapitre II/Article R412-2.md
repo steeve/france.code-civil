@@ -25,5 +25,5 @@ autre véhicule affecté au transport public routier de personnes, ou dans un
 véhicule de transport en commun.
 
 IV. - Le fait, pour tout conducteur, de contrevenir aux dispositions du présent
-article est puni de l'amende prévue pour les contraventions de la deuxième
+article est puni de l'amende prévue pour les contraventions de la quatrième
 classe.

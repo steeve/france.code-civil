@@ -24,7 +24,11 @@ en sa possession.
 
 Dans chacun des cas définis aux alinéas précédents, la remise de la carte grise
 doit être accompagnée du certificat de non-opposition au transfert du certificat
-d'immatriculation.
+d'immatriculation et de l'attestation d'inscription ou de non-inscription de
+gage établis depuis moins d'un mois par le préfet qui a délivré la précédente
+carte grise ou par le préfet compétent pour délivrer la nouvelle, ou par voie
+électronique lorsque la demande est présentée par l'intermédiaire du site
+internet du ministère de l'intérieur.
 
 Le ministre chargé des transports définit par arrêté pris après avis du ministre
 de l'intérieur les conditions d'application du présent article, notamment en ce

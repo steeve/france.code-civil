@@ -31,7 +31,7 @@ des livraisons de porte à porte.
 
 III. - Le fait, pour tout conducteur ou passager, de contrevenir aux
 dispositions du présent article est puni de l'amende prévue pour les
-contraventions de la deuxième classe.
+contraventions de la quatrième classe.
 
 IV. - Lorsque cette contravention est commise par le conducteur, elle donne lieu
-de plein droit à la réduction d'un point du permis de conduire.
+de plein droit à la réduction de trois points du permis de conduire.

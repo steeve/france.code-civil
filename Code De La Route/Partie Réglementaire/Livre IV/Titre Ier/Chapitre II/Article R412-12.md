@@ -26,9 +26,10 @@ article est puni de l'amende prévue pour les contraventions de la quatrième
 classe.
 
 VI. - Tout conducteur qui a contrevenu aux règles de distance prises en
-application du IV encourt également la peine complémentaire de suspension, pour
-une durée de trois ans au plus, du permis de conduire, cette suspension pouvant
-être limitée à la conduite en dehors de l'activité professionnelle.
+application du présent article encourt également la peine complémentaire de
+suspension, pour une durée de trois ans au plus, du permis de conduire, cette
+suspension pouvant être limitée à la conduite en dehors de l'activité
+professionnelle.
 
 VII. - La contravention prévue au V donne lieu de plein droit à la réduction de
 3 points du permis de conduire.
