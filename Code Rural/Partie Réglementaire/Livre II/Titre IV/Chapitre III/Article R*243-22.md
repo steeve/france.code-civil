@@ -19,5 +19,8 @@ Basse-Normandie, Haute-Normandie, Picardie, Nord - Pas-de-Calais) ;
 
 7° Le conseil des rivages des lacs.
 
-Les lacs situés en totalité ou en partie dans les cantons côtiers sont rattachés
-aux conseils de rivage maritime correspondants.
+Les lacs entrant dans le champ d'attribution du Conservatoire de l'espace
+littoral et des rivages lacustres, lorsqu'ils sont situés en totalité ou en
+partie dans les cantons côtiers, ainsi que ceux qui constituent avec le littoral
+une unité écologique ou paysagère, sont rattachés aux conseils de rivage
+maritime correspondants.
