@@ -17,4 +17,8 @@ e) Le cas échéant, au versement d'indemnités pour perte de ressources aux
 membres du conseil de gestion.
 
 Les fonds d'assurance-formation ne peuvent posséder [*interdiction*] d'autres
-biens, meubles ou immeubles que ceux qui sont nécessaires à leur fonctionnement.
+biens, meubles et immeubles que ceux qui sont nécessaires à leur fonctionnement.
+
+Les dépenses mentionnées aux c, d et e ci-dessus ne peuvent excéder un plafond
+fixé par arrêté conjoint du ministre chargé du budget et du ministre chargé de
+la formation professionnelle.
