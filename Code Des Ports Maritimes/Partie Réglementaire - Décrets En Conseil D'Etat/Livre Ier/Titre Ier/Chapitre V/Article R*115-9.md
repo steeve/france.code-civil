@@ -7,9 +7,9 @@ accord du conseil d'administration.
 Le cahier des charges est conforme à un cahier des charges type approuvé par
 décret en Conseil d'Etat pris sur la proposition conjointe des ministres chargés
 des ports maritimes, du budget et du domaine. Toutefois, le cahier des charges
-peut déroger au cahier des charges type, à la condition que ces dérogations
-aient été préalablement approuvées par le ministre chargé des ports maritimes et
-le ministre chargé du domaine ainsi que, le cas échéant, le ministre de qui
+peut comporter des dérogations au cahier des charges type, à la condition
+qu'elles aient été préalablement approuvées par les ministres chargés des ports
+maritimes, du budget et du domaine ainsi que, le cas échéant, le ministre dont
 relève la collectivité publique ou l'établissement public intéressé ; l'absence
 de réponse des ministres dans le délai de deux mois suivant la réception la plus
 tardive de la demande vaut approbation.
