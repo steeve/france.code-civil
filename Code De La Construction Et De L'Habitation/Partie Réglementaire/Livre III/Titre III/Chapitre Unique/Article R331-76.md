@@ -1,9 +1,8 @@
 Article R331-76
 ----
-Les prêts sont amortissables [*durée amortissement*] :
-
-En dix ans au minimum et vingt-cinq ans au maximum pour les opérations prévues à
-l'article R. 331-63 1°, 3° et 5°;
-
-En cinq ans au minimum et quinze ans au maximum pour les opérations prévues au
-4° de l'article R. 331-63.
+La durée initiale d'amortissement des prêts est fixée à cinq ans au minimum et
+vingt-cinq ans au maximum. Les contrats de prêt peuvent prévoir que la durée
+peut être rallongée au cours de la période de remboursement jusqu'à un maximum
+de trente ans, ou réduite sans durée minimale. A la fin de la dernière année de
+prolongation, l'emprunteur est dégagé du règlement de toutes charges
+financières, à l'exception de dettes résultant d'un arriéré éventuel.

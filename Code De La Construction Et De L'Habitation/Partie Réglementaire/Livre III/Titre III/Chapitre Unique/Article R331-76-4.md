@@ -1,16 +1,7 @@
 Article R331-76-4
 ----
-Le prêt accordé est au plus égal à 90 p. 100 du prix de vente du logement à la
-date de la signature du contrat de location-accession [*montant maximum*]. Ce
-prix ne peut excéder le prix de vente, toutes taxes comprises, défini par mètre
-carré de surface habitable et fixé par l'arrêté prévu à l'article R. 331-68 du
-code de la construction et de l'habitation en vigueur à la date mentionnée
-ci-dessus.
-
-Si le montant initial du prêt n'atteint pas la quotité maximum prévue ci-dessus,
-le bénéficiaire du prêt ou l'accédant, au moment du transfert de propriété, peut
-bénéficier, en tant que de besoin, d'un complément de prêt dans la limite de la
-fraction de quotité non utilisée.
+Le prêt conventionné peut financer l'intégralité du coût de l'opération défini
+par l'arrêté mentionné à l'article R. 331-71.
 
 Lors du transfert de propriété au bénéfice du titulaire du contrat de
 location-accession ou, à défaut, à un autre acquéreur, le prêt peut être

@@ -1,20 +1,11 @@
 Article R331-69
 ----
-Pour pouvoir faire l'objet d'un prêt conventionné, les opérations prévues à
-l'article R. 331-63 (1° et 3°) doivent respecter des normes minimales de
-surface, les opérations d'agrandissement de logements existants, par extension
-ou surélévation, doivent conduire à une création de surface habitable minimale
-fixée par arrêté du ministre chargé de la construction et de l'habitation.
-
-Dans le cas des opérations prévues au 3° de l'article R. 331-63, les travaux
-d'amélioration doivent avoir pour effet de mettre en conformité à des normes
-minimales d'habitabilité des logements qui ne le sont pas.
-
-Les opérations visées à l'article R. 331-63 (3°) portant sur des immeubles
-chevés depuis plus de vingt ans font l'objet d'un état des lieux relatif aux
-conditions d'habitabilité et de surface, annexé au contrat de prêt. Les frais
-relatifs à cet état des lieux peuvent s'imputer sur le montant total de
-l'opération et être financés par le prêt.
-
-Les modalités de cet état des lieux ainsi que les normes de surface et
-d'habitabilité sont fixées par un arrêté du ministre chargé du logement.
+Les opérations d'agrandissement de logements existants ou d'acquisition de
+logements existants suivies, le cas échéant, de travaux d'amélioration, doivent
+respecter des normes minimales de surface habitable. Les travaux
+d'agrandissement ou d'amélioration doivent avoir au minimum pour effet de mettre
+en conformité les logements avec des normes d'habitabilité. Lorsque
+l'acquisition porte sur des immeubles achevés depuis plus de vingt ans, un état
+des lieux relatif aux conditions de surface et d'habitabilité est annexé au
+contrat de prêt. Un arrêté des ministres chargés du logement et de l'économie
+définit les conditions d'application de cet article.
