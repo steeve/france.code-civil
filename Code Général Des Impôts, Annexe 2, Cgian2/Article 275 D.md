@@ -11,3 +11,7 @@ impôts, comme deux cigarettes lorsqu'il a une longueur, filtre et embout non
 compris, supérieure à 9 centimètres sans dépasser 18 centimètres, comme trois
 cigarettes lorsqu'il a une longueur, filtre et embout non compris, supérieure à
 18 centimètres sans dépasser 27 centimètres et ainsi de suite.
+
+Sont également considérés comme cigarettes les rouleaux de tabac qui, par une
+simple manipulation non industrielle, sont glissés dans des tubes à cigarettes
+ou enveloppés dans des feuilles de papier à cigarettes.
