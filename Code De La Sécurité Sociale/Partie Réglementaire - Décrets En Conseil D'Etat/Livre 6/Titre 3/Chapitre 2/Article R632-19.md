@@ -1,7 +1,6 @@
 Article R632-19
 ----
-Dans chaque secteur électoral, la commission totalise le nombre des suffrages
-obtenus par chaque liste. Pour chaque catégorie d'administrateurs, elle
+La commission totalise le nombre de suffrages obtenus par chaque liste. Elle
 détermine le quotient électoral et calcule le nombre de sièges obtenus par
 chaque liste.
 

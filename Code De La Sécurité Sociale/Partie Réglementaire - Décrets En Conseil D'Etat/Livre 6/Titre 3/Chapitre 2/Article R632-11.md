@@ -1,13 +1,12 @@
 Article R632-11
 ----
-Les listes de candidats sont établies par secteur électoral. Elles sont divisées
-en deux parties, l'une comportant les candidats cotisants, l'autre les candidats
-retraités. Le nombre des candidats de chacune de ces deux parties doit être égal
-à trois s'il n'y a qu'un administrateur à élire et, dans les autres cas, à une
-fois et demie au moins et deux fois au plus le nombre d'administrateurs à élire,
-le résultat étant arrondi, le cas échéant, à l'unité supérieure.
-
-Les listes de candidats doivent être signées par tous les candidats qui y sont
+Le nombre de candidats retraités figurant sur chaque liste doit être égal à une
+fois et demie au moins ou deux fois au plus le nombre de sièges à pourvoir. Les
+listes de candidats doivent comporter, pour chacun des candidats, ses nom et
+prénoms, sa date de naissance et l'intitulé de la caisse de base dont il est
+administrateur. Elles doivent être signées par tous les candidats qui y sont
 inscrits.
 
-Nul ne peut être inscrit sur plusieurs listes.
+Nul ne peut être candidat sur plusieurs listes. Dans l'ordre de présentation de
+la liste un intervalle de sept candidats doit séparer deux candidats relevant
+d'une même caisse de base.

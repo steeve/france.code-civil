@@ -1,5 +1,8 @@
 Article R632-5
 ----
-L'élection des membres du conseil d'administration a lieu au plus tard le
-quatre-vingtième jour suivant la date des élections des conseils
-d'administration des caisses de base prévue à l'article R. 633-24.
+Le conseil d'administration de chaque caisse de base, au cours de sa séance
+d'installation, qui a lieu au plus tard dans les trente jours suivant la
+proclamation du résultat des élections prévu à l'article R. 633-46, procède à
+l'élection, parmi ses membres cotisants, de l'administrateur devant siéger au
+conseil d'administration de la caisse nationale, dans les conditions prévues aux
+articles R. 633-6-1 à R. 633-6-6.

@@ -1,15 +1,14 @@
 Article R632-7
 ----
-Les sièges à pourvoir sont répartis entre des secteurs électoraux dont l'un
-regroupe les caisses professionnelles et les autres, les caisses
-interprofessionnelles. Cette répartition est faite entre les secteurs
-proportionnellement au nombre des affiliés dans chacun d'eux.
+Les administrateurs retraités mentionnés au 2° de l'article R. 632-4 sont élus
+par correspondance à la représentation proportionnelle, au scrutin de liste,
+sans panachage ni vote préférentiel, suivant les règles du quotient et de la
+plus forte moyenne.
 
-Le nombre d'affiliés à retenir pour l'application de l'alinéa précédent est
-celui pris en compte pour les élections des conseils d'administration des
-caisses de base prévues aux articles R. 633-15 à R. 633-52.
+Au cas où il ne reste qu'un seul siège à attribuer si deux listes ont la même
+moyenne, le siège revient à la liste qui a obtenu le plus grand nombre de
+suffrages.
 
-Le nombre des secteurs, la répartition des caisses entre ces secteurs et le
-nombre de sièges attribués à chacun d'eux sont fixés par arrêté du ministre
-chargé de la sécurité sociale et du ministre chargé du commerce, pris après avis
-du conseil d'administration de la caisse nationale.
+Si les deux listes en cause ont également recueilli le même nombre de suffrages,
+le siège est attribué à la liste dont la moyenne d'âge de tous les candidats y
+figurant est la plus élevée.
