@@ -5,6 +5,6 @@ identifiées, ainsi que les personnes ou autorités mentionnées au deuxième al
 de l'article 40, des poursuites ou des mesures alternatives aux poursuites qui
 ont été décidées à la suite de leur plainte ou de leur signalement.
 
-Lorsque l'auteur des faits est identifié mais que le procureur de la République
-décide de classer sans suite la procédure, il les avise également de sa décision
-en indiquant les raisons juridiques ou d'opportunité qui la justifient.
+Lorsqu'il décide de classer sans suite la procédure, il les avise également de
+sa décision en indiquant les raisons juridiques ou d'opportunité qui la
+justifient.
