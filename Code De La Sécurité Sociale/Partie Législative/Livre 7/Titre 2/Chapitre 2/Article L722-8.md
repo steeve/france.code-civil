@@ -12,11 +12,12 @@ Les femmes mentionnées au premier alinéa bénéficient des allocations prévue
 le présent article à l'occasion de l'arrivée à leur foyer d'un enfant confié en
 vue de son adoption par un service d'aide sociale à l'enfance ou par un
 organisme autorisé pour l'adoption. Ces allocations sont également accordées aux
-femmes titulaires de l'agrément mentionné aux articles 63 ou 100-3 du code de la
-famille et de l'aide sociale lorsqu'elles adoptent ou accueillent un enfant en
-vue de son adoption par décision de l'autorité étrangère compétente, à condition
-que l'enfant ait été autorisé, à ce titre, à entrer sur le territoire français.
-Les allocations sont servies dans les conditions suivantes :
+femmes titulaires de l'agrément mentionné aux articles L. 225-2 à L. 225-7 et L.
+225-18 ou L. 225-15 du code de l'action sociale et des familles lorsqu'elles
+adoptent ou accueillent un enfant en vue de son adoption par décision de
+l'autorité étrangère compétente, à condition que l'enfant ait été autorisé, à ce
+titre, à entrer sur le territoire français. Les allocations sont servies dans
+les conditions suivantes :
 
 1°) l'allocation forfaitaire prévue au premier alinéa est due pour sa moitié ;
 

@@ -8,7 +8,7 @@ accueilli, est déterminé par décret en référence au salaire minimum de
 croissance.
 
 Ce montant varie selon que l'accueil est continu ou intermittent au sens de
-l'article 123-3 du code de la famille et de l'aide sociale. Il peut également
+l'article L. 421-10 de l'action sociale et des familles. Il peut également
 varier selon le nombre d'enfants accueillis.
 
 La rémunération cesse d'être versée lorsque l'enfant accueilli quitte

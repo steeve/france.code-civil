@@ -8,6 +8,6 @@ que si ces contrats ont été conclus :
 - soit avec des ateliers protégés ou des centres de distribution de travail à
 domicile créés et agréés dans les conditions prévues par l'article L. 323-31 ;
 
-- soit avec des centres d'aide par le travail visés à l'article 167 du code de
-la famille et de l'aide sociale et autorisés dans les conditions prévues par les
-articles 9 et 18 de la loi n° 75-535 du 30 juin 1975.
+- soit avec des centres d'aide par le travail visés à l'article L.344-2 du code
+de l'action sociale et des familles et autorisés dans les conditions prévues par
+les articles 9 et 18 de la loi n° 75-535 du 30 juin 1975.

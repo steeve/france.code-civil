@@ -3,9 +3,9 @@ Article D412-86
 Les actions d'insertion professionnelle ou les activités d'intérêt collectif
 organisées par des personnes morales de droit public ou de droit privé envers
 les bénéficiaires du revenu minimum d'insertion et les membres de leur foyer
-pour l'exécution de l'engagement visé à l'article 2 de la loi n° 88-1088 du 1er
-décembre 1988 ouvrent droit pour les intéressés à la protection prévue à
-l'article L. 412-8 (10°) lorsque, pour leur participation à ces mêmes actions,
+pour l'exécution de l'engagement visé à l'article L. 262-1 du code de l'action
+sociale et des familles ouvrent droit pour les intéressés à la protection prévue
+à l'article L. 412-8 (10°) lorsque, pour leur participation à ces mêmes actions,
 ils ne bénéficient pas à un autre titre d'une protection contre les accidents du
 travail et les maladies professionnelles.
 

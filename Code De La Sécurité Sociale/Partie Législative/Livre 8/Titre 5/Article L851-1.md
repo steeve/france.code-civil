@@ -14,10 +14,10 @@ par les livres V, VII et VIII du présent code et, d'autre part, aux capacités
 réelles et prévisionnelles d'hébergement offertes par l'organisme.
 
 Pour le calcul de l'aide instituée par le présent article, ne sont pas prises en
-compte les personnes bénéficiant de l'aide sociale prévue à l'article 185 du
-code de la famille et de l'aide sociale et les personnes hébergées titulaires
-des aides prévues aux articles L. 351-1 du code de la construction et de
-l'habitation et L. 542-1, L. 755-21 et L. 831-1 du présent code.
+compte les personnes bénéficiant de l'aide sociale prévue à l'article L. 345-1
+du code de l'action sociale et des familles et les personnes hébergées
+titulaires des aides prévues aux articles L. 351-1 du code de la construction et
+de l'habitation et L. 542-1, L. 755-21 et L. 831-1 du présent code.
 
 II. - Une aide forfaitaire est versée aux communes ou aux établissements publics
 de coopération intercommunale qui gèrent une ou plusieurs aires d'accueil de

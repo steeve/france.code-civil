@@ -17,13 +17,13 @@ compter du 1er janvier 1999.
 Les dispositions du présent article sont applicables aux personnes accueillies
 dans les structures suivantes :
 
-- centres d'hébergement et de réadaptation sociale visés à l'article 185 du code
-de la famille et de l'aide sociale ainsi que les services ou établissements
-habilités qui organisent des activités professionnelles dans un but de
-réinsertion socioprofessionnelle en application des articles 45 et 46 du même
-code ;
+- centres d'hébergement et de réadaptation sociale visés à l'article L. 345-1 du
+code de l'action sociale et des familles ainsi que les services ou
+établissements habilités qui organisent des activités professionnelles dans un
+but de réinsertion socioprofessionnelle en application des articles L. 121-2 et
+L. 222-5 du même code ;
 
-- structures agréées au titre de l'article 185-2 du même code et des textes pris
-en application dudit article organisant des activités professionnelles en vue de
-favoriser leur insertion sociale et les structures assimilées dont la liste est
-fixée par arrêté du ministre chargé de l'action sociale.
+- structures agréées au titre de l'article 185-2 (1) du même code et des textes
+pris en application dudit article organisant des activités professionnelles en
+vue de favoriser leur insertion sociale et les structures assimilées dont la
+liste est fixée par arrêté du ministre chargé de l'action sociale.

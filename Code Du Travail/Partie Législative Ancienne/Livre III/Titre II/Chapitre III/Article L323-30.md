@@ -4,7 +4,7 @@ Les personnes handicapées pour lesquelles le placement dans un milieu normal de
 travail s'avère impossible peuvent être admises soit dans un atelier protégé si
 leur capacité de travail est au moins égale à un pourcentage de la capacité
 normale fixé par décret, soit dans un centre d'aide par le travail prévu à
-l'article 167 du code de la famille et de l'aide sociale.
+l'article L. 344-2 du code de l'action sociale et des familles.
 
 En outre, des centres de distribution de travail à domicile assimilés aux
 ateliers protégés peuvent procurer aux travailleurs handicapés des travaux
