@@ -3,7 +3,8 @@ Article 1613
 I. Il est institué une taxe forestière sur les sciages, éléments de charpente,
 menuiseries industrielles du bâtiment, parquets, lambris, moulures, baguettes,
 bois de placage, bois contre-plaqués, panneaux, palettes, emballages en bois,
-papiers et cartons fabriqués ou importés en France métropolitaine.
+papiers et cartons fabriqués faisant l'objet d'une acquisition
+intracommunautaire ou importés en France métropolitaine.
 
 II. Le taux de la taxe forestière est fixé à :
 
@@ -127,7 +128,9 @@ III. Le produit de cette taxe est versé au compte spécial du Trésor intitulé
 Fonds forestier national.
 
 IV. 1. La taxe forestière est due en France métropolitaine par les entreprises
-qui fabriquent et par les personnes qui importent un des produits énumérés au I.
+qui fabriquent et par les personnes qui importent un des produits énumérés au I
+ou qui réalisent des acquisitions intracommunautaires portant sur ces mêmes
+produits.
 
 2. Pour les produits fabriqués en France, le fait générateur de la taxe est
 constitué soit par leur livraison en France métropolitaine soit par leur
@@ -139,15 +142,22 @@ recette lorsque ces produits sont livrés, ou par le prix de revient net de
 toutes taxes, lorsque l'entreprise utilise des produits taxables pour son propre
 usage ou pour les besoins de la fabrication de produits non taxables.
 
-Toutefois, les livraisons faites en France à des exportateurs ne sont pas à
-comprendre dans l'assiette et les importations destinées à ces mêmes
-exportateurs ne sont pas imposables lorsque le client ou l'importateur
-justifient de l'exportation en produisant une attestation, visée par le service
-des impôts dont ils relèvent, certifiant que les produits sont destinés à être
-exportés en l'état ou après transformation. Cette attestation doit comporter
+Toutefois, les livraisons de produits énumérés au I faites en France à des
+exportateurs ou à des personnes qui effectuent des livraisons exonérées en vertu
+du I de l'article 262 ter ou des livraisons dans un lieu situé dans un autre
+Etat membre de la Communauté économique européenne en application de l'article
+258 A, ne sont pas à comprendre dans l'assiette. Les importations et les
+acquisitions destinées à ces mêmes exportateurs ou expéditeurs ne sont pas
+imposables. Le fabricant, l'importateur ou la personne qui réalise les
+acquisitions intracommunautaires, justifie le non-paiement de la taxe en
+produisant l'attestation visée à l'article 275. Cette attestation doit comporter
 l'engagement d'acquitter la taxe dans le cas où les produits ne recevraient pas
 la destination ayant motivé l'exclusion de l'assiette ou l'exonération, sans
 préjudice des pénalités prévues aux articles 1725 à 1740.
+
+Pour les acquisitions intracommunautaires, l'assiette de la taxe est constituée
+par toutes les sommes, valeurs, biens ou services reçus ou à recevoir par le
+vendeur de la part de l'acheteur. La taxe est due lors de l'acquisition.
 
 La taxe est constatée dans les conditions définies à l'article 287 et recouvrée
 avec les sanctions et garanties prévues à l'article 1697.

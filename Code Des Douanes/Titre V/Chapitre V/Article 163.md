@@ -1,20 +1,25 @@
 Article 163
 ----
-1. Les usines exercées sont des établissements ou des installations qui, ayant
-pour objet de permettre l'extraction, la fabrication, la mise en oeuvre ou
-l'utilisation de produits auxquels s'appliquent :
+1. La production d'huiles minérales en régime de suspension de taxes et de
+redevances s'effectue dans un entrepôt fiscal de production dit usine exercée.
 
-- soit un régime douanier particulier ;
+2. La production d'huiles minérales s'entend de l'extraction et de l'obtention,
+par tous procédés et à partir de toutes matières premières, des huiles minérales
+visées aux tableaux B et C de l'article 265.
 
-- soit une taxe ou redevance perçue par l'administration des douanes ;
+Ne sont toutefois pas considérées comme production d'huiles minérales les
+opérations suivantes :
 
-- soit un avantage douanier ou fiscal sous conditions d'emploi à certains usages
-;
+a) les opérations au cours desquelles de petites quantités d'huiles minérales
+sont obtenues accessoirement ;
 
-- soit d'autres dispositions dont l'application incombe, en tout ou partie, à
-l'administration des douanes, se trouvent de ce fait placés sous le contrôle de
-l'administration des douanes.
+b) les opérations par lesquelles l'utilisateur d'une huile minérale rend sa
+réutilisation possible dans sa propre entreprise et pour ses besoins propres,
+pour autant que les montants de taxe déjà payés sur cette huile ne soient pas
+inférieurs au montant de taxe qui serait dû si l'huile réutilisée était à
+nouveau soumise à cette imposition.
 
-2. Sauf dispositions contraires de la loi, les produits qui sont admis en usines
-exercées en vertu du présent chapitre, le sont en suspension des droits, taxes
-et redevances dont ils sont passibles.
+3. Les personnes ayant la qualité d'entrepositaire agréé peuvent seules
+exploiter une usine exercée ; à ce titre, elles peuvent seules y recevoir,
+produire et expédier les huiles minérales visées aux tableaux B et C de
+l'article 265.

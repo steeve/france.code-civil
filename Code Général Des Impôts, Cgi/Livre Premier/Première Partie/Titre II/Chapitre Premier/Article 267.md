@@ -15,10 +15,11 @@ II Ne sont pas à comprendre dans la base d'imposition :
 prix consenties directement aux clients;
 
 2° Les sommes remboursées aux intermédiaires, autres que les agences de voyage
-et organisateurs de circuits touristiques, qui effectuent des dépenses sur
-l'ordre et pour le compte de leurs commettants dans la mesure où ces
-intermédiaires rendent compte à leurs commettants et justifient auprès de
-l'administration des impôts de la nature ou du montant exact de ces débours.
+et organisateurs de circuits touristiques, qui effectuent des dépenses au nom et
+pour le compte de leurs commettants dans la mesure où ces intermédiaires rendent
+compte à leurs commettants portent ces dépenses dans leur comptabilité dans des
+comptes de passage, et justifient auprès de l'administration des impôts de la
+nature ou du montant exact de ces débours.
 
 III Les sommes perçues lors des livraisons d'emballages consignés peuvent être
 exclues de la base d'imposition à la condition que la taxe sur la valeur ajoutée

@@ -1,27 +1,45 @@
 Article 291
 ----
-I Les importations de biens sont soumises à la taxe sur la valeur ajoutée.
+I 1 Les importations de biens sont soumises à la taxe sur la valeur ajoutée
+[*TVA*].
+
+2 Est considérée comme importation d'un bien [*définition*]:
+
+a) L'entrée en France d'un bien originaire ou en provenance d'un Etat qui
+n'appartient pas à la Communauté économique européenne et qui n'a pas été mis en
+libre pratique, ou d'un bien en provenance d'un territoire d'un autre Etat
+membre de la Communauté situé en dehors du champ d'application de la directive
+(CEE n° 77-388 modifiée du 17 mai 1977 du Conseil des communautés européennes,
+ou des îles anglo-normandes ;
+
+b) La mise à la consommation en France d'un bien placé, lors de son entrée sur
+le territoire, sous l'un des régimes douaniers suivants prévus par la
+réglementation communautaire en vigueur :
+
+conduite en douane, magasins et aires de dépôt temporaire, entrepôts
+d'importation ou d'exportation, perfectionnement actif, admission temporaire en
+exonération totale des droits à l'importation ou sous les procédures du transit
+externe ou du transit communautaire interne (1).
 
 II Toutefois, sont exonérés :
 
-1° Les biens destinés à être placés sous l'un des régimes douaniers suivants :
-entrepôt, magasins et aires de dédouanement, perfectionnement actif, transit,
-ainsi que les prestations de services relatives à ces biens (1);
+1° Pendant la durée du régime qui leur est attribué, les biens qui sont importés
+et mis :
 
-1° bis Les biens admis temporairement en France lorsqu'ils sont importés d'un
-Etat membre de la Communauté économique européenne et les prestations de
-services relatives à ces biens (2).
+a) Sous le régime de l'admission temporaire pour vente éventuelle, prévu par la
+directive (CEE) n° 85-362 modifiée du 16 juillet 1985 du Conseil des communautés
+européennes ;
 
-Les biens admis temporairement en France lorsqu'ils sont importés d'un pays
-tiers en exonération totale des droits à l'importation prévue par le titre II du
-règlement C.E.E. n° 3599-82 du conseil du 21 décembre 1982 et les prestations de
-services relatives à ces biens (2).
+b) Ou sous les régimes d'entrepôt à l'importation ou à l'exportation ou du
+perfectionnement actif autres que ceux qui sont mentionnés au 2 du I (1).
+
+1° bis (Supprimé).
 
 2° Les biens importés définitivement dans le cadre des franchises fiscales
 communautaires et qui sont désignés par arrêté.
 
 Cet arrêté détermine également les modalités d'application du présent paragraphe
-(3) ;
+(2) ;
 
 3° Les produits suivants :
 
@@ -41,7 +59,7 @@ déchets neufs d'industrie et matières de récupération;
 
 5° Dans les conditions fixées par arrêté du ministre du budget, les navires,
 aéronefs, objets incorporés, engins et filets pour la pêche maritime prévus à
-l'article 262 II-2° à 5° (4);
+l'article 262 II-2° à 5° (3);
 
 6° Les produits de la pêche en l'état ou ayant fait l'objet d'opérations
 destinées à les préserver en vue de leur commercialisation importés par les
@@ -54,41 +72,40 @@ dentaires;
 d'antiquité, lorsque l'importation est réalisée directement à destination
 d'établissements agréés par le ministre de la culture et de la communication;
 les conditions d'application de ces dispositions sont fixées par arrêté du
-ministre du budget (5) (art. 5 VII, modification en vigueur le 1er octobre
-1991);
+ministre du budget (4) ;
 
 9° Les objets d'occasion, d'antiquité ou de collection, oeuvres d'art originales
-répondant aux conditions qui sont fixées par décret (6), pierres précieuses et
+répondant aux conditions qui sont fixées par décret (5) pierres précieuses et
 perles, lorsqu'ils sont importés en vue d'une vente aux enchères publiques, par
 un assujetti à la taxe sur la valeur ajoutée redevable de la taxe au titre de
-cette vente ou exonéré en application du I de l'article 262 (art. 4 III, entrée
-en vigueur le 29 juillet 1991).
+cette vente ou exonéré en application du I de l'article 262.
 
 III Sont également exonérées de la taxe sur la valeur ajoutée :
 
 1° La réimportation, par la personne qui les a exportés, de biens dans l'état où
-ils ont été exportés et qui bénéficient de la franchise des droits de douane ou
-qui seraient susceptibles d'en bénéficier s'ils étaient importés d'un pays
-tiers;
+ils ont été exportés et qui bénéficient de la franchise des droits de douane, ou
+qui en bénéficieraient s'ils étaient soumis à des droits de douane ;
 
-2° La réimportation, par la personne qui les a exportés, de biens qui ont fait
-l'objet dans un autre Etat membre de la Communauté économique européenne d'une
-réparation ou façon qui a été soumise, à titre définitif, à la taxe sur la
-valeur ajoutée dans cet Etat membre;
+2° Les prestations de services directement liées aux régimes et aux procédures
+mentionnés au 2 du I et au 1° du II (6) ;
 
 3° Les radoubs, réparations et transformations des navires français à l'étranger
 à l'exception de celles de ces opérations qui portent sur des bateaux de sport
 ou de plaisance.
 
-(1) Annexe III, 73 F à 73 H.
+4° Les importations de biens expédiés ou transportés en un lieu situé sur le
+territoire d'un autre Etat membre de la Communauté économique européenne et qui
+font l'objet par l'importateur d'une livraison exonérée en vertu du I de
+l'article 262 ter.
 
-(2) Voir arrêté du 15 janvier 1986 relatif à l'admission temporaire (J.O. du 5
-février).
+(1) Voir annexe III, art. 73 G et 73 H.
 
-(3) Arrêté du 30 décembre 1983 (JO du 25 janvier 1984).
+(2) Arrêté du 30 décembre 1983 (JO du 25 janvier 1984).
 
-(4) Annexe IV, art. 42 à 46.
+(3) Annexe IV, art. 42 à 46.
 
-(5) Annexe IV, art. 50 decies.
+(4) Annexe IV, art. 50 decies.
 
-(6) Annexe III, art. 71 A.
+(5) Annexe III, art. 71 A.
+
+(6) Annexe III, art. 73 F et 73 G.

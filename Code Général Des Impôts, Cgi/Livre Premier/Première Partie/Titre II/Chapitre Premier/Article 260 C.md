@@ -26,17 +26,16 @@ d'investissement à capital variable et aux sommes perçues lors des cessions de
 créances à des fonds communs de créances ou en rémunération de la gestion de ces
 créances ;
 
-9° Aux opérations bancaires afférentes au financement d'exportations ou
-d'affaires faites hors de France [*à l'étranger*], dont la liste est fixée par
-arrêté du ministre chargé des finances (2); toutefois, l'option englobe les
-commissions afférentes au financement d'exportations lorsque, par l'effet de
-l'option, les commissions de même nature sont elles-mêmes soumises à la taxe sur
-la valeur ajoutée en régime intérieur;
+9° Aux opérations bancaires afférentes au financement d'exportations, de
+livraisons exonérées en vertu du I de l'article 262 ter ou d'opérations situées
+hors de France, dont la liste est fixée par arrêté du ministre chargé du budget
+; toutefois, l'option englobe les commissions afférentes au financement
+d'exportations ou de livraisons exonérées en vertu du I de l'article 262 ter
+lorsque, par l'effet de l'option, les commissions de même nature sont
+elles-mêmes soumises à la taxe sur la valeur ajoutée en régime intérieur ;
 
 10° Aux opérations soumises à la taxe sur les conventions d'assurance.
 
 11° Aux opérations visées aux d et g du 1° de l'article 261 C.
 
 (1) Annexe IV, art. 23 O.
-
-(2) Annexe IV, art. 23 P.

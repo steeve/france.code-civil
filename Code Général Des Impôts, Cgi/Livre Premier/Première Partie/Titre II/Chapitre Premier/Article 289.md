@@ -1,22 +1,42 @@
 Article 289
 ----
-I Tout redevable de la taxe sur la valeur ajoutée qui livre des biens ou rend
-des services à un autre redevable ou qui lui réclame des acomptes donnant lieu à
-exigibilité de la taxe doit lui délivrer une facture ou un document en tenant
-lieu [*formalité obligatoire*].
+I. Tout assujetti doit délivrer une facture ou un document en tenant lieu pour
+les biens livrés ou les services rendus à un autre assujetti ou à une personne
+morale non assujettie, ainsi que pour les acomptes perçus au titre de ces
+opérations lorsqu'ils donnent lieu à exigibilité de la taxe.
 
-Pour les prestations de services mentionnées à l'article 259 B, la facture doit
-être établie par les prestataires.
+Tout assujetti doit également délivrer une facture ou un document en tenant lieu
+pour les livraisons de biens dont le lieu n'est pas situé en France en
+application des dispositions de l'article 258 A et pour les livraisons de biens
+exonérées en application du I de l'article 262 ter, ainsi que pour les acomptes
+perçus au titre de ces opérations.
 
-II Les factures ou documents en tenant lieu doivent faire apparaître
-distinctement [*mentions*] :
+L'assujetti doit conserver un double de tous les documents émis.
 
-- le prix hors taxe sur la valeur ajoutée des biens livrés et des services
-rendus;
+II. La facture ou le document en tenant lieu doit faire apparaître :
 
-- le montant de la taxe sur la valeur ajoutée (1).
+1° Par taux d'imposition, le total hors taxe et la taxe correspondante
+mentionnés distinctement ;
 
-III L'entraîneur bénéficiaire des sommes mentionnées au 19° de l'article 257
+2° Les numéros d'identification à la taxe sur la valeur ajoutée du vendeur et de
+l'acquéreur pour les livraisons désignées au I de l'article 262 ter et la
+mention " Exonération T.V.A., art. 262 ter I du code général des impôts " ;
+
+3° Le numéro d'identification à la taxe sur la valeur ajoutée du prestataire
+ainsi que celui fourni par le preneur pour les prestations mentionnées aux 3°,
+5° et 6° de l'article 259 A ;
+
+4° Les caractéristiques du moyen de transport neuf telles qu'elles sont définies
+au III de l'article 298 sexies pour les livraisons mentionnées au II de ce même
+article.
+
+III. Un décret en Conseil d'Etat fixe les autres éléments d'identification des
+parties et données concernant les biens livrés ou les services rendus qui
+doivent figurer sur la facture.
+
+la facture doit être établie par les prestataires.
+
+IV. L'entraîneur bénéficiaire des sommes mentionnées au 19° de l'article 257
 doit établir une facture du montant du gain réalisé et y ajouter le montant de
 la taxe sur la valeur ajoutée.
 

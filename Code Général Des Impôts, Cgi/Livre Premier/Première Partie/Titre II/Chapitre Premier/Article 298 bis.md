@@ -15,6 +15,9 @@ ajoutée afférente à l'année écoulée;
 
 2° L'exigibilité de la taxe sur la valeur ajoutée due à raison des ventes
 effectuées par eux intervient lors de l'encaissement des acomptes ou du prix ;
+l'exigibilité de la taxe sur la valeur ajoutée due à raison des acquisitions
+intracommunautaires qu'ils réalisent intervient dans les conditions fixées au d
+du 2 de l'article 269 ;
 
 3° Ils peuvent opérer immédiatement la déduction de la taxe ayant grevé les
 biens ne constituant pas des immobilisations et les services, par imputation sur
@@ -36,15 +39,16 @@ agricole (1);
 2° Pour leurs opérations de vente d'animaux vivants de boucherie et de
 charcuterie, les exploitants agricoles qui, en raison des caractéristiques de
 leur exploitation, exercent une influence notable sur le marché local de ces
-animaux (2);
+animaux (2). L'exigibilité de la taxe sur la valeur ajoutée due à raison des
+acquisitions intracommunautaires qu'ils réalisent intervient dans les conditions
+fixées au d du 2 de l'article 269 ; 3° Pour leurs activités agricoles, les
+personnes qui effectuent des opérations commerciales d'achat, d'importation,
+d'acquisition intracommunautaire, de vente, de commission et de courtage portant
+sur des animaux vivants de boucherie et de charcuterie;
 
-3° Pour leurs activités agricoles, les personnes qui effectuent des opérations
-commerciales d'achat, d'importation, de vente, de commission et de courtage
-portant sur des animaux vivants de boucherie et de charcuterie;
-
-4° Les personnes qui effectuent des opérations commerciales d'importation, de
-vente, de commission et de courtage portant sur des animaux vivants de boucherie
-et de charcuterie.
+4° Les personnes qui effectuent des opérations commerciales d'importation,
+d'acquisition intracommunautaire, de vente, de commission et de courtage portant
+sur des animaux vivants de boucherie et de charcuterie.
 
 5° Les exploitants agricoles, lorsque le montant moyen des recettes de
 l'ensemble de leurs exploitations, calculé sur deux années civiles consécutives,

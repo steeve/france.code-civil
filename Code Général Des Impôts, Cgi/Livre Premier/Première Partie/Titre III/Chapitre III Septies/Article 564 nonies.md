@@ -6,15 +6,15 @@ régie des messages de publicité reçus en France sur les écrans de télévisi
 Elle est assise [*assiette*] sur le message publicitaire selon les tarifs
 suivants :
 
-- 10 F par message dont le prix est au plus égal à 1.000 F ;
+10 F par message dont le prix est au plus égal à 1.000 F ;
 
-- 30 F par message dont le prix est supérieur à 1.000 F et au plus égal à 10.000
+30 F par message dont le prix est supérieur à 1.000 F et au plus égal à 10.000 F
+;
+
+220 F par message dont le prix est supérieur à 10.000 F et au plus égal à 60.000
 F ;
 
-- 220 F par message dont le prix est supérieur à 10.000 F et au plus égal à
-60.000 F ;
-
-- 420 F par message dont le prix est supérieur à 60.000 F.
+420 F par message dont le prix est supérieur à 60.000 F.
 
 Ces prix s'entendent hors taxes.
 
@@ -28,5 +28,5 @@ modèle établi par l'administration indiquant pour chaque tranche du barème le
 nombre de messages publicitaires diffusés le mois précédent.
 
 La taxe est établie et recouvrée au vu de ce relevé selon les règles,
-conditions, garanties et sanctions prévues en matière de contributions
-indirectes.
+conditions, garanties et sanctions prévues en matière de taxe sur la valeur
+ajoutée.

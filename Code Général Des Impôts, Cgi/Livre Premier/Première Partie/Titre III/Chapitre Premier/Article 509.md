@@ -6,5 +6,5 @@ donnée par le ministre chargé des finances.
 
 Les industriels qui ne dénaturent pas exclusivement en vue de la vente sont
 tenus d'inscrire leurs opérations, ainsi que leurs réceptions et livraisons, au
-moment où ils y procèdent, sur un registre tenu à la disposition du ministre des
-finances [*formalité obligatoire*].
+moment où ils y procèdent, sur un registre tenu à la disposition de
+l'administration.

@@ -1,27 +1,35 @@
 Article 269
 ----
-1 Le fait générateur de la taxe est constitué :
+1 Le fait générateur de la taxe se produit :
 
-a Pour les livraisons et les achats, par la délivrance des biens et, pour les
-prestations de services y compris les travaux immobiliers, par l'exécution des
-services ou des travaux; pour les livraisons autres que celles visées au
-deuxième alinéa du II de l'article 256 ainsi que pour les prestations de
-services qui donnent lieu à l'établissement de décomptes ou à des encaissements
-successifs, le fait générateur est réputé intervenir lors de l'expiration des
-périodes auxquelles ces décomptes et encaissements se rapportent;
+a) Au moment où la livraison, l'achat au sens du 10° de l'article 257,
+l'acquisition intracommunautaire du bien ou la prestation de services est
+effectué ;
 
-b Pour les livraisons à soi-même entrant dans le champ d'application de
-l'article 257-7°, par la livraison qui doit intervenir, au plus tard, lors du
-dépôt à la mairie de la déclaration prévue par la réglementation relative au
-permis de construire (1);
+a bis) Pour les livraisons autres que celles qui sont visées au c du 3° du II de
+l'article 256 ainsi que pour les prestations de services qui donnent lieu à
+l'établissement de décomptes ou à des encaissements successifs, au moment de
+l'expiration des périodes auxquelles ces décomptes ou encaissements se
+rapportent ;
 
-c Pour les mutations à titre onéreux ou les apports en société entrant dans le
-champ d'application du 7° de l'article 257, par l'acte qui constate l'opération
-ou, à défaut, par le transfert de propriété.
+a ter) Pour les livraisons de biens et les prestations de services qui sont
+réputées être effectuées à un assujetti ou par un assujetti en application des
+dispositions du V de l'article 256 et du III de l'article 256 bis, au moment où
+la livraison du bien ou la prestation de services dans laquelle cet assujetti
+s'entremet est effectuée ;
+
+b) Pour les livraisons à soi-même entrant dans le champ d'application de
+l'article 257-7°, au moment de la livraison qui doit intervenir, au plus tard,
+lors du dépôt à la mairie de la déclaration prévue par la réglementation
+relative au permis de construire (1);
+
+c) Pour les mutations à titre onéreux ou les apports en société entrant dans le
+champ d'application du 7° de l'article 257, à la date de l'acte qui constate
+l'opération ou, à défaut, au moment du transfert de propriété.
 
 2 La taxe est exigible :
 
-a Pour les livraisons et les achats visés au a du 1 et pour les opérations
+a) Pour les livraisons et les achats visés au a du 1 et pour les opérations
 mentionnées au b et au c du 1, lors de la réalisation du fait générateur;
 
 Toutefois, pour les livraisons d'électricité, de gaz, de chaleur, de froid ou de
@@ -31,12 +39,13 @@ des services fiscaux; elle intervient en tout état de cause dès la perception
 d'acomptes et à concurrence de leur montant, lorsqu'il en est demandé avant
 l'intervention du fait générateur ou du débit;
 
-b Pour les livraisons de viandes prévues à l'article 257-9°, lors du premier
+b) Pour les livraisons de viandes prévues à l'article 257-9°, lors du premier
 enlèvement en suite d'abattage;
 
-c Pour les prestations de services y compris les travaux immobiliers, lors de
-l'encaissement des acomptes, du prix, de la rémunération ou, sur autorisation du
-directeur des services fiscaux, d'après les débits (2).
+c) Pour les prestations de services ainsi que pour les livraisons visées au b du
+3° du II de l'article 256, lors de l'encaissement des acomptes, du prix, de la
+rémunération ou, sur autorisation du directeur des services fiscaux, d'après les
+débits (2).
 
 En cas d'escompte d'un effet de commerce, la taxe est exigible à la date du
 paiement de l'effet par le client.
@@ -44,6 +53,12 @@ paiement de l'effet par le client.
 Les entrepreneurs de travaux immobiliers peuvent, dans des conditions et pour
 les travaux qui sont fixés par décret, opter pour le paiement de la taxe sur les
 livraisons (3).
+
+d) Pour les acquisitions intracommunautaires, le 15 du mois suivant celui au
+cours duquel s'est produit le fait générateur ou lors de la délivrance de la
+facture lorsque celle-ci est intervenue entre cette date et celle du fait
+générateur ou à la date du fait générateur lorsque la délivrance de la facture
+le précède.
 
 (1) Annexe II, art. 243 à 245.
 

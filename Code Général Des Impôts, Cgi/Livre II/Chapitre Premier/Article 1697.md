@@ -6,7 +6,7 @@ sur la valeur ajoutée, par l'administration chargée de les percevoir :
 
 1° à 3° (Abrogés);
 
-4° Surtaxes sur les eaux minérales (art. 1582);
+4° (Abrogé) ;
 
 5° et 6° (Abrogés);
 
@@ -16,3 +16,5 @@ sur la valeur ajoutée, par l'administration chargée de les percevoir :
 8° et 9° (Abrogés);
 
 10° Cotisation incluse dans la taxe sur la valeur ajoutée (art. 1614).
+
+11° La taxe spéciale sur le prix des places de spectacles cinématographiques.

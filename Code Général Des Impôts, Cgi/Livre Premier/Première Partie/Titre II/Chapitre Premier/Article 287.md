@@ -31,6 +31,21 @@ Ils peuvent opter pour la déclaration mensuelle de la taxe.
 redevables sont tenus de souscrire dans les trente jours la déclaration prévue
 au 1.
 
+5. Dans la déclaration prévue au 1, doivent notamment être identifiés :
+
+a) D'une part, le montant total, hors taxe sur la valeur ajoutée, des livraisons
+de bien exonérées en vertu du I de l'article 262 ter, des livraisons de biens
+installés ou montés sur le territoire d'un autre Etat membre de la Communauté
+économique européenne, et des livraisons dont le lieu n'est pas situé en France
+en application des dispositions de l'article 258 A ;
+
+b) D'autre part, le montant total, hors taxe sur la valeur ajoutée, des
+acquisitions intracommunautaires mentionnées au I de l'article 256 bis, et, le
+cas échéant, des livraisons de biens expédiés ou transportés à partir d'un autre
+Etat membre de la Communauté économique européenne et installés ou montés en
+France et des livraisons dont le lieu est situé en France en application des
+dispositions de l'article 258 B.
+
 (1) Annexe IV, art. 32, 33 et 38 à 41.
 
 (2) Annexe IV, art. 39 bis.

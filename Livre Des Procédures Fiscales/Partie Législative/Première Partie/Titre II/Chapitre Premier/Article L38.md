@@ -22,12 +22,12 @@ de le tenir informé de leur déroulement.
 
 L'ordonnance comporte :
 
-- le cas échéant, mention de la délégation du président du tribunal de grande
+le cas échéant, mention de la délégation du président du tribunal de grande
 instance ;
 
-- l'adresse des lieux à visiter ;
+l'adresse des lieux à visiter ;
 
-- le nom et la qualité du fonctionnaire habilité qui a sollicité et obtenu
+le nom et la qualité du fonctionnaire habilité qui a sollicité et obtenu
 l'autorisation de procéder aux opérations de visite.
 
 Le juge motive sa décision par l'indication des éléments de fait et de droit
@@ -75,9 +75,9 @@ d'impossibilité, l'officier de police judiciaire requiert deux témoins choisis
 en dehors des personnes relevant de son autorité ou de celle de l'administration
 des impôts.
 
-Les agents de l'administration des impôts mentionnés au 1 ci-dessus, l'occupant
-des lieux ou son représentant et l'officier de police judiciaire peuvent seuls
-prendre connaissance des pièces et documents avant leur saisie.
+Les agents de l'administration des impôts mentionnés au 1, l'occupant des lieux
+ou son représentant et l'officier de police judiciaire peuvent seuls prendre
+connaissance des pièces et documents avant leur saisie.
 
 L'officier de police judiciaire veille au respect du secret professionnel et des
 droits de la défense conformément aux dispositions du troisième alinéa de
@@ -103,12 +103,11 @@ mêmes documents est remise à l'occupant des lieux ou à son représentant.
 
 Les pièces et documents saisis sont restitués à l'occupant des lieux après
 exécution de la transaction consécutive à la rédaction du procès-verbal de
-constatation des infractions prévu par le a de l'article L. 212 du présent livre
-; en cas de poursuites judiciaires, leur restitution est autorisée par
-l'autorité judiciaire compétente.
+constatation des infractions prévu par l'article L. 212 A ; en cas de poursuites
+judiciaires, leur restitution est autorisée par l'autorité judiciaire
+compétente.
 
 6. Les informations recueillies ne peuvent être exploitées dans le cadre d'une
 procédure de vérification de comptabilité ou de contrôle de revenu qu'après
 restitution des pièces ou de leur reproduction et mise en oeuvre des procédures
-de contrôle visées aux premier et deuxième alinéas de l'article L. 47 du présent
-livre.
+de contrôle visées aux premier et deuxième alinéas de l'article L. 47.

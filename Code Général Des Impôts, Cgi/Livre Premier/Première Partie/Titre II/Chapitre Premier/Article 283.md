@@ -4,9 +4,16 @@ Article 283
 réalisent les opérations imposables, sous réserve des cas visés aux articles 274
 à 277 où le versement de la taxe peut être suspendu.
 
-2 Pour les opérations imposables mentionnées à l'article 259 B, la taxe doit
-être acquittée par le bénéficiaire. Toutefois, le prestataire est solidairement
-tenu avec ce dernier au paiement de la taxe.
+2 Pour les opérations imposables mentionnées aux 3°, 5° et 6° de l'article 259 A
+et réalisées par un prestataire établi hors de France, ainsi que pour celles qui
+sont mentionnées à l'article 259 B, la taxe doit être acquittée par le preneur.
+Toutefois, le prestataire est solidairement tenu avec ce dernier au paiement de
+la taxe.
+
+2 bis Pour les acquisitions intracommunautaires de biens imposables mentionnées
+à l'article 258 C, la taxe doit être acquittée par l'acquéreur. Toutefois, le
+vendeur est solidairement tenu avec ce dernier au paiement de la taxe, lorsque
+l'acquéreur est établi hors de France.
 
 3 Toute personne qui mentionne la taxe sur la valeur ajoutée sur une facture ou
 tout autre document en tenant lieu est redevable de la taxe du seul fait de sa
