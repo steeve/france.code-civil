@@ -62,10 +62,10 @@ affouillements, forages et exhaussements des sols ;
 
 2° Le tracé et les caractéristiques des voies de circulation à conserver, à
 modifier ou à créer, y compris les rues ou sentiers piétonniers et les pistes
-cyclables ;
-
-3° Les emplacements réservés aux voies et ouvrages publics, aux installations
-d'intérêt général et aux espaces verts ;
+cyclables ; les zones qui sont ou peuvent être aménagées en vue de la pratique
+du ski et les secteurs réservés aux remontées mécaniques. 3° Les emplacements
+réservés aux voies et ouvrages publics, aux installations d'intérêt général et
+aux espaces verts ;
 
 4° Les zones ou secteurs dans lesquels, pour des motifs d'urbanisme ou
 d'architecture, la reconstruction sur place ou l'aménagement de bâtiments
