@@ -304,8 +304,10 @@ Ex 84-01 Chaudières de locomotives ; chaudières à vapeur autres.
 Ex 84-02 Appareils auxiliaires pour les générateurs de vapeur d'eau repris au n°
 84-01.
 
-Ex 84-03 Gazogènes et générateurs de gaz à l'eau ou de gaz à l'air ; générateurs
-d'acétylène et générateurs similaires.
+84-03 Gazogènes et générateurs de gaz à l'eau ou de gaz à l'air (y compris les
+gazogènes utilisant la biomasse), avec ou sans leurs épurateurs ; générateurs
+d'acétylène (par voie humide) et générateurs similaires, avec ou sans leurs
+épurateurs.
 
 84-05 Locomobiles et machines demi-fixes, à vapeur.
 
@@ -315,9 +317,8 @@ Ex 84-06 A, C et D Moteurs pour l'aviation et autres moteurs à explosion ou à
 combustion interne et leurs parties et pièces détachées.
 
 84-07 Roues hydrauliques, turbines et autres machines motrices hydrauliques.
-
-Ex 84-08 Moteurs à vent ou éoliens et moteurs à air (ou à autre gaz) comprimé et
-leurs parties et pièces détachées.
+84-08 C II et Ex D Autres moteurs et machines motrices (dont éoliennes et
+aérogénérateurs) et leurs parties et pièces détachées.
 
 84-09 Rouleaux-compresseurs à propulsion mécanique.
 
@@ -337,11 +338,13 @@ industriel ou agricole.
 84-12 à 84-16 Tous appareils repris aux numéros ci-contre, à l'exclusion des
 appareils frigorifiques visés au n° 84-15 de 500 kilogrammes et moins.
 
-Ex 84-17 C Echangeurs de température spécialement conçus pour les machines et
-appareils pour la production du froid.
+84-17 C Echangeurs de chaleur.
 
-Ex 84-17 F Dispositifs aérothermes et dispositifs aéroréfrigérants pour le
-conditionnement de l'air ; séchoirs.
+84-17 F Autres :
+
+I. Chauffe-eau, chauffe-bain non électrique ;
+
+II. Non dénommés.
 
 84-18 Centrifugeuses et essoreuses centrifuges ;
 
@@ -446,6 +449,9 @@ commutateurs, relais, coupe-circuits, parafoudres, étaleurs d'onde, prises de
 courant, douilles pour lampes, boîtes de jonction, etc.) ; résistances non
 chauffantes, potentiomètres et rhéostats ; circuits imprimés ; tableaux de
 commande ou de distribution.
+
+Ex 85-21 B Cellules solaires, même assemblées en modules ou constituées en
+panneaux.
 
 85-23 Fils, tresses, câbles (y compris les câbles coaxiaux), bandes, barres et
 similaires, isolés pour l'électricité (même laqués ou oxydés anodiquement),
