@@ -1,12 +1,13 @@
 Article R*131-17
 ----
-Toute installation de chauffage d'une puissance supérieure à 250 kilowatts doit
-comporter, pour chaque bâtiment desservi, une régulation au moins en fonction de
-la température extérieure.
+I. - Toute installation de chauffage d'une puissance supérieure à 30 kW doit
+comporter un dispositif de régulation.
 
-Toute installation de chauffage d'une puissance totale comprise entre 31 et 250
-kilowatts doit comporter une régulation au moins par bâtiment.
+II. - Toute installation de chauffage d'une puissance supérieure à 250 kW et
+desservant des locaux d'habitation doit comporter un dispositif de régulation
+qui soit fonction au moins de la température extérieure.
 
-Toutefois, si plusieurs bâtiments de même destination sont désservis par une
-même installation de chauffage dont la puissance totale est inférieure à 250
-kilowatts, ils peuvent avoir une régulation commune unique.
+III. - Toute installation de chauffage d'une puissance supérieure à 1 500 kW
+doit comporter un dispositif de régulation soit par bâtiment, soit par ensemble
+de bâtiments ayant la même destination, les mêmes conditions d'occupation et les
+mêmes caractéristiques de construction.
