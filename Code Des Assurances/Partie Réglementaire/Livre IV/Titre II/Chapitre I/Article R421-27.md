@@ -19,8 +19,8 @@ d'une assurance, au sens du présent article, les personnes dont la
 responsabilité civile est couverte par un contrat d'assurance dans les
 conditions prévues par l'article L. 211-1 ; un tel bénéfice ne leur est
 toutefois acquis, au sens du présent article, que pour la part excédant la
-franchise prévue éventuellement par leur contrat en application de l'article R.
-211-9.
+franchise prévue éventuellement par leur contrat en application de l'article L.
+121-1.
 
 En cas d'instance judiciaire, la décision doit faire apparaître si le
 responsable est ou non bénéficiaire d'une assurance. La décision de justice ou
