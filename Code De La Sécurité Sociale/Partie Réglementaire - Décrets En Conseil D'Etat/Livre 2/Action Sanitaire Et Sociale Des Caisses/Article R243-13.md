@@ -2,8 +2,8 @@ Article R243-13
 ----
 Chaque versement de cotisations est obligatoirement accompagné d'un bordereau
 daté et signé par l'employeur indiquant, d'une part, le nombre de salariés de
-l'établissement ou de l'entreprise et, d'autre part, l'assiette et le mode de
-calcul des cotisations dues .
+l'établissement ou de l'entreprise et, d'autre part, l'assiette et le montant
+des cotisations dues .
 
 Ce bordereau doit être conforme à un modèle fixé par arrêté du ministre chargé
 de la sécurité sociale. Ledit arrêté peut, toutefois, prévoir la possibilité

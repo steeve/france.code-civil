@@ -3,7 +3,7 @@ Article R243-6
 Les cotisations dues au titre des assurances maladie, maternité, invalidité,
 vieillesse, décès, veuvage, des accidents du travail et des allocations
 familiales sont versées par les employeurs aux organismes de recouvrement dont
-ils relèvent dans les conditions suivantes :
+relève chacun de leurs établissements dans les conditions suivantes :
 
 1°) les cotisations dues à raison des rémunérations payées au cours d'un
 trimestre civil par les employeurs occupant neuf salariés [*effectif*] au plus
