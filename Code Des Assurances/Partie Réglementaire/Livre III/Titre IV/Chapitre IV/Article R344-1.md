@@ -1,45 +1,59 @@
 Article R344-1
 ----
-I. - La quote-part mentionnée à l'article L. 344-1 est un pourcentage de
-l'ensemble des placements figurant à l'état A 5, mentionné à l'article R.
-342-17, évalués à leur valeur de réalisation. Ce pourcentage est au moins égal
-au résultat obtenu en divisant par le montant total des placements, ainsi
-définis, la somme des montants suivants :
+I. - La quote-part mentionnée à l'article L. 344-1 est un pourcentage de la
+valeur de l'ensemble des placements appartenant à l'entreprise et de ceux des
+autres actifs affectables à la représentation des engagements réglementés,
+évalués conformément aux dispositions de l'article R. 332-20-1. Ce pourcentage
+est au moins égal au résultat obtenu en divisant par cette valeur la somme des
+montants suivants :
 
 a) Actif mentionné à l'article L. 441-8, correspondant aux opérations relevant
-de l'article L. 441-1, évalué à sa valeur de réalisation ;
+de l'article L. 441-1, évalué comme il est dit à l'article R. 332-20-1 ;
 
-b) Placements affectés à la représentation des contrats en unités de compte
-mentionnés au troisième alinéa de l'article L. 131-1 ;
+b) Placements affectés à la représentation des contrats d'assurance sur la vie
+ou de capitalisation en unités de compte définis au deuxième alinéa de l'article
+L. 131-1 et évalués comme il est dit au dernier alinéa de l'article R. 332-5 ;
 
-c) Actifs mentionnés au premier alinéa de l'article L. 324-7, évalués à leur
-valeur de réalisation ;
+c) Actifs mentionnés au premier alinéa de l'article L. 324-7, évalués comme il
+est dit à l'article R. 332-20-1 ;
 
 d) Montant des provisions techniques brutes de réassurance constituées au titre
-de l'ensemble des opérations pratiquées par l'entreprise autres que celles qui
-sont mentionnées aux a et b, diminué du montant des actifs mentionnés au premier
-alinéa de l'article L. 324-7, évalués à leur valeur comptable ;
+des opérations pratiquées par l'entreprise pour les branches 20 à 26 de
+l'article R. 321-1, autres que celles qui sont mentionnées aux a et b et diminué
+du montant des actifs mentionnés au c, évalués comme il est dit aux articles R.
+332-19 et R. 332-20 ;
 
-e) 85 p. 100 de la différence entre la valeur de réalisation de l'ensemble des
-placements figurant à l'état A 5 susmentionné autres que ceux qui sont définis
-aux a, b et c ci-dessus, et la valeur comptable de ces mêmes placements, le
-montant ainsi obtenu étant affecté du coefficient défini au II ci-après.
+e) Un pourcentage, défini au II du présent article, de la différence entre la
+valeur, d'une part, évaluée comme il est dit à l'article R. 332-20-1, d'autre
+part, évaluée comme il est dit aux articles R. 332-19 et R. 332-20, de
+l'ensemble des placements appartenant à l'entreprise et de ceux des autres
+actifs affectables à la représentation des engagements réglementés, autres que
+ceux mentionnés aux a, b et c ci-dessus.
 
-II. - Le coefficient prévu au e du I ci-dessus est égal au quotient du montant
-moyen des provisions techniques brutes de réassurance constituées au titre des
-opérations autres que celles qui sont mentionnées à l'article L. 441-1 et au
-troisième alinéa de l'article L. 131-1 ou qui sont relatives à des contrats
-collectifs en cas de décès, diminué du montant moyen des actifs visés au premier
-alinéa de l'article L. 324-7, évalués à leur valeur comptable, par le montant
-moyen de l'ensemble des placements figurant à l'état A 5 autres que ceux qui
-sont affectés à la représentation des opérations mentionnées à l'article L.
-441-1 et au troisième alinéa de l'article L. 131-1, ou qui sont mentionnés au
-premier alinéa de l'article L. 324-7, évalués à leur valeur comptable.
+II. - Le pourcentage mentionné au e du I du présent article est égal à 85 p. 100
+du quotient A/B, avec :
 
-Le montant moyen mentionné à l'alinéa précédent est obtenu en divisant par deux
-la somme des valeurs inscrites dans les comptes à l'ouverture et à la clôture de
-l'exercice.
+A : montant moyen des provisions techniques brutes de réassurance constituées au
+titre de l'ensemble des opérations pratiquées par l'entreprise autres que celles
+qui sont mentionnées aux a et b du I du présent article ou qui sont relatives à
+des contrats collectifs en cas de décès ou, pour les entreprises mixtes, à des
+opérations relevant des branches 1 ou 2 de l'article R. 321-1, et diminué du
+montant moyen des actifs mentionnés au c du I du présent article, évalués comme
+il est dit aux articles R. 332-19 et R. 332-20 ;
 
-III. - Les placements et provisions mentionnés au présent article ne comprennent
-pas ceux qui sont constitués par l'entreprise dans le cadre des opérations
-effectuées par ses établissements à l'étranger.
+B : montant moyen de l'ensemble des placements appartenant à l'entreprise et de
+ceux des autres actifs affectables à la représentation des engagements
+réglementés, autres que ceux qui sont mentionnés aux a, b et c du I ci-dessus,
+évalués comme il est dit aux articles R. 332-19 et R. 332-20.
+
+Les montants moyens mentionnés à l'alinéa précédent sont obtenus en divisant par
+deux la somme des montants inscrits dans les comptes à l'ouverture et à la
+clôture de l'exercice.
+
+III. - Les placements, actifs et provisions mentionnés au présent article ne
+comprennent pas ceux qui sont constitués par l'entreprise dans le cadre des
+opérations effectuées par ses établissements situés à l'étranger.
+
+IV. - En cas de transfert de portefeuille, la valeur des actifs transférés ne
+peut excéder celle qui résulte de leur évaluation conformément aux dispositions
+de l'article R. 332-20-1.

@@ -1,10 +1,27 @@
 Article A331-2
 ----
-Les provisions mathématiques afférentes aux contrats d'assurance sur la vie
-mentionnés à l'article A. 335-3 doivent être calculées d'après un taux au plus
-égal au plus faible des taux d'intérêts suivants :
+Si lors de l'inventaire le taux de rendement réel des actifs d'une entreprise,
+diminué d'un cinquième, est inférieur au quotient du montant total des intérêts
+techniques et du minimum contractuellement garanti de participations aux
+bénéfices dans les conditions définies à l'article A. 132-2 des contrats de
+l'entreprise par le montant moyen des provisions mathématiques constituées, une
+comparaison entre les deux montants suivants doit être effectuée :
 
-- soit le taux du tarif ;
+1° Les provisions mathématiques recalculées avec le taux de rendement réel des
+actifs de l'entreprise diminué d'un cinquième ;
 
-- soit le taux de rendement réel diminué d'un cinquième, de l'actif
-représentatif des engagements correspondants.
+2° Les provisions mathématiques à l'inventaire.
+
+Si le premier montant est supérieur au second, une dotation égale à leur
+différence est affectée à la provision pour aléas financiers mentionnée au 5° de
+l'article R. 331-3. Cette provision est reprise dans les comptes de l'entreprise
+à l'inventaire suivant.
+
+Les contrats à capital variable ainsi que les opérations de prévoyance
+collective visées au chapitre Ier du titre IV du livre IV du code des assurances
+ne sont pas concernés par ces dispositions.
+
+Le taux de rendement réel des actifs est calculé conformément à l'article A.
+331-7. Il ne tient pas compte du rendement des actifs afférents aux contrats à
+capital variable et aux opérations de prévoyance collective visées au chapitre
+Ier du titre IV du livre IV du code des assurances.
