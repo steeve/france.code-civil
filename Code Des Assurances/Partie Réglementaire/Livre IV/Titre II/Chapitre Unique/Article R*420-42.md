@@ -7,11 +7,12 @@ amendes, la majoration de 50 % instituée au profit du fonds de garantie par le
 deuxième alinéa de l'article 366 ter du code rural.
 
 Les encaissements effectués au titre de cette majoration sont versés
-trimestriellement au fonds de garantie sous déduction d'un prélèvement de 3 %.
+trimestriellement au fonds de garantie sous déduction d'un prélèvement de 2 p.
+100.
 
 Par ailleurs, sur le montant des encaissements effectués par les services de la
 direction générale des impôts au titre des contributions mentionnées à l'article
-R. 420-38, il est opéré un prélèvement analogue de 3 %.
+R. 420-38, il est opéré un prélèvement analogue de 2 p. 100.
 
 Le produit des prélèvements mentionnés aux alinéas 2 et 3 ci-dessus du présent
 article est rattaché au budget du ministère de l'économie et des finances. Il

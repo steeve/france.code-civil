@@ -1,17 +1,26 @@
 Article R*420-18
 ----
-1. Les dommages matériels que le fonds de garantie prend en charge par
-application de l'article L. 420-1 du code sont uniquement ceux qui sont causés
-accidentellement par un ou plusieurs véhicules terrestres à moteur ainsi que par
-les remorques ou semi-remorques de ces véhicules.
+Les dommages aux biens pris en charge par le fonds de garantie en application du
+2e alinéa de l'article R. 420-1 sont tous ceux qui résultent d'un accident dans
+lequel est impliqué un véhicule terrestre à moteur en circulation, ainsi que ses
+remorques et semi-remorques, lorsque l'auteur des dommages est identifié.
 
-Sont exclus du bénéfice du fonds de garantie les dommages subis par le véhicule
-qui a causé l'accident ainsi que les dommages aux biens du conducteur.
+Sont, dans ce cas, exclus du bénéfice du fonds de garantie les dommages subis
+par le véhicule impliqué dans l'accident ainsi que les dommages aux biens du
+conducteur de ce même véhicule.
 
-Lorsque le véhicule qui a causé l'accident a été volé, sont également exclus du
-bénéfice du fonds de garantie les complices du vol et d'une manière générale
-toutes les personnes transportées dans le véhicule si elles ne peuvent justifier
-de leur bonne foi.
+Lorsque le véhicule impliqué dans l'accident a été volé, sont exclus du bénéfice
+du fonds de garantie les complices du vol et, d'une manière générale, toutes les
+personnes transportées dans le véhicule. Cette exclusion n'est applicable que si
+le fonds de garantie apporte la preuve de la connaissance du vol par les
+personnes transportées.
+
+Lorsque l'auteur des dommages demeure inconnu, le fonds prend également en
+charge tous les dommages aux biens à condition que le conducteur du véhicule
+accidenté, ou toute autre personne, ait été victime d'une atteinte à sa personne
+ayant entraîné son décès, ou une hospitalisation d'au moins sept jours suivie
+d'une incapacité temporaire égale ou supérieure à un mois, ou une incapacité
+permanente partielle d'au moins 10 p. 100.
 
 Toutefois, les personnes désignées au présent article peuvent invoquer la
 garantie du fonds lorsque l'accident a été causé par un autre véhicule terrestre
@@ -31,7 +40,7 @@ en précisant le numéro de la police.
 2. Les dispositions des articles R. 420-13 à R. 420-16 sont applicables à
 l'indemnisation des dommages matériels.
 
-3. Le fonds de garantie ne prend pas en charge les dommages matériels subis par
+3. Le fonds de garantie ne prend pas en charge des dommages matériels subis par
 l'Etat et par les collectivités publiques, entreprises et organismes
 bénéficiaires d'une dérogation à l'obligation d'assurance accordée en
 application de l'article L. 211-3.

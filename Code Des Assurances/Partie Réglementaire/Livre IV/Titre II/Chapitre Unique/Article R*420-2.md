@@ -2,8 +2,8 @@ Article R*420-2
 ----
 Sont exclus du bénéfice du fonds de garantie :
 
-1° Lorsque les dommages ont été causés par un véhicule terrestre à moteur, les
-dommages causés au conducteur.
+1° Lorsque les dommages sont nés d'un accident dans lequel est impliqué un
+véhicule terrestre à moteur, les dommages causés au conducteur.
 
 2° Lorsque les dommages ont été causés par un animal ou par une chose autre
 qu'un véhicule terrestre à moteur.
@@ -19,10 +19,12 @@ chose.
 3° Dans les cas autres que ceux mentionnés aux 1° et 2° ci-dessus, l'auteur de
 l'accident, son conjoint, ses ascendants et descendants.
 
-Lorsque le véhicule, l'animal ou la chose qui ont causé l'accident ont été
-volés, sont également exclus du bénéfice du fonds de garantie les complices du
-vol et d'une manière générale toutes les personnes transportées dans le véhicule
-ou sur l'animal si elles ne peuvent justifier de leur bonne foi.
+En cas de vol du véhicule impliqué dans l'accident, de vol de l'animal ou de la
+chose qui a causé l'accident, sont également exclus du bénéfice du fonds de
+garantie les complices du vol et, d'une manière générale, toutes les personnes
+transportées dans le véhicule ou sur l'animal. Cette exclusion n'est applicable
+que si le fonds de garantie apporte la preuve de la connaissance du vol du
+véhicule ou de l'animal par les personnes transportées.
 
 Toutefois, les personnes désignées au présent article peuvent invoquer la
 garantie du fonds lorsque l'accident a été causé en tout ou partie par la

@@ -2,15 +2,15 @@ Article R*420-12
 ----
 Lorsque le responsable des dommages est inconnu, la demande des victimes ou de
 leurs ayants droit tendant à la réparation des dommages qui leur ont été causés
-doit être adressée au fonds de garantie dans le délai d'un an à compter de
+doit être adressée au fonds de garantie dans le délai de trois ans à compter de
 l'accident.
 
 Lorsque le responsable des dommages est connu, la demande d'indemnité doit être
-adressée au fonds de garantie dans le même délai d'un an à compter soit de la
-date de la transaction, soit de la date de la décision de justice passée en
-force de chose jugée.
+adressée au fonds de garantie dans le délai d'un an à compter soit de la date de
+la transaction, soit de la date de la décision de justice passée en force de
+chose jugée.
 
-En outre, les victimes ou leurs ayants droit doivent, dans le délai de trois ans
+En outre, les victimes ou leurs ayants droit doivent, dans le délai de cinq ans
 à compter de l'accident :
 
 a) Si le responsable est inconnu, avoir réalisé un accord avec le fonds de

@@ -6,7 +6,7 @@ partielle opposables à la victime ou à ses ayants droit, il doit, par lettre
 recommandée avec demande d'avis de réception, le déclarer au fonds de garantie
 et joindre à sa déclaration les pièces justificatives de son exception ; il doit
 en aviser en même temps et dans les mêmes formes la victime ou ses ayants droit
-en précisant le numéro de la police.
+en précisant le numéro du contrat.
 
 Si l'assureur entend contester l'existence du contrat d'assurance, nonobstant la
 présentation par le responsable de l'accident du document justificatif mentionné

@@ -24,8 +24,9 @@ franchise prévue éventuellement par leur contrat en application de l'article R
 En cas d'instance judiciaire, la décision doit faire apparaître si le
 responsable est ou non bénéficiaire d'une assurance. La décision de justice ou
 la transaction doit opérer, le cas échéant, une ventilation entre les indemnités
-dues à titre de réparation des dommages résultant d'accidents corporels et
-celles qui sont dues à titre de réparation des dégâts matériels.
+dues à titre de réparation des dommages résultant des dommages résultant
+d'atteintes à la personne et celles qui sont dues en réparation de dommages aux
+biens.
 
 La contribution est liquidée et recouvrée par les services de la direction
 générale des impôts selon les mêmes règles, sous les mêmes garanties et sous les

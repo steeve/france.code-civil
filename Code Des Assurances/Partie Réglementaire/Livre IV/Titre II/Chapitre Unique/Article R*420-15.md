@@ -21,7 +21,7 @@ garantie en application de l'alinéa précédent, doit contenir les précisions
 suivantes : date et lieu de l'accident, nature du véhicule ou agent ou
 instrument du dommage, autorité ayant dressé le procès-verbal ou le rapport
 mentionné à l'article R. 420-3, montant de la demande en ce qui concerne la
-répartition des dommages résultant de l'accident corporel ou, à défaut, nature
+réparation des dommages résultant d'atteintes à la personne ou, à défaut, nature
 et gravité de ces dommages. Il doit, en outre, mentionner d'après les
 indications contenues dans le procès-verbal ou le rapport précité ou celles
 recueillies ultérieurement, notamment celles fournies par l'assureur en
@@ -31,7 +31,7 @@ Soit que la responsabilité civile du défendeur n'est pas couverte par un contr
 d'assurance ;
 
 Soit que l'assureur, dont les nom et adresse doivent être précisés ainsi que le
-numéro de la police, entend contester sa garantie ou invoquer la limitation de
+numéro du contrat, entend contester sa garantie ou invoquer la limitation de
 celle-ci ;
 
 Soit que le demandeur ne possède aucun des deux renseignements ci-dessus, les

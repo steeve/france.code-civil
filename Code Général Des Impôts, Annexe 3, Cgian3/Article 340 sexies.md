@@ -7,7 +7,8 @@ suivants :
 a. Contribution des entreprises d'assurances : 10 % de la totalité des charges
 du fonds de garantie ;
 
-b. Contribution des responsables d'accidents corporels non assurés :
+b. Contribution des responsables , non assurés, d'accidents qui donnent
+naissance à des dommages résultant d'atteintes à la personne :
 
 Taux normal : 10% des indemnités restant à leur charge ;
 
