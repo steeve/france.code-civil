@@ -1,24 +1,16 @@
 Article D458
 ----
-Toutes les stations établies, entretenues et exploitées par d'autres
-administrations que celle des postes et télécommunications peuvent être ouvertes
-à la correspondance privée, après entente avec cette administration.
+En matière de radiocommunications, le ministre chargé des communications
+électroniques :
 
-Les départements autorisés à exploiter les stations définies à l'article D. 457
-peuvent faire établir et entretenir à leurs frais et exploiter par leur
-personnel les lignes de télécommunications, ainsi que les tubes pneumatiques ou
-tous autres moyens de liaison nécessaires pour relier leurs services à ces
-stations ou pour assurer la manipulation ou la réception des signaux à distance.
+1° Centralise toutes les affaires concernant l'application des dispositions de
+la constitution et de la convention de l'Union internationale des
+télécommunications, des règlements administratifs qui les complètent et des
+accords internationaux conclus dans le cadre desdits constitution, convention et
+règlements ;
 
-Les départements qui exploitent ces installations sont exemptés de toute
-redevance à l'administration des postes et télécommunications lorsqu'ils
-utilisent les installations ci-dessus pour des radiocommunications officielles.
+2° Assure les relations administratives avec les divers organismes de l'Union
+internationale des télécommunications et avec les administrations étrangères ;
 
-Une redevance est, au contraire, due à l'administration des postes et
-télécommunications :
-
--pour les radiocommunications non officielles ;
-
--pour les radiocommunications officielles, lorsqu'il est fait usage de lignes ou
-de tubes appartenant en totalité ou en partie à cette administration, ou
-desservis, au moins à une de leurs extrémités, par son personnel.
+3° Contrôle l'application, par les exploitants des installations
+radioélectriques établies à terre, des dispositions visées au 1°.

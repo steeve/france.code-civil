@@ -2,7 +2,8 @@ Article D485
 ----
 Les installations radioélectriques établies à bord des navires de commerce, de
 pêche ou de plaisance doivent être agréées par le ministre chargé des
-télécommunications, conformément aux articles L. 34-9, R. 20-1 et suivants.
+communications électroniques, conformément aux articles L. 34-9, R. 20-1 et
+suivants.
 
 Dans le cadre des dispositions du règlement des radiocommunications et des
 conventions ou accords internationaux, l'exploitant du réseau de

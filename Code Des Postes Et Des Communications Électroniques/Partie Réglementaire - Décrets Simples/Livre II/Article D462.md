@@ -1,5 +1,8 @@
 Article D462
 ----
-Le service de la station de bord est placé sous l'autorité du commandant du
-navire ou de l'aéronef. Le commandant est soumis à l'obligation du secret des
-correspondances.
+Les réseaux radioélectriques doivent être à tout moment conformes aux conditions
+techniques et d'exploitation ainsi déterminées.
+
+Toute modification des conditions techniques et d'exploitation des réseaux
+radioélectriques ne peut intervenir qu'après accord du ministre chargé des
+communications électroniques.

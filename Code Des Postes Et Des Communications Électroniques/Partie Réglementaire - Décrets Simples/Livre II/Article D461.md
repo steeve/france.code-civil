@@ -1,7 +1,13 @@
 Article D461
 ----
-Au moment de la remise des certificats, les opérateurs prêtent serment devant un
-fonctionnaire des services radioélectriques de l'administration des postes et
-télécommunications.
+L'autorisation fixe les conditions techniques et d'exploitation de chaque réseau
+radioélectrique en tenant compte des besoins exprimés par le demandeur et des
+dispositions applicables en matière de radiocommunications.
 
-Les opérateurs doivent se conformer aux règles de service en vigueur.
+Ces conditions peuvent faire l'objet de restrictions à tout moment dans
+l'intérêt de la sécurité publique et de la défense nationale.
+
+Les conditions techniques et d'exploitation d'un réseau radioélectrique
+indépendant peuvent être modifiées dans l'intérêt de la gestion générale du
+spectre et du bon fonctionnement des autres réseaux ou services de
+radiocommunications.
