@@ -17,3 +17,10 @@ ci-dessus ;
 
 c) Des dépôts de médicaments détenus par les médecins mentionnés à l'article L.
 594 et des herboristeries mentionnées à l'article L. 659.
+
+Lorsque l'inspection concerne un établissement pharmaceutique mentionné à
+l'article L. 596, les inspecteurs de la pharmacie ou, selon le cas, les
+inspecteurs de l'Agence du médicament s'assurent notamment que cet établissement
+respecte les bonnes pratiques prévues à l'article L. 600 qui le concernent.
+Chaque inspection donne lieu à un rapport qui doit être communiqué au pharmacien
+responsable de l'entreprise.

@@ -1,6 +1,14 @@
 Article R5143-1
 ----
-A titre exceptionnel, le directeur général de l'Agence du médicament peut, sur
-demande motivée du titulaire de l'autorisation de mise sur le marché,
-l'autoriser à présenter sous un seul [*nombre*] conditionnement plusieurs
-spécialités ayant obtenu chacune une autorisation de mise sur le marché.
+Par dérogation aux dispositions de l'article R. 5143, lorsque les médicaments ou
+les produits sont contenus dans un conditionnement extérieur conforme aux
+prescriptions dudit article, les conditionnements primaires sous forme de
+blister doivent porter au moins les indications suivantes :
+
+a) La dénomination du médicament ou du produit ;
+
+b) Le nom de l'entreprise exploitant le médicament ou le produit ;
+
+c) Le numéro du lot de fabrication ;
+
+d) La date de péremption.

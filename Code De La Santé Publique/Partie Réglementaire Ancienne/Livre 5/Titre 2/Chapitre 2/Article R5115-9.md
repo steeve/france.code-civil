@@ -1,5 +1,8 @@
 Article R5115-9
 ----
-Les établissements visés à l'article L. 596 doivent se doter de bonnes pratiques
-de fabrication. A cette fin, des recommandations sont énoncées par arrêté du
-ministre chargé de la santé.
+Les médicaments importés de pays non membres de la Communauté économique
+européenne doivent faire l'objet en France du contrôle du produit fini prévu au
+dossier d'autorisation de mise sur le marché. Ce contrôle est effectué par
+l'importateur. Celui-ci s'assure que les médicaments ont été fabriqués par des
+fabricants dûment autorisés et soumis à des normes de bonnes pratiques de
+fabrication au moins équivalentes à celles que prévoit l'article L. 600.

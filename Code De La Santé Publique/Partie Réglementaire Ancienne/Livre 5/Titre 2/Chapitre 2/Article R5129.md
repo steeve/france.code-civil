@@ -15,11 +15,8 @@ application de ces techniques ;
 c) Les comptes rendus des expertises analytiques, pharmacologiques,
 toxicologiques et cliniques ;
 
-d) Un échantillon du modèle-vente de la spécialité pharmaceutique ou une
-maquette du conditionnement, celle-ci pouvant être réduite au projet
-d'étiquetage et au projet de notice si celle-ci est prévue, avec indication,
-pour chaque présentation, de la forme pharmaceutique et du contenu en poids, en
-volume ou en unités de prise ;
+d) Le projet de conditionnement extérieur et de conditionnement primaire et,
+s'il y a lieu, le projet de notice ;
 
 e) Copie des décisions autorisant la fabrication de la spécialité concernée et
 délivrées, selon le cas, soit en vertu de la législation nationale du fabricant,

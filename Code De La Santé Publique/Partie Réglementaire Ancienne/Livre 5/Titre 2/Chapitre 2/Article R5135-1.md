@@ -1,10 +1,9 @@
 Article R5135-1
 ----
-Le titulaire de l'autorisation de mise sur le marché doit [*obligations*], après
-la délivrance de l'autorisation, modifier les méthodes de contrôle prévus au b)
-de l'article R. 5129 en fonction des progrès de la science et de l'évolution des
-techniques, de façon que la spécialité pharmaceutique soit contrôlée suivant les
-méthodes scientifiques généralement acceptées.
+Après délivrance de l'autorisation de mise sur le marché, les méthodes de
+fabrication et les techniques de contrôle mentionnées aux a et b de l'article R.
+5129 doivent être modifiées en fonction des progrès scientifiques et techniques.
 
-Il soumet ces modifications des méthodes de contrôle à l'approbation du
-directeur général de l'Agence du médicament.
+Le titulaire de l'autorisation soumet pour approbation à l'Agence du médicament
+les projets de ces modifications. A défaut de décision dans un délai de deux
+mois, ces modifications sont réputées approuvées [*accord tacite*].

@@ -11,11 +11,23 @@ est nocive dans les conditions normales d'emploi ou que l'effet thérapeutique
 fait défaut ou que la spécialité n'a pas la composition qualitative et
 quantitative déclarée.
 
-L'autorisation de mise sur le marché est également suspendue ou retirée
-lorsqu'il apparaît que les renseignements fournis à l'occasion de la demande
+L'autorisation de mise sur le marché est également suspendue ou retirée par le
+directeur général de l'agence :
+
+a) Lorsqu'il apparaît que les renseignements fournis à l'occasion de la demande
 d'autorisation de mise sur le marché sont erronés, que les conditions prévues à
 la présente section ne sont pas ou ne sont plus remplies ou que les contrôles
-n'ont pas été effectués.
+n'ont pas été effectués ;
+
+b) Lorsque l'étiquetage ou la notice du médicament ou du produit ne sont pas
+conformes aux prescriptions de la présente section.
+
+Sauf en cas d'urgence, la suspension ou le retrait mentionnés à l'alinéa
+précédent ne peuvent intervenir qu'après communication des griefs au titulaire
+de l'autorisation de mise sur le marché et, dans le cas prévu au b, que si
+celui-ci, mis en demeure de régulariser la situation du médicament ou du
+produit, n'a pas donné suite à cette mise en demeure dans le délai fixé par le
+directeur général de l'agence.
 
 Sans préjudice de l'application des dispositions du troisième alinéa de
 l'article R. 5140, la décision de suspension ou de retrait fait l'objet des
