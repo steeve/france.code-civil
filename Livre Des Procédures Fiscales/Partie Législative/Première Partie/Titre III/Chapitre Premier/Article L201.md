@@ -1,8 +1,8 @@
 Article L201
 ----
-Les documents et pièces que l'administration des impôts a joints au dossier du
-litige devant le tribunal administratif et qui concernent les entreprises ou
-personnes nommément désignées ne peuvent porter que sur des moyennes de chiffres
+Les documents et pièces que l'administration a joints au dossier du litige
+devant le tribunal administratif et qui concernent les entreprises ou personnes
+nommément désignées ne peuvent porter que sur des moyennes de chiffres
 d'affaires ou de revenus, de façon à respecter le secret professionnel, sauf
 lorsqu'ils portent sur des indications qui doivent être mises à la disposition
 du public par dépôt au greffe du tribunal de commerce.
