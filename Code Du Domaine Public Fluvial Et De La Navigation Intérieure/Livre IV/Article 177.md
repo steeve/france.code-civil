@@ -1,6 +1,6 @@
 Article 177
 ----
-L'office national de la navigation est chargé des missions suivantes :
+Voies navigables de France est chargé des missions suivantes :
 
 1° Il élabore et propose au ministre de l'équipement et du logement toute
 réglementation concernant l'exploitation des voies navigables, les activités ou
@@ -35,10 +35,10 @@ Il organise et gère les bureaux d'affrètement.
 Il met en oeuvre la législation relative au régime d'assurance d'Etat pour les
 corps de bateaux de navigation intérieure.
 
-Il a autorisé pour organiser, prescrire et contrôler les mouvements de bateaux
+Il a autorité pour organiser, prescrire et contrôler les mouvements de bateaux
 nécessités par les programmes de transports dont l'exécution lui est confiée. Il
 propose, le cas échéant, au ministre de l'équipement et du logement des
-réquisitions prévues par la législation en vigueur.
+réquisitions prévues par la législation en vigueur;
 
 4° Il centralise tous les renseignements et les statistiques intéressant
 l'exploitation technique et commerciale des voies navigables et en assure, s'il

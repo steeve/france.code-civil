@@ -18,4 +18,4 @@ constituant pour l'intéressé, spécialement aux effets de l'article 172 ci-apr
 la carte d'identité prévue à l'article 160 du présent livre. Cette carte est
 délivrée, suivant le cas, soit par l'autorité chargée de la tenue du répertoire
 prévu à l'article 160, et dans le ressort de laquelle se trouve domicilié
-l'employeur concerné, soit par l'office national de la navigation.
+l'employeur concerné, soit par les Voies navigables de France.

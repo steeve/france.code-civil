@@ -3,7 +3,7 @@ Article 218
 Les recettes provenant des taxes sont affectées, après déduction des frais
 relatifs à leur perception :
 
-Soit au service d'emprunts contractés par l'office national de la navigation ;
+Soit au service d'emprunts contractés par Voies navigables de France ;
 
 Soit au service des allocations fournies par le même établissement,
 

@@ -7,8 +7,8 @@ L'arrêté mentionne la nature des travaux d'amélioration auxquels les taxes so
 affectées dans le cadre des programmes généraux de modernisation et
 d'équipement.
 
-L'institution des taxes est précédée d'une enquête comportant la consultation de
-l'office national de la navigation.
+L'institution des taxes est précédée d'une enquête comportant la consultation
+des Voies navigables de France.
 
 Les arrêtés peuvent être notifiés suivant la même procédure, notamment en ce qui
 concerne le taux des taxes et la consistance des travaux auxquels ces taxes
