@@ -20,5 +20,5 @@ sont pris en charge par l'Etat.
 Le montant de l'indemnité allouée au président et au secrétaire général du
 conseil ainsi que le nombre maximum annuel de vacations susceptibles d'être
 allouées à un même rapporteur extérieur, en application du présent article, sont
-fixés par arrêté conjoint des ministres chargés de la sécurité sociale et du
-budget.
+fixés par arrêté conjoint des ministres chargés de la sécurité sociale, du
+budget et de la fonction publique.
