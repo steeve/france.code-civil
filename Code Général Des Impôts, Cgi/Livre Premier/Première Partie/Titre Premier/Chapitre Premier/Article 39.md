@@ -84,7 +84,7 @@ mettent à la disposition de la société, en sus de leur part du capital, quell
 que soit la forme de la société, dans la limite de ceux calculés à un taux égal
 à la moyenne annuelle des taux effectifs moyens pratiqués par les établissements
 de crédit pour des prêts à taux variable aux entreprises, d'une durée initiale
-supérieure à deux ans (1).
+supérieure à deux ans.
 
 Cette déduction est subordonnée à la condition que le capital ait été
 entièrement libéré.
@@ -118,7 +118,7 @@ l'entreprise, mis en recouvrement au cours de l'exercice, à l'exception des
 taxes prévues aux articles 235 ter Y, 238 quater, 239 bis B et 990 G et, pour
 les rappels de taxe sur la valeur ajoutée afférents à des opérations au titre
 desquelles la taxe due peut être totalement ou partiellement déduite par le
-redevable lui-même, du montant de la taxe déductible (2).
+redevable lui-même, du montant de la taxe déductible.
 
 Si des dégrèvements sont ultérieurement accordés sur ces impôts, leur montant
 entre dans les recettes de l'exercice au cours duquel l'exploitant est avisé de
@@ -249,12 +249,12 @@ nécessaires dès qu'elle constate que les provisions sont devenues sans objet.
 Dans ce cas, les provisions sont, s'il y a lieu, rapportées aux résultats du
 plus ancien des exercices soumis à vérification.
 
-Par dérogation aux dispositions des premier et treizième alinéas qui précèdent,
-la provision pour dépréciation qui résulte éventuellement de l'estimation du
-portefeuille est soumise au régime fiscal des moins-values à long terme défini
-au 2 du I de l'article 39 quindecies ; si elle devient ultérieurement sans
-objet, elle est comprise dans les plus-values à long terme de l'exercice, visées
-au 1 du I de l'article 39 quindecies. La provision pour dépréciation constituée
+Par dérogation aux dispositions des premier et treizième alinéas, la provision
+pour dépréciation qui résulte éventuellement de l'estimation du portefeuille est
+soumise au régime fiscal des moins-values à long terme défini au 2 du I de
+l'article 39 quindecies ; si elle devient ultérieurement sans objet, elle est
+comprise dans les plus-values à long terme de l'exercice, visées au 1 du I de
+l'article 39 quindecies. La provision pour dépréciation constituée
 antérieurement, le cas échéant, sur des titres prêtés dans les conditions
 prévues au chapitre V modifié de la loi n° 87-416 du 17 juin 1987 sur l'épargne
 n'est pas réintégrée ; elle doit figurer sur une ligne distincte au bilan et
@@ -281,7 +281,7 @@ représentative de ces titres ;
 
 La dépréciation des valeurs, titres ou effets qui sont l'objet d'une pension
 dans les conditions prévues par la loi n° 93-1444 du 31 décembre 1993 portant
-diverses dispositions relatives à la banque de France, à l'assurance, au crédit
+diverses dispositions relatives à la Banque de France, à l'assurance, au crédit
 et aux marchés financiers, ne peut donner lieu, de la part du cessionnaire, à la
 constitution d'une provision déductible sur le plan fiscal.
 
@@ -332,7 +332,7 @@ de revient initial du bien est retenu pour une valeur nulle.
 
 Dans l'hypothèse où cette obligation de renouvellement est mise à la charge d'un
 tiers, les dispositions des vingt-deuxième à vingt-cinquième alinéas sont
-applicables à celui-ci).
+applicables à celui-ci.
 
 Les provisions pour indemnités de licenciement constituées en vue de faire face
 aux charges liées aux licenciements pour motif économique ne sont pas
@@ -362,15 +362,15 @@ ravitaillement, la répartition des divers produits, l'assiette et le
 recouvrement des impôts, contributions et taxes, ne sont pas admises en
 déduction des bénéfices soumis à l'impôt.
 
-2 bis. Pour les contrats conclus au cours d'exercices ouverts à compter de
-l'entrée en vigueur de la Convention sur la lutte contre la corruption d'agents
-publics étrangers dans les transactions commerciales internationales, les sommes
-versées ou les avantages octroyés, directement ou par des intermédiaires, au
-profit d'un agent public au sens du 4 de l'article 1er de ladite convention ou
-d'un tiers pour que cet agent agisse ou s'abstienne d'agir dans l'exécution de
-fonctions officielles, en vue d'obtenir ou conserver un marché ou un autre
-avantage indu dans des transactions commerciales internationales, ne sont pas
-admis en déduction des bénéfices soumis à l'impôt.
+2 bis. A compter de l'entrée en vigueur sur le territoire de la République de la
+convention sur la lutte contre la corruption d'agents publics étrangers dans les
+transactions commerciales internationales, les sommes versées ou les avantages
+octroyés, directement ou par des intermédiaires, au profit d'un agent public au
+sens du 4 de l'article 1er de ladite convention ou d'un tiers pour que cet agent
+agisse ou s'abstienne d'agir dans l'exécution de fonctions officielles, en vue
+d'obtenir ou conserver un marché ou un autre avantage indu dans des transactions
+commerciales internationales, ne sont pas admis en déduction des bénéfices
+soumis à l'impôt.
 
 3. Les allocations forfaitaires qu'une société attribue à ses dirigeants ou aux
 cadres de son entreprise pour frais de représentation et de déplacement sont
@@ -454,7 +454,7 @@ imposables ou que leur montant excède celui de ces bénéfices, l'administratio
 peut demander à l'entreprise de justifier qu'elles sont nécessitées par sa
 gestion.
 
-6. (Dispositions devenues sans objet).
+6. (périmé).
 
 7. Les dépenses exposées pour la tenue de la comptabilité et, éventuellement,
 pour l'adhésion à un centre de gestion agréé ne sont pas prises en compte pour
@@ -529,9 +529,3 @@ premier et deuxième alinéas sont admises en déduction du résultat imposable.
 Lorsque le contrat de crédit-bail est cédé, les quotes-parts de loyers non
 déductibles sont considérées comme un élément du prix de revient du contrat pour
 le calcul de la plus-value dans les conditions de l'article 39 duodecies A.
-
-(1) Cette disposition s'applique aux exercices ouverts à compter du 1er janvier
-1999.
-
-(2) Cette disposition s'applique aux rappels de taxe sur la valeur ajoutée
-notifiés à compter du 1er janvier 1998.
