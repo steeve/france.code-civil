@@ -40,9 +40,13 @@ d'avances remboursables accordées par l'Etat afin d'équilibrer son budget de
 fonctionnement.
 
 2° Une contribution de chaque commune dont le potentiel fiscal par habitant
-excède trois fois le potentiel fiscal moyen par habitant des communes membres de
+excède deux fois le potentiel fiscal moyen par habitant des communes membres de
 la communauté ou du syndicat d'agglomération nouvelle. Le montant de la
 contribution est égal aux trois quarts du montant du potentiel fiscal excédant
-le triple du potentiel fiscal moyen par habitant, multiplié par le nombre
+le double du potentiel fiscal moyen par habitant, multiplié par le nombre
 d'habitants de la commune considérée. Pour l'application du présent alinéa, le
 potentiel fiscal est calculé selon les règles fixées à l'article L. 5334-8.
+
+La contribution ne peut excéder 10 % du produit de la taxe d'habitation et des
+taxes foncières de l'exercice antérieur ; elle constitue pour la commune une
+dépense obligatoire.
