@@ -31,7 +31,3 @@ est de même, par dérogation aux dispositions du deuxième alinéa de l'article
 712-52, pour les ayants droit des fonctionnaires de l'Etat et des magistrats
 visés à la phrase précédente et aux deux premiers alinéas lorsque ces ayants
 droit résident ou séjournent dans un département d'outre-mer.
-
-Par dérogation aux dispositions du premier alinéa de l'article D. 712-52, les
-fonctionnaires de l'Etat et les magistrats visés aux trois alinéas précédents
-bénéficient des dispositions de l'article D. 712-12.
