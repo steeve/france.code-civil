@@ -5,12 +5,14 @@ suivantes :
 
 1° Au moment de la demande :
 
-a) En cas de location, l'original, la copie certifiée conforme ou une photocopie
-de la quittance de loyer qui comprend la mensualité de janvier ; à défaut une
-attestation du bailleur précisant le montant du loyer pour le mois de janvier ou
-éventuellement, dans les cas prévus aux troisième, quatrième et cinquième
-alinéas de l'article R. 831-14, une quittance ou une attestation correspondant
-au mois pris en considération pour le calcul de l'allocation de logement ;
+a) En cas de location, et lorsqu'il y a contrat, la copie certifiée conforme du
+contrat établi au nom du demandeur ainsi que l'original ou la copie certifiée
+conforme de la quittance de loyer établie au même nom qui comprend la mensualité
+de janvier ; à défaut une attestation du bailleur précisant le montant du loyer
+pour le mois de janvier ou éventuellement, dans les cas prévus aux troisième,
+quatrième et cinquième alinéas de l'article R. 831-14, une quittance ou une
+attestation correspondant au mois pris en considération pour le calcul de
+l'allocation de logement ;
 
 b) Lorsqu'un employé est logé par son employeur moyennant une retenue sur le
 salaire, la production du bulletin de salaire qui justifiera du paiement d'un

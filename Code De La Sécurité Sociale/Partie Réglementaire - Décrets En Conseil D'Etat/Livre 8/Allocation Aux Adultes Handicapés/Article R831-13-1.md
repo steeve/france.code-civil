@@ -3,11 +3,12 @@ Article R831-13-1
 Pour une personne seule, le logement doit être d'une superficie habitable d'au
 moins 9 mètres carrés augmentée de 7 mètres carrés par personne en plus.
 
-Lorsque la condition de superficie n'est pas remplie au moment de la demande,
-l'allocation de logement peut être accordée, à titre exceptionnel, par décision
-de la caisse d'allocations familiales ou de la caisse de mutualité sociale
-agricole concernée. Le conseil d'administration de l'organisme débiteur est
-informé de la décision prise.
+Pour les logements autres que les logements collectifs, lorsque la condition de
+superficie, lorsque la condition de superficie n'est pas remplie au moment de la
+demande, l'allocation de logement peut être accordée, à titre exceptionnel, par
+décision de la caisse d'allocations familiales ou de la caisse de mutualité
+sociale agricole concernée. Le conseil d'administration de l'organisme débiteur
+est informé de la décision prise.
 
 Au moment du renouvellement des droits, l'allocation de logement peut être
 accordée à titre exceptionnel, pour une période de deux ans renouvelable une
