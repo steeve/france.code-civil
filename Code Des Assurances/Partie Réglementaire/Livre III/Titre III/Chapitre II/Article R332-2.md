@@ -102,8 +102,21 @@ D. - Dispositions communes :
 Les intérêts courus des placements énumérés au présent article sont assimilés
 auxdits placements.
 
+Lorsqu'un instrument financier à terme a été souscrit dans les conditions
+définies à l'article R. 332-45 et qu'il est lié à un titre ou à un groupe de
+titres de même nature, parmi ceux mentionnés au paragraphe A du présent article,
+les primes ou soultes versées ou reçues pour la mise en place de l'instrument
+sont assimilées audit titre ou groupe de titres de même nature, dans la limite
+de la part restant à amortir et, pour les primes ou soultes versées au titre
+d'opérations de gré à gré, du montant des garanties reçues dans les conditions
+de l'article R. 332-56.
+
 Les actifs représentatifs des provisions techniques sont évalués en net des
 dettes contractées pour l'acquisition de ces mêmes actifs.
 
 Les actifs donnés en garantie d'un engagement particulier ne sont pas
-admissibles en représentation des autres engagements.
+admissibles en représentation des autres engagements. Par exception, les actifs
+remis en garantie d'opérations de taux sur instruments financiers à terme
+mentionnées aux articles R. 332-45 et R. 332-46 sont admis en représentation à
+hauteur des plus-values latentes enregistrées sur les actifs visés à l'article
+R. 332-19 auxquels ces instruments financiers à terme sont liés.

@@ -47,3 +47,14 @@ contrôle des assurances.
 
 7. La réserve pour fonds de garantie prévue à l'article R. 423-13, à hauteur de
 la part de cotisation versée par l'entreprise et non utilisée par le fonds.
+
+8. Sur demande et justification de l'entreprise et avec l'accord de la
+Commission de contrôle des assurances, les plus-values latentes sur les
+instruments financiers à terme mentionnés aux articles R. 332-45 et R. 332-46,
+dès lors que les opérations correspondantes sont négociées sur un marché reconnu
+au sens du dernier alinéa du A de l'article R. 332-2 ou réalisées de gré à gré
+dans la mesure où elles sont garanties dans les conditions prévues à l'article
+R. 332-56.
+
+Les moins-values latentes sur instruments financiers à terme non provisionnées
+sont déduites des éléments énumérés au 5 (b) et au 8.

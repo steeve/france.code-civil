@@ -5,6 +5,11 @@ R. 332-2, autres que les obligations indexées, les parts de fonds communs de
 créance et les titres participatifs, sont inscrites à leur prix d'achat à la
 date d'acquisition.
 
+Lorsqu'un instrument financier à terme est utilisé dans les conditions définies
+à l'article R. 332-46 et qu'il est lié à l'achat d'un titre ou d'un groupe de
+titres de même nature, la valeur de réalisation de l'instrument est prise en
+compte dans le prix d'achat de ce titre ou de ce groupe de titres.
+
 Lorsque le prix d'achat de ces titres est supérieur à leur prix de
 remboursement, la différence est amortie sur la durée de vie résiduelle des
 titres.
