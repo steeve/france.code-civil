@@ -14,7 +14,7 @@ produits livrés en Corse ;
 a. Les opérations visées au 13° du c et aux d et e de l'article 279 portant sur
 des produits livrés en Corse ;
 
-b. Les prestations de services visées aux a à b octies de l'article 279 ;
+b. Les prestations de services visées aux a à b nonies de l'article 279 ;
 
 4° 5,5 %pour les opérations visées à l'article 281 quinquies (2) ;
 
