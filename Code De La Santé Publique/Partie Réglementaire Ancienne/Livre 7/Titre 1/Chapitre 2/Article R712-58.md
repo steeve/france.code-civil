@@ -19,7 +19,9 @@ de leur utilité pour l'un ou pour l'autre, les ministres chargés de la santé 
 de la sécurité sociale et les organismes d'assurance maladie en application de
 l'article L. 115-4 du code de la sécurité sociale.
 
-Lorsque les données échangées ou partagées sont des données nominatives, issues
-notamment des systèmes d'information mentionnés à l'article L. 710-5 du présent
-code ou recueillies en application des articles L. 162-29 et L. 162-29-1 du code
-de la sécurité sociale, elles sont rendues anonymes.
+Lorsque les données relevant du système commun d'information ou des échanges
+d'informations mentionnés au premier alinéa ci-dessus sont des données
+nominatives, issues notamment des systèmes d'information mentionnés à l'article
+L. 710-5 du présent code ou recueillies en application des articles L. 162-29 et
+L. 162-29-1 du code de la sécurité sociale, elles sont rendues anonymes avant
+tout échange ou partage.
