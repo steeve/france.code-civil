@@ -1,17 +1,13 @@
 Article 1383 A
 ----
-I. Les entreprises, créées du 1er janvier 1983 au 31 décembre 1986, visées à
-l'article 1464 B-I peuvent être exonérées, dans les conditions prévues à
+I. Les entreprises créées à compter du 1er janvier 1989, visées au I de
+l'article 1464 B et qui bénéficient des exonérations prévues aux articles 44
+sexies et 44 septies, peuvent être exonérées dans les conditions prévues à
 l'article 1464 C, de la taxe foncière sur les propriétés bâties dont elles sont
 redevables, pour les établissements qu'elles ont créés ou repris à une
-entreprise en difficulté, au titre des deux années suivant celle de leur
+entreprise en difficulté au titre des deux années suivant celle de leur
 création.
-
-Pour les entreprises créées à compter du 1er janvier 1989, l'exonération
-mentionnée à l'alinéa précédent s'applique aux entreprises bénéficiant des
-exonérations prévues aux articles 44 sexies et 44 septies.
 
 II. Les entreprises ne peuvent bénéficier de cette exonération qu'à la condition
 de déclarer leurs acquisitions au service des impôts de la situation des biens
-dans les quinze jours de la signature de l'acte, ou au plus tard le 15 novembre
-1983 [*date limite*] pour les biens acquis avant le 31 octobre 1983.
+dans les quinze jours de la signature de l'acte.

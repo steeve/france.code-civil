@@ -7,7 +7,7 @@ impôts, l'année où leur report d'imposition est demandé.
 Chaque année, le montant cumulé des plus-values en report d'imposition est
 indiqué sur cette même déclaration.
 
-((Le contribuable joint à cette déclaration un état établi sur une formule
+Le contribuable joint à cette déclaration un état établi sur une formule
 délivrée par l'administration et faisant apparaître pour chaque plus-value dont
 le report d'imposition n'est pas expiré :
 
@@ -22,6 +22,4 @@ d) La nature et la date de l'événement ayant entraîné la modification de ce
 montant ;
 
 e) L'indication du régime de report d'imposition applicable à l'opération
-d'échange.)) (1)
-
-(1) Modification du décret.
+d'échange.

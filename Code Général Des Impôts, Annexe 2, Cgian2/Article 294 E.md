@@ -7,9 +7,10 @@ succession ou l'acte de vente doit comporter les indications suivantes :
 
 1° Outre les références de la publication de l'acte d'acquisition du bien,
 telles qu'elles sont prévues au 2 de l'article 32 du décret n° 55-1350 du 14
-octobre 1955 pris pour l'application du décret du 4 janvier 1955 portant réforme
-de la publicité foncière, la date d'acquisition des biens, l'identité des
-parties ainsi que les nom, qualités et résidence du rédacteur de l'acte ;
+octobre 1955 pris pour l'application du décret n° 55-22 du 4 janvier 1955
+modifié portant réforme de la publicité foncière, la date d'acquisition des
+biens, l'identité des parties ainsi que les nom, qualités et résidence du
+rédacteur de l'acte ;
 
 2° La déclaration que l'immeuble a été exclusivement affecté de manière continue
 à l'habitation principale à compter de son acquisition ou de son achèvement s'il

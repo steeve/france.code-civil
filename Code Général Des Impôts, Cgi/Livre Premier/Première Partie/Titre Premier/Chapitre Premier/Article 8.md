@@ -40,8 +40,10 @@ exploitation individuelle et constituée uniquement entre l'apporteur et un
 exploitant qui s'installe ainsi que, le cas échéant, entre les membres de leurs
 familles qui leur sont apparentés dans les conditions fixées au b ci-dessus sous
 réserve que l'exploitation agricole à responsabilité limitée réponde aux
-conditions fixées au 1° de l'article 9 du décret n° 88-176 du 23 février 1988
-relatif aux aides à l'installation des jeunes agriculteurs.
+conditions fixées au 1° de l'article 9 du (( décret n° 88-176 du 23 février 1988
+modifié )) (M) relatif aux aides à l'installation des jeunes agriculteurs.
 
 (1) Cette disposition est applicable à compter des impositions dues au titre de
 l'exercice 1990.
+
+(M) Modification.

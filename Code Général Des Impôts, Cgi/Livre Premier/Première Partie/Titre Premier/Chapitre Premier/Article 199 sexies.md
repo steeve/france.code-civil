@@ -35,8 +35,8 @@ Pour les prêts contractés à compter du 18 septembre 1991 pour la construction
 l'acquisition de logements neufs, le montant des intérêts à prendre en compte
 pour le calcul de la réduction est porté à 20 000 F pour une personne
 célibataire, veuve ou divorcée et à 40 000 F pour un couple marié soumis à une
-imposition commune. Ces montants sont augmentés dans les conditions prévues à
-l'alinéa précédent.
+imposition commune. Ces montants sont augmentés dans les conditions prévues au
+quatrième alinéa.
 
 b. Les dispositions du a s'appliquent même lorsque l'immeuble n'est pas affecté
 immédiatement à l'habitation principale, à la condition que le propriétaire
@@ -68,6 +68,3 @@ d. (Abrogé) (1).
 
 2° a b c d (Périmé à l'exception du troisième alinéa du a transféré sous
 l'article L172 E du LPF).
-
-(1) Ces dispositions s'appliquent aux contrats conclus et aux dépenses payées à
-compter du 1er juillet 1993.

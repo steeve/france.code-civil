@@ -15,9 +15,9 @@ d'une seule société.
 
 2. L'avantage prévu au 1 est maintenu si les titres de la société nouvelle sont
 apportés à une société civile ou à un fonds commun de placement d'entreprise
-mentionné à l'article 21 de la loi n° 88-1201 du 23 décembre 1988 relative aux
-organismes de placement collectif en valeurs mobilières [*OPCVM*] , qui
-répondent aux conditions fixées au d du III.
+mentionné à l'article 21 ((modifié)) (M) de la loi n° 88-1201 du 23 décembre
+1988 relative aux organismes de placement collectif en valeurs mobilières
+[*OPCVM*] , qui répondent aux conditions fixées au d du III.
 
 3. Les salariés des entreprises dont le capital est détenu pour plus de 50 p.
 100 par la société rachetée peuvent bénéficier de l'avantage mentionné au I dans
@@ -56,12 +56,12 @@ d) Les droits de vote attachés aux actions ou aux parts de la société nouvell
 doivent, dès la souscription au capital initial, être détenus pour plus du tiers
 par les salariés de la société rachetée ou des entreprises mentionnées au 3 du
 I, soit directement, soit par l'intermédiaire de fonds communs de placement
-d'entreprise prévus aux articles 20 et 21 de la loi n° 88-1201 du 23 décembre
-1988 précitée, soit par l'intermédiaire d'une société civile n'ayant pas opté
-pour l'impôt sur les sociétés. La société civile ou le fonds commun de placement
-doivent être constitués exclusivement entre les mêmes salariés. La société
-civile ou le fonds visé à l'article 21 mentionné ci-dessus doivent avoir pour
-seul objet la détention des titres de la société nouvelle ;
+d'entreprise prévus aux articles 20 et 21 ((modifiés)) (M) de la loi n° 88-1201
+du 23 décembre 1988 précitée, soit par l'intermédiaire d'une société civile
+n'ayant pas opté pour l'impôt sur les sociétés. La société civile ou le fonds
+commun de placement doivent être constitués exclusivement entre les mêmes
+salariés. La société civile ou le fonds visé à l'article 21 mentionné ci-dessus
+doivent avoir pour seul objet la détention des titres de la société nouvelle ;
 
 e) Le nombre de salariés de la société rachetée détenant des titres de la
 société nouvelle ne peut être inférieur à cinq ni à un pourcentage de l'effectif
@@ -118,3 +118,5 @@ libérées au plus tard le 31 décembre 1999.
 VII. Les conditions d'application du présent article, notamment les obligations
 déclaratives des salariés et des sociétés ou organismes concernés, sont fixées
 par décret.
+
+(M) Modification.

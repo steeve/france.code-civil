@@ -1,14 +1,14 @@
 Article 248 E
 ----
 Lorsque des titres, mentionnés aux articles 5 et 6 de la loi n° 86-912 du 6 août
-1986 ou des titres participatifs mentionnés à l'article 1er de la même loi,
-figurent au bilan d'une entreprise et sont échangés dans le cadre des opérations
-mentionnées au 1° de l'article 5 de la loi n° 86-793 du 2 juillet 1986 ou au
-titre IV de la loi n° 86-1067 du 30 septembre 1986, la plus-value ou la
-moins-value résultant de l'échange n'est pas prise en compte pour la
-détermination du résultat imposable de l'exercice en cours ; les actions reçues
-en échange sont inscrites au bilan pour la même valeur comptable que celle des
-titres échangés.
+1986 ou des titres participatifs mentionnés à l'article 1er modifié de la même
+loi, figurent au bilan d'une entreprise et sont échangés dans le cadre des
+opérations mentionnées au 1° de l'article 5 de la loi n° 86-793 du 2 juillet
+1986 ou au titre IV de la loi n° 86-1067 du 30 septembre 1986 modifiée, la
+plus-value ou la moins-value résultant de l'échange n'est pas prise en compte
+pour la détermination du résultat imposable de l'exercice en cours ; les actions
+reçues en échange sont inscrites au bilan pour la même valeur comptable que
+celle des titres échangés.
 
 Lors de la cession par l'entreprise des actions ainsi reçues, la date à laquelle
 les titres remis à l'échange ont été acquis sert de référence pour le calcul de

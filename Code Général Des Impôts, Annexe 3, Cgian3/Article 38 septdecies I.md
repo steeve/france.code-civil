@@ -19,12 +19,12 @@ souscripteur et à la direction des services fiscaux du lieu du domicile de
 celui-ci, au plus tard le 15 février de l'année suivant celle de la cession.
 
 Lorsque le salarié se trouve dans un cas de dispense de reprise mentionnés au IV
-de l'article 83 ter du code génér al des impôts, la déclaration des revenus est
+de l'article 83 ter du code général des impôts, la déclaration des revenus est
 accompagnée d'une note précisant sa situation.
 
 3. Lorsque les titres de la société nouvelle sont apportés à une société civile
-ou à un fonds commun de placement d'entreprise mentionné à l'article 21 de la
-loi n° 88-1201 du 23 décembre 1988 relative aux organismes de placement
+ou à un fonds commun de placement d'entreprise mentionné à l'article 21 modifié
+de la loi n° 88-1201 du 23 décembre 1988 relative aux organismes de placement
 collectif en valeurs mobilières, la société nouvelle est tenue aux obligations
 du 2 en cas de cession par un salarié de tout ou partie de ses parts dans la
 société civile ou dans le fonds commun de placement d'entreprise. Il en est de

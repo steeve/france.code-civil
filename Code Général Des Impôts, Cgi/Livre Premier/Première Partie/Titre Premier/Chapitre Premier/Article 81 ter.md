@@ -1,12 +1,11 @@
 Article 81 ter
 ----
-Sont affranchis de l'impôt dans la limite annuelle de 3000 F [*montant maximum*]
-:
+Sont affranchis de l'impôt dans la limite annuelle de 3000 F :
 
 1. Le montant des prélèvements opérés sur les salaires à l'occasion de
 l'émission et de l'achat en bourse d'actions réservées aux salariés, en
 application des articles 208-14 et 208-18 de la loi n° 66-537 du 24 juillet 1966
-sur les sociétés commerciales ;
+modifiée sur les sociétés commerciales ;
 
 2. Le montant des prélèvements opérés sur les salaires à l'occasion de la
 souscription des parts sociales émises par les sociétés coopératives ouvrières
