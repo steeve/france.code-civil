@@ -1,13 +1,13 @@
 Article 126
 ----
-1. Les dispositions des articles 39-1-5o, deuxième, quatrième, cinquième et
+1. Les dispositions des articles 39-1-5°, deuxième, quatrième, cinquième et
 septième alinéas, 39 bis, 39 quinquies A, 219-II et III et 238 octies du code
 général des impôts ne sont pas applicables pour la détermination du résultat
-d'ensemble des sociétés agréées en vertu de l'article 104 ou du résultat
-consolidé des sociétés agréées en vertu de l'article 113, dans la mesure où ces
-dispositions concerneraient des exploitations directes et indirectes situées
-hors de la France métropolitaine et des départements d'outre-mer [*à
-l'étranger*].
+d'ensemble des sociétés agréées en vertu de l'article 104 [*bénéfice mondial*]
+ou du résultat consolidé des sociétés agréées en vertu de l'article 113
+[*bénéfice consolidé*], dans la mesure où ces dispositions concerneraient des
+exploitations directes et indirectes situées hors de la France métropolitaine et
+des départements d'outre-mer.
 
 2. Lorsqu'ils ne sont pas imputables sur l'impôt sur les sociétés dû par la
 société agréée, les impôts étrangers acquittés par les exploitations directes et
@@ -27,14 +27,14 @@ limitée au chiffre obtenu par l'application de ces dispositions, selon le cas,
 au résultat d'ensemble ou au résultat consolidé, au chiffre d'affaires consolidé
 du groupe ou au montant consolidé de ses ventes.
 
-Toutefois, pour l'application des dispositions des articles 39 ter et 39 ter A
-du code général des impôts, le chiffre d'affaires consolidé n'est pris en
-considération qu'à concurrence du montant des ventes des produits marchands
-extraits des divers gisements. Les provisions constituées en application de ces
-textes peuvent, sauf disposition contraire de la décision d'agrément, être
-employées dans tous pays, Etats ou territoires dans lesquels la société agréée
-possède des exploitations directes ou indirectes dont les résultats doivent être
-compris dans le résultat d'ensemble ou dans le résultat consolidé du groupe.
+Toutefois, pour l'application des dispositions de l'article 39 ter du code
+général des impôts, le chiffre d'affaires consolidé n'est pris en considération
+qu'à concurrence du montant des ventes des produits marchands extraits des
+divers gisements. Les provisions constituées en application de ce texte peuvent,
+sauf disposition contraire de la décision d'agrément, être employées dans tous
+pays, Etats ou territoires dans lesquels la société agréée possède des
+exploitations directes ou indirectes dont les résultats doivent être compris
+dans le résultat d'ensemble ou dans le résultat consolidé du groupe.
 
 4. Des arrêtés du ministre de l'économie et des finances adapteront, en tant que
 de besoin, les conditions de forme auxquelles peuvent être subordonnées
