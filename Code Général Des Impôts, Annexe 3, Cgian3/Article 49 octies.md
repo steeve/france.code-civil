@@ -1,22 +1,20 @@
 Article 49 octies
 ----
-Les entreprises peuvent bénéficier de la déduction pour investissement prévue à
-l'article 244 quinquies du code général des impôts à raison des matériels neufs
-désignés ci-après :
+Si, au cours de son premier exercice clos à compter du 31 décembre 1987, une
+société soumise au régime prévu au premier alinéa du 1° bis du 1 de l'article 39
+du code général des impôts absorbe une autre entreprise, la période neutralisée
+qui est retenue pour le calcul de l'indemnité de congé payé non déductible en
+application du 9 de l'article 39 du même code est, pour les salariés transférés,
+celle durant laquelle ont été acquis des droits qui n'ont pas été utilisés par
+ces salariés à la date de la fusion ou à sa date d'effet lorsque les parties lui
+ont donné un caractère rétroactif. La durée de cette période ne peut être
+inférieure à celle de la période d'acquisition des droits à congé payé non
+utilisés à la clôture de l'exercice de la société absorbante qui est en cours
+lors de la fusion.
 
-1 Matériels susceptibles d'être admis au régime de l'amortissement dégressif
-dans les conditions fixées par l'article 39 A-1 du code précité et dont la durée
-d'utilisation servant de base au calcul des amortissements fiscaux est au moins
-égale à huit ans;
-
-2 Machines-outils figurant sous les rubriques 84-45 et 84-47 des tableaux
-annexés au décret n° 66-18 du 7 janvier 1966;
-
-3 Matériels spécialisés pour l'industrie textile figurant sous les rubriques ex
-84-16 (calandres pour l'industrie textile), 84-36, 84-37, 84-38, ex 84-39
-(autres machines pour la fabrication et le finissage du feutre) et 84-40 C des
-tableaux annexés au décret précité du 7 janvier 1966, à l'exception de ceux qui
-sont amortis sur une durée inférieure à trois ans;
-
-4 Camions de 6 à 13 tonnes incluses de poids total maximum autorisé et tracteurs
-routiers dérivés de ces camions.
+Si la charge déduite des résultats imposables de cet exercice par la société
+absorbante au titre des droits effectivement utilisés durant ce même exercice
+par les salariés transférés est inférieure à l'indemnité correspondant à la
+période neutralisée définie à l'alinéa précédent, la différence est réintégrée
+aux résultats imposables de cet exercice en application du deuxième alinéa du II
+de l'article 7 de la loi n° 86-1317 du 30 décembre 1986.
