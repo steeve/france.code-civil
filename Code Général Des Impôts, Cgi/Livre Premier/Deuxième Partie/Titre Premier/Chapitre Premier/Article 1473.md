@@ -2,9 +2,14 @@ Article 1473
 ----
 La taxe professionnelle est établie dans chaque commune où le redevable dispose
 de locaux ou de terrains, en raison de la valeur locative des biens qui y sont
-situés ou rattachés et des salaires versés au personnel (1).
+situés ou rattachés (1).
 
-L'abattement de 25.000 F prévu à l'article 1469-4° s'applique dans la commune du
-principal établissement.
+Toutefois, la taxe professionnelle due à raison des activités de remplacement
+exercées par les redevables visés au 2° de l'article 1467 est établie au lieu du
+principal établissement mentionné par les intéressés sur leur déclaration de
+résultats.
 
-1) Annexe II, art. 310 HK.
+L'abattement de 25.000 F prévu au 4° de l'article 1469 s'applique dans la
+commune du principal établissement.
+
+(1) Annexe II, art. 310 HK.
