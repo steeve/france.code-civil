@@ -1,30 +1,27 @@
 Article R443-12
 ----
-Les candidats à l'acquisition de leur logement saisissent l'organisme
-propriétaire de cette demande par lettre recommandée. Lorsque pour un même
-immeuble collectif le pourcentage de ces demandes fixé au sixième alinéa de
-l'article L. 443-7 est atteint, l'organisme dispose d'un délai d'un mois pour
-saisir les autorités visées à l'article L. 443-9.
+Lorsqu'un organisme d'habitations à loyer modéré envisage de vendre, en
+application du deuxième alinéa de l'article L. 443-11, un logement vacant et a
+recueilli à cet effet les accords et avis prévus à l'article L. 443-7, il en
+informe ses locataires dans le département.
 
-En cas de décision négative, soit que l'organisme lui-même, soit que l'une des
-autorités visées au premier alinéa de l'article L. 443-9 ait refusé son accord,
-l'organisme notifie la décision de refus d'aliéner aux candidats acquéreurs dans
-le délai de deux mois qui suit la dernière des réponses, expresse ou tacite, de
-ces autorités, et, lorsque le représentant de l'Etat exprime un refus, en
-indique les motifs.
+Cette publicité mentionne la consistance du bien et le prix proposé.
 
-En cas d'accord de ces autorités, et à défaut d'y avoir préalablement procédé,
-l'organisme propriétaire saisit le service des domaines dans le délai de deux
-mois après que le dernier des accords requis et, le cas échéant, l'avis prévu au
-2e alinéa de l'article L. 443-9 ont été donnés. La décision d'aliéner assortie
-du prix de vente fixé par l'organisme propriétaire, conformément à l'article L.
-443-10, est définitivement arrêtée dans les deux mois qui suivent l'estimation
-du service des domaines.
+Elle est assurée :
 
-Dans le même délai l'organisme informe les candidats acquéreurs de la décision
-positive, du prix fixé de la possibilité pour l'acquéreur de se libérer du prix
-de vente par des paiements échelonnés conformément à l'article R. 443-15.
+a) Par voie d'affichage au siège social de l'organisme et aux emplacements
+habituellement utilisés pour l'information des locataires dans les immeubles
+collectifs appartenant à l'organisme et situés dans le département ;
 
-A compter de cette notification le candidat acquéreur doit souscrire dans les
-trois mois un engagement d'acquisition. A défaut il est réputé avoir renoncé à
-l'acquisition.
+b) Par une insertion dans deux journaux locaux diffusés dans le département ;
+
+c) Et, s'il s'agit d'une maison individuelle, par l'apposition sur cette maison
+ou à proximité immédiate d'un écriteau visible de la voie publique.
+
+L'organisme propriétaire ne peut écarter les demandes d'acquisition émanant de
+ses locataires dans le département que pour des motifs sérieux et légitimes.
+
+En tout état de cause, il ne peut retenir une demande émanant d'une personne
+n'ayant pas la qualité de locataire avant l'expiration d'un délai de deux mois
+courant à compter de l'exécution de l'ensemble des mesures de publicité prévues
+par les alinéas 2 et 3 du présent article.

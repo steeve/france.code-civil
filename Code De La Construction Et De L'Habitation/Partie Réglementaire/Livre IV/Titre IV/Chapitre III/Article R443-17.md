@@ -1,22 +1,18 @@
 Article R443-17
 ----
-Pour la détermination des sommes à rembourser par un organisme d'habitations à
-loyer modéré en cas de vente de logement, l'organisme vendeur établit le prix de
-revient du logement et les modalités de financement de la construction ou de
-l'acquisition et de l'amélioration de l'immeuble en cause ou de l'ensemble de
-logements ayant fait l'objet d'un même financement ainsi que la part affectée au
-financement du logement vendu, en distinguant les prêts selon leur nature, et
-les subventions selon leur origine et leur nature.
+En cas de démolition totale ou partielle dans les conditions prévues par
+l'article L. 443-15-1, le remboursement des aides de l'Etat calculées ainsi
+qu'il est dit à l'article R. 443-14 et des prêts aidés ou consentis par l'Etat
+est en principe immédiatement exigible.
 
-L'aide publique à rembourser comprend les primes, subventions ou bonifications
-d'intérêt attribuées directement ou indirectement par l'Etat à l'organisme
-vendeur à raison du logement vendu, sauf application au profit de l'Etat des
-dispositions de l'article L. 443-15.
+Toutefois, le préfet peut, pour tenir compte de la situation financière de
+l'organisme et de l'intérêt de l'opération au plan économique et social :
 
-Le commissaire de la République du département où est situé le siège de
-l'organisme vérifie l'exactitude des calculs établis par l'organisme vendeur.
+a) Exonérer celui-ci en tout ou partie du remboursement des aides ;
 
-Le montant de l'aide publique à rembourser ainsi que les modalités de son
-reversement en recettes diverses au budget général sont ensuite définis par
-arrêté conjoint du ministre chargé de la construction et de l'habitation et du
-ministre chargé de l'économie et des finances.
+b) Autoriser le remboursement échelonné de tout ou partie des aides sur une
+durée ne pouvant excéder celle prévue par l'échéancier initial du prêt principal
+correspondant ;
+
+c) Autoriser l'organisme à continuer le remboursement des prêts visés au premier
+alinéa selon l'échéancier initialement prévu.

@@ -1,8 +1,8 @@
 Article R443-16
 ----
-Lorsqu'un acquéreur répondant aux conditions définies à l'article R. 443-15 (1°)
-se libère du paiement du prix de vente par des versements échelonnés, il peut
-bénéficier de l'aide personnalisée au logement dans les conditions fixées par
-les dispositions du chapitre 1er du titre V du livre III du présent code (partie
-législative), relatives aux personnes qui sont propriétaires du logement
-qu'elles occupent.
+En cas de vente d'un logement ayant fait l'objet de travaux d'amélioration
+financés avec l'aide de l'Etat, le délai de cinq ans mentionné au dernier alinéa
+de l'article L. 443-13 court à compter de la date de déclaration d'achèvement
+des travaux ou, pour les travaux ne donnant pas lieu à la délivrance d'un permis
+de construire ou à la déclaration prévue par l'article L. 422-2 du code de
+l'urbanisme, de la date de leur réception par le maître d'ouvrage.
