@@ -1,10 +1,23 @@
 Article L5211-33
 ----
-Les communautés urbaines, les communautés de communes et les communautés
-d'agglomération ne peuvent percevoir, à compter de la troisième année
-d'attribution de la dotation dans la même catégorie, une attribution par
-habitant inférieure à 80 % de la dotation par habitant perçue l'année
-précédente.
+I Les communautés de communes et les communautés d'agglomération ne peuvent
+percevoir, à compter de la troisième année d'attribution de la dotation dans la
+même catégorie, une attribution par habitant inférieure à 80 % de la dotation
+par habitant perçue l'année précédente.
+
+De 2000 à 2002, les communautés urbaines ne faisant pas application des
+dispositions de l'article 1609 nonies C du code général des impôts ne peuvent
+percevoir une attribution par habitant inférieure à la dotation par habitant
+perçue l'année précédente.
+
+Les sommes nécessaires à l'application du mécanisme de garantie défini ci-dessus
+sont prélevées de 2000 à 2002 sur la dotation d'aménagement mentionnée à
+l'article L. 2334-13 après utilisation, à cet effet, des disponibilités dégagées
+par la mise en oeuvre des dispositions du septième alinéa du présent article.
+
+A compter du 1er janvier 2003, les communautés urbaines perçoivent une dotation
+d'intercommunalité dans les conditions prévues au troisième alinéa du I de
+l'article L. 5211-30.
 
 Les communautés de communes ne faisant pas application des dispositions de
 l'article 1609 nonies C du code général des impôts ne peuvent percevoir, à
@@ -18,24 +31,34 @@ ce même alinéa, selon les dispositions de l'article L. 5211-30 sans que la
 dotation de base et la dotation de péréquation ne soient pondérées par le
 coefficient d'intégration fiscale.
 
-Toutefois :
+Les communautés urbaines faisant application des dispositions de l'article 1609
+nonies C du code général des impôts et qui sont issues de la transformation de
+communautés urbaines existantes l'année de promulgation de la loi n° 99-586 du
+12 juillet 1999 relative au renforcement et à la simplification de la
+coopération intercommunale ne peuvent percevoir en 2000 une dotation par
+habitant supérieure à 1,5 fois la dotation par habitant qu'elles percevaient
+l'année précédant leur transformation.
 
-1° Les communautés de communes, les communautés urbaines et les communautés
-d'agglomération dont le coefficient d'intégration fiscale est supérieur au
-double du coefficient d'intégration fiscale moyen de la catégorie à laquelle
-elles appartiennent perçoivent une dotation par habitant progressant comme la
-dotation forfaitaire prévue à l'article L. 2334-7 ;
+II Toutefois :
 
-2° Les établissements publics de coopération intercommunale dont la dotation par
-habitant perçue au titre des dotations de base et de péréquation est supérieure
-à celle perçue l'année précédente ne peuvent percevoir une dotation
-d'intercommunalité par habitant inférieure à celle de l'année précédente ;
+1° Les communautés de communes et les communautés d'agglomération dont le
+coefficient d'intégration fiscale est supérieur au double du coefficient
+d'intégration fiscale moyen de la catégorie à laquelle elles appartiennent
+perçoivent une dotation par habitant progressant comme la dotation forfaitaire
+prévue à l'article L. 2334-7 ;
 
-3° Pour les établissements publics de coopération intercommunale dont la
-dotation par habitant perçue au titre des dotations de base et de péréquation
-est en diminution par rapport à l'année précédente, le pourcentage de diminution
-de leur attribution totale par habitant par rapport à l'année précédente ne peut
-excéder celui constaté pour la somme des dotations de base et de péréquation.
+2° Les établissements publics de coopération intercommunale mentionnés au
+premier alinéa du I dont la dotation par habitant perçue au titre des dotations
+de base et de péréquation est supérieure à celle perçue l'année précédente ne
+peuvent percevoir une dotation d'intercommunalité par habitant inférieure à
+celle de l'année précédente ;
+
+3° Pour les établissements publics de coopération intercommunale mentionnés au
+premier alinéa du I dont la dotation par habitant perçue au titre des dotations
+de base et de péréquation est en diminution par rapport à l'année précédente, le
+pourcentage de diminution de leur attribution totale par habitant par rapport à
+l'année précédente ne peut excéder celui constaté pour la somme des dotations de
+base et de péréquation.
 
 La garantie calculée au titre des 2° et 3° ne peut représenter plus de 40 % de
 la dotation totale attribuée.

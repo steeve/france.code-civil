@@ -1,14 +1,32 @@
 Article L5211-30
 ----
-I. - Les sommes affectées à chacune des six catégories d'établissements publics
-de coopération intercommunale sont réparties entre les établissements après
-prélèvement des sommes nécessaires à l'application des dispositions de l'article
-L. 5211-33, à raison de 15 % pour la dotation de base et de 85 % pour la
+I. - Les sommes affectées à chacune des catégories d'établissements publics de
+coopération intercommunale mentionnées aux 2°, 3°, 4°, et 5° du I de l'article
+L. 5211-29 sont réparties entre les établissements après prélèvement des sommes
+nécessaires à l'application des dispositions de l'article L. 5211-33, à raison
+de 15 % pour la dotation de base et de 85 % pour la dotation de péréquation.
+
+De 2000 à 2002, les sommes affectées aux deux catégories des communautés
+urbaines mentionnées au 6° du I de l'article L. 5211-29 sont réparties entre ces
+établissements à raison de 15 % pour la dotation de base et de 85 % pour la
 dotation de péréquation.
 
+A compter du 1er janvier 2003, les sommes affectées à la catégorie des
+communautés urbaines sont réparties de sorte que le montant de l'attribution par
+habitant de chacune d'entre elles est égal à l'attribution par habitant perçue
+l'année précédente augmentée comme la dotation forfaitaire prévue à l'article L.
+2334-7.
+
+Pour les communautés urbaines créées à compter du 1er janvier 2002 ou issues de
+la transformation, postérieure à cette date, d'un établissement public de
+coopération intercommunale, le montant de la dotation par habitant est égal, la
+première année d'attribution, à la dotation moyenne par habitant de la catégorie
+des communautés urbaines.
+
 Chaque établissement public de coopération intercommunale doté d'une fiscalité
-propre perçoit, par prélèvement sur le montant total des sommes affectées à la
-catégorie d'établissement à laquelle il appartient :
+propre mentionné aux premier et deuxième alinéas perçoit, par prélèvement sur le
+montant total des sommes affectées à la catégorie d'établissement à laquelle il
+appartient :
 
 a) Une dotation de base, calculée en fonction de la population totale des
 communes regroupées et pondérée, le cas échéant, par le coefficient
@@ -24,29 +42,32 @@ communautés de communes visées à l'article L. 5214-23-1. Elle s'ajoute à leu
 dotation de base et est répartie comme cette dernière entre les communautés de
 communes concernées.
 
-II. - Le potentiel fiscal des communautés urbaines, des communautés de communes
-ou des communautés d'agglomération est déterminé par application à leurs bases
-brutes d'imposition aux quatre taxes directes locales du taux moyen national à
-ces taxes constaté pour la catégorie d'établissement à laquelle elles
-appartiennent.
-
-Toutefois, le potentiel fiscal des communautés d'agglomération issues de la
-transformation de syndicats ou de communautés d'agglomération nouvelle est
-pondéré par le rapport entre les bases brutes par habitant de taxe
-professionnelle des communautés d'agglomération et la somme des bases brutes par
-habitant des syndicats ou communautés d'agglomération nouvelle et de ceux
-d'entre eux qui se sont transformés en communautés d'agglomération, sous réserve
-que ce rapport soit inférieur à un.
+II. - Le potentiel fiscal des communautés urbaines de 2000 à 2002, des
+communautés de communes ou des communautés d'agglomération est déterminé par
+application à leurs bases brutes d'imposition aux quatre taxes directes locales
+du taux moyen national à ces taxes constaté pour la catégorie d'établissement à
+laquelle elles appartiennent. Il est majoré du montant, pour la dernière année
+connue, de la compensation prévue au I du D de l'article 44 de la loi de
+finances pour 1999 (n° 98-1266 du 30 décembre 1998). Toutefois, le potentiel
+fiscal des communautés d'agglomération issues de la transformation de syndicats
+ou de communautés d'agglomération nouvelle est pondéré par le rapport entre les
+bases brutes par habitant de taxe professionnelle des communautés
+d'agglomération et la somme des bases brutes par habitant des syndicats ou
+communautés d'agglomération nouvelle et de ceux d'entre eux qui se sont
+transformés en communautés d'agglomération, sous réserve que ce rapport soit
+inférieur à un.
 
 Le potentiel fiscal des syndicats ou communautés d'agglomération nouvelle est
 déterminé par application à leurs bases brutes de taxe professionnelle du taux
 moyen national d'imposition à cette taxe constaté pour la catégorie
-d'établissement à laquelle ils appartiennent.
+d'établissement à laquelle ils appartiennent. Il est majoré du montant, pour la
+dernière année connue, de la compensation prévue au I du D de l'article 44 de la
+loi de finances pour 1999 précitée.
 
 III. - 1° Le coefficient d'intégration fiscale, qui est défini pour les
-communautés urbaines, les communautés de communes et les communautés
-d'agglomération, est égal, pour chacun de ces établissements publics, au rapport
-entre :
+communautés urbaines de 2000 à 2002, les communautés de communes et les
+communautés d'agglomération, est égal, pour chacun de ces établissements
+publics, au rapport entre :
 
 a) Les recettes provenant des quatre taxes directes locales, de la taxe ou de la
 redevance d'enlèvement des ordures ménagères et de la redevance d'assainissement
@@ -85,12 +106,21 @@ d'assainissement. Elles ne prennent pas en compte les dépenses effectuées par
 l'établissement public en tant qu'employeur direct de personnel.
 
 Les dépenses de transfert retenues pour déterminer le coefficient d'intégration
-fiscale des communautés urbaines, communautés de communes et communautés
-d'agglomération sont prises en compte à hauteur d'un seuil fixé à 10 % en 2000.
-Ce seuil augmente de 10 points par an pour atteindre 100 % en 2009.
+fiscale des communautés urbaines de 2000 à 2002 , communautés de communes et
+communautés d'agglomération sont prises en compte à hauteur d'un seuil fixé à 10
+% en 2000. Ce seuil augmente de 10 points par an pour atteindre 100 % en 2009.
 
 V. - Le coefficient d'intégration fiscale des communautés de communes ayant opté
 pour l'application des dispositions de l'article 1609 nonies C du code général
 des impôts est pris en compte, pour le calcul des dotations de base et de
 péréquation, à hauteur de 10 % en 2000. Ce seuil augmente de 10 points par an
 pour atteindre 100 % en 2009.
+
+VI. - A compter du 1er janvier 2003, la dotation des communautés urbaines est
+répartie selon les dispositions fixées aux troisième et quatrième alinéas du I.
+
+VII. - Lorsque le recensement général de population de 1999 fait apparaître une
+variation de la population d'un établissement public de coopération
+intercommunale doté d'une fiscalité propre, cette variation est prise en compte,
+pour l'application des dispositions de la présente sous-section, dans les
+conditions prévues aux troisième et quatrième alinéas de l'article L. 2334-2.

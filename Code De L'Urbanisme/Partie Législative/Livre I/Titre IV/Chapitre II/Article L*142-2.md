@@ -114,4 +114,4 @@ La taxe constitue, du point de vue fiscal, un élément du prix de revient de
 l'ensemble immobilier.
 
 La taxe est perçue au profit du département en tant que recette grevée
-d'affectation spéciale.
+d'affectation spéciale et a le caractère d'une recette de fonctionnement.

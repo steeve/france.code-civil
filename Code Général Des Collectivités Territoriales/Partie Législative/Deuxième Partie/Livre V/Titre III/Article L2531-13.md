@@ -54,6 +54,11 @@ alinéa de l'article L. 2332-2.
 La population à prendre en compte pour l'application du présent paragraphe est
 arrêtée dans les conditions prévues à l'article L. 2334-2.
 
+Le potentiel fiscal à prendre en compte pour l'application du présent paragraphe
+est majoré du montant, pour la dernière année connue, de la compensation prévue
+au I du D de l'article 44 de la loi de finances pour 1999 (n° 98-1266 du 30
+décembre 1998). ;
+
 II. - 1° Sont soumises à un deuxième prélèvement les communes de la région
 d'Ile-de-France dont les bases totales d'imposition à la taxe professionnelle
 divisées par le nombre d'habitants excèdent 3,5 fois la moyenne des bases de
@@ -104,7 +109,10 @@ d'application de la loi n° 99-586 du 12 juillet 1999 relative au renforcement e
 III. - Pour l'application du II :
 
 - la population à prendre en compte est arrêtée dans les conditions prévues à
-l'article R. 114-1 du code des communes ;
+l'article R. 114-1 du code des communes. Lorsque le recensement général de
+population de 1999 fait apparaître une variation de la population d'une commune,
+cette variation est prise en compte dans les conditions prévues aux troisième et
+quatrième alinéas de l'article L. 2334-2. ;
 
 - les bases totales d'imposition retenues sont les bases nettes de taxe
 professionnelle après exonérations, mais avant écrêtement au profit du fonds

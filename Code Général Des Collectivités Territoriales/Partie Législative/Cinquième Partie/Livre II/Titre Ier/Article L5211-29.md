@@ -1,27 +1,36 @@
 Article L5211-29
 ----
-Le montant total de la dotation d'intercommunalité visé à l'article L. 5211-28
+I Le montant total de la dotation d'intercommunalité visé à l'article L. 5211-28
 est fixé chaque année par le comité des finances locales qui le répartit entre
-les six catégories de groupements suivants :
+les cinq catégories de groupements suivants :
 
-1° Les communautés urbaines ne faisant pas application des dispositions de
+1° Les communautés urbaines ;
+
+2° Les communautés de communes ne faisant pas application des dispositions de
 l'article 1609 nonies C du code général des impôts ;
 
-2° Les communautés urbaines faisant application des dispositions de l'article
+3° Les communautés de communes faisant application des dispositions de l'article
 1609 nonies C du code général des impôts ;
 
-3° Les communautés de communes ne faisant pas application des dispositions de
+4° Les syndicats ou communautés d'agglomération nouvelle ;
+
+5° Les communautés d'agglomération créées avant le 1er janvier 2005.
+
+6° Pour la période de 2000 à 2002, la catégorie mentionnée au 1° est divisée en
+deux catégories distinctes :
+
+- les communautés urbaines ne faisant pas application des dispositions de
 l'article 1609 nonies C du code général des impôts ;
 
-4° Les communautés de communes faisant application des dispositions de l'article
-1609 nonies C du code général des impôts ;
+les communautés urbaines faisant application des dispositions de l'article 1609
+nonies C du code général des impôts.
 
-5° Les syndicats ou communautés d'agglomération nouvelle ;
+De 2000 à 2002, la dotation par habitant des communautés urbaines est fixée par
+le Comité des finances locales et ne prend pas en compte les sommes nécessaires
+au mécanisme de garantie prévu à l'article L. 5211-33.
 
-6° Les communautés d'agglomération créées avant le 1er janvier 2005.
-
-La dotation par habitant de la catégorie des communautés d'agglomération créées,
-ou issues de la transformation d'un établissement public de coopération
+II La dotation par habitant de la catégorie des communautés d'agglomération
+créées, ou issues de la transformation d'un établissement public de coopération
 intercommunale, avant le 1er janvier 2005 est fixée à 250 F au 1er janvier 2000.
 L'évolution de ce montant ne peut être inférieure à l'évolution prévisionnelle
 des prix à la consommation hors tabac associée au projet de loi de finances.
@@ -36,10 +45,14 @@ au projet de loi de finances.
 Les modalités de répartition de la majoration prévue au précédent alinéa sont
 précisées à l'article L. 5211-30.
 
-La dotation par habitant de la catégorie des communautés de communes faisant
-application des dispositions de l'article 1609 nonies C du code général des
-impôts ne peut être inférieure à celle fixée pour la catégorie des communautés
-de communes ne faisant pas application de ces dispositions.
+De 2000 à 2002 la dotation par habitant de la catégorie des communautés de
+communes faisant application des dispositions de l'article 1609 nonies C du code
+général des impôts ne peut être inférieure à celle fixée pour la catégorie des
+communautés de communes ne faisant pas application de ces dispositions.
+
+A compter du 1er janvier 2003, le montant de la dotation d'intercommunalité
+affecté aux communautés urbaines est celui qui résulte de l'application du
+troisième alinéa du I de l'article L. 5211-30.
 
 La dotation par habitant de la catégorie des communautés urbaines ayant opté
 pour les dispositions de l'article 1609 nonies C du code général des impôts ne

@@ -4,12 +4,11 @@ Article L3332-3
 
 1° Du produit des emprunts ;
 
-2° De la taxe départementale sur les espaces naturels sensibles ;
+2° abrogé.
 
 3° Du versement pour dépassement du plafond légal de densité ;
 
-4° De la taxe destinée au financement des dépenses des conseils d'architecture,
-d'urbanisme et d'environnement ;
+4° abrogé.
 
 5° De la dotation globale d'équipement ;
 

@@ -84,3 +84,8 @@ défini au II et qui le deviennent en 2000, 2001, 2002 et 2003 en application du
 
 A compter de 2004, ces communes perçoivent l'intégralité de leur attribution du
 fonds.
+
+VII. - Lorsque le recensement général de population de 1999 fait apparaître une
+variation de la population d'une commune, cette variation est prise en compte,
+pour l'application des dispositions du présent article, dans les conditions
+prévues aux troisième et quatrième alinéas de l'article L. 2334-2.

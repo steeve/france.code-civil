@@ -2,7 +2,9 @@ Article L3334-6
 ----
 - Le potentiel fiscal d'un département est déterminé par application aux bases
 départementales des quatre taxes directes locales du taux moyen national
-d'imposition à chacune de ces taxes.
+d'imposition à chacune de ces taxes. Il est majoré du montant, pour la dernière
+année connue, de la compensation prévue au I du D de l'article 44 de la loi de
+finances pour 1999 (n° 98-1266 du 30 décembre 1998).
 
 Pour l'application de l'alinéa précédent :
 

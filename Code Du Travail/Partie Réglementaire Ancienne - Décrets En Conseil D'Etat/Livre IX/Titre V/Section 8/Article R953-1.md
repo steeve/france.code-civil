@@ -9,12 +9,6 @@ code général des impôts.
 Ces personnes ne peuvent bénéficier du droit à la formation professionnelle
 continue que si elles sont à jour du paiement de cette contribution.
 
-Elles versent leur contribution :
-
-a) Soit à un organisme collecteur agréé, en vertu de l'article L. 952-1, pour
-recevoir la participation des employeurs occupant moins de dix salariés au
-développement de la formation professionnelle en faveur de leurs salariés ;
-
-b) Soit à un fonds d'assurance-formation de non-salariés ayant pour but exclusif
-de financer la formation des personnes intéressées, et habilité à cet effet par
-l'Etat.
+La contribution est versée à un fonds d'assurance formation de non-salariés
+ayant pour objet exclusif de financer la formation des personnes intéressées, et
+habilité à cet effet par l'Etat.
