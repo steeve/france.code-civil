@@ -1,9 +1,30 @@
 Article D422-13
 ----
-A la demande de la Compagnie nationale Air France, d'une organisation patronale
-ou du personnel de la profession, des arrêtés du ministre compétent pourront,
-après consultation des organisations intéressées et en se référant, là où il en
-existe, aux accords intervenus entre elles, autoriser nonobstant les règles
-fixées aux articles D. 422-11 et D. 422-12, un régime répartissant les temps de
-vol et les temps d'arrêt sur une autre période de temps, compte tenu notamment
-de l'éventuel renforcement de l'équipage.
+Lorsque l'entreprise choisit l'option prévue au a de l'article D. 422-10, les
+heures de vol comptabilisées à la fin de chacun des trimestres sont considérées
+à partir de la 226e heure comme heures supplémentaires, à l'exclusion de celles
+effectuées pour prévenir des accidents imminents et organiser des mesures de
+sauvetage. Elles donnent lieu à une majoration de 25 % portant sur les éléments
+de rémunération, à l'exclusion des remboursements de frais.
+
+En outre, les heures de vol sont comptabilisées à la fin de chaque année. Elles
+sont considérées à partir de la 826e heure comme heures supplémentaires, à
+l'exclusion de celles effectuées pour prévenir les accidents imminents et
+organiser les mesures de sauvetage, et rémunérées dans les conditions de
+l'alinéa précédent si elles n'ont pas déjà donné lieu à majoration.
+
+Lorsque l'entreprise choisit l'option prévue au b de l'article D. 422-10, les
+heures de vol comptabilisées à la fin de chacun des trimestres sont considérées
+à partir de la 234e heure comme heures supplémentaires, à l'exclusion de celles
+effectuées pour prévenir les accidents imminents et organiser des mesures de
+sauvetage et donnent lieu à une majoration de 25 % portant sur les éléments de
+rémunération, à l'exclusion des remboursements de frais. Toutefois, les
+entreprises dont l'activité est exclusivement consacrée au travail aérien
+agricole, et qui ont conclu un accord dans le cadre du b de l'article D. 422-10,
+peuvent ne comptabiliser les heures de vol qu'à la fin de chaque année, sous
+réserve que les heures effectuées au-delà de la durée moyenne mensuelle ouvrent
+droit à une majoration de salaire. Celles-ci sont considérées à partir de la
+826e heure comme heures supplémentaires, à l'exclusion de celles effectuées pour
+prévenir des accidents imminents et organiser des mesures de sauvetage et
+donnent lieu à une majoration de 25 % portant sur les éléments de rémunération,
+à l'exclusion des remboursements de frais.

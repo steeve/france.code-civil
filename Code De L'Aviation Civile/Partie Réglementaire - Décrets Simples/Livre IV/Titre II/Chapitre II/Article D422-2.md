@@ -1,12 +1,20 @@
 Article D422-2
 ----
-Pour l'application des dispositions des articles D. 422-1 à D. 422-7 :
+Temps d'arrêt périodiques :
 
-On appelle temps de vol le temps décompté depuis le moment où l'aéronef commence
-à se déplacer par ses propres moyens en vue de gagner l'aire du décollage,
-jusqu'au moment où il s'immobilise à la fin du vol.
+Indépendamment des temps d'arrêt qui suivent obligatoirement les périodes de
+vol, le personnel navigant bénéficie à sa base d'affectation :
 
-On entend par long parcours le voyage aérien qui éloigne un membre de l'équipage
-d'un aéronef de plus de trois mille milles marins de son centre d'affectation ou
-dont l'itinéraire préétabli comporte, entre deux escales consécutives, un
-parcours supérieur à mille deux cents milles marins.
+a) D'au moins un temps d'arrêt par semaine dont la durée ne peut être inférieure
+à 36 heures consécutives s'il est affecté aux petits et moyens parcours ;
+
+b) D'un temps d'arrêt au moins égal à quatre jours consécutifs par mois s'il est
+affecté aux longs parcours ;
+
+c) Le temps d'arrêt prévu au b ci-dessus est porté à cinq jours deux fois par
+semestre civil pour les personnels navigants affectés aux longs parcours et
+régis par les articles D. 422-3 à D. 422-7. Si des circonstances imprévisibles
+conduisent l'employeur à déplacer deux mois consécutifs le temps d'arrêt
+périodique par rapport à la position définie au début du mois considéré, le
+temps d'arrêt périodique du mois suivant est augmenté d'un jour sans que la
+position initiale puisse être modifiée.

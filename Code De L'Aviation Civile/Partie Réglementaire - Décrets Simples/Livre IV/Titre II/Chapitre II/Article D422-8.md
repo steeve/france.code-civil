@@ -1,6 +1,14 @@
 Article D422-8
 ----
-Le personnel navigant affecté sur des avions à réaction d'un poids total au
-décollage supérieur à quatorze tonnes est régi quant à la durée du travail par
-les dispositions des articles D. 422-9 et suivants de la section 2 qui se
-substituent aux dispositions des articles D. 422-2 à D. 422-5 et D. 422-7.
+Les heures de vol sont comptabilisées à la fin de chacun des trimestres. Elles
+sont considérées, à partir de la 226e heure, comme heures supplémentaires, à
+l'exclusion de celles effectuées pour prévenir des accidents imminents et
+organiser des mesures de sauvetage. Elles donnent lieu à une majoration de 25 %
+portant sur les éléments de rémunération, à l'exclusion des remboursements de
+frais.
+
+En outre, les heures de vol sont comptabilisées à la fin de chaque année. Elles
+sont considérées, à partir de la 826e heure, comme heures supplémentaires, à
+l'exclusion de celles effectuées pour prévenir des accidents imminents et
+organiser des mesures de sauvetage, et rémunérées dans les conditions de
+l'alinéa précédent si elles n'ont pas déjà donné lieu à majoration.
