@@ -1,6 +1,6 @@
 Article 346
 ----
-Une fois l'instruction à l'audience terminée, la partie civile ou son avocat est
+Une fois l'instruction à l'audience terminée la partie civile ou son avocat est
 entendu. Le ministère public prend ses réquisitions.
 
 L'accusé et son avocat présentent leur défense.

@@ -16,9 +16,14 @@ d'appel ne peut statuer au fond.
 Si aucun pourvoi n'a été interjeté ou si, avant l'expiration du délai du
 pourvoi, la partie demanderesse au pourvoi n'a pas déposé au greffe la requête
 prévue par l'alinéa suivant, le jugement ou l'arrêt est exécutoire et le
-tribunal ou la cour d'appel statue au fond. Dans ce cas, si la procédure a été
-néanmoins transmise à la Cour de cassation, le président de la chambre
-criminelle ordonne qu'il en soit fait retour à la juridiction saisie.
+tribunal ou la cour d'appel statue au fond. Il en est de même, nonobstant les
+dispositions de l'alinéa suivant, en cas d'arrêt rendu soit sur appel d'une
+ordonnance du juge d'instruction en application des articles 81, neuvième
+alinéa, 82-1, deuxième alinéa, 156, deuxième alinéa, ou 167, quatrième alinéa,
+soit en raison du défaut, par le juge d'instruction, d'avoir rendu une telle
+ordonnance. Dans ces cas, si la procédure a été néanmoins transmise à la Cour de
+cassation, le président de la chambre criminelle ordonne qu'il en soit fait
+retour à la juridiction saisie.
 
 Le demandeur en cassation peut déposer au greffe, avant l'expiration des délais
 de pourvoi, une requête adressée au président de la chambre criminelle de la

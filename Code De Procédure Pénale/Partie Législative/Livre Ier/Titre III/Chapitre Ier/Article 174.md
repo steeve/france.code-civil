@@ -12,7 +12,9 @@ de la procédure ultérieure et procède comme il est dit au troisième alinéa 
 l'article 206.
 
 Les actes ou pièces annulés sont retirés du dossier d'information et classés au
-greffe de la cour d'appel. Il est interdit d'y puiser aucun renseignement contre
-les parties, à peine de forfaiture pour les magistrats et de poursuites devant
-leur chambre de discipline pour les avocats. Les actes ou pièces de la procédure
-partiellement annulés sont cancellés.
+greffe de la cour d'appel. Les actes ou pièces de la procédure partiellement
+annulés sont cancellés après qu'a été établie une copie certifiée conforme à
+l'original, qui est classée au greffe de la cour d'appel. Il est interdit de
+tirer des actes et des pièces ou parties d'actes ou de pièces annulés aucun
+renseignement contre les parties, à peine de poursuites disciplinaires pour les
+avocats et les magistrats.

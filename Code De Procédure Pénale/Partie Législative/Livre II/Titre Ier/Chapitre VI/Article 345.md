@@ -1,7 +1,7 @@
 Article 345
 ----
 Si l'accusé est sourd-muet et ne sait pas écrire, le président nomme d'office en
-qualité d'interprète la personne qui a le plus l'habitude de converser avec lui.
+qualité d'interprète la personne qui a le plus d'habitude de converser avec lui.
 
 Il en est de même à l'égard du témoin sourd-muet.
 

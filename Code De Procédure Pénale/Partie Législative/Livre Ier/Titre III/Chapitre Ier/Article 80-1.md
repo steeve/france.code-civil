@@ -1,22 +1,23 @@
 Article 80-1
 ----
-Le réquisitoire est pris contre personne dénommée ou non dénommée.
+Le juge d'instruction a le pouvoir de mettre en examen toute personne à
+l'encontre de laquelle il existe des indices laissant présumer qu'elle a
+participé, comme auteur ou complice, aux faits dont il est saisi.
 
-Il est pris contre personne dénommée lorsqu'il existe à l'encontre d'une
-personne des indices graves et concordants laissant présumer qu'elle a participé
-aux faits dont le juge d'instruction est saisi ; dans ce cas, le procureur de la
-République donne connaissance à la personne de ses réquisitions et l'avise
-qu'elle a droit d'être assistée d'un avocat de son choix ou commis d'office.
-L'avocat choisi ou, dans le cas d'une demande de commission d'office, le
-bâtonnier de l'ordre des avocats en est avisé sans délai. Mention de ces
-formalités est faite au réquisitoire.
+La mise en examen résulte de l'interrogatoire de première comparution prévu par
+l'article 116 ou la délivrance de l'un des mandats prévus par les articles 122 à
+136. Toutefois, la personne à l'encontre de laquelle a été délivré un mandat
+d'amener ou d'arrêt ne bénéficie des droits reconnus aux personnes mises en
+examen qu'à compter de sa première comparution.
 
-Toute personne nommément visée par un réquisitoire du procureur de la République
-est mise en examen devant le juge d'instruction et ne peut être entendue comme
-témoin.
-
-Pour l'application du deuxième alinéa, le procureur de la République procède à
-l'égard des personnes qui ne lui sont pas déférées et dont le domicile est connu
-par l'envoi d'une lettre recommandée ; cette lettre précise que le nom de
-l'avocat choisi ou la demande de désignation d'un avocat commis d'office doit
-être communiqué à son greffe.
+Le juge d'instruction peut également procéder à la mise en examen d'une personne
+par l'envoi d'une lettre recommandée. Cette lettre donne connaissance à la
+personne des faits pour lesquels elle est mise en examen et de la qualification
+juridique de ces faits. Elle lui précise qu'elle a le droit d'être assistée d'un
+avocat de son choix ou commis d'office et que le nom de l'avocat choisi ou la
+demande de désignation d'un avocat commis d'office doit être communiqué au
+greffe du juge d'instruction. Vaut également mise en examen la notification à
+une personne, par un officier de police judiciaire agissant sur les instructions
+du juge d'instruction, des mentions prévues par le présent alinéa. Cette
+notification est constatée par un procès-verbal signé par la personne qui en
+reçoit copie.

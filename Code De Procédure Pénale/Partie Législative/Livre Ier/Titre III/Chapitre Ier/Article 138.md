@@ -59,9 +59,10 @@ juge d'instruction doit saisir le conseil de l'ordre qui statue comme il est dit
 certaines professions judiciaires et juridiques ;
 
 13° Ne pas émettre de chèques autres que ceux qui permettent exclusivement le
-retrait de fonds par le tireur auprès du tiré ou ceux qui sont certifiés et, le
-cas échéant, remettre au greffe les formules de chèques dont l'usage est ainsi
-prohibé ;
+retrait de fonds par le tireur auprès du tiré ou
+
+ceux qui sont certifiés et, le cas échéant, remettre au greffe les formules de
+chèques dont l'usage est ainsi prohibé ;
 
 14° Ne pas détenir ou porter une arme et, le cas échéant, remettre au greffe
 contre récépissé les armes dont elle est détentrice ;

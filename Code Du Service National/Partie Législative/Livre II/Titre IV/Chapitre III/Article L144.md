@@ -2,7 +2,7 @@ Article L144
 ----
 Lorsque les tribunaux des forces armées sont appelés à juger des assujettis au
 service de défense, un des juges est choisi parmi les affectés de défense
-relevant du même département ministériel que l'inculpé.
+relevant du même département ministériel que la personne mise en examen.
 
 Chacun des ministres dont relèvent des emplois de défense établit, pour chaque
 tribunal des forces armées, la liste des affectés de défense appelés à siéger

@@ -13,12 +13,8 @@ saisir à nouveau la juridiction d'instruction afin que la procédure soit
 régularisée.
 
 Lorsque la procédure dont il est saisi n'est pas renvoyée devant lui par la
-juridiction d'instruction, le tribunal prononce la nullité des actes ou pièces
-de la procédure en cas de violation des dispositions visées par l'article 171.
-Il statue sur les exceptions de nullité tirées de la méconnaissance d'une
-formalité substantielle et prononce la nullité si la méconnaissance de cette
-formalité a porté atteinte aux intérêts de la partie qu'elle concerne. Les
-dispositions du dernier alinéa de l'article 174 sont applicables.
+juridiction d'instruction, le tribunal statue sur les exceptions tirées de la
+nullité de la procédure antérieure.
 
 La nullité de la citation ne peut être prononcée que dans les conditions prévues
 par l'article 565.

@@ -21,3 +21,6 @@ avocat pour une ou plusieurs auditions.
 Toutefois, les médecins et les psychologues experts chargés d'examiner la
 personne mise en examen peuvent lui poser les questions nécessaires à
 l'accomplissement de leur mission, hors la présence du juge et des avocats.
+
+Les dispositions du présent article sont également applicables à la personne
+bénéficiant des dispositions de l'article 104.

@@ -5,12 +5,6 @@ ministère public ou même d'office, ordonner que ce témoin soit immédiatement
 amené par la force publique devant la cour pour y être entendu, ou renvoyer
 l'affaire à la prochaine session.
 
-En ce dernier cas, tous les frais de citation, d'actes, de voyage de témoins et
-autres ayant pour objet de faire juger l'affaire sont, hors le cas d'excuse
-légitime, à la charge de ce témoin et il y est contraint, même par corps, sur la
-réquisition du ministère public, par l'arrêt qui renvoie les débats à la session
-suivante.
-
 Dans tous les cas, le témoin qui ne comparaît pas ou qui refuse soit de prêter
 serment, soit de faire sa déposition peut, sur réquisitions du ministère public,
 être condamné par la cour à la peine portée à l'article 109.
