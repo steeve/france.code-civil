@@ -19,7 +19,15 @@ peut excéder celui de la pension qui serait servie à un agriculteur dirigeant
 seul la même exploitation. Toutefois, lorsqu'il existe une coexploitation entre
 époux ou une exploitation agricole à responsabilité limitée, le montant des
 pensions de retraite proportionnelle servies aux époux coexploitants ou aux
-associés exploitants peut être majoré dans des conditions fixées par décret.
+associés exploitants peut être majoré dans des conditions fixées par décret. La
+retraite proportionnelle des chefs d'exploitation ou d'entreprise agricoles
+justifiant de conditions minimales de durée d'activité non salariée agricoles et
+d'assurance en tant que chef d'exploitation ou d'entreprise agricoles est
+calculée ou révisée en tenant compte, selon des modalités fixées par décret, des
+périodes d'assurance accomplies par les intéressés en qualité d'aide familial
+majeur au sens du 2° de l'article 1106-1. Pour les pensions déjà liquidées, ce
+décret précise les périodes assimilées aux périodes d'assurance précédemment
+mentionnées.
 
 Pour les assurés qui demandent la liquidation de leurs droits à retraite avant
 l'âge de soixante-cinq ans et qui ne justifient pas, tant dans le régime

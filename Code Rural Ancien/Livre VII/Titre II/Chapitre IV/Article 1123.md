@@ -8,8 +8,10 @@ a) Une cotisation due pour chaque personne non salariée âgée d'au moins dix-h
 ans, à l'exception des chefs d'exploitation ou d'entreprise mentionnés à
 l'article 1121-1 ;
 
-b) Une cotisation due pour chaque chef d'exploitation ou d'entreprise. Cette
-cotisation est calculée dans les conditions prévues à l'article 1125 ;
+b) Une cotisation due pour chaque chef d'exploitation ou d'entreprise et une
+cotisation due pour chaque aide familial majeur au sens du 2° de l'article
+1106-1. Cette cotisation est calculée dans les conditions prévues à l'article
+1125 ;
 
 c) Une cotisation à la charge de chaque chef d'exploitation ou d'entreprise,
 calculée sur la totalité des revenus professionnels ou sur l'assiette

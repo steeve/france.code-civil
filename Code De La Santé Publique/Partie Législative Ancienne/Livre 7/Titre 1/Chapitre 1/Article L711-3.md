@@ -21,3 +21,9 @@ coordination ;
 
 6° Conjointement avec les praticiens et les autres professionnels de santé,
 personnes et services concernés, à l'aide médicale urgente.
+
+Le service public hospitalier assure, dans des conditions fixées par voie
+réglementaire, les examens de diagnostic et les soins dispensés aux détenus en
+milieu pénitentiaire et, si nécessaire, en milieu hospitalier. Il concourt, dans
+les mêmes conditions, aux actions de prévention et d'éducation pour la santé
+organisées dans les établissements pénitentiaires.
