@@ -3,8 +3,7 @@ Article R15-33-9
 Le procureur général près la cour d'appel de Paris prononce le retrait ou la
 suspension, pour une durée n'excédant pas deux ans, de l'habilitation à
 effectuer des missions de police judiciaire, par arrêté pris soit d'office, soit
-sur proposition du magistrat délégué aux missions judiciaires de la douane ou du
-chef de la direction nationale du renseignement et des enquêtes douanières.
+sur proposition du magistrat délégué aux missions judiciaires de la douane.
 
 Il entend préalablement l'agent des douanes, qui peut prendre connaissance du
 dossier relatif aux faits qui lui sont reprochés et se faire assister d'un
@@ -18,5 +17,5 @@ la cour d'appel de Paris peut, à tout moment, abréger la durée de la suspensi
 Après un retrait, l'habilitation ne peut être rétablie que dans les formes
 prévues pour son attribution initiale.
 
-L'affectation en dehors de la direction nationale du renseignement et des
-enquêtes douanières entraîne la perte de l'habilitation.
+L'affectation en dehors du service national de douane judiciaire entraîne la
+perte de l'habilitation.
