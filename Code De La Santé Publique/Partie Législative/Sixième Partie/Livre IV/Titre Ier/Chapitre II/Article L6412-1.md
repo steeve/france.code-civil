@@ -1,6 +1,6 @@
 Article L6412-1
 ----
-Les dispositions des articles L. 6121-1 à L. 6121-4 sont applicables à Mayotte.
-
-Au troisième alinéa de l'article L. 6121-1, les mots : " dans les conditions
-fixées à l'article L. 6121-8 " ne s'appliquent pas à Mayotte.
+Les dispositions du titre II du livre Ier de la présente partie, à l'exception
+des articles L. 6121-6, L. 6121-9, L. 6121-10, L. 6121-12, L. 6122-19 et L.
+6122-21, sont applicables à Mayotte, sous réserve des adaptations prévues par le
+présent chapitre.

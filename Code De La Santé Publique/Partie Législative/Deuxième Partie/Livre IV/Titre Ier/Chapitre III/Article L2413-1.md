@@ -6,4 +6,4 @@ sont applicables à Mayotte, sous réserve des adaptations prévues aux articles
 
 1° Le chapitre II du titre Ier ;
 
-2° Les chapitres II, IV et VI du titre II, à l'exception de l'article L. 2326-1.
+2° Les chapitres Ier, II, IV et VI du titre II.

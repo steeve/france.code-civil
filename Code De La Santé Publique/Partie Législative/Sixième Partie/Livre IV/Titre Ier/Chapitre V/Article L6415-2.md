@@ -1,16 +1,23 @@
 Article L6415-2
 ----
-Les ressources de l'établissement public de santé de Mayotte sont constituées
-par :
+Les personnels non médicaux exerçant dans les établissements publics de santé
+comprennent :
 
-1° Une dotation globale versée par la caisse de prévoyance sociale de Mayotte ;
+1° Des personnels de direction des établissements mentionnés aux 1°, 2° et 3° de
+l'article 2 de la loi n° 86-33 du 9 janvier 1986 portant dispositions
+statutaires relatives à la fonction publique hospitalière ;
 
-2° Le produit des facturations mentionnées aux 1° et 2° du deuxième alinéa de
-l'article L. 6415-4 ;
+2° Des agents :
 
-3° Les autres produits.
+a) Relevant des dispositions du titre IV du statut général des fonctionnaires ;
 
-Le montant de la dotation globale versée par la caisse de prévoyance sociale est
-égal à la différence entre la totalité des charges d'exploitation inscrites au
-budget général de l'établissement public de santé de Mayotte et les recettes
-d'exploitation mentionnées aux 2° et 3° de l'alinéa précédent.
+b) Mis à disposition par la collectivité départementale ;
+
+c) Pour les emplois auxquels ont vocation les agents de certains corps relevant
+du titre IV du statut général des fonctionnaires autres que ceux mentionnés au
+1° du présent article et dont la liste est fixée par voie réglementaire, des
+agents recrutés et gérés par l'établissement, conformément aux dispositions
+fixées par les statuts particuliers de ces corps.
+
+Le droit à la formation professionnelle continue est reconnu aux personnels non
+médicaux des établissements.

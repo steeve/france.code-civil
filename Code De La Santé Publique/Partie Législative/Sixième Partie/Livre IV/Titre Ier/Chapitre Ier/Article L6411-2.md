@@ -1,12 +1,9 @@
 Article L6411-2
 ----
-L'établissement public de santé de Mayotte assure les examens de diagnostic, la
-surveillance et le traitement des malades, des blessés et des femmes enceintes
-en tenant compte des aspects psychologiques du patient.
+L'agence régionale de l'hospitalisation territorialement compétente à l'égard du
+département de la Réunion l'est également à l'égard de Mayotte.
 
-Il participe à des actions de santé publique, notamment toutes actions
-médico-sociales coordonnées, et à des actions d'éducation pour la santé et de
-prévention. En outre, il met en oeuvre certaines de ces actions.
-
-Il mène, en son sein, une réflexion sur les questions éthiques posées par
-l'accueil et la prise en charge médicale.
+Lorsque la commission exécutive de cette agence délibère sur des questions
+intéressant Mayotte, elle compte parmi ses membres un nombre égal de
+représentants de l'Etat et de représentants de la caisse de sécurité sociale de
+Mayotte.
