@@ -7,9 +7,9 @@ lesquelles ils sont assermentés, outre les officiers et agents de police
 judiciaire agissant conformément aux dispositions du code de procédure pénale :
 
 1° Les agents de l'Etat, de l'Office national de la chasse et de la faune
-sauvage, du Conseil supérieur de la pêche, de l'Office national des forêts et
-des parcs nationaux commissionnés pour constater les infractions en matière
-forestière, de chasse ou de pêche ;
+sauvage, du Conseil supérieur de la pêche, du domaine national de Chambord, de
+l'Office national des forêts et des parcs nationaux commissionnés pour constater
+les infractions en matière forestière, de chasse ou de pêche ;
 
 2° Les gardes champêtres ;
 
