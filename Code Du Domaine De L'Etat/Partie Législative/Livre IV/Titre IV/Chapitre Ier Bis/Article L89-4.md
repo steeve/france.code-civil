@@ -3,8 +3,9 @@ Article L89-4
 Les terrains situés dans les espaces urbains et les secteurs occupés par une
 urbanisation diffuse, délimités selon les modalités prévues à l'article L. 89-1,
 peuvent être déclassés aux fins de cession à titre onéreux aux occupants qui y
-ont édifié ou fait édifier avant le 1er janvier 1995 des constructions affectées
-à l'exploitation d'établissements à usage professionnel.
+ont édifié ou fait édifier avant le 1er janvier 1995, ou à leurs ayants droit,
+des constructions affectées à l'exploitation d'établissements à usage
+professionnel.
 
 Le prix de cession est déterminé d'après la valeur vénale du terrain nu à la
 date du dépôt de la demande de cession. Il est fixé selon les règles applicables

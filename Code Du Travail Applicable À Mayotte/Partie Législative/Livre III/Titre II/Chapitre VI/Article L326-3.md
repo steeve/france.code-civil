@@ -1,5 +1,5 @@
 Article L326-3
 ----
-Un décret en Conseil d'Etat fixe en tant que de besoin les modalités
-d'application du présent chapitre, et notamment les obligations et sanctions
-pesant sur les personnes inscrites sur la liste prévue à l'article L. 326-1.
+Les communes peuvent recevoir des offres d'emploi et effectuer des opérations de
+placement en faveur de leurs administrés à la recherche d'un emploi, après avoir
+passé, à cet effet, convention avec l'Etat et l'Agence nationale pour l'emploi.

@@ -1,17 +1,16 @@
 Article L421
 ----
-Le candidat placé en tête de liste, ou son mandataire, dispose d'un délai de
-quarante-huit heures pour contester le refus d'enregistrement devant le conseil
-du contentieux administratif, qui statue dans les trois jours. La décision du
-conseil du contentieux administratif ne peut être contestée qu'à l'occasion d'un
-recours contre l'élection.
+Aucun retrait de candidat n'est accepté après le dépôt de la liste.
 
-Lorsque le refus d'enregistrement est motivé par l'inobservation des
-dispositions relatives aux inéligibilités, ou par la présence d'un candidat sur
-plusieurs listes ou dans plus d'une circonscription, la liste dispose, pour se
-compléter, de quarante-huit heures à compter de ce refus ou de la décision du
-conseil du contentieux administratif confirmant le refus.
+En cas de décès de l'un des candidats, ses colistiers doivent le remplacer
+immédiatement par un nouveau candidat au rang qui leur convient. Cette nouvelle
+candidature fait l'objet d'une déclaration complémentaire soumise aux règles
+prévues ci-dessus.
 
-Dans le cas prévu à l'alinéa précédent, la candidature est enregistrée si le
-conseil du contentieux administratif, saisi par le candidat tête de liste ou son
-mandataire, n'a pas statué dans le délai prévu au premier alinéa.
+Toutefois, par dérogation aux dispositions de l'alinéa précédent, demeurent
+valables sans modification les listes portant le nom d'un candidat décédé
+postérieurement au huitième jour précédant le scrutin.
+
+Les listes complètes peuvent être retirées au plus tard le quatrième samedi
+précédant le scrutin, à midi. La déclaration de retrait est signée par la
+majorité des candidats de la liste.

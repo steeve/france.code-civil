@@ -4,7 +4,7 @@ Pour être agréé, l'accord instituant un régime d'assurance contre le risque 
 privation totale d'emploi doit prévoir :
 
 - l'indemnisation des salariés licenciés pour cause économique inscrits comme
-demandeurs d'emploi dans les conditions prévues à l'article L. 326-1,
+demandeurs d'emploi dans les conditions prévues à l'article L. 326-7,
 recherchant activement un nouvel emploi ; l'accord doit préciser également les
 conditions d'âge et d'activité auxquelles ces salariés doivent répondre ;
 

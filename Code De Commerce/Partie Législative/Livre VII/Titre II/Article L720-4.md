@@ -4,9 +4,9 @@ Dans les départements d'outre-mer, sauf dérogation motivée de la commission
 départementale d'équipement commercial, l'autorisation demandée ne peut être
 accordée lorsqu'il apparaît qu'elle aurait pour conséquence de porter au-delà
 d'un seuil de 25 % sur l'ensemble du département, ou d'augmenter, si elle est
-supérieure à ce seuil, la part de surface de vente destinée à l'alimentation,
-que celle-ci concerne l'ensemble du projet ou une partie seulement, et
-appartenant :
+supérieure à ce seuil, la surface de vente totale des commerces de détail à
+prédominance alimentaire de plus de 300 mètres carrés de surface de vente, que
+celle-ci concerne l'ensemble du projet ou une partie seulement, et appartenant :
 
 1° Soit à une même enseigne ;
 
