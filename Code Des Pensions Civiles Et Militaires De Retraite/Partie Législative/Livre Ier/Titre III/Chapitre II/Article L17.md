@@ -1,13 +1,23 @@
 Article L17
 ----
-Le montant de la pension ne peut être inférieur :
+Aux fins de liquidation de la pension, le montant de celle-ci ne peut être
+inférieur :
 
-a) Lorsque la pension rémunère vingt-cinq années au moins de services effectifs,
-au traitement brut afférent à l'indice 100 prévu par l'article 1er du décret n°
-48-1108 du 10 juillet 1948 et les textes subséquents ;
+a) Lorsque la pension rémunère au moins quarante années de services effectifs, à
+un montant correspondant à la valeur de l'indice majoré 227 au 1er janvier 2004
+;
 
-b) Lorsque la pension rémunère moins de vingt-cinq années de services effectifs,
-à 4 p. 100 du traitement brut afférent à l'indice 100 prévu par l'article 1er du
-décret n° 48-1108 du 10 juillet 1948 et les textes subséquents par année de
-services effectifs et de bonifications prévues à l'article L. 12 du présent
-code.
+b) Lorsque la pension rémunère quinze années, à 57,5 % du montant défini à
+l'alinéa précédent, ce taux étant augmenté de 2,5 points par année
+supplémentaire de services effectifs de quinze à trente ans et de 0,5 point par
+année de services effectifs de trente à quarante ans. Aux services effectifs
+militaires s'ajoutent, pour le décompte de la période comprise entre quinze et
+trente ans, les bénéfices de campagne et les bonifications prévus au c et au d
+de l'article L. 12 ;
+
+c) Lorsque la pension rémunère moins de quinze années de services effectifs, à
+un quinzième du montant défini à l'alinéa précédent pour cette durée de quinze
+ans, par année de services effectifs.
+
+Le montant du minimum garanti est revalorisé dans les conditions prévues à
+l'article L. 16.

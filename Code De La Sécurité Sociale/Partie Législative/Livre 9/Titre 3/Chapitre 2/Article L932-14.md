@@ -4,13 +4,15 @@ Les dispositions de la présente section s'appliquent aux opérations collective
 à adhésion facultative et aux opérations individuelles des institutions de
 prévoyance.
 
-L'opération par laquelle une entreprise, dénommée "l'adhérent", adhère par la
-signature d'un bulletin au règlement d'une institution de prévoyance ou souscrit
-auprès de celle-ci un contrat au profit de ses salariés ou d'une ou plusieurs
-catégories d'entre eux en vue de leur assurer la couverture d'engagements ou de
+L'opération par laquelle une entreprise ou un groupement d'épargne individuelle
+pour la retraite, dénommé "l'adhérent", adhère par la signature d'un bulletin au
+règlement d'une institution de prévoyance ou souscrit auprès de celle-ci un
+contrat au profit de ses salariés ou d'une ou plusieurs catégories d'entre eux
+ou de ses membres en vue de leur assurer la couverture d'engagements ou de
 risques pour lesquels cette institution est agréée est dite "opération
-collective à adhésion facultative" lorsque les salariés concernés sont libres de
-s'affilier à ladite institution, dont ils deviennent alors membres participants.
+collective à adhésion facultative" lorsque les salariés ou les membres concernés
+sont libres de s'affilier à ladite institution, dont ils deviennent alors
+membres participants.
 
 L'opération par laquelle le salarié ou l'ancien salarié d'un adhérent à une
 institution de prévoyance ou un de ses ayants droit adhère par la signature d'un

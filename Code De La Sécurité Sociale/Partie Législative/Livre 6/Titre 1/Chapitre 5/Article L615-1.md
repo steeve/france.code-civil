@@ -21,7 +21,7 @@ d'invalidité, en application de l'article L. 621-1 ou en application du chapitr
 3 du titre II du livre VII ;
 
 3°) les personnes titulaires d'une allocation ou d'une pension de réversion
-servie par un régime non agricole en application de l'article L. 643-9, les
+servie par un régime non agricole en application de l'article L. 643-7, les
 personnes titulaires d'une allocation ou d'une pension de veuve en application
 des articles L. 644-1 et L. 644-2 ainsi que les personnes titulaires d'une
 allocation ou d'une pension de réversion servie par la caisse nationale des

@@ -1,6 +1,9 @@
 Article L85
 ----
-Tout pensionné qui, par une fausse déclaration relative au cumul ou de quelque
-manière que ce soit, aurait usurpé plusieurs pensions ou un traitement avec une
-pension, sera rayé du grand-livre de la Dette publique. Il sera, en outre,
-poursuivi en restitution des sommes indûment perçues.
+Le montant brut des revenus d'activité mentionnés au deuxième alinéa de
+l'article L. 84 ne peut, par année civile, excéder le tiers du montant brut de
+la pension pour l'année considérée.
+
+Lorsqu'un excédent est constaté, il est déduit de la pension après application
+d'un abattement égal à la moitié du minimum fixé au a de l'article L. 17, dans
+des conditions fixées par décret en Conseil d'Etat.

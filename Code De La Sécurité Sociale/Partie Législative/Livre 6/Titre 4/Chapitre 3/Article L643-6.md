@@ -1,10 +1,12 @@
 Article L643-6
 ----
-Des décrets pris après consultation [*préalable*] du conseil d'administration de
-la caisse nationale d'assurance vieillesse des professions libérales peuvent
-fixer, pour une activité professionnelle déterminée, les conditions dans
-lesquelles les allocations sont réduites lorsque le total de l'allocation et des
-ressources dont jouissent les bénéficiaires dépasse une limite maximum.
+L'attribution de la pension de retraite est subordonnée à la cessation de
+l'activité libérale.
 
-En ce qui concerne les veuves de guerre, les plafonds mentionnés au présent
-article ne peuvent être inférieurs à celui prévu par l'article L. 814-3.
+Les dispositions du premier alinéa ne font pas obstacle à l'exercice d'une
+activité procurant des revenus inférieurs à un seuil déterminé dans des
+conditions fixées par décret.
+
+Lorsque l'assuré reprend une activité lui procurant des revenus supérieurs à
+ceux prévus à l'alinéa précédent, il en informe la section professionnelle
+compétente et le service de sa pension est suspendu.

@@ -15,17 +15,18 @@ retraite servie à titre personnel prend effet postérieurement au 31 décembre
 1996 et qui justifient, dans le régime des personnes non salariées des
 professions agricoles et dans un ou plusieurs autres régimes obligatoires, d'une
 durée d'assurance et de périodes reconnues équivalentes au moins égale à celle
-requise en application de l'article L. 351-1 du code de la sécurité sociale pour
-ouvrir droit à une pension à taux plein du régime général de la sécurité sociale
-ainsi que d'une durée minimum d'assurance effectuée en qualité de chef
-d'exploitation ou d'entreprise agricole à titre exclusif ou principal, peuvent
-bénéficier d'une majoration de leur pension de retraite proportionnelle. Cette
-majoration a pour objet de porter le montant de celle-ci à un minimum qui est
-fixé par décret et qui tient compte de la durée d'assurance en tant que chef
-d'exploitation ou d'entreprise agricole à titre exclusif ou principal. Ce décret
-fixe également les conditions dans lesquelles des années d'activité accomplies
-en qualité d'aide familial majeur pourront être assimilées à des années de chef
-d'exploitation pour déterminer ladite majoration.
+requise en application de l'article L. 351-1 du code de la sécurité sociale à la
+date d'effet de la pension de retraite pour ouvrir droit à une pension à taux
+plein du régime général de la sécurité sociale ainsi que d'une durée minimum
+d'assurance effectuée en qualité de chef d'exploitation ou d'entreprise agricole
+à titre exclusif ou principal, peuvent bénéficier d'une majoration de leur
+pension de retraite proportionnelle. Cette majoration a pour objet de porter le
+montant de celle-ci à un minimum qui est fixé par décret et qui tient compte de
+la durée d'assurance en tant que chef d'exploitation ou d'entreprise agricole à
+titre exclusif ou principal. Ce décret fixe également les conditions dans
+lesquelles des années d'activité accomplies en qualité d'aide familial majeur
+pourront être assimilées à des années de chef d'exploitation pour déterminer
+ladite majoration.
 
 Pour les personnes non susceptibles de bénéficier de la revalorisation de la
 majoration des pensions de réversion prévue à l'article L. 732-54-4, le minimum

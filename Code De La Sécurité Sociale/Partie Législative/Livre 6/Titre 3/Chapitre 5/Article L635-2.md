@@ -1,6 +1,8 @@
 Article L635-2
 ----
-Dans les conditions prévues à l'article L. 635-1, il pourra être institué un
-régime d'assurance invalidité-décès fonctionnant à titre obligatoire dans le
-cadre du groupe des professions industrielles et commerciales, le régime
-existant dans le cadre du groupe des professions artisanales étant maintenu.
+Les possibilités de rachat ouvertes dans le régime de base par l'article L.
+634-2-1 sont également ouvertes pour les régimes complémentaires mentionnés à
+l'article L. 635-1 aux personnes bénéficiant déjà d'une prestation de vieillesse
+servie par les régimes mentionnés aux 1° et 2° de l'article L. 621-3. Les
+conditions d'application du présent article, et notamment les modalités de
+rachat, sont fixées par décret.

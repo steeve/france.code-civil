@@ -1,6 +1,7 @@
 Article L22
 ----
 La solde de réforme prévue en faveur des officiers et militaires non officiers
-visés à l'article L. 7 est fixée à 30 % des émoluments de base. Elle ne peut
-être inférieure à 60 % du traitement brut afférent à l'indice 100 prévu par
-l'article 1er du décret n° 48-1108 du 10 juillet 1948 et les textes subséquents.
+mentionnés à l'article L. 7 est fixée à 30 % de la solde soumise à retenue. Elle
+ne peut être inférieure à 60 % du montant correspondant à la valeur de l'indice
+majoré 227 au 1er janvier 2004, revalorisé dans les conditions prévues à
+l'article L. 16.

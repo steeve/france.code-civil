@@ -16,8 +16,8 @@ sociale et des familles, le conjoint et les membres de la famille vivant sur
 l'exploitation sont présumés, sauf preuve contraire, participer à la mise en
 valeur de celle-ci.
 
-Les membres de la famille âgés d'au moins dix-huit ans et ayant la qualité
-d'aide familial défini par le 2° de l'article L. 722-10 ont également droit à la
+Les membres de la famille âgés d'au moins seize ans et ayant la qualité d'aide
+familial défini par le 2° de l'article L. 722-10 ont également droit à la
 pension de retraite proportionnelle dans les conditions prévues aux 2° des
 articles L. 732-24 et L. 762-29.
 

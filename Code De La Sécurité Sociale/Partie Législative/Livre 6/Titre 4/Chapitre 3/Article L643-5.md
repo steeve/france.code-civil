@@ -1,6 +1,7 @@
 Article L643-5
 ----
-Un décret en Conseil d'Etat fixe l'âge à partir duquel l'allocation de
-vieillesse peut être attribuée avec application de coefficients d'anticipation
-fixés par décret et sous réserve de la cessation de l'activité professionnelle
-libérale au titre de laquelle l'allocation est demandée.
+L'inaptitude au travail s'apprécie en déterminant si, à la date de la demande ou
+à une date postérieure, le requérant, compte tenu de son âge, de son état de
+santé, de ses capacités physiques et mentales, de ses aptitudes ou de sa
+formation professionnelle, n'est plus en mesure d'exercer une activité
+professionnelle.
