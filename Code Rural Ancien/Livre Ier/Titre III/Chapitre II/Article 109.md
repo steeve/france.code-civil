@@ -15,14 +15,19 @@ de centres habités ou en est la conséquence ;
 code ;
 
 4° Lorsqu'elles concernent les ouvrages établissant ou réglant le plan d'eau ou
-les établissements ou usines qui, à dater du jour de la publication du règlement
-d'administration publique prévu au présent article, n'auront pas été entretenus
-depuis plus de vingt ans ; toute collectivité publique ou tout établissement
-public intéressé peut, en cas de défaillance du permissionnaire ou du titulaire
-de l'autorisation, et à sa place, après mise en demeure par le préfet, exécuter
-les travaux qui sont la conséquence de la révocation ou de la modification de la
-permission ou de l'autorisation, et poursuivre, à l'encontre du permissionnaire
-ou du titulaire de l'autorisation, le remboursement de ces travaux.
+les établissements ou usines qui, à dater du jour de la publication du décret
+prévu au présent article, n'auront pas été entretenus depuis plus de vingt ans ;
+toute collectivité publique ou tout établissement public intéressé peut, en cas
+de défaillance du permissionnaire ou du titulaire de l'autorisation, et à sa
+place, après mise en demeure par le préfet, exécuter les travaux qui sont la
+conséquence de la révocation ou de la modification de la permission ou de
+l'autorisation, et poursuivre, à l'encontre du permissionnaire ou du titulaire
+de l'autorisation, le remboursement de ces travaux ;
+
+5° Pour des raisons de protection de l'environnement et notamment lorsque ces
+autorisations soumettent les milieux naturels aquatiques à des conditions
+hydrauliques critiques, non compatibles avec leur préservation, selon les
+modalités fixées par décret en Conseil d'Etat.
 
 Les dispositions du présent article sont applicables aux permissions ou
 autorisations accordées en vertu des articles 106 et 107 du présent code ou
