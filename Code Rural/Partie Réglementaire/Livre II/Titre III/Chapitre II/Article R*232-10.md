@@ -1,14 +1,7 @@
 Article R*232-10
 ----
-La délivrance de l'autorisation visée à l'article R. 232-6 est subordonnée à
-l'engagement de remettre au préfet un rapport quinquennal, ainsi qu'un rapport
-final, dans un délai d'un an après la fin de la période de validité de
-l'autorisation, sur la gestion des spécimens de l'espèce considérée.
-
-La délivrance de l'autorisation visée à l'article R. 232-7 est subordonnée à
-l'engagement par le permissionnaire de ne pas céder les spécimens vivants à un
-tiers et de remettre au ministre chargé de la pêche en eau douce un rapport
-annuel ainsi qu'un rapport final, dans un délai d'un an après la fin de la
-période de validité de l'autorisation, sur les études entreprises qui
-nécessitaient l'utilisation de spécimens de l'espèce pour laquelle
-l'autorisation a été délivrée.
+Les autorisations mentionnées aux articles R. 232-8 et R. 232-9 sont
+incessibles, elles sont délivrées pour une durée ne dépassant pas trente ans en
+ce qui concerne les autorisations mentionnées à l'article R. 232-8 et pour une
+durée ne dépassant pas dix ans en ce qui concerne les autorisations mentionnées
+à l'article R. 232-9. Elles sont renouvelables.

@@ -10,3 +10,11 @@ et gazières, à l'exception du service de l'allocation de logement visée à
 l'article L. 511-1 ;
 
 3° La Régie autonome des transports parisiens.
+
+Sont également autorisés à servir directement les prestations familiales à leurs
+personnels de droit public en activité, dans les conditions prévues pour les
+agents de l'Etat, les exploitants publics :
+
+1° La Poste ;
+
+2° France Télécom.
