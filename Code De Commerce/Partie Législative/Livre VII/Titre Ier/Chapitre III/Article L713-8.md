@@ -1,6 +1,11 @@
 Article L713-8
 ----
-Les listes électorales sont dressées dans le ressort du tribunal de commerce par
-une commission présidée par le juge commis à la surveillance du registre du
-commerce et des sociétés et sont soumises aux prescriptions du premier alinéa de
-l'article L. 25 et des articles L. 27, L. 34 et L. 35 du code électoral.
+Les représentants mentionnés au 2° de l'article L. 713-7 doivent exercer dans
+l'entreprise soit des fonctions de président-directeur général, de président ou
+de membre du conseil d'administration, de directeur général, de président ou de
+membre du directoire, de président du conseil de surveillance, de gérant, de
+président ou de membre du conseil d'administration ou de directeur d'un
+établissement public à caractère industriel et commercial, soit, à défaut et
+pour les représenter à titre de mandataire, des fonctions impliquant des
+responsabilités de direction commerciale, technique ou administrative de
+l'entreprise ou de l'établissement.

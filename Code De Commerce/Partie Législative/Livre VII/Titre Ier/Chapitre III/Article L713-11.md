@@ -1,13 +1,10 @@
 Article L713-11
 ----
-Pour l'élection des membres des chambres de commerce et d'industrie, chaque
-électeur dispose d'autant de voix qu'il a de qualités à être électeur par
-application de l'article L. 713-1.
+Les électeurs des délégués consulaires et des membres des chambres de commerce
+et d'industrie sont répartis dans chaque circonscription administrative entre
+trois catégories professionnelles correspondant respectivement aux activités
+commerciales, industrielles ou de services.
 
-Pour l'élection des délégués consulaires, chaque électeur ne dispose que d'une
-seule voix.
-
-Le droit de vote aux élections des membres des chambres de commerce et
-d'industrie est exercé par correspondance ou par voie électronique. En cas
-d'utilisation par un même électeur au titre de la même qualité des deux modes de
-vote, seul le vote par voie électronique est considéré comme valide.
+Au sein de ces trois catégories, les électeurs peuvent éventuellement être
+répartis en sous-catégories professionnelles définies en fonction soit de la
+taille des entreprises, soit de leurs activités spécifiques.

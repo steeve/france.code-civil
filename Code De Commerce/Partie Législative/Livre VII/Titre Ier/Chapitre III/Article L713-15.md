@@ -1,7 +1,14 @@
 Article L713-15
 ----
-Un décret en Conseil d'Etat détermine les modalités d'application des articles
-L. 713-1 à L. 713-14. Ce décret fixe notamment les conditions dans lesquelles
-sont répartis les sièges de délégués consulaires et de membres d'une chambre de
-commerce et d'industrie entre les catégories et sous-catégories
-professionnelles.
+Pour l'élection des membres des chambres de commerce et d'industrie, chaque
+électeur dispose d'autant de voix qu'il a de qualités à être électeur par
+application de l'article L. 713-1.
+
+Pour l'élection des délégués consulaires, chaque électeur ne dispose que d'une
+seule voix.
+
+Le droit de vote aux élections des membres des chambres de commerce et
+d'industrie et aux élections des délégués consulaires est exercé par
+correspondance ou par voie électronique. En cas d'utilisation par un même
+électeur au titre de la même qualité des deux modes de vote, seul le vote
+électronique est considéré comme valide.

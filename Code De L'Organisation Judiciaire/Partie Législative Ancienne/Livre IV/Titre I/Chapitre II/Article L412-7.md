@@ -1,9 +1,11 @@
 Article L412-7
 ----
-Sous réserve des dispositions du second alinéa de l'article L. 413-8, les juges
-des tribunaux de commerce sont élus pour deux ans lors de leur première élection
-et pour quatre ans lors des élections suivantes [*mandat, durée*]. Les juges des
-tribunaux de commerce sont rééligibles.
+Sous réserve des dispositions relatives aux élections complémentaires prévues au
+second alinéa de l'article L. 413-8, les juges des tribunaux de commerce sont
+élus pour deux ans lors de leur première élection. Ils peuvent, à l'issue d'un
+premier mandat, être réélus par période de quatre ans, dans le même tribunal ou
+dans tout autre tribunal de commerce, sans que puisse être dépassé le nombre
+maximal de mandats prévu à l'article L. 413-4.
 
 Lorsque le mandat des juges des tribunaux de commerce vient à expiration avant
 le commencement de la période fixée pour l'installation de leurs successeurs,

@@ -1,18 +1,6 @@
 Article L713-14
 ----
-I. - En cas de dissolution d'une chambre de commerce et d'industrie, il est
-procédé à son renouvellement dans un délai de six mois.
-
-Toutefois, si cette dissolution est prononcée moins d'un an avant un
-renouvellement général, il n'est pas procédé au renouvellement.
-
-II. - Lorsque le nombre de membres d'une chambre de commerce et d'industrie se
-trouve réduit à moins de la moitié du nombre initial, le préfet constate la
-situation par arrêté et organise de nouvelles élections pour la totalité des
-sièges dans un délai de six mois.
-
-Toutefois, si cette situation est constatée moins d'un an avant un
-renouvellement général, il n'est pas procédé au renouvellement.
-
-III. - Les membres élus en application du présent article ne demeurent en
-fonction que pour la durée restant à courir du mandat de leurs prédécesseurs.
+Les listes électorales sont dressées dans le ressort du tribunal de commerce par
+une commission présidée par le juge commis à la surveillance du registre du
+commerce et des sociétés et sont soumises aux prescriptions du premier alinéa de
+l'article L. 25 et des articles L. 27, L. 34 et L. 35 du code électoral.

@@ -1,10 +1,18 @@
 Article L713-5
 ----
-Les électeurs des délégués consulaires et des membres des chambres de commerce
-et d'industrie sont répartis dans chaque circonscription administrative entre
-trois catégories professionnelles correspondant respectivement aux activités
-commerciales, industrielles ou de services.
+I. - En cas de dissolution d'une chambre de commerce et d'industrie, il est
+procédé à son renouvellement dans un délai de six mois.
 
-Au sein de ces trois catégories, les électeurs peuvent éventuellement être
-répartis en sous-catégories professionnelles définies en fonction soit de la
-taille des entreprises, soit de leurs activités spécifiques.
+Toutefois, si cette dissolution est prononcée moins d'un an avant un
+renouvellement général, il n'est pas procédé au renouvellement.
+
+II. - Lorsque le nombre de membres d'une chambre de commerce et d'industrie se
+trouve réduit à moins de la moitié du nombre initial, le préfet constate la
+situation par arrêté et organise de nouvelles élections pour la totalité des
+sièges dans un délai de six mois.
+
+Toutefois, si cette situation est constatée moins d'un an avant un
+renouvellement général, il n'est pas procédé au renouvellement.
+
+III. - Les membres élus en application du présent article ne demeurent en
+fonction que pour la durée restant à courir du mandat de leurs prédécesseurs.
