@@ -1,6 +1,6 @@
 Article R716-3-8
 ----
-Le président ou, en cas d'empêchement, le premier vice-président du conseil
+Le président ou, en cas d'empêchement, le président suppléant du conseil
 d'administration peut, par délégation du conseil d'administration, être chargé
 d'exercer au nom de celui-ci les compétences qu'il détient en ce qui concerne :
 

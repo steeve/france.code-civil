@@ -2,11 +2,12 @@ Article R716-3-62
 ----
 Le mandat des membres du conseil d'administration prend fin en même temps que le
 mandat ou les fonctions au titre desquels les intéressés ont été élus ou
-désignés. Le mandat du membre élu par le Sénat expire lors de chaque
-renouvellement de cette assemblée.
+désignés. Le mandat des membres élus par l'Assemblée nationale et le Sénat
+expire lors du renouvellement de ces assemblées.
 
-Les dispositions de l'article R. 714-2-14, troisième alinéa, sont applicables au
-mandat du membre de l'Assemblée nationale en cas de dissolution de celle-ci.
+Toutefois les membres élus par des assemblées délibérantes continuent à siéger
+au sein du conseil d'administration jusqu'à la désignation de leurs remplaçants.
 
-La durée du mandat des personnes nommées par le ministre chargé de la santé est
-fixée à trois ans.
+La durée du mandat des membres nommés par le ministre chargé de la santé et
+appartenant à des catégories autres que celles mentionnées au quatrième alinéa
+de l'article R. 714-2-14 est fixée à trois ans.

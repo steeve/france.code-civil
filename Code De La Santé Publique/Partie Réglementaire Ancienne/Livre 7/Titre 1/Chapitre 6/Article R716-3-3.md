@@ -1,10 +1,12 @@
 Article R716-3-3
 ----
-Sur proposition du maire, le conseil de Paris désigne parmi les adjoints un
-premier vice-président du conseil d'administration de l'Assistance publique -
-hôpitaux de Paris, qui supplée le président en cas d'absence ou d'empêchement.
+Le président du conseil d'administration désigne, parmi les membres appartenant
+à l'une des catégories mentionnées aux 2° à 4° et au 10° de l'article R.
+716-3-2, un président suppléant qui le remplace en cas d'absence ou
+d'empêchement.
 
-Le conseil d'administration de l'Assistance publique - hôpitaux de Paris élit
-pour trois ans un second vice-président parmi ses membres n'appartenant pas au
-conseil de Paris. Il préside les séances du conseil en cas d'absence du
-président et du premier vice-président.
+Le conseil d'administration élit pour trois ans, parmi ses membres appartenant à
+une catégorie autre que celle dont fait partie le président suppléant, un
+vice-président. Celui-ci préside les séances du conseil en cas d'absence du
+président et du président suppléant, s'il appartient à l'une des catégories
+mentionnées au premier alinéa ci-dessus.

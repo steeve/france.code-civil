@@ -1,58 +1,56 @@
 Article R716-3-40
 ----
-Le conseil d'administration des hospices civils de Lyon est composé de quarante
-membres, à savoir :
+Le conseil d'administration des hospices civils de Lyon est composé de
+trente-huit membres :
 
-1. Le maire ou son représentant désigné en son sein par le conseil municipal sur
-proposition du maire, président ;
+1° Le maire de Lyon, président ; si le maire renonce à assurer les fonctions de
+président, il désigne son remplaçant parmi les membres mentionnés aux 2° à 5° et
+au 10° ci-dessous ; cette circonstance ne fait pas obstacle à ce qu'il reste
+membre du conseil d'administration ;
 
-2. Six membres autres que ceux désignés au 1, élus en son sein par le conseil
-municipal ;
+2° Huit représentants de la ville de Lyon désignés par le conseil municipal ; ce
+chiffre est porté à neuf lorsque le maire, remplacé dans ses fonctions de
+président dans les conditions indiquées au 1° renonce, par ailleurs, à être
+membre du conseil d'administration ;
 
-3. Un membre élu en son sein par le conseil général du Rhône ;
-
-4. Deux membres élus en son sein par le conseil régional ;
-
-5. Dix représentants désignés par les conseils d'administration des organismes
-de sécurité sociale, à savoir :
-
-- quatre représentants de la caisse chargée du versement de la dotation globale
+3° Trois représentants de trois autres communes de la région Rhône-Alpes,
+choisies selon les modalités définies au I de l'article R. 714-2-25 ; chacun de
+ces représentants est désigné par le conseil municipal de la commune intéressée
 ;
 
-- quatre représentants de la caisse régionale d'assurance maladie ;
+4° Deux représentants du département du Rhône désignés par le conseil général ;
 
-- un représentant de la caisse régionale d'assurance maladie et maternité des
-travailleurs non salariés non agricoles ;
+5° Deux représentants de la région Rhône-Alpes désignés par le conseil régional
+;
 
-- un représentant de la caisse de mutualité sociale agricole.
-
-6. Le président et le vice-président de la commission médicale d'établissement
-ou, au cas où l'un d'eux est en même temps directeur de l'unité de formation et
-de recherche ou président du comité de coordination de l'enseignement médical,
-un membre de la commission médicale d'établissement élu par celle-ci ;
-
-Six autres membres de la commission médicale d'établissement élus par celle-ci ;
-
-8. Un membre de la commission centrale du service de soins infirmiers élu par
+6° Le président et le vice-président de la commission médicale d'établissement
+ou, au cas où l'un d'eux est en même temps président du comité de coordination
+de l'enseignement médical, un membre de la commission d'établissement élu par
 celle-ci ;
 
-9. Sept représentants des personnels désignés sur proposition des organisations
-syndicales les plus représentatives parmi les personnels titulaires relevant du
-titre IV du statut général des fonctionnaires dans les conditions prévues au 4°
-de l'article D. 714-2-1 ; le nombre de voix à prendre en compte étant celui des
+7° Six autres membres de la commission médicale d'établissement élus par
+celle-ci ;
+
+8° Un membre de la commission centrale du service de soins infirmiers élu par
+celle-ci ;
+
+9° Sept représentants des personnels désignés par le directeur de l'agence
+régionale de l'hospitalisation, sur proposition des organisations syndicales les
+plus représentatives, parmi les personnels titulaires relevant du titre IV du
+statut général des fonctionnaires, dans les conditions prévues au 3° du II de
+l'article R. 714-2-25, le nombre de voix à prendre en compte étant celui des
 voix recueillies aux élections au comité technique central d'établissement ;
 
-10. Trois membres nommés par le préfet parmi les personnalités connues pour
-leurs travaux sur les problèmes hospitaliers ou pour l'intérêt qu'elles portent
-à ceux-ci, dont un médecin non hospitalier n'exerçant pas dans l'établissement,
-présenté conjointement par le conseil départemental de l'ordre des médecins et
-par les syndicats médicaux les plus représentatifs dans le département du Rhône
-et un représentant des professions paramédicales n'exerçant pas dans l'un des
-établissements des hospices civils de Lyon, désigné dans les conditions prévues
-au 5° de l'article D. 714-2-1 ;
+10° Trois personnalités qualifiées, dont un médecin non hospitalier n'exerçant
+pas dans l'établissement et un représentant des professions paramédicales
+n'exerçant pas dans l'un des établissements des hospices civils de Lyon, nommées
+dans les conditions prévues au 4° du II de l'article R. 714-2-25 ;
 
-11. Le président du comité de coordination de l'enseignement médical de
-l'université.
+11° Le président du comité de coordination de l'enseignement médical de
+l'université ;
+
+12° Deux représentants des usagers nommés dans les conditions indiquées au 5° du
+II de l'article R. 714-2-25.
 
 En outre, le conseil d'administration peut s'adjoindre un représentant de la
 communauté urbaine de Lyon désigné en son sein par le conseil de communauté et
