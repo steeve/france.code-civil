@@ -5,7 +5,7 @@ et réalisées par une personne physique à l'occasion de l'apport à une socié
 l'ensemble des éléments de l'actif immobilisé affectés à l'exercice d'une
 activité professionnelle peuvent bénéficier des dispositions suivantes :
 
-- L'imposition des plus-values afférentes aux immobilisations non amortissables
+L'imposition des plus-values afférentes aux immobilisations non amortissables
 fait l'objet d'un report jusqu'à la date de la cession à titre onéreux ou du
 rachat des droits sociaux reçus en rémunération de l'apport de l'entreprise ou
 jusqu'à la cession de ces immobilisations par la société si elle est antérieure.
@@ -15,18 +15,21 @@ bénéficiaire de la transmission prend l'engagement d'acquitter l'impôt sur la
 plus-value à la date où l'un des événements prévus à la phrase précédente se
 réalise ;
 
-- L'imposition des plus-values afférentes aux autres immobilisations est
-effectuée au nom de la société bénéficiaire de l'apport selon les modalités
-prévues au d du 3 de l'article 210 A pour les fusions de sociétés. Sous les
-conditions fixées au a du 3 de l'article 210 A, les provisions afférentes aux
-éléments transférés ne sont rapportées au résultat imposable de l'entreprise
-apporteuse que si elles deviennent sans objet. Ces dispositions sont applicables
-à l'apport à une société, par un exploitant individuel, de l'ensemble des
-éléments de l'actif immobilisé à l'exception des immeubles, si les immeubles
-sont immédiatement donnés à bail rural dans les conditions visées au 2° de
-l'article 743 du code général des impôts à la société bénéficiaire de l'apport.
+L'imposition des plus-values afférentes aux autres immobilisations est effectuée
+au nom de la société bénéficiaire de l'apport selon les modalités prévues au d
+du 3 de l'article 210 A pour les fusions de sociétés.
 
-La résiliation du bail avant son terme entraîne l'établissement de l'impôt sur
+Sous les conditions fixées au a du 3 de l'article 210 A, les provisions
+afférentes aux éléments transférés ne sont rapportées au résultat imposable de
+l'entreprise apporteuse que si elles deviennent sans objet.
+
+Ces dispositions sont applicables à l'apport à une société, par un exploitant
+individuel, de l'ensemble des éléments de l'actif immobilisé à l'exception des
+immeubles, si les immeubles sont immédiatement donnés à bail rural dans les
+conditions visées au 2° de l'article 743 du code général des impôts à la société
+bénéficiaire de l'apport.
+
+La résiliation du bail avant son terme entraîne l'établissement d l'impôt sur
 les plus-values afférentes aux éléments amortissables, au nom de la société
 bénéficiaire de l'apport au titre de l'exercice au cours duquel l'apport est
 intervenu.
@@ -62,4 +65,11 @@ constatées à l'occasion d'apports en sociétés réalisés à compter du 1er a
 quater-II cessent d'être applicables à ces plus-values à compter de la même
 date.
 
-(1) Voir Annexe IV, art. 170 septies B et 170 octies.
+IV. Les dispositions des I et II ci-dessus s'appliquent aux plus-values dégagées
+à raison des éléments d'actif immobilisé apportés dans le cadre d'une fusion par
+des sociétés civiles professionnelles ainsi qu'aux plus-values résultant pour
+les associés de ces sociétés de l'attribution qui leur est faite des parts de la
+société absorbante.
+
+(1) En ce qui concerne les modalités d'octroi de l'agrément, voir Annexe 4, art.
+170 septies B et 170 octies.
