@@ -8,34 +8,33 @@ L. 322-3, est établie ainsi qu'il suit :
 
 - accident vasculaire cérébral invalidant ;
 
-- aplasie médullaire;
+- insuffisances médullaires et autres cytopénies chroniques ;
 
-- artériopathie chronique et évolutive (y compris coronarite) avec
-manifestations cliniques ischémiques ;
+- artériopathies chroniques avec manifestations ischémiques ;
 
 - bilharziose compliquée ;
 
-- cardiopathie congénitale mal tolérée, insuffisance cardiaque grave et
-valvulopathie grave ;
+- insuffisance cardiaque grave, troubles du rythme graves, cardiopathies
+valvulaires graves ; cardiopathies congénitales graves ;
 
 - maladies chroniques actives du foie et cirrhoses ;
 
 - déficit immunitaire primitif grave nécessitant un traitement prolongé,
 infection par le virus de l'immuno-déficience humaine ;
 
-- diabète insulino-dépendant ou non insulino-dépendant ne pouvant pas être
-équilibré par le seul régime ;
+- diabète de type 1 et diabète de type 2 ;
 
 - formes graves des affections neurologiques et musculaires (dont myopathie),
 épilepsie grave ;
 
-- hémoglobinopathie homozygote ;
+- hémoglobinopathies, hémolyses, chroniques constitutionnelles et acquises
+sévères ;
 
-- hémophilie ;
+- hémophilies et affections constitutionnelles de l'hémostase graves ;
 
 - hypertension artérielle sévère ;
 
-- infarctus du myocarde datant de moins de six mois ;
+- maladie coronaire ;
 
 - insuffisance respiratoire chronique grave ;
 
@@ -48,7 +47,7 @@ spécialisé ;
 
 - mucoviscidose ;
 
-- néphropathie chronique grave et syndrome néphrotique pur primitif ;
+- néphropathie chronique grave et syndrome néphrotique primitif ;
 
 - paraplégie ;
 
@@ -61,7 +60,7 @@ généralisée évolutive ;
 
 - rectocolite hémorragique et maladie de Crohn évolutives ;
 
-- sclérose en plaques invalidante ;
+- sclérose en plaques ;
 
 - scoliose structurale évolutive (dont l'angle est égal ou supérieur à 25
 degrés) jusqu'à maturation rachidienne ;
