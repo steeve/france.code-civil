@@ -9,14 +9,14 @@ conditions suivantes :
 1°) être âgé d'au moins cinquante-cinq ans ;
 
 2°) avoir été marié depuis au moins deux ans à la date du décès ou de la
-disparition de l'allocataire ou du travailleur non-salarié ; toutefois lorsque
+disparition de l'allocataire ou du travailleur non salarié ; toutefois lorsque
 au moins un enfant est issu du mariage, aucune condition de durée de mariage
 n'est exigée ;
 
-3°) ne pas disposer de ressources personnelles qui excèderaient, si elles
+3°) ne pas disposer de ressources personnelles qui excéderaient, si elles
 étaient augmentées d'une somme égale au montant du secours viager, le chiffre
 limite de ressources fixé pour l'attribution de l'allocation aux vieux
-travailleurs non-salariés aux personnes seules. Ces ressources sont appréciées
+travailleurs non salariés aux personnes seules. Ces ressources sont appréciées
 dans les conditions fixées par les articles L. 815-8, R. 815-22, R. 815-25 à R.
 815-32 et R. 815-40.
 

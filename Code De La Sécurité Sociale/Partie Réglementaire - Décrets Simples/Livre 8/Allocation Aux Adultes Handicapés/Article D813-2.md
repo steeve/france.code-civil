@@ -18,7 +18,7 @@ travail ;
 
 a. allocation aux vieux travailleurs salariés ;
 
-b. pension de vieillesse revisée en application de l'article L. 811-10 ou L.
+b. pension de vieillesse révisée en application de l'article L. 811-10 ou L.
 351-10 ;
 
 c. pension de vieillesse comportant le minimum garanti prévu par le décret du 28
@@ -30,7 +30,7 @@ e. pension de vieillesse attribuée en application des articles L. 341-15, L.
 351-1, L. 351-7 et L. 351-8 ;
 
 f. pension ou rente de vieillesse acquise pour une durée de services au moins
-égale à quinze années au titre d'un régime spécial de retraites mentionnés aux
+égale à quinze années au titre d'un régime spécial de retraites mentionnées aux
 articles R. 711-1 et R. 711-24 ;
 
 g. pension de vieillesse allouée au titre du régime local des assurances

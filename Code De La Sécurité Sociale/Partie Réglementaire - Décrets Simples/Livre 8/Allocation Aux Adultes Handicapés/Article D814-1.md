@@ -10,21 +10,12 @@ d'inaptitude au travail) ;
 convention de réciprocité avec la France dans le cadre de l'article L. 643-8 ;
 
 3°) résider sur le territoire de la France métropolitaine ou dans l'un des
-départements d'outre-mer mentionnés à l'article L. 751-1 ; 4°) ne pas bénéficier
-et ne pas être en droit de bénéficier, de son propre chef ou du chef de son
-conjoint, d'un avantage de vieillesse, quelle que soit sa dénomination, servi
-par un régime de base obligatoire institué par une disposition législative ou
-réglementaire :
+départements d'outre-mer mentionnés à l'article L. 751-1 ;
 
-a. du régime général de sécurité sociale ;
-
-b. du régime des assurances sociales des salariés agricoles ;
-
-c. d'un régime particulier de retraites légal ou réglementaire ;
-
-d. de l'une des organisations autonomes d'allocations de vieillesse des
-non-salariés instituées par l'article L. 621-3 ou de la caisse nationale des
-barreaux français.
+4°) ne pas bénéficier et ne pas être en droit de bénéficier, de son propre chef
+ou du chef de son conjoint, d'un avantage de vieillesse, quelle que soit sa
+dénomination, servi par un régime de base obligatoire institué par une
+disposition législative ou réglementaire.
 
 En outre, l'allocation spéciale ne peut être attribuée aux personnes dont le
 conjoint bénéficie d'une retraite, pension, rente ou allocation de vieillesse

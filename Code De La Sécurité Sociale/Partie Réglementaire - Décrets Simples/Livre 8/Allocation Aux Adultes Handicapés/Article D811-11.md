@@ -23,7 +23,8 @@ conjoint ont excédé le quart du chiffre limite prévu à l'article D. 811-10 (
 
 Dans les autres régimes de sécurité sociale la majoration pour conjoint à charge
 est due à compter de la date d'entrée en jouissance de l'allocation aux vieux
-travailleurs salariés, à cette date, les conditions d'attribution sont remplies.
+travailleurs salariés si, à cette date, les conditions d'attribution sont
+remplies.
 
 Dans le cas contraire elle est due à compter du premier jour du trimestre
 d'arrérages suivant celui au cours duquel l'allocataire a justifié que toutes
@@ -36,4 +37,4 @@ Les intéressés doivent faire connaître les changements survenus dans les
 ressources de leur conjoint. Le service des arrérages est suspendu à compter du
 premier jour du trimestre d'arrérages suivant celui au cours duquel les
 ressources du conjoint ont excédé le quart du chiffre limite prévu à l'article
-D. 811-10 (3°)
+D. 811-10 (3°).

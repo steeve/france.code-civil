@@ -2,8 +2,8 @@ Article D811-19
 ----
 Pour bénéficier de l'allocation en application des dispositions de l'article L.
 811-9, le requérant doit souscrire une demande conforme au modèle fixé par
-arrêté du ministre chargé de la sécurité sociale . A cette demande, qu'il adr
-esse à la caisse chargée de la liquidation des droits à prestations de
+arrêté du ministre chargé de la sécurité sociale . A cette demande, qu'il
+adresse à la caisse chargée de la liquidation des droits à prestations de
 vieillesse désignée aux troisième, quatrième et cinquième alinéas de l'article
 D. 811-18, ou aux caisses de mutualité sociale agricole suivant le cas, sont
 jointes les justifications déterminées par l'article R. 351-22. Il est donné au

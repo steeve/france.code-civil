@@ -10,7 +10,7 @@ disparu :
 de l'allocataire ou du travailleur sauf si un enfant au moins est issu du
 mariage ;
 
-3°) ne dispose pas de ressources personnelles qui excèderaient, si elles étaient
+3°) ne dispose pas de ressources personnelles qui excéderaient, si elles étaient
 augmentées d'une somme égale au montant du secours viager, le chiffre limite de
 ressources fixé pour l'attribution de l'allocation aux vieux travailleurs
 salariés aux personnes seules. Ces ressources sont appréciées dans les

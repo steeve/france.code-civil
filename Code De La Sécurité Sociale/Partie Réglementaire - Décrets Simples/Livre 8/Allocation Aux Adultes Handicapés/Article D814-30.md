@@ -4,4 +4,4 @@ Lorsque des arrérages ont été indûment versés, il peut être fait remise to
 ou partielle de la dette sur demande de l'allocataire, après examen de sa
 situation particulière et sous réserve qu'aucune fraude ne lui soit imputable,
 le cas échéant, dans les conditions prévues au 3° du troisième alinéa de
-l'article D. 814-15. "
+l'article D. 814-15.
