@@ -8,3 +8,8 @@ La fraction du gain journalier de base prévue au premier alinéa de l'article L
 tiers pour l'indemnité journalière majorée. Cette dernière indemnité est due à
 partir du trente et unième jour qui suit le point de départ de l'incapacité de
 travail.
+
+Toutefois à partir du premier jour du septième mois de perception ininterrompue
+de ces indemnités, la fraction du gain journalier de base est fixée à 51,49 %
+pour l'indemnité journalière normale et à 68,66 % pour l'indemnité journalière
+majorée.
