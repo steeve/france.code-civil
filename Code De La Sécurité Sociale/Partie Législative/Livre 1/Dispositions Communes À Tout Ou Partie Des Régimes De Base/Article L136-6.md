@@ -35,8 +35,8 @@ et qui n'ont pas été assujettis à la contribution en application de l'article
 136-3.
 
 Pour la détermination de l'assiette de la contribution, il n'est pas fait
-application des abattements mentionnés au 3 et au 4 bis de l'article 158 du code
-général des impôts.
+application des abattements mentionnés au I de l'article 125-0 A et au 3 et au 4
+bis de l'article 158 du code général des impôts.
 
 L'avoir fiscal non utilisé en application des dispositions de l'article 158 bis
 du code général des impôts est déduit de l'assiette de la contribution.

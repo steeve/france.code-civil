@@ -4,23 +4,28 @@ Les cotisations à la charge de l'employeur au titre des assurances sociales, de
 accidents du travail et des maladies professionnelles et des allocations
 familiales, qui sont assises sur des gains et rémunérations tels que définis à
 l'article L. 242-1, versés au cours d'un mois civil et inférieurs à un plafond
-fixé à 169 fois le salaire minimum de croissance majoré de 30 p. 100, font
+fixé à 169 fois le salaire minimum de croissance majoré de 20 p. 100, font
 l'objet d'une réduction.
 
 Le montant de la réduction, qui ne peut excéder une limite fixée par décret, est
 égal à la différence entre le plafond défini ci-dessus et le montant des gains
 et rémunérations effectivement versés au salarié, multipliée par un coefficient
-fixé par décret. Lorsque le nombre d'heures rémunérées est inférieur à la durée
-légale ou conventionnelle du travail applicable sur un mois civil, le montant de
-la réduction est calculé au prorata du nombre d'heures rémunérées au cours du
-mois considéré.
+fixé par décret.
 
-Le plafond et le coefficient afférents aux gains et rémunérations égaux ou
-supérieurs à 169 fois le salaire minimum de croissance peuvent être adaptés pour
-certaines catégories de salariés relevant de professions soumises à des
-dispositions spécifiques en matière de durée maximale du travail, sous réserve
-du respect de ces dispositions, dans des conditions et selon des modalités
-fixées par décret en Conseil d'Etat.
+Lorsque le nombre d'heures rémunérées est inférieur à la durée légale ou
+conventionnelle du travail applicable sur un mois civil, le montant de la
+réduction est calculé au prorata du nombre d'heures de travail rémunérées au
+cours du mois considéré. Les modalités d'application du plafond à certaines
+catégories de salariés et notamment aux salariés des hôtels-cafés-restaurants
+sont définies par décret en Conseil d'Etat.
+
+Pour les professions dans lesquelles le salaire minimum de croissance est, en
+vertu de dispositions réglementaires, calculé sur une base différente de 169
+heures, le plafond défini au premier alinéa est calculé sur cette base.
+
+Nonobstant les dispositions de l'article L. 242-1, les indemnités prévues aux
+articles L. 122-3-3 et L. 124-4-3 du code du travail ne sont pas prises en
+compte pour la détermination de la réduction visée au premier alinéa.
 
 Dans les professions dans lesquelles le paiement des congés des salariés et des
 charges sur les indemnités de congés est mutualisé entre les employeurs affiliés
@@ -50,7 +55,7 @@ l'application de taux spécifiques, d'assiettes ou montants forfaitaires de
 cotisations, à l'exception des exonérations prévues par les articles 7, 39 et
 39-1 de la loi n° 93-1313 du 20 décembre 1993 quinquennale relative au travail,
 à l'emploi et à la formation professionnelle et par les deux premiers alinéas de
-l'article L. 322-12 du code du travail et par l'article L. 241-14.
+l'article L. 322-12 du code du travail.
 
 Un décret fixe les modalités d'application du présent article et, notamment,
 précise l'ordre dans lequel s'applique le cumul mentionné à l'alinéa précédent

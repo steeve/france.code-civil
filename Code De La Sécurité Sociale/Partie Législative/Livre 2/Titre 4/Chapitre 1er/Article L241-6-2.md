@@ -4,8 +4,7 @@ Par dérogation aux dispositions des 1° et 3° de l'article L. 241-6, dans les
 zones de revitalisation rurale définies à l'article 1465 A du code général des
 impôts, les gains et rémunérations versés au cours du mois civil à compter de
 l'institution desdites zones par décret sont exonérés de cotisations
-d'allocations familiales lorsqu'ils sont supérieurs à 169 fois le salaire
-minimum de croissance majoré de 21 p. 100 et inférieurs ou égaux à 169 fois le
+d'allocations familiales lorsqu'ils sont inférieurs ou égaux à 169 fois le
 salaire minimum de croissance majoré de 50 p. 100.
 
 Le montant de la cotisation d'allocations familiales est réduit de moitié, dans
