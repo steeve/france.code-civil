@@ -1,12 +1,12 @@
 Article L310-18-1
 ----
-Lorsqu' une société de participations d'assurance enfreint une disposition
-législative ou réglementaire qui lui est applicable en vertu du présent livre,
-la commission de contrôle des assurances peut, après avoir mis ses dirigeants en
-mesure de lui présenter leurs observations, lui adresser une mise en garde. Elle
-peut, dans les mêmes conditions, lui adresser une injonction à l'effet de
-prendre, dans un délai déterminé, toutes mesures destinées à se mettre en
-conformité avec les règles applicables.
+Lorsqu' une société de groupe d'assurance enfreint une disposition législative
+ou réglementaire qui lui est applicable en vertu du présent livre, la commission
+de contrôle des assurances peut, après avoir mis ses dirigeants en mesure de lui
+présenter leurs observations, lui adresser une mise en garde. Elle peut, dans
+les mêmes conditions, lui adresser une injonction à l'effet de prendre, dans un
+délai déterminé, toutes mesures destinées à se mettre en conformité avec les
+règles applicables.
 
 La commission peut également, lorsque l'entreprise enfreint une disposition
 législative ou réglementaire qui lui est applicable, ou ne défère pas à une

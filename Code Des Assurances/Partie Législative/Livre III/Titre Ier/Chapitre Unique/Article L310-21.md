@@ -36,4 +36,11 @@ souveraineté, à la sécurité, aux intérêts économiques essentiels ou à l'
 public français ou lorsqu'une procédure pénale quelconque a déjà été engagée en
 France sur la base des mêmes faits et contre les mêmes personnes, ou bien
 lorsque celles-ci ont déjà été sanctionnées par une décision définitive pour les
-mêmes faits.
+mêmes faits. Lorsque les autorités d'un Etat membre de la Communauté européenne
+ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitent
+vérifier des informations utiles à l'exercice de leur surveillance concernant
+une entreprise située en France et qui est une entreprise apparentée d'une
+entreprise d'assurance soumise à leur surveillance complémentaire, la Commission
+de contrôle des assurances doit répondre à leur demande soit en procédant
+elle-même à cette vérification, soit en permettant à des représentants de ces
+autorités d'y procéder.

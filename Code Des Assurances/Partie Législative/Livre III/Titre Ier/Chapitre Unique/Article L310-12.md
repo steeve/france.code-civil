@@ -33,13 +33,14 @@ souscription ou de gestion, ou exerçant, à quelque titre que ce soit, le
 courtage d'assurance ou la présentation d'opérations d'assurance.
 
 La commission veille également au respect, par les entreprises soumises au
-contrôle de l'Etat en application de l'article L. 310-1-1 et les sociétés de
-participations d'assurance définies à l'article L. 345-1, des dispositions
-législatives et réglementaires qui leur sont applicables en vertu du présent
-livre. Un arrêté du ministre chargé de l'économie détermine la nature, la
-périodicité et le contenu des informations et des documents que les entreprises
-mentionnées au présent alinéa sont tenues de communiquer périodiquement à la
-commission de contrôle des assurances pour lui permettre d'exercer sa mission.
+contrôle de l'Etat en application de l'article L. 310-1-1, les sociétés de
+groupe d'assurance et les sociétés de groupe mixtes d'assurance définies à
+l'article L. 322-1-2, des dispositions législatives et réglementaires qui leur
+sont applicables en vertu du présent livre. Un arrêté du ministre chargé de
+l'économie détermine la nature, la périodicité et le contenu des informations et
+des documents que les entreprises mentionnées au présent alinéa sont tenues de
+communiquer périodiquement à la commission de contrôle des assurances pour lui
+permettre d'exercer sa mission.
 
 La commission s'assure également que les dispositions du titre VI du livre V du
 code monétaire et financier sont appliquées par les entreprises mentionnées à

@@ -3,24 +3,28 @@ Article 527
 Les ouvrages mentionnés à l'article 522 supportent un droit spécifique fixé, par
 hectogramme, conformément au tableau ci-après :
 
-a. Ouvrages en platine de 950, 900 et 850 millièmes : 530 F
+a. Ouvrages en platine de 999, 950, 900 et 850 millièmes :
 
-b. Ouvrages en or de 916 et 750 millièmes : 270 F
+530 F ;
 
-c. Ouvrages contenant de l'or de 585 et 375 millièmes : 210 F
+b. Ouvrages en or de 999, 916 et 750 millièmes : 270 F ;
 
-d. Ouvrages en argent de 925 et 800 millièmes : 13 F.
+c. Ouvrages contenant de l'or de 585 et 375 millièmes :
+
+210 F ;
+
+d. Ouvrages en argent de 999, 925 et 800 millièmes : 13 F.
 
 Dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la
 Réunion, le droit spécifique applicable aux ouvrages d'or ou contenant de l'or
-est fixé à 50 % de celui prévu ci-dessus (1).
+est fixé à 50 % de celui prévu ci-dessus.
 
 Le fait générateur du droit spécifique sur ces ouvrages est constitué par leur
 mise sur le marché.
 
 La mise sur le marché est constituée par la première livraison après la
 fabrication, l'importation, l'acquisition intracommunautaire ou la livraison
-effectuée dans les conditions prévues au 1° duI de l'article 258 B.
+effectuée dans les conditions prévues au 1° du I de l'article 258 B.
 
 Le droit est exigible lors de la réalisation du fait générateur. Il est dû,
 selon le cas, par le fabricant, l'importateur, la personne qui réalise
@@ -34,5 +38,3 @@ acquitté au moment du dépôt de cette déclaration. Toutefois, les opérateurs
 la faculté d'acquitter le droit au comptant lors de la mise sur le marché
 national des ouvrages en déposant immédiatement ladite déclaration. Les
 conditions dans lesquelles s'effectue cette option sont fixées par décret.
-
-(1) Voir article 553 bis.
