@@ -40,11 +40,11 @@ de l'élection, la société adresse à chaque locataire les bulletins de vote
 correspondant à chacune des listes de candidats avec, éventuellement pour
 chacune d'elles, l'indication de son affiliation ;
 
-4° La date de l'élection, qui doit être comprise entre le 15 mai et le 15 juin,
-ainsi que les modalités pratiques de celle-ci sont arrêtées par le conseil
-d'administration ou de surveillance ; le vote a lieu soit par correspondance,
-soit par dépôt des bulletins dans une urne, soit simultanément par les deux
-méthodes, au scrutin secret de liste à un tour avec représentation
+4° La date de l'élection, qui doit être comprise entre le 15 novembre et le 15
+décembre, ainsi que les modalités pratiques de celle-ci sont arrêtées par le
+conseil d'administration ou de surveillance ; le vote a lieu soit par
+correspondance, soit par dépôt des bulletins dans une urne, soit simultanément
+par les deux méthodes, au scrutin secret de liste à un tour avec représentation
 proportionnelle au plus fort reste, sans radiation ni panachage.
 
 Chaque liste doit comprendre un nombre de candidats qui est le double de celui
