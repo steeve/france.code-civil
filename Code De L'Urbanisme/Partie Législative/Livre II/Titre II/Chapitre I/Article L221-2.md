@@ -16,5 +16,6 @@ Toutefois, lorsque les terres concédées sont à usage agricole, il ne peut êt
 mis fin à ces concessions que moyennant préavis d'un an au moins.
 
 Les personnes publiques mentionnées au présent article bénéficient des
-dispositions du 5° de l'article 75 de la loi n° 82-526 du 22 juin 1982 relative
-aux droits et obligations des locataires et des bailleurs.
+dispositions de l'article 50 de la loi n° 86-1290 du 23 décembre 1986 tendant à
+favoriser l'investissement locatif, l'accession à la propriété de logements
+sociaux et le developpement de l'offre foncière.

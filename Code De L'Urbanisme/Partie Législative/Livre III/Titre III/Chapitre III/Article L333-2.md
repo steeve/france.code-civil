@@ -5,7 +5,7 @@ bénéficiaire de l'autorisation de construire. En cas de désaccord sur la vale
 du terrain, il est provisoirement arrêté, puis mis en recouvrement sur la base
 de l'estimation administrative.
 
-Il doit être effectué à la recette des impôts de la situation des biens en trois
+Il doit être payé à la recette des impôts de la situation des biens en trois
 fractions légales.
 
 Le paiement de la première fraction est exigible à l'expiration d'un délai de
@@ -17,7 +17,7 @@ mois à compter de cette même date.
 Après décision définitive de la juridiction de l'expropriation, il est procédé,
 selon le cas, à la mise en recouvrement d'une somme complémentaire ou à la
 restitution du montant excédentaire. Le paiement du complément doit intervenir
-en même temps que le paiement de la troisième partie du versement ou, au plus
+en même temps que le paiement de la deuxième partie du versement ou, au plus
 tard, dans les six mois de la notification de l'avis de mise en recouvrement du
 complément.
 
