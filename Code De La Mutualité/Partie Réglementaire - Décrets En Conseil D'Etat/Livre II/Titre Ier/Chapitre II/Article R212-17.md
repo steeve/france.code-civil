@@ -2,15 +2,19 @@ Article R212-17
 ----
 Le fonds de garantie des mutuelles ou unions agréées pour pratiquer des
 opérations relevant d'une ou plusieurs des branches mentionnées aux 20 à 22 et
-24 à 26 de l'article R. 211-2 est égal au tiers du montant réglementaire de la
-marge de solvabilité défini à l'article R. 212-16.
+24 à 26 de l'article R. 211-2 est égal au tiers de l'exigence minimale de marge
+de solvabilité définie à l'article R. 212-16.
 
-Ce fonds ne peut être inférieur à 600 000 Euros.
+Ce fonds ne peut être inférieur à 2,25 millions d'euros. Ce montant est révisé
+annuellement en fonction de l'évolution de l'indice européen des prix à la
+consommation publié par l'Eurostat pour l'ensemble des Etats membres. Chaque
+année, la commission de contrôle communique le nouveau montant en euros calculé
+en fonction de l'évolution de cet indice et arrondi au multiple de 100 000 euros
+supérieur. Si la variation de l'indice depuis la dernière adaptation est
+inférieure à 5 %, ce montant n'est pas révisé.
 
-A concurrence du seuil mentionné au deuxième alinéa ou de la moitié du fonds, si
-cette moitié est supérieure audit seuil ou lorsque celui-ci n'est pas
-applicable, le fonds est constitué par les éléments mentionnés à l'article R.
-212-15, à l'exception de ceux mentionnés au 6° dudit article.
+Le fonds est constitué par les éléments mentionnés à l'article R. 212-15, à
+l'exception de ceux mentionnés au 2° et au 6° (a) dudit article.
 
 Le deuxième alinéa du présent article n'est pas applicable aux mutuelles qui :
 
@@ -32,4 +36,4 @@ cotisation afférentes à la période pour laquelle les risques ne sont plus
 garantis ;
 
 Le montant des cotisations émises, accessoires compris et annulations déduites,
-ne dépasse pas 500 000 Euros annuellement.
+ne dépasse pas 5 millions d'euros annuellement.

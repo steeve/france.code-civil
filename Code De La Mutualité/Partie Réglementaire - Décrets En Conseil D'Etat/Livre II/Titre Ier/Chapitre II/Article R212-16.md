@@ -1,15 +1,15 @@
 Article R212-16
 ----
 En ce qui concerne les mutuelles ou les unions agréées pour pratiquer les
-branches mentionnées aux 20 à 22 et 24 à 26 de l'article R. 211-2, le montant
-minimal réglementaire de la marge de solvabilité est déterminé, en fonction des
-branches exercées, en application des dispositions suivantes :
+branches mentionnées aux 20 à 22 et 24 à 26 de l'article R. 211-2, l'exigence
+minimale de marge de solvabilité est déterminée en fonction des branches
+exercées, en application des dispositions suivantes :
 
 a) Pour les branches 20 et 21, à l'exception des garanties complémentaires :
 
-Le montant minimal réglementaire de la marge est calculé par rapport aux
-provisions mentionnées aux 1° et 4° de l'article R. 212-26 et aux capitaux sous
-risque. Ce montant est égal à la somme de deux résultats suivants :
+L'exigence minimale de marge est calculée par rapport aux provisions mentionnées
+aux 1° et 4° de l'article R. 212-26 et aux capitaux sous risque. Ce montant est
+égal à la somme de deux résultats suivants :
 
 Le "premier résultat" est obtenu en multipliant un nombre représentant 4 % de la
 somme des provisions mentionnées aux 1° et 4° de l'article R. 212-26 relatives
@@ -37,8 +37,8 @@ b) Pour les garanties complémentaires relatives à des bulletins d'adhésion ou
 contrats collectifs comportant des engagements résultant d'opérations classées
 aux branches 20 à 22 :
 
-Le montant minimal réglementaire de la marge est égal au résultat obtenu par
-application de la méthode suivante :
+L'exigence minimale de marge est égale au résultat obtenu par application de la
+méthode suivante :
 
 Au total des cotisations émises en opérations directes au cours du dernier
 exercice, quel que soit l'exercice au titre duquel elles ont été émises,
@@ -60,33 +60,38 @@ réassurance et le montant des sinistres brut de réassurance, sans que ce rappo
 puisse être inférieur à 50 % ;
 
 c) Pour la branche 24, à l'exception des opérations de capitalisation exprimées
-en unités de compte, le montant minimal réglementaire de la marge est égal au
-résultat obtenu en multipliant un nombre représentant 4 % de la somme des
-provisions mentionnées aux 1° et 4° de l'article R. 212-26 relatives aux
-opérations directes et aux acceptations brutes de réassurance par le rapport
-mentionné au "premier résultat" défini au a du présent article ;
+en unités de compte, l'exigence minimale de marge est égale au résultat obtenu
+en multipliant un nombre représentant 4 % de la somme des provisions mentionnées
+aux 1° et 4° de l'article R. 212-26 relatives aux opérations directes et aux
+acceptations brutes de réassurance par le rapport mentionné au "premier
+résultat" défini au a du présent article ;
 
 d) Pour la branche 22, à l'exception des garanties complémentaires, la branche
 24 lorsqu'il s'agit des opérations de capitalisation exprimées en unités de
-compte, et la branche 25, le montant minimal réglementaire de la marge est égal
-:
+compte, et la branche 25, l'exigence minimale de marge est égale :
 
 - lorsque la mutuelle ou l'union assume un risque de placement, à un nombre
 représentant 4 % des provisions techniques relatives aux opérations d'assurances
 directes et d'acceptations brutes de réassurance multiplié par le rapport
 mentionné au "premier résultat" défini au a du présent article ;
 
-- lorsque la mutuelle ou l'union n'assume pas de risque de placement, à un
-nombre représentant 1 % des provisions techniques relatives aux opérations
-directes et aux acceptations brutes de réassurance multiplié par le rapport
-mentionné au premier résultat du a du présent article, à la condition que la
-durée du bulletin d'adhésion ou du contrat collectif soit supérieure à cinq
-années et que le montant destiné à couvrir les frais de gestion prévus dans le
-bulletin d'adhésion ou le contrat collectif soit fixé pour une période
-supérieure à cinq années ;
+- lorsque la mutuelle ou l'union n'assume pas de risque de placement et lorsque
+le montant destiné à couvrir des frais de gestion est fixé pour une période
+supérieure à cinq ans, à un nombre représentant 1 % des provisions techniques
+relatives aux opérations directes et aux acceptations brutes de réassurance
+multiplié par le rapport mentionné au premier résultat du a du présent article,
+à la condition que la durée du bulletin d'adhésion ou du contrat collectif soit
+supérieure à cinq années et que le montant destiné à couvrir les frais de
+gestion prévus dans le bulletin d'adhésion ou le contrat collectif soit fixé
+pour une période supérieure à cinq années ;
 
-- lorsque la mutuelle ou l'union assume un risque de mortalité, le montant
-réglementaire de la marge est obtenu en ajoutant à l'un ou l'autre des résultats
+- lorsque la mutuelle ou l'union n'assume pas de risque de placement et lorsque
+le montant destiné à couvrir des frais de gestion n'est pas fixé pour une
+période supérieure à cinq ans, à un nombre représentant 25 % des dépenses de
+gestion nettes relatives à ces opérations pour le dernier exercice ;
+
+- lorsque la mutuelle ou l'union assume un risque de mortalité, l'exigence
+minimale de marge est obtenue en ajoutant à l'un ou l'autre des résultats
 déterminés par application des dispositions des deux alinéas précédents un
 nombre représentant 0,3 % des capitaux sous risque, multiplié par le rapport
 existant, pour le dernier exercice, entre le montant des capitaux sous risque
@@ -95,6 +100,6 @@ risque brut de réassurance, sans que ce rapport puisse être inférieur à 50 %
 
 e) Pour la branche 26 :
 
-Le montant minimal de la marge est égal à un nombre représentant 4 % de la
+L'exigence minimale de marge est égale à un nombre représentant 4 % de la
 provision technique spéciale mentionnée à l'article R. 222-8, dans la limite de
 la provision mathématique théorique mentionnée à l'article R. 222-16.

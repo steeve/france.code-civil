@@ -1,10 +1,10 @@
 Article R212-19
 ----
-Le montant minimal de la marge de solvabilité des mutuelles ou unions agréées
-pour pratiquer simultanément au moins deux ou plusieurs branches mentionnées
-soit aux 1 et 2, soit aux 20 à 22 et 24 à 26 de l'article R. 211-2 est égal à la
-somme des deux éléments ci-après, dénommés respectivement fraction non-vie et
-fraction vie.
+L'exigence minimale de marge de solvabilité des mutuelles ou unions agréées pour
+pratiquer simultanément au moins deux ou plusieurs branches mentionnées soit aux
+1 et 2, soit aux 20 à 22 et 24 à 26 de l'article R. 211-2 est égale à la somme
+des deux éléments ci-après, dénommés respectivement fraction non-vie et fraction
+vie.
 
 Le montant minimal de la fraction non-vie est calculé dans les conditions
 définies à l'article R. 212-12, sur la base des cotisations et sinistres

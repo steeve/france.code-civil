@@ -11,8 +11,24 @@ du programme de rétablissement, du plan de redressement ou du plan de
 financement à court terme éventuellement exigé par la commission, se fait rendre
 compte de la mise en oeuvre des décisions et mesures et veille à leur exécution.
 
-II. - Lorsque la gestion de la mutuelle ou de l'union ne lui paraît pas conforme
-aux intérêts des membres participants, bénéficiaires et ayants droit de ceux-ci,
-la commission de contrôle peut exiger que lui soit soumis pour approbation, dans
-le délai d'un mois, un programme de rétablissement prévoyant toutes mesures
-propres à rétablir l'équilibre de celle-ci.
+II. - Lorsqu'elle estime que les droits des membres participants, bénéficiaires
+et ayants droit sont menacés, la commission de contrôle peut exiger que lui soit
+soumis pour approbation, dans le délai d'un mois, un programme de rétablissement
+prévoyant toutes mesures propres à restaurer l'équilibre de la mutuelle ou
+union. Ce programme de rétablissement doit notamment comporter, pour les trois
+prochains exercices sociaux, une description détaillée des éléments suivants, et
+les justificatifs s'y rapportant :
+
+a) Une estimation prévisionnelle des frais de gestion, notamment des frais
+généraux courants et des commissions ;
+
+b) Un plan détaillant les prévisions de recettes et de dépenses, tant pour les
+affaires directes que pour les acceptations en réassurance et les cessions en
+réassurance ;
+
+c) Un bilan prévisionnel ;
+
+d) Une estimation des ressources financières devant servir à la couverture des
+engagements et de l'exigence de marge de solvabilité ;
+
+e) La politique générale en matière de réassurance.

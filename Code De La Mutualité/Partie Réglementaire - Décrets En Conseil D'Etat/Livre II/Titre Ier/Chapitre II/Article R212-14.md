@@ -1,6 +1,6 @@
 Article R212-14
 ----
-Les montants minima prévus aux troisième à cinquième alinéas de l'article R.
+Les montants minima prévus aux troisième et quatrième alinéas de l'article R.
 212-13 ne sont pas applicables aux mutuelles et unions qui remplissent
 simultanément les conditions suivantes :
 
@@ -17,7 +17,7 @@ l'union des portions de cotisation afférentes à la période pour laquelle les
 risques ne sont plus garantis ;
 
 b) Le montant annuel des cotisations émises, accessoires compris et annulations
-déduites, ne dépasse pas un million d'euros ;
+déduites, ne dépasse pas cinq millions d'euros ;
 
 c) Elles ne couvrent pas les risques relevant de la branche 15 mentionnée à
 l'article R. 211-2 ;
