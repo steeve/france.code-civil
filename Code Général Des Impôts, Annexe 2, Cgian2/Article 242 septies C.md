@@ -1,5 +1,6 @@
 Article 242 septies C
 ----
-Lorsque, pendant la durée d'effet de l'option, un exercice est clôturé en cours
-de mois, chacune des deux périodes du mois donne lieu au dépôt de la déclaration
-abrégée prévue par l'article 242 quater.
+Lorsque, la période de référence servant de base au calcul des acomptes est
+inférieure à douze mois, les acomptes, déterminés dans les conditions prévues
+aux articles 242 sexies et 242 septies A, sont calculés à partir d'une taxe
+ajustée pour correspondre à une période de douze mois.

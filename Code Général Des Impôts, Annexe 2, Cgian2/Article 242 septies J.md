@@ -1,8 +1,12 @@
 Article 242 septies J
 ----
-Le remboursement prévu par l'article 242-0 A porte sur le crédit de taxe
-déductible constaté au terme de chaque période d'imposition si ce crédit est
-d'un montant au moins égal à 1.000 F. La demande de remboursement doit être
-déposée avec la déclaration afférente à la période d'imposition. Les
-remboursements trimestriels ont un caractère provisionnel : ils donnent lieu à
-régularisation lors du dépôt de cette même déclaration.
+Les remboursements prévus au III de l'article 242-0 C ne peuvent être obtenus
+que sur présentation, avec la demande déposée auprès du service local des impôts
+au cours du mois suivant le trimestre considéré, de la ou des factures ou des
+documents en tenant lieu qui mentionnent notamment la taxe déductible sur les
+immobilisations à l'origine du crédit.
+
+Les remboursements trimestriels ont un caractère provisionnel :
+
+ils donnent lieu à régularisation lors du dépôt de la déclaration annuelle
+prévue aux articles 242 sexies et 242 septies A.

@@ -1,8 +1,10 @@
 Article 242-0 F
 ----
-Les redevables peuvent bénéficier de remboursements mensuels ou ou trimestriels
-de leur crédit de taxe déductible dans la limite de la taxe sur la valeur
-ajoutée calculée sur le montant des exportations et opérations assimilées
+A l'exclusion de ceux qui bénéficient des modalités simplifiées de liquidation
+de la taxe sur la valeur ajoutée prévues au 3 de l'article 287 du code général
+des impôts, les redevables peuvent bénéficier de remboursements mensuels ou
+trimestriels de leur crédit de taxe déductible dans la limite de la taxe sur la
+valeur ajoutée calculée sur le montant des exportations et opérations assimilées
 réalisées au cours de la période correspondant à chaque déclaration de chiffre
 d'affaires.
 
