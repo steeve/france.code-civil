@@ -10,8 +10,8 @@ l'interdiction ou de la suspension ne peut excéder trois ans ; cette durée
 pourra être doublée en cas de récidive. Le tribunal peut autoriser le condamné à
 faire usage de son permis de conduire pour l'exercice d'une activité
 professionnelle selon les modalités prévues pour l'application du 1° de
-l'article 43-3 du code pénal.
+l'article 131-6,131-7 et 131-9 du code pénal.
 
 2. Quiconque contreviendra aux interdictions prévues au 1 ci-dessus sera puni
-d'un emprisonnement de deux mois à deux ans d'une amende de 1200 à 100000 F ou
-de l'une de ces deux peines seulement.
+d'un emprisonnement de deux ans et d'une amende de 100000 F ou de l'une de ces
+deux peines seulement.
