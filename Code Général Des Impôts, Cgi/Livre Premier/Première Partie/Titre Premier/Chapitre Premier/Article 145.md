@@ -17,31 +17,32 @@ produits de la participation.
 Si, à la date mentionnée au premier alinéa, la participation dans le capital de
 la société émettrice est réduite à moins de 10 p. 100 du fait de l'exercice
 d'options de souscription d'actions dans les conditions prévues à l'article 208
-7 ((modifié)) (M) de la loi n° 66-537 du 24 juillet 1966 sur les sociétés
-commerciales, le régime des sociétés mères lui reste applicable si ce
-pourcentage est à nouveau atteint à la suite de la première augmentation de
-capital suivant cette date et au plus tard dans un délai de trois ans.
+7 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales, le
+régime des sociétés mères lui reste applicable si ce pourcentage est à nouveau
+atteint à la suite de la première augmentation de capital suivant cette date et
+au plus tard dans un délai de trois ans.
 
 c. Les titres de participation doivent avoir été souscrits à l'émission. A
 défaut, la personne morale participante doit avoir pris l'engagement de les
 conserver pendant un délai de deux ans.
 
-((Lorsque les titres de participation sont apportés sous le bénéfice du régime
+Lorsque les titres de participation sont apportés sous le bénéfice du régime
 prévu par l'article 210 A, la société cessionnaire peut, par déclaration
 expresse, se substituer à la société apporteuse dans l'engagement mentionné à
 l'alinéa précédent.
 
-((Les titres échangés dans le cadre de l'une des opérations visées aux 7 et 7
-bis de l'article 38 et 2 de l'article 115 sont réputés détenus jusqu'à la
-cession des titres reçus en échange.
+Les titres échangés dans le cadre de l'une des opérations visées aux 7 et 7 bis
+de l'article 38 et 2 de l'article 115 sont réputés détenus jusqu'à la cession
+des titres reçus en échange.
 
-((Le délai mentionné au premier alinéa du présent c n'est pas interrompu en cas
-de fusion entre la personne morale participante et la société émettrice si
-l'opération est placée sous le régime prévu à l'article 210 A)) (M).
+Le délai mentionné au premier alinéa du présent c n'est pas interrompu en cas de
+fusion entre la personne morale participante et la société émettrice si
+l'opération est placée sous le régime prévu à l'article 210 A.
 
-Les titres prêtés dans les conditions du chapitre V de la loi n° 87-416 du 17
-juin 1987 sur l'épargne ne peuvent être pris en compte par les parties au
-contrat de prêt pour l'application du régime fiscal des sociétés mères.
+Les titres prêtés dans les conditions du chapitre V ((modifié)) (M) de la loi n°
+87-416 du 17 juin 1987 sur l'épargne ne peuvent être pris en compte par les
+parties au contrat de prêt pour l'application du régime fiscal des sociétés
+mères.
 
 De même, les valeurs, titres ou effets qui sont mis en pension dans les
 conditions prévues par la loi n° 93-1444 du 31 décembre 1993 portant diverses
@@ -109,7 +110,7 @@ article.
 
 8. (Transféré sous le paragraphe 6 d du ci-dessus).
 
-(M) Modification. [*Cf. Instruction 1995-06-29 4H-10-95.*]
+(M) Modification de la loi 96-597.
 
 (1) Ces dispositions s'appliquent pour la détermination des résultats des
 exercices ouverts à compter du 1er janvier 1993.

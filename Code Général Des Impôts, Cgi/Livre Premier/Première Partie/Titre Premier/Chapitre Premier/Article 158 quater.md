@@ -8,9 +8,9 @@ de gestion ;
 
 2° Par les sociétés d'investissement régies par le titre II de l'ordonnance n°
 45-2710 du 2 novembre 1945 et remplissant les conditions prévues à l'article 208
-A, par les sociétés d'investissement à capital variable [*SICAV*] régies par la
-loi n° 88-1201 du 23 décembre 1988 et par les sociétés visées au 1° ter de
-l'article 208 ;
+A, par les sociétés d'investissement à capital variable [*SICAV*] régies par
+((la loi n° 88-1201 du 23 décembre 1988 modifiée)) (M) et par les sociétés
+visées au 1° ter de l'article 208 ;
 
 3° Par les sociétés immobilières pour le commerce et l'industrie visés au
 cinquième alinéa du 3° quater de l'article 208 et prélevés sur les bénéfices
@@ -36,3 +36,5 @@ proviennent de produits nets exonérés en application de l'article 208 quinquie
 
 8° Par les sociétés exonérées de précompte dans les conditions prévues au 8° du
 3 de l'article 223 sexies.
+
+(M) Modification de la loi 96-597.

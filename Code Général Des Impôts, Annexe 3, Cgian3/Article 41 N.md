@@ -4,25 +4,25 @@ Les comptes d'épargne tenus en application de l'article 163 bis A du code
 général des impôts ne pourront être ouverts que dans les établissements suivants
 :
 
-Banque de France;
+Banque de France ;
 
-Caisse des dépôts et consignations;
+Caisse des dépôts et consignations ;
 
-Crédit foncier de France;
+Crédit foncier de France ;
 
-Crédit foncier et communal d'Alsace et de Lorraine;
+Crédit foncier et communal d'Alsace et de Lorraine ;
 
-Caisse nationale et caisses régionales de crédit agricole mutuel;
+Caisse nationale et caisses régionales de crédit agricole mutuel ;
 
-Caisse centrale de crédit coopératif;
+Caisse centrale de crédit coopératif ;
 
-Etablissements de crédits (1);
+Etablissements de crédits (1) ;
 
-Banques populaires;
+Banques populaires ;
 
-Banque centrale des coopératives;
+Banque centrale des coopératives ;
 
-Sociétés de bourse.
+Prestataires de services d'investissement ;
 
 Les caisses d'épargne sont autorisées à recevoir les versements prévus à
 l'article 41 L pour le compte de la caisse des dépôts et consignations, dans les

@@ -43,19 +43,19 @@ est convertie en titres inscrits en compte d'un égal montant.
 Elle naît lors du dépôt de la dernière déclaration de taxes sur le chiffre
 d'affaires sur laquelle est soustraite la déduction de référence.
 
-((Toutefois, la créance naît au plus tard lors du dépôt de la déclaration de
-taxes sur le chiffre d'affaires souscrite au titre des opérations du mois de
-décembre 1994 ou du quatrième trimestre de l'année 1994, à concurrence du
-montant de la déduction de référence soustrait au 31 décembre 1994 conformément
-aux règles définies aux 1 et 2. La quote-part de la déduction de référence non
-soustraite n'est alors pas convertie en créance et elle n'est plus soumise aux
-dispositions du 2)) (1).
+Toutefois, la créance naît au plus tard lors du dépôt de la déclaration de taxes
+sur le chiffre d'affaires souscrite au titre des opérations du mois de décembre
+1994 ou du quatrième trimestre de l'année 1994, à concurrence du montant de la
+déduction de référence soustrait au 31 décembre 1994 conformément aux règles
+définies aux 1 et 2. La quote-part de la déduction de référence non soustraite
+n'est alors pas convertie en créance et elle n'est plus soumise aux dispositions
+du 2 (1).
 
 Cette créance n'est ni cessible ni négociable ; elle peut toutefois être donnée
 en nantissement ou cédée à titre de garantie dans les conditions prévues par la
 loi n° 81-1 du 2 janvier 1981 facilitant le crédit aux entreprises, modifiée par
-la loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des
-établissements de crédit.
+la loi n° 84-46 du 24 janvier 1984 ((modifiée)) (M) relative à l'activité et au
+contrôle de établissements de crédit.
 
 Elle est transférée en cas de fusion, scission, cession d'entreprise ou apport
 partiel d'actif.
@@ -79,11 +79,11 @@ conforme au modèle prescrit par l'administration et mentionnant le calcul et le
 montant de leur déduction de référence ainsi que les modalités d'imputation de
 leurs droits à déduction dans les conditions fixées aux 1 et 2. Ce document est
 joint à la dernière déclaration de taxes sur le chiffre d'affaires sur laquelle
-est soustraite la déduction de référence. ((Dans le cas visé au troisième alinéa
+est soustraite la déduction de référence. Dans le cas visé au troisième alinéa
 du 3, ce document mentionne le montant de la déduction de référence soustrait au
 31 décembre 1994. Il est joint à la déclaration de taxes sur le chiffre
 d'affaires comprenant les opérations de décembre 1994 ou du quatrième trimestre
-de l'année 1994.)) (1)
+de l'année 1994. (1)
 
 Les redevables qui n'ont pas déposé leurs déclarations de taxes sur le chiffre
 d'affaires au titre de la période de référence ou qui n'ont pas déposé le
@@ -173,7 +173,9 @@ s'appliquent aux achats, acquisitions intracommunautaires, importations,
 livraisons de biens et services pour lesquels le droit à déduction a pris
 naissance après le 30 juin 1993.
 
-(1) Texte inséré par la loi. [*Cf. Instruction 1995-01-11 3D-2-95.*]
+(1) Cf. Instruction 1995-01-11 3D-2-95.
+
+(M) Modification.
 
 (2) Cf. Arrêté 1994-04-13 JORF 23 avril 1994, Décret 94-296 1994-04-06 JORF 16
 avril 1994.

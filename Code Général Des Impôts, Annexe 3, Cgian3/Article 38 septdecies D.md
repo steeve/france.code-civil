@@ -9,7 +9,7 @@ b) La Caisse des dépôts et consignations ;
 
 c) Les établissements de crédit ;
 
-d) Les sociétés de bourse ;
+d) ((Les prestataires de services d'investissement)) (M) ;
 
 e) Les établissements visés au troisième alinéa du 2 de l'article 18 de la loi
 n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des
@@ -18,3 +18,5 @@ n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des
 f) Les sociétés par actions ou à responsabilité limitée et les sociétés
 coopératives ouvrières de production pour les actions ou parts souscrites ou
 reçues en rémunération de l'apport de valeurs acquises à la suite d'options.
+
+(M) Modification.

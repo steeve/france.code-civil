@@ -11,12 +11,12 @@ adhérentes à la confédération nationale du crédit mutuel;
 3° Aux opérations effectuées entre elles par les caisses de crédit agricole
 mentionnées à l'article 614 du code rural;
 
-4° ((Aux intérêts, agios, rémunérations de prêts de titres effectués dans les
-conditions du chapitre V de la loi n° 87-416 du 17 juin 1987 sur l'épargne, aux
-profits tirés des pensions réalisées dans les conditions prévues par l'article
-12 de la loi n° 93-1344 du 31 décembre 1993 portant diverses dispositions
-relatives à la Banque de France, à l'assurance, au crédit et aux marchés
-financiers)) (M) ;
+4° Aux intérêts, agios, rémunérations de prêts de titres effectués dans les
+conditions du chapitre V ((modifié)) (M) de la loi n° 87-416 du 17 juin 1987 sur
+l'épargne, aux profits tirés des pensions réalisées dans les conditions prévues
+par l'article 12 de la loi n° 93-1344 du 31 décembre 1993 portant diverses
+dispositions relatives à la Banque de France, à l'assurance, au crédit et aux
+marchés financiers ;
 
 5° Aux rémunérations assimilables à des intérêts ou agios dont la liste est
 établie par arrêté du ministre chargé des finances (1) ;
@@ -42,12 +42,11 @@ elles-mêmes soumises à la taxe sur la valeur ajoutée en régime intérieur ;
 
 11° Aux opérations visées aux d et g du 1° de l'article 261 C.
 
-((12° Aux commissions perçues lors de l'émission et du placement d'emprunts
-obligataires)) (M').
-
-(M) Modification de la loi 93-1444.
+12° Aux commissions perçues lors de l'émission et du placement d'emprunts
+obligataires (2).
 
 (1) Annexe IV, art. 23 O.
 
-(M') Modification de la loi 93-1353. Ces dispositions s'appliquent à compter du
-1er janvier 1994.
+(M) Modification.
+
+(2) Ces dispositions s'appliquent à compter du 1er janvier 1994.

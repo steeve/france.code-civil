@@ -15,13 +15,16 @@ En outre, le montant cumulé des transactions dont ces actions ont fait l'objet
 au cours de ces vingt-quatre mois doit être au moins égal à 500.000 F pour la
 bourse de Paris ou à 200.000 F pour les autres bourses. Pour l'application des
 deuxième et troisième alinéas sont retenus la fréquence des cotations et le
-volume des transactions enregistrés par le conseil des bourses de valeurs.
+volume des transactions enregistrés par ((le Conseil des marchés financiers))
+(M).
 
 Sauf inscription au second marché (2) ou à la cote officielle, les actions sont
 maintenues sur la liste pendant les quatre années suivant celle de leur première
 inscription même si elles ne remplissent plus les conditions prévues ci-dessus.
 
-(1) Arrêtés des 19 décembre 1986 (JO du 31) et 23 décembre 1987 (JO du 27).
+(1) Arrêtés des 19 décembre 1987 (JO du 31) et 23 décembre 1987 (JO du 27).
+
+(M) Modification de la loi 96-597.
 
 (2) Le second marché des bourses de valeurs a remplacé le compartiment spécial
 du marché hors cote des bourses de valeurs (loi n° 83-1 du 3 janvier 1983, art.

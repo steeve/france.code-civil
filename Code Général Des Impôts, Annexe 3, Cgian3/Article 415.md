@@ -41,8 +41,8 @@ interrompue avant la vente ;
 o) Frais d'immobilisation, d'enlèvement et de garde d'un véhicule terrestre à
 moteur ;
 
-p) Commissions de la société de bourse en cas de vente de valeurs mobilières
-admises à la cote officielle ou à celle du second marché ;
+p) Commissions du prestataire de services d'investissement en cas de vente de
+valeurs mobilières admises à la cote officielle ou à celle du second marché ;
 
 q) Honoraires du notaire chargé de l'adjudication de valeurs mobilières non
 admises à la cote officielle ou à celle du second marché ;

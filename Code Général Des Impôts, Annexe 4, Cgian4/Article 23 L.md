@@ -12,14 +12,14 @@ réserve de l'application des dispositions du b du 2 de l'article 49 B susvisé 
 collectivités locales ;
 
 4° Les contrats de prêts dans la conclusion desquels les établissements de
-crédits enregistrés par le conseil national du crédit interviennent en qualité
-de prêteurs ou d'emprunteurs ;
+crédit enregistrés par le Comité des établissements de crédit et des entreprises
+d'investissement interviennent en qualité de prêteurs ou d'emprunteurs ;
 
 5° Les contrats de prêts réalisés sous la forme d'émission de bons de caisse par
 des banques ou d'émission publique d'obligations.
 
 Toutefois, la dispense de déclaration des contrats de prêts prévue aux 1° à 5°
-ci-dessus ne s'applique pas aux bons ou titres mentionnés au 2° du III bis de
-l'article 125 A du code général des impôts lorsque leur détenteur communique son
-identité et son domicile fiscal à l'établissement qui assure le paiement des
-intérêts ou le remboursement de ces bons ou titres.
+ne s'applique pas aux bons ou titres mentionnés au 2° du III bis de l'article
+125 A du code général des impôts lorsque leur détenteur communique son identité
+et son domicile fiscal à l'établissement qui assure le paiement des intérêts ou
+le remboursement de ces bons ou titres.

@@ -20,5 +20,6 @@ agence ou succursale, de même qu'en cas de création d'une agence ou succursale
 nouvelle, des déclarations préalables en sont faites par les assujettis aux
 services des impôts et dans les formes ci-dessus déterminées.
 
-Les agréments de sociétés de bourse sont consignées au registre prévu au présent
-article. Cette mention équivaut, en ce qui les concerne, à la déclaration.
+Les agréments de prestataires de services d'investissement sont consignés au
+registre prévu au présent article. Cette mention équivaut, en ce qui les
+concerne, à la déclaration.

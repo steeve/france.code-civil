@@ -36,8 +36,8 @@ règlement des comptes, deux ou plusieurs opérations antérieures ;
 10° Valeur totale des titres, déduction faite des versements restant à effectuer
 sur les titres non entièrement libérés ;
 
-11° S'il y a lieu, soit le nom de la société de bourse qui a concouru à
-l'opération, soit le nom et le domicile du mandataire substitué par
+11° S'il y a lieu, soit le nom du prestataire de services d'investissement qui a
+concouru à l'opération, soit le nom et le domicile du mandataire substitué par
 l'intermédiaire duquel l'opération a été faite, soit le nom et le domicile de la
 personne qui en a fait la contrepartie, lorsque ces deux derniers sont au nombre
 des personnes désignées dans l'article 982 du code général des impôts ;
@@ -48,7 +48,36 @@ a Les opérations à prime ;
 
 b Les opérations d'ordre prévues au 4° ;
 
-c Les opérations qui donnent lieu à la désignation de la société de bourse qui a
-effectué l'opération ou du mandataire substitué.
+c Les opérations qui donnent lieu à la désignation du prestataire de services
+d'investissement qui a effectué l'opération ou du mandataire substitué.
 
-MODELE DE REPERTOIRE (Modèle A) [*non reproduit*].
+MODELE DE REPERTOIRE (Modèle A)
+
+Colonne 1 : Numéro d'ordre ;
+
+Colonne 2 : Date de l'opération ;
+
+Colonne 3 : Nom du donneur d'ordre ;
+
+Colonne 4 : Nature de l'opération (1) ;
+
+Colonne 5 : Echéance ;
+
+Colonne 6 : Nature des titres ;
+
+Colonne 7 : Nombre ou montant des titres ;
+
+Colonne 8 : Taux de l'opération ;
+
+Colonne 9 : Valeur des titres ;
+
+Colonne 10 : Valeur des titres, déduction faite du non libéré ;
+
+Colonne 11 : Nom du prestataire de services d'investissement ou du mandataire
+substitué ou de la personne qui a fait la contrepartie de l'opération ;
+
+Colonne 12 : Montant du droit.
+
+(1) Achat au comptant, ou vente au comptant, ou achat à terme ferme ou vente à
+terme ferme, ou achat à prime ou vente à prime, ou report, ou
+achat-compensation, ou vente-compensation.

@@ -3,12 +3,12 @@ Article 1756 bis
 I. Nonobstant toutes dispositions contraires, il est interdit à tout
 établissement de crédit qui reçoit du public des fonds à vue ou à moins de cinq
 ans, et par quelque moyen que ce soit, de verser sur ces fonds une rémunération
-supérieure à celle fixée, selon les cas, par le comité de la réglementation
-bancaire ou par décret ou par le ministre chargé de l'économie et des finances ;
-il lui est également interdit d'ouvrir ou de maintenir ouverts dans des
-conditions irrégulières des comptes bénéficiant d'une aide publique, notamment
-sous forme d'exonération fiscale, ou d'accepter sur ces comptes des sommes
-excédant les plafonds autorisés.
+supérieure à celle fixée, selon les cas, par le Comité de la réglementation
+bancaire et financière ou par décret ou par le ministre chargé de l'économie et
+des finances ; il lui est également interdit d'ouvrir ou de maintenir ouverts
+dans des conditions irrégulières des comptes bénéficiant d'une aide publique,
+notamment sous forme d'exonération fiscale, ou d'accepter sur ces comptes des
+sommes excédant les plafonds autorisés.
 
 Sans préjudice des sanctions disciplinaires qui peuvent être infligées par la
 commission bancaire, les infractions aux dispositions du présent article sont
