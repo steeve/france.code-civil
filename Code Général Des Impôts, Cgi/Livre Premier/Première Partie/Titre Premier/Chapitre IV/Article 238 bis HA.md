@@ -35,28 +35,41 @@ la réalisation d'investissements nécessaires à l'exploitation d'une concessio
 de service public local à caractère industriel et commercial, pour la partie de
 ces investissements qui n'est pas financée par une subvention publique.
 
+La déduction prévue au premier alinéa s'applique aux acquisitions ou
+constructions de logements neufs à usage locatif situés dans les départements
+d'outre-mer réalisées à compter du 1er avril 1996 par des entreprises soumises à
+l'impôt sur les sociétés si les conditions suivantes sont réunies :
+
+1° L'entreprise s'engage à louer l'immeuble nu dans les six mois de son
+achèvement, ou de son acquisition si elle est postérieure, et pendant six ans au
+moins à des personnes qui en font leur résidence principale ;
+
+2° Le loyer et les ressources du locataire n'excèdent pas des plafonds fixés par
+décret (2).
+
 Si, dans le délai de cinq ans de son acquisition ou de sa création, ou pendant
 sa durée normale d'utilisation si elle est inférieure, l'investissement ayant
 ouvert droit à déduction est cédé ou cesse d'être affecté à l'exploitation de
 l'entreprise utilisatrice ou si l'acquéreur cesse son activité, les sommes
 déduites sont rapportées au résultat imposable de l'entreprise ayant opéré la
-déduction au titre de l'exercice au cours duquel cet événement se réalise.
+déduction au titre de l'exercice au cours duquel cet événement se réalise ; ces
+conséquences sont également applicables si l'engagement prévu au septième alinéa
+cesse d'être respecté.
 
-((Toutefois, la reprise de la déduction n'est pas effectuée lorsque les biens
+Toutefois, la reprise de la déduction n'est pas effectuée lorsque les biens
 ayant ouvert droit à déduction sont transmis dans le cadre des opérations
 mentionnées aux articles 41, 151 octies, 210 A ou 210 B si le bénéficiaire de la
 transmission s'engage à maintenir l'exploitation des biens outre-mer dans le
 cadre d'une activité mentionnée au premier alinéa pendant la fraction du délai
 de conservation restant à courir.
 
-((L'engagement est pris dans l'acte constatant la transmission ou, à défaut,
-dans un acte sous seing privé ayant date certaine, établi à cette occasion.
+L'engagement est pris dans l'acte constatant la transmission ou, à défaut, dans
+un acte sous seing privé ayant date certaine, établi à cette occasion.
 
-((En cas de non-respect de cet engagement, le bénéficiaire de la transmission
-doit rapporter à ses résultats imposables, au titre de l'exercice au cours
-duquel l'engagement cesse d'être respecté, une somme égale au montant de la
-déduction fiscale à laquelle les biens transmis ont ouvert droit.))
-(Modification art. 20 I A de la loi) (1').
+En cas de non-respect de cet engagement, le bénéficiaire de la transmission doit
+rapporter à ses résultats imposables, au titre de l'exercice au cours duquel
+l'engagement cesse d'être respecté, une somme égale au montant de la déduction
+fiscale à laquelle les biens transmis ont ouvert droit.
 
 II. Les entreprises mentionnées au I peuvent, d'autre part, déduire de leur
 revenu imposable une somme égale au montant total des souscriptions au capital
@@ -74,15 +87,14 @@ mentionnés ci-avant pendant les cinq ans qui suivent leur acquisition ou pendan
 leur durée normale d'utilisation si elle est inférieure. En cas de non-respect
 de cet engagement, les sommes déduites sont rapportées aux résultats imposables
 de l'entreprise ayant opéré la déduction au titre de l'exercice au cours duquel
-le non-respect de l'engagement est constaté ; ((ces dispositions ne sont pas
+le non-respect de l'engagement est constaté ; ces dispositions ne sont pas
 applicables si les immobilisations en cause sont comprises dans un apport
 partiel d'actif réalisé sous le bénéfice de l'article 210 B ou si la société qui
 en est propriétaire fait l'objet d'une fusion placée sous le régime de l'article
 210 A, à la condition que la société bénéficiaire de l'apport, ou la société
 absorbante selon le cas, réponde aux conditions d'activité prévues au présent
 alinéa et reprenne, sous les mêmes conditions et sanctions, l'engagement
-mentionné à la phrase qui précède pour la fraction du délai restant à courir.))
-(Modification de la loi art. 20 I B) (1').
+mentionné à la phrase qui précède pour la fraction du délai restant à courir.
 
 Pour ouvrir droit à déduction, la constitution ou l'augmentation du capital des
 sociétés mentionnées à l'alinéa précédent et dont le montant est supérieur à 30
@@ -90,20 +102,20 @@ sociétés mentionnées à l'alinéa précédent et dont le montant est supérie
 ministre chargé du budget et n'avoir pas appelé d'objection motivée de sa part
 dans un délai de trois mois.
 
-La déduction prévue au premier alinéa du présent paragraphe s'applique aux
-souscriptions versées à compter du 1er janvier 1992 au capital de sociétés
-effectuant dans les départements d'outre-mer des investissements productifs dans
-le secteur de la maintenance au profit d'activités industrielles et dans celui
-de la production et de la diffusion audiovisuelles et cinématographiques.
+La déduction prévue au premier alinéa s'applique aux souscriptions versées à
+compter du 1er janvier 1992 au capital de sociétés effectuant dans les
+départements d'outre-mer des investissements productifs dans le secteur de la
+maintenance au profit d'activités industrielles et dans celui de la production
+et de la diffusion audiovisuelles et cinématographiques.
 
-Un décret détermine les conditions d'application de l'alinéa précédent.
+Un décret détermine les conditions d'application de l'alinéa précédent (1).
 
-La déduction prévue au premier alinéa du présent paragraphe s'applique à compter
-du 1er juillet 1993 aux souscriptions au capital de sociétés concessionnaires
-effectuant dans les départements d'outre-mer des investissements productifs
-nécessaires à l'exploitation d'une concession de service public local à
-caractère industriel et commercial, et dont l'activité s'exerce exclusivement
-dans les départements ou territoires d'outre-mer.
+La déduction prévue au premier alinéa s'applique à compter du 1er juillet 1993
+aux souscriptions au capital de sociétés concessionnaires effectuant dans les
+départements d'outre-mer des investissements productifs nécessaires à
+l'exploitation d'une concession de service public local à caractère industriel
+et commercial, et dont l'activité s'exerce exclusivement dans les départements
+ou territoires d'outre-mer.
 
 II bis. La déduction prévue au premier alinéa du II s'applique aux souscriptions
 réalisées à compter du 1er juillet 1993 aux augmentations de capital de sociétés
@@ -135,6 +147,18 @@ l'article 199 undecies ;
 d)- l'opération a reçu l'agrément préalable du ministre du budget dans les
 conditions prévues au III ter.
 
+II ter. La déduction prévue au premier alinéa du II s'applique aux souscriptions
+au capital de sociétés soumises à l'impôt sur les sociétés réalisées à compter
+du 1er avril 1996 par les entreprises soumises à cet impôt et qui sont affectées
+exclusivement à l'acquisition ou à la construction de logements neufs dans les
+départements d'outre-mer lorsque ces sociétés ont pour activité exclusive la
+location de tels logements dans les conditions mentionnées au septième alinéa du
+I du présent article.
+
+Cette déduction s'applique sous les conditions et sanctions prévues au II, à
+l'exception de celle mentionnée à la troisième phrase du premier alinéa du même
+II (1').
+
 III. (Abrogé).
 
 III bis. Pour ouvrir droit à déduction, les investissements mentionnés au I
@@ -148,7 +172,7 @@ pour le département dans lequel il est réalisé, s'il s'intègre dans la polit
 d'aménagement du territoire et de l'environnement et s'il garantit la protection
 des investisseurs et des tiers. L'octroi de l'agrément est tacite à défaut de
 réponse de l'administration dans un délai de trois mois à compter de la
-réception de la demande d'agrément (2)
+réception de la demande d'agrément (3).
 
 Toutefois, les investissements mentionnés au I dont le montant total n'excède
 pas un million de francs par programme et par exercice sont dispensés de la
@@ -175,7 +199,9 @@ d'hôtels ou de résidences à vocation touristique ou para-hôtelière, les
 investissements nécessaires à l'exploitation d'une concession de service public
 local à caractère industriel et commercial et les souscriptions au capital des
 sociétés concessionnaires mentionnées au cinquième alinéa du II doivent avoir
-reçu l'agrément préalable du ministre du budget.
+reçu l'agrément préalable du ministre du budget (4). ((Il en est de même des
+investissements mentionnés au I réalisés à compter du 1er janvier 1997 dans le
+secteur de la pêche maritime)) (M).
 
 L'agrément peut être accordé, après qu'a été demandé l'avis du ministre des
 départements et territoires d'outre-mer, si l'investissement présente un intérêt
@@ -186,7 +212,7 @@ la protection des investisseurs et des tiers. L'octroi de l'agrément est tacite
 la réception de la demande d'agrément.
 
 Un décret fixe les modalités de la consultation du ministre des départements et
-territoires d'outre-mer.
+territoires d'outre-mer (5).
 
 Toutefois, les investissements mentionnés au I, dont le montant total n'excède
 pas un million de francs par programme et par exercice, sont dispensés de la
@@ -197,32 +223,39 @@ cas, l'entreprise joint à sa déclaration de résultat un état récapitulatif 
 investissements réalisés au cours de l'exercice et au titre desquels elle entend
 bénéficier de la déduction fiscale.
 
+III quater. Les dispositions du 1° bis du I de l'article 156 ne sont pas
+applicables aux déficits provenant de la déduction des investissements visée au
+I et de leur exploitation ou des souscriptions mentionnées aux II et II bis
+réalisés à compter du 1er janvier 1996 et qui reçoivent un agrément préalable du
+ministre chargé du budget dans les conditions fixées au deuxième alinéa du III
+ter. Si l'investissement ou la souscription n'excède pas trois millions de
+francs, l'agrément est tacite à l'expiration d'un délai de deux mois.
+
 IV. En cas de cession dans le délai de cinq ans de tout ou partie des droits
 sociaux souscrits à compter du 1er janvier 1983 par les entreprises avec le
-bénéfice des déductions prévues aux II et II bis , les sommes déduites sont
-rapportées [*réintégration*] au résultat imposable de l'année de cession, dans
-la limite, de la totalité du prix de cession.
+bénéfice des déductions prévues aux II, II bis ou II ter les sommes déduites
+sont rapportées au résultat imposable de l'année de cession, dans la limite, de
+la totalité du prix de cession.
 
-((Toutefois, ces dispositions ne sont pas applicables dans le cas où, dans le
+Toutefois, ces dispositions ne sont pas applicables dans le cas où, dans le
 délai de cinq ans, l'entreprise propriétaire des titres ayant ouvert droit à la
-déduction prévue au II ou au II bis fait l'objet d'une transmission dans le
-cadre des dispositions prévues aux articles 41, 151 octies, 210 A ou 210 B si
+déduction prévue aux II, II bis ou II ter fait l'objet d'une transmission dans
+le cadre des dispositions prévues aux articles 41, 151 octies, 210 A ou 210 B si
 l'entreprise qui devient propriétaire des titres remplit les conditions
 nécessaires pour bénéficier de cette déduction et s'engage à conserver les
 titres pendant la fraction du délai de conservation restant à courir.
 L'engagement est pris dans l'acte constatant la transmission ou, à défaut, par
 acte sous seing privé ayant date certaine, établi à cette occasion.
 
-((En cas de non-respect de cet engagement, le bénéficiaire de la transmission
-doit rapporter à ses résultats imposables, au titre de l'exercice au cours
-duquel l'engagement cesse d'être respecté, une somme égale au montant de la
-déduction fiscale à laquelle les titres transmis ont ouvert droit, dans la
-limite de la totalité du prix de cession. Il en est de même dans le cas où les
-titres souscrits avec le bénéfice de la déduction prévue au II ou au II bis sont
+En cas de non-respect de cet engagement, le bénéficiaire de la transmission doit
+rapporter à ses résultats imposables, au titre de l'exercice au cours duquel
+l'engagement cesse d'être respecté, une somme égale au montant de la déduction
+fiscale à laquelle les titres transmis ont ouvert droit, dans la limite de la
+totalité du prix de cession. Il en est de même dans le cas où les titres
+souscrits avec le bénéfice de la déduction prévue aux II, II bis ou II ter sont
 apportés ou échangés dans le cadre d'opérations soumises aux dispositions des
 articles 210 A ou 210 B, si l'entreprise conserve, sous les mêmes conditions et
-sanctions, les titres nouveaux qui se sont substitués aux titres d'origine.))
-(Modification art. 20 I C de la loi) (1').
+sanctions, les titres nouveaux qui se sont substitués aux titres d'origine.
 
 IV bis. La déduction opérée en application du I est limitée à 75 p. 100 du
 montant de l'investissement lorsqu'elle s'impute sur les résultats d'une
@@ -246,15 +279,22 @@ La déduction est portée à 100 p. cent pour tous les investissements réalisé
 compter du 1er juillet 1993.
 
 V. Les dispositions du présent article sont applicables jusqu'au 31 décembre
-2001 [*date limite*].
+2001.
 
-Un décret précise, en tant que de besoin, les modalités de leur application (3).
+Un décret précise, en tant que de besoin, les modalités de leur application (6).
 
 (1) Annexe III, art. 46 quaterdecies B et 46 quaterdecies BA.
 
-(1') Ces dispositions s'appliquent aux opérations intervenues à compter du 1er
-janvier 1994.
+(2) Annexe III, art. 46 quaterdecies DA.
 
-(2) Annexe IV, art. 170 nonies.
+[*Cf. Instructions 1997-03-07 4A-6-97, 1997-03-07 5B-11-97*].
 
-(3) Annexe III, art. 46 quaterdecies A à 46 quaterdecies I.
+(3) Annexe IV, art. 170 nonies.
+
+(4) Annexe IV, art. 170 decies.
+
+(M) Modification.
+
+(5) Annexe III, art. 46 quaterdecies A à 46 quaterdecies G.
+
+(6) Annexe III, art. 46 quaterdecies A à 46 quaterdecies I.
