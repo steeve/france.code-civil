@@ -1,6 +1,9 @@
 Article R712-75
 ----
-La forme, la périodicité et le contenu de l'évacuation périodique des activités
-de soins régies par les dispositions de la présente sous-section, mentionnée à
-l'article L. 712-12-1, sont définis par un arrêté du ministre chargé de la
-santé.
+Chaque établissement titulaire, pour une unité de proximité, de l'autorisation
+prévue à l'article R. 712-63 établit un bilan des relations définies et
+pratiquées, en son sein, entre cette unité de proximité et les autres services
+ou unités de cet établissement, ainsi que de la mise en oeuvre des contrats de
+relais qu'il a conclus avec d'autres établissements. Ce bilan est joint au
+dossier relatif à l'évaluation qui est présentée par l'établissement en vue du
+renouvellement de l'autorisation prévue à l'article R. 712-63.

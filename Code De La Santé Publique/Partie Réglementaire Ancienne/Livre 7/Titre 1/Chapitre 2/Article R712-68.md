@@ -1,7 +1,7 @@
 Article R712-68
 ----
-L'antenne d'accueil, de traitement et d'orientation des urgences fonctionne
-selon les modalités suivantes :
+L'unité de proximité d'accueil, de traitement et d'orientation des urgences
+fonctionne selon les modalités suivantes :
 
 1° Elle accueille sans sélection tous les jours de l'année, vingt-quatre heures
 sur vingt-quatre, toute personne se présentant en situation d'urgence, y compris
@@ -13,21 +13,26 @@ soins courants de médecine générale ou de psychiatrie ou des actes chirurgica
 simples correspondant à une cotation inférieure ou égale à KC 30 par acte au
 sens de la Nomenclature générale des actes professionnels, qui ne nécessitent
 pas une anesthésie générale ou une anesthésie loco-régionale du rachis, des
-blocs proximaux ou par voie péridurale ;
+blocs proximaux ou par voie péridurale. Elle traite également, si
+l'établissement dispose d'un chirurgien, les patients dont l'état nécessite,
+pour lutter contre la douleur, des actes chirurgicaux correspondant à une
+cotation supérieure à KC 30 ; dans ces derniers cas, les actes sont réalisés,
+dans un local approprié, avec le concours d'un anesthésiste-réanimateur de
+l'établissement, ou d'un autre établissement de santé, dont les conditions
+d'intervention ont été préalablement définies ;
 
-3° Entre 8 heures et 18 h 30, les jours ouvrés, elle peut orienter les patients
-dont l'état nécessite des soins qu'elle ne peut dispenser elle-même :
+3° Elle oriente les patients dont l'état nécessite des soins qu'elle ne peut
+dispenser elle-même :
 
-a)Soit vers d'autres services ou unités de l'établissement susceptibles de les
-assurer ;
+a) Soit vers d'autres services ou unités de l'établissement prêts à les assurer,
+dans des conditions préalablement définies entre l'unité de proximité et ces
+services ou unités ;
 
-b)Soit, en liaison avec le centre 15 de réception et de régulation des appels du
-service d'aide médicale urgente, appelé SAMU, vers un autre établissement de
-santé en mesure de dispenser sans délai aux patients les soins nécessaires ou
-vers un service d'accueil et de traitement des urgences ;
+b) Soit vers tout autre établissement de santé, exerçant ou non l'activité
+d'accueil et de traitement des urgences, avec lequel a été conclu un contrat de
+relais défini à l'article R. 712-69 ;
 
-4° Après 18 h 30 et jusqu'à 8 heures et les jours non ouvrés, l'antenne doit, en
-liaison avec le centre 15 du SAMU, diriger les patients qu'elle n'est pas en
-mesure de traiter elle-même vers un service d'accueil et de traitement des
-urgences ou éventuellement vers un pôle spécialisé, ou vers un établissement de
-santé ayant reçu l'autorisation dérogatoire prévue à l'article R. 712-69.
+c) Soit, en liaison avec le centre "15" de réception et de régulation des appels
+du service d'aide médicale urgente appelé SAMU, vers un établissement siège d'un
+service d'accueil et de traitement des urgences ou vers un autre établissement
+de santé en mesure de dispenser sans délai aux patients les soins nécessaires.
