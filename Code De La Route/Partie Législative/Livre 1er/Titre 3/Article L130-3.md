@@ -7,11 +7,11 @@ l'article 20 du code de procédure pénale, exercer les attributions attachées 
 leur qualité d'agent de police judiciaire pour la recherche et la constatation
 des infractions prévues à l'article L. 130-1.
 
-Les fonctionnaires du corps de maîtrise et d'application de la police nationale
-affectés à une circonscription territoriale ne dépassant pas le ressort de la
-cour d'appel peuvent, dans les limites de cette circonscription et dans les
-conditions fixées par l'article 20 du code de procédure pénale, exercer les
-attributions attachées à leur qualité d'agent de police judiciaire pour la
+Les fonctionnaires du corps d'encadrement et d'application de la police
+nationale affectés à une circonscription territoriale ne dépassant pas le
+ressort de la cour d'appel peuvent, dans les limites de cette circonscription et
+dans les conditions fixées par l'article 20 du code de procédure pénale, exercer
+les attributions attachées à leur qualité d'agent de police judiciaire pour la
 recherche et la constatation des mêmes catégories d'infractions.
 
 Les fonctionnaires mentionnés au présent article sont placés sous la
