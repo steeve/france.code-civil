@@ -12,8 +12,9 @@ et sorties de produits des chais ou locaux du site d'exploitation ;
 
 2° La date des déclarations de mise en production d'alcool, de fabrication de
 mistelles, vermouths, vins de liqueur ou apéritifs à base de vin, de cidre ou de
-poiré, de fabrication de vins mousseux, et de fabrication de vins doux naturels,
-prévues aux articles 312, 343, 413 et 416 dudit code ;
+poiré, de fabrication de boissons de raisins secs, de fabrication de vins
+mousseux, de fabrication de vins doux naturels et d'ajout de sucre à la
+vendange, prévues aux articles 312, 343, 352, 413, 416 et 422 dudit code ;
 
 3° La date des déclarations de récolte, des stocks et de production prévues aux
 articles 407, 408 et 410 bis dudit code ;
