@@ -31,5 +31,11 @@ rectification de l'acte, en ce qui touche l'omission ou l'erreur, pourra être
 demandée par le procureur de la République, sans préjudice du droit des parties
 intéressées, conformément à l'article 99.
 
+9° S'il y a lieu, la déclaration qu'il a été fait un acte de désignation de la
+loi applicable conformément à la convention sur la loi applicable aux régimes
+matrimoniaux, faite à La Haye le 14 mars 1978, ainsi que la date et le lieu de
+signature de cet acte et, le cas échéant, le nom et la qualité de la personne
+qui l'a établi.
+
 En marge de l'acte de naissance de chaque époux, il sera fait mention de la
 célébration du mariage et du nom du conjoint.
