@@ -1,12 +1,14 @@
 Article D461-6
 ----
-Des arrêtés du ministre chargé de la sécurité sociale, du ministre chargé du
-travail et du ministre chargé de l'industrie désignent les établissements ou
-parties d'établissements dans lesquels l'ensemble des travailleurs est présumé
-exposé au risque des affections mentionnées à l'article D. 461-5, sauf à
-l'organisme débiteur des indemnités et prestations à prouver, le cas échéant,
-pour chacun des intéressés, qu'il n'a pas été occupé habituellement à des
-travaux susceptibles de provoquer l'une de ces maladies professionnelles.
+Pour l'application des articles D. 461-5 et suivants, il est institué des
+collèges de trois médecins particulièrement qualifiés par leur connaissance des
+affections mentionnées à cet article et de leurs complications.
 
-Ces établissements sont d'ores et déjà soumis aux obligations résultant du
-présent livre, à raison de l'exécution desdits travaux.
+L'un d'entre eux doit avoir la pratique des expertises en matière de maladies
+professionnelles et figurer sur les listes visées à l'article R. 141-1. Un autre
+doit avoir une compétence particulière en matière de pneumologie. Chaque collège
+comporte trois membres titulaires et au moins trois membres suppléants. Ils sont
+désignés conformément aux dispositions des articles D. 461-3 et D. 461-4.
+
+La compétence territoriale et le fonctionnement des collèges sont fixés par un
+arrêté conjoint des ministres chargés de la sécurité sociale et de la santé.

@@ -1,36 +1,29 @@
 Article D461-12
 ----
-L'indemnité de changement d'emploi est égale à soixante jours de salaire par
-année d'exposition au risque de l'une des affections mentionnées à l'article D.
-461-5, sans pouvoir dépasser trois cents jours de salaire. Toute fraction
-d'année compte pour une année entière. Le salaire servant de base au calcul de
-l'indemnité est le salaire moyen des ouvriers de la même catégorie de la
-dernière entreprise dans laquelle le travailleur a été exposé au risque de
-silicose, tel qu'il est fixé à l'expiration du délai prévu au deuxième alinéa de
-l'article D. 461-11.
+Le droit aux prestations, autres que la réadaptation fonctionnelle, la
+rééducation professionnelle et le reclassement, prévues au 1° de l'article L.
+431-1 et aux indemnités mentionnées au 2° du même article est ouvert au malade
+reconnu atteint d'une des affections mentionnées à l'article D. 461-5 :
 
-L'indemnité de changement d'emploi est acquise au travailleur ou à ses ayants
-droit. Elle est versée, suivant le cas, par la caisse primaire d'assurance
-maladie ou par l'organisation spéciale de sécurité sociale dont relève le
-travailleur. Elle est payable par mensualités égales échelonnées sur une période
-double du nombre de jours de salaire pris en considération pour le calcul de
-ladite indemnité. Le premier versement a lieu obligatoirement au moment où le
-travailleur quitte son emploi.
+- lorsque les pneumoconioses visées au tableau n° 25 se manifestent par une
+insuffisance respiratoire chronique caractérisée et dans les cas de
+complications énumérées au même tableau ;
 
-Si l'intéressé occupe un emploi, l'indemnité ne pourra représenter que la
-différence entre le salaire moyen défini ci-dessus, revalorisé, au cas où,
-postérieurement au changement d'emploi, serait survenue une augmentation
-générale des salaires intéressant la catégorie à laquelle appartenait la victime
-et le nouveau salaire de l'intéressé, jusqu'à concurrence du montant de
-l'indemnité fixé au premier alinéa du présent article.
+- lorsque l'asbestose visée au tableau n° 30 se manifeste par une insuffisance
+respiratoire chronique caractérisée et dans les cas de complications et autres
+maladies énumérées au même tableau ;
 
-L'indemnité de changement d'emploi ne se cumule pas avec l'indemnité journalière
-prévue à l'article L. 433-1.
+- lorsque la sidérose visée au tableau n° 44 se manifeste par une insuffisance
+respiratoire chronique caractérisée et dans les cas de complications énumérées
+au même tableau.
 
-Dans le cas où cette dernière indemnité vient à être due au titre de l'article
-D. 461-9, après attribution de l'indemnité de changement d'emploi et pour des
-journées comprises dans la période prévue au deuxième alinéa du présent article,
-le montant de l'indemnité journalière est réduit, pour chacune de ces journées,
-d'une somme égale au résultat de la division du montant de l'indemnité de
-changement d'emploi par le nombre de jours, ouvrables ou non, compris dans
-ladite période.
+Dans les cas de complications aiguës énumérées ci-après :
+
+insuffisance respiratoire aiguë, pneumothorax, tuberculose bactériologiquement
+confirmée, pleurésie, suppuration broncho-pulmonaire, ainsi que dans les cas
+d'insuffisance respiratoire chronique caractérisée, les prestations susvisées
+sont accordées sur avis favorable du médecin conseil. Dans les autres cas, elles
+le sont sur avis favorable du médecin agréé ou du collège des trois médecins.
+
+Le droit aux prestations est accordé pour six mois. Il peut être renouvelé par
+période de six mois sur avis du médecin conseil.

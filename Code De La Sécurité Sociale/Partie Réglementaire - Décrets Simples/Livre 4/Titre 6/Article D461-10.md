@@ -1,26 +1,34 @@
 Article D461-10
 ----
-Le droit aux rentes prévues par le présent livre dans les cas d'incapacité
-permanente ou de mort, n'est ouvert que si la durée totale de l'emploi en une ou
-plusieurs périodes, dans une ou plusieurs exploitations, à des travaux
-susceptibles de provoquer la silicose et l'asbestose est au moins égale à cinq
-ans.
+Dès réception du dossier visé au deuxième alinéa de l'article D. 461-8 transmis
+par la caisse primaire ou l'organisation spéciale de sécurité sociale, le
+médecin agréé ou le collège des trois médecins examine le malade et procède ou
+fait procéder à tous les examens complémentaires, dont une téléradiographie
+thoracique, et des épreuves fonctionnelles de l'appareil respiratoire. Ces
+examens complémentaires ne seront pas exigés si le médecin agréé ou le collège
+peut disposer de radiographies et de résultats d'examens pratiqués depuis moins
+de trois mois ou s'il juge que l'état clinique de la victime ne permet pas de
+les pratiquer ou les rend inutiles.
 
-Dans les mines de combustibles minéraux solides la durée susmentionnée est
-calculée en comptant entièrement le temps passé à des travaux au rocher, pour
-moitié celui passé au creusement des voies en couche avec coupage d'épontes et
-pour un tiers le temps passé à des travaux d'abattage du charbon, de tirs de
-mines et à la surveillance des travaux précités au rocher ou au charbon.
+Après avoir procédé à l'examen médical et avoir pris connaissance des résultats
+de l'enquête visée à l'article D. 461-9, le médecin agréé ou le collège établit
+un rapport descriptif de l'état de l'intéressé, confirme la date de la première
+constatation médicale visée à l'article D. 461-7 et donne son avis sur
+l'existence des troubles fonctionnels et des complications visées à l'un des
+tableaux n°s 25, 30 ou 44, l'existence d'une incapacité permanente, le taux de
+cette incapacité et la nécessité d'un changement d'emploi.
 
-En ce qui concerne la sidérose professionnelle, la durée d'emploi est fixée à
-dix ans.
+L'avis du médecin agréé, ou du collège des trois médecins, accompagné du dossier
+qui lui avait été transmis est adressé dans un délai qui ne saurait excéder deux
+mois sans justifications au médecin conseil de la caisse primaire d'assurance
+maladie ou de l'organisation spéciale de sécurité sociale qui le transmet avec
+son avis au service administratif.
 
-Cette durée est également applicable lorsque la victime est atteinte, en outre,
-de silicose.
-
-Pour les durées d'exposition au risque inférieures à celle qui résulte de
-l'application des alinéas précédents, le droit aux rentes, dans les cas
-d'incapacité permanente ou de mort, est également ouvert si l'examen effectué
-par le collège de trois médecins, dans les conditions fixées par le quatrième
-alinéa de l'article D. 461-14, établit que la victime est ou était atteinte de
-silicose et d'asbestose nettement caractérisées.
+Toutefois, le médecin agréé ou le collège peut, également, lorsque l'examen
+médical ne permet pas immédiatement d'établir des conclusions motivées, réserver
+son appréciation jusqu'à nouvel examen à intervenir dans un délai qu'il
+déterminera et au plus égal à un an ; il en informe le malade et la caisse
+primaire ou l'organisation spéciale. La caisse ou l'organisation spéciale peut
+alors, sur avis du médecin conseil, dans le cas où l'examen médical a été
+effectué par le médecin agréé, transmettre le dossier au collège des trois
+médecins qui donne son avis à la place du médecin agréé.

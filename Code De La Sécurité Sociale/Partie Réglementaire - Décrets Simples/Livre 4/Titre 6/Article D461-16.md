@@ -1,16 +1,22 @@
 Article D461-16
 ----
-Le travailleur bénéficiaire d'une indemnité de changement d'emploi peut, en cas
-d'aggravation de son état, demander l'attribution d'une rente s'il a rempli,
-avant l'attribution de l'indemnité, les conditions de délai d'exposition au
-risque définies à l'article D. 461-10. Dans ce cas, le délai de deux ans
-mentionné à l'article R. 443-1 court de la date de la décision de la juridiction
-compétente reconnaissant le droit à l'indemnité ou, dans le cas où la fixation
-de cette indemnité n'a donné lieu à aucune contestation, de la date du premier
-versement.
+En cas de décès de la victime avant la déclaration de maladie prévue à l'article
+L. 461-5 ou avant l'examen prévu à l'article D. 461-10, une autopsie est
+pratiquée dans les conditions définies à l'article L. 442-4 Le rapport médical
+d'autopsie est soumis pour avis au collège des trois médecins.
 
-Les arrérages de la rente ne se cumulent pas avec l'indemnité de changement
-d'emploi. Dans le cas où le point de départ de la rente est antérieur à
-l'expiration de la période prévue au deuxième alinéa de l'article D. 461-12, la
-fraction d'indemnité de changement d'emploi afférente au temps restant à courir
-jusqu'à cette expiration est imputée sur les arrérages de la rente.
+Exceptionnellement, la caisse primaire d'assurance maladie ou l'organisation
+spéciale de sécurité sociale peut, en accord avec le médecin conseil, soumettre
+le dossier médical constitué antérieurement et visé à l'article D. 461-8 au
+collège des trois médecins. Celui-ci donne son avis sur l'existence préalable au
+décès de l'une des affections mentionnées à l'article D. 461-5 et sur le lien de
+causalité entre cette affection et le décès.
+
+Pour l'autopsie, il est fait appel de préférence soit à un médecin agréé en
+matière de pneumoconioses, soit à un médecin possédant une compétence
+particulière en matière de pneumoconioses.
+
+Les poumons sont prélevés dans leur totalité et adressés à un institut de
+médecine du travail, à un service d'anatomie pathologique qualifié par ses
+travaux concernant les pneumoconioses ou à un centre d'étude des pneumoconioses,
+en vue d'un examen anatomopathologique et histologique.

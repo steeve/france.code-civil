@@ -1,30 +1,17 @@
 Article D461-9
 ----
-Le droit aux prestations, autres que la réadaptation fonctionnelle, la
-rééducation professionnelle et le reclassement, prévues au 1° de l'article L.
-431-1, et aux indemnités mentionnées au 2° du même article n'est ouvert au
-malade reconnu atteint de silicose que dans les cas :
+Une enquête est effectuée parallèlement par les services administratifs de la
+caisse ou de l'organisation spéciale afin d'identifier le ou les risques
+auxquels le salarié a pu être exposé. Le service de prévention compétent y
+apporte sa collaboration dans les conditions indiquées à l'article R. 441-12.
 
-1°) d'hyposystolie ou d'asystolie par insuffisance ventriculaire droite, de
-tuberculose ou de pneumothorax spontané, constatés comme complication de la
-silicose dans les conditions prévues aux articles D. 461-13, D. 461-14 et D.
-461-17 ;
+Les résultats de cette enquête sont envoyés au médecin agréé ou au collège.
 
-2°) de suppuration bronchique ou pulmonaire caractérisée entraînant une
-incapacité temporaire d'une durée supérieure à trente jours consécutifs ou de
-rechute de la même affection survenant moins de six mois après la fin de la
-période d'incapacité temporaire susmentionnée. Les prestations et les indemnités
-mentionnées au présent article sont attribuées, selon le cas, à partir du trente
-et unième jour d'incapacité temporaire résultant de l'affection en cause ou du
-premier jour de l'incapacité temporaire causée par ladite rechute. Pour
-l'application de l'article R. 433-4, le vingt-neuvième jour est calculé à partir
-du jour où sont attribuées les indemnités de l'incapacité temporaire ;
-
-3°) d'insuffisance respiratoire aiguë, de pleurésie exsudative, de cancer
-broncho-pulmonaire et d'insuffisance ventriculaire droite constatés comme
-complication de l'asbestose dans les conditions prévues aux articles D. 461-13,
-D. 461-14, D. 461-17 ;
-
-4°) de mésotheliome primitif, pleural, péricardique ou péritonéal provoqué par
-les poussières d'amiante constaté dans les conditions prévues par les
-dispositions mentionnées au 3° ci-dessus.
+Conformément aux dispositions du quatrième alinéa de l'article L. 461-5, la
+caisse primaire ou l'organisation spéciale transmet, accompagnée de son avis,
+une copie de la déclaration et du certificat médical à l'inspecteur du travail,
+ou au fonctionnaire qui en exerce les attributions, chargé de la surveillance de
+la ou des entreprises dans lesquelles le travailleur a pu être exposé aux
+risques. Ce fonctionnaire fait part, dans un délai d'un mois, de ses
+observations à la caisse ou à l'organisation spéciale, qui les transmet au
+médecin agréé ou au collège.
