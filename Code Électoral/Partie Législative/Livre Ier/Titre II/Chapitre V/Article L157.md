@@ -4,4 +4,7 @@ Les déclarations de candidatures doivent être déposées, en double exemplaire
 la préfecture au plus tard vingt et un jours avant celui de l'ouverture du
 scrutin.
 
-Il est donné au déposant un reçu provisoire de déclaration.
+La déclaration de candidature est remise personnellement par le candidat ou son
+suppléant.
+
+Un reçu provisoire de déclaration est donné au déposant.

@@ -15,88 +15,110 @@ circonscription d'élection, conformément au tableau ci-après :
 
 - N'excédant pas 15 000 habitants :
 
+Election des conseillers municipaux :
+
+- Listes présentes au premier tour : 8.
+
+- Listes présentes au second tour : 11.
+
 Election des conseillers :
 
-- municipaux : 11
+- généraux : 4,2.
 
-- généraux : 6
-
-- régionaux : 5.
+- régionaux : 3,5.
 
 - FRACTION DE LA POPULATION de la circonscription :
 
 - De 15 001 à 30 000 habitants :
 
+Election des conseillers municipaux :
+
+- Listes présentes au premier tour : 7.
+
+- Listes présentes au second tour : 10.
+
 Election des conseillers :
 
-- municipaux : 10
+- généraux : 3,5
 
-- généraux : 5
-
-- régionaux : 5.
+- régionaux : 3,5.
 
 - FRACTION DE LA POPULATION de la circonscription :
 
 - De 30 001 à 60 000 habitants :
 
+Election des conseillers municipaux :
+
+- Listes présentes au premier tour : 6.
+
+- Listes présentes au second tour : 8.
+
 Election des conseillers :
 
-- municipaux : 9
+- généraux : 2,8.
 
-- généraux : 4
-
-- régionaux : 5.
+- régionaux : 3,5.
 
 - FRACTION DE LA POPULATION de la circonscription :
 
 - De 60 001 à 100 000 habitants :
 
+Election des conseillers municipaux :
+
+- Listes présentes au premier tour : 5,5.
+
+- Listes présentes au second tour : 7,5.
+
 Election des conseillers :
 
-- municipaux : 8
+- généraux : 2.
 
-- généraux : 3
-
-- régionaux : 5.
+- régionaux : 3,5.
 
 - FRACTION DE LA POPULATION de la circonscription :
 
 - De 100 001 à 150 000 habitants :
 
+Election des conseillers municipaux :
+
+- Listes présentes au premier tour : 5.
+
+- Listes présentes au second tour : 7.
+
 Election des conseillers :
 
-- municipaux : 7
-
-- généraux : 3
-
-- régionaux : 4.
+- régionaux : 2,5.
 
 - FRACTION DE LA POPULATION de la circonscription :
 
 - De 150 001 à 250 000 habitants :
 
+Election des conseillers municipaux :
+
+- Listes présentes au premier tour : 4,5.
+
+- Listes présentes au second tour : 5,5.
+
 Election des conseillers :
 
-- municipaux : 6
-
-- généraux : 3
-
-- régionaux : 3.
+- régionaux : 2.
 
 - FRACTION DE LA POPULATION de la circonscription :
 
 - Excédant 250 000 habitants :
 
+Election des conseillers municipaux :
+
+- Listes présentes au premier tour : 3,5.
+
+- Listes présentes au second tour : 5.
+
 Election des conseillers :
 
-- municipaux : 5
+- régionaux : 1,5.
 
-- généraux : 3
-
-- régionaux : 2.
-
-" Le plafond des dépenses pour l'élection des députés est de 250 000 F par
-candidat. Il est majoré de 1 F par habitant de la circonscription. "
+Le plafond des dépenses pour l'élection des députés est de 250 000 F par
+candidat. Il est majoré de 1 F par habitant de la circonscription.
 
 Les plafonds définis pour l'élection des conseillers régionaux sont applicables
 à l'élection des conseillers à l'Assemblée de Corse.

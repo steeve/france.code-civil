@@ -3,7 +3,10 @@ Article L52-5
 L'association de financement électorale doit être déclarée selon les modalités
 prévues par l'article 5 de la loi du 1er juillet 1901 relative au contrat
 d'association. La déclaration doit être accompagnée de l'accord écrit du
-candidat.
+candidat. Le candidat ne peut être membre de sa propre association de
+financement électorale. L'expert-comptable chargé de la présentation du compte
+de campagne ne peut exercer les fonctions de président ou de trésorier de cette
+association. "
 
 L'association de financement électorale est tenue d'ouvrir un compte bancaire ou
 postal unique retraçant la totalité de ses opérations financières. Les comptes
