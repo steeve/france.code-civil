@@ -9,7 +9,9 @@ Le conseil d'administration [*attributions*] :
 3. Décide des actes de disposition, des emprunts et des programmes de
 réservation foncière, d'aménagement et de construction ;
 
-4. Vote le budget, approuve les comptes et donne quitus au directeur général ;
+4. Vote le budget, auquel est annexée la prévision de l'évolution de la masse
+salariale brute de l'office, approuve les comptes et donn quitus au directeur
+général ;
 
 5. Autorise la participation aux sociétés indiquées à l'article R. 421-5 ;
 
