@@ -12,6 +12,23 @@ financière, les organismes des départements et des communes et toutes autres
 personnes morales se livrant à une exploitation ou à des opérations de caractère
 lucratif.
 
+1 bis. Toutefois, ne sont pas passibles de l'impôt sur les sociétés prévu au 1
+les associations régies par la loi du 1er juillet 1901, les associations régies
+par la loi locale maintenue en vigueur dans les départements de la Moselle, du
+Bas-Rhin et du Haut-Rhin, les fondations reconnues d'utilité publique, les
+fondations d'entreprise et les congrégations, dont la gestion est désintéressée,
+lorsque leurs activités non lucratives restent significativement prépondérantes
+et le montant de leurs recettes d'exploitation encaissées au cours de l'année
+civile au titre de leurs activités lucratives n'excède pas 250 000 F.
+
+Les organismes mentionnés au premier alinéa deviennent passibles de l'impôt sur
+les sociétés prévu au 1 à compter du 1er janvier de l'année au cours de laquelle
+l'une des trois conditions prévues à l'alinéa précité n'est plus remplie.
+
+Les organismes mentionnés au premier alinéa sont assujettis à l'impôt sur les
+sociétés prévu au 1 en raison des résultats de leurs activités financières
+lucratives et de leurs participations.
+
 2. Sous réserve des dispositions de l'article 239 ter, les sociétés civiles sont
 également passibles dudit impôt, même lorsqu'elles ne revêtent pas l'une des
 formes visées au 1, si elles se livrent à une exploitation ou à des opérations
@@ -20,11 +37,11 @@ visées aux articles 34 et 35.
 Toutefois, les sociétés civiles dont l'activité principale entre dans le champ
 d'application de l'article 63 peuvent bénéficier des dispositions de l'article
 72 bis lorsqu'elles sont soumises à un régime réel d'imposition. Celles relevant
-du forfait ((prévu aux articles 64 à 65 A)) (M) (1) ne sont pas passibles de
-l'impôt visé au 1 lorsque les activités accessoires visées aux articles 34 et 35
-qu'elles peuvent réaliser n'excèdent pas le seuil fixé à l'article 75 : les
-bénéfices résultant de ces activités sont alors déterminés et imposés d'après
-les règles qui leur sont propres.
+du forfait prévu aux articles 64 à 65 A ne sont pas passibles de l'impôt visé au
+1 lorsque les activités accessoires visées aux articles 34 et 35 qu'elles
+peuvent réaliser n'excèdent pas le seuil fixé à l'article 75 : les bénéfices
+résultant de ces activités sont alors déterminés et imposés d'après les règles
+qui leur sont propres.
 
 3. Sont soumis à l'impôt sur les sociétés si ils optent pour leur
 assujettissement à cet impôt dans les conditions prévues à l'article 239 :
@@ -80,9 +97,9 @@ d. Des dividendes des sociétés immobilières et des sociétés agréées visé
 janvier 1987. Ces dividendes sont comptés dans le revenu imposable pour leur
 montant brut.
 
-5 bis. Les associations intermédiaires ((conventionnées, visées à l'article L.
-322-4-16-3 du code du travail, dont la gestion est désintéressée)) (M) (1) et
-les associations de services aux personnes, agréées en application de l'article
+5 bis. Les associations intermédiaires conventionnées, visées à l'article L.
+322-4-16-3 du code du travail, dont la gestion est désintéressée et les
+associations de services aux personnes, agréées en application de l'article
 L129-1 du même code sont soumises à l'impôt sur les sociétés dans les conditions
 prévues au 5 ;
 
@@ -125,13 +142,8 @@ conditions de droit commun.
 Un décret fixe les conditions d'application du présent 9.
 
 10. Les caisses d'épargne et de prévoyance et les caisses de crédit municipal
-sont assujetties à l'impôt sur les sociétés (6).
+sont assujetties à l'impôt sur les sociétés.
 
 11. Les fonds d'épargne retraite prévus par la loi n° 97-277 du 25 mars 1997
 créant les plans d'épargne retraite sont assujettis à l'impôt sur les sociétés,
 dans les conditions de droit commun.
-
-(M) Modification.
-
-(1) Ces dispositions sont applicables pour la détermination des résultats des
-années 1999 et suivantes.

@@ -1,12 +1,13 @@
 Article 1733
 ----
-I. L'intérêt de retard et les majorations prévus à l'article 1729 ne sont pas
-applicables en ce qui concerne les droits dus à raison de l'insuffisance des
-prix ou évaluations déclarés pour la perception des droits d'enregistrement ou
-de la taxe de publicité foncière ainsi qu'en ce qui concerne les impôts sur les
-revenus et les taxes accessoires autres que la taxe d'apprentissage, lorsque
-l'insuffisance des chiffres déclarés n'excède pas le dixième de la base
-d'imposition.
+I. Lorsque le montant des droits mis à la charge du contribuable n'est pas
+assorti des majorations prévues à l'article 1729, l'intérêt de retard prévu à ce
+même article n'est pas applicable en ce qui concerne les droits dus à raison de
+l'insuffisance des prix ou évaluations déclarés pour la perception des droits
+d'enregistrement ou de la taxe de publicité foncière ainsi qu'en ce qui concerne
+les impôts sur les revenus et les taxes accessoires autres que la taxe
+d'apprentissage, lorsque l'insuffisance des chiffres déclarés n'excède pas le
+dixième de la base d'imposition.
 
 Toutefois, cette insuffisance ne doit pas être supérieure au vingtième de la
 base d'imposition en matière d'impôts sur les revenus et de taxes accessoires
@@ -25,7 +26,7 @@ b) Les dépenses de tenue de comptabilité et d'adhésion à un centre de gestio
 à une association agréés ouvrant droit à la réduction d'impôt prévue à l'article
 199 quater B ;
 
-c) (Périmé, décret de codification 94-899) ;
+c) Périmé (décret de codification 94-899) ;
 
 d) Les dépenses de recherche et de formation ouvrant droit aux crédits d'impôts
 prévus aux articles 244 quater B et 244 quater C ;
@@ -37,7 +38,8 @@ nonies.
 
 g) Périmé.
 
-h) Les dépenses ouvrant droit au crédit d'impôt prévu à l'article 200 ter.
+h) Les dépenses ouvrant droit aux crédits d'impôt prévus aux articles 200 ter et
+200 quater.
 
 III. Pour l'application du I, la base sur laquelle a été calculée la réduction
 d'impôt prévue à l'article 199 nonies est assimilée à une insuffisance de

@@ -6,7 +6,7 @@ institué par l'article L361-1 du code rural :
 1° Une contribution additionnelle aux primes ou cotisations afférentes aux
 conventions d'assurance couvrant, à titre exclusif ou principal, les dommages
 aux cultures, aux récoltes, aux bâtiments et au cheptel mort ou vif affectés aux
-exploitations agricoles (1).
+exploitations agricoles.
 
 Elle est assise sur la totalité des primes ou cotisations. Elle est liquidée et
 recouvrée suivant les mêmes règles, sous les mêmes garanties et sous les mêmes
@@ -19,7 +19,7 @@ a) 10 % en ce qui concerne les conventions d'assurances contre l'incendie;
 
 b) 5 % en ce qui concerne les autres conventions d'assurances.
 
-Pour 1999, le taux prévu au a est fixé à 15 % et le taux prévu au b est fixé à 7
+Pour 2000, le taux prévu au a est fixé à 15 % et le taux prévu au b est fixé à 7
 % à l'exception des conventions couvrant les dommages aux cultures et la
 mortalité du bétail, dont le taux reste fixé à 5 %.
 
@@ -27,13 +27,13 @@ Les contrats d'assurance sur les risques de gel de récoltes sont exonérés de
 cette contribution.
 
 2° A titre exceptionnel, à compter du 1er juillet 1987 et jusqu'au 31 décembre
-1999, une contribution additionnelle complémentaire de 7 % sur toutes les primes
+2000, une contribution additionnelle complémentaire de 7 % sur toutes les primes
 ou cotisations afférentes aux conventions d'assurance couvrant les risques de
 responsabilité publique et de dommages relatifs aux véhicules utilitaires
-affectés aux exploitations agricoles (2).
+affectés aux exploitations agricoles.
 
 Les modalités d'application en seront fixées par un arrêté conjoint du ministre
-chargé de l'agriculture et du ministre chargé du budget (3) ;
+chargé de l'agriculture et du ministre chargé du budget ;
 
 3° Une contribution additionnelle particulière applicable aux exploitations
 conchylicoles fixée ainsi qu'il suit :
@@ -50,10 +50,3 @@ l'incendie couvrant les éléments visés au a ;
 
 30 % des primes ou cotisations afférentes aux conventions d'assurance couvrant
 les risques nautiques desdites exploitations.
-
-(1) Voir annexe II, art. 326 et décret n° 65-842 du 4 octobre 1965, art. 1
-modifié.
-
-(2) A compter du 1er janvier 1992.
-
-(3) Voir Annexe IV, art. 159 quater.

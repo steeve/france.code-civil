@@ -22,3 +22,8 @@ produire dans ce délai ;
 80 p. 100 lorsque le document n'a pas été déposé dans les trente jours suivant
 la réception d'une deuxième mise en demeure notifiée dans les mêmes formes que
 la première.
+
+80 p. 100 en cas de découverte d'une activité occulte. (1)
+
+(1) Ces dispositions s'appliquent aux infractions commises à compter du 1er
+janvier 2000.

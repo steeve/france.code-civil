@@ -35,23 +35,4 @@ dernier exercice clos à la date d'achèvement de l'immeuble.
 cours du premier exercice de l'entreprise, les critères ci-dessus s'apprécient à
 la date de clôture de cet exercice.
 
-II. 1. L'agrément prévu au troisième alinéa de l'article 39 quinquies D du code
-général des impôts est délivré par le ministre chargé du budget.
-
-2. Les demandes d'agrément, établies en cinq exemplaires, sont adressées à la
-direction générale des impôts.
-
-3. Pour bénéficier de l'amortissement exceptionnel prévu à l'article 39
-quinquies D déjà cité, l'entreprise doit joindre notamment à sa demande
-d'agrément :
-
-a) Les éléments justifiant de sa qualité de petite et moyenne entreprise au sens
-de ce dispositif lorsque l'immeuble est construit pour son propre usage ou que
-le preneur remplit lui-même ces conditions si l'immeuble est destiné à la
-location ;
-
-b) Et toutes informations utiles concernant les investissements réalisés, ainsi
-que, le cas échéant, les conditions de location du bien.
-
-La demande est présentée sur papier libre conforme au modèle établi par
-l'administration.
+II. (Sans objet).

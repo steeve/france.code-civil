@@ -2,11 +2,13 @@ Article 199 sexies D
 ----
 I. 1. Les dépenses de grosses réparations et d'amélioration afférentes à la
 résidence principale du contribuable dont il est propriétaire et qui sont payées
-entre le 1er janvier 1997 et le 31 décembre 2001 ouvrent droit à une réduction
-d'impôt sur le revenu lorsque l'immeuble est situé en France et est achevé
-depuis plus de dix ans. La réduction n'est pas accordée pour les dépenses de
-construction, de reconstruction, d'agrandissement, de décoration, d'équipement
-ménager ou d'entretien. Elle est accordée pour les dépenses de ravalement.
+entre le 1er janvier 1997 et le 31 décembre 1999, pour lesquelles une facture,
+autre qu'une facture d'acompte, a été émise avant le 15 septembre 1999, ouvrent
+droit à une réduction d'impôt sur le revenu lorsque l'immeuble est situé en
+France et est achevé depuis plus de dix ans. La réduction n'est pas accordée
+pour les dépenses de construction, de reconstruction, d'agrandissement, de
+décoration, d'équipement ménager ou d'entretien. Elle est accordée pour les
+dépenses de ravalement.
 
 Pour une même résidence, le montant des dépenses ouvrant droit à réduction ne
 peut excéder au cours de la période définie au premier alinéa la somme de 20 000

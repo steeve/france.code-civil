@@ -17,3 +17,6 @@ mentionnés au premier alinéa.
 L'Agence nationale pour l'amélioration de l'habitat communique à la direction
 générale des impôts la liste des bénéficiaires et les éléments permettant la
 liquidation et le paiement de la somme à rembourser.
+
+Ces dispositions ne s'appliquent plus aux travaux pour lesquels la facture est
+émise à compter du 15 septembre 1999.

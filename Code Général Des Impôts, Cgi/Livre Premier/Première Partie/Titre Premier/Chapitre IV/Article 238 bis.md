@@ -1,22 +1,21 @@
 Article 238 bis
 ----
 1. Les entreprises assujetties à l'impôt sur le revenu ou à l'impôt sur les
-sociétés sont autorisées à déduire du montant de leur bénéfice imposable, dans
-la limite de ((2,25 p. 1 000 de leur chiffre d'affaires)) (M), les versements
-qu'elles ont effectués au profit d'oeuvres ou d'organismes d'intérêt général
-ayant un caractère philanthropique, éducatif, scientifique, social, humanitaire,
-sportif, familial, culturel ou concourant à la mise en valeur du patrimoine
-artistique, à la défense de l'environnement naturel ou à la diffusion de la
-culture, de la langue et des connaissances scientifiques françaises notamment
-quand ces versements sont faits au bénéfice d'une fondation d'entreprise, même
-si cette dernière porte le nom de l'entreprise fondatrice ((ou au bénéfice de la
-"Fondation du patrimoine", même si le nom de l'entreprise versante est associé
-aux opérations réalisées par cet organisme)) (M).
+sociétés sont autorisées à déduire du montant de leur résultat, dans la limite
+de 2,25 p. 1 000 de leur chiffre d'affaires, les versements qu'elles ont
+effectués au profit d'oeuvres ou d'organismes d'intérêt général ayant un
+caractère philanthropique, éducatif, scientifique, social, humanitaire, sportif,
+familial, culturel ou concourant à la mise en valeur du patrimoine artistique, à
+la défense de l'environnement naturel ou à la diffusion de la culture, de la
+langue et des connaissances scientifiques françaises notamment quand ces
+versements sont faits au bénéfice d'une fondation d'entreprise, même si cette
+dernière porte le nom de l'entreprise fondatrice.
 
-(Alinéa abrogé par la loi 95-65).
+Les dispositions du premier alinéa s'appliquent même si le nom de l'entreprise
+versante est associé aux opérations réalisées par ces organismes.
 
-2. La limite de déduction mentionnée au 1 est fixée à ((3,25 p. 1 000)) (M) pour
-les dons faits à des fondations ou associations reconnues d'utilité publique et
+2. La limite de déduction mentionnée au 1 est fixée à 3,25 p. 1 000 pour les
+dons faits à des fondations ou associations reconnues d'utilité publique et
 répondant aux conditions fixées au 1, ainsi qu'aux associations cultuelles ou de
 bienfaisance qui sont autorisées à recevoir des dons et legs et aux
 établissements publics des cultes reconnus d'Alsace-Moselle.
@@ -36,19 +35,15 @@ ainsi que par le ministre chargé de l'enseignement supérieur ou par le ministr
 chargé de la culture.
 
 3. Lorsque les limites fixées aux 1 et 2 sont dépassées au cours d'un exercice,
-l'excédent peut être déduit des bénéfices imposables des cinq exercices
-suivants, après déduction des versements effectués au titre de chacun de ces
-exercices, sans qu'il puisse en résulter un dépassement des plafonds de
-déductibilité définis à ces mêmes 1 et 2.
+l'excédent peut être déduit des résultats des cinq exercices suivants, après
+déduction des versements effectués au titre de chacun de ces exercices, sans
+qu'il puisse en résulter un dépassement des plafonds de déductibilité définis à
+ces mêmes 1 et 2.
 
-((Sont également déductibles, suivant les modalités définies au premier alinéa,
-les versements effectués par les entreprises au cours d'un exercice qui n'a pas
-dégagé de bénéfice imposable)) (M).
-
-4. ((La déduction mentionnée au I peut être effectuée, dans la limite mentionnée
-au premier alinéa du 2)) (M) pour les dons faits à des organismes répondant à
-des conditions quant à leur statut et leurs conditions de fonctionnement fixées
-par décret en Conseil d'Etat et ayant pour objet exclusif de participer, par le
+4. La déduction mentionnée au I peut être effectuée, dans la limite mentionnée
+au premier alinéa du 2 pour les dons faits à des organismes répondant à des
+conditions quant à leur statut et leurs conditions de fonctionnement fixées par
+décret en Conseil d'Etat et ayant pour objet exclusif de participer, par le
 versement d'aides financières, à la création d'entreprises (2).
 
 Dans tous les cas, ces organismes doivent être agréés par le ministre chargé du
@@ -58,10 +53,7 @@ budget.
 statuts ont été approuvés à ce titre par décret en Conseil d'Etat, recevoir des
 versements pour le compte d'oeuvres ou d'organismes mentionnés au 1.
 
-6. (Abrogé par la loi 95-65) .
-
-(M) Modification. Ces dispositions s'appliquent pour la détermination des
-résultats des exercices ouverts à compter du 1er janvier 1996.
+6. (Abrogé).
 
 (1) Voir le décret n° 85-1304 du 9 décembre 1985, JO du 11).
 

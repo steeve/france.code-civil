@@ -9,11 +9,7 @@ mentionnés au I de l'article 219.
 II. Pour les personnes mentionnées au I qui sont placées sous le régime prévu à
 l'article 223 A, la contribution est due par la société mère. Elle est assise
 sur l'impôt sur les sociétés afférent au résultat d'ensemble et à la plus-value
-nette d'ensemble définis aux articles 223 B et 223 D. ((Elle prend en compte les
-crédits d'impôt pour augmentation des emplois dégagés par chaque société du
-groupe en application de l'article 220 octies. Pour le calcul du crédit d'impôt
-imputable au niveau du groupe, il est tenu compte des crédits et débits d'impôt
-des sociétés membres du groupe)) (M).
+nette d'ensemble définis aux articles 223 B et 223 D.
 
 III. Pour les personnes mentionnées au I qui sont placées sous le régime prévu à
 l'article 209 quinquies, la contribution est calculée d'après le montant de
@@ -28,8 +24,4 @@ visée à l'article 220 quinquies et l'imposition forfaitaire annuelle mentionn�
 V. Elle est établie et contrôlée comme l'impôt sur les sociétés et sous les
 mêmes garanties et sanctions.
 
-VI. Les modalités d'application du présent article sont fixées par décret (1).
-
-(M) Modification.
-
-(1) Voir les articles 366 B à 366 I de l'annexe III.
+VI. Les modalités d'application du présent article sont fixées par décret.

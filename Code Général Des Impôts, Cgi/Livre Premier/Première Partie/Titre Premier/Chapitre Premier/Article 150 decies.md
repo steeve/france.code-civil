@@ -20,7 +20,7 @@ Les opérations qui ne sont pas dénouées au 31 décembre sont prises en compte
 pour la détermination du profit de l'année au cours de laquelle elles sont
 dénouées.
 
-3. Le 6 de l'article 94 A, l'article 96 A et le 2 de l'article 200 A sont
+3. Le 11 de l'article 150-0 D, l'article 96 A et le 2 de l'article 200 A sont
 applicables.
 
 4. Un décret fixe les obligations déclaratives incombant aux intermédiaires (1).

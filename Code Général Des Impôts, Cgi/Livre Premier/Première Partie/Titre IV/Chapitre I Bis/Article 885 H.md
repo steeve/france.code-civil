@@ -1,11 +1,11 @@
 Article 885 H
 ----
-Les exonérations prévues en matière de droits de mutation par décès par le 1 et
-les ((3°, 4°, 5° et 6° du 2 de l'article 793)) (M) et par l'article 795 A ne
-sont pas applicables à l'impôt de solidarité sur la fortune. Il en est de même
-des règles d'évaluation propres aux droits de succession tenant au lieu de
-situation des immeubles et de l'absence de sanction pour défaut de déclaration
-pour le paiement de ces droits.
+Les exonérations prévues en matière de droits de mutation par décès par les
+articles 789 A et 789 B, le 1 et les 3°, 4°, 5° et 6° du 2 de l'article 793 et
+par l'article 795 A ne sont pas applicables à l'impôt de solidarité sur la
+fortune. Il en est de même des règles d'évaluation propres aux droits de
+succession tenant au lieu de situation des immeubles et de l'absence de sanction
+pour défaut de déclaration pour le paiement de ces droits.
 
 Toutefois les dispositions du 3° du 1 du même article relatives aux parts
 d'intérêts détenues dans un groupement forestier sont applicables lorsque ces
@@ -16,7 +16,7 @@ Les biens donnés à bail à long terme dans les conditions prévues aux article
 416-1 à L. 416-6, L. 416-8 et L. 416-9 du code rural, qui n'entrent pas dans le
 champ d'application de l'article 885 P, sont exonérés d'impôt de solidarité sur
 la fortune à concurrence des trois quarts lorsque la valeur totale des biens
-loués quel que soit le nombre de baux n'excède pas 500.000 F et pour moitié
+loués quel que soit le nombre de baux n'excède pas 500 000 F et pour moitié
 au-delà de cette limite, sous réserve que la durée du bail soit au minimum de
 dix-huit ans et que les descendants du preneur ne soient pas contractuellement
 privés de la faculté de bénéficier des dispositions de l'article L. 411-35 du
@@ -31,7 +31,5 @@ l'article 885 Q sont, sous réserve que ces parts soient représentatives
 d'apports constitués par des immeubles ou des droits immobiliers à destination
 agricole et que les baux à long terme consentis par le groupement répondent aux
 conditions prévues au troisième alinéa, exonérées à concurrence des trois
-quarts, si la valeur totale des parts détenues n'excède pas 500.000 F et pour
+quarts, si la valeur totale des parts détenues n'excède pas 500 000 F et pour
 moitié au-delà de cette limite.
-
-(M) Modification. [*Cf. Instruction 1996-05-10 7S-5-96*].
