@@ -12,5 +12,6 @@ Dans tous les cas, le juge, soit d'office, soit à la requête de l'une des
 personnes qui aurait qualité pour demander l'ouverture d'une tutelle, peut
 prononcer la révocation du mandat.
 
-Il peut aussi, même d'office, ordonner que les comptes lui seront soumis pour
-approbation.
+Il peut aussi, même d'office, ordonner que les comptes seront soumis au greffier
+en chef du tribunal d'instance pour approbation, sans préjudice de la faculté
+pour le juge d'exercer lui-même ce contrôle.
