@@ -1,16 +1,20 @@
 Article R161-53
 ----
 Pour les professions de santé réglementées par le code de la santé publique dont
-l'exercice est subordonné à l'enregistrement du diplôme par l'Etat, les
-informations portées dans la carte relatives à l'identité et à la situation du
-titulaire sont produites par les services du ministère chargé de la santé ou,
-s'il y a lieu, du ministère chargé des armées, d'une part, et par la Caisse
-nationale de l'assurance maladie des travailleurs salariés, d'autre part.
+l'exercice est subordonné à l'enregistrement du diplôme par l'Etat, les données
+d'identification mentionnées au 1° et au a du 2° de l'article R. 161-52 ainsi
+que les données mentionnées au b du 2° du même article sont issues des
+déclarations du demandeur, validées par :
 
-Pour les professionnels de santé relevant d'un ordre professionnel, l'instance
-ordinale compétente est consultée sur l'exactitude des informations qui le
-concernent.
+1° Le service ou l'organisme chargé, pour le compte de l'Etat, de
+l'enregistrement du diplôme et, pour les professionnels relevant d'un ordre
+professionnel, l'instance ordinale compétente ;
 
-Le titulaire d'une carte de professionnel de santé confirme préalablement à
-l'émission de sa carte l'exactitude des informations le concernant qui y seront
-portées.
+2° Pour les professionnels relevant des dispositions du statut général des
+militaires, par le ministre chargé des armées ;
+
+3° Et, s'il y a lieu, le directeur de la structure dans laquelle le demandeur
+exerce son activité.
+
+La production des données mentionnées au c du 2° de l'article R. 161-52 incombe
+à la Caisse nationale de l'assurance maladie des travailleurs salariés.
