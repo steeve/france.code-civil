@@ -15,5 +15,5 @@ jurés ;
 2° Les dispositions des articles 254 à 267, 282, 288 à 292, 293, alinéas 2 et 3,
 295 à 305 ne sont pas applicables ;
 
-3° Pour l'application des articles 359 et 360, les décisions sont prises à la
-majorité.
+3° Pour l'application des articles 359, 360 et 362, les décisions sont prises à
+la majorité.

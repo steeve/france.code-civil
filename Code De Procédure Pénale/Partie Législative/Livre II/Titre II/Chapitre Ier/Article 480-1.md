@@ -5,4 +5,4 @@ restitutions et des dommages-intérêts.
 
 En outre, le tribunal peut, par décision spéciale et motivée, ordonner que le
 prévenu qui s'est entouré de coauteurs ou de complices insolvables sera tenu
-solidairement des amendes.
+solidairement des amendes et des frais.

@@ -25,9 +25,4 @@ Les deux premiers alinéas de l'article 132-23 relatif à la période de sûret�
 sont applicables aux infractions prévues par le présent article. Toutefois,
 lorsque la victime est un mineur de quinze ans et que le meurtre est précédé ou
 accompagné d'un viol, de tortures ou d'actes de barbarie, la cour d'assises
-peut, par décision spéciale, soit porter la période de sûreté jusqu'à trente
-ans, soit, si elle prononce la réclusion criminelle à perpétuité, décider
-qu'aucune des mesures énumérées à l'article 132-23 ne pourra être accordée au
-condamné ; en cas de commutation de la peine, et sauf si le décret de grâce en
-dispose autrement, la période de sûreté est alors égale à la durée de la peine
-résultant de la mesure de grâce.
+peut, par décision spéciale, porter la période de sûreté jusqu'à trente ans.

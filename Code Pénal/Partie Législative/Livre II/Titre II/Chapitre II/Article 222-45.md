@@ -8,5 +8,3 @@ droits civiques, civils et de famille ;
 
 2° L'interdiction, suivant les modalités prévues par l'article 131-27, d'exercer
 une fonction publique ;
-
-3° La confiscation prévue par l'article 131-21.

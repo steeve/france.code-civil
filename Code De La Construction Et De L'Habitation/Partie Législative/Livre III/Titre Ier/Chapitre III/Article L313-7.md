@@ -1,12 +1,11 @@
 Article L313-7
 ----
 L'Agence nationale pour la participation des employeurs à l'effort de
-construction [*définition*] est un établissement public industriel et
-commercial. Elle est chargée [*attributions*] d'une mission générale
-d'élaboration des règles régissant les conditions d'activité des associations à
-caractère professionnel ou interprofessionnel agréées aux fins de participer à
-la collecte des sommes définies à l'article L. 313-1 et de contrôle de leur
-gestion.
+construction est un établissement public industriel et commercial. Elle est
+chargée d'une mission générale d'élaboration des règles régissant les conditions
+d'activité des associations à caractère professionnel ou interprofessionnel
+agréées aux fins de participer à la collecte des sommes définies à l'article L.
+313-1 et de contrôle de leur gestion.
 
 A ce titre, elle propose aux ministres intéressés :
 
@@ -47,9 +46,22 @@ c) Elle peut demander la communication de tous documents comptables ;
 d) Elle propose au ministre chargé du logement la désignation de ceux de ses
 agents habilités à exercer les contrôles nécessaires à l'accomplissement des
 missions définies aux alinéas précédents. Ces agents sont astreints au secret
-professionnel dans les conditions et sous les peines prévues à l'article 378 du
-code pénal. Ce secret ne peut leur être opposé, sauf par les auxiliaires de
+professionnel dans les conditions et sous les peines prévues à l'article 226-13
+du code pénal. Ce secret ne peut leur être opposé, sauf par les auxiliaires de
 justice.
+
+A la demande du ministre chargé du logement, l'Agence nationale pour la
+participation des employeurs à l'effort de construction peut contrôler les
+opérations réalisées à l'aide de fonds provenant de la participation des
+employeurs à l'effort de construction par les organismes qui n'ont pas le statut
+d'organisme agréé pour collecter cette participation. A ce titre, elle a accès à
+tous les livres, pièces, documents et justifications nécessaires à l'exercice de
+son contrôle.
+
+Les dispositions de l'alinéa précédent ne s'appliquent pas aux organismes
+d'habitations à loyer modéré et aux sociétés d'économie mixte exerçant à titre
+principal une activité de construction, d'acquisition ou de gestion de logements
+sociaux.
 
 L'agence nationale établit un rapport annuel sur l'évolution de l'ensemble des
 sommes investies au titre de la participation des employeurs à l'effort de

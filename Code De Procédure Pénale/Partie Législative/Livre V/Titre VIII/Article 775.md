@@ -1,8 +1,7 @@
 Article 775
 ----
 Le bulletin n° 2 est le relevé des fiches du casier judiciaire applicables à la
-même personne, à l'exclusion de celles concernant les décisions suivantes
-[*catégories*] :
+même personne, à l'exclusion de celles concernant les décisions suivantes :
 
 1° Les décisions prononcées en vertu des articles 2, 8, 15, 16, 18 et 28 de
 l'ordonnance n. 45-174 du 2 février 1945 modifiée, relative à l'enfance
@@ -16,39 +15,21 @@ en application de l'article 775-1 ;
 4° Les condamnations assorties du bénéfice du sursis, avec ou sans mise à
 l'épreuve, lorsqu'elles doivent être considérées comme non avenues ;
 
-5° Les condamnations effacées par la réhabilitation de plein droit ou judiciaire
-;
-
 6° Les condamnations auxquelles sont applicables les dispositions de l'article
 343 du code de justice militaire ;
-
-7° En matière de redressement judiciaire, les jugements prononçant la faillite
-personnelle ou l'interdiction prévue par l'article 192 de la loi n. 85-98 du 25
-janvier 1985 précitée lorsque ces mesures sont effacées par un jugement de
-clôture pour extinction du passif, par la réhabilitation ou à l'expiration d'un
-délai de cinq ans à compter du jour où ces condamnations sont devenues
-définitives, ainsi que le jugement prononçant la liquidation judiciaire à
-l'égard d'une personne physique, à l'expiration d'un délai de cinq ans à compter
-du jour où ce jugement est devenu définitif ou après le prononcé d'un jugement
-de clôture pour extinction du passif.
-
-Toutefois, si la durée de la faillite personnelle ou de l'interdiction est
-supérieure à cinq ans, la condamnation relative à ces mesures demeure mentionnée
-au bulletin n. 2 pendant la même durée ;
-
-8° Les décisions disciplinaires effacées par la réhabilitation ;
 
 9° Les dispositions prononçant la déchéance de l'autorité parentale ;
 
 10° Les arrêtés d'expulsion abrogés ou rapportés ;
 
-11° Les condamnations prononcées sans sursis en application des articles 43-1 à
-43-5 et 43-8 du code pénal, à l'expiration d'un délai de cinq ans à compter du
-jour où elles sont devenues définitives.
+11° Les condamnations prononcées sans sursis en application des articles 131-5 à
+131-11 du code pénal, à l'expiration d'un délai de cinq ans à compter du jour où
+elles sont devenues définitives. Le délai est de trois ans s'il s'agit d'une
+condamnation à une peine de jours-amende.
 
 Toutefois, si la durée de l'interdiction, déchéance ou incapacité, prononcée en
-application de l'article 43-1, est supérieure à cinq ans, la condamnation
-demeure mentionnée au bulletin n° 2 pendant la même durée ;
+application des articles 131-10 et 131-11, est supérieure à cinq ans, la
+condamnation demeure mentionnée au bulletin n° 2 pendant la même durée ;
 
 12° Les déclarations de culpabilité assorties d'une dispense de peine ou d'un
 ajournement du prononcé de celle-ci ;

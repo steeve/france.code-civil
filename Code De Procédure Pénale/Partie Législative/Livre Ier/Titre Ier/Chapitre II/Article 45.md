@@ -2,10 +2,9 @@ Article 45
 ----
 Le procureur de la République près le tribunal de grande instance occupe le
 siège du ministère public devant le tribunal de police pour les contraventions
-lorsque la peine attachée à l'infraction poursuivie excède dix jours
-d'emprisonnement ou 3.000 F d'amende. Il peut l'occuper également en toute
-matière, s'il le juge à propos, au lieu et place du commissaire de police qui
-exerce habituellement ces fonctions.
+de la 5e classe. Il peut l'occuper également en toute matière, s'il le juge à
+propos, au lieu et place du commissaire de police qui exerce habituellement ces
+fonctions.
 
 Toutefois, dans le cas où les infractions forestières sont soumises aux
 tribunaux de police, les fonctions du ministère public sont remplies, soit par

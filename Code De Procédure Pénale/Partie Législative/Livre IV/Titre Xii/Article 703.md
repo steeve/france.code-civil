@@ -19,6 +19,10 @@ La décision est signifiée à la requête du ministère public lorsqu'elle est
 rendue hors de la présence du requérant ou de son conseil. Elle peut être, selon
 le cas, frappée d'appel ou déférée à la Cour de cassation.
 
+En cas de rejet de la demande, le requérant est tenu au paiement des frais. La
+juridiction peut toutefois, par décision spéciale et motivée, l'en décharger en
+tout ou en partie.
+
 Mention de la décision par laquelle un condamné est relevé totalement ou
 partiellement d'une interdiction, déchéance, incapacité ou d'une mesure de
 publication est faite en marge du jugement ou de l'arrêt de condamnation et au

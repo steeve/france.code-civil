@@ -20,9 +20,9 @@ Moselle, du Bas-Rhin et du Haut-Rhin ;
 avec les dispositions de l'article L. 221-17 du code du travail.
 
 Tout annonceur qui effectue ou fait effectuer une publicité interdite en vertu
-des alinéas précédents est puni d'une amende de 1 000 F à 250 000 F. Le maximum
-de l'amende peut être porté à 50 p. 100 du montant des dépenses consacrées à la
-publicité illégale.
+des alinéas précédents est puni d'une amende de 250 000 F [*sanctions*]. Le
+maximum de l'amende peut être porté à 50 p. 100 du montant des dépenses
+consacrées à la publicité illégale.
 
 Le tribunal peut ordonner la cessation de la publicité interdite aux frais des
 personnes reconnues coupables des infractions définies aux alinéas qui

@@ -1,26 +1,19 @@
 Article 705
 ----
-Les tribunaux désignés ainsi qu'il est dit à l'article précédent sont compétents
-pour connaître des infractions ci-après énumérées et de celles qui leur sont
-connexes dans les affaires qui sont ou apparaîtraient d'une grande complexité :
+Pour la poursuite, l'instruction et, s'il s'agit de délits, le jugement des
+infractions prévues à l'article 704 et des infractions connexes, le procureur de
+la République, le juge d'instruction et la formation correctionnelle spécialisée
+du tribunal de grande instance visé au même article exercent une compétence
+concurrente à celle qui résulte de l'application des articles 43, 52, 382, 663
+(second alinéa) et 706-42.
 
-1° Infractions en matière économique, y compris l'abus de confiance,
-l'escroquerie, les infractions voisines de l'escroquerie et les infractions
-prévues par l'article 222-38 du code pénal et par l'article 415 du code des
-douanes ;
+Lorsqu'ils sont compétents pour la poursuite et l'instruction des infractions
+entrant dans le champ d'application de l'article 704, le procureur de la
+République et le juge d'instruction exercent leurs attributions sur toute
+l'étendue du ressort fixé en application de l'article 704.
 
-2° Infractions en matière de fraudes et de publicité mensongère ;
-
-3° Infractions en matière fiscale, douanière ou celles concernant les relations
-financières avec l'étranger ;
-
-4° Infractions concernant les banques, les établissements financiers, la bourse
-et le crédit ;
-
-5° Infractions concernant les sociétés civiles et commerciales ainsi que les
-banqueroutes et les délits assimilés aux banqueroutes ;
-
-6° Infractions concernant la construction et l'urbanisme ;
-
-7° Contrefaçons et infractions en matière de droit d'auteur ou des droits
-voisins des droits d'auteur et de secret de fabrique.
+La juridiction saisie reste compétente quelles que soient les incriminations
+retenues lors du règlement ou du jugement de l'affaire sous réserve de
+l'application des dispositions des articles 181 et 469. Si les faits constituent
+une contravention, le juge d'instruction prononce le renvoi de l'affaire devant
+le tribunal de police compétent en application de l'article 522.

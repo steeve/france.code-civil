@@ -1,6 +1,6 @@
 Article 777
 ----
-Le bulletin n° 3 est le relevé des condamnations suivantes prononcées pour crime
+Le bulletin n. 3 est le relevé des condamnations suivantes prononcées pour crime
 ou délit, lorsqu'elles ne sont pas exclues du bulletin n° 2 :
 
 1° Condamnations à des peines privatives de liberté d'une durée supérieure à
@@ -12,8 +12,8 @@ visées au 1° ci-dessus et d'une durée inférieure ou égale à deux ans, si l
 juridiction en a ordonné la mention au bulletin n° 3 ;
 
 3° Condamnations à des interdictions, déchéances ou incapacités prononcées sans
-sursis, en application des articles 43-1 à 43-5 du Code pénal, pendant la durée
-des interdictions, déchéances ou incapacités.
+sursis, en application des articles 131-6 à 131-11 du Code pénal, pendant la
+durée des interdictions, déchéances ou incapacités.
 
 Le bulletin n° 3 peut être réclamé par la personne qu'il concerne, il ne doit,
 en aucun cas, être délivré à un tiers.

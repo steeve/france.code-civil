@@ -14,3 +14,6 @@ l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commi
 3° La confiscation, suivant les modalités prévues par l'article 131-21, des
 sommes ou objets irrégulièrement reçus par l'auteur de l'infraction, à
 l'exception des objets susceptibles de restitution.
+
+4° Dans le cas prévu par l'article 432-7, l'affichage ou la diffusion de la
+décision prononcée, dans les conditions prévues par l'article 131-35.

@@ -1,8 +1,7 @@
 Article R154-4
 ----
-Les contraventions aux dispositions de l'article L. 144-3 sont passibles d'une
-amende de 1300 à 3000 F ; le tribunal peut en outre ordonner la mesure prévue à
-l'article L. 154-2.
+Les contraventions aux dispositions de l'article L. 144-3 sont passibles de
+l'amende prévue pour les contraventions de la 4è classe.
 
 Ces peines seront indépendantes des restitutions et des dommages-intérêts
 auxquels pourront donner lieu les faits incriminés.

@@ -36,3 +36,10 @@ ou ceux qui sont certifiés et d'utiliser des cartes de paiement ;
 10° La confiscation de la chose qui a servi ou était destinée à commettre
 l'infraction ou de la chose qui en est le produit. Toutefois, cette confiscation
 ne peut pas être prononcée en matière de délit de presse.
+
+11° L'interdiction pour une durée de cinq ans au plus d'exercer une activité
+professionnelle ou sociale dès lors que les facilités que procure cette activité
+ont été sciemment utilisées pour préparer ou commettre l'infraction. Cette
+interdiction n'est toutefois pas applicable à l'exercice d'un mandat électif ou
+de responsabilités syndicales. Elle n'est pas non plus applicable en matière de
+délit de presse.

@@ -7,17 +7,17 @@ leur identité au moyen du répertoire national d'identification des personnes
 physiques, le numéro d'identification ne pouvant en aucun cas servir de base à
 la vérification de l'identité :
 
-1° Les condamnations contradictoires ou par contumace et les condamnations par
-défaut non frappées d'opposition, prononcées pour crime ou délit par toute
-juridiction répressive, y compris les condamnations avec sursis, assorties ou
-non d'une mise à l'épreuve, ainsi que les déclarations de culpabilité assorties
-d'une dispense de peine ou d'un ajournement du prononcé de la peine.
+1° Les condamnations contradictoires ou par contumace ainsi que les
+condamnations par défaut, non frappées d'opposition, prononcées pour crime,
+délit ou contravention de la cinquième classe, ainsi que les déclarations de
+culpabilité assorties d'une dispense de peine ou d'un ajournement du prononcé de
+la peine sauf si la mention de la décision au bulletin n° 1 a été expressément
+exclue en application de l'article 132-59 du code pénal ;
 
-2° Les condamnations contradictoires ou par défaut non frappées d'opposition,
-prononcées pour contravention lorsque la peine prévue par la loi est supérieure
-à dix jours d'emprisonnement ou 3.000 F. d'amende, y compris les condamnations
-avec sursis et les déclarations de culpabilité assorties d'une dispense de peine
-ou d'un ajournement du prononcé de la peine ;
+2° Les condamnations contradictoires ou par défaut, non frappées d'opposition,
+pour les contraventions des quatre premières classes dès lors qu'est prise, à
+titre principal ou complémentaire, une mesure d'interdiction, de déchéance ou
+d'incapacité ;
 
 3° Les décisions prononcées par application des articles 8, 15, 16 et 28 de
 l'ordonnance n. 45-174 du 2 février 1945, modifiée, relative à l'enfance

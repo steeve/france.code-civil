@@ -7,6 +7,5 @@ s'abstient, sans motif légitime de déférer à la nouvelle convocation qui lui
 de la commission mixte, établit un rapport et le transmet au procureur de la
 République.
 
-L'infraction sera punie d'une amende de 3.000 F (1) à 6.000 F (1) [*montant*].
-
-(1) Amende applicable depuis le 1er janvier 1990.
+L'infraction sera punie de l'amende prévue pour les contraventions de la 5°
+classe [*(1) montant*].

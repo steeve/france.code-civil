@@ -11,10 +11,3 @@ confèrent ses fonctions ;
 
 3° Lorsqu'elle est commise par plusieurs personnes agissant en qualité d'auteur
 ou de complice.
-
-4° Lorsqu'elle s'accompagne du versement d'une rémunération.
-
-Dans le cas où l'infraction prévue par le 4° du présent article est commise à
-l'étranger, la loi pénale française est applicable par dérogation au deuxième
-alinéa de l'article 113-6 et les dispositions de la seconde phrase de l'article
-113-8 ne sont pas applicables.

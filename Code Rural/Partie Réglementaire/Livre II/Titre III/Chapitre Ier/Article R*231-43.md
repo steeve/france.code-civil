@@ -7,6 +7,3 @@ pratique la capture du poisson à l'aide de lignes dans les plans d'eau d'une
 superficie égale ou supérieure à 10 000 mètres carrés aménagés en pisciculture à
 des fins de valorisation touristique sans avoir acquitté la taxe prévue par le
 même article.
-
-En cas de récidive, la peine applicable sera celle prévue pour les
-contraventions de la 3e classe.

@@ -1,7 +1,7 @@
 Article R262-5
 ----
-Toute contravention aux articles L. 222-5 à L. 222-8 et R. 222-1 est passible
-d'une amende de 1.300 F à 3.000 F (1) [*montant*]. L'amende est appliquée autant
-de fois qu'il y a de salariés indûment employés ou rémunérés.
+Toute contravention aux articles L. 222-5 à L. 222-8 (1) et R. 222-1 est
+passible de l'amende prévue pour les contraventions de la 4° classe (2).
 
-(1) Amende applicable depuis le 1er janvier 1990.
+L'amende est appliquée autant de fois qu'il y a de salariés indûment employés ou
+rémunérés.

@@ -2,8 +2,8 @@ Article 308
 ----
 Dès l'ouverture de l'audience, l'emploi de tout appareil d'enregistrement ou de
 diffusion sonore, de caméra de télévision ou de cinéma, d'appareils
-photographiques est interdit sous peine d'une amende de 300 F à 120000 F, qui
-peut être prononcée dans les conditions prévues au titre VIII du livre IV.
+photographiques est interdit sous peine de [*taux*] 120.000 F d'amende, qui peut
+être prononcée dans les conditions prévues au titre VIII du livre IV.
 
 Toutefois, le président de la cour d'assises peut ordonner que les débats feront
 l'objet, sous son contrôle, d'un enregistrement sonore.

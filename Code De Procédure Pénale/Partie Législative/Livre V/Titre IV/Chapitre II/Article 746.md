@@ -1,6 +1,7 @@
 Article 746
 ----
-La suspension de la peine ne s'étend pas au paiement des dommages-intérêts.
+La suspension de la peine ne s'étend pas au paiement des frais du procès et des
+dommages-intérêts.
 
 Elle ne s'étend pas non plus aux incapacités, interdictions et déchéances
 résultant de la condamnation.

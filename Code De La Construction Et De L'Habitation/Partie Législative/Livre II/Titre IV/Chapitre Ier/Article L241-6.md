@@ -1,8 +1,8 @@
 Article L241-6
 ----
-Seront punies d'un emprisonnement d'un mois à cinq ans et d'une amende de 100 à
-120000 F, ou de l'une de ces deux peines seulement [*sanction*], les infractions
-aux dispositions des articles L. 214-6 à L. 214-9.
+Seront punies d'un emprisonnement de cinq ans et d'une amende de 120 000 F, ou
+de l'une de ces deux peines seulement [*sanction*], les infractions aux
+dispositions des articles L. 214-6 à L. 214-9.
 
 Seront punis des mêmes peines :
 

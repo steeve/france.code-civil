@@ -14,5 +14,5 @@ sursis avec mise à l'épreuve. Si un cautionnement a été fourni, les disposit
 des premier et deuxième alinéas de l'article 142-2 et du deuxième alinéa de
 l'article 142-3 sont applicables.
 
-Les sanctions pénales prononcées en application des articles 43-1 à 43-4 du Code
-pénal peuvent être déclarées exécutoires par provision.
+Les sanctions pénales prononcées en application des articles 131-6 à 131-11 du
+Code pénal peuvent être déclarées exécutoires par provision.

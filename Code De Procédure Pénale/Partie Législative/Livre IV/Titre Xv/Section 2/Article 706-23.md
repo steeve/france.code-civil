@@ -4,9 +4,7 @@ Pour l'application des articles 63, 77 et 154, si les nécessités de l'enquête
 de l'instruction relatives à l'une des infractions entrant dans le champ
 d'application de l'article 706-16 l'exigent, la garde à vue d'une personne
 majeure peut faire l'objet d'une prolongation supplémentaire de quarante-huit
-heures.
-
-Cette prolongation est autorisée soit, à la requête du procureur de la
+heures. Cette prolongation est autorisée soit, à la requête du procureur de la
 République, par le président du tribunal dans le ressort duquel s'exerce la
 garde à vue ou le juge délégué par lui, soit, dans les cas prévus par les
 articles 72 et 154, par le juge d'instruction.

@@ -2,8 +2,9 @@ Article R152-2
 ----
 Toute infraction à celles des dispositions des articles R. 122-23 et R. 122-28
 qui sont relatives à l'obligation pour le propriétaire d'assister aux visites de
-contrôle est punie d'une amende de 3000 à 6000 F. En cas de récidive, la peine
-d'amende peut être portée de 6000 à 12000 F.
+contrôle est punie de l'amende prévue au 5° de l'article 131-13 du code pénal.
+En cas de récidive, la peine d'amende est celle prévue pour les contravantions
+de 5e classe en récidive.
 
 Est punie des mêmes peines toute infraction aux dispositions de l'article R.
 122-29.

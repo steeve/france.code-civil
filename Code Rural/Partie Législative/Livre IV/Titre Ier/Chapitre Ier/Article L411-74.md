@@ -1,12 +1,11 @@
 Article L411-74
 ----
-Sera puni d'un emprisonnement de deux mois à deux ans et d'une amende de 2000 à
-200000 F ou de l'une de ces deux peines seulement, tout bailleur, tout preneur
-sortant ou tout intermédiaire qui aura, directement ou indirectement, à
-l'occasion d'un changement d'exploitant, soit obtenu ou tenté d'obtenir une
-remise d'argent ou de valeurs non justifiée, soit imposé ou tenté d'imposer la
-reprise de biens mobiliers à un prix ne correspondant pas à la valeur vénale de
-ceux-ci.
+Sera puni d'un emprisonnement de deux ans et d'une amende de 200 000 F ou de
+l'une de ces deux peines seulement, tout bailleur, tout preneur sortant ou tout
+intermédiaire qui aura, directement ou indirectement, à l'occasion d'un
+changement d'exploitant, soit obtenu ou tenté d'obtenir une remise d'argent ou
+de valeurs non justifiée, soit imposé ou tenté d'imposer la reprise de biens
+mobiliers à un prix ne correspondant pas à la valeur vénale de ceux-ci.
 
 Les sommes indûment perçues sont sujettes à répétition. Elles sont majorées d'un
 intérêt calculé à compter de leur versement et égal au taux pratiqué par la

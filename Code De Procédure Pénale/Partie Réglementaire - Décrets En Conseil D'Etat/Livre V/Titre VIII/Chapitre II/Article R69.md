@@ -1,7 +1,7 @@
 Article R69
 ----
 Le service du casier judiciaire national automatisé, dès qu'il est avisé,
-enregistre sur les fiches les mentions prescrites à l'article 769.
+enregistre sur les fiches les mentions prescrites aux articles 769 et 769-1.
 
 L'avis lui est adressé dans les plus brefs délais :
 
@@ -29,18 +29,18 @@ prévues par les arrêtés de libération conditionnelle et pour les arrêtés d
 révocation de liberté conditionnelle, par le ministre de la Justice ;
 
 6° Pour le paiement de l'amende par les trésoriers-payeurs généraux, les
-receveurs particuliers des finances et les percepteurs
+receveurs particuliers des finances et les percepteurs ;
 
 7° Pour les décisions prononçant une peine ou une dispense de peine après
 ajournement du prononcé de la peine, par le greffier de la juridiction qui a
 statué ;
 
-8° Pour les décisions prises en application des articles 55-1 du Code pénal,
-775-1 et 777-1 du Code de procédure pénale, par le greffier de la juridiction
-qui a statué.
+8° Pour les décisions prises en application des articles 132-21 du code pénal,
+702-1, 775-1 et 777-1 du code de procédure pénale, par le greffier de la
+juridiction qui a statué.
 
 Les homologations de concordat sont également enregistrées d'après l'avis qui en
 est donné par le greffier de la juridiction qui a prononcé.
 
 Ces avis peuvent être adressés au service du casier judiciaire national
-automatisé sous la forme d'un support magnétique.
+automatisé sous la forme d'un support magnétique ou par téléinformatique.

@@ -21,17 +21,17 @@ durée de la garde à vue.
 
 Le délai mentionné au premier alinéa est porté à trente-six heures lorsque
 l'enquête a pour objet la participation à une association de malfaiteurs prévue
-par les articles 265 et 266 du code pénal, les infractions de proxénétisme
-aggravé ou d'extorsion de fonds prévues par les articles 334-I à 335 et 400,
-premier alinéa, du code pénal ou une infraction commise en bande organisée
-prévue par les articles 257-3, 384 et 435 du code pénal.
+par l'article 450-1 du code pénal, les infractions de proxénétisme ou
+d'extorsion de fonds aggravés prévues par les articles 225-7, 225-9, 312-2 à
+312-5 et 312-7 du code pénal ou une infraction commise en bande organisée prévue
+par les articles 224-3, 225-8, 311-9, 312-6, 322-8 du code pénal.
 
 Le procureur de la République est, dans les meilleurs délais, informé par
 l'officier de police judiciaire qu'il est fait application des dispositions de
 l'alinéa précédent.
 
-[Dispositions déclarées non conformes à la Constitution par décision du Conseil
-constitutionnel n° 93-326 DC du 11 août 1993.]
+(Dispositions déclarées non conformes à la Constitution par décision du Conseil
+constitutionnel n° 93-326 DC du 11 août 1993).
 
 Le délai mentionné au premier alinéa est porté à soixante-douze heures lorsque
 la garde à vue est soumise à des règles particulières de prolongation.

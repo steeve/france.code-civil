@@ -1,12 +1,18 @@
 Article L362-4
 ----
-Le tribunal pourra prononcer à l'encontre de la personne condamnée en
-application de l'article L. 362-3 l'interdiction d'exercer, directement ou par
-personne interposée, pendant une durée maximale de cinq ans, l'activité
-professionnelle à l'occasion de laquelle l'infraction a été commise.
+Les personnes physiques coupables de l'infraction prévue à l'article L. 362-3
+encourent également les peines complémentaires suivantes :
 
-Toute violation de cette interdiction sera punie d'un emprisonnement de deux
-mois à deux ans [*durée*] et d'une amende de 2 000 F à 200 000 F (1) [*montant*]
-ou de l'une de ces deux peines seulement.
+1° L'interdiction, pour une durée de cinq ans au plus, d'exercer, directement ou
+par personne interposée, l'activité professionnelle dans l'exercice ou à
+l'occasion de l'exercice de laquelle l'infraction a été commise selon les
+modalités prévues par l'article 131-27 du code pénal ;
 
-(1) Amende applicable depuis le 3 janvier 1992.
+2° L'exclusion des marchés publics pour une durée de cinq ans au plus ;
+
+3° La confiscation des objets ayant servi directement ou indirectement à
+commettre l'infraction ou qui ont été utilisés à cette occasion, ainsi que de
+ceux qui en sont le produit et qui appartiennent au condamné ;
+
+4° L'affichage ou la diffusion de la décision prononcée, dans les conditions
+prévues par l'article 131-35 du code pénal.
