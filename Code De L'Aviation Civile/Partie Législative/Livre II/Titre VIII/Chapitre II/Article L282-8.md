@@ -1,6 +1,6 @@
 Article L282-8
 ----
-En vue d'assurer préventivement la sûreté des vols, tant en régime national
+I - En vue d'assurer préventivement la sûreté des vols, tant en régime national
 qu'international, les officiers de police judiciaire et, sur l'ordre et sous la
 responsabilité de ceux-ci, les agents de police judiciaire et les agents de
 police judiciaire adjoints mentionnés aux 1°, 1° bis et 1° ter de l'article 21
@@ -39,3 +39,16 @@ alinéas précédents.
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent
 article.
+
+II. - Les dispositions du I sont applicables en Polynésie française, dans les
+îles Wallis et Futuna, en Nouvelle-Calédonie et à Mayotte.
+
+Pour l'application du I dans les territoires et collectivités mentionnés à
+l'alinéa précédent :
+
+- les mots : ou ressortissants d'un Etat membre de la Communauté européenne sont
+supprimés ;
+
+- les mots : dans le département sont remplacés, respectivement, par les mots :
+en Polynésie française, dans les îles Wallis et Futuna, en Nouvelle-Calédonie et
+à Mayotte.
