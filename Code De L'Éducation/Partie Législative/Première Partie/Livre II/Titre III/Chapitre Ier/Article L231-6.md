@@ -6,8 +6,7 @@ Le Conseil supérieur de l'éducation statue en appel et en dernier ressort :
 par les conseils académiques de l'éducation nationale ;
 
 2° Sur les décisions disciplinaires et contentieuses rendues par les comités
-départementaux de la formation professionnelle, de la promotion sociale et de
-l'emploi ;
+départementaux de l'emploi ;
 
 3° Sur les décisions prises par la commission des titres d'ingénieurs
 relativement aux écoles privées légalement ouvertes qui demandent à délivrer les

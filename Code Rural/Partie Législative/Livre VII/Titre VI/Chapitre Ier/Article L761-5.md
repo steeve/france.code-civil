@@ -13,13 +13,17 @@ siège hors de ces départements. Cette cotisation est assise sur leurs gains ou
 rémunérations et précomptée par leurs employeurs au bénéfice de ce régime ;
 
 2° Une cotisation à la charge des assurés relevant du présent chapitre et
-entrant dans les catégories mentionnées aux 5° à 10° du II de l'article L. 325-1
-du code de la sécurité sociale. Cette cotisation est assise sur les avantages
-vieillesse d'un régime de base, d'un régime complémentaire ou d'un régime à la
-charge de l'employeur et sur les allocations et revenus de remplacement
-mentionnés à l'article L. 131-2 du code de la sécurité sociale et précomptée par
-les organismes débiteurs au bénéfice de ce régime lors de chaque versement de
-ces avantages ou allocations et versée à ce régime ;
+entrant dans les catégories visées aux 5° à 11° du II de l'article L. 325-1 du
+code de la sécurité sociale, assise sur les avantages de vieillesse d'un régime
+de base, d'un régime complémentaire ou d'un régime à la charge de l'employeur,
+que ces avantages soient servis au titre d'une législation française ou d'une
+législation d'un autre Etat, et sur les allocations et revenus de remplacement
+mentionnés à l'article L. 131-2 du même code. Les modalités de prise en compte
+des avantages de vieillesse acquis au titre de la législation d'un autre Etat
+pour le calcul de la cotisation prélevée sur les avantages servis par un régime
+français sont déterminées par décret. La cotisation est précomptée par les
+organismes débiteurs français au bénéfice du régime local lors de chaque
+versement de ces avantages ou allocations et versée directement à ce régime ;
 
 3° Une cotisation à la charge des employeurs mentionnés au 1° du présent
 article.

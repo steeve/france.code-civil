@@ -1,8 +1,8 @@
 Article D910-2
 ----
-Le comité régional de la formation professionnelle, de la promotion sociale et
-de l'emploi, lieu de concertation régionale des orientations à moyen terme des
-politiques de l'Etat, de la région et des partenaires sociaux, en matière
+Le comité de coordination régional de l'emploi et de la formation
+professionnelle, lieu de concertation régionale des orientations à moyen terme
+des politiques de l'Etat, de la région et des partenaires sociaux, en matière
 d'emploi et de formation professionnelle a pour mission de favoriser, en liaison
 avec le conseil économique et social régional, la mise en oeuvre dans la région
 d'une politique cohérente d'emploi et de formation professionnelle. A cette fin
@@ -54,9 +54,8 @@ région ;
 programmes de l'Union européenne relatifs à l'emploi et à la formation
 professionnelle.
 
-Il est informé des avis émis par les comités départementaux de la formation
-professionnelle, de la promotion sociale et de l'emploi sur le programme
-régional.
+Il est informé des avis émis par les comités départementaux de l'emploi sur le
+programme régional.
 
 Il reçoit également communication des avis ou observations du Comité national de
 coordination des programmes régionaux d'apprentissage et de formation

@@ -9,6 +9,12 @@ représentant par vote secret au scrutin uninominal à un tour.
 
 L'administrateur peut demander la désignation d'un ou plusieurs experts.
 
+L'administrateur informe par courrier recommandé avec accusé de réception le
+maire de la commune et le président de l'établissement public de coopération
+intercommunale, s'il existe, du fait qu'une procédure de redressement judiciaire
+vient d'être ouverte vis-à-vis d'une société ayant son siège sur le territoire
+de la commune.
+
 Aucun parent ou allié jusqu'au quatrième degré inclusivement du chef
 d'entreprise ou des dirigeants, s'il s'agit d'une personne morale, ne peut être
 désigné à l'une des fonctions prévues au présent article sauf dans les cas où

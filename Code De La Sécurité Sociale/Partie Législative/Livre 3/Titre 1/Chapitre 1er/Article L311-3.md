@@ -83,28 +83,26 @@ et des mannequins mentionnés à l'alinéa précédent, par les entreprises,
 et L. 761-2 du code du travail, dont les fournitures d'articles, d'informations,
 de reportages, de dessins ou de photographies à une agence de presse ou à une
 entreprise de presse quotidienne ou périodique, sont réglées à la pige, quelle
-que soit la nature du lien juridique qui les unit à cette agence ou entreprise.
+que soit la nature du lien juridique qui les unit à cette agence ou entreprise ;
 
-17°) Les personnes agréées qui accueillent des personnes âgées ou handicapées
+17° Les personnes agréées qui accueillent des personnes âgées ou handicapées
 adultes et qui ont passé avec celles-ci à cet effet un contrat conforme aux
-dispositions du cinquième alinéa de l'article 6 de la loi n° 89-475 du 10
-juillet 1989 relative à l'accueil par des particuliers, à leur domicile, à titre
-onéreux, de personnes âgées ou handicapées adultes.
+dispositions de l'article L. 442-1 du code de l'action sociale et des familles ;
 
 18°) Les vendeurs-colporteurs de presse et porteurs de presse, visés aux
 paragraphes I et II de l'article 22 de la loi n° 91-1 du 3 janvier 1991 tendant
 au développement de l'emploi par la formation dans les entreprises, l'aide à
 l'insertion sociale et professionnelle et l'aménagement du temps de travail,
 pour l'application du troisième plan pour l'emploi, non immatriculés au registre
-du commerce ou au registre des métiers.
+du commerce ou au registre des métiers ;
 
 19°) Les avocats salariés, sauf pour les risques gérés par la Caisse nationale
 des barreaux français visée à l'article L. 723-1 à l'exception des risques
-invalidité-décès.
+invalidité-décès ;
 
 20°) Les vendeurs à domicile visés au I de l'article 3 de la loi n° 93-121 du 27
 janvier 1993 portant diverses mesures d'ordre social, non immatriculés au
-registre du commerce ou au registre spécial des agents commerciaux.
+registre du commerce ou au registre spécial des agents commerciaux ;
 
 21°) Les personnes qui exercent à titre occasionnel pour le compte de l'Etat,
 d'une collectivité territoriale ou d'un de leurs établissements publics

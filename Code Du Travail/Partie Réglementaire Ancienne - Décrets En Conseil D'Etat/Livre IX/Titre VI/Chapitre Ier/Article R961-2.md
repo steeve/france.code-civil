@@ -7,13 +7,14 @@ a) Par le Premier ministre, après avis du Conseil national de la formation
 professionnelle, de la promotion sociale et de l'emploi ou de sa commission
 permanente, pour les stages organisés et financés au niveau national ;
 
-b) Par le préfet de région, après avis du comité régional de la formation
-professionnelle, de la promotion sociale et de l'emploi, pour les stages
-organisés et financés au niveau régional ;
+b) Par le préfet de région, après avis du comité de coordination régional de
+l'emploi et de la formation professionnelle, pour les stages organisés et
+financés au niveau régional ;
 
-c) Par le préfet de département, après avis du comité régional de la formation
-professionnelle, de la promotion sociale et de l'emploi, pour les stages
-organisés et financés au niveau départemental.
+c) Par le préfet de département, après avis du comité de coordination régional
+de l'emploi et de la formation professionnelle,
+
+pour les stages organisés et financés au niveau départemental.
 
 La consultation des organismes mentionnés ci-dessus porte sur les programmes au
 titre desquels sont organisés les stages dont l'agrément est envisagé.

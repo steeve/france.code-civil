@@ -1,7 +1,7 @@
 Article D910-4
 ----
-Le comité régional de la formation professionnelle, de la promotion sociale et
-de l'emploi se réunit au moins deux fois par an [*périodicité*].
+Le comité de coordination régional de l'emploi et de la formation
+professionnelle se réunit au moins deux fois par an [*périodicité*].
 
 Un règlement intérieur, établi par les deux présidents, approuvé par la majorité
 des membres du comité et arrêté par le préfet de région, précise ses conditions

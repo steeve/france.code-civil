@@ -46,7 +46,11 @@ présent code ;
 d) Des périodes pendant lesquelles l'assuré a bénéficié, en cas d'absence
 complète d'activité, d'un revenu de remplacement de la part de son entreprise en
 application d'un accord professionnel national mentionné au dernier alinéa de
-l'article L. 352-3 du code du travail.
+l'article L. 352-3 du code du travail ;
+
+e) Des périodes de versement de l'allocation de congé solidarité prévue à
+l'article 15 de la loi n° 2000-1207 du 13 décembre 2000 d'orientation pour
+l'outre-mer.
 
 5° Les sommes correspondant à la prise en compte par les régimes d'assurance
 vieillesse de base mentionnés au titre V du livre III, aux 1° et 2° de l'article
@@ -66,10 +70,10 @@ assurés ;
 8° Les frais de gestion administrative du fonds correspondant à des opérations
 de solidarité.
 
-Les sommes mentionnées aux a, b et d du 4° et au 7° sont calculées sur une base
-forfaitaire déterminée après avis des conseils d'administration des caisses des
-régimes d'assurance vieillesse de base concernées dans des conditions fixées par
-décret en Conseil d'Etat.
+Les sommes mentionnées aux a, b, d et e du 4° et au 7° sont calculées sur une
+base forfaitaire déterminée après avis des conseils d'administration des caisses
+des régimes d'assurance vieillesse de base concernées dans des conditions fixées
+par décret en Conseil d'Etat.
 
 Les sommes mentionnées au c du 4° sont calculées sur une base forfaitaire
 déterminée par arrêté conjoint du ministre chargé de la sécurité sociale et du

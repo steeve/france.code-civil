@@ -11,4 +11,6 @@ et notamment pour certains des travaux qui font l'objet d'une surveillance
 médicale spéciale au sens de la réglementation relative à la médecine du
 travail. Cet arrêté fixe également les conditions dans lesquelles le directeur
 départemental du travail et de l'emploi peut exceptionnellement autoriser une
-dérogation à cette interdiction.
+dérogation à cette interdiction ;
+
+3° Pour remplacer un médecin du travail.

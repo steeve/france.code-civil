@@ -1,8 +1,8 @@
 Article L711-3
 ----
-Les parties signataires de l'accord instituant l'organisme collecteur mentionné
-à l'article L. 711-1 définissent chaque année par avenant, agréé par arrêté du
-représentant de l'Etat, la répartition des ressources du fonds entre :
+Une délibération du conseil d'administration de l'organisme collecteur mentionné
+à l'article L. 711-1, agréé par arrêté du représentant de l'Etat, définit chaque
+année la répartition des ressources entre :
 
 1° Les actions de formation professionnelle en cours d'emploi ;
 
@@ -10,5 +10,5 @@ représentant de l'Etat, la répartition des ressources du fonds entre :
 
 3° Les actions d'insertion et de formation pour les demandeurs d'emploi.
 
-A défaut d'un tel avenant, cette répartition est fixée par un arrêté du
+A défaut d'un tel agrément, cette répartition est fixée par un arrêté du
 représentant de l'Etat à Mayotte.

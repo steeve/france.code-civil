@@ -56,12 +56,12 @@ permanent des hauts fonctionnaires mentionné à l'article L. 910-1 et la décis
 est prise après avis de la commission permanente du Conseil national de la
 formation professionnelle, de la promotion sociale et de l'emploi. Lorsque les
 conventions sont passées par la région, la décision est prise après avis du
-comité régional de la formation professionnelle, de la promotion sociale et de
-l'emploi. Les mêmes procédures sont applicables en cas de dénonciation.
+comité de coordination régional de l'emploi et de la formation professionnelle.
+Les mêmes procédures sont applicables en cas de dénonciation.
 
 Les avis de la commission permanente du Conseil national de la formation
-professionnelle, de la promotion sociale et de l'emploi ou du comité régional de
-la formation professionnelle, de la promotion sociale et de l'emploi portent
+professionnelle, de la promotion sociale et de l'emploi ou du comité de
+coordination régional de l'emploi et de la formation professionnelle portent
 notamment sur les garanties de tous ordres présentées par le projet et sur son
 intérêt eu égard aux besoins de la formation professionnelle dans la zone
 d'action considérée.
@@ -113,18 +113,18 @@ conditions fixées par le décret prévu à l'article L. 119-4 ci-après.
 
 Le cas échéant, l'Etat ou la région peut désigner un administrateur provisoire
 chargé d'assurer, pour le compte de l'organisme gestionnaire, l'achèvement des
-formations en cours. "
+formations en cours.
 
-" Art. L. 116-7. - Il est interdit, sous les peines prévues à l'article L.
-441-13 du code de l'éducation de donner le nom de centre de formation
-d'apprentis à un établissement qui ne fait pas l'objet d'une convention
-répondant aux règles posées par le présent chapitre.
+Art. L. 116-7. - Il est interdit, sous les peines prévues à l'article L. 441-13
+du code de l'éducation de donner le nom de centre de formation d'apprentis à un
+établissement qui ne fait pas l'objet d'une convention répondant aux règles
+posées par le présent chapitre.
 
 Est puni des mêmes peines, quiconque exerce des fonctions de direction,
 d'enseignement ou de formation dans un centre de formation d'apprentis, alors
 qu'il est sous le coup d'une des mesures de suspension ou d'interdiction prévues
-à l'article précédent. "
+à l'article précédent.
 
-" Art. L. 116-8. - Sous réserve de ce qui est dit à l'article précédent, les
+Art. L. 116-8. - Sous réserve de ce qui est dit à l'article précédent, les
 centres de formation d'apprentis ne sont pas soumis aux dispositions du titre IV
-du Livre IV du code de l'éducation. "
+du Livre IV du code de l'éducation.

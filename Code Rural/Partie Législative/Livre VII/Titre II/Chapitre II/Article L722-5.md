@@ -3,7 +3,7 @@ Article L722-5
 L'importance minimale de l'exploitation ou de l'entreprise agricole requise pour
 que leurs dirigeants soient considérés comme non salariés agricoles est fixée à
 la moitié de la surface minimum d'installation définie pour chaque département
-ou partie de département, par application de l'article L. 312-5 compte tenu,
+ou partie de département, par application de l'article L. 312-6 compte tenu,
 s'il y a lieu, des coefficients d'équivalence applicables aux productions
 agricoles spécialisées.
 

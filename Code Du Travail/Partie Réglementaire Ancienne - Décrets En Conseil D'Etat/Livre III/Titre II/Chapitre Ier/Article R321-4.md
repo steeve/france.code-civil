@@ -28,9 +28,9 @@ en outre, tenu d'indiquer au directeur départemental du travail et de l'emploi
 qualification du ou des salariés dont le licenciement est envisagé ;
 
 2° Les modifications qui ont pu être apportées au calendrier prévisionnel des
-licenciements, aux mesures prévues aux articles L. 321-4 et L. 321-5, au plan
-social mentionné à l'article L. 321-4-1 ainsi qu'au calendrier de leur mise en
-oeuvre.
+licenciements, aux mesures prévues aux articles L. 321-4 et L. 321-5, au plan de
+sauvegarde de l'emploi mentionné à l'article L. 321-4-1 ainsi qu'au calendrier
+de leur mise en oeuvre.
 
 Toutefois, lorsque le comité d'entreprise tient une troisième réunion en
 application des dispositions de l'article L. 321-7-1, l'employeur n'adresse au
@@ -40,10 +40,10 @@ modifications éventuelles apportées au projet de licenciement lors de celle-ci
 
 Lorsqu'il n'existe dans l'entreprise ni comité d'entreprise, ni délégués du
 personnel, [*absence de représentants du personnel*] les informations visées à
-l'article L. 321-4, le plan social mentionné à l'article L. 321-4-1 et les
-renseignements prévus au 1° du deuxième alinéa du présent article sont adressés
-au directeur départemental du travail et de l'emploi en même temps que la
-notification.
+l'article L. 321-4, le plan de sauvegarde de l'emploi mentionné à l'article L.
+321-4-1 et les renseignements prévus au 1° du deuxième alinéa du présent article
+sont adressés au directeur départemental du travail et de l'emploi en même temps
+que la notification.
 
 En cas d'absence de comité d'entreprise ou de délégués du personnel par suite
 d'une carence constatée dans les conditions prévues aux articles L. 433-13 et L.

@@ -5,11 +5,9 @@ ne bénéficie pas immédiatement d'un contrat de travail à durée indétermin�
 l'utilisateur, il a droit, à titre de complément de salaire, à une indemnité
 destinée à compenser la précarité de sa situation.
 
-Cette indemnité est calculée en fonction de la durée de la mission et de la
-rémunération du salarié. Son taux est fixé par voie de convention ou accord
-collectif de travail ; à défaut, le taux minimum de l'indemnité est fixé par un
-décret pris après avis des organisations les plus représentatives des employeurs
-et des salariés intéressés.
+Cette indemnité est égale à 10 % de la rémunération totale brute due au salarié.
+Une convention ou un accord collectif de travail peut déterminer un taux plus
+élevé.
 
 Cette indemnité, qui s'ajoute à la rémunération totale brute due au salarié,
 doit être versée par l'entreprise de travail temporaire à l'issue de chaque

@@ -8,10 +8,10 @@ par air. Des décrets fixent, pour chaque catégorie d'entreprises de transport,
 les modalités d'application du présent alinéa.
 
 Les employeurs relevant du présent titre doivent [*obligation*] organiser des
-services médicaux du travail.
+services de santé au travail.
 
 Les administrations et établissements publics de l'Etat visés à l'article 2 de
 la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à
 la fonction publique de l'Etat peuvent faire appel, le cas échéant, aux services
-de médecine du travail relevant du présent titre dans des conditions fixées par
+de santé au travail relevant du présent titre dans des conditions fixées par
 décret en Conseil d'Etat.

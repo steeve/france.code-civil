@@ -28,3 +28,8 @@ départementaux et du conseil national dès qu'elle est devenue définitive.
 
 Les peines et interdictions prévues au présent article s'appliquent sur
 l'ensemble du territoire de la République.
+
+Lorsque l'instance disciplinaire est informée de l'engagement, à la suite d'un
+tel signalement, de poursuites pénales pour violation du secret professionnel ou
+toute autre infraction commise à l'occasion de ce signalement, elle sursoit à
+statuer jusqu'à la décision définitive de la juridiction pénale.

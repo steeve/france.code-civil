@@ -6,6 +6,9 @@ conventions sont bilatérales ou multilatérales. Elles déterminent notamment :
 
 - la nature, l'objet, la durée et les effectifs des stages qu'elles prévoient ;
 
+- les modalités de formation, en particulier lorsqu'il s'agit de formations
+réalisées en tout ou en partie à distance ;
+
 - les moyens pédagogiques et techniques mis en oeuvre ;
 
 - les conditions de prise en charge des frais de formation pédagogique des

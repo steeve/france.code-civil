@@ -1,8 +1,7 @@
 Article L237-2
 ----
-Les comités départementaux de la formation professionnelle, de la promotion
-sociale et de l'emploi sont notamment appelés à donner leur avis sur les
-demandes de reconnaissance par l'Etat présentées par les établissements
+Les comités départementaux de l'emploi sont notamment appelés à donner leur avis
+sur les demandes de reconnaissance par l'Etat présentées par les établissements
 d'enseignement technique privés et par les établissements d'enseignement et de
 formation professionnelle agricoles privés.
 

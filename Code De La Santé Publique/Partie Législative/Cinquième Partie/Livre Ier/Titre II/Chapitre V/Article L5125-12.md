@@ -10,3 +10,9 @@ Seules peuvent être retenues les communes dont au moins 50 % des habitants sont
 desservis par l'officine de manière satisfaisante. Dans ce cas, la totalité des
 habitants de la commune est considérée comme desservie par l'officine pour
 l'application de l'alinéa ci-dessus.
+
+L'arrêté prévu au premier alinéa détermine également la ou les communes de moins
+de 2 500 habitants dont au moins 50 % des habitants sont desservis de manière
+satisfaisante par une officine située dans une commune de 2 500 habitants et
+plus. Dans ce cas, la totalité des habitants de la commune est considérée comme
+desservie par l'officine.

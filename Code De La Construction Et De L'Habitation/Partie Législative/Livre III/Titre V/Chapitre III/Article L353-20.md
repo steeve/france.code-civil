@@ -17,6 +17,10 @@ Les dispositions de la loi n° 89-462 du 6 juillet 1989 précitée sont applicab
 au contrat de sous-location dans les conditions prévues au III de l'article 40
 de cette loi.
 
+En cas de sous-location meublée, le loyer peut être majoré du prix de location
+des meubles. Ce prix est fixé et peut être révisé dans les conditions de
+l'article L. 442-8-3-1.
+
 Les dispositions des conventions mentionnées à l'article L. 351-2 prévues aux
 huitième, neuvième, dixième et onzième alinéas de l'article L. 353-2
 s'appliquent aux contrats de sous-location.

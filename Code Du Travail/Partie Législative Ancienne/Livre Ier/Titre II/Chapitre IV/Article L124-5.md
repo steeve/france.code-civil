@@ -17,10 +17,19 @@ situation mentionnée à l'article L. 124-4-4.
 
 Toutefois, lorsque la durée restant à courir du contrat rompu est supérieure à
 quatre semaines, les obligations visées aux alinéas précédents peuvent être
-satisfaites au moyen de trois contrats successifs au plus [*nombre*].
+satisfaites au moyen de trois contrats successifs au plus.
 
 La rupture du contrat de mise à disposition défini à l'article L. 124-3 ne
 constitue pas un cas de force majeure.
 
-La résiliation du contrat de travail [*rupture*] à l'initiative du salarié ouvre
-droit à des dommages-intérêts correspondant au préjudice subi.
+La résiliation du contrat de travail à l'initiative du salarié ouvre droit à des
+dommages-intérêts correspondant au préjudice subi.
+
+Les dispositions de l'alinéa précédent ne sont pas applicables lorsque le
+contrat est rompu par le salarié qui justifie d'une embauche pour une durée
+indéterminée. Sauf accord des parties, le salarié est alors tenu de respecter
+une période de préavis dont la durée est calculée à raison d'un jour par semaine
+compte tenu de la durée totale du contrat, renouvellement inclus, si celui-ci
+comporte un terme précis, ou de la durée effectuée lorsque le contrat ne
+comporte pas un terme précis, sans que cette période puisse être inférieure à un
+jour ni supérieure à deux semaines dans les deux cas.

@@ -41,11 +41,7 @@ d'une durée supérieure à un seuil fixé par décret en Conseil d'Etat n'est
 autorisée que pour les personnes ayant fait l'objet de l'agrément visé au V de
 l'article L. 322-4-16 ;
 
-b) Aucune mise à disposition auprès d'un même employeur ne peut dépasser une
-durée maximale fixée par décret en Conseil d'Etat. Toutefois, cette durée peut
-être renouvelée une fois, après accord de l'Agence nationale pour l'emploi et
-dans des conditions fixées par décret, s'il s'avère qu'un tel prolongement est
-nécessaire pour l'insertion du salarié ;
+b) (Paragraphe abrogé)
 
 c) La durée totale des mises à disposition d'un même salarié ne peut excéder une
 durée fixée par décret en Conseil d'Etat, par périodes de douze mois à compter
@@ -85,7 +81,7 @@ dispositions du deuxième alinéa de l'article L. 125-3.
 En aucun cas une personne mise à disposition par une association intermédiaire
 ne peut être embauchée pour effectuer des travaux particulièrement dangereux qui
 figurent sur une liste établie par arrêté du ministre du travail ou du ministre
-de l'agriculture [*interdiction d'emploi*].
+de l'agriculture.
 
 La surveillance de la santé des personnes visées au deuxième alinéa du 1, au
 titre de leur activité, est assurée par un examen de médecine préventive dans

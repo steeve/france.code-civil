@@ -1,7 +1,7 @@
 Article L761-21
 ----
 Pour les assurés des professions agricoles et forestières mentionnés à l'article
-L. 761-18, le gain annuel moyen servant de base au calcul des rentes et à la
+L. 761-19, le gain annuel moyen servant de base au calcul des rentes et à la
 majoration de celles déjà liquidées est fixé en application des dispositions de
 l'article 938 du code local des assurances sociales. Cette fixation prend effet
 à la même date que les dispositions prévues en faveur des assurés agricoles

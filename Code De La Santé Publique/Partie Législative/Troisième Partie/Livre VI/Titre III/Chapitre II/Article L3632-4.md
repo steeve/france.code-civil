@@ -4,12 +4,12 @@ Dans l'exercice des missions définies au premier alinéa de l'article L. 3632-1
 les fonctionnaires et médecins agréés mentionnés au même article ont accès, à
 l'exclusion des domiciles ou parties de locaux servant de domicile, aux lieux,
 locaux, enceintes, installations ou établissements où se déroule une compétition
-ou une manifestation organisée ou agréée par une fédération ou un entraînement y
-préparant, ainsi qu'aux établissements dans lesquels sont pratiquées des
-activités physiques et sportives mentionnées à l'article 47 de la loi n° 84-610
-du 16 juillet 1984 relative à l'organisation et à la promotion des activités
-physiques et sportives. Ce droit d'accès s'étend aux annexes de ces locaux,
-enceintes, installations ou établissements.
+ou une manifestation organisée ou autorisée par une fédération ou un
+entraînement y préparant, ainsi qu'aux établissements dans lesquels sont
+pratiquées des activités physiques et sportives mentionnées à l'article 47 de la
+loi n° 84-610 du 16 juillet 1984 relative à l'organisation et à la promotion des
+activités physiques et sportives. Ce droit d'accès s'étend aux annexes de ces
+locaux, enceintes, installations ou établissements.
 
 Ils ne peuvent accéder à ces lieux, locaux, enceintes, installations ou
 établissements qu'entre six heures et vingt et une heures, ou à tout moment dès

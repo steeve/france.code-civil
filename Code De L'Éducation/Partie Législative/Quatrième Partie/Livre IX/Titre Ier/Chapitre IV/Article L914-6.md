@@ -25,4 +25,4 @@ Le présent article est également applicable à tout chef d'établissement
 d'enseignement du second degré privé ou d'enseignement technique privé. Les
 chefs d'établissement d'enseignement technique sont traduits, sur la plainte des
 inspecteurs généraux de l'éducation nationale, devant le comité départemental de
-la formation professionnelle, de la promotion sociale et de l'emploi.
+l'emploi.

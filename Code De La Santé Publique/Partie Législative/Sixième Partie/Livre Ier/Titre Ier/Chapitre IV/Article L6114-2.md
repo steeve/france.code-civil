@@ -6,7 +6,7 @@ mentionnés aux articles L. 6161-4 et L. 6161-6, déterminent les orientations
 stratégiques des établissements, en tenant compte des objectifs du schéma
 d'organisation sanitaire, et définissent les conditions de mise en oeuvre de ces
 orientations, notamment dans le cadre du projet médical et du projet
-d'établissement approuvé.
+d'établissement approuvé. Ils comprennent un volet social.
 
 A cet effet, ils décrivent les transformations que l'établissement s'engage à
 opérer dans ses activités, son organisation, sa gestion et dans ses modes de
@@ -23,8 +23,9 @@ communautés d'établissements de santé mentionnés aux articles L. 6121-5 et L
 6121-6 ainsi qu'aux actions de coopération prévues au titre III du présent
 livre.
 
-Ils précisent les dispositions relatives à la gestion des res-sources humaines
-nécessaires pour la réalisation des objectifs.
+Ils précisent, dans le volet social, les actions arrêtées par l'établissement en
+accord avec l'agence régionale de l'hospitalisation, sur la base du projet
+social de l'établissement.
 
 Ils fixent les éléments financiers, tant en fonctionnement qu'en investissement,
 ainsi que les autres mesures nécessaires à leur mise en oeuvre et prévoient pour

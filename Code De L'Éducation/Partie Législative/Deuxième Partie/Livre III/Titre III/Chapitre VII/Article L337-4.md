@@ -42,8 +42,7 @@ interprofessionnelle, une chambre régionale de commerce et d'industrie, une
 chambre régionale de métiers, une chambre régionale d'agriculture ou un
 groupement d'entreprises en vue de développer les formations en apprentissage.
 La création de cette association est subordonnée à un avis favorable motivé du
-comité régional de la formation professionnelle, de la promotion sociale et de
-l'emploi.
+comité de la formation professionnelle, de la promotion sociale et de l'emploi.
 
 Les conventions mentionnées aux cinquième et sixième alinéas sont passées avec
 les établissements en application du plan régional de développement des
@@ -65,9 +64,9 @@ l'apprenti. Elle est alors fixée par les cocontractants en fonction de
 l'évaluation des compétences et après autorisation du service de l'inspection de
 l'apprentissage compétent mentionné à l'article L. 119-1. Les modalités de prise
 en compte de la durée prévue à l'alinéa précédent dans les conventions visées à
-l'article L. 116-2 sont arrêtées, après avis du comité régional de la formation
-professionnelle, de la promotion sociale et de l'emploi, par le conseil régional
-lorsque celui-ci est signataire de la convention.
+l'article L. 116-2 sont arrêtées, après avis du comité de coordination régional
+de l'emploi et de la formation professionnelle, par le conseil régional lorsque
+celui-ci est signataire de la convention.
 
 En cas d'obtention du diplôme ou du titre de l'enseignement technologique
 préparé, le contrat peut prendre fin, par accord des deux parties, avant le

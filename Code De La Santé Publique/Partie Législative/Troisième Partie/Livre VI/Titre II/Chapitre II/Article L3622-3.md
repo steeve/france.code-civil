@@ -1,6 +1,6 @@
 Article L3622-3
 ----
-Le sportif participant à des compétitions organisées ou agréées par les
+Le sportif participant à des compétitions organisées ou autorisées par les
 fédérations sportives fait état de sa qualité lors de toute consultation
 médicale qui donne lieu à prescription.
 

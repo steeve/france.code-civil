@@ -1,20 +1,20 @@
 Article L723-32
 ----
-Le conseil central d'administration de la mutualité sociale agricole, comprenant
-vingt-cinq membres, est ainsi composé :
+Le conseil central d'administration de la mutualité sociale agricole est ainsi
+composé :
 
-1° Vingt-trois membres élus en son sein par l'assemblée générale centrale de la
+1° Vingt-sept membres élus en son sein par l'assemblée générale centrale de la
 mutualité sociale agricole pour cinq ans, à raison de :
 
-a) Dix administrateurs élus par les délégués du premier collège, à la majorité
+a) Neuf administrateurs élus par les délégués du premier collège à la majorité
 absolue des suffrages exprimés au premier tour et à la majorité relative au
 second tour ;
 
-b) Huit administrateurs élus par les délégués du deuxième collège, au scrutin de
-liste selon la représentation proportionnelle au plus fort reste, sans
-panachage, rature ou vote préférentiel et suivant l'ordre de présentation ;
+b) Douze administrateurs élus par les délégués du second collège, au scrutin de
+liste selon la représentation proportionnelle au plus fort reste sans panachage,
+rature ni vote préférentiel et suivant l'ordre de présentation ;
 
-c) Cinq administrateurs élus par les délégués du troisième collège à la majorité
+c) Six administrateurs élus par les délégués du troisième collège à la majorité
 absolue des suffrages exprimés au premier tour et à la majorité relative au
 second tour ;
 

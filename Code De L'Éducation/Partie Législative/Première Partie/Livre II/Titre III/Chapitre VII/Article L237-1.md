@@ -19,19 +19,18 @@ promotion sociale et de l'emploi réunissant notamment des représentants des
 pouvoirs publics et des organisations professionnelles et syndicats intéressés.
 
 Sont institués, suivant les mêmes principes, des comités régionaux et des
-comités départementaux de la formation professionnelle, de la promotion sociale
-et de l'emploi.
+comités départementaux de l'emploi.
 
-Dans chacune des régions d'outre-mer, le comité régional de la formation
-professionnelle, de la promotion sociale et de l'emploi exerce l'ensemble des
-attributions dévolues au comité régional et au comité départemental de la
-formation professionnelle, de la promotion sociale et de l'emploi.
+Dans chacune des régions d'outre-mer, le comité de coordination régional de
+l'emploi et de la formation professionnelle exerce l'ensemble des attributions
+dévolues au comité de coordination régional de l'emploi et de la formation
+professionnelle et au comité départemental de l'emploi.
 
-Dans des conditions définies par décret, les comités régionaux de la formation
-professionnelle, de la promotion sociale et de l'emploi sont consultés sur les
-programmes et les moyens mis en oeuvre dans chaque région par l'Agence nationale
-pour l'emploi et par l'Association nationale pour la formation professionnelle
-des adultes.
+Dans des conditions définies par décret, les comités de coordination régionaux
+de l'emploi et de la formation professionnelle sont consultés sur les programmes
+et les moyens mis en oeuvre dans chaque région par l'Agence nationale pour
+l'emploi et par l'Association nationale pour la formation professionnelle des
+adultes.
 
 Chaque comité régional est informé notamment des contrats conclus entre l'Etat
 et ces deux organismes et est consulté sur les projets de conventions
@@ -46,12 +45,11 @@ la formation professionnelle des adultes apporte un concours technique aux
 interventions des associations régionales pour la formation professionnelle des
 adultes.
 
-Les comités départementaux de la formation professionnelle, de la promotion
-sociale et de l'emploi comprennent des représentants élus des collectivités
-territoriales et les parlementaires du département. Ces comités se réunissent au
-moins une fois par an sous la présidence du préfet du département qui, à cette
-occasion, présente le bilan de la politique de l'emploi et de la formation
-professionnelle dans le département.
+Les comités départementaux de l'emploi comprennent des représentants élus des
+collectivités territoriales et les parlementaires du département. Ces comités se
+réunissent au moins une fois par an sous la présidence du préfet du département
+qui, à cette occasion, présente le bilan de la politique de l'emploi et de la
+formation professionnelle dans le département.
 
 Les membres non fonctionnaires des comités visés à l'alinéa précédent
 bénéficient pendant les heures qu'ils consacrent à leur mission d'une

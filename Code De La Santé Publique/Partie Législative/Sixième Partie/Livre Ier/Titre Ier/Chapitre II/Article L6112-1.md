@@ -26,6 +26,8 @@ l'exclusion, dans une dynamique de réseaux.
 
 Le service public hospitalier assure, dans des conditions fixées par voie
 réglementaire, les examens de diagnostic et les soins dispensés aux détenus en
-milieu pénitentiaire et, si nécessaire, en milieu hospitalier. Il concourt, dans
-les mêmes conditions, aux actions de prévention et d'éducation pour la santé
-organisées dans les établissements pénitentiaires.
+milieu pénitentiaire et, si nécessaire, en milieu hospitalier ainsi qu'aux
+personnes retenues en application de l'article 35 bis de l'ordonnance n° 45-2658
+du 2 novembre 1945 relative aux conditions d'entrée et de séjour des étrangers
+en France. Il concourt, dans les mêmes conditions, aux actions de prévention et
+d'éducation pour la santé organisées dans les établissements pénitentiaires.

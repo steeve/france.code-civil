@@ -11,7 +11,7 @@ La négociation porte notamment sur les points suivants :
 1° La nature des actions de formation et leur ordre de priorité ;
 
 2° La reconnaissance des qualifications acquises du fait d'actions de formation
-;
+ou de la validation des acquis de l'expérience ;
 
 3° Les moyens reconnus aux délégués syndicaux et aux membres des comités
 d'entreprise pour l'accomplissement de leur mission dans le domaine de la
@@ -60,3 +60,12 @@ françaises à l'étranger ;
 
 12° Les modalités d'application par les entreprises des dispositions de
 l'éventuel accord de branche résultant de ladite négociation.
+
+La négociation sur les priorités, les objectifs et les moyens de la formation
+professionnelle doit porter sur les actions de formation mises en oeuvre pour
+assurer l'adaptation des salariés à l'évolution de leurs emplois, le
+développement de leurs compétences ainsi que la gestion prévisionnelle des
+emplois des entreprises de la branche compte tenu de l'évolution prévisible de
+ses métiers. Elle doit également porter sur les conditions dans lesquelles les
+salariés peuvent bénéficier d'un entretien individuel sur leur évolution
+professionnelle ainsi que les suites données à celui-ci.

@@ -5,7 +5,7 @@ cas d'infraction aux dispositions du présent titre et des décrets pris pour so
 application qui sont relatives :
 
 Aux conditions de qualification exigées des médecins et des infirmières ou
-infirmiers des services médicaux du travail ;
+infirmiers des services de santé au travail ;
 
 Aux modalités d'établissement du contrat de travail des médecins du travail ;
 
@@ -24,6 +24,6 @@ travaux dangereux ;
 A l'organisation d'un service de garde de nuit dans les établissements
 travaillant de jour et de nuit ;
 
-A l'installation matérielle du service médical du travail.
+A l'installation matérielle du service de santé au travail.
 
 Le délai minimum de la mise en demeure est fixé à un mois.

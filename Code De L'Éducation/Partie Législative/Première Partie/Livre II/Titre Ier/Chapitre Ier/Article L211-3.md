@@ -10,8 +10,12 @@ Elles doivent, en ce qui concerne les établissements du second degré, être
 compatibles avec le schéma prévisionnel des formations prévu à l'article L.
 214-1.
 
-Le montant des crédits affectés à ces créations est déterminé chaque année par
-la loi de finances.
+L'Etat fait l'avance des frais de construction des établissements publics qu'il
+crée en application du présent article. Le remboursement de cette avance
+constitue, pour la collectivité, une dépense obligatoire au sens de l'article L.
+1612-15 du code général des collectivités territoriales. Le montant des crédits
+affectés par l'Etat à ces dépenses est déterminé chaque année par la loi de
+finances.
 
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article,
 et notamment les conditions dans lesquelles le représentant de l'Etat peut

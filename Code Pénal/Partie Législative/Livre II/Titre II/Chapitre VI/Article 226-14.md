@@ -13,3 +13,7 @@ son état physique ou psychique ;
 procureur de la République les sévices qu'il a constatés dans l'exercice de sa
 profession et qui lui permettent de présumer que des violences sexuelles de
 toute nature ont été commises.
+
+Aucune sanction disciplinaire ne peut être prononcée du fait du signalement de
+sévices par le médecin aux autorités compétentes dans les conditions prévues au
+présent article.

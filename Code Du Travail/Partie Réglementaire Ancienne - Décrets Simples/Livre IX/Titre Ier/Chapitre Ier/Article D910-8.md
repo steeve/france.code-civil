@@ -1,9 +1,9 @@
 Article D910-8
 ----
-Le comité départemental de la formation professionnelle, de la promotion sociale
-et de l'emploi étudie les questions qui lui sont soumises par le comité régional
-de la formation professionnelle, de la promotion sociale et de l'emploi et, le
-cas échéant, adresse à celui-ci des propositions sur les actions à entreprendre.
+Le comité départemental de l'emploi étudie les questions qui lui sont soumises
+par le comité de coordination régional de l'emploi et de la formation
+professionnelle et, le cas échéant, adresse à celui-ci des propositions sur les
+actions à entreprendre.
 
 A la demande du comité régional, il est informé des résultats obtenus par les
 actions de formation professionnelle ayant donné lieu à une aide de l'Etat ou de

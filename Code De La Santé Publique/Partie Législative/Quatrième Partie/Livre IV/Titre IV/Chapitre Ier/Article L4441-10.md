@@ -3,7 +3,7 @@ Article L4441-10
 Pour son application en Nouvelle-Calédonie et en Polynésie française, l'article
 L. 4124-6 est ainsi rédigé :
 
-" Les peines disciplinaires que la chambre de discipline peut appliquer sont les
+"Les peines disciplinaires que la chambre de discipline peut appliquer sont les
 suivantes :
 
 1° L'avertissement ;
@@ -29,4 +29,13 @@ Le médecin, le chirurgien-dentiste ou la sage-femme radié ne peut se faire
 inscrire à un autre tableau de l'ordre. La décision qui l'a frappé est portée à
 la connaissance des conseils départementaux, des conseils, organes, délégations
 ou institutions en remplissant les fonctions outre-mer et du conseil national de
-l'ordre dès qu'elle est devenue définitive. "
+l'ordre dès qu'elle est devenue définitive."
+
+Aucune sanction disciplinaire ne peut être prononcée du fait du signalement de
+sévices par le médecin aux autorités compétentes dans les conditions prévues à
+l'article 226-14 du code pénal.
+
+Lorsque l'instance disciplinaire est informée de l'engagement, à la suite d'un
+tel signalement, de poursuites pénales pour violation du secret professionnel ou
+toute autre infraction commise à l'occasion de ce signalement, elle sursoit à
+statuer jusqu'à la décision définitive de la juridiction pénale.

@@ -3,9 +3,9 @@ Article L6143-1
 Le conseil d'administration définit la politique générale de l'établissement et
 délibère sur :
 
-1° Le projet d'établissement, y compris le projet médical, et le contrat
-pluriannuel mentionné aux articles L. 6114-1 et L. 6114-2, après avoir entendu
-le président de la commission médicale d'établissement ;
+1° Le projet d'établissement, y compris le projet médical et le projet social,
+et le contrat pluriannuel mentionné aux articles L. 6114-1 et L. 6114-2, après
+avoir entendu le président de la commission médicale d'établissement ;
 
 2° Les programmes d'investissement relatifs aux travaux et équipements matériels
 lourds ;

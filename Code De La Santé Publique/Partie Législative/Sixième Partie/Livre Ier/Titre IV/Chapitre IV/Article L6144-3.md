@@ -3,9 +3,9 @@ Article L6144-3
 Dans chaque établissement public de santé, un comité technique d'établissement
 est obligatoirement consulté sur :
 
-1° Le projet d'établissement, le projet de contrat pluriannuel mentionné aux
-articles L. 6114-1 et L. 6114-2 et les programmes d'investissement relatifs aux
-travaux et équipements matériels lourds ;
+1° Le projet d'établissement, le projet social, le projet de contrat pluriannuel
+mentionné aux articles L. 6114-1 et L. 6114-2 et les programmes d'investissement
+relatifs aux travaux et équipements matériels lourds ;
 
 2° Le budget, le rapport prévu à l'article L. 6143-3 et les comptes ainsi que le
 tableau des emplois ;

@@ -6,4 +6,5 @@ dans l'organisation et le déroulement de leurs études.
 
 Ils favorisent l'accès des sportifs de haut niveau, qu'ils possèdent ou non des
 titres universitaires, à des enseignements de formation ou de perfectionnement,
-dans les conditions définies par les articles L. 612-2 à L. 612-4 et L. 613-5.
+dans les conditions définies par les articles L. 612-2 à L. 612-4 et L. 613-3 à
+L. 613-5.

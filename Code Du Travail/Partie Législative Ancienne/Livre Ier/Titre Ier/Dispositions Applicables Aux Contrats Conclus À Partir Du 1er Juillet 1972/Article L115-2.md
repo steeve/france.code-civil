@@ -13,13 +13,12 @@ l'apprentissage compétent mentionné à l'article L. 119-1.
 
 Les modalités de prise en compte de la durée prévue à l'alinéa précédent dans
 les conventions visées à l'article L. 116-2 sont arrêtées, après avis du comité
-régional de la formation professionnelle, de la promotion sociale et de
-l'emploi, par le conseil régional lorsque celui-ci est signataire de la
-convention.
+de coordination régional de l'emploi et de la formation professionnelle, par le
+conseil régional lorsque celui-ci est signataire de la convention.
 
 En cas d'obtention du diplôme ou du titre de l'enseignement technologique
-préparé, le contrat peut prendre fin, par accord des deux parties, avant le
-terme fixé initialement.
+préparé, le contrat peut prendre fin, à l'initiative du salarié, avant le terme
+fixé initialement.
 
 Tout jeune travailleur peut souscrire des contrats d'apprentissage successifs
 pour préparer des diplômes ou titres sanctionnant des qualifications

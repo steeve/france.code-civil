@@ -7,11 +7,13 @@ salariale volontaire.
 Lorsque les titres sont admis aux négociations sur un marché réglementé, le prix
 de cession est fixé d'après les cours de bourse ; le prix de souscription ne
 peut être ni supérieur à la moyenne des cours cotés aux vingt séances de bourse
-précédant le jour de la décision du conseil d'administration ou du directoire,
-selon le cas, fixant la date d'ouverture de la souscription ni inférieur de plus
-de 20 p. 100 à cette moyenne ou de 30 % dans le cas d'un plan partenarial
-d'épargne salariale volontaire mis en place en application de l'article L.
-443-1-2.
+précédant le jour de la décision fixant la date d'ouverture de la souscription
+ni inférieur de plus de 20 p. 100 à cette moyenne ou de 30 % dans le cas d'un
+plan partenarial d'épargne salariale volontaire mis en place en application de
+l'article L. 443-1-2. La décision fixant la date de souscription est prise par
+le conseil d'administration ou le directoire, selon le cas, ou par son président
+s'il a reçu une délégation en ce sens en application du V de l'article L.
+225-129 du code de commerce.
 
 Lorsque les titres ne sont pas admis aux négociations sur un marché réglementé,
 le prix de cession est déterminé conformément aux méthodes objectives retenues

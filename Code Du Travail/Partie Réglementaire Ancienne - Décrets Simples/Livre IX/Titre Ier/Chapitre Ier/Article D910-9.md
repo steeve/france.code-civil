@@ -1,8 +1,7 @@
 Article D910-9
 ----
 Dans les départements autres que les départements d'outre-mer, le comité
-départemental de la formation professionnelle, de la promotion sociale et de
-l'emploi se compose :
+départemental de l'emploi se compose :
 
 1° Du préfet du département ou de son représentant ;
 

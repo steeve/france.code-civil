@@ -1,12 +1,12 @@
 Article L230-2
 ----
 I. - Le chef d'établissement prend les mesures nécessaires pour assurer la
-sécurité et protéger la santé des travailleurs de l'établissement, y compris les
-travailleurs temporaires. Ces mesures comprennent des actions de prévention des
-risques professionnels, d'information et de formation ainsi que la mise en place
-d'une organisation et de moyens adaptés. Il veille à l'adaptation de ces mesures
-pour tenir compte du changement des circonstances et tendre à l'amélioration des
-situations existantes.
+sécurité et protéger la santé physique et mentale des travailleurs de
+l'établissement, y compris les travailleurs temporaires. Ces mesures comprennent
+des actions de prévention des risques professionnels, d'information et de
+formation ainsi que la mise en place d'une organisation et de moyens adaptés. Il
+veille à l'adaptation de ces mesures pour tenir compte du changement des
+circonstances et tendre à l'amélioration des situations existantes.
 
 Sans préjudice des autres dispositions du présent code, lorsque dans un même
 lieu de travail les travailleurs de plusieurs entreprises sont présents, les
@@ -36,7 +36,8 @@ est moins dangereux ;
 
 g) Planifier la prévention en y intégrant, dans un ensemble cohérent, la
 technique, l'organisation du travail, les conditions de travail, les relations
-sociales et l'influence des facteurs ambiants ;
+sociales et l'influence des facteurs ambiants, notamment en ce qui concerne les
+risques liés au harcèlement moral, tel qu'il est défini à l'article L. 122-49 ;
 
 h) Prendre des mesures de protection collective en leur donnant la priorité sur
 les mesures de protection individuelle ;

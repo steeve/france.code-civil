@@ -1,3 +1,3 @@
 Article L3817-1
 ----
-L'article L. 3621-1 est applicable à Mayotte.
+Les dispositions du livre VI de la présente partie sont applicables à Mayotte.

@@ -4,7 +4,7 @@ Dans les entreprises ou établissements agricoles, industriels ou commerciaux,
 publics ou privés, dans les offices publics et ministériels, les professions
 libérales, les sociétés civiles, les syndicats professionnels, les associations
 de quelque nature que ce soit, les employeurs qui envisagent de procéder à un
-licenciement pour motif économique sont tenus [*obligations*] :
+licenciement pour motif économique sont tenus :
 
 1° Lorsque le nombre des licenciements pour motif économique envisagés est
 inférieur à dix dans une même période de trente jours :
@@ -53,3 +53,11 @@ atteindre dix personnes dans une même période de trente jours, tout nouveau
 licenciement économique envisagé au cours des trois mois suivants est soumis aux
 dispositions prévues au présent chapitre régissant les projets de licenciement
 d'au moins dix salariés.
+
+Lorsqu'une entreprise ou un établissement assujetti à la législation sur les
+comités d'entreprise a procédé au cours d'une année civile à des licenciements
+pour motif économique de plus de dix-huit personnes au total sans avoir eu à
+présenter de plan de sauvegarde de l'emploi au titre du 2° ou de l'alinéa
+précédent, tout nouveau licenciement économique envisagé au cours des trois mois
+suivant la fin de cette année civile est soumis aux dispositions prévues au
+présent chapitre régissant les projets de licenciement d'au moins dix salariés.

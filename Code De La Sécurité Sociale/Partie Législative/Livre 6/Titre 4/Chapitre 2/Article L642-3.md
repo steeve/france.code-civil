@@ -13,3 +13,9 @@ la compensation.
 L'invalidité mentionnée au deuxième alinéa du présent article est appréciée
 selon le barème en usage à la date de l'appréciation pour l'application de loi
 du 31 mars 1919 sur les pensions militaires d'invalidité.
+
+Sont exonérées du paiement du quart de la cotisation forfaitaire mentionnée à
+l'article L. 642-1 les femmes ayant accouché durant l'année au titre de laquelle
+ladite cotisation est appelée. La période ouvrant droit à exonération est le
+trimestre civil au cours duquel survient l'accouchement. Les dispositions de
+l'article L. 131-7 ne sont pas applicables à cette exonération.

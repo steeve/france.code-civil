@@ -1,13 +1,13 @@
 Article L236-2
 ----
 Le comité d'hygiène, de sécurité et des conditions de travail a pour mission de
-contribuer à la protection de la santé et de la sécurité des salariés de
-l'établissement et de ceux mis à sa disposition par une entreprise extérieure, y
-compris les travailleurs temporaires, ainsi qu'à l'amélioration des conditions
-de travail, notamment en vue de faciliter l'accès des femmes à tous les emplois
-et de répondre aux problèmes liés à la maternité. Il a également pour mission de
-veiller à l'observation des prescriptions législatives et réglementaires prises
-en ces matières.
+contribuer à la protection de la santé physique et mentale et de la sécurité des
+salariés de l'établissement et de ceux mis à sa disposition par une entreprise
+extérieure, y compris les travailleurs temporaires, ainsi qu'à l'amélioration
+des conditions de travail, notamment en vue de faciliter l'accès des femmes à
+tous les emplois et de répondre aux problèmes liés à la maternité. Il a
+également pour mission de veiller à l'observation des prescriptions législatives
+et réglementaires prises en ces matières.
 
 Le comité procède à l'analyse des risques professionnels auxquels peuvent être
 exposés les salariés de l'établissement ainsi qu'à l'analyse des conditions de
@@ -28,7 +28,7 @@ Le comité donne son avis sur les documents se rattachant à sa mission, notamme
 sur le règlement intérieur.
 
 Le comité peut proposer des actions de prévention en matière de harcèlement
-sexuel.
+sexuel et de harcèlement moral.
 
 Le comité est consulté avant toute décision d'aménagement important modifiant
 les conditions d'hygiène et de sécurité ou les conditions de travail et,

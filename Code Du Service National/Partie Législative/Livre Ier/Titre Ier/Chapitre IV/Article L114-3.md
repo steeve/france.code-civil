@@ -10,3 +10,11 @@ réserve.
 
 A cette occasion sont organisés des tests d'évaluation des apprentissages
 fondamentaux de la langue française.
+
+En outre, lors de l'appel de préparation à la défense, les Français doivent
+présenter un certificat délivré par un médecin attestant qu'ils ont subi un
+examen de santé dans les six mois précédents.
+
+Ceux qui n'ont pas présenté de certificat sont convoqués par la caisse primaire
+d'assurance maladie afin de bénéficier d'un examen de santé gratuit tel que
+prévu à l'article L. 321-3 du code de la sécurité sociale.

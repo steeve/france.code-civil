@@ -33,3 +33,7 @@ prestations en nature de l'assurance maladie du régime des non-salariés
 agricoles, en qualité de titulaires d'un avantage de vieillesse ou d'invalidité
 de ce régime, sont rattachées au collège électoral auquel elles appartenaient à
 la date de cessation de leur activité agricole non-salariée.
+
+Les personnes qui, du fait d'une activité agricole exercée précédemment,
+continuent d'avoir droit aux prestations d'assurance maladie sont rattachées au
+collège dont elles relevaient avant de cesser leur activité.

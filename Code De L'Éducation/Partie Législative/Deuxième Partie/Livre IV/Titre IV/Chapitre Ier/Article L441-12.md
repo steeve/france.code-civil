@@ -1,8 +1,8 @@
 Article L441-12
 ----
 Les oppositions à l'ouverture d'un établissement d'enseignement technique privé
-sont jugées contradictoirement par le comité départemental de la formation
-professionnelle, de la promotion sociale et de l'emploi dans le délai d'un mois.
+sont jugées contradictoirement par le comité départemental de l'emploi dans le
+délai d'un mois.
 
 Appel de la décision rendue peut être interjeté dans les dix jours à partir de
 la notification de cette décision. L'appel est reçu par le représentant de

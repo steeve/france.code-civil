@@ -1,7 +1,8 @@
 Article L3631-1
 ----
 Il est interdit, au cours des compétitions et manifestations sportives
-organisées ou agréées par des fédérations sportives ou en vue d'y participer :
+organisées ou autorisées par des fédérations sportives ou en vue d'y participer
+:
 
 - d'utiliser des substances et procédés de nature à modifier artificiellement
 les capacités ou à masquer l'emploi de substances ou procédés ayant cette

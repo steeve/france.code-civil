@@ -1,27 +1,24 @@
 Article L5125-14
 ----
-A l'exception des cas de force majeure constatés par le représentant de l'Etat
-dans le département, ou si ces officines sont dans l'impossibilité de se
-conformer aux conditions minimales d'installation telles qu'elles figurent dans
-le décret prévu à l'article L. 5125-32, peuvent obtenir un transfert :
+Le transfert d'une officine de pharmacie peut s'effectuer, conformément à
+l'article L. 5125-3, au sein de la même commune, dans une autre commune du même
+département, ou, pour la région d'Ile-de-France, dans une autre commune de cette
+région.
 
-- les officines situées dans une commune d'au moins 30 000 habitants où le
-nombre d'habitants par pharmacie est égal ou inférieur à 3 000 ;
+Le transfert dans une autre commune peut s'effectuer à condition :
 
-- les officines situées dans une commune d'au moins 2 500 habitants et de moins
-de 30 000 habitants où le nombre d'habitants par pharmacie est égal ou inférieur
-à 2 500 ;
+1° Que la commune d'origine comporte :
 
-- les officines situées dans une commune de moins de 2 500 habitants.
+- un nombre d'habitants par pharmacie égal ou inférieur à 3 000 pour les
+communes d'au moins 30 000 habitants ;
 
-Ce transfert peut être effectué :
+- un nombre d'habitants par pharmacie égal ou inférieur à 2 500 pour les
+communes d'au moins 2 500 habitants et de moins de 30 000 habitants ;
 
-- au sein de la même commune ;
+- moins de 2 500 habitants ;
 
-- dans une autre commune située dans le même département ou dans une commune
-située dans un autre département lorsqu'il s'agit de la région d'Ile-de-France,
-à condition qu'une création soit possible dans la commune d'accueil en
-application de l'article L. 5125-11.
+2° Et qu'une création soit possible dans la commune d'accueil en application de
+l'article L. 5125-11.
 
 Par dérogation, le transfert d'une officine implantée dans une zone franche
 urbaine, une zone urbaine sensible ou une zone de redynamisation urbaine

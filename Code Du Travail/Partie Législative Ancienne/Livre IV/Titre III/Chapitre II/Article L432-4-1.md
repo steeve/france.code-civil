@@ -36,3 +36,23 @@ sous contrat de travail temporaire, les motifs l'ayant amené à y recourir ains
 que le nombre des journées de travail effectuées par les intéressés depuis la
 dernière communication d'informations effectuée à ce sujet par le chef
 d'entreprise.
+
+Lorsque le comité d'entreprise a connaissance de faits susceptibles de
+caractériser un recours abusif aux contrats de travail à durée déterminée et aux
+contrats de travail temporaire, ou lorsqu'il constate un accroissement important
+du nombre de salariés occupés dans l'entreprise sous contrat de travail à durée
+déterminée et sous contrat de travail temporaire, il peut décider de saisir
+l'inspecteur du travail afin que celui-ci effectue les constatations qu'il
+estime utiles.
+
+Sans préjudice des compétences qu'il détient en vertu des articles L. 611-1 et
+L. 611-10, l'inspecteur du travail adresse à l'employeur le rapport de ses
+constatations. L'employeur communique ce rapport au comité d'entreprise en même
+temps que sa réponse motivée aux constatations de l'inspecteur du travail dans
+laquelle il précise, en tant que de besoin, les moyens qu'il met en oeuvre dans
+le cadre d'un plan de résorption de la précarité destiné à limiter le recours à
+ces formes de contrats de travail.
+
+A défaut de comité d'entreprise, les délégués du personnel peuvent exercer les
+attributions conférées au comité d'entreprise pour l'application de l'alinéa
+précédent.

@@ -5,7 +5,11 @@ Le service public hospitalier est assuré :
 1° Par les établissements publics de santé ;
 
 2° Par ceux des établissements de santé privés qui répondent aux conditions
-fixées aux articles L. 6161-6 et L. 6161-9.
+fixées aux articles L. 6161-6 et L. 6161-9 ;
+
+3° Par l'Institution nationale des invalides pour ses missions définies au 2° de
+l'article L. 529 du code des pensions militaires d'invalidité et des victimes de
+la guerre.
 
 Ces établissements garantissent l'égal accès de tous aux soins qu'ils
 dispensent. Ils sont ouverts à toutes les personnes dont l'état requiert leurs
