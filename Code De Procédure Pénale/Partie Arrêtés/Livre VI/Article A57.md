@@ -1,5 +1,6 @@
 Article A57
 ----
-Les attributions dévolues au directeur régional des services pénitentiaires par
-le présent code sont exercées, dans le département de la Réunion, par le
-fonctionnaire assurant les fonctions de directeur des prisons de ce département.
+Dans les départements de la Guadeloupe et de la Réunion, les directeurs des
+centres pénitentiaires de Baie-Mahault et du Port assurent, dans les limites des
+délégations de compétences qui leur sont consenties, la gestion de l'ensemble
+des personnels affectés dans les établissements de leur département respectif.
