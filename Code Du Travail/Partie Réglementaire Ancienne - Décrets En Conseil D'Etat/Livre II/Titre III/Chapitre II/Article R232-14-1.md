@@ -12,3 +12,7 @@ après avis du comité d'hygiène, de sécurité et des conditions de travail ou
 défaut, des délégués du personnel et après avis de la commission consultative
 départementale de la protection civile, de la sécurité et de l'accessibilité
 pour les établissements recevant du public.
+
+Le silence gardé pendant plus de quatre mois par le ministre compétent saisi
+d'un recours hiérarchique contre une décision prise en application de l'alinéa
+précédent vaut décision de rejet.

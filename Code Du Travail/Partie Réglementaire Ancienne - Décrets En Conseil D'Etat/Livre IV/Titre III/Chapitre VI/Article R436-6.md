@@ -6,3 +6,12 @@ représente ou auquel il a donné mandat à cet effet.
 
 Ce recours doit être introduit dans un délai de deux mois à compter de la
 notification de la décision de l'inspecteur [*point de départ*].
+
+Le silence gardé pendant plus de quatre mois sur ce recours vaut décision de
+rejet.
+
+Le silence gardé pendant plus de quatre mois par le ministre compétent, saisi
+d'un recours hiérarchique sur une décision prise par l'inspecteur du travail ou
+l'autorité qui en tient lieu dans le cadre de l'article L. 627-5 du code de
+commerce ou de l'article 29 de la loi n° 83-675 du 26 juillet 1983 relative à la
+démocratisation du secteur public, vaut décision de rejet.

@@ -20,3 +20,10 @@ accompagnées d'un dossier dont les éléments sont fixés par arrêté du minis
 chargé du travail.
 
 Tout refus d'approbation ou d'agrément doit être motivé.
+
+Le silence gardé pendant plus de quatre mois sur une demande d'approbation,
+d'agrément ou de renouvellement d'agrément vaut décision de rejet.
+
+Le silence gardé pendant plus de quatre mois par le ministre chargé du travail
+saisi d'un recours hiérarchique sur une décision prise en application du présent
+article vaut décision de rejet.

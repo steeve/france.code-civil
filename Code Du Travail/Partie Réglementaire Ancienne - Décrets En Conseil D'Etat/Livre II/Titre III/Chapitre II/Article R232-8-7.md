@@ -15,6 +15,9 @@ jours [*délai*] qui suivent cette communication.
 Les modalités de l'agrément sont fixées par arrêté des ministres chargés du
 travail et de l'agriculture.
 
+Le silence gardé pendant plus de quatre mois sur une demande d'agrément vaut
+décision de rejet.
+
 II. - Les prescriptions des articles R. 232-8 à R. 232-8-6 donnent lieu à
 l'application de la procédure de mise en demeure prévue à l'article L. 231-4.
 Nonobstant les dispositions de l'article R. 232-14, le délai d'exécution est

@@ -13,3 +13,6 @@ de filtration et d'épuration ;
 
 c) La nature et la fréquence du contrôle des installations mentionnées au
 premier alinéa de l'article R. 232-5-9.
+
+Le silence gardé pendant plus de quatre mois sur une demande d'agrément vaut
+décision de rejet.

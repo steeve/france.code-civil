@@ -14,6 +14,9 @@ Compte tenu de ces indications, le commissaire de la République de région se
 prononce au vu de l'avis du comité régional de la formation professionnelle, de
 la promotion sociale et de l'emploi.
 
+Le silence gardé pendant plus de quatre mois sur une demande d'agrément vaut
+décision de rejet.
+
 Si un organisme figurant sur la liste cesse de répondre aux qualifications ayant
 justifié son inscription, il en est radié par décision motivée du commissaire de
 la République de région prise après avis du comité régional de la formation

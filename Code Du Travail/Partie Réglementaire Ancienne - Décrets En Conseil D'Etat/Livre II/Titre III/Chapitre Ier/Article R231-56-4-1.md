@@ -5,6 +5,9 @@ doivent être effectués au moins une fois par an par un organisme agréé par
 arrêté des ministres chargés du travail et de l'agriculture dans les conditions
 prévues aux articles R. 231-55 et R. 231-55-1.
 
+Le silence gardé pendant plus de quatre mois sur une demande d'agrément visée à
+l'alinéa précédent vaut décision de rejet.
+
 Les prélèvements sont faits sur des postes de travail en situation significative
 de l'exposition habituelle. La stratégie de prélèvement est établie par
 l'employeur, après avis de l'organisme agréé prévu ci-dessus, du médecin du

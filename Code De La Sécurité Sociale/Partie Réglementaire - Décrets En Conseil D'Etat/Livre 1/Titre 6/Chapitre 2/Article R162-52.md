@@ -18,3 +18,8 @@ ces majorations.
 La nomenclature générale peut également comporter des prescriptions de nature à
 faciliter le contrôle médical de certains actes. La méconnaissance de ces
 prescriptions est sanctionnée dans les conditions prévues par la nomenclature.
+
+Lorsqu'un accord est exigé, en application du présent article, préalablement au
+remboursement d'un acte ou d'un traitement par un organisme de sécurité sociale,
+le silence gardé pendant plus de quinze jours par cet organisme sur la demande
+de prise en charge vaut décision d'acceptation.
