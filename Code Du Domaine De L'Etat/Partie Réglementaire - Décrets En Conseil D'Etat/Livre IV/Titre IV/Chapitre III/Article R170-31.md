@@ -12,4 +12,8 @@ les conditions prévues aux articles R. 170-43 et R. 170-44 ;
 3° De baux agricoles dans les conditions prévues à l'article R. 170-45 ;
 
 4° De conventions de mise en valeur passées avec une collectivité locale
-conformément aux dispositions de l'article R. 170-46.
+conformément aux dispositions de l'article R. 170-46 ;
+
+5° De cessions consenties en application des dispositions du troisième alinéa de
+l'article L. 91-1, dans les conditions prévues à la section V du présent
+chapitre.

@@ -1,0 +1,6 @@
+Article R170-70
+----
+Les cessions gratuites de terres à usage agricole prévues au troisième alinéa de
+l'article L. 91-1 peuvent être consenties aux agriculteurs exploitant, sans
+titre régulier, des terres domaniales mises à leur disposition par l'Etat, s'ils
+en font la demande avant le 31 décembre 1992.
