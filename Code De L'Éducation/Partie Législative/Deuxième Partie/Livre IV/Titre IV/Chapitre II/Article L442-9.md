@@ -1,8 +1,8 @@
 Article L442-9
 ----
-L'article L. 212-8 du présent code, à l'exception de son premier alinéa, et les
-articles L. 212-13 et L. 216-8 du présent code ne sont pas applicables aux
-classes sous contrat d'association des établissements d'enseignement privés.
+L'article L. 212-8 du présent code, à l'exception de son premier alinéa, et
+l'article L. 216-8 du présent code ne sont pas applicables aux classes sous
+contrat d'association des établissements d'enseignement privés.
 
 Les dépenses de fonctionnement des classes sous contrat d'association des
 établissements d'enseignement privés du second degré sont prises en charge sous
