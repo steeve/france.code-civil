@@ -1,8 +1,7 @@
 Article R421-18
 ----
-Sous réserve de ce qui est dit aux alinéas 2 et suivants du présent article et
-aux articles R. 421-38-2 et suivants,
-
+Sous réserve de ce qui est dit aux alinéas 2 et suivants du présent article, aux
+alinéas 2 et 3 de l'article R. 421-12 et aux articles R. 421-38-2 et suivants,
 le délai d'instruction, dont le point de départ est prévu aux articles R. 421-12
 et R. 421-13 ou, le cas échéant, R. 421-14 est fixé à deux mois.
 
@@ -22,7 +21,8 @@ d'instruire une dérogation ou une adaptation mineure.
 Le délai d'instruction est porté à cinq mois lorsque le projet est soumis à
 enquête publique, lorsqu'il y a lieu de consulter une commission nationale ou
 lorsque la demande concerne la construction de locaux à usage commercial
-assujettis à l'autorisation de la commission d'équipement commercial ; en cas de
-recours formulé dans les conditions prévues à l'article 32 de la loi n. 73-1193
-du 27 décembre 1973 d'orientation du commerce et de l'artisanat contre la
-décision de cette commission, ce délai est majoré de quatre mois.
+assujettis à l'autorisation de la commission départementale d'équipement
+commercial ; en cas de recours formulé dans les conditions prévues à l'article
+32 de la loi n. 73-1193 du 27 décembre 1973 d'orientation du commerce et de
+l'artisanat contre la décision de cette commission, ce délai est majoré de
+quatre mois.
