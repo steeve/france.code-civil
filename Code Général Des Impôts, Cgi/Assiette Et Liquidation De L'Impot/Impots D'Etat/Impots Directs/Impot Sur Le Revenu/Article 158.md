@@ -23,10 +23,11 @@ soumis à l'impôt sur le revenu au titre de l'année soit de leur paiement en
 espèces ou par chèques, soit de leur inscription au crédit d'un compte.
 
 Pour l'assiette de l'impôt sur le revenu, il est opéré un abattement de 5.000 F
-(1) par an et par foyer fiscal sur le montant des revenus imposables provenant
-de titres participatifs ou de valeurs mobilières à revenu fixe émis en France
+(1) par an et par foyer fiscal sur la somme des revenus imposables, provenant de
+titres participatifs ou de valeurs mobilières à revenu fixe émis en France
 [*intérêts d'obligations*] et inscrits à la cote officielle d'une bourse de
-valeurs française. Toutefois, ces dispositions ne s'appliquent pas aux valeurs
+valeurs française, et d'intérêts servis sur les versements effectués dans les
+fonds salariaux. Toutefois, ces dispositions ne s'appliquent pas aux valeurs
 assorties d'une clause d'indexation et dont la liste est fixée par arrêté du
 ministre de l'économie et des finances (2). Un décret fixera, en tant que de
 besoin, les conditions d'application du présent alinéa.
@@ -61,9 +62,9 @@ articles 34 à 61 A, 302 ter à 302 septies et 302 septies A bis du présent cod
 et des articles L 5, L 6 et L 8 du livre des procédures fiscales ; les
 rémunérations mentionnées à l'article 62 sont déterminées conformément aux
 dispositions de cet article ; les bénéfices de l'exploitation agricole sont
-déterminés conformément aux dispositions des articles 63 à 78 du présent code et
-des articles L 1 à L 4 du livre des procédures fiscales ; les bénéfices tirés de
-l'exercice d'une profession non commerciale sont déterminés conformément aux
+déterminées conformément aux dispositions des articles 63 à 78 du présent code
+et des articles L 1 à L 4du livre des procédures fiscales ; les bénéfices tirés
+de l'exercice d'une profession non commerciale sont déterminés conformément aux
 dispositions des articles 92 à 104 A du présent code et des articles L 7 et L 8
 du livre des procédures fiscales. Toutefois, les plus-values à long terme
 définies aux articles 39 duodecies et 39 terdecies-1 sont distraites des
@@ -78,30 +79,16 @@ résultats d'ensemble sans qu'il y ait lieu de les décomposer entre leurs diver
 éléments dans la déclaration prévue à l'article 170.
 
 4 bis. Les adhérents des centres de gestion agréés définis aux articles 1649
-quater C à 1649 quater E, placés sous un régime réel d'imposition et dont le
-chiffre d'affaires ou de recettes n'excède pas 2.804.000 F pour les agriculteurs
-et pour les entreprises dont le commerce principal est de vendre des
-marchandises, objets, fournitures et denrées à emporter ou à consommer sur place
-ou de fournir le logement et 846.000 F en ce qui concerne les autres
-entreprises, bénéficient d'un abattement de 20 % sur leur bénéfice imposable
-dans la catégorie des bénéfices industriels et commerciaux [*BIC*] ou des
-bénéfices agricoles [*BA*]. Les chiffres de 2.804.000 F et 846.000 F
-s'apprécient dans les mêmes conditions que les limites fixées pour l'application
-du régime forfaitaire (4). Les limites de chiffre d'affaires ou de recettes sont
-supprimées pour l'imposition des revenus des années 1983 et suivantes.
+quater C à 1649 quater E, placés sous un régime réel d'imposition, bénéficient
+d'un abattement de 20 % sur leur bénéfice imposable dans la catégorie des
+bénéfices industriels et commerciaux ou des bénéfices agricoles.
 
 Le taux de l'abattement est ramené à 10 % pour la fraction du bénéfice qui
-excède 165.000 F (5). Aucun abattement n'est appliqué sur la fraction du
-bénéfice qui excède 460.000 F pour l'imposition des revenus de 1982 (6). Cette
+excède 165.000 F (4). Aucun abattement n'est appliqué sur la fraction du
+bénéfice qui excède 460.000 F pour l'imposition des revenus de 1982 (5). Cette
 limite est relevée chaque année dans la même proportion que le plafond de la
 déduction forfaitaire de 10 % pour frais professionnels prévu à l'article 83-3°
 ; le montant obtenu est arrondi, le cas échéant, au millier de francs supérieur.
-
-Pour l'imposition des revenus des années 1979 à 1982, les limites de chiffre
-d'affaires ou de recettes fixées aupremier alinéa ne sont pas opposables aux
-adhérents d'un centre de gestion qui ont régulièrement bénéficié des allégements
-fiscaux attachés à leur qualité, l'année précédant celle du dépassement de ces
-limites.
 
 En cas de remise en cause, pour inexactitude ou insuffisance, des éléments
 fournis au centre de gestion agréé, les adhérents perdent le bénéfice de
@@ -116,17 +103,13 @@ somme de 5.000 F.
 
 4 ter. Les adhérents des associations agréées des professions libérales définies
 aux articles 1649 quater F à 1649 quater H, imposés à l'impôt sur le revenu
-selon le régime de la déclaration contrôlée et dont les recettes n'excèdent pas
-1.011.000 F bénéficient d'un abattement de 20 % sur leur bénéfice imposable.
-Toutefois cet abattement ne peut se cumuler avec d'autres déductions
-forfaitaires ou abattements d'assiette. Le chiffre de 1.011.000 F s'apprécie
-dans les mêmes conditions que la limite fixée pour l'application du régime de
-l'évaluation administrative (7). Les limites de recettes sont supprimées pour
-l'imposition des revenus des années 1983 et suivantes.
+selon le régime de la déclaration contrôlée, bénéficient d'un abattement de 20 %
+sur leur bénéfice imposable. Toutefois cet abattement ne peut se cumuler avec
+d'autres déductions forfaitaires ou abattements d'assiette.
 
 Le taux de l'abattement est ramené à 10 % pour la fraction du bénéfice qui
-excède 165.000 F (5). Aucun abattement n'est appliqué sur la fraction du
-bénéfice qui excède 460.000 F pour l'imposition des revenus de 1982 (6). Cette
+excède 165.000 F (4). Aucun abattement n'est appliqué sur la fraction du
+bénéfice qui excède 460.000 F pour l'imposition des revenus de 1983 (5). Cette
 limite est relevée chaque année dans la même proportion que le plafond de la
 déduction forfaitaire de 10 % pour frais professionnels prévu à l'article 83-3°
 ; le montant obtenu est arrondi, le cas échéant, au millier de francs supérieur.
@@ -134,17 +117,9 @@ déduction forfaitaire de 10 % pour frais professionnels prévu à l'article 83-
 Pour tous les groupements ou sociétés constitués en vue de l'exercice en groupe
 d'une profession libérale et dont les membres sont soumis à l'impôt sur le
 revenu pour leur part dans les résultats du groupement ou de la société selon
-les règles de l'article 8, la limite de recettes prévue au premier alinéa pour
-l'octroi de l'abattement de 20 % est multipliée par le nombre d'associés ou de
-membres exerçant une activité effective dans la société ou le groupement. Les
-limitations du montant de l'abattement résultant de l'application de l'alinéa
-précité sont opérées, s'il y a lieu, sur la part de bénéfices revenant à chaque
-associé ou à chaque membre.
-
-Pour l'imposition des revenus des années 1979 à 1982, la limite de recettes
-fixée au premier alinéa n'est pas opposable aux adhérents d'une association
-agréée qui ont régulièrement bénéficié des allégements fiscaux attachés à leur
-qualité, l'année précédant celle du dépassement de cette limite.
+les règles de l'article 8, la limitations du montant de l'abattement résultant
+de l'application de l'alinéa précité sont opérées, s'il y a lieu, sur la part de
+bénéfices revenant à chaque associé ou à chaque membre (6).
 
 En cas de remise en cause, pour inexactitude ou insuffisance, des éléments
 fournis à l'association agréée, les adhérents perdent le bénéfice de
@@ -163,10 +138,11 @@ mentionnées au 6 sont déterminés conformément aux dispositions des articles 
 91.
 
 Les pensions et retraites font l'objet d'un abattement de 10 % qui ne peut, pour
-l'imposition des revenus de 1978, excéder 6.000 F. Ce plafond est applicable au
-montant des pensions ou retraites perçu par chaque retraité ou pensionné membre
-du foyer fiscal ; il est revalorisé chaque année dans la même proportion que la
-limite de la première tranche du barème prévu à l'article 197 (8).
+l'imposition des revenus de 1983, excéder 21.400 F. Ce plafond est applicable au
+montant des pensions et retraites perçues par les membres du foyer fiscal (7).
+Il est revalorisé chaque année dans la même proportion que la limite de la
+première tranche du barème de l'impôt sur le revenu ; le montant obtenu est
+arrondi, s'il y a lieu, à la centaine de francs supérieure.
 
 L'abattement indiqué à l'alinéa précédent ne peut être inférieur à 1.800 F, sans
 pouvoir excéder le montant brut des pensions et retraites. Cette disposition
@@ -186,15 +162,15 @@ net de frais professionnels.
 
 Aucun abattement n'est pratiqué sur la fraction du montant des salaires, net de
 frais professionnels, et pensions qui excède 460.000 F pour l'imposition des
-revenus de 1982 (6). Cette limite est relevée chaque année dans la même
+revenus de 1982 et 1983 (5). Cette limite est relevée chaque année dans la même
 proportion que le plafond de la déduction forfaitaire de 10 % pour frais
 professionnels prévu à l'article 83-3° ; le montant obtenu est arrondi le cas
 échéant au millier de francs supérieur ;
 
-b. Les dispositions du a sont applicables aux prestations et allocations
-spéciales aux travailleurs privés d'emploi mentionnées à l'article 231 bis D,
-premier et troisième alinéas, ainsi qu'aux participations en espèces allouées
-aux travailleurs mentionnées à l'article 231 bis C-1 ;
+b. Les dispositions du a sont applicables aux allocations versées aux
+travailleurs privés d'emploi mentionnées à l'article 231 bis D, premier et
+troisième alinéas, ainsi qu'aux participations en espèces allouées aux
+travailleurs mentionnées à l'article 231 bis C-1 ;
 
 c. Lorsque, étant en instance de séparation de corps ou de divorce, les époux
 font l'objet d'impositions distinctes par application des dispositions de
@@ -229,16 +205,12 @@ chiffre était auparavant de 3.000 F.
 (3) Loi n° 79-594 du 13 juillet 1979, modifiée par la loi n° 83-1 du 3 janvier
 1983, art. 23 (JO des 2, 3 et 4).
 
-(4) Chiffres applicables pour l'imposition des revenus de 1982. Pour
-l'imposition des revenus de 1981, ces chiffres étaient de 2.497.000 F et 753.000
-F.
+(4) Limite fixée à 150.000 F pour l'imposition des revenus de 1981.
 
-(5) Limite fixée à 150.000 F pour l'imposition des revenus de 1981.
+(5) Limite également fixée à 460.000 F pour l'imposition des revenus de 1982.
 
-(6) Limite également fixée à 460.000 F pour l'imposition des revenus de 1981.
+(6) Voir annexe III, art. 48-1 bis. l'imposition des revenus de 1981, ce chiffre
+était de 900.000 F.
 
-(7) Chiffre applicable pour l'imposition des revenus de 1982. Pour l'imposition
-des revenus de 1981, ce chiffre était de 900.000 F.
-
-(8) Il est ainsi fixé à 8.700 F pour l'imposition des revenus de 1981 et à 9.800
-F pour l'imposition des revenus de 1982.
+(7) Pour l'imposition des revenus de 1979 à 1982 le plafond s'appréciait pour
+chaque titulaire de pensions ou retraites. Il était fixé à 9.800 F pour 1982.
