@@ -6,16 +6,15 @@ statuts.
 
 L'assurance maladie comporte :
 
-1° La couverture des frais de médecine générale et spéciale, des frais de soins
+1. La couverture des frais de médecine générale et spéciale, des frais de soins
 et de prothèse dentaire, des frais pharmaceutiques et d'appareils, des frais
 d'analyses et d'examens de laboratoire, des frais d'hospitalisation et de
 traitement dans les établissements de cure de réadaptation fonctionnelle et de
 rééducation ou d'éducation professionnelle et des frais de transport ainsi que
 des frais d'interventions chirurgicales nécessaires pour l'assuré et les membres
-de sa famille déterminés par règlement d'administration publique y compris la
-couverture des médicaments, produits et objets contraceptifs et des frais
-d'analyses et d'examens de laboratoire ordonnés en vue de prescriptions
-contraceptives.
+de sa famille déterminés par décret y compris la couverture des médicaments,
+produits et objets contraceptifs et des frais d'analyses et d'examens de
+laboratoire ordonnés en vue de prescriptions contraceptives.
 
 La couverture, sur décision de la commission d'éducation spéciale créée par
 l'article 6 de la loi n° 75-534 du 30 juin 1975, des frais d'hébergement et de
@@ -25,7 +24,11 @@ concourant à cette éducation dispensée en dehors de ces établissements, à
 l'exception de la partie de ces frais incombant à l'Etat en application de
 l'article 5 de la loi n° 75-534 du 30 juin 1975.
 
-2° L'octroi d'indemnités journalières à l'assuré qui se trouve dans l'incapacité
+La couverture des frais de soins et d'hospitalisation afférents à l'interruption
+volontaire de grossesse effectuée dans les conditions prévues à la section 1 du
+chapitre III bis du titre Ier du livre II du code de la santé publique.
+
+2. L'octroi d'indemnités journalières à l'assuré qui se trouve dans l'incapacité
 physique, constatée par le médecin traitant, de continuer ou de reprendre son
 travail.
 
