@@ -1,7 +1,7 @@
 Article R964-1-9
 ----
-Chaque organisme collecteur paritaire transmet chaque année, avant le 31 mai
-suivant l'année civile considérée, au ministre chargé de la formation
+I. - Chaque organisme collecteur paritaire transmet chaque année, avant le 31
+mai suivant l'année civile considérée, au ministre chargé de la formation
 professionnelle et, si l'agrément est régional, au préfet de région un état,
 dont le modèle est fixé par le ministre chargé de la formation professionnelle,
 comportant les renseignements statistiques et financiers permettant de suivre le
@@ -27,3 +27,13 @@ auprès des organismes collecteurs paritaires. Les organismes paritaires
 collecteurs agréés sont tenus de leur présenter toutes pièces ou documents
 établissant la réalité et le bien-fondé des éléments figurant sur l'état
 statistique et financier mentionné au premier alinéa.
+
+II. - Chaque organisme collecteur paritaire transmet au ministre chargé de la
+formation professionnelle les informations individuelles relatives aux
+bénéficiaires des contrats de professionnalisation qu'ils contribuent à financer
+en vue de la réalisation d'études statistiques dans les conditions prévues par
+l'article 7 bis de la loi n° 51-711 du 7 juin 1951. Ces informations sont
+transmises lors de la conclusion, de la modification et de la fin des contrats.
+Les organismes collecteurs transmettent en même temps les informations relatives
+aux entreprises qui ont conclu ces contrats ainsi qu'aux actions de formation
+correspondantes.

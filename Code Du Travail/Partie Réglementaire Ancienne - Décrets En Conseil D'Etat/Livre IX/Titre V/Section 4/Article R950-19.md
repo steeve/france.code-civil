@@ -1,91 +1,98 @@
 Article R950-19
 ----
-La déclaration visée à l'article L. 951-12 [*du montant de la participation*]
-doit indiquer [*mentions obligatoires*], outre la désignation et l'adresse du
-déclarant :
+La déclaration prévue à l'article L. 951-12 doit indiquer, outre la désignation
+et l'adresse du déclarant :
 
-1° Le montant des salaires payés tels qu'ils sont définis à l'article R. 950-2 ;
+1° Le nombre mensuel moyen de salariés au cours de l'année ou de la période de
+référence, calculé selon les modalités prévues à l'article R. 950-1 ;
 
-2° Le montant brut de la contribution incombant à l'employeur ;
+2° Le montant des rémunérations versées aux salariés pendant l'année en cours,
+telles qu'elles sont définies au premier alinéa de l'article L. 951-1 ;
 
-3° Le montant des dépenses effectivement consenties en vertu des articles L.
-951-1 et L. 951-11 ainsi que le montant correspondant à la fraction de la
-participation instituée par l'article L. 951-1 dont l'employeur lié par un
-engagement de développement de la formation est réputé s'acquitter ;
+3° Le montant brut de la contribution incombant à l'employeur et, en cas de
+franchissement du seuil de dix salariés, le cas échéant, le montant net de cette
+contribution, conformément aux dispositions de l'article 235 ter EA du code
+général des impôts ;
 
-4° La répartition de ces dépenses selon les catégories suivantes :
+4° Le montant des dépenses exposées en application des articles L. 951-1 à L.
+951-7 ;
 
-Dépenses de fonctionnement des stages organisés dans l'entreprise, en
-distinguant :
+5° La répartition de ces dépenses selon les catégories suivantes :
 
-Les frais de personnel enseignant ;
+a) Le montant total des dépenses de fonctionnement des actions de formation
+mises en oeuvre par l'entreprise, incluant les frais de personnel enseignant,
+les frais de personnel non enseignant et les autres frais de fonctionnement ;
 
-Les frais de personnel non enseignant ;
+b) Le montant total des dépenses de prestations effectuées au bénéfice du
+personnel de l'entreprise en application de conventions ventilé en :
 
-Les fournitures et matières d'oeuvre ;
+- total des achats d'actions de formation au sens des dispositions de l'article
+R. 950-4 ;
 
-Les autres frais de fonctionnement ;
+- total des dépenses de bilans de compétences effectuées en application des
+dispositions de l'article R. 900-3 ;
 
-Dépenses d'équipement en matériel définies à l'article R. 950-7 ci-dessus ;
+- total des dépenses de validation des acquis de l'expérience effectuées en
+application des dispositions des articles R. 950-13-3 et R. 950-13-4 ;
 
-Dépenses de formation effectuées au bénéfice du personnel de l'entreprise, en
-application de conventions ;
+c) Le montant total des rémunérations versées par l'entreprise aux salariés
+pendant leur présence ou leur participation effective aux actions mentionnées à
+l'article L. 900-2 ;
 
-Dépenses de bilans de compétences effectuées au bénéfice du personnel de
-l'entreprise en application des conventions visées à l'article R. 900-3 ;
+d) Le montant total des allocations de formation définies à l'article L. 932-1
+et versées par l'employeur au cours de l'année ;
 
-Dépenses de validation des acquis de l'expérience effectuées au bénéfice du
-personnel de l'entreprise en application des dispositions des articles R.
-950-13-3 et R. 950-13-4 ;
+e) Les versements effectués à des organismes collecteurs paritaires agréés par
+l'Etat, en application de l'article L. 933-5 et des troisième et quatrième
+alinéas de l'article L. 951-1 ;
 
-Rémunérations versées aux stagiaires par l'entreprise ;
+f) Les versements effectués à des organismes collecteurs paritaires agréés par
+l'Etat, en application du septième alinéa de l'article L. 951-1 ;
 
-Versements effectués dans les conditions prévues à l'article L. 951-1 (5°) du
-code du travail ;
+g) Le montant total des autres dépenses autorisées par les textes ;
 
-Versements effectués au titre de fonds d'assurance formation [*FAF*] et
-versements à un organisme paritaire agréé en application de l'article L. 951-3 ;
+h) Le montant total des concours publics perçus au titre de la formation
+professionnelle ;
 
-Versements effectués dans les conditions prévues par l'article L. 951-1 (4°) ;
+6° Selon le cas, l'insuffisance de contribution au titre de la période
+considérée ou l'excédent reportable au titre des trois années suivantes, ou
+l'insuffisance des contributions dues aux organismes paritaires agréés par
+l'Etat ;
 
-Versements effectués au titre d'une taxe parafiscale affectée à la formation
-professionnelle.
+7° Eventuellement, le montant restant à reporter au titre des dépenses
+effectuées au cours des trois années précédentes ;
 
-5° Selon le cas, l'insuffisance de contribution au titre de la période
-considérée, ou l'excédent reportable sur les trois années suivantes ou
-l'insuffisance de contribution versée aux organismes paritaires agréés par
-l'Etat au titre du congé individuel de formation en application de l'article L.
-951-3 ;
+8° Le montant de la contribution due au titre des périodes et contrats de
+professionnalisation ainsi que du droit individuel à la formation d'une part, et
+au titre du congé individuel de formation d'autre part, ainsi que le montant de
+l'utilisation de chacune de ces contributions ;
 
-6° Eventuellement, le montant restant à reporter au titre des dépenses
-effectuées au cours de chacune des trois années précédentes ;
+9° Les données relatives à l'assiette des rémunérations servies aux salariés
+sous contrat à durée déterminée, le montant de l'obligation de financement de
+leur formation prévue à l'article L. 931-20 et le montant des sommes utilisées à
+ce titre ;
 
-7° Le cas échéant, la majoration prévue à l'article L. 951-9, I ;
+10° Le cas échéant, la majoration prévue à l'article L. 951-9 ;
 
-8° Le montant total du versement à effectuer à la caisse du comptable des impôts
-;
+11° Le montant total du versement à effectuer au Trésor ;
 
-9° Le nombre de salariés de l'entreprise ;
+12° Le nombre de salariés de l'entreprise répartis par catégorie d'emploi et par
+sexe au 31 décembre de l'année considérée ;
 
-10° Le nombre de stagiaires ayant bénéficié d'une formation, d'un bilan de
-compétences ou d'une validation des acquis de l'expérience au cours de l'année,
-financé en tout ou partie au moyen de la participation de l'employeur, ainsi que
-le nombre d'heures de formation, de bilan de compétences et de validation des
-acquis de l'expérience reçues par eux, selon qu'elles ont ou non donné lieu au
-maintien d'une rémunération ;
+13° Par sexe et par catégorie d'emploi, le nombre de salariés ayant bénéficié
+d'une formation, le nombre d'heures de formation suivies, le nombre de salariés
+ayant bénéficié d'une formation au titre du droit individuel à la formation, le
+nombre d'heures de formation consommées à ce titre au cours de l'année ou de la
+période de référence et le nombre d'heures ouvertes au titre de ce même droit au
+31 décembre ;
 
-11° La répartition de ces stagiaires :
+14° Au cours de l'année ou de la période de référence, le nombre de bilans de
+compétences ou d'actions de validation des acquis de l'expérience pris en charge
+en totalité par l'employeur ; le nombre de salariés ayant bénéficié d'une
+période de professionnalisation ; le nombre de salariés ayant bénéficié d'une
+allocation de formation ; le nombre d'heures correspondant aux actions financées
+dans le cadre des périodes de professionnalisation et le nombre d'heures
+rémunérées au titre d'une allocation de formation.
 
-a) Par sexe ;
-
-b) Par catégorie d'emploi ;
-
-c) Par âge ;
-
-d) Par type d' action au sens de l'article L. 900-2 ;
-
-12° Le nombre de jeunes travailleurs au sens de l'article L. 931-14 qui ont
-bénéficié d'une formation au cours de l'année.
-
-Cette déclaration doit être rédigée, en double exemplaire [*condition de
-forme*], sur un imprimé fourni par l'administration.
+Cette déclaration doit être rédigée, en double exemplaire, sur un imprimé fourni
+par l'administration.

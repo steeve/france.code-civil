@@ -1,9 +1,5 @@
 Article R723-45
 ----
-Le service de la pension de réversion cesse en cas de mariage, mais profite aux
-enfants jusqu'à vingt et un ans.
-
-A défaut de conjoint survivant ou d'ex-époux bénéficiaire d'une pension de
-réversion, l'enfant ou les enfants d'un avocat qui vient de décéder ont droit,
-jusqu'à l'âge [*limite*] de vingt et un ans, à la pension de réversion dans les
-conditions prévues pour le conjoint survivant ou l'ex-époux.
+Lorsqu'une pension de retraite a été liquidée au profit d'un avocat qui reprend
+l'exercice de sa profession, le service de cette pension est suspendu du jour de
+la réinscription au tableau jusqu'au jour où il cesse d'y figurer.
