@@ -123,3 +123,17 @@ l'habitation.
 Les conditions de ces prêts, les modalités d'occupation des logements ainsi que
 celles du contrôle exercé par l'organisme collecteur sont déterminées par une
 convention conclue entre les personnes morales et les organismes collecteurs.
+
+" 14° Prêts à des personnes morales pour la construction de logements locatifs
+de catégorie intermédiaire venant en complément de prêts spécifiques consentis
+par la Caisse des dépôts et consignations ou le Crédit foncier de France.
+
+" Les contrats de prêts conclus entre lesdites personnes morales et ces derniers
+organismes doivent être conformes à un contrat de prêt type approuvé par le
+ministre chargé de la construction et de l'habitation et le ministre chargé de
+l'économie.
+
+" Les conditions des prêts accordés au titre de la participation des employeurs
+à l'effort de construction ainsi que celles du contrôle exercé par l'organisme
+collecteur sont déterminées par une convention conclue entre les personnes
+morales et les organismes collecteurs. "
