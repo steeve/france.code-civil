@@ -1,6 +1,9 @@
 Article R150-20
 ----
-Les dispositions du présent titre sont applicables dans les territoires de la
-Nouvelle-Calédonie, de la Polynésie française, des Terres australes et
-antarctiques françaises et de Wallis et Futuna, et dans la collectivité
-territoriale de Mayotte.
+Le montant des participations aux bénéfices des porteurs de contrats de
+capitalisation peut être affecté directement aux provisions mathématiques ou
+porté, partiellement ou totalement, à la provision pour participation aux
+excédents mentionnée à l'article R. 331-3. Les sommes portées à cette dernière
+provision sont affectées à la provision mathématique ou versées aux porteurs de
+titres au cours des cinq exercices suivant celui au titre duquel elles ont été
+portées à la provision pour participation aux excédents.
