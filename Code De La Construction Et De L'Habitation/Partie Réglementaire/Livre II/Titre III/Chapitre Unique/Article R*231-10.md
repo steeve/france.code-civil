@@ -1,21 +1,18 @@
 Article R*231-10
 ----
-La garantie de remboursement prévue aux articles R. 231-8 et R. 231-9 revêt la
-forme :
+" La garantie de remboursement prévue aux articles R. 231-8 et R. 231-9 est
+constituée :
 
-- soit d'une convention de cautionnement par laquelle une banque ou un
-établissement financier habilité ou une entreprise d'assurances agréée à cet
-effet ou une société de caution mutuelle constituée conformément aux
-dispositions modifiées de la loi du 13 mars 1917 ayant pour objet l'organisation
-du crédit au petit et moyen commerce, à la petite et moyenne industrie,
-s'oblige, solidairement avec la personne qui s'est chargée de la construction, à
-rembourser les versements effectués par le maître de l'ouvrage au cas où ce
-remboursement serait dû ;
+" 1. Soit par une convention de cautionnement dans laquelle un établissement de
+crédit ou une entreprise d'assurance agréée à cet effet s'oblige, solidairement
+avec la personne qui s'est chargée de la construction, à rembourser les
+versements effectués par le maître de l'ouvrage au cas où ce remboursement
+serait dû ;
 
-- soit de la consignation par la personne qui s'est chargée de la construction
-de la somme versée avant l'accomplissement des formalités réglementaires
-préalables à la construction.
+" 2. Soit par la consignation de la somme versée avant la date fixée à l'article
+L. 231-1-2. La personne qui se charge de la construction doit, dans les huit
+jours qui suivent le versement, donner justification au maître de l'ouvrage de
+la consignation au bénéfice de ce dernier en précisant la date de celle-ci ainsi
+que le nom et l'adresse du consignataire.
 
-La garantie de remboursement figurant au présent article prend fin à la date à
-laquelle il a été satisfait aux formalités réglementaires préalables à la
-construction.
+" La garantie de remboursement prend fin à la date d'ouverture du chantier. "
