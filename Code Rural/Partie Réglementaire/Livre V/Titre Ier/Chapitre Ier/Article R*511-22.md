@@ -1,13 +1,13 @@
 Article R*511-22
 ----
-Avant le 25 avril, toute personne indûment omise peut demander son inscription à
-la commission départementale et tout électeur inscrit sur une des listes du
+Avant le 25 octobre, toute personne indûment omise peut demander son inscription
+à la commission départementale et tout électeur inscrit sur une des listes du
 département peut demander l'inscription d'une personne indûment omise ou la
 radiation d'une personne indûment inscrite. Les réclamations sont adressées au
 président de la commission départementale par lettre recommandée avec demande
 d'avis de réception.
 
-Avant le 15 mai, la commission départementale statue sur les réclamations.
+Avant le 15 novembre, la commission départementale statue sur les réclamations.
 
 Lorsque la commission départementale inscrit d'office un nouvel électeur, refuse
 d'inscrire un électeur ou radie d'office un électeur pour d'autres causes que le
@@ -19,7 +19,8 @@ quarante-huit heures pour présenter des observations.
 Ces décisions de la commission départementale sont également communiquées, dans
 les mêmes formes aux commissions communales concernées.
 
-Avant le 31 mai, sont déposés à la diligence du commissaire de la République :
+Avant le 30 novembre, sont déposés à la diligence du commissaire de la
+République :
 
 A la mairie, un exemplaire de chacune des listes électorales qui servent de
 liste d'émargement ;

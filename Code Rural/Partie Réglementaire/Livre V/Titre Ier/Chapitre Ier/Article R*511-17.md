@@ -1,6 +1,6 @@
 Article R*511-17
 ----
-Cette commission prépare avant le 15 avril la liste des électeurs en prenant
+Cette commission prépare avant le 15 octobre la liste des électeurs en prenant
 pour base la dernière liste établie compte tenu des rectifications et des mises
 à jour, des demandes d'inscriptions au vu des dispositions prévues à l'article
 R. 511-9. Elle inscrit d'office les électeurs dont la capacité électorale lui
