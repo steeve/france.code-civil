@@ -1,4 +1,4 @@
-Article D171
+Article D283-2
 ----
 La mise à l'isolement ne constitue pas une mesure disciplinaire.
 

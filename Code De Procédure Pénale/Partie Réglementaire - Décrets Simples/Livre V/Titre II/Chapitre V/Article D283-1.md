@@ -1,4 +1,4 @@
-Article D170
+Article D283-1
 ----
 Tout détenu se trouvant dans un établissement ou quartier en commun peut soit
 sur sa demande, soit par mesure de précaution ou de sécurité, être placé à

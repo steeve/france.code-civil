@@ -1,8 +1,14 @@
 Article D250-1
 ----
-Le juge de l'application des peines prononce, après avis de la commission de
-l'application des peines, le sanctions consistant soit dans le rejet ou
-l'ajournement d'une mesure relevant de sa compétence, soit dans le retrait d'une
-telle mesure précédemment accordée. Il en est ainsi pour la réduction de peine
-dont le retrait total ou partiel est prononcé sous les conditions définies à
-l'article 721.
+En cas de manquement à la discipline de nature à justifier une sanction
+disciplinaire et sans préjudice des dispositions de l'article D. 280, un compte
+rendu est établi dans les plus brefs délais par l'agent présent lors de
+l'incident ou informé de ce dernier. A la suite de ce compte rendu d'incident,
+un rapport est établi par un chef de service pénitentiaire ou un premier
+surveillant et adressé au chef d'établissement. Ce rapport comporte tout élément
+d'information utile sur les circonstances des faits reprochés au détenu et la
+personnalité de celui-ci.
+
+Le chef d'établissement apprécie, au vu du rapport et après s'être fait
+communiquer, le cas échéant, tout élément d'information complémentaire,
+l'opportunité de poursuivre la procédure.

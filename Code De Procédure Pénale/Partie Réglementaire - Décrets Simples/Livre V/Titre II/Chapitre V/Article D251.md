@@ -1,15 +1,19 @@
 Article D251
 ----
-L'autorité à laquelle il appartient de prononcer une sanction disciplinaire a la
-faculté d'accorder le bénéfice du sursis pour tout ou partie de son exécution,
-cette mesure pouvant même intervenir au cours de l'exécution.
+Peuvent être prononcées, quelle que soit la faute disciplinaire, les sanctions
+disciplinaires suivantes :
 
-L'attention du détenu doit être alors appelée sur les conséquences suivantes
-qu'entraîne une décision de sursis :
+1° L'avertissement ;
 
-- si, avant l'expiration d'un délai qui est fixé lors de l'octroi du sursis,
-mais qui ne peut dépasser six mois, l'intéressé n'a pas encouru une autre
-sanction disciplinaire, celle qui aura été prononcée contre lui avec sursis sera
-réputée non avenue ;
+2° L'interdiction de recevoir des subsides de l'extérieur pendant une période
+maximum de deux mois ;
 
-- dans le cas contraire, il aura à subir les deux sanctions disciplinaires.
+3° La privation pendant une période maximum de deux mois de la faculté
+d'effectuer en cantine tout achat autre que l'achat de produits d'hygiène, du
+nécessaire de correspondance et de tabac ;
+
+4° Le confinement en cellule individuelle ordinaire dans les conditions prévues
+à l'article D. 251-2 ;
+
+5° La mise en cellule disciplinaire dans les conditions prévues aux articles D.
+251-3 et D. 251-4.

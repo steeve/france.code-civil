@@ -1,7 +1,7 @@
 Article D177
 ----
 Conformément aux dispositions de l'article 222, le président de la chambre
-d'accusation visite, chaque fois qu'il estime nécessaire et au moins une fois
+d'accusation visite, chaque fois qu'il l'estime nécessaire et au moins une fois
 par trimestre, les maisons d'arrêt du ressort de la cour d'appel, et y vérifie
 la situation des inculpés en état de détention provisoire.
 
