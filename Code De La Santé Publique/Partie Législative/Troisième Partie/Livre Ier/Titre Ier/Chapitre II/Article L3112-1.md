@@ -9,5 +9,4 @@ tutelle de mineurs sont tenues personnellement à l'exécution de cette
 obligation.
 
 Les modalités d'application du présent article sont définies par décret en
-Conseil d'Etat pris après avis du Conseil supérieur d'hygiène publique de
-France.
+Conseil d'Etat pris après avis du Haut Conseil de la santé publique.

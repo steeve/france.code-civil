@@ -47,3 +47,23 @@ Ier du présent livre. Par dérogation à l'article L. 6122-3, il peut égalemen
 être autorisé par le directeur de l'agence régionale de l'hospitalisation à
 assurer l'exploitation d'une autorisation détenue par l'un de ses membres et
 dispenser à ce titre des soins remboursables aux assurés sociaux.
+
+Dans les deux cas, le groupement de coopération sanitaire est financé sur le
+fondement des règles applicables aux établissements de santé, selon des
+modalités particulières définies par décret en Conseil d'Etat. Toutefois,
+lorsque l'activité exercée est une activité de médecine, chirurgie, obstétrique
+ou odontologie mentionnée au a du 1° de l'article L. 6111-2, y compris les
+activités d'alternatives à la dialyse en centre et d'hospitalisation à domicile,
+les dispositions de l'article 33 de la loi de financement de la sécurité sociale
+pour 2004 (n° 2003-1199 du 18 décembre 2003) ne sont pas applicables au
+financement du groupement. Les dispositions de l'article L. 162-21-1 du code de
+la sécurité sociale sont applicables aux groupements de coopération sanitaire.
+
+Par dérogation à l'article L. 162-2 du même code et à toute autre disposition
+contraire du code du travail, la rémunération des médecins libéraux est versée
+par le groupement de coopération sanitaire. Cette rémunération est incluse dans
+le financement du groupement titulaire de l'autorisation.
+
+Le groupement de coopération sanitaire peut participer au capital et aux
+modifications de capital des sociétés d'économie mixtes locales mentionnées à
+l'article L. 1522-6 du code général des collectivités territoriales.

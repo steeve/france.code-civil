@@ -34,9 +34,14 @@ Les entreprises solidaires répondant aux conditions fixées ci-dessus sont
 agréées par l'autorité administrative.
 
 Sont assimilés à ces entreprises les organismes dont l'actif est composé pour au
-moins 80 % de titres émis par des entreprises solidaires ou les établissements
+moins 40 % de titres émis par des entreprises solidaires ou les établissements
 de crédit, dont 80 % de l'ensemble des prêts et des investissements sont
 effectués en faveur des entreprises solidaires.
+
+Les titres émis par des entreprises solidaires mentionnés à l'alinéa précédent
+s'entendent des titres de capital, des titres obligataires, des billets à ordre,
+des bons de caisse, des avances en comptes courants et des prêts participatifs
+émis ou consentis par ces mêmes entreprises.
 
 Les entreprises solidaires indiquent dans l'annexe de leurs comptes annuels les
 informations qui attestent du respect des conditions fixées par le présent

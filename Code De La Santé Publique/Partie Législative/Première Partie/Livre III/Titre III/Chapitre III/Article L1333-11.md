@@ -15,3 +15,8 @@ domaine de compétence, d'une formation théorique et pratique, initiale et
 continue, relative à la protection des personnes exposées à des fins médicales
 relevant, s'il y a lieu, des dispositions de l'article L. 900-2 du code du
 travail.
+
+Les radiophysiciens employés par des établissements publics de santé sont des
+agents non titulaires de ces établissements. Les dispositions particulières qui
+leur sont applicables compte tenu du caractère spécifique de leur activité sont
+fixées par voie réglementaire.

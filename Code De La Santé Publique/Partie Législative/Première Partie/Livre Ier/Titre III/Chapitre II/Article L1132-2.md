@@ -1,8 +1,11 @@
 Article L1132-2
 ----
-Comme il est dit à l'article 226-26 du code pénal ci-après reproduit :
+Les modalités d'application du présent chapitre sont déterminées par décret en
+Conseil d'Etat, et notamment :
 
-" Le fait de détourner de leurs finalités médicales ou de recherche scientifique
-les informations recueillies sur une personne au moyen de l'étude de ses
-caractéristiques génétiques est puni d'un an d'emprisonnement et de 15000 euros
-d'amende. "
+1° Les conditions de formation, de diplôme et d'expérience nécessaires pour
+exercer la profession de conseiller en génétique ; les conditions reconnues
+équivalentes et le régime d'autorisations dérogatoires délivrées par le ministre
+chargé de la santé ;
+
+2° Les conditions d'exercice et les règles professionnelles.

@@ -1,42 +1,21 @@
 Article L1333-17
 ----
-Sont déterminées par décret en Conseil d'Etat les modalités d'application du
-présent chapitre et notamment :
+Peuvent procéder au contrôle de l'application des dispositions du présent
+chapitre, des mesures de radioprotection prévues par l'article L. 231-7-1 du
+code du travail et par le code minier, ainsi que des règlements pris pour leur
+application, outre les agents mentionnés à l'article L. 1421-1, les inspecteurs
+de la radioprotection désignés par l'autorité administrative parmi :
 
-1° Les conditions particulières applicables aux personnes qui sont l'objet d'une
-exposition aux rayonnements ionisants à des fins médicales ou de recherche
-biomédicale ;
+1° Les inspecteurs des installations classées pour la protection de
+l'environnement mentionnés à l'article L. 514-5 du code de l'environnement ;
 
-2° Les valeurs limites que doit respecter l'exposition des personnes autres que
-celles qui sont professionnellement exposées aux rayonnements ionisants, compte
-tenu des situations particulières d'exposition, en application de l'article L.
-1333-1 ;
+2° Les agents chargés de la police des mines et des carrières en application des
+articles 77, 85 et 107 du code minier ;
 
-3° Les références d'exposition et leurs niveaux applicables aux personnes
-intervenant dans toute situation qui appelle des mesures d'urgence afin de
-protéger des personnes contre les dangers résultant de l'exposition aux
-rayonnements ionisants ;
+3° Les agents appartenant aux services de l'Etat chargés de l'environnement, de
+l'industrie et de la santé ainsi qu'aux établissements publics placés sous la
+tutelle des ministres chargés de l'environnement, de l'industrie et de la santé,
+et ayant des compétences en matière de radioprotection ;
 
-4° Les interdictions et réglementations édictées en application de l'article L.
-1333-2 ;
-
-5° Les modalités du régime d'autorisation ou de déclaration défini à l'article
-L. 1333-4 ainsi que les seuils d'exemption qui y sont associés ;
-
-6° Les règles de fixation du montant de la garantie financière mentionnée à
-l'article L. 1333-7 ;
-
-7° La nature des activités concernées par les dispositions de l'article L.
-1333-8 ainsi que les mesures à mettre en oeuvre pour assurer la protection des
-personnes, compte tenu de l'importance du risque encouru ;
-
-8° La liste des organismes chargés de l'inventaire prévu à l'article L. 1333-9 ;
-
-9° La nature des activités concernées par les dispositions de l'article L.
-1333-10 ainsi que les caractéristiques des sources naturelles d'exposition qui
-doivent être prises en compte, du fait de leur nocivité, et, le cas échéant, les
-mesures à mettre en oeuvre pour assurer la protection des personnes, compte tenu
-de l'importance du risque encouru.
-
-Ces décrets prennent en compte, le cas échéant, les exigences liées à la défense
-nationale.
+4° Les agents de l'Institut de radioprotection et de sûreté nucléaire placés
+sous l'autorité des services mentionnés au 3°.

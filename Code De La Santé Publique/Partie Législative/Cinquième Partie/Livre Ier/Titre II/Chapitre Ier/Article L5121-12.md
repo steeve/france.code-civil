@@ -21,11 +21,25 @@ l'Agence française de sécurité sanitaire des produits de santé, à la demand
 titulaire des droits d'exploitation du médicament dans le cas prévu au a ou à la
 demande du médecin traitant dans le cas prévu au b du présent article.
 
-Pour les médicaments mentionnés au a), l'autorisation peut être subordonnée par
+Pour les médicaments mentionnés au a, l'autorisation est subordonnée par
 l'Agence française de sécurité sanitaire des produits de santé à la condition
 qu'elle soit sollicitée dans le cadre d'un protocole d'utilisation thérapeutique
-et de recueil d'informations, établi avec le titulaire des droits
-d'exploitation.
+et de recueil d'informations établi avec le titulaire des droits d'exploitation
+et concernant notamment les conditions réelles d'utilisation et les
+caractéristiques de la population bénéficiant du médicament ainsi autorisé.
 
-L'autorisation peut être suspendue ou retirée si les conditions prévues au
-présent article ne sont plus remplies, ou pour des motifs de santé publique.
+Le demandeur de l'autorisation pour les médicaments mentionnés au a adresse
+systématiquement à l'agence, après l'octroi de cette autorisation, toute
+information concernant notamment les conditions réelles d'utilisation et les
+caractéristiques de la population bénéficiant du médicament ainsi autorisé ; il
+adresse également périodiquement au ministre chargé de la santé des informations
+sur le coût pour l'assurance maladie du médicament bénéficiant de l'autorisation
+octroyée.
+
+Pour les médicaments mentionnés au b, l'autorisation peut être subordonnée par
+l'Agence française de sécurité sanitaire des produits de santé à la mise en
+place d'un protocole d'utilisation thérapeutique et de recueil d'informations.
+
+L'autorisation des médicaments mentionnés au a et au b peut être suspendue ou
+retirée si les conditions prévues au présent article ne sont plus remplies, ou
+pour des motifs de santé publique.

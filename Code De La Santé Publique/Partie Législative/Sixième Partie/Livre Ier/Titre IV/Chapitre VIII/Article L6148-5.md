@@ -1,57 +1,41 @@
 Article L6148-5
 ----
-Les opérations mentionnées à l'article L. 1311-2 du code général des
-collectivités territoriales, lorsqu'elles répondent aux besoins d'un
-établissement public de santé ou d'une structure de coopération sanitaire dotée
-de la personnalité morale publique, et celles mentionnées à l'article L. 6148-2
-sont soumises aux conditions fixées au présent article.
+Les contrats passés en application de l'article L. 1311-2 du code général des
+collectivités territoriales, lorsqu'ils répondent aux besoins d'un établissement
+public de santé ou d'une structure de coopération sanitaire dotée de la
+personnalité morale publique et de l'article L. 6148-2, respectent les
+dispositions du présent article et des articles L. 6148-5-1 à L. 6148-5-3.
 
-I. - La procédure de passation des baux est soumise à une procédure de publicité
-permettant la présentation de plusieurs offres concurrentes. L'avis d'appel à
-candidatures précise la nature de l'opération envisagée, les objectifs et
-performances attendues, le délai de présentation des candidatures, ainsi que les
-critères d'attribution du contrat. Parmi ces critères figurent nécessairement la
-qualité du service rendu et la répartition des risques entre les parties.
+La passation d'un contrat visé au premier alinéa est soumise aux principes de
+liberté d'accès, d'égalité de traitement des candidats et d'objectivité des
+procédures. Elle est précédée d'une publicité permettant la présentation de
+plusieurs offres concurrentes dans les conditions prévues au dernier alinéa de
+l'article 3 de l'ordonnance n° 2004-559 du 17 juin 2004 sur les contrats de
+partenariat.
 
-Au terme d'un délai d'au moins soixante jours à compter de l'envoi à publication
-de l'avis, l'établissement public de santé, la structure de coopération
-sanitaire dotée de la personnalité morale publique ou la collectivité
-territoriale sélectionne les candidatures et engage avec chaque candidat retenu
-une négociation, dans le respect du secret des affaires. Au terme de ces
-négociations, elle peut inviter tout ou partie de ces candidats à présenter une
-offre finale.
+Ne peuvent soumissionner à un contrat visé au premier alinéa les personnes
+mentionnées à l'article 4 de l'ordonnance n° 2004-559 du 17 juin 2004 précitée.
 
-Le contrat est conclu avec le candidat dont l'offre est jugée la meilleure au
-regard des critères mentionnés dans l'avis. La personne publique peut également
-décider de ne pas donner suite au projet.
+Les dispositions des articles 6 et 9, à l'exception du quatrième alinéa, de
+ladite ordonnance sont applicables aux contrats visés au premier alinéa.
 
-II. - Parmi les critères d'attribution, l'établissement public de santé, la
-structure de coopération sanitaire dotée de la personnalité morale publique ou
-la collectivité territoriale peut faire figurer la part du contrat que le
-titulaire attribuera à des architectes, des concepteurs, des petites ou moyennes
-entreprises et des artisans.
+Si, compte tenu de la complexité du projet, la personne publique est
+objectivement dans l'impossibilité de définir les moyens techniques pouvant
+répondre aux besoins et aux objectifs poursuivis ou d'établir le montage
+juridique ou financier du projet, elle indique dans l'avis qu'il sera recouru à
+une phase de dialogue dans les conditions prévues au I de l'article 7 de
+l'ordonnance n° 2004-559 du 17 juin 2004 précitée.
 
-Le contrat peut également prévoir que la personne publique contrôlera les
-conditions dans lesquelles cette part sera attribuée et l'exécution des contrats
-qui s'y rattachent.
+Si tel n'est pas le cas, elle indique dans l'avis qu'il sera recouru à une
+procédure d'appel d'offres dans les conditions prévues par le II de l'article 7
+de l'ordonnance n° 2004-559 du 17 juin 2004 précitée.
 
-III. - La répartition des risques entre chacune des parties aux baux et
-conventions doit être clairement identifiée.
-
-IV. - Les baux doivent, à peine de nullité, comporter des clauses portant sur :
-
-- leur durée, strictement adaptée à l'objet du contrat ;
-
-- la transparence et les règles de contrôle relatives aux modalités et aux
-éléments de calcul de l'assiette de la rémunération de l'emphytéote et leur
-évolution, en distinguant l'investissement, le fonctionnement et le coût
-financier ;
-
-- le montage financier et les garanties financières prévues ;
-
-- le contrôle de la qualité et le lien entre cette qualité et la rémunération du
-cocontractant, ainsi que les conditions d'application d'éventuelles sanctions ;
-
-- les modalités de contrôle des opérations ;
-
-- les moyens d'assurer la continuité du service.
+La personne publique peut restreindre le nombre de candidats appropriés qu'elle
+invitera à participer au dialogue défini au I de l'article 7 ou à la procédure
+mentionnée au II du même article de l'ordonnance n° 2004-559 du 17 juin 2004
+précitée, à condition qu'un nombre suffisant de candidats appropriés soit
+disponible. Elle indique alors dans l'avis de marché les critères ou règles
+objectifs et non discriminatoires qu'elle prévoit d'utiliser, le nombre minimal
+de candidats qu'elle prévoit d'inviter et, le cas échéant, le nombre maximal. En
+tout état de cause, le nombre de candidats invités doit être suffisant pour
+assurer une concurrence réelle.

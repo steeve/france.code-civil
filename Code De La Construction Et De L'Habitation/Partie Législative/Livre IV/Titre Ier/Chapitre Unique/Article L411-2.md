@@ -29,6 +29,10 @@ pour l'accédant selon des conditions fixées par décret en Conseil d'Etat ou
 lorsqu'elles sont destinées à des personnes dont les revenus sont inférieurs à
 des plafonds fixés par l'autorité administrative ;
 
+- les aliénations des éléments de patrimoine immobilier réalisées en application
+des articles L. 443-7 à L. 443-14 ainsi que la gestion des copropriétés issues
+de ces aliénations ;
+
 - les services accessoires aux opérations susmentionnées.
 
 Au titre de la mission d'intérêt général que constitue la recherche de la mixité

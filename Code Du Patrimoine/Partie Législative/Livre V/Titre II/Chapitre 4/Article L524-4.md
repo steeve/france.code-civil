@@ -3,12 +3,13 @@ Article L524-4
 Le fait générateur de la redevance d'archéologie préventive est :
 
 a) Pour les travaux soumis à autorisation ou à déclaration préalable en
-application du code de l'urbanisme, la délivrance de cette autorisation ou la
-non-opposition aux travaux ;
+application du code de l'urbanisme, à l'exception des lotissements, la
+délivrance de cette autorisation ou la non-opposition aux travaux ;
 
-b) Pour les travaux autres que ceux mentionnés au a et donnant lieu à une étude
-d'impact, l'acte qui décide, éventuellement après enquête publique, la
-réalisation du projet et en détermine l'emprise ;
+b) Pour les travaux et aménagements autres que ceux mentionnés au a et donnant
+lieu à une étude d'impact, à l'exception des zones d'aménagement concerté,
+l'acte qui décide, éventuellement après enquête publique, la réalisation du
+projet et en détermine l'emprise ;
 
 c) Pour les autres travaux d'affouillement, le dépôt de la déclaration
 administrative préalable.

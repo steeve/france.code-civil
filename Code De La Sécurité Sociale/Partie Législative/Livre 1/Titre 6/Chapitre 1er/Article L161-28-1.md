@@ -10,7 +10,10 @@ professionnels responsables de ces dépenses et par professionnel ou
 
 2° A la transmission en retour aux prestataires de soins d'informations
 pertinentes relatives à leur activité et leurs recettes, et s'il y a lieu à
-leurs prescriptions.
+leurs prescriptions ;
+
+3° A la définition, à la mise en oeuvre et à l'évaluation de politiques de santé
+publique.
 
 Le système national d'information interrégimes est mis en place par les
 organismes gérant un régime de base d'assurance maladie. Ces derniers

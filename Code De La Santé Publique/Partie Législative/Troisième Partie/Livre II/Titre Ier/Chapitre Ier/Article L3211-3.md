@@ -2,10 +2,11 @@ Article L3211-3
 ----
 Lorsqu'une personne atteinte de troubles mentaux est hospitalisée sans son
 consentement en application des dispositions des chapitres II et III du présent
-titre, les restrictions à l'exercice de ses libertés individuelles doivent être
-limitées à celles nécessitées par son état de santé et la mise en oeuvre de son
-traitement. En toutes circonstances, la dignité de la personne hospitalisée doit
-être respectée et sa réinsertion recherchée.
+titre ou est transportée en vue de cette hospitalisation, les restrictions à
+l'exercice de ses libertés individuelles doivent être limitées à celles
+nécessitées par son état de santé et la mise en oeuvre de son traitement. En
+toutes circonstances, la dignité de la personne hospitalisée doit être respectée
+et sa réinsertion recherchée.
 
 Elle doit être informée dès l'admission et par la suite, à sa demande, de sa
 situation juridique et de ses droits.

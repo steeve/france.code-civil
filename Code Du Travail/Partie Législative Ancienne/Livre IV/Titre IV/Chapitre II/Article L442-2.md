@@ -7,7 +7,7 @@ participation des salariés doit être constituée comme suit :
 de l'exercice, calculées sur le bénéfice réalisé en France métropolitaine et
 dans les départements d'outre-mer, tel qu'il est retenu pour être imposé au taux
 de droit commun de l'impôt sur le revenu ou aux taux de l'impôt sur les sociétés
-prévus au deuxième alinéa et au f, du I de l'article 219 du code général des
+prévus au deuxième alinéa et au b (1), du I de l'article 219 du code général des
 impôts. Ce bénéfice est diminué de l'impôt correspondant qui, pour les
 entreprises soumises à l'impôt sur le revenu, est déterminé dans les conditions
 fixées par décret en Conseil d'Etat ;

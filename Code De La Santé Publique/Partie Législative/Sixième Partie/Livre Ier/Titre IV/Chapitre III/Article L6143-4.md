@@ -30,23 +30,29 @@ directeur de l'agence régionale de l'hospitalisation saisit, pour avis, le
 représentant de l'Etat dans le département.
 
 2° Les délibérations portant sur les matières mentionnées aux 1°, à l'exclusion
-du contrat pluriannuel mentionné aux articles L. 6114-1 et L. 6114-2, 2°, 3°, à
-l'exception du rapport prévu à l'article L. 6143-3, 6° et 7°, 18°, sont soumises
-au directeur de l'agence régionale de l'hospitalisation en vue de leur
-approbation.
+du contrat pluriannuel mentionné aux articles L. 6114-1 et L. 6114-2, 2°, 6°,
+7°, 18° et 19°, sont soumises au directeur de l'agence régionale de
+l'hospitalisation en vue de leur approbation.
 
 A l'exception de celles mentionnées au 3° et sans préjudice de l'application de
 l'article L. 6122-1, elles sont réputées approuvées si le directeur de l'agence
 régionale de l'hospitalisation n'a pas fait connaître son opposition dans un
 délai déterminé. Le délai est de six mois pour les délibérations indiquées au
-1°, de deux mois pour les délibérations indiquées aux 2°, 18° et de trente jours
-pour les délibérations indiquées aux 6° et 7°. Ces délais courent à compter de
-la date de réception des délibérations par le directeur de l'agence régionale de
-l'hospitalisation.
+1°, de deux mois pour les délibérations indiquées aux 2°, 18° et 19° et de
+trente jours pour les délibérations indiquées aux 6° et 7°. Ces délais courent à
+compter de la date de réception des délibérations par le directeur de l'agence
+régionale de l'hospitalisation.
 
-Les délibérations mentionnées au 3° sont soumises au directeur de l'agence
-régionale de l'hospitalisation en vue de leur approbation dans les conditions
-fixées aux articles L. 6145-1, L. 6145-2 et L. 6145-4.
+Les délibérations mentionnées au 3° de l'article L. 6143-1 sont réputées
+approuvées par le directeur de l'agence régionale de l'hospitalisation sauf
+opposition, pour le budget, dans un délai de trente jours suivant la publication
+des arrêtés prévus à l'article L. 162-22-10 et au dernier alinéa de l'article L.
+174-1-1 du code de la sécurité sociale ou dans les trente jours suivant la
+réception dudit état si cette date est postérieure à la date de publication
+desdits arrêtés. Les modifications du budget sont approuvées dans un délai de
+trente jours à compter de leur réception sauf opposition. Les motifs de
+l'opposition du directeur de l'agence régionale de l'hospitalisation sont
+déterminés par décret en Conseil d'Etat.
 
 3° Les délibérations mentionnées au 5° de l'article L. 6143-1 relatives à la
 création d'une structure définie à l'article L. 6146-10 sont soumises au

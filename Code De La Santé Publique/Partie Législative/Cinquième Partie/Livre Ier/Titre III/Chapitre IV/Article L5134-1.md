@@ -25,3 +25,7 @@ diaphragme ou de la cape doit être faite par un médecin ou une sage-femme.
 L'insertion des contraceptifs intra-utérins ne peut être pratiquée que par un
 médecin. Elle est faite soit au lieu d'exercice du médecin, soit dans un
 établissement de santé ou dans un centre de soins agréé.
+
+III. - Les sages-femmes sont habilitées à prescrire une contraception hormonale
+dans les suites de couches, lors de l'examen postnatal et après une interruption
+volontaire de grossesse.

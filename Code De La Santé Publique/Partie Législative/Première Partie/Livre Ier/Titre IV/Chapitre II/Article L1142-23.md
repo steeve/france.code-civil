@@ -9,10 +9,24 @@ Les charges de l'office sont constituées par :
 iatrogènes et d'infections nosocomiales en application des dispositions du
 présent chapitre ;
 
-2° Les frais de gestion administrative de l'office et des commissions régionales
-;
+2° Le versement d'indemnités en réparation des dommages directement imputables à
+une vaccination obligatoire en application de l'article L. 3111-9 ;
 
-3° Les frais des expertises diligentées par les commissions régionales.
+3° Le versement d'indemnités aux victimes de préjudices résultant de la
+contamination par le virus d'immunodéficience humaine en application de
+l'article L. 3122-1 ;
+
+4° Le versement des indemnités prévues à l'article L. 3110-4 aux victimes de
+dommages imputables directement à une activité de prévention, de diagnostic ou
+de soins réalisée en application de mesures prises conformément à l'article L.
+3110-1 ;
+
+5° Les frais de gestion administrative de l'office et des commissions régionales
+et interrégionales ;
+
+6° Les frais résultant des expertises diligentées par les commissions régionales
+et interrégionales ainsi que des expertises prévues pour l'application des
+articles L. 3110-4, L. 3111-9 et L. 3122-2.
 
 Les recettes de l'office sont constituées par :
 
@@ -27,7 +41,13 @@ est fixé chaque année par la loi de financement de la sécurité sociale ;
 
 3° Le produit des pénalités prévues aux mêmes articles ;
 
-4° Le produit des recours subrogatoires mentionnés aux articles L. 1142-15 et L.
-1142-17 ;
+4° Le produit des recours subrogatoires mentionnés aux articles L. 1142-15, L.
+1142-17, L. 3110-4, L. 3111-9 et L. 3122-4 ;
 
-5° Une dotation versée par l'Etat en application de l'article L. 3111-9.
+5° Une dotation versée par l'Etat en application de l'article L. 3111-9 ;
+
+6° Une dotation versée par l'Etat en vue d'assurer l'indemnisation des victimes
+de préjudices résultant de la contamination par le virus d'immunodéficience
+humaine en application des articles L. 3122-1 à L. 3122-5 ;
+
+7° Une dotation versée par le fonds mentionné à l'article L. 3110-5.

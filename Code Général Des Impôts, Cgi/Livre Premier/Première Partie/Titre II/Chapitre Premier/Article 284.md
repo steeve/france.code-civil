@@ -6,25 +6,20 @@ d'un taux réduit est tenue au payement de l'impôt ou du complément d'impôt,
 lorsque les conditions auxquelles est subordonné l'octroi de cette franchise, de
 cette suspension ou de ce taux ne sont pas remplies.
 
-II. Toute personne qui a été autorisée à soumettre au taux réduit de 5,5 p. 100
-la livraison à soi-même de logements sociaux à usage locatif mentionnée au
-quatrième alinéa du c du 1 du 7° de l'article 257 est tenue au paiement du
-complément d'impôt lorsque l'immeuble n'est pas affecté à la location dans les
-conditions prévues au 3° ou au 5° de l'article L. 351-2 du code de la
-construction et de l'habitation.
+II. - Toute personne qui s'est livré à elle-même, a acquis ou s'est fait
+apporter des logements ou des droits immobiliers démembrés de logements au taux
+prévu aux 2, 3, 3 bis, 3 ter ou 5 du I de l'article 278 sexies est tenue au
+paiement du complément d'impôt lorsque les conditions auxquelles est subordonné
+l'octroi de ce taux cessent d'être remplies dans les quinze ans qui suivent le
+fait générateur de l'opération. Ce délai est ramené à dix ans lorsque l'immeuble
+fait l'objet d'une cession, d'une transformation d'usage ou d'une démolition
+dans les conditions prévues au chapitre III du titre IV du livre IV du code de
+la construction et de l'habitation. Toutefois, le complément d'impôt n'est pas
+dû lorsque les conditions cessent d'être remplies à la suite de la vente du
+logement effectuée selon les modalités du 9° du 5 de l'article 261 (1).
 
-III. Toute personne ayant acquis au taux réduit de 5,5 p. 100 un logement social
-à usage locatif ou des droits immobiliers démembrés de tels logements dans les
-conditions du 3 ou du 5 du I de l'article 278 sexies est tenue au paiement du
-complément d'impôt lorsque le logement n'est pas affecté à la location dans les
-conditions prévues au 3° ou au 5° de l'article L. 351-2 du code de la
-construction et de l'habitation.
-
-IV. Toute personne qui a été autorisée à soumettre au taux réduit de 5,5 % les
-livraisons à soi-même de travaux d'amélioration, de transformation ou
-d'aménagement de logements sociaux à usage locatif mentionnées au 7° bis de
-l'article 257 est tenue au paiement du complément d'impôt lorsque l'immeuble
-n'est pas affecté à la location dans les conditions prévues au 3° ou au 5° de
-l'article L. 351-2 du code de la construction et de l'habitation.
-
-V. - (périmé)
+III. - Toute personne qui s'est livré à elle-même des travaux d'amélioration, de
+transformation ou d'aménagement de logements au taux prévu au 4 du I de
+l'article 278 sexies est tenue au paiement du complément d'impôt lorsque les
+conditions auxquelles est subordonné l'octroi de ce taux cessent d'être remplies
+dans les trois ans qui suivent le fait générateur de l'opération (1).

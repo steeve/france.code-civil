@@ -16,10 +16,11 @@ résultant de l'accord sur l'Espace économique européen et figurant sur une li
 établie par arrêté des ministres chargés de l'enseignement supérieur et de la
 santé ;
 
-b) Tout autre diplôme, certificat ou autre titre de praticien de l'art dentaire
+b) Tout diplôme, certificat ou autre titre de praticien de l'art dentaire
 délivré par un Etat, membre ou partie, sanctionnant une formation de praticien
-de l'art dentaire acquise dans cet Etat et commencée avant le 28 janvier 1980,
-s'il est accompagné d'une attestation de cet Etat certifiant que le titulaire de
-diplôme, certificat ou titre s'est consacré de façon effective et licite aux
-activités de praticien de l'art dentaire pendant au moins trois années
-consécutives au cours des cinq années précédant la délivrance de l'attestation.
+de l'art dentaire acquise dans cet Etat antérieurement aux dates fixées par
+l'arrêté mentionné au a et non conforme aux obligations communautaires, s'il est
+accompagné d'une attestation de cet Etat certifiant que le titulaire de diplôme,
+certificat ou titre s'est consacré de façon effective et licite aux activités de
+praticien de l'art dentaire pendant au moins trois années consécutives au cours
+des cinq années précédant la délivrance de l'attestation.

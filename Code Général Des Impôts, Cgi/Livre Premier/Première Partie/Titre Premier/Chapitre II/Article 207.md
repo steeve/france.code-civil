@@ -8,7 +8,7 @@ Article 207
 leurs unions pour leurs activités portant sur l'étude et la défense des droits
 et des intérêts collectifs matériels ou moraux de leurs membres ou des personnes
 qu'ils représentent et à condition qu'ils fonctionnent conformément aux
-dispositions qui les régissent (1) ;
+dispositions qui les régissent ;
 
 2° Sauf pour les opérations effectuées avec des non-sociétaires et à condition
 qu'elles fonctionnent conformément aux dispositions qui les régissent :
@@ -18,7 +18,7 @@ a. les sociétés coopératives agricoles d'approvisionnement et d'achat ;
 b. les unions de sociétés coopératives agricoles d'approvisionnement et d'achat
 ;
 
-2° bis. (Abrogé) (1).
+2° bis. (Abrogé).
 
 3° A condition qu'elles fonctionnent conformément aux dispositions qui les
 régissent, les sociétés coopératives de production, de transformation,
@@ -38,10 +38,10 @@ des non-sociétaires.
 
 Cette exonération est applicable aux opérations effectuées par les coopératives
 de céréales et leurs unions avec l'Office national interprofessionnel des
-céréales [*ONIC*] relativement à l'achat, la vente, la transformation ou le
-transport de céréales ; il en est de même pour les opérations effectuées par des
-coopératives de céréales avec d'autres coopératives de céréales dans le cadre de
-programmes élaborés par l'office ou avec l'autorisation de cet établissement.
+céréales relativement à l'achat, la vente, la transformation ou le transport de
+céréales ; il en est de même pour les opérations effectuées par des coopératives
+de céréales avec d'autres coopératives de céréales dans le cadre de programmes
+élaborés par l'office ou avec l'autorisation de cet établissement.
 
 Les sociétés coopératives agricoles et leurs unions sont tenues de produire, à
 toute réquisition de l'administration, leur comptabilité et les justifications
@@ -101,8 +101,10 @@ collectivités ainsi que leurs régies de services publics ;
 6° bis. Dans les conditions fixées par décret, les établissements publics et
 sociétés d'économie mixte chargés de l'aménagement par une convention
 contractée, en application du deuxième alinéa de l'article L. 300-4 du code de
-l'urbanisme, pour les résultats provenant des opérations réalisées dans le cadre
-des procédures suivantes :
+l'urbanisme ainsi que les sociétés d'habitations à loyer modéré régies par
+l'article L. 411-2 du code de la construction et de l'habitation, pour les
+résultats provenant des opérations réalisées dans le cadre des procédures
+suivantes :
 
 a.- zone d'aménagement concerté ;
 
@@ -111,6 +113,8 @@ b.- lotissements ;
 c.- zone de restauration immobilière ;
 
 d.- zone de résorption de l'habitat insalubre.
+
+e. Opérations de rénovation urbaine.
 
 7° Les sociétés coopératives de construction qui procèdent, sans but lucratif,
 au lotissement et à la vente de terrains leur appartenant. Cette exonération est
@@ -154,6 +158,3 @@ n'utilise pas le travail, mais qui entendent contribuer par l'apport de capitaux
 2. (Abrogé)
 
 3. (Abrogé).
-
-(1) Ces dispositions s'appliquent aux exercices clos à compter du 1er janvier
-2001.

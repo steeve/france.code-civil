@@ -19,7 +19,7 @@ l'exclusion de celles qui déterminent l'arrêt de la filière ;
 
 3° les prestations réalisées dans le cadre de l'entraide entre agriculteurs
 définie par les articles L325-1 à L325-3 du code rural. Cette exonération pourra
-être étendue par décret en Conseil d'Etat aux départements d'outre-mer (1) ;
+être étendue par décret en Conseil d'Etat aux départements d'outre-mer ;
 
 4° les opérations effectuées par les pêcheurs et armateurs à la pêche, à
 l'exception des pêcheurs en eau douce, en ce qui concerne la vente des produits
@@ -161,11 +161,10 @@ d. Les opérations immobilières résultant de l'application des dispositions de
 articles L141-1 à L141-5 du code rural, réalisées par les sociétés d'aménagement
 foncier et d'établissement rural constituées en application de l'article L141-1
 du même code et agréées par le ministre de l'agriculture et le ministre du
-budget (2).
+budget.
 
 Ces dispositions ne s'appliquent pas aux cessions d'immeubles acquis
-postérieurement à la date de publication de la loi n° 90-85 du 23 janvier 1990
-(3).
+postérieurement à la date de publication de la loi n° 90-85 du 23 janvier 1990.
 
 d bis. toutes les cessions effectuées par les sociétés d'aménagement foncier et
 d'établissement rural au titre de l'article L. 141-1 du code rural, dont la
@@ -216,6 +215,12 @@ sociétés se font à elles-mêmes des immeubles qui sont l'objet de ces contrat
 8° les livraisons à soi-même d'immeubles construits par les sociétés civiles
 immobilières constituées par les organismes régis par la réglementation sur les
 habitations à loyer modéré en vue de favoriser l'accession à la propriété.
+
+9° Lorsqu'elles entrent dans le champ d'application du 7° de l'article 257, les
+ventes à leurs occupants, dans les conditions prévues par la loi n° 84-595 du 12
+juillet 1984 définissant la location-accession à la propriété immobilière, de
+logements ayant fait l'objet de la livraison à soi-même prévue au cinquième
+alinéa du c du 1 du 7° de l'article 257 (1).
 
 6. (Abrogé).
 
@@ -333,7 +338,7 @@ de reprise des apports.
 Tous les organismes concernés par les a, b et c sont placés sous le régime du
 chiffre d'affaires réel ; un décret en Conseil d'Etat détermine leurs
 obligations ainsi que l'étendue et les modalités d'exercice de leurs droits à
-déduction (4) ;
+déduction ;
 
 1° bis les opérations effectuées par les associations intermédiaires
 conventionnées, visées à l'article L. 322-4-16-3 du code du travail, dont la
@@ -349,8 +354,11 @@ ou de travailleurs handicapés, agréés dans les conditions prévues par la loi
 72-616 du 5 juillet 1972, ainsi que les réparations effectuées par ces
 groupements. Ils peuvent toutefois, sur leur demande, renoncer à l'exonération
 dans les conditions et selon les modalités prévues par décret en Conseil d'Etat
-(5) ;
+;
 
 4° (Abrogé) ;
 
 8. et 9. (Abrogés).
+
+(1) Ces dispositions s'appliquent aux opérations qui ont bénéficié d'une
+décision d'agrément délivrée postérieurement au 26 mars 2004.

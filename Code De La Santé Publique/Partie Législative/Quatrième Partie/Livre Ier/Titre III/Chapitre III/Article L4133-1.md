@@ -1,21 +1,22 @@
 Article L4133-1
 ----
-La formation médicale continue a pour objectif l'entretien et le
-perfectionnement des connaissances, y compris dans le domaine des droits de la
-personne ainsi que l'amélioration de la prise en charge des priorités de santé
-publique.
+La formation médicale continue a pour objectif le perfectionnement des
+connaissances et l'amélioration de la qualité des soins et du mieux-être des
+patients, notamment dans le domaine de la prévention, ainsi que l'amélioration
+de la prise en compte des priorités de santé publique.
 
-Elle constitue une obligation pour tout médecin tenu pour exercer sa pratique de
-s'inscrire à l'ordre des médecins en vertu des dispositions du 3° de l'article
-L. 4111-1.
+La formation médicale continue constitue une obligation pour les médecins
+exerçant à titre libéral, les médecins salariés non hospitaliers ainsi que pour
+les personnels mentionnés à l'article L. 6155-l.
 
-L'obligation de formation peut être satisfaite, au choix du médecin, soit en
-participant à des actions de formation agréées, soit en se soumettant à une
-procédure adaptée d'évaluation des connaissances réalisée par un organisme
-agréé, soit en présentant oralement au conseil régional un dossier répondant à
-l'obligation mentionnée au présent article. Le respect de l'obligation fait
-l'objet d'une validation. La méconnaissance de cette obligation est de nature à
-entraîner des sanctions disciplinaires.
+Les professionnels de santé visés au deuxième alinéa du présent article sont
+tenus de transmettre au conseil régional de la formation médicale continue
+mentionné à l'article L. 4133-4 les éléments justifiant de leur participation à
+des actions de formations agréées, à des programmes d'évaluation réalisés par un
+organisme agréé, ou attestant qu'ils satisfont, à raison de la nature de leur
+activité, au respect de cette obligation.
+
+Le respect de cette obligation fait l'objet d'une validation.
 
 Peut obtenir un agrément toute personne morale de droit public ou privé, à
 caractère lucratif ou non, dès lors qu'elle répond aux critères fixés par les

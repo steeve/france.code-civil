@@ -3,7 +3,10 @@ Article L6221-9
 Les directeurs et directeurs adjoints de laboratoires d'analyses de biologie
 médicale doivent exercer personnellement et effectivement leurs fonctions.
 
-Ils ne peuvent les exercer dans plus d'un laboratoire.
+Ils ne peuvent les exercer dans plus d'un laboratoire. Toutefois, les directeurs
+adjoints peuvent exercer leurs fonctions à temps partiel dans deux laboratoires
+situés soit dans une zone géographique constituée de trois départements
+limitrophes entre eux, soit exclusivement dans la région Ile-de-France.
 
 Ils ne peuvent exercer une autre activité médicale, pharmaceutique ou
 vétérinaire, à l'exception des actes médicaux et prescriptions pharmacologiques

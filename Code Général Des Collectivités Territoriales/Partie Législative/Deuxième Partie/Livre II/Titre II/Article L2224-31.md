@@ -21,7 +21,9 @@ l'exercice des compétences de celle-ci, dans les conditions prévues par les
 dispositions de l'article 20 de la loi n° 2000-108 du 10 février 2000 relative à
 la modernisation et au développement du service public de l'électricité et de
 l'article 9 de la loi n° 2003-8 du 3 janvier 2003 relative aux marchés du gaz et
-de l'électricité et au service public de l'énergie.
+de l'électricité et au service public de l'énergie. Il communique chaque année,
+notamment, la valeur brute, la valeur nette comptable et la valeur de
+remplacement des ouvrages concédés.
 
 Des fonctionnaires et agents parmi ceux qui sont chargés des missions de
 contrôle visées aux alinéas précédents sont habilités à cet effet par le maire
@@ -97,3 +99,34 @@ même article prenant en compte les capacités techniques et financières de
 l'opérateur. Ces communes ou ces établissements publics de coopération peuvent
 également créer une régie, avoir recours à un établissement de ce type existant
 ou participer à une société d'économie mixte existante.
+
+IV. - Un réseau public de distribution d'électricité a pour fonction de
+desservir les consommateurs finals et les producteurs d'électricité raccordés en
+moyenne et basse tension.
+
+L'autorité organisatrice d'un réseau public de distribution, exploité en régie
+ou concédé, est la commune ou l'établissement public de coopération auquel elle
+a transféré cette compétence, ou le département s'il exerce cette compétence à
+la date de publication de la loi n° 2004-803 du 9 août 2004 relative au service
+public de l'électricité et du gaz et aux entreprises électriques et gazières.
+
+Sous réserve des dispositions des articles 12 et 24 de la loi n° 2000-108 du 10
+février 2000 précitée et des articles 10 et 37 de la loi n° 2004-803 du 9 août
+2004 précitée, un réseau public de distribution est constitué par les ouvrages
+de tension inférieure à 50 kV situés sur le territoire de l'autorité
+organisatrice de la distribution d'électricité ainsi que par les ouvrages de
+tension supérieure existant, sur le territoire métropolitain continental, à la
+date de publication de la loi n° 2004-803 du 9 août 2004 précitée et non
+exploités par Electricité de France en tant que gestionnaire du réseau public de
+transport à cette même date. Un décret en Conseil d'Etat définit, en particulier
+pour les postes de transformation, les conditions de l'appartenance des ouvrages
+ou parties d'ouvrages aux réseaux publics de distribution, notamment en ce qui
+concerne leurs caractéristiques, leurs fonctions ou la date de leur mise en
+service.
+
+V. - Lorsque, dans des communes fusionnées préalablement à la publication de la
+loi n° 2004-803 du 9 août 2004 précitée, la distribution d'électricité ou de gaz
+est assurée par des organismes de distribution distincts, l'autorité
+organisatrice de la distribution peut, nonobstant toutes dispositions
+contraires, confier à l'un de ces organismes la distribution sur tout le
+territoire de la commune à la date de son choix.

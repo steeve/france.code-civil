@@ -6,8 +6,7 @@ Sont déterminées, en tant que de besoin, par décret en Conseil d'Etat :
 médicaments vétérinaires et des aliments supplémentés mentionnés aux articles L.
 5141-2 et L. 5141-3 ;
 
-2° Les modalités d'application de l'article L. 5141-4 relatif aux bonnes
-pratiques de laboratoire ;
+2° (Alinéa abrogé)
 
 3° Les conditions d'octroi, de suspension ou de retrait des autorisations
 mentionnées à l'article L. 5141-5 ;

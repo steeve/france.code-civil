@@ -13,7 +13,7 @@ l'article L. 6162-5.
 
 Les membres de droit énumérés au précédent alinéa désignent les trois autres
 membres à la majorité des voix. Les désignations ainsi faites sont soumises à
-l'agrément du ministre chargé de la santé.
+l'agrément du directeur de l'agence régionale de l'hospitalisation.
 
 La présidence du conseil d'administration appartient au représentant de l'Etat
 dans le département, la vice-présidence au directeur départemental des affaires

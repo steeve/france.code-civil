@@ -4,7 +4,10 @@ Un débit de boissons à consommer sur place exploité peut être transféré da
 rayon de cent kilomètres, sous réserve des zones protégées, sur les points où
 l'existence d'un établissement de ce genre répond, compte tenu des débits déjà
 exploités, à des nécessités touristiques dûment constatées. La distance de cent
-kilomètres est calculée à vol d'oiseau de débit à débit.
+kilomètres est calculée à vol d'oiseau de débit à débit. Toutefois, les débits
+de boissons à consommer sur place peuvent être transférés sans limitation de
+distance au profit de certains établissements de tourisme dans des cas et selon
+des conditions déterminées par décret en Conseil d'Etat.
 
 Les demandes d'autorisation de transfert prévues à l'alinéa suivant sont
 soumises, dans chaque département, à l'approbation d'une commission composée

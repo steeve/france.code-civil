@@ -1,21 +1,17 @@
 Article L1334-5
 ----
-Un état des risques d'accessibilité au plomb est annexé à toute promesse
-unilatérale de vente ou d'achat, à tout contrat réalisant ou constatant la vente
-d'un immeuble affecté en tout ou partie à l'habitation construit avant 1948 et
-situé dans une zone à risque d'exposition au plomb délimitée par le représentant
-de l'Etat dans le département. Cet état doit avoir été établi depuis moins d'un
-an à la date de la promesse de vente ou d'achat ou du contrat susvisé.
+Un constat de risque d'exposition au plomb présente un repérage des revêtements
+contenant du plomb et, le cas échéant, dresse un relevé sommaire des facteurs de
+dégradation du bâti. Est annexée à ce constat une notice d'information dont le
+contenu est précisé par arrêté des ministres chargés de la santé et de la
+construction.
 
-Les fonctions d'expertise ou de diagnostic sont exclusives de toute autre
-activité d'entretien ou de réparation de cet immeuble.
+Les conditions exigées de l'auteur du constat et, notamment, ses qualifications
+sont déterminées par décret en Conseil d'Etat.
 
-Aucune clause d'exonération de la garantie des vices cachés ne peut être
-stipulée à raison des vices constitués par l'accessibilité au plomb si l'état
-mentionné au premier alinéa n'est pas annexé aux actes susvisés.
-
-Lorsque l'état annexé à l'acte authentique qui réalise ou constate la vente
-révèle une accessibilité au plomb, le vendeur ou son mandataire en informe le
-représentant de l'Etat dans le département. Celui-ci met en oeuvre en tant que
-de besoin les dispositions prévues aux articles L. 1334-2, L. 1334-3 et L.
-1334-4.
+Les activités de l'auteur du constat doivent être couvertes par une assurance
+contre les conséquences de sa responsabilité professionnelle. Il ne doit y avoir
+aucun lien de nature à porter atteinte à son impartialité et à son indépendance
+ni avec le ou les propriétaires ou leurs mandataires qui font appel à lui, ni
+avec une entreprise susceptible d'effectuer les travaux sur les ouvrages,
+installations ou équipements pour lesquels il réalise ce constat.

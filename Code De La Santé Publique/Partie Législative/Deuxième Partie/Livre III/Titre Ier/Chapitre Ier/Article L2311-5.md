@@ -14,8 +14,8 @@ l'ouverture du droit aux prestations couvertes par les régimes de base, au
 remboursement de la part garantie par l'assurance maladie et à la participation
 de l'assuré aux tarifs servant de base aux remboursements.
 
-Un décret pris après avis du Conseil supérieur d'hygiène publique de France fixe
-les modalités d'application du présent article. Ce décret fixe également les
+Un décret pris après avis du Haut Conseil de la santé publique fixe les
+modalités d'application du présent article. Ce décret fixe également les
 conditions dans lesquelles les dépenses afférentes à ce dépistage et à ce
 traitement sont prises en charge par les organismes d'assurance maladie sur la
 base des tarifs déterminés dans les conditions prévues au chapitre II du titre

@@ -16,7 +16,7 @@ Lorsque le sang ou ses composants sont prélevés pour constituer directement un
 collection d'échantillons biologiques humains, les dispositions mentionnées aux
 articles L. 1243-3 et L. 1243-4 sont applicables ainsi que les principes de
 l'indemnisation des conséquences dommageables et de l'obligation d'assurance
-tels que définis, pour les recherches biomédicales, à l'article L. 1121-7.
+tels que définis, pour les recherches biomédicales, à l'article L. 1121-10.
 
 Lorsque des prélèvements de sang visés à l'alinéa précédent sont effectués, à
 des fins de constitution d'une collection d'échantillons biologiques humains,
@@ -25,7 +25,6 @@ mineurs ou des majeurs faisant l'objet d'une mesure de protection légale ou hor
 d'état d'exprimer leur consentement, sur des personnes privées de liberté, des
 personnes hospitalisées sans leur consentement, des personnes admises dans un
 établissement sanitaire ou social à d'autres fins que la recherche, le comité
-consultatif de protection des personnes mentionné à l'article L. 1243-3
-s'assure, en outre, que la collection est destinée à des recherches qui ne
-pourraient pas être effectuées sur une autre catégorie de la population avec une
-efficacité comparable. ;
+mentionné au troisième alinéa de l'article L. 1243-3 s'assure, en outre, que la
+collection est destinée à des recherches qui ne pourraient pas être effectuées
+sur une autre catégorie de la population avec une efficacité comparable.

@@ -24,7 +24,7 @@ lequel ils conduisent une action de coopération.
 Préalablement à la conclusion d'un des baux mentionnés aux précédents alinéas,
 l'établissement public de santé ou, le cas échéant, la structure de coopération
 sanitaire dotée de la personnalité morale publique définit dans un programme
-détaillé les besoins que le preneur à bail doit s'engager à satisfaire.
+fonctionnel les besoins que le preneur à bail doit s'engager à satisfaire.
 
 Ces baux satisfont aux conditions particulières énumérées à l'article L. 1311-3
 du code général des collectivités territoriales. Ils peuvent comporter une

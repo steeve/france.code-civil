@@ -12,10 +12,13 @@ Sous réserve des dispositions de l'article L. 5124-14, ces établissements ont
 vocation à développer toute activité liée à la transfusion sanguine, au conseil
 et au suivi des actes de transfusion. Ils peuvent notamment être autorisés à
 distribuer des médicaments dérivés du sang dans les conditions prévues à
-l'article L. 5124-15 et à les dispenser aux malades qui y sont traités. Ils
-peuvent, en outre, à titre accessoire, être autorisés à exercer d'autres
-activités de santé, notamment des activités de soins et de laboratoire d'analyse
-de biologie médicale, conformément aux règles applicables à ces activités.
+l'article L. 5124-15 et à les dispenser et administrer aux malades qui y sont
+traités. Ils peuvent, en outre, à titre accessoire, être autorisés à exercer
+d'autres activités de santé, notamment des activités de soins et de laboratoire
+d'analyse de biologie médicale, conformément aux règles applicables à ces
+activités. Les établissements de transfusion sanguine sont autorisés à dispenser
+et à administrer les médicaments nécessaires à l'exercice de leurs activités
+liées à la transfusion sanguine et, le cas échéant, de leurs activités de soins.
 
 Les activités de laboratoires d'analyses de biologie médicale mentionnées au
 précédent alinéa sont autorisées par l'autorité compétente de l'Etat dans le

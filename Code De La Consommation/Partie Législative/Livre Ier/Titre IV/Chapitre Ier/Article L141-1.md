@@ -1,27 +1,28 @@
 Article L141-1
 ----
 I. - Sont constatées et poursuivies dans les conditions fixées par les articles
-L450-1 à L450-4, L450-7, L450-8, L470-1 et L470-5 du code de commerce,
-reproduits au paragraphe IV ci-après, les infractions aux dispositions prévues
-au présent code par :
+L450-1, L450-2, L450-3 et L450-4, L450-7, L450-8 du code de commerce, reproduits
+au paragraphe IV ci-après, les infractions aux dispositions prévues au présent
+code par :
 
 1° Les articles L. 121-70, L. 121-71, L. 121-72, L. 122-6 et L. 122-7 ;
 
 2° Les articles L. 132-1 à L. 132-5, L. 133-1 et L. 134-1.
 
 II. - Dans les conditions fixées par les articles L450-1 à L450-4, L450-8,
-L470-1 et L470-5 du code précité, reproduits au paragraphe IV ci-après, les
+L470-1 et L470-5 du code de commerce, reproduits au paragraphe IV ci-après, les
 personnes habilitées en vertu de l'article L450-1 de ce code peuvent procéder
 aux enquêtes nécessaires à l'application des dispositions prévues par les
-articles L. 113-3, L 121-35 et L. 122-1 du présent code.
+articles L. 113-3, L. 121-35 et L. 122-1 du présent code, et par l'article L.
+3351-8 du code de la santé publique.
 
 III. - Les dispositions des articles L470-1 et L470-5 du code précité,
 reproduits au paragraphe IV ci-après, sont applicables aux dispositions prévues
 par les articles L. 113-3, L. 121-35 et L. 122-1 du présent code.
 
 IV. - Les règles relatives à l'application des dispositions des paragraphes I à
-III ci-dessus sont fixées par les articles L450-1 à à L450-4, L450-8, L470-1 et
-L470-5 du code précité, reproduits ci-après :
+III ci-dessus sont fixées par les articles L450-1 à à L450-4, L450-7, L450-8,
+L470-1 et L470-5 du code précité, reproduits ci-après :
 
 "Art. L450-1 : Des fonctionnaires habilités à cet effet par le ministre chargé
 de l'économie peuvent procéder aux enquêtes nécessaires à l'application des

@@ -10,10 +10,10 @@ avoir entendu le président de la commission médicale d'établissement ;
 2° Les programmes d'investissement relatifs aux travaux et équipements matériels
 lourds ;
 
-3° Le rapport prévu à l'article L. 6143-3 ainsi que le budget et les décisions
-modificatives y compris les propositions de dotation globale et de tarifs de
-prestations mentionnés aux articles L. 174-1 et L. 174-3 du code de la sécurité
-sociale ;
+3° Le budget prévu à l'article L. 6145-1 et ses modifications ainsi que les
+propositions de dotation annuelle de financement et les tarifs de prestations
+mentionnées respectivement aux articles L. 162-22-16, L. 174-1 et L. 174-3 du
+code de la sécurité sociale ;
 
 4° Les comptes et l'affectation des résultats d'exploitation ;
 
@@ -71,4 +71,11 @@ partenariat conclus en application du titre Ier de l'ordonnance n° 2004-559 du
 17 juin 2004 et les conventions conclues en application de l'article L. 6148-3
 et de l'article L. 1311-4-1 du code général des collectivités territoriales,
 lorsqu'elles répondent aux besoins d'un établissement public de santé ou d'une
-structure de coopération sanitaire dotée de la personnalité morale publique.
+structure de coopération sanitaire dotée de la personnalité morale publique ;
+
+19° La prise de participation, la modification de l'objet social ou des
+structures des organes dirigeants, la modification du capital et la désignation
+du ou des représentants de l'établissement au sein du conseil d'administration
+ou de surveillance d'une société d'économie mixte locale, dans les conditions
+prévues par le présent code et par le code général des collectivités
+territoriales.

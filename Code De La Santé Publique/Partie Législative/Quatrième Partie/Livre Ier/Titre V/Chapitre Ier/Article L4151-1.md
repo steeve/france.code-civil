@@ -8,5 +8,8 @@ l'enfant, sous réserve des dispositions des articles L. 4151-2 à L. 4151-4 et
 suivant les modalités fixées par le code de déontologie de la profession,
 mentionné à l'article L. 4127-1.
 
+L'examen postnatal peut être pratiqué par une sage-femme si la grossesse a été
+normale et si l'accouchement a été eutocique.
+
 L'exercice de la profession de sage-femme peut comporter également la
 participation aux consultations de planification familiale.

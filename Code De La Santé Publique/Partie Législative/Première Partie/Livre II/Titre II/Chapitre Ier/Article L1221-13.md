@@ -4,7 +4,9 @@ On entend par hémovigilance l'ensemble des procédures de surveillance organis�
 depuis la collecte du sang et de ses composants jusqu'au suivi des receveurs, en
 vue de recueillir et d'évaluer les informations sur les effets inattendus ou
 indésirables résultant de l'utilisation thérapeutique des produits sanguins
-labiles et d'en prévenir l'apparition.
+labiles en vue d'en prévenir l'apparition, ainsi que les informations sur les
+incidents graves ou inattendus survenus chez les donneurs. L'hémovigilance
+comprend également le suivi épidémiologique des donneurs.
 
 Les personnes qui ont à connaître de ces informations sont tenues au secret
 professionnel dans les conditions et sous les peines prévues aux articles 226-13

@@ -18,15 +18,14 @@ caractéristiques cliniques ou biologiques d'un ou plusieurs membres du groupe,
 ainsi que des dérivés de ces prélèvements.
 
 Les organismes mentionnés au premier alinéa soumettent leur projet de
-déclaration à l'avis préalable d'un comité consultatif de protection des
-personnes, défini au chapitre III du titre II du livre Ier de la présente
-partie, qui a pour mission d'évaluer la qualité de l'information des
-participants, les modalités de recueil du consentement et la pertinence éthique
-et scientifique du projet. La déclaration est adressée au ministre chargé de la
-recherche et, le cas échéant, au directeur de l'agence régionale de
-l'hospitalisation territorialement compétent, concomitamment à la soumission
-pour avis au comité consultatif de protection des personnes. L'avis de ce
-dernier leur est transmis sans délai.
+déclaration à l'avis préalable d'un comité, défini au chapitre III du titre II
+du livre Ier de la présente partie, qui a pour mission d'évaluer la qualité de
+l'information des participants, les modalités de recueil du consentement et la
+pertinence éthique et scientifique du projet. La déclaration est adressée au
+ministre chargé de la recherche et, le cas échéant, au directeur de l'agence
+régionale de l'hospitalisation territorialement compétent, concomitamment à la
+soumission pour avis au comité. L'avis de ce dernier leur est transmis sans
+délai.
 
 Le ministre chargé de la recherche et, le cas échéant, le directeur de l'agence
 régionale de l'hospitalisation territorialement compétent peuvent s'opposer,
