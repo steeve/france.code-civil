@@ -9,6 +9,3 @@ audition.
 S'il ne satisfait pas à cette obligation, avis en est donné au magistrat mandant
 qui peut le contraindre à comparaître par la force publique et prendre contre
 lui les sanctions prévues aux troisième et quatrième alinéas de l'article 109.
-
-Lorsqu'il est fait application des dispositions de l'article 62-1,
-l'autorisation est donnée par le juge d'instruction.

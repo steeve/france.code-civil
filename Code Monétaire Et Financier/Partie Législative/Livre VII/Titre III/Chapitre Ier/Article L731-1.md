@@ -1,7 +1,7 @@
 Article L731-1
 ----
 Les articles L. 131-1 à L. 131-87, à l'exception de la seconde phrase du
-troisième alinéa de l'article L. 131-71, les articles L. 132-1, L. 132-2, ainsi
+troisième alinéa de l'article L. 131-71, les articles L. 132-1 à L. 132-6, ainsi
 que les articles L. 163-1 à L. 163-12 sont applicables à Mayotte dans des
 conditions précisées par décret en Conseil d'Etat.
 

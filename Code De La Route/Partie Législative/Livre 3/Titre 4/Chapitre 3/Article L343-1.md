@@ -12,7 +12,13 @@ la conservation ou l'utilisation normale des voies ouvertes à la circulation
 publique et de leurs dépendances, notamment par les véhicules de transport en
 commun, peuvent, dans les cas et conditions précisés par le décret prévu à
 l'article L. 325-11, être immobilisés, mis en fourrière, retirés de la
-circulation et, le cas échéant, aliénés ou livrés à la destruction."
+circulation et, le cas échéant, aliénés ou livrés à la destruction.
+
+Peuvent également être immobilisés, mis en fourrière, retirés de la circulation
+et, le cas échéant, aliénés ou livrés à la destruction les véhicules qui, se
+trouvant sur les voies ouvertes à la circulation publique ou sur leurs
+dépendances, sont privés d'éléments indispensables à leur utilisation normale et
+insusceptibles de réparation immédiate à la suite de dégradations ou de vols."
 
 "Art. L. 325-2 - Pour l'application de l'article L. 325-1 et sur prescription de
 l'officier de police judiciaire territorialement compétent, les fonctionnaires

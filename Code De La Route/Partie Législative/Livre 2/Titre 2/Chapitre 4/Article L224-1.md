@@ -15,3 +15,7 @@ prévues à l'alinéa précédent. Le procès-verbal fait état des raisons pour
 lesquelles il n'a pu être procédé aux épreuves de dépistage prévues au premier
 alinéa ; en cas d'état d'ivresse manifeste du conducteur ou de l'accompagnateur,
 les épreuves doivent être effectuées dans les plus brefs délais.
+
+Lorsque le dépassement de 40 km/h ou plus de la vitesse maximale autorisée est
+établi au moyen d'un appareil homologué et lorsque le véhicule est intercepté,
+les dispositions du présent article sont applicables au conducteur.

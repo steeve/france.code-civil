@@ -1,8 +1,10 @@
 Article L163-6
 ----
-Dans tous les cas prévus aux articles L. 163-2 à L. 163-4, et L. 163-7, le
-tribunal peut prononcer, pour une durée de cinq ans, l'interdiction des droits
-civiques, civils et de famille prévue à l'article 131-26 du code pénal.
+Dans tous les cas prévus aux articles L. 163-2 à L. 163-4-1 et L. 163-7, le
+tribunal peut prononcer l'interdiction des droits civiques, civils et de famille
+prévue par l'article 131-26 du code pénal ainsi que l'interdiction, pour une
+durée de cinq ans au plus, d'exercer une activité professionnelle ou sociale, en
+application des dispositions des articles 131-27 et 131-28 du code pénal.
 
 Dans les mêmes cas, il peut interdire au condamné, pour une durée de cinq ans,
 d'émettre des chèques autres que ceux qui permettent exclusivement le retrait de

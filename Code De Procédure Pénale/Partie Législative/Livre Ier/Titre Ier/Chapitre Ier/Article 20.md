@@ -9,9 +9,9 @@ police nationale n'ayant pas la qualité d'officier de police judiciaire ainsi
 que les fonctionnaires stagiaires de ce même corps, et les élèves lieutenants de
 police ;
 
-3° Les fonctionnaires du corps de maîtrise et d'application de la police
-nationale qui comptent au moins deux ans de services en qualité de titulaires,
-sous réserve des dispositions concernant les fonctionnaires visés au 4° et au 5°
+3° Les fonctionnaires titulaires du corps de maîtrise et d'application de la
+police nationale n'ayant pas la qualité d'officier de police judiciaire, sous
+réserve des dispositions concernant les fonctionnaires visés au 4° et au 5°
 ci-après ;
 
 4° Les gardiens de la paix issus de l'ancien corps des gradés et gardiens de la
