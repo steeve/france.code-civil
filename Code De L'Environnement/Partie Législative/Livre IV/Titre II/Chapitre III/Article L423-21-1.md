@@ -4,15 +4,15 @@ Le montant des redevances cynégétiques est fixé par arrêté conjoint du mini
 chargé de la chasse et du ministre chargé du budget, dans la limite des plafonds
 suivants :
 
-Redevance cynégétique nationale : 1 270 francs
+Redevance cynégétique nationale : 194 euros
 
-Redevance cynégétique nationale temporaire : 762 francs
+Redevance cynégétique nationale temporaire : 116 euros
 
-Redevance cynégétique départementale : 250 francs
+Redevance cynégétique départementale : 38 euros
 
-Redevance cynégétique départementale temporaire : 150 francs
+Redevance cynégétique départementale temporaire : 23 euros
 
-Redevance cynégétique gibier d'eau : 96 francs
+Redevance cynégétique gibier d'eau : 15 euros
 
 La perception des redevances cynégétiques donne lieu à l'apposition de timbres,
 sur le permis de chasser, par le comptable du Trésor territorialement compétent
