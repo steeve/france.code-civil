@@ -1,38 +1,19 @@
 Article R*313-36
 ----
-Les organismes collecteurs mentionnés aux articles R. 318-8 à R. 313-11 doivent
-utiliser les sommes recueillies au titre de l'article R. 313-10 en priorité pour
-le logement des travailleurs immigrés et de leur famille dans des immeubles
-conformes à des programmes agréés préalablement par le ministre chargé de la
-construction et de l'habitation et le ministre chargé du travail.
+Dans le cadre des priorités définies par le Gouvernement, l'agence nationale
+établit le programme annuel d'emploi des fonds mentionnés au troisième alinéa de
+l'article L. 313-1 dont une fraction, fixée par arrêté des ministres chargés de
+la construction et de l'habitation, de l'économie et des affaires sociales, est
+imputée à une réserve nationale affectée sur décisions des ministres chargés de
+la construction et de l'habitation et des affaires sociales.
 
-Un organisme interprofessionnel, dont les statuts sont approuvés par arrêté du
-ministre chargé des finances, du ministre chargé de la construction et de
-l'habitation et du ministre chargé du travail, autorise les organismes
-mentionnés à l'article R. 313-9 (2., a) ainsi que ceux mentionnés à l'article R.
-313-9 (2., b et c) figurant sur une liste établie conjointement par le ministre
-chargé de la construction et de l'habitation, le ministre chargé du travail, le
-ministre chargé de l'industrie, le ministre chargé du commerce et le ministre
-chargé de l'artisanat à utiliser directement au financement des programmes
-agréés dans les conditions fixées à l'article R 313-31 tout ou partie des sommes
-qu'ils ont recueillies.
+Conformément à ce programme annuel, les organismes collecteurs mentionnés à
+l'article R. 313-9 doivent affecter ces fonds à des opérations agréées
+préalablement par les ministres chargés de la construction et de l'habitation et
+des affaires sociales et en priorité pour le logement des travailleurs immigrés
+et leur famille.
 
-L'organisme interprofessionnel reçoit des organismes collecteurs des sommes
-destinées à permettre aux organismes utilisateurs directs dont les ressources
-seraient insuffisantes de réaliser des opérations dans le cadre de programmes
-agréés. A ce titre :
-
-a) Les organismes collecteurs doivent lui reverser en subvention les sommes
-qu'ils n'ont pas été autorisés à utiliser directement, dans les conditions et
-sous les sanctions fixées par un des arrêtés mentionnés au dernier alinéa du
-présent article ;
-
-b) Il peut imposer aux organismes utilisateurs directs le versement de sommes en
-tant que de besoin.
-
-Des arrêtés du ministre chargé des finances, du ministre chargé de la
-construction et de l'habitation, du ministre chargé du travail, du ministre
-chargé du commerce, du ministre chargé de l'artisanat et du ministre chargé de
-l'industrie fixent les conditions de l'intervention de l'organisme
-interprofessionnel et les règles de l'élaboration et de l'exécution des
-programmes.
+En application de l'article L. 313-9, l'agence nationale autorise les organismes
+habilités à collecter la participation des employeurs à l'effort de
+construction, à utiliser directement tout ou partie des fonds mentionnés au
+troisième alinéa de l'article L. 313-1.
