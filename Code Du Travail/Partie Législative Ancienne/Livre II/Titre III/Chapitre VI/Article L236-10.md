@@ -6,7 +6,8 @@ des conditions de travail bénéficient de la formation nécessaire à l'exercic
 leurs missions dans les conditions fixées aux premier et deuxième alinéas de
 l'article L. 434-10.
 
-Le financement de cette formation est pris en charge par l'employeur.
+La charge financière de cette formation incombe à l'employeur dans des
+conditions et des limites qui sont fixées par voie réglementaire.
 
 Cette formation pour les représentants du personnel au comité d'hygiène, de
 sécurité et des conditions de travail dans les établissements de moins de trois

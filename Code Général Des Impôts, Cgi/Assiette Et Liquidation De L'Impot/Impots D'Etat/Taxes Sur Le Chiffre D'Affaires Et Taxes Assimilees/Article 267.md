@@ -3,9 +3,8 @@ Article 267
 I Sont à comprendre dans la base d'imposition :
 
 1° Les impôts, taxes, droits et prélèvements de toute nature à l'exception de la
-taxe sur la valeur ajoutée elle-même et de la cotisation sur le tabac et les
-boissons alcooliques instituée par l'article 26 de la loi n° 83-25 du 19 janvier
-1983 ;
+taxe sur la valeur ajoutée elle-même et de la cotisation sur les boissons
+alcooliques instituée par l'article 26 de la loi n° 83-25 du 19 janvier 1983 ;
 
 2° Les frais accessoires aux livraisons de biens ou prestations de services tels
 que commissions, intérêts, frais d'emballage, de transport et d'assurance
