@@ -20,8 +20,8 @@ a. Elle doit reprendre à son passif :
 - d'une part, les provisions dont l'imposition est différée ;
 
 - d'autre part, la réserve spéciale où la société absorbée a porté les
-plus-values à long terme soumises antérieurement au taux réduit de 10 %, de 15 %
-ou de 25 %.
+plus-values à long terme soumises antérieurement au taux réduit de 10 %, de 15
+%, de 19 % ou de 25 %.
 
 b. Elle doit se substituer à la société absorbée pour la réintégration des
 plus-values dont l'imposition avait été différée chez cette dernière.
@@ -54,3 +54,7 @@ Pour l'application du c du 3, en cas de cession ultérieure des droits mentionn�
 à l'alinéa précédent qui sont assimilés à des éléments non amortissables ou de
 cession du terrain, la plus-value est calculée d'après la valeur que ces droits
 avaient, du point de vue fiscal, dans les écritures de la société absorbée.
+
+Ces dispositions s'appliquent aux droits afférents aux contrats de crédit-bail
+portant sur des éléments incorporels amortissables d'un fonds de commerce ou
+d'un fonds artisanal.
