@@ -39,7 +39,7 @@ l'article L. 310 du code de la sécurité sociale ;
 
 III. Le prélèvement est établi, liquidé et recouvré sous les mêmes garanties et
 sanctions que celui mentionné à l'article 125 A. Les dispositions des articles
-242 ter-1, 242 ter A, 1764 et 1768 bis sont applicables.
+242 ter-1, 1764 et 1768 bis sont applicables.
 
 (1) Ces dispositions sont applicables aux bons, contrats ou placements souscrits
 à compter du 1er janvier 1983.

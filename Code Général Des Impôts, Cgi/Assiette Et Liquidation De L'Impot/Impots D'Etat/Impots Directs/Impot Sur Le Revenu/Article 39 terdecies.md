@@ -3,11 +3,14 @@ Article 39 terdecies
 1 Le régime des plus-values à long terme est applicable, dans les conditions et
 limites qui pourront être fixées par décret (1), aux produits des cessions de
 brevets, de procédés et de techniques, ainsi qu'aux concessions de licences
+exclusives d'exploitation. Pour l'imposition des bénéfices des exercices clos à
+partir du 31 décembre 1984, ce régime s'applique également aux concessions non
 exclusives d'exploitation.
 
 Il en est de même pour les concessions de licences par lesquelles le titulaire
 se dessaisit pour un secteur géographique déterminé ou pour une application
-particulière.
+particulière. Ces dispositions cessent d'être applicables pour l'imposition des
+bénéfices des exercices clos à partir du 31 décembre 1984.
 
 Ce régime s'applique également, dans des conditions et limites qui seront fixées
 par décret (1), aux produits de cessions de brevets ou de concessions de
@@ -28,7 +31,8 @@ Des liens de dépendance [*définition*] sont réputés exister entre deux
 entreprises :
 
 - Lorsque l'une détient directement ou par personne interposée la majorité du
-capital social de l'autre ou y exerce en fait le pouvoir de décision;
+capital social de l'autre ou y exerce en fait le pouvoir de décision
+[*société-mère et filiale*].
 
 - Lorsqu'elles sont placées l'une et l'autre, dans les conditions définies à
 l'alinéa précédent, sous le contrôle d'une même tierce entreprise.

@@ -14,10 +14,15 @@ qui sont fixées par arrêté du ministre de l'économie et des finances (3), à
 disposer d'un délai supplémentaire de un mois pour remettre la déclaration
 prévue au 1.
 
-3 (Transféré sous l'article L. 59 du livre des procédures fiscales).
+3 (Transféré sous les articles L. 59 et L. 59 A du livre des procédures
+fiscales).
 
-1) Annexe IV, art. 32, 33 et 38 à 41.
+4. En cas de cession ou de cessation d'une activité professionnelle, les
+redevables sont tenus de souscrire dans les trente jours la déclaration prévue
+au 1.
 
-2) Voir toutefois Annexe II, art. 242 quater.
+(1) Annexe IV, art. 32, 33 et 38 à 41.
 
-3) Annexe IV, art. 39 bis.
+(2) Voir toutefois Annexe II, art. 242 quater.
+
+(3) Annexe IV, art. 39 bis.

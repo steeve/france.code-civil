@@ -3,13 +3,6 @@ Article 885 P
 Les biens donnés à bail à long terme dans les conditions prévues aux articles L.
 416-1 à L. 416-6, L. 416-8 et L. 416-9 du code rural sont considérés comme des
 biens professionnels à condition que la durée du bail soit au minimum de
-dix-huit ans et que les descendants du preneur ne soient pas contractuellement
-privés de la faculté de bénéficier des dispositions de l'article L. 411-35 du
-code rural.
-
-Lorsque le bail a été consenti par le bailleur à son conjoint, à un de leurs
-parents en ligne directe ou en ligne collatérale jusqu'au troisième degré ou au
-conjoint de l'un de ceux-ci, ou à une société contrôlée par une ou plusieurs de
-ces personnes, le bien donné à bail n'est considéré comme bien professionnel que
-dans la limite d'une superficie au plus égale à une fois et demie la superficie
-minimum d'installation [*SMI*] prévue à l'article 188-4 du code rural.
+dix-huit ans, qu'il ait été consenti par le bailleur à son conjoint, à leurs
+ascendants ou descendants, ou à leurs frères ou soeurs, et que le bien soit
+utilisé par le preneur dans l'exercice de sa profession principale.

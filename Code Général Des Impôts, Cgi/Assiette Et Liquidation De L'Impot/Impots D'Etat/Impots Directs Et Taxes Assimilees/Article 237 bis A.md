@@ -37,7 +37,8 @@ d'impôt, à la clôture des exercices arrêtés du 1er octobre 1975 au 30 septe
 cours du même exercice et admises en déduction des bénéfices imposables.
 
 Le pourcentage prévu à l'alinéa précédent est réduit à 25 % pour les exercices
-clos à compter du 1er octobre 1981 [*date*].
+clos à compter du 1er octobre 1981 [*date*] et à 12 % pour les exercices clos à
+compter du 1er octobre 1983.
 
 Ce pourcentage est fixé à 100 % pour les exercices clos jusqu'au 30 septembre
 1981, et à 75 % pour les exerices clos à compter du 1er octobre 1981, en ce qui
@@ -59,9 +60,9 @@ Conformément aux dispositions de l'article L 442-10, 3° et 4°, du code du
 travail, le montant de la provision pour investissement que les sociétés
 coopératives ouvrières de production sont autorisées à constituer à la clôture
 d'un exercice est au plus égal à celui des sommes portées à la réserve spéciale
-de participation au titre du même exercice (3). Les dotations à la réserve
-légale et au fonds de développement de ces sociétés peuvent tenir lieu, à due
-concurrence, de provision pour investissement.
+de participation au titre du même exercice. Les dotations à la réserve légale et
+au fonds de développement de ces sociétés peuvent tenir lieu, à due concurrence,
+de provision pour investissement.
 
 A défaut de conclusion de l'accord prévu à l'article L 442-5 du code du travail,
 dans le délai d'un an qui commence à courir à la clôture de l'exercice au titre
@@ -91,10 +92,3 @@ compte pour le calcul de la participation. (Loi n° 76-1232 du 29 décembre 1976
 art. 61-IV. Loi n° 77-1467 du 30 décembre 1977, art. 69-I).
 
 (2) Voir Annexe II, art. 171 bis.
-
-(3) Dispositions applicables pour les exercices ouverts à compter du 1er janvier
-1978 (antérieurement, le pourcentage était de 100 %). A titre transitoire, pour
-le premier exercice ouvert à compter de cette date, le montant de la provision
-est au plus égal au total des sommes portées à la réserve spéciale de
-participation au titre du même exercice et de l'exercice précédent. (Loi n°
-78-763 du 19 juillet 1978, art. 57).

@@ -16,6 +16,15 @@ avant le 15 juin 1971, à condition que les fondations des immeubles aient été
 achevées avant cette dernière date, les constatations de l'homme de l'art en
 faisant foi.
 
+II bis A compter de 1984, la durée de l'exonération de vingt-cinq ans mentionnée
+aux I et II est ramenée à quinze ans, sauf en ce qui concerne les logements à
+usage locatif remplissant les conditions définies à l'article L 411-1 du code de
+la construction et de l'habitation et ceux qui, au 15 décembre 1983,
+appartiennent à des sociétés d'économie mixte dans lesquelles, à cette même
+date, les collectivités locales ont une participation majoritaire, lorsqu'ils
+ont été financés à l'aide de primes ou prêts bonifiés du crédit foncier de
+France ou de la caisse centrale de coopération économique.
+
 III Pour l'application des dispositions du présent article, les habitations
 d'agrément, de plaisance ou servant à la villégiature ne sont pas considérées
 comme affectées à l'habitation.

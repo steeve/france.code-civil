@@ -4,7 +4,10 @@ Est perçue au profit des départements une taxe additionnelle aux droits
 d'enregistrement ou à la taxe de publicité foncière exigibles sur les mutations
 à titre onéreux :
 
-1° D'immeubles et de droits immobiliers situés sur leur territoire;
+1° D'immeubles et de droits immobiliers situés sur leur territoire ; toutefois,
+la taxe n'est pas perçue lorsque la mutation est soumise au droit départemental
+d'enregistrement ou à la taxe départementale de publicité foncière mentionnés à
+l'article 1594 A ;
 
 2° De meubles corporels vendus publiquement dans le département (1);
 
@@ -23,7 +26,7 @@ Cette taxe, dont la perception est confiée au service des impôts, est fixée �
 Elle est soumise aux règles qui gouvernent l'exigibilité, la restitution et le
 recouvrement des droits ou de la taxe auxquels elle s'ajoute (2).
 
-1) Sous réserve des dispositions de l'article 1595 ter.
+(1) Sous réserve des dispositions de l'article 1595 ter.
 
-2) La perception de cette taxe a été étendue au département de la Guyane par
-l'article 10-I de la loi n° 71-1025 du 24 décembre 1971.
+(2) La perception de cette taxe a été étendue au département de la Guyane par
+l'article 10-I de la loi n° 71-1025 du 24 décembre 1971

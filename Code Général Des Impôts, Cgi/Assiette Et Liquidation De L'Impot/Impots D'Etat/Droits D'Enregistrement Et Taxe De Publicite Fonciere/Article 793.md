@@ -4,7 +4,7 @@ Sont exonérés des droits de mutation à titre gratuit:
 
 1. 1° (Périmé) ;
 
-2° (Abrogé) (1).
+2° (Abrogé).
 
 3° Les parts d'intérêts détenues dans un groupement forestier à concurrence des
 trois-quarts de leur valeur vénale, à condition :
@@ -38,11 +38,12 @@ c. Que les parts aient été détenues depuis plus de deux ans par le donateur o
 le défunt, lorsqu'elles ont été acquises à titre onéreux à compter du 5
 septembre 1979 ;
 
-4° Lors de leur première transmission à titre gratuit et à concurrence des
-trois-quarts de leur valeur, les parts des groupements fonciers agricoles et
-celles des groupements agricoles fonciers, créés conformément à la loi n° 62-933
-du 8 août 1962 et répondant aux diverses caractéristiques de la loi n° 70-1299
-du 31 décembre 1970, à condition :
+4° Les parts des groupements fonciers agricoles et celles des groupements
+agricoles fonciers, créés conformément à la loi n° 62-933 du 8 août 1962 et
+répondant aux diverses caractéristiques de la loi n° 70-1299 du 31 décembre
+1970, lors de leur première transmission à titre gratuit et à concurrence des
+trois-quarts de leur valeur, sous réserve des dispositions de l'article 793 bis,
+à condition :
 
 - que les statuts du groupement lui interdisent l'exploitation en faire-valoir
 direct ;
@@ -57,7 +58,7 @@ le défunt.
 Ce délai n'est pas exigé lorsque le donateur ou le défunt ont été parties au
 contrat de constitution du groupement foncier agricole et, à ce titre ont
 effectué des apports constitués exclusivement par des immeubles ou des droits
-immobiliers à destination agricole (2).
+immobiliers à destination agricole (1).
 
 Cette exonération s'applique pour les parts de groupements fonciers agricoles
 dans la limite d'une superficie égale à trois fois la superficie minimum
@@ -80,31 +81,28 @@ directe ;
 dont la dévolution est régie par l'article 64 du décret du 29 juillet 1939
 relatif à la famille et à la natalité françaises.
 
-2. 1° (Abrogé) (1).
+2. 1° (Abrogé).
 
 2° Les successions et donations entre vifs, à concurrence des trois-quarts de
 leur montant, intéressant les propriétés en nature de bois et forêts, à
 condition que soient appliquées les dispositions prévues aux articles 703, 1840
 G bis-II et III, et 1929-3 ;
 
-3° A concurrence des trois-quarts de leur valeur, les biens donnés à bail dans
-les conditions prévues aux articles L. 416-1 à L. 416-6, L. 416-8 et L. 416-9 du
-code rural, lors de leur première transmission à titre gratuit durant le bail et
-ses renouvellements successifs. Toutefois, lorsque le bail a été consenti, par
-un acte n'ayant pas acquis date certaine avant le 1er novembre 1973, au
-bénéficiaire de la transmission, à son conjoint, à un de leurs descendants ou à
-une société contrôlée par une ou plusieurs de ces personnes, l'exonération
-s'applique seulement dans la limite d'une superficie au plus égale à une fois et
-demie la superficie minimum d'installation prévue à l'article 188-4 du code
-rural, quel que soit le nombre des transmissions successives intervenues du chef
-d'une même personne. Ces dispositions peuvent être étendues et adaptées par
-décret en Conseil d'Etat aux départements d'outre-mer *DOM*, après avis de leurs
-conseils généraux (3).
+3° Les biens donnés à bail dans les conditions prévues aux articles L. 416-1 à
+L. 416-6, L. 416-8 et L. 416-9 du code rural, lors de leur première transmission
+à titre gratuit durant le bail et ses renouvellements successifs, à concurrence
+des trois quarts de leur valeur, sous réserve des dispositions de l'article 793
+bis. Toutefois, lorsque le bail a été consenti, par un acte n'ayant pas acquis
+date certaine avant le 1er novembre 1973, au bénéficiaire de la transmission, à
+son conjoint, à un de leurs descendants ou à une société contrôlée par une ou
+plusieurs de ces personnes, l'exonération s'applique seulement dans la limite
+d'une superficie au plus égale à une fois et demie la superficie minimum
+d'installation prévue à l'article 188-4 du code rural, quel que soit le nombre
+des transmissions successives intervenues du chef d'une même personne. Ces
+dispositions peuvent être étendues et adaptées par décret en Conseil d'Etat aux
+départements d'outre-mer *DOM*, après avis de leurs conseils généraux (2).
 
-(1) Cette abrogation prend effet à compter du 14 décembre 1982. Toutefois, elle
-ne s'applique qu'aux successions ouvertes à compter du 1er janvier 1983.
+(1) Pour l'application du 4° dans les départements d'outre-mer, se reporter à
+l'article 822 IV.
 
-(2) Pour l'application du 4° dans les départements d'outre-mer, se reporter à
-l'article 822-IV.
-
-(3) Code rural art. R. 463-1 à R. 463-3.
+(2) Code rural art. R. 463-1 à R. 463-3.

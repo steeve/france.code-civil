@@ -6,6 +6,6 @@ titre prépondérant au moyen des prêts aidés par l'Etat, prévus aux articles
 de la taxe foncière sur les propriétés bâties pendant une durée de quinze ans à
 compter de l'année qui suit celle de leur achèvement [*point de départ*].
 
-Cette disposition s'applique aux constructions pour lesquelles une demande de
-prêt est déposée avant le 31 décembre 1983 [*date limite*] à condition que le
-prêt soit effectivement accordé.
+Toutefois, la durée de cette exonération est ramenée à dix ans pour les
+logements en accession à la propriété pour la réalisation desquels aucune
+demande de prêt n'a été déposée avant le 31 décembre 1983.

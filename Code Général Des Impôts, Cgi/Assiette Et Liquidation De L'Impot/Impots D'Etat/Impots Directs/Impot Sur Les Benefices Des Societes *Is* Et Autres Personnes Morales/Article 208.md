@@ -58,6 +58,13 @@ fraction de leur bénéfice net provenant de la location de leurs immeubles ains
 que pour les plus-values dégagées par la cession de ces immeubles dans le cadre
 d'opérations de crédit-bail ;
 
+Lorsque des sociétés immobilières pour le commerce et l'industrie louent leurs
+immeubles en location simple à des personnes physiques ou morales exerçant dans
+les locaux une activité administrative ou une profession n'ayant pas un
+caractère industriel ou commercial, les dispositions du premier alinéa sont
+limitées au bénéfice net ou aux plus-values provenant des immeubles qui sont
+utilisés pour l'exercice d'une profession industrielle ou commerciale ;
+
 3° quinquies. Les sociétés agréées pour le financement des télécommunications
 visées à l'article 1er de la loi n° 69-1160 du 24 décembre 1969, pour la partie
 des bénéfices provenant des opérations traitées avec l'administration des postes
@@ -97,4 +104,5 @@ de terrains leur appartenant.
 (1) Voir Annexe IV, art. 23 bis.
 
 (2) La liste des installations et matériels concernés a été fixée par le décret
-n° 81-37 du 20 janvier 1981 (J.O. du 21).
+n° 81-37 du 20 janvier 1981 (J.O. du 21), complété par le décret n° 83-832 du 16
+septembre 1983 (J.O. du 21).

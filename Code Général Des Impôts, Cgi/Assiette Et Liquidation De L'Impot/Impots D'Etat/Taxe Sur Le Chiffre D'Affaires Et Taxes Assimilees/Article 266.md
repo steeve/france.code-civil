@@ -1,6 +1,6 @@
 Article 266
 ----
-1. La base d'imposition est constituée (1) :
+1° La base d'imposition est constituée (1) :
 
 a. Pour les livraisons de biens et des prestations de services, par toutes les
 sommes, valeurs, biens ou services reçus ou à recevoir par le fournisseur ou le
@@ -58,20 +58,36 @@ l'assiette de la taxe (3).
 Des décrets peuvent fixer des bases minimales ou forfaitaires d'imposition pour
 les achats imposables.
 
+h. Pour les opérations d'entremise effectuées par les concessionnaires
+d'ouvrages de circulation routière, par la différence entre le montant total des
+péages et la fraction de ceux-ci affectée au financement des travaux de
+construction et des grosses réparations des ouvrages concédés et au paiement des
+redevances proportionnelles versées à l'autorité concédante.
+
+Toutefois, tant que le montant cumulé des péages, déduction faite des redevances
+proportionnelles versées à l'autorité concédante, est inférieur au montant
+cumulé des dépenses de financement et des charges d'exploitation, la taxe sur la
+valeur ajoutée est due sur la fraction des recettes de péage correspondant au
+rapport entre les charges d'exploitation et le total des dépenses (4).
+
 1 bis. (Abrogé).
 
 b. En ce qui concerne les recettes réalisées aux entrées des premières
 représentations théâtrales d'oeuvres dramatiques, lyriques, musicales ou
 chorégraphiques nouvellement créées ou d'oeuvres classiques faisant l'objet
 d'une nouvelle mise en scène, la taxe est assise selon des règles particulières
-qui sont déterminées par décret (4). Ce décret définit également la nature des
+qui sont déterminées par décret (5). Ce décret définit également la nature des
 oeuvres et fixe le nombre des représentations auxquelles ces règles sont
 applicables.
 
-Ces dispositions ne s'appliquent pas aux représentations théâtrales à caractère
-pornographique (5).
+Ces dispositions ne s'appliquent pas aux recettes provenant :
 
-2. En ce qui concerne les opérations entrant dans le champ d'application de
+des représentations théâtrales à caractère pornographique ;
+
+de la vente de billets imposés au taux réduit dans les conditions prévues à
+l'article 279 b sexies.
+
+2° En ce qui concerne les opérations entrant dans le champ d'application de
 l'article 257-7°, la taxe sur la valeur ajoutée est assise :
 
 a. Pour les livraisons à soi-même, sur le prix de revient total des immeubles, y
@@ -137,9 +153,9 @@ devenir la propriété du bailleur en fin de bail.
 (3) Annexe III, art. 76-3. Pour la définition des oeuvres d'art originales, voir
 même Annexe, art. 71.
 
-(4) Annexe III, art. 76 ter.
+(4) Ces dispositions ont un caractère interprétatif.
 
-(5) A compter du 1er janvier 1979.
+(5) Annexe III, art. 76 ter.
 
 (6) Annexe II, art. 248.
 

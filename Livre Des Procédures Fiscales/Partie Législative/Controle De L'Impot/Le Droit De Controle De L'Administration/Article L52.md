@@ -6,11 +6,11 @@ ce qui concerne :
 
 1° Les entreprises dont l'activité principale est de vendre des marchandises,
 objets, fournitures et denrées à emporter ou à consommer sur place ou de fournir
-le logement et dont le chiffre d'affaires n'excède pas 1.000.000 F [*montant,
+le logement et dont le chiffre d'affaires n'excède pas 1.800.000 F [*montant,
 plafond*].
 
 2° Les autres entreprises industrielles et commerciales, lorsque leur chiffre
-d'affaires n'excède pas 250.000 F ;
+d'affaires n'excède pas 540.000 F ;
 
 3° Les contribuables se livrant à une activité agricole, lorsque le montant
 annuel des recettes brutes n'excède pas 1.000.000 F ;

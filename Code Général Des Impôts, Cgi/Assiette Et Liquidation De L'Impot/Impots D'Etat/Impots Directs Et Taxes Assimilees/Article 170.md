@@ -27,16 +27,26 @@ l'impôt sur le revenu, de comprendre ces revenus dans la déclaration prévue a
 1.
 
 3 Lorsque la déclaration du contribuable doit seulement comporter l'indication
-du montant des éléments du revenu global, l'administration calcule le revenu
-imposable correspondant à ces éléments en tenant compte des déductions et
-charges du revenu auxquelles le contribuable a légalement droit.
+du montant des éléments du revenu global et des charges ouvrant droit aux
+réductions d'impôt prévues par les articles 199 sexies et 199 septies,
+l'administration calcule le revenu imposable compte tenu des déductions et
+charges du revenu auxquelles le contribuable a légalement droit ainsi que les
+réductions d'impôt.
 
 Les avis d'imposition correspondants devront comporter le décompte détaillé du
 revenu imposable faisant apparaître notamment le montant des revenus
 catégoriels, celui des déductions pratiquées ou des charges retranchées du
-revenu global.
+revenu global. Ils doivent également faire apparaître le montant des charges
+ouvrant droit à réduction d'impôt et le montant de cette réduction.
 
 Pour l'application des dispositions du présent code, le revenu déclaré
-[*définition*] s'entend du revenu imposable ainsi calculé.
+[*définition*] s'entend du revenu imposable calculé comme il est indiqué au
+premier alinéa.
+
+4 Le contribuable est tenu de déclarer les éléments du revenu global qui, en
+vertu d'une disposition du présent code ou d'une convention internationale
+relative aux doubles impositions ou d'un autre accord international, sont
+exonérés mais qui doivent être pris en compte pour le calcul de l'impôt
+applicable aux autres éléments du revenu global.
 
 (1) Disposition applicable à compter de l'imposition des revenus de 1983.

@@ -90,4 +90,8 @@ salariés des entreprises industrielles et commerciales.
 10° Les chèques-vacances institués par l'ordonnance n° 82-283 du 26 mars 1982
 portant création des chèques-vacances.
 
+11° Les offres préalables de prêts rédigées conformément aux dispositions de la
+loi n° 79-596 du 13 juillet 1979 relative à l'information et à la protection des
+emprunteurs dans le domaine immobilier.
+
 (1) Décret n° 67-1165 du 22 décembre 1967 et arrêté du même jour.

@@ -19,3 +19,7 @@ industriels susvisés, et à 1,10 pour les propriétés non bâties ;
 d. Au titre de 1984, à 1,10 pour les immeubles industriels autres que ceux visés
 à l'article 1500, à 1,12 pour les propriétés bâties autres que les immeubles
 industriels susvisés, et à 1,08 pour les propriétés non bâties.
+
+e. Au titre de 1985, à 1,06 pour les immeubles industriels autres que ceux visés
+à l'article 1500 et à 1,08 pour les propriétés bâties autres que les immeubles
+industriels susvisés ainsi que pour les propriétés non bâties.

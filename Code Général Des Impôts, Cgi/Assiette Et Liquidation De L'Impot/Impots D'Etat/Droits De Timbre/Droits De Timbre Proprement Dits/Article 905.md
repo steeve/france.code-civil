@@ -3,16 +3,16 @@ Article 905
 Les papiers timbrés débités par la régie sont fabriqués, dans les conditions
 fixées par décret (1), d'après les dimensions suivantes :
 
-Hauteur Largeur Papier registre ... 0,42 0,594 Papier normal ... 0,297 0,42
-Demi-feuille de papier normal ... 0,297 0,21 Le prix de ces papiers et les
-droits de timbre des papiers que les contribuables sont autorisés à timbrer
-eux-mêmes sont fixés ainsi qu'il suit, en raison de la dimension du papier :
+Hauteur Largeur Papier registre 0,42 0,594 Papier normal 0,297 0,42 Demi-feuille
+de papier normal 0,297 0,21 Le prix de ces papiers et les droits de timbre des
+papiers que les contribuables sont autorisés à timbrer eux-mêmes sont fixés
+ainsi qu'il suit, en raison de la dimension du papier :
 
-Papier registre : 88 F [*montant*] ;
+Papier registre : 104 F [*montant*] ;
 
-Papier normal : 44 F ;
+Papier normal : 52 F ;
 
-Demi-feuille de papier normal : 22 F.
+Demi-feuille de papier normal : 26 F.
 
 Toutefois, ces tarifs sont réduits de moitié lorsqu'une seule face du papier est
 utilisée à la rédaction d'un écrit comportant plus d'une page, à la condition,

@@ -32,7 +32,7 @@ agricole :
 
 3° Pour la navigation maritime, fluviale ou aérienne :
 
-- à 12 % pour les assurances contre les risques de toute nature de navigation
+- à 19 % pour les assurances contre les risques de toute nature de navigation
 maritime ou fluviale des bateaux de sport ou de plaisance ;
 
 - à 4,80 % pour les assurances contre les autres risques de toute nature non
@@ -53,6 +53,11 @@ de subvenir par son travail aux nécessités de l'existence ;
 5° Pour les assurances des crédits à l'exportation :
 
 - à 0,25 % ;
+
+5° bis Pour les assurances contre les risques de toute nature relatifs aux
+véhicules terrestres à moteur :
+
+- à 18 % ;
 
 6° Pour toutes autres assurances :
 

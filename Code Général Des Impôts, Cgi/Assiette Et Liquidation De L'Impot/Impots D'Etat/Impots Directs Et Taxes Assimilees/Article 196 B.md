@@ -5,8 +5,8 @@ Le contribuable qui accepte le rattachement des personnes désignées à l'artic
 ainsi rattachée.
 
 Si la personne rattachée est mariée ou a des enfants à charge, l'avantage fiscal
-accordé au contribuable prend la forme d'un abattement de 13.000 F sur son
+accordé au contribuable prend la forme d'un abattement de 14.230 F sur son
 revenu global net par personne ainsi prise en charge (1).
 
-(1) Chiffre applicable pour l'imposition des revenus de 1982. Pour l'imposition
-des revenus de 1981, ce chiffre était de 12.500 F.
+(1) Chiffre applicable pour l'imposition des revenus de 1983. Ce chiffre était
+de 13.000 F pour l'imposition des revenus de 1982.

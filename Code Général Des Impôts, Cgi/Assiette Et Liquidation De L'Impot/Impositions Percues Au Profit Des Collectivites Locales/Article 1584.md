@@ -23,8 +23,13 @@ soit qualifiée cession de pas de porte, indemnité de départ ou autrement.
 Cette taxe, dont la perception est confiée au service des impôts, est fixée à
 1,20 % [*taux*].
 
-Elle est soumise aux règles qui gouvernent l'exigibilité, la restitution et le
-recouvrement des droits ou de la taxe auxquels elle s'ajoute (1).
+Dans le cas prévu au 1° du premier alinéa, elle s'ajoute au droit départemental
+d'enregistrement ou à la taxe départementale de publicité foncière mentionnés à
+l'article 1594 A, sauf lorsque la mutation est soumise au droit proportionnel de
+0,60 %.
+
+La taxe est soumise aux règles qui gouvernent l'exigibilité, la restitution et
+le recouvrement des droits ou de la taxe auxquels elle s'ajoute (1).
 
 2 La taxe additionnelle prévue au 1 ne s'applique pas aux ventes publiques de
 meubles énumérées ci-après :
@@ -57,5 +62,5 @@ bateaux de plaisance;
 
 10° (Abrogé)
 
-1) La perception de cette taxe a été étendue aux communes du département de la
+(1) La perception de cette taxe a été étendue aux communes du département de la
 Guyane par l'article 10-I de la loi n° 71-1025 du 24 décembre 1971.

@@ -1,20 +1,22 @@
 Article 17 E
 ----
 1. Les assureurs auprès desquels ont été souscrits des contrats ou des avenants
-d'augmentation d'assurance en cas de vie ou d'assurance en cas de décès dont les
-primes peuvent être déduites du revenu global soumis à l'impôt sur le revenu en
-application des dispositions de l'article 156-II-7o-a et b du code général des
-impôts sont tenus de délivrer chaque année aux souscripteurs de ces contrats ou
-avenants un certificat permettant aux intéressés de justifier l'existence d'un
-contrat susceptible de donner droit à la déduction des primes y afférentes.
+d'augmentation d'assurance en cas de vie ou d'assurance en cas de décès, dont
+les primes peuvent ouvrir droit à la réduction d'impôt prévue à l'article 199
+septies du code général des impôts, s sont tenus de délivrer chaque année aux
+souscripteurs de ces contrats ou avenants un certificat permettant aux
+intéressés de justifier l'existence d'un contrat susceptible de donner droit à
+la déduction d'impôt prévue ci-dessus.
 
-2. Le certificat prévu au 1 ci-dessus comporte l'indication :
+2. Le certificat prévu au 1 comporte l'indication :
 
 De l'assureur;
 
 Des nom et prénoms du souscripteur;
 
 Du montant des primes venues à échéance au cours de l'année civile;
+
+De la part de ces primes représentative de l'opération d'épargne (1) ;
 
 Du numéro du contrat.
 
@@ -38,14 +40,14 @@ Le numéro du contrat;
 
 La date d'effet et la durée du contrat ou de l'avenant;
 
-Le montant la périodicité et la durée de versement des primes.
+Le montant, la périodicité et la durée de versement des primes.
 
 Elle précise en outre :
 
-Pour les contrats ou avenants visés à l'article 156-II-7o-a précité le montant
-du capital en cas de vie ou de la rente viagère garanti;
+Pour les contrats ou avenants visés à l'article 199 septies-1° précité le
+montant du capital en cas de vie ou de la rente viagère garanti;
 
-Pour les contrats ou avenants visés au b du même article le montant du capital
+Pour les contrats ou avenants visés au 2° du même article le montant du capital
 ou de la rente viagère garanti et les nom et prénom du bénéficiaire du capital
 ou de la rente viagère.
 
@@ -55,8 +57,8 @@ particulières du contrat.
 En ce qui concerne les contrats ou les avenants souscrits avant le 1er janvier
 1971, l'attestation n'est délivrée que si l'assuré en fait la demande.
 
-4. Lorsque les contrats d'assurance en cas de décès visés à l'article
-156-II-7o-b précité sont souscrits sous la forme de contrats collectifs
+4. Lorsque les contrats d'assurance en cas de décès visés à l'article 199
+septies-2° précité sont souscrits sous la forme de contrats collectifs
 l'assureur délivre à l'organisme souscripteur lors de la souscription du contrat
 une attestation indiquant la nature du contrat et les garanties qu'il comporte.
 
@@ -72,3 +74,5 @@ jointe à la déclaration des revenus de l'année au cours de laquelle elle est
 délivrée.
 
 Les mêmes dispositions s'appliquent aux documents prévus au 4.
+
+(1) Disposition applicable à compter de l'imposition des revenus de 1984.

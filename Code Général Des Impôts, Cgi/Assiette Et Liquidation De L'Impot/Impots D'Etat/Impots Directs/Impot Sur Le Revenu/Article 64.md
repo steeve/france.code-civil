@@ -1,8 +1,8 @@
 Article 64
 ----
-1. Sous réserve des dispositions des articles 68 A à 69 quinquies, le bénéfice
-imposable des exploitations situées en France est déterminé forfaitairement
-conformément aux prescriptions des 2 à 5.
+1. Sous réserve des dispositions des articles 69 à 74 B, le bénéfice imposable
+des exploitations situées en France est déterminé forfaitairement conformément
+aux prescriptions des 2 à 5.
 
 2. Le bénéfice forfaitaire est déterminé [*calcul*], dans les conditions prévues
 aux articles L 1 à L 4 du livre des procédures fiscales, par hectare, pour
@@ -27,10 +27,10 @@ la nature des cultures, de leur importance et des autres éléments qui,
 indépendamment de la personne de l'exploitant, influent sur les résultats de
 l'exploitation.
 
-L'administration des impôts peut soumettre chaque année, entre le 1er décembre
-de l'année de l'imposition et le 15 février de l'année suivante, à la commission
-départementale prévue à l'article 1651, des propositions portant sur les
-coefficients de correction prévus à l'alinéa précédent.
+Conformément à l'article L. 1 du livre des procédures fiscales, l'administration
+des impôts peut soumettre à la commission départementale des impôts directs et
+des taxes sur le chiffre d'affaires des propositions portant sur les
+coefficients de correction.
 
 Les majorations forfaitaires des valeurs locatives effectuées entre deux
 actualisations, en application de l'article 1518 bis, sont sans incidence sur le
