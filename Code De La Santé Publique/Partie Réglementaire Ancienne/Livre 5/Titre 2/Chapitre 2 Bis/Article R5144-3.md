@@ -16,4 +16,8 @@ l'enregistrement prévu par cet article ;
 l'autorisation prévue par cet article ;
 
 - pour les autres produits mentionnés à l'article L. 5121-1 après leur
-délivrance.
+délivrance ;
+
+- pour les allergènes préparés spécialement pour un seul individu mentionnés à
+l'article L. 4211-6, après la délivrance de l'autorisation prévue par cet
+article.
