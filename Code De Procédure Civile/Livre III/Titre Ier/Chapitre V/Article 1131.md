@@ -1,8 +1,8 @@
 Article 1131
 ----
-Dans les quinze jours [*délai*] de la présentation de la requête et du mémoire,
-le greffier en adresse copie à l'autre époux par [*modalités - formes*] lettre
-recommandée avec demande d'avis de réception.
+Hors le cas où la séparation de corps a été prononcée par consentement mutuel,
+la demande en conversion est formée, instruite et jugée selon la procédure en
+matière contentieuse.
 
-Le greffier adresse le même jour à cet époux une lettre simple l'informant du
-contenu de la lettre recommandée.
+Aucune demande reconventionnelle n'est recevable, sauf sur les conséquences du
+divorce.

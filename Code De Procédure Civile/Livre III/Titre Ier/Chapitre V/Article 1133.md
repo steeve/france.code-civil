@@ -1,8 +1,13 @@
 Article 1133
 ----
-La déclaration d'acceptation établie, datée et signée par l'autre époux, doit
-être déposée, par avocat, au secrétariat-greffe dans le mois [*délai*] qui suit
-la réception des documents adressés par la lettre recommandée.
+Dans le cas prévu à l'article précédent, le juge peut ne pas entendre les époux
+et se borner à examiner avec leur avocat la convention.
 
-L'époux peut joindre un mémoire où, sans contester la relation des faits, il en
-propose, dans les mêmes formes, sa version personnelle.
+En l'absence de difficulté, il homologue la convention et prononce le divorce.
+
+Sinon il peut, sans autres formes, demander aux époux de présenter à nouveau la
+requête dans le mois, après modification de la convention ; s'il n'est pas
+déféré à cette demande, le juge rend une ordonnance par laquelle il refuse
+d'homologuer la convention.
+
+L'ordonnance mentionne le délai d'appel et le point de départ de ce délai.

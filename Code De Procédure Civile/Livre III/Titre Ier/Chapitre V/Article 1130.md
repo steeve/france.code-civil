@@ -1,5 +1,7 @@
 Article 1130
 ----
-Dans son mémoire, l'époux s'efforce de décrire objectivement la situation
-conjugale sans chercher à qualifier les faits ni à les imputer à l'un ou à
-l'autre conjoint.
+La déclaration de reprise de la vie commune est mentionnée en marge de l'acte de
+mariage et de l'acte de naissance de chacun des époux.
+
+Les mêmes mentions sont opérées à la diligence du notaire qui a dressé l'acte
+constatant la reprise de la vie commune.
