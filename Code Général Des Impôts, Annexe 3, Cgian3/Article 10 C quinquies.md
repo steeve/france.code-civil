@@ -4,12 +4,12 @@ I. Le montant de la provision pour reconstitution des gisements de minéraux
 solides susceptible d'être admise en franchise d'impôt à la clôture de chacun
 des exercices clos en 1972 et ultérieurement ne peut excéder :
 
-- Ni 15 % du montant des ventes des produits marchands extraits des gisements de
+Ni 15 % du montant des ventes des produits marchands extraits des gisements de
 minerais figurant sur la liste prévue au 1 de l'article 39 ter B du code général
 des impôts, exploités par l'entreprise, lorsque ces ventes sont prises en compte
 pour la détermination du bénéfice imposable en France ;
 
-- Ni 50 % du bénéfice net imposable réalisé au cours de l'exercice considéré et
+Ni 50 % du bénéfice net imposable réalisé au cours de l'exercice considéré et
 provenant de la vente, en l'état ou après transformation, de ces mêmes produits.
 
 II. Sont assimilées à des ventes de produits extraits de gisements exploités par
@@ -21,18 +21,7 @@ L'appréciation des droits détenus par l'intermédiaire de filiales s'opère en
 multipliant successivement, quel que soit le degré de filiation, les
 pourcentages détenus par chaque société mère.
 
-III. Le pourcentage de 50 % peut être abaissé à 20 % sur agrément du ministre de
-l'économie et des finances, après avis du ministre du développement industriel
-et scientifique, notamment :
-
-- Lorsque la détention d'une participation inférieure à 50 % résulte soit de la
-législation interne de l'Etat dans lequel la société contrôlée est implantée,
-soit d'accords intervenus entre la France et cet Etat ;
-
-- Lorsque l'entreprise est en mesure d'établir que sa participation bien que
-minoritaire lui permet d'exercer en fait le contrôle de la société exploitante
-ou de disposer librement de la part de production, au moins égale à 20 %, qui
-lui revient.
+III. (abrogé)
 
 IV. Les produits marchands s'entendent des produits obtenus en faisant subir au
 minerai les préparations et concentrations qui doivent nécessairement être
@@ -54,11 +43,11 @@ gisements.
 
 V. Pour la détermination du bénéfice net imposable, il y a lieu :
 
-- D'une part, d'exclure la fraction des provisions antérieurement constituées
-qui serait rapportée aux bases de l'impôt conformément aux dispositions de
-l'article 10 E ;
+D'une part, d'exclure la fraction des provisions antérieurement constituées qui
+serait rapportée aux bases de l'impôt conformément aux dispositions de l'article
+10 E ;
 
-- D'autre part, de déduire le déficit subi au cours d'un exercice dans la
+D'autre part, de déduire le déficit subi au cours d'un exercice dans la
 métropole et dans les départements d'outre-mer et provenant de la vente, en
 l'état ou après transformation, de produits extraits des gisements de minerais
 donnant droit à la constitution d'une provision, du bénéfice réalisé au cours de
