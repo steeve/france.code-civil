@@ -1,28 +1,19 @@
 Article D323-3-7
 ----
-La commission est saisie :
+La commission est saisie par la personne handicapée elle-même, par ses parents,
+par les personnes qui en ont la charge effective, par son représentant légal ou
+par l'autorité responsable de l'établissement ou du service social ou
+médico-social qui assure la prise en charge ou l'accompagnement de la personne.
+Dans ces derniers cas, la personne handicapée est informée de la saisine de la
+commission.
 
-Par le handicapé lui-même ;
+La demande dont est saisie la commission est constituée d'un formulaire, d'un
+certificat médical et, le cas échéant, des pièces prévues par la réglementation
+en vigueur.
 
-Par ses parents ou par les personnes qui en ont la charge effective ou qui sont
-ses représentants légaux ;
+La commission est valablement saisie lorsque le formulaire de demande, dûment
+complété, daté et signé, accompagné du certificat médical et, le cas échéant,
+des pièces justificatives, est reçu au secrétariat de la commission.
 
-Par le directeur départemental des affaires sanitaires et sociales et le
-directeur départemental du travail, de l'emploi et de la formation
-professionnelle ou le fonctionnaire qui exerce les fonctions de ce dernier
-compte tenu de l'activité professionnelle de l'assuré ;
-
-Par l'Agence nationale pour l'emploi, avec l'accord du handicapé, lorsqu'elle a
-enregistré une demande d'emploi de celui-ci ;
-
-Par l'organisme d'assurance maladie intéressé ;
-
-Par l'organisme ou service appelé à payer une allocation à l'intéressé au titre
-de son handicap ;
-
-Ou par l'autorité responsable de tout centre, établissement ou service médical
-ou social intéressé.
-
-Dans tous les cas le handicapé et, s'il y a lieu, les personnes qui en ont la
-charge effective ou qui sont ses représentants légaux sont informés de la
-saisine.
+Le modèle de formulaire de demande et celui du certificat médical sont définis
+par arrêté du ministre chargé des personnes handicapées.

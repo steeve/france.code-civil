@@ -1,24 +1,12 @@
 Article D323-3-10
 ----
-Un même membre de la commission [*technique d'orientation et de reclassement
-professionnel*] peut être appelé à siéger dans les sections spécialisées ou dans
-deux [*nombre*] au plus de leur formations.
+La commission établit son règlement intérieur, qui prévoit notamment :
 
-L'effectif d'une section ou de chacune de ses formations ne peut être supérieur
-à douze membres, non compris le président.
+- les possibilités de délocalisation des séances ;
 
-Le président de la commission est de droit président de chacune des sections
-spécialisées. En cas d'absence ou d'empêchement, cette présidence est assurée
-par le directeur départemental du travail, de l'emploi et de la formation
-professionnelle pour la première section et par le directeur départemental des
-affaires sanitaires et sociales pour la deuxième.
+- les modalités de mise en oeuvre des dispositions de l'article D. 323-3-3 ;
 
-Lorsque les sections comprennent plusieurs formations et que la présidence de
-celles-ci ne peut être assurée conformément à la règle posée à l'alinéa
-précédent, cette présidence est confiée à un membre de la commission appartenant
-à la formation intéressée et qui est désigné par le président de la commission
-sur proposition, selon le cas, de l'un ou de l'autre des directeurs mentionnés
-audit alinéa.
+- les modalités de convocation des séances.
 
-En cas de partage des voix, à la commission ou dans les sections ou formations,
-celle du président est prépondérante.
+La délibération de la commission adoptant le règlement intérieur est publiée au
+recueil des actes administratif du département.

@@ -4,17 +4,16 @@ Pour l'application du deuxième alinéa du e du 1° du I de l'article 31 du code
 général des impôts, les plafonds de loyer et de ressources du locataire sont les
 suivants :
 
-a) Pour les baux conclus entre le 1er janvier et le 31 décembre 2003, les
-plafonds de loyer mensuel, charges non comprises, sont fixés à 11,4 euros par
-mètre carré en zone I bis, 9,8 euros en zone I, 6,2 euros en zone II et 5,7
-euros en zone III. Les plafonds sont relevés chaque année, au 1er janvier, dans
-la même proportion que la variation de la moyenne sur quatre trimestres de
-l'indice national mesurant le coût de la construction publiée par l'Institut
-national de la statistique et des études économiques. La moyenne mentionnée
-ci-dessus est celle du dernier indice connu à la date de référence et des
-indices des trois trimestres qui précèdent.
+a) Pour les baux conclus entre le 3 avril et le 31 décembre 2003, les plafonds
+de loyer mensuel, charges non comprises, sont fixés à 14,4 Euros par mètre carré
+en zone A, 9,4 Euros en zone B et 6,8 Euros en zone C. Les plafonds sont relevés
+chaque année, au 1er janvier, dans la même proportion que la variation de la
+moyenne sur quatre trimestres de l'indice national mesurant le coût de la
+construction publiée par l'Institut national de la statistique et des études
+économiques. La moyenne mentionnée ci-dessus est celle des quatre derniers
+indices connus au 1er novembre qui précède la date de référence.
 
-Pour l'application du présent article, les zones I bis à III sont définies par
+Pour l'application du présent article, les zones A, B et C sont définies par
 arrêté des ministres chargés du budget et du logement.
 
 La surface à prendre en compte pour l'appréciation du plafond de loyer s'entend
@@ -38,9 +37,11 @@ Personne seule
 
 LIEU DE LA LOCATION
 
-Ile-de-France : 19 516 euros
+Zone A : 27 446 euros
 
-Province : 16 293 euros
+Zone B : 21 211 euros
+
+Zone C : 18 560 euros
 
 COMPOSITION du foyer locataire :
 
@@ -49,9 +50,11 @@ Couple marié
 
 LIEU DE LA LOCATION
 
-Ile-de-France : 32 073 euros
+Zone A : 41 018 euros
 
-Province : 24 297 euros
+Zone B : 28 325 euros
+
+Zone C : 24 947 euros
 
 COMPOSITION du foyer locataire :
 
@@ -60,9 +63,11 @@ Personne seule ou couple marié ayant une personne à charge
 
 LIEU DE LA LOCATION
 
-Ile-de-France : 38 523 euros
+Zone A : 49 307 euros
 
-Province : 29 867 euros
+Zone B : 34 064 euros
+
+Zone C : 29 867 euros
 
 COMPOSITION du foyer locataire :
 
@@ -71,9 +76,11 @@ Personne seule ou couple marié ayant deux personnes à charge
 
 LIEU DE LA LOCATION
 
-Ile-de-France : 45 988 euros
+Zone A : 59 063 euros
 
-Province : 36 146 euros
+Zone B : 41 122 euros
+
+Zone C : 36 146 euros
 
 COMPOSITION du foyer locataire :
 
@@ -82,9 +89,11 @@ Personne seule ou couple marié ayant trois personnes à charge
 
 LIEU DE LA LOCATION
 
-Ile-de-France : 54 474 euros
+Zone A : 69 919 euros
 
-Province : 42 425 euros
+Zone B : 48 374 euros
+
+Zone C : 42 425 euros
 
 COMPOSITION du foyer locataire :
 
@@ -93,9 +102,11 @@ Personne seule ou couple marié ayant quatre personnes à charge
 
 LIEU DE LA LOCATION
 
-Ile-de-France : 61 260 euros
+Zone A : 78 678 euros
 
-Province : 47 856 euros
+Zone B : 54 514 euros
+
+Zone C : 47 856 euros
 
 COMPOSITION du foyer locataire :
 
@@ -104,9 +115,11 @@ Majoration par personne à charge à partir de la cinquième
 
 LIEU DE LA LOCATION
 
-Ile-de-France : + 6 960 euros
+Zone A : + 8 766 euros
 
-Province : + 5 433 euros
+Zone B : + 6 080 euros
+
+Zone C : + 5 433 euros
 
 Ces plafonds sont révisés chaque année, au 1er janvier, en fonction de
 l'évolution annuelle du salaire minimum de croissance. Cette variation est

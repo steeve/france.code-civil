@@ -1,14 +1,19 @@
 Article D323-3-5
 ----
-Une équipe technique, dont la composition est arrêtée par le préfet et le
-président du conseil général, étudie les cas soumis à la commission [*technique
-d'orientation et de reclassement professionnel*], recueille les avis nécessaires
-et présente la synthèse de ses travaux à la commission qui statue.
+Une équipe technique pluridisciplinaire, dont la composition est arrêtée par le
+préfet et le président du conseil général, étudie les demandes soumises à la
+commission, recueille les avis nécessaires et présente la synthèse de ses
+travaux à la commission qui statue.
 
-L'équipe peut faire appel aux spécialistes qui lui sont extérieurs et dont le
-concours lui paraît nécessaire pour mener à bien l'instruction des demandes dont
-elle est saisie.
+Elle comprend, au moins, un médecin, un assistant de service social, un
+psychologue, un conseiller pour l'emploi.
 
-Dans tous les cas, un ou plusieurs membres de l'équipe prend contact avec le
-handicapé et, s'il y a lieu, avec les parents de celui-ci ou avec les personnes
-qui en ont la charge effective ou qui sont ses représentants légaux.
+Les membres de l'équipe technique ne peuvent être désignés comme membres de la
+commission.
+
+L'équipe peut faire appel à des compétences extérieures qui lui paraissent
+nécessaires pour l'instruction des demandes.
+
+Un membre de l'équipe prend contact avec la personne handicapée concernée par la
+demande et, s'il y a lieu, avec la personne, l'établissement ou le service, visé
+à l'article D. 323-3-7 du code du travail, qui a saisi la commission.
