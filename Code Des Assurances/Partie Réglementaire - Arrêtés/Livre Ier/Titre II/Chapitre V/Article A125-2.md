@@ -16,6 +16,9 @@ article : 9 p. 100 des primes ou cotisations afférentes au contrat ;
 Contrats garantissant des risques appartenant aux sous-catégories 31 et 32 dudit
 article : 9 p. 100 des primes ou cotisations afférentes au contrat ;
 
+Contrats garantissant des risques appartenant à la sous-catégorie 37 dudit
+article : 9 p. 100 des primes ou cotisations afférentes au contrat.
+
 Contrats garantissant les risques mentionnés à l'article L. 125-1 (2ème alinéa)
 : 9 p. 100 des primes ou cotisations afférentes au contrat.
 
