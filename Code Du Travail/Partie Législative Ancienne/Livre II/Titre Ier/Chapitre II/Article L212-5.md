@@ -36,3 +36,8 @@ Les heures supplémentaires se décomptent par semaine civile qui débute le lun
 à 0 heure et se termine le dimanche à 24 heures. Toutefois, un accord
 d'entreprise peut prévoir que la semaine civile débute le dimanche à 0 heure et
 se termine le samedi à 24 heures.
+
+Dans les entreprises dont la durée collective hebdomadaire de travail est
+supérieure à la durée légale, la rémunération mensuelle due au salarié peut être
+calculée en multipliant la rémunération horaire par les 52/12 de cette durée
+hebdomadaire de travail, sans préjudice des majorations de salaire afférentes.

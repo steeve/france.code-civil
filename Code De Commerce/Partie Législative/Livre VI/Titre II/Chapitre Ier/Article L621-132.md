@@ -22,9 +22,9 @@ les salaires, appointements ou commissions proprement dites mais encore tous les
 accessoires et notamment l'indemnité mentionnée à l'article L. 122-3-4,
 l'indemnité pour inobservation du délai congé mentionnée à l'article L. 122-8,
 l'indemnité compensatrice mentionnée à l'article L. 122-32-6 et l'indemnité
-mentionnée à l'article L. 124-4-4 et ainsi que la contribution de l'employeur à
-l'allocation de conversion due au titre d'une compensation visée à l'article L.
-322-3.
+mentionnée à l'article L. 124-4-4, ainsi que les contributions dues par
+l'employeur dans le cadre des conventions de reclassement d'une personnalisé
+mentionnées à l'article L. 321-4-2.
 
 Art. L. 143-11. - En outre, lorsqu'est ouverte une procédure de redressement ou
 de liquidation judiciaire, les indemnités de congés payés prévues aux articles
@@ -38,13 +38,16 @@ d'agriculteur ou de personne morale de droit privé et occupant un ou plusieurs
 salariés doit assurer ses salariés, y compris les travailleurs salariés détachés
 à l'étranger ainsi que les travailleurs salariés expatriés visés à l'article L.
 351-4, contre le risque de non-paiement, en cas de procédure de redressement ou
-de liquidation judiciaire, des sommes qui leur sont dues en exécution du contrat
-de travail.
+de liquidation judiciaire, des sommes qui leur sont dues et contre le risque de
+rupture du contrat de travail pour cause de force majeure consécutive à un
+sinistre en exécution du contrat de travail.
 
 L'assurance couvre :
 
 1° Les sommes dues aux salariés à la date du jugement d'ouverture de toute
-procédure de redressement ou de liquidation judiciaire ;
+procédure de redressement ou de liquidation judiciaire, ainsi que les
+contributions dues par l'employeur dans le cadre de la convention de
+reclassement personnalisé mentionnée à l'article L. 321-4-2 ;
 
 2° Les créances résultant de la rupture des contrats de travail intervenant
 pendant la période d'observation, dans le mois suivant le jugement qui arrête le
@@ -52,11 +55,13 @@ plan de redressement, dans les quinze jours suivant le jugement de liquidation
 et pendant le maintien provisoire de l'activité autorisé par le jugement de
 liquidation judiciaire ;
 
-Les créances résultant de la rupture du contrat de travail des salariés auxquels
-a été proposée une convention de conversion prévue à l'article L. 322-3 sont
-couvertes par l'assurance, sous réserve que l'administrateur, l'employeur ou le
+2° bis Les créances résultant de la rupture du contrat de travail des salariés
+auxquels a été proposée la convention de reclassement personnalisé mentionnée à
+l'article L. 321-4-2, sous réserve que l'administrateur, l'employeur ou le
 liquidateur, selon le cas, ait proposé cette convention aux intéressés au cours
-de l'une des période indiquées ci-dessus ;
+de l'une des périodes indiquées au 2°, y compris les contributions dues par
+l'employeur dans le cadre de cette convention et les salaires dus pendant le
+délai de réponse du salarié ;
 
 3° Lorsque le tribunal prononce la liquidation judiciaire, dans la limite d'un
 montant maximal correspondant à un mois et demi de travail, les sommes dues au
@@ -69,19 +74,6 @@ jugement de liquidation.
 La garantie des sommes et créances visées aux 1°, 2° et 3° ci-dessus inclut les
 cotisations et contributions sociales salariales d'origine légale ou d'origine
 conventionnelle imposée par la loi.
-
-L'assurance couvre également la contribution, échue ou à échoir, due par
-l'employeur pour le financement des allocations mentionnées au deuxième alinéa
-de l'article L. 322-3, lorsque la convention de conversion a été conclue
-antérieurement au jugement d'ouverture de la procédure de redressement ou de
-liquidation judiciaires.
-
-Lorsque la convention de conversion a été conclue postérieurement à ce jugement,
-la contribution de l'employeur et les salaires dus aux salariés y ayant adhéré
-pendant le délai de réponse prévu par le premier alinéa de l'article L. 321-6-1
-sont couvertes par l'assurance si le bénéfice de ladite convention a été proposé
-au salarié concerné pendant l'une des périodes indiquées au 2° du présent
-article.
 
 L'assurance couvre les sommes dues aux salariés en application des articles L.
 122-9-1 et L. 122-3-4-1.
@@ -123,9 +115,9 @@ L'assurance prévue à l'article L. 143-11-1 ne couvre pas les sommes qui
 concourent à l'indemnisation du préjudice causé par la rupture du contrat de
 travail dans le cadre d'un licenciement pour motif économique, en application
 d'un accord d'entreprise ou d'établissement ou de groupe ou d'une décision
-unilatérale de l'employeur, lorsque l'accord a été conclu et déposé et la
+unilatérale de l'employeur, lorsque l'accord a été conclu et déposé ou la
 décision notifiée moins de dix-huit mois avant la date du jugement d'ouverture
-de la procédure de redressement ou de liquidation judiciaire.
+de la procédure de redressement ou de liquidation judiciaires.
 
 Art. L. 143-11-4. - Le régime d'assurance prévu à l'article L. 143-11-1 est mis
 en oeuvre par une association créée par les organisations nationales
@@ -167,15 +159,15 @@ d'ouverture de la procédure, dans les trois mois suivant le prononcé du jugeme
 3. Pour les salaires et les indemnités de congés payés couvertes en application
 du 3° de l'article L. 143-11-1 et les salaires couverts en application du
 dernier alinéa de ce même article, dans les dix jours suivant l'expiration des
-périodes de garantie prévues à ce 3° et ceux, jusqu'à concurrence du plafond
+périodes de garantie prévues à ce 3° et ce, jusqu'à concurrence du plafond
 mentionné aux articles L. 143-10, L. 143-11, L. 742-6 et L. 751-15.
 
-4. Pour les autres créances dans les trois mois suivant l'expiration de la
+4. Pour les autres créances, dans les trois mois suivant l'expiration de la
 période de garantie.
 
 Le relevé des créances précise le montant des cotisations et contributions
 visées au septième alinéa de l'article L. 143-11-1 dues au titre de chacun des
-salariés, intéressés ;
+salariés intéressés ;
 
 Si les créances ne peuvent être payées en tout ou partie sur les fonds
 disponibles avant l'expiration des délais prévus ci-dessus, le représentant des
@@ -191,22 +183,23 @@ ci-dessus ;
 2° Dans les huit jours suivant la réception des relevés visés aux 2 et 4
 ci-dessus.
 
-Par dérogation aux dispositions des trois alinéas précédents, l'avance de la
-contribution de l'employeur au financement des allocations mentionnées au
-deuxième alinéa de l'article L. 322-3 et versée directement aux organismes
-gestionnaires mentionnés à l'article L. 351-21.
+Par dérogation aux dispositions des trois alinéas précédents, l'avance des
+contributions de l'employeur au financement de la convention de reclassement
+personnalisé mentionnée à l'article L. 321-4-2 est versée directement aux
+organismes gestionnaires mentionnés à l'article L. 351-21.
 
 Le représentant des créanciers reverse immédiatement les sommes qu'il a reçues
 aux salariés et organismes créanciers, à l'exclusion des créanciers subrogés, et
 en informe le représentant des salariés.
 
 Les institutions mentionnées ci-dessus doivent avancer les sommes comprises dans
-le relevé même en cas de contestation par un tiers.
+le relevé, même en cas de contestation par un tiers.
 
-Elles doivent également avancer les sommes correspondant à des créances
-définitivement établies par décision de justice, même si les délais de garantie
-sont expirés. Dans le cas où le représentant des créanciers a cessé ses
-fonctions, le greffier du tribunal ou le commissaire à l'exécution du plan,
+Elles doivent également avancer les sommes correspondant à des créances établies
+par décision de justice exécutoire, même si les délais de garantie sont expirés.
+Les décisions de justice seront de plein droit opposables à l'association visée
+à l'article L. 143-11-4. Dans le cas où le représentant des créanciers a cessé
+ses fonctions, le greffier du tribunal ou le commissaire à l'exécution du plan,
 selon le cas, adresse un relevé complémentaire aux institutions mentionnées
 ci-dessus, à charge pour lui de reverser les sommes aux salariés et organismes
 créanciers.
@@ -217,15 +210,15 @@ fixés par décret, en référence au plafond mensuel retenu pour le calcul des
 contributions du régime d'assurance-chômage prévu à la section 2 du chapitre Ier
 du titre V du livre III du présent code.
 
+Les sommes versées au salarié en application des articles L. 122-9-1 et L.
+122-3-4-1 sont le cas échéant prises en compte pour la détermination du ou des
+montants prévus à l'alinéa précédent.
+
 Art. L. 143-11-9. - Les institutions mentionnées à l'article L. 143-11-4 sont
 subrogées dans les droits des salariés pour lesquels elles ont effectué des
 avances, en ce qui concerne les créances garanties par le privilège prévu aux
 articles L. 143-10, L. 143-11, L. 742-6 et L. 751-15 et les créances avancées au
 titre du 3° de l'article L. 143-11-1.
-
-Les salaires avancés en application du dernier alinéa de l'article L. 143-11-1
-sont remboursés dans les conditions prévues au 4° du III de l'article L. 621-32
-du code de commerce.
 
 Les autres sommes avancées sont remboursées aux institutions susmentionnées dans
 les conditions prévues par le titre II du livre VI du code de commerce pour le

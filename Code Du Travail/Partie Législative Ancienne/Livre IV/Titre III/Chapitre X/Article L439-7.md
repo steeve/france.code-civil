@@ -10,7 +10,7 @@ Le chef d'entreprise ou son représentant engage la procédure de constitution d
 groupe spécial de négociation lorsque les effectifs mentionnés à l'article L.
 439-6 ont été atteints en moyenne sur l'ensemble des deux années précédentes. Le
 calcul des effectifs s'effectue conformément aux dispositions de l'article L.
-431-2, pour les entreprises ou établissements situés en France, et conformément
+620-10, pour les entreprises ou établissements situés en France, et conformément
 au droit national dans les autres Etats. Le chef d'entreprise fait en sorte que
 les informations sur les effectifs de l'entreprise ou du groupe d'entreprises de
 dimension communautaire soient mises, sur leur demande, à la disposition des

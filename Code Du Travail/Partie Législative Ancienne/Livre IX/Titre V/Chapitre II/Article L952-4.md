@@ -17,5 +17,11 @@ les six mois qui suivent la date du décès.
 En cas de redressement judiciaire ou de liquidation des biens, elles sont
 produites dans les soixante jours de la date du jugement.
 
+Les chefs d'exploitation et d'entreprises agricoles occupant moins de dix
+salariés auprès desquels les caisses de mutualité sociale agricole prélèvent la
+contribution visée à l'article L. 952-1 peuvent donner mandat à ces mêmes
+caisses pour remplir la déclaration prévue par le présent article, à partir des
+informations fournies par ceux-ci et sous leur responsabilité.
+
 Les modalités d'établissement et le contenu de la déclaration sont déterminés
 par décret en Conseil d'Etat.

@@ -29,14 +29,14 @@ contrat et ne peut être imputée sur la durée du congé payé annuel.
 IV. - L'autorisation d'absence ne peut être refusée par l'employeur que dans le
 cas où il estime, après avis, s'ils existent, du comité d'entreprise, ou, à
 défaut, des délégués du personnel, que cette absence aurait des conséquences
-préjudiciables à la production et à la bonne marche de l'entreprise.
+préjudiciables à la bonne marche de l'entreprise.
 
 Le refus doit être motivé à peine de nullité. Il peut être directement contesté
 devant le bureau de jugement du conseil de prud'hommes qui est saisi et statue
 en dernier ressort selon les formes applicables au référé.
 
 V. - Les dispositions du présent article sont applicables aux salariés
-mentionnés aux 1° à 7°, 9° et 10° de l'article 1144 du code rural.
+mentionnés aux 1° à 7°, 9° et 10° de l'article 1144 (1) du code rural.
 
 VI. - Ces dispositions s'appliquent en l'absence de dispositions législatives
 particulières existant à la date de leur entrée en vigueur.

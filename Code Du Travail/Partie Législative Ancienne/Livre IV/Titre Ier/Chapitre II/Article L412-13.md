@@ -9,4 +9,4 @@ troisième alinéa de l'article L. 412-11 et du premier alinéa de l'article L.
 412-12.
 
 Le calcul des effectifs s'effectue dans les conditions prévues à l'article L.
-412-5.
+620-10.

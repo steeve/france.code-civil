@@ -1,9 +1,10 @@
 Article L225-10
 ----
 Le salarié informe son employeur par lettre recommandée avec demande d'avis de
-réception, au moins un mois à l'avance, de la date de départ en congé et de la
-durée de l'absence envisagée, en précisant le nom de l'association pour le
-compte de laquelle la mission sera effectuée.
+réception ou par lettre remise en main propre contre décharge, au moins un mois
+à l'avance, de la date de départ en congé et de la durée de l'absence envisagée,
+en précisant le nom de l'association pour le compte de laquelle la mission sera
+effectuée.
 
 Le congé peut être refusé par l'employeur s'il estime qu'il aura des
 conséquences préjudiciables à la production et à la marche de l'entreprise. Ce
@@ -13,8 +14,8 @@ demande. Il peut être directement contesté devant le bureau de jugement du
 conseil de prud'hommes qui est saisi et statue en dernier ressort selon les
 formes applicables au référé.
 
-A défaut de réponse de l'employeur dans un délai de quinze jours, son accord
-[*tacite*] est réputé acquis.
+A défaut de réponse de l'employeur dans un délai de quinze jours, son accord est
+réputé acquis.
 
 Un décret fixe les règles selon lesquelles est déterminé, en fonction de
 l'effectif de l'établissement, le nombre maximum de salariés susceptibles de

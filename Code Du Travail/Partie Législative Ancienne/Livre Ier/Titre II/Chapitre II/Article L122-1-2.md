@@ -26,7 +26,8 @@ comité d'entreprise ou, à défaut, des délégués du personnel, s'il en exist
 
 III. - Lorsque le contrat est conclu pour remplacer un salarié absent ou dont le
 contrat de travail est suspendu, dans l'attente de l'entrée en service effective
-d'un salarié recruté par contrat à durée indéterminée ou au titre du 3° de
-l'article L. 122-1-1, il peut ne pas comporter un terme précis ; il doit alors
-être conclu pour une durée minimale et il a pour terme la fin de l'absence du
-salarié remplacé ou la réalisation de l'objet pour lequel il a été conclu.
+d'un salarié recruté par contrat à durée indéterminée ou au titre des 3°, 4° et
+5° de l'article L. 122-1-1, il peut ne pas comporter un terme précis ; il doit
+alors être conclu pour une durée minimale et il a pour terme la fin de l'absence
+de la personne remplacée ou la réalisation de l'objet pour lequel il a été
+conclu.

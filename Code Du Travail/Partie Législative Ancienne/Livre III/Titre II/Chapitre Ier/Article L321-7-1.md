@@ -34,10 +34,6 @@ l'article L. 321-7 courent à compter du lendemain de la deuxième réunion du
 comité d'entreprise. Ils expirent au plus tard quatre jours avant l'expiration
 des délais mentionnés au premier alinéa de l'article L. 321-6.
 
-Le délai de réponse dont dispose le salarié auquel a été proposée une convention
-de conversion, prévu au quatrième alinéa de l'article L. 321-6, court à compter
-de la troisième réunion du comité d'entreprise.
-
 Lorsque le comité central d'entreprise fait appel à un expert-comptable en
 application des dispositions de l'article L. 321-2, seules les dispositions des
 trois premiers alinéas du présent article sont applicables.

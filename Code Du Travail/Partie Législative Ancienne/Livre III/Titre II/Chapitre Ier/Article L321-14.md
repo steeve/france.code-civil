@@ -1,7 +1,6 @@
 Article L321-14
 ----
-Le salarié licencié pour motif économique ou ayant adhéré à une convention de
-conversion mentionnée à l'article L. 322-3 bénéficie d'une priorité de
+Le salarié licencié pour motif économique bénéficie d'une priorité de
 réembauchage durant un délai d'un an à compter de la date de rupture de son
 contrat s'il manifeste le désir d'user de cette priorité au cours de cette
 année. Dans ce cas, l'employeur l'informe de tout emploi devenu disponible et

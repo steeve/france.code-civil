@@ -5,10 +5,9 @@ prévu par l'article L. 122-26 ou par une convention ou un accord collectif, tou
 salarié qui justifie d'une ancienneté minimale d'une année à la date de
 naissance de son enfant ou de l'arrivée au foyer d'un enfant qui n'a pas encore
 atteint l'âge de la fin de l'obligation scolaire adopté ou confié en vue de son
-adoption a le droit soit de bénéficier d'un congé parental d'éducation durant
+adoption a le droit, soit de bénéficier d'un congé parental d'éducation durant
 lequel le contrat de travail est suspendu, soit de réduire sa durée de travail
-d'au moins un cinquième de celle qui est applicable à l'établissement sans que
-cette activité à temps partiel puisse être inférieure à seize heures
+sans que cette activité à temps partiel puisse être inférieure à seize heures
 hebdomadaires.
 
 Le congé parental et la période d'activité à temps partiel prennent fin au plus
@@ -32,9 +31,9 @@ dates limites définies à l'alinéa ci-dessus, quelle que soit la date de leur
 début.
 
 Le salarié doit informer son employeur, par lettre recommandée avec demande
-d'avis de réception, du point de départ et de la durée de la période pendant
-laquelle il entend bénéficier des dispositions de l'alinéa 1er du présent
-article.
+d'avis de réception, ou par lettre remise en main propre contre décharge, du
+point de départ et de la durée de la période pendant laquelle il entend
+bénéficier des dispositions de l'alinéa 1er du présent article.
 
 Lorsque cette période suit immédiatement le congé de maternité ou congé
 d'adoption, le salarié doit informer l'employeur, par lettre recommandée avec

@@ -41,10 +41,9 @@ Les indemnités dues pour les congés payés ;
 Les indemnités de licenciement dues en application des conventions collectives
 de travail, des accords collectifs d'établissement, des règlements de travail,
 des usages, des dispositions des articles L. 122-9, L. 122-32-6, L. 761-5 et L.
-761-7 ainsi que l'indemnité prévue à l'article L. 321-6 du code du travail pour
-la totalité de la portion inférieure ou égale au plafond visé à l'article L.
-143-10 du code du travail et pour le quart de la portion supérieure audit
-plafond ;
+761-7 du code du travail pour la totalité de la portion inférieure ou égale au
+plafond visé à l'article L. 143-10 du code du travail et pour le quart de la
+portion supérieure audit plafond ;
 
 Les indemnités dues, le cas échéant, aux salariés, en application des articles
 L. 122-3-8, deuxième alinéa, L. 122-14-4, L. 122-14-5, deuxième alinéa, L.

@@ -1,10 +1,10 @@
 Article L122-32-14
 ----
 Le salarié informe son employeur, par lettre recommandée avec demande d'avis de
-réception, au moins deux mois à l'avance, de la date à laquelle il souhaite
-partir en congé, ou de la date de début et de l'amplitude de la réduction
-souhaitée de son temps de travail, ainsi que de la durée envisagée de ce congé,
-ou de cette réduction.
+réception ou par lettre remise en main propre contre décharge, au moins deux
+mois à l'avance, de la date à laquelle il souhaite partir en congé, ou de la
+date de début et de l'amplitude de la réduction souhaitée de son temps de
+travail, ainsi que de la durée envisagée de ce congé, ou de cette réduction.
 
 Il précise dans ce même courrier l'activité de l'entreprise qu'il prévoit de
 créer ou de reprendre.

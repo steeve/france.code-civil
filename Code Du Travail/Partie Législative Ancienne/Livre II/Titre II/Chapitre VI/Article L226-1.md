@@ -14,12 +14,12 @@ Deux jours pour le décès d'un conjoint ou d'un enfant ;
 
 Un jour pour le mariage d'un enfant ;
 
-Un jour pour le décès du père ou de la mère.
+Un jour pour le décès du père, de la mère, du beau-père, de la belle-mère, d'un
+frère ou d'une soeur.
 
 Ces jours d'absence n'entraînent pas de réduction de la rémunération. Ils sont
 assimilés à des jours de travail effectif pour la détermination de la durée du
 congé annuel.
 
-Les dispositions du présent article sont applicables aux salariés [*agricoles,
-apprentis et employés de maison d'un exploitant agricole*] définis à l'article
-1144 (1° à 7°, 9° et 10°) du code rural.
+Les dispositions du présent article sont applicables aux salariés définis à
+l'article 1144 (1) (1° à 7°, 9° et 10°) du code rural.

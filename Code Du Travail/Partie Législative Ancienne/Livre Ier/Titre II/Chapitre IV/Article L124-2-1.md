@@ -19,4 +19,16 @@ recruté par un contrat à durée indéterminée appelé à le remplacer ;
 définis par décret ou par voie de convention ou d'accord collectif étendu, il
 est d'usage constant de ne pas recourir au contrat à durée indéterminée en
 raison de la nature de l'activité exercée et du caractère par nature temporaire
-de ces emplois.
+de ces emplois ;
+
+4° Remplacement d'un chef d'entreprise artisanale, industrielle ou commerciale,
+d'une personne exerçant une profession libérale, de son conjoint participant
+effectivement à l'activité de l'entreprise à titre professionnel et habituel ou
+d'un associé non salarié d'une société civile professionnelle, d'une société
+civile de moyens ou d'une société d'exercice libéral ;
+
+5° Remplacement du chef d'une exploitation agricole ou d'une entreprise
+mentionnée aux 1° à 4° de l'article L. 722-1 du code rural, d'un aide familial,
+d'un associé d'exploitation, ou de leur conjoint, mentionné à l'article L.
+722-10 du même code dès lors qu'il participe effectivement à l'activité de
+l'entreprise ou de l'exploitation agricole.

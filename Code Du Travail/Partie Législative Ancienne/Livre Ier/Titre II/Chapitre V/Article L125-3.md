@@ -6,7 +6,7 @@ main-d'oeuvre est interdite sous peine des sanctions prévues à l'article L.
 livre 1er, titre II, chapitre IV du présent code relatives au travail
 temporaire.
 
-Les articles L. 124-4-6, L. 124-4-7, L. 124-9, L. 124-12, L. 124-14, L. 341-3,
-le quatrième alinéa de l'article L. 422-1, ainsi que les articles 23 à 27 de la
-loi n° 72-1 du 3 janvier 1972 sur le travail temporaire sont applicables aux
-opérations de prêt de main-d'oeuvre à but non lucratif.
+Les articles L. 124-4-6, L. 124-4-7, L. 124-9, L. 124-12, L. 341-3, le quatrième
+alinéa de l'article L. 422-1, ainsi que les articles L. 412-3 à L. 412-7 du code
+de la sécurité sociale sont applicables aux opérations de prêt de main-d'oeuvre
+à but non lucratif.

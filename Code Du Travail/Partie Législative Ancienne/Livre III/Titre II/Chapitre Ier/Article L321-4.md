@@ -4,7 +4,7 @@ L'employeur est tenu d'adresser aux représentants du personnel, avec la
 convocation aux réunions prévues à l'article L. 321-2, tous renseignements
 utiles sur le projet de licenciement collectif.
 
-Il doit, en tous cas, indiquer [*mentions obligatoires*] :
+Il doit, en tous cas, indiquer *mentions obligatoires* :
 
 La ou les raisons économiques, financières ou techniques du projet de
 licenciement ;
@@ -24,10 +24,6 @@ représentants du personnel les mesures ou le plan de sauvegarde de l'emploi
 défini à l'article L. 321-4-1 qu'il envisage de mettre en oeuvre pour éviter les
 licenciements ou en limiter le nombre et pour faciliter le reclassement du
 personnel dont le licenciement ne pourrait être évité.
-
-Ces mesures sont constituées, dans les entreprises ou établissements mentionnés
-au premier alinéa de l'article L. 321-3, par les conventions de conversion
-prévues à l'article L. 321-5.
 
 De même, l'employeur doit simultanément faire connaître aux représentants du
 personnel les mesures de nature économique qu'il envisage de prendre.

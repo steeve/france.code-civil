@@ -4,9 +4,9 @@ Si la relation contractuelle de travail se poursuit après l'échéance du terme
 contrat, celui-ci devient un contrat à durée indéterminée.
 
 Lorsque le contrat de travail à durée déterminée est conclu pour remplacer un
-salarié absent ou dont le contrat de travail est suspendu ou au titre du 3° de
-l'article L. 122-1-1, les dispositions de l'alinéa ci-dessus ne font pas
-obstacle à la conclusion avec le même salarié de contrats à durée déterminée
+salarié absent ou dont le contrat de travail est suspendu ou au titre des 3°, 4°
+et 5° de l'article L. 122-1-1, les dispositions de l'alinéa ci-dessus ne font
+pas obstacle à la conclusion avec le même salarié de contrats à durée déterminée
 successifs.
 
 Lorsque la relation contractuelle de travail se poursuit à l'issue d'un contrat

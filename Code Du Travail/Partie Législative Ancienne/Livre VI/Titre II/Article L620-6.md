@@ -6,6 +6,10 @@ du travail sont datés et mentionnent l'identité de la personne ou de l'organis
 chargé du contrôle ou de la vérification et celle de la personne qui a effectué
 le contrôle ou la vérification.
 
+Les observations et mises en demeure notifiées par l'inspection du travail et
+relatives à des questions d'hygiène, de sécurité, de médecine du travail et de
+prévention des risques sont conservées par l'employeur.
+
 Les inspecteurs du travail et les agents du service de prévention des organismes
 de sécurité sociale peuvent se faire présenter ces documents au cours de leurs
 visites.
@@ -18,12 +22,13 @@ conditions de travail créés en application du 4° de l'article L. 231-2 du
 présent code.
 
 Sauf dispositions particulières fixées par voie réglementaire, doivent être
-conservés les documents concernant les vérifications et contrôles des cinq
+conservés les documents concernant les observations et mises en demeure
+notifiées par l'inspecteur du travail, les vérifications et contrôles des cinq
 dernières années et, en tout état de cause, ceux des deux derniers contrôles ou
-vérifications [*délai*].
+vérifications.
 
-Dans le cas où il est prévu que les informations énumérées au premier alinéa
-ci-dessus doivent figurer dans des registres distincts, les employeurs sont de
-plein droit autorisés à réunir ces informations dans un registre unique lorsque
-cette mesure est de nature à faciliter la conservation et la consultation de ces
-informations.
+Dans le cas où il est prévu que les informations énumérées aux premier et
+deuxième alinéas ci-dessus doivent figurer dans des registres distincts, les
+employeurs sont de plein droit autorisés à réunir ces informations dans un
+registre unique lorsque cette mesure est de nature à faciliter la conservation
+et la consultation de ces informations.

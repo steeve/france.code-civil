@@ -5,7 +5,7 @@ salarié ne s'est pas retiré de la situation de travail définie à l'article L
 231-8, alors qu'il existe une cause de danger grave et imminent résultant, soit
 d'un défaut de protection contre les chutes de hauteur, soit de l'absence de
 dispositifs de nature à éviter les risques d'ensevelissement, soit de l'absence
-de dispositifs de protection de nature à éviter les riques liés aux opérations
+de dispositifs de protection de nature à éviter les risques liés aux opérations
 de confinement et de retrait de l'amiante constituant une infraction aux
 obligations des décrets pris en application de l'article L. 231-2, l'inspecteur
 du travail ou le contrôleur du travail, par délégation de l'inspecteur du
@@ -22,7 +22,7 @@ cancérigène, mutagène ou toxique pour la reproduction, à un niveau supérieu
 une valeur limite de concentration fixée par le décret pris en application de
 l'article L. 231-7, il met en demeure l'employeur de remédier à cette situation.
 La mise en demeure est effectuée selon les modalités prévues aux articles L.
-611-14 et L. 620-4.
+611-14 et L. 620-6.
 
 Si, à l'issue du délai fixé dans la mise en demeure et après vérification par un
 organisme agréé, le dépassement persiste, l'inspecteur du travail ou le

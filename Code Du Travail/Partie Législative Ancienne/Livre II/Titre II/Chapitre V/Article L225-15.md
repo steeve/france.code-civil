@@ -17,10 +17,11 @@ Dans tous les cas, le salarié informe son employeur de la date prévisible de s
 retour avec un préavis de trois jours francs.
 
 Le salarié doit adresser à son employeur, au moins quinze jours avant le début
-du congé, une lettre recommandée avec demande d'avis de réception l'informant de
-sa volonté de bénéficier du congé de solidarité familiale, ainsi qu'un
-certificat médical attestant que la personne assistée souffre effectivement de
-la pathologie susmentionnée.
+du congé, une lettre recommandée avec demande d'avis de réception ou lui
+remettre en main propre une lettre contre décharge l'informant de sa volonté de
+bénéficier du congé de solidarité familiale, ainsi qu'un certificat médical
+attestant que la personne assistée souffre effectivement de la pathologie
+susmentionnée.
 
 En cas d'urgence absolue constatée par écrit par le médecin qui établit le
 certificat médical visé à l'alinéa précédent, le congé de solidarité familiale
