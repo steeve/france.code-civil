@@ -1,8 +1,8 @@
 Article 421-3
 ----
 Le maximum de la peine privative de liberté encourue pour les infractions
-mentionnées aux 1°, 2° et 3° de l'article 421-1 est relevé ainsi qu'il suit
-lorsque ces infractions constituent des actes de terrorisme :
+mentionnées à l'article 421-1 est relevé ainsi qu'il suit lorsque ces
+infractions constituent des actes de terrorisme :
 
 1° Il est porté à la réclusion criminelle à perpétuité lorsque l'infraction est
 punie de trente ans de réclusion criminelle ;

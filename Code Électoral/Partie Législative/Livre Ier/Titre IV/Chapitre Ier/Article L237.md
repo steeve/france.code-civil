@@ -2,12 +2,10 @@ Article L237
 ----
 Les fonctions de conseiller municipal sont incompatibles avec celles :
 
-1° De commissaire ou commissaire-adjoint de la République et de secrétaire
-général de préfecture;
+1° De préfet ou sous-préfet et de secrétaire général de préfecture ;
 
-2° De fonctionnaire des corps actifs de police appartenant aux corps des
-commandants et officiers de paix, des inspecteurs de police et des commissaires
-de police.
+2° De fonctionnaire des corps de conception et de direction et de commandement
+et d'encadrement de la police nationale ;
 
 3° De représentant légal des établissements communaux ou intercommunaux
 mentionnés aux 1°, 2° et 3° de l'article 2 de la loi n° 86-33 du 9 janvier 1986
