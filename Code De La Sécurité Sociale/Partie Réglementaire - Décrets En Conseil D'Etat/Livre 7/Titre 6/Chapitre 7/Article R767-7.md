@@ -1,7 +1,8 @@
 Article R767-7
 ----
-Le centre de sécurité sociale des travailleurs migrants est dirigé par un
-directeur assisté d'un secrétaire général qui le supplée en tant que de besoin.
+Le centre des liaisons européennes et internationales de sécurité sociale est
+dirigé par un directeur assisté d'un secrétaire général qui le supplée en tant
+que de besoin.
 
 Le directeur dirige l'établissement et exerce celles des compétences de celui-ci
 qui ne sont pas attribuées à une autre autorité par la présente section. A ce
@@ -23,4 +24,7 @@ autorité n'a reçu pouvoir de nomination ;
 6° Il conclut au nom du centre les marchés publics et contrats ;
 
 7° Il représente l'établissement en justice et dans tous les actes de la vie
-civile.
+civile ;
+
+8° Il signe les autorisations découlant de l'application du 5° du I de l'article
+R. 767-2.
