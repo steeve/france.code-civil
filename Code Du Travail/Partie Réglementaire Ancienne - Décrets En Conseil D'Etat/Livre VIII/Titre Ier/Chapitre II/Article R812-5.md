@@ -1,8 +1,8 @@
 Article R812-5
 ----
 Le décompte de l'effectif de l'entreprise, défini au deuxième alinéa de
-l'article L. 812-2, s'effectue dans les conditions prévues à l'article L. 421-2.
-L'effectif pris en compte est celui de l'ensemble des établissements de
+l'article L. 812-2, s'effectue dans les conditions prévues à l'article L.
+620-10. L'effectif pris en compte est celui de l'ensemble des établissements de
 l'entreprise situés dans le département d'outre-mer, ou dans la collectivité de
 Saint-Pierre-et-Miquelon et employé durant l'année civile précédente.
 

@@ -1,7 +1,6 @@
 Article R143-2
 ----
-Le bulletin de paie prévu à l'article L. 143-3 comporte obligatoirement
-[*mentions obligatoires*] :
+Le bulletin de paie prévu à l'article L. 143-3 comporte obligatoirement :
 
 1° Le nom et l'adresse de l'employeur ainsi que, le cas échéant, la désignation
 de l'établissement dont dépend le salarié ;
@@ -39,39 +38,42 @@ exception, cette base de calcul n'est pas la durée du travail ;
 6° Le montant du complément différentiel de salaire mentionné par l'article 32
 de la loi n° 2000-37 du 19 janvier 2000 relative à la réduction négociée du
 temps de travail, s'il y a lieu, ainsi que la nature et le montant des
-accessoires de salaire soumis aux cotisations mentionnées au 9° et au deuxième
-alinéa du présent article ;
+accessoires de salaire soumis aux cotisations mentionnées au 8° et au
+dix-septième alinéa du présent article ;
 
 7° Le montant de la rémunération brute du salarié ;
 
-8° Le montant de la contribution sociale généralisée et de la contribution pour
-le remboursement de la dette sociale ;
+8° La nature et le montant des retenues et ajouts effectués sur la rémunération
+brute en application des dispositions législatives, réglementaires ou
+conventionnelles ainsi que des autres retenues et ajouts.
 
-9° La nature et le montant des cotisations salariales retenues sur cette
-rémunération brute en application de dispositions législatives, réglementaires
-ou conventionnelles ;
+Le regroupement des retenues relatives aux cotisations et aux contributions
+salariales est autorisé dès lors que ces prélèvements sont appliqués à une même
+assiette et destinés à un même organisme collecteur. Dans ce cas, le bulletin de
+paie est présenté avec des titres précisant l'objet de ces prélèvements.
 
-10° La nature et le montant des autres déductions éventuellement effectuées sur
-la rémunération ;
+Le taux, le montant ainsi que la composition de chacun de ces prélèvements sont
+communiqués au salarié au moins une fois par an ou lorsque prend fin le contrat
+de travail, soit sur le bulletin de paie, soit sur un document pouvant lui être
+annexé ;
 
-11° La nature et le montant des sommes s'ajoutant à la rémunération et non
-soumises aux cotisations mentionnées au 9° et au deuxième alinéa du présent
-article ;
+9° Le montant de la somme effectivement reçue par le salarié ;
 
-12° Le montant de la somme effectivement reçue par le salarié ;
+10° La date de paiement de ladite somme ;
 
-13° La date de paiement de ladite somme ;
-
-14° Les dates de congé et le montant de l'indemnité correspondante, lorsqu'une
+11° Les dates de congé et le montant de l'indemnité correspondante, lorsqu'une
 période de congé annuel est comprise dans la période de paie considérée.
 
-Le bulletin de paie ou le récapitulatif annuel remis au salarié mentionne la
-nature et le montant des cotisations patronales de sécurité sociale d'origine
-législative, réglementaire ou conventionnelle assises sur cette rémunération
-brute. Les employeurs de main-d'oeuvre agricoles auxquels le montant de
-cotisations est notifié trimestriellement ont la faculté de mentionner ces
-cotisations après le paiement des cotisations patronales, en précisant la
-période sur laquelle elles portent.
+Le bulletin de paie ou un récapitulatif annuel remis au salarié mentionne la
+nature, le montant et le taux des cotisations et contributions patronales
+d'origine législative, réglementaire ou conventionnelle assises sur la
+rémunération brute. Lorsque ces cotisations et contributions sont mentionnées
+sur le bulletin de paie, elles peuvent être regroupées dans les mêmes conditions
+et selon les mêmes modalités de communication au salarié que celles prévues pour
+les cotisations et contributions salariales mentionnées au 8°. Les employeurs de
+main-d'oeuvre agricoles auxquels le montant de cotisations est notifié
+trimestriellement ont la faculté de mentionner ces cotisations après le paiement
+des cotisations patronales, en précisant la période sur laquelle elles portent.
 
 Il ne doit être fait mention ni de l'exercice du droit de grève ni de l'activité
 de représentation des salariés. La nature et le montant de la rémunération de

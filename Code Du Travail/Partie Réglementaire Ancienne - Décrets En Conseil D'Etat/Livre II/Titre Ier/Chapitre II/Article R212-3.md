@@ -1,7 +1,7 @@
 Article R212-3
 ----
-Les dérogations [*exceptionnelles*] prévues au troisième alinéa de l'article L.
-212-7 revêtent l'une des modalités suivantes :
+Les dérogations prévues au troisième alinéa de l'article L. 212-7 revêtent l'une
+des modalités suivantes :
 
 Dépassement de la durée moyenne hebdomadaire de cinquante heures sur une période
 de douze semaines consécutives ;

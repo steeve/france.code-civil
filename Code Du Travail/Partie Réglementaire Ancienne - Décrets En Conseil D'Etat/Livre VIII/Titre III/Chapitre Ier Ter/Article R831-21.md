@@ -13,7 +13,7 @@ cadre d'un plan d'apurement ;
 
 L'effectif de référence est l'effectif moyen de l'année civile précédant celle
 au cours de laquelle est accordé l'agrément, calculé selon les modalités prévues
-à l'article L. 421-2, et arrondi à l'entier le plus voisin, à l'exclusion des
+à l'article L. 620-10, et arrondi à l'entier le plus voisin, à l'exclusion des
 contrats mentionnés à l'article L. 832-2 du code du travail.
 
 La prime est versée pour chaque emploi supplémentaire créé dans le département

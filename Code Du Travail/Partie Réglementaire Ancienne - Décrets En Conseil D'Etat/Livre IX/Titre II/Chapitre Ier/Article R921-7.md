@@ -1,34 +1,26 @@
 Article R921-7
 ----
-Le bilan pédagogique et financier mentionné à l'article L. 920-5 indique
-[*contenu*] :
+Le bilan pédagogique et financier mentionné à l'article L. 920-5 indique :
 
-1° Les activités de formation conduites au cours de l'année, le nombre de
-stagiaires accueillis, le nombre d'heures-stagiaires et d'heures de formation
-correspondant, en fonction de la nature, du niveau, des domaines et de la durée
-des formations dispensées au titre de la formation professionnelle continue ;
-
-2° La répartition des fonds reçus selon leur nature ;
-
-3° Le montant des factures émises par l'organisme ;
-
-4° Les données comptables relatives aux actions de formation professionnelle
+1° Les activités de formation conduites au cours de l'exercice comptable, le
+nombre de stagiaires accueillis, le nombre d'heures-stagiaires et d'heures de
+formation correspondant, en fonction de la nature, du niveau, des domaines et de
+la durée des formations dispensées au titre de la formation professionnelle
 continue ;
 
-5° Les produits financiers tirés du placement des fonds reçus ;
+2° La répartition des fonds reçus selon leur nature et le montant des factures
+émises par le prestataire ;
 
-6° Le montant des résorptions opérées par l'organisme de formation auprès des
-entreprises ;
+3° Les données comptables relatives aux prestations de formation professionnelle
+continue ;
 
-7° Le montant des versements des employeurs utilisés dans le cadre des
-dispositions de l'article R. 950-8, alinéa 3 [*antérieurement au décret 531 :
-alinéa 2*].
+4° Les produits financiers tirés du placement des fonds reçus ;
 
-Le bilan pédagogique et financier est adressé par l'organisme de formation ou
-l'établissement autonome au commissaire de la République de région avant le 30
-avril suivant l'année civile considérée.
+Le prestataire de formation déclaré en vertu de l'article L. 920-4 ou
+l'établissement autonome adresse au préfet de région son bilan pédagogique et
+financier avant le 30 avril de chaque année.
 
-Sur la demande du commissaire de la République de région territorialement
-compétent, les organismes de formation sont tenus de produire la liste des
-conventions de formation et des contrats de prestations de services conclus au
-titre de la formation professionnelle continue.
+Sur la demande du préfet de région territorialement compétent, les prestataires
+sont tenus de produire la liste des prestations de formation réalisées ou à
+effectuer. Le cas échéant, cette liste mentionne le montant des résorptions
+opérées par le prestataire auprès des entreprises.

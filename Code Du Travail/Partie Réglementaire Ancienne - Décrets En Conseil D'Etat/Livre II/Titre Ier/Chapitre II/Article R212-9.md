@@ -7,9 +7,9 @@ temporairement un surcroit extraordinaire de travail.
 Les demandes de dérogation sont adressées par les employeurs à l'inspecteur du
 travail.
 
-Toute demande présentée à ce titre doit être assortie de justifications
-[*mentions obligatoires*] sur les circonstances exceptionnelles qui la motivent
-et préciser la durée pour laquelle la dérogation est sollicitée.
+Toute demande présentée à ce titre doit être assortie de justifications sur les
+circonstances exceptionnelles qui la motivent et préciser la durée pour laquelle
+la dérogation est sollicitée.
 
 Elle doit être accompagnée de l'avis du comité d'entreprise ou, à défaut, de
 celui des délégués du personnel.

@@ -1,17 +1,21 @@
 Article D511-12
 ----
-Le Conseil national de la consommation en formation plénière est convoqué par le
-ministre chargé de la consommation, de sa propre initiative ou à la demande de
-la majorité d'un des deux collèges ou de la majorité du bureau. Il tient au
-moins quatre séances plénières par an.
+Le Conseil national de la consommation dans sa formation plénière est convoqué
+par le ministre chargé de la consommation, de sa propre initiative ou à la
+demande de la majorité des membres titulaires d'un des deux collèges ou de la
+majorité des membres titulaires du bureau. Il tient au moins une séance plénière
+par an.
 
 La réunion d'un seul collège se fait sur convocation du ministre chargé de la
-consommation, de sa propre initiative ou à la demande de la majorité des membres
-du collège concerné.
+consommation, de sa propre initiative ou à la demande des deux tiers des membres
+titulaires de l'un ou l'autre des collèges.
 
-Pour l'application de l'article L. 113-3, la convocation du conseil est adressée
-deux semaines au moins avant la date de la séance.
+La consultation du Conseil national de la consommation ou d'un seul collège peut
+être effectuée :
 
-Dans le cas prévu à l'article L. 410-2 du code de commerce, cette consultation
-est effectuée selon une procédure d'urgence, sans condition de délai ni de
-quorum.
+- soit sur convocation du ministre adressée deux semaines au moins avant la date
+de la séance ;
+
+- soit selon une procédure d'urgence, sans condition de délai ou de quorum ;
+
+- soit par voie écrite.
