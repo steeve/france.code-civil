@@ -1,118 +1,93 @@
 Article A188
 ----
-Pour l'application des dispositions de l'article A. 187, le décompte des points
-à attribuer à chaque candidat est fixé comme suit :
+Pour l'application des dispositions de l'article A. 187, le barème est fixé
+comme suit :
 
-I. - ANCIENNETE DE SERVICE
+I. - Aptitude professionnelle
 
-Pour l'ancienneté de service (tout mois commencé est compté comme fait) : 1
-point par mois jusqu'à quinze ans (maximum : 180 points).
+La totalité des points obtenus par le candidat aux épreuves de l'examen.
 
-Les services des militaires en activité qui sont arrêtés au dernier jour du
-trimestre au cours duquel la demande a été déposée.
+II. - Ancienneté de service
 
-II. - MAJORATIONS MILITAIRES
+0,1 point par mois jusqu'à quinze ans ; maximum : 18 points (tout mois commencé
+est compté comme fait).
 
-A. - Suivant la catégorie à laquelle appartient l'intéressé au moment où ses
+La durée des services est arrêtée au dernier jour du trimestre au cours duquel
+la demande a été déposée.
+
+III. - Majorations militaires
+
+A. - Suivant la catégorie à laquelle l'intéressé appartient au moment où ses
 services sont arrêtés.
 
-CATEGORIE : Caporaux, brigadiers, caporaux-chefs, brigadiers-chefs
+CATEGORIES :
 
-DUREE DES SERVICES : De 0 à 5 ans
+Caporal, brigadier, caporal-chef, brigadier-chef, quartier-maître sous contrat.
 
-MAJORATION : 10 points
+DUREE des services : de 0 à 4 ans
 
-DUREE DES SERVICES : De 5 à 10 ans
+MAJORATIONS : 1 point
 
-MAJORATION : 20 points
+DUREE des services : de 4 à 8 ans
 
-DUREE DES SERVICES : De 10 à 15 ans
+MAJORATIONS : 2 points
 
-DUREE DES SERVICES : 30 points
+DUREE des services : de 8 à 15 ans
 
-CATEGORIE : Quartiers-maîtres, sous-officiers engagés ou rengagés
+MAJORATIONS : 3 points
 
-DUREE DES SERVICES : De 0 à 5 ans
+CATEGORIES :
 
-MAJORATION : 30 points
+Sous-officier, officier marinier et officier sous contrat.
 
-DUREE DES SERVICES : De 5 à 10 ans
+DUREE des services : de 0 à 4 ans
 
-MAJORATION : 40 points
+MAJORATIONS : 3 points
 
-DUREE DES SERVICES : de 10 à 15 ans
+DUREE des services : de 4 à 8 ans
 
-MAJORATION : 50 points
+MAJORATIONS : 4 points
 
-CATEGORIE : Officiers mariniers engagés, rengagés ou du cadre de maistrance et
-sous-officiers de carrière
+DUREE des services : de 8 à 15 ans
 
-DUREE DES SERVICES : De 0 à 10 ans
+MAJORATIONS : 5 points
 
-MAJORATION : 50 points
+CATEGORIES :
 
-DUREE DES SERVICES : De 10 à 15 ans
+Officier marinier du cadre de maistrance et sous-officier de carrière.
 
-MAJORATION : 80 points
+DUREE des services : de 0 à 10 ans
+
+MAJORATIONS : 5 points
+
+DUREE des services : de 10 à 15 ans
+
+MAJORATIONS : 8 points
 
 B. - Campagnes
 
-Un point par année de campagne ou de bonification pour services aériens.
+0,3 point par année de campagne, de service aérien, de service sous-marin et
+subaquatique, 0,2 point pour six mois et 0,1 point pour trois mois.
 
-Un demi-point pour six mois de campagne ou de bonification pour services
-aériens.
-
-Un quart de point pour trois mois de campagne ou de bonification pour services
-aériens.
-
-Les fractions inférieures à un quart de point sont négligées.
-
-Le calcul des bonifications acquises au titre des campagnes et des services
-aériens servant de base aux majorations de points, est effectué conformément aux
-articles R. 14 à R. 25 du Code des pensions civiles et militaires de retraite et
-aux textes d'application desdits articles.
+Le calcul des bonifications acquises au titre des campagnes, des services
+aériens, des services sous-marins ou subaquatiques, servant de base aux
+majorations de points, est effectué conformément aux articles R. 14 à R. 25 du
+code des pensions civiles et militaires de retraite.
 
 C. - Décorations et citations
 
-Légion d'honneur : dix points.
+Les majorations s'appliquent aux décorations suivantes :
 
-Médaille militaire : cinq points.
+Légion d'honneur : 3 points ;
 
-Croix de la Libération : dix points.
+Médaille militaire : 2 points ;
 
-Médaille de la résistance avec rosette : trois points.
+Ordre national du Mérite : 2 points ;
 
-Médaille de la résistance : deux points.
+Croix de guerre des théâtres des opérations extérieures : 1 point ;
 
-D. - Croix de guerre et citations 1914-1918, guerre 1939-1945 et T.O.E.
+Croix de la valeur militaire : 1 point.
 
-Croix de guerre avec palme (citation à l'ordre de l'armée) : cinq points.
+IV. - Majorations pour enfants
 
-Croix de guerre avec étoile de vermeil (citation à l'ordre du corps d'armée) :
-quatre points.
-
-Croix de guerre avec étoile d'argent (citation à l'ordre de la division) : trois
-points.
-
-Croix de guerre avec étoile de bronze (citation à l'ordre de la brigade) : deux
-points.
-
-Croix de guerre avec étoile de bronze (citation à l'ordre du régiment ou du
-bataillon) : un point.
-
-Les décorations et citations obtenues après quinze ans doivent être comptées.
-
-E. - Brevets
-
-Cinq points par brevet ouvrant droit à l'échelle de solde n° 3.
-
-Dix points par brevet ou titre ouvrant droit à l'échelle n° 4.
-
-III. - MAJORATIONS POUR ENFANTS
-
-Cinq points par enfant ouvrant droit aux allocations familiales ou à
-l'allocation de salaire unique.
-
-IV. - APTITUDE PROFESSIONNELLE
-
-Total des points obtenus par le candidat aux épreuves de l'examen.
+0,1 point par enfant à charge.
