@@ -35,6 +35,14 @@ la durée du temps de travail ne peut être prédéterminée ou qui disposent d'
 réelle autonomie dans l'organisation de leur emploi du temps pour l'exercice des
 responsabilités qui leur sont confiées.
 
+Une convention ou un accord collectif de branche, de groupe, d'entreprise ou
+d'établissement peut enfin ouvrir la faculté au salarié qui le souhaite, en
+accord avec le chef d'entreprise, d'effectuer des heures au-delà de la durée
+annuelle de travail prévue par la convention de forfait. La convention ou
+l'accord collectif précise notamment les conditions dans lesquelles ces heures
+sont effectuées, fixe la majoration de salaire à laquelle elles donnent lieu
+ainsi que les conditions dans lesquelles le salarié fait connaître son choix.
+
 III. - La convention ou l'accord collectif prévoyant la conclusion de
 conventions de forfait en jours doit fixer le nombre de jours travaillés. Ce
 nombre ne peut dépasser le plafond de deux cent dix-huit jours. La convention ou
@@ -46,7 +54,13 @@ de contrôle de son application et prévoit des modalités de suivi de
 l'organisation du travail des salariés concernés, de l'amplitude de leurs
 journées d'activité et de la charge de travail qui en résulte. L'accord peut en
 outre prévoir que des jours de repos peuvent être affectés sur un compte
-épargne-temps dans les conditions définies par l'article L. 227-1.
+épargne-temps dans les conditions définies par l'article L. 227-1. Une
+convention ou un accord collectif de branche, de groupe, d'entreprise ou
+d'établissement peut enfin ouvrir la faculté au salarié qui le souhaite, en
+accord avec le chef d'entreprise, de renoncer à une partie de ses jours de repos
+en contrepartie d'une majoration de son salaire. La convention ou l'accord
+collectif détermine notamment le montant de cette majoration ainsi que les
+conditions dans lesquelles les salariés font connaître leur choix.
 
 Les salariés concernés ne sont pas soumis aux dispositions de l'article L. 212-1
 et du deuxième alinéa de l'article L. 212-7. Les dispositions des articles L.
@@ -60,7 +74,9 @@ l'établissement permettant de comptabiliser le nombre de jours de travail
 effectués par les salariés concernés par ces conventions de forfait. Lorsque le
 nombre de jours travaillés dépasse le plafond annuel fixé par la convention ou
 l'accord, après déduction, le cas échéant, du nombre de jours affectés sur un
-compte épargne-temps et des congés payés reportés dans les conditions prévues à
-l'article L. 223-9, le salarié doit bénéficier, au cours des trois premiers mois
-de l'année suivante, d'un nombre de jours égal à ce dépassement. Ce nombre de
-jours réduit le plafond annuel de l'année durant laquelle ils sont pris.
+compte épargne-temps ou auxquels le salarié a renoncé dans les conditions
+prévues au premier alinéa et des congés payés reportés dans les conditions
+prévues à l'article L. 223-9, le salarié doit bénéficier, au cours des trois
+premiers mois de l'année suivante, d'un nombre de jours égal à ce dépassement.
+Ce nombre de jours réduit le plafond annuel de l'année durant laquelle ils sont
+pris.
