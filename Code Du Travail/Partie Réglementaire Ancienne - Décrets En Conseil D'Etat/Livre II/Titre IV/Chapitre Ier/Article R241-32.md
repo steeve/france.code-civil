@@ -11,6 +11,13 @@ Vingt employés ou assimilés ;
 
 Quinze ouvriers ou assimilés ;
 
-Dix salariés, y compris les travailleurs temporaires, soumis à une surveillance
-médicale prévue par les règlements pris en application de l'article L. 231-2
-(2°) et ceux qui relèvent des dispositions de l'article R. 241-50.
+Dix salariés soumis à une surveillance médicale prévue par les règlements pris
+en application de l'article L. 231-2 (2°) et ceux qui relèvent des dispositions
+de l'article R. 241-50 ;
+
+Dix travailleurs temporaires soumis à la surveillance médicale prévue par les
+décrets pris en application de l'article L. 231-2 (2°) et à la surveillance
+médicale afférente aux travaux comportant des exigences ou des risques spéciaux
+déterminés par l'arrêté mentionné à l'article R. 241-50 ; chaque travailleur
+temporaire compte pour un dans l'effectif de l'entreprise utilisatrice, quels
+que soient le nombre et la durée des missions.
