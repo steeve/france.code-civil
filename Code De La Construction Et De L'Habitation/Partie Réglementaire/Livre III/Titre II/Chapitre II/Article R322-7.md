@@ -6,5 +6,8 @@ et par la section I du chapitre IV du titre II du livre III du code de la
 construction et de l'habitation, seuls les travaux qui n'ont pas fait l'objet
 des aides susvisées peuvent bénéficier de la prime.
 
-Le montant cumulé des aides ne doit pas excéder le plafond mentionné à l'article
-R. 322-8 et en vigueur au moment de la dernière demande.
+Le montant cumulé des aides ne doit pas excéder le plafond spécifique à chacune
+d'elles mentionné à l'article R. 322-8 et en vigueur au moment de la dernière
+demande. Toutefois cette disposition n'est pas applicable aux travaux réalisés
+dans des logements occupés par des personnes handicapées physiques et tendant à
+adopter ces logements à leurs besoins.
