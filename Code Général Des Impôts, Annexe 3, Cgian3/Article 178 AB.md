@@ -14,8 +14,8 @@ Ils peuvent délivrer ces produits seulement aux conditions suivantes :
 publique.
 
 Les pharmaciens d'officine doivent tenir, sur un registre préalablement coté et
-paraphé par l'inspecteur de la pharmacie, un compte d'entrées et de sorties par
-nature de produits.
+paraphé par ((le pharmacien inspecteur de santé publique)) (M), un compte
+d'entrées et de sorties par nature de produits.
 
 Ce compte fait apparaître, d'une part :
 
@@ -37,10 +37,12 @@ l'ordonnancier sont immédiatement portées au compte. Les utilisations et les
 ventes qui donnent lieu à inscription à l'ordonnancier peuvent n'être
 transcrites que mois par mois.
 
-Les inspecteurs de la pharmacie contrôlent l'utilisation qui est faite des
-essences, et éventuellement de l'anéthol, dans les officines et dans les
-établissements pharmaceutiques.
+Les ((pharmaciens inspecteurs de santé publique)) (M) contrôlent l'utilisation
+qui est faite des essences, et éventuellement de l'anéthol, dans les officines
+et dans les établissements pharmaceutiques.
 
 Le ministre des affaires sociales informe le ministre de l'économie et des
 finances de tout abus constaté, en vue de permettre l'application, le cas
 échéant, des dispositions répressives prévues en la matière.
+
+(M) Modification.
