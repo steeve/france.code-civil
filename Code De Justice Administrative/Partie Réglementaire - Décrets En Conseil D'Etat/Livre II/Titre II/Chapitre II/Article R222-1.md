@@ -24,8 +24,10 @@ droit et en fait, pour la juridiction saisie, des questions identiques à celles
 qu'elle a déjà tranchées ensemble par une même décision passée en force de chose
 jugée.
 
-Les présidents des cours administratives d'appel et les présidents de formation
-de jugement des cours peuvent, en outre, par ordonnance, rejeter les conclusions
-à fin de sursis à exécution d'une décision juridictionnelle frappée d'appel. Ils
-peuvent, de même, rejeter les requêtes dirigées contre des ordonnances prises en
-application des 1° à 6° du présent article.
+Les présidents des cours administratives d'appel et les présidents des
+formations de jugement des cours peuvent, en outre, par ordonnance, rejeter les
+conclusions à fin de sursis à exécution d'une décision juridictionnelle frappée
+d'appel et les requêtes dirigées contre des ordonnances prises en application
+des 1° à 6° du présent article. Ils peuvent, de même, annuler une ordonnance
+prise en application des 1° à 5° du présent article à condition de régler
+l'affaire au fond par application de l'une de ces dispositions.
