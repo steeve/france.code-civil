@@ -9,5 +9,6 @@ par jour de retard dans l'exécution des mesures ou obligations imposées.
 L'astreinte cesse de courir le jour où ces dernières sont complètement
 exécutées. Elle est alors liquidée par le tribunal à la demande de l'intéressé
 et recouvrée par le comptable du Trésor comme une amende pénale. Elle ne donne
-pas lieu à contrainte par corps. Le présent article ne s'applique qu'aux rejets,
-déversements ou écoulements provenant de dépôts ou d'installations fixes.
+pas lieu à contrainte judiciaire. Le présent article ne s'applique qu'aux
+rejets, déversements ou écoulements provenant de dépôts ou d'installations
+fixes.

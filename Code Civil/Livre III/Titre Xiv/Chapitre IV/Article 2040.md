@@ -5,4 +5,4 @@ Toutes les fois qu'une personne est obligée, par la loi ou par une condamnation
 par les articles 2018 et 2019.
 
 Lorsqu'il s'agit d'un cautionnement judiciaire, la caution doit, en outre, être
-susceptible de contrainte par corps.
+susceptible de contrainte judiciaire.

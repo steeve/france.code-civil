@@ -10,7 +10,7 @@ par vingt ans. La peine prononcée en cas de condamnation pour l'un de ces déli
 se prescrit par vingt ans à compter de la date à laquelle la condamnation est
 devenue définitive.
 
-Par dérogation aux dispositions de l'article 750, la durée de la contrainte
-judiciaire est fixée à deux années lorsque l'amende et les condamnations
+Par dérogation aux dispositions de l'article 750, le maximum de la durée de la
+contrainte judiciaire est fixée à un an lorsque l'amende et les condamnations
 pécuniaires prononcées pour l'une des infractions mentionnées à l'alinéa
-précédent ou pour les infractions douanières connexes excèdent 75 000 euros.
+précédent ou pour les infractions douanières connexes excèdent 100 000 euros.

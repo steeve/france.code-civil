@@ -1,10 +1,8 @@
 Article 762-5
 ----
 Le juge de l'application des peines peut également décider de suspendre
-provisoirement l'exécution de la mesure d'interdiction de séjour. Toutefois, la
-décision est prise, sur la proposition du juge de l'application des peines, par
-le tribunal correctionnel statuant en chambre du conseil lorsque l'exécution de
-la mesure doit être suspendue pour une durée supérieure à trois mois.
+provisoirement l'exécution de la mesure d'interdiction de séjour selon les
+modalités prévues à l'article 712-6.
 
 En cas d'urgence, l'autorisation provisoire de séjourner dans une localité
 interdite peut être donnée par le procureur de la République de cette localité

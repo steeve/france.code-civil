@@ -4,5 +4,4 @@ La personne condamnée à la peine d'interdiction de séjour est tenue d'informe
 le juge de l'application des peines sous le contrôle duquel elle est placée de
 tout changement de résidence.
 
-Les articles 741 et 741-1 sont applicables au condamné à l'interdiction de
-séjour.
+L'article 712-17 est applicable au condamné à l'interdiction de séjour.

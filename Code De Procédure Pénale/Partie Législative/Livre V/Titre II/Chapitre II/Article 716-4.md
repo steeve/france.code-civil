@@ -9,5 +9,6 @@ lieu à condamnation, si cette procédure a été ultérieurement annulée.
 
 Les dispositions de l'alinéa précédent sont également applicables à la privation
 de liberté subie en exécution d'un mandat d'amener ou d'arrêt, à l'incarcération
-subie hors de France sur la demande d'extradition et à l'incarcération subie en
-application des articles 741-2 et 741-3.
+subie hors de France en exécution d'un mandat d'arrêt européen ou sur la demande
+d'extradition et à l'incarcération subie en application du sixième alinéa de
+l'article 712-17 et de l'article 747-3.

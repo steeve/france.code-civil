@@ -15,19 +15,19 @@ des animaux nuisibles ;
 
 2° Ces faits :
 
-- soit ont entraîné la mort, une incapacité permanente ou une incapacité totale
+-soit ont entraîné la mort, une incapacité permanente ou une incapacité totale
 de travail personnel égale ou supérieure à un mois ;
 
-- soit sont prévus et réprimés par les articles 222-22 à 222-30 et 227-25 à
-227-27 du code pénal ;
+-soit sont prévus et réprimés par les articles 222-22 à 222-30,225-4-1 à 225-4-5
+et 227-25 à 227-27 du code pénal ;
 
 3° La personne lésée est de nationalité française. Dans le cas contraire, les
 faits ont été commis sur le territoire national et la personne lésée est :
 
-- soit ressortissante d'un Etat membre de la Communauté économique européenne ;
+-soit ressortissante d'un Etat membre de la Communauté économique européenne ;
 
-- soit, sous réserve des traités et accords internationaux, en séjour régulier
-au jour des faits ou de la demande.
+-soit, sous réserve des traités et accords internationaux, en séjour régulier au
+jour des faits ou de la demande.
 
 La réparation peut être refusée ou son montant réduit à raison de la faute de la
 victime.

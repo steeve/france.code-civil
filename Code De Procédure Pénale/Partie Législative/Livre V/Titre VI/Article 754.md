@@ -7,13 +7,13 @@ Dans le cas où le jugement de condamnation n'a pas été précédemment signifi
 débiteur, le commandement porte en tête un extrait de ce jugement, lequel
 contient le nom des parties et le dispositif.
 
-Sur le vu de l'exploit de signification du commandement et sur la demande de la
-partie poursuivante, le procureur de la République adresse les réquisitions
-nécessaires aux agents de la force publique et autres fonctionnaires chargés de
-l'exécution des mandements de justice. Les réquisitions d'incarcération ne sont
-valables que jusqu'à l'expiration des délais de prescription de la peine. Cette
-prescription acquise, la contrainte judiciaire qui n'aura pas commencé à être
-exécutée ne pourra plus être exécutée.
-
-Lorsque, avant la signature des réquisitions d'incarcération, il s'est écoulé
-une année entière depuis le commandement, il en est fait un nouveau.
+Au vu de l'exploit de signification du commandement, si ce dernier date de moins
+d'un an, et sur le demande du Trésor, le procureur de la République peut
+requérir le juge de l'application des peines de prononcer la contrainte
+judiciaire dans les conditions prévues par l'article 712-6. Ce magistrat peut à
+cette fin délivrer les mandats prévus par l'article 712-17. La décision du juge
+de l'application des peines, qui est exécutoire par provision, peut faire
+l'objet d'un appel dans les conditions prévues par l'article 712-11. Le juge de
+l'application des peines peut décider d'accorder des délais de paiement au
+condamné si la situation personnelle de ce dernier le justifie, en ajournant sa
+décision pour une durée qui ne saurait excéder six mois.

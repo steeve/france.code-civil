@@ -10,4 +10,4 @@ la République.
 
 Cette expertise est communiquée à l'administration pénitentiaire en cas de
 condamnation à une peine privative de liberté, afin de faciliter le suivi
-médical et psychologique en détention prévu par l'article.
+médical et psychologique en détention prévu par l'article 717-1.

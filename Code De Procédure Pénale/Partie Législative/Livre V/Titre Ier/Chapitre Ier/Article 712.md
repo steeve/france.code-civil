@@ -6,3 +6,6 @@ président du tribunal de grande instance le plus proche du lieu de détention.
 
 Ce magistrat peut déléguer l'un des juges du tribunal qui procède à l'audition
 du détenu par procès-verbal.
+
+La juridiction peut également décider de faire application des dispositions de
+l'article 706-71.

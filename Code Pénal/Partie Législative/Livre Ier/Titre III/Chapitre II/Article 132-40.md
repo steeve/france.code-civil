@@ -5,7 +5,8 @@ ci-après, ordonner qu'il sera sursis à son exécution, la personne physique
 condamnée étant placée sous le régime de la mise à l'épreuve.
 
 Après le prononcé de l'emprisonnement assorti du sursis avec mise à l'épreuve,
-le président de la juridiction avertit le condamné, lorsqu'il est présent, des
+le président de la juridiction notifie au condamné, lorsqu'il est présent, les
+obligations à respecter durant le sursis avec mise à l'épreuve et l'avertit des
 conséquences qu'entraînerait une condamnation pour une nouvelle infraction
 commise au cours du délai d'épreuve ou un manquement aux mesures de contrôle et
 aux obligations particulières qui lui sont imposées. Il l'informe de la

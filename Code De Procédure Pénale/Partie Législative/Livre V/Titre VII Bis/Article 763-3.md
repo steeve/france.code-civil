@@ -5,11 +5,10 @@ peut, après audition du condamné et avis du procureur de la République, modif
 ou compléter les mesures prévues aux articles 131-36-2 et 131-36-3 du code
 pénal.
 
-Sa décision est exécutoire par provision. Elle peut être soumise à l'examen du
-tribunal correctionnel par le condamné ou le procureur de la République dans les
-conditions prévues par le troisième alinéa de l'article 739. Le juge de
-l'application des peines ne peut, à peine de nullité, siéger au sein du tribunal
-saisi de l'une de ses décisions.
+Sa décision est exécutoire par provision. Elle peut être attaquée par la voie de
+l'appel par le condamné, le procureur de la République et le procureur général,
+à compter de sa notification selon les modalités prévues au l° de l'article
+712-11.
 
 Le juge de l'application des peines peut également, s'il est établi après une
 expertise médicale ordonnée postérieurement à la décision de condamnation que la

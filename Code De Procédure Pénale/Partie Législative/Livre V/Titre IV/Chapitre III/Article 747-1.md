@@ -10,6 +10,6 @@ obligation particulière ;
 2° Les mesures de contrôle sont celles énumérées à l'article 132-55 du code
 pénal ;
 
-3° Le délai prévu par l'article 742-1 est ramené à dix-huit mois ;
+3° Le délai prévu par l'article 743 est ramené à dix-huit mois ;
 
-4° L'article 743 n'est pas applicable.
+4° L'article 744 n'est pas applicable.

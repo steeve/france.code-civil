@@ -8,9 +8,9 @@ contraventionnelle.
 Ce délai part, pour les condamnés à une amende, du jour où la condamnation est
 devenue irrévocable et, pour les condamnés à une peine privative de liberté, du
 jour de leur libération définitive ou, conformément aux dispositions de
-l'article 733, quatrième alinéa, du jour de leur libération conditionnelle
+l'article 733, troisième alinéa, du jour de leur libération conditionnelle
 lorsque celle-ci n'a pas été suivie de révocation et, pour les condamnés soumis
-à la tutelle pénale, du jour où celle-ci a pris fin..
+à la tutelle pénale (1), du jour où celle-ci a pris fin.
 
 A l'égard des condamnés à une sanction pénale autre que l'emprisonnement ou
 l'amende, prononcée à titre principal, ce délai part de l'expiration de la

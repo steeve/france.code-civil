@@ -1,20 +1,14 @@
 Article 750
 ----
-La durée de la contrainte judiciaire est fixée ainsi qu'il suit :
+Le maximum de la durée de la contrainte judiciaire est fixé ainsi qu'il suit :
 
-1° A cinq jours, lorsque l'amende et les condamnations pécuniaires sont au moins
-égales à 150 euros sans excéder 450 euros ;
+1° A vingt jours lorsque l'amende est au moins égale à 2 000 euros sans excéder
+4 000 euros ;
 
-2° A dix jours, lorsque, supérieures à 450 euros, elles n'excèdent pas 1500
+2° A un mois lorsque l'amende est supérieure à 4 000 euros sans excéder 8 000
 euros ;
 
-3° A vingt jours, lorsque, supérieures à 1500 euros, elles n'excèdent pas 3000
+3° A deux mois lorsque l'amende est supérieure à 8 000 euros sans excéder 15 000
 euros ;
 
-4° A un mois, lorsque, supérieures à 3000 euros, elles n'excèdent pas 6000 euros
-;
-
-5° A deux mois, lorsque, supérieures à 6000 euros, elles n'excèdent pas 12000
-euros ;
-
-6° A quatre mois, lorsqu'elles excèdent 12000 euros.
+4° A trois mois lorsque l'amende est supérieure à 15 000 euros.

@@ -40,4 +40,4 @@ retard dans l'exécution des prescriptions en tenant compte, s'il y a lieu, de l
 survenance des événements qui ne sont pas imputables au prévenu.
 
 L'astreinte est recouvrée par le comptable du Trésor comme une amende pénale ;
-elle ne donne pas lieu à contrainte par corps.
+elle ne donne pas lieu à contrainte judiciaire.

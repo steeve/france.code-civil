@@ -1,10 +1,10 @@
 Article 749
 ----
-Lorsqu'une condamnation à l'amende ou à tout autre paiement au profit du Trésor
-public qui n'a pas le caractère d'une réparation civile est prononcée pour une
-infraction n'étant pas de nature politique et n'emportant pas peine perpétuelle,
-la durée de la contrainte judiciaire est applicable, en cas d'inexécution de la
-condamnation, dans les limites prévues par l'article 750.
-
-Cette durée est déterminée, le cas échéant, en fonction du montant cumulé des
-condamnations qui n'ont pas été exécutées.
+En cas d'inexécution volontaire d'une ou plusieurs condamnations à une peine
+d'amende prononcées en matière criminelle ou en matière correctionnelle pour un
+délit puni d'une peine d'emprisonnement, y compris en cas d'inexécution
+volontaire de condamnations à des amendes fiscales ou douanières, le juge de
+l'application des peines peut ordonner, dans les conditions prévues par le
+présent titre, une contrainte judiciaire consistant en un emprisonnement dont la
+durée est fixée par ce magistrat dans la limite d'un maximum fixé par la loi en
+fonction du montant de l'amende ou de leur montant cumulé.

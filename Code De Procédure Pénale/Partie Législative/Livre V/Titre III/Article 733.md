@@ -3,17 +3,11 @@ Article 733
 En cas de nouvelle condamnation, d'inconduite notoire, d'infraction aux
 conditions ou d'inobservation des mesures énoncées dans la décision de mise en
 liberté conditionnelle, cette décision peut être révoquée, suivant les
-distinctions de l'article 730, soit, après avis du service pénitentiaire
-d'insertion et de probation, par le juge de l'application des peines compétent
-pour sa mise en oeuvre, soit, sur proposition de ce magistrat, par la
-juridiction régionale de la libération conditionnelle. Le juge de l'application
-des peines qui a pris une décision de libération conditionnelle peut rapporter
-celle-ci lorsqu'elle n'a pas encore reçu exécution.
-
-En cas d'urgence, l'arrestation peut être provisoirement ordonnée par le juge de
-l'application des peines du lieu où se trouve le libéré, le ministère public
-entendu et à charge, s'il y a lieu de saisir l'autorité compétente pour révoquer
-la libération conditionnelle.
+distinctions de l'article 730, soit par le juge de l'application des peines,
+soit par le tribunal de l'application des peines, selon les modalités prévues
+par les articles 712-6 ou 712-7. Il en est de même lorsque la décision de
+libération conditionnelle n'a pas encore reçu exécution et que le condamné ne
+remplit plus les conditions légales pour en bénéficier.
 
 Après révocation, le condamné doit subir, selon les dispositions de la décision
 de révocation, tout ou partie de la durée de la peine qu'il lui restait à subir

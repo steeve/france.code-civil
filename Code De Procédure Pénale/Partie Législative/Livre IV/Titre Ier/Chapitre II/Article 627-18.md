@@ -9,4 +9,4 @@ transfert de cette personne sur le sol national, pour la partie de peine restant
 
 Sous réserve des dispositions du statut et de la présente section, l'exécution
 et l'application de la peine sont régies par les dispositions du présent code, à
-l'exception des articles 713-1 à 713-7.
+l'exception des articles 728-2 à 728-8.

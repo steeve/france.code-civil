@@ -1,16 +1,27 @@
 Article 720
 ----
-Les activités de travail et de formation professionnelle sont prises en compte
-pour l'appréciation des gages de réinsertion et de bonne conduite des condamnés.
+Préalablement à toute décision entraînant la cessation temporaire ou définitive
+de l'incarcération d'une personne condamnée à une peine privative de liberté
+avant la date d'échéance de cette peine, le juge de l'application des peines ou
+le tribunal de l'application des peines prend en considération les intérêts de
+la victime ou de la partie civile au regard des conséquences pour celle-ci de
+cette décision.
 
-Au sein des établissements pénitentiaires, toutes dispositions sont prises pour
-assurer une activité professionnelle aux personnes incarcérées qui le
-souhaitent.
+En cas d'application des dispositions des articles 720-1 (premier alinéa),
+721-2, 723-4, 723-10 et 731, lorsqu'existe un risque que le condamné puisse se
+trouver en présence de la victime ou de la partie civile et qu'une telle
+rencontre paraît devoir être évitée, la juridiction interdit au condamné de la
+recevoir, de la rencontrer ou d'entrer en relation avec elle de quelque façon
+que ce soit.
 
-Les relations de travail des personnes incarcérées ne font pas l'objet d'un
-contrat de travail. Il peut être dérogé à cette règle pour les activités
-exercées à l'extérieur des établissements pénitentiaires.
+A cet effet, la juridiction adresse à la victime un avis l'informant de cette
+mesure ; si la victime est partie civile, cet avis est également adressé à son
+avocat. Cet avis précise les conséquences susceptibles de résulter pour le
+condamné du non-respect de cette interdiction.
 
-Les règles relatives à la répartition des produits du travail des détenus sont
-fixées par décret. Le produit du travail des détenus ne peut faire l'objet
-d'aucun prélèvement pour frais d'entretien en établissement pénitentiaire.
+La juridiction peut toutefois ne pas adresser cet avis lorsque la personnalité
+de la victime ou de la partie civile le justifie, lorsque la victime ou la
+partie civile a fait connaître qu'elle ne souhaitait pas être avisée des
+modalités d'exécution de la peine ou dans le cas d'une cessation provisoire de
+l'incarcération du condamné d'une durée ne pouvant excéder la durée maximale
+autorisée pour les permissions de sortie.
