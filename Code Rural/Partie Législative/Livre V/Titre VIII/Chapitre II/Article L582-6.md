@@ -15,3 +15,5 @@ Il est ajouté un 10° à l'article L. 522-3 ainsi rédigé :
 
 Le douzième alinéa de l'article L. 522-3 ne s'applique pas à la
 Nouvelle-Calédonie.
+
+L'article L. 522-6 ne s'applique pas en Nouvelle-Calédonie.

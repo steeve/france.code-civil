@@ -10,8 +10,8 @@ pris pour leur exécution, à pratiquer la médecine et la chirurgie des animaux
 qualité d'assistants de vétérinaires exerçant régulièrement cette médecine et
 cette chirurgie.
 
-Pour l'application du présent article et de l'article L. 241-7, est considéré
-comme assistant celui qui, en dehors de la présence mais sous l'autorité d'un
-vétérinaire, intervient, à titre médical ou chirurgical, sur les animaux
-habituellement soignés par celui-ci, lequel, s'il exerce à titre libéral,
-continue à assurer la gestion de son cabinet.
+Pour l'application du présent article, est considéré comme assistant celui qui,
+en dehors de la présence mais sous l'autorité d'un vétérinaire, intervient, à
+titre médical ou chirurgical, sur les animaux habituellement soignés par
+celui-ci, lequel, s'il exerce à titre libéral, continue à assurer la gestion de
+son cabinet.
