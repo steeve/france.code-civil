@@ -8,16 +8,7 @@ dénommées "missions" au sens du présent chapitre, et dans les seuls cas suiva
 1° Absence temporaire ou suspension du contrat de travail d'un salarié ne
 résultant pas d'un conflit collectif de travail;
 
-2° Survenance d'un surcroît exceptionnel et temporaire d'activité; dans ce cas:
-
-Un accord préalable de l'autorité administrative est nécessaire si un
-licenciement individuel ou collectif fondé sur un motif économique est survenu
-dans l'établissement utilisateur au cours des douze mois précédents et a
-concerné des salariés de même catégorie professionnelle.
-
-Pour l'application de l'alinéa qui précède, il est fait référence aux catégories
-professionnelles telles qu'elles sont déterminées par les dispositions
-règlementaires relatives au bilan social;
+2° Survenance d'un surcroît exceptionnel et temporaire d'activité;
 
 3° Exécution d'une tâche occasionnelle, précisément définie et non durable;
 
