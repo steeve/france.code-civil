@@ -12,4 +12,4 @@ sociale et des familles.
 La participation minimale est définie par le même arrêté.
 
 Les ressources sont appréciées conformément à l'article R. 351-5 et arrondies
-aux 500 F supérieurs.
+aux 100 euros supérieurs.
