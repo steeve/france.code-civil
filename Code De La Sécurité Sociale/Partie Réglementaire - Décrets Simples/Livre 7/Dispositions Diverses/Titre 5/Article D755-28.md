@@ -57,3 +57,9 @@ personne tel que défini à l'article D. 755-24 ;
 
 -de l'élément C prévu au présent article dans des conditions fixées par l'arrêté
 mentionné ci-dessus.
+
+Lorsque le logement occupé est une chambre, le loyer principal effectivement
+payé est pris en compte dans la limite d'un plafond mensuel auquel s'ajoute la
+majoration forfaitaire mensuelle au titre des charges, fixés par arrêté conjoint
+des ministres chargés de la sécurité sociale, du budget, du logement et de
+l'agriculture.
