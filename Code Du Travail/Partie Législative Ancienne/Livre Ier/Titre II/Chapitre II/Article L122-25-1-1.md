@@ -1,15 +1,16 @@
 Article L122-25-1-1
 ----
 La salariée en état de grossesse médicalement constaté ou ayant accouché,
-travaillant dans les conditions fixées à l'article L. 213-2, est affectée à un
-poste de jour sur sa demande pendant la durée de sa grossesse et pendant la
-période du congé légal postnatal prévu à l'article L. 122-26. La salariée en
-état de grossesse médicalement constaté ou ayant accouché, travaillant dans les
-conditions fixées à l'article L. 213-2, est également affectée à un poste de
-jour pendant la durée de sa grossesse lorsque le médecin du travail constate par
-écrit que le poste de nuit est incompatible avec son état. Cette période peut
-être prolongée lorsque le médecin du travail constate par écrit que le poste de
-nuit est incompatible avec son état pour une durée n'excédant pas un mois.
+travaillant dans les conditions fixées aux articles L. 213-2 et L. 213-11, est
+affectée à un poste de jour sur sa demande pendant la durée de sa grossesse et
+pendant la période du congé légal postnatal prévu à l'article L. 122-26. La
+salariée en état de grossesse médicalement constaté ou ayant accouché,
+travaillant dans les conditions fixées aux articles L. 213-2 et L. 213-11, est
+également affectée à un poste de jour pendant la durée de sa grossesse lorsque
+le médecin du travail constate par écrit que le poste de nuit est incompatible
+avec son état. Cette période peut être prolongée lorsque le médecin du travail
+constate par écrit que le poste de nuit est incompatible avec son état pour une
+durée n'excédant pas un mois.
 
 Ce changement d'affectation ne doit entraîner aucune diminution de la
 rémunération. L'affectation dans un autre établissement est subordonnée à
