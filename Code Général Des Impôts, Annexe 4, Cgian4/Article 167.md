@@ -19,11 +19,11 @@ L'entreprise minière et chimique;
 Les régies municipales intercommunales et départementales exploitant des
 services à caractère industriel et commercial;
 
+Le service des alcools.
+
 2. Sont notamment soumis au régime prévu à l'article 165-2 :
 
 Les manufactures nationales;
-
-Le service des alcools;
 
 L'administration des monnaies et médailles;
 
