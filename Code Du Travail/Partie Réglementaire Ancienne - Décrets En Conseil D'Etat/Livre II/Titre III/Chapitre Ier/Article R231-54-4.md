@@ -1,18 +1,11 @@
 Article R231-54-4
 ----
-Dans le cas de préparations visées à l'article R. 231-51 (3ème alinéa
-ci-dessus), les éléments suivants doivent être fournis :
+Des appareils de protection individuels adaptés aux risques encourus sont mis à
+la disposition des travailleurs susceptibles d'être exposés à l'action des
+substances ou des préparations chimiques dangereuses.
 
-- nom, prénoms, adresse et qualité du signataire de l'envoi ;
-
-- désignation commerciale de la préparation ;
-
-- composition qualitative de la préparation ;
-
-- teneurs dans la préparation des substances visées à l'article R. 231-51 (3ème
-alinéa) ;
-
-- état physique et conditionnement commercial de la préparation ;
-
-- usages envisagés dans les établissements mentionnés à l'article L. 231-1 et
-précautions à prendre dans l'utilisation.
+Le personnel d'intervention ou de secours dont la présence est indispensable en
+cas de dispersion accidentelle dans les locaux de travail de substances ou de
+préparations chimiques dangereuses doit être équipé de moyens de protection
+corporelle adaptés aux risques encourus et, s'il y a lieu, d'appareils de
+protection respiratoire isolants.
