@@ -1,12 +1,29 @@
 Article L4424-31
 ----
-- Le produit de la taxe due par les entreprises de transport public aérien et
-maritime prévue à l'article 1599 vicies du code général des impôts fait l'objet
-d'un chapitre distinct intitulé :
+La collectivité territoriale de Corse détermine et met en oeuvre, dans le cadre
+du plan d'aménagement et de développement durable, les orientations du
+développement touristique de l'île.
 
-" Fonds d'intervention pour l'aménagement de la Corse " au sein du budget de la
-collectivité, et géré par un comité présidé par le président du conseil
-exécutif.
+Elle définit, met en oeuvre et évalue la politique du tourisme de la Corse et
+les actions de promotion qu'elle entend mener. Elle assure le recueil, le
+traitement et la diffusion des données relatives à l'activité touristique en
+Corse.
 
-Le représentant de l'Etat en Corse et les parlementaires élus dans les
-départements de la Corse sont membres de droit de ce comité.
+Elle coordonne les initiatives publiques et privées dans les domaines du
+développement, de la promotion et de l'information touristiques en Corse.
+
+Par dérogation à la loi n° 87-10 du 3 janvier 1987 relative à l'organisation
+régionale du tourisme, une institution spécialisée est chargée, dans le cadre
+des orientations définies par la collectivité territoriale de Corse, de la
+coordination de l'ensemble des actions de développement du tourisme en Corse.
+Cette institution assure notamment la promotion touristique de l'île et met en
+oeuvre la politique d'aide à la modernisation et au développement des structures
+d'accueil et d'hébergement.
+
+Cette institution spécialisée, sur laquelle la collectivité territoriale de
+Corse exerce un pouvoir de tutelle, est présidée par un conseiller exécutif
+désigné par le président du conseil exécutif. Son conseil d'administration est
+composé à titre majoritaire de représentants élus de l'Assemblée de Corse.
+
+L'institution spécialisée cesse d'exister lorsque la collectivité territoriale
+de Corse reprend l'exercice de ses missions.

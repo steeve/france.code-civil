@@ -10,13 +10,14 @@ l'initiative des inscriptions qu'elle juge utiles et donne son avis sur les
 propositions d'inscription qui lui sont soumises, après en avoir informé le
 conseil municipal de la commune intéressée et avoir obtenu son avis.
 
-L'inscription sur la liste est prononcée par arrêté du ministre chargé des
-sites. Un décret en Conseil d'Etat fixe la procédure selon laquelle cette
-inscription est notifiée aux propriétaires ou fait l'objet d'une publicité. La
-publicité ne peut être substituée à la notification que dans les cas où celle-ci
-est rendue impossible du fait du nombre élevé de propriétaires d'un même site ou
-monument naturel, ou de l'impossibilité pour l'administration de connaître
-l'identité ou le domicile du propriétaire.
+L'inscription sur la liste est prononcée par arrêté du ministre chargé des sites
+et, en Corse, par délibération de l'Assemblée de Corse après avis du
+représentant de l'Etat. Un décret en Conseil d'Etat fixe la procédure selon
+laquelle cette inscription est notifiée aux propriétaires ou fait l'objet d'une
+publicité. La publicité ne peut être substituée à la notification que dans les
+cas où celle-ci est rendue impossible du fait du nombre élevé de propriétaires
+d'un même site ou monument naturel, ou de l'impossibilité pour l'administration
+de connaître l'identité ou le domicile du propriétaire.
 
 L'inscription entraîne, sur les terrains compris dans les limites fixées par
 l'arrêté, l'obligation pour les intéressés de ne pas procéder à des travaux

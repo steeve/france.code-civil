@@ -1,16 +1,19 @@
 Article L4424-33
 ----
-- Dans le respect des dispositions du plan de la nation, la collectivité
-territoriale de Corse :
+La collectivité territoriale de Corse détermine, dans le cadre du plan
+d'aménagement et de développement durable, les grandes orientations du
+développement agricole, rural et forestier, de la pêche et de l'aquaculture de
+l'île. Une convention passée entre l'Etat et la collectivité territoriale de
+Corse prévoit les conditions de mise en oeuvre par la collectivité territoriale
+de Corse de ses orientations dans le domaine agricole.A cette fin, elle dispose
+de l'office du développement agricole et rural de Corse et de l'office
+d'équipement hydraulique de Corse, établissements publics régis par les articles
+L. 112-11 à L. 112-15 du code rural et sur lesquels la collectivité territoriale
+exerce son pouvoir de tutelle.
 
-1° Elabore et met en oeuvre le programme de prospection, d'exploitation et de
-valorisation des ressources énergétiques locales de Corse, qui porte sur la
-géothermie, l'énergie solaire, l'énergie éolienne et de la mer, l'énergie tirée
-de la biomasse, l'énergie tirée de la valorisation et de la récupération des
-déchets, des réseaux de chaleur, l'énergie hydraulique des ouvrages dont la
-puissance est inférieure à 8 000 kilowatts et qui comporte également des mesures
-destinées à favoriser les économies d'énergie ;
+Une convention passée entre l'Etat et la collectivité territoriale de Corse
+prévoit les conditions de mise en oeuvre en Corse de la politique forestière.
 
-2° Participe à l'élaboration et à la mise en oeuvre d'un plan tendant à couvrir
-les besoins et à diversifier les ressources énergétiques de l'île en
-concertation avec les établissements publics nationaux.
+L'office du développement agricole et rural de Corse et l'office d'équipement
+hydraulique de Corse cessent d'exister lorsque la collectivité territoriale de
+Corse reprend l'exercice de leurs missions.

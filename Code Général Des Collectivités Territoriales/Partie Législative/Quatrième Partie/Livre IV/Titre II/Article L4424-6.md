@@ -1,10 +1,14 @@
 Article L4424-6
 ----
-- Chaque année, le président du conseil exécutif rend compte à l'Assemblée, par
-un rapport spécial, de la situation de la collectivité territoriale, de
-l'activité et du financement de ses différents services et des organismes qui en
-dépendent ainsi que de l'état d'exécution du plan. Le rapport précise également
-l'état d'exécution des délibérations de l'Assemblée et la situation financière
-de la collectivité territoriale. Le rapport est soumis pour avis au conseil
-économique, social et culturel de Corse, préalablement à son examen par
-l'Assemblée. Ce rapport donne lieu à un débat.
+La collectivité territoriale de Corse, après consultation du conseil économique,
+social et culturel de Corse, conclut avec les sociétés publiques du secteur
+audiovisuel qui ont des établissements en Corse des conventions particulières en
+vue de promouvoir la réalisation de programmes de télévision et de
+radiodiffusion ayant pour objet le développement de la langue et de la culture
+corses et destinés à être diffusés sur le territoire de la Corse.
+
+Elle pourra également, avec l'aide de l'Etat, favoriser des initiatives et
+promouvoir des actions dans les domaines de la culture et de la communication
+avec toutes personnes publiques ou privées ressortissantes des Etats membres de
+l'Union européenne et de son environnement méditerranéen dans le cadre de la
+coopération décentralisée.

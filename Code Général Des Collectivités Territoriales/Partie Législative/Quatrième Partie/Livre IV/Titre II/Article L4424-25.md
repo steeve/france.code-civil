@@ -1,12 +1,6 @@
 Article L4424-25
 ----
-- La collectivité territoriale de Corse établit, avec le concours de l'office
-des transports, un schéma des transports interdépartementaux après consultation
-du conseil économique, social et culturel de Corse, des départements et des
-organismes consulaires.
-
-Ce schéma s'impose aux plans départementaux des transports.
-
-Par convention avec les départements, la collectivité territoriale de Corse
-charge ces derniers de l'organisation des liaisons interdépartementales prévues
-au schéma des transports.
+Les biens de l'Etat mis à la disposition de l'office d'équipement hydraulique de
+Corse mentionné à l'article L. 112-12 du code rural sont transférés dans le
+patrimoine de la collectivité territoriale de Corse qui en assure l'aménagement,
+l'entretien, la gestion et, le cas échéant, l'extension.

@@ -1,9 +1,7 @@
 Article L4422-15
 ----
-- Le conseil exécutif est composé d'un président assisté de six conseillers
-exécutifs.
+L'assemblée règle par ses délibérations les affaires de la Corse. Elle contrôle
+le conseil exécutif.
 
-Pour l'application de l'ensemble des dispositions instituant les
-incompatibilités entre certains mandats électoraux ou fonctions électives, les
-fonctions de président du conseil exécutif de Corse sont assimilées à celles de
-président d'un conseil régional.
+L'assemblée vote le budget, arrête le compte administratif, adopte le plan
+d'aménagement et de développement durable de la Corse.

@@ -1,15 +1,10 @@
 Article L4422-13
 ----
-- Lorsque le fonctionnement normal de l'Assemblée se révèle impossible, le
-Gouvernement peut prononcer sa dissolution par décret motivé pris en conseil des
-ministres. Il en informe le Parlement dans le délai le plus bref possible.
+L'Assemblée établit son règlement intérieur dans le mois qui suit son élection.
+Ce règlement fixe les modalités de son fonctionnement qui ne sont pas prévues au
+présent chapitre.
 
-Il est procédé à une nouvelle élection de l'Assemblée dans un délai de deux
-mois. L'Assemblée se réunit de plein droit le premier jeudi qui suit le scrutin.
-Les pouvoirs de l'Assemblée élue après une dissolution prennent fin à la date à
-laquelle devaient expirer les pouvoirs de l'Assemblée dissoute.
+Le règlement intérieur peut être déféré au tribunal administratif.
 
-En cas de dissolution de l'Assemblée, le président du conseil exécutif expédie
-les affaires courantes de la collectivité territoriale. Ses décisions ne sont
-exécutoires qu'avec l'accord du représentant de l'Etat dans la collectivité
-territoriale de Corse.
+Par dérogation aux dispositions de l'article L. 4422-7, le règlement intérieur
+est adopté par la majorité absolue des membres composant l'Assemblée.

@@ -1,9 +1,13 @@
 Article L4422-26
 ----
-- Sur leur demande, le président de l'Assemblée et le président du conseil
-exécutif reçoivent du représentant de l'Etat en Corse les informations
-nécessaires à l'exercice de leurs attributions.
+Le président du conseil exécutif de Corse peut, par arrêté délibéré au sein du
+conseil exécutif, prendre toute mesure :
 
-Sur sa demande, le représentant de l'Etat dans la collectivité territoriale de
-Corse reçoit du président de l'Assemblée et du président du conseil exécutif les
-informations nécessaires à l'exercice de ses attributions.
+1° Tendant à préciser les modalités d'application des délibérations de
+l'Assemblée ;
+
+2° Fixant les règles d'organisation et de fonctionnement des services de la
+collectivité territoriale de Corse ;
+
+3° Modifiant ou rapportant les actes des offices et de l'agence du tourisme de
+Corse dans les conditions prévues à l'article L. 4424-41.

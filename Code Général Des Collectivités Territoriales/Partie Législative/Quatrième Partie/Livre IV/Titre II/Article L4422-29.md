@@ -1,4 +1,8 @@
 Article L4422-29
 ----
-- Le représentant de l'Etat dans la collectivité territoriale de Corse exerce
-les contrôles prévus aux articles L. 4423-1 et L. 4425-7.
+Le président du conseil exécutif représente la collectivité territoriale de
+Corse en justice et dans tous les actes de la vie civile. Il intente les actions
+au nom de la collectivité territoriale de Corse en vertu de la décision de
+l'Assemblée et il peut défendre à toute action intentée contre la collectivité
+territoriale. Il peut faire tous actes conservatoires et interruptifs de
+déchéance ou de prescription.

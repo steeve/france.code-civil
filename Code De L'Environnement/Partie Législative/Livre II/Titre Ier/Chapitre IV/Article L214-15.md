@@ -15,3 +15,8 @@ raccordés au réseau est suffisamment faible, ou si la commune connaît
 habituellement de fortes variations de sa population, autoriser la mise en
 oeuvre d'une tarification ne comportant pas de terme directement proportionnel
 au volume total consommé.
+
+En Corse, la mise en oeuvre du régime de tarification prévu à l'alinéa précédent
+est autorisée, selon les mêmes conditions, par l'Assemblée de Corse, à la
+demande du maire, du président de l'établissement public de coopération
+intercommunale ou du président du syndicat mixte compétent.

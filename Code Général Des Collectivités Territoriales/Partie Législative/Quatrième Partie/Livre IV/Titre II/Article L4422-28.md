@@ -1,6 +1,6 @@
 Article L4422-28
 ----
-- Chaque année, le représentant de l'Etat dans la collectivité territoriale de
-Corse informe l'Assemblée, par un rapport spécial, de l'activité des services de
-l'Etat dans la collectivité territoriale de Corse. Ce rapport donne lieu à un
-débat en présence du représentant de l'Etat.
+Le président du conseil exécutif de Corse peut faire au Premier ministre toute
+suggestion ou remarque sur l'organisation et le fonctionnement des services
+publics de l'Etat dans la collectivité territoriale de Corse. Il en informe le
+représentant de l'Etat dans la collectivité territoriale de Corse.

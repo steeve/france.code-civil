@@ -1,17 +1,28 @@
 Article L4422-25
 ----
-- Le représentant de l'Etat dans la collectivité territoriale de Corse est nommé
-par décret en conseil des ministres. Il représente chacun des ministres et
-dirige les services de l'Etat dans les conditions fixées par l'article 21-1 de
-la loi n° 72-619 du 5 juillet 1972 portant création et organisation des régions
-et pour l'élaboration du plan de développement prévu par l'article L. 4424-19.
+Le président du conseil exécutif prépare et exécute les délibérations de
+l'Assemblée.
 
-Le représentant de l'Etat dans la collectivité territoriale de Corse a la charge
-des intérêts nationaux, du respect des lois et du contrôle administratif. S'il
-n'en est pas disposé autrement par le présent titre, il exerce les compétences
-dévolues au représentant de l'Etat dans les régions en tant que délégué du
-Gouvernement.
+Il est l'ordonnateur des dépenses et prescrit l'exécution des recettes de la
+collectivité territoriale de Corse, sous réserve des dispositions particulières
+du code général des impôts relatives au recouvrement des recettes fiscales des
+collectivités locales.
 
-Dans les conditions prévues par les articles L. 4423-1 et L. 4425-7, il veille à
-l'exercice régulier de leurs compétences par les autorités de la collectivité
-territoriale de Corse.
+Il est le chef des services de la collectivité territoriale de Corse. Il gère
+les personnels de la collectivité dans les conditions prévues par l'article 16-3
+de la loi n° 72-619 du 5 juillet 1972 portant création et organisation des
+régions et la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires
+relatives à la fonction publique territoriale. Il peut, sous sa surveillance et
+sa responsabilité, donner une délégation de signature aux responsables desdits
+services.
+
+Il gère le patrimoine de la collectivité territoriale de Corse. A ce titre, il
+exerce les pouvoirs de police afférents à cette gestion.
+
+Il délègue par arrêté, sous sa surveillance et sa responsabilité, l'exercice
+d'une partie de ses attributions aux conseillers exécutifs. Ces délégations
+subsistent tant qu'elles n'ont pas été rapportées.
+
+En cas d'empêchement pour quelque cause que ce soit, le président du conseil
+exécutif de Corse est provisoirement remplacé par un conseiller exécutif dans
+l'ordre de la liste élue.

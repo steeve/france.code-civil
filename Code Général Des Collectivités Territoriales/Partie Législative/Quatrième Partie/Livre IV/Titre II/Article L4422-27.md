@@ -1,11 +1,10 @@
 Article L4422-27
 ----
-- Le représentant de l'Etat dans la collectivité territoriale de Corse est seul
-habilité à s'exprimer au nom de l'Etat devant les organes de la collectivité
-territoriale de Corse.
-
-Par accord du président de l'Assemblée et du représentant de l'Etat dans la
-collectivité territoriale de Corse, celui-ci est entendu par l'Assemblée.
-
-En outre, sur demande du Premier ministre, le représentant de l'Etat dans la
-collectivité territoriale de Corse est entendu par l'Assemblée.
+Chaque année, le président du conseil exécutif rend compte à l'Assemblée, par un
+rapport spécial, de la situation de la collectivité territoriale, de l'activité
+et du financement de ses différents services et des organismes qui en dépendent
+ainsi que de l'état d'exécution du plan. Le rapport précise également l'état
+d'exécution des délibérations de l'Assemblée et la situation financière de la
+collectivité territoriale. Le rapport est soumis pour avis au conseil
+économique, social et culturel de Corse, préalablement à son examen par
+l'Assemblée. Ce rapport donne lieu à un débat.

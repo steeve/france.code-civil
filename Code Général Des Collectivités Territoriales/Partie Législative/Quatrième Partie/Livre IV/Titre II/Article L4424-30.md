@@ -1,9 +1,10 @@
 Article L4424-30
 ----
-- La collectivité territoriale de Corse assure la construction, l'aménagement,
-l'entretien et la gestion de la voirie classée en route nationale. Par
-convention, la collectivité territoriale peut en déléguer la mise en oeuvre aux
-départements.
+Le comité de coordination pour le développement industriel de la Corse est
+composé par tiers de représentants de l'Etat, de représentants de l'Assemblée de
+Corse à la proportionnelle des groupes et de représentants des sociétés
+nationales. Il se réunit à la demande du Premier ministre ou de l'Assemblée de
+Corse.
 
-La voirie classée en route nationale est transférée dans le patrimoine de la
-collectivité territoriale.
+Il anime et coordonne les actions des sociétés nationales en Corse afin de
+réaliser des projets industriels d'intérêt régional.

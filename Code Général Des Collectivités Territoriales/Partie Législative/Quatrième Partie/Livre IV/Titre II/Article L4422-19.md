@@ -1,5 +1,9 @@
 Article L4422-19
 ----
-- Le président et les conseillers exécutifs ont accès aux séances de l'Assemblée
-de Corse. Ils sont entendus, sur leur demande, sur les questions inscrites à
-l'ordre du jour.
+Le conseil exécutif est composé d'un président assisté de huit conseillers
+exécutifs.
+
+Pour l'application de l'ensemble des dispositions instituant les
+incompatibilités entre certains mandats électoraux ou fonctions électives, les
+fonctions de président du conseil exécutif de Corse sont assimilées à celles de
+président d'un conseil régional.

@@ -1,19 +1,16 @@
 Article L4424-28
 ----
-- Les liaisons sont assurées dans le cadre d'un service public adapté à chaque
-mode de transport afin d'offrir des dessertes dans des conditions d'accès, de
-qualité, de régularité et de prix destinées à atténuer les contraintes de
-l'insularité.
+La collectivité territoriale de Corse peut participer, par versement de
+dotations, à la constitution d'un fonds d'investissement auprès d'une société de
+capital-investissement ayant pour objet d'apporter des fonds propres à des
+entreprises.
 
-La collectivité territoriale de Corse concède ces liaisons à des compagnies
-maritimes dont la flotte est immatriculée en France et à des compagnies
-aériennes titulaires d'une autorisation ou d'un agrément délivré par le ministre
-chargé des transports. Ces contrats assurent l'intégralité du transport des
-passagers et du fret toute l'année dans le cadre du service public.
+Le montant total des dotations versées par la collectivité territoriale ne peut
+pas excéder 50 % du montant total du fonds.
 
-La collectivité territoriale de Corse est substituée à l'Etat et à la région de
-Corse dans leurs droits et obligations pour la continuation des contrats en
-cours vis-à-vis des compagnies titulaires de concessions à compter de la date du
-2 avril 1992, date de la première réunion de l'Assemblée de Corse ayant suivi
-son renouvellement résultant de la loi n° 91-428 du 13 mai 1991 portant statut
-de la collectivité territoriale de Corse.
+La collectivité territoriale de Corse passe avec la société gestionnaire du
+fonds une convention déterminant notamment, l'objet, le montant et le
+fonctionnement du fonds d'investissement, les modalités d'information de la
+collectivité territoriale par la société ainsi que les conditions de restitution
+des dotations versées en cas de modification ou de cessation d'activité de ce
+fonds.
