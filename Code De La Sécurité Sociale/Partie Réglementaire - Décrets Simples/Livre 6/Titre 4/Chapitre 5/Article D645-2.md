@@ -4,10 +4,14 @@ Le montant de la cotisation annuelle des bénéficiaires des régimes de
 prestations complémentaires de vieillesse institués par la présente section est
 fixé ainsi qu'il suit :
 
-1°) pour les médecins, à trente fois la valeur au 1er janvier de l'année en
-cause du tarif de la consultation du médecin omnipraticien tel qu'il résulte de
-la convention nationale des médecins et de ses avenants dans les conditions
-prévues aux articles L. 162-5 et L. 162-6 ;
+1°) Pour les médecins à quarante-cinq fois la valeur au 1er janvier de l'année
+en cause du tarif de la consultation pratiqué respectivement par le médecin
+généraliste et le médecin spécialiste conventionnés. Toutefois, pour les
+médecins visés à l'article L. 645-2 dernier alinéa, ces tarifs sont
+respectivement majorés d'un montant fixé par arrêté du ministre chargé de la
+sécurité sociale et calculé en fonction du dépassement respectif moyen constaté
+au niveau national au titre de l'avant-dernière année pour le consultation de
+référence ;
 
 2°) pour les chirurgiens-dentistes, à treize fois la valeur, au 1er janvier de
 l'année en cause, du tarif conventionnel de la lettre-clé C fixé dans les

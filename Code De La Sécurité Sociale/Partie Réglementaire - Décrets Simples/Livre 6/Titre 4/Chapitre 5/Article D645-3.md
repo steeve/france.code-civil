@@ -1,8 +1,9 @@
 Article D645-3
 ----
 Le montant de la cotisation annuelle des régimes d'assurance maladie cités au 2°
-de l'article L. 645-2 est fixé au double de la cotisation des bénéficiaires pour
-chacune des catégories professionnelles intéressées.
+de l'article L. 645-2 est égal à la cotisation exigible des bénéficiaires
+pratiquant les tarifs conventionnels pour les médecins et au double de celle-ci
+pour chacune des autres catégories professionnelles concernées.
 
 Les modalités de répartition de cette cotisation entre les régimes susmentionnés
 sont fixées par un arrêté du ministre chargé de la sécurité sociale, du ministre
