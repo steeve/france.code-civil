@@ -21,8 +21,10 @@ de la commission.
 
 3. Les organisations ou organismes représentatifs adressent la liste des
 représentants qu'ils désignent au secrétariat de la commission le 1er décembre
-au plus tard, pour l'année suivante. Les représentants des contribuables sont
-désignés pour une année. Leur mandat est renouvelable par tacite reconduction.
+au plus tard, pour l'année suivante.
+
+Les représentants des contribuables sont désignés pour une année. Leur mandat
+est renouvelable par tacite reconduction.
 
 Lorsqu'il existe dans un même département plusieurs organisations ou organismes
 ayant vocation à désigner des membres, et à défaut d'accord entre eux, les
@@ -71,15 +73,19 @@ est appelé à siéger.
 III. 1. Sous réserve des dispositions ci-après, il est désigné deux suppléants
 pour un titulaire.
 
-2. Pour la ville de Paris, si le président de la commission le juge utile, le
-nombre de suppléants peut être augmenté jusqu'à :
+2. Si le président de la commission le juge utile, le nombre de suppléants peut
+être augmenté, pour la ville de Paris, jusqu'à :
 
-- soixante, en ce qui concerne les représentants des contribuables désignés par
-la chambre de commerce et d'industrie ; - quinze, en ce qui concerne les
-représentants désignés par la chambre des métiers et par les organisations ou
-organismes professionnels regroupant les titulaires de revenus non commerciaux.
-3. Pour les départements de plus d'un million d'habitants, la majoration visée
-au deuxième alinéa du 2 est fixée à trente.
+soixante-quinze, en ce qui concerne les représentants des contribuables désignés
+par la chambre de commerce et d'industrie ;
+
+vingt-cinq, en ce qui concerne les représentants des contribuables désignés par
+la chambre des métiers et par les organisations ou organismes professionnels
+regroupant les titulaires de revenus non commerciaux.
+
+3. Dans les mêmes conditions qu'au 2, le nombre de suppléants peut être porté
+respectivement à trente et à quinze, pour les départements de plus de 600 000
+habitants.
 
 IV. Lorsqu'en matière de taxes sur le chiffre d'affaires la commission est
 saisie d'un litige intéressant un contribuable qui relève de l'administration
