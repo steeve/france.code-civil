@@ -1,12 +1,12 @@
 Article L161-1-1
 ----
 Par dérogation aux dispositions en vigueur, l'exercice de leur nouvelle activité
-par les personnes mentionnées au 2° de l'article L. 351-24 du code du travail
-ouvre droit, pour une période et dans la limite d'un plafond de revenus ou de
-rémunérations fixés par décret, à l'exonération des cotisations dues aux régimes
-d'assurance maladie, maternité, veuvage, vieillesse, invalidité et décès et
-d'allocations familiales auxquels elles sont affiliées en raison de l'exercice
-de cette activité et aux prestations servies par ces régimes.
+par les personnes mentionnées au premier alinéa de l'article L. 351-24 du code
+du travail ouvre droit, pour une période et dans la limite d'un plafond de
+revenus ou de rémunérations fixés par décret, à l'exonération des cotisations
+dues aux régimes d'assurance maladie, maternité, veuvage, vieillesse, invalidité
+et décès et d'allocations familiales auxquels elles sont affiliées en raison de
+l'exercice de cette activité et aux prestations servies par ces régimes.
 
 L'exonération prévue à l'alinéa précédent porte :
 

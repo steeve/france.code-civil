@@ -9,3 +9,9 @@ des écoles, le Centre national de la fonction publique territoriale et les
 centres de gestion des personnels de la fonction publique territoriale au
 prorata de leurs dépenses réelles d'investissement, telles qu'elles sont
 définies par décret.
+
+" Les établissements de coopération intercommunale bénéficient, en lieu et place
+des communes membres propriétaires, des attributions du Fonds de compensation
+pour la taxe sur la valeur ajoutée au titre des dépenses d'investissement
+exposées, à compter du 1er janvier 1997, dans l'exercice de leurs compétences
+relatives à la voirie. "

@@ -14,40 +14,46 @@ les mêmes sanctions que la taxe annuelle sur les conventions d'assurance, prév
 à l'article 991 du code général des impôts. Le taux de la contribution
 additionnelle est fixé à :
 
-a) 10 p. 100 en ce qui concerne les conventions d'assurance contre l'incendie ;
+a) 10 % en ce qui concerne les conventions d'assurance contre l'incendie ;
 
-b) 5 p. 100 en ce qui concerne les autres conventions d'assurance.
+b) 5 % en ce qui concerne les autres conventions d'assurance.
 
 Pour une période de cinq ans à compter du 1er janvier 1992, le taux prévu au a
-ci-dessus est porté à 15 p. 100 et celui prévu au b ci-dessus est porté à 7 p.
-100.
+ci-dessus est porté à 15 % et celui prévu au b ci-dessus est porté à 7 %.
+
+Pour une période d'un an à compter du 1er janvier 1997, le taux prévu au a
+ci-dessus est maintenu à 15 % et celui prévu au b ci-dessus est maintenu à 7 %,
+à l'exception des conventions couvrant les dommages aux cultures et la mortalité
+du bétail dont le taux est fixé à 5 %.
 
 2° Une contribution additionnelle particulière applicable aux exploitations
 conchylicoles fixée ainsi qu'il suit :
 
-a) Dans les circonscriptions situées entre Dunkerque et Saint-Nazaire, 100 p.
-100 des primes ou cotisations afférentes aux conventions d'assurance contre
-l'incendie couvrant, à titre exclusif ou principal, les bâtiments
-d'exploitation, les ateliers de triage et d'expédition, le matériel et les
-stocks ;
+a) Dans les circonscriptions situées entre Dunkerque et Saint-Nazaire, 100 % des
+primes ou cotisations afférentes aux conventions d'assurance contre l'incendie
+couvrant, à titre exclusif ou principal, les bâtiments d'exploitation, les
+ateliers de triage et d'expédition, le matériel et les stocks ;
 
 b) Dans les autres circonscriptions :
 
-- 30 p. 100 des primes ou cotisations afférentes aux conventions d'assurance
-contre l'incendie couvrant les éléments mentionnés au a ci-dessus ;
+- 30 % des primes ou cotisations afférentes aux conventions d'assurance contre
+l'incendie couvrant les éléments mentionnés au a ci-dessus ;
 
-- 30 p. 100 des primes ou cotisations afférentes aux conventions d'assurance
-couvrant les risques nautiques desdites exploitations.
+- 30 % des primes ou cotisations afférentes aux conventions d'assurance couvrant
+les risques nautiques desdites exploitations.
 
 3° Une subvention inscrite au budget de l'Etat et dont le montant sera au moins
 égal au produit des contributions mentionnées aux 1° et 2° ci-dessus.
 
 A titre exceptionnel, à compter du 1er juillet 1987 et pour une durée de dix
 ans, il est établi au profit du fonds de garantie des calamités agricoles une
-contribution additionnelle complémentaire de 7 p. 100 sur toutes les primes ou
+contribution additionnelle complémentaire de 7 % sur toutes les primes ou
 cotisations afférentes aux conventions d'assurance couvrant les risques de
 responsabilité civile et de dommages relatifs aux véhicules utilitaires affectés
 aux exploitations agricoles.
+
+La contribution additionnelle complémentaire prévue par le précédent alinéa est
+prorogée au taux de 7 % jusqu'au 31 décembre 1997.
 
 Les modalités d'application en sont fixées par arrêté conjoint du ministre de
 l'agriculture et du ministre chargé du budget.
@@ -58,9 +64,8 @@ assurances ci-après reproduit :
 
 "Art. L. 431-11 : La gestion comptable et financière du fonds national de
 garantie des calamités agricoles mentionné à l'article L. 442-1 est assurée par
-la Caisse centrale de réassurance dans un compte distinct de ceux qui retracent
+la caisse centrale de réassurance dans un compte distinct de ceux qui retracent
 les autres opérations pratiquées par cet établissement.
 
-"Les frais exposés par la Caisse centrale de réassurance pour la gestion du
-fonds lui sont remboursés dans des conditions fixées par décret en Conseil
-d'Etat".
+Les frais exposés par la caisse centrale de réassurance pour la gestion du fonds
+lui sont remboursés dans des conditions fixées par décret en Conseil d'Etat".
