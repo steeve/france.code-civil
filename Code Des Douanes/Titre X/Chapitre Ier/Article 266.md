@@ -12,8 +12,3 @@ décision de rejet du projet de loi par le Parlement.
 
 3. Une disposition spéciale de ce décret doit en ordonner l'exécution immédiate
 conformément aux dispositions du décret du 5 novembre 1870.
-
-4. Le tarif de la taxe intérieure de consommation sur les produits pétroliers et
-assimilés visés au tableau B annexé à l'article 265 ci-dessus est relevé chaque
-année au cours de la première semaine de janvier, dans la même proportion que la
-limite inférieure de la septième tranche du barème de l'impôt sur le revenu.
