@@ -28,7 +28,9 @@ volume ;
 
 8. Les poteaux, pylônes, candélabres ou éoliennes d'une hauteur inférieure ou
 égale à 12 mètres au-dessus du sol, ainsi que les antennes d'émission ou de
-réception de signaux radio-électriques dont aucune dimension n'excède 4 mètres ;
+réception de signaux radio-électriques dont aucune dimension n'excède 4 mètres
+et, dans le cas où l'antenne comporte un réflecteur, lorsque aucune dimension de
+ce dernier n'excède un mètre;
 
 9. Sans préjudice du régime propre aux clôtures, les murs d'une hauteur
 inférieure à 2 mètres ;
