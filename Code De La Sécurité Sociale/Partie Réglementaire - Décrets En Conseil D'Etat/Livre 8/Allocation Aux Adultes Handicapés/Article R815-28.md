@@ -13,3 +13,9 @@ personnes que ses descendants au cours des dix années précédant la demande es
 censé percevoir du donataire une rente viagère, calculée sur la valeur de ces
 biens à la date de la demande, admise par l'enregistrement, selon le tarif de la
 Caisse nationale de prévoyance en vigueur à cette date.
+
+Le requérant qui a fait donation de biens mobiliers ou immobiliers à d'autres
+personnes que ses descendants au cours des dix années précédant la demande est
+censé percevoir du donataire une rente viagère, calculée sur la valeur de ces
+biens à la date de la demande, admise par l'enregistrement, selon le tarif de la
+Caisse nationale de prévoyance en vigueur à cette date.

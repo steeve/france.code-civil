@@ -47,6 +47,14 @@ des fonds communs de créances et de l'article 9 du décret n° 89-158 du 9 mars
 1989 portant application des articles 26 et 34 à 42 de la loi n° 88-1201 du 23
 décembre 1988 et relatif aux fonds communs de créances.
 
+10° Les contrats souscrits par le Centre national de transfusion sanguine pour
+le compte des centres de transfusion sanguine auprès du groupement d'assureurs
+des risques de transfusion sanguine pour satisfaire aux conditions de
+l'assurance obligatoire des dommages causés aux donneurs et aux receveurs de
+sang humain et de produits sanguins d'origine humaine (2).
+
 (1) Ces dispositions s'appliquent à compter du 1er juillet 1990, sauf pour les
 opérations d'assurance sur la vie réalisées dans le cadre d'un plan d'épargne
 populaire pour lesquels la date d'application est fixée au 1er janvier 1990.
+
+(2) Cette exonération s'applique à compter du 1er janvier 1991.

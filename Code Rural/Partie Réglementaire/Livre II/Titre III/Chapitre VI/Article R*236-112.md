@@ -12,14 +12,18 @@ interdit pour retirer de l'eau le poisson déjà ferré ;
 3° De se servir d'armes à feu, de fagot, de lacets ou de collets, de moyens
 optiques ou acoustiques servant à attirer les poissons ;
 
-4° D'utiliser des engins de plongée subaquatique ainsi que tous appareils de
-sondage par ondes ;
+4° D'utiliser des engins de plongée subaquatique ;
 
 5° D'utiliser comme appâts ou comme amorces des oeufs de poisson naturels,
 qu'ils soient frais, de conserve ou mélangés à une composition d'appâts ou
-artificiels ainsi que des poissons des espèces dont la taille minimale a été
-fixée par l'article R. 236-103, des espèces mentionnées aux 1° et 2° de
-l'article L. 232-10 ;
+artificiels ;
 
 6° D'établir des appareils, d'effectuer des manoeuvres, de battre la surface de
-l'eau en vue de rassembler le poisson afin d'en faciliter la capture.
+l'eau en vue de rassembler le poisson afin d'en faciliter la capture ;
+
+7° De détenir sur un bateau en action de pêche des appareils de sondage par
+ondes permettant de localiser les poissons ;
+
+8° D'utiliser comme appâts des poissons des espèces dont la taille minimale a
+été fixée par l'article R. 236-103, des espèces mentionnées aux 1° et 2° de
+l'article L. 232-10.

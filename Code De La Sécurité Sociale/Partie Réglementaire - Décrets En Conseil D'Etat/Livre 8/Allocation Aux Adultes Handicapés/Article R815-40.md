@@ -28,4 +28,4 @@ ressources n'a pas atteint les chiffres limite, l'allocation supplémentaire peu
 ressources pendant une période de douze mois aurait été plus favorable à
 l'intéressé. Pour l'application du présent alinéa, le montant annuel des
 avantages viagers est déterminé d'après le taux en vigueur à la date du
-rétablissement.
+rétablissement. vigueur à la date du rétablissement.

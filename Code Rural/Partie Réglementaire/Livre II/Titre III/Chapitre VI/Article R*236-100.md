@@ -2,8 +2,11 @@ Article R*236-100
 ----
 La pêche est interdite en dehors des temps d'ouverture fixés ainsi qu'il suit :
 
-1° Pour les truites, les corégones et l'omble chevalier du 16 janvier au 14
-octobre ;
+1° Pour les truites, les corégones, l'omble chevalier et l'ombre commun, du
+samedi le plus proche du 16 janvier (mais au plus tard le 16 janvier) au 14
+octobre. Les engins des pêcheurs professionnels, destinés à la capture de ces
+poissons, peuvent être relevés le 15 octobre au plus tard ; les poissons
+capturés peuvent être ramenés à terre et commercialisés ;
 
 2° Pour le brochet du 1er janvier au 31 mars et du 11 mai au 31 décembre ;
 

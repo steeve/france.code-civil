@@ -7,7 +7,10 @@ application de l'article R. 236-101 ;
 
 2° Pêche, transporte ou vend des poissons qui proviennent des eaux soumises aux
 dispositions de la présente sous-section et qui n'ont pas les dimensions fixées
-par l'article R. 236-103.
+par l'article R. 236-103 ;
+
+3° Utilise comme appâts des poissons des espèces définies à l'article R. 236-112
+8°.
 
 En cas de récidive, l'amende encourue sera celle qui est prévue pour les
 contraventions de la 3e classe. Cette amende sera également encourue pour les

@@ -52,8 +52,7 @@ frais de révision et les secours aux individus relaxés ou acquittés.
 
 14° Les indemnités accordées en application des articles 149 et 150.
 
-15° Les indemnités accordées en application de l'article 706-9 ainsi que les
-frais exposés devant les commissions prévues par l'article 706-4.
+15° Les frais exposés devant les commissions prévues par l'article 706-4.
 
 16° Les frais de copie, droits, redevances et émoluments, dus aux greffiers des
 tribunaux de commerce pour la délivrance des pièces à l'autorité judiciaire dans

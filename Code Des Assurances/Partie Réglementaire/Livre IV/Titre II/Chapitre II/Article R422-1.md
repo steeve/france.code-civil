@@ -1,7 +1,8 @@
 Article R422-1
 ----
-Le Fonds de garantie contre les actes de terrorisme institué par l'article L.
-422-1 est géré par un conseil d'administration qui comprend :
+Le Fonds de garantie des victimes des actes de terrorisme et d'autres
+infractions institué par l'article L. 422-1 est géré par un conseil
+d'administration qui comprend :
 
 1° Un président nommé par arrêté conjoint du ministre chargé de l'économie et
 des finances et du garde des sceaux, ministre de la justice, parmi les membres
@@ -19,9 +20,9 @@ arrêté ;
 5° Un représentant du ministre chargé de la sécurité sociale, nommé par arrêté ;
 
 6° Trois personnes ayant manifesté leur intérêt pour les victimes d'actes de
-terrorisme, nommées par arrêté conjoint du ministre chargé de l'économie et des
-finances, du ministre de la justice, du ministre de l'intérieur et du ministre
-chargé de la sécurité sociale ;
+terrorisme et d'autres infractions, nommées par arrêté conjoint du ministre
+chargé de l'économie et des finances, du ministre de la justice, du ministre de
+l'intérieur et du ministre chargé de la sécurité sociale ;
 
 7° Un professionnel du secteur de l'assurance, nommé par arrêté du ministre
 chargé de l'économie et des finances.
@@ -36,5 +37,4 @@ En cas de vacance, un remplaçant est nommé dans les mêmes conditions que son
 prédécesseur pour la durée du mandat restant à courir.
 
 Le conseil d'administration se réunit sur convocation de son président aussi
-souvent que l'intérêt des victimes d'actes de terrorisme l'exige et au moins une
-fois par trimestre.
+souvent que l'intérêt des victimes l'exige et au moins une fois par trimestre.
