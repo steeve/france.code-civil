@@ -1,23 +1,36 @@
 Article L430-3
 ----
-Sans préjudice des dispositions de l'article /M/L. 110-4/M/LOI 1328 : L.
-111-4//, quiconque désire entreprendre une construction en bénéficiant des
-dispositions de l'article L. 430-1 doit, au préalable, faire une déclaration
-accompagnée des pièces suivantes :
+Par dérogation aux dispositions de l'article L. 430-2, peuvent être réalisées,
+sans l'octroi préalable du permis de démolir :
 
-a) Un projet établi par un architecte, un service public administratif habilité
-ou une personne physique ou morale reconnue compétente ;
+a) Les démolitions effectuées en application des articles 303 à 305 du code de
+l'urbanisme et de l'habitation, sur un bâtiment menaçant ruine ou, en
+application de l'article L. 28 du code de la santé publique, sur un immeuble
+insalubre ;
 
-b) La certification par cet architecte, ce service ou cette personne, de la
-conformité du projet aux dispositions législatives et réglementaires concernant
-l'implantation des constructions, leur destination, leur nature, leur aspect
-extérieur, leurs dimensions et l'aménagement de leurs abords ;
+b) Les démolitions effectuées en application d'une décision de justice devenue
+définitive ;
 
-c) L'engagement de respecter ces dispositions législatives et réglementaires
-ainsi que les règles générales de construction prévues à l'article /M/L.
-110-3/M/LOI 1328 : L. 111-3//.
+c) Les démolitions imposées par l'autorité administrative en application de
+l'article L. 123-1 (5. bis) ;
 
-Un décret en Conseil d'Etat fixe les formes et conditions dans lesquelles cette
-déclaration sera faite et rendue publique ainsi que les conditions dans
-lesquelles le service public administratif sera habilité et la personne physique
-ou morale reconnue compétente.
+d) Les démolitions prévues par un plan de sauvegarde et de mise en valeur rendu
+public ou approuvé et réalisées dans les conditions fixées par l'article L.
+313-1 (alinéa 3) ;
+
+e) Les démolitions des immeubles compris dans une zone de rénovation urbaine et
+figurant sur la liste des bâtiments à démolir qui est dressée par l'autorité
+administrative ;
+
+f) Les démolitions de bâtiments frappés de servitude de reculement en exécution
+de plans d'alignement approuvés sous le régime de l'ordonnance n. 59-115 du 7
+janvier 1959 et des textes pris pour son application.
+
+La dispense de permis de démolir prévue au a) du présent article pour
+l'application des articles L. 303 à L. 305 du code de l'urbanisme et de
+l'habitation s'exerce dans les conditions déterminées par le règlement
+d'administration publique prévu à l'article L. 313-15 en ce qui concerne les
+secteurs sauvegardés et par un décret en Conseil d'Etat en ce qui concerne les
+immeubles ou les zones auxquels s'appliquent les dispositions des articles 2 et
+13 bis de la loi du 31 décembre 1913 sur les monuments historiques et les
+dispositions de la loi du 2 mai 1930 sur les sites.

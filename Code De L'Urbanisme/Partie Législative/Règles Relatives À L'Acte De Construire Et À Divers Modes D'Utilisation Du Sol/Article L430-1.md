@@ -1,23 +1,29 @@
 Article L430-1
 ----
-Le permis de construire n'est pas exigé, dans les conditions et sous les
-réserves indiquées aux articles L. 430-2 et L. 430-3 :
+Les dispositions du présent titre s'appliquent [*champ d'application*] :
 
-1. Pour les constructions édifiées par les organismes d'habitation à loyer
-modéré, tels qu'ils sont régis par le titre Ier du livre II du code de
-l'urbanisme et de l'habitation, ceci après accord du maire.
+a) Dans les communes visées à l'article 10 (7.) de la loi n. 48-1360 du 1er
+septembre 1948, modifié par l'article 4 de l'ordonnance n. 58-1343 du 27
+décembre 1958 ;
 
-2. Pour les constructions édifiées sur certaines parties du territoire désignées
-dans les conditions fixées par décret en Conseil d'Etat, qui pourront être :
+b) Dans les secteurs sauvegardés et les périmètres de restauration immobilière
+créés en application des articles L. 313-1 à L. 313-15 ;
 
-a) Des communes ou parties de communes faisant l'objet soit d'un plan
-d'occupation des sols opposable aux tiers, dont la modification n'a pas été
-prescrite, soit d'un plan d'urbanisme approuvé dont la révision n'a pas été
-ordonnée ;
+c) Dans les zones auxquelles s'appliquent les dispositions de l'article 13 bis
+de la loi du 31 décembre 1913 modifiée sur les monuments historiques et de la
+loi du 2 mai 1930 modifiée relative à la protection des monuments naturels et
+des sites ;
 
-b) Des zones d'aménagement concerté, telles qu'elles sont définies à l'article
-L. 311-1 ;
+d) Dans les zones délimitées par un plan d'occupation des sols rendu public ou
+approuvé, en application du 5. de l'article L. 123-1 ;
 
-c) Des lotissements, lorsque les documents approuvés les concernant, notamment
-le règlement ou le cahier des charges, fixent l'implantation et le volume et
-définissent de façon générale le style et l'aspect extérieur des constructions.
+e) Dans les zones délimitées à l'intérieur des périmètres sensibles et des zones
+d'environnement protégé dans les conditions définies respectivement aux articles
+L. 142-3 et L. 143-1 ;
+
+f) Aux immeubles ou parties d'immeubles inscrits sur l'inventaire supplémentaire
+des monuments historiques.
+
+Toutefois, les immeubles classés en application de la loi du 31 décembre 1913,
+ainsi que les sites classés en application de la loi du 2 mai 1930, demeurent
+régis par les dispositions particulières de ces lois.

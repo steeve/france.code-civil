@@ -1,11 +1,14 @@
 Article L123-4
 ----
-La modification des plans d'occupation des sols a lieu dans les formes prévues
-pour leur établissement. Toutefois, il n'y a pas lieu de procéder à une enquête
-publique lorsque la modification ne porte que sur la suppression ou la réduction
-de l'emprise d'un emplacement réservé pour une voie, un ouvrage public ou une
-installation d'intérêt général, et à condition que ledit emplacement n'ait pas
-été acquis par la collectivité ou le service public bénéficiaire de la réserve.
-A moins que l'autorité compétente ne prescrive l'établissement d'un plan pour
-les terrains qui faisaient l'objet de la réserve, lesdits terrains sont soumis
-aux dispositions d'urbanisme régissant la zone dans laquelle ils sont situés.
+La révision des plans d'occupation des sols a lieu dans les formes prévues pour
+leur établissement.
+
+Toutefois, un plan approuvé peut également être modifié suivant les règles
+posées aux alinéas 1er, 4, 5 et 6 de l'article L. 123-3, à la condition qu'il ne
+soit pas porté atteinte à son économie générale et que la modification ne
+concerne pas les espaces boisés classés.
+
+A compter de la décision administrative ordonnant la mise en révision d'un plan
+d'occupation des sols, il peut être fait une application anticipée des
+dispositions du plan en cours d'élaboration dans les conditions définies par les
+décrets prévus à l'article L. 125-1.

@@ -6,19 +6,24 @@ permis de construire. Cette obligation s'impose aux services publics et
 concessionnaires de services publics de l'Etat, des départements et des communes
 comme aux personnes privées.
 
-Le même permis est exigé pour les modifications extérieures apportées aux
-constructions existantes, les reprises de gros-oeuvre et les surélévations.
+Le même permis est exigé pour les travaux exécutés sur les constructions
+existantes, lorsqu'ils ont pour effet d'en changer la destination, de modifier
+leur aspect extérieur ou leur volume de créer des niveaux supplémentaires.
 
-Toutefois, dans les communes de moins de 2.000 habitants et, hors des périmètres
-d'agglomérations, dans les hameaux et pour les bâtiments isolés, l'aménagement
-des constructions existantes qui n'a pas pour but d'en modifier les volumes
-extérieurs et la destination n'est pas soumis à la délivrance d'un permis de
-construire. La demande de permis est, dans ce cas, remplacée par une déclaration
-préalable en mairie.
+//LOI 1150 :
 
-Cette déclaration précise obligatoirement la nature des matériaux qui seront
-utilisés. Ces matériaux devront être conformes à une liste établie par arrêté
-préfectoral.
+Ce permis n'est pas exigé pour l'installation des dispositifs ayant la
+qualification de publicité, d'enseigne ou de préenseigne, au sens de la loi n°
+79-1150 du 29 décembre 1979.//
 
-Le permis de construire [*définition*] se substitue à toutes les autorisations
-exigées par les lois, règlements ou usages antérieurs au 27 octobre 1945.
+Lorsque les constructions ou travaux visés aux alinéas 1er et 2 ci-dessus sont
+soumis par des dispositions législatives ou réglementaires, en raison de leur
+emplacement ou de leur utilisation, à un régime d'autorisation ou à des
+prescriptions dont l'application est contrôlée par un ministre autre que celui
+qui est chargé d'urbanisme, le permis de construire est délivré avec l'accord de
+ce ministre ou de son représentant et vaut autorisation au titre de ces
+législations ou réglementations.
+
+Le permis de construire tient lieu de l'autorisation exigée au titre de la
+réglementation relative aux immeubles de grande hauteur et sa délivrance est
+précédée de l'accord de l'autorité chargée de la police de la sécurité.

@@ -1,30 +1,21 @@
 Article L123-2
 ----
-Les plans d'occupation des sols ne peuvent interdire :
+Dans les zones à protéger en raison de la qualité de leurs paysages dont la
+définition est fixée par les décrets prévus à l'article L. 125-1 et dont la
+délimitation est préalablement fixée par l'autorité administrative, les plans
+d'occupation des sols peuvent déterminer les conditions dans lesquelles les
+possibilités de construction résultant du coefficient d'occupation du sol fixé
+pour l'ensemble de la zone pourront, avec l'accord de l'autorité administrative,
+être transférées en vue de favoriser un regroupement des constructions sur
+d'autres terrains situés dans un ou plusieurs secteurs de la même zone.
 
-a) D'édifier sur tout terrain d'au moins 1000 mètres carrés desservi par une
-voie ouverte à la circulation publique et un réseau collectif de distribution
-d'eau potable, mais non desservi par un réseau collectif d'égouts une
-construction à usage d'habitation dont la superficie de planchers développée
-hors oeuvre, telle qu'elle est calculée en application des règlements relatifs
-aux coefficients d'occupation des sols, est au plus égale au dixième de la
-surface du terrain sans pouvoir excéder 250 mètres carrés ;
+Dans ces secteurs, les constructions ne sont autorisées qu'après de tels
+transferts, les possibilités de construire propres aux terrains situés dans ces
+secteurs s'ajoutant alors aux possibilités transférées ; la densité maximum de
+construction desdits secteurs est fixée par le plan.
 
-b) D'édifier sur tout terrain d'au moins 4000 mètres carrés desservi par une
-voie ouverte à la circulation publique mais non desservi par des réseaux
-collectifs de distribution d'eau potable et d'égouts une construction à usage
-d'habitation dont la superficie de planchers développée hors oeuvre, définie
-comme il est dit au a) ci-dessus, ne peut excéder 250 mètres carrés.
-
-Ces dispositions ne font pas obstacle à l'application des règles d'urbanisme
-autres que celles relatives à l'exigence d'une surface minimum, notamment celles
-visées aux articles /M/L110-1/M/LOI 1328 : L111-1// et L. 421-5 ou édictées par
-les plans, à l'observation des règlements sanitaires départementaux ou communaux
-ainsi qu'aux limitations administratives au droit de propriété.
-
-Elles sont applicables sur tous les territoires couverts par les plans
-d'occupation des sols, à l'exclusion des secteurs classés comme espaces boisés à
-conserver ou à créer, des secteurs réservés pour une urbanisation future, des
-secteurs faisant l'objet d'une protection particulière en raison notamment de la
-qualité des sites et paysages ou de la valeur agricole des terres, ainsi que des
-territoires visés à l'article L. 430-2.
+En cas de transfert, la totalité du terrain dont les possibilités de
+construction sont transférées est frappée de plein droit d'une servitude
+administrative d'interdiction de construire constatée par un acte authentique
+publié au bureau des hypothèques. Cette servitude ne peut être levée que par
+décret pris sur avis conforme du Conseil d'Etat.
