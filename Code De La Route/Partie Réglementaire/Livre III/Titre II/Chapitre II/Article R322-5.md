@@ -40,3 +40,6 @@ IV. - Le fait, pour tout propriétaire, de maintenir en circulation un véhicule
 sans avoir obtenu un certificat d'immatriculation dans les conditions fixées au
 présent article est puni de l'amende prévue pour les contraventions de la
 quatrième classe.
+
+L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux
+articles L. 325-1 à L. 325-3.
