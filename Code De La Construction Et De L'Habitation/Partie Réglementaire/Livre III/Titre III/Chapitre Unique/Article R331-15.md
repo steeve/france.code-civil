@@ -26,20 +26,23 @@ variation annuelle de l'indice du coût de la construction.
 2° a) Une subvention peut être octroyée aux opérations de construction. Le taux
 de subvention est au plus égal à :
 
-- 5% de l'assiette définie au 1° pour les opérations de construction. A titre
+5% de l'assiette définie au 1° pour les opérations de construction. A titre
 exceptionnel, le préfet peut, par dérogation, porter ce taux à 6,5% au plus ;
 
-- 8% de cette assiette pour les opérations à caractère expérimental ;
+8 % de cette assiette pour des opérations réalisées par des maîtres d'ouvrage
+ayant conclu avec l'Etat un contrat de relance par lequel ils contribuent à
+l'accroissement de la production de logements locatifs sociaux dans le
+département ou la région concernés ; ce même taux est applicable pour des
+opérations à caractère expérimental ;
 
-- 12 % de cette assiette pour des opérations de relogement liées à des
-démolitions et pour la réalisation de logements-foyers dénommés résidences
-sociales par des maîtres d'ouvrage ayant, avant le 1er janvier 1998, choisi de
-les gérer sous la forme d'une activité parahôtelière soumise à la taxe sur la
-valeur ajouté ;
+12 % de cette assiette pour des opérations de relogement liées à des démolitions
+et pour la réalisation de logements-foyers dénommés résidences sociales par des
+maîtres d'ouvrage ayant, avant le 1er janvier 1998, choisi de les gérer sous la
+forme d'une activité parahôtelière soumise à la taxe sur la valeur ajouté ;
 
-- 20% de cette assiette pour les opérations de construction mentionnée au
-dernier alinéa de l'article R. 331-1 et adaptées aux besoins des ménages qui
-rencontrent des difficultés d'insertion particulières.
+20% de cette assiette pour les opérations de construction mentionnée au II de
+l'article R. 331-1 et adaptées aux besoins des ménages qui rencontrent des
+difficultés d'insertion particulières.
 
 b) Par dérogation au a, pour les opérations réalisées en Corse, le taux de
 subvention est au plus égal à :
@@ -52,7 +55,11 @@ résidences sociales par des maîtres d'ouvrage ayant, avant le 1er janvier 1998
 choisi de les gérer sous la forme d'une activité parahôtelière soumise à la taxe
 sur la valeur ajoutée ;
 
-17,5 % de cette assiette pour des opérations à caractère expérimental ;
+17,5 % de cette assiette pour des opérations réalisées par des maîtres d'ouvrage
+ayant conclu avec l'Etat un contrat de relance par lequel ils contribuent à
+l'accroissement de la production de logements locatifs sociaux dans le
+département concerné ou la région ; ce même taux est applicable pour des
+opérations à caractère expérimental ;
 
 20 % de cette assiette pour les opérations de relogement liées à des démolitions
 ;
@@ -64,21 +71,24 @@ rencontrent des difficultés d'insertion particulières.
 3° a) Une subvention peut être octroyée aux opérations autres que celles prévues
 au 2°. Le taux de subvention est au plus égal à :
 
-- 10% de l'assiette définie au 1° ; dans ce cas, le montant de la subvention ne
+10% de l'assiette définie au 1° ; dans ce cas, le montant de la subvention ne
 peut dépasser 13% du prix de revient de l'opération. A titre exceptionnel, le
 préfet peut, par dérogation porter ce taux à 11,5% au plus, avec un montant de
 subvention ne pouvant excéder 13% du prix de revient de l'opération ;
 
-- 12% de cette assiette pour des opérations de relogement liées à des
-démolitions et pour la réalisation de logements-foyers dénommés résidences
-sociales par des maîtres d'ouvrage ayant, avant le 1er janvier 1998, choisi de
-les gérer sous la forme d'une activité parahôtelière soumise à la taxe sur la
-valeur ajoutée ;
+12% de cette assiette pour des opérations de relogement liées à des démolitions
+et pour la réalisation de logements-foyers dénommés résidences sociales par des
+maîtres d'ouvrage ayant, avant le 1er janvier 1998, choisi de les gérer sous la
+forme d'une activité parahôtelière soumise à la taxe sur la valeur ajoutée ;
 
-- 13% de cette assiette pour des opérations à caractère expérimental ;
+15 % de cette assiette pour des opérations réalisées par des maîtres d'ouvrage
+ayant conclu avec l'Etat un contrat de relance par lequel ils contribuent à
+l'accroissement de la production de logements locatifs sociaux dans le
+département ou la région concernés ; ce même taux est applicable pour des
+opérations à caractère expérimental ;
 
-- 20% de cette assiette pour des opérations mentionnées au dernier de l'article
-R. 333-1 et adaptées aux besoins de ménages qui rencontrent des difficultés
+20% de cette assiette pour des opérations mentionnées au dernier de l'article R.
+333-1 et adaptées aux besoins de ménages qui rencontrent des difficultés
 d'insertion particulières, avec un montant de subvention ne pouvant excéder 25%
 du prix de revient de l'opération. A titre exceptionnel, le préfet peut, par
 dérogation,
@@ -96,8 +106,14 @@ résidences sociales par des maîtres d'ouvrage ayant, avant le 1er janvier 1998
 choisi de les gérer sous la forme d'une activité parahôtelière soumise à la taxe
 sur la valeur ajoutée ;
 
-20 % de cette assiette pour des opérations à caractère expérimental et pour les
-opérations de relogement liées à des démolitions ;
+20 % de cette assiette pour des opérations de relogement liées à des démolitions
+;
+
+22 % de cette assiette pour des opérations réalisées par des maîtres d'ouvrage
+ayant conclu avec l'Etat un contrat de relance par lequel ils contribuent à
+l'accroissement de la production de logements locatifs sociaux dans le
+département concerné ou la région ; ce même taux est applicable pour des
+opérations à caractère expérimental ;
 
 30 % pour les opérations mentionnées au dernier alinéa de l'article R. 331-1 et
 adaptées aux besoins de ménages qui rencontrent des difficultés d'insertion

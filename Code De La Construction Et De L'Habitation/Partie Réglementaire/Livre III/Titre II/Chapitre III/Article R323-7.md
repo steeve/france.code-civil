@@ -35,3 +35,7 @@ exceptionnel, porter le taux de la subvention au plus à 40 p. 100 du coût
 prévisionnel des travaux, dans les limites définies à l'article R. 323-6,
 lorsque le maître d'ouvrage, bénéficiaire de la subvention, rencontre des
 difficultés financières particulières.
+
+Ce taux peut également être porté au plus à 40 % du coût prévisionnel des
+travaux, pour les travaux d'adaptation des logements mentionnés au b de
+l'article R. 323-3.

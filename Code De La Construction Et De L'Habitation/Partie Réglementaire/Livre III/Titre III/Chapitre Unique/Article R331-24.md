@@ -9,7 +9,7 @@ immeuble et s'engagent à le céder en toute propriété ou à bail emphytéotiq
 à construction à l'une des personnes visées à l'article R. 331-14 pour la
 réalisation de travaux de construction, de transformation et d'aménagement, ou
 d'amélioration répondant aux conditions prévues aux articles R. 331-8 et R.
-331-9.
+331-9 ;
 
 2° Aux bénéficiaires visés à l'article R. 331-14 lorsqu'ils acquièrent ou ont
 acquis depuis moins de trois ans à la date de la demande de décision favorable à
@@ -52,6 +52,14 @@ immeubles déclarés insalubres en application de la loi n° 70-612 du 10 juille
 
 - ni 30 p. 100 du montant de la valeur foncière de référence multiplié par la
 surface utile de l'opération.
+
+Toutefois, lorsqu'une fraction du dépassement au moins égale à 40 % est prise en
+charge par une collectivité locale ou un groupement de collectivités locales, le
+montant de la subvention de l'Etat peut atteindre 60 % de ce dépassement limité
+à 2 fois le montant de la valeur foncière de référence multiplié par la surface
+utile de l'opération en construction neuve et à 0,4 fois le montant de la valeur
+foncière de référence multiplié par la surface utile de l'opération pour les
+opérations d'acquisition-amélioration ou assimilées.
 
 Les modalités de détermination et d'octroi de la subvention sont fixées par
 arrêté conjoint des ministres chargés de la construction et de l'habitation et

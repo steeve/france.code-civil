@@ -4,21 +4,31 @@ Les subventions ou prêts prévus à l'article R331-1 sont attribués pour des
 logements destinés à être occupés par des personnes dont l'ensemble des
 ressources, à la date d'entrée dans les lieux, est au plus égal à un montant
 déterminé par un arrêté conjoint des ministres chargés de la construction et de
-l'habitation et des finances. Toutefois, pour les logements mentionnés au
-deuxième alinéa de l'article R. 331-1, le plafond de ressources à l'entrée dans
-les lieux ne peut excéder 60 p. 100 du montant déterminé par l'arrêté précité,
-sauf dérogation accordée par le représentant de l'Etat dans le département. Ce
-plafond est fixé par arrêté conjoint des ministres chargés de la construction et
-de l'habitation et des finances.
+l'habitation et des finances. Toutefois, pour les logements mentionnés au II de
+l'article R. 331-1, le plafond de ressources à l'entrée dans les lieux ne peut
+excéder 60 p. 100 du montant déterminé par l'arrêté précité, sauf dérogation
+accordée par le représentant de l'Etat dans le département. Ce plafond est fixé
+par arrêté conjoint des ministres chargés de la construction et de l'habitation
+et des finances.
 
 Pour les opérations financées dans les conditions de l'article R. 331-14 autres
-que celles prévues au deuxième alinéa de l'article R. 331-1 et bénéficiant de
-subventions prévues aux 2° et 3° de l'article R. 331-15, 30 % au moins des
-logements sont obligatoirement attribués à des personnes dont l'ensemble des
-ressources est inférieur ou égal à 60 % du montant déterminé par l'arrêté
-précité ; un dépassement au plus égal à 20 % de ce même montant est permis pour
-l'attribution de 10 % au plus des logements des opérations ainsi financées par
-un même maître d'ouvrage.
+que celles prévues au II de l'article R. 331-1 et qui bénéficient de subventions
+prévues aux 2° et 3° de l'article R. 331-15 :
+
+I. - 30 % au moins des logements sont obligatoirement attribués à des personnes
+dont l'ensemble des ressources est inférieur ou égal à 60 % du montant déterminé
+par l'arrêté précité ; toutefois, cette obligation n'est pas applicable aux
+opérations comportant un seul logement et, pour les autres opérations comportant
+moins de 10 logements, le nombre minimal de logements obligatoirement attribués
+à ces personnes s'obtient en arrondissant à l'unité la plus proche le résultat
+de l'application du pourcentage de 30 % ;
+
+II. - 10 % au plus des logements des opérations ainsi financées par un même
+maître d'ouvrage peuvent être attribués à des personnes dont l'ensemble des
+ressources est supérieur de 20 % au plus au montant déterminé par l'arrêté
+précité ; pour les opérations comportant moins de 10 logements, le nombre de
+logements susceptible d'être attribués à ces personnes s'obtient en arrondissant
+à l'unité la plus proche le résultat de l'application du pourcentage de 10 %.
 
 Pour les opérations ne bénéficiant pas de subventions prévues à l'article R.
 331-15 et réalisées par les maîtres d'ouvrage mentionnés aux 1° et 2° de

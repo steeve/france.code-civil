@@ -17,16 +17,13 @@ sous leur tutelle et gestionnaires de logements ;
 5° Les sociétés d'économie mixte ayant dans leur objet statutaire la réalisation
 de logements ;
 
-6° Les sociétés immobilières à participation majoritaire de la Caisse des dépôts
-et consignations ;
+6° La société immobilière du chemin de fer ;
 
-7° La société immobilière du chemin de fer ;
-
-8° Les sociétés minières et immobilières gérant le patrimoine immobilier des
+7° Les sociétés minières et immobilières gérant le patrimoine immobilier des
 mines de fer ;
 
-9° Les personnes morales propriétaires de cités familiales.
+8° Les personnes morales propriétaires de cités familiales.
 
-10° Les organismes dont l'un des objets est de contribuer au logement des
+9° Les organismes dont l'un des objets est de contribuer au logement des
 personnes défavorisées et agréés à cette fin par le représentant de l'Etat dans
 le département.

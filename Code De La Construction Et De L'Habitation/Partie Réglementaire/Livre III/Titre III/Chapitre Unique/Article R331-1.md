@@ -1,16 +1,16 @@
 Article R331-1
 ----
-Dans les limites et conditions fixées par la présente section, des subventions
-et des prêts définis par les sous-sections 2 et 3 ci-après peuvent être accordés
-pour financer :
+I. - Dans les limites et conditions fixées par la présente section, des
+subventions et des prêts définis par les sous-sections 2 et 3 ci-après peuvent
+être accordés pour financer :
 
 1° L'acquisition de droits de construire ou de terrains destinés à la
 construction de logements à usage locatif et la construction de ces logements ;
 
 2° La construction de logements à usage locatif ;
 
-3° L'acquisition de logements et d'immeubles destinés à l'habitation en vue de
-leur amélioration ainsi que les travaux d'amélioration correspondants ;
+3° L'acquisition de logements et d'immeubles destinés à l'habitation ainsi que,
+le cas échéant, les travaux d'amélioration correspondants ;
 
 4° L'acquisition de locaux ou d'immeubles non affectés à l'habitation et leur
 transformation ou aménagement en logements ;
@@ -42,18 +42,13 @@ définis aux articles R. 351-55 et R. 351-56 ;
 10° L'acquisition de logements dans le cadre des dispositions prévues à
 l'article L. 261-3.
 
-Dans les limites et conditions fixées par la présente section, et notamment par
-les articles R. 331-12, R. 331-14, R. 331-15, des subventions et des prêts
-définis par la sous-section 2 peuvent être accordés pour financer l'acquisition
-de logements locatifs existants et le cas échéant les travaux d'amélioration
-ainsi que les opérations et travaux mentionnés aux 1°, 2°, 4°, 6°, 7°, 8° et 10°
-de l'alinéa précédent lorsque les logements concernés sont adaptés aux besoins
-des ménages qui rencontrent des difficultés d'insertion particulières. Les
-dispositions des articles R. 331-9 à R. 331-24 relatives aux opérations
-d'acquisition-amélioration sont applicables à ces logements y compris en
-l'absence de travaux. Le coût d'acquisition de ces logements ne doit pas excéder
-un pourcentage de la valeur de base des opérations d'acquisition-amélioration
-fixée par arrêté des ministres chargés de la construction et de l'habitation et
-des finances pour les zones géographiques déterminées. Ces dispositions
-s'appliquent également aux logements-foyers dénommés résidences sociales et
-mentionnés à l'article R. 351-55.
+II. - Lorsque les logements concernés sont adaptés aux besoins des ménages qui
+rencontrent des difficultés d'insertion particulières, des subventions et des
+prêts définis par la sous-section 2 peuvent (1) accordés dans les limites et
+conditions fixées par la présente section pour financer les opérations et
+travaux précisés ci-dessus à l'exception de ceux mentionnés au 9° autres que les
+résidences sociales mentionnées au 2 de l'article R. 351-55. Le coût
+d'acquisition de ces logements ne doit pas excéder un pourcentage de la valeur
+de base des opérations d'acquisition-amélioration multiplié par la surface utile
+de l'opération fixé par arrêté des ministres chargés du logement et des finances
+pour des zones géographiques déterminées.
