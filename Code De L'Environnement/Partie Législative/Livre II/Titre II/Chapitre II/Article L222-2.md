@@ -10,7 +10,9 @@ déplacements urbains ou un plan de protection de l'atmosphère, ainsi qu'aux
 autorités compétentes pour l'organisation des transports urbains et aux conseils
 généraux. Après modifications éventuelles afin de tenir compte des observations
 du public et des avis des collectivités consultées, il est arrêté par le préfet
-après avis du conseil régional ou, en Corse, de l'assemblée de Corse.
+après avis du conseil régional ou, en Corse, par délibération de l'Assemblée de
+Corse sur proposition du président du conseil exécutif et après avis du
+représentant de l'Etat.
 
 Au terme d'une période de cinq ans, le plan fait l'objet d'une évaluation et est
 révisé, le cas échéant, si les objectifs de qualité de l'air n'ont pas été

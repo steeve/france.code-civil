@@ -13,8 +13,10 @@ l'article 268 bis du code des douanes ;
 3° La taxe due par les entreprises de transport public aérien et maritime prévue
 à l'article 1599 vicies du code général des impôts ;
 
-4° Le produit du droit de consommation sur les alcools perçu en Corse prévu à
-l'article 403 du code général des impôts ;
+4° La fraction prélevée sur le produit de la taxe intérieure sur les produits
+pétroliers mis à la consommation en Corse en application de l'article 5 de la
+loi n°94-1131 du 27 décembre 1994 portant statut fiscal de la Corse et du III de
+l'article 40 de la loi n° 2002-92 du 22 janvier 2002 relative à la Corse ;.
 
 5° Le droit de francisation et de navigation, ainsi que le droit de passeport,
 prévu aux articles 238 et 240 du code des douanes, des navires de plaisance dont

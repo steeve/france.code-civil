@@ -78,7 +78,13 @@ projets de conventions tripartites à conclure entre l'Etat, la région et chacu
 de ces organismes en vue de l'adaptation de ces contrats de progrès à la
 situation particulière de la région. Il est consulté sur les projets
 d'investissement et les moyens d'intervention dont disposeront les services
-régionaux des mêmes organismes.
+régionaux des mêmes organismes. En Corse, la collectivité territoriale de Corse
+est substituée à la région. Le comité de coordination régional de l'emploi et de
+la formation professionnelle est consulté sur les projets d'investissement et
+les moyens d'intervention dont disposent les services régionaux de l'Agence
+nationale pour l'emploi et de l'Association nationale pour la formation
+professionnelle des adultes, y compris pour cette dernière sur les programmes
+prévus à l'article L. 4424-34 du code général des collectivités territoriales.
 
 Dans les régions d'outre-mer, les conventions tripartites mentionnées à l'alinéa
 précédent précisent les conditions dans lesquelles l'Association nationale pour
@@ -86,11 +92,11 @@ la formation professionnelle des adultes apporte un concours technique aux
 interventions des associations régionales pour la formation professionnelle des
 adultes.
 
-Les comités départementaux de l'emploi comprennent [*composition*] des
-représentants élus des collectivités territoriales et les parlementaires du
-département. Ces comités se réunissent au moins une fois par an sous la
-présidence du préfet du département qui, à cette occasion, présente le bilan de
-la politique de l'emploi et de la formation professionnelle dans le département.
+Les comités départementaux de l'emploi comprennent des représentants élus des
+collectivités territoriales et les parlementaires du département. Ces comités se
+réunissent au moins une fois par an sous la présidence du préfet du département
+qui, à cette occasion, présente le bilan de la politique de l'emploi et de la
+formation professionnelle dans le département.
 
 Les membres non fonctionnaires des comités visés au troisième alinéa bénéficient
 pendant les heures qu'ils consacrent à leur mission d'une rémunération, dans le
