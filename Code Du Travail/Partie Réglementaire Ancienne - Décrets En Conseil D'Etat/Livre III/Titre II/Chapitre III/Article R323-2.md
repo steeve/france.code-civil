@@ -1,13 +1,15 @@
 Article R323-2
 ----
-Le nombre de bénéficiaires mentionnés à l'article L. 323-3 que l'employeur est
-dispensé d'employer en application de l'article L. 323-8 est égal, sous réserve
-de la limite fixée ci-dessous, au nombre de salariés ayant un rendement normal
-et accomplissant une durée normale de travail qui serait nécessaire pour
-exécuter les tâches confiées à un atelier protégé, à un centre de distribution
-de travail à domicile ou à un centre d'aide par le travail dans l'entreprise ou,
-à défaut, dans une entreprise où ces tâches sont habituellement exécutées.
+La passation de contrats de fournitures, de sous-traitance ou de prestations de
+services prévue à l'article L. 323-8 est, en ce qui concerne les employeurs
+mentionnés à l'article L. 323-1, équivalente à l'emploi d'un certain nombre de
+bénéficiaires de l'obligation d'emploi définie par ce dernier article. Dans la
+limite définie par l'article R. 323-3, ce nombre est égal au quotient obtenu en
+divisant le prix hors taxes des fournitures, travaux ou prestations figurant au
+contrat, déduction faite des coûts des matières premières, produits, matériaux,
+consommations et des frais de vente, par trois mille fois le salaire minimum de
+croissance en vigueur au 31 décembre de l'année d'assujettissement à
+l'obligation d'emploi.
 
-L'exonération prévue à l'article L. 323-8 ne peut être supérieure à la moitié du
-pourcentage fixé à l'article L. 323-1, apprécié sur la base de la durée légale
-du travail [*montant maximum*].
+Le contrat précise les éléments chiffrés nécessaires au calcul de la déduction
+définie à l'alinéa précédent [*contenu, mentions obligatoires*].
