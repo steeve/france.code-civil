@@ -6,16 +6,19 @@ Le conseil médical de l'aéronautique est chargé :
 médical, médico-social et d'hygiène intéressant l'aéronautique civile, notamment
 en ce qui concerne le personnel navigant, les passagers et, d'une façon
 générale, le contrôle sanitaire. Il assure en cette matière la liaison avec les
-organismes similaires étrangers ;
+organismes similaires étrangers.
 
 2° De se prononcer sur le caractère définitif des inaptitudes déclarées à
-l'égard des navigants par les différents centres d'expertises médicales ;
+l'égard des navigants par les différents centres d'expertises médicales, pour
+les licences françaises, ou par l'autorité étrangère ayant délivré la licence
+validée par le ministre chargé de l'aviation civile ou, dans le domaine des
+essais et réceptions, par le ministre de la défense.
 
 3° De soumettre au ministre chargé de l'aviation civile des propositions
 concernant les décisions prévues par les articles L. 424-1, L. 424-2, L. 424-5
 et par l'article R. 426-11 en matière de reconnaissance d'incapacité temporaire
 ou permanente de travail et de décès consécutifs à un accident aérien survenu en
-service ou une maladie imputable au service aérien ;
+service ou une maladie imputable au service aérien.
 
 4° De recevoir et d'examiner sous réserve des compétences dévolues par les
 articles D. 434-1 et suivants aux commissions médicales régionales de l'aviation
@@ -40,17 +43,13 @@ navigant de l'aéronautique civile ;
 
 d) Toute demande de dérogation aux conditions d'aptitude médicale prévues par
 les règlements en vigueur en ce qui concerne le personnel navigant de
-l'aéronautique civile.
+l'aéronautique civile. Toutefois, en cas de légère déficience à l'égard d'une
+norme médicale restant compatible avec la sécurité aérienne, le médecin chef
+d'un centre médical agréé ou d'une commission de médecins, d'un centre ou
+service médical d'un département ou d'un territoire d'outre-mer agréés peut, à
+titre exceptionnel, et pour une durée maximale de quarante-cinq jours, déclarer
+un navigant professionnel apte à exercer ses fonctions jusqu'à la décision du
+conseil médical de l'aéronautique civile. (1)
 
-Toutefois, en cas de légère déficience à l'égard d'une norme médicale restant
-compatible avec la sécurité aérienne, le médecin chef d'un centre médical agréé
-ou d'une commission de médecins, d'un centre ou service médical d'un département
-ou d'un territoire d'outre-mer agréés peut, à titre exceptionnel, et pour une
-durée maximale de quarante-cinq jours, déclarer un navigant professionnel apte à
-exercer ses fonctions jusqu'à la décision du conseil médical de l'aéronautique
-civile. (1)
-
-" e) Les appels interjetés contre les décisions des commissions médicales
-régionales de l'aviation civile. "
-
-(1) Décret n° 84-202 du 19 mars 1984 (art. 1er).
+e) Les appels interjetés contre les décisions des commissions médicales
+régionales de l'aviation civile.
