@@ -1,12 +1,12 @@
 Article D542-10
 ----
-Sous réserve des dispositions des articles R. 531-11 à R. 531-14, D. 542-11 et
-D. 542-12 et des alinéas suivants du présent article, les ressources prises en
-considération s'entendent du total des revenus nets catégoriels retenus pour
-l'établissement de l'impôt sur le revenu d'après le barème des revenus taxés à
-un taux proportionnel ou soumis à un prélèvement libératoire de l'impôt sur le
-revenu, ainsi que les revenus perçus hors de France ou versés par une
-organisation internationale et après :
+Sous réserve des dispositions des articles R. 531-11 à R. 531-14 et D. 542-11 et
+des alinéas suivants du présent article, les ressources prises en considération
+s'entendent du total des revenus nets catégoriels retenus pour l'établissement
+de l'impôt sur le revenu d'après le barème des revenus taxés à un taux
+proportionnel ou soumis à un prélèvement libératoire de l'impôt sur le revenu,
+ainsi que les revenus perçus hors de France ou versés par une organisation
+internationale et après :
 
 a) La déduction au titre des créances alimentaires mentionnée au 2° du II de
 l'article 156 du code général des impôts ;
