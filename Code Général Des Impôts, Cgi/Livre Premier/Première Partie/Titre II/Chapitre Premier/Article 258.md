@@ -12,14 +12,14 @@ c) Lors de la mise à disposition de l'acquéreur, en l'absence d'expédition ou
 transport ;
 
 d) Au moment du départ d'un transport dont le lieu d'arrivée est situé sur le
-territoire d'un autre Etat membre de la Communauté économique européenne, dans
-le cas où la livraison, au cours de ce transport, est effectuée à bord d'un
-bateau, d'un aéronef ou d'un train.
+territoire d'un autre Etat membre de la Communauté européenne, dans le cas où la
+livraison, au cours de ce transport, est effectuée à bord d'un bateau, d'un
+aéronef ou d'un train.
 
 Par dérogation aux dispositions du a et du b, lorsque le lieu de départ de
 l'expédition ou du transport est en dehors du territoire des Etats membres de la
-Communauté économique européenne, le lieu de la livraison de ces biens effectuée
-par l'importateur ou pour son compte ainsi que le lieu d'éventuelles livraisons
+Communauté européenne, le lieu de la livraison de ces biens effectuée par
+l'importateur ou pour son compte ainsi que le lieu d'éventuelles livraisons
 subséquentes est réputé se situer en France, lorsque les biens sont importés en
 France.
 

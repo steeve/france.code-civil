@@ -1,8 +1,8 @@
 Article 150 V quater
 ----
 L'exportation, autre que temporaire, hors du territoire des Etats membres de la
-communauté économique européenne est assimilée de plein droit à une vente ; la
-taxe est versée par l'exportateur, comme en matière de droits de douane, lors de
+Communauté européenne est assimilée de plein droit à une vente ; la taxe est
+versée par l'exportateur, comme en matière de droits de douane, lors de
 l'accomplissement des formalités douanières.
 
 Les règles prévues au premier alinéa ne sont pas applicables si le propriétaire

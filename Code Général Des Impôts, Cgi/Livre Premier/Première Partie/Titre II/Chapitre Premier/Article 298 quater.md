@@ -7,30 +7,30 @@ agriculteurs qui bénéficient en France du remboursement forfaitaire ;
 
 b) Des livraisons de produits agricoles faites à des personnes morales non
 assujetties qui réalisent des acquisitions intracommunautaires imposables dans
-l'Etat membre de la Communauté économique européenne d'arrivée de l'expédition
-ou du transport des produits agricoles ;
+l'Etat membre de la Communauté européenne d'arrivée de l'expédition ou du
+transport des produits agricoles ;
 
 c) Des exportations de produits agricoles.
 
-((I bis. Le taux du remboursement forfaitaire est fixé pour les ventes faites à
+I bis. Le taux du remboursement forfaitaire est fixé pour les ventes faites à
 compter du 1er janvier 1993 :
 
-((1° A 4 p. 100 pour le lait, les animaux de basse-cour, les oeufs, les animaux
-de boucherie et de charcuterie définis par décret, ainsi que les céréales, les
+1° A 4 p. 100 pour le lait, les animaux de basse-cour, les oeufs, les animaux de
+boucherie et de charcuterie définis par décret, ainsi que les céréales, les
 oléagineux et les protéagineux désignés à l'annexe I du règlement (C.E.E.) n°
 1765-92 du 30 juin 1992 du Conseil de la Communauté européenne instituant un
 régime de soutien aux producteurs de certaines cultures arables ;
 
-((2° A 3,05 p. 100 pour les autres produits)) (M).
+2° A 3,05 p. 100 pour les autres produits.
 
-I ter. ((1. Périmé))
+I ter. 1. Périmé
 
 2. (Abrogé à compter du 1er janvier 1993) ;
 
 II. Des décrets en Conseil d'Etat (1) fixent, en tant que de besoin, les
-conditions d'application des ((I et I bis)) (M), notamment les justifications à
-fournir par les bénéficiaires du remboursement forfaitaire, ainsi que les bases
-de calcul dudit remboursement dans le cas d'exportation ou de livraisons
+conditions d'application des I et I bis, notamment les justifications à fournir
+par les bénéficiaires du remboursement forfaitaire, ainsi que les bases de
+calcul dudit remboursement dans le cas d'exportation ou de livraisons
 intracommunautaires d'animaux vivants.
 
 III. La déclaration déposée en vue d'obtenir le bénéfice du remboursement
@@ -40,8 +40,6 @@ cours de laquelle le droit au remboursement forfaitaire est né.
 IV. Les justifications exigées pour l'octroi du remboursement forfaitaire
 peuvent être modifiées, pour certains secteurs de la production agricole, par
 décret (3) pris après avis des organisations professionnelles agricoles.
-
-(M) Modification de la loi 93-1352.
 
 (1) Annexe II, art. 263 à 267 bis.
 

@@ -9,5 +9,5 @@ susceptibles de bénéficier des dispositions prévues :
 2° A l'article 275 du même code, lorsqu'elles réalisent des exportations, des
 livraisons exonérées en vertu du I de l'article 262 ter ou de l'article 262
 quater dudit code ou des livraisons dont le lieu est situé sur le territoire
-d'un autre Etat membre de la Communauté économique européenne en application de
-l'article 258 A du code précité.
+d'un autre Etat membre de la Communauté européenne en application de l'article
+258 A du code précité.

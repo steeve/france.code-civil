@@ -19,9 +19,9 @@ d'expédition figurant sur le document d'accompagnement pour mettre en
 recouvrement les droits consécutifs à une infraction commise en France.
 
 Si, dans un délai de trois ans à compter de la date d'expédition figurant sur le
-document d'accompagnement, l'Etat membre de la Communauté économique européenne
-[*CEE*] où l'infraction a été commise procède au recouvrement des droits, les
-droits perçus en France sont remboursés.
+document d'accompagnement, l'Etat membre de la Communauté européenne où
+l'infraction a été commise procède au recouvrement des droits, les droits perçus
+en France sont remboursés.
 
 Les règles fixées en régime intérieur concernant la responsabilité de
 l'expéditeur s'appliquent sans préjudice des dispositions précédentes.

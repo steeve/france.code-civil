@@ -12,8 +12,8 @@ La redevance sanitaire de découpage n'est pas due lorsque les viandes à décou
 font l'objet d'achat par les organismes d'intervention ou sont destinées à être
 exportées, à faire l'objet d'une livraison exonérée en vertu du I de l'article
 262 ter ou d'une livraison dans un lieu situé dans un autre Etat membre de la
-Communauté économique européenne en application de l'article 258 A, en l'état,
-et qu'il est justifié de l'exportation, de l'expédition ou du transport.
+Communauté européenne en application de l'article 258 A, en l'état, et qu'il est
+justifié de l'exportation, de l'expédition ou du transport.
 
 La redevance sanitaire de découpage est également perçue sur les acquisitions
 intracommunautaires de viandes avec os à découper. Elle est due par la personne

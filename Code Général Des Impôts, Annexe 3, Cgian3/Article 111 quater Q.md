@@ -1,13 +1,13 @@
 Article 111 quater Q
 ----
 Pour les viandes en provenance des autres Etats membres de la Communauté
-économique européenne, la redevance sanitaire de découpage est perçue dans les
-conditions prévues à l'article 111 quater R sur les viandes en carcasse,
-demi-carcasse ou demi-carcasse découpée en un maximum de trois morceaux de gros
-ou quartiers des animaux des espèces bovine, ovine, caprine, porcine et des
-espèces chevaline, asine ou leurs croisements, reprises au tableau ci-dessous :
+européenne, la redevance sanitaire de découpage est perçue dans les conditions
+prévues à l'article 111 quater R sur les viandes en carcasse, demi-carcasse ou
+demi-carcasse découpée en un maximum de trois morceaux de gros ou quartiers des
+animaux des espèces bovine, ovine, caprine, porcine et des espèces chevaline,
+asine ou leurs croisements, reprises au tableau ci-dessous :
 
-Numéro du tarif des douanes : Désignation des marchandises
+Numéro du tarif des douanes / Désignation des marchandises
 
 Ex 0201 : Viandes des animaux domestiques de l'espèce bovine fraîches ou
 réfrigérées.

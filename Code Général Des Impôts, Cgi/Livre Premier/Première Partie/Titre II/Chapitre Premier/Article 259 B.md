@@ -34,5 +34,5 @@ professionnelle ou un droit mentionné au présent article.
 
 Le lieu de ces prestations est réputé ne pas se situer en France même si le
 prestataire est établi en France lorsque le preneur est établi hors de la
-communauté économique européenne ou qu'il est assujetti à la taxe sur la valeur
-ajoutée dans un autre Etat membre de la communauté [*CEE*].
+communauté européenne ou qu'il est assujetti à la taxe sur la valeur ajoutée
+dans un autre Etat membre de la communauté.

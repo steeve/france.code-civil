@@ -23,28 +23,27 @@ des actions, parts ou droits détenus par l'entreprise imposable dans la personn
 ou l'organisme détenteur, et regardé comme affectant la valeur de ces actions,
 parts ou droits.
 
-Les dispositions des trois alinéas qui précèdent ne sont pas applicables aux
-parts ou actions d'organismes de placement collectif en valeurs mobilières
-français ou établis dans un Etat membre de la Communauté économique européenne
-qui remplissent simultanément les conditions suivantes :
+Les dispositions des ((premier, deuxième et troisième alinéas)) (M) ne sont pas
+applicables aux parts ou actions d'organismes de placement collectif en valeurs
+mobilières français ou établis dans un Etat membre de la ((Communauté
+européenne)) (M) qui remplissent simultanément les conditions suivantes :
 
--la valeur réelle de l'actif est représentée de façon constante pour 90 p. 100
+a.-la valeur réelle de l'actif est représentée de façon constante pour 90 p. 100
 au moins par des actions, des certificats d'investissement et des certificats
 coopératifs d'investissement émis par des sociétés ayant leur siège dans la
-Communauté économique européenne, et qui sont soumises à l'impôt sur les
-sociétés dans les conditions de droit commun ou qui sont soumises à un impôt
-comparable. La proportion de 90 p. 100 est considérée comme satisfaite si, pour
-chaque semestre civil, la moyenne journalière de la valeur réelle des titres
-mentionnés ci-avant est au moins égale à 90 p. 100 de la moyenne journalière de
-la valeur réelle de l'ensemble des actifs. Pour le calcul de la proportion de 90
-p. 100, les titres qui font l'objet d'un réméré ne sont pas pris en compte au
-numérateur du rapport ;
+((Communauté européenne)) (M), et qui sont soumises à l'impôt sur les sociétés
+dans les conditions de droit commun ou qui sont soumises à un impôt comparable.
+La proportion de 90 p. 100 est considérée comme satisfaite si, pour chaque
+semestre civil, la moyenne journalière de la valeur réelle des titres mentionnés
+ci-avant est au moins égale à 90 p. 100 de la moyenne journalière de la valeur
+réelle de l'ensemble des actifs. Pour le calcul de la proportion de 90 p. 100,
+les titres qui font l'objet d'un réméré ne sont pas pris en compte au numérateur
+du rapport ;
 
-- les titres dont la valeur est retenue pour le calcul de la proportion
-mentionnée à l'alinéa précédent sont rémunérés par des dividendes ouvrant droit
-à l'avoir fiscal. Les produits des titres définis à la phrase précédente sont
-constitués directement par ces dividendes et par les plus-values résultant de
-leur cession.
+b. les titres dont la valeur est retenue pour le calcul de la proportion
+mentionnée au a sont rémunérés par des dividendes ouvrant droit à l'avoir
+fiscal. Les produits des titres définis à la phrase précédente sont constitués
+directement par ces dividendes et par les plus-values résultant de leur cession.
 
 Toutefois, les entreprises qui détiennent, à la clôture du premier exercice
 d'application du présent article, des titres d'organismes de placement collectif
@@ -101,10 +100,11 @@ valeur liquidative des parts ou actions à la plus tardive des dates suivantes :
 1er juillet 1992, date d'acquisition ou date d'ouverture de l'exercice.
 Toutefois, si un écart de sens opposé est constaté entre :
 
-- d'une part, le début de l'exercice, ou la date d'acquisition si elle est
+d'une part, le début de l'exercice, ou la date d'acquisition si elle est
 postérieure, et le 1er juillet 1992 ;
 
-- d'autre part, entre le 1er juillet 1992 et la date de clôture de l'exercice ;
+d'autre part, entre le 1er juillet 1992 et la date de clôture de l'exercice ;
 
-le montant de l'écart retenu est égal à celui constaté depuis la plus tardive
-des dates suivantes : date d'ouverture de l'exercice ou date d'acquisition.
+Le montant de l'écart retenu est égal à celui constaté depuis la plus tardive
+des dates suivantes : date d'ouverture de l'exercice ou date d'acquisition. (M)
+Modification.

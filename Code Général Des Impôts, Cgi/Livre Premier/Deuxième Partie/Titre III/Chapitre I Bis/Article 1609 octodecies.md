@@ -13,4 +13,4 @@ industriels et transformateurs auxquels les betteraves sont livrées.
 Cette taxe est perçue sur les betteraves qui sont directement exportées, qui
 font l'objet d'une livraison exonérée en vertu du I de l'article 262 ter ou
 d'une livraison dans un lieu situé dans un autre Etat membre de la Communauté
-économique européenne en application de l'article 258 A.
+européenne en application de l'article 258 A.

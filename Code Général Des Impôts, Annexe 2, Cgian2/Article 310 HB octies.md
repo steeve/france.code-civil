@@ -1,11 +1,11 @@
 Article 310 HB octies
 ----
-I. Les installations de désulfuration du gazole et du fioul lourd [*gas-oil,
-fuel*] ainsi que les installations de conversion profonde du fioul lourd en
-gazole, en fioul domestique ou en carburants pour automobiles, susceptibles
-d'être exonérées de taxe professionnelle en application de l'article 1464 E du
-code général des impôts, sont celles définies au A du II et répondant aux
-caractéristiques techniques définies au B du II.
+I. Les installations de désulfuration du gazole et du fioul lourd ainsi que les
+installations de conversion profonde du fioul lourd en gazole, en fioul
+domestique ou en carburants pour automobiles, susceptibles d'être exonérées de
+taxe professionnelle en application de l'article 1464 E du code général des
+impôts, sont celles définies au A du II et répondant aux caractéristiques
+techniques définies au B du II.
 
 Les seuils fixés au B du II seront modifiés, en tant que de besoin, par un
 arrêté conjoint du ministre du budget et du ministre de l'industrie et du
@@ -92,8 +92,8 @@ Teneur en soufre des fiouls lourds ou résidus lourds pétroliers :
 
 NF M 07 025.
 
-Ou toute autre norme nationale d'un Etat membre de la Communauté économique
-européenne reconnue équivalente.
+Ou toute autre norme nationale d'un Etat membre de la Communauté européenne
+reconnue équivalente.
 
 En cas de modification de l'une des normes ci-dessus, l'homologation de la norme
 modifiée entraîne substitution des dispositions de cette dernière à celles de la

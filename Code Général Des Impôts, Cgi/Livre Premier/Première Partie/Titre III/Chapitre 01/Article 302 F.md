@@ -5,9 +5,8 @@ Sont exonérées jusqu'au 30 juin 1999 :
 1° Les livraisons par des comptoirs de vente situés dans l'enceinte d'un
 aéroport ou d'un port, de biens à emporter dans les bagages personnels d'un
 voyageur se rendant par voie aérienne ou maritime dans un autre Etat membre de
-la Communauté économique européenne ainsi que les livraisons effectuées à bord
-d'un avion ou d'un bateau au cours d'un transport intracommunautaire de
-voyageurs ;
+la Communauté européenne ainsi que les livraisons effectuées à bord d'un avion
+ou d'un bateau au cours d'un transport intracommunautaire de voyageurs ;
 
 2° Les livraisons, par des comptoirs de vente situés dans l'enceinte d'un
 terminal du tunnel sous la Manche, de biens emportés dans les bagages personnels

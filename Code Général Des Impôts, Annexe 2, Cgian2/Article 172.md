@@ -6,9 +6,8 @@ du code général des impôts, et les prestations de services indiquées à l'ar
 de transports loués ou les prestations rendues ont été utilisés en totalité ou
 en partie, et, le cas échéant, dans quelle proportion :
 
-a. En France, dans un autre Etat membre de la Communauté économique européenne
-ou en dehors de la Communauté, s'il s'agit de la location de moyens de transport
-;
+a. En France, dans un autre Etat membre de la Communauté européenne ou en dehors
+de la Communauté, s'il s'agit de la location de moyens de transport ;
 
 b. En France ou hors de France, s'il s'agit de prestations désignées à l'article
 259 C précité.

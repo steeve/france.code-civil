@@ -2,9 +2,9 @@ Article 302 H
 ----
 Les personnes qui n'ont pas la qualité d'entrepositaire agréé peuvent, dans
 l'exercice de leur profession, recevoir des produits expédiés en suspension de
-droits en provenance d'un autre Etat membre de la Communauté économique
-européenne, si elles ont préalablement été agréées par l'administration en tant
-qu'opérateurs enregistrés.
+droits en provenance d'un autre Etat membre de la Communauté européenne, si
+elles ont préalablement été agréées par l'administration en tant qu'opérateurs
+enregistrés.
 
 L'administration accorde la qualité d'opérateur enregistré à la personne qui
 justifie être en mesure de remplir les obligations prévues à l'article 302 T et
