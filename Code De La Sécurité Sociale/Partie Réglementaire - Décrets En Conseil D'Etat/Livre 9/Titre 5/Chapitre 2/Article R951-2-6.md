@@ -1,5 +1,8 @@
 Article R951-2-6
 ----
-En matière disciplinaire la décision est prise en la seule présence du
-président, des membres de la commission, du secrétaire général et du commissaire
-du Gouvernement. La décision est signée du président [*condition de forme*].
+La Commission de contrôle des assurances, des mutuelles et des institutions de
+prévoyance est dispensée du ministère d'avocat devant la juridiction
+administrative, en demande, en défense ou encore en intervention. Les recours et
+les mémoires, lorsqu'ils ne sont pas présentés par le ministère d'un avocat,
+sont signés par le président de ladite commission en application des
+dispositions du dix-septième alinéa de l'article L. 951-3 du présent code.
