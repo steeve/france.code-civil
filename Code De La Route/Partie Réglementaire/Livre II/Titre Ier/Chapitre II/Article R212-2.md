@@ -10,7 +10,10 @@ II. - Etre âgé d'au moins vingt ans.
 III. - Etre titulaire depuis deux ans au moins du permis de conduire de la
 catégorie B en cours de validité.
 
-IV. - Remplir les conditions d'aptitude physique requises pour l'obtention du
+IV. Etre titulaire d'un permis de conduire dont le délai probatoire défini à
+l'article L. 223-1 est expiré.
+
+V. - Remplir les conditions d'aptitude physique requises pour l'obtention du
 permis de conduire des catégories C, E (C), D, E (D), dont les modalités sont
 fixées par arrêté du ministre chargé des transports. Cette aptitude est attestée
 par un certificat médical en cours de validité.

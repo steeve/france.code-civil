@@ -1,18 +1,19 @@
 Article R223-8
 ----
 I. - La personne responsable d'une formation spécifique, titulaire de l'agrément
-prévu à l'article R. 223-5, délivre, à l'issue de celle-ci, une attestation de
-suivi de stage à chacun des participants. Cette attestation n'est pas délivrée
-en cas d'absence totale ou partielle au stage. Elle est transmise au préfet du
-département ou à l'autorité compétente du territoire ou de la collectivité
-territoriale d'outre-mer, du lieu de suivi de stage, dans un délai de quinze
+prévu à l'article R. 223-5, délivre,à l'issue de celle-ci, une attestation de
+stage à toute personne qui l'a suivi en totalité. Cette attestation est
+transmise au représentant de l'Etat dans le département du lieu du stage, ou à
+l'autorité compétente de la collectivité d'outre-mer, dans un délai de quinze
 jours à compter de la fin de cette formation.
 
-II. - La délivrance de l'attestation de suivi de stage donne droit à la
-reconstitution de quatre points. Toutefois, après cette reconstitution, le
-nombre de points du permis de conduire de l'intéressé ne peut excéder onze
-points. Une nouvelle reconstitution partielle, après une formation spécifique,
-n'est possible qu'au terme d'un délai de deux ans.
+II.- -La délivrance de l'attestation de stage donne droit à la récupération de
+quatre points dans la limite du plafond affecté au permis de conduire de son
+titulaire. Une nouvelle reconstitution de points, après une formation
+spécifique, n'est possible qu'au terme d'un délai de deux ans. La délivrance de
+l'attestation de stage sensibilisation à la sécurité routière effectué dans le
+cadre des dispositions de l'article 131-35-1 du code pénal ne donne pas droit à
+récupération de points.
 
 III. - L'autorité administrative mentionnée au I ci-dessus procède à la
 reconstitution du nombre de points dans un délai d'un mois à compter de la
