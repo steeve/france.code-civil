@@ -2,10 +2,10 @@ Article R*213-1-1
 ----
 Une commission nationale consultative pour la faune sauvage captive, comprenant
 en nombre égal des représentants des ministères intéressés, des représentants
-d'établissements mentionnés à l'article L. 213-4 et des personnalités
-qualifiées, est instituée auprès du ministre chargé de la protection de la
-nature, qui en fixe par arrêté l'organisation et le fonctionnement et en nomme
-les membres.
+d'établissements mentionnés à l'article L. 413-4 du code de l'environnement et
+des personnalités qualifiées, est instituée auprès du ministre chargé de la
+protection de la nature, qui en fixe par arrêté l'organisation et le
+fonctionnement et en nomme les membres.
 
 Cette commission peut être consultée par le ministre sur les moyens propres à
 améliorer les conditions d'entretien ainsi que de présentation au public des
