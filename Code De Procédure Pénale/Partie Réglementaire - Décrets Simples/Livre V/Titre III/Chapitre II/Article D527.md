@@ -1,9 +1,9 @@
 Article D527
 ----
-Pour faciliter le contrôle de la situation des condamnés au regard de la
-libération conditionnelle, un fichier est tenu dans tous les établissements
-pénitentiaires qui fait apparaître la date de leur libération et la date de
-l'expiration du délai d'épreuve.
-
-Ce fichier est présenté aux autorités judiciaires et administratives inspectant
-ces établissements, et spécialement au juge de l'application des peines.
+Lorsqu'elles sont saisies, la juridiction régionale ou la juridiction nationale
+de la libération conditionnelle peuvent également procéder ou faire procéder à
+des mesures d'instruction complémentaires. La juridiction qui envisage
+d'accorder une libération conditionnelle est tenue de demander l'avis du
+procureur de la République du tribunal de grande instance dans le ressort duquel
+le condamné souhaite établir sa résidence si cet avis ne figure pas déjà dans le
+dossier.

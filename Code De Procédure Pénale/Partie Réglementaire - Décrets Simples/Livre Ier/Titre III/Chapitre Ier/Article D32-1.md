@@ -1,10 +1,19 @@
 Article D32-1
 ----
-Outre le titre de détention qu'il délivre, le juge d'instruction transmet au
-chef d'établissement une notice individuelle comportant des renseignements
-relatifs aux faits ayant motivé la poursuite de la personne mise en examen, à
-ses antécédents judiciaires et à sa personnalité.
+Le juge d'instruction qui saisit le juge des libertés et de la détention en
+application des dispositions du quatrième alinéa de l'article 137-1 aux fins de
+placement en détention provisoire de la personne mise en examen remplit une
+notice individuelle comportant des renseignements relatifs aux faits ayant
+motivé la poursuite de la personne, à ses antécédents judiciaires et à sa
+personnalité, qui est destinée, en cas de placement en détention, au chef de
+l'établissement pénitentiaire.
 
-Il indique sur cette notice, le cas échéant, les mesures qu'il prescrit en
-application des dispositions des articles D. 55, D. 56, D. 61, D. 65, D. 105, D.
-321, D. 337 et D. 421.
+S'il ordonne le placement de la personne en détention provisoire, le juge des
+libertés et de la détention transmet au chef d'établissement, outre le titre de
+détention qu'il délivre, cette notice individuelle revêtue de son visa, après
+l'avoir complétée s'il l'estime nécessaire.
+
+Les documents mentionnés à l'alinéa précédent peuvent être, le cas échéant,
+transmis au chef d'établissement par le juge d'instruction si le dossier de la
+procédure est retourné à ce magistrat avant la mise à exécution du titre de
+détention.

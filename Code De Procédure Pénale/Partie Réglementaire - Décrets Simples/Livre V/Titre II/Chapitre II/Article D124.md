@@ -13,6 +13,10 @@ magistrat.
 
 Conformément à l'article D. 117-2, le juge de l'application des peines prononce,
 le cas échéant, le retrait de la mesure lorsque celle-ci a été accordée par lui.
+Lorsqu'il s'agit d'une mesure mentionnée au sixième alinéa de l'article 722, ce
+retrait ne peut être prononcé qu'à l'issue du débat contradictoire prévu par cet
+article, qui doit intervenir dans les huit jours à compter de la réintégration
+du détenu.
 
 Lorsque le régime de semi-liberté a été décidé par la juridiction de jugement,
 le tribunal de grande instance du lieu de détention prononce son retrait

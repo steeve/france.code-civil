@@ -7,3 +7,6 @@ condamné ou sur celle qui, au contraire, leur paraît inadaptée.
 
 Ces avis sont joints aux documents mentionnés à l'article D. 77, en vue de leur
 transmission à l'établissement où le condamné est détenu.
+
+Une copie de ces avis est également adressée au juge de l'application des peines
+compétent ou à son secrétariat.

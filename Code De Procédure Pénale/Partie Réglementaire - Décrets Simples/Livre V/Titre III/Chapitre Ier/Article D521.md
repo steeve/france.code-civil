@@ -1,15 +1,21 @@
 Article D521
 ----
-Les services du ministère de la justice sont chargés de l'instruction du dossier
-; à cette fin, ils peuvent procéder ou faire procéder à tous examens, auditions,
-enquêtes ou autres mesures utiles. Le comité ou son président peuvent effectuer
-ou prescrire toutes investigations complémentaires.
+S'il l'estime utile, le premier président de la Cour de cassation désigne pour
+une durée de trois ans le conseiller de la cour le représentant pour présider la
+juridiction nationale de la libération conditionnelle ; si cette désignation est
+intervenue, il peut à tout moment décider de présider lui-même la juridiction.
 
-Un rapport sur les propositions de libération conditionnelle est présenté au
-comité consultatif par l'un des magistrats qui le composent ou, sur délégation
-de celui-ci, par un magistrat ou un fonctionnaire du ministère de la justice. A
-moins qu'il ne soit membre titulaire ou suppléant du comité, le rapporteur a
-voix consultative seulement pour les affaires qu'il rapporte.
+Les deux magistrats du siège de la Cour de cassation membres de la juridiction
+nationale sont désignés, pour une durée de trois ans, par le bureau de la Cour
+de cassation. Deux suppléants sont désignés dans les mêmes formes pour une même
+durée.
 
-Le comité prend connaissance des observations écrites présentées, le cas
-échéant, par le condamné ou son avocat.
+Le responsable des associations nationales de réinsertion des condamnés et le
+responsable des associations nationales d'aide aux victimes membres de la
+juridiction nationale de la libération conditionnelle sont nommés par arrêté du
+garde des sceaux, ministre de la justice, pour une durée de trois ans. Deux
+suppléants sont nommés dans les mêmes formes pour une même durée.
+
+La juridiction nationale est dotée d'un secrétariat-greffe. Les fonctions de
+secrétaire et de greffier de la juridiction sont remplies par un greffier de la
+Cour de cassation.

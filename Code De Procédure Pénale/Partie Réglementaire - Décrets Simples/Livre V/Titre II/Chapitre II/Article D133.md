@@ -11,6 +11,5 @@ rémunération des détenus et la durée de la concession. Ce contrat est signé
 le représentant de l'entreprise concessionnaire et le directeur régional des
 services pénitentiaires.
 
-Ainsi qu'il est dit à l'article D. 119, il ne peut recevoir effet à l'égard du
-placement de chaque détenu qu'après autorisation du juge de l'application des
-peines.
+Il ne peut recevoir effet à l'égard du placement de chaque détenu qu'après
+autorisation du juge de l'application des peines.

@@ -4,7 +4,8 @@ La décision accordant à un condamné le bénéfice de la libération condition
 peut subordonner l'octroi de cette mesure à l'une des conditions suivantes :
 
 1° Avoir satisfait à une épreuve de semi-liberté ou de placement à l'extérieur
-sans surveillance dont les modalités sont déterminées par ladite décision ;
+sans surveillance dont les modalités sont déterminées par ladite décision ou
+avoir bénéficié d'une ou plusieurs permissions de sortir ;
 
 2° Remettre tout ou partie de son compte nominatif au service pénitentiaire
 d'insertion et de probation, à charge pour ledit service de restitution par
