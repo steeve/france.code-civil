@@ -10,3 +10,6 @@ Par dérogation à l'article R. 229-2, les espèces de gibier ci-après ne peuve
 - sanglier, du 15 avril au 1er février ;
 
 - renard, lapin, du 15 avril au dernier jour de février.
+
+Le préfet peut autoriser le tir de nuit du sanglier, dans les conditions prévues
+à l'article L. 429-19.
