@@ -2,7 +2,7 @@ Article 208 quinquies
 ----
 I. Les personnes morales soumises de plein droit ou sur option à l'impôt sur les
 sociétés dans les conditions de droit commun, qui, dans les cinq ans de
-l'institution de l'une des zones prévues à l'article 1er de l'ordonnace n°
+l'institution de l'une des zones prévues à l'article 1er de l'ordonnance n°
 86-1113 du 15 octobre 1986, se seront créées pour y exploiter une entreprise,
 sont exonérées de cet impôt à raison des bénéfices réalisés jusqu'au terme du
 cent vingtième mois suivant leur création ;
@@ -14,8 +14,8 @@ telles activités ne peuvent pas bénéficier de cette exonération.
 II. L'exonération prévue au I ne s'applique pas :
 
 1° Aux produits des actions ou parts de société, et aux résultats de
-participations dans des organismes mentionnés aux articles 8, 8 quater, 239
-quater et 239 quater B ;
+participations dans des organismes mentionnés aux articles 8, 8 quater, 8
+quinquies, 239 quater et 239 quater B ;
 
 2° Aux subventions, libéralités et abandons de créances ;
 
@@ -58,9 +58,6 @@ indéterminée ou d'une durée de six mois au moins doit être égal ou supérie
 dix au cours de chaque exercice de la période d'exonération ; si l'effectif
 varie en cours d'exercice, il est calculé compte tenu de la durée de présence
 des salariés en cause pendant l'exercice.
-
-accordée sous réserve que l'effectif soit d'au moins dix salariés au cours du
-troisième exercice.
 
 IV. Si l'effectif minimal prévu au 3° du III n'est pas atteint au cours des deux
 premiers exercices, l'exonération est accordée sous réserve que l'effectif soit

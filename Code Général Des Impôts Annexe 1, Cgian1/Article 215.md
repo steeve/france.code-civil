@@ -5,9 +5,10 @@ poinçon visé à l'article 213 dès la fin de la fabrication et avant tout
 polissage ou vernissage.
 
 Les ouvrages qui ne sont pas marqués de ce poinçon en application des
-dispositions de l'article 545 du code général des impôts doivent exportés dans
-un délai n'excédant pas trente jours. A défaut, ils sont revêtus du poinçon de
-maître.
+dispositions de l'article 545 du code général des impôts doivent être expédiés
+vers les autres états membres de la Communauté économique européenne ou exportés
+vers les pays tiers dans un délai n'excédant pas trente jours. A défaut, ils
+sont revêtus du poinçon de maître (1).
 
 Au fur et à mesure de leur poinçonnement, les ouvrages sont inscrits par le
 fabricant sur un registre, mis gratuitement à sa disposition par
@@ -24,3 +25,5 @@ ouvrages pour servir de base à la prise en charge.
 Le premier de chaque mois, le fabricant doit remettre au bureau de la garantie
 un relevé, même négatif, des objets inscrits sur ce registre pendant le mois
 précédent.
+
+(1) Dispositions en vigueur à compter du 1er janvier 1993.

@@ -1,7 +1,6 @@
 Article 417
 ----
-A la demande des producteurs et sur la justification de leur nature, sont
-maintenus sous le régime ordinaire des vins :
+Les vins doux naturels mentionnés à l'article 402 bis sont :
 
 1° Les vins doux naturels à appellation d'origine contrôlée ;
 

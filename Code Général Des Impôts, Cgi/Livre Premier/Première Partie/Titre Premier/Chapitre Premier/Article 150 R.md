@@ -10,6 +10,4 @@ Lorsque le revenu global net est négatif, il est compensé, à due concurrence,
 avec la plus-value. L'excédent éventuel de plus-value est ensuite imposé suivant
 les règles de l'alinéa précédent.
 
-Les dispositions de l'article 163 ne sont pas applicables.
-
 (1) Annexe II, art. 74 R.
