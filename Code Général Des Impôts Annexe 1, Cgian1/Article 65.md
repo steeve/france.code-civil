@@ -12,8 +12,8 @@ campagne.
 Toute modification apportée à ce programme doit être déclarée quarante-huit
 heures à l'avance.
 
-Si les opérations envisagées nécessitent un accord préalable du service des
-alcools, un exemplaire de cet accord doit être joint à la déclaration.
+Si les opérations envisagées nécessitent un accord préalable , un exemplaire de
+cet accord doit être joint à la déclaration.
 
 Les dispositions ci-dessus s'appliquent en cas de mise en activité d'une
 distillerie en cours de campagne.
