@@ -22,7 +22,10 @@ publique ;
 
 6° Les délits prévus par le code rural en matière de chasse, de pêche et de
 protection de la faune et de la flore et les délits prévus par le décret-loi du
-9 janvier 1852 en matière de pêche maritime.
+9 janvier 1852 en matière de pêche maritime ;
+
+7° Les délits prévus par le code forestier et par le code de l'urbanisme pour la
+protection des bois et forêts.
 
 Toutefois, le tribunal statue obligatoirement dans les conditions prévues par le
 premier alinéa de l'article 398 lorsque le prévenu est en état de détention

@@ -1,6 +1,6 @@
 Article L2541-12
 ----
-- Le conseil municipal délibère notamment sur les objets suivants :
+Le conseil municipal délibère notamment sur les objets suivants :
 
 1° La création et la suppression d'emplois communaux permanents de
 l'administration communale ;
@@ -34,7 +34,7 @@ ainsi que leurs plans d'alignement ;
 11° La radiation d'inscriptions hypothécaires prises au profit de la commune et
 le désistement des formalités de la purge des hypothèques ;
 
-12° L'exercice du droit de vaine päture et de parcours ;
+12° L'exercice du droit de vaine pâture et de parcours ;
 
 13° Les engagements en garantie ;
 
@@ -42,3 +42,7 @@ le désistement des formalités de la purge des hypothèques ;
 
 Le conseil municipal délibère, en outre, sur les questions que les lois et
 règlements renvoient à son examen.
+
+Dans les communes appartenant à une agglomération de plus de 100 000 habitants,
+le conseil municipal délibère sur les conditions d'exercice du droit de chasse
+sur les terrains soumis à une forte fréquentation du public.

@@ -17,7 +17,7 @@ de la consommation, ou comportent une révision des conditions de production
 déterminées par une loi spéciale ou en application des articles L. 115-8 à L.
 115-15 du code de la consommation.
 
-Quiconque a vendu, mis en vente ou en circulation des produits agricoles ou
-alimentaires, bruts ou transformés, en violation des dispositions du présent
-chapitre et des règlements pris pour leur application est puni des peines
-prévues à l'article L. 115-16 du code de la consommation.
+Quiconque a vendu, mis en vente ou en circulation des produits agricoles,
+forestiers ou alimentaires, bruts ou transformés, en violation des dispositions
+du présent chapitre et des règlements pris pour leur application est puni des
+peines prévues à l'article L. 115-16 du code de la consommation.

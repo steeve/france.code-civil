@@ -1,7 +1,7 @@
 Article L130-1
 ----
 Les plans locaux d'urbanisme peuvent classer comme espaces boisés, les bois,
-forêts, parcs à conserver, à protéger ou à créer, qu'ils soient soumis ou non au
+forêts, parcs à conserver, à protéger ou à créer, qu'ils relèvent ou non du
 régime forestier, enclos ou non, attenant ou non à des habitations. Ce
 classement peut s'appliquer également à des arbres isolés, des haies ou réseaux
 de haies, des plantations d'alignements.
@@ -11,13 +11,13 @@ du sol de nature à compromettre la conservation, la protection ou la création
 des boisements.
 
 Nonobstant toutes dispositions contraires, il entraîne le rejet de plein droit
-de la demande d'autorisation de défrichement prévue à l'article 157 du code
-forestier.
+de la demande d'autorisation de défrichement prévue aux chapitres Ier et II du
+titre Ier livre III du code forestier.
 
 Il est fait exception à ces interdictions pour l'exploitation des produits
 minéraux importants pour l'économie nationale ou régionale, et dont les
 gisements ont fait l'objet d'une reconnaissance par un plan d'occupation des
-sols rendu public approuvé avant le 10 juillet 1973 ou par le document
+sols rendu public ou approuvé avant le 10 juillet 1973 ou par le document
 d'urbanisme en tenant lieu approuvé avant la même date. Dans ce cas,
 l'autorisation ne peut être accordée que si le pétitionnaire s'engage
 préalablement à réaménager le site exploité et si les conséquences de
@@ -34,12 +34,17 @@ suivants :
 - S'il est fait application des dispositions des livres I et II du code
 forestier ;
 
-- S'il est fait application d'un plan simple de gestion approuvé, conformément
-aux dispositions de l'article 6 de la loi n° 63-810 du 6 août 1963 ;
+- S'il est fait application d'un plan simple de gestion approuvé, conformément à
+l'article L. 222-1 du code forestier ;
 
 - Si les coupes entrent dans le cadre d'une autorisation par catégories définies
 par arrêté préfectoral, après avis du centre régional de la propriété
 forestière.
+
+La décision prescrivant l'élaboration d'un plan local d'urbanisme peut également
+soumettre à l'autorisation préalable prévue aux quatre alinéas précédents, sur
+tout ou partie du territoire concerné par ce plan, les coupes ou abattages
+d'arbres isolés, de haies ou réseaux de haies et de plantations d'alignement.
 
 L'autorisation de coupe et d'abattage d'arbres est délivrée dans les formes,
 conditions et délais déterminés par décret en Conseil d'Etat :

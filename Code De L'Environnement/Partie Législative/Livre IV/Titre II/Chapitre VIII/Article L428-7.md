@@ -5,7 +5,7 @@ qu'il y a récidive, une peine d'emprisonnement de trois mois peut être prononc
 pour les contraventions concernant :
 
 1° La chasse sur le terrain d'autrui, le non-respect des cahiers des charges
-relatifs à l'exploitation de la chasse dans les forêts soumises au régime
+relatifs à l'exploitation de la chasse dans les forêts relévant du régime
 forestier et dans les propriétés des collectivités et établissement publics ;
 
 2° Le défaut de permis ou de licence de chasse valable ;

@@ -14,6 +14,10 @@ millions de francs, à 3,8 % pour celles dont le chiffre d'affaires est compris
 entre 140 millions de francs et 500 millions de francs et à 4 % pour celles dont
 le chiffre d'affaires excède cette dernière limite.
 
+Par exception aux dispositions des deux alinéas précédents, pour les impositions
+établies au titre de 2002 et des années suivantes, le taux de plafonnement est
+fixé à 1 % pour les entreprises de travaux agricoles, ruraux et forestiers.
+
 I bis. Le plafonnement prévu au I s'applique sur la cotisation de taxe
 professionnelle diminuée, le cas échéant, de l'ensemble des réductions et
 dégrèvements dont cette cotisation peut faire l'objet, à l'exception du
@@ -28,12 +32,12 @@ des impositions établies au titre de 1996 et des années suivantes, la cotisati
 de taxe professionnelle s'entend de la somme des cotisations de chaque
 établissement calculées en retenant :
 
-D'une part, la base servant au calcul de la cotisation de taxe professionnelle
+d'une part, la base servant au calcul de la cotisation de taxe professionnelle
 établie au titre de l'année d'imposition au profit de chaque collectivité locale
 et établissement public de coopération intercommunale doté d'une fiscalité
 propre ;
 
-Et, d'autre part, le taux de chaque collectivité ou établissement public de
+et, d'autre part, le taux de chaque collectivité ou établissement public de
 coopération intercommunale à fiscalité propre au titre de 1995 ou le taux de
 l'année d'imposition, s'il est inférieur. Pour les communes qui, en 1995,
 appartenaient à un établissement public de coopération intercommunale sans
@@ -57,7 +61,7 @@ ou des collectivités auxquelles l'établissement public de coopération
 intercommunale s'est substitué.
 
 Pour les communes membres d'un établissement public de coopération
-intercommunale à fiscalité additionnelle , la cotisation afférente à la part de
+intercommunale à fiscalité additionnelle, la cotisation afférente à la part de
 la commune et de l'établissement public de coopération intercommunale est
 calculée en retenant la somme des taux votés par la commune et par
 l'établissement public de coopération intercommunale en 1995, ou la somme des
@@ -86,7 +90,7 @@ coopération intercommunale perçoit, pour la première fois, à compter de l'an
 l'article 1609 nonies C, le taux à retenir pour le calcul de la cotisation
 éligible au plafonnement est le plus faible des deux taux suivants :
 
-a. Le taux retenu pour le calcul des cotisations éligibles au plafonnement
+a. le taux retenu pour le calcul des cotisations éligibles au plafonnement
 l'année précédant la première année où l'établissement public de coopération
 intercommunale perçoit la taxe professionnelle conformément à l'article 1609
 nonies C pour la commune et, le cas échéant, le ou les établissements publics de
@@ -129,12 +133,12 @@ constaté pour la période définie au I.
 2. Pour la généralité des entreprises, la production de l'exercice est égale à
 la différence entre :
 
-D'une part, les ventes, les travaux, les prestations de services ou les
+d'une part, les ventes, les travaux, les prestations de services ou les
 recettes, les produits accessoires ; les subventions d'exploitation ; les
 ristournes, rabais et remises obtenus ; les travaux faits par l'entreprise pour
 elle-même ; les stocks à la fin de l'exercice ;
 
-Et, d'autre part, les achats de matières et marchandises, droits de douane
+et, d'autre part, les achats de matières et marchandises, droits de douane
 compris ; les réductions sur ventes ; les stocks au début de l'exercice.
 
 Les consommations de biens et services en provenance de tiers comprennent : les
@@ -155,20 +159,20 @@ sont déduits de la valeur ajoutée du bailleur.
 activité exclusive la gestion des valeurs mobilières est égale à la différence
 entre :
 
-D'une part, les produits d'exploitation bancaires et produits accessoires ;
+d'une part, les produits d'exploitation bancaires et produits accessoires ;
 
-Et, d'autre part, les charges d'exploitation bancaires.
+et, d'autre part, les charges d'exploitation bancaires.
 
 4. En ce qui concerne les entreprises d'assurance, de capitalisation et de
 réassurance de toute nature, la production est égale à la différence entre :
 
-D'une part, les primes ou cotisations ; les produits financiers ; les produits
+d'une part, les primes ou cotisations ; les produits financiers ; les produits
 accessoires ; les subventions d'exploitation ; les ristournes, rabais et remises
 obtenus ; les commissions et participations reçues des réassureurs ; les travaux
 faits par l'entreprise pour elle-même ; les provisions techniques au début de
 l'exercice.
 
-Et, d'autre part, les prestations ; les réductions et ristournes de primes ; les
+et, d'autre part, les prestations ; les réductions et ristournes de primes ; les
 frais financiers ; les provisions techniques à la fin de l'exercice.
 
 Les consommations intermédiaires comprennent également les commissions versées

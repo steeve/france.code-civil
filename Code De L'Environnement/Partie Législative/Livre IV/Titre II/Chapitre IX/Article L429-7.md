@@ -1,8 +1,9 @@
 Article L429-7
 ----
-I. - La chasse sur le ban communal est louée pour une durée de neuf ans par
-adjudication publique. Le locataire en place depuis trois ans au moins bénéficie
-au terme du bail d'un droit de priorité de relocation.
+Sous réserve des dispositions de l'article L. 2541-12 du code général des
+collectivités territoriales, la chasse sur le ban communal est louée pour une
+durée de neuf ans par adjudication publique. Le locataire en place depuis trois
+ans au moins bénéficie au terme du bail d'un droit de priorité de relocation.
 
 Toutefois, après avis de la commission consultative communale ou intercommunale
 de chasse, le bail peut être renouvelé pour une même durée au profit du
@@ -25,7 +26,7 @@ une durée de neuf ans par une procédure d'appel d'offres.
 Le ban peut être divisé en plusieurs lots d'une contenance d'au moins deux cents
 hectares.
 
-II. - La location a lieu conformément aux conditions d'un règlement, dénommé
+II.-La location a lieu conformément aux conditions d'un règlement, dénommé
 cahier des charges type, arrêté par le préfet, après consultation des
 organisations représentatives des communes, des chasseurs, des agriculteurs et
 des propriétaires agricoles et forestiers.

@@ -12,6 +12,12 @@ leurs droits de chasse ainsi que, s'ils sont titulaires d'un permis de chasser,
 leurs conjoints, ascendants et descendants, gendres et belles-filles du ou des
 conjoints apporteurs ;
 
+2° bis Soit personnes ayant fait apport de leurs droits de chasse attachés à une
+ou des parcelles préalablement au transfert de la propriété de celles-ci à un
+groupement forestier, ainsi que, s'ils sont titulaires d'un permis de chasser,
+leurs conjoints, ascendants et descendants, gendres et belles-filles du ou des
+conjoints apporteurs ;
+
 3° Soit preneurs d'un bien rural lorsque le propriétaire a fait apport de son
 droit de chasse ;
 

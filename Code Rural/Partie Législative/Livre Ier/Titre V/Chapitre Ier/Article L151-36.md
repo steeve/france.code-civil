@@ -8,9 +8,11 @@ de vue agricole ou forestier, un caractère d'intérêt général ou d'urgence :
 
 1° Lutte contre l'érosion et les avalanches, défense contre les torrents,
 reboisement et aménagement des versants, défense contre les incendies et
-réalisation de travaux de desserte forestière ;
+réalisation de travaux de desserte forestière, pastorale ou permettant l'accès
+aux équipements répondant aux objectifs de protection précités ;
 
-2° (alinéa abrogé) ;
+2° Travaux de débroussaillement des terrains mentionnés à l'article L. 126-7 du
+présent code ;
 
 3° Curage, approfondissement, redressement et régularisation des canaux et cours
 d'eau non domaniaux et des canaux de dessèchement et d'irrigation ;

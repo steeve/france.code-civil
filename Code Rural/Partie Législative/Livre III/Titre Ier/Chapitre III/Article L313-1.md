@@ -25,21 +25,19 @@ Elle est appelée à donner son avis sur les autorisations sollicitées en
 application des articles L. 331-2 et L. 331-3, ainsi que sur le schéma directeur
 et les superficies mentionnés aux articles L. 312-1, L. 312-5 et L. 314-3.
 
-La commission donne son avis sur les décisions individuelles accordant ou
-refusant :
+La commission donne son avis sur les décisions individuelles prises en
+application du règlement (CE) n° 1257/1999 du Conseil du 17 mai 1999 concernant
+le soutien au développement rural par le Fonds européen d'orientation et de
+garantie agricole (FEOGA) et modifiant et abrogeant certains règlements,
+accordant ou refusant :
 
-- les aides à l'installation des jeunes agriculteurs et les aides à la
-modernisation des exploitations agricoles prises en application du règlement
-communautaire n° 91-2328 du 15 juillet 1991 ;
+- les aides à l'installation des jeunes agriculteurs ;
 
-- la préretraite, en application du règlement communautaire n° 92-2079 du 30
-juin 1992 ;
+- les aides à l'investissement dans les exploitations agricoles ;
 
-- les aides au boisement régies par le règlement communautaire n° 92-2080 du 30
-juin 1992 ;
+- la préretraite ;
 
-- la souscription de contrats en faveur de l'environnement régis par le
-règlement communautaire n° 92-2078 du 30 juin 1992 ;
+- les aides aux boisements ;
 
 - ainsi que sur l'attribution d'aides aux exploitations agricoles dont la
 viabilité est menacée.

@@ -55,3 +55,7 @@ négociation est portée à trois ans.
 Les mesures permettant d'atteindre les objectifs visés à l'alinéa précédent
 peuvent être également déterminées dans le cadre des négociations visées au
 premier alinéa du présent article.
+
+Dans les entreprises visées au 3° de l'article L. 722-1 du code rural, la
+négociation prévue aux deux alinéas précédents porte sur l'accès aux garanties
+collectives mentionnées à l'article L. 911-2 du code de la sécurité sociale.

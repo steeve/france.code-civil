@@ -10,3 +10,7 @@ déplacements limités.
 Un décret en Conseil d'Etat fixe les conditions dans lesquelles l'inspecteur du
 travail est informé de la composition de ce groupement d'employeurs et lui
 accorde un agrément.
+
+Les dispositions du présent article s'appliquent également aux groupements
+d'employeurs ayant pour objet principal le remplacement des chefs d'entreprise
+exerçant les activités mentionnées à l'article L. 722-3 du code rural.

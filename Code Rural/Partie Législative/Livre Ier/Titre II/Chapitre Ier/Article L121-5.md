@@ -24,7 +24,7 @@ ou suppléants sont désignés selon les modalités prévues au premier alinéa 
 présent article parmi des personnalités qualifiées en raison de leur expérience
 en matière d'aménagement forestier.
 
-En outre, lorsque des parcelles soumises au régime forestier sont intéressées
+En outre, lorsque des parcelles relevant du régime forestier sont intéressées
 par l'une des opérations mentionnées ci-dessus, le représentant de l'office
 national des forêts fait partie de droit de la commission communale ou
 intercommunale.
