@@ -1,0 +1,4 @@
+Article R9
+----
+Les membres de la commission et leurs suppléants sont nommés par arrêté conjoint
+du garde des sceaux, ministre de la Justice, et du ministre de l'Intérieur.
