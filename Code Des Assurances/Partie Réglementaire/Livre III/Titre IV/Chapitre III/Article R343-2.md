@@ -1,140 +1,267 @@
 Article R343-2
 ----
-Comptes spéciaux.
+Comptes de produits par nature.
 
-00 Engagements en faveur de l'entreprise.
+70 Primes ou cotisations en France.
 
-000 Avals, cautions, garanties contractuels reçus.
+701 Primes (affaires directes vie).
 
-001 Avals, cautions, garanties légaux dont bénéficie l'entreprise. Autres
-engagements reçus par l'entreprise.
+7010 Primes périodiques émises.
 
-009 Créditeurs éventuels.
+7011 Primes uniques émises.
 
-01 Engagements à la charge de l'entreprise.
+7013 Coûts de polices et accessoires.
 
-010 Avals, cautions et garanties contractuels donnés par l'entreprise.
+7019 Annulations.
 
-0100 Garantie de rachat de créances hypothécaires ou de financement de prêts
-hypothécaires.
+70190 Sur émissions de l'exercice.
 
-0101 Garantie d'acquisition d'immeubles d'habitation.
+70191 Sur émissions des exercices antérieurs.
 
-01010 Habitations neuves.
+702 Primes (affaires directes dommages, RC et risques divers).
 
-01011 Habitations anciennes.
+7022 Primes émises.
 
-0102 Garantie d'acquisition d'immeubles commerciaux et industriels.
+70220 Sur exercice courant.
 
-0103 Garantie d'acquisition de titres représentatifs d'immeubles d'habitation.
+70221 Sur exercices antérieurs.
 
-01030 Habitations neuves.
+7023 Coûts de polices et accessoires.
 
-01031 Habitations anciennes.
+70230 Sur exercice courant.
 
-0104 Garantie d'acquisition de titres représentatifs d'immeubles commerciaux et
-industriels.
+70231 Sur exercices antérieurs.
 
-0105 Filiales.
+7024 Variation de la prévision de primes acquises et non émises.
 
-0106 Garantie de rachat d'obligations.
+7025 Rappels de cotisations.
 
-0107 Divers.
+7026 Autres rappels de primes.
 
-011 Avals, cautions et garanties légaux à la charge de l'entreprise.
+7029 Annulations.
 
-012 Engagements contractuels de solidarité.
+70290 Sur émissions de l'exercice.
 
-0120 Pour participation à une association ou un groupement de coassurance ou de
-coréassurance.
+70291 Sur émissions des exercices antérieurs.
 
-013 Engagements légaux de solidarité.
+703 Primes (autres affaires : opérations non régies par l'article L. 310-1).
 
-014 Engagements contractuels résultant de l'inexécution d'un contrat.
+7030 Primes périodiques émises.
 
-015 Engagements légaux résultant de l'inexécution d'un contrat.
+7031 Primes uniques émises.
 
-016 Autres engagements contractuels.
+7033 Coûts de polices et accessoires.
 
-017 Autres engagements légaux.
+7039 Annulations.
 
-0170 Droits d'adhésion non remboursés.
+70390 Sur émissions de l'exercice.
 
-019 Débiteurs éventuels.
+70391 Sur émissions des exercices antérieurs.
 
-03 Autres charges envers des tiers.
+704 Primes (acceptations vie).
 
-035 Filiales.
+7040 Primes.
 
-037 Divers.
+7048 Entrées de portefeuille.
 
-039 Débiteurs éventuels.
+7049 Retraits de portefeuille.
 
-05 Plan d'investissement intéressant l'entreprise.
+705 Primes (acceptations dommages, RC et risques divers).
 
-052 Opérations immobilières.
+7050 Primes.
 
-057 Divers.
+7058 Entrées de portefeuille.
 
-059 Montant des investissements projetés.
+7059 Retraits de portefeuille.
 
-06 Valeurs reçues en nantissement des cessionnaires et rétrocessionnaires.
+706 Primes (acceptations autres affaires).
 
-061 Immobilisations en France.
+7060 Primes.
 
-0611 Parts de sociétés civiles à objet foncier.
+7068 Entrées de portefeuille.
 
-0613 Parts ou actions de sociétés immobilières non cotées.
+7069 Retraits de portefeuille.
 
-063 Valeurs mobilières et titres assimilés.
+709 Part des réassureurs dans les primes.
 
-0630 Valeurs d'Etat ;
+7091 Affaires directes vie.
 
-0631 Autres valeurs cotées (obligations et titres participatifs) ;
+70910 Primes.
 
-0632 Autres valeurs cotées (actions et autres valeurs mobilières) ;
+70918 Entrées de portefeuille.
 
-0633 Actions de sociétés d'investissement à capital variable et parts de fonds
-communs de placements ;
+70919 Retraits de portefeuille.
 
-06331 Sociétés d'investissement à capital variable et fonds communs de
-placements d'obligations et de titres de créances négociables.
+7092 Affaires directes dommages, RC et risques divers.
 
-06336 Autres sociétés d'investissement à capital variable et fonds communs de
-placements.
+70920 Primes.
 
-0634 Actions de Sicav et parts de FCP
+70928 Entrées de portefeuille.
 
-06341 Sicav et F.C.P d'obligations.
+70929 Retraits de portefeuille.
 
-06342 Sicav et F.C.P diversifiés.
+7093 Autres affaires.
 
-0636 Valeurs étrangères cotées en France (obligations).
+70930 Primes.
 
-637 Valeurs étrangères cotées en France (actions).
+70938 Entrées de portefeuille.
 
-069 Cessionnaires et rétrocessionnaires propriétaires des valeurs.
+70939 Retraits de portefeuille.
 
-07 Valeurs appartenant à des institutions de prévoyance régies par l'article L.
-732-1 du code de la sécurité sociale.
+7094 Acceptations vie.
 
-070 Valeurs.
+70940 Primes.
 
-079 Institutions propriétaires de valeurs.
+70948 Entrées de portefeuille.
 
-08 Valeurs remises par des organismes réassurés avec caution solidaire ou avec
-substitution.
+70949 Retraits de portefeuille.
 
-080 Valeurs.
+7095 Acceptations dommages, RC et risques divers.
 
-089 Organismes propriétaires des valeurs.
+70950 Primes.
 
-09 Autres valeurs détenues par l'entreprise.
+70958 Entrées de portefeuille.
 
-090 Valeurs déposées par les administrateurs.
+70929 Retraits de portefeuille.
 
-092 Valeurs déposées par les agents.
+7096 Acceptations autres affaires.
 
-094 Valeurs déposées par d'autres tiers.
+70960 Primes.
 
-099 Propriétaires des valeurs.
+70968 Entrées de portefeuille.
+
+70969 Retraits de portefeuille.
+
+71 Subventions d'exploitation reçues en France.
+
+73 Réductions et ristournes de primes en France.
+
+74 Ristournes, rabais et remises obtenus en France.
+
+75 Commissions et participations reçues des réassureurs en France.
+
+751 Affaires directes vie.
+
+752 Affaires directes dommages, RC et risques divers.
+
+753 Autres affaires.
+
+754 Acceptations vie.
+
+755 Acceptations dommages, RC et risques divers.
+
+756 Acceptations autres affaires.
+
+76 Produits accessoires en France.
+
+760 Produits des services exploités dans l'intérêt du personnel.
+
+7601 Cantines.
+
+7609 Divers.
+
+762 Ventes de déchets.
+
+765 Rémunérations et produits divers.
+
+77 Produits financiers en France.
+
+771 Revenus des immeubles.
+
+773 Revenus des titres de placement.
+
+7731 Revenus des obligations.
+
+7732 Produits des différences sur les prix de remboursement à percevoir.
+
+7735 Revenus des actions.
+
+774 Intérêts des prêts.
+
+7740 Au personnel.
+
+7741 Aux agents.
+
+7742 A des tiers.
+
+775 Revenus des titres de participation.
+
+776 Intérêts des comptes courants et des comptes de dépôts débiteurs, intérêts
+bancaires.
+
+7760 Comptes courants avec les cessionnaires et rétrocessionnaires.
+
+7761 Comptes courants avec les cédants et rétrocédants.
+
+7764 Autres comptes débiteurs.
+
+7765 Intérêts bancaires.
+
+7767 Dépôts espèces effectués chez les cédants.
+
+7769 Autres dépôts.
+
+777 Jetons de présence, tantièmes, rémunérations d'administrateurs.
+
+778 Autres produits financiers.
+
+779 Ajustement des valeurs affectées à la représentation des opérations
+d'assurance à capital variable.
+
+78 Travaux faits par l'entreprise pour elle-même. Charges non imputables à
+l'exploitation de l'exercice, en France.
+
+780 Travaux faits par l'entreprise pour elle-même.
+
+7800 Travaux de l'entreprise pour frais d'établissement (à l'exclusion des frais
+d'acquisition des contrats).
+
+785 Charges non imputables à l'exploitation de l'exercice.
+
+7850 Charges couvertes par des provisions.
+
+7857 Charges imputables à pertes et profits.
+
+79 Produits par nature à l'étranger.
+
+790 Primes.
+
+7901 Affaires directes vie.
+
+7902 Affaires directes dommages, RC et risques divers.
+
+7904 Acceptations vie.
+
+7905 Acceptations dommages, RC et risques divers.
+
+7909 Part des réassureurs dans les primes.
+
+791 Subventions d'exploitation reçues.
+
+793 Réductions et ristournes de primes.
+
+794 Ristournes, rabais et remises obtenus.
+
+795 Commissions et participations reçues des réassureurs.
+
+796 Produits accessoires.
+
+797 Produits financiers.
+
+7971 Revenus des immeubles.
+
+7973 Revenus des titres de placement.
+
+7974 Intérêts des prêts.
+
+7975 Revenus des titres de participation.
+
+7976 Intérêts des comptes courants et des comptes de dépôts débiteurs, intérêts
+bancaires.
+
+7977 Jetons de présence, tantièmes, rémunérations d'administrateurs.
+
+7978 Autres produits financiers.
+
+798 Travaux faits par l'entreprise pour elle-même, charges non imputables à
+l'exploitation de l'exercice.
