@@ -16,8 +16,9 @@ liste de candidats ;
 
 d) de mettre en place au lieu de l'élection et avant l'ouverture du scrutin les
 bulletins de vote de chaque candidat ou liste de candidats, en nombre au moins
-égal au nombre des membres du collège électoral ; la surveillance des bulletins
-est assurée par un employé désigné par la commission ;
+égal au nombre des membres du collège électoral, sauf dans les départements où
+il est fait utilisation d'une machine à voter; la surveillance des bulletins est
+assurée par un employé désigné par la commission ;
 
 e) dans les départements où fonctionne le scrutin majoritaire, de mettre en
 place pour le deuxième tour de scrutin un nombre de bulletins en blanc
