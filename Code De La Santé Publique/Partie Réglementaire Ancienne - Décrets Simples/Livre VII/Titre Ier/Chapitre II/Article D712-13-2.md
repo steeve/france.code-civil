@@ -28,8 +28,7 @@ dépasse le nombre (P) résultant de l'application du plafond, le nombre total d
 lits ou places à supprimer est ramené à ce nombre P. A cet effet, la réduction
 propre à chaque discipline est multipliée par un coefficient égal à :
 
-
-PR
+P/R
 
 II. - Lorsque le regroupement est autorisé en application des deuxième et
 troisième alinéas de l'article L. 712-11, la réduction de capacité s'opère dans

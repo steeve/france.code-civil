@@ -3,10 +3,11 @@ Article D712-32
 Le nombre et la qualification des personnels médicaux, auxiliaires médicaux,
 personnels de rééducation ainsi que le nombre d'aides-soignants exerçant dans
 les structures et unités de soins mentionnées à l'article D. 712-30 sont
-appréciés par le préfet de région, au vu du dossier mentionné au I-B de
-l'article R. 712-40, en fonction de la nature et du volume d'activité effectués,
-de la fréquence des prestations délivrées, de leurs caractéristiques techniques
-et de l'importance des risques encourus par les patients.
+appréciés par le directeur de l'agence régionale de l'hospitalisation, au vu du
+dossier mentionné au I-B de l'article R. 712-40, en fonction de la nature et du
+volume d'activité effectués, de la fréquence des prestations délivrées, de leurs
+caractéristiques techniques et de l'importance des risques encourus par les
+patients.
 
 Pendant les heures d'ouverture mentionnées à l'article D. 712-30, est requise,
 dans la structure, la présence minimale permanente :
