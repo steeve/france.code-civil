@@ -2,8 +2,8 @@ Article 40 A
 ----
 Les contribuables soumis obligatoirement au régime de la déclaration contrôlée
 mentionné à l'article 96 du code général des impôts ou qui ont opté pour ce
-régime sont tenus de produire, avant le 1er mars de chaque année, une
-déclaration indiquant :
+régime sont tenus de produire, ((au plus tard le 30 avril)) (M) de chaque année,
+une déclaration indiquant :
 
 a) La nature de l'activité qu'ils exercent;
 
@@ -23,15 +23,15 @@ e) Le nom et l'adresse du comptable ou du conseil dont ils utilisent
 f) Le montant des plus-values nettes;
 
 g) Le tableau des immobilisations affectées à l'exercice de la profession et des
-amortissements correspondants;
+amortissements correspondants ;
 
-h) La nature et le montant de leurs recettes;
+h) La nature et le montant de leurs recettes ;
 
-i) La nature et le montant de leurs dépenses professionnelles;
+i) La nature et le montant de leurs dépenses professionnelles ;
 
-j) Le montant du bénéfice imposable ou du déficit;
+j) Le montant du bénéfice imposable ou du déficit ;
 
-k) Le montant de la taxe sur la valeur ajoutée incluse dans les recettes;
+k) Le montant de la taxe sur la valeur ajoutée incluse dans les recettes ;
 
 l) En ce qui concerne les adhérents à une association agréée : le nom et
 l'adresse de l'association.
@@ -39,3 +39,5 @@ l'adresse de l'association.
 Cette déclaration est adressée au service des impôts dont dépend le lieu
 d'exercice de la profession ou le principal établissement, en simple exemplaire,
 à l'aide d'imprimés établis par l'administration.
+
+(M) Modification.

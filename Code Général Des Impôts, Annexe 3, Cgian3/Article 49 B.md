@@ -23,10 +23,15 @@ d'intermédiaire, par le débiteur ; dans la situation visée au b du 2, elle es
 faite, suivant le cas, par le débiteur ou le créancier au nom duquel l'ensemble
 des contrats ont été conclus.
 
-La déclaration est adressée dans le premier mois de chaque année à la direction
-des services fiscaux du lieu du domicile réel ou du principal établissement de
-la personne physique ou morale déclarante ; elle mentionne les contrats de prêts
-conclus au cours de la précédente année. Elle est établie sur une formule
-délivrée par l'administration.
+Lorsque la déclaration est souscrite par l'intermédiaire, celle-ci est adressée
+dans le premier mois de chaque année à la direction des services fiscaux du lieu
+du domicile réel ou du principal établissement de la personne physique ou morale
+déclarante.
 
-(1) Annexe IV, art. 23 L.
+Lorsque le débiteur ou le créancier est tenu de souscrire la déclaration en
+application des dispositions du premier alinéa, celle-ci est adressée au centre
+des impôts dont il dépend en même temps que la déclaration de ses revenus ou que
+la déclaration de ses résultats.
+
+La déclaration mentionne les contrats de prêts conclus au cours de la précédente
+année. Elle est établie sur une formule délivrée par l'administration (2).
