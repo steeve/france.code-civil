@@ -6,4 +6,4 @@ parties ainsi que, selon le cas, le lieu où la transcription doit être faite o
 les lieux et dates des actes en marge desquels la mention doit être portée.
 
 Seul le dispositif de la décision est transmis au dépositaire des registres de
-l'état civil. Les transcriptions et mention du dispositif sont aussitôt opérées.
+l'état civil. Les transcription et mention du dispositif sont aussitôt opérées.
