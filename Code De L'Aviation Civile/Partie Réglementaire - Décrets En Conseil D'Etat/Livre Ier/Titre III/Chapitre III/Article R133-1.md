@@ -22,8 +22,23 @@ code.
 II. - 1° Un certificat de navigabilité est délivré par le ministre chargé de
 l'aviation civile pour un aéronef lorsque :
 
-a) Le postulant a démontré la conformité de cet aéronef à un type déjà certifié
-dans les conditions fixées au 2° ci-après ;
+a) Le postulant a démontré la conformité de cet aéronef :
+
+- soit à un type déjà certifié dans les conditions fixées au 2° ci-après ;
+
+- soit, lorsque l'aéronef était précédemment en service dans un Etat membre de
+la Communauté européenne ou dans un autre Etat partie à l'Espace économique
+européen, aux conditions techniques de cet Etat présentant un niveau de sécurité
+équivalant aux conditions relatives à la sécurité notifiées pour le type
+correspondant dans les conditions fixées au 2° ci-après ;
+
+- soit à un aéronef pour lequel il n'était pas exigé de certificat de type par
+la réglementation en vigueur à la date de la première immatriculation d'un
+appareil de ce type. Dans ce cas, il doit exister à la date de la demande un
+autre exemplaire détenant un certificat de navigabilité français valide ou
+périmé depuis moins d'un an. Le postulant doit apporter en outre la preuve que
+l'aéronef était précédemment en service dans un Etat membre de la Communauté
+européenne ou dans un autre Etat partie à l'Espace économique européen.
 
 b) Le postulant a attesté de cette conformité auprès du ministre chargé de
 l'aviation civile ;
