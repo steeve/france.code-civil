@@ -4,8 +4,8 @@ Les contrôles de la réalité et du bien-fondé des dépenses de formation expo
 au titre du crédit d'impôt-formation mentionné à l'article L. 45 D, effectués
 par les agents commissionnés par l'autorité administrative de l'Etat chargée de
 la formation professionnelle, peuvent être opérés soit sur pièces, soit sur
-place conformément à la procédure prévue à l'article R. 950-24 du code du
-travail.
+place conformément à la procédure prévue aux articles R. 991-1 à R. 991-8 du
+code du travail.
 
 A l'occasion des contrôles sur place, les employeurs sont tenus de présenter les
 documents comptables prévus au titre II du livre Ier du code de commerce ainsi
