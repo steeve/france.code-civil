@@ -55,8 +55,8 @@ participant pas au service public hospitalier ;
 16° Quatre représentants des syndicats médicaux les plus représentatifs, dont au
 moins deux au titre des syndicats de médecins hospitaliers publics ;
 
-17° Un représentant des médecins salariés exerçant dans les établissements
-privés participant au service public hospitalier ;
+17° Un médecin salarié, désigné par le ministre chargé de la santé, exerçant
+dans un établissement de santé privé participant au service public hospitalier ;
 
 18° Deux représentants des organisations syndicales les plus représentatives des
 personnels hospitaliers non médicaux, dont un au titre des personnels
@@ -113,9 +113,25 @@ c) Caisse nationale d'assurance vieillesse des travailleurs salariés ;
 
 d) Caisse nationale des allocations familiales ;
 
-13° Cinq représentants des organisations les plus représentatives des
-institutions sociales et médico-sociales, dont deux au titre des institutions
-publiques ;
+13° Quinze représentants des organisations les plus représentatives des
+institutions sociales et médico-sociales, dont cinq représentants des
+institutions accueillant des personnes handicapées, cinq représentants des
+institutions accueillant des personnes inadaptées et cinq représentants des
+institutions accueillant des personnes âgées. Les institutions publiques
+comptent deux représentants au sein de chacune de ces trois catégories.
+
+Sous réserve des dispositions de l'alinéa ci-après, les cinq représentants de
+chacune desdites catégories siègent avec voix délibérative pour les questions
+inscrites à l'ordre du jour concernant la catégorie qu'ils représentent. Les
+représentants des catégories non concernées peuvent alors participer aux débats
+avec voix consultative.
+
+Au début de chaque année, les cinq représentants de chaque catégorie désignent
+parmi eux deux membres, dont un représentant des institutions publiques ;
+lorsqu'une question inscrite à l'ordre du jour concerne plus d'une catégorie,
+les membres ainsi désignés des catégories concernées siègent alors avec voix
+délibérative, les autres représentants pouvant participer aux débats avec voix
+consultative.
 
 14° Deux représentants des syndicats médicaux les plus représentatifs ;
 
@@ -127,5 +143,7 @@ titre des personnels des institutions publiques ;
 
 17° Trois personnalités qualifiées désignées par le ou les ministres chargés de
 l'action sociale, de la santé et de la sécurité sociale, dont une sur
-proposition de la Fédération nationale de la mutualité française et un
-travailleur social.
+proposition de la Fédération nationale de la mutualité française, une sur
+proposition du ministre chargé de l'éducation nationale, qui siège seulement
+dans les cas prévus au deuxième alinéa de l'article R. 712-32, et un travailleur
+social.

@@ -2,8 +2,8 @@ Article R712-27
 ----
 Dans chaque région d'outre-mer, les deux sections du comité régional de
 l'organisation sanitaire et sociale sont composées conformément aux dispositions
-de l'article R. 712-26, à l'exclusion des membres prévus aux I (3°, 5°, 9°, 10°)
-et II (3°, 5°, 9°, 10°) de cet article, et auxquels sont substitués :
+de l'article R. 712-26, à l'exclusion des membres prévus aux I (1°, 3°, 7°, 8°)
+et II (1°, 3°, 7°, 8°) de cet article, et auxquels sont substitués :
 
 a) Le directeur départemental des affaires sanitaires et sociales,
 vice-président, et le médecin inspecteur régional de la santé pour la
