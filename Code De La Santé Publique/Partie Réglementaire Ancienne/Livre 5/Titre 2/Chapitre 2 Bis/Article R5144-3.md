@@ -13,4 +13,7 @@ l'autorisation temporaire d'utilisation ;
 l'enregistrement prévu par cet article ;
 
 - pour les produits mentionnés à l'article L. 658-11, après la délivrance de
-l'autorisation prévue par cet article.
+l'autorisation prévue par cet article ;
+
+- pour les autres produits mentionnés à l'article L. 5121-1 après leur
+délivrance.

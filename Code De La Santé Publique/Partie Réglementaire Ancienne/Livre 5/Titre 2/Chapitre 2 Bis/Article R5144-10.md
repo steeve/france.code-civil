@@ -2,7 +2,7 @@ Article R5144-10
 ----
 I. - La Commission nationale de pharmacovigilance comprend :
 
-1° Quatre membres de droit :
+1° Six membres de droit :
 
 Le directeur général de la santé ou son représentant ;
 
@@ -12,9 +12,15 @@ santé ou son représentant ;
 Le directeur des hôpitaux ou son représentant ;
 
 Le directeur général de l'Institut national de la santé et de la recherche
-médicale ou son représentant.
+médicale ou son représentant ;
 
-2° Trente-deux membres nommés par le ministre chargé de la santé pour une durée
+Le président de la Commission nationale de pharmacovigilance vétérinaire ou le
+membre de la commission qu'il désigne ;
+
+Le président de la Commission nationale des stupéfiants et des psychotropes ou
+le membre de la commission qu'il désigne.
+
+2° Trente-trois membres nommés par le ministre chargé de la santé pour une durée
 de trois ans :
 
 - onze cliniciens dont au moins trois médecins généralistes ;
@@ -25,8 +31,9 @@ de trois ans :
 
 - un pharmacien d'officine ;
 
-- une personnalité scientifique proposée par le ministre chargé de la
-consommation ;
+- une personne représentant les associations de personnes malades et d'usagers
+du système de santé et une personne représentant les associations de
+consommateurs proposée par le ministre chargé de la consommation ;
 
 - une personnalité compétente en matière de pharmacovigilance exercée dans les
 entreprises exploitant des médicaments ou produits mentionnés à l'article R.

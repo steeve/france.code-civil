@@ -12,7 +12,8 @@ d'une unité fonctionnelle ou, si l'établissement a fait usage de la faculté
 prévue par l'article L. 714-25-2, d'une unité distincte.
 
 Le responsable du centre doit être un médecin formé à la pharmacologie ou à la
-toxicologie clinique.
+toxicologie clinique ou justifiant d'une expérience pratique d'au moins trois
+ans en matière de pharmacovigilance.
 
 L'agrément mentionné au premier alinéa peut être retiré en cas de non-respect
 des dispositions du présent chapitre.

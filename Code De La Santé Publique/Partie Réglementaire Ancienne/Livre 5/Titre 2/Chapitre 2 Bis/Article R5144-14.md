@@ -2,9 +2,8 @@ Article R5144-14
 ----
 Les centres régionaux de pharmacovigilance sont chargés :
 
-1° De recueillir les déclarations que doivent leur adresser, en application de
-l'article R. 5144-19, les médecins, les chirurgiens-dentistes, les sages-femmes
-et les pharmaciens ;
+1° De recueillir les déclarations que leur adressent les professionnels de santé
+en application de l'article R. 5144-19 ;
 
 2° De recueillir les informations relatives aux effets indésirables des
 médicaments ou produits mentionnés à l'article R. 5144-1 qui doivent leur être

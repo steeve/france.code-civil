@@ -11,10 +11,11 @@ dépendance peut aboutir à l'auto-administration de ces substances à des doses
 produisant des modifications physiques ou comportementales qui constituent des
 problèmes de santé publique ;
 
-- abus : utilisation excessive et volontaire, permanente ou intermittente, d'une
-ou plusieurs substances psychoactives, ayant des conséquences préjudiciables à
-la santé physique ou psychique ;
+- abus de substance psychoactive : utilisation excessive et volontaire,
+permanente ou intermittente, d'une ou plusieurs substances psychoactives, ayant
+des conséquences préjudiciables à la santé physique ou psychique ;
 
-- pharmacodépendance grave ou abus grave : pharmacodépendance ou abus létal ou
-susceptible de mettre la vie en danger, ou d'entraîner une invalidité ou une
-incapacité, ou provoquant ou prolongeant une hospitalisation.
+- pharmacodépendance grave ou abus grave de substance psychoactive :
+pharmacodépendance ou abus létal de substance psychoactive ou susceptible de
+mettre la vie en danger, ou d'entraîner une invalidité ou une incapacité, ou
+provoquant ou prolongeant une hospitalisation.
