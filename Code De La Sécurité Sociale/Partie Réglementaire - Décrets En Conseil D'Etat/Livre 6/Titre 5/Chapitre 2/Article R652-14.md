@@ -14,9 +14,3 @@ l'organisme dont ils relèvent.
 
 Les agents chargés du contrôle peuvent également procéder à toutes vérifications
 ou enquêtes administratives concernant l'attribution des prestations.
-
-Lorsque le travailleur non salarié des professions non agricoles est membre du
-conseil d'administration de l'un des organismes visés au premier alinéa de
-l'article L. 652-6, le contrôle est exercé conjointement par un agent de cet
-organisme et par un inspecteur des affaires sanitaires et sociales désigné par
-le directeur régional des affaires sanitaires et sociales et dûment assermenté.
