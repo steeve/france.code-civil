@@ -7,13 +7,15 @@ comporter l'interdiction de construire.
 
 A cette fin, ils doivent :
 
-1° Délimiter des zones urbaines ou à urbaniser en prenant notamment en
+1° Délimiter des zones urbaines ou à urbaniser prenant notamment en compte les
+besoins en matière d'habitat, d'emploi, de services et de transport des
+populations actuelles et futures. La délimitation de ces zones prend en
 considération la valeur agronomique des sols, les structures agricoles, les
 terrains produisant des denrées de qualité supérieure, l'existence de risques
 naturels prévisibles et de risques technologiques, la présence d'équipements
-spéciaux importants et déterminer des zones d'affectation des sols selon l'usage
-principal qui doit en être fait ou la nature des activités dominantes qui
-peuvent y être exercées ; ".
+spéciaux importants. Les plans d'occupation des sols déterminent l'affectation
+des sols selon l'usage principal qui doit en être fait ou la nature des
+activités dominantes qui peuvent y être exercées.
 
 2° définir, en fonction des situations locales, les règles concernant le droit
 d'implanter des constructions, leur destination et leur nature.
@@ -33,7 +35,8 @@ densité de construction qui est admise ;
 place ou l'aménagement de bâtiments existants pourra, pour des motifs
 d'urbanisme ou d'architecture, être imposé ou autorisé avec une densité au plus
 égale à celle qui était initialement bâtie, nonobstant les règles fixées au 4°
-ci-dessus ;
+ci-dessus et fixer la destination principale des îlots ou immeubles à restaurer
+ou à réhabiliter ;
 
 6° préciser le tracé et les caractéristiques des voies de circulation à
 conserver, à modifier ou à créer, y compris les rues ou sentiers piétonniers et
@@ -52,8 +55,13 @@ installations d'intérêt général ainsi qu'aux espaces verts ;
 inconstructibles quels que soient les équipements éventuels qui les desservent.
 
 10° Délimiter les secteurs dans lesquels la délivrance du permis de construire
-peut être subordonnée à la démolition de tout ou partie des bâtiments existants
+peut être surbordonnée à la démolition de tout ou partie des bâtiments existants
 sur le terrain où l'implantation de la construction est envisagée.
+
+11° Délimiter les zones dans lesquelles pourront s'implanter les magasins de
+commerce de détail dont l'octroi du permis de construire ou la réalisation est
+soumis à autorisation préalable de la commission départementale d'urbanisme
+commercial par l'article L. 451-5 du présent code.
 
 Les règles mentionnées aux 2° et 3° ci-dessus peuvent prévoir des normes de
 construction différentes de celles qui résultent de l'application du coefficient
@@ -72,5 +80,5 @@ directeurs et des schémas de secteur, s'ils existent, et respecter les
 servitudes d'utilité publique affectant l'utilisation du sol ainsi que les
 dispositions nécessaires à la mise en oeuvre de projets d'intérêt général
 relevant de l'Etat, de la région, du département ou d'autres intervenants. Ils
-prennent en considération les orientations définies par les chartes
-intercommunales.
+prennent en considération les dispositions des programmes locaux de l'habitat
+lorsqu'ils existent.

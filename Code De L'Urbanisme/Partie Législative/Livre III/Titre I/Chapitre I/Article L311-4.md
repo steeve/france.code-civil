@@ -1,23 +1,22 @@
 Article L311-4
 ----
 Il est établi, dans chaque zone d'aménagement concerté, un plan d'aménagement de
-zone compatible, avec les orientations du schéma directeur s'il en existe un. Le
-plan d'aménagement de zone comporte tout ou partie des éléments énumérés aux
-articles L. 123-1 et L. 130-1. Le projet de plan d'aménagement de zone est
-élaboré par la personne publique qui a pris l'initiative de la création de zone.
+zone compatible avec les orientations du schéma directeur, s'il en existe un. Ce
+plan prend en considération les dispositions du programme local de l'habitat
+lorsqu'il existe. Il comporte tout ou partie des éléments énumérés aux articles
+L. 123-1 et L. 130-1. Il est élaboré par la personne publique qui a pris
+l'initiative de la création de la zone. "
 
 Sont associés à cette élaboration l'Etat et la commune et, à leur demande, et
 dans les formes que la personne publique qui a prix l'initiative de la création
 de la zone détermine, la région et le département ; l'autorité compétente pour
 créer la zone d'aménagement concerté peut demander que soit recueilli l'avis de
 tout organisme ou association ayant compétence en matière de construction,
-d'aménagement ou d'urbanisme.
-
-Le représentant de l'Etat porte à la connaissance de la personne publique qui a
-pris l'initiative de la création, les prescriptions, servitudes et dispositions
-mentionnées au dernier alinéa de l'article L. 123-1 et lui communique toute
-autre information qu'il juge utile à l'élaboration du plan d'aménagement de
-zone.
+d'aménagement ou d'urbanisme. Le représentant de l'Etat porte à la connaissance
+de la personne publique qui a pris l'initiative de la création, les
+prescriptions, servitudes et dispositions mentionnées au dernier alinéa de
+l'article L. 123-1 et lui communique toute autre information qu'il juge utile à
+l'élaboration du plan d'aménagement de zone.
 
 Le plan d'aménagement de zone est soumis à enquête publique par le maire lorsque
 la commune est compétente pour créer la zone et par le représentant de l'Etat

@@ -6,13 +6,13 @@ d'un bien au profit d'une personne privée autre qu'une société d'économie mi
 répondant aux conditions définies au deuxième alinéa de l'article L. 300-4 ou
 qu'une société d'habitations à loyer modéré doit faire l'objet d'une
 délibération motivée du conseil municipal ou, le cas échéant, d'une décision
-motivée du délégataire du droit de préemption. de l'expropriation pour cause
-d'utilité publique est, pour ce qui
+motivée du délégataire du droit de préemption.
 
 Si le titulaire du droit de préemption décide d'utiliser ou d'aliéner à d'autres
 fins un bien acquis depuis moins de dix ans par exercice de ce droit, il doit
-informer de sa décision les anciens propriétaires de leur ayant cause universels
-à titre universel et leur proposer l'acquisition de ce bien en priorité.
+informer de sa décision les anciens propriétaires ou leurs ayants cause
+universels ou à titre universel et leur proposer l'acquisition de ce bien en
+priorité.
 
 A défaut d'accord amiable, le prix est fixé par la juridiction compétente en
 matière d'expropriation, conformément aux règles mentionnées par l'article L.

@@ -8,7 +8,7 @@ titre onéreux, sous quelque forme que ce soit.
 
 Sont également soumises à ce droit de préemption les cessions de droits indivis
 portant sur un immeuble ou une partie d'immeuble, bâti ou non bâti, sauf
-lorsqu'elles sont consenties à l'un des co-indivisaires, ainsi que les cessions
+lorsqu'elles sont consenties à l'un des coindivisaires, ainsi que les cessions
 de tantièmes contre remise de locaux à construire.
 
 En cas d'adjudication, lorsque cette procédure est rendue obligatoire par une
@@ -33,11 +33,11 @@ les immeubles construits par les sociétés coopératives d'habitations à loyer
 modéré de location-attribution :
 
 b) Les immeubles qui font l'objet d'un contrat de vente d'immeuble à construire
-dans les conditions prévues par les articles 1061-1 et suivants du code civil,
+dans les conditions prévues par les articles 1601-1 et suivants du code civil,
 sauf lorsque ces dispositions sont appliquées à des bâtiments existants ;
 
 c) Les parts ou actions de sociétés d'attribution visées aux titres II et III de
-la loi n° 71-759 du 16 juillet 1971 relative à diverses opérations de
+la loi n° 71-579 du 16 juillet 1971 relative à diverses opérations de
 construction, qui font l'objet d'une cession avant l'achèvement de l'immeuble ou
 pendant une période de dix ans à compter de son achèvement ;
 
@@ -53,8 +53,8 @@ e) Les immeubles qui font l'objet d'une mise en demeure d'acquérir en
 application des articles L. 111-10, L. 123-9 ou L. 311-2 du présent code ou de
 l'article L. 11-7 du code de l'expropriation pour cause d'utilité publique.
 
-" f) Dans les communes où l'ensemble des logements locatifs sociaux au sens du
-3° de l'article L. 234-10 du code des communes représente moins de 20 p. 100 des
+f) Dans les communes où l'ensemble des logements locatifs sociaux au sens du 3°
+de l'article L. 234-10 du code des communes représente moins de 20 p. 100 des
 résidences principales, les immeubles dont l'aliénation est agréée par le
 représentant de l'Etat dans le département en vue d'accroître l'offre de
-logements sociaux. "
+logements sociaux.
