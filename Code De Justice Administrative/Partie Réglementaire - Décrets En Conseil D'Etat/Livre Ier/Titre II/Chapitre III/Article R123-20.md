@@ -18,8 +18,24 @@ commission.
 
 Toutefois, le vice-président du Conseil d'Etat peut, sur proposition du
 président de la section ou de la commission compétente, décider de ne pas porter
-à l'ordre du jour de l'assemblée générale certains des projets mentionnés au 2°
-ci-dessus.
+à l'ordre du jour de l'assemblée générale certains projets relevant des
+catégories ci-après :
+
+a) Projets de décret mentionnés au 2° ci-dessus ;
+
+b) Projets de loi ayant pour objet principal la ratification d'une ordonnance ;
+
+c) Projets de loi autorisant la ratification ou l'approbation d'une convention
+internationale ;
+
+d) Projets de loi ou d'ordonnance portant extension et, le cas échéant,
+adaptation de dispositions législatives à une ou plusieurs collectivités
+d'outre-mer ou à la Nouvelle-Calédonie ;
+
+e) Projets de loi ou d'ordonnance ayant pour objet principal la transposition en
+droit interne d'une directive communautaire ;
+
+f) Projets de loi ou d'ordonnance procédant à la codification de la législation.
 
 L'assemblée générale ordinaire peut décider le renvoi d'une affaire à
 l'assemblée générale plénière.
