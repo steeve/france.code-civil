@@ -1,11 +1,16 @@
 Article R233-33
 ----
-La largeur des escaliers comptant dans le nombre minimum obligatoire n'est
-jamais inférieure à 80 cm.
+Les équipements de travail servant au levage et au déplacement de travailleurs
+doivent être choisis ou équipés :
 
-La largeur totale des escaliers devant assurer l'évacuation de 21 à 100
-personnes ne peut être inférieure à 1, 50 mètre. Si le nombre de personnes à
-évacuer est compris entre 101 et 300 la largeur totale ne peut pas être
-inférieure à 2 mètres. Si ce nombre est compris entre 301 et 500 elle ne peut
-être inférieure à 2, 50 mètres. Elle est augmentée de 50 cm par 100 personnes ou
-fraction de 100 personnes en plus des 500 premières.
+a) Pour éviter les risques de chute de l'habitacle, lorsqu'il existe, au moyen
+de dispositifs appropriés ;
+
+b) Pour éviter les risques de chute de l'utilisateur hors de l'habitacle,
+lorsqu'il existe ;
+
+c) Pour éviter les risques d'écrasement, de coincement ou de heurt de
+l'utilisateur ;
+
+d) Pour garantir la sécurité des travailleurs bloqués, en cas d'accident, dans
+l'habitacle et permettre leur dégagement.

@@ -1,14 +1,8 @@
 Article R233-37
 ----
-Dans les établissements commerciaux ouverts au public et où plus de 500
-personnes sont susceptibles de se trouver réunies il est ménagé des passages qui
-relient directement entre eux les escaliers.
-
-Si les étages de ces établissements sont desservis par plus de deux [*nombre*]
-escaliers, des passages semblables doivent réunir chacun d'eux aux deux
-escaliers les plus voisins.
-
-Au rez-de-chaussée, il est ménagé des passages réunissant les arrivées des
-escaliers aux sorties les plus rapprochées.
-
-Chaque escalier est relié à deux sorties au moins.
+Les équipements de travail mobiles automoteurs doivent être munis d'un
+dispositif de freinage et d'arrêt. Dans la mesure où la sécurité l'exige,
+notamment pour les équipements dont le système de freinage est fortement
+sollicité, un dispositif de secours actionné par des commandes aisément
+accessibles ou par des systèmes automatiques doit permettre le freinage et
+l'arrêt en cas de défaillance du dispositif principal.

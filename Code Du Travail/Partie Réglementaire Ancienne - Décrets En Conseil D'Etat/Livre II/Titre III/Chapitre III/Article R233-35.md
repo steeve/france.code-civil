@@ -1,5 +1,6 @@
 Article R233-35
 ----
-Dans les établissements ouverts au public, des escaliers séparés peuvent être
-exigés lorsque la sécurité du personnel le nécessite, pour desservir des locaux
-situés aux étages où le public n'est pas admis.
+Les équipements de travail mobiles avec travailleurs portés doivent être
+aménagés de façon à réduire au minimum les risques pour ces travailleurs pendant
+le déplacement, notamment les risques de contact avec les roues, chenilles, ou
+autres éléments mobiles concourant au déplacement.
