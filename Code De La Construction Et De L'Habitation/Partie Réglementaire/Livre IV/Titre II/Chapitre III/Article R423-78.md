@@ -1,11 +1,19 @@
 Article R423-78
 ----
-Avant le 1er juillet [*délai*] de l'année qui suit la clôture de l'exercice, des
-copies des documents comptables approuvés conformément à la loi par l'assemblée
-générale des actionnaires sont adressées au préfet, au ministre chargé de la
-construction et de l'habitation et à la caisse des dépôts et consignations. Il y
-est joint l'état détaillé des opérations de l'année.
+Dans le mois suivant celui au cours duquel s'est tenue l'assemblée générale
+ordinaire réunie en application de l'article 157 de la loi du 24 juillet 1966,
+sont adressées :
 
-Le ministre chargé de la construction et de l'habitation peut ordonner la
-rectification des écritures passées contrairement à la réglementation ou aux
-instructions en vigueur.
+a) Pour les sociétés d'habitations à loyer modéré, au préfet, au ministre chargé
+du logement et à la Caisse des dépôts et consignations, des copies des documents
+annuels, soumis conformément à la loi à l'assemblée générale des actionnaires,
+auxquelles est joint le procès-verbal de cette assemblée, ainsi que les états
+réglementaires définis par la réglementation applicable aux sociétés
+d'habitations à loyer modéré ;
+
+b) Pour les sociétés anonymes de crédit immobilier, au préfet du département du
+siège, au ministre chargé du logement et à la chambre syndicale des sociétés
+anonymes de crédit immobilier, des copies des documents annuels, soumis
+conformément à la loi à l'assemblée générale des actionnaires, auxquelles est
+joint le procès-verbal de cette assemblée, ainsi que le document mentionné au
+troisième alinéa de l'article R. 423-68.

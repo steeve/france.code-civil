@@ -3,8 +3,6 @@ Article R362-2
 Le conseil départemental de l'habitat, dans les conditions fixées aux articles
 R. 362-3 à R. 362-8, a vocation à émettre un avis
 
-[*attributions*].
-
 a) Sur la satisfaction des besoins en logements des différentes catégories de
 population ;
 
@@ -23,8 +21,11 @@ populations défavorisées ;
 f) Sur les modalités selon lesquelles les aides à la personne en matière de
 logement sont mises en oeuvre dans le département ;
 
-g) Sur toute modification intervenant dans les compétences des organismes
-d'habitations à loyer modéré exerçant leur activité dans le département.
+" g) Sur toute modification intervenant dans la compétence des offices publics
+d'habitations à loyer modéré, des offices publics d'aménagement et de
+construction, des sociétés anonymes d'habitations à loyer modéré et des sociétés
+coopératives d'habitations à loyer modéré exerçant leur activité dans le
+département. "
 
 h) Sur les programmes locaux de l'habitat et leur réalisation.
 
