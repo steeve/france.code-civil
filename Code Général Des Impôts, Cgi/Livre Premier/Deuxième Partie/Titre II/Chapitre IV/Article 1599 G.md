@@ -6,9 +6,9 @@ moins de cinq ans d'âge et d'une puissance fiscale inférieure ou égale à 4 C
 
 Dans ce cas, les tarifs de la taxe différentielle des autres catégories de
 véhicules, ayant moins de cinq ans d'âge, sont déterminés en multipliant le
-tarif visé à l'alinéa précédent par les coefficients 1,9 ; 4,5 ; 5,3 ; 9,4 ;
-14,1 pour les véhicules ayant respectivement une puissance fiscale de 5 à 7 CV,
-8 et 9 CV, 10 et 11 CV, 12 à 16 CV, 17 CV et plus.
+tarif visé au premier alinéa par les coefficients 1,9 ; 4,5 ; 5,3 ; 9,4 ; 14,1
+pour les véhicules ayant respectivement une puissance fiscale de 5 à 7 CV, 8 et
+9 CV, 10 et 11 CV, 12 à 16 CV, 17 CV et plus.
 
 Toutefois, pour les voitures particulières ayant une puissance fiscale de 15 et
 16 CV, 17 et 18 CV, 19 CV et 20 CV, 21 et 22 CV, 23 CV et plus, les coefficients

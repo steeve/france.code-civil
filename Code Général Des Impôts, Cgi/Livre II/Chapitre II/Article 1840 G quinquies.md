@@ -7,7 +7,7 @@ droit supplémentaire de 1 %.
 Les sommes dues doivent être versées dans le mois suivant l'expiration dudit
 délai.
 
-II. Pour les biens visés au troisième alinéa de l'article 1115 revendus après le
+II. Pour les biens visés au cinquième alinéa de l'article 1115 revendus après le
 31 décembre 1998, le vendeur est tenu d'acquitter le montant des impositions
 dont la perception a été différée respectivement réduit :
 

@@ -6,4 +6,4 @@ entreprises joignent à la déclaration de leurs résultats de chaque exercice u
 
 Cet état mentionne notamment, pour chaque participation, le prix d'acquisition,
 la valeur réelle, la valeur d'équivalence et le montant de la dépréciation
-définie au quinzième alinéa du 5° du 1 de l'article 39 du code précité.
+définie au dix-huitième alinéa du 5° du 1 de l'article 39 du code précité.

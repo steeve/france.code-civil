@@ -38,7 +38,8 @@ défavorisées mentionnées à l'article 1er de la loi n° 90-449 du 31 mai 1990
 modifiée visant à la mise en oeuvre du droit au logement.
 
 Les obligations déclaratives à la charge des personnes ou organismes entrant
-dans le champ d'application du premier alinéa sont fixées par décret.
+dans le champ d'application des premier à troisième alinéas sont fixées par
+décret.
 
 III. Les bénéficiaires du revenu minimum d'insertion sont dégrevés d'office de
 la taxe d'habitation afférente à leur habitation principale lorsqu'ils occupent

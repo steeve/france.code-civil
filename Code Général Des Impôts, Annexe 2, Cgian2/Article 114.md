@@ -14,7 +14,7 @@ placées sous son contrôle, à l'exception de celles qui sont possédées par l
 société agréée dans des sociétés qui sont membres d'un groupe qu'elle a
 constitué ou que l'une de ses exploitations indirectes a constitué, en
 application des dispositions des articles 223 A à 223 U du code général des
-impôts (1).
+impôts.
 
 2. Sont considérées comme placées sous le contrôle d'une société ou d'une
 personne morale agréée les sociétés de capitaux françaises ou étrangères dans
@@ -24,10 +24,10 @@ deuxième alinéa du 1, les droits de vote détenus par l'intermédiaire de soci
 membres d'un groupe constitué par la société agréée ou par l'une de ses
 exploitations indirectes sont pris en compte pour apprécier ce pourcentage.
 
-Pour l'application de l'alinéa précédent, l'appréciation des droits détenus
+Pour l'application du premier alinéa, l'appréciation des droits détenus
 indirectement par la société ou la personne morale agréée s'opère en multipliant
 successivement, quel que soit le degré de filiation, les pourcentages détenus
-par chaque société mère (1).
+par chaque société mère.
 
 3. Par dérogation à la règle fixée au 2, un pourcentage inférieur à 50 % peut
 être retenu lorsque la détention d'une participation égale ou supérieure à 50 %
@@ -39,7 +39,4 @@ du groupe des sociétés contrôlées.
 4. La société agréée et ses diverses exploitations indirectes doivent ouvrir et
 clore leurs exercices aux mêmes dates.
 
-5. (Abrogé) (1).
-
-(1) Ces dispositions s'appliquent aux exercices ouverts à compter du 1er janvier
-1992.
+5. (Abrogé).

@@ -4,7 +4,7 @@ Dès la mise en service de l'installation réalisée en conformité avec les
 conditions d'aménagement prévues aux articles 61 et 62, les alcools produits
 sont enregistrés dans la comptabilité matières d'après les indications des
 compteurs ou de tout autre dispositif inviolable ou procédure de contrôle, pour
-les distilleries non pourvues de compteurs, conformément au troisième alinéa de
+les distilleries non pourvues de compteurs, conformément au cinquième alinéa de
 l'article 57.
 
 Les enregistrements ainsi opérés sont corrigés lorsque le contrôle technique des

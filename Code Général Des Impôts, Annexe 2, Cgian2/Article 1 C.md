@@ -33,6 +33,6 @@ Un exemplaire de cette attestation est joint par la société à sa déclaration
 résultat.
 
 La société joint chaque année à sa déclaration de résultat l'état mentionné au
-quatrième alinéa de l'article 1 B. Elle y indique, en outre, l'identité et
+sixième alinéa de l'article 1 B. Elle y indique, en outre, l'identité et
 l'adresse des associés ainsi que la part des revenus des immeubles de la société
 correspondant aux droits de chaque associé.

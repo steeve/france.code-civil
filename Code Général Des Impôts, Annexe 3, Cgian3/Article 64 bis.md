@@ -1,6 +1,6 @@
 Article 64 bis
 ----
-L'impôt acquitté hors de France, mentionné au quatrième alinéa du I de l'article
+L'impôt acquitté hors de France, mentionné au sixième alinéa du I de l'article
 238 bis-0 I du code général des impôts, qui est éventuellement imputable sur le
 montant de l'impôt sur les sociétés dont l'entreprise française est redevable à
 raison des résultats qui proviennent de la gestion ou de la disposition des

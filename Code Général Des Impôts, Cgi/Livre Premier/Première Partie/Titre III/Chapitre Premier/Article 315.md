@@ -15,6 +15,6 @@ bouilleurs de cru les personnes assujetties au régime de la mutualité sociale
 agricole en application des articles L731-25, à L731-29 et L741-2 à L741-7 du
 code rural et dont l'exploitation agricole constitue l'activité principale.
 
-Toutefois, par dérogation à l'alinéa précédent, le régime des bouilleurs de cru
+Toutefois, par dérogation au troisième alinéa, le régime des bouilleurs de cru
 est maintenu au profit des personnes qui en ont bénéficié au cours de l'une au
 moins des trois campagnes ayant précédé la campagne 1952-1953.

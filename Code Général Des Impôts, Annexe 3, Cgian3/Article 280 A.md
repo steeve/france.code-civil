@@ -21,6 +21,6 @@ valeur de rachat déterminée à cette date, la date et le montant de la derniè
 valeur de rachat dégagée avant le décès et de celle dégagée immédiatement après
 ;
 
-2° Se conformer aux prescriptions des deux premiers alinéas du III de l'article
-806 du code général des impôts vis-à-vis des héritiers, légataires, ou
+2° Se conformer aux prescriptions des premier et deuxième alinéas du III de
+l'article 806 du code général des impôts vis-à-vis des héritiers, légataires, ou
 donataires domiciliés hors de France.

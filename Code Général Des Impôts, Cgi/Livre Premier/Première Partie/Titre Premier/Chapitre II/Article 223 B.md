@@ -30,11 +30,11 @@ Lorsqu'en application du deuxième alinéa de l'article 223 F, la société mèr
 comprend dans le résultat d'ensemble le résultat ou la plus ou moins-value non
 pris en compte lors de sa réalisation, la fraction de la provision qui n'a pas
 été déduite en application de la deuxième phrase du présent alinéa, ni rapportée
-en application du treizième alinéa du 5° du 1 de l'article 39, est retranchée du
+en application du seizième alinéa du 5° du 1 de l'article 39, est retranchée du
 résultat d'ensemble. Celui-ci est également minoré du montant des provisions
-rapportées en application du treizième alinéa du 5° du 1 de l'article 39 qui
+rapportées en application du seizième alinéa du 5° du 1 de l'article 39 qui
 correspondent aux dotations complémentaires non retenues en application du
-présent alinéa si les sociétés citées aux deux premières phrases de cet alinéa
+premier alinéa si les sociétés citées aux deux premières phrases de cet alinéa
 membres du groupe ou, s'agissant des provisions mentionnées à la première
 phrase, d'un même groupe créé ou élargi dans les conditions prévues aux c, d ou
 e du 6 de l'article 223 L au titre de l'exercice au cours duquel ces provisions
@@ -74,4 +74,4 @@ membre du groupe ;
 
 c. Si les titres cédés à la société membre du groupe ont été acquis
 immédiatement auparavant, auprès de personnes autres que celles mentionnées au
-septième alinéa du présent article, et en vue de rétrocession.
+septième alinéa, et en vue de rétrocession.

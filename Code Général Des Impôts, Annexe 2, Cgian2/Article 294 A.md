@@ -18,8 +18,8 @@ minimale de deux ans en cas de donation, ou jusqu'au jour du décès lorsque
 celui-ci intervient dans les deux années de l'acquisition ;
 
 3. L'affirmation que le donateur ou le défunt n'a pas bénéficié pour cet
-immeuble des réductions d'impôts prévues aux articles 199 decies A, 199 decies
-B, 199 undecies et 199 undecies A du code général des impôts ;
+immeuble des réductions d'impôts prévues aux articles 199 undecies et 199
+undecies A du code général des impôts ;
 
 4. L'engagement mentionné au deuxième alinéa du 5° du 2 de l'article 793 du même
 code.

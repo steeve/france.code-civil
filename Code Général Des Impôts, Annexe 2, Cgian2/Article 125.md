@@ -7,10 +7,7 @@ pour lequel les résultats de ces exploitations sont pris en compte pour la
 détermination du résultat consolidé.
 
 Les déficits et moins-values nettes à long terme des exploitations mentionnées
-au c du 1 de l'article 116, subis au cours des exercices mentionnés à l'alinéa
-précédent, sont pris en considération pour la détermination du résultat
-consolidé dans la mesure où ils sont admis en déduction respectivement des
-bénéfices et plus-values imposables des sociétés qui les ont subis (1).
-
-(1) Ces dispositions s'appliquent aux exercices ouverts à compter du 1er janvier
-1992.
+au c du 1 de l'article 116, subis au cours des exercices mentionnés au premier
+alinéa, sont pris en considération pour la détermination du résultat consolidé
+dans la mesure où ils sont admis en déduction respectivement des bénéfices et
+plus-values imposables des sociétés qui les ont subis.

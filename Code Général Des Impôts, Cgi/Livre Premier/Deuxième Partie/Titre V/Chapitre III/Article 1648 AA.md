@@ -23,19 +23,19 @@ devant atteindre cette superficie par la réalisation du projet. Pour
 l'application de cette disposition, la surface de vente s'entend de celle
 résultant d'une construction ou de la transformation d'un immeuble.
 
-La répartition prévue aux premier et deuxiéme alinéas s'effectue entre les
+La répartition prévue aux premier à quatrième alinéas s'effectue entre les
 communes dont tout ou partie du territoire se trouve à une distance de 5
 kilomètres d'un point quelconque de l'ensemble commercial. Cette distance est
 portée à 10 kilomètres lorsque la surface de vente des magasins concernés est
 égale ou supérieure à 5 000 mètres carrés.
 
-Les dispositions des premier, deuxième et troisième alinéas ne sont applicables
-ni dans les départements dont la densité de population excède 1 000 habitants au
-kilomètre carré, ni aux magasins d'une surface de vente inférieure à 5 000
-mètres carrés lorsqu'ils sont situés en tout ou partie dans une commune de plus
-de 40 000 habitants ou dans un canton d'une densité de population supérieure à
-400 habitants au kilomètre carré. Elles ne sont pas non plus applicables dans
-les agglomérations nouvelles.
+Les dispositions des premier à cinquième alinéas ne sont applicables ni dans les
+départements dont la densité de population excède 1 000 habitants au kilomètre
+carré, ni aux magasins d'une surface de vente inférieure à 5 000 mètres carrés
+lorsqu'ils sont situés en tout ou partie dans une commune de plus de 40 000
+habitants ou dans un canton d'une densité de population supérieure à 400
+habitants au kilomètre carré. Elles ne sont pas non plus applicables dans les
+agglomérations nouvelles.
 
 II. Les bases communales de taxe professionnelle correspondant aux créations et
 extensions d'établissements résultant soit d'une construction nouvelle, soit de
@@ -45,15 +45,15 @@ taxées directement, à concurrence de 80 p. 100 de leur montant, au profit du
 fonds départemental de la taxe professionnelle prévu au premier alinéa du I du
 même article, selon le taux communal de taxe professionnelle.
 
-Dans les communes membres d'une communauté de communes, le pourcentage fixé à
-l'alinéa précédent est ramené à 40 p. 100.
+Dans les communes membres d'une communauté de communes, le pourcentage fixé au
+premier alinéa est ramené à 40 p. 100.
 
 Lorsque les communes bénéficiaires au titre du I sont situées dans des
 départements distincts, les sommes perçues selon les modalités prévues aux
 premier et deuxième alinéas sont réparties entre les fonds de chacun des
 départements concernés en proportion de la population de ces mêmes communes.
 
-Le pourcentage fixé aux premier et deuxième alinéas du II s'applique :
+Le pourcentage fixé aux premier et deuxième alinéas s'applique :
 
 a) Dans le cas d'une création d'établissement, à la totalité des bases de
 l'établissement imposables au profit de la commune ;
@@ -62,7 +62,7 @@ b) Dans le cas d'une extension d'établissement, à la fraction des bases
 d'imposition de l'ensemble de l'établissement qui correspond à l'augmentation de
 la surface de vente autorisée depuis le 1er janvier 1991.
 
-Les dispositions des alinéas qui précèdent ne peuvent entraîner, au titre de
+Les dispositions des premier à sixième alinéas ne peuvent entraîner, au titre de
 chacun des établissements imposables, une diminution, par rapport à l'année
 précédente, des bases taxées au profit de la commune intéressée, sauf lorsque
 l'application de ces dispositions résulte d'une décision de justice.
@@ -96,9 +96,9 @@ démographique.
 Lorsque la somme qui doit résulter de la répartition pour une commune est
 inférieure à 457 euros, le versement de cette somme n'est pas effectué.
 
-Les sommes non distribuées en application des dispositions des quatre alinéas
-précédents viennent en augmentation des sommes à répartir entre les communes qui
-peuvent encore bénéficier de la répartition.
+Les sommes non distribuées en application des dispositions des premier à
+quatrième alinéas viennent en augmentation des sommes à répartir entre les
+communes qui peuvent encore bénéficier de la répartition.
 
 V. Les sommes perçues au profit du fonds départemental d'adaptation du commerce
 rural sont réparties par une commission départementale d'adaptation du commerce

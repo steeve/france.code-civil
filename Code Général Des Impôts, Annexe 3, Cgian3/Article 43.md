@@ -19,4 +19,4 @@ En ce qui concerne les intérêts des dettes contractées pour la conservation,
 l'acquisition, la construction, la réparation ou l'amélioration des propriétés
 et dont la déduction est demandée pour la détermination des revenus nets des
 propriétés foncières bâties et non bâties, le déclarant doit fournir les mêmes
-renseignements que ceux qui sont prévus à l'alinéa précédent.
+renseignements que ceux qui sont prévus au troisième alinéa.

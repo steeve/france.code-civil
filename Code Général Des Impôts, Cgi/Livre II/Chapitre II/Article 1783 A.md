@@ -10,4 +10,4 @@ prison et de 7 500 euros d'amende. Les articles 121-6 et 121-7 du code pénal
 sont applicables aux complices.
 
 Quiconque a tiré ou tenté de tirer profit de l'infraction commise est, aussi,
-passible personnellement des peines prévues à l'alinéa qui précède.
+passible personnellement des peines prévues au premier alinéa.

@@ -1,11 +1,11 @@
 Article 31 B
 ----
 1. La demande, formulée par un représentant unique, dûment habilité, du
-promoteur du projet, en vue d'obtenir l'agrément prévu au 3° du premier alinéa
-de l'article 39 CA du code général des impôts, est présentée sur papier libre,
-préalablement à la réalisation de l'opération qui la motive, et adressée en
-quatre exemplaires au ministre chargé du budget (services centraux de la
-direction générale des impôts).
+promoteur du projet, en vue d'obtenir l'agrément prévu au 3° de l'article 39 CA
+du code général des impôts, est présentée sur papier libre, préalablement à la
+réalisation de l'opération qui la motive, et adressée en quatre exemplaires au
+ministre chargé du budget (services centraux de la direction générale des
+impôts).
 
 2. La demande comporte les renseignements permettant d'apprécier la portée
 exacte du projet au regard des conditions fixées pour l'octroi de l'agrément et
@@ -37,12 +37,13 @@ l'avantage fiscal obtenu par les associés, copropriétaires ou membres ;
 
 h) Les modalités juridiques et financières de la cession des biens ou des parts
 de société, copropriété ou groupement à l'expiration du contrat ou selon les
-modalités prévues au septième alinéa de l'article 39 CA susmentionné, lorsque
-cette possibilité est prévue. Dans cette dernière hypothèse, l'utilisateur
-fournit les éléments permettant de s'assurer de la pérennité de l'exploitation
-du bien jusqu'à la fin initialement prévue du contrat de location ou de mise à
-disposition. Il fournit les éléments prévisionnels montrant que l'acquisition
-directe du bien compromettrait son équilibre financier.
+modalités prévues aux treizième à dix-septième alinéas de l'article 39 CA
+susmentionné, lorsque cette possibilité est prévue. Dans cette dernière
+hypothèse, l'utilisateur fournit les éléments permettant de s'assurer de la
+pérennité de l'exploitation du bien jusqu'à la fin initialement prévue du
+contrat de location ou de mise à disposition. Il fournit les éléments
+prévisionnels montrant que l'acquisition directe du bien compromettrait son
+équilibre financier.
 
 3. La demande d'agrément est accompagnée :
 

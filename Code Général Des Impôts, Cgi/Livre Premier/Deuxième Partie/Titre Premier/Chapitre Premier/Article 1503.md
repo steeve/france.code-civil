@@ -12,8 +12,8 @@ cinq jours, les afficher à la mairie.
 
 En cas de désaccord entre le représentant de l'administration et la commission,
 ou lorsque celle-ci refuse de prêter son concours, les éléments d'évaluation
-sont déterminés par le service des impôts dans les conditions prévues à l'alinéa
-précédent.
+sont déterminés par le service des impôts dans les conditions prévues au
+deuxième alinéa.
 
 II. Dans les trois mois qui suivent l'affichage, ces éléments peuvent être
 contestés tant par le maire, dûment autorisé par le conseil municipal, que par

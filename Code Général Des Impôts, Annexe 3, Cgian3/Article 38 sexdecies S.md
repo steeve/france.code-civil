@@ -3,7 +3,7 @@ Article 38 sexdecies S
 I. Sont réputés non encore cultivés, au sens de l'article 76 bis du code général
 des impôts, les terrains en friche depuis quinze ans au moins.
 
-Dans le département de la Guyane, pour l'application de l'alinéa ci-dessus, sont
+Dans le département de la Guyane, pour l'application du premier alinéa, sont
 également réputés terrains en friche les terrains qui font l'objet d'une
 exploitation forestière et ceux qui sont exploités de façon temporaire sur
 abattis.

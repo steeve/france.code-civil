@@ -12,9 +12,9 @@ bis, admis en déduction du bénéfice de la société pour l'établissement de
 l'impôt, à la condition que ces rémunérations correspondent à un travail
 effectif.
 
-Les sommes retranchées du bénéfice de la société en vertu de l'alinéa précédent
-sont soumises à l'impôt sur le revenu au nom des bénéficiaires dans les
-conditions prévues à l'article 62.
+Les sommes retranchées du bénéfice de la société en vertu du premier alinéa sont
+soumises à l'impôt sur le revenu au nom des bénéficiaires dans les conditions
+prévues à l'article 62.
 
 Pour l'application du présent article, les gérants qui n'ont pas personnellement
 la propriété de parts sociales sont considérés comme associés si leur conjoint

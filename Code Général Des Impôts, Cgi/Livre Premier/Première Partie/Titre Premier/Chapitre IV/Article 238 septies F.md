@@ -13,7 +13,7 @@ Lorsque ces titres sont apportés dans le cadre d'une fusion o u d'une opératio
 assimilée placée sous le régime défini à l'article 210 A, puis font l'objet
 d'une cession ultérieure, le résultat de la cession des titres par la société
 absorbante ou par la société bénéficiaire des apports est déterminé selon les
-modalités prévues à l'alinéa précédent.
+modalités prévues au premier alinéa.
 
 Pour chaque exercice, la différence entre le montant des revenus acquis à la
 date d'acquisition des titres concernés et non encore déduits du résultat

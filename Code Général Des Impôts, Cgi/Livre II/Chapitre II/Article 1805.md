@@ -11,7 +11,7 @@ devoirs de surveillance ou si encore, par une désignation exacte de l'auteur, i
 a mis l'administration à même d'exercer régulièrement les poursuites ou encore
 si l'auteur du délit ou de la contravention est découvert.
 
-Les dispositions de l'alinéa précédent cessent d'être applicables, en cas de
+Les dispositions du deuxième alinéa cessent d'être applicables, en cas de
 récidive, dans le délai d'un an.
 
 2. (Abrogé).

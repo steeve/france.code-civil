@@ -54,8 +54,8 @@ reçus en rémunération de la fusion, de la scission ou des titres de la socié
 ayant réalisé l'apport partiel d'actif, le report d'imposition mentionné aux I
 et II peut être maintenu si le bénéficiaire de la transmission prend
 l'engagement d'acquitter l'impôt sur les plus-values à la date où l'un des
-événements visés aux troisième, quatrième et cinquième alinéas du I et au II
-viendrait à se réaliser à nouveau.
+événements visés aux 1°, 2° et 3° du I et au II viendrait à se réaliser à
+nouveau.
 
 IV. Les personnes physiques mentionnées au I sont soumises aux dispositions
-prévues au quatrième alinéa du II de l'article 151 octies.
+prévues au sixième alinéa du II de l'article 151 octies.

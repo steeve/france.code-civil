@@ -66,7 +66,7 @@ investissements productifs dans le secteur de la maintenance au profit
 d'activités industrielles et dans celui de la production et de la diffusion
 audiovisuelles et cinématographiques.
 
-Un décret détermine les conditions d'application de l'alinéa précédent (2).
+Un décret détermine les conditions d'application du neuvième alinéa (2).
 
 La réduction d'impôt prévue au premier alinéa s'applique aux souscriptions en
 numéraire au capital de sociétés mentionnées au troisième alinéa du II de
@@ -111,15 +111,14 @@ pour les années 1996 à 2001 si les conditions suivantes sont réunies :
 
 1° Les investissements sont réalisés à compter du 1er juillet 1996 et consistent
 en l'acquisition ou la construction de logements neufs à usage locatif ou la
-souscription au capital de sociétés visées aux b et c du deuxième alinéa du 1 et
-qui ont pour objet de construire ou d'acquérir de tels logements ;
+souscription au capital de sociétés visées aux b et c du 1 et qui ont pour objet
+de construire ou d'acquérir de tels logements ;
 
 2° Le contribuable ou la société s'engage à louer nu l'immeuble dans les six
 mois de son achèvement ou de son acquisition si elle est postérieure et pendant
 six ans au moins à des personnes qui en font leur habitation principale. En cas
-de souscription au capital de sociétés visées aux b et c du deuxième alinéa du
-1, le contribuable s'engage à conserver ses parts ou actions pendant au moins
-six ans ;
+de souscription au capital de sociétés visées aux b et c du 1, le contribuable
+s'engage à conserver ses parts ou actions pendant au moins six ans ;
 
 3° Le loyer et les ressources du locataire n'excèdent pas des plafonds fixés par
 décret (3).
@@ -134,7 +133,7 @@ sous le bénéfice de l'article 210 B ou si la société qui en est propriétair
 fait l'objet d'une fusion placée sous le régime de l'article 210 A, à la
 condition que la société bénéficiaire de l'apport, ou la société absorbante
 selon le cas, réponde aux conditions du 1 et s'engage dans l'acte d'apport ou de
-fusion à respecter les engagements mentionnés au troisième alinéa du 1 pour la
+fusion à respecter les engagements mentionnés au huitième alinéa du 1 pour la
 fraction du délai restant à courir (4).
 
 Quand un contribuable pratique la réduction d'impôt définie au présent article,
@@ -155,14 +154,3 @@ conditions, aux territoires d'outre-mer et aux collectivités territoriales de
 Mayotte et Saint-Pierre-et-Miquelon.
 
 7. Les dispositions du 5 du I de l'article 197 sont applicables.
-
-(1) Voir également l'article 170 decies de l'annexe IV.
-
-(2) Voir l'article 46 quaterdecies BA de l'annexe III.
-
-(3) Voir l'article 46 AG decies de l'annexe III.
-
-(4) Les dispositions de la dernière phrase du présent alinéa sont applicables
-aux opérations intervenues à compter du 1er janvier 1994.
-
-(5) Voir les articles 46 AG sexies à 46 AG nonies de l'annexe III.

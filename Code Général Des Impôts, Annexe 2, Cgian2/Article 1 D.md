@@ -1,7 +1,7 @@
 Article 1 D
 ----
-I. L'engagement de conservation des titres prévu au sixième alinéa du f du 1° du
-I de l'article 31 du code général des impôts est constaté lors du dépôt de la
+I. L'engagement de conservation des titres prévu au huitième alinéa du f du 1°
+du I de l'article 31 du code général des impôts est constaté lors du dépôt de la
 déclaration des revenus de l'année au titre de laquelle les parts ont été
 souscrites ou acquises ou, si elle est postérieure, l'année de l'acquisition ou
 de l'achèvement de l'immeuble.

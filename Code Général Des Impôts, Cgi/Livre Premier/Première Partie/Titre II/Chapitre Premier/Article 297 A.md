@@ -43,15 +43,8 @@ l'excédent est ajouté aux achats de la période suivante.
 Les assujettis revendeurs qui se placent sous ce régime procèdent à une
 régularisation annuelle en ajoutant la différence entre le stock au 31 décembre
 et le stock au 1er janvier de la même année aux achats de la première période
-suivante, telle que définie à l'alinéa précédent, si cette différence est
+suivante, telle que définie au deuxième alinéa, si cette différence est
 négative, ou en la retranchant si elle est positive.
-
-Cette modalité de calcul de la base d'imposition ne fait naître, au profit des
-assujettis revendeurs, aucun droit à restitution de la taxe sur la valeur
-ajoutée au titre de ces opérations.
-
-l'alinéa précédent, si cette différence est négative, ou en la retranchant si
-elle est positive.
 
 Cette modalité de calcul de la base d'imposition ne fait naître, au profit des
 assujettis revendeurs, aucun droit à restitution de la taxe sur la valeur
@@ -60,4 +53,4 @@ ajoutée au titre de ces opérations.
 III. Pour les livraisons d'oeuvres d'art, lorsqu'il n'est pas possible de
 déterminer avec précision le prix d'achat payé par un assujetti revendeur au
 vendeur ou lorsque ce prix n'est pas significatif, la base d'imposition peut
-être constituée par une fraction du prix de vente égale à 30 p. 100 de celui-ci.
+être constituée par une fraction du prix de vente égale à 30% de celui-ci.

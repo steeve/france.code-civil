@@ -10,7 +10,7 @@ répartition sont déterminés par l'acte d'autorisation ou de concession.
 
 Un décret rendu sur la proposition du ministre de l'économie et des finances, du
 ministre de l'intérieur et du ministre de l'industrie précise le mode de
-détermination des pourcentages prévus à l'alinéa précédent ainsi que les
-conditions d'application de cet alinéa (1).
+détermination des pourcentages prévus au premier alinéa ainsi que les conditions
+d'application de cet alinéa (1).
 
 (1) Annexe III, art. 323.

@@ -6,4 +6,4 @@ gratuitement, sur leur demande, aux contribuables non domiciliés dans la commun
 que ce rôle concerne, copie du détail des évaluations attribuées à leurs
 immeubles.
 
-Les avis d'imposition afférents audit rôle reproduisent l'alinéa précédent.
+Les avis d'imposition afférents audit rôle reproduisent le premier alinéa.

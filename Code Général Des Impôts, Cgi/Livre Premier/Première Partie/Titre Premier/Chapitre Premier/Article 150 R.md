@@ -8,6 +8,6 @@ sont précisées par décret (1).
 
 Lorsque le revenu global net est négatif, il est compensé, à due concurrence,
 avec la plus-value. L'excédent éventuel de plus-value est ensuite imposé suivant
-les règles de l'alinéa précédent.
+les règles du premier alinéa.
 
 (1) Annexe II, art. 74 R.

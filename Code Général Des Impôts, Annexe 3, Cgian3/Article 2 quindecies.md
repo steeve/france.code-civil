@@ -46,11 +46,11 @@ de l'année d'achèvement de l'immeuble ou de son acquisition ou si elle est
 postérieure, les documents mentionnés aux 2° et 3° sont joints à la déclaration
 des revenus de l'année en cours de laquelle le bail est signé.
 
-II. - L'engagement de location prévu au 1 du sixième alinéa du g du 1° du I de
-l'article 31 du code général des impôts doit être formulé dans une note annexe à
-la déclaration des revenus de l'année d'achèvement des travaux, établie
-conformément à un modèle fixé par l'administration et comportant l'indication
-des modalités de décompte de la déduction au titre de l'amortissement.
+II. - L'engagement de location prévu au 1 du g du 1° du I de l'article 31 du
+code général des impôts doit être formulé dans une note annexe à la déclaration
+des revenus de l'année d'achèvement des travaux, établie conformément à un
+modèle fixé par l'administration et comportant l'indication des modalités de
+décompte de la déduction au titre de l'amortissement.
 
 III. - L'option prévue au cinquième alinéa du g du 1° du I de l'article 31 du
 code général des impôts doit être formulée dans une note établie conformément à

@@ -1,9 +1,9 @@
 Article 409
 ----
 Lorsque les besoins du service le requièrent et qu'il n'existe aucun
-fonctionnaire apte à exercer les fonctions définies au deuxième alinéa,
-celles-ci peuvent être confiées par intérim à d'anciens fonctionnaires des mêmes
-catégories ou grades.
+fonctionnaire apte à exercer les fonctions définies aux deuxième à cinquième
+alinéas, celles-ci peuvent être confiées par intérim à d'anciens fonctionnaires
+des mêmes catégories ou grades.
 
 Les fonctions dont il s'agit sont :
 

@@ -14,9 +14,9 @@ n'ont pas cessé depuis leur création d'avoir une activité conforme à celle
 prévue au 1°.
 
 Le régime défini à l'article 1655 ter du code général des impôts est applicable
-aux sociétés visées à l'alinéa précédent ainsi qu'à leurs membres jusqu'à la
-date à laquelle elles auront, le cas échéant, cessé de remplir les conditions
-prévues à ce même alinéa.
+aux sociétés visées aux premier, deuxième et troisième alinéas ainsi qu'à leurs
+membres jusqu'à la date à laquelle elles auront, le cas échéant, cessé de
+remplir les conditions prévues à ces mêmes alinéas.
 
 II. A l'égard des sociétés autres que celles visées au I et de leurs membres, le
 régime fiscal défini à l'article 1655 ter du code général des impôts ne devient,

@@ -11,7 +11,7 @@ parts de copropriété par l'intermédiaire de sociétés à responsabilité lim
 mentionnées à l'article 239 bis AA qui ont opté pour le régime fiscal des
 sociétés de personnes et de sociétés à responsabilité limitée à associé unique
 qui n'ont pas opté pour l'assujettissement à l'impôt sur les sociétés, ou par
-l'intermédiaire de fonds de placement quirataire.
+l'intermédiaire de fonds de placement quirataire (1).
 
 Les conditions prévues à l'article 238 bis HN s'appliquent aux sociétés et aux
 fonds de placement quirataire visés au deuxième alinéa.
@@ -21,8 +21,8 @@ décembre de la quatrième année suivant celle de la livraison du navire à la
 copropriété.
 
 Si les conditions ou engagements prévus à l'article 238 bis HN et au quatrième
-alinéa ne sont pas respectés, les dispositions du quatrième alinéa de l'article
+alinéa ne sont pas respectés, les dispositions du douzième alinéa de l'article
 238 bis HN sont applicables.
 
 La déduction prévue au présent article est exclusive de celle résultant, pour le
-même navire, des articles 238 bis HA et 163 vicies.
+même navire, des articles 238 bis HA (2) et 163 vicies (3).

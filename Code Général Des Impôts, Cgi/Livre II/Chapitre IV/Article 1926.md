@@ -16,7 +16,7 @@ Toutefois, les dispositions du présent article ne concernent pas le recouvremen
 des taxes susvisées à l'importation pour lesquelles il est fait application de
 l'article 379 du code des douanes.
 
-La remise en paiement d'obligations cautionnées, visée à l'article 1692, dernier
-alinéa, laisse subsister dans leur intégralité au profit de tous ceux qui les
-acquittent les privilèges et garanties accordés au Trésor par le présent
+La remise en paiement d'obligations cautionnées, visée au troisième alinéa de
+l'article 1692, laisse subsister dans leur intégralité au profit de tous ceux
+qui les acquittent les privilèges et garanties accordés au Trésor par le présent
 article.

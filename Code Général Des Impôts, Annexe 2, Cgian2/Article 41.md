@@ -5,6 +5,5 @@ de résultats figurant au bilan à la clôture de la période considérée avec 
 total des mêmes postes figurant au bilan à la clôture de la période précédente.
 
 En ce qui concerne les sociétés nouvelles, le second terme de la comparaison
-prévue à l'alinéa précédent est fourni par le total des postes visés audit
-alinéa, tels qu'ils existent au moment de la constitution définitive de la
-société.
+prévue au premier alinéa est fourni par le total des postes visés audit alinéa,
+tels qu'ils existent au moment de la constitution définitive de la société.

@@ -1,7 +1,7 @@
 Article 41-0 A bis
 ----
-I. L'état dont la production est prévue au quatrième alinéa du II de l'article
-151 octies du code général des impôts mentionne les éléments suivants :
+I. L'état dont la production est prévue au sixième alinéa du II de l'article 151
+octies du code général des impôts mentionne les éléments suivants :
 
 a) Le nom de l'apporteur, son adresse au moment de la production de l'état et
 l'adresse du siège de la direction de l'entreprise à laquelle étaient affectés

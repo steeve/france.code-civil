@@ -8,6 +8,6 @@ qu'il est fait sous le bénéfice des dispositions du décret n° 54-944 du 14
 septembre 1954.
 
 Conformément aux dispositions de l'article 119-5 du code minier, les échanges
-prévus à l'alinéa ci-dessus ne pourront être réalisés qu'après autorisation
-donnée par le ministre chargé des mines. Cette autorisation devra préciser que
+prévus au premier alinéa ne pourront être réalisés qu'après autorisation donnée
+par le ministre chargé des mines. Cette autorisation devra préciser que
 l'opération bénéficie du régime d'exonération fixé par le présent article.

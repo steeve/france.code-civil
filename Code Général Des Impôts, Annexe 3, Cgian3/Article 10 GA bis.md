@@ -14,8 +14,8 @@ bien par la filiale étrangère.
 
 Les immobilisations dont la durée d'utilisation n'est pas achevée continuent à
 être amorties d'après la valeur d'origine et selon les mêmes modalités que
-celles qui sont retenues pour le calcul des amortissements mentionnés à l'alinéa
-précédent.
+celles qui sont retenues pour le calcul des amortissements mentionnés au
+deuxième alinéa.
 
 II. - Les éléments du bilan de départ et des bilans suivants qui correspondent à
 des établissements ou à des participations dans des filiales qui ont pour objet

@@ -12,7 +12,7 @@ l'établissement de l'impôt que si le débiteur apporte la preuve que les dépe
 correspondent à des opérations réelles et qu'elles ne présentent pas un
 caractère anormal ou exagéré.
 
-Pour l'application de l'alinéa qui précède, les personnes sont regardées comme
+Pour l'application du premier alinéa, les personnes sont regardées comme
 soumises à un régime fiscal privilégié dans l'Etat ou le territoire considéré si
 elles n'y sont pas imposables ou si elles y sont assujetties à des impôts sur
 les bénéfices ou les revenus notablement moins élevés qu'en France.

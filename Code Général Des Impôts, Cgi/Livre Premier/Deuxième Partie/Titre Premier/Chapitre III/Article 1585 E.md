@@ -18,7 +18,6 @@ auquel il se substitue.
 
 III. A défaut de délibération du conseil municipal ou de l'organe délibérant de
 l'établissement public groupant plusieurs communes fixant les taux pour les
-catégories visées aux 7°, 8° et 9° du troisième alinéa du I de l'article 1585 D,
-les taux applicables à ces catégories sont ceux appliqués antérieurement au 15
-juillet 1991 pour la catégorie visée au 7° du troisième alinéa du I du même
-article.
+catégories visées aux 7°, 8° et 9° du I de l'article 1585 D, les taux
+applicables à ces catégories sont ceux appliqués antérieurement au 15 juillet
+1991 pour la catégorie visée au 7° du I du même article.

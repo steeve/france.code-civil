@@ -57,10 +57,10 @@ d) Par un partenaire commercial de la personne morale dès lors que les relation
 entre cette personne morale et ce partenaire sont telles qu'il existe entre eux
 un lien de dépendance économique.
 
-Toutefois, les actions, parts, droits financiers ou droits de vote visés à
-l'alinéa précédent ne sont pas pris en compte pour le calcul du pourcentage de
-résultat de la société ou du groupement, établi hors de France, qui est réputé
-constituer un résultat de la personne morale.
+Toutefois, les actions, parts, droits financiers ou droits de vote visés aux
+deuxième à sixième alinéas ne sont pas pris en compte pour le calcul du
+pourcentage de résultat de la société ou du groupement, établi hors de France,
+qui est réputé constituer un résultat de la personne morale.
 
 3. Le résultat mentionné au 1 fait l'objet d'une imposition séparée. Il est
 réputé acquis le premier jour du mois qui suit la clôture de l'exercice de
@@ -102,7 +102,7 @@ dispositions qui précèdent et notamment les modalités permettant d'éviter la
 double imposition des bénéfices effectivement répartis ainsi que les obligations
 déclaratives de l'entreprise ou de la personne morale (1).
 
-IV. 1. Les dispositions du 1 s'appliquent à raison :
+IV. 1. Les dispositions du 1 bis s'appliquent à raison :
 
 a) des créations ou acquisitions d'entreprises mentionnées au 1 du I bis
 intervenues à compter du 30 septembre 1992 ;
@@ -132,5 +132,3 @@ au I, clos à compter du 31 décembre 1992.
 
 4. Les dispositions du II bis s'appliquent, à compter du 30 septembre 1992, aux
 personnes morales passibles de l'impôt sur les sociétés mentionnées au I bis.
-
-(1) Voir Annexe II, art. 102 S à 102 Z.

@@ -23,6 +23,6 @@ visés aux articles 10 bis et au I de l'article 10 bis A s'entendent des deux
 premiers exercices ou du premier exercice pendant lesquels l'entreprise a eu
 pour objet principal la première transformation en France desdites matières.
 
-Pour l'application des dispositions du dernier alinéa de l'article 6 et du 2 de
-l'article 9, il est tenu compte du cours moyen des matières considérées pendant
-les six derniers mois du premier exercice susvisé.
+Pour l'application des dispositions du quatrième alinéa de l'article 6 et du 2
+de l'article 9, il est tenu compte du cours moyen des matières considérées
+pendant les six derniers mois du premier exercice susvisé.

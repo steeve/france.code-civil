@@ -1,7 +1,7 @@
 Article 31 C
 ----
-Pour l'application du c du deuxième alinéa de l'article 39 CA du code général
-des impôts, le solde des valeurs actualisées afférentes aux réductions ou
+Pour l'application du huitième alinéa de l'article 39 CA du code général des
+impôts, le solde des valeurs actualisées afférentes aux réductions ou
 cotisations supplémentaires d'impôt est déterminé en retenant un taux
 d'actualisation égal à la moyenne pondérée, en fonction du montant des emprunts,
 des taux d'intérêt des emprunts souscrits pour l'acquisition des biens par la

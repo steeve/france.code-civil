@@ -1,6 +1,6 @@
 Article 46 AO bis
 ----
-Ainsi qu'il est dit au cinquième alinéa de l'article D. 129-11 du code du
+Ainsi qu'il est dit au quinzième alinéa de l'article D. 129-11 du code du
 travail, l'entreprise ou l'association doit communiquer à chacun de ses clients
 une attestation fiscale annuelle, délivrée pour bénéficier de la réduction
 d'impôt définie à l'article 199 sexdecies du code général des impôts. Cette

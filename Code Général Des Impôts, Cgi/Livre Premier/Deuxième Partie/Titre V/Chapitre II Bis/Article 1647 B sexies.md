@@ -9,14 +9,15 @@ modalités prévues au II.
 
 Pour les impositions établies au titre de 1999 et des années suivantes, le taux
 de plafonnement est fixé à 3,5 % pour les entreprises dont le chiffre d'affaires
-de l'année au titre de laquelle le plafonnement est demandé est inférieur à 140
-millions de francs, à 3,8 % pour celles dont le chiffre d'affaires est compris
-entre 140 millions de francs et 500 millions de francs et à 4 % pour celles dont
-le chiffre d'affaires excède cette dernière limite.
+de l'année au titre de laquelle le plafonnement est demandé est inférieur à 21
+350 000 euros, à 3,8 % pour celles dont le chiffre d'affaires est compris entre
+21 350 000 euros et 76 225 000 euros et à 4 % pour celles dont le chiffre
+d'affaires excède cette dernière limite.
 
-Par exception aux dispositions des deux alinéas précédents, pour les impositions
-établies au titre de 2002 et des années suivantes, le taux de plafonnement est
-fixé à 1 % pour les entreprises de travaux agricoles, ruraux et forestiers.
+Par exception aux dispositions des premier et deuxième alinéas, pour les
+impositions établies au titre de 2002 et des années suivantes, le taux de
+plafonnement est fixé à 1 % pour les entreprises de travaux agricoles, ruraux et
+forestiers.
 
 I bis. Le plafonnement prévu au I s'applique sur la cotisation de taxe
 professionnelle diminuée, le cas échéant, de l'ensemble des réductions et
@@ -32,12 +33,12 @@ des impositions établies au titre de 1996 et des années suivantes, la cotisati
 de taxe professionnelle s'entend de la somme des cotisations de chaque
 établissement calculées en retenant :
 
-d'une part, la base servant au calcul de la cotisation de taxe professionnelle
+D'une part, la base servant au calcul de la cotisation de taxe professionnelle
 établie au titre de l'année d'imposition au profit de chaque collectivité locale
 et établissement public de coopération intercommunale doté d'une fiscalité
 propre ;
 
-et, d'autre part, le taux de chaque collectivité ou établissement public de
+Et, d'autre part, le taux de chaque collectivité ou établissement public de
 coopération intercommunale à fiscalité propre au titre de 1995 ou le taux de
 l'année d'imposition, s'il est inférieur. Pour les communes qui, en 1995,
 appartenaient à un établissement public de coopération intercommunale sans
@@ -90,7 +91,7 @@ coopération intercommunale perçoit, pour la première fois, à compter de l'an
 l'article 1609 nonies C, le taux à retenir pour le calcul de la cotisation
 éligible au plafonnement est le plus faible des deux taux suivants :
 
-a. le taux retenu pour le calcul des cotisations éligibles au plafonnement
+a. Le taux retenu pour le calcul des cotisations éligibles au plafonnement
 l'année précédant la première année où l'établissement public de coopération
 intercommunale perçoit la taxe professionnelle conformément à l'article 1609
 nonies C pour la commune et, le cas échéant, le ou les établissements publics de
@@ -123,8 +124,8 @@ au premier alinéa des dispositions prévues aux I et V de l'article 1638 quater
 
 3. La cotisation de chaque établissement est majorée du montant de l cotisation
 prévue à l'article 1648 D et des taxes spéciales d'équipement prévues aux
-articles 1599 quinquies, 1607 bis, 1608, 1609 et 1609 A, calculées dans les
-mêmes conditions.
+articles 1599 quinquies, 1607 bis, 1608, 1609 à 1609 F, calculées dans les mêmes
+conditions.
 
 II. 1. La valeur ajoutée mentionnée au I est égale à l'excédent hors taxe de la
 production sur les consommations de biens et services en provenance de tiers
@@ -133,12 +134,12 @@ constaté pour la période définie au I.
 2. Pour la généralité des entreprises, la production de l'exercice est égale à
 la différence entre :
 
-d'une part, les ventes, les travaux, les prestations de services ou les
-recettes, les produits accessoires ; les subventions d'exploitation ; les
-ristournes, rabais et remises obtenus ; les travaux faits par l'entreprise pour
-elle-même ; les stocks à la fin de l'exercice ;
+D'une part, les ventes, les travaux, les prestations de services ou les recettes
+; les produits accessoires ; les subventions d'exploitation ; les ristournes,
+rabais et remises obtenus ; les travaux faits par l'entreprise pour elle-même ;
+les stocks à la fin de l'exercice ;
 
-et, d'autre part, les achats de matières et marchandises, droits de douane
+Et, d'autre part, les achats de matières et marchandises, droits de douane
 compris ; les réductions sur ventes ; les stocks au début de l'exercice.
 
 Les consommations de biens et services en provenance de tiers comprennent : les
@@ -159,20 +160,20 @@ sont déduits de la valeur ajoutée du bailleur.
 activité exclusive la gestion des valeurs mobilières est égale à la différence
 entre :
 
-d'une part, les produits d'exploitation bancaires et produits accessoires ;
+D'une part, les produits d'exploitation bancaires et produits accessoires ;
 
-et, d'autre part, les charges d'exploitation bancaires.
+Et, d'autre part, les charges d'exploitation bancaires.
 
 4. En ce qui concerne les entreprises d'assurance, de capitalisation et de
 réassurance de toute nature, la production est égale à la différence entre :
 
-d'une part, les primes ou cotisations ; les produits financiers ; les produits
+D'une part, les primes ou cotisations ; les produits financiers ; les produits
 accessoires ; les subventions d'exploitation ; les ristournes, rabais et remises
 obtenus ; les commissions et participations reçues des réassureurs ; les travaux
 faits par l'entreprise pour elle-même ; les provisions techniques au début de
 l'exercice.
 
-et, d'autre part, les prestations ; les réductions et ristournes de primes ; les
+Et, d'autre part, les prestations ; les réductions et ristournes de primes ; les
 frais financiers ; les provisions techniques à la fin de l'exercice.
 
 Les consommations intermédiaires comprennent également les commissions versées
@@ -193,5 +194,5 @@ IV. Les dégrèvements résultant de l'application du présent article sont
 ordonnancés dans les six mois suivant celui du dépôt de la demande.
 
 V. Le dégrèvement accordé à un contribuable en application du présent article ne
-peut excéder un milliard de francs pour les impositions établies au titre de
-1994 et 500 millions de francs au titre de 1995 et des années suivantes.
+peut excéder 76 225 000 euros pour les impositions établies au titre de 1995 et
+des années suivantes.

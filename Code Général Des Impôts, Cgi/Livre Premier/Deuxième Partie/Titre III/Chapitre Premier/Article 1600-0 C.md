@@ -19,11 +19,11 @@ e) Des plus-values, gains en capital et profits réalisés sur les marchés à t
 d'instruments financiers et de marchandises, ainsi que sur les marchés d'options
 négociables soumis à l'impôt sur le revenu à un taux proportionnel.
 
-Pour l'application du premier alinéa du présent e, le gain net retiré de la
-cession d'actions acquises dans les conditions prévues aux articles L. 225-177 à
-L. 225-186 du code de commerce est égal à la différence entre le prix effectif
-de cession des actions net des frais et taxes acquittés par le cédant et le prix
-de souscription ou d'achat majoré, le cas échéant, des rémunérations visées au
+Pour l'application du premier alinéa, le gain net retiré de la cession d'actions
+acquises dans les conditions prévues aux articles L. 225-177 à L. 225-186 du
+code de commerce est égal à la différence entre le prix effectif de cession des
+actions net des frais et taxes acquittés par le cédant et le prix de
+souscription ou d'achat majoré, le cas échéant, des rémunérations visées au
 deuxième alinéa de l'article L. 242-1 du code de la sécurité sociale ;
 
 f) De tous revenus qui entrent dans la catégorie des bénéfices industriels et

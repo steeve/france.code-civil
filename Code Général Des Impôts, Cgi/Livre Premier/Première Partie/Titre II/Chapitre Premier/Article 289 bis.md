@@ -37,8 +37,8 @@ a lieu, dans les locaux professionnels des prestataires de services de
 télétransmission, pour vérifier la conformité du fonctionnement du système de
 télétransmission aux exigences du présent article.
 
-Lors de l'intervention mentionnée à l'alinéa précédent, l'administration remet
-au contribuable, ou à son représentant, un avis d'intervention précisant les
+Lors de l'intervention mentionnée au premier alinéa, l'administration remet au
+contribuable, ou à son représentant, un avis d'intervention précisant les
 opérations techniques envisagées sur le système de télétransmission.
 
 En cas d'impossibilité de procéder au contrôle du système ou de manquement aux

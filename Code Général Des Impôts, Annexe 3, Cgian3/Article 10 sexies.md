@@ -15,8 +15,8 @@ réserve que la société absorbante ou nouvelle ou la société bénéficiaire 
 l'apport puisse prétendre, elle-même, à la constitution de provisions pour
 fluctuation des cours.
 
-L'application des dispositions des deux alinéas précédents est subordonnée à
-l'obligation, pour les nouveaux exploitants, pour la société absorbante ou
+L'application des dispositions des deuxième et troisième alinéas est subordonnée
+à l'obligation, pour les nouveaux exploitants, pour la société absorbante ou
 nouvelle ou pour la société bénéficiaire de l'apport, d'inscrire immédiatement à
 leur passif la provision pour fluctuation des cours figurant dans les écritures
 du précédent exploitant, des sociétés fusionnées ou de la société apporteuse et

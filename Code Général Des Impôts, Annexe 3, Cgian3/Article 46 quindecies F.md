@@ -7,4 +7,4 @@ prévues pour l'octroi de l'agrément mentionné à l'article 238 bis HE du mêm
 code.
 
 Le ministre de la culture délivre, à la demande des sociétés concernées, les
-attestations visées à l'alinéa précédent.
+attestations visées au premier alinéa.

@@ -9,9 +9,9 @@ dans la limite de ce montant et de 100 000 F (1) par an, les intérêts des
 emprunts contractés pour financer leurs souscriptions, acquittés l'année de la
 souscription et chacune des cinq années suivantes.
 
-Un salarié ne peut bénéficier que de l'un des avantages mentionnés à l'alinéa
-précédent ou à l'article 199 terdecies A et pour les souscriptions au capital
-d'une seule société.
+Un salarié ne peut bénéficier que de l'un des avantages mentionnés au premier
+alinéa ou à l'article 199 terdecies A et pour les souscriptions au capital d'une
+seule société.
 
 2. L'avantage prévu au 1 est maintenu si les titres de la société nouvelle sont
 apportés à une société civile ou à un fonds commun de placement d'entreprise
@@ -27,8 +27,8 @@ II. Les actions de la société nouvelle peuvent bénéficier d'un droit de vote
 double dès leur émission.
 
 Le droit de vote double qui a été attribué aux actions de la société nouvelle en
-application de l'alinéa précédent est conservé en cas d'apport de ces titres à
-une société civile ou à un fonds commun de placement mentionnés au 2 du I.
+application du premier alinéa est conservé en cas d'apport de ces titres à une
+société civile ou à un fonds commun de placement mentionnés au 2 du I.
 
 La société nouvelle peut émettre des obligations convertibles ou des obligations
 à bons de souscription d'actions dès sa création. Pendant un délai de deux ans,
@@ -76,9 +76,9 @@ Les titres de la société rachetée détenus directement ou indirectement par l
 salarié qui souhaite bénéficier de l'avantage prévue au 1 du I doivent être
 apportés à la société nouvelle contre remise de titres de cette société.
 
-Pour l'application des deux alinéas précédents, un salarié détient indirectement
-des titres de la société nouvelle ou de la société rachetée si ces titres
-appartiennent :
+Pour l'application des premier et deuxième alinéas, un salarié détient
+indirectement des titres de la société nouvelle ou de la société rachetée si ces
+titres appartiennent :
 
 a) Aux membres de son foyer fiscal ;
 

@@ -9,7 +9,5 @@ recensement à domicile des contribuables, sont tenus de souscrire chaque année
 une déclaration sur une formule spéciale fournie par l'administration.
 
 Un arrêté du ministre de l'économie et des finances fixe les conditions dans
-lesquelles doit être déposée la déclaration prévue à l'alinéa qui précède ainsi
-que la forme et le contenu de cette déclaration (1).
-
-(1) Annexe IV, art. 121 Z bis.
+lesquelles doit être déposée la déclaration prévue au premier alinéa ainsi que
+la forme et le contenu de cette déclaration.

@@ -10,5 +10,5 @@ date de leur première mise en circulation.
 
 Toutefois, pour les véhicules mentionnés au premier alinéa immatriculés dans la
 catégorie des voitures particulières, cette disposition s'applique à la fraction
-du prix d'acquisition qui n'excède pas la somme mentionnée au a du deuxième
-alinéa du 4 de l'article 39.
+du prix d'acquisition qui n'excède pas la somme mentionnée au a du 4 de
+l'article 39.

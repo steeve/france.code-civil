@@ -15,7 +15,7 @@ Cette dernière valeur est, le cas échéant, diminuée des amortissements diff�
 en contravention aux dispositions de l'article 39 B du code déjà cité.
 
 En cas de cessions successives d'un même bien à l'intérieur du groupe, les
-valeurs nettes mentionnées à l'alinéa précédent sont diminuées, lors de chaque
+valeurs nettes mentionnées au premier alinéa sont diminuées, lors de chaque
 cession, d'une somme égale aux amortissements calculés sur ces mêmes valeurs et
 admis en déduction du résultat d'ensemble depuis la précédente cession.
 

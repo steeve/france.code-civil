@@ -5,9 +5,9 @@ loi du 28 octobre 1946 sur les dommages de guerre sont, à la condition de s'y
 référer expressément, exonérés des droits de timbre et d'enregistrement ainsi
 que de la taxe de publicité foncière.
 
-Les dispositions de l'alinéa précédent ne s'appliquent pas aux mutations de
-biens sinistrés et des droits à indemnité y afférents sauf si ces mutations
-résultent d'acquisitions faites :
+Les dispositions du premier alinéa ne s'appliquent pas aux mutations de biens
+sinistrés et des droits à indemnité y afférents sauf si ces mutations résultent
+d'acquisitions faites :
 
 a) Par les communes, les départements, les offices publics et les sociétés
 d'habitations à loyer modéré, en vue de la construction d'habitations à loyer

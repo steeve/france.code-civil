@@ -21,6 +21,4 @@ Pour les personnes morales ou organismes imposés aux taux de l'impôt sur les
 sociétés prévus à l'article 219 bis, la contribution, établie dans les
 conditions définies au I de l'article 234 duodecies, est déclarée, recouvrée et
 contrôlée comme l'impôt sur les sociétés dont ils sont redevables, par exception
-aux dispositions des alinéas précédents.
-
-Ces dispositions s'appliquent aux revenus perçus à compter du 1er janvier 2001.
+aux dispositions des premier à troisième alinéas.

@@ -14,7 +14,7 @@ acquisitions sont faites pour le compte d'associations qui seraient susceptibles
 d'être admises au bénéfice des mêmes dispositions si elles procédaient
 directement aux acquisitions considérées.
 
-L'application de l'alinéa précédent est subordonnée à la condition que
+L'application du premier alinéa est subordonnée à la condition que
 l'établissement ou l'organisme acquéreur prenne, dans l'acte d'acquisition,
 l'engagement de transférer la propriété des immeubles acquis à l'association
 bénéficiaire dans un délai de cinq ans à compter de la date de cet acte et, à

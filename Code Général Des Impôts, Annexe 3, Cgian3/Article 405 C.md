@@ -1,9 +1,10 @@
 Article 405 C
 ----
 Les timbres destinés à constater le paiement des droits dus sur les contrats de
-transport routier de marchandises les expéditions en groupage et les permis de
-chasser en ce qui concerne le droit de visa font l'objet de séries spéciales
-distinctes pour chaque catégorie de documents.
+transport routier de marchandises, les expéditions en groupage et les permis de
+chasser en ce qui concerne le droit mentionné au deuxième alinéa de l'article
+964 du code général des impôts, font l'objet de séries spéciales, distinctes
+pour chaque catégorie de documents.
 
 Tous les autres timbres sont d'une série unique.
 

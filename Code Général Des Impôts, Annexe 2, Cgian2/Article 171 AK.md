@@ -1,6 +1,6 @@
 Article 171 AK
 ----
-La demande tendant à l'obtention de l'agrément prévu au deuxième alinéa de
+La demande tendant à l'obtention de l'agrément prévu au dixième alinéa de
 l'article 238 bis HN du code général des impôts est formulée sur papier libre et
 présentée préalablement à la réalisation de l'opération qui la motive.
 
@@ -29,5 +29,5 @@ nécessaires pour l'instruction de la demande, le ministre chargé du budget
 l'invite à les produire.
 
 L'agrément n'est délivré par le ministre chargé du budget qu'après réception des
-avis mentionnés au troisième alinéa du présent article et lorsque toutes les
-conditions prévues pour son obtention sont remplies.
+avis mentionnés au huitième alinéa et lorsque toutes les conditions prévues pour
+son obtention sont remplies.

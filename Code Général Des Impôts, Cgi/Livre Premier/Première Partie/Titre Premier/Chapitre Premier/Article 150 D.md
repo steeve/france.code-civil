@@ -53,7 +53,7 @@ d) Soit produit un certificat d'urbanisme déclarant le terrain constructible ;
 e) L'acquéreur ou le vendeur justifie à l'expiration du délai de quatre ans de
 l'exécution des travaux prévus et de la destination des équipements.
 
-En cas de défaut de production de la justification prévue à l'alinéa précédent,
+En cas de défaut de production de la justification prévue au premier alinéa,
 l'impôt dont le cédant a été dispensé devient immédiatement exigible, nonobstant
 toutes dispositions contraires, sans préjudice de l'intérêt de retard prévu à
 l'article 1727 et compté de la date à laquelle l'impôt aurait dû être acquitté.

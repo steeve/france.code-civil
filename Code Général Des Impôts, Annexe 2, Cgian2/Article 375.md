@@ -22,7 +22,7 @@ immobilière ou par l'entreprise actionnaire ou associée. Ces amortissements
 doivent être inscrits ou maintenus, selon le cas, au passif du bilan de cette
 dernière entreprise.
 
-L'amortissement des immeubles définis à l'alinéa précédent est calculé sur la
+L'amortissement des immeubles définis au premier alinéa est calculé sur la
 valeur d'actif des actions ou parts correspondantes, diminuée du montant des
 amortissements visés ci-dessus, et en fonction du nombre d'années restant à
 courir de la période normale d'utilisation de ces immeubles.

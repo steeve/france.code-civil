@@ -7,4 +7,4 @@ de ceux qui cessent de faire partie de la société ou association.
 
 Ce droit consiste en une taxe annuelle et obligatoire sur la valeur brute des
 biens meubles et immeubles possédés par les sociétés et associations désignées
-dans l'alinéa qui précède.
+dans le premier alinéa.

@@ -10,15 +10,15 @@ de gestion ;
 l'article 208 A et par les sociétés visées au 1° ter de l'article 208 ;
 
 3° Par les sociétés immobilières pour le commerce et l'industrie visés au
-cinquième alinéa du 3° quater de l'article 208 et prélevés sur les bénéfices
-exonérés visés au quatrième alinéa du 3° quater du même article ;
+dixième alinéa du 3° quater de l'article 208 et prélevés sur les bénéfices
+exonérés visés au neuvième alinéa du 3° quater du même article ;
 
 4° Par les sociétés agréées pour le financement des télécommunications
 lorsqu'ils sont prélevés sur les résultats exonérés en application des premier
 et deuxième alinéas de l'article 208 3° quinquies ou lorsqu'ils sont distribués
-en application du quatrième alinéa du même article ;
+en application du neuvième alinéa du même article ;
 
-5° (supprimé)
+5° (Abrogé pour les exercices ouverts à compter du 1er janvier 2000).
 
 6° Par les sociétés de capital-risque lorsque ces distributions proviennent de
 produits et plus-values nets éxonérés en application du 3° septies de l'article

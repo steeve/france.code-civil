@@ -8,9 +8,9 @@ de sociétés par actions ou à responsabilité limitée et que leurs statuts
 prévoient la responsabilité indéfinie des associés en ce qui concerne le passif
 social.
 
-Les sociétés civiles visées à l'alinéa précédent sont soumises au même régime
-que les sociétés en nom collectif effectuant les mêmes opérations ; leurs
-associés sont imposés dans les mêmes conditions que les membres de ces dernières
+Les sociétés civiles visées au premier alinéa sont soumises au même régime que
+les sociétés en nom collectif effectuant les mêmes opérations ; leurs associés
+sont imposés dans les mêmes conditions que les membres de ces dernières
 sociétés.
 
 II. Les dispositions du I sont également applicables :
@@ -22,11 +22,11 @@ d'immeuble ou de fraction d'immeuble ;
 
 2° Aux sociétés civiles ayant pour objet la construction d'immeubles en vue de
 la vente qui sont issues de la transformation de sociétés en nom collectif ayant
-le même objet, ou de sociétés [*immobilières de copropriété*] visées à l'article
-1655 ter sous réserve qu'elles soient en mesure de justifier que, jusqu'à la
-date de la transformation inclusivement, elles n'ont consenti aucune vente
-d'immeuble ou de fraction d'immeuble et qu'aucune de leurs parts ou actions n'a
-été cédée à titre onéreux à une personne autre qu'un associé initial.
+le même objet, ou de sociétés visées à l'article 1655 ter sous réserve qu'elles
+soient en mesure de justifier que, jusqu'à la date de la transformation
+inclusivement, elles n'ont consenti aucune vente d'immeuble ou de fraction
+d'immeuble et qu'aucune de leurs parts ou actions n'a été cédée à titre onéreux
+à une personne autre qu'un associé initial.
 
 Il est sursis à l'imposition des plus-values dégagées lors de la transformation
 à la condition que celle-ci ne s'accompagne d'aucune modification des valeurs

@@ -9,7 +9,7 @@ soit ou non liée au maître d'ouvrage par un contrat de louage d'ouvrage, pour
 couvrir sa responsabilité dans les travaux de bâtiment.
 
 Les contrats couvrant les chantiers ouverts à compter du 1er janvier 1986 et
-comportant des garanties autres que celles visées à l'alinéa précédent doivent
+comportant des garanties autres que celles visées au premier alinéa doivent
 distinguer la partie de la prime ou cotisation afférente à ces dernières
 garanties.
 

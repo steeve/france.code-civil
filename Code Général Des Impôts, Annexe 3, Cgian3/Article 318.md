@@ -10,7 +10,7 @@ cours d'eau séparant deux communes, le produit est partagé par moitié entre c
 deux communes.
 
 Pour chaque commune, la puissance hydraulique moyenne devenue indisponible est
-la somme de produits ou demi-produits qui lui sont comptés en application de
-l'alinéa précédent ; il n'est pas tenu compte de la puissance hydraulique
-moyenne devenue indisponible pour une commune lorsque le débit moyen prélevé est
+la somme de produits ou demi-produits qui lui sont comptés en application du
+deuxième alinéa ; il n'est pas tenu compte de la puissance hydraulique moyenne
+devenue indisponible pour une commune lorsque le débit moyen prélevé est
 inférieur à 10 % du débit moyen annuel du cours d'eau sur la commune considérée.

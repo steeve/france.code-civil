@@ -19,9 +19,9 @@ cédé ou abandonné.
 bénéfices imposables lorsque l'exploitation du fonds est continuée dans les
 conditions prévues aux articles 41 ou 210 du code général des impôts.
 
-L'application des dispositions de l'alinéa précédent est subordonnée à
-l'obligation, pour les nouveaux exploitants, pour la société absorbante ou
-nouvelle ou pour la société bénéficiaire de l'apport :
+L'application des dispositions du premier alinéa est subordonnée à l'obligation,
+pour les nouveaux exploitants, pour la société absorbante ou nouvelle ou pour la
+société bénéficiaire de l'apport :
 
 a. D'inscrire immédiatement à leur passif la provision figurant dans les
 écritures du précédent exploitant, des sociétés fusionnées ou de la société
@@ -31,8 +31,8 @@ chaque exercice ;
 
 b. De rattacher ultérieurement ces dotations à leurs bénéfices imposables dans
 les mêmes conditions qu'aurait dû le faire le précédent exploitant en
-application du neuvième alinéa du 5° du 1 de l'article 39 du code général des
-impôts et de l'article 10 undecies ci-dessus.
+application du douzième alinéa du 5° du 1 de l'article 39 du code général des
+impôts et de l'article 10 undecies.
 
 Cet engagement doit être joint à la déclaration des résultats de l'exercice de
 cession, de cessation ou de décès.

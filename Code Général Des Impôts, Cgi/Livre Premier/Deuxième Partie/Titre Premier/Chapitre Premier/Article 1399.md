@@ -13,9 +13,7 @@ retenues d'eau et de la puissance hydraulique moyenne devenue indisponible dans
 la limite de chaque commune, du fait de l'usine. Les pourcentages fixant cette
 répartition sont déterminés par l'acte d'autorisation ou de concession.
 
-Le mode de détermination des pourcentages prévus à l'alinéa précédent, ainsi que
+Le mode de détermination des pourcentages prévus au premier alinéa, ainsi que
 les conditions d'application de cet alinéa sont fixés par décret rendu sur la
 proposition du ministre de l'économie et des finances, du ministre de
 l'intérieur et du ministre de l'industrie (1).
-
-(1) Annexe III, art. 316 à 321 B.

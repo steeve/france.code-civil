@@ -3,7 +3,7 @@ Article 208
 Sont également exonérés de l'impôt sous réserve des dispositions de l'article
 208 A :
 
-1° (Abrogé)
+1° (Abrogé à compter du 1er janvier 1993) ;
 
 1° bis - Les sociétés d'investissement qui sont constituées et fonctionnent dans
 les conditions prévues au titre II de l'ordonnance n° 45-2710 du 2 novembre
@@ -24,9 +24,7 @@ qui l'ont complété et modifié pour la partie des bénéfices provenant des
 produits nets de leur portefeuille ou des plus-values qu'elles réalisent sur la
 vente des titres ou parts sociales faisant partie de ce portefeuille ;
 
-1° quater (Abrogé)
-
-1° quinquies (Abrogé)
+1° quater et 1° quinquies (Abrogés à compter du 1er janvier 1993) ;
 
 2° Les sociétés ayant pour objet exclusif la gestion d'un portefeuille de
 valeurs mobilières et constituées dans les conditions prévues au titre II de
@@ -64,20 +62,20 @@ la location simple de leurs immeubles, par contrat conclu avant le 1er janvier
 industrielle ou commerciale, est retenu pour le calcul de l'impôt sur les
 sociétés à concurrence de :
 
-- 20 p. 100 de son montant pour l'exercice clos en 1991 ;
+20 p. 100 de son montant pour l'exercice clos en 1991 ;
 
-- 40 p. 100 pour l'exercice clos en 1992 ;
+40 p. 100 pour l'exercice clos en 1992 ;
 
-- 60 p. 100 pour l'exercice clos en 1993 ;
+60 p. 100 pour l'exercice clos en 1993 ;
 
-- 80 p. 100 pour l'exercice clos en 1994 ;
+80 p. 100 pour l'exercice clos en 1994 ;
 
-- 100 p. 100 pour les exercices clos en 1995 et ultérieurement.
+100 p. 100 pour les exercices clos en 1995 et ultérieurement.
 
 Les bénéfices qui proviennent des opérations totalement ou partiellement
-exonérées en application des alinéas précédents sont obligatoirement distribués
-à hauteur de 85 p. 100 de la fraction exonérée de leur montant avant la fin de
-l'exercice qui suit celui de leur réalisation.
+exonérées en application des premier à huitième alinéas sont obligatoirement
+distribués à hauteur de 85 p. 100 de la fraction exonérée de leur montant avant
+la fin de l'exercice qui suit celui de leur réalisation.
 
 Les dispositions du d du 6 de l'article 145, du 3° de l'article 158 quater, du
 3° de l'article 209 ter et du 3° du 3 de l'article 223 sexies sont applicables
@@ -123,7 +121,7 @@ dividendes non soumis à l'impôt sur les sociétés provenant de la société
 immobilière pour le commerce et l'industrie soient redistribués par la société
 apporteuse avant la fin de l'exercice qui suit celui de leur encaissement ;
 
-3° sexies (abrogé)
+3° sexies (abrogé pour les exercices ouverts à compter du 1er janvier 2000) ;
 
 3° septies - Les sociétés de capital-risque qui fonctionnent dans les conditions
 prévues à l'article 1er de la loi n° 85-695 du 11 juillet 1985 modifiée, sur les
@@ -135,18 +133,12 @@ produits et plus-values nets provenant de leur portefeuille autres que ceux
 afférents aux titres rémunérant l'apport de leurs activités qui ne relèvent pas
 de leur objet social ainsi que, pour les sociétés de capital-risque mentionnées
 à la deuxième phrase du 1° de l'article 1er-1 précité, sur les prestations de
-services accessoires qu'elles réalisent ;
+services accessoires qu'elles réalisent (1) ;
 
 3° octies - Les fonds communs de créances pour les bénéfices réalisés dans le
 cadre de leur objet légal ;
 
-4° Les associations de mutilés de guerre et d'anciens combattants reconnues
-d'utilité publique, émettant des participations à la loterie nationale avec
-l'autorisation du ministre des anciens combattants et sous le contrôle organisé
-par les textes réglementaires, pour les bénéfices industriels et commerciaux
-qu'elles réalisent, sous réserve qu'elles assurent elle-mêmes le service
-d'émission, sans prélèvement forfaitaire d'une partie des bénéfices au profit de
-tiers ;
+4° (abrogé).
 
 5° Les organismes de jardins familiaux définis à l'article L 561-2 du code
 rural, lorsque leur activité, considérée dans son ensemble, s'exerce dans des

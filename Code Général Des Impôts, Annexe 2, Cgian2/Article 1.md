@@ -20,6 +20,6 @@ travaux de transformation s'entendent des travaux de reconstruction,
 d'agrandissement, de réparation et d'amélioration ;
 
 4° Pour les logements qui font l'objet des dépenses de reconstruction,
-d'agrandissement et d'amélioration mentionnées au quatrième alinéa du f du 1° du
-I de l'article 31 du code général des impôts, sur le montant de ces dépenses
-majoré des frais qui leur sont afférents.
+d'agrandissement et d'amélioration mentionnées aux 1 et 2 du f du 1° du I de
+l'article 31 du code général des impôts, sur le montant de ces dépenses majoré
+des frais qui leur sont afférents.

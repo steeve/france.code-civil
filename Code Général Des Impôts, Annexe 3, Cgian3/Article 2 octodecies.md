@@ -1,13 +1,13 @@
 Article 2 octodecies
 ----
-I. - L'engagement de conservation des titres prévu au cinquième alinéa du e du
-1° du I de l'article 31 du code général des impôts est constaté lors du dépôt de
-la déclaration des revenus de l'année au cours de laquelle a pris effet la
-location dont les revenus peuvent bénéficier de la déduction forfaitaire majorée
-ou, si elle est postérieure, de l'année au cours de laquelle les parts ont été
+I. - L'engagement de conservation des titres prévu au deuxième alinéa du e du 1°
+du I de l'article 31 du code général des impôts est constaté lors du dépôt de la
+déclaration des revenus de l'année au cours de laquelle a pris effet la location
+dont les revenus peuvent bénéficier de la déduction forfaitaire majorée ou, si
+elle est postérieure, de l'année au cours de laquelle les parts ont été
 acquises.
 
-L'engagement de conservation des titres prévu au huitième alinéa du g du 1° du I
+L'engagement de conservation des titres prévu au dixième alinéa du g du 1° du I
 de l'article précité est constaté lors du dépôt de la déclaration des revenus de
 l'année au titre de laquelle les parts ont été souscrites ou acquises ou, si
 elle est postérieure, de l'année de l'acquisition ou de l'achèvement de

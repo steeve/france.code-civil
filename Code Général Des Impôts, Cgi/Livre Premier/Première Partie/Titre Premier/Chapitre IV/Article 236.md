@@ -7,9 +7,10 @@ ou déduites des résultats de l'année ou de l'exercice au cours duquel elles o
 été exposées.
 
 Lorsqu'une entreprise a choisi de les déduire, ces dépenses ne peuvent pas être
-prises en compte dans l'évaluation du coût des stocks. Ces dispositions sont
-applicables aux dépenses exposées dans les opérations de conception de
-logiciels.
+prises en compte dans l'évaluation du coût des stocks.
+
+Ces dispositions sont applicables aux dépenses exposées dans les opérations de
+conception de logiciels.
 
 I bis. Les subventions allouées aux entreprises par l'Etat, les collectivités
 territoriales et les établissements publics spécialisés dans l'aide à la
@@ -30,8 +31,5 @@ courir entre le premier jour du mois de la date d'acquisition du logiciel et la
 clôture de l'exercice ou la fin de l'année. Le solde est déduit à la clôture de
 l'exercice suivant ou au titre de l'année suivante.
 
-Les dispositions du quatrième alinéa de l'article 209-I ne sont pas applicables
-à l'amortissement prévu par les deux alinéas qui précèdent (1).
-
-(1) Dispositions applicables aux dépenses exposées au cours des exercices
-ouverts à compter du 1er janvier 1984.
+Les dispositions du quatrième alinéa du I de l'article 209 ne sont pas
+applicables à l'amortissement prévu par les premier et deuxième alinéas.

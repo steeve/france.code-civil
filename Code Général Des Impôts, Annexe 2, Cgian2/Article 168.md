@@ -6,8 +6,8 @@ d'immeubles ou de cession d'actions ou de parts qui ont été précédées de
 versements d'acomptes ou d'avances faits, à quelque titre que ce soit,
 directement ou par personne interposée.
 
-Ne sont pas considérés comme des acomptes ou avances au sens de l'alinéa
-précédent les dépôts de garantie effectués, préalablement à la conclusion d'une
-vente ou d'une cession, à un compte spécial ouvert au nom de l'acquéreur par un
-organisme habilité à cet effet, sous réserve que ces dépôts n'excèdent pas 5 %
-du prix de la vente ou de la cession.
+Ne sont pas considérés comme des acomptes ou avances au sens du premier alinéa
+les dépôts de garantie effectués, préalablement à la conclusion d'une vente ou
+d'une cession, à un compte spécial ouvert au nom de l'acquéreur par un organisme
+habilité à cet effet, sous réserve que ces dépôts n'excèdent pas 5 % du prix de
+la vente ou de la cession.

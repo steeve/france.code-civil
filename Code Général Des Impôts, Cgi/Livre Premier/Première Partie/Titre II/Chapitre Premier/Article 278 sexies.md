@@ -15,7 +15,7 @@ Le taux réduit de 5,5 % s'applique également aux indemnités de toute nature
 perçues par les personnes qui exercent sur ces immeubles un droit de propriété
 ou de jouissance.
 
-2. Les livraisons à soi-même mentionnées au dernier alinéa du c du 1 du 7° de
+2. Les livraisons à soi-même mentionnées au quatrième alinéa du c du 1 du 7° de
 l'article 257 de logements sociaux à usage locatif mentionnés aux 3° et 5° de
 l'article L. 351-2 du code de la construction et de l'habitation dont la
 construction a été financée au moyen d'un prêt prévu à l'article R. 331-1 du
@@ -33,4 +33,5 @@ et du 5° de l'article L. 351-2 du même code.
 
 4. Les livraisons à soi-même mentionnées au 7° bis de l'article 257.
 
-II. Abrogé.
+II. (Abrogé pour les ventes ayant acquis date certaine à compter du 22 octobre
+1998).

@@ -21,11 +21,11 @@ où s'opérera la transmission, le rachat, le remboursement ou l'annulation des
 droits sociaux concernés.
 
 Lorsque le contribuable transfère de nouveau son domicile en France, l'impôt
-dont le paiement est en sursis, sur le fondement de l'alinéa précédent, est
-dégrevé d'office en tant qu'il se rapporte à des plus-values afférentes aux
-titres qui, à cette date, demeurent dans le patrimoine du contribuable. Dans ce
-cas, les reports existants sur ces mêmes titres à la date du transfert du
-domicile hors de France sont rétablis de plein droit (1).
+dont le paiement est en sursis, sur le fondement du deuxième alinéa, est dégrevé
+d'office en tant qu'il se rapporte à des plus-values afférentes aux titres qui,
+à cette date, demeurent dans le patrimoine du contribuable. Dans ce cas, les
+reports existants sur ces mêmes titres à la date du transfert du domicile hors
+de France sont rétablis de plein droit (1).
 
 2. Une déclaration provisoire des revenus imposables en vertu du 1 et du 1 bis
 est produite dans les trente jours qui précèdent le transfert du domicile hors

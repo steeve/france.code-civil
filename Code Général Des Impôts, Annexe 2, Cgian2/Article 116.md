@@ -50,7 +50,7 @@ l'article 219 du code général des impôts dans le rapport existant entre les t
 réduits d'imposition des plus-values à long terme et le taux normal.
 
 Toutefois, si la somme visée au 1 est négative, la plus-value nette à long terme
-consolidée, déterminée dans les conditions définies à l'alinéa précédent, peut
+consolidée, déterminée dans les conditions définies au deuxième alinéa, peut
 être utilisée à compenser le déficit consolidé correspondant.
 
 3. Les sommes définies au 1 et au 2 ci-dessus sont respectivement minorées ou
@@ -59,7 +59,4 @@ l'actif immobilisé entre les exploitations mentionnées au b et au d du 1, à
 condition que la valeur pour laquelle ces éléments sont inscrits au bilan de
 l'exploitation cédante ne soit pas modifiée. Cette rectification est effectuée
 dans la plus faible des proportions retenues pour la prise en compte du résultat
-de l'exploitation cédante ou de l'exploitation cessionnaire (1).
-
-(1) Ces dispositions s'appliquent aux exercices ouverts à compter du 1er janvier
-1992.
+de l'exploitation cédante ou de l'exploitation cessionnaire.

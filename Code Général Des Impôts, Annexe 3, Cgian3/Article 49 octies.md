@@ -15,6 +15,6 @@ lors de la fusion.
 Si la charge déduite des résultats imposables de cet exercice par la société
 absorbante au titre des droits effectivement utilisés durant ce même exercice
 par les salariés transférés est inférieure à l'indemnité correspondant à la
-période neutralisée définie à l'alinéa précédent, la différence est réintégrée
-aux résultats imposables de cet exercice en application du deuxième alinéa du II
-de l'article 7 de la loi n° 86-1317 du 30 décembre 1986.
+période neutralisée définie au premier alinéa, la différence est réintégrée aux
+résultats imposables de cet exercice en application du deuxième alinéa du II de
+l'article 7 de la loi n° 86-1317 du 30 décembre 1986.

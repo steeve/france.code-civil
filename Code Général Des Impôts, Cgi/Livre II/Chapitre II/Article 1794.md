@@ -7,7 +7,7 @@ ou marchandises sur lesquels a porté la fraude :
 
 1° Infractions en matière d'alambics et portions d'alambics ;
 
-2° Infractions à l'article 314, dernier alinéa, relatif aux compteurs de
+2° Infractions au cinquième alinéa de l'article 314 relatif aux compteurs de
 distillerie ;
 
 3° Infractions en matière de déclarations de récolte et de stock des vins, des

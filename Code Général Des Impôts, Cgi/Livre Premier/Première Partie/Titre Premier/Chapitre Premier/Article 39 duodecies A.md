@@ -54,8 +54,8 @@ augmentés des amortissements que l'entreprise aurait pu pratiquer comme il est
 indiqué au 1 pendant la période au cours de laquelle elle a été titulaire du
 contrat.
 
-Pour l'application de l'alinéa précédent, l'amortissement que l'entreprise
-aurait pu pratiquer comme il est indiqué au 1 est diminué du montant des sommes
+Pour l'application du premier alinéa, l'amortissement que l'entreprise aurait pu
+pratiquer comme il est indiqué au 1 est diminué du montant des sommes
 réintégrées en application des articles 239 sexies et 239 sexies B.
 
 DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS A COMPTER DU 1ER JANVIER 1996.

@@ -1,9 +1,9 @@
 Article 46 quater-0 ZZ bis
 ----
-Pour bénéficier des dispositions du f du troisième alinéa du I de l'article 219
-du code général des impôts, le contribuable doit joindre à la déclaration des
-résultats de la période d'imposition considérée les documents suivants conformes
-aux modèles établis par l'administration :
+Pour bénéficier des dispositions du f du I de l'article 219 du code général des
+impôts, le contribuable doit joindre à la déclaration des résultats de la
+période d'imposition considérée les documents suivants conformes aux modèles
+établis par l'administration :
 
 a. un état de la répartition du capital social ;
 

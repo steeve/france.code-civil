@@ -14,4 +14,4 @@ résultat d'ensemble.
 
 c) L'état de détermination du bénéfice et de la plus-value nette à long terme
 ouvrant droit à exonération en application du III de l'article 44 octies et du
-cinquième alinéa du I de l'article 44 decies du code général des impôts.
+neuvième alinéa du I de l'article 44 decies du code général des impôts.

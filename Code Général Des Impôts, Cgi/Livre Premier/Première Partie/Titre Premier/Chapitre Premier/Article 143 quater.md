@@ -8,6 +8,6 @@ activités de la société visée dans la convention et où ils ne sont pas
 supérieurs à 5 % du montant du capital nominal augmenté des primes d'émission.
 
 En cas de résiliation de la convention, de dissolution de la société ou
-d'exclusion d'un associé, les impôts évités en application de l'alinéa précédent
+d'exclusion d'un associé, les impôts évités en application du premier alinéa
 deviennent immédiatement exigibles dans les conditions et sous les réserves
 prévues aux 2 à 4 de l'article 39 quinquies C.

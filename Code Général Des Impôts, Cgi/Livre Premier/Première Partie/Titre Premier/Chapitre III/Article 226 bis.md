@@ -14,11 +14,12 @@ organismes collecteurs mentionnés à l'article L. 119-1-1 de ce code, au centre
 de formation ou à la section d'apprentissage où est inscrit cet apprenti, un
 concours financier qui s'impute sur la fraction de la taxe d'apprentissage
 définie au premier alinéa de l'article 227 du code général des impôts. Le
-montant minimum par apprenti de ce concours est déterminé dans des conditions
-fixées par le décret en Conseil d'Etat prévu à l'article L. 119-4 du code du
-travail.
+montant de ce concours est au moins égal, dans la limite de la fraction de la
+taxe réservée à l'apprentissage, au coût par apprenti fixé par la convention de
+création du centre de formation d'apprentis ou de la section d'apprentissage,
+tel que défini au troisième alinéa de l'article L. 118-2-2 du code du travail.
 
-En application de l'article L.118-2-1 du code du travail, les concours
+En application de l'article L. 118-2-1 du code du travail, les concours
 financiers apportés aux écoles d'enseignement technologique et professionnel qui
 répondent aux conditions fixées par le même article sont admis en exonération de
 la taxe d'apprentissage et pris en compte pour la détermination de la fraction

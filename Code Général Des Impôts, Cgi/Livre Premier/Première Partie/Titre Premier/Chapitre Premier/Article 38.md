@@ -62,13 +62,13 @@ chaque exercice, le prix de revient des titres est augmenté ou diminué, selon
 les cas, des écarts de conversion mentionnés à ce même alinéa. Toutefois,
 lorsque les établissements ou les entreprises concernés détiennent des titres
 d'investissement mentionnés à l'article 38 bis B et des titres de participation,
-libellés en monnaie étrangère et dont l'acquisition a été financée en francs,
-les écarts de conversion mentionnés au présent alinéa et constatés sur ces
-titres ne sont pas pris en compte dans le résultat fiscal de l'exercice ; dans
-ce cas, sur le plan fiscal, le prix de revient de ces titres ne tient pas compte
-des écarts de conversion. Ces dispositions sont applicables aux écarts de change
-relatifs à la période postérieure à l'ouverture du premier exercice clos à
-compter du 31 décembre 1990.
+libellés en monnaie étrangère et dont l'acquisition a été financée en francs ou
+en euros, les écarts de conversion mentionnés au présent alinéa et constatés sur
+ces titres ne sont pas pris en compte dans le résultat fiscal de l'exercice ;
+dans ce cas, sur le plan fiscal, le prix de revient de ces titres ne tient pas
+compte des écarts de conversion. Ces dispositions sont applicables aux écarts de
+change relatifs à la période postérieure à l'ouverture du premier exercice clos
+à compter du 31 décembre 1990.
 
 Pour l'exercice clos le 31 décembre 1998 ou la période d'imposition arrêtée à la
 même date, les écarts de conversion afférents aux devises, créances, dettes et
@@ -78,6 +78,25 @@ fonction des taux de conversion définis à l'article 1er du règlement n°
 97/1103/CE du Conseil, du 17 juin 1997, fixant certaines dispositions relatives
 à l'introduction de l'euro.
 
+Les dispositions du premier alinéa ne sont pas applicables, sur option
+irrévocable, aux prêts libellés en monnaie étrangère consentis, à compter du 1er
+janvier 2001, par des entreprises autres que les établissements de crédit et les
+entreprises d'investissement mentionnés à l'article 38 bis A, pour une durée
+initiale et effective d'au moins trois ans, à une société dont le siège social
+est situé dans un Etat ne participant pas à la monnaie unique et dont elles
+détiennent directement ou indirectement plus de la moitié du capital de manière
+continue pendant toute la période du prêt. Corrélativement, la valeur fiscale de
+ces prêts ne tient pas compte des écarts de conversion constatés sur le plan
+comptable. Les dispositions du présent alinéa ne sont pas applicables aux prêts
+faisant l'objet d'une couverture du risque de change (1).
+
+L'option mentionnée au quatrième alinéa est exercée pour chaque prêt. Elle
+résulte de la non-application des dispositions du premier alinéa au titre de
+l'exercice au cours duquel le prêt est consenti. Par exception, pour les
+entreprises ayant consenti des prêts en 2001 et clos un exercice avant le 31
+décembre 2001, l'option résulte de la non-application des dispositions du
+premier alinéa au titre du premier exercice clos à compter de la même date (1).
+
 5. Le profit ou la perte résultant de cessions de titres par un fonds commun de
 placement est compris dans le résultat de l'exercice au cours duquel les parts
 du fonds sont cédées par l'entreprise. Le profit ou la perte est déterminé par
@@ -85,13 +104,13 @@ différence entre le prix de cession et la valeur des parts au bilan de
 l'entreprise.
 
 Par dérogation aux dispositions du premier alinéa, les sommes correspondant à la
-répartition, prévue au sixième alinéa de l'article L. 214-36 du code monétaire
-et financier d'une fraction des actifs d'un fonds commun de placement à risques
-qui remplit les conditions prévues au II de l'article 163 quinquies B, sont
-affectées en priorité au remboursement des apports. L'excédent des sommes
-réparties sur le montant des apports est compris dans le résultat imposable de
-l'exercice au cours duquel cet excédent apparaît. Il est soumis au régime fiscal
-des plus-values à long terme dans la proportion existant entre le montant des
+répartition, prévue au 9 de l'article L. 214-36 du code monétaire et financier
+d'une fraction des actifs d'un fonds commun de placement à risques qui remplit
+les conditions prévues au II de l'article 163 quinquies B, sont affectées en
+priorité au remboursement des apports. L'excédent des sommes réparties sur le
+montant des apports est compris dans le résultat imposable de l'exercice au
+cours duquel cet excédent apparaît. Il est soumis au régime fiscal des
+plus-values à long terme dans la proportion existant entre le montant des
 apports effectués depuis au moins deux ans à la date de la répartition et le
 montant total des apports effectués à cette même date.
 
@@ -180,7 +199,7 @@ ou au prix de ces droits calculé dans les conditions du deuxième alinéa du 1�
 8 du présent article s'ils sont échangés ou convertis pour un prix unique. Le
 montant imposable peut bénéficier du régime des plus-values à long terme prévu à
 l'article 39 duodecies, dans la limite de la plus-value réalisée sur les actions
-détenus depuis deux ans au moins.
+détenues depuis deux ans au moins.
 
 Ces dispositions ne sont pas applicables si le total de la soulte et, le cas
 échéant, du prix des droits mentionnés au deuxième alinéa dépasse 10 p. 100 de
@@ -253,12 +272,11 @@ Les dispositions du présent 7 s'appliquent au remboursement, par la société
 même société procède à l'opération susvisée par émission concomitante d'actions.
 
 7 bis. Le profit ou la perte réalisé lors de l'échange de droits sociaux
-résultant d'une fusion de sociétés, ou d'une scission de société bénéficiant du
-régime prévu à l'article 210 B, peut être compris dans le résultat de l'exercice
-au cours duquel les droits sociaux reçus en échange sont cédés. Dans ce cas, le
-profit ou la perte résultant de la cession ultérieure de ces droits sociaux est
-déterminé par rapport à la valeur que les droits sociaux remis à l'échange
-avaient du point de vue fiscal.
+résultant d'une fusion ou d'une scission de sociétés (2) peut être compris dans
+le résultat de l'exercice au cours duquel les droits sociaux reçus en échange
+sont cédés. Dans ce cas, le profit ou la perte résultant de la cession
+ultérieure de ces droits sociaux est déterminé par rapport à la valeur que les
+droits sociaux remis à l'échange avaient du point de vue fiscal.
 
 En cas de scission de société, la valeur fiscale des titres de chaque société
 bénéficiaire des apports reçus en contrepartie de ceux-ci est égale au produit
@@ -285,14 +303,14 @@ par référence à la fraction du prix d'acquisition afférente à chacun de ces
 
 La fraction afférente aux droits de souscription est égale à la différence entre
 le prix unique et le prix de la valeur mobilière à la date de la souscription ou
-de l'acquisition. Le prix s'entend de la valeur actuelle pour les obligations.
+de l'acquisition. Le prix s'entend de la valeur actuelle pour les obligations ;
 
 2° La différence entre la valeur actuelle d'une obligation assortie de droits de
 souscription et sa valeur de remboursement est considérée, pour l'imposition du
 souscripteur, comme une prime de remboursement. Toutefois, pour les titres émis
-avant le 1er janvier 1993, celle-ci n'est soumise aux dispositions du de
+avant le 1er janvier 1993, celle-ci n'est soumise aux dispositions du I de
 l'article 238 septies B que si son montant excède 15 p. 100 de la valeur
-actuelle de l'obligation.
+actuelle de l'obligation ;
 
 3° Les sommes reçues par une entreprise lors de l'émission de droits de
 souscription ou d'acquisition de valeurs mobilières sont comprises dans ses
@@ -303,16 +321,16 @@ pas été exercés.
 code de commerce n'a pas d'incidence sur les résultats imposables, par
 dérogation aux 1 et 2 du présent article ;
 
-2° Toutefois, les dispositions du quatorzième alinéa du 5° du 1 de l'article 39
+2° Toutefois, les dispositions du dix-septième alinéa du 5° du 1 de l'article 39
 sont applicables à la fraction de la provision constituée à raison de l'écart
-d'équivalence négatif, qui correspond à la dépréciation définie au quinzième
+d'équivalence négatif, qui correspond à la dépréciation définie au dix-huitième
 alinéa du 5° du 1 de l'article 39, des titres évalués selon cette méthode.
 L'excédent éventuel de cette provision n'est pas déductible pour l'assiette de
 l'impôt.
 
 Les provisions qui sont transférées au poste d'écart d'équivalence ainsi que
 celles devenues sans objet en raison de l'application de la méthode d'évaluation
-mentionnée au 1° sont immédiatement rapportées aux résultats imposables. Les
+mentionnée au 1°, sont immédiatement rapportées aux résultats imposables. Les
 provisions pour dépréciation des titres ainsi transférées sont comprises dans
 les plus-values à long terme de l'exercice visées au 1 du I de l'article 39
 quindecies ;

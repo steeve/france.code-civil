@@ -2,10 +2,10 @@ Article 281 ter
 ----
 I. Les héritiers, donataires ou légataires de parts de sociétés civiles
 propriétaires de monuments historiques, qui demandent à bénéficier des
-dispositions des troisième et quatrième alinéas de l'article 795 A du code
-général des impôts, doivent remettre à la recette des impôts compétente pour
-enregistrer l'acte de donation ou la déclaration de succession, dans les délais
-prévus pour cet enregistrement, les documents suivants :
+dispositions des troisième à huitième alinéas de l'article 795 A du code général
+des impôts, doivent remettre à la recette des impôts compétente pour enregistrer
+l'acte de donation ou la déclaration de succession, dans les délais prévus pour
+cet enregistrement, les documents suivants :
 
 1. Une copie des statuts de la société civile propriétaire du monument
 historique, éventuellement modifiés et mis à jour, établis conformément aux

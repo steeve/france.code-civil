@@ -6,5 +6,5 @@ mois, sous la responsabilité du loueur du bureau et par son entremise, une somm
 égale à 25 % du prix de location.
 
 Le loueur du bureau meublé peut être mis en cause, dans les conditions prévues
-par l'alinéa précédent, pour le recouvrement des versements prévus par l'article
+par le premier alinéa, pour le recouvrement des versements prévus par l'article
 1664.

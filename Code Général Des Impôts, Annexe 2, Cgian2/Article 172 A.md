@@ -1,7 +1,7 @@
 Article 172 A
 ----
-I. - Les travaux mentionnés au b du premier alinéa du 7° bis de l'article 257 du
-code général des impôts sont les suivants :
+I. - Les travaux mentionnés au b du 7° bis de l'article 257 du code général des
+impôts sont les suivants :
 
 1° Les travaux d'amélioration qui comprennent :
 
@@ -44,6 +44,4 @@ le caractère de charges non récupérables sur le locataire lorsqu'il s'agit de
 petites réparations nécessaires à la maintenance et à la gestion courante du
 patrimoine.
 
-III. (Abrogé).
-
-IV. (Abrogé).
+III. et IV. (Abrogés).

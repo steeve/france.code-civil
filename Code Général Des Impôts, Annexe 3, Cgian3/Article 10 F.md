@@ -10,12 +10,12 @@ Toutefois, la provision n'est pas rapportée au bénéfice imposable lorsque
 l'exploitation du fonds d'industrie est continuée dans les conditions prévues
 aux articles 41 et 210 A à 210 C du code général susvisé.
 
-L'application des dispositions de l'alinéa précédent est subordonnée à la
-condition que le délai d'utilisation de la provision ne soit pas expiré à la
-date de la cession et à l'obligation pour les nouveaux exploitants, pour la
-société absorbante ou nouvelle ou pour la société bénéficiaire de l'apport,
-d'inscrire immédiatement à leur passif la provision figurant dans les écritures
-du précédent exploitant, des sociétés fusionnées ou de la société apporteuse et
-qui était afférente aux éléments transférés et de l'utiliser avant l'expiration
-du délai imparti à l'ancien exploitant dans les conditions prévues aux articles
-10 C et 10 C sexies et sous les sanctions fixées à l'article 10 E.
+L'application des dispositions du deuxième alinéa est subordonnée à la condition
+que le délai d'utilisation de la provision ne soit pas expiré à la date de la
+cession et à l'obligation pour les nouveaux exploitants, pour la société
+absorbante ou nouvelle ou pour la société bénéficiaire de l'apport, d'inscrire
+immédiatement à leur passif la provision figurant dans les écritures du
+précédent exploitant, des sociétés fusionnées ou de la société apporteuse et qui
+était afférente aux éléments transférés et de l'utiliser avant l'expiration du
+délai imparti à l'ancien exploitant dans les conditions prévues aux articles 10
+C et 10 C sexies et sous les sanctions fixées à l'article 10 E.

@@ -20,7 +20,7 @@ retenir s'entend de celle de la dernière réévaluation.
 Les entreprises dont l'exercice était en cours au 31 décembre 1976 comparent, à
 leur choix, la valeur d'utilité appréciée à cette date soit avec la valeur nette
 comptable à l'arrêté des comptes, soit avec la valeur nette reconstituée au 31
-décembre, l'une et l'autre étant indexées dans les conditions prévues à l'alinéa
-précédent.
+décembre, l'une et l'autre étant indexées dans les conditions prévues au premier
+alinéa.
 
 (1) Annexe IV, art. 23 L bis.

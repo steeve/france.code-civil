@@ -1,7 +1,7 @@
 Article 361
 ----
 Le montant maximum de la taxe à laquelle sont soumis les produits visés aux 1°
-et 2° du premier alinéa de l'article 359 est fixé à :
+et 2° de l'article 359 est fixé à :
 
 1° 0,12 euros par quintal de pommes et de poires et par 12,5 kg de concentré
 desdits produits ;

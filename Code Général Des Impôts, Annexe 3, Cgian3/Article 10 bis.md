@@ -6,7 +6,7 @@ est forfaitairement exprimé, pour l'ensemble des matières premières visées a
 et b de l'article 4, par la moyenne des quantités existant à la clôture des deux
 premiers exercices d'exploitation.
 
-Sous réserve des dispositions du dernier alinéa de l'article 6, et du 2 de
+Sous réserve des dispositions du quatrième alinéa de l'article 6, et du 2 de
 l'article 9, le montant total de la provision pour fluctuation des cours
 susceptible d'être constituée par ces entreprises est limité, à la clôture de
 chaque exercice, à la différence entre, d'une part, le chiffre obtenu en

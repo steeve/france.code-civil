@@ -21,4 +21,4 @@ l'attribution, à chacune des collectivités bénéficiaires, de la part lui
 revenant dans le produit des cotisations dont il s'agit.
 
 Les impositions dues au titre de l'année de la mise en service sont établies et
-réparties selon la procédure définie aux alinéas précédents.
+réparties selon la procédure définie aux premier à quatrième alinéas.

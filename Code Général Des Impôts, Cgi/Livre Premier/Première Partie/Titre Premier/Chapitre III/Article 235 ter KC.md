@@ -18,5 +18,5 @@ litiges relatifs à la réalité et à la validité des versements faits aux
 organismes collecteurs visés à l'article 235 ter KA, sont effectués selon les
 règles applicables en matière de taxe sur le chiffre d'affaires.
 
-Le reversement mentionné à l'article 235 ter KB est soumis au x dispositions des
-deux alinéas précédents.
+Le reversement mentionné à l'article 235 ter KB est soumis aux dispositions des
+premier et deuxième alinéas.

@@ -15,8 +15,8 @@ fiscal.
 Si la charge déduite des résultats imposables de cet exercice par la société
 absorbante au titre des droits effectivement utilisés durant ce même exercice
 par les salariés transférés est inférieure à l'indemnité correspondant à la
-période neutralisée définie à l'alinéa précédent, la différence est réintégrée
-aux résultats imposables de cet exercice.
+période neutralisée définie au premier alinéa, la différence est réintégrée aux
+résultats imposables de cet exercice.
 
 En cas d'apport partiel d'actif, de scission et de transfert de salariés avec
 maintien des contrats de travail, il est fait application des dispositions du

@@ -1,16 +1,16 @@
 Article 2 sexdecies
 ----
-Pour l'application du sixième alinéa du e et du troisième alinéa du g du 1° du I
-de l'article 31 du code général des impôts :
+Pour l'application du troisième alinéa du e et du deuxième alinéa du g du 1° du
+I de l'article 31 du code général des impôts :
 
 1° Le personnel des organismes publics ou privés, sous-locataire du logement,
 s'entend des personnes employées par ces organismes et dont les rémunérations
 principales entrent dans la catégorie des traitements et salaires au sens de
 l'article 79 du code général des impôts ;
 
-2° Les conditions prévues au cinquième alinéa du e et au troisième alinéa du g
-du 1° du I de l'article 31 du code général des impôts s'apprécient en tenant
-compte du montant :
+2° Les conditions prévues au troisième alinéa du e et au deuxième alinéa du g du
+1° du I de l'article 31 du code général des impôts s'apprécient en tenant compte
+du montant :
 
 a) Du loyer payé au bailleur par l'organisme locataire ;
 

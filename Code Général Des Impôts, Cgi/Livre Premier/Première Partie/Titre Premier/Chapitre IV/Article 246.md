@@ -11,6 +11,6 @@ contresigné par le ministre de l'économie et des finances. Ce décret est soum
 dans le délai de trois mois, à la ratification législative.
 
 Les bénéfices réalisés dans les pays ayant consenti l'exonération réciproque
-prévue à l'alinéa précédent par les entreprises de navigation maritime ou
-aérienne qui ont leur siège en France seront compris dans les bases de l'impôt
-dû en France par ces entreprises.
+prévue au deuxième alinéa par les entreprises de navigation maritime ou aérienne
+qui ont leur siège en France seront compris dans les bases de l'impôt dû en
+France par ces entreprises.

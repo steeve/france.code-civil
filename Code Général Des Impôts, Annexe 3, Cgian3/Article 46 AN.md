@@ -13,7 +13,7 @@ domicile de celui-ci, au plus tard le 15 février de l'année suivant celle de l
 cession.
 
 Lorsque le salarié se trouve dans un des cas de dispense de reprise mentionnés
-au dernier alinéa du IV de l'article 83 ter du code général des impôts, la
+au troisième alinéa du IV de l'article 83 ter du code général des impôts, la
 déclaration des revenus est accompagnée d'une note précisant sa situation.
 
 3. Les dispositions du 3 de l'article 38 septdecies I sont applicables.

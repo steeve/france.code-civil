@@ -10,7 +10,7 @@ d'acquisition des droits entre sa fraction représentative des constructions et
 celle représentative du terrain.
 
 L'entreprise qui détient à l'ouverture du premier exercice clos à compter du 31
-décembre 1990 des droits mentionnés à l'alinéa précédent acquis auprès d'un
+décembre 1990 des droits mentionnés au premier alinéa acquis auprès d'un
 précédent locataire joint à la déclaration de résultats de cet exercice un état
 analogue à celui défini au même alinéa.
 

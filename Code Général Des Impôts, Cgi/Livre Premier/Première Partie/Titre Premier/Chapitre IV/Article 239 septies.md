@@ -11,6 +11,5 @@ de l'impôt sur les sociétés s'il s'agit de personnes morales relevant de cet
 impôt.
 
 En ce qui concerne les associés personnes physiques soumis à l'impôt sur le
-revenu dans la catégorie des revenus fonciers, les bénéfices sociaux visés à
-l'alinéa précédent sont déterminés dans les conditions prévues aux articles 28 à
-31.
+revenu dans la catégorie des revenus fonciers, les bénéfices sociaux visés au
+premier alinéa sont déterminés dans les conditions prévues aux articles 28 à 31.

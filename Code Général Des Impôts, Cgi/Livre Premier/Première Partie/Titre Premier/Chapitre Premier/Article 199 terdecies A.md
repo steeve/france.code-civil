@@ -4,15 +4,15 @@ I. 1. Les salariés d'une entreprise qui souscrivent en numéraire au capital
 initial ou aux augmentations de capital intervenant dans les trois ans qui
 suivent la date de constitution d'une société nouvelle ayant pour objet exclusif
 de racheter tout ou partie du capital de leur entreprise peuvent bénéficier
-d'une réduction d'impôt égale à 25 p. 100 des versements afférents à leurs
+d'une réduction d'impôt égale à 25 % des versements afférents à leurs
 souscriptions. Ces versements doivent intervenir dans les trois ans suivant la
 date de constitution de la société et sont retenus dans une limite qui ne peut
 excéder pendant cette période 40 000 F pour les contribuables célibataires,
 veufs ou divorcés, et 80 000 F pour les contribuables mariés soumis à imposition
 commune. Les dispositions du 5 du I de l'article 197 sont applicables.
 
-Un salarié ne peut bénéficier que de l'un des avantages mentionnés à l'alinéa
-précédent ou à l'article 83 ter et pour les souscriptions au capital d'une seule
+Un salarié ne peut bénéficier que de l'un des avantages mentionnés au premier
+alinéa ou à l'article 83 ter et pour les souscriptions au capital d'une seule
 société.
 
 2. L'avantage prévu au 1 est maintenu en cas d'apports des titres de la société

@@ -8,15 +8,15 @@ dans les conditions prévues aux troisième et quatrième alinéas du I de l'art
 209 et à l'article 223 I du code déjà cité.
 
 Toutefois, si le montant du déficit déductible au titre d'un exercice en
-application de l'alinéa précédent est inférieur au pourcentage fixé ci-après du
+application du premier alinéa est inférieur au pourcentage fixé ci-après du
 bénéfice d'ensemble déterminé après déduction du déficit d'ensemble des
 exercices antérieurs, la société mère peut imputer sur son résultat fiscal, à
 hauteur de la différence entre ce pourcentage de bénéfice et ce montant de
-déficit déductible, une fraction complémentaire des déficits mentionnés à
-l'alinéa précédent, autres que ceux imputables dans les conditions prévues au
+déficit déductible, une fraction complémentaire des déficits mentionnés au
+premier alinéa, autres que ceux imputables dans les conditions prévues au
 troisième alinéa du I de l'article 209 du même code.
 
-Le pourcentage mentionné à l'alinéa précédent est égal à un tiers pour le
-premier exercice d'application à la société mère visée au présent article du
-régime défini à l'article 223 A du code général des impôts. Il est augmenté d'un
+Le pourcentage mentionné au deuxième alinéa est égal à un tiers pour le premier
+exercice d'application à la société mère visée au présent article du régime
+défini à l'article 223 A du code général des impôts. Il est augmenté d'un
 sixième pour chacun des quatre exercices suivants.

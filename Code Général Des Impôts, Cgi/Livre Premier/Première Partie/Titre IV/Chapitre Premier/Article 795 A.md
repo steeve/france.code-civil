@@ -44,5 +44,5 @@ la société civile et les ministres de la culture et des finances ;
 
 d) Cette mesure s'applique à compter du 1er janvier 1995.
 
-Les conditions d'application des troisième et quatrième alinéas, et notamment
-les obligations déclaratives, sont déterminées par décret.
+Les conditions d'application des troisième à huitième alinéas, et notamment les
+obligations déclaratives, sont déterminées par décret.
