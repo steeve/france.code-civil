@@ -1,7 +1,6 @@
 Article L136-2
 ----
-La commission nationale de la négociation collective est chargée
-[*attributions*] :
+La commission nationale de la négociation collective est chargée :
 
 1° De faire, au ministre chargé du travail, toutes propositions de nature à
 faciliter le développement de la négociation collective, en particulier en vue
@@ -35,4 +34,8 @@ salariés sans considération d'appartenance à une ethnie, une nation ou une ra
 de constater les inégalités éventuellement persistantes et d'en analyser les
 causes ; la commission nationale a qualité pour faire au ministre chargé du
 travail toute proposition pour promouvoir dans les faits et dans les textes ces
-principes d'égalité.
+principes d'égalité ;
+
+9° De suivre annuellement l'évolution du taux d'activité des personnes de plus
+de cinquante ans afin de faire au ministre chargé du travail toute proposition
+de nature à favoriser leur maintien ou leur retour dans l'emploi.

@@ -24,4 +24,9 @@ Sous réserve de l'article 6 de la loi n° 82-1 du 4 janvier 1982, les
 dispositions des alinéas 2 et 3 ci-dessus sont applicables aux allocations et
 contributions versées en vue d'indemniser la privation partielle d'emploi,
 lorsque cette indemnisation résulte d'accords professionnels, ou
-interprofessionnels, nationaux ou régionaux.
+interprofessionnels, nationaux ou régionaux. Lorsque cette indemnisation vise à
+permettre à certains salariés de bénéficier d'un avantage de préretraite, elle
+doit, pour ouvrir droit au bénéfice de ces dispositions, être mise en oeuvre
+dans le respect de conditions fixées par décret en Conseil d'Etat, liées à l'âge
+et aux caractéristiques, notamment à la pénibilité, de l'activité des
+bénéficiaires (1).

@@ -33,3 +33,17 @@ La négociation sur l'égalité professionnelle se déroule sur la base d'un rap
 présentant la situation comparée des hommes et des femmes dans ces domaines et
 sur la base d'indicateurs pertinents, reposant sur des éléments chiffrés, pour
 chaque secteur d'activité.
+
+Les organisations visées au premier alinéa se réunissent, au moins une fois tous
+les trois ans à compter de la fin de la négociation prévue au I de l'article 12
+de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites, pour
+négocier sur les conditions de travail et la gestion prévisionnelle des emplois
+et des compétences des salariés âgés et sur la prise en compte de la pénibilité
+du travail.
+
+Les organisations visées au premier alinéa se réunissent également, une fois
+tous les cinq ans, pour engager une négociation sur l'institution d'un ou
+plusieurs plans d'épargne interentreprises ou plans partenariaux d'épargne
+salariale volontaire pour la retraite interentreprises mentionnés aux articles
+L. 443-1-1 et L. 443-1-2, lorsqu'il n'existe aucun accord conclu à ce niveau en
+la matière.

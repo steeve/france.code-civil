@@ -1,21 +1,13 @@
 Article L56
 ----
 Les pensions et les rentes viagères d'invalidité instituées par le présent code
-sont incessibles et insaisissables, sauf en cas de débet envers l'Etat, les
-départements, communes ou établissements publics, les territoires d'outre-mer ou
-pour les créances privilégiées aux termes de l'article 2101 du code civil et
-pour le paiement des dettes alimentaires prévues par le code civil ou
-l'exécution de la contribution aux charges du mariage.
+sont cessibles et saisissables dans les conditions prévues à l'article L. 355-2
+du code de la sécurité sociale.
 
-Les débets envers l'Etat, ainsi que ceux contractés envers les diverses autres
-collectivités publiques visées au précédent alinéa, rendent les pensions et les
-rentes viagères d'invalidité passibles de retenues jusqu'à concurrence d'un
-cinquième de leur montant. Il en est de même pour les créances privilégiées de
-l'article 2101 du code civil. Dans les autres cas prévus au précédent alinéa, la
-retenue peut s'élever jusqu'au tiers du montant de la pension ou de la rente
-viagère d'invalidité.
-
-Les retenues du cinquième et du tiers peuvent s'exercer simultanément.
-
-En cas de débets simultanés envers l'Etat et autres collectivités publiques, les
-retenues devront être effectuées en premier lieu au profit de l'Etat.
+Par dérogation aux dispositions du premier alinéa, la saisie peut s'élever à la
+totalité de la pension, réserve faite d'une somme d'un montant égal au tiers du
+minimum garanti prévu à l'article L. 17 du présent code, lorsque cette saisie a
+pour objet d'exécuter les condamnations à des réparations civiles ou aux frais
+dus à la victime au titre de l'article 375 du code de procédure pénale et que
+ces condamnations ont été prononcées à l'encontre d'une personne qui a été jugée
+coupable de crime ou complicité de crime contre l'humanité.

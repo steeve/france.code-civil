@@ -24,7 +24,7 @@ sont fixées par le décret en Conseil d'Etat mentionné à l'alinéa précéden
 
 De même, les sommes ou valeurs transférées d'un plan d'épargne mentionné aux
 articles L. 443-1 et L. 443-1-1 au plan partenarial d'épargne salariale
-volontaire, au terme du délai fixé à l'article L. 443-6, ne sont pas prises en
-compte pour l'appréciation du plafond mentionné au premier alinéa. Ce transfert
-peut donner lieu au versement complémentaire de l'entreprise prévu à l'article
-L. 443-7.
+volontaire pour la retraite, au terme du délai fixé à l'article L. 443-6, ne
+sont pas prises en compte pour l'appréciation du plafond mentionné au premier
+alinéa. Ce transfert peut donner lieu au versement complémentaire de
+l'entreprise prévu à l'article L. 443-7.

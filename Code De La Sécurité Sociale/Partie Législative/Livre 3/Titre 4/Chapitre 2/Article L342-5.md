@@ -6,5 +6,5 @@ remariage.
 La personne dont la pension a été supprimée en application des dispositions du
 premier alinéa du présent article recouvre, en cas de divorce ou de nouveau
 veuvage, soit un droit à pension d'invalidité de veuve ou de veuf si elle n'a
-pas atteint l'âge requis pour l'obtention d'une pension de réversion, soit un
-droit à pension de vieillesse de veuve ou de veuf si elle a atteint cet âge.
+pas atteint un âge fixé par décret, soit un droit à pension de vieillesse de
+veuve ou de veuf si elle a atteint cet âge.

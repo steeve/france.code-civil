@@ -41,6 +41,9 @@ institutions de prévoyance et leurs unions acceptent en réassurance.
 
 Les sommes versées par le fonds ne peuvent excéder, pour les règlements ou
 contrats relevant du V de l'article 29 de la loi n° 89-1009 du 31 décembre 1989
-renforçant les garanties offertes aux personnes assurées contre certains
-risques, le taux de couverture des engagements constaté à la date d'intervention
-du fonds.
+renforçant les garanties offertes aux personnes assurées contre certains risques
+et le cas échéant pour les opérations des institutions de prévoyance créées ou
+fusionnées en application de l'article L. 941-1 tant qu'elles mettent en oeuvre
+les adaptations prévues au II de l'article 116 de la loi n° 2003-775 du 21 août
+2003 portant réforme des retraites, le taux de couverture des engagements
+constaté à la date d'intervention du fonds.

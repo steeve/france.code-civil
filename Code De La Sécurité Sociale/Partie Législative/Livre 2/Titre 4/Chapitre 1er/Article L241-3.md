@@ -9,7 +9,7 @@ salariés ou assimilés, dans la limite d'un plafond fixé par décret, à
 intervalles qui ne peuvent être inférieurs au semestre ni supérieurs à l'année,
 après avis des organisations signataires de la convention collective nationale
 ayant institué les régimes de retraites complémentaires des cadres et compte
-tenu de l'évolution générale des salaires [*financement*].
+tenu de l'évolution générale des salaires.
 
 Ces cotisations dont le taux est fixé par décret, sont pour partie à la charge
 de l'employeur et pour partie à la charge du salarié.
@@ -18,9 +18,9 @@ Des cotisations forfaitaires peuvent être fixées par des arrêtés ministérie
 pour certaines catégories de salariés ou assimilés.
 
 La couverture des charges de l'assurance vieillesse est également assurée par
-des cotisations à la charge des employeurs et assises sur la totalité des
-rémunérations ou gains perçus par les travailleurs salariés ou assimilés. Le
-taux de ces cotisations est fixé par décret.
+des cotisations à la charge des employeurs et des salariés et assises sur la
+totalité des rémunérations ou gains perçus par les travailleurs salariés ou
+assimilés. Le taux de ces cotisations est fixé par décret.
 
 Le recouvrement des cotisations mentionnées au présent article est assuré pour
 le compte de la caisse nationale d'assurance vieillesse par les unions de
