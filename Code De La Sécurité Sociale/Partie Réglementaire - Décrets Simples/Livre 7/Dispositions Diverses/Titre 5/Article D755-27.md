@@ -14,8 +14,7 @@ fixé par arrêté du ministre chargé de la sécurité sociale ;
 2°) les charges d'intérêts et d'amortissements et les charges accessoires
 afférentes aux emprunts substitués à ceux qui sont mentionnés au 1° ci-dessus,
 dans la limite des sommes restant dues en capital sur le montant du premier prêt
-lorsque le second prêt entraîne des charges périodiques de remboursement plus
-faibles que celles du prêt auquel il est substitué ;
+;
 
 3°) les charges afférentes au paiement à terme de tout ou partie du prix d'achat
 ou ayant pour objet de financer les dépenses jugées indispensables à la
@@ -34,8 +33,7 @@ l'allocation de logement :
 1°) les remboursements effectués par le bénéficiaire en anticipation des
 obligations résultant des contrats de prêts qu'il a souscrits ;
 
-2°) les prêts qui se substituent aux prêts déjà obtenus par le bénéficiaire en
-dehors des cas prévus au 2° du premier alinéa du présent article ;
+2°) [*supprimé*]
 
 3°) les prêts constituant une obligation au porteur.
 

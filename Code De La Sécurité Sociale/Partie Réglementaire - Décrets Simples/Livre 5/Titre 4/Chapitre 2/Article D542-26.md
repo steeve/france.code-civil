@@ -6,8 +6,7 @@ l'allocation de logement :
 1°) les remboursements effectués par le bénéficiaire en anticipation des
 obligations résultant des contrats de prêts qu'il a souscrits ;
 
-2°) les prêts qui se substituent aux prêts déjà obtenus par le bénéficiaire, en
-dehors des cas prévus au 2° de l'article D. 542-25 ;
+2°) abrogé
 
 3°) les prêts constituant une obligation au porteur.
 

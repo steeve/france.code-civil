@@ -18,9 +18,9 @@ l'agriculture et du ministre chargé du logement.
 Le loyer mensuel payé par les étudiants logés en résidence universitaire est
 réputé égal à :
 
-- 445 F lorsqu'il s'agit d'une personne isolée ;
+- 449 F lorsqu'il s'agit d'une personne isolée ;
 
-- 692 F lorsqu'il s'agit d'un ménage.
+- 699 F lorsqu'il s'agit d'un ménage.
 
 Ce montant est augmenté de la majoration forfaitaire représentative des charges.
 
