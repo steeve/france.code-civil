@@ -10,7 +10,7 @@ Si, à l'infirmité la plus grave, s'ajoutent deux ou plus de deux infirmités
 supplémentaires, la somme des degrés d'invalidité est calculée en accordant à
 chacune des blessures supplémentaires la majoration prévue à l'article L. 14.
 
-La majoration susvisée est accordée dans la limite de 50 degrés de surpension.
+La majoration susvisée est accordée dans la limite de 100 degrés de surpension.
 Les infirmités classées après celle qui permet, compte tenu de la majoration
 correspondant à son rang, de franchir ladite limite sont affectées d'une
 majoration dont la valeur ne peut être supérieure au pourcentage de l'invalidité
