@@ -3,7 +3,10 @@ Article R342-1
 Le conseil d'administration de la Compagnie nationale Air France comprend
 dix-huit membres :
 
-1° Onze administrateurs désignés par l'assemblée générale des actionnaires ;
+1° Trois représentants de l'Etat, nommés respectivement par arrêté du ministre
+chargé de l'aviation civile, du ministre chargé de l'économie et du ministre
+chargé du budget, et huit administrateurs désignés par l'assemblée générale des
+actionnaires ;.
 
 2° Un représentant des salariés actionnaires désigné, parmi ceux-ci, par
 l'assemblée générale sur proposition d'une section de l'assemblée générale
