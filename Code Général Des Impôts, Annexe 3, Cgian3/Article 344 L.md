@@ -11,9 +11,8 @@ les renseignements et documents permettant d'apprécier l'état de difficulté d
 l'entreprise concernée.
 
 II. L'agrément prévu au quatrième alinéa du I de l'article 44 decies du code
-général des impôts ainsi que celui prévu ((au 2° du quatrième alinéa du I de
-l'article 1466 B)) (M) du même code sont accordés par le ministre chargé du
-budget.
+général des impôts ainsi que celui prévu au b du 2° du quatrième alinéa du I de
+l'article 1466 B du même code sont accordés par le ministre chargé du budget.
 
 Les demandes, établies en quatre exemplaires, sur papier libre, conformément à
 un modèle fixé par l'administration, sont adressées au directeur des services
@@ -28,5 +27,3 @@ de l'agriculture.
 III. Dans le cas où le demandeur n'a pas fourni la totalité des renseignements
 nécessaires pour l'instruction de la demande, le ministre chargé du budget
 l'invite à les produire.
-
-(M) Modification.
