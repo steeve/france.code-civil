@@ -1,40 +1,47 @@
 Article L322-4-2
 ----
-L'Etat peut passer des conventions avec des employeurs pour favoriser
-l'insertion professionnelle des personnes sans emploi rencontrant des
-difficultés particulières d'accès à l'emploi, principalement des chômeurs de
-longue durée, des travailleurs reconnus handicapés par la commission technique
-d'orientation et de reclassement professionnel ainsi que des autres
-bénéficiaires de l'obligation d'emploi prévue à l'article L. 323-1, des
-bénéficiaires de l'allocation de solidarité spécifique et du revenu minimum
-d'insertion, en portant une attention privilégiée aux femmes isolées assumant ou
-ayant assumé des charges de famille.
+Afin de faciliter l'insertion professionnelle durable des demandeurs d'emploi de
+longue durée, des bénéficiaires du revenu minimum d'insertion, des bénéficiaires
+de l'obligation d'emploi prévue à l'article L. 323-1, des bénéficiaires de
+l'allocation spécifique de solidarité, des femmes isolées assumant ou ayant
+assumé des charges de famille, des bénéficiaires de l'allocation d'assurance
+veuvage, des Français ayant perdu leur emploi à l'étranger, dès leur retour en
+France, des personnes âgées de plus de cinquante ans privées d'emploi et des
+personnes déterminées par décret rencontrant des difficultés particulières
+d'accès à l'emploi, l'Etat peut conclure avec des employeurs des conventions
+ouvrant droit au bénéfice de contrats de travail dénommés contrats
+initiative-emploi.
 
-Les contrats de retour à l'emploi conclus en vertu de ces conventions donnent
-droit :
+Les demandeurs d'emploi de longue durée bénéficiaires pendant leurs derniers
+dix-huit mois de chômage d'un stage de formation, ou ayant été contraints
+pendant cette même période à un congé maladie, remplissent les conditions
+d'accès au bénéfice des contrats initiative-emploi.
 
-1° Lorsqu'ils sont conclus avant le 1er juillet 1994, à une aide forfaitaire de
-l'Etat lorsque les bénéficiaires sont soit âgés de plus de cinquante ans et
-privés d'emploi depuis une durée ou dans des conditions particulières précisées
-par décret en Conseil d'Etat, soit bénéficiaires de l'allocation de revenu
-minimum d'insertion et sans emploi depuis plus d'un an, soit demandeurs d'emploi
-depuis plus de trois ans, soit bénéficiaires de l'obligation d'emploi instituée
-par l'article L. 323-1. Le montant de cette aide est fixé par décret ;
+L'Etat peut également conclure avec des employeurs des conventions ouvrant droit
+au bénéfice de contrats initiative-emploi qui peuvent être conclus avec des
+salariés bénéficiaires d'un contrat de travail en application des articles L.
+322-4-7, L. 322-4-8-1 ou L. 322-4-16, au terme de ce contrat, lorsque ces
+salariés appartenaient au début de ce même contrat à l'une des catégories
+définies au premier alinéa.
 
-2° A la prise en charge par l'Etat des frais de formation lorsque le contrat
-associe l'exercice d'une activité professionnelle et le bénéfice d'une formation
-liée à cette activité et dispensée pendant le temps de travail dans le cadre
-d'un cahier des charges comportant notamment les stipulations mentionnées aux
-deuxième, troisième, cinquième et sixième alinéas de l'article L. 920-1 ;
+Les contrats initiative-emploi peuvent être des contrats de travail à temps
+partiel, sans condition de durée minimale en ce qui concerne les personnes
+handicapées contraintes à des horaires limités pour des raisons médicales.
 
-3° A l'exonération des cotisations sociales dans les conditions fixées à
-l'article L. 322-4-6.
+Les contrats initiative-emploi conclus en vertu de ces conventions donnent droit
+:
 
-4° A une aide de l'Etat destinée à faciliter l'exercice des fonctions de tuteur
-dans les conditions fixées par un décret en Conseil d'Etat.
+1° A une aide forfaitaire de l'Etat dans des conditions et pour un montant fixés
+par décret ;
 
-Le comité d'entreprise ou d'établissement ou, à défaut, les délégués du
-personnel sont informés des conventions conclues.
+2° A l'exonération des cotisations patronales de sécurité sociale dans les
+conditions fixées à l'article L. 322-4-6.
 
-Les contrats de retour à l'emploi ne peuvent revêtir la forme de contrats de
-travail temporaire, tels que prévus à l'article L. 124-2 [*interdiction*].
+Les conventions peuvent prévoir une formation liée à l'activité de l'entreprise
+ouvrant droit à une aide de l'Etat, à laquelle peut s'ajouter, pour les chômeurs
+de plus de deux ans, une aide au tutorat.
+
+Aucune convention ne peut être conclue pour une embauche bénéficiant d'une autre
+aide à l'emploi. L'exonération ne peut pas être cumulée avec une autre
+exonération partielle ou totale de cotisations patronales ni avec l'application
+de taux spécifiques, d'assiettes ou de montants forfaitaires de cotisations.

@@ -44,10 +44,11 @@ interventions des associations régionales pour la formation professionnelle des
 adultes.
 
 Les comités départementaux de la formation professionnelle, de la promotion
-sociale et de l'emploi comprennent des représentants élus des collectivités
-territoriales. Ces comités se réunissent au moins une fois par an sous la
-présidence du préfet du département qui, à cette occasion, présente le bilan de
-la politique de l'emploi et de la formation professionnelle dans le département.
+sociale et de l'emploi comprennent [*composition*] des représentants élus des
+collectivités territoriales et les parlementaires du département. Ces comités se
+réunissent au moins une fois par an sous la présidence du préfet du département
+qui, à cette occasion, présente le bilan de la politique de l'emploi et de la
+formation professionnelle dans le département.
 
 Les membres non fonctionnaires des comités visés à l'alinéa précédent
 bénéficient pendant les heures qu'ils consacrent à leur mission d'une

@@ -18,19 +18,29 @@ autre aide à l'emploi financée par l'Etat ;
 2° A une exonération des cotisations à la charge de l'employeur dues au titre
 des assurances sociales, des allocations familiales et des accidents du travail
 ; cette exonération porte sur la partie des rémunérations des salariés
-n'excédant pas le salaire minimum de croissance ; elle est accordée pendant une
-durée de deux ans et est subordonnée à la production d'une attestation délivrée
-par les services du ministère chargé de l'emploi ;
+n'excédant pas le salaire minimum de croissance ; elle est accordée dans la
+limite d'une période de vingt-quatre mois suivant la date d'embauche ;
+toutefois, pour les bénéficiaires âgés de plus de cinquante ans et de moins de
+soixante-cinq ans, demandeurs d'emploi depuis plus d'un an ou handicapés ou
+percevant le revenu minimum d'insertion et sans emploi depuis plus d'un an,
+l'exonération porte sur les rémunérations versées jusqu'à ce qu'ils atteignent
+l'âge et justifient de la durée d'assurance, définis aux premier et deuxième
+alinéas de l'article L. 351-1 du code de la sécurité sociale, requis pour
+l'ouverture du droit à une pension de vieillesse à taux plein ; l'exonération
+est subordonnée à la production d'une attestation des services du ministère
+chargé de l'emploi.
 
 3° A la prise en charge par l'Etat des frais de formation lorsque le contrat
 associe l'exercice d'une activité professionnelle et le bénéfice d'une formation
 liée à cette activité et dispensée pendant le temps de travail selon des
 modalités fixées par décret.
 
-II. Les contrats d'accès à l'emploi sont des contrats de travail à durée
-indéterminée dont la durée minimum hebdomadaire est de vingt heures. Ils sont
-passés par écrit et font l'objet d'un dépôt auprès des services relevant du
-ministère chargé de l'emploi.
+II. - Les contrats d'accès à l'emploi sont des contrats de travail à durée
+indéterminée ou à durée déterminée conclus en application de l'article L. 122-2
+; dans ce dernier cas, leur durée doit être au moins égale à douze mois et ne
+peut excéder vingt-quatre mois. Ils ne peuvent revêtir la forme des contrats de
+travail temporaire régis par l'article L. 124-2. Ils sont passés par écrit et
+font l'objet d'un dépôt auprès des services du ministère chargé de l'emploi.
 
 III. Peuvent conclure des contrats d'accès à l'emploi les employeurs définis à
 l'article L. 351-4 et aux 3° et 4° de l'article L. 351-12, ainsi que les
@@ -39,9 +49,9 @@ employeurs des entreprises de pêche maritime non couverts par lesdits articles,
 
 Sans préjudice de l'application des dispositions de l'article 199 sexdecies du
 code général des impôts, peuvent également conclure des contrats d'accès à
-l'emploi les employeurs des salariés définis à l'article L. 772-1. Toutefois,
-ces employeurs n'ont pas droit à l'aide forfaitaire de l'Etat visée au 1° du I
-du présent article.
+l'emploi à durée indéterminée les employeurs des salariés définis à l'article L.
+772-1. Toutefois, ces employeurs n'ont pas droit à l'aide forfaitaire de l'Etat
+visée au 1° du I du présent article.
 
 Les contrats d'accès à l'emploi ne peuvent être conclus par des établissements
 ayant procédé à un licenciement économique dans les six mois précédant la date
@@ -53,10 +63,7 @@ un tel licenciement. L'administration dispose d'un délai d'un mois pour faire
 connaître soit son accord, soit son refus motivé. A défaut de réponse notifiée à
 l'employeur dans le délai précité, l'accord est réputé acquis.
 
-IV. Dans les entreprises occupant au moins dix salariés, la proportion des
-bénéficiaires d'un contrat d'accès à l'emploi, à temps plein ou à temps partiel,
-ne peut excéder 10 p. 100 de l'effectif total. Pour les entreprises à
-établissements multiples, ce pourcentage s'applique à chaque établissement.
+IV. [*supprimé par la Loi 95-881 du 4 août 1995 art. 5*]
 
 V. Les salariés bénéficiaires d'un contrat d'accès à l'emploi ne sont pas pris
 en compte, pendant une durée de deux ans, dans le calcul de l'effectif du

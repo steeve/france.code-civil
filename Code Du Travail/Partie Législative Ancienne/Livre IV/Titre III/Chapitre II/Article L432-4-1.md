@@ -14,13 +14,13 @@ personnel susmentionnées. Il lui communique enfin le nombre des journées de
 travail effectuées, au cours de chacun des trois ou six derniers mois, par les
 salariés sous contrat de travail à durée déterminée et sous contrat de travail
 temporaire ainsi que le nombre des contrats d'insertion en alternance mentionnés
-aux articles L. 981-1, L. 981-6 et L. 981-7 et le nombre des contrats de retour
-à l'emploi prévus à l'article L. 322-4-2. A cette occasion, le chef d'entreprise
-est tenu, à la demande du comité, de porter à sa connaissance tous les contrats
-passés avec les entreprises de travail temporaire pour la mise à disposition des
-salariés sous contrat de travail temporaire ainsi qu'avec les établissements de
-travail protégé lorsque les contrats passés avec ces établissements prévoient la
-formation et l'embauche par l'entreprise de travailleurs handicapés.
+aux articles L. 981-1, L. 981-6 et L. 981-7. A cette occasion, le chef
+d'entreprise est tenu, à la demande du comité, de porter à sa connaissance tous
+les contrats passés avec les entreprises de travail temporaire pour la mise à
+disposition des salariés sous contrat de travail temporaire ainsi qu'avec les
+établissements de travail protégé lorsque les contrats passés avec ces
+établissements prévoient la formation et l'embauche par l'entreprise de
+travailleurs handicapés.
 
 Lorsque, entre deux réunions du comité prévues à l'alinéa ci-dessus, le nombre
 des salariés occupés dans l'entreprise sous contrat de travail à durée

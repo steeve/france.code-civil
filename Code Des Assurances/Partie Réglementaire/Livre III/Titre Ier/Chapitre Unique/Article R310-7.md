@@ -1,5 +1,10 @@
 Article R310-7
 ----
-Toute entreprise agréée en application de l'article L. 321-1 est tenue de faire
-connaître au ministre chargé de l'économie et des finances tout changement de
-titulaire concernant les fonctions de président, directeur général ou directeur.
+Les entreprises soumises au contrôle de l'Etat en vertu de l'article L. 310-1-1
+sont tenues, dans le mois de leur constitution, de notifier cette dernière à la
+commission de contrôle des assurances et d'adresser à celle-ci, dans le même
+délai, un dossier dont la composition est fixée par arrêté du ministre chargé de
+l'économie.
+
+Cette obligation s'impose également aux entreprises qui adoptent pour nouvel
+objet social l'exercice de l'activité de réassurance.
