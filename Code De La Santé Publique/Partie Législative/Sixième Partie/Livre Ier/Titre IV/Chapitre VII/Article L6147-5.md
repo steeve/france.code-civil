@@ -10,18 +10,20 @@ des dispositifs médicaux est déterminé respectivement dans les conditions de
 l'article L. 5123-1 du présent code pour les premiers et, dans les conditions de
 l'article L. 165-3 du code de la sécurité sociale, pour les seconds.
 
-Les dépenses de l'établissement public territorial de Saint-Pierre-et-Miquelon
-prises en compte dans l'objectif des dépenses d'assurance maladie visé au 4° du
-I de l'article LO 111-3 du code de la sécurité sociale sont financées sous la
-forme d'une dotation globale annuelle au sens de l'article L. 174-1 du même
-code. Le montant total annuel des dépenses hospitalières autorisées, qui
-présente un caractère limitatif, est fixé par les ministres chargés de la santé
-et de la sécurité sociale, en fonction de l'objectif prévisionnel d'évolution
-des dépenses des établissements de santé défini à l'article L. 174-1-1 du même
-code, des besoins de santé de la population, des orientations du schéma
-d'organisation sanitaire de Saint-Pierre-et-Miquelon et des priorités nationales
-ou locales en matière de politique sanitaire en tenant compte de l'activité et
-des coûts de l'établissement.
+Dans l'établissement public de santé territorial de Saint-Pierre-et-Miquelon, la
+part des dépenses prises en charge par les régimes obligatoires d'assurance
+maladie est financée par une dotation annuelle. Cette dotation est incluse dans
+l'objectif défini à l'article L. 174-1-1 du code de la sécurité sociale. Son
+montant ainsi que le montant total annuel des dépenses hospitalières autorisées
+sont fixés par les ministres chargés de la santé et de la sécurité sociale en
+fonction de l'objectif des dépenses d'assurance maladie défini au même article,
+des besoins de santé de la population, des orientations du schéma d'organisation
+sanitaire de Saint-Pierre-et-Miquelon et des priorités nationales ou locales en
+matière de politique sanitaire en tenant compte de l'activité et des coûts de
+l'établissement. Le montant des dépenses hospitalières autorisées représente la
+part des dépenses de l'établissement prises en compte pour la fixation de la
+dotation annuelle et des tarifs de prestations. Ce montant a un caractère
+limitatif.
 
 La dotation globale mentionnée à l'alinéa précédent couvre, pour les missions
 mentionnées au troisième alinéa de l'article L. 6147-3, la part des dépenses

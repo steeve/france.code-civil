@@ -21,12 +21,12 @@ correspondants ; exerce, en formation restreinte, les compétences relatives à 
 formation médicale continue des praticiens dans les conditions prévues à
 l'article L. 4133-1 ;
 
-5° Emet un avis sur le projet d'établissement, sur les pro-grammes
+5° Emet un avis sur le projet d'établissement, sur les programmes
 d'investissement relatifs aux travaux et équipements matériels lourds, sur le
 projet de contrat pluriannuel mentionné aux articles L. 6114-1 et L. 6114-2, sur
-le rapport prévu à l'article L. 6143-3, sur le projet de budget, sur les comptes
-de l'établissement, ainsi que sur tous les aspects techniques et financiers des
-activités médicales, odontologiques et pharmaceutiques ;
+le projet de budget, sur les comptes de l'établissement, ainsi que sur tous les
+aspects techniques et financiers des activités médicales, odontologiques et
+pharmaceutiques ;
 
 6° Emet un avis sur la constitution d'un réseau de santé mentionné à l'article
 L. 6321-1, d'une communauté d'établissements de santé mentionnée à l'article L.
@@ -61,12 +61,12 @@ santé d'un établissement public de santé interhospitalier.
 
 En outre, à la demande du président du conseil d'administration, du directeur de
 l'établissement, de son propre président, du tiers de ses membres, du chef de
-service, du chef de département, du coordonnateur concerné, du res-ponsable
-d'une structure médicale telle que définie à l'article L. 6146-8, la commission
-délibère sur les choix médicaux de l'année à venir dans le respect de la
-dotation budgétaire allouée et compte tenu des décisions prises par le conseil
-d'administration et le directeur en application des articles L. 6143-1 et L.
-6143-7.
+service, du chef de département, du coordonnateur concerné, du responsable d'une
+structure médicale telle que définie à l'article L. 6146-8, la commission
+délibère sur les choix médicaux de l'année à venir dans le respect des recettes
+votées par le conseil d'administration et compte tenu des décisions prises par
+le conseil d'administration et le directeur en application des articles L.
+6143-1 et L. 6143-7.
 
 La commission médicale d'établissement peut mandater son président pour préparer
 les décisions mentionnées aux 1° et 2° du présent article.

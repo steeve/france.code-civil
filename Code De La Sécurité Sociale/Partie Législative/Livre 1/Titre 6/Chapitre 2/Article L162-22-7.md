@@ -1,13 +1,28 @@
 Article L162-22-7
 ----
-Un arrêté des ministres chargés de la santé et de la sécurité sociale, pris
-après avis des organisations nationales les plus représentatives des
-établissements mentionnés à l'article L. 710-16-2 du code de la santé publique,
-détermine chaque année, en fonction de l'objectif national de dépenses
-d'assurance maladie, les taux d'évolution moyens des tarifs des prestations
-afférentes aux activités d'alternatives à la dialyse en centre et
-d'hospitalisation à domicile. Cet arrêté détermine également les variations
-maximale et minimale des taux d'évolution des tarifs des prestations qui peuvent
-être alloués à ces établissements par les agences régionales de
-l'hospitalisation, selon des critères définis par l'accord prévu à l'article L.
-162-22-4.
+L'Etat fixe la liste des spécialités pharmaceutiques bénéficiant d'une
+autorisation de mise sur le marché dispensées aux patients hospitalisés dans les
+établissements de santé mentionnés à l'article L. 162-22-6 qui peuvent être
+prises en charge, sur présentation des factures, par les régimes obligatoires
+d'assurance maladie en sus des prestations d'hospitalisation mentionnées au 1°
+du même article, ainsi que les conditions dans lesquelles certains produits et
+prestations mentionnés à l'article L. 165-1 peuvent faire l'objet d'une prise en
+charge en sus des prestations d'hospitalisation susmentionnées.
+
+Bénéficient d'un remboursement intégral de la part prise en charge par les
+régimes obligatoires d'assurance maladie les établissements qui ont adhéré au
+contrat de bon usage des médicaments et des produits et prestations établi par
+le directeur de l'agence régionale de l'hospitalisation dans des conditions
+définies par décret.
+
+Lorsque l'établissement adhérent ne respecte pas les stipulations de ce contrat
+et après qu'il a été mis en demeure de présenter ses observations, ce
+remboursement peut être réduit dans la limite de 30 % de la part prise en charge
+par l'assurance maladie et en tenant compte des manquements constatés.
+
+Les établissements qui n'ont pas adhéré au contrat de bon usage des médicaments
+et des produits et prestations bénéficient d'un remboursement à hauteur de 70 %
+de la part prise en charge par les régimes obligatoires d'assurance maladie.
+
+Dans tous les cas, la différence entre le montant remboursable et le montant
+remboursé ne peut être facturée aux patients.

@@ -1,9 +1,9 @@
 Article L162-30
 ----
-Les établissements d'hospitalisation publics ou privés sont tenus d'aviser la
-caisse primaire intéressée, dans un délai lui permettant d'assurer son contrôle,
-si le séjour du malade paraît devoir être prolongé au-delà d'un délai déterminé,
-sauf s'il s'agit d'un malade mentionné aux 3° et 4° de l'article L. 322-3.
+Les établissements publics de santé ou privés sont tenus d'aviser la caisse
+primaire intéressée, dans un délai lui permettant d'assurer son contrôle, si le
+séjour du malade paraît devoir être prolongé au-delà d'un délai déterminé, sauf
+s'il s'agit d'un malade mentionné aux 3° et 4° de l'article L. 322-3.
 
 En cas de carence de l'établissement, la caisse d'assurance maladie est fondée à
 refuser le remboursement de tout ou partie des éléments constituant les frais

@@ -31,12 +31,15 @@ hospitalier dans les conditions définies à l'article L. 6161-9 ;
 3221-1 ;
 
 10° Prend la décision d'admission à participer au service public hospitalier
-mentionnée à l'article L. 6161-6.
+mentionnée à l'article L. 6161-6 ;
+
+11° Fixe les dispositions prévues aux articles L. 162-22-4, L. 162-22-12 et L.
+162-22-14 du code de la sécurité sociale.
 
 Le directeur rend compte à la commission exécutive des décisions qu'il prend sur
-les matières autres que celles énumérées à l'alinéa précédent. Il la tient
-informée de toute suspension d'autorisation en application du premier alinéa de
-l'article L. 6122-13.
+les matières autres que celles énumérées aux 1° à 11°. Il la tient informée de
+toute suspension d'autorisation en application du premier alinéa de l'article L.
+6122-13.
 
 Dans l'exercice des compétences définies au présent article, le directeur est
 soumis à l'autorité des ministres chargés de la santé et de la sécurité sociale.

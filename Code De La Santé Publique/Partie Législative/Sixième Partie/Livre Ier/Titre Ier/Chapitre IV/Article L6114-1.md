@@ -33,7 +33,7 @@ calendrier d'exécution et mentionnent les indicateurs de suivi et de résultats
 nécessaires à leur évaluation périodique. Le titulaire de l'autorisation adresse
 à l'agence régionale un rapport annuel d'étape ainsi qu'un rapport final.
 
-Sans préjudice des dispositions de l'article L. 162-22-6 du code de la sécurité
+Sans préjudice des dispositions de l'article L. 162-22-18 du code de la sécurité
 sociale, les contrats déterminent les pénalités applicables aux titulaires de
 l'autorisation au titre des articles L. 6114-2 et L. 6114-3 en cas d'inexécution
 partielle ou totale des engagements dont les parties sont convenues.

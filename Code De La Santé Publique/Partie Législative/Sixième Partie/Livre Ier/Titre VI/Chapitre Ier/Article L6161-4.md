@@ -1,11 +1,11 @@
 Article L6161-4
 ----
 Les établissements de santé privés à but non lucratif ne participant pas à
-l'exécution du service public hospitalier mentionnés à l'article L. 174-1 du
-code de la sécurité sociale sont, pour ce qui concerne leurs activités définies
-par les articles L. 6111-1 et L. 6111-2 et la procédure budgétaire applicable,
-soumis aux dispositions fixées aux articles L. 6145-1, L. 6145-4 et au deuxième
-alinéa de l'article L. 6161-7.
+l'exécution du service public hospitalier, mentionnés au c de l'article L.
+162-22-6 du code de la sécurité sociale, ayant opté pour le financement par
+dotation globale sont, pour ce qui concerne les activités définies par les
+articles L. 6111-1 et L. 6111-2 et les modalités de tarification applicables,
+soumis aux dispositions fixées aux articles L. 6145-1 et L. 6145-4.
 
 Ces établissements sont assimilés aux établissements publics de santé en ce qui
 concerne l'accès des assurés sociaux et des personnes bénéficiaires de l'aide

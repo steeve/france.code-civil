@@ -7,8 +7,7 @@ est obligatoirement consulté sur :
 mentionné aux articles L. 6114-1 et L. 6114-2 et les programmes d'investissement
 relatifs aux travaux et équipements matériels lourds ;
 
-2° Le budget, le rapport prévu à l'article L. 6143-3 et les comptes ainsi que le
-tableau des emplois ;
+2° Le budget et les comptes ainsi que le tableau des emplois ;
 
 3° Les créations, suppressions, transformations des structures médicales,
 pharmaceutiques, odontologiques définies au chapitre VI du présent titre et des
