@@ -19,7 +19,7 @@ agricoles en application de l'article L. 732-34 et du 1° de l'article L. 731-42
 acquérir des droits à la pension de retraite proportionnelle moyennant le
 versement de cotisations afférentes à ces périodes. Les conjoints dont la
 situation était régie au 31 décembre 1998 par les dispositions de l'article L.
-732-34 et qui n'ont pas opté avant le 1er juillet 2000 pour le statut de
+732-34 et qui n'ont pas opté avant le 1er janvier 2001 pour le statut de
 conjoint collaborateur mentionné à l'article L. 321-5 en conservant ce statut de
 manière durable dans les conditions fixées par le décret prévu au quatrième
 alinéa de l'article L. 732-31, ne peuvent effectuer de rachat au titre du

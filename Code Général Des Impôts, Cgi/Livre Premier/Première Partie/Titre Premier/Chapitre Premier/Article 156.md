@@ -15,7 +15,7 @@ revenu global des années suivantes jusqu'à la cinquième année inclusivement.
 Toutefois, n'est pas autorisée l'imputation :
 
 1° Des déficits provenant d'exploitations agricoles lorsque le total des revenus
-nets d'autres sources excède 200.000 F ; ces déficits peuvent cependant être
+nets d'autres sources excède 350 000 F ; ces déficits peuvent cependant être
 admis en déduction des bénéfices de même nature des années suivantes jusqu'à la
 cinquième inclusivement.
 
@@ -30,7 +30,7 @@ déficits non déductibles pour ces motifs peuvent cependant être imputés sur 
 bénéfices tirés d'activités de même nature exercées dans les mêmes conditions,
 durant la même année ou les cinq années suivantes. Ces modalités d'imputation
 sont applicables aux déficits réalisés par des personnes autres que les loueurs
-professionnels au sens du sixième alinéa de l'article 151 septies, louant
+professionnels au sens du huitième alinéa de l'article 151 septies, louant
 directement ou indirectement des locaux d'habitation meublés ou destinés à être
 meublés.
 
@@ -179,8 +179,8 @@ code de la sécurité sociale, de licenciement ou de décès du contribuable ou 
 l'un des époux soumis à une imposition commune.
 
 Un contribuable ne peut pour un même logement ou une même souscription de titres
-pratiquer la réduction d'impôt mentionnée à l'article 199 undecies et imputer un
-déficit foncier sur le revenu global.
+pratiquer les réductions d'impôt mentionnées aux articles 199 undecies ou 199
+undecies A et imputer un déficit foncier sur le revenu global.
 
 4° (abrogé).
 

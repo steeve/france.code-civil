@@ -30,7 +30,8 @@ intercommunale faisant application du régime fiscal prévu à l'article 1609
 nonies C du code général des impôts ou du régime fiscal prévu au II de l'article
 1609 quinquies C du même code, il est procédé, en ce qui concerne la taxe
 professionnelle, à la ventilation entre les communes des bases de cette taxe
-selon les modalités suivantes :
+selon les modalités suivantes sous réserve des dispositions du neuvième alinéa
+du présent article :.
 
 - les bases de taxe professionnelle de l'établissement public de coopération
 intercommunale faisant application du régime fiscal prévu à l'article 1609
@@ -42,6 +43,17 @@ de l'établissement public de coopération intercommunale faisant application du
 régime fiscal prévu au II de l'article 1609 quinquies C du code général des
 impôts sont réparties entre les communes d'implantation de la zone au prorata
 des bases constatées pour chaque commune l'année précédente ;
+
+Pour les communes membres d'un établissement public de coopération
+intercommunale faisant application du régime fiscal prévu à l'article 1609
+nonies C du code général des impôts, issu de la transformation d'un syndicat ou
+d'une communauté d'agglomération nouvelle et qui faisaient antérieurement partie
+de ce syndicat ou de cette communauté, il est ajouté à leurs bases de taxe
+professionnelle, calculées selon les modalités prévues à l'article L. 5334-16
+l'année précédant la transformation, une quote-part déterminée au prorata de
+leur population, de l'augmentation ou de la diminution totale des bases de taxe
+professionnelle de l'ensemble des communes membres de l'ancien syndicat
+d'agglomération nouvelle par rapport à l'année précédente.
 
 Toutefois, en cas d'augmentation ou de diminution des bases de taxe
 professionnelle par rapport à celles de l'année précédente de chaque commune

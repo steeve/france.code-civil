@@ -4,7 +4,7 @@ Article 199 undecies
 qui investissent dans les départements de la Guadeloupe, de la Guyane, de la
 Martinique et de la Réunion, dans les territoires d'outre-mer et les
 collectivités territoriales de Mayotte et Saint-Pierre-et-Miquelon jusqu'au 31
-décembre 2002.
+décembre 2000.
 
 Elle s'applique :
 
@@ -77,8 +77,8 @@ doivent s'engager à les conserver pendant cinq ans à compter de la date de la
 souscription.
 
 2. Pour ouvrir droit à la réduction d'impôt, la constitution ou l'augmentation
-du capital des sociétés mentionnées au 1 et dont le montant est supérieur à
-30.000.000 F doit avoir été portée, préalablement à sa réalisation, à la
+du capital des sociétés mentionnées au 1 et dont le montant est supérieur à 30
+000 000 F doit avoir été portée, préalablement à sa réalisation, à la
 connaissance du ministre chargé du budget, et n'avoir pas appelé d'objection
 motivée de sa part dans un délai de trois mois. Il en est de même de la
 construction d'un ou plusieurs immeubles ayant fait l'objet d'un seul permis de
@@ -93,7 +93,7 @@ sommes effectivement payées à la date où le droit à réduction d'impôt est 
 
 Pour la détermination de l'impôt dû au titre des années 1986 à 1989, la
 réduction d'impôt est égale à 50 p. 100 de la base définie au premier alinéa.
-Pour les revenus des années 1990 à 2006, elle est égale à 25 p. 100.
+Pour les revenus des années 1990 à 2004, elle est égale à 25 p. 100.
 
 Toutefois, pour les acquisitions ou constructions de logements neufs à usage
 locatif ou à usage d'habitation principale ou les souscriptions au capital de

@@ -1,6 +1,6 @@
 Article L2531-6
 ----
-- Les employeurs visés à l'article L. 2531-2 sont tenus de procéder au versement
+Les employeurs visés à l'article L. 2531-2 sont tenus de procéder au versement
 prévu audit article auprès des organismes ou services chargés du recouvrement
 des cotisations de sécurité sociale et des allocations familiales, suivant les
 règles de recouvrement, de contentieux et de pénalités applicables aux divers
@@ -15,7 +15,9 @@ lieux de travail ou effectué intégralement le transport collectif de tous leur
 salariés ou de certains d'entre eux et qui, de ce fait, sont exemptés du
 paiement de la prime spéciale uniforme mensuelle de transport ; ce remboursement
 est fait au prorata des effectifs transportés ou logés par rapport à l'effectif
-total ;
+total. Ce remboursement est maintenu aux employeurs concernés, pour la période
+restant à courir après abrogation du périmètre d'urbanisation dans les
+conditions de l'article L. 5341-2 ;
 
 2° Aux employeurs, pour les salariés employés à l'intérieur des périmètres
 d'urbanisation des villes nouvelles, lorsque ces employeurs y sont établis

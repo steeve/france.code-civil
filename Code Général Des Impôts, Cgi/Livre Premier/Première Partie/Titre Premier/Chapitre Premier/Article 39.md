@@ -529,3 +529,22 @@ premier et deuxième alinéas sont admises en déduction du résultat imposable.
 Lorsque le contrat de crédit-bail est cédé, les quotes-parts de loyers non
 déductibles sont considérées comme un élément du prix de revient du contrat pour
 le calcul de la plus-value dans les conditions de l'article 39 duodecies A.
+
+11. 1° Pour ouvrir droit à l'exonération prévue au 31° de l'article 81, les
+charges engagées par une entreprise à l'occasion de l'attribution ou de la mise
+à disposition gratuite à ses salariés de matériels informatiques neufs, de
+logiciels et de la fourniture gratuite de prestations de services liées
+directement à l'utilisation de ces biens sont rapportées au résultat imposable
+des exercices au cours desquels intervient l'attribution en cause ou
+l'achèvement des prestations. Ces dispositions s'appliquent également lorsque
+les salariés bénéficient de l'attribution ou de la mise à disposition de ces
+mêmes biens ou de la fourniture de ces prestations de services pour un prix
+inférieur à leur coût de revient ;
+
+2° Le dispositif prévu au 1° s'applique aux opérations effectuées dans le cadre
+d'un accord conclu, selon les modalités prévues aux articles L. 442-10 et L.
+442-11 du code du travail, du 1er janvier 2001 au 31 décembre 2002, sur option
+exercée dans le document formalisant l'accord. L'attribution, la mise à
+disposition ou la fourniture effective aux bénéficiaires des biens ou
+prestations de services doit s'effectuer dans les douze mois de la conclusion de
+l'accord précité.

@@ -12,29 +12,31 @@ conditions d'obtention des aides prévues pour la réalisation de travaux
 d'amélioration et de construction, qui s'incorporent aux bâtiments
 d'exploitation rurale, destinés à satisfaire aux obligations prévues par les
 textes d'application de la loi n° 76-663 du 19 juillet 1976 modifiée relative
-aux installations classées pour la protection de l'environnement (1) ;
+aux installations classées pour la protection de l'environnement.
 
 Pour les exploitations agricoles à responsabilité limitée qui n'ont pas opté
 pour le régime fiscal des sociétés de capitaux, la limite de la déduction visée
 au premier alinéa est multipliée par le nombre des associés exploitants sans
-pouvoir excéder trois fois les limites visées au premier alinéa (2).
+pouvoir excéder trois fois les limites visées au premier alinéa.
 
 Cette déduction doit être utilisée dans les cinq années qui suivent celle de sa
 réalisation pour l'acquisition et la création d'immobilisations amortissables
 strictement nécessaires à l'activité ou pour l'acquisition et pour la production
 de stocks de produits ou animaux dont le cycle de rotation est supérieur à un an
-((ou pour la souscription de parts sociales de sociétés coopératives agricoles
-visées à l'article L521-1 du code rural, dans la limite des investissements
-nouveaux réalisés par elles, et dont elles peuvent justifier à la clôture de
-l'exercice et au prorata du capital souscrit par les coopérateurs dans le
-financement de cet investissement)) (M).
+ou pour l'acquisition de parts sociales de sociétés coopératives agricoles
+visées à l'article L521-1 du code rural.
 
 La déduction est pratiquée après application de l'abattement prévu à l'article
 73 B.
 
 Lorsque la déduction est utilisée à l'acquisition ou à la création
 d'immobilisations amortissables, la base d'amortissement de celles-ci est
-réduite à due concurrence.
+réduite à due concurrence. Lorsqu'elle est utilisée pour l'acquisition de parts
+sociales de coopératives agricoles, elle est rapportée, par parts égales, au
+résultat de l'exercice qui suit celui de l'acquisition et des neuf exercices
+suivants. Toutefois, le retrait de l'adhérent ou la cession de parts sociales
+entraîne la réintégration immédiate dans le résultat imposable de la fraction de
+la déduction qui n'a pas encore été rapportée.
 
 Les exploitants agricoles qui pratiquent cette déduction renoncent
 définitivement aux dispositions prévues à l'article 72 B pour les stocks qui
@@ -45,7 +47,7 @@ rapportée aux résultats de la cinquième année suivant sa réalisation. Sur
 demande de l'exploitant, elle peut être rapportée en tout ou partie au résultat
 d'un exercice antérieur lorsque ce résultat est inférieur d'au moins 20 p. 100 à
 la moyenne des résultats des trois exercices précédents. Pour le calcul de cette
-moyenne, il n'est pas tenu compte des reports déficitaires (1).
+moyenne, il n'est pas tenu compte des reports déficitaires.
 
 II. L'apport d'une exploitation individuelle, dans les conditions visées au
 sixième alinéa du I de l'article 151 octies à une société civile agricole par un
@@ -53,17 +55,7 @@ exploitant agricole qui a pratiqué la déduction au titre d'un exercice précé
 celui de l'apport n'est pas considéré pour l'application du I comme une
 cessation d'activité si la société bénéficiaire de l'apport en remplit les
 conditions et s'engage à utiliser la déduction conformément à son objet dans les
-cinq années qui suivent celle au cours de laquelle elle a été pratiquée (3).
+cinq années qui suivent celle au cours de laquelle elle a été pratiquée.
 
 Lorsqu'elle n'est pas utilisée conformément à son objet, la déduction est
 rapportée aux résultats de l'exercice clos à l'occasion de l'apport en société.
-
-(1) Ces dispositions sont applicables pour l'imposition des résultats des
-exercices ouverts à compter du 1er janvier 1997.
-
-(2) Disposition applicable aux exercices clos à compter du 2 janvier 1989.
-
-(M) Modification.
-
-(3) Disposition applicable à l'imposition des résultats des exercices ouverts à
-compter du 1er janvier 1995.

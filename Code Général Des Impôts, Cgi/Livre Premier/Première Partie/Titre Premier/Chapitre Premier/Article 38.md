@@ -90,8 +90,8 @@ répartition, prévue au sixième alinéa de l'article 22 de la loi n° 88-1201 
 décembre 1988 relative aux organismes de placement collectif en valeurs
 mobilières et portant création des fonds communs de créances, d'une fraction des
 actifs d'un fonds commun de placement à risques qui remplit les conditions
-prévues au 1° bis du II de l'article 163 quinquies B, sont affectées en priorité
-au remboursement des apports. L'excédent des sommes réparties sur le montant des
+prévues au II de l'article 163 quinquies B, sont affectées en priorité au
+remboursement des apports. L'excédent des sommes réparties sur le montant des
 apports est compris dans le résultat imposable de l'exercice au cours duquel cet
 excédent apparaît. Il est soumis au régime fiscal des plus-values à long terme
 dans la proportion existant entre le montant des apports effectués depuis au
@@ -131,7 +131,7 @@ clôture de l'exercice a pour clause exclusive de compenser le risque d'une
 opération de l'un des deux exercices suivants, traitée sur un marché de nature
 différente, l'imposition du profit réalisé sur le contrat est reportée au
 dénouement de celui-ci, à condition que les opérations dont la compensation est
-envisagée figurent sur le document prévu au 3° (6);
+envisagée figurent sur le document prévu au 3°;
 
 2° bis Le profit sur un contrat à terme portant sur des devises et ayant pour
 seul objet la couverture du risque de change d'une opération future est imposé

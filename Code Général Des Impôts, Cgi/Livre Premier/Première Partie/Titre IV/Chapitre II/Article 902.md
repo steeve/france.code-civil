@@ -98,7 +98,7 @@ chapitres II et III du titre I du livre III du code de la consommation ;
 14° Les minutes, originaux et expéditions ainsi que leurs annexes des actes
 constatant la formation de sociétés en nom collectif, en commandite simple, à
 responsabilité limitée et par actions ainsi que des sociétés civiles à objet
-agricole ;
+agricole et coopératives agricoles ;
 
 15° Les prêts de titres effectués dans les conditions du chapitre V de la loi n°
 87-416 du 17 juin 1987 sur l'épargne et les remises en garantie de valeurs,

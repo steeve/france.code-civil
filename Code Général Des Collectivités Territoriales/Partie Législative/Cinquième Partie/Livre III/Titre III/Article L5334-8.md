@@ -1,6 +1,6 @@
 Article L5334-8
 ----
-- Une dotation de coopération est instituée en faveur de chacune des communes
+Une dotation de coopération est instituée en faveur de chacune des communes
 membres de la communauté ou du syndicat d'agglomération nouvelle. Elle se
 substitue à la dotation de référence à compter de 1992.
 
@@ -8,7 +8,8 @@ Le versement de cette dotation constitue pour la communauté ou le syndicat
 d'agglomération nouvelle une dépense obligatoire.
 
 La dotation de coopération d'une commune comporte trois attributions servies
-dans l'ordre de priorité qui suit :
+dans l'ordre de priorité qui suit sous réserve des dispositions prévues à
+l'article L. 5334-8-1 :
 
 1° Une attribution de garantie de ressources égale à la dernière dotation de
 référence perçue par la commune en 1991. Dans le cas où le montant du fonds de
@@ -33,18 +34,19 @@ versées l'année précédente ;
 
 3° Une attribution de péréquation résultant de la répartition du solde du fonds
 de coopération entre les communes au prorata de l'écart de potentiel fiscal, des
-enfants scolarisés et des logements sociaux.
+enfants scolarisés et des logements sociaux sous réserve des dispositions
+prévues à l'article L. 5334-8-2.
 
 La pondération entre les différents critères ci-dessus énumérés est fixée par le
 conseil d'agglomération ou le comité syndical à la majorité des deux tiers de
-ses membres. A défaut, la pondération entre ces différents critères est la
+ses membres.A défaut, la pondération entre ces différents critères est la
 suivante :
 
-65 p. 100 au titre de l'écart de potentiel fiscal ;
+65 % au titre de l'écart de potentiel fiscal ;
 
-10 p. 100 au titre des enfants scolarisés ;
+10 % au titre des enfants scolarisés ;
 
-25 p. 100 au titre des logements sociaux.
+25 % au titre des logements sociaux.
 
 La fraction de l'attribution de péréquation répartie en fonction de l'écart de
 potentiel fiscal n'est pas versée aux communes dont l'écart de potentiel fiscal
@@ -52,14 +54,14 @@ est négatif ou nul.
 
 Les critères pris en compte pour le calcul des dotations de coopération sont :
 
-le nombre d'enfants scolarisés dans l'enseignement préélémentaire et primaire ;
+-le nombre d'enfants scolarisés dans l'enseignement préélémentaire et primaire ;
 
-les logements sociaux définis à l'article L. 2334-17 ;
+-les logements sociaux définis à l'article L. 2334-17 ;
 
-la population résultant du recensement complémentaire effectué chaque année et
+-la population résultant du recensement complémentaire effectué chaque année et
 diminuée de la population fictive ;
 
-le potentiel fiscal, calculé sur la base des données fiscales de la dernière
+-le potentiel fiscal, calculé sur la base des données fiscales de la dernière
 année connue, qui est égal au montant des bases pondérées de la taxe
 d'habitation et des deux taxes foncières, le coefficient de pondération étant le
 taux moyen d'imposition, à chacune de ces trois taxes, des communes membres de
@@ -71,7 +73,7 @@ l'attribution de garantie de ressources, ou retranché, pour les communes visée
 par l'article L. 5334-10, le montant du reversement tel que défini par cet
 article ;
 
-l'écart de potentiel fiscal d'une commune qui est égal à la différence entre
+-l'écart de potentiel fiscal d'une commune qui est égal à la différence entre
 deux fois le potentiel fiscal moyen par habitant et le potentiel fiscal par
 habitant de la commune, divisée par le potentiel fiscal moyen par habitant et
 multipliée par la population de la commune.

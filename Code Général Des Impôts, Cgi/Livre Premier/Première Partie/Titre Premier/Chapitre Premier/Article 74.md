@@ -6,22 +6,15 @@ dispositions des articles 72 à 73 C sous réserve des simplifications suivantes
 
 a. La comptabilité de l'exploitation n'enregistre journellement que les
 encaissements et les paiements ; les créances et les dettes sont constatées à la
-clôture de l'exercice, sauf en ce qui concerne les dépenses relatives aux frais
-généraux, qui sont payées à échéances régulières et dont la périodicité n'excède
-pas un an.
+clôture de l'exercice, sauf, sur option de l'exploitant, en ce qui concerne les
+dépenses relatives aux frais généraux, qui sont payées à échéances régulières et
+dont la périodicité n'excède pas un an.
 
-b. Les stocks, y compris les animaux, mais non compris les matières premières
-achetées et les avances aux cultures visées à l'article 72 A, sont évalués selon
-une méthode forfaitaire, à partir du cours du jour à la clôture de l'exercice.
-Le décret prévu à l'article 74 B peut définir des méthodes particulières
-d'évaluation pour les matières premières achetées.
-
-Il n'est pas constitué de provision.
-
-Toutefois, les stocks de spiritueux peuvent être évalués, sur option, au prix de
-revient ou au cours du jour à la clôture de l'exercice si ce cours est inférieur
-au prix de revient. Lorsqu'ils sont évalués au prix de revient, ils peuvent
-donner lieu à la constitution de provisions.
+b. Les stocks sont évalués au prix de revient ou au cours du jour à la clôture
+de l'exercice si ce cours est inférieur au prix de revient. Toutefois, ils
+peuvent être évalués, sur option et à l'exception des matières premières
+achetées et des avances aux cultures visées à l'article 72 A, selon une méthode
+forfaitaire, à partir du cours du jour à la clôture de l'exercice ;
 
 c. les frais relatifs aux carburants consommés lors des déplacements
 professionnels de l'exploitant peuvent être enregistrés forfaitairement d'après

@@ -48,14 +48,23 @@ application à leurs bases brutes d'imposition aux quatre taxes directes locales
 du taux moyen national à ces taxes constaté pour la catégorie d'établissement à
 laquelle elles appartiennent. Il est majoré du montant, pour la dernière année
 connue, de la compensation prévue au I du D de l'article 44 de la loi de
-finances pour 1999 (n° 98-1266 du 30 décembre 1998). Toutefois, le potentiel
-fiscal des communautés d'agglomération issues de la transformation de syndicats
-ou de communautés d'agglomération nouvelle est pondéré par le rapport entre les
-bases brutes par habitant de taxe professionnelle des communautés
-d'agglomération et la somme des bases brutes par habitant des syndicats ou
-communautés d'agglomération nouvelle et de ceux d'entre eux qui se sont
-transformés en communautés d'agglomération, sous réserve que ce rapport soit
-inférieur à un.
+finances pour 1999 (n° 98-1266 du 30 décembre 1998).
+
+Toutefois, pour les communautés de communes visées au I de l'article 1609
+quinquies C du Code général des imp&lt;CB&gt;ts, la majoration mentionnée à
+l'alinéa précédent est pondérée par le rapport entre le taux appliqué dans la
+communauté de communes en 1998. De même, pour les communautés de communes visées
+au II de l'article précité, ladite majoration est pondérée par le rapport entre
+le taux moyen national et le taux appliqué dans la communauté de communes entre
+1998 au titre des bases hors zone d'activités économiques.
+
+Par dérogation également, le potentiel fiscal des communautés d'agglomération
+issues de la transformation de syndicats ou de communautés d'agglomération
+nouvelle est pondéré par le rapport entre les bases brutes par habitant de taxe
+professionnelle des communautés d'agglomération et la somme des bases brutes par
+habitant des syndicats ou communautés d'agglomération nouvelle et de ceux
+d'entre eux qui se sont transformés en communautés d'agglomération, sous réserve
+que ce rapport soit inférieur à un.
 
 Le potentiel fiscal des syndicats ou communautés d'agglomération nouvelle est
 déterminé par application à leurs bases brutes de taxe professionnelle du taux
@@ -65,9 +74,8 @@ dernière année connue, de la compensation prévue au I du D de l'article 44 de
 loi de finances pour 1999 précitée.
 
 III. - 1° Le coefficient d'intégration fiscale, qui est défini pour les
-communautés urbaines de 2000 à 2002, les communautés de communes et les
-communautés d'agglomération, est égal, pour chacun de ces établissements
-publics, au rapport entre :
+communautés urbaines de 2000 à 2002 et les communautés d'agglomération, est
+égal, pour chacun de ces établissements publics, au rapport entre :
 
 a) Les recettes provenant des quatre taxes directes locales, de la taxe ou de la
 redevance d'enlèvement des ordures ménagères et de la redevance d'assainissement
@@ -77,6 +85,37 @@ b) Les recettes provenant des quatre taxes directes locales, de la taxe ou de la
 redevance d'enlèvement des ordures ménagères et de la redevance d'assainissement
 perçues par les communes regroupées et l'ensemble des établissements publics de
 coopération intercommunale sur le territoire de celles-ci ;
+
+Les recettes de taxe professionnelle prévues au a et au b ci-dessus perçues par
+les communautés d'agglomération et les communautés urbaines faisant application
+des dispositions de l'article 1609 nonies C du code général des imp&lt;CB&gt;ts
+sont majorées du montant de la dernière année connue de la compensation prévue
+au D de l'article 44 de la loi de finances pour 1999 (n° 98-1266 du 30 décembre
+1998) et, le cas échéant, de celles prévues au B de l'article 4 de la loi n°
+96-987 du 14 novembre 1996 relative à la mise en oeuvre du pacte de relance pour
+la ville ou au B de l'article 3 de la loi n° 96-1143 du 26 décembre 1996
+relative à la zone franche de Corse.
+
+1° bis Le coefficient d'intégration fiscale, qui est défini pour les communautés
+de communes, est égal, pour chacun de ces établissements publics, au rapport
+entre :
+
+a) Les recettes provenant des quatre taxes directes locales et de la taxe ou de
+la redevance d'enlèvement des ordures ménagères perçues par l'établissement
+public minorées des dépenses de transfert ;
+
+b) Les recettes provenant des quatre taxes directes locales et de la taxe ou de
+la redevance d'enlèvement des ordures ménagères perçues par les communes
+regroupées et l'ensemble des établissements publics de coopération
+intercommunale sur le territoire de celles-ci ;
+
+Les recettes de taxe professionnelle prévues au a et au b ci-dessus perçues par
+les communautés de communes faisant application des dispositions de l'article
+1609 nonies C du code général des imp&lt;CB&gt;ts sont majorées du montant de la
+dernière année connue de la compensation prévue au D de l'article 44 de la loi
+de finances pour 1999 précitée et, le cas échéant, de celles prévues au B de
+l'article 4 de la loi n° 96-987 du 14 novembre 1996 précitée ou au B de
+l'article 3 de la loi n° 96-1143 du 26 décembre 1996 précitée.
 
 2° Pour déterminer le coefficient d'intégration fiscale moyen d'une catégorie
 d'établissement public de coopération intercommunale, sont prises en compte les

@@ -116,7 +116,16 @@ ascendant ou un descendant du contribuable, une personne occupant déjà le
 logement ou, si celui-ci est la propriété d'une société non soumise à l'impôt
 sur les sociétés, l'un de ses associés ou un membre du foyer fiscal, un
 ascendant ou un descendant d'un associé. Les associés des sociétés précitées
-s'engagent à conserver leurs parts pendant au moins six ans.
+s'engagent à conserver leurs parts pendant au moins six ans. Un contribuable ne
+peut, pour un même logement ou une même souscription de titres, pratiquer la
+réduction d'impôt mentionnée à l'article 199 undecies A et bénéficier de la
+déduction forfaitaire au taux de 25 % prévue au présent alinéa. Lorsque la
+location est suspendue à l'issue d'une période d'au moins trois ans au profit
+d'un ascendant ou d'un descendant du contribuable, la déduction forfaitaire
+s'applique au taux de 14 % et la période de mise à disposition du logement au
+profit d'un ascendant ou d'un descendant n'est pas prise en compte pour la durée
+de location minimale de six ans. Cette période de mise à disposition du logement
+ne peut excéder neuf ans.
 
 La location du logement consentie à un organisme public ou privé pour le
 logement à usage d'habitation principale de son personnel, à l'exclusion du
@@ -216,7 +225,7 @@ de décès du contribuable ou de l'un des époux soumis à imposition commune, c
 majoration ne s'applique pas.
 
 Pour un même logement, les dispositions du présent f sont exclusives de
-l'application des dispositions des articles 199 nonies à 199 undecies.
+l'application des dispositions des articles 199 nonies à 199 undecies A.
 
 Les dispositions du présent f s'appliquent, sous les mêmes conditions, aux
 logements acquis neufs ou en l'état futur d'achèvement entre le 1er janvier 1999
@@ -272,7 +281,14 @@ plafonds fixés par décret. La location du logement consentie dans les conditio
 fixées au sixième alinéa du e à un organisme public ou privé pour le logement à
 usage d'habitation principale de son personnel, à l'exclusion du propriétaire du
 logement, de son conjoint, de membres de son foyer fiscal ou de ses descendants
-et ascendants, ne fait pas obstacle au bénéfice de la déduction.
+et ascendants, ne fait pas obstacle au bénéfice de la déduction. Lorsque la
+location est suspendue à l'issue d'une période d'au moins trois ans au profit
+d'un ascendant ou d'un descendant du contribuable, ce dernier ne bénéficie pas,
+pendant la période de mise à disposition du logement au profit d'un ascendant ou
+d'un descendant, de la déduction au titre de l'amortissement, et la déduction
+forfaitaire s'applique au taux de 14 %. Cette période de mise à disposition, qui
+ne peut excéder neuf ans, n'est pas prise en compte pour la durée de location
+minimale de neuf ans.
 
 A l'issue de la période couverte par l'engagement de location, tant que la
 condition de loyer prévue au troisième alinéa reste remplie, le propriétaire
@@ -359,7 +375,7 @@ logement ouvrant droit aux dispositions du huitième alinéa, cette allocation e
 versée au bailleur.
 
 Pour un même logement, les dispositions du présent g sont exclusives de
-l'application des dispositions de l'article 199 undecies (3).
+l'application des dispositions des articles 199 undecies (3) ou 199 undecies A.
 
 2° Pour les propriétés rurales :
 

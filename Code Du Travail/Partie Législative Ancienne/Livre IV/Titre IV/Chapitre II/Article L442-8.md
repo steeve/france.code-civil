@@ -5,9 +5,8 @@ exercice sont déductibles pour l'assiette de l'impôt sur les sociétés ou de
 l'impôt sur le revenu exigible au titre de l'exercice au cours duquel elles sont
 réparties entre les salariés.
 
-Elles ne sont pas soumises à la taxe sur les salaires prévue à l'article 231 du
-code général des impôts et ne sont pas prises en considération pour
-l'application de la législation du travail et de la sécurité sociale.
+Elles ne sont pas prises en considération pour l'application de la législation
+du travail et de la sécurité sociale.
 
 II. - Les sommes revenant aux salariés au titre de la participation sont
 exonérées d'impôt sur le revenu.

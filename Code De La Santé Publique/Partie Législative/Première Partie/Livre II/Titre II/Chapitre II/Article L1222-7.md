@@ -17,3 +17,9 @@ santé.
 
 Les personnels de l'Etablissement français du sang sont soumis aux dispositions
 de l'article L. 5323-4.
+
+Pour l'application du code du travail, l'Etablissement français du sang est
+considéré comme un établissement public industriel et commercial. Les titres
+Ier, II et III du livre IV du code du travail s'appliquent aux personnels visés
+au 1° du présent article. Ces personnels bénéficient des mesures de protection
+sociale prévues par le code du travail pour les représentants du personnel.
