@@ -1,22 +1,21 @@
 Article 33
 ----
-En matière d'établissement ayant pour effet de modifier le régime, le cours ou
-le niveau des eaux, et en matière de prise d'eau n'ayant pas pour objet
-d'utiliser l'énergie du cours d'eau, les ingénieurs en chef de la navigation
-statuent dans les conditions ci-après :
+L'autorité compétente pour statuer, après enquête , sur les établissements et
+prises d'eau ayant pour effet de modifier le régime, le niveau ou le mode
+d'écoulement des eaux est le commissaire de la République du département sur le
+territoire duquel est situé l'établissement.
 
-1° après enquête et sauf recours au ministre des travaux publics, sur les
-demandes ayant pour objet de faire des prises d'eau au moyen de machines,
-lorsqu'il est constaté que, eu égard au volume du cours d'eau, elles n'auront
-pas pour effet d'en altérer le régime ;
+Lorsque l'établissement ou la prise d'eau doit être réalisé sur le territoire de
+deux ou plusieurs départements, il est statué par un arrêté conjoint des
+commissaires de la République des départements intéressés.
 
-2° sauf recours au ministre sur les demandes en autorisation d'établissements
-temporaires, alors même que ces établissements auraient pour effet de modifier
-le régime ou le niveau des eaux. Ils fixent la durée de ces établissements qui
-ne devra jamais dépasser deux ans ;
+Toutefois, en cas de désaccord du maire de l'une des communes sur le territoire
+desquelles l'enquête a été ouverte, il est statué par décret en Conseil d'Etat.
 
-3° après enquête et sous réserve de l'approbation préalable du ministre des
-Travaux publics sur toutes les autres autorisations. Toutefois, en cas de
-désaccord des représentants des départements ministériels, soit entre eux, soit
-avec le maire de l'une des communes dans lesquelles l'enquête a été ouverte, il
-est statué par décret rendu sur l'avis du Conseil d'Etat.
+Lorsqu'il s'agit d'un établissement ou d'une prise d'eau n'ayant pas pour effet
+de modifier le régime, le niveau ou le mode d'écoulement des eaux, ou d'un
+établissement temporaire, le commissaire de la République du département sur
+lequel est situé l'établissement statue sans enquête. L'autorisation d'un
+établissement temporaire ne peut excéder deux années et n'est pas renouvelable.
+
+Un décret en Conseil d'Etat fixe les modalités d'application présent article.
