@@ -1,5 +1,5 @@
 Article L513-5
 ----
-Les ressortissants de la communauté économique européenne [*CEE - étrangers*]
-mentionnée à l'article L. 513-2 qui exercent en France l'activité d'exploitant
-agricole ne sont pas éligibles aux conseils de prud'hommes.
+Les ressortissants étrangers [*remplissant les conditions d'électorat
+nécessaires*] mentionnés à l'article L. 513-3-1 ne sont pas éligibles [*non*]
+aux conseils de prud'hommes.
