@@ -6,7 +6,8 @@ figurant sur une liste établie par arrêté conjoint du ministre chargé de la
 santé et du ministre chargé de la sécurité sociale, après avis de la commission
 instituée par l'article R. 163-8 [*exonération du ticket modérateur*] ainsi que
 pour les frais d'analyses ou d'examens de laboratoire relatifs au dépistage
-sérologique de l'infection par le virus de l'immunodéficience humaine.
+sérologique de l'infection par le virus de l'immunodéficience humaine et par le
+virus de l'hépatite C.
 
 La participation de l'assuré prévue à l'article L. 322-2 est fixée ainsi qu'il
 suit [*montant du ticket modérateur*] :
