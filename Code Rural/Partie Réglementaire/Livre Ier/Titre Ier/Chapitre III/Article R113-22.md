@@ -1,9 +1,9 @@
 Article R113-22
 ----
 Peut bénéficier de l'indemnité compensatoire dans les autres régions
-défavorisées mentionnée à l'article R. 113-19 tout agriculteur répondant aux
-conditions des 3°, 5°, 6° et 7° de l'article R. 113-20, du 3° de l'article R.
-113-21 et, en outre, aux conditions suivantes :
+défavorisées mentionnées à l'article R. 113-19 ci-dessus tout agriculteur
+répondant aux conditions des 3°, 5°, 6°, 7° et 8° de l'article R. 113-20, du 3°
+de l'article R. 113-21, et en outre aux conditions suivantes :
 
 1° Résider de façon permanente en zone défavorisée ;
 

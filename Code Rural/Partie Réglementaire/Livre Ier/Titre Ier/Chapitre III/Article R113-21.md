@@ -1,8 +1,8 @@
 Article R113-21
 ----
-Peut bénéficier de l'indemnité spéciale de piedmont mentionnée à l'article R.
-113-19 ci-dessus tout agriculteur répondant aux conditions des 3°, 5°, 6° et 7°
-de l'article R. 113-20, qui en présente la demande et répond en outre aux
+Peut bénéficier de l'indemnité spéciale de piémont mentionnée à l'article R.
+113-19 ci-dessus tout agriculteur répondant aux conditions des 3°, 5°, 6°, 7° et
+8° de l'article R. 113-20, qui en présente la demande et répond en outre aux
 conditions suivantes :
 
 1° Résider de façon permanente en zone de piedmont ou en zone de montagne ;
