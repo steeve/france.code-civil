@@ -20,7 +20,6 @@ Deux représentants des associations départementales ou des sections
 départementales des organisations nationales les plus représentatives des autres
 personnes visées au présent chapitre.
 
-Les représentants des associations et des organisations sont désignés par arrêté
-du ministre des anciens combattants et victimes de guerre sur proposition des
-groupements nationaux ou des associations d'Alsaciens et Mosellans intéressés,
-après avis du préfet.
+Les représentants des associations et des organisations sont nommés par le
+préfet, sur proposition des groupements nationaux ou des associations
+d'Alsaciens et de Mosellans intéressés.

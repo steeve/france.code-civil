@@ -7,15 +7,15 @@ prévus à l'article R. 222-1 :
 Le délégué militaire départemental ou son représentant ;
 
 Deux déportés ou internés résistants représentant les forces françaises
-combattantes (F.F.C.) ;
+combattantes (FFC) ;
 
 Deux déportés ou internés résistants représentant les forces françaises de
-l'intérieur (F.F.I.) ;
+l'intérieur (FFI) ;
 
 Deux déportés ou internés résistants représentant la Résistance intérieure
-française (R.I.F.).
+française (RIF).
 
-Les représentants des F.F.C., des F.F.I. et de la R.I.F., dont trois au moins
-doivent être déportés résistants, sont nommés par arrêté du ministre des anciens
-combattants et victimes de guerre sur proposition de l'autorité militaire et
-après avis du préfet.
+Les représentants des FFC, des FFI et de la RIF, dont trois au moins doivent
+être déportés résistants, sont nommés par le préfet, sur proposition des
+associations représentatives d'anciens résistants et après avis de l'autorité
+militaire qui vérifie notamment les titres des personnes proposées.

@@ -3,10 +3,10 @@ Article R227
 Les personnes ayant pris part à des opérations de guerre ne remplissant pas les
 conditions visées ci-dessus, notamment les militaires ayant pris part aux
 opérations effectuées avant le 2 août 1914, peuvent individuellement demander à
-bénéficier de la qualité de combattant. La décision sur chacun de ces ces est
+bénéficier de la qualité de combattant. La décision sur chacun de ces cas est
 prise par le ministre des anciens combattants et victimes de guerre, après
-instruction et avis des offices départementaux et de l'office national des
-anciens combattants et victimes de guerre.
+instruction et avis des services départementaux de l'Office national des anciens
+combattants et victimes de guerre.
 
 Les prisonniers de guerre qui ne peuvent se prévaloir des dispositions de
 l'article R. 224 C, bien qu'ayant opposé une attitude de refus aux pressions des

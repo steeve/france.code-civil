@@ -63,12 +63,11 @@ septembre 1939.
 D'autre part, sont accordées des bonifications afférentes soit à des opérations
 de combat limitativement désignées ou effectuées dans des conditions
 exceptionnellement dangereuses, soit à des situations personnelles, résultant du
-contrat d'engagement ou d'une action d'éclat homologuée par citation
-individuelle ou par citation collective au titre d'une unité ou d'une fraction
-d'unité constituée. Ces bonifications ne devront pas excéder le coefficient six
-pour celles afférentes aux combats, ou la durée de dix jours pour celles
-afférentes aux situations personnelles. Leurs modalités d'application sont
-fixées par arrêtés des ministres intéressés ;
+contrat d'engagement ou d'une action d'éclat homologuée par citation collective
+au titre d'une unité ou d'une fraction d'unité constituée. Ces bonifications ne
+devront pas excéder le coefficient six pour celles afférentes aux combats, ou la
+durée de dix jours pour celles afférentes aux situations personnelles. Leurs
+modalités d'application sont fixées par arrêtés des ministres intéressés ;
 
 2° Qui ont été évacués pour blessure reçue ou maladie contractée en service,
 alors qu'ils appartenaient aux unités énumérées aux listes susvisées, mais sans
@@ -145,8 +144,8 @@ la pêche, en deuxième et troisième zones dans les régions et à des époques
 navigation donne droit à la qualité de combattant au personnel de la marine
 militaire ;
 
-b) Ont appartenu à une station de pilotage ou ont été inscrits au r&lt;CB&gt;le
-de remorqueur ou de bâtiment de servitude et ont accompli trois mois de service
+b) Ont appartenu à une station de pilotage ou ont été inscrits au rôle de
+remorqueur ou de bâtiment de servitude et ont accompli trois mois de service
 entre les dates et dans les conditions fixées pour chaque station et chaque port
 suivant la procédure déterminée à l'article R. 227 ;
 
@@ -161,8 +160,12 @@ des opérations destinées à venir en aide à la Résistance. Ces bonifications
 devront pas dépasser la durée de vingt-cinq jours. Leurs modalités d'application
 sont déterminées par arrêtés des ministres intéressés.
 
-Pour les opérations effectuées en Afrique du Nord entre le 1er janvier 1952 et
-le 2 juillet 1962 inclus :
+IV. - Personnels militaires ayant combattu en Indochine et en Corée.
+
+Les militaires visés par le décret n° 54-1262 du 24 décembre 1954.
+
+D - Pour les opérations effectuées en Afrique du Nord entre le 1er janvier 1952
+et le 2 juillet 1962 inclus :
 
 a) En Tunisie, à compter du 1er janvier 1952 ;
 
@@ -170,21 +173,8 @@ b) Au Maroc, à compter du 1er juin 1953 ;
 
 c) En Algérie, à compter du 31 octobre 1954.
 
-IV. - Personnels militaires ayant combattu en Indochine et en Corée.
-
-Les militaires visés par le décret n° 54-1262 du 24 décembre 1954.
-
-D - Pour les opérations indiquées en Afrique du Nord entre le 1er janvier 1952
-et le 2 juillet 1962 inclus :
-
-a) en Tunisie, à compter du 1er janvier 1952 ;
-
-b) au Maroc, à compter de la fin de 1953 ;
-
-c) en Algérie, à compter du 31 octobre 1954.
-
 I. - Sont considérés comme des combattants les militaires des armées françaises
-et les membres des forces supplétives françaises [*définition*] :
+et les membres des forces supplétives françaises :
 
 1° Qui ont appartenu pendant trois mois, consécutifs ou non, à une unité
 combattante ou à une formation entrant dans l'une des catégories énumérées par
@@ -196,9 +186,8 @@ d'opérations antérieures se cumulent entre eux et avec ceux des opérations
 d'Afrique du Nord ;
 
 Des bonifications afférentes à des situations personnelles résultant du contrat
-d'engagement ou d'une action d'éclat homologuée par citation individuelle sont
-accordées pour une durée ne pouvant excéder dix jours, suivant les modalités
-d'application fixées par arrêtés des ministres intéressés ;
+d'engagement sont accordées pour une durée ne pouvant excéder dix jours, suivant
+les modalités d'application fixées par arrêtés des ministres intéressés ;
 
 2° Qui ont appartenu à une unité ayant connu, pendant leur temps de présence,
 neuf actions de feu ou de combat ;

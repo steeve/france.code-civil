@@ -7,9 +7,10 @@ l'article R. 222-1 :
 Le directeur départemental du travail et de la main-d'oeuvre ou son représentant
 ;
 
-Un représentant de la Résistance intérieure française (R.I.F.) désigné par
-arrêté du ministre des anciens combattants et victimes de guerre, sur
-proposition de l'autorité militaire et après avis du préfet ;
+Un représentant de la Résistance intérieure française (RIF) nommé par le préfet,
+sur proposition des associations représentatives d'anciens membres de la RIF et
+après avis de l'autorité militaire qui vérifie notamment les titres de la
+personne proposée ;
 
 Cinq représentants des associations départementales ou des sections
 départementales des organisations nationales les plus représentatives de
@@ -24,7 +25,6 @@ Deux représentants des associations départementales ou des sections
 départementales des organisations nationales les plus représentatives de
 réfractaires.
 
-Les représentants des associations et organisations sont désignés par arrêté du
-ministre des anciens combattants et victimes de guerre sur proposition des
-groupements nationaux et des associations d'Alsaciens et de Mosellans
-intéressés, après avis du préfet.
+Les représentants des associations et organisations sont nommés par le préfet,
+sur proposition des groupements nationaux et des associations d'Alsaciens et de
+Mosellans intéressés.

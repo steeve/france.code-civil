@@ -7,14 +7,15 @@ membres prévus à l'article R. 222-1 :
 Le délégué militaire départemental ou son représentant ;
 
 Deux combattants volontaires de la Résistance représentant les Forces françaises
-combattantes (F.F.C.) ;
+combattantes (FFC) ;
 
 Deux combattants volontaires de la Résistance représentant les Forces françaises
-de l'intérieur (F.F.I.) ;
+de l'intérieur (FFI) ;
 
 Deux combattants volontaires de la Résistance représentant la Résistance
-intérieure française (R.I.F.).
+intérieure française (RIF).
 
-Les représentants des F.F.C., des F.F.I. et de la R.I.F. sont désignés par le
-ministre des anciens combattants et victimes de guerre, sur proposition de
-l'autorité militaire et après avis du préfet.
+Les représentants des FFC, des FFI et de la RIF sont nommés par le préfet, sur
+proposition des associations représentatives d'anciens résistants et après avis
+de l'autorité militaire qui vérifie notamment les titres des personnes
+proposées.
