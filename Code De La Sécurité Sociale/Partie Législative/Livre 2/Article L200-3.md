@@ -7,10 +7,24 @@ l'Agence centrale des organismes de sécurité sociale et la commission prévue 
 l'article L. 221-4 sont saisis, pour avis et dans le cadre de leurs compétences
 respectives, de tout projet de mesure législative ou réglementaire ayant des
 incidences sur l'équilibre financier de la branche ou entrant dans leur domaine
-de compétence. Les conseils d'administration sont également saisis du projet de
+de compétence et notamment des projets de loi de financement de la sécurité
+sociale. Les conseils d'administration sont également saisis du projet de
 rapport visé à l'article L. 111-3. Les avis sont motivés.
 
+Le conseil d'administration de l'Agence centrale des organismes de sécurité
+sociale peut recevoir délégation des conseils des caisses nationales et de la
+commission prévue à l'article L. 221-4 pour examiner tout projet de texte
+relatif aux ressources du régime général. ;
+
 Le Gouvernement transmet au Parlement les avis rendus sur les projets de loi.
+
+Les conseils d'administration des caisses nationales, de l'Agence centrale des
+organismes de sécurité sociale et la commission visée à l'article L. 221-4
+peuvent faire toutes propositions de modification législative ou réglementaire
+dans leur domaine de compétence. Les propositions de nature législative sont
+transmises au Parlement et au conseil de surveillance. Le Gouvernement fait
+connaître dans un délai d'un mois les suites qu'il réserve aux propositions de
+nature réglementaire.
 
 Les conseils d'administration et la commission prévue à l'article L. 221-4 sont
 habilités, dans le respect de l'équilibre financier de chacune des branches, à

@@ -1,13 +1,13 @@
 Article L231-6
 ----
-Les membres désignés des conseils d'administration doivent répondre aux
-conditions [*d'éligibilité*] fixées à l'article L. 214-2 pour les membres élus
-des conseils.
+Les membres des conseils d'administration doivent être âgés de dix-huit ans au
+moins et de soixante-cinq ans au plus à la date de leur nomination, n'avoir fait
+l'objet d'aucune des condamnations mentionnées aux articles L. 6 et L. 7 du code
+électoral et ne pas avoir fait l'objet d'une condamnation à une peine
+correctionnelle prononcée en application des dispositions du code de la sécurité
+sociale ou dans les cinq années précédant la date susmentionnée à une peine
+contraventionnelle prononcée en application de ce code.
 
-Toutefois, la qualité d'électeur n'est pas requise des représentants des
-employeurs et des associations familiales. Ces personnes doivent être âgées de
-dix-huit ans accomplis, n'avoir encouru aucune des condamnations mentionnées aux
-articles L. 5 et L. 6 du code électoral et n'avoir pas fait l'objet d'une
-condamnation à une peine correctionnelle ou, dans les cinq années précédentes, à
-une peine contraventionnelle prononcée en application des dispositions du code
-de la sécurité sociale.
+Toutefois la limite d'âge de soixante-cinq ans n'est pas applicable aux
+administrateurs représentants des retraités désignés au titre des personnes
+qualifiées.

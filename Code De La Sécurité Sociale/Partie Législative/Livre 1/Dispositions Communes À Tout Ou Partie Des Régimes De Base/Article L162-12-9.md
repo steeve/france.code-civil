@@ -1,10 +1,11 @@
 Article L162-12-9
 ----
-Les rapports entre les caisses primaires d'assurance maladie et les
+Les rapports entre les organismes d'assurance maladie et les
 masseurs-kinésithérapeutes sont définis par une convention nationale conclue
 pour une durée au plus égale à cinq ans entre une ou plusieurs des organisations
 syndicales les plus représentatives des masseurs-kinésithérapeutes et la Caisse
-nationale de l'assurance maladie des travailleurs salariés.
+nationale de l'assurance maladie des travailleurs salariés et au moins une autre
+caisse nationale d'assurance maladie.
 
 Cette convention détermine notamment :
 
@@ -27,7 +28,15 @@ oeuvre de la convention et de ses annexes annuelles ;
 
 5° Les mesures que les partenaires conventionnels jugent appropriées pour
 garantir la qualité des soins de masso-kinésithérapie dispensés aux assurés
-sociaux.
+sociaux et notamment la sélection des thèmes des références professionnelles,
+l'opposabilité de ces références et ses conditions d'application ;
 
-Les dispositions de l'article L. 162-7 sont applicables à la convention prévue
-par le présent article.
+6° La possibilité de mettre à la charge du masseur-kinésithérapeute qui ne
+respecte pas les mesures prévues au 5° ci-dessus tout ou partie des cotisations
+mentionnées aux articles L. 722-4 et L. 645-2 ou une partie de la dépense des
+régimes d'assurance maladie correspondant aux honoraires perçus au titre des
+soins dispensés dans des conditions ne respectant pas ces mesures.
+
+Elle fixe également les modalités d'application de l'alinéa précédent, et
+notamment les conditions dans lesquelles le masseur-kinésithérapeute concerné
+présente ses observations.

@@ -1,11 +1,12 @@
 Article L162-14
 ----
-Les rapports entre les caisses primaires d'assurance maladie et les directeurs
-de laboratoires privés d'analyses médicales sont définis par une convention
+Les rapports entre les organismes d'assurance maladie et les directeurs de
+laboratoires privés d'analyses médicales sont définis par une convention
 nationale conclue pour une durée au plus égale à cinq ans entre une ou plusieurs
 organisations syndicales membres du comité professionnel national de la biologie
 mentionné à l'article L. 162-14-1 et la Caisse nationale de l'assurance maladie
-des travailleurs salariés.
+des travailleurs salariés et au moins une autre caisse nationale d'assurance
+maladie.
 
 Cette convention détermine notamment [*contenu*] :
 
