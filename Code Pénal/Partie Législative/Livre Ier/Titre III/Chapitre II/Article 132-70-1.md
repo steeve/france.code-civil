@@ -3,10 +3,14 @@ Article 132-70-1
 I. La juridiction peut, après avoir déclaré le prévenu coupable de l'infraction
 prévue au deuxième alinéa de l'article 27 de l'ordonnance n° 45-2658 du 2
 novembre 1945 relative aux conditions d'entrée et de séjour des étrangers en
-France, ajourner le prononcé de la peine en enjoignant au prévenu de présenter à
-l'autorité administrative compétente les documents de voyage permettant
-l'exécution de la mesure d'éloignement prononcée à son encontre ou de
-communiquer les renseignements permettant cette exécution.
+France, ou, s'agissant d'un étranger dépourvu des documents de voyage permettant
+l'exécution d'une mesure d'éloignement, des infractions prévues à l'article 19
+ou au premier alinéa de l'article 27 de la même ordonnance ou d'une infraction
+prévue au sixième alinéa de l'article 33 de la même ordonnance ajourner le
+prononcé de la peine en enjoignant au prévenu de présenter à l'autorité
+administrative compétente les documents de voyage permettant l'exécution de la
+mesure d'éloignement prononcée à son encontre ou de communiquer les
+renseignements permettant cette exécution.
 
 Dans ce cas, la juridiction place le prévenu, par ordonnance, sous le régime de
 la rétention judiciaire, pour une durée de trois mois au plus.

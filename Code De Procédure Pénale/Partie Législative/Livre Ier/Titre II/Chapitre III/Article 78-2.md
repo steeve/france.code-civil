@@ -29,14 +29,20 @@ atteinte à l'ordre public, notamment à la sécurité des personnes ou des bien
 
 Dans une zone comprise entre la frontière terrestre de la France avec les Etats
 parties à la convention signée à Schengen le 19 juin 1990 et une ligne tracée à
-20 kilomètres en deçà, [Dispositions déclarées non conformes à la Constitution
-par décision du Conseil constitutionnel n° 93-323 DC du 5 août 1993] ainsi que
+20 kilomètres en deçà, (Dispositions déclarées non conformes à la Constitution
+par décision du Conseil constitutionnel n° 93-323 DC du 5 août 1993) ainsi que
 dans les zones accessibles au public des ports, aéroports et gares ferroviaires
 ou routières ouverts au trafic international et désignés par arrêté
-[Dispositions déclarées non conformes à la Constitution par décision du Conseil
-constitutionnel n° 93-323 DC du 5 août 1993] l'identité de toute personne peut
+(Dispositions déclarées non conformes à la Constitution par décision du Conseil
+constitutionnel n° 93-323 DC du 5 août 1993) l'identité de toute personne peut
 également être contrôlée, selon les modalités prévues au premier alinéa, en vue
 de vérifier le respect des obligations de détention, de port et de présentation
 des titres et documents prévues par la loi. Le fait que le contrôle d'identité
 révèle une infraction autre que celle de non-respect des obligations susvisées
 ne constitue pas une cause de nullité des procédures incidentes.
+
+Dans une zone comprise entre les frontières terrestres ou le littoral du
+département de la Guyane et une ligne tracée à vingt kilomètres en-deçà,
+l'identité de toute personne peut être contrôlée, selon les modalités prévues au
+premier alinéa, en vue de vérifier le respect des obligations de détention, de
+port et de présentation des titres et documents prévus par la loi.
