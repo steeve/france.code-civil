@@ -8,3 +8,9 @@ ladite convention. Ce versement comprend la totalité des charges patronales et
 salariales assises sur les salaires, à l'exception des cotisations de sécurité
 sociale, qui sont versées directement aux organismes chargés du recouvrement de
 ces cotisations.
+
+Dans le cas d'un licenciement de moins de dix salariés [*effectif*] dans une
+même période de trente jours, lorsque le délai de réponse visé à l'article L.
+321-6 est prolongé en application d'un accord collectif, le versement effectué
+par l'entreprise aux organismes gestionnaires visés à l'article L. 351-21 est
+diminué d'un montant correspondant à quatorze jours de salaire.
