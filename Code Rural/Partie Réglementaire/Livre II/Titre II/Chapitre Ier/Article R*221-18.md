@@ -1,6 +1,7 @@
 Article R*221-18
 ----
-Les ressources de l'Office national de la chasse comprennent notamment :
+Les ressources de l'Office national de la chasse et de la faune sauvage
+comprennent notamment :
 
 1° a) Le montant des redevances cynégétiques versées à l'occasion de la
 validation du permis de chasser et qui lui est affecté en application de

@@ -1,8 +1,9 @@
 Article R*226-13
 ----
 L'estimateur chargé de procéder à l'expertise des dégâts ayant donné lieu à
-déclaration est désigné par le délégué de l'Office national de la chasse parmi
-les personnes figurant sur la liste prévue à l'article R. 226-10.
+déclaration est désigné par le délégué de l'Office national de la chasse et de
+la faune sauvage parmi les personnes figurant sur la liste prévue à l'article R.
+226-10.
 
 Après avoir convoqué les réclamants par lettre recommandée avec demande d'avis
 de réception ou par notification remise contre récépissé, il est chargé de

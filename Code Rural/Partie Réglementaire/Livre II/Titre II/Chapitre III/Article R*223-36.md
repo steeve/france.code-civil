@@ -6,4 +6,4 @@ chargé de la chasse fixeront les détails d'application du présent chapitre en
 qui concerne les conditions de présentation de la demande de délivrance et de
 visa du permis de chasser et de sa validation ainsi que les procédures suivant
 lesquelles les redevances cynégétiques revenant à l'Office national de la chasse
-seront versées à cet établissement.
+et de la faune sauvage seront versées à cet établissement.

@@ -1,7 +1,7 @@
 Article R*221-16
 ----
-Le directeur de l'Office national de la chasse est nommé par décret pris sur le
-rapport du ministre chargé de la chasse.
+Le directeur de l'Office national de la chasse et de la faune sauvage est nommé
+par décret pris sur le rapport du ministre chargé de la chasse.
 
 Il dirige l'établissement et assure le fonctionnement de l'ensemble des services
 ; à ce titre, il recrute et gère le personnel.

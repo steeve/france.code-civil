@@ -1,10 +1,11 @@
 Article R*226-16
 ----
 Des indemnités pour dégâts de grand gibier ne peuvent être attribuées par
-l'Office national de la chasse que lorsque les plans de chasse de grand gibier
-mentionnés à l'article L. 226-1 ont été exécutés sur le fonds d'où provient le
-grand gibier. Les plans de chasse sont ceux qui ont été attribués au titre de la
-dernière campagne accomplie avant la demande d'indemnité.
+l'Office national de la chasse et de la faune sauvage que lorsque les plans de
+chasse de grand gibier mentionnés à l'article L. 226-1 ont été exécutés sur le
+fonds d'où provient le grand gibier. Les plans de chasse sont ceux qui ont été
+attribués au titre de la dernière campagne accomplie avant la demande
+d'indemnité.
 
 Ils sont, le cas échéant, considérés comme exécutés dès lors qu'il a été tué le
 nombre minimum de têtes de grand gibier fixé par les arrêtés qui les attribuent.

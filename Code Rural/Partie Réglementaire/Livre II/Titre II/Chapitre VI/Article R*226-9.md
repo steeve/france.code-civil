@@ -8,4 +8,4 @@ Elle désigne annuellement un de ses membres qui est chargé d'établir les
 procès-verbaux des séances et de surveiller l'exécution de ses décisions.
 
 Elle est assistée d'un secrétariat organisé à la diligence de l'Office national
-de la chasse.
+de la chasse et de la faune sauvage.
