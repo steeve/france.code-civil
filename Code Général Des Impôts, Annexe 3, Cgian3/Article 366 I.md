@@ -9,8 +9,7 @@ l'article 223 du code général des impôts.
 Ce versement est effectué à la caisse du comptable du Trésor chargé du
 recouvrement des impôts directs habilité à recevoir le versement anticipé ou,
 s'il n'est pas dû de versement anticipé, au comptable du Trésor du lieu
-d'imposition défini par l'article 218 A du code général des impôts. Il est
-accompagné du bordereau-avis de liquidation.
+d'imposition défini par l'article 218 A du code général des impôts.
 
 II. Si le solde de liquidation n'a pas été intégralement versé le 15 du mois
 suivant celui au cours duquel il était exigible en vertu du I, la majoration de

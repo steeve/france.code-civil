@@ -9,14 +9,12 @@ impôts.
 Ce versement est effectué à la caisse du comptable du Trésor chargé du
 recouvrement des impôts directs habilité à recevoir le premier acompte ou, s'il
 n'est pas dû d'acomptes, au comptable du Trésor du lieu d'imposition défini par
-l'article 218 A du code général des impôts. Il est accompagné du bordereau-avis
-utilisé au cours de l'exercice.
+l'article 218 A du code général des impôts.
 
-2. Le comptable du Trésor transmet au service des impôts le bordereau-avis
-annoté des différents versements effectués par le redevable et renvoie à
-celui-ci le talon de ce bordereau sur lequel sont portés les encaissements
-constatés. Cette indication est suivie d'une mention valant quittance
-libératoire pour l'ensemble des sommes reçues.
+2. ((Le comptable du Trésor transmet au service des impôts le bordereau-avis de
+liquidation et envoie au redevable une situation sur laquelle sont récapitulés
+les encaissements constatés. Ce document vaut quittance libératoire pour
+l'ensemble des sommes reçues)) (M).
 
 3. Si le solde de liquidation n'a pas été intégralement versé le 15 du mois
 suivant celui au cours duquel il était exigible en vertu du 1, la majoration de
@@ -44,3 +42,5 @@ titres de perception ou rôle visés ci-dessus ainsi que les erreurs commises da
 le calcul du solde de liquidation ou de la majoration de 10 % peuvent être
 réparées jusqu'à l'expiration de la quatrième année suivant celle au cours de
 laquelle le versement du solde était exigible.
+
+(M) Modification.
