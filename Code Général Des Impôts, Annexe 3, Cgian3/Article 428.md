@@ -3,7 +3,7 @@ Article 428
 Le pouvoir de statuer est dévolu :
 
 au directeur des services fiscaux [*autorité compétente*] lorsque les sommes
-dont l'admission en non-valeurs est demandée n'excèdent pas 400.000 F par cote;
+dont l'admission en non-valeurs est demandée n'excèdent pas 750.000 F par cote;
 
 au directeur général des impôts d'accord avec le directeur de a la comptabilité
 publique lorsqu'il s'agit de sommes excédant les limites de compétence du
