@@ -13,26 +13,27 @@ de chaque exercice ;
 2° Autres obligations inscrites à la cote officielle des bourses françaises de
 valeurs ou en instance d'inscription, ainsi que les portions de coupons attachés
 aux mêmes obligations évaluées selon les règles de l'article R. 332-19, courues
-à la clotûre de chaque exercice ;
+à la clôture de chaque exercice ;
 
-3° Actions des sociétés d'investissement à capital variable dont l'objet est
-limité à la gestion d'un portefeuille de valeurs mentionnées aux 1° et 2°
-ci-dessus ;
+3° Actions des sociétés d'investissement à capital variable et parts des fonds
+communs de placement dont l'objet est limité à la gestion d'un portefeuille de
+valeurs mentionnées aux 1° et 2° ci-dessus.
 
 4° Actions, parts et autres valeurs mobilières inscrites à la cote officielle ou
-au compartiment spécial du marché hors cote des bourses françaises de valeurs ;
+au compartiment spécial du marché hors cote des bourses françaises de valeurs.
 
 5° Valeurs mobilières étrangères ayant fait l'objet d'une émission publique ou
 inscrites à la cote d'une bourse de valeurs, dans les conditions déterminées par
 arrêté du ministre de l'économie et des finances ;
 
-6° Actions de sociétés d'investissement à capital variable, dans les conditions
-déterminées par arrêté du ministre de l'économie et des finances ;
+6° Actions de sociétés d'investissement à capital variable et parts de fonds
+communs de placement, dans les conditions déterminées par arrêté du ministre de
+l'économie.
 
 7° Immeubles bâtis en France métropolitaine.
 
 Tous autres immeubles situés en France métropolitaine et dans les départements
-et territoires d'outre-mer, sur autorisation donnée dans chaque cas par le
+et territoires d'outre mer, sur autorisation donnée dans chaque cas par le
 ministre de l'économie et des finances.
 
 Parts ou actions de sociétés immobilières non inscrites à la cote officielle des
@@ -91,7 +92,7 @@ accidents du travail, sur le fonds de garantie institué par l'article L. 420-1
 et sur le fonds institué par l'article 2 de la loi n° 74-1118 du 27 décembre
 1974 ;
 
-15° Bons du Trésor et autres valeurs, à court ou moyen terme, figurant sur un
+15° Bons du Trésor et autres valeurs, à court ou moyen terme, figurant sur une
 liste fixée par arrêté du ministre de l'économie et des finances ;
 
 16° Fonds déposés chez les comptables du Trésor, aux chèques postaux et dans les
