@@ -8,7 +8,7 @@ cours d'assises ;
 
 2° Les honoraires et indemnités des interprètes désignés pour assister les
 inculpés, prévenus et accusés dans les conditions prévues par les articles 102,
-121, 272, 344, 407, 408 et 443 du présent code ;
+121, 272, 344, 407, 408 et 443 du présent code.
 
 3° Toutes les indemnités payées aux jurés ;
 
@@ -20,8 +20,11 @@ personnes physiques ou représentants de personnes morales désignés par le jug
 d'instruction pour l'application du contrôle judiciaire ;
 
 6° Les frais et dépens engagés en cas de décision juridictionnelle rectifiant ou
-interprétant une précédente décision ;
+interprétant une précédente décision.
 
 7° Les frais exposés devant la commission prévue à l'article 16-2.
 
-[*8° abrogé*]
+8° La contribution versée par l'Etat au titre de l'aide juridictionnelle à
+l'avocat du condamné et, le cas échéant, celle versée dans le cadre de la même
+procédure à l'avocat du témoin assisté ou de l'inculpé ayant bénéficié d'une
+décision de non-lieu, de relaxe ou d'acquittement.

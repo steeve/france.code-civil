@@ -31,8 +31,7 @@ loi n° 85-98 du 25 janvier 1985.
 tribunaux de commerce à l'occasion de toute procédure pour la délivrance des
 pièces à l'autorité judiciaire.
 
-9° De l'aide judiciaire et de l'indemnisation des commissions et désignations
-d'office.
+9° De la contribution versée par l'Etat au titre de l'aide juridictionnelle.
 
 10° Des frais et dépens mis à la charge du Trésor public soit en application
 d'une disposition législative ou réglementaire, soit en cas de décision
