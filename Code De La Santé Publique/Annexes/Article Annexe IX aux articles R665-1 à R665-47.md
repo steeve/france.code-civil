@@ -311,6 +311,9 @@ de l'article L. 511 du code de la santé publique et qui est susceptible d'agir
 sur le corps par une action accessoire à celle des dispositifs font partie de la
 classe III ;
 
+Tous les dispositifs médicaux incorporant une substance mentionnée à l'article
+R. 665-37-1 font partie de la classe III.
+
 4.2. Règle 14 :
 
 Tous les dispositifs utilisés pour la contraception ou pour prévenir la

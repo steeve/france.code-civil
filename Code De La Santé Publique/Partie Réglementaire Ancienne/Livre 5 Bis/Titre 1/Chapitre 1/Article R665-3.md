@@ -10,9 +10,10 @@ réutilisable, ce produit est régi par les dispositions du livre V.
 
 Lorsqu'un dispositif incorpore comme partie intégrante une substance qui, si
 elle est utilisée séparément, est susceptible d'être considérée comme un
-médicament, au sens de l'article L. 511, et qui peut agir sur le corps humain
-par une action accessoire à celle du dispositif, ce dispositif est régi par les
-dispositions du présent titre.
+médicament au sens de l'article L. 5111-1, ce qui comprend les médicaments
+dérivés du sang, et qui peut agir sur le corps humain par une action accessoire
+à celle du dispositif, ce dispositif est régi par les dispositions du présent
+titre.
 
 Lorsqu'un dispositif médical forme un ensemble indissociable avec un dispositif
 qui, s'il est utilisé séparément, est susceptible d'être considéré comme un

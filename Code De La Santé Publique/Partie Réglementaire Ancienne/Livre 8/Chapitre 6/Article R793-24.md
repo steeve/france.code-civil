@@ -4,7 +4,8 @@ En application du 3° de l'article L. 793-9, des redevances sont perçues par
 l'agence lorsque, à la demande de tiers, elle rend les services suivants :
 
 a) L'analyse d'échantillons en vue de la libération des lots de produits
-immunologiques mentionnée à l'article R. 5135-3 ;
+immunologiques mentionnés à l'article R. 5135-3, de médicaments dérivés du sang
+et de substances mentionnées aux articles R. 5135-3-1 et R. 665-37-1.
 
 b) L'élaboration et la diffusion des annales de qualité des laboratoires
 d'analyse de biologie médicale ;

@@ -9,13 +9,13 @@ in vitro dans l'examen d'échantillons provenant du corps humain dans le but de
 fournir une information concernant des états physiologiques ou des états de
 santé ou de maladie ou d'anomalie congénitale ;
 
-2° Les médicaments au sens de l'article L. 511 ;
+2° Les médicaments au sens de l'article L. 5111-1 ;
 
 3° Les produits cosmétiques au sens de l'article L. 658-1 ;
 
-4° Le sang humain, les produits sanguins, le plasma, les cellules sanguines
-d'origine humaine ou les dispositifs qui contiennent au moment de leur mise sur
-le marché des produits sanguins, du plasma ou des cellules d'origine humaine ;
+4° Le sang humain, les produits sanguins, les cellules sanguines d'origine
+humaine ou les dispositifs qui contiennent au moment de leur mise sur le marché
+des produits sanguins labiles ou des cellules d'origine humaine ;
 
 5° Les organes, tissus ou cellules d'origine humaine ou les produits qui
 incorporent des tissus ou cellules d'origine humaine ou qui en sont dérivés ;

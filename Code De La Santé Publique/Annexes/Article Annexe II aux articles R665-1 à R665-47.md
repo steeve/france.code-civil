@@ -103,8 +103,11 @@ exigences essentielles lorsqu'il est raccordé à l'un quelconque de ces
 dispositifs ayant les caractéristiques indiquées par le fabricant ;
 
 - une déclaration indiquant si le dispositif incorpore comme partie intégrante
-une substance visée à l'annexe I.A, point 7.4, et I.B, point 10, et des données
-relatives aux essais effectués à cet égard ;
+une substance visée à l'annexe I-A, points 7.4, et I-B, point 10, ou une
+substance mentionnée à l'annexe I-A, point 7.4 bis, et I-B, point 10 bis, et des
+données relatives aux essais effectués à cet égard qui sont nécessaires pour
+évaluer la sécurité, la qualité et l'utilité de cette substance en tenant compte
+de la destination du dispositif ;
 
 - les données cliniques visées à l'annexe X ;
 
@@ -167,17 +170,24 @@ contient les conclusions de l'examen, les conditions de validité, les données
 nécessaires à l'identification de la conception approuvée et, le cas échéant,
 une description de la destination du produit ;
 
-Dans le cas de dispositifs visés aux points 7.4 de l'annexe I.A et 10 de
-l'annexe I.B, l'organisme habilité consulte, pour ce qui est des aspects visés
-dans ce point, l'Agence française de sécurité sanitaire des produits de santé ou
-l'un des organismes compétents désignés par les autres Etats membres de l'Union
+S'il s'agit de dispositifs visés à l'annexe I-A, point 7.4, et à l'annexe I-B,
+point 10, l'organisme habilité consulte, pour ce qui est des aspects visés sous
+ce point, l'Agence française de sécurité sanitaire des produits de santé ou l'un
+des organismes compétents désignés par les autres Etats membres de l'Union
 européenne ou parties à l'accord sur l'Espace économique européen, conformément
-aux dispositions nationales transposant la directive 65/65/CEE du Conseil des
-Communautés européennes ;
+aux dispositions nationales transposant la directive 2001/83/CE du Parlement
+européen et du Conseil, avant de prendre une décision. En arrêtant sa décision,
+l'organisme habilité prend dûment en considération les avis exprimés lors de la
+consultation. Il informe l'organisme compétent consulté de sa décision finale.
 
-En arrêtant sa décision, l'organisme habilité prendra dûment en considération
-les avis exprimés lors de la consultation. Il informera l'organisme compétent
-concerné de sa décision finale ;
+S'il s'agit de dispositifs visés à l'annexe I-A, point 7.4 bis, et à l'annexe
+I-B, point 10 bis, l'avis scientifique de l'Agence européenne pour l'évaluation
+des médicaments doit être intégré dans la documentation concernant le
+dispositif. En arrêtant sa décision, l'organisme habilité prend dûment en
+considération l'avis de l'Agence européenne pour l'évaluation des médicaments.
+L'organisme habilité ne peut pas délivrer le certificat si cet avis scientifique
+est défavorable. Il informe l'Agence européenne pour l'évaluation des
+médicaments de sa décision finale. ;
 
 4.4. Les modifications de la conception approuvée doivent recevoir une
 approbation complémentaire de l'organisme habilité qui a délivré le certificat
@@ -254,3 +264,14 @@ point 13.3, a.
 Conformément au 2° de l'article R. 665-23 du code de la santé publique, la
 présente annexe peut s'appliquer aux produits des classes II a et II b. Le point
 4 ne s'applique toutefois pas.
+
+8. Application aux dispositifs visés à l'annexe I-A, point 7.4 bis, et à
+l'annexe I-B, point 10 bis :
+
+Au terme de la fabrication de chaque lot de ces dispositifs, le fabricant
+informe l'organisme habilité de la libération de ce lot de dispositifs et lui
+transmet le certificat de libération du lot de la substance mentionnée à
+l'article R. 665-37-1 utilisée dans ce dispositif, établi par l'Agence française
+de sécurité sanitaire des produits de santé, ou un laboratoire désigné à cet
+effet par un autre Etat membre de la Communauté européenne ou partie à l'accord
+sur l'Espace économique européen.

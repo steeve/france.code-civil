@@ -182,3 +182,14 @@ par la déclaration de conformité, que les produits de la classe II a sont
 fabriqués conformément à la documentation technique visée au point 3 de l'annexe
 VII et répondent aux exigences du livre V bis du code de la santé publique qui
 leur sont applicables.
+
+7. Application aux dispositifs, visés à l'annexe I-A, point 7.4 bis, et à
+l'annexe I-B, point 10 bis :
+
+Au terme de la fabrication de chaque lot de ces dispositifs, le fabricant
+informe l'organisme habilité de la libération de ce lot de dispositifs et lui
+transmet le certificat de libération du lot de la substance mentionnée à
+l'article R. 665-37-1 utilisée dans ce dispositif, établi par l'Agence française
+de sécurité sanitaire des produits de santé, ou un laboratoire désigné à cet
+effet par un autre Etat membre de la Communauté européenne ou partie à l'accord
+sur l'Espace économique européen.
