@@ -1,7 +1,7 @@
 Article R*511-41
 ----
 Le mandataire de chaque liste fait connaître au président de la commission le
-nom de l'imprimeur choisi par lui sur la liste des imprimeurs agréés.
+nom de l'imprimeur choisi par lui.
 
 Le président lui indique les caractéristiques et le nombre maximum des documents
 de chaque catégorie qu'il est autorisé à faire imprimer, ainsi que les tarifs

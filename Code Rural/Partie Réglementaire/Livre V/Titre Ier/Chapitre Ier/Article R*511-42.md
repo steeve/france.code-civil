@@ -1,9 +1,10 @@
 Article R*511-42
 ----
 Les chambres départementales d'agriculture assurent la charge des dépenses
-provenant des opérations effectuées par les commissions de propagande, ainsi que
-le coût du papier, l'impression et l'envoi des bulletins de vote et circulaires
-pour les listes ayant obtenu au moins 5 p. 100 des suffrages exprimés.
+provenant des opérations effectuées par les commissions départementales, ainsi
+que le coût du papier, l'impression et l'envoi des bulletins de vote et
+circulaires pour les listes ayant obtenu au moins 5 p. 100 des suffrages
+exprimés.
 
 Il est remboursé sur présentation des pièces justificatives, aux listes, le coût
 du papier et les frais d'impression réellement exposés, des circulaires et
@@ -26,7 +27,6 @@ Le président de la chambre départementale d'agriculture ou son représentant ;
 Un représentant des organisations professionnelles des imprimeurs désigné par le
 commissaire de la République.
 
-En ce qui concerne l'impression, les tarifs ne peuvent s'appliquer qu'à des
-circulaires et bulletins de vote présentant les caractéristiques suivantes et
-excluant tous travaux de photogravure (clichés, simili ou trait) : papier blanc
-satiné, 56 grammes au mètre carré, Afnor II/1.
+En ce qui concerne l'impression, les tarifs s'appliquent dans les mêmes
+conditions que celles fixées au quatrième alinéa de l'article R. 39 du code
+électoral.

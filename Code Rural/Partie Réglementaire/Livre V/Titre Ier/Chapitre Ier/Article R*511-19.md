@@ -1,8 +1,8 @@
 Article R*511-19
 ----
-Entre le 1er octobre et le 14 octobre, la commission communale dresse la liste
-électorale. Elle se prononce avant le 14 octobre sur les observations formulées
-en application de l'article précédent et notifie dans les formes et délais
-mentionnés à l'article R. 511-18 sa décision en informant l'intéressé qu'il
-pourra contester la décision devant la commission départementale prévue à
-l'article R. 511-21 dans les dix jours de la publication de la liste.
+Le maire vérifie que les personnes portées sur les listes électorales
+provisoires remplissent les conditions requises pour être électeurs à la chambre
+d'agriculture. Il transmet sans délai à la commission départementale la liste
+des modifications qui lui paraissent nécessaires. Il joint, à l'appui de ses
+propositions d'inscription, de rectification ou de radiation, les informations
+ou pièces justificatives nécessaires.

@@ -1,26 +1,18 @@
 Article R*511-38
 ----
-Une commission de propagande dont la compétence s'étend au département est
-instituée par arrêté du commissaire de la République.
+Pour l'exercice des missions définies aux articles R. 511-39 à R. 511-41, la
+commission départementale prévue à l'article R. 511-16 est composée de ses seuls
+membres disposant d'une voix délibérative, à l'exception du représentant de la
+caisse départementale ou pluridépartementale de mutualité sociale agricole. Elle
+est complétée par arrêté du préfet par :
 
-La commission de propagande est installée quatre semaines avant le jour du
-scrutin.
+- un fonctionnaire désigné par le trésorier-payeur général ;
 
-Chaque commission comprend :
+- un agent désigné par le directeur de La Poste du département ;
 
-Un magistrat désigné par le premier président de la cour d'appel, président ;
+- un membre de la chambre d'agriculture, désigné par son président.
 
-Un fonctionnaire désigné par le commissaire de la République ;
-
-Un fonctionnaire désigné par le trésorier-payeur général ;
-
-Un fonctionnaire désigné par le directeur départemental des postes et
-télécommunications ;
-
-Un représentant du président de la chambre départementale d'agriculture.
-
-Le secrétariat est assuré par le fonctionnaire désigné par le commissaire de la
-République.
+Le secrétariat est assuré par un fonctionnaire désigné par le préfet.
 
 Un mandataire de chaque liste peut participer avec voix consultative aux travaux
 de la commission.

@@ -1,8 +1,8 @@
 Article R*511-37
 ----
 Chaque liste de candidats ne peut faire imprimer un nombre de bulletins de vote
-supérieur de plus de 20 p. 100 au double du nombre des électeurs dont ce
-candidat ou cette liste sollicite les suffrages.
+supérieur de plus de 20 p. 100 au double du nombre des électeurs dont cette
+liste sollicite les suffrages.
 
 Les bulletins ont un format de 148 x 210 mm.
 

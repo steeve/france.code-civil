@@ -4,10 +4,10 @@ Les électeurs appelés à voter au nom des groupements professionnels agricoles
 mentionnés au 5° de l'article R. 511-6 votent par correspondance.
 
 Ils adressent par la poste au président de la commission prévue au présent
-article, au plus tard cinq jours avant le scrutin, leur bulletin de vote placé
-sous double enveloppe, dans des conditions précisées par arrêté du ministre de
-l'agriculture. Ce bulletin peut être remis au président de ladite commission au
-plus tard aux jour et heures de vote fixés à l'article R. 511-44.
+article leur bulletin de vote placé sous double enveloppe, dans des conditions
+précisées par arrêté du ministre de l'agriculture. Ce bulletin peut être remis
+au président de ladite commission au plus tard aux jour et heures de vote fixés
+à l'article R. 511-44.
 
 Le dépouillement des votes est fait en séance publique, immédiatement après la
 clôture du scrutin. Il y est procédé par une commission composée d'un

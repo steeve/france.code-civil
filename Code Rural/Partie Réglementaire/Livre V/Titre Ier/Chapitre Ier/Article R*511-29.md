@@ -1,6 +1,6 @@
 Article R*511-29
 ----
-Entre le 1er novembre et le 14 novembre, la commission dresse la liste
+Entre le 1er octobre et le 14 novembre, la commission dresse la liste
 électorale. Elle se prononce avant le 14 novembre sur les observations formulées
 en application de l'article précédent.
 

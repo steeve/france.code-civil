@@ -3,7 +3,7 @@ Article R*511-28
 La liste électorale comportant les noms des groupements et des personnes
 appelées à voter au nom de ces groupements est établie, pour chacun des collèges
 mentionnés au 5° de l'article R. 511-6, par la commission départementale prévue
-à l'article R. 511-21. Quatre présidents de groupements professionnels agricoles
+à l'article R. 511-16. Quatre présidents de groupements professionnels agricoles
 désignés par le commissaire de la République participent, avec voix
 consultative, aux travaux relatifs à l'établissement de la liste électorale des
 groupements électeurs.

@@ -35,3 +35,8 @@ sont attribués à la liste dont les candidats ont la moyenne d'âge la plus
 Pour tous les collèges, sont considérés comme suppléants des candidats élus sur
 une liste les candidats figurant en rang postérieur à celui du dernier élu de
 ladite liste.
+
+Toute personne qui, au jour de l'élection, ne remplit plus les conditions
+d'inscription sur les listes électorales du collège au titre duquel elle est
+candidate ne peut être proclamée élue. Le siège auquel elle pouvait prétendre
+est attribué au premier candidat non élu de la même liste.
