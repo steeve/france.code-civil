@@ -1,7 +1,7 @@
 Article L96 A
 ----
-Tout organisme soumis à la loi n° 84-46 du 24 janvier 1984 ((modifiée)) (M) ou
-cité à l'article 8 de ladite loi doit communiquer à l'administration, sur sa
+Tout organisme soumis à la loi n° 84-46 du 24 janvier 1984 modifiée ou cité à
+l'article 8 modifié de ladite loi doit communiquer à l'administration, sur sa
 demande, la date et le montant des sommes transférées à l'étranger par les
 personnes visées au deuxième alinéa de l'article 1649 A du code général des
 impôts, l'identification de l'auteur du transfert et du bénéficiaire ainsi que
@@ -11,5 +11,3 @@ Ces dispositions s'appliquent également aux opérations effectuées pour le com
 de ces personnes sur des comptes de non-résidents.
 
 Les dispositions de l'article L. 102 B sont applicables.
-
-(M) Modification.

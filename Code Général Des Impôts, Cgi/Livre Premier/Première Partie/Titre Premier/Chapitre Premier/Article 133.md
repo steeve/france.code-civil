@@ -6,9 +6,9 @@ Sont affranchis de la retenue à la source :
 contractés à partir de l'entrée en vigueur de la loi du 29 décembre 1929 et
 avant le 1er janvier 1965, par les départements, communes, syndicats de communes
 et établissements publics auprès de la caisse des dépôts et consignations, du
-crédit foncier, ((la société anonyme Natexis ou toute société qu'elle contrôle
-au sens de l'article 355-1 de la loi n° 66-537 du 24 juillet 1966 sur les
-sociétés commerciales)) (M) et des caisses d'épargne.
+crédit foncier, la société anonyme Natexis ou toute société qu'elle contrôle au
+sens de l'article 355-1 de la loi n° 66-537 du 24 juillet 1966 ((modifiée)) (M)
+sur les sociétés commerciales et des caisses d'épargne.
 
 Les intérêts, arrérages et tous autres produits des emprunts négociables émis
 directement dans le public par les mêmes collectivités, à partir de l'entrée en
