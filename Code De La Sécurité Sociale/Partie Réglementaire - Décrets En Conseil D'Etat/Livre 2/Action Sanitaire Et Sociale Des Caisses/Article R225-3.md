@@ -14,9 +14,5 @@ décembre 1962 et, notamment, sur le budget et les comptes annuels de l'agence.
 Il délibère également sur le rapport annuel du directeur relatif au
 fonctionnement administratif et financier.
 
-Le conseil d'administration émet un avis sur les questions dont il est saisi par
-le ministre chargé de la sécurité sociale ou le ministre chargé du budget, ainsi
-que dans le cas où des textes particuliers prévoient sa consultation.
-
 Le conseil d'administration peut désigner en son sein des commissions et leur
 déléguer une partie de ses attributions.
