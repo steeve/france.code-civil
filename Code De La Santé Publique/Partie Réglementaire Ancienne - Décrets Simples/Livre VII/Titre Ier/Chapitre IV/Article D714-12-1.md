@@ -7,6 +7,12 @@ ou plusieurs fonctionnaires appartenant à un corps ou occupant un emploi class�
 dans la catégorie A ou la catégorie B, ou à un ou plusieurs pharmaciens des
 hôpitaux.
 
+Le directeur peut également, sous sa responsabilité, déléguer sa signature à un
+ou plusieurs responsables de centres de responsabilité, dans les conditions
+prévues par l'article L. 714-26-1. Ceux-ci sont dès lors, dans l'exercice des
+actes de gestion pour lesquels ils bénéficient d'une délégation de signature,
+placés sous l'autorité hiérarchique du directeur de l'établissement.
+
 Il peut en outre, le cas échéant, déléguer sa signature au directeur du centre
 de transfusion sanguine, conformément aux dispositions de l'article 9 du décret
 du 16 janvier 1954 susvisé.
