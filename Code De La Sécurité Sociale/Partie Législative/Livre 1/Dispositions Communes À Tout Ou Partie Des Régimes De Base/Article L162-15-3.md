@@ -47,6 +47,13 @@ cet article.
 
 Le contenu du rapport est défini par un arrêté conjoint des ministres chargés de
 la sécurité sociale, de la santé, de l'agriculture, de l'économie et du budget.
+Le rapport transmis au plus tard le 15 novembre établit également un bilan des
+dépenses pour l'année en cours ainsi que des annexes modificatives et des
+mesures prises en vertu de l'article L. 162-15-2. Les annexes et, le cas
+échéant, les mesures accompagnant ce rapport tiennent compte de l'objectif
+national de dépenses d'assurance maladie visé au 4° du I de l'article LO 111-3
+proposé dans le projet de loi de financement de la sécurité sociale déposé pour
+l'année suivante à l'Assemblée nationale.
 
 III. - Les annexes et, le cas échéant, les mesures déterminées par la Caisse
 nationale de l'assurance maladie des travailleurs salariés et au moins une autre

@@ -23,3 +23,7 @@ En ce qui concerne les médicaments à base de préparations homéopathiques ou
 d'allergènes, la taxe est perçue une seule fois pour une même famille de
 produits ; dans ce cas, le montant annuel des ventes à prendre en considération
 est celui qui est réalisé pour l'ensemble des produits de la même famille.
+
+La taxe n'est pas exigible pour les médicaments orphelins désignés comme tels en
+application des dispositions du règlement (CE) n° 141/2000 du Parlement européen
+et du Conseil du 16 décembre 1999 concernant les médicaments orphelins.

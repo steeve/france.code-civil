@@ -5,7 +5,7 @@ techniques et complémentaires d'assurance maladie, invalidité et maternité, d
 prestations familiales et d'assurance vieillesse agricole dont ils sont
 redevables pour eux-mêmes et au titre de leur exploitation.
 
-Cette exonération est applicable pendant les trois années civiles qui suivent
+Cette exonération est applicable pendant les cinq années civiles qui suivent
 celle au cours de laquelle ils bénéficient des prestations d'assurance maladie
 du régime des personnes non-salariées agricoles et remplissent, en qualité de
 chef d'exploitation, des conditions, définies par décret, relatives à la taille

@@ -1,65 +1,16 @@
 Article L615-14
 ----
-Les prestations de base comportent [*définition*] la couverture
-[*remboursement*], dans les cas de maladie, d'accident et de maternité :
+Les prestations de base servies aux ressortissants du régime institué par le
+présent livre en cas de maladie ou d'accident sont celles prévues aux 1°, 2°,
+3°, 4°, 6°, 7° et 8° de l'article L. 321-1 et, en cas de maternité, celles
+prévues à l'article L. 331-2.
 
-1°) des frais de médecine générale et spéciale ;
+A cet effet, il est fait application des dispositions prévues aux articles L.
+322-2, L. 322-3 et L. 332-1 à L. 332-3.
 
-2°) des frais de soins dentaires, ainsi que des frais de prothèses dentaires
-relatifs à la prestation d'appareils fonctionnels et thérapeutiques ou
-nécessaires à l'exercice d'une profession ;
-
-3°) des frais pharmaceutiques ;
-
-4°) des frais d'appareils d'orthopédie et de prothèse, y compris les frais
-d'optique ;
-
-5°) des frais d'analyses et examens de laboratoire ;
-
-6°) des frais d'hospitalisation et de traitement dans les établissements de
-soins et de cure, publics ou privés ;
-
-7°) des frais d'intervention chirurgicale ;
-
-8°) des frais de cure thermale ;
-
-9° Des frais afférents aux vaccinations dont la liste est fixée par arrêté du
-ministre chargé de la sécurité sociale et du ministre chargé de la santé ;
-
-10°) des frais de transport dans les conditions prévues par le 2° de l'article
-L. 321-1 ;
-
-11°) des frais afférents aux examens médicaux [*prénuptiaux*] prescrits en
-application de l'article L. 153 du code de la santé publique ;
-
-12°) Des frais relatifs aux actes d'investigation exécutés ou réalisés à des
-fins de dépistage.
-
-Font également partie des prestations de base :
-
-1°) la couverture des médicaments, produits et objets contraceptifs, ainsi que
-les frais d'analyses et d'examens de laboratoire ordonnés en vue de
-prescriptions contraceptives ;
-
-2°) la couverture des frais de soins et d'hospitalisation afférents à
-l'interruption volontaire de grossesse [*IVG*] effectuée dans les conditions
-prévues à la section I du chapitre III bis du titre Ier du livre II du code de
-la santé publique ;
-
-3°) la couverture, sur décision de la commission d'éducation spéciale créée par
-l'article 6 de la loi n° 75-534 du 30 juin 1975, des frais d'hébergement et de
-traitement des enfants ou adolescents handicapés dans les établissements
-d'éducation spéciale et professionnelle, ainsi que celle des frais de traitement
-concourant à cette éducation dispensée en dehors de ces établissements, à
-l'exception de la partie de ces frais incombant à l'Etat en application de
-l'article 5 de la loi n° 75-534 du 30 juin 1975 ;
-
-4°) la couverture des frais exposés dans les établissements et services
-concourant à l'éducation ou à la rééducation, à la réadaptation et au
-reclassement des adultes handicapés, en conformité des décisions prises par la
-commission technique d'orientation et de reclassement professionnel prévue à
-l'article L. 323-11 du code du travail ;
-
-5° La couverture des frais relatifs aux examens de dépistage effectués dans le
-cadre de programmes arrêtés en application des dispositions de l'article L. 55
-du code de la santé publique.
+Les assurés malades ou blessés de guerre, relevant du présent livre, qui
+bénéficient, au titre de la législation des pensions militaires, d'une pension
+d'invalidité sont dispensés pour eux personnellement du pourcentage de
+participation aux frais médicaux, pharmaceutiques et autres pour les maladies,
+blessures ou infirmités non mentionnées par la législation sur les pensions
+militaires.

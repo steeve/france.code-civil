@@ -2,9 +2,9 @@ Article L6114-3
 ----
 Les contrats mentionnés à l'article L. 6114-1 conclus avec les établissements de
 santé privés autres que ceux mentionnés à l'article L. 6114-2 déterminent par
-discipline les tarifs des prestations d'hospitalisation, dans les conditions
-prévues aux articles L. 162-22-1 à L. 162-22-5 du code de la sécurité sociale et
-conformément à un contrat type fixé par décret.
+discipline les tarifs des prestations d'hospitalisation et le montant du forfait
+annuel. Ils sont conclus dans le respect des articles L. 162-22-1 à L. 162-22-5,
+L. 162-22-7 et L. 162-22-8 du code de la sécurité sociale.
 
 Ces contrats définissent les orientations stratégiques des établissements, en
 tenant compte des objectifs du schéma d'organisation sanitaire et, notamment,

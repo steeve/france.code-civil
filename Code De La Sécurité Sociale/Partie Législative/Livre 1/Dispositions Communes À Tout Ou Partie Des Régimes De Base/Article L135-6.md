@@ -13,8 +13,13 @@ ministre chargé du budget ;
 
 3° Les montants résultant de l'application de l'article L. 251-6-1 ;
 
-3° bis Une fraction égale à 49 % du produit des prélèvements visés aux articles
-L. 245-14 à L. 245-16 ;
+4° Une fraction égale à 50 % du produit des prélèvements visés aux articles L.
+245-14 à L. 245-16 ;
 
-4° Toute ressource affectée au fonds de réserve en vertu de dispositions
-législatives.
+5° Les versements du compte d'affectation institué par le II de l'article 36 de
+la loi de finances pour 2001 ;
+
+6° Toute autre ressource affectée au fonds de réserve en vertu de dispositions
+législatives ;
+
+7° Le produit des placements effectués au titre du fonds de réserve.

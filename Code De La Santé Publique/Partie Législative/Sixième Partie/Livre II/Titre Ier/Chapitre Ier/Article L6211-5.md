@@ -5,6 +5,12 @@ pharmacien d'officine installé dans une agglomération où n'existe pas de
 laboratoire exclusif ou qu'entre laboratoires dans les conditions définies
 ci-dessous.
 
+Toutefois, les prélèvements que sont habilités à effectuer les professionnels de
+santé, les établissements de santé et les centres de santé ne disposant pas de
+laboratoire d'analyses de biologie médicale peuvent être transmis aux
+laboratoires d'analyses de biologie médicale, dans des conditions définies par
+décret en Conseil d'Etat.
+
 Il est interdit aux laboratoires qui prennent en charge les prélèvements
 d'organiser le ramassage chez les préleveurs dans les agglomérations où existe
 une pharmacie ou un laboratoire exclusif.

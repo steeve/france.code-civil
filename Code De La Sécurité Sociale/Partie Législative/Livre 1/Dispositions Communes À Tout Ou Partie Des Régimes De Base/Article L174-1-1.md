@@ -11,7 +11,9 @@ susvisés.
 
 Ce montant total annuel est fixé par application d'un taux d'évolution aux
 dépenses de l'année précédente, au plus tard dans les quinze jours qui suivent
-la publication de la loi de financement de la sécurité sociale.
+la publication de la loi de financement de la sécurité sociale. Certaines des
+dépenses incluses dans l'objectif national mentionnées au premier alinéa peuvent
+ne pas être incluses dans ces dotations régionales.
 
 Le montant total annuel ainsi calculé des dépenses hospitalières autorisées est
 constitué en dotations régionales. Le montant des dotations régionales, qui

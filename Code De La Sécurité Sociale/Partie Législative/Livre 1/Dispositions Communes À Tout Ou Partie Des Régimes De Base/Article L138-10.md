@@ -2,63 +2,47 @@ Article L138-10
 ----
 Lorsque le chiffre d'affaires hors taxes réalisé en France, au cours de l'année
 civile, au titre des médicaments inscrits sur la liste mentionnée à l'article L.
-162-17, par l'ensemble des entreprises assurant l'exploitation d'une ou
-plusieurs spécialités pharmaceutiques au sens de l'article L. 596 du code de la
-santé publique et n'ayant pas passé convention avec le Comité économique des
-produits de santé, dans les conditions mentionnées au troisième alinéa ci-après,
-s'est accru, par rapport au chiffre d'affaires réalisé l'année précédente, au
-titre des médicaments inscrits sur ladite liste, par l'ensemble de ces mêmes
-entreprises, d'un pourcentage excédant le taux de progression de l'objectif
-national de dépenses d'assurance maladie tel qu'il résulte du rapprochement des
-lois de financement de la sécurité sociale de l'année et de l'année précédente
-compte tenu, le cas échéant, des lois de financement rectificatives, ces
-entreprises sont assujetties à une contribution.
+162-17, à l'exception des médicaments orphelins désignés comme tels en
+application des dispositions du règlement (CE) n° 141/2000 précité par
+l'ensemble des entreprises assurant l'exploitation d'une ou plusieurs
+spécialités pharmaceutiques au sens de l'article L. 596 du code de la santé
+publique et n'ayant pas passé convention avec le Comité économique des produits
+de santé, dans les conditions mentionnées au troisième alinéa ci-après, s'est
+accru, par rapport au chiffre d'affaires réalisé l'année précédente, au titre
+des médicaments inscrits sur ladite liste, à l'exception des médicaments
+orphelins désignés comme tels en application des dispositions du règlement (CE)
+n° 141/2000 précité par l'ensemble de ces mêmes entreprises, d'un pourcentage
+excédant le taux de progression de l'objectif national de dépenses d'assurance
+maladie tel qu'il résulte du rapprochement des lois de financement de la
+sécurité sociale de l'année et de l'année précédente compte tenu, le cas
+échéant, des lois de financement rectificatives, ces entreprises sont
+assujetties à une contribution.
 
 Le montant total de cette contribution est calculé comme suit :
 
 TAUX D'ACCROISSEMENT du chiffre d'affaires T de l'ensemble des entreprises
 redevables :
 
-T supérieur à K (+) et/ou égal à K + 1 point.
+T supérieur à K (+) et/ou égal à K + 0,5 point.
 
-TAUX DE LA CONTRIBUTION globale exprimé en pourcentage du chiffre d'affaires
-déclaré de l'ensemble des entreprises redevables :
-
-0,15
+TAUX DE LA CONTRIBUTION globale exprimé en pourcentage de la tranche du chiffre
+d'affaires déclaré par l'ensemble des entreprises redevables : 50
 
 TAUX D'ACCROISSEMENT du chiffre d'affaires T de l'ensemble des entreprises
 redevables :
 
-T supérieur à K + 1 point et inférieur ou égal à K + 2 points.
+T supérieur à K + 0,5 point et inférieur ou égal à K + 1 point.
 
-TAUX DE LA CONTRIBUTION globale exprimé en pourcentage du chiffre d'affaires
-déclaré de l'ensemble des entreprises redevables :
-
-0,65
+TAUX DE LA CONTRIBUTION globale exprimé en pourcentage de la tranche du chiffre
+d'affaires déclaré par l'ensemble des entreprises redevables : 60
 
 TAUX D'ACCROISSEMENT du chiffre d'affaires T de l'ensemble des entreprises
 redevables :
 
-T supérieur à K + 2 points et inférieur ou égal à K + 4 points.
+T supérieur à K + 1 point et plus.
 
-TAUX DE LA CONTRIBUTION globale exprimé en pourcentage du chiffre d'affaires
-déclaré de l'ensemble des entreprises redevables : 1,3
-
-TAUX D'ACCROISSEMENT du chiffre d'affaires T de l'ensemble des entreprises
-redevables :
-
-T supérieur à K + 4 points et inférieur ou égal à K + 5,5 points.
-
-TAUX DE LA CONTRIBUTION globale exprimé en pourcentage du chiffre d'affaires
-déclaré de l'ensemble des entreprises redevables : 2,3
-
-TAUX D'ACCROISSEMENT du chiffre d'affaires T de l'ensemble des entreprises
-redevables :
-
-T supérieur à K + 5,5 points.
-
-TAUX DE LA CONTRIBUTION globale exprimé en pourcentage du chiffre d'affaires
-déclaré de l'ensemble des entreprises redevables : 3,3
+TAUX DE LA CONTRIBUTION globale exprimé en pourcentage de la tranche du chiffre
+d'affaires déclaré par l'ensemble des entreprises redevables : 70
 
 (+) K = taux de progression de l'objectif national de dépenses d'assurance
 maladie arrondi à la décimale la plus proche.
