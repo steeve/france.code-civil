@@ -24,7 +24,7 @@ l'autorisation prévue à l'article L. 532-1 pour le service concerné.
 
 En outre, le Conseil des marchés financiers peut prononcer, soit à la place,
 soit en sus de ces sanctions, une sanction pécuniaire dont le montant ne peut
-être supérieur à cinq millions de francs ou au décuple du montant des profits
+être supérieur à 750000 euros ou au décuple du montant des profits
 éventuellement réalisés. Les sommes sont versées au fonds de garantie auquel est
 affiliée la personne sanctionnée ou, à défaut, au Trésor public.
 

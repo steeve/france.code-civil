@@ -3,7 +3,7 @@ Article L317-4
 I. - Le fait de mettre en circulation un véhicule à moteur ou une remorque muni
 d'une plaque ou d'une inscription ne correspondant pas à la qualité de ce
 véhicule ou à celle de l'utilisateur est puni de cinq ans d'emprisonnement et de
-25 000 F d'amende.
+3 750 euros d'amende.
 
 II. - Toute personne coupable de cette infraction encourt également les peines
 complémentaires suivantes :

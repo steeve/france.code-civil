@@ -1,6 +1,6 @@
 Article 225-10
 ----
-Est puni de dix ans d'emprisonnement et de 5 000 000 F d'amende le fait, par
+Est puni de dix ans d'emprisonnement et de 750000 euros d'amende le fait, par
 quiconque, agissant directement ou par personne interposée :
 
 1° De détenir, gérer, exploiter, diriger, faire fonctionner, financer ou

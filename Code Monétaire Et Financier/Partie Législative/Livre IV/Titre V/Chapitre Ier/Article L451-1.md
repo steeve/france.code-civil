@@ -5,10 +5,9 @@ obligations d'information des sociétés dont les actions sont admises aux
 négociations sur un marché réglementé sont fixées par les articles L. 232-7 et
 L. 232-8 du code de commerce, reproduits ci-après :
 
-" Art. L. 232-7. - Les sociétés dont les actions sont admises aux négociations
-sur un marché réglementé sont tenues d'annexer à leurs comptes annuels un
-inventaire des valeurs mobilières détenues en portefeuille à la clôture de
-l'exercice.
+" Art.L. 232-7.-Les sociétés dont les actions sont admises aux négociations sur
+un marché réglementé sont tenues d'annexer à leurs comptes annuels un inventaire
+des valeurs mobilières détenues en portefeuille à la clôture de l'exercice.
 
 Elles annexent également un tableau relatif à la répartition et à l'affectation
 des sommes distribuables qui seront proposées à l'assemblée générale.
@@ -24,10 +23,11 @@ rapport semestriel et les modalités de sa publication sont fixées par décret 
 Conseil d'Etat. Les commissaires aux comptes vérifient la sincérité des
 informations contenues dans le rapport semestriel. "
 
-" Art. L. 232-8. - Lorsque la moitié de leur capital appartient à une ou
-plusieurs sociétés dont les actions sont admises aux négociations sur un marché
+" Art.L. 232-8.-Lorsque la moitié de leur capital appartient à une ou plusieurs
+sociétés dont les actions sont admises aux négociations sur un marché
 réglementé, les sociétés dont les actions n'y sont pas admises et celles qui ne
 revêtent pas la forme de sociétés par actions sont tenues, si leur bilan dépasse
-20 000 000 F ou si la valeur d'inventaire ou la valeur boursière de leur
-portefeuille excède 2 000 000 F, d'annexer à leurs comptes annuels un inventaire
-des valeurs mobilières détenues en portefeuille à la clôture de l'exercice. "
+3 000 000 d'euros ou si la valeur d'inventaire ou la valeur boursière de leur
+portefeuille excède 300 000 euros, d'annexer à leurs comptes annuels un
+inventaire des valeurs mobilières détenues en portefeuille à la clôture de
+l'exercice. "

@@ -5,7 +5,7 @@ sur les prises de participations significatives sont fixées par le 1° et le 2�
 du I et le III de l'article L. 247-1 et par l'article L. 247-2 du code de
 commerce, reproduits ci-après :
 
-" I. - Est puni d'un emprisonnement de deux ans et d'une amende de 60 000 F le
+" I. - Est puni d'un emprisonnement de deux ans et d'une amende de 9000 euros le
 fait, pour les présidents, les administrateurs, les directeurs généraux ou les
 gérants de toute société :
 
@@ -24,7 +24,7 @@ III. - Est puni des peines mentionnées au I le fait, pour le commissaire aux
 comptes, de ne pas faire figurer dans son rapport les mentions visées au 1° du I
 du présent article.
 
-Art. L. 247-2. - I. - Est puni d'une amende de 120 000 F le fait, pour les
+Art. L. 247-2. - I. - Est puni d'une amende de 18000 euros le fait pour les
 présidents, les administrateurs, les membres du directoire, les gérants ou les
 directeurs généraux des personnes morales, ainsi que pour les personnes
 physiques de s'abstenir de remplir les obligations d'informations auxquelles

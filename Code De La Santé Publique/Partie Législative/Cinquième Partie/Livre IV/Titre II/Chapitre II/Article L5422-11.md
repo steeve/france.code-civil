@@ -1,6 +1,6 @@
 Article L5422-11
 ----
-Est punie de 250 000 F d'amende toute publicité pour produits mentionnés à
+Est punie de 37500 euros d'amende toute publicité pour produits mentionnés à
 l'article L. 5122-14 :
 
 1° De caractère trompeur, de nature à porter atteinte à la protection de la

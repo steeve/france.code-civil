@@ -12,12 +12,12 @@ territoire français.
 
 Elle est fixée à :
 
-- 250 F par jour pour les véhicules routiers dont le poids total en charge est
-supérieur à 16 tonnes ;
+- 38,11 euros par jour pour les véhicules routiers dont le poids total en charge
+est supérieur à 16 tonnes ;
 
-- 500 F par jour pour les ensembles de véhicules dont le poids total roulant
-autorisé est supérieur à 26 tonnes, avec un maximum de perception par séjour ou
-par passage de six jours.
+- 76,22 euros par jour pour les ensembles de véhicules dont le poids total
+roulant autorisé est supérieur à 26 tonnes, avec un maximum de perception par
+séjour ou par passage de six jours.
 
 La taxe peut être suspendue ou réduite et ses modalités de perception aménagées
 par décret en fonction des accords passés avec les Etats concernés. A défaut

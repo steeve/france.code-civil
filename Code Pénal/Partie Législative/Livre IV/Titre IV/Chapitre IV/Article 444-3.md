@@ -1,6 +1,6 @@
 Article 444-3
 ----
-Sont punies de cinq ans d'emprisonnement et de 500 000 F d'amende :
+Sont punies de cinq ans d'emprisonnement et de 75000 euros d'amende :
 
 1° La contrefaçon ou la falsification des sceaux, timbres ou marques d'une
 autorité publique, ou l'usage de ces sceaux, timbres ou marques, contrefaits ou

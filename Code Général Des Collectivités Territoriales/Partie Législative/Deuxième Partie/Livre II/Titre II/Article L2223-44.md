@@ -1,6 +1,6 @@
 Article L2223-44
 ----
-- Les régies communales et intercommunales de pompes funèbres existant au 9
+Les régies communales et intercommunales de pompes funèbres existant au 9
 janvier 1993, date de publication de la loi n° 93-23 du 8 janvier 1993 modifiant
 le titre VI du livre III du code des communes et relative à la législation dans
 le domaine funéraire, peuvent, durant une période qui ne saurait excéder cinq
@@ -20,7 +20,7 @@ unilatérale d'un contrat.
 Le fait de diriger en droit ou en fait une entreprise ou une association ou un
 établissement qui fournit des prestations de pompes funèbres en violation des
 droits d'exclusivité maintenus en application des deux premiers alinéas sera
-puni d'une amende de 500 000 F.
+puni d'une amende de 75 000 euros.
 
 Par dérogation aux dispositions des deux premiers alinéas, lorsque la commune du
 lieu de mise en bière n'est pas celle du domicile du défunt ou du lieu

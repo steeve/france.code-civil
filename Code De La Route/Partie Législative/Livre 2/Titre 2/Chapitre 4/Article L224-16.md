@@ -4,7 +4,7 @@ I. - Le fait pour toute personne, malgré la notification qui lui aura été fai
 d'une décision prononçant à son encontre la suspension, la rétention,
 l'annulation ou l'interdiction d'obtenir la délivrance du permis de conduire, de
 conduire un véhicule à moteur pour la conduite duquel une telle pièce est
-nécessaire est puni de deux ans d'emprisonnement et de 30 000 F d'amende.
+nécessaire est puni de deux ans d'emprisonnement et de 4 500 euros d'amende.
 
 II. - Toute personne coupable du délit prévu au présent article encourt
 également les peines complémentaires suivantes :

@@ -1,6 +1,6 @@
 Article L5451-1
 ----
-Est puni de deux ans d'emprisonnement et de 200 000 F d'amende, le fait :
+Est puni de deux ans d'emprisonnement et de 30000 euros d'amende, le fait :
 
 - de poursuivre, à l'égard des produits concernés, les activités ayant fait
 l'objet d'une des mesures de suspension ou d'interdiction prévues aux articles

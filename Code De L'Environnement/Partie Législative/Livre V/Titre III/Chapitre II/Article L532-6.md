@@ -5,8 +5,9 @@ d'enseignement ou de développement d'organismes génétiquement modifiés est
 assortie d'une taxe représentative des frais d'instruction et perçue au profit
 du budget général de l'Etat. Cette taxe est exigible lors du dépôt du dossier.
 
-Elle est fixée à 10 000 F par dossier. Son montant est réduit à 2 000 F lorsque
-la demande d'agrément concerne une utilisation confinée autre que la première.
+Elle est fixée à 1 525 euros par dossier. Son montant est réduit à 305 euros
+lorsque la demande d'agrément concerne une utilisation confinée autre que la
+première.
 
 Le recouvrement et le contentieux de la taxe instituée au présent article sont
 suivis par les comptables du Trésor selon les modalités fixées aux articles 81 à

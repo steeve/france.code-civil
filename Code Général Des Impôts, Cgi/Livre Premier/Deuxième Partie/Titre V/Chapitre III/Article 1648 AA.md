@@ -24,10 +24,10 @@ l'application de cette disposition, la surface de vente s'entend de celle
 résultant d'une construction ou de la transformation d'un immeuble.
 
 La répartition prévue aux premier et deuxiéme alinéas s'effectue entre les
-communes dont tout ou partie du territoire se trouve à une distance de 5 km d'un
-point quelconque de l'ensemble commercial. Cette distance est portée à 10 km
-lorsque la surface de vente des magasins concernés est égale ou supérieure à 5
-000 mètres carrés.
+communes dont tout ou partie du territoire se trouve à une distance de 5
+kilomètres d'un point quelconque de l'ensemble commercial. Cette distance est
+portée à 10 kilomètres lorsque la surface de vente des magasins concernés est
+égale ou supérieure à 5 000 mètres carrés.
 
 Les dispositions des premier, deuxième et troisième alinéas ne sont applicables
 ni dans les départements dont la densité de population excède 1 000 habitants au
@@ -71,7 +71,7 @@ III. Les sommes que le ou les fonds départementaux de la taxe professionnelle
 perçoivent en application des dispositions du II sont :
 
 1° A concurrence de 85 p. 100 de leur montant, réparties, conformément aux
-dispositions du IV, entre les communes bénéficiaires au titre du I ;
+dispositions du IV entre les communes bénéficiaires au titre du I ;
 
 2° Pour le surplus, versées à un fonds régional dont les ressources sont
 réparties entre des fonds départementaux d'adaptation du commerce rural en
@@ -94,7 +94,7 @@ taxe professionnelle par habitant des communes appartenant au même groupe
 démographique.
 
 Lorsque la somme qui doit résulter de la répartition pour une commune est
-inférieure à 3 000 F, le versement de cette somme n'est pas effectué.
+inférieure à 457 euros, le versement de cette somme n'est pas effectué.
 
 Les sommes non distribuées en application des dispositions des quatre alinéas
 précédents viennent en augmentation des sommes à répartir entre les communes qui
@@ -115,7 +115,7 @@ département et par le président du conseil général ; elle comprend en outre 
 
 - un représentant de la chambre des métiers ;
 
-- deux personnalités qualifiées désignées par les coprésidents.
+- deux personnalités qualifiées désignées par les co-présidents.
 
 La répartition prévue au premier alinéa du V doit avoir pour objectif le
 maintien d'une présence commerciale harmonieuse en zone rurale.

@@ -5,7 +5,7 @@ livre, de recevoir des avantages en nature ou en espèces, sous quelque forme qu
 ce soit, d'une façon directe ou indirecte, procurés par des entreprises assurant
 des prestations, produisant ou commercialisant des produits pris en charge par
 les régimes obligatoires de sécurité sociale est puni de deux ans
-d'emprisonnement et de 500 000 F d'amende.
+d'emprisonnement et de 75000 euros d'amende.
 
 En cas de condamnation, l'interdiction temporaire d'exercer la profession
 pendant une période de dix ans peut être prononcée par les cours et tribunaux

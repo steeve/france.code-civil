@@ -1,6 +1,6 @@
 Article L245-13
 ----
-Est puni d'une amende de 30000 F le fait, pour le président de l'assemblée
+Est puni d'une amende de 4500 euros le fait, pour le président de l'assemblée
 générale des obligataires, de ne pas procéder à la constatation des décisions de
 toute assemblée générale d'obligataires par procès-verbal, transcrit sur un
 registre spécial tenu au siège social et mentionnant la date et le lieu de la

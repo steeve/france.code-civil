@@ -1,6 +1,6 @@
 Article L81
 ----
-Est punie d'une amende de 25000 F et d'un emprisonnement de cinq ans : toute
+Est punie d'une amende de 3 750 euros et d'un emprisonnement de cinq ans : toute
 personne qui rompt volontairement un câble sous-marin ou lui cause une
 détérioration qui pourrait interrompre ou entraver, en tout ou partie, les
 télécommunications.

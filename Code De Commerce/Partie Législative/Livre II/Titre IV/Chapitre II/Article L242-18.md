@@ -1,8 +1,9 @@
 Article L242-18
 ----
 Sous réserve des dispositions des articles L. 225-133 à L. 225-138, est puni
-d'une amende de 120 000 F le fait, pour le président, les administrateurs ou les
-directeurs généraux d'une société anonyme, lors d'une augmentation de capital :
+d'une amende de 18000 euros le fait, pour le président, les administrateurs ou
+les directeurs généraux d'une société anonyme, lors d'une augmentation de
+capital :
 
 1° De ne pas faire bénéficier les actionnaires, proportionnellement au montant
 de leurs actions, d'un droit de préférence à la souscription des actions de

@@ -1,6 +1,6 @@
 Article L5431-2
 ----
-Est puni de deux ans d'emprisonnement et de 200 000 F d'amende, le fait :
+Est puni de deux ans d'emprisonnement et de 30000 euros d'amende, le fait :
 
 1° D'ouvrir ou d'exploiter un établissement de fabrication, de conditionnement
 ou d'importation de produits cosmétiques, à l'exception de ceux mentionnés à

@@ -2,8 +2,8 @@ Article L133-3
 ----
 Lorsque des établissements, sociétés, groupements et organismes, quel que soit
 leur statut juridique, auxquels les collectivités territoriales ou leurs
-établissements publics apportent un concours financier supérieur à 10 000 F ou
-dans lesquels ils détiennent, séparément ou ensemble, plus de la moitié du
+établissements publics apportent un concours financier supérieur à 1 500 euros
+ou dans lesquels ils détiennent, séparément ou ensemble, plus de la moitié du
 capital ou des voix dans les organes délibérants, ou exercent un pouvoir
 prépondérant de décision ou de gestion, relèvent du contrôle de plusieurs
 chambres régionales ou territoriales des comptes, la Cour des comptes est

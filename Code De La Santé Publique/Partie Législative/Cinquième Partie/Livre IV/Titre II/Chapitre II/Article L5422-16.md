@@ -1,7 +1,7 @@
 Article L5422-16
 ----
-Est puni de 25 000 F d'amende le fait pour l'employeur d'un salarié mentionné à
-l'alinéa premier de l'article L. 5122-11 :
+Est puni de 3750 euros d'amende le fait pour l'employeur d'un salarié mentionné
+à l'alinéa premier de l'article L. 5122-11 :
 
 1° De ne pas veiller à l'actualisation de ses connaissances ;
 

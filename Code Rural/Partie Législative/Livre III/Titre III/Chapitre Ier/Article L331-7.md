@@ -20,8 +20,8 @@ orales devant toute instance ayant à connaître de l'affaire.
 Si, à l'expiration du délai imparti pour cesser l'exploitation des terres
 concernées, l'autorité administrative constate que l'exploitation se poursuit
 dans des conditions irrégulières, elle peut prononcer à l'encontre de
-l'intéressé une sanction pécuniaire d'un montant compris entre 2000 et 6000 F
-par hectare. La surface prise en compte correspond à la surface de
+l'intéressé une sanction pécuniaire d'un montant compris entre 304,90 et 914,70
+euros par hectare. La surface prise en compte correspond à la surface de
 polyculture-élevage faisant l'objet de l'exploitation illégale, ou son
 équivalent, après, le cas échéant, application des coefficients d'équivalence
 résultant, pour chaque nature de culture, de l'application de l'article L.

@@ -1,6 +1,6 @@
 Article 209
 ----
-Est puni d'une amende de 100000 F le fait pour tout prestataire de transport
+Est puni d'une amende de 15000 euros le fait pour tout prestataire de transport
 public de marchandises par voie navigable, auxiliaire de transport ou loueur de
 bateaux de marchandises avec équipage, d'offrir ou de pratiquer un prix
 inférieur au coût de la prestation qui ne permet pas de couvrir les charges

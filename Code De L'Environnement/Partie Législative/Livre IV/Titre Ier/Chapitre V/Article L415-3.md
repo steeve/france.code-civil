@@ -1,6 +1,6 @@
 Article L415-3
 ----
-Est puni de six mois d'emprisonnement et de 60 000 F d'amende :
+Est puni de six mois d'emprisonnement et de 9 000 euros d'amende :
 
 1° Le fait de porter atteinte à la conservation d'espèces animales non
 domestiques ou végétales non cultivées en violation des interdictions prévues à

@@ -1,6 +1,6 @@
 Article L245-11
 ----
-Est puni d'un emprisonnement de deux ans et d'une amende de 60000 F le fait :
+Est puni d'un emprisonnement de deux ans et d'une amende de 9000 euros le fait :
 
 1° D'empêcher un obligataire de participer à une assemblée générale
 d'obligataires ;

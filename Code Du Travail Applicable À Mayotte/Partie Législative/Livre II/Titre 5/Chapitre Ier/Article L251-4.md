@@ -26,7 +26,4 @@ pour assurer ladite exécution.
 Le chef d'entreprise qui, dans les délais prévus, n'a pas présenté le plan visé
 au deuxième alinéa ci-dessus ou n'a pas pris les mesures nécessaires à la
 réalisation du plan arrêté par le juge en vertu du troisième alinéa est puni
-d'une amende de 120 000 F (1) [*montant*] ainsi que des peines prévues à
-l'article L. 251-7.
-
-(1) Amende applicable depuis le 8 mars 1991.
+d'une amende de 18000 euros ainsi que des peines prévues à l'article L. 251-7.

@@ -1,7 +1,7 @@
 Article L5436-3
 ----
-Est puni de 25 000 F d'amende le fait de méconnaître les règles déterminées par
-décret en Conseil d'Etat prévues à l'article L. 5136-6 relatives :
+Est puni de 3750 euros d'amende le fait de méconnaître les règles déterminées
+par décret en Conseil d'Etat prévues à l'article L. 5136-6 relatives :
 
 1° Aux autorisations de mise sur le marché prévues à l'article L. 5136-1 ;
 

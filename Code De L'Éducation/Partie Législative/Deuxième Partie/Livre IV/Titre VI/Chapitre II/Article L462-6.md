@@ -1,6 +1,6 @@
 Article L462-6
 ----
-Est puni de [*taux*] 25 000 F d'amende :
+Est puni de 3750 euros d'amende :
 
 1° Le fait, pour toute personne, d'exploiter contre rémunération soit
 directement, soit par l'intermédiaire d'une autre personne, un établissement

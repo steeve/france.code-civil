@@ -3,7 +3,7 @@ Article L427-3
 Dans les territoires d'outre-mer, toute infraction à la réglementation relative
 à la durée du travail du personnel navigant est punie :
 
-En ce qui concerne l'employeur, d' une amende de 25 000 F ;
+En ce qui concerne l'employeur, d' une amende de 3 750 euros ;
 
 En ce qui concerne le contrevenant, du retrait de sa licence qui est prononcé
 par le ministre chargé de l'aviation civile dans les catégories transport aérien

@@ -1,8 +1,8 @@
 Article L243-3
 ----
 Quiconque contrevient aux dispositions des articles L. 241-1 à L. 242-1 du
-présent code sera puni d'un emprisonnement de six mois et d'une amende de
-500.000 F ou de l'une de ces deux peines seulement [*sanctions*].
+présent code sera puni d'un emprisonnement de six mois et d'une amende de 75 000
+euros ou de l'une de ces deux peines seulement.
 
 Les dispositions de l'alinéa précédent ne s'appliquent pas à la personne
 physique construisant un logement pour l'occuper elle-même ou le faire occuper

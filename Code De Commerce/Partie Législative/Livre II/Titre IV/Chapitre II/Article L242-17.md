@@ -1,6 +1,6 @@
 Article L242-17
 ----
-I. - Est puni d'une amende de 60000 F le fait, pour le président, les
+I. - Est puni d'une amende de 9000 euros le fait, pour le président, les
 administrateurs ou les directeurs généraux d'une société anonyme, d'émettre,
 lors d'une augmentation de capital, des actions ou des coupures d'actions :
 
@@ -19,9 +19,9 @@ numéraire nouvelles aient été libérées, lors de la souscription, d'un quart
 moins de leur valeur nominale et, le cas échéant, de la totalité de la prime
 d'émission.
 
-III. - Est puni des peines d'amende et d'emprisonnement prévues aux I et au II
-le fait, pour les mêmes personnes de ne pas maintenir les actions de numéraire
-en la forme nominative jusqu'à leur entière libération.
+III. - Est puni des peines d'amende et d'emprisonnement prévues au I et au II le
+fait, pour les mêmes personnes de ne pas maintenir les actions de numéraire en
+la forme nominative jusqu'à leur entière libération.
 
 IV. - Les peines prévues au présent article peuvent être doublées, lorsqu'il
 s'agit de sociétés anonymes faisant publiquement appel à l'épargne.

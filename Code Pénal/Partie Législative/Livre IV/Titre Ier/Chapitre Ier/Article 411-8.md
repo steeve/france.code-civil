@@ -6,4 +6,4 @@ activité ayant pour but l'obtention ou la livraison de dispositifs,
 renseignements, procédés, objets, documents, données informatisées ou fichiers
 dont l'exploitation, la divulgation ou la réunion est de nature à porter
 atteinte aux intérêts fondamentaux de la nation est puni de dix ans
-d'emprisonnement et de 1 000 000 F d'amende.
+d'emprisonnement et de 150 000 euros d'amende.

@@ -7,7 +7,7 @@ soit attestée, par un médecin exerçant son activité dans un établissement
 mentionné à l'article 511-20, la forte probabilité, pour le couple, de donner
 naissance à un enfant atteint d'une maladie génétique d'une particulière gravité
 reconnue comme incurable au moment du diagnostic est puni de deux ans
-d'emprisonnement et de 200 000 F d'amende.
+d'emprisonnement et de 30 000 euros d'amende.
 
 " Est puni des mêmes peines le fait de procéder à un diagnostic préimplantatoire
 :

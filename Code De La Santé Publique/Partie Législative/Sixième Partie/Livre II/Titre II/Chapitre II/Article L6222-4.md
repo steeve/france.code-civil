@@ -1,6 +1,6 @@
 Article L6222-4
 ----
-Est puni de six mois d'emprisonnement et de 40 000 F d'amende le fait pour un
+Est puni de six mois d'emprisonnement et de 6000 euros d'amende le fait pour un
 directeur ou un directeur adjoint de laboratoire :
 
 1° D'exercer ses fonctions dans plus d'un laboratoire ;

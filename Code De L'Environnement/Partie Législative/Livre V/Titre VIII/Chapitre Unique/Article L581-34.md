@@ -1,7 +1,8 @@
 Article L581-34
 ----
-I. - Est puni d'une amende de 25 000 F le fait d'apposer, de faire apposer ou de
-maintenir après mise en demeure une publicité, une enseigne ou une préenseigne :
+I. - Est puni d'une amende de 3 750 euros le fait d'apposer, de faire apposer ou
+de maintenir après mise en demeure une publicité, une enseigne ou une
+préenseigne :
 
 1° Dans des lieux, sur des emplacements ou selon des procédés interdits en
 application des articles L. 581-4, L. 581-7, L. 581-8, L. 581-15, L. 581-18 et

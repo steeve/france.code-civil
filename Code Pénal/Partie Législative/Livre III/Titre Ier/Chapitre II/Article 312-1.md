@@ -5,4 +5,4 @@ contrainte soit une signature, un engagement ou une renonciation, soit la
 révélation d'un secret, soit la remise de fonds, de valeurs ou d'un bien
 quelconque.
 
-L'extorsion est punie de sept ans d'emprisonnement et de 700 000 F d'amende.
+L'extorsion est punie de sept ans d'emprisonnement et de 100 000 euros d'amende.

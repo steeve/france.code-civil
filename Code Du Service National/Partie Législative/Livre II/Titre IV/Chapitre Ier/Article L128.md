@@ -3,7 +3,7 @@ Article L128
 Quiconque est reconnu coupable d'avoir sciemment recelé ou pris à son service un
 assujetti recherché pour insoumission ou de l'avoir soustrait ou tenté de le
 soustraire aux poursuites ordonnées par la loi est puni d'un an d'emprisonnement
-et de 100000 F d'amende [* taux *].
+et de 15000 euros d'amende.
 
 Sont exceptés des dispositions qui précèdent :
 

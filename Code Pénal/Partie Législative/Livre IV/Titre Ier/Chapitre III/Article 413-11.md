@@ -1,6 +1,6 @@
 Article 413-11
 ----
-Est puni de cinq ans d'emprisonnement et de 500 000 F d'amende le fait, par
+Est puni de cinq ans d'emprisonnement et de 75000 euros d'amende le fait, par
 toute personne non visée à l'article 413-10 de :
 
 1° S'assurer la possession d'un renseignement, procédé, objet, document, donnée

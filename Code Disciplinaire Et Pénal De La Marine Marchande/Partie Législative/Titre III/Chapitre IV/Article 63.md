@@ -5,7 +5,7 @@ qui, dans les eaux maritimes et jusqu'à la limite des eaux territoriales
 françaises, ne se conforme pas aux règlements et aux ordres émanant des
 autorités maritimes et relatifs, soit à la police des eaux et rades, soit à la
 police de la navigation maritime, est punie de six mois d'emprisonnement et de
-25000 F d'amende, ou de l'une de ces deux peines seulement.
+3750 euros d'amende, ou de l'une de ces deux peines seulement.
 
 La même peine est encourue par toute personne embarquée sur un navire français
 qui, hors des eaux territoriales françaises, ne se conforme pas aux ordres
@@ -19,11 +19,11 @@ maritime édictées en application de la Convention internationale de Londres du
 20 octobre 1972 en vue de prévenir les abordages en mer et relatives aux
 dispositifs de séparation de trafic, soit les règles édictées par les préfets
 maritimes en ce qui concerne les distances minimales de passage le long des
-côtes françaises, sera puni d'une peine de deux ans d'emprisonnement et de 50000
-F d'amende ou de l'une de ces deux peines seulement. Toutefois, lorsque
+côtes françaises, sera puni d'une peine de deux ans d'emprisonnement et de 7500
+euros d'amende ou de l'une de ces deux peines seulement. Toutefois, lorsque
 l'infraction est commise par le capitaine d'un bâtiment français ou étranger
 transportant une cargaison d'hydrocarbures ou d'autres substances dangereuses
-définies par décret, l'amende est de 1000000 F.
+définies par décret, l'amende est de 150000 euros.
 
 Est puni des peines prévues par l'alinéa précédent le capitaine de tout navire
 français qui aura, hors des eaux territoriales ou intérieures françaises,
@@ -33,4 +33,4 @@ abordages en mer, et relatives aux dispositifs de séparation de trafic.
 
 Si les infractions prévues au présent article ont été commises en temps de
 guerre, la peine peut être portée au triple et la connaissance desdites
-infractions appartient aux tribunaux maritimes.RL&gt;
+infractions appartient aux tribunaux maritimes.

@@ -1,8 +1,8 @@
 Article L441-4
 ----
 Le fait d'ouvrir ou diriger une école sans remplir les conditions prescrites par
-les articles L. 914-4 et L. 921-1 et par la présente section est puni de
-[*taux*] 25 000 F d'amende.
+les articles L. 914-4 et L. 921-1 et par la présente section est puni de 3 750
+euros d'amende.
 
 L'école sera fermée.
 

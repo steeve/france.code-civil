@@ -1,12 +1,12 @@
 Article L90
 ----
-Sera passible d'une amende de 60 000 F :
+Sera passible d'une amende de 9 000 euros :
 
-- Tout candidat qui utilisera ou permettra d'utiliser son panneau d'affichage
+-tout candidat qui utilisera ou permettra d'utiliser son panneau d'affichage
 dans un but autre que la présentation et la défense de sa candidature et de son
 programme, pour son remerciement ou son désistement ;
 
-- Tout candidat qui cédera à un tiers son emplacement d'affichage.
+-tout candidat qui cédera à un tiers son emplacement d'affichage.
 
 Il sera en outre redevable des pénalités afférentes à l'affichage sans timbre.
 

@@ -1,12 +1,12 @@
 Article L63
 ----
 Les infractions aux dispositions du chapitre Ier et des règlements pris pour son
-application sont passibles [*sanction*] de 25000 F d'amende [* taux *].
+application sont passibles de 3750 euros [*taux*] d'amende.
 
 Sur réquisition du ministère public agissant à la demande du ministre intéressé,
 le tribunal saisi de la poursuite impartit aux personnes qui contreviennent aux
-dispositions du chapitre Ier, sous peine d'une astreinte de 5 F à 50 F par jour
-de retard, un délai pour régulariser la situation.
+dispositions du chapitre Ier, sous peine d'une astreinte de 0,75 euros à 7,5
+euros par jour de retard, un délai pour régulariser la situation.
 
 Dans le cas où le délai n'est pas observé, l'astreinte prononcée court à partir
 de l'expiration dudit délai jusqu'au jour où la situation est effectivement
@@ -28,8 +28,8 @@ frais et risques des personnes civilement responsables.
 
 Les personnes qui ont été condamnées par application du présent article et qui,
 dans les trois années [*délai*] qui suivent, commettent une nouvelle infraction
-aux dispositions du présent article, sont punies de 50000 F d'amende [* taux *]
-et d'un mois d'emprisonnement ou de l'une de ces deux peines seulement.
+aux dispositions du présent article, sont punies de 7500 euros d'amende [* taux
+*] et d'un mois d'emprisonnement ou de l'une de ces deux peines seulement.
 
 Les infractions aux dispositions du chapitre Ier peuvent être constatées par des
 procès-verbaux dressés par les officiers de police judiciaire, les gendarmes et

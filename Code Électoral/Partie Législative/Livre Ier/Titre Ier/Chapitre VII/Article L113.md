@@ -8,7 +8,7 @@ volontaire de la loi ou des arrêtés préfectoraux, ou par tous autres actes
 frauduleux, violé ou tenté de violer le secret du vote, porté atteinte ou tenté
 de porter atteinte à sa sincérité, empêché ou tenté d'empêcher les opérations du
 scrutin, ou qui en aura changé ou tenté de changer le résultat, sera puni d'une
-amende de 100 000 F et d'un emprisonnement d'un an ou de l'une de ces deux
+amende de 15 000 euros et d'un emprisonnement d'un an ou de l'une de ces deux
 peines seulement.
 
 Si le coupable est fonctionnaire de l'ordre administratif ou judiciaire, agent

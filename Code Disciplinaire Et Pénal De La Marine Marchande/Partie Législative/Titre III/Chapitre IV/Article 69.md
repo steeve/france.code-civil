@@ -1,6 +1,6 @@
 Article 69
 ----
-Est puni d'une amende de 25 000 F, pour chaque infraction constatée, tout
+Est puni d'une amende de 3 750 euros, pour chaque infraction constatée, tout
 armateur ou propriétaire de navire qui ne se conforme pas aux prescriptions du
 Code du travail maritime relatives aux réglementations du travail, de la
 nourriture et du couchage à bord des navires et aux prescriptions des règlements

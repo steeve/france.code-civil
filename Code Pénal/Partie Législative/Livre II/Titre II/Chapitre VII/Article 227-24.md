@@ -4,7 +4,7 @@ Le fait soit de fabriquer, de transporter, de diffuser par quelque moyen que ce
 soit et quel qu'en soit le support un message à caractère violent ou
 pornographique ou de nature à porter gravement atteinte à la dignité humaine,
 soit de faire commerce d'un tel message, est puni de trois ans d'emprisonnement
-et de 500 000 F d'amende lorsque ce message est susceptible d'être vu ou perçu
+et de 75000 euros d'amende lorsque ce message est susceptible d'être vu ou perçu
 par un mineur.
 
 Lorsque les infractions prévues au présent article sont soumises par la voie de

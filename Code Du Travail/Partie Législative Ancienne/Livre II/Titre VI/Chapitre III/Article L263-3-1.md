@@ -2,9 +2,9 @@ Article L263-3-1
 ----
 En cas d'accident du travail survenu dans une entreprise où ont été relevés des
 manquements graves ou répétés aux règles d'hygiène et de sécurité du travail, la
-juridiction saisie doit si elle ne retient pas dans les liens de la prévention
+juridiction saisie doit, si elle ne retient pas dans les liens de la prévention
 la ou les personnes physiques poursuivies sur le fondement des dispositions du
-code pénal citées à l'article L. 263-2-1 faire obligation à l'entreprise de
+code pénal citées à l'article L. 263-2-1, faire obligation à l'entreprise de
 prendre toutes mesures pour rétablir des conditions normales d'hygiène et de
 sécurité du travail.
 
@@ -20,10 +20,10 @@ saurait excéder cinq ans un plan de nature à faire disparaître les manquement
 visés ci-dessus.
 
 Dans ce dernier cas, les dépenses mises à la charge de l'entreprise ne peuvent
-annuellement dépasser le montant [*limite*] annuel moyen des cotisations
-d'accidents du travail prélevé, au cours des cinq années antérieures à celle du
-jugement, dans le ou les établissements où ont été relevés les manquements aux
-règles d'hygiène et de sécurité visés au premier alinéa ci-dessus.
+annuellement dépasser le montant annuel moyen des cotisations d'accidents du
+travail prélevé, au cours des cinq années antérieures à celle du jugement, dans
+le ou les établissements où ont été relevés les manquements aux règles d'hygiène
+et de sécurité visés au premier alinéa ci-dessus.
 
 Le contrôle de l'exécution des mesures prescrites est exercé par l'inspecteur du
 travail. S'il y a lieu, celui-ci saisit le juge des référés, qui peut ordonner
@@ -33,7 +33,4 @@ pour assurer ladite exécution.
 Le chef d'entreprise qui, dans les délais prévus, n'a pas présenté le plan visé
 au deuxième alinéa ci-dessus ou n'a pas pris les mesures nécessaires à la
 réalisation du plan arrêté par le juge en vertu du troisième alinéa, est puni
-d'une amende de 120.000 F (1) [*montant*] ainsi que des peines prévues à
-l'article L. 263-6.
-
-(1) Amende applicable depuis le 1er janvier 1978.
+d'une amende de 18000 euros ainsi que des peines prévues à l'article L. 263-6.

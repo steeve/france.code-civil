@@ -1,6 +1,6 @@
 Article L310-5
 ----
-Est puni d'une amende de 100000 F :
+Est puni d'une amende de 15000 euros :
 
 1° Le fait de procéder à une liquidation sans l'autorisation prévue à l'article
 L. 310-1 ou en méconnaissance de cette autorisation ;

@@ -4,8 +4,8 @@ I. - Toute demande d'autorisation de dissémination ou de mise sur le marché es
 assortie d'une taxe représentative des frais d'instruction et perçue au profit
 du budget général de l'Etat. Elle est exigible lors du dépôt du dossier.
 
-II. - Cette taxe est fixée à 10 000 F par dossier. Son montant est réduit à 4
-000 F :
+II. - Cette taxe est fixée à 1 525 euros par dossier. Son montant est réduit à
+610 euros ;
 
 1° Lorsque l'autorisation est demandée pour une dissémination ayant déjà fait
 l'objet d'une autorisation moins d'un an auparavant ;

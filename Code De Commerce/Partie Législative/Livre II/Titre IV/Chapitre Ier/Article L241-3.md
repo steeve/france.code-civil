@@ -1,6 +1,6 @@
 Article L241-3
 ----
-Est puni d'un emprisonnement de cinq ans et d'une amende de 2500000 F :
+Est puni d'un emprisonnement de cinq ans et d'une amende de 375 000 euros :
 
 1° Le fait, pour toute personne, de faire attribuer frauduleusement à un apport
 en nature une évaluation supérieure à sa valeur réelle ;

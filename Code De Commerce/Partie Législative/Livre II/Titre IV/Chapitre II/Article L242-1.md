@@ -1,11 +1,11 @@
 Article L242-1
 ----
-Est puni d'une amende de 60000 F le fait, pour les fondateurs, le président, les
-administrateurs ou les directeurs généraux d'une société anonyme, d'émettre des
-actions ou des coupures d'actions soit avant l'immatriculation de ladite société
-au registre du commerce et des sociétés, soit à une époque quelconque, si
-l'immatriculation a ét obtenue par fraude, soit encore sans que les formalités
-de constitution de ladite société aient été régulièrement accomplies.
+Est puni d'une amende de 9 000 euros le fait, pour les fondateurs, le président,
+les administrateurs ou les directeurs généraux d'une société anonyme, d'émettre
+des actions ou des coupures d'actions soit avant l'immatriculation de ladite
+société au registre du commerce et des sociétés, soit à une époque quelconque,
+si l'immatriculation a été obtenue par fraude, soit encore sans que les
+formalités de constitution de ladite société aient été régulièrement accomplies.
 
 Un emprisonnement d'un an peut, en outre, être prononcé si les actions ou
 coupures d'actions sont émises sans que les actions de numéraire aient été

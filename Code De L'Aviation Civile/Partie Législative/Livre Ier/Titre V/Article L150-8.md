@@ -16,7 +16,7 @@ l'interdiction.
 Les condamnés devront effectuer les dépôts de ces brevets soit à ce greffe, soit
 à celui de leur domicile, dans les cinq jours qui suivront la date à laquelle la
 condamnation sera devenue définitive, faute de quoi, ils seront punis
-[*sanction*] d'un an d'emprisonnement et d'une amende 60 000 F ou de l'une de
+[*sanction*] d'un an d'emprisonnement et d'une amende 9 000 euros ou de l'une de
 ces deux peines seulement, sans préjudice des peines portées à l'article L.
 150-2 au cas où ils conduiraient un aéronef pendant la période d'interdiction et
 qui ne pourront se confondre.

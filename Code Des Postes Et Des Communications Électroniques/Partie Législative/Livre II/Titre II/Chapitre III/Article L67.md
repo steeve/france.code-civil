@@ -1,6 +1,6 @@
 Article L67
 ----
-Sont punis de vingt ans de détention criminelle et d'une amende de 30 000 F,
+Sont punis de vingt ans de détention criminelle et d'une amende de 4 500 euros,
 sans préjudice des peines que pourrait entraîner leur complicité avec
 l'insurrection, les individus qui, dans un mouvement insurrectionnel, ont
 détruit ou rendu impropres au service une ou plusieurs lignes de

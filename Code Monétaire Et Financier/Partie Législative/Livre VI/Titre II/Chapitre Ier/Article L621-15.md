@@ -4,7 +4,7 @@ A l'encontre des auteurs des pratiques mentionnées à L. 621-14, la Commission
 des opérations de bourse peut, après une procédure contradictoire, prononcer les
 sanctions suivantes :
 
-1. Une sanction pécuniaire qui ne peut excéder dix millions de francs ;
+1. Une sanction pécuniaire qui ne peut excéder 1500000 euros ;
 
 2. Ou, lorsque des profits ont été réalisés, une sanction pécuniaire qui ne peut
 excéder le décuple de leur montant.

@@ -4,12 +4,12 @@ I. - Le fait, pour toute personne ayant reçu la notification d'une décision
 prononçant à son encontre la suspension ou l'annulation du permis de conduire,
 de refuser de restituer le permis suspendu ou annulé à l'agent de l'autorité
 chargé de l'exécution de cette décision est puni de deux ans d'emprisonnement et
-de 30 000 F d'amende.
+de 4 500 euros d'amende.
 
 II. - Le fait pour toute personne, pendant la période pour laquelle une décision
 de rétention du permis de conduire lui a été notifiée en application de
 l'article L. 224-1, de refuser de restituer le permis de conduire est puni de
-deux ans d'emprisonnement et de 30 000 F d'amende.
+deux ans d'emprisonnement et de 4 500 euros d'amende.
 
 III. - Toute personne coupable de l'un des délits prévus au présent article
 encourt également les peines complémentaires suivantes :

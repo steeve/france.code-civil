@@ -13,7 +13,7 @@ autorisés.
 Sans préjudice des sanctions disciplinaires qui peuvent être infligées par la
 commission bancaire, les infractions aux dispositions du présent article sont
 punies d'une amende fiscale dont le taux est égal au montant des intérêts payés,
-sans que cette amende puisse être inférieure à cinq cents francs.
+sans que cette amende puisse être inférieure à 75 euros.
 
 Un décret pris sur le rapport du ministre chargé de l'économie fixe les
 modalités d'application du présent article, et notamment les conditions dans

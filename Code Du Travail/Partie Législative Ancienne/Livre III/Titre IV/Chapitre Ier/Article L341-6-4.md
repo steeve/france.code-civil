@@ -1,8 +1,8 @@
 Article L341-6-4
 ----
 Toute personne qui ne s'est pas assurée, lors de la conclusion d'un contrat dont
-l'objet porte sur une obligation d'un montant au moins égal à 20 000 F en vue de
-l'exécution d'un travail, de la fourniture d'une prestation de services ou de
+l'objet porte sur une obligation d'un montant au moins égal à 3 000 euros en vue
+de l'exécution d'un travail, de la fourniture d'une prestation de services ou de
 l'accomplissement d'un acte de commerce, que son cocontractant s'acquitte de ses
 obligations au regard des dispositions du premier alinéa de l'article L. 341-6
 sera tenue solidairement responsable avec ce dernier, sans préjudice de

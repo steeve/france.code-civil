@@ -5,7 +5,7 @@ complémentaire ou rectificative, ou une radiation au registre du commerce et de
 sociétés, de ne pas, sans excuse jugée valable dans les quinze jours de la date
 à laquelle est devenue définitive l'ordonnance rendue par le juge commis à la
 surveillance du registre lui enjoignant de requérir l'une de ces formalités,
-déférer à cette injonction, est puni d'une amende de 25 000 F.
+déférer à cette injonction, est puni d'une amende de 3750 euros.
 
 Le tribunal peut, en outre, priver l'intéressé, pendant un temps qui n'excédera
 pas cinq ans, du droit de vote et d'éligibilité aux élections des tribunaux de

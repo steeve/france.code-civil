@@ -8,4 +8,4 @@ d'intérêt économique" ou du sigle :
 "GIE".
 
 Toute infraction aux dispositions de l'alinéa ci-dessus est punie d'une amende
-de 25000 F.
+de 3 750 euros.

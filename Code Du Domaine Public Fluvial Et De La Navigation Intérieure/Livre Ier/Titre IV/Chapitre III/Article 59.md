@@ -17,5 +17,5 @@ de 0,50 mètre.
 Toute construction devra faire l'objet d'une autorisation préfectorale prise sur
 l'avis des ingénieurs de la navigation.
 
-Toute construction non autorisée donnera lieu à une amende de 1000 à 80000 F et
-à la démolition de la construction.
+Toute construction non autorisée donnera lieu à une amende de 12000 euros et à
+la démolition de la construction.

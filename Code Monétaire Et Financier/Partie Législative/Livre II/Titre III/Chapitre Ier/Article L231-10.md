@@ -1,7 +1,7 @@
 Article L231-10
 ----
-Est puni d'un emprisonnement de cinq ans et d'une amende de soixante mille
-francs le fait, pour toute personne :
+Est puni d'un emprisonnement de cinq ans et d'une amende de 9 000 euros le fait,
+pour toute personne :
 
 1. D'affirmer, sincères et véritables des souscriptions qu'elle sait fictives ou
 de déclarer que des fonds qui n'ont pas été mis définitivement à la disposition

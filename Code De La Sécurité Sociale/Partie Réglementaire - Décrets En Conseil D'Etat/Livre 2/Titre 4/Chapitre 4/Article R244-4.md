@@ -9,4 +9,4 @@ contributions dont le versement lui incombait, ainsi qu'au paiement des
 majorations de retard. L'amende est appliquée autant de fois qu'il y a de
 personnes employées dans des conditions contraires aux prescriptions relatives à
 l'immatriculation et au paiement des cotisations de sécurité sociale sans que le
-total des amendes puisse dépasser 10 000 F.
+total des amendes puisse dépasser 1 500 euros.

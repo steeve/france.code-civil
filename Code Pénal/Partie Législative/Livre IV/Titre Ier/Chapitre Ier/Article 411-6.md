@@ -5,4 +5,4 @@ entreprise ou organisation étrangère ou sous contrôle étranger ou à leurs a
 des renseignements, procédés, objets, documents, données informatisées ou
 fichiers dont l'exploitation, la divulgation ou la réunion est de nature à
 porter atteinte aux intérêts fondamentaux de la nation est puni de quinze ans de
-détention criminelle et de 1 500 000 F d'amende.
+détention criminelle et de 225 000 euros d'amende.

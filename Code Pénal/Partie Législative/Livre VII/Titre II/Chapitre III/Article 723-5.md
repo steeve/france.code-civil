@@ -4,7 +4,7 @@ L'article 226-27 est rédigé comme suit :
 
 " Art. 226-27. - Le fait de rechercher l'identification d'une personne par ses
 empreintes génétiques à des fins médicales sans recueillir préalablement son
-consentement par écrit est puni d'un an d'emprisonnement et de 100 000 F
+consentement par écrit est puni d'un an d'emprisonnement et de 15000 euros
 d'amende.
 
 " Les dispositions de l'alinéa précédent ne sont pas applicables :

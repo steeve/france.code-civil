@@ -10,6 +10,6 @@ architectes et des entrepreneurs qui exécutent des travaux pour le compte de ce
 organismes ou de leurs clients et, d'une façon générale, de la part de tout
 fournisseur.
 
-La contravention aux interdictions qui précèdent est punie d'une amende de 60
-000 F et d'un emprisonnement de trois ans [*sanction*]. La peine est doublée en
-cas de récidive.
+La contravention aux interdictions qui précèdent est punie d'une amende de 9 000
+euros et d'un emprisonnement de trois ans. La peine est doublée en cas de
+récidive.

@@ -1,7 +1,7 @@
 Article L1126-5
 ----
-Est puni d'un an d'emprisonnement et de 100 000 F d'amende le fait de pratiquer
-ou de faire pratiquer une recherche biomédicale :
+Est puni d'un an d'emprisonnement et de 15000 euros d'amende le fait de
+pratiquer ou de faire pratiquer une recherche biomédicale :
 
 1° Sans avoir obtenu l'avis préalable prévu par l'article L. 1123-6 ;
 

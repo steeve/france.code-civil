@@ -6,4 +6,4 @@ académique de l'éducation nationale.
 
 Le fait, pour un chef d'établissement d'enseignement du second degré privé ou
 public, de délivrer une fausse attestation de stage, est puni de deux ans
-d'emprisonnement et de [*taux*] 200 000 F d'amende.
+d'emprisonnement et de 30 000 euros d'amende.

@@ -1,6 +1,6 @@
 Article L218-64
 ----
-Est puni de deux ans d'emprisonnement et de 500 000 F d'amende le fait, pour
+Est puni de deux ans d'emprisonnement et de 75 000 euros d'amende le fait, pour
 tout capitaine d'un navire français ou, à défaut, toute personne assumant la
 conduite d'opération d'incinération effectuées sur un navire français ou une
 structure artificielle fixe sous juridiction française, de procéder à une

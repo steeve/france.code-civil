@@ -12,6 +12,7 @@ construction ou de l'entretien des ouvrages visés à l'alinéa ci-dessus ;
 3° De naviguer sous les arches des ponts qui seraient fermés à la navigation du
 fait de tels travaux.
 
-Le contrevenant sera passible d'une amende de 1000 à 80000 F. Il devra supporter
-les frais de réparations. Il devra, en outre dédommager les entrepreneurs
-chargés des travaux à dire d'experts nommés par les parties ou d'office.
+Le contrevenant sera passible d'une amende de 150 à 12000 euros. Il devra
+supporter les frais de réparations. Il devra, en outre dédommager les
+entrepreneurs chargés des travaux à dire d'experts nommés par les parties ou
+d'office.

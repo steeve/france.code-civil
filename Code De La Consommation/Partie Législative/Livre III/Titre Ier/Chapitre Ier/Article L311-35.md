@@ -1,6 +1,6 @@
 Article L311-35
 ----
-Sera puni d'une amende de 200 000 F [*sanctions pénales*] :
+Sera puni d'une amende de 30 000 euros :
 
 1° Le prêteur ou le vendeur qui, en infraction aux dispositions de l'article L.
 311-17 et de l'article L. 311-27, réclame ou reçoit de l'emprunteur ou de

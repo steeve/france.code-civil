@@ -1,7 +1,7 @@
 Article L571-12
 ----
-Est puni de six mois d'emprisonnement et de soixante mille francs d'amende le
-fait, pour toute personne, d'ouvrir ou de tenir une maison de prêts sur gages ou
+Est puni de six mois d'emprisonnement et de 9 000 euros d'amende le fait, pour
+toute personne, d'ouvrir ou de tenir une maison de prêts sur gages ou
 nantissement sans autorisation légale.
 
 Est puni des mêmes peines le fait, pour une personne ayant une autorisation, de

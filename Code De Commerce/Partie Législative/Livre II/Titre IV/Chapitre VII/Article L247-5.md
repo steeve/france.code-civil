@@ -1,6 +1,6 @@
 Article L247-5
 ----
-Est puni d'un emprisonnement de deux ans et d'une amende 60000 F le fait de
+Est puni d'un emprisonnement de deux ans et d'une amende 9 000 euros le fait de
 contrevenir à l'interdiction d'exercer les fonctions de liquidateur.
 
 Quiconque est condamné par application de l'alinéa précédent ne peut plus être

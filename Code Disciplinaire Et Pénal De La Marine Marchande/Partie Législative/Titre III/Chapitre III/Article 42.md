@@ -2,7 +2,7 @@ Article 42
 ----
 Tout capitaine, officier ou maître, qui abuse de son autorité ou qui ordonne,
 autorise ou tolère un abus d'autorité vis-à-vis d'une personne embarquée, est
-puni de 25000 F d'amende et de six mois d'emprisonnement, ou de l'une de ces
+puni de 3750 euros d'amende et de six mois d'emprisonnement, ou de l'une de ces
 deux peines seulement.
 
 Est puni de la même peine, tout capitaine, officier ou maître coupable d'outrage

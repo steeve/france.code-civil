@@ -7,8 +7,8 @@ cinq ans d'emprisonnement.
 
 Lorsque les infractions préparées sont des crimes ou des délits punis de dix ans
 d'emprisonnement, la participation à une association de malfaiteurs est punie de
-dix ans d'emprisonnement et de [* taux *] 1 000 000 F d'amende.
+dix ans d'emprisonnement et de 150 000 euros d'amende.
 
 Lorsque les infractions préparées sont des délits punis d'au moins cinq ans
 d'emprisonnement, la participation à une association de malfaiteurs est punie de
-cinq ans d'emprisonnement et de 500 000 F d'amende.
+cinq ans d'emprisonnement et de 75 000 euros d'amende.

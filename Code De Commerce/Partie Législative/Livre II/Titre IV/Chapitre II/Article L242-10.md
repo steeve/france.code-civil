@@ -1,6 +1,6 @@
 Article L242-10
 ----
-Est puni d'un emprisonnement de six mois et d'une amende de 60000 F le fait,
+Est puni d'un emprisonnement de six mois et d'une amende de 9000 euros le fait,
 pour le président ou les administrateurs d'une société anonyme, de ne pas réunir
 l'assemblée générale ordinaire dans les six mois de la clôture de l'exercice ou,
 en cas de prolongation, dans le délai fixé par décision de justice ou de ne pas

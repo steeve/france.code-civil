@@ -1,6 +1,6 @@
 Article L5441-7
 ----
-Est puni de 25 000 F d'amende le fait :
+Est puni de 3750 euros d'amende le fait :
 
 1° De ne pas respecter pour les fabricants, importateurs et détenteurs de
 médicaments vétérinaires, l'obligation qui peut leur être faite pour lutter

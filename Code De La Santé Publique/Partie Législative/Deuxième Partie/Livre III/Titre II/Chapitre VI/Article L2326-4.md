@@ -3,7 +3,7 @@ Article L2326-4
 La création, l'extension ou la transformation des établissements et services
 privés mentionnés à l'article L. 2324-1 sans l'autorisation mentionnée aux
 alinéas premier et troisième de l'article L. 2324-1 est punie de trois mois
-d'emprisonnement et de 25 000 F d'amende.
+d'emprisonnement et de 3 750 euros d'amende.
 
 Les personnes physiques coupables de l'infraction mentionnée à l'alinéa
 précédent encourent également les peines complémentaires suivantes :

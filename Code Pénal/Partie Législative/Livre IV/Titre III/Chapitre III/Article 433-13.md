@@ -1,6 +1,6 @@
 Article 433-13
 ----
-Est puni d'un an d'emprisonnement et de 100 000 F d'amende le fait par toute
+Est puni d'un an d'emprisonnement et de 15 000 euros d'amende le fait par toute
 personne :
 
 1° D'exercer une activité dans des conditions de nature à créer dans l'esprit du

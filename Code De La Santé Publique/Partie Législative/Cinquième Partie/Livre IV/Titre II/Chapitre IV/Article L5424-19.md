@@ -14,4 +14,4 @@ désigne un d'office.
 
 Dans tous les cas mentionnés aux articles du présent chapitre, à l'exception des
 articles L. 5424-12 et L. 5424-18, la récidive est punie de trois mois
-d'emprisonnement et de 50 000 F d'amende.
+d'emprisonnement et de 7500 euros d'amende.

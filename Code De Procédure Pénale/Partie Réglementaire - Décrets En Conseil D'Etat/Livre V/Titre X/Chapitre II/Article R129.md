@@ -7,7 +7,7 @@ par la formule suivante :
 
 I = 10 + (S x 4) dans laquelle :
 
-I est le montant de l'indemnité forfaitaire exprimée en francs ;
+I est le montant de l'indemnité forfaitaire exprimée en euros ;
 
 S le salaire minimum interprofessionnel de croissance tel qu'il est fixé au 1er
 janvier de l'année en cours.

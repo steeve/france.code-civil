@@ -1,7 +1,7 @@
 Article L52-11
 ----
 Pour les élections auxquelles l'article L. 52-4 est applicable, il est institué
-un plafond des dépenses électorales, autres que les dépenses de propagande
+un plafond des dépenses électorales (1), autres que les dépenses de propagande
 directement prises en charge par l'Etat, exposées par chaque candidat ou chaque
 liste de candidats, ou pour leur compte, au cours de la période mentionnée au
 même article.
@@ -9,116 +9,94 @@ même article.
 Le montant du plafond est déterminé en fonction du nombre d'habitants de la
 circonscription d'élection, conformément au tableau ci-après :
 
-- PLAFOND PAR HABITANT DES DEPENSES ELECTORALES :
+Fraction de la population de la circonscription :
 
-- FRACTION DE LA POPULATION de la circonscription :
-
-- N'excédant pas 15 000 habitants :
+Plafond par habitant des de penses électorales (en euros) :
 
 Election des conseillers municipaux :
 
-- Listes présentes au premier tour : 8.
 
-- Listes présentes au second tour : 11.
+Election des conseillers généraux
 
-Election des conseillers :
+Election des conseillers régionaux
 
-- généraux : 4,2.
 
-- régionaux : 3,5.
+Listes présentes au premier tour
 
-- FRACTION DE LA POPULATION de la circonscription :
+Listes présentes au second tour
 
-- De 15 001 à 30 000 habitants :
+N'excédant pas 15 000 habitants :
 
-Election des conseillers municipaux :
+1, 22
 
-- Listes présentes au premier tour : 7.
+1, 68
 
-- Listes présentes au second tour : 10.
+0, 64
 
-Election des conseillers :
+0, 53
 
-- généraux : 3,5
+De 15 001 à 30 000 habitants :
 
-- régionaux : 3,5.
+1, 07
 
-- FRACTION DE LA POPULATION de la circonscription :
+1, 52
 
-- De 30 001 à 60 000 habitants :
+0, 53
 
-Election des conseillers municipaux :
+0, 53
 
-- Listes présentes au premier tour : 6.
+De 30 001 à 60 000 habitants :
 
-- Listes présentes au second tour : 8.
+0, 91
 
-Election des conseillers :
+1, 22
 
-- généraux : 2,8.
+0, 43
 
-- régionaux : 3,5.
+0, 53
 
-- FRACTION DE LA POPULATION de la circonscription :
+De 60 001 à 100 000 habitants :
 
-- De 60 001 à 100 000 habitants :
+0, 84
 
-Election des conseillers municipaux :
+1, 14
 
-- Listes présentes au premier tour : 5,5.
+0, 30
 
-- Listes présentes au second tour : 7,5.
+0, 53
 
-Election des conseillers :
+De 100 001 à 150 000 habitants :
 
-- généraux : 2.
+0, 76
 
-- régionaux : 3,5.
+1, 07
 
-- FRACTION DE LA POPULATION de la circonscription :
+-
 
-- De 100 001 à 150 000 habitants :
+0, 38
 
-Election des conseillers municipaux :
+De 150 001 à 250 000 habitants :
 
-- Listes présentes au premier tour : 5.
+0, 69
 
-- Listes présentes au second tour : 7.
+0, 84
 
-Election des conseillers :
+-
 
-- régionaux : 2,5.
+0, 30
 
-- FRACTION DE LA POPULATION de la circonscription :
+Excédant 250 000 habitants :
 
-- De 150 001 à 250 000 habitants :
+0, 53
 
-Election des conseillers municipaux :
+0, 76
 
-- Listes présentes au premier tour : 4,5.
+-
 
-- Listes présentes au second tour : 5,5.
+0, 23
 
-Election des conseillers :
-
-- régionaux : 2.
-
-- FRACTION DE LA POPULATION de la circonscription :
-
-- Excédant 250 000 habitants :
-
-Election des conseillers municipaux :
-
-- Listes présentes au premier tour : 3,5.
-
-- Listes présentes au second tour : 5.
-
-Election des conseillers :
-
-- régionaux : 1,5.
-
-Le plafond des dépenses pour l'élection des députés est de 250 000 F par
-candidat. Il est majoré de 1 F par habitant de la circonscription.
+Le plafond des dépenses pour l'élection des députés est de 38 000 euros par
+candidat. Il est majoré de 0, 15 euro par habitant de la circonscription.
 
 Les plafonds définis pour l'élection des conseillers régionaux sont applicables
 à l'élection des conseillers à l'Assemblée de Corse.

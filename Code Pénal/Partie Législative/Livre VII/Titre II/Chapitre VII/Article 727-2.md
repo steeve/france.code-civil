@@ -5,11 +5,11 @@ mensongères ou calomnieuses, en jetant sur le marché des offres destinées à
 troubler les cours ou des sur-offres faites aux prix demandés par les vendeurs,
 ou en utilisant tout autre moyen frauduleux, d'opérer ou de tenter d'opérer la
 hausse ou la baisse artificielle du prix de biens ou de services ou d'effets
-publics ou privés, est puni de deux ans d'emprisonnement et de 200 000 F
+publics ou privés, est puni de deux ans d'emprisonnement et de 30 000 euros
 d'amende.
 
 Lorsque la hausse ou la baisse artificielle des prix concerne des produits
-alimentaires, la peine est portée à trois ans d'emprisonnement et 300 000 F
+alimentaires, la peine est portée à trois ans d'emprisonnement et 45 000 euros
 d'amende.
 
 Les personnes physiques coupables des infractions prévues au présent article

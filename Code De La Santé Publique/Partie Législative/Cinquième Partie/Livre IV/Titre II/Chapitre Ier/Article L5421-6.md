@@ -1,7 +1,7 @@
 Article L5421-6
 ----
-Est puni de 25 000 F d'amende le fait de méconnaître les règles déterminées par
-décret en Conseil d'Etat prévues à l'article L. 5121-20 relatives :
+Est puni de 3750 euros d'amende le fait de méconnaître les règles déterminées
+par décret en Conseil d'Etat prévues à l'article L. 5121-20 relatives :
 
 1° A la présentation et la dénomination des médicaments et produits ;
 

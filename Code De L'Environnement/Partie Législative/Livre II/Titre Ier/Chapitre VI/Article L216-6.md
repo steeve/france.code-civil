@@ -7,7 +7,7 @@ les réactions entraînent, même provisoirement, des effets nuisibles sur la sa
 ou des dommages à la flore ou à la faune, à l'exception des dommages visés aux
 articles L. 218-73 et L. 432-2, ou des modifications significatives du régime
 normal d'alimentation en eau ou des limitations d'usage des zones de baignade,
-est puni de deux ans d'emprisonnement et de 500 000 F d'amende. Lorsque
+est puni de deux ans d'emprisonnement et de 75 000 euros d'amende. Lorsque
 l'opération de rejet est autorisée par arrêté, les dispositions de cet alinéa ne
 s'appliquent que si les prescriptions de cet arrêté ne sont pas respectées.
 

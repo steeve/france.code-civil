@@ -3,11 +3,11 @@ Article L310-27
 Le fait de pratiquer sur le territoire de la République une des opérations
 mentionnées aux 1°, 2° et 3° de l'article L. 310-1 sans se conformer aux
 dispositions des articles L. 310-2 et L. 310-6 est puni d'un emprisonnement de
-trois ans et d'une amende de 500 000 F [*sanctions*].
+trois ans et d'une amende de 75 000 euros.
 
 Lorsqu'une personne physique a commis l'une des infractions prévues au précédent
 alinéa, la diffusion de la décision, dans les conditions prévues par l'article
-712-2 du code pénal, peut être prononcée à titre de peine complémentaire.
+131-35 du code pénal, peut être prononcée à titre de peine complémentaire.
 
 Les personnes morales peuvent être déclarées responsables pénalement, dans les
 conditions prévues par l'article 121-2 du code pénal, des mêmes infractions.

@@ -1,6 +1,6 @@
 Article L247-6
 ----
-Est puni d'un emprisonnement de six mois et d'une amende de 60000 F le fait,
+Est puni d'un emprisonnement de six mois et d'une amende de 9 000 euros le fait,
 pour le liquidateur d'une société :
 
 1° De ne pas publier dans le délai d'un mois de sa nomination, dans un journal

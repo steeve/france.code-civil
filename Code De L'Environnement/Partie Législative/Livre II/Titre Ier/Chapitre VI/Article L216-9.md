@@ -10,8 +10,8 @@ contrevenu.
 
 Le tribunal impartit un délai pour l'exécution de ces prescriptions. Il peut
 assortir l'injonction d'une astreinte dont il fixe le taux et la durée maximum.
-Son montant est de 100 F à 20 000 F par jour de retard dans l'exécution des
-mesures imposées.
+Son montant est de 15 euros à 3 000 euros par jour de retard dans l'exécution
+des mesures imposées.
 
 L'ajournement ne peut intervenir qu'une fois. Il peut être ordonné même si le
 prévenu ne comparaît pas en personne. Dans tous les cas, la décision peut être

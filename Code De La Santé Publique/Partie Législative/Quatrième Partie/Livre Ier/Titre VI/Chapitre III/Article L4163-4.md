@@ -1,7 +1,7 @@
 Article L4163-4
 ----
-Est puni de 30 000 F d'amende et en cas de récidive de six mois d'emprisonnement
-et de 60 000 F d'amende le fait :
+Est puni de 4500 euros d'amende et en cas de récidive de six mois
+d'emprisonnement et de 9000 euros d'amende le fait :
 
 1° Sauf les cas mentionnés aux articles L. 4211-3 et L. 5125-2, pour toute
 personne qui exerce l'une des professions médicales mentionnées au présent

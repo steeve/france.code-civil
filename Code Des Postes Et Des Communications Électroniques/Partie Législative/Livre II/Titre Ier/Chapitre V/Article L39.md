@@ -1,7 +1,7 @@
 Article L39
 ----
-Est puni d'un emprisonnement de six mois et d'une amende [* taux *] de 500 000 F
-le fait :
+Est puni d'un emprisonnement de six mois et d'une amende [* taux *] de 75000
+euros le fait :
 
 1° D'établir ou de faire établir un réseau ouvert au public, sans l'autorisation
 prévue à l'article L. 33-1, ou de le maintenir en violation d'une décision de

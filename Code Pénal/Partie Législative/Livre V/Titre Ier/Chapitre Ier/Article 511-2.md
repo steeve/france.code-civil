@@ -1,7 +1,7 @@
 Article 511-2
 ----
 Le fait d'obtenir d'une personne l'un de ses organes contre un paiement, quelle
-qu'en soit la forme, est puni de sept ans d'emprisonnement et de 700 000 F
+qu'en soit la forme, est puni de sept ans d'emprisonnement et de 100 000 euros
 d'amende.
 
 Est puni des mêmes peines, le fait d'apporter son entremise pour favoriser

@@ -12,5 +12,5 @@ un arrêté conjoint des préfets des départements intéressés.
 
 Toutefois, en cas de désaccord du maire de l'une des communes sur le territoire
 desquelles l'enquête a été ouverte, et si l'objet de l'enquête fait partie d'un
-projet d'infrastructure du domaine public fluvial d'un coût supérieur à 12
-millions de francs, il est statué par décret en Conseil d'Etat.
+projet d'infrastructure du domaine public fluvial d'un coût supérieur à
+1829388,21 euros, il est statué par décret en Conseil d'Etat.

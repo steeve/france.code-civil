@@ -1,7 +1,7 @@
 Article L5423-5
 ----
-Est puni de 25 000 F d'amende le fait pour un pharmacien responsable ou pour un
-pharmacien délégué :
+Est puni de 3750 euros d'amende le fait pour un pharmacien responsable ou pour
+un pharmacien délégué :
 
 1° De ne pas exercer personnellement sa profession ;
 

@@ -1,7 +1,7 @@
 Article 413-7
 ----
-Est puni de six mois d'emprisonnement et de 50 000 F d'amende le fait, dans les
-services, établissements ou entreprises, publics ou privés, intéressant la
+Est puni de six mois d'emprisonnement et de 7 500 euros d'amende le fait, dans
+les services, établissements ou entreprises, publics ou privés, intéressant la
 défense nationale, de s'introduire, sans autorisation, à l'intérieur des locaux
 et terrains clos dans lesquels la libre circulation est interdite et qui sont
 délimités pour assurer la protection des installations, du matériel ou du secret

@@ -71,8 +71,8 @@ sociale et de la santé.
 
 VI. - Le fait d'obtenir ou de tenter d'obtenir la communication d'informations
 portées sur un volet de santé en violation des dispositions du présent article
-est puni d'un an d'emprisonnement et de 100 000 F d'amende.
+est puni d'un an d'emprisonnement et de 15000 euros d'amende.
 
 Le fait de modifier ou de tenter de modifier les informations portées sur un
 volet de santé en violation des dispositions du présent article est puni d'un an
-d'emprisonnement [*durée*] et de 100 000 F d'amende.
+d'emprisonnement et de 15000 euros d'amende.

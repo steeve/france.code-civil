@@ -6,7 +6,7 @@ lois et règlements relatifs à la propriété des auteurs, est une contrefaçon
 toute contrefaçon est un délit.
 
 La contrefaçon en France d'ouvrages publiés en France ou à l'étranger est punie
-de deux ans d'emprisonnement et de 1 000 000 F d'amende [*sanctions pénales*].
+de deux ans d'emprisonnement et de 150000 euros d'amende [*sanctions pénales*].
 
 Seront punis des mêmes peines le débit, l'exportation et l'importation des
 ouvrages contrefaits.

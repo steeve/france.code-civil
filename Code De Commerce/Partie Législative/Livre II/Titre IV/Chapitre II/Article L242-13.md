@@ -1,9 +1,10 @@
 Article L242-13
 ----
-Est puni d'une amende de 25000 F le fait, pour le président, les administrateurs
-ou les directeurs généraux d'une société anonyme, de ne pas adresser, à tout
-actionnaire qui en a fait la demande, une formule de procuration conforme aux
-prescriptions fixées par décret en Conseil d'Etat, ainsi que :
+Est puni d'une amende de 3750 euros le fait, pour le président, les
+administrateurs ou les directeurs généraux d'une société anonyme, de ne pas
+adresser, à tout actionnaire qui en a fait la demande, une formule de
+procuration conforme aux prescriptions fixées par décret en Conseil d'Etat,
+ainsi que :
 
 1° La liste des administrateurs en exercice ;
 

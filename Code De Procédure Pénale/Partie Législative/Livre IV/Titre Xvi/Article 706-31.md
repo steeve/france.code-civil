@@ -13,4 +13,4 @@ devenue définitive.
 Par dérogation aux dispositions de l'article 750, la durée de la contrainte
 judiciaire est fixée à deux années lorsque l'amende et les condamnations
 pécuniaires prononcées pour l'une des infractions mentionnées à l'alinéa
-précédent ou pour les infractions douanières connexes excèdent 500.000 F.
+précédent ou pour les infractions douanières connexes excèdent 75 000 euros.

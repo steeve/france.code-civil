@@ -11,7 +11,7 @@ ou faire obtenir le bénéfice de la protection complémentaire en matière de s
 est passible des peines prévues à l'article 441-1 du code pénal.
 
 III. - Toute infraction aux prescriptions des articles L. 861-3 et L. 861-8 est
-punie d'une amende de 100 000 F [*montant*].
+punie d'une amende de 15000 euros.
 
 IV. - Les organismes prévus à l'article L. 861-4 peuvent obtenir le
 remboursement des prestations qu'ils ont versées à tort. En cas de précarité de

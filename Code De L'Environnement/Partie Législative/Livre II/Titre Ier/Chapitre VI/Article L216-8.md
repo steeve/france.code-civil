@@ -1,6 +1,6 @@
 Article L216-8
 ----
-I. - Est puni de deux ans d'emprisonnement et de 120 000 F d'amende le fait,
+I. - Est puni de deux ans d'emprisonnement et de 18 000 euros d'amende le fait,
 sans l'autorisation requise pour un acte, une opération, une installation ou un
 ouvrage, de :
 
@@ -13,7 +13,7 @@ ouvrage, de :
 4° Mettre en place ou participer à la mise en place d'une telle installation ou
 d'un tel ouvrage.
 
-II. - En cas de récidive, l'amende est portée à 1 000 000 F.
+II. - En cas de récidive, l'amende est portée à 150 000 euros.
 
 III. - En cas de condamnation, le tribunal peut ordonner qu'il soit mis fin aux
 opérations, à l'utilisation de l'ouvrage ou de l'installation. L'exécution

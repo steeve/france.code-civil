@@ -7,7 +7,7 @@ en Corse.
 
 Les tarifs de cette taxe peuvent être modulés selon le mode de transport utilisé
 et la distance parcourue. Ils sont fixés par l'assemblée de Corse dans la limite
-de 30 F par passager.
+de 4,57 € par passager.
 
 La taxe est constatée et recouvrée comme en matière de taxe sur la valeur
 ajoutée avec les sûretés, garanties, privilèges et sanctions applicables à

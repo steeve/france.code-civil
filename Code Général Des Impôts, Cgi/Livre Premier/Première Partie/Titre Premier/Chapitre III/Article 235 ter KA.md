@@ -9,7 +9,7 @@ des chapitres Ier et II du titre IV du livre II du code de la sécurité sociale
 ou du titre IV du livre VII du code rural pour les employeurs de salariés visés
 à l'article L. 722-20 dudit code, des rémunérations versées pendant l'année en
 cours. A défaut de dispositions contraires prévues par une convention ou un
-accord collectif étendu, les contributions inférieures à 100 F ne sont pas
+accord collectif étendu, les contributions inférieures à 15 euros ne sont pas
 exigibles.
 
 A compter du 1er janvier 1992, la contribution dont les modalités de calcul ont

@@ -3,7 +3,7 @@ Article L317-2
 I. - Le fait de faire usage d'une plaque ou d'une inscription, exigée par les
 règlements en vigueur et apposée sur un véhicule à moteur ou une remorque,
 portant un numéro, un nom ou un domicile faux ou supposé est puni de cinq ans
-d'emprisonnement et de 25 000 F d'amende.
+d'emprisonnement et de 3 750 euros d'amende.
 
 II. - Toute personne coupable de cette infraction encourt également les peines
 complémentaires suivantes :

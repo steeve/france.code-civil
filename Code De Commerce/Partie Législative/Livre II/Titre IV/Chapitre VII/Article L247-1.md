@@ -1,6 +1,6 @@
 Article L247-1
 ----
-I. - Est puni d'un emprisonnement de deux ans et d'une amende de 60000 F le
+I. - Est puni d'un emprisonnement de deux ans et d'une amende de 9000 euros le
 fait, pour les présidents, les administrateurs, les directeurs généraux ou les
 gérants de toute société :
 
@@ -19,12 +19,12 @@ contrôle par branche d'activité ;
 233-15 et comportant les renseignements en vue de faire apparaître la situation
 desdites filiales et participations.
 
-II. - Est puni d'une amende de 60000 F le fait, pour les membres du directoire,
-du conseil d'administration ou les gérants des sociétés visées à l'article L.
-233-16, sous réserve des dérogations prévues à l'article L. 233-17, de ne pas
-établir et adresser aux actionnaires ou associés, dans les délais prévus par la
-loi, les comptes consolidés. Le tribunal peut en outre ordonner l'insertion du
-jugement, aux frais du condamné, dans un ou plusieurs journaux.
+II. - Est puni d'une amende de 9000 euros le fait, pour les membres du
+directoire, du conseil d'administration ou les gérants des sociétés visées à
+l'article L. 233-16, sous réserve des dérogations prévues à l'article L. 233-17,
+de ne pas établir et adresser aux actionnaires ou associés, dans les délais
+prévus par la loi, les comptes consolidés. Le tribunal peut en outre ordonner
+l'insertion du jugement, aux frais du condamné, dans un ou plusieurs journaux.
 
 III. - Est puni des peines mentionnées au I le fait, pour le commissaire aux
 comptes, de ne pas faire figurer dans son rapport les mentions visées au 1° du I

@@ -14,7 +14,7 @@ Il est recouvré par année civile.
 En cas de retard dans le versement du droit de francisation et de navigation par
 rapport aux dates limites fixées par décret, une majoration de 10 % du montant
 de ce droit est automatiquement appliquée. Cette majoration n'est mise en
-recouvrement que lorsque son montant excède 50 F.
+recouvrement que lorsque son montant excède 8 euros.
 
 2. Lorsque les navires de commerce ou de pêche sont désarmés pendant une période
 qui recouvre en totalité une année civile, le droit annuel de francisation et de
@@ -35,4 +35,4 @@ d'un abattement pour vétusté égal à :
 - 75 % pour le bateaux de plus de 25 ans.
 
 5. Le droit de francisation et de navigation n'est pas perçu lorsque son
-montant, calculé par navire, est inférieur à 500 F.
+montant, calculé par navire, est inférieur à 76 euros.

@@ -16,7 +16,7 @@ Les biens donnés à bail à long terme dans les conditions prévues aux article
 416-1 à L. 416-6, L. 416-8 et L. 416-9 du code rural, qui n'entrent pas dans le
 champ d'application de l'article 885 P, sont exonérés d'impôt de solidarité sur
 la fortune à concurrence des trois quarts lorsque la valeur totale des biens
-loués quel que soit le nombre de baux n'excède pas 500 000 F et pour moitié
+loués quel que soit le nombre de baux n'excède pas 76 000 euros et pour moitié
 au-delà de cette limite, sous réserve que la durée du bail soit au minimum de
 dix-huit ans et que les descendants du preneur ne soient pas contractuellement
 privés de la faculté de bénéficier des dispositions de l'article L. 411-35 du
@@ -31,5 +31,5 @@ l'article 885 Q sont, sous réserve que ces parts soient représentatives
 d'apports constitués par des immeubles ou des droits immobiliers à destination
 agricole et que les baux à long terme consentis par le groupement répondent aux
 conditions prévues au troisième alinéa, exonérées à concurrence des trois
-quarts, si la valeur totale des parts détenues n'excède pas 500 000 F et pour
+quarts, si la valeur totale des parts détenues n'excède pas 76 000 euros et pour
 moitié au-delà de cette limite.

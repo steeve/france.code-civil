@@ -1,6 +1,6 @@
 Article L245-3
 ----
-Sont punis d'un emprisonnement de six mois et d'une amende de 40000 F le
+Sont punis d'un emprisonnement de six mois et d'une amende de 6000 euros le
 président et les administrateurs, les directeurs généraux, les membres du
 directoire et du conseil de surveillance d'une société anonyme, les gérants
 d'une société en commandite par actions :

@@ -9,10 +9,10 @@ d'origine. Il est perçu sur les quantités, exprimées en unités de masse ou d
 volume, des produits destinés à la commercialisation en appellation d'origine
 contrôlée, dans la limite de :
 
-0,50 F par hectolitre ou 5 F par hectolitre d'alcool pur pour les boissons
-alcoolisées autres que les vins ;
+0,08 euro par hectolitre ou 0,8 euro par hectolitre d'alcool pur pour les
+boissons alcoolisées autres que les vins ;
 
-0,05 F par kilogramme pour les produits agroalimentaires ou forestiers autres
-que les vins et les boissons alcoolisées.
+0,008 euro par kilogramme pour les produits agroalimentaires ou forestiers
+autres que les vins et les boissons alcoolisées.
 
 Il est exigible annuellement.

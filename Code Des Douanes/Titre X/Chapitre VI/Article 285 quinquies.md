@@ -32,8 +32,9 @@ Ces taux de redevance sont fixés par arrêté conjoint du ministre chargé des
 douanes et du ministre chargé de l'agriculture.
 
 4. Pour les animaux et produits non concernés par les niveaux forfaitaires
-mentionnés au 3, le montant de la redevance est fixé à 40 F par tonne de
-marchandises, avec un minimum de 200 F et un maximum de 3 000 F par lot.
+mentionnés au 3, le montant de la redevance est fixé à 6,10 euros par tonne de
+marchandises, avec un minimum de 30,49 euros et un maximum de 457,35 euros par
+lot.
 
 5. Pour l'application des dispositions mentionnées aux 3 et 4, un lot est une
 quantité d'animaux de même espèce ou de produits de même nature, couverte par un

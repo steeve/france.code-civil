@@ -1,7 +1,7 @@
 Article L324-3
 ----
 Le capital social de l'exploitation agricole à responsabilité limitée doit être
-de 50 000 F au moins.
+de 7500 euros au moins.
 
 Sa réduction à un montant inférieur doit être suivie, dans un délai d'un an,
 d'une augmentation ayant pour effet de le porter au montant prévu à l'alinéa

@@ -1,13 +1,13 @@
 Article 230
 ----
-Sous réserve des dispositions du 2 ci-dessous, les articles incorporés à des
+1. Sous réserve des dispositions du 2 ci-dessous, les articles incorporés à des
 navires français hors du territoire douanier sont traités comme s'ils étaient
 importés directement dans la partie du territoire douanier où se trouve le port
 d'attache, pour y recevoir la même affectation.
 
 Toutefois, il y a exonération, sous réserve des dispositions relatives à la taxe
 sur la valeur ajoutée, de tous droits et taxes lorsque le montant des
-réparations n'excède pas 40 F par tonneau de jauge brute ou, quel que soit le
+réparations n'excède pas 6 euros par tonneau de jauge brute ou, quel que soit le
 montant de celles-ci, lorsque le navire s'est trouvé contraint à se faire
 réparer hors du territoire douanier. Dans ce dernier cas, il doit être justifié
 de la nécessité invoquée au moyen d'une attestation du consul français du port

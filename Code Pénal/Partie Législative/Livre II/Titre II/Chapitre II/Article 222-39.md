@@ -1,8 +1,8 @@
 Article 222-39
 ----
 La cession ou l'offre illicites de stupéfiants à une personne en vue de sa
-consommation personnelle sont punies de cinq ans d'emprisonnement et de 500 000
-F d'amende [* taux *].
+consommation personnelle sont punies de cinq ans d'emprisonnement et de 75000
+euros d'amende.
 
 La peine d'emprisonnement est portée à dix ans lorsque les stupéfiants sont
 offerts ou cédés, dans les conditions définies à l'alinéa précédent, à des

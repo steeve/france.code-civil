@@ -7,7 +7,7 @@ après mise en demeure, de ne pas répondre aux demandes d'information de la
 commission de contrôle des assurances, ou de mettre obstacle de quelque manière
 que ce soit à l'exercice par celle-ci de sa mission de contrôle, ou de lui
 communiquer sciemment des renseignements inexacts, est puni d'un emprisonnement
-de deux ans et d'une amende de 2 000 000 F *sanctions pénales*. Les entraves à
+de deux ans et d'une amende de 300000 euros *sanctions pénales*. Les entraves à
 l'action de la commission de contrôle exercée en application de l'article L.
 323-1-1 sont punies des mêmes peines. Les mêmes dispositions s'appliquent aux
 dirigeants des personnes morales et aux personnes physiques que la Commission de

@@ -1,8 +1,8 @@
 Article L224-5
 ----
 I. - Le fait, pour tout conducteur d'un véhicule, de faire obstacle à
-l'immobilisation de celui-ci est puni de trois mois d'emprisonnement et de 25
-000 F d'amende.
+l'immobilisation de celui-ci est puni de trois mois d'emprisonnement et de 3 750
+euros d'amende.
 
 II. - Toute personne coupable de ce délit encourt également les peines
 complémentaires suivantes :

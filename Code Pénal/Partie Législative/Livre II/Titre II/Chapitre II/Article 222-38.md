@@ -1,6 +1,6 @@
 Article 222-38
 ----
-Est puni de dix ans d'emprisonnement et de 5 000 000 F d'amende le fait de
+Est puni de dix ans d'emprisonnement et de 750 000 euros d'amende le fait de
 faciliter, par tout moyen, la justification mensongère de l'origine des biens ou
 des revenus de l'auteur de l'une des infractions mentionnées aux articles 222-34
 à 222-37 ou d'apporter son concours à une opération de placement, de

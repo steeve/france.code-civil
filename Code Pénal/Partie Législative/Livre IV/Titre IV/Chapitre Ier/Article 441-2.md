@@ -2,11 +2,11 @@ Article 441-2
 ----
 Le faux commis dans un document délivré par une administration publique aux fins
 de constater un droit, une identité ou une qualité ou d'accorder une
-autorisation est puni de cinq ans d'emprisonnement et de 500 000 F d'amende.
+autorisation est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende.
 
 L'usage du faux mentionné à l'alinéa précédent est puni des mêmes peines.
 
-Les peines sont portées à sept ans d'emprisonnement et à 700 000 F d'amende
+Les peines sont portées à sept ans d'emprisonnement et à 100 000 euros d'amende
 lorsque le faux ou l'usage de faux est commis :
 
 1° Soit par une personne dépositaire de l'autorité publique ou chargée d'une

@@ -1,6 +1,6 @@
 Article L3352-9
 ----
-Est puni de 25 000 F d'amende le fait pour une personne frappée d'une ou
+Est puni de 3750 euros d'amende le fait pour une personne frappée d'une ou
 plusieurs incapacités prévues à l'article L. 3336-2 :
 
 1° D'exploiter un débit de boissons ;

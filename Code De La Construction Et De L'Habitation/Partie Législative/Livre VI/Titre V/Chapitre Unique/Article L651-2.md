@@ -2,7 +2,7 @@ Article L651-2
 ----
 Toute personne qui enfreint les dispositions de l'article L. 631-7 ou qui ne se
 conforme pas aux conditions ou obligations imposées en application dudit article
-est condamnée à une amende civile de 1 000 F à 150 000 F.
+est condamnée à une amende civile de 22 500 euros.
 
 Cette amende est prononcée à la requête du ministère public par le président du
 tribunal de grande instance du lieu de l'immeuble, statuant en référé ; le

@@ -1,7 +1,7 @@
 Article L231-15
 ----
-Est puni d'une amende de vingt-cinq mille francs le fait, pour les dirigeants de
-la société de gestion d'une société civile de placement immobilier, de :
+Est puni d'une amende de 3 750 euros le fait, pour les dirigeants de la société
+de gestion d'une société civile de placement immobilier, de :
 
 1. Ne pas faire tenir, pour toute réunion de l'assemblée des associés, une
 feuille de présence émargée par les associés présents et les mandataires,

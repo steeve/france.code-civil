@@ -7,7 +7,7 @@ l'intermédiaire d'un organisme soumis aux dispositions du titre Ier du livre V
 ou de l'article L. 518-1.
 
 Une déclaration est établie pour chaque transfert à l'exclusion des transferts
-dont le montant est inférieur à neuf cent mille francs CFP.
+dont le montant est inférieur à 7 542 euros.
 
 Les modalités d'application du présent article sont fixées par décret en Conseil
 d'Etat.

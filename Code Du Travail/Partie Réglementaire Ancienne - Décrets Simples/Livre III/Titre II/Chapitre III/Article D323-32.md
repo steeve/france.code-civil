@@ -13,7 +13,7 @@ public de l'emploi et celui où lui est envoyé par le service, un bénéficiair
 accepté par lui ou dont le refus a été reconnu justifié.
 
 La différence ainsi obtenue donne le nombre de journées de travail pour
-lesquelles est due par l'employeur la redevance journalière de 0,10 F.
+lesquelles est due par l'employeur la redevance journalière de 0,02 euros.
 
 Dans le calcul des journées de travail faites par les bénéficiaires on compte
 comme journées de travail effectivement faites les journées pendant lesquelles

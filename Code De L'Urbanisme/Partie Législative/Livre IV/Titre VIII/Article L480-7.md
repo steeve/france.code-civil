@@ -3,7 +3,7 @@ Article L480-7
 Le tribunal impartit au bénéficiaire des travaux irréguliers ou de l'utilisation
 irrégulière du sol un délai pour l'exécution de l'ordre de démolition, de mise
 en conformité ou de réaffectation ; il peut assortir sa décision d'une astreinte
-de 50 F à 500 F [*montant*] par jour de retard.
+de 7,5 euros à 75 euros par jour de retard.
 
 Au cas où le délai n'est pas observé, l'astreinte prononcée, qui ne peut être
 révisée que dans le cas prévu au troisième alinéa du présent article, court à

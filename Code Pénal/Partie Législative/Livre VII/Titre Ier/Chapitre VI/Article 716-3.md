@@ -6,4 +6,4 @@ L'article 511-7 est ainsi rédigé :
 transplantations d'organes, à des prélèvements ou des greffes de tissus, à la
 conservation ou à la transformation de tissus ou à la greffe de cellules hors
 d'un établissement autorisé à cet effet est puni de deux ans d'emprisonnement et
-de 200 000 F d'amende. "
+de 30 000 euros d'amende. "

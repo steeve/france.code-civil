@@ -8,18 +8,17 @@ code général des impôts, sont dispensés de fournir un cautionnement lorsque 
 montant prévu des travaux et fournitures faisant l'objet du marché ne dépasse
 pas :
 
-1.500.000 francs (15.000 F) dans les villes de 10.000 habitants et au-dessous ;
+2 250 € dans les villes de 10.000 habitants et au-dessous ;
 
-2.500.000 francs (25.000 F) dans les villes de 10.001 à 100.000 habitants ;
+3 750 € dans les villes de 10.001 à 100.000 habitants ;
 
-3.500.000 francs (35.000 F) dans les villes de 100.001 à 200.000 habitants ;
+5 300 € dans les villes de 100.001 à 200.000 habitants ;
 
-4.000.000 de francs (40.000 F) dans les villes de 200.001 à 300.000 habitants ;
+6 000€ dans les villes de 200.001 à 300.000 habitants ;
 
-5.000.000 de francs (50.000 F) dans les villes de 300.001 habitants et au-dessus
-;
+7 500 € dans les villes de 300.001 habitants et au-dessus ;
 
-Le maximum est porté à 7.500.000 francs (75.000 F) pour la ville de Paris.
+Le maximum est porté à 11 400 € pour la ville de Paris.
 
 Les maxima prévus au présent article peuvent être modifiés par décret en Conseil
 d'Etat pris sous le contreseing du ministre de l'économie et des finances, du

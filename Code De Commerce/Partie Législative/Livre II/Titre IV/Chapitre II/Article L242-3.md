@@ -1,6 +1,6 @@
 Article L242-3
 ----
-Est puni d'un emprisonnement d'un an et d'une amende de 60 000 F le fait, pour
+Est puni d'un emprisonnement d'un an et d'une amende de 9000 euros le fait, pour
 les fondateurs, le président du conseil d'administration, les administrateurs ou
 les directeurs généraux d'une société anonyme, ainsi que pour les titulaires ou
 porteurs d'actions, de négocier :

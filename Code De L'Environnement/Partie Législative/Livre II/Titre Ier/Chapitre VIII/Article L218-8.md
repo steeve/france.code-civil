@@ -1,6 +1,6 @@
 Article L218-8
 ----
-Est puni de 500 000 F d'amende :
+Est puni de 75 000 euros d'amende :
 
 1° Le fait pour le propriétaire d'un navire de le laisser commercer sans
 respecter les obligations prévues par l'article L. 218-2 ;

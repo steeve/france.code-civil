@@ -25,5 +25,5 @@ rétractation.
 Lorsque l'acte est dressé en la forme authentique, aucune somme ne peut être
 versée pendant le délai de réflexion de sept jours.
 
-Est puni de 200 000 F d'amende le fait d'exiger ou de recevoir un versement ou
-un engagement de versement en méconnaissance des alinéas ci-dessus.
+Est puni de 30 000 euros d'amende le fait d'exiger ou de recevoir un versement
+ou un engagement de versement en méconnaissance des alinéas ci-dessus.

@@ -1,7 +1,7 @@
 Article L462-1
 ----
-Est puni d'un emprisonnement de 2 ans et d'une amende de quarante mille francs,
-le fait, pour toute personne, de porter à la connaissance du public, par voie de
+Est puni d'un emprisonnement de deux ans et d'une amende de 6 000 euros, le
+fait, pour toute personne, de porter à la connaissance du public, par voie de
 publication, communication de circulaires ou autrement, tout cours qui ne serait
 pas extrait de la cote ou d'un relevé de cours établi dans les conditions fixées
 par décret.

@@ -21,7 +21,7 @@ et ses modalités. Cet accord interprofessionnel peut être étendu conformémen
 aux dispositions des articles L. 632-3 et L. 632-4 du même code.
 
 Toute infraction aux dispositions des alinéas ci-dessus est punie d'une amende
-de 100000 F.
+de 15000 euros.
 
 La cessation de la publicité réalisée dans des conditions non conformes aux
 dispositions du présent article peut être ordonnée dans les conditions prévues à

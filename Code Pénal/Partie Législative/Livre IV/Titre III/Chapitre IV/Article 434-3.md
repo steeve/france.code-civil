@@ -5,7 +5,7 @@ traitements ou d'atteintes sexuelles infligés à un mineur de quinze ans ou à 
 personne qui n'est pas en mesure de se protéger en raison de son âge, d'une
 maladie, d'une infirmité, d'une déficience physique ou psychique ou d'un état de
 grossesse, de ne pas en informer les autorités judiciaires ou administratives
-est puni de trois ans d'emprisonnement et de 300 000 F d'amende.
+est puni de trois ans d'emprisonnement et de 45 000 euros d'amende.
 
 Sauf lorsque la loi en dispose autrement, sont exceptées des dispositions qui
 précèdent les personnes astreintes au secret dans les conditions prévues par

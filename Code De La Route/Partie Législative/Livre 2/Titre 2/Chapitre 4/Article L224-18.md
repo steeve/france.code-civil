@@ -2,7 +2,7 @@ Article L224-18
 ----
 I. - Le fait pour toute personne, par une fausse déclaration, d'obtenir ou de
 tenter d'obtenir le permis de conduire est puni de deux ans d'emprisonnement et
-de 30 000 F d'amende.
+de 4 500 euros d'amende.
 
 II. - Toute personne coupable de ce délit encourt également les peines
 complémentaires suivantes :

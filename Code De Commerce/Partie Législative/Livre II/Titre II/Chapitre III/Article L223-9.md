@@ -8,7 +8,7 @@ diligent.
 
 Toutefois, les futurs associés peuvent décider à l'unanimité que le recours à un
 commissaire aux apports ne sera pas obligatoire, lorsque la valeur d'aucun
-apport en nature n'excède 50 000 F et si la valeur totale de l'ensemble des
+apport en nature n'excède 7 500 euros et si la valeur totale de l'ensemble des
 apports en nature non soumis à l'évaluation d'un commissaire aux apports
 n'excède pas la moitié du capital.
 

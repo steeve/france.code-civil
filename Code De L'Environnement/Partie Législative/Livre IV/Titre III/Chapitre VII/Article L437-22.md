@@ -12,4 +12,4 @@ professionnels pour une durée qui ne peut excéder deux ans ; en cas de récidi
 cette exclusion ne peut excéder cinq ans.
 
 Celui qui, durant le temps où il a été exclu, se livre à l'exercice de la pêche,
-est puni de 25 000 F d'amende. Les lignes, filets et engins sont confisqués.
+est puni de 3 750 euros d'amende. Les lignes, filets et engins sont confisqués.

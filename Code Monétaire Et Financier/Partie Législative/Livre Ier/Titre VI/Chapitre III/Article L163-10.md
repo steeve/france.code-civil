@@ -1,6 +1,6 @@
 Article L163-10
 ----
-Est puni d'une amende de quatre vingt mille francs le fait, pour le tiré :
+Est puni d'une amende de 12 000 euros le fait, pour le tiré :
 
 1. D'indiquer une provision inférieure à la provision existante et disponible ;
 

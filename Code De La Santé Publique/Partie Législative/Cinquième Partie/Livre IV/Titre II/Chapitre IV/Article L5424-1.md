@@ -1,6 +1,6 @@
 Article L5424-1
 ----
-Est puni de 25 000 F d'amende le fait :
+Est puni de 3750 euros d'amende le fait :
 
 1° D'ouvrir, d'exploiter ou de transférer une officine sans être titulaire de la
 licence mentionnée à l'article L. 5125-4 ou alors que celle-ci a été suspendue

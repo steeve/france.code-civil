@@ -5,4 +5,4 @@ Les vidanges de plans d'eau mentionnés ou non à l'article L. 431-3 sont soumis
 le programme de l'opération et la destination du poisson.
 
 Le fait d'effectuer une vidange sans l'autorisation prévue à l'alinéa précédent
-est puni de 80 000 F d'amende.
+est puni de 12 000 euros d'amende.

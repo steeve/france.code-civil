@@ -8,7 +8,7 @@ Chaque contribuable ou chacun des époux soumis à imposition commune ne peut ê
 titulaire que d'un plan. Un plan ne peut avoir qu'un titulaire.
 
 Le titulaire d'un plan effectue des versements en numéraire dans une limite de
-600 000 F.
+120 000 euros (1).
 
 II. 1. Les parts des fonds mentionnés au 3 du III de l'article 150-0 A ne
 peuvent figurer dans le plan d'épargne en actions.
@@ -19,10 +19,10 @@ bis.
 
 2. Les titres ou parts dont la souscription a permis au titulaire du plan de
 bénéficier des avantages fiscaux résultant des dispositions des 2° quater et 2°
-quinquies de l'article 83, des articles 83 ter, 150 U, 150 V, 163 quinquies B,
-163 septdecies, 199 undecies, 199 undecies A et 199 terdecies A, du I bis de
-l'article 163 bis C, du deuxième alinéa du II de l'article 726 ainsi que du III
-ter de l'article 810 ne peuvent figurer dans le plan.
+quinquies de l'article 83, des articles 83 ter, 150 U, 150 V, 163 septdecies,
+199 undecies, 199 undecies A et 199 terdecies A, du I bis de l'article 163 bis
+C, du deuxième alinéa du II de l'article 726 ainsi que du III ter de l'article
+810 ne peuvent figurer dans le plan.
 
 3. Le titulaire du plan, son conjoint et leurs ascendants et descendants ne
 doivent pas, pendant la durée du plan, détenir ensemble, directement ou

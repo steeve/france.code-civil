@@ -1,6 +1,6 @@
 Article L6214-6
 ----
-Est puni de six mois d'emprisonnement et de 40 000 F d'amende le fait,
+Est puni de six mois d'emprisonnement et de 6000 euros d'amende le fait,
 lorsqu'une société anonyme ou une société à responsabilité limitée exploite un
 laboratoire d'analyses de biologie médicale :
 

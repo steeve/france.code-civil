@@ -9,7 +9,7 @@ demander la reconnaissance de cette nullité au juge du contrat.
 
 En cas de violation des règles résultant des accords étendus, il est alloué par
 le juge d'instance, à la demande de l'organisation interprofessionnelle et à son
-profit, une indemnité dont les limites sont comprises entre 500 F et la
+profit, une indemnité dont les limites sont comprises entre 76,22 euros et la
 réparation intégrale du préjudice subi.
 
 Dans tous les cas, la mise en oeuvre des sanctions prévues à l'alinéa précédent

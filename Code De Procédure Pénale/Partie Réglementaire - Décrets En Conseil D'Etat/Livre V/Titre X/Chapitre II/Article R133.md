@@ -11,7 +11,7 @@ l'indemnité est égale au prix d'un voyage, d'après le tarif de ce service, ta
 à l'aller qu'au retour ;
 
 3° Si le voyage n'est pas fait par l'un des moyens visés ci-dessus, l'indemnité
-est fixé à 0,38 F par kilomètre parcouru, tant à l'aller qu'au retour ;
+est fixé à 0,06 euro par kilomètre parcouru, tant à l'aller qu'au retour ;
 
 4° Si le voyage est fait par mer, il est accordé, sur le vu du duplicata du
 billet de voyage délivré par la compagnie de navigation, le remboursement du

@@ -19,4 +19,4 @@ un procès-verbal transmis au magistrat.
 
 Toute personne qui aura refusé de se soumettre aux examens médicaux prescrits
 par le magistrat sera punie d'une peine d'emprisonnement d'un an et d'une amende
-de 25 000 F.
+de 3750 euros.

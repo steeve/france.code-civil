@@ -1,6 +1,6 @@
 Article L571-23
 ----
-Est puni de deux ans d'emprisonnement et de 200 000 F d'amende le fait de :
+Est puni de deux ans d'emprisonnement et de 30 000 euros d'amende le fait de :
 
 1° Fabriquer, importer ou mettre sur le marché des objets ou des dispositifs non
 pourvus de l'homologation ou de la certification exigées en application de

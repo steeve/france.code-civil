@@ -9,4 +9,4 @@ encourent la peine complémentaire de la fermeture temporaire ou définitive de
 l'établissement.
 
 La récidive des infractions prévues au présent chapitre est punie de trois mois
-d'emprisonnement et de 50 000 F d'amende.
+d'emprisonnement et de 7500 euros d'amende.

@@ -1,9 +1,9 @@
 Article L112-6
 ----
-I. - Les règlements qui excèdent la somme de cinq mille francs ou qui ont pour
-objet le paiement par fraction d'une dette supérieure à ce montant, portant sur
-les loyers, les transports, les services, fournitures et travaux ou afférents à
-des acquisitions d'immeubles ou d'objets mobiliers ainsi que le paiement des
+I. - Les règlements qui excèdent la somme de 750 euros ou qui ont pour objet le
+paiement par fraction d'une dette supérieure à ce montant, portant sur les
+loyers, les transports, les services, fournitures et travaux ou afférents à des
+acquisitions d'immeubles ou d'objets mobiliers ainsi que le paiement des
 produits de titres nominatifs et des primes ou cotisations d'assurance doivent
 être effectués par chèque barré, virement ou carte de paiement ; il en est de
 même pour les transactions sur des animaux vivants ou sur les produits de
@@ -31,5 +31,4 @@ d) Au règlement des dépenses de l'Etat et des collectivités et établissement
 publics.
 
 Par dérogation aux dispositions du I ci-dessus, les dépenses des services
-concédés qui excèdent la somme de trois mille francs doivent être payées par
-virement.
+concédés qui excèdent la somme de 450 euros doivent être payées par virement.

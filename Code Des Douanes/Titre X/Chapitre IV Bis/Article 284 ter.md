@@ -4,7 +4,7 @@ I. - 1. Les tarifs de la taxe prévue à l'article 284 bis sont fixés comme sui
 par trimestre ou par fraction de trimestre civil :
 
 catégorie de véhicules, poids total autorisé en charge ou poids total roulant
-autorisé (en tonnes), tarifs par trimestres en francs (tarif pour suspension
+autorisé (en tonnes), tarifs par trimestres en euros (tarif pour suspension
 pneumatique de l'(des) essieu(x) moteur(s) et tarif pour d'autres systèmes de
 suspension de l'(des) essieu(x) moteur(s)) :
 
@@ -12,51 +12,51 @@ Véhicules automobiles porteurs :
 
 a) à deux essieux :
 
-poids de 12 à 18, tarifs : 450 et 650.
+poids de 12 à 18, tarifs : 68,60 et 99,09.
 
-poids égal ou supérieur à 18, tarifs : 600 et 900.
+poids égal ou supérieur à 18, tarifs : 91,47 et 137,20.
 
 b) à trois essieux :
 
-poids égal ou supérieur à 12, tarifs : 450 et 650.
+poids égal ou supérieur à 12, tarifs : 68,60 et 99,09.
 
 c) à quatre essieux :
 
-poids de 12 à 27, tarifs : 450 et 650.
+poids de 12 à 27, tarifs : 68,60 et 99,09.
 
-poids égal ou supérieur à 27, tarifs : 600 et 890.
+poids égal ou supérieur à 27, tarifs : 91,47 et 135,68.
 
 Véhicules articulés composés d'un tracteur et d'une semi-remorque :
 
 a) semi-remorque à un essieu :
 
-poids de 12 à 20, tarifs : 620 et 860.
+poids de 12 à 20, tarifs : 94,52 et 131,11.
 
-poids de 20 à 27, tarifs : 950 et 1160.
+poids de 20 à 27, tarifs : 144,83 et 176,84.
 
-poids égal ou supérieur à 27, tarifs : 1450 et 1650.
+poids égal ou supérieur à 27, tarifs : 221,05 et 251,54.
 
 b) semi-remorque à deux essieux :
 
-poids de 12 à 27, tarifs : 620 et 860.
+poids de 12 à 27, tarifs : 94,52 et 131,11.
 
-poids de 27 à 33, tarifs : 770 et 1070.
+poids de 27 à 33, tarifs : 117,39 et 163,12.
 
-poids de 33 à 39, tarifs : 950 et 1270.
+poids de 33 à 39, tarifs : 144,83 et 193,61.
 
-poids égal ou supérieur à 39, tarifs : 1040 et 1540.
+poids égal ou supérieur à 39, tarifs : 158,55 et 234,77.
 
 c) semi-remorque à trois essieux :
 
-poids de 12 à 27, tarifs : 620 et 860.
+poids de 12 à 27, tarifs : 94,52 et 131,11.
 
-poids de 27 à 38, tarifs : 770 et 1070.
+poids de 27 à 38, tarifs : 117,39 et 163,12.
 
-poids égal ou supérieur à 38, tarifs : 860 et 1160.
+poids égal ou supérieur à 38, tarifs : 131,11 et 176,84.
 
 Remorques :
 
-poids égal ou supérieur à 16, tarifs : 450.
+poids égal ou supérieur à 16, tarifs : 68,60.
 
 Les tarifs prévus pour les véhicules équipés de suspension pneumatique de
 l'essieu moteur sont applicables aux véhicules dont l'essieu moteur dispose

@@ -3,9 +3,7 @@ Article R*333-1
 Le montant du versement lié au dépassement plafond légal de densité est calculé
 selon la formule suivante :
 
-Pa = v ((Sa + Sb - Sc - (KSd)/K)
-
-dans laquelle :
+Pa = v ((Sa + Sb-Sc-(KSd)/ K) dans laquelle :
 
 Pa représente le montant du versement ;
 
@@ -14,7 +12,7 @@ surface de plancher de la construction projetée, calculée comme il est dit à
 l'article R. 112-2, à l'exclusion de la surface correspondant aux immeubles
 exonérés en application des troisième et quatrième alinéas de l'article L. 112-2
 et à l'exclusion de la surface correspondant à la partie des constructions
-exonérée en application de l'article L. 127-1 ;
+exonérée en application des articles L. 127-1 et L. 128-1 ;
 
 Sb la surface de plancher, calculée comme il est dit à l'article R. 112-2, des
 constructions implantées sur le même terrain qui ne sont pas destinées à être
@@ -33,4 +31,4 @@ K le plafond légal de densité en vigueur sur le territoire de la commune à la
 date de délivrance du permis de construire.
 
 Pour le calcul du versement lié au dépassement du plafond légal de densité, il
-est fait abstraction des sommes inférieures à 10 F.
+est fait abstraction des sommes inférieures à 1,52 euro.

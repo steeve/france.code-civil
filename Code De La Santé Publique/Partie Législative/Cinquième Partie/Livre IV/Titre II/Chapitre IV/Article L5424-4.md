@@ -1,6 +1,6 @@
 Article L5424-4
 ----
-Est puni de 25 000 F d'amende le fait pour un pharmacien :
+Est puni de 3750 euros d'amende le fait pour un pharmacien :
 
 1° De ne pas être propriétaire de l'officine dont il est titulaire ;
 

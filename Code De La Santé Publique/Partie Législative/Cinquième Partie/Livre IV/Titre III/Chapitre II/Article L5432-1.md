@@ -1,7 +1,7 @@
 Article L5432-1
 ----
-Est puni de deux ans d'emprisonnement et de 25 000 F d'amende, le fait de ne pas
-respecter les dispositions réglementaires prévues à l'article L. 5132-8 :
+Est puni de deux ans d'emprisonnement et de 3750 euros d'amende, le fait de ne
+pas respecter les dispositions réglementaires prévues à l'article L. 5132-8 :
 
 1° Fixant les conditions de production, de transport, d'importation,
 d'exportation, de détention, d'offre, de cession, d'acquisition et d'emploi de

@@ -1,6 +1,6 @@
 Article 312-4
 ----
-L'extorsion est punie de vingt ans de réclusion criminelle et de 1 000 000 F
+L'extorsion est punie de vingt ans de réclusion criminelle et de 150 000 euros
 d'amende lorsqu'elle est précédée, accompagnée ou suivie de violences sur autrui
 ayant entraîné une mutilation ou une infirmité permanente.
 

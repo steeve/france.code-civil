@@ -1,6 +1,6 @@
 Article 412-4
 ----
-Est puni de quinze ans de détention criminelle et de 1 500 000 F d'amende le
+Est puni de quinze ans de détention criminelle et de 225 000 euros d'amende le
 fait de participer à un mouvement insurrectionnel :
 
 1° En édifiant des barricades, des retranchements ou en faisant tous travaux

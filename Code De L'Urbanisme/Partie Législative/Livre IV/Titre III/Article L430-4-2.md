@@ -4,9 +4,9 @@ Les infractions aux dispositions de l'article précédent sont constatées selon
 les modalités de l'article L. 480-1 du présent code.
 
 Les méconnaissances des obligations imposées par l'article L. 430-4-1 sont
-sanctionnées d'une amende de 25000 F. La réinstallation de la plaque
+sanctionnées d'une amende de 3 750 euros. La réinstallation de la plaque
 commémorative est prononcée par le tribunal et assortie d'une astreinte dont le
-montant ne peut être inférieur à 500 F.
+montant ne peut être inférieur à 75 euros.
 
 En outre, en cas de perte ou de destruction de la plaque commémorative au cours
 des travaux, le tribunal ordonne, à la charge du maître d'ouvrage, la gravure et

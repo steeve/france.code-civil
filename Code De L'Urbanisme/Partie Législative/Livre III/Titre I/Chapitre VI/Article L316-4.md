@@ -5,19 +5,19 @@ aux articles 433-7 et 433-8 du code pénal, quiconque met obstacle à l'exercice
 du droit appartenant, pour l'application de la réglementation en matière de
 lotissements, au préfet, au maire, au directeur départemental de l'équipement ou
 à leurs délégués, de procéder à tout moment à la visite des lieux et aux
-vérifications qu'ils jugent utiles, sera puni d'une amende de 25000 F. En outre,
-un emprisonnement de un mois pourra être prononcé.
+vérifications qu'ils jugent utiles, sera puni d'une amende de 3 750 euros. En
+outre, un emprisonnement de un mois pourra être prononcé.
 
-Si les vérifications faites révèlent qu les travaux exécutés ne sont pas
+Si les vérifications faites révèlent que les travaux exécutés ne sont pas
 conformes aux prescriptions de l'arrêté d'autorisation, il est dressé
 procès-verbal de l'infraction.
 
 Lorsque les prescriptions imposées par l'arrêté d'autorisation n'auront pas été
 respectées, le tribunal pourra prononcer les peines prévues à l'article L. 316-2
 et en outre impartir un délai au lotisseur pour mettre les travaux en conformité
-avec lesdites prescriptions, sous peine d'une astreinte de 50 à 500 F par jour
-de retard; l'astreinte prononcée court à partir de l'expiration dudit délai
-[*point de départ*] jusqu'au jour où les travaux sont définitivement achevés.
+avec lesdites prescriptions, sous peine d'une astreinte de 7,5 à 75 euros par
+jour de retard ; l'astreinte prononcée court à partir de l'expiration dudit
+délai jusqu'au jour où les travaux sont définitivement achevés.
 
 L'autorité compétente pour autoriser la création d'un lotissement peut faire
 effectuer les travaux d'office aux frais et risques financiers du lotisseur si,

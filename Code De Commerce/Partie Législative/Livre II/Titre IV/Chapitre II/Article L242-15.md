@@ -1,6 +1,6 @@
 Article L242-15
 ----
-Est puni d'une amende de 25000 F le fait, pour le président ou les
+Est puni d'une amende de 3750 euros le fait, pour le président ou les
 administrateurs d'une société anonyme :
 
 1° De ne pas faire tenir pour toute réunion de l'assemblée des actionnaires, une

@@ -34,9 +34,8 @@ sanction pécuniaire, dont le montant est proportionné à la gravité du manque
 et aux avantages qui en sont tirés, sans pouvoir excéder 3 p. 100 du chiffre
 d'affaires hors taxes du dernier exercice clos, taux porté à 5 p. 100 en cas de
 nouvelle violation de la même obligation. A défaut d'activité permettant de
-déterminer ce plafond, le montant de la sanction ne peut excéder un million de
-francs, porté à deux millions et demi de francs en cas de nouvelle violation de
-la même obligation.
+déterminer ce plafond, le montant de la sanction ne peut excéder 150000 euros,
+porté à 375000 euros en cas de nouvelle violation de la même obligation.
 
 Les sanctions sont prononcées après que l'opérateur a reçu notification des
 griefs et a été mis à même de consulter le dossier et de présenter ses

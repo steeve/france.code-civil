@@ -1,7 +1,7 @@
 Article L428-4
 ----
-Est puni de quatre mois d'emprisonnement et d'une amende de 25 000 F le fait de
-:
+Est puni de quatre mois d'emprisonnement et d'une amende de 3 750 euros le fait
+de :
 
 1° Chasser dans les réserves de chasse approuvées par l'Etat ou établies en
 application des dispositions de l'article L. 422-27 ;

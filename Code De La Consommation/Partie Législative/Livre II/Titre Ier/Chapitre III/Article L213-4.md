@@ -1,12 +1,12 @@
 Article L213-4
 ----
-Seront punis d'une amende de 30 000 F et d'un emprisonnement de trois mois au
-plus ou de l'une de ces deux peines seulement [*sanctions pénales*] ceux qui,
-sans motifs légitimes, seront trouvés détenteurs dans tous les lieux de
-fabrication, de production, de conditionnement, de stockage, de dépôt ou de
-vente, dans les véhicules utilisés pour le transport des marchandises, ainsi que
-dans les lieux où sont hébergés ou abattus les animaux dont la viande ou les
-produits sont destinés à l'alimentation humaine ou animale :
+Seront punis d'une amende de 4500 euros et d'un emprisonnement de trois mois au
+plus ou de l'une de ces deux peines seulement ceux qui, sans motifs légitimes,
+seront trouvés détenteurs dans tous les lieux de fabrication, de production, de
+conditionnement, de stockage, de dépôt ou de vente, dans les véhicules utilisés
+pour le transport des marchandises, ainsi que dans les lieux où sont hébergés ou
+abattus les animaux dont la viande ou les produits sont destinés à
+l'alimentation humaine ou animale :
 
 1° Soit de poids ou mesures faux ou autres appareils inexacts servant au pesage
 ou au mesurage des marchandises ;
@@ -23,7 +23,7 @@ des produits agricoles ou naturels.
 
 Si la substance alimentaire falsifiée ou corrompue ou si la substance
 médicamenteuse falsifiée est nuisible à la santé de l'homme ou de l'animal,
-l'emprisonnement sera de deux ans et l'amende de 250 000 F.
+l'emprisonnement sera de deux ans et l'amende de 37500 euros.
 
 Les dispositions du présent article ne sont pas applicables aux fruits frais et
 légumes frais, fermentés ou corrompus.

@@ -1,6 +1,6 @@
 Article L432-10
 ----
-Est puni d'une amende de 60 000 F le fait :
+Est puni d'une amende de 9 000 euros le fait :
 
 1° D'introduire dans les eaux mentionnées par le présent titre des poissons
 appartenant à des espèces susceptibles de provoquer des déséquilibres

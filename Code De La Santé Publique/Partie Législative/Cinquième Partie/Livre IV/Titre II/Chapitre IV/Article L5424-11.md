@@ -1,6 +1,6 @@
 Article L5424-11
 ----
-Est puni de 25 000 F d'amende le fait de vendre :
+Est puni de 3750 euros d'amende le fait de vendre :
 
 1° Les médicaments et produits mentionnés à l'article L. 5121-8 à un prix
 supérieur à celui qui résulte de la réglementation sur les prix ;

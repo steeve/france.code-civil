@@ -1,6 +1,6 @@
 Article L218-48
 ----
-Est puni de deux ans d'emprisonnement et de 120 000 F d'amende le fait, pour
+Est puni de deux ans d'emprisonnement et de 18 000 euros d'amende le fait, pour
 tout capitaine d'un bâtiment français ou tout commandant de bord d'un aéronef
 français ou toute personne assumant la conduite des opérations d'immersion sur
 les engins français ou plates-formes fixes ou flottantes sous juridiction

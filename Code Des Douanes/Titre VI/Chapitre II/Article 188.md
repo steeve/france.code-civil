@@ -16,7 +16,7 @@ tous autres frais pouvant grever les marchandises.
 Le reliquat éventuel est versé à la caisse des dépôts et consignations où il
 reste pendant deux ans à la disposition du propriétaire des marchandises ou des
 ayants droit. Passé ce délai, il est acquis au Trésor. Toutefois, s'il est
-inférieur à 20 F, le reliquat est pris sans délai en recette au budget.
+inférieur à 3 euros, le reliquat est pris sans délai en recette au budget.
 
 3. Lorsque le produit de la vente est insuffisant pour régler les créances
 énumérées au 2 ci-dessus, les sommes obtenues sont versées à la caisse des

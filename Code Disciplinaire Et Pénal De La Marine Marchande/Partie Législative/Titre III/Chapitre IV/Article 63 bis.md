@@ -1,8 +1,8 @@
 Article 63 bis
 ----
-Sera puni d'une peine de deux ans d'emprisonnement et de 500000 F d'amende, ou
-de l'une de ces deux peines seulement, le capitaine de tout navire français ou
-étranger transportant une cargaison d'hydrocarbures ou d'autres substances
+Sera puni d'une peine de deux ans d'emprisonnement et de 75 000 euros d'amende,
+ou de l'une de ces deux peines seulement, le capitaine de tout navire français
+ou étranger transportant une cargaison d'hydrocarbures ou d'autres substances
 dangereuses définies par décret, qui aura pénétré dans les eaux territoriales ou
 intérieures françaises sans avoir signalé au préfet maritime la date et l'heure
 d'entrée, la position, la route et la vitesse du navire ainsi que la nature et

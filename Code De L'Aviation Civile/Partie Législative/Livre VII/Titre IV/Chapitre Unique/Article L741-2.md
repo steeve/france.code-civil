@@ -1,6 +1,6 @@
 Article L741-2
 ----
-Est puni d'un an d'emprisonnement et de 100 000 F d'amende le fait d'entraver
+Est puni d'un an d'emprisonnement et de 15 000 euros d'amende le fait d'entraver
 l'action de l'organisme permanent :
 
 1° Soit en s'opposant à l'exercice des fonctions dont sont chargés les

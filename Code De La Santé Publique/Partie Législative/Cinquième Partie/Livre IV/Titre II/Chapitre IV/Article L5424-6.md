@@ -1,6 +1,6 @@
 Article L5424-6
 ----
-Est puni de 25 000 F d'amende le fait pour un pharmacien :
+Est puni de 3750 euros d'amende le fait pour un pharmacien :
 
 1° De faire commerce dans l'officine de marchandises autres que celles
 mentionnées au premier alinéa de l'article L. 5125-24 ;

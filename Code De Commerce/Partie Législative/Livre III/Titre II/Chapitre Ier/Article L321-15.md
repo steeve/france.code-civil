@@ -1,8 +1,8 @@
 Article L321-15
 ----
-I. - Est puni de deux ans d'emprisonnement et de 2500000 F d'amende le fait de
-procéder ou de faire procéder à une ou plusieurs ventes volontaires de meubles
-aux enchères publiques :
+I. - Est puni de deux ans d'emprisonnement et de 375 000 euros d'amende le fait
+de procéder ou de faire procéder à une ou plusieurs ventes volontaires de
+meubles aux enchères publiques :
 
 1° Si la société qui organise la vente ne dispose pas de l'agrément prévu à
 l'article L. 321-5 soit qu'elle n'en est pas titulaire, soit que son agrément a

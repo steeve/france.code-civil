@@ -1,6 +1,6 @@
 Article 226-1
 ----
-Est puni d'un an d'emprisonnement et de 300 000 F d'amende le fait, au moyen
+Est puni d'un an d'emprisonnement et de 45 000 euros d'amende le fait, au moyen
 d'un procédé quelconque, volontairement de porter atteinte à l'intimité de la
 vie privée d'autrui :
 

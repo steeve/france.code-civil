@@ -1,7 +1,7 @@
 Article L3351-7
 ----
 Les infractions aux dispositions des articles L. 3323-2, L. 3323-4 à L. 3323-6,
-relatifs à la publicité des boissons alcooliques, sont punies de 500 000 F
+relatifs à la publicité des boissons alcooliques, sont punies de 75000 euros
 d'amende. Le maximum de l'amende peut être porté à 50 % du montant des dépenses
 consacrées à l'opération illégale.
 

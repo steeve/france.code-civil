@@ -1,6 +1,6 @@
 Article L4212-4
 ----
-Est puni de 25 000 F d'amende le fait pour un herboriste diplômé :
+Est puni de 3750 euros d'amende le fait pour un herboriste diplômé :
 
 1° De détenir pour la vente ou de vendre des plantes ou parties de plantes
 médicinales, indigènes ou acclimatées, mentionnées à l'article L. 5132-7 ;

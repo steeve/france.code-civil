@@ -22,10 +22,10 @@ l'autorisation délivrée par la commission en application de l'article L. 532-1
 
 En outre, la Commission des opérations de bourse peut prononcer, soit à la
 place, soit en sus de ces sanctions, une sanction pécuniaire dont le montant ne
-peut être supérieur à cinq millions de francs ou au décuple du montant des
-profits éventuellement réalisés. Les sommes sont versées au Trésor public. La
-Commission des opérations de bourse peut également prononcer la radiation d'une
-société de gestion de portefeuille, ainsi qu'il est prévu à l'article L. 532-12.
+peut être supérieur à 750000 euros ou au décuple du montant des profits
+éventuellement réalisés. Les sommes sont versées au Trésor public. La Commission
+des opérations de bourse peut également prononcer la radiation d'une société de
+gestion de portefeuille, ainsi qu'il est prévu à l'article L. 532-12.
 
 La commission bancaire et le comité des établissements de crédit et des
 entreprises d'investissement sont informés de toute mesure d'interdiction à

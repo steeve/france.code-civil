@@ -6,7 +6,7 @@ provenance ou à destination de l'étranger, sans l'intermédiaire d'un organism
 soumis aux dispositions du titre Ier du livre V ou de l'article L. 518-1.
 
 Une déclaration est établie pour chaque transfert à l'exclusion des transferts
-dont le montant est inférieur à cinquante mille francs.
+dont le montant est inférieur à 7 622,45 euros.
 
 Les modalités d'application du présent article sont fixées par décret en Conseil
 d'Etat.

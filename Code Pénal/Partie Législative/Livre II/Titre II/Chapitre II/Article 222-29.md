@@ -1,7 +1,7 @@
 Article 222-29
 ----
 Les agressions sexuelles autres que le viol sont punies de sept ans
-d'emprisonnement et de 700 000 F d'amende lorsqu'elles sont imposées :
+d'emprisonnement et de 100000 euros d'amende lorsqu'elles sont imposées :
 
 1° A un mineur de quinze ans ;
 

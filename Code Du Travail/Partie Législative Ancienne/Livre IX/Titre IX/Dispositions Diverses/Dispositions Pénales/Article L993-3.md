@@ -1,8 +1,7 @@
 Article L993-3
 ----
-Sera punie d'un emprisonnement de cinq ans [*durée*] et d'une amende de 250 000
-F (1) [*montant*] ou de l'une de ces deux peines seulement toute personne
-physique qui :
+Sera punie d'un emprisonnement de cinq ans et d'une amende de 37500 euros ou de
+l'une de ces deux peines seulement toute personne physique qui :
 
 1° En qualité d'employeur, de travailleur indépendant, de membre des professions
 libérales et des professions non salariées aura, par des moyens ou agissements
@@ -18,5 +17,3 @@ loi de finances pour 1985 précitée, ou d'un organisme visé au cinquième alin
 de l'article L. 961-12, aura frauduleusement utilisé les fonds collectés dans
 des conditions non conformes aux dispositions législatives régissant
 l'utilisation de ces fonds.
-
-(1) Amende applicable depuis le 23 décembre 1993.

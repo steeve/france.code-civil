@@ -8,5 +8,5 @@ Le secret professionnel ne peut toutefois être opposé à l'autorité judiciair
 agissant dans le cadre d'une procédure pénale.
 
 Le fait pour un fabricant, importateur ou vendeur de préparation de ne pas
-s'acquitter des obligations prévues au présent article est puni de 25 000 F
+s'acquitter des obligations prévues au présent article est puni de 3750 euros
 d'amende.

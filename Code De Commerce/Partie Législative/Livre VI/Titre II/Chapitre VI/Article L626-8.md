@@ -1,7 +1,7 @@
 Article L626-8
 ----
-Est passible d'un emprisonnement de deux ans et d'une amende de 200000 F le fait
-:
+Est passible d'un emprisonnement de deux ans et d'une amende de 30 000 euros le
+fait :
 
 1° Pour tout commerçant, toute personne immatriculée au répertoire des métiers,
 tout agriculteur ou tout dirigeant, de droit ou de fait, rémunéré ou non, d'une

@@ -15,7 +15,7 @@ tous autres frais pouvant grever les marchandises.
 
 Le reliquat éventuel est versé à la paierie générale où il reste pendant deux
 ans à la disposition du propriétaire des marchandises ou des ayants droit. Passé
-ce délai, il est acquis au Trésor. Toutefois, s'il est inférieur à 2000 F, le
+ce délai, il est acquis au Trésor. Toutefois, s'il est inférieur à 305 euros, le
 reliquat est pris sans délai en recette au budget.
 
 3. Lorsque le produit de la vente est insuffisant pour régler les créances

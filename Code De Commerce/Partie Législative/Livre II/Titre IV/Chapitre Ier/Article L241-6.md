@@ -1,6 +1,6 @@
 Article L241-6
 ----
-Est puni d'un emprisonnement de six mois et d'une amende de 30000 F le fait,
+Est puni d'un emprisonnement de six mois et d'une amende de 4 500 euros le fait,
 pour les gérants, lorsque les capitaux propres de la société, du fait de pertes
 constatées dans les documents comptables, deviennent inférieurs à la moitié du
 capital social :

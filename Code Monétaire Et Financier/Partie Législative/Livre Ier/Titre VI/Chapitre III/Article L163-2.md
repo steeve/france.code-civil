@@ -1,10 +1,10 @@
 Article L163-2
 ----
-Est puni d'un emprisonnement de cinq ans et d'une amende de deux millions cinq
-cent mille francs, le fait pour toute personne d'effectuer après l'émission d'un
-chèque, dans l'intention de porter atteinte aux droits d'autrui, le retrait de
-tout ou partie de la provision, par transfert, virement ou quelque moyen que ce
-soit, ou de faire dans les mêmes conditions défense au tiré de payer.
+Est puni d'un emprisonnement de cinq ans et d'une amende de 375 000 euros, le
+fait pour toute personne d'effectuer après l'émission d'un chèque, dans
+l'intention de porter atteinte aux droits d'autrui, le retrait de tout ou partie
+de la provision, par transfert, virement ou quelque moyen que ce soit, ou de
+faire dans les mêmes conditions défense au tiré de payer.
 
 Est puni des mêmes peines le fait, pour toute personne, d'accepter de recevoir
 ou d'endosser en connaissance de cause un chèque émis dans les conditions

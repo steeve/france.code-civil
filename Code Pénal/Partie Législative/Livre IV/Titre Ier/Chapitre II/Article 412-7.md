@@ -1,6 +1,6 @@
 Article 412-7
 ----
-Est puni de trente ans de détention criminelle et de 3 000 000 F d'amende le
+Est puni de trente ans de détention criminelle et de 450 000 euros d'amende le
 fait :
 
 1° Sans droit ou sans autorisation, de prendre un commandement militaire

@@ -1,6 +1,6 @@
 Article LO227-5
 ----
-Est puni d'un an d'emprisonnement et de 100 000 F d'amende :
+Est puni d'un an d'emprisonnement et de 15 000 euros d'amende :
 
 a) Le fait de s'être fait inscrire sur la liste électorale complémentaire sous
 une fausse résidence, sous de faux noms ou de fausses qualités, ou d'avoir

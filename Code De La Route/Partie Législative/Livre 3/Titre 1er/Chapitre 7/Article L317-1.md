@@ -5,7 +5,7 @@ routier soumis à une obligation de limitation de vitesse par construction, de n
 pas respecter cette obligation, de modifier, ou, en tant que commettant, de
 faire ou de laisser modifier le dispositif de limitation de vitesse par
 construction afin de permettre au véhicule de dépasser sa vitesse maximale
-autorisée, est puni d'un an d'emprisonnement et de 200 000 F d'amende.
+autorisée, est puni d'un an d'emprisonnement et de 30 000 euros d'amende.
 
 Le préposé est passible des mêmes peines lorsque l'infraction résulte de son
 fait personnel.

@@ -13,6 +13,4 @@ inscrits dans le carnet sont astreintes au secret professionnel.
 
 Quiconque aura obtenu ou tenté d'obtenir la communication du carnet de santé
 d'un patient en violation des dispositions du premier alinéa sera puni d'un an
-d'emprisonnement et d'une amende de 100 000 F (1).
-
-(1) Amende applicable depuis le 27 avril 1996.
+d'emprisonnement et d'une amende de 15000 euros.

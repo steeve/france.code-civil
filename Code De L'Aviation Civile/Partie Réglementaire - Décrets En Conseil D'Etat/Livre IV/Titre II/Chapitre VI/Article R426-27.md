@@ -22,14 +22,14 @@ au-delà des plus élevées des valeurs suivantes :
 
 Fonds spécial :
 
-900 millions de francs ;
+137 204 115,51 euros ;
 
 Neuf fois le montant des prestations annuelles versées apparaissant au dernier
 bilan approuvé.
 
 Fonds d'assurance :
 
-200 millions de francs ;
+30 489 803,45 euros ;
 
 Cinq fois le montant des cotisations annuelles apparaissant au dernier bilan
 approuvé.

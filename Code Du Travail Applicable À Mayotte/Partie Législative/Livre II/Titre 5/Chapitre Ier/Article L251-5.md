@@ -1,8 +1,8 @@
 Article L251-5
 ----
 En cas de récidive, les infractions aux dispositions auxquelles se réfère
-l'article L. 251-1 sont passibles d'un emprisonnement d'un an [*durée*] et d'une
-amende de 60 000 F (1) [*montant*] ou de l'une de ces deux peines seulement.
+l'article L. 251-1 sont passibles d'un emprisonnement d'un an et d'une amende de
+9000 euros ou de l'une de ces deux peines seulement.
 
 Toutefois, aucune infraction nouvelle ne pourra être relevée pour la même cause
 pendant le cours du délai qui aura éventuellement été accordé en vertu des
@@ -17,5 +17,3 @@ loi ou les règlements.
 
 Le jugement est susceptible d'appel, le tribunal supérieur d'appel statue
 d'urgence.
-
-(1) Amende applicable depuis le 8 mars 1991.

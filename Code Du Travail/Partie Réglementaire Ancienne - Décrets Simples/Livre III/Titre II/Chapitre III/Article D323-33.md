@@ -4,9 +4,9 @@ Pour les chefs d'établissement, qui, après avoir été individuellement mis en
 demeure, n'ont pas complété, dans le délai imparti, les renseignements qui
 doivent figurer sur ladite liste, le projet de liquidation de la redevance est
 établi comme s'ils n'avaient occupé aucun bénéficiaire pendant l'année envisagée
-et fait état de la base journalière [*montant*] de 0,10 F prévue à l'article L.
-323-37 du nombre de journées de fonctionnement de l'établissement et du nombre
-de bénéficiaires que l'établissement était tenu d'occuper en raison tant de
+et fait état de la base journalière 0,02 euros prévue à l'article L. 323-37 du
+nombre de journées de fonctionnement de l'établissement et du nombre de
+bénéficiaires que l'établissement était tenu d'occuper en raison tant de
 l'effectif total de son personnel que de la proportion obligatoire pour
 l'établissement dont il s'agit.
 

@@ -1,12 +1,12 @@
 Article 72 D
 ----
 I. Les exploitants agricoles soumis à un régime réel d'imposition peuvent
-déduire chaque année de leur bénéfice une somme plafonnée soit à 15 000 F, soit
-à 35 p. 100 de ce bénéfice dans la limite de 52 500 F. Ce plafond est majoré de
-10 p. 100 de la fraction de bénéfice comprise entre 150 000 F et 500 000 F. Le
-taux de 10 p. 100 est porté à 15 p. 100 pour les exercices ouverts à compter du
-1er janvier 1998 et à 20 p. 100 pour les exercices ouverts à compter du 1er
-janvier 1999.
+déduire chaque année de leur bénéfice une somme plafonnée soit à 2 300 euros,
+soit à 35 p. 100 de ce bénéfice dans la limite de 8 000 euros. Ce plafond est
+majoré de 10 p. 100 de la fraction de bénéfice comprise entre 23 000 euros et 76
+300 euros. Le taux de 10 p. 100 est porté à 15 p. 100 pour les exercices ouverts
+à compter du 1er janvier 1998 et à 20 p. 100 pour les exercices ouverts à
+compter du 1er janvier 1999.
 
 Pour les exploitations agricoles à responsabilité limitée qui n'ont pas opté
 pour le régime fiscal des sociétés de capitaux, la limite de la déduction visée
@@ -44,10 +44,10 @@ la moyenne des résultats des trois exercices précédents. Pour le calcul de ce
 moyenne, il n'est pas tenu compte des reports déficitaires.
 
 II. L'apport d'une exploitation individuelle dans les conditions visées au
-sixième alinéa du I de l'article 151 octies, à une société civile agricole par
-un exploitant agricole qui a pratiqué la déduction au titre d'un exercice
-précédant celui de l'apport n'est pas considéré pour l'application du I comme
-une cessation d'activité si la société bénéficiaire de l'apport en remplit les
+sixième alinéa du I de l'article 151 octies à une société civile agricole par un
+exploitant agricole qui a pratiqué la déduction au titre d'un exercice précédant
+celui de l'apport n'est pas considéré pour l'application du I comme une
+cessation d'activité si la société bénéficiaire de l'apport en remplit les
 conditions et s'engage à utiliser la déduction conformément à son objet dans les
 cinq années qui suivent celle au cours de laquelle elle a été pratiquée.
 

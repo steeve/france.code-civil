@@ -3,7 +3,8 @@ Article 434-11
 Le fait, pour quiconque connaissant la preuve de l'innocence d'une personne
 détenue provisoirement ou jugée pour crime ou délit, de s'abstenir
 volontairement d'en apporter aussitôt le témoignage aux autorités judiciaires ou
-administratives est puni de trois ans d'emprisonnement et de 300 000 F d'amende.
+administratives est puni de trois ans d'emprisonnement et de 45 000 euros
+d'amende.
 
 Toutefois, est exempt de peine celui qui apportera son témoignage tardivement,
 mais spontanément.

@@ -2,7 +2,7 @@ Article L451-2-1
 ----
 Le fait de faire obstacle au contrôle de l'administration rend passible, après
 mise en demeure demeurée infructueuse, la personne morale contrôlée d'une amende
-de 100 000 F maximum. La pénalité est recouvrée au profit de l'Etat comme les
+de 15 000 euros maximum. La pénalité est recouvrée au profit de l'Etat comme les
 créances étrangères à l'impôt et au domaine.
 
 Lorsqu'un organisme ne respecte pas, pour un ou plusieurs logements, les règles

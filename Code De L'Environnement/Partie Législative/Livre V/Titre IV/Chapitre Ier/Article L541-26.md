@@ -7,8 +7,8 @@ constaté un mois après la mise en demeure peut donner lieu au prononcé d'une
 amende administrative par le ministre chargé de l'environnement. Le montant de
 l'amende est égal à trois fois la valeur de la différence entre le montant des
 garanties exigées et celui des garanties réellement constituées, dans la limite
-de 200 millions de francs. Le ministre ne peut infliger une amende plus d'un an
-après la mise en demeure.
+de 30 000 000 euros. Le ministre ne peut infliger une amende plus d'un an après
+la mise en demeure.
 
 Le recouvrement est effectué au profit du Trésor public comme en matière de
 créances étrangères à l'impôt et au domaine. Le produit de l'amende est affecté

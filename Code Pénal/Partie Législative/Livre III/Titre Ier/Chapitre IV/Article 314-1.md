@@ -5,5 +5,5 @@ d'autrui, des fonds, des valeurs ou un bien quelconque qui lui ont été remis e
 qu'elle a acceptés à charge de les rendre, de les représenter ou d'en faire un
 usage déterminé.
 
-L'abus de confiance est puni de trois ans d'emprisonnement et de 2 500 000 F
+L'abus de confiance est puni de trois ans d'emprisonnement et de 375 000 euros
 d'amende.

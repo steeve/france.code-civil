@@ -7,4 +7,4 @@ commun, à une peine de réclusion ou d'emprisonnement.
 
 Le sursis ne peut être ordonné à l'égard d'une personne morale que lorsque
 celle-ci n'a pas été condamnée, dans le même délai, pour un crime ou un délit de
-droit commun, à une amende d'un montant supérieur à 400 000 F.
+droit commun, à une amende d'un montant supérieur à 60 000 euros.

@@ -1,6 +1,6 @@
 Article L242-23
 ----
-Est puni d'une amende de 60000 F le fait, pour le président ou les
+Est puni d'une amende de 9000 euros le fait, pour le président ou les
 administrateurs d'une société anonyme, de procéder à une réduction du capital
 social :
 

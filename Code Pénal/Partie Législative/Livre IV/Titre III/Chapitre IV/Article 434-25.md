@@ -3,7 +3,8 @@ Article 434-25
 Le fait de chercher à jeter le discrédit, publiquement par actes, paroles,
 écrits ou images de toute nature, sur un acte ou une décision juridictionnelle,
 dans des conditions de nature à porter atteinte à l'autorité de la justice ou à
-son indépendance est puni de six mois d'emprisonnement et de 50 000 F d'amende.
+son indépendance est puni de six mois d'emprisonnement et de 7 500 euros
+d'amende.
 
 Les dispositions de l'alinéa précédent ne s'appliquent pas aux commentaires
 techniques ni aux actes, paroles, écrits ou images de toute nature tendant à la

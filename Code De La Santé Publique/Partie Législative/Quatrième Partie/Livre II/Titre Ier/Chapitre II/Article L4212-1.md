@@ -1,6 +1,6 @@
 Article L4212-1
 ----
-Est puni de 25 000 F d'amende le fait pour un médecin de délivrer des
+Est puni de 3750 euros d'amende le fait pour un médecin de délivrer des
 médicaments :
 
 1° Sans l'autorisation prévue à l'article L. 4211-3 ;

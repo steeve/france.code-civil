@@ -1,6 +1,6 @@
 Article L4363-4
 ----
-Est puni de 25 000 F d'amende le fait :
+Est puni de 3750 euros d'amende le fait :
 
 1° De diriger ou de gérer, sans remplir les conditions requises pour l'exercice
 de la profession d'opticien-lunetier, un établissement commercial dont l'objet

@@ -1,6 +1,6 @@
 Article 311-10
 ----
-Le vol est puni de la réclusion criminelle à perpétuité et de 1 000 000 F
+Le vol est puni de la réclusion criminelle à perpétuité et de 150 000 euros
 d'amende lorsqu'il est précédé, accompagné ou suivi soit de violences ayant
 entraîné la mort, soit de tortures ou d'actes de barbarie.
 

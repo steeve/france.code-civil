@@ -1,6 +1,6 @@
 Article L324-1
 ----
-Est puni d'une amende de 100 000 F le fait pour tout transporteur aérien, ou
+Est puni d'une amende de 15 000 euros le fait pour tout transporteur aérien, ou
 tout prestataire de services de transport aérien, y compris les auxiliaires de
 transport, de ne pas s'être conformé à une décision administrative visant à
 interdire de nouvelles baisses des tarifs des services aériens

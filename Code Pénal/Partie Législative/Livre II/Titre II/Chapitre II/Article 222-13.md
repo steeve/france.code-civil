@@ -2,7 +2,7 @@ Article 222-13
 ----
 Les violences ayant entraîné une incapacité de travail inférieure ou égale à
 huit jours ou n'ayant entraîné aucune incapacité de travail sont punies de trois
-ans d'emprisonnement et de 300 000 F d'amende lorsqu'elles sont commises :
+ans d'emprisonnement et de 45000 euros d'amende lorsqu'elles sont commises :
 
 1° Sur un mineur de quinze ans ;
 
@@ -40,12 +40,12 @@ ou de sa mission ;
 éducatif, ou, à l'occasion des entrées ou des sorties des élèves, aux abords
 d'un tel établissement.
 
-Les peines encourues sont portées à cinq ans d'emprisonnement et à 500 000 F
+Les peines encourues sont portées à cinq ans d'emprisonnement et à 75000 euros
 d'amende lorsque l'infraction définie au premier alinéa est commise sur un
 mineur de quinze ans par un ascendant légitime, naturel ou adoptif ou par toute
 autre personne ayant autorité sur le mineur. Les peines sont également portées à
-cinq ans d'emprisonnement et 500 000 F d'amende lorsque cette infraction, ayant
-entraîné une incapacité totale de travail inférieure ou égale à huit jours, est
-commise dans deux des circonstances prévues aux 1° à 10° du présent article. Les
-peines sont portées à sept ans d'emprisonnement et 700 000 F d'amende
-lorsqu'elle est commise dans trois de ces circonstances.
+cinq ans d'emprisonnement et 75000 euros d'amende lorsque cette infraction,
+ayant entraîné une incapacité totale de travail inférieure ou égale à huit
+jours, est commise dans deux des circonstances prévues aux 1° à 10° du présent
+article. Les peines sont portées à sept ans d'emprisonnement et 100000 euros
+d'amende lorsqu'elle est commise dans trois de ces circonstances.

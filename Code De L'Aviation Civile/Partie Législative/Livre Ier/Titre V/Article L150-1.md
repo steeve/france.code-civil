@@ -1,9 +1,8 @@
 Article L150-1
 ----
-Seront punis d'une amende de 500 000 F [*montant*] et d'un emprisonnement de un
-an [*durée*] , ou de l'une de ces deux peines seulement, l'exploitant technique,
-le propriétaire et, le cas échéant, l'exploitant commercial qui auront
-[*infraction*] :
+Seront punis d'une amende de 75 000 euros et d'un emprisonnement d'un an, ou de
+l'une de ces deux peines seulement, l'exploitant technique, le propriétaire et,
+le cas échéant, l'exploitant commercial qui auront :
 
 1° Mis ou laissé en service un aéronef sans avoir obtenu un certificat
 d'immatriculation, un document de navigabilité ou un certificat de limitation de

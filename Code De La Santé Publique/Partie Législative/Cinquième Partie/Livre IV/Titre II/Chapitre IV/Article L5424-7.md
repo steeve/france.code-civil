@@ -1,6 +1,7 @@
 Article L5424-7
 ----
-Est puni de 25 000 F d'amende le fait pour un pharmacien ou pour ses préposés :
+Est puni de 3750 euros d'amende le fait pour un pharmacien ou pour ses préposés
+:
 
 1° De solliciter des commandes auprès du public ;
 

@@ -1,6 +1,6 @@
 Article L245-14
 ----
-Est puni d'une amende de 120000 F le fait :
+Est puni d'une amende de 18000 euros le fait :
 
 1° Pour le président, les administrateurs ou les gérants d'une société par
 actions, d'offrir ou de verser aux représentants de la masse des obligataires

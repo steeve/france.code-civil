@@ -1,6 +1,6 @@
 Article 431-9
 ----
-Est puni de six mois d'emprisonnement et de 50 000 F d'amende le fait :
+Est puni de six mois d'emprisonnement et de 7 500 euros d'amende le fait :
 
 1° D'avoir organisé une manifestation sur la voie publique n'ayant pas fait
 l'objet d'une déclaration préalable dans les conditions fixées par la loi ;

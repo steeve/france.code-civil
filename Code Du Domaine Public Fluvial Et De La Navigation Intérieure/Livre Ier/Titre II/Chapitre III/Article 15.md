@@ -18,6 +18,6 @@ servitude de "marchepied". Lorsqu'un cours d'eau est déjà grevé de la servitu
 prévue par le décret n° 59-96 du 7 janvier 1959, cette dernière servitude est
 maintenue.
 
-Tout contrevenant sera passible d'un amende de 1800 F et devra, en outre,
+Tout contrevenant sera passible d'un amende de 274 euros et devra, en outre,
 remettre les lieux en état ou, à défaut, payer les frais de la remise en état
 d'office par l'administration.

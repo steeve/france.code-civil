@@ -31,7 +31,7 @@ informations à la disposition des agents de contrôle mentionnés à l'article 
 II. - Le fait, pour toute personne soumise aux obligations énoncées au I du
 présent article, de diffuser ou de faire diffuser, ou de communiquer au
 responsable de la publication ou du service télématique des informations
-mensongères relatives à son identification est puni de 50 000 F d'amende (1).
+mensongères relatives à son identification est puni de 7500 euros d'amende.
 
 Les personnes morales peuvent être déclarées responsables pénalement, dans les
 conditions prévues à l'article 121-2 du code pénal, des infractions définies au
@@ -42,5 +42,3 @@ prévues par l'article 131-38 du code pénal.
 
 III. - Le présent article entre en vigueur trois mois après la publication du
 décret prévu au I du présent article.
-
-(1) : Amende applicable depuis le 8 juillet 1996.

@@ -17,10 +17,10 @@ Les sanctions applicables sont l'avertissement, le blâme et le retrait
 temporaire ou définitif de la carte professionnelle. En outre, le Conseil des
 marchés financiers peut prononcer, soit à la place, soit en sus de ces
 sanctions, une sanction pécuniaire dont le montant ne peut être supérieur à
-quatre cent mille francs ou au triple du montant des profits éventuellement
-réalisés. Les sommes sont versées au fonds de garantie auquel est affiliée la
-personne morale sous l'autorité ou pour le compte de qui agit la personne
-sanctionnée ou, à défaut, au Trésor public.
+60000 euros ou au triple du montant des profits éventuellement réalisés. Les
+sommes sont versées au fonds de garantie auquel est affiliée la personne morale
+sous l'autorité ou pour le compte de qui agit la personne sanctionnée ou, à
+défaut, au Trésor public.
 
 En cas d'urgence, les personnes mentionnées au présent article contre lesquelles
 des procédures sont engagées peuvent être suspendues d'activité par le Conseil

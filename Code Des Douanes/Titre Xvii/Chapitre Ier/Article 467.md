@@ -22,13 +22,14 @@ ci-dessus doivent être conservés par les assujettis pendant un délai de six a
 à compter de la date de l'opération faisant l'objet de cette déclaration.
 
 4. Le défaut de production dans les délais de la déclaration prévue au 2
-ci-dessus donne lieu à l'application d'une amende de 5 000 F.
+ci-dessus donne lieu à l'application d'une amende de 750 euros.
 
-Elle est portée à 10 000 F à défaut de production de la déclaration dans les
+Elle est portée à 1500 euros à défaut de production de la déclaration dans les
 trente jours d'une mise en demeure.
 
 Chaque omission ou inexactitude dans la déclaration produite donne lieu à
-l'application d'une amende de 100 F, sans que le total puisse excéder 10 000 F.
+l'application d'une amende de 15 euros, sans que le total puisse excéder 1500
+euros.
 
 L'amende ne peut être mise en recouvrement avant l'expiration d'un délai de
 trente jours à compter de la notification du document par lequel
@@ -65,7 +66,7 @@ de souscrire celle-ci.
 Le refus de déférer à une convocation, le défaut de réponse à une demande de
 renseignements écrite, ou la non-remise de documents nécessaires à
 l'établissement de la déclaration mentionnée au 2 ci-dessus donne lieu à
-l'application d'une amende de 10 000 F.
+l'application d'une amende de 1500 euros.
 
 Cette amende est recouvrée selon les modalités prévues aux quatrième et
 cinquième alinéa du 4 ci-dessus. Le contentieux de l'amende est assuré et suivi

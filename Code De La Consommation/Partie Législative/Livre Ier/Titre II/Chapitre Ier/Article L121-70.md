@@ -1,6 +1,6 @@
 Article L121-70
 ----
-Est puni de 100 000 F d'amende le fait :
+Est puni de 15 000 euros d'amende le fait :
 
 1° Pour tout professionnel, de soumettre à un consommateur une offre tendant à
 la conclusion de tout contrat ou groupe de contrats visé à l'article L. 121-60

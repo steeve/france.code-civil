@@ -1,7 +1,7 @@
 Article L231-14
 ----
-Est puni d'un emprisonnement de deux ans et d'une amende de soixante mille
-francs le fait, pour toute personne :
+Est puni d'un emprisonnement de deux ans et d'une amende de 9 000 euros le fait,
+pour toute personne :
 
 1. D'empêcher un associé de participer à une assemblée ;
 

@@ -11,8 +11,8 @@ prononcée en application du second alinéa.
 Lorsque le tribunal correctionnel, saisi par une citation directe de la partie
 civile, prononce une relaxe, il peut, par ce même jugement, sur réquisitions du
 procureur de la République, condamner la partie civile au paiement d'une amende
-civile dont le montant ne saurait excéder 100 000 F s'il estime que la citation
-directe était abusive ou dilatoire. Les réquisitions du procureur de la
+civile dont le montant ne saurait excéder 15 000 euros s'il estime que la
+citation directe était abusive ou dilatoire. Les réquisitions du procureur de la
 République doivent intervenir avant la clôture des débats, après les plaidoiries
 de la défense, et la partie civile ou son avocat doivent avoir été mis en mesure
 d'y répliquer. Les dispositions du présent alinéa sont également applicables

@@ -7,7 +7,7 @@ judiciaire d'une mission de conciliation ou de médiation, de solliciter ou
 d'agréer, sans droit, à tout moment, directement ou indirectement, des offres,
 des promesses, des dons, des présents ou des avantages quelconques pour
 l'accomplissement ou l'abstention d'un acte de sa fonction, est puni de dix ans
-d'emprisonnement et de 1 000 000 F d'amende.
+d'emprisonnement et de 150000 euros d'amende.
 
 Le fait, à tout moment, de céder aux sollicitations d'une personne visée à
 l'alinéa précédent, ou de proposer des offres, des promesses, des dons, des
@@ -17,5 +17,5 @@ peines.
 
 Lorsque l'infraction définie au premier alinéa est commise par un magistrat au
 bénéfice ou au détriment d'une personne faisant l'objet de poursuites
-criminelles, la peine est portée à quinze ans de réclusion criminelle et à 1 500
-000 F d'amende.
+criminelles, la peine est portée à quinze ans de réclusion criminelle et à
+225000 euros d'amende.

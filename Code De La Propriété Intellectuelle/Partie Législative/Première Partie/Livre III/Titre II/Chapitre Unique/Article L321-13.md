@@ -16,7 +16,7 @@ Cour de cassation ;
 chargé des finances ;
 
 - un membre de l'inspection générale de l'administration des affaires
-culturelles, désigné par le ministre chargé de la culture ;
+culturelles, désigné par le ministre chargé de la culture.
 
 La commission peut se faire assister de rapporteurs désignés parmi les membres
 du Conseil d'Etat et du corps des conseillers de tribunaux administratifs et
@@ -56,7 +56,7 @@ contrôle de la commission de contrôle des sociétés de perception et de
 répartition des droits, de ne pas répondre aux demandes d'information de la
 commission, de faire obstacle de quelque manière que ce soit à l'exercice de sa
 mission ou de lui communiquer sciemment des renseignements inexacts est puni
-d'un an d'emprisonnement et de 100 000 F d'amende.
+d'un an d'emprisonnement et de 15 000 euros d'amende.
 
 V. - La commission siège dans les locaux de la Cour des comptes, qui assure son
 secrétariat.

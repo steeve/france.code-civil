@@ -5,4 +5,4 @@ Le fait de recueillir ou de rassembler, en vue de les livrer à une puissance
 ou à leurs agents, des renseignements, procédés, objets, documents, données
 informatisées ou fichiers dont l'exploitation, la divulgation ou la réunion est
 de nature à porter atteinte aux intérêts fondamentaux de la nation est puni de
-dix ans d'emprisonnement et de 1 000 000 F d'amende.
+dix ans d'emprisonnement et de 150 000 euros d'amende.

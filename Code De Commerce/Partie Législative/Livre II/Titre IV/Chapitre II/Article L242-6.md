@@ -1,7 +1,7 @@
 Article L242-6
 ----
-Est puni d'un emprisonnement de cinq ans et d'une amende de 2 500 000 F le fait
-pour :
+Est puni d'un emprisonnement de cinq ans et d'une amende de 375 000 euros le
+fait pour :
 
 1° Le président, les administrateurs ou les directeurs généraux d'une société
 anonyme d'opérer entre les actionnaires la répartition de dividendes fictifs, en

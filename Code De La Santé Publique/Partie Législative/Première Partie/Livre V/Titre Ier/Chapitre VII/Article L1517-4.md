@@ -4,9 +4,9 @@ Comme il est dit à l'article 723-5 du code pénal ci-après reproduit :
 
 " L'article 226-27 est rédigé comme suit :
 
-Art. 226-27.-Le fait de rechercher l'identification d'une personne par ses
+Art. 226-27. - Le fait de rechercher l'identification d'une personne par ses
 empreintes génétiques à des fins médicales sans recueillir préalablement son
-consentement par écrit est puni d'un an d'emprisonnement et de 15 000 euros
+consentement par écrit est puni d'un an d'emprisonnement et de 15000 euros
 d'amende.
 
 Les dispositions de l'alinéa précédent ne sont pas applicables :

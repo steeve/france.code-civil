@@ -7,4 +7,4 @@ Comme il est dit à l'article 716-8 du code pénal ci-après reproduit :
 Le fait de procéder à des activités de recueil, de traitement, de conservation
 et de cession de gamètes provenant de dons hors d'un établissement ou organisme
 à but non lucratif autorisé à cet effet est puni de deux ans d'emprisonnement et
-de 200 000 F d'amende. "
+de 30000 euros d'amende. "

@@ -1,6 +1,6 @@
 Article L731-9
 ----
-Toute infraction aux articles L. 731-2 à L. 731-7 est punie de 25 000 F
+Toute infraction aux articles L. 731-2 à L. 731-7 est punie de 3750 euros
 d'amende.
 
 Sont passibles de cette peine :

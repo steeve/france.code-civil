@@ -2,7 +2,7 @@ Article L5424-18
 ----
 Le non-respect des règles fixées par décret en Conseil d'Etat conformément aux
 dispositions de l'article L. 5125-32, et relatives à la publicité en faveur des
-officines de pharmacie est puni de 250 000 F d'amende.
+officines de pharmacie est puni de 37500 euros d'amende.
 
 Sont punies de la même peine, quel que soit le mode de publicité utilisé, les
 personnes qui tirent profit d'une publicité irrégulière et les agents de

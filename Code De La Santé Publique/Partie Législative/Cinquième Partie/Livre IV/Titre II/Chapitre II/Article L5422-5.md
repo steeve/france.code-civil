@@ -1,6 +1,6 @@
 Article L5422-5
 ----
-Est punie de 250 000 F d'amende toute publicité au sens de l'article L. 5122-1
+Est punie de 37500 euros d'amende toute publicité au sens de l'article L. 5122-1
 effectuée auprès du public pour un médicament :
 
 1° Soumis à prescription médicale ;

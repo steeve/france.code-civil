@@ -7,7 +7,7 @@ inexact, lorsqu'elle est adressée soit à un officier de justice ou de police
 administrative ou judiciaire, soit à une autorité ayant le pouvoir d'y donner
 suite ou de saisir l'autorité compétente, soit aux supérieurs hiérarchiques ou à
 l'employeur de la personne dénoncée, est punie de cinq ans d'emprisonnement et
-de 300 000 F d'amende.
+de 45000 euros d'amende.
 
 La fausseté du fait dénoncé résulte nécessairement de la décision, devenue
 définitive, d'acquittement, de relaxe ou de non-lieu déclarant que la réalité du

@@ -11,11 +11,11 @@ victime ;
 2° De vingt ans de réclusion criminelle lorsqu'elles ont entraîné une mutilation
 ou une infirmité permanente ;
 
-3° De dix ans d'emprisonnement et de 1 000 000 F d'amende lorsqu'elles ont
+3° De dix ans d'emprisonnement et de 150000 euros d'amende lorsqu'elles ont
 entraîné une incapacité totale de travail pendant plus de huit jours ;
 
-4° De cinq ans d'emprisonnement et de 500 000 F d'amende lorsqu'elles n'ont pas
-entraîné une incapacité totale de travail pendant plus de huit jours.
+4° De cinq ans d'emprisonnement et de 75000 euros d'amende lorsqu'elles n'ont
+pas entraîné une incapacité totale de travail pendant plus de huit jours.
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté
 sont applicables aux cas prévus aux 1° et 2° du présent article.

@@ -1,6 +1,6 @@
 Article L5422-8
 ----
-Est puni de 250 000 F d'amende le fait de remettre des échantillons de
+Est puni de 37500 euros d'amende le fait de remettre des échantillons de
 médicaments :
 
 1° A des personnes non habilitées à prescrire ou à dispenser des médicaments

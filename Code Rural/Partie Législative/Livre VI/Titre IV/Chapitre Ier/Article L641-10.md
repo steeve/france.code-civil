@@ -8,9 +8,9 @@ vins des cotisations qui, nonobstant leur caractère obligatoire, demeurent des
 créances de droit privé. La Cour des comptes assure la vérification des comptes
 et de la gestion des organismes agréés.
 
-Le montant de ces cotisations, qui ne peuvent excéder 5 F par hectolitre de vin
-revendiqué en appellation d'origine, est exigible lors du dépôt de la demande
-d'agrément des vins prévu par la réglementation en vigueur.
+Le montant de ces cotisations, qui ne peuvent excéder 0,8 euro par hectolitre de
+vin revendiqué en appellation d'origine, est exigible lors du dépôt de la
+demande d'agrément des vins prévu par la réglementation en vigueur.
 
 Pour satisfaire aux obligations qui leur sont imposées en matière d'organisation
 de l'agrément des produits à appellation d'origine contrôlée autres que les
@@ -24,10 +24,10 @@ Ces cotisations sont assises sur les quantités, exprimées en unités de masse 
 de volume, des produits destinés à la commercialisation en appellation d'origine
 contrôlée, dans la limite de :
 
-5 F par hectolitre ou 50 F par hectolitre d'alcool pur pour les boissons
+0,8 euro par hectolitre ou 8 euros par hectolitre d'alcool pur pour les boissons
 alcoolisées autres que les vins ;
 
-0,50 F par kilogramme pour les produits agroalimentaires ou forestiers autres
+0,08 euro par kilogramme pour les produits agroalimentaires ou forestiers autres
 que les vins et les boissons alcoolisées.
 
 Elles sont exigibles annuellement. Un arrêté conjoint du ministre de

@@ -17,5 +17,5 @@ Cette communication intervient dans les deux mois suivant la conclusion des
 contrats ou, s'il s'agit de contrats antérieurs à l'autorisation, dans un délai
 de deux mois à compter de l'autorisation.
 
-Toute infraction aux dispositions du présent article est punie de 100000 F
+Toute infraction aux dispositions du présent article est punie de 15000 euros
 d'amende.

@@ -5,4 +5,4 @@ Le taux effectif global déterminé comme il est dit à l'article L. 313-1 doit
 présente section.
 
 Toute infraction aux dispositions du présent article sera punie d'une amende de
-30 000 F [*sanctions pénales*].
+4 500 euros.

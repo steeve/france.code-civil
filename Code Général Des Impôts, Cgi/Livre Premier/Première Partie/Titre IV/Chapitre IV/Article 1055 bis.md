@@ -1,8 +1,8 @@
 Article 1055 bis
 ----
 La première cession à titre onéreux d'immeubles mentionnés au 4° du 2 de
-l'article 793 bénéficie d'un abattement de 600 000 F sur l'assiette des droits
-d'enregistrement et de la taxe de publicité foncière.
+l'article 793 bénéficie d'un abattement de 91 000 euros sur l'assiette des
+droits d'enregistrement et de la taxe de publicité foncière.
 
 L'application de cet abattement est subordonnée aux conditions suivantes :
 
@@ -26,4 +26,4 @@ article, notamment les obligations déclaratives incombant aux redevables et les
 pièces justificatives à fournir lors de l'enregistrement de la transmission
 mentionnée au premier alinéa (1).
 
-(1) Voir annexe II article 294 E.
+(1) Voir l'article 294 E de l'annexe II.

@@ -4,7 +4,7 @@ Comme il est dit à l'article 716-10 du code pénal, ci-après reproduit :
 
 " L'article 511-19 est ainsi rédigé :
 
-" Art. 511-19. - Est puni de sept ans d'emprisonnement et de 700 000 F d'amende
+" Art. 511-19.-Est puni de sept ans d'emprisonnement et de 100000 euros d'amende
 le fait de procéder à une étude ou à une expérimentation sur l'embryon.
 
 L'alinéa précédent n'est pas applicable à une étude réalisée, à titre

@@ -13,5 +13,5 @@ financiers liés aux emprunts contractés pour ces investissements. Elle sert
 décret précise les conditions d'application de la taxe.
 
 La collectivité territoriale, après avis de la commission consultative de
-l'abattoir, vote le taux de cette taxe, qui est compris entre 0,155 F et 0,60 F
-par kilogramme de viande nette".
+l'abattoir, vote le taux de cette taxe, qui est compris entre 0,023 euro et
+0,092 euro par kilogramme de viande nette".

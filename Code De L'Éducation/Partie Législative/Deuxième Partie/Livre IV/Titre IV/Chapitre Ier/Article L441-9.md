@@ -2,7 +2,7 @@ Article L441-9
 ----
 Le fait d'ouvrir un établissement d'enseignement du second degré privé, sans
 remplir les conditions prescrites par l'article L. 911-5 et par la présente
-section est puni de [*taux*] 25 000 F d'amende.
+section est puni de 3 750 euros d'amende.
 
 L'établissement sera fermé.
 

@@ -53,10 +53,8 @@ d) aux contribuables qui créent une activité dans le cadre d'une concentration
 ou d'une restructuration d'activités préexistantes exercées en Corse ou qui
 reprennent de telles activités sauf pour la durée restant à courir, si
 l'activité reprise est déjà placée sous le régime d'exonération prévu au présent
-article ;
-
-Lorsque le contribuable est une société membre d'un groupe fiscal visé à
-l'article 223 A, le bénéfice exonéré est celui de cette société déterminé dans
+article. Lorsque le contribuable est une société membre d'un groupe fiscal visé
+à l'article 223 A, le bénéfice exonéré est celui de cette société déterminé dans
 les conditions prévues aux II et III du présent article et au 4 de l'article 223
 I.
 
@@ -174,8 +172,8 @@ de travail à durée indéterminée ou d'une durée de trois mois au moins. Les
 salariés à temps partiel sont pris en compte au prorata de la durée du temps de
 travail prévue à leur contrat.
 
-IX. En aucun cas, le montant de bénéfice exonéré ne peut excéder 400 000 F par
-période de douze mois.
+IX. En aucun cas, le montant de bénéfice exonéré ne peut excéder 61 000 euros
+par période de douze mois.
 
 X. 1° La fraction des bénéfices exonérée dans les conditions du 2° du IV doit
 être maintenue dans l'exploitation. Cette condition est remplie si :

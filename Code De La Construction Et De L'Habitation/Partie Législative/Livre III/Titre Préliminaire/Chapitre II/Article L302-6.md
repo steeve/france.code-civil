@@ -8,7 +8,7 @@ elles sont propriétaires ou gestionnaires au 1er janvier de l'année en cours.
 
 Le défaut de production de l'inventaire mentionné ci-dessus, ou la production
 d'un inventaire manifestement erroné donne lieu à l'application d'une amende de
-10 000 F recouvrée comme en matière de taxe sur les salaires.
+1 500 euros recouvrée comme en matière de taxe sur les salaires.
 
 Le préfet communique chaque année à chaque commune susceptible d'être visée à
 l'article L. 302-5, avant le 1er septembre, les inventaires la concernant

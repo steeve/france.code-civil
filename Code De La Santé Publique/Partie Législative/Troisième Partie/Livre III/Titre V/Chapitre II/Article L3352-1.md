@@ -1,6 +1,6 @@
 Article L3352-1
 ----
-Est puni de 25 000 F d'amende le fait d'ouvrir :
+Est puni de 3 750 euros d'amende le fait d'ouvrir :
 
 1° Sous réserve des dispositions prévues à l'article L. 3335-11, un débit de
 boissons à consommer sur place de 2e ou de 3e catégorie dans les communes où le

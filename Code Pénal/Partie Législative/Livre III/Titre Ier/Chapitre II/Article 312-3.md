@@ -1,6 +1,6 @@
 Article 312-3
 ----
-L'extorsion est punie de quinze ans de réclusion criminelle et de 1 000 000 F
+L'extorsion est punie de quinze ans de réclusion criminelle et de 150 000 euros
 d'amende lorsqu'elle est précédée, accompagnée ou suivie de violences sur autrui
 ayant entraîné une incapacité totale de travail pendant plus de huit jours.
 

@@ -1,7 +1,7 @@
 Article L163-3
 ----
-Est puni d'un emprisonnement de sept ans et d'une amende de cinq millions de
-francs le fait pour toute personne :
+Est puni d'un emprisonnement de sept ans et d'une amende de 750 000 euros le
+fait pour toute personne :
 
 1. De contrefaire ou de falsifier un chèque ;
 

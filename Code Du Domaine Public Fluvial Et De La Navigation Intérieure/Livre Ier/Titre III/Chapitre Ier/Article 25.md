@@ -3,7 +3,7 @@ Article 25
 Aucun travail ne peut être exécuté, aucune prise d'eau ne peut être pratiquée
 sur le domaine public fluvial sans autorisation de l'administration.
 
-Le défaut d'autorisation sera puni d'une amende de 1000 à 80000 F.
+Le défaut d'autorisation sera puni d'une amende de 150 à 12000 euros.
 
 En cas de condamnation pour infraction aux dispositions du présent article, le
 tribunal fixe, s'il y a lieu, les mesures à prendre pour faire cesser

@@ -1,9 +1,9 @@
 Article 722
 ----
 Le droit prévu à l'article 719 est réduit pour la fraction de la valeur taxable
-supérieure à 150.000 F à 2 % pour les mutations de propriété à titre onéreux de
-débits de boissons à consommer sur place de troisième et quatrième catégories,
-réalisées dans les conditions prévues à l'article 41 bis.
+supérieure à 23 000 euros à 2 % pour les mutations de propriété à titre onéreux
+de débits de boissons à consommer sur place de troisième et quatrième
+catégories, réalisées dans les conditions prévues à l'article 41 bis.
 
 Toutefois, si ces conditions ne sont pas remplies dans le délai imparti,
 l'avantage fiscal prévu à l'alinéa qui précède devient caduc et le complément de

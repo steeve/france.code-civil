@@ -7,4 +7,5 @@ ainsi, à son préjudice ou au préjudice d'un tiers, à remettre des fonds, des
 valeurs ou un bien quelconque, à fournir un service ou à consentir un acte
 opérant obligation ou décharge.
 
-L'escroquerie est punie de cinq ans d'emprisonnement et de 2 500 000 F d'amende.
+L'escroquerie est punie de cinq ans d'emprisonnement et de 375 000 euros
+d'amende.

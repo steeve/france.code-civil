@@ -13,4 +13,4 @@ l'intéressé a été examiné en vue du mariage.
 
 L'officier d'état civil qui ne se conformera pas aux prescriptions de l'alinéa
 précédent sera poursuivi devant le tribunal de grande instance et puni d'une
-amende de 20 F à 200 F [*sanctions civiles*].
+amende de 3 à 30 euros (sanctions civiles).

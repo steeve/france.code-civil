@@ -7,7 +7,7 @@ partie de ses revenus, soit en dissimulant certains de ses biens, en vue de se
 soustraire à l'exécution d'une condamnation de nature patrimoniale prononcée par
 une juridiction répressive ou, en matière délictuelle, quasi délictuelle ou
 d'aliments, prononcée par une juridiction civile, est puni de trois ans
-d'emprisonnement et de 300 000 F d'amende.
+d'emprisonnement et de 45 000 euros d'amende.
 
 Commet le même délit le dirigeant de droit ou de fait d'une personne morale qui
 organise ou aggrave l'insolvabilité de celle-ci dans les conditions définies à

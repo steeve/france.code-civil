@@ -1,6 +1,6 @@
 Article L247-2
 ----
-I. - Est puni d'une amende de 120000 F le fait pour les présidents, les
+I. - Est puni d'une amende de 18000 euros le fait pour les présidents, les
 administrateurs, les membres du directoire, les gérants ou les directeurs
 généraux des personnes morales, ainsi que pour les personnes physiques de
 s'abstenir de remplir les obligations d'informations auxquelles cette personne

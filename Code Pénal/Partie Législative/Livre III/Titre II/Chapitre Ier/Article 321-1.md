@@ -7,4 +7,4 @@ chose provient d'un crime ou d'un délit.
 Constitue également un recel le fait, en connaissance de cause, de bénéficier,
 par tout moyen, du produit d'un crime ou d'un délit.
 
-Le recel est puni de cinq ans d'emprisonnement et de 2 500 000 F d'amende.
+Le recel est puni de cinq ans d'emprisonnement et de 375 000 euros d'amende.

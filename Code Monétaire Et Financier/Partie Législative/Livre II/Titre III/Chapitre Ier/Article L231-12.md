@@ -1,7 +1,7 @@
 Article L231-12
 ----
-Est puni d'une amende de soixante mille francs le fait, pour les dirigeants de
-la société de gestion :
+Est puni d'une amende de 9 000 euros le fait, pour les dirigeants de la société
+de gestion :
 
 1. De ne pas se conformer aux dispositions de l'article L. 214-72 ;
 

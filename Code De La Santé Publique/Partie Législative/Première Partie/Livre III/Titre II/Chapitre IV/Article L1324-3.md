@@ -1,6 +1,6 @@
 Article L1324-3
 ----
-Est puni d'un an d'emprisonnement et de 30 000 F d'amende le fait :
+Est puni d'un an d'emprisonnement et de 4500 euros d'amende le fait :
 
 1° D'offrir ou de vendre au public de l'eau en vue de l'alimentation humaine, y
 compris la glace alimentaire, sans s'être assuré que cette eau ou cette glace

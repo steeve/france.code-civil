@@ -33,7 +33,7 @@ qui garantissent la confidentialité de cette consultation.
 
 Le fait, pour toute personne, de diffuser un enregistrement ou une copie
 réalisée en application du présent article est puni d'un an d'emprisonnement et
-de 100 000 F d'amende.
+de 15 000 euros d'amende.
 
 A l'expiration d'un délai de cinq ans à compter de la date de l'extinction de
 l'action publique, l'enregistrement et sa copie sont détruits dans le délai d'un

@@ -41,7 +41,8 @@ affilié l'assuré social victime de l'accident recouvre une indemnité forfaita
 à la charge du tiers responsable et au profit du fonds national des accidents du
 travail de l'organisme national d'assurance maladie. Le montant de cette
 indemnité est égal au tiers des sommes dont le remboursement a été obtenu, dans
-les limites d'un montant maximum de 5 000 F et d'un montant minimum de 500 F.
+les limites d'un montant maximum de 760 euros et d'un montant minimum de 76
+euros.
 
 Cette indemnité est établie et recouvrée par la caisse selon les règles et sous
 les garanties et sanctions prévues au chapitre 3 du titre III et aux chapitres

@@ -1,7 +1,7 @@
 Article L716-9
 ----
-Sera puni de deux ans d'emprisonnement et de 1 000 000 F d'amende quiconque aura
-[*sanctions pénales*] :
+Sera puni de deux ans d'emprisonnement et de 150000 euros d'amende quiconque
+aura [*sanctions pénales*] :
 
 a) Reproduit, imité, utilisé, apposé, supprimé ou modifié une marque, une marque
 collective ou une marque collective de certification en violation des droits

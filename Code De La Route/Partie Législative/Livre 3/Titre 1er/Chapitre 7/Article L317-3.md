@@ -4,7 +4,7 @@ I. - Le fait de faire circuler, sur les voies ouvertes à la circulation publiqu
 un véhicule à moteur ou une remorque sans que ce véhicule soit muni des plaques
 ou inscriptions exigées par les règlements et, en outre, de déclarer un numéro,
 un nom ou un domicile autre que le sien ou que celui du propriétaire est puni de
-cinq ans d'emprisonnement et de 25 000 F d'amende.
+cinq ans d'emprisonnement et de 3 750 euros d'amende.
 
 II. - Toute personne coupable de cette infraction encourt également les peines
 complémentaires suivantes :

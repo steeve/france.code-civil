@@ -3,14 +3,14 @@ Article L514-11
 I. - Le fait d'exploiter une installation en infraction à une mesure de
 fermeture, de suppression ou de suspension prise en application des articles L.
 514-1, L. 514-2 ou L. 514-7 ou à une mesure d'interdiction prononcée en vertu
-des articles L. 514-9 ou L. 514-10 est puni de deux ans d'emprisonnement et de 1
-000 000 F d'amende.
+des articles L. 514-9 ou L. 514-10 est puni de deux ans d'emprisonnement et de
+150 000 euros d'amende.
 
 II. - Le fait de poursuivre l'exploitation d'une installation classée sans se
 conformer à l'arrêté de mise en demeure d'avoir à respecter, au terme d'un délai
 fixé, les prescriptions techniques déterminées en application des articles L.
 512-1, L. 512-3, L. 512-5, L. 512-7, L. 512-8, L. 512-9 ou L. 512-12 est puni de
-six mois d'emprisonnement et de 500 000 F d'amende.
+six mois d'emprisonnement et de 75 000 euros d'amende.
 
 Est puni des mêmes peines le fait de poursuivre l'exploitation d'une
 installation sans se conformer à un arrêté de mise en demeure pris en
@@ -21,5 +21,5 @@ III. - Le fait de ne pas se conformer à l'arrêté de mise en demeure de prendr
 dans un délai déterminé, les mesures de surveillance ou de remise en état d'une
 installation ou de son site prescrites en application des articles L. 512-3, L.
 512-5, L. 512-7, L. 512-9, L. 512-12, L. 514-2, L. 514-4 ou L. 514-7 lorsque
-l'activité a cessé est puni de six mois d'emprisonnement et de 500 000 F
+l'activité a cessé est puni de six mois d'emprisonnement et de 75 000 euros
 d'amende.

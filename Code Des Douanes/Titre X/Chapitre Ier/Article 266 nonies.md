@@ -3,95 +3,95 @@ Article 266 nonies
 1. Le montant de la taxe mentionnée à l'article 266 sexies est fixé comme suit :
 
 Désignation des matières ou opérations imposables, l'unité de perception est la
-tonne, la quotité est en francs.
+tonne, la quotité est en euros.
 
 Déchets.
 
 Déchets réceptionnés dans une installation de stockage de déchets ménagers et
-assimilés, 60.
+assimilés, 9,15.
 
 Déchets réceptionnés dans une installation de stockage de déchets ménagers et
 assimilés de provenance extérieure au périmètre du plan d'élimination des
 déchets, élaboré en vertu de l'article L. 541-14 du code de l'environnement,
-dans lequel est située l'installation de stockage, 90.
+dans lequel est située l'installation de stockage, 13,72.
 
 Déchets industriels spéciaux réceptionnés dans une installation d'élimination de
-déchets industriels spéciaux, 60.
+déchets industriels spéciaux, 9,15.
 
 Déchets réceptionnés dans une installation de stockage de déchets industriels
-spéciaux, 120.
+spéciaux, 18,29.
 
 Substances émises dans l'atmosphère.
 
-Oxydes de soufre et autres composés soufrés, 250.
+Oxydes de soufre et autres composés soufrés, 38,11.
 
-Acide chlorhydrique, 250.
+Acide chlorhydrique, 38,11.
 
-Protoxyde d'azote, 375.
+Protoxyde d'azote, 57,17.
 
 Oxydes d'azote et autres composés oxygénés de l'azote, à l'exception du
-protoxyde d'azote, 300.
+protoxyde d'azote, 45,73.
 
 Hydrocarbures non méthaniques, solvants et autres composés organiques volatils,
-250.
+38,11.
 
 Décollage d'aéronefs.
 
-Aérodromes du groupe 1, 68.
+Aérodromes du groupe 1, 10,37.
 
-Aérodromes du groupe 2, 25.
+Aérodromes du groupe 2, 3,81.
 
-Aérodromes du groupe 3, 5.
+Aérodromes du groupe 3, 0,76.
 
 Lubrifiants, huiles et préparations lubrifiantes dont l'utilisation génère des
 huiles usagées.
 
-Lubrifiants, huiles et préparations lubrifiantes, 250.
+Lubrifiants, huiles et préparations lubrifiantes, 38,11.
 
 Préparations pour lessives, y compris les préparations auxiliaires de lavage, et
 produits adoucissants et assouplissants pour le linge.
 
-- dont la teneur en phosphates est inférieure à 5 % du poids, 470.
+- dont la teneur en phosphates est inférieure à 5 % du poids, 71,65.
 
-- dont la teneur en phosphates est comprise entre 5 % et 30 % du poids, 520.
+- dont la teneur en phosphates est comprise entre 5 % et 30 % du poids, 79,27.
 
-- dont la teneur en phosphates est supérieur à 30 % du poids, 570.
+- dont la teneur en phosphates est supérieur à 30 % du poids, 86,90.
 
 Matériaux d'extraction.
 
-Matériaux d'extraction, 0,60.
+Matériaux d'extraction, 0,09.
 
 Substances classées dangereuses qui entrent dans la composition des produits
 antiparasitaires à usage agricole et des produits assimilés.
 
 Catégorie 1, 0.
 
-Catégorie 2, 2500.
+Catégorie 2, 381,12.
 
-Catégorie 3, 4000.
+Catégorie 3, 609,80.
 
-Catégorie 4, 5500.
+Catégorie 4, 838,47.
 
-Catégorie 5, 7000.
+Catégorie 5, 1067,14.
 
-Catégorie 6, 9000.
+Catégorie 6, 1372,04.
 
-Catégorie 7, 11000.
+Catégorie 7, 1676,94.
 
 Installations classées.
 
 Délivrance d'autorisation :
 
-- artisan n'employant pas plus de deux salariés, 2900.
+- artisan n'employant pas plus de deux salariés, 442,10.
 
-- autres entreprises inscrites au répertoire des métiers, 7000.
+- autres entreprises inscrites au répertoire des métiers, 1067,14.
 
-- autres entreprises, 14600.
+- autres entreprises, 2225,76.
 
-Exploitation au cours d'une année civile (tarif de base), 2200.
+Exploitation au cours d'une année civile (tarif de base), 335,39.
 
-2. Le montant minimal annuel de la taxe relative aux déchets est de 3000 F par
-installation.
+2. Le montant minimal annuel de la taxe relative aux déchets est de 450 euros
+par installation.
 
 3. La majoration applicable aux déchets réceptionnés dans une installation de
 stockage de déchets industriels spéciaux ne s'applique pas aux résidus de

@@ -1,8 +1,8 @@
 Article L231-11
 ----
-Est puni d'un emprisonnement de cinq ans et d'une amende de deux millions cinq
-cent mille francs le fait, pour les dirigeants de la société de gestion d'une
-société civile de placement immobilier :
+Est puni d'un emprisonnement de cinq ans et d'une amende de 375 000 euros le
+fait, pour les dirigeants de la société de gestion d'une société civile de
+placement immobilier :
 
 1. D'opérer la répartition de dividendes fictifs entre les associés ;
 
