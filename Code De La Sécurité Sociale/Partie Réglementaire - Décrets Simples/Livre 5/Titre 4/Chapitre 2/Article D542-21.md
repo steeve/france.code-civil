@@ -16,7 +16,11 @@ sécurité sociale, du ministre chargé du budget, du ministre chargé de
 l'agriculture et du ministre chargé du logement.
 
 Le loyer mensuel payé par les étudiants logés en résidence universitaire est
-réputé égal à 416 F .
+réputé égal à :
+
+431 F lorsqu'il s'agit d'une personne isolée ;
+
+669 F lorsqu'il s'agit d'un ménage.
 
 Ce montant est augmenté de la majoration forfaitaire représentative des charges.
 
@@ -32,9 +36,9 @@ budget, de la sécurité sociale et de l'agriculture.
 Dans le cas visé à l'alinéa précédent, il est fait application à chaque personne
 ou ménage concerné :
 
--du coefficient N correspondant à sa situation familiale ;
+- du coefficient N correspondant à sa situation familiale ;
 
--de l'élément C prévu à l'article D. 542-5 dans des conditions fixées par
+- de l'élément C prévu à l'article D. 542-5 dans des conditions fixées par
 l'arrêté mentionné à l'alinéa précédent.
 
 Lorsque le logement occupé est une chambre, le loyer principal effectivement
