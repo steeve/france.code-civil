@@ -21,6 +21,8 @@ Centre de détention de Bédenac (Charente-Maritime).
 
 Quartier centre de détention du centre pénitentiaire de Caen (Calvados).
 
+Quartier centre de détention du centre pénitentiaire de Borgo (Haute-Corse) ;
+
 Centre de détention de Casabianda (Haute-Corse).
 
 Centre de détention de Châteaudun (Eure-et-Loir).
