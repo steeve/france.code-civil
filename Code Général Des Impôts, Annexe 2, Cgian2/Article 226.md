@@ -7,7 +7,7 @@ opérer la déduction dans les conditions fixées par les articles 205 à 242 B 
 qu'elles détiennent en stock à la date à laquelle elles sont devenues redevables
 ;
 
-2° de la taxe ayant grevé les biens ne constituant des immobilisations qui n'ont
+2° de la taxe ayant grevé les biens constituant des immobilisations qui n'ont
 pas encore commencé à être utilisés à la date à laquelle elles sont devenues
 redevables ;
 
@@ -16,4 +16,4 @@ constituant des immobilisations en cours d'utilisation. Cette fraction est égal
 au montant de la taxe ayant grevé les biens, diminué d'un cinquième par année
 civile ou fraction d'année civile écoulée depuis la date à laquelle cette taxe
 est devenue exigible. Pour les immeubles, la diminution est calculée par
-dixièmes.
+vingtièmes (1).
