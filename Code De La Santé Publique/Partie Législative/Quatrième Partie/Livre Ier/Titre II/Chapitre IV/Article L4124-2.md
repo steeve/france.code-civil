@@ -1,0 +1,7 @@
+Article L4124-2
+----
+Les médecins, les chirurgiens-dentistes ou les sages-femmes chargés d'un service
+public et inscrits au tableau de l'ordre ne peuvent être traduits devant le
+conseil régional ou interrégional, à l'occasion des actes de leur fonction
+publique, que par le ministre chargé de la santé, le représentant de l'Etat dans
+le département ou le procureur de la République.

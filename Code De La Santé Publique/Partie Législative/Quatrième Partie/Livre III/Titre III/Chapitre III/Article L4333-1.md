@@ -1,0 +1,15 @@
+Article L4333-1
+----
+Un ergothérapeute ou un psychomotricien ne peut exercer sa profession que s'il
+est inscrit sur une liste dressée, pour chacune de ces professions, par le
+représentant de l'Etat dans le département de sa résidence professionnelle, qui
+enregistre son diplôme, son certificat ou son autorisation.
+
+Tout changement de résidence professionnelle hors des limites du département
+oblige à une nouvelle inscription et à la radiation de l'ancienne.
+
+L'inscription n'est possible que dans un seul département. Dans le cas où
+l'activité est exercée dans plusieurs départements, l'intéressé est inscrit sur
+la liste du département dans lequel est situé son lieu principal d'exercice
+professionnel. Cette disposition n'est pas applicable aux ergothérapeutes et aux
+psychomotriciens militaires.

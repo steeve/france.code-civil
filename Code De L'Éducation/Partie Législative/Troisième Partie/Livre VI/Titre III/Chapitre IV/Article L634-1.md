@@ -1,0 +1,19 @@
+Article L634-1
+----
+Le troisième cycle long des études odontologiques, dénommé internat en
+odontologie, a une durée de trois ans et est accessible par concours national
+aux étudiants ayant obtenu la validation du deuxième cycle des études
+odontologiques. Après validation de ce troisième cycle et soutenance d'une
+thèse, les internes obtiennent en plus du diplôme d'Etat de docteur en chirurgie
+dentaire une attestation d'études approfondies en chirurgie dentaire.
+
+Le titre d'ancien interne ne peut être utilisé que par les docteurs en chirurgie
+dentaire qui ont obtenu l'attestation mentionnée à l'alinéa précédent.
+
+Des décrets en Conseil d'Etat déterminent les modalités du concours de
+l'internat, le contenu des formations, le statut des internes en odontologie et
+les conditions dans lesquelles, au cours des études qui conduisent au diplôme
+d'Etat de docteur en chirurgie dentaire, les étudiants accomplissent des stages
+de formation et participent aux fonctions hospitalières dans les structures
+définies au chapitre 6 du titre IV du livre Ier de la partie VI du code de la
+santé publique, sous la responsabilité des chefs de ces structures.

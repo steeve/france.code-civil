@@ -1,0 +1,8 @@
+Article L4311-1
+----
+Est considérée comme exerçant la profession d'infirmière ou d'infirmier toute
+personne qui donne habituellement des soins infirmiers sur prescription ou
+conseil médical, ou en application du rôle propre qui lui est dévolu.
+
+L'infirmière ou l'infirmier participe à différentes actions, notamment en
+matière de prévention, d'éducation de la santé et de formation ou d'encadrement.

@@ -1,0 +1,21 @@
+Article L6121-9
+----
+Le Comité national et les comités régionaux de l'organisation sanitaire et
+sociale comprennent :
+
+1° Des représentants de l'Etat, des collectivités territoriales et des
+organismes de sécurité sociale ;
+
+2° Des représentants des institutions et des établissements de santé, des
+établissements sociaux, publics ou privés, notamment des établissements
+spécialisés ;
+
+3° Des représentants des personnels de ces institutions et établissements ;
+
+4° Des représentants des usagers de ces institutions et établissements ;
+
+5° Des représentants des professions de santé ;
+
+6° Des personnalités qualifiées.
+
+Ils comportent des sections.

@@ -1,0 +1,5 @@
+Article L3816-1
+----
+Les dispositions du titre unique du livre V de la présente partie, sous réserve
+de l'adaptation de l'article L. 3816-2 sont applicables dans la collectivité
+territoriale de Mayotte.

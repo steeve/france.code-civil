@@ -1,0 +1,9 @@
+Article L5131-5
+----
+La fabrication des produits cosmétiques doit être réalisée en conformité avec
+les bonnes pratiques de fabrication dont les principes sont définis par arrêté
+des ministres chargés de l'artisanat, de la consommation, de l'industrie et de
+la santé, pris sur proposition de l'Agence française de sécurité sanitaire des
+produits de santé. L'évaluation de la sécurité pour la santé humaine de ces
+produits doit être exécutée en conformité avec les bonnes pratiques de
+laboratoire dont les principes sont définis dans les mêmes conditions.
