@@ -17,5 +17,4 @@ de l'industriel avec un symbole.
 Le mot "doublé" en toutes lettres doit être empreint sur les médailles en métal
 commun doublé ou plaqué d'or ou d'argent.
 
-Le poinçon de maître doit être insculpé avant que les médailles sortent de
-l'atelier de frappe.
+Le poinçon de maître doit être apposé dès l'achèvement de la fabrication.

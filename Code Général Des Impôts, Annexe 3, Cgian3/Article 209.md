@@ -1,7 +1,5 @@
 Article 209
 ----
-Lorsqu'un fabricant meurt, son poinçon est remis, dans les cinquante jours du
-décès [*délai*], au bureau de garantie dont il dépendait, pour y être biffé.
-
-Pendant ce temps, le dépositaire du poinçon est responsable de l'usage qui
-pourrait en être fait, comme le sont les fabricants en exercice.
+En cas de décès d'un fabricant, son poinçon de responsabilité est remis par son
+dépositaire, dans un délai de trois mois, au bureau de garantie dont il
+dépendait.

@@ -1,4 +1,4 @@
 Article 210
 ----
-Si un fabricant cesse le commerce, il remet son poinçon au bureau de garantie,
-pour y être biffé devant lui.
+En cas de cessation d'activité, le fabricant remet son poinçon de responsabilité
+au bureau de garantie dans un délai de trente jours.

@@ -1,4 +1,5 @@
 Article 189
 ----
-Le service des impôts surveille les bureaux de garantie; il perçoit le droit de
-garantie.
+L'essai est effectué au touchau. Il peut également être procédé à un essai à la
+coupelle ou à un essai par la voie humide lorsque le bureau de garantie l'estime
+nécessaire.
