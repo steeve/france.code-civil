@@ -105,3 +105,15 @@ invalidité-décès.
 20°) Les vendeurs à domicile visés au I de l'article 3 de la loi n° 93-121 du 27
 janvier 1993 portant diverses mesures d'ordre social, non immatriculés au
 registre du commerce ou au registre spécial des agents commerciaux.
+
+21°) Les personnes qui exercent à titre occasionnel pour le compte de l'Etat,
+d'une collectivité territoriale ou d'un de leurs établissements publics
+administratifs, ou d'un organisme privé chargé de la gestion d'un service public
+à caractère administratif, une activité dont la rémunération est fixée par des
+dispositions législatives ou réglementaires ou par décision de justice. Un
+décret précise les types d'activités et de rémunérations en cause.
+
+Toutefois, ces dispositions ne sont pas applicables, sur leur demande, dans des
+conditions fixées par décret, aux personnes exerçant à titre principal une des
+professions visées à l'article L. 621-3, lorsque les activités occasionnelles
+visées ci-dessus en sont le prolongement.

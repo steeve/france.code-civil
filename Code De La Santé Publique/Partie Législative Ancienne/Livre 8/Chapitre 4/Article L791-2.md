@@ -22,4 +22,7 @@ maladie, à l'exception des médicaments ;
 5° De proposer toute mesure contribuant au développement de l'évaluation,
 notamment en ce qui concerne la formation des professionnels de santé ;
 
-6° De diffuser ses travaux et de favoriser leur utilisation.
+6° De diffuser ses travaux et de favoriser leur utilisation ;
+
+7° D'apporter son concours à la mise en oeuvre d'actions d'évaluation des soins
+et pratiques professionnelles.

@@ -1,7 +1,7 @@
 Article L135-2
 ----
-Les dépenses prises en charge par le fonds visé à l'article L. 135-1 sont les
-suivantes :
+Les dépenses prises en charge par le Fonds de solidarité vieillesse au titre du
+premier alinéa de l'article L. 135-1 sont les suivantes :
 
 1° Le financement des allocations aux personnes âgées mentionnées :
 

@@ -20,8 +20,8 @@ Les tableaux mentionnés aux alinéas précédents peuvent être révisés et co
 par des décrets en Conseil d'Etat, après avis du conseil supérieur de la
 prévention des risques professionnels. Chaque décret fixe la date à partir de
 laquelle sont exécutées les modifications et adjonctions qu'il apporte aux
-tableaux. Par dérogation aux dispositions de l'article L. 461-1, ces
-modifications et adjonctions sont applicables aux victimes dont la maladie a
+tableaux. Par dérogation aux dispositions du dernier alinéa du présent article,
+ces modifications et adjonctions sont applicables aux victimes dont la maladie a
 fait l'objet d'une première constatation médicale entre la date prévue à
 l'article L. 412-1 et la date d'entrée en vigueur du nouveau tableau, sans que
 les prestations, indemnités et rentes ainsi accordées puissent avoir effet
@@ -35,5 +35,6 @@ commun.
 A partir de la date à laquelle un travailleur a cessé d'être exposé à l'action
 des agents nocifs inscrits aux tableaux susmentionnés, la caisse primaire et la
 caisse régionale ne prennent en charge, en vertu des dispositions du deuxième
-alinéa de l'article L. 461-1, les maladies correspondant à ces travaux que
-pendant le délai fixé à chaque tableau.
+alinéa de l'article L. 461-1, les maladies correspondant à ces travaux que si la
+première constatation médicale intervient pendant le délai fixé à chaque
+tableau.

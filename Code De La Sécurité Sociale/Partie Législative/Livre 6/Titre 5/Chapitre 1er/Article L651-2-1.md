@@ -11,15 +11,10 @@ solidarité attribués au titre des exercices antérieurs ou à titre d'acomptes
 provisionnels.
 
 Le cas échéant, le solde du produit de la contribution résultant de
-l'application des dispositions de l'alinéa précédent est réparti entre les
-autres régimes d'assurance vieillesse mentionnés à l'article L. 651-1 au prorata
-des acomptes perçus par ces régimes au cours et au titre de l'année précédente
-pour la compensation prévue à l'article L. 134-1 et dans la limite de leurs
-déficits comptables, compte non tenu des subventions de l'Etat ni des montants
-de contribution sociale de solidarité attribués au titre des exercices
-antérieurs ou à titre d'acomptes provisionnels.
+l'application des dispositions de l'alinéa précédent est versé au Fonds de
+solidarité vieillesse mentionné à l'article L. 135-1.
 
 Un arrêté du ministre chargé de la sécurité sociale et du ministre chargé du
 budget fixe les montants de contribution sociale de solidarité ainsi répartis
-entre les régimes bénéficiaires. Cette répartition peut faire l'objet d'acomptes
-provisionnels.
+entre les régimes bénéficiaires et le Fonds de solidarité vieillesse. Cette
+répartition peut faire l'objet d'acomptes provisionnels.

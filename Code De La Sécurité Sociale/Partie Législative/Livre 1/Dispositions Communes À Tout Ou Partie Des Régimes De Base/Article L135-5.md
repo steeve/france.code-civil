@@ -1,8 +1,6 @@
 Article L135-5
 ----
-La part des contributions sociales qui revient au fonds en application du 1° de
-l'article L. 135-3 lui est versée, dans des conditions fixées par décret, par
-l'Agence centrale des organismes de sécurité sociale s'agissant du produit
-correspondant à la contribution sociale mentionnée à l'article L. 136-1 et par
-l'Etat s'agissant du produit correspondant aux contributions sociales
-mentionnées aux articles L. 136-6 et L. 136-7.
+Les frais d'assiette et de recouvrement des impôts, droits, taxes et
+contributions mentionnés à l'article L. 135-3 sont à la charge du fonds en
+proportion du produit qui lui est affecté ; leur montant est fixé par arrêté du
+ministre chargé du budget et du ministre chargé de la sécurité sociale.

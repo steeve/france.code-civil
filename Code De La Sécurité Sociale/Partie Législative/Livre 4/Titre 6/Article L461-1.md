@@ -2,9 +2,9 @@ Article L461-1
 ----
 Les dispositions du présent livre sont applicables aux maladies d'origine
 professionnelle sous réserve des dispositions du présent titre. En ce qui
-concerne les maladies professionnelles, la date de la première constatation
-médicale de la maladie est assimilée à la date de l'accident, sous réserve des
-dispositions du quatrième alinéa de l'article L. 461-2.
+concerne les maladies professionnelles, la date à laquelle la victime est
+informée par un certificat médical du lien possible entre sa maladie et une
+activité professionnelle est assimilée à la date de l'accident.
 
 Est présumée d'origine professionnelle toute maladie désignée dans un tableau de
 maladies professionnelles et contractée dans les conditions mentionnées à ce

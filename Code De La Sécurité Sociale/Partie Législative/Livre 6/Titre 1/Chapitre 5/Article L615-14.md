@@ -27,10 +27,13 @@ soins et de cure, publics ou privés ;
 ministre chargé de la sécurité sociale et du ministre chargé de la santé ;
 
 10°) des frais de transport dans les conditions prévues par le 2° de l'article
-L. 321-1.
+L. 321-1 ;
 
 11°) des frais afférents aux examens médicaux [*prénuptiaux*] prescrits en
-application de l'article L. 153 du code de la santé publique.
+application de l'article L. 153 du code de la santé publique ;
+
+12°) Des frais relatifs aux actes d'investigation exécutés ou réalisés à des
+fins de dépistage.
 
 Font également partie des prestations de base :
 
@@ -55,4 +58,8 @@ l'article 5 de la loi n° 75-534 du 30 juin 1975 ;
 concourant à l'éducation ou à la rééducation, à la réadaptation et au
 reclassement des adultes handicapés, en conformité des décisions prises par la
 commission technique d'orientation et de reclassement professionnel prévue à
-l'article L. 323-11 du code du travail.
+l'article L. 323-11 du code du travail ;
+
+5° La couverture des frais relatifs aux examens de dépistage effectués dans le
+cadre de programmes arrêtés en application des dispositions de l'article L. 55
+du code de la santé publique.

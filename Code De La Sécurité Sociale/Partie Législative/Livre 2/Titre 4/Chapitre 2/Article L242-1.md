@@ -35,3 +35,12 @@ un montant fixé par décret.
 Les personnes visées au 20° de l'article L. 311-3 qui procèdent par achat et
 revente de produits ou de services sont tenues de communiquer le pourcentage de
 leur marge bénéficiaire à l'entreprise avec laquelle elles sont liées.
+
+Sont également pris en compte, dans les conditions prévues à l'article L.
+242-11, les revenus tirés de la location de tout ou partie d'un fonds de
+commerce, d'un établissement artisanal, ou d'un établissement commercial ou
+industriel muni du mobilier ou du matériel nécessaire à son exploitation, que la
+location, dans ce dernier cas, comprenne ou non tout ou partie des éléments
+incorporels du fonds de commerce ou d'industrie, lorsque ces revenus sont perçus
+par une personne qui réalise des actes de commerce au titre de l'entreprise
+louée ou y exerce une activité.
