@@ -1,220 +1,90 @@
 Article R343-2
 ----
-Comptes de valeurs immobilisées.
+Comptes financiers.
 
-20. Frais de constitution.
+50. Emprunts à moins d'un an.
 
-200. Frais de constitution.
+502. Emprunts pour cautionnements.
 
-2008. Amortissement.
+5020. En France.
 
-201. Frais d'établissement.
+5029. En France.
 
-2010. Frais de prospection.
+503. Autres emprunts.
 
-2011. Frais de recherches.
+5030. En France.
 
-2012. Frais d'études.
+5039. A l'étranger.
 
-2013. Frais de publicité.
+509. Avances de l'Etat.
 
-2018. Amortissement.
+51. Prêts non affectables à la représentation des engagements réglementés.
 
-202. Frais d'augmentation de capital ou de fonds d'établissement ou de fonds
-social complémentaire.
+513. Prêts aux coopératives ou sociétés d'économie mixte de construction de
+logements non garantis en totalité par les départements et communes.
 
-2020. Frais.
+516. Prêts aux Etats étrangers, organismes étrangers ou internationaux.
 
-2028. Amortissement.
+517. Prêts à l'étranger.
 
-203. Frais d'émission d'obligations.
+518. Autres prêts.
 
-2030. Frais.
+519. Provision pour dépréciation des prêts.
 
-2038. Amortissement.
+52. Effets à payer.
 
-204. Frais d'acquisition des immobilisations.
+53. Effets à recevoir.
 
-2040. Terrains non construits.
+54. Chèques et coupons à encaisser.
 
-2042. Immeubles bâtis.
+540. Chèques.
 
-2047. Immobilisations incorporelles.
+545. Coupons et intérêts échus et non recouvrés.
 
-2048. Amortissement.
+55. Titres de placement non émunérés aux articles R. 332-2 et R. 332-9.
 
-20480. Terrains non construits.
+550. Titres cotés, partie libérée, en France.
 
-20482. Immeubles bâtis.
+552. Titres non cotés, partie libérée, en France.
 
-20487. Immobilisations incorporelles.
+553. Parts de SARL en France.
 
-205. Frais d'acquisition des contrats, précomptés.
+554. Titres émis par la société et rachetés par elle.
 
-2050. Commissions à amortir sur affaires directes (art. R. 332-33).
+556. Titres cotés, partie non libérée, en France.
 
-2051. Compte spécial à amortir sur affaires directes (art. R. 322-9 et R.
-322-76).
+557. Titres non cotés, partie non libérée, en France.
 
-2053. Commissions à amortir sur autres affaires.
+558. Valeurs à l'étranger.
 
-2057. Commissions à amortir sur acceptations.
+559. Provision pour dépréciation des titres de placement.
 
-2058. Amortissement.
+56. Banques et chèques postaux.
 
-20580. Commissions à amortir sur affaires directes (art. R. 332-33).
+560. Banque de France.
 
-20581. Compte spécial à amortir sur affaires directes (art. R. 322-9 et R.
-322-76).
+562. Autres banques en France.
 
-20583. Commissions à amortir sur autres affaires.
+564. Comptes du Trésor en France.
 
-20587. Commissions à amortir sur acceptations.
+565. Chèques postaux en France.
 
-206. Primes de remboursement des obligations émises par l'entreprise.
+566. Comptes dans les caisses des établissements publics en France.
 
-2060. Primes.
+567. Autres établissements en France.
 
-2068. Amortissement.
+568. Banques à l'étranger.
 
-209. Frais d'acquisition des immobilisations d'exploitation.
+569. Autres établissements à l'étranger.
 
-2094. Frais d'acquisition.
+57. Caisse.
 
-2098. Amortissement.
+570. Siège social.
 
-21. Immobilisations en France.
+571. Succursales (France).
 
-210. Terrains non construits.
+578. Succursales (étranger).
 
-2100. Terrains.
+59. Virements internes.
 
-2102. Forêts et exploitations rurales.
-
-2109. Provision pour dépréciation des terrains.
-
-21090. Terrains.
-
-21092. Forêts et exploitations rurales.
-
-212. Immeubles bâtis.
-
-2120. Immeubles.
-
-2128. Amortissement.
-
-2129. Provision pour dépréciation.
-
-213. Parts et actions de sociétés immobilières non cotées.
-
-2131. Partie libérée des parts et actions de sociétés immobilières.
-
-2132. Partie non libérée des parts et actions de sociétés immobilières.
-
-2138. Amortissement.
-
-2139. Provision pour dépréciation.
-
-214. Matériel.
-
-2140. Matériels électroniques et mécanographiques.
-
-2142. Autres matériels.
-
-2148. Amortissement.
-
-215. Matériel de transport.
-
-2150. Véhicules automobiles.
-
-2158. Amortissement.
-
-216. Autres immobilisations corporelles.
-
-2160. Mobilier et matériel de bureau.
-
-2162. Agencements, aménagements, installations.
-
-2168. Amortissement.
-
-218. Immobilisations incorporelles.
-
-2180. Fonds de commerce et droit au bail.
-
-2189. Provision pour dépréciation.
-
-219. Immobilisations d'exploitation.
-
-2190. Terrains non construits.
-
-21902. Terrains divers.
-
-21904. Terrains pour oeuvres sociales.
-
-21909. Provision pour dépréciation.
-
-2192. Immeubles bâtis.
-
-21920. Siège social.
-
-21921. Bureaux décentralisés.
-
-21922. Divers.
-
-21924. Immeubles pour oeuvres sociales.
-
-21928. Amortissement.
-
-21929. Provision pour dépréciation.
-
-2193. Parts et actions de sociétés immobilières.
-
-21931. Partie libérée.
-
-21932. Partie non libérée.
-
-21938. Amortissement.
-
-21939. Provision pour dépréciation.
-
-2198. Immobilisations incorporelles.
-
-21981. Immobilisations diverses.
-
-21989. Provision pour dépréciation.
-
-22. Immobilisations en cours en France.
-
-220. Terrains affectés à une construction en cours.
-
-2200. Terrains.
-
-2209. Provision pour dépréciation des terrains.
-
-222. Immeubles en cours de construction.
-
-2220. Immeubles.
-
-2229. Provision pour dépréciation des immeubles.
-
-223. Parts et actions de sociétés immobilières (immeubles en cours).
-
-2231. Partie libérée des parts et actions de sociétés immobilières.
-
-2232. Partie non libérée des parts et actions de sociétés immobilières.
-
-2239. Provision pour dépréciation.
-
-224. Avances aux sociétés immobilières.
-
-228. Avances et acomptes sur commandes d'immobilisations.
-
-229. Immobilisations d'exploitation.
-
-2290. Terrains.
-
-2292. Immeubles bâtis.
-
-2293. Parts et actions de sociétés immobilières.
-
-2299. Provision pour dépréciation.
+590. Virements de fonds.

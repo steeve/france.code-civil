@@ -16,8 +16,6 @@ Part restant à rembourser de l'emprunt (1016) (1).
 
 - Fonds social complémentaire (102) (1).
 
-(1) Emprunts mentionnés à l'article R. 334-2.
-
 11. Réserves :
 
 - Primes d'émission (110).
@@ -39,8 +37,6 @@ Part restant à rembourser de l'emprunt (1016) (1).
 13. Réserves réglementées :
 
 - Réserve pour remboursement de l'emprunt pour fonds d'établissement (130).
-
-- Réserve de garantie (132).
 
 - Réserve pour fluctuations de change (134).
 
@@ -64,17 +60,16 @@ Total des capitaux propres et réserves.
 
 - Emprunts et autres dettes à plus d'un an (16).
 
-- Dettes pour valeurs et espèces remises par les cessionnaires et
-rétrocessionnaires (18).
+- Dettes pour espèces remises par les cessionnaires et rétrocessionnaires (18).
 
 Total des subventions, provisions pour pertes et charges et dettes à long et
 moyen terme.
 
 31 à 38. Provisions techniques :
 
-- Primes (310, 320, 330, 340, 360, 3810, 3820, 3840, 3850).
+- Primes (310, 320, 330, 340, 350, 360, 3810, 3820, 3840, 3850).
 
-- Sinistres (315, 3250 à 3258, 335, 345, 355, 365, 3815, 3825, 3845, 3855).
+- Sinistres (315, 3250 à 3258, 335, 345, 355, 365, 3825, 3845, 3855).
 
 - Moins : prévision de recours à encaisser (3259).
 
@@ -85,11 +80,13 @@ Total des provisions techniques.
 
 4 et 5. Dettes à court terme :
 
-Comptes courants des cessionnaires et rétrocessionnaires créditeurs (4001).
+- Comptes courants des cessionnaires et rétrocessionnaires créditeurs (4001).
 
-Comptes courants des cédants et rétrocédants créditeurs (4041).
+- Comptes courants des cédants et rétrocédants créditeurs (4041).
 
-Comptes courants des coassureurs créditeurs (4081).
+- Comptes courants des coassureurs créditeurs (4081).
+
+(1) Emprunts mentionnés à l'article R. 334-2.
 
 Comptes des agents et assurés créditeurs (41) (1).
 
@@ -115,18 +112,19 @@ Total des dettes à court terme.
 
 17. Compte avec le siège social (dettes).
 
-87. Résultats (excédent avant affectation).
+57. Résultats (excédent avant affectation).
 
 Total général.
 
-07. Engagements de restitution de valeurs détenues appartenant à des tiers.
+06. Engagements de restitution des valeurs reçues en nantissement des
+cessionnaires et rétrocessionnaires.
 
-09. Engagements de restitution de valeurs détenues appartenant à des
-institutions de prévoyance régies par l'article L. 4 du code général de sécurité
+07. Engagements de restitution des valeurs détenues appartenant à des
+institutions de prévoyance régies par l'article L. 4 du code de la sécurité
 sociale.
 
-[*(1) Total des comptes divisionnaires ou sous-comptes dont le solde est
-créditeur. Certains comptes figurant à la fois à l'actif et au passif, leurs
-soldes pouvant être soit débiteurs, soit créditeurs (418, 428, 436, 438, 445,
-446, 450, 455, 462 à 468). D'autres comptes se balancent et n'ont pas figurer au
-bilan (59...)*].
+08. Engagements de restitution des autres valeurs remises par des organismes
+réassurés avec caution solidaire ou avec substitution.
+
+09. Engagements de restitution des autres valeurs détenues appartenant à des
+tiers.

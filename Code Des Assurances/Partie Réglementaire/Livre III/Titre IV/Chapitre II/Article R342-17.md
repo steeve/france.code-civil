@@ -22,12 +22,11 @@ B 2 Détail des primes par combinaisons ou sous-catégories.
 
 B 3 Primes et résultats des acceptations et des cessions en réassurance.
 
-B 4 Eléments d'actif représentant les provisions techniques et les
-cautionnements et montant de ces provisions et cautionnements.
+B 4 Eléments d'actif représentant les engagements réglementés et les
+cautionnements et montant de ces engagements et cautionnements. A 5 Liste
+détaillée des placements.
 
-A 5 Liste détaillée des placements.
-
-B 6 Récapitulations des placements.
+B 6 Récapitulation des placements.
 
 B 7 Avoirs et engagements en France.
 
@@ -52,10 +51,9 @@ B 23 Détail des provisions mathématiques pour risques en cours. B 24 Détail p
 pays des provisions mathématiques pour risques en cours.
 
 A 25 Participation des assurés sur la vie ou des porteurs de contrats de
+capitalisation aux résultats techniques et financiers. B 26 Etat justificatif de
+la participation des assurés sur la vie ou des porteurs de contrats de
 capitalisation aux résultats techniques et financiers.
-
-B 26 Etat justificatif de la participation des assurés sur la vie ou des
-porteurs de contrats de capitalisation aux résultats techniques et financiers.
 
 B 27 Etat concernant les opérations de coassurance communautaire. Les
 entreprises doivent ajouter des rubriques à celles des tableaux modèles chaque
