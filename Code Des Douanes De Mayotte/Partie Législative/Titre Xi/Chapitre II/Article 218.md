@@ -1,11 +1,9 @@
 Article 218
 ----
-Ils peuvent décerner contrainte :
+Toute contestation de la créance doit être adressée à l'autorité qui a signé
+l'avis de mise en recouvrement dans les trois ans qui suivent sa notification.
 
-1° Dans le cas où un agent des douanes qui est destitué de son emploi ou qui le
-quitte ne remet pas immédiatement à son administration sa commission d'emploi,
-les registres, sceaux, armes et objets d'équipement dont il est chargé pour son
-service ou ne rend pas ses comptes :
-
-2° Dans le cas d'inobservation totale ou partielle des obligations mentionnées à
-l'article 99.
+Le chef du service des douanes statue sur la contestation dans un délai de six
+mois à compter de sa réception. En cas de saisine de la commission de
+conciliation et d'expertise douanière, ce délai part du jour de la notification
+aux parties de l'avis rendu par la commission.
