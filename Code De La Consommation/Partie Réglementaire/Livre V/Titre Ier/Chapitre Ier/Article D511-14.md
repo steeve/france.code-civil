@@ -1,6 +1,5 @@
 Article D511-14
 ----
-En séance plénière, chaque collège vote séparément.
-
-Les modalités du vote sont précisées dans le règlement intérieur prévu par
-l'article D. 511-16.
+En séance plénière, chaque collège vote séparément et par un vote global sur les
+travaux du Conseil national de la consommation réalisés au cours de l'année et
+validés par le bureau.
