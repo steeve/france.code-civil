@@ -1,5 +1,8 @@
 Article R*234-2
 ----
-Les communes admises au bénéfice de la dotation de fonctionnement minimale
-percevront, au moins, une somme égale à 750 F. ---Cette somme est réévaluée
-chaque année après avis du comité des finances locales.
+Le potentiel fiscal des groupements de communes bénéficiant des dispositions des
+douzième et seizième alinéas de l'article L. 234-17 est égal à la somme des
+bases des taxes directes locales des communes membres de chaque groupement
+concerné, déterminées dans les conditions prévues par l'article L. 234-6,
+pondérées par le taux moyen national d'imposition à la taxe concernée constaté
+pour chacune des catégories de groupements. "
