@@ -6,4 +6,4 @@ elle doit disposer pour satisfaire à la réglementation en vigueur. Ce fonds es
 alimenté par des emprunts contractés en vue de financer un plan d'amélioration
 de l'exploitation ou un plan de développement à moyen ou long terme. Les
 sociétaires peuvent être tenus de souscrire aux emprunts dans les conditions
-prévues à l'article R. 322-74.
+prévues à l'article R. 322-80-1.

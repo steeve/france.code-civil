@@ -1,13 +1,19 @@
 Article R322-78
 ----
-En cas de force majeure résultant d'intempéries ou d'épizooties d'un caractère
-exceptionnel, un décret pris sur le rapport du ministre de l'économie et des
-finances et du ministre de l'agriculture, peut autoriser une ou plusieurs
-sociétés régies par la présente section, après épuisement de leurs ressources
-disponibles, à n'effectuer immédiatement qu'un règlement partiel des sinistres
-dus à ces causes. Les sociétés qui ont obtenu cette autorisation doivent
-affecter par priorité tous les excédents de recettes constatés ultérieurement,
-au paiement du solde de l'indemnité restant dû à chaque ayant droit.
+Dans tous les prospectus, affiches, circulaires, notices, annonces ou documents
+quelconques relatifs aux emprunts des sociétés, il doit être rappelé de manière
+explicite qu'un privilège est institué au profit des assurés par l'article L.
+327-2 et indiqué que le prêteur, même s'il est assuré, ne bénéficie d'aucun
+privilège pour les intérêts et le remboursement de cet emprunt. Cette mention
+doit figurer également en caractères apparents sur les titres d'emprunts.
 
-Les dispositions du présent article ne s'appliquent pas aux sociétés pratiquant
-une ou plusieurs des branches mentionnées aux 20 à 26 de l'article R. 321-1.
+Il est porté chaque année dans les charges de l'entreprise une somme constante
+destinée au paiement des intérêts et au remboursement des emprunts ou à la
+constitution de la réserve pour amortissement des emprunts. Sur autorisation de
+la commission de contrôle des assurances, il peut, pendant les cinq années
+suivant la date d'émission de l'emprunt, être dérogé à cette obligation.
+Celle-ci ne s'applique pas aux emprunts contractés pour la constitution et,
+éventuellement, l'alimentation du fonds social complémentaire, ni aux titres et
+emprunts subordonnés, pour autant qu'ils entrent dans la constitution de la
+marge de solvabilité en application des articles R. 334-3 et R. 334-11 du
+présent code.

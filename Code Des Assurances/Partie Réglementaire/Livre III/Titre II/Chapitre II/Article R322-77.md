@@ -1,10 +1,6 @@
 Article R322-77
 ----
-Il ne peut être procédé à des répartitions d'excédents de recettes qu'après
-constitution des réserves et provisions prescrites par les lois et règlements en
-vigueur, après amortissement intégral des dépenses d'établissement et après que
-les dispositions réglementaires concernant la marge de solvabilité aient été
-satisfaites.
-
-La commission de contrôle des assurances peut s'opposer à une affectation
-d'excédents aux réserves libres.
+Les sociétés d'assurance mutuelles ne peuvent emprunter que pour financer le
+développement des activités d'assurance ou renforcer leur marge de solvabilité
+et dans les conditions et selon les modalités définies par les articles R.
+322-78 à R. 322-80-1, sous réserve des dispositions de l'article R. 322-105.
