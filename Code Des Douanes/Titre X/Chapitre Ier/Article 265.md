@@ -96,7 +96,7 @@ a) Gazole :
 
 sous conditions d'emploi (fioul domestique) : indice 20, hectolitre, 5,66.
 
-présentant un point d'éclair inférieur à 120° C : indice 22, hectolitre, 39,19.
+présentant un point d'éclair inférieur à 120° C : indice 22, hectolitre, 41,69.
 
 autre : indice 23, hectolitre, exemption.
 
