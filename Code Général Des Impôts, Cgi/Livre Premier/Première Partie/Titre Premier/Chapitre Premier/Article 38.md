@@ -54,15 +54,15 @@ initialement comptabilisés sont déterminés à la clôture de chaque exercice 
 fonction du dernier cours de change et pris en compte pour la détermination du
 résultat imposable de l'exercice.
 
-Lorsque des établissements de crédit ou des maisons de titres mentionnés à
-l'article 38 bis A évaluent les titres libellés en monnaie étrangère à la
-clôture de chaque exercice en fonction du dernier cours de change connu, les
-écarts de conversion constatés sont pris en compte pour la détermination du
-résultat imposable de l'exercice. A la clôture de chaque exercice, le prix de
-revient des titres est augmenté ou diminué, selon les cas, des écarts de
-conversion mentionnés à ce même alinéa. Ces dispositions sont applicables aux
-écarts de change relatifs à la période postérieure à l'ouverture du premier
-exercice clos à compter du 31 décembre 1990.
+Lorsque des établissements de crédit mentionnés à l'article 38 bis A évaluent
+les titres libellés en monnaie étrangère à la clôture de chaque exercice en
+fonction du dernier cours de change connu, les écarts de conversion constatés
+sont pris en compte pour la détermination du résultat imposable de l'exercice. A
+la clôture de chaque exercice, le prix de revient des titres est augmenté ou
+diminué, selon les cas, des écarts de conversion mentionnés à ce même alinéa.
+Ces dispositions sont applicables aux écarts de change relatifs à la période
+postérieure à l'ouverture du premier exercice clos à compter du 31 décembre
+1990.
 
 5. Le profit ou la perte résultant de cessions de titres par un fonds commun de
 placement est compris dans le résultat de l'exercice au cours duquel les parts
@@ -185,10 +185,10 @@ de l'acquisition. Le prix s'entend de la valeur actuelle pour les obligations.
 
 2° La différence entre la valeur actuelle d'une obligation assortie de droits de
 souscription et sa valeur de remboursement est considérée, pour l'imposition du
-souscripteur, comme une prime de remboursement. Toutefois celle-ci n'est soumise
-aux dispositions du paragraphe I de l'article 238 septies B du code général des
-impôts que si son montant excède 15 p. 100 de la valeur actuelle de
-l'obligation.
+souscripteur, comme une prime de remboursement. Toutefois, pour les titres émis
+avant le 1er janvier 1993, celle-ci n'est soumise aux dispositions du paragraphe
+I de l'article 238 septies B du code général des impôts que si son montant
+excède 15 p. 100 de la valeur actuelle de l'obligation.
 
 3° Les sommes reçues par une entreprise lors de l'émission de droits de
 souscription ou d'acquisition de valeurs mobilières sont comprises dans ses

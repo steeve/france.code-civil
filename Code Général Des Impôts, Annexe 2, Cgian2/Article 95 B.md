@@ -1,19 +1,5 @@
 Article 95 B
 ----
-Les intermédiaires agréés mentionnés aux articles 199 quinquies et 199 quinquies
-C du code général des impôts sont :
-
-1° La Banque de France ;
-
-La Caisse des dépôts et consignations ;
-
-Les établissements de crédit ;
-
-Les sociétés de bourse ;
-
-Les établissements visés à l'article 99 de la loi 84-46 du 24 janvier 1984
-relative à l'activité et au contrôle des établissements de crédit ;
-
 2° Les entreprises gérant des valeurs acquises dans le cadre de la législation
 sur les plans d'épargne d'entreprise ou de l'actionnariat des salariés ;
 
