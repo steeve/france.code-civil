@@ -7,8 +7,8 @@ elles opèrent et localisés sur le territoire de ces pays.
 
 Il en est de même lorsque les engagements réglementés des entreprises établies
 en France résultent d'opérations réalisées en libre prestation de services au
-sens de l'article L. 351-1 et que le pays de situation du risque subordonne
-l'exercice de ces opérations à agrément.
+sens des articles L. 351-1 et L. 353-1 et que le pays de situation du risque ou
+de l'engagement subordonne l'exercice de ces opérations à agrément.
 
 Les cautionnements ou garanties qui pourraient être exigés par lesdits pays ou
 par les sociétés cédantes desdits pays peuvent être représentés dans les

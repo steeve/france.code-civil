@@ -14,8 +14,7 @@ pratiquer et la nature des risques qu'elle se propose de garantir en libre
 prestation de services ;
 
 b) Les conditions générales et spéciales des polices d'assurance ainsi que les
-formulaires et autres imprimés qu'elle se propose de diffuser auprès du service
-public ;
+formulaires et autres imprimés qu'elle se propose de diffuser auprès du public ;
 
 c) Les bases tarifaires que l'entreprise envisage d'appliquer pour chaque
 catégorie d'opérations.
