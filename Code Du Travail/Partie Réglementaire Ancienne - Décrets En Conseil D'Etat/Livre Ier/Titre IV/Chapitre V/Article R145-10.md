@@ -1,15 +1,17 @@
 Article R145-10
 ----
-Si le jugement est rendu par défaut, avis de ses dispositions est transmis par
-le greffier à la partie défaillante par lettre recommandée dans les trois jours
-[*délai*] du prononcé.
+La demande est formée par requête remise ou adressée au secrétariat-greffe par
+le créancier.
 
-L'opposition n'est recevable que dans les quinze jours de la date de remise de
-cette lettre. Elle consiste dans une déclaration au greffe du tribunal
-d'instance, laquelle est consignée sur les fiches individuelles prévues à
-l'article R. 145-20.
+Cette requête contient [*mentions obligatoires*] :
 
-Toutes parties intéressées sont prévenues par lettre recommandée du greffier,
-pour la prochaine audience utile, en observant les délais de l'article R. 145-3
-[*huit jours à partir de la date de remise*]. Le jugement qui intervient est
-réputé contradictoire.
+1° Les nom et adresse du débiteur ;
+
+2° Les nom et adresse de son employeur ;
+
+3° Le décompte distinct des sommes réclamées en principal, frais et intérêts
+échus ainsi que l'indication du taux des intérêts ;
+
+4° Les indications relatives aux modalités de versement des sommes saisies ;
+
+Une copie du titre exécutoire est jointe à la requête.

@@ -1,7 +1,7 @@
 Article R145-19
 ----
-Les frais de saisie-arrêt et de distribution sont à la charge du débiteur saisi.
-Ils sont prélevés sur la somme à distribuer.
+L'acte de saisie est notifié à l'employeur.
 
-Tous frais de contestation jugée mal fondée sont mis à la charge de la partie
-qui succombe.
+Il en est donné copie au débiteur saisi par lettre simple avec l'indication
+qu'en cas de changement d'employeur, la saisie sera poursuivie entre les mains
+du nouvel employeur.

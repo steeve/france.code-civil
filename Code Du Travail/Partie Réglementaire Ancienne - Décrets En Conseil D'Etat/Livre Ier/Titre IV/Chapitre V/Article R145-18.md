@@ -1,12 +1,18 @@
 Article R145-18
 ----
-Le juge d'instance qui a autorisé la saisie-arrêt reste compétent, même lorsque
-le débiteur transporte sa résidence dans le ressort d'un autre tribunal
-d'instance, tant qu'il n'a pas été procédé à une saisie-arrêt dans le ressort du
-tribunal de la nouvelle résidence contre le même débiteur entre les mains du
-même tiers saisi.
+L'acte de saisie établi par le secrétariat-greffe contient [*mentions
+obligatoires*] :
 
-Dès que le tiers saisi est avisé de la saisie-arrêt nouvelle, il remet au
-régisseur installé auprès du greffe de la première résidence le solde des sommes
-retenues en vertu de la saisie primitive et il est fait une répartition qui met
-fin à la procédure initiale.
+1° Les nom, prénoms et domicile du débiteur et du créancier ou, s'il s'agit
+d'une personne morale, sa dénomination et son siège social ;
+
+2° Le décompte distinct des sommes pour lesquelles la saisie est pratiquée, en
+principal, frais et intérêts échus ainsi que l'indication du taux des intérêts ;
+
+3° Le mode de calcul de la fraction saisissable et les modalités de son
+règlement ;
+
+4° L'injonction d'effectuer au greffe, dans un délai de quinze jours, la
+déclaration prévue par l'article L. 145-8 ;
+
+5° La reproduction des articles L. 145-8 et L. 145-9.

@@ -1,27 +1,49 @@
 Article R145-2
 ----
-La cession des créances mentionnées à l'article L. 145-1 ne peut être consentie,
-quel qu'en soit le montant que par une déclaration souscrite par le cédant en
-personne, devant le greffier du tribunal d'instance de sa résidence.
+Les proportions dans lesquelles les rémunérations annuelles visées à l'article
+L. 145-2 sont saisissables ou cessibles sont fixées comme suit :
 
-Toutefois, en cas de cession portant sur le remboursement des frais de transport
-exposés pour le recrutement des travailleurs à l'étranger la cession peut
-résulter d'une mention portée sur le contrat de travail revêtu du visa du
-directeur départemental du travail et de l'emploi.
+Au vingtième, sur la tranche inférieure ou égale à 17 000 F ;
 
-Le greffier fait mention de la déclaration sur les fiches individuelles prévues
-à l'article R. 145-20. Il adresse, lorsqu'il en est requis par les parties ou
-par l'une d'elles, une notification par lettre recommandée au débiteur de la
-rémunération ou à son représentant préposé au paiement, au lieu où travaille le
-cédant.
+Au dixième, sur la tranche supérieure à 17 000 F, inférieure ou égale à 34 000 F
+;
 
-La retenue est opérée sur cette seule notification.
+Au cinquième, sur la tranche supérieure à 34 000 F, inférieure ou égale à 51 000
+F ;
 
-La cession qui n'est pas notifiée dans le délai d'un an est périmée.
+Au quart, sur la tranche supérieure à 51 000 F, inférieure ou égale à 68 000 F ;
 
-Le cessionnaire touche directement les retenues du débiteur de la rémunération
-sur la production d'une copie certifiée conforme à la déclaration.
+Au tiers, sur la tranche supérieure à 68 000 F, inférieure ou égale à 85 000 F ;
 
-Toutefois, lorsque la cession est paralysée par une ou plusieurs oppositions
-antérieures, les sommes retenues sont versées au greffe du tribunal d'instance
-conformément aux dispositions de l'article R. 145-12.
+Aux deux tiers, sur la tranche supérieure à 85 000 F, inférieure ou égale à 102
+000 F ;
+
+A la totalité, sur la tranche supérieure à 102 000 F.
+
+Les seuils déterminés ci-dessus sont augmentés d'un montant de 6 000 F par
+personne à la charge du débiteur saisi ou du cédant, sur justification présentée
+par l'intéressé.
+
+Pour l'application de l'alinéa précédent, sont considérés comme personnes à
+charge :
+
+1° Le conjoint ou le concubin du débiteur, dont les ressources personnelles sont
+inférieures au montant du revenu minimum d'insertion tel qu'il est fixé par le
+décret pris en application de l'article 3 de la loi du 1er décembre 1988
+relative au revenu minimum d'insertion ;
+
+2° Tout enfant ouvrant droit aux prestations familiales en application des
+articles L. 512-3 et L. 512-4 du code de la sécurité sociale et se trouvant à la
+charge effective et permanente du débiteur au sens de l'article L. 513-1 du même
+code. Est également considéré comme étant à charge tout enfant à qui ou pour le
+compte de qui le débiteur verse une pension alimentaire ;
+
+3° L'ascendant dont les ressources personnelles sont inférieures au montant du
+revenu minimum d'insertion tel qu'il est fixé par le décret mentionné au 1° et
+soit qui habite avec le débiteur, soit auquel le débiteur verse une pension
+alimentaire.
+
+Ces seuils et correctifs sont révisés annuellement par décret en fonction de
+l'évolution de l'indice des prix à la consommation des ménages urbains tel qu'il
+est fixé au mois d'août de l'année précédente dans la série France-entière. Ils
+sont arrondis à la centaine de francs supérieure.
