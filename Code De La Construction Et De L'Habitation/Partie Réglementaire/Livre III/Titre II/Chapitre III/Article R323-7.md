@@ -1,10 +1,12 @@
 Article R323-7
 ----
-Le taux de la subvention est au plus égal à 20 p. 100 [*pourcentage*] du coût
-prévisionnel des travaux, dans les limites définies à l'article R. 323-6.
+Le taux de la subvention est au plus égal à 10 p. 100 du coût prévisionnel des
+travaux, sauf pour les opérations réalisées en Corse, où il est au plus égal à
+20 p. 100 du coût prévisionnel des travaux.
 
-Ce taux peut être porté au plus à 30 p. 100 du coût prévisionnel des travaux,
-dans les limites susvisées :
+Ce taux peut être porté au plus à 25 p. 100 du coût prévisionnel des travaux,
+sauf pour les opérations réalisées en Corse, où il est au plus égal à 30 p. 100
+du coût prévisionnel des travaux.
 
 a) Pour la réalisation de travaux destinés à améliorer la sécurité dans les
 immeubles, y compris les travaux de renforcement des portes d'entrée des
@@ -13,8 +15,11 @@ un montant équivalent ;
 
 b) Pour des opérations à caractère expérimental ;
 
-c) Pour des opérations " habitat et vie sociale ou pour des opérations réalisées
-dans le cadre des actions pour le développement social des quartiers.
+c) Pour des opérations " habitat et vie sociale " ou pour des opérations
+réalisées dans le cadre des actions pour le développement social des quartiers
+ou pour des opérations réalisées dans les grands ensembles et quartiers
+mentionnés au I de l'article 1466 A du code général des impôts ; il en est de
+même pour la réalisation de loges de gardien ;
 
 d) Pour des opérations dont le maître d'ouvrage est une commune de moins de 5
 000 habitants, lorsque l'importance des travaux et les conditions d'équilibre
@@ -23,5 +28,5 @@ financier de l'opération le justifient.
 En outre, le représentant de l'Etat dans le département peut, à titre
 exceptionnel, porter le taux de la subvention au plus à 40 p. 100 du coût
 prévisionnel des travaux, dans les limites définies à l'article R. 323-6,
-lorsque l'importance des travaux de l'opération et ses caractéristiques sociales
-le justifient.
+lorsque le maître d'ouvrage, bénéficiaire de la subvention, rencontre des
+difficultés financières particulières.
