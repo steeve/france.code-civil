@@ -8,7 +8,7 @@ Sont également admises les créances nettes sur les fonds suivants :
 
 - fonds de garantie prévu par la législation sur les accidents du travail ;
 
-- fonds de garantie mentionné à l'article L. 420-1 ;
+- fonds de garantie mentionné à l'article L. 421-1 ;
 
 - fonds de revalorisation des rentes mentionné à l'article L. 431-11 ;
 
