@@ -1,4 +1,4 @@
 Article D517-1
 ----
-Le taux de compétence en dernier ressort du conseil de prud'hommes est de 16 000
+Le taux de compétence en dernier ressort du conseil de prud'hommes est de 16 600
 F.
