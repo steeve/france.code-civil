@@ -20,6 +20,11 @@ Le contrat de capitalisation doit indiquer :
 
 4° Les délais et les modalités de règlement du capital.
 
+Outre les énonciations prévues aux alinéas précédents, les seules données
+numériques permettant une valorisation en euros du contrat, qui peuvent être
+indiquées dans ce contrat, sont celles qui sont nécessaires au calcul des
+valeurs de rachat mentionnées à l'article L. 132-5-1.
+
 Lorsque les garanties d'un contrat d'assurance sur la vie ou de capitalisation
 sont référencées sur une ou plusieurs unités de compte, celles-ci doivent être
 également énoncées au contrat. Ledit contrat doit aussi préciser la date à
