@@ -13,10 +13,11 @@ généraux de priorité pour l'attribution des logements, notamment au profit de
 personnes en situation de handicap ou de familles ayant à leur charge une
 personne en situation de handicap, de personnes mal logées, défavorisées ou
 rencontrant des difficultés particulières de logement pour des raisons d'ordre
-financier ou tenant à leurs conditions d'existence. Il fixe également les
-conditions dans lesquelles le maire de la commune d'implantation des logements
-est consulté sur les principes régissant ces attributions et sur le résultat de
-leur application.
+financier ou tenant à leurs conditions d'existence ainsi que de personnes
+hébergées ou logées temporairement dans des établissements et logements de
+transition. Il fixe également les conditions dans lesquelles le maire de la
+commune d'implantation des logements est consulté sur les principes régissant
+ces attributions et sur le résultat de leur application.
 
 Le décret mentionné à l'alinéa précédent fixe également les limites et
 conditions dans lesquelles les organismes d'habitations à loyer modéré peuvent,
@@ -29,7 +30,10 @@ prévues au présent alinéa, elles sont nulles de plein droit.
 Il fixe les conditions dans lesquelles ces conventions de réservation sont
 conclues, en contrepartie d'un apport de terrain, d'un financement ou d'une
 garantie financière, accordés par une commune ou un établissement public de
-coopération intercommunale.
+coopération intercommunale. Il prévoit que ces obligations de réservation sont
+prolongées de cinq ans lorsque l'emprunt contracté par le bailleur et garanti
+par la commune ou l'établissement public de coopération intercommunale est
+totalement remboursé.
 
 Il détermine également les limites et conditions de réservation des logements
 par le représentant de l'Etat dans le département au profit des personnes
@@ -49,7 +53,7 @@ le délégataire.
 S'il constate, au terme de l'année écoulée, que les objectifs fixés par le plan
 départemental d'action pour le logement des personnes défavorisées ne sont pas
 respectés, le représentant de l'Etat peut, après mise en demeure restée sans
-suite pendant six mois, se substituer au maire ou au président de
+suite pendant trois mois, se substituer au maire ou au président de
 l'établissement public de coopération intercommunale pour décider directement de
 la réservation des logements.
 

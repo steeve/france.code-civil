@@ -9,7 +9,8 @@ l'informatique, aux fichiers et aux libertés.
 Les établissements de crédit visés par la loi n° 84-46 du 24 janvier 1984
 relative à l'activité et au contrôle des établissements de crédit ainsi que les
 services financiers de La Poste sont tenus de déclarer à la Banque de France les
-incidents visés à l'alinéa précédent.
+incidents visés à l'alinéa précédent. Les frais afférents à cette déclaration ne
+peuvent être facturés aux personnes physiques concernées.
 
 Dès que la commission instituée à l'article L. 331-1 est saisie par un débiteur
 en application du premier alinéa de l'article L. 331-3, elle en informe la

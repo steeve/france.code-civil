@@ -40,8 +40,11 @@ représentant, assisté éventuellement de deux collaborateurs qui ont voix
 consultative. Il est procédé, par le comité central d'entreprise, à la
 désignation d'un secrétaire pris parmi les membres titulaires.
 
-L'ordre du jour est arrêté par le chef d'entreprise et le secrétaire ; il est
-communiqué aux membres au moins huit jours avant la date de la séance.
+L'ordre du jour est arrêté par le chef d'entreprise et le secrétaire. Toutefois,
+lorsque sont en cause des consultations rendues obligatoires par une disposition
+législative, réglementaire ou par un accord collectif de travail, elles y sont
+inscrites de plein droit par l'un ou par l'autre. Il est communiqué aux membres
+huit jours au moins avant la séance.
 
 Chaque organisation syndicale représentative dans l'entreprise désigne un
 représentant au comité central choisi soit parmi les représentants de cette

@@ -1,7 +1,7 @@
 Article L364-8
 ----
-Les personnes physiques coupables des infractions prévues aux articles L. 364-3,
-L. 364-5 et L. 364-6 encourent également les peines complémentaires suivantes :
+Les personnes physiques coupables des infractions prévues aux articles L. 364-3
+et L. 364-5 encourent également les peines complémentaires suivantes :
 
 1° L'interdiction, pour une durée de cinq ans au plus, d'exercer directement ou
 par personne interposée l'activité professionnelle dans l'exercice ou à
@@ -25,9 +25,8 @@ pénal, des droits civiques, civils et de la famille ;
 6° L'interdiction de séjour pour une durée de cinq ans au plus.
 
 Les personnes physiques coupables des infractions prévues à l'article L. 364-3
-et à l'article L. 364-6 encourent en outre la fermeture des locaux ou
-établissements tenus ou exploités par elles et ayant servi à commettre les faits
-incriminés.
+encourent en outre la fermeture des locaux ou établissements tenus ou exploités
+par elles et ayant servi à commettre les faits incriminés.
 
 La peine complémentaire mentionnée au 4° ci-dessus est également encourue par
 les personnes physiques reconnues coupables de l'infraction prévue à l'article

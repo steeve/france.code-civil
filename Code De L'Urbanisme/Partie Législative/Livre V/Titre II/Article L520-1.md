@@ -8,6 +8,6 @@ locaux de recherche ainsi que de leurs annexes.
 
 A compter de la promulgation de la loi n° 2000-1208 du 13 décembre 2000 relative
 à la solidarité et au renouvellement urbains, dans les communes éligibles à la
-dotation de solidarité urbaine, le montant de cette redevance ne peut excéder le
-seuil des montants prévus au 3° de l'article R. 520-12 du présent code et fixés
-par le décret n° 89-86 du 10 février 1989.
+dotation de solidarité urbaine et de cohésion sociale, le montant de cette
+redevance ne peut excéder le seuil des montants prévus au 3° de l'article R.
+520-12 du présent code et fixés par le décret n° 89-86 du 10 février 1989.

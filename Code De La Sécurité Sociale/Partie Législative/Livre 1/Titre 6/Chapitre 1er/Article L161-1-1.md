@@ -8,7 +8,11 @@ plafond de revenus ou de rémunérations fixés par décret, à l'exonération d
 cotisations dues aux régimes d'assurance maladie, maternité, veuvage,
 vieillesse, invalidité et décès et d'allocations familiales auxquels elles sont
 affiliées en raison de l'exercice de cette activité et aux prestations servies
-par ces régimes.
+par ces régimes. La durée de l'exonération, totale ou partielle, peut être
+prolongée dans des conditions et limites fixées par décret lorsque l'entreprise
+créée ou reprise entre dans le champ de l'article 50-0 du code général des
+impôts. Il en va de même lorsque les personnes mentionnées au premier alinéa ont
+opté pour le régime prévu à l'article 102 ter du même code.
 
 L'exonération prévue à l'alinéa précédent porte :
 

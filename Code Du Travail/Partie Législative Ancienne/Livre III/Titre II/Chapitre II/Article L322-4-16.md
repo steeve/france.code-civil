@@ -26,7 +26,7 @@ entreprises de travail temporaire d'insertion mentionnées à l'article L.
 III. - Lorsque ces conventions sont conclues avec des personnes morales de droit
 public ou de droit privé à but non lucratif dans le cadre d'activités présentant
 un caractère d'utilité sociale, les embauches peuvent être effectuées dans le
-cadre d'un des contrats régis par les articles L. 322-4-7 et L. 322-4-8-1.
+cadre du contrat régi par l'article L. 322-4-7.
 
 IV. - Les conditions de conventionnement des personnes morales de droit public
 ou de droit privé à but non lucratif produisant des biens et services en vue de

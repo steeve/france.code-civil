@@ -14,14 +14,14 @@ compétente.
 Le comité est informé et consulté sur les modifications de l'organisation
 économique ou juridique de l'entreprise, notamment en cas de fusion, de cession,
 de modification importante des structures de production de l'entreprise ainsi
-que lors de l'acquisition ou de la cession de filiales au sens de l'article 354
-de la loi n° 66-537 du 24 juillet 1966 modifiée. Le chef d'entreprise doit
-indiquer les motifs des modifications projetées et consulter le comité sur les
-mesures qui sont envisagées à l'égard des salariés lorsque ces modifications
-comportent des conséquences pour ceux-ci. Il est également tenu de consulter le
-comité d'entreprise lorsqu'il prend une participation dans une société et de
-l'informer lorsqu'il a connaissance d'une prise de participation dont son
-entreprise est l'objet.
+que lors de l'acquisition ou de la cession de filiales au sens de l'article L.
+233-1 du code de commerce. Le chef d'entreprise doit indiquer les motifs des
+modifications projetées et consulter le comité sur les mesures qui sont
+envisagées à l'égard des salariés lorsque ces modifications comportent des
+conséquences pour ceux-ci. Il est également tenu de consulter le comité
+d'entreprise lorsqu'il prend une participation dans une société et de l'informer
+lorsqu'il a connaissance d'une prise de participation dont son entreprise est
+l'objet.
 
 En cas de dépôt d'une offre publique d'achat ou d'offre publique d'échange
 portant sur une entreprise, le chef de cette entreprise réunit immédiatement le
@@ -67,11 +67,11 @@ Il est également informé et consulté avant toute déclaration de cessation de
 paiements et lorsque l'entreprise fait l'objet d'une procédure de redressement
 ou de liquidation judiciaire, avant toute décision relative à la poursuite de
 l'activité ainsi que lors de l'élaboration du projet de plan de redressement ou
-de liquidation de l'entreprise dans les conditions prévues aux articles 20, 25
-et 89 de la loi n° 85-98 du 25 janvier 1985 précitée. La ou les personnes qu'il
-a désignées selon les dispositions de l'article 226 de ladite loi sont entendues
-par le tribunal compétent dans les conditions fixées aux articles 6, 23, 36, 61
-et 68 de ladite loi.
+de liquidation de l'entreprise dans les conditions prévues aux articles L.
+621-56, L. 621-61 et L. 621-91 du code de commerce. La ou les personnes qu'il a
+désignées selon les dispositions de l'article L623-10 du code de commerce sont
+entendues par le tribunal compétent dans les conditions fixées aux articles L.
+621-4, L. 621-59, L. 621-27, L. 621-62 et L. 621-69 du code de commerce.
 
 Le comité d'entreprise est consulté chaque année sur la politique de recherche
 et de développement technologique de l'entreprise. A défaut, les aides publiques

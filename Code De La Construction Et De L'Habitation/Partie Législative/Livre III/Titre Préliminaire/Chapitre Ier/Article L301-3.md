@@ -33,6 +33,12 @@ conclu la convention prévue à l'article L. 301-5-1. L'affectation de ces créd
 tient compte du plan départemental d'action pour le logement des personnes
 défavorisées et des programmes locaux de l'habitat.
 
+Les établissements publics de coopération intercommunale et les départements qui
+ont signé une convention en application des articles L. 301-5-1 et L. 301-5-2
+sont associés à la définition et à la mise en oeuvre locales des programmes
+visés aux articles 87 et 107 de la loi n° 2005-32 du 18 janvier 2005 de
+programmation pour la cohésion sociale.
+
 Lorsqu'un établissement public de coopération intercommunale ou un département a
 signé une convention mentionnée aux articles L. 301-5-1 et L. 301-5-2, son
 président prononce l'agrément des opérations de logement social correspondant

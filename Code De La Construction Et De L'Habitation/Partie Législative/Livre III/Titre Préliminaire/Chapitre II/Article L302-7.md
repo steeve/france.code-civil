@@ -2,9 +2,10 @@ Article L302-7
 ----
 A compter du 1er janvier 2002, il est effectué chaque année un prélèvement sur
 les ressources fiscales des communes visées à l'article L. 302-5, à l'exception
-de celles qui bénéficient de la dotation de solidarité urbaine prévue par
-l'article L. 2334-15 du code général des collectivités territoriales lorsque le
-nombre des logements sociaux y excède 15 % des résidences principales.
+de celles qui bénéficient de la dotation de solidarité urbaine et de cohésion
+sociale prévue par l'article L. 2334-15 du code général des collectivités
+territoriales lorsque le nombre des logements sociaux y excède 15 % des
+résidences principales.
 
 Ce prélèvement est égal à 152,45 euros multipliés par la différence entre 20 %
 des résidences principales au sens du I de l'article 1411 du code général des

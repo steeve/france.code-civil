@@ -36,25 +36,27 @@ travaux de construction, de reconstruction ou d'agrandissement ;
 
 b ter) Dans les secteurs sauvegardés définis aux articles L. 313-1 à L. 313-3 du
 code de l'urbanisme et les zones de protection du patrimoine architectural,
-urbain et paysager définies à l'article L. 642-1 du code du patrimoine, les
-frais d'adhésion à des associations foncières urbaines de restauration, les
-travaux de démolition imposés par l'autorité qui délivre le permis de construire
-et prévus par les plans de sauvegarde et de mise en valeur rendus publics ou par
-la déclaration d'utilité publique des travaux de restauration, à l'exception des
-travaux de construction, de reconstruction ou d'agrandissement. Toutefois,
-constituent des charges de la propriété déductibles pour la détermination du
-revenu net, les travaux de reconstitution de toiture ou de murs extérieurs
-d'immeubles existants prévus par les mêmes plans de sauvegarde ou imposés par la
-même déclaration d'utilité publique et rendus nécessaires par ces démolitions.
-Il en est de même des travaux de transformation en logement de tout ou partie
-d'un immeuble, dans le volume bâti existant dont la conservation est conforme au
-plan de sauvegarde et de mise en valeur ou à la déclaration d'utilité publique
-des travaux de restauration. Il en est de même des travaux de réaffectation à
-l'habitation de tout ou partie d'un immeuble originellement destiné à
-l'habitation et ayant perdu cet usage, dont la conservation est conforme au plan
-de sauvegarde et de mise en valeur ou à la déclaration d'utilité publique des
-travaux de restauration. Pour l'application de ces dispositions, les conditions
-mentionnées au 3° du I de l'article 156 doivent être remplies ;
+urbain et paysager définies à l'article 70 de la loi n° 83-8 du 7 janvier 1983
+modifiée relative à la répartition de compétences entre les communes, les
+départements, les régions et l'Etat, les frais d'adhésion à des associations
+foncières urbaines de restauration, les travaux de démolition imposés par
+l'autorité qui délivre le permis de construire et prévus par les plans de
+sauvegarde et de mise en valeur rendus publics ou par la déclaration d'utilité
+publique des travaux de restauration, à l'exception des travaux de construction,
+de reconstruction ou d'agrandissement. Toutefois, constituent des charges de la
+propriété déductibles pour la détermination du revenu net, les travaux de
+reconstitution de toiture ou de murs extérieurs d'immeubles existants prévus par
+les mêmes plans de sauvegarde ou imposés par la même déclaration d'utilité
+publique et rendus nécessaires par ces démolitions. Il en est de même des
+travaux de transformation en logement de tout ou partie d'un immeuble, dans le
+volume bâti existant dont la conservation est conforme au plan de sauvegarde et
+de mise en valeur ou à la déclaration d'utilité publique des travaux de
+restauration. Il en est de même des travaux de réaffectation à l'habitation de
+tout ou partie d'un immeuble originellement destiné à l'habitation et ayant
+perdu cet usage, dont la conservation est conforme au plan de sauvegarde et de
+mise en valeur ou à la déclaration d'utilité publique des travaux de
+restauration. Pour l'application de ces dispositions, les conditions mentionnées
+au 3° du I de l'article 156 doivent être remplies ;
 
 b quater) Dans les zones franches urbaines telles que définies au B du 3 de
 l'article 42 modifié de la loi n° 95-115 du 4 février 1995 d'orientation pour
@@ -86,11 +88,9 @@ e) Une déduction forfaitaire fixée à 14 % des revenus bruts et représentant 
 frais de gestion, l'assurance à l'exclusion de celle visée au a bis et
 l'amortissement. Lorsque l'une des options prévues au f, g et h et à l'article
 31 bis est exercée, la déduction, fixée à 6 p. 100, représente les frais de
-gestion et l'assurance à l'exclusion de celle visée au a bis. Elle est fixée à
-40 % pour les loyers des logements situés en zone de revitalisation rurale,
-lorsque l'option prévue au h est exercée. La déduction forfaitaire au taux de 14
-% est de nouveau applicable à l'expiration de l'application des régimes visés
-aux g et h et à l'article 31 bis.
+gestion et l'assurance à l'exclusion de celle visée au a bis. La déduction
+forfaitaire au taux de 14 % est de nouveau applicable à l'expiration de
+l'application des régimes visés aux g et h et à l'article 31 bis.
 
 Le taux de déduction mentionné au premier alinéa est fixé à 40 % pour les
 revenus des six premières années de location des logements qui ne peuvent donner
@@ -542,32 +542,6 @@ ou ayant fait l'objet d'un agrément ministériel ou ayant reçu le label déliv
 par la Fondation du patrimoine, mentionnés au premier alinéa du 3° du I de
 l'article 156.
 
-i) Lorsque le contribuable, domicilié en France au sens de l'article 4 B,
-transfère son habitation principale pour des raisons professionnelles, une
-déduction fixée à 10 % des revenus bruts annuels tirés de la location de son
-ancienne habitation principale jusqu'au 31 décembre de la troisième année qui
-suit la date de sa mise en location ou jusqu'à la date de l'acquisition d'une
-nouvelle habitation principale si elle est antérieure.
-
-L'application des dispositions de l'alinéa précédent est subordonnée au respect
-des conditions suivantes :
-
-1 La nouvelle activité professionnelle doit avoir débuté entre le 1er juillet
-2005 et le 31 décembre 2007 et être exercée pendant une durée au moins égale à
-six mois consécutifs ;
-
-2 L'ancienne habitation principale du contribuable, pour laquelle la déduction
-est demandée, doit être donnée en location nue à titre d'habitation principale
-du locataire, immédiatement après le transfert du domicile. Ce transfert doit
-intervenir dans l'année qui suit la date du début de l'exercice de la nouvelle
-activité ;
-
-3 La nouvelle habitation principale doit être prise en location dans l'année qui
-suit la date du début de l'exercice de la nouvelle activité et doit être située
-à plus de 200 kilomètres de celle précédemment occupée. Le bailleur de cette
-nouvelle habitation ne peut être un membre du foyer fiscal du contribuable ou
-une société dont ce dernier ou l'un des membres du foyer fiscal est associé.
-
 2° Pour les propriétés rurales :
 
 a) Les dépenses énumérées aux a à d du 1° ;
@@ -595,8 +569,7 @@ l'exonération de quinze ans de taxe foncière sur les propriétés bâties pré
 II bis de l'article 1385, le taux de la déduction forfaitaire est porté à 15 %
 pendant la durée de cette exonération ; le taux de 15 % s'applique également aux
 revenus provenant des biens ruraux placés sous le régime des baux à long terme
-mentionnés au 2° de l'article 743 ou sous le régime des baux cessibles
-mentionnés aux articles L. 418-1 à L. 418-5 du code rural.
+mentionnés au 2° de l'article 743 ;
 
 e) (disposition devenue sans objet : loi n° 83-1179 du 29 décembre 1983 art. 22
 III 1).

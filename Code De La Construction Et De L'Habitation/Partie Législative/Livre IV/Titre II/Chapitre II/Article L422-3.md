@@ -51,6 +51,18 @@ modalités précisées par décret en Conseil d'Etat qui peuvent déroger aux r�
 applicables aux habitations à loyer modéré, acquérir des lots en vue de leur
 revente, y effectuer tous travaux et les louer provisoirement.
 
+Elles peuvent également gérer, en qualité de syndics de copropriété et
+d'administrateurs de biens, après accord du maire de la commune d'implantation
+et dans les conditions fixées par l'article L. 442-11, des logements situés dans
+le périmètre défini pour une opération programmée d'amélioration de l'habitat
+visée à l'article L. 303-1 ainsi que les logements appartenant à des personnes
+privées et vacants depuis plus d'un an.
+
+Elles peuvent également réaliser des prestations de services pour le compte de
+syndicats de copropriétaires d'immeubles faisant l'objet d'un plan de sauvegarde
+en application de l'article L. 615-1 ou situés dans le périmètre défini pour une
+opération programmée d'amélioration de l'habitat visée à l'article L. 303-1.
+
 Elles peuvent réaliser pour le compte d'autres organismes d'habitations à loyer
 modéré des prestations de services pour des missions rentrant dans l'objet
 social et la compétence territoriale desdits organismes et des organismes

@@ -27,20 +27,24 @@ signalés à l'Agence nationale pour l'emploi.
 Un décret en Conseil d'Etat, élaboré après consultation des partenaires sociaux,
 détermine les conditions dans lesquelles sont radiées de la liste des demandeurs
 d'emploi des personnes qui ne peuvent justifier de l'accomplissement d'actes
-positifs de recherche d'emploi ou qui, sans motif légitime, refusent d'accepter
-un emploi, quelle que soit la durée du contrat de travail offert, compatible
-avec leur spécialité ou leur formation antérieure, leurs possibilités de
-mobilité géographique compte tenu de leur situation personnelle et familiale, et
-rétribué à un taux de salaire normalement pratiqué dans la profession et la
-région.
+positifs et répétés en vue de retrouver un emploi, de créer ou de reprendre une
+entreprise, ou qui, sans motif légitime, refusent d'accepter un emploi, quelle
+que soit la durée du contrat de travail offert, compatible avec leur spécialité
+ou leur formation, leurs possibilités de mobilité géographique compte tenu de
+leur situation personnelle et familiale et des aides à la mobilité qui leur sont
+proposées, et rétribué à un taux de salaire normalement pratiqué dans la
+profession et la région.
 
 Ce même décret détermine également les conditions dans lesquelles sont radiées
 de la liste des demandeurs d'emploi des personnes qui, sans motif légitime,
-refusent de suivre une action de formation, de répondre à toute convocation de
-l'Agence nationale pour l'emploi, de se soumettre à une visite médicale auprès
-des services médicaux de main-d'oeuvre destinée à vérifier leur aptitude au
-travail ou à certains types d'emploi, ou qui ont fait de fausses déclarations
-pour être ou demeurer inscrites sur cette liste.
+refusent de suivre une action de formation ou d'aide à la recherche d'emploi
+proposée par l'un des organismes mentionnés au premier alinéa de l'article L.
+311-1, de répondre à toute convocation des services et organismes visés au
+premier alinéa de l'article L. 311-1 ou mandatés par ces services et organismes,
+de se soumettre à une visite médicale auprès des services médicaux de
+main-d'oeuvre destinée à vérifier leur aptitude au travail ou à certains types
+d'emploi, ou qui ont fait de fausses déclarations pour être ou demeurer
+inscrites sur cette liste.
 
 Ce même décret fixe les conditions dans lesquelles cessent d'être inscrites sur
 la liste des demandeurs d'emploi les personnes qui ne renouvellent pas leur

@@ -2,10 +2,7 @@ Article L351-8
 ----
 Les mesures d'application des dispositions de la présente section font l'objet
 d'un accord conclu et agréé dans les conditions définies aux articles L. 352-1,
-L. 352-2 et L. 352-2-1. L'accord peut avoir aussi pour objet les mesures
-d'évaluation des compétences professionnelles et d'accompagnement en vue du
-reclassement mises en oeuvre pendant la durée du délai-congé du salarié dans les
-conditions fixées à l'article L. 321-4-2.
+L. 352-2 et L. 352-2-1.
 
 L'agrément de cet accord a pour effet de le rendre obligatoire pour tous les
 employeurs mentionnés à l'article L. 351-4 ainsi que pour leurs salariés.

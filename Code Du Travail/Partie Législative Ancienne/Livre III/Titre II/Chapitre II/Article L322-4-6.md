@@ -9,7 +9,8 @@ travail soit au moins égale à la moitié de la durée collective du travail
 applicable, conclus, à compter du 1er juillet 2002, avec des jeunes âgés de
 seize à vingt-deux ans révolus, dont le niveau de formation est inférieur à un
 diplôme de fin du second cycle long de l'enseignement général, technologique ou
-professionnel.
+professionnel ou avec des jeunes mentionnés à la dernière phrase du premier
+alinéa de l'article L. 322-4-17-2.
 
 Ce soutien est calculé par référence aux cotisations et contributions sociales
 patronales obligatoires de toutes natures, dont le paiement est exigé à raison
@@ -20,5 +21,6 @@ allégements de cotisations prévus aux articles L. 241-6-4, L. 241-13 et L.
 visé par l'article L. 741-4 du code rural et aux articles L. 741-5 et L. 741-6
 de ce dernier code.
 
-Un décret précise le montant et les modalités d'attribution du soutien ainsi que
-les conditions d'application du présent article.
+Un décret précise, en fonction du niveau de formation des bénéficiaires, les
+montants les modalités d'attribution du soutien ainsi que les conditions
+d'application du présent article.

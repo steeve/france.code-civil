@@ -11,9 +11,9 @@ de caravane située sur une aire d'accueil des gens du voyage satisfaisant aux
 conditions de la convention de l'article L. 851-1 du code de la sécurité sociale
 et aux normes techniques en vigueur, fixées par un décret en Conseil d'Etat. La
 majoration de population est portée à deux habitants par place de caravane pour
-les communes éligibles l'année précédente à la dotation de solidarité urbaine
-prévue à l'article L. 2334-15 ou à la première fraction de la dotation de
-solidarité rurale prévue à l'article L. 2334-21.
+les communes éligibles l'année précédente à la dotation de solidarité urbaine et
+de cohésion sociale prévue à l'article L. 2334-15 ou à la première fraction de
+la dotation de solidarité rurale prévue à l'article L. 2334-21.
 
 Lorsque le recensement général de population de 1999 fait apparaître une
 diminution de la population d'une commune telle qu'elle est définie à l'alinéa

@@ -26,6 +26,6 @@ solidarité.
 
 Les dispositions du présent article ne sont pas applicables dans les zones de
 revitalisation rurale telles que définies par la loi n° 95-115 du 4 février 1995
-d'orientation pour l'aménagement et le développement du territoire, les grands
-ensembles et les quartiers d'habitat dégradé mentionnés au I de l'article 1466 A
-du code général des impôts.
+d'orientation pour l'aménagement et le développement du territoire ainsi que
+dans les quartiers classés en zones urbaines sensibles, définies au 3 de
+l'article 42 de la même loi.

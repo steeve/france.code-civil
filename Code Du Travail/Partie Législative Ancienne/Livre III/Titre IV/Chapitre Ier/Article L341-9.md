@@ -1,24 +1,31 @@
 Article L341-9
 ----
-Sous-réserve des accords internationaux les opérations de recrutement en France
-et l'introduction en métropole de travailleurs originaires des territoires
-d'outre-mer [*DOM*] et des étrangers, de recrutement en France des travailleurs
-de toutes nationalités pour l'étranger sont confiées à titre exclusif
-[*monopole*] à l'office des migrations internationales.
+L'Agence nationale de l'accueil des étrangers et des migrations est un
+établissement public administratif de l'Etat. L'agence est chargée, sur
+l'ensemble du territoire, du service public de l'accueil des étrangers
+titulaires, pour la première fois, d'un titre les autorisant à séjourner
+durablement en France. Elle a également pour mission de participer à toutes
+actions administratives, sanitaires et sociales relatives :
 
-Il est interdit à tout individu ou groupement autres que cet office de se livrer
-à ces opérations.
+a) A l'entrée et au séjour d'une durée inférieure ou égale à trois mois des
+étrangers ;
 
-En outre, l'Office des migrations internationales a mission [*attributions*] de
-participer aux actions administratives, sanitaires et sociales relatives :
+b) A l'accueil des demandeurs d'asile ;
 
-a) Au contrôle, à l'accueil, au séjour d'une durée inférieure ou égale à trois
-mois ou à l'établissement des étrangers en France ainsi qu'à leur rapatriement
-ou à leur réinsertion dans le pays d'origine ;
+c) A l'introduction en France, au titre du regroupement familial ou en vue d'y
+effectuer un travail salarié, d'étrangers ressortissants de pays tiers à l'Union
+européenne ;
 
-b) A l'emploi des Français à l'étranger ;
+d) Au contrôle médical des étrangers admis à séjourner en France pour une durée
+supérieure à trois mois ;
 
-c) A la réinsertion en France des Français ayant résidé à l'étranger.
+e) Au retour et à la réinsertion des étrangers dans leur pays d'origine ;
 
-Pour l'exercice de ses missions, l'Office des migrations internationales peut
-recruter des agents non titulaires sur des contrats à durée indéterminée.
+f) A l'emploi des Français à l'étranger.
+
+Pour l'exercice de ses missions, l'agence met en oeuvre une action sociale
+spécialisée en direction des personnes immigrées.
+
+L'agence peut, par voie de convention, associer à ses missions tout organisme
+privé ou public, notamment les collectivités territoriales et les organismes de
+droit privé à but non lucratif spécialisés dans l'aide aux migrants.

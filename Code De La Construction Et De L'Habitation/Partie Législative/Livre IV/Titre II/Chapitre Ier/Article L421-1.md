@@ -23,10 +23,19 @@ l'association agréée mentionnée à l'article 116 de la loi de finances pour 2
 (n° 2001-1275 du 28 décembre 2001) ou aux sociétés civiles immobilières dont les
 parts sont détenues à au moins 99 % par cette association, ainsi que les
 immeubles réalisés par l'ensemble de ces organismes en vue de l'accession à la
-propriété ;
+propriété. Ils peuvent également gérer, en qualité de syndics de copropriété et
+d'administrateurs de biens, après accord du maire de la commune d'implantation
+et dans les conditions fixées par l'article L. 442-11, des logements situés dans
+le périmètre défini pour une opération programmée d'amélioration de l'habitat
+visée à l'article L. 303-1 ainsi que les logements appartenant à des personnes
+privées et vacants depuis plus d'un an ;
 
 - de réaliser, en qualité de prestataire de services, des opérations portant sur
-tout immeuble à usage principal d'habitation ;
+tout immeuble à usage principal d'habitation. Ils peuvent également réaliser des
+prestations de services pour le compte de syndicats de copropriétaires
+d'immeubles faisant l'objet d'un plan de sauvegarde en application de l'article
+L. 615-1 ou situés dans le périmètre défini pour une opération programmée
+d'amélioration de l'habitat visée à l'article L. 303-1 ;
 
 - de réaliser ou acquérir et améliorer, en complément de leur activité locative,
 en vue de leur vente à des personnes physiques à titre de résidences
@@ -51,7 +60,14 @@ location-accession ;
 
 - d'acquérir et donner en location à des organismes agréés par arrêté du
 représentant de l'Etat dans le département des hôtels, meublés ou non, destinés
-à l'hébergement temporaire de personnes en difficulté.
+à l'hébergement temporaire de personnes en difficulté ;
+
+- de souscrire ou acquérir des parts de sociétés civiles immobilières ayant pour
+objet la réalisation d'immeubles d'habitation ou à usage professionnel et
+d'habitation destinés à des accédants dont les ressources n'excèdent pas des
+plafonds fixés par l'autorité administrative, d'être syndic de copropriétés
+d'immeubles ainsi réalisés et d'exercer les fonctions d'administrateur de biens
+pour les mêmes immeubles.
 
 Un décret en Conseil d'Etat précise leurs attributions et détermine les
 modalités de leur fonctionnement.

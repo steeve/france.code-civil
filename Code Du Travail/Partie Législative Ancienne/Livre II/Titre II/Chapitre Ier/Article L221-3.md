@@ -1,7 +1,7 @@
 Article L221-3
 ----
-Les apprentis ne peuvent être tenus en aucun cas vis-à-vis de leur maître à
-aucun travail de leur profession les dimanches.
+Les apprentis âgés de moins de dix-huit ans ne peuvent être tenus en aucun cas
+vis-à-vis de leur maître à aucun travail de leur profession les dimanches.
 
 Pour les établissements non mentionnés à l'article L. 200-1, si l'apprenti est
 obligé, par suite de conventions ou conformément à l'usage de ranger l'atelier

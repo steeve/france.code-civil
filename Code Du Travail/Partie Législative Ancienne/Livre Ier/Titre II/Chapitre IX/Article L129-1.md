@@ -26,7 +26,7 @@ favorisant leur maintien à domicile.
 
 Dans le cas prévu au 1° ci-dessus, les associations et les entreprises peuvent
 demander aux employeurs une contribution représentative de leurs frais de
-gestion. Les dispositions de l'article L. 311-1 ne leur sont pas applicables.
+gestion.
 
 Dans le cas prévu au 2° ci-dessus, l'activité des associations est réputée non
 lucrative au regard des articles L. 125-1 et L. 125-3.
@@ -60,5 +60,5 @@ auxquelles sont soumis les agréments des associations et des entreprises dont
 l'activité concerne la garde d'enfants ou l'assistance aux personnes âgées ou
 handicapées.
 
-Ce décret précise les conditions dans lesquelles les associations intermédiaries
+Ce décret précise les conditions dans lesquelles les associations intermédiaires
 sont agréées dans ce domaine.

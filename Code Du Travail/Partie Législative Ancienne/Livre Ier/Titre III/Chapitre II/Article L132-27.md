@@ -20,9 +20,14 @@ délai fixé à l'article L. 132-28 ci-après ; la demande de négociation formu
 par l'organisation syndicale est transmise dans les huit jours par l'employeur
 aux autres organisations représentatives.
 
-Le champ de cette négociation est étendu, tous les trois ans, aux questions de
-l'accès et du maintien dans l'emploi des salariés âgés et de leur accès à la
-formation professionnelle.
+Dans les entreprises occupant au moins trois cents salariés, ainsi que dans les
+entreprises mentionnées aux articles L. 439-1 et L. 439-6 occupant ensemble au
+moins trois cents salariés, la négociation portant sur les modalités
+d'information et de consultation du comité d'entreprise sur la stratégie globale
+de l'entreprise et sur la gestion prévisionnelle de l'emploi et des compétences
+prévue à l'article L. 320-2 porte également sur les conditions d'accès et de
+maintien dans l'emploi des salariés âgés et de leur accès à la formation
+professionnelle.
 
 Dans les entreprises visées au premier alinéa, lorsque les salariés ne sont pas
 couverts par un accord de branche ou par un accord d'entreprise définissant les

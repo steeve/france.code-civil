@@ -1,15 +1,15 @@
 Article L2334-21
 ----
 La première fraction de la dotation de solidarité rurale est attribuée aux
-communes dont la population représente au moins 15 p. 100 de la population du
-canton et aux communes chefs-lieux de canton ;
+communes dont la population représente au moins 15 % de la population du canton
+et aux communes chefs-lieux de canton ;
 
 Ne peuvent être éligibles les communes :
 
 1° Situées dans une agglomération :
 
-a) Représentant au moins 10 p. 100 de la population du département ou comptant
-plus de 250 000 habitants ;
+a) Représentant au moins 10 % de la population du département ou comptant plus
+de 250 000 habitants ;
 
 b) Comptant une commune soit de plus de 100 000 habitants, soit chef-lieu de
 département ;
@@ -31,11 +31,11 @@ antérieure à la loi n° 93-1436 du 31 décembre 1993 portant réforme de la
 dotation globale de fonctionnement et modifiant le code des communes et le code
 général des impôts.
 
-Lorsqu'une commune est éligible à la dotation de solidarité urbaine instituée
-par les articles L. 2334-15 à L. 2334-18 et qu'elle remplit les conditions pour
-bénéficier de la première fraction de la dotation de solidarité rurale, la
-dotation lui revenant à ce dernier titre, calculée selon les modalités prévues
-ci-dessous, est diminuée de moitié.
+Lorsqu'une commune est éligible à la dotation de solidarité urbaine et de
+cohésion sociale instituée par les articles L. 2334-15 à L. 2334-18 et qu'elle
+remplit les conditions pour bénéficier de la première fraction de la dotation de
+solidarité rurale, la dotation lui revenant à ce dernier titre, calculée selon
+les modalités prévues ci-dessous, est diminuée de moitié.
 
 L'attribution revenant à chaque commune est déterminée en fonction :
 
@@ -46,7 +46,7 @@ moins de 10 000 habitants et le potentiel financier par habitant de la commune ;
 
 c) De l'effort fiscal pris en compte dans la limite de 1,2 ;
 
-d) d'un coefficient multiplicateur égal à 1,3 pour les communes situées en zones
+d) D'un coefficient multiplicateur égal à 1,3 pour les communes situées en zones
 de revitalisation rurale telles que définies à l'article 1465 A du code général
 des impôts.
 
@@ -64,3 +64,9 @@ Lorsqu'en 2005 l'attribution d'une commune diminue de plus d'un tiers par
 rapport à 2004, cette commune perçoit, en 2005 et en 2006, un complément de
 garantie lui permettant de bénéficier, respectivement, des deux tiers et du
 tiers du montant perçu en 2004.
+
+Les communes bénéficiant d'une augmentation de leur attribution au titre de la
+dotation de solidarité urbaine et de cohésion sociale supérieure à 20 % ne
+bénéficient de l'augmentation éventuelle des montants calculés en application
+des alinéas précédents qu'à hauteur d'un montant correspondant à une
+augmentation égale au plus à 30 %.

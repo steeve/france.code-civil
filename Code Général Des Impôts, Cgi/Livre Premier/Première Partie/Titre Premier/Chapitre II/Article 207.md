@@ -93,6 +93,20 @@ c) Des avances remboursables ne portant pas intérêt prévues par l'article R.
 provenant des avances accordées à compter du 1er janvier 2001 est soumise à
 l'impôt sur les sociétés.
 
+4° quater Les unions d'économie sociale visées à l'article L. 365-1 du code de
+la construction et de l'habitation, et dont les dirigeants de droit ou de fait
+ne sont pas rémunérés, pour :
+
+- les opérations mentionnées au deuxième alinéa de l'article L. 365-1 du même
+code lorsqu'elles relèvent du service d'intérêt général défini à l'article L.
+411-2 du même code ;
+
+- les produits engendrés par les locaux annexes et accessoires des ensembles
+d'habitations mentionnés à l'article L. 411-1 du même code ;
+
+- les produits financiers issus du placement de la trésorerie de ces organismes
+;
+
 5° Les bénéfices réalisés par des associations sans but lucratif régies par la
 loi du 1er juillet 1901 organisant, avec le concours des communes ou des
 départements, des foires, expositions, réunions sportives et autres

@@ -34,6 +34,6 @@ nécessaires par ces réalisations.
 Dans le même cadre, elle peut également avoir pour objet, après y avoir été
 spécialement agréée dans les conditions fixées à l'article L. 422-5 après accord
 de la ou des collectivités territoriales concernées ou, le cas échéant, de leur
-groupement, d'exercer certaines des compétences énumérées aux troisième alinéa
+groupement, d'exercer certaines des compétences énumérées aux quatrième alinéa
 et suivants de l'article L. 422-2 et qui sont communes aux organismes publics et
 aux sociétés anonymes d'habitations à loyer modéré.

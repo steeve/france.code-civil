@@ -12,8 +12,8 @@ le même décret ;
 
 2°) les périodes pendant lesquelles l'assuré a bénéficié de l'un des revenus de
 remplacement mentionnés à l'article L. 351-2 du code du travail ou de l'une des
-allocations mentionnées à l'article L. 322-3, aux 2° et 4° du deuxième alinéa de
-l'article L. 322-4 du même code ou d'une allocation versée en cas d'absence
+allocations mentionnées à l'article L. 321-4-2, aux 2° et 4° du deuxième alinéa
+de l'article L. 322-4 du même code ou d'une allocation versée en cas d'absence
 complète d'activité, par application d'accords professionnels ou
 interprofessionnels, nationaux ou régionaux, mentionnés au dernier alinéa de
 l'article L. 352-3 du code du travail ou de l'allocation de congé-solidarité

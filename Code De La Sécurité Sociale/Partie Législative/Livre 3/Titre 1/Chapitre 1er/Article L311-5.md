@@ -1,8 +1,8 @@
 Article L311-5
 ----
 Toute personne percevant l'une des allocations mentionnées au 4° du deuxième
-alinéa de l'article L. 322-4 ou de l'article L. 322-3 du code du travail ou l'un
-des revenus de remplacement mentionnés à l'article L. 351-2 du même code
+alinéa de l'article L. 322-4 ou de l'article L. 321-4-2 du code du travail ou
+l'un des revenus de remplacement mentionnés à l'article L. 351-2 du même code
 conserve la qualité d'assuré et bénéficie du maintien de ses droits aux
 prestations du régime obligatoire d'assurance maladie, maternité, invalidité et
 décès dont elle relevait antérieurement.
