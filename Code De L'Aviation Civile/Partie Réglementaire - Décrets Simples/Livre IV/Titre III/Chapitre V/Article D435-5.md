@@ -1,7 +1,10 @@
 Article D435-5
 ----
-Lorsque les fautes reprochées à une personne traduite devant la commission de
-discipline ont été commises à l'occasion d'une activité de largage de
-parachutistes ou de remorquage de planeurs, un représentant de la fédération
-française de parachutistes ou de la fédération française de vol à voile siège à
-la commission avec voix consultative.
+Assistent aux séances et aux délibérations, sans voix délibérative, et sont
+tenus au secret :
+
+- le secrétaire de la commission choisi par le président de la commission de
+discipline ;
+
+- le cas échéant, un ou plusieurs experts, désignés par le président de la
+commission de discipline.
