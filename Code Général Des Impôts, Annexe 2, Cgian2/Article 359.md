@@ -41,6 +41,4 @@ Les produits semi-transformés ou transformés visés aux 1° et 2° ne sont sou
 la taxe que si la matière première mise en oeuvre pour leur fabrication ne l'a
 pas elle-même été. Cependant, les jus visés au b du 1° sont exonérés de la taxe
 lorsqu'ils sont élaborés à partir de moûts et de concentrés en provenance des
-autres Etats membres de la Communauté européenne (M).
-
-(M) Article entièrement reformulé.
+autres Etats membres de la Communauté européenne.
