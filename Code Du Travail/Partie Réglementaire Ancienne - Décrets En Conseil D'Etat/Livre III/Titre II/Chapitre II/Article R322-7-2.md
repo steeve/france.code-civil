@@ -1,11 +1,12 @@
 Article R322-7-2
 ----
 I. - L'Etat peut prendre partiellement en charge le revenu de remplacement versé
-aux salariés bénéficiant de mesures de cessation partielle d'activité organisées
-en application d'un accord professionnel national mentionné à l'article L. 352-3
-du code du travail et d'un accord d'entreprise dans les conditions définies
-ci-après lorsque les salariés concernés répondent à certaines conditions d'âge
-et connaissent des difficultés d'adaptation à l'évolution de leur emploi liées à
+aux salariés bénéficiant d'avantages de préretraite, en application d'un accord
+professionnel national ouvrant droit à une exonération des cotisations de
+sécurité sociale dans les conditions prévues à l'article L. 352-3 du code du
+travail et d'un accord d'entreprise dans les conditions définies ci-après
+lorsque les salariés concernés répondent à certaines conditions d'âge et
+connaissent des difficultés d'adaptation à l'évolution de leur emploi liées à
 des conditions spécifiques d'exercice de leur activité.
 
 Cette prise en charge partielle ne peut être accordée que si l'accord
@@ -18,18 +19,13 @@ d'activité dans l'entreprise par les salariés concernés. L'accord doit fixer
 de cessation d'activité, l'Etat ne pouvant s'engager que si la durée de cette
 période n'excède pas cinq ans.
 
-II. - La prise en charge partielle de l'allocation par l'Etat ne peut intervenir
-que si l'entreprise a fixé, par convention ou accord collectif, une durée
-collective du travail inférieure ou égale à 35 heures hebdomadaires sur l'année
-ou, en tout état de cause, à une durée annuelle de 1 600 heures.
-
-L'entreprise doit avoir prévu par accord collectif des dispositions relatives à
-la gestion prévisionnelle de l'emploi, au développement des compétences de ses
-salariés et à leur adaptation à l'évolution de leur emploi.
-
-L'accord d'entreprise visé au I fixe le nombre maximum des bénéficiaires de
-l'allocation pour la période d'adhésion au dispositif défini par l'accord
-professionnel.
+II. - La prise en charge de l'allocation par l'Etat ne peut intervenir que si
+l'entreprise a prévu par convention ou accord collectif des dispositions
+relatives à la gestion prévisionnelle de l'emploi, au développement des
+compétences de ses salariés et à leur adaptation à l'évolution de leur emploi.
+La convention ou l'accord collectif détermine également le nombre maximum de
+bénéficiaires de l'allocation, pour la période d'adhésion définie par l'accord
+professionnel mentionné au I.
 
 III. - L'employeur doit, avant la conclusion d'une convention de cessation
 d'activité, avoir consulté le comité d'entreprise et, le cas échéant, les
@@ -41,13 +37,13 @@ IV. - Pour bénéficier de la prise en charge partielle de l'allocation par
 l'Etat, le salarié doit remplir les conditions suivantes :
 
 1° Le salarié doit avoir adhéré personnellement au dispositif de cessation
-d'activité au cours de la période visée au I ;
+d'activité ;
 
 2° Son contrat de travail doit être suspendu pendant la durée du versement
 effectif de l'allocation ;
 
-3° Il doit être âgé d'au moins 57 ans et de moins de 65 ans et avoir adhéré au
-dispositif au plus tôt à 55 ans ;
+3° Il doit avoir adhéré au dispositif au plus tôt à 55 ans et au plus tard avant
+son 65e anniversaire ;
 
 4° Il doit avoir été salarié de l'entreprise de manière continue pendant un an
 au moins avant son adhésion au dispositif ;
@@ -92,29 +88,26 @@ anniversaire, les bénéficiaires remplissent les conditions nécessaires à la
 validation d'une retraite à taux plein au sens de l'article R. 351-27 du code de
 la sécurité sociale ou de l'article R. 351-45 du même code.
 
-VI. - Une convention passée entre l'Etat, l'entreprise et, le cas échéant,
-l'organisme gestionnaire désigné par l'accord professionnel pour effectuer, au
-nom de l'entreprise, le versement de l'allocation aux bénéficiaires de la
-cessation d'activité indique le nombre maximum de salariés susceptibles d'être
-placés en cessation d'activité pendant la période prévue au I du présent article
-ainsi que, parmi ceux-ci, le nombre des salariés dont l'allocation pourra faire
-l'objet d'une prise en charge partielle par l'Etat.
+VI. - Une convention passée entre l'Etat, l'entreprise et, l'organisme
+gestionnaire désigné par l'accord professionnel pour effectuer, au nom de
+l'entreprise, le versement de l'allocation aux bénéficiaires de la cessation
+d'activité indique le nombre maximum de salariés susceptibles d'être placés en
+cessation d'activité pendant la période prévue au I du présent article.
 
 La convention prévoit que, chaque année, l'entreprise fait connaître par une
-déclaration au ministre chargé de l'emploi le nombre de salariés répartis par
-âge qui sont susceptibles d'adhérer au dispositif pendant l'année suivant celle
-au cours de laquelle cette déclaration est établie, ainsi que le nombre de
-salariés dont l'allocation est susceptible de donner lieu à une prise en charge
-partielle de l'Etat. Cette déclaration n'est pas susceptible de modification.
+déclaration à l'autorité signataire de la convention le nombre de salariés
+répartis par âge qui sont susceptibles d'adhérer au dispositif pendant l'année
+suivant celle au cours de laquelle cette déclaration est établie. Cette
+déclaration n'est pas susceptible de modification.
 
 Le revenu de remplacement versé au salarié ne peut faire l'objet d'une prise en
 charge partielle par l'Etat si l'adhésion de l'intéressé n'est pas prévue dans
 la déclaration visée à l'alinéa ci-dessus.
 
-La convention prévoit également que l'entreprise transmet annuellement au
-ministre chargé de l'emploi un état de la réalisation des engagements qu'elle a
-souscrits dans l'accord d'entreprise ainsi qu'un bilan précisant le nombre de
-bénéficiaires ayant effectivement opté pour le dispositif.
+La convention prévoit également que l'entreprise transmet annuellement à
+l'autorité signataire de la convention un état de la réalisation des engagements
+qu'elle a souscrits dans l'accord d'entreprise ainsi qu'un bilan précisant le
+nombre de bénéficiaires ayant effectivement opté pour le dispositif.
 
 La convention doit stipuler que, pendant la période mentionnée au I,
 l'entreprise s'engage à ne solliciter aucune convention tendant à l'attribution
@@ -126,8 +119,7 @@ l'allocation prévue au I de l'article R. 322-7, durant la période pendant
 laquelle les salariés peuvent adhérer à cette dernière convention.
 
 VII. - L'Etat participe au financement de l'allocation versée aux bénéficiaires
-ayant atteint 57 ans et des cotisations aux régimes de retraites complémentaires
-versées au profit de ces mêmes bénéficiaires dans les conditions suivantes :
+ayant atteint 57 ans dans les conditions suivantes :
 
 1° La participation de l'Etat n'est due qu'après l'expiration d'un délai courant
 à compter de la date de suspension du contrat de travail et comprenant un nombre
@@ -163,33 +155,26 @@ et du ministre chargé des finances, de l'assiette définie au 2° ci-dessus. Ce
 proportion croît dans les conditions précisées par cet arrêté en fonction de
 l'âge auquel le salarié a bénéficié de la cessation d'activité.
 
-4° Le montant de la participation de l'Etat au financement des cotisations de
-retraites complémentaires est égal à une proportion, fixée par arrêté conjoint
-du ministre chargé de l'emploi et du ministre chargé des finances, des
-cotisations obligatoires aux régimes de retraite complémentaire assises sur le
-salaire de référence du bénéficiaire défini au 2° ci-dessus, dans la limite de
-deux fois le plafond prévu à l'article L. 241-3 du code de la sécurité sociale.
-
-VIII. - L'Etat rembourse l'entreprise ou, le cas échéant, l'organisme chargé de
-la gestion des cessations d'activité de la participation financière qui est à sa
+VIII. - L'Etat rembourse l'entreprise en versant à l'organisme gestionnaire
+désigné par l'accord professionnel la participation financière qui est à sa
 charge. Ce remboursement s'effectue trimestriellement à terme échu.
 
-IX. - La convention conclue entre l'Etat et l'entreprise et, le cas échéant,
-l'organisme gestionnaire du dispositif peut être totalement ou partiellement
-suspendue en cas de non-respect par l'entreprise des dispositions des accords
-professionnel ou d'entreprise ou des dispositions de la convention, ou dénoncée
-en cas de dénonciation de ces accords.
+IX. - La convention conclue entre l'Etat et l'entreprise et, l'organisme
+gestionnaire du dispositif peut être totalement ou partiellement suspendue en
+cas de non-respect par l'entreprise des dispositions des accords professionnel
+ou d'entreprise ou des dispositions de la convention, ou dénoncée en cas de
+dénonciation de ces accords.
 
 La suspension de la convention entraîne la suspension du versement de la
 participation financière de l'Etat à compter du premier jour du mois suivant
 celui au cours duquel le manquement a été constaté. Elle n'a pas pour effet de
 prolonger la durée de la convention.
 
-En cas de suspension de la convention, le ministre chargé de l'emploi, après
-appréciation de la gravité des manquements de l'entreprise, de sa situation, et
-des nouveaux engagements pris par l'employeur, peut conclure un avenant à la
-convention prévoyant le maintien d'une partie de la participation financière de
-l'Etat.
+En cas de suspension de la convention, l'autorité signataire de la convention,
+après appréciation de la gravité des manquements de l'entreprise, de sa
+situation, et des nouveaux engagements pris par l'employeur, peut conclure un
+avenant à la convention prévoyant le maintien d'une partie de la participation
+financière de l'Etat.
 
 La dénonciation de la convention entraîne la cessation définitive du versement
 de la participation financière de l'Etat, à compter du premier jour du mois
@@ -203,6 +188,5 @@ sommes qu'il a indûment versées.
 
 L'accord professionnel national et l'accord d'entreprise ne peuvent délier
 l'entreprise des engagements pris à l'égard des salariés et notamment du
-versement de l'allocation ainsi que des cotisations de retraites complémentaires
-lorsque la participation financière de l'Etat est suspendue ou interrompue en
-application des dispositions du présent article.
+versement de l'allocation lorsque la participation financière de l'Etat est
+suspendue ou interrompue en application des dispositions du présent article.
