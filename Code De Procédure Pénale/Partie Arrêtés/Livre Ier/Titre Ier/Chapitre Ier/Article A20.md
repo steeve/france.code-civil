@@ -1,13 +1,14 @@
 Article A20
 ----
-Le secrétariat de la commission [*attributions*] :
+Le secrétariat de la commission :
 
-1° Soumet au président les copies pour lesquelles est proposée une note égale ou
-inférieure à 5 sur 20. Ces copies font l'objet d'une seconde correction par un
-membre désigné par le président et appartenant à une autre formation
-(magistrature, police nationale) que celle dont fait partie le premier
-correcteur. Le résultat de ces doubles corrections est soumis à la commission
-qui en délibère spécialement et fixe la note définitive ;
+1° Soumet au président les copies des épreuves visées au 1° ou 2° de l'article
+A. 13 pour lesquelles est proposée une note moyenne égale ou inférieure à 5 sur
+20. Ces copies font l'objet d'une seconde correction par un membre désigné par
+le président et appartenant à une autre formation (magistrature, police
+nationale) que celle dont fait partie le premier correcteur. Le résultat de ces
+doubles corrections est soumis à la commission qui en délibère spécialement et
+fixe la note définitive ;
 
 2° Opère un relevé des notes attribuées pour chaque épreuve par les examinateurs
 ;

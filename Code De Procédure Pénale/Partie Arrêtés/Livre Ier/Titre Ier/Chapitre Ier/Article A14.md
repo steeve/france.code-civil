@@ -26,6 +26,8 @@ La nullité des actes de procédure.
 
 La procédure pénale applicable aux mineurs.
 
+Les juridictions judiciaires pénales.
+
 L'exécution des décisions de justice pénale.
 
 
@@ -35,183 +37,144 @@ A. - Généralités sur la législation pénale.
 
 B. - L'infraction pénale :
 
-Les principes généraux de la responsabilité pénale.
+Les principes généraux de la responsabilité pénale ;
 
-La classification des infractions et l'organisation judiciaire en matière
-pénale.
+La classification des infractions et l'organisation judiciaire en matière pénale
+;
 
-Les éléments constitutifs de l'infraction.
+Les éléments constitutifs de l'infraction ;
 
-La tentative.
+La tentative ;
 
-La complicité.
+La complicité ;
+
+La responsabilité pénale des personnes morales ;
 
 Les faits justificatifs légaux.
 
-C. - Les problèmes internationaux et européens de la législation pénale.
+C. - La sanction :
 
-D. - La sanction :
+Notions générales (classification des sanctions et des mesures de sûreté) ;
 
-Notions générales (classification des sanctions et des mesures de sûreté).
-
-Modalités de mise en oeuvre des sanctions (périodes de sûreté ; causes
+Modalités de mise en oeuvre des sanctions (période de sûreté ; causes
 d'atténuation, d'exemption, d'aggravation, de suspension et d'extinction de la
 sanction).
 
 
 Droit pénal spécial
 
-1. Crimes et délits contre les biens :
+A. - Infractions contre les personnes :
 
-- le vol ;
+Les atteintes volontaires à la vie (meurtre, assassinat, empoisonnement,
+circonstances aggravantes) ;
 
-- l'escroquerie et les infractions en matière de chèques ;
+Les atteintes involontaires à la vie (homicide involontaire) ;
 
-- l'abus de confiance ;
+Les atteintes volontaires à l'intégrité de la personne (tortures et actes de
+barbarie, violences, menaces) ;
 
-- les filouteries ;
+Les atteintes involontaires à l'intégrité de la personne ;
 
-- le chantage et les extorsions ;
+Les agressions sexuelles (viol, autres agressions sexuelles, harcèlement sexuel)
+;
 
-- les faux en écriture ;
+L'usage et le trafic de stupéfiants ;
 
-- le recel ;
+La mise en danger de la personne (risques causés à autrui, délaissement de la
+personne hors d'état de se protéger, entraves aux mesures d'assistance, omission
+de porter secours, expérimentation sur la personne, interruption illégale de la
+grossesse, provocation au suicide) ;
 
-- les destructions, dégradations et dommages ;
+Les atteintes à la liberté de la personne (enlèvement et séquestration) ;
 
-- l'immunité familiale.
+Les atteintes à la dignité de la personne (proxénétisme, conditions de travail
+et d'hébergement contraires à la dignité de la personne, le respect dû aux
+morts) ;
 
-2. L'association de malfaiteurs.
+Les atteintes aux mineurs et à la famille (délaissement du mineur, abandon de
+famille, atteintes à l'exercice de l'autorité parentale, atteintes à la
+filiation, les délits de mise en péril des mineurs).
 
-3. Les crimes et délits contre les personnes :
+B. - Infractions contre les biens :
 
-- les menaces ;
+Le vol ;
 
-- le meurtre ;
+L'escroquerie ;
 
-- l'assassinat ;
+L'abus frauduleux de l'état d'ignorance ;
 
-- le parricide ;
+Les détournements (abus de confiance, détournement de gage, organisation de
+l'insolvabilité) ;
 
-- l'infanticide ;
+Les abus de biens sociaux ;
 
-- l'empoisonnement ;
+La filouterie ;
 
-- les coups et blessures volontaires ;
+L'extorsion ;
 
-- l'homicide et les coups et blessures involontaires.
+Le chantage ;
 
-4. Les infractions contre les moeurs :
+Le recel ;
 
-- l'outrage aux bonnes moeurs ;
+L'immunité familiale ;
 
-- l'outrage public à la pudeur ;
+Les menaces ;
 
-- les attentats à la pudeur ;
+Les destructions, dégradations et détériorations ;
 
-- le viol ;
+Les atteintes aux systèmes de traitement automatisé de données.
 
-- le proxénétisme.
+C. - Infractions contre la nation, l'Etat et la paix publique :
 
-5. Les infractions contre la famille :
+L'association de malfaiteurs ;
 
-- crimes et délits envers l'enfant ;
+Les faux ;
 
-- l'enlèvement de mineurs ;
+Les crimes et délits commis par ou contre un fonctionnaire (rébellion, outrages,
+corruption, trafic d'influence, concussion).
 
-- la non-représentation d'enfant ;
+D. - Les infractions à la police de la circulation routière.
 
-- l'abandon de famille.
-
-6. Les crimes et délits commis par ou contre les fonctionnaires.
-
-7. Les arrestations et séquestrations arbitraires ; la prise d'otage.
-
-8. L'usage et le trafic de stupéfiants.
+E. - Les problèmes internationaux et européens de la législation pénale.
 
 
-Libertés publiques et droit administratif
+Libertés publiques
 
-A. - Libertés publiques :
-
-Introduction générale aux libertés publiques ; sources, régime juridique,
-garanties et protections des libertés publiques.
+Introduction générale aux libertés publiques (sources, régime juridique,
+garanties et protection des libertés publiques).
 
 Les libertés individuelles et la vie privée :
 
-- la sûreté ou liberté individuelle ;
+La sûreté ou liberté individuelle ;
 
-- la liberté d'aller et venir ;
+La liberté d'aller et venir ;
 
-- le respect de la vie privée, du domicile et des correspondances ;
+Le respect de la vie privée, du domicile et des correspondances ;
 
-- le respect de la personne et les lois antidiscriminatoires.
+Le respect de la personne et les lois antidiscriminatoires.
 
 Les libertés d'expression collective :
 
-- la liberté d'association ;
+La liberté d'association ;
 
-- la liberté de réunion ;
+La liberté de réunion ;
 
-- le régime des manifestations ;
+Le régime des manifestations ;
 
-- le régime des attroupements.
+Le régime des attroupements ;
 
 La liberté de la presse.
 
 Les libertés à contenu économique et social :
 
-- la liberté syndicale ;
+La liberté syndicale ;
 
-- le droit de grève ;
-
-- la liberté du commerce et de l'industrie.
+Le droit de grève.
 
 Les libertés contemporaines :
 
-- la motivation des décisions administratives ;
+La motivation des décisions administratives ;
 
-- l'accès aux documents administratifs ;
+L'accès aux documents administratifs ;
 
-- l'informatique et les libertés.
-
-B. - Droit administratif.
-
-La hiérarchie des normes de droit.
-
-La loi et le règlement (élaboration et contrôle).
-
-L'organisation institutionnelle en France :
-
-- la séparation des pouvoirs ;
-
-- le Gouvernement ;
-
-- le Parlement ;
-
-- les rapports entre le Gouvernement et le Parlement ;
-
-- le Conseil constitutionnel.
-
-L'organisation juridictionnelle :
-
-- les juridictions de l'ordre judiciaire (juridiction de droit commun et
-juridictions d'exception) ;
-
-- les juridictions de l'ordre administratif (notions de procédure
-
-contentieuse) ;
-
-- le tribunal des conflits ;
-
-- les voies de recours.
-
-L'organisation territoriale :
-
-- les notions de décentralisation et de déconcentration ;
-
-- les collectivités territoriales (commune, département, région) ;
-
-- la représentation de l'Etat dans chaque collectivité territoriale ;
-
-- le préfet (art. 30 du code de procédure pénale).
+L'informatique et les libertés.
