@@ -3,20 +3,24 @@ Article 219
 I. Pour le calcul de l'impôt, toute fraction du bénéfice imposable inférieure à
 10 F est négligée.
 
-Le taux de l'impôt est fixé à 45 % (1).
+Le taux de l'impôt est fixé à 45 % (1). Il est réduit à 42% pour les exercices
+ouverts à compter du 1er janvier 1988.
 
 Toutefois :
 
 a. Le montant net des plus-values à long terme autres que celles visées à
 l'article 39 quindecies-II fait l'objet d'une imposition séparée au taux de 15
-%, dans les conditions prévues aux articles 39 quindecies-I-1 et 209 quater ;
+%, dans les conditions prévues au 1 du I de l'article 39 quindecies et à
+l'article 209 quater.
 
 L'excédent éventuel des moins-values à long terme ne peut être imputé que sur
 les plus-values à long terme réalisées au cours des dix exercices suivants.
 
 Toutefois, en cas de liquidation d'entreprise, cet excédent peut être déduit des
 bénéfices de l'exercice de liquidation à raison des quinze quarante-cinquièmes
-de son montant (2).
+de son montant (2). Pour les liquidations intervenues en cours des exercices
+ouverts à compter du 1er janvier 1988, cet excédent peut être déduit à raison
+des quinze quarante- deuxièmes de son montant.
 
 Le montant net des plus-values à long terme visées à l'article 39 quindecies-II
 fait l'objet d'une imposition séparée au taux de 25 % dans les conditions

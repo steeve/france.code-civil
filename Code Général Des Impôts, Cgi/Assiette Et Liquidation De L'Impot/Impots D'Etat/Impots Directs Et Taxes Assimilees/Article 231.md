@@ -26,12 +26,7 @@ Les rémunérations payées par l'Etat sur le budget général sont exonérées 
 sur les salaires lorsque cette exonération n'entraîne pas de distorsion dans les
 conditions de la concurrence.
 
-1 bis. Sous réserve des dispositions de l'article 231 bis H, l'avantage
-correspondant à la différence entre la valeur réelle de l'action à la date de
-levée d'une option accordée dans les conditions prévues aux articles 208-1 à
-208-8 de la loi n° 66-537 du 24 juillet 1966 (1) et le prix de souscription ou
-d'achat de cette action est considéré comme un complément de salaire passible de
-la taxe sur les salaires dans les conditions prévues au 1.
+1 bis. (Abrogé).
 
 1 ter. Les indemnités, remboursements et allocations forfaitaires pour frais
 versés aux dirigeants de sociétés désignés à l'article 80 ter sont, quel que

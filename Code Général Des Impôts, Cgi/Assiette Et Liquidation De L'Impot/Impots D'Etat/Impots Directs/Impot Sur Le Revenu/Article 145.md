@@ -6,20 +6,23 @@ limitée [*SARL*] qui détiennent, dans le capital d'autres sociétés revêtant
 l'une de ces formes, des participations satisfaisant aux conditions ci-après :
 
 a. Les titres de participations doivent revêtir la forme nominative ou être
-déposés dans un établissement désigné par l'administration ;
-
-b. Ils doivent représenter au moins 10 % du capital de la société émettrice ; ce
-pourcentage s'apprécie à la date de la mise en paiement des produits de la
+déposés dans un établissement désigné par l'administration ; b. Lorsque le prix
+de revient de la participation détenue dans la société émettrice est inférieur à
+150 millions de francs, les titres de participation doivent représenter au moins
+10 p. 100 du capital de la société émettrice ; ce prix de revient et ce
+pourcentage s'apprécient à la date de mise en paiement des produits de la
 participation.
 
-Toutefois aucun pourcentage minimal n'est exigé pour les titres reçus en
-rémunération d'apports partiels admis au régime fiscal des fusions ou d'apports
-consentis à des groupements d'emprunt professionnels créés pour faciliter le
-financement des investissements dans certains secteurs de l'économie ;
-
-c. Les titres de participation doivent avoir été souscrits à l'émission. A
-défaut, la personne morale participante doit avoir pris l'engagement de les
-conserver pendant un délai de deux ans.
+Aucun pourcentage minimal n'est exigé pour les titres reçus en rémunération
+d'apports partiels admis au régime fiscal des fusions ou d'apports consentis à
+des groupements d'emprunt professionnels créés pour faciliter le financement des
+investissements dans certains secteurs de l'économie ; Les titres prêtés dans
+les conditions du chapitre V de la loi n° 87-416 du 17 juin 1987 sur l'épargne
+ne peuvent être pris en compte par les parties au contrat de prêt pour
+l'application du régime fiscal des sociétés mères. c. Les titres de
+participation doivent avoir été souscrits à l'émission. A défaut, la personne
+morale participante doit avoir pris l'engagement de les conserver pendant un
+délai de deux ans.
 
 2. Le régime fiscal des sociétés mères s'applique également aux sociétés
 françaises par actions ou à responsabilité limitée qui ont souscrit à l'émission
@@ -80,7 +83,8 @@ financement des télécommunications visées à l'article 1er de la loi n° 69-1
 du 24 décembre 1969 ;
 
 f. Aux produits distribués aux associés des sociétés agréées pour le financement
-des économies d'énergie mentionnées à l'article 208-3° sexies.
+des économies d'énergie (Sofergie) et résultant de l'exercice des activités
+exonérées en application du 3° sexies de l'article 208 ;
 
 g. Aux produits et plus-values nets distribués par les sociétés de
 capital-risque exonérés en application du 3° septies de l'article 208.

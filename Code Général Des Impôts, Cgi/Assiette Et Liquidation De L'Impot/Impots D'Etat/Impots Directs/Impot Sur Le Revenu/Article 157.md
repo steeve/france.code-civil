@@ -17,7 +17,10 @@ nominal.
 4° Les pensions, prestations et allocations affranchies de l'impôt en vertu de
 l'article 81 ;
 
-5° (Disposition périmée) ;
+5° Les produits et plus-values que procurent les placements effectués dans le
+cadre d'un plan d'épargne en vue de la retraite ainsi que les avoirs fiscaux et
+crédits d'impôt attachés à ces produits et remboursés par l'Etat ; ces sommes
+s'ajoutent aux versements effectués sur le plan ;
 
 6° Les gratifications allouées aux vieux travailleurs à l'occasion de la
 délivrance de la médaille d'honneur par le ministère des affaires sociales ;
@@ -101,6 +104,8 @@ d'assurance-vieillesse des artisans et commerçants, en application de l'article
 20° Les intérêts des titres d'indemnisation prioritaires et des titres
 d'indemnisation créés en application de la loi n° 78-1 du 2 janvier 1978
 relative à l'indemnisation des français rapatriés d'outre-mer.
+
+21° Les avantages visés à l'article 163 bis D.
 
 (1) Les livrets d'épargne au profit des travailleurs manuels peuvent être
 transformés en livret d'épargne-entreprise dans les conditions fixées par le

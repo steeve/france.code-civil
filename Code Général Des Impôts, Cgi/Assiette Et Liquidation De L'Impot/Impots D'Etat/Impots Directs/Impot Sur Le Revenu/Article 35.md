@@ -34,6 +34,12 @@ ou d'industrie;
 
 7° Membres des copropriétés de navires mentionnées à l'article 8 quater.
 
+8° Personnes qui, à titre professionnel, effectuent en France ou à l'étranger,
+directement ou par personne interposée, des opérations sur un marché à terme
+d'instruments financiers, à condition qu'elles aient opté pour ce régime dans
+les quinze jours du début du premier exercice d'imposition à ce titre. L'option
+est irrévocable.
+
 II (Abrogé)
 
 III Pour l'application du présent article, les donations entre vifs ne sont pas

@@ -21,6 +21,10 @@ marques de fabrique, procédés ou formules de fabrication;
 
 Les remises allouées pour la vente de tabacs fabriqués.
 
+Les produits des opérations réalisées à titre habituel sur un marché à terme
+d'instruments financiers, lorsque l'option prévue au 8° du I de l'article 35
+n'était pas ouverte au contribuable ou lorsqu'il ne l'a pas exercée.
+
 3 Les bénéfices réalisés par les greffiers titulaires de leur charge sont
 imposés, suivant les règles applicables aux bénéfices des charges et offices,
 d'après leur montant net déterminé sous déduction des traitements et indemnités

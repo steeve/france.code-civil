@@ -1,6 +1,6 @@
 Article 199 decies
 ----
-La réduction d'impôt prévue à l'article 199 nonies est accordée aux
+I. La réduction d'impôt prévue à l'article 199 nonies est accordé aux
 contribuables qui, pour la gestion de leur patrimoine personnel, souscrivent
 entre le 1er janvier 1985 et le 31 décembre 1989 [*période*] à la constitution
 ou à l'augmentation du capital des sociétés immobilières d'investissement
@@ -9,13 +9,14 @@ sociétés civiles [*de placement immobilier, SCPI*] régies par la loi n° 70-1
 du 31 décembre 1970 lorsque le produit de cette souscription est exclusivement
 destiné à financer la construction ou l'acquisition d'immeubles locatifs neufs
 situés en France et affectés pour les trois quarts au moins de leur superficie à
-usage d'habitation [*proportion minimale*].
+usage d'habitation [*proportion minimale*]. Les titres acquis dans le cadre d'un
+plan d'épargne en vue de la retraite ne sont pas pris en compte.
 
-Cette réduction est calculée sur les trois quarts du montant de la souscription.
-Elle s'applique à l'impôt dû au titre de l'année de la souscription à condition
-que le contribuable s'engage à conserver les titres pendant la période définie
-au troisième alinéa sans que la durée de conservation puisse être inférieure à
-neuf ans.
+La réduction d'impôt est calculée sur les trois quarts du montant de la
+souscription. Elle s'applique à l'impôt dû au titre de l'année de la
+souscription à condition que le contribuable s'engage à conserver les titres
+pendant la période définie au troisième alinéa sans que la durée de conservation
+puisse être inférieure à neuf ans.
 
 Lors de cette souscription, les sociétés précitées doivent fournir au
 contribuable une attestation justifiant de l'affectation du capital souscrit à
@@ -28,5 +29,17 @@ En cas de non-respect des engagements définis aux deuxième et troisième alin�
 la réduction pratiquée fait l'objet d'une reprise au titre de l'année de la
 rupture.
 
-Un décret fixe les obligations incombant aux contribuables et aux sociétés
+II. Le taux de la réduction est porté à 10 p. 100 pour les souscriptions
+mentionnées au I réalisées à compter du 1er juin 1986 lorsque leur produit est
+exclusivement destiné à financer la construction ou l'acquisition d'immeubles
+locatifs neufs.
+
+La durée de neuf ans prévue au deuxième alinéa du I est réduite à six ans.
+
+Cette réduction peut être pratiquée chaque année en cas de souscriptions
+successives ; toutefois, le total des réductions pratiquées jusqu'au 31 décembre
+1989 au titre du présent article ne peut excéder 40 000 F pour un couple marié
+et 20 000 F pour un contribuable célibataire, veuf ou divorcé.
+
+III. Un décret fixe les obligations incombant aux contribuables et aux sociétés
 mentionnés au présent article.

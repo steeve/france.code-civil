@@ -22,8 +22,8 @@ remboursement d'apports ou de primes d'émission. Une répartition n'est réput�
 présenter le caractère d'un remboursement d'apport ou de prime que si tous les
 bénéfices ou réserves ont été auparavant répartis [*condition*] ;
 
-4° Le montant des tantièmes, jetons de présence, remboursements forfaitaires de
-frais et toutes autres rémunérations revenant, à quelque titre que ce soit, aux
+4° Le montant des jetons de présence, remboursements forfaitaires de frais et
+toutes autres rémunérations revenant, à quelque titre que ce soit, aux
 administrateurs ou aux membres du conseil de surveillance des sociétés anonymes
 visées au 1°;
 
@@ -48,3 +48,6 @@ l'exploitation des nappes de pétrole ou de gaz naturel;
 
 11° Les produits des fonds de placement ou d'investissement constitués à
 l'étranger, quelle que soit la nature ou l'origine des produits distribués.
+
+12° Les profits résultant des opérations réalisées à l'étranger sur un marché à
+terme d'instruments financiers.
