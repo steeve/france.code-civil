@@ -1,4 +1,5 @@
 Article R1
 ----
-Le présent chapitre détermine les dispositions nécessaires pour assurer, en cas
-de modification des traitements, une variation équivalente des pensions.
+La valeur du point de pension est fixée par décret pris sur le rapport du
+ministre chargé des anciens combattants et des victimes de guerre et du ministre
+chargé du budget.

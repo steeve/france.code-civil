@@ -1,6 +1,11 @@
 Article R4
 ----
-En cas de variation du traitement brut d'activité afférent à l'indice du
-classement hiérarchique des grades et emplois de l'Etat qui est mentionné à
-l'article L. 8 bis des modifications correspondantes devront affecter, à partir
-de la date à laquelle cette variation prendra effet, le montant des pensions.
+La commission se réunit sur convocation de son président, qui fixe l'ordre du
+jour de la séance.
+
+Les membres de la commission reçoivent, dix jours au moins avant la date de la
+réunion, une convocation à laquelle sont joints l'ordre du jour et un rapport
+établi par le ou les ministres chargés de l'économie et du budget sur les
+évolutions respectives en moyenne de la valeur du point de pension et de
+l'indice d'ensemble des traitements de la fonction publique (brut) tel qu'il est
+défini par l'Institut national de la statistique et des études économiques.
