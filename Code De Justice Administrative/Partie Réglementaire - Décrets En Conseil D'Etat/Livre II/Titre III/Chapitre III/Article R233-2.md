@@ -4,5 +4,4 @@ Avant leur première entrée en fonctions, les premiers conseillers et les
 conseillers, quel que soit leur recrutement, reçoivent au Conseil d'Etat une
 formation complémentaire de six mois dont la durée est comptée comme services
 effectifs dans le corps des tribunaux administratifs et des cours
-administratives d'appel. Ils ne peuvent accomplir leur obligation de mobilité
-avant l'achèvement de cette période de formation.
+administratives d'appel.
