@@ -1,8 +1,7 @@
 Article D161-2-1
 ----
-Pour l'application de l'article L. 161-18, la caisse compétente pour apprécier
-l'inaptitude au travail est celle où l'intéressé a été affilié en dernier lieu.
-En cas d'activités simultanées relevant des régimes visés à l'article L. 161-18,
-la demande est valablement adressée à l'un des organismes dont relèvent ces
-activités. L'organisme qui apprécie l'inaptitude au travail informe le ou les
-autres régimes en cause.
+Les personnes qui reprennent le travail à l'issue du congé parental d'éducation
+prévu à l'article L. 122-28-1 du code du travail ou de la perception de
+l'allocation parentale d'éducation retrouvent pendant trois mois à compter de
+cette date les droits à l'assurance invalidité qui leur étaient ouverts avant la
+perception de l'allocation parentale d'éducation ou le début du congé.
