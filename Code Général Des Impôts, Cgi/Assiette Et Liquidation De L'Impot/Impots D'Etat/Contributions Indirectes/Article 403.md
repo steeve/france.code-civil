@@ -11,8 +11,8 @@ liqueur visés à l'article 417 bis ;
 2° 4.405 F pour les rhums, à l'exclusion des rhums légers, et pour les crèmes de
 cassis ;
 
-3° 6.795 F pour les apéritifs à base de vin, les vermouths et les vins de
-liqueur et assimilés ;
+3° 6.795 F pour les apéritifs à base de vin, de cidre ou de poiré, les vermouths
+et les vins de liqueur et assimilés ;
 
 4° 7.655 F pour tous les autres produits à l'exception de ceux mentionnés à
 l'article 406 A-II-1° et 2°.

@@ -1,7 +1,7 @@
 Article 1664
 ----
 1° En ce qui concerne les contribuables qui auront été compris dans les rôles de
-l'année précédente pour une somme au moins égale à 1.000 F, l'impôt sur le
+l'année précédente pour une somme au moins égale à 1.300 F, l'impôt sur le
 revenu donne lieu, par dérogation aux dispositions de l'article 1663 et en
 l'absence d'option pour le paiement mensuel telle qu'elle est prévue à l'article
 1681 A, à deux versements d'acomptes le 31 janvier et le 30 avril de l'année
@@ -19,7 +19,7 @@ paiement mensuel, au versement d'un acompte provisionnel égal à 60 % de cette
 cotisation et payable au plus tard le 15 mai de la même année.
 
 Cet acompte n'est pas dû si le montant de la cotisation n'atteint pas la somme
-de 1.000 F.
+de 1.300 F.
 
 2° A défaut de paiement volontaire, le recouvrement des acomptes exigibles est
 assuré et poursuivi dans les conditions fixées pour les impôts directs par le

@@ -10,12 +10,6 @@ l'ensemble de ses revenus ou bénéfices, la déclaration est limitée à
 l'indication de ceux de ces revenus ou bénéfices qui sont soumis à l'impôt sur
 le revenu.
 
-La déclaration mentionnée au premier alinéa doit faire apparaître le montant des
-produits de placements à revenu fixe soumis au prélèvement libératoire de
-l'impôt sur le revenu et pour lesquels le contribuable a renoncé à l'anonymat,
-ainsi que le montant des profits de construction soumis au prélèvement
-libératoire de 50% prévu à l'article 235 quinquies (1).
-
 1 bis. Les époux doivent conjointement signer la déclaration d'ensemble des
 revenus de leur foyer.
 
@@ -48,5 +42,3 @@ vertu d'une disposition du présent code ou d'une convention internationale
 relative aux doubles impositions ou d'un autre accord international, sont
 exonérés mais qui doivent être pris en compte pour le calcul de l'impôt
 applicable aux autres éléments du revenu global.
-
-(1) Disposition applicable à compter de l'imposition des revenus de 1983.
