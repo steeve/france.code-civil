@@ -18,3 +18,12 @@ année tels que définis ci-dessus.
 La cotisation annuelle, déduction faite de la fraction semestrielle payable au
 1er avril et émise dans les conditions prévues à l'alinéa précédent, est payable
 au plus tard le 1er octobre de l'année en cours .
+
+La cotisation prévue au présent article cesse d'être due :
+
+-pour les personnes qui entrent en jouissance d'une allocation ou pension de
+retraite, à compter de la date de la cessation définitive de toute activité non
+salariée non agricole ;
+
+-pour les personnes entrant en jouissance d'une pension d'invalidité, à compter
+de la date d'attribution de cet avantage.
