@@ -1,11 +1,6 @@
 Article L3342-1
 ----
-- Le comptable chargé du recouvrement des ressources éventuelles est tenu de
-faire, sous sa responsabilité, toutes les diligences nécessaires pour la rentrée
-de ces produits.
-
-Les rôles et états des produits sont rendus exécutoires par le président du
-conseil général et par lui remis au comptable.
-
-Les oppositions, lorsque la matière est de la compétence des tribunaux
-ordinaires, sont jugées comme affaires sommaires.
+Le comptable du département est seul chargé d'exécuter, sous sa responsabilité
+et sous réserve des contrôles qui lui incombent, le recouvrement des recettes
+ainsi que le paiement des dépenses de la collectivité dans la limite des crédits
+régulièrement ouverts par le conseil général.

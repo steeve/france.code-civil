@@ -1,6 +1,7 @@
 Article L3332-2
 ----
-- Les recettes non fiscales de la section de fonctionnement se composent :
+- Les recettes non fiscales de la section de fonctionnement se composent
+notamment :
 
 1° Du revenu et du produit des propriétés départementales ;
 
@@ -20,8 +21,17 @@ au fonctionnement des départements ;
 5° Des ressources éventuelles du service des chemins de fer d'intérêt local, des
 tramways départementaux et des voitures automobiles ;
 
-6° Des subventions de l'Etat et des contributions des communes et des tiers pour
-les dépenses annuelles et permanentes d'utilité départementale ;
+6° Des subventions de l'Etat et des contributions des communes et des tiers aux
+dépenses de fonctionnement ;
 
 7° Des remboursements d'avances effectués sur les ressources de la section de
 fonctionnement.
+
+8° Du produit de la neutralisation des dotations aux amortissements ;
+
+9° De la reprise des subventions d'équipement reçues ;
+
+10° Du produit du Fonds de financement de l'allocation personnalisée d'autonomie
+mentionné à l'article L. 232-21 du code de l'action sociale et des familles ;
+
+11° Des dons et legs en espèces hormis ceux visés au 7° de l'article L. 3332-3.
