@@ -5,10 +5,11 @@ assurances, à des dates fixées par arrêté du ministre chargé de l'économie
 compte rendu détaillé annuel de leurs opérations et tous états, tableaux ou
 documents de nature à permettre de contrôler leur situation financière, la
 marche de leurs opérations, l'encaissement des primes ou cotisations, le
-règlement des sinistres, l'évaluation et la représentation des provisions et des
-réserves. La liste et la forme des états compris dans le compte rendu détaillé
-annuel et des autres états, tableaux et documents prévus ci-dessus sont fixées
-par arrêté du ministre chargé de l'économie.
+règlement des sinistres, l'évaluation et, pour les entreprises visées aux 1° et
+2° de l'article R. 341-1, la représentation des provisions et des réserves. La
+liste et la forme des états compris dans le compte rendu détaillé annuel et des
+autres états, tableaux et documents prévus ci-dessus sont fixées par arrêté du
+ministre chargé de l'économie.
 
 Les entreprises doivent communiquer à la commission de contrôle des assurances,
 sur sa demande, tous renseignements et documents permettant d'apprécier la

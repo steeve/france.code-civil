@@ -1,5 +1,4 @@
 Article R345-7
 ----
-Lorsque la société consolidante est une entreprise régie par le présent code, la
-présentation du bilan ainsi que le compte de résultat consolidés comprend les
-postes, éventuellement agrégés, des modèles définis par le présent livre.
+Le bilan, le compte de résultat et l'annexe consolidés ou combinés comprennent
+les postes des modèles définis par le présent livre.

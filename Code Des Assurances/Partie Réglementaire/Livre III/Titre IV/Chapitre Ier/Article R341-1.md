@@ -21,3 +21,6 @@ solvabilité globale exercée par la commission de contrôle des assurances, en
 vertu de la section IV du chapitre IV du titre III du présent livre, pour les
 opérations effectuées dans l'ensemble des pays auxquels s'étend cette
 vérification.
+
+3° Aux entreprises soumises au contrôle de l'Etat en vertu de l'article L.
+310-1-1.
