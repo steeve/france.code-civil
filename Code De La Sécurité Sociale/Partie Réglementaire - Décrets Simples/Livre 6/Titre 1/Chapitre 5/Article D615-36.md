@@ -11,3 +11,10 @@ de l'incapacité de travail ;
 constat médical de l'incapacité de travail ; en cas de paiement tardif, l'assuré
 peut faire valoir son droit aux prestations dans les conditions prévues par
 l'article L. 615-8.
+
+Lorsque l'assuré est affilié depuis moins d'un an au régime d'assurance maladie
+maternité des travailleurs non salariés non agricoles et relevait précédemment à
+titre personnel d'un ou de plusieurs régimes, la période d'affiliation au régime
+antérieur est prise en compte pour l'appréciation de la durée d'affiliation
+prévue au 1°, sous réserve qu'il n'y ait pas eu d'interruption entre les deux
+affiliations.

@@ -8,6 +8,12 @@ L'indemnité journalière est attribuée à l'expiration d'un délai de carence 
 trois jours en cas d'hospitalisation et de sept jours en cas d'accident ou de
 maladie, à compter de la constatation médicale de l'incapacité de travail.
 
+En cas de nouvel arrêt, après reprise du travail, dû à une affection donnant
+lieu à la procédure prévue à l'article L. 324-1 ou à un accident et n'ouvrant
+pas droit à indemnisation par le régime invalidité des professions artisanales
+prévu à l'article L. 635-7, le délai de carence n'est appliqué qu'une seule
+fois, lors du premier arrêt dû à cette affection ou à cet accident.
+
 Elle est due pour chaque jour ouvrable ou non.
 
 Lorsque l'avis d'arrêt de travail est adressé au service médical au-delà du
