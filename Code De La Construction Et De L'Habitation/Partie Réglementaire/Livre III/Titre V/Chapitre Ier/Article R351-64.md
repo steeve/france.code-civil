@@ -16,10 +16,10 @@ défaillant à la connaissance de la section des aides publiques publiques au
 logement du conseil départemental de l'habitat et justifier qu'il poursuit par
 tous les moyens de recouvrement de sa créance.
 
-" Sauf en cas de mauvaise foi avérée, le versement de l'aide personnalisée au
+Sauf en cas de mauvaise foi avérée, le versement de l'aide personnalisée au
 logement (A.P.L.) est maintenu sur décision de la section départementale des
 aides publiques au logement (S.D.A.P.L.) dans les conditions prévues à l'article
-R. 351-30. "
+R. 351-30.
 
 Si le gestionnaire ne saisit pas la section dans les délais susmentionnés ou
 n'apporte pas les justifications prévues au troisième alinéa, celle-ci est

@@ -6,11 +6,15 @@ opérations financées en application du livre III, titre V, et de l'article L.
 431-6 du présent code.
 
 Ils sont créés dans les formes prévues à l'article L. 421-4, après avis du
-[*comité départemental*] conseil départemental de l'habitat et du conseil
-supérieur des habitations à loyer modéré.
+conseil départemental de l'habitat et du conseil supérieur des habitations à
+loyer modéré.
 
 Ils sont habilités à gérer les immeubles à usage principal d'habitations
 appartenant à l'Etat, aux collectivités locales, aux établissements publics
 groupant des collectivités locales et à d'autres organismes d'habitations à
 loyer modéré, à des sociétés d'économie mixte ou à des organismes à but non
 lucratif.
+
+Ils peuvent réaliser des hébergements de loisirs à vocation sociale, dans les
+conditions définies à l'article L. 421-1 et précisées aux articles R. 421-4 et
+R. 421-4-1.

@@ -6,15 +6,15 @@ des comptes de capitaux, des comptes d'immobilisations, des comptes de stocks,
 des charges à répartir sur plusieurs exercices, des provisions pour dépréciation
 des comptes de tiers et des comptes financiers.
 
-" La section de fonctionnement fait apparaître :
+La section de fonctionnement fait apparaître :
 
-" a) Au titre des charges : les charges d'exploitation, les charges financières
-et les charges exceptionnelles ;
+a) Au titre des charges : les charges d'exploitation, les charges financières et
+les charges exceptionnelles ;
 
-" b) Au titres des produits : les produits d'exploitation, les produits
-financiers et les produits exceptionnels.
+b) Au titres des produits : les produits d'exploitation, les produits financiers
+et les produits exceptionnels.
 
-" En outre, la section de fonctionnement fait apparaître, au titre des charges,
+En outre, la section de fonctionnement fait apparaître, au titre des charges,
 selon des délais et des modalités fixés par les instructions prévues à l'article
 R. 423-40, tout ou partie du report à nouveau figurant au bilan de
 l'avant-dernier exercice.
