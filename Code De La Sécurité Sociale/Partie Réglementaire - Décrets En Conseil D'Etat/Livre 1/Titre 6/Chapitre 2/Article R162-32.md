@@ -1,14 +1,52 @@
 Article R162-32
 ----
-Les tarifs des prestations des établissements nouvellement créés ou issus d'un
-regroupement entre établissements ainsi que les tarifs des prestations
-correspondant à des activités nouvellement autorisées ou reconnues au sein d'un
-établissement sont déterminés sur la base des données régionales et nationales
-issues du système d'information prévu aux articles L. 6113-7 et L. 6113-8 du
-code de la santé publique ou, à défaut, des tarifs applicables pour les mêmes
-activités dans les établissements mentionnés à l'article L. 6114-3 du code de la
-santé publique qui ont fait l'objet d'un classement identique dans les
-conditions prévues à l'article R. 162-28 du présent code ou qui présentent, à
-défaut, des conditions techniques de fonctionnement équivalentes. Un arrêté des
-ministres chargés de la santé et de la sécurité sociale fixe les modalités
-d'application du présent article.
+Les catégories de prestations d'hospitalisation donnant lieu à une prise en
+charge par les régimes obligatoires de sécurité sociale mentionnées au 1° de
+l'article L. 162-22-6 sont les suivantes :
+
+1° Le séjour et les soins avec ou sans hébergement, représentatifs de la mise à
+disposition de l'ensemble des moyens nécessaires à l'hospitalisation du patient,
+à l'exception de ceux faisant l'objet d'une prise en charge distincte en
+application des dispositions de l'article R. 162-32-1.
+
+La prise en charge des frais occasionnés par ces prestations est assurée par des
+forfaits.
+
+Ces forfaits sont facturés par séance, journée ou séjour. Ils peuvent être
+minorés ou majorés notamment en fonction de la durée de séjour.
+
+2° Les soins dispensés dans les services et les unités d'accueil et de
+traitement des urgences, à l'exception des soins dispensés en hospitalisation
+dans les zones de surveillance de très courte durée, représentatifs de la mise à
+disposition de l'ensemble des moyens nécessaires à l'accueil et au traitement du
+patient à l'exception de ceux faisant l'objet d'une prise en charge distincte en
+application des dispositions de l'article R. 162-32-1.
+
+La prise en charge des frais occasionnés par ces prestations est assurée par des
+forfaits.
+
+Ces forfaits sont facturés pour chaque passage non programmé dans un service ou
+une unité d'accueil et de traitement des urgences autorisé, dès lors que ce
+passage n'est pas suivi d'une hospitalisation en service de médecine, de
+chirurgie, d'obstétrique ou d'odontologie au sein de l'établissement.
+
+3° Les prélèvements d'organes ou de tissus, représentatifs de la mise à
+disposition de l'ensemble des moyens nécessaires au prélèvement d'organes ou de
+tissus et, le cas échéant, à la conservation, à la restauration et à la
+restitution du corps à l'exception de ceux faisant l'objet d'une prise en charge
+distincte en application des dispositions de l'article R. 162-32-1.
+
+La prise en charge des frais occasionnés par ces prestations est assurée par des
+forfaits facturés pour chaque prélèvement d'un ou plusieurs organes ou tissus.
+
+4° Les soins non programmés non suivis d'une hospitalisation dans les
+établissements qui ne sont pas autorisés à exercer l'activité d'accueil et de
+traitement des urgences, représentatifs de la mise à disposition de matériel de
+petite chirurgie ou d'immobilisation.
+
+La prise en charge des frais occasionnés par ces prestations est assurée par des
+forfaits.
+
+Ces forfaits sont facturés dès lors que certains actes nécessitant l'utilisation
+de matériel de petite chirurgie ou d'immobilisation sont effectués lors des
+soins non programmés.
