@@ -1,8 +1,9 @@
 Article R412-1
 ----
-I. - En circulation, tout conducteur ou passager d'un véhicule à moteur doit
-porter une ceinture de sécurité homologuée dès lors que le siège qu'il occupe en
-est équipé en application des dispositions du livre III.
+I. - En circulation, tout conducteur ou passager d'un véhicule à moteur dont le
+poids total autorisé en charge n'excède pas 3,5 tonnes, doit porter une ceinture
+de sécurité homologuée dès lors que le siège qu'il occupe en est équipé en
+application des dispositions du livre III.
 
 II. - Toutefois, le port de la ceinture de sécurité n'est pas obligatoire :
 
