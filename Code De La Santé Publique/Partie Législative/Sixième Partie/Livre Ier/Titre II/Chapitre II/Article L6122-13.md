@@ -18,10 +18,10 @@ assortie d'une mise en demeure.
 
 A l'issue d'un délai d'un mois si la mise en demeure est restée sans effet, le
 ministre ou le directeur de l'agence régionale de l'hospitalisation saisit dans
-un délai de quinze jours, selon les cas, le Comité national ou le comité
-régional de l'organisation sanitaire et sociale qui, dans les quarante-cinq
-jours de la saisine, émet un avis sur la mesure de suspension au vu des
-observations formulées par l'établissement concerné.
+un délai de quinze jours, selon le cas, le Comité national de l'organisation
+sanitaire et sociale ou la section compétente du conseil régional de santé qui,
+dans les quarante-cinq jours de la saisine, émet un avis sur la mesure de
+suspension au vu des observations formulées par l'établissement concerné.
 
 Le ministre ou le directeur de l'agence régionale de l'hospitalisation doit
 alors se prononcer à titre définitif, éventuellement sur le retrait

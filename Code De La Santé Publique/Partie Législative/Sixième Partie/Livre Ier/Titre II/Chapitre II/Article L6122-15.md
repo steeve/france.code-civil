@@ -17,9 +17,9 @@ La demande du directeur de l'agence régionale de l'hospitalisation doit être
 motivée. Les conseils d'administration des établissements concernés se
 prononcent dans un délai de trois mois sur cette création ou cette convention.
 Dans la mesure où sa demande ne serait pas suivie d'effet, le directeur de
-l'agence régionale de l'hospitalisation peut, après avoir recueilli l'avis du
-comité régional de l'organisation sanitaire et sociale, prendre les mesures
-appropriées pour que les établissements concluent une convention de coopération,
-adhèrent à un réseau de soins ou créent un syndicat interhospitalier ou un
-groupement d'intérêt public, ou prononcer la fusion des établissements publics
-de santé concernés.
+l'agence régionale de l'hospitalisation peut, après avoir recueilli avis de la
+section compétente du conseil régional de santé, prendre les mesures appropriées
+pour que les établissements concluent une convention de coopération, adhèrent à
+un réseau de soins ou créent un syndicat interhospitalier ou un groupement
+d'intérêt public, ou prononcer la fusion des établissements publics de santé
+concernés.

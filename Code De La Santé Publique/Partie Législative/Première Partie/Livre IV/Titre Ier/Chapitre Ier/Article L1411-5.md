@@ -26,11 +26,12 @@ tabac, les souffrances psychiques, les troubles du comportement et les
 déséquilibres nutritionnels.
 
 Le programme régional d'accès à la prévention et aux soins est établi après
-consultation d'un comité, présidé par le représentant de l'Etat dans la région
-ou le représentant de l'Etat dans la collectivité territoriale de Corse,
-réunissant des représentants des services de l'Etat et de l'agence régionale de
-l'hospitalisation, des collectivités territoriales, des organismes d'assurance
-maladie et auquel des représentants des associations qui oeuvrent dans le
-domaine de l'insertion et de la lutte contre l'exclusion peuvent être invités à
-participer. Il est rendu compte chaque année de la réalisation de ce programme à
-la conférence régionale de santé instituée à l'article L. 1411-3.
+consultation de la section compétente du conseil régional de santé prévue par
+l'article L. 1411-3-2. Cette section comprend des représentants des
+collectivités territoriales, des organismes d'assurance maladie et des
+associations qui oeuvrent dans le domaine de l'insertion et de la lutte contre
+l'exclusion. Des représentants des services de l'Etat et de l'agence régionale
+de l'hospitalisation assistent sans voix délibérative aux travaux de la section.
+Le représentant de l'Etat dans la région rend compte chaque année de la
+réalisation de ce programme à la formation plénière du conseil régional de
+santé.

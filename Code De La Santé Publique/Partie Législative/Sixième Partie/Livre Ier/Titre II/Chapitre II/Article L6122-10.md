@@ -1,8 +1,8 @@
 Article L6122-10
 ----
 L'autorisation est donnée ou renouvelée par l'agence régionale de
-l'hospitalisation après avis du comité régional de l'organisation sanitaire et
-sociale. Un recours hiérarchique contre la décision peut être formé par tout
+l'hospitalisation après avis de la section compétente du conseil régional de
+santé. Un recours hiérarchique contre la décision peut être formé par tout
 intéressé devant le ministre chargé de la santé qui statue dans un délai maximum
 de six mois, sur avis du Comité national de l'organisation sanitaire et sociale.
 

@@ -9,12 +9,12 @@ L. 162-22-7 et L. 162-22-8 du code de la sécurité sociale.
 Ces contrats définissent les orientations stratégiques des établissements, en
 tenant compte des objectifs du schéma d'organisation sanitaire et, notamment,
 des objectifs en matière de qualité et de sécurité des soins ainsi que de mise
-en oeuvre des orientations adoptées par la conférence régionale de santé prévue
-à l'article L. 1411-3. Ils prévoient les délais de mise en oeuvre de la
-procédure d'accréditation mentionnée à l'article L. 6113-3.
+en oeuvre des orientations adoptées par le conseil régional de santé prévu à
+l'article L. 1411-3. Ils prévoient les délais de mise en oeuvre de la procédure
+d'accréditation mentionnée à l'article L. 6113-3.
 
-Les contrats peuvent, en outre, favoriser la constitution des réseaux de soins
-mentionnés à l'article L. 6121-5 et les actions de coopération prévues au titre
+Les contrats peuvent, en outre, favoriser la constitution des réseaux de santé
+mentionnés à l'article L. 6321-1 et les actions de coopération prévues au titre
 III du présent livre.
 
 La demande de renouvellement des contrats est déposée auprès de l'agence
