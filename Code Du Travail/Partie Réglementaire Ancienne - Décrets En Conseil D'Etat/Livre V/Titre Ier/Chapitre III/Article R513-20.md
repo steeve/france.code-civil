@@ -8,4 +8,5 @@ arrondissement est déposée au secrétariat de la mairie ou de la mairie annexe
 cet arrondissement.
 
 Le même jour, le maire avise les électeurs par voie d'affichage, du dépôt de la
-liste électorale.
+liste électorale, de la date de sa clôture mentionnée à l'article R. 513-21-1 et
+des voies et délais de recours contre l'inscription.

@@ -4,8 +4,8 @@ Les nom, prénoms, date et lieu de naissance, adresse des assesseurs désignés 
 les listes en présence, ainsi que, pour ceux qui sont inscrits sur une liste
 électorale, les noms des communes où ils sont inscrits, sont notifiés aux maires
 et, à Paris, Marseille et Lyon, aux maires d'arrondissement, par pli recommandé,
-admis en franchise postale, au plus tard cinq jours avant le jour du scrutin
-[*délai*]. L'Etat prend à sa charge les dépenses résultant de cet envoi.
+au plus tard cinq jours avant le jour du scrutin [*délai*]. L'Etat prend à sa
+charge les dépenses résultant de cet envoi.
 
 Le maire fait parvenir un récépissé de cette déclaration au mandataire de la
 liste ou le lui remet en main propre s'il en fait la demande. Ce récépissé sert

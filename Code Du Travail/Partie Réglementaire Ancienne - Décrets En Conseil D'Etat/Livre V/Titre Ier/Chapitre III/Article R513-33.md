@@ -4,7 +4,7 @@ Chaque liste fait l'objet d'une déclaration collective effectuée par un
 mandataire muni d'une procuration écrite signée de chaque candidat figurant sur
 la liste.
 
-Cette déclaration collective précise [*mentions obligatoires*] :
+Cette déclaration collective précise *mentions obligatoires* :
 
 - le conseil de prud'hommes, le collège et la section de ce conseil auxquels les
 candidats de la liste se présentent ;
@@ -13,9 +13,10 @@ candidats de la liste se présentent ;
 
 - le titre de la liste.
 
-A cette déclaration collective sont jointes les déclarations individuelles de
-chacun des candidats de la liste. Chaque déclaration individuelle est signée par
-le candidat.
+A cette déclaration collective sont jointes une déclaration sur l'honneur
+attestant que la liste est recevable au sens de l'article L. 513-3-1 ainsi que
+les déclarations individuelles de chacun des candidats de la liste. Chaque
+déclaration individuelle est signée par le candidat.
 
 Elle énumère les nom, prénoms, date et lieu de naissance, domicile du candidat.
 
