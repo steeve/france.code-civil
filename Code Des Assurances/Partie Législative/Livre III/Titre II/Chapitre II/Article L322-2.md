@@ -8,13 +8,13 @@ de réassurance :
 
 a) Pour crime ;
 
-b) Pour violation des dispositions des articles 150, 151, 151-1, 177, 178, 179,
-419 ou 420 du code pénal ;
+b) Pour violation des dispositions des articles 441-1, 151-1, 432-11 et 441-8,
+433-2, 433-1, 433-3, 441-8, 52-1 du code pénal ;
 
 c) Pour vol, escroquerie ou abus de confiance ;
 
 d) Pour un délit puni par des lois spéciales, des peines prévues aux articles
-405, 406 et 410 du code pénal ;
+313-1 à 313-3, 313-4, et 1 du code pénal ;
 
 e) Pour soustractions commises par dépositaires publics, extorsion de fonds ou
 valeurs, banqueroute, atteinte au crédit de l'Etat ou infraction à la
@@ -30,9 +30,12 @@ sur le développement des investissements et la protection de l'épargne ;
 
 g) Pour recel des choses obtenues à la suite de ces infractions ;
 
-h) Ou par application des dispositions des articles 75 et 77 à 84 de la loi n°
+h) Par application des dispositions des articles 75 et 77 à 84 de la loi n°
 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des établissements
 de crédit.
+
+i) ou par application de l'article L. 627 du code de la santé publique ou de
+l'article 415 du code des douanes.
 
 2° S'il a été condamné à une peine d'emprisonnement supérieure à deux mois en
 application de l'article 66 du décret du 30 octobre 1935 modifié unifiant le
@@ -61,3 +64,6 @@ ministériel en vertu d'une décision judiciaire.
 Ces interdictions peuvent également être prononcées par les tribunaux à
 l'encontre de toute personne condamnée pour infractions à la législation ou à la
 réglementation des assurances.
+
+Les dispositions du présent article sont applicables au mandataire général
+désigné par les entreprises opérant en régime d'établissement.

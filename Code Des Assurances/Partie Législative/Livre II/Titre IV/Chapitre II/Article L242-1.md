@@ -13,7 +13,7 @@ code civil.
 Toutefois, l'obligation prévue au premier alinéa ci-dessus ne s'applique ni aux
 personnes morales de droit public ni aux personnes morales exerçant une activité
 dont l'importance dépasse les seuils mentionnés au dernier alinéa de l'article
-L. 351-4, lorsque ces personnes font réaliser pour leur compte des travaux de
+L. 111-6, lorsque ces personnes font réaliser pour leur compte des travaux de
 bâtiment pour un usage autre que l'habitation.
 
 L'assureur a un délai maximal de soixante jours, courant à compter de la
@@ -44,9 +44,10 @@ technique et être motivée.
 Le délai supplémentaire prévu à l'alinéa qui précède est subordonné à
 l'acceptation expresse de l'assuré et ne peut excéder cent trente-cinq jours.
 
-Cette assurance prend effet après l'expiration du délai de garantie de parfait
-achèvement visé à l'article 1792-6 du code civil. Toutefois, elle garantit le
-paiement des réparations nécessaires lorsque :
+L'assurance mentionnée au premier alinéa du présent article prend effet après
+l'expiration du délai de garantie de parfait achèvement visé à l'article 1792-6
+du code civil. Toutefois, elle garantit le paiement des réparations nécessaires
+lorsque :
 
 Avant la réception, après mise en demeure restée infructueuse, le contrat de
 louage d'ouvrage conclu avec l'entrepreneur est résilié pour inexécution, par

@@ -15,7 +15,7 @@ décès en cas d'exercice de cette faculté de renonciation. Le défaut de remis
 des documents et informations énumérés au présent alinéa entraîne de plein droit
 la prorogation du délai prévu au premier alinéa jusqu'au trentième jour suivant
 la date de remise effective de ces documents. Un nouveau délai de trente jours
-court à compter de la date de reception du contrat, lorsque celle-ci apporte des
+court à compter de la date de reception du contrat, lorsque celui-ci apporte des
 réserves ou des modifications essentielles à l'offre originelle, ou à compter de
 l'acceptation écrite, par le souscripteur, de ces réserves ou modifications.
 
@@ -26,5 +26,6 @@ recommandée. Au-delà de ce délai, les sommes non restituées produisent de pl
 droit intérêt au taux légal majoré de moitié durant deux mois, puis, à
 l'expiration de ce délai de deux mois, au double du taux légal.
 
-Toutefois, les dispositions qui précèdent ne s'appliquent pas aux contrats d'une
-durée maximum de deux mois.
+Les dispositions qui précèdent ne s'appliquent pas aux contrats d'une durée
+maximum de deux mois. Elles sont précisées, en tant que de besoin, par arrêté
+ministériel.
