@@ -24,8 +24,8 @@ autorisation.
 
 L'autorisation peut être suspendue totalement ou partiellement, ou peut être
 retirée par l'autorité administrative compétente pour les motifs et dans les
-conditions prévues à l'article L. 6122-13. Toutefois, l'avis de la section
-compétente du conseil régional de santé n'est pas exigé.
+conditions prévues à l'article L. 6122-13. Toutefois, l'avis du comité régional
+de l'organisation sanitaire n'est pas exigé.
 
 L'activité, objet de l'autorisation, n'entre pas dans le champ des prestations
 couvertes par l'assurance maladie au sens de l'article L. 321-1 du code de la

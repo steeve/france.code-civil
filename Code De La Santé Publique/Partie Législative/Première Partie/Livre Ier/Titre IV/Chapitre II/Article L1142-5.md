@@ -17,6 +17,7 @@ des affections iatrogènes et des infections nosocomiales et en formation de
 conciliation.
 
 Dans le cadre de sa mission de conciliation, la commission peut déléguer tout ou
-partie de ses compétences à un ou plusieurs médiateurs indépendants qui, dans la
-limite des compétences dévolues, disposent des mêmes prérogatives et sont soumis
-aux mêmes obligations que les membres de la commission.
+partie de ses compétences à l'un de ses membres ou à un ou plusieurs médiateurs
+extérieurs à la commission qui, dans la limite des compétences dévolues,
+disposent des mêmes prérogatives et sont soumis aux mêmes obligations que les
+membres de la commission.

@@ -1,15 +1,10 @@
 Article L6121-3
 ----
-Un schéma est établi pour chaque région sanitaire pour tout ou partie des moyens
-dont la nature est arrêtée par la carte sanitaire. Toutefois, des schémas
-nationaux ou interrégionaux peuvent être établis pour certaines installations ou
-activités de soins mentionnées à l'article L. 6121-2.
+Le schéma régional d'organisation sanitaire est arrêté par le directeur de
+l'agence régionale de l'hospitalisation après avis du comité régional de
+l'organisation sanitaire.
 
-Le schéma d'organisation sanitaire vise à susciter les adaptations et les
-complémentarités de l'offre de soins, ainsi que les coopérations, notamment
-entre les établissements de santé.
-
-Il détermine l'organisation territoriale des moyens de toute nature, compris ou
-non dans la carte sanitaire, qui permettra la réalisation des objectifs
-mentionnés à l'article L. 6121-1. Il peut comporter des recommandations utiles à
-la réalisation de ces objectifs.
+Plusieurs directeurs d'agence régionale de l'hospitalisation peuvent arrêter,
+pour une activité ou un équipement relevant de leur compétence, un schéma
+interrégional d'organisation sanitaire, après avis des comités régionaux de
+l'organisation sanitaire compétents.

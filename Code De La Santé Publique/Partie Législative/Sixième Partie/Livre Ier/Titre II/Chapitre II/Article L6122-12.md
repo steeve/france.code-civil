@@ -1,33 +1,28 @@
 Article L6122-12
 ----
-Lorsqu'il est constaté que les taux d'occupation des installations, ou
-d'utilisation des équipements, ou le niveau des activités de soins, appréciés et
-calculés selon des critères identiques entre établissements publics et privés
-prenant en compte les caractéristiques des patients hospitalisés, sont
-durablement inférieurs, pendant une période déterminée, à des taux ou niveaux
-correspondant à une occupation, une utilisation ou une capacité normales
-déterminées par décret, l'autorisation mentionnée à l'article L. 6122-1 donnée à
-un établissement, une installation, un équipement matériel lourd ou une activité
-de soins peut être retirée, totalement ou partiellement, par l'agence régionale
-de l'hospitalisation ou par le ministre chargé de la santé, dans le cas
-mentionné au deuxième alinéa de l'article L. 6122-10, dans la limite des besoins
-de la population et de l'intérêt des malades.
+Lorsque le directeur de l'agence régionale de l'hospitalisation constate que les
+objectifs quantifiés fixés par le contrat pluriannuel d'objectifs et de moyens
+mentionné à l'article L. 6114-2 sont insuffisamment atteints en fonction de
+critères définis par décret, il peut réviser l'autorisation mentionnée à
+l'article L. 6122-1.
 
-Les critères d'appréciation et de calcul des taux d'occupation des
-installations, d'utilisation des équipements ou du niveau des activités de
-soins, ainsi que la période mentionnée au premier alinéa, sont fixés par voie
-réglementaire. Cette période peut varier en fonction de la nature des
-installations, équipements ou activités de soins, sans pouvoir être inférieure à
-deux ans. Il est tenu compte, pour la période antérieure au 25 avril 1996, des
-taux d'occupation, niveau d'utilisation, niveau d'activité et capacité publiés
-dans les statistiques officielles du ministère des affaires sociales prenant en
-compte les déclarations faites par les établissements.
+A compter de la date de notification par l'agence régionale de l'hospitalisation
+du projet de révision de l'autorisation, accompagné de ses motifs, le titulaire
+de cette autorisation dispose d'un délai de trois mois pour faire connaître ses
+observations, présenter ses projets d'amélioration du fonctionnement ou faire
+une proposition d'évolution de l'activité de soins ou de l'équipement conforme
+aux prescriptions figurant en annexe au schéma d'organisation sanitaire.
 
-L'établissement dispose d'un délai de trois mois pour présenter ses observations
-à compter de la date de notification, par l'agence régionale de
-l'hospitalisation ou le ministre chargé de la santé, des motifs du projet de
-retrait d'autorisation. La décision de retrait est motivée. Elle est prise après
-consultation, selon le cas, de la section compétente du conseil régional de
-santé ou du Comité national de l'organisation sanitaire et sociale, auquel aura
-été préalablement communiqué l'ensemble des éléments de la procédure
-contradictoire.
+Ces observations et propositions font l'objet d'une procédure contradictoire
+entre l'agence régionale de l'hospitalisation et le titulaire de l'autorisation,
+en vue, le cas échéant, de modifier l'autorisation. Lorsqu'un accord est conclu
+entre l'agence régionale et le titulaire de l'autorisation, la commission
+exécutive de l'agence régionale de l'hospitalisation, après avis du comité
+régional de l'organisation sanitaire, statue sur la modification de
+l'autorisation, sur les bases de cet accord.
+
+Lorsqu'au terme de six mois après la réception par l'agence des observations et
+propositions du titulaire, aucun accord n'a pu être trouvé, une décision de
+modification ou, s'il y a lieu, une décision de retrait de l'autorisation peut
+être prise par la commission exécutive de l'agence régionale de
+l'hospitalisation après avis du comité régional de l'organisation sanitaire.

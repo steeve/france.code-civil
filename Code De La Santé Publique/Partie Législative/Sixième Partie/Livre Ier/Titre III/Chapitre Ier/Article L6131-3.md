@@ -1,5 +1,5 @@
 Article L6131-3
 ----
-D'autres organismes concourant aux soins peuvent faire partie d'une conférence
-sanitaire de secteur à condition d'y être autorisés par le directeur de l'agence
-régionale de l'hospitalisation, sur avis conforme de la conférence.
+Des mesures réglementaires, prises par décret en Conseil d'Etat, déterminent, en
+tant que de besoin, les modalités d'application des dispositions du présent
+chapitre.

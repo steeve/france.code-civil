@@ -1,26 +1,28 @@
 Article L6121-1
 ----
-La carte sanitaire et le schéma d'organisation sanitaire ont pour objet de
-prévoir et de susciter les évolutions nécessaires de l'offre de soins, en vue de
-satisfaire de manière optimale la demande de santé.
+Le schéma d'organisation sanitaire a pour objet de prévoir et susciter les
+évolutions nécessaires de l'offre de soins préventifs, curatifs et palliatifs
+afin de répondre aux besoins de santé physique et mentale. Il inclut également
+l'offre de soins pour la prise en charge des femmes enceintes et des
+nouveau-nés.
 
-A cette fin, la carte sanitaire détermine la nature et, s'il y a lieu,
-l'importance des installations et activités de soins nécessaires pour répondre
-aux besoins de la population. Le schéma d'organisation sanitaire fixe des
-objectifs en vue d'améliorer la qualité, l'accessibilité et l'efficience de
-l'organisation sanitaire.
+Le schéma d'organisation sanitaire vise à susciter les adaptations et les
+complémentarités de l'offre de soins, ainsi que les coopérations, notamment
+entre les établissements de santé. Il fixe des objectifs en vue d'améliorer la
+qualité, l'accessibilité et l'efficience de l'organisation sanitaire.
 
-La carte sanitaire et le schéma d'organisation sanitaire sont arrêtés, dans les
-conditions fixées à l'article L. 6121-8, sur la base d'une mesure des besoins de
-la population et de leur évolution, compte tenu des données démographiques et
-épidémiologiques et des progrès des techniques médicales et après une analyse,
-quantitative et qualitative, de l'offre de soins existante.
+Il tient compte de l'articulation des moyens des établissements de santé avec la
+médecine de ville et le secteur médico-social et social ainsi que de l'offre de
+soins des régions limitrophes et des territoires frontaliers.
 
-Cette analyse tient compte des rapports d'activité et des projets
-d'établissement approuvés.
+Un arrêté du ministre chargé de la santé fixe la liste des thèmes, des activités
+de soins et des équipements lourds devant figurer obligatoirement dans un schéma
+d'organisation sanitaire.
 
-La carte sanitaire et le schéma d'organisation sanitaire peuvent être révisés à
-tout moment. Ils le sont obligatoirement au moins tous les cinq ans.
+Le schéma d'organisation sanitaire est arrêté sur la base d'une évaluation des
+besoins de santé de la population et de leur évolution compte tenu des données
+démographiques et épidémiologiques et des progrès des techniques médicales et
+après une analyse, quantitative et qualitative, de l'offre de soins existante.
 
-Tous les trois ans, le ministre chargé de la santé remet au Parlement un rapport
-sur l'état de l'organisation et de l'équipement sanitaires.
+Le schéma d'organisation sanitaire peut être révisé en tout ou partie, à tout
+moment. Il est réexaminé au moins tous les cinq ans.

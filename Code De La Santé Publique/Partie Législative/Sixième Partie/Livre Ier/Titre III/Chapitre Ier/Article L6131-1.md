@@ -1,6 +1,8 @@
 Article L6131-1
 ----
-Dans chaque secteur sanitaire, une conférence sanitaire de secteur est
-obligatoirement consultée lors de l'élaboration et de la révision de la carte
-sanitaire et du schéma régional d'organisation sanitaire ; elle est également
-chargée de promouvoir la coopération entre les établissements du secteur.
+Le directeur de l'agence régionale de l'hospitalisation constitue des
+conférences sanitaires, formées des représentants des établissements de santé,
+des professionnels de santé libéraux, des centres de santé, des élus et des
+usagers du territoire concerné. D'autres organismes concourant aux soins peuvent
+faire partie d'une conférence à condition d'y être autorisés par le directeur de
+l'agence régionale de l'hospitalisation sur avis de la conférence.

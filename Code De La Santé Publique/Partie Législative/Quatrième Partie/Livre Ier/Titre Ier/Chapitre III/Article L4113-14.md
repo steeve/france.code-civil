@@ -31,6 +31,14 @@ recours contre la décision du représentant de l'Etat dans le département deva
 le tribunal administratif, qui statue en référé dans un délai de quarante-huit
 heures.
 
+Les pouvoirs définis au présent article sont exercés par le directeur de
+l'agence régionale de l'hospitalisation lorsque le danger grave auquel la
+poursuite de son exercice par un médecin, un chirurgien-dentiste ou une
+sage-femme expose ses patients a été constaté à l'occasion de l'exercice de ses
+fonctions dans un établissement de santé. Dans cette hypothèse, le directeur de
+l'agence régionale de l'hospitalisation informe en outre immédiatement de sa
+décision le représentant de l'Etat dans le département.
+
 Les modalités d'application du présent article sont définies par décret en
 Conseil d'Etat.
 

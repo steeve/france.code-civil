@@ -1,11 +1,30 @@
 Article L6121-10
 ----
-Le Comité national comprend, outre les personnes mentionnées à l'article L.
-6121-9, un député désigné par la commission des affaires culturelles, familiales
-et sociales de l'Assemblée nationale et un sénateur désigné par la commission
-des affaires sociales du Sénat. Il est présidé par un conseiller d'Etat ou par
-un conseiller maître à la Cour des comptes. Un collège national d'experts, dont
-la composition est fixée par décret, est constitué auprès du Comité national.
+Le comité régional de l'organisation sanitaire comprend :
 
-La composition et les modalités de fonctionnement du Comité national et celles
-des formations qu'ils comportent sont fixées par voie réglementaire.
+1° Des représentants des collectivités territoriales ;
+
+2° Des représentants des professionnels, médicaux et non médicaux, du secteur
+sanitaire hospitalier et libéral ;
+
+3° Des représentants des institutions et établissements de santé publics et
+privés ;
+
+4° Des représentants des personnels de ces institutions et établissements ;
+
+5° Des représentants des organismes d'assurance maladie ;
+
+6° Des représentants des usagers ;
+
+7° Des personnalités qualifiées ;
+
+8° Des représentants du comité régional de l'organisation sociale et
+médico-sociale.
+
+Il peut comporter des sections.
+
+Le directeur de l'agence régionale de l'hospitalisation assiste sans voix
+délibérative à ses travaux.
+
+Sa composition et ses modalités de fonctionnement sont fixées par voie
+réglementaire.

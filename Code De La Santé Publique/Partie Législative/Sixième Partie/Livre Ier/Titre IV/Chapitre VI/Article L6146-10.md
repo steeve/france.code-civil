@@ -15,10 +15,10 @@ par l'intermédiaire de l'administration hospitalière.
 
 Sans préjudice des dispositions de l'article L. 6122-1, la création ou
 l'extension d'une telle structure est soumise à l'autorisation du directeur de
-l'agence régionale de l'hospitalisation après avis de la section compétente du
-conseil régional de santé. L'autorisation est accordée pour une durée
-déterminée. Elle peut être suspendue ou retirée en cas de non-respect par
-l'établissement de la réglementation applicable à ces structures.
+l'agence régionale de l'hospitalisation après avis du comité régional de
+l'organisation sanitaire. L'autorisation est accordée pour une durée déterminée.
+Elle peut être suspendue ou retirée en cas de non-respect par l'établissement de
+la réglementation applicable à ces structures.
 
 Pour chaque discipline ou spécialité, l'établissement ne peut réserver à cette
 structure plus du tiers de la capacité d'accueil, en lits et places, dont il

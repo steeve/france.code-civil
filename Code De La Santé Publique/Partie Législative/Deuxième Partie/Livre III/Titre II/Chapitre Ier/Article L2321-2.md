@@ -1,10 +1,11 @@
 Article L2321-2
 ----
-Ne peuvent être admis dans les maisons d'enfants à caractère sanitaire les
-enfants relevant des catégories d'établissements ci-dessous désignés :
+Les maisons d'enfants à caractère sanitaire sont des établissements permanents
+ou temporaires, destinés à recevoir, sur certificat médical, des enfants ou
+adolescents de trois à dix-sept ans révolus, en vue de leur assurer des soins de
+suite ou de réadaptation.
 
-- les établissements de santé mentionnés à la partie VI du présent code ;
-
-- les établissements recevant habituellement, pour leur éducation ou leur
-rééducation, des mineurs, délinquants ou en danger ou présentant des troubles
-sensoriels, moteurs, intellectuels, du caractère ou du comportement.
+Ne sont pas considérés comme maisons d'enfants à caractère sanitaire les
+établissements climatiques de l'enseignement public ou privé où le séjour des
+enfants peut donner lieu à une prise en charge par les organismes d'assurance
+maladie.

@@ -9,6 +9,9 @@ peuvent signer des conventions, participer à des syndicats interhospitaliers et
 groupements de coopération sanitaire ou constituer entre eux des fédérations
 médicales interhospitalières.
 
+A compter du 1er janvier 2005, aucun syndicat interhospitalier ne peut être
+créé.
+
 Pour les actions de coopération internationale, les établissements publics de
 santé peuvent également signer des conventions avec des personnes de droit
 public et privé, dans le respect des engagements internationaux souscrits par

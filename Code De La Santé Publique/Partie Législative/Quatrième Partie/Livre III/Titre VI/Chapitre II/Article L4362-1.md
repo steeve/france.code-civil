@@ -1,12 +1,17 @@
 Article L4362-1
 ----
+Les opticiens-lunetiers sont tenus de faire enregistrer sans frais leurs
+diplômes, certificats ou titres auprès du service de l'Etat compétent ou de
+l'organisme désigné à cette fin. En cas de changement de situation
+professionnelle, ils en informent ce service ou cet organisme.
+
+Il est établi, pour chaque département, par le service de l'Etat compétent ou
+l'organisme désigné à cette fin, une liste de cette profession, portée à la
+connaissance du public. Un opticien-lunetier ne peut être inscrit que dans un
+seul département.
+
 Peuvent exercer la profession d'opticien-lunetier détaillant les personnes
-pourvues de diplômes, certificats ou titres mentionnés aux articles L. 4362-2 et
-L. 4362-3 et inscrites sur une liste dressée par le représentant de l'Etat dans
-le département de sa résidence professionnelle qui enregistre leur diplôme,
-certificat, titre ou autorisation.
+titulaires d'un diplôme, certificat ou titre mentionnés aux articles L. 4362-2
+et L. 4362-3 enregistré conformément au premier alinéa.
 
-Tout changement de résidence professionnelle hors des limites du département
-oblige à une nouvelle inscription et à la radiation de l'ancienne.
-
-Un opticien-lunetier ne peut être inscrit que dans un seul département.
+Les modalités d'application du présent article sont fixées par décret.

@@ -10,9 +10,10 @@ santé publique. Ils procèdent à des actions d'évaluation afin de garantir la
 qualité de leurs services et prestations.
 
 Ils sont constitués entre les professionnels de santé libéraux, les médecins du
-travail, des établissements de santé, des centres de santé, des institutions
-sociales ou médico-sociales et des organisations à vocation sanitaire ou
-sociale, ainsi qu'avec des représentants des usagers.
+travail, des établissements de santé, des groupements de coopération sanitaire,
+des centres de santé, des institutions sociales ou médico-sociales et des
+organisations à vocation sanitaire ou sociale, ainsi qu'avec des représentants
+des usagers.
 
 Les réseaux de santé qui satisfont à des critères de qualité ainsi qu'à des
 conditions d'organisation, de fonctionnement et d'évaluation fixés par décret

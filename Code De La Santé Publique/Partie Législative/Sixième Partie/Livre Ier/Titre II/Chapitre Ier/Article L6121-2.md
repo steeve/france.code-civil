@@ -1,30 +1,30 @@
 Article L6121-2
 ----
-La carte sanitaire détermine :
+Le schéma d'organisation sanitaire comporte une annexe établie après évaluation
+de l'adéquation de l'offre de soins existante aux besoins de santé et compte
+tenu de cette évaluation et des objectifs retenus par le schéma d'organisation
+sanitaire.
 
-1° Les limites des régions et des secteurs sanitaires ainsi que celles des
-secteurs psychiatriques mentionnés par l'article L. 3221-1 ;
+Cette annexe précise :
 
-2° La nature et l'importance :
+1° Les objectifs quantifiés de l'offre de soins par territoires de santé, par
+activités de soins, y compris sous la forme d'alternatives à l'hospitalisation,
+et par équipements matériels lourds définis à l'article L. 6122-14 ;
 
-a) Des installations nécessaires pour répondre aux besoins de la population, y
-compris les équipements matériels lourds et les structures de soins alternatives
-à l'hospitalisation et notamment celles nécessaires à l'exercice de la chirurgie
-ambulatoire ;
+2° Les créations, suppressions d'activités de soins et d'équipements matériels
+lourds, transformations, regroupements et coopérations d'établissements
+nécessaires à la réalisation de ces objectifs.
 
-b) Des activités de soins d'un coût élevé ou nécessitant des dispositions
-particulières dans l'intérêt de la santé publique.
+Selon les activités et équipements, les territoires de santé constituent un
+espace infrarégional, régional, interrégional ou national. Les limites des
+territoires de santé sont définies par le directeur de l'agence régionale de
+l'hospitalisation pour les activités et équipements relevant du schéma régional
+d'organisation sanitaire et par le ministre chargé de la santé pour ceux qui
+relèvent d'un schéma interrégional ou national.
 
-La nature et, le cas échéant, l'importance des installations et activités de
-soins mentionnées au 2° sont déterminées pour chaque zone sanitaire. Les zones
-sanitaires constituées, selon le cas, par un ou plusieurs secteurs sanitaires ou
-psychiatriques, par une région, par un groupe de régions ou par l'ensemble du
-territoire sont définies par voie réglementaire en tenant compte des bassins de
-santé.
+Les autorisations existantes incompatibles avec la mise en oeuvre de cette
+annexe sont révisées au plus tard deux ans après la publication du schéma
+d'organisation sanitaire.
 
-La liste des activités de soins mentionnées au b du 2° ainsi que les conditions
-d'implantation et les modalités de fonctionnement des installations où elles
-s'exercent sont précisées par voie réglementaire.
-
-La liste des structures de soins alternatives à l'hospitalisation mentionnées au
-a du 2° est fixée par voie réglementaire.
+Les modalités de quantification des objectifs mentionnés au présent article sont
+fixées par décret.

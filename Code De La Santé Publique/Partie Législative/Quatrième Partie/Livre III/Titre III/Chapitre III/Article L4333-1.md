@@ -1,15 +1,18 @@
 Article L4333-1
 ----
-Un ergothérapeute ou un psychomotricien ne peut exercer sa profession que s'il
-est inscrit sur une liste dressée, pour chacune de ces professions, par le
-représentant de l'Etat dans le département de sa résidence professionnelle, qui
-enregistre son diplôme, son certificat ou son autorisation.
+Les ergothérapeutes et les psychomotriciens sont tenus de faire enregistrer sans
+frais leurs diplômes, certificats, titres ou autorisation auprès du service de
+l'Etat compétent ou de l'organisme désigné à cette fin. En cas de changement de
+situation professionnelle, ils en informent ce service ou cet organisme.
 
-Tout changement de résidence professionnelle hors des limites du département
-oblige à une nouvelle inscription et à la radiation de l'ancienne.
+Il est établi, pour chaque département, par le service de l'Etat compétent ou
+l'organisme désigné à cette fin, des listes distinctes de ces professions,
+portées à la connaissance du public.
 
 L'inscription n'est possible que dans un seul département. Dans le cas où
 l'activité est exercée dans plusieurs départements, l'intéressé est inscrit sur
 la liste du département dans lequel est situé son lieu principal d'exercice
 professionnel. Cette disposition n'est pas applicable aux ergothérapeutes et aux
 psychomotriciens militaires.
+
+Les modalités d'application du présent article sont fixées par décret.

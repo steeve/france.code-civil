@@ -1,20 +1,41 @@
 Article L6121-9
 ----
-Le Comité national de l'organisation sanitaire et sociale comprend :
+Dans chaque région et dans la collectivité territoriale de Corse un comité
+régional de l'organisation sanitaire a pour mission de contribuer à la
+définition et à la mise en oeuvre de la politique régionale d'organisation de
+l'offre de soins.
 
-1° Des représentants, des collectivités territoriales et des organismes de
-sécurité sociale ;
+L'agence régionale de l'hospitalisation consulte le comité régional de
+l'organisation sanitaire sur :
 
-2° Des représentants des institutions et des établissements de santé, des
-établissements sociaux, publics ou privés, notamment des établissements
-spécialisés ;
+1° Les projets de schéma régional ou interrégional d'organisation sanitaire ;
 
-3° Des représentants des personnels de ces institutions et établissements ;
+2° Les projets de délibération mentionnés au 1° de l'article L. 6115-4, ainsi
+que sur les projets d'autorisation des structures médicales mentionnées à
+l'article L. 6146-10.
 
-4° Des représentants des usagers de ces institutions et établissements ;
+Le comité rend un avis sur la définition des zones rurales ou urbaines où est
+constaté un déficit en matière d'offre de soins, prévues au II de l'article 25
+de la loi n° 98-1194 du 23 décembre 1998 de financement de la sécurité sociale
+pour 1999 et au 3° du II de l'article 4 de l'ordonnance n° 96-345 du 24 avril
+1996 relative à la maîtrise médicalisée des dépenses de soins.
 
-5° Des représentants des professions de santé ;
+Il peut émettre des avis sur toute question relative à l'organisation sanitaire
+dans la région.
 
-6° Des personnalités qualifiées.
+Il est informé des renouvellements d'autorisations d'activités et équipements
+lourds résultant de décisions tacites.
 
-Il comporte des sections.
+Il reçoit une information au moins une fois par an sur les contrats d'objectifs
+et de moyens signés entre les titulaires d'autorisation d'activités de soins et
+d'équipements lourds et l'agence régionale de l'hospitalisation pour la mise en
+oeuvre du schéma régional d'organisation sanitaire.
+
+L'avis du comité régional concernant l'organisation des soins peut être
+recueilli par les tribunaux de commerce lors de procédures relatives à la
+cession d'autorisations d'établissements de santé privés.
+
+Le comité régional de l'organisation sanitaire et le comité régional de
+l'organisation sociale et médico-sociale peuvent délibérer en formation
+conjointe lorsqu'un dossier le rend nécessaire et selon des modalités fixées par
+voie réglementaire.

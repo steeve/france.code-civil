@@ -7,9 +7,10 @@ d'Etat. Le cas échéant, un ou des suppléants peuvent être nommés dans les m
 conditions.
 
 Lorsque la chambre disciplinaire de première instance a été saisie par le
-ministre chargé de la santé ou par le représentant de l'Etat dans le département
-ou la région, les représentants de l'Etat mentionnés aux articles L. 4132-9, L.
-4142-5 et L. 4152-8 ne siègent pas dans ces instances.
+ministre chargé de la santé, par le directeur de l'agence régionale de
+l'hospitalisation ou par le représentant de l'Etat dans le département ou la
+région, les représentants de l'Etat mentionnés aux articles L. 4132-9, L. 4142-5
+et L. 4152-8 ne siègent pas dans ces instances.
 
 Les fonctions exercées par les membres des chambres disciplinaires de première
 instance sont incompatibles avec l'exercice d'autres fonctions au sein du

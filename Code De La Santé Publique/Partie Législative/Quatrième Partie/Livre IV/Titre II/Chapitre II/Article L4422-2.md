@@ -6,4 +6,5 @@ territoires des îles Wallis et Futuna :
 1° Les attributions dévolues au représentant de l'Etat dans le département sont
 exercées par l'administrateur supérieur du territoire ;
 
-2° (Abrogé).
+2° A la mention du mot : "département" est substituée celle de : "territoire des
+îles Wallis et Futuna".

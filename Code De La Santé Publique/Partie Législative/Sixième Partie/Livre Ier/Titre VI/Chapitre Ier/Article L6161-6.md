@@ -7,4 +7,5 @@ projet d'établissement tel que défini à l'article L. 6143-2 compatible avec l
 objectifs du schéma d'organisation sanitaire.
 
 La décision d'admission à participer au service public hospitalier est prise par
-le ministre chargé de la santé ; le refus d'admission doit être motivé.
+le directeur de l'agence régionale de l'hospitalisation. Le refus d'admission
+doit être motivé.

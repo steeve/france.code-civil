@@ -1,32 +1,34 @@
 Article L6122-13
 ----
-Selon les cas, le ministre chargé de la santé ou le directeur de l'agence
-régionale de l'hospitalisation peut prononcer la suspension totale ou partielle
-de l'autorisation de fonctionner d'une installation ou d'une activité de soins :
+I.-Lorsqu'il est constaté, à l'occasion de l'exercice d'une activité de soins,
+un manquement aux lois et règlements pris pour la protection de la santé
+publique imputable à la personne titulaire de l'autorisation, le directeur de
+l'agence régionale de l'hospitalisation le notifie à cette dernière et lui
+demande de faire connaître, dans les huit jours, ses observations en réponse
+ainsi que les mesures correctrices adoptées ou envisagées.
 
-1° En cas d'urgence tenant à la sécurité des malades ;
+En l'absence de réponse dans ce délai ou si cette réponse est insuffisante, il
+adresse au titulaire de l'autorisation une injonction de prendre toutes
+dispositions nécessaires et de faire cesser définitivement les manquements dans
+un délai déterminé. Il en constate l'exécution.
 
-2° Lorsque les conditions techniques de fonctionnement prévues au 3° de
-l'article L. 6122-2 ne sont pas respectées ou lorsque sont constatées dans un
-établissement de santé et du fait de celui-ci des infractions aux lois et
-règlements pris pour la protection de la santé publique entraînant la
-responsabilité civile de l'établissement ou la responsabilité pénale de ses
-dirigeants.
+II.-En cas d'urgence tenant à la sécurité des patients ou du personnel ou
+lorsqu'il n'a pas été satisfait, dans le délai fixé, à l'injonction prévue au I,
+le directeur de l'agence régionale de l'hospitalisation peut prononcer la
+suspension immédiate, totale ou partielle, de l'autorisation de l'activité de
+soins concernée ou l'interruption immédiate du fonctionnement des moyens
+techniques de toute nature nécessaires à la dispensation des soins.
 
-La décision de suspension est transmise sans délai à l'établissement concerné,
-assortie d'une mise en demeure.
+La décision est notifiée au titulaire de l'autorisation, accompagnée des
+constatations faites et assortie d'une mise en demeure de remédier aux
+manquements dans un délai déterminé.
 
-A l'issue d'un délai d'un mois si la mise en demeure est restée sans effet, le
-ministre ou le directeur de l'agence régionale de l'hospitalisation saisit dans
-un délai de quinze jours, selon le cas, le Comité national de l'organisation
-sanitaire et sociale ou la section compétente du conseil régional de santé qui,
-dans les quarante-cinq jours de la saisine, émet un avis sur la mesure de
-suspension au vu des observations formulées par l'établissement concerné.
+S'il est constaté au terme de ce délai qu'il a été satisfait à la mise en
+demeure, le directeur de l'agence régionale met fin à la suspension.
 
-Le ministre ou le directeur de l'agence régionale de l'hospitalisation doit
-alors se prononcer à titre définitif, éventuellement sur le retrait
-d'autorisation ou sur la modification de son contenu. Il peut également assortir
-l'autorisation des conditions particulières mentionnées à l'article L. 6122-7.
-
-Les décisions de suspension ou de retrait prises selon les modalités mentionnées
-ci-dessus ne font pas obstacle à d'éventuelles poursuites judiciaires.
+Dans le cas contraire et après avis du comité régional de l'organisation
+sanitaire, le directeur de l'agence régionale de l'hospitalisation se prononce
+alors à titre définitif, soit sur le maintien de la suspension jusqu'à
+l'achèvement des mesures prévues, soit sur le retrait de l'autorisation ou sur
+la modification de son contenu. Il peut également assortir l'autorisation des
+conditions particulières mentionnées à l'article L. 6122-7.

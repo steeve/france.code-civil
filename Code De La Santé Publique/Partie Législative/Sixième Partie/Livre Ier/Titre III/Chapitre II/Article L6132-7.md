@@ -23,9 +23,9 @@ mieux représentés.
 
 Le conseil d'administration peut déléguer à un bureau élu en son sein certaines
 de ses attributions. Cette délégation ne peut porter sur les matières énumérées
-aux 1°, 2°, 3°, 5°, 6°, 8°, 9° et 10° de l'article L. 6143-1 qui demeurent de la
-compétence exclusive du conseil d'administration. Lors de chaque réunion du
-conseil d'administration, le bureau et le président rendent compte de leurs
+aux 1°, 2°, 3°, 5°, 6°, 8°, 9°, 10° et 18° de l'article L. 6143-1 qui demeurent
+de la compétence exclusive du conseil d'administration. Lors de chaque réunion
+du conseil d'administration, le bureau et le président rendent compte de leurs
 activités.
 
 La composition du bureau et le mode de désignation de ses membres sont fixés par

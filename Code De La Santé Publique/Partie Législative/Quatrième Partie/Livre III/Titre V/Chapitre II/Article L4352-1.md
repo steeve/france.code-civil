@@ -1,22 +1,17 @@
 Article L4352-1
 ----
-Un manipulateur d'électroradiologie médicale ne peut exercer sa profession que
-s'il est inscrit sur une liste dressée par le représentant de l'Etat dans le
-département de sa résidence professionnelle, qui enregistre son diplôme, son
-certificat ou son autorisation.
+Les manipulateurs d'électroradiologie sont tenus de faire enregistrer sans frais
+leurs diplômes, certificats, titres ou autorisation auprès du service de l'Etat
+compétent ou de l'organisme désigné à cette fin. En cas de changement de
+situation professionnelle, ils en informent ce service ou cet organisme.
 
-Tout changement de résidence professionnelle hors des limites du département
-oblige à une nouvelle inscription et à la radiation de l'ancienne.
+Il est établi, pour chaque département, par le service de l'Etat compétent ou
+l'organisme désigné à cette fin, une liste de cette profession, portée à la
+connaissance du public.
 
-L'inscription n'est possible que dans un seul département. Dans le cas où
-l'activité est exercée dans plusieurs départements, l'intéressé est inscrit sur
-la liste du département dans lequel est situé son lieu principal d'exercice
-professionnel. Cette disposition n'est pas applicable aux manipulateurs
-d'électroradiologie militaires.
+Un manipulateur d'électroradiologie médicale ne peut exercer sa profession, à
+l'exception de ceux qui relèvent du service de santé des armées, que si ses
+diplômes, certificats, titres ou autorisation ont été enregistrés conformément
+au premier alinéa.
 
-Tant qu'elles n'ont pas satisfait aux épreuves de vérification des
-connaissances, les personnes mentionnées au 2° de l'article L. 4351-6 sont
-inscrites à titre provisoire sur la liste dressée par le représentant de l'Etat
-dans le département de leur résidence professionnelle ; elles sont rayées de
-cette liste si elles n'ont pas satisfait auxdites épreuves avant la date fixée
-par le décret mentionné au 2° de l'article L. 4351-6.
+Les modalités d'application du présent article sont fixées par décret.
