@@ -1,35 +1,33 @@
 Article L332
 ----
-Toute liste fait l'objet d'une déclaration collective revêtue de la signature de
-tous les candidats. Elle est déposée et enregistrée à la préfecture au plus tard
-le quinzième jour précédant le premier tour de scrutin .
+La déclaration de candidature résulte du dépôt à la préfecture d'une liste
+répondant aux conditions fixées aux articles L. 331 et L. 331-2. Il en est
+délivré récépissé.
 
-A défaut de signature, une procuration du candidat doit être produite. Il est
-donné au déposant un reçu provisoire de déclaration. Le récépissé définitif est
-délivré dans les trois jours.
+Elle est faite collectivement pour chaque liste par la personne ayant la qualité
+de responsable de liste. A cet effet, chaque candidat établit un mandat signé de
+lui, confiant au responsable de liste le soin de faire ou de faire faire, par
+une personne déléguée par lui, toutes déclarations et démarches utiles à
+l'enregistrement de la liste, pour le premier et le second tour. Le dépôt de la
+liste par son responsable doit être assorti de l'ensemble des mandats des
+candidats qui y figurent. La liste déposée indique expressément.
 
-La déclaration doit mentionner :
+1° Le titre de la liste présentée;
 
-1° les nom, prénoms, date et lieu de naissance des candidats;
+2° Les nom, prénoms, date et lieu de naissance de chacun des candidats.
 
-2° la circonscription électorale dans laquelle la liste se présente;
+Pour chaque tour de scrutin, cette déclaration comporte la signature de chaque
+candidat, sauf le droit pour tout candidat de compléter la déclaration
+collective non signée de lui par une déclaration individuelle faite dans le même
+délai et portant sa signature.
 
-3° le titre de la liste. Plusieurs listes ne peuvent avoir, dans la même
-circonscription, le même titre.
+Toutefois, les signatures de chaque candidat ne sont pas exigées pour la
+déclaration de candidature des listes qui ne procèdent à aucune modification de
+leur composition au second tour.
 
-Chaque liste doit comporter un nombre de noms de candidats égal à celui des
-sièges attribués à la circonscription correspondante.
+Est interdit l'enregistrement de la déclaration de candidature d'une liste
+constituée en violation des dispositions des articles L. 331, L. 331-2 et du
+présent article.
 
-Nul ne peut être candidat sur plusieurs listes ni dans plus d'une
-circonscription.
-
-Après le dépôt de la liste aucun retrait de candidature n'est admis.
-
-En cas de décès de l'un des candidats, ses colistiers doivent le remplacer
-immédiatement par un nouveau candidat au rang qui leur convient. Cette nouvelle
-candidature fait l'objet d'une déclaration complémentaire soumise aux règles
-prévues ci-dessus.
-
-Aucune liste constituée en violation des alinéas précédents ou des dispositions
-du présent livre ne sera enregistrée. Les bulletins obtenus par une liste non
-enregistrée sont nuls.
+Récépissé ne peut être délivré que si les conditions énumérées au présent
+article sont remplies.
