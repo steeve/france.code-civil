@@ -10,8 +10,8 @@ d'agriculture ;
 
 b) D'assurer la coordination, le suivi et l'évaluation de ce programme ;
 
-c) D'assurer la gestion des crédits du Fonds national de développement agricole
-affectés aux actions autres que départementales du programme régional de
-développement agricole.
+c) D'assurer la gestion des crédits de l'enveloppe régionale attribuée par
+l'agence de développement agricole et rural qui sont affectés aux actions autres
+que celles de la partie départementale de ce programme.
 
 Elle peut contribuer au financement de ce programme.
