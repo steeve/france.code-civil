@@ -7,37 +7,27 @@ La rage dans toutes les espèces ;
 
 La peste bovine dans toutes les espèces de ruminants ;
 
-La péripneumonie contagieuse dans l'espèce bovine ;
+La péripneumonie contagieuse ;
 
 La tuberculose des bovidés dans les conditions fixées par décret sur la
 proposition du ministre de l'agriculture et après avis du comité consultatif des
 épizooties ;
 
-La clavelée dans l'espèce ovine.
+La clavelée dans l'espèce ovine ;
 
-La brucellose dans l'espèce ovine lorsque l'existence de la maladie est
-confirmée par la mise en évidence de l'agent microbien dans un laboratoire agréé
-par le ministre de l'agriculture ;
+La brucellose sous toutes ses formes dans les espèces ovine et caprine ;
 
-La brucellose sous toutes ses formes dans l'espèce caprine ;
+La gale dans l'espèce bovine ;
 
-Les gales dans les espèces bovine, ovine et caprine ;
-
-La fièvre aphteuse dans les espèces bovine, ovine, caprine et porcine ;
+La fièvre aphteuse dans toutes les espèces de ruminants et de porcins,
+domestiques ou sauvages ;
 
 La morve et la dourine chez les équidés ;
 
 La fièvre charbonneuse chez les mammifères de toutes espèces ;
 
-Le rouget, la peste classique, la peste africaine et la salmonellose dans
-l'espèce porcine ;
+La peste porcine classique et la peste porcine africaine chez les suidés
+domestiques et sauvages ;
 
-La loque, l'acariose et la nosémone des abeilles ;
-
-La paralysie contagieuse (maladie de Teschen) dans l'espèce porcine.
-
-La fièvre catarrhale (langue bleue) dans les espèces bovine, ovine, et caprine ;
-
-L'ornithose chez les oiseaux de toutes espèces.
-
-La peste équine chez tous les équidés.
+La loque américaine et la loque européenne, l'acariose et la nosémose des
+abeilles.
