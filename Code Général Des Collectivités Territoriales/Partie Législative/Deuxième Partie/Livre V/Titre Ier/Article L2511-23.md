@@ -1,6 +1,6 @@
 Article L2511-23
 ----
-- Les articles L. 2131-1 à L. 2131-6 et L. 2131-8 sont applicables, sous réserve
+Les articles L. 2131-1 à L. 2131-6 et L. 2131-8 sont applicables, sous réserve
 des dispositions ci-après, aux délibérations des conseils d'arrondissement, à
 l'exclusion de celles prises en application de la section 2 du présent chapitre
 et des avis émis par ces conseils.
@@ -26,12 +26,12 @@ Sans préjudice du recours dont dispose le représentant de l'Etat dans le
 département, le maire de la commune peut déférer au tribunal administratif une
 délibération ayant donné lieu à une seconde lecture en application du troisième
 alinéa, dans un délai de deux mois à compter de la date à laquelle il a reçu
-cette délibération. Si ce recours est assorti d'une demande de sursis à
-exécution et si l'un des moyens invoqués à son appui paraît, en l'état de
-l'instruction, sérieux et de nature à justifier l'annulation de la délibération
-attaquée, le président du tribunal administratif ou un membre du tribunal
-administratif délégué à cet effet prononce le sursis dans les quarante-huit
-heures. La décision relative au sursis est susceptible d'appel devant le Conseil
-d'Etat dans la quinzaine de sa notification. En ce cas, le président de la
-section du contentieux du Conseil d'Etat ou un conseiller d'Etat délégué à cet
-effet statue dans un délai de quarante-huit heures.
+cette délibération. Si ce recours est assorti d'une demande de suspension et si
+l'un des moyens invoqués à son appui paraît, en l'état de l'instruction, propre
+à créer un doute sérieux quant à la légalité de la délibération attaquée, le
+président du tribunal administratif ou un magistrat délégué par lui prononce la
+suspension dans les quarante-huit heures. La décision relative à la suspension
+est susceptible d'appel devant le Conseil d'Etat dans la quinzaine de sa
+notification. En ce cas, le président de la section du contentieux du Conseil
+d'Etat ou un conseiller d'Etat délégué à cet effet statue dans un délai de
+quarante-huit heures.
