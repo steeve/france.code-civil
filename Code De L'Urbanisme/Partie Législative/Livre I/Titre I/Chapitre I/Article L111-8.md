@@ -15,6 +15,10 @@ ne peut en aucun cas excéder trois ans.
 A l'expiration du délai de validité du sursis à statuer, une décision doit, sur
 simple confirmation par l'intéressé de sa demande, être prise par l'autorité
 compétente chargée de la délivrance de l'autorisation, dans le délai de deux
-mois suivant cette confirmation. A défaut de notification de la décision dans ce
-dernier délai, l'autorisation est considérée comme accordée dans les termes où
-elle avait été demandée.
+mois suivant cette confirmation. Cette confirmation peut intervenir au plus tard
+deux mois après l'expiration du délai de validité du sursis à statuer. Une
+décision définitive doit alors être prise par l'autorité compétente pour la
+délivrance de l'autorisation, dans un délai de deux mois suivant cette
+confirmation. A défaut de notification de la décision dans ce dernier délai,
+l'autorisation est considérée comme accordée dans les termes où elle avait été
+demandée.

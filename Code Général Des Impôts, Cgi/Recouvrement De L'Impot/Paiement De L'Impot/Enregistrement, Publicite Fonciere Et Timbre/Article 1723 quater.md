@@ -3,13 +3,25 @@ Article 1723 quater
 I La taxe locale d'équipement visée à l'article 1585 A est due par le
 bénéficiaire de l'autorisation de construire.
 
-Elle doit être versée à la recette des impôts en trois fractions égales.
+Elle doit être versée à la recette des impôs de la situation des biens en deux
+fractions égales.
 
-Le premier versement est opéré dans le délai d'un an à compter soit de la
-délivrance du permis de construire, soit de la date à laquelle l'autorisation de
-construire est réputée avoir été tacitement accordée [*point de départ*], le
-deuxième dans le délai de deux ans et le troisième dans le délai de trois ans à
+Le premier versement est exigible à l'expiration d'un délai de dix-huit mois à
+compter de la date de délivrance du permis de construire ou de la date à
+laquelle l'autorisation de construire est réputée avoir été tacitement accordée.
+Le second versement est exigible à l'expiration d'un délai de trente-six mois à
 compter de la même date.
+
+Toutefois, la taxe due pour la constrution, par tranches, de logements destinés
+à l'habitation principale, dans les conditions définies par décret en Conseil
+d'Etat (1), doit être versée à la recette des impôts en trois versements
+échelonnés de dix-huit mois en dix-huit mois à compter de la date de délivrance
+du permis de construire ou de la date à laquelle l'autorisation de construire
+est réputée avoir été tacitement accordée.
+
+Les deux premiers versements sont calculés en fonction de la surface hors oeuvre
+nette autorisée par le permis de construire au titre de la première tranche, le
+dernier versement en fonction de celle autorisée au titre de la seconde tranche.
 
 En cas de modification apportée au permis de construire ou à l'autorisation
 tacite de construire, le complément de taxe éventuellement exigible doit être
@@ -32,3 +44,5 @@ de l'amende fiscale dans l'hypothèse visée au II.
 
 IV Le recouvrement de la taxe est garanti par le privilège prévu à l'article
 1929-1.
+
+(1) Décret à émmettre.

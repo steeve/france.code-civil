@@ -45,23 +45,23 @@ a. Réalisation conduite directement par la collectivité publique ou
 l'établissement public qui a pris l'initiative de la création;
 
 b. Réalisation confiée à un établissement public ou concédée à une société
-d'économie mixte constituée en application de l'article L321-1 premier alinéa du
-code de l'urbanisme;
+d'économie mixte constituée en application de l'article 60 de la loi n° 76-1285
+du 31 décembre 1976;
 
 c. Réalisation confiée par la collectivité publique ou l'établissement public
 qui a pris l'initiative de sa création à un organisme public ou privé dans le
 cadre d'une convention :
 
-Approuvée par le préfet si cette convention est conforme à une convention type
-approuvée par décret en conseil d'Etat;
+Approuvée par le commissaire de la République si cette convention est conforme à
+une convention type approuvée par décret en conseil d'Etat;
 
 Approuvée par arrêté conjoint du ministre de l'équipement et du logement et du
 ministre de l'intérieur dans les autres cas.
 
 III. Dans chaque département les zones dans lesquelles les constructions sont
 exclues du champ d'application de la taxe locale d'équipement en vertu des I et
-II, sont inscrites sur une liste arrêtée par le préfet et publiée au recueil des
-actes administratifs du département.
+II, sont inscrites sur une liste arrêtée par le commissaire de la République et
+publiée au recueil des actes administratifs du département.
 
 L'inscription des zones visées au I est de droit. Pour les zones visées au II,
 le préfet apprécie dans chaque cas si les équipements prévus à l'article 317

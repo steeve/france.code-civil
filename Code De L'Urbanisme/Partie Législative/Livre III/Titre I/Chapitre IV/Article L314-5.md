@@ -1,16 +1,24 @@
 Article L314-5
 ----
-Lorsque l'immeuble auquel s'applique la prise de possession faisait l'objet
-d'une location, l'indemnité de privation de jouissance est égale au revenu brut
-qu'il produisait un an avant l'ouverture de l'enquête précédant la déclaration
-d'utilité publique sauf à tenir compte, s'il y a lieu, des majorations ou
-diminutions de loyers qui résulteraient, soit de l'application de dispositions
-législatives ou réglementaires, soit de stipulations insérées dans des contrats
-conclus ou modifiés avant ladite date.
+Les commercants, artisans et industriels ont, dans le cas prévu à l'article L.
+314-2, un droit de priorité pour l'attribution de locaux de même nature compris
+dans l'opération lorsque l'activité considérée est compatible avec les
+dispositions du plan d'occupation des sols ou du document d'urbanisme en tenant
+lieu.
 
-Lorsque l'immeuble auquel s'applique la prise de possession ne faisait pas
-l'objet d'une location, l'indemnité de privation de jouissance est calculée de
-manière à assurer aux ayants-droit un revenu correspondant à l'intérêt au taux
-légal de la valeur dudit immeuble. Cette valeur est estimée par l'administration
-dans les conditions prévues à l'article L 322-13 sauf recours au juge de
-l'expropriation. Ce recours n'est pas suspensif du paiement de l'indemnité.
+Les commerçants, artisans ou industriels auxquels il n'a pas été offert de les
+réinstaller dans les conditions prévues ci-dessus ont un droit de priorité pour
+acquérir un local dans un immeuble compris dans l'opération ou des parts ou
+actions d'une société immobilière donnant vocation à l'attribution, en propriété
+ou en jouissance, d'un tel local, lorsque l'activité considérée est compatible
+avec les dispositions du plan d'occupation des sols ou du document d'urbanisme
+en tenant lieu.
+
+L'exercice des droits prévus au présent article rend applicables les
+dispositions du deuxième alinéa de l'article L. 13-20 du code de l'expropriation
+pour cause d'utilité publique.
+
+Les priorités prévues par le présent article jouent en faveur des titulaires de
+baux à usage des mêmes activités que celles dont l'installation est prévue dans
+les locaux nouveaux. Pour les commerces de chaque nature, les priorités sont
+données aux titulaires des baux les plus anciens.

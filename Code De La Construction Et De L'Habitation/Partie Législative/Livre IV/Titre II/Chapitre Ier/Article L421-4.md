@@ -8,3 +8,11 @@ municipal, soit des conseils municipaux de communes ayant à cet effet constitu�
 un syndicat conformément aux dispositions du code des communes, livre Ier, titre
 VI, chapitre III, soit d'un conseil général, soit du conseil d'un établissement
 public groupant des collectivités locales.
+
+Ils exercent les compétences mentionnées aux quatrième et cinquième alinéas de
+l'article L. 421-1.
+
+Ils peuvent, en outre, sur délibération de la ou des collectivités locales ou de
+l'établissement public de coopération intercommunale de rattachement, exercer
+tout ou partie des autres compétences mentionnées à l'article L. 421-1. Ces
+dernières cessent d'être exercées dans les mêmes conditions.

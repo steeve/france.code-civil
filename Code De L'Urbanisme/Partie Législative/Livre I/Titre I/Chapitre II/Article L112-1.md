@@ -11,20 +11,26 @@ densité de construction.
 Une densité égale à 1 constitue la limite légale de densité. Pour la ville de
 Paris, ce chiffre est fixé à 1,5.
 
-Toutefois, sur le territoire de l'ensemble des communes faisant partie d'un
-groupement de communes ayant compétence en matière d'élaboration de documents
-d'urbanisme ou en matière d'aménagement urbain ou, à défaut de l'existence d'un
-tel groupement, sur le territoire des communes de plus de 50000 habitants, la
-limite légale de densité peut être modifiée sans pouvoir être inférieure à un,
-ni supérieure à deux. Pour la ville de Paris, ces chiffres sont respectivement
-1,5 et 3. Cette décision ne peut intervenir que dans un délai de six mois à
-compter de la date de l'élection ou de la désignation de l'organe délibérant
-compétent. La décision des communes de plus de 50000 habitants doit être
-précédée d'une information sur le projet des communes limitrophes. La décision
-du groupement de communes est prise à la majorité des deux tiers des communes
-représentant la moitié de la population ou de la moitié des communes
-représentant les deux tiers de la population.
+Toutefois, cette limite peut être modifiée sans pouvoir être inférieure à 1 ni
+supérieure à 2. Pour la ville de Paris, ces chiffres sont respectivement 1,5 et
+3. La décision est prise, selon les cas [*autorité compétente*]:
 
-Au-delà de cette limite, appelée "plafond légal de densité", l'exercice du droit
-de construire relève de la collectivité dans les conditions fixées par les
-dispositions du présent chapitre.
+- par le conseil municipal, après information sur le projet des communes
+limitrophes ; - par le conseil de la communauté urbaine ; - par l'organe
+délibérant du groupement de communes ayant compétence en matière d'élaboration
+de documents d'urbanisme ou en matière d'aménagement urbain, après accord des
+deux tiers des communes représentant la moitié de la population ou de la moitié
+des communes représentant les deux tiers de la population. Aucune décision
+nouvelle modifiant la limite légale de densité ne peut intervenir avant
+l'expiration d'un délai de trois ans à compter de la date d'entrée en vigueur de
+la précédente délibération. Cependant, une nouvelle délibération peut être
+adoptée dans les six mois qui suivent le renouvellement du conseil municipal ou
+la désignation du conseil de la communauté urbaine ou de l'organe délibérant du
+groupement des communes compétent. Les décisions prises en application de
+l'article 31-5 de la loi n° 82-1126 du 29 décembre 1982 ne peuvent pas être
+modifiées avant un délai de deux ans après la publication de la loi n° 85-729 du
+18 juillet 1985 relative à la définition et à la mise en oeuvre de principes
+d'aménagement, et produisent effet pendant toute cette période. Au-delà de cette
+limite, appelée " plafond légal de densité" l'exercice du droit de construire
+relève de la collectivité dans les conditions fixées par les dispositions du
+présent chapitre.

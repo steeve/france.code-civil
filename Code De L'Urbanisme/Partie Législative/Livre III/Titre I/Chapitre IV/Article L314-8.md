@@ -1,10 +1,9 @@
 Article L314-8
 ----
-La décision de l'autorité administrative prévue à l'article L 314-2 [*prise de
-possession*] produit les effets d'une ordonnance d'expropriation en ce qui
-concerne tant l'extinction des servitudes grevant les immeubles désignés par
-ladite décision des droits personnels existant sur ces immeubles que
-l'indemnisation des titulaires de ces droits.
-
-Tous les droits des tiers grevant les revenus desdits immeubles sont reportés
-sur l'indemnité de privation de jouissance.
+Dans le cas où des dispositions législatives ou réglementaires s'opposent à
+l'exercice, dans le local qu'il a le droit de réintégrer après travaux, de
+l'activité prévue au bail, le titulaire du bail d'un local commercial,
+industriel ou artisanal peut, si le bail ne le prévoit pas, être autorisé par
+l'autorité judiciaire à changer la nature de son commerce ou de son industrie,
+sous réserve des dispositions législatives ou réglementaires qui s'opposeraient
+à l'exercice dans ce local de la nouvelle activité choisie.

@@ -14,3 +14,7 @@ est repris en vue de son utilisation définitive.
 
 Toutefois, lorsque les terres concédées sont à usage agricole, il ne peut être
 mis fin à ces concessions que moyennant préavis d'un an au moins.
+
+Les personnes publiques mentionnées au présent article bénéficient des
+dispositions du 5° de l'article 75 de la loi n° 82-526 du 22 juin 1982 relative
+aux droits et obligations des locataires et des bailleurs.
