@@ -1,13 +1,20 @@
 Article A331-8
 ----
-Les provisions mathématiques afférentes aux contrats de capitalisation
-mentionnés à l'article A. 335-8 doivent être calculées d'après un taux au plus
-égal au plus faible des taux d'intérêts suivants :
+Pour l'application de l'article A. 331-4, il est prévu, dans le compte de
+participation aux résultats, une rubrique intitulée " Solde de réassurance cédée
+".
 
-Soit le taux du tarif ;
+Seule est prise en compte la réassurance de risque, c'est-à-dire celle dans
+laquelle l'engagement des cessionnaires porte exclusivement sur tout ou partie
+de la différence entre le montant des capitaux en cas de décès ou d'invalidité
+et celui des provisions mathématiques des contrats correspondants.
 
-Soit le taux de rendement réel, diminué d'un point, de l'actif représentatif des
-engagements correspondants.
+Dans les traités limités à la réassurance de risque, le solde de réassurance
+cédée est égal à la différence entre le montant des sinistres à la charge des
+cessionnaires et celui des primes cédées. Il est inscrit, selon le cas, au débit
+ou au crédit du compte de participation aux résultats.
 
-Ces provisions mathématiques doivent comprendre en outre une provision de
-gestion, dans les conditions prévues au second alinéa de l'article A. 331-6.
+Dans les autres traités, le solde de réassurance cédée est établi en isolant la
+réassurance de risque à l'intérieur des engagements des cessionnaires. Les
+modalités de calcul du solde sont précisées par circulaire, par référence aux
+conditions normales du marché de la réassurance de risque.

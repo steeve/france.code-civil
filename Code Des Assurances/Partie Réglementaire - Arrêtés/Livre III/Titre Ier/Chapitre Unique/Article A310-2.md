@@ -1,6 +1,5 @@
 Article A310-2
 ----
-L'obligation concernant la vérification d'identité mentionnée à l'article A.
-310-1 est toutefois considérée comme remplie dès lors que le paiement de la
-prime s'effectue par le débit d'un compte ouvert au nom du client auprès d'un
-établissement de crédit lui-même tenu à l'obligation d'identification.
+La déclaration prévue à l'article R. 321-17-1 est accompagnée, pour chacun des
+changements d'une des personnes chargées de conduire l'entreprise, d'un dossier
+constitué des éléments mentionnés à l'article A. 321-2.
