@@ -39,7 +39,7 @@ rapportées [*réintégration*] au résultat imposable de l'année de cession, d
 la limite, selon le taux de déduction pratiqué, de la moitié ou de la totalité
 du prix de cession.
 
-V. Les dispositions des I, II et III s'appliquent jusqu'au 31 décembre 1984.
+V. Les dispositions des I, II et III s'appliquent jusqu'au 31 décembre 1985.
 
 Un décret précise, en tant que de besoin, les modalités d'application des I et
 II (2).

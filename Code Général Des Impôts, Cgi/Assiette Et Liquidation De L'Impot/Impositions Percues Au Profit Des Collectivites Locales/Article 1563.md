@@ -21,21 +21,6 @@ est calculé d'après le tarif le plus faible, lorsque le spectacle passible de 
 tarif, considéré isolément, a une durée au moins égale aux trois quarts de la
 durée totale des représentations.
 
-Les entrées à titre gratuit sont imposées d'après le prix des mêmes places
-payantes ; les entrées à prix réduit sont imposées d'après le prix des places
-effectivement payé ; les entrées avec des cartes d'abonnement sont taxées
-d'après le tarif normal des places prises en location auxquelles elles donnent
-droit ; les cartes d'abonnement permanentes permettant un nombre indéterminé
-d'entrées sont imposées, soit comme des billets ordinaires pour chaque entrée à
-laquelle elles donnent effectivement lieu, soit, sur la demande des
-établissements, d'après un nombre d'entrées égal au nombre de jours pour
-lesquels ces cartes sont valables ; dans ce cas, l'impôt doit être acquitté au
-moment de la délivrance des cartes.
-
-Pour la détermination des paliers d'imposition, il est fait état de toutes les
-sommes passibles de l'impôt, y compris celles qui représentent la valeur des
-billets gratuits calculée d'après les prix des mêmes places payantes.
-
 Pour l'application de l'article 1560, sont considérés comme appareils
 automatiques [*définition*] ceux qui sont pourvus d'un dispositif mécanique,
 électrique ou autre, permettant leur mise en marche, leur fonctionnement ou leur

@@ -17,9 +17,32 @@ touristiques ou thermales est fixé chaque année par le comité des finances
 locales. Il ne peut être inférieur à 20 p. 100 ni supérieur à 28 p. 100 des
 ressources affectées aux concours particuliers.
 
-Le montant de la dotation supplémentaire attribué à chaque commune touristique
-ou thermale ne peut, à capacité d'accueil inchangée ou en accroissement, être
-inférieur à la dotation reçue l'année précédente.
+La dotation supplémentaire attribuée aux communes touristiques ou thermales sera
+déterminée pour les années 1984 et 1985 conformément aux dispositions suivantes
+:
+
+1° Les communes inscrites en 1983 sur la liste des communes touristiques ou
+thermales bénéficient en 1984 :
+
+a) lorsque leur capacité d'accueil est stable ou en accroissement, d'une
+dotation supplémentaire au moins égale à celle reçue en 1983 ;
+
+b) lorsque leur capacité d'accueil est en diminution, d'une dotation
+supplémentaire au moins égale aux deux tiers de celle reçue en 1983.
+
+2° Les communes inscrites sur la liste des communes touristiques ou thermales en
+1984 bénéficient en 1985 :
+
+a) lorsque leur capacité d'accueil est stable ou en accroissement, d'une
+dotation supplémentaire au moins égale à celle reçue en 1984 ;
+
+b) lorsque leur capacité d'accueil est en diminution, d'une dotation au moins
+égale aux deux tiers de celle reçue en 1984.
+
+3° Les communes qui cessent en 1984 d'être inscrites sur la liste des communes
+touristiques ou thermales et qui ont bénéficié en 1984 de la garantie prévue par
+le b) du 1° du présent article reçoivent en 1985 une dotation égale au tiers de
+celle qu'elles ont reçue en 1983.
 
 Pour chaque collectivité bénéficiaire, le montant de la dotation supplémentaire
 ainsi calculé est diminué du dixième du produit de la taxe de séjour

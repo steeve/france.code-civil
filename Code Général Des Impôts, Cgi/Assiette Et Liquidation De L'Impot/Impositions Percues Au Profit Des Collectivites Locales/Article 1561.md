@@ -20,24 +20,15 @@ et des sports (1).
 La même exemption totale des manifestations sportives pourra être accordée à
 l'occasion de réunions exceptionnelles par délibération du conseil municipal ;
 
-c. De même, les conseils municipaux pourront exonérer de l'impôt sur les
-spectacles les sommes versées à des oeuvres de bienfaisance à la suite de
-manifestations organisées dans le cadre de mouvements nationaux d'entraide ;
-
-4° Les organisateurs des réunions visées au 3°-a et b devront tenir leur
+c. Les organisateurs des réunions visées aux a et b doivent tenir leur
 comptabilité à la disposition des agents des impôts pendant le délai prévu à
 l'article L 82 du livre des procédures fiscales ;
 
-5° Les places offertes gratuitement aux blessés de guerre hospitalisés, aux
-mutilés et réformés de guerre, aux anciens militaires et marins titulaires de
-pensions concédées pour blessures reçues, infirmités ou maladies contractées en
-service ;
+4° Par délibération du conseil municipal, les sommes versées à des oeuvres de
+bienfaisance à la suite de manifestations organisées dans le cadre de mouvements
+nationaux d'entraide ;
 
-6° Dans les conditions déterminées par l'administration, les places occupées par
-les personnes tenues d'assister aux spectacles en raison de l'exercice de leur
-fonction ou profession, ainsi que celles offertes gratuitement aux élèves de
-facultés, écoles, pensionnats, etc., assistant en groupes aux représentations
-(2) ;
+5°et 6° (Abrogés) ;
 
 7° Les spectacles des première et troisième catégories pour lesquels il n'est
 pas exigé de paiement supérieur à 1 F au titre d'entrée, redevance ou mise ;
@@ -49,5 +40,3 @@ entreprises hôtelières qui ont reçu, avant le 1er janvier 1971, l'agrément p
 par l'article 26-2 de la loi n° 66-10 du 6 janvier 1966.
 
 (1) Annexe IV, art. 126 F.
-
-(2) Annexe IV, art. 132 à 134.

@@ -2,7 +2,7 @@ Article 902
 ----
 Sont exonérés du droit de timbre de dimension :
 
-1° Mutations à titre onéreux d'immeubles.
+1. Mutations à titre onéreux d'immeubles.
 
 1° a. Les minutes, originaux et expéditions des actes d'échange d'immeubles ;
 
@@ -90,8 +90,19 @@ salariés des entreprises industrielles et commerciales.
 10° Les chèques-vacances institués par l'ordonnance n° 82-283 du 26 mars 1982
 portant création des chèques-vacances.
 
-11° Les offres préalables de prêts rédigées conformément aux dispositions de la
+11° Les offres préalables de prêts rédigés conformément aux dispositions de la
 loi n° 79-596 du 13 juillet 1979 relative à l'information et à la protection des
 emprunteurs dans le domaine immobilier.
+
+12° Les conventions d'ouverture d'un compte pour le développement industriel
+(CODEVI) prévues à l'article 4 du décret n° 83-872 du 30 septembre 1983 ; cette
+disposition s'applique à compter du 3 octobre 1983 ;
+
+13° Les contrats de prêt sur gage consentis par les caisses de crédit municipal
+;
+
+14° Les minutes, originaux et expéditions des actes constatant la formation de
+sociétés en nom collectif, en commandite simple, à responsabilité limitée et par
+actions.
 
 (1) Décret n° 67-1165 du 22 décembre 1967 et arrêté du même jour.

@@ -13,7 +13,6 @@ associé selon les règles prévues par les exploitants individuels en tenant
 compte de sa quote-part dans les recettes totales du groupement ;
 
 - les abattements prévus à l'article 158-4 bis sont opérés, s'il y a lieu, sur
-le bénéfice imposable au nom de chaque associé (1).
+le bénéfice imposable au nom de chaque associé.
 
-(1) Ces dispositions prennent effet à compter de l'imposition des revenus de
-1984.
+Ces dispositions prennent effet à compter du 1er janvier 1985.

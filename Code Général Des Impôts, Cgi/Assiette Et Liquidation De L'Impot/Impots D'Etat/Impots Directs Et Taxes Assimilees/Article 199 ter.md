@@ -8,6 +8,9 @@ revenus ont donné lieu, en vertu des articles 119 bis et 1678 bis, est imputée
 sur le montant de l'impôt sur le revenu liquidé au vu de cette déclaration dans
 les conditions fixées par l'article 193.
 
+Ces dispositions ne sont pas applicables à la retenue à la source pratiquée sur
+les intérêts des obligations visés au deuxième alinéa du III de l'article 125 A.
+
 Pour tous les contribuables, qu'ils soient ou non tenus de souscrire une
 déclaration pour l'assiette de l'impôt sur le revenu, les sommes retenues à la
 source seront restituées [*remboursement*], dans la mesure où elles ne pourront

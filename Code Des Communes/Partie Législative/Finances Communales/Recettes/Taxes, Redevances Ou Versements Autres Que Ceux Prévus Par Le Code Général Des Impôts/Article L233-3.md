@@ -1,12 +1,12 @@
 Article L233-3
 ----
-La taxe communale et intercommunale prévue par les articles L. 233-1 et L. 233-2
-est, en ce qui concerne l'énergie électrique livrée par les distributeurs en
-basse tension et quelle qu'en soit l'utilisation, assise sur la part du montant
-de la facture d'électricité variant avec les consommations relevées, à
-l'exception de celles de ces consommations qui concernent l'éclairage du domaine
-public national, départemental et communal, dans des conditions déterminées par
-décret en Conseil d'Etat.
+Le taux [*maximal*] de cette taxe ne peut dépasser 8 p. 100.
 
-L'assiette de la taxe est uniforme, en fonction des tarifs, pour l'ensemble du
-territoire national.
+Les communes ou groupements de communes qui bénéficient à la date de
+promulgation de la loi de finances rectificative pour 1984 n° 84-1209 du 29
+décembre 1984 de la possibilité de dépasser le taux de 8 p. 100 conservent cette
+possibilité si elles peuvent justifier de charges d'électrification non
+couvertes par le taux maximum de la taxe mentionnée ci-dessus.
+
+La taxe est recouvrée par le distributeur dans les conditions fixées par décret
+en Conseil d'Etat.

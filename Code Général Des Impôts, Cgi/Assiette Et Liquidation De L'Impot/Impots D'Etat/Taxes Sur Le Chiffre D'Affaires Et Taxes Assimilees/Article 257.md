@@ -26,8 +26,6 @@ Ces opérations sont imposables même lorsqu'elles revêtent un caractère civil
 
 1 Sont notamment visés :
 
-- les opérations de lotissement;
-
 - les ventes et les apports en société de terrains à bâtir, des biens assimilés
 à ces terrains par l'article 691 ainsi que les indemnités de toute nature
 perçues par les personnes qui exercent sur ces immeubles un droit de propriété
@@ -44,24 +42,9 @@ Toutefois la livraison à soi-même d'immeubles affectés ou destinés à être
 affectés à l'habitation pour les trois quarts au moins de leur superficie totale
 et d'immeubles qui ne sont pas destinés à être utilisés pour la réalisation
 d'opérations soumises à la taxe sur la valeur ajoutée n'est imposée que
-lorsqu'il s'agit :
-
-- d'immeubles construits avec l'intervention d'un intermédiaire ou d'un
-mandataire. Pour l'application de cette disposition, les architectes intervenant
-en cette qualité, ainsi que les organismes à but non lucratif n'intervenant pas
-en qualité d'entrepreneur de travaux immobiliers, d'entrepreneur général, de
-lotisseur ou de marchand de biens et qui ne réalisent pas de bénéfices,
-directement ou indirectement, du chef de leur intervention, ne sont pas
-considérés comme des intermédiaires ou des mandataires. Il en est de même des
-organismes d'habitations à loyer modéré participant à la construction d'un
-immeuble pour le compte d'une société coopérative de construction désignée à
-l'article L 432-2 du code de la construction et de l'habitation, ou d'une
-société civile immobilière constituée sous l'égide de sociétés de crédit
-immobilier;
-
-- d'immeubles construits par des sociétés dont les parts ou actions assurent en
-droit ou en fait l'attribution en propriété ou en jouissance d'un immeuble ou
-d'une fraction d'immeuble.
+lorsqu'il s'agit d'immeubles construits par des sociétés dont les parts ou
+actions assurent en droit ou en fait l'attribution en propriété ou en jouissance
+d'un immeuble ou d'une fraction d'immeuble.
 
 2 Les dispositions qui précèdent ne sont pas applicables :
 

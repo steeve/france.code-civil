@@ -99,11 +99,21 @@ V. Une fraction des recettes départementales de la taxe professionnelle peut
 de recettes est réparti par lui entre les communes suivant les critères qu'il
 détermine.
 
-V bis - Pour l'application du présent article, les communautés ou syndicats
-d'agglomérations nouvelles visés à l'article 1609 nonies sont substitués aux
-communes membres. Leur potentiel fiscal est calculé en tenant compte des bases
-de taxe d'habitation et de taxes foncières imposées au profit des communes
-membres.
+V bis - (Devenu sans objet).
+
+V ter - Pour l'application des paragraphes II et suivants, le potentiel fiscal
+de chaque commune membre d'une communauté ou d'un syndicat d'agglomération
+nouvelle visés à l'article 1609 nonies B est calculé de la façon suivante :
+
+a. Pour la première année de fonctionnement de la communauté ou du syndicat
+d'agglomération nouvelle, le potentiel fiscal de chaque commune intègre, au
+titre de la taxe professionnelle, une quote-part des bases d'imposition de
+l'ensemble de l'agglomération, proportionnelle à la population de la commune ;
+
+b. A compter de la seconde année de fonctionnement de la communauté ou du
+syndicat d'agglomération nouvelle, le potentiel fiscal de chaque commune est
+celui qui est défini au premier alinéa de l'article 31 de la loi n° 83-636 du 13
+juillet 1983.
 
 VI. Les conditions d'application du présent article sont fixées par décret en
 Conseil d'Etat (1).

@@ -14,6 +14,9 @@ exclusivement nécessaires au fonctionnement de celles-ci ainsi que les contrats
 d'assurance maladie complémentaire souscrits auprès de ces mêmes organismes
 demeurent exonérés ;
 
+Le régime défini à la deuxième phrase du premier alinéa s'applique notamment aux
+camions, camionnettes, fourgonnettes à utilisations exclusivement utilitaires ;
+
 3° Les contrats d'assurance sur corps et facultés des navires de commerce et des
 navires de pêche souscrits contre les risques de toute nature de navigation
 maritime;
@@ -29,4 +32,5 @@ une activité professionnelle, soit, s'il est âgé de moins de dix-huit ans
 [*mineur*], d'acquérir une instruction ou une formation professionnelle d'un
 niveau normal;
 
-6° Les contrats d'assurances sur les risques de gel de récoltes.
+6° Les contrats d'assurances sur les risques de gel de récoltes et de tempêtes
+sur récoltes ou sur bois sur pied.

@@ -47,10 +47,9 @@ portefeuille ;
 
 3° et 3° bis (Abrogés) ;
 
-3° ter. Les sociétés immobilières d'investissement visées à l'article 33-I de la
-loi n° 63-254 du 15 mars 1963 et les sociétés immobilières de gestion visées à
-l'article 1er du décret n° 63-683 du 13 juillet 1963, pour la fraction de leur
-bénéfice net qui provient de la location de leurs immeubles ;
+3° ter. Les sociétés immobilières de gestion visées à l'article 1er du décret n°
+63-683 du 13 juillet 1963, pour la fraction de leur bénéfice net qui provient de
+la location de leurs immeubles ;
 
 3° quater. Les sociétés immobilières pour le commerce et l'industrie [*SICOMI*]
 visées à l'article 5 de l'ordonnance n° 67-837 du 28 septembre 1967, pour la

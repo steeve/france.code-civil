@@ -13,7 +13,7 @@ l'article 39 quinquies A-1 en faveur des immeubles affectés à la recherche
 scientifique ou technique.
 
 Les dispositions du présent article s'appliquent aux constructions commencées
-avant le 31 décembre 1984 et pour les investissements agréés avant la même date.
+avant le 31 décembre 1987 et pour les investissements agréés avant la même date.
 
 En ce qui concerne les petites entreprises, l'agrément sera accordé selon une
 procédure décentralisée dans les conditions qui seront fixées par un arrêté du

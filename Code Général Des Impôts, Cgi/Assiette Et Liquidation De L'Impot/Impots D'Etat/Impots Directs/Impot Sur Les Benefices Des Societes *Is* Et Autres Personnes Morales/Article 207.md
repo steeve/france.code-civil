@@ -2,11 +2,9 @@ Article 207
 ----
 1. Sont exonérés de l'impôt sur les sociétés :
 
-1. Les caisses de crédit agricole mutuel mentionnées au livre V du code rural,
-autres que celles définies à l'article 206-6 ;
-
-2° Sauf pour les opérations effectuées avec des non-sociétaires et à condition
-qu'elle fonctionnent conformément aux dispositions qui les régissent :
+1° (Devenu sans objet) 2° Sauf pour les opérations effectuées avec des
+non-sociétaires et à condition qu'elle fonctionnent conformément aux
+dispositions qui les régissent :
 
 - les sociétés coopératives agricoles d'approvisionnement et d'achat ;
 

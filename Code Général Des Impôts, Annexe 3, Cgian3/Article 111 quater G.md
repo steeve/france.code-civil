@@ -26,7 +26,7 @@ correspondante par trimestre.
 
 Lors du dépôt de la déclaration, un relevé des éléments figurant sur cette
 dernière doit être adressé par chaque redevable au directeur départemental de
-l'agriculture et de la forêt.
+l'agriculture.
 
 Les obligations prévues aux 1° et 2° ci-dessus ne s'appliquent pas aux personnes
 assujetties à la taxe sur la valeur ajoutée qui sont astreintes aux obligations
