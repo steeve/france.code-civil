@@ -33,6 +33,9 @@ d'immatriculation du véhicule tracteur que si les dimensions de la remorque ou
 du chargement sont telles que la plaque d'immatriculation du véhicule tracteur
 n'est pas visible pour un observateur placé à l'arrière.
 
+Chaque plaque doit être maintenue dans un état d'entretien permettant la lecture
+des inscriptions qu'elle comporte.
+
 Le ministre chargé des transports et le ministre de l'intérieur fixent par
 arrêté les caractéristiques et le mode de pose des plaques d'immatriculation.
 
@@ -41,8 +44,9 @@ muni des plaques ou inscriptions exigées par le présent article est puni de
 l'amende prévue pour les contraventions de la quatrième classe.
 
 Le fait de contrevenir aux dispositions du présent article relatives à
-l'entretien et aux dimensions des plaques d'immatriculation est puni de l'amende
-prévue pour les contraventions de la troisième classe.
+l'entretien, aux caractéristiques ou au mode de pose des plaques
+d'immatriculation est puni de l'amende prévue pour les contraventions de la
+troisième classe.
 
 L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux
 articles L. 325-1 à L. 325-3.

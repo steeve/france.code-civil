@@ -13,9 +13,9 @@ moteur doit être muni à l'avant d'un ou de deux feux de route.
 III. - Tout tricycle à moteur ou quadricycle lourd à moteur, dont la largeur
 dépasse 1,30 mètre, doit être muni à l'avant de deux feux de route.
 
-IV. - Les dispositions du I ci-dessus ne sont pas applicables ni aux
-cyclomoteurs ni aux quadricycles légers à moteur qui, toutefois, peuvent être
-munis d'un ou de deux feux de route.
+IV. - Les dispositions du I ci-dessus ne sont applicables ni aux cyclomoteurs ni
+aux quadricycles légers à moteur qui, toutefois, peuvent être munis d'un ou de
+deux feux de route.
 
 V. - Lorsqu'un cyclomoteur à trois roues ou un quadricycle léger à moteur, dont
 la largeur dépasse 1,30 mètre, est muni de feux de route, ceux-ci doivent être

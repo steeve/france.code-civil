@@ -1,8 +1,9 @@
 Article R413-8
 ----
-La vitesse des véhicules dont le poids total autorisé en charge ou le poids
-total roulant autorisé est supérieur à 3,5 tonnes, à l'exception des véhicules
-de transport en commun, est limitée à :
+La vitesse des véhicules dont le poids total autorisé en charge est supérieur à
+3,5 tonnes ou des ensembles de véhicules dont le poids total roulant autorisé
+est supérieur à 3,5 tonnes à l'exception des véhicules de transport en commun,
+est limitée à :
 
 1° 110 km/h pour les véhicules dont le poids total est inférieur ou égal à 12
 tonnes et à 90 km/h pour ceux dont le poids total est supérieur à 12 tonnes, sur

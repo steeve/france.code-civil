@@ -13,8 +13,7 @@ largeur hors tout du véhicule ;
 
 2° Dans tous les cas, en même temps que les feux de brouillard.
 
-III. - La circulation des motocyclettes avec à l'avant le ou leurs seuls feux de
-position allumés est interdite.
+III. (Dispositions abrogées)
 
 IV. - Le fait, pour tout conducteur, de contrevenir aux dispositions du présent
 article est puni de l'amende prévue pour les contraventions de la quatrième

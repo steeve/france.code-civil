@@ -13,8 +13,7 @@ dans un temps suffisamment bref.
 
 3° Il n'est pas lui-même sur le point d'être dépassé.
 
-III. - Il doit, en outre, en cas de nécessité, avertir de son intention l'usager
-qu'il veut dépasser.
+III. - Il doit, en outre, avertir de son intention l'usager qu'il veut dépasser.
 
 IV. - Pour effectuer le dépassement, il doit se déporter suffisamment pour ne
 pas risquer de heurter l'usager qu'il veut dépasser. Il ne doit pas en tout cas
