@@ -32,7 +32,11 @@ créées en application de la loi n° 46-860 du 30 avril 1946 ; foyers-hôtels p
 travailleurs ; locaux d'habitation et leurs annexes bénéficiant d'un prêt aidé à
 l'accession à la propriété ou d'un prêt locatif aidé ; immeubles d'habitation
 collectifs remplissant les conditions nécessaires à l'octroi de prêts aidés à
-l'accession à la propriété : 1 070 F
+l'accession à la propriété ; ((locaux d'habitation à usage locatif et leurs
+annexes mentionnés au 3° de l'article L. 351-2 du code de la construction et de
+l'habitation qui bénéficient de la décision favorable d'agrément prise dans les
+conditions prévues aux articles R. 331-3 et R. 331-6 du même code à compter du
+1er octobre 1996)) (M) : 1 070 F
 
 5° Locaux à usage d'habitation principale et leurs annexes bénéficiant d'un prêt
 conventionné ou dont les prix de vente ou les prix de revient ne sont pas
@@ -68,15 +72,15 @@ développée hors oeuvre correspondant à celle du bâtiment détruit n'est pas 
 en compte pour le calcul de la taxe, à la double condition :
 
 a) Que la demande de permis de construire relative à la reconstruction soit
-déposée ((dans le délai de quatre ans)) (M) suivant la date du sinistre;
+déposée dans le délai de quatre ans suivant la date du sinistre;
 
 b) Que le sinistré justifie que les indemnités versées en réparation des
 dommages occasionnés à l'immeuble ne comprennent pas le montant de la taxe
 locale d'équipement normalement exigible sur les reconstructions.
 
-((Ces dispositions s'appliquent, dans les mêmes conditions, aux bâtiments de
-même nature reconstruits sur d'autres terrains de la même commune, lorsque les
+Ces dispositions s'appliquent, dans les mêmes conditions, aux bâtiments de même
+nature reconstruits sur d'autres terrains de la même commune, lorsque les
 terrains d'implantation de locaux sinistrés ont été reconnus comme extrêmement
-dangereux et classés inconstructibles)) (M).
+dangereux et classés inconstructibles.
 
 (M) Modification.

@@ -11,12 +11,12 @@ les conditions prévues au titre II de l'ordonnance n° 45-2710 du 2 novembre
 portefeuille ou des plus-values qu'elles réalisent sur la vente des titres ou
 parts sociales faisant partie de ce portefeuille. Ces sociétés cesseront de
 bénéficier des dispositions du présent alinéa trois ans après leur création, si
-leurs actions ne sont pas introduites à la cote officielle ou à la cote du
-second marché d'une bourse de valeurs avant ce délai ;
+leurs actions ne sont pas ((admises aux négociations sur un marché réglementé))
+(M) (1) avant ce délai ;
 
 1° bis A - Les sociétés d'investissement à capital variable [*SICAV*] régies par
-((la loi n° 88-1201 du 23 décembre 1988 modifiée)) (M) pour les bénéfices
-réalisés dans le cadre de leur objet légal ;
+la loi n° 88-1201 du 23 décembre 1988 modifiée pour les bénéfices réalisés dans
+le cadre de leur objet légal ;
 
 1° ter - Les sociétés de développement régional constituées et fonctionnant
 conformément aux dispositions du décret n° 55-876 du 30 juin 1955 et des textes
@@ -95,7 +95,7 @@ ont pour objet exclusif l'activité mentionnée au I de l'article 1er de la loi 
 de crédit-bail conclus avec l'exploitant public avant le 1er janvier 1993 et
 pour les plus-values qu'elles réalisent à l'occasion des ces opérations, ainsi
 que pour la partie des bénéfices et des plus-values qu'elles réalisent en tant
-que société immobilière pour le commerce et l'industrie (1).
+que société immobilière pour le commerce et l'industrie.
 
 Les sociétés agréées pour le financement des télécommunications qui n'ont pas
 pour objet exclusif l'activité mentionnée au I de l'article 1er de la loi n°
@@ -103,7 +103,7 @@ pour objet exclusif l'activité mentionnée au I de l'article 1er de la loi n°
 de crédit-bail conclus avec l'exploitant public avant le 1er janvier 1993, si
 elles apportent à une société immobilière pour le commerce et l'industrie la
 branche d'activité exercée au titre du e du I de l'article 1er de la loi n°
-69-1160 du 24 décembre 1969 (1).
+69-1160 du 24 décembre 1969.
 
 Les dividendes reçus de la société immobilière pour le commerce et l'industrie
 mentionnée au deuxième alinéa par la société apporteuse sont exonérés d'impôt
@@ -124,13 +124,12 @@ immobilière pour le commerce et l'industrie soient redistribués par la sociét
 apporteuse avant la fin de l'exercice qui suit celui de leur encaissement.
 
 3° sexies Les sociétés agréées dans les conditions prévues par l'article 30 de
-la loi n° 80-531 du 15 juillet 1980 ((modifiée)) (M) relative aux économies
-d'énergie et à l'utilisation de la chaleur (Sofergie) pour leurs activités
-autres que celles autorisées par le II de l'article 87 de la loi de finances
-pour 1987 (n° 86-1317 du 30 décembre 1986) (2) ; l'exonération concerne la
-partie de leur bénéfice net provenant des opérations de crédit-bail et de
-location ou des plus-values qu'elles réalisent dans le cadre des opérations de
-crédit-bail ;
+la loi n° 80-531 du 15 juillet 1980 modifiée relative aux économies d'énergie et
+à l'utilisation de la chaleur (Sofergie) pour leurs activités autres que celles
+autorisées par le II de l'article 87 de la loi de finances pour 1987 (n° 86-1317
+du 30 décembre 1986) ; l'exonération concerne la partie de leur bénéfice net
+provenant des opérations de crédit-bail et de location ou des plus-values
+qu'elles réalisent dans le cadre des opérations de crédit-bail ;
 
 3° septies Les sociétés de capital-risque qui fonctionnent dans les conditions
 prévues à l'article 1er de la loi n° 85-695 du 11 juillet 1985 modifiée sur les
@@ -157,16 +156,8 @@ conditions prévues à l'article 206 5 ;
 6° Les établissements publics pour leurs opérations de lotissement et de vente
 de terrains leur appartenant.
 
-Ces dispositions sont applicables à compter du 1er janvier 1993.
-
 (M) Modification.
 
-(1) Voir Annexe IV, art. 23 bis.
-
-(2) Ce texte autorise les SOFERGIE à financer, par voie de crédit-bail
-immobilier et mobilier ou de location, les ouvrages et équipements utilisés par
-des collectivités territoriales, leurs établissements publics, leurs groupements
-et leurs concessionnaires, pour une activité dont les recettes sont soumises à
-la TVA en application des articles 256, 256 B ou 260 A.
-
-(3) Voir le décret n° 85-1102 du 9 octobre 1985 et Annexe II, art. 140 ter.
+(1) Loi 98-1267 1998-12-30 art. 27 XV : Les dispositions du présent article sont
+applicables à compter de la date d'entrée en vigueur de la loi n° 96-597 du 2
+juillet 1996 de modernisation des activités financières (4 juillet 1996).

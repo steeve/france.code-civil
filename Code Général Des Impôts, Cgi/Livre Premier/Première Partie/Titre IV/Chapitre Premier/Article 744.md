@@ -1,8 +1,7 @@
 Article 744
 ----
-I. Sous réserve des dispositions de l'article 745, les baux à vie ou à durée
-illimitée sont soumis aux mêmes impositions que les mutations de propriété des
-biens auxquels ils se rapportent.
+I. - Les baux à vie ou à durée illimitée sont soumis aux mêmes impositions que
+les mutations de propriété des biens auxquels ils se rapportent.
 
 II. Pour les baux dont la durée est illimitée, la valeur servant d'assiette à
 l'impôt est déterminée par un capital formé de vingt fois la rente ou le prix

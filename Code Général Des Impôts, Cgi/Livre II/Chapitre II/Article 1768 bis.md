@@ -15,11 +15,16 @@ première infraction et que le contribuable apporte la preuve que le Trésor n'a
 subi aucun préjudice, l'infraction n'est sanctionnée que par une amende
 forfaitaire de 5 000 F.
 
+1 bis. La transmission effectuée en méconnaissance de l'obligation prévue au
+quatrième alinéa du 1 de l'article 242 ter donne lieu à l'application d'une
+amende de 100 F par déclaration (1).
+
 2. Les infractions aux dispositions du deuxième alinéa de l'article 1649 A du
 code général des impôts sont passibles d'une amende de 5 000 F par compte non
 déclaré.
 
-((3. Les infractions aux dispositions de l'article 1649 A bis sont passibles
-d'une amende de 5 000 F par avance non déclarée.)) (M)
+3. Les infractions aux dispositions de l'article 1649 A bis sont passibles d'une
+amende de 5 000 F par avance non déclarée.
 
-(M) Modification.
+(1) Ces dispositions s'appliquent à compter des revenus imposables au titre de
+l'année 1999.

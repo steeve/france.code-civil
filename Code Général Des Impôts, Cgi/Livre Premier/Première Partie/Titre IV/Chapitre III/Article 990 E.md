@@ -27,11 +27,11 @@ autres membres, le nombre des actions, parts ou autres droits détenus par chacu
 d'eux et la justification de leur résidence fiscale. L'engagement est pris à la
 date de l'acquisition par la personne morale du bien ou droit immobilier ou de
 la participation visés à l'article 990 D ou, pour les biens, droits ou
-participations déjà possédés au 1er janvier 1993, au plus tard le 15 mai 1993 ;
+participations déjà possédés au 1er janvier 1993, au plus tard le 15 mai 1993
+(1) ;
 
-4° Aux sociétés dont les actions sont inscrites à la cote officielle ou à celle
-du second marché d'une bourse française ou d'une bourse étrangère régie par des
-règles analogues ;
+4° Aux sociétés dont les actions sont admises aux négociations sur un marché
+réglementé ;
 
 5° Aux organisations internationales, aux Etats souverains et aux institutions
 publiques ;
@@ -40,5 +40,3 @@ publiques ;
 exercent une activité désintéressée de caractère social, philanthropique,
 éducatif ou culturel et qui établissent que cette activité justifie la propriété
 des immeubles ou droits immobiliers.
-
-[*Cf. Instruction 1993-10-23 7Q-3-93.*]

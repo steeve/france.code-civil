@@ -8,8 +8,9 @@ géométriques dans les départements d'outre-mer, une taxe spéciale d'équipem
 destinée à financer l'exercice en Guadeloupe, par cet organisme, des missions
 définies à l'article 5 de cette loi.
 
-Le montant de cette taxe est arrêté chaque année par le conseil d'administration
-de l'agence dans les limites d'un plafond fixé par la loi de finances.
+Le montant de cette taxe est arrêté avant le 31 décembre de chaque année, pour
+l'année suivante, dans la limite de 10 millions de francs, par le conseil
+d'administration de l'établissement public et notifié aux services fiscaux. (1)
 
 Les communes concernées sont préalablement consultées par le conseil
 d'administration.
@@ -34,3 +35,9 @@ de la taxe additionnelle à compter de la même date.
 
 Les cotisations sont établies et recouvrées, les réclamations sont présentées et
 jugées comme en matière de contributions directes.
+
+(1) Loi 98-1267 1998-12-30 art. 38 II : Toutefois, au titre de l'année 1999, le
+montant des taxes spéciales d'équipement perçues au profit des agences pour la
+mise en valeur des espaces urbains de la zone dite des cinquante pas
+géométriques en Guadeloupe et en Martinique devra être arrêté et notifié avant
+le 30 avril 1999.
