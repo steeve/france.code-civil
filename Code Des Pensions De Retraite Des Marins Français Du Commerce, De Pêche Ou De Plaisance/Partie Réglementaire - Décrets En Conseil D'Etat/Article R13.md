@@ -1,21 +1,23 @@
 Article R13
 ----
-La pension d'ancienneté [*montant*] dont le marin demande la liquidation avant
-l'âge de cinquante-cinq ans est égale [*calcul*], par année de service, à 2 %
-[*pourcentage, montant*] du salaire annuel défini à l'article R. 11, sans que le
-nombre des annuités liquidables puisse dépasser vingt-cinq.
+Les pensions servies en application des dispositions du présent code sont
+calculées à raison de 2 p. 100 du salaire annuel défini à l'article R. 11 par
+annuité de service.
 
-La pension proportionnelle est égale à 2 % du salaire annuel par année de
-service.
+Le maximum des annuités liquidables dans les pensions d'ancienneté est fixé à
+trente-sept annuités et demie. Il peut être porté à quarante annuités du chef
+des bonifications prévues aux articles L. 11-1° et R. 6.
 
-La pension liquidée à cinquante-cinq ans ou avant cet âge en cas d'invalidité
-reconnue dans les conditions prévues aux articles L. 6 et R. 4 est égale à 2 %
-du salaire annuel par année de service, sans que le nombre des annuités
-liquidables puisse dépasser trente-sept et demie, non comprises les annuités
-supplémentaires accordées par les dispositions des articles L. 11-1° et R. 6.
+En outre, le maximum des annuités liquidables dans les pensions d'ancienneté
+dont la liquidation est demandée avant cinquante-cinq ans est fixé à vingt-cinq
+annuités. Ce maximum n'est toutefois pas applicable :
 
-Toutefois, le nombre maximum des annuités liquidables ne peut être supérieur à
-quarante.
+a) Dans le cas de pension liquidée dans les conditions prévues aux articles L. 6
+et R. 4 ;
+
+b) Dans le cas de pension liquidée au profit d'un marin âgé d'au moins
+cinquante-deux ans et demi, réunissant trente-sept annuités et demie de
+services.
 
 Si le marin qui a demandé sa pension avant l'âge de cinquante-cinq ans reprend
 la navigation avant cet âge, le paiement de celle-ci est suspendu jusqu'à la
