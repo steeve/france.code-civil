@@ -1,5 +1,5 @@
 Article R2
 ----
-Les officiers de police judiciaire doivent rendre compte de leurs diverses
-opérations à l'autorité judiciaire dont ils dépendent sans attendre la fin de
-leur mission.
+Les officiers de police judiciaire, à l'occasion d'une enquête ou de l'exécution
+d'une commission rogatoire, ne peuvent solliciter ou recevoir des ordres ou
+instructions que de l'autorité judiciaire dont ils dépendent.
