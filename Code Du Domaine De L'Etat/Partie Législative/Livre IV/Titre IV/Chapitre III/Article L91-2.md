@@ -12,15 +12,24 @@ services ou usages publics ;
 2° De cessions gratuites aux titulaires des concessions mentionnées au 1°
 ci-dessus ;
 
-3° De cessions gratuites aux communes en vue de constituer sur leur territoire
-des réserves foncières, dans les conditions prévues aux articles L. 221-1 et L.
-221-2 du code de l'urbanisme, à condition que les biens soient libres de toute
-occupation ou ne soient pas confiés en gestion à des tiers. La superficie
-globale cédée en une ou plusieurs fois ne pourra excéder une superficie de
-référence égale à dix fois la superficie des parties agglomérées de la commune
-cessionnaire à la date de la première cession gratuite.
+3° De cessions gratuites aux communes ou à un établissement public d'aménagement
+créé en application des articles L. 321-1 et suivants du code de l'urbanisme en
+vue de constituer sur le territoire d'une commune des réserves foncières dans
+les conditions prévues aux articles L. 221-1 et L. 221-2 du code de l'urbanisme,
+à condition que les biens soient libres de toute occupation ou ne soient pas
+confiés en gestion à des tiers. La superficie globale cédée en une ou plusieurs
+fois ne peut excéder sur chaque commune une superficie de référence égale à dix
+fois la superficie des parties agglomérées de la commune de situation des biens
+cédés à la date de la première cession gratuite. Lorsque les cessions gratuites
+sont consenties à un établissement public d'aménagement, elles doivent faire
+l'objet d'un accord préalable de la commune de situation des biens cédés.
 
 Peuvent également être cédés gratuitement aux collectivités territoriales les
 immeubles dépendant du domaine privé de l'Etat dont l'expropriation a été
 déclarée d'utilité publique en vue de réaliser l'un des objectifs mentionnés au
 1° ci-dessus.
+
+Les concessions et cessions mentionnées au présent article peuvent faire l'objet
+de prescriptions particulières visant à préserver l'environnement. Le
+non-respect de ces prescriptions peut entraîner l'abrogation de l'acte de
+concession ou de cession par le représentant de l'Etat dans le département.

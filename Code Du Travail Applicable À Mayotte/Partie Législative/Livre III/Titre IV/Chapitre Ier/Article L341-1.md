@@ -14,5 +14,8 @@ ont servi à commettre l'infraction ou ont été utilisés à cette occasion.
 En outre, le tribunal pourra prononcer la confiscation des objets sur lesquels
 aura porté le travail clandestin.
 
+Le tribunal pourra prononcer à l'encontre de la personne condamnée l'exclusion
+des marchés publics pour une durée de cinq ans au plus.
+
 En cas de récidive, les peines d'emprisonnement et d'amende peuvent être portées
 au double.
