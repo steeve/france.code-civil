@@ -10,5 +10,8 @@ Il est également communiqué dans les mêmes conditions aux agents des services
 prévention des organismes de sécurité sociale qui peuvent assister aux réunions
 du comité.
 
+Lorsqu'une réunion du comité doit comporter l'examen de documents écrits,
+ceux-ci sont joints à l'envoi de l'ordre du jour.
+
 Les réunions ont lieu dans l'établissement, dans un local approprié et, sauf
 exception justifiée par l'urgence, pendant les heures de travail.
