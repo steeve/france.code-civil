@@ -18,5 +18,6 @@ D. 134-1 à D. 134-9.
 c) Le montant ainsi obtenu n'est versé ou reçu qu'à hauteur d'une partie de sa
 valeur calculée.
 
-d) Le taux applicable pour calculer le montant défini au c est égal à 34 % pour
-l'exercice 2000 et à 30 % à compter de l'exercice 2001.
+d) Le taux applicable pour calculer le montant défini au c est égal à 30 % pour
+l'exercice 2002, 27 % pour l'exercice 2003, 24 % pour l'exercice 2004, 21 % à
+compter de l'exercice 2005.
