@@ -7,7 +7,7 @@ fixée comme suit :
 jour d'hospitalisation dans un établissement public ou privé, pour l'ensemble
 des frais afférents à l'hospitalisation.
 
-La participation aux frais est supprimée à partir du trente et unième jour .
+La participation aux frais est supprimée à partir du trente et unième jour.
 Toutefois, elle est supprimée dès le premier jour lorsque pendant
 l'hospitalisation, l'acte ou la série d'actes pratiqués répondent aux conditions
 définies au 4° ci-dessous. La participation de l'assuré est également supprimée
@@ -50,6 +50,10 @@ prononçant la suppression de la participation est prise sur avis conforme du
 contrôle médical ; à défaut d'entente entre le médecin conseil et le médecin
 traitant sur les prestations devant bénéficier de la dispense de participation,
 il est fait appel à un expert dans les conditions prévues à l'article R. 141-1.
+
+8° La participation de l'assuré est supprimée pour les frais d'analyses ou
+d'examens de laboratoire relatifs au dépistage sérologique de l'infection par le
+virus de l'immunodéficience humaine.
 
 La décision de la caisse fixe la durée de la période d'exonération, sous réserve
 du maintien du droit aux prestations en application de l'article L. 615-8.
