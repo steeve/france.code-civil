@@ -1,30 +1,9 @@
 Article R3312-2
 ----
-Les décisions modificatives qui peuvent être votées en cours d'exercice au
-budget du département résultent :
-
-1° Des virements de crédits ;
-
-2° De l'emploi des recettes éventuelles non prévues dans le budget primitif ;
-
-3° De l'emploi des ressources disponibles provenant de l'exercice précédent.
-
-Dans la première session du conseil général suivant le vote du compte
-administratif, le président du conseil général propose au dit conseil un budget
-supplémentaire dans lequel sont portés :
-
-a) En recettes :
-
-- l'excédent de recettes constaté à la fin de l'année précédente,
-
-- les restes à réaliser,
-
-- les recettes nouvelles qui ne pouvaient être prévues lors du vote du budget
-primitif ;
-
-b) En dépenses :
-
-- les restes à réaliser ;
-
-- les dépenses nouvelles de l'année en cours qui ne pouvaient être prévues lors
-du vote du budget primitif.
+La présentation croisée, par fonction ou par nature, prévue au premier alinéa de
+l'article L. 3312-2 s'effectue entre le niveau le plus fin de la nomenclature
+fonctionnelle et chacun des comptes par nature, à quatre chiffres pour le compte
+relatif aux rémunérations du personnel et à trois chiffres pour les autres
+comptes. Pour le compte administratif, le croisement s'effectue entre le niveau
+le plus fin de la nomenclature fonctionnelle et le compte le plus détaillé
+ouvert dans la nomenclature par nature.
