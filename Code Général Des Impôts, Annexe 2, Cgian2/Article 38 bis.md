@@ -2,7 +2,7 @@ Article 38 bis
 ----
 I. Les petites et moyennes entreprises placées sous le régime du bénéfice réel
 avec obligations allégées défini à l'article 302 septies A bis du code général
-des impôts souscrivent, avant le 1er avril de chaque année, la déclaration
+des impôts souscrivent, au plus tard le 30 avril de chaque année, la déclaration
 prévue à l'article 53 A du même code.
 
 Toutefois, les personnes morales passibles de l'impôt sur les sociétés en vertu
