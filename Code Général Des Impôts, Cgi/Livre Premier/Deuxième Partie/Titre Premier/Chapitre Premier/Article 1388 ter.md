@@ -17,8 +17,9 @@ L'abattement est applicable pour les impositions établies au titre des cinq
 années suivant celle de l'achèvement des travaux qui doit intervenir au plus
 tard le 31 décembre 2016.
 
-La nature des travaux ouvrant droit à l'abattement est fixée par arrêté conjoint
-du ministre chargé de l'outre-mer, du ministre chargé du logement et du ministre
+La nature des travaux ouvrant droit à l'abattement ainsi que leur conformité au
+regard des dispositions du premier alinéa sont fixées par arrêté conjoint du
+ministre chargé de l'outre-mer, du ministre chargé du logement et du ministre
 chargé du budget.
 
 II. - Pour bénéficier de l'abattement prévu au I, les organismes ou sociétés
