@@ -50,16 +50,16 @@ ou vendus en l'état ou sous forme d'autres produits pétroliers [*condition*].
 conditions fixées par les articles 271 à 273, les achats, importations,
 livraisons et services portant sur :
 
-a) Les fiouls lourds (ex 27-10-00-79 du tarif des douanes) utilisés comme
+a Les fiouls lourds (ex 27-10-00-79 du tarif des douanes) utilisés comme
 combustibles;
 
-b) Les fractions légères (ex 27-10-00-25 et ex 27-10-00-39 du tarif des douanes)
+b Les fractions légères (ex 27-10-00-25 et ex 27-10-00-39 du tarif des douanes)
 utilisées comme combustibles;
 
-c) Les propanes (ex 27-11-12-99 du tarif des douanes) et les butanes (ex
+c Les propanes (ex 27-11-12-99 du tarif des douanes) et les butanes (ex
 27-11-13-90 du tarif des douanes) utilisés comme combustibles;
 
-d) Les produits pétroliers et assimilés visés au tableau B de l'article 265 du
+d Les produits pétroliers et assimilés visés au tableau B de l'article 265 du
 code des douanes, utilisés comme matières premières ou agents de fabrication.
 
 Pour l'application du d, on entend par matières premières [*définition*] les
@@ -71,7 +71,7 @@ produit soumis à la taxe sur la valeur ajoutée à l'exclusion des produits
 utilisés pour la carburation, la lubrification proprement dite ou la combustion,
 sous réserve de ce qui est dit aux a, b et c.
 
-1° ter a) La valeur ajoutée afférente aux achats, importations, livraisons et
+1° ter a. La valeur ajoutée afférente aux achats, importations, livraisons et
 services portant sur le gazole utilisé comme carburant est déductible dans les
 conditions prévues aux articles 271 à 273.
 
@@ -79,8 +79,8 @@ La déduction est limitée à 95 p. 100 du montant de la taxe pour le premier
 semestre de 1991. Toutefois, cette limitation n'est pas applicable à la taxe
 afférente au gazole utilisé pour la réalisation de transports internationaux.
 
-La déductibilité de la taxe sur la valeur ajoutée est limitée à 80 p. 100 de son
-montant pour les dépenses afférentes au gazole utilisé pour un véhicule, un
+La déductibilité de la taxe sur la valeur ajoutée est limitée à 50 p. 100 (1) de
+son montant pour les dépenses afférentes au gazole utilisé pour un véhicule, un
 engin ou leur location, exclu du droit à déduction en application des
 dispositions de l'article 273. Cette disposition n'est pas applicable aux
 véhicules ou engins affectés à l'enseignement de la conduite.
@@ -93,12 +93,12 @@ Le gazole [*définition ou gas-oil*] visé au présent article s'entend du produ
 relevant de la position 27-10-00-69 du tarif des douanes et repris au tableau B
 de l'article 265 du code des douanes sous l'indice d'identification 22.
 
-b) Les dispositions du a sont applicables au gaz de pétrole liquéfié (ex
+b. Les dispositions du a sont applicables au gaz de pétrole liquéfié (ex
 27-11-19 du tarif des douanes) utilisé comme carburant routier ;
 
 1° quater. La taxe sur la valeur ajoutée afférente aux achats, importations,
-livraisons et services portant sur le fioul [*fuel*] domestique et le coke de
-pétrole est déductible dans les conditions fixées aux articles 271 à 273.
+livraisons et services portant sur le fioul domestique et le coke de pétrole est
+déductible dans les conditions fixées aux articles 271 à 273.
 
 La déduction est limitée à 50 p. 100 du montant de la taxe pour 1991.
 
@@ -114,6 +114,15 @@ besoins de transports aériens publics de voyageurs ou de marchandises.
 
 En 1989 et en 1990, la déduction est limitée respectivement à un tiers et à deux
 tiers de son montant.
+
+1° sexies. La taxe sur la valeur ajoutée afférente aux achats, importations,
+acquisitions intra communautaires, livraisons et services portant sur les
+produits pétroliers utilisés pour la lubrification est déductible dans les
+conditions prévues aux articles 271 à 273, lorsqu'ils sont utilisés pour des
+véhicules et engins ouvrant droit à déduction. Cette disposition s'applique
+également si ces produits pétroliers sont utilisés dans les véhicules et engins
+pris en location quand le prenur peut déduire la taxe relative à cette location
+(2).
 
 2° La taxe sur la valeur ajoutée ayant grevé les biens ou les services utilisés
 pour l'extraction, la fabrication, le transport par pipe-line ou le stockage des
@@ -153,3 +162,7 @@ tableau B de l'article 265 du code des douanes sous les indices d'identification
 30, 33, 35, 37, 38 et 39.
 
 7 (Transféré sous l'article L 45 C du livre des procédures fiscales).
+
+(1) A compter du 29 juillet 1991.
+
+(2) A compter du 1er janvier 1993.

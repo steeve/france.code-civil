@@ -26,17 +26,23 @@ Ces opérations sont imposables même lorsqu'elles revêtent un caractère civil
 
 1 Sont notamment visés :
 
-- les ventes et les apports en société de terrains à bâtir, des biens assimilés
+- Les ventes et les apports en société de terrains à bâtir, des biens assimilés
 à ces terrains par l'article 691 ainsi que les indemnités de toute nature
 perçues par les personnes qui exercent sur ces immeubles un droit de propriété
 ou de jouissance, ou qui les occupent en droit ou en fait;
 
-- les ventes d'immeubles et les cessions, sous forme de vente ou d'apport en
+Sont notamment visés par l'alinéa précédent les terrains pour lesquels, dans un
+délai de quatre ans à compter de la date de l'acte qui constate l'opération,
+l'acquéreur ou le bénéficiaire de l'apport obtient le permis de construire ou
+commence les travaux nécessaires pour édifier un immeuble ou un groupe
+d'immeubles ou pour construire de nouveaux locaux en surélévation.
+
+- Les ventes d'immeubles et les cessions, sous forme de vente ou d'apport en
 société, de parts d'intérêt ou d'actions dont la possession assure en droit ou
 en fait l'attribution en propriété ou en jouissance d'un immeuble ou d'une
 fraction d'immeuble;
 
-- les livraisons à soi-même d'immeubles.
+- Les livraisons à soi-même d'immeubles.
 
 Toutefois la livraison à soi-même d'immeubles affectés ou destinés à être
 affectés à l'habitation pour les trois quarts au moins de leur superficie totale
@@ -58,6 +64,22 @@ immeubles ou parties d'immeubles achevés depuis plus de cinq ans ou qui, dans
 les cinq ans de l'achèvement de ces immeubles ou parties d'immeubles, ont déjà
 fait l'objet d'une cession à titre onéreux à une personne n'intervenant pas en
 qualité de marchand de biens;
+
+3 Les acquisitions de terrains attenants à ceux qui ont été acquis précédemment
+en vue de la construction de maisons individuelles par des personnes physiques
+pour leur propre usage et à titre d'habitation principale peuvent, à la demande
+de l'acquéreur mentionnée dans l'acte, être soumises à la taxe sur la valeur
+ajoutée.
+
+Toutefois, cette disposition :
+
+a) N'est applicable qu'à la fraction du terrain attenant qui, compte tenu de la
+superficie du terrain antérieurement acquis, n'excède pas 2 500 mètres carrés
+par maison ou la superficie minimale exigée par la législation sur le permis de
+construire lorsqu'elle est supérieure ;
+
+b) Est subordonnée à la condition que l'acquisition nouvelle soit effectuée
+moins de deux ans après l'achèvement de la construction.
 
 8° Les prélèvements, utilisations, affectations de biens achetés, importés,
 extraits, fabriqués ou transformés par les assujettis ainsi que les prestations
@@ -86,8 +108,7 @@ personnes assujetties à la taxe sur la valeur ajoutée;
 c De conserves alimentaires;
 
 d De pierres précieuses, perles ou objets d'occasion dans la fabrication
-desquels sont entrées des pierres précieuses ou des perles, sous réserve des
-dispositions de l'article 261-1-3°-b;
+desquels sont entrées des pierres précieuses ou des perles ;
 
 11° Les quantités de boissons manquantes chez les marchands en gros en sus des
 déductions et soumises aux droits indirects;

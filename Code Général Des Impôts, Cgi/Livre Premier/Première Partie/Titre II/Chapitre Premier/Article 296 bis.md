@@ -5,11 +5,7 @@ taxe sur la valeur ajoutée [*TVA*] est perçue au taux de (1) :
 
 a. 1,05 % [*pourcentage*] pour les opérations visées à l'article 281 quater;
 
-b. 1,75 % pour les opérations visées à l'article 281 sexies;
+b. 1,75 % pour les opérations visées à l'article 281 sexies; c. (Abrogé) (à
+compter du 29 juillet 1991, loi 91-716 art. 10 VI);
 
-c. 5,25 % pour les opérations visées à l'article 281 quinquies (2). d. 14 % pour
-les opérations visées à l'article 281 septies.
-
-(1) Taux applicables à compter du 1er juillet 1986.
-
-(2) Voir annexe II, art. 255.
+d. 14 % pour les opérations visées à l'article 281 septies.
