@@ -20,4 +20,6 @@ d'instruction pour l'application du contrôle judiciaire ;
 
 6° Toutes les dépenses pour l'exécution des arrêts criminels ;
 
-7° Les frais exposés devant la commission prévue à l'article 16-2.
+7° Les frais exposés devant la commission prévue à l'article 16-2. 8° Les
+honoraires et indemnités des interprètes désignés pour assister les inculpés,
+prévenus et accusés dans les conditions prévues par le présent code.
