@@ -47,3 +47,7 @@ de fonctionnement ou être syndics de ces copropriétés.
 échéant, l'ensemble des tâches incombant au maître d'ouvrage. Un décret en
 Conseil d'Etat définit les conditions de financement de ces hébergements et la
 nature des organismes pour le compte desquels ils sont réalisés.
+
+Ils peuvent aussi prendre à bail des logements vacants pour les donner en
+sous-location à des personnes physiques dans les conditions fixées par les
+articles L. 444-1 et suivants.
