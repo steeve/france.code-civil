@@ -1,11 +1,17 @@
 Article L121-20
 ----
-Les règles relatives à la fixation des règles de programmation des émissions
-sont définies par l'article 2 de la loi n° 88-21 du 6 janvier 1988 précitée
-reproduit ci-après :
+Le consommateur dispose d'un délai de sept jours francs pour exercer son droit
+de rétractation sans avoir à justifier de motifs ni à payer de pénalités, à
+l'exception, le cas échéant, des frais de retour.
 
-"Art. 2 : Le Conseil supérieur de l'audiovisuel fixe les règles de programmation
-des émissions consacrées en tout ou partie à la présentation ou à la promotion
-d'objets, de produits ou de services offerts directement à la vente par des
-services de radiodiffusion sonore et de télévision autorisés en vertu de la loi
-n° 86-1067 du 30 septembre 1986 relative à la liberté de communication".
+Le délai mentionné à l'alinéa précédent court à compter de la réception pour les
+biens ou de l'acceptation de l'offre pour les prestations de services.
+
+Lorsque les informations prévues à l'article L. 121-19 n'ont pas été fournies,
+le délai d'exercice du droit de rétractation est porté à trois mois. Toutefois,
+lorsque la fourniture de ces informations intervient dans les trois mois à
+compter de la réception des biens ou de l'acceptation de l'offre, elle fait
+courir le délai de sept jours mentionné au premier alinéa.
+
+Lorsque le délai de sept jours expire un samedi, un dimanche ou un jour férié ou
+chômé, il est prorogé jusqu'au premier jour ouvrable suivant.
