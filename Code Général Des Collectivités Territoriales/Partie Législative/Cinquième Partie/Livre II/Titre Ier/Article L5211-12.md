@@ -19,3 +19,10 @@ montant de l'indemnité parlementaire telle qu'elle est définie à l'article 1e
 de l'ordonnance n° 58-1210 du 13 décembre 1958 portant loi organique relative à
 l'indemnité des membres du Parlement. Ce plafond s'entend déduction faite des
 cotisations sociales obligatoires.
+
+Lorsqu'en application des dispositions de l'alinéa précédent, le montant total
+de rémunération et d'indemnité de fonction d'un membre d'un organe délibérant
+d'établissement public de coopération intercommunale fait l'objet d'un
+écrêtement, le reversement de la part écrêtée ne peut être effectué que sur
+délibération nominative de l'organe délibérant de l'établissement public de
+coopération intercommunale ou de l'organisme concerné.

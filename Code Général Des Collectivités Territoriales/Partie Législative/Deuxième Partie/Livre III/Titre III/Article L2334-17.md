@@ -19,7 +19,8 @@ habitants et plus ;
 
 4° Du rapport entre le revenu moyen par habitant des communes de 10 000
 habitants et plus et le revenu par habitant de la commune, calculé en prenant en
-compte la population qui résulte des recensements généraux ou complémentaires.
+compte la population définie au premier alinéa de l'article L. 2334-2 et, pour
+2000 et 2001, aux troisième et quatrième alinéas du même article.
 
 Les logements sociaux retenus pour l'application du présent article sont les
 logements locatifs appartenant aux organismes d'habitations à loyer modéré, aux
@@ -42,7 +43,7 @@ des conditions définies par décret en Conseil d'Etat, les prestations prévues
 aux articles L. 351-1 du code de la construction et de l'habitation et L. 542-1
 et L. 831-1 du code de la sécurité sociale.
 
-" Le revenu pris en considération pour l'application du 4° est le dernier revenu
+Le revenu pris en considération pour l'application du 4° est le dernier revenu
 imposable connu.
 
 L'indice synthétique de ressources et de charges est obtenu par addition des

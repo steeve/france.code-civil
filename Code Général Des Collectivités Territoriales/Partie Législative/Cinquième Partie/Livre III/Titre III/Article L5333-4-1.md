@@ -14,12 +14,11 @@ des conseils municipaux des communes intéressées représentant plus de la moit
 de la population totale de celles-ci, ou par la moitié au moins des conseils
 municipaux des communes représentant les deux tiers de la population. Cette
 majorité doit nécessairement comprendre la commune dont la population est
-supérieure à la moitié de la population totale concernée ou, à défaut, la
-commune dont la population est la plus importante. Le conseil municipal de
-chaque commune dispose d'un délai de trois mois à compter de la notification au
-maire de la commune de la délibération du comité du syndicat d'agglomération
+supérieure à la moitié de la population totale concernée. Le conseil municipal
+de chaque commune dispose d'un délai de trois mois à compter de la notification
+au maire de la commune de la délibération du comité du syndicat d'agglomération
 nouvelle ou du conseil de la communauté d'agglomération pour se prononcer sur
-les transferts proposés. A défaut de délibération dans ce délai, sa décision est
+les transferts proposés.A défaut de délibération dans ce délai, sa décision est
 réputée favorable.
 
 Les transferts s'effectuent dans les conditions financières et patrimoniales

@@ -19,6 +19,9 @@ d'enregistrement ;
 
 6° La surtaxe sur les eaux minérales.
 
+7° Le produit de la taxe destinée au financement des dépenses des conseils
+d'architecture, d'urbanisme et de l'environnement.
+
 b) Le produit des autres contributions et taxes prévues par la législation en
 vigueur, en particulier :
 
@@ -27,3 +30,5 @@ vigueur, en particulier :
 2° La taxe départementale sur l'électricité ;
 
 3° La taxe départementale sur les remontées mécaniques des zones de montagne.
+
+4° La taxe départementale des espaces naturels sensibles.
