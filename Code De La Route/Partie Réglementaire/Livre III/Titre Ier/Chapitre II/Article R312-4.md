@@ -33,6 +33,32 @@ ou d'un ensemble composé d'un véhicule à moteur et d'une remorque comportant
 plus de quatre essieux, utilisé pour effectuer des transports combinés, peut
 dépasser 40 tonnes sans excéder 44 tonnes.
 
+III bis - 1° La circulation des véhicules dont les caractéristiques sont
+définies au III ci-dessus peut également être autorisée autour d'un port
+maritime pour assurer exclusivement l'acheminement vers ce port ou à partir de
+celui-ci de marchandises transportées par voie maritime.
+
+Cette autorisation ne peut bénéficier qu'à des véhicules ou ensembles de
+véhicules mis en première circulation postérieurement à des dates fixées par
+arrêté du ministre chargé des transports et satisfaisant aux prescriptions
+techniques définies par cet arrêté ;
+
+2° Un arrêté du représentant de l'Etat dans le département où est situé le port
+maritime ou un arrêté conjoint des représentants de l'Etat dans les départements
+intéressés, pris après avis des autorités gestionnaires des voiries empruntées,
+autorise la circulation de ces véhicules dans un rayon maximum de 100 kilomètres
+autour d'un site de chargement ou de déchargement du port. Cet arrêté précise,
+le cas échéant, les restrictions à la circulation destinées à préserver la
+sécurité routière et l'état de la voirie ;
+
+3° A titre exceptionnel, un arrêté du ministre de l'intérieur et du ministre des
+transports, pris sur proposition du ou des représentants de l'Etat dans le ou
+les départements intéressés, peut, dans les mêmes conditions, autoriser la
+circulation de ces véhicules dans un rayon maximum de 150 kilomètres autour d'un
+site de chargement ou de déchargement d'un port maritime, à condition que cette
+extension soit nécessaire à la bonne desserte de ce dernier et ne porte pas une
+atteinte excessive à l'activité des autres modes de transport.
+
 IV. - Les véhicules à gazogène, gaz comprimé et accumulateurs électriques
 bénéficient, dans la limite maximale d'une tonne, de dérogations correspondant
 au poids en ordre de marche soit du gazogène et de ses accessoires, soit des
