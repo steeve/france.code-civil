@@ -1,9 +1,8 @@
 Article L812-2
 ----
 I. - Nul ne peut être désigné en justice pour exercer les fonctions de
-mandataire judiciaire au redressement et à la liquidation des entreprises, dans
-une procédure de redressement judiciaire, s'il n'est inscrit sur la liste
-établie à cet effet par une commission nationale.
+mandataire judiciaire au redressement et à la liquidation des entreprises s'il
+n'est inscrit sur la liste établie à cet effet par une commission nationale.
 
 II. - Toutefois, à titre exceptionnel, le tribunal peut, par décision
 spécialement motivée et après avis du procureur de la République, désigner comme

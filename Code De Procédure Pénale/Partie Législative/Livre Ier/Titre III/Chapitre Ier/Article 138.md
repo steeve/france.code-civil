@@ -56,10 +56,10 @@ syndicales, lorsque l'infraction a été commise dans l'exercice ou à l'occasio
 de l'exercice de ces activités et lorsqu'il est à redouter qu'une nouvelle
 infraction soit commise. Lorsque l'activité concernée est celle d'un avocat, le
 conseil de l'ordre, saisi par le juge d'instruction, a seul le pouvoir de
-prononcer cette mesure à charge d'appel, dans les conditions prévues aux
-articles 23 et 24 de la loi n° 71-1130 du 31 décembre 1971 portant réforme de
-certaines professions judiciaires et juridiques ; le conseil de l'ordre statue
-dans les quinze jours ;
+prononcer cette mesure à charge d'appel, dans les conditions prévues à l'article
+24 de la loi n° 71-1130 du 31 décembre 1971 portant réforme de certaines
+professions judiciaires et juridiques ; le conseil de l'ordre statue dans les
+quinze jours ;
 
 13° Ne pas émettre de chèques autres que ceux qui permettent exclusivement le
 retrait de fonds par le tireur auprès du tiré ou ceux qui sont certifiés et, le
