@@ -11,7 +11,7 @@ le compte de tiers ou qui dépendent de patrimoines séquestrés ou en liquidati
 Les règles de l'affectation sont applicables aux administrations de l'Etat et
 aux établissements publics nationaux à l'exception de ceux de ces établissements
 qui ont un caractère industriel ou commercial et avec lesquels l'Etat traite, en
-cette matière, dans les conditions du droit commun.
+cette matière, par voie de location ou d'aliénation.
 
 La présente disposition ne met pas obstacle à l'attribution par des textes
 spéciaux et à titre de dotation, d'immeubles domaniaux aux établissements

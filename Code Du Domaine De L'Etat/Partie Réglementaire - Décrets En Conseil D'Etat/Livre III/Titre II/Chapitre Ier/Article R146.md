@@ -1,6 +1,6 @@
 Article R146
 ----
-Les dispositions de l'article R. 130, premier alinéa, sont applicables aux
+Les dispositions de l'article R. 129, quatrième alinéa, sont applicables aux
 concessions accordées en application de l'article L. 64.
 
 Toutefois, lorsque l'opération a donné lieu à une enquête publique, la
