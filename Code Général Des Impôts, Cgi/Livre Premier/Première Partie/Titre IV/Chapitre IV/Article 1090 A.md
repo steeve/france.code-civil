@@ -18,9 +18,3 @@ soumis par leur nature au timbre ou à l'enregistrement dans un délai détermin
 c) (Abrogé).
 
 Les sommes ainsi liquidées deviennent exigibles immédiatement après le jugement.
-
-III. Les actes soumis au droit de timbre prévu par l'article 1089 B sont
-exonérés de ce droit lorsque l'auteur de la requête remplit les conditions
-permettant de bénéficier de l'aide juridictionnelle prévue par la loi n° 91-647
-du 10 juillet 1991 modifiée relative à l'aide juridique, qu'elle soit partielle
-ou totale.
