@@ -1,17 +1,17 @@
 Article R145-12
 ----
-Dans les quinze jours qui suivent chaque trimestre [*délai*], à partir de l'avis
-prévu à l'article R. 145-5 ou dans les quinze jours qui suivent l'époque où les
-retenues cesseraient d'être opérées, le tiers saisi verse au régisseur installé
-auprès du greffe concerné par la procédure le montant des sommes retenues : il
-est valablement libéré sur la seule quittance du régisseur qui est communiquée
-au chef du secrétariat-greffe.
+Le greffier convoque le débiteur.
 
-Le tiers saisi a la faculté de remettre au régisseur désigné ci-dessus le
-montant desdites sommes par l'intermédiaire de l'administration des postes, au
-moyen d'un mandat-carte accompagné d'une demande d'avis de réception. L'avis de
-réception délivré par l'administration des postes au tiers saisi a la même
-valeur que la quittance du régisseur.
+La convocation [*contenu, mentions obligatoires*] :
 
-Le tiers saisi opérant son versement remet au régisseur une note indicative des
-noms des parties, de la somme versée et de ses causes.
+1° Mentionne les nom, prénom et adresse du créancier, ou, s'il s'agit d'une
+personne morale, sa dénomination et son siège social ainsi que les lieu, jour et
+heure de la tentative de conciliation ;
+
+2° Contient l'objet de la demande et l'état des sommes réclamées ;
+
+3° Indique au débiteur qu'il doit élever lors de cette audience toutes les
+contestations qu'il pourrait faire valoir et qu'une contestation tardive ne
+suspendrait pas le cours des opérations de saisie ;
+
+4° Reproduit les dispositions de l'article L. 145-11.
