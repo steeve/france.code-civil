@@ -1,19 +1,17 @@
 Article 159 AM
 ----
-Le taux de la taxe perçue au profit du comité des fruits à cidre et des
-productions cidricoles est fixé comme suit (1) :
+Le taux de la taxe mentionnée à l'article 358 de l'annexe II au code général des
+impôts est fixé comme suit (1) :
 
-0,40 F par quintal de fruits à cidre et à poiré;
+0,43 F par quintal de fruits à cidre et à poiré;
 
-0,53 F par hectolitre de cidre de poiré ou de moût de pommes ou de poires;
+0,57 F par hectolitre de cidre et de poiré ou par hectolitre de de moûts de
+pommes ou de poires ;
 
-10 F par hectolitre d'alcool pur pour les calvados et les eaux-de-vie de cidre
-ou de poiré;
+10,80 F par hectolitre d'alcool pur pour les calvados et les eaux-de-vie de
+cidre ou de poiré;
 
-10 F par hectolitre d'alcool pur pour les alcools de cidre ou de poiré réservés
-à l'Etat.
+10,80 F par hectolitre d'alcool pur pour les alcools de cidre et de poiré
+réservés à l'Etat.
 
-Elle est supportée par l'acheteur et le vendeur [*redevables*] chacun pour
-moitié.
-
-(1) A compter du 1er septembre 1977.
+(1) Taux applicables à compter du 1er septembre 1982.
