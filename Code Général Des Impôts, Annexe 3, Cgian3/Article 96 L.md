@@ -29,7 +29,8 @@ b) En cas de transfert des biens pour les besoins de l'entreprise dans un autre
 Etat membre où leur affectation est taxable, le numéro d'identification à la
 T.V.A. délivré à cette entreprise par cet Etat ;
 
-c) Abrogé ;
+c) (Abrogé à compter de la date d'entrée en vigueur du décret n° 96-773 du 4
+septembre 1996, art. 1, JO du 6) ;
 
 d) La valeur fiscale en euros des livraisons de biens effectuées ;
 
@@ -41,12 +42,15 @@ application du 1 de l'article 272 du code général des impôts.
 Le nombre et la nature des autres informations portées sur la déclaration
 dépendent de la nature des flux précisés à l'article 96 J et du montant des
 échanges par rapport aux seuils statistiques définis à l'article 28 du règlement
-C.E.E. n° 3330-91 et fixés par arrêté du ministre chargé des douanes :
+C.E.E. n° 3330-91 et fixés par arrêté du ministre chargé des douanes (1) :
 
 a) Pour les opérateurs dont le montant annuel des échanges intracommunautaires
-est supérieur au seuil d'assimilation :
+est supérieur au seuil d'assimilation (2) :
 
-1° La nomenclature de produit ;
+1° La nomenclature de produit. Dans le cas général, les codes à mentionner sont
+ceux de la nomenclature combinée en vigueur. Dans les cas particuliers prévus
+par arrêté du ministre chargé des douanes, la codification plus détaillée
+spécifiée dans cet arrêté doit être utilisée ;
 
 2° La valeur fiscale en euros des introductions/expéditions de biens ;
 
@@ -60,10 +64,10 @@ Ces opérateurs ont la possibilité de mentionner au maximum dix des
 sous-positions de la nomenclature combinée des produits les plus importantes en
 valeur de leurs déclarations et de regrouper l'ensemble des autres produits sous
 une position unique de la nomenclature combinée fixée par arrêté du ministre
-chargé des douanes.
+chargé des douanes (3).
 
 b) De plus, pour les opérateurs dont le montant annuel des échanges
-intracommunautaires est supérieur au seuil de simplification :
+intracommunautaires est supérieur au seuil de simplification (4) :
 
 1° Le pays d'origine des produits, à l'introduction ;
 
@@ -74,7 +78,7 @@ supplémentaires ;
 
 c) De plus, pour les opérateurs soumis à la déclaration détaillée visée au b
 dont le montant annuel des échanges intracommunautaires excède un seuil fixé par
-arrêté :
+arrêté (5) :
 
 1° La valeur statistique en euros ;
 
@@ -85,13 +89,13 @@ arrêté :
 4° Le département d'expédition initiale ou de destination du produit.
 
 d) Les opérateurs ont la possibilité de regrouper, sous une position unique de
-la nomenclature combinée, les transactions dont le montant en valeur est
-inférieur à un seuil fixé par arrêté du ministre chargé des douanes. Dans ce
+la nomenclature combinée (3), les transactions dont le montant en valeur est
+inférieur à un seuil fixé par arrêté du ministre chargé des douanes (6). Dans ce
 cas, les informations visées aux b et c ne sont pas renseignées.
 
 Pour les opérateurs visés aux b et c, le montant total repris sous cette
 position unique de la nomenclature combinée ne peut cependant pas excéder une
-valeur fixée par arrêté du ministre chargé des douanes.
+valeur fixée par arrêté du ministre chargé des douanes (7).
 
 e) Les opérateurs visés aux a et b peuvent se dispenser de la mention du régime
 pour les opérations n'impliquant pas l'indication du numéro d'identification à
