@@ -1,5 +1,8 @@
 Article R521-1
 ----
-Pour la mise en oeuvre de la condition de ressources prévue à l'article L.
-521-1, il est fait application des articles R. 531-7, R. 531-8, R. 531-9 (1er
-alinéa) et R. 531-10 à R. 531-14.
+L'âge mentionné au premier alinéa de l'article L. 521-3 à partir duquel les
+enfants ouvrent droit à la majoration des allocations familiales est fixé à onze
+ans. Ladite majoration est augmentée à partir de seize ans.
+
+Le nombre minimum d'enfants à charge, mentionné au deuxième alinéa de l'article
+L. 521-3 ouvrant droit à ladite majoration pour chaque enfant est fixé à trois.
