@@ -39,7 +39,9 @@ prestations de l'assurance maladie ;
 4. Les anciens exploitants et leurs conjoints mentionnés à l'article 1106-1 (I,
 3°) du code rural, ainsi que les anciens exploitants bénéficiaires d'une
 indemnité annuelle de départ ou d'une indemnité viagère de départ prévues par
-l'article 27 de la loi du 8 août 1962 et les conjoints de ces derniers.
+l'article 27 de la loi du 8 août 1962, ou d'un régime de préretraite conforme
+aux dispositions du décret n° 92-187 du 27 février 1992 et les conjoints de ces
+derniers.
 
 Sont également électeurs les ressortissants des Etats membres de la Communauté
 économique européenne qui appartiennent à l'une des catégories définies au
