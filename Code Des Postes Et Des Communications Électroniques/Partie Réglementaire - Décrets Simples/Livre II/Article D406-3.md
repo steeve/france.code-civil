@@ -1,7 +1,12 @@
 Article D406-3
 ----
-Le comité consultatif émet son avis dans un délai de deux mois à compter de la
-date de sa saisine.
+Le Conseil supérieur de la télématique et le comité de la télématique anonyme
+disposent d'un secrétariat commun, placé sous l'autorité du président et du
+vice-président du Conseil supérieur de la télématique.
 
-L'avis est notifié au ministre chargé des télécommunications. Une copie est
-également notifiée au fournisseur de services concerné.
+Les présidents du conseil et du comité peuvent faire appel à des experts,
+notamment de l'exploitant public.
+
+Les moyens de fonctionnement du Conseil supérieur de la télématique, du comité
+de la télématique anonyme et de leur secrétariat sont assurés par le ministère
+chargé des télécommunications.
