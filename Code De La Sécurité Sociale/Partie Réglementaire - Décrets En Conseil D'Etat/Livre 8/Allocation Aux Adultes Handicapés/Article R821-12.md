@@ -30,5 +30,4 @@ abattements fixés par le premier alinéa de l'article R. 531-10.
 Les trop-perçus au titre de l'allocation aux adultes handicapés ou des
 allocations auxquelles elle est censée se substituer s'imputent sur les
 versements ultérieurement effectués au titre de ces allocations après réexamen
-des droits, ou font l'objet d'un reversement par l'allocataire. reversement par
-l'allocataire.
+des droits, ou font l'objet d'un reversement par l'allocataire.

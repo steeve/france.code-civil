@@ -7,8 +7,9 @@ l'allocation de logement [*calcul*] :
 obligations résultant des contrats de prêts qu'il a souscrits ;
 
 2°) les prêts qui se substituent aux prêts déjà obtenus par le bénéficiaire, en
-dehors des cas prévus au 2° de l'article R. 831-23 ; 3°) les prêts constituant
-une obligation au porteur.
+dehors des cas prévus au 2° de l'article R. 831-23 ;
+
+3°) les prêts constituant une obligation au porteur.
 
 Toutefois, peuvent être pris en considération les prêts au logement consentis
 par les banques ou établissements financiers et en représentation desquels des

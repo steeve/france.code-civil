@@ -15,13 +15,11 @@ d'allocations familiales mutuelles agricoles.
 Le fonds national d'aide au logement verse à cet effet à l'agence centrale des
 organismes de sécurité sociale, pour le compte de la caisse nationale des
 allocations familiales, à la caisse centrale d'allocations familiales mutuelles
-agricoles et, en tant que de besoin, aux employeurs mentionnés aux troisième et
-quatrième alinéas de l'article R. 834-14, une avance mensuelle d'un montant égal
-au douzième des dépenses ressortant des états prévus à l'article R. 834-15. En
-cas de modification substantielle et imprévisible des charges des organismes ou
-services mentionnés ci-dessus, l'avance mensuelle peut être révisée en cours
-d'année, dans la limite de 20 p. 100 de son montant, par décision du comité de
-gestion.
+agricoles une avance mensuelle d'un montant égal au douzième des dépenses
+ressortant des états prévus à l'article R. 834-15. En cas de modification
+substantielle et imprévisible des charges des organismes ou services mentionnés
+ci-dessus, l'avance mensuelle peut être révisée en cours d'année, dans la limite
+de 20 p. 100 de son montant, par décision du comité de gestion.
 
 La régularisation des avances ainsi consenties ou le remboursement des dépenses
 effectuées intervient au vu des états annuels mentionnés au 2° de l'article R.
