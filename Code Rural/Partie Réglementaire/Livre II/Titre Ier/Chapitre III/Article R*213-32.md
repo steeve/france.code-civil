@@ -1,18 +1,10 @@
 Article R*213-32
 ----
-Si à l'expiration du délai fixé pour l'exécution, l'exploitant n'a pas obtempéré
-à cette injonction, le préfet peut :
+Lorsque l'établissement est soumis à autorisation en vertu de la loi n° 76-663
+du 19 juillet 1976 relative aux installations classées pour la protection de
+l'environnement, la demande d'autorisation présentée à ce titre vaut demande
+d'autorisation au titre de la présente sous-section.
 
-1° Soit faire procéder d'office, aux frais de l'exploitant, à l'exécution des
-mesures prescrites ;
-
-2° Soit obliger l'exploitant à consigner entre les mains d'un comptable public
-une somme répondant du montant des travaux à réaliser, laquelle sera restituée à
-l'exploitant au fur et mesure de l'exécution des travaux ; il est, le cas
-échéant, procédé au recouvrement de cette somme comme en matière de créances
-étrangères à l'impôt et aux domaines ;
-
-3° Soit, après avis de la commission départementale des sites sauf cas
-d'urgence, suspendre par arrêté le fonctionnement de l'établissement jusqu'à
-exécution des conditions imposées ou proposer au ministre, après avis de la même
-commission, la fermeture de l'établissement.
+Lorsque l'établissement est soumis à déclaration en vertu de la loi n° 76-663 du
+19 juillet 1976, une copie de la déclaration est jointe à la demande
+d'autorisation.
