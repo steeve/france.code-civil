@@ -1,12 +1,10 @@
 Article L261-4
 ----
-Toute infraction aux dispositions de l'article L. 211-6 [*condition d'emploi des
-enfants*] est punie d'une amende de 25.000 F (1) [*montant*] et, en cas de
-récidive, d'une peine d'emprisonnement de quatre mois [*durée*] et d'une amende
-de 50.000 F (1).
+Toute infraction aux dispositions de l'article L. 211-6 est punie de cinq ans
+d'emprisonnement et de 75 000 euros d'amende.
 
-Les mêmes peines sont applicables à toute personne qui remet directement ou
-indirectement aux enfants visés à l'article L. 211-6 ou à leurs représentants
-légaux des fonds au-delà de la part fixée comme il est dit à l'article L. 211-8.
-
-(1) Amende applicable depuis le 1er mars 1994.
+Est punie d'une amende de 3 750 euros et, en cas de récidive, d'une peine
+d'emprisonnement de quatre mois et d'une amende de 7 500 euros, toute personne
+qui a remis directement ou indirectement aux enfants visés à l'article L. 211-6
+ou à leurs représentants légaux des fonds au-delà de la part fixée, comme il est
+dit à l'article L. 211-8.
