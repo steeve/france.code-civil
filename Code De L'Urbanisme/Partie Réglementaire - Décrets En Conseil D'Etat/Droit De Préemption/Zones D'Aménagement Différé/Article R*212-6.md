@@ -1,24 +1,21 @@
 Article R*212-6
 ----
-Toute demande [*d'acquisition*] formulée en application du premier alinéa de
-l'article L. 212-3 [*droit de délaissement*] est établie dans les formes
-prescrites par un arrêté conjoint du ministre chargé de l'urbanisme et du garde
-des sceaux, ministre de la justice. Elle est adressée au préfet qui en délivre
-récépissé et la transmet, le cas échéant, au titulaire du droit de préemption.
+A compter de la publication de l'acte créant une zone d'aménagement différé,
+toute aliénation volontaire à titre onéreux notamment par vente de gré à gré,
+adjudication volontaire échange ou apport en société d'un immeuble bâti ou non
+bâti, situé dans le périmètre de la zone, est subordonnée à une déclaration
+préalable du propriétaire indiquant les prix et conditions de l'aliénation
+projetée.
 
-Les demandes comportent obligatoirement l'indication du prix demandé.
+Cette déclaration, établie dans les formes prescrites par un arrêté conjoint du
+ministre chargé de l'urbanisme et du garde des sceaux, ministre de la justice,
+est adressée au préfet.
 
-Dans les six mois de la date du récépissé, le titulaire du droit de préemption
-notifie au propriétaire soit sa décision d'acquérir au prix proposé, soit son
-offre d'acquérir au prix qu'il indique dans sa réponse, soit sa décision de
-renoncer à l'acquisition.
+Dans les trois jours, le préfet en délivre récépissé et en transmet copie au
+maire du lieu de situation de l'immeuble et au bénéficiaire du droit de
+préemption.
 
-A compter de [*point de départ*] la notification de l'offre prévue à l'alinéa
-précédent, le propriétaire dispose d'un délai d'un mois pour faire connaître au
-titulaire du droit de préemption ou au préfet son accord sur le prix proposé. En
-cas de refus ou à défaut de réponse dans le délai imparti, le prix est fixé
-comme en matière d'expropriation.
-
-Dans les cas prévus au dernier alinéa de l'article L. 212-3, le préfet est tenu,
-sur simple requête du propriétaire, d'attester dans le délai de quinze jours de
-ladite requête que le bien n'est plus soumis au droit de préemption.
+Dans les deux mois [*délai*] de la réception de la déclaration par le préfet, le
+bénéficiaire du droit de préemption doit notifier sa décision au propriétaire,
+dans les conditions fixées aux articles ci-après, et adresser copie de cette
+décision au préfet et au maire.

@@ -1,6 +1,9 @@
 Article R*212-5
 ----
-A compter de la publication de la décision créant la zone d'aménagement différé
-sont applicables dans le périmètre définitif de cette zone, les dispositions des
-articles R. 211-3 à R. 211-11 ainsi que celles des articles R. 214-1 et R.
-214-2.
+Le directeur départemental de l'équipement est tenu de délivrer, sans frais, à
+tout propriétaire d'immeuble ou à son mandataire, dans le mois qui suit la
+demande [*délai*], un certificat établi sur papier libre en double exemplaire
+précisant si cet immeuble est compris ou non à l'intérieur du périmètre de la
+zone d'aménagement différé ainsi que, dans l'affirmative, la date de l'acte
+créant cette zone ou prolongeant la durée d'exercice du droit de préemption en
+application de l'article L. 212-10 (alinéa 2).
