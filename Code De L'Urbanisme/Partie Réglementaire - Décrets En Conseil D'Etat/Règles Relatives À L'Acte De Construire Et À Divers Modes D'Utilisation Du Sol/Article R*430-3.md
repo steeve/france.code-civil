@@ -1,6 +1,7 @@
 Article R*430-3
 ----
-La désignation d'une zone d'aménagement concerté en application de l'article L.
-430-1 (2. - b) est subordonnée à la définition du programme de construction par
-la collectivité publique intéressée et à l'approbation du plan d'aménagement de
-la zone par le préfet.
+Lorsque le bâtiment se trouve situé dans les zones ou périmètres mentionnés à
+l'article L. 430-1 (b à e), la demande est complétée [*contenu*] par
+l'indication de la date approximative de construction du bâtiment et par des
+documents photographiques faisant apparaître les conditions de son insertion
+dans les lieux environnants.

@@ -12,6 +12,11 @@ opérations d'affouillement ou d'exhaussement des sols, les défrichements, coup
 et abattages d'arbres ainsi que les divers modes d'occupation du sol qui font
 l'objet d'une réglementation.
 
+Le règlement fixe également les cas dans lesquels la démolition de tout ou
+partie d'un immeuble ou d'un groupe d'immeubles compris à l'intérieur d'une zone
+définie à l'article R. 123-18 (7.) peut être interdite ou soumise à des
+prescriptions spéciales.
+
 2. Le règlement édicte les prescriptions relatives :
 
 a) A l'accès, à la desserte, à l'équipement en réseaux divers et, le cas
@@ -21,8 +26,8 @@ b) A l'implantation des constructions par rapport aux voies, aux limites
 séparatives et aux autres constructions ainsi que celles relatives à leur
 emprise au sol, leur hauteur, et, le cas échéant, leur aspect extérieur ;
 
-c) Aux obligations imposées en matière de réalisation d'aires de stationnement
-et d'espaces verts.
+c) Aux obligations imposées en matière de réalisation d'aires de stationnement,
+d'espaces verts d'aires de jeux et de loisirs.
 
 Dans les secteurs visés à l'article R. 123-18 (1., e) lesdites prescriptions
 [*architecturales*] sont figurées sur le plan de masse côté à trois dimensions
@@ -32,8 +37,12 @@ prévu par cette disposition.
 ou partie de zone et les conditions dans lesquelles ces coefficients peuvent
 être éventuellement dépassés en application des articles L. 123-1 et L. 332-1.
 
-4. Le règlement indique celles de ses dispositions prévues aux 1. et 2.
-ci-dessus auxquelles une dérogation pourra être accordée.
+4. Le règlement fixe, pour les zones [*protection des paysages*] dans lesquelles
+le transfert des possibilités de construction prévu à l'article L. 123-2
+s'applique, les modalités de ce transfert et notamment la superficie minimale du
+terrain au profit duquel le transfert est effectué ainsi que de la densité
+minimale de construction exigée pour que le droit de construire puisse être
+reconnu sur ce même terrain.
 
 5. Le règlement peut ne comporter qu'une partie des dispositions prévues au
-présent article
+présent article.

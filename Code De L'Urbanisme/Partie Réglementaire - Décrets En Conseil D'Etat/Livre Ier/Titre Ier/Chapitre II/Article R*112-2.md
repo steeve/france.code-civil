@@ -1,16 +1,28 @@
 Article R*112-2
 ----
-La surface de plancher [*définition*] visée à l'article R. 112-1 est égale à la
-somme des surfaces de plancher développée hors oeuvre de la construction après
-déduction [*calcul*] :
+La surface de plancher hors oeuvre brute d'une construction est égale à la somme
+des surfaces de plancher de chaque niveau de la construction [*calcul,
+définition applicable aux demandes de permis de construire déposées après le 8
+juillet 1977*].
 
-a) D'un forfait de 15 p. 100 de la surface totale, ou de 25 p. 100 en ce qui
-concerne les maisons à usage d'habitation ne comportant qu'un seul logement, ce
-forfait représentant la surface des combles et sous-sols non aménageables pour
-l'habitation ou pour des activités à caractère professionnel, artisanal,
-industriel ou commercial et des surfaces telles que celles des terrasses,
-balcons ou loggias ;
+La surface de plancher hors oeuvre nette d'une construction est égale à la
+surface hors oeuvre brute de cette construction après déduction :
 
-b) Des surfaces des parties de bâtiments qui sont aménagées en vue du
-stationnement des véhicules pour autant qu'elles sont destinées à la
-satisfaction des besoins des occupants et des usagers de l'immeuble.
+a) Des surfaces de plancher hors oeuvre des combles et des sous-sols non
+aménageables pour l'habitation ou pour des activités à caractère professionnel,
+artisanal, industriel ou commercial ;
+
+b) Des surfaces de plancher hors oeuvre des toitures-terrasses, des balcons, des
+loggias, ainsi que des surfaces non closes situées au rez-de-chaussée ;
+
+c) Des surfaces de plancher hors oeuvre des bâtiments ou des parties de
+bâtiments aménagés en vue du stationnement des véhicules ;
+
+d) Des surfaces de planchers hors oeuvre des bâtiments affectés au logement des
+récoltes, des animaux ou du matériel agricole ainsi que des surfaces des serres
+de production.
+
+Sont également déduites de la surface hors oeuvre, dans la limite de 5 mètres
+carrés par logement, les surfaces de plancher affectées à la réalisation, dans
+le cadre de la réfection d'un immeuble à usage d'habitation, de travaux tendant
+à l'amélioration de l'hygiène des locaux.

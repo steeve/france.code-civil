@@ -1,21 +1,21 @@
 Article R*430-18
 ----
-Peuvent être habilités au sens de l'article L. 430-3, à condition que la
-qualification nécessaire leur soit reconnue dans les conditions prévues
-ci-après, les services publics administratifs, civils ou militaires, qui
-habituellement étudient des projets de construction et en dirigeant la
-réalisation, lorsqu'ils interviennent pour le compte des collectivités publiques
-dont ils dépendent, dans la limite des attributions qui leur sont confiées par
-la loi ou par des textes réglementaires.
+Mention du permis de démolir doit être affichée sur le terrain de manière
+visible de l'extérieur, par les soins de son bénéficiaire, dès la notification
+de la décision d'octroi et pendant toute la durée du chantier.
 
-La qualification des services est reconnue et leur habilitation prononcée en
-conséquence par un arrêté conjoint du ministre chargé de l'urbanisme, du
-ministre des affaires culturelles et du ministre intéressé.
+Il en est de même d'une copie du certificat prévu à l'article R. 430-17 en cas
+de permis tacite.
 
-L'arrêté prononçant l'habilitation porte désignation des agents responsables du
-service, compétents pour établir la certification prévue à l'article L. 430-3 b.
+En outre, dans les huit jours de la délivrance expresse ou tacite du permis de
+démolir, un extrait du permis ou une copie du certificat visé à l'alinéa
+précédent est publié par voie d'affichage à la mairie pendant deux mois
+[*publicité*]. L'exécution de cette formalité fait l'objet d'une mention au
+registre chronologique des actes de publication et de notification des arrêtés
+du maire prévu à l'article R. 122-11 du code des communes.
 
-Il peut être mis fin dans la même forme à cette habilitation.
+L'inobservation de la formalité d'affichage sur le terrain est punie d'une
+amende de 600 F à 2000 F [*sanction*].
 
-Le pouvoir de décision institué à l'alinéa 2 du présent article peut être
-délégué au préfet de région.
+Un arrêté conjoint du ministre chargé de l'urbanisme et du ministre chargé du
+logement règle les formes de l'affichage.

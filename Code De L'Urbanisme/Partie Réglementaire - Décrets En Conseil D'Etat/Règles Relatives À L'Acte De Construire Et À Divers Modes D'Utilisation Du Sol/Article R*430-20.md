@@ -1,34 +1,16 @@
 Article R*430-20
 ----
-Pour être reconnues compétentes au sens de l'article L. 430-3, les personnes
-physiques visées audit article doivent remplir les conditions suivantes :
+Le permis de démolir est périmé si la démolition n'est pas entreprise dans le
+délai de cinq ans à compter de la notification visée à l'article R. 430-16 ou de
+la délivrance tacite du permis de démolir. Il en est de même si les travaux sont
+interrompus pendant un délai supérieur à cinq années.
 
-1. Etre titulaire d'un des diplômes d'enseignement supérieur ou reconnus
-équivalents qui figurent sur une liste établie par arrêté conjoint du ministre
-chargé de l'urbanisme, du ministre des affaires culturelles et du ministre de
-l'éducation nationale ;
+Le délai de validité du permis de démolir est suspendu, le cas échéant, pendant
+la durée du sursis à exécution de la décision portant octroi dudit permis ainsi
+que, en cas d'annulation du permis de démolir prononcée par jugement du tribunal
+administratif frappé d'appel, jusqu'à la décision rendue par le Conseil d'Etat.
 
-2. Justifier de huit années de pratique professionnelle continue au cours
-desquelles, sous leur propre responsabilité, elles ont étudié de façon
-satisfaisante un volume minimum de construction fixé par un arrêté conjoint du
-ministre des affaires culturelles et du ministre chargé de l'urbanisme et en ont
-dirigé la réalisation, conformément aux règles de l'art ;
-
-3. Présenter les garanties de moralité nécessaires.
-
-La reconnaissance est prononcée pour l'ensemble du territoire par un arrêté du
-préfet de la région où l'intéressé a son domicile, sur la proposition conjointe
-du chef du service régional de l'équipement et du conservateur régional des
-bâtiments de France et après avis, en ce qui concerne les conditions à remplir
-en vertu du 2. ci-dessus, d'une commission consultative régionale dont la
-composition est prévue à l'article R. 430-21.
-
-IL peut être mis fin dans la même forme à cette reconnaissance par le préfet qui
-l'avait prononcée, l'intéressé ayant été au préalable invité à présenter ses
-observations.
-
-A titre exceptionnel, les personnes qui ne sont pas titulaires d'un des diplômes
-visés au 1. ci-dessus peuvent être reconnues compétentes par une décision
-conjointe du ministre chargé de l'urbanisme, du ministre des affaires
-culturelles et du ministre chargé de l'industrie, après consultation de la
-commission régionale prévue à l'alinéa 2 ci-dessus.
+Pour les autorisations de démolir délivrées antérieurement à la date de
+publication du décret n. 77-738 du 7 juillet 1977 au Journal officiel, cette
+date constitue le point de départ du délai de cinq ans mentionné à l'alinéa 1
+ci-dessus.

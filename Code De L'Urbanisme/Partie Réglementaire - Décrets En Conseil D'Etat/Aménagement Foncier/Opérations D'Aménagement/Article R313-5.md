@@ -1,17 +1,20 @@
 Article R313-5
 ----
-Pendant la période comprise entre la délimitation du secteur et l'approbation du
-plan permanent de sauvegarde et de mise en valeur, les demandes de permis de
-construire concernant les immeubles compris dans le secteur délimité sont
-soumises par le directeur départemental de l'équipement à l'architecte des
-bâtiments de France. Ce dernier lui fait connaître son avis dans le délai
-maximum d'un mois.
+L'instruction du plan de sauvegarde et de mise en valeur est conduite sous
+l'autorité du préfet. Un architecte chargé de proposer un plan de sauvegarde et
+de mise en valeur est désigné, après agrément conjoint du ministre chargé de
+l'architecture et du ministre chargé de l'urbanisme, par le maire ou, s'il
+existe un établissement public groupant plusieurs communes et ayant compétence
+en matière d'urbanisme par le président de cet établissement ; à défaut de
+décision du maire ou du président de l'établissement public, l'architecte est
+désigné par le préfet.
 
-En cas d'avis défavorable, le directeur départemental de l'équipement propose au
-préfet de surseoir à statuer. Si l'architecte des bâtiments de France estime que
-la délivrance du permis de construire doit être soumise à l'observation de
-certaines conditions, le directeur départemental de l'équipement ne peut
-proposer à l'autorité compétente de délivrer le permis de construire qu'en
-subordonnant cette délivrance aux conditions exprimées.
+Le projet élaboré par l'architecte est soumis à une commission locale du secteur
+sauvegardé constituée par arrêté du préfet et qui comprend [*composition*] des
+représentants élus des communes ou établissements publics intéressés et des
+représentants de l'Etat. Sont associés aux travaux de cette commission
+l'architecte chargé du plan et des personnes qualifiées en matière de sauvegarde
+et de mise en valeur des quartiers anciens.
 
-Le permis de construire vaut autorisation au sens de l'article L. 313-2.
+Les dispositions de l'article R. 123-4 (alinéas 3 et 4) sont applicables aux
+travaux de la commission locale du secteur sauvegardé.

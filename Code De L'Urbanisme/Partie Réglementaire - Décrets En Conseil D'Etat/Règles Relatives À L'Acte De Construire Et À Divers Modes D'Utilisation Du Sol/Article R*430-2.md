@@ -1,8 +1,14 @@
 Article R*430-2
 ----
-Dans les communes régies par un plan d'urbanisme approuvé en vertu du décret n.
-58-1463 du 31 décembre 1958, modifié, seules peuvent être désignées, par
-application de l'article L. 430-1 (2. - a) les parties du territoire pour
-lesquelles des coefficients provisoires d'occupation du sol ont été fixés. Cette
-désignation intervient après consultation d'une conférence entre tous les
-services intéressés.
+Le dossier joint à la demande comprend [*contenu*] le plan de situation et
+précise :
+
+a) Les conditions actuelles d'utilisation ou d'occupation du bâtiment ;
+
+b) La surface de plancher hors oeuvre nette telle qu'elle est définie à
+l'article R. 112-2 ;
+
+c) Les motifs de l'opération projetée ;
+
+d) En cas de démolition partielle, la nature et l'importance des travaux
+nécessaires.

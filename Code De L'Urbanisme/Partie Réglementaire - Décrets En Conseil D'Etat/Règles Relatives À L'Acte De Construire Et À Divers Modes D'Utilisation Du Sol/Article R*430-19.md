@@ -1,7 +1,15 @@
 Article R*430-19
 ----
-A titre provisoire et en attendant l'intervention de nouvelles dispositions
-législatives et réglementaires relatives aux personnes physiques ou morales
-appelées à exercer des missions dans le domaine de l'architecture et de la
-construction, la reconnaissance de compétence prévue à l'article L. 430-3 est
-réglée par les dispositions de la présente section.
+Tout recours hiérarchique dirigé contre une décision prise sur une demande de
+permis de démolir doit être présenté conformément aux dispositions du présent
+article.
+
+Lorsque l'immeuble est soumis au régime du permis de démolir exclusivement en
+application des dispositions de l'article L. 430-1 A, le recours est adressé au
+ministre chargé du logement.
+
+Lorsque l'immeuble est soumis au régime du permis de démolir exclusivement en
+application des dispositions de l'article L. 430-1 b à f, le recours est adressé
+simultanément au ministre chargé des monuments historiques et des sites, au
+ministre chargé de l'urbanisme et au ministre chargé du logement, qui statuent
+par arrêté du conjoint.
