@@ -22,7 +22,10 @@ Mais, dans la limite du dégrèvement ou de la restitution primitivement
 sollicités, il peut faire valoir toutes conclusions nouvelles à condition de les
 formuler explicitement dans sa demande introductive d'instance.
 
-A l'exception du défaut de signature de la réclamation initiale, les vices de
-forme prévus à l'article R. 197-3 peuvent, lorsqu'ils ont motivé le rejet d'une
-réclamation par l'administration, être utilement couverts dans la demande
-adressée au tribunal administratif.
+Les vices de forme prévus aux a, b, et d de l'article R. 197-3 a, b et d
+peuvent, lorsqu'ils ont motivé le rejet d'une réclamation par l'administration,
+être utilement couverts dans la demande adressée au tribunal administratif.
+
+Il en est de même pour le défaut de signature de la réclamation lorsque
+l'administration a omis d'en demander la régularisation dans les conditions
+prévues au c du même article.
