@@ -24,7 +24,7 @@ opérations sur les théâtres d'opérations extérieurs et des veuves, orphelin
 ascendants des militaires décédés du fait de cette participation ;
 
 5° Des militaires ayant obtenu le titre de reconnaissance de la nation ou la
-carte de combattant pour leur participation aux conflits d'Indochine et de
+carte du combattant pour leur participation aux conflits d'Indochine ou de
 Corée, ainsi que des veuves, orphelins et ascendants des militaires décédés du
 fait de leur participation à ces combats ;
 
@@ -52,5 +52,7 @@ combattant ou du titre de reconnaissance de la Nation.
 
 Le montant maximal donnant lieu à majoration par l'Etat de la rente qui peut
 être constituée au profit des bénéficiaires visés par les dispositions du
-présent article est revalorisé au 1er janvier de chaque année en fonction de
-l'indice des prix à la consommation hors tabac.
+présent article est calculé par référence à l'indice 95 des pensions militaires
+d'invalidité et des victimes de guerre. Il est exprimé en francs au 1er janvier
+de chaque année en fonction de la valeur du point des pensions militaires
+d'invalidité à cette date.
