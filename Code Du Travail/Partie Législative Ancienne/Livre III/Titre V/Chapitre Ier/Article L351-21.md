@@ -21,6 +21,18 @@ pour la vérification du versement des contributions mentionnées à l'article L
 351-3 et la vérification des droits des salariés au revenu de remplacement prévu
 à l'article L. 351-2.
 
+Pour procéder aux vérifications mentionnées à l'alinéa précédent, les
+informations détenues par la caisse de congés des professions de la production
+cinématographique et audiovisuelle et des spectacles ainsi que par les
+institutions des régimes complémentaires de retraite de ces professions peuvent
+être rapprochées de celles détenues par les institutions gestionnaires du régime
+d'assurance. Pour procéder à la vérification du versement des contributions et
+des droits des salariés, la caisse de congé des professions de la production
+cinématographique et audiovisuelle et des spectacles et les institutions des
+régimes complémentaires de retraite de ces professions peuvent rapprocher les
+informations qu'elles détiennent de celles détenues par les institutions
+gestionnaires du régime d'assurance.
+
 Les conditions d'application du présent article seront précisées par décret en
 Conseil d'Etat pris après avis de la Commission nationale de l'informatique et
 des libertés.
