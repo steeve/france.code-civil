@@ -27,7 +27,7 @@ médicinales, les matières premières à usage pharmaceutique ;
 6° Les organes, tissus, cellules et produits d'origine humaine ou animale, y
 compris lorsqu'ils sont prélevés à l'occasion d'une intervention chirurgicale ;
 
-7° Les produits de thérapie génique et cellulaire ;
+7° Les produits cellulaires à finalité thérapeutique ;
 
 8° [*Abrogé*]
 

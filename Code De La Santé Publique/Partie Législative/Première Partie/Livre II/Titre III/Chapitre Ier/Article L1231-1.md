@@ -35,4 +35,4 @@ prélèvement d'organes à fins thérapeutiques sur une personne vivante.
 
 Le Gouvernement remet au Parlement tous les quatre ans un rapport sur
 l'application du présent article, et notamment les dérogations autorisées au
-titre de son deuxième alinéa. ;
+titre de son deuxième alinéa.

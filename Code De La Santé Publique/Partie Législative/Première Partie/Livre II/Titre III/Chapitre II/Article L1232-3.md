@@ -1,11 +1,7 @@
 Article L1232-3
 ----
-Aucun prélèvement à des fins scientifiques autres que celui ayant pour but de
-rechercher les causes du décès ne peut être effectué sans le consentement du
-défunt exprimé directement ou par le témoignage de sa famille.
-
-Toutefois, lorsque le défunt est un mineur, ce consentement est exprimé par un
-des titulaires de l'autorité parentale.
-
-La famille est informée des prélèvements effectués en vue de rechercher les
-causes du décès.
+Les prélèvements à des fins scientifiques ne peuvent être pratiqués que dans le
+cadre de protocoles transmis, préalablement à leur mise en oeuvre, à l'Agence de
+la biomédecine. Le ministre chargé de la recherche peut suspendre ou interdire
+la mise en oeuvre de tels protocoles, lorsque la nécessité du prélèvement ou la
+pertinence de la recherche n'est pas établie.

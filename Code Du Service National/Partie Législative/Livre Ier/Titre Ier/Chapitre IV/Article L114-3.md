@@ -6,9 +6,7 @@ les sexes, qui permet de présenter les enjeux et les objectifs généraux de la
 défense nationale, les moyens civils et militaires de la défense et leur
 organisation, les formes de volontariats ainsi que les préparations militaires
 et les possibilités d'engagement dans les forces armées et les forces de
-réserve. Ils bénéficient également d'une sensibilisation à la prévention des
-risques et aux missions des services de secours ainsi que d'un apprentissage des
-gestes élémentaires de premier secours.
+réserve.
 
 A cette occasion sont organisés des tests d'évaluation des apprentissages
 fondamentaux de la langue française. Il est délivré une information sur les

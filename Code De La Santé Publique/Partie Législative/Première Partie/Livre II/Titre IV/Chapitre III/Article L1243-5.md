@@ -1,14 +1,13 @@
 Article L1243-5
 ----
-La délivrance des autorisations mentionnées aux articles L. 1243-1 et L. 1243-4
-est subordonnée à des conditions techniques, sanitaires ou médicales et, en tant
-que de besoin, financières, ainsi qu'à des conditions propres à garantir un
-fonctionnement conforme aux principes généraux énoncés au titre Ier du présent
-livre.
+Les tissus ainsi que leurs dérivés utilisés à des fins thérapeutiques et les
+préparations de thérapie cellulaire font l'objet d'une autorisation de l'Agence
+française de sécurité sanitaire des produits de santé après évaluation de leurs
+procédés de préparation et de conservation ainsi que de leurs indications
+thérapeutiques.
 
-Les fonctionnaires du ministère de la santé habilités à cet effet par arrêté du
-ministre chargé de la santé s'assurent de la conformité du fonctionnement des
-établissements mentionnés aux articles L. 1243-1 à L. 1243-4, aux conditions
-techniques sanitaires, médicales et financières mentionnées au premier alinéa du
-présent article ainsi qu'aux bonnes pratiques prévues par l'article L. 1251-1. A
-cette fin, ils ont accès aux locaux professionnels.
+Toute modification des éléments figurant dans l'autorisation initiale doit faire
+l'objet d'une nouvelle autorisation.
+
+L'Agence de la biomédecine est informée des autorisations délivrées en
+application du présent article.

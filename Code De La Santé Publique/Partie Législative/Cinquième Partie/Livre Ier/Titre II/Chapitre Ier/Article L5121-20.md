@@ -74,4 +74,9 @@ de ces médicaments ;
 16° Les règles particulières applicables aux essais pharmacologiques,
 toxicologiques et cliniques des médicaments homéopathiques faisant l'objet d'une
 autorisation de mise sur le marché, en prenant en compte la spécificité du
-médicament homéopathique et un usage généralement lié à la tradition.
+médicament homéopathique et un usage généralement lié à la tradition ;
+
+17° Les conditions dans lesquelles l'Agence française de sécurité sanitaire des
+produits de santé délivre, modifie, suspend ou retire les autorisations
+mentionnées au 12° et au 13° de l'article L. 5121-1 relatives aux préparations
+de thérapie génique et aux préparations de thérapie cellulaire xénogénique.

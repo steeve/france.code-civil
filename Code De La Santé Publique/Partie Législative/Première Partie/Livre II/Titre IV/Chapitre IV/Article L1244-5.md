@@ -16,11 +16,8 @@ obligations auxquelles sont tenus ces organismes et établissements au regard de
 la conservation des gamètes, notamment lorsqu'ils cessent leurs activités.
 
 L'autorisation porte sur une ou plusieurs activités. Elle est délivrée pour une
-durée de cinq ans. Elle est accordée après avis de la Commission nationale de
-médecine et de biologie de la reproduction et du diagnostic prénatal instituée à
-l'article L. 2113-1 et du comité national de l'organisation sanitaire et
-sociale.
+durée de cinq ans.
 
 Tout organisme ou établissement autorisé à exercer ces activités est tenu de
-présenter au ministre chargé de la santé le rapport annuel d'activité prévu à
-l'article L. 2142-2.
+présenter à l'agence régionale de l'hospitalisation et à l'Agence de la
+biomédecine le rapport annuel d'activité prévu à l'article L. 2142-2.

@@ -1,14 +1,13 @@
 Article L1243-1
 ----
-Peuvent assurer la transformation, la conservation, la distribution et la
-cession à des fins thérapeutiques des tissus et cellules qui ne sont pas
-destinées à des thérapies génique ou cellulaire les établissements publics de
-santé et les organismes à but non lucratif autorisés à cet effet par l'Agence
-française de sécurité sanitaire des produits de santé, après avis de
-l'Etablissement français des greffes. Cette autorisation est accordée pour une
-durée de cinq ans. Elle peut être renouvelée.
+A l'exception des produits sanguins labiles, sont des produits cellulaires à
+finalité thérapeutique les cellules humaines utilisées à des fins thérapeutiques
+autologues ou allogéniques, quel que soit leur niveau de transformation, y
+compris leurs dérivés.
 
-L'autorisation d'effectuer la transformation des prélèvements ou l'établissement
-des cultures cellulaires, ainsi que leur conservation, leur distribution et leur
-cession, peut être accordée dans les mêmes formes à d'autres organismes pour les
-activités requérant une haute technicité.
+Lorsque ces produits cellulaires à finalité thérapeutique sont des spécialités
+pharmaceutiques ou d'autres médicaments fabriqués industriellement, ils sont
+régis par les dispositions du titre II du livre Ier de la cinquième partie. Dans
+les autres cas, ce sont des préparations de thérapie cellulaire régies par les
+dispositions du présent chapitre, y compris lorsque les cellules humaines
+servent à transférer du matériel génétique.

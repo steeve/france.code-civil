@@ -1,4 +1,5 @@
 Article 511-1
 ----
-Le fait de mettre en oeuvre une pratique eugénique tendant à l'organisation de
-la sélection des personnes est puni de vingt ans de réclusion criminelle.
+Est puni de dix ans d'emprisonnement et de 150 000 euros d'amende le fait de se
+prêter à un prélèvement de cellules ou de gamètes, dans le but de faire naître
+un enfant génétiquement identique à une autre personne, vivante ou décédée.

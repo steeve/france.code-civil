@@ -1,5 +1,8 @@
 Article L2141-9
 ----
-Les actes cliniques et biologiques d'assistance médicale à la procréation sont
-effectués sous la responsabilité d'un praticien nommément agréé à cet effet dans
-chaque établissement ou laboratoire autorisé à les pratiquer.
+Seuls les embryons conçus avec les gamètes de l'un au moins des membres d'un
+couple et dans le respect des principes fondamentaux prévus par les articles 16
+à 16-8 du code civil peuvent entrer sur le territoire où s'applique le présent
+code ou en sortir. Ces déplacements d'embryons sont exclusivement destinés à
+permettre la poursuite du projet parental de ce couple ; ils sont soumis à
+l'autorisation de l'Agence de la biomédecine.

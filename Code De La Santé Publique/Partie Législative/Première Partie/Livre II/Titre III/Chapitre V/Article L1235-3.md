@@ -1,4 +1,4 @@
 Article L1235-3
 ----
-Les modalités d'application des dispositions du présent chapitre sont
-déterminées par décret en Conseil d'Etat.
+Tout prélèvement d'organes effectué dans les conditions prévues par le chapitre
+III du présent titre est une activité médicale.
