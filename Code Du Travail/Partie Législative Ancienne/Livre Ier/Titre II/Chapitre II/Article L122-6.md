@@ -4,11 +4,11 @@ Dans le cas de licenciement pour un motif autre qu'une faute grave, le salarié 
 droit :
 
 1° S'il justifie chez le même employeur d'une ancienneté de services continus
-inférieure à six mois à un délai-congé déterminé comme il est dit à l'article L.
-122-5 ;
+inférieure à six mois, à un délai-congé déterminé comme il est dit à l'article
+L. 122-5 ;
 
 2° S'il justifie chez le même employeur d'une ancienneté de services continus
-comprise entre six mois et moins de deux ans à un délai-congé d'un mois ;
+comprise entre six mois et moins de deux ans, à un délai-congé d'un mois ;
 
 3° S'il justifie chez le même employeur d'une ancienneté de services continus
 d'au moins deux ans, à un délai-congé de deux mois.

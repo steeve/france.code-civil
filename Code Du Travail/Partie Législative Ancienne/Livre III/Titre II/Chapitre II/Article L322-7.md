@@ -8,6 +8,12 @@ l'entreprise, notamment de ceux qui présentent des caractéristiques sociales l
 exposant plus particulièrement aux conséquences de l'évolution économique ou
 technologique.
 
+Ces accords peuvent étendre le bénéfice de ces actions aux salariés dont
+l'entreprise envisage le reclassement externe, à la condition que ce
+reclassement soit expressément accepté par le salarié et intervienne sous
+contrat à durée indéterminée ou dans les conditions prévues pour l'emploi des
+salariés du secteur public ou des collectivités territoriales.
+
 Ils ouvrent droit au bénéfice d'une aide de l'Etat d'un montant forfaitaire par
 salarié calculé en fonction de la durée de la formation, sur agrément du
 ministre chargé du travail et dans des conditions fixées par voie réglementaire.
