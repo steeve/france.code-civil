@@ -8,10 +8,11 @@ exerce son activité.
 
 Ces actions de formation doivent permettre aux travailleurs d'accéder à un
 niveau supérieur de qualification, de changer d'activité ou de profession et de
-s'ouvrir plus largement à la culture et à la vie sociale. Elles s'accomplissent
-en tout ou partie pendant le temps de travail.
+s'ouvrir plus largement à la culture, à la vie sociale et à l'exercice des
+responsabilités associatives bénévoles. Elles s'accomplissent en tout ou partie
+pendant le temps de travail.
 
 Le congé visé au premier alinéa peut également être accordé à un salarié pour
 préparer et pour passer un examen pour l'obtention d'un titre ou diplôme au sens
-de l'article 8 de la loi n. 71-577 du 16 juillet 1971 d'orientation sur
+de l'article 8 de la loi n° 71-577 du 16 juillet 1971 d'orientation sur
 l'enseignement technologique.
