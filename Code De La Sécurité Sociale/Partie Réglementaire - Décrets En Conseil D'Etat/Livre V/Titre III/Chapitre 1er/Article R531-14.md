@@ -1,7 +1,7 @@
 Article R531-14
 ----
 Le ménage ou la personne qui n'a pas, au cours de l'année civile de référence,
-disposé de ressources imposables en France peut bénéficier de l'allocation au
+disposé de ressources imposables en France peut bénéficier de l'allocation pour
 jeune enfant.
 
 Le montant des ressources pris en considération est égal, pour les personnes qui
@@ -12,4 +12,5 @@ prises en considération sont fixées forfaitairement à 2.028 fois le salaire
 minimum de croissance horaire en vigueur au 1er janvier qui précède la date
 d'ouverture du droit.
 
-Ce montant est affecté des abattements prévus par le code général des impôts.
+Ce montant est affecté des abattements prévus par le code général des impôts
+sous réserve des dispositions du 2° du premier alinéa de l'article R. 531-10.

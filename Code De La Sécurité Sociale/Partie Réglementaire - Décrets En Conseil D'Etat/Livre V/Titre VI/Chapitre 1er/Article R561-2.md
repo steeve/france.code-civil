@@ -3,15 +3,19 @@ Article R561-2
 Les ressources prises en compte pour l'appréciation du droit à l'un des
 suppléments de revenu familial sont constituées par :
 
-1°) les revenus nets imposables perçus par l'allocataire ainsi que, le cas
-échéant, par son conjoint ou son concubin pendant l'année civile précédant le
-début de la période au cours de laquelle le droit est ouvert ou maintenu.
+1° Les revenus nets imposables perçus par l'allocataire ainsi que, le cas
+échéant, son conjoint ou concubin pendant l'année civile précédant le début de
+la période au cours de laquelle le droit est ouvert ou maintenu, à l'exclusion
+des revenus des enfants ayant fait l'objet d'une imposition commune et sous
+réserve des dispositions suivantes :
 
-Il est fait abstraction des revenus des enfants ayant fait l'objet d'une
-imposition commune. Il est également fait abstraction des déductions opérées en
-application de l'article L. 156.1 du code général des impôts au titre de reports
-de déficit constatés au cours d'une année antérieure à celle qui est prise en
-considération ;
+a) Il est fait abstraction des déductions opérées en vertu de l'article 156-1 du
+code général des impôts au titre des reports des déficits constatés au cours
+d'une année antérieure à celle qui est prise en considération ;
+
+b) Il n'est tenu compte de la déduction des frais de garde des enfants prévue à
+l'article 154 ter du code général des impôts que dans la limite d'un montant
+fixé par arrêté du ministre chargé de la sécurité sociale ;
 
 2°) les sommes reçues durant l'année civile précédant le début de la période au
 cours de laquelle le droit est ouvert ou maintenu au titre de l'allocation aux
