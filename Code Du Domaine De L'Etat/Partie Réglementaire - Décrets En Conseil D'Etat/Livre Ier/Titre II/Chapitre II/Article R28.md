@@ -1,19 +1,9 @@
 Article R28
 ----
-Lorsque l'adresse du disposant ou de ses ayants droit est connue, les réductions
-ou modifications envisagées ou le projet de restitution sont portés à leur
-connaissance par le préfet du département du dernier domicile ou de la dernière
-résidence connus en France du disposant ou, à défaut, par le préfet de l'un des
-lieux où les biens sont situés ou détenus.
-
-Le préfet impartit au disposant ou à ses ayants droit un délai d'un mois pour
-prendre connaissance du dossier à la préfecture et faire connaître par écrit
-leur adhésion ou leur opposition sauf à formuler, le cas échéant, toutes
-observations ou propositions qui leur paraîtraient opportunes.
-
-Les intéressés peuvent toutefois, s'ils justifient d'une difficulté à se
-déplacer obtenir l'envoi à leur adresse d'une copie des pièces énoncées à
-l'article R. 27 (1°, 2° et 3°).
-
-Les diverses communications prévues aux alinéas ci-dessus sont faites par lettre
-recommandée avec demande d'avis de réception.
+La révision ou la restitution n'est possible qu'après que le disposant ou, s'il
+est décédé, ses ayants droit ont été informés du projet et ont reçu
+communication d'une note précisant le montant des revenus des libéralités et de
+celui des charges correspondantes depuis l'origine de la libéralité, si celle-ci
+remonte à moins de dix ans ou, dans le cas contraire, pendant les dix dernières
+années, ainsi que les conditions dans lesquelles sont envisagées les restitution
+ou révision.

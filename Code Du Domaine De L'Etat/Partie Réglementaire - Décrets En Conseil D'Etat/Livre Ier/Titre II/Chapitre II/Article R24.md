@@ -1,8 +1,7 @@
 Article R24
 ----
-La modification de l'affectation des charges résultant des dons et legs faits à
-l'Etat doit tendre à permettre l'exécution de prestations comparables par leur
-nature à celles que le disposant avait initialement imposées.
-
-La réduction des charges résultant de dons et legs doit tendre à rétablir
-l'équilibre entre les revenus perçus et les prestations imposées.
+Lorsqu'une libéralité consentie à l'Etat est assortie de charges ou conditions,
+le ministre compétent pour prendre l'arrêté prévu à l'article L. 11 est celui
+qui a qualité pour exécuter les charges ou conditions ou, si l'exécution de ces
+charges ou conditions ne relève d'aucun autre ministre, le ministre chargé du
+domaine.

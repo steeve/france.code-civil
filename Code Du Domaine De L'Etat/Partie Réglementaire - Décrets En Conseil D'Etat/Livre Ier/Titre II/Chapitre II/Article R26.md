@@ -1,11 +1,10 @@
 Article R26
 ----
-Aucune restitution de libéralités ni réduction ou modification d'affectation des
-charges d'une libéralité ne peut intervenir avant l'expiration d'un délai de
-cinq ans à compter de l'acceptation du don ou du legs, à moins que le disposant
-ou ses ayants droit n'y consentent expressément.
+La restitution des libéralités peut être décidée dans les mêmes cas que ceux qui
+sont prévus pour la révision.
 
-Passé ce délai, il ne peut être procédé auxdites restitutions, réductions de
-charges ou modifications d'affectation des charges qu'après que l'auteur de la
-libéralité ou ses ayants droit aient été invités à présenter leurs observations
-dans les conditions indiquées aux articles R. 28 et R. 29.
+La restitution porte sur la totalité des biens originairement compris dans la
+libéralité qui se retrouvent en nature à la date de l'arrêté interministériel
+prévu à l'article L. 14 ; elle s'étend en outre au produit net des aliénations
+effectuées avant cette même date. Le disposant ou ses ayants droit reprennent
+les biens restitués en l'état où ils se trouvent.

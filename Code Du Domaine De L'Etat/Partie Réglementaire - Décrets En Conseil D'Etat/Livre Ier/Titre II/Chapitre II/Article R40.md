@@ -1,9 +1,9 @@
 Article R40
 ----
-Lorsque l'adresse du disposant ou l'adresse ou l'identité de certains de ses
-ayants droit sont inconnues, le préfet fait publier les mesures envisagées dans
-les conditions prévues à l'article R. 29, une affiche devant en outre être
-apposée à la mairie du lieu de situation de l'établissement.
+Si un même testament contient des libéralités distinctes à diverses personnes
+administratives, les autorités qualifiées se prononcent séparément sur
+l'acceptation de chaque libéralité lorsqu'aucune réclamation des héritiers ne
+s'est produite dans les délais fixés par les articles R. 22 et R. 23.
 
-Les intéressés peuvent faire connaître leur avis dans les conditions prévues par
-le dernier alinéa de l'article R. 29.
+Dans le cas contraire, un seul décret en Conseil d'Etat statue sur l'acceptation
+des diverses libéralités.
