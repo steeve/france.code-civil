@@ -10,11 +10,11 @@ correspondants.
 
 Les limites territoriales de l'aménagement englobant un ou plusieurs périmètres
 peuvent comprendre des parties de territoire de communes limitrophes, dans la
-limite du dixième du territoire de chacune d'elles ou, avec l'accord du conseil
-municipal de la commune intéressée, du quart du territoire de chacune d'elles,
-lorsque la commission communale estime que l'aménagement comporte, au sens du
-présent titre, un intérêt pour les propriétaires ou les exploitants de ces
-parties de territoire.
+limite du vingtième du territoire de chacune d'elles ou, avec l'accord du
+conseil municipal de la commune intéressée, du quart du territoire de chacune
+d'elles, lorsque la commission communale estime que l'aménagement comporte, au
+sens du présent titre, un intérêt pour les propriétaires ou les exploitants de
+ces parties de territoire.
 
 L'avis de la commission communale ou intercommunale est porté à la connaissance
 des intéressés dans les conditions fixées par décret en Conseil d'Etat. Cet avis

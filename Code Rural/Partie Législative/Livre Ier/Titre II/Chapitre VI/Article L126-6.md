@@ -21,3 +21,7 @@ application du présent article bénéficient des aides publiques et des
 exonérations fiscales attachées aux bois, forêts et terrains à boiser. Ils
 peuvent donner lieu à la passation d'un contrat d'entretien avec le propriétaire
 ou le preneur.
+
+A la demande du propriétaire, le préfet peut également, sur avis de la
+commission départementale d'aménagement foncier, prononcer la protection de
+vergers de hautes tiges.

@@ -58,3 +58,16 @@ du code du travail correspondant à une durée d'activité inférieure ou égale
 limite fixée par le décret prévu à l'article L. 241-11 du code de la sécurité
 sociale ne donne pas lieu à cotisations d'assurances sociales agricoles à la
 charge de l'employeur.
+
+Lorsqu'ils embauchent des travailleurs occasionnels ou des demandeurs d'emploi
+inscrits à ce titre à l'agence nationale pour l'emploi pendant une durée
+minimale fixée par décret, en vue d'exercer une ou plusieurs des activités
+visées aux 1° et 2° de l'article 1144 du code rural, les chefs d'exploitation et
+d'entreprise agricoles ainsi que les groupements d'employeurs versent des
+cotisations d'assurances sociales et d'accidents du travail calculées en
+application de taux réduits. Est réputé travailleur occasionnel le salarié
+employé pendant une durée n'excédant pas, par année civile, un maximum fixé par
+décret.
+
+Un décret fixe les taux réduits ainsi que la durée maximale d'emploi y ouvrant
+droit.

@@ -1,18 +1,18 @@
 Article L331-7
 ----
 La demande d'autorisation est transmise pour avis à la commission départementale
-des structures agricoles.
+d'orientation de l'agriculture.
 
 Les demandeurs, le propriétaire et le preneur peuvent prendre connaissance du
 dossier huit jours au moins avant la réunion de la commission. Sur leur demande,
 ils sont entendus par cette dernière devant laquelle ils peuvent se faire
 assister ou représenter par toute personne de leur choix.
 
-Le préfet, pour motiver sa décision, et la commission départementale des
-structures agricoles, pour rendre son avis, sont tenus de se conformer aux
-orientations du schéma directeur départemental des structures agricoles
-applicable dans le département sur le territoire duquel est situé le fonds. Ils
-sont tenus notamment :
+Le préfet, pour motiver sa décision, et la commission départementale
+d'orientation de l'agriculture, pour rendre son avis, sont tenus de se conformer
+aux orientations du schéma directeur départemental d'orientation de
+l'agriculture applicable dans le département sur le territoire duquel est situé
+le fonds. Ils sont tenus notamment :
 
 1° D'observer l'ordre des priorités établi entre l'installation des jeunes
 agriculteurs et l'agrandissement des exploitations, en tenant compte de

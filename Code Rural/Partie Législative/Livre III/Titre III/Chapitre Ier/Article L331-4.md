@@ -45,7 +45,8 @@ de croissance ;
 
 3° Lorsque les opérations effectuées au bénéfice d'une société, d'une
 coexploitation ou d'une indivision ne sont pas soumises au régime de
-l'autorisation préalable en application du 2° de l'article L. 331-2 ;
+l'autorisation préalable en application du 2° de l'article L. 331-2 et des 2°,
+3° et 4° de l'article L. 331-3 ;
 
 4° Pour tout changement du nombre ou de l'identité des associés, des
 coexploitants ou des indivisaires qui participent à l'exploitation et pour toute

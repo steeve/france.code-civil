@@ -28,12 +28,12 @@ Elles ne font pas obstacle à l'exercice des activités énumérées aux 1°, 2�
 4° et 5° de l'article L. 161-22 du code de la sécurité sociale.
 
 Sous réserve des dispositions de l'article L. 815-2 du code de la sécurité
-sociale, le schéma directeur départemental des structures agricoles, fixé après
-avis de la commission départementale des structures agricoles, détermine la
-superficie dont un agriculteur est autorisé à poursuivre l'exploitation ou la
-mise en valeur, sans que cela fasse obstacle au service des prestations
-d'assurance vieillesse liquidées par un régime obligatoire, dans la limite
-maximale du cinquième de la surface minimum d'installation.
+sociale, le schéma directeur départemental d'orientation de l'agriculture, fixé
+après avis de la commission départementale d'orientation de l'agriculture,
+détermine la superficie dont un agriculteur est autorisé à poursuivre
+l'exploitation ou la mise en valeur, sans que cela fasse obstacle au service des
+prestations d'assurance vieillesse liquidées par un régime obligatoire, dans la
+limite maximale du cinquième de la surface minimum d'installation.
 
 A titre transitoire, et jusqu'à l'intervention du schéma directeur départemental
 des structures agricoles déterminant la superficie mentionnée à l'alinéa

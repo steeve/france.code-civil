@@ -12,3 +12,8 @@ associés.
 
 Un groupement agricole d'exploitation en commun ne peut être constitué de deux
 époux qui en seraient les seuls associés.
+
+Les groupements agricoles d'exploitation en commun constitués à compter de la
+publication de la loi n° 95-95 du 1er février 1995 de modernisation de
+l'agriculture ne peuvent être composés de deux personnes vivant maritalement qui
+en seraient les seuls associés.

@@ -38,7 +38,7 @@ de l'exploitation du demandeur est supérieure à un maximum fixé par le schém
 directeur départemental des structures agricoles, sans que ce maximum puisse
 être inférieur à 5 kilomètres ;
 
-4° A titre transitoire et jusqu'au 30 juin 1996, les créations ou extensions de
+4° A titre transitoire et jusqu'au 30 juin 1998, les créations ou extensions de
 capacité des ateliers hors sol, au-delà d'un seuil de capacité de production et
 selon des modalités fixées par décret, susceptibles de remettre en cause
 l'équilibre des structures sociales qui caractérisent cette activité.
