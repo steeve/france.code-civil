@@ -10,8 +10,6 @@ présent article :
 
 - un moulage de corps ;
 
-- une autopsie ;
-
 - une crémation, sans préjudice des vacations prévues pour les opérations
 précédant la crémation.
 
