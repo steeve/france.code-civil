@@ -10,7 +10,12 @@ aéroports et gares ferroviaires ou routières ouverts au trafic international e
 désignés par arrêté, vérifier le respect des obligations de détention, de port
 et de présentation des pièces ou documents prévue à l'article 8 de l'ordonnance
 n° 45-2658 du 2 novembre 1945 relative aux conditions d'entrée et de séjour des
-étrangers en France.
+étrangers en France. Lorsqu'il existe une section autoroutière démarrant dans la
+zone mentionnée ci-dessus et que le premier péage autoroutier se situe au-delà
+de la ligne des 20 kilomètres, la vérification peut en outre avoir lieu jusqu'à
+ce premier péage sur les aires de stationnement ainsi que sur le lieu de ce
+péage et les aires de stationnement attenantes. Les péages concernés par cette
+disposition sont désignés par arrêté.
 
 Dans les zones visées au premier alinéa, les agents des douanes mentionnés à cet
 alinéa sont habilités à constater les infractions à l'article 19 de l'ordonnance
