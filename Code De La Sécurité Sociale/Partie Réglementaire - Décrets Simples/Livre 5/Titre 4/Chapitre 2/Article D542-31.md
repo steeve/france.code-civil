@@ -1,12 +1,11 @@
 Article D542-31
 ----
-Les primes de déménagement sont attribuées aux personnes ou ménages qui :
+La prime de déménagement est attribuée aux personnes ou ménages ayant à charge
+au moins trois enfants nés ou à naître et qui s'installent dans un nouveau
+logement dans les conditions suivantes :
 
-1° soit, s'ils ne perçoivent pas l'allocation de logement, s'installent dans un
-local correspondant au moins aux normes prévues par l'article D. 542-14 ;
-
-2° soit, s'ils perçoivent l'allocation de logement, s'installent dans un local
-leur apportant de meilleures conditions de logement par un ajustement de la
-surface habitable au nombre des occupants ou par une meilleure adaptation du
-nouveau local aux besoins des occupants, appréciée en fonction du confort de
-l'habitation elle-même.
+Sous réserve des dispositions des articles D. 542-32 et D. 542-33, le droit est
+ouvert si l'emménagement a lieu au cours d'une période comprise entre le premier
+jour du mois civil suivant le troisième mois de grossesse au titre d'un enfant
+de rang trois ou plus et le dernier jour du mois précédant celui au cours duquel
+le même enfant atteint son premier anniversaire.
