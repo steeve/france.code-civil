@@ -2,8 +2,8 @@ Article R312-3-1
 ----
 La garantie de l'Etat prévue au troisième alinéa de l'article L. 312-1 peut être
 accordée aux prêts conventionnés mentionnés aux articles R. 331-63 à R. 331-77-2
-ainsi qu'à l'avance mentionnée au chapitre VII du titre Ier du livre III du
-présent code consentis par des établissements de crédit ayant conclu une
+ainsi qu'aux avances mentionnées aux chapitres VII et VIII du titre Ier du livre
+III du présent code consentis par des établissements de crédit ayant conclu une
 convention avec la société de gestion du fonds de garantie de l'accession
 sociale à la propriété, à des personnes physiques dont les revenus sont
 inférieurs à des plafonds de ressources fixés par arrêté conjoint du ministre

@@ -15,7 +15,7 @@ refinancement conclue sous l'égide de l'Etat entre les établissements de créd
 distributeurs et la Caisse des dépôts et consignations.
 
 L'accédant ne peut bénéficier, pour un même logement, des dispositions du
-présent article et de celles des articles R. 317-1 à R. 317-24.
+présent article et de celles des articles R. 318-1 à R. 318-23.
 
 II. - Pour obtenir la décision d'agrément, le vendeur conclut avec l'Etat une
 convention qui prévoit le respect des conditions suivantes :

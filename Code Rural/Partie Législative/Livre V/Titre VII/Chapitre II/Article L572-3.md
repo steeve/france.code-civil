@@ -1,12 +1,5 @@
 Article L572-3
 ----
-I. - Le premier alinéa de l'article L. 525-1 est ainsi rédigé :
-
-"La création des sociétés coopératives agricoles et de leurs unions doit être
-agréée par arrêté du représentant de l'Etat dans des conditions fixées par
-décret".
-
-II. - Le quatrième alinéa de l'article L. 525-1 est ainsi rédigé :
-
-"La décision portant refus ou retrait d'agrément est prise après avis d'une
-commission dont la composition et les attributions sont fixées par décret".
+Au premier alinéa de l'article L. 523-5-1, les mots : "peuvent distribuer à
+leurs associés coopérateurs et à leurs associés non coopérateurs," sont
+remplacés par les mots : "peuvent distribuer à leurs associés coopérateurs,".

@@ -29,6 +29,28 @@ raisonnable par un moyen électronique. L'opérateur veille à ce que les
 utilisateurs handicapés aient accès à ce catalogue dans des conditions adaptées
 à leur handicap.
 
-Cet opérateur communique ses tarifs au ministre chargé des communications
-électroniques et à l'Autorité de régulation des télécommunications au moins huit
-jours avant leur application.
+Sous réserve du III et du IV cet opérateur communique ses tarifs au ministre
+chargé des communications électroniques et à l'Autorité de régulation des
+télécommunications au moins huit jours avant leur application.
+
+III. - Les tarifs des offres de communications téléphoniques incluses dans la
+composante du service universel mentionnée au 1° de l'article L. 35-1 peuvent
+faire l'objet d'un encadrement pluriannuel que l'Autorité de régulation des
+télécommunications définit en prenant en compte la structure de l'indice
+d'évolution des tarifs et les éléments de l'environnement économique et de
+l'activité de l'opérateur prévus par le cahier des charges mentionné à l'article
+L. 35-2. A défaut d'encadrement pluriannuel, ces tarifs sont contrôlés dans les
+conditions prévues au IV.
+
+IV. - Le dossier complet des tarifs des autres prestations de service universel
+comprenant les informations permettant de les évaluer ainsi que les éléments de
+l'offre correspondante est transmis à l'Autorité de tes régulation des
+télécommunications au moins un mois avant la date prévue pour leur mise en
+oeuvre (1).
+
+A compter de la réception du dossier complet, l'Autorité de régulation des
+télécommunications dispose d'un délai de trois semaines pour émettre un avis
+public et motivé sur ces tarifs ou s'opposer à leur mise en oeuvre par la
+notification à l'opérateur d'une décision motivée et rendue publique. En
+l'absence de notification d'une décision d'opposition dans ce délai, les tarifs
+transmis entrent en vigueur à la date prévue au premier alinéa.
