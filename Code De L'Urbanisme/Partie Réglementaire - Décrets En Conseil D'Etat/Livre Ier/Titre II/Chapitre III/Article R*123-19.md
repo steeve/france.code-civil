@@ -14,13 +14,14 @@ sa rédaction antérieure à la loi n° 85-729 du 18 juillet 1985 relative à la
 définition et à la mise en oeuvre de principe d'aménagement et de l'article L.
 142-3 dans sa rédaction issue de ladite loi, et les zones délimitées en
 application de l'article L. 430-1 e) à l'intérieur desquelles la démolition des
-immeubles est subordonnée à la délivrance d'un permis de démolir ;
+immeubles est subordonnée à la délivrance d'un permis de démolir.
 
 c) Les périmètres à l'intérieur desquels s'applique le droit de préemption
 urbain défini par les articles L. 211-1 et suivants, ainsi que les périmètres
 provisoires ou définitifs des zones d'aménagement différé ;
 
-d) (alinéa supprimé) ;
+d) Le plan des zones à risque d'exposition au plomb défini en application de
+l'article L. 32-5 du code de la santé publique ;
 
 e) Les périmètres de rénovation urbaine délimités en application de l'article R.
 312-1 avant la publication de la loi n° 85-729 du 18 juillet 1985 relative à la

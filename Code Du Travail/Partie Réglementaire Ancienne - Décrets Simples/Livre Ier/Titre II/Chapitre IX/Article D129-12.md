@@ -27,3 +27,9 @@ décision dans deux journaux locaux.
 
 La décision d'agrément, la suspension et le retrait d'agrément sont publiés au
 Recueil des actes administratifs de la préfecture.
+
+Le directeur départemental du travail, de l'emploi et de la formation
+professionnelle informe l'organisme chargé du recouvrement des cotisations de
+sécurité sociale du refus de renouvellement ou du retrait de l'agrément
+autorisant l'association à exercer des activités concernant la garde d'enfant ou
+l'assistance aux personnes âgées ou handicapées.
