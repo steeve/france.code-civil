@@ -1,13 +1,22 @@
 Article R233-6
 ----
-Autant que possible aucun ouvrier ne doit être habituellement occupé à un
-travail quelconque dans le plan de rotation ou aux abords immédiats d'un volant,
-d'une meule ou de tout autre engin pesant et tournant à grande vitesse.
+Les équipements de travail et leurs éléments doivent être installés de façon à
+permettre aux travailleurs d'effectuer les opérations de production et de
+maintenance dans les meilleures conditions de sécurité possibles. Leur
+implantation ne doit pas s'opposer à l'emploi des outils, accessoires,
+équipements et engins nécessaires pour exécuter les opérations de mise en
+oeuvre, y compris de réglage relevant de l'opérateur, ou les opérations de
+maintenance en toute sécurité.
 
-Toute meule tournant à grande vitesse doit être montée ou enveloppée de telle
-sorte qu'en cas de rupture ses fragments soient retenus soit par les organes de
-montage, soit par l'enveloppe.
+Ils doivent être installés et, en fonction des besoins, équipés de manière telle
+que les travailleurs puissent accéder et se maintenir en sécurité et sans
+fatigue excessive à tous les emplacements nécessaires pour la mise en oeuvre, le
+réglage et la maintenance desdits équipements et de leurs éléments.
 
-Une inscription très apparente placée auprès des volants, des meules et de tout
-autre engin pesant et tournant à grande vitesse indique le nombre de tours par
-minute qui ne doit pas être dépassé.
+Les passages et les allées de circulation du personnel entre les équipements de
+travail doivent avoir une largeur d'au moins 80 centimètres. Leur sol doit
+présenter un profil et être dans un état permettant le déplacement en sécurité.
+
+Les voies de circulation empruntées par les machines mobiles doivent avoir un
+gabarit suffisant et présenter un profil permettant leur déplacement sans risque
+à la vitesse prévue par la notice d'instructions.

@@ -1,4 +1,4 @@
 Article R233-7
 ----
-Les machines à travailler le bois dites dégauchisseuses sont pourvues d'un arbre
-porte-lames à section circulaire.
+Aucun poste de travail permanent ne doit être situé dans le champ d'une zone de
+projection d'éléments dangereux [*interdiction*].

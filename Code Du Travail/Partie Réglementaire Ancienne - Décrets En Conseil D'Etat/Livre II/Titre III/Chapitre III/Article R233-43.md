@@ -1,24 +1,22 @@
 Article R233-43
 ----
-Les cuves, bassins et réservoirs doivent être construits, installés et protégés
-dans les conditions assurant la sécurité des travailleurs.
+Le chef d'établissement doit informer de manière appropriée les travailleurs qui
+doivent utiliser des équipements de protection individuelle :
 
-L'installation ou, à défaut, les dispositifs de protection desdites cuves,
-bassins ou réservoirs doivent être tels qu'ils empêchent les travailleurs d'y
-tomber.
+a) Des risques contre lesquels l'équipement de protection individuelle les
+protège ;
 
-Des mesures appropriées doivent garantir les travailleurs contre les risques de
-débordement ou d'éclaboussures, ainsi que contre les risques de déversement par
-rupture des parois des cuves, bassins, réservoirs, touries et bonbonnes
-contenant des produits susceptibles de provoquer des brûlures d'origine
-thermique ou chimique.
+b) Des conditions d'utilisation dudit équipement, notamment les usages auxquels
+il est réservé ;
 
-Des visites périodiques destinées à s'assurer de l'état des cuves, bassins et
-réservoirs contenant des produits corrosifs doivent avoir lieu à intervalles
-n'excédant pas un an.
+c) Des instructions ou consignes concernant les équipements de protection
+individuelle et de leurs conditions de mise à disposition.
 
-Ces visites sont effectuées par un personnel qualifié sous la responsabilité du
-chef d'établissement.
-
-La date de chaque vérification et ses résultats sont consignés sur un registre
-tenu à la disposition de l'inspecteur du travail.
+Une consigne d'utilisation reprenant de manière compréhensible les informations
+mentionnées aux a et b du précédent alinéa doit être élaborée par le chef
+d'établissement. Le chef d'établissement doit en outre tenir à la disposition
+des membres du comité d'hygiène, de sécurité et des conditions de travail ou, à
+défaut, des délégués du personnel, la consigne d'utilisation susvisée et une
+documentation relative à la réglementation applicable à la mise à disposition et
+à l'utilisation des équipements de protection individuelle concernant les
+travailleurs de l'établissement.

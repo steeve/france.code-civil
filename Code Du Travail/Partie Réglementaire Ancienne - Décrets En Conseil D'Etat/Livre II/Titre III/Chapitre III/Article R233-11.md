@@ -1,25 +1,43 @@
 Article R233-11
 ----
-Il est interdit d'admettre tout travailleur à procéder pendant leur marche à la
-visite, à la vérification ou à la réparation de transmissions, mécanismes et
-machines comportant des organes en mouvement. Les opérations d'entretien telles
-que nettoyage, débourrage, essuyage, époussetage, graissage de ces
-transmissions, mécanismes et machines comportant des organes en mouvement ainsi
-que l'application à la main d'adhésifs sont également interdites.
+Des arrêtés du ministre chargé du travail ou du ministre chargé de l'agriculture
+déterminent les équipements de travail ou les catégories d'équipement de travail
+pour lesquels le chef d'établissement est tenu de procéder ou de faire procéder
+à des vérifications générales périodiques afin que soit décelée en temps utile
+toute détérioration susceptible de créer des dangers.
 
-L'interdiction ne s'applique pas aux opérations qui constituent nécessairement
-des phases d'usinage ou de fabrication.
+Ces arrêtés précisent la périodicité des vérifications et, en tant que de
+besoin, leur nature et leur contenu.
 
-Elle ne s'applique pas non plus lorsque les parties mobiles des ensembles
-mécaniques ci-dessus sont séparées par un obstacle matériel des ouvriers ou hors
-de leur portée ou bien encore lorsque ces parties sont complètement protégées
-par des dispositifs permanents appropriés.
+L'intervalle entre lesdites vérifications peut être réduit sur mise en demeure
+de l'inspecteur du travail ou du contrôleur du travail lorsque, en raison
+notamment des conditions ou de la fréquence d'utilisation, du mode de
+fonctionnement ou de la conception de certains organes, les équipements de
+travail sont soumis à des contraintes génératrices d'une usure prématurée
+susceptible d'être à l'origine de situations dangereuses.
 
-Lorsqu'il est techniquement impossible d'effectuer certains des travaux prévus
-au présent article soit à l'arrêt, soit dans les conditions prévues au précédent
-alinéa, ils ne peuvent être exécutés que par un personnel expérimenté
-spécialement désigné à cet effet par le chef d'établissement ou son préposé.
+Les vérifications sont effectuées par des personnes qualifiées, appartenant ou
+non à l'établissement, dont la liste est tenue à la disposition de l'inspecteur
+du travail ou du contrôleur du travail. Ces personnes doivent être compétentes
+dans le domaine de la prévention des risques présentés par les équipements de
+travail définis par les arrêtés prévus au premier alinéa ci-dessus et connaître
+les dispositions réglementaires afférentes.
 
-L'exécution à l'arrêt des travaux prévus à l'alinéa 1er n'est autorisée qu'après
-que les mesures nécessaires ont été prises pour empêcher la remise en marche
-inopinée des transmissions, mécanismes et machines.
+Le résultat des vérifications générales périodiques est consigné sur le registre
+de sécurité ouvert par le chef d'établissement conformément à l'article L.
+620-6. Ce registre est tenu à la disposition de l'inspecteur du travail ou du
+contrôleur du travail, des agents des services de prévention des organismes de
+sécurité sociale ainsi que de l'organisme professionnel d'hygiène, de sécurité
+et des conditions de travail créé en application du 4° de l'article L. 231-2,
+s'il y a lieu, et du comité d'hygiène, de sécurité et des conditions de travail
+de l'établissement ou, à défaut, des délégués du personnel.
+
+Lorsque les vérifications périodiques sont réalisées par des personnes
+n'appartenant pas à l'établissement, les rapports établis à la suite de ces
+vérifications doivent être annexés au registre de sécurité ; à défaut, les
+indications précises relatives à la date des vérifications, à la date de remise
+des rapports correspondants et à leur archivage dans l'établissement doivent
+être portées sur le registre de sécurité.
+
+Le registre de sécurité et les rapports peuvent être tenus et conservés sur tout
+support dans les conditions prévues par les articles L. 620-7 et D. 620-1.
