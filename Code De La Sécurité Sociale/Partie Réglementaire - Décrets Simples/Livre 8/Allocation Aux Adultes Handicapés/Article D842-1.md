@@ -2,21 +2,21 @@ Article D842-1
 ----
 I. - Le montant maximal trimestriel de l'allocation visé au I de l'article L.
 842-2 est égal à 50 % des cotisations patronales et salariales mentionnées à cet
-article dans la limite de 1 032 Euros pour les périodes d'emploi postérieures au
-1er juillet 2002.
+article dans la limite de 1 050 Euros pour les périodes d'emploi postérieures au
+1er juillet 2003.
 
 II. - Le montant maximal trimestriel de l'allocation à taux réduit visé au III
 de l'article L. 842-2 est égal à 50 % des cotisations patronales et salariales
-visées au I de l'article L. 842-2 dans la limite de 516 Euros pour les périodes
-d'emploi postérieures au 1er juillet 2002.
+visées au I de l'article L. 842-2 dans la limite de 525 Euros pour les périodes
+d'emploi postérieures au 1er juillet 2003.
 
 III. - Le montant maximal trimestriel de l'allocation visé au II de l'article L.
 842-2 est égal à 75 % des cotisations patronales et salariales mentionnées au I
-de l'article L. 842-2 dans la limite de 1 548 Euros pour les périodes d'emploi
-postérieures au 1er juillet 2002 lorsque l'allocation est due au titre d'un
+de l'article L. 842-2 dans la limite de 1 574 Euros pour les périodes d'emploi
+postérieures au 1er juillet 2003 lorsque l'allocation est due au titre d'un
 enfant de moins de trois ans et que les ressources de la famille, appréciées
 dans les conditions visées aux alinéas suivants, ne dépassent pas un plafond
-égal à 34 744 Euros pour la période du 1er juillet 2002 au 30 juin 2003.
+égal à 35 335 Euros pour la période du 1er juillet 2003 au 30 juin 2004.
 
 Pour la mise en oeuvre de la condition de ressources prévue au II de l'article
 L. 842-2, il est fait application du premier alinéa des articles R. 531-7 et R.
