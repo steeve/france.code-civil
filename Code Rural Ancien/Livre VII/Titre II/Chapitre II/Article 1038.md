@@ -10,12 +10,11 @@ L'assurance maladie comporte :
 et de prothèse dentaire, des frais pharmaceutiques et d'appareils, des frais
 d'analyses et d'examens de laboratoire, des frais d'hospitalisation et de
 traitement dans les établissements de cure de réadaptation fonctionnelle et de
-rééducation ou d'éducation professionnelle et des frais de transport ainsi que
-des frais d'interventions chirurgicales nécessaires pour l'assuré et les membres
-de sa famille déterminés par règlement d'administration publique y compris la
-couverture des médicaments, produits et objets contraceptifs et des frais
-d'analyses et d'examens de laboratoire ordonnés en vue de prescriptions
-contraceptives.
+rééducation ou d'éducation professionnelle ainsi que des frais d'interventions
+chirurgicales nécessaires pour l'assuré et les membres de sa famille déterminés
+par règlement d'administration publique y compris la couverture des médicaments,
+produits et objets contraceptifs et des frais d'analyses et d'examens de
+laboratoire ordonnés en vue de prescriptions contraceptives.
 
 La couverture, sur décision de la commission d'éducation spéciale créée par
 l'article 6 de la loi n° 75-534 du 30 juin 1975, des frais d'hébergement et de
@@ -29,18 +28,15 @@ La couverture des frais de soins et d'hospitalisation afférents à l'interrupti
 volontaire de grossesse effectuée dans les conditions prévues à la section 1 du
 chapitre III bis du titre Ier du livre II du code de la santé publique.
 
+La couverture des frais de transport dans les conditions prévues au a III de
+l'article L. 283 du code de la sécurité sociale.
+
 2. L'octroi d'indemnités journalières à l'assuré qui se trouve dans l'incapacité
 physique, constatée par le médecin traitant, de continuer ou de reprendre le
 travail ; l'incapacité peut-être également constatée par la sage-femme dans la
 limite de sa compétence professionnelle et pour une durée fixée par décret.
 
 L'assuré choisit librement son praticien.
-
-L'action de l'assuré pour le paiement des prestations de l'assurance maladie se
-prescrit par deux ans, à compter du premier jour du trimestre civil suivant
-celui auquel se rapportent lesdites prestations ; pour le paiement des
-prestations de l'assurance maternité, elle se prescrit par deux ans à partir de
-la date de la première constatation médicale de la grossesse.
 
 Le versement du capital garanti au titre de l'assurance décès est effectué par
 priorité aux personnes qui étaient, au jour du décès, à la charge effective,
@@ -53,3 +49,7 @@ conjoint survivant ni descendant, aux ascendants.
 
 L'article L. 395 du code de la sécurité sociale est applicable aux prestations
 visées au présent article.
+
+En cas d'interruption de travail à l'occasion d'une cure thermale, les
+indemnités journalières de l'assurance maladie ne sont pas dues, sauf lorsque la
+situation de l'intéressé le justifie dans des conditions fixées par arrêté.

@@ -1,15 +1,10 @@
 Article L51-1
 ----
-Un agrément [*autorisation administrative obligatoire*] est délivré par le
-préfet [*autorité compétente*], après avis de la commission départementale
-d'équipement, section sanitaire et sociale, aux personnes physiques ou morales
-qui exploitent une entreprise privée de transports sanitaires, que le transport
-soit terrestre, aérien ou maritime, dès lors qu'elles se conforment aux
-conditions d'exploitation déterminées par un règlement d'administration
-publique, qui précise les droits qu'il leur confère et les obligations qui en
-découlent.
+Constitue un transport sanitaire [*définition*], au sens du présent code, tout
+transport d'une personne malade, blessée ou parturiente, pour des raisons de
+soins ou de diagnostic, sur prescription médicale ou en cas d'urgence médicale,
+effectué à l'aide de moyens de transports terrestres, aériens ou maritimes,
+spécialement adaptés à cet effet.
 
-[*LOI 514 1980-07-07 : dans les lois en vigueur à la date de publication de la
-présente loi, tout renvoi à un règlement d'administration publique ou à un
-décret en forme de règlement d'administration publique est remplacé par un
-renvoi à un décret en Conseil d'Etat*].
+Les transports des personnels de défense effectués à l'aide des moyens propres
+aux armées ne constituent pas des transports sanitaires au sens du présent code.
