@@ -1,20 +1,28 @@
 Article R311-1
 ----
-Le contrat territorial d'exploitation, qui porte, conformément à l'article L.
-311-3, sur l'ensemble de l'activité de l'exploitation, comprend nécessairement
-deux parties, décrivant respectivement :
+Toute personne exerçant une activité agricole au sens de l'article L. 311-1 et
+remplissant les conditions prévues aux articles R. 341-7 et R. 341-8 peut
+conclure avec l'Etat un contrat d'agriculture durable.
 
-1° Les engagements de l'exploitant dans le domaine économique et de l'emploi, en
-faveur notamment de la création ou de la diversification d'activités agricoles,
-de l'innovation et du développement de filières de qualité ;
+Le contrat d'agriculture durable a pour objet d'inciter l'exploitant qui le
+souscrit à mettre en oeuvre un projet prenant en compte les fonctions
+environnementale, économique et sociale de l'agriculture mentionnées à l'article
+1er de la loi du 9 juillet 1999 d'orientation agricole.
 
-2° Les engagements de l'exploitant dans le domaine de l'aménagement et du
-développement de l'espace rural et de l'environnement, en vue notamment de
-lutter contre l'érosion, de préserver la qualité des sols, les eaux, la nature
-et les paysages.
+Le contrat porte sur la contribution de l'activité de l'exploitation à la
+préservation des ressources naturelles, à l'occupation rationnelle et à
+l'aménagement de l'espace rural en vue notamment de lutter contre l'érosion, de
+préserver la fertilité des sols, la ressource en eau, la diversité biologique,
+la nature et les paysages. Il peut également comprendre des objectifs
+économiques et sociaux, notamment en matière de diversification d'activités
+agricoles, de développement de filières de qualité et d'emploi.
 
-Il détermine les modalités des aides publiques accordées en contrepartie des
-engagements pris, notamment leur montant.
+Dès lors qu'il entre dans le champ d'application du règlement (CE) n° 1257/1999
+du Conseil du 17 mai 1999 concernant le soutien au développement rural par le
+Fonds européen d'orientation et de garantie agricole, le contrat comprend au
+moins une action prévue à l'article 22 de ce règlement ou une action
+pluriannuelle portant exclusivement sur la protection de l'environnement prévue
+à l'antépénultième paragraphe de l'article 33.
 
-Les conditions de dépôt, d'agrément et d'exécution des contrats territoriaux
-d'exploitation sont fixées dans la section 4 du chapitre Ier du titre IV.
+Il définit les engagements de l'exploitant ainsi que la nature et les modalités
+des aides publiques accordées en contrepartie.

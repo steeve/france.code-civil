@@ -30,6 +30,6 @@ prévu dans l'article R. 525-2 et d'attribution des aides aux coopératives
 d'utilisation en commun de matériel agricole, notamment les prêts spéciaux
 définis dans le décret n° 91-93 du 23 janvier 1991 ;
 
-4° La section Contrats territoriaux d'exploitation, qui exerce les compétences
-déléguées par la commission en matière de souscription d'un contrat territorial
-d'exploitation en application de l'article L. 311-3.
+4° La section Contrats d'agriculture durable, qui exerce les compétences
+déléguées par la commission en matière de souscription d'un contrat
+d'agriculture durable en application de l'article L. 311-3.

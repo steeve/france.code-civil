@@ -1,23 +1,33 @@
 Article R311-2
 ----
-Les contrats types d'exploitation mentionnés à l'article L. 311-3 sont
-constitués de mesures types parmi lesquelles l'agriculteur choisit pour élaborer
-un projet cohérent de contrat.
+Les contrats d'agriculture durable comportent une ou plusieurs des actions
+prévues aux contrats types que le préfet arrête, après avis de la commission
+départementale d'orientation de l'agriculture, pour les territoires qu'il
+détermine. Ils peuvent également comporter un projet particulier défini par
+l'exploitant.
 
-Chaque mesure type est constituée d'une action ou d'un ensemble d'actions au
-service d'un même objectif. Des cahiers des charges précisent, par mesure type
-ou par action, l'objectif poursuivi, les moyens à mettre en oeuvre ou les
-résultats à atteindre, la contribution financière pouvant être versée en
-contrepartie des engagements souscrits, les modalités de son remboursement en
-cas de non-respect de ces engagements ainsi que les indicateurs permettant
-l'évaluation de la mesure ou de l'action.
+Les contrats types mentionnés à l'alinéa précédent fixent les enjeux
+prioritaires relevant du développement durable de l'agriculture, ainsi que les
+actions prioritaires et complémentaires répondant aux objectifs mentionnés à
+l'article R. 311-1. Les actions prioritaires relevant de l'article 22 et de
+l'antépénultième paragraphe de l'article 33 du règlement (CE) n° 1257/1999 du 17
+mai 1999 peuvent être rendues obligatoires par le préfet.
 
-Les contrats types, les mesures types et les cahiers des charges qui les
-accompagnent sont arrêtés par le préfet après avis de la commission
-départementale d'orientation de l'agriculture. Ils respectent les orientations
-définies par le ministre de l'agriculture après avis du Conseil supérieur
-d'orientation et de coordination de l'économie agricole et alimentaire, et
-s'inscrivent dans le cadre des projets agricoles départementaux et du plan de
-développement rural approuvé par la Commission en application du règlement (CE)
-n° 1257/99 du Conseil du 17 mai 1999, ainsi que dans le cadre de la politique
-d'aménagement du territoire avec les projets de pays.
+Chaque action fait l'objet d'un cahier des charges qui précise :
+
+- les objectifs poursuivis ;
+
+- le champ d'application ;
+
+- les moyens à mettre en oeuvre ou les résultats à atteindre ;
+
+- la contribution financière susceptible d'être versée en contrepartie des
+engagements souscrits ;
+
+- les modalités de contrôle et la nature des sanctions.
+
+Les cahiers des charges sont arrêtés par le préfet après avis de la commission
+départementale d'orientation de l'agriculture. Ils s'inscrivent dans le cadre
+des projets agricoles départementaux et du plan de développement rural national
+approuvé par la Commission en application du règlement (CE) n° 1257/1999 du 17
+mai 1999, ainsi que dans le cadre de la politique d'aménagement du territoire.
