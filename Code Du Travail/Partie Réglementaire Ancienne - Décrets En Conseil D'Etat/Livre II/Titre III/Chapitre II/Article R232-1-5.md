@@ -1,15 +1,7 @@
 Article R232-1-5
 ----
-Dans les locaux à pollution spécifique, les concentrations moyennes en
-poussières totales et alvéolaires de l'atmosphère inhalée par une personne,
-évaluées sur une période de huit heures, ne doivent pas dépasser respectivement
-10 et 5 milligrammes par mètre cube d'air.
-
-Des prescriptions particulières prises en application du 2° de l'article L.
-231-2 déterminent le cas échéant :
-
-1° D'autres limites que celles qui sont fixées au premier alinéa ci-dessus pour
-certaines variétés de poussières ;
-
-2° Des valeurs limites pour des substances telles que certains gaz, aérosols
-liquides ou vapeurs et pour des paramètres climatiques.
+L'accès et l'intervention sur les toits en matériaux fragiles n'offrant pas une
+résistance suffisante ne peuvent se faire que dans les conditions définies par
+la réglementation en matière de protection et de salubrité applicable aux
+travaux du bâtiment et des travaux publics, prévue par le décret n° 65-48 du 8
+janvier 1965 modifié.
