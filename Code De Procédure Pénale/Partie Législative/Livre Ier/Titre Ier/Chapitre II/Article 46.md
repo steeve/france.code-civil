@@ -7,5 +7,5 @@ ressort du tribunal de grande instance.
 
 A titre exceptionnel et en cas de nécessité absolue pour la tenue de l'audience,
 le juge du tribunal d'instance peut appeler, pour exercer les fonctions du
-ministère public, le maire du lieu où siège le tribunal de police ou un de ses
-adjoints.
+ministère public, le maire du lieu où siège la juridiction de proximité ou un de
+ses adjoints.

@@ -1,7 +1,8 @@
 Article 525
 ----
 Le ministère public qui choisit la procédure simplifiée communique au juge du
-tribunal de police le dossier de la poursuite et ses réquisitions.
+tribunal de police ou de la juridiction de proximité le dossier de la poursuite
+et ses réquisitions.
 
 Le juge statue sans débat préalable par une ordonnance pénale portant soit
 relaxe, soit condamnation à une amende ainsi que, le cas échéant, à une ou

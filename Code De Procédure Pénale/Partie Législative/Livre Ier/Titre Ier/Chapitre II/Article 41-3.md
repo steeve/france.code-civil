@@ -12,4 +12,7 @@ première classe à la quatrième classe. Il en est de même des mesures prévue
 les 2° à 5° et 8° de cet article, sauf si la contravention est punie des peines
 complémentaires visées aux 1° à 5° de l'article 131-16 du code pénal.
 
-La requête en validation est portée devant le juge d'instance.
+La requête en validation est portée, selon la nature de la contravention, devant
+le juge du tribunal de police ou devant le juge de la juridiction de proximité,
+sauf si le juge de proximité est désigné par le président du tribunal aux fins
+de validation de l'ensemble des compositions pénales contraventionnelles.
