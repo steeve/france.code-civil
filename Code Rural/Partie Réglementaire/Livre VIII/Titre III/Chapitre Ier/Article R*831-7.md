@@ -7,17 +7,22 @@ n'y fasse opposition. En cas d'urgence, le ministre chargé de la recherche et l
 ministre chargé de l'agriculture peuvent autoriser l'exécution immédiate.
 
 Toutefois, les délibérations portant sur le budget et ses modifications et le
-compte financier, les emprunts, les acquisitions, échanges et aliénations
-d'immeubles sont exécutoires sauf opposition du ministre chargé de la recherche,
-ou du ministre chargé de l'agriculture, ou du ministre chargé du budget, dans un
-délai d'un mois à compter de la réception du procès-verbal, par chacun de ces
-ministres.
+compte financier, les emprunts, les acquisitions, échanges ou aliénations
+d'immeubles ainsi que la participation aux organismes dotés de la personnalité
+morale autres que les groupements d'intérêt public sont exécutoires sauf
+opposition du ministre chargé de la recherche, du ministre chargé de
+l'agriculture ou du ministre chargé du budget dans un délai d'un mois à compter
+de leur réception par chacun de ces ministres. Les délibérations portant sur la
+participation à des groupements d'intérêt public sont exécutoires conformément
+aux dispositions du décret n° 83-204 du 15 mars 1983 relatif aux groupements
+d'intérêt public définis dans l'article 21 de la loi d'orientation et de
+programmation pour la recherche et le développement technologique de la France.
 
-Les délibérations portant sur les matières énumérées aux 7° et 9° de l'article
-R. 831-6 ci-dessus ne sont exécutoires qu'après approbation par arrêté conjoint
-du ministre chargé de la recherche, du ministre chargé de l'agriculture et du
-ministre chargé du budget, ainsi que, pour le 9°, du ministre chargé des
-finances.
+Les délibérations portant sur les matières énumérées au 9 de l'article R. 831-6
+sont exécutoires sauf opposition du ministre chargé de la recherche, du ministre
+chargé de l'agriculture, du ministre chargé de l'économie ou du ministre chargé
+du budget dans un délai d'un mois à compter de leur réception par chacun de ces
+ministres.
 
 Parmi les décisions modificatives du budget, sont seules soumises au conseil
 d'administration et à l'approbation des autorités de tutelle celles qui

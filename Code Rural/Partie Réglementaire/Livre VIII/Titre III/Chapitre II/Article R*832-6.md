@@ -23,7 +23,7 @@ grosses réparations d'immeubles ;
 9. La création de filiales, les prises, cessions ou extensions de participations
 financières ;
 
-10. La participation du centre à des groupements d'intérêt public ;
+10. La participation à des organismes dotés de la personnalité morale ;
 
 11. Les orientations générales en matière d'action sociale et de formation ;
 
@@ -35,7 +35,7 @@ Le conseil d'administration se prononce en outre sur les questions qui lui sont
 soumises par son président, ou l'un des ministres représentés au conseil
 d'administration.
 
-En ce qui concerne les matières énumérées aux 5, 6, 7 et 12 ci-dessus, le
+En ce qui concerne les matières énumérées aux 5, 6, 7, 10 et 12 ci-dessus, le
 conseil peut déléguer une partie de ses pouvoirs au directeur général. Celui-ci
 lui rend compte lors de sa plus prochaine séance des décisions qu'il a prises en
 vertu de cette délégation.

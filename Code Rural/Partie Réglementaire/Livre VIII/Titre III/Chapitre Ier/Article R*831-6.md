@@ -16,8 +16,7 @@ recherche ;
 
 6. Les emprunts ;
 
-7. La participation de l'institut aux groupements d'intérêt public prévus à
-l'article 21 de la loi n° 82-610 du 15 juillet 1982 susvisée ;
+7. La participation à des organismes dotés de la personnalité morale ;
 
 8. Les projets d'achats, ventes et échanges d'immeubles, de constitutions
 d'hypothèques, les projets de baux et de location d'une durée supérieure à neuf
@@ -34,7 +33,7 @@ Le conseil d'administration se prononce en outre sur les questions qui lui sont
 soumises par son président, le ministre chargé de la recherche et le ministre
 chargé de l'agriculture.
 
-En ce qui concerne les matières énumérées aux 5°, 8° et 11°, le conseil peut
+En ce qui concerne les matières énumérées aux 5°, 7°, 8° et 11°, le conseil peut
 déléguer une partie de ses pouvoirs au directeur général. Celui-ci rend compte
 lors de sa plus prochaine séance des décisions qu'il a prises en vertu de cette
 délégation.
