@@ -1,13 +1,10 @@
 Article L351-11
 ----
-Nonobstant la définition limitative du champ d'application professionnel de la
-convention mentionnée ci-après tout employeur relevant du premier alinéa de
-l'article L. 351-10 dans les deux mois suivant l'embauchage du premier salarié
-doit adhérer aux institutions du régime d'assurances résultant de la convention
-du 31 décembre 1958 ayant créé le régime national interprofessionnel
-d'allocation spéciale aux travailleurs sans emploi du commerce et de l'industrie
-et qui a été agréée conformément aux dispositions du chapitre II du présent
-titre.
-
-Ces institutions ne peuvent refuser les adhésions données par application de
-l'alinéa précédent.
+Pour certaines branches d'activité jusqu'alors exclues du régime de l'allocation
+d'assurance antérieurement à la publication de la loi n. 79-32 du 16 janvier
+1979, les avenants à la convention du 31 décembre 1958 et les règlements pris
+pour son application peuvent, lorsque le caractère propre de ces branches
+d'activité rend nécessaires des mesures d'adaptation, établir des règles
+particulières en ce qui concerne l'ouverture des droits à prestation, le taux et
+la durée de celles-ci, ainsi que pour la détermination des obligations des
+employeurs et la date d'applicabilité à ces branches dudit régime.
