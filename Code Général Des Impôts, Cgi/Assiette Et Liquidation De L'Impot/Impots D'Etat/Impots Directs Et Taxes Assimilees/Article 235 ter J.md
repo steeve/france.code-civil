@@ -19,5 +19,5 @@ déposées dans les trente jours de la cession ou de la cessation [*délai*]. En
 cas de décès de l'employeur, ces déclarations sont déposées dans les six mois
 qui suivent la date du décès.
 
-En cas de règlement judiciaire ou de liquidation des biens, elles sont
-produites, dans les trente jours de la date du jugement.
+En cas de redressement judiciaire , elles sont produites, [*delai*] dans les
+trente jours de la date du jugement.
