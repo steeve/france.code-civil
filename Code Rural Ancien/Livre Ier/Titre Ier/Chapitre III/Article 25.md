@@ -19,8 +19,10 @@ non domaniaux, soit lorsque ces travaux sont indispensables à l'établissement
 d'un lotissement rationnel, soit lorsqu'ils sont utiles au bon écoulement des
 eaux nuisibles, en raison de l'exécution de travaux visés au 3°.
 
-L'assiette des ouvrages visés aux 1°, 3° et 4° est prélevée sans indemnité sur
-la totalité des terres à remembrer.
+5° L'établissement de tous ouvrages nécessaires à la protection des forêts.
+
+L'assiette des ouvrages mentionnés aux 1°, 3°, 4° et 5° est prélevée sans
+indemnité sur la totalité des terres à remembrer.
 
 Le département assure l'exécution des travaux et le règlement des dépenses des
 travaux visés aux 1°, 2°, 3° et 4° ; la part de dépenses incombant aux

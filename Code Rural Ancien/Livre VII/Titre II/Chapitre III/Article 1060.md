@@ -14,13 +14,14 @@ commerçant ;
 3° Aux artisans ruraux n'employant pas plus de deux salariés de façon permanente
 ;
 
-4° Aux entrepreneurs de travaux agricoles ;
+4° Aux entrepreneurs de travaux agricoles ainsi qu'aux entrepreneurs de travaux
+forestiers ;
 
 5° Aux exploitants des établissements de conchyliculture ou de pisciculture et
 établissements assimilés, sauf lorsque les intéressés relèvent du régime social
 des marins.
 
-Les ouvriers agricoles et bûcherons travaillant seuls ou avec l'aide de leur
-famille, avec des outils leur appartenant en propre, sont réputés, pour
-l'application des présentes dispositions, bénéficier d'un contrat de louage de
-services, que les travaux soient effectués au temps, à la tâche ou au forfait.
+Les ouvriers agricoles travaillant seuls ou avec l'aide de leur famille, avec
+des outils leur appartenant en propre, sont réputés, pour l'application des
+présentes dispositions, bénéficier d'un contrat de louage de services, que les
+travaux soient effectués au temps, à la tâche ou au forfait.

@@ -1,9 +1,10 @@
 Article 3
 ----
 La commission communale détermine les mesures qu'elle estime nécessaires de
-mettre en oeuvre pour améliorer l'exploitation agricole à l'intérieur du
-territoire communal et des extensions éventuelles définies à l'article 1er qui
-constituent la zone d'aménagement foncier.
+mettre en oeuvre pour améliorer l'exploitation agricole et favoriser la mise en
+valeur forestière à l'intérieur du territoire communal et des extensions
+éventuelles définies à l'article 1er bis, qui constituent la zone d'aménagement
+foncier.
 
 Elle fixe en conséquence :
 
@@ -18,9 +19,10 @@ seront suffisantes ;
 c) Le ou les périmètres à l'intérieur desquels elle est d'avis de mettre en
 oeuvre une procédure d'échanges amiables ;
 
-d) Le ou les périmètres, délimitant des massifs forestiers, à l'intérieur
-desquels elle est d'avis que les opérations d'aménagement devront faire l'objet
-d'une procédure distincte ;
+d) Le ou les périmètres à l'intérieur desquels elle est d'avis de mettre en
+oeuvre un aménagement foncier forestier faisant l'objet d'une procédure
+particulière, compte tenu de l'intérêt ou de l'importance des bois, forêts et
+terrains à boiser ;
 
 e) Le ou les périmètres comprenant les terres dont l'inclusion dans l'un des
 périmètres susvisés entraînerait, pour la collectivité, des charges hors de

@@ -9,14 +9,12 @@ est réduit à deux ans en zone de montagne. Le représentant de l'Etat dans le
 département présente pour avis, au conseil général et à la chambre
 d'agriculture, le rapport de la commission départementale d'aménagement foncier
 et arrête les périmètres dans lesquels la commission communale ou intercommunale
-d'aménagement foncier, complétée par trois personnes qualifiées en matière
-d'aménagement forestier, dresse l'état des parcelles dont elle juge la mise en
-valeur agricole, pastorale ou forestière possible et opportune, à l'exclusion
-des biens dont le défrichement est soumis à autorisation. La commission
-communale ou intercommunale formule éventuellement des propositions sur les
-interdictions ou réglementations des plantations et semis d'essences forestières
-susceptibles d'être ordonnées sur ces parcelles par le représentant de l'Etat
-dans le département.
+d'aménagement foncier, complétée comme il est dit à l'article 2-1, dresse l'état
+des parcelles dont elle juge la mise en valeur agricole, pastorale ou forestière
+possible et opportune. La commission communale ou intercommunale formule
+éventuellement des propositions sur les interdictions ou réglementations des
+plantations et semis d'essences forestières susceptibles d'être ordonnées sur
+ces parcelles par le représentant de l'Etat dans le département.
 
 Les intéressés, propriétaires ou exploitants, sont entendus comme en matière de
 remembrement.

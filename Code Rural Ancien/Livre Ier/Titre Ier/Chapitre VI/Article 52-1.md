@@ -31,3 +31,10 @@ plantations et des semis d'essences forestières pourraient être rendus
 obligatoires dans le but de préserver les sols, les cultures et l'équilibre
 biologique, ces zones bénéficiant d'une priorité pour l'octroi des aides de
 l'Etat.
+
+4° Ils définissent les périmètres dans lesquels pourra être réalisé, à la
+demande du conseil général ou avec son accord, un aménagement agricole et
+forestier dans les conditions prévues par les articles 52-3 et 52-4 du présent
+code. Cet aménagement peut, en outre, être mis en oeuvre dans les zones de
+montagne définies en application de la loi n° 85-30 du 9 janvier 1985 relative
+au développement et à la protection de la montagne.
