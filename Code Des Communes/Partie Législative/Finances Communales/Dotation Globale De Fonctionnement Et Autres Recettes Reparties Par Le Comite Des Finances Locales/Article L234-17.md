@@ -6,13 +6,11 @@ destinée à tenir compte des charges qui résultent de l'utilisation de leurs
 
 Cette dotation n'est accordée à la commune centre que si la population de
 l'unité urbaine à laquelle elle appartient représente au moins 10 p. 100 de la
-population du département et que si, par rapport à l'année précédente, la
-dotation globale de fonctionnement de la commune centre a évolué moins
-favorablement que la dotation globale de fonctionnement versée à l'ensemble des
-communes.
+population du département.
 
 Le montant global des sommes à répartir en application du présent article est
-fixé chaque année par le comité des finances locales [*autorité compétente*].
+fixé chaque année par le comité des finances locales.
+
 Pour 1979, ce montant global est de 15 p. 100 de la dotation afférente aux
 concours particuliers.
 
@@ -21,6 +19,11 @@ proportionnelle au montant de sa dotation globale de fonctionnement pondéré pa
 un coefficient égal au rapport entre la population de l'unité urbaine, à
 l'exclusion de celle de la commune centre, résidant dans le département, et la
 population totale de l'unité urbaine habitant ce même département.
+
+Lorsque, par rapport à l'année précédente, la dotation globale de fonctionnement
+de la commune centre a évolué plus favorablement que la dotation globale de
+fonctionnement versée à l'ensemble des communes, la dotation particulière est
+réduite à due concurrence du dépassement constaté.
 
 Lorsqu'une commune remplit les conditions requises pour bénéficier à la fois de
 la dotation instituée par le présent article et de la dotation particulière

@@ -12,9 +12,9 @@ L'impôt brut est égal au produit de la cotisation ainsi obtenue par le nombre 
 parts.
 
 L'impôt dû par le contribuable est calculé à partir de l'impôt brut sauf
-application, le cas échéant, de l'imputation prévue aux articles 182 B, 199 ter
-et 199 ter A et sous réserve de l'utilisation éventuelle de l'avoir fiscal visé
-à l'article 158 bis.
+application, le cas échéant, de l'imputation prévue aux articles 182 B, 199 ter,
+199 ter A et 244 bis A et sous réserve de l'utilisation éventuelle de l'avoir
+fiscal visé à l'article 158 bis.
 
 (1) Disposition applicable à compter de l'imposition des revenus de l'année
 1980.
