@@ -3,8 +3,7 @@ Article R811-38
 Le conseil de discipline de chaque lycée est présidé par le directeur du lycée
 ou son représentant. Il comprend en outre :
 
-1° Le conseiller principal d'éducation ou le conseiller d'éducation ou celui qui
-en fait fonction ;
+1° Le conseiller principal d'éducation ou celui qui en fait fonction ;
 
 2° Trois représentants des personnels enseignants, d'éducation et de
 surveillance dans les établissements de plus de cent élèves ou deux
