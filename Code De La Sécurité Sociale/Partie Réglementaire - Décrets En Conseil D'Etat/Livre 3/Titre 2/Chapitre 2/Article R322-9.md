@@ -8,8 +8,10 @@ l'article L. 322-3 :
 une période qui débute quatre mois avant la date présumée de l'accouchement et
 se termine à la date de l'accouchement ;
 
-2°) pour l'hospitalisation des nouveau-nés, lorsque l'hospitalisation se produit
-au cours des trente premiers jours suivant le jour de la naissance ;
+2°) pour l'hospitalisation des nouveau-nés, lorsqu'elle se produit dans les
+trente jours qui suivent la naissance, ainsi que pour les soins de toute nature
+qui leur sont dispensés dans un établissement de santé au cours de la période de
+trente jours qui suit la naissance ;
 
 3°) pour les investigations nécessaires au diagnostic de la stérilité et pour le
 traitement de celle-ci, y compris au moyen de l'insémination artificielle. La
