@@ -9,9 +9,9 @@ tout en favorisant une utilisation économe des matières premières. Il fixe le
 objectifs à atteindre en matière de remise en état et de réaménagement des
 sites.
 
-Le schéma départemental des carrières est élaboré par la commission
-départementale des carrières après consultation du document de gestion de
-l'espace agricole et forestier visé à l'article L. 112-1 du code rural.
+Le schéma départemental des carrières est élaboré après consultation du document
+de gestion de l'espace agricole et forestier visé à l'article L. 112-1 du code
+rural.
 
 Il est approuvé, après avis du conseil général, par le préfet. Il est rendu
 public dans des conditions fixées par décret.
