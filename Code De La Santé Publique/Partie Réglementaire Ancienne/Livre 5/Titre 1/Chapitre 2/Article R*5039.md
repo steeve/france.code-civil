@@ -18,7 +18,8 @@ personnes suivantes :
 
 - plaignant ;
 
-- ministre de la santé publique et de la population ;
+- ministre chargé de la santé et, pour les pharmaciens des établissements
+relevant de son contrôle, au directeur général de l'Agence du médicament ;
 
 - appelant ;
 

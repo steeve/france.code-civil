@@ -1,20 +1,19 @@
 Article R5002
 ----
 La commission nationale de la Pharmacopée est chargée de préparer, sous
-l'autorité du ministre chargé de la santé publique, la rédaction de la
-Pharmacopée.
+l'autorité du ministre chargé de la santé, la rédaction de la Pharmacopée.
 
-Cette commission se compose de trente-sept membres :
+Cette commission se compose de trente-six membres :
 
 1° Dix membres de droit :
 
-- le directeur de la pharmacie et du médicament au ministère chargé de santé
-publique ou son représentant ;
+- le directeur général de la santé au ministère chargé de santé publique ou son
+représentant ;
 
 - le directeur de l'Institut national de la santé et de la recherche médicale ou
 son représentant ;
 
-- le directeur général du Laboratoire national de la santé ou son représentant ;
+- le directeur général de l'Agence du médicament ou son représentant ;
 
 - le directeur de la recherche au ministère de l'éducation nationale ou son
 représentant ;
@@ -37,18 +36,14 @@ des plantes à parfum, aromatiques et médicinales ou son représentant ;
 - le président du syndicat national de l'industrie pharmaceutique ou son
 représentant.
 
-2° Vingt-sept membres nommés par le ministre chargé de la santé pour une durée
-de trois ans :
+2° Vingt-six membres nommés par le ministre chargé de la santé pour une durée de
+trois ans et choisis en raison de leur compétence scientifique ou technique. Six
+au moins de ces membres sont choisis sur proposition du ministre chargé des
+universités.
 
-- un membre de la mission scientifique de la direction de la pharmacie et du
-médicament au ministère chargé de la santé ;
-
-- vingt-six personnalités choisies en raison de leur compétence scientifique ou
-technique, dont six au moins sur proposition du ministre chargé des universités.
-
-Vingt-sept suppléants sont désignés dans les mêmes conditions que les
-titulaires. Ils remplacent ces derniers soit en cas d'empêchement, soit s'il se
-produit une vacance en cours de mandat.
+Vingt-six suppléants sont désignés dans les mêmes conditions que les titulaires.
+Ils remplacent ces derniers soit en cas d'empêchement, soit s'il se produit une
+vacance en cours de mandat.
 
 Le président et le vice-président sont désignés par le ministre chargé de la
 santé parmi les membres de la commission.

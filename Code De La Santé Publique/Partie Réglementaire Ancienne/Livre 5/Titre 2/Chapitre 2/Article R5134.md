@@ -1,8 +1,8 @@
 Article R5134
 ----
 Lors de l'instruction des demandes d'autorisation de mise sur le marché, le
-ministre chargé de la santé publique [*autorité compétente*] peut prendre les
-mesures suivantes :
+directeur général de l'Agence du médicament [*autorité compétente*] peut prendre
+les mesures suivantes :
 
 a) Faire procéder à toute enquête relative à la fabrication du médicament ;
 

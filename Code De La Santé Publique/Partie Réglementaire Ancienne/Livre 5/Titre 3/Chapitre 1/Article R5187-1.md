@@ -14,8 +14,8 @@ psychotrope ou médicament en contenant :
 
 5° Les stocks.
 
-Cet état, qui couvre l'année civile écoulée, est adressé au ministre chargé de
-la santé, au plus tard le 15 février.
+Cet état, qui couvre l'année civile écoulée, est adressé au directeur général de
+l'Agence du médicament, au plus tard le 15 février.
 
 L'autorisation prévue à l'article R. 5183 peut imposer à son titulaire
 l'établissement et la production au cours de chaque année civile de plusieurs

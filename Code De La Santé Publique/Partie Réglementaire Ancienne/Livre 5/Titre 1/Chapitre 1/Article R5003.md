@@ -11,6 +11,5 @@ par arrêtés du ministre chargé de la santé publique, publiés au Journal
 officiel. Des suppléments peuvent en outre être préparés, publiés et rendus
 obligatoires dans les mêmes conditions que les éditions qu'ils complètent.
 
-L'organisme ou le service chargé de l'édition est désigné par arrêté du ministre
-chargé de la santé publique ; les conditions d'édition et de cession sont
-soumises à l'agrément préalable du ministre.
+L'Agence du médicament est chargée de l'édition de la Pharmacopée et de celle du
+formulaire national mentionné à l'article R. 5006.

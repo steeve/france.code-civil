@@ -10,10 +10,11 @@ de sa résine ;
 des dérivés précités et de leurs préparations.
 
 Des dérogations aux dispositions énoncées ci-dessus peuvent être accordées par
-le ministre chargé de la santé aux fins de recherche et de contrôle ainsi que de
-fabrication de dérivés autorisés.
+le directeur général de l'Agence du médicament aux fins de recherche et de
+contrôle ainsi que de fabrication de dérivés autorisés.
 
-Cependant, les ministres chargés de la santé, de l'agriculture, de l'industrie
-et des douanes peuvent, par arrêté conjoint, autoriser la culture,
-l'importation, l'exportation et l'utilisation industrielle et commerciale de
-variétés de cannabis dépourvues de propriétés stupéfiantes.
+Cependant, sur proposition du directeur général de l'Agence du médicament, les
+ministres chargés de la santé, de l'agriculture, de l'industrie et des douanes
+peuvent, par arrêté conjoint, autoriser la culture, l'importation, l'exportation
+et l'utilisation industrielle et commerciale de variétés de cannabis dépourvues
+de propriétés stupéfiantes.

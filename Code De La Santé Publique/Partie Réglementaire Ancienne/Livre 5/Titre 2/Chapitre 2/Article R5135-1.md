@@ -6,5 +6,5 @@ de l'article R. 5129 en fonction des progrès de la science et de l'évolution d
 techniques, de façon que la spécialité pharmaceutique soit contrôlée suivant les
 méthodes scientifiques généralement acceptées.
 
-Il soumet ces modifications des méthodes de contrôle à l'approbation du ministre
-chargé de la santé.
+Il soumet ces modifications des méthodes de contrôle à l'approbation du
+directeur général de l'Agence du médicament.

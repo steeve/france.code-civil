@@ -1,8 +1,8 @@
 Article R5266-2
 ----
 La demande tendant à obtenir l'autorisation [*de mise sur le marché*] prévue à
-l'article L. 658-11 doit être adressée au ministre chargé de la santé [*autorité
-compétente*]. Elle mentionne :
+l'article L. 658-11 doit être adressée au directeur général de l'Agence du
+médicament [*autorité compétente*]. Elle mentionne :
 
 a) Le nom et l'adresse du demandeur et, lorsque celui-ci ne fabrique pas le
 produit, le nom et l'adresse du fabricant ;

@@ -9,21 +9,22 @@ En cas de vacance survenant au cours d'un mandat, le mandat du suppléant appel�
 suppléant prend fin à la même date que celui du membre remplacé.
 
 La commission peut faire appel à des experts qui siègent avec voix consultative
-et le ministre chargé de la santé peut lui demander d'en entendre.
+et le ministre chargé de la santé ou le directeur général de l'Agence du
+médicament peut lui demander d'en entendre.
 
 L'instruction des dossiers peut être confiée à des rapporteurs extérieurs à la
-commission, désignés par le directeur de la pharmacie et du médicament, sur
+commission, désignés par le directeur général de l'Agence du médicament, sur
 proposition du président de la commission.
 
 Ces rapporteurs peuvent être appelés à siéger à la commission avec voix
 consultative.
 
-Des groupes de travail peuvent être créés par le directeur de la pharmacie et du
-médicament, sur proposition du président, notamment en vue de préparer les avis
-de la commission.
+Des groupes de travail peuvent être créés par le directeur général de l'Agence
+du médicament, sur proposition du président, notamment en vue de préparer les
+avis de la commission.
 
-La commission se réunit sur convocation de son président ou du ministre de la
-santé.
+La commission se réunit sur convocation de son président ou du directeur général
+de l'Agence du médicament.
 
 Les délibérations ne sont valables que si la moitié des membres de la commission
 sont présents.
@@ -33,5 +34,5 @@ partage des voix, celle du président est prépondérante.
 
 Les délibérations sont secrètes.
 
-Le secrétariat de la commission et des groupes de travail est assuré par la
-direction de la pharmacie et du médicament.
+Le secrétariat de la commission et des groupes de travail est assuré par
+l'Agence du médicament.

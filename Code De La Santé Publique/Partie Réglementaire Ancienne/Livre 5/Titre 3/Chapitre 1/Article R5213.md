@@ -2,11 +2,12 @@ Article R5213
 ----
 Il est interdit de prescrire des médicaments classés comme stupéfiants pour un
 traitement d'une durée supérieure à sept jours. Pour certains médicaments
-désignés par arrêté du ministre chargé de la santé [*autorité compétente*],
-cette durée peut être portée à soit à quatorze, soit à vingt-huit jours. Une
-telle ordonnance ne peut être exécutée, selon le cas, que pendant les sept,
-quatorze ou vingt-huit jours qui courent à compter de sa date d'établissement,
-et seulement pour la durée de la prescription restant à courir.
+désignés par arrêté du ministre chargé de la santé après avis du directeur
+général de l'Agence du médicament [*autorité compétente*], cette durée peut être
+portée à soit à quatorze, soit à vingt-huit jours. Une telle ordonnance ne peut
+être exécutée, selon le cas, que pendant les sept, quatorze ou vingt-huit jours
+qui courent à compter de sa date d'établissement, et seulement pour la durée de
+la prescription restant à courir.
 
 Il est de même interdit au praticien d'établir, et au pharmacien d'exécuter, une
 ordonnance comportant une prescription desdits médicaments au cours d'une

@@ -6,10 +6,10 @@ arrêté du ministre chargé de la santé et, d'une manière générale, toutes
 opérations agricoles, artisanales, commerciales et industrielles relatives à ces
 substances ou préparations.
 
-L'autorisation est donnée par le ministre chargé de la santé [*autorités
-compétentes*] et, en ce qui concerne les établissements de vente en gros ou de
-distribution en gros mentionnés aux articles L. 596 et L. 615, par le préfet de
-région après avis du pharmacien inspecteur régional de la santé.
+L'autorisation est donnée par le directeur général de l'Agence du médicament
+[*autorités compétentes*] et, en ce qui concerne les établissements de vente en
+gros ou de distribution en gros mentionnés aux articles L. 596 et L. 615, par le
+préfet de région après avis du pharmacien inspecteur régional de la santé.
 
 Par dérogation aux dispositions du premier alinéa, tiennent lieu d'autorisation,
 pour le seul usage professionnel :
@@ -18,7 +18,7 @@ pour le seul usage professionnel :
 pharmaciens titulaires d'une officine et les pharmaciens gérants des pharmacies
 mutualistes ;
 
-2° L'autorisation du préfet délivrée en application de l'article L. 577 ;
+2° L'autorisation du préfet délivrée en application de l'article L. 595-1 ;
 
 3° L'inscription au Conseil supérieur de l'ordre des vétérinaires pour les
 docteurs vétérinaires ;
@@ -26,8 +26,9 @@ docteurs vétérinaires ;
 4° La faculté accordée par l'article L. 610 aux chefs des services de pharmacie
 et toxicologie des écoles nationales vétérinaires.
 
-Toute modification de l'un des éléments mentionnés dans la demande rend caduque
-l'autorisation précédemment donnée. Le titulaire doit en informer le ministre et
-lui faire retour du document attestant l'autorisation.
-
 5° L'autorisation du préfet délivrée en application de l'article L. 594.
+
+Toute modification de l'un des éléments mentionnés dans la demande rend caduque
+l'autorisation précédemment donnée. Le titulaire doit en informer le directeur
+général de l'Agence du médicament et lui faire retour du document attestant
+l'autorisation.

@@ -3,9 +3,10 @@ Article R5133
 Par dérogation aux dispositions des articles R. 5128 et R. 5129 :
 
 a) Lorsque la demande porte sur une modification d'autorisation de mise sur le
-marché, le ministre chargé de la santé peut dispenser le demandeur de produire
-certaines des indications ou justifications exigées par les articles R. 5128 et
-R. 5129 s'il apparaît que celles-ci sont manifestement sans objet ;
+marché, le directeur général de l'Agence du médicament peut dispenser le
+demandeur de produire certaines des indications ou justifications exigées par
+les articles R. 5128 et R. 5129 s'il apparaît que celles-ci sont manifestement
+sans objet ;
 
 b) Lorsque la demande concerne une spécialité correspondant à une préparation
 figurant à la Pharmacopée française ou au formulaire national, le demandeur peut

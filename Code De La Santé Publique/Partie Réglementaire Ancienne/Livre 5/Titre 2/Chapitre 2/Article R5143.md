@@ -81,10 +81,11 @@ b) Le numéro du lot de fabrication et la date de péremption et, sauf dérogati
 accordées par le ministre chargé de la santé, la composition quantitative en
 principes actifs et la voie d'administration.
 
-5° Des arrêtés du ministre chargé de la santé détermineront, s'il y a lieu, les
-conditions particulières d'application du présent article en ce qui concerne
-notamment les mentions à porter sur le conditionnement des spécialités
-pharmaceutiques destinées aux établissements hospitaliers et les signes
-distinctifs à faire figurer sur le conditionnement ou l'étiquette des
-médicaments lorsqu'il est nécessaire de signaler à l'attention des utilisateurs
-des précautions d'emploi à respecter.
+5° Des arrêtés du ministre chargé de la santé détermineront, s'il y a lieu, sur
+proposition du directeur général de l'Agence du médicament, les conditions
+particulières d'application du présent article en ce qui concerne notamment les
+mentions à porter sur le conditionnement des spécialités pharmaceutiques
+destinées aux établissements hospitaliers et les signes distinctifs à faire
+figurer sur le conditionnement ou l'étiquette des médicaments lorsqu'il est
+nécessaire de signaler à l'attention des utilisateurs des précautions d'emploi à
+respecter.

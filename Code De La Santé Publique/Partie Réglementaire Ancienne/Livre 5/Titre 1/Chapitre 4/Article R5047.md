@@ -5,9 +5,10 @@ auprès du public relative à des médicaments dont la délivrance n'est pas
 obligatoirement soumise à prescription médicale, en application du titre III du
 livre V du présent code, et qui ne sont pas remboursés par les organismes de
 sécurité sociale, en application des articles R. 163-1 à R. 163-12 du code de la
-sécurité sociale, ainsi que la publicité relative aux produits et objets
-mentionnés aux deuxième et troisième alinéas de l'article L. 551 sont soumises à
-une autorisation du ministre chargé de la santé dénommée visa de publicité et
+sécurité sociale, ainsi que la publicité relative aux produits mentionnés au
+deuxième alinéa de l'article L. 551 sont soumises à une autorisation du ministre
+chargé de la santé ou, dans le cas mentionné au 1° de l'article R. 5045-2, du
+directeur général de l'Agence du médicament dénommée visa de publicité et
 délivrée après avis de la commission chargée du contrôle de la publicité et de
 la diffusion de recommandations sur le bon usage des médicaments. Ce visa est
 réputé acquis au terme d'un délai d'un mois après l'avis de ladite commission.

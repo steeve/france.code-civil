@@ -15,5 +15,5 @@ application des lois et règlements en vigueur.
 
 Les mentions qui figurent sur les conditionnements, récipients, prospectus et
 notices et qui sont dispensées de visa de publicité doivent faire l'objet d'un
-dépôt auprès du ministre chargé de la santé. Toute modification apportée à ces
+dépôt auprès de l'Agence du médicament. Toute modification apportée à ces
 mentions doit suivre la même procédure.

@@ -2,13 +2,14 @@ Article R5141
 ----
 La commission mentionnée à l'article R. 5140 comprend [*composition*]:
 
-1° Trois [*nombre*] membres de droit :
+1° Trois membres de droit :
 
-Le directeur de la pharmacie et du médicament ou son représentant Le directeur
-général de l'Institut national de la santé et de la recherche médicale ou son
-représentant ;
+- le directeur général de la santé ou son représentant ;
 
-Le directeur général du Laboratoire national de la santé ou son représentant ;
+- le directeur général de l'Agence du médicament ou son représentant ;
+
+- le directeur général de l'Institut national de la santé et de la recherche
+médicale ou son représentant ;.
 
 2° Cinq membres représentant les commissions instituées auprès du ministre
 chargé de la santé et compétentes en matière de médicament :

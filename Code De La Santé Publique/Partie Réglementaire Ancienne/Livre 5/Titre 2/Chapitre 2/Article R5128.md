@@ -1,7 +1,7 @@
 Article R5128
 ----
 Toute demande d'autorisation de mise sur le marché doit être adressée au
-ministère chargé de la santé. Elle mentionne [*contenu*] :
+directeur général de l'Agence du médicament. Elle mentionne [*contenu*] :
 
 a) Le nom et l'adresse du responsable de la mise sur le marché et, lorsque
 celui-ci ne fabrique pas la spécialité pharmaceutique, le nom et l'adresse du

@@ -5,8 +5,9 @@ saisi d'un appel contre la décision, le président du conseil national en infor
 dans les quinze jours le conseil qui s'est prononcé en première instance.
 
 Ce dernier, quinze jours après en avoir été avisé, adresse la décision au préfet
-par l'intermédiaire du directeur départemental de la santé (inspection de la
-pharmacie) en lui demandant d'en assurer l'exécution s'il y a lieu.
+en lui demandant d'en assurer l'exécution s'il y a lieu. Dans le cas d'un
+établissement relevant du contrôle de l'Agence du médicament, le président du
+conseil national en informe celle-ci.
 
 Un arrêté préfectoral, pris sur proposition du directeur départemental de la
 santé après avis de l'inspecteur de la pharmacie, fixe la date de départ de

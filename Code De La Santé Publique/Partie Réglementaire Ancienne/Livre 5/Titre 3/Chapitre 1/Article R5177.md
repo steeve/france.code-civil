@@ -12,8 +12,8 @@ suite, sur le registre spécial prévu à l'article R. 5176 :
 
 4° La mention des pertes résultant de ces opérations.
 
-Décharge de ces pertes est donnée sur ce registre par les pharmaciens
-inspecteurs de la santé, si elles leur paraissent résulter normalement des
+Décharge de ces pertes est donnée sur ce registre par les inspecteurs de
+l'Agence du médicament, si elles leur paraissent résulter normalement des
 transformations ou manipulations déclarées.
 
 Ce registre spécial doit être conservé dix ans [*durée*] à compter de la date de

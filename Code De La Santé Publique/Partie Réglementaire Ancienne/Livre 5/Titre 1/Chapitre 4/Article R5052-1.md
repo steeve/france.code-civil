@@ -25,8 +25,8 @@ marché ou, le cas échéant, du fabricant ;
 7° La ou les propriétés pharmacologiques essentielles ;
 
 8° Les indications thérapeutiques et les contre-indications éventuelles, fixées
-par l'autorisation de mise sur le marché et toute autre décision ministérielle
-ultérieure les concernant ;
+par l'autorisation de mise sur le marché et toute autre décision ultérieure de
+l'autorité administrative les concernant ;
 
 9° Le mode d'emploi et la posologie ;
 

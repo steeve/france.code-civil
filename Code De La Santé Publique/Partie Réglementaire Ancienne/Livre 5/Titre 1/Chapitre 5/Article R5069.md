@@ -1,10 +1,11 @@
 Article R5069
 ----
-Le service central de la pharmacie qui reçoit échantillons et procès-verbaux les
-enregistre, inscrit le numéro d'entrée sur les deux parties de l'étiquette que
-porte chaque échantillon et transmet dans les plus courts délais un de ces
-échantillons au laboratoire compétent. Les échantillons à comparer doivent être
-adressés au même laboratoire. Le talon seul suit l'échantillon au laboratoire.
+Lorsqu'il reçoit les échantillons et les procès-verbaux, le ministre chargé de
+la santé ou le directeur général de l'Agence du médicament les enregistre,
+inscrit le numéro d'entrée sur les deux parties de l'étiquette que porte chaque
+échantillon et transmet dans les plus courts délais un de ces échantillons au
+laboratoire compétent. Les échantillons à comparer doivent être adressés au même
+laboratoire. Le talon seul suit l'échantillon au laboratoire.
 
 Le volant, préalablement détaché, est annexé au procès-verbal. Les deux autres
 échantillons ou, dans le cas prévu par le deuxième alinéa de l'article R. 5066,

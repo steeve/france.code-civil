@@ -11,8 +11,8 @@ Les pharmaciens membres d'une société pharmaceutique ne sauraient considérer
 leur appartenance à la société comme les dispensant, à titre personnel, de leurs
 obligations.
 
-Les pharmaciens fonctionnaires qui exercent une activité pharmaceutique motivant
-leur inscription à l'un des tableaux de l'ordre restent soumis pour cette
-activité à la juridiction de l'ordre. Ils ne peuvent être traduits en chambre de
-discipline que sur la demande ou avec l'accord des autorités administratives
-dont ils relèvent.
+Les pharmaciens exerçant des missions de service public qui exercent une
+activité pharmaceutique motivant leur inscription à l'un des tableaux de l'ordre
+restent soumis pour cette activité à la juridiction de l'ordre. Ils ne peuvent
+être traduits en chambre de discipline que sur la demande ou avec l'accord des
+autorités administratives dont ils relèvent.

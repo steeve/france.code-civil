@@ -13,9 +13,11 @@ par un pharmacien qu'il désigne et qui s'engage par écrit à assurer ledit
 remplacement. Ce remplaçant peut être l'un des pharmaciens assistants.
 
 Si le remplacement prévu à l'alinéa précédent dépasse quinze jours, l'intéressé
-doit faire connaître, par lettre recommandée, au pharmacien inspecteur régional
-de la santé et au président du conseil central dont il relève les nom, adresse
-et qualité du pharmacien qui le remplace.
+doit faire connaître, par lettre recommandée, au directeur général de l'Agence
+du médicament ou au pharmacien inspecteur régional de la santé, selon que
+l'établissement relève du 1° ou du 2° de l'article R. 5108, ainsi qu'au
+président du conseil central dont il relève les nom, adresse et qualité du
+pharmacien qui le remplace.
 
 Quand le remplacement dépasse trois mois, il ne peut être assuré que par un
 pharmacien inscrit à la section D de l'ordre des pharmaciens et dont le diplôme
@@ -28,5 +30,7 @@ assuré dans les conditions ci-après fixées :
 L'organe social compétent désigne un pharmacien responsable intérimaire qui doit
 satisfaire aux mêmes conditions que le titulaire et qui est appelé à participer
 à la gestion ou à la direction générale de la société pendant la durée de son
-intérim. Ce pharmacien est choisi de préférence parmi les pharmaciens ou
-pharmaciens assistants de la société.
+intérim.
+
+Ce pharmacien est choisi de préférence parmi les pharmaciens ou pharmaciens
+assistants de la société.

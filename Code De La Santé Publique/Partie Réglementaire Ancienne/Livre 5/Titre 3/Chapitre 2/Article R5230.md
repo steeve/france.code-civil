@@ -14,7 +14,9 @@ Un représentant du ministre chargé des installations classées ;
 
 Un représentant du ministre de l'intérieur ;
 
-Deux représentants du ministre chargé de la santé ;
+Un représentant du ministre chargé de la santé ;
+
+Un représentant de l'Agence du médicament ;
 
 Un représentant du ministre chargé du travail ;
 

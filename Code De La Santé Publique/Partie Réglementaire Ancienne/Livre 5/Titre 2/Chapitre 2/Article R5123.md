@@ -3,7 +3,8 @@ Article R5123
 Les médicaments ou produits soumis à l'essai et les éventuels médicaments de
 référence ou produits de référence ou placebos doivent être préparés selon les
 bonnes pratiques de fabrication dont les principes sont fixés par arrêté du
-ministre chargé de la santé.
+ministre chargé de la santé sur proposition du directeur général de l'Agence du
+médicament.
 
 L'étiquetage de ces médicaments ou produits comporte [*mentions obligatoires*] :
 

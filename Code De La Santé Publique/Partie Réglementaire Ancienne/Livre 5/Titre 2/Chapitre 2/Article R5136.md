@@ -1,6 +1,6 @@
 Article R5136
 ----
-Le ministre chargé de la santé publique [*autorité compétente*] refuse
+Le directeur général de l'Agence du médicament [*autorité compétente*] refuse
 l'autorisation de mise sur le marché [*motifs*] :
 
 a) Si la documentation et les renseignements fournis à l'appui de la demande ne

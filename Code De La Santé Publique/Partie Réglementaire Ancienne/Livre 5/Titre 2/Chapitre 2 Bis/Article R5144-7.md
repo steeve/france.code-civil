@@ -16,7 +16,7 @@ autres établissements d'hospitalisation, ou, à titre individuel, notamment par
 des pharmaciens et des infirmières ou infirmiers ;
 
 4° De conduire les enquêtes et travaux demandés par le ministre chargé de la
-santé ;
+santé ou par le directeur général de l'Agence du médicament ;
 
 5° De contribuer au développement de l'information en matière de
 pharmacovigilance ;

@@ -17,11 +17,12 @@ a) Les articles de pansement et de suture chirurgicale ;
 
 b) Les médicaments utilisés en diagnostic médical, en anesthésie, en
 allergologie ou d'usage dentaire dont la liste sera établie par arrêté du
-ministre de la santé publique et de la population ;
+ministre chargé de la santé sur proposition du directeur général de l'Agence du
+médicament ;
 
 3° A ce que ces mêmes établissements fournissent aux services ou centres
 procédant à des vaccinations collectives les produits nécessaires à ces
-vaccinations, sur commande écrite du médecin responsable.
+vaccinations, sur commande écrite du médecin responsable ;
 
 4° A ce que les mêmes établissements fournissent aux centres de planification ou
 d'éducation familiale sur commande écrite du pharmacien du centre ou du médecin

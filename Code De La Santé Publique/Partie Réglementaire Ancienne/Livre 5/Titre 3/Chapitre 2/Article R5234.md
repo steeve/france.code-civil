@@ -8,9 +8,10 @@ L'autorisation [*de détention*] sans laquelle, en vertu de l'article L. 632 du
 présent code, aucune personne physique ou morale autre que le Commissariat à
 l'énergie atomique ne peut préparer, importer ou exporter, sous quelque forme
 que ce soit, des radio-éléments artificiels est accordée par le ministre chargé
-de la santé, après avis de la première section de la commission
-interministérielle des radio-éléments artificiels prévue à l'article L. 633
-[*autorité compétente*].
+de la santé ou, pour les médicaments et les produits énumérés au premier alinéa
+de l'article L. 601 par le directeur général de l'Agence du médicament, après
+avis de la première section de la commission interministérielle des
+radio-éléments artificiels prévue à l'article L. 633 [*autorité compétente*].
 
 Sont soumises à autorisation, laquelle est accordée ainsi qu'il est dit
 ci-dessus :

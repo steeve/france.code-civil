@@ -5,7 +5,7 @@ recommandations sur le bon usage des médicaments est composée de :
 
 1. Sept membres de droit :
 
-a) Le directeur de la pharmacie et du médicament ou son représentant ;
+a) Le directeur général de l'Agence du médicament ou son représentant ;
 
 b) Le directeur général de la santé ou son représentant ;
 

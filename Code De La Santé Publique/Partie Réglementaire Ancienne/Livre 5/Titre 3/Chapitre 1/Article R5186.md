@@ -3,8 +3,8 @@ Article R5186
 Les personnes qui se livrent à la fabrication, à la transformation et au
 commerce intérieur et international des substances psychotropes et de leurs
 préparations sont tenues [*obligation*] de mentionner sur un registre ou par
-tout système approprié d'enregistrement approuvé par le ministre chargé de la
-santé [*autorité compétente*]:
+tout système approprié d'enregistrement approuvé par le directeur général de
+l'Agence du médicament [*autorité compétente*]:
 
 1° La nature et la quantité de substances psychotropes ou de leurs préparations
 employées ;
@@ -28,6 +28,7 @@ présentés à toute réquisition des autorités compétentes.
 
 Les industriels et grossistes qui se livrent à l'exportation des substances et
 préparations psychotropes figurant sur une liste fixée par arrêté du ministre
-chargé de la santé doivent déclarer préalablement chaque expédition à cette
-autorité. Un arrêté du même ministre détermine les modalités de cette
-déclaration.
+chargé de la santé sur proposition du directeur général de l'Agence du
+médicament doivent déclarer préalablement chaque expédition à cette autorité. Un
+arrêté du même ministre pris sur proposition du directeur général de l'Agence du
+médicament détermine les modalités de cette déclaration.

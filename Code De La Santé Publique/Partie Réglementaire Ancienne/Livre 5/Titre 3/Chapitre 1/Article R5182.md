@@ -7,10 +7,11 @@ ou donnent lieu à la formation de stupéfiants au cours de leur fabrication ou,
 en raison d'usages abusifs, peuvent nécessiter un contrôle à certains stades de
 leur commercialisation.
 
-Le ministre chargé de la santé [*autorité compétente*] fixe par arrêté, pour
-chacune de ces substances, les dispositions du présent paragraphe qui leur sont
-applicables.
+Le ministre chargé de la santé [*autorité compétente*] fixe par arrêté pris sur
+proposition du directeur général de l'Agence du médicament, pour chacune de ces
+substances, les dispositions du présent paragraphe qui leur sont applicables.
 
 Une commission dite des stupéfiants et des psychotropes formule un avis sur
-toute question que lui soumet le ministre chargé de la santé concernant
-l'application des dispositions du présent paragraphe.
+toute question que lui soumet le ministre chargé de la santé ou le directeur
+général de l'Agence du médicament concernant l'application des dispositions du
+présent paragraphe.

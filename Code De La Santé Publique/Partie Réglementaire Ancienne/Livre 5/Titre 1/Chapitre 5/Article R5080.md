@@ -5,4 +5,4 @@ laboratoire, l'auteur présumé de la fraude ou de la falsification est avisé p
 le procureur de la République qu'il peut prendre communication du rapport du
 laboratoire et qu'un délai de trois jours francs lui est imparti pour présenter
 ses observations et pour faire connaître s'il réclame l'expertise contradictoire
-prévue par l'article 12 de la loi du 1er août 1905.
+prévue par l'article L. 215-9 du code de la consommation.

@@ -7,5 +7,6 @@ consigne, avec les mentions prévues à l'article R. 5062, toutes les
 circonstances de nature à établir devant l'autorité judiciaire la valeur des
 constatations faites. Ce procès-verbal est envoyé par l'inspecteur, dans les
 vingt-quatre heures, au procureur de la République. Copie dudit acte est
-transmise au ministre de la santé publique et de la population sous couvert de
-l'inspecteur divisionnaire de la santé.
+transmise, selon le cas, au directeur général de l'Agence du médicament ou, sous
+couvert du directeur régional des affaires sanitaires et sociales, au ministre
+chargé de la santé.

@@ -9,3 +9,6 @@ de la présente section.
 Des arrêtés conjoints du garde des sceaux, ministre de la justice, du ministre
 de la santé publique et de la population et du ministre de l'industrie
 déterminent les modalités d'application des articles R. 5113-1 et R. 5113-2.
+
+Lorsque les établissements relèvent du contrôle de l'Agence du médicament, ces
+arrêtés sont pris après avis du directeur général de l'agence.

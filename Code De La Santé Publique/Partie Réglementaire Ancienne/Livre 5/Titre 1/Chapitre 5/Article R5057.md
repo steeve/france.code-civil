@@ -1,12 +1,13 @@
 Article R5057
 ----
-Pour l'application de l'article L. 564, les inspecteurs de la pharmacie peuvent,
-concurremment avec tous officiers de police judiciaire, procéder aux recherches,
-opérer d'office des prélèvements d'échantillons et, s'il y a lieu, effectuer des
-saisies dans les établissements visés à l'article R. 5056, les dépôts de remèdes
-tenus par les vétérinaires et, en général, dans tous les lieux où sont
-fabriqués, entreposés et mis en vente des produits médicamenteux hygiéniques ou
-toxiques.
+Pour l'application de l'article L. 564, les inspecteurs de la pharmacie et les
+inspecteurs de l'Agence du médicament peuvent, dans la limite de leurs
+compétences respectives, concurremment avec tous officiers de police judiciaire,
+procéder aux recherches, opérer d'office des prélèvements d'échantillons et,
+s'il y a lieu, effectuer des saisies dans les établissements visés à l'article
+R. 5056, les dépôts de remèdes tenus par les vétérinaires et, en général, dans
+tous les lieux où sont fabriqués, entreposés et mis en vente des produits
+médicamenteux hygiéniques ou toxiques.
 
 Ces prélèvements peuvent être effectués notamment dans des laboratoires et leurs
 dépendances, magasins, boutiques, ateliers, véhicules servant au commerce, lieux
