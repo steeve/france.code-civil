@@ -1,11 +1,12 @@
 Article R*131-14
 ----
 Les auditeurs à la Cour de cassation exercent des attributions administratives
-auprès de la Cour de cassation.
+auprès de la Cour de cassation, notamment au sein du service de documentation et
+d'études.
 
 Ils participent aux travaux d'aide à la décision tels que définis par le premier
-président ainsi qu'à ceux du service de documentation et d'études, notamment en
-ce qui concerne l'informatique.
+président, notamment en ce qui concerne le traitement automatisé de données
+jurisprudentielles.
 
 Ils peuvent assister aux audiences des chambres.
 
