@@ -6,5 +6,5 @@ de sécurité des engagements relatives notamment à la constitution de provisio
 techniques, applicables aux caisses autonomes mutualistes.
 
 Ce décret fixe également les conditions dans lesquelles les caisses sont tenues
-de se réassurer auprès d'autres caisses autonomes mutualistes ou de la caisse
-nationale de prévoyance.
+de se réassurer auprès d'autres caisses autonomes mutualistes ou d'organismes
+pratiquant la réassurance.

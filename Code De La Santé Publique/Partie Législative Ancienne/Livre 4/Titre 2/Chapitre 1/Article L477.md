@@ -21,6 +21,10 @@ d'infirmier ou d'infirmière à la date de la publication de la loi n° 80-527 d
 mais seulement dans les établissements ou services agréés pour l'accomplissement
 des stages.
 
+3° Aux élèves officiers et officiers de la marine marchande pendant la durée de
+leur stage de formation sanitaire effectué dans des établissements ou services
+agréés par le ministre chargé de la santé.
+
 La date et les modalités de la cessation des régimes dérogatoires visés dans le
 présent article seront fixées par décret pris sur le rapport du ministre de la
 Santé publique et de la Population.

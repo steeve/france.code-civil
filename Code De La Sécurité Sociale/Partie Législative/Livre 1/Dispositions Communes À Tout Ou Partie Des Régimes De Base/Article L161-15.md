@@ -16,12 +16,15 @@ moment de la mention du divorce en marge de l'acte de mariage ou de la
 transcription du jugement de divorce. Cette durée est prolongée jusqu'à ce que
 le dernier enfant à charge ait atteint un âge fixé par décret en Conseil d'Etat.
 
-Les personnes visées aux deux premiers alinéas du présent article continuent de
-bénéficier pour elles-mêmes et leurs ayants droit, à compter d'un âge déterminé,
-des prestations en nature du dernier régime obligatoire d'assurance maladie et
-maternité dont elles ont relevé, lorsqu'elles ont ou ont eu à leur charge, au
-sens de l'article L. 313-3, un nombre d'enfants fixé par décret en Conseil
-d'Etat.
+A l'expiration des périodes de maintien de droits prévues aux premier et
+deuxième alinéas, lorsqu'elles ont ou ont eu à leur charge au sens de l'article
+L. 313-3 un nombre d'enfants fixé par décret en Conseil d'Etat, les personnes
+visées aux deux premiers alinéas qui ne bénéficient pas de l'assurance maladie
+et maternité à un autre titre sont obligatoirement affiliées au régime général
+de sécurité sociale en ce qui concerne la couverture des prestations en nature
+de l'assurance maladie et maternité. Les cotisations afférentes sont prises en
+charge par le régime des prestations familiales dans les conditions prévues à
+l'article L. 381-2.
 
 Le conjoint séparé de droit ou de fait, ayant droit de son époux, qui se trouve,
 du fait du défaut de présentation par celui-ci des justifications requises, dans

@@ -16,4 +16,4 @@ par application de l'article L. 162-21 du code de la sécurité sociale.
 L'autorisation de dispenser des soins remboursables aux assurés sociaux peut
 être refusée lorsque le prix prévu est hors de proportion avec les conditions de
 fonctionnement du service, eu égard aux conditions techniques de fonctionnement
-fixées en application de l'article L. 712-19.
+fixées en application de l'article L. 712-9.

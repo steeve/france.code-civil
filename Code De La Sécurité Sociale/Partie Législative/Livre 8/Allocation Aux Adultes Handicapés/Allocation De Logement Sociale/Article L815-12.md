@@ -10,7 +10,7 @@ son décès, la qualité d'exploitant agricole et que sa succession est constitu
 en tout ou partie, par un capital d'exploitation : terres, cheptel mort ou vif,
 bâtiments d'exploitation, éléments végétaux constituant le support permanent de
 la production, tels que arbres fruitiers, vignes, etc., ce capital n'est retenu,
-pour l'application de l'alinéa précédent, que pour 70 p. 100 de sa valeur
+pour l'application de l'alinéa précédent, que pour 50 p. 100 de sa valeur
 [*pourcentage*].
 
 Le recouvrement est effectué par les organismes ou services payeurs de

@@ -17,4 +17,9 @@ ou d'un établissement public ;
 5° Un organisme mutualiste ou de sécurité sociale ;
 
 6° Un organisme à but non lucratif reconnu d'utilité publique ou bénéficiant
-d'une autorisation donnée par le ministère de la santé.
+d'une autorisation donnée par le ministère de la santé ;
+
+7° Une société d'exercice libéral à responsabilité limitée, une société
+d'exercice libéral à forme anonyme ou une société d'exercice libéral en
+commandite par actions dans les conditions prévues par la loi n° 90-1258 du 31
+décembre 1990.

@@ -17,3 +17,9 @@ Toutefois, lorsque les deux conjoints assurés sociaux travaillent, l'indemnité
 journalière de repos est accordée, dans les conditions prévues aux alinéas
 précédents, à la mère ou au père adoptif ; l'un des conjoints doit alors avoir
 renoncé à son droit.
+
+La période d'indemnisation prévue aux premier et deuxième alinéas peut faire
+l'objet d'une répartition entre la mère et le père adoptifs lorsque l'un et
+l'autre ont vocation à bénéficier de l'indemnité journalière de repos. La
+période d'indemnisation ne pourra pas être fractionnée en plus de deux parties,
+dont la plus courte ne pourra être inférieure à quatre semaines.

@@ -65,9 +65,41 @@ titre de l'année 1991 seront calculées sur la base de la moyenne des revenus d
 années 1988 et 1989.
 
 VI. - Par dérogation aux dispositions du premier alinéa du II du présent
-article, les chefs d'exploitation ou d'entreprise agricole âgés de plus de
-cinquante-cinq ans peuvent, dans des conditions fixées par décret, opter jusqu'à
-la date de liquidation de leur retraite pour une assiette de cotisations
-constituée de leurs revenus professionnels tels que définis au présent article
-et afférents à l'année précédant celle au titre de laquelle les cotisations sont
-dues.
+article, les chefs d'exploitation ou d'entreprise agricole peuvent, dans des
+conditions fixées par décret, opter pour une assiette de cotisations constituée
+de leurs revenus professionnels tels que définis au présent article et afférents
+à l'année précédant celle au titre de laquelle les cotisations sont dues.
+
+Au cours de la première année où ladite option prend effet, l'assiette des
+cotisations est constituée par la moyenne des revenus professionnels tels que
+définis au présent article et afférents aux deux années précédant celle au titre
+de laquelle les cotisations sont dues. Les dispositions du présent alinéa ne
+sont pas applicables aux chefs d'exploitation ou d'entreprise agricole qui ont
+effectué l'option prévue ci-dessus lors de leur affiliation au régime de
+protection sociale des membres non salariés des professions agricoles.
+
+L'assiette des cotisations est déterminée forfaitairement dans des conditions
+fixées par décret lorsque la durée de l'assujettissement ne permet pas de
+calculer les revenus professionnels servant de base aux cotisations.
+
+Un décret détermine les conditions d'application des dispositions ci-dessus,
+notamment le délai minimal dans lequel les chefs d'exploitation ou d'entreprise
+doivent formuler l'option préalablement à sa prise d'effet, la durée minimale de
+validité de celle-ci, les conditions de sa reconduction et de sa dénonciation.
+Pour 1993, l'option doit être formulée au plus tard le 31 mars 1993.
+
+En cas de dénonciation de l'option, l'assiette des cotisations est constituée :
+
+- la première année au cours de laquelle la dénonciation prend effet par les
+revenus professionnels tels que définis au présent article et se rapportant à
+l'avant-dernière année précédant celle au titre de laquelle les cotisations sont
+dues ;
+
+- et l'année suivante pour ces revenus professionnels se rapportant aux deux
+années antérieures à l'année précédant celle au titre de laquelle les
+cotisations sont dues.
+
+Le chef d'exploitation ou d'entreprise peut ultérieurement exercer l'option
+prévue par le présent paragraphe une seule fois à l'issue d'une période minimale
+à compter de la dénonciation dont la durée est fixée par le décret prévu
+ci-dessus.

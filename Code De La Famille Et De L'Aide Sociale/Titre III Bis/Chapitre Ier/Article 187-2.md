@@ -10,10 +10,15 @@ loi n° 88-1088 du 1er décembre 1988 ;
 de ressources et de résidence en France fixées par cette loi pour l'attribution
 du revenu minimum d'insertion.
 
-II. - En outre, les personnes mentionnées au 1° du I bénéficient de plein droit
-de l'aide médicale pour la part laissée à leur charge, en application des
-articles L. 322-2 et L. 741-9 du code de la sécurité sociale, ainsi que pour le
-forfait journalier, institué par l'article L. 174-4 du même code.
+3° Les personnes titulaires de l'allocation de veuvage qui n'ont pas droit à un
+titre quelconque aux prestations en nature d'un régime obligatoire d'assurance
+maladie-maternité.
+
+II. - En outre, les personnes mentionnées au 1° et au 3° du I bénéficient de
+plein droit de l'aide médicale pour la part laissée à leur charge, en
+application des articles L. 322-2 et L. 741-9 du code de la sécurité sociale,
+ainsi que pour le forfait journalier, institué par l'article L. 174-4 du même
+code.
 
 III. - Les règles relatives à l'obligation alimentaire ne sont pas mises en jeu
 pour les prestations d'aide médicale prises en charge au titre du présent

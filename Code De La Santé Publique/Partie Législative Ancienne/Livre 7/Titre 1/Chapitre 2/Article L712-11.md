@@ -5,11 +5,11 @@ Par dérogation aux dispositions des 1° et 2° de l'article L. 712-9, lorsque d
 les moyens sont excédentaires dans la ou les disciplines en cause demandent
 l'autorisation de se regrouper ou de se reconvertir au sein de cette zone,
 l'autorisation peut être accordée à condition d'être assortie d'une réduction de
-capacité des établissements regroupés ; les modalités de cette réduction sont
-définies par décret en tenant compte des excédents existant dans la zone
-considérée et dans la limite d'un plafond. En cas d'établissements
-multidisciplinaires, le regroupement par discipline entre plusieurs
-établissements est autorisé dans les mêmes conditions.
+capacité des établissements ; les modalités de cette réduction sont définies par
+décret en tenant compte des excédents existant dans la zone considérée et dans
+la limite d'un plafond. En cas d'établissements multidisciplinaires, le
+regroupement par discipline entre plusieurs établissements est autorisé dans les
+mêmes conditions.
 
 Ces dispositions ne sont pas applicables aux cessions d'établissements ne
 donnant pas lieu à une augmentation de capacité ou à un regroupement

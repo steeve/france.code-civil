@@ -7,7 +7,7 @@ règles ci-après [*obligation*] :
 1° Les actions des sociétés anonymes doivent revêtir la forme nominative ;
 
 2° Les trois quarts au moins [*pourcentage*] du capital social doivent être
-détenus par les directeurs et directeurs adjoints du laboratoire ;
+détenus par le ou les directeurs et directeurs adjoints du laboratoire ;
 
 3° Les associés ne peuvent être que des personnes physiques, à l'exclusion de
 celles exerçant une activité médicale autre que les fonctions de directeur ou

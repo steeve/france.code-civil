@@ -8,3 +8,7 @@ ne peuvent être pratiqués que par un médecin.
 
 Le nombre et la nature des examens obligatoires ainsi que les périodes au cours
 desquelles ils doivent intervenir sont déterminés par voie réglementaire.
+
+A l'occasion du premier examen prénatal, après information sur les risques de
+contamination, un test de dépistage de l'infection par le virus de
+l'immuno-déficience humaine est proposé à la femme enceinte [*SIDA*].

@@ -34,6 +34,6 @@ commun.
 
 A partir de la date à laquelle un travailleur a cessé d'être exposé à l'action
 des agents nocifs inscrits aux tableaux susmentionnés, la caisse primaire et la
-caisse régionale ne prennent en charge, en vertu des dispositions du présent
-titre, les maladies correspondant à ces travaux que pendant le délai fixé à
-chaque tableau.
+caisse régionale ne prennent en charge, en vertu des dispositions du deuxième
+alinéa de l'article L. 461-1, les maladies correspondant à ces travaux que
+pendant le délai fixé à chaque tableau.

@@ -9,4 +9,4 @@ organismes de sécurité sociale.
 
 Ils peuvent alors demander à bénéficier des services communs gérés par le
 syndicat interhospitalier du lieu de leur implantation. L'autorisation est
-accordée selon les modalités prévues à l'article L. 713-4.
+accordée selon les modalités prévues à l'article L. 713-10.

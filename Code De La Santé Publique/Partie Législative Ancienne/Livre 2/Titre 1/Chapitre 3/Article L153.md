@@ -8,3 +8,7 @@ réglementaire.
 
 Une brochure d'éducation sanitaire doit être remise à chacun des futurs
 conjoints en même temps que le certificat médical.
+
+A l'occasion de l'examen médical prénuptial, après information sur les risques
+de contamination, un test de dépistage de l'infection par le virus de
+l'immuno-déficience humaine est proposé aux futurs conjoints [*SIDA*].

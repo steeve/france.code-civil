@@ -17,3 +17,12 @@ l'agglomération.
 Le maire peut, par arrêté motivé, réserver des emplacements sur ces mêmes voies
 pour faciliter la circulation et le stationnement des transports publics de
 voyageurs et des taxis.
+
+Le maire peut, par arrêté motivé, réserver sur la voie publique ou dans tout
+autre lieu de stationnement ouvert au public, des emplacements de stationnement
+aménagés aux véhicules arborant l'un ou l'autre des macarons Grand Invalide
+civil (G.I.C.) ou Grand Invalide de guerre (G.I.G.).
+
+Le stationnement d'un véhicule n'arborant pas un macaron G.I.C. ou G.I.G. sur
+ces emplacements réservés est considéré comme gênant et constitue une infraction
+au sens de l'article R. 37-1 du code de la route.
