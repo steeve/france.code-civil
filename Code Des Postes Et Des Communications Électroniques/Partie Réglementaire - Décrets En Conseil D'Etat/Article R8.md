@@ -1,9 +1,8 @@
 Article R8
 ----
-Est interdit, pour toutes opérations effectuées sans l'intermédiaire de
-l'administration des postes et télécommunications, l'usage des formules mises à
-la disposition du public par cette administration ou d'imprimés reproduisant ou
-limitant lesdites formules [*infraction*].
+Est interdit pour toutes les opérations effectuées sans l'intermédiaire de La
+Poste l'usage des formules qu'elle met à la disposition du public ou d'imprimés
+reproduisant ou imitant lesdites formules.
 
 Est interdite également la distribution de tout document, de quelque nature
 qu'il soit, revêtu de vignettes, de timbres, d'empreintes ou de mentions lui
