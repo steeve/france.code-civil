@@ -2,10 +2,10 @@ Article 979
 ----
 Toute cession à titre onéreux entre deux personnes morales, ou entre une
 personne morale et une personne physique, portant sur la pleine propriété de
-valeurs mobilières admises à une cote officielle d'agents de change ou ayant
-figuré au relevé quotidien des valeurs non admises à une cote dans le mois
-précédant la date de l'opération doit être effectuée par l'intermédiaire d'un
-agent de change [*obligation*].
+valeurs mobilières admises à la cote officielle ou à la cote du second marché
+d'une bourse de valeurs ou ayant figuré au relevé quotidien des valeurs non
+admises à la cote dans le mois précédant la date de l'opération doit être
+effectuée par l'intermédiaire d'un agent de change [*obligation*].
 
 Toutefois ces dispositions ne sont pas applicables :
 

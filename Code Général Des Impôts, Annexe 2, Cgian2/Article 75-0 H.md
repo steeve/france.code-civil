@@ -1,11 +1,10 @@
 Article 75-0 H
 ----
 Les achats d'actions de sociétés françaises traitées sur le marché hors cote des
-bourses de valeurs, qui ne figurent pas au compartiment spécial, ouvrent droit
-au bénéfice de la détaxation lorsque ces actions sont inscrites sur une liste
-établie chaque année par arrêté du ministre de l'économie (1). L'arrêté prend
-effet à compter du 1er janvier de l'année suivant celle de sa publication
-[*date*].
+bourses de valeurs, ouvrent droit au bénéfice de la détaxation lorsque ces
+actions sont inscrites sur une liste établie chaque année par arrêté du ministre
+de l'économie (1). L'arrêté prend effet à compter du 1er janvier de l'année
+suivant celle de sa publication [*date*].
 
 Pour être inscrites, ces actions doivent, durant chacune des deux périodes
 successives de douze mois s'achevant le 30 septembre précédant la date
@@ -20,9 +19,13 @@ Pour l'application des deuxième et troisième alinéas sont retenus la fréquen
 des cotations et le volume des transactions enregistrés par la chambre syndicale
 des agents de change.
 
-Sauf inscription au compartiment spécial du hors-cote ou à la cote officielle,
-les actions sont maintenues sur la liste pendant les quatre années suivant celle
-de leur première inscription même si elles ne remplissent plus les conditions
-prévues ci-dessus.
+Sauf inscription au second marché (2) ou à la cote officielle, les actions sont
+maintenues sur la liste pendant les quatre années suivant celle de leur première
+inscription même si elles ne remplissent plus les conditions prévues ci-dessus.
 
-(1) Arrêté du 13 décembre 1978 (J.O. du 15).
+(1) Arrêtés des 16 décembre 1981 (JO N.C. du 19) et 24 décembre 1982 (JO N.C. du
+31).
+
+(2) Le second marché des bourses de valeurs a remplacé le compartiment spécial
+du marché hors cote des bourses de valeurs (loi n° 83-1 du 3 janvier 1983, art.
+47).

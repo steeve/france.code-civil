@@ -9,10 +9,12 @@ Les titres cotés sont évalués au cours moyen du dernier mois de l'exercice. L
 titres non cotés sont évalués à leur valeur probable de négociation.
 
 Les titres cotés s'entendent des valeurs inscrites à la cote officielle d'une
-bourse de valeurs ou qui figurent au compartiment spécial du hors-cote d'une
-bourse de valeurs françaises. Les plus-values ou moins-values résultant de cette
-estimation sont appréciées, pour chaque catégorie de titres de même nature, par
-rapport à la valeur d'origine globale de l'ensemble de ces titres.
+bourse de valeurs ou qui figurent à la cote du second marché d'une bourse de
+valeurs françaises.
+
+Les plus-values ou moins-values résultant de cette estimation sont appréciées,
+pour chaque catégorie de titres de même nature, par rapport à la valeur
+d'origine globale de l'ensemble de ces titres.
 
 Les plus-values ne sont pas comptabilisées; par contre, les moins-values sont
 inscrites au compte de provisions.
