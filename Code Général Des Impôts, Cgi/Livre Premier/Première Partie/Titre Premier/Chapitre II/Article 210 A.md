@@ -21,7 +21,7 @@ a. Elle doit reprendre à son passif :
 
 - d'autre part, la réserve spéciale où la société absorbée a porté les
 plus-values à long terme soumises antérieurement au taux réduit de 10 %, de 15
-%, de 19 % ou de 25 %.
+%, de 18 %, 19 % ou de 25 %.
 
 b. Elle doit se substituer à la société absorbée pour la réintégration des
 plus-values dont l'imposition avait été différée chez cette dernière.
@@ -53,7 +53,7 @@ différence entre la nouvelle valeur de ces éléments et la valeur qu'ils avaie
 du point de vue fiscal, dans les écritures de la société absorbée (1). "
 
 4. Par dérogation aux dispositions qui précèdent, la société absorbée peut opter
-pour l'imposition au taux réduit, prévue au a du I de l'article 219, de la
+pour l'imposition au taux réduit, prévue au a bis du I de l'article 219, de la
 plus-value à long terme globale, afférente à ses éléments amortissables. Dans ce
 cas, le montant des réintégrations définies au d du 3 est réduit à due
 concurrence (1). "

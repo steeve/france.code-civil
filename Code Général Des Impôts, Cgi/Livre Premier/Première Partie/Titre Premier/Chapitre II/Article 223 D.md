@@ -10,8 +10,8 @@ Les dispositions de l'article 39 quindecies sont applicables à la plus-value et
 à la moins-value nette à long terme d'ensemble.
 
 La plus-value nette à long terme d'ensemble fait l'objet d'une imposition
-séparée dans les conditions prévues au premier ou au quatrième alinéa du a du
-paragraphe I de l'article 219.
+séparée dans les conditions prévues au premier alinéa du a du I de l'article
+219.
 
 Le montant net d'impôt de la plus-value nette à long terme d'ensemble doit être
 porté, au bilan de la société mère, à la réserve spéciale prévue à l'article 209

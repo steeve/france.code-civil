@@ -1,13 +1,12 @@
 Article R*281-4
 ----
-Le chef de service [*trésorier-payeur général ou directeur des services
-fiscaux*] se prononce dans un délai de deux mois à partir du dépôt de la demande
-[*point de départ*], dont il doit accuser réception.
+Le chef de service se prononce dans un délai de deux mois à partir du dépôt de
+la demande, dont il doit accuser réception.
 
 Si aucune décision n'a été prise dans ce délai ou si la décision rendue ne lui
 donne pas satisfaction, le redevable doit, à peine de forclusion, porter
-l'affaire devant le tribunal compétent tel qu'il est défini à l'article L. 281.
-Il dispose pour cela de deux mois à partir :
+l'affaire devant le juge compétent tel qu'il est défini à l'article L. 281. Il
+dispose pour cela de deux mois à partir :
 
 a) soit de la notification de la décision du chef de service ;
 

@@ -11,19 +11,23 @@ leur habitation principale, sous réserve que les pièces louées constituent po
 le locataire ou le sous-locataire en meublé sa résidence principale, et que le
 prix de location demeure fixé dans des limites raisonnables;
 
-3° Sauf avis contraire du conseil général et dans des conditions qui sont fixées
-par décret, les personnes qui louent d'une façon saisonnière une partie de leur
-habitation personnelle, à titre de gîte rural (1);
+3° Sauf délibération contraire des collectivités territoriales et de leurs
+groupements dotés d'une fiscalité propre :
 
-4° Sur délibération du conseil municipal, les personnes qui louent en meublé des
-locaux classés dans les conditions prévues à l'article 58-I de la loi n° 65-997
-du 29 novembre 1965, lorsque ces locaux sont compris dans l'habitation
-personnelle du loueur. L'exonération accordée par le conseil municipal
-s'applique aux cotisations qui correspondent aux deux années civiles suivant
-celle au cours de laquelle la délibération est intervenue; elle est
-renouvelable. Le déclassement des locaux loués entraîne la déchéance de
-l'exonération (2).
+a) Les personnes qui louent tout ou partie de leur habitation personnelle à
+titre de gîte rural ;
 
-(1) Annexe III, art. 322 A à 322 F.
+b) Les personnes qui louent en meublé des locaux classés dans les conditions
+prévues au I de l'article 58 de la loi n° 65-997 du 29 novembre 1965, lorsque
+ces locaux sont compris dans leur habitation personnelle ;
 
-(2) Annexe IV, art. 121 quinquies DB.
+c) Les personnes autres que celles visées aux 1° et 2° du présent article ainsi
+qu'aux a et b ci-dessus, qui louent ou sous-louent en meublé tout ou partie de
+leur habitation personnelle.
+
+Les délibérations sont prises dans les conditions prévues à l'article 1639 A bis
+et portent sur la totalité de la part revenant à chaque collectivité ou
+groupement ; elles peuvent concerner une ou plusieurs des catégories de
+personnes énumérées ci-dessus.
+
+Les conditions d'application du a sont fixées par décret.

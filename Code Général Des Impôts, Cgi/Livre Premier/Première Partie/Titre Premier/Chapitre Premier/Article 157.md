@@ -15,6 +15,9 @@ par un organisme de placement collectif en valeurs mobilières visé par la loi 
 88-1201 du 23 décembre 1988 lorsque ces primes représentent plus de 10 p. 100 du
 montant de la distribution ou de la répartition.
 
+Ces dispositions ne sont pas applicables aux primes de remboursement définies au
+II de l'article 238 septies A.
+
 3° bis (Dispositions transférées sous le 3 °) ;
 
 4° Les pensions, prestations et allocations affranchies de l'impôt en vertu de
@@ -32,29 +35,27 @@ délivrance de la médaille d'honneur par le ministère des affaires sociales ;
 l'exception des intérêts des livrets supplémentaires ouverts dans les conditions
 prévues au décret n° 65-1158 du 24 décembre 1965 ;
 
-7° bis (Disposition périmée) ;
+7° bis. (Disposition périmée) ;
 
 7° ter La rémunération des sommes déposées sur les livrets d'épargne populaire
 ouverts dans les conditions prévues par la loi n° 82-357 du 27 avril 1982 ;
 
-8° (Devenu sans objet).
+8° (Devenu sans objet) 8° bis. Les intérêts des titres de l'emprunt 4 1/2 % 1973
+autorisé par la loi n° 73-965 du 16 octobre 1973, ainsi que les plus-values
+éventuelles de cession ou de remboursement de ces titres ;
 
-8° bis Les intérêts des titres de l'emprunt 4 1/2 % 1973 autorisé par la loi n°
-73-965 du 16 octobre 1973, ainsi que les plus-values éventuelles de cession ou
-de remboursement de ces titres ;
-
-8° ter Les plus-values éventuelles de cession ou de remboursement des titres de
+8° ter. Les plus-values éventuelles de cession ou de remboursement des titres de
 l'emprunt d'Etat 8,80 % 1977 autorisé par la loi n° 77-486 du 13 mai 1977 ;
 
 9° (Dispositions devenues sans objet) ;
 
-9° bis Les intérêts des sommes inscrites sur les comptes d'épargne-logement
+9° bis. Les intérêts des sommes inscrites sur les comptes d'épargne-logement
 ouverts en application des articles L 315-1 à L 315-6 du code de la construction
 et de l'habitation ainsi que la prime d'épargne versée aux titulaires de ces
 comptes ;
 
-9° ter Les intérêts versés au titulaire du compte d'épargne sur livret ouvert en
-application de l'article 80 de la loi n° 76-1232 du 29 décembre 1976 (3) :
+9° ter. Les intérêts versés au titulaire du compte d'épargne sur livret ouvert
+en application de l'article 80 de la loi n° 76-1232 du 29 décembre 1976 (3) :
 
 - aux travailleurs, salariés de l'artisanat, des ateliers industriels, des
 chantiers et de l'agriculture ;
@@ -69,7 +70,7 @@ métiers.
 Il en est de même de la prime versée au travailleur manuel qui procède
 effectivement à la création ou au rachat d'une entreprise artisanale ;
 
-9° quater Le produit des placements en valeurs mobilières effectués sur un
+9° quater. Le produit des placements en valeurs mobilières effectués sur un
 compte pour le développement industriel [*CODEVI*] ouvert par les personnes
 physiques ayant leur domicile fiscal en France dans les établissements et
 organismes autorisés à recevoir des dépôts.
@@ -83,9 +84,10 @@ plafond fixé par décret (4) dans la limite de 20.000 F par compte.
 Les valeurs mobilières sont celles servant au financement de l'industrie
 française et entrant dans des catégories fixées par décret (5) ;
 
-9° quinquies Les intérêts des sommes inscrites sur les livrets
+9° quinquies. Les intérêts des sommes inscrites sur les livrets
 d'épargne-entreprise ouverts dans les conditions fixées par l'article 1er de la
-loi n° 84-578 du 9 juillet 1984 sur le développement de l'initiative économique.
+loi n° 84-578 du 8 [*9*] juillet 1984 sur le développement de l'initiative
+économique.
 
 10° à 13° (Dispositions périmées) ;
 
@@ -95,7 +97,7 @@ loi n° 84-578 du 9 juillet 1984 sur le développement de l'initiative économiq
 engagements d'épargne à long terme pris par les personnes physiques dans les
 conditions prévues à l'article 163 bis A ;
 
-16° bis Les sommes et revenus visés à l'article 163 bis AA ;
+16° bis. Les sommes et revenus visés à l'article 163 bis AA ;
 
 17° Les sommes et revenus visés à l'article 163 bis B ;
 

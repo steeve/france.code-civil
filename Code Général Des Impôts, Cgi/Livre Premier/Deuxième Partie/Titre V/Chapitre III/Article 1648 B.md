@@ -115,9 +115,9 @@ locales par différence entre les ressources prévues à l'article 1648 A bis et
 les dispositions du 1° ci-dessus. Les sommes ainsi dégagées ne peuvent être
 inférieures à 90 p. 100 du montant des ressources définies aux 1°, 2° et 3° du
 II de l'article 1648 A bis et sont réparties suivant les dispositions du II
-ci-dessous. "
+ci-dessous.
 
-II. Le surplus des ressources du fonds défini au 2° du I comporte :
+II. Le surplus des ressources du fonds défini au 2° du I comporte : ".
 
 1° Une part principale qui ne peut être inférieure à 70 p. 100 de ce surplus,
 répartie entre les communes :
@@ -180,9 +180,10 @@ part ainsi que le calcul des attributions qui leur reviennent sont fixées par
 décret en Conseil d'Etat en tenant compte, notamment, de la perte de produit de
 taxe professionnelle et de l'importance relative de la perte de produit fiscal
 qui en résulte par rapport aux recettes de la commune provenant de la taxe
-d'habitation, des taxes foncières et de la taxe professionnelle (1). A compter
-du 1er janvier 1991, les communes dont les pertes de bases sont compensées sur
-quatre ans, bénéficient :
+d'habitation, des taxes foncières et de la taxe professionnelle (1).
+
+A compter du 1er janvier 1991, les communes dont les pertes de bases sont
+compensées sur quatre ans, bénéficient :
 
 La première année, d'une attribution égale au plus à 90 p. 100 de la perte de
 bases qu'elles ont enregistrée ;
@@ -197,14 +198,19 @@ Toutefois, à compter du 1er janvier 1986, cette durée est portée à cinq ans 
 les communes situées dans les cantons où l'Etat anime une politique de
 conversion industrielle et dont la liste est fixée par décret (2).
 
+Les groupements de communes dotés d'une fiscalité propre qui remplissent les
+conditions fixées par décret en Conseil d'Etat bénéficient, à compter du 1er
+janvier 1992, de la compensation prévue au présent 2°, selon les modalités
+prévues pour les communes (3).
+
 3° Une part résiduelle, au plus égale à 5 p. 100 de ce surplus et qui est versée
 aux communes qui connaissent des difficultés financières graves en raison d'une
 baisse, sur une ou plusieurs années, de leurs bases d'imposition à la taxe
 professionnelle ou de leurs ressources de redevance des mines, et dont le budget
 primitif de l'exercice en cours a été soumis à la chambre régionale des comptes
 dans les conditions fixées par l'article 8 de la loi n° 82-213 du 2 mars 1982
-relative aux droits et libertés des communes, des départements et des régions.
-Cette part est répartie selon la même procédure que celle relative aux
+modifiée relative aux droits et libertés des communes, des départements et des
+régions. Cette part est répartie selon la même procédure que celle relative aux
 subventions exceptionnelles accordées en application de l'article L235-5 du code
 des communes.
 
@@ -218,14 +224,16 @@ l'article 1609 nonies B est calculé dans les conditions fixées à l'article 16
 A-V ter.
 
 III. Les modalités d'application du présent article sont fixées par décret en
-Conseil d'Etat (3).
+Conseil d'Etat (4).
 
 (1) Décret n° 85-260 du 22 février 1985 (J.O. du 24), décret n° 91-1081 du 14
 octobre 1991 (JO du 19), et décret n° 92-568 du 30 juin 1992 (JO du 1er
 juillet).
 
-(2) Décret n° 85-260 du 22 février 1985 (JO du 24) et décret 92-568 du 30 juin
+(2) Décret n° 86-422 du 12 mars 1986 (JO du 15).
+
+(3) Décret n° 85-260 du 22 février 1985 (JO du 24) et décret 92-568 du 30 juin
 1992 (JO du 1er juillet).
 
-(3) Décret 85-260 du 22 février 1985 (JO du 24), décret 91-1081 du 14 octobre
+(4) Décret 85-260 du 22 février 1985 (JO du 24), décret 91-1081 du 14 octobre
 1991 (JO du 19) et décret n° 92-568 du 30 juin 1992 (JO du 1er juillet).

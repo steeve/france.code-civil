@@ -8,7 +8,7 @@ plusieurs héritiers ou successibles en ligne directe ou par le conjoint
 survivant, soit par une société en nom collectif, en commandite simple ou à
 responsabilité limitée constituée exclusivement, soit entre lesdits héritiers ou
 successibles en ligne directe, soit entre eux et le conjoint survivant ou le
-précédent exploitant [*conditions d'exonération*].
+précédent exploitant.
 
 L'application de cette disposition est subordonnée à l'obligation pour les
 nouveaux exploitants :
@@ -25,9 +25,9 @@ ultérieures résultant de la réalisation de ces éléments ;
 pris en charge, des provisions pour renouvellement de l'outillage et du matériel
 égales à celles figurant dans les écritures du précédent exploitant.
 
-II. Les dispositions du I cessent de s'appliquer aux plus-values constatées à
+II. Les dispositions du I ne s'appliquent pas aux plus-values constatées à
 l'occasion de transmissions d'entreprises à titre onéreux ou d'apports en
-sociétés, réalisés à compter du 1er avril 1981.
+sociétés visés aux I et II de l'article 151 octies.
 
-A compter de la même date, elles sont applicables à toute transmission à titre
-gratuit d'entreprise individuelle.
+Elles sont applicables à toute transmission à titre gratuit d'entreprise
+individuelle.

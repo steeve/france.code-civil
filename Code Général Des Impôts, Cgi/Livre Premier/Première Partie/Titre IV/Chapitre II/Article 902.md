@@ -39,9 +39,9 @@ la vindicte publique ;
 5° Les copies des protêts, que les notaires et les huissiers de justice sont
 tenus de remettre aux greffiers des tribunaux de commerce ou des tribunaux de
 grande instance statuant commercialement en vertu des dispositions des articles
-162 du code de commerce et 57 du décret du 30 octobre 1935 unifiant le droit en
-matière de chèque, modifiés par les articles 1er et 2 de la loi n° 49-1093 du 2
-août 1949 ;
+162 du code de commerce et 65-3 du décret-loi du 30 octobre 1935 unifiant le
+droit en matière de chèque, modifiés par les articles 1er et 2 de la loi n°
+49-1093 du 2 août 1949 ;
 
 6° à 13 ° (Abrogés) ;
 

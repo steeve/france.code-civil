@@ -69,7 +69,8 @@ produits qui, normalement et sans entrer dans le produit fini, sont détruits ou
 perdent leurs qualités spécifiques au cours des opérations de fabrication d'un
 produit soumis à la taxe sur la valeur ajoutée à l'exclusion des produits
 utilisés pour la carburation, la lubrification proprement dite ou la combustion,
-sous réserve de ce qui est dit aux a, b et c.
+sous réserve de ce qui est dit aux a, b et c et à compter du 1er janvier 1993,
+au 1° sexies ;
 
 1° ter a. La valeur ajoutée afférente aux achats, importations, livraisons et
 services portant sur le gazole utilisé comme carburant est déductible dans les
@@ -121,7 +122,7 @@ produits pétroliers utilisés pour la lubrification est déductible dans les
 conditions prévues aux articles 271 à 273, lorsqu'ils sont utilisés pour des
 véhicules et engins ouvrant droit à déduction. Cette disposition s'applique
 également si ces produits pétroliers sont utilisés dans les véhicules et engins
-pris en location quand le prenur peut déduire la taxe relative à cette location
+pris en location quand le preneur peut déduire la taxe relative à cette location
 (2).
 
 2° La taxe sur la valeur ajoutée ayant grevé les biens ou les services utilisés

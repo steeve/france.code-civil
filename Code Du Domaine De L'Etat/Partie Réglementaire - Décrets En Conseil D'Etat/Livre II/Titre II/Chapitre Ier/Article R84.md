@@ -1,17 +1,12 @@
 Article R84
 ----
 Les transformations apportées au sein d'un même département ministériel à
-l'utilisation ou la gestion d'un immeuble domanial font l'objet d'un arrêté
-concerté du ministre chargé du domaine et du ministré intéressé.
+l'utilisation ou à la gestion d'un immeuble domanial sont prononcées par arrêtés
+pris conformément aux dispositions des articles R. 82 et R. 83.
 
-Toutefois, pour les transformations concernant les immeubles utilisés par des
-services déconcentrés de l'Etat, les préfets peuvent recevoir délégation de
-pouvoirs par arrêté conjoint du ministre chargé du domaine et du ministre
-intéressé. Cette délégation est donnée au préfet de département selon que les
-services concernés exercent leurs compétences à l'échelon de la région ou du
-département.
+Toutefois les transformations concernant les services du ministre chargé des
+armées sont prononcées par décision du ministre chargé des armées après accord
+du ministre chargé du domaine.
 
-Dans le cas prévu à l'alinéa précédent, lorsque l'un des services concernés
-exerce ses compétences à l'échelon de la région et l'autre à l'échelon du
-département, la décision est prise par arrêté conjoint du préfet de la région et
-du préfet du département.
+Ces arrêtés ou décisions précisent le ou les services à l'usage desquels
+l'immeuble est destiné et l'utilisation nouvelle de cet immeuble.

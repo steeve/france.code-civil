@@ -7,4 +7,6 @@ l'impôt en a été acquitté.
 
 Lorsque le prix n'est pas supérieur à celui de la précédente adjudication et si
 celle-ci a été enregistrée ou soumise à la formalité fusionnée, l'adjudication à
-la folle enchère est assujettie à une imposition fixe de 430 F.
+la folle enchère est assujettie à une imposition fixe de 500 F (1).
+
+(1) Tarif applicable à compter du 15 janvier 1992.

@@ -27,6 +27,10 @@ pour l'adhésion à une association agréée ne sont pas prises en compte pour l
 détermination du résultat imposable lorsqu'elles sont supportées par l'Etat du
 fait de la réduction d'impôt mentionnée à l'article 199 quater B.
 
+Les dépenses exposées en vue de l'obtention d'un diplôme ou d'une qualification
+professionnelle dans la perspective d'une insertion ou d'une conversion
+professionnelle par les personnes tirant un revenu de la pratique d'un sport.
+
 1 bis. (Abrogé).
 
 1 ter. Les agents généraux d'assurances et leurs sous-agents peuvent demander
@@ -92,5 +96,18 @@ des éléments affectés à l'exercice de la profession.
 quater constituent des éléments d'actif affectés à l'exercice de l'activité non
 commerciale pour l'application du présent article.
 
+7. Les sommes perçues postérieurement à la cession à titre onéreux par le cédant
+d'une entreprise individuelle exerçant une activité industrielle, commerciale ou
+artisanale en raison de son activité au profit du cessionnaire pendant la
+période de trois mois précédant la cession sont soumises à l'impôt sur le revenu
+sous déduction d'un abattement de 10 000 F.
+
+Cette disposition s'applique si le cédant est âgé de soixante ans au moins et
+soixante-cinq ans au plus à la date de la cession et s'il cesse d'exercer une
+activité de chef d'entreprise (2).
+
 (1) En ce qui concerne les plus-values réalisées dans le cadre des opérations de
 nationalisation, voir art. 248 B.
+
+(2) Ces dispositions s'appliquent aux cessions intervenues à compter du 1er
+janvier 1992.

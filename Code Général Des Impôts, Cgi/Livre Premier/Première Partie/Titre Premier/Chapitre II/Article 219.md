@@ -28,12 +28,12 @@ une fraction de leur montant égale à dix-neuf vingt-cinquièmes.
 
 Toutefois, en cas de liquidation d'entreprise intervenue au cours des exercices
 ouverts à compter du 1er janvier 1991, l'excédent des moins-values à long terme
-subies à compter du 20 octobre 1989, peut être déduit des bénéfices de
-l'exercice de liquidation à raison des dix-neuf trente-quatrièmes de son
-montant. Cette fraction est égale à dix-neuf trente-septièmes si la liquidation
-est intervenue au cours d'exercices ouverts en 1990 ou à dix-neuf
-trente-neuvièmes si la liquidation est intervenue au cours d'exercices ouverts
-en 1989.
+subies à compter du 20 octobre 1989 dans un exrcice clos avant le 1er octobre
+1991 peut être déduit des bénéfices de l'exercice de liquidation à raison des
+dix-neuf trente-quatrièmes de son montant. Cette fraction est égale à dix-neuf
+trente-septièmes si la liquidation est intervenue au cours d'exercices ouverts
+en 1990 ou à dix-neuf trente-neuvièmes si la liquidation est intervenue au cours
+d'exercices ouverts en 1989.
 
 Pour les moins-values à long terme subies avant le 20 octobre 1989, cette
 fraction est égale à quinze quarante-cinquièmes si la liquidation est intervenue
@@ -53,15 +53,15 @@ imposables au taux de 19 % lorsqu'elles deviennent sans objet.
 Pour la détermination des résultats imposables des exercices clos à compter du
 1er novembre 1990, le taux de 19 p. 100 mentionné au premier alinéa du a est
 porté à 25 p. 100 pour l'imposition des plus-values nettes à long terme
-réalisées lors de la cession de titres du portefeuille, à l'exclusion des parts
-ou actions de sociétés, autres que celles émises par les sociétés
-d'investissement à capital variable, des bons de souscription d'actions, des
-certificats d'investissement et des certificats coopératifs d'investissement.
-Par exception, le taux de 25 p. 100 est applicable aux plus-values nettes à long
-terme afférentes aux titres de sociétés dont l'actif est constitué
-principalement par des titres relevant de ce même taux en application de la
-phrase qui précède ou dont l'activité consiste de manière prépondérante en la
-gestion des mêmes valeurs pour leur propre compte.
+réalisées avant le 1er juillet 1991 lors de la cession de titres du
+portefeuille, à l'exclusion des parts ou actions de sociétés, autres que celles
+émises par les sociétés d'investissement à capital variable, des bons de
+souscription d'actions, des certificats d'investissement et des certificats
+coopératifs d'investissement. Par exception, le taux de 25 p. 100 est applicable
+aux plus-values nettes à long terme afférentes aux titres de sociétés dont
+l'actif est constitué principalement par des titres relevant de ce même taux en
+application de la phrase qui précède ou dont l'activité consiste de manière
+prépondérante en la gestion des mêmes valeurs pour leur propre compte.
 
 Le montant net des plus-values à long terme mentionnées au sixième alinéa et des
 plus-values visées au II de l'article 39 quindecies fait l'objet d'une
@@ -70,20 +70,20 @@ dernier texte et par l'article 209 quater.
 
 Les provisions pour dépréciation existant à l'ouverture du premier exercice clos
 à compter du 1er novembre 1990 qui se rapportent aux titres soumis au régime
-d'imposition prévu au premier alinéa, lorsqu'elles sont réintégrées dans le
+d'imposition prévu au sixième alinéa, lorsqu'elles sont réintégrées dans le
 résultat, sont soumises au régime des plus-values à long terme imposables au
 taux de 25 p. 100.
 
 a bis. Le montant net des plus-values à long terme, autres que celles
-mentionnées aux troisième et quatrième alinéas ci-dessous ou résultant de la
-cession de parts ou actions émises par des organismes de placement collectif en
-valeurs mobilières étrangers fait l'objet d'une imposition séparée au taux de 18
-p. 100, dans les conditions prévues au I de l'article 39 quindecies et à
-l'article 209 quater.
+mentionnées au sixième alinéa du a ci-dessus ou résultant de la cession de parts
+ou actions émises par des organismes de placement collectif en valeurs
+mobilières étrangers fait l'objet d'une imposition séparée au taux de 18 p. 100,
+dans les conditions prévues au I de l'article 39 quindecies et à l'article 209
+quater.
 
-" Les moins-values à long terme existant à l'ouverture du premier exercice clos
-à compter du 1er octobre 1991, qui sont afférentes aux éléments d'actif autres
-que les titres exclus du régime des plus-values en application des troisième et
+Les moins-values à long terme existant à l'ouverture du premier exercice clos à
+compter du 1er octobre 1991, qui sont afférentes aux éléments d'actif autres que
+les titres exclus du régime des plus-values en application des troisième et
 quatrième alinéas ci-dessous, sont imputées sur les plus-values à long terme
 imposables au taux de 18 p. 100. Les provisions pour dépréciation qui se
 rapportent aux mêmes éléments sont comprises dans les plus-values à long terme
@@ -95,7 +95,7 @@ juillet 1991 à l'exclusion des parts ou actions de sociétés, autres que celle
 émises par des organismes de placement collectif en valeurs mobilières français
 ou étrangers, des bons de souscription d'actions, des certificats
 d'investissement et des certificats coopératifs d'investissement et des parts de
-fonds commun de placement à risques qui remplissent les conditions prévues au 1
+fonds commun de placement à risques qui remplissent les conditions prévues au 1°
 bis du II de l'article 163 quinquies B et qui sont détenues par l'entreprise
 depuis au moins cinq ans.
 
@@ -131,8 +131,13 @@ alinéas ci-dessus, corrigés des provisions sur titres déduites ou réintégr�
 dans les résultats, diminués, le cas échéant, de la déduction prévue à l'alinéa
 précédent.
 
-" Ces dispositions s'appliquent pour la détermination des résultats des
-exercices clos à compter du 1er octobre 1991. "
+Ces dispositions s'appliquent pour la détermination des résultats des exercices
+clos à compter du 1er octobre 1991.
+
+" L'excédent des moins-values à long terme subies au cours d'un exercice clos à
+compter du 1er octobre 1991 peut être déduit des bénéfices de l'exercice de
+liquidation d'une entreprise intervenue au cours des exercices ouverts à compter
+du 1er janvier 1991 à raison des dix-huit trente-quatrièmes de son montant. "
 
 b. (Disposition périmée).
 
@@ -147,8 +152,8 @@ diminuée des distributions antérieures décidées conformément aux statuts de
 société et soumises au supplément d'impôt ainsi que, dans la limite de son
 montant positif, des distributions exonérées dans les conditions mentionnées au
 d, à l'exception des distributions prélevées sur la réserve spéciale prévue à
-l'article 209 quater, au d bis et au quatrième alinéa de l'article 223 H. .
-Cette somme algébrique ainsi réduite est diminuée, dans la limite de son montant
+l'article 209 quater, au d bis et au quatrième alinéa de l'article 223 H. Cette
+somme algébrique ainsi réduite est diminuée, dans la limite de son montant
 positif, des sommes portées à la réserve spéciale prévue à l'article 209 quater
 et afférentes à des plus-values réalisées au cours d'exercices ouverts à compter
 du 1er janvier 1989 ; les sommes prélevées sur cette réserve pour être portées
@@ -175,8 +180,6 @@ janvier 1992. Pour ces exercices le taux du supplément d'impôt sur les sociét
 défini au deuxième alinéa est réduit à 0 p. 100 du montant net distribué à
 concurrence de la somme algébrique des résultats comptables de ces mêmes
 exercices ainsi que des sommes réputées distribuées. "
-
-2° La première phrase du deuxième alinéa est complétée par les mots : "
 
 d. Les distributions pour lesquelles le précompte mobilier prévu à l'article 223
 sexies a été acquitté ne sont pas retenues pour l'application des dispositions

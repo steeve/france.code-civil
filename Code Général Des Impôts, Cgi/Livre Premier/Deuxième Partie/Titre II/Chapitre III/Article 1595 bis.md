@@ -22,7 +22,7 @@ soit qualifiée cession de pas de porte, indemnité de départ ou autrement.
 Cette taxe, dont la perception est confiée au service des impôts, est fixée à
 1,20 p. 100. Le taux est fixé à 0,40 p. 100 pour les mutations à titre onéreux
 visées au 2°. Pour les mutations visées aux 3°, 4° et 5° ci-dessus constatées
-par un acte passé ou une convention conclue à compter du 1er octobre 1989, les
+par un acte passé ou une convention conclue à compter du 1er octobre 1991, les
 taux de la taxe sont fixés à :
 
 FRACTION DE LA VALEUR TAXABLE :
@@ -34,16 +34,16 @@ TARIF APPLICABLE : 0 %
 FRACTION DE LA VALEUR TAXABLE :
 
 
-Comprise entre 100 000 F et 300 000 F
+Comprise entre 100 000 F et 500 000 F
 
 TARIF APPLICABLE : 0,40 %
 
 FRACTION DE LA VALEUR TAXABLE :
 
 
-Supérieure à 300 000 F
+Supérieure à 500 000 F
 
-TARIF APPLICABLE : 1 %.
+TARIF APPLICABLE : 1 % (2).
 
 Dans le cas prévu au 1° du premier alinéa, elle s'ajoute au droit départemental
 d'enregistrement ou à la taxe départementale de publicité foncière mentionnés
@@ -51,7 +51,7 @@ aux articles 1594 A et 1594 F , sauf lorsque la mutation est soumise au taux
 proportionnel de 0,60 %.
 
 La taxe est soumise aux règles qui gouvernent l'exigibilité, la restitution et
-le recouvrement des droits ou de la taxe auxquels elle s'ajoute (2).
+le recouvrement des droits ou de la taxe auxquels elle s'ajoute (3).
 
 Les ressources provenant de ce fonds de péréquation seront réparties entre les
 communes de moins de 5.000 habitants suivant un barème établi par le conseil
@@ -60,7 +60,9 @@ la population, des charges de voirie de la commune, de la valeur du centime, du
 pourcentage officiel de sinistre et de l'effort fiscal fourni par la
 collectivité bénéficiaire.
 
-(1) Sous réserve des dispositions de l'article 1595 ter.
+(1) Sous réserve des dispositions de l'article 1595 ter. (2) Ces dispositions
+sont applicables aux actes passés et aux conventions conclues à compter du 1er
+octobre 1991.
 
-(2) La perception de cette taxe a été étendue aux communes du département de la
+(3) La perception de cette taxe a été étendue aux communes du département de la
 Guyane par l'article 10-I de la loi n° 71-1025 du 24 décembre 1971.

@@ -79,6 +79,10 @@ l'alinéa précédent.
 Les dispositions du présent I quater s'appliquent aux premières implantations
 commerciales effectuées à compter du 1er janvier 1988 (2).
 
+Les dispositions du présent I quater ne sont plus applicables aux
+investissements réalisés dans le cadre d'une première implantation commerciale
+effectuée après le 31 décembre 1991.
+
 II. Les entreprises françaises qui réalisent un investissement industriel dans
 l'un des pays figurant sur une liste établie par le ministre de l'économie et
 des finances et par le ministre du développement industriel et scientifique,
@@ -99,7 +103,10 @@ l'impôt sur les sociétés. Toutefois, lorsque l'investissement est réalisé d
 un Etat membre de la Communauté économique européenne, la provision est égale
 aux pertes subies au cours des cinq premières années d'exploitation dans la
 proportion définie au deuxième alinéa du I de l'article 39 octies B, et dans la
-limite de la moitié de l'investissement (3).
+limite de la moitié de l'investissement.
+
+Les dispositions du premier alinéa ne sont plus applicables aux investissements
+qui font l'objet d'une demande d'agrément déposée après le 31 décembre 1991.
 
 III. Les provisions déduites par application des I à II bis sont rapportées par
 fractions égales aux bénéfices imposables des cinq exercices consécutifs, à
@@ -113,7 +120,7 @@ prévues par cet agrément.
 Le bénéfice des dispositions prévues aux I, I quater, II, II bis, III et IV peut
 être accordé, sur agrément du ministre chargé du budget et dans les conditions
 et limites prévues par cet agrément, aux établissements de crédit dont la liste
-est fixée par décret (4) et aux entreprises industrielles et commerciales qui,
+est fixée par décret (2) et aux entreprises industrielles et commerciales qui,
 dans l'intérêt d'une entreprise française et en vue d'accompagner
 l'investissement à l'étranger de cette dernière, participent au capital de la
 société étrangère constituée à cet effet par l'entreprise ou à laquelle celle-ci
@@ -125,11 +132,4 @@ dispositions de l'article 1756 sont applicables à l'établissement de crédit.
 
 (1) Annexe IV, art. 4 D.
 
-(2) Ces dispositions ne sont plus applicables aux investissements réalisés dans
-le cadre d'une première implantation commerciale effectuée après le 31 décembre
-1991.
-
-(3) Ces dispositions ne sont plus applicables aux investissements qui font
-l'objet d'une demande d'agrément déposée après le 31 décembre 1991.
-
-(4) Annexe III, art. 10 GA.
+(2) Annexe III, art. 10 GA.

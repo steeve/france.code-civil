@@ -2,10 +2,10 @@ Article 1414
 ----
 I. Sont, à compter de 1992, exonérés de la taxe d'habitation afférente à leur
 habitation principale lorsqu'ils occupent cette habitation dans les conditions
-prévues à l'article 1390 (1):
+prévues à l'article 1390 :
 
 1° les titulaires de l'allocation supplémentaire du fonds national de solidarité
-prévue par la loi n° 56-639 du 30 juin 1956 (2) ;
+prévue par la loi n° 56-639 du 30 juin 1956 (1) ;
 
 2° les contribuables âgés de plus de 60 ans ainsi que les veuves et veufs qui ne
 sont pas soumis à l'impôt sur le revenu au titre de l'année précédente au sens
@@ -28,5 +28,4 @@ III. Les bénéficiaires du revenu minimum d'insertion sont dégrevés d'office 
 la taxe d'habitation afférente à leur habitation principale lorsqu'ils occupent
 cette habitation dans les conditions prévues à l'article 1390.
 
-(1) Loi 91-1322 1991-12-31 art. 21 II Finances pour 1992 (2) Voir livre des
-procédures fiscales, art. L98.
+(1) Voir livre des procédures fiscales, art. L98.

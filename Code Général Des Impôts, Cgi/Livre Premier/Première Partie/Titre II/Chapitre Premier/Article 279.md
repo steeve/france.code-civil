@@ -56,17 +56,14 @@ des musées, monuments, grottes et sites ainsi que des expositions culturelles ;
 
 b quater. Les transports de voyageurs ;
 
-b quinquies. Les locations et cessions de droits portant sur les oeuvres
-cinématographiques ainsi que les droits d'entrée dans les salles de spectacles
+b quinquies. Les droits d'entrée dans les salles de spectacles
 cinématographiques quels que soient le procédé de fixation ou de transmission et
-la nature du support des oeuvres ou documents audiovisuels qui sont présentés.
-Cette disposition n'est pas applicable aux oeuvres ou aux films pornographiques
-ou d'incitation à la violence mentionnés à l'article 281 bis A ;
+la nature du support des oeuvres ou documents audiovisuels qui sont présentés ;
+(art. 11 XI de la loi 91-716)
 
 b sexies. (Abrogé).
 
-b septies. Les prestations de services effectuées par les agences de voyages et
-les organisateurs de circuits touristiques.
+b septies. (Abrogé) (à compter du 1er août 1991, art. 8 de la loi 91-716);
 
 b octies. Les abonnements souscrits par les usagers afin de recevoir :
 
@@ -100,45 +97,18 @@ b decies. Les abonnements relatifs aux livraisons d'électricité, de gaz
 combustible et d'énergie calorifique, à usage domestique, distribués par réseaux
 publics.
 
-c. Les opérations d'achat, d'importation, de vente, de livraison, de commission,
-de courtage ou de façon, portant sur les produits suivants :
-
-1° à 12° (Devenus sans objet) ;
-
-13° Aliments simples ou composés utilisés pour la nourriture du bétail, des
-animaux de basse-cour, des poissons d'élevage destinés à la consommation humaine
-et des abeilles, ainsi que les produits entrant dans la composition de ces
-aliments et dont la liste est fixée par arrêté du ministre de l'économie et des
-finances pris après avis des professions intéressées (4) ;
-
-14° (Dispositions devenues sans objet) ;
-
-d. Les opérations d'achat, d'importation, de vente, de livraison, de commission,
-de courtage ou de façon portant sur les produits suivants :
-
-1° (Devenu sans objet);
-
-2° Amendements calcaires ;
-
-3° Engrais ;
-
-4° Soufre, sulfate de cuivre, ainsi que les produits cupriques contenant au
-minimum 10 % de cuivre, utilisés en agriculture ;
-
-5° Grenaille utilisée pour la fabrication du sulfate de cuivre ;
-
-6° Produits antiparasitaires utilisés en agriculture, sous réserve qu'ils aient
-fait l'objet, soit d'une homologation, soit d'une autorisation de vente délivrée
-par le ministre de l'agriculture.
-
-e. Les opérations d'achat, d'importation, de vente, de livraison, de commission,
-de courtage, de façon ainsi que de location ou de cession de droits portant sur
-les livres.
+c, d, e (Abrogé) (à compter du 1er janvier 1993, art. 11 XI de la loi 91-716);
 
 f. Les prestations pour lesquelles les avocats, les avocats au Conseil d'Etat et
 à la Cour de cassation et les avoués sont indemnisés totalement ou partiellement
-par l'Etat dans le cadre de l'aide judiciaire ou d'une procédure de commission
-ou de désignation d'office (5).
+par l'Etat dans le cadre de l'aide juridictionnelle (5).
+
+g) Les cessions des droits patrimoniaux reconnus par la loi aux auteurs des
+oeuvres de l'esprit et aux artistes-interprètes ainsi que de tous droits portant
+sur les oeuvres cinématographiques et sur les livres.
+
+Cette disposition n'est pas applicable aux cessions de droits portant sur des
+oeuvres d'architecture et des logiciels.
 
 (1) Annexe IV, art. 30.
 
@@ -146,7 +116,10 @@ ou de désignation d'office (5).
 
 (3) Disposition à caractère interprétatif.
 
-(4) Annexe IV, art. 31. (5) Disposition applicable à compter du 1er avril 1991.
+(4) Annexe IV, art. 31.
+
+(5) Disposition applicable à compter du 1er avril 1991.
+
 La loi 91-647 du 10 juillet 1991, en vigueur le 1er janvier 1992, art. 74 : les
 mots "aide juridictionnelle" remplacent les mots "aide judiciaire ou
-indemnisation des commissions et désignations d'office"
+indemnisation des commissions et désignations d'office".

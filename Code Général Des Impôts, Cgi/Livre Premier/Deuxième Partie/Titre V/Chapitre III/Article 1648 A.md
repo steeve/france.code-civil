@@ -15,12 +15,13 @@ Pour la détermination du potentiel fiscal, chaque fois qu'il est fait référen
 professionnelle après écrêtement.
 
 Dans le cas où une commune visée par les dispositions qui précèdent appartient à
-un groupement de communes auquel elle vers une contribution budgétaire calculée
-par référence au produit global de sa taxe professionnelle ou de ses quatre
-taxes ou s'est engagée par accord conventionnel, à reverser une partie de ce
-produit à une ou plusieurs communes voisines, il est appliqué sur les bases de
-cette commune, pour l'application des premier et deuxième alinéas, une réduction
-de bases correspondant au montant des sommes en cause.
+un groupement de communes auquel elle versait avant le 1er mai 1991 une
+contribution budgétaire calculée par référence au produit global de sa taxe
+professionnelle ou de ses quatre taxes ou s'était engagée par accord
+conventionnel, à reverser une partie de ce produit à une ou plusieurs communes
+voisines, il est appliqué sur les bases de cette commune, pour l'application des
+premier et deuxième alinéas, une réduction de bases correspondant au montant des
+sommes en cause.
 
 Pour les établissements créés avant le 1er janvier 1976, à l'exception de ceux
 produisant de l'énergie ou traitant des combustibles, l'assiette du prélèvement
@@ -155,7 +156,7 @@ l'ensemble de l'agglomération, proportionnelle à la population de la commune ;
 b. A compter de la seconde année de fonctionnement de la communauté ou du
 syndicat d'agglomération nouvelle, le potentiel fiscal de chaque commune est
 celui qui est défini au premier alinéa de l'article 31 de la loi n° 83-636 du 13
-juillet 1983.
+juillet 1983 modifiée.
 
 VI. Les conditions d'application du présent article sont fixées par décret en
 Conseil d'Etat (2).

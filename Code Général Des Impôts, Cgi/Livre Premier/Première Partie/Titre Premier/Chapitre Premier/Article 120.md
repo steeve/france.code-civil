@@ -20,7 +20,7 @@ b Des produits des sociétés en commandite simple revenant aux associés en nom
 parts de fondateur des mêmes sociétés, à un titre autre que celui de
 remboursement d'apports ou de primes d'émission. Une répartition n'est réputée
 présenter le caractère d'un remboursement d'apport ou de prime que si tous les
-bénéfices ou réserves ont été auparavant répartis [*condition*] ;
+bénéfices ou réserves ont été auparavant répartis ;
 
 4° Le montant des jetons de présence, remboursements forfaitaires de frais et
 toutes autres rémunérations revenant, à quelque titre que ce soit, aux
@@ -50,7 +50,8 @@ l'exploitation des nappes de pétrole ou de gaz naturel;
 l'étranger, quelle que soit la nature ou l'origine des produits distribués.
 
 12° Les profits résultant des opérations réalisées à l'étranger sur un marché à
-terme d'instruments financiers ou d'options négociables [*MONEP*].
+terme d'instruments financiers ou d'options négociables ou sur des bons
+d'option.
 
 Cette disposition est applicable aux profits résultant des opérations à terme
 sur marchandises réalisées à l'étranger.

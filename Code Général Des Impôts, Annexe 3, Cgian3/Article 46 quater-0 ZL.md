@@ -2,7 +2,16 @@ Article 46 quater-0 ZL
 ----
 La déclaration du résultat d'ensemble visée à l'article 223 Q du code général
 des impôts comprend les éléments nécessaires à la détermination et au contrôle
-de ce résultat. La société mère doit joindre à cette déclaration :
+de ce résultat. La société mère doit joindre à cette déclaration un état des
+subventions directes ou indirectes et des abandons de créances consentis ou
+reçus par chacune des sociétés membres du groupe, à compter du 1er janvier 1992,
+indiquant la dénomination des sociétés concernées ainsi que la nature et le
+montant de ces subventions ou abandons.
+
+Un état des subventions directes ou indirectes et des abandons de créances
+consentis ou reçus pour chacune des sociétés membres du groupe, à compter du 1er
+janvier 1992, indiquant la dénomination des sociétés concernées ainsi que la
+nature et le montant de ces subventions ou abandons.
 
 Pour chacune des sociétés membres du groupe, l'état des rectifications mentionné
 à l'article 46 quater-0 ZK ;

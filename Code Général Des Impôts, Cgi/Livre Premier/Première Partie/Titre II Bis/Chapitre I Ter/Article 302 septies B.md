@@ -13,6 +13,9 @@ prévue à l'article L 332-1 du code de l'urbanisme;
 résultant du dépassement du plafond légal de densité prévu par l'article L 112-2
 du même code.
 
+-La participation à la diversité de l'habitat prévue à l'article L. 332-17 du
+code de l'urbanisme.
+
 II. Constituent du point de vue fiscal, un élément du prix de revient de
 l'ensemble immobilier :
 

@@ -13,9 +13,9 @@ l'article 219 est dû à raison des sommes qui cessent d'être à la disposition
 l'exploitation française au cours des exercices ouverts à compter du 1er janvier
 1989 dans la limite de la somme des bénéfices réputés distribués en application
 du I au titre des mêmes exercices diminués des plus-values nettes à long terme
-soumises au régime prévu au a du I de l'article 219 réalisées au cours de ces
-exercices et augmentés du montant des plus-values nettes qui cessent d'être à la
-disposition de l'exploitation française.
+soumises au régime prévu aux a et a bis du I de l'article 219 réalisées au cours
+de ces exercices et augmentés du montant des plus-values nettes qui cessent
+d'être à la disposition de l'exploitation française.
 
 2 Toutefois, la société peut demander que la retenue à la source exigible en
 vertu des dispositions du 1 et de l'article 119 bis-2 fasse l'objet d'une

@@ -26,25 +26,25 @@ présentées à compter du 1er janvier 1988.
 4 Ouvrent droit à déduction dans les mêmes conditions que s'ils étaient soumis à
 la taxe sur la valeur ajoutée :
 
-a Les opérations d'assurances et de réassurances et les opérations de courtages
+a) Les opérations d'assurances et de réassurances et les opérations de courtages
 d'assurances et de réassurances lorsqu'elles concernent :
 
-les assurés ou réassurés domiciliés ou établis en dehors de la Communauté
+Des assurés ou réassurés domiciliés ou établis en dehors de la Communauté
 économique européenne;
 
-des exportations de biens à destination de pays également situés en dehors de la
+Des exportations de biens à destination de pays également situés en dehors de la
 Communauté [*CEE*] ;
 
-b Les services bancaires et financiers exonérés en application des dispositions
+b) Les services bancaires et financiers exonérés en application des dispositions
 des a à e du 1 de l'article 261 C lorsqu'ils sont rendus à des personnes
 domiciliées ou établies en dehors de la Communauté économique européenne ou se
 rapportent à des exportations de biens à destination de pays autres que les
 Etats membres de la Communauté;
 
-c Les opérations exonérées en application des dispositions des articles 262, 262
-bis, 263 et des 1° et 1° bis du II de l'article 291;
+c) Les opérations exonérées en application des dispositions des articles 262,
+262 bis, 263 et des 1° et 1° bis du II de l'article 291;
 
-d Les opérations non imposables en France réalisées par des assujettis dans la
+d) Les opérations non imposables en France réalisées par des assujettis dans la
 mesure où elles ouvriraient droit à déduction si leur lieu d'imposition se
 situait en France. Un décret en Conseil d'Etat fixe les modalités et les limites
 du remboursement de la taxe déductible au titre de ces opérations; ce décret

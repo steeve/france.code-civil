@@ -97,7 +97,16 @@ condition qu'elles aient été effectivement constatées dans les écritures de
 l'exercice. Toutefois, ne sont pas déductibles les provisions que constitue une
 entreprise en vue de faire face au versement d'allocations en raison du départ à
 la retraite ou préretraite des membres ou anciens membres de son personnel, ou
-de ses mandataires sociaux,
+de ses mandataires sociaux. Les provisions pour pertes afférentes à des
+opérations en cours à la clôture d'un exercice ne sont déductibles des résultats
+de cet exercice qu'à concurrence de la perte qui est égale à l'excédent du coût
+de revient des travaux exécutés à la clôture du même exercice sur le prix de
+vente de ces travaux compte tenu des révisions contractuelles certaines à cette
+date. S'agissant des produits en stock à la clôture d'un exercice, les dépenses
+non engagées à cette date en vue de leur commercialisation ultérieure ne
+peuvent, à la date de cette clôture, être retenues pour l'évaluation de ces
+produits en application des dispositions du 3 de l'article 38, ni faire l'objet
+d'une provision pour perte (6).
 
 La dépréciation des oeuvres d'art inscrites à l'actif d'une entreprise peut
 donner lieu à la constitution d'une provision. Cette dépréciation doit être
@@ -107,9 +116,9 @@ coût d'acquisition de l'oeuvre est supérieur à 50 000 F..
 Un décret fixe les règles d'après lesquelles des provisions pour fluctuation des
 cours peuvent être retranchées des bénéfices des entreprises dont l'activité
 consiste essentiellement à transformer directement des matières premières
-acquises sur les marchés internationaux (6) ou des matières premières acquises
+acquises sur les marchés internationaux (7) ou des matières premières acquises
 sur le territoire national et dont les prix sont étroitement liés aux variations
-des cours internationaux (6).
+des cours internationaux (7).
 
 Pour les entreprises dont l'objet principal est de faire subir en France la
 première transformation au pétrole brut, le montant de la provision pour
@@ -119,7 +128,7 @@ réglementaires en vigueur. L'excédent éventuel de la provision antérieuremen
 constituée, par rapport à la nouvelle limite maximale calculée à la clôture du
 premier exercice auquel elle s'applique, est rapporté au bénéfice imposable de
 cet exercice. Ces dispositions s'appliquent pour la détermination des résultats
-des exercices clos à compter du 24 septembre 1975 (6).
+des exercices clos à compter du 24 septembre 1975 (7).
 
 Sous réserve des dispositions prévues au huitième alinéa, les entreprises
 peuvent, d'autre part, en ce qui concerne les variations de prix postérieures au
@@ -137,14 +146,14 @@ des stocks est supérieure à trois ans. Dans ce dernier cas, les entreprises
 effectueront la réintégration dans un délai double de celui de la rotation
 normale des stocks.
 
-Un décret fixe les modalités d'application des deux alinéas qui précèdent (7).
+Un décret fixe les modalités d'application des deux alinéas qui précèdent (8).
 
 Les matières, produits ou approvisionnements existant en stock à la clôture de
 chaque exercice et qui peuvent donner lieu à la constitution de la provision
 pour fluctuation des cours prévue au troisième alinéa n'ouvrent pas droit à la
 provision pour hausse des prix.
 
-Un arrêté du ministre de l'économie et des finances (8) fixe les limites dans
+Un arrêté du ministre de l'économie et des finances (9) fixe les limites dans
 lesquelles sont admises les provisions destinées à faire face aux risques
 particuliers afférents aux opérations de crédit à moyen et à long terme ainsi
 qu'aux crédits à moyen terme résultant de ventes ou de travaux effectués à
@@ -197,6 +206,18 @@ octies B et non rapportées au résultat de l'entreprise. Cette disposition
 s'applique pour la détermination des résultats des exercices ouverts à compter
 du 1er janvier 1988.
 
+Les dispositions de l'alinéa précédent sont également applicables à la fraction
+du montant de la provision pour dépréciation mentionnée à cet alinéa, qui excède
+les sommes déduites en application de l'article 39 octies D ; cette disposition
+s'applique pour la détermination des résultats des exercices ouverts à compter
+du 1er janvier 1992.
+
+La provision éventuellement constituée en vue de faire face à la dépréciation
+d'éléments d'actif non amortissables reçus lors d'une opération placée sous l'un
+des régimes prévus aux articles mentionnés au II de l'article 54 septies est
+déterminée par référence à la valeur fiscale des actifs auxquels les éléments
+reçus se sont substitués (10).
+
 6° La contribution de solidarité visée à l'article 33 de l'ordonnance n° 67-828
 du 23 septembre 1967.
 
@@ -242,13 +263,13 @@ Sauf justifications, les dispositions du premier alinéa sont applicables :
 
 A l'amortissement des véhicules immatriculés dans la catégorie des voitures
 particulières pour la fraction de leur prix d'acquisition qui dépasse 65 000 F
-(9);
+(11);
 
 En cas d'opérations de crédit bail ou de location, à l'exception de locations de
 courte durée n'excédant pas trois mois non renouvelables, portant sur des
 voitures particulières, à la part du loyer supportée par le locataire et
 correspondant à l'amortissement pratiqué par le bailleur pour la fraction du
-prix d'acquisition du véhicule excédant 65 000 F (9) ;
+prix d'acquisition du véhicule excédant 65 000 F (11) ;
 
 Aux dépenses de toute nature résultant de l'achat, de la location ou de toute
 autre opération faite en vue d'obtenir la disposition de yachts ou de bateaux de
@@ -295,7 +316,7 @@ l'entreprise.
 Lorsqu'elles augmentent dans une proportion supérieure à celle des bénéfices
 imposables ou que leur montant excède celui de ces bénéfices, l'administration
 peut demander à l'entreprise de justifier qu'elles sont nécessitées par sa
-gestion (10) (11).
+gestion (12) (13).
 
 6. (Dispositions devenues sans objet).
 
@@ -314,7 +335,7 @@ par le locataire. Elle doit être indiquée distinctement dans le contrat de
 crédit-bail.
 
 Un décret fixe les modalités d'application de ces dispositions, notamment les
-obligations déclaratives (12).
+obligations déclaratives (14).
 
 9. L'indemnité de congé payé correspondant aux droits acquis durant la période
 neutralisée définie ci-après, calculée dans les conditions prévues aux articles
@@ -329,7 +350,7 @@ déduite du point de vue fiscal.
 Ces dispositions s'appliquent aux charges sociales et fiscales attachées à ces
 indemnités.
 
-Un décret fixe les modalités d'application du présent 9 (13).
+Un décret fixe les modalités d'application du présent 9 (14).
 
 (1) L'option est formulée sur un imprimé conforme au modèle établi par
 l'administration (Décret n° 87-1029 du 22 décembre 1987, art. 7, JO DU 24).
@@ -344,21 +365,28 @@ l'administration (Décret n° 87-1029 du 22 décembre 1987, art. 7, JO DU 24).
 compter du 1er janvier 1988 ; antérieurement la limite était égale à 80 % de
 cette moyenne.
 
-(6) Annexe III, art. 3 à 10 septies.
+(6) Ces dispositions s'appliquent aux opérations en cours à la clôture des
+exercices arrêtés à compter du 31 décembre 1991 et qui résultent de contrats
+conclus au cours des mêmes exercices, ainsi qu'aux produits détenus en stock à
+la clôture des mêmes exercices.
 
-(7) Annexe III, art. 10 nonies à 10 terdecies.
+(7) Annexe III, art. 3 à 10 septies.
 
-(8) Annexe IV art. 2 à 4 septies.
+(8) Annexe III, art. 10 nonies à 10 terdecies.
 
-(9) Limite applicable aux véhicules dont la première mise en circulation est
+(9) Annexe IV art. 2 à 4 septies.
+
+(10) Cette disposition a un caractère interprétatif.
+
+(11) Limite applicable aux véhicules dont la première mise en circulation est
 intervenue à compter du 1er janvier 1988. Cette limite était fixée à 50.000 F
 pour les véhicules acquis à l'état neuf à compter du 1er juillet 1985 ;
 antérieurement, elle était fixée à 35.000 F.
 
-(10) Voir annexe II, art. 33 à 35.
+(12) Voir annexe II, art. 33 à 35.
 
-(11) Voir également livre de procédures fiscales, art. L59 A 2°.
+(13) Voir également livre de procédures fiscales, art. L59 A 2°.
 
-(12) Annexe III, art. 38 quindecies E.
+(14) Annexe III, art. 38 quindecies E.
 
-(13) Annexe III, art. 49 octies à 49 octies D.
+(15) Annexe III, art. 49 octies à 49 octies D.

@@ -20,7 +20,7 @@ immobilisé.
 
 En cas de non-respect de cet engagement, il est dû par l'acquéreur, au titre de
 l'exercice au cours duquel le délai de quatre ans a expiré, un complément de
-droit calculé en tenant compte, selon le cas, du taux mentionné soit au
-quatrième alinéa du a du I de l'article 219, soit au 1 du II de l'article 39
-quindecies, sans préjudice de l'intérêt de retard prévu à l'article 1727 et
-compté de la date à laquelle ce droit devait être acquitté.
+droit calculé en tenant compte, selon le cas, du taux mentionné soit au septième
+alinéa du a du I de l'article 219, soit au 1 du II de l'article 39 quindecies,
+sans préjudice de l'intérêt de retard prévu à l'article 1727 et compté de la
+date à laquelle ce droit devait être acquitté.
