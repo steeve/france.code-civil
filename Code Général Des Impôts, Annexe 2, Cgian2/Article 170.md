@@ -17,7 +17,7 @@ opération d'ensemble, conformément à un plan masse faisant l'objet d'un accor
 préalable unique ou d'un permis de construire unique.
 
 Cette opération doit être réalisée sur un terrain appartenant à une seule
-personne physique ou morale, à une copropriété régie par la loi no 65-557 du 10
+personne physique ou morale, à une copropriété régie par la loi n° 65-557 du 10
 juillet 1965 ou à une indivision.
 
 La superficie développée des immeubles ou parties d'immeubles affectés ou
@@ -25,5 +25,5 @@ destinés à être affectés à l'habitation doit être égale aux trois quarts 
 moins de la superficie développée totale des immeubles composant le groupe.
 
 Lorsque cette dernière condition n'est pas remplie, chaque immeuble doit être
-considéré isolément pour l'application des articles 235 quater et 238 octies du
-code général des impôts.
+considéré isolément pour l'application de l'article 238 octies du code général
+des impôts.
