@@ -22,4 +22,4 @@ et revenus de remplacement mentionnés aux 1° et 2° du présent article.
 Les ressources des assurances maladie, maternité, invalidité et décès sont en
 outre constituées par une fraction du produit du droit de consommation prévu à
 l'article 575 du code général des impôts, dans les conditions fixées par la loi
-de finances pour 1997.
+de finances pour 1997 et par la loi de finances pour 1998.

@@ -26,9 +26,6 @@ l'article 1062 du code rural.
 Pour le calcul de la moyenne des revenus, les déficits sont retenus pour un
 montant nul.
 
-A titre transitoire, la contribution due au titre de l'année 1991 est calculée
-sur la base de la moyenne des revenus des années 1988 et 1989.
-
 II. - Lorsque la durée d'assujettissement au régime de protection sociale des
 personnes non salariées des professions agricoles d'un chef d'exploitation ou
 d'entreprise agricole ne permet pas de calculer la moyenne des revenus

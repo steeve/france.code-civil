@@ -38,6 +38,9 @@ Pour la détermination de l'assiette de la contribution, il n'est pas fait
 application des abattements mentionnés au 3 et au 4 bis de l'article 158 du code
 général des impôts.
 
+L'avoir fiscal non utilisé en application des dispositions de l'article 158 bis
+du code général des impôts est déduit de l'assiette de la contribution.
+
 II. - Sont également assujettis à la contribution, dans les conditions et selon
 les modalités prévues au I ci-dessus :
 
@@ -55,8 +58,8 @@ sûretés, privilèges et sanctions que l'impôt sur le revenu.
 Les dispositions de l'article L. 80 du livre des procédures fiscales sont
 applicables.
 
-Il n'est pas procédé au recouvrement de la contribution lorsque son montant est
-inférieur à 80 F.
+Il n'est pas procédé au recouvrement de la contribution lorsque le montant total
+par article de rôle est inférieur à 160 F.
 
 Par dérogation à l'article 150 R du code général des impôts, le paiement ne peut
 être fractionné.

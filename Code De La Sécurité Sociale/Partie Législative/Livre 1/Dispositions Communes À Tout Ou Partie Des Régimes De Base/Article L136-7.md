@@ -22,7 +22,9 @@ dénouement du contrat ;
 placements de même nature mentionnés à l'article 125-0A du code général des
 impôts quelle que soit leur date de souscription, lors de leur inscription au
 contrat ou lors du dénouement pour les bons et contrats en unités de compte
-visés au deuxième alinéa de l'article L. 131-1 du code des assurances ;
+visés au deuxième alinéa de l'article L. 131-1 du code des assurances, à
+l'exception des produits attachés aux contrats visés au 2° de l'article 199
+septies du code général des impôts ;
 
 4° Les produits des plans d'épargne populaire, ainsi que les rentes viagères et
 les primes d'épargne visés au premier alinéa du 22° de l'article 157 du code
