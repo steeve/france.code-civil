@@ -13,13 +13,14 @@ par l'entreprise signataire de la convention.
 
 II. - Elles peuvent également prévoir une allocation de préretraite progressive
 pour les travailleurs âgés lorsque la transformation volontaire de leur emploi à
-temps plein en emploi à temps partiel ou en emploi pendant certaines périodes de
-l'année permet le recrutement d'un ou de plusieurs demandeurs d'emploi ou la
-diminution du nombre de licenciements pour motif économique.
+temps plein en emploi à temps partiel permet soit le recrutement d'un ou de
+plusieurs demandeurs d'emploi et en particulier de ceux rencontrant des
+difficultés particulières d'accès à l'emploi, soit la diminution du nombre de
+licenciements pour motif économique.
 
 Pour l'application des dispositions qui précèdent, la durée du travail accompli
-par le salarié intéressé doit être égale à 40 p. 100 au moins ou 50 p. 100 au
-plus de la durée antérieure du travail à temps plein.
+par le salarié intéressé doit être égale à 50 % de la durée antérieure du
+travail à temps plein.
 
 Toutefois, la convention peut prévoir, dans les limites qu'elle détermine, que
 la durée de travail du préretraité varie au cours de la période pluriannuelle
@@ -42,9 +43,16 @@ travail pluriannuelle mentionnée à l'alinéa précédent.
 Les conventions de préretraite progressive déterminent le montant des ressources
 garanties et de l'allocation compte tenu, le cas échéant, des allocations ayant
 le même objet. Elles déterminent également le nombre de recrutements de
-demandeurs d'emploi effectués par l'entreprise en remplacement des salariés en
-préretraite progressive et le niveau de sa contribution financière pour toute
-adhésion non compensée par une embauche de demandeurs d'emploi.
+demandeurs d'emploi, et notamment de ceux rencontrant des difficultés
+particulières d'accès à l'emploi, effectués par l'entreprise en compensation du
+passage à temps partiel des salariés en préretraite progressive, ainsi que le
+niveau de sa contribution financière.
+
+La contribution est majorée pour toute adhésion non compensée par l'embauche
+d'un demandeur d'emploi. Les taux de cette contribution peuvent être minorés
+pour tenir compte de la proportion des recrutements de demandeurs d'emploi
+rencontrant des difficultés particulières d'accès à l'emploi prévue dans la
+convention.
 
 III. - Les allocations spéciales et de préretraite progressive sont servies au
 plus tard jusqu'à soixante-cinq ans. Les conditions dans lesquelles elles
