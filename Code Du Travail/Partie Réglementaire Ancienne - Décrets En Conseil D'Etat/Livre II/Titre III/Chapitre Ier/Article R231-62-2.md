@@ -37,3 +37,11 @@ notamment l'utilisation de récipients sûrs et identifiables ;
 
 i) Mesures permettant, au cours du travail, de manipuler et de transporter sans
 risque des agents biologiques.
+
+3. Lorsque les résultats de l'évaluation visée à l'article R. 231-62 révèlent
+l'existence d'un risque d'exposition au virus de la rubéole ou au toxoplasme,
+l'exposition des femmes qui se sont déclarées enceintes est interdite, sauf si
+la preuve existe que la salariée est suffisamment protégée contre ces agents par
+son état d'immunité. Le chef d'établissement prend, après avis du médecin du
+travail, les mesures nécessaires à la mise en oeuvre de cette interdiction
+d'exposition.
