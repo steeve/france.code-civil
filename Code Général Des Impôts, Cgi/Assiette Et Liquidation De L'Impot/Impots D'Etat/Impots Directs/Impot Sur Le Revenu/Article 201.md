@@ -45,15 +45,16 @@ stocks. Les plus-values provenant de la cession des éléments de l'actif
 immobilisé sont imposées dans les conditions prévues à l'article 151 septies.
 
 Pour l'application de cette disposition, les redevables de cette catégorie sont
-tenus de faire parvenir à l'administration, dans le délai de trente jours prévu
-au 1, outre les renseignements visés audit paragraphe, une déclaration indiquant
-le montant net des plus-values visées à l'alinéa précédent et de produire, à
-l'appui de cette déclaration, toutes justifications utiles.
+tenus de faire parvenir à l'administration, dans le délai de soixante jours
+déterminé comme indiqué au 1, outre les renseignements visés audit paragraphe,
+une déclaration indiquant le montant net des plus-values visées à l'alinéa
+précédent et de produire, à l'appui de cette déclaration, toutes justifications
+utiles.
 
 3. Les contribuables non assujettis au forfait sont tenus de faire parvenir à
-l'administration, dans le délai de trente jours prévu au 1, outre les
-renseignements visés audit paragraphe, la déclaration de leur bénéfice réel
-accompagnée d'un résumé de leur compte de résultat.
+l'administration, dans le délai de soixante jours déterminé comme indiqué au 1,
+outre les renseignements visés audit paragraphe, la déclaration de leur bénéfice
+réel accompagnée d'un résumé de leur compte de résultat.
 
 Pour la détermination du bénéfice réel, il est fait application des dispositions
 des articles 39 duodecies, 39 terdecies-1 et 2, et 39 quaterdecies à 39
