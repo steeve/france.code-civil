@@ -14,6 +14,11 @@ deuxième alinéa ou si ces pièces n'établissent pas que le candidat répond a
 conditions d'éligibilité prévues par l'article L. 194, elle n'est pas
 enregistrée.
 
+Nul ne peut être candidat dans plus d'un canton.
+
+Si le candidat fait, contrairement aux prescriptions de l'alinéa précédent, acte
+de candidature dans plusieurs cantons, sa candidature n'est pas enregistrée.
+
 Le candidat qui s'est vu opposer un refus d'enregistrement dispose de
 vingt-quatre heures pour saisir le tribunal administratif qui statue sous trois
 jours.

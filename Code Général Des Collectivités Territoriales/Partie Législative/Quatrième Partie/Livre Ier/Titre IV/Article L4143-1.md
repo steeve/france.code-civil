@@ -7,8 +7,8 @@ prélablement appelée à en délibérer, a refusé ou négligé d'exercer.
 
 Le contribuable adresse au tribunal administratif un mémoire.
 
-Le président du conseil régional soumet ce mémoire au conseil régional
-spécialement convoqué à cet effet. Le délai de convocation peut être abrégé.
+Le président du conseil régional soumet ce mémoire au conseil régional lors de
+la plus proche réunion en application des articles L. 4132-8 et L. 4132-9.
 
 Lorsqu'un jugement est intervenu, le contribuable ne peut se pourvoir en appel
 ou en cassation qu'en vertu d'une nouvelle autorisation.
