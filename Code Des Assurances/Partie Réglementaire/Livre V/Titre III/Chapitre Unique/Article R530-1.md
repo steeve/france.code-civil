@@ -1,7 +1,7 @@
 Article R530-1
 ----
 Le montant de la garantie financière prévue à l'article L. 530-1 doit être au
-moins égal à la somme de 750 000 F et ne peut être inférieur au double du
+moins égal à la somme de 115000 euros et ne peut être inférieur au double du
 montant moyen mensuel des fonds perçus par le courtier ou la société de courtage
 d'assurance, calculé sur la base des fonds perçus au cours des douze derniers
 mois précédant le mois de la date de souscription ou de reconduction de

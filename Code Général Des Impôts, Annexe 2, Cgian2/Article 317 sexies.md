@@ -1,14 +1,14 @@
 Article 317 sexies
 ----
 I. Les valeurs modifiées conformément aux dispositions du I de l'article 1585 D
-du code général des impôts sont arrondies à la dizaine de francs inférieure.
-Elles sont applicables aux constructions pour lesquelles le permis de construire
-a été notifié ou tacitement délivré, ou, s'il s'agit de constructions soumises à
-la déclaration prévue à l'article L. 422-2 du code de l'urbanisme, pour
-lesquelles le délai d'opposition dont, en vertu de ce même article, dispose
-l'autorité compétente en matière de permis de construire, est venu à expiration,
-postérieurement au 1er juillet de chaque année et antérieurement au 1er juillet
-de l'année suivante.
+du code général des impôts sont arrondies à l'euro le plus proche, la fraction
+égale à 0,5 étant comptée pour 1. Elles sont applicables aux constructions pour
+lesquelles le permis de construire a été notifié ou tacitement délivré, ou, s'il
+s'agit de constructions soumises à la déclaration prévue à l'article L. 422-2 du
+code de l'urbanisme, pour lesquelles le délai d'opposition dont, en vertu de ce
+même article, dispose l'autorité compétente en matière de permis de construire,
+est venu à expiration, postérieurement au 1er juillet de chaque année et
+antérieurement au 1er juillet de l'année suivante.
 
 II. A défaut de délibération du conseil municipal fixant le taux de la catégorie
 1 visée au 1° du troisième alinéa du I de l'article 1585 D, le taux qui est
