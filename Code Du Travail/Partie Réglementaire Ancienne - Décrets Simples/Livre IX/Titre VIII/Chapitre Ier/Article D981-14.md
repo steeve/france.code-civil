@@ -1,10 +1,13 @@
 Article D981-14
 ----
-Pendant la durée du contrat, s'il est à durée déterminée, et pendant la période
-de formation, s'il est à durée indéterminée, le jeune perçoit, sauf dispositions
-conventionnelles plus favorables spécifiques aux titulaires de ces contrats, une
-rémunération au moins égale à 80 % du salaire minimum fixé par la convention
-collective applicable dans l'entreprise pour les salariés de la catégorie
-professionnelle correspondant à l'emploi ou au type d'emploi occupé, sous
-réserve que cette rémunération ne soit pas inférieure au salaire minimum de
-croissance.
+L'aide de l'Etat est versée à raison de 75 % de son montant prévisionnel au
+moment de la conclusion de la convention. Le solde est versé après examen par la
+direction départementale du travail, de l'emploi et de la formation
+professionnelle du bilan d'exécution de la convention.
+
+Lorsqu'il ressort de cet examen que le nombre d'accompagnements réalisés est
+inférieur à celui prévu par la convention ou que le contenu et les modalités de
+mise en oeuvre de l'accompagnement ne sont pas conformes à ce qu'a prévu la
+convention, les sommes correspondantes sont déduites du solde de l'aide restant
+à verser et, le cas échéant, reversées au Trésor public pour la part excédant le
+montant du solde.
