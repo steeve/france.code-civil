@@ -8,12 +8,10 @@ qui le préside en l'absence du maire ou du président du syndicat intercommunal
 nonobstant les dispositions de l'article L. 122-13 du code des communes.
 
 Le conseil d'administration comprend, outre son président, en nombre égal, des
-membres élus en son sein à la représentation proportionnelle, dans des
-conditions fixées par voie réglementaire, par le conseil municipal ou le comité
-syndical et des membres nommés par le maire ou le président du syndicat
-intercommunal parmi les personnes participant à des actions de prévention,
-d'animation ou de développement social menées dans la commune ou les communes
-considérées.
+membres élus en son sein par le conseil municipal ou le comité syndical et des
+membres nommés par le maire ou le président du syndicat intercommunal parmi les
+personnes participant à des actions de prévention, d'animation ou de
+développement social menées dans la commune ou les communes considérées.
 
 Au nombre des membres nommés doivent figurer un représentant des associations
 familiales désigné sur proposition de l'union départementale des associations
