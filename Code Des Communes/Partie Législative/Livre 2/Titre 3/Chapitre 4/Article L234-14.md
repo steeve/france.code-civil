@@ -7,11 +7,14 @@ voisines :
 1° Les communes qui, dans une agglomération représentant au moins 10 p. 100 de
 la population du département, en constituent la ville principale ;
 
-2° Les communes situées dans une agglomération de plus de 250.000 habitants
+1° bis Les communes de plus de 10 000 habitants qui, dans une agglomération de
+plus de 100 000 habitants, en constituent la ville principale ;
+
+2° Les communes situées dans une agglomération de plus de 250 000 habitants
 représentants au moins 10 p. 100 de la population du département, lorsque leur
 population est au moins égale à la moitié de celle de la ville principale ;
 
-3° Les communes de plus de 100.000 habitants ou celles dont la population
+3° Les communes de plus de 100 000 habitants ou celles dont la population
 représente au moins 10 p. 100 de la population du département ;
 
 4° Les communes chefs-lieux de département. Dans la région d'Ile-de-France,
