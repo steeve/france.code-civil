@@ -1,8 +1,10 @@
 Article L233-3
 ----
-Les dispositions de l'article L. 233-1 sont applicables aux établissements
-publics départementaux, aux établissements publics interdépartementaux, aux
-établissements publics communs aux communes et aux départements ainsi qu'aux
-établissements publics communs à des collectivités locales ou groupements de ces
-collectivités, à l'exception des établissements publics de santé soumis aux
-dispositions spécifiques de l'article L. 233-4.
+Les dispositions de l'article L. 233-1 sont applicables aux agents comptables
+des établissements publics locaux d'enseignement.
+
+Lorsque l'agent comptable a été requis de payer par le chef d'établissement,
+celui-ci rend compte à la collectivité de rattachement, à l'autorité académique
+et au conseil d'administration. L'agent comptable en rend compte au comptable
+supérieur du Trésor territorialement compétent qui transmet l'ordre de
+réquisition à la chambre régionale des comptes.

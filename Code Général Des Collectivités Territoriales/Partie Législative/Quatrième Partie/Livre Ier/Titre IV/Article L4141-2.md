@@ -1,0 +1,24 @@
+Article L4141-2
+----
+- Sont soumis aux dispositions de l'article L. 4141-1 les actes suivants :
+
+1° Les délibérations du conseil régional ou les décisions prises par la
+commission permanente par délégation du conseil régional ;
+
+2° Les actes à caractère réglementaire pris par les autorités régionales dans
+les domaines qui relèvent de leur compétence en application de la loi ;
+
+3° Les conventions relatives aux marchés et aux emprunts ainsi que les
+conventions de concession ou d'affermage de services publics locaux à caractère
+industriel ou commercial ;
+
+4° Les décisions individuelles relatives à la nomination, à l'avancement de
+grade, à l'avancement d'échelon, aux sanctions soumises à l'avis du conseil de
+discipline et au licenciement d'agents de la région ;
+
+5° Les ordres de réquisition du comptable pris par le président du conseil
+régional ;
+
+6° Les décisions relevant de l'exercice de prérogatives de puissance publique,
+prises par des sociétés d'économie mixte locales pour le compte d'une région ou
+d'un établissement public de coopération interrégionale.

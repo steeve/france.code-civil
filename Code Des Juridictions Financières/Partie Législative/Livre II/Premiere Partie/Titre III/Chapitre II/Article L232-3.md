@@ -1,13 +1,25 @@
 Article L232-3
 ----
-En cas de création d'une nouvelle commune, le conseil municipal adopte le budget
-dans un délai de trois mois à compter de cette création. A défaut, le budget est
-réglé et rendu exécutoire par le représentant de l'Etat dans le département, sur
-avis public de la chambre régionale des comptes dans les conditions prévues aux
-premier et deuxième alinéas de l'article L. 232-2.
+La chambre régionale des comptes, saisie par le représentant de l'Etat, donne un
+avis sur les modifications susceptibles d'être apportées aux règles fixant les
+modalités de répartition des contributions des communes au budget d'un syndicat
+dont elles sont membres dans le cadre défini à l'article L. 5212-25 du code
+général des collectivités territoriales ci-après reproduit :
 
-Ces dispositions ne sont pas applicables quand le défaut d'adoption résulte de
-l'absence de communication au conseil municipal, dans les deux mois et demi
-suivant cette création, d'informations indispensables à l'établissement du
-budget. Dans ce cas, le conseil municipal dispose de quinze jours après cette
-communication pour arrêter le budget de la commune.
+Art. L. 5212-25. - Lorsque l'application d'une disposition à caractère fiscal ou
+budgétaire a pour conséquence d'augmenter ou de diminuer les ressources de
+fonctionnement d'une commune membre d'un syndicat d'un pourcentage égal ou
+supérieur à 10 p. 100 des recettes de la section de fonctionnement s'il s'agit
+d'une commune de moins de 20 000 habitants et à 5 p. 100 dans les autres cas,
+chaque commune membre peut demander au comité syndical une modification des
+règles fixant les modalités de répartition des contributions financières des
+communes au budget du syndicat à compter de l'année suivante.
+
+Si le comité syndical n'a pas fait droit à la demande dans un délai de six mois,
+ou si la délibération du comité syndical n'a pas été approuvée par les conseils
+municipaux dans les conditions prévues aux deuxième, troisième et cinquième
+alinéas de l'article L. 5212-27 du code général des collectivités territoriales,
+le représentant de l'Etat peut modifier, à la demande de la commune intéressée
+et après avis de la chambre régionale des comptes, les règles fixant les
+modalités de répartition des contributions financières des communes au budget du
+syndicat.

@@ -1,10 +1,14 @@
 Article L235-1
 ----
-Si le représentant de l'Etat estime qu'une délibération du conseil
-d'administration, du conseil de surveillance ou des assemblées générales d'une
-société d'économie mixte locale est de nature à augmenter gravement la charge
-financière d'une ou plusieurs des collectivités territoriales ou de leurs
-groupements, actionnaires, ou le risque encouru par la ou les collectivités
+Le contrôle des actes des sociétés d'économie mixte locales est régi par les
+dispositions de l'article L. 1524-2 du code général des collectivités
+territoriales ci-après reproduit :
+
+Art.L. 1524-2.-Si le représentant de l'Etat estime qu'une délibération du
+conseil d'administration, du conseil de surveillance ou des assemblées générales
+d'une société d'économie mixte locale est de nature à augmenter gravement la
+charge financière d'une ou plusieurs des collectivités territoriales ou de leurs
+groupements actionnaires, ou le risque encouru par la ou les collectivités
 territoriales ou leurs groupements qui ont apporté leur garantie à un emprunt
 contracté par la société, il saisit, dans le délai d'un mois suivant la date de
 réception, la chambre régionale des comptes, à charge pour lui d'en informer

@@ -1,0 +1,18 @@
+Article L2121-12
+----
+Dans les communes de 3 500 habitants et plus, une note explicative de synthèse
+sur les affaires soumises à délibération doit être adressée avec la convocation
+aux membres du conseil municipal.
+
+Si la délibération concerne un contrat de service public, le projet de contrat
+ou de marché accompagné de l'ensemble des pièces peut, à sa demande, être
+consulté à la mairie par tout conseiller municipal dans les conditions fixées
+par le règlement intérieur.
+
+Le délai de convocation est fixé à cinq jours francs. En cas d'urgence, le délai
+peut être abrégé par le maire sans pouvoir être toutefois inférieur à un jour
+franc.
+
+Le maire en rend compte dès l'ouverture de la séance au conseil municipal qui se
+prononce sur l'urgence et peut décider le renvoi de la discussion, pour tout ou
+partie, à l'ordre du jour d'une séance ultérieure.

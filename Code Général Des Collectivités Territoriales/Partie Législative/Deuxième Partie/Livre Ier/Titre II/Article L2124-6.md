@@ -1,0 +1,6 @@
+Article L2124-6
+----
+En temps de guerre, en cas d'absence, de suspension, de révocation ou de tout
+autre empêchement du maire, le représentant de l'Etat dans le département peut
+désigner, pour le remplacer dans la plénitude de ses fonctions, un délégué
+choisi parmi les membres du conseil municipal.

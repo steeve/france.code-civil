@@ -1,12 +1,11 @@
 Article L4422-9
 ----
-Aussitôt après l'élection du président et sous sa présidence, l'Assemblée
+- Aussitôt après l'élection du président et sous sa présidence, l'Assemblée
 procède à l'élection des membres de la commission permanente sous la même
 condition de quorum que celle prévue à l'article L. 4422-8.
 
 La commission permanente est présidée par le président de l'Assemblée qui en est
-membre de droit. Elle comprend en outre dix conseillers à l'Assemblée dont deux
-vice-présidents.
+membre de droit. Elle comprend en outre dix conseillers à l'Assemblée.
 
 Les candidatures à la commission permanente sont déposées auprès du président
 dans l'heure qui suit l'élection du président. Si, à l'expiration de ce délai,
@@ -30,11 +29,11 @@ candidats susceptibles d'être proclamés élus. Si le nombre de candidats figur
 sur la liste est inférieur au nombre de sièges qui lui reviennent, le ou les
 sièges non pourvus sont attribués à la ou aux plus fortes moyennes suivantes.
 
-L'Assemblée désigne ensuite ses deux vice-présidents parmi les membres de la
-commission permanente, après avoir déterminé leur ordre de nomination. Si une
-seule candidature a été déposée pour chacun des postes, les nominations prennent
-effet immédiatement. Dans le cas contraire, il est procédé à l'élection, poste
-par poste, dans les mêmes conditions que pour l'élection du président.
+Les deux vice-présidents de l'Assemblée sont ensuite désignés par celle-ci parmi
+les membres de la commission permanente. Si le nombre de candidats n'est pas
+supérieur à deux, les nominations prennent effet immédiatement. Dans le cas
+contraire, il est procédé à leur élection au scrutin majoritaire dans les mêmes
+conditions que pour l'élection du président.
 
 En cas de vacance de siège de membre de la commission permanente autre que le
 président, la ou les vacances sont pourvues selon la procédure fixée par le
