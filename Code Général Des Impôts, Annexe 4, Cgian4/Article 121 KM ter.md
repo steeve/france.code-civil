@@ -7,6 +7,6 @@ a. Timbres mobiles de la série unique ;
 
 b. Timbres travailleurs étrangers ;
 
-c. Timbres contrat de transport ;
+c. (sans objet) ;
 
 d. Timbres-amendes.
