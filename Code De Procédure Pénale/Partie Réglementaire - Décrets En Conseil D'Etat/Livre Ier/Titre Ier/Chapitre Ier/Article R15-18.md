@@ -6,8 +6,7 @@ compétence s'exerce sur l'ensemble du territoire national sont les suivants :
 
 1° La direction centrale de la police judiciaire ;
 
-2° La direction centrale du contrôle de l'immigration et de la lutte contre
-l'emploi des clandestins ;
+2° La direction centrale de la police aux frontières ;
 
 3° La direction de la surveillance du territoire ;
 
