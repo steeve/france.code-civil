@@ -56,6 +56,11 @@ rapport au siège de l'exploitation du demandeur est supérieur à un maximum fi
 par le schéma directeur départemental des structures agricoles, sans que ce
 maximum puisse être inférieur à cinq kilomètres.
 
+4° A titre transitoire et jusqu'au 30 juin 1993, les créations ou extensions de
+capacité des ateliers hors sol, au-delà d'un seuil de capacité de production et
+selon des modalités fixées par décret, susceptibles de remettre en cause
+l'équilibre des structures sociales qui caractérisent cette activité.
+
 III. - Sont soumise à déclaration préalable les opérations effectuées dans les
 cas ci-après :
 
@@ -115,7 +120,7 @@ retraite ;
 
 6° Lorsque la réunion d'exploitations agricoles résulte de la réunion entre les
 mains de l'un d'entre eux des biens que chacun des deux époux méttait en valeur
-avant leur mariage
+avant leur mariage ;
 
 7° Pour les cessions d'immeubles opérées par une société d'aménagement foncier
 et d'établissement rural lorsqu'elles relèvent de la procédure définie aux
