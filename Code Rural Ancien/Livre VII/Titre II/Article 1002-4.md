@@ -26,6 +26,15 @@ le plan national les bénéficiaires des régimes de protection sociale agricole
 de centraliser les informations nécessaires à la détermination des prestations
 dues aux assurés ;
 
+En passant, pour son propre compte et celui des autres organismes, associations
+et groupements mentionnés aux articles 1002 à 1002-3 du présent code, des
+conventions de prix assorties de marchés types tant pour les marchés
+informatiques que pour les autres marchés prévus à l'article L. 124-4 du code de
+la sécurité sociale. Dans le cadre de cette procédure, les autres organismes,
+associations et groupements susvisés sont alors dispensés du respect des
+obligations leur incombant en application de l'article L. 124-4 du code de la
+sécurité sociale.
+
 c) D'assurer la gestion de risques ou de fonds dans les cas prévus par la
 législation ;
 
