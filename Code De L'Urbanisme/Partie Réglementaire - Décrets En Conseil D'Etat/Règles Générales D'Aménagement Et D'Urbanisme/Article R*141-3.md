@@ -40,4 +40,4 @@ diffusés dans le département [*publicité*] ;
 Lorsque les conseils municipaux ou les organes délibérants visés à l'article R.
 122-13 ainsi que le conseil d'administration du district ont émis leur avis, le
 préfet de la région parisienne soumet les projets de schémas directeurs et de
-schémas de secteur à l'approbation des autorités compétentes.
+schémas du secteur à l'approbation des autorités compétentes.
