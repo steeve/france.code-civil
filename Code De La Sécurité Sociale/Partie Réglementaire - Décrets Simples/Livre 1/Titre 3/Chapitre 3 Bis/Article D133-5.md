@@ -17,10 +17,9 @@ civile précédente ou, en l'absence d'emploi de salarié au cours de l'année
 précédente, à la date à laquelle l'entreprise demande à bénéficier du dispositif
 ;
 
-2° En ce qui concerne les emplois occasionnels, pour l'appréciation de la limite
-de cent jours, il sera tenu compte de chaque jour calendaire travaillé dans l'un
-quelconque des établissements de l'entreprise, quel que soit le nombre d'heures
-de travail quotidien.
+2° En ce qui concerne les emplois occasionnels, la limite de cent jours est
+atteinte lorsque le salarié a cumulé 700 heures de travail dans la même
+entreprise au cours de l'année civile.
 
 II. - Préalablement à l'utilisation du titre emploi-entreprise, l'employeur doit
 remplir un volet d'identification du salarié qui lui aura été délivré par un

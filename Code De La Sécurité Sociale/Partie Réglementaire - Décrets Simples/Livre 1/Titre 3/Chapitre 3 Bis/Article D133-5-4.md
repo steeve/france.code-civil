@@ -13,3 +13,7 @@ Le versement des cotisations et contributions sociales dues au titre de
 l'utilisation du titre emploi-entreprise peut être effectué par chèque bancaire
 ou postal ou au moyen d'un titre interbancaire de paiement ou du prélèvement
 automatique.
+
+Lorsque l'employeur utilise la version dématérialisée du "titre
+emploi-entreprise", il doit effectuer son versement par télérèglement dans les
+conditions prévues par l'article L. 133-5.
