@@ -10,5 +10,5 @@ sexies et 150 octies du code général des impôts ainsi que les éléments
 nécessaires à leur détermination.
 
 Les contribuables qui demandent à bénéficier d'un report des pertes subies au
-cours des cinq années antérieures sont tenus d'indiquer sur cette déclaration le
+cours des dix années antérieures sont tenus d'indiquer sur cette déclaration le
 détail des pertes reportées par année et par nature de profit.
