@@ -16,3 +16,6 @@ susceptible d'être déclaré au titre de l'assurance facultative.
 Toutefois, les assurés facultatifs dont la rente a été liquidée au titre d'un
 accident du travail survenu avant le 1er avril 1943 bénéficient sans conditions
 de la majoration prévue à l'alinéa 1er du présent article.
+
+Les dispositions de l'article 1234-26-1 sont applicables aux rentes servies aux
+assurés de professions agricoles bénéficiaires de l'assurance facultative.

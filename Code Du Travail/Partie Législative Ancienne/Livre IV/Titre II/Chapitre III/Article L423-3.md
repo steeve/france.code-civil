@@ -1,10 +1,10 @@
 Article L423-3
 ----
 Le nombre et la composition des collèges électoraux ne peuvent être modifiés par
-une convention, un accord collectif de travail ou un accord préélectoral que
-lorsque la convention ou l'accord est signé par toutes les organisations
-syndicales représentatives existant dans l'entreprise. L'accord préélectoral est
-obligatoirement transmis à l'inspecteur du travail.
+une convention, un accord collectif de travail, étendus ou non, ou un accord
+préélectoral que lorsque la convention ou l'accord est signé par toutes les
+organisations syndicales représentatives existant dans l'entreprise. L'accord
+préélectoral est obligatoirement transmis à l'inspecteur du travail.
 
 La répartition du personnel dans les collèges électoraux et la répartition des
 sièges entre les différentes catégories font l'objet d'un accord entre le chef

@@ -11,9 +11,17 @@ de la section de l'assurance maladie, maternité, invalidité et de l'assurance
 vieillesse des membres non salariés des professions agricoles du conseil
 supérieur des prestations sociales agricoles.
 
-Le revenu cadastral pris en considération est le revenu cadastral de
-l'exploitation après application d'un coefficient d'adaptation fixé annuellement
-pour chaque département par le décret ci-dessus prévu.
+Le revenu cadastral pris en considération est le revenu cadastral réel de
+l'exploitation, après application du coefficient d'adaptation fixé par le décret
+prévu ci-dessus et, éventuellement, de coefficients par nature de culture ou par
+région naturelle fixés par arrêté du représentant de l'Etat dans le département.
+
+Toutefois, pour les personnes assujetties au titre d'une activité autre que la
+mise en valeur des terres et pour certaines catégories de producteurs définies
+par le décret mentionné aux alinéas précèdents, le revenu cadastral pris en
+considération est un revenu cadastral théorique fixé par arrêté du ministre de
+l'agriculture ou, par délégation de celui-ci, par arrêté du représentant de
+l'Etat dans le département.
 
 Dans le bail à métayage, le revenu cadastral retenu pour l'application au
 preneur du présent article est la partie du revenu cadastral de l'exploitation

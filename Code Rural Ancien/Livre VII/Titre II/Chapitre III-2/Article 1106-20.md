@@ -10,30 +10,22 @@ d'exigibilité sont fixés par décret. Le même décret fixe les conditions dan
 lesquelles les cotisations sont majorées pour la couverture des frais de gestion
 et d'action sociale.
 
-Dans le bail à métayage ou colonat partiaire, la cotisation est partagée entre
+Dans le bail à métayage ou colonat paritaire, la cotisation est partagée entre
 le preneur et le bailleur dans les conditions prévues à l'article 1142-6,
 troisième alinéa, du présent code pour le partage de la cotisation cadastrale de
 l'assurance vieillesse.
 
-Les dispositions des articles 1106-7, I, 1°, 1106-7, II, 1° et 1106-12, deuxième
-alinéa, s'appliquent aux personnes visées à l'article 1106-18, troisième alinéa.
+Les dispositions du deuxième alinéa de l'article 1106-12 s'appliquent aux
+personnes mentionnées au troisième alinéa de l'article 1106-18 si la superficie
+pondérée exploitée est inférieure au minimum prévu à l'article 1142-13 du
+présent code.
 
-Pour l'application de l'article 1106-7, II, 1°, et de l'article 1106-12,
-deuxième alinéa, la superficie exploitée doit être inférieure au minimum prévu à
-l'article 1142-13 du présent code.
-
-Bénéficient d'une exonération totale de cotisations les titulaires de
-l'allocation de vieillesse agricole âgés de moins de soixante-cinq ans qui,
-hormis la condition d'âge, remplissent les conditions d'obtention de
-l'allocation supplémentaire du fonds national de solidarité.
-
-Les assurés vivant sur l'exploitation ou l'entreprise et participant à sa mise
-en valeur bénéficient d'une exonération partielle pour les cotisations dues de
-leur chef, lorsque la superficie réelle pondérée de l'exploitation, compte tenu
-de la nature des cultures, est inférieure à un minimum fixé par décret. Le même
-décret fixe les différents taux d'exonération suivant l'importance de la
-superficie réelle pondérée, dans les limites prévues à l'article 1106-8, I
-(deuxième alinéa).
+Bénéficient d'une exonération totale de cotisations les personnes mentionnées au
+troisième alinéa de l'article 1106-18 percevant l'allocation supplémentaire
+prévue au livre IV du code de la sécurité sociale, ainsi que les titulaires de
+l'allocation vieillesse agricole âgés de moins de soixante-cinq ans qui, hormis
+la condition d'âge, remplissent les conditions d'attribution de l'allocation
+supplémentaire précitée.
 
 Dans le bail à métayage ou colonat partiaire, la superficie réelle pondérée
 retenue pour l'application au preneur des dispositions de l'alinéa précédent,

@@ -13,14 +13,9 @@ définies ci-dessus, le régime du forfait n'est applicable que si son chiffre
 d'affaires global annuel n'excède pas 500.000 F et si le chiffre d'affaires
 annuel afférent aux activités de la deuxième catégorie ne dépasse pas 150.000 F.
 
-Dans le département de la Réunion, les chiffres limites pour l'admission au
-régime forfaitaire sont majorés de 36 % en 1975, 24 % en 1976 et 12 %
-[*pourcentage*] en 1977.
-
 Les chiffres d'affaires annuels de 500.000 F et de 150.000 F s'entendent tous
-droits et taxes compris, à l'exception de la cotisation sur le tabac et les
-boissons alcooliques instituée par l'article 26 de la loi n° 83-25 du 19 janvier
-1983.
+droits et taxes compris, à l'exception de la cotisation sur les boissons
+alcooliques instituée par l'article 26 de la loi n° 83-25 du 19 janvier 1983.
 
 Pour la détermination du chiffre d'affaires annuel, les ventes d'essence, de
 supercarburant et de gas-oil sont retenues à concurrence de 50 % de leur
@@ -86,5 +81,5 @@ la reconduction [*date limite*];
 
 10 (Transféré sous l'article L8 du livre des procédures fiscales).
 
-1) En cas de passage du régime du bénéfice réel ou du régime simplifié à celui
+(1) En cas de passage du régime du bénéfice réel ou du régime simplifié à celui
 du forfait, voir Annexe II, art. 38.

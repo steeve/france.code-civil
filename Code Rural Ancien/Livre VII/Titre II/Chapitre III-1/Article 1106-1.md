@@ -29,7 +29,7 @@ régime obligatoire d'assurance maladie, maternité ;
 b) aux enfants de moins de seize ans à la charge des personnes visées aux 1°,
 2°, 3°, 5° et 6° du présent paragraphe ou de leur conjoint, qu'ils soient
 légitimes, naturels reconnus ou non, recueillis, adoptifs ou pupilles de la
-Nation dont l'assuré est le tuteur.
+nation dont l'assuré est le tuteur.
 
 Pour l'application du présent chapitre, sont assimilés aux enfants de moins de
 seize ans :
@@ -43,7 +43,7 @@ chronique, dans l'impossibilité permanente de se livrer à une activité
 rémunératrice ;
 
 Ceux de moins de vingt ans qui bénéficient de l'article L. 528 du code de la
-sécurité sociale ;
+sécurité sociale.
 
 5° aux membres non salariés de toute société, quelles qu'en soient la forme et
 la dénomination, lorsque ces membres consacrent leur activité, pour le compte de
@@ -57,29 +57,27 @@ article ;
 II. - Ne sont pas assujettis au régime d'assurance obligatoire institué par le
 présent chapitre les exploitants forestiers négociants en bois affiliés à
 l'organisation autonome d'allocation vieillesse des professions industrielles et
-commerciales et les personnes visées au deuxième alinéa de l'article 6 du décret
-n° 61-294 du 31 mars 1961. Toutefois, les personnes visées au deuxième alinéa de
-l'article 6 du décret n° 61-294 du 31 mars 1961 susvisé peuvent solliciter
-auprès du régime institué par le présent chapitre le bénéfice des dispositions
-de la loi n° 77-773 du 12 juillet 1977 sans autres conditions que celles prévues
-par celle-ci.
+commerciales et les personnes mentionnées au deuxième alinéa de l'article 6 du
+décret n° 61-294 du 31 mars 1961. Toutefois, les personnes mentionnées au
+deuxième alinéa de l'article 6 du décret n° 61-294 du 31 mars 1961 peuvent
+demander aux institutions du régime institué par le présent chapitre le bénéfice
+des dispositions de la loi n° 77-773 du 12 juillet 1977 tendant à l'abaissement
+de l'âge de la retraite pour les anciens déportés ou internés, sans autre
+condition que celles prévues par cette dernière loi.
 
-Sont affiliées simultanément aux régimes dont relèvent leurs activités et,
-éventuellement, à celui dont relève leur pension ou leur allocation :
+Sont affiliées et cotisent simultanément aux régimes dont relèvent leurs
+activités et, éventuellement, à celui dont relève leur pension ou leur
+allocation :
 
 a) les personnes qui exercent simultanément plusieurs activités dont l'une
 relève de l'assurance obligatoire instituée par le présent chapitre ;
 
-b) les personnes visées à l'article 1106-1, 3°, ou titulaires d'une pension
-d'invalidité en application de l'article 1106-3, 2°, qui exercent une activité
-professionnelle relevant d'un régime d'assurance maladie et maternité autre que
-celui institué par le présent chapitre.
+b) les personnes mentionnèes au 3° du I du présent article, ou titulaires d'une
+pension d'invalidité en application du 2° de l'article 1106-3, qui exercent une
+activité professionnelle.
 
-Lorsque l'activité salariée est accessoire ou exercée par un pensionné ou un
-allocataire ayant choisi le régime de sa pension ou de son allocation, la
-cotisation personnelle au titre des assurances maladie, maternité, invalidité et
-décès pour son activité salariée n'est pas due.
-
-De même lorsque l'activité non salariée est accessoire ou exercée par un
-pensionné ou par un allocataire ayant choisi le régime de sa pension ou de son
-allocation, la cotisation au titre de l'activité non salariée n'est pas due.
+Toutefois, lorsqu'en application de l'article 155 du code général des impôts,
+les résultats de l'activité agricole sont retenus pour la détermination des
+bénéfices industriels et commerciaux, la cotisation d'assurance maladie n'est
+due qu'au titre de l'activité principale. Cette cotisation est assise sur
+l'ensemble des revenus professionnels.

@@ -9,10 +9,9 @@ Tout syndicat affilié à une organisation représentative sur le plan national 
 considéré comme représentatif dans l'entreprise pour l'application du présent
 chapitre.
 
-Dans les entreprises occupant plus de cinq cents salariés [*effectif*], les
-ingénieurs, les chefs de service et cadres administratifs, commerciaux ou
-techniques assimilés ont au moins un délégué titulaire élu dans les mêmes
-conditions.
+Dans les entreprises occupant plus de cinq cents salariés, les ingénieurs, les
+chefs de service et cadres administratifs, commerciaux ou techniques assimilés
+ont au moins un délégué titulaire élu dans les mêmes conditions.
 
 En outre, dans les entreprises, quel que soit l'effectif de leurs salariés, où
 le nombre des ingénieurs, chefs de service et cadres administratifs, commerciaux
@@ -20,11 +19,12 @@ ou techniques assimilés sur le plan de la classification est au moins égal à
 vingt-cinq au moment de la constitution ou du renouvellement du comité, lesdites
 catégories constituent un collège spécial.
 
-Sous réserve des dispositions de l'alinéa précédent, le nombre et la composition
-des collèges électoraux peuvent être modifiés par une convention, un accord
-collectif de travail ou un accord préélectoral signé par toutes les
-organisations syndicales représentatives dans l'entreprise. L'accord
-préélectoral est obligatoirement transmis à l'inspecteur du travail.
+Sans préjudice des dispositions de l'alinéa précédent, le nombre et la
+composition des collèges électoraux ne peuvent être modifiés par une convention,
+un accord collectif de travail, étendus ou non, ou un accord préélectoral que
+lorsque la convention ou l'accord est signé par toutes les organisations
+syndicales représentatives existant dans l'entreprise. L'accord préélectoral est
+obligatoirement transmis à l'inspecteur du travail.
 
 La répartition des sièges entre les différentes catégories et la répartition du
 personnel dans les collèges électoraux font l'objet d'un accord entre le chef
