@@ -1,6 +1,7 @@
 Article 363 R
 ----
-Le produit annuel de la taxe est réparti entre le centre d'études technique des
-industries de l'habillement (CETIH) et le comité interprofessionnel de
-rénovation des industries du textile et de l'habillement (CIRITH) de telle façon
-qu'aucun de ces organismes ne perçoive moins de 25 % de ce produit.
+Les sommes recouvrées par l'administration des impôts et l'administration des
+douanes sont transférées mensuellement au comité interprofessionnel de
+rénovation des industries du textile et de l'habillement à charge pour lui de
+reverser une partie de ces sommes à l'institut textile de France et au centre
+technique des industries de l'habillement.
