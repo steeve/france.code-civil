@@ -15,8 +15,8 @@ logements.
 
 1.2. Surface habitable après travaux.
 
-1.3. Surface corrigée des logements (information à compléter au plus tard lors
-de la date d'achèvement des travaux).
+1.3. Surface habitable telle que définie à l'article R. 353-40 du code de la
+construction et de l'habitation.
 
 1.4. Dépendances (nombre, surface).
 

@@ -69,12 +69,11 @@ du programme faisant l'objet de la présente convention.
 Art. 4 - Montant maximum du loyer et modalités de révision.
 
 Le loyer pratiqué par le bailleur, dont la valeur est fixée par mètre carré de
-surface corrigée, ne doit pas excéder le loyer maximum qui est fixé à ... F
-annuels le mètre carré de surface corrigée.
+surface habitable, ne doit pas excéder le loyer maximum, qui est fixé à .. euros
+mensuels par mètre carré de surface habitable.
 
-Cette surface est calculée conformément aux dispositions de l'article R. 442-1
-du code de la construction et de l'habitation et de l'article 4 du décret n°
-60-1063 du 1er octobre 1960.
+Cette surface est calculée selon les modalités définies à l'article R. 353-40 du
+code de la construction et de l'habitation.
 
 Ce loyer maximum est révisable chaque année, le 1er juillet, en fonction des
 variations de la moyenne sur quatre trimestres de l'indice du coût de la

@@ -1,7 +1,7 @@
 Article R353-41
 ----
 Les loyers pratiqués, dont la valeur est fixée par mètre carré de surface
-corrigée calculée dans les conditions définies à l'article R. 353-40, peuvent
+habitable calculée dans les conditions définies à l'article R. 353-40, peuvent
 être révisés au cours de la période triennale, le 1er juillet de chaque année,
 en fonction des variations de la moyenne sur quatre trimestres de l'indice du
 coût de la construction publié par l'Institut national de la statistique et des
