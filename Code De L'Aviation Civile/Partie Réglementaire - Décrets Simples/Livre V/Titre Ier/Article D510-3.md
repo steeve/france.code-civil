@@ -14,6 +14,9 @@ planeurs à dispositif d'envoi incorporé) ;
 
 - pour l'aérostation, la fédération française d'aérostation.
 
+" - pour l'ultra-léger motorisé, la Fédération française de planeur ultra-léger
+motorisé. "
+
 Ces fédérations :
 
 1° Ont seules compétence pour assurer la représentation des aéro-clubs qui leur
