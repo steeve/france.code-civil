@@ -6,14 +6,15 @@ et de celles des articles L. 322-19 et L. 322-21 du présent code, nul ne peut
 obtenir ou conserver une licence d'agent artistique s'il exerce, directement ou
 par personne interposée, l'une des activités suivantes :
 
-Artiste du spectacle, directeur d'un théatre fixe, producteur de films,
-programmeur de radiodiffusion ou de télévision, administrateur, directeur
-artistique ou régisseur d'une entreprise de production de films, directeur
-artistique ou commercial d'entreprise d'édition et d'enregistrement de disques
-ou de tous autres supports d'enregistrement, fabricant d'instruments de musique,
-marchand de musique ou de sonorisation, loueur de matériels et espaces de
-spectacles, producteur dans une entreprise de radiodiffusion ou de télévision,
-éditeur de musique, agent de publicité.
+Artiste du spectacle, exploitant de lieux de spectacles spécialement aménagés
+pour les représentations publiques, producteur de films, programmeur de
+radiodiffusion ou de télévision, administrateur, directeur artistique ou
+régisseur d'une entreprise de production de films, directeur artistique ou
+commercial d'entreprise d'édition et d'enregistrement de disques ou de tous
+autres supports d'enregistrement, fabricant d'instruments de musique, marchand
+de musique ou de sonorisation, loueur de matériels et espaces de spectacles,
+producteur dans une entreprise de radiodiffusion ou de télévision, éditeur de
+musique, agent de publicité.
 
 Les préposés d'un agent artistique sont soumis aux incompatibilités définies
 ci-dessus.
@@ -26,6 +27,6 @@ d'une société à responsabilité limitée [*SARL*] .
 
 Sous réserve du respect des dispositions du premier et du deuxième alinéa du
 présent article, un agent artistique, lorsqu'il est titulaire d'une licence
-d'exploitation d'entreprise de spectacles, peut produire un spectacle vivant.
-Dans ce cas, il ne peut percevoir une commission quelconque sur l'ensemble des
-artistes composant la distribution du spectacle.
+d'entrepreneur de spectacles vivants, peut produire un spectacle vivant. Dans ce
+cas, il ne peut percevoir une commission quelconque sur l'ensemble des artistes
+composant la distribution du spectacle.
