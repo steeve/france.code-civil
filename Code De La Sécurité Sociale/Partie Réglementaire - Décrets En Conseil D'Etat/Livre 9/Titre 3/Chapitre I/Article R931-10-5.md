@@ -5,5 +5,14 @@ prévoyance agréées pour pratiquer une ou plusieurs des branches mentionnées 
 1, 2 et 16 a de l'article R. 931-2-1 est égal au tiers du montant de la marge de
 solvabilité défini à l'article R. 931-10-4.
 
-Ce fonds ne peut être inférieur à 225 000 unités de compte de la Communauté
-européenne.
+Ce fonds ne peut être inférieur à 1,5 million d'euros.
+
+Ce montant est révisé annuellement en fonction de l'évolution de l'indice
+européen des prix à la consommation publié par Eurostat pour l'ensemble des
+Etats membres. Chaque année, la commission de contrôle communique le nouveau
+montant en euros calculé en fonction de l'évolution de cet indice et arrondi au
+multiple de 100 000 euros supérieur. Si la variation de l'indice depuis la
+dernière adaptation est inférieure à 5 %, ce montant n'est pas révisé.
+
+Le fonds est constitué par les éléments mentionnés aux 1, 3, 4, 5 et 7 de
+l'article R. 931-10-3.

@@ -4,7 +4,10 @@ I. - Les programmes ou projets de travaux, d'ouvrage ou d'aménagement soumis à
 un régime d'autorisation ou d'approbation administrative, et dont la réalisation
 est de nature à affecter de façon notable un site Natura 2000, font l'objet
 d'une évaluation de leurs incidences au regard des objectifs de conservation du
-site.
+site. Pour ceux de ces programmes qui sont prévus par des dispositions
+législatives et réglementaires et qui ne sont pas soumis à étude d'impact,
+l'évaluation est conduite selon la procédure prévue aux articles L. 122-4 et
+suivants du présent code.
 
 Les travaux, ouvrages ou aménagements prévus par les contrats Natura 2000 sont
 dispensés de la procédure d'évaluation mentionnée à l'alinéa précédent.

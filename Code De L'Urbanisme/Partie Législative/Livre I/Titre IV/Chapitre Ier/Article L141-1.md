@@ -60,6 +60,11 @@ règles prévues au deuxième alinéa du présent article, il y est procédé pa
 décret en Conseil d'Etat. Toutefois, en cas d'urgence constatée par décret en
 conseil des ministres, il y est procédé sans délai par décret en Conseil d'Etat.
 
+Au plus tard à l'expiration d'un délai de dix ans à compter du décret approuvant
+le schéma directeur de la région d'Ile-de-France, la région procède à une
+analyse des résultats de son application, notamment du point de vue de
+l'environnement.
+
 Le schéma directeur de la région d'Ile-de-France a les mêmes effets que les
 directives territoriales d'aménagement définies en application de l'article L.
 111-1-1. Il doit être compatible avec ces directives lorsqu'elles s'appliquent

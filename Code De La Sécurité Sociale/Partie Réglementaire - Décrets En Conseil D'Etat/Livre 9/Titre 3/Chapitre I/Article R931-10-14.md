@@ -43,10 +43,10 @@ institutions de prévoyance ou leurs unions qui acceptent des risques en
 réassurance et égale à la différence entre les valeurs actuelles des engagements
 respectivement pris par l'un envers l'autre par le réassureur et le cédant ;
 
-8° Provision pour risque d'exigibilité des engagements techniques : provision
-destinée à faire face à une insuffisante liquidité des placements, notamment en
-cas de modification du rythme de règlement des sinistres calculée dans les
-conditions définies à l'article R. 931-10-15 ;
+8° Provision pour risque d'exigibilité : provision destinée à faire face aux
+engagements dans le cas de moins-value de l'ensemble des actifs mentionnés à
+l'article R. 931-10-41. La provision à constituer est calculée dans les
+conditions définies au I de l'article R. 931-10-15 ;
 
 9° Provision pour égalisation : provision destinée à faire face aux fluctuations
 de sinistralité afférentes aux opérations collectives couvrant les risques de
