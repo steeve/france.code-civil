@@ -21,9 +21,9 @@ prévues dans le décret définissant l'appellation revendiquée.
 La validité du certificat d'agrément pour les vins primeurs non conditionnés et
 non commercialisés des appellations mentionnées dans le décret du 15 novembre
 1967 relatif à la commercialisation des vins à appellation d'origine contrôlée
-prend fin dès la présentation par le demandeur de ses vins aux examens
-analytique et organoleptique en vue de leur classement dans la même appellation
-sans la mention primeur et au plus tard le 31 décembre de l'année de la récolte.
+prend fin dès la délivrance au demandeur, pour ces vins, d'un certificat
+d'agrément pour la même appellation sans la mention "primeur" et au plus tard le
+15 décembre de l'année de la récolte.
 
 Pour l'élaboration des vins mousseux et pétillants, la délivrance d'un
 certificat d'aptitude précède la délivrance du certificat d'agrément pour

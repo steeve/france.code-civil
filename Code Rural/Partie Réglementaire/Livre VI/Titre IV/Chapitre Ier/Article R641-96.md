@@ -6,7 +6,10 @@ consommation et de la répression des fraudes.
 
 Pour cet examen, des éléments caractéristiques complémentaires à ceux prévus par
 la réglementation communautaire et des valeurs limites spécifiques peuvent être
-fixés dans le décret de l'appellation concernée.
+fixés dans le décret de l'appellation concernée. Toutefois, pour une campagne
+déterminée, des valeurs limites spécifiques peuvent être adoptées par arrêté du
+ministre chargé des finances et du ministre chargé de l'agriculture pris sur
+proposition du comité national des vins et eaux-de-vie de l'INAO.
 
 L'examen organoleptique est effectué par une commission de dégustateurs choisis
 sur une liste arrêtée par le directeur de l'INAO, sur proposition des syndicats
