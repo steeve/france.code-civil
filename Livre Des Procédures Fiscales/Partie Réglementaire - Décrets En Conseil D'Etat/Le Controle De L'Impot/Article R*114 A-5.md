@@ -7,7 +7,7 @@ recouvrement de la taxe sur la valeur ajoutée et de toutes sommes accessoires
 instituée par l'article 11-II de la loi n° 81-1179 du 31 décembre 1981.
 
 Toutefois les attributions dévolues à la commission interministérielle instituée
-par l'article 3 du décret susvisé sont exercées par le service de la législation
-fiscale, en ce qui concerne la taxe sur la valeur ajoutée et les sommes
+par l'article 3 du décret susvisé sont exercées par la direction générale des
+impôts, en ce qui concerne la taxe sur la valeur ajoutée et les sommes
 accessoires dont le recouvrement incombe aux comptables de la direction générale
 des impôts.
