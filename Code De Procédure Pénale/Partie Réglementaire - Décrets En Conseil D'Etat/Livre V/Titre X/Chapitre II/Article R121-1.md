@@ -13,3 +13,7 @@ application du 6° de l'article 138 (alinéa 2) :
 excéder un an ;
 
 1.000 F lorsque la mission de contrôle judiciaire dure plus d'un an.
+
+Lorsque cette mission est effectuée par une association qui a passé une
+convention avec le ministère de la justice, l'indemnité allouée est portée
+respectivement à 1 000 F, 1 670 F et 2 670 F.
