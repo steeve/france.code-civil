@@ -4,6 +4,36 @@ I.-Le fait de conduire un véhicule sans être titulaire du permis de conduire
 correspondant à la catégorie du véhicule considéré est puni d'un an
 d'emprisonnement et de 15 000 euros d'amende.
 
+Toutefois, les conducteurs des véhicules et appareils agricoles ou forestiers
+attachés à une exploitation agricole ou forestière, à une entreprise de travaux
+agricoles ou à une coopérative d'utilisation de matériel agricole sont autorisés
+à conduire ces véhicules ou appareils pendant la durée de leur activité agricole
+ou forestière sans être titulaires du permis de conduire correspondant à la
+catégorie du véhicule considéré dès lors qu'ils sont âgés d'au moins seize ans,
+sauf exceptions prévues par décret en Conseil d'Etat.
+
+Les conducteurs des véhicules et appareils agricoles ou forestiers, attachés à
+une exploitation agricole ou forestière, à une entreprise de travaux agricoles
+ou à une coopérative d'utilisation de matériel agricole sont autorisés à
+conduire ces véhicules ou appareils après la cessation de leur activité agricole
+ou forestière dès lors qu'ils sont titulaires du permis de conduire prévu pour
+les véhicules ayant un poids total autorisé en charge inférieur à 3,5 tonnes
+affectés au transport de personnes et comportant, outre le siège du conducteur,
+huit places assises au maximum ou affectés au transport de marchandises, ainsi
+que les véhicules qui peuvent être assimilés aux véhicules précédents.
+
+Les employés municipaux et les affouagistes sont également autorisés à conduire
+ces véhicules ou appareils dès lors qu'ils sont titulaires du permis de conduire
+prévu pour les véhicules ayant un poids total autorisé en charge inférieur à 3,5
+tonnes affectés au transport de personnes et comportant, outre le siège du
+conducteur, huit places assises au maximum ou affectés au transport de
+marchandises, ainsi que les véhicules qui peuvent être assimilés aux véhicules
+précédents.
+
+Le fait de conduire un véhicule ou un ensemble de véhicules mentionnés au
+deuxième alinéa sans respecter les conditions d'âge prévues au même alinéa est
+puni de l'amende prévue pour les contraventions de la quatrième classe.
+
 II.-Toute personne coupable de l'infraction prévue au présent article encourt
 également les peines complémentaires suivantes :
 
