@@ -17,7 +17,12 @@ Les caisses primaires d'assurance maladie versent, dans des conditions fixées
 par décret, une subvention égale à une partie des cotisations dues par les
 centres de santé en application de l'article L. 241-1 pour les personnels qu'ils
 emploient et qui relèvent des catégories de praticiens ou d'auxiliaires médicaux
-mentionnés au premier alinéa.
+mentionnés au premier alinéa. Lorsque le personnel des centres de soins
+infirmiers est affilié aux assurances sociales agricoles, la partie, déterminée
+dans les conditions fixées à l'alinéa précédent, des cotisations d'assurance
+maladie versées en application de l'article 1031 du code rural est prise en
+charge par la caisse de mutualité sociale agricole compétente et imputée sur les
+dépenses d'assurance maladie.
 
 Les dispositions de la convention nationale des médecins prises pour
 l'application du 6° de l'article L. 162-5 et des articles L. 162-5-2 à L.
