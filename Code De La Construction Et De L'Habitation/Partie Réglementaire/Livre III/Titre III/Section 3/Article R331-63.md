@@ -13,18 +13,16 @@ d'intérêt général ;
 3. L'acquisition de logements en vue de leur amélioration, ainsi que les travaux
 d'amélioration correspondants ;
 
-4. Les travaux destinés à réduire les dépenses d'énergie dans des logements dont
-la demande d'autorisation de construire a été déposée avant le 1er janvier 1976
-; ces travaux doivent être réalisés par des entreprises garantissant
-contractuellement l'économie d'énergie ou la consommation d'énergie finale qui
-en résulteront.
+4. Les travaux destinés à réduire les dépenses d'énergie dans des logements
+existants au 1er juillet 1981 ou ayant fait l'objet avant cette date, d'une
+demande de permis de construire ; ces travaux doivent être réalisés par des
+entreprises garantissant contractuellement l'économie d'énergie ou la
+consommation d'énergie finale qui en résulteront.
 
 Un arrêté du ministre chargé de la construction et de l'habitation précise les
 conditions d'application du 4., notamment les modalités de calcul et de contrôle
 des économies d'énergie et, si ces économies ne sont pas obtenues, les modalités
 de mise en oeuvre de la garantie.
 
-5. Jusqu'à une date postérieure de trois mois au 23 février 1983, les travaux
-d'amélioration de logements achevés avant le 1er janvier 1972. Un arrêté
-conjoint des ministres chargés des finances et du logement fixe le montant
-minimal de ces travaux.
+5. Jusqu'au 31 décembre 1983 [*date*], les travaux d'amélioration de logements
+achevés depuis au moins dix ans.
