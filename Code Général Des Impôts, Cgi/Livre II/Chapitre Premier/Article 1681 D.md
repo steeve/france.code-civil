@@ -6,8 +6,7 @@ peut être :
 
 1° Un compte de dépôt dans un établissement de crédit, une caisse de crédit
 agricole régie par le livre V du code rural, une caisse de crédit mutuel, une
-caisse de crédit municipal, un centre de chèques postaux, ou chez un comptable
-du Trésor ;
+caisse de crédit municipal ou un centre de chèques postaux ;
 
 2° Un compte d'épargne dans une caisse d'épargne.
 

@@ -14,20 +14,21 @@ S'il estime que les prélèvements mensuels effectués ont atteint le montant de
 taxes qui seront mises en recouvrement, le contribuable peut demander la
 suspension des prélèvements suivants.
 
-S'il estime que le montant des taxes mises en recouvrement différera d'au moins
-10 p. 100 de celui qui a servi de base aux prélèvements, il peut demander la
-modification du montant de ces derniers.
+S'il estime que le montant des taxes mises en recouvrement différera de celui
+qui a servi de base aux prélèvements, il peut demander la modification du
+montant de ces derniers.
 
-Dans l'un ou l'autre cas, la demande, qui ne peut être postérieure au 10
-septembre de chaque année, doit préciser le montant présumé des taxes, être
-datée, signée et adressée au comptable du Trésor avant le 10 d'un mois donné
-pour prendre effet le mois suivant.
+Dans l'un ou l'autre cas, la demande, qui ne peut être postérieure au 30
+septembre de chaque année, doit préciser le montant présumé des taxes et doit
+être formulée auprès du Trésor public au plus tard le dernier jour du mois qui
+précède celui du prélèvement effectif.
 
-Lorsque le montant des taxes mises en recouvrement est supérieur de plus de 10 %
-à celui présumé par le contribuable, la différence entre la moitié des taxes
-dues et le montant des prélèvements effectués conformément à la demande du
-contribuable ainsi que la majoration de 10 % appliquée sur ce montant sont
-acquittées avec le prélèvement du deuxième mois suivant.
+Si le montant des taxes présumé par le contribuable est inférieur de plus de 20
+% au montant des taxes mises en recouvrement, une majoration de 10 % est
+appliquée à la différence entre la moitié des taxes dues et les prélèvements
+effectués entre le mois de janvier et le mois de juin. Cette différence ainsi
+que la majoration s'ajoutent au montant du prélèvement qui a lieu le deuxième
+mois qui suit le mois de la mise en recouvrement des taxes.
 
 C. Le solde des taxes est prélevé en novembre à concurrence du montant de l'un
 des prélèvements visé au B. Le complément éventuel est prélevé en décembre.

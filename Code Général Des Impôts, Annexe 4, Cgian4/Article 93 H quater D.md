@@ -6,14 +6,13 @@ vingt premiers jours du mois suivant.
 
 A l'appui de ce versement il est produit un état faisant connaître :
 
-a) Les numéros des premier et dernier actes ou requêtes inscrits sur le registre
-au cours du mois considéré ;
+a) Les numéros des premier et dernier actes inscrits sur le registre au cours du
+mois considéré ;
 
-b) Le nombre de ces actes ou requêtes ;
+b) Le nombre de ces actes ;
 
 c) Le total mensuel des colonnes correspondant aux indications mentionnées aux
-f, g, i et j du I de l'article 93 H quater C ou de la colonne correspondant au d
-du II du même article.
+f, g, i et j du I de l'article 93 H quater C.
 
 Cet état certifié conforme aux écritures est fourni en double exemplaire ; le
 premier est rendu au déposant après avoir été revêtu de l'acquit du comptable

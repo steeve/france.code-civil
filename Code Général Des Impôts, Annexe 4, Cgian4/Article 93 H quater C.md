@@ -39,18 +39,4 @@ Chaque acte porté sur le registre doit être annoté de son numéro d'ordre. Le
 colonnes correspondant aux indications mentionnées ci-dessus aux f, g, i et j
 font l'objet d'une totalisation mensuelle.
 
-II. Les redevables qui demandent à payer sur états le droit de timbre prévu par
-l'article 1089 B du code général des impôts doivent s'engager à tenir un
-registre sur lequel, jour par jour et pour chaque requête, sont mentionnés les
-renseignements suivants :
-
-a) Le numéro d'ordre spécialement affecté à la requête dans le registre, cette
-numérotation étant faite dans une série ininterrompue ;
-
-b) La date d'expédition ou de dépôt de la requête ;
-
-c) Le nom des parties au litige ;
-
-d) Le montant de l'impôt.
-
-Chaque registre est complété du numéro de l'affaire attribué par la juridiction.
+II. Devenu sans objet.

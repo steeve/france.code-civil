@@ -9,17 +9,17 @@ S'il estime que les prélèvements mensuels effectués ont atteint le montant de
 cotisations dont il sera finalement redevable, le contribuable peut demander la
 suspension des prélèvements suivants.
 
-S'il estime que l'impôt exigible diffèrera d'au moins 10 p. 100 de celui qui a
-servi de base aux prélèvements, il peut demander la modification du montant de
-ces derniers.
+S'il estime que l'impôt exigible différera de celui qui a servi de base aux
+prélèvements, il peut demander la modification du montant de ces derniers.
 
-Dans l'un ou l'autre cas, la demande, qui ne peut être postérieure au 10 mai de
-chaque année, doit préciser le montant présumé de l'impôt, être datée, signée et
-adressée au comptable du Trésor avant le 10 d'un mois donné pour prendre effet
-le mois suivant.
+Dans l'un ou l'autre cas, la demande, qui ne peut être postérieure au 30 juin de
+chaque année, doit préciser le montant présumé de l'impôt et doit être formulée
+auprès du Trésor public au plus tard le dernier jour du mois qui précède celui
+du prélèvement effectif.
 
-Lorsque le montant de l'impôt mis en recouvrement est supérieur de plus de 10 %
-à celui présumé par le contribuable, la différence entre les deux tiers de
-l'impôt dû et le montant des prélèvements effectués conformément à la demande du
-contribuable ainsi que la majoration de 10 % appliquée sur ce montant sont
-acquittées avec le prélèvement du deuxième mois suivant.
+Si le montant de l'impôt présumé par le contribuable est inférieur de plus de 20
+% au montant de l'impôt dû, une majoration de 10 % est appliquée à la différence
+entre les 2/3 de l'impôt dû et les prélèvements effectués entre le mois de
+janvier et le mois de juillet. Cette différence ainsi que la majoration
+s'ajoutent au montant du prélèvement qui a lieu le deuxième mois qui suit le
+mois de la mise en recouvrement de l'impôt.
