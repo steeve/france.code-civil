@@ -1,6 +1,7 @@
 Article D767-3
 ----
-Sur décision du conseil d'administration, le président du fonds peut aussi
-conclure des accords cadre définissant des modalités de collaboration
-particulière avec l'Etat, les collectivités territoriales et certains organismes
-publics ou privés, aux plans national et régional.
+L'établissement peut également conclure des accords-cadres définissant des
+modalités de collaboration particulière avec l'Etat, les collectivités
+territoriales et certains organismes publics ou privés, au plan national et
+régional, après délibération du conseil d'administration ou de la commission
+permanente visée à l'article D. 767-15.

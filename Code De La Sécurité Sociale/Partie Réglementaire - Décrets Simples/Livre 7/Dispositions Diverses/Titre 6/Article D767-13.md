@@ -2,8 +2,13 @@ Article D767-13
 ----
 Le président est assisté par un directeur nommé par décret sur proposition du
 ministre chargé des immigrés, auquel il peut déléguer sa signature pour exercer
-ses attributions, à l'exception de celles mentionnées aux articles D. 767-3 et
-D. 767-7.
+ses attributions, à l'exception de celles mentionnées à l'article D. 767-7. Le
+président peut également déléguer sa signature, pour l'exercice de ses
+attributions, à l'exception de celles mentionnées à l'article D. 767-7, à
+d'autres collaborateurs dans des conditions qu'il arrête et la délègue aux
+délégués régionaux auxquels la qualité d'ordonnateur secondaire a été reconnue,
+pour la signature des conventions et accords visés aux articles D. 767-2 et D.
+767-3.
 
 Sous le contrôle du conseil d'administration, le président exécute les décisions
 de celui-ci, veille à l'exécution des conventions et accords prévus aux articles
