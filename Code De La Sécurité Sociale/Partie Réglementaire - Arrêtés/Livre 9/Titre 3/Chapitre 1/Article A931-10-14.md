@@ -1,45 +1,27 @@
 Article A931-10-14
 ----
-I. - La caution ou engagement équivalent mentionnée au troisième alinéa de
-l'article R. 931-10-38 doit :
+Si, lors de l'inventaire, le taux de rendement réel des actifs d'une institution
+ou d'une union, diminué d'un cinquième, est inférieur au quotient du montant
+total des intérêts techniques et du minimum contractuellement garanti de
+participations aux excédents dans les conditions définies à l'article A. 932-3-2
+des opérations de l'institution ou de l'union, par le montant moyen des
+provisions mathématiques constituées, une comparaison est effectuée entre les
+deux montants suivants :
 
-- être régie par le droit français et soumise en cas de litige à la compétence
-exclusive des juridictions françaises ;
+1° Les provisions mathématiques recalculées avec le taux de rendement réel des
+actifs de l'institution ou de l'union diminué d'un cinquième ;
 
-- constituer une garantie à première demande, irrévocable et inconditionnelle.
+2° Les provisions mathématiques à l'inventaire.
 
-II. - L'établissement de crédit garant visé au troisième alinéa de l'article
-précité doit répondre aux conditions suivantes :
+Si le premier montant est supérieur au second, une dotation égale à leur
+différence est affectée à la provision pour aléas financiers mentionnée au 5° de
+l'article R. 931-10-17. Cette provision est reprise dans les comptes de
+l'institution ou de l'union à l'inventaire suivant.
 
-1° Le garant est un établissement de crédit habilité à opérer en France en
-application de la loi n° 84-46 du 24 janvier 1984 modifiée relative à l'activité
-et au contrôle des établissements de crédit et respecte, compte tenu de la
-garantie envisagée, l'ensemble des dispositions législatives et réglementaires
-qui lui sont applicables ;
+Les opérations à capital variable ainsi que les opérations collectives relevant
+de l'article L. 932-24 ne sont pas concernées par ces dispositions.
 
-2° Le garant n'est pas une entreprise liée au réassureur ni à l'institution ou
-l'union garantie.
-
-III. - La dérogation prévue au troisième alinéa de l'article R. 931-10-38 ne
-peut être accordée par la commission de contrôle instituée par l'article L.
-951-1 que dans la mesure où elle ne diminue pas la qualité de la représentation
-des engagements réglementées, et dans les limites suivantes :
-
-- la durée, fixée initialement par la commission de contrôle, ne peut excéder un
-exercice, éventuellement renouvelable dans les conditions définies par celle-ci
-;
-
-- le montant total des garanties admises au titre de ladite dérogation ne peut à
-aucun moment excéder :
-
-- le montant maximum autorisé par la commission de contrôle ;
-
-- la moitié du montant total des engagements réglementés tels que définis à
-l'article R. 931-10-12 ;
-
-- les deux tiers du montant total de la part des réassureurs dans les provisions
-techniques.
-
-IV. - La dérogation peut être supprimée à tout moment par la commission de
-contrôle instituée par l'article L. 951-1 si celle-ci estime que les conditions
-l'ayant justifiée ne sont plus remplies.
+Le taux de rendement réel des actifs est calculé conformément aux dispositions
+du II de l'article A. 931-10-17. Il ne tient pas compte du rendement des actifs
+afférents aux opérations à capital variable et aux opérations relevant de
+l'article L. 932-24.

@@ -1,15 +1,18 @@
 Article A931-10-16
 ----
-Si, après avoir été désigné comme il est indiqué à l'article A. 931-10-15, un
-expert se trouve empêché de remplir sa mission dans les délais fixés, il est
-immédiatement procédé à une nouvelle désignation dans les mêmes formes, et les
-délais sont dûment prorogés.
+Pour le calcul de la rubrique " Solde de réassurance cédée " prévue dans le
+compte de participation aux résultats au II de l'article A. 931-10-15, seule est
+prise en compte la réassurance de risque, c'est-à-dire celle dans laquelle
+l'engagement des cessionnaires porte exclusivement sur tout ou partie de la
+différence entre le montant des capitaux en cas de décès ou d'invalidité et
+celui des provisions mathématiques des opérations correspondantes.
 
-Toutefois, si l'expert défaillant est celui de l'institution ou de l'union, la
-commission de contrôle instituée par l'article L. 951-1 peut requérir
-immédiatement du président du tribunal la désignation d'un expert unique, dont
-les conclusions lieront les deux parties. Elle peut formuler la même requête
-s'il n'a pas été répondu à sa demande d'expertise dans le délai prévu au
-deuxième alinéa de l'article A. 931-10-15, ou si l'expert de l'institution ou de
-l'union n'a pas déposé son rapport dans le délai fixé au quatrième alinéa de cet
-article.
+Dans les traités limités à la réassurance de risque, le solde de réassurance
+cédée est égal à la différence entre le montant des sinistres à la charge des
+cessionnaires et celui des cotisations cédées. Il est inscrit, selon le cas, au
+débit ou au crédit du compte de participation aux résultats.
+
+Dans les autres traités, le solde de réassurance cédée est établi en isolant la
+réassurance de risque à l'intérieur des engagements des cessionnaires. Les
+modalités de calcul du solde sont précisées par circulaire, par référence aux
+conditions normales du marché de la réassurance du risque.

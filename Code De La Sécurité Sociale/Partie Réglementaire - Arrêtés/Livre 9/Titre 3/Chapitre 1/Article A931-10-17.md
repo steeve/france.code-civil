@@ -1,18 +1,34 @@
 Article A931-10-17
 ----
-I. - Le ou les experts désignés conformément aux dispositions des articles A.
-931-10-15 et A. 931-10-16 sont dispensés de prêter serment.
+I. - Le compte financier mentionné au II de l'article A. 931-10-15 comprend, en
+recettes, la part du produit net des placements, calculée suivant les règles
+fixées au II du présent article et, en dépenses, sur autorisation de la
+commission de contrôle instituée par l'article L. 951-1 et après justifications,
+la part des résultats que l'institution ou l'union a dû affecter aux fonds
+propres pour satisfaire au montant minimal de la marge de solvabilité.
 
-II. - Les institutions ou les unions sont tenues de fournir aux experts, dès
-leur désignation, et sur la demande de ceux-ci, conjointe ou non, tous les
-moyens d'investigation que ces derniers jugent utiles pour l'accomplissement de
-leur mission, notamment, lorsqu'il s'agit d'immeubles, pour la visite des lieux
-et la connaissance des actes et documents se rapportant aux immeubles
-expertisés.
+II. - La part du produit financier à inscrire en recettes du compte financier
+est égale à la somme des deux éléments suivants :
 
-III. - Le ou les experts adressent à l'institution, avec leur rapport, l'état de
-leurs vacations, frais et honoraires et en remettent une copie à la commission
-de contrôle instituée par l'article L. 951-1. Lorsqu'elle envisage de contester
-le montant demandé par un des experts, l'institution de prévoyance ou l'union le
-notifie à la commission de contrôle dans un délai de quinze jours à compter de
-la réception de l'état des vacations.
+1. Le produit du montant moyen au cours de l'exercice des provisions techniques
+brutes de cessions en réassurance des opérations mentionnées au I de l'article
+A. 931-10-15, autres que celles transférées au titre de l'article L. 931-16, par
+le taux de rendement des placements (tableaux a à h) figurant à l'annexe à
+l'article A. 931-11-11 (point 1.3 A du modèle d'annexe) ;
+
+2. Le montant total des produits financiers afférents à des actifs transférés
+avec un portefeuille d'opérations et affectés du code T dans l'état détaillé des
+placements figurant à l'annexe de l'article A. 931-11-11 (point 1.3 A du modèle
+d'annexe).
+
+Le taux de rendement prévu au 1 du présent paragraphe est égal au rapport :
+
+Du produit net des placements considérés, figurant à l'annexe A. 931-11-11, au
+compte technique des opérations vie, à la rubrique E 2 (Produits des placements)
+diminuée de la rubrique E 9 (Charges des placements), déduction faite des
+produits des placements mentionnés aux a, b et c du I de l'article R. 931-11-9 ;
+
+Au montant moyen, au cours de l'exercice, des placements réalisés sur le
+territoire de la République française, mentionnés dans les tableaux a à h de
+l'annexe à l'article A. 931-11-11 (point 1.3 A du modèle d'annexe), autres que
+ceux mentionnés aux a, b et c du I de l'article R. 931-11-9.
