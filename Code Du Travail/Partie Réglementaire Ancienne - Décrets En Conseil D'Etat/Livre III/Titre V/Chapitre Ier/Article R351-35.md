@@ -1,26 +1,32 @@
 Article R351-35
 ----
-L'exercice d'une activité professionnelle ne peut être cumulé avec le versement
-des allocations [*ch&lt;CB&gt;mage*] instituées par les articles L. 351-9 et L.
-351-10 que tant que le nombre total des heures travaillées depuis le début du
-versement des allocations concernées n'excède pas sept cent cinquante.
+I. - La rémunération tirée de l'exercice d'une activité professionnelle peut
+être cumulée avec le versement des allocations instituées par les articles L.
+351-9 et L. 351-10 pendant une durée de douze mois à compter du début de cette
+activité. Tout mois civil au cours duquel une activité même occasionnelle ou
+réduite a été exercée est pris en compte pour le calcul de cette durée.
 
-Ce plafond n'est toutefois pas opposable :
+Pendant les trois premiers mois d'activité professionnelle, le nombre des
+allocations journalières est réduit jusqu'à sa suppression éventuelle dans la
+proportion de 40 % du quotient, lorsqu'il est positif, par le montant journalier
+de l'allocation, de la rémunération brute perçue, diminuée d'un montant égal à
+la moitié du produit du salaire minimum de croissance par le nombre d'heures
+correspondant à la durée légale du travail.
 
-1° Aux demandeurs d'emploi inscrits auprès de l'Agence nationale pour l'emploi
-depuis plus de trois ans ;
+Du quatrième au douzième mois civil suivant d'activité professionnelle, le
+nombre des allocations journalières est réduit dans la proportion de 40 % du
+quotient, par le montant journalier de l'allocation, de la rémunération brute
+perçue.
 
-2° Aux demandeurs d'emploi âgés de cinquante ans ou plus inscrits auprès de
-l'Agence nationale pour l'emploi pendant au moins douze mois durant les dix-huit
-mois précédant l'application aux intéressés des dispositions du présent article
-;
+Toutefois, lorsqu'au terme de la période de douze mois décomptée dans les
+conditions prévues au premier alinéa du présent article, le nombre total des
+heures travaillées n'atteint pas 750 heures, le bénéfice des allocations
+calculées dans les conditions prévues à l'alinéa précédent est, sur sa demande,
+formulée avant l'expiration de la période de douze mois, et sur décision du
+préfet, maintenu à l'allocataire qui exerce une activité professionnelle,
+jusqu'à ce qu'il atteigne le plafond de 750 heures, s'il justifie être engagé
+dans un parcours d'insertion professionnelle.
 
-3° Aux bénéficiaires de l'allocation de revenu minimum d'insertion inscrits
-auprès de l'Agence nationale pour l'emploi pendant au moins douze mois durant
-les dix-huit mois précédant l'application aux intéressés des dispositions du
-présent article.
-
-Lorsque le plafond est atteint pendant la durée d'exécution d'un contrat
-emploi-solidarité prévu à l'article L. 322-4-7, l'intéressé conserve le bénéfice
-de ses allocations, dans les conditions fixées à l'article R. 351-36, jusqu'à
-l'expiration de ce contrat.
+II. - Les dispositions du troisième alinéa du I ci-dessus sont applicables sans
+limite de durée aux allocataires âgés de cinquante ans et plus qui exercent une
+activité professionnelle.
