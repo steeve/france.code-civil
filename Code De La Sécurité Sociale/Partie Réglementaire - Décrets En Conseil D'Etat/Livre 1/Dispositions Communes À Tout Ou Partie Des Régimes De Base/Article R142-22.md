@@ -1,11 +1,14 @@
 Article R142-22
 ----
-Sous réserve des dispositions de l'article R. 142-24, le tribunal des affaires
-de sécurité sociale peut recueillir tous éléments d'informations utiles auprès
-du directeur régional des affaires sanitaires et sociales et du chef du service
-régional de l'inspection du travail, de l'emploi et de la politique sociale
-agricoles. Il peut ordonner un complément d'instruction et notamment prescrire
-une enquête, une consultation ou une expertise.
+Le tribunal des affaires de sécurité sociale peut recueillir tous éléments
+d'information utiles auprès du directeur régional des affaires sanitaires et
+sociales et du chef du service régional de l'inspection du travail, de l'emploi
+et de la politique sociale agricoles. Il peut ordonner un complément
+d'instruction et notamment prescrire une enquête ou une consultation. Il peut
+également ordonner une expertise qui, pour les contestations d'ordre médical
+relatives à l'état du malade ou de la victime d'un accident du travail ou d'une
+maladie professionnelle, ou en cas de contestation portant sur l'avis technique,
+relève de l'article L. 141-1.
 
 Il peut donner mission à son président de procéder à ces mesures d'instruction.
 

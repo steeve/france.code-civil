@@ -9,6 +9,11 @@ d'expertise médicale prévue à l'article L. 141-1.
 Dans ce cas, la mission confiée à l'expert ou au comité et les questions qui lui
 sont posées sont fixées par une décision du tribunal.
 
-Le rapport du médecin expert ou du comité est transmis au secrétaire du tribunal
-par l'organisme intéressé au plus tard dans les quarante-huit heures suivant sa
-réception.
+Le médecin expert ou le comité adresse son rapport au secrétaire du tribunal
+dans le délai d'un mois à compter de la date de réception de la demande
+d'expertise qui lui a été adressée par la caisse.
+
+Le secrétaire du tribunal transmet, au plus tard dans les quarante-huit heures
+suivant sa réception, copie du rapport au service du contrôle médical de la
+caisse d'assurance maladie ainsi qu'à la victime de l'accident du travail ou de
+la maladie professionnelle ou au médecin traitant du malade.
