@@ -10,10 +10,12 @@ ministre chargé de la sécurité sociale. L'arrêté mentionne les seules
 indications thérapeutiques ouvrant droit à la prise en charge ou au
 remboursement des médicaments.
 
-Lorsque le médicament figure en qualité de spécialité générique au répertoire
-mentionné à l'article R. 5143-8 du code de la santé publique, l'arrêté
-d'inscription sur les listes prévues respectivement à l'article L. 162-17 du
-présent code et à l'article L. 618 du code de la santé publique mentionne sa
+Lorsqu'a été notifiée, dans les conditions prévues au premier alinéa de
+l'article R. 5143-8 du code de la santé publique, la décision du directeur
+général de l'Agence française de sécurité sanitaire des produits de santé
+identifiant un médicament comme spécialité générique, l'arrêté d'inscription de
+ce médicament sur les listes prévues respectivement à l'article L. 162-17 du
+présent code et à l'article L. 5123-2 du code de la santé publique mentionne sa
 dénomination suivie, s'il s'agit d'un nom de fantaisie, du suffixe prévu à
 l'article L. 162-17-1. Dans ce dernier cas, la dénomination est complétée par ce
 suffixe dans l'étiquetage et la notice définis à l'article R. 5000 du code de la
