@@ -3,7 +3,12 @@ Article L226-1
 Tout salarié bénéficie, sur justification et à l'occasion de certains événements
 familiaux, d'une autorisation exceptionnelle d'absence de :
 
-Quatre [*nombre*] jours pour le mariage du salarié ;
+Quatre jours pour le mariage du salarié ;
+
+Trois jours pour chaque naissance survenue à son foyer ou pour l'arrivée d'un
+enfant placé en vue de son adoption ; ces jours d'absence ne peuvent se cumuler
+avec les congés accordés pour ce même enfant en vertu des articles L. 122-26 et
+L. 122-26-1 ;
 
 Deux jours pour le décès d'un conjoint ou d'un enfant ;
 
