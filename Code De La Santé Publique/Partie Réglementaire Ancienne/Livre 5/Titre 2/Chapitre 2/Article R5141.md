@@ -1,31 +1,42 @@
 Article R5141
 ----
-La commission mentionnée à l'article R. 5140 comprend [*composition*], outre le
-directeur de la pharmacie et du médicament ou son représentant, le directeur
-général de l'institut national de la santé et de la recherche médicale ou son
-représentant et le directeur général du laboratoire national de la santé ou son
-représentant, membres de droit :
+La commission mentionnée à l'article R. 5140 comprend [*composition*]:
 
-Un médecin choisi sur une liste de trois noms proposés par le conseil national
-de l'ordre des médecins ;
+1° Quatre [*nombre*] membres de droit :
 
-Un pharmacien choisi sur une liste de trois noms proposés par le conseil
-national de l'ordre des pharmaciens ;
+Le directeur de la pharmacie et du médicament ou son représentant Le directeur
+général de l'Institut national de la santé et de la recherche médicale ou son
+représentant ;
 
-Un médecin choisi sur une liste de trois noms proposés par l'académie nationale
+Le directeur général du Laboratoire national de la santé ou son représentant ;
+
+Un membre de la mission scientifique de la direction de la pharmacie et du
+médicament.
+
+2° Vingt-quatre membres nommés par le ministre chargé de la santé pour une durée
+de trois ans [*durée du mandat*].
+
+Un médecin choisi sur une liste de deux noms proposés par l'Académie nationale
 de médecine ;
 
-Un pharmacien choisi sur une liste de trois noms proposés par l'académie de
-pharmacie ;
+Un pharmacien choisi sur une liste de deux noms proposés par l'Académie
+nationale de pharmacie ;
 
-Huit personnalités choisies en raison de leur compétence scientifique.
+Vingt-deux personnalités choisies en raison de leur compétence scientifique dans
+le domaine de la chimie analytique, de la pharmacie galénique, de la toxicologie
+expérimentale, de la pharmacologie expérimentale, de la pharmacologie clinique,
+de la pathologie et de et de la thérapeutique.
 
-Douze suppléants sont désignés dans les mêmes conditions que les membres
-titulaires.
+Vingt-quatre suppléants sont désignés dans les mêmes conditions que les membres
+titulaires. Ils remplacent [*attributions*] ces derniers soit en cas
+d'empêchement, soit s'il se produit une vacance en cours de mandat.
 
-Les membres autres que les membres de droit sont nommés pour quatre ans [*durée
-du mandat*] par arrêté du ministre chargé de la santé selon les modalités
-prévues à l'article R. 5141-1. Le renouvellement des mandats qui doit avoir lieu
-par moitié tous les deux ans est opéré dans les conditions fixées à l'article R.
-5141-2. Lors de chaque renouvellement partiel, le ministre de la santé désigne
-un président et un vice-président choisis au sein de la commission.
+Le président et le vice-président sont désignés par le ministre chargé de la
+santé parmi les membres de la commission.
+
+En cas d'absence du président et du vice-président, le ministre de la santé
+nomme un président de séance.
+
+La commission a la faculté d'entendre toute personne qualifiée et notamment des
+représentants des fabricants de produits pharmaceutiques, des organisations de
+consommateurs et de la mutualité française.
