@@ -1,8 +1,8 @@
 Article R221
 ----
-Pour le recouvrement des frais d'enquêtes sociales ordonnées en matière
-d'exercice de l'autorité parentale, il est procédé comme en matière de frais de
-justice criminelle, correctionnelle et de police.
+Les frais d'enquêtes sociales ordonnées en matière d'exercice de l'autorité
+parentale sont recouvrés par le Trésor selon les procédures et sous les
+garanties prévues en matière d'amende pénale.
 
 La partie condamnée aux dépens peut former un recours contre la disposition de
 la décision relative à la liquidation de ces frais. A défaut d'appel sur le

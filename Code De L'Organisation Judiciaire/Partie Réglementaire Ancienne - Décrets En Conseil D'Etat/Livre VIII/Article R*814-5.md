@@ -11,8 +11,8 @@ pénale) ;
 3° Les sommes saisies-arrêtées prévues aux articles R145-1 à R145-21 du Code du
 travail ;
 
-4° Les consignations de partie civile prévues aux articles R236 à R240 du Code
-de procédure pénale ;
+4° Les consignations de partie civile prévues aux articles 88, 88-1 du code de
+procédure pénale pour garantir le paiement de l'amende civile.
 
 5° Les provisions pour expertise ;
 

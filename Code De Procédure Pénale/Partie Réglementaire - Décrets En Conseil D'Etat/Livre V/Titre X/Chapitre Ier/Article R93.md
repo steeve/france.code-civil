@@ -3,8 +3,8 @@ Article R93
 Sont, en outre, assimilées aux frais de justice criminelle, correctionnelle et
 de police, les dépenses qui résultent :
 
-1° Des procédures suivies en application des lois concernant l'enfance
-délinquante et la protection de l'enfance en danger.
+1° Des procédures suivies en application des lois concernant la protection de
+l'enfance en danger.
 
 2° De l'application de la législation sur le régime des aliénés.
 
@@ -60,4 +60,10 @@ l'administration pénitentiaire.
 
 18° Des frais de l'appel aux créanciers prévu à l'article 11 de la loi n°
 89-1010 du 31 décembre 1989 relative à la prévention et au règlement des
-difficultés liées au surendettement des particuliers et des familles.
+difficultés liées au surendettement des particuliers et
+
+des familles.
+
+19° Les frais d'impression, d'insertion et de publication des arrêts, jugements
+et ordonnances de justice selon les dispositions des articles R. 210 et
+suivants.

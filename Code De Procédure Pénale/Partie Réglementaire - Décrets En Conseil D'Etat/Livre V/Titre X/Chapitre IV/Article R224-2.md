@@ -6,7 +6,7 @@ l'article R. 93 :
 1. Indemnités accordées aux témoins ;
 
 2. Part contributive de l'Etat à la rétribution des auxiliaires de justice en
-matière d'aide juridictionnelle.
+matière d'aide juridictionnelle ;
 
 3. Indemnités de transport et de séjour des magistrats, des greffiers et des
 secrétaires des juridictions de l'ordre judiciaire ;
