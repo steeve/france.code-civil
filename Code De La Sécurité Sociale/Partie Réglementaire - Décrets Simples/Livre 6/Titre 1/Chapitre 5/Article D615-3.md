@@ -9,4 +9,4 @@ participation des assurés est fixée à [*montant du ticket modérateur*] :
 1°) 30 p. 100 pour les frais mentionnés à l'article D. 615-2 ;
 
 2°) 15 p. 100 lorsque le bénéficiaire a été reconnu atteint d'une des affections
-mentionnées aux 3° et 4° de l'article L. 322-3.
+mentionnées au 3° de l'article L. 322-3.

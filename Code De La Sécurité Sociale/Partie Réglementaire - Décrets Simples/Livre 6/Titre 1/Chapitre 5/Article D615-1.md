@@ -7,25 +7,25 @@ fixée comme suit :
 jour d'hospitalisation dans un établissement public ou privé, pour l'ensemble
 des frais afférents à l'hospitalisation.
 
-La participation aux frais est supprimée à partir du trente et unième jour.
+La participation aux frais est supprimée à partir du trente et unième jour .
 Toutefois, elle est supprimée dès le premier jour lorsque pendant
 l'hospitalisation, l'acte ou la série d'actes pratiqués répondent aux conditions
-définies au 4° ci-dessous.
+définies au 4° ci-dessous. La participation de l'assuré est également supprimée
+pour les frais de traitement d'une des affections visées au 3° de l'article L.
+322-3 du code de la sécurité sociale.
 
-La participation de l'assuré est également supprimée lorsque le bénéficiaire a
-été reconnu atteint d'une des affections mentionnées aux 3° et 4° de l'article
-L. 322-3 ;
-
-2°) 20 p. 100 des tarifs pour les frais autres que ceux visés au 1° du présent
-article lorsque le bénéficiaire a été reconnu atteint d'une des afffections
-mentionnées aux 3° et 4° de l'article L. 322-3.
+2°) 20 p. 100 des tarifs pour les frais de traitement des affections visées au
+3° de l'article L. 322-3 du code de la sécurité sociale, lorsqu'il s'agit de
+frais autres que ceux mentionnés au 1° du présent article.
 
 Toutefois, cette participation est supprimée lorsque le bénéficiaire est atteint
-d'une desdites affections pour les frais pharmaceutiques, les frais de
-traitement roentgenthérapique, curiethérapique ou par les isotopes radioactifs,
-à la condition, en ce qui concerne les traitements dont il s'agit, que le nombre
-des séances, d'un coefficient total au moins égal à Z 50, ait fait l'objet d'un
-accord préalable de la caisse après avis du contrôle médical ;
+d'une desdites affections pour les frais pharmaceutiques, sauf lorsque les frais
+concernent des médicaments visés à l'article R. 322-1 (5°) du code de la
+sécurité sociale. Elle est également supprimée pour le même bénéficiaire, pour
+les frais de traitements roentgenthérapique, curiethérapique ou par les isotopes
+radioactifs, à la condition, en ce qui concerne les traitements dont il s'agit,
+que le nombre de séances, d'un coefficient total au moins égal à Z 50, ait fait
+l'objet d'un accord préalable de la caisse après avis du contrôle médical ;
 
 3°) la participation de l'assuré est supprimée en ce qui concerne les frais de
 fourniture d'appareils d'orthopédie mentionnés au 2° de l'article L. 322-3 ;
