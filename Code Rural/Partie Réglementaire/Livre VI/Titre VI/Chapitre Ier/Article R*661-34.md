@@ -12,6 +12,5 @@ interprofessionnel des vins demander un nouvel examen.
 Si la décision est motivée par l'état sanitaire dangereux pour la
 multiplication, il est procédé à l'analyse des échantillons prélevés, en
 application des dispositions du deuxième alinéa de l'article R. 661-32, qui est
-effectuée par une station qualifiée de l'institut national de la recherche
-agronomique qui en communique les résultats à l'Office national
-interprofessionnel des vins.
+effectuée par un laboratoire accrédité selon la norme NF EN ISO-CEI 17025 qui en
+communique les résultats à l'Office national interprofessionnel des vins.
