@@ -48,43 +48,34 @@ de créances mentionnés au 1° bis du III bis du présent article.
 III bis. Le taux du prélèvement est fixé :
 
 1° A 25 % pour les produits d'obligations négociables et de titres
-participatifs.
-
-Ce taux est applicable aux intérêts servis aux salariés sur les versements
-effectués dans les fonds salariaux ;
-
-I° bis. A 32 p. 100 pour les produits des titres de créances négociables sur un
-marché réglementé en application d'une disposition législative particulière et
-non susceptibles d'être cotés.
-
-2° A un tiers pour les produits des bons du Trésor sur formules, des bons
-d'épargne des PTT, des bons de la caisse nationale du crédit agricole, des bons
-de caisse du crédit mutuel, des bons à cinq ans du crédit foncier de France, des
-bons émis par les groupements régionaux d'épargne et de prévoyance, des bons de
-la caisse nationale de l'énergie et des bons de caisse des établissements de
-crédit, sous réserve que ces titres aient été émis avant le 1er juin 1978 ;
-
-3° A 40 % pour les produits des bons énumérés au 2° qui ont été émis entre le
-1er juin 1978 et la date d'entrée en vigueur de la loi n° 80-30 du 18 janvier
-1980 et pour les produits des autres placements courus antérieurement au 1er
-janvier 1980 ;
-
-4° A 38 % pour les produits des bons et titres émis à compter de la date
-d'entrée en vigueur de la loi n° 80-30 du 18 janvier 1980 et avant le 1er
-janvier 1983 lorsque le bénéficiaire des intérêts communique aux établissements
-payeurs, au moment du paiement, son identité et son domicile fiscal, et à 42 %
-lorsque cette condition n'est pas remplie ;
-
-5° A 38 % pour les produits des placements, autres que les bons et titres,
-courus du 1er janvier 1980 au 31 décembre 1982 inclus ;
-
-6° A 45 % pour les produits des bons et titres émis à compter du 1er janvier
-1983 lorsque le bénéficiaire des intérêts communique aux établissements payeurs,
-au moment du paiement, son identité et son domicile fiscal, et à 50 % lorsque
-cette condition n'est pas remplie ;
-
-7° A 45 % pour les produits des placements, autres que les bons et titres courus
-à partir du 1er janvier 1983.
+participatifs. Ce taux est applicable aux intérêts servis aux salariés sur les
+versements effectués dans les fonds salariaux ; I° bis. A 32 p. 100 pour les
+produits des titres de créances négociables sur un marché réglementé en
+application d'une disposition législative particulière et non susceptibles
+d'être cotés. 2° A un tiers pour les produits des bons du Trésor sur formules,
+des bons d'épargne des PTT, des bons de la caisse nationale du crédit agricole,
+des bons de caisse du crédit mutuel, des bons à cinq ans du crédit foncier de
+France, des bons émis par les groupements régionaux d'épargne et de prévoyance,
+des bons de la caisse nationale de l'énergie et des bons de caisse des
+établissements de crédit, sous réserve que ces titres aient été émis avant le
+1er juin 1978 ; 3° A 40 % pour les produits des bons énumérés au 2° qui ont été
+émis entre le 1er juin 1978 et la date d'entrée en vigueur de la loi n° 80-30 du
+18 janvier 1980 et pour les produits des autres placements courus antérieurement
+au 1er janvier 1980 ; 4° A 38 % pour les produits des bons et titres émis à
+compter de la date d'entrée en vigueur de la loi n° 80-30 du 18 janvier 1980 et
+avant le 1er janvier 1983 lorsque le bénéficiaire des intérêts communique aux
+établissements payeurs, au moment du paiement, son identité et son domicile
+fiscal, et à 42 % lorsque cette condition n'est pas remplie ; 5° A 38 % pour les
+produits des placements autres que les bons et titres, courus du 1er janvier
+1980 au 31 décembre 1982 inclus ; 6° A 45 % pour les produits des bons et titres
+émis à compter du 1er janvier 1983 lorsque le bénéficiaire des intérêts
+communique aux établissements payeurs, au moment du paiement, son identité et
+son domicile fiscal, et à 50 % lorsque cette condition n'est pas remplie ; 7° A
+45 % pour les produits des placements, autres que les bons et titres courus à
+partir du 1er janvier 1983. 8° A 25 p. 100 pour les produits des parts émises
+par les fonds communs de créances si leur durée à l'émission est supérieure à
+cinq ans ou à 32 p. 100 si cette durée est inférieure ou égale à cinq ans. Le
+boni de liquidation peut être soumis à ce prélèvement au taux de 45 p. 100.
 
 IV. L'option pour le prélèvement est subordonnée :
 
