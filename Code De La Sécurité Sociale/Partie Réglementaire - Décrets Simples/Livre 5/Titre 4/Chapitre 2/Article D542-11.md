@@ -15,7 +15,7 @@ prix à la consommation des ménages pour l'année civile de référence figuran
 dans le rapport économique et financier annexé au projet de loi de finances.
 
 Les ressources ci-dessus définies sont diminuées d'un abattement forfaitaire de
-3.600 F lorsque les deux conjoints ont exercé une activité professionnelle
+3.686 F lorsque les deux conjoints ont exercé une activité professionnelle
 productrice de revenus au cours de l'année civile de référence et que chacun des
 deux revenus correspondants a été au moins égal à 6 fois la base mensuelle des
 allocations familiales en vigueur au 1er juillet de ladite année. Un abattement
