@@ -1,7 +1,8 @@
 Article LO176
 ----
-Les députés dont le siège devient vacant pour cause de décès, d'acceptation de
-fonctions gouvernementales ou de membre du Conseil constitutionnel ou de
-prolongation au-delà de six mois d'une mission temporaire conférée par le
-gouvernement sont remplacés jusqu'au renouvellement de l'Assemblée nationale par
-les personnes élues en même temps qu'eux à cet effet.
+Lorsque les députés sont élus au scrutin de liste, chaque liste comprend un
+nombre de candidats égal au nombre des sièges à pourvoir augmenté de deux. Les
+candidats venant sur une liste immédiatement après le dernier candidat élu sont
+appelés à remplacer, jusqu'au renouvellement de l'Assemblée nationale, les
+députés élus sur cette liste dont le siège deviendrait vacant pour quelque cause
+que ce soit.
