@@ -109,8 +109,8 @@ salariés du régime de sécurité sociale.
 4° Versements effectués à titre de cotisations de sécurité sociale, à
 l'exception de ceux effectués pour les gens de maison ;
 
-5° Versements effectués en vue de la retraite mutualiste du combattant visée aux
-articles 91 et 92 du code de la mutualité ;
+5° Versements effectués en vue de la retraite mutualiste du combattant visée à
+l'article L. 321-9 du code de la mutualité ;
 
 6° (Abrogé) ;
 
@@ -133,11 +133,10 @@ d. (Devenu sans objet) (2).
 
 9° bis et 9° ter (Abrogés) ;
 
-10° Les cotisations mentionnées à l'article 19 de la loi n° 66-509 du 12 juillet
-1966 modifiée relative à l'assurance maladie et à l'assurance maternité des
-travailleurs non salariés des professions non agricoles. En ce qui concerne les
-cotisations instituées par application de l'article 26 de la même loi, un décret
-fixe, le cas échéant, dans quelle proportion elles sont admises en déduction ;
+10° Les cotisations mentionnées à l'article L. 612-2 du code de la sécurité
+sociale. En ce qui concerne les cotisations instituées par application de
+l'article L. 612-13 du même code, un décret fixe, le cas échéant, dans quelle
+proportion elles sont admises en déduction;
 
 11° Les primes ou cotisations des contrats d'assurances conclus en application
 des articles 1234-1 à 1234-18 du code rural relatifs à l'assurance obligatoire

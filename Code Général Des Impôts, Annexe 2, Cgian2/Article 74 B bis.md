@@ -12,7 +12,7 @@ du contribuable ou de l'un des époux soumis à une imposition commune ;
 2° Survenance d'une invalidité affectant le contribuable ou l'un des époux
 soumis à une imposition commune ou un enfant à charge et correspondant au
 classement dans la seconde ou la troisième des catégories d'invalidité prévues à
-l'article L. 310 du code de la sécurité sociale ou ouvrant droit à la carte
+l'article L. 341-4 du code de la sécurité sociale ou ouvrant droit à la carte
 d'invalidité prévue à l'article 173 du code de la famille et de l'aide sociale ;
 
 3° Changement de résidence principale justifié par le changement du lieu
