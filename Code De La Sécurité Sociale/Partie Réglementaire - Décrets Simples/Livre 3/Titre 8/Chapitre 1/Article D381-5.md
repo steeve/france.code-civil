@@ -1,8 +1,8 @@
 Article D381-5
 ----
-La cotisation due au titre des personnes mentionnées ci-dessus est égale au taux
-cumulé de la cotisation employeur et salarié en vigueur dans le régime général
-de sécurité sociale, pour la couverture du risque vieillesse.
+La cotisation due au titre des personnes mentionnées à l'article D. 381-3 est
+égale au taux cumulé de la cotisation employeur et salarié en vigueur dans le
+régime général de sécurité sociale, pour la couverture du risque vieillesse.
 
 Dans les départements autres que ceux qui sont mentionnés à l'article L. 751-1,
 cette cotisation est assise sur une assiette forfaitaire correspondant, par

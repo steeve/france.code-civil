@@ -13,9 +13,8 @@ majoré de 30 p. 100 par enfant à charge, au sens des articles L. 512-3 et L.
 513-1 ;
 
 2°) soit avoir à charge au moins trois enfants et bénéficier du complément
-familial ou de l'allocation parentale d'éducation, sous réserve que les
-ressources du ménage n'excèdent pas le plafond de ressources qui est retenu pour
-l'attribution du complément familial.
+familial, sous réserve que les ressources du ménage n'excèdent pas le plafond de
+ressources qui est retenu pour l'attribution du complément familial.
 
 Toutefois, ne peut bénéficier de cette affiliation que le conjoint ou concubin
 dont les revenus propres provenant de l'exercice d'une activité professionnelle
@@ -23,5 +22,5 @@ pendant l'année civile de référence, n'excèdent pas douze fois la base mensu
 de calcul des allocations familiales en vigueur au 1er juillet de ladite année.
 
 Ne peut également bénéficier de cette affiliation que le conjoint ou concubin
-qui ne participe pas, au sens de l'article 1124 du code rural, à la mise en
+qui ne participe pas, au sens de l'article 1122-1 du code rural, à la mise en
 valeur d'une exploitation agricole.
