@@ -49,3 +49,20 @@ intercommunale devront s'être mis en conformité avec la loi pour pouvoir
 continuer à percevoir la taxe d'enlèvement des ordures ménagères au 1er janvier
 2006. A défaut, ces collectivités perdront le bénéfice de la perception de cette
 taxe.
+
+III. - L'établissement public de coopération intercommunale issu de la fusion en
+application de l'article L. 5211-41-3 du code général des collectivités
+territoriales doit prendre les délibérations afférentes à la taxe d'enlèvement
+des ordures ménagères jusqu'au 15 janvier de l'année qui suit celle de la
+fusion.
+
+A défaut de délibération, le régime applicable en matière de taxe d'enlèvement
+des ordures ménagères sur le territoire des établissements publics de
+coopération intercommunale ayant fait l'objet de la fusion ou sur le territoire
+des communes incluses dans le périmètre de l'établissement public de coopération
+intercommunale issu de la fusion, en application du deuxième alinéa du 2° du I
+de l'article L. 5211-41-3 du code général des collectivités territoriales, est
+maintenu l'année suivant celle de la fusion. Pour l'application de ces
+dispositions, l'établissement public de coopération intercommunale issu de la
+fusion perçoit la taxe au lieu et place des établissements publics de
+coopération intercommunale ayant fait l'objet de la fusion.

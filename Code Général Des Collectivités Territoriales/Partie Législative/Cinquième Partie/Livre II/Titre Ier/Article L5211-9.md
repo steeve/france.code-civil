@@ -15,10 +15,10 @@ dès lors que ceux-ci sont tous titulaires d'une délégation, à d'autres membr
 du bureau. Il peut également donner, sous sa surveillance et sa responsabilité,
 par arrêté, délégation de signature au directeur général, au directeur général
 des services techniques des établissements publics de coopération intercommunale
-dont la liste est fixée par décret et au directeur général adjoint dans les
-établissements publics de coopération intercommunale dont la liste est fixée par
-décret en Conseil d'Etat. Ces délégations subsistent tant qu'elles ne sont pas
-rapportées.
+dont la liste est fixée par décret, au directeur général adjoint et aux
+responsables de service dans les établissements publics de coopération
+intercommunale dont la liste est fixée par décret en Conseil d'Etat. Ces
+délégations subsistent tant qu'elles ne sont pas rapportées.
 
 Il est le chef des services de l'établissement public de coopération
 intercommunale.

@@ -9,4 +9,4 @@ de les habiter ou être privés de ressources nécessaires pour faire face à le
 obligations, sont soumises à une imposition de 75 euros.
 
 Le bénéfice de cette disposition est subordonné à l'autorisation du
-trésorier-payeur général, après avis du conseil départemental de l'habitat.
+trésorier-payeur général, après avis du comité régional de l'habitat.

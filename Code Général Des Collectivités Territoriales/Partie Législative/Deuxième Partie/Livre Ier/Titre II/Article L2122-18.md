@@ -12,6 +12,6 @@ présent code ne peut recevoir de délégation jusqu'au terme de son mandat de
 conseiller municipal ou jusqu'à la cessation du mandat ou de la fonction l'ayant
 placé en situation d'incompatibilité.
 
-Lorsque le maire a retiré les délégations qu'il avait données à un adjoint, et
-si celui-ci ne démissionne pas, ces délégations peuvent être attribuées à un
-conseiller municipal, nonobstant les dispositions de l'alinéa précédent.
+Lorsque le maire a retiré les délégations qu'il avait données à un adjoint, le
+conseil municipal doit se prononcer sur le maintien de celui-ci dans ses
+fonctions.

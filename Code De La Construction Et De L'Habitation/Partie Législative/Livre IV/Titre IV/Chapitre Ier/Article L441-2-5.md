@@ -42,7 +42,7 @@ dans lesquelles les bailleurs sociaux non signataires de l'accord collectif
 départemental communiquent les informations énoncées ci-dessus.
 
 Le représentant de l'Etat dans le département soumet au moins une fois par an au
-conseil départemental de l'habitat les principaux résultats des informations
+comité régional de l'habitat les principaux résultats des informations
 recueillies au titre du présent article. Ces résultats peuvent être consultés
 par toute personne en faisant la demande ;
 

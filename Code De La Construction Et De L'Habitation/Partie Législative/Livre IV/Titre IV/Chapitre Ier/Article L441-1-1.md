@@ -8,15 +8,14 @@ des conférences intercommunales du logement prévues à l'article L. 441-1-4 so
 pour chaque département, précisées en tenant compte de la mixité des villes et
 des quartiers ainsi que, le cas échéant, des caractéristiques des diverses
 parties de celui-ci, par un règlement établi par le représentant de l'Etat dans
-le département après avis du conseil départemental de l'habitat.
+le département après avis du comité régional de l'habitat.
 
 Ce règlement tient compte des programmes locaux de l'habitat, communiqués au
-conseil départemental de l'habitat, des besoins évalués par le plan
-départemental d'action pour le logement des personnes défavorisées prévu à
-l'article 2 de la loi n° 90-449 du 31 mai 1990 visant à la mise en oeuvre du
-droit au logement, des accords collectifs départementaux prévus à l'article L.
-441-1-2 et, le cas échéant, des chartes intercommunales prévues à l'article L.
-441-1-5.
+comité régional de l'habitat, des besoins évalués par le plan départemental
+d'action pour le logement des personnes défavorisées prévu à l'article 2 de la
+loi n° 90-449 du 31 mai 1990 visant à la mise en oeuvre du droit au logement,
+des accords collectifs départementaux prévus à l'article L. 441-1-2 et, le cas
+échéant, des chartes intercommunales prévues à l'article L. 441-1-5.
 
 En cas d'inobservation par un organisme des règles fixées par le règlement
 départemental, après épuisement des voies de conciliation et après mise en

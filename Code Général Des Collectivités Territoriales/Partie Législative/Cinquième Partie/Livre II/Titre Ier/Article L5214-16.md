@@ -27,15 +27,23 @@ de schémas départementaux ;
 et d'équipements de l'enseignement préélémentaire et élémentaire.
 
 III. - La définition des compétences transférées au sein de chacun des groupes
-est fixée par la majorité qualifiée requise pour la création de la communauté. ;
+est fixée par la majorité qualifiée requise pour la création de la communauté.
 
 IV. - L'intérêt communautaire des compétences exercées au sein des groupes
 mentionnés aux I et II est déterminé à la majorité qualifiée requise pour la
-création de la communauté de communes. ;
+création de la communauté de communes.
 
-V. - La communauté de communes peut attribuer des fonds de concours aux communes
-membres afin de contribuer à la réalisation ou au fonctionnement d'équipements
-dont l'utilité dépasse manifestement l'intérêt communal.
+Il est défini au plus tard deux ans après l'entrée en vigueur de l'arrêté
+prononçant le transfert de compétence. A défaut, la communauté de communes
+exerce l'intégralité de la compétence transférée.
+
+V. - Afin de financer la réalisation ou le fonctionnement d'un équipement, des
+fonds de concours peuvent être versés entre la communauté de communes et les
+communes membres après accords concordants exprimés à la majorité simple du
+conseil communautaire et des conseils municipaux concernés.
+
+Le montant total des fonds de concours ne peut excéder la part du financement
+assurée, hors subventions, par le bénéficiaire du fonds de concours.
 
 VI. - La communauté de communes, lorsqu'elle est dotée d'une compétence dans ce
 domaine, peut exercer le droit de préemption urbain dans les périmètres fixés,

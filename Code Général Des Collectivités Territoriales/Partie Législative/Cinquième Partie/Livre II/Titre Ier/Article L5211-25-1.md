@@ -21,10 +21,14 @@ de la dette contractée postérieurement au transfert de compétences est répar
 dans les mêmes conditions entre les communes qui reprennent la compétence ou
 entre la commune qui se retire et l'établissement public de coopération
 intercommunale ou, le cas échéant, entre la commune et le syndicat de communes.
+A défaut d'accord entre l'organe délibérant de l'établissement public de
+coopération intercommunale et les conseils municipaux des communes concernés,
+cette répartition est fixée par arrêté du ou des représentants de l'Etat dans le
+ou les départements concernés.
 
 Les contrats sont exécutés dans les conditions antérieures jusqu'à leur
 échéance, sauf accord contraire des parties. La substitution de personne morale
-aux contrats conclus par les communes n'entraîne aucun droit à résiliation ou à
-indemnisation pour le cocontractant. L'établissement public de coopération
-intercommunale qui restitue la compétence informe les cocontractants de cette
-substitution.
+aux contrats conclus par les établissements publics de coopération
+intercommunale n'entraîne aucun droit à résiliation ou à indemnisation pour le
+cocontractant. L'établissement public de coopération intercommunale qui restitue
+la compétence informe les cocontractants de cette substitution.

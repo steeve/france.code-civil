@@ -9,9 +9,10 @@ La décision de l'autorité administrative portant transfert vaut classement dan
 le domaine public et éteint, par elle-même et à sa date, tous droits réels et
 personnels existant sur les biens transférés.
 
-Cette décision est prise par décret en Conseil d'Etat, sauf si la commune a
-formulé une demande pour le transfert des voies privées dans son domaine public
-et si aucun des propriétaires intéressés ne s'y est opposé.
+Cette décision est prise par délibération du conseil municipal. Si un
+propriétaire intéressé a fait connaître son opposition, cette décision est prise
+par arrêté du représentant de l'Etat dans le département, à la demande de la
+commune.
 
 L'acte portant classement d'office comporte également approbation d'un plan
 d'alignement dans lequel l'assiette des voies publiques est limitée aux emprises

@@ -9,8 +9,9 @@ celui-ci.
 Le mandat des membres du bureau prend fin en même temps que celui des membres de
 l'organe délibérant.
 
-Le président et le bureau peuvent recevoir délégation d'une partie des
-attributions de l'organe délibérant à l'exception :
+Le président, les vice-présidents ayant reçu délégation ou le bureau dans son
+ensemble peuvent recevoir délégation d'une partie des attributions de l'organe
+délibérant à l'exception :
 
 1° Du vote du budget, de l'institution et de la fixation des taux ou tarifs des
 taxes ou redevances ;

@@ -3,22 +3,21 @@ Article L441-1-4
 Lorsque la situation du logement le justifie au regard des objectifs de mixité
 sociale et d'accueil des personnes défavorisées, le représentant de l'Etat dans
 le département, après consultation de la commission départementale de la
-coopération intercommunale et du conseil départemental de l'habitat ainsi que,
-dans la région d'Ile-de-France, de la conférence régionale mentionnée à
-l'article L. 441-1-6, délimite des bassins d'habitat qui représentent des
-territoires cohérents d'intervention en matière de politique de logement et
-d'urbanisme. Il doit prendre en compte pour cette délimitation les structures de
-coopération intercommunale compétentes en matière d'urbanisme et de logement
-créées en application des dispositions de la cinquième partie du code général
-des collectivités territoriales, les périmètres des programmes locaux de
-l'habitat institués en application des articles L. 302-1 et suivants du présent
-code, lorsque ces derniers ont un caractère intercommunal et, le cas échéant,
-les bassins d'habitat délimités par le plan départemental d'action pour le
-logement des personnes défavorisées en application des dispositions de l'article
-4 de la loi n° 90-449 du 31 mai 1990 précitée ainsi que les conférences
-intercommunales du logement existantes à la date de publication de la loi n°
-98-657 du 29 juillet 1998 d'orientation relative à la lutte contre les
-exclusions.
+coopération intercommunale et du comité régional de l'habitat ainsi que, dans la
+région d'Ile-de-France, de la conférence régionale mentionnée à l'article L.
+441-1-6, délimite des bassins d'habitat qui représentent des territoires
+cohérents d'intervention en matière de politique de logement et d'urbanisme. Il
+doit prendre en compte pour cette délimitation les structures de coopération
+intercommunale compétentes en matière d'urbanisme et de logement créées en
+application des dispositions de la cinquième partie du code général des
+collectivités territoriales, les périmètres des programmes locaux de l'habitat
+institués en application des articles L. 302-1 et suivants du présent code,
+lorsque ces derniers ont un caractère intercommunal et, le cas échéant, les
+bassins d'habitat délimités par le plan départemental d'action pour le logement
+des personnes défavorisées en application des dispositions de l'article 4 de la
+loi n° 90-449 du 31 mai 1990 précitée ainsi que les conférences intercommunales
+du logement existantes à la date de publication de la loi n° 98-657 du 29
+juillet 1998 d'orientation relative à la lutte contre les exclusions.
 
 Ceux-ci sont constitués par le territoire de plusieurs communes contiguës dont
 l'une au moins comprend une ou plusieurs zones urbaines sensibles, définies au 3
@@ -38,12 +37,12 @@ publication de la loi n° 98-657 du 29 juillet 1998 précitée.
 Lorsque le bassin d'habitat regroupe des communes situées dans des départements
 différents, sa délimitation est faite par les représentants de l'Etat dans les
 départements concernés, après consultation des commissions départementales de la
-coopération intercommunale et des conseils départementaux de l'habitat.
-Toutefois, dans la région d'Ile-de-France, la délimitation des bassins d'habitat
-regroupant des communes situées dans des départements différents relève de la
-compétence du représentant de l'Etat dans la région après avis des commissions
-et conseils susmentionnés ainsi que de la conférence régionale mentionnée à
-l'article L. 441-1-6.
+coopération intercommunale et des comités régionaux de l'habitat. Toutefois,
+dans la région d'Ile-de-France, la délimitation des bassins d'habitat regroupant
+des communes situées dans des départements différents relève de la compétence du
+représentant de l'Etat dans la région après avis des commissions et comités
+susmentionnés ainsi que de la conférence régionale mentionnée à l'article L.
+441-1-6.
 
 La conférence du logement rassemble, outre les maires des communes, un
 représentant du ou des conseils généraux concernés et le ou les représentants de

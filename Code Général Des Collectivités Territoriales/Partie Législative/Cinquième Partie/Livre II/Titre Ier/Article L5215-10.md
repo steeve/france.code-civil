@@ -1,9 +1,9 @@
 Article L5215-10
 ----
-- L'élection des délégués s'effectue selon les modalités suivantes :
+L'élection des délégués s'effectue selon les modalités suivantes :
 
-1° S'il n'y a qu'un délégué, est appliquée la procédure prévue au dernier alinéa
-de l'article L. 2121-21 ;
+1° S'il n'y a qu'un délégué, est appliquée la procédure prévue à l'avant-dernier
+alinéa de l'article L. 2121-21 ;
 
 2° Dans les autres cas, les délégués des communes au conseil de la communauté
 sont élus au scrutin de liste à un tour, sans adjonction ni suppression de noms

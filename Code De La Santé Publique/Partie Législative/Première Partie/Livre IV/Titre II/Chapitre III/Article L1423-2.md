@@ -1,8 +1,6 @@
 Article L1423-2
 ----
-Les dispensaires antivénériens sont destinés à assurer dans le cadre du
-département la prophylaxie et le traitement ambulatoire des maladies
-vénériennes.
-
-Ces dispensaires sont ouverts gratuitement à tous les consultants, ou
-spécialisés à certaines catégories de consultants.
+Le département peut, dans le cadre de conventions conclues avec l'Etat,
+participer à la mise en oeuvre des programmes de santé définis. en application
+du titre Ier du livre IV de la première partie, notamment des programmes de
+dépistage des cancers.
