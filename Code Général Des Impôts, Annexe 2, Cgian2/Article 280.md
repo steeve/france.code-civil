@@ -1,4 +1,4 @@
 Article 280
 ----
-L'administration des impôts met à la disposition des fournisseurs agréés la
-liste des débitants désignés comme ses préposés.
+La direction générale des impôts met la liste des débitants à la disposition des
+fournisseurs pourvus d'un numéro d'identification.
