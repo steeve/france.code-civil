@@ -93,7 +93,7 @@ toute nature achevés à la date du 31 décembre 1994 ou dont la déclaration
 d'ouverture de chantier prévue à l'article R. 421-40 a été déposée en mairie au
 plus tard à cette même date. La présente disposition n'est applicable qu'aux
 opérations d'utilisation pour lesquelles les actes juridiques dont l'utilisation
-dépend sont définitivement passés au plus tard le 31 décembre 1998.
+dépend sont définitivement passés au plus tard le 31 décembre 1999.
 
 6. Lorsqu'elles portent sur des locaux d'internat à usage scolaire ou sur des
 résidences universitaires.

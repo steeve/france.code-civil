@@ -11,8 +11,13 @@ aux articles L. 351-3, L. 351-9, L. 351-10 et L. 353-1 ;
 prévues aux articles L. 351-3 et L. 353-1 ;
 
 3° Les bénéficiaires de l'allocation de revenu minimum d'insertion ou leur
-conjoint ou concubin ;
+conjoint ou concubin ainsi que les bénéficiaires de l'allocation prévue à
+l'article L. 524-1 du code de la sécurité sociale ;
 
 4° Les demandeurs d'emploi non indemnisés inscrits depuis plus de six mois au
 cours des dix-huit derniers mois et n'appartenant pas aux catégories mentionnées
-aux 2° et 3° ci-dessus.
+aux 2° et 3° ci-dessus ;
+
+5° Les personnes visées aux 4° et 5° de l'article L. 351-24 ;
+
+6° Les personnes visées au troisième alinéa de l'article L. 351-24.
