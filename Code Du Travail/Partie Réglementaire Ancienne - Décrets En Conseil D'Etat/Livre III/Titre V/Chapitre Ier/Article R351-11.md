@@ -19,6 +19,9 @@ si elles avaient été perçues sur ce territoire.
 
 Il n'est pas tenu compte des prestations familiales.
 
+La pension alimentaire ou la prestation compensatoire fixée par une décision de
+justice devenue exécutoire est déduite des ressources de celui qui la verse.
+
 Il n'est tenu compte ni des allocations d'assurance ou de solidarité ni des
 rémunérations de stage ou des revenus d'activité perçus pendant la période de
 référence lorsqu'il est justifié que leur perception est interrompue de manière
