@@ -25,7 +25,7 @@ foncières à prendre en compte pour la détermination du taux de taxe
 professionnelle conformément au deuxième alinéa du b du 1 du I de l'article 1636
 B sexies est réduite de moitié pendant les deux années suivantes.
 
-Pour l'application du b du I, ainsi que des 2 et 3 du I de l'article 1636 B
+Pour l'application du b du 1, ainsi que des 2 et 3 du I de l'article 1636 B
 sexies :
 
 1° Le taux de la taxe d'habitation est égal au taux moyen de cette taxe constaté

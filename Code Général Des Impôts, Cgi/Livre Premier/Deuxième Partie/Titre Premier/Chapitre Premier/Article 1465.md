@@ -6,21 +6,21 @@ fiscalité propre peuvent, par une délibération de portée générale, exonér
 la taxe professionnelle en totalité ou en partie les entreprises qui procèdent
 sur leur territoire, soit à des décentralisations, extensions ou créations
 d'activités industrielles ou de recherche scientifique et technique, ou de
-services de direction, d'études, d'ingénierie et d'informatique, ((soit à une
+services de direction, d'études, d'ingénierie et d'informatique, soit à une
 reconversion dans le même type d'activités, soit à la reprise d'établissements
-en difficulté exerçant le même type d'activités)) (1). Cette délibération ne
-peut avoir pour effet de reporter de plus de cinq ans l'application du régime
-d'imposition de droit commun. ((Pour les opérations réalisées à compter du 1er
+en difficulté exerçant le même type d'activités. Cette délibération ne peut
+avoir pour effet de reporter de plus de cinq ans l'application du régime
+d'imposition de droit commun. Pour les opérations réalisées à compter du 1er
 janvier 1995, l'exonération s'applique dans les zones éligibles à la prime
 d'aménagement du territoire et dans les territoires ruraux de développement
-prioritaire définis par décret)) (1').
+prioritaire définis par décret.
 
 Lorsqu'il s'agit de décentralisations, extensions ou créations d'établissements
 industriels ou de recherche scientifique et technique répondant à des conditions
-fixées par décret (2) en tenant compte notamment du volume des investissements
-et du nombre des emplois créés, l'exonération est acquise sans autre formalité.
-((Dans les autres cas, elle est soumise à agrément dans les conditions prévues à
-l'article 1649 nonies)) (1')(3).
+fixées par décret en tenant compte notamment du volume des investissements et du
+nombre des emplois créés, l'exonération est acquise sans autre formalité. Dans
+les autres cas, elle est soumise à agrément dans les conditions prévues à
+l'article 1649 nonies.
 
 Quand l'agrément est nécessaire pour des entreprises petites ou moyennes, il est
 accordé par une procédure décentralisée.
@@ -31,7 +31,7 @@ nouvelles appréciée par rapport à la dernière année précédant l'opératio
 rapport à la moyenne des trois dernières années si celle-ci est supérieure.
 Toutefois, le prix de revient des immobilisations exonérées ne peut excéder dix
 millions de francs par emploi créé. Par délibération, les collectivités locales
-peuvent fixer ce montant à un niveau moins élevé (4).
+peuvent fixer ce montant à un niveau moins élevé.
 
 L'entreprise ne peut bénéficier d'une exonération non soumise à agrément qu'à
 condition de l'avoir indiqué au service des impôts au plus tard lors du dépôt de
@@ -50,17 +50,17 @@ Pour l'application du présent article, les délibérations prises par les conse
 municipaux s'appliquent aux impositions perçues au profit des groupements de
 communes autres que les communautés urbaines en ce qui concerne les
 décentralisations, extensions, créations, reconversions d'activité ou reprises
-d'établissements en difficulté réalisées avant le 1er janvier 1991. ((Les
+d'établissements en difficulté réalisées avant le 1er janvier 1991. Les
 délibérations instituant l'exonération prises en 1995 par les collectivités
 locales et leurs groupements dotés d'une fiscalité propre s'appliquent aux
-opérations réalisées à compter du 1er janvier 1995)) (1').
+opérations réalisées à compter du 1er janvier 1995.
 
 Lorsque tout ou partie de la part communale de la taxe professionnelle acquittée
 par les entreprises implantées sur une zone d'activités économiques créée ou
 gérée par un groupement de communes est affectée à ce groupement en vertu de
-l'article 11 de la loi n° 80-10 du 10 janvier 1980 portant aménagement de la
-fiscalité directe locale, celui-ci est substitué à la commune pour l'application
-du présent article.
+l'article 11 modifié de la loi n° 80-10 du 10 janvier 1980 portant aménagement
+de la fiscalité directe locale, celui-ci est substitué à la commune pour
+l'application du présent article.
 
 Nonobstant les dispositions de l'article L174 du livre des procédures fiscales,
 toute entreprise qui cesse volontairement son activité pendant une période
@@ -68,20 +68,5 @@ d'exonération prévue au présent article, ou dans les cinq années suivant la 
 de celle-ci, est tenue de verser les sommes qu'elle n'a pas acquittées au titre
 de la taxe professionnelle.
 
-Un décret en Conseil d'Etat fixe les conditions d'application du présent article
-(5).
-
-(1) Modification. Ces dispositions s'appliquent à compter du 1er janvier 1995.
-
-(1') Modification.
-
-[*Cf. Instruction 1995-07-17 6E-7-95.*]
-
-(2) Annexe III, art. 322 G à 322 L.
-
-(3) Annexe IV, art. 121 quinquies DB quater à 121 quinquies DB septies.
-
-(4) Le chiffre de dix millions s'applique pour les exonérations qui prennent
-effet à compter du 1er janvier 1989. Il était fixé antérieurement à un million.
-
-(5) Annexe II, art. 310 HB bis à 310 HB septies.
+Un décret en Conseil d'Etat fixe les conditions d'application du présent
+article.

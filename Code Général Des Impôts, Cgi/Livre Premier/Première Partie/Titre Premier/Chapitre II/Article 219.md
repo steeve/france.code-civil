@@ -1,161 +1,26 @@
 Article 219
 ----
-I. Pour le calcul de l'impôt, ((le bénéfice imposable est arrondi au franc ou à
+I. Pour le calcul de l'impôt, le bénéfice imposable est arrondi au franc ou à
 l'euro le plus proche. La fraction de franc ou d'euro égale à 0,50 est comptée
-pour I)) (M).
+pour I.
 
-Le taux normal de l'impôt est fixé à 33,1/3 % (1).
+Le taux normal de l'impôt est fixé à 33,1/3 %.
 
 Toutefois :
 
-a. Le montant net des plus-values à long terme autres que celles visées à
-l'article 39 quindecies-II fait l'objet d'une imposition séparée au taux de 15
-%, dans les conditions prévues au 1 du I de l'article 39 quindecies et à
-l'article 209 quater. Pour l'imposition des plus-values à long terme réalisées à
-compter du 20 octobre 1989, autres que celles visées à l'article 39 terdecies,
-le taux de 15 p. 100 est porté à 19 p. 100 ;
+a. Le montant net des plus-values à long terme fait l'objet d'une imposition
+séparée au taux de 19 %, dans les conditions prévues au 1 du I de l'article 39
+quindecies et à l'article 209 quater.
 
 L'excédent éventuel des moins-values à long terme ne peut être imputé que sur
-les plus-values à long terme réalisées au cours des dix exercices suivants. Les
-moins-values à long terme existant à l'ouverture du premier exercice clos après
-le 20 octobre 1989 qui sont afférentes aux éléments d'actifs autres que ceux
-visés à l'article 39 terdecies et ((au I du A de l'article 1594-0 G)) (M) sont
-imputées sur les plus-values à long terme imposables au taux de 19 p. 100
-mentionné à l'alinéa précédent. Les moins-values à long terme afférentes à des
-éléments d'actif relevant du taux de 19 p. 100 et existant à l'ouverture du
-premier exercice clos à compter du 1er novembre 1990 peuvent s'imputer sur les
-plus-values à long terme correspondant à la cession de titres mentionnées au
-sixième alinéa pour une fraction de leur montant égale à 19/25.
+les plus-values à long terme réalisées au cours des dix exercices suivants.
 
-Toutefois, en cas de liquidation d'entreprise intervenue au cours des exercices
-ouverts à compter du 1er janvier 1991, l'excédent des moins-values à long terme
-subies à compter du 20 octobre 1989 dans un exrcice clos avant le 1er octobre
-1991 peut être déduit des bénéfices de l'exercice de liquidation à raison des
-dix-neuf trente-quatrièmes de son montant. Cette fraction est égale à dix-neuf
-trente-septièmes si la liquidation est intervenue au cours d'exercices ouverts
-en 1990 ou à dix-neuf trente-neuvièmes si la liquidation est intervenue au cours
-d'exercices ouverts en 1989.
-
-Pour les moins-values à long terme subies avant le 20 octobre 1989, cette
-fraction est égale à quinze quarante-cinquièmes si la liquidation est intervenue
-au cours d'exercices ouverts entre le 1er janvier 1986 et le 31 décembre 1987,
-quinze quarante-deuxièmes si la liquidation est intervenue au cours d'exercices
-ouverts en 1988, quinze trente-neuvièmes si la liquidation est intervenue au
-cours d'exercices ouverts en 1989, quinze trente-septièmes si la liquidation est
-intervenue au cours d'exercices ouverts en 1990, et quinze trente-quatrièmes si
-la liquidation intervient au cours d'exercices ouverts à compter du 1er janvier
-1991.
-
-Sous réserve des dispositions du huitième alinéa, les provisions pour
-dépréciation du portefeuille existant à l'ouverture du premier exercice clos
-après le 20 octobre 1989 sont comprises dans les plus-values à long terme
-imposables au taux de 19 % lorsqu'elles deviennent sans objet (2).
-
-Pour la détermination des résultats imposables des exercices clos à compter du
-1er novembre 1990, le taux de 19 % mentionné au premier alinéa du a est porté à
-25 % pour l'imposition des plus-values nettes à long terme réalisées avant le
-1er juillet 1991 lors de la cession de titres du portefeuille, à l'exclusion des
-parts ou actions de sociétés, autres que celles émises par les sociétés
-d'investissement à capital variable, des bons de souscription d'actions, des
-certificats d'investissement et des certificats coopératifs d'investissement.
-Par exception, le taux de 25 p. 100 est applicable aux plus-values nettes à long
-terme afférentes aux titres de sociétés dont l'actif est constitué
-principalement par des titres relevant de ce même taux en application de la
-phrase qui précède ou dont l'activité consiste de manière prépondérante en la
-gestion des mêmes valeurs pour leur propre compte.
-
-Le montant net des plus-values à long terme mentionnées au sixième alinéa et des
-plus-values visées au II de l'article 39 quindecies fait l'objet d'une
-imposition séparée au taux de 25 % dans les conditions prévues par ce dernier
-texte et par l'article 209 quater (3).
-
-Les provisions pour dépréciation existant à l'ouverture du premier exercice clos
-à compter du 1er novembre 1990 qui se rapportent aux titres soumis au régime
-d'imposition prévu au sixième alinéa, lorsqu'elles sont réintégrées dans le
-résultat, sont soumises au régime des plus-values à long terme imposables au
-taux de 25 % (4).
-
-a bis. Le montant net des plus-values à long terme, autres que celles
-mentionnées au sixième alinéa du a ci-dessus ou résultant de la cession de parts
-ou actions émises par des organismes de placement collectif en valeurs
-mobilières étrangers fait l'objet d'une imposition séparée au taux de 18 %, dans
-les conditions prévues au I de l'article 39 quindecies et à l'article 209
-quater.
-
-Les moins-values à long terme existant à l'ouverture du premier exercice clos à
-compter du 1er octobre 1991, qui sont afférentes aux éléments d'actif autres que
-les titres exclus du régime des plus-values en application des troisième et
-quatrième alinéas ci-dessous, sont imputées sur les plus-values à long terme
-imposables au taux de 18 %. Les provisions pour dépréciation qui se rapportent
-aux mêmes éléments sont comprises dans les plus-values à long terme imposables
-au taux de 18 %, lorsqu'elles deviennent sans objet.
-
-Le régime des plus-values et moins-values à long terme cesse de s'appliquer au
-résultat de la cession de titres du portefeuille réalisée à compter du 1er
-juillet 1991 à l'exclusion des parts ou actions de sociétés, autres que celles
-émises par des organismes de placement collectif en valeurs mobilières français
-ou étrangers, des bons de souscription d'actions, des certificats
-d'investissement et des certificats coopératifs d'investissement et des parts de
-fonds commun de placement à risques qui remplissent les conditions prévues au 1°
-bis du II de l'article 163 quinquies B et qui sont détenues par l'entreprise
-depuis au moins cinq ans. Ce dernier délai est ramené à deux ans pour les fonds
-communs de placement à risques qui satisfont aux conditions posées par le
-cinquième alinéa du 1° de l'article 209-0 A ; toutefois, pour l'appréciation des
-conditions visées dans la phrase précédente, les actions, certificats
-d'investissement et certificats coopératifs d'investissement pris en compte
-s'entendent de ceux qui ne sont pas admis à la négociation sur un marché
-réglementé français ou étranger (5).
-
-A compter de la date du 1er juillet 1991 visée au troisième alinéa, le régime
-des plus-values et moins-values à long terme cesse également de s'appliquer en
-ce qui concerne les titres de sociétés dont l'actif est constitué principalement
-par des titres exclus de ce régime en application de l'alinéa précédent ou dont
-l'activité consiste de manière prépondérante en la gestion des mêmes valeurs
-pour leur propre compte.
-
-Les provisions pour dépréciation afférentes aux titres concernés par les
-troisième et quatrième alinéas ci-dessus cessent d'être soumises au régime des
-plus et moins-values à long terme.
-
-Les moins-values à long terme afférentes à des titres exclus du régime des
-plus-values à long terme en application des troisième et quatrième alinéas
-ci-dessus, subies au cours d'un exercice clos à compter du 1er novembre 1990 et
-restant à reporter après compensation avec les plus-values à long terme relevant
-du taux de 25 % réalisées jusqu'au 1er juillet 1991, sont considérées comme une
-charge du premier exercice clos à compter du 1er octobre 1991 pour une fraction
-de leur montant égale au rapport qui existe entre le taux de 25 % et le taux
-normal de l'impôt sur les sociétés.
-
-Les moins-values à long terme afférentes à des éléments d'actif qui relevaient
-du taux de 19 % mentionné au a du I du présent article existant à l'ouverture du
-premier exercice clos à compter du 1er novembre 1990 et restant à reporter après
-compensation avec les plus-values relevant du taux de 18 % peuvent s'imputer sur
-les bénéfices imposables, pour une fraction de leur montant égale au rapport qui
-existe entre le taux de 18 % et le taux normal de l'impôt sur les sociétés.
-Cette imputation n'est possible que dans la limite des profits nets retirés de
-la cession de titres acquis depuis deux ans au moins et qui entrent dans le
-champ d'application des troisième et quatrième alinéas ci-dessus, corrigés des
-provisions sur titres déduites ou réintégrées dans les résultats, diminués, le
-cas échéant, de la déduction prévue à l'alinéa précédent.
-
-L'excédent des moins-values à long terme subies au cours d'un exercice clos à
-compter du 1er octobre 1991 peut être déduit des bénéfices de l'exercice de
-liquidation d'une entreprise intervenue au cours des exercices ouverts à compter
-du 1er janvier 1991 à raison des 18/34 de son montant.
-
-Ces dispositions s'appliquent pour la détermination des résultats des exercices
-clos à compter du 1er octobre 1991.
-
-Pour la détermination des résultats des exercices ouverts à compter du 1er
-janvier 1994, le taux de 18 % mentionné au premier alinéa est porté à 19 %. Les
-moins-values à long terme existant à l'ouverture du premier de ces exercices
-sont imputées sur les plus-values à long terme imposées au taux de 19 %. Les
-provisions pour dépréciation afférentes aux titres de portefeuille autres que
-celles mentionnées au cinquième alinéa sont comprises dans les plus-values à
-long terme imposables au taux de 19 % lorsqu'elles deviennent sans objet.
-L'excédent des moins-values à long terme subies au cours d'un exercice ouvert à
-compter du 1er janvier 1994 peut être déduit des bénéfices de l'exercice de
-liquidation d'une entreprise à raison des 19/33,33e de son montant.
+a bis. Les moins-values à long terme existant à l'ouverture du premier des
+exercices ouverts à compter du 1er janvier 1994 sont imputées sur les
+moins-values à long terme imposées au taux de 19 %. L'excédent des moins-values
+à long terme subies au cours d'un exercice ouvert à compter du 1er janvier 1994
+peut être déduit des bénéfices de l'exercice de liquidation d'une entreprise à
+raison des 19/33,33e de son montant.
 
 a ter. Le régime des plus-values et moins-values à long terme cesse de
 s'appliquer au résultat de la cession de titres du portefeuille réalisée au
@@ -180,7 +45,7 @@ publique d'achat ou d'échange par l'entreprise qui en est l'initiatrice ainsi
 que des titres ouvrant droit au régime des sociétés mères si ces actions ou
 titres sont inscrits en comptabilité au compte de titres de participation ou à
 une subdivision spéciale d'un autre compte du bilan correspondant à leur
-qualification comptable (6).
+qualification comptable.
 
 Les provisions pour dépréciation afférentes aux titres exclus du régime des plus
 ou moins-values en application des premier et deuxième alinéas cessent d'être
@@ -205,7 +70,7 @@ troisième alinéa sous réserve que le premier terme de la différence mentionn
 au cinquième alinéa s'entend, pour les titres cotés, du cours moyen des trente
 derniers jours précédant celui du transfert et, pour les titres non cotés, de
 leur valeur probable de négociation et sans préjudice de l'application des
-dispositions de l'article 38 bis A (6).
+dispositions de l'article 38 bis A.
 
 Les dispositions des cinquième et sixième alinéas ne sont pas applicables aux
 transferts entre le compte de titres de participation et les subdivisions
@@ -264,24 +129,24 @@ résultats nets de la concession de licences d'exploitation continuant à
 bénéficier de ce régime, s'imputer à raison des 19/33,33e de leur montant sur
 les bénéfices imposables. Cette imputation n'est possible que dans la limite des
 gains nets retirés de la cession des éléments d'actifs exclus du régime des plus
-et moins-values à long terme en application de l'alinéa précédent ;
+et moins-values à long terme en application du premier alinéa ;
 
-b. (Disposition périmée).
+b. (périmé).
 
-c. (Dispositions abrogées) (7).
+c. (abrogé).
 
-d. d bis. e. (Devenus sans objet).
+d. à e. (Sans objet).
 
 f. Les sociétés mentionnées aux 1 à 3 de l'article 206, soumises à l'impôt sur
 les sociétés dans les conditions de droit commun, autres que les sociétés à
 capital variable et celles mentionnées à l'article 238 bis HE, peuvent
 bénéficier, pour une série comprenant un exercice bénéficiaire et les deux
-premiers exercices bénéficiaires suivant celui-ci, du taux fixé au dixième
-alinéa du a bis, à hauteur de la fraction de leurs résultats comptables qu'elles
-incorporent à leur capital au cours de l'exercice suivant celui de leur
-réalisation. Cette fraction doit représenter, pour chacun des trois exercices et
-dans la limite du résultat fiscal, le quart au plus du résultat comptable sans
-excéder la somme de 200 000 F.
+premiers exercices bénéficiaires suivant celui-ci, du taux fixé au a bis, à
+hauteur de la fraction de leurs résultats comptables qu'elles incorporent à leur
+capital au cours de l'exercice suivant celui de leur réalisation. Cette fraction
+doit représenter, pour chacun des trois exercices et dans la limite du résultat
+fiscal, le quart au plus du résultat comptable sans excéder la somme de 200 000
+F.
 
 Les dispositions du premier alinéa s'appliquent si les conditions suivantes sont
 remplies :
@@ -293,7 +158,12 @@ des exercices pour lequel le bénéfice du taux réduit est demandé ;
 2° Le capital de la société, entièrement libéré, est détenu de manière continue,
 pour 75 p. 100 au moins par des personnes physiques ou par une société répondant
 aux conditions visées au 1° dont le capital est détenu, pour 75 p. 100 au moins,
-par des personnes physiques.
+par des personnes physiques. Pour la détermination de ce pourcentage, les
+participations des sociétés de capital-risque, des fonds communs de placement à
+risques, des sociétés de développement régional et des sociétés financières
+d'innovation ne sont pas prises en compte à la condition qu'il n'existe pas de
+lien de dépendance au sens du 1 bis de l'article 39 terdecies entre la société
+en cause et ces dernières sociétés ou ces fonds.
 
 Lorsque la société n'a pas dressé de bilan au cours d'un exercice, le bénéfice
 imposé provisoirement en application du deuxième alinéa de l'article 37 ne peut
@@ -332,15 +202,10 @@ d'absence d'incorporation au capital dans ce délai, les dispositions du
 quatrième alinéa du présent f sont applicables.
 
 Les conditions d'application du f ainsi que les obligations déclaratives qui en
-découlent sont fixées par décret (8). Pour la détermination de ce pourcentage,
-les participations des sociétés de capital-risque, des fonds communs de
-placement à risques, des sociétés de développement régional et des sociétés
-financières d'innovation ne sont pas prises en compte à la condition qu'il
-n'existe pas de lien de dépendance au sens du 1 bis de l'article 39 terdecies
-entre la société en cause et ces dernières sociétés ou ces fonds.
+découlent sont fixées par décret.
 
-II. Les plus-values visées à l'article 238 octies I sont soumises à l'impôt au
-taux de 15 % lorsque la société n'a pas demandé à bénéficier de l'exonération
+II. Les plus-values visées au I de l'article 238 octies sont soumises à l'impôt
+au taux de 15 % lorsque la société n'a pas demandé à bénéficier de l'exonération
 sous condition de remploi prévue audit article. L'application de la présente
 disposition est toutefois subordonnée à la double condition que :
 
@@ -354,7 +219,7 @@ III. Les dispositions du II sont étendues, sous les mêmes conditions, aux
 profits réalisés à l'occasion de la cession d'immeubles ayant fait l'objet d'un
 permis de construire délivré entre le 1er janvier 1966 et le 1er janvier 1972 ou
 pour lesquels aura été déposée, avant le 1er janvier 1972, la déclaration de
-construction visée à l'article L 430-3 du code de l'urbanisme (9).
+construction visée à l'article L. 430-3 du code de l'urbanisme.
 
 Toutefois, en ce qui concerne ces profits :
 
@@ -363,42 +228,3 @@ a. Le taux réduit de l'impôt sur les sociétés est fixé à 25 % ;
 b. L'application de ce taux réduit est subordonnée à la condition que les
 opérations de construction correspondantes présentent un caractère accessoire
 pour la société intéressée.
-
-(1) Ce taux s'applique aux exercices ouverts à compter du 1er janvier 1993. Il
-était fixé à 34 % pour les exercices ouverts à compter du 1er janvier 1991, à 37
-% pour les exercices ouverts à compter du 1er janvier 1990, à 39 % pour les
-exercices ouverts entre le 1er janvier 1989 et le 31 décembre 1989, à 42 % pour
-les exercices ouverts entre le 1er janvier 1988 et le 31 décembre 1988 et à 45 %
-pour les exercices ouverts entre le 1er janvier 1987 et le 31 décembre 1987.
-
-(M) Modification.
-
-(2) Les dispositions des cinq alinéas ci-dessus sont applicables pour les
-exercices clos avant le 1er octobre 1991.
-
-(3) Les dispositions du 6e alinéa et celles du 7e alinéa qui sont relatives aux
-plus-values à long terme mentionnées au 6e alinéa cessent de s'appliquer pour
-les plus-values à long terme réalisées à compter du 1er juillet 1991, dans un
-exercice clos à compter du 1er octobre 1991. Les dispositions du 7e alinéa qui
-sont relatives aux plus-values visées au II de l'article 39 quindecies
-s'appliquent pour les exercices clos avant le 1er octobre 1991.
-
-(4) Dispositions applicables pour les exercices clos avant le 1er octobre 1991.
-
-(5) Les dispositions de la dernière phrase du présent alinéa s'appliquent aux
-exercices clos à compter de la date d'entrée en vigueur de la loi n° 93-1353 du
-30 décembre 1993.
-
-(6) Dispositions applicables pour la détermination des résultats des exercices
-ouverts à compter du 1er janvier 1995.
-
-(7) Les dispositions du c du 1 de l'article 219 sont abrogées pour les
-distributions mises en paiement au cours des exercices ouverts à compter du 1er
-janvier 1993 ainsi que pour les sommes réputées distribuées au cours de
-l'exercice qui précède le premier exercice ouvert à compter de cette date.
-
-(8) Ces dispositions s'appliquent pour l'imposition des résultats des exercices
-ouverts à compter du 1er janvier 1996.
-
-(9) Dans sa rédaction antérieure à la loi n° 76-1285 du 31 décembre 1976 (J.O.
-du 1er janvier 1977).

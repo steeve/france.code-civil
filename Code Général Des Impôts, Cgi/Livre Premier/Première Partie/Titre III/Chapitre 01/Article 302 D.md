@@ -5,7 +5,8 @@ I. - 1. L'impôt est exigible :
 1° Lors de la mise à la consommation. Le produit est mis à la consommation :
 
 a. Lorsqu'il cesse de bénéficier du régime suspensif des droits d'accises prévu
-au II de l'article 302 G ou de l'entrepôt mentionné au 8° de l'article 570 ;
+au II de l'article 302 G ou de l'entrepôt mentionné au 8° du I de l'article 570
+;
 
 b. Lorsqu'il est importé, à l'exclusion des cas où il est placé, au moment de
 l'importation, sous un régime suspensif des droits d'accises mentionné au a.

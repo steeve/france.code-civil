@@ -15,9 +15,9 @@ prélèvement versé au fonds départemental de la taxe professionnelle au titre
 deuxième alinéa du b du 2 du I ter.
 
 Dans le cas où une commune visée par les dispositions qui précèdent appartient à
-un établissement public de coopération intercommunale auquel elle versait avant
-le 1er mai 1991 une contribution budgétaire calculée par référence au produit
-global de sa taxe professionnelle ou de ses quatre taxes ou s'était engagée par
+un établissement public de coopération intercommunale auquel elle versait, avant
+le 1er mai 1991, une contribution budgétaire calculée par référence au produit
+global de sa taxe professionnelle ou de ses quatre taxes ou s'était engagée, par
 accord conventionnel, à reverser une partie de ce produit à une ou plusieurs
 communes voisines, il est appliqué sur les bases de cette commune, pour
 l'application des premier et deuxième alinéas, une réduction de bases
@@ -157,16 +157,18 @@ district. Ces dispositions s'appliquent jusqu'au 1er janvier 2002.
 
 Pour les districts créés avant la date de promulgation de la loi n° 92-125 du 6
 février 1992 précitée et jusqu'au 1er janvier 2002, le prélèvement mentionné au
-deuxième alinéa est égal au produit du montant des bases excédentaires par la
-différence, lorsqu'elle est positive, entre le taux voté par le district l'année
-considérée et le taux voté en 1998.
+deuxième alinéa est égal à compter du 1er janvier 2001 au produit du montant des
+bases excédentaires par la différence, lorsqu'elle est positive, entre le taux
+voté par le district l'année précédent l'année considérée et le taux voté en
+1998.
 
 Pour les communautés de communes issues de districts créés avant la date de
-promulgation de la loi n° 92-125 du 6 février 1992 précitée et à compter du 1er
-janvier 2002, le troisième alinéa reste applicable.
+promulgation de la loi n° 92-125 du 6 février 1992 précitée et à compter de la
+date de publication de la loi n° 99-586 du 12 juillet 1999 précitée, le
+troisième alinéa reste applicable.
 
 I quinquies. La moyenne des bases de taxe professionnelle par habitant à retenir
-pour l'application en Corse des I, 1 et 2 (a) du I ter et I quater est
+pour l'application en Corse du I, du 1 et du a du 2 du I ter et du I quater est
 multipliée par 0,75.
 
 I sexies. A compter du 1er janvier 1998, lorsqu'à la suite d'une opération
@@ -241,7 +243,7 @@ communes d'implantation du barrage ou par une commission interdépartementale
 lorsque les communes sont situées sur le territoire de plusieurs départements.
 
 Une commune d'implantation de barrage réservoir ou de barrage retenue ne peut
-bénéficier d'une attribution , pour un même fonds départemental, qu'au titre de
+bénéficier d'une attribution, pour un même fonds départemental, qu'au titre de
 l'une ou l'autre des catégories définies au a et au b ci-dessus.
 
 Chacune des catégories définies aux 1° et 2° recevra au minimum 40 % des
@@ -252,7 +254,7 @@ de l'énergie ou traitant des combustibles, créé à partir du 1er janvier 1976
 répartition de la fraction de ressources mentionnée au 2° du II, établie par le
 ou les départements concernés dans les conditions prévues au II, est soumise à
 l'accord, à la majorité qualifiée, des communes d'implantation et des communes
-concernées, telles qu'elles sont définies au 2° du II (1).
+concernées, telles qu'elles sont définies au 2° du II.
 
 IV. A défaut de l'accord prévu au sein de la commission interdépartementale par
 le II et le IV bis ou entre les communes d'implantation et les communes
@@ -290,9 +292,9 @@ communes ou syndicats de communes bénéficiaires des ressources, pour le
 remboursement des annuités d'emprunts contractés par eux avant le 1er juillet
 1975 ;
 
-b) Entre les communes et les groupements de communes à fiscalité propre
-défavorisés par la faiblesse de leur potentiel fiscal ou l'importance de leurs
-charges ;
+b) Entre les communes et les établissements publics de coopération
+intercommunale à fiscalité propre défavorisés par la faiblesse de leur potentiel
+fiscal ou l'importance de leurs charges ;
 
 c) Entre les communes qui répondent aux conditions fixées au 2° du II.
 
@@ -315,10 +317,10 @@ créés après le 31 décembre 1992.
 
 Dans le cas où l'écrêtement ou le prélèvement prévu au b du 2 du I ter concerne
 les bases d'établissements installés sur une zone d'activités économiques et
-assujetties aux dispositions du II de l'article 1609 quinquies C du présent
-code, ce reversement ne peut être inférieur aux annuités des emprunts contractés
-pour l'équipement de cette zone dans la limite des ressources prélevées par
-l'écrêtement ((ou le prélèvement prévu au troisième alinéa du b du 2 du I ter.
+assujetties aux dispositions du II de l'article 1609 quinquies C, ce reversement
+ne peut être inférieur aux annuités des emprunts contractés pour l'équipement de
+cette zone dans la limite des ressources prélevées par l'écrêtement ou le
+prélèvement prévu au troisième alinéa du b du 2 du I ter.
 
 Le conseil général ou, le cas échéant, la commission interdépartementale
 répartit le solde dans les conditions prévues au deuxième alinéa du 1°.
@@ -328,11 +330,11 @@ V. Une fraction des recettes départementales de la taxe professionnelle peut
 de recettes est réparti par lui entre les communes suivant les critères qu'il
 détermine.
 
-V bis. (Devenu sans objet).
+V bis. (sans objet).
 
-V ter. Pour l'application des paragraphes II et suivants, le potentiel fiscal de
-chaque commune membre d'une communauté ou d'un syndicat d'agglomération nouvelle
-visés à l'article 1609 nonies B est calculé de la façon suivante :
+V ter. Pour l'application des II et suivants, le potentiel fiscal de chaque
+commune membre d'une communauté ou d'un syndicat d'agglomération nouvelle visés
+à l'article 1609 nonies B est calculé de la façon suivante :
 
 a. Pour la première année de fonctionnement de la communauté ou du syndicat
 d'agglomération nouvelle, le potentiel fiscal de chaque commune intègre, au
@@ -359,10 +361,7 @@ application du a, sont répartis conformément aux dispositions du II.
 Toutefois, 40 % de la dotation à répartir par le fonds départemental de
 péréquation de la taxe professionnelle entre les communes définies au 2° du II
 sont affectés aux fonds de compensation des nuisances aéroportuaires définis au
-I de l'article 1648 AC du code général des impôts.
+I de l'article 1648 AC.
 
 VI. Les conditions d'application du présent article sont fixées par décret en
-Conseil d'Etat (1).
-
-(1) Voir annexe II, art. 328 à 328 B et décret n° 88-988 du 17 octobre 1988
-(J.O. du 19).
+Conseil d'Etat.

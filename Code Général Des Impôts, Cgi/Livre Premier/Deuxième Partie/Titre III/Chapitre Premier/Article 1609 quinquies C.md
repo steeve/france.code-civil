@@ -70,8 +70,7 @@ dispositions du présent paragraphe bénéficient de la compensation prévue au 
 bis de l'article 6 de la loi de finances pour 1987 (n° 86-1317 du 30 décembre
 1986), au lieu et place de leurs communes membres pour les pertes de bases de
 taxe professionnelle résultant, dans la zone d'activités économiques, de
-l'application de l'article 1469 A bis et du dernier alinéa du II de l'article
-1478.
+l'application du dernier alinéa du II de l'article 1478.
 
 Pour le calcul de cette compensation :
 

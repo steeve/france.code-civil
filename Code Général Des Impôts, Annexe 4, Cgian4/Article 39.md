@@ -1,17 +1,17 @@
 Article 39
 ----
 1. 1° La date limite à laquelle les redevables sont tenus de remettre ou
-d'envoyer au service des impôts ((la déclaration ou le paiement mentionnés aux 1
-et 3 de l'article 287)) (M) du code général des impôts est fixé comme suit :
+d'envoyer au service des impôts la déclaration ou le paiement mentionnés aux 1
+et 3 de l'article 287 du code général des impôts est fixé comme suit :
 
 a. Pour les taxes dues au titre du trimestre civil précédent par les redevables
 placés sous le régime simplifié de l'agriculture au plus tard le 5 des mois de
-mai août novembre et février.
+mai, août, novembre et février.
 
-b. Pour les taxes dues, selon le cas, ((au titre du mois ou du trimestre)) (M)
-par les redevables placés sous le régime de la déclaration et dont le lieu
-d'imposition est situé à Paris ainsi que dans les départements des
-Hauts-de-Seine de la Seine-Saint-Denis et du Val-de-Marne :
+b. Pour les taxes dues, selon le cas, au titre du mois ou du trimestre par les
+redevables placés sous le régime de la déclaration et dont le lieu d'imposition
+est situé à Paris ainsi que dans les départements des Hauts-de-Seine de la
+Seine-Saint-Denis et du Val-de-Marne :
 
 Entreprises individuelles selon que le nom patronymique de l'exploitant commence
 par l'une ou l'autre des lettres ci-après :
@@ -41,9 +41,9 @@ Sociétés anonymes :
 
 Autres redevables : au plus tard le 24 du mois suivant.
 
-c. Pour les taxes dues, selon le cas, ((au titre du mois ou du trimestre)) (M)
-par les redevables placés sous le régime de la déclaration et dont le lieu
-d'imposition est situé dans les autres départements :
+c. Pour les taxes dues, selon le cas, au titre du mois ou du trimestre par les
+redevables placés sous le régime de la déclaration et dont le lieu d'imposition
+est situé dans les autres départements :
 
 Entreprises individuelles, selon que le nom patronymique de l'exploitant
 commence par l'une ou l'autre des lettres ci-après :
@@ -62,10 +62,10 @@ Sociétés anonymes : au plus tard le 24 du mois suivant ;
 
 Autres redevables : au plus tard le 24 du mois suivant.
 
-((d) Pour les redevables placés sous le régime simplifié d'imposition et tenus
-de verser des acomptes en avril, juillet, octobre et décembre, en application du
-3 de l'article 287 du code général des impôts, les jours limites de paiement au
-cours de ces mois sont ceux prévus aux b et c)) (M).
+d) Pour les redevables placés sous le régime simplifié d'imposition et tenus de
+verser des acomptes en avril, juillet, octobre et décembre, en application du 3
+de l'article 287 du code général des impôts, les jours limites de paiement au
+cours de ces mois sont ceux prévus aux b et c.
 
 2° (périmé).
 
@@ -76,14 +76,4 @@ recettes des impôts.
 4° En cas d'utilisation de la voie postale, le cachet de la poste fait foi de la
 date d'expédition.
 
-2. Si, au cours d'un mois, d'un trimestre ou d'une période définie en
-application du 3 de l'article 287 du code général des impôts, il n'a été
-effectué aucune opération donnant ouverture aux taxes sur le chiffre d'affaires
-et taxes assimilées le redevable doit remettre à l'agent compétent une
-déclaration négative.
-
-Les redevables exerçant des industries ou commerces saisonniers sont dispensés
-de fournir des déclarations négatives pendant les périodes de fermeture de leurs
-établissements.
-
-(M) Modification.
+2. (Dispositions devenues sans objet).

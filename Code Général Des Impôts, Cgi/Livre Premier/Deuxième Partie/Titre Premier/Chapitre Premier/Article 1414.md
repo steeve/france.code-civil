@@ -22,27 +22,31 @@ de finances pour 1968 (n° 67-1114 du 21 décembre 1967).
 
 4° (Abrogé).
 
-II. ((Sont dégrevés d'office :
+II. Sont dégrevés d'office :
 
-((1° Les gestionnaires de foyers de jeunes travailleurs, de foyers de
-travailleurs migrants et des logements-foyers dénommés résidences sociales, à
-raison des logements situés dans ces foyers ;
+1° Les gestionnaires de foyers de jeunes travailleurs, de foyers de travailleurs
+migrants et des logements-foyers dénommés résidences sociales, à raison des
+logements situés dans ces foyers ;
 
-((2° Les organismes ne se livrant pas à une exploitation ou à des opérations de
+2° Les organismes ne se livrant pas à une exploitation ou à des opérations de
 caractère lucratif, lorsqu'ils sont agréés dans les conditions prévues à
 l'article 92 L. par le représentant de l'Etat dans le département ou lorsqu'ils
 ont conclu une convention avec l'Etat conformément à l'article L. 851-1 du code
 de la sécurité sociale, à raison des logements qu'ils louent en vue de leur
 sous-location ou de leur attribution à titre temporaire aux personnes
 défavorisées mentionnées à l'article 1er de la loi n° 90-449 du 31 mai 1990
-visant à la mise en oeuvre du droit au logement)) (M).
+visant à la mise en oeuvre du droit au logement.
 
-((Les obligations déclaratives à la charge des personnes ou organismes entrant
-dans le champ d'application du premier alinéa sont fixées par décret)) (M).
+Les obligations déclaratives à la charge des personnes ou organismes entrant
+dans le champ d'application du premier alinéa sont fixées par décret.
 
 III. Les bénéficiaires du revenu minimum d'insertion sont dégrevés d'office de
 la taxe d'habitation afférente à leur habitation principale lorsqu'ils occupent
 cette habitation dans les conditions prévues à l'article 1390.
+
+Les dispositions du premier alinéa sont maintenues au titre de l'année suivant
+celle au cours de laquelle le redevable cesse d'être bénéficiaire du revenu
+minimum d'insertion (1).
 
 IV. Les contribuables visés au 2° du I ci-dessus sont également dégrevés de la
 taxe d'habitation afférente à leur habitation principale lorsqu'ils occupent
@@ -50,4 +54,5 @@ cette habitation avec leurs enfants majeurs lorsque ceux-ci sont inscrits comme
 demandeurs d'emploi et ne disposent pas de ressources supérieures au revenu
 minimum d'insertion.
 
-(M) Modification.
+(1) Ces dispositions sont applicables pour les impositions établies au titre de
+l'année 2000 et des années suivantes.

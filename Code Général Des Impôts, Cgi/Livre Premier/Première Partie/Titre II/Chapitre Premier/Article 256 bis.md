@@ -1,11 +1,10 @@
 Article 256 bis
 ----
-I. 1° Sont également soumises à la taxe sur la valeur ajoutée [*TVA*] les
-acquisitions intracommunautaires de biens meubles corporels effectuées à titre
-onéreux par un assujetti agissant en tant que tel ou par une personne morale non
-assujettie lorsque le vendeur est un assujetti agissant en tant que tel et qui
-ne bénéficie pas dans son Etat du régime particulier de franchise des petites
-entreprises.
+I. 1° Sont également soumises à la taxe sur la valeur ajoutée les acquisitions
+intracommunautaires de biens meubles corporels effectuées à titre onéreux par un
+assujetti agissant en tant que tel ou par une personne morale non assujettie
+lorsque le vendeur est un assujetti agissant en tant que tel et qui ne bénéficie
+pas dans son Etat du régime particulier de franchise des petites entreprises.
 
 2° Sous réserve de ne pas excéder le seuil ci-après indiqué, ne sont pas
 soumises à la taxe sur la valeur ajoutée les acquisitions de biens autres que
@@ -67,6 +66,9 @@ transporté à destination de l'assujetti dans l'Etat membre de l'expédition ou
 transport ;
 
 c) A faire l'objet d'une installation ou d'un montage.
+
+d) A faire l'objet de livraisons à bord des moyens de transport, effectués par
+l'assujetti, dans les conditions mentionnées au d du I de l'article 258.
 
 3° La réception en France, par une personne morale non assujettie, d'un bien
 qu'elle a importé sur le territoire d'un autre Etat membre de la Communauté

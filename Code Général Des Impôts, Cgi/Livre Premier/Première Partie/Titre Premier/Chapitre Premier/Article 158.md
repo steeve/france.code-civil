@@ -51,16 +51,16 @@ par des sociétés ou exploitations soumises à l'impôt sur les sociétés et q
 produits sont encaissés par des personnes détenant, directement ou
 indirectement, moins de 35 p. 100 des droits sociaux dans la société
 distributrice. Pour l'application de cette disposition, les droits sociaux
-appartenant au conjoint sont considérés comme détenus indirectement (1).
+appartenant au conjoint sont considérés comme détenus indirectement.
 
 6° Intérêts versés au titre des sommes portées sur un compte bloqué individuel
 qui remplissent les conditions visées au I de l'article 125 C. Les dispositions
 du II de l'article 125 C sont applicables en cas de non-respect des obligations
-fixées au I du même article (2).
+fixées au I du même article.
 
 L'abattement prévu au troisième alinéa peut, le cas échéant, être utilisé, en
 tout ou partie, par les porteurs de parts de fonds communs de placement, lors de
-l'imposition en leur nom des produits répartis par le fonds (3).
+l'imposition en leur nom des produits répartis par le fonds.
 
 4. Les bénéfices des professions industrielles, commerciales, artisanales et
 ceux de l'exploitation minière sont déterminés conformément aux dispositions des
@@ -128,18 +128,18 @@ présent code, pour l'année au titre de laquelle le redressement est effectué.
 mentionnées au 6 sont déterminés conformément aux dispositions des articles 79 à
 90.
 
-((Les pensions et retraites font l'objet d'un abattement de 10 % qui ne peut
+Les pensions et retraites font l'objet d'un abattement de 10 % qui ne peut
 excéder 20 000 F. Ce plafond s'applique au montant total des pensions et
 retraites perçues par l'ensemble des membres du foyer fiscal. Chaque année, il
 est révisé selon les mêmes modalités que la limite supérieure de la première
-tranche du barème de l'impôt sur le revenu)) (M).
+tranche du barème de l'impôt sur le revenu.
 
 L'abattement indiqué au deuxième alinéa ne peut être inférieur à 1.800 F, sans
 pouvoir excéder le montant brut des pensions et retraites. Cette disposition
 s'applique au montant des pensions ou retraites perçu par chaque retraité ou
 pensionné membre du foyer fiscal. La somme de 1 800 F est révisée chaque année
 dans la même proportion que la limite supérieure de la première tranche du
-barème de l'impôt sur le revenu (4).
+barème de l'impôt sur le revenu.
 
 Le revenu net obtenu en application de l'article 83 et, en ce qui concerne les
 pensions et retraites après application des dispositions des deuxième et
@@ -148,7 +148,7 @@ revenu que pour 80 % de son montant déclaré spontanément.
 
 Aucun abattement n'est pratiqué sur la fraction du montant des salaires, net de
 frais professionnels, et pensions qui excède 460.000 F pour l'imposition des
-revenus de 1982 et 1983 (5).
+revenus de 1982 et 1983.
 
 La limite mentionnée au cinquième alinéa est relevée chaque année dans la même
 proportion que la limite supérieure de la première tranche du barème de l'impôt
@@ -164,11 +164,11 @@ L129-3 du code du travail.
 
 b bis. Les dispositions du a sont applicables aux prestations servies sous forme
 de rentes ou pour perte d'emploi subie, au titre des contrats d'assurance groupe
-ou des régimes mentionnés au deuxième alinéa de l'article 154 bis (6) ;
+ou des régimes mentionnés au deuxième alinéa de l'article 154 bis ;
 
 Les dispositions du a sont également applicables aux prestations servies sous
 forme de rentes au titre des contrats d'assurance de groupe visés au premier
-alinéa de l'article 154 bis-0 A (7).
+alinéa de l'article 154 bis-0 A.
 
 b ter. les dispositions du a sont applicables aux pensions servies au titre des
 plans d'épargne retraite institués par la loi n° 97-277 du 25 mars 1997 créant
@@ -184,21 +184,7 @@ de l'article 6, la provision alimentaire qui est allouée à l'un d'eux pour son
 entretien et celui des enfants dont il a la charge est comptée dans les revenus
 imposables de l'intéressé.
 
-d. En cas de retrait de tout ou partie des sommes figurant sur un plan d'épargne
-en vue de la retraite ou de versement d'une pension présentant ou non un
-caractère viager, les dispositions du a sont applicables aux sommes retirées ou
-à la pension perçue.
-
-Lorsque le retrait dépasse une somme fixée par décret, le contribuable peut
-demander l'application du système prévu à l'article 150 R, sans fractionnement
-du paiement (8).
-
-Les abattements prévus au a ne s'appliquent qu'à l'excédent des sommes retirées
-et des pensions perçues au cours de l'année sur le total des versements
-effectués sur un plan d'épargne en vue de la retraite au cours de l'année et de
-l'année précédente, sauf si le retrait ou le versement de la pension intervient
-à partir du soixantième anniversaire du contribuable ou de l'un des époux soumis
-à imposition commune.
+d. (abrogé).
 
 e. Pour l'établissement de l'impôt des redevables pensionnés au 31 décembre 1986
 dont la pension a fait l'objet d'un premier versement mensuel en 1987, la
@@ -228,27 +214,3 @@ conditions que les revenus énumérés à l'article 124.
 
 Ces dispositions ne sont pas applicables aux arrérages correspondant aux
 cotisations ayant fait l'objet de la déduction prévue au 1° bis de l'article 83.
-
-Conséquence de la péremption de l'article 163 octies.
-
-(1) Cette disposition s'applique à compter de l'imposition des revenus de 1994.
-
-(2) Ces dispositions s'appliquent aux intérêts encaissés à compter du 1er août
-1995.
-
-(3) Loi n° 79-594 du 13 juillet 1979.
-
-(M) Modification.
-
-(4) Pour l'imposition des revenus de 1998, le minimum d'abattement est fixé à
-2.040 F.
-
-(5) La limite est fixée à 707.000 F pour l'imposition des revenus de 1998. Elle
-était de 701.000 F pour 1997.
-
-(6) Disposition applicable à compter du 13 février 1994.
-
-(7) Disposition applicable aux prestations versées à compter du 19 novembre
-1997.
-
-(8) Annexe III, art. 41 ZH.

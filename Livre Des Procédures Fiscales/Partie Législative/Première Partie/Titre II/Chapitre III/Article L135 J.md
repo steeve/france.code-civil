@@ -4,5 +4,5 @@ Afin de procéder à des rapprochements avec le répertoire des métiers, les
 chambres de métiers peuvent se faire communiquer par l'administration fiscale la
 liste nominative des assujettis à la taxe pour frais de chambres de métiers.
 
-Les dispositions du dernier alinéa de l'article L. 135 B sont applicables aux
+Les dispositions du cinquième alinéa de l'article L. 135 B sont applicables aux
 informations ainsi transmises.

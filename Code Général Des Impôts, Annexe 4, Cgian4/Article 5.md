@@ -32,9 +32,9 @@ conducteurs démonstrateurs et conducteurs convoyeurs des entreprises de
 construction d'automobiles. Chauffeurs et convoyeurs de transports rapides
 routiers ou d'entreprises de déménagements par automobiles : 20 %.
 
-((Commis des prestataires de services d'investissement qui étaient agréés au 31
-décembre 1995 en tant que sociétés de bourse)) (M) place de Paris. Sur les
-émoluments variables de toute nature : 20 %.
+Commis des prestataires de services d'investissement qui étaient agréés au 31
+décembre 1995 en tant que sociétés de bourse place de Paris. Sur les émoluments
+variables de toute nature : 20 %.
 
 En ce qui concerne les émoluments fixes, la seule déduction applicable est la
 déduction normale de 10 %.
@@ -44,8 +44,6 @@ Couture (personnel des grandes maisons parisiennes de) :
 Modélistes : 20 %.
 
 Mannequins : 10 %.
-
-Fonctionnaires ou agents des assemblées parlementaires : 20 %.
 
 Inspecteurs d'assurances des branches vie, capitalisation et épargne : 30 %.
 
@@ -107,7 +105,9 @@ Emouleurs, polisseurs et trempeurs : 15 %.
 
 . Galoches de la région de Laventie (Pas-de-Calais) :
 
-Piqueurs non propriétaires de leurs machines, monteurs : 10 %.
+Piqueurs non propriétaires de leurs machines, monteurs :
+
+10 %.
 
 Piqueurs propriétaires de leurs machines : 15 %.
 
@@ -244,5 +244,3 @@ Speakers de la radiodiffusion-télévision française : 20 %.
 Voyageurs, représentants et placiers de commerce ou d'industrie :
 
 30 %.
-
-(M) Modification.

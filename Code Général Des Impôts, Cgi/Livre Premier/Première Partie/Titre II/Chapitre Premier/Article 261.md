@@ -8,9 +8,8 @@ Sont exonérés de la taxe sur la valeur ajoutée :
 
 3° (Abrogé).
 
-4° Les opérations à terme sur marchandises réalisées ((sur un marché
-réglementé)) (M) (1) à l'exclusion de celles qui déterminent l'arrêt de la
-filière ;
+4° Les opérations à terme sur marchandises réalisées sur un marché réglementé à
+l'exclusion de celles qui déterminent l'arrêt de la filière ;
 
 5° (Abrogé).
 
@@ -61,8 +60,8 @@ délivrance, pour être recruté comme psychologue dans la fonction publique
 hospitalière ainsi que les travaux d'analyse de biologie médicale et les
 fournitures de prothèses dentaires par les dentistes et les prothésistes,
 
-1° bis. les frais d'hospitalisation et de traitement, y compris les frais de
-mise à disposition d'une chambre individuelle, dans les établissements de santé
+1° bis les frais d'hospitalisation et de traitement, y compris les frais de mise
+à disposition d'une chambre individuelle, dans les établissements de santé
 privés titulaires de l'autorisation mentionnée à l'article L. 712-8 du code de
 la santé publique ;
 
@@ -164,21 +163,16 @@ Ces dispositions ne s'appliquent pas aux cessions d'immeubles acquis
 postérieurement à la date de publication de la loi n° 90-85 du 23 janvier 1990.
 
 d bis. Toutes les cessions effectuées par les sociétés d'aménagement foncier et
-d'établissement rural qui, ayant pour objet le maintien, la création ou
-l'agrandissement d'exploitations agricoles, sont assorties d'un engagement de
-l'acquéreur pris pour lui et ses ayants cause de conserver la destination des
-immeubles acquis pendant un délai de dix ans à compter du transfert de
-propriété.
+d'établissement rural au titre de l'article L. 141-1 du code rural, dont la
+destination répond aux dispositions dudit article et qui sont assorties d'un
+engagement de l'acquéreur pris pour lui et ses ayants cause de conserver cette
+destination pendant un délai de dix ans à compter du transfert de propriété.
 
-La même exonération s'applique aux cessions de parcelles boisées à condition que
-l'ensemble de ces parcelles n'excède pas dix hectares ou, dans le cas contraire,
-ne soit pas susceptible d'aménagement ou d'exploitation régulière au sens du
-décret du 28 juin 1930 fixant les conditions d'application de l'article 15 de la
-loi de finances du 16 avril 1930 ou de l'article L. 222-1 du code forestier.
-
-Les dispositions des deux alinéas précédents ne s'appliquent qu'aux cessions des
-immeubles acquis postérieurement à la date de publication de la loi n° 90-85 du
-23 janvier 1990.
+Les dispositions de l'alinéa précédent ne s'appliquent qu'aux cessions de biens
+acquis postérieurement à la date de publication de la loi n° 90-85 du 23 janvier
+1990 complémentaire à la loi n° 88-1202 du 30 décembre 1988 relative à
+l'adaptation de l'exploitation agricole à son environnement économique et social
+;
 
 e. (Disposition périmée) ;
 
@@ -248,6 +242,20 @@ réalisées à des prix comparables par des entreprises commerciales, en raison
 notamment du concours désintéressé des membres de ces organismes ou des
 contributions publiques ou privées dont ils bénéficient ;
 
+Les organismes mentionnés au premier alinéa du 1 bis de l'article 206 et qui en
+remplissent les conditions, sont également exonérés pour leurs autres opérations
+lorsque les recettes encaissées afférentes à ces opérations n'ont pas excédé au
+cours de l'année civile précédente le montant de 250 000 F.
+
+Les opérations mentionnées au 7° et au 7° bis de l'article 257 et les opérations
+donnant lieu à la perception de revenus patrimoniaux soumis aux dispositions de
+l'article 219 bis ne bénéficient pas de l'exonération et ne sont pas prises en
+compte pour le calcul de la limite de 250 000 F.
+
+Lorsque la limite de 250 000 F est atteinte en cours d'année, l'organisme ne
+peut plus bénéficier de l'exonération prévue au deuxième alinéa à compter du
+premier jour du mois suivant celui au cours duquel cette limite a été dépassée.
+
 c. Les recettes de six manifestations de bienfaisance ou de soutien organisées
 dans l'année à leur profit exclusif par les organismes désignés au a et b ainsi
 que par les organismes permanents à caractère social des collectivités locales
@@ -273,8 +281,8 @@ obligations ainsi que l'étendue et les modalités d'exercice de leurs droits à
 déduction ;
 
 1° bis Les opérations effectuées par les associations intermédiaires
-((conventionnées, visées à l'article L. 322-4-16-3 du code du travail, dont la
-gestion est désintéressée)) (M), dans les conditions prévues au 1° ;
+conventionnées, visées à l'article L. 322-4-16-3 du code du travail, dont la
+gestion est désintéressée, dans les conditions prévues au 1° ;
 
 1° ter Les opérations effectuées par les associations agréées en application de
 l'article L129-1 du code du travail, dans les conditions prévues au 1°.
@@ -291,9 +299,3 @@ dans les conditions et selon les modalités prévues par décret en Conseil d'Et
 4° (Abrogé) ;
 
 8. et 9. (Abrogés).
-
-(M) Modification.
-
-(1) Loi 98-1267 1998-12-30 art. 27 XV : Ces dispositions sont applicables à
-compter de la date d'entrée en vigueur de la loi n° 96-597 du 2 juillet 1996 de
-modernisation des activités financières (4 juillet 1996).

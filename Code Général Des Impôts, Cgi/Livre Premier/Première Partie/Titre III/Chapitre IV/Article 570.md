@@ -1,17 +1,17 @@
 Article 570
 ----
-Selon les modalités fixées par voie réglementaire, tout fournisseur est soumis
-aux obligations suivantes :
+I. Selon les modalités fixées par voie réglementaire, tout fournisseur est
+soumis aux obligations suivantes :
 
 1° Livrer des tabacs aux seuls débitants désignés à l'article 568 ;
 
 2° Conserver la propriété des tabacs depuis leur entrée ou leur fabrication en
 France jusqu'à leur vente au détail après consignation chez le débitant ;
 
-3° Consentir à chaque débitant une remise dont ((les taux sont fixés par arrêté
+3° Consentir à chaque débitant une remise dont les taux sont fixés par arrêté
 pour la France continentale, d'une part, et pour les départements de Corse,
-d'autre part)) (1, 1'). Cette remise comprend l'ensemble des avantages directs
-ou indirects qui lui sont alloués ;
+d'autre part (1). Cette remise comprend l'ensemble des avantages directs ou
+indirects qui lui sont alloués ;
 
 4° Consentir à chaque débitant les crédits dans des conditions fixées par décret
 en Conseil d'Etat (2) ;
@@ -37,12 +37,19 @@ réquisition de l'administration ;
 - faire circuler les tabacs jusqu'au dernier entrepôt sous le couvert d'un titre
 de mouvement.
 
-Toute infraction aux obligations qui précèdent peut entraîner le retrait de
-l'agrément, sans préjudice des dispositions contentieuses prévues en matière de
-contributions indirectes.
+II. Selon les modalités fixées par décret, les personnes désignées au 3 de
+l'article 565 sont soumises aux obligations suivantes :
+
+1° Livrer des tabacs manufacturés aux seuls acheteurs-revendeurs mentionnés au
+troisième alinéa de l'article 568 ;
+
+2° Conserver la propriété des tabacs jusqu'à leur entrée sous le régime
+suspensif mentionné au 1° de l'article 302 F ter.
+
+III. Toute infraction aux obligations mentionnées aux I et II peut entraîner le
+retrait de l'agrément, sans préjudice des dispositions contentieuses prévues en
+matière de contributions indirectes.
 
 (1) Taux fixé à 8 % par arrêté du 21 septembre 1976 (JO du 9 octobre).
-
-(1') Modification de la loi.
 
 (2) Annexe II, art. 282.

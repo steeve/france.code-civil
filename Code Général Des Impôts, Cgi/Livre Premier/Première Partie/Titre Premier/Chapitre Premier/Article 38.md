@@ -4,7 +4,7 @@ Article 38
 le bénéfice imposable est le bénéfice net, déterminé d'après les résultats
 d'ensemble des opérations de toute nature effectuées par les entreprises, y
 compris notamment les cessions d'éléments quelconques de l'actif, soit en cours,
-soit en fin d'exploitation (1).
+soit en fin d'exploitation.
 
 2. Le bénéfice net est constitué par la différence entre les valeurs de l'actif
 net à la clôture et à l'ouverture de la période dont les résultats doivent
@@ -52,38 +52,51 @@ Les travaux en cours sont évalués au prix de revient.
 des créances et dettes libellées en monnaies étrangères par rapport aux montants
 initialement comptabilisés sont déterminés à la clôture de chaque exercice en
 fonction du dernier cours de change et pris en compte pour la détermination du
-résultat imposable de l'exercice (1').
+résultat imposable de l'exercice.
 
-Lorsque des établissements de crédit ((ou des entreprises d'investissement)) (M)
+Lorsque des établissements de crédit ou des entreprises d'investissement
 mentionnés à l'article 38 bis A évaluent les titre libellés en monnaie étrangère
 à la clôture de chaque exercice en fonction du dernier cours de change connu,
 les écarts de conversion constatés sont pris en compte pour la détermination du
 résultat imposable de l'exercice. A la clôture de chaque exercice, le prix de
 revient des titres est augmenté ou diminué, selon les cas, des écarts de
-conversion mentionnés à ce même alinéa. Toutefois, lorsque les établissements
-((ou les entreprises )) (M) (2) concernés détiennent des titres d'investissement
-mentionnés à l'article 38 bis B et des titres de participation, libellés en
-monnaie étrangère et dont l'acquisition a été financée en francs, les écarts de
-conversion mentionnés au présent alinéa et constatés sur ces titres ne sont pas
-pris en compte dans le résultat fiscal de l'exercice ; dans ce cas, sur le plan
-fiscal, le prix de revient de ces titres ne tient pas compte des écarts de
-conversion. Ces dispositions sont applicables aux écarts de change relatifs à la
-période postérieure à l'ouverture du premier exercice clos à compter du 31
-décembre 1990.
+conversion mentionnés à ce même alinéa. Toutefois, lorsque les établissements ou
+les entreprises concernés détiennent des titres d'investissement mentionnés à
+l'article 38 bis B et des titres de participation, libellés en monnaie étrangère
+et dont l'acquisition a été financée en francs, les écarts de conversion
+mentionnés au présent alinéa et constatés sur ces titres ne sont pas pris en
+compte dans le résultat fiscal de l'exercice ; dans ce cas, sur le plan fiscal,
+le prix de revient de ces titres ne tient pas compte des écarts de conversion.
+Ces dispositions sont applicables aux écarts de change relatifs à la période
+postérieure à l'ouverture du premier exercice clos à compter du 31 décembre
+1990.
 
-((Pour l'exercice clos le 31 décembre 1998 ou la période d'imposition arrêtée à
-la même date, les écarts de conversion afférents aux devises, créances, dettes
-et titres mentionnés aux premier et deuxième alinéas et libellés en écus ou en
+Pour l'exercice clos le 31 décembre 1998 ou la période d'imposition arrêtée à la
+même date, les écarts de conversion afférents aux devises, créances, dettes et
+titres mentionnés aux premier et deuxième alinéas et libellés en écus ou en
 unités monétaires des Etats participant à la monnaie unique, sont déterminés en
 fonction des taux de conversion définis à l'article 1er du règlement n°
 97/1103/CE du Conseil, du 17 juin 1997, fixant certaines dispositions relatives
-à l'introduction de l'euro)) (M).
+à l'introduction de l'euro.
 
 5. Le profit ou la perte résultant de cessions de titres par un fonds commun de
 placement est compris dans le résultat de l'exercice au cours duquel les parts
 du fonds sont cédées par l'entreprise. Le profit ou la perte est déterminé par
 différence entre le prix de cession et la valeur des parts au bilan de
-l'entreprise (2).
+l'entreprise.
+
+Par dérogation aux dispositions du premier alinéa, les sommes correspondant à la
+répartition, prévue au sixième alinéa de l'article 22 de la loi n° 88-1201 du 23
+décembre 1988 relative aux organismes de placement collectif en valeurs
+mobilières et portant création des fonds communs de créances, d'une fraction des
+actifs d'un fonds commun de placement à risques qui remplit les conditions
+prévues au 1° bis du II de l'article 163 quinquies B, sont affectées en priorité
+au remboursement des apports. L'excédent des sommes réparties sur le montant des
+apports est compris dans le résultat imposable de l'exercice au cours duquel cet
+excédent apparaît. Il est soumis au régime fiscal des plus-values à long terme
+dans la proportion existant entre le montant des apports effectués depuis au
+moins deux ans à la date de la répartition et le montant total des apports
+effectués à cette même date.
 
 5 bis. Le profit ou la perte résultant de l'échange de titres consécutif à la
 fusion ou à la scission de sociétés d'investissement à capital variable et de
@@ -99,7 +112,7 @@ duquel intervient l'échange.
 
 Les dispositions des premier et deuxième alinéas ne sont pas applicables si la
 soulte excède 10 p. 100 de la valeur nominale des parts ou actions reçues, ou si
-elle excède le profit réalisé (4).
+elle excède le profit réalisé.
 
 6. 1° Par exception aux 1 et 2, le profit ou la perte résultant de l'exécution
 de contrats à terme d'instruments financiers en cours à la clôture de l'exercice
@@ -109,7 +122,7 @@ conclu.
 
 Ces dispositions s'appliquent aux contrats, options et autres instruments
 financiers à terme conclus en France ou à l'étranger, qui sont cotés sur une
-bourse de valeurs ou traités sur un marché ou par référence à un marché (5) à
+bourse de valeurs ou traités sur un marché ou par référence à un marché à
 l'exception des contrats visés au quatrième alinéa du 7, reçus dans le cadre
 d'une opération d'échange visée à ce même alinéa ;
 
@@ -138,16 +151,16 @@ la détention directe ou indirecte, de contrats à terme d'instruments financier
 de valeurs mobilières, de devises, de titres de créances négociables, de prêts
 ou d'emprunts ou d'un engagement portant sur ces éléments.
 
-Des positions sont qualifiées de symétriques [*définition*] si leurs valeurs ou
-leurs rendements subissent des variations corrélées telles que le risque de
-variation de valeur ou de rendement de l'une d'elles est compensé par une autre
-position, sans qu'il soit nécessaire que les positions concernées soient de même
-nature ou prises sur la même place, ou qu'elles aient la même durée.
+Des positions sont qualifiées de symétriques si leurs valeurs ou leurs
+rendements subissent des variations corrélées telles que le risque de variation
+de valeur ou de rendement de l'une d'elles est compensé par une autre position,
+sans qu'il soit nécessaire que les positions concernées soient de même nature ou
+prises sur la même place, ou qu'elles aient la même durée.
 
 Les positions symétriques prises au cours de l'exercice et celles qui sont en
 cours à la clôture doivent être mentionnées sur un document annexé à la
 déclaration de résultats de l'exercice. A défaut, la perte sur une position
-n'est pas déductible du résultat imposable (7).
+n'est pas déductible du résultat imposable.
 
 7. Le profit ou la perte résultant de l'échange d'actions effectué dans le cadre
 d'une offre publique d'échange ou de la conversion d'obligations en actions,
@@ -209,7 +222,7 @@ de la conversion, la valeur mentionnée à la deuxième phrase du premier aliné
 est répartie proportionnellement à la valeur réelle à la date de cette opération
 ou à la valeur résultant de leur première cotation si les titres reçus sont des
 actions assorties de droits de souscription d'actions, attachés ou non, émises
-pour un prix unique à l'occasion d'une telle opération (8).
+pour un prix unique à l'occasion d'une telle opération.
 
 Pour les opérations réalisées au cours d'exercices clos à compter du 31 décembre
 1994, les dispositions du présent 7 ne sont pas applicables si l'un des
@@ -240,8 +253,7 @@ vote ou de ces dernières en actions ordinaires.
 
 Les dispositions du présent 7 s'appliquent au remboursement, par la société
 émettrice, des porteurs d'obligations remboursables en actions, lorsque cette
-même société procède à l'opération susvisée par émission concomitante d'actions
-(8).
+même société procède à l'opération susvisée par émission concomitante d'actions.
 
 7 bis. Le profit ou la perte réalisé lors de l'échange de droits sociaux
 résultant d'une fusion de sociétés, ou d'une scission de société bénéficiant du
@@ -256,7 +268,7 @@ bénéficiaire des apports reçus en contrepartie de ceux-ci est égale au produ
 de la valeur fiscale des titres de la société scindée par le rapport existant à
 la date de l'opération de scission entre la valeur réelle des titres de chaque
 société bénéficiaire dans le cadre de cette opération et la valeur réelle des
-titres de la société scindée (9).
+titres de la société scindée.
 
 Toutefois, en cas d'échange avec soulte, la plus-value réalisée est, à
 concurrence du montant de la soulte reçue, comprise dans le bénéfice de
@@ -291,9 +303,9 @@ résultats imposables de l'exercice de péremption de ces droits lorsqu'ils n'on
 pas été exercés.
 
 9. 1° L'application de la méthode d'évaluation prévue à l'article 340-4 de la
-loi n° 66-537 du 24 juillet 1966 ((modifiée)) (M1) sur les sociétés commerciales
-n'a pas d'incidence sur les résultats imposables, par dérogation aux 1 et 2 du
-présent article ;
+loi n° 66-537 du 24 juillet 1966 modifiée sur les sociétés commerciales n'a pas
+d'incidence sur les résultats imposables, par dérogation aux 1 et 2 du présent
+article ;
 
 2° Toutefois, les dispositions du quatorzième alinéa du 5° du 1 de l'article 39
 sont applicables à la fraction de la provision constituée à raison de l'écart
@@ -314,7 +326,7 @@ est déterminée en fonction de leur prix de revient ;
 
 4° Un décret définit les modalités d'application du présent article ainsi que
 les obligations déclaratives des entreprises qui appliquent la méthode
-d'évaluation prévue au 1° (10).
+d'évaluation prévue au 1°.
 
 10. La plus-value de cession d'un immeuble par une société civile immobilière
 non soumise à l'impôt sur les sociétés dont les parts ont été affectées par une
@@ -327,34 +339,3 @@ comptes de la société d'assurance.
 La moins-value de même nature est retenue dans les mêmes conditions, et ne peut
 venir en diminution des profits de réévaluation des parts de la société civile,
 constatés par la société d'assurance.
-
-(1) En ce qui concerne les plus-values réalisées dans le cadre des opérations de
-nationalisation, voir art. 248 A.
-
-(M) Modification.
-
-(2) Dispositions applicables aux exercices ouverts à compter du 1er janvier
-1998.
-
-(3) Disposition applicable pour la détermination des résultats des exercices
-clos à compter du 16 avril 1986. Pour les exercices en cours à cette date, voir
-loi n° 86-824 du 11 juillet 1986, art. 21-II.
-
-(4) Dispositions applicables à compter du 1er janvier 1991.
-
-(5) Voir annexe III, art. 2 A.
-
-(6) Voir annexe III, art. 2 B.
-
-Ces dispositions s'appliquent pour déterminer les résultats des exercices
-ouverts à compter du 1er janvier 1994.
-
-(7) Voir annexe III, art. 2 C.
-
-(8) Ces dispositions s'appliquent pour la détermination des résultats des
-exercices ouverts à compter du 1er janvier 1994.
-
-(9) Ces dispositions s'appliquent aux opérations qui affectent les résultats des
-exercices ouverts à compter du 1er janvier 1995.
-
-(10) Voir annexe III, art. 38 B.

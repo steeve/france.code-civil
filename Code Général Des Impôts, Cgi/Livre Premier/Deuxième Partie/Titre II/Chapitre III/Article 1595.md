@@ -4,11 +4,11 @@ Est perçue au profit des départements une taxe additionnelle aux droits
 d'enregistrement ou à la taxe de publicité foncière exigibles sur les mutations
 à titre onéreux :
 
-((1° D'immeubles ou de droits immobiliers situés sur leur territoire passibles
-de la taxe de publicité foncière ou de droits d'enregistrement aux taux prévus
-aux articles 683 bis, 809 et 810)) (M) ;
+1° D'immeubles ou de droits immobiliers situés sur leur territoire passibles de
+la taxe de publicité foncière ou de droits d'enregistrement aux taux prévus aux
+articles 683 bis et 810 ;
 
-2° De meubles corporels vendus publiquement dans le département (1) ;
+2° De meubles corporels vendus publiquement dans le département ;
 
 3° D'offices ministériels ayant leur siège dans le département ;
 
@@ -41,14 +41,7 @@ FRACTION DE LA VALEUR TAXABLE :
 
 Supérieure à 700.000 F
 
-TARIF APPLICABLE : 1,40 % .
+TARIF APPLICABLE : 1,40 %
 
 Elle est soumise aux règles qui gouvernent l'exigibilité, la restitution et le
-recouvrement des droits ou de la taxe auxquels elle s'ajoute (2).
-
-(M) Modification.
-
-(1) Sous réserve des dispositions de l'article 1595 ter.
-
-(2) La perception de cette taxe a été étendue au département de la Guyane par
-l'article 10-I de la loi n° 71-1025 du 24 décembre 1971.
+recouvrement des droits ou de la taxe auxquels elle s'ajoute.

@@ -26,14 +26,19 @@ c) Pour les mutations à titre onéreux ou les apports en société entrant dans
 champ d'application du 7° de l'article 257, à la date de l'acte qui constate
 l'opération ou, à défaut, au moment du transfert de propriété.
 
-((d) Pour les livraisons à soi-même mentionnées au 7° bis de l'article 257, au
+d) Pour les livraisons à soi-même mentionnées au 7° bis de l'article 257, au
 moment de l'achèvement de l'ensemble des travaux et au plus tard dans les deux
-ans de la date de la décision favorable du représentant de l'Etat)) (M) ;
+ans de la date de la décision favorable du représentant de l'Etat ;
+
+Toutefois, par dérogation au premier alinéa, le fait générateur de la taxe
+intervient au dernier jour de chaque trimestre civil pour les livraisons à
+soi-même de travaux d'entretien mentionnés au c du 7° bis de l'article 257
+effectués au cours de ce trimestre.
 
 2 La taxe est exigible :
 
 a) Pour les livraisons et les achats visés au a du 1 et pour les opérations
-mentionnées ((aux b, c et d du 1)), lors de la réalisation du fait générateur ;
+mentionnées aux b, c et d du 1, lors de la réalisation du fait générateur ;
 
 Toutefois, pour les livraisons d'électricité, de gaz, de chaleur, de froid ou de
 biens similaires donnant lieu à des décomptes ou à des encaissements successifs,
@@ -67,4 +72,4 @@ qu'il ne s'agisse pas d'une facture d'acompte.
 
 (2) Annexe III, art. 77.
 
-(3) Annexe III, art. 78 à 84. (M) Modification de la loi 97-1269.
+(3) Annexe III, art. 78 à 84.

@@ -2,11 +2,12 @@ Article 575 C
 ----
 Le droit de consommation est exigible à la mise à la consommation.
 
-Le droit de consommation est liquidé le dernier jour de chaque mois d'après la
+Sous réserve des dispositions mentionnées au 3° de l'article 302 F ter, le droit
+de consommation est liquidé le dernier jour de chaque mois d'après la
 déclaration des quantités de tabacs manufacturés mis à la consommation.
 
 Il est payé par le fournisseur à l'administration au plus tard le 5 du deuxième
-mois suivant celui au titre duquel la liquidation a été effectuée.
+mois suivant celui au titre duquel la liquidation a été effectuée (1).
 
 En ce qui concerne les tabacs manufacturés fabriqués dans les départements de
 France métropolitaine ou dans un autre Etat membre de la Communauté européenne

@@ -12,5 +12,6 @@ communes limitrophes du canton dans lequel est situé l'établissement.
 Les boissons ainsi déclarées sont prises en charge à titre imposable, sauf
 justification du paiement antérieur des droits.
 
-Toute introduction ultérieure de boissons doit être légitimée par un congé ou
-une quittance attestant du paiement des droits.
+Toute introduction ultérieure de boissons doit être légitimée par un document
+mentionné au II de l'article 302 M ou une quittance attestant du paiement des
+droits.

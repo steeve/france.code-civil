@@ -7,15 +7,15 @@ DIMENSIONS DU PAPIER :
 
 Hauteur : 0,42 Largeur : 0,594
 
-TARIF (en francs) : ((152 F)) (M)
+TARIF (en francs) : 160 F
 
 DIMENSIONS DU PAPIER : Hauteur : 0,297 Largeur : 0,42
 
-TARIF (en francs) : ((76 F)) (M)
+TARIF (en francs) : 80 F
 
 DIMENSIONS DU PAPIER : Hauteur : 0,297 Largeur : 0,21
 
-TARIF (en francs) : (38 F) (M).
+TARIF (en francs) : 40 F.
 
 Toutefois, ces tarifs sont réduits de moitié lorsqu'une seule face du papier est
 utilisée à la rédaction d'un écrit comportant plus d'une page, à la condition,
@@ -24,5 +24,3 @@ d'autorités administratives, que l'autre face soit annulée par un procédé
 indélébile autorisé par arrêté du ministre de l'économie et des finances (1).
 
 (1) Annexe IV, art. 93 I.
-
-(M) Modification de la loi 97-1269 applicable à compter du 15 janvier 1998.

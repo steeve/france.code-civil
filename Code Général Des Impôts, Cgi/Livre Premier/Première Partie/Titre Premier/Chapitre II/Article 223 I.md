@@ -33,22 +33,20 @@ d'apport.
 long terme de la société est diminué, le cas échéant, du montant des profits ou
 des plus-values à long terme qui résultent des abandons de créances consentis
 par une autre société du groupe, des cessions visées à l'article 223 F ainsi que
-d'une réévaluation libre des éléments d'actif de cette société ; ils sont
-également diminués du montant des plus-values de cession d'immobilisations non
-amortissables qui ont fait l'objet d'un apport ayant bénéficié des dispositions
-de l'article 210 A ainsi que des plus-values réintégrées en application du d du
-3 du même article. De même, le déficit ou la moins-value nette à long terme de
-la société, mentionné au b du 1 et au 3, est augmenté de ces profits ou
-plus-values.
+d'une réévaluation libre des éléments d'actif de cette société et augmenté du
+montant des pertes ou des moins-values à long terme qui résultent des cessions
+visées à l'article 223 F ; ils sont également diminués du montant des
+plus-values de cession d'immobilisations non amortissables qui ont fait l'objet
+d'un apport ayant bénéficié des dispositions de l'article 210 A ainsi que des
+plus-values réintégrées en application du d du 3 du même article. De même, le
+déficit ou la moins-value nette à long terme de la société, mentionné au b du 1
+et au 3, est augmenté de ces profits ou plus-values.
 
-5. ((Dans les situations visées aux c, d ou e du 6 de l'article 223 L, et sous
+5. Dans les situations visées aux c, d ou e du 6 de l'article 223 L, et sous
 réserve, le cas échéant, de l'obtention de l'agrément prévu au II de l'article
 209, la fraction du déficit qui n'a pu être reportée au titre d'un exercice dans
 les conditions prévues à l'article 223 S peut, dans la mesure où ce déficit
-correspond à celui de la société mère absorbée ou à)) (M) celui des sociétés
-membres du groupe ayant cessé et qui font partie du nouveau groupe, s'imputer
-sur les résultats, déterminés selon les modalités prévues au 4 du présent
-article et par dérogation au a du 1 du présent article, des sociétés mentionnées
-ci-dessus.
-
-(M) Modification des lois.
+correspond à celui de la société mère absorbée ou à celui des sociétés membres
+du groupe ayant cessé et qui font partie du nouveau groupe, s'imputer sur les
+résultats, déterminés selon les modalités prévues au 4 du présent article et par
+dérogation au a du 1 du présent article, des sociétés mentionnées ci-dessus.

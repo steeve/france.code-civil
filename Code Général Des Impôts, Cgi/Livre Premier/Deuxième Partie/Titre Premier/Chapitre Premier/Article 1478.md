@@ -5,8 +5,7 @@ exerce l'activité le 1er janvier (1).
 
 Toutefois le contribuable qui cesse toute activité dans un établissement n'est
 pas redevable de la taxe pour les mois restant à courir, sauf en cas de cession
-de l'activité exrcée dans l'établissement ((ou en cas de transfert d'activité))
-(M).
+de l'activité exrcée dans l'établissement ou en cas de transfert d'activité.
 
 Lorsqu'au titre d'une année une cotisation de taxe professionnelle a été émise
 au nom d'une personne autre que le redevable légal de l'impôt, l'imposition de
@@ -54,6 +53,14 @@ exploitants d'hôtels de tourisme saisonniers classés dans les conditions fixé
 par le ministre chargé du tourisme, les restaurants, les établissements de
 spectacles ou de jeux ainsi que les établissements thermaux.
 
-(1) Annexe II, art. 310 HS et 310 HT.
+VI. Les organismes mentionnés au II de l'article 1447 deviennent imposables dans
+les conditions prévues au II, à compter de l'année au cours de laquelle l'une
+des trois conditions prévues au premier alinéa du 1 bis de l'article 206 n'est
+plus remplie. Lorsque l'organisme se livrait à une activité lucrative l'année
+précédant celle au cours de laquelle il devient imposable, la réduction de base
+prévue au troisième alinéa du II n'est pas applicable.
 
-(M) Modification.
+Sous réserve des dispositions du deuxième alinéa du I, l'organisme reste
+redevable de la taxe au titre de l'année au cours de laquelle il remplit les
+conditions prévues au premier alinéa du 1 bis de l'article 206, lorsqu'il ne les
+remplissait pas l'année précédente (2).

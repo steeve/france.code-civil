@@ -8,12 +8,10 @@ visés au titre III de la première partie du livre Ier :
 
 2° Droit de licence des débitants de boissons.
 
-Ces diverses taxes sont obligatoirement perçues par les services de l'Etat (1).
+Ces diverses taxes sont obligatoirement perçues par les services de l'Etat (2).
 
-II. La taxe annuelle sur les jeux de boules et de quilles comportant des
-dispositifs électromécaniques prévue à l'article 1582 bis est perçue dans les
-conditions et sous les garanties prévues pour les impôts indirects visés au
-livre 1er, 1re partie, titre III. Les règles de procédure et les pénalités
-fixées pour ces impôts sont également applicables à ladite taxe.
+II. (Abrogé).
 
-(1) Voir annexe III art. 406 undecies 5°.
+(1) Voir l'article 193 de l'annexe IV.
+
+(2) Voir l'article 406 undecies 5° de l'annexe III.

@@ -32,6 +32,11 @@ d'activité.
 impôts, présenter un document donnant le détail journalier de leurs recettes
 professionnelles.
 
+Lorsqu'il est tenu par un contribuable non adhérent d'une association de gestion
+agréée, ce document comporte, quelle que soit la profession exercée, l'identité
+déclarée par le client ainsi que le montant, la date et la forme du versement
+des honoraires.
+
 5. Les contribuables qui souhaitent renoncer au bénéfice du présent article
 peuvent opter pour le régime visé à l'article 97.
 

@@ -11,12 +11,12 @@ correspondant.
 
 II. Constitue une prime de remboursement :
 
-1. Pour les emprunts négociables visés à l'article 118 ((et aux 6° et 7° de
-l'article 120)) (1) , et les titres de créances négociables visés à l'article
-124 B émis à compter du 1er janvier 1992, la différence entre les sommes ou
-valeurs à recevoir et celles versées lors de l'acquisition ; toutefois,
-n'entrent pas dans la définition de la prime les intérêts versés chaque année et
-restant à recevoir après l'acquisition ;
+1. Pour les emprunts négociables visés à l'article 118 et aux 6° et 7° de
+l'article 120, et les titres de créances négociables visés à l'article 124 B
+émis à compter du 1er janvier 1992, la différence entre les sommes ou valeurs à
+recevoir et celles versées lors de l'acquisition ; toutefois, n'entrent pas dans
+la définition de la prime les intérêts versés chaque année et restant à recevoir
+après l'acquisition ;
 
 2. Pour les emprunts ou titres de même nature démembrés à compter du 1er juin
 1991, la différence entre les sommes ou valeurs à recevoir et le prix
@@ -27,21 +27,25 @@ Les dispositions du présent II sont applicables à un emprunt qui fait l'objet
 d'émissions successives et d'une cotation en bourse unique si une partie de cet
 emprunt a été émise après le 1er janvier 1992.
 
-((III. Les dispositions du 1 et du 2 du II ne s'appliquent qu'aux titres émis à
+III. Les dispositions du 1 et du 2 du II ne s'appliquent qu'aux titres émis à
 compter du 1er juin 1985. Elles ne s'appliquent pas aux titres démembrés lors
 d'une succession.
 
-((Les dispositions du II sont applicables à tous les contrats mentionnés à
-l'article 124 qui sont conclus ou démembrés à compter du 1er janvier 1993 )).
+Les dispositions du II sont applicables à tous les contrats mentionnés à
+l'article 124 qui sont conclus ou démembrés à compter du 1er janvier 1993.
 
-((Les dispositions du II s'appliquent également aux emprunts, titres ou droits
+Les dispositions du II s'appliquent également aux emprunts, titres ou droits
 visés aux 6° et 7° de l'article 120 émis ou démembrés à compter du 1er janvier
 1993 ou qui font l'objet d'émissions successives et d'une cotation en bourse
-unique si une partie de ces emprunts a été émise à compter de la même date))
-(1).
+unique si une partie de ces emprunts a été émise à compter de la même date.
 
 IV. Les dispositions du présent article cessent de s'appliquer aux titres ou
 droits émis à compter du 1er janvier 1993 et détenus par les contribuables
 autres que ceux mentionnés au V de l'article 238 septies E.
 
-(1) Modifications de la loi 93-1353.
+V. Lorsque les titres ou droits mentionnés au II et au III ont été reçus, à
+compter du 1er janvier 2000, dans le cadre d'une opération d'échange dans les
+conditions prévues à l'article 150-0 B, la prime de remboursement mentionnée au
+II est calculée à partir du prix ou de la valeur d'acquisition des titres ou
+droits remis à l'échange, diminué de la soulte reçue ou majoré de la soulte
+versée.

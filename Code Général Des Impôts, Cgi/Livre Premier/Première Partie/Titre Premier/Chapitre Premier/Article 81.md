@@ -6,15 +6,15 @@ Sont affranchis de l'impôt :
 fonction ou à l'emploi et effectivement utilisées conformément à leur objet. Les
 rémunérations des journalistes, rédacteurs, photographes, directeurs de journaux
 et critiques dramatiques et musicaux perçues ès qualités constituent de telles
-allocations à concurrence de 50 000 F (1) ;
+allocations à concurrence de 50 000 F.
 
 Toutefois, lorsque leur montant est fixé par voie législative, ces allocations
 sont toujours réputées utilisées conformément à leur objet et ne peuvent donner
-lieu à aucune vérification de la part de l'administration (1').
+lieu à aucune vérification de la part de l'administration ;
 
 1° bis a et c (Abrogés) ;
 
-b (Transféré sous l'article 80 ter-b) ;
+b (Transféré sous le b de l'article 80 ter) ;
 
 2° Les prestations familiales énumérées par l'article L. 511-1 du code de la
 sécurité sociale, l'aide à la famille pour l'emploi d'une assistante maternelle
@@ -82,21 +82,23 @@ du fait de la loi ;
 
 15° Les prestations, visées aux articles L325-1 et L325-2 du code rural.
 
-Ces dispositions pourront être étendues par décret en conseil d'Etat (2) aux
+Ces dispositions pourront être étendues par décret en conseil d'Etat aux
 départements d'outre-mer ;
 
-16° L'attribution gratuite par une société à l'ensemble de son personnel
-d'actions ou parts sociales de son capital dans les conditions prévues à
-l'article 220 bis ;
+16° (disjoint)
 
 16° bis et 16 ter (Transférés sous l'article 81 ter) ;
 
 16° quater (Périmé).
 
-17° Les prestations de subsistance, d'équipement et de logement ainsi que
+17° a. Les prestations de subsistance, d'équipement et de logement ainsi que
 l'indemnité forfaitaire d'entretien allouées, en application de l'article L 104
 du code du service national, au personnel accomplissant le service national
 actif dans le service de la coopération ou dans le service de l'aide technique ;
+
+b. L'indemnité mensuelle et l'indemnité supplémentaire versées dans le cadre de
+l'accomplissement du volontariat civil en application de l'article L 122-12 du
+code du service national ;
 
 17° bis Le versement complémentaire de l'entreprise effectué à l'occasion de
 l'émission et de l'achat en bourse d'actions réservées aux salariés et mentionné
@@ -115,28 +117,28 @@ livre IV du code du travail ;
 18° bis Dans la limite d'un montant égal à la moitié du plafond annuel moyen
 retenu pour le calcul des cotisations de sécurité sociale, les sommes reçues au
 titre de l'intéressement et affectées à la réalisation d'un plan d'épargne
-d'entreprise ;
+d'entreprise.
 
 L'exonération s'applique sous réserve du dépôt de l'accord d'intéressement, dans
 les conditions prévues au huitième alinéa de l'article L. 441-2 du code du
 travail, à la direction départementale du travail, de l'emploi et de la
-formation professionnelle du lieu où il a été conclu ;
+formation professionnelle du lieu où il a été conclu
 
-Les dispositions du premier alinéa bénéficient également dans les mêmes
+Les dispositions du premier alinéa bénéficient également, dans les mêmes
 conditions et limites aux dividendes des actions de travail attribuées aux
 salariés des sociétés anonymes à participation ouvrière régies par la loi du 26
 avril 1917, à compter du 1er janvier 1991 ;
 
-19° Dans la limite de 28 F par titre (3), le complément de rémunération
-résultant de la contribution de l'employeur à l'acquisition par le salarié des
+19° Dans la limite de 28 F par titre, le complément de rémunération résultant de
+la contribution de l'employeur à l'acquisition par le salarié des
 titres-restaurant émis conformément aux dispositions du titre III de
 l'ordonnance n° 67-830 du 27 septembre 1967, lorsque cette contribution est
 comprise entre un minimum et un maximum fixés par arrêté du ministre de
-l'économie et des finances (4).
+l'économie et des finances.
 
 Cette exonération est subordonnée à la condition que le salarié se conforme aux
 obligations qui sont mises à sa charge par le titre III de l'ordonnance susvisée
-du 27 septembre 1967 et les textes pris pour son application (5) ;
+du 27 septembre 1967 et les textes pris pour son application ;
 
 19° bis Le complément de rémunération résultant de la contribution de
 l'employeur à l'acquisition de chèques-vacances par les salariés, dans les
@@ -154,15 +156,12 @@ c. Des sociétés centrales d'assurances définies à l'article L 322-12 du code
 assurances, faites au personnel des entreprises nationales d'assurances en
 application des articles L 322-13 et L 322-22 du code précité ;
 
-d. De la société nationale d'étude et de construction de moteurs d'aviation
-*SNECMA* et de la société nationale industrielle aérospatiale *SNIAS*, faites au
-personnel de ces entreprises en application de l'article 1er de la loi n° 73-9
-du 4 janvier 1973.
+d. (disjoint)
 
 21° (Abrogé).
 
 22° Les indemnités de départ en retraite, prévues au premier alinéa de l'article
-L122-14-13 du code du travail (6) dans la limite de 20 000 F.
+L122-14-13 du code du travail dans la limite de 20 000 F.
 
 23° L'indemnité compensatoire pour frais de transport attribuée aux magistrats,
 militaires, fonctionnaires et agents de la fonction publique de l'Etat, aux
@@ -174,7 +173,7 @@ Télécom en service dans les départements de la Haute-Corse et de la Corse-du-
 
 24° Les primes et indemnités attribuées par l'Etat aux agents publics et aux
 salariés à l'occasion du transfert hors de la région d'Ile-de-France du service,
-de l'établissement ou de l'entreprise où ils exercent leur activité (7).
+de l'établissement ou de l'entreprise où ils exercent leur activité ;
 
 25° La valeur des actions de la société Air France que l'Etat cède gratuitement
 à ceux de ses salariés qui consentent une réduction de leurs salaires pendant
@@ -195,37 +194,15 @@ Algérie ;
 
 28° Lorsqu'elle est prise en charge par l'employeur, la part salariale du
 complément de cotisation d'assurance vieillesse, prévue à l'article 1031-3 du
-code rural (8) ;
+code rural ;
 
 29° Les vacations horaires et l'allocation de vétérance personnelle ou de
 réversion, servies aux sapeurs-pompiers volontaires ou à leurs ayants droit, en
 application du titre II de la loi n° 96-370 du 3 mai 1996 relative au
-développement du volontariat dans les corps de sapeurs-pompiers (9) ;
+développement du volontariat dans les corps de sapeurs-pompiers ;
 
 30° Le pécule versé en application de la loi n° 96-1111 du 19 décembre 1996
 relative aux mesures en faveur du personnel militaire dans le cadre de la
-professionnalisation des armées (10).
+professionnalisation des armées (1).
 
-(1) Cette modification est applicable aux revenus perçus à compter du 1er
-janvier 1998.
-
-(1') (Cf. Instruction 1999-06-14 5F-14-99).
-
-(2) Voir décret 64-285 du 2 avril 1964 (JO du 4).
-
-(3) Chiffre applicable à partir du 1er janvier 1997.
-
-(4) Annexe IV, art. 23 M.
-
-(5) Annexe II, art. 39.
-
-(6) Code du travail, art. L122-14-13.
-
-(7) Ces dispositions s'appliquent aux versements effectués à compter du 1er
-janvier 1995.
-
-(8) Disposition applicable du 1er janvier 1995 au 31 décembre 1999 ;
-
-(9) Disposition applicable à compter du 1er janvier 1998 ;
-
-(10) Disposition applicable du 1er janvier 1997 au 31 décembre 2002.
+(1) Disposition applicable du 1er janvier 1997 au 31 décembre 2002.

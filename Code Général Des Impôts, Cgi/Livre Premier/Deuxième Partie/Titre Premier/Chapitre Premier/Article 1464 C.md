@@ -15,9 +15,10 @@ professionnelle.
 Lorsque tout ou partie de la part communale de la taxe foncière sur les
 propriétés bâties ou de la taxe professionnelle acquittée par les entreprises
 implantées sur une zone d'activités économiques créée ou gérée par un groupement
-de communes est affecté à ce groupement en vertu des articles 29 ou 11 de la loi
-n° 80-10 du 10 janvier 1980 portant aménagement de la fiscalité directe locale,
-celui-ci est substitué à la commune pour l'application du présent article.
+de communes est affecté à ce groupement en vertu des articles 29 ou 11 modifiés
+de la loi n° 80-10 du 10 janvier 1980 portant aménagement de la fiscalité
+directe locale, celui-ci est substitué à la commune pour l'application du
+présent article.
 
 II. Les délibérations mentionnées ci-dessus sont de portée générale. Elles
 peuvent concerner :

@@ -1,13 +1,14 @@
 Article 223 A
 ----
-Une société, dont le capital n'est pas détenu à 95 p. 100 au moins directement
-ou indirectement, par une autre personne morale passible de l'impôt sur les
-sociétés, peut se constituer seule redevable de l'impôt sur les sociétés dû sur
-l'ensemble des résultats du groupe formé par elle-même et les sociétés dont elle
-détient 95 p. 100 au moins du capital, de manière continue au cours de
-l'exercice, directement ou indirectement par l'intermédiaire de sociétés du
-groupe. Dans ce cas, elle est également redevable du précompte et de
-l'imposition forfaitaire annuelle dus par les sociétés du groupe.
+Une société, l'impôt sur les sociétés dû sur l'ensemble des résultats du groupe
+formé par elle-même et les sociétés dont elle détient 95 p. 100 au moins du
+capital, de manière continue au cours de l'exercice, directement ou
+indirectement par l'intermédiaire de sociétés du groupe. Dans ce cas, elle est
+également redevable du précompte et de l'imposition forfaitaire annuelle dus par
+les sociétés du groupe. Le capital de la société mère ne doit pas être détenu à
+95 % au moins, directement ou indirectement, par une autre personne morale
+soumise à l'impôt sur les sociétés dans les conditions de droit commun ou selon
+les modalités prévues aux articles 214 et 217 bis.
 
 Si l'exercice d'options de souscription d'actions dans les conditions prévues à
 l'article 208-7 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés
@@ -28,19 +29,23 @@ dont les résultats sont soumis à l'impôt sur les sociétés dans les conditio
 droit commun ou selon les modalités prévues aux articles 214 et 217 bis.
 
 Les sociétés du groupe doivent ouvrir et clore leurs exercices aux mêmes dates ;
-les exercices ont une durée de douze mois. En cas de renouvellement de l'option
-mentionnée au premier alinéa, la durée du premier exercice peut être inférieure
-à douze mois. Toutefois, l'option produit immédiatement effet, pour les
-exercices ouverts au cours des six premiers mois de l'année 1988, si elle est
-formulée avant le 1er juillet 1988. L'option est valable pour cinq exercices.
+Les exercices ont une durée de douze mois. L'option mentionnée au premier alinéa
+est notifiée avant la date d'ouverture de l'exercice au titre duquel le régime
+défini au présent article s'applique. Elle est valable pour une période de cinq
+exercices. Elle est renouvelée par tacite reconduction, sauf dénonciation avant
+l'expiration de chaque période. En cas de renouvellement de l'option, la durée
+du premier exercice peut être inférieure à douze mois si le renouvellement est
+notifié avant la date d'ouverture de cet exercice et comporte l'indication de la
+durée de celui-ci.
 
-Sous réserve des dispositions prévues aux c, d ((et e)) (M) du 6 de l'article
-223 L, la société mère notifie, avant la clôture de chacun des exercices arrêtés
-au cours de la période de validité de l'option, la liste des sociétés membres du
-groupe à compter de l'exercice suivant. A défaut, le résultat d'ensemble est
-déterminé à partir du résultat des sociétés mentionnées sur la dernière liste
-notifiée au service dans le délai indiqué à la phrase qui précède si ces
-sociétés continuent à remplir les conditions prévues à la présente section.
+Sous réserve des dispositions prévues aux c, d et e du 6 de l'article 223 L, la
+société mère notifie, avant la clôture de chacun des exercices arrêtés au cours
+de la période de validité de l'option, la liste des sociétés membres du groupe à
+compter de l'exercice suivant ainsi que l'identité des sociétés qui cessent
+d'être membres de ce groupe. A défaut, le résultat d'ensemble est déterminé à
+partir du résultat des sociétés mentionnées sur la dernière liste notifiée au
+service dans le délai indiqué à la phrase qui précède si ces sociétés continuent
+à remplir les conditions prévues à la présente section.
 
 Chaque société du groupe est tenue solidairement au paiement de l'impôt sur les
 sociétés, de l'imposition forfaitaire annuelle et du précompte et, le cas
@@ -48,5 +53,3 @@ sociétés, de l'imposition forfaitaire annuelle et du précompte et, le cas
 correspondantes, dont la société mère est redevable, à hauteur de l'impôt et des
 pénalités qui seraient dus par la société si celle-ci n'était pas membre du
 groupe.
-
-(M) Modification de la loi 96-314.

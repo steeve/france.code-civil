@@ -62,7 +62,7 @@ personnes mentionnées ci-après :
 1° pour les livraisons visées aux 1° et 2° du I, le destinataire ;
 
 2° pour l'importation visée au 3° du I, la personne désignée au troisième alinéa
-de l'article 293 A ;
+du 1 de l'article 293 A ;
 
 3° pour l'acquisition intracommunautaire visée au 4° du I, la personne désignée
 au 2 bis de l'article 283 ;

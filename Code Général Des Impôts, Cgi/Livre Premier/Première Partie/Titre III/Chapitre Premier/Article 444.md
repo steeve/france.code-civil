@@ -1,11 +1,6 @@
 Article 444
 ----
-Il est délivré un congé lorsque le droit est exigible à l'enlèvement; un
-passavant ou un laissez-passer lorsque la franchise de l'impôt peut être
-accordée; un acquit-à-caution lorsque le droit est consigné ou simplement
-garanti.
-
-((Le directeur régional des douanes et droits indirects)) (M) peut obliger les
+Le directeur régional des douanes et droits indirects peut obliger les
 expéditeurs de boissons à substituer aux titres de mouvement de toute nature
 l'apposition sur les récipients de capsules, empreintes ou vignettes
 représentatives des droits indirects sur l'alcool, le vin et le cidre.
@@ -23,8 +18,4 @@ réglementée ou de l'appellation de vin délimité de qualité supérieure.
 Les modalités d'application des dispositions relatives à l'apposition des
 capsules ou des vignettes, notamment en ce qui concerne les frais de confection
 des matrices et de surveillance de leur emploi, sont fixées par arrêtés
-ministériels (1).
-
-(M) Modification.
-
-(1) Annexe IV, art. 54-0 A à 54-0 CD.
+ministériels.

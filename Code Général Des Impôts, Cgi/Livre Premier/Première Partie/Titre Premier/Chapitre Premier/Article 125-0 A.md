@@ -40,9 +40,9 @@ mobilières dont l'actif est constitué pour 50 % au moins de :
 
 a) Actions ou certificats d'investissement de sociétés et certificats
 coopératifs d'investissement admis aux négociations sur un marché réglementé
-d'instruments financiers reconnu en application de l'article 41 ou du VII de
-l'article 97 de la loi n° 96-597 du 2 juillet 1996 de modernisation des
-activités financières ;
+d'instruments financiers figurant sur les listes mentionnées à l'article 16 de
+la directive 93/22/CEE du Conseil, du 10 mai 1993, concernant les services
+d'investissement dans le domaine des valeurs mobilières ;
 
 b) Droits ou bons de souscription ou d'attribution attachés aux actions
 mentionnées au a ;
@@ -55,17 +55,19 @@ d) Parts de fonds communs de placement à risques, de fonds communs de placement
 dans l'innovation, actions de sociétés de capital risque ou de sociétés
 financières d'innovation ;
 
-e) Actions émises par des sociétés qui sont, sans avoir exercé d'option pour un
-autre régime d'imposition, passibles de l'impôt sur les sociétés de plein droit
-ou sur option, qui exercent une activité autre que celles mentionnées au
-deuxième alinéa du 2° du I de l'article 44 sexies et dont les titres ne sont pas
-admis aux négociations sur un marché réglementé ;
+e) Actions émises par des sociétés qui exercent une activité autre que les
+activités mentionnées au deuxième alinéa du 2 du I de l'article 44 sexies et
+dont les titres ne sont pas admis aux négociations sur un marché réglementé ;
 
-f) Titres admis aux négociations sur le nouveau marché.
+f) Titres admis aux négociations sur les marchés réglementés de valeurs de
+croissance de l'Espace économique européen, ou les compartiments de valeurs de
+croissance de ces marchés, dont la liste est fixée par arrêté du ministre chargé
+de l'économie ;
 
-Les titres mentionnés aux a et b doivent respecter les condition fixées par le 2
-du I de l'article 2 de la loi n° 92-666 du 16 juillet 1992 relative au plan
-d'épargne en actions.
+Les titres mentionnés aux a, b, e et f doivent être émis par des sociétés qui
+ont leur siège dans un Etat de la Communauté européenne et sont soumises à
+l'impôt sur les sociétés dans les conditions de droit commun au taux normal ou
+le seraient dans les mêmes conditions si l'activité était exercée en France.
 
 Les titres mentionnés aux d, e et f doivent représenter 5 % au moins de l'actif
 de l'organisme de placement collectif en valeurs mobilières.
@@ -134,10 +136,8 @@ l'administration fiscale ;
 
 Un décret fixe les modalités d'application du présent 1° bis.
 
-2° Dans le cas contraire, à ((60 %)) (M).
+2° Dans le cas contraire, à 60 %.
 
 III. Le prélèvement est établi, liquidé et recouvré sous les mêmes garanties et
 sanctions que celui mentionné à l'article 125 A. Les dispositions de l'article
 1764 et du 1 des articles 242 ter et 1768 bis sont applicables.
-
-(M) Modification.

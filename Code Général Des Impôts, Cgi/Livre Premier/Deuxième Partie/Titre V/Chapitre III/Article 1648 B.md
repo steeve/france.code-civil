@@ -16,7 +16,7 @@ seuils de population nécessaires pour une transformation en communauté
 d'agglomération, si les deux tiers au moins des communes du groupement comptent
 moins de 5 000 habitants.
 
-b) c) (Supprimés).
+b) c) (abrogés).
 
 Les crédits de la dotation de développement rural sont répartis entre les
 départements en tenant compte du nombre de communes regroupées et du nombre
@@ -63,8 +63,6 @@ Il en informe la commission ainsi que la conférence départementale
 d'harmonisation des investissements instituée par l'article L. 3142-1 du code
 général des collectivités territoriales.
 
-Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
-
 La population à prendre en compte pour l'application du présent article est
 celle définie à l'article L. 2334-2 du code général des collectivités
 territoriales.
@@ -97,18 +95,18 @@ première part ainsi que le calcul des attributions qui leur reviennent sont
 fixées par décret en Conseil d'Etat en tenant compte, notamment, de la perte de
 produit de taxe professionnelle et de l'importance relative de la perte de
 produit fiscal qui en résulte par rapport aux recettes de la commune provenant
-de la taxe d'habitation, des taxes foncières et de la taxe professionnelle (1).
-A compter du 1er janvier 1991, les communes dont les pertes de bases sont
+de la taxe d'habitation, des taxes foncières et de la taxe professionnelle. A
+compter du 1er janvier 1991, les communes dont les pertes de bases sont
 compensées sur quatre ans, bénéficient :
 
 La première année, d'une attribution égale au plus à 90 p. 100 de la perte de
 bases qu'elles ont enregistrée ;
 
-La deuxième année, de 75 p. 100 de l'attribution reçue l'année précédente ;
+La deuxième année, de 75 % de l'attribution reçue l'année précédente ;
 
-La troisième année, de 50 p. 100 de l'attribution reçue la première année ;
+La troisième année, de 50 % de l'attribution reçue la première année ;
 
-La quatrième année, de 25 p. 100 de l'attribution reçue la première année.
+La quatrième année, de 25 % de l'attribution reçue la première année.
 
 A compter du 1er janvier 1998, les communes dont les pertes de bases sont
 compensées sur trois ans bénéficient :
@@ -122,12 +120,12 @@ qu'elles ont enregistrée ;
 
 Toutefois, à compter du 1er janvier 1986, cette durée est portée à cinq ans pour
 les communes situées dans les cantons où l'Etat anime une politique de
-conversion industrielle et dont la liste est fixée par décret (2).
+conversion industrielle et dont la liste est fixée par décret.
 
 Les groupements de communes dotés d'une fiscalité propre qui remplissent les
 conditions fixées par décret en Conseil d'Etat bénéficient, à compter du 1er
-janvier 1992, de la compensation prévue au présent 1°, selon les modalités
-prévues pour les communes (3).
+janvier 1992, de la compensation prévue au présent 2°, selon les modalités
+prévues pour les communes.
 
 2° bis. Une deuxième part qui sert à verser :
 
@@ -213,11 +211,11 @@ aux communes qui connaissent des difficultés financières graves en raison d'un
 baisse, sur une ou plusieurs années, de leurs bases d'imposition à la taxe
 professionnelle ou de leurs ressources de redevance des mines, et dont le budget
 primitif de l'exercice en cours a été soumis à la chambre régionale des comptes
-dans les conditions fixées par les articles L. 232-4, L. 232-5, L. 232-6 et L.
-232-8 du code des juridictions financières. Cette part est répartie selon la
-même procédure que celle relative aux subventions exceptionnelles accordées en
-application de l'article L. 2332-2 du code général des collectivités
-territoriales.
+dans les conditions fixées par les articles L. 1612-4, L. 1612-5, L. 1612-6, L.
+1612-7 et L. 1612-9 du code général des collectivités territoriales. Cette part
+est répartie selon la même procédure que celle relative aux subventions
+exceptionnelles accordées en application de l'article L. 2335-2 du code général
+des collectivités territoriales.
 
 Le montant des crédits affectés à chacune de ces parts est fixé chaque année par
 le comité des finances locales, à qui il est rendu compte de l'utilisation
@@ -229,16 +227,8 @@ national de péréquation institué par l'article 1648 B bis.
 
 IV. Pour l'application du I et du II, le potentiel fiscal de chaque commune
 membre d'une communauté ou d'un syndicat d'agglomération nouvelle visés à
-l'article 1609 nonies B est calculé dans les conditions fixées à l'article 1648
-A V ter.
+l'article 1609 nonies B est calculé dans les conditions fixées au V ter de
+l'article 1648 A.
 
 V. Les modalités d'application du présent article sont fixées par décret en
-Conseil d'Etat (1).
-
-(1) Décret 85-260 du 22 février 1985 (JO du 24) modifié, décret 91-1081 du 14
-octobre 1991 (JO du 19) et décret n° 92-568 du 30 juin 1992 (JO du 1er juillet).
-
-(2) Décret n° 86-422 du 12 mars 1986 (JO du 15).
-
-(3) Décret 85-260 du 22 février 1985 (JO du 24) modifié, et décret n° 92-568 du
-30 juin 1992 (JO du 1er juillet).
+Conseil d'Etat.

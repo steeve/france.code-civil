@@ -20,9 +20,9 @@ incessibles, et émis dans les conditions prévues à l'article 339-5 de la loi 
 66-537 du 24 juillet 1966 modifiée sur les sociétés commerciales, lorsque les
 conditions suivantes sont remplies :
 
-1. La société doit exercer une activité autre que celles mentionnées au deuxième
-alinéa du 2 du I de l'article 44 sexies et être passible en France de l'impôt
-sur les sociétés ;
+1. La société doit exercer une activité autre que celles mentionnées au
+quatrième alinéa du I de l'article 44 sexies et être passible en France de
+l'impôt sur les sociétés ;
 
 2. Le capital de la société doit être détenu directement et de manière continue
 pour 25 % au moins par des personnes physiques ou par des personnes morales

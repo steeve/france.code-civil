@@ -7,21 +7,22 @@ janvier et porter sur un montant au moins égal à 1.000 F.
 de taxe déductible résulte des énonciations de leur déclaration annuelle. La
 demande de remboursement est déposée avec cette déclaration.
 
-Pour les assujettis qui ont exercé l'option prévue au deuxième alinéa de
-l'article 204 ter A, le remboursement du crédit de taxe déductible apparaissant
-le 31 décembre peut être demandé dans les conditions déterminées au 1.
+Pour les assujettis qui ont exercé l'option prévue au 2 de l'article 204 ter A,
+le remboursement du crédit de taxe déductible apparaissant le 31 décembre peut
+être demandé dans les conditions déterminées au 1.
 
-II. 1. Par dérogation aux dispositions du I, une demande de remboursement peut
-être déposée au titre de chaque trimestre civil lorsque chacune des déclarations
-de ce trimestre fait apparaître un crédit de taxe déductible. La demande de
-remboursement est déposée au cours du mois suivant le trimestre considéré. Elle
-doit porter sur un montant au moins égal à 5 000 F.
+II. - Par dérogation aux dispositions du I, les assujettis soumis de plein droit
+ou sur option au régime normal d'imposition peuvent demander un remboursement au
+titre d'un trimestre civil lorsque chacune des déclarations de ce trimestre fait
+apparaître un crédit de taxe déductible. La demande de remboursement est déposée
+au cours du mois suivant le trimestre considéré. Elle doit porter sur un montant
+au moins égal à 5 000 F.
 
-2. Pour les assujettis placés sous le régime simplifié d'imposition, les
-remboursements trimestriels ont un caractère provisionnel. Ils donnent lieu à
-régularisation annuelle.
+III. - Par dérogation aux dispositions du I, les assujettis placés sous le
+régime d'acomptes prévu au 3 de l'article 287 du code général des impôts peuvent
+demander un remboursement trimestriel du crédit constitué par la taxe déductible
+ayant grevé l'acquisition de biens constituant des immobilisations lorsque son
+montant est au moins égal à 5 000 F.
 
-Pour les assujettis qui déposent leurs déclarations dans les conditions fixées à
-l'article 242 septies A, le remboursement du crédit de taxe déductible
-apparaissant le 31 décembre peut être demandé dans les conditions visées au 1
-ci-dessus.
+Les remboursements s'effectuent dans les conditions prévues à l'article 242
+septies J.

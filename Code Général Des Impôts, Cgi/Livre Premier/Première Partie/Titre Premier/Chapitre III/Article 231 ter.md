@@ -45,9 +45,9 @@ V. - Sont exonérés de la taxe :
 
 1° Les locaux à usage de bureaux, les locaux commerciaux et les locaux de
 stockage, situés dans une zone de redynamisation urbaine ou dans une zone
-franche urbaine, telle que définie par les A et B du 3 de l'article 42 de la loi
-n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement
-du territoire ;
+franche urbaine, telle que définie par les A et B du 3 de l'article 42 modifié
+de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le
+développement du territoire ;
 
 2° Les locaux appartenant aux fondations et aux associations, reconnues
 d'utilité publique, dans lesquels elles exercent leur activité, ainsi que les

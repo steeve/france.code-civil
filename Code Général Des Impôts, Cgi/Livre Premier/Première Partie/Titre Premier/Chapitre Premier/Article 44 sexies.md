@@ -1,6 +1,6 @@
 Article 44 sexies
 ----
-I. 1. Les entreprises soumises de plein droit ou sur option à un régime réel
+I. Les entreprises soumises de plein droit ou sur option à un régime réel
 d'imposition de leurs résultats et qui exercent une activité industrielle,
 commerciale ou artisanale au sens de l'article 34 sont exonérées d'impôt sur le
 revenu ou d'impôt sur les sociétés à raison des bénéfices réalisés, à
@@ -17,18 +17,18 @@ la moitié ou les trois quarts de leur montant selon qu'ils sont réalisés
 respectivement au cours de la première, de la seconde ou de la troisième période
 de douze mois suivant cette période d'exonération.
 
-2° Le bénéfice des dispositions du présent article est réservé aux entreprises
-qui se créent à compter du 1er janvier 1995 jusqu'au 31 décembre 2004 dans les
-zones d'aménagement du territoire et dans les territoires ruraux de
-développement prioritaire définis au premier alinéa de l'article 1465 et dans
-les zones de redynamisation urbaine définies au I bis et, à compter du 1er
-janvier 1997, au I ter de l'article 1466 A, à la condition que le siège social
-ainsi que l'ensemble de l'activité et des moyens d'exploitation soient implantés
-dans l'une de ces zones ;
+Le bénéfice des dispositions du présent article est réservé aux entreprises qui
+se créent à compter du 1er janvier 1995 jusqu'au 31 décembre 2004 dans les zones
+d'aménagement du territoire et dans les territoires ruraux de développement
+prioritaire définis au premier alinéa de l'article 1465 et dans les zones de
+redynamisation urbaine définies au I bis et, à compter du 1er janvier 1997, au I
+ter de l'article 1466 A, à la condition que le siège social ainsi que l'ensemble
+de l'activité et des moyens d'exploitation soient implantés dans l'une de ces
+zones ;
 
-3° Ces dispositions s'appliquent également aux sociétés soumises à l'impôt sur
-les sociétés qui exercent une activité professionnelle au sens du 1 de l'article
-92 dont l'effectif de salariés bénéficiant d'un contrat de travail à durée
+Ces dispositions s'appliquent également aux sociétés soumises à l'impôt sur les
+sociétés qui exercent une activité professionnelle au sens du 1 de l'article 92
+dont l'effectif de salariés bénéficiant d'un contrat de travail à durée
 indéterminée ou d'une durée de six mois au moins est égal ou supérieur à trois à
 la clôture du premier exercice et au cours de chaque exercice de la période
 d'application des dispositions du présent article ; si l'effectif varie en cours
@@ -47,11 +47,11 @@ Pour l'application du premier alinéa, le capital d'une société nouvellement
 créée est détenu indirectement par d'autres sociétés lorsque l'une au moins des
 conditions suivantes est remplie :
 
-- un associé exerce en droit ou en fait une fonction de direction ou
+a - un associé exerce en droit ou en fait une fonction de direction ou
 d'encadrement dans une autre entreprise, lorsque l'activité de celle-ci est
 similaire à celle de l'entreprise nouvellement créée ou lui est complémentaire ;
 
-- un associé détient avec les membres de son foyer fiscal 25 % au moins des
+b - un associé détient avec les membres de son foyer fiscal 25 % au moins des
 droits sociaux dans une autre entreprise dont l'activité est similaire à celle
 de l'entreprise nouvellement créée ou lui est complémentaire.
 

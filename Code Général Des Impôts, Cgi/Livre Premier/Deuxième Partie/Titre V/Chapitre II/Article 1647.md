@@ -3,9 +3,9 @@ Article 1647
 I. Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement sur
 le montant :
 
-a De la taxe locale d'équipement visée à l'article 1585 A ;
+a. De la taxe locale d'équipement visée à l'article 1585 A ;
 
-b Des droits, taxes, redevances et autres impositions visés au II de l'article
+b. Des droits, taxes, redevances et autres impositions visés au II de l'article
 1635 ter.
 
 Le taux de ce prélèvement est fixé à 4 % du montant des recouvrements.
@@ -22,16 +22,14 @@ articles L. 154-1 et L. 154-2 du code de la sécurité sociale. Le taux de ce
 prélèvement et les modalités de remboursement sont fixés par arrêté du ministre
 de l'économie et des finances.
 
-IV. - Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement
-de 2,5 p. 100 sur le montant de la contribution sur les produits sanguins
-labiles mentionnée à l'article 1609 tervicies.
+IV. (Sans objet).
 
 V. - L'Etat perçoit au titre de frais d'assiette, de recouvrement, de
 dégrèvements et de non-valeurs un prélèvement de :
 
-a. 2,50 p. 100 en sus du montant ((de la taxe de publicité foncière ou de droits
-d'enregistrement perçus au profit des départements en application de)) (M)
-l'article 1594 A.
+a. 2,50 p. 100 en sus du montant de la taxe de publicité foncière ou de droits
+d'enregistrement perçus au profit des départements en application de l'article
+1594 A.
 
 b. 2,50 p. 100 en sus du montant de la taxe différentielle sur les véhicules à
 moteur mentionnée aux articles 1599 C et 1599 nonies. Le taux est porté à 3 p.
@@ -41,14 +39,7 @@ deuxième alinéa de l'article 1599 nonies.
 
 VI. Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement de
 1 p. 100 sur le montant des taxes mentionnées aux articles 302 bis ZA et 302 bis
-ZB (1).
+ZB.
 
 VII. Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement de
-1,5 % sur le montant de la taxe mentionnée à l'article 302 bis KB (2).
-
-(M) Modification.
-
-(1) Cette disposition s'applique aux taxes acquittées à compter du 1er janvier
-1996.
-
-(2) Cette disposition s'applique à compter du 1er janvier 1998.
+1,5 % sur le montant de la taxe mentionnée à l'article 302 bis KB.

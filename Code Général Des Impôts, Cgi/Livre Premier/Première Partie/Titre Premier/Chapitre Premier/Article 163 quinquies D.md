@@ -20,9 +20,9 @@ bis.
 2. Les titres ou parts dont la souscription a permis au titulaire du plan de
 bénéficier des avantages fiscaux résultant des dispositions des 2° quater et 2°
 quinquies de l'article 83, des articles 83 ter, 150 U, 150 V, 163 quinquies B,
-163 septdecies, 199 undecies, 199 terdecies et 199 terdecies A, du I bis de
-l'article 163 bis C, du deuxième alinéa du II de l'article 726 ainsi que du III
-ter de l'article 810 ne peuvent figurer dans le plan.
+163 septdecies, 199 undecies et 199 terdecies A, du I bis de l'article 163 bis
+C, du deuxième alinéa du II de l'article 726 ainsi que du III ter de l'article
+810 ne peuvent figurer dans le plan.
 
 3. Le titulaire du plan, son conjoint et leurs ascendants et descendants ne
 doivent pas, pendant la durée du plan, détenir ensemble, directement ou

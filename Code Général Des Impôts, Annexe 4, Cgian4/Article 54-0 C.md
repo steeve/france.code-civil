@@ -16,13 +16,13 @@ Ces indications doivent concorder avec celles figurant éventuellement soit sur
 les étiquettes apposées sur les bouteilles soit sur les bouteilles elles-mêmes.
 
 Dans le cas où un négociant est autorisé à embouteiller les vins pour le compte
-d'un ou plusieurs autres marchands en gros l'administration peut autoriser
+d'un ou plusieurs autres entrepositaires agréés l'administration peut autoriser
 l'utilisation de capsules portant au lieu et place du nom, de la raison sociale,
 de la marque ou du numéro d'agrément de l'utilisateur, la mention "négociant",
 suivie du numéro d'agrément de l'embouteilleur. Les bouteilles portant de telles
 capsules doivent être revêtues, par les soins de l'embouteilleur, d'étiquettes
-mentionnant obligatoirement le nom et l'adresse du marchand en gros pour le
-compte duquel l'embouteillage a été réalisé.
+mentionnant obligatoirement le nom et l'adresse de l'entrepositaire agréé pour
+le compte duquel l'embouteillage a été réalisé.
 
 b. La marque du fabricant des capsules ou le cas échéant celle du fabricant des
 feuilles imprimées servant à la fabrication des capsules.

@@ -132,22 +132,7 @@ transfert.
 
 IV. (Périmé).
 
-IV bis. Sur option de l'entreprise, les dispositions du présent article sont
-également applicables aux dépenses exposées :
-
-a) b) c) (Périmés).
-
-d) Au cours des années 1993 à 1995 par les entreprises qui ont bénéficié du
-crédit d'impôt recherche au titre de l'année 1992 ou par celles qui n'ont jamais
-bénéficié du dispositif du crédit d'impôt recherche ou qui n'ont pas renouvelé
-leur option au titre des périodes 1987 à 1989 et 1990 à 1992.
-
-e. au cours des années 1996 à 1998 par les entreprises qui ont fait application
-du crédit d'impôt recherche au titre de 1995 ou par celles qui n'ont jamais opté
-pour le régime du crédit d'impôt recherche. L'option doit être exercée au titre
-de 1996 ou au titre de l'année de création de l'entreprise, ou au titre de
-l'année au cours de laquelle l'entreprise réalise ses premières dépenses de
-recherche éligibles au crédit d'impôt recherche.
+IV bis. (Périmé).
 
 IV ter. (Périmé).
 

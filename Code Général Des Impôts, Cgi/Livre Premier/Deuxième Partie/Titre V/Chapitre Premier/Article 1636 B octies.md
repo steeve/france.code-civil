@@ -17,10 +17,10 @@ ressort de ces établissements.
 
 III. - Pour l'application du II, les recettes s'entendent de celles figurant
 dans des rôles généraux ainsi que de la compensation prévue au D de l'article 44
-de la loi de finances pour 1999 (n° 98-1266 du 30 décembre 1998) versée au titre
-de l'année précédente en contrepartie de la suppression de la part des salaires
-et rémunérations visés au b du 1° de l'article 1467 dans la base d'imposition à
-la taxe professionnelle.
+modifié de la loi de finances pour 1999 (n° 98-1266 du 30 décembre 1998) versée
+au titre de l'année précédente en contrepartie de la suppression de la part des
+salaires et rémunérations visés au b du 1° de l'article 1467 dans la base
+d'imposition à la taxe professionnelle.
 
 IV. Le produit fiscal à recouvrer dans chacune des communes membres au profit
 d'un syndicat de communes est réparti entre les taxes foncières, la taxe
@@ -31,12 +31,12 @@ l'année précédente aux bases de l'année d'imposition.
 IV bis. - Pour l'application du IV, les recettes afférentes à la taxe
 professionnelle sont majorées du montant, calculé à partir du seul taux
 communal, de la compensation prévue pour l'année d'imposition au D de l'article
-44 de la loi de finances pour 1999 précitée en contrepartie de la suppression de
-la part des salaires et rémunérations visés au b du 1° de l'article 1467 dans la
-base d'imposition à la taxe professionnelle.
+44 modifié de la loi de finances pour 1999 précitée en contrepartie de la
+suppression de la part des salaires et rémunérations visés au b du 1° de
+l'article 1467 dans la base d'imposition à la taxe professionnelle.
 
 Pour l'application du IV, le produit fiscal à recouvrer est minoré de la part
-reversée par la commune au syndicat du montant de la compensation visée à
-l'alinéa ci-dessus.
+reversée par la commune au syndicat du montant de la compensation visée au
+premier alinéa.
 
 V. Les dispositions du présent article entreront en vigueur à compter de 1981.

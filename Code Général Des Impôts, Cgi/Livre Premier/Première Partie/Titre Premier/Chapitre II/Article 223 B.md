@@ -5,10 +5,10 @@ algébrique des résultats de chacune des sociétés du groupe, déterminés dan
 conditions de droit commun ou selon les modalités prévues à l'article 217 bis.
 
 En ce qui concerne la détermination des résultats des exercices ouverts avant le
-1er janvier 1993, ((ou clos à compter du 31 décembre 1998)) (M), le résultat
-d'ensemble est diminué de la quote-part de frais et charges comprise dans ses
-résultats par une société du groupe à raison de sa participation dans une autre
-société du groupe.
+1er janvier 1993, ou clos à compter du 31 décembre 1998, le résultat d'ensemble
+est diminué de la quote-part de frais et charges comprise dans ses résultats par
+une société du groupe à raison de sa participation dans une autre société du
+groupe.
 
 Pour la détermination du résultat des exercices ouverts à compter du 1er janvier
 1995, les dividendes reçus par une société du groupe à raison de sa
@@ -19,14 +19,26 @@ l'article 145.
 Il est majoré du montant des dotations complémentaires aux provisions
 constituées par une société après son entrée dans le groupe, à raison des
 créances qu'elle détient sur d'autres sociétés du groupe ou des risques qu'elle
-encourt du fait de telles sociétés. Il est minoré du montant des provisions
+encourt du fait de telles sociétés. En cas de cession d'un élément d'actif entre
+sociétés du groupe, les dotations aux provisions pour dépréciation de cet
+élément d'actif effectuées postérieurement à la cession sont rapportées au
+résultat d'ensemble, à hauteur de l'excédent des plus-values ou profits sur les
+moins-values ou pertes afférent à ce même élément, qui n'a pas été pris en
+compte, en application du premier alinéa de l'article 223 F, pour le calcul du
+résultat ou de la plus ou moins-value nette à long terme d'ensemble du groupe.
+Lorsqu'en application du deuxième alinéa de l'article 223 F, la société mère
+comprend dans le résultat d'ensemble le résultat ou la plus ou moins-value non
+pris en compte lors de sa réalisation, la fraction de la provision qui n'a pas
+été déduite en application de la deuxième phrase du présent alinéa, ni rapportée
+en application du treizième alinéa du 5° du 1 de l'article 39, est retranchée du
+résultat d'ensemble. Celui-ci est également minoré du montant des provisions
 rapportées en application du treizième alinéa du 5° du 1 de l'article 39 qui
-correspondent aux dotations complémentaires mentionnées à la phrase qui précède
-si les sociétés visées à la même phrase sont membres du groupe ou d'un même
-groupe créé ou élargi dans les conditions prévues aux c, d ou e du 6 de
-l'article 223 L (1) au titre de l'exercice au cours duquel ces provisions sont
-rapportées ; pour l'application de cette disposition, les provisions rapportées
-s'imputent en priorité sur les dotations les plus anciennes (2).
+correspondent aux dotations complémentaires non retenues en application du
+présent alinéa si les sociétés citées aux deux premières phrases de cet alinéa
+membres du groupe ou, s'agissant des provisions mentionnées à la première
+phrase, d'un même groupe créé ou élargi dans les conditions prévues aux c, d ou
+e du 6 de l'article 223 L au titre de l'exercice au cours duquel ces provisions
+sont rapportées ;
 
 Le montant des jetons de présence et tantièmes distribués par les sociétés
 filiales du groupe est ajouté au résultat d'ensemble.
@@ -63,12 +75,3 @@ membre du groupe ;
 c. Si les titres cédés à la société membre du groupe ont été acquis
 immédiatement auparavant, auprès de personnes autres que celles mentionnées au
 septième alinéa du présent article, et en vue de rétrocession.
-
-(M) Modification.
-
-(1) Ces dispositions s'appliquent aux opérations de scission intervenues à
-compter du 1er avril 1996.
-
-(2) Les dispositions relatives aux provisions pour risques entrent en vigueur
-pour la détermination des résultats des exercices ouverts à compter du 1er
-janvier 1992.

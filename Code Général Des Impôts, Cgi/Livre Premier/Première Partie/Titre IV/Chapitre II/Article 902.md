@@ -22,8 +22,8 @@ en vente, ainsi que toute déclaration de command contenue en l'acte même, ou
 encore tout paiement par subrogation effectué par un tiers en l'acquit de
 l'acquéreur ;
 
-2° Les actes visés aux F, G, J et K de l'article 1594 F et au B de l'article
-1594-0 G ;
+2° Les actes visés aux F, G, J et K de l'article 1594 F quinquies et au B de
+l'article 1594-0 G ;
 
 2. Actes judiciaires, extrajudiciaires et registres divers.
 
@@ -43,8 +43,7 @@ la vindicte publique ;
 tenus de remettre aux greffiers des tribunaux de commerce ou des tribunaux de
 grande instance statuant commercialement en vertu des dispositions des articles
 162 du code de commerce et 65-3 du décret-loi du 30 octobre 1935 unifiant le
-droit en matière de chèque, modifiés par les articles 1er et 2 de la loi n°
-49-1093 du 2 août 1949 ;
+droit en matière de chèque ;
 
 6° à 13° (Abrogés) ;
 
@@ -76,7 +75,7 @@ d'emprunts contractés par l'Etat et par les collectivités publiques ou privée
 
 6° Les titres-restaurants émis conformément aux dispositions du titre III de
 l'ordonnance n° 67-830 du 27 septembre 1967 et des textes pris pour son
-application (1) ;
+application ;
 
 7° (Disposition devenue sans objet : décret n° 83-359 du 2 mai 1983, art. 21) ;
 
@@ -85,14 +84,13 @@ application (1) ;
 9° (Disposition périmée).
 
 10° Les chèques-vacances institués par l'ordonnance n° 82-283 du 26 mars 1982
-portant création des chèques-vacances.
+modifiée portant création des chèques-vacances.
 
 11° Les offres préalables de prêts rédigés conformément aux dispositions des
 chapitres II et III du titre I du livre III du code de la consommation ;
 
 12° Les conventions d'ouverture d'un compte pour le développement industriel
-(CODEVI) prévues à l'article 4 du décret n° 83-872 du 30 septembre 1983 ; cette
-disposition s'applique à compter du 3 octobre 1983 ;
+(CODEVI) prévues à l'article 4 du décret n° 83-872 du 30 septembre 1983 ;
 
 13° Les contrats de prêt sur gage consentis par les caisses de crédit municipal
 ;
@@ -104,17 +102,7 @@ actions ainsi que des sociétés civiles à objet agricole ;
 15° Les prêts de titres effectués dans les conditions du chapitre V de la loi n°
 87-416 du 17 juin 1987 sur l'épargne et les remises en garantie de valeurs,
 titres, effets ou sommes d'argent prévues à l'article 52 de la loi n° 96-597 du
-2 juillet 1996 de modernisation des activités financières (2) ;
+2 juillet 1996 de modernisation des activités financières ;
 
 16° Les titres émis conformément aux dispositions de l'article L. 1611-6 du code
-général des collectivités territoriales (3).
-
-(1) Décret n° 67-1165 du 22 décembre 1967 et arrêté du même jour.
-
-(2) Loi 98-1267 1998-12-30 art. 27 XV : Ces dispositions sont applicables à
-compter de la date d'entrée en vigueur de la loi n° 96-597 du 2 juillet 1996 de
-modernisation des activités financières.
-
-(3) Ces dispositions sont applicables aux associations de solidarité agréées au
-plan national par l'Etat à cet effet, voir Loi 98-657 du 29 juillet 1998 art.
-138 III JORF 31 juillet 1998.
+général des collectivités territoriales.

@@ -2,48 +2,50 @@ Article 41 octies
 ----
 I. - 1. Les entreprises mentionnées au I de l'article 41 septies qui veulent
 utiliser un système de télétransmission de factures doivent déposer une
-déclaration conforme au modèle figurant en annexe. Cette déclaration indique que
-le système de télétransmission est conforme aux normes prévues et décrit les
+déclaration conforme au modèle figurant en annexe de l'arrêté du 3 mai 1999 pris
+pour l'application de l'article 289 bis du code général des impôts relatif aux
+factures transmises par voie télématique. Cette déclaration indique que le
+système de télétransmission est conforme aux normes prévues et décrit les
 caractéristiques principales du système. Elle doit comprendre les éléments
 suivants :
 
-A. - Renseignements relatifs à l'entreprise :
+a. - Renseignements relatifs à l'entreprise :
 
-a) La dénomination, l'adresse et l'activité de l'entreprise ;
+1°) La dénomination, l'adresse et l'activité de l'entreprise ;
 
-b) Son numéro SIRET ;
+2°) Son numéro SIRET ;
 
-c) Le lieu de situation de la (des) station(s) de dématérialisation ;
+3°) Le lieu de situation de la (des) station(s) de dématérialisation ;
 
-d) Les coordonnées du service responsable de la télétransmission ;
+4°) Les coordonnées du service responsable de la télétransmission ;
 
-e) Le cas échéant, la dénomination, l'adresse et le numéro SIRET du prestataire
+5°) Le cas échéant, la dénomination, l'adresse et le numéro SIRET du prestataire
 assurant la dématérialisation ;
 
-f) La qualité de fournisseur/émetteur et/ou de client/récepteur ;
+6°) La qualité de fournisseur/émetteur et/ou de client/récepteur ;
 
-g) La date de la première mise en oeuvre de la télétransmission des factures.
+7°) La date de la première mise en oeuvre de la télétransmission des factures.
 
-B. - Renseignements relatifs au logiciel :
+b. - Renseignements relatifs au logiciel :
 
-a) Le nom du logiciel et sa version ;
+1°) Le nom du logiciel et sa version ;
 
-b) Son développement interne ou externe. Dans ce dernier cas, le nom et
+2°) Son développement interne ou externe. Dans ce dernier cas, le nom et
 l'adresse de la société ayant développé le logiciel ;
 
-c) Le numéro de référencement délivré initialement par l'administration lorsque
+3°) Le numéro de référencement délivré initialement par l'administration lorsque
 le système de télétransmission de factures qui doit être utilisé a été autorisé
 et référencé par l'administration dans le cadre du régime précédent.
 
-C. - Renseignements concernant la ou les structures du message facture :
+c. - Renseignements concernant la ou les structures du message facture :
 
 - ses normes et les versions utilisées.
 
-D. - Renseignements relatifs au matériel :
+d. - Renseignements relatifs au matériel :
 
 - son modèle et son système d'exploitation.
 
-E. - Renseignements relatifs aux partenaires :
+e. - Renseignements relatifs aux partenaires :
 
 - la liste des dix principaux partenaires.
 

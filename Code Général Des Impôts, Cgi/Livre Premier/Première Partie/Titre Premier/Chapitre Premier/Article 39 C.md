@@ -31,10 +31,19 @@ l'impôt sur le revenu lorsque les mises à disposition, sauf celles de biens mi
 par une entreprise à la disposition de l'un de ses dirigeants ou d'un membre de
 son personnel, sont intervenues antérieurement à la même date.
 
-L'entreprise qui donne en location un bien dans les conditions prévues au 1° de
-l'article 1er de la loi n° 66-455 du 2 juillet 1966 relative aux entreprises
-pratiquant le crédit-bail ne peut constituer une provision pour prendre en
-compte la différence entre la valeur résiduelle du bien et le prix convenu pour
-l'acceptation de la promesse unilatérale de vente.
+Par dérogation aux dispositions du premier alinéa, les entreprises donnant en
+location des biens dans les conditions prévues aux 1° et 2° de l'article 1er de
+la loi n° 66-455 du 2 juillet 1966 relative aux entreprises pratiquant le
+crédit-bail peuvent, sur option, répartir l'amortissement de ces biens sur la
+durée des contrats de crédit-bail correspondants. La dotation à l'amortissement
+de chaque exercice est alors égale à la fraction du loyer acquise au titre de
+cet exercice, qui correspond à l'amortissement du capital engagé pour
+l'acquisition des biens donnés à bail.
+
+Si l'option mentionnée à l'alinéa précédent est exercée, elle s'applique à
+l'ensemble des biens affectés à des opérations de crédit-bail. Toutefois, les
+sociétés mentionnées à l'article 30 de la loi n° 80-531 du 15 juillet 1980
+relative aux économies d'énergie et à l'utilisation de la chaleur pourront
+exercer cette option contrat par contrat.
 
 (1) Annexe II, art. 30 à 32.

@@ -54,25 +54,25 @@ leur effort fiscal ne soit inférieur à 90 p. 100 de l'effort fiscal moyen des
 communes appartenant au même groupe démographique, bénéficient d'une attribution
 dans les conditions définies au IV.
 
-((III bis. - Bénéficient également du fonds les fonds départementaux de
+III bis. - Bénéficient également du fonds les fonds départementaux de
 péréquation de la taxe professionnelle visés à l'article 1648 A qui, à la suite
 d'un changement d'exploitant intervenu après le 1er janvier 1997 et concernant
 des entreprises visées à l'article 1471, enregistrent une perte de ressources
 supérieure au quart des ressources dont ils bénéficiaient l'année de survenance
 de ce changement.
 
-((Cette attribution est versée de manière dégressive sur trois ans. Les fonds
+Cette attribution est versée de manière dégressive sur trois ans. Les fonds
 éligibles bénéficient :
 
-((1° la première année, d'une attribution égale à 90 % de la perte subie ;
+1° la première année, d'une attribution égale à 90 % de la perte subie ;
 
-((2° la deuxième année, de 75 % de l'attribution reçue l'année précédente ;
+2° la deuxième année, de 75 % de l'attribution reçue l'année précédente ;
 
-((3° la troisième année, de 50 % de l'attribution reçue la première année)) (M).
+3° la troisième année, de 50 % de l'attribution reçue la première année.
 
-IV. ((Outre les attributions versées aux fonds départementaux de péréquation de
-la taxe professionnelle en application du III bis, le produit)) (M) défini au 1°
-du I est réparti dans les conditions suivantes :
+IV. Outre les attributions versées aux fonds départementaux de péréquation de la
+taxe professionnelle en application du III bis, le produit défini au 1° du I est
+réparti dans les conditions suivantes :
 
 L'attribution par habitant revenant à chaque commune de métropole éligible est
 déterminée en proportion de l'écart relatif entre le potentiel fiscal moyen par
@@ -97,7 +97,10 @@ deux alinéas précédents.
 
 Lorsqu'une commune ne dispose d'aucune ressource au titre des quatre taxes
 directes locales, l'attribution par habitant revenant à la commune est égale à
-huit fois l'attribution moyenne nationale par habitant.
+huit fois l'attribution moyenne nationale par habitant. Cette attribution est
+portée à douze fois l'attribution nationale moyenne par habitant lorsque les
+communes concernées sont membres d'un établissement public de coopération
+intercommunale à fiscalité propre.
 
 A compter de 1995, le montant total des attributions revenant en métropole aux
 communes éligibles comptant 200 000 habitants et plus est égal au produit de
@@ -117,5 +120,3 @@ démographique.
 
 VI. Aucune attribution calculée en application des alinéas précédents n'est
 versée si son montant est inférieur ou égal à 2 000 F.
-
-(M) Modification.

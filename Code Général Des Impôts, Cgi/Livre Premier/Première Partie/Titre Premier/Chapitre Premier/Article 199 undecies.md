@@ -133,7 +133,7 @@ sous le bénéfice de l'article 210 B ou si la société qui en est propriétair
 fait l'objet d'une fusion placée sous le régime de l'article 210 A, à la
 condition que la société bénéficiaire de l'apport, ou la société absorbante
 selon le cas, réponde aux conditions du 1 et s'engage dans l'acte d'apport ou de
-fusion à respecter les engagements mentionnés au huitième alinéa du 1 pour la
+fusion à respecter les engagements mentionnés au troisième alinéa du 1 pour la
 fraction du délai restant à courir.
 
 Quand un contribuable pratique la réduction d'impôt définie au présent article,

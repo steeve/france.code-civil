@@ -59,26 +59,19 @@ scissions, apports ou opérations assimilées, il est fait abstraction pour le
 calcul de la variation des dépenses de formation de la part de cette variation
 provenant exclusivement du transfert.
 
-IV. Les dispositions du présent article s'appliquent aux dépenses de formation
-exposées au cours des années 1994 à 1998 par les entreprises qui ont fait
-application du crédit d'impôt formation au titre de l'année 1993 ou par celles
-qui n'en ont jamais bénéficié, sur option irrévocable jusq'au terme de cette
-période. L'option doit être exercée au titre de 1994, au titre de l'année de
-création de l'entreprise, ou au titre de la première année au cours de laquelle
-elle réalise ses premières dépenses de formation éligibles au crédit d'impôt
-formation.
+IV. (Périmé).
+
+IV-0 bis. Les dispositions du présent article s'appliquent aux dépenses de
+formation exposées au cours des années 1999 à 2001 par les entreprises qui ont
+fait application du crédit d'impôt formation au titre de l'année 1998 ou par
+celles qui n'en ont jamais bénéficié, sur option irrévocable jusqu'au terme de
+cette période. L'option doit être exercée au titre de 1999 ou au titre de la
+première année au cours de laquelle l'entreprise réalise ses premières dépenses
+de formation éligibles au crédit d'impôt formation.
 
 IV bis. Les entreprises doivent joindre à leur déclaration de résultats une
 attestation visée par l'inspection de l'éducation nationale ou l'inspection de
 l'enseignement agricole qui précise pour chaque élève accueilli l'établissement
 scolaire et la durée de la formation au cours de l'année.
-
-IV 0 bis. Les dispositions du présent article s'appliquent également aux
-dépenses de formation exposées au cours des années 1999 à 2001 par les
-entreprises qui ont fait application du crédit d'impôt formation au titre de
-l'année 1998 ou par celles qui n'en ont jamais bénéficié, sur option irrévocable
-jusqu'au terme de cette période. L'option doit être exercée au titre de 1999 ou
-au titre de la première année au cours de laquelle l'entreprise réalise ses
-premières dépenses de formation éligibles au crédit d'impôt formation.
 
 V. Un décret fixe les conditions d'application du présent article.

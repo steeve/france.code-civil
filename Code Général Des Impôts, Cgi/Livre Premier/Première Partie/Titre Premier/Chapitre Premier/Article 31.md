@@ -62,21 +62,19 @@ dispositions prévues au premier alinéa sont fixées par décret (1) ;
 
 c) Les impositions, autres que celles incombant normalement à l'occupant,
 perçues, à raison desdites propriétés, au profit des collectivités locales, de
-certains établissements publics ou d'organismes divers ainsi que la ((taxe
+certains établissements publics ou d'organismes divers ainsi que la taxe
 annuelle sur les locaux à usage de bureaux, les locaux commerciaux et les locaux
-de stockage)) (M) perçue dans la région d'Ile-de-France prévue à l'article 231
-ter ;
+de stockage perçue dans la région d'Ile-de-France prévue à l'article 231 ter ;
 
 d) Les intérêts de dettes contractées pour la conservation, l'acquisition, la
 construction, la réparation ou l'amélioration des propriétés ;
 
 e) Une déduction forfaitaire fixée à 14 % des revenus bruts et représentant les
 frais de gestion, l'assurance à l'exclusion de celle visée au a bis et
-l'amortissement. Lorsque ((l'une des options prévues au f et au g)) (M) est
-exercée, la déduction, fixée à 6 p. 100, représente les frais de gestion et
-l'assurance à l'exclusion de celle visée au a bis. ((La déduction forfaitaire au
-taux de 14 % est de nouveau applicable à l'expiration de l'application du régime
-visé au g)) (M) ;
+l'amortissement. Lorsque l'une des options prévues au f et au g est exercée, la
+déduction, fixée à 6 p. 100, représente les frais de gestion et l'assurance à
+l'exclusion de celle visée au a bis. La déduction forfaitaire au taux de 14 %
+est de nouveau applicable à l'expiration de l'application du régime visé au g ;
 
 Le taux de cette déduction est porté à 35 p. 100 pour les revenus des dix
 premières années de location des logements ouvrant droit à la réduction visée au
@@ -103,7 +101,7 @@ Le taux de 35 p. 100 mentionné au deuxième alinéa est ramené à 25 p. 100 po
 les investissements qui ouvrent droit à la réduction d'impôt dans les conditions
 mentionnées au I de l'article 199 decies A.
 
-((Le taux de déduction mentionné au premier alinéa est fixé à 25 % pour les
+Le taux de déduction mentionné au premier alinéa est fixé à 25 % pour les
 revenus des six premières années de location des logements qui ne peuvent donner
 lieu à l'un ou l'autre des régimes prévus au f et au g et qui, répondant aux
 normes d'habitabilité telles que définies par décret, sont loués par une
@@ -120,37 +118,37 @@ sur les sociétés, l'un de ses associés ou un membre du foyer fiscal, un
 ascendant ou un descendant d'un associé. Les associés des sociétés précitées
 s'engagent à conserver leurs parts pendant au moins six ans.
 
-((La location du logement consentie à un organisme public ou privé pour le
+La location du logement consentie à un organisme public ou privé pour le
 logement à usage d'habitation principale de son personnel, à l'exclusion du
 propriétaire du logement, de son conjoint, de membres de son foyer fiscal ou de
 ses descendants ou ascendants, ne fait pas obstacle au bénéfice de la déduction.
 Un décret précise les conditions de cette location, notamment les modalités
 d'appréciation des loyers et des ressources de l'occupant.
 
-((Lorsque le bénéficiaire de l'une des allocations de logement prévues aux
+Lorsque le bénéficiaire de l'une des allocations de logement prévues aux
 articles L. 542-1 et L. 831-1 du code de la sécurité sociale est locataire d'un
 logement ouvrant droit aux dispositions du sixième alinéa, cette allocation est
 versée au bailleur.
 
-((En cas de non-respect de l'un des engagements mentionnés au cinquième alinéa
-ou de cession du logement ou des parts sociales, le supplément de déduction
+En cas de non-respect de l'un des engagements mentionnés au cinquième alinéa ou
+de cession du logement ou des parts sociales, le supplément de déduction
 forfaitaire fait l'objet d'une reprise au titre de l'année de la rupture de
 l'engagement ou de la cession. En cas d'invalidité correspondant au classement
 dans la deuxième ou la troisième des catégories prévues à l'article L. 341-4 du
 code de la sécurité sociale, de licenciement ou de décès du contribuable ou de
 l'un des époux soumis à imposition commune, cette reprise n'est pas appliquée.
 
-((Tant que la condition de loyer prévue au cinquième alinéa demeure remplie, le
+Tant que la condition de loyer prévue au cinquième alinéa demeure remplie, le
 bénéfice du taux majoré est prorogé par périodes de trois ans, en cas de
 poursuite, de reconduction ou de renouvellement du contrat de location.
 
-((Sous réserve que les conditions de loyer et de ressources du nouveau locataire
+Sous réserve que les conditions de loyer et de ressources du nouveau locataire
 prévues au cinquième alinéa soient remplies, le taux majoré demeure également
-applicable en cas de changement de titulaire du bail)) (M).
+applicable en cas de changement de titulaire du bail.
 
-((Le taux de déduction mentionné à la première phrase du premier alinéa est fixé
-à 6 % pour les revenus des neuf premières années de location des logements
-ouvrant droit à la réduction d'impôt prévue à l'article 199 decies E)) (M).
+Le taux de déduction mentionné à la première phrase du premier alinéa est fixé à
+6 % pour les revenus des neuf premières années de location des logements ouvrant
+droit à la réduction d'impôt prévue à l'article 199 decies E.
 
 f. pour les logements situés en France, acquis neufs ou en l'état futur
 d'achèvement entre le 1er janvier 1996 et le 31 décembre 1998 et à la demande du
@@ -220,28 +218,28 @@ majoration ne s'applique pas.
 Pour un même logement, les dispositions du présent f sont exclusives de
 l'application des dispositions des articles 199 nonies à 199 undecies.
 
-((Les dispositions du présent f s'appliquent, sous les mêmes conditions, aux
+Les dispositions du présent f s'appliquent, sous les mêmes conditions, aux
 logements acquis neufs ou en l'état futur d'achèvement entre le 1er janvier 1999
 et le 31 août 1999 lorsque les conditions suivantes sont réunies :
 
-((1. Le permis de construire prévu à l'article L. 421-1 du code de l'urbanisme
+1. Le permis de construire prévu à l'article L. 421-1 du code de l'urbanisme
 doit avoir été délivré avant le 1er janvier 1999 ;
 
-((2. La construction des logements doit avoir été achevée avant le 1er janvier
+2. La construction des logements doit avoir été achevée avant le 1er juillet
 2001.
 
-((Pour l'application des dispositions du neuvième alinéa, les contribuables
+Pour l'application des dispositions du neuvième alinéa, les contribuables
 doivent joindre à la déclaration des revenus mentionnée au troisième alinéa une
 copie de la notification de l'arrêté délivrant le permis de construire et de la
 déclaration d'achèvement des travaux accompagnée des pièces attestant de sa
-réception en mairie)) (M).
+réception en mairie.
 
 Un décret en Conseil d'Etat détermine les modalités d'application du présent f,
 notamment les obligations déclaratives incombant aux contribuables et aux
 sociétés qui y sont mentionnés, ainsi que les modalités de décompte des
 déductions pratiquées au titre des amortissements considérés (2) ;
 
-((g) Pour les logements situés en France, acquis neufs ou en l'état futur
+g) Pour les logements situés en France, acquis neufs ou en l'état futur
 d'achèvement à compter du 1er janvier 1999, et à la demande du contribuable, une
 déduction au titre de l'amortissement égale à 8 % du prix d'acquisition du
 logement pour les cinq premières années et à 2,5 % de ce prix pour les quatre
@@ -249,7 +247,7 @@ années suivantes. La période d'amortissement a pour point de départ le premie
 jour du mois de l'achèvement de l'immeuble ou de son acquisition si elle est
 postérieure.
 
-((La déduction au titre de l'amortissement est applicable, dans les mêmes
+La déduction au titre de l'amortissement est applicable, dans les mêmes
 conditions, aux logements que le contribuable fait construire et qui ont fait
 l'objet, à compter du 1er janvier 1999, de la déclaration d'ouverture de
 chantier prévue à l'article R. 421-40 du code de l'urbanisme. Il en est de même
@@ -260,7 +258,7 @@ locaux augmenté du montant des travaux de transformation. La période
 d'amortissement a pour point de départ le premier jour du mois de l'achèvement
 de ces travaux.
 
-((Le bénéfice de la déduction est subordonné à une option qui doit être exercée
+Le bénéfice de la déduction est subordonné à une option qui doit être exercée
 lors du dépôt de la déclaration des revenus de l'année d'achèvement de
 l'immeuble ou de son acquisition si elle est postérieure. Cette option est
 irrévocable pour le logement considéré et comporte l'engagement du propriétaire
@@ -276,7 +274,7 @@ usage d'habitation principale de son personnel, à l'exclusion du propriétaire 
 logement, de son conjoint, de membres de son foyer fiscal ou de ses descendants
 et ascendants, ne fait pas obstacle au bénéfice de la déduction.
 
-((A l'issue de la période couverte par l'engagement de location, tant que la
+A l'issue de la période couverte par l'engagement de location, tant que la
 condition de loyer prévue au troisième alinéa reste remplie, le propriétaire
 peut, par période de trois ans et pendant une durée maximale de six ans,
 bénéficier d'une déduction au titre de l'amortissement égale à 2,5 % du prix
@@ -290,7 +288,7 @@ les conditions de loyer et de ressources prévues au e soient remplies, le
 propriétaire peut bénéficier de la déduction forfaitaire majorée au taux de 25
 %, qu'il y ait ou non changement de titulaire du bail.
 
-((La déduction au titre de l'amortissement n'est pas applicable aux revenus des
+La déduction au titre de l'amortissement n'est pas applicable aux revenus des
 immeubles dont le droit de propriété est démembré. Toutefois, lorsque le
 transfert de la propriété du bien ou le démembrement de ce droit résulte du
 décès de l'un des époux soumis à imposition commune, le conjoint survivant
@@ -298,10 +296,10 @@ attributaire du bien ou titulaire de son usufruit peut demander la reprise à so
 profit, dans les mêmes conditions et selon les mêmes modalités, du dispositif
 prévu au présent g pour la période restant à courir à la date du décès.
 
-((Lorsque l'option est exercée, les dispositions du b ne sont pas applicables,
+Lorsque l'option est exercée, les dispositions du b ne sont pas applicables,
 mais les droits suivants sont ouverts :
 
-((1. Les dépenses de reconstruction et d'agrandissement ouvrent droit à une
+1. Les dépenses de reconstruction et d'agrandissement ouvrent droit à une
 déduction, au titre de l'amortissement, égale à 8 % du montant des dépenses pour
 les cinq premières années et à 2,5 % de ce montant pour les quatre années
 suivantes. Le propriétaire doit s'engager à louer le logement dans les
@@ -320,13 +318,13 @@ et de ressources prévues au e soient remplies, le propriétaire peut bénéfici
 de la déduction forfaitaire majorée au taux de 25 %, qu'il y ait ou non
 changement de titulaire du bail ;
 
-((2. Les dépenses d'amélioration ouvrent droit à une déduction, au titre de
+2. Les dépenses d'amélioration ouvrent droit à une déduction, au titre de
 l'amortissement, égale à 10 % du montant de la dépense pendant dix ans.
 
-((La période d'amortissement a pour point de départ le premier jour du mois
+La période d'amortissement a pour point de départ le premier jour du mois
 d'achèvement des travaux.
 
-((Les dispositions du présent g s'appliquent dans les mêmes conditions lorsque
+Les dispositions du présent g s'appliquent dans les mêmes conditions lorsque
 l'immeuble est la propriété d'une société non soumise à l'impôt sur les
 sociétés, à la condition que le porteur de parts s'engage à conserver la
 totalité de ses titres jusqu'à l'expiration de la durée de neuf ans mentionnée
@@ -342,7 +340,7 @@ de leur usufruit peut demander la reprise à son profit, dans les mêmes
 conditions et selon les mêmes modalités, du dispositif prévu au présent g pour
 la période restant à courir à la date du décès.
 
-((Le revenu net foncier de l'année au cours de laquelle l'un des engagements
+Le revenu net foncier de l'année au cours de laquelle l'un des engagements
 définis au présent g n'est pas respecté est majoré du montant des amortissements
 déduits. Pour son imposition, la fraction du revenu net foncier correspondant à
 cette majoration est divisée par le nombre d'années civiles pendant lesquelles
@@ -355,13 +353,13 @@ L. 341-4 du code de la sécurité sociale, de licenciement ou de décès du
 contribuable ou de l'un des époux soumis à imposition commune, cette majoration
 ne s'applique pas.
 
-((Lorsque le bénéficiaire de l'une des allocations de logement prévues aux
+Lorsque le bénéficiaire de l'une des allocations de logement prévues aux
 articles L. 542-1 et L. 831-1 du code de la sécurité sociale est locataire d'un
 logement ouvrant droit aux dispositions du huitième alinéa, cette allocation est
 versée au bailleur.
 
-((Pour un même logement, les dispositions du présent g sont exclusives de
-l'application des dispositions de l'article 199 undecies)) (M) (3).
+Pour un même logement, les dispositions du présent g sont exclusives de
+l'application des dispositions de l'article 199 undecies (3).
 
 2° Pour les propriétés rurales :
 
@@ -397,8 +395,6 @@ e) (Devenu sans objet).
 II. (Transféré sous l'article 156 II 1° ter).
 
 (1) Voir Annexe III, art. 41 DP à 41 DR.
-
-(M) Modification.
 
 (2) Voir Annexe II, art. 1 à 1 D.
 

@@ -18,15 +18,16 @@ géographique et par nature ou catégorie de biens.
 Ils sont arrêtés par le directeur des services fiscaux, après avis d'une
 commission consultative départementale des évaluations foncières dont la
 composition, dans laquelle entrent notamment des représentants des collectivités
-locales et de leurs groupements (communautés urbaines ou districts) ainsi que
-des contribuables, est déterminée par un arrêté du ministre de l'économie et des
-finances (2). Les coefficients sont notifiés aux maires des communes intéressées
-et aux présidents des communautés urbaines et des districts. Après application
-de la procédure d'affichage dans les conditions prévues à l'article 1510 ils
-peuvent, dans les trente jours, faire l'objet d'un recours administratif de la
-part du maire ou des représentants des contribuables siégeant à la commission
-consultative. Ce recours est porté devant la commission instituée par l'article
-1651, laquelle prend une décision définitive.
+locales et des établissements publics de coopération intercommunale à fiscalité
+propre ainsi que des contribuables, est déterminée par un arrêté du ministre de
+l'économie et des finances (2). Les coefficients sont notifiés aux maires des
+communes intéressées et aux présidents des établissements publics de coopération
+intercommunale à fiscalité propre. Après application de la procédure d'affichage
+dans les conditions prévues à l'article 1510 ils peuvent, dans les trente jours,
+faire l'objet d'un recours administratif de la part du maire ou des
+représentants des contribuables siégeant à la commission consultative. Ce
+recours est porté devant la commission instituée par l'article 1651, laquelle
+prend une décision définitive.
 
 II bis Pour l'application du présent article la valeur locative de l'ensemble
 des locaux à usage d'habitation ou professionnel peut être actualisée au moyen

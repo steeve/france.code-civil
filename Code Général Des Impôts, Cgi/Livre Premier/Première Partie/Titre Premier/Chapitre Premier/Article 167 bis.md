@@ -3,7 +3,8 @@ Article 167 bis
 I. - 1. Les contribuables fiscalement domiciliés en France pendant au moins six
 années au cours des dix dernières années sont imposables, à la date du transfert
 de leur domicile hors de France, au titre des plus-values constatées sur les
-droits sociaux mentionnés à l'article 160.
+droits sociaux mentionnés à l'article 150-0 A et détenus dans les conditions du
+f de l'article 164 B.
 
 2. La plus-value constatée est déterminée par différence entre la valeur des
 droits sociaux à la date du transfert du domicile hors de France, déterminée

@@ -22,7 +22,8 @@ arrêté du ministre chargé du budget publié au Journal officiel, en fonction 
 l'évolution prévisionnelle en moyenne annuelle pour l'année suivante des prix à
 la consommation de tous les ménages hors les prix du tabac. Les évolutions
 prévisionnelles prises en compte sont celles qui figurent au rapport économique,
-social et financier annexé au dernier projet de loi de finances.
+social et financier annexé au dernier projet de loi de finances. Ces taux sont
+fixés comme suit :
 
 Huile d'olive, 0,981 F/Kg, 0,883 F/litre
 

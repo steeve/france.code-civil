@@ -4,8 +4,8 @@ I. Sont soumises à la taxe sur la valeur ajoutée les livraisons de biens et le
 prestations de services effectuées à titre onéreux par un assujetti agissant en
 tant que tel.
 
-II. 1° Est considéré comme livraison d'un bien [*définition*], le transfert du
-pouvoir de disposer d'un bien meuble corporel comme un propriétaire.
+II. 1° Est considéré comme livraison d'un bien, le transfert du pouvoir de
+disposer d'un bien meuble corporel comme un propriétaire.
 
 2° Sont notamment considérés comme des biens meubles corporels :
 
@@ -16,7 +16,7 @@ l'électricité, le gaz, la chaleur, le froid et les biens similaires.
 a) Le transfert de propriété d'un bien meuble corporel opéré en vertu d'une
 réquisition de l'autorité publique ;
 
-b) (Abrogé par la loi 95-1347) ;
+b) (Abrogé à compter du 1er janvier 1996).
 
 c) La remise matérielle d'un bien meuble corporel en vertu d'un contrat qui
 prévoit la location de ce bien pendant une certaine période ou sa vente à
@@ -47,10 +47,14 @@ transporté en France à destination de cet assujetti ;
 
 c) A faire l'objet d'une installation ou d'un montage.
 
+d. A faire l'objet de livraisons à bord des moyens de transport, effectuées par
+l'assujetti, dans les conditions mentionnées au c du 1 de l'article 8 de la
+directive 77/388/CEE du Conseil du 17 mai 1977 (1).
+
 IV. 1° Les opérations autres que celles qui sont définies au II, notamment la
 cession ou la concession de biens meubles incorporels, le fait de s'obliger à ne
-pas faire ou à tolérer un acte ou une situation, ((les opérations de façon)) (M)
-et les travaux immobiliers, sont considérés comme des prestations de services ;
+pas faire ou à tolérer un acte ou une situation, les opérations de façon et les
+travaux immobiliers, sont considérés comme des prestations de services ;
 
 2° Sont également considérées comme des prestations de services (Disposition à
 caractère interprétatif) :
@@ -62,10 +66,11 @@ l'exception des monnaies et billets de collection.
 Le chiffre d'affaires afférent à ces opérations est constitué par le montant des
 profits et autres rémunérations.
 
-Sont considérés comme des monnaies et billets de collection, les pièces en or,
-en argent ou autre métal, ainsi que les billets qui ne sont pas normalement
-utilisés dans leur fonction comme moyen de paiement légal ou qui présentent un
-intérêt numismatique ;
+Sont considérés comme des monnaies et billets de collection, les pièces en or
+autres que celles visées au 2 de l'article 298 sexdecies A en argent ou autre
+métal, ainsi que les billets qui ne sont pas normalement utilisés dans leur
+fonction comme moyen de paiement légal ou qui présentent un intérêt numismatique
+;
 
 b) Les opérations portant sur les actions, les parts de sociétés ou
 d'associations, les obligations et les autres titres, à l'exclusion des titres
@@ -81,5 +86,3 @@ V. L'assujetti, agissant en son nom propre mais pour le compte d'autrui, qui
 s'entremet dans une livraison de bien ou une prestation de services, est réputé
 avoir personnellement acquis et livré le bien, ou reçu et fourni les services
 considérés.
-
-(M) Modification de la loi.
