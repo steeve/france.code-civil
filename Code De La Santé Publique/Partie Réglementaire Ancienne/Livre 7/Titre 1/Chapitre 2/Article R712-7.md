@@ -1,8 +1,8 @@
 Article R712-7
 ----
-La carte sanitaire est arrêtée par le préfet de région, après avis des préfets
-de départements et dans les conditions fixées au deuxième alinéa de l'article L.
-712-5 :
+La carte sanitaire est arrêtée par le directeur de l'agence régionale de
+l'hospitalisation, après avis des préfets de départements et dans les conditions
+fixées au deuxième alinéa de l'article L. 712-5 :
 
 1. Par secteur sanitaire ou groupe de secteurs sanitaires :
 
@@ -28,7 +28,8 @@ c) Pour les activités de soins énumérées aux 7° à 12° du III de l'article
 712-2.
 
 Les indices de besoins afférents aux installations, équipements et activités
-énumérés par le présent article sont fixés par le préfet de région ; lorsque des
-indices nationaux sont déterminés en ces matières par les ministres chargés de
-la santé et de la sécurité sociale et comportent un minimum et un maximum,
-ceux-ci servent de limites aux indices fixés par le préfet de région.
+énumérés par le présent article sont fixés par le directeur de l'agence
+régionale de l'hospitalisation ; lorsque des indices nationaux sont déterminés
+en ces matières par les ministres chargés de la santé et de la sécurité sociale
+et comportent un minimum et un maximum, ceux-ci servent de limites aux indices
+fixés par le directeur de l'agence régionale de l'hospitalisation.

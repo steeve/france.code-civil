@@ -5,11 +5,11 @@ soit de son ou de leur rattachement à une ou plusieurs collectivités
 territoriales différentes de la ou des collectivités territoriales d'origine,
 soit de leur fusion.
 
-Elle est décidée par arrêté du préfet de la région où est situé le siège de
-l'établissement qui en est issu, après avis du conseil d'administration du ou
-des établissements concernés et de la ou des collectivités intéressées.
-Toutefois, elle est décidée par décret lorsqu'elle concerne un établissement
-public de santé national.
+Elle est décidée par arrêté du directeur de l'agence régionale de
+l'hospitalisation de la région où est situé le siège de l'établissement qui en
+est issu, après avis du conseil d'administration du ou des établissements
+concernés et de la ou des collectivités intéressées. Toutefois, elle est décidée
+par décret lorsqu'elle concerne un établissement public de santé national.
 
 La décision définit les modalités de dévolution des éléments de l'actif et du
 passif. Il désigne la collectivité territoriale ou l'établissement public

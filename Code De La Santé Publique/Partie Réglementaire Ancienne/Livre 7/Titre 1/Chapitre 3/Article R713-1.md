@@ -33,4 +33,4 @@ sanitaire concerné.
 
 Pour l'application du présent article, il est tenu compte des lits et places
 autorisés servant à dispenser les soins mentionnés à l'article L. 711-2. Leur
-nombre est constaté par le préfet de département.
+nombre est constaté par le directeur de l'agence régionale de l'hospitalisation.

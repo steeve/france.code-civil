@@ -3,8 +3,9 @@ Article R712-41
 Les décisions d'autorisation ou de rejet explicites que prennent, après avis du
 Comité national ou du comité régional de l'organisation sanitaire et sociale et
 dans les conditions fixées à l'article L. 712-16, le ministre chargé de la santé
-ou le préfet de région, doivent être motivées. Elles sont notifiées par lettre
-recommandée avec avis de réception au demandeur de l'autorisation.
+ou la commission exécutive de l'agence régionale de l'hospitalisation, doivent
+être motivées. Elles sont notifiées par lettre recommandée avec avis de
+réception au demandeur de l'autorisation.
 
 La demande de communication des motifs d'une décision implicite rejetant soit
 une demande d'autorisation, soit un recours hiérarchique dirigé contre un refus

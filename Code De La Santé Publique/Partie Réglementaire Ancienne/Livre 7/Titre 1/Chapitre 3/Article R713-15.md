@@ -1,8 +1,8 @@
 Article R713-15
 ----
 Les procès-verbaux des séances sont signés par le président. Ils sont transmis
-dans un délai de quinze jours au préfet du, ou des départements, dans lequel est
-situé le secteur. Ils sont conservés dans un registre spécial au siège de la
+dans un délai de quinze jours au directeur de l'agence régionale de
+l'hospitalisation. Ils sont conservés dans un registre spécial au siège de la
 conférence.
 
 Ce registre est tenu à la disposition des membres de la conférence qui peuvent

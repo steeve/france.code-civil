@@ -1,9 +1,10 @@
 Article R712-40
 ----
 Les demandes d'autorisation et de renouvellement d'autorisation ne peuvent,
-après transmission du préfet du département, être examinées par le préfet de
-région ou le ministre chargé de la santé que si elles sont accompagnées d'un
-dossier justificatif complet.
+après transmission du directeur départemental des affaires sanitaires et
+sociales du département, être examinées par la commission exécutive de l'agence
+régionale de l'hospitalisation ou le ministre chargé de la santé que si elles
+sont accompagnées d'un dossier justificatif complet.
 
 I. - Ce dossier, dont la composition est arrêtée par les ministres chargés de la
 santé et de la sécurité sociale, doit notamment comporter les éléments
@@ -34,9 +35,9 @@ l'établissement, les modalités de financement du projet et une présentation d
 compte ou budget prévisionnel d'exploitation.
 
 II. - Le dossier est réputé complet si, dans le délai d'un mois à compter de sa
-réception, le préfet de département n'a pas fait connaître au demandeur, par
-lettre recommandée avec demande d'avis de réception, la liste des pièces
-manquantes ou incomplètes.
+réception, le directeur départemental des affaires sanitaires et sociales du
+département n'a pas fait connaître au demandeur, par lettre recommandée avec
+demande d'avis de réception, la liste des pièces manquantes ou incomplètes.
 
 Dans le cas où le dossier était incomplet et n'a pas été complété à la date de
 clôture de la période de réception concernée, le délai de six mois mentionné au

@@ -6,7 +6,8 @@ a) Les établissements publics de santé nationaux sont créés par décret apr�
 avis du Comité national de l'organisation sanitaire et sociale ;
 
 b) Les établissements publics de santé communaux, intercommunaux, départementaux
-et interdépartementaux sont créés par arrêté du préfet de la région où est situé
-la siège de l'établissement, sur la demande ou après avis de la ou des
-collectivités territoriales de rattachement et après avis du comité régional de
-l'organisation sanitaire et sociale.
+et interdépartementaux sont créés par arrêté du directeur de l'agence régionale
+de l'hospitalisation de la région où est situé la siège de l'établissement, sur
+la demande ou après avis de la ou des collectivités territoriales de
+rattachement et après avis du comité régional de l'organisation sanitaire et
+sociale.

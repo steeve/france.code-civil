@@ -8,5 +8,5 @@ de blessés, et en vue d'effectuer les actes de biologie nécessaires aux soins
 des malades. Copie de cette convention signée doit être fournie dans un délai de
 deux mois après le dépôt de la demande.
 
-Le préfet est habilité à vérifier le contenu et les modalités d'exécution de
-cette convention.
+Le directeur de l'agence régionale de l'hospitalisation est habilité à vérifier
+le contenu et les modalités d'exécution de cette convention.

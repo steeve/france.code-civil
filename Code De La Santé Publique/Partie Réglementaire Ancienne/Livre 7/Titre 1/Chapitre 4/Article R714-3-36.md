@@ -7,4 +7,5 @@ régionale d'assurance maladie et à la caisse chargée du versement de la dotat
 globale.
 
 En outre, cet arrêté est inséré au recueil des actes administratifs de la
-préfecture du département.
+préfecture du département où l'agence a son siège, ainsi qu'à celui de la
+préfecture du département où l'établissement a son siège.

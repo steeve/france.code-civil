@@ -8,9 +8,10 @@ territoriale de Corse constitue une région sanitaire.
 La région est découpée en secteurs sanitaires et secteurs psychiatriques.
 
 Les limites des secteurs sanitaires et des secteurs psychiatriques sont arrêtées
-par le préfet de région qui constitue en tant que de besoin des groupes de
-secteurs psychiatriques et des groupes de secteurs sanitaires ; ces décisions
-sont prises après avis des préfets de départements.
+par le directeur de l'agence régionale de l'hospitalisation qui constitue en
+tant que de besoin des groupes de secteurs psychiatriques et des groupes de
+secteurs sanitaires ; ces décisions sont prises après avis des préfets de
+départements.
 
 La population minimum du secteur sanitaire est déterminée par arrêté des
 ministres chargés de la santé et de la sécurité sociale ; toutefois, lorsqu'un

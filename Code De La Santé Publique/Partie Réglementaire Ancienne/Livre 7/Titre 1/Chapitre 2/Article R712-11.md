@@ -1,7 +1,8 @@
 Article R712-11
 ----
 Les projets de carte sanitaire et les projets de schéma d'organisation sanitaire
-ainsi que leurs annexes sont préparés par les services de l'Etat.
+ainsi que leurs annexes sont préparés par l'agence régionale de
+l'hospitalisation.
 
 Le bilan mentionné à l'article R. 712-3 est communiqué pour avis au comité
 régional de l'organisation sanitaire et sociale.

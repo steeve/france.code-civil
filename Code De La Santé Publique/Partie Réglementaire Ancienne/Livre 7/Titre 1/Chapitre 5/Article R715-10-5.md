@@ -1,8 +1,9 @@
 Article R715-10-5
 ----
-La demande est adressée au préfet de département, accompagnée d'un dossier
-justificatif comprenant, pour le ou les services, disciplines, activités de
-soins ou structures de soins faisant l'objet de la concession [*contenu*] :
+La demande est adressée au directeur de l'agence régionale de l'hospitalisation,
+accompagnée d'un dossier justificatif comprenant, pour le ou les services,
+disciplines, activités de soins ou structures de soins faisant l'objet de la
+concession [*contenu*] :
 
 a) Une note signée du demandeur exposant les raisons qui motivent sa demande de
 concession et indiquant qu'il prend les engagements mentionnés à l'article R.

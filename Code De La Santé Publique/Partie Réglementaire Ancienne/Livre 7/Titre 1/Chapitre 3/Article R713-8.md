@@ -1,8 +1,8 @@
 Article R713-8
 ----
 La conférence sanitaire se réunit sur convocation de son président ; elle doit
-être réunie à la demande écrite du préfet ou des deux tiers des membres de la
-conférence.
+être réunie à la demande écrite du directeur de l'agence régionale de
+l'hospitalisation ou des deux tiers des membres de la conférence.
 
 L'ordre du jour est fixé par le président ; celui-ci ne peut refuser d'inscrire
 les questions sur lesquelles la conférence sanitaire de secteur doit être
