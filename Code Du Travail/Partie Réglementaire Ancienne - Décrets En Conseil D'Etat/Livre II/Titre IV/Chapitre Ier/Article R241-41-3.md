@@ -1,9 +1,11 @@
 Article R241-41-3
 ----
-Dans les entreprises et établissements de plus de dix salariés, le médecin du
-travail établit et met à jour une fiche d'entreprise, sur laquelle sont
-consignés notamment les risques professionnels et les effectifs de salariés
-exposés à ces risques.
+Dans les entreprises et établissements de plus de dix salariés [*condition
+d'effectif*], le médecin du travail établit et met à jour une fiche
+d'entreprise, sur laquelle sont consignés notamment les risques professionnels
+et les effectifs de salariés exposés à ces risques. Pour l'application du
+présent article dans les entreprises de travail temporaire il n'est pas tenu
+compte des salariés qui sont liés à elles par un contrat de travail temporaire.
 
 Cette fiche est transmise à l'employeur. Elle est tenue à la disposition de
 l'inspecteur du travail et au médecin inspecteur régional du travail. Elle est
