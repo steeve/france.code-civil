@@ -1,15 +1,28 @@
 Article D162-2-6
 ----
-Le Comité économique du médicament se réunit sur convocation de son président.
-Le président fixe l'ordre du jour des séances.
+Le comité économique des produits de santé élabore son règlement intérieur. Le
+secrétariat du comité est placé auprès de la direction de la sécurité sociale.
 
-Le président recherche l'accord des membres du comité sur les dossiers qui lui
-sont présentés. En cas de désaccord, les décisions sont prises à la majorité
-simple des membres présents, sous réserve de l'absence d'opposition de l'un
-d'entre eux.
+Le président peut confier l'instruction des dossiers étudiés par le comité à des
+rapporteurs désignés conjointement par les ministres chargés de la sécurité
+sociale, de la santé et de l'économie, sur proposition du comité.
 
-Le président signe les conventions ainsi que les décisions et les avis pris en
-application des articles L. 162-16-1, L. 162-17-3, L. 162-17-4 et L. 162-18.
+Les membres du comité économique des produits de santé ainsi que les rapporteurs
+adressent au président du comité une déclaration mentionnant les liens directs
+ou indirects qu'ils peuvent avoir avec les entreprises dont les produits sont
+susceptibles de faire l'objet d'un examen devant le comité ou avec les
+organismes professionnels ou les sociétés de conseil intervenant dans ce
+secteur. Le président et les vice-présidents du comité adressent la même
+déclaration aux ministres chargés de la sécurité sociale, de la santé et de
+l'économie.
 
-En cas d'absence ou d'empêchement du président, ses pouvoirs sont exercés par le
-vice-président.
+Le président et les vice-présidents du comité, les autres membres et les
+rapporteurs s'engagent à signaler toute modification concernant ces liens. Ces
+déclarations sont publiées au Bulletin officiel du ministère chargé de la
+sécurité sociale.
+
+Le président et les vice-présidents du comité, les autres membres et les
+personnes associées ne peuvent prendre part ni aux travaux ni aux délibérations
+s'ils ont un intérêt direct ou indirect à l'affaire examinée. Les rapporteurs ne
+peuvent se voir attribuer l'examen d'un dossier s'ils ont un intérêt direct ou
+indirect dans l'entreprise concernée.

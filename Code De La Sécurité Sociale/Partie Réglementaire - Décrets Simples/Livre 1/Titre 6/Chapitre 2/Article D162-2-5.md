@@ -1,19 +1,22 @@
 Article D162-2-5
 ----
-Les ministres chargés de la sécurité sociale, de la santé, de l'économie et de
-l'industrie notifient chaque année au président du Comité économique du
-médicament, après publication de la loi de financement de la sécurité sociale,
-les orientations relatives à la politique économique du médicament, prévues à
-l'article L. 162-17-3.
+Le comité économique des produits de santé se réunit sur convocation de son
+président. Le président fixe l'ordre du jour des séances.
 
-Le Comité économique du médicament peut être saisi par les ministres compétents
-sur les questions relevant de ses attributions mentionnées à l'article L.
-162-17-3.
+Le président recherche l'accord des membres du comité sur les dossiers qui lui
+sont présentés. En cas de désaccord, les décisions du comité sont prises à la
+majorité simple des membres présents, sous réserve de l'absence d'opposition de
+l'un d'entre eux. En cas de partage égal des voix, le président a voix
+prépondérante. Il ne peut être passé outre à l'opposition d'un membre que par
+décision conjointe des ministres chargés de la santé, de la sécurité sociale et
+de l'économie.
 
-Le Comité économique du médicament remet chaque année un rapport sur l'activité
-de celui-ci aux ministres chargés de la sécurité sociale, de la santé, de
-l'économie et de l'industrie.
+Le président signe les conventions, ainsi que les décisions et les avis pris en
+application des articles L. 162-16-1, L. 162-17-3, L. 162-17-4, L. 162-18, L.
+165-2, L. 165-3 et L. 165-4.
 
-Le Comité économique du médicament est saisi par les entreprises exploitant des
-spécialités pharmaceutiques pour l'exercice de ses compétences définies à
-l'article L. 162-17-4 et à l'article L. 162-18.
+En cas d'absence ou d'empêchement du président, ses pouvoirs sont exercés, pour
+les missions définies aux articles L. 162-16-1, L. 162-17-3, L. 162-17-4, L.
+162-18, par le vice-président chargé du médicament ; pour les missions définies
+aux articles L. 165-2, L. 165-3 et L. 165-4, par le vice-président chargé des
+produits mentionnés à l'article L. 165-1.

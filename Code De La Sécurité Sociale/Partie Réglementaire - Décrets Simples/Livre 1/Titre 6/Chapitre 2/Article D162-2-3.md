@@ -1,33 +1,25 @@
 Article D162-2-3
 ----
-I. - Le Comité économique du médicament, institué par l'article L. 162-17-3, est
-composé des membres suivants :
+I. - Lorsqu'il exerce les missions définies aux articles L. 162-16-1, L.
+162-17-3, L. 162-17-4 et L. 162-18, le comité économique des produits de santé
+se réunit en section du médicament et est composé des membres suivants :
 
-1° Un président et un vice-président nommés pour une durée de trois ans par
-arrêté conjoint des ministres chargés de la sécurité sociale, de la santé et de
-l'économie ;
+1° Le président du comité économique des produits de santé ;
 
-2° Le directeur de la sécurité sociale ou son représentant ;
+2° Le vice-président chargé du médicament ;
 
-3° Le directeur général de la santé ou son représentant ;
+3° Les membres désignés aux 2°, 3°, 5°, 6° et 7° de l'article D. 162-2-1.
 
-4° Le directeur général de la concurrence, de la consommation et de la
-répression des fraudes ou son représentant ;
+En fonction de l'ordre du jour, le président peut associer le directeur de
+l'hospitalisation et de l'organisation des soins aux travaux de la section, avec
+voix consultative.
 
-5° Le directeur général des stratégies industrielles ou son représentant ;
+II. - Lorsqu'il exerce les missions définies aux articles L. 165-2, L. 165-3 et
+L. 165-4, le comité économique des produits de santé se réunit en section des
+dispositifs médicaux et est composé des membres suivants :
 
-6° Un représentant des organismes nationaux d'assurance maladie, désigné
-conjointement par le directeur de la Caisse nationale de l'assurance maladie des
-travailleurs salariés, le directeur de la Caisse nationale d'assurance maladie
-et maternité des travailleurs non salariés des professions non agricoles et le
-directeur de la Caisse centrale de la mutualité sociale agricole.
+1° Le président du comité économique des produits de santé ;
 
-Les directeurs d'administration centrale ne peuvent se faire représenter que par
-des membres de leur service occupant des fonctions au moins égales à celles de
-sous-directeur. Le représentant des organismes nationaux d'assurance maladie
-doit occuper des fonctions au moins égales à celles de directeur adjoint.
+2° Le vice-président chargé des produits mentionnés à l'article L. 165-1 ;
 
-II. - En fonction de l'ordre du jour, le président peut associer un représentant
-du ministre chargé du budget, un représentant du ministre chargé de la recherche
-ou un représentant du ministre chargé des petites et moyennes entreprises aux
-travaux du comité, avec voix consultative.
+3° Les membres désignés aux 2°, 3°, 4°, 5°, 6° et 7° de l'article D. 162-2-1.
