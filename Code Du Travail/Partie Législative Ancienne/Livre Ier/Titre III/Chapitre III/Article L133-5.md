@@ -6,14 +6,9 @@ pour pouvoir être étendue, outre les clauses prévues aux articles L. 132-5, L
 
 1° L'exercice du droit syndical et la liberté d'opinion des salariés ;
 
-2° Les délégués du personnel, les comités d'entreprise et le financement des
-activités sociales et culturelles gérées par lesdits comités ;
-
-2° bis Les comités d'hygiène, de sécurité et des conditions de travail,
-notamment les modalités de la formation nécessaire à l'exercice des missions des
-membres des comités d'hygiène, de sécurité et des conditions de travail dans les
-entreprises de moins de trois cents salariés ainsi que les modalités de
-financement de cette formation ;
+2° Les délégués du personnel, le comité d'hygiène, de sécurité et des conditions
+de travail, les comités d'entreprise et le financement des activités sociales et
+culturelles gérées par lesdits comités ;
 
 3° Les éléments essentiels servant à la détermination des classifications
 professionnelles et des niveaux de qualification, notamment les mentions
@@ -74,7 +69,7 @@ c) Les conditions d'emploi et de rémunération des travailleurs à domicile,
 d) Les garanties des salariés appelés à exercer leur activité à l'étranger,
 
 e) Les conditions d'emploi des personnels, salariés d'entreprises extérieures,
-notamment les travailleurs temporaires ;
+notamment les travailleurs temporaires,
 
 f) Les conditions dans lesquelles le ou les salariés, auteurs d'une invention
 dévolue à l'employeur en vertu des dispositions du deuxième alinéa de l'article

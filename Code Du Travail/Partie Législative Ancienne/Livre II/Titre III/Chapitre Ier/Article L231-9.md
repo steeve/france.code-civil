@@ -24,6 +24,5 @@ A défaut d'accord entre l'employeur et la majorité du comité d'hygiène, de
 sécurité et des conditions de travail sur les mesures à prendre et leurs
 conditions d'exécution, l'inspecteur du travail est saisi immédiatement par
 l'employeur ou son représentant. Il met en oeuvre, le cas échéant, soit la
-procédure prévue à l'article
-
-L. 231-5, soit celle fixée à l'article L. 263-1.
+procédure de l'article L. 230-5, soit celle de l'article L. 231-5, soit celle de
+l'article L. 263-1.
