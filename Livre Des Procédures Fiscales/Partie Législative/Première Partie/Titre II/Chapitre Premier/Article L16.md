@@ -10,10 +10,11 @@ l'étranger.
 
 L'administration peut demander au contribuable des justifications sur tous les
 éléments servant de base à la détermination du revenu foncier tels qu'ils sont
-définis aux articles 28 à 33 quater du code général des impôts. Les demandes
-visées aux alinéas précédents doivent indiquer explicitement les points sur
-lesquels elles portent et mentionner à l'intéressé le délai de réponse dont il
-dispose en fonction des textes en vigueur.
+définis aux articles 28 à 33 quinquies du code général des impôts.
+
+Les demandes visées aux alinéas précédents doivent indiquer explicitement les
+points sur lesquels elles portent et mentionner à l'intéressé le délai de
+réponse dont il dispose en fonction des textes en vigueur.
 
 Elle peut également lui demander des justifications lorsqu'elle a réuni des
 éléments permettant d'établir que le contribuable peut avoir des revenus plus
@@ -23,7 +24,7 @@ décompte des revenus imposables en vertu de l'article 157 du même code,
 l'administration peut exiger la preuve de la possession de ces bons ou titres et
 celle de la date à laquelle ils sont entrés dans le patrimoine de l'intéressé.
 Le contribuable ne peut pas alléguer la vente ou le remboursement de bons
-mentionnés à l'article 125 A-III bis-2° du code général des impôts, ou de titres
+mentionnés à l'article 125 A III bis 2° du code général des impôts, ou de titres
 de même nature quelle que soit leur date d'émission, lorsqu'il n'avait pas
 communiqué son identité et son domicile fiscal à l'établissement payeur dans les
 conditions prévues au 4° et 6° du III bis du même article. Il en va de même pour

@@ -2,7 +2,7 @@ Article 39 terdecies
 ----
 1 Le régime des plus-values à long terme est applicable, dans les conditions et
 limites qui pourront être fixées par décret, aux produits des cessions de
-brevets, de procédés et de techniques (1), ainsi qu'aux concessions de licences
+brevets, de procédés et de techniques (1) , ainsi qu'aux concessions de licences
 exclusives d'exploitation. Pour l'imposition des bénéfices des exercices clos à
 partir du 31 décembre 1984, ce régime s'applique également aux concessions non
 exclusives d'exploitation.
@@ -36,6 +36,10 @@ capital social de l'autre ou y exerce en fait le pouvoir de décision
 
 - Lorsqu'elles sont placées l'une et l'autre, dans les conditions définies à
 l'alinéa précédent, sous le contrôle d'une même tierce entreprise.
+
+1 ter Les dispositions du 1 ne sont pas applicables aux sommes perçues en
+exécution d'un contrat de crédit-bail portant sur des éléments incorporels d'un
+fonds de commerce ou d'un fonds artisanal.
 
 2 Sous réserve des dispositions de l'article 41, les plus-values nettes
 constatées en cas de décès de l'exploitant sont soumises de plein droit au

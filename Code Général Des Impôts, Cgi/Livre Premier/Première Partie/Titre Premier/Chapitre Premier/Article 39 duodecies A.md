@@ -36,8 +36,8 @@ aurait pu pratiquer comme il est indiqué au 1 est diminué du montant des somme
 réintégrées en application des articles 239 sexies, 239 sexies A et 239 sexies
 B.
 
-5. Les dispositions du 4 s'appliquent aux cessions de biens intervenues à
-compter du 1er octobre 1989.
+5. Les dispositions du premier alinéa du 4 s'appliquent aux cessions de biens
+intervenues à compter du 1er octobre 1989.
 
 Un décret fixe les modalités d'application des dispositions du présent article
 ainsi que les obligations déclaratives.
@@ -48,3 +48,7 @@ amortissables de l'actif immobilisé pour une fraction du prix auquel le contrat
 de crédit-bail a été acquis par le nouveau titulaire égale au rapport qui
 existe, à la date du transfert du contrat, entre la valeur réelle du terrain et
 celle de l'ensemble immobilier.
+
+7. Les dispositions des 1 à 5 s'appliquent aux droits afférents aux contrats de
+crédit-bail portant sur des éléments incorporels amortissables d'un fonds de
+commerce ou d'un fonds artisanal.

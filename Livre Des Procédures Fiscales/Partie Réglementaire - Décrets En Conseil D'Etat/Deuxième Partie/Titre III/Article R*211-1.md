@@ -7,9 +7,9 @@ pris fin, ou, en cas d'instance devant les tribunaux, celle au cours de laquelle
 la décision intervenue a été notifiée [*date limite*].
 
 Elle peut dans ce même délai prononcer d'office les dégrèvements des taxes
-foncières et de la taxe d'habitation indûment établies lorsque l'erreur
-d'imposition ne peut plus être rectifiée par un transfert de droits au nom de la
-personne qui aurait dû être imposée.
+foncières indûment établies lorsque l'erreur d'imposition ne peut plus être
+rectifiée par une mutation de cote au nom de la personne qui aurait dû être
+imposée. "
 
 Elle peut prononcer dans le délai de trente ans les dégrèvements d'office prévus
 aux articles 1390, 1391, 1414, 1414 A et 1601 du code général des impôts

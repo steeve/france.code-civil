@@ -1,10 +1,8 @@
 Article 22
 ----
-Les sociétés mentionnées au 3 de l'article 206 qui désirent opter à compter
-d'une année déterminée pour leur assujettissement à l'impôt sur les sociétés
-doivent pour que cette option soit valable la notifier [*délai, date de la
-notification*] dans les trois premiers mois de ladite année au service des
-impôts du lieu de leur principal établissement.
+La notification de l'option prévue à l'article 239 du code général des impôts
+est adressée au service des impôts du lieu du principal établissement de la
+société qui souhaite exercer cette option.
 
 La notification [*mentions obligatoires*] indique la désignation de la société
 et l'adresse du siège social les nom prénoms et adresse de chacun des associés

@@ -7,7 +7,7 @@ d'enregistrement :
 l'article 635-1;
 
 2° Les actes visés aux articles 634, 635-2-1° à 8° et 636, les baux à durée
-limitée d'immeubles dont le loyer annuel est supérieur à 2.500 F (1) et
+limitée d'immeubles dont le loyer annuel est supérieur à 10.000 F (1) et
 généralement tous les actes soumis volontairement à la formalité de
 l'enregistrement;
 
