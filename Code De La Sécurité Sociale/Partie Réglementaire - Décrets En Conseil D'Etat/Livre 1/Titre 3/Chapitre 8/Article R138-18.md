@@ -1,11 +1,11 @@
-Article R137-15
+Article R138-18
 ----
 Tout contrôle mené en application du 3° de l'article L. 225-1-1 est précédé de
 l'envoi par l'Agence centrale des organismes de sécurité sociale d'un avis
-adressé à l'entreprise d'assurance par lettre recommandée avec accusé de
-réception.
+adressé à l'entreprise mentionnée à l'article L. 138-10 par lettre recommandée
+avec accusé de réception.
 
-Les entreprises d'assurance sont tenues de permettre aux agents de l'Agence
+Les entreprises précitées sont tenues de permettre aux agents de l'Agence
 centrale des organismes de sécurité sociale chargés du contrôle de l'application
 de la législation relative aux recettes recouvrées directement par cet
 organisme, ainsi qu'aux inspecteurs du recouvrement visés à l'article R. 243-59,
@@ -25,8 +25,7 @@ ces observations par lettre recommandée avec accusé de réception.
 A l'expiration de ce délai, les agents ou les inspecteurs transmettent à
 l'Agence centrale des organismes de sécurité sociale le procès-verbal faisant
 état des observations formulées ainsi que de la nature et du montant des
-redressements envisagés, accompagné, s'il y a lieu, de la réponse de
-l'intéressé.
+redressements envisagés, accompagné s'il y a lieu de la réponse de l'intéressé.
 
 Sur la base de ces documents, l'Agence centrale des organismes de sécurité
 sociale notifie sa décision à l'entreprise. Elle ne peut engager la mise en
@@ -37,6 +36,6 @@ article.
 L'absence d'observations vaut accord tacite concernant les pratiques ayant donné
 lieu à vérification, dès lors que l'Agence centrale des organismes de sécurité
 sociale a eu les moyens de se prononcer en toute connaissance de cause. Le
-redressement ne peut porter sur les éléments qui, ayant fait l'objet d'un
+redressement ne peut porter sur des éléments qui, ayant fait l'objet d'un
 précédent contrôle dans la même entreprise, n'ont pas donné lieu à observations
 de la part de cet organisme.
