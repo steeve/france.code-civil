@@ -1,20 +1,23 @@
 Article D541-2
 ----
-Le taux servant au calcul du complément d'allocation d'éducation spéciale est
-fixé, en pourcentage de la base mensuelle prévue à l'article L. 551-1, à 24 p.
-100 pour chaque enfant à charge relevant de la 1re catégorie mentionnée à
-l'article R. 541-2.
+Le taux du complément de première catégorie de l'allocation d'éducation spéciale
+est fixé à 24 % de la base mensuelle de calcul des allocations familiales.
 
-Le taux servant au calcul du complément d'allocation d'éducation spéciale est
-fixé, en pourcentage de la base mensuelle prévue à l'article L. 551-1, à 72 p.
-100 pour chaque enfant à charge relevant de la 2e catégorie mentionnée à
-l'article R. 541-2.
+Le taux du complément de deuxième catégorie de l'allocation d'éducation spéciale
+est fixé à 65 % de la base mensuelle de calcul des allocations familiales.
 
-Le montant du complément pour chaque enfant à charge relevant de la 3e catégorie
-mentionnée à l'article R. 541-2 est égal au montant de la majoration pour tierce
-personne accordée aux invalides de la 3e catégorie définis à l'article L. 341-4.
+Le taux du complément de troisième catégorie de l'allocation d'éducation
+spéciale est fixé à 92 % de la base mensuelle de calcul des allocations
+familiales.
 
-En cas d'hospitalisation de l'enfant, le versement du complément 3e catégorie
-est suspendu à compter du dernier jour du mois civil suivant celui au cours
-duquel l'enfant a été hospitalisé. Il est rétabli au premier jour du mois au
-cours duquel l'enfant n'est plus hospitalisé.
+Le taux du complément de quatrième catégorie de l'allocation d'éducation
+spéciale est fixé à 142,57 % de la base mensuelle de calcul des allocations
+familiales.
+
+Le taux du complément de cinquième catégorie de l'allocation d'éducation
+spéciale est fixé à 182,21 % de la base mensuelle de calcul des allocations
+familiales.
+
+Le montant du complément de la sixième catégorie de l'allocation d'éducation
+spéciale est égal au montant de la majoration pour tierce personne accordée aux
+invalides de la 3e catégorie définis à l'article L. 341-4.
