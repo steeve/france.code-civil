@@ -1,11 +1,11 @@
 Article R515-1
 ----
 Par dérogation aux dispositions de l'article R. 513-1, les ressortissants d'un
-Etat membre de la Communauté économique européenne autre que la France peuvent
-présenter, en qualité de courtier ou d'agent général, les opérations pratiquées
-par les entreprises mentionnées aux 1°, 2°, 4° et 5° de l'article L. 310-1, sous
-réserve qu'ils justifient avoir exercé effectivement l'une de ces fonctions dans
-un Etat membre de la Communauté autre que la France :
+Etat membre de la Communauté européenne autre que la France peuvent présenter,
+en qualité de courtier ou d'agent général, les opérations pratiquées par les
+entreprises mentionnées à l'article L. 310-2, sous réserve qu'ils justifient
+avoir exercé effectivement l'une de ces fonctions dans un Etat membre de la
+Communauté autre que la France :
 
 Soit pendant quatre années consécutives à titre indépendant ou en qualité de
 dirigeant d'entreprise ;

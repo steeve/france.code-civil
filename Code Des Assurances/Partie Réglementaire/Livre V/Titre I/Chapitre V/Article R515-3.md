@@ -1,13 +1,12 @@
 Article R515-3
 ----
 Par dérogation aux dispositions de l'article R. 513-2, les ressortissants d'un
-Etat membre de la Communauté économique européenne autre que la France peuvent
-présenter, pour le compte d'un courtier ou d'un agent d'assurance, les
-opérations pratiquées par les entreprises mentionnées aux 1°, 2°, 4° et 5° de
-l'article L. 310-1, sans que cette présentation puisse comporter la prise
-d'engagement envers le public ou de sa part, sous réserve qu'ils justifient
-avoir exercé effectivement des fonctions de présentation dans un Etat membre de
-la Communauté autre que la France :
+Etat membre de la Communauté européenne autre que la France peuvent présenter,
+pour le compte d'un courtier ou d'un agent d'assurance, les opérations
+pratiquées par les entreprises mentionnées à l'article L. 310-2, sans que cette
+présentation puisse comporter la prise d'engagement envers le public ou de sa
+part, sous réserve qu'ils justifient avoir exercé effectivement des fonctions de
+présentation dans un Etat membre de la Communauté autre que la France :
 
 Soit pendant deux années consécutives à titre indépendant ou au titre de
 l'exercice de fonctions dans un cabinet de courtage, une agence ou une
