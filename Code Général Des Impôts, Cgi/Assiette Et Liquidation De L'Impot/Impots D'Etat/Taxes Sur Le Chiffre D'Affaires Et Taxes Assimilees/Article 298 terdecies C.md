@@ -7,4 +7,4 @@ des publications, si les conditions fixées à l'article 298 terdecies B se
 trouvent remplies. Les membres de la commission ainsi que leurs suppléants sont
 nommés par décret pour une durée de trois ans. Un arrêté du Premier ministre,
 pris sur proposition de cette commission, désigne les publications admises à
-bénéficier de l'abattement prévu à l'article 298 terdecies A.
+bénéficier des taux prévus à l'article 298 terdecies A.

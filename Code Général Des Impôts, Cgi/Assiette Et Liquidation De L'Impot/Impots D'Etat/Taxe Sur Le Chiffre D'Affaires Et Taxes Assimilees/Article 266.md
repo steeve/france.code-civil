@@ -72,20 +72,9 @@ rapport entre les charges d'exploitation et le total des dépenses (4).
 
 1 bis. (Abrogé).
 
-b. En ce qui concerne les recettes réalisées aux entrées des premières
-représentations théâtrales d'oeuvres dramatiques, lyriques, musicales ou
-chorégraphiques nouvellement créées ou d'oeuvres classiques faisant l'objet
-d'une nouvelle mise en scène, la taxe est assise selon des règles particulières
-qui sont déterminées par décret (5). Ce décret définit également la nature des
-oeuvres et fixe le nombre des représentations auxquelles ces règles sont
-applicables.
+1 ter a. (abrogé).
 
-Ces dispositions ne s'appliquent pas aux recettes provenant :
-
-des représentations théâtrales à caractère pornographique ;
-
-de la vente de billets imposés au taux réduit dans les conditions prévues à
-l'article 279 b sexies.
+b. (dispositions devenues sans objet).
 
 2° En ce qui concerne les opérations entrant dans le champ d'application de
 l'article 257-7°, la taxe sur la valeur ajoutée est assise :
@@ -118,26 +107,7 @@ Ces dispositions s'appliquent aux offices publics d'aménagement et de
 construction pour les opérations faites en application de la législation sur les
 habitations à loyer modéré [*HLM*].
 
-3° La base d'imposition est atténuée d'une réfaction de 30 % [*pourcentage*] (7)
-(8) pour les ventes et les apports en société de terrains à bâtir, de biens
-assimilés à ces terrains par l'article 691-I, autres que ceux visés au 2° dudit
-I, ainsi que pour les indemnités de toute nature perçues par les personnes qui
-exercent sur ces immeubles un droit de propriété ou de jouissance.
-
-Le cas échéant, la réfaction de 30 % s'applique aux acquisitions de terrains
-attenant à ceux acquis précédemment en vue de la construction de maisons
-individuelles par des personnes physiques pour leur propre usage et à titre
-d'habitation principale.
-
-Toutefois, le bénéfice de cette disposition :
-
-- n'est applicable qu'à la fraction du terrain attenant qui, compte tenu de la
-superficie du terrain antérieurement acquis, n'excède par 2500 mètres carrés par
-maison ou la superficie minimale exigée par la législation sur le permis de
-construire lorsqu'elle est supérieure ;
-
-- est subordonné à la condition que l'acquisition nouvelle soit effectuée moins
-de deux ans après l'achèvement de la construction ;
+3° (dispositions devenues sans objet).
 
 4° (Abrogé).
 
@@ -155,11 +125,4 @@ même Annexe, art. 71.
 
 (4) Ces dispositions ont un caractère interprétatif.
 
-(5) Annexe III, art. 76 ter.
-
-(6) Annexe II, art. 248.
-
-(7) Voir Annexe II, art. 253.
-
-(8) Nouvelle réfaction applicable à compter du 1er janvier 1980 [*date, point de
-départ*].
+(5) Annexe II, art. 248.
