@@ -12,8 +12,9 @@ d'oeuvre d'une durée minimale de cinq ans pour la compétence de niveau 1 et 2 
 de trois ans pour la compétence de niveau 3,
 
 b) D'une formation spécifique de coordonnateur en matière de sécurité et de
-protection de la santé correspondant au niveau de compétence considéré, révisée
-tous les cinq ans ;
+protection de la santé correspondant au niveau de compétence considéré,
+actualisée tous les cinq ans, dans l'année civile qui suit l'échéance de la
+dernière attestation de compétence mentionnée à l'article R. 238-13 ;
 
 2° Pour la phase de réalisation de l'ouvrage :
 
@@ -24,8 +25,9 @@ d'une durée minimale de cinq ans pour la compétence de niveau 1 et 2 ou de tro
 ans pour la compétence de niveau 3 ;
 
 b) D'une formation spécifique de coordonnateur en matière de sécurité et de
-protection de la santé correspondant au niveau de compétence considéré, revisée
-tous les cinq ans.
+protection de la santé correspondant au niveau de compétence considéré,
+actualisée tous les cinq ans, dans l'année civile qui suit l'échéance de la
+dernière attestation de compétence mentionnée à l'article R. 238-13 ;
 
 Le coordonnateur qui a exercé pendant cinq ans sa fonction à un niveau de
 compétence donné peut se voir reconnaître le niveau de compétence immédiatement
