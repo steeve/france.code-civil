@@ -1,10 +1,8 @@
 Article R5194
 ----
 Toute prescription de médicaments ou produits mentionnés à la présente section
-doit être rédigée, après examen du malade, sur une ordonnance répondant à des
-spécifications techniques fixées par arrêté du ministre chargé de la santé, pris
-après avis du directeur général de l'Agence française de sécurité sanitaire des
-produits de santé. Cette ordonnance doit indiquer lisiblement :
+doit être rédigée, après examen du malade, sur une ordonnance et indiquer
+lisiblement :
 
 1° Le nom, la qualité et, le cas échéant, la qualification ou le titre du
 prescripteur, son identifiant lorsqu'il existe, son adresse, sa signature et la
@@ -41,8 +39,7 @@ l'adresse du détenteur de l'animal ou des animaux ainsi que les moyens
 d'identification de ceux-ci.
 
 Toute commande à usage professionnel de médicaments ou produits mentionnés à la
-présente section doit être rédigée sur l'ordonnance mentionnée au premier alinéa
-et indiquer lisiblement :
+présente section doit indiquer lisiblement :
 
 1° Le nom, la qualité, le numéro d'inscription à l'ordre, l'adresse et la
 signature du praticien, ainsi que la date ;
