@@ -7,12 +7,12 @@ bénéfice réel, l'impôt sur le revenu dû en raison des bénéfices réalisé
 cette entreprise ou exploitation et qui n'ont pas encore été imposés est
 immédiatement établi.
 
-Les contribuables doivent, dans un délai de dix jours déterminé comme il est
+Les contribuables doivent, dans un délai de trente jours déterminé comme il est
 indiqué ci-après, aviser l'administration de la cession ou de la cessation et
 lui faire connaître la date à laquelle elle a été ou sera effective, ainsi que,
-s'il y a lieu, les nom, prénoms, et adresse du cessionnaire.
+s'il y a lieu, les nom, prénoms, et adresse du cessionnaire [*mentions*].
 
-Le délai de dix jours commence à courir :
+Le délai de trente jours commence à courir :
 
 - lorsqu'il s'agit de la vente ou de la cession d'un fonds de commerce, du jour
 où la vente ou la cession a été publiée dans un journal d'annonces légales,
@@ -45,15 +45,15 @@ stocks. Les plus-values provenant de la cession des éléments de l'actif
 immobilisé sont imposées dans les conditions prévues à l'article 151 septies.
 
 Pour l'application de cette disposition, les redevables de cette catégorie sont
-tenus de faire parvenir à l'administration, dans le délai de dix jours prévu au
-1, outre les renseignements visés audit paragraphe, une déclaration indiquant le
-montant net des plus-values visées à l'alinéa précédent et de produire, à
+tenus de faire parvenir à l'administration, dans le délai de trente jours prévu
+au 1, outre les renseignements visés audit paragraphe, une déclaration indiquant
+le montant net des plus-values visées à l'alinéa précédent et de produire, à
 l'appui de cette déclaration, toutes justifications utiles.
 
 3. Les contribuables non assujettis au forfait sont tenus de faire parvenir à
-l'administration, dans le délai de dix jours prévu au 1, outre les
+l'administration, dans le délai de trente jours prévu au 1, outre les
 renseignements visés audit paragraphe, la déclaration de leur bénéfice réel
-accompagnée d'un résumé de leur compte de pertes et profits.
+accompagnée d'un résumé de leur compte de résultat.
 
 Pour la détermination du bénéfice réel, il est fait application des dispositions
 des articles 39 duodecies, 39 terdecies-1 et 2, et 39 quaterdecies à 39
