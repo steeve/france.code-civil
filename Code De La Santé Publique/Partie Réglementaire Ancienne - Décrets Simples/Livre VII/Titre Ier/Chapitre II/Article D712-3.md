@@ -1,4 +1,5 @@
 Article D712-3
 ----
-Pour l'exercice de ses attributions, le collège national peut avoir accès aux
-informations mentionnées au I de l'article L. 710-7.
+Les objectifs sont quantifiés soit par un minimum et un maximum, soit par une
+progression ou une diminution au décours de la période d'exécution du schéma,
+éventuellement assorti d'échéances sur tout ou partie de cette période.

@@ -1,27 +1,119 @@
 Article D712-2
 ----
-I. - A la demande du ou des ministres chargés de la santé et de la sécurité
-sociale ou à la demande du président du Comité national de l'organisation
-sanitaire et sociale, le collège peut être appelé à donner un avis technique sur
-:
+Ces objectifs sont exprimés de la manière suivante :
 
-1° Les méthodes utilisées pour l'élaboration, la révision et le suivi des
-schémas d'organisation sanitaire nationaux et interrégionaux, notamment celles
-relatives à l'analyse des besoins de la population ;
+I. - Pour les activités de soins :
 
-2° Les éléments médicaux et médico-techniques pris en considération dans ces
-schémas ainsi que dans les schémas régionaux faisant l'objet du recours
-hiérarchique prévu par le dernier alinéa de l'article L. 712-5 ;
+1° Par territoire de santé :
 
-3° Les indicateurs et les méthodes relatifs à la mise en oeuvre de l'évaluation
-prévue à l'article L. 712-12-1 ;
+- nombre d'implantations assurant une activité de soins déterminée, définie à
+l'article R. 712-37-1 ;
 
-4° L'élaboration des grilles d'analyse des dossiers d'évaluation définis à
-l'article R. 712-40 et des rapports d'évaluation mentionnés à l'article R.
-712-36-1 ;
+- nombre d'implantations des équipements et services assurant une activité de
+psychiatrie, définis par arrêté du ministre chargé de la santé ;
 
-5° Toutes questions relatives à l'adaptation et à l'orientation de l'offre de
-soins.
+2° Outre ces modalités, les objectifs quantifiés de l'offre de soins peuvent
+également être exprimés, par territoire, de la manière suivante :
 
-II. - Le collège national d'experts est obligatoirement consulté par le ministre
-chargé de la santé sur le projet d'arrêté mentionné à l'article R. 712-36-2.
+- temps maximum d'accès, dans un territoire de santé, à un établissement
+exerçant l'une des activités de soins définies à l'article R. 712-37-1 ;
+
+- permanence des soins pour tout ou partie d'une activité de soins définie à
+l'article R. 712-37-1.
+
+3° Par territoire et par activité de soins prévue à l'article R. 712-37-1, y
+compris lorsqu'elles sont exercées sous la forme d'alternatives à
+l'hospitalisation pour :
+
+a) Activité de médecine en hospitalisation complète et en hospitalisation à
+temps partiel de jour, à l'exception de la chimiothérapie :
+
+- nombre de séjours ;
+
+b) Activité de chirurgie, y compris la chirurgie ambulatoire :
+
+- nombre de séjours ;
+
+c) Activités interventionnelles sous imagerie médicale, par voie endovasculaire,
+en cardiologie et activités interventionnelles, par voie endovasculaire, en
+neuroradiologie :
+
+- nombre d'actes ;
+
+d) Activité de psychiatrie :
+
+- nombre de journées d'hospitalisation complète ;
+
+- nombre de places d'hospitalisation à temps partiel de jour ;
+
+- nombre de places d'hospitalisation à temps partiel de nuit ;
+
+e) Activité de soins de suite, activité de rééducation et réadaptation
+fonctionnelles et activité de soins de longue durée :
+
+- nombre de journées ;
+
+- nombre de venues ;
+
+f) Activité de traitement de l'insuffisance rénale chronique par épuration
+extrarénale :
+
+- nombre de patients.
+
+Les nomenclatures de référence des objectifs ainsi quantifiés sont fixées par
+arrêté du ministre chargé de la santé.
+
+Les dispositions du présent 3° ne sont pas applicables aux activités de soins et
+prises en charge suivantes :
+
+- l'obstétrique ;
+
+- la néonatalogie ;
+
+- la réanimation néonatale ;
+
+- la réanimation ;
+
+- l'accueil et le traitement des urgences ;
+
+- les transplantations d'organes et greffes de moelle osseuse ;
+
+- les traitements des grands brûlés ;
+
+- la chirurgie cardiaque ;
+
+- la neurochirurgie ;
+
+- le traitement du cancer ;
+
+- les activités de diagnostic prénatal ;
+
+- les activités de recueil, le traitement, la conservation de gamètes et la
+cession de gamètes issus de don ;
+
+- les activités cliniques d'assistance médicale à la procréation ;
+
+- les activités biologiques d'assistance médicale à la procréation.
+
+Elles ne s'appliquent pas non plus aux activités de soins exercées dans le cadre
+de l'hospitalisation à domicile.
+
+II. - Pour les équipements matériels lourds :
+
+1° Par territoire de santé :
+
+- nombre d'implantations disposant d'un équipement matériel lourd déterminé ;
+
+2° Outre ces modalités, les objectifs quantifiés de l'offre de soins peuvent
+également être exprimés de la manière suivante :
+
+- temps maximum d'accès, dans un territoire de santé, à un établissement
+disposant de l'un des équipements matériels lourds définis à l'article R.
+712-37-1 ;
+
+- permanence des soins pour l'exploitation d'un des équipements matériels lourds
+définis à l'article R. 712-37-1 ;
+
+3° Par territoire de santé et par équipement matériel lourd :
+
+- nombre d'appareils.
