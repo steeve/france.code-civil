@@ -1,6 +1,5 @@
 Article L946-2
 ----
-Les fonctions de greffier du tribunal de première instance et des autres
-juridictions du premier degré statuant en application du droit commun à Mayotte
-sont exercées par le greffier en chef ou par un greffier du tribunal supérieur
-d'appel.
+Par dérogation à l'article L. 811-2, pour les attributions qui lui sont dévolues
+par la loi, le greffier en chef peut donner délégation à un fonctionnaire du
+secrétariat-greffe de la même juridiction.
