@@ -1,7 +1,8 @@
 Article 213
 ----
-L'impôt sur les sociétés, ((la contribution mentionnée à l'article 235 ter ZA))
-(M) et l'impôt sur le revenu ne sont pas admis dans les charges déductibles pour
+L'impôt sur les sociétés, la contribution mentionnée à l'article 235 ter ZA,
+((la contribution temporaire mentionnée à l'article 235 ter ZB)) (M) et l'impôt
+sur le revenu ne sont pas admis dans les charges déductibles pour
 l'établissement de l'impôt.
 
 Il en est de même, sans préjudice des impôts et taxes dont la déduction ne peut
