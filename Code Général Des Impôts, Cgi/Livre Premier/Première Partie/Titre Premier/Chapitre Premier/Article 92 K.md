@@ -2,8 +2,8 @@ Article 92 K
 ----
 Sous réserve des dispositions propres aux bénéfices professionnels ainsi que des
 articles 92 B et 150 A bis, le gain net retiré de la cession de droits sociaux
-mentionnés à l'article 8 est soumis à l'impôt sur le revenu au taux prévu à
-l'article 200 A.
+mentionnés à l'article 8 est soumis à l'impôt sur le revenu au taux prévu au 2
+de l'article 200 A.
 
 Le gain net est constitué par la différence entre le prix effectif de cession
 des droits, net des frais et taxes acquittés par le cédant, et leur prix
@@ -19,4 +19,4 @@ gains de même nature réalisés au cours de la même année ou des cinq années
 suivantes.
 
 Ces dispositions s'appliquent aux plus-values constatées à compter du 12
-septembre 1990 [*date*].
+septembre 1990.

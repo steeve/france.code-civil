@@ -7,10 +7,12 @@ première déduction a été pratiquée au titre des acquisitions effectuées en
 163 sexies à 163 terdecies est prolongé jusqu'à la date de départ en retraite de
 l'un des époux et au maximum pendant quinze ans.
 
-A partir de la cinquième année de la déduction, la limite de
+A partir de la cinquième année de la déduction, la limite de 5.000 F fixée à
+l'article 163 septies est portée à 6.000 F. En outre, l'obligation de
+réintégration dans le revenu imposable prévue par le deuxième alinéa du même
+article et les dispositions de l'article 163 decies s'appliquent aux quatre
+années suivant celle au titre de laquelle une déduction a été pratiquée.
 
-5.000 F fixée à l'article 163 septies est portée à 6.000 F. En outre,
-l'obligation de réintégration dans le revenu imposable prévue par le deuxième
-alinéa du même article et les dispositions de l'article 163 decies s'appliquent
-aux quatre années suivant celle au titre de laquelle une déduction a été
-pratiquée.
+Les contribuables ayant ouvert un plan d'épargne en actions mentionné à
+l'article 163 quinquies D sont réputés avoir définitivement renoncé au bénéfice
+de la déduction prévue au présent article.
