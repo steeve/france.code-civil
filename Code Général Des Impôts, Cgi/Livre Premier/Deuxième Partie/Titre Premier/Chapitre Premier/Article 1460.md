@@ -22,3 +22,5 @@ d'agrément, les instituteurs primaires;
 fonctions qu'ils exercent conformément aux dispositions de la loi n° 54-11 du 6
 janvier 1954, modifiée, sur la sauvegarde de la vie humaine en mer et
 l'habitabilité à bord des navires de commerce, de pêche et de plaisance.
+
+7° Les sportifs pour la seule pratique d'un sport.
