@@ -4,8 +4,7 @@ Réserve faite des dérogations prévues à l'article L. 491, nul ne peut exerce
 profession de masseur-kinésithérapeute, c'est-à-dire pratiquer le massage et la
 gymnastique médicale, s'il n'est muni du diplôme d'Etat de
 masseur-kinésithérapeute institué par l'article L. 488 du présent titre
-[*condition*].
-
+[*condition*] et inscrit au tableau de l'ordre des masseurs-kinésithérapeutes.
 Lorsqu'ils agissent dans un but thérapeutique, les masseurs-kinésithérapeutes ne
 peuvent pratiquer leur art que sur ordonnance médicale [*obligation*].
 

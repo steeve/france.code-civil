@@ -23,11 +23,14 @@ soins et de cure, publics ou privés ;
 
 8°) des frais de cure thermale ;
 
-9°) des frais de vaccination obligatoire pour les enfants d'un âge déterminé ;
+9° Des frais afférents aux vaccinations dont la liste est fixée par arrêté du
+ministre chargé de la sécurité sociale et du ministre chargé de la santé ;
 
 10°) des frais de transport dans les conditions prévues par le 2° de l'article
-L. 321-1.11°) des frais afférents aux examens médicaux [*prénuptiaux*] prescrits
-en application de l'article L. 153 du code de la santé publique.
+L. 321-1.
+
+11°) des frais afférents aux examens médicaux [*prénuptiaux*] prescrits en
+application de l'article L. 153 du code de la santé publique.
 
 Font également partie des prestations de base :
 

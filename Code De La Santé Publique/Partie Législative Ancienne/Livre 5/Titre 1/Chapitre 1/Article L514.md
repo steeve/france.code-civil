@@ -7,42 +7,45 @@ de moralité professionnelle et s'il ne réunit les conditions suivantes :
 pharmacien ou satisfaire aux conditions définies aux II, III ou IV ci-après ;
 
 2° Etre de nationalité française, citoyen andorran, ressortissant de l'un des
-Etats membres de la Communauté européenne ou ressortissant d'un pays dans lequel
-les Français peuvent exercer la pharmacie lorsqu'ils sont titulaires du diplôme
-qui en ouvre l'exercice aux nationaux de ce pays ;
+Etats membres de la Communauté européenne ou parties à l'accord sur l'Espace
+économique européen ou ressortissant d'un pays dans lequel les Français peuvent
+exercer la pharmacie lorsqu'ils sont titulaires du diplôme qui en ouvre
+l'exercice aux nationaux de ce pays ;
 
 3° Etre inscrit à l'ordre des pharmaciens.
 
 II. Le titulaire d'un diplôme, certificat ou autre titre de pharmacien délivré
-par l'un des Etats membres de la Communauté européenne autre que la France et
-répondant à l'ensemble des exigences minimales de formation prévues à l'article
-2 de la directive 85/432/C.E.E. du 16 septembre 1985 visant à la coordination
-des dispositions législatives, réglementaires et administratives concernant
-certaines activités du domaine de la pharmacie peut exercer la pharmacie en
-France :
+par l'un des Etats membres de la Communauté européenne ou parties à l'accord sur
+l'Espace économique européen autre que la France et répondant à l'ensemble des
+exigences minimales de formation prévues à l'article 2 de la directive
+85/432/CEE du 16 septembre 1985 visant à la coordination des dispositions
+législatives, réglementaires et administratives concernant certaines activités
+du domaine de la pharmacie peut exercer la pharmacie en France :
 
 1° Si ce diplôme, titre ou certificat figure sur une liste établie conformément
-aux obligations communautaires par arrêté conjoint du ministre chargé de la
-santé et du ministre chargé des universités ;
+aux obligations communautaires ou à celles résultant de l'accord sur l'Espace
+économique européen par arrêté conjoint du ministre chargé de la santé et du
+ministre chargé des universités ;
 
 2° Ou s'il est accompagné d'une attestation des autorités compétentes de l'Etat
-membre qui l'a délivré, certifiant qu'il sanctionne une formation répondant aux
-exigences énoncées ci-dessus et qu'il est assimilé dans cet Etat membre aux
-diplômes de la liste précitée.
+membre ou autre Etat partie qui l'a délivré, certifiant qu'il sanctionne une
+formation répondant aux exigences énoncées ci-dessus et qu'il est assimilé dans
+cet Etat membre ou autre Etat partie aux diplômes de la liste précitée.
 
 III. Le titulaire d'un diplôme, certificat ou autre titre de pharmacien délivré
-par l'un des Etats membres de la Communauté européenne autre que la France
-sanctionnant une formation commencée avant le 1er octobre 1987 et ne répondant
-pas à l'ensemble des exigences minimales de formation prévues au II ci-dessus
-peut exercer la pharmacie en France :
+par l'un des Etats membres de la Communauté européenne ou parties à l'accord sur
+l'Espace économique européen autre que la France sanctionnant une formation
+commencée avant le 1er octobre 1987 et ne répondant pas à l'ensemble des
+exigences minimales de formation prévues au II ci-dessus peut exercer la
+pharmacie en France :
 
 1° Si le diplôme, titre ou certificat figure sur la liste mentionnée au II ;
 
-2° S'il est accompagné en outre d'une attestation d'un Etat membre certifiant
-que le titulaire du diplôme, certificat ou autre titre de pharmacien s'est
-consacré de façon effective et licite aux activités de pharmacien pendant au
-moins trois années consécutives au cours des cinq années précédant la délivrance
-de l'attestation.
+2° S'il est accompagné en outre d'une attestation d'un Etat membre ou autre Etat
+partie certifiant que le titulaire du diplôme, certificat ou autre titre de
+pharmacien s'est consacré de façon effective et licite aux activités de
+pharmacien pendant au moins trois années consécutives au cours des cinq années
+précédant la délivrance de l'attestation.
 
 IV. Le titulaire d'un diplôme, certificat ou autre titre de pharmacien
 sanctionnant une formation acquise sur le territoire de l'ancienne République

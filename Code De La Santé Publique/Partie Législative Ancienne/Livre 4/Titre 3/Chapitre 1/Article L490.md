@@ -1,3 +1,5 @@
 Article L490
 ----
-Article abrogé
+Un décret en Conseil d'Etat, pris après avis du Conseil national de l'ordre des
+masseurs-kinésithérapeutes, fixe les règles du code de déontologie des
+masseurs-kinésithérapeutes.

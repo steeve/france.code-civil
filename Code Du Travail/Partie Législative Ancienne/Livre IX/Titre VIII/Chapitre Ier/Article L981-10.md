@@ -1,9 +1,9 @@
 Article L981-10
 ----
-Les jeunes titulaires des contrats de travail prévus aux articles L. 981-1 et L.
-981-9-1 bénéficient de l'ensemble des dispositions applicables aux autres
-salariés dans la mesure où elles ne sont pas incompatibles avec leur situation
-de jeunes en formation.
+Les jeunes titulaires des contrats de travail prévus à l'article L. 981-1, L.
+981-6 et L. 981-7 bénéficient de l'ensemble des dispositions applicables aux
+autres salariés dans la mesure où elles ne sont pas incompatibles avec leur
+situation de jeunes en formation.
 
 En particulier, la durée du travail du salarié, incluant le temps passé en
 formation, ne peut excéder la durée normale hebdomadaire du travail dans
@@ -16,12 +16,13 @@ L. 212-4 du présent code ne s'applique pas aux contrats d'orientation.
 
 Les titulaires de ces contrats ne peuvent être comptés parmi les bénéficiaires
 de congés de formation pour l'application des articles L. 931-3, L. 931-4 et L.
-950-2-2 [*pourcentage d'absence simultanée, quota d'heures de formation*].
+951-3 [*pourcentage d'absence simultanée, quota d'heures de formation*].
 
 Est nulle et de nul effet toute clause de remboursement par le jeune à
 l'employeur des dépenses de formation en cas de rupture du contrat de travail.
 
-Les contrats de travail prévus à l'article L. 981-1 peuvent être renouvelés une
-fois si leur objet n'a pu être atteint, notamment en raison de l'échec aux
-épreuves d'évaluation de la formation suivie, de la maladie du jeune, d'un
-accident du travail ou de la défaillance de l'organisme de formation.
+Les contrats de travail prévus aux articles L. 981-1 et L. 981-6 peuvent être
+renouvelés une fois si leur objet n'a pu être atteint, notamment en raison de
+l'échec aux épreuves d'évaluation de la formation suivie, de la maladie du
+jeune, d'un accident du travail ou de la défaillance de l'organisme de
+formation.

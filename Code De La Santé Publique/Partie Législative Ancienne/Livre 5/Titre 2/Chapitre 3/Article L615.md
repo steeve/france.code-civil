@@ -9,7 +9,11 @@ régis par la présente section.
 Toute entreprise qui comporte au moins un établissement visé au premier alinéa
 doit être la propriété d'un pharmacien, d'un vétérinaire ou d'une société à la
 gérance ou à la direction générale de laquelle participe un pharmacien ou un
-vétérinaire.
+vétérinaire. Elle peut être, en tout ou partie, concédée en location-gérance à
+une société. Cette société doit être la propriété d'un pharmacien ou d'un
+vétérinaire ou comporter la participation d'un pharmacien ou d'un vétérinaire à
+sa direction générale ou à sa gérance. Les modalités d'exercice de la
+location-gérance sont déterminées par décret en Conseil d'Etat.
 
 Les pharmaciens ou vétérinaires mentionnés à l'alinéa précédent sont dénommés :
 " pharmaciens ou vétérinaires responsables ". Ils sont personnellement

@@ -2,7 +2,7 @@ Article L611-3
 ----
 Les caisses mutuelles régionales sont responsables , dans leur circonscription,
 sous le contrôle de la caisse nationale d'assurance maladie et maternité des
-travailleurs non-salariés, de la gestion du régime d'assurance maladie et
+travailleurs non salariés, de la gestion du régime d'assurance maladie et
 maternité et sont chargées de promouvoir, en faveur de leurs ressortissants, une
 action sanitaire et sociale, ainsi qu'une action de prévention, d'éducation et
 d'information sanitaires.
@@ -10,7 +10,7 @@ d'information sanitaires.
 Ces caisses confient le soin d'assurer pour leur compte l'encaissement des
 cotisations et le service des prestations prévues par le présent titre à des
 organismes régis, soit par le code de la mutualité, soit par le code des
-assurances, ou à des groupements régionaux de sociétés d'assurance.
+assurances, ou à des groupements de sociétés d'assurance.
 
 Ces organismes sont habilités à cet effet, dans des conditions fixées par décret
 en Conseil d'Etat, soit pour effectuer l'encaissement des cotisations et le

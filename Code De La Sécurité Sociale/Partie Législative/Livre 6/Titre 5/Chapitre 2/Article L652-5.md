@@ -17,4 +17,8 @@ compensatrice de perte de gain.
 Un décret en Conseil d'Etat fixe les modalités de calcul forfaitaire de la
 bonification qui tiennent compte de la durée d'exercice simultané d'un mandat et
 d'une activité professionnelle non salariée. Il détermine également les
-conditions d'entrée en vigueur du dispositif.
+conditions d'entrée en vigueur du dispositif. Les mandats en cours à la date de
+la publication de la loi n° 93-121 du 27 janvier 1993 portant diverses mesures
+d'ordre social sont pris en compte pour le calcul de la bonification
+compensatrice de perte de gain dès lors que les intéressés n'ont pas fait
+liquider leurs droits à pension antérieurement au début de ces mandats.

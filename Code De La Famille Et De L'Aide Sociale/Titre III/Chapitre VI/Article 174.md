@@ -11,3 +11,10 @@ Les titulaires de cartes d'invalidité surchargées des mentions "cécité" ou
 
 Toute personne faisant indûment usage de la canne blanche sera punie des peines
 prévues à l'article 173.
+
+La carte d'invalidité "grand infirme" est surchargée d'une mention "tierce
+personne" pour les personnes attributaires des deuxième et troisième compléments
+de l'allocation d'éducation spéciale ou de l'allocation compensatrice prévue au
+I de l'article 39 de la loi n° 75-534 du 30 juin 1975 d'orientation en faveur
+des personnes handicapées ou qui bénéficient d'un avantage analogue au titre
+d'un régime de sécurité sociale.

@@ -42,4 +42,8 @@ cure thermale ne donnent pas lieu à indemnité journalière, sauf lorsque la
 situation de l'intéressé le justifie suivant des conditions fixées par décret ;
 
 6°) les frais afférents aux examens prescrits en application de l'article L. 153
-du code de la santé publique.
+du code de la santé publique ;
+
+7°) La couverture des frais afférents aux vaccinations dont la liste est fixée
+par arrêté du ministre chargé de la sécurité sociale et du ministre chargé de la
+santé.

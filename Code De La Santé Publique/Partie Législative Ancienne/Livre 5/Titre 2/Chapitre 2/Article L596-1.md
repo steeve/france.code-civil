@@ -8,9 +8,10 @@ conformité avec les normes visées à l'article L. 600, à des organismes
 similaires ayant la même vocation en France ou dans un Etat de la Communauté
 européenne ou autre Etat partie à l'accord sur l'Espace économique européen, ou
 qui les exporte aux mêmes fins humanitaires dans un Etat non membre de ladite
-Communauté en vue de leur distribution et dispensation sans but lucratif. Le
-pharmacien responsable de l'établissement doit participer à la direction
-générale de l'organisme propriétaire.
+Communauté ou non partie à l'accord sur l'Espace économique européen en vue de
+leur distribution et dispensation sans but lucratif. Le pharmacien responsable
+de l'établissement doit participer à la direction générale de l'organisme
+propriétaire.
 
 Un décret en Conseil d'Etat précise les modalités d'application du présent
 article et les adaptations qui pourront être apportées, en ce qui concerne ces

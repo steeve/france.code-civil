@@ -31,11 +31,18 @@ En cas de licenciement, les intéressés auront droit, sauf demande de leur part
 6° Le délai de préavis à observer en cas de résiliation du contrat par l'une ou
 l'autre des parties. Pendant le délai de préavis, le travail aérien mensuel
 demandé aux navigants doit rester égal à la moyenne de celui demandé pendant la
-même période aux membres du personnel navigant de l'entreprise considérée.
+même période aux membres du personnel navigant de l'entreprise considérée;
+
+7° Le montant de l'indemnité exclusive de départ, allouée au personnel dont le
+contrat prend fin en application de l'article L. 421-9, à raison soit de
+l'impossibilité pour l'entreprise de proposer à l'intéressé de le reclasser dans
+un emploi au sol, soit du refus de l'intéressé d'accepter l'emploi qui lui est
+offert, calculé selon les mêmes modalités que celles prévues au deuxième alinéa
+de l'article L. 122-14-13 du code du travail.
 
 L'employeur peut cependant ne pas utiliser le navigant en période de
 délai-préavis, mais dans ce cas il doit lui verser, immédiatement et en une
-seule fois, une indemnité calculée pour la durée minimale du préavis sur la base
+seule fois, une indemnité calculée pour la durée minimum du préavis sur la base
 du salaire global mensuel moyen de la dernière année d'activité normale.
 
 Sauf s'il s'agit d'assurer un service public, les navigants et le personnel

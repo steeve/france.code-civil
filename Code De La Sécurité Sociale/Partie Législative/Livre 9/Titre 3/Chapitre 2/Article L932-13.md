@@ -11,9 +11,11 @@ couru, que du jour où l'institution de prévoyance en a eu connaissance ;
 2° En cas de réalisation du risque, que du jour où les intéressés en ont eu
 connaissance, s'ils prouvent qu'ils l'ont ignorée jusque-là.
 
-Lorsque l'action de l'adhérent contre l'institution a pour cause le recours d'un
-tiers, le délai de la prescription ne court que du jour où ce tiers a exercé une
-action en justice contre l'adhérent ou a été indemnisé par ce dernier.
+Quand l'action de l'adhérent, du participant, du bénéficiaire ou de l'ayant
+droit contre l'institution a pour cause le recours d'un tiers, le délai de
+prescription ne court que du jour où ce tiers a exercé une action en justice
+contre l'adhérent, le participant, le bénéficiaire ou l'ayant droit ou a été
+indemnisé par celui-ci.
 
 La prescription est portée à cinq ans en ce qui concerne l'incapacité de
 travail.

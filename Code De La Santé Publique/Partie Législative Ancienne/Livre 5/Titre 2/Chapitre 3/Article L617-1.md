@@ -6,7 +6,8 @@ le marché délivrée par l'autorité administrative.
 
 Toutefois, lorsque la situation sanitaire l'exige [*condition*], la
 commercialisation ou l'utilisation d'un médicament vétérinaire autorisé par un
-autre Etat membre de la Communauté européenne peut être autorisée par l'autorité
+autre Etat membre de la Communauté européenne ou autre Etat partie à l'accord
+sur l'Espace économique européen peut être autorisée par l'autorité
 administrative.
 
 En cas d'épizootie et sans préjudice des dispositions de l'article L. 617-4,

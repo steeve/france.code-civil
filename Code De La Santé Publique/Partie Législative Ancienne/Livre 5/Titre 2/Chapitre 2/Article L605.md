@@ -36,17 +36,22 @@ délivrance de cette autorisation.
 publique à la prescription et à la délivrance de certains médicaments ;
 
 8° Les règles applicables en cas de changement du titulaire de l'autorisation de
-mise sur le marché.
+mise sur le marché ;
 
 9° Les conditions d'application des articles L. 602 à L. 602-4 relatifs à la
-taxe annuelle des médicaments et produits.
+taxe annuelle des médicaments et produits ;
 
 10° Les règles applicables à la pharmacovigilance exercée sur les médicaments
 postérieurement à la délivrance de l'autorisation administrative de mise sur le
-marché.
+marché prévue à l'article L. 601, de l'autorisation temporaire d'utilisation
+prévue à l'article L. 601-2 ou postérieurement à l'enregistrement des
+médicaments homéopathiques prévu aux articles L. 601-3 et L. 601-4 ; ces règles
+fixent notamment les obligations de signalement incombant aux membres des
+professions de santé et aux entreprises exploitant un médicament ou un produit
+soumis à la présente section ;
 
 11° Les règles particulières applicables à la pharmacovigilance exercée sur les
-médicaments dérivés du sang et les autres médicaments d'origine humaine.
+médicaments dérivés du sang et les autres médicaments d'origine humaine ;
 
 12° Les modalités de présentation des demandes tendant à obtenir
 l'enregistrement des médicaments homéopathiques prévu aux articles L. 601-3 et

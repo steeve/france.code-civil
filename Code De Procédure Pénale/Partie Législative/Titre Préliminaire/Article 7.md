@@ -12,5 +12,4 @@ poursuite.
 
 Lorsque la victime est mineure et que le crime a été commis par un ascendant
 légitime, naturel ou adoptif ou par une personne ayant autorité sur elle, le
-délai de prescription est réouvert ou court à nouveau à son profit, pour la même
-durée à partir de sa majorité.
+délai de prescription ne commence à courir qu'à partir de sa majorité.

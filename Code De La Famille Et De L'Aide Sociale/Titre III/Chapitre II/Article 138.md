@@ -1,22 +1,31 @@
 Article 138
 ----
-Le centre d'action sociale constitue un établissement public communal ou
-intercommunal. Il est administré par un conseil d'administration, présidé par le
-maire ou, le cas échéant, par le président du syndicat intercommunal. Le conseil
-d'administration, lorsqu'il est constitué, élit en son sein un vice-président
-qui le préside en l'absence du maire ou du président du syndicat intercommunal,
-nonobstant les dispositions de l'article L. 122-13 du code des communes.
+Le centre d'action sociale est un établissement public administratif communal ou
+intercommunal. Il est administré par un conseil d'administration présidé, selon
+le cas, par le maire ou le président de l'établissement public de coopération
+intercommunale.
 
-Le conseil d'administration comprend, outre son président, en nombre égal, des
-membres élus en son sein à la représentation proportionnelle, dans des
-conditions fixées par décret en Conseil d'Etat, par le conseil municipal ou par
-l'organe délibérant de l'établissement public de coopération intercommunale et
-des membres nommés par le maire ou le président de l'établissement public de
-coopération intercommunale parmi les personnes participant à des actions de
-prévention, d'animation ou de développement social menées dans la commune ou les
-communes considérées.
+Dès qu'il est constitué, le conseil d'administration élit en son sein un
+vice-président qui le préside en l'absence du maire, nonobstant les dispositions
+de l'article L. 122-13 du code des communes, ou en l'absence du président de
+l'établissement de coopération intercommunale.
 
-Les membres désignés par le conseil municipal ou par l'organe délibérant de
+Outre son président, le conseil d'administration comprend, pour le centre
+communal d'action sociale, des membres élus en son sein à la représentation
+proportionnelle par le conseil municipal et, pour le centre intercommunal
+d'action sociale, des membres élus en son sein au scrutin majoritaire par
+l'organe délibérant de l'établissement public de coopération intercommunale.
+
+Le conseil d'administration comprend également des membres nommés, suivant le
+cas, par le maire ou par le président de l'établissement public de coopération
+intercommunale, parmi les personnes participant à des actions de prévention,
+d'animation ou de développement social menées dans la commune ou les communes
+considérées.
+
+Les membres élus et les membres nommés le sont en nombre égal au sein du conseil
+d'administration du centre d'action sociale.
+
+Les membres élus par le conseil municipal ou par l'organe délibérant de
 l'établissement public de coopération intercommunale et les membres nommés par
 le maire ou le président de l'établissement public de coopération intercommunale
 le sont à la suite de chaque renouvellement du conseil municipal et pour la
@@ -30,6 +39,3 @@ département.
 
 Sauf disposition contraire, les modalités et conditions d'application des
 articles 136 à 140 du présent code sont fixées par décret en Conseil d'Etat.
-
-Le renouvellement de l'ensemble des administrateurs des centres d'action sociale
-intervient à la date de publication du décret précité.

@@ -27,3 +27,9 @@ deuxième alinéa de l'article L. 322-4 du code du travail ;
 d'activité, par application d'accords professionnels ou interprofessionnels,
 nationaux ou régionaux, mentionnés au dernier alinéa de l'article L. 352-3 du
 code du travail.
+
+Les personnes qui, pendant un congé parental ou à l'issue de ce congé, sont
+involontairement privées d'emploi bénéficient pour elles-mêmes et leurs ayants
+droit, tant que dure leur indemnisation, de leurs droits aux prestations du
+régime obligatoire d'assurance maladie, maternité, invalidité et décès dont
+elles relevaient antérieurement au congé parental d'éducation.

@@ -1,8 +1,8 @@
 Article 126
 ----
-La commission d'admission à l'aide sociale [*composition*] est présidée par un
-magistrat du siège en activité ou honoraire ou par une personnalité compétente,
-désigné par le premier président de la cour d'appel.
+La commission d'admission à l'aide sociale est présidée par un magistrat du
+siège en activité ou honoraire ou par une personnalité compétente, désigné par
+le premier président de la cour d'appel.
 
 Elle comprend, outre le président :
 
@@ -31,8 +31,8 @@ En cas d'égal partage des voix, le président a voix prépondérante.
 
 Peuvent siéger avec voix consultative un représentant des organismes de sécurité
 sociale ou de la mutualité sociale agricole et un représentant d'un centre
-communal d'action sociale désignés conjointement par le président du conseil
-général et le représentant de l'Etat dans le département.
+communal ou intercommunal d'action sociale désignés conjointement par le
+président du conseil général et le représentant de l'Etat dans le département.
 
 Le demandeur, accompagné de la personne ou de l'organisme de son choix, est
 entendu lorsqu'il le souhaite sur décision du président de la commission.

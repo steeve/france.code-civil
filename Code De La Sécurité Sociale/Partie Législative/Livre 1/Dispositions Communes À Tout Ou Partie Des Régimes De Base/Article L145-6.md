@@ -1,9 +1,15 @@
 Article L145-6
 ----
-La section des assurances sociales du conseil régional de discipline est une
-juridiction ; elle est présidée par un président de tribunal administratif ou
-par un conseiller délégué par celui-ci ; elle comprend un nombre égal
-d'assesseurs, membres, selon le cas, de l'ordre des médecins ou de l'ordre des
-chirurgiens-dentistes, et d'assesseurs représentant des organismes de sécurité
-sociale, dont un praticien conseil ayant voix délibérative, nommés par
-l'autorité compétente de l'Etat.
+La section des assurances sociales du conseil régional ou interrégional de
+l'ordre est une juridiction. Elle est présidée par un membre du corps des
+tribunaux administratifs et des cours administratives d'appel en activité nommé
+par le vice-président du Conseil d'Etat au vu des propositions du président de
+la cour administrative d'appel dans le ressort duquel se trouve le siège du
+conseil régional ou interrégional.
+
+Elle comprend un nombre égal d'assesseurs, membres, selon le cas, de l'ordre des
+médecins, de l'ordre des chirurgiens-dentistes ou de l'ordre des sages-femmes,
+et d'assesseurs représentant des organismes de sécurité sociale, dont un
+praticien-conseil ayant voix délibérative, nommés par l'autorité compétente de
+l'Etat. Les assesseurs membres de l'ordre sont désignés par le conseil régional
+ou interrégional de l'ordre en son sein.
