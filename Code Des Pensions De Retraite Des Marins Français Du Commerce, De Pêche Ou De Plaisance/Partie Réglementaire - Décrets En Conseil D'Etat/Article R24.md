@@ -51,6 +51,38 @@ Cotisation ouvrière (%) : néant
 
 TOTAL : 28,40
 
+DESIGNATION :
+
+Marins français embarqués sur :
+
+- navires de commerce immatriculés dans le territoire des Terres australes et
+antarctiques françaises, exploités en transport à la demande, lorsque la
+proportion française de l'équipage est au moins égale à 35 % :
+
+1. Pour chaque marin français compris dans les 35 %
+
+Contribution patronale (%) : 5,20
+
+Cotisation ouvrière (%) : 11,90
+
+TOTAL : 17,10
+
+2. Pour chaque marin français supplémentaire
+
+Contribution patronale (%) : 17,70
+
+Cotisation ouvrière (%) : 11,90
+
+TOTAL : 29,60
+
+- autres navires immatriculés dans le T.T.A.A.F.
+
+Contribution patronale (%) : 17,70
+
+Cotisation ouvrière (%) : 11,90
+
+TOTAL : 29,60
+
 Lorsqu'il est établi, par un rapport de l'autorité consulaire annexé au rôle
 d'équipage, que l'embarquement d'étrangers hors d'un port français a été motivé
 par l'absence de marins français au port d'embarquement, la contribution
