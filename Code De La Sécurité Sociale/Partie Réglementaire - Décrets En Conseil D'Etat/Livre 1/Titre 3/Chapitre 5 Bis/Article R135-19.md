@@ -23,11 +23,11 @@ plan national, à raison de :
 suppléants désignés par les organisations professionnelles d'employeurs et de
 travailleurs indépendants représentatives, à raison de :
 
-- deux par le Mouvement des entreprises de France ;
+- trois par le Mouvement des entreprises de France ;
 
 - un par la Confédération générale des petites et moyennes entreprises ;
 
-- deux par l'Union professionnelle artisanale ;
+- un par l'Union professionnelle artisanale ;
 
 4° Deux représentants du ministre chargé de la sécurité sociale ou leurs
 suppléants, nommés par arrêté du ministre chargé de la sécurité sociale ;
@@ -39,14 +39,15 @@ arrêté du ministre chargé de l'économie ;
 arrêté du ministre chargé du budget ;
 
 7° Deux personnes qualifiées dans les domaines relevant des missions du fonds de
-réserve pour les retraites ou leurs suppléants, désignées à raison de :
+réserve pour les retraites, désignées à raison de :
 
 - une par le ministre chargé de la sécurité sociale ;
 
 - une par le ministre chargé de l'économie et le ministre chargé du budget.
 
 Le président du conseil de surveillance du fonds de réserve pour les retraites
-est nommé par décret parmi ses membres.
+est nommé par décret parmi ses membres. Le conseil de surveillance élit deux
+vice-présidents parmi ses membres.
 
 Les membres du conseil de surveillance mentionnés aux 2°, 3° et 7° sont désignés
 pour une durée de six ans renouvelable par moitié. En cas de démission,
