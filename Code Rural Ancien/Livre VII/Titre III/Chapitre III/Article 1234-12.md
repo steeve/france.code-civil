@@ -29,3 +29,10 @@ dans le cas où le dommage résulte d'une faute intentionnelle commise par eux, 
 conjoint, les enfants, descendants, alliés en ligne directe, préposés, employés,
 ouvriers ou domestiques du chef d'entreprise ou d'exploitation ainsi que toute
 personne vivant habituellement au foyer de celui-ci.
+
+La victime ou ses ayants droit doivent appeler l'organisme assureur en
+déclaration de jugement commun ; à défaut, la nullité du jugement sur le fond
+pourra être demandée pendant deux ans à compter de la date à partir de laquelle
+ledit jugement est devenu définitif, soit à la requête du ministère public, soit
+à la demande de l'assureur ou du tiers responsable lorsque ces derniers y ont
+intérêt.

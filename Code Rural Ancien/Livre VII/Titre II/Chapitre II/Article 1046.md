@@ -24,11 +24,12 @@ correspondant au préjudice moral des ayants droit leur demeure acquise.
 L'intéressé ou ses ayants droit doivent indiquer, en tout état de la procédure,
 la qualité d'assuré social de la victime de l'accident ainsi que les caisses de
 mutualité sociale agricole auxquelles celle-ci est ou était affiliée pour les
-divers risques. A défaut de cette indication, la nullité du jugement sur le fond
-pourra être demandée pendant deux ans, à compter de la date à partir de laquelle
-ledit jugement est devenu définitif, soit à la requête du ministère public, soit
-à la demande des caisses de mutualité sociale agricole intéressées ou du tiers
-responsable lorsque ces derniers y auront intérêt.
+divers risques. Ils doivent appeler ces caisses en déclaration de jugement
+commun. A défaut du respect de l'une de ces obligations, la nullité du jugement
+sur le fond pourra être demandée pendant deux ans, à compter de la date à partir
+de laquelle ledit jugement est devenu définitif, soit à la requête du ministère
+public, soit à la demande des caisses de mutualité sociale agricole intéressées
+ou du tiers responsable lorsque ces derniers y auront intérêt.
 
 La victime ou ses ayants droit sont admis à faire valoir les droits résultant
 pour eux de l'action en indemnité formée conformément aux trois premiers alinéas
