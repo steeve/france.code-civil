@@ -5,11 +5,12 @@ conditions suivantes [*délais*] :
 
 1. Pour les créances mentionnées aux articles L. 143-10, L. 143-11, L. 742-6 et
 L. 751-15, dans les dix jours suivant le prononcé du jugement d'ouverture de la
-procédure ;
-
-2. Pour les autres créances également exigibles à la date du jugement
-d'ouverture de la procédure, dans les trois mois suivant le prononcé du jugement
-;
+procédure ; 2. Pour les autres créances également exigibles à la date du
+jugement d'ouverture de la procédure, dans les trois mois suivant le prononcé du
+jugement ; Par dérogation aux dispositions des trois alinéas précédents,
+l'avance de la contribution de l'employeur au financement des allocations
+mentionnées au deuxième alinéa de l'article L. 322-3 est versée directement aux
+organismes gestionnaires mentionnés à l'article L. 351-21.
 
 3. Pour les salaires et les indemnités de congés payés couvertes en applications
 du 3° de l'article L. 143-11-1, dans les dix jours suivant l'expiration des

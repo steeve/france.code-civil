@@ -5,7 +5,7 @@ national d'immigration*] est punie d'un emprisonnement de deux mois à un an
 [*durée*] et d'une amende de 2.000 F à 20.000 F [*taux résultant de la loi 1468
 du 30 décembre 1977*] ou à l'une de ces deux peines seulement.
 
-En cas de récidive, l'emprisonnement peut être porté à deux ans et l'amende à
+En cas de récidive, l'emprisonnement peut être porté à trois ans et l'amende à
 40.000 F ; en outre, le tribunal peut ordonner la fermeture temporaire ou
 définitive des bureaux ou entreprises tenus ou exploités par les délinquants.
 

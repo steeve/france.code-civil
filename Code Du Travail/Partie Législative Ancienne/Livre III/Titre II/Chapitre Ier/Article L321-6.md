@@ -2,13 +2,14 @@ Article L321-6
 ----
 Les lettres de licenciement ne peuvent être adressées par l'employeur aux
 salariés concernés avant l'expiration d'un délai courant à compter de la
-notification du projet de licenciement à l'autorité administrative compétente
-prévue à l'article L. 321-7. Ce délai ne peut être inférieur à trente jours
-lorsque le nombre des licenciements est inférieur à cent, à quarante-cinq jours
-lorsque le nombre des licenciements est au moins égal à cent et inférieur à deux
-cent cinquante, et à soixante jours lorsque le nombre des licenciements est au
-moins égal à deux cent cinquante, sans préjudice des dispositions plus
-favorables prévues par conventions ou accords collectifs de travail.
+notification du projet de licenciement [*point de départ*] à l'autorité
+administrative compétente prévue à l'article L. 321-7. Ce délai ne peut être
+inférieur à trente jours [*durée*] lorsque le nombre des licenciements est
+inférieur à cent, à quarante-cinq jours lorsque le nombre des licenciements est
+au moins égal à cent et inférieur à deux cent cinquante, et à soixante jours
+lorsque le nombre des licenciements est au moins égal à deux cent cinquante,
+sans préjudice des dispositions plus favorables prévues par conventions ou
+accords collectifs de travail.
 
 Lorsqu'un accord collectif portant sur les conditions de licenciement, notamment
 sur les mesures prévues à l'article L. 321-4 ci-dessus, a été conclu à
@@ -37,3 +38,8 @@ ce qu'aurait été l'indemnité de préavis si elle avait correspondu à une dur
 supérieure à deux mois. Les litiges relatifs à cette rupture relèvent de la
 compétence des conseils de prud'hommes dans les conditions prévues à l'article
 L. 511-1.
+
+Par dérogation aux dispositions précédentes, pour les salariés dont le
+licenciement est soumis à autorisation, ce délai est prolongé de sept jours à
+partir de la date de notification à l'employeur de la décision de l'autorité
+administrative compétente.
