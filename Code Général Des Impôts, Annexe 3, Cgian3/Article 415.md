@@ -50,5 +50,5 @@ admises à la cote officielle ou à celle du second marché ;
 r) Frais de publicité provisoire et définitive des sûretés judiciaires.
 
 Ces frais sont comptés aux redevables en conformité du tarif des huissiers de
-justice, des agents huissiers du Trésor, des commissaires-priseurs, des
-notaires, ou des règles de rémunérations applicables aux avocats.
+justice, des agents huissiers du Trésor, des commissaires-priseurs judiciaires,
+des notaires, ou des règles de rémunérations applicables aux avocats.
