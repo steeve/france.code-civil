@@ -2,32 +2,34 @@ Article R*123-17
 ----
 Le rapport de présentation :
 
-1. Expose à partir de l'analyse de la situation existante les perspectives
-d'évolution démographique, économique et sociale ainsi que celles relatives à
-l'habitat, aux activités économiques et aux équipements publics ;
+1. Expose, à partir de l'analyse de la situation existante, les perspectives
+d'évolution démographique, économique et sociale, ainsi que celles relatives à
+l'habitat, à l'emploi, aux équipements publics, aux services et aux moyens de
+transports ;.
 
-2. Analyse, en fonction de la sensibililité du milieu, l'état initial du site et
+2. Analyse, en fonction de la sensibilité du milieu, l'etat initial du site et
 de l'environnement et les incidences de la mise en oeuvre du plan d'occupation
 des sols sur leur évolution ainsi que les mesures prises pour leur préservation
-et leur mise en valeur.
+et leur mise en valeur ;
 
 3. Détermine les perspectives d'évolution des parties urbanisées de la commune
 ainsi que les conditions permettant à la commune de maîtriser son urbanisation
 future et énumère, le cas échéant, les moyens utiles à la mise en oeuvre des
-options définies au plan d'occupation des sols ;
+options définies au plan d'occupation des sols, en particulier en matière
+d'habitat pour respecter les objectifs de diversité de l'habitat tels qu'ils
+résultent de la loi n° 91-662 du 13 juillet 1991.
 
-4. Justifie que les dispositions du plan d'occupation des sols sont compatibles
+4. Justifie que les dispositions du plan d'occupation des sols son compatibles
 avec les lois d'aménagement et d'urbanisme et les prescriptions prises pour leur
-application mentionnées aux articles L. 111-1-1 et L. 121-10, respectent les
-servitudes d'utilité publique et ne compromettent pas la mise en oeuvre des
-projets d'intérêt général ;
+application , respectent les servitudes d'utilité publique et ne compromettent
+pas la mise en oeuvre des projets d'intérêt général ;
 
-5. Justifie le cas échéant de la prise en considération par le plan d'occupation
-des sols des orientations de la charte intercommunale de développement et
-d'aménagement élaborée en application de l'article 29 de la loi n° 83-8 du 7
-janvier 1983 et de la compatibilité du plan d'occupation des sols avec les
-orientations du schéma directeur ou du schéma de secteur ou du schéma de mise en
-valeur de la mer ;
+5. Justifie de la compatibilité des dispositions du plan d'occupation des sols
+avec les orientations du schéma directeur ou du schéma de secteur ou du schéma
+de mise en valeur de la mer et de la prise en considération du programme local
+de l'habitat, lorsqu'il existe. Il justifie en outre de la prise en
+considération du programme de référence élaboré en application des articles L.
+123-11 et L. 123-13 .
 
 6. Comporte la superficie des différents types de zones urbaines et de zones
 naturelles ainsi que des espaces boisés classés au titre de l'article L. 130-1

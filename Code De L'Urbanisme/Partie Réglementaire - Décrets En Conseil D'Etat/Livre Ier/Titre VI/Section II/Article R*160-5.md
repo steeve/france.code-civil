@@ -11,12 +11,11 @@ L. 332-6-1, 2°, e [*equipements publics*];
 c) De cession d'un terrain aménagé situé dans une zone créée avant l'institution
 des zones d'aménagement concerté et qui a été exclue du champ d'application de
 la taxe locale d'équipement, lorsque cette cession a fait l'objet d'un cahier
-des charges soumis à l'approbation du commissaire de la République ;
+des charges soumis à l'approbation du préfet ;
 
-d) De cession d'un terrain aménagé situé dans une zone de rénovation urbaine,
-une zone à urbaniser en priorité ou une zone de résorption de l'habitat
-insalubre, lorsque cette cession a fait l'objet d'un cahier des charges soumis à
-l'approbation du commissaire de la République.
+d) De cession d'un terrain aménagé situé dans une zone de rénovation urbaine, ou
+une zone de résorption de l'habitat insalubre, lorsque cette cession a fait
+l'objet d'un cahier des charges soumis à l'approbation du préfet.
 
 e) De transfert de propriété opéré dans le cadre d'une opération de remembrement
 urbain.

@@ -25,3 +25,5 @@ d) L'indication du mode de réalisation choisi ;
 e) Le régime de la zone au regard de la taxe locale d'équipement ;
 
 f) L'indication du document d'urbanisme applicable à l'intérieur de la zone.
+
+g) L'indication du programme global de construction.

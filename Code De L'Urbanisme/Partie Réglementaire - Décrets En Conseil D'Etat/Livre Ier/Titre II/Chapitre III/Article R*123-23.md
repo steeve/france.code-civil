@@ -12,10 +12,6 @@ approuvés par le préfet sont incorporées au plan d'occupation des sols, suiva
 les modalités fixées par l'article L. 123-6 (alinéa 2).
 
 Les dispositions destinées à assurer l'unité d'urbanisme et d'architecture dans
-une zone à urbaniser en priorité sont incorporées au plan d'occupation des sols
-par la décision qui supprime la zone ou en constate l'achèvement.
-
-Les dispositions destinées à assurer l'unité d'urbanisme et d'architecture dans
 les zones d'habitation et dans les zones industrielles créées avant
 l'institution des zones d'aménagement concerté sont incorporées au plan
 d'occupation des sols suivant les modalités fixées à l'article L. 123-12.

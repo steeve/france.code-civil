@@ -1,8 +1,9 @@
 Article R*311-5
 ----
-La décision créant la zone d'aménagement concerté [*contenu*] en délimite le ou
-les périmètres, mentionne le mode de réalisation choisi et précise le régime
-applicable au regard de la taxe locale d'équipement.
+La décision créant la zone d'aménagement concerté en délimite le ou les
+périmètres, indique le programme global de construction, mentionne le mode de
+réalisation choisi et précise le régime applicable au regard de la taxe locale
+d'équipement.
 
 Dans les communes, parties de communes ou ensembles de communes dotés d'un plan
 d'occupation des sols rendu public ou approuvé, la décision créant la zone
