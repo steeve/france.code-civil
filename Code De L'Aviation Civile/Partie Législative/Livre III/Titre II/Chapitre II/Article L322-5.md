@@ -19,5 +19,5 @@ heures à compter soit de la constatation du délit si celui-ci a été commis d
 un lieu destiné à l'accès à un aéronef, soit de l'arrivée des passagers si le
 délit a été commis dans un aéronef.
 
-La consignation est versée à un comptable du Trésor ou à un agent visé à
+La consignation est versée au comptable public compétent ou à un agent visé à
 l'article L. 330-10 porteur d'un carnet de quittances à souche.
