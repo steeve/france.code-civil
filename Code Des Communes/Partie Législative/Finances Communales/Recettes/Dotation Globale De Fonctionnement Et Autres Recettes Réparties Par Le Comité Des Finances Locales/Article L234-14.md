@@ -1,56 +1,33 @@
 Article L234-14
 ----
-Les communes touristiques ou thermales et leurs groupements, dont la liste est
-arrêtée après avis du comité des finances locales institué par l'article L.
-234-20, reçoivent une dotation supplémentaire destinée à tenir compte de leurs
-charges exceptionnelles.
+Bénéficient d'une dotation particulière destinée à tenir compte des charges qui
+résultent de l'utilisation de leurs équipements par les habitants des communes
+voisines :
 
-Le montant de cette dotation est calculé en fonction de l'importance de la
-population permanente, de la capacité d'accueil existante ou en voie de
-création, ainsi que des équipements collectifs touristiques ou thermaux et de
-l'insuffisance du potentiel fiscal par habitant de la commune considérée par
-rapport au potentiel fiscal moyen par habitant de l'ensemble des collectivités
-bénéficiaires.
+1° Les communes qui, dans une agglomération représentant au moins 10 p. 100 de
+la population du département, en constituent la ville principale ;
 
-Le montant des crédits affectés à la dotation supplémentaire aux communes
-touristiques ou thermales est fixé chaque année par le comité des finances
-locales. Il ne peut être inférieur à 20 p. 100 ni supérieur à 28 p. 100 des
-ressources affectées aux concours particuliers.
+2° Les communes situées dans une agglomération de plus de 250.000 habitants
+représentants au moins 10 p. 100 de la population du département, lorsque leur
+population est au moins égale à la moitié de celle de la ville principale ;
 
-La dotation supplémentaire attribuée aux communes touristiques ou thermales sera
-déterminée pour les années 1984 et 1985 conformément aux dispositions suivantes
-:
+3° Les communes de plus de 100.000 habitants ou celles dont la population
+représente au moins 10 p. 100 de la population du département ;
 
-1° Les communes inscrites en 1983 sur la liste des communes touristiques ou
-thermales bénéficient en 1984 :
+4° Les communes chefs-lieux de département. Dans la région d'Ile-de-France,
+seules ces communes bénéficient de la dotation particulière.
 
-a) lorsque leur capacité d'accueil est stable ou en accroissement, d'une
-dotation supplémentaire au moins égale à celle reçue en 1983 ;
+Le montant des sommes à répartir chaque année, en application du présent
+article, est fixé chaque année par le comité des finances locales.
 
-b) lorsque leur capacité d'accueil est en diminution, d'une dotation
-supplémentaire au moins égale aux deux tiers de celle reçue en 1983.
+La dotation revenant à chacune des communes mentionnées ci-dessus est
+proportionnelle à la somme des dotations reçues en vertu des articles L. 234-2 à
+L. 234-19 et L. 234-19-1.
 
-2° Les communes inscrites sur la liste des communes touristiques ou thermales en
-1984 bénéficient en 1985 :
+Les communes dont le potentiel fiscal est égal ou supérieur au double de celui
+de l'ensemble des communes ne perçoivent pas d'attribution à ce titre.
 
-a) lorsque leur capacité d'accueil est stable ou en accroissement, d'une
-dotation supplémentaire au moins égale à celle reçue en 1984 ;
-
-b) lorsque leur capacité d'accueil est en diminution, d'une dotation au moins
-égale aux deux tiers de celle reçue en 1984.
-
-3° Les communes qui cessent en 1984 d'être inscrites sur la liste des communes
-touristiques ou thermales et qui ont bénéficié en 1984 de la garantie prévue par
-le b) du 1° du présent article reçoivent en 1985 une dotation égale au tiers de
-celle qu'elles ont reçue en 1983.
-
-Pour chaque collectivité bénéficiaire, le montant de la dotation supplémentaire
-ainsi calculé est diminué du dixième du produit de la taxe de séjour
-effectivement perçu l'année précédente. Les sommes ainsi prélevées sont d'abord
-affectées au financement de la dotation destinée à compenser les charges des
-communes qui connaissent une importante fréquentation touristique journalière
-dans les conditions fixées à l'article 10 de la loi n° 83-1186 du 29 décembre
-1983 portant modification de dispositions relatives aux relations financières et
-aux transferts de compétences entre l'Etat et les collectivités locales. Le
-reliquat éventuel majore la dotation supplémentaire attribuée aux communes
-touristiques ou thermales.
+Lorsqu'une commune remplit les conditions requises pour bénéficier à la fois de
+la dotation instituée par le présent article et de la dotation particulière
+instituée par l'article L. 234-13, seule la plus élevée des deux dotations lui
+est versée.

@@ -1,40 +1,44 @@
 Article L234-17
 ----
-Dans les agglomérations représentant au moins 10 p. 100 [*pourcentage*] de la
-population du département, les communes centres bénéficient d'une dotation
-particulière destinée à tenir compte des charges qui résultent de l'utilisation
-de leurs équipements par les habitants des communes voisines.
+Les groupements de communes dotés d'une fiscalité propre reçoivent une
+attribution de la dotation globale de fonctionnement.
 
-Le montant total des sommes à répartir à ce titre est fixé chaque année par le
-comité des finances locales.
+Le montant total des sommes affectées à cette dotation, ainsi que sa répartition
+entre, d'une part, les districts à fiscalité propre et, d'autre part, les
+communautés urbaines, sont fixés chaque année par le comité de finances locales.
 
-La dotation revenant à chacune des communes centres concernées est
-proportionnelle au montant de sa dotation globale de fonctionnement multipliée
-par le rapport entre la population de l'agglomération résidant dans le
-département, à l'exclusion de celles de la commune centre, et la population
-totale de l'agglomération habitant ce même département. Cette dotation ne peut
-être inférieure à la somme de 17 F [*montant minimum*] par habitant actualisée
-chaque année du taux de progression des ressources affectées à ce concours
-particulier.
+La dotation globale de fonctionnement des groupements de communes dotés d'une
+fiscalité propre est prélevée sur les sommes affectées à la dotation globale de
+fonctionnement des communes, après déduction des sommes prévues pour les
+concours particuliers régis par les articles L. 234-13 et L. 234-14 et pour la
+garantie d'évolution prévue par l'article L. 234-19-1.
 
-Toutefois, lorsqu'une agglomération comporte plusieurs villes centres, la
-définition de ces villes centres et les modalités de calcul de leur dotation
-sont fixées par décret en Conseil d'Etat, après avis du comité des finances
-locales.
+Chaque groupement de communes défini ci-dessus reçoit :
 
-Lorsqu'une commune remplit les conditions requises pour bénéficier à la fois de
-la dotation particulière instituée par le présent article et de la dotation
-particulière instituée par l'article L. 234-14 en faveur des communes
-touristiques ou thermales, seule la plus élevée des deux dotations lui est
-versée.
+a) Une dotation de base égale au produit d'une attribution moyenne par habitant,
+dont le montant tient compte du coefficient d'intégration fiscale des
+groupements, par la population totale des communes regroupées :
 
-Les communes qui, en 1982, ont bénéficié de la dotation particulière instituée
-par le présent article en faveur des villes centres d'agglomération et qui, en
-1983, ne remplissent plus les conditions requises par les alinéas 1er et 4
-ci-dessus, soit en raison des mouvements de population constatés lors du
-recensement général de population de 1982, soit en raison de la modification de
-la structure des agglomérations, continuent, à titre transitoire, à bénéficier
-de cette dotation particulière pendant une période de trois ans à compter du 1er
-janvier 1983.
+b) Une dotation de péréquation en fonction de son potentiel fiscal et de son
+coefficient d'intégration fiscale.
 
-Il leur est attribué une dotation égale à celle perçue en 1982.
+Le potentiel fiscal d'un groupement de communes [*définition, calcul*] est égal
+au montant des bases pondérées des quatre taxes directes locales. Ces bases sont
+les bases brutes servant à l'assiette des impositions de ce groupement. Le
+coefficient de pondération de la base de chacune des quatre taxes est le taux
+moyen national d'imposition à la taxe concernée constaté pour les groupements,en
+distinguant communautés urbaines et districts à fiscalité propre.
+
+Le coefficient d'intégration fiscale est égal au rapport entre le produit des
+quatre taxes directes locales et de la taxe ou de la redevance d'enlèvement des
+ordures ménagères perçu par le groupement et l'ensemble des communes regroupées.
+
+Les sommes affectées à la dotation de base des districts à fiscalité propre,
+d'une part, des communautés urbaines, d'autre part, représentent 15 p. 100 du
+montant total des sommes affectées à la dotation globale de fonctionnement de
+chacune de ces deux catégories de groupements de communes.
+
+Pour 1986, le montant des sommes affectées à la dotation globale de
+fonctionnement des groupements de communes dotés d'une fiscalité propre ne peut
+être supérieur à 2025 millions de francs. Pour les années ultérieures, ce
+montant évolue comme la dotation globale de fonctionnement.
