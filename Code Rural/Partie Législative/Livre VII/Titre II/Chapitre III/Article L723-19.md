@@ -14,8 +14,7 @@ régime des salariés agricoles ou du régime des exploitants agricoles et qu'il
 relève pas personnellement d'un des collèges ci-dessus définis, tout conjoint
 d'une personne ayant la qualité d'électeur est électeur dans le même collège.
 
-Les électeurs sont inscrits sur la liste électorale de la commune de leur
-résidence.
+Les électeurs sont inscrits sur la liste électorale du canton de leur résidence.
 
 Nul ne peut être électeur dans plus d'un des collèges définis à l'article L.
 723-15.

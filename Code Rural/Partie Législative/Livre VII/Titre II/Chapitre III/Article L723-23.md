@@ -3,8 +3,8 @@ Article L723-23
 Les scrutins pour l'élection des délégués cantonaux des trois collèges ont lieu
 le même jour à une date fixée par arrêté du ministre chargé de l'agriculture.
 
-Le vote a lieu dans les mairies des chefs-lieux de canton, sous la présidence du
-maire ou de son délégué.
+L'électeur vote par correspondance sous pli fermé dans des conditions fixées par
+voie réglementaire.
 
-L'électeur peut voter par correspondance dans les conditions fixées par le
-décret prévu à l'article L. 723-40.
+Une commission présidée par le représentant de l'Etat dans la région ou dans la
+collectivité territoriale de Corse, ou par son délégué, proclame les résultats.
