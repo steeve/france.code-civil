@@ -31,10 +31,6 @@ daim, chamois, isard, bouquetin, et mouflon) sur les territoires de chasse
 pendant la période de chasse propre à chaque département, telle qu'elle est
 définie au premier alinéa de l'article 371.
 
-L'arrêté du ministre est pris sur proposition du préfet, présentée à la demande
-conjointe du conservateur des eaux et forêts et du président de la fédération
-départementale des chasseurs.
-
 En cas de calamité, incendie, inondations, gel prolongé, susceptible de
 provoquer ou de favoriser la destruction du gibier, le préfet pourra, pour tout
 ou partie du département, suspendre, dans un délai de quarante-huit heures,
