@@ -52,12 +52,16 @@ durée d'assurance ou de périodes reconnues équivalentes, définies à l'artic
 6° Les sommes correspondant au paiement par les organismes visés aux articles
 1002 et 1142-8 du code rural des majorations des pensions accordées en fonction
 du nombre d'enfants aux ressortissants du régime de protection sociale des
-personnes non salariées des professions agricoles.
+personnes non salariées des professions agricoles ;
 
-Les sommes mentionnées au a et b du 4° sont calculées sur une base forfaitaire
-déterminée après avis des conseils d'administration des caisses des régimes
-d'assurance vieillesse de base concernées dans des conditions fixées par décret
-en Conseil d'Etat.
+7° Les sommes représentatives de la prise en compte par les régimes d'assurance
+vieillesse de base des périodes de volontariat du service national de leurs
+assurés.
+
+Les sommes mentionnées au a et b du 4° et au 7° sont calculées sur une base
+forfaitaire déterminée après avis des conseils d'administration des caisses des
+régimes d'assurance vieillesse de base concernées dans des conditions fixées par
+décret en Conseil d'Etat.
 
 Les sommes mentionnées au c du 4° sont calculées sur une base forfaitaire
 déterminée par arrêté conjoint du ministre chargé de la sécurité sociale et du
