@@ -1,10 +1,17 @@
 Article R322-2
 ----
-Les primes ne peuvent être attribuées [*conditions*] que dans le cadre de
-programmes d'intérêt général visant à améliorer des ensembles d'immeubles ou de
-logements et approuvés par le préfet.
+Les primes ne peuvent être attribuées que pour des immeubles ou des logements
+destinés à être occupés au moins huit mois par an par des personnes dont les
+ressources [*plafond*] n'excèdent pas, à la date de la demande de prime, un
+montant déterminé par arrêté des ministres chargés de l'économie, du budget, de
+la construction et de l'habitation [*durée*].
 
-Toutefois, le préfet peut attribuer les primes dans les périmètres de
-restauration immobilière agréés par l'agence nationale pour l'amélioration de
-l'habitat jusqu'à l'expiration de leur agrément et, au plus tard, jusqu'au 31
-décembre 1978 [*date limite*].
+Ces conditions sont également applicables aux personnes qui, n'occupant pas les
+logements améliorés, sollicitent le bénéfice des primes.
+
+Lorsque les travaux, pour lesquels la prime est demandée, portent sur les
+parties communes d'un immeuble en copropriété, elle est accordée aux
+copropriétaires répondant aux conditions de la présente section. Elle est
+calculée sur la base de la quote-part des travaux leur incombant. Dans ce cas,
+la subvention peut être versée directement au syndic pour le compte des
+copropriétaires concernés.
