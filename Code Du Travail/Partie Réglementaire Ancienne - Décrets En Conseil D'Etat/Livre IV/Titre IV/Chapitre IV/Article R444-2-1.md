@@ -6,6 +6,10 @@ Le Conseil supérieur de la participation comprend [*composition*] :
 
 2° Un représentant du garde des sceaux, ministre de la justice ;
 
+Un représentant du ministre chargé des petites et moyennes entreprises ;
+
+Un représentant de la Commission des opérations de bourse ;
+
 Un représentant du ministre chargé des affaires sociales ;
 
 Un représentant du ministre chargé de l'économie ;
@@ -20,7 +24,7 @@ organisations syndicales de salariés les plus représentatives sur le plan
 national ;
 
 5° Cinq représentants des employeurs, dont deux désignés sur proposition du
-Conseil national du patronat français, un désigné sur proposition de la
+Mouvement des entreprises de France, un désigné sur proposition de la
 Confédération générale des petites et moyennes entreprises, un désigné sur
 proposition conjointe de la Fédération nationale des syndicats d'exploitants
 agricoles et de la Confédération nationale de la mutualité, de la coopération et

@@ -9,6 +9,7 @@ Le montant de la réserve spéciale de participation est modifié en conséquenc
 cours de l'exercice pendant lequel les rectifications opérées par
 l'administration ou par le juge de l'impôt sont devenues définitives ou ont été
 formellement acceptées par l'entreprise. Ce montant est majoré d'un intérêt dont
-le taux est fixé par arrêté des ministres chargés des finances et du travail et
-qui court à partir du premier jour du quatrième mois de l'exercice qui suit
-celui au titre duquel les rectifications ont été opérées [*point de départ*].
+le taux est égal au taux moyen de rendement des obligations des sociétés privées
+publié par le ministre chargé de l'économie et qui court à partir du premier
+jour du quatrième mois de l'exercice qui suit celui au titre duquel les
+rectifications ont été opérées [*point de départ*].

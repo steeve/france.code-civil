@@ -2,9 +2,9 @@ Article R442-2
 ----
 Pour le calcul du montant de la réserve spéciale de participation des salariés :
 
-1° Les salaires à retenir sont déterminés selon les règles posées à l'article
-231 du code général des impôts, que l'entreprise soit ou non assujettie à la
-taxe sur les salaires ;
+1° Les salaires à retenir sont déterminés selon les règles prévues pour le
+calcul des rémunérations au sens de l'article L. 242-1 du code de la sécurité
+sociale ;
 
 2° La valeur ajoutée par l'entreprise est déterminée en faisant le total des
 postes du compte de résultats énumérés ci-après, pour autant qu'ils concourent à
@@ -31,8 +31,8 @@ l'impôt ainsi que les provisions réglementées constituées en franchise d'imp
 par application d'une disposition particulière du code général des impôts ; leur
 montant est retenu d'après les valeurs figurant au bilan de clôture de
 l'exercice au titre duquel la réserve spéciale de participation est calculée.
-Toutefois, en cas d'augmentation du capital au cours de l'exercice, le montant
-du capital et des primes liées au capital social est pris en compte prorata
+Toutefois, en cas de variation du capital au cours de l'exercice, le montant du
+capital et des primes liées au capital social est pris en compte prorata
 temporis.
 
 La réserve spéciale de participation des salariés ne figure pas parmi les
@@ -47,7 +47,8 @@ dans l'exercice considéré.
 
 b) Le montant des capitaux propres auxquels s'applique le taux de 5 p. 100 prévu
 au 2 de l'article L. 442-2 est obtenu en retranchant des capitaux propres
-définis au a ceux qui sont investis à l'étranger.
+définis au a ceux qui sont investis à l'étranger calculés prorata temporis en
+cas d'investissement en cours d'année.
 
 Le montant de ces derniers est égal au total des postes nets de l'actif
 correspondant aux établissements situés à l'étranger après application à ce

@@ -8,8 +8,9 @@ correspondants avant le premier jour du quatrième mois suivant la clôture de
 l'exercice au titre duquel la participation est attribuée.
 
 Passé ce délai, les entreprises doivent compléter les versements prévus à
-l'alinéa précédent par un intérêt de retard dont le taux est fixé par arrêté des
-ministres chargés des finances et du travail.
+l'alinéa précédent par un intérêt de retard égal à 1,33 fois le taux moyen de
+rendement des obligations des sociétés privées publié par le ministre chargé de
+l'économie.
 
 Les intérêts sont versés en même temps que le principal et employés dans les
 mêmes conditions.
