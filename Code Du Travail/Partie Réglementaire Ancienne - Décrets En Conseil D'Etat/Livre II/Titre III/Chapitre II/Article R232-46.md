@@ -1,7 +1,7 @@
 Article R232-46
 ----
-Pour l'application aux établissements agricoles de la section I ci-dessus, ne
-sont pas considérés comme locaux fermés affectés au travail [*définition*], au
-sens de cette section, les serres, caves, champignonnières et tous les locaux
-fermés dans lesquels sont mises en oeuvre des techniques de production agricole
-incompatibles avec l'application de ces dispositions.
+Lorsque les dispositions de la section 1 relatives à l'aération et à
+l'assainissement ainsi qu'au nettoyage et au chauffage ne peuvent recevoir
+application en raison de la nature des opérations agricoles pratiquées, des
+mesures d'effet équivalent doivent être prises pour la protection de la santé
+des travailleurs .

@@ -4,16 +4,6 @@ Le tableau ci-après détermine les prescriptions du présent chapitre qui donne
 lieu à l'application de la procédure de mise en demeure prévue à l'article L.
 231-4 ainsi que le délai minimum d'exécution :
 
-Article R. 232-1 al. 1 et 2 Délai : 1 mois.
-
-Article R. 232-2 al. 2 Délai : 1 mois.
-
-Article R. 232-2 al. 3 Délai : 4 jours.
-
-Article R. 232-3 Délai : 1 mois.
-
-Article R. 232-4 Délai : 4 jours.
-
 Article R. 232-5 al. 2 Délai : 4 jours.
 
 Article R. 232-7 al. 1 et 2 Délai : 4 jours.
@@ -29,14 +19,6 @@ Article R. 232-10 al. 4 et 5 Délai : 15 jours.
 Article R. 232-11 al. 1 Délai : 1 mois.
 
 Article R. 232-11 al. 2 et 3 Délai : 4 jours.
-
-Article R. 232-12 Délai : 1 mois.
-
-Article R. 232-14 Délai : 1 mois.
-
-Article R. 232-15 al. 1 Délai : 4 jours.
-
-Article R. 232-15 al. 2 Délai : 1 mois.
 
 Article R. 232-16 Délai : 4 jours.
 
