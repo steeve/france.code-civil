@@ -1,9 +1,7 @@
 Article D615-9
 ----
 En cas de naissances ou d'adoptions multiples, les durées maximales de
-remplacement fixées aux 1° et 2° de l'article D. 615-6 et le montant du plafond
-journalier fixé à l'article D. 615-7 pour le calcul de l'indemnité de
-remplacement sont doublés.
+remplacement fixées aux 1° et 2° de l'article D. 615-6 sont doublées.
 
 Dans ce cas, les jours supplémentaires doivent être pris au cours d'une période
 commençant à partir de l'accouchement ou de l'arrivée de l'enfant au foyer et se
