@@ -12,7 +12,10 @@ et appréciées selon les dispositions de l'article R. 351-5 sont au plus égale
 812 fois le salaire minimum de croissance horaire en vigueur au 31 décembre de
 ladite année ;
 
-b) Au renouvellement du droit, au 1er juillet, si ni le bénéficiaire ni son
+b) Au premier renouvellement du droit, si les ressources, lors de l'ouverture du
+droit, ont été évaluées forfaitairement ;
+
+c) Au renouvellement du droit, au 1er juillet, si ni le bénéficiaire ni son
 conjoint n'a disposé de ressources appréciées conformément à l'article R. 351-5
 pendant l'année civile de référence.
 
@@ -22,12 +25,8 @@ ou le mois de mai précédant le renouvellement du droit, affectée des déducti
 prévues au deuxième alinéa du 3° de l'article 83 et au quatrième alinéa du 5 (a)
 de l'article 158 du code général des impôts, soit, s'il s'agit d'une personne
 exerçant une activité professionnelle en qualité d'employeur ou de travailleur
-indépendant, à 2 028 fois le salaire minimum de croissance horaire en vigueur au
+indépendant, à 1 500 fois le salaire minimum de croissance horaire en vigueur au
 1er janvier qui précède l'ouverture ou le renouvellement du droit.
 
 Le montant des ressources ainsi déterminé est affecté des déductions et
 abattements fixés par le II de l'article R. 351-5.
-
-III. - Lorsque les ressources, lors de l'ouverture du droit, ont été déterminées
-sur la base d'une évaluation forfaitaire, les mêmes ressources sont prises en
-compte lors du premier renouvellement du droit au 1er juillet suivant.
