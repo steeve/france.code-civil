@@ -1,6 +1,5 @@
 Article D74
 ----
-Les conditions dans lesquelles le budget général rembourse au budget annexe des
-postes et télécommunications la valeur d'affranchissement des plis admis en
-franchise postale sont fixées par arrêté conjoint du ministre des postes et
-télécommunications et du ministre des finances.
+Les prestations effectuées par La Poste au titre de la franchise sont rémunérées
+par l'Etat selon les modalités définies à l'article 38 du cahier des charges de
+La Poste.
