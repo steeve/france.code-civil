@@ -1,6 +1,6 @@
 Article 367
 ----
-Les taxes parafiscales dont l'assiette est commune avec les impôts ou taxes
-perçues au profit de l'Etat ou de toute autre collectivité publique sont assises
-et recouvrées suivant les mêmes règles, sous les mêmes garanties et les mêmes
-sanctions que lesdits impôts et taxes.
+Un prélèvement représentant les frais d'assiette et de perception est effectué
+au profit du budget général sur tous les recouvrements de taxes parafiscales
+opérés par les administrations de l'Etat. Le taux de ce prélèvement est fixé à 5
+% sauf dérogation par arrêté du ministre chargé du budget.

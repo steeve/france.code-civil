@@ -1,6 +1,7 @@
 Article 366
 ----
-La perception des taxes parafiscales au-delà du 31 décembre de l'année de leur
-institution doit être autorisée chaque année par la loi de finances
-[*autorisation obligatoire*]. A cet effet, la liste des taxes parafiscales fait
-l'objet d'un état annexé à ladite loi.
+Les taxes parafiscales dont l'assiette est commune avec les impôts ou taxes
+perçus au profit de l'Etat ou de toute autre collectivité sont assises,
+liquidées et recouvrées suivant les mêmes règles, sous les mêmes garanties et
+les mêmes sanctions que lesdits impôts et taxes. Les réclamations sont,
+présentées et jugées comme celles qui concernent ces impôts et taxes.
