@@ -15,7 +15,8 @@ lieu ;
 
 Le directeur des services fiscaux ;
 
-Le directeur de la concurrence et de la consommation ;
+Le directeur général de la concurrence, de la consommation et de la répression
+des fraudes ;
 
 Le chef du service dont relève l'activité à encourager ;
 
@@ -36,10 +37,9 @@ proposition du directeur des services fiscaux.
 La commission se réunit sur la convocation du préfet du département ou du préfet
 représentant l'Etat dans la collectivité territoriale de
 Saint-Pierre-et-Miquelon . Sauf en cas d'urgence dûment motivé, ses membres sont
-convoqués dix jours au moins [*delai minimum*] avant la date fixée pour la
-réunion. Elle délibère valablement à condition qu'il y ait au moins six membres
-présents. En cas de partage égal des voix, la voix du président est
-prépondérante.
+convoqués dix jours au moins avant la date fixée pour la réunion. Elle délibère
+valablement à condition qu'il y ait au moins six membres présents. En cas de
+partage égal des voix, la voix du président est prépondérante.
 
 La commission entend, à titre consultatif, les personnalités et experts dont
 elle estime utile de prendre l'avis.
