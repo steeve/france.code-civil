@@ -13,11 +13,11 @@ conditions définies par décret en Conseil d'Etat :
 a) Les exportateurs et les importateurs pour leurs opérations de commerce
 extérieur ;
 
-b) Les banques et établissements financiers installés en France pour les prêts
-ou crédits qu'ils consentent soit à des personnes étrangères, physiques ou
-morales, de droit public ou de droit privé, soit à des banques ou établissements
-financiers étrangers, pour le financement d'opérations d'exportation ou connexes
-à des exportations ;
+b) Les banques et établissements financiers pour les prêts ou crédits qu'ils
+consentent soit à des personnes étrangères, physiques ou morales, de droit
+public ou de droit privé, soit à des banques ou établissements financiers
+étrangers, pour le financement d'opérations d'exportation ou connexes à des
+exportations ;
 
 c) Les entreprises installées en France, pour les investissements à l'étranger
 connexes à des opérations d'exportation.
