@@ -1,7 +1,6 @@
 Article R*226-5
 ----
-Les ressources disponibles en fin d'exercice sont versées à un compte de
-réserves. Elles peuvent éventuellement concourir au financement d'actions
-techniques d'intérêt général. Le conseil d'administration de l'Office national
-de la chasse détermine le montant des sommes à inscrire à cet effet au budget de
-l'établissement.
+Le compte de réserve est alimenté par les participations de l'Office national de
+la chasse non utilisées au cours de l'année précédente, déduction faite des
+sommes consacrées par le conseil d'administration de l'office à des actions
+techniques d'intérêt général concernant les dégâts de grand gibier.
