@@ -13,3 +13,8 @@ Les peines encourues par les personnes morales sont :
 
 L'interdiction visée au 2° de l'article 131-39 porte sur l'activité dans
 l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise.
+
+Les personnes morales condamnées au titre de l'infraction visée au deuxième
+alinéa de l'article L. 364-3 encourent la peine complémentaire de confiscation
+de tout ou partie de leurs biens, quelle qu'en soit la nature, meubles ou
+immeubles, divis ou indivis.

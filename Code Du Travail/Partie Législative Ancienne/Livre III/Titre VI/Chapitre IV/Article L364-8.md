@@ -20,12 +20,20 @@ l'infraction et qui appartiennent au condamné.
 prévues par l'article 131-35 du code pénal ;
 
 5° L'interdiction, suivant les modalités prévues par l'article 131-26 du code
-pénal, des droits civiques, civils et de la famille.
+pénal, des droits civiques, civils et de la famille ;
 
-Les personnes physiques coupables des infractions prévues à l'article L. 364-6
-encourent en outre la fermeture des locaux ou établissements tenus ou exploités
-par elles et ayant servi à commettre les faits incriminés.
+6° L'interdiction de séjour pour une durée de cinq ans au plus.
+
+Les personnes physiques coupables des infractions prévues à l'article L. 364-3
+et à l'article L. 364-6 encourent en outre la fermeture des locaux ou
+établissements tenus ou exploités par elles et ayant servi à commettre les faits
+incriminés.
 
 La peine complémentaire mentionnée au 4° ci-dessus est également encourue par
 les personnes physiques reconnues coupables de l'infraction prévue à l'article
 L. 364-4.
+
+Les personnes physiques condamnées au titre de l'infraction visée au deuxième
+alinéa de l'article L. 364-3 encourent la peine complémentaire de confiscation
+de tout ou partie de leurs biens, quelle qu'en soit la nature, meubles ou
+immeubles, divis ou indivis.

@@ -37,12 +37,20 @@ ou routières ouverts au trafic international et désignés par arrêté
 constitutionnel n° 93-323 DC du 5 août 1993) l'identité de toute personne peut
 également être contrôlée, selon les modalités prévues au premier alinéa, en vue
 de vérifier le respect des obligations de détention, de port et de présentation
-des titres et documents prévues par la loi. Le fait que le contrôle d'identité
-révèle une infraction autre que celle de non-respect des obligations susvisées
-ne constitue pas une cause de nullité des procédures incidentes.
+des titres et documents prévues par la loi. Lorsqu'il existe une section
+autoroutière démarrant dans la zone mentionnée ci-dessus et que le premier péage
+autoroutier se situe au-delà de la ligne des 20 kilomètres, le contrôle peut en
+outre avoir lieu jusqu'à ce premier péage sur les aires de stationnement ainsi
+que sur le lieu de ce péage et les aires de stationnement attenantes. Les péages
+concernés par cette disposition sont désignés par arrêté. Le fait que le
+contrôle d'identité révèle une infraction autre que celle de non-respect des
+obligations susvisées ne constitue pas une cause de nullité des procédures
+incidentes.
 
 Dans une zone comprise entre les frontières terrestres ou le littoral du
-département de la Guyane et une ligne tracée à vingt kilomètres en-deçà,
-l'identité de toute personne peut être contrôlée, selon les modalités prévues au
-premier alinéa, en vue de vérifier le respect des obligations de détention, de
-port et de présentation des titres et documents prévus par la loi.
+département de la Guyane et une ligne tracée à vingt kilomètres en-deçà, et sur
+une ligne tracée à cinq kilomètres de part et d'autre, ainsi que sur la route
+nationale 2 sur le territoire de la commune de Régina, l'identité de toute
+personne peut être contrôlée, selon les modalités prévues au premier alinéa, en
+vue de vérifier le respect des obligations de détention, de port et de
+présentation des titres et documents prévus par la loi.

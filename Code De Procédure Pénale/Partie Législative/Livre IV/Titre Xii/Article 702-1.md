@@ -12,8 +12,7 @@ chambre de l'instruction dans le ressort de laquelle la cour d'assises a son
 siège.
 
 Lorsque la demande est relative à une déchéance, interdiction ou incapacité
-prononcée en application de l'article 201 de la loi n° 85-98 du 25 janvier 1985
-relative au redressement et à la liquidation judiciaires des entreprises, la
+prononcée en application de l'article L. 626-6 du code de commerce, la
 juridiction ne peut accorder le relèvement que si l'intéressé a apporté une
 contribution suffisante au paiement du passif du débiteur. La juridiction peut
 accorder, dans les mêmes conditions, le relèvement des interdictions, déchéances
@@ -27,7 +26,11 @@ pénale, la demande ne peut être portée devant la juridiction compétente qu'�
 l'issue d'un délai de six mois après la décision initiale de condamnation. En
 cas de refus opposé à cette première demande, une autre demande ne peut être
 présentée que six mois après cette décision de refus. Il en est de même,
-éventuellement, des demandes ultérieures.
+éventuellement, des demandes ultérieures. En cas d'interdiction du territoire
+prononcée à titre de peine complémentaire à une peine d'emprisonnement, la
+première demande peut toutefois être portée devant la juridiction compétente
+avant l'expiration du délai de six mois en cas de remise en liberté. La demande
+doit être déposée au cours de l'exécution de la peine.
 
 Les dispositions du deuxième alinéa (1°) de l'article 131-6 du code pénal
 permettant de limiter la suspension du permis de conduire à la conduite en
