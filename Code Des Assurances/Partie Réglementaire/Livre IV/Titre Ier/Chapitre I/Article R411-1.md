@@ -9,7 +9,7 @@ comprend, indépendamment de son président :
 Un vice-président, désigné par le ministre de l'économie et des finances sur
 proposition du garde des sceaux, ministre de la justice, parmi les membres du
 Conseil d'Etat ayant au moins le rang de conseiller, en activité ou honoraire,
-et trente-neuf membres ainsi répartis :
+et quarante et un membres ainsi répartis :
 
 Un membre de la Cour de cassation ayant au moins le rang de conseiller, en
 activité ou honoraire, désigné par le ministre de l'économie et des finances sur
@@ -26,13 +26,26 @@ centrale de réassurance ;
 Un professeur d'une unité de droit d'une université de Paris, désigné par le
 ministre de l'économie et des finances ;
 
-Cinq fonctionnaires en activité ou en retraite, désignés à raison de :
+Au titre du ministère de l'économie, des finances et du budget :
 
-Trois par le ministre de l'économie et des finances ;
+- le directeur général de la concurrence, de la consommation et de la répression
+des fraudes ;
 
-Un par le ministre de l'intérieur ;
+- le directeur de la comptabilité publique ;
 
-Un par le ministre de l'agriculture ;
+- le chef du service de la législation fiscale ;
+
+Au titre du ministère de la justice :
+
+- le directeur des affaires civiles et du sceau ;
+
+Au titre du ministère de l'intérieur et de la décentralisation :
+
+- le directeur des libertés publiques et des affaires juridiques ;
+
+Au titre du ministère de l'agriculture :
+
+- le directeur des affaires sociales.
 
 Le délégué général du comité national pour la prévention et la protection ;
 
@@ -83,8 +96,8 @@ Trois représentants des agents généraux d'assurances, désignés par
 l'organisation syndicale la plus représentative des agents généraux d'assurances
 ;
 
-Un représentant des courtiers d'assurances, désigné par l'organisation syndicale
-la plus représentative des courtiers d'assurances ;
+Deux représentants des courtiers d'assurances désignés par les organisations les
+plus représentatives des courtiers d'assurances ;
 
 Sept représentants des sociétés d'assurance opérant en France, désignés par
 l'organisation professionnelle la plus représentative de ces entreprises ;
