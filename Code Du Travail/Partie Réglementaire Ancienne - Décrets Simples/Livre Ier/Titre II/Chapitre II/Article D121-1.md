@@ -21,18 +21,18 @@ dispositions de l'article L. 323-15 du présent code ou des textes relatifs à l
 rééducation professionnelle des victimes d'accidents du travail et des assurés
 sociaux.
 
-II. - La durée maximale du contrat ne peut être supérieure à un an pour les
-catégories visées aux a et b ci-dessus. Toutefois, dans le cas visé au b,
-lorsque la durée du stage est fixée par voie réglementaire, le contrat peut être
-conclu pour cette durée.
+II. - La durée maximale du contrat ne peut être supérieure à vingt-quatre mois
+pour les catégories visées aux a et b ci-dessus. Toutefois, dans le cas visé au
+b, lorsque la durée du stage est fixée par voie réglementaire, le contrat peut
+être conclu pour cette durée.
 
-La durée maximale du contrat est également d'un an pour les étrangers visés au c
-lorsqu'ils ne sont pas soumis au régime de l'autorisation de travail prévue à
-l'article R. 341-7-1 du présent code. Pour les étrangers soumis à ce régime, la
-durée maximale du contrat est celle pour laquelle l'autorisation provisoire a
-été accordée. Si l'autorisation est renouvelée, la durée maximale est prolongée
-d'autant et le terme du contrat peut être reporté autant de fois que
-l'autorisation est renouvelée.
+La durée maximale du contrat est également de vingt-quatre mois pour les
+étrangers visés au c lorsqu'ils ne sont pas soumis au régime de l'autorisation
+de travail prévue à l'article R. 341-7 du présent code. Pour les étrangers
+soumis à ce régime, la durée maximale du contrat est celle pour laquelle
+l'autorisation provisoire a été accordée. Si l'autorisation est renouvelée, la
+durée maximale est prolongée d'autant et le terme du contrat peut être reporté
+autant de fois que l'autorisation est renouvelée.
 
 Pour les catégories de salariés visées au d, la durée du contrat ne peut être
 supérieure à celle de la période donnant lieu à l'octroi de l'aide financière.

@@ -5,8 +5,8 @@ Le contrat de travail [*à durée déterminée*] conclu en application de la sec
 outre la définition précise de son objet prévue à l'article L. 122-3-1 les
 indications suivantes [*mentions obligatoires*] :
 
-- lorsqu'il est conclu dans le cas visé à l'article L. 122-1 (1°), le nom et la
-qualification du salarié remplacé ;
+- lorsqu'il est conclu pour le motif visé à l'article L. 122-1-1 (1°) le nom et
+la qualification du salarié remplacé ;
 
 - lorsqu'il comporte un terme précis, la date d'échéance du terme, et, le cas
 échéant, une clause prévoyant le report du terme ;
@@ -14,6 +14,8 @@ qualification du salarié remplacé ;
 - lorsqu'il ne comporte pas de terme précis, la durée minimale pour laquelle il
 est conclu ;
 
-- la désignation du poste de travail ou de l'emploi occupé ;
+- la désignation du poste de travail ou de l'emploi occupé ou lorsqu'il est fait
+application de l'article L. 122-2 (2°), de la nature des activités auxquelles
+participe le stagiaire durant son séjour dans l'entreprise ;
 
 - la durée de la période d'essai éventuellement prévue.

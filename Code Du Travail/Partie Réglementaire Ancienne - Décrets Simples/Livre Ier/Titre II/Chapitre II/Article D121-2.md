@@ -1,8 +1,8 @@
 Article D121-2
 ----
-En application de l'article L. 122-3 (2°), les secteurs d'activité dans lesquels
-des contrats à durée déterminée peuvent être conclus pour les emplois pour
-lesquels il est d'usage constant de ne pas recourir au contrat à durée
+En application de l'article L. 122-1-1 (3°), les secteurs d'activité dans
+lesquels des contrats à durée déterminée peuvent être conclus pour les emplois
+pour lesquels il est d'usage constant de ne pas recourir au contrat à durée
 indéterminée en raison de la nature de l'activité exercée et du caractère par
 nature temporaire de ces emplois sont les suivants :
 
