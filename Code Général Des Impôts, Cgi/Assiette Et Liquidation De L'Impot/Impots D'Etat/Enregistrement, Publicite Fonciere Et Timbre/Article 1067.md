@@ -1,13 +1,13 @@
 Article 1067
 ----
 Sans préjudice du bénéfice de la loi du 3 janvier 1972 sur l'aide judiciaire,
-les certificats, significations, jugements, contrats, quittances et autres actes
-faits en vertu des dispositions du code de la famille et de l'aide sociale,
-reproduisant celles de la loi du 15 avril 1943, relative à l'assistance à
-l'enfance, ainsi qu'en vertu des lois du 24 juillet 1889 et du 19 avril 1898,
-concernant exclusivement le service de l'assistance à l'enfance, sont exonérés
-des droits de timbre et, sous réserve des dispositions des articles 679-3° et
-1020, des droits d'enregistrement.
+les certificats, significations, jugements, contrats, et autres actes faits en
+vertu des dispositions du code de la famille et de l'aide sociale, reproduisant
+celles de la loi du 15 avril 1943, relative à l'assistance à l'enfance, ainsi
+qu'en vertu des lois du 24 juillet 1889 et du 19 avril 1898, concernant
+exclusivement le service de l'assistance à l'enfance, sont exonérés des droits
+de timbre et, sous réserve des dispositions des articles 679-3° et 1020, des
+droits d'enregistrement.
 
 L'acte d'émancipation visé à l'article 59 du code de la famille et de l'aide
 sociale est délivré sans frais.

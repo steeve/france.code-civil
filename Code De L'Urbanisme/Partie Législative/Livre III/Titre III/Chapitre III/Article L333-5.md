@@ -1,15 +1,13 @@
 Article L333-5
 ----
-Par exception aux dispositions des articles L. 333-3 et L. 333-4, sont
-attribuées [*bénéficiaire*] en totalité à la commune ou à l'établissement public
-groupant plusieurs communes et ayant compétence en matière d'urbanisme,
-[*district urbain, syndicat de communes, communauté urbaine*] les sommes versées
-à concurrence de la densité comprise entre le plafond légal et une densité
-double de ce plafond :
+Par exception aux dispositions de l'article L. 333-3, sont attribuées en
+totalité à la commune ou à l'établissement public groupant plusieurs communes et
+ayant compétence en matière d'urbanisme les sommes versées au titre du
+dépassement du plafond légal de densité ;
 
-a) Par les organismes [*d'habitation à loyer modéré*] visés à l'article 159 du
-code de l'urbanisme et de l'habitation pour les constructions réalisées en
-application de l'article 153 du même code ;
+a) Par les organismes visés à l'article L. 411-2 du code de la construction et
+de l'habitation et par les sociétés d'économie mixte pour les constructions
+réalisées en application de l'article L. 411-1 du même code ;
 
 b) Par les sociétés immobilières créées dans les départements d'outre-mer en
 application de la loi n° 46-860 du 30 avril 1946, pour la construction

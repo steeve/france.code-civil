@@ -31,12 +31,7 @@ visés à la présente rubrique, livrées incomplètes ou non finies, dès lors
 qu'elles présentent les caractéristiques essentielles des mêmes voitures à
 l'état complet ou terminé ;
 
-5° Pelleteries tannées, apprêtées et lustrées provenant d'animaux des espèces
-désignées ci-après : zibeline, chinchilla, léopard, ocelot, hermine blanche,
-hermine lustrée, jaguar, guépard, loutre de mer, vison sauvage, zèbre, tigre,
-lynx, pékan, loutre du Kamtchatka, martre, castor, Kolinsky, peludos, chat
-occlot, loutre de rivière, putois ; vêtements et accessoires dans la valeur
-desquels ces pelleteries entrent pour 40 % et plus ;
+5° (Devenu sans objet).
 
 6° Tabacs ;
 
