@@ -1,7 +1,7 @@
 Article 345
 ----
-Il est institué jusqu'au 31 décembre 1985 [*date limite*] au profit du comité
-professionnel de développement de l'horlogerie ainsi que du centre technique de
+Il est institué jusqu'au 31 décembre 1990 [*date limite*] au profit du comité
+professionnel de développement de l'horlogerie et du centre technique de
 l'industrie horlogère une taxe parafiscale unique sur les opérations de vente,
 de livraison ou d'échange (à l'identique ou à l'équivalent) des produits de
 l'horlogerie de petit ou de gros volume, définis à l'article 346, réalisées par
