@@ -13,4 +13,4 @@ Les allocations versées au cours d'une année ne doivent pas dépasser le
 cinquième de la provision technique constituée au 31 décembre de l'année
 précédente, non plus que le cinquième de la différence entre le montant des
 fonds propres déterminés au 31 décembre de l'année précédente et le montant de
-la marge financière de sécurité réglementaire [*maximum*].
+la marge financière de sécurité réglementaire.

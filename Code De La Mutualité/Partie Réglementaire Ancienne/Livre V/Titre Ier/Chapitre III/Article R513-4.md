@@ -2,8 +2,7 @@ Article R513-4
 ----
 Sont électrices les mutuelles ayant leur siège social dans les départements
 formant la circonscription du collège régional et les sections de mutuelles
-définies à l'article R. 512-1 situées dans les mêmes départements [*condition
-d'électorat*].
+définies à l'article R. 512-1 situées dans les mêmes départements.
 
 Les mutuelles et sections de mutuelles composant le collège électoral disposent
 d'un nombre de voix déterminé en fonction de l'effectif de leurs membres.

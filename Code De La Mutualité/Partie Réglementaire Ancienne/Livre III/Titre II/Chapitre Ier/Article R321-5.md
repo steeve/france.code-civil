@@ -1,7 +1,6 @@
 Article R321-5
 ----
-Le règlement de la caisse autonome mutualiste détermine notamment [*mentions
-obligatoires*] :
+Le règlement de la caisse autonome mutualiste détermine notamment :
 
 1. Le ou les risques couverts par ladite caisse autonome ainsi que leurs limites
 ;
