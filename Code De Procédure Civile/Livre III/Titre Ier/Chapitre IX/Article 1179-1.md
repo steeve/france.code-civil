@@ -1,4 +1,6 @@
 Article 1179-1
 ----
-Le juge territorialement compétent pour délivrer l'acte de communauté de vie
-prévu à l'article 372-1 du code civil est celui du lieu où demeure le demandeur.
+Pour l'application de l'article 373-2-8 et de l'article 373-2-13 du code civil,
+les tiers saisissent par simple requête le procureur de la République qui peut
+recueillir les renseignements qu'il estime utiles sur la situation du mineur et
+de sa famille.

@@ -7,5 +7,5 @@ familiales par les personnes intéressées, soit dans les formes prévues pour l
 référés, soit par simple requête.
 
 Il en est de même, lorsque le divorce a acquis force de chose jugée, s'il y a
-lieu à révision de la prestation compensatoire dans le cas prévu à l'article
-279, alinéa 3, du Code civil.
+lieu à révision de la prestation compensatoire. Les articles 1075-1 et 1075-2 du
+présent code sont applicables.

@@ -1,5 +1,4 @@
 Article 1075-1
 ----
-Les époux doivent, à la demande du juge, justifier de leurs charges et
-ressources, notamment par la production de déclarations de revenus, d'avis
-d'imposition et de bordereaux de situation fiscale.
+Lorsqu'une demande de prestation compensatoire est présentée, chaque époux
+produit la déclaration sur l'honneur prévue à l'article 271 du code civil.

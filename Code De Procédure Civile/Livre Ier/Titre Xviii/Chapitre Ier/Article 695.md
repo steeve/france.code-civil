@@ -8,7 +8,8 @@ juridictions ou l'administration des impôts à l'exception des droits, taxes et
 pénalités éventuellement dus sur les actes et titres produits à l'appui des
 prétention des parties ;
 
-[*2. abrogé par décret 78-62 1978-01-20 art. 19-I*]
+2. Les frais de traduction des actes lorsque celle-ci est rendue obligatoire par
+la loi ou par un engagement international ;
 
 3. Les indemnités des témoins ;
 
