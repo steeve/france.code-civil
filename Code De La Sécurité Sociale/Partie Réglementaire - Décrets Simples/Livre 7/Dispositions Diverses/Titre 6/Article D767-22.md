@@ -1,6 +1,6 @@
 Article D767-22
 ----
-Les délégués régionaux sont nommés par le président du fonds d'action sociale.
+Les délégués régionaux sont nommés par le directeur du fonds d'action sociale.
 
 Le délégué régional assure l'instruction des demandes de concours émanant des
 organismes et associations de la région. Il établit l'ensemble des
@@ -18,7 +18,7 @@ budget et du ministre chargé des immigrés, il répartit les crédits entre les
 organismes et les associations. Il tient régulièrement informée la commission
 régionale des décisions qu'il prend à cet égard.
 
-Le délégué régional de l'établissement peut, sur proposition du président, se
+Le délégué régional de l'établissement peut, sur proposition du directeur, se
 voir conférer la qualité d'ordonnateur secondaire pour l'exécution du budget
 régional de l'établissement, par un arrêté conjoint du ministre chargé des
 immigrés et du ministre chargé du budget.

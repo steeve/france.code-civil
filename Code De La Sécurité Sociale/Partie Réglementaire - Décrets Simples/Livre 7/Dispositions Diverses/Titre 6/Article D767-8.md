@@ -8,7 +8,7 @@ d'intervention et, dans ce cadre, fixe les enveloppes nationales et régionales.
 Pour chaque région, 5 % du montant du budget n'est pas affecté à un domaine par
 le conseil d'administration.
 
-Sur le rapport du président et sous réserve des dispositions des articles D.
+Sur le rapport du directeur et sous réserve des dispositions des articles D.
 767-13 et D. 767-22, le conseil d'administration répartit les crédits entre les
 organismes et les associations pour réaliser les actions projetées sur le plan
 national. Dans les mêmes conditions, il décide si ces crédits sont attribués

@@ -1,6 +1,7 @@
 Article D767-7
 ----
-Le président fixe l'ordre du jour.
+Le président fixe, en accord avec le directeur, l'ordre du jour du conseil
+d'administration.
 
 Il peut inviter à siéger, avec voix consultative, les représentants d'autres
 administrations et organismes compétents, en fonction de l'ordre du jour.

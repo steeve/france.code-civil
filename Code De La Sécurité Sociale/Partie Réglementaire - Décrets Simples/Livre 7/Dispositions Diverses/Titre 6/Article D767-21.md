@@ -9,4 +9,4 @@ régionale pour l'intégration des populations immigrées suivant la nomination 
 ses membres. A défaut, le préfet de région met en vigueur, jusqu'à l'adoption du
 règlement intérieur par la commission régionale, un règlement provisoire
 conforme à un modèle adopté par le conseil d'administration de l'établissement.
-Le règlement est approuvé par le président du fonds d'action sociale.
+Le règlement est approuvé par le directeur du fonds d'action sociale.
