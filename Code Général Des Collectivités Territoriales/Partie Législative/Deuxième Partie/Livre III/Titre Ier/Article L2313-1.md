@@ -34,7 +34,11 @@ que l'échéancier de leur amortissement ;
 7° Des comptes et des annexes produits par les délégataires de service public ;
 
 8° Du tableau des acquisitions et cessions immobilières mentionné au c de
-l'article L. 300-5 du code de l'urbanisme.
+l'article L. 300-5 du code de l'urbanisme ;
+
+9° D'une annexe retraçant l'ensemble des engagements financiers de la
+collectivité territoriale ou de l'établissement public résultant des contrats de
+partenariat prévus à l'article L. 1414-1 ;
 
 Dans ces mêmes communes de 3 500 habitants et plus, les documents visés au 1°
 font l'objet d'une insertion dans une publication locale diffusée dans la

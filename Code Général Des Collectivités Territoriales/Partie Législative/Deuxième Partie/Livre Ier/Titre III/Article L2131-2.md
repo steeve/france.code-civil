@@ -14,7 +14,8 @@ loi ;
 
 4° Les conventions relatives aux marchés à l'exception des marchés passés sans
 formalité préalable en raison de leur montant, et aux emprunts ainsi que les
-conventions de concession ou d'affermage de services publics locaux ;
+conventions de concession ou d'affermage de services publics locaux et les
+contrats de partenariat ;
 
 5° Les décisions individuelles relatives à la nomination, à l'avancement de
 grade, à l'avancement d'échelon, aux sanctions soumises à l'avis du conseil de

@@ -34,6 +34,9 @@ de traitement des ordures ménagères visés à l'article L. 2224-5 ;
 3° Un bilan d'activité des services exploités en régie dotée de l'autonomie
 financière.
 
+4° Le rapport mentionné à l'article L. 1414-14 établi par le cocontractant d'un
+contrat de partenariat.
+
 Elle est consultée pour avis par l'assemblée délibérante ou par l'organe
 délibérant sur :
 
@@ -43,3 +46,6 @@ l'article L. 1411-4 ;
 
 2° Tout projet de création d'une régie dotée de l'autonomie financière, avant la
 décision portant création de la régie.
+
+3° Tout projet de partenariat avant que l'assemblée délibérante ou l'organe
+délibérant ne se prononce dans les conditions prévues à l'article L. 1414-2.
