@@ -9,12 +9,12 @@ dans laquelle :
 
 Pa représente le montant du versement ;
 
-v la valeur au mètre carré du terrain considéré comme nu et libre
-
-Sa la surface de plancher de la construction projetée, calculée comme il est dit
-à l'article R. 112-2, à l'exclusion de la surface correspondant aux immeubles
+v la valeur au mètre carré du terrain considéré comme nu et libre Sa : la
+surface de plancher de la construction projetée, calculée comme il est dit à
+l'article R. 112-2, à l'exclusion de la surface correspondant aux immeubles
 exonérés en application des troisième et quatrième alinéas de l'article L. 112-2
-;
+et à l'exclusion de la surface correspondant à la partie des constructions
+exonérée en application de l'article L. 127-1 ;
 
 Sb la surface de plancher, calculée comme il est dit à l'article R. 112-2, des
 constructions implantées sur le même terrain qui ne sont pas destinées à être
@@ -33,6 +33,4 @@ K le plafond légal de densité en vigueur sur le territoire de la commune à la
 date de délivrance du permis de construire.
 
 Pour le calcul du versement lié au dépassement du plafond légal de densité, il
-est fait abstraction des sommes inférieures à 10 F. "
-
-Versement résultant du dépassement du plafond légal de densité.
+est fait abstraction des sommes inférieures à 10 F.

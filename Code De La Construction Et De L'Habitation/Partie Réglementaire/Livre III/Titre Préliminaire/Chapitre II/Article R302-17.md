@@ -1,9 +1,10 @@
 Article R302-17
 ----
 Lorsqu'un programme local de l'habitat a été élaboré et adopté par un
-établissement public de coopération intercommunale, le président de
-l'établissement public et le préfet négocient une convention d'application du
-programme local de l'habitat.
+établissement public de coopération intercommunale et si cet établissement est
+doté de la compétence de politique du logement, le président de l'établissement
+public et le préfet négocient une convention d'application du programme local de
+l'habitat.
 
 La convention, d'une durée de trois ans, est passée entre l'Etat et
 l'établissement public.

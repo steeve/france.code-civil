@@ -3,13 +3,15 @@ Article R*332-1
 I - Le montant de la participation prévue aux articles L. 332-1 à L. 332-5 est
 calculé selon la formule suivante :
 
-P = v X ((Sa + Sb - C Sd)/C)
+P = v x ((Sa + Sb - C Sd)/C)
 
-Dans laquelle P représente le montant de la participation ; v la valeur au mètre
-carré du terrain considéré comme nu et libre ;
+Dans laquelle P représente le montant de la participation ;
 
-Sa la surface de plancher de la construction projetée, calculée comme il est dit
-à l'article R. 123-22 (3°) ;
+v la valeur au mètre carré du terrain considéré comme nu et libre ;
+
+Sa : la surface de plancher de la construction projetée, calculée comme il est
+dit à l'article R. 123-22 (3°), à l'exclusion de la surface correspondant à la
+partie des constructions exonérée en application de l'article L. 127-1 ;
 
 Sb la surface de plancher développée hors oeuvre des constructions implantées
 sur le même terrain qui ne sont pas destinées à être démolies, calculée comme il

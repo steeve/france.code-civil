@@ -31,6 +31,11 @@ au second alinéa de l'article R. 421-7-1, le permis de construire indique les
 droits de construire résiduels attachés à chacun des terrains devant provenir de
 la division.
 
+Dans le cas prévu à l'article R. 421-2-1, le permis de construire mentionne que
+les constructions ne peuvent être entreprises qu'après obtention de la décision
+d'octroi du concours financier de l'Etat et dans le respect des conditions de
+cette dernière.
+
 Si la décision comporte rejet de la demande, si elle est assortie de
 prescriptions ou s'il s'agit d'un sursis à statuer, elle doit être motivée. Il
 en est de même lorsqu'une dérogation ou une adaptation mineure est nécessaire.
