@@ -21,7 +21,7 @@ De 500 à 749 salariés : huit titulaires et huit suppléants ;
 
 De 750 à 999 salariés : neuf titulaires et neuf suppléants ;
 
-A partir de 1.000 salariés : un titulaire et un suppléant par tranche
+A partir de 1 000 salariés : un titulaire et un suppléant par tranche
 supplémentaire de 250 salariés.
 
 Dans les cas définis au premier alinéa de l'article L. 431-3 et à la deuxième
@@ -30,6 +30,14 @@ prévu est modifié, pendant la durée de la période où il n'y a pas de comit�
 d'entreprise ou de comité d'hygiène, de sécurité et des conditions de travail,
 dans les conditions suivantes :
 
-De 50 à 99 salariés : quatre titulaires et quatre suppléants ;
+De 50 à 74 salariés : 3 titulaires et 3 suppléants ;
 
-De 100 à 124 salariés : cinq titulaires et cinq suppléants.
+De 75 à 99 salariés : 4 titulaires et 4 suppléants ;
+
+De 100 à 124 salariés : 5 titulaires et 5 suppléants ;
+
+De 125 à 149 salariés : 6 titulaires et 6 suppléants ;
+
+De 150 à 174 salariés : 7 titulaires et 7 suppléants ;
+
+De 175 à 199 salariés : 8 titulaires et 8 suppléants.

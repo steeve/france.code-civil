@@ -1,8 +1,8 @@
 Article R991-4
 ----
-Les constats opérés lors d'un contrôle sont notifiés à l'intéressé avec
-l'indication du délai dont il dispose pour présenter des observations écrites et
-demander, le cas échéant, à être entendu.
+Les constats opérés lors des contrôles prévus aux articles L. 991-1 et L. 991-2
+sont notifiés à l'intéressé avec l'indication du délai dont il dispose pour
+présenter des observations écrites et demander, le cas échéant, à être entendu.
 
 Ce délai ne peut être inférieur à trente jours à compter de la date de la
 notification, sous réserve des dispositions du premier alinéa de l'article R.
