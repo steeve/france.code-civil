@@ -8,6 +8,8 @@ La commune, sous sa responsabilité, prévient immédiatement le ministre charg�
 des bibliothèques en cas d'incendie, de sinistre, de soustraction et de
 détournement dans une bibliothèque.
 
-Les échanges entre les bibliothèques d'objets appartenant aux communes sont
-soumis à l'autorisation du ministre chargé des bibliothèques [*conditions de
-forme*].
+Les échanges entre les bibliothèques d'objets appartenant aux communes font
+l'objet de délibérations concordantes des conseils municipaux. Dans leur
+nouvelle affectation, les objets bénéficient des conditions de conservation et
+de protection au moins aussi favorables que celles qui leur étaient appliquées
+antérieurement.
