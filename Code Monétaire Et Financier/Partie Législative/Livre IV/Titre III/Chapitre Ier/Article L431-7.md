@@ -1,44 +1,34 @@
 Article L431-7
 ----
-Les dettes et les créances afférentes à toutes opérations sur instruments
-financiers, lorsqu'elles sont effectuées dans le cadre du règlement général de
-l'Autorité des marchés financiers ou lorsqu'elles sont régies par une ou
-plusieurs conventions-cadres respectant les principes généraux de
-conventions-cadres de place, nationales ou internationales, et organisant les
-relations entre deux parties au moins, dont l'une est un prestataire de services
-d'investissement ou un établissement public ou une institution, entreprise ou un
-établissement bénéficiaire des dispositions de l'article L. 531-2 ou un
-établissement non résident ayant un statut comparable, sont compensables selon
-les modalités prévues par ledit règlement, la ou lesdites conventions-cadres et
-peuvent donner lieu à l'établissement d'un solde unique compensé.
+I. - Les dispositions de la présente section sont applicables :
 
-S'il existe deux conventions-cadres ou plus entre les parties, celles-ci peuvent
-les lier entre elles en sorte que les soldes résultant de la compensation qui
-viendrait à être effectuée pour chaque convention-cadre conformément à l'alinéa
-précédent fassent à leur tour l'objet d'une compensation entre eux.
+1° Aux obligations financières résultant d'opérations sur instruments financiers
+lorsqu'aucune des parties n'est une personne physique et que l'une au moins des
+parties à l'opération est un établissement de crédit, un prestataire de services
+d'investissement, un établissement public, une collectivité territoriale, une
+institution, une personne ou entité bénéficiaire des dispositions de l'article
+L. 531-2, une chambre de compensation, un établissement non résident ayant un
+statut comparable, une organisation ou organisme financier international dont la
+France ou l'Union européenne est membre ;
 
-Lorsque l'une des parties fait l'objet de l'une des procédures prévues par le
-livre VI du code de commerce, ledit règlement ou lesdites conventions-cadres
-peuvent prévoir la résiliation de plein droit des opérations mentionnées aux
-premier et deuxième alinéas du présent article.
+2° Aux obligations financières résultant de tout contrat donnant lieu à un
+règlement en espèces ou à une livraison d'instruments financiers lorsque toutes
+les parties appartiennent à l'une des catégories de personnes mentionnées à
+l'alinéa précédent, à l'exception des personnes mentionnées aux alinéas c à i du
+2° de l'article L. 531-2 ;
 
-Les modalités de résiliation, d'évaluation et de compensation prévues par le
-règlement, la ou les conventions-cadres visées aux alinéas précédents sont
-opposables aux créanciers saisissants. Toute opération de résiliation,
-d'évaluation ou de compensation effectuée en raison d'une procédure civile
-d'exécution est réputée être intervenue avant ladite procédure.
+3° Aux obligations financières résultant de tout contrat conclu dans le cadre
+d'un système mentionné à l'article L. 330-1.
 
-La cession de créances afférentes aux opérations régies par la ou les
-conventions-cadres visées au premier alinéa du présent article est opposable aux
-tiers par l'accord écrit du débiteur cédé. A titre de garantie des obligations
-découlant de la ou des conventions-cadres, les parties peuvent également prévoir
-des remises, en pleine propriété, à titre de garantie et opposables aux tiers
-sans formalité, de valeurs, titres, effets, créances ou de sommes d'argent, ou
-la constitution de sûretés sur de tels biens et droits, réalisables même lorsque
-l'une des parties fait l'objet d'une des procédures visées au troisième alinéa
-du présent article. Les dettes et créances relatives à ces remises et sûretés et
-celles afférentes auxdites obligations sont alors compensables conformément aux
-dispositions des premier et deuxième alinéas du présent article.
+II. - Les conventions relatives aux obligations financières mentionnées au I
+sont résiliables, et les dettes et les créances y afférentes sont compensables.
+Les parties peuvent prévoir l'établissement d'un solde unique, que ces
+obligations financières soient régies par une ou plusieurs conventions ou
+conventions-cadres.
 
-Les dispositions du livre VI du code de commerce ne font pas obstacle à
-l'application du présent article.
+III. - Les modalités de résiliation, d'évaluation et de compensation des
+opérations et obligations mentionnées aux I et II sont opposables aux tiers. Ces
+modalités peuvent être notamment prévues par des conventions ou
+conventions-cadres. Toute opération de résiliation, d'évaluation ou de
+compensation faite en raison d'une procédure civile d'exécution ou de l'exercice
+d'un droit d'opposition est réputée être intervenue avant cette procédure.

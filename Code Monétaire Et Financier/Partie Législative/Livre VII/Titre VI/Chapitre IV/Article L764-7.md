@@ -1,3 +1,4 @@
 Article L764-7
 ----
-L'article L. 441-7 est applicable dans le territoire des îles Wallis-et-Futuna.
+Les articles L. 431-7 à L. 431-7-5 sont applicables dans les îles
+Wallis-et-Futuna.
