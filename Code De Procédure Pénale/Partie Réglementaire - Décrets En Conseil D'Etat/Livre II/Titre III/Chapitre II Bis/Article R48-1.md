@@ -41,6 +41,19 @@ conducteurs non salariés du transport routier public de marchandises ;
 g) L'article 19-II du décret n° 99-752 du 30 août 1999 modifié relatif aux
 transports routiers de marchandises ;
 
+h) L'article 16 et les premier et deuxième alinéas de l'article 17 du décret n°
+2002-747 du 2 mai 2002 relatif à la formation professionnelle initiale et
+continue des conducteurs salariés du transport routier public interurbain de
+voyageurs et des conducteurs salariés et non salariés du transport routier
+public de marchandises ;
+
+i) L'article 25 et les premier et deuxième alinéas de l'article 26 du décret n°
+2004-1186 du 8 novembre 2004 relatif à la formation professionnelle initiale et
+continue des conducteurs salariés du transport routier privé de marchandises,
+des conducteurs salariés et non salariés du transport routier public de
+marchandises et des conducteurs salariés du transport routier public interurbain
+de voyageurs.
+
 3° Contraventions en matière de protection de l'environnement réprimées par :
 
 a) L'article R. 632-1 du code pénal relatif au dépôt ou à l'abandon de matières,
