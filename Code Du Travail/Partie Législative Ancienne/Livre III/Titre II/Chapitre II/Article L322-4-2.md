@@ -31,8 +31,10 @@ handicapées contraintes à des horaires limités pour des raisons médicales.
 Les contrats initiative-emploi conclus en vertu de ces conventions donnent droit
 :
 
-1° A une aide forfaitaire de l'Etat dans des conditions et pour un montant fixés
-par décret ;
+1° A une aide de l'Etat pour les catégories de bénéficiaires rencontrant les
+difficultés d'accès à l'emploi les plus graves. Ces catégories ainsi que les
+conditions d'octroi et le montant de l'aide, qui peut être modulée en fonction
+de la gravité des difficultés d'accès à l'emploi, sont fixés par décret ;
 
 2° A l'exonération des cotisations patronales de sécurité sociale dans les
 conditions fixées à l'article L. 322-4-6.
