@@ -2,16 +2,13 @@ Article D642-4
 ----
 Des réductions de la cotisation forfaitaire prévue à l'article L. 642-1 de 75,
 50 ou 25 p. 100 peuvent être accordées sur demande de l'assuré en fonction des
-revenus professionnels libéraux de l'avant-dernière année retenus pour le calcul
-de la cotisation proportionnelle mentionnée à l'article D. 642-3.
+revenus professionnels non salariés de l'avant-dernière année retenus pour le
+calcul de la cotisation proportionnelle mentionnée à l'article D. 642-3.
 
-Le montant des revenus professionnels libéraux ouvrant droit à réduction est
+Le montant des revenus professionnels non salariés ouvrant droit à réduction est
 fixé par le décret prévu à l'article L. 642-1 sur proposition du conseil
 d'administration de la Caisse nationale d'assurance vieillesse des professions
 libérales.
-
-Pour la détermination du revenu net imposable, les reports des déficits des
-exercices antérieurs ne sont pas pris en compte.
 
 La réduction de cotisation peut être refusée par la section professionnelle, en
 raison de l'importance du revenu professionnel brut de l'assuré.
