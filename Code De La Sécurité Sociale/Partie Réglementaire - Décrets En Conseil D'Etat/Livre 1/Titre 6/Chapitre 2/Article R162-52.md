@@ -35,13 +35,6 @@ supplémentaires sont nécessaires, la Haute Autorité de santé peut rajouter �
 délai un délai supplémentaire qui ne peut excéder six mois. Passé ces délais,
 les avis sont réputés rendus.
 
-Lorsque, pour l'application des dispositions de l'article L. 161-29, la liste
-est modifiée pour être établie par référence à un numéro de code de l'acte ou de
-la prestation, les deux avis mentionnés ci-dessus sont requis si l'acte ou la
-prestation ne figurait pas sur la liste antérieure et peuvent être sollicités au
-cas contraire par l'Union nationale des caisses d'assurance maladie mentionnée à
-l'article L. 182-2.
-
 Ces avis sont adressés aux ministres chargés de la santé et de la sécurité
 sociale, à l'Union nationale des caisses d'assurance maladie, ainsi qu'aux
 autres personnes morales mentionnées au premier alinéa du présent II.

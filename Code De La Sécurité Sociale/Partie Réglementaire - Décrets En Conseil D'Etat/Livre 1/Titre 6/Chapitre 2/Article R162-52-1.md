@@ -1,6 +1,6 @@
 Article R162-52-1
 ----
-Les actes ou prestations sont inscrits sur la liste prévue à l'article L.
+I. - Les actes ou prestations sont inscrits sur la liste prévue à l'article L.
 162-1-7 au vu de l'avis de la Haute Autorité mentionné à l'article au a du 1° de
 l'article R. 161-71.
 
@@ -66,3 +66,12 @@ de mise en oeuvre et les recueils d'information nécessaires à cet effet.
 Cet avis préconise, le cas échéant, de soumettre la réalisation de l'acte ou de
 la prestation à l'accord préalable du service médical en application des
 dispositions prévues par l'article L. 315-2.
+
+II. - Pour la première inscription sur la liste d'un acte ou d'une prestation
+précédemment inscrit à la nomenclature générale des actes professionnels ou
+régulièrement assimilé à celle-ci, la Haute Autorité de santé peut, à l'occasion
+de la première attribution à chacun d'entre eux de leur numéro de code prévu par
+l'article L. 161-29, ne pas mentionner dans l'avis qu'elle rend les différents
+éléments mentionnés aux alinéas six à quatorze du I ci-dessus. En ce cas, elle
+précise dans cet avis le programme d'évaluation complémentaire du service
+attendu de ces actes et prestations.
