@@ -23,9 +23,9 @@ Cette taxe, dont la perception est confiée au service des impôts, est fixée �
 1,20 % [*taux*].
 
 Dans le cas prévu au 1° du premier alinéa, elle s'ajoute au droit départemental
-d'enregistrement ou à la taxe départementale de publicité foncière mentionnés à
-l'article 1594 A, sauf lorsque la mutation est soumise au taux proportionnel de
-0,60 %.
+d'enregistrement ou à la taxe départementale de publicité foncière mentionnés
+aux articles 1594 A et 1594 F , sauf lorsque la mutation est soumise au taux
+proportionnel de 0,60 %.
 
 La taxe est soumise aux règles qui gouvernent l'exigibilité, la restitution et
 le recouvrement des droits ou de la taxe auxquels elle s'ajoute (2).
