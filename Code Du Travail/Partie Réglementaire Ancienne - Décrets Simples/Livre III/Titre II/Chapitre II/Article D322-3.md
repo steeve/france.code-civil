@@ -2,8 +2,7 @@ Article D322-3
 ----
 Le montant de la participation forfaitaire des entreprises incluse dans le champ
 de l'article L. 950-1 du code du travail aux dépenses de fonctionnement des
-conventions de conversion est fixé à 4 000 F par bénéficiaire inscrit à une
-action de formation.
+conventions de conversion est fixé à 4 500 F par bénéficiaire.
 
 Toutefois, l'Etat rembourse aux entreprises qui occupent habituellement moins de
 cinquante salariés cette participation forfaitaire lorsqu'elles ne peuvent la
