@@ -145,7 +145,7 @@ du 1er janvier 1991 à raison des 18/34 de son montant.
 Ces dispositions s'appliquent pour la détermination des résultats des exercices
 clos à compter du 1er octobre 1991 (6).
 
-((Pour la détermination des résultats des exercices ouverts à compter du 1er
+Pour la détermination des résultats des exercices ouverts à compter du 1er
 janvier 1994, le taux de 18 % mentionné au premier alinéa est porté à 19 %. Les
 moins-values à long terme existant à l'ouverture du premier de ces exercices
 sont imputées sur les plus-values à long terme imposées au taux de 19 % . Les
@@ -154,27 +154,27 @@ celles mentionnées au cinquième alinéa sont comprises dans les plus-values à
 long terme imposables au taux de 19 % lorsqu'elles deviennent sans objet.
 L'excédent des moins-values à long terme subies au cours d'un exercice ouvert à
 compter du 1er janvier 1994 peut être déduit des bénéfices de l'exercice de
-liquidation d'une entreprise à raison des 19/33,33e de son montant (7) .
+liquidation d'une entreprise à raison des 19/33,33e de son montant.
 
-((a ter. (7) .
+a ter. .
 
-((Le régime des plus-values et moins-values à long terme cesse de s'appliquer au
+Le régime des plus-values et moins-values à long terme cesse de s'appliquer au
 résultat de la cession de titres du portefeuille réalisée au cours d'un exercice
 ouvert à compter du 1er janvier 1994 à l'exclusion des parts ou actions de
 sociétés revêtant le caractère de titres de participation et des parts de fonds
 commun de placement à risques ou de société de capital risque qui remplissent
 les conditions prévues au 1° bis du II de l'article 163 quinquies B ou à
-l'article 1er de la loi n° 85-695 du 11 juillet 1985 portant diverses
-dispositions d'ordre économique et financier et qui sont détenues par
+l'article 1er ((modifié)) (7) de la loi n° 85-695 du 11 juillet 1985 portant
+diverses dispositions d'ordre économique et financier et qui sont détenues par
 l'entreprise depuis au moins cinq ans.
 
-((Pour les exercices ouverts à compter de la même date, le régime des plus ou
+Pour les exercices ouverts à compter de la même date, le régime des plus ou
 moins-values à long terme cesse également de s'appliquer en ce qui concerne les
 titres de sociétés dont l'actif est constitué principalement par des titres
 exclus de ce régime ou dont l'activité consiste de manière prépondérante en la
 gestion des mêmes valeurs pour leur propre compte.
 
-((Pour l'application des premier et deuxième alinéas, constituent des titres de
+Pour l'application des premier et deuxième alinéas, constituent des titres de
 participation les parts ou actions de sociétés revêtant ce caractère sur le plan
 comptable. Il en va de même des actions acquises en exécution d'une offre
 publique d'achat ou d'échange par l'entreprise qui en est l'initiatrice ainsi
@@ -183,24 +183,24 @@ titres sont inscrits en comptabilité au compte de titres de participation ou à
 une subdivision spéciale d'un autre compte du bilan correspondant à leur
 qualification comptable.
 
-((Les provisions pour dépréciation afférentes aux titres exclus du régime des
-plus ou moins-values en application des premier et deuxième alinéas cessent
-d'être soumises à ce même régime.
+Les provisions pour dépréciation afférentes aux titres exclus du régime des plus
+ou moins-values en application des premier et deuxième alinéas cessent d'être
+soumises à ce même régime.
 
-((Lorsque l'entreprise transfère des titres du compte de titres de participation
-à un autre compte du bilan, la plus-value ou la moins-value, égale à la
-différence existant entre leur valeur réelle à la date du transfert et celle
-qu'ils avaient sur le plan fiscal, n'est pas retenue, pour le calcul du résultat
-ou de la plus-value ou moins-value nette à long terme, au titre de l'exercice de
-ce transfert ; elle est comprise dans le résultat imposable de l'exercice de
+Lorsque l'entreprise transfère des titres du compte de titres de participation à
+un autre compte du bilan, la plus-value ou la moins-value, égale à la différence
+existant entre leur valeur réelle à la date du transfert et celle qu'ils avaient
+sur le plan fiscal, n'est pas retenue, pour le calcul du résultat ou de la
+plus-value ou moins-value nette à long terme, au titre de l'exercice de ce
+transfert ; elle est comprise dans le résultat imposable de l'exercice de
 cession des titres en cause et soumise au régime fiscal qui lui aurait été
 appliqué lors du transfert des titres. Le résultat imposable de la cession des
 titres transférés est calculé par référence à leur valeur réelle à la date du
 transfert. Le délai mentionné à l'article 39 duodecies est apprécié à cette
 date.
 
-((Ces règles s'appliquent lorsque l'entreprise transfère des titres d'un compte
-du bilan au compte de titres de participation ou procède à des transferts entre
+Ces règles s'appliquent lorsque l'entreprise transfère des titres d'un compte du
+bilan au compte de titres de participation ou procède à des transferts entre
 l'un des comptes du bilan et l'une des subdivisions spéciales mentionnées au
 troisième alinéa sous réserve que le premier terme de la différence mentionnée
 au cinquième alinéa s'entend, pour les titres cotés, du cours moyen des trente
@@ -208,11 +208,11 @@ derniers jours précédant celui du transfert et, pour les titres non cotés, de
 leur valeur probable de négociation et sans préjudice de l'application des
 dispositions de l'article 38 bis A.
 
-((Les dispositions des cinquième et sixième alinéas ne sont pas applicables aux
+Les dispositions des cinquième et sixième alinéas ne sont pas applicables aux
 transferts entre le compte de titres de participation et les subdivisions
 spéciales mentionnées au troisième alinéa.
 
-((Les titres inscrits au compte de titres de participation ou à l'une des
+Les titres inscrits au compte de titres de participation ou à l'une des
 subdivisions spéciales mentionnées au troisième alinéa qui cessent de remplir
 les conditions mentionnées à ce même alinéa doivent être transférés hors de ce
 compte ou de cette subdivision à la date à laquelle ces conditions ne sont plus
@@ -221,7 +221,7 @@ cette subdivision sont réputés transférés pour l'application des cinquième,
 sixième et dixième alinéas ; les dispositions prévues au douzième alinéa en cas
 d'omission s'appliquent.
 
-((Lorsqu'elles reçoivent un emploi non conforme à leur objet ou qu'elles
+Lorsqu'elles reçoivent un emploi non conforme à leur objet ou qu'elles
 deviennent sans objet au cours d'un exercice clos après la date du transfert des
 titres, les provisions pour dépréciation constituées antérieurement à cette date
 à raison de ces titres sont rapportées aux plus-values à long terme ou au
@@ -230,27 +230,27 @@ afférentes à des titres qui, avant leur transfert, constituaient ou non des
 titres de participation ; les provisions rapportées s'imputent alors en priorité
 sur les dotations les plus anciennes.
 
-((Les provisions pour dépréciation constituées après le transfert à raison des
+Les provisions pour dépréciation constituées après le transfert à raison des
 titres transférés mentionnés aux cinquième et sixième alinéas sont déterminées
 par référence à la valeur des titres concernés à la date du transfert.
 
-((Les entreprises qui appliquent les dispositions des cinquième et sixième
-alinéas doivent, pour les titres transférés, joindre à la déclaration de
-résultats de l'exercice du transfert et des exercices suivants un état conforme
-au modèle fourni par l'administration faisant apparaître, pour chaque catégorie
-de titres de même nature, la date de transfert, le nombre et la valeur des
-titres transférés, le montant de la plus-value ou de la moins-value et le régime
+Les entreprises qui appliquent les dispositions des cinquième et sixième alinéas
+doivent, pour les titres transférés, joindre à la déclaration de résultats de
+l'exercice du transfert et des exercices suivants un état conforme au modèle
+fourni par l'administration faisant apparaître, pour chaque catégorie de titres
+de même nature, la date de transfert, le nombre et la valeur des titres
+transférés, le montant de la plus-value ou de la moins-value et le régime
 d'imposition qui lui est applicable, à cette date, le montant des provisions
 constituées avant ou après le transfert et le montant de ces provisions qui a
 été rapporté au résultat imposable.
 
-((Le défaut de production de l'état mentionné au onzième alinéa ou l'omission
-des valeurs ou provisions qui doivent y être portées entraînent l'imposition
+Le défaut de production de l'état mentionné au onzième alinéa ou l'omission des
+valeurs ou provisions qui doivent y être portées entraînent l'imposition
 immédiate des plus-values et des provisions omises ; les moins-values ne peuvent
 être déduites que des résultats imposables de l'exercice au cours duquel les
 titres considérés sont cédés. L'omission des valeurs ou provisions devant
 figurer sur cet état entraîne l'application de la pénalité prévue à l'article
-1734 quater.))
+1734 quater.
 
 b. (Disposition périmée).
 
@@ -271,10 +271,9 @@ avant le 1er janvier 1966.
 
 III. Les dispositions du II sont étendues, sous les mêmes conditions, aux
 profits réalisés à l'occasion de la cession d'immeubles ayant fait l'objet d'un
-permis de construire délivré entre le 1er janvier 1966 et le 1er janvier 1972
-[*période*] ou pour lesquels aura été déposée, avant le 1er janvier 1972, la
-déclaration de construction visée à l'article L 430-3 du code de l'urbanisme
-(9).
+permis de construire délivré entre le 1er janvier 1966 et le 1er janvier 1972 ou
+pour lesquels aura été déposée, avant le 1er janvier 1972, la déclaration de
+construction visée à l'article L 430-3 du code de l'urbanisme (9).
 
 Toutefois, en ce qui concerne ces profits :
 

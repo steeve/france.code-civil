@@ -15,3 +15,9 @@ du mois qui suit la constatation du trop-perçu, remboursé au contribuable.
 Il est également mis fin aux prélèvements mensuels en cas de décès du
 contribuable. Le solde de l'impôt est acquitté dans les conditions fixées par
 les articles 1663 et 1761.
+
+((Lorsque, après la mise en recouvrement, le montant du dernier prélèvement de
+l'année est inférieur au montant visé au 2 de l'article 1657, il est ajouté à
+celui de la mensualité précédente)) (M).
+
+(M) Modification de la loi.

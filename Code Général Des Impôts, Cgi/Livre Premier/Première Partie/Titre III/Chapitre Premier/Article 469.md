@@ -12,8 +12,14 @@ laquelle ont été fabriqués les alcools, soit, sous les conditions fixées par
 l'administration, l'appellation contrôlée ou réglementée dont ces alcools sont
 assortis.
 
+Pour les rhums et tafias définis au 1° du I de l'article 403, le titre de
+mouvement peut prendre, dans le cadre de conventions passées avec
+l'administration, la forme d'un message télématique (1).
+
 Les titres de mouvement sur papier jaune d'or sont applicables aux eaux-de-vie
 bénéficiant des appellations contrôlées Cognac ou Armagnac.
 
 Les titres de mouvement sur papier orange sont applicables aux vins de liqueur
 assortis d'une appellation d'origine contrôlée.
+
+(1) Ces dispositions entrent en vigueur à compter du 1er janvier 1996.

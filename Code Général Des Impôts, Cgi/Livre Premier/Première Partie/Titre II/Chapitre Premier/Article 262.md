@@ -1,24 +1,34 @@
 Article 262
 ----
-I. Sont exonérées de la taxe sur la valeur ajoutée les exportations de biens
-meubles corporels ainsi que les prestations de services qui leur sont
-directement liées (1). Ne sont pas considérées comme des exportations les
-livraisons de biens expédiés ou transportés à destination du territoire d'un
-autre Etat membre de la Communauté européenne entrant dans le champ
-d'application de la directive n° 77-388 modifiée du 17 mai 1977 du Conseil des
-communautés européennes.
+I. Sont exonérées de la taxe sur la valeur ajoutée :
 
-Sont assimilées à des exportations de biens les livraisons de biens expédiés ou
-transportés hors du territoire des Etats membres de la Communauté européenne par
-l'acheteur qui n'est pas établi en France ou pour son compte, à l'exclusion :
+1° les livraisons de biens expédiés ou transportés par le vendeur ou pour son
+compte, en dehors de la Communauté européenne ainsi que les prestations de
+services directement liées à l'exportation ;
 
-a. Des biens d'équipement et d'avitaillement des bateaux de plaisance, des
-avions de tourisme ou de tous autres moyens de transport à usage privé ;
+2° les livraisons de biens expédiés ou transportés par l'acheteur qui n'est pas
+établi en France, ou pour son compte, hors de la Communauté européenne, à
+l'exclusion des biens d'équipement et d'avitaillement des bateaux de plaisance,
+des avions de tourisme ou de tous autres moyens de transport à usage privé,
+ainsi que les prestations de services directement liées à l'exportation (0).
 
-b. Des biens expédiés ou transportés par des personnes résidant dans un pays
-tiers ou pour le compte de ces personnes, lorsque la valeur globale, taxe
-comprise, de ces biens, n'atteint pas un montant qui est fixé par le ministre du
-budget.
+Lorsque la livraison porte sur des biens à emporter dans les bagages personnels
+de voyageurs, l'exonération s'applique si les conditions suivantes sont réunies
+:
+
+a. le voyageur n'a pas son domicile ou sa résidence habituelle en France ou dans
+un autre Etat membre de la Communauté européenne ;
+
+b. la livraison ne porte pas sur les produits alimentaires solides et liquides,
+les tabacs manufacturés, les pierres précieuses non montées, les marchandises
+qui correspondent par leur nature ou leur qualité à un approvisionnement
+commercial ainsi que celles qui sont frappées d'une prohibition de sortie ;
+
+c. les biens sont transportés en dehors de la Communauté européenne avant la fin
+du troisième mois suivant celui au cours duquel la livraison est effectuée ;
+
+d. la valeur globale de la livraison, taxe sur la valeur ajoutée comprise,
+excède un montant qui est fixé par arrêté du ministre chargé du budget.
 
 II. Sont également exonérés de la taxe sur la valeur ajoutée :
 
@@ -26,7 +36,7 @@ II. Sont également exonérés de la taxe sur la valeur ajoutée :
 meubles acquis ou importés en vue de faire l'objet de ces travaux et expédiés ou
 transportés en dehors du territoire des Etats membres de la Communauté
 économique européenne par le prestataire de services ou par le preneur établi
-hors de France (1') ou pour leur compte ;
+hors de France ou pour leur compte ;
 
 2° Les opérations de livraison, de réparation, de transformation, d'entretien,
 d'affrètement et de location portant sur :
@@ -81,35 +91,15 @@ provenance des Açores ou de Madère ;
 
 12° Les livraisons d'or aux instituts d'émission ;
 
-13° Les livraisons de biens destinés :
+13°, 13° bis, 13° ter (Abrogés par la loi 95-1347) ;
 
-a) A être placés sous l'un des régimes douaniers suivants prévus par les
-règlements communautaires en vigueur : conduite en douane, magasins et aires de
-dépôt temporaire, entrepôts d'importation ou d'exportation, perfectionnement
-actif ;
+14° Les prestations de services se rapportant à l'importation de biens en France
+ou dans un autre Etat membre de la Communauté européenne et dont la valeur est
+comprise dans la base d'imposition de l'importation.
 
-b) A être placés sous les régimes d'entrepôt à l'importation ou à l'exportation
-ou du perfectionnement actif, autres que ceux qui sont mentionnés au a ;
+(0) Cf. Instruction 1997-01-22 3A-1-97.
 
-Les prestations de services afférents aux livraisons mentionnées au présent 13°
-bénéficient de l'exonération (6) ;
-
-13° bis Les livraisons de biens placés sour les régimes énumérés aux a et b du
-13°, ainsi que les prestations de services portant sur ces biens, avec maintien
-d'une des situations définies auxdits a et b (6) ;
-
-13° ter Les livraisons de biens placés sous le régime de l'admission temporaire
-en exonération totale des droits à l'importation ou sous l'une des procédures du
-transit externe ou transit communautaire interne avec maintien de ce régime ou
-de ces procédures, ainsi que les prestations de services afférentes à ces
-livraisons (6) ;
-
-14° Les prestations de services se rapportant à l'importation de biens et dont
-la valeur est comprise dans la base d'imposition de l'importation.
-
-(1) Annexe III, art. 73 G, 73 H et 74.
-
-(1') Dispositions applicables à compter du 1er janvier 1993.
+(1) Annexe III, art. 73 A, 73 G, 73 H et 74.
 
 (2) Annexe IV, art. 42 à 46.
 
@@ -118,5 +108,3 @@ la valeur est comprise dans la base d'imposition de l'importation.
 (4) Annexe IV, art. 24 A.
 
 (5) Annexe III, art. 73 F.
-
-(6) Annexe III, art. 73 G.

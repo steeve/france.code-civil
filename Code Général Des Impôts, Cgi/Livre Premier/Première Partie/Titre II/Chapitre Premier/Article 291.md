@@ -1,74 +1,69 @@
 Article 291
 ----
-I 1 Les importations de biens sont soumises à la taxe sur la valeur ajoutée
+I 1. Les importations de biens sont soumises à la taxe sur la valeur ajoutée
 [*TVA*].
 
-2 Est considérée comme importation d'un bien [*définition*]:
+2. Est considérée comme importation d'un bien :
 
-a) L'entrée en France d'un bien originaire ou en provenance d'un Etat qui
-n'appartient pas à la Communauté européenne et qui n'a pas été mis en libre
-pratique, ou d'un bien en provenance d'un territoire d'un autre Etat membre de
-la Communauté situé en dehors du champ d'application de la directive (CEE n°
-77-388 modifiée du 17 mai 1977 du Conseil des communautés européennes, ou des
-îles anglo-normandes ;
+((a. l'entrée en France d'un bien, originaire ou en provenance d'un Etat ou d'un
+territoire n'appartenant pas à la Communauté européenne, et qui n'a pas été mis
+en libre pratique, ou d'un bien en provenance d'un territoire visé au 1° de
+l'article 256-0 d'un autre Etat membre de la Communauté européenne ;
 
-b) La mise à la consommation en France d'un bien placé, lors de son entrée sur
-le territoire, sous l'un des régimes douaniers suivants prévus par la
-réglementation communautaire en vigueur :
-
-conduite en douane, magasins et aires de dépôt temporaire, entrepôts
-d'importation ou d'exportation, perfectionnement actif, admission temporaire en
-exonération totale des droits à l'importation ou sous les procédures du transit
-externe ou du transit communautaire interne (1).
+((b. la mise à la consommation en France d'un bien placé, lors de son entrée sur
+le territoire, sous l'un des régimes suivants prévus par les règlements
+communautaires en vigueur : conduite en douane, magasins et aires de dépôt
+temporaire, zone franche, entrepôt franc, entrepôt d'importation,
+perfectionnement actif, admission temporaire en exonération totale des droits à
+l'importation, transit externe ou sous le régime du transit communautaire
+interne)) (M).
 
 II Toutefois, sont exonérés :
 
-1° Pendant la durée du régime qui leur est attribué, les biens qui sont importés
-et mis sous les régimes d'entrepôt à l'importation ou à l'exportation ou du
-perfectionnement actif autres que ceux qui sont mentionnés au 2 du I (1) ;
+((1° l'importation au sens du b du 2 du I de biens qui ont fait l'objet d'une ou
+plusieurs livraisons mentionnées au 6° ou au 7° du I de l'article 277 A pendant
+leur placement sous les régimes énumérés audit b)) (M) ;
 
 1° bis (Supprimé).
 
 2° Les biens importés définitivement dans le cadre des franchises fiscales
 communautaires et qui sont désignés par arrêté.
 
-Cet arrêté détermine également les modalités d'application du présent paragraphe
-(2) ;
+Cet arrêté détermine également les modalités d'application du 3° Les produits
+suivants :
 
-3° Les produits suivants :
+Organes, sang et lait humains ;
 
-organes, sang et lait humains;
+Devises, billets de banque et monnaies qui sont des moyens de paiement légaux, à
+l'exception des billets et monnaies de collection ;
 
-devises, billets de banque et monnaies qui sont des moyens de paiement légaux, à
-l'exception des billets et monnaies de collection;
+Or à l'état de minerai ;
 
-or à l'état de minerai;
+Or brut en masses ou lingots, grenailles, or natif, déchets et débris d'ouvrages
+;
 
-or brut en masses ou lingots, grenailles, or natif, déchets et débris
-d'ouvrages;
+Déchets neufs d'industrie et matières de récupération ;
 
-déchets neufs d'industrie et matières de récupération;
-
-4° L'or, sous toutes ses formes, importé par les instituts d'émission;
+4° L'or, sous toutes ses formes, importé par les instituts d'émission ;
 
 5° Dans les conditions fixées par arrêté du ministre du budget, les navires,
 aéronefs, objets incorporés, engins et filets pour la pêche maritime prévus à
-l'article 262 II-2° à 5° (3);
+l'article 262 II-2° à 5° (3) ;
 
 6° Les produits de la pêche en l'état ou ayant fait l'objet d'opérations
 destinées à les préserver en vue de leur commercialisation importés par les
-entreprises de pêche maritime;
+entreprises de pêche maritime ;
 
-7° Les prothèses dentaires importées par les dentistes ou prothésistes
-dentaires;
+7° Les prothèses dentaires importées par les dentistes ou prothésistes dentaires
+;
 
 8° Les oeuvres d'art originales, les timbres, objets de collection ou
 d'antiquité, lorsque l'importation est réalisée directement à destination
-d'établissements agréés par le ministre de la culture et de la communication;
-les conditions d'application de ces dispositions sont fixées par arrêté du
-ministre du budget (4) ;
+d'établissements agréés par le ministre de la culture et de la communication ;
+les conditions d'application de ces disposition sont fixées par arrêté du
+ministre du budget (3) ;
 
-9° (Abrogé à compter du 1er janvier 1995, loi 94-1163) ;
+9° (Abrogé à compter du 1er janvier 1995).
 
 III Sont également exonérées de la taxe sur la valeur ajoutée :
 
@@ -76,8 +71,9 @@ III Sont également exonérées de la taxe sur la valeur ajoutée :
 ils ont été exportés et qui bénéficient de la franchise des droits de douane, ou
 qui en bénéficieraient s'ils étaient soumis à des droits de douane ;
 
-2° Les prestations de services directement liées aux régimes et aux procédures
-mentionnés au 2 du I et au 1° du II (5) ;
+((2° les prestations de services directement liées au placement d'un bien, lors
+de son entrée sur le territoire, sous l'un des régimes mentionnés au b du 2 du
+I)) (M) ;
 
 3° Les radoubs, réparations et transformations des navires français à l'étranger
 à l'exception de celles de ces opérations qui portent sur des bateaux de sport
@@ -87,3 +83,11 @@ ou de plaisance.
 territoire d'un autre Etat membre de la Communauté européenne et qui font
 l'objet par l'importateur d'une livraison exonérée en vertu du I de l'article
 262 ter.
+
+(M) Modification de la loi.
+
+(1) Arrêté du 30 décembre 1983 (JO du 25 janvier 1984).
+
+(2) Annexe IV, art. 42 à 46.
+
+(3) Annexe IV, art. 50 decies.
