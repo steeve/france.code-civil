@@ -2,10 +2,11 @@ Article L233-14
 ----
 A défaut d'avoir été régulièrement déclarées dans les conditions prévues aux
 premier et deuxième alinéas de l'article L. 233-7 les actions excédant la
-fraction qui aurait dû être déclarée, lorsqu'elles sont admises aux négociations
-sur un marché réglementé d'instruments financiers, sont privées du droit de vote
-pour toute assemblée d'actionnaires qui se tiendrait jusqu'à l'expiration d'un
-délai de deux ans suivant la date de régularisation de la notification.
+fraction qui aurait dû être déclarée, lorsqu'elles sont inscrites en compte chez
+un intermédiaire habilité dans les conditions prévues à l'article L. 211-4 du
+code monétaire et financier, sont privées du droit de vote pour toute assemblée
+d'actionnaires qui se tiendrait jusqu'à l'expiration d'un délai de deux ans
+suivant la date de régularisation de la notification.
 
 Dans les mêmes conditions, les droits de vote attachés à ces actions et qui
 n'ont pas été régulièrement déclarés ne peuvent être exercés ou délégués par
