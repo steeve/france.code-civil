@@ -1,6 +1,6 @@
 Article R222-15
 ----
-Ce montant est déterminé par la valeur totale des indemnités demandées dans la
+Ce montant est déterminé par la valeur totale des sommes demandées dans la
 requête introductive d'instance. Les demandes d'intérêts et celles qui sont
 présentées en application des dispositions de l'article L. 761-1 sont sans effet
 sur la détermination de ce montant.
