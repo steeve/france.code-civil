@@ -1,10 +1,10 @@
 Article R325-3
 ----
 L'immobilisation peut être prescrite par les officiers et les agents de police
-judiciaire ainsi que les agents de police judiciaire adjoints mentionnés au 2°
-de l'article 21 du code de procédure pénale lorsqu'ils constatent la nécessité
-de faire cesser sans délai une des infractions pour lesquelles cette mesure est
-prévue par le présent code.
+judiciaire ainsi que les agents de police judiciaire adjoints mentionnés à
+l'article 21 du code de procédure pénale et les gardes champêtres lorsqu'ils
+constatent la nécessité de faire cesser sans délai une des infractions pour
+lesquelles cette mesure est prévue par le présent code.
 
 Elle peut être prescrite par les agents mentionnés au 2° de l'article L. 116-2
 du code de la voirie routière lorsque l'infraction qui la motive est constatée

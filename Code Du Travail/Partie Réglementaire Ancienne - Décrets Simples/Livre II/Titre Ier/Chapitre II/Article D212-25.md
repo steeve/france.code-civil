@@ -1,15 +1,11 @@
 Article D212-25
 ----
-Le contingent d'heures supplémentaires prévu à l'article L. 212-6 applicable aux
-ouvriers, employés, agents de maîtrise et cadres mentionnés à l'article L.
-212-15-2 ainsi que pour les cadres mentionnés à l'article L. 212-15-3 qui n'ont
-pas signé de convention individuelle de forfait est fixé à 130 heures par an et
-par salarié.
-
-Pour les cadres mentionnés à l'article L. 212-15-3 qui sont régis
-individuellement par une convention de forfait établie en heures sur une base
-hebdomadaire ou mensuelle, ce contingent est fixé à 180 heures par an et par
-salarié.
+Le contingent d'heures supplémentaires prévu à l'article L. 212-6 est fixé à 180
+heures par an et par salarié, pour les ouvriers, employés, agents de maîtrise et
+cadres mentionnés à l'article L. 212-15-2 ainsi que pour les salariés itinérants
+non cadres et les cadres mentionnés à l'article L. 212-15-3 qui n'ont pas signé
+de convention individuelle de forfait ou qui sont régis individuellement par une
+convention de forfait établie en heures sur une base hebdomadaire ou mensuelle.
 
 Le contingent est réduit à 90 heures par an et par salarié lorsque la durée
 hebdomadaire de travail varie dans le cadre d'une convention ou d'un accord
