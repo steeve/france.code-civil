@@ -34,13 +34,10 @@ troisième année suivant l'installation, au moins égal aux six dixièmes du re
 minimum défini à l'alinéa précédent et qu'il atteindra ce minimum dans un délai
 supplémentaire de trois ans au plus.
 
-3. Les dispositions du 4° de l'article R. 343-4 entrent en vigueur le 1er
-janvier 1997.
-
-Toutefois, jusqu'au 31 décembre 2000, les candidats nés avant le 1er janvier
-1976 peuvent justifier de leur capacité professionnelle par la possession d'un
-diplôme d'un niveau équivalent au brevet d'études professionnelles agricoles ou
-au brevet professionnel agricole.
+3. Pour l'application du 4° de l'article R. 343-4, les candidats nés avant le
+1er janvier 1976 peuvent justifier de leur capacité professionnelle par la
+possession d'un diplôme de niveau équivalent au brevet d'études professionnelles
+agricoles ou au brevet professionnel agricole.
 
 4. Le premier alinéa de l'article R. 343-9 est remplacé par les dispositions
 suivantes :
