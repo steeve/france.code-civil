@@ -6,7 +6,8 @@ permanente.
 La commission permanente prépare les travaux du conseil supérieur et peut être
 consultée en cas d'urgence en ses lieu et place [*attributions*].
 
-Elle est présidée par le président du conseil supérieur.
+Elle est présidée par le président du conseil supérieur et, en cas d'empêchement
+de celui-ci, par le représentant du ministre de la justice.
 
 Elle comprend [*composition*]:
 
