@@ -1,8 +1,5 @@
 Article R423-61
 ----
-En dehors des opérations prévues par la législation en vigueur l'office ne peut
-effectuer que des placements en valeurs émises ou garanties par l'Etat.
-
 Les offices publics d'habitations à loyer modéré peuvent également, après accord
 de leur collectivité locale de rattachement, souscrire ou acquérir des actions
 émises par des sociétés d'habitations à loyer modéré ou des sociétés d'économie
