@@ -4,8 +4,8 @@ L'aide personnalisée au logement est accordée [*définition*] au titre de la
 résidence principale, quel que soit le lieu de son implantation sur le
 territoire national. Son domaine d'application comprend :
 
-1. Les logements occupés par leurs propriétaires, construits, améliorés, ou
-acquis et améliorés, à compter du 5 janvier 1977, [*date*] au moyen de formes
+1. Les logements occupés par leurs propriétaires, construits, améliorés, acquis
+ou améliorés, à compter du 5 janvier 1977, [*date*] au moyen de formes
 spécifiques d'aides de l'Etat ou de prêts dont les caractéristiques et les
 conditions d'octroi sont fixées par décret ;
 
