@@ -32,16 +32,18 @@ d. les bénéficiaires des allocations [*du FNE*] mentionnées au 4° du deuxiè
 alinéa de l'article L. 322-4 du code du travail pour les accidents survenus par
 le fait ou à l'occasion des actions favorisant leur reclassement ;
 
-3°) les personnes accomplissant un stage de réadaptation fonctionnelle ou de
-rééducation professionnelle dans les conditions prévues par le présent code, les
-assurés sociaux bénéficiaires de l'article L. 324-1 [*relatif aux maladies de
-longue durée*] ou titulaires d'une pension d'invalidité en vertu du chapitre 1er
-du titre IV du livre III et les personnes autres que celles appartenant aux
-catégories ci-dessus et qui, en vertu d'un texte législatif ou réglementaire,
-effectuent un stage de rééducation professionnelle dans les écoles administrées
-par l'office national des anciens combattants et victimes de la guerre, pour les
-accidents survenus par le fait ou à l'occasion de la réadaptation ou de la
-rééducation ;
+e. les bénéficiaires des allocations versées au titre de l'article L. 322-3 du
+code du travail pour les accidents survenus par le fait ou à l'occasion des
+actions favorisant leur conversion ; 3°) les personnes accomplissant un stage de
+réadaptation fonctionnelle ou de rééducation professionnelle dans les conditions
+prévues par le présent code, les assurés sociaux bénéficiaires de l'article L.
+324-1 [*relatif aux maladies de longue durée*] ou titulaires d'une pension
+d'invalidité en vertu du chapitre 1er du titre IV du livre III et les personnes
+autres que celles appartenant aux catégories ci-dessus et qui, en vertu d'un
+texte législatif ou réglementaire, effectuent un stage de rééducation
+professionnelle dans les écoles administrées par l'office national des anciens
+combattants et victimes de la guerre, pour les accidents survenus par le fait ou
+à l'occasion de la réadaptation ou de la rééducation ;
 
 4°) les pupilles de l'éducation surveillée, pour les accidents survenus par le
 fait ou à l'occasion d'un travail commandé, dans les conditions déterminées par

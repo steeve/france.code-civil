@@ -1,7 +1,8 @@
 Article L321-10
 ----
-En cas de redressement judiciaire, l'administrateur ou, à défaut, l'employeur ou
-le liquidateur, suivant les cas, qui envisage des licenciements économiques doit
-réunir et consulter le comité d'entreprise ou, à défaut, les délégués du
-personnel dans les conditions prévues aux articles L. 321-3, L. 321-4, L. 422-1,
-cinquième et sixième alinéas, et L. 432-1, troisième alinéas.
+Des décrets en Conseil d'Etat peuvent fixer les mesures d'adaptation nécessaires
+à l'application des dispositions de la présente loi dans les entreprises qui
+sont tenues de constituer un comité d'entreprise ou des organismes qui en
+tiennent lieu en vertu soit de dispositions législatives ou réglementaires
+autres que celles qui figurent au code de travail, soit de stipulations
+conventionnelles.

@@ -35,6 +35,9 @@ de la modification de l'outillage, d'un changement de produit ou de
 l'organisation du travail, avant toute modification des cadences et des normes
 de productivité liées ou non à la rémunération du travail.
 
+Le comité est consulté sur le plan d'adaptation prévu au second alinéa de
+l'article L. 432-2 du même code.
+
 Le comité est consulté sur les mesures prises en vue de faciliter la mise, la
 remise ou le maintien au travail des accidentés du travail, des invalides de
 guerre, des invalides civils et des travailleurs handicapés, notamment sur

@@ -26,7 +26,11 @@ accidents survenus par le fait ou à l'occasion de cette formation ;
 
 5° Les bénéficiaires des allocations mentionnées au sixième alinéa (4°) de
 l'article L. 322-4 du code du travail pour les accidents survenus par le fait ou
-à l'occasion des actions favorisant leur reclassement.
+à l'occasion des actions favorisant leur reclassement ;
+
+6° Les bénéficiaires des allocations versées au titre de l'article L. 322-3 du
+code du travail pour les accidents survenus par le fait ou à l'occasion des
+actions favorisant leur reconversion.
 
 Des décrets fixent les modalités de prise en charge, par les caisses
 d'assurance-accident agricole des départements du Haut-Rhin, du Bas-Rhin et de

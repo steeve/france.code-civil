@@ -43,6 +43,7 @@ condition qu'ils n'aient cessé de naviguer que pour exercer ce mandat.
 réglementaire, les marins sont privés d'emploi [*chômeurs*] et perçoivent un
 revenu de remplacement au sens des articles L. 351-1 et L. 351-6-1 du Code du
 travail ou une allocation de conversion au sens du 4° de l'article L. 322-4 du
+code du travail ou une allocation versée dans le cadre de l'article L. 322-3 du
 code du travail.
 
 La prise en compte de services accomplis par les marins dans d'autres positions
