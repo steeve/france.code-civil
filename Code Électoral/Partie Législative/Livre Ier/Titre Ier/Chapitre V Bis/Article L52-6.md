@@ -15,7 +15,7 @@ du candidat qui l'a désigné ou au compte de campagne du candidat tête de list
 lorsque le candidat qui l'a désigné figure sur cette liste.
 
 Le mandataire financier ne peut recueillir de fonds que pendant la période
-prévue à l'article L. 52-4.
+prévue au deuxième alinéa de l'article L. 52-4.
 
 Les fonctions du mandataire financier cessent de plein droit trois mois après le
 dépôt du compte de campagne du candidat qui l'a mandaté, ou bien, si le candidat
@@ -23,11 +23,12 @@ n'a pas déposé sa candidature dans les délais légaux, à l'expiration du dé
 dépôt des candidatures.
 
 Au terme de son mandat, le mandataire remet au candidat un bilan comptable de
-son activité. Lorsqu'un solde positif apparaît, il est dévolu, sur décision du
-candidat, soit à une association de financement d'un parti politique, soit à un
-ou plusieurs établissements reconnus d'utilité publique. A défaut de décision de
-dévolution dans les conditions et délais prévus ci-dessus, à la demande du
-préfet du département dans lequel est domicilié le candidat, le procureur de la
-République saisit le président du tribunal de grande instance qui détermine le
-ou les établissements reconnus d'utilité publique attributaires de l'actif net.
-Il en va de même lorsque la dévolution n'est pas acceptée.
+son activité. Lorsqu'un solde positif ne provenant pas de l'apport du candidat
+apparaît, il est dévolu, sur décision du candidat, soit à une association de
+financement d'un parti politique, soit à un ou plusieurs établissements reconnus
+d'utilité publique. A défaut de décision de dévolution dans les conditions et
+délais prévus ci-dessus, à la demande du préfet du département dans lequel est
+domicilié le candidat, le procureur de la République saisit le président du
+tribunal de grande instance qui détermine le ou les établissements reconnus
+d'utilité publique attributaires de l'actif net. Il en va de même lorsque la
+dévolution n'est pas acceptée.

@@ -16,20 +16,20 @@ de l'association sont annexés au compte de campagne du candidat qu'elle a
 soutenu ou au compte de campagne du candidat tête de liste lorsque le candidat
 qu'elle a soutenu figure sur cette liste.
 
-L'association ne peut recueillir de fonds que pendant la période prévue à
-l'article L. 52-4.
+L'association ne peut recueillir de fonds que pendant la période prévue au
+deuxième alinéa de l'article L. 52-4.
 
 Elle est dissoute de plein droit trois mois après le dépôt du compte de campagne
 du candidat qu'elle soutient. Avant l'expiration de ce délai, elle est tenue de
-se prononcer sur la dévolution de son actif net. Celui-ci doit être attribué,
-soit à une association de financement d'un parti politique, soit à un ou
-plusieurs établissements reconnus d'utilité publique. A défaut de décision de
-dévolution dans les conditions et délais prévus ci-dessus, à la demande du
-préfet du département dans lequel est situé le siège de l'association de
-financement électorale, le procureur de la République saisit le président du
-tribunal de grande instance, qui détermine le ou les établissements reconnus
-d'utilité publique attributaires de l'actif net. Il en va de même dans le cas où
-la dévolution n'est pas acceptée.
+se prononcer sur la dévolution de son actif net ne provenant pas de l'apport du
+candidat. Le solde doit être attribué, soit à une association de financement
+d'un parti politique, soit à un ou plusieurs établissements reconnus d'utilité
+publique. A défaut de décision de dévolution dans les conditions et délais
+prévus ci-dessus, à la demande du préfet du département dans lequel est situé le
+siège de l'association de financement électorale, le procureur de la République
+saisit le président du tribunal de grande instance, qui détermine le ou les
+établissements reconnus d'utilité publique attributaires de l'actif net. Il en
+va de même dans le cas où la dévolution n'est pas acceptée.
 
 Si le candidat soutenu par l'association de financement électorale n'a pas
 déposé sa candidature, l'association est dissoute de plein droit à l'expiration
