@@ -12,8 +12,9 @@ ministre chargé de la construction et de l'habitation, est composé comme suit 
 
 - une personnalité choisie en raison de sa compétence ;
 
-2. Membres désignés par les corps auxquels ils appartiennent - un membre du
-Conseil d'Etat désigné par l'assemblée générale du Conseil d'Etat ;
+2. Membres désignés par les corps auxquels ils appartiennent :
+
+un membre du Conseil d'Etat désigné par l'assemblée générale du Conseil d'Etat ;
 
 - un membre de la Cour des comptes désigné par la Cour des comptes ;
 
@@ -43,8 +44,9 @@ Conseil d'Etat désigné par l'assemblée générale du Conseil d'Etat ;
 
 - un représentant du ministre chargé de l'agriculture ;
 
-- un représentant du ministre chargé de la sécurité sociale 5. Membres désignés
-par les organismes intéressés :
+- un représentant du ministre chargé de la sécurité sociale ;
+
+5. Membres désignés par les organismes intéressés :
 
 - un représentant des [*comités départementaux des habitations à loyer modéré*]
 conseils départementaux de l'habitat ;
