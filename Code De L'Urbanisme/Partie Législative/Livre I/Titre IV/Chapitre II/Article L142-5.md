@@ -5,16 +5,13 @@ compétente en matière d'expropriation ; ce prix est exclusif de toute indemnit
 accessoire, et notamment de l'indemnité de réemploi.
 
 Le prix est fixé, payé ou, le cas échéant, consigné selon les règles applicables
-en matière d'expropriation. Toutefois, dans ce cas :
-
-a) La date de référence prévue à l'article L. 13-15 du code de l'expropriation
-pour cause d'utilité publique est soit la date du plus récent des actes rendant
-public, approuvant ou modifiant le plan d'occupation des sols pour la zone dans
-laquelle est situé le bien, soit, en l'absence d'un tel plan, cinq ans avant la
-déclaration par laquelle le propriétaire a manifesté son intention d'aliéner le
-bien ;
-
-b) Les améliorations, transformations ou changements d'affectation opérés par le
+en matière d'expropriation. Toutefois, dans ce cas : a) La date de référence
+prévue à l'article L. 13-15 du code de l'expropriation pour cause d'utilité
+publique est soit la date du plus récent des actes rendant public, approuvant ou
+modifiant le plan d'occupation des sols et délimitant la zone dans laquelle est
+situé le bien, soit, en l'absence d'un tel plan, cinq ans avant la déclaration
+par laquelle le propriétaire a manifesté son intention d'aliéner le bien ; b)
+Les améliorations, transformations ou changements d'affectation opérés par le
 propriétaire postérieurement à la date fixée au a) ci-dessus ne sont pas
 présumés revêtir un caractère spéculatif ;
 
