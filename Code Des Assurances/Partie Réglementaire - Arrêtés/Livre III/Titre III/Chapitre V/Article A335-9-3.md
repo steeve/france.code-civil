@@ -1,9 +1,8 @@
 Article A335-9-3
 ----
-En assurance de responsabilité civile automobile, la prime de référence
-correspondant à un risque déterminé et figurant au tarif déposé par l'assureur
-auprès du ministre de l'économie, des finances et du budget, peut faire l'objet
-de réductions supplémentaires, dans les cas suivants :
+En assurance de responsabilité civile automobile, la prime de référence visée à
+l'article 2 de l'annexe à l'article A. 121-1, peut faire l'objet de réductions
+supplémentaires, dans les cas suivants :
 
 Pour les assurés qui se soumettent, conformément aux stipulations du contrat, à
 des cycles de formation ou de perfectionnement à la conduite automobile ;
