@@ -12,5 +12,5 @@ Les sociétés membres d'un groupe placé sous le régime fiscal défini à l'ar
 2. La déclaration dûment signée est remise au service des impôts du lieu
 mentionné à l'article 218 A du code général des impôts au plus tard le dernier
 jour du mois qui suit la mise en paiement des distributions. Toutefois, les
-sociétés étrangères produisent la déclaration dans les délais visés au deuxième
-alinéa du 1 de l'article 223 du même code.
+sociétés étrangères produisent pour chaque exercice la déclaration dans les
+délais visés au deuxième alinéa du 1 de l'article 223 du même code.
