@@ -1,6 +1,6 @@
 Article R95-1
 ----
-Le pensionné mentionné au troisième alinéa de l'article L. 87 déclare au service
+Le pensionné mentionné au deuxième alinéa de l'article L. 87 déclare au service
 des pensions du ministère du budget, dans un délai de deux mois à compter de la
 date de sa radiation des cadres, le montant annuel brut des pensions versées par
 les organismes étrangers de retraite dont il relevait pendant son détachement

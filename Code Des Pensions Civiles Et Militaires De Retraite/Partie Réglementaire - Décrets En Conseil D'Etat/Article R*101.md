@@ -4,8 +4,8 @@ Lorsque les dispositions de l'article L. 90 (2e alinéa) ne peuvent être
 satisfaites, les fonctionnaires civils et les militaires admis à faire valoir
 leurs droits à pension reçoivent, à compter du premier jour du mois civil qui
 suit la cessation de leur activité ou de leur radiation des cadres, à titre
-d'avance sur pension, une allocation provisoire égale au montant arrondi au
-franc inférieur de la somme à laquelle une liquidation sommaire, établie dès
+d'avance sur pension, une allocation provisoire égale au montant arrondi à
+l'euro inférieur de la somme à laquelle une liquidation sommaire, établie dès
 leur mise à la retraite et éventuellement révisée, permet d'évaluer leur
 pension.
 

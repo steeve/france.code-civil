@@ -8,13 +8,11 @@ l'article L. 5 (6°) sont pris en compte, dans la mesure où ils ont été accom
 Afrique occidentale française et de l'ancienne Afrique équatoriale française,
 pour le Togo et le Cameroun, avant la date de leur accession à l'indépendance ;
 
-2° Pour l'ex-Indochine française et les anciens établissements français de
-l'Inde, avant la date du transfert des administrations aux nouveaux Etats du
-Viet-Nam, du Cambodge et du Laos ou à l'Union indienne ;
+2° Abrogé ;
 
-3° Pour la Tunisie avant le 1er avril 1957 [*date*] ;
+3° Pour la Tunisie avant le 1er avril 1957 ;
 
-4° Pour le Maroc, s'il s'agit de services de fonctionnaire titulaire : [*date*]
-avant le 1er janvier 1963 et s'il s'agit de services auxiliaires validés : avant
-le 1er octobre 1957 pour les magistrats et les personnels enseignants et avant
-le 1er juillet 1957 pour les autres personnels.
+4° Pour le Maroc, s'il s'agit de services de fonctionnaire titulaire : avant le
+1er janvier 1963 et s'il s'agit de services auxiliaires validés : avant le 1er
+octobre 1957 pour les magistrats et les personnels enseignants et avant le 1er
+juillet 1957 pour les autres personnels.

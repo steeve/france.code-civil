@@ -15,5 +15,5 @@ ce dernier procède à la liquidation et à la concession de la pension. Dans le
 cas contraire, le dossier est transmis au ministre dont relevait l'auteur du
 droit en vue de l'application de la procédure prévue à l'alinéa précédent.
 
-Le décompte détaillé de la liquidation est obligatoirement notifié à chaque
-intéressé en même temps que la décision portant concession de la pension.
+Le décompte détaillé de la liquidation est adressé à chaque intéressé en même
+temps que son titre de pension.

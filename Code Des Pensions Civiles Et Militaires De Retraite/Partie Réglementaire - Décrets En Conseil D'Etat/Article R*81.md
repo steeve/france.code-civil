@@ -11,5 +11,4 @@ verser annuellement au Trésor public :
 de l'article L. 61 ;
 
 2° Une contribution aux charges résultant pour l'Etat de la constitution de la
-pension dont le taux est fixé forfaitairement à 33 p. 100 du montant des
-émoluments soumis à retenues.
+pension dont le taux est fixé par décret.

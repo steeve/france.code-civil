@@ -6,5 +6,4 @@ date à laquelle l'absence a été déclarée par jugement et la pension défini
 est accordée à compter de la même date.
 
 En cas de réapparition, la pension provisoire est annulée à compter de sa date
-d'entrée en jouissance et les arrérages perçus doivent être reversés au Trésor
-public.
+d'effet et les arrérages perçus doivent être reversés au Trésor public.
