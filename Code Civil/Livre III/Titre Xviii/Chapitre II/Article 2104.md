@@ -4,15 +4,27 @@ Les créances privilégiées sur la généralité des immeubles sont :
 
 1° Les frais de justice ;
 
-2° Les salaires des gens de service, pour l'année échue et ce qui est dû de
-l'année courante ; les sommes pour lesquelles un privilège est établi à
-l'article 530 du code de commerce, les salaires et appointements des ouvriers,
-commis et façonniers, tels que tisseurs, guimpiers et passementiers, ainsi que
-de tous ceux qui louent leurs services, pour les six derniers mois ; les
-indemnités prévues par l'article 23 du livre Ier du code du travail, soit à
-raison de l'inobservation du délai congé, soit à raison de la résiliation
-abusive du contrat ; le salaire différé, pour lequel un privilège est établi par
-l'article 73 du décret du 29 juillet 1939, relatif à la famille et à la natalité
-françaises, pour l'année échue et l'année courante ; les indemnités dues pour
-les congés payés ; le tout sans préjudice de l'application éventuelle des
-dispositions de l'article 47 a du livre Ier du code du travail.
+2° Sans préjudice de l'application éventuelle des dispositions des articles L.
+143-10, L. 143-11, L. 742-6 et L. 751-15 du code du travail :
+
+Les rémunérations des gens de service pour l'année échue et l'année courante ;
+
+Le salaire différé résultant du contrat de travail institué par l'article 63 du
+décret du 29 juillet 1939 relatif à la famille et à la natalité françaises pour
+l'année échue et l'année courante ;
+
+Les rémunérations pour les six derniers mois des salariés et apprentis ;
+
+Les indemnités dues en raison de l'inobservation du préavis fixé par l'article
+L. 122-3 ou du délai-congé prévu par l'article L. 122-6 ;
+
+Les indemnités dues pour les congés payés ;
+
+Les indemnités de licenciement dues en application des conventions collectives
+de travail, des accords collectifs d'établissement, des règlements de travail,
+des usages, des dispositions des articles L. 122-9, L. 761-5 et L. 761-7 pour la
+totalité de la portion inférieure ou égale au plafond visé à l'article L. 143-10
+du code du travail et pour le quart de la portion supérieure audit plafond.
+
+Les indemnités dues, le cas échéant, au salarié en application des articles L.
+122-2-1, L. 122-3-2, L. 122-14-4 et L. 122-14-6, alinéa 3.
