@@ -8,11 +8,16 @@ Certificat d'aptitude professionnelle agricole ;
 
 Brevet d'études professionnelles agricoles.
 
+La durée d'études fixée à l'alinéa précédent peut, dans les cas et selon les
+conditions fixées par arrêté du ministre chargé de l'agriculture, être réduite à
+un an pour tenir compte de la formation antérieure des intéressés.
+
 Ces diplômes sont délivrés dans les conditions fixés par arrêté du ministre de
 l'agriculture soit à la suite d'examens publics, soit selon d'autres modalités.
 
-Les candidats ne peuvent se présenter à ces examens publics que s'ils ont suivi
-la formation correspondante définie par arrêté du ministre de l'agriculture.
+Les candidats n'ayant pas atteint l'âge de la majorité ne peuvent se présenter à
+ces examens publics que s'ils ont suivi la formation correspondante définie par
+arrêté du ministre chargé de l'agriculture.
 
 Ces diplômes sont respectivement les équivalents du certificat d'aptitude
 professionnelle et du brevet d'études professionnelles délivrés par le ministère
