@@ -1,7 +1,8 @@
 Article R432-13
 ----
-Les ressources du comité interentreprises sont constituées par les sommes
-versées par les comités d'entreprise pour le fonctionnement des activités
-sociales et culturelles incombant à ces derniers en application de l'article R.
-432-10, dans les conditions fixées [*par décret en Conseil d'Etat*] à l'article
-L. 432-2.
+Les institutions sociales dotées de la personnalité civile peuvent être
+subventionnées par les comités d'entreprise ou comités interentreprises.
+
+Elles sont organisées et fonctionnent selon les modalités propres à chacune
+d'elles, d'après leur nature et leur régime juridique, sous les réserves
+indiquées aux articles R. 432-9 et R. 432-10.

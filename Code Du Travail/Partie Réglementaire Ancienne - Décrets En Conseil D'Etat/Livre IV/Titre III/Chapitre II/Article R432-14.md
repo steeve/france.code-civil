@@ -1,8 +1,15 @@
 Article R432-14
 ----
-Les institutions sociales dotées de la personnalité civile peuvent être
-subventionnées par les comités d'entreprise ou comités interentreprises.
+A la fin de chaque année, le comité d'entreprise fait un compte rendu détaillé
+de sa gestion financière, qui est porté à la connaissance du personnel de
+l'entreprise par voie d'affichage sur les tableaux habituellement réservés aux
+communications syndicales. Il doit indiquer, notamment, d'une part, le montant
+des ressources dont le comité dispose dans le cours de l'année et qui lui ont
+été procurées par l'un des moyens indiqués à l'article R. 432-11, d'autre part,
+le montant des dépenses assumées par lui, soit pour son propre fonctionnement,
+soit pour celui des activités sociales et culturelles dépendant de lui ou des
+comités interentreprises auxquels il participe. Chacune des différentes
+institutions sociales doit faire l'objet d'un budget particulier.
 
-Elles sont organisées et fonctionnent selon les modalités propres à chacune
-d'elles, d'après leur nature et leur régime juridique, sous les réserves
-indiquées aux articles R. 432-10 et R. 432-11.
+Le bilan établi par le comité doit être approuvé [*obligation*] éventuellement
+par le commissaire aux comptes prévu par l'article L. 432-4.

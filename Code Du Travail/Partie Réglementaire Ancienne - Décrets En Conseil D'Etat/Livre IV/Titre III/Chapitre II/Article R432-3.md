@@ -15,6 +15,5 @@ culturelles ayant pour objet d'assurer au personnel de l'entreprise des
 logements et des jardins ouvriers, les centres d'apprentissage et de formation
 professionnelle dans la mesure et aux conditions définies à l'article R. 432-6.
 
-Le service médical et le service social sont gérés dans les conditions fixées au
-livre II, titre IV, section II et titre V du code du travail, partie
-réglementaire.
+Le service médical et le service social sont gérés dans les conditions fixées
+aux titre IV et V du livre II du code du travail.
