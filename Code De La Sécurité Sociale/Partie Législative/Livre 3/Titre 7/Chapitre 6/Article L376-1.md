@@ -29,3 +29,21 @@ fond pourra être demandée pendant deux ans, à compter de la date à partir de
 laquelle ledit jugement est devenu définitif, soit à la requête du ministère
 public, soit à la demande des caisses de sécurité sociale intéressées ou du
 tiers responsable, lorsque ces derniers y auront intérêt.
+
+En contrepartie des frais qu'elle engage pour obtenir le remboursement mentionné
+au troisième alinéa ci-dessus, la caisse d'assurance maladie à laquelle est
+affilié l'assuré social victime de l'accident recouvre une indemnité forfaitaire
+à la charge du tiers responsable et au profit de l'organisme national
+d'assurance maladie. Le montant de cette indemnité est égal au tiers des sommes
+dont le remboursement a été obtenu, dans les limites d'un montant maximum de 5
+000 F et d'un montant minimum de 500 F.
+
+Cette indemnité est établie et recouvrée par la caisse selon les règles et sous
+les garanties et sanctions, prévues au chapitre 3 du titre III et aux chapitres
+2, 3 et 4 du titre IV du livre Ier ainsi qu'aux chapitres 3 et 4 du titre IV du
+livre II applicables au recouvrement des cotisations de sécurité sociale.
+
+Lorsque l'assuré victime de l'accident est affilié au régime agricole,
+l'indemnité est recouvrée selon les règles et sous les garanties et sanctions
+prévues aux chapitres 2, 3 et 4 du titre IV du livre Ier ainsi qu'à l'article
+1143-2 du code rural.

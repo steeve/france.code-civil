@@ -1,0 +1,7 @@
+Article L137-1
+----
+Il est institué à la charge des employeurs et au profit du Fonds de solidarité
+vieillesse une taxe sur les contributions des employeurs et des organismes de
+représentation collective du personnel versées, à compter du 1er janvier 1996,
+au bénéfice des salariés pour le financement de prestations complémentaires de
+prévoyance.
