@@ -1,7 +1,7 @@
 Article R324-10
 ----
 Les chantiers de coupes ou de débardage soumis à la déclaration prévue à
-l'article L. 324-11-3 sont ceux dont le volume excède 50 mètres cubes. Les
+l'article L. 324-11-3 sont ceux dont le volume excède 500 mètres cubes. Les
 chantiers de boisement, de reboisement ou de travaux sylvicoles soumis à la même
 déclaration sont ceux portant sur une surface supérieure à 4 hectares.
 
