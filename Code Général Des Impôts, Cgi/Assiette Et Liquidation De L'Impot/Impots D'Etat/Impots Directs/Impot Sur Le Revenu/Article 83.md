@@ -63,7 +63,7 @@ conjoint se trouve dans l'un des cas prévus au troisième alinéa de l'article 
 quinquies B.
 
 Un décret fixe les modalités d'application du présent paragraphe, notamment les
-obligations des emprunteurs et des intermédiaires agréés.
+obligations des emprunteurs et des intermédiaires agréés (2).
 
 2° quinquies Les intérêts des emprunts contractés, à compter du 1er janvier
 1984, pour souscrire au capital d'une société coopérative ouvrière de production
@@ -77,18 +77,18 @@ Cette disposition est applicable dans les conditions fixées au 2° quater.
 couverts par des allocations spéciales.
 
 La déduction à effectuer du chef des frais professionnels est calculée
-forfaitairement en fonction du revenu brut, après défalcation des retenues,
-cotisations, contributions et intérêts mentionnés aux 1° à 2° quinquies et 83
-bis ; elle est fixée à 10 % du montant de ce revenu. Elle est limitée à 54.770 F
-pour l'imposition des rémunérations perçues en 1984. Chaque année, le plafond
-retenu pour l'imposition des revenus de l'année précédente est relevé dans la
-même proportion que la limite supérieure de la septième tranche du barème de
-l'impôt sur le revenu.
+forfaitairement en fonction du revenu brut, après défalcation des cotisations,
+contributions et intérêts mentionnés aux 1° à 2° quinquies et à l'article 83 bis
+; elle est fixée à 10 % du montant de ce revenu. Elle est limitée à 54.770 F
+pour l'imposition des rémunérations perçues en 1984 (3) ; chaque année, le
+plafond retenu pour l'imposition des revenus de l'année précédente est relevé
+dans la même proportion que la limite supérieure de la septième tranche du
+barème de l'impôt sur le revenu.
 
 Toutefois, en ce qui concerne les catégories de professions qui comportent des
 frais dont le montant est notoirement supérieur à celui résultant de
 l'application du pourcentage prévu à l'alinéa précédent, un arrêté ministériel
-(2) fixe le taux de la déduction dont les contribuables appartenant à ces
+(4) fixe le taux de la déduction dont les contribuables appartenant à ces
 professions peuvent bénéficier en sus de la déduction forfaitaire visée audit
 alinéa. Cette déduction supplémentaire est limitée à 50.000 F. Elle est calculée
 sur le montant global des rémunérations et des remboursements et allocations
@@ -108,4 +108,7 @@ prévu aux articles R. 196-1 et R. 196-3 du livre des procédures fiscales.
 
 (1) Annexe III, art. 38 septdecies.
 
-(2) Annexe IV, art. 5 et 5 A.
+(2) Annexe III, art. 38 septdecies A à 38 septdecies E.
+
+(3) Plafond fixé à 57.840 F pour l'imposition des revenus de 1985. (4) Annexe
+IV, art. 5 et 5 A.
