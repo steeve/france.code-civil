@@ -1,6 +1,5 @@
 Article R5711-1
 ----
-Les dispositions du livre III de la deuxième partie sont applicables aux
-syndicats mixtes associant exclusivement des communes et des établissements
-publics de coopération intercommunale sous réserve des dispositions qui leur
-sont propres.
+Les dispositions prévues à l'article R. 5212-1 sont applicables aux membres des
+comités des syndicats mixtes constitués exclusivement de communes et
+d'établissements publics de coopération intercommunale.
