@@ -6,3 +6,6 @@ nationale militaire de sécurité sociale, et autres que ceux mentionnés à
 l'article D. 713-17, est fixé à 15,75 p. 100, soit 9,70 p. 100 à la charge de
 l'Etat et 6,05 p. 100 à la charge de l'assuré, sur la solde soumise à retenue
 pour pension.
+
+L'assiette de la cotisation due à la Caisse nationale des allocations familiales
+pour les intéressés est identique à celle fixée à l'alinéa précédent.
