@@ -1,8 +1,9 @@
 Article R423-4
 ----
-La commission de contrôle des assurances peut retenir un taux de réduction
-différent par ensemble de contrats présentant les mêmes caractéristiques. Tous
-les contrats d'un même ensemble ont le même taux de réduction.
+La commission de contrôle des assurances, des mutuelles et des institutions de
+prévoyance peut retenir un taux de réduction différent par ensemble de contrats
+présentant les mêmes caractéristiques. Tous les contrats d'un même ensemble ont
+le même taux de réduction.
 
 Si la commission de contrôle décide le transfert de tout ou partie des contrats
 à une ou plusieurs entreprises, elle fait procéder, aux frais de l'entreprise

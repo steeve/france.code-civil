@@ -5,8 +5,8 @@ Des dispositions particulières concernant l'expropriation figurent notamment :
 - aux articles L. 122-1, L. 213-1, L. 221-1, L. 221-2, L. 313-3, L. 313-4, L.
 314-1 à L. 314-9 du code de l'urbanisme ;
 
-- aux articles 6, 9-1, 9-2 et 11 de la loi du 31 décembre 1913 sur les monuments
-historiques ;
+- aux articles L. 621-12, L. 621-13, L. 621-14, L. 621-18 et L. 621-21 du code
+du patrimoine ;
 
 - à l'article L. 341-14 du code de l'environnement ;
 

@@ -1,6 +1,6 @@
 Article L2321-2
 ----
-- Les dépenses obligatoires comprennent notamment :
+Les dépenses obligatoires comprennent notamment :
 
 1° L'entretien de l'hôtel de ville ou, si la commune n'en possède pas, la
 location d'une maison ou d'une salle pour en tenir lieu ;
@@ -92,8 +92,8 @@ revenus communaux ;
 25° Le versement au fonds de coopération prévu à l'article L. 5334-7 et le
 reversement de l'excédent prévu à l'article L. 5334-10 ;
 
-26° Les dépenses résultant de l'application de l'article 25 de la loi du 31
-décembre 1913 sur les monuments historiques ;
+26° Les dépenses résultant de l'application de l'article L. 622-9 du code du
+patrimoine ;
 
 27° Pour les communes ou les groupements de communes dont la population est
 égale ou supérieure à 3 500 habitants et pour leurs établissements publics, les

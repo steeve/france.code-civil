@@ -26,10 +26,8 @@ naturel ou un site classé sans l'autorisation prévue à l'article L. 341-10 ;
 création d'une zone de protection pris en application de l'article 19 de la loi
 du 2 mai 1930 ayant pour objet de réorganiser la protection des monuments
 naturels et des sites de caractère artistique, historique, scientifique,
-légendaire ou pittoresque et continuant à produire ses effets en application du
-troisième alinéa de l'article 72 de la loi n° 83-8 du 7 janvier 1983 relative à
-la répartition des compétences entre les communes, les départements, les régions
-et l'Etat.
+légendaire ou pittoresque et continuant à produire ses effets en application de
+l'article L. 642-6 du code du patrimoine.
 
 III. - Les dispositions des articles L. 480-1, L. 480-2, L. 480-3 et L. 480-5 à
 L. 480-9 du code de l'urbanisme sont applicables aux infractions à l'alinéa 4 de

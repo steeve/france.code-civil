@@ -16,8 +16,7 @@ législatives du code de l'environnement relatives aux sites et qu'elles
 consistent, soit dans le défaut de permis de construire, soit dans la
 non-conformité de la construction ou des travaux au permis de construire
 accordé. Il en est de même des infractions aux prescriptions établies en
-application de l'article 2 de la loi n° 2001-44 du 17 janvier 2001 relative à
-l'archéologie préventive.
+application des articles L. 522-1 à L. 522-4 du code du patrimoine.
 
 Lorsque l'autorité administrative et, au cas où il est compétent pour délivrer
 les autorisations, le maire ou le président de l'établissement public de
