@@ -1,33 +1,35 @@
 Article A510-1
 ----
 Le comité de décentralisation placé auprès du ministre chargé de l'aménagement
-du territoire institué par l'article R. 510-2 est ainsi composé :
+du territoire, institué par l'article R. 510-2, est ainsi composé :
 
-1° - le représentant du ministre chargé de l'aménagement du territoire ;
+1° Sept représentants de l'administration :
 
-- le représentant du ministre chargé de l'urbanisme ;
+a) Un représentant du ministre chargé de l'urbanisme, vice-président ;
 
-- le représentant du ministre chargé de la recherche ;
+b) Un représentant du ministre chargé de l'aménagement du territoire, rapporteur
+;
 
-- le représentant du ministre de l'intérieur ;
+c) Un représentant du préfet de la région d'Ile-de-France, rapporteur ;
 
-- le représentant du ministre chargé du budget ;
+d) Un représentant du ministre de l'intérieur ;
 
-- le représentant du ministre chargé de l'industrie ;
+e) Un représentant du ministre chargé du budget et du ministre chargé de
+l'économie ;
 
-- le représentant du commissaire de la République de la région d'Ile-de-France ;
+f) Un représentant du ministre chargé du logement ;
 
-- le représentant du secrétaire général du groupe central des villes nouvelles.
+g) Un représentant du secrétaire général du Gouvernement.
 
-2° Sept personnalités, dont deux fonctionnaires au moins, choisies en fonction
-de leur compétence ou de leur connaissance des problèmes d'aménagement du
-territoire.
+2° Trois élus des collectivités territoriales, dont un conseiller régional
+d'Ile-de-France.
 
-Ces personnalités sont nommées par arrêté du Premier ministre, sur proposition
-du ministre chargé de l'aménagement du territoire et du ministre chargé de
-l'urbanisme.
+3° Trois personnalités choisies en fonction de leur compétence ou de leur
+connaissance des problèmes d'aménagement du territoire.
 
-Leur mandat, renouvelable deux fois, a une durée de trois ans.
+Les membres du comité de décentralisation mentionnés aux 2° et 3° du présent
+article ainsi que leurs suppléants sont nommés par arrêté du Premier ministre,
+sur proposition du ministre chargé de l'aménagement du territoire et du ministre
+chargé de l'urbanisme.
 
-3° Pour toutes les affaires intéressant les services et établissements publics
-de l'Etat, le représentant du secrétaire général du Gouvernement.
+Leur mandat, d'une durée de trois ans, est renouvelable deux fois.

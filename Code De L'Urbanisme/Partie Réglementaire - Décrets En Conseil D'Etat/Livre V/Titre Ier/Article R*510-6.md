@@ -1,60 +1,103 @@
 Article R*510-6
 ----
-Ne sont pas soumises à l'agrément prévu à l'article R. 510-1, pour les personnes
-physiques ou morales autres que l'Etat et ses établissements publics à caractère
-administratif, les opérations répondant à l'une des hypothèses suivantes :
+I. - Sont dispensées de l'agrément les opérations, autres que celles visées au
+1° de l'article R. 510-2, qui répondent à l'une des conditions suivantes :
 
-1° Lorsqu'elles sont réalisées dans les agglomérations nouvelles délimitées en
-application de la loi n° 83-636 du 13 juillet 1983 portant modification du
-statut des agglomérations nouvelles, ou dans les communes situées à l'intérieur
-du périmètre d'un établissement public d'aménagement de ville nouvelle et ayant
-passé convention avec l'Etat en application de l'article 10 de la même loi ;
+1. Lorsqu'elles sont situées :
 
-2° Lorsqu'elles ont trait à la construction d'ensembles de bureaux non affectés
-destinés à la vente ou à la location :
+- dans les agglomérations nouvelles délimitées en application de la loi n°
+83-636 du 13 juillet 1983 portant modification du statut des agglomérations
+nouvelles, ou dans les communes situées à l'intérieur du périmètre d'un
+établissement public d'aménagement de ville nouvelle et ayant passé convention
+avec l'Etat en application de l'article 10 de la même loi ;
 
-a) Sous réserve que la superficie développée de plancher soit inférieure à 2 000
-mètres carrés s'il s'agit d'opérations réalisées dans les communes ci-après du
-département des Hauts-de-Seine :
+- dans les cantons suivants :
 
-Bois-Colombes, Boulogne-Billancourt, Colombes, Courbevoie, Clichy, Garches, La
-Garenne-Colombes, Gennevilliers, Issy-les-Moulineaux, Malakoff,
-Marnes-la-Coquette, Nanterre, Neuilly-sur-Seine, Puteaux, Saint-Cloud, Sèvres,
-Vanves, Vaucresson et Ville-d'Avray ;.
 
-b) Quelle que soit la superficie dans les autres cas ;
+Seine-et-Marne
 
-2° bis Lorsqu'elles ont trait à la reconstruction ou à la réhabilitation de
-bureaux sans extension de surface ;
+Bray-sur-Seine.
 
-3° Lorsqu'elles portent sur des surfaces affectées à des magasins de vente, sous
-réserve des dispositions du 5° ci-après ;
+Chapelle-la-Reine (La).
 
-4° Lorsqu'elles portent sur des locaux ou installations, ainsi que leurs annexes
-de toute nature à usage industriel, technique, scientifique et notamment ceux
-affectés à la recherche au sens de l'article 520-1 du présent code et que ces
-locaux ou installations ont une superficie développée de plancher inférieure à
-3000 m2 ou que l'extension envisagée ajoutée, le cas échéant, aux opérations
-réalisées, sans qu'un agrément fût nécessaire, au cours des douze mois
-précédents, n'excède pas cette superficie.
+Château-Landon.
 
-5° Lorsqu'elles portent sur des locaux d'enseignement supérieur et des bureaux à
-usage commercial, professionnel, administratif, technique ou scientifique et
-leurs annexes de toute nature, distincts de ceux visés au 4° ci-dessus, et que
-ces locaux ont une superficie de planchers inférieure à 2000 m2 ou que
-l'extension envisagée ajoutée, le cas échéant, aux opérations réalisées, sans
-qu'un agrément fût nécessaire, au cours des douze mois précédents, n'excède pas
-cette superficie ;
+Chatelet-en-Brie (Le).
 
-6° Lorsqu'elles ont trait à des installations à usage d'entrepôt, si elles
-portent sur une superficie développée de plancher inférieur à 5000 m2 et
-qu'elles ne conduisent pas l'exploitant ou l'utilisateur à disposer à
-l'intérieur de la zone définie à l'article R. 510-1 d'une superficie de plancher
-supérieure au total à 5000 m2.
+Coulommiers.
 
-7° Lorsqu'elles portent sur l'utilisation de bureaux et de leurs annexes de
+Donnemarie-Dontilly.
+
+Ferté-Gaucher (La).
+
+Ferté-sous-Jouarre (La).
+
+Fontainebleau.
+
+Lizy-sur-Ourcq.
+
+Lorrez-le-Boccage-Préaux.
+
+Montereau-Fault-Yonne.
+
+Moret-sur-Loing.
+
+Nangis.
+
+Nemours.
+
+Provins.
+
+Rebais.
+
+Villiers-Saint-Georges.
+
+
+Yvelines
+
+Bonnières-sur-Seine.
+
+Houdan.
+
+
+Essonne
+
+Méréville.
+
+Milly-la-Forêt.
+
+Val-d'Oise
+
+Magny-en-Vexin.
+
+2. Lorsque ces opérations portent sur des locaux à usage :
+
+- de magasin de vente ;
+
+- industriel par un utilisateur déterminé.
+
+3. Lorsque ces opérations portent sur la reconstruction ou la réhabilitation de
+bureaux sans extension de surface.
+
+4. Lorsque ces opérations ajoutées à celles éventuellement réalisées sur le même
+site au cours des douze mois précédents portent sur une superficie hors oeuvre
+nette inférieure à :
+
+1 000 mètres carrés pour les locaux destinés à un usage technique, scientifique,
+industriel sans utilisateur déterminé, d'enseignement ou de bureaux ;
+
+3 000 mètres carrés pour les locaux destinés à un usage d'entrepôt.
+
+5. Lorsqu'elles portent sur l'utilisation de bureaux et de leurs annexes de
 toute nature achevés à la date du 31 décembre 1994 ou dont la déclaration
 d'ouverture de chantier prévue à l'article R. 421-40 a été déposée en mairie au
 plus tard à cette même date. La présente disposition n'est applicable qu'aux
 opérations d'utilisation pour lesquelles les actes juridiques dont l'utilisation
 dépend sont définitivement passés au plus tard le 31 décembre 1998.
+
+6. Lorsqu'elles portent sur des locaux d'internat à usage scolaire ou sur des
+résidences universitaires.
+
+II. - Les opérations visées au 1° de l'article R. 510-2 ne sont dispensées
+d'agrément que si elles portent sur une surface hors oeuvre nette inférieure à
+200 mètres carrés.
