@@ -18,4 +18,12 @@ de ses ressources à partir du premier jour du mois civil au cours duquel
 intervient la reprise d'activité [*point de départ*].
 
 Il appartient au bénéficiaire de justifier que les conditions prévues par le
-présent article sont remplies.
+présent article sont remplies. " Lorsque le bénéficiaire ou son conjoint perçoit
+l'allocation mentionnée à l'article 4 de la loi n° 88-1088 du 1er décembre 1988
+relative au revenu minimum d'insertion, il n'est pas tenu compte des revenus
+d'activité professionnelle ni des indemnités de chômage perçus par l'intéressé
+durant l'année civile de référence. Les droits sont examinés sur cette nouvelle
+base à compter du premier jour du mois civil suivant le premier mois d'ouverture
+du droit de l'allocation différentielle de revenu minimum et jusqu'au dernier
+jour du mois précédant celui au cours duquel l'allocation différentielle de
+revenu minimum cesse d'être due. "
