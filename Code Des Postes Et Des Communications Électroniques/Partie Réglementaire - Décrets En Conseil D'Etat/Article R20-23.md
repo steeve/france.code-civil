@@ -1,10 +1,14 @@
 Article R20-23
 ----
-1° Les équipements terminaux de télécommunications ou de radiocommunications
-figurant sur la liste mentionnée au 2° de l'article R. 20-22 ne peuvent être
-raccordés, mis en service et entretenus que par une entreprise inscrite sur la
-liste des installateurs admis, selon le cas, en télécommunications ou en
-radiocommunications.
+1° Les catégories d'installations radioélectriques ou d'équipements terminaux de
+télécommunications ayant fait l'objet d'une attestation de conformité, qui, en
+raison de leur complexité, peuvent interférer avec l'échange des informations de
+commande et de gestion associé au réseau, ou dont la dimension a une incidence
+sur l'écoulement du trafic, figurent sur une liste établie par l'Autorité de
+régulation des télécommunications. Les installations et équipements en cause ne
+peuvent être raccordés et mis en service que par une entreprise dont la
+qualification technique en radiocommunications ou en télécommunications a été
+reconnue et qui a été inscrite sur une liste des installateurs admis.
 
 2° La demande d'inscription peut être présentée par toute entreprise inscrite au
 registre des métiers ou au registre du commerce et des sociétés, ou sur une
@@ -14,27 +18,23 @@ européenne ou dans un autre Etat partie à l'accord instituant l'Espace
 
 La demande d'inscription comporte :
 
-- le nom et l'adresse de l'entreprise demanderesse ;
+a) Le nom et l'adresse de l'entreprise demanderesse ;
 
-- la liste des membres de son personnel disposant de diplômes ou qualifications
+b) La liste des membres de son personnel disposant de diplômes ou qualifications
 dans la spécialité choisie ;
 
-- le cas échéant, la référence des travaux déjà réalisés dans cette spécialité.
+c) Le cas échéant, la référence des travaux déjà réalisés dans cette spécialité.
 
-3° A réception du dossier complet, il est délivré une attestation d'inscription
-provisoire. Elle emporte le droit de procéder au raccordement, à la mise en
-service et à l'entretien des équipements figurant sur la liste mentionnée au 2°
-de l'article R. 20-22.
+3° L'Autorité de régulation des télécommunications statue dans un délai de deux
+mois sur l'inscription de l'entreprise demanderesse sur la liste des
+installateurs admis. Les refus d'inscription sont motivés et notifiés à
+l'entreprise concernée.
 
-4° Pendant la période d'inscription provisoire, dont la durée ne peut excéder un
-an, les travaux réalisés par l'entreprise peuvent être vérifiés par l'Autorité
-de régulation des télécommunications, de sa propre initiative ou sur demande de
-la commission d'admission des installateurs.
+A défaut de réponse dans les deux mois, l'admission est réputée acquise et
+l'entreprise inscrite sur la liste.
 
-A l'issue de cette période, la capacité de l'entreprise est appréciée au regard
-de la compétence et de l'expérience acquises dans la spécialité choisie.
-
-L'Autorité de régulation des télécommunications statue, après avis de la
-commission d'admission des installateurs, sur l'inscription définitive de
-l'entreprise demanderesse sur la liste des installateurs admis. Les refus
-d'inscription sont motivés et notifiés à l'entreprise concernée.
+4° Une personne morale de droit public ou de droit privé dont la qualification
+technique est reconnue peut, à sa demande, être autorisée par l'Autorité de
+régulation des télécommunications à raccorder et mettre en service des
+équipements terminaux et installations pour ses besoins propres. Dans ce cas,
+elle n'est pas inscrite sur la liste des installateurs admis.

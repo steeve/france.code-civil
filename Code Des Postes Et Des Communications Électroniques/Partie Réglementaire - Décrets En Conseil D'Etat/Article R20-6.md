@@ -4,15 +4,12 @@ Article R20-6
 Sont indiqués, le cas échéant, la ou les pièces manquantes ainsi que le délai
 fixé pour les produire.
 
-2° Les renseignements fournis sont vérifiés sur pièces ou, en tant que de
-besoin, sur place.
+2° Si l'ensemble des pièces du dossier visé ci-dessus ne fait pas apparaître de
+points de non-conformité à une ou plusieurs des exigences essentielles, une
+attestation d'examen de type ou d'examen CE de type est délivrée et notifiée au
+demandeur par l'organisme notifié. Dans le cas contraire, l'attestation est
+refusée par une décision motivée, notifiée au demandeur.
 
-3° Lorsque son dossier est complet, le demandeur peut être invité à présenter un
-exemplaire représentatif de l'équipement à un des laboratoires désignés aux fins
-d'essais. La demande est examinée au vu de l'ensemble des rapports d'essais.
-
-4° Si l'ensemble des pièces, visées ci-dessus, ne font pas apparaître de points
-de non-conformité à une ou plusieurs des exigences essentielles, une attestation
-d'examen ou d'examen C.E. de type est délivrée et notifiée au demandeur par
-l'Autorité de régulation des télécommunications. Dans le cas contraire,
-l'attestation est refusée par une décision motivée, notifiée au demandeur.
+Pour la délivrance d'une attestation d'examen de type, le silence gardé pendant
+deux mois par l'organisme notifié, à compter de la réception du dossier complet,
+vaut acceptation de la demande.
