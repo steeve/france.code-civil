@@ -8,7 +8,9 @@ des procédures fiscales, soit par tout autre moyen inscrivant le montant régl�
 au débit d'un compte tenu chez un établissement de crédit, une entreprise
 d'investissement ou une institution mentionnée à l'article 8 modifié de la loi
 n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des
-établissements de crédit.
+établissements de crédit. Toutefois, les dispositions du présent alinéa ne font
+pas obstacle au paiement d'un acompte, réglé par tout moyen, dans la limite de 3
+000 F.
 
 Toutefois, les particuliers non commerçants n'ayant pas leur domicile fiscal en
 France peuvent continuer d'effectuer le règlement de tout bien ou service d'un

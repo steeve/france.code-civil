@@ -14,9 +14,10 @@ agricoles accomplies à titre exclusif ou principal. Ce même décret précise l
 modalités suivant lesquelles sont déterminées les périodes d'assurance
 précédemment mentionnées.
 
-A compter du 1er janvier 2000, le minimum de retraite proportionnelle mentionné
-à l'alinéa précédent est relevé par décret. La majoration totale qui en résulte
-n'est pas cumulable avec celle prévue au II qui s'applique en priorité.
+A compter du 1er janvier 2000 puis du 1er janvier 2001, le minimum de retraite
+proportionnelle mentionné à l'alinéa précédent est relevé par décret. La
+majoration totale qui en résulte n'est pas cumulable avec la majoration totale
+prévue au II qui s'applique en priorité.
 
 II. - Les titulaires de la majoration forfaitaire des pensions de réversion
 prévue au IV de l'article L. 732-46 bénéficient, à compter du 1er janvier 1999,
@@ -30,8 +31,8 @@ non salariée agricole accomplies à titre exclusif ou principal.
 Au titre de l'année 1999, cette majoration n'est pas cumulable avec la
 majoration prévue au I qui s'applique en priorité.
 
-A compter du 1er janvier 2000, le montant minimum mentionné au deuxième alinéa
-est relevé par décret.
+A compter du 1er janvier 2000 puis du 1er janvier 2001, le montant minimum
+mentionné au deuxième alinéa est relevé par décret.
 
 III. - Les personnes dont la retraite forfaitaire a pris effet avant le 1er
 janvier 1998 bénéficient, à compter du 1er janvier 1999, d'une majoration de la
@@ -55,9 +56,12 @@ familiaux pour l'application des dispositions du présent article dès lors qu'i
 ont exercé en cette dernière qualité pendant une durée supérieure à un seuil
 fixé par décret.
 
-A compter du 1er janvier 2000, pour les personnes remplissant les conditions
-fixées au premier alinéa, le montant tel que prévu au deuxième alinéa, de cette
-majoration est relevé par décret.
+A compter du 1er janvier 2000, le montant de cette majoration, tel que prévu au
+deuxième alinéa, est relevé par décret pour les personnes remplissant à cette
+date les conditions fixées au premier alinéa. Il en est de même, à compter du
+1er janvier 2001, pour les personnes considérées comme conjoints ou chefs
+d'exploitation ou d'entreprise agricole et qui remplissent à cette seconde date
+lesdites conditions.
 
 IV. - Les personnes dont la retraite servie à titre personnel a pris effet au
 cours de l'année 1997 et qui justifient avoir acquis, en qualité de chef

@@ -13,8 +13,8 @@ l'article L. 2334-13 ;
 
 Pour les communautés d'agglomération issues d'une création avant le 1er janvier
 2005, les ressources de la dotation d'intercommunalité sont prélevées de 2000 à
-2004 sur les recettes fiscales nettes de l'Etat dans une limite maximale de 500
-millions de francs par an dans les conditions fixées par la loi de finances.
+2004 sur les recettes fiscales nettes de l'Etat dans une limite maximale de 1
+200 millions de francs par an dans les conditions fixées par la loi de finances.
 
 Pour les communautés d'agglomération, issues de la transformation avant le 1er
 janvier 2005 d'établissements publics d'une des catégories visées au deuxième

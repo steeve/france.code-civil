@@ -1,9 +1,9 @@
 Article L321-9
 ----
 Donnent lieu à une majoration de l'Etat dans les conditions fixées par décret
-les rentes constituées par les groupements mutualistes auprès, soit d'une caisse
-autonome mutualiste de retraite, soit de la caisse nationale de prévoyance, au
-profit :
+les rentes constituées soit directement par les mutuelles ou les unions de
+mutuelles régies par le livre II, soit par les mutuelles ou les unions de
+mutuelles opérant auprès de la Caisse nationale de prévoyance, au profit :
 
 1° Des anciens combattants de la guerre 1914-1918, des veuves, orphelins et
 ascendants de militaires morts pour la France au cours de cette guerre ;
@@ -52,7 +52,7 @@ combattant ou du titre de reconnaissance de la Nation.
 
 Le montant maximal donnant lieu à majoration par l'Etat de la rente qui peut
 être constituée au profit des bénéficiaires visés par les dispositions du
-présent article est calculé par référence à l'indice 105 des pensions militaires
+présent article est calculé par référence à l'indice 110 des pensions militaires
 d'invalidité et des victimes de guerre. Il est exprimé en francs au 1er janvier
 de chaque année en fonction de la valeur du point des pensions militaires
 d'invalidité à cette date.

@@ -9,7 +9,23 @@ Des dérogations peuvent être accordées par arrêté des ministres chargés de
 santé et du tourisme pour des installations qui sont situées dans des
 établissements classés hôtels ou restaurants de tourisme.
 
-Le représentant de l'Etat dans le département peut, dans des conditions fixées
-par décret, accorder des dérogations temporaires aux dispositions du premier
-alinéa pour des raisons liées à des événements de caractère sportif, agricole ou
-touristique.
+Sous réserve des décisions de justice passées en force de chose jugée, le maire
+peut, par arrêté, et dans les conditions fixées par décret, accorder des
+autorisations dérogatoires temporaires, d'une durée de quarante huit heures au
+plus, à l'interdiction de vente à consommer sur place ou à emporter et de
+distribution des boissons des deuxième et troisième groupes sur les stades, dans
+les salles d'éducation physique, les gymnases et les établissements d'activités
+physiques et sportives définies par la loi n° 84-610 du 16 juillet 1984 relative
+à l'organisation et à la promotion des activités physiques et sportives, en
+faveur :
+
+a) Des groupements sportifs agréés dans les conditions prévues par la loi n°
+84-610 du 16 juillet 1984 précitée et dans la limite des dix autorisations
+annuelles pour chacun desdits groupements qui en fait la demande ;
+
+b) Des organisateurs de manifestations à caractère agricole dans la limite de
+deux autorisations annuelles par commune ;
+
+c) Des organisateurs de manifestations à caractère touristique dans la limite de
+quatre autorisations annuelles, au bénéfice des stations classées et des
+communes touristiques.

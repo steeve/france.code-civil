@@ -27,8 +27,8 @@ s'appliquer au résultat de la cession de titres du portefeuille réalisée au
 cours d'un exercice ouvert à compter du 1er janvier 1994 à l'exclusion des parts
 ou actions de sociétés revêtant le caractère de titres de participation et des
 parts de fonds commun de placement à risques ou de société de capital risque qui
-remplissent les conditions prévues au 1° bis du II de l'article 163 quinquies B
-ou à l'article 1er modifié de la loi n° 85-695 du 11 juillet 1985 portant
+remplissent les conditions prévues au II de l'article 163 quinquies B ou aux
+articles 1er modifié ou 1er-1 de la loi n° 85-695 du 11 juillet 1985 portant
 diverses dispositions d'ordre économique et financier et qui sont détenues par
 l'entreprise depuis au moins cinq ans.
 
@@ -42,10 +42,12 @@ Pour l'application des premier et deuxième alinéas, constituent des titres de
 participation les parts ou actions de sociétés revêtant ce caractère sur le plan
 comptable. Il en va de même des actions acquises en exécution d'une offre
 publique d'achat ou d'échange par l'entreprise qui en est l'initiatrice ainsi
-que des titres ouvrant droit au régime des sociétés mères si ces actions ou
-titres sont inscrits en comptabilité au compte de titres de participation ou à
-une subdivision spéciale d'un autre compte du bilan correspondant à leur
-qualification comptable.
+que des titres ouvrant droit au régime des sociétés mères ou, lorsque leur prix
+de revient est au moins égal à 150 millions de francs, qui remplissent les
+conditions ouvrant droit à ce régime autres que la détention de 5 % au moins du
+capital de la société émettrice, si ces actions ou titres sont inscrits en
+comptabilité au compte de titres de participation ou à une subdivision spéciale
+d'un autre compte du bilan correspondant à leur qualification comptable.
 
 Les provisions pour dépréciation afférentes aux titres exclus du régime des plus
 ou moins-values en application des premier et deuxième alinéas cessent d'être
@@ -131,7 +133,28 @@ les bénéfices imposables. Cette imputation n'est possible que dans la limite d
 gains nets retirés de la cession des éléments d'actifs exclus du régime des plus
 et moins-values à long terme en application du premier alinéa ;
 
-b. (périmé).
+b. Par exception aux deuxième et quatrième alinéas, pour les redevables ayant
+réalisé un chiffre d'affaires de moins de 50 millions de francs au cours de
+l'exercice ou de la période d'imposition, ramené s'il y a lieu à douze mois, le
+taux de l'impôt applicable au bénéfice imposable est fixé, dans la limite de 250
+000 F de bénéfice imposable par période de douze mois, à 25 % pour les exercices
+ouverts en 2001 et à 15 % pour les exercices ouverts à compter du 1er janvier
+2002. Toutefois, pour les exercices ouverts en 2001, les résultats relevant du
+régime des plus values à long terme sont imposés au taux prévu au a et ne sont
+pas pris en compte pour l'appréciation de la limite de 250 000 F.
+
+Pour la société mère d'un groupe mentionné à l'article 223 A, le chiffre
+d'affaires est apprécié en faisant la somme des chiffres d'affaires de chacune
+des sociétés membres de ce groupe. Le capital des sociétés mentionnées au
+premier alinéa doit être entièrement libéré et détenu de manière continue pour
+75 % au moins par des personnes physiques ou par une société répondant aux mêmes
+conditions dont le capital est détenu, pour 75 % au moins, par des personnes
+physiques. Pour la détermination de ce pourcentage, les participations des
+sociétés de capital-risque, des fonds communs de placement à risques, des
+sociétés de développement régional et des sociétés financières d'innovation ne
+sont pas prises en compte à la condition qu'il n'existe pas de lien de
+dépendance au sens du 1 bis de l'article 39 terdecies entre la société en cause
+et ces dernières sociétés ou ces fonds.
 
 c. (abrogé).
 
@@ -146,7 +169,14 @@ hauteur de la fraction de leurs résultats comptables qu'elles incorporent à le
 capital au cours de l'exercice suivant celui de leur réalisation. Cette fraction
 doit représenter, pour chacun des trois exercices et dans la limite du résultat
 fiscal, le quart au plus du résultat comptable sans excéder la somme de 200 000
-F.
+F. L'option ne peut plus être exercée pour l'imposition des résultats des
+exercices ouverts à compter du 1er janvier 2001. Lorsque, à cette date, la série
+de trois exercices bénéficiaires est en cours, le taux d'imposition prévu par le
+dispositif ne s'applique pas aux résultats des exercices restants, sauf, sur
+option de l'entreprise, pour les exercices ouverts en 2001. Dans ce dernier cas,
+le taux de 25 % prévu au b s'applique à la fraction des résultats imposables
+comprise entre la part des résultats imposables selon les modalités prévues au
+présent alinéa et 250 000 F, lorsque les conditions prévues au b sont réunis.
 
 Les dispositions du premier alinéa s'appliquent si les conditions suivantes sont
 remplies :
@@ -199,7 +229,10 @@ Cette réserve doit être incorporée au capital au plus tard au cours de
 l'exercice suivant le troisième exercice ayant bénéficié des dispositions du
 premier alinéa du présent f. En cas de prélèvement sur cette réserve ou
 d'absence d'incorporation au capital dans ce délai, les dispositions du
-quatrième alinéa du présent f sont applicables.
+quatrième alinéa du présent f sont applicables. Lorsque les incorporations de
+capital afférentes à l'imposition de résultats d'exercices ouverts avant le 1er
+janvier 2001 ont été différées, elles doivent être effectuées au plus tard à la
+clôture du second exercice ouvert à compter de cette date.
 
 Les conditions d'application du f ainsi que les obligations déclaratives qui en
 découlent sont fixées par décret.

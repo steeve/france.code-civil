@@ -17,6 +17,11 @@ les conditions dans lesquelles des années d'activité accomplies en qualité
 d'aide familial majeur pourront être assimilées à des années de chef
 d'exploitation pour déterminer ladite majoration.
 
+A compter du 1er janvier 2001, le minimum prévu à l'alinéa précédent pour les
+personnes non susceptibles de bénéficier de la revalorisation de la majoration
+des pensions de réversion prévue au II de l'article L. 732-33 est relevé par
+décret.
+
 II. - Les chefs d'exploitation ou d'entreprise agricole, dont la pension de
 retraite a pris effet avant le 1er janvier 1997 et qui justifient de périodes
 minimum d'activité non salariée agricole et d'assurance en tant que chef
@@ -45,10 +50,3 @@ compte des durées justifiées par l'intéressé au titre du présent alinéa.
 La majoration de la pension de retraite forfaitaire prévue au présent III n'est
 pas cumulable avec la majoration de la pension de retraite proportionnelle
 prévue aux I et II dont les dispositions sont appliquées en priorité.
-
-Toutefois, dans les cas où l'application de la majoration de la pension de
-retraite forfaitaire s'avère plus favorable à l'intéressé, il bénéficie des
-dispositions du premier alinéa du présent III dans des conditions et limites qui
-sont fixées par décret, en fonction de sa pension de retraite proportionnelle et
-de ses périodes d'assurance en qualité de chef d'exploitation ou d'entreprise
-agricole visées aux I ou II.

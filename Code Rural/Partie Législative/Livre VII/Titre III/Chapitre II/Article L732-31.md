@@ -38,12 +38,13 @@ L. 732-35 ou du II du même article.
 Pour l'application des dispositions du troisième alinéa, les personnes qui
 avaient au 31 décembre 1998 la qualité de conjoint définie à l'article L. 732-34
 ne sont considérées comme conjoint collaborateur que si elles ont opté avant le
-1er juillet 2000 pour le statut mentionné à l'article L. 321-5 et ont conservé
+1er janvier 2001 pour le statut mentionné à l'article L. 321-5 et ont conservé
 ce statut de manière durable. Un décret fixe les modalités selon lesquelles est
 apprécié le caractère durable susmentionné.
 
-A compter du 1er janvier 2000, le niveau différencié prévu au troisième alinéa
-est relevé par décret.
+A compter du 1er janvier 2000 puis, en ce qui concerne les périodes accomplies
+comme conjoint, du 1er janvier 2001, le niveau différencié prévu au troisième
+alinéa est relevé par décret.
 
 En cas d'obtention d'une pension de réversion mentionnée au premier alinéa
 postérieurement à l'attribution de points de retraite proportionnelle gratuits,

@@ -16,14 +16,6 @@ ainsi que de la durée d'assurance et qui est revalorisée chaque année suivant
 les coefficients fixés en application de l'article L. 351-11 du code de la
 sécurité sociale.
 
-Le montant total des pensions de retraite proportionnelles servies à des
-coexploitants ne peut excéder celui de la pension qui serait servie à un
-agriculteur dirigeant seul la même exploitation. Toutefois, lorsqu'il existe une
-coexploitation entre époux ou une exploitation agricole à responsabilité
-limitée, le montant des pensions de retraite proportionnelles servies aux époux
-coexploitants ou aux associés exploitants peut être majoré dans des conditions
-fixées par décret.
-
 La pension de retraite proportionnelle des chefs d'exploitation ou d'entreprise
 agricole justifiant de conditions minimales de durée d'activité agricole non
 salariée et d'assurance en tant que chef d'exploitation ou d'entreprise agricole

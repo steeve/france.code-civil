@@ -1,7 +1,10 @@
 Article L135-5
 ----
-Le premier président peut donner connaissance aux commissions des finances et
-aux commissions d'enquête du Parlement des constatations et observations de la
-Cour des comptes. Toutefois, les communications de la Cour aux ministres,
-auxquelles il n'a pas été répondu sur le fond dans un délai de six mois, sont
-communiquées de droit aux commissions des finances du Parlement.
+Les communications de la Cour des comptes aux ministres, autres que celles
+visées aux articles L. 135-2 et L. 135-3, et les réponses qui leur sont
+apportées sont transmises aux commissions des finances de chacune des assemblées
+parlementaires à l'expiration d'un délai de réponse de trois mois. Elles sont
+également communiquées, à leur demande, aux commissions d'enquête de chacune des
+assemblées parlementaires. En outre, le premier président peut communiquer à ces
+mêmes destinataires les autres constatations et observations de la Cour des
+comptes, ainsi que les réponses qui leur ont été apportées.

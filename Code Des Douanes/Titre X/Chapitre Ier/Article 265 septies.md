@@ -12,15 +12,18 @@ supérieur à 7,5 tonnes,
 peuvent obtenir, sur demande de leur part, le remboursement d'une fraction de la
 taxe intérieure de consommation sur le gazole.
 
-Ce remboursement est égal à la différence entre la taxe intérieure de
-consommation sur le gazole exigible au cours de l'année et celle calculée sur la
-base d'un taux spécifique qui est fixé, pour la période du 11 janvier 1999 au 10
-janvier 2000, à 244,64 F par hectolitre. Pour les périodes ultérieures, ce taux
-spécifique est relevé, le 11 janvier de chaque année, du produit du dernier taux
-de la taxe intérieure de consommation appliqué au supercarburant sans plomb au
-cours de la période précédente par le taux prévisionnel d'évolution des prix à
-la consommation des ménages de l'année précédente associé au projet de loi de
-finances de l'année du remboursement.
+Ce remboursement est égal à la différence entre le taux de la taxe intérieure de
+consommation sur les produits pétroliers visé au tableau B annexé au 1 de
+l'article 265 applicable au gazole identifié à l'indice 22 et un taux spécifique
+qui est fixé, pour la période du 11 janvier 1999 au 10 janvier 2000, à 244,64 F
+par hectolitre. Ce taux spécifique est fixé à 230,18 F par hectolitre pour la
+période du 21 janvier 2001 au 20 janvier 2002 et à 241,18 F par hectolitre pour
+la période du 21 janvier 2002 au 20 janvier 2003. A compter du 21 janvier 2001,
+pour chaque semestre, le taux spécifique est affecté, le cas échéant, de la
+différence, si elle est positive, entre le tarif applicable en vertu du d du 2
+du tableau B du 1 de l'article 265 à la date du 1er octobre 2000 et la moyenne
+des taux applicables en vertu du même d pour chacun des bimestres dudit
+semestre.
 
 Le remboursement est plafonné à 25 000 litres de gazole par semestre et par
 véhicule. Il est accordé aux entreprises établies dans la Communauté européenne

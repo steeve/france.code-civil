@@ -1,8 +1,8 @@
 Article L621-1-1
 ----
 Dans les conditions définies à la présente section, un office est créé par
-décret en Conseil d'Etat dans le secteur des produits de la mer et de
-l'aquaculture.
+décret en Conseil d'Etat dans le secteur des produits de la mer, de
+l'aquaculture et de la pêche professionnelle en eau douce.
 
 Ce décret définit la composition du conseil de direction de l'office et prévoit
 une représentation équilibrée de l'amont et de l'aval de la filière.
