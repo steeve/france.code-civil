@@ -36,7 +36,9 @@ Vingt-deux années pour l'assuré né en 1950 ;
 
 Vingt-trois années pour l'assuré né en 1951 ;
 
-Vingt-quatre années pour l'assuré né en 1952.
+Vingt-quatre années pour l'assuré né en 1952 ;
+
+Vingt-cinq années pour l'assuré né après 1952.
 
 III. - Par dérogation aux dispositions du I ci-dessus, les nombres d'années
 mentionnés au deuxième alinéa de l'article R. 634-1 demeurent fixés l'un et

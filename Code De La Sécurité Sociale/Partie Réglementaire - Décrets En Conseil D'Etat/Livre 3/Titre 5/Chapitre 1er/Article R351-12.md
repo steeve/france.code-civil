@@ -70,7 +70,8 @@ même code ;
 
 g. Des périodes pendant lesquelles l'assuré a bénéficié du revenu de
 remplacement prévu à l'article R. 322-7-2 du code du travail en application de
-la convention prévue au VI de cet article ;
+la convention prévue au VI de cet article ou de la rémunération prévue au
+quatrième alinéa de l'article L. 321-4-3 du même code ;
 
 h. Des périodes pendant lesquelles l'assuré a bénéficié de l'allocation de
 congé-solidarité dans les conditions prévues par l'article 15 de la loi n°
@@ -79,7 +80,7 @@ congé-solidarité dans les conditions prévues par l'article 15 de la loi n°
 5°) pour les bénéficiaires de la législation sur les accidents du travail, les
 dispositions des 1° ou 3° ci-dessus sont applicables selon que l'assuré a perçu
 des indemnités journalières au titre de l'incapacité temporaire ou une rente
-pour une incapacité permanente au moins égale à 66 p. 100 ;
+pour une incapacité permanente au moins égale à 66 % ;
 
 6°) les périodes pendant lesquelles l'assuré a été présent sous les drapeaux
 pour son service militaire légal, par suite de mobilisation ou comme volontaire

@@ -1,10 +1,12 @@
 Article R351-29
 ----
-Pour l'application de l'article L. 351-1, et sous réserve des dispositions de
-l'article R. 351-29-1, le salaire servant de base au calcul de la pension est le
-salaire annuel moyen correspondant aux cotisations versées au cours des
-vingt-cinq années civiles d'assurance accomplies postérieurement au 31 décembre
-1947 dont la prise en considération est la plus avantageuse pour l'assuré.
+Pour l'application de l'article L. 351-1, et sous réserve des dispositions des
+articles R. 173-4-3 et R. 351-29-1 le salaire servant de base au calcul de la
+pension est le salaire annuel moyen correspondant aux cotisations permettant la
+validation d'au moins un trimestre d'assurance selon les règles définies par
+l'article R. 351-9 et versées au cours des vingt-cinq années civiles d'assurance
+accomplies postérieurement au 31 décembre 1947 dont la prise en considération
+est la plus avantageuse pour l'assuré.
 
 Les salaires exonérés de cotisations entre le 1er avril et le 31 décembre 1987
 en application de l'article L. 241-10 entrent en compte, s'il y a lieu, dans la
