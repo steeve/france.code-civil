@@ -4,7 +4,7 @@ Dans les établissements de commerce de détail où le repos hebdomadaire a lieu
 normalement le dimanche, ce repos peut être supprimé les dimanches désignés,
 pour chaque commerce de détail, par un arrêté du maire (ou du préfet, s'il
 s'agit de Paris) pris après avis des organisations d'employeurs et de
-travailleurs intéressées. Le nombre de ces dimanches ne peut excéder trois par
+travailleurs intéressées. Le nombre de ces dimanches ne peut excéder cinq par
 an.
 
 Chaque salarié ainsi privé du repos du dimanche doit bénéficier d'un repos

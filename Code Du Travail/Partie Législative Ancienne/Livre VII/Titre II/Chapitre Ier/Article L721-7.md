@@ -4,19 +4,6 @@ Tout donneur d'ouvrage doit adresser à l'inspecteur du travail et de la
 main-d'oeuvre une déclaration au moment où il commence ou cesse de faire
 effectuer du travail à domicile.
 
-Le donneur d'ouvrage doit tenir [*obligation*] un registre d'ordre indiquant :
-
-1° Le nom et l'adresse de l'établissement ou les nom, prénoms et adresse du
-donneur d'ouvrage, ainsi que le numéro d'inscription au registre du commerce ou
-au registre des métiers ;
-
-2° Les nom, prénom, adresse, numéro d'immatriculation à la sécurité sociale,
-nationalité des travailleurs à domicile qu'il occupe et, le cas échéant, des
-personnes mentionnées à l'article L. 721-1 (2°) qui travaillent avec eux ;
-
-3° Si le donneur d'ouvrage a recours à un ou plusieurs intermédiaires, leurs
-nom, prénoms et adresse, ainsi que la nature des tâches qui leur sont confiées.
-
 Lors de la remise à un travailleur de travaux à exécuter à domicile il est
 établi, en deux exemplaires au moins, un bulletin ou carnet sur lequel doivent
 figurer les indications suivantes :

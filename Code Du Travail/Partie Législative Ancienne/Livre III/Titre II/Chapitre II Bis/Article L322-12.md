@@ -8,15 +8,20 @@ et des allocations familiales, à compter de la date d'effet du contrat.
 L'abattement prévu à l'alinéa précédent est également applicable en cas de
 transformation de contrats à durée indéterminée à temps plein en contrats à
 durée indéterminée à temps partiel. La transformation doit s'accompagner d'une
-ou plusieurs embauches sous contrat à durée indéterminée permettant de maintenir
-le volume des heures de travail prévu aux contrats transformés, sauf si elle est
-décidée en application d'un plan social élaboré en vertu de l'article L.
-321-4-1.
+ou de plusieurs embauches sous contrat à durée indéterminée permettant de
+maintenir le volume des heures de travail prévu aux contrats transformés, sauf
+si elle constitue une alternative à un licenciement collectif pour motif
+économique effectué dans le cadre de la procédure de l'article L. 321-2.
 
 Pour ouvrir le bénéfice de cet abattement, le contrat doit prévoir une durée
 hebdomadaire de travail, qui peut être calculée, le cas échéant, sur le mois,
-comprise entre dix-neuf heures, heures complémentaires non comprises, et trente
-heures, heures complémentaires comprises.
+comprise entre seize heures, heures supplémentaires ou heures complémentaires
+non comprises, et trente-deux heures, heures supplémentaires ou heures
+complémentaires comprises.
+
+Le bénéfice de l'abattement peut également être accordé aux contrats de travail
+à temps partiel qui prévoient une durée du travail comprise entre les limites
+prévues à l'alinéa précédent calculées sur une base annuelle.
 
 Le contrat ne peut prévoir plus d'une interruption d'activité au cours de la
 même journée, sauf dérogation prévue par une convention collective ou un accord

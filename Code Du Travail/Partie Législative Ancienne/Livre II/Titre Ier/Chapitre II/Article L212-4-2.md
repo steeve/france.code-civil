@@ -13,9 +13,16 @@ travail mensuelle est inférieure d'au moins un cinquième à celle qui résulte
 l'application, sur cette même période, de la durée légale du travail ou de la
 durée du travail fixée conventionnellement pour la branche ou l'entreprise.
 
+Sont également considérés comme salariés à temps partiel les salariés occupés
+selon une alternance de périodes travaillées et non travaillées dont la durée de
+travail annuelle est inférieure d'au moins un cinquième à celle qui résulte de
+l'application sur cette même période de la durée légale du travail ou de la
+durée du travail fixée conventionnellement pour la branche ou l'entreprise
+diminuée des heures correspondant aux jours de congés légaux ou conventionnels.
+
 Pour la détermination de la limite supérieure applicable aux horaires à temps
 partiel, la durée du travail à retenir est arrondie au nombre entier d'heures
-immédiatement supérieur à celui qui résulte de l'application des deux alinéas
+immédiatement supérieur à celui qui résulte de l'application des trois alinéas
 précédents.
 
 Les horaires de travail à temps partiel peuvent être pratiqués après avis du
@@ -45,7 +52,8 @@ l'entreprise.
 
 Pour la détermination des droits liés à l'ancienneté, la durée de celle-ci est
 décomptée pour les salariés employés à temps partiel comme s'ils avaient été
-occupés à temps complet.
+occupés à temps complet, les périodes non travaillées étant prises en compte en
+totalité.
 
 L'indemnité de licenciement et l'indemnité de départ à la retraite des salariés
 ayant été occupés à temps complet et à temps partiel dans la même entreprise

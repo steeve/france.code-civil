@@ -30,10 +30,13 @@ données occasionnellement, participation à des jurys de concours publics ou à
 des instances consultatives ou délibératives réunies en vertu d'un texte
 législatif ou réglementaire ;
 
-4°) activités exercées par des personnes bénéficiant de l'article L. 634-6-1.
+4°) activités exercées par des personnes bénéficiant de l'article L. 634-6-1 ;
+
+5°) activités d'hébergement en milieu rural réalisées avec des biens
+patrimoniaux.
 
 Les dispositions du premier alinéa ne sont pas opposables à l'assuré qui demande
 le bénéfice d'une pension au titre des articles L. 351-15, L. 634-3-1, L.
 643-8-1 du présent code ou 1121-2 du code rural .
 
-Les dispositions du présent article sont applicables jusqu'au 31 décembre 1993.
+Les dispositions du présent article sont applicables jusqu'au 31 décembre 1998.

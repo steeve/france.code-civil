@@ -24,7 +24,7 @@ lieu à la préparation de diplômes des enseignements supérieurs et techniques
 agricoles.
 
 En outre, conformément aux dispositions de l'article L. 961-10 ci-dessus, l'Etat
-peut participer au financement de fonds d'assurance de formation créés par les
+peut participer au financement de fonds d'assurance formation créés par les
 professionnels de ce secteur.
 
 Les centres de formation professionnelle et de promotion agricoles publics et
@@ -33,7 +33,9 @@ départements ministériels intéressés, à la formation des pluriactifs néces
 au maintien des exploitations agricoles, à l'équilibre économique et à
 l'animation du milieu rural. Les centres ci-dessus mentionnés apportent à leurs
 programmes de formation, lorsqu'ils s'adressent à des personnes appelées à
-travailler en zone de montagne, les adaptations nécessaires pour tenir compte
-des situations et des besoins particuliers de cette zone liés à l'exercice de la
-pluriactivité, des différentes activités saisonnières et des métiers spécifiques
-de la montagne.
+travailler en zone de montagne, dans les zones éligibles aux programmes
+d'aménagement concerté des territoires ruraux des contrats de plan ou dans les
+départements d'outre-mer, les adaptations nécessaires pour tenir compte des
+situations et des besoins particuliers de ces zones liées à l'exercice de la
+pluriactivité des différentes activités saisonnières et des métiers spécifiques
+aux territoires concernés.

@@ -15,17 +15,22 @@ Lorsqu'un groupement d'employeurs se constitue, l'inspection du travail en est
 informée. La liste des membres du groupement est tenue en permanence à la
 disposition de l'inspecteur du travail au siège du groupement.
 
-Une personne physique ou morale ne peut être membre que d'un seul groupement
+Une personne physique ou morale ne peut être membre que de deux groupements
 [*non cumul*]. Toutefois, une personne physique possédant plusieurs entreprises
 juridiquement distinctes enregistrées soit au registre du commerce, soit au
 registre des métiers, soit au registre de l'agriculture, peut, au titre de
 chacune de ses entreprises, appartenir à un groupement différent.
 
-Les employeurs occupant plus de cent salariés [*effectif*], ce seuil étant
-calculé conformément aux dispositions de l'article L. 421-2, ne peuvent adhérer
-à un groupement ni en devenir membre [*incompatibilité*].
+Les employeurs occupant plus de trois cents salariés [*effectif*], ce seuil
+étant calculé conformément aux dispositions de l'article L. 421-2, ne peuvent
+adhérer à un groupement ni en devenir membre [*incompatibilité*].
+
+Les employeurs qui adhèrent à un groupement d'employeurs sont tenus d'informer
+les institutions représentatives du personnel existant dans leur entreprise de
+la constitution et de la nature du groupement d'employeurs.
 
 L'activité du groupement s'exerce sous réserve des dispositions législatives
-relatives à l'exercice illégal de certaines professions. Les membres du
-groupement sont solidairement responsables de ses dettes à l'égard des salariés
-et des organismes créanciers de cotisations obligatoires.
+relatives à l'exercice illégal de certaines professions.
+
+Les membres du groupement sont solidairement responsables de ses dettes à
+l'égard des salariés et des organismes créanciers de cotisations obligatoires.

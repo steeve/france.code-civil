@@ -6,12 +6,14 @@ et L. 212-4-2 [*définition*].
 
 Un décret en Conseil d'Etat fixe, en fonction de chaque catégorie de
 bénéficiaires, la durée maximale de travail hebdomadaire ainsi que les durées
-minimale et maximale du contrat.
+minimale et maximale du contrat. Il fixe, en outre, les conditions d'accueil, de
+suivi et de formation des bénéficiaires d'un contrat emploi-solidarité.
 
-Par dérogation à l'article L. 122-2, les contrats emploi-solidarité peuvent,
-dans la limite de leur durée maximale, être renouvelés deux fois. Toutefois, le
-nombre de renouvellements peut être porté à trois pour certaines catégories de
-bénéficiaires définies par le décret mentionné à l'alinéa précédent.
+Par dérogation à l'article L. 122-2, les contrats emploi-solidarité peuvent être
+renouvelés. Les conditions de ce renouvellement ainsi que les bénéficiaires sont
+définis par le décret mentionné à l'alinéa précédent lorsqu'il n'a pas été
+conclu de conventions telles que définies à l'article L. 322-4-8-1 prévoyant
+leur embauche.
 
 Par dérogation à l'article L. 122-3-2, et sous réserve de clauses contractuelles
 ou conventionnelles relatives aux bénéficiaires de contrats emploi-solidarité

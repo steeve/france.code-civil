@@ -29,7 +29,10 @@ est organisé de façon continue :
 a) Pour des raisons techniques,
 
 b) Pour des raisons économiques à condition qu'une convention ou un accord
-collectif étendu ait prévu une telle organisation.
+collectif étendu ou une convention ou un accord d'entreprise ait prévu une telle
+organisation. A défaut de convention ou d'accord collectif étendu ou de
+convention ou d'accord d'entreprise, un décret en Conseil d'Etat peut prévoir
+les conditions dans lesquelles cette dérogation peut être accordée.
 
 En cas de circonstances exceptionnelles, notamment de travaux dont l'exécution
 ne peut être différée, le repos hebdomadaire peut être suspendu pour une durée
