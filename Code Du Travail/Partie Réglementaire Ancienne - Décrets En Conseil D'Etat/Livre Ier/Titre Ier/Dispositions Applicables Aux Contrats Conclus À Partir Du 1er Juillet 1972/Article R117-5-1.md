@@ -16,12 +16,11 @@ l'entreprise d'accueil de se garantir en matière de responsabilité civile.
 
 Dès sa conclusion, la convention est adressée par l'employeur au directeur du
 centre de formation d'apprentis, qui la transmet au service chargé de
-l'enregistrement du contrat ainsi qu'au service académique de l'inspection de
-l'apprentissage ou au directeur régional de l'agriculture et de la forêt ; elle
-peut recevoir application dès reception par l'employeur de l'accord de
-l'inspecteur de l'apprentissage, ou, à défaut, d'opposition de celui-ci, après
-l'expiration d'un délai d'un mois à compter de sa transmission au directeur du
-centre de formation d'apprentis [*délai, date*].
+l'enregistrement du contrat ainsi qu'au recteur ou au directeur régional de
+l'agriculture et de la forêt ; elle peut recevoir application dès reception par
+l'employeur de l'accord de l'inspecteur de l'apprentissage, ou, à défaut,
+d'opposition de celui-ci, après l'expiration d'un délai d'un mois à compter de
+sa transmission au directeur du centre de formation d'apprentis [*délai, date*].
 
 Pendant l'exécution de la convention, l'apprenti continue de suivre les
 enseignements dispensés par le centre de formation auquel il est inscrit, et
@@ -35,8 +34,8 @@ d'accueil nécessite une surveillance médicale spéciale au sens de la
 réglementation relative à la médecine du travail, les obligations
 correspondantes sont à la charge de cette entreprise.
 
-L'agrément de l'employeur peut être retiré dans les formes prévues à l'article
-L. 117-5 du présent code, s'il s'avère que les conditions dans lesquelles une
-partie de la formation est dispensée dans une ou plusieurs autres entreprises ne
-permettent pas le bon déroulement du contrat d'apprentissage [*retrait,
-sanction*].
+L'engagement d'apprentis par une entreprise peut faire l'objet d'une décision
+d'opposition dans les formes prévues à l'article L. 117-5 du présent code, s'il
+s'avère que les conditions dans lesquelles une partie de la formation est
+dispensée dans une ou plusieurs autres entreprises ne permettent pas le bon
+déroulement du contrat d'apprentissage [*retrait, sanction*].
