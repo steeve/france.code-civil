@@ -5,7 +5,7 @@ fonctions depuis moins de trois ans les préfets de région et les préfets, dep
 moins d'un an les sous-préfets, les secrétaires généraux de préfecture, les
 directeurs de cabinet de préfet, les sous-préfets chargés de mission auprès d'un
 préfet et les secrétaires généraux ou chargés de mission pour les affaires
-régionales.
+régionales ou pour les affaires de Corse.
 
 Ne peuvent être élus conseillers municipaux dans les communes situées dans le
 ressort où ils exercent ou ont exercé leurs fonctions depuis moins de six mois :
@@ -30,7 +30,11 @@ chef de sous-préfecture ;
 
 8° Les membres du cabinet du président du conseil général et du président du
 conseil régional, les directeurs généraux, les directeurs, directeurs adjoints,
-chefs de service et chefs de bureau de conseil général et de conseil régional ;
+chefs de service et chefs de bureau de conseil général et de conseil régional,
+les membres du cabinet du président de l'Assemblée et les membres du cabinet du
+président du conseil exécutif de Corse, les directeurs généraux, les directeurs,
+directeurs adjoints, chefs de service et chefs de bureau de la collectivité
+territoriale de Corse et de ses établissements publics ;
 
 9° En tant que chargés d'une circonscription territoriale de voirie : les
 ingénieurs en chef, ingénieurs divisionnaires et ingénieurs des travaux publics

@@ -1,27 +1,19 @@
 Article L144-3
 ----
-Ainsi qu'il est dit à l'article 11 de la loi n° 82-659 du 30 juillet 1982
-portant statut particulier de la région de Corse :
-
-compétences, le schéma d'aménagement de la Corse est élaboré par la région de
-Corse, ou sous son contrôle, par un établissement public régional ayant
-compétence en matière d'urbanisme, selon une procédure déterminée par décret en
-Conseil d'Etat.
+Le schéma d'aménagement de la Corse est élaboré par le conseil exécutif et
+adopté par l'Assemblée de Corse.
 
 Des représentants des départements et des communes et le représentant de l'Etat
-dans la région sont associés à cette élaboration. Les chambres d'agriculture,
-les chambres de commerce et d'industrie et les chambres de métiers le sont
-également, à leur demande. Elles assurent les liaisons avec les organisations
-professionnelles intéressées.
+dans la collectivité territoriale de Corse sont associés à son élaboration. Les
+chambres d'agriculture, les chambres de commerce et d'industrie et les chambres
+de métiers sont également associées à son élaboration. Elles assurent les
+liaisons avec les organisations professionnelles intéressées.
 
-Avant son adoption par l'assemblée, le projet de schéma d'aménagement de la
-Corse, assorti des avis des conseils consultatifs régionaux, est mis à la
-disposition du public pendant deux mois.
+Le schéma d'aménagement est soumis pour avis au conseil des sites de la Corse
+prévu à l'article L. 144-6.
+
+Avant son adoption par l'Assemblée, le projet de schéma d'aménagement de la
+Corse, assorti de l'avis du conseil économique, social et culturel de Corse, est
+mis à la disposition du public pendant deux mois.
 
 Le schéma d'aménagement de la Corse est approuvé par décret en Conseil d'Etat.
-
-A défaut d'adoption, selon la procédure définie ci-dessus, dans un délai de
-vingt-quatre mois à compter de la promulgation de la loi n° 86-1290 du 23
-décembre 1986 tendant à favoriser l'investissement locatif, l'accession à la
-propriété de logements sociaux et le développement de l'offre foncière, le
-schéma est élaboré et arrêté par l'Etat.

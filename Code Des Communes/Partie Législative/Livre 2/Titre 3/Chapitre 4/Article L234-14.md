@@ -15,7 +15,10 @@ population est au moins égale à la moitié de celle de la ville principale ;
 représente au moins 10 p. 100 de la population du département ;
 
 4° Les communes chefs-lieux de département. Dans la région d'Ile-de-France,
-seules ces communes bénéficient de la dotation particulière.
+seules ces communes bénéficient de la dotation particulière ; il en est de même
+pour les communes qui, faisant partie d'une communauté urbaine, d'un district ou
+d'un syndicat d'agglomération nouvelle de plus de 150 000 habitants,
+représentent au moins 25 p. 100 de la population de ce groupement de communes.
 
 Le montant des sommes à répartir chaque année, en application du présent
 article, est fixé chaque année par le comité des finances locales.
