@@ -1,9 +1,10 @@
 Article R162-42
 ----
-L'accord ou à défaut la décision du directeur de l'agence régionale de
+L'accord ou, à défaut, la décision du directeur de l'agence régionale de
 l'hospitalisation mentionné à l'article L. 162-22-4, ainsi que les actes pris en
-application de cet accord ou de cette décision, sont tenus de respecter le taux
-d'évolution moyen régional des tarifs des prestations.
+application de cet accord ou de cette décision sont tenus de respecter les taux
+d'évolution moyens régionaux des tarifs des prestations et des montants
+afférents aux forfaits annuels.
 
 La somme des taux d'évolution tarifaire moyens des établissements de la région,
 pondérés de la part des versements de l'assurance maladie à l'établissement
@@ -17,3 +18,9 @@ des prestations de l'établissement considéré, pondérés par la part des
 versements de l'assurance maladie à l'établissement pour cette prestation dans
 le total des versements de l'assurance maladie à cet établissement au cours du
 dernier exercice connu.
+
+La somme des taux d'évolution des montants des forfaits annuels des
+établissements de la région, pondérés par le rapport de la valeur du forfait de
+l'établissement dans le total des forfaits annuels des établissements de la
+région ne doit pas excéder le taux d'évolution moyen des montants des forfaits
+annuels de la région.

@@ -15,23 +15,27 @@ est signé ;
 prestations mentionnés à l'article L. 165-1 au cours de l'année civile
 considérée ;
 
-3° De l'application des mesures tarifaires arrêtées dans le cadre de l'accord
-annuel précédent ou à défaut de l'arrêté interministériel mentionné au I de
-l'article L. 162-22-3 ;
+3° De l'application des mesures tarifaires et des montants afférents aux
+forfaits annuels arrêtés dans le cadre de l'accord annuel précédent ou, à
+défaut, de l'arrêté interministériel mentionné au I de l'article L. 162-22-3 ;
 
 4° Le cas échéant, de l'application des mesures tarifaires prises pour certaines
-activités médicales en vertu du 1° du I de l'article L. 162-22-3.
+activités médicales en vertu du 1° du I de l'article L. 162-22-3, de la création
+de prestations d'hospitalisation nouvelles et de forfaits annuels mentionnés
+respectivement aux 2° et 3° du I du même article, et de l'évolution des forfaits
+annuels.
 
 Il est également tenu compte de ce que le taux d'évolution moyen national des
 tarifs des prestations s'applique seulement à une partie de l'année civile
 couverte par ce dernier.
 
-II. - En vue de réduire les inégalités entre les régions, le taux d'évolution
-moyen des tarifs des prestations de chaque région est modulé par rapport au taux
-d'évolution moyen national des tarifs des prestations en tenant compte de
-l'activité des établissements de la région et des besoins de santé de la
-population. L'activité des établissements est appréciée à partir des
-informations mentionnées aux articles L. 710-6 et L. 710-7 du code de la santé
+II. - En vue de réduire les inégalités entre les régions, les taux d'évolution
+moyens des tarifs des prestations et des montants afférents aux forfaits annuels
+de chaque région sont modulés par rapport aux taux d'évolution moyens nationaux
+des tarifs des prestations et des montants afférents aux forfaits annuels, en
+tenant compte de l'activité des établissements de la région et des besoins de
+santé de la population. L'activité des établissements est appréciée à partir des
+informations mentionnées aux articles L. 6113-7 et L. 6113-8 du code de la santé
 publique.
 
 Pour les disciplines pour lesquelles les données mentionnées à l'article L.
