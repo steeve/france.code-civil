@@ -8,7 +8,7 @@ francs le plus voisin.
 
 Elle est répartie en deux fractions semestrielles d'égal montant, exigibles des
 assurés et payables par eux aux mêmes dates et conditions que celles mentionnées
-aux articles D. 633-7, D. 633-8 et D. 633-12.
+aux articles D. 633-7, D. 633-7-1, D. 633-8 et D. 633-12.
 
 En cas de versement d'une somme inférieure à celle représentée par le total des
 cotisations dues au titre des régimes d'assurance vieillesse et du régime
