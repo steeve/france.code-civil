@@ -18,7 +18,8 @@ A ;
 d'autres entreprises, les premières formations technologiques et
 professionnelles, et notamment l'apprentissage, ainsi que la nature, avec les
 justifications appropriées, des charges supportées à ce titre, telles qu'elles
-sont définies à l'article 5 du décret n° 72-283 du 12 avril 1972 (1) ;
+sont définies à l'article 5 du décret n° 72-283 du 12 avril 1972 ((modifié)) (M)
+(1) ;
 
 6° La nature et le montant des autres dépenses énumérées au même article avec le
 nom et l'adresse des bénéficiaires ;
@@ -31,5 +32,7 @@ prévision de l'article 5 précité.
 
 La demande est accompagnée des reçus délivrés par l'organisme bénéficiaire des
 versements.
+
+(M) Modification du décret 96-1052.
 
 (1) Décret modifié par le décret n° 74-32 du 15 janvier 1974 (J.O. du 18).
