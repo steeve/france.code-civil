@@ -1,11 +1,10 @@
 Article 363 A
 ----
-Il est institué jusqu'au 31 décembre 1985 [*date limite*] au profit du comité de
-développement des industries françaises de l'ameublement [*organisme
-bénéficiaire*] une taxe parafiscale sur les ventes, y compris à l'exportation,
-de meubles et de sièges réalisées par les fabricants relevant de la classe 49, à
-l'exclusion du groupe 49-04, de la nomenclature détaillée des produits,
-approuvée par le décret n° 83-31 du 5 septembre 1983.
-
-Son taux est fixé par arrêté dans la limite de 0,45 % du montant hors taxe des
-ventes.
+En vue d'encourager la promotion des industries de l'ameublement, et notamment
+la recherche, l'innovation et la rénovation des structures industrielles, est
+autorisée, dans la limite d'un taux de 0,35 % [*pourcentage*] et jusqu'au 31
+décembre 1990 [*date limite*], la perception au profit du comité de
+développement des industries françaises de l'ameublement d'une taxe parafiscale
+assise, liquidée et recouvrée suivant les mêmes règles, sous les mêmes garanties
+et sanctions que la taxe sur la valeur ajoutée [*TVA*] sous réserve des articles
+363 B et 363 B bis.
