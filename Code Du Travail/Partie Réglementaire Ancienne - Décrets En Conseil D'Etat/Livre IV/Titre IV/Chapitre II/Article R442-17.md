@@ -34,7 +34,6 @@ construire ou d'une déclaration préalable de travaux ;
 
 i) Situation de surendettement du salarié définie à l'article L. 331-2 du code
 de la consommation, sur demande adressée à l'organisme gestionnaire des fonds ou
-à l'employeur par le président de la commission d'examen des situations de
-surendettement ou le juge lorsqu'il estime que le déblocage des droits favorise
-la conclusion ou est nécessaire à la bonne exécution d'un plan amiable de
-règlement ou de redressement judiciaire civil.
+à l'employeur soit par le président de la commission de surendettement des
+particuliers, soit par le juge lorsque le déblocage des droits paraît nécessaire
+à l'apurement du passif de l'intéressé.
