@@ -1,10 +1,19 @@
 Article R441-13
 ----
-Le nombre de logements réservés en contrepartie de l'aide financière prévue à
-l'article R. 441-12 ne peut excéder selon qu'il s'agit d'habitations à loyer
-modéré ou d'immeubles à loyer normal et d'immeubles à loyer moyen, une
-proportion égale à 40 p. 100 des logements du programme considéré dans le
-premier cas et 60 p. 100 dans le second.
+Les organismes d'habitations à loyer modéré notifient au commissaire de la
+République l'achèvement ou la vacance des logements qui lui sont réservés.
 
-Le nombre de logements réservés en contrepartie de la garantie financière des
-emprunts ne peut dépasser 20 p. 100 des logements du programme considéré.
+Le commissaire de la République propose aux organismes d'habitations à loyer
+modéré des candidats à l'attribution des logements réservés dans le délai d'un
+mois à compter de la notification, par l'organisme, de l'achèvement ou de la
+vacance de ces logements. Il informe le maire de la commune concernée de ses
+propositions.
+
+Si les candidats proposés par le commissaire de la République sont tous récusés
+par l'organisme, le délai d'un mois court à nouveau à compter de la
+notification, par l'organisme, au commissaire de la République du refus opposé à
+ses propositions.
+
+Tout refus opposé aux candidatures proposées par le commissaire de la République
+pour l'attribution d'un logement réservé dans le cadre des conventions ou
+arrêtés visés à l'article R. 441-11 doit être motivé.

@@ -11,5 +11,5 @@ départemental du travail et de l'emploi ou à la section locale de l'Agence
 nationale pour l'emploi, dans le délai prévu à l'article R. 124-4, le relevé des
 contrats de travail mentionnés à l'article L. 124-11.
 
-En cas de récidive, les peines prévues pour les contraventions de la 3e classe
-commises en récidive seront applicables.
+En cas de récidive, l'amende sera celle prévue par les contraventions de 4e
+classe.

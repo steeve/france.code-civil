@@ -53,7 +53,7 @@ ou à la cote du second marché des bourses françaises de valeurs, dans les
 conditions déterminées dans chaque cas par le ministre chargé de l'économie et
 des finances.
 
-C. - Prêts, bons et dépôts
+C. - Prêts, bons et dépôts.
 
 14° Prêts aux collectivités territoriales et à leurs établissements publics
 administratifs ;
@@ -80,10 +80,11 @@ fixées à l'article R. 332-14 ;
 20° Prêts immobiliers aux personnes physiques, dans les conditions fixées à
 l'article R. 332-15 ;
 
-21° Billets négociables sur le marché hypothécaire ;
+21° Billets négociables sur le marché hypothécaire, billets de trésorerie,
+certificats de dépôt ;
 
-22° Bons figurant sur une liste établie par le ministre chargé de l'économie et
-des finances ;
+22° Bons émis par les institutions financières spécialisées et bons figurant sur
+une liste établie par le ministre chargé de l'économie et des finances ;
 
 23° Bons du Trésor ;
 

@@ -14,6 +14,6 @@ par lettre remise, dont il est délivré récépissé, de l'envoi de la mise en
 demeure.
 
 L'entrepreneur de travail temporaire est également regardé comme défaillant
-lorsqu'il fait l'objet d'un règlement judiciaire ou d'une liquidation de biens ;
-dans ce cas le garant est informé, dans les mêmes formes, par le syndic, du
-jugement qui l'a prononcé.
+lorsqu'il fait l'objet d'une procédure de redressement judiciaire ou de
+liquidation judiciaire. Dans ce cas, le gérant est informé du jugement, dans les
+mêmes formes, par le représentant des créanciers ou par le liquidateur.

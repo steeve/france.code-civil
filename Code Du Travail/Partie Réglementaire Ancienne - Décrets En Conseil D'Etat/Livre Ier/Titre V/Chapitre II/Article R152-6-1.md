@@ -12,5 +12,5 @@ articles R. 124-11 ou R. 124-12 ;
 
 3° Le garant qui aura enfreint les dispositions de l'article R. 124-27.
 
-En cas de récidive, les peines prévues pour les contraventions de la 2e classe
-commises en récidive seront applicables.
+En cas de récidive, l'amende sera celle prévue par les contraventions de 3ème
+classe.
