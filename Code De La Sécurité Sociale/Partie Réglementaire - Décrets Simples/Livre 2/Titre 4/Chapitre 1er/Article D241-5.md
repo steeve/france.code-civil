@@ -10,6 +10,5 @@ atteint cet âge ;
 - soixante ans, pour les personnes mentionnées au c du même article lorsqu'une
 condition d'âge est requise.
 
-L'exonération est de 100 p. 100 du montant des cotisations dans la limite de 6
-000 F par trimestre, quel que soit le nombre de salariés employés comme aide à
-domicile pendant cette période.
+La condition de durée d'emploi prévue au dernier alinéa de l'article L. 241-10
+est fixée à soixante heures par mois civil.
