@@ -12,4 +12,8 @@ foraine, d'employer dans ses représentations des enfants âgés de moins de sei
 ans ;
 
 3. Aux père et mère exerçant des professions ci-dessous désignées, d'employer
-dans leurs représentations leurs enfants âgés de moins de douze ans.
+dans leurs représentations leurs enfants âgés de moins de douze ans ;
+
+4° A toute personne d'employer comme mannequin un enfant durant une période de
+vacances scolaires pour un nombre de jours supérieur à la moitié de la durée des
+vacances.
