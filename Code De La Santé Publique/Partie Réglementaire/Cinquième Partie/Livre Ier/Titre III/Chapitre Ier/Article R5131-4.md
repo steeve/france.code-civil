@@ -31,9 +31,14 @@ utiliser de préférence avant fin", suivie soit de la date elle-même, soit de
 l'indication de l'endroit de l'étiquetage où elle figure ; en cas de besoin, ces
 mentions sont complétées par l'indication des conditions dont le respect permet
 d'assurer la durabilité indiquée ; la date se compose de l'indication, en clair
-et dans l'ordre, du mois et de l'année ; pour les produits cosmétiques dont la
-durabilité minimale excède trente mois, l'indication de la date de durabilité
-n'est pas obligatoire ;
+et dans l'ordre, du mois et de l'année ou du jour, du mois et de l'année ; pour
+les produits cosmétiques dont la durabilité minimale excède trente mois,
+l'indication de la date de durabilité n'est pas obligatoire ; toutefois,
+s'agissant de ces derniers produits, les mentions sont complétées par
+l'indication de la durée d'utilisation autorisée après ouverture sans dommages
+pour le consommateur ; cette information est indiquée par le symbole fixé par
+arrêté des ministres chargés de la santé et de la consommation, suivi de la
+durée d'utilisation (exprimée en mois et/ou années) ;
 
 5° Les précautions particulières d'emploi, notamment celles prévues par les
 listes mentionnées aux 2°, 3°, 4° et 5° de l'article R. 5131-3, qui figurent sur
@@ -58,16 +63,23 @@ une notice, une étiquette, une bande ou une carte jointe ou attachée comporte 
 liste de ces ingrédients auxquels le consommateur est renvoyé soit par une
 indication abrégée, soit par un symbole fixé par arrêté des ministres chargés de
 la consommation et de la santé, qui figure sur l'emballage ; les parfums et les
-compositions parfumantes sont mentionnés par le mot "parfum" ou "arôme" ; les
-ingrédients en concentration inférieure à 1 % peuvent être mentionnés dans le
-désordre après ceux dont la concentration est supérieure à 1 % ; les colorants
-peuvent être mentionnés dans le désordre après les autres ingrédients ; ils sont
-désignés soit par leur numéro, soit par leur dénomination tels qu'ils figurent
-dans la liste mentionnée au 3° de l'article R. 5131-3 ; pour les produits
-cosmétiques décoratifs mis sur le marché en plusieurs nuances de couleur,
-l'ensemble des colorants utilisés dans la gamme peut être mentionné, à condition
-d'y ajouter les mots : "peut contenir" ou la mention "ù".
+compositions parfumantes et aromatiques et leurs matières premières sont
+mentionnés par le mot "parfum" ou "arôma" ; toutefois, la présence de substances
+dont la mention est exigée en vertu des dispositions relatives aux "autres
+limitations et exigences" figurant dans l'arrêté prévu au 2° de l'article R.
+5131-3 est indiquée dans la liste, quelle que soit leur fonction dans le produit
+; les ingrédients en concentration inférieure à 1 % peuvent être mentionnés dans
+le désordre après ceux dont la concentration est supérieure à 1 % ; les
+colorants peuvent être mentionnés dans le désordre après les autres ingrédients
+; ils sont désignés soit par leur numéro, soit par leur dénomination tels qu'ils
+figurent dans la liste mentionnée au 3° de l'article R. 5131-3 ; pour les
+produits cosmétiques décoratifs mis sur le marché en plusieurs nuances de
+couleur, l'ensemble des colorants utilisés dans la gamme peut être mentionné, à
+condition d'y ajouter les mots : "peut contenir" ou le symbole "+/-".
 
-Les noms des ingrédients mentionnés au 8° sont ceux de la nomenclature commune
-des ingrédients établie par les instances compétentes de la Commission
-européenne.
+Les ingrédients mentionnés au 8° doivent être déclarés sous leur dénomination
+commune établie par les instances compétentes de la Commission européenne ou, à
+défaut, leur dénomination chimique, leur dénomination CTFA, leur dénomination
+figurant dans la Pharmacopée européenne, leur dénomination commune
+internationale de l'Organisation mondiale de la santé (OMS), leurs numéros
+Einecs, IUPAC, CAS et colour index.

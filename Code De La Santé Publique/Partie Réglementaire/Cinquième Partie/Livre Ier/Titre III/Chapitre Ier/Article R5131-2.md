@@ -18,10 +18,15 @@ déterminer ;
 
 4° L'évaluation de la sécurité pour la santé humaine du produit fini, établie
 notamment en prenant en considération le profil toxicologique général des
-ingrédients, leur structure chimique et leur niveau d'exposition ; cette
+ingrédients, leur structure chimique et leur niveau d'exposition ainsi que les
+caractéristiques spécifiques d'exposition des zones corporelles sur lesquelles
+le produit sera appliqué ou de la population à laquelle il est destiné ; cette
 évaluation est exécutée en conformité avec les bonnes pratiques de laboratoire
 prévues à l'article L. 5131-5 et comporte notamment, lorsque des essais sur le
-produit ont été effectués, le protocole et les résultats de ces essais ;
+produit ont été effectués, le protocole et les résultats de ces essais ; une
+évaluation spécifique des produits cosmétiques destinés aux enfants de moins de
+trois ans et des produits cosmétiques destinés exclusivement à l'hygiène intime
+externe est réalisée ;
 
 5° Le nom et l'adresse des personnes qualifiées responsables de l'évaluation de
 la sécurité pour la santé humaine ainsi que leur niveau de qualification
@@ -34,7 +39,13 @@ résultant de l'utilisation du produit cosmétique ;
 nature de l'effet ou du produit le justifie ;
 
 8° La justification de la transmission à l'autorité compétente des informations
-prévues à l'article L. 5131-7.
+prévues à l'article L. 5131-7 ;
+
+9° Les données relatives aux expérimentations animales réalisées par le
+fabricant, ses agents ou fournisseurs, concernant l'élaboration ou l'évaluation
+de la sécurité du produit ou de ses ingrédients, y compris toute expérimentation
+animale réalisée pour satisfaire aux exigences législatives ou réglementaires de
+pays non membres de la Communauté européenne.
 
 Chacun des éléments mentionnés au présent article porte l'indication de la date
 à laquelle il a été établi.
