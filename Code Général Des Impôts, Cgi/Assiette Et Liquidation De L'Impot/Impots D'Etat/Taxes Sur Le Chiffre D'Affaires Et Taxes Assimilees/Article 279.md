@@ -6,14 +6,15 @@ concerne [*champ d'application*] :
 a. Les prestations relatives :
 
 - à la fourniture de logement et aux trois quarts du prix de pension ou de
-demi-pension dans les établissements d'hébergement (1) ; ce taux s'applique aux
-locations meublées dans les mêmes conditions que pour les établissements
-d'hébergement (2) ;
+demi-pension dans les établissements d'hébergement autres que les hôtels de
+tourisme de catégorie 4 étoiles et 4 étoiles luxe et les relais de tourisme de
+catégorie 4 étoiles (1) (2) ; dans les mêmes conditions que pour les
+établissements d'hébergement (3) ;
 
 - à la fourniture de logement et de nourriture dans les maisons de retraite ;
 
 a bis. Les recettes provenant de la fourniture des repas dans les cantines
-d'entreprises et répondant aux conditions qui sont fixées par décret (3) ;
+d'entreprises et répondant aux conditions qui sont fixées par décret (4) ;
 
 a ter. Les locations d'emplacements sur les terrains de camping classés, à
 condition que soit délivrée à tout client une note d'un modèle agréé par
@@ -44,52 +45,20 @@ que ceux-ci ne comportent pas d'attraction autre que la présence des animaux ;
 b quater. Les transports de voyageurs ;
 
 b quinquies. Les locations et cessions de droits portant sur les films ainsi que
-les droits d'entrée pour les séances cinématographiques (4). Cette disposition
+les droits d'entrée pour les séances cinématographiques (5). Cette disposition
 n'est pas applicable aux films pornographiques ou d'incitation à la violence
 mentionnés à l'article 281 bis A ;
 
 c. Les opérations d'achat, d'importation, de vente, de livraison, de commission,
 de courtage ou de façon, portant sur les produits suivants :
 
-1° Eau ;
-
-2° Produits alimentaires, autres que les boissons, non soumis au taux
-intermédiaire ;
-
-3° Lait livré pour l'alimentation, soit à l'état naturel, pasteurisé ou
-homogénéisé, soit à l'état concentré sucré ou non sucré, soit en poudre sucré ou
-non sucré, laits aromatisés ou fermentés ou les deux à la fois, yaourts ou
-yoghourts, crème de lait ;
-
-4° Huiles fluides alimentaires, graines, fruits oléagineux et huiles végétales
-utilisés pour la fabrication des huiles fluides alimentaires ;
-
-5° Vinaigres comestibles, ainsi que les vins et alcools utilisés pour la
-fabrication de ces vinaigres ;
-
-6° Chocolat à croquer et à cuire en tablettes, fèves de cacao et beurre de cacao
-;
-
-7° Cafés, thés, chicorées, succédanés et mélanges de ces produits ;
-
-8° Pâtisserie fraîche dont la définition est fixée par arrêté ministériel (5) ;
-
-9° Farines composées pour enfants, petits déjeuners en poudre, entremets et
-desserts à préparer même s'ils contiennent du chocolat ou du cacao ;
-
-10° Sucre ;
-
-11° Confitures, purées, gelées et marmelades ; pulpes et jus de fruits destinés
-à la confiturerie ;
-
-12° Produits d'origine agricole, de la pêche, de la pisciculture et de
-l'aviculture n'ayant subi aucune transformation ;
+1° à 12° (Devenus sans objet) (6) ;
 
 13° Aliments simples ou composés utilisés pour la nourriture du bétail, des
 animaux de basse-cour, des poissons d'élevage destinés à la consommation humaine
 et des abeilles, ainsi que les produits entrant dans la composition de ces
 aliments et dont la liste est fixée par arrêté du ministre de l'économie et des
-finances pris après avis des professions intéressées (6) ;
+finances pris après avis des professions intéressées (7) ;
 
 14° Préparations magistrales, produits officinaux et spécialités pharmaceutiques
 destinées à l'usage de la médecine humaine et faisant l'objet de l'autorisation
@@ -100,7 +69,7 @@ prévue pour le sang par l'article 261-4-2° ;
 d. Les opérations d'achat, d'importation, de vente, de livraison, de commission,
 de courtage ou de façon portant sur les produits suivants :
 
-1° Sous-produits d'origine animale dont la définition est fixée par décret (7) ;
+1° Sous-produits d'origine animale dont la définition est fixée par décret (8);
 
 2° Amendements calcaires ;
 
@@ -118,17 +87,20 @@ par le ministre de l'agriculture.
 e. Les opérations d'achat, d'importation, de vente, de livraison, de commission,
 de courtage ou de façon portant sur les livres.
 
-(1) Antérieurement au 1er janvier 1978 cette disposition ne s'appliquait qu'aux
-hôtels classés de tourisme et aux villages de vacances classés.
+(1) Du 1er janvier 1978 au 30 septembre 1981 le taux réduit s'appliquait à tous
+les établissements d'hébergement.
 
-(2) Annexe IV, art. 30.
+(2) Cf. décret n° 66-371 du 13 juin 1966 relatif au classement et aux prix des
+hôtels et restaurants.
 
-(3) Annexe III, art. 85 bis.
+(3) Annexe IV, art. 30.
 
-(4) A compter du 1er novembre 1979.
+(4) Annexe III, art. 85 bis.
 
-(5) Annexe IV, art. 31 A.
+(5) A compter du 1er novembre 1979.
 
-(6) Annexe IV, art. 31.
+(6) Dispositions abrogées à compter du 1er juillet 1982.
 
-(7) Annexe III, art. 65 B.
+(7) Annexe IV, art. 31.
+
+(8) Annexe III, art. 65 B.

@@ -83,9 +83,7 @@ A, du bénéfice imposable des sociétés distributrices (2) ;
 b ter. Aux produits des actions à dividende prioritaire sans droit de vote
 prévues par l'article 177-1 de la loi n° 66-537 du 24 juillet 1966 (3).
 
-c. Aux produits des actions ou parts de sociétés par actions ou à responsabilité
-limitée admises au régime fiscal des sociétés de personnes prévu à l'article 239
-bis A ;
+c. (Périmé);
 
 d. Aux produits des actions des sociétés immobilières pour le commerce et
 l'industrie [*SICOMI*] visées à l'article 5 de l'ordonnance n° 67-837 du 28

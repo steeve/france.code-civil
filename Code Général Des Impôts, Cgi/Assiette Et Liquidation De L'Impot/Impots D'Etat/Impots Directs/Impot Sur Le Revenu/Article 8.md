@@ -20,8 +20,6 @@ financiers - qui sont indéfiniment responsables et dont les noms et adresses on
 3° Des membres des sociétés à responsabilité limitée qui ont opté pour le régime
 fiscal des sociétés de personnes dans les conditions prévues à l'article 3-IV du
 décret n° 55-594 du 20 mai 1955 modifié ou dans celles prévues par l'article 239
-bis AA ;
+bis AA.
 
-4° Des membres des sociétés par actions ou à responsabilité limitée qui sont
-admises au régime fiscal des sociétés de personnes en application de l'article
-239 bis A.
+4° (Périmé).

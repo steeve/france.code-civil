@@ -21,8 +21,8 @@ acides résiniques et leurs dérivés autres que les gommes esters du 39-05 ;
 essence de colophane et huiles de colophane.
 
 - A Colophane (y compris les produits dits brais résineux) 0,7 - B Essence de
-résine et huile de résine 0,7 - C Autres (y compris les dérivés des acides
-résiniques et des colophanes) 0,7 NUMERO DU TARIF DE DOUANE D'IMPORTATION :
+colophane et huile de colophane 0,7 - C Autres 0,7 NUMERO DU TARIF DE DOUANE
+D'IMPORTATION :
 
 Ex 38-09 B Liants pour noyaux de fonderie à base de produits résineux naturels
 0,7 Ex B NUMERO DU TARIF DE DOUANE D'IMPORTATION :

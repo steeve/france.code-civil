@@ -11,10 +11,10 @@ l'établissement public [*autorité compétente*] et notifié au ministre de
 l'économie et des finances.
 
 Ce montant est réparti, dans les conditions définies aux articles 1636 B
-quinquies, 1636 B octies-II et 1636 C, entre toutes les personnes physiques ou
-morales assujetties aux taxes foncières sur les propriétés bâties et non bâties,
-à la taxe d'habitation et à la taxe professionnelle dans les communes comprises
-dans la zone de compétence de l'établissement public.
+octies-II et 1636 C, entre toutes les personnes physiques ou morales assujetties
+aux taxes foncières sur les propriétés bâties et non bâties, à la taxe
+d'habitation et à la taxe professionnelle dans les communes comprises dans la
+zone de compétence de l'établissement public.
 
 Les cotisations sont établies et recouvrées, les réclamations sont présentées et
 jugées comme en matière de contributions directes.

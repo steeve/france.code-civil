@@ -37,11 +37,18 @@ effectuant des travaux en application de l'article 605 du code civil, et aux
 propriétaires de monuments classés monuments historiques, inscrits à
 l'inventaire supplémentaire ou ayant fait l'objet d'un agrément ministériel.
 
+4° Des déficits réalisés par des personnes, autres que les loueurs
+professionnels au sens de l'article 151 septies, dernier alinéa, louant
+directement ou indirectement des locaux d'habitation meublés ou destinés à être
+meublés ; ces déficits s'imputent exclusivement sur les bénéfices retirés par le
+contribuable de cette même activité au cours des années suivantes jusqu'à la
+cinquième inclusivement (2).
+
 I bis. Du déficit correspondant aux frais exposés par un inventeur pour prendre
 un brevet ou en assurer la maintenance lorsqu'il ne perçoit pas de produits
 imposables ou perçoit des produits inférieurs à ces frais. Ce déficit est
 déductible du revenu global de l'année de prise du brevet et des neuf années
-suivantes (2).
+suivantes (3).
 
 II. Des charges ci-après lorsqu'elles n'entrent pas en compte pour l'évaluation
 des revenus des différentes catégories :
@@ -58,15 +65,15 @@ pour la construction, l'acquisition ou les grosses réparations des immeubles
 dont le propriétaire se réserve la jouissance ainsi que les dépenses de
 ravalement, lesquelles doivent être imputées sur un seul exercice. La déduction
 est toutefois limitée à 7.000 F, cette somme étant augmentée de 1.000 F par
-personne à la charge du contribuable au sens des articles 196, 196 A et 196 B.
-Ces dispositions ne s'appliquent qu'en ce qui concerne les immeubles affectés à
-l'habitation principale des redevables ;
+personne à la charge du contribuable au sens des articles 196, 196 A bis et 196
+B. Ces dispositions ne s'appliquent qu'en ce qui concerne les immeubles affectés
+à l'habitation principale des redevables ;
 
 b. Les dispositions du a s'appliquent même lorsque l'immeuble n'est pas affecté
 immédiatement à l'habitation principale, à la condition que le propriétaire
 prenne l'engagement de lui donner cette affectation avant le 1er janvier de la
 troisième année qui suit celle de la conclusion du contrat de prêt ou du
-paiement des travaux de ravalement. Le non-respect de cet engagement entraîne la
+paiement des dépenses. Le non-respect de cet engagement entraîne la
 réintégration des dépenses dans le revenu imposable de l'année au titre de
 laquelle elles ont été indûment déduites, sans préjudice des sanctions prévues
 aux articles 1728 et 1729 ;
@@ -75,28 +82,42 @@ c. Les déductions prévues au a et au b sont étendues aux locaux compris dans 
 exploitations agricoles et affectés à l'habitation des propriétaires exploitants
 ;
 
-1° ter. Dans les conditions fixées par décret (3), les charges foncières
+1° ter. Dans les conditions fixées par décret (4), les charges foncières
 afférentes aux immeubles classés monuments historiques ou inscrits à
 l'inventaire supplémentaire, ainsi qu'aux immeubles faisant partie du patrimoine
 national en raison de leur caractère historique ou artistique particulier et qui
 auront été agréés à cet effet par le ministre de l'économie et des finances ;
 
-1° quater. Le régime de déduction prévu au 1° bis a est étendu aux dépenses
-effectuées par un contribuable pour sa résidence principale, qu'il en soit ou
-non propriétaire, lorsque ces dépenses ont pour objet d'améliorer l'isolation
-thermique ou la mesure et la régulation du chauffage, ou encore de remplacer une
-chaudière dans des conditions permettant une économie de produits pétroliers ;
-les types de travaux ou d'achats admis sont déterminés par décret en Conseil
-d'Etat (4) ; la déduction peut, pour les contribuables qui échelonnent leurs
-dépenses sur plusieurs années, être pratiquée au titre de chacune de ces années
-sans que le total des dépenses déduites puisse être supérieur au montant de la
-déduction qui serait admise en l'absence d'échelonnement (5) ; elle est réservée
-aux logements existant au 1er juillet 1975 (5) et aux logements qui ont fait
-l'objet, avant cette même date, soit d'une demande de permis de construire, soit
-d'une déclaration préalable de travaux ; lorsque le bénéficiaire de la déduction
-est remboursé en tout ou partie de ses dépenses par un tiers, dans un délai de
-dix ans, le montant remboursé est ajouté à ses revenus de l'année du
-remboursement ;
+1° quater. a. Dépenses effectuées par un contribuable pour sa résidence
+principale, qu'il en soit ou non propriétaire, lorsque ces dépenses ont pour
+objet d'améliorer l'isolation thermique ou la mesure et la régulation du
+chauffage, ou encore de remplacer une chaudière dans des conditions permettant
+une économie de produits pétroliers.
+
+Le montant maximum de cette déduction est fixé à 8.000 F par logement, cette
+somme étant augmentée de 1.000 F par personne à la charge du contribuable au
+sens des articles 196, 196 A bis et 196 B ; elle peut, pour les contribuables
+qui échelonnent leurs dépenses sur plusieurs années, être pratiquée au titre de
+chacune de ces années sans que le total des dépenses déduites puisse être
+supérieur au montant de la déduction qui serait admise en l'absence
+d'échelonnement. La déduction est réservée aux logements existant au 1er juillet
+1981 et aux logements ayant fait l'objet, avant cette date, soit d'une demande
+de permis de construire, soit d'une déclaration préalable de travaux.
+
+Lorsque le bénéficiaire de la déduction est remboursé en tout ou partie de ses
+dépenses par un tiers, dans un délai de dix ans, le montant remboursé est ajouté
+à ses revenus de l'année du remboursement ;
+
+b. Le régime de déduction visé au a est étendu aux dépenses relatives à
+l'installation de pompes à chaleur et à l'utilisation des énergies nouvelles
+pour le chauffage des logements quelle que soit leur date de construction ;
+
+c. Les dispositions du a et du b s'appliquent aux dépenses réalisées du 1er
+janvier 1982 au 31 décembre 1986. La liste des travaux et matériels admis en
+déduction est fixée par arrêté ministériel (5) ;
+
+d. Les dispositions du 1° bis-b sont étendues aux dépenses visées aux a à c
+ci-dessus.
 
 2° Arrérages de rentes payés par lui à titre obligatoire et gratuit constituées
 avant le 2 novembre 1959 ; pensions alimentaires répondant aux conditions fixées
@@ -106,13 +127,19 @@ en cas de séparation de corps ou de divorce, ou en cas d'instance en séparatio
 de corps ou en divorce lorsque le conjoint fait l'objet d'une imposition séparée
 ; dans la limite de 18.000 F et, dans les conditions fixées par un décret en
 Conseil d'Etat (6), les versements destinés à constituer le capital de la rente
-prévue à l'article 294 du code civil.
+prévue à l'article 294 du code civil. Le contribuable ne peut opérer de
+déduction pour ses descendants mineurs, sauf pour ses enfants dont il n'a pas la
+garde ;
 
-Toutefois, le contribuable ne peut opérer de déduction pour ses descendants âgés
-de moins de vingt-cinq ans ou poursuivant leurs études sauf pour ses enfants
-mineurs dont il n'a pas la garde ;
+La déduction est limitée, par enfant majeur, au montant fixé pour l'abattement
+prévu par l'article 196 B. Lorsque l'enfant est marié, cette limite est doublée
+au profit du parent qui justifie qu'il participe seul à l'entretien du ménage.
 
-2° bis et 3° (Abrogés) ;
+Un contribuable ne peut, au titre d'une même année et pour un même enfant,
+bénéficier à la fois de la déduction d'une pension alimentaire et du
+rattachement. L'année où l'enfant atteint sa majorité, le contribuable ne peut à
+la fois déduire une pension pour cet enfant et le considérer à charge pour le
+calcul de l'impôt.
 
 4° Versements effectués à titre de cotisations de sécurité sociale, à
 l'exception de ceux effectués pour les gens de maison ;
@@ -155,9 +182,7 @@ aux a et b.
 
 8° (Abrogé) ;
 
-9° Les contributions payées par les travailleurs, prévues à l'article L 351-12
-du code du travail et destinées à financer le versement des allocations
-spéciales aux travailleurs sans emploi prévues auxdits accords ;
+9° (transféré sous l'article 83-2° bis).
 
 9° bis et 9° ter (Abrogés) ;
 
@@ -175,15 +200,15 @@ professionnelles dans l'agriculture.
 
 (1) Voir toutefois le paragraphe I bis ci-dessous.
 
-(2) Disposition applicable à compter de l'imposition des revenus de l'année
+(2) Cette disposition s'applique pour la première fois aux revenus perçus à
+compter du 1er janvier 1982.
+
+(3) Disposition applicable à compter de l'imposition des revenus de l'année
 1979.
 
-(3) Annexe III, art. 41 E à 41 J.
+(4) Annexe III, art. 41 E à 41 J.
 
-(4) Annexe II, art. 75-0 A à 75-0 D.
-
-(5) Disposition nouvelle et date limite nouvelle en vigueur à compter du 1er
-janvier 1979.
+(5) Annexe IV, art. 17 H à 17 L.
 
 (6) Annexe II, art. 91 quinquies.
 

@@ -94,10 +94,7 @@ traitement est considérée comme un établissement.
 IV. A défaut d'accord prévu au II sur le plan interdépartemental et au III, la
 répartition est effectuée par arrêté du ministre de l'intérieur.
 
-IV bis- Dans les communes soumises à un prélèvement au profit du fonds
-départemental de la taxe professionnelle, la répartition entre les quatre taxes
-directes locales prévue à l'article 1636 B quater est effectuée sans que soient
-prises en compte les bases sur lesquelles porte ce prélèvement.
+IV bis- (Périmé).
 
 V. Une fraction des recettes départementales de la taxe professionnelle peut
 également être affectée au fonds par décision du conseil général. Ce supplément

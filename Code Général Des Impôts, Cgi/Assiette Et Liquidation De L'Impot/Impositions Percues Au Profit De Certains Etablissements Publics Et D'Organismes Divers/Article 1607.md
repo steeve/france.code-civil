@@ -27,8 +27,7 @@ la taxe foncière sur les propriétés non bâties, la taxe d'habitation et la t
 professionnelle dans les communes comprises dans les limites de la région.
 
 Le montant de la taxe spéciale d'équipement est réparti entre les contribuables
-conformément aux dispositions des articles 1636 B quinquies, 1636 B octies-II et
-1636 C.
+conformément aux dispositions des articles 1636 B octies-II et 1636 C.
 
 Toutefois, les bases devront être affectées de coefficients d'adaptation tenant
 compte de la situation géographique des communes à l'intérieur de la région par

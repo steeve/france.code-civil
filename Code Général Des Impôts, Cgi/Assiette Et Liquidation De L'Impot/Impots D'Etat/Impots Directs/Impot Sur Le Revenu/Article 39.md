@@ -48,7 +48,7 @@ entièrement libéré ;
 
 4° Sous réserve des dispositions de l'article 153, les impôts à la charge de
 l'entreprise, mis en recouvrement au cours de l'exercice, à l'exception des
-taxes prévues aux articles 238 quater et 239 bis B.
+taxes prévues aux articles 235 ter T, 238 quater et 239 bis B.
 
 Si des dégrèvements sont ultérieurement accordés sur ces impôts, leur montant
 entre dans les recettes de l'exercice au cours duquel l'exploitant est avisé de
@@ -173,6 +173,11 @@ d'acquisition qui dépasse 20.000 F ; pour les exercices clos à compter du 1er
 janvier 1975, cette limite est portée à 35.000 F [*montant*] et s'applique à
 l'ensemble des véhicules immatriculés dans la catégorie des voitures
 particulières ;
+
+- en cas d'opérations de crédit-bail ou de location au sens de l'article 281 bis
+C, portant sur des voitures particulières, à la part du loyer supportée par le
+locataire et correspondant à l'amortissement pratiqué par le bailleur pour la
+fraction du prix d'acquisition du véhicule excédant 35.000 F ;
 
 - aux dépenses de toute nature résultant de l'achat, de la location ou de toute
 autre opération faite en vue d'obtenir la disposition de yachts ou de bateaux de

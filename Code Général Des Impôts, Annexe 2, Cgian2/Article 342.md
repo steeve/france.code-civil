@@ -23,35 +23,23 @@ des douanes :
 
 : 38-07 A : Essence de térébenthine : 1,50 :
 
-: 38-07 B I : Essence de papeterie au sulfate, : :
+: 38-07 B : Essence de papeterie au sulfate, : :
 
 : : dipenthène brut : 1,50 :
 
-: 38-07 B II : Non dénommés : : :
-
-: : a. Huile de pin : 1,50 :
-
-: : b. Autres : 1,50 :
+: 38-07 C : Autres : 1,50 :
 
 : 38-08 A : Colophane (y compris les : :
 
 : : produits dits brais résineux) : 3,50 :
 
-: 38-08 B : Essence de résine et huiles de : :
+: 38-08 B : Essence de colophane et huile de : :
 
-: : résine : 3,50 :
+: : colophane : 3,50 :
 
-: 38-08 C : Autres : : :
+: 38-08 C : Autres : 3,50 :
 
-: : I. Acides résiniques : 3,50 :
-
-: : II. Autres (y compris les : :
-
-: : dérivés des acides résiniques : :
-
-: : et des colophanes) : 3,50 :
-
-: Ex. 38-10 B : Liants à base de résineux naturels : 3,50 :
+: Ex. 38-09 B : Liants à base de résineux naturels : 3,50 :
 
 : Ex. 39-05 B : Gommes esters provenant d'acides : :
 
