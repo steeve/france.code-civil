@@ -1,16 +1,9 @@
 Article L950-2-2
 ----
-Pour financer les congés individuels de formation, une fraction de la
-participation des employeurs au financement de la formation professionnelle
-continue, égale au moins à 0,10 p. 100 des salaires de l'année de référence, est
-obligatoirement versée à des organismes paritaires agréés par l'Etat. Ce
-pourcentage peut être revalorisé par la loi de finances, après consultation du
-Conseil national de la formation professionnelle, de la promotion sociale et de
-l'emploi prévu à l'article L. 910-1.
-
-Lorsqu'un employeur n'a pas effectué le versement prévu à l'alinéa précédent
-avant le 1er mars de l'année suivant celle au titre de laquelle est due cette
-participation [*date limite*], ou a effectué un versement insuffisant, le
+Lorsqu'un employeur n'a pas effectué le versement à un organisme paritaire agréé
+par l'Etat au titre du congé individuel de formation prévu au deuxième alinéa de
+l'article L. 950-2 avant le 1er mars de l'année suivant celle au titre de
+laquelle est due cette participation, ou a effectué un versement insuffisant, le
 montant de sa participation au financement de la formation professionnelle
 continue est majoré de l'insuffisance constatée.
 
@@ -22,10 +15,9 @@ Les dispositions des articles L. 950-4-I, troisième et sixième alinéa, et L.
 950-4-II du présent code s'appliquent à ce complément d'obligation.
 
 Tout employeur assujetti en application du premier alinéa ne peut verser sa
-contribution qu'à un seul organisme paritaire agréé [*nombre*] Toutefois, un
-décret fixe les conditions dans lesquelles il peut être dérogé à cette
-disposition, notamment en ce qui concerne les entreprises à établissements
-multiples.
+contribution qu'à un seul organisme paritaire agréé. Toutefois, un décret fixe
+les conditions dans lesquelles il peut être dérogé à cette disposition,
+notamment en ce qui concerne les entreprises à établissements multiples.
 
 Ce versement est utilisé exclusivement pour financer :
 
