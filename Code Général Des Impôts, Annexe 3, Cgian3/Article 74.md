@@ -2,7 +2,7 @@ Article 74
 ----
 1. Les livraisons réalisées par les assujettis et portant sur des objets ou
 marchandises exportés sont exonérées de la taxe sur la valeur ajoutée à
-condition, savoir :
+condition :
 
 a. Que le fournisseur inscrive les envois sur le registre prévu au 3° du I de
 l'article 286 du code général des impôts, par ordre de date, avec l'indication
@@ -16,13 +16,14 @@ l'expéditeur sur la déclaration en douane par la personne chargée de présent
 les objets ou marchandises pour l'exportation ;
 
 c. Que le fournisseur établisse pour chaque envoi une déclaration d'exportation,
-conforme au modèle donné par l'administration, qui doit, après visa par le
-service des douanes du point de sortie, être mise à l'appui du registre visé au
-a. Toutefois, lorsque l'exportation est réalisée par l'entremise d'un
-intermédiaire agissant au nom et pour le compte d'autrui, et que celui-ci est
-désigné comme expéditeur des biens sur la déclaration d'exportation, le
-fournisseur met à l'appui du registre prévu au a un exemplaire de sa facture
-visée par le service des douanes du point de sortie.
+conforme au modèle donné par l'administration, qui doit, après visa par
+l'autorité douanière compétente, conformément au code des douanes communautaire
+et ses dispositions d'application, être mise à l'appui du registre visé au a.
+Toutefois, lorsque l'exportation est réalisée par l'entremise d'un intermédiaire
+agissant au nom et pour le compte d'autrui, et que celui-ci est désigné comme
+expéditeur des biens sur la déclaration d'exportation, le fournisseur met à
+l'appui du registre prévu au a un exemplaire de sa facture visée par le service
+des douanes du point de sortie.
 
 Lorsque l'intermédiaire a la qualité de commissionnaire en douane agréé et a
 obtenu de l'administration des douanes et droits indirects un agrément
@@ -30,6 +31,46 @@ spécifique à la procédure du dédouanement des envois express, le fournisseur
 à l'appui du registre prévu au a le document comportant tous les élements
 d'information requis par l'administration, qui lui a été remis par cet
 intermédiaire.
+
+d. Que, dans les cas où le fournisseur ne détient pas la déclaration
+d'exportation visée conformément au premier alinéa du c et à l'exclusion des
+opérations mentionnées aux quatrième à huitième alinéas du I de l'article 262 du
+code général des impôts, il mette à l'appui du registre mentionné au a, pour
+justifier de la sortie des biens expédiés vers un pays n'appartenant pas à la
+Communauté européenne, un territoire mentionné au 1° de l'article 256-0 du code
+général des impôts ou un département d'outre-mer, en plus de la déclaration en
+douane enregistrée par le bureau des douanes où elle a été déposée, l'un des
+éléments de preuve complémentaires ci-après :
+
+1° La déclaration en douane authentifiée par l'administration des douanes du
+pays de destination finale des biens ou une attestation de cette administration
+accompagnée, le cas échéant, d'une traduction officielle ;
+
+2° Tout document de transport des biens vers un pays n'appartenant pas à la
+Communauté européenne, un territoire mentionné au 1° de l'article 256-0 du code
+général des impôts ou un département d'outre-mer ou tout document afférent au
+chargement du moyen de transport qui quitte la Communauté européenne pour se
+rendre dans le pays ou le territoire de destination finale hors de la Communauté
+;
+
+3° Tout document douanier visé par le service des douanes compétent et utilisé
+pour la surveillance de l'acheminement des biens vers leur destination finale
+hors de la Communauté, lorsqu'il s'agit de biens soumis à des contrôles
+particuliers ;
+
+4° Les documents mentionnés à l'article 302 M du code général des impôts, visés
+par le bureau des douanes du point de sortie de la Communauté ou tout autre
+élément de preuve alternatif accepté par l'administration chargée de la
+surveillance des mouvements de produits soumis à accises ;
+
+5° Pour tous les produits autres que ceux soumis à accises ou à des contrôles
+douaniers particuliers et lorsqu'il s'agit d'une livraison effectuée dans les
+conditions prévues au premier alinéa du 2° du I de l'article 262 du code général
+des impôts, une déclaration du transporteur ou du transitaire qui a pris en
+charge les biens, accompagnée de la preuve du paiement des biens par le client
+établi dans un pays n'appartenant pas à la Communauté européenne, un territoire
+mentionné au 1° de l'article 256-0 du code général des impôts ou un département
+d'outre-mer.
 
 2. En ce qui concerne les exportations de perles fines (n° 71-01 du tarif des
 douanes) et de pierres gemmes brutes ou taillées (n° 71-02, 71-03, 85-22-10 et
