@@ -1,20 +1,18 @@
 Article R20-20
 ----
-Lorsqu'elle estime que les normes harmonisées et réglementations techniques
-communes sont insuffisantes pour mettre en oeuvre les exigences essentielles ou
-vont au-delà de celles-ci, l'Autorité de régulation des télécommunications
-demande au ministre chargé des télécommunications de saisir le comité
-d'approbation des équipements de télécommunications siégeant auprès de la
-Commission des communautés européennes.
+Les contrôles effectués en vue de rechercher et de constater les infractions aux
+dispositions des articles R. 20-4, R. 20-6 à R. 20-9 et R. 20-19, réalisés par
+les agents mentionnés aux articles L. 40 et L. 40-1, peuvent donner lieu à
+prélèvement des équipements. En cas de non-conformité d'un équipement, le coût
+des contrôles est à la charge du contrevenant.
 
-Lorsqu'elle constate qu'un équipement terminal marqué CE, ayant fait l'objet de
-l'attestation de conformité dans un Etat membre de la Communauté européenne ou
-dans tout autre Etat partie à l'accord instituant l'Espace économique européen
-et utilisé conformément à sa destination, ne satisfait pas aux exigences
-essentielles, l'Autorité de régulation des télécommunications demande au
-ministre chargé des télécommunications d'en informer sans délai la Commission
-des communautés européennes ainsi que les autres Etats membres de la Communauté
-européenne et les autres Etats parties à l'accord instituant l'Espace économique
-européen en précisant si la non-conformité résulte d'une application inadéquate
-des normes et spécifications harmonisées ou de lacunes intrinsèques de
-celles-ci.
+Le nombre d'exemplaires prélevés doit être limité aux nécessités du contrôle.
+Les prélèvements réalisés par les agents mentionnés à l'article L. 40 sont
+effectués dans les conditions prévues aux articles R. 215-5, R. 215-6, R. 215-8
+et R. 215-9 du code de la consommation. Un exemplaire est laissé au propriétaire
+ou détenteur du produit. Si celui-ci refuse de conserver cet exemplaire en
+dépôt, ce refus est mentionné au procès-verbal du contrôle.
+
+Les essais sont effectués par un laboratoire désigné par le ministre chargé des
+communications électroniques. Les critères de désignation sont ceux prévus à
+l'article R. 20-14.

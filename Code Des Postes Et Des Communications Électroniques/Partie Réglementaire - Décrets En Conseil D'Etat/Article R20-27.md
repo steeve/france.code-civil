@@ -1,11 +1,12 @@
 Article R20-27
 ----
-Est puni de la peine d'amende prévue pour les contraventions de la 5e classe :
+Les personnes morales peuvent être déclarées responsables pénalement, dans les
+conditions prévues par l'article 121-2 du code pénal, des contraventions
+définies à l'article R. 20-25.
 
-1° Le fait d'utiliser une fréquence ou une installation radioélectrique sans
-l'autorisation prévue à l'article L. 89 ou en dehors des conditions
-d'autorisation ;
+Les peines encourues par les personnes morales sont :
 
-2° Le fait d'utiliser une installation ou un équipement terminal radioélectrique
-n'ayant pas fait l'objet de l'attestation de conformité prévue au 1° de
-l'article R. 20-2.
+1° L'amende, suivant les modalités prévues par l'article 131-41 du code pénal ;
+
+2° La confiscation des équipements, dans les cas prévus au I et aux 1° et 2° du
+II de l'article R. 20-25.
