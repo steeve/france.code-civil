@@ -21,4 +21,4 @@ leur rémunération d'activité et des avantages mentionnés à l'article R. 711
 n'excède pas la valeur déterminée, selon le cas, au 1° ou au 2° ci-dessus.
 
 Les montants maximum des rémunéations et avantages déterminés en application des
-dispositions du présent article sont arrondis au franc supérieur.
+dispositions du présent article sont arrondis à l'euro supérieur.

@@ -11,7 +11,7 @@ l'ensemble des branches par l'Agence centrale des organismes de sécurité socia
 ; ils sont alors rémunérés dans les conditions fixées à l'article R. 255-6 ;
 
 b) Soit leur placement conformément aux dispositions de l'article R. 255-5. Le
-montant des sommes ainsi placées ne peut être inférieur à 300 000 000 F.
+montant des sommes ainsi placées ne peut être inférieur à 45 000 000 euros.
 
 L'Agence centrale des organismes de sécurité sociale décide de la nature de ces
 placements dans le respect de la décision prise par le conseil d'administration

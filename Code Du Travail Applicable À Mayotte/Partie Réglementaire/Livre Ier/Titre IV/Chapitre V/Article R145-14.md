@@ -5,8 +5,8 @@ La répartition des sommes encaissées dans les conditions prévues aux articles
 convocation des parties intéressées.
 
 Cette répartition est effectuée dès que la somme à distribuer atteint, déduction
-faite des frais à prélever et des créances privilégiées, un dividende de 35 % au
-moins.
+faite des frais à prélever et des créances privilégiées, un dividende de 35 p.
+100 au moins.
 
 Toutefois, en cas de cause grave, notamment à la cessation des services du
 débiteur saisi, il est procédé à cette répartition quel que soit le montant des
