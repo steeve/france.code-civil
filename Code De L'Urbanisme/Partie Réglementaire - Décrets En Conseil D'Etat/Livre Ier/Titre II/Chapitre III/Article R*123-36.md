@@ -10,14 +10,19 @@ a) Des périmètres et des zones mentionnés à l'article R. 123-19 (1. et 2.) ;
 b) Des modifications résultant d'une déclaration d'utilité publique prononcée en
 application de l'article L. 123-8 ;
 
-c) Des servitudes d'utilité publique mentionnées à l'article R. 123-20 ou
+c) Des servitudes d'utilité publique mentionnées à l'article L. 126-1 ou
 instituées ou modifiées postérieurement à la date où le plan a été rendu public
 ou approuvé ;
 
 d) Des zones d'intervention foncière.
 
-Un arrêté du préfet constate dans chaque cas qu'il a été procédé à la mise à
-jour du plan.
+Un arrêté du maire constate dans chaque cas qu'il a été procédé à la mise à jour
+du plan.
+
+Dans les cas visés au c de l'alinéa précédent, si cette formalité n'a pas été
+effectuée dans le délai de trois mois suivant la notification par le commissaire
+de la République à la commune, le commissaire de la République y procède
+d'office par arrêté.
 
 Lorsqu'elle consiste à reporter un périmètre de rénovation urbaine, un secteur
 sauvegardé, un périmètre de restauration immobilière ou un périmètre de
