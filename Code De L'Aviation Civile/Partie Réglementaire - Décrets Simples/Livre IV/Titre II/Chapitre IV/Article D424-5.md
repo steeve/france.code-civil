@@ -12,4 +12,6 @@ Des représentants du ministre chargé de l'aviation civile ;
 Des délégués des organisations représentatives des entreprises et du personnel
 navigant professionnel de l'aéronautique civile.
 
-Le président peut désigner des médecins experts s'il le juge nécessaire.
+Le président peut, sur proposition du conseil, désigner un ou plusieurs médecins
+experts. La mission de ces experts doit leur être précisée et le personnel
+concerné en être informé.

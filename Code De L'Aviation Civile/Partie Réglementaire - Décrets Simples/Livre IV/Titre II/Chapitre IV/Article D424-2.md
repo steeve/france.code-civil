@@ -16,16 +16,23 @@ essais et réceptions, par le ministre de la défense.
 
 3° De soumettre au ministre chargé de l'aviation civile des propositions
 concernant les décisions prévues par les articles L. 424-1, L. 424-2, L. 424-5
-et par l'article R. 426-11 en matière de reconnaissance d'incapacité temporaire
-ou permanente de travail et de décès consécutifs à un accident aérien survenu en
-service ou une maladie imputable au service aérien.
+et par l'article R. 426-17 en matière de reconnaissance d'imputabilité au
+service aérien d'une maladie ayant entraîné une incapacité temporaire ou
+permanente de travail ou le décès ;
 
-4° De recevoir et d'examiner :
+4° De soumettre au ministre chargé de l'aviation civile des propositions
+concernant les décisions prévues par les articles L. 424-1, L. 424-2, L. 424-5
+et par l'article R. 426-17 en matière de reconnaissance d'imputabilité au
+service aérien d'un accident aérien survenu en service ayant entraîné une
+incapacité temporaire ou permanente de travail ou le décès ;
 
-a) Les appels interjetés par les candidats aux fonctions réservées au personnel
-navigant professionnel et les titulaires d'une licence du personnel navigant
-déclarés médicalement inaptes au titre de l'aéronautique civile par un centre
-d'expertise médicale du personnel navigant, ou un médecin agréé ;
+5° De recevoir et d'examiner :
+
+a) Les appels interjetés par les candidats à la qualité de personnel navigant
+professionnel et non professionnel et par les personnels navigants
+professionnels et non professionnels déclarés médicalement inaptes au titre de
+l'aéronautique civile par un centre d'expertise médicale du personnel navigant
+ou par un médecin agréé ;
 
 b) Les appels interjetés par les employeurs qui estimeraient devoir contester
 les décisions prononcées par les autorités médicales compétentes en matière
