@@ -1,0 +1,8 @@
+Article R791-2-17
+----
+Le président du collège de l'accréditation est élu au sein du collège pour une
+durée de trois ans.
+
+En cas de vacance du poste de président du collège de l'accréditation pour
+quelque cause que ce soit, il est procédé à l'élection d'un nouveau président
+selon les mêmes modalités pour la durée du mandat restant à courir.
