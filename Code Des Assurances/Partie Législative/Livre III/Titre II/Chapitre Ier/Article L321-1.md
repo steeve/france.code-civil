@@ -15,6 +15,13 @@ Aucun agrément ne peut être accordé à une même entreprise pour des opérati
 définies aux 1°, 2°, 3°, 4° et 6° de l'article L. 310-1 et pour les opérations
 définies aux 5° et 7° dudit article.
 
-Sont nuls les contrats souscrits en infraction au présent article. Toutefois,
-cette nullité n'est pas opposable, lorsqu'ils sont de bonne foi, aux associés,
-aux souscripteurs et aux bénéficiaires.
+Aucun agrément ne peut être accordé à une même entreprise pour des opérations
+définies aux 1°, 2°, 3° et 4° de l'article L. 310-1 et pour des opérations
+définies aux 5° et 7° du même article.
+
+Aucun agrément ne peut être accordé à une même entreprise pour des opérations
+définies au 6° de l'article L. 310-1 et pour des opérations définies aux 1°, 2°,
+3°, 4°, 5° et 7° du même article.
+
+Aucun agrément ne peut être accordé à une entreprise tontinière pour des
+opérations autres que tontinières.
