@@ -26,8 +26,8 @@ civile. Il passe au nom de l'établissement les contrats, les marchés, les acte
 d'acquisition et de vente et les transactions, sous réserve des attributions
 conférées au conseil d'administration par les 5° et 6° de l'article R. 794-13.
 
-Il est ordonnateur des dépenses et des recettes du budget de l'établissement. Il
-peut désigner des ordonnateurs secondaires.
+Il est ordonnateur principal des dépenses et des recettes. Il peut désigner des
+ordonnateurs secondaires qui peuvent déléguer leur signature.
 
 Il communique aux ministres chargés de la santé, de l'agriculture et de la
 consommation ainsi qu'aux autres ministres concernés les avis, expertises et
