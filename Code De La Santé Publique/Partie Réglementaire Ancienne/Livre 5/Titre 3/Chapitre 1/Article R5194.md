@@ -1,8 +1,8 @@
 Article R5194
 ----
 Toute ordonnance comportant une prescription de médicaments ou produits
-mentionnés à la présente section doit indiquer lisiblement [*mentions
-obligatoires*]:
+mentionnés à la présente section doit être rédigée après examen du malade et
+indiquer lisiblement [*mentions obligatoires*] :
 
 1° Le nom, l'adresse et la qualité du prescripteur, sa signature et la date à
 laquelle elle a été rédigée ;
