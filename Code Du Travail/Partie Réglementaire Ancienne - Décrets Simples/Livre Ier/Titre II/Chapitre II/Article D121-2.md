@@ -44,5 +44,7 @@ l'étranger ;
 Les activités de coopération, d'assistance technique, d'ingénierie et de
 recherche à l'étranger ;
 
-La recherche scientifique réalisée par des chercheurs étrangers résidant
-temporairement en France.
+La recherche scientifique réalisée dans le cadre d'une convention
+internationale, d'un arrangement administratif international pris en application
+d'une telle convention, ou par des chercheurs étrangers résidant temporairement
+en France.
