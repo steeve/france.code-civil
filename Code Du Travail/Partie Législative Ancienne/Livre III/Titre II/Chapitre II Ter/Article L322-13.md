@@ -1,13 +1,13 @@
 Article L322-13
 ----
 I. - Les gains et rémunérations, au sens de l'article L. 242-1 du code de la
-sécurité sociale ou de l'article 1031 du code rural, versés au cours d'un mois
-civil aux salariés embauchés dans les zones de redynamisation urbaine définies
-au A du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation
-pour l'aménagement et le développement du territoire et dans les zones de
-revitalisation rurale définies à l'article 1465 A du code général des impôts
-sont, dans les conditions fixées aux II et III, exonérés des cotisations à la
-charge de l'employeur au titre des assurances sociales, des allocations
+sécurité sociale ou de l'article 1031 (1) du code rural, versés au cours d'un
+mois civil aux salariés embauchés dans les zones de redynamisation urbaine
+définies au A du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995
+d'orientation pour l'aménagement et le développement du territoire et dans les
+zones de revitalisation rurale définies à l'article 1465 A du code général des
+impôts sont, dans les conditions fixées aux II et III, exonérés des cotisations
+à la charge de l'employeur au titre des assurances sociales, des allocations
 familiales et des accidents du travail dans la limite du produit du nombre
 d'heures rémunérées par le montant du salaire minimum de croissance majoré de 50
 p. 100.
@@ -36,7 +36,11 @@ une durée d'au moins douze mois.
 IV. - L'employeur qui remplit les conditions fixées ci-dessus en fait la
 déclaration par écrit à la direction départementale du travail, de l'emploi et
 de la formation professionnelle dans les trente jours à compter de la date
-d'effet du contrat de travail.
+d'effet du contrat de travail. A défaut d'envoi de cette déclaration dans le
+délai imparti, le droit à l'exonération n'est pas applicable aux cotisations
+dues sur les gains et rémunérations versés de la date de l'embauche au jour de
+l'envoi ou du dépôt de la déclaration, cette période étant imputée sur la durée
+d'application de l'exonération.
 
 Le bénéfice de l'exonération ne peut être cumulé, pour l'emploi d'un même
 salarié, avec celui d'une aide de l'Etat à l'emploi ou d'une autre exonération
