@@ -25,6 +25,6 @@ ou regroupement de parcelles, remembrement et, d'une manière générale, dans
 toutes les opérations mettant fin aux baux à complant.
 
 Les tiers intéressés ont toujours le droit de présenter leurs dires et
-observations devant la commission prévue à l'article L. 411-5, devant qu'ils
+observations devant la commission prévue à l'article L. 441-5, devant qu'ils
 sont convoqués à cet effet et qui statue sur la réparation du préjudice qu'ils
 ont pu subir.
