@@ -1,7 +1,6 @@
 Article R343-11
 ----
-La dotation d'installation ou la majoration prévue à l'article R. 343-9 peut
-être refusée par le préfet, après avis de la commission départementale
-d'orientation de l'agriculture , si, compte tenu de la situation économique ou
-financière de l'intéressé, elle n'est manifestement pas nécessaire à la reprise
-ou la création d'une exploitation agricole.
+La dotation d'installation peut être refusée par le préfet, après avis de la
+commission départementale d'orientation de l'agriculture, si, compte tenu de la
+situation économique ou financière du demandeur, elle n'est manifestement pas
+nécessaire à la reprise ou à la création d'une exploitation agricole.

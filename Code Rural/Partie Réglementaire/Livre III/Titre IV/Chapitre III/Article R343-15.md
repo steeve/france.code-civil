@@ -1,19 +1,24 @@
 Article R343-15
 ----
-Les prêts à moyen terme spéciaux peuvent être réalisés dans un délai maximum de
-dix ans à compter de la date d'installation.
+Le jeune agriculteur ou la société au sein de laquelle il s'établit peut
+bénéficier d'un prêt à moyen terme spécial pendant dix ans à compter de
+l'installation dans la limite d'un plafond de réalisation fixé par l'arrêté
+prévu à l'article R. 343-16. Les dépenses mentionnées au a du 1° de l'article R.
+343-13 ne peuvent toutefois être financées par un prêt à moyen terme spécial que
+pendant les cinq premières années suivant l'installation. Les dépenses
+mentionnées au 2° de l'article R. 343-13 sont limitées à un montant maximum fixé
+par l'arrêté mentionné à l'article R. 343-16.
 
-Ces prêts sont attribués par les établissements de crédit qui ont passé, à cet
-effet, une convention avec le ministre de l'agriculture et le ministre chargé de
-l'économie.
+Le jeune agriculteur ou la société au sein de laquelle il s'établit peut
+également solliciter un prêt spécial de modernisation mentionné à l'article R.
+344-13 :
 
-Après l'expiration d'un délai de six mois à compter de la clôture du deuxième
-exercice comptable complet, l'attribution de tout nouveau prêt bonifié est
-subordonnée à la présentation des résultats de la comptabilité.
+1° Lorsque le prêt est sollicité au terme des cinq années suivant l'installation
+;
 
-Le prêt est octroyé en fonction de la situation financière de l'exploitation,
-appréciée notamment par le rapport existant entre la charge annuelle de
-remboursement en capital et intérêts des prêts à long et moyen terme, y compris
-celle du prêt sollicité, et l'excédent brut d'exploitation. Un arrêté conjoint
-du ministre de l'agriculture et du ministre chargé de l'économie fixe les
-modalités d'application du présent alinéa.
+2° Ou lorsque le prêt est sollicité avant le délai de cinq ans si le demandeur a
+contracté un prêt à moyen terme spécial pour financer les dépenses mentionnées
+au 1° de l'article R. 343-13 pour un montant minimum fixé par l'arrêté mentionné
+à l'article R. 343-16. Il ne peut plus alors contracter de prêts à moyen terme
+spéciaux pour financer les dépenses mentionnées au a du 1° de l'article R.
+343-13.
