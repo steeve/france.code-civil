@@ -1,8 +1,8 @@
 Article R612-71
 ----
 Le brevet est délivré au nom du demandeur par décision du directeur général de
-l'Institut national de la propriété industrielle. Notification de cette décision
-est faite au demandeur.
+l'Institut national de la propriété industrielle. Cette décision est notifiée au
+demandeur, accompagnée d'un exemplaire certifié conforme du brevet.
 
 En cas de cession de la demande, le brevet est délivré au nom du dernier
 cessionnaire inscrit au Registre national des brevets jusqu'au paiement de la

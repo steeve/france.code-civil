@@ -15,3 +15,12 @@ Tout délai expire le dernier jour à vingt-quatre heures.
 
 Le délai qui expirerait normalement un samedi, un dimanche ou un jour férié ou
 chômé est prorogé jusqu'au premier jour ouvrable suivant.
+
+Le délai qui expirerait normalement un jour où l'une des délégations régionales
+de l'Institut national de la propriété industrielle n'est pas ouverte est
+prorogé jusqu'au premier jour où toutes les délégations régionales de l'institut
+sont ouvertes.
+
+La liste des jours mentionnés à l'alinéa précédent est établie chaque année par
+le directeur général de l'Institut national de la propriété industrielle. Elle
+est publiée au Bulletin officiel de la propriété industrielle.

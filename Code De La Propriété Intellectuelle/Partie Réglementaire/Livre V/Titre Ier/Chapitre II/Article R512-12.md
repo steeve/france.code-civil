@@ -1,17 +1,18 @@
 Article R512-12
 ----
-La demande de relevé de déchéance prévue à l'article L. 512-3 est présentée au
-directeur général de l'institut.
+La demande de relevé de déchéance prévue à l'article L. 512-3 doit être formée
+dans un délai de deux mois à compter de la cessation de l'empêchement, et l'acte
+non accompli doit l'être dans le même délai. Elle n'est plus recevable après un
+délai préfixe de six mois décompté à partir de l'expiration du délai non
+observé.
 
-Est déclarée irrecevable toute demande :
+La demande est présentée au directeur général de l'institut par le titulaire du
+dépôt, qui doit être le titulaire inscrit au Registre national des dessins et
+modèles si le dépôt est publié, ou son mandataire.
 
-1° Non précédée de l'accomplissement de la formalité omise ;
+La demande n'est recevable qu'après paiement de la redevance prescrite.
 
-2° Présentée plus de deux mois à compter de la cessation de l'empêchement ;
+La demande est écrite. Elle indique les faits et justifications invoqués à son
+appui.
 
-3° Portant sur un délai échu depuis plus de six mois ;
-
-4° Non accompagnée de la justification du paiement de la redevance prescrite.
-
-La décision est motivée. Elle est notifiée au demandeur et inscrite d'office au
-Registre national des dessins et modèles.
+La décision motivée est notifiée au demandeur.

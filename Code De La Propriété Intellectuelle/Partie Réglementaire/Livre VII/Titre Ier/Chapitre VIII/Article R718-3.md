@@ -7,6 +7,7 @@ l'institut ou au dernier propriétaire inscrit au Registre national des marques 
 
 2° Soit au mandataire du titulaire ou du propriétaire susmentionné.
 
-Si le propriétaire est domicilié à l'étranger, la notification est réputée
-régulière lorsqu'elle est faite au dernier mandataire qu'il a constitué auprès
-de l'institut.
+Si le titulaire n'est pas domicilié dans un Etat membre de la Communauté
+européenne ou dans un Etat partie à l'accord sur l'Espace économique européen,
+la notification est réputée régulière si elle est faite au dernier mandataire
+qu'il a constitué auprès de l'institut.

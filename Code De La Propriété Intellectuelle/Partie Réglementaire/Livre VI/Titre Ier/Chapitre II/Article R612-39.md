@@ -8,7 +8,8 @@ brevet est rendue publique.
 A compter du jour de la publication prévue à l'alinéa précédent, toute personne
 peut prendre connaissance à l'Institut national de la propriété industrielle des
 pièces du dossier de la demande de brevet et en obtenir reproduction à ses
-frais.
+frais. L'institut peut subordonner l'usage de cette faculté à la justification
+d'un intérêt suffisant.
 
 Toute demande pour laquelle a été requis le bénéfice de la date de dépôt d'une
 ou plusieurs demandes antérieures dans les conditions prévues à l'article L.

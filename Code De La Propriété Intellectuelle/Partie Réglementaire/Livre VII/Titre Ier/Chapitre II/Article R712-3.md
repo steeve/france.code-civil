@@ -28,8 +28,7 @@ c) Si le caractère distinctif du signe déposé à titre de marque a été acqu
 l'usage, la justification de cet usage ;
 
 d) S'il s'agit d'une marque collective de certification, le règlement
-déterminant les conditions auxquelles est subordonné l'usage de la marque et la
-justification de l'homologation correspondante ;
+déterminant les conditions auxquelles est subordonné l'usage de la marque ;
 
 e) Si le déposant est un étranger qui n'est ni domicilié, ni établi sur le
 territoire national, et sous réserve des conventions internationales, la

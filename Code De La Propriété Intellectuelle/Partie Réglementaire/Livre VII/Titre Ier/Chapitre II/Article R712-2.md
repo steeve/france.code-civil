@@ -16,8 +16,9 @@ Communauté européenne ou dans un Etat partie à l'accord sur l'Espace économi
 européen doivent, dans le délai qui leur est imparti par l'institut, constituer
 un mandataire satisfaisant aux conditions prévues à l'alinéa précédent.
 
-En cas de pluralité de déposants, un mandataire commun satisfaisant aux mêmes
-conditions doit être constitué.
+En cas de pluralité de déposants, un mandataire commun doit être constitué. Si
+celui-ci n'est pas l'un des déposants, il doit satisfaire aux conditions prévues
+par le deuxième alinéa.
 
 Sauf lorsqu'il a la qualité de conseil en propriété industrielle, le mandataire
 doit joindre un pouvoir qui s'étend, sous réserve des dispositions des articles

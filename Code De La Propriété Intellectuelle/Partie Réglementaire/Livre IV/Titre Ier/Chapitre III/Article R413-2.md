@@ -2,42 +2,31 @@ Article R413-2
 ----
 Le Conseil supérieur de la propriété industrielle est composé comme suit :
 
-1° Le représentant permanent du ministère des affaires étrangères ;
+1° Un représentant du ministre chargé de la propriété industrielle désigné par
+lui ;
 
-Le représentant permanent du ministère du budget ;
+Un représentant du ministre des affaires étrangères désigné par lui ;
 
-Le représentant permanent du ministère de la justice ;
+Un représentant du ministre de la justice désigné par lui ;
 
-Le représentant permanent du ministère de la défense ;
-
-Le représentant permanent du ministère de la culture ;
-
-Le représentant permanent du ministère de l'agriculture ;
-
-Le représentant permanent du ministère de la santé ;
+Un représentant du ministre chargé de la recherche désigné par lui ;
 
 Le directeur général de l'Institut national de la propriété industrielle ;
 
-Le directeur du Centre d'études internationales de propriété industrielle ou son
-représentant permanent ;
+2° Deux professeurs d'université ;
 
-Le directeur général de l'Agence nationale de valorisation de la recherche ou
-son représentant permanent ;
+Quatre personnalités représentant les intérêts du commerce et de l'industrie ;
 
-2° Quatre professeurs de droit ;
+Deux personnalités représentant le monde de la recherche et de la technologie ;
 
-Quatre personnalités représentant les intérêts des salariés ;
+Trois personnalités représentant les praticiens de la propriété industrielle
+dont le président de la Compagnie nationale des conseils en propriété
+industrielle et un avocat ;
 
-Deux inventeurs ou ingénieurs ;
+Deux représentants des inventeurs indépendants ;
 
-Huit personnalités représentant les intérêts du commerce et de l'industrie ;
+Trois personnalités compétentes en matière de propriété industrielle.
 
-Le président de la Compagnie nationale des conseils en propriété industrielle et
-quatre conseils en propriété industrielle ;
-
-Quatre avocats ;
-
-Quatre personnalités compétentes en matière de propriété industrielle.
-
-Les membres visés au 2° ci-dessus sont nommés pour cinq ans par arrêté du
-ministre chargé de la propriété industrielle.
+Les membres du conseil nommés au titre du 2° le sont pour une durée de trois ans
+par arrêté du ministre chargé de la propriété industrielle, à l'exception du
+président de la Compagnie nationale des conseils en propriété industrielle.

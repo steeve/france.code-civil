@@ -1,7 +1,7 @@
 Article R411-5
 ----
-Le conseil d'administration se réunit, en principe, une fois au cours de chaque
-trimestre. Il est convoqué par son président.
+Le conseil d'administration se réunit au moins deux fois par an. Il est convoqué
+par son président sur un ordre du jour fixé par celui-ci.
 
 Ses délibérations ne sont valables que si sept au moins de ses membres assistent
 à la séance.

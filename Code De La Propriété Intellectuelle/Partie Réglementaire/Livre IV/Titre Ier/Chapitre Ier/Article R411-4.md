@@ -1,15 +1,23 @@
 Article R411-4
 ----
-Le conseil d'administration émet des avis sur les questions portées à son ordre
-du jour par le directeur général de l'Institut national de la propriété
-industrielle.
+Le conseil d'administration définit la politique générale de l'établissement
+dans le cadre des orientations fixées par les ministres de tutelle. Il dispose
+notamment des compétences suivantes :
 
-Il est obligatoirement consulté sur les projets de budget et généralement sur
-tous projets de décision qui doivent être soumis à l'approbation des ministres
-intéressés ou des ministres chargés du contrôle financier de l'établissement.
+1° Il approuve le budget et ses modifications, le compte financier de l'exercice
+clos et l'affectation du résultat et se prononce sur le rapport annuel
+d'activité ;
 
-Le conseil d'administration doit formuler son avis sur les questions qui lui
-sont obligatoirement soumises, dans le délai d'un mois à compter de la date à
-laquelle le président en a été saisi. A l'expiration de ce délai, le directeur
-général peut, si l'urgence le requiert, soumettre les projets de décision
-directement à l'approbation des ministres visés à l'alinéa précédent.
+2° Il fixe les orientations de la politique tarifaire, les conditions générales
+de passation des contrats, conventions et marchés conclus par l'établissement,
+les conditions générales d'emploi et de rémunération du personnel, le règlement
+intérieur de l'établissement ;
+
+3° Il décide de la création ou de la suppression de filiales, des acquisitions
+ou cessions de participations, de l'achat, de la vente ou de la location
+d'immeubles ;
+
+4° Il autorise les emprunts et accepte les dons et legs ;
+
+5° Il décide des actions en justice et des transactions. Il peut déléguer ces
+pouvoirs au directeur général de l'établissement.

@@ -1,5 +1,6 @@
 Article R413-4
 ----
-Le comité peut constituer en son sein des commissions temporaires pour l'examen
-des questions particulières. Il peut également, lorsqu'il le juge utile,
-associer à ses travaux, à titre consultatif, des personnalités compétentes.
+Le conseil peut constituer en son sein des commissions temporaires pour l'examen
+de questions particulières. Il associe à ses travaux les représentants des
+ministères sur les sujets relevant de leurs attributions et peut solliciter le
+concours de personnalités compétentes.

@@ -7,3 +7,6 @@ graphiques ou photographiques des dessins ou modèles ne sont pas soumises aux
 exigences de présentation prévues au 2° de l'article R. 512-3, et le dépôt est
 assorti de la justification du paiement d'une redevance indépendante du nombre
 de reproductions.
+
+Le bénéfice d'un dépôt sous forme simplifiée ne peut être demandé que lors du
+dépôt.

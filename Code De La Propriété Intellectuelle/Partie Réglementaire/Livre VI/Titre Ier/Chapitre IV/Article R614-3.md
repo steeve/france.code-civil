@@ -1,4 +1,5 @@
 Article R614-3
 ----
-Le dépôt par la voie postale est fait dans les conditions prévues par le second
-alinéa de l'article R. 612-1.
+Le dépôt d'une demande de brevet européen peut être effectué par voie postale ou
+par tout mode de télétransmission dans les conditions prévues aux deuxième et
+troisième alinéas de l'article R. 612-1.

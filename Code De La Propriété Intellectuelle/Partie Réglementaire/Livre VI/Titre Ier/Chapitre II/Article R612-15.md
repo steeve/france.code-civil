@@ -23,4 +23,4 @@ déposant certifie que le micro-organisme est le même que celui qui a fait
 l'objet du dépôt initial.
 
 Les organismes habilités à recevoir les dépôts de micro-organismes sont désignés
-par arrêté du ministre chargé de la propriété industrielle.
+par le directeur général de l'Institut national de la propriété industrielle.

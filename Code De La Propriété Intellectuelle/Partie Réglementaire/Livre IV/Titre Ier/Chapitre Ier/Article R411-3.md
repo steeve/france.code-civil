@@ -2,34 +2,31 @@ Article R411-3
 ----
 Le conseil d'administration est composé de douze membres :
 
-1. Un membre du Conseil d'Etat ou de la Cour des comptes, président, nommé pour
-trois ans par arrêté du ministre chargé de la propriété industrielle ;
+1° Une personnalité issue du monde économique et membre du Conseil supérieur de
+la propriété industrielle, président, nommée par arrêté du ministre chargé de la
+propriété industrielle pour une période de trois ans renouvelable une fois ;
 
-2. Le président du Conseil supérieur de la propriété industrielle ou un membre
-dudit conseil désigné par lui ;
+2° Le directeur des affaires civiles et du sceau au ministère de la justice ou
+son représentant ;
 
-3. Le directeur des affaires civiles et du sceau du ministère de la justice ou
-son représentant permanent ;
+3° Le directeur du budget au ministère de l'économie et des finances ou son
+représentant ;
 
-4. Le directeur du budget du ministère de l'économie, des finances et du budget
-ou son représentant permanent ;
+4° Deux représentants du ministre chargé de la propriété industrielle, dont le
+directeur des affaires juridiques ou son représentant ;
 
-5. Le directeur de la comptabilité publique du ministère de l'économie, des
-finances et du budget ou son représentant permanent ;
+5° Le directeur général de l'Agence nationale de valorisation de la recherche ;
 
-6. Deux représentants du ministre chargé de la propriété industrielle, dont le
-directeur de l'administration générale ;
+6° Le président de la Compagnie nationale des conseils en propriété industrielle
+et un représentant des praticiens de la propriété industrielle en entreprise
+nommé par arrêté du ministre chargé de la propriété industrielle pour une
+période de trois ans renouvelable une fois ;
 
-7. Le directeur général de l'Agence nationale de valorisation de la recherche ;
+7° Deux représentants des milieux industriels intéressés à la protection de la
+propriété industrielle nommés par arrêté du ministre chargé de la propriété
+industrielle pour une période de trois ans renouvelable une fois ;
 
-8. Le président de la Compagnie nationale des conseils en propriété industrielle
-;
-
-9. Un représentant des milieux industriels intéressés à la protection
-industrielle, désigné par le ministre chargé de la propriété industrielle pour
-une période de trois ans renouvelable ;
-
-10. Deux représentants du personnel en fonctions dans l'établissement, élus dans
+8° Deux représentants du personnel en fonctions dans l'établissement, élus dans
 des conditions fixées par arrêté du ministre chargé de la propriété
 industrielle.
 

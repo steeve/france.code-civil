@@ -11,11 +11,14 @@ service ;
 3° La délivrance de certificats d'identité et de renseignements concernant les
 antériorités en matière de marques de fabrique, de commerce ou de service ;
 
-4° La centralisation et la conservation des dépôts de dessins et modèles, ainsi
-que leur publication ;
+4° L'organisation du dépôt, de la conservation et de la mise à disposition du
+public des cultures de micro-organismes utilisés par une invention pour laquelle
+un brevet est demandé ;
 
-5° L'enregistrement et la conservation du dépôt des enveloppes doubles destinées
-à faciliter la preuve de la création des dessins et modèles ;
+5° La centralisation et la conservation des dépôts de dessins et modèles et leur
+publication, ainsi que l'enregistrement et la conservation du dépôt des
+enveloppes doubles destinées à faciliter la preuve de la création des dessins et
+modèles ;
 
 6° La tenue des registres de brevets, des marques et des dessins et modèles,
 l'inscription de tous actes affectant la propriété des brevets d'invention, des
@@ -25,10 +28,10 @@ marques de fabrique, de commerce ou de service et des dessins et modèles ;
 protection temporaire de la propriété industrielle dans les expositions, sur les
 récompenses industrielles et sur les marques d'origine ;
 
-8° L'application des accords internationaux en matière de propriété
-industrielle, et notamment les relations administratives avec le Bureau
-international pour la protection de la propriété industrielle à Berne et
-l'Institut international des brevets à La Haye ;
+8° L'application des accords internationaux et la mise en oeuvre d'actions de
+coopération en matière de propriété industrielle, et notamment les relations
+administratives avec l'Organisation mondiale de la propriété intellectuelle et
+l'Organisation européenne des brevets ;
 
 9° La tenue du Registre national du commerce et des sociétés et du Répertoire
 central des métiers ;

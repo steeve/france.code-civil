@@ -3,7 +3,9 @@ Article R422-54
 Le conseil en propriété industrielle :
 
 1° S'abstient dans une même affaire de conseiller, assister ou représenter des
-clients ayant des intérêts opposés ;
+clients ayant des intérêts opposés ; il s'abstient également d'accepter un
+nouveau dossier si le secret des informations confiées par un ancien client
+risque d'être violé ;
 
 2° Observe le secret professionnel : ce secret s'étend notamment aux
 consultations qu'il donne à son client, aux correspondances professionnelles

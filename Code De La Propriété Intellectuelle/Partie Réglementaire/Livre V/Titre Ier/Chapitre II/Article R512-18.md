@@ -1,7 +1,13 @@
 Article R512-18
 ----
-En cas de non-conformité d'une demande d'inscription, il est fait application de
-la procédure prévue à l'article R. 512-9.
+En cas de non-conformité d'une demande d'inscription, notification motivée en
+est faite au demandeur.
 
-La même procédure est applicable aux justifications prévues aux articles R.
-512-16 (3°) et R. 512-17, deuxième alinéa, 2°.
+Un délai lui est imparti pour régulariser sa demande ou présenter des
+observations. A défaut de régularisation ou d'observations permettant de lever
+l'objection, la demande est rejetée par décision du directeur général de
+l'Institut national de la propriété industrielle.
+
+La notification peut être assortie d'une proposition de régularisation. Cette
+proposition est réputée acceptée si le déposant ne la conteste pas dans le délai
+qui lui est imparti.

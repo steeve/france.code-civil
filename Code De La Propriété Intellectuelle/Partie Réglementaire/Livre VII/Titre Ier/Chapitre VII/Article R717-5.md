@@ -1,8 +1,8 @@
 Article R717-5
 ----
 Le délai pour former opposition, conformément à l'article L. 712-4, court à
-partir du premier jour du mois suivant la réception du bulletin Les Marques
-internationales à l'Institut national de la propriété industrielle.
+partir du premier jour du mois suivant la réception du bulletin La Gazette à
+l'Institut national de la propriété industrielle.
 
 L'opposition est notifiée au titulaire de l'enregistrement international par
 l'intermédiaire du bureau international de l'Organisation mondiale de la

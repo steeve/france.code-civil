@@ -4,7 +4,7 @@ Les modalités de présentation du dépôt et le contenu du dossier sont précis
 par arrêté du ministre chargé de la propriété industrielle, notamment en ce qui
 concerne :
 
-1° La déclaration de dépôt et les spécifications matérielles auxquelles doit
+1° La demande d'enregistrement et les spécifications matérielles auxquelles doit
 répondre la reproduction graphique ou photographique prévue à l'article R. 512-3
 ;
 
