@@ -18,9 +18,7 @@ convention temporaire passée à ce sujet entre les époux ;
 - soit absent du domicile en raison d'une séparation de fait des époux ;
 
 Des revenus d'activité professionnelle ni des indemnités de chômage perçues par
-le conjoint du bénéficiaire ;
-
-- soit appelé sous les drapeaux ;
+le conjoint du bénéficiaire :
 
 - soit détenu, les ressources du conjoint étant toutefois prises en
 considération s'il est placé dans le régime de semi-liberté ;
@@ -37,7 +35,7 @@ du mois au cours duquel la vie commune est reprise ;
 Des revenus d'activité professionnelle ou des indemnités de chômage à partir du
 premier jour du mois au cours duquel :
 
-- soit la période d'accomplissement du service national ou de détention expire ;
+- soit la période de détention expire ;
 
 - soit les conditions relatives à l'âge ou au nombre d'enfants auxquels
 l'intéressé se consacre ne sont plus remplies ou il reprend une activité
