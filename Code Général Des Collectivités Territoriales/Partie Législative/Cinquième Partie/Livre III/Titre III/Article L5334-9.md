@@ -22,3 +22,10 @@ Le présent article n'est pas applicable lorsque la communauté ou le syndicat
 d'agglomération nouvelle bénéficie ou a bénéficié, depuis moins de cinq années,
 d'avances remboursables accordées par l'Etat afin d'équilibrer son budget de
 fonctionnement.
+
+Lorsqu'il est fait application des dispositions de l'article 1609 nonies BA du
+code général des impôts, le produit de la taxe professionnelle perçu par la
+communauté ou le syndicat d'agglomération nouvelle, augmenté des compensations,
+mentionné au deuxième alinéa, s'entend après répartition du produit de la taxe
+professionnelle et des compensations y afférentes perçus dans la zone
+d'activités économiques. ;

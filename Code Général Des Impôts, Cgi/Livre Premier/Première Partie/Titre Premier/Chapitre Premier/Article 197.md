@@ -6,10 +6,9 @@ application des règles suivantes pour le calcul de l'impôt sur le revenu :
 1. L'impôt est calculé en appliquant à la fraction de chaque part de revenu qui
 excède 26 230 F le taux de :
 
-10,5 % pour la fraction supérieure à 26 230 F et inférieure ou égale à 51 600 F
-;
+9,5 % pour la fraction supérieure à 26 230 F et inférieure ou égale à 51 600 F ;
 
-24 % pour la fraction supérieure à 51 600 F et inférieure ou égale à 90 820 F ;
+23 % pour la fraction supérieure à 51 600 F et inférieure ou égale à 90 820 F ;
 
 33 % pour la fraction supérieure à 90 820 F et inférieure ou égale à 147 050 F ;
 
@@ -46,10 +45,10 @@ réduction d'impôt ne peut toutefois excéder l'augmentation de la cotisation
 d'impôt résultant du plafonnement.
 
 3. Le montant de l'impôt résultant de l'application des dispositions précédentes
-est réduit de 30 p. 100, dans la limite de 33 310 F, pour les contribuables
+est réduit de 30 %, dans la limite de 33 310 F, pour les contribuables
 domiciliés dans les départements de la Guadeloupe, de la Martinique et de la
-Réunion ; cette réduction est égale à 40 p. 100, dans la limite de 44 070 F,
-pour les contribuables domiciliés dans le département de la Guyane.
+Réunion ; cette réduction est égale à 40 %, dans la limite de 44 070 F, pour les
+contribuables domiciliés dans le département de la Guyane.
 
 4. Le montant de l'impôt résultant de l'application des dispositions précédentes
 est diminué, dans la limite de son montant, de la différence entre 3 350 F et

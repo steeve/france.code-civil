@@ -21,6 +21,13 @@ variation du produit de la taxe professionnelle perçu par la communauté ou le
 syndicat d'agglomération nouvelle, augmenté des compensations prévues aux
 articles 1469 A bis, 1472, 1472 A et 1472 A bis du code général des impôts.
 
+Lorsqu'il est fait application des dispositions de l'article 1609 nonies BA du
+code général des impôts, le produit de la taxe professionnelle perçu par la
+communauté ou le syndicat d'agglomération nouvelle sur son territoire, augmenté
+des compensations, mentionné aux alinéas précédents, s'entend après répartition
+du produit de la taxe professionnelle et des compensations y afférentes perçus
+dans la zone d'activités économiques. ;
+
 2° Une contribution de chaque commune dont le potentiel fiscal par habitant
 excède trois fois le potentiel fiscal moyen par habitant des communes membres de
 la communauté ou du syndicat d'agglomération nouvelle. Le montant de la
