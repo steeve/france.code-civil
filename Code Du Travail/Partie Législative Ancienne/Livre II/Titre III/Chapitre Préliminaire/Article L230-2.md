@@ -59,4 +59,9 @@ de l'établissement et à tous les niveaux de l'encadrement ;
 
 b) Lorsqu'il confie des tâches à un travailleur, prendre en considération les
 capacités de l'intéressé à mettre en oeuvre les précautions nécessaires pour la
-sécurité et la santé.
+sécurité et la santé ;
+
+c) Consulter les travailleurs ou leurs représentants sur le projet
+d'introduction et l'introduction de nouvelles technologies mentionnées à
+l'article L. 432-2, en ce qui concerne leurs conséquences sur la sécurité et la
+santé des travailleurs.
