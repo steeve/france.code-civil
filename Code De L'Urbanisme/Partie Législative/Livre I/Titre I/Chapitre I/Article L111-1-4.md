@@ -29,12 +29,12 @@ sécurité, de la qualité architecturale, ainsi que de la qualité de l'urbanis
 et des paysages.
 
 Dans les communes dotées d'une carte communale, le conseil municipal peut, avec
-l'accord du préfet et après avis de la commission départementale des sites,
-fixer des règles d'implantation différentes de celles prévues par le présent
-article au vu d'une étude justifiant, en fonction des spécificités locales, que
-ces règles sont compatibles avec la prise en compte des nuisances, de la
-sécurité, de la qualité architecturale, ainsi que de la qualité de l'urbanisme
-et des paysages.
+l'accord du préfet et après avis de la commission départementale compétente en
+matière de nature, de paysages et de sites, fixer des règles d'implantation
+différentes de celles prévues par le présent article au vu d'une étude
+justifiant, en fonction des spécificités locales, que ces règles sont
+compatibles avec la prise en compte des nuisances, de la sécurité, de la qualité
+architecturale, ainsi que de la qualité de l'urbanisme et des paysages.
 
 Il peut être dérogé aux dispositions du présent article, avec l'accord du
 préfet, lorsque les contraintes géographiques ne permettent pas d'implanter les
