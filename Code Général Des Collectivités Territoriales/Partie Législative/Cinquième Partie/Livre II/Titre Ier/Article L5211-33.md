@@ -80,7 +80,11 @@ précédente.
 Une communauté d'agglomération, créée ex nihilo, perçoit la deuxième année
 d'attribution de la dotation une attribution par habitant au moins égale à celle
 perçue l'année précédente, augmentée comme la dotation forfaitaire prévue à
-l'article L. 2334-7.
+l'article L. 2334-7.. En outre, elle ne peut au titre des troisième, quatrième
+et cinquième années d'attribution dans la même catégorie et sous réserve de
+l'application des 2° et 3° du présent II, percevoir une attribution par habitant
+inférieure, respectivement, à 95 %, 90 % et 85 % de la dotation par habitant
+perçue l'année précédente.
 
 Les syndicats ou communautés d'agglomération nouvelle perçoivent une attribution
 qui progresse chaque année comme la dotation forfaitaire prévue à l'article L.

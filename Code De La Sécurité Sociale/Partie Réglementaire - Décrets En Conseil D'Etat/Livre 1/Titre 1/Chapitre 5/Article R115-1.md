@@ -24,4 +24,8 @@ ou partiellement en charge par l'assurance maladie, y compris les comptables
 publics attachés le cas échéant à ces établissements ;
 
 5° Les collectivités publiques qui servent des prestations d'aide sociale,
-visées à l'article L. 182-1.
+visées à l'article L. 182-1 ;
+
+6° Les organismes gérant les régimes mentionnés aux articles L. 223-16 et L.
+351-2 du code du travail, ainsi que l'organisme mentionné au dernier membre de
+phrase du premier alinéa du I de l'article L. 133-5.
