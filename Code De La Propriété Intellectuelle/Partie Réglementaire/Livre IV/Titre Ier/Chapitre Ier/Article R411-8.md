@@ -1,7 +1,11 @@
 Article R411-8
 ----
-L'Institut national de la propriété industrielle est soumis au contrôle
-financier de l'Etat prévu par le décret du 25 octobre 1935.
+Le contrôle de l'Institut national de la propriété industrielle, et notamment le
+contrôle a posteriori de l'exécution du budget, est exercé par un contrôleur
+d'Etat, selon les modalités fixées par le décret n° 55-733 du 26 mai 1955
+modifié portant codification et aménagement des textes relatifs au contrôle
+économique et financier de l'Etat.
 
-Les attributions du contrôleur financier sont fixées par arrêté conjoint du
-ministre intéressé et du ministre chargé du budget.
+Les modalités spéciales d'exercice de ce contrôle sont fixées par arrêté
+conjoint des ministres chargés de la propriété industrielle, de l'économie et du
+budget.
