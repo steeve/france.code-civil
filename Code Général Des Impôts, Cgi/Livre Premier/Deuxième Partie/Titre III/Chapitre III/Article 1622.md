@@ -5,9 +5,9 @@ décret n° 57-1360 du 30 décembre 1957 modifié, est alimenté par une contrib
 des exploitants assurés perçue sur les primes d'assurances acquittées au titre
 de la législation sur les accidents du travail agricole et établie suivant les
 modalités déterminées par décret pris sur le rapport du ministre de l'économie
-et des finances, du ministre de l'agriculture et du secrétaire d'Etat au budget
-(1). Cette contribution est recouvrée en même temps que les primes par les
-organismes d'assurances et la caisse nationale d'assurances en cas d'accident.
+et des finances, du ministre de l'agriculture et du secrétaire d'Etat au budget.
+Cette contribution est recouvrée en même temps que les primes par les organismes
+d'assurances et la caisse nationale de prévoyance (1).
 
 Le décret prévu ci-dessus détermine les conditions dans lesquelles sont
 effectués les versements des sociétés d'assurances, des syndicats de garantie et
