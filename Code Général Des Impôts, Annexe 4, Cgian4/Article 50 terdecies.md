@@ -1,7 +1,7 @@
 Article 50 terdecies
 ----
-Le tarif de la redevance sanitaire d'abattage perçue jusqu'au 31 décembre 1991
-s'établit comme suit :
+Le tarif de la redevance sanitaire d'abattage perçue du 1er janvier 1992
+jusqu'au 31 décembre 1992 s'établit comme suit :
 
 Pour les gros bovins : 86 F par tonne, 0,086 F par kilogramme.
 
