@@ -3,7 +3,8 @@ Article 10 F
 En cas de cession ou de cessation d'entreprise ou de décès de l'exploitant, la
 provision pour reconstitution des gisements figurant au dernier bilan est
 considérée comme un élément du bénéfice immédiatement imposable dans les
-conditions fixées par les articles 201 et 204-2 du code général des impôts.
+conditions fixées par l'article 201 et le 2 de l'article 204 du code général des
+impôts.
 
 Toutefois, la provision n'est pas rapportée au bénéfice imposable lorsque
 l'exploitation du fonds d'industrie est continuée dans les conditions prévues
@@ -17,4 +18,4 @@ d'inscrire immédiatement à leur passif la provision figurant dans les écritur
 du précédent exploitant, des sociétés fusionnées ou de la société apporteuse et
 qui était afférente aux éléments transférés et de l'utiliser avant l'expiration
 du délai imparti à l'ancien exploitant dans les conditions prévues aux articles
-10 C, 10 C quater et 10 C sexies et sous les sanctions fixées à l'article 10 E.
+10 C et 10 C sexies et sous les sanctions fixées à l'article 10 E.

@@ -5,50 +5,51 @@ marchés agricoles une taxe parafiscale perçue dans les limites des taux fixés
 ci-dessous sur les produits résineux énumérés ci-après par référence au tarif
 des douanes :
 
-------------------------------------------------------------------- : NUMEROS :
-: :
+:===============:====================================:============:
 
-: du tarif : DESIGNATION : TAUX :
+: NUMEROS : : :
 
-: des droits : des produits : par :
+: du tarif des : : TAUX par :
 
-: de douane : : quintal :
+: droits de : DESIGNATION DES PRODUITS : quintal :
 
-: d'importation : : :
+: douane : : :
 
-:---------------:---------------------------------------:---------:
+: d'importation : : F :
 
-: : : F :
+:---------------:------------------------------------:------------:
 
 : 38-05 A et B : Tall oil brut et autre : 1,50 :
 
 : 38-07 A : Essence de térébenthine : 1,50 :
 
-: 38-07 BI : Essence de papeterie au sulfate : :
+: 38-07 B I : Essence de papeterie au sulfate, : :
 
 : : dipenthène brut : 1,50 :
 
-: 38-07 BII : Non dénommés : : 1,50 :
+: 38-07 B II : Non dénommés : : :
 
 : : a. Huile de pin : 1,50 :
 
 : : b. Autres : 1,50 :
 
-: 38-08 A : Colophane (y compris les produits : :
+: 38-08 A : Colophane (y compris les : :
 
-: : dits brais résineux) : 3,50 :
+: : produits dits brais résineux) : 3,50 :
 
-: 38-08 B : Essence de résine et huiles de résine : 3,50 :
+: 38-08 B : Essence de résine et huiles de : :
+
+: : résine : 3,50 :
 
 : 38-08 C : Autres : : :
 
 : : I. Acides résiniques : 3,50 :
 
-: : II. Autres (y compris les dérivés : :
+: : II. Autres (y compris les : :
 
-: : des acides résiniques et des : 3,50 :
+: : dérivés des acides résiniques : :
 
-: : colophanes) : 3,50 :
+: : et des colophanes) : 3,50 :
 
 : Ex. 38-10 B : Liants à base de résineux naturels : 3,50 :
 
@@ -56,13 +57,14 @@ des douanes :
 
 : : résiniques : 3,50 :
 
-=================================================================== b. La taxe
-est due par les personnes qui fabriquent, font fabriquer ou importent en France
-les produits imposables [*redevables*].
+:=================================================================:
+
+b. La taxe est due par les personnes qui fabriquent, font fabriquer ou importent
+en France les produits imposables.
 
 c. En ce qui concerne les produits fabriqués en France, la taxe est exigible au
 stade de la première vente ou, pour les entreprises intégrées, du transfert de
-ces produits aux ateliers de transformation [*date d'exigibilité*].
+ces produits aux ateliers de transformation.
 
 En ce qui concerne les produits importés, la taxe est exigible lors de la mise à
 la consommation.
