@@ -28,11 +28,11 @@ d) Les nues-propriétés et les usufruits sont évalués suivant les règles
 déterminées par arrêté du ministre chargé de l'économie.
 
 Dans tous les cas, sont déduits, s'il y a lieu, les remboursements effectués et
-les provisions pour dépréciation, lesquelles ne peuvent être constatées que
-lorsqu'il y a lieu de considérer que la dépréciation a un caractère durable.
-Toutefois, les entreprises qui, au bilan du dernier exercice clos avant le 1er
-janvier 1993, constataient les dépréciations, même lorsque celles-ci n'avaient
-pas un caractère durable, peuvent continuer à faire application de cette méthode
-jusqu'au dernier exercice clos avant le 1er janvier 1999 ; elles peuvent y
-renoncer à tout moment, en le notifiant préalablement à la commission de
-contrôle des assurances, cette renonciation étant alors définitive.
+les dépréciations, lesquelles ne peuvent être constatées que lorsqu'il y a lieu
+de considérer qu'elles ont un caractère durable. Toutefois, les entreprises qui,
+au bilan du dernier exercice clos avant le 1er janvier 1993, constataient les
+dépréciations, même lorsque celles-ci n'avaient pas un caractère durable,
+peuvent continuer à faire application de cette méthode jusqu'au dernier exercice
+clos avant le 1er janvier 1999 ; elles peuvent y renoncer à tout moment, en le
+notifiant préalablement à la commission de contrôle des assurances, cette
+renonciation étant alors définitive.
