@@ -14,12 +14,6 @@ indépendants désignés par les organisations professionnelles d'employeurs et 
 travailleurs indépendants représentatives, ainsi que les conditions de
 fonctionnement et de gestion du fonds sont fixées par décret en Conseil d'Etat.
 
-Le Fonds de solidarité vieillesse gère également le Fonds de financement de
-l'allocation personnalisée d'autonomie institué par l'article L. 232-21 du code
-de l'action sociale et des familles, ainsi que le fonds de financement de la
-réforme des cotisations patronales de sécurité sociale institué par l'article L.
-131-8.
-
 Le fonds de solidarité vieillesse peut à titre dérogatoire recruter des agents
 de droit privé régis par les conventions collectives applicables au personnel
 des organismes de sécurité sociale.
