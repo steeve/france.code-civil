@@ -26,6 +26,28 @@ et des finances.
 
 IV. (Disjoint. Disposition non fiscale).
 
+V. 1. L'Etat opère un prélèvement (3) au titre des frais d'assiette, de
+recouvrement, de dégrèvement et de non-valeurs afférents aux droits et taxes
+transférés aux départements et à la région de Corse en application des articles
+1594 A, 1599 C et 1599 nonies. Ce prélèvement est calculé en sus des droits et
+taxes.
+
+2. Les sommes perçues au titre des frais d'assiette et de recouvrement afférents
+à la taxe de publicité foncière et aux droits d'enregistrement sont recouvrées
+en négligeant les centimes (4).
+
+3. Les frais d'assiette et de recouvrement afférents à la taxe différentielle
+sur les véhicules à moteur et à la taxe spéciale sur les voitures particulières
+de plus de 16 CV sont perçus dans les conditions fixées aux articles 1599 I et
+1599 nonies, deuxième alinéa (5).
+
 (1) Pour les taxes parafiscales, voir Annexe II, art. 367.
 
 (2) Voir Annexe IV, art. 161 A à 164.
+
+(3) Pour 1984, ce prélèvement est égal à 2,5 % du montant des droits et taxes.
+
+(4) Frais perçus à compter du 1er août 1984.
+
+(5) Frais perçus à compter de la période d'imposition s'ouvrant le 1er décembre
+1984.
