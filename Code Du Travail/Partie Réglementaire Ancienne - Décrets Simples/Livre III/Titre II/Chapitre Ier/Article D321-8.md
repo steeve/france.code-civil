@@ -39,5 +39,10 @@ Dix mois de salaire brut pour le salarié âgé de cinquante-huit ans ;
 
 Huit mois de salaire brut pour le salarié âgé de cinquante-neuf ans ou plus.
 
+Le cas échéant, le montant de la cotisation fixée au premier et au deuxième
+alinéa du présent article est diminué d'un montant égal à celui de la
+participation forfaitaire prévue par l'article D. 322-3 pour la rupture d'un
+contrat de travail suivie d'une adhésion à une convention de conversion.
+
 L'âge du salarié s'apprécie à la date à laquelle le contrat de travail prend
 fin.
