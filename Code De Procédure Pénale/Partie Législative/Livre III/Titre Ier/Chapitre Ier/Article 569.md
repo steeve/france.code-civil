@@ -9,7 +9,9 @@ décerne elle-même mandat sous les mêmes conditions et selon les mêmes règle
 
 Le contrôle judiciaire prend fin, sauf si la cour d'appel en décide autrement,
 lorsqu'elle prononce une condamnation à l'emprisonnement sans sursis ou assorti
-du sursis avec mise à l'épreuve.
+du sursis avec mise à l'épreuve. Lorsqu'un cautionnement a été fourni, les
+dispositions des premier et deuxième alinéas de l'article 142-2 et du deuxième
+alinéa de l'article 142-3 sont applicables.
 
 En cas d'acquittement, d'absolution ou de condamnation soit à l'emprisonnement
 assorti du sursis simple ou du sursis avec mise à l'épreuve, soit à l'amende, le

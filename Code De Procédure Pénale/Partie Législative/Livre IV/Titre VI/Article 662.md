@@ -20,7 +20,3 @@ soit autrement ordonné par la Cour de cassation.
 Le procureur général près la Cour de cassation peut aussi et dans les mêmes
 formes demander à la chambre criminelle le renvoi d'une affaire d'une
 juridiction à une autre dans l'intérêt d'une bonne administration de la justice.
-
-En cas de rejet d'une demande de renvoi pour cause de suspicion légitime, la
-chambre crinimelle peut ordonner le renvoi dans le même intérêt d'une bonne
-administration de la justice.
