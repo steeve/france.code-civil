@@ -25,5 +25,7 @@ professionnelle.
 
 Cette dispense ne peut excéder un an.
 
-La décision collective mentionnée au premier alinéa peut accorder à titre
-temporaire les dispenses de travail pour des motifs fixés par décret.
+4. A l'associé justifiant d'un an au moins de travail effectif et permanent au
+sein du groupement, et d'une situation lui donnant droit à l'allocation
+parentale d'éducation prévue à l'article L. 532-1, premier alinéa, du code de la
+sécurité sociale.
