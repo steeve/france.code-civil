@@ -12,3 +12,10 @@ ces organismes aux objectifs poursuivis par l'appel à la générosité publique
 Ce contrôle peut comporter des vérifications auprès d'autres organismes qui
 reçoivent des organismes mentionnés au premier alinéa, sous quelque forme que ce
 soit, des ressources collectées dans le cadre de ces campagnes.
+
+La Cour des comptes peut contrôler, dans des conditions prévues par un décret en
+Conseil d'Etat, la conformité entre les objectifs des organismes visés à
+l'article 4-1 de la loi n° 87-571 du 23 juillet 1987 sur le développement du
+mécénat et les dépenses financées par les dons ouvrant droit, au bénéfice des
+donateurs, à un avantage fiscal au titre de l'impôt sur le revenu ou de l'impôt
+sur les sociétés.
