@@ -1,44 +1,68 @@
 Article 238 bis
 ----
-1. Les entreprises assujetties à l'impôt sur le revenu ou à l'impôt sur les
-sociétés sont autorisées à déduire du montant de leur résultat, dans la limite
-de 2,25 p. 1 000 de leur chiffre d'affaires, les versements qu'elles ont
-effectués au profit d'oeuvres ou d'organismes d'intérêt général ayant un
-caractère philanthropique, éducatif, scientifique, social, humanitaire, sportif,
-familial, culturel ou concourant à la mise en valeur du patrimoine artistique, à
-la défense de l'environnement naturel ou à la diffusion de la culture, de la
-langue et des connaissances scientifiques françaises notamment quand ces
-versements sont faits au bénéfice d'une fondation d'entreprise, même si cette
-dernière porte le nom de l'entreprise fondatrice.
+1. Ouvrent droit à une réduction d'impôt égale à 60 % de leur montant les
+versements, pris dans la limite de 5 pour mille du chiffre d'affaires, effectués
+par les entreprises assujetties à l'impôt sur le revenu ou à l'impôt sur les
+sociétés au profit :
 
-Les dispositions du premier alinéa s'appliquent même si le nom de l'entreprise
-versante est associé aux opérations réalisées par ces organismes.
+a) D'oeuvres ou d'organismes d'intérêt général ayant un caract ère
+philanthropique, éducatif, scientifique, social, humanitaire, sportif, familial,
+culturel ou concourant à la mise en valeur du patrimoine artistique, à la
+défense de l'environnement naturel où à la diffusion de la culture, de la langue
+et des connaissances scientifiques françaises, notamment quand ces versements
+sont faits au bénéfice d'une fondation d'entreprise, même si cette dernière
+porte le nom de l'entreprise fondatrice. Ces dispositions s'appliquent même si
+le nom de l'entreprise versante est associé aux opérations réalisées par ces
+organismes ;
 
-2. La limite de déduction mentionnée au 1 est fixée à 3,25 p. 1 000 pour les
-dons faits à des fondations ou associations reconnues d'utilité publique ou à
-des musées de France et répondant aux conditions fixées au 1, ainsi qu'aux
-associations cultuelles ou de bienfaisance qui sont autorisées à recevoir des
-dons et legs et aux établissements publics des cultes reconnus d'Alsace-Moselle.
+b) De fondations ou associations reconnues d'utilité publique ou des musées de
+France et répondant aux conditions fixées au a, ainsi que d'associations
+cultuelles ou de bienfaisance qui sont autorisées à recevoir des dons et legs et
+des établissements publics des cultes reconnus d'Alsace-Moselle. La condition
+relative à la reconnaissance d'utilité publique est réputée remplie par les
+associations régies par la loi locale maintenue en vigueur dans les départements
+de la Moselle, du Bas-Rhin et du Haut-Rhin lorsque la mission de ces
+associations est reconnue d'utilité publique. Un décret en Conseil d'Etat fixe
+les conditions de cette reconnaissance et les modalités de procédure permettant
+de l'accorder ;
 
-La condition relative à la reconnaissance d'utilité publique est réputée remplie
-par les associations régies par la loi locale maintenue en vigueur dans les
-départements de la Moselle, du Bas-Rhin et du Haut-Rhin, lorsque la mission de
-ces associations est reconnue d'utilité publique.
-
-Un décret en Conseil d'Etat fixe les conditions de cette reconnaissance et les
-modalités de procédure déconcentrée permettant de l'accorder.
-
-Sont également déductibles dans la limite visée au premier alinéa les versements
-faits à des établissements d'enseignement supérieur ou d'enseignement artistique
-publics, ou privés à but non lucratif agréés par le ministre chargé du budget
+c) Des établissements d'enseignement supérieur ou d'enseignement artistique,
+publics ou privés, à but non lucratif, agréés par le ministre chargé du budget
 ainsi que par le ministre chargé de l'enseignement supérieur ou par le ministre
-chargé de la culture.
+chargé de la culture ;
 
-3. Lorsque les limites fixées aux 1 et 2 sont dépassées au cours d'un exercice,
-l'excédent peut être déduit des résultats des cinq exercices suivants, après
-déduction des versements effectués au titre de chacun de ces exercices, sans
-qu'il puisse en résulter un dépassement des plafonds de déductibilité définis à
-ces mêmes 1 et 2.
+d) Des sociétés ou organismes publics ou privés agréés à cet effet par le
+ministre chargé du budget en vertu de l'article 4 de l'ordonnance n° 58-882 du
+25 septembre 1958 relative à la fiscalité en matière de recherche scientifique
+et technique ;
+
+e) D'organismes publics ou privés dont la gestion est désintéressée et qui ont
+pour activité principale l'organisation de festivals ayant pour objet la
+présentation au public d'oeuvres dramatiques, lyriques, musicales,
+chorégraphiques, cinématographiques et de cirque, à la condition que les
+versements soient affectés à cette activité. Cette disposition ne s'applique pas
+aux organismes qui présentent des oeuvres à caractère pornographique ou incitant
+à la violence.
+
+Les organismes mentionnés au b peuvent, lorsque leurs statuts ont été approuvés
+à ce titre par décret en Conseil d'Etat, recevoir des versements pour le compte
+d'oeuvres ou d'organismes mentionnés au a.
+
+Lorsque la limite fixée au premier alinéa est dépassée au cours d'un exercice,
+l'excédent de versement peut donner lieu à réduction d'impôt au titre des cinq
+exercices suivants, après prise en compte des versements effectués au titre de
+chacun de ces exercices, sans qu'il puisse en résulter un dépassement du plafond
+défini au premier alinéa.
+
+La limite de 5 pour mille du chiffre d'affaires s'applique à l'ensemble des
+versements effectués au titre du présent article.
+
+Les versements ne sont pas déductibles pour la détermination du bénéfice
+imposable.
+
+2. (abrogé).
+
+3. (abrogé).
 
 4. La déduction mentionnée au 1 peut être effectuée, dans la limite prévue au
 premier alinéa du 2, pour les dons faits à des organismes, dont la gestion est
@@ -68,8 +92,6 @@ agréés par le ministre chargé du budget.
 Un décret en Conseil d'Etat fixe les conditions d'application du présent article
 et les dispositions relatives aux statuts des organismes bénéficiaires des dons.
 
-5. Les organismes mentionnés au premier alinéa du 2 peuvent, lorsque leurs
-statuts ont été approuvés à ce titre par décret en Conseil d'Etat, recevoir des
-versements pour le compte d'oeuvres ou d'organismes mentionnés au 1.
+5. (abrogé).
 
 6. (Abrogé).

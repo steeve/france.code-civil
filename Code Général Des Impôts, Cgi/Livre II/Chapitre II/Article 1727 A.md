@@ -26,3 +26,8 @@ pour les cinq premières annuités de retard, ce taux étant pour les annuités
 suivantes réduit respectivement d'un cinquième, d'un quart ou d'un tiers selon
 que le manquement est constaté avant l'expiration de la dixième, vingtième ou
 trentième année suivant la mutation.
+
+5. Lorsque la convention prévue au premier alinéa de l'article 795 A prend fin
+dans les conditions définies par les dispositions types mentionnées au même
+alinéa, l'intérêt de retard est calculé à compter du premier jour du mois
+suivant celui au cours duquel la convention a pris fin.
