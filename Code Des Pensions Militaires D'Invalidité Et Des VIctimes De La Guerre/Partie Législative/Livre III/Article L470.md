@@ -1,8 +1,8 @@
 Article L470
 ----
-Les enfants adoptés par la nation ont droit, jusqu'à l'accomplissement de leur
-majorité, à la protection, au soutien matériel et moral de l'Etat pour leur
-éducation, dans les conditions et limites prévues par le présent titre.
+Les enfants adoptés par la nation ont droit, jusqu'à l'âge de vingt et un ans, à
+la protection, au soutien matériel et moral de l'Etat pour leur éducation, dans
+les conditions et limites prévues par le présent titre.
 
 Dans le cas d'insuffisance des ressources de la famille, la nation assure la
 charge, partielle ou totale, de leur entretien et de leur éducation.
