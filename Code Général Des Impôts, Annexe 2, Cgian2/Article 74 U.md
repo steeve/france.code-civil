@@ -22,8 +22,7 @@ c) Activités non commerciales ;
 4. Les éléments utiles à l'assiette de la taxe professionnelle :
 
 a) Pour les titulaires de bénéfices industriels et commerciaux, le montant des
-salaires définis au b du 1° du premier alinéa de l'article 1467 du code précité
-;
+rémunérations définies au b du 1° de l'article 1467 du code précité ;
 
 b) Pour les artisans qui remplissent les conditions prévues par le 2° du I de
 l'article 1468 du code général des impôts, le nombre de salariés donnant droit à
