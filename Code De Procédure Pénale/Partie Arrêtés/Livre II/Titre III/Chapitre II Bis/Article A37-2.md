@@ -9,12 +9,10 @@ les références des textes réprimant ladite contravention et, le cas échéant
 sont précisés les éléments d'identification du véhicule et l'obligation de
 procéder à l'échange du permis de conduire.
 
-Un emplacement est réservé pour faire figurer la perte de point(s) que la
-contravention relevée est susceptible d'entraîner.
-
-Sur la partie droite, figurent les précisions nécessaires à l'information du
-contrevenant prévue par le premier alinéa de l'article L. 11-3 du code de la
-route.
+Un emplacement est réservé pour informer l'auteur de la contravention qu'il
+encourt un retrait de points du permis de conduire si la réalité de l'infraction
+est établie ; il est également informé de l'existence d'un traitement automatisé
+de ces points et de la possibilité pour lui d'exercer le droit d'accès.
 
 De même, y figurent les mentions utiles à l'information du contrevenant sur les
 dispositions de l'article 34 de la loi n° 78-17 du 6 janvier 1978 relative à

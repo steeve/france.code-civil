@@ -1,9 +1,9 @@
 Article D635-6
 ----
-Le taux de la cotisation annuelle d'assurance vieillesse complémentaire est fixé
-à compter du 1er janvier 1997 à 4,90 %, à compter du 1er janvier 1998 à 5,30 %,
-à compter du 1er janvier 1999 à 5,70 % et à compter du 1er janvier 2000 à 6 % du
-revenu mentionné aux articles D. 635-4 et D. 635-5.
+Le taux de la cotisation annuelle d'assurance vieillesse complémentaire, assise
+sur le revenu mentionné aux articles D. 635-4 et D. 635-5, est fixé à 6,20 %
+pour l'année 2003, à 6,70 % pour l'année 2004 et à 7 % pour l'année 2005 et les
+années suivantes.
 
 La cotisation annuelle ainsi déterminée est arrondie à l'euro le plus proche.
 

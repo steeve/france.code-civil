@@ -3,8 +3,8 @@ Article A37-3
 Le troisième volet, de format 100 mm x 186 mm et de couleur rose, constitue le
 procès-verbal de contravention qui est conservé par le service auquel appartient
 l'agent verbalisateur ou adressé à l'unité de gendarmerie ou de police
-compétente, quand les agents verbalisateurs sont ceux visés aux articles R.
-250-1 et au 4° de l'article R. 251 du code de la route.
+compétente, quand les agents verbalisateurs sont ceux visés aux 2° et au 8° de
+l'article L. 130-4 du code de la route.
 
 Au recto, sur la partie gauche, sont portées les mentions prévues par les
 deuxième et troisième alinéas de l'article A. 37-2, qui sont établies par
