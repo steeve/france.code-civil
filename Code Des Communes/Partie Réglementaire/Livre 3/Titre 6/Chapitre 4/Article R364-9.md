@@ -1,8 +1,9 @@
 Article R364-9
 ----
-L'assistance à chacune des opérations prévues ci-après ouvre droit pour les
-fonctionnaires désignés par l'article L. 364-5 aux vacations déterminées par le
-présent article :
+L'intervention des fonctionnaires mentionnés à l'article L. 2213-14 du code
+général des collectivités territoriales donne lieu, pour chacune des opérations
+prévues ci-après, au versement des vacations déterminées par le présent article
+:
 
 1° Une vacation par [*durée*] deux heures ou fraction de deux heures pour :
 
@@ -21,7 +22,7 @@ pour le transport d'un corps sans mise en bière ;
 - les vérifications, prévues à l'article R. 364-2, à l'arrivée d'un corps
 transporté sans mise en bière ;
 
-- la mise en bière d'un corps destiné à être transporté hors de la commune où
+-la mise en bière d'un corps destiné à être transporté hors de la commune où
 s'est produit le décès ;
 
 - la mise en bière d'un corps destiné à être déposé dans un caveau provisoire
