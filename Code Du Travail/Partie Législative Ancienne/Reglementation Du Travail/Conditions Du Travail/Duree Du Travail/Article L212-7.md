@@ -8,21 +8,20 @@ heures supplémentaires en vue de permettre l'embauchage de travailleurs sans
 emploi.
 
 La durée moyenne hebdomadaire de travail calculée sur une période quelconque de
-douze semaines consécutives ne peut dépasser /R/cinquante/R/LOI 1253 27-12-1975
-: Quarante-huit// [*limite*] heures. Au cours d'une même semaine, la durée du
-travail ne peut dépasser /R/cinquante sept heures/R/LOI 1253 : Cinquante-deux
-heures//.
+douze semaines consécutives ne peut dépasser quarante-huit [*limite*] heures.
+Dans certaines branches ou dans certaines régions, des décrets peuvent ramener
+cette durée à quarante-six heures. Au cours d'une même semaine, la durée du
+travail ne peut dépasser cinquante heures.
 
 A titre exceptionnel dans certains secteurs, dans certaines régions ou dans
 certaines entreprises, des dérogations applicables à des périodes déterminées
-peuvent être apportées à la limite /R/ de cinquante heures/R/LOI 1253 :
-Quarante-huit heures// fixée ci-dessus.
+peuvent être apportées à la limite quarante-huit heures fixée ci-dessus.
 
 En outre, en cas de circonstances exceptionnelles, certaines entreprises peuvent
-être autorisées à dépasser pendant une période limitée le plafond de
-/R/cinquante sept heures/R/ LOI 1253 : Cinquante-deux heures// fixé au deuxième
-alinéa du présent article, sans toutefois que ce dépassement puisse avoir pour
-effet de porter la durée du travail à plus de soixante heures par semaine.
+être autorisées à dépasser pendant une période limitée le plafond de cinquante
+heures fixé au deuxième alinéa du présent article, sans toutefois que ce
+dépassement puisse avoir pour effet de porter la durée du travail à plus de
+soixante heures par semaine.
 
 Le comité d'entreprise ou, à défaut, les délégués du personnel donnent leur avis
 sur ces dérogations. Cet avis est transmis à l'inspecteur du travail.
