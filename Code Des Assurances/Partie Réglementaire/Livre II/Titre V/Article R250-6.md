@@ -8,5 +8,5 @@ commissaire du Gouvernement adjoint sont nommés par arrêté du ministre charg�
 l'agriculture.
 
 Le commissaire du Gouvernement assiste à toutes les réunions. Il peut demander
-au bureau, soit immédiatement, soit dans les cinq jours suivant une décision, un
-nouvel examen de l'affaire dans le délai qu'il fixera.
+au bureau, soit immédiatement, soit dans les trente jours suivant une décision,
+un nouvel examen de l'affaire dans le délai qu'il fixera.
