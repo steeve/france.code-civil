@@ -1,6 +1,6 @@
 Article 309-7
 ----
-Les élèves ou anciens élèves des écoles nationales vétérinaires exerçant dans
+Les élèves ou anciens élèves des écoles vétérinaires françaises exerçant dans
 les conditions définies par les articles 309-1 et suivants ci-dessus sont
 soumis, en raison des actes qu'ils accomplissent à cette occasion, aux lois et
 règlements régissant l'exercice de la médecine et de la chirurgie vétérinaires.

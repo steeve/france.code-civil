@@ -14,4 +14,8 @@ dispositions de l'article 226 et les mesures de désinfection immédiatement
 nécessaires.
 
 Il donne, d'urgence, communication au maire des mesures qu'il a prescrites, et,
-dans le plus bref délai, adresse son rapport au préfet.
+dans le plus bref délai, adresse son rapport au préfet qui prend, s'il est
+nécessaire, un arrêté de mise sous surveillance en cas de simple suspicion de
+maladie réputée contagieuse ; cet arrêté peut entraîner l'application des
+mesures énumérées aux quatrième (1°), septième (4°), huitième (5°), neuvième
+(6°) et dixième (7°) alinéas de l'article 228.

@@ -1,6 +1,6 @@
 Article 309-4
 ----
-Les élèves et les anciens élèves des écoles nationales vétérinaires ne peuvent
+Les élèves et les anciens élèves des écoles vétérinaires françaises ne peuvent
 assister ou remplacer des vétérinaires ou des docteurs vétérinaires qu'après
 avoir déclaré à l'administration leur intention ainsi que le nom du vétérinaire
 ou docteur vétérinaire qu'ils assisteront ou remplaceront.

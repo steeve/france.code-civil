@@ -17,7 +17,15 @@ le tic proprement dit avec ou sans usure des dents ;
 
 les boiteries anciennes intermittentes ;
 
-la fluxion périodique des yeux.
+l'uvéite isolée ;
+
+l'anémie infectieuse des équidés.
+
+Sont considérés comme atteints d'anémie infectieuse des équidés et peuvent
+donner lieu à rédhibition les animaux qui ont fait l'objet d'une recherche de la
+maladie par des épreuves effectuées selon des procédés et critères approuvés par
+la commission nationale vétérinaire et dont le résultat a été reconnu positif
+par un laboratoire agréé par le ministre chargé de l'agriculture.
 
 Pour l'espèce porcine :
 
@@ -54,6 +62,3 @@ rédhibition les animaux qui ont fait l'objet d'une recherche de la maladie par
 des épreuves effectuées selon des procédés et des critères approuvés par la
 commission nationale vétérinaire et dont le résultat a été reconnu positif par
 un laboratoire agréé par le ministère de l'agriculture.
-
-Aucune action en garantie ne saurait être introduite si l'acheteur a libéré par
-écrit, au moment de la vente de l'animal, le vendeur de toute garantie.

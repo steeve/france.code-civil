@@ -13,9 +13,9 @@ régionale qui a prononcé la suspension. Cette sanction entraîne l'inéligibil
 de l'intéressé à un conseil de l'ordre pendant toute la durée de la suspension ;
 
 La suspension temporaire du droit d'exercer la profession pour une durée maximum
-de dix ans sur tout le territoire de la France métropolitaine (et de l'Algérie).
-Cette sanction comporte l'interdiction définitive de faire partie d'un conseil
-de l'ordre.
+de dix ans sur tout le territoire des départements métropolitains et
+d'outre-mer. Cette sanction comporte l'interdiction définitive de faire partie
+d'un conseil de l'ordre.
 
 L'exercice de la profession en période de suspension est passible des peines
 applicables à l'exercice illégal de la médecine et de la chirurgie des animaux.

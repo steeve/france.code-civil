@@ -2,7 +2,7 @@ Article 309-2
 ----
 Par dérogation aux dispositions législatives en vigueur et sous réserve des
 conditions de nationalité indiquées à l'article précédent, les anciens élèves
-des écoles nationales vétérinaires ne possédant pas encore le diplôme de docteur
+des écoles vétérinaires françaises ne possédant pas encore le diplôme de docteur
 vétérinaire, mais pourvus d'une attestation établissant qu'ils ont subi avec
 succès les examens de fin de quatrième année de ces écoles, sont autorisés, dans
 les conditions définies par le présent article et les articles suivants ainsi
