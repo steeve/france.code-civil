@@ -1,36 +1,26 @@
 Article R5146-39
 ----
-Les recours gracieux dirigés contre les décisions prises en vertu des
-dispositions des articles R. 5146-34 à R. 5146-37 sont soumis, pour avis, à une
-commission dont les membres sont désignés par le ministre de la santé et le
-ministre de l'agriculture [*autorités compétentes*].
+La commission mentionnée à l'article R. 5146-38 comprend [*composition*] :
 
-Cette commission est présidée par un membre du conseil d'Etat en activité ou en
-retraite élu par l'assemblée générale du conseil d'Etat pour six ans [*durée du
-mandat*]. Elle comprend en outre [*composition*] :
+1. Cinq membres de droit :
 
-a) deux professeurs d'école vétérinaire désignés par le ministre de
-l'agriculture ;
+- le directeur de la pharmacie et du médicament au ministère de la santé ou son
+représentant ;
 
-b) un professeur de médecine et un professeur de pharmacie désignés par le
-ministre de la santé ;
+- le directeur général de l'alimentation au ministère de l'agriculture ou son
+représentant ;
 
-c) le chef du service central de la pharmacie et des médicaments au ministère de
-la santé ;
+- le directeur général du Laboratoire national de la santé ou son représentant ;
 
-d) le directeur de la qualité au ministère de l'agriculture ;
+- le directeur du Laboratoire central de recherches vétérinaires ou son
+représentant ;
 
-e) le directeur général du laboratoire national de la santé ;
+- le directeur du Laboratoire national des médicaments vétérinaires ou son
+représentant.
 
-f) le directeur du laboratoire national de contrôle des médicaments
-vétérinaires.
-
-Le mandat des membres prévus en a et b ci-dessus est de trois ans [*durée*]. Des
-membres suppléants en nombre égal à celui des titulaires sont désignés dans les
-mêmes conditions.
-
-Un arrêté conjoint du ministre de la santé et du ministre de l'agriculture fixe
-les modalités de fonctionnement de la commission.
-
-Le recours gracieux prévu au présent article est un préalable obligatoire à
-l'exercice du recours contentieux.
+2. Six membres nommés, pour une durée de trois ans, par le ministre chargé de la
+santé et par le ministre de l'agriculture, en raison de leur compétence
+scientifique, notamment dans le domaine de la pharmacologie humaine, de la
+chimie analytique, de la pharmacie galénique, de la toxicologie expérimentale,
+de la pharmacologie expérimentale, de la pharmacologie animale, de la pathologie
+et de la thérapeutique.
