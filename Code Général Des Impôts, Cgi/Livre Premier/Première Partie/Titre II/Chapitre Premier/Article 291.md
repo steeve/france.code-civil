@@ -25,15 +25,17 @@ Cet arrêté détermine également les modalités d'application du présent para
 
 3° Les produits suivants :
 
-- organes, sang et lait humains;
+organes, sang et lait humains;
 
-- devises, billets de banque et monnaies qui sont des moyens de paiement légaux,
-à l'exception des billets et monnaies de collection; - or à l'état de minerai;
+devises, billets de banque et monnaies qui sont des moyens de paiement légaux, à
+l'exception des billets et monnaies de collection;
 
-- or brut en masses ou lingots, grenailles, or natif, déchets et débris
+or à l'état de minerai;
+
+or brut en masses ou lingots, grenailles, or natif, déchets et débris
 d'ouvrages;
 
-- déchets neufs d'industrie et matières de récupération;
+déchets neufs d'industrie et matières de récupération;
 
 4° L'or, sous toutes ses formes, importé par les instituts d'émission;
 
@@ -49,16 +51,18 @@ entreprises de pêche maritime;
 dentaires;
 
 8° Les oeuvres d'art originales, les timbres, objets de collection ou
-d'antiquité, lorsque l'importation est réalisée directement à destination, soit
-de négociants qui destinent ces oeuvres ou objets à la revente, soit
+d'antiquité, lorsque l'importation est réalisée directement à destination
 d'établissements agréés par le ministre de la culture et de la communication;
 les conditions d'application de ces dispositions sont fixées par arrêté du
-ministre du budget (5);
+ministre du budget (5) (art. 5 VII, modification en vigueur le 1er octobre
+1991);
 
-9° Les objets d'occasion, d'antiquité ou de collection, oeuvres d'art
-originales, pierres précieuses et perles visés au a du 3° du 1 de l'article 261
-lorsqu'ils sont importés en vue d'une vente aux enchères publiques soumise au
-droit proportionnel d'enregistrement prévu à l'article 733.
+9° Les objets d'occasion, d'antiquité ou de collection, oeuvres d'art originales
+répondant aux conditions qui sont fixées par décret (6), pierres précieuses et
+perles, lorsqu'ils sont importés en vue d'une vente aux enchères publiques, par
+un assujetti à la taxe sur la valeur ajoutée redevable de la taxe au titre de
+cette vente ou exonéré en application du I de l'article 262 (art. 4 III, entrée
+en vigueur le 29 juillet 1991).
 
 III Sont également exonérées de la taxe sur la valeur ajoutée :
 
@@ -85,4 +89,6 @@ février).
 
 (4) Annexe IV, art. 42 à 46.
 
-(5) Annexe IV, art. 50 nonies et 50 decies.
+(5) Annexe IV, art. 50 decies.
+
+(6) Annexe III, art. 71 A.
