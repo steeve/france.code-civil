@@ -1,49 +1,55 @@
 Article 39
 ----
-I La déclaration mentionnée à l'article 87 du code général des impôts doit
-comporter pour chacun des bénéficiaires des traitements, émoluments, salaires ou
-rétributions payés au cours de l'année précédente, les indications suivantes :
+La déclaration mentionnée à l'article 87 du code général des impôts doit
+comporter, par établissement, les indications suivantes [*contenu*] :
 
-1° Nom, prénoms, emploi, adresse et numéro d'immatriculation à la sécurité
-sociale;
+1° Concernant le déclarant :
 
-2° Période pendant laquelle le salarié a été payé par l'entreprise;
+a) Les nom et prénoms ou raison sociale, adresse et numéro SIRET. Les
+entreprises à établissements multiples indiquent l'établissement qui a déposé la
+déclaration de résultats ;
 
-3° Conditions d'emploi;
+b) L'effectif au dernier jour ouvrable de l'année précédente ;
 
-4° Montant brut, avant déduction de la cotisation ouvrière aux assurances
-sociales et, le cas échéant, de la contribution ouvrière à l'assurance chômage
-ainsi que des retenues pour la retraite, et montant net, après déduction de ces
-cotisations et de ces retenues, des traitements, salaires et rétributions payés
-soit en argent, soit en nature, pendant ladite année;
+c) Le montant de la taxe sur les salaires ;
 
-5° Montant des indemnités pour frais d'emploi ou de service et des
-remboursements de frais;
+2° Concernant chaque salarié rétribué l'année précédente :
 
-6° Le cas échéant, taux de la déduction supplémentaire pour frais professionnels
-à laquelle la profession exercée ouvre droit;
+a) Son identification : nom patronymique, le cas échéant nom de l'époux,
+prénoms, sexe, date et lieu de naissance ;
 
-7° Montant des traitements, salaires et rétributions passibles de la retenue à
-la source en application de l'article 182 A du code précité et montant des
-retenues et versements effectués à ce titre.
+b) L'adresse de son domicile au 31 décembre de l'année du revenu ; c) La nature,
+la période et les conditions d'exercice de l'emploi ;
 
-II La déclaration doit mentionner en outre :
+d) Le montant des sommes payées pendant l'année, en distinguant :
 
-1° Les éléments utiles à la liquidation de la taxe sur les salaires et la
-récapitulation des versements effectués à la caisse du comptable du Trésor;
+- le montant des sommes payées en argent avant et après déduction des
+contributions ouvrières aux assurances sociales et au chômage et des retenues
+pour la retraite ;
 
-2° La situation des effectifs au dernier jour de l'année précédente;
+- la valeur et le type des avantages en nature ;
 
-3° Le cas échéant, le numéro d'identité attribué à l'entreprise par l'institut
-national de la statistique et des études économiques.
+- le montant des indemnités pour frais d'emploi et des remboursements de frais,
+avec l'indication de leur caractère forfaitaire ou réel ou de leur prise en
+charge directe par l'employeur ;
 
-III Dans le cas où la déclaration s'applique à plusieurs unités d'une même
-entreprise, géographiquement séparées et identifiées chacune sous un numéro
-distinct attribué par l'institut national de la statistique et des études
-économiques, les salariés doivent être groupés et leur effectif indiqué sous
-chacun de ces numéros d'identité.
+- le montant des sommes versées au titre des chèques vacances ;
 
-IV La déclaration doit être rédigée sur ou d'après une formule fournie par
-l'administration. Elle doit être remise à la direction des services fiscaux du
-lieu du domicile de la personne ou du siège de l'établissement ou du bureau qui
-a payé les traitements, émoluments, salaires ou rétributions.
+e) Le taux de la déduction supplémentaire à laquelle la profession exercée ouvre
+droit, le cas échéant, ainsi que l'option choisie par l'entreprise pour
+l'assiette des taxes assises sur les salaires ;
+
+f) Le montant de la retenue effectuée au titre de l'impôt sur le revenu en
+application de l'article 182 A du code général des impôts ;
+
+g) Lorsque l'établissement est assujetti à la taxe sur les salaires :
+
+- le montant brut servant de base à la taxe ;
+
+- l'assiette des taux majorés ;
+
+- les renseignements utiles à la liquidation de la taxe lorsque le salarié a été
+payé par plusieurs établissements dépendant d'une même entreprise ;
+
+3° Le total pour l'ensemble des salariés de l'établissement et de l'entreprise
+des sommes mentionnées au 2° ci-dessus.
