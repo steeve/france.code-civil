@@ -1,14 +1,22 @@
 Article R341-3
 ----
-Un arrêté du ministre chargé de l'économie, pris après avis du Conseil national
-de la comptabilité, fixe la structure et les principaux éléments de la
-nomenclature du plan de comptes prévu à l'article 4 du décret n° 83-1020 du 29
-novembre 1983 mentionné à l'article R. 341-2, ainsi que les règles spécifiques
-d'utilisation des comptes et les principes généraux d'organisation et de
-fonctionnement du système comptable. Le même arrêté peut en outre prescrire,
-lorsque ceci est nécessaire pour la justification des comptes ou l'exercice du
-contrôle de l'Etat, des modalités spécifiques d'enregistrement et de suivi extra
-comptable des placements, des contrats, des sinistres et des opérations de
+Un règlement du Comité de la réglementation comptable fixe la structure et les
+principaux éléments de la nomenclature du plan de comptes prévu à l'article 4 du
+décret n° 83-1020 du 29 novembre 1983 mentionné à l'article R. 341-2, ainsi que
+les règles spécifiques d'utilisation des comptes et les principes généraux
+d'organisation et de fonctionnement du système comptable. Il définit également
+les modèles types auxquels les entreprises doivent se conformer pour la
+présentation du bilan accompagné d'un tableau des engagements reçus et donnés,
+du compte de résultats et de l'annexe.
+
+Le même règlement peut en outre prescrire, lorsque ceci est nécessaire pour la
+justification des comptes ou l'exercice du contrôle de l'Etat, des modalités
+spécifiques d'enregistrement des placements, des contrats, des sinistres et des
+opérations de réassurance, de coassurance et de coréassurance.
+
+Lorsque ceci est nécessaire pour l'exercice du contrôle de l'Etat un arrêté du
+ministre chargé de l'économie peut prescrire des modalités spécifiques de suivi
+extracomptable des placements, des contrats, des sinistres et des opérations de
 réassurance, de coassurance et de coréassurance.
 
 Les soldes des comptes utilisés par l'entreprise se raccordent, par voie directe
