@@ -1,14 +1,14 @@
 Article D642-3
 ----
 La cotisation proportionnelle prévue à l'article L. 642-1 est assise sur les
-revenus professionnels libéraux de l'avant-dernière année dans la limite de cinq
-fois le plafond prévu à l'article L. 241-3 en vigueur le 1er janvier de l'année
-au cours de laquelle la cotisation est appelée.
+revenus professionnels définis audit article dans la limite de cinq fois le
+plafond prévu à l'article L. 241-3 en vigueur le 1er janvier de l'année au cours
+de laquelle la cotisation est appelée.
 
 Pour le calcul de cette cotisation, les assurés sont tenus de déclarer avant le
 30 septembre de chaque année à la section professionnelle dont ils relèvent les
-revenus professionnels libéraux de l'année civile précédente, tels qu'ils sont
-retenus pour le calcul de l'impôt sur le revenu.
+revenus professionnels non salariés de l'année civile précédente, tels qu'ils
+sont définis à l'article L. 642-1.
 
 Cette déclaration doit être effectuée au moyen d'un imprimé soumis à l'avis
 favorable de la Caisse nationale d'assurance vieillesse des professions
@@ -45,6 +45,7 @@ la moitié dudit plafond au titre de l'année suivante.
 
 Pour les cotisants admis à cotiser à titre volontaire en application de
 l'article L. 742-6 (2°), la cotisation proportionnelle est assise sur les
-revenus professionnels libéraux de la dernière année d'activité actualisés par
-application du taux moyen d'évolution du plafond visé à l'article L. 241-3, au
-cours de l'avant-dernière année.
+revenus professionnels non salariés de la dernière année d'activité, tels qu'ils
+sont définis à l'article L. 642-1, actualisés par application du taux moyen
+d'évolution du plafond visé à l'article L. 241-3, au cours de l'avant-dernière
+année.
