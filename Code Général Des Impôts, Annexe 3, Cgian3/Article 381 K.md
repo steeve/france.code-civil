@@ -9,6 +9,10 @@ chaque année à la recette des impôts compétente.
 L'impôt est versé aux mêmes dates et à la même recette pour les lots et primes
 de remboursement mis en paiement au cours du trimestre précédent.
 
+La retenue à la source est payée aux dates et lieux prévus au premier alinéa sur
+le montant couru de l'annuité d'intérêt ou de prime de remboursement définie au
+I de l'article 238 septies B du code précité.
+
 A l'appui du versement il est remis :
 
 a. Un état indiquant [*mentions*] :
