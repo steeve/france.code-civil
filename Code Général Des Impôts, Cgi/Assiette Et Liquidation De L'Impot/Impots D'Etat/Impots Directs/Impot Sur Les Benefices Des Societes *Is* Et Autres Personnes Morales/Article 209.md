@@ -36,6 +36,4 @@ report des déficits antérieurs non encore déduits soit par les sociétés
 apporteuses, soit par les sociétés bénéficiaires des apports, sur les bénéfices
 ultérieurs de ces dernières.
 
-Ces dispositions s'appliqueront jusqu'au 31 décembre 1987.
-
 (1) Voir art. 1649 nonies, annexe IV, art. 170 sexies.

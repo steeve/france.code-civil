@@ -7,7 +7,7 @@ frauduleuse ou d'une fausse déclaration de l'allocataire.
 Toutefois, peuvent être saisis :
 
 1°) pour le paiement des dettes alimentaires ou l'exécution de la contribution
-aux charges du mariage et liées à l'entretien des enfants : l'allocation au
+aux charges du mariage et liées à l'entretien des enfants : l'allocation pour
 jeune enfant, les allocations familiales, le complément familial, l'allocation
 de rentrée scolaire, l'allocation de soutien familial et l'allocation parentale
 d'éducation ;

@@ -8,4 +8,5 @@ l'article R. 241-7.
 
 Cette mesure ne peut intervenir que lorsque l'employeur aura été invité par
 lettre recommandée avec demande d'avis de réception [*condition de forme*] à
-faire cesser l'infraction et n'aura pas accompli les diligences nécessaires.
+faire cesser l'infraction dans un délai fixé par le directeur régional à six
+mois au maximum et n'aura pas accompli dans ce délai les diligences nécessaires.

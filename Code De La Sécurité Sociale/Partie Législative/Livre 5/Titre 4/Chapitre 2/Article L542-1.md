@@ -1,0 +1,35 @@
+Article L542-1
+----
+L'allocation de logement est accordée dans les conditions prévues à l'article
+suivant *beneficiaires[* :
+
+1°) aux personnes qui perçoivent à un titre quelconque :
+
+a. soit les allocations familiales ;
+
+b. soit le complément familial ;
+
+c. soit l'allocation pour jeune enfant ;
+
+d. soit l'allocation de soutien familial ;
+
+e. soit l'allocation d'éducation spéciale ;
+
+2°) aux ménages ou personnes qui, n'ayant pas droit à l'une des prestations
+mentionnées au 1°, ont un enfant à charge au sens des articles L. 512-3 et L.
+512-4 ;
+
+3°) aux chefs de famille qui n'ont pas d'enfant à charge, pendant une durée
+déterminée à compter du mariage *]point de départ*, à la condition que celui-ci
+ait été célébré avant que les époux aient l'un et l'autre atteint un âge limite
+;
+
+4°) aux ménages ou aux personnes qui ont à leur charge un ascendant vivant au
+foyer ayant dépassé un âge déterminé ;
+
+5°) aux ménages ou personnes qui ont à leur charge un ascendant ou un descendant
+ou un collatéral au deuxième ou au troisième degré vivant au foyer, atteint
+d'une infirmité permanente au moins égale à un pourcentage fixé par décret ou
+qui est, compte tenu de son handicap, dans l'impossibilité, reconnue par la
+commission technique d'orientation et de reclassement professionnel prévue à
+l'article L. 323-11 du code du travail, de se procurer un emploi.

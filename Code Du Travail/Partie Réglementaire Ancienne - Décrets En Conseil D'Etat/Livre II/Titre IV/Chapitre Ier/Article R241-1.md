@@ -11,7 +11,7 @@ un service médical d'établissement ;
 
 2° Soit d'un service médical du travail interentreprises.
 
-Dans le cas où l'entreprise a le choix entre ces deux formes de de service, ce
+Dans le cas où l'entreprise a le choix entre ces deux formes de service, ce
 choix est fait par l'employeur, sauf opposition du comité d'entreprise ou, le
 cas échéant, du comité central d'entreprise, ou, à défaut, des délégués du
 personnel préalablement consultés.

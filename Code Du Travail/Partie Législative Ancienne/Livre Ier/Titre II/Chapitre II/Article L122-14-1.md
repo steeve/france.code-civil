@@ -8,7 +8,16 @@ Cette lettre ne peut être expédiée moins d'un jour franc [*délai*] après la
 pour laquelle le salarié a été convoqué en application des dispositions de
 l'article L. 122-14.
 
-En cas de licenciement collectif, pour motif économique d'ordre conjoncturel ou
-structurel, d'au moins dix salariés dans une même période de trente jours, cette
-lettre ne peut être expédiée qu'après réception de l'autorisation de l'autorité
-administrative compétente ou le défaut de réponse prévu à l'article L. 321-9.
+Toutefois, si le salarié est licencié individuellement pour un motif d'ordre
+économique ou s'il est inclus dans un licenciement collectif d'ordre économique
+concernant moins de dix salariés dans une même période de trente jours, la
+lettre prévue au premier alinéa du présent article ne peut lui être adressée
+moins de sept jours à compter de la date pour laquelle le salarié a été convoqué
+en application de l'article L. 122-14 [*délai d'envoi*]. Ce délai est de quinze
+jours en cas de licenciement individuel d'un membre du personnel d'encadrement
+tel que défini au troisième alinéa de l'article L. 513-1.
+
+En cas de licenciement collectif pour motif économique concernant au moins dix
+salariés dans une même période de trente jours, la lettre prévue au premier
+alinéa du présent article ne peut être adressée avant l'expiration du délai
+prévue à l'article L. 321-6.

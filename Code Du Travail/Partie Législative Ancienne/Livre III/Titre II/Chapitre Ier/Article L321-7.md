@@ -1,8 +1,44 @@
 Article L321-7
 ----
-En cas de redressement ou de liquidation judiciaires, l'administrateur ou, à
-défaut l'employeur ou le liquidateur suivant les cas, doit informer l'autorité
-administrative compétente avant de procéder à des licenciements pour motif
-économique dans les conditions prévues aux articles 45, 63, 148 et 153 de la loi
-n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation
-judiciaires des entreprises.
+L'employeur est tenu de notifier à l'autorité administrative compétente tout
+projet de licenciement pour motif économique d'au moins dix salariés dans une
+même période de trente jours.
+
+Lorsque le projet de licenciement donne lieu à la consultation des représentants
+du personnel prévue à l'article L. 321-3, sa notification est faite au plus tôt
+le lendemain de la date prévue pour la première réunion visée audit article.
+Elle est accompagnée de tout renseignement concernant la convocation, l'ordre du
+jour et la tenue de cette réunion [*mentions obligatoires*].
+
+L'autorité administrative compétente s'assure que les représentants du personnel
+ont été informés, réunis et consultés conformément aux dispositions légales et
+conventionnelles en vigueur, que les règles relatives à l'élaboration des
+mesures sociales prévues par les articles L. 321-4 et L. 321-5 du présent code
+ou par des conventions ou accords collectifs de travail ont été respectées et
+que les mesures prévues aux articles L. 321-4 et L. 321-5 seront effectivement
+mises en oeuvre.
+
+L'autorité administrative compétente, à laquelle la liste des salariés dont il
+est envisagé de rompre le contrat de travail est transmise, dispose, pour
+procéder aux vérifications prévues à l'alinéa précédent, d'un délai de quatorze
+jours à compter de la date de notification [*point de départ*] lorsque le nombre
+des licenciements est inférieur à cent, de vingt et un jours lorsque le nombre
+des licenciements est au moins égal à cent et inférieur à deux cent cinquante,
+et de trente jours lorsque ce nombre est au moins égal à deux cent cinquante.
+
+En toute hypothèse, ce délai ne peut être inférieur au délai conventionnel prévu
+au dernier alinéa de l'article L. 321-3 augmenté de sept jours.
+
+Lorsque l'autorité administrative compétente relève une irrégularité de
+procédure au cours des vérifications effectuées en application du troisième
+alinéa du présent article, elle adresse à l'employeur, dans les délais prévus
+ci-dessus, un avis écrit précisant la nature de l'irrégularité constatée.
+Simultanément, l'autorité administrative compétente envoie copie de ses
+observations au comité d'entreprise ou aux délégués du personnel.
+
+L'employeur est tenu de répondre aux observations de l'autorité administrative
+compétente et adresse copie de sa réponse aux représentants du personnel. Si sa
+réponse intervient au-delà du délai prévu à l'article L. 321-6, celui-ci est
+reporté jusqu'à la date d'envoi de l'information à l'autorité administrative
+compétente. Les lettres de licenciement ne pourront être adressées aux salariés
+qu'à compter de cette date.

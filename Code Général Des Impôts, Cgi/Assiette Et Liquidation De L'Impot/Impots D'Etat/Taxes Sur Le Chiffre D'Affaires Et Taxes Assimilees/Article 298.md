@@ -77,7 +77,8 @@ Ce pourcentage est limité à 10 % pour 1982, 20 % pour 1983, 30 % pour 1984 et 
 
 Pour la taxe afférente au gazole [*gas-oil*] utilisé pour la réalisation de
 transports internationaux, le pourcentage est porté à 50 p. 100 pour 1985, 65 p.
-100 pour 1986, 85 p. 100 pour 1987 et 100 p. 100 pour les années suivantes.
+100 pour 1986, 85 p. 100 jusqu'au 31 octobre 1987 et 100 p. 100 au-delà de cette
+date.
 
 Sont considérés comme des transports internationaux [*définition*] les
 transports exonérés de la taxe sur la valeur ajoutée en vertu des articles 262
@@ -94,7 +95,8 @@ B-I-e du tarif des douanes) utilisé comme carburant routier (1) ;
 livraisons et services portant sur le fioul [*fuel*] domestique utilisé pour des
 usages agricoles est déductible à concurrence de 50 p. 100 de son montant, dans
 les conditions fixées aux articles 271 à 273, par les personnes visées à
-l'article 298 bis.
+l'article 298 bis, par les coopératives d'utilisation de matériel agricole et
+par les entrepreneurs de travaux agricoles.
 
 Le fioul domestique visé au présent article s'entend du produit mentionné au
 tableau B de l'article 265 du code des douanes (2) ;

@@ -10,7 +10,12 @@ après avis du médecin-inspecteur régional du travail et de la main-d'oeuvre.
 
 Chaque secteur médical comporte au moins un centre médical fixe.
 
-La liste nominative des médecins du travail attachés au secteur médical et des
-membres de la commission consultative prévue à l'article R. 241-17, comportant
-l'indication des lieux auxquels ils peuvent être joints, doit être affichée
-d'une manière apparente dans chaque centre médical fixe ou mobile.
+Dans chaque centre médical fixe ou mobile, doit être affichée de manière
+apparente la liste nominative :
+
+1° Des médecins du travail attachés au secteur médical avec l'indication des
+lieux où ils peuvent être joints ;
+
+2° Des membres de la commission consultative de secteur, ou, à défaut, de la
+commission de contrôle ou des membres du comité interentreprises, avec
+indication des lieux où ils peuvent être joints.

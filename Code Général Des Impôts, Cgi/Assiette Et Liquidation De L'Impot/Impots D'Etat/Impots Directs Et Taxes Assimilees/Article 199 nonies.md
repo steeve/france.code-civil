@@ -1,9 +1,9 @@
 Article 199 nonies
 ----
-Du 12 septembre 1984 au 31 décembre 1989 [*date, période*], tout contribuable
+I Du 12 septembre 1984 au 31 décembre 1989 [*date, période*], tout contribuable
 qui fait construire ou acquiert un logement neuf situé en France et qui le
 destine à une location dont le produit est imposé dans la catégorie des revenus
-fonciers bénéficie d'une réduction d'impôt sur le revenu.
+fonciers bénéficie d'une réduction d'impôt sur le revenu (1).
 
 Cette réduction est calculée sur le prix de revient de ces logements dans la
 limite de 200.000 F [*montant*] pour une personne célibataire, veuve ou divorcée
@@ -26,5 +26,18 @@ l'engagement ou de celle de la cession.
 Les dispositions de l'article 199 sexies A-II s'appliquent à cette réduction
 d'impôt.
 
-Un décret fixe les obligations incombant aux contribuables mentionnés au présent
-article.
+II. Le taux de la réduction d'impôt prévue au I est porté à 10 p. 100 et la
+durée de l'engagement de location est ramenée à six années pour les logements
+neufs que le contribuable acquiert ou fait construire à partir du 1er juin 1986.
+
+Cette réduction peut être pratiquée chaque année en cas d'investissements
+successifs. Elle peut être demandée au titre de l'année au cours de laquelle le
+montant des paiements effectués pour un même investissement atteint le plafond
+prévu au deuxième alinéa du I.
+
+III. Un décret fixe les obligations incombant aux contribuables mentionnés au
+présent article.
+
+(1) : les dispositions du présent article ne concernent pas les logements que
+les contribuables ont commencé à faire construire ou qu'ils ont acquis en l'état
+futur d'achèvement avant le 12 septembre 1984.

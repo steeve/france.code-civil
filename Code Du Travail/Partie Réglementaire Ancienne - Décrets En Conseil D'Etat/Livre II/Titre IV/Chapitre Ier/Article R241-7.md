@@ -1,10 +1,16 @@
 Article R241-7
 ----
-La création d'un service médical du travail d'entreprise ou d'établissement
-effectuée en application soit de l'article R. 241-2 (2e alinéa), soit de
-l'article R. 241-4 fait l'objet d'un agrément préalable par période de cinq
-années [*durée*] par le directeur régional du travail et de l'emploi, après avis
-du médecin inspecteur régional du travail et de la main-d'oeuvre.
+Les services médicaux du travail d'entreprise ou d'établissement doivent faire
+l'objet d'un agrément préalable par le directeur régional du travail et de
+l'emploi, après avis du médecin inspecteur régional du travail et de la main
+d'oeuvre.
+
+L'agrément ne peut être refusé que pour des motifs tirés de la non-conformité
+aux prescriptions du présent chapitre.
+
+Tout refus d'agrément doit être motivé.
+
+La demande d'agrément doit être renouvelée tous les cinq ans.
 
 Les demandes d'agrément ainsi que les demandes de renouvellement sont
 accompagnées d'un dossier dont les éléments sont fixés par arrêté du ministre

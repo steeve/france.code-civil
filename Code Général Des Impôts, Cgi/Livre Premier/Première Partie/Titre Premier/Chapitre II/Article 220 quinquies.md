@@ -20,8 +20,8 @@ fait naître au profit de l'entreprise une créance d'un égal montant. La
 constatation de cette créance, qui n'est pas imposable, améliore les résultats
 de l'entreprise et contribue au renforcement des fonds propres.
 
-La créance est remboursée au terme des dix années suivant celle de la clôture de
-l'exercice au titre duquel l'option visée au premier alinéa a été exercée.
+La créance est remboursée au terme des cinq années suivant celle de la clôture
+de l'exercice au titre duquel l'option visée au premier alinéa a été exercée.
 Toutefois, l'entreprise peut utiliser la créance pour le paiement de l'impôt sur
 les sociétés dû au titre des exercices clos au cours de ces dix années. Dans ce
 cas, la créance n'est remboursée qu'à hauteur de la fraction qui n'a pas été
@@ -46,11 +46,11 @@ de sociétés ou une opération assimilée, ou un jugement prononçant la liquid
 des biens ou la liquidation judiciaire (3) de la société.
 
 En cas de fusion ou opération assimilée [*scission, apport partiel d'actif*]
-intervenant au cours des dix années suivant celle de la clôture de l'exercice au
-titre duquel l'option visée au I a été exercée, le transfert de tout ou partie
-de la créance de la société apporteuse ou absorbée à la société bénéficiant de
-l'apport ou absorbante, peut être autorisé sur agrément délivré dans les
-conditions prévues à l'article 1649 nonies.
+intervenant au cours des cinq années suivant celle de la clôture de l'exercice
+au titre duquel l'option visée au I a été exercée, le transfert de tout ou
+partie de la créance de la société apporteuse ou absorbée à la société
+bénéficiant de l'apport ou absorbante, peut être autorisé sur agrément délivré
+dans les conditions prévues à l'article 1649 nonies.
 
 III. Les dispositions du présent article ne sont pas applicables aux
 institutions financières, aux compagnies d'assurances, aux entreprises de
