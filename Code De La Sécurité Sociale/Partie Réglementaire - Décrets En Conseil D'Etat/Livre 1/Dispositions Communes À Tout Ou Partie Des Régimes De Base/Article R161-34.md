@@ -1,8 +1,22 @@
 Article R161-34
 ----
-Les organismes chargés de la gestion d'un régime obligatoire d'assurance maladie
-transmettent aux unions de médecins mentionnées à l'article 5 de la loi susvisée
-du 4 janvier 1993 celles des données issues du traitement automatisé mentionné
-au deuxième alinéa de l'article L.161-29 qui, sans permettre l'identification
-des assurés sociaux ou des professionnels, concernent l'activité des médecins
-relevant de ces unions.
+Le Répertoire national interrégimes des bénéficiaires de l'assurance maladie
+institué à l'article L. 161-32 a pour finalités :
+
+1° De certifier les identifiants des bénéficiaires figurant dans les fichiers
+des organismes gérant les régimes de base ou complémentaires d'assurance maladie
+;
+
+2° De certifier le rattachement de chaque bénéficiaire à l'organisme qui lui
+sert les prestations de base d'assurance maladie ;
+
+3° De contribuer aux procédures de délivrance et de mise à jour des cartes
+électroniques individuelles mentionnées à l'article L. 161-31 ;
+
+4° Le cas échéant, de certifier le rattachement du bénéficiaire à un des
+organismes mentionnés au 3° de l'article R. 115-1 qui lui sert des prestations
+complémentaires d'assurance maladie et dont le bénéficiaire ou son représentant
+légal désire que l'identifiant figure sur sa carte électronique individuelle ;
+
+5° De permettre des études statistiques dans les domaines sanitaire, social et
+démographique.
