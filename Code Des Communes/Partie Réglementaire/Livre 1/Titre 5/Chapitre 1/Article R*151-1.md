@@ -2,7 +2,7 @@ Article R*151-1
 ----
 Le montant minimal annuel moyen de revenus ou produits des biens de la section
 en dessous duquel, avec l'accord du conseil municipal, la commission syndicale
-n'est pas constituée en application de l'article L. 151-5 est fixé à 2 000 F de
+n'est pas constituée en application de l'article L. 151-5 est fixé à 2 026 F de
 revenu cadastral. Le montant ainsi fixé est actualisé dans le mois qui suit le
 renouvellement général des conseils municipaux et selon les mêmes proportions
 que celles résultant de l'évolution moyenne des revenus cadastraux au plan
