@@ -77,6 +77,13 @@ condition de durée de séjour dans ces unités ;
 3° Qui ont reçu une blessure de guerre, quelle que soit l'unité à laquelle ils
 ont appartenu, sans condition de durée de séjour dans cette unité ;
 
+3° bis Qui ont pris part pendant la campagne de 1940 à des opérations ayant
+permis de contenir ou de repousser l'ennemi, caractérisées autant par
+l'intensité des combats que par l'importance des forces engagées, sous réserve
+que les intéressés aient servi, à ce titre, quelle qu'en soit la durée, dans une
+unité combattante. Les lieux et les dates de ces opérations sont déterminés par
+arrêté du ministre chargé de la défense ;
+
 4° Qui ont été, soit détenus comme prisonniers de guerre pendant six mois en
 territoire occupé par l'ennemi, soit immatriculés dans un camp en territoire
 ennemi, sous réserve d'avoir appartenu, au moment de leur capture, sans
@@ -163,6 +170,10 @@ b) Au Maroc, à compter du 1er juin 1953 ;
 
 c) En Algérie, à compter du 31 octobre 1954.
 
+IV. - Personnels militaires ayant combattu en Indochine et en Corée.
+
+Les militaires visés par le décret n° 54-1262 du 24 décembre 1954.
+
 D - Pour les opérations indiquées en Afrique du Nord entre le 1er janvier 1952
 et le 2 juillet 1962 inclus :
 
@@ -173,7 +184,7 @@ b) au Maroc, à compter de la fin de 1953 ;
 c) en Algérie, à compter du 31 octobre 1954.
 
 I. - Sont considérés comme des combattants les militaires des armées françaises
-et les membres des forces supplétives françaises :
+et les membres des forces supplétives françaises [*définition*] :
 
 1° Qui ont appartenu pendant trois mois, consécutifs ou non, à une unité
 combattante ou à une formation entrant dans l'une des catégories énumérées par
@@ -189,15 +200,20 @@ d'engagement ou d'une action d'éclat homologuée par citation individuelle sont
 accordées pour une durée ne pouvant excéder dix jours, suivant les modalités
 d'application fixées par arrêtés des ministres intéressés ;
 
-2° Qui ont été évacués pour blessure reçue ou maladie contractée en service,
+2° Qui ont appartenu à une unité ayant connu, pendant leur temps de présence,
+neuf actions de feu ou de combat ;
+
+3° Qui ont pris part à cinq actions de feu ou de combat ;
+
+4° Qui ont été évacués pour blessure reçue ou maladie contractée en service,
 alors qu'ils appartenaient à une unité combattante ou à une formation assimilée
 sans condition de durée de séjour dans cette unité ou formation ;
 
-3° Qui ont reçu une blessure assimilée à une blessure de guerre quelle que soit
+5° Qui ont reçu une blessure assimilée à une blessure de guerre quelle que soit
 l'unité ou la formation à laquelle ils ont appartenu, sans condition de durée de
 séjour dans cette unité ou formation ;
 
-4° Qui ont été détenus par l'adversaire et privés de la protection des
+6° Qui ont été détenus par l'adversaire et privés de la protection des
 conventions de Genève.
 
 II. - Les listes des unités combattantes des armées de terre, de mer et de
@@ -216,3 +232,54 @@ Des bonifications afférentes à des opérations de combat limitativement désig
 peuvent être accordées. La liste de ces opérations et bonifications est fixée
 par un arrêté conjoint du ministre de la défense et du secrétaire d'Etat aux
 anciens combattants, après avis d'une commission créée à cet effet.
+
+E. - Pour les autres opérations ou missions, définies à l'article L. 253 ter du
+présent code.
+
+I. - Sont considérés comme combattants les militaires des forces armées
+françaises ainsi que les personnes civiles possédant la nationalité française à
+la date de leur demande qui :
+
+1° Soit ont appartenu pendant trois mois, consécutifs ou non, à une unité
+combattante ; pour le calcul de la durée d'appartenance, les services accomplis
+au titre des opérations mentionnées aux paragraphes A, B, C et D ci-dessus se
+cumulent entre eux et avec ceux des opérations et missions visées au présent
+paragraphe ;
+
+2° Soit ont appartenu à une unité ayant connu, pendant leur temps de présence,
+neuf actions de feu ou de combat ;
+
+3° Soit ont pris part à cinq actions de feu ou de combat ;
+
+4° Soit ont été évacués pour blessure reçue ou maladie contractée en service,
+alors qu'ils appartenaient à une unité combattante sans condition de durée de
+séjour dans cette unité ;
+
+5° Soit ont reçu une blessure assimilée à une blessure de guerre quelle que soit
+l'unité à laquelle ils ont appartenu, sans condition de durée de séjour dans
+cette unité ;
+
+6° Soit ont été détenus par l'adversaire pendant quatre-vingt-dix jours au
+moins, sous réserve d'avoir appartenu antérieurement à leur capture ou
+postérieurement à leur détention, sans condition de durée de séjour, à une unité
+combattante pendant la période où celle-ci avait cette qualité ; toutefois,
+aucune condition de durée de captivité n'est opposable aux personnes détenues
+par l'adversaire et qui auraient été privées de la protection des Conventions de
+Genève.
+
+II. - Les listes des unités combattantes des armées de terre, de mer et de
+l'air, de la gendarmerie, des services communs et des personnes civiles
+assimilées sont établies par arrêté du ministre chargé de la défense sur les
+bases suivantes :
+
+Sont classées, pour une durée d'un mois, comme unités combattantes, les unités
+ayant connu au moins trois actions de feu ou de combat distinctes au cours d'une
+période de trente jours consécutifs.
+
+Les éléments détachés auprès d'une unité reconnue combattante suivent le sort de
+cette unité.
+
+III. - Des arrêtés conjoints des ministres chargés de la défense, du budget et
+des anciens combattants fixent la liste des opérations ou missions mentionnées
+au E ci-dessus, déterminent les périodes à prendre en compte et définissent les
+bonifications à accorder.
