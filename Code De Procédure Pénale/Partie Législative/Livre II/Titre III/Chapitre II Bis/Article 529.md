@@ -1,14 +1,13 @@
 Article 529
 ----
-Dans les matières prévues par la loi, l'action publique née d'une contravention
-peut être éteinte par le paiement d'une amende forfaitaire, qui est exclusive de
-l'application des règles de la récidive.
+Pour les contraventions des quatre premières classes au Code de la route, à la
+réglementation des transports par route, au Code des assurances en ce qui
+concerne l'assurance obligatoire des véhicules terrestres à moteur et de leurs
+remorques et semi-remorques et à la règlementation sur les parcs nationaux qui
+sont punies seulement d'une peine d'amende, l'action publique est éteinte par le
+paiement d'une amende forfaitaire qui est exclusive de l'application des règles
+de la récidive.
 
-Le montant de l'amende forfaitaire peut être acquitté :
-
-Soit au moment de la constatation de l'infraction, entre les mains de l'agent
-verbalisateur, contre remise d'une quittance détachée d'un carnet à souches ;
-
-Soit au moyen d'un timbre-amende expédié au service indiqué dans l'avis de
-contravention dans les quinze jours suivant la constatation de l'infraction ou,
-le cas échéant, la date d'envoi de cet avis.
+Toutefois, la procédure de l'amende forfaitaire n'est pas applicable si
+plusieurs infractions, dont l'une au moins ne peut donner lieu à une amende
+forfaitaire, ont été constatées simultanément.
