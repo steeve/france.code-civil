@@ -7,7 +7,8 @@ foncier, constituée dans les conditions prévues aux articles L. 121-2 à L.
 
 1° Soit tous semis et plantations d'essences forestières, ou les semis et
 plantations de certaines essences forestières seulement, sont interdits, sans
-exception possible ;
+exception possible autre, éventuellement, que des semis ou plantations destinés
+à la création de boisements linéaires ou à l'installation de sujets isolés ;
 
 2° Soit tous semis et plantations d'essences forestières, ou les semis et
 plantations de certaines essences forestières seulement, sont subordonnés à

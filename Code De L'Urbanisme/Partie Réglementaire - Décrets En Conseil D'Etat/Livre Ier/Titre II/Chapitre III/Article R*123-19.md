@@ -33,18 +33,20 @@ g) Les périmètres de développement prioritaires délimités en application de
 loi n° 80-531 du 15 juillet 1980 relative aux économies d'énergie et à
 l'utilisation de la chaleur ;
 
-h) Les périmètres d'action forestière délimités en application de l'article 52-1
-du Code rural ;
+h) Les périmètres d'interdiction ou de réglementation des plantations et semis
+d'essences forestières, les périmètres d'actions forestières et les périmètres
+de zones dégradées à faible taux de boisement, délimités en application des 1°,
+2° et 3° de l'article L. 126-1 du code rural ;
 
 i) Les périmètres miniers définis en application des titres II, III et V du
 livre Ier du Code minier ;
 
 j) Les périmètres de zones spéciales de recherche et d'exploitation de carrières
-et des zones d'exploitation et d'aménagement coordonné de carrières délimitées
-en application des articles 109 et 109-1 du Code minier ;
+et des zones d'exploitation et d'aménagement coordonné de carrières délimités en
+application des articles 109 et 109-1 du Code minier ;
 
-k) Le périmètre des zones délimités en application de l'article L. 111-5-2 à
-l'intérieur desquelles certaines divisions foncières sont soumises à déclaration
+k) Le périmètre des zones délimitées en application de l'article L. 111-5-2 à
+l'intérieur desquelles certaines divisions foncières son soumises à déclaration
 préalable ;
 
 l) Les périmètres à l'intérieur desquels l'autorité compétente peut sursoir à

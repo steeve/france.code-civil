@@ -1,11 +1,15 @@
 Article R*126-4
 ----
-Le projet de la commission communale ou intercommunale est soumis à enquête
-publique ouverte et organisée dans les conditions de l'article R. 121-21.
+Le projet de réglementation des boisements élaboré par la commission communale
+ou intercommunale d'aménagement foncier est soumis à enquête publique ouverte et
+organisée dans les formes prévues par l'article R. 121-21.
 
-En outre, l'avis d'enquête publique est notifié à chacune des personnes qui,
-selon les énonciations cadastrales, est propriétaire d'une ou de plusieurs
-parcelles comprises dans le ou les périmètres définis à l'article précédent.
+Toutefois, l'avis mentionné au cinquième alinéa de l'article R. 121-21 est
+également porté à la connaissance du public par une publication en caractères
+apparents dans deux journaux diffusés dans le département et rappelée dans les
+mêmes conditions dans les huit premiers jours de l'enquête ; en outre, le délai
+préalable à courir entre la publicité et l'ouverture de l'enquête est porté à
+trois mois au moins.
 
 Le dossier d'enquête comprend les pièces suivantes :
 
