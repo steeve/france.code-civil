@@ -1,29 +1,24 @@
 Article 264-2
 ----
-Les marchés mentionnés à l'article 264-1 comportent, notamment, un cahier des
-clauses administratives particulières et un cahier des clauses techniques
-particulières qui doivent être conformes à des documents types établis par
-arrêté du ministre chargé de l'agriculture.
+I. - Le préfet est chargé, dans chaque département, de l'exécution du service
+public de l'équarrissage et passe à cet effet, selon les procédures définies par
+le code des marchés publics, les marchés nécessaires dont il est la personne
+responsable au sens de l'article 44 de ce dernier code. Toutefois, lorsque la
+nature des opérations le justifie, des marchés peuvent être passés avec la même
+entreprise, pour tout ou partie de la prestation, pour plusieurs départements.
+En ce cas, le marché désigne le préfet exerçant la fonction de personne
+responsable au sens de l'article 44.
 
-Le cahier des clauses administratives particulières définit notamment :
+II. - Par dérogation aux dispositions du I du présent article, certains marchés
+nécessaires à l'exécution du service public de l'équarrissage peuvent être
+passés à l'échelon national lorsque des considérations d'ordre technique ou
+économique justifient une coordination à un tel niveau. En ce cas le ministre
+chargé de l'agriculture exerce la fonction de personne responsable, au sens des
+dispositions de l'article 44 du code des marchés publics.
 
-- la nature des prestations faisant l'objet du marché en spécifiant si celles-ci
-doivent être assurées par une entreprise unique ou peuvent être confiées à un
-groupement d'entreprises conjointes ;
-
-- le mode de rémunération des opérations dont l'exécution est confiée au
-titulaire du marché, laquelle est exclusive de toute rémunération perçue auprès
-des usagers du service public ;
-
-- les informations qui doivent être fournies à l'administration par le titulaire
-du marché pour apprécier la qualité et le coût du service ;
-
-- les modalités d'information du public sur les conditions d'organisation et de
-fonctionnement du service.
-
-Le cahier des clauses techniques particulières définit les conditions techniques
-de collecte, de transport, de transformation et, le cas échéant, de destruction
-des cadavres d'animaux et déchets d'abattoirs, dans le respect des garanties
-sanitaires assuré, notamment, par une séparation appropriée des différents types
-de déchets aux divers stades d'exécution du service et par l'établissement de
-documents permettant le contrôle des opérations réalisées.
+III. - Les personnes responsables des marchés désignées conformément aux
+dispositions du I et II du présent article sont chargées de l'engagement et de
+la liquidation des dépenses afférentes à ces marchés. Celles-ci sont
+ordonnancées par le directeur général du Centre national pour l'aménagement des
+structures des exploitations agricoles puis mises en paiement par l'agent
+comptable du centre.

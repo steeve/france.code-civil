@@ -1,12 +1,10 @@
 Article 264-1
 ----
-Le préfet est chargé, dans chaque département, de l'exécution du service public
-de l'équarrissage et passe à cet effet, selon les procédures définies par le
-code des marchés publics, les marchés nécessaires, dont il est la personne
-responsable au sens de l'article 44 de ce dernier code.
-
-Toutefois, lorsque la nature des opérations le justifie, un marché unique peut
-être passé avec la même entreprise pour plusieurs départements. En ce cas, le
-marché désigne le préfet responsable au sens de l'article 44.
-
-La durée de ces marchés ne peut excéder cinq ans.
+Le financement des dépenses nécessaires à l'exécution du service public de
+l'équarrissage est assuré par le fonds institué en vertu de l'article 302 bis ZD
+du code général des impôts. Ces dépenses comprennent, outre celles qui sont
+engagées pour l'exécution des marchés passés en application de l'article 264-2
+du présent code, les dépenses exposées en vue de la passation de ces marchés,
+notamment les dépenses afférentes à la publicité et à l'étude des offres, ainsi
+que les dépenses nécessaires à la réalisation des opérations d'analyse et de
+contrôle réalisées en vue de l'attestation du service fait.
