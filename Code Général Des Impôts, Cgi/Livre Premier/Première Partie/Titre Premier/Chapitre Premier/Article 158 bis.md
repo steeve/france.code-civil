@@ -11,17 +11,26 @@ Ce crédit d'impôt est égal à la moitié des sommes effectivement versées pa
 société.
 
 Il ne peut être utilisé que dans la mesure où le revenu est compris dans la base
-de l'impôt sur le revenu dû par le bénéficiaire. Il est reçu en paiement de cet
-impôt.
+de l'impôt sur le revenu dû par le bénéficiaire.
+
+Il est reçu en paiement de cet impôt.
 
 Il est restitué aux personnes physiques dans la mesure où son montant excède
 celui de l'impôt dont elles sont redevables.
 
-((II. - Par exception aux dispositions prévues au I, ce crédit d'impôt est égal
-à 45 % des sommes effectivement versées par la société lorsque la personne
+II. - Par exception aux dispositions prévues au I, ce crédit d'impôt est égal à
+40 % (1) des sommes effectivement versées par la société lorsque la personne
 susceptible d'utiliser ce crédit n'est pas une personne physique. Cette
 disposition ne s'applique pas lorsque le crédit d'impôt est susceptible d'être
-utilisé dans les conditions prévues au 2 de l'article 146)) (M).
+utilisé dans les conditions prévues au 2 de l'article 146.
 
-(M) Modification - Ces dispositions s'appliquent aux crédits d'impôt utilisés à
-compter du 1er janvier 1999.
+Le crédit d'impôt calculé dans les conditions prévues à l'alinéa précédent est
+majoré d'un montant égal à 20 % du précompte versé par la société distributrice.
+Pour le calcul de cette majoration, il n'est pas tenu compte du précompte dû à
+raison d'un prélèvement sur la réserve des plus-values à long terme.(2)
+
+(1) Ces dispositions s'appliquent aux crédits d'impôt imputés ou restitués à
+compter du 1er janvier 2000.
+
+(2) Ces dispositions s'appliquent aux distributions mises en paiement à compter
+du 1er janvier 2000.

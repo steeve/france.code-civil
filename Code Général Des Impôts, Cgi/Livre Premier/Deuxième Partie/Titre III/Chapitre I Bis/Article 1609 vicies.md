@@ -17,25 +17,31 @@ assimilées aux huiles végétales alimentaires), lors de l'importation ;
 c) Pour les huiles qui font l'objet d'une acquisition intracommunautaire lors de
 l'acquisition.
 
-II. ((Les taux de la taxe sont fixés comme suit :
+II. Les taux de la taxe sont révisés chaque année au mois de décembre, par
+arrêté du ministre chargé du budget publié au Journal officiel, en fonction de
+l'évolution prévisionnelle en moyenne annuelle pour l'année suivante des prix à
+la consommation de tous les ménages hors les prix du tabac. Les évolutions
+prévisionnelles prises en compte sont celles qui figurent au rapport économique,
+social et financier annexé au dernier projet de loi de finances.
 
-((Huile d'olive, 0,972 F/Kg, 0,875 F/litre
+Huile d'olive, 0,981 F/Kg, 0,883 F/litre
 
-((Huiles d'arachide et de maïs, 0,875 F/Kg, 0,797 F/Litre
+Huiles d'arachide et de maïs, 0,883 F/Kg, 0,804 F/Litre
 
-((Huiles de colza et de pépins de raisin, 0,449 F/Kg, 0,408 F/litre
+Huiles de colza et de pépins de raisin, 0,453 F/Kg, 0,412 F/litre
 
-((Autres huiles végétales fluides et huiles d'animaux marins dont le commerce et
+Autres huiles végétales fluides et huiles d'animaux marins dont le commerce et
 l'utilisation ne sont pas soumis aux règles internationales ou nationales
-relatives aux espèces protégées, 0,764 F/Kg, 0,666 F/litre
+relatives aux espèces protégées, 0,771 F/Kg, 0,672 F/litre
 
-((Huiles de coprah et de palmiste, 0,583 F/Kg
+Huiles de coprah et de palmiste, 0,588 F/Kg
 
-((Huile de palme, 0,534 F/Kg
+Huile de palme, 0,539 F/Kg
 
-((Huiles d'animaux marins dont le commerce et l'utilisation sont soumis aux
-règles internationales ou nationales relatives aux espèces protégées, 0,972
-F/Kg)) (M).
+Huiles d'animaux marins dont le commerce et l'utilisation sont soumis aux règles
+internationales ou nationales relatives aux espèces protégées, 0,981 F/Kg.
+
+Ces taux sont applicables à compter du 1er janvier 2000.
 
 Pour les produits alimentaires importés ou qui font l'objet d'une acquisition
 intracommunautaire incorporant des huiles imposables, la taxation est effectuée
@@ -64,5 +70,3 @@ soit perçue qu'une seule fois, et pour qu'elle ne soit pas supportée en cas
 d'exportation, de livraison exonérée en vertu du I de l'article 262 ter ou de
 livraison dans un lieu situé dans un autre Etat membre de la Communauté
 européenne en application de l'article 258 A.
-
-(M) Modification.

@@ -14,6 +14,10 @@ agricoles accomplies à titre exclusif ou principal. Ce même décret précise l
 modalités suivant lesquelles seront déterminées les périodes d'assurance
 précédemment mentionnées.
 
+A compter du 1er janvier 2000, le minimum de retraite proportionnelle mentionné
+à l'alinéa précédent est relevé par décret. La majoration totale qui en résulte
+n'est pas cumulable avec celle prévue au II qui s'applique en priorité.
+
 II. - Les titulaires de la majoration forfaitaire des pensions de réversion
 prévue au deuxième alinéa du VI de l'article 71 de la loi n° 95-95 du 1er
 février 1995 de modernisation de l'agriculture bénéficient, à compter du 1er
@@ -25,8 +29,11 @@ Cette majoration a pour objet de porter le montant de celle-ci à un montant
 minimum qui est fixé par décret et qui tient compte de leurs périodes d'activité
 non salariée agricole accomplies à titre exclusif ou principal.
 
-Cette majoration n'est pas cumulable avec la majoration prévue au I qui
-s'applique en priorité.
+Au titre de l'année 1999, cette majoration n'est pas cumulable avec la
+majoration prévue au I qui s'applique en priorité.
+
+A compter du 1er janvier 2000, le montant minimum mentionné au deuxième alinéa
+est relevé par décret.
 
 III. - Les personnes dont la retraite forfaitaire a pris effet avant le 1er
 janvier 1998 bénéficient, à compter du 1er janvier 1999, d'une majoration de la
@@ -49,3 +56,7 @@ exercé leur activité en qualité d'aide familial, ils sont considérés comme 
 familiaux pour l'application des dispositions du présent article dès lors qu'ils
 ont exercé en cette dernière qualité pendant une durée supérieure à un seuil
 fixé par décret.
+
+A compter du 1er janvier 2000, pour les personnes remplissant les conditions
+fixées au premier alinéa, le montant, tel que prévu au deuxième alinéa, de cette
+majoration, est relevé par décret.

@@ -12,7 +12,7 @@ d'alimentation en eau potable et d'assainissement dans les communes rurales ;
 3° Subsidiairement, l'octroi de prêts pour le financement des travaux
 d'alimentation en eau potable dans les communes rurales.
 
-4° Jusqu'au 31 décembre 2000, l'attribution de subventions en capital aux
+4° Jusqu'au 31 décembre 1999, l'attribution de subventions en capital aux
 exploitations agricoles pour l'exécution de travaux de maîtrise des pollutions
 d'origine agricole destinés à assurer la protection de la qualité de l'eau.
 

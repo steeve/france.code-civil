@@ -52,7 +52,7 @@ combattant ou du titre de reconnaissance de la Nation.
 
 Le montant maximal donnant lieu à majoration par l'Etat de la rente qui peut
 être constituée au profit des bénéficiaires visés par les dispositions du
-présent article est calculé par référence à l'indice 100 des pensions militaires
+présent article est calculé par référence à l'indice 105 des pensions militaires
 d'invalidité et des victimes de guerre. Il est exprimé en francs au 1er janvier
 de chaque année en fonction de la valeur du point des pensions militaires
 d'invalidité à cette date.

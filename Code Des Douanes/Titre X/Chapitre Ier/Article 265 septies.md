@@ -23,8 +23,8 @@ la consommation des ménages de l'année précédente associé au projet de loi 
 finances de l'année du remboursement.
 
 Le remboursement est plafonné à 40 000 litres de gazole par an et par véhicule.
-Il est accordé aux entreprises établies dans l'Union européenne qui sont en
-mesure de justifier qu'elles ont acquis du gazole en France au cours de la
+Il est accordé aux entreprises établies dans la Communauté européenne qui sont
+en mesure de justifier qu'elles ont acquis du gazole en France au cours de la
 période couverte par le remboursement et que ce gazole a été utilisé comme
 carburant dans des véhicules ci-dessus définis et immatriculés dans l'un des
 Etats membres.
@@ -34,6 +34,7 @@ le 11 janvier d'une année et le 10 janvier de l'année suivante.
 
 Les entreprises concernées peuvent adresser leur demande de remboursement au
 service des douanes à partir du 12 janvier de l'année suivant la période au
-titre de laquelle le remboursement est sollicité.
+titre de laquelle le remboursement est sollicité et au plus tard dans les trois
+ans qui suivent à compter de cette date.
 
 Les modalités d'application du présent article sont fixées par décret.
