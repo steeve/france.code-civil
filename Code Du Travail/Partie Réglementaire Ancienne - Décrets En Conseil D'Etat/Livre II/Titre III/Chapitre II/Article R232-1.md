@@ -1,9 +1,9 @@
 Article R232-1
 ----
-Les locaux de travail et leurs annexes sont régulièrement entretenus et nettoyés
-; ils doivent en outre être exempts de tout encombrement.
-
-Le médecin du travail et le comité d'hygiène, de sécurité et des conditions de
-travail [*CHSCT*], ou, à défaut, les délégués du personnel, sont appelés à
-donner leur avis sur les mesures à prendre pour satisfaire aux obligations
-prévues à l'alinéa précédent.
+Au sens du présent chapitre, on entend [*définition*] par lieux de travail les
+lieux destinés à recevoir des postes de travail situés ou non dans les bâtiments
+de l'établissement, ainsi que tout autre endroit compris dans l'aire de
+l'établissement auquel le travailleur a accès dans le cadre de son travail. Les
+champs, bois et autres terrains faisant partie d'un établissement agricole ou
+forestier, mais situés en dehors de la zone bâtie d'un tel établissement, ne
+sont pas considérés comme des lieux de travail.

@@ -1,13 +1,5 @@
 Article R232-1-4
 ----
-L'air envoyé après recyclage dans les locaux à pollution non spécifique doit
-être filtré.
-
-L'air recyclé n'est pas pris encompte pour le calcul du débit minimal d'air neuf
-prévu dans le tableau figurant à l'article R. 232-1-3.
-
-En cas de panne du système d'épuration ou de filtration, le recyclage doit être
-arrêté.
-
-L'air pollué d'un local à pollution spécifique ne doit pas être envoyé après
-recyclage dans un local à pollution non spécifique.
+Le chef d'établissement prend toutes dispositions nécessaires pour que seuls les
+salariés autorisés à cet effet puissent accéder aux zones de danger ; les
+mesures appropriées doivent être prises pour protéger ces travailleurs.

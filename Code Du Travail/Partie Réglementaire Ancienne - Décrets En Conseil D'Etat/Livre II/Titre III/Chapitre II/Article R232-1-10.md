@@ -1,14 +1,19 @@
 Article R232-1-10
 ----
-L'inspecteur du travail peut prescrire au chef d'établissement de faire procéder
-par une personne ou un organisme agréé aux contrôles et aux mesures permettant
-de vérifier le respect des dispositions des articles R. 232-1-3 à R. 232-1-9.
+Les postes de travail extérieurs doivent être aménagés de telle façon que les
+travailleurs :
 
-Le chef d'établissement choisit la personne ou l'organisme agréé sur une liste
-dressée par le ministre chargé du travail et par le ministre chargé de
-l'agriculture.
+1° Puissent rapidement quitter leur poste de travail en cas de danger ou
+puissent rapidement être secourus ;
 
-Le chef d'établissement justifie qu'il a saisi l'organisme agréé dans les quinze
-jours suivant la date de demande de vérification et transmet à l'inspecteur du
-travail les résultats qui lui sont communiqués dans les dix jours qui suivent
-cette communication [*délai*].
+2° Soient protégés contre la chute d'objets ;
+
+3° Dans la mesure du possible :
+
+a) Soient protégés contre les conditions atmosphériques ;
+
+b) Ne soient pas exposés à des niveaux sonores nocifs ou à des émissions de gaz,
+vapeurs, aérosols de particules solides ou liquides de substances insalubres,
+gênantes ou dangereuses ;
+
+c) Ne puissent glisser ou chuter.
