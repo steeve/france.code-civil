@@ -5,5 +5,5 @@ transfusion sanguine unique pour assurer son approvisionnement en produits
 sanguins labiles. Il communique le nom de cet établissement au préfet de région.
 
 Chaque établissement de transfusion sanguine doit faire connaître à l'Agence
-française du sang les établissements de santé dont il assure
-l'approvisionnement.
+française de sécurité sanitaire des produits de santé les établissements de
+santé dont il assure l'approvisionnement.

@@ -1,6 +1,6 @@
 Article R666-12-11
 ----
-I. Chaque établissement de transfusion sanguine est tenu de recueillir et de
+I. - Chaque établissement de transfusion sanguine est tenu de recueillir et de
 conserver, pour chaque unité de produit sanguin labile dont il assure la
 préparation, les informations suivantes :
 
@@ -23,9 +23,10 @@ e) L'identification du prescripteur et l'identification du patient auquel a ét�
 administrée l'unité ou, le cas échéant, la date de destruction de l'unité ou de
 sa restitution à l'établissement de transfusion sanguine.
 
-II. En outre, à la demande de l'Agence française du sang, l'établissement de
-transfusion recueille et conserve toutes les informations nécessaires à
-l'hémovigilance auxquelles il a accès et qui portent sur :
+II. - En outre, à la demande de l'Agence française de sécurité sanitaire des
+produits de santé, l'établissement de transfusion recueille et conserve toutes
+les informations nécessaires à l'hémovigilance auxquelles il a accès et qui
+portent sur :
 
 a) Les transfusions autologues auxquelles l'établissement a pris part ;
 
@@ -35,11 +36,12 @@ pratiqués sur le patient ;
 c) La conservation, aux fins d'analyses ultérieures, d'échantillons biologiques
 prélevés sur le don du sang.
 
-III. Les établissements de santé font parvenir à leur établissement de
+III. - Les établissements de santé font parvenir à leur établissement de
 transfusion sanguine distributeur les informations relatives aux d et e du I et
 au b du II ci-dessus.
 
-Des directives techniques de l'Agence française du sang peuvent préciser le
-contenu des informations mentionnées au présent article et fixer les modalités
-de leur recueil par l'établissement de transfusion ou de leur transmission par
-les établissements de santé.
+Des directives techniques de l'Agence française de sécurité sanitaire des
+produits de santé prises après avis de l'Etablissement français du sang peuvent
+préciser le contenu des informations mentionnées au présent article et fixer les
+modalités de leur recueil par l'établissement de transfusion ou de leur
+transmission par les établissements de santé.

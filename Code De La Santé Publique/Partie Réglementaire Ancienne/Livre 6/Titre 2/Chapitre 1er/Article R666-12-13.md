@@ -26,9 +26,9 @@ cédée l'unité ainsi que la date et les circonstances de la cession ;
 f) Tout effet inattendu ou indésirable lié, ou susceptible d'être lié, à
 l'administration de l'unité.
 
-II. En outre, à la demande de l'Agence française du sang, l'établissement
-recueille et conserve toutes les informations relatives à l'hémovigilance
-auxquelles il a accès et qui portent sur :
+II. En outre, à la demande de l'Agence française de sécurité sanitaire des
+produits de santé, l'établissement recueille et conserve toutes les informations
+relatives à l'hémovigilance auxquelles il a accès et qui portent sur :
 
 a) Les transfusions autologues pré- et peropératoires pratiquées dans
 l'établissement ;
@@ -46,7 +46,8 @@ III. L'établissement de transfusion sanguine distributeur fait parvenir à
 l'établissement de santé les informations relatives aux a et b du I et, le cas
 échéant, au b du II ci-dessus.
 
-Des directives techniques de l'Agence française du sang peuvent préciser le
-contenu des informations mentionnées au présent article et fixer les modalités
-de leur recueil par l'établissement de santé ou de leur transmission par
-l'établissement de transfusion sanguine.
+Des directives techniques de l'Agence française de sécurité sanitaire des
+produits de santé prises après avis de l'Etablissement français du sang peuvent
+préciser le contenu des informations mentionnées au présent article et fixer les
+modalités de leur recueil par l'établissement de santé ou de leur transmission
+par l'établissement de transfusion sanguine.

@@ -1,11 +1,11 @@
 Article R666-12-21
 ----
-A la demande de l'Agence française du sang ou du préfet de région, ou de sa
-propore initiative, le coordonnateur régional de l'hémovigilance se fait
-communiquer par le ou les correspondants d'hémovigilance compétents toute
-information que les établissements de transfusion sanguine ou de santé
-recueillent et détiennent en application des articles R. 666-12-12 et R.
-666-12-14.
+A la demande de l'Agence française de sécurité sanitaire des produits de santé
+ou du préfet de région, ou de sa propore initiative, le coordonnateur régional
+de l'hémovigilance se fait communiquer par le ou les correspondants
+d'hémovigilance compétents toute information que les établissements de
+transfusion sanguine ou de santé recueillent et détiennent en application des
+articles R. 666-12-12 et R. 666-12-14.
 
 Dans les mêmes conditions et à partir de ces informations, le coordonnateur
 procède ou fait procéder par les correspondants d'hémovigilance à toute
@@ -22,10 +22,11 @@ déterminé.
 
 Les résultats des investigations mentionnées aux alinéas précédents sont
 transmis par le coordonnateur régional au préfet de région, à l'Agence française
-du sang et, le cas échéant, à la personne morale visée au c de l'article R.
-666-12-2.
+de sécurité sanitaire des produits de santé et, le cas échéant, à la personne
+morale visée au c de l'article R. 666-12-2.
 
-Une directive technique de l'Agence française du sang peut fixer les modalités
-des échanges d'information, liés à ces investigations, entre les établissements
-et le coordonnateur, d'une part, entre le coordonnateur et l'agence, d'autre
-part.
+Une directive technique de l'Agence française de sécurité sanitaire des produits
+de santé prises après avis de l'Etablissement français du sang peut fixer les
+modalités des échanges d'information, liés à ces investigations, entre les
+établissements et le coordonnateur, d'une part, entre le coordonnateur et
+l'agence, d'autre part.

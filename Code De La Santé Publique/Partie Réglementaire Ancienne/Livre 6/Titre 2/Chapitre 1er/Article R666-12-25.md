@@ -1,5 +1,5 @@
 Article R666-12-25
 ----
-L'Agence française du sang, le coordonnateur régional de l'hémovigilance et le
-préfet du département où survient l'incident sont destinataires des fiches
-d'incident transfusionnel.
+L'Agence française de sécurité sanitaire des produits de santé, l'Etablissement
+français du sang et le coordonnateur régional d'hémovigilance sont destinataires
+simultanément des fiches d'incident transfusionnel.

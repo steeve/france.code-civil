@@ -7,5 +7,6 @@ sanguine distributeur pour organiser la maintenance du dépôt et la surveillanc
 des produits entreposés.
 
 Un arrêté du ministre chargé de la santé, pris après avis du président de
-l'Agence française du sang, fixe les clauses obligatoires que doivent comporter
-ces conventions.
+l'Etablissement français du sang et du directeur général de l'Agence française
+de sécurité sanitaire des produits de santé, fixe les clauses obligatoires que
+doivent comporter ces conventions.

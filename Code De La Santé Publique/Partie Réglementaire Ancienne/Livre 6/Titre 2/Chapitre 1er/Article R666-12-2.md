@@ -1,13 +1,14 @@
 Article R666-12-2
 ----
-L'Agence française du sang assure [*organisme compétent*] la mise en oeuvre de
-l'hémovigilance. Elle en définit [*rôle*] les orientations, anime et coordonne
-les actions des différents intervenants et veille au respect des procédures de
-surveillance organisées par la présente section. Elle prend, le cas échéant, les
-mesures appropriées en vue d'assurer la sécurité transfusionnelle ou saisit les
-autorités compétentes.
+L'Agence française de sécurité sanitaire des produits de santé assure
+[*organisme compétent*] la mise en oeuvre de l'hémovigilance. Elle en définit
+[*rôle*] les orientations, anime et coordonne les actions des différents
+intervenants et veille au respect des procédures de surveillance organisées par
+la présente section. Elle prend, le cas échéant, les mesures appropriées en vue
+d'assurer la sécurité transfusionnelle ou saisit les autorités compétentes.
 
-Pour l'exercice de cette mission, l'Agence française du sang :
+Pour l'exercice de cette mission, l'Agence française de sécurité sanitaire des
+produits de santé :
 
 a) Est informée, dans les conditions prévues aux articles R. 666-12-25 et R.
 666-12-26, de tout effet inattendu ou indésirable résultant de l'utilisation
