@@ -1,11 +1,11 @@
 Article R328-1
 ----
-Est puni de la peine d'amende prévue pour les contraventions de cinquième classe
-le fait pour tout dirigeant d'une entreprise soumise au contrôle de l'Etat en
-vertu de l'article L. 310-1 :
+Est puni de la peine d'amende [*sanctions pénales*] prévue pour les
+contraventions de cinquième classe le fait pour tout dirigeant d'une entreprise
+soumise au contrôle de l'Etat en vertu de l'article L. 310-1 :
 
 1° De méconnaître les obligations ou interdiction résultant des articles R.
-321-17-1, R. 322-3, R. 322-8 (1er alinéa), R. 322-77 (1er alinéa), R. 323-8
+321-17-1, R. 322-3, R. 322-8 (1er alinéa), R. 322-73 (1er alinéa), R. 323-8
 (dernier alinéa), R. 326-1, R. 331-1, R. 332-1 et R. 332-38 ;
 
 2° De ne pas produire un programme de rétablissement, un plan de redressement ou
