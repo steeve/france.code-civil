@@ -21,10 +21,10 @@ II. - L'instruction du dossier est assurée :
 a) Pour la création d'entreprises, dans les mêmes conditions que pour les aides
 prévues à l'article L. 325-1 et peut être examinée conjointement à celles-ci ;
 
-b) Pour la formation en mobilité, par l'Agence nationale pour l'insertion et la
-promotion des travailleurs d'outre-mer ou par l'organisme agréé à cet effet
-selon les modalités prévues au X du présent article avec, le cas échéant, le
-concours de l'Agence nationale pour l'emploi.
+b) Pour la formation en mobilité, par le délégué de l'Agence nationale pour
+l'insertion et la promotion des travailleurs d'outre-mer ou par celui de
+l'Agence nationale pour l'emploi ou par le responsable de l'organisme agréé à
+cet effet selon les modalités prévues au X du présent article.
 
 III. - Pour l'application des dispositions du a de l'article L. 324-9, est
 considéré comme remplissant la condition de direction effective de l'entreprise
