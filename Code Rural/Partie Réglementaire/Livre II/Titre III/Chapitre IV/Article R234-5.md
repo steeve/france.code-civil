@@ -1,8 +1,6 @@
-Article R5141-12
+Article R234-5
 ----
-Comme il est dit à l'article R. 234-5 du code rural ainsi reproduit :
-
-" Lorsqu'une personne qui détient des animaux appartenant à une des espèces dont
+Lorsqu'une personne qui détient des animaux appartenant à une des espèces dont
 la chair ou les produits sont destinés à la consommation humaine envisage de
 mener des essais de médicaments autres que ceux mentionnés à l'article R. 234-4,
 elle doit en faire la déclaration au préfet du département où l'essai est
@@ -11,4 +9,4 @@ assurer, à ses frais, dans un établissement mentionné à l'article L. 226-9, 
 destruction des animaux objet de l'essai ainsi que de leurs produits.
 
 Un arrêté du ministre chargé de l'agriculture précise le contenu de la
-déclaration et le délai dans lequel elle doit être adressée au préfet. "
+déclaration et le délai dans lequel elle doit être adressée au préfet.

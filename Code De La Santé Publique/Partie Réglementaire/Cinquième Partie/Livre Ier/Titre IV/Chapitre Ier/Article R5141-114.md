@@ -1,6 +1,8 @@
-Article R234-6
+Article R5141-114
 ----
-I. - Les médicaments vétérinaires contenant des substances ou catégories de
+Comme il est dit à l'article R.* 234-6 du code rural ainsi reproduit :
+
+"I. - Les médicaments vétérinaires contenant des substances ou catégories de
 substances à activité anabolisante, anticatabolisante ou bêta-agoniste ne
 peuvent être administrés à des animaux appartenant à des espèces dont la chair
 ou les produits sont destinés à la consommation humaine que dans les conditions
@@ -19,8 +21,9 @@ b) Les substances bêta-agonistes :
 - pour l'espèce bovine par voie injectable, pour l'induction de la tocolyse ;
 
 - pour les équidés non destinés à la consommation humaine et les animaux de
-compagnie pour le traitement des troubles respiratoires ou l'induction de la
-tocolyse ;
+compagnie ;
+
+- pour le traitement des troubles respiratoires ou l'induction de la tocolyse ;
 
 c) Le trembolone allyle, ou altrenogest, administré à des équidés et des animaux
 de compagnie, par voie orale, et pour le traitement d'un trouble de la fécondité
@@ -59,4 +62,4 @@ supérieur à quinze jours ;
 3° Des substances à effet hormonal pour lesquelles il n'existe pas de réactifs
 permettant leur identification ou leur dosage, ni le matériel nécessaire à la
 mise en oeuvre d'analyses destinées à détecter des résidus à des taux supérieurs
-aux limites autorisées.
+aux limites autorisées."
