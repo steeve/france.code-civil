@@ -7,7 +7,7 @@ décision de refus. Dans le cas où le bénéfice de la suppression ou de la
 limitation est demandé par l'assuré, la caisse est tenue de répondre dans le
 délai d'un mois à compter de la date de réception de la demande. Le défaut de
 réponse dans ce délai vaut décision de rejet et ouvre droit au recours de
-l'assuré .
+l'assuré.
 
 Les contestations relatives à l'application de l'article R. 322-5 ci-dessus
 donnent lieu, lorsqu'elles portent sur l'appréciation faite par le médecin
