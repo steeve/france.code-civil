@@ -10,8 +10,8 @@ A défaut de remise en vigueur du contrat par accord des parties ou de
 résiliation par l'une d'elles, la résiliation intervient de plein droit à
 l'expiration d'un délai de six mois à compter de l'aliénation.
 
-L'assuré doit informer l'assureur, par lettre recommandée avec demande d'avis de
-réception, de la date d'aliénation.
+L'assuré doit informer l'assureur, par lettre recommandée, de la date
+d'aliénation.
 
 Il peut être stipulé au contrat qu'à défaut de cette notification, l'assureur a
 droit à une indemnité d'un montant égal à la portion de prime échue ou à échoir
@@ -23,3 +23,7 @@ Il peut également être stipulé une indemnité au profit de l'assureur lorsque
 résiliation est le fait de l'assuré ou intervient de plein droit par application
 du présent article. Le montant maximal de cette indemnité est également fixé à
 la moitié d'une prime annuelle.
+
+L'ensemble des dispositions du présent article est applicable en cas
+d'aliénation de navires ou de bateaux de plaisance quel que soit le mode de
+déplacement ou de propulsion utilisé.
