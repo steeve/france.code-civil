@@ -26,7 +26,8 @@ infection par le virus de l'immuno-déficience humaine ;
 - diabète insulino-dépendant ou non insulino-dépendant ne pouvant pas être
 équilibré par le seul régime ;
 
-- forme grave d'une affection neuro-musculaire (dont miopathie) ;
+- formes graves des affections neurologiques et musculaires (dont myopathie),
+épilepsie grave ;
 
 - hémoglobinopathie homozygote ;
 
