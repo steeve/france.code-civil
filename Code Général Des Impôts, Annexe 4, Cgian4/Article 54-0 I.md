@@ -1,7 +1,8 @@
 Article 54-0 I
 ----
-Les travaux d'impression des feuilles métalliques ainsi que les travaux de
-confection des capsules sont surveillés en permanence par le service des douanes
-et droits indirects qui a libre accès dans toutes les parties de
-l'établissement. Les travaux d'impression du timbre ne peuvent avoir lieu que
-sur des machines munies de compteurs plombés et agréés par l'administration.
+Le service des douanes et droits indirects a libre accès dans toutes les parties
+de l'établissement pour l'exercice de ses contrôles.
+
+Les travaux relatifs aux marques fiscales ne peuvent avoir lieu que sur des
+machines munies de compteurs agréés par l'administration des douanes et droits
+indirects en application de l'article 164 AP.

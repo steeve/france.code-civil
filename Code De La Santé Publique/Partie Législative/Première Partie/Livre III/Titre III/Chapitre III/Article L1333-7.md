@@ -1,8 +1,8 @@
 Article L1333-7
 ----
-Toute publicité relative à l'emploi de radio-éléments artificiels ou de produits
-en contenant, dans la médecine humaine ou vétérinaire, est interdite, sauf
-auprès des médecins, des vétérinaires et des pharmaciens.
-
-Toute autre publicité ne peut être faite qu'après autorisation du ou des
-ministres intéressés.
+Le fournisseur de sources radioactives scellées destinées à des activités
+soumises à déclaration ou autorisation préalable est tenu, lorsqu'elles cessent
+d'être utilisables conformément à leur destination, d'en assurer la reprise et
+de présenter une garantie financière destinée à couvrir, en cas de défaillance,
+les coûts de la récupération et de l'élimination de la source en fin
+d'utilisation.

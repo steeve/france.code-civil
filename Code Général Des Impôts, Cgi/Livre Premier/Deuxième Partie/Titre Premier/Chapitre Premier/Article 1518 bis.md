@@ -83,3 +83,7 @@ propriétés bâties.
 t. Au titre de 2000, à 1,01 pour les propriétés non bâties, pour les immeubles
 industriels ne relevant pas de l'article 1500 et pour l'ensemble des autres
 propriétés bâties.
+
+u. au titre de 2001, à 1.01 pour les propriétés non bâties, pour les immeubles
+industriels ne relevant pas de l'article 1500 et pour l'ensemble des autres
+propriétés bâties.

@@ -195,12 +195,12 @@ communes par le syndicat.
 compris la compensation prévue au I du D de l'article 44 modifié de la loi de
 finances pour 1999 (n° 98-1266 du 30 décembre 1998), et, le cas échéant, les
 compensations prévues au B de l'article 4 de la loi n° 96-987 du 14 novembre
-1996 relative à la mise en oeuvre du pacte de relance pour la ville ou au B de
-l'article 3 de la loi n° 96-1143 du 26 décembre 1996 relative à la zone franche
-de Corse, versées antérieurement aux communes, mais hors compensation prévue au
-IV bis de l'article 6 de la loi de finances pour 1987 (n° 86-1317 du 30 décembre
-1986), perçu par elle l'année précédant l'institution du taux de taxe
-professionnelle communautaire diminué du coût net des charges transférées
+1996 modifiée relative à la mise en oeuvre du pacte de relance pour la ville ou
+au B de l'article 3 de la loi n° 96-1143 du 26 décembre 1996 relative à la zone
+franche de Corse, versées antérieurement aux communes, mais hors compensation
+prévue au IV bis de l'article 6 de la loi de finances pour 1987 (n° 86-1317 du
+30 décembre 1986), perçu par elle l'année précédant l'institution du taux de
+taxe professionnelle communautaire diminué du coût net des charges transférées
 calculé dans les conditions définies au IV. L'attribution de compensation est
 majorée d'une fraction de la contribution d'une commune définie à l'article
 L302-8 du code de la construction et de l'habitation. Cette fraction est égale à

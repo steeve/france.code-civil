@@ -1,16 +1,17 @@
 Article L1333-11
 ----
-Toute installation de radiothérapie externe est soumise à un contrôle périodique
-de sa qualité et de sa sécurité, dès lors qu'elle peut émettre des rayonnements
-d'énergie supérieure à un seuil fixé par arrêté du ministre chargé de la santé,
-ou qu'elle figure sur une liste fixée par décret en Conseil d'Etat.
+Sans préjudice des dispositions prises en application de l'article L. 231-2 du
+code du travail, ni des dispositions prévues aux articles du présent chapitre,
+les rayonnements ionisants ne peuvent être utilisés sur le corps humain qu'à des
+fins de diagnostic, de traitement ou de recherches biomédicales menées dans les
+conditions définies au titre II du livre Ier de la présente partie.
 
-Un décret détermine les modalités d'application du présent article et notamment
-le ou les organismes chargés d'effectuer ces contrôles, la périodicité de
-ceux-ci, ainsi que les conditions de prise en charge de leur coût par les
-propriétaires des installations.
-
-Le ministre chargé de la santé ou le directeur de l'agence régionale de
-l'hospitalisation peut prononcer la suspension totale ou partielle de
-l'autorisation prévue à l'article L. 6122-1 pour une installation qui n'est pas
-soumise au contrôle prévu au présent article.
+Les professionnels pratiquant des actes de radiodiagnostic, de radiothérapie ou
+de médecine nucléaire à des fins de diagnostic, de traitement ou de recherche
+biomédicale exposant les personnes à des rayonnements ionisants et les
+professionnels participant à la réalisation de ces actes et à la maintenance et
+au contrôle de qualité des dispositifs médicaux doivent bénéficier, dans leur
+domaine de compétence, d'une formation théorique et pratique, initiale et
+continue, relative à la protection des personnes exposées à des fins médicales
+relevant, s'il y a lieu, des dispositions de l'article L. 900-2 du code du
+travail.

@@ -20,7 +20,7 @@ l'opération dans laquelle l'assujetti s'entremet est effectuée ;
 b) Pour les livraisons à soi-même entrant dans le champ d'application de
 l'article 257 7°, au moment de la livraison qui doit intervenir, au plus tard,
 lors du dépôt à la mairie de la déclaration prévue par la réglementation
-relative au permis de construire (1) ;
+relative au permis de construire ;
 
 c) Pour les mutations à titre onéreux ou les apports en société entrant dans le
 champ d'application du 7° de l'article 257, à la date de l'acte qui constate
@@ -35,10 +35,14 @@ intervient au dernier jour de chaque trimestre civil pour les livraisons à
 soi-même de travaux d'entretien mentionnés au c du 7° bis de l'article 257
 effectués au cours de ce trimestre.
 
+e) Pour les livraisons à soi-même mentionnées au 7° ter de l'article 257, au
+moment de la mise en service (1).
+
 2 La taxe est exigible :
 
 a) Pour les livraisons et les achats visés au a du 1 et pour les opérations
-mentionnées aux b, c et d du 1, lors de la réalisation du fait générateur ;
+mentionnées aux b, c, d et e du 1, (1) lors de la réalisation du fait générateur
+;
 
 Toutefois, pour les livraisons d'électricité, de gaz, de chaleur, de froid ou de
 biens similaires donnant lieu à des décomptes ou à des encaissements successifs,
@@ -52,14 +56,14 @@ premier enlèvement en suite d'abattage ;
 
 c) Pour les prestations de services, lors de l'encaissement des acomptes, du
 prix, de la rémunération ou, sur autorisation du directeur des services fiscaux,
-d'après les débits (2).
+d'après les débits.
 
 En cas d'escompte d'un effet de commerce, la taxe est exigible à la date du
 paiement de l'effet par le client.
 
 Les entrepreneurs de travaux immobiliers peuvent, dans des conditions et pour
 les travaux qui sont fixés par décret, opter pour le paiement de la taxe sur les
-livraisons (3).
+livraisons.
 
 d) Pour les acquisitions intracommunautaires, le 15 du mois suivant celui au
 cours duquel s'est produit le fait générateur.
@@ -68,8 +72,5 @@ Toutefois, la taxe devient exigible lors de la délivrance de la facture, à
 condition qu'elle précède la date d'exigibilité prévue à l'alinéa précédent et
 qu'il ne s'agisse pas d'une facture d'acompte.
 
-(1) Annexe II, art. 243 à 245.
-
-(2) Annexe III, art. 77.
-
-(3) Annexe III, art. 78 à 84.
+(1) Ces dispositions sont applicables aux ouvrages mis en service à compter du
+12 septembre 2000.

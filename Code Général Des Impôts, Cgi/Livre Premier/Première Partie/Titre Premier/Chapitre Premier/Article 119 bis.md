@@ -18,16 +18,17 @@ d'application de la retenue à la source.
 articles 108 à 117 bis donnent lieu à l'application d'une retenue à la source
 dont le taux est fixé par l'article 187-1 lorsqu'ils bénéficient à des personnes
 qui n'ont pas leur domicile fiscal ou leur siège en France. Un décret fixe les
-modalités et conditions d'application de cette disposition (1).
+modalités et conditions d'application de cette disposition.
 
 Toutefois, la retenue à la source ne s'applique pas aux sommes visées au premier
 alinéa du a de l'article 111.
 
-La retenue à la source ne s'applique pas (2) aux distributions des sociétés de
-capital-risque qui fonctionnent dans les conditions prévues à l'article 1er de
-la loi n° 85-695 du 11 juillet 1985 modifiée lorsque :
+La retenue à la source ne s'applique pas aux distributions des sociétés de
+capital-risque qui fonctionnent dans les conditions prévues aux articles 1er et
+1er-1 de la loi n° 85-695 du 11 juillet 1985 modifiée lorsque :
 
-a) la distribution entre dans les prévisions du 4 de l'article 39 terdecies ;
+a) la distribution entre dans les prévisions du 4 ou 5 de l'article 39 terdecies
+;
 
 b) le bénéficiaire effectif est une personne morale qui a son siège de direction
 effective dans un Etat ayant conclu avec la France une convention fiscale
@@ -36,7 +37,3 @@ interne ;
 
 c) la distribution est comprise dans des bénéfices déclarés dans cet Etat mais
 bénéficie d'une exonération d'impôt.
-
-(1) Annexe II, art. 48, 75 à 79.
-
-(2) Disposition applicable à compter du 1er janvier 1991.

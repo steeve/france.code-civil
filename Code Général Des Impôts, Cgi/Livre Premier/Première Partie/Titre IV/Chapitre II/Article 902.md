@@ -7,10 +7,10 @@ Sont exonérés du droit de timbre de dimension :
 1° a. Les minutes, originaux et expéditions des actes d'échange d'immeubles ;
 
 b. Les minutes, originaux et expéditions des actes ou procès-verbaux de vente ou
-licitation d'immeubles dont le prix n'est pas supérieur à 5.000 F.
+licitation d'immeubles dont le prix n'est pas supérieur à 5 000 F.
 
 Les cahiers des charges ne sont soumis au timbre de dimension qu'après la
-réalisation des ventes ou adjudications et seulement si le prix excède 5.000 F.
+réalisation des ventes ou adjudications et seulement si le prix excède 5 000 F.
 
 L'exonération du timbre n'est pas applicable aux actes, procès-verbaux et
 cahiers des charges susvisés qui contiennent des dispositions indépendantes dans
@@ -42,8 +42,7 @@ la vindicte publique ;
 5° Les copies des protêts, que les notaires et les huissiers de justice sont
 tenus de remettre aux greffiers des tribunaux de commerce ou des tribunaux de
 grande instance statuant commercialement en vertu des dispositions des articles
-162 du code de commerce et 65-3 du décret-loi du 30 octobre 1935 unifiant le
-droit en matière de chèque ;
+L. 511-55 du code de commerce et L. 131-73 du code monétaire et financier ;
 
 6° à 13° (Abrogés) ;
 
@@ -53,7 +52,7 @@ droit en matière de chèque ;
 
 16° Le répertoire visé à l'article 1002.
 
-3. Pièces et écrits divers.
+3. Pièces et écrits divers ;
 
 1° Les bordereaux d'inscription, ainsi que les pièces produites par les
 requérants pour obtenir l'accomplissement des formalités hypothécaires et qui
@@ -84,7 +83,7 @@ application ;
 9° (périmé).
 
 10° Les chèques-vacances institués par l'ordonnance n° 82-283 du 26 mars 1982
-modifiée portant création des chèques-vacances.
+modifiée portant création des chèques-vacances ;
 
 11° Les offres préalables de prêts rédigés conformément aux dispositions des
 chapitres II et III du titre I du livre III du code de la consommation ;
@@ -100,10 +99,10 @@ constatant la formation de sociétés en nom collectif, en commandite simple, à
 responsabilité limitée et par actions ainsi que des sociétés civiles à objet
 agricole et coopératives agricoles ;
 
-15° Les prêts de titres effectués dans les conditions du chapitre V de la loi n°
-87-416 du 17 juin 1987 sur l'épargne et les remises en garantie de valeurs,
-titres, effets ou sommes d'argent prévues à l'article 52 de la loi n° 96-597 du
-2 juillet 1996 de modernisation des activités financières ;
+15° Les prêts de titres effectués dans les conditions prévues par les articles
+L. 432-6 à L. 432-10 du code monétaire et financier et les remises en garantie
+de valeurs, titres, effets ou sommes d'argent prévues à l'article L. 431-7 du
+même code ;
 
 16° Les titres émis conformément aux dispositions de l'article L. 1611-6 du code
 général des collectivités territoriales.

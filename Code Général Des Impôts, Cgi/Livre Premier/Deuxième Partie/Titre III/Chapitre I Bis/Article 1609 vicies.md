@@ -22,27 +22,7 @@ arrêté du ministre chargé du budget publié au Journal officiel, en fonction 
 l'évolution prévisionnelle en moyenne annuelle pour l'année suivante des prix à
 la consommation de tous les ménages hors les prix du tabac. Les évolutions
 prévisionnelles prises en compte sont celles qui figurent au rapport économique,
-social et financier annexé au dernier projet de loi de finances. Ces taux sont
-fixés comme suit :
-
-Huile d'olive, 0,981 F/Kg, 0,883 F/litre
-
-Huiles d'arachide et de maïs, 0,883 F/Kg, 0,804 F/Litre
-
-Huiles de colza et de pépins de raisin, 0,453 F/Kg, 0,412 F/litre
-
-Autres huiles végétales fluides et huiles d'animaux marins dont le commerce et
-l'utilisation ne sont pas soumis aux règles internationales ou nationales
-relatives aux espèces protégées, 0,771 F/Kg, 0,672 F/litre
-
-Huiles de coprah et de palmiste, 0,588 F/Kg
-
-Huile de palme, 0,539 F/Kg
-
-Huiles d'animaux marins dont le commerce et l'utilisation sont soumis aux règles
-internationales ou nationales relatives aux espèces protégées, 0,981 F/Kg.
-
-Ces taux sont applicables à compter du 1er janvier 2000.
+social et financier annexé au dernier projet de loi de finances.
 
 Pour les produits alimentaires importés ou qui font l'objet d'une acquisition
 intracommunautaire incorporant des huiles imposables, la taxation est effectuée

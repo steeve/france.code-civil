@@ -1,7 +1,9 @@
 Article 54-0 BX
 ----
-Les récoltants individuels qui ne remplissent pas les conditions énoncées à
-l'article 54-0 BW peuvent être admis à détenir en droits acquittés et à utiliser
-des capsules commandées collectivement par l'intermédiaire de syndicats
-viticoles ou de groupements professionnels agréés dans les conditions définies
-aux articles 54-0 BY à 54-0 CD.
+Les capsules visées à l'article 54-0 BW doivent répondre aux caractéristiques
+fixées par les articles 54-0 B à 54-0 E à l'exception du numéro d'agrément de la
+personne responsable de l'embouteillage, qui est remplacé par celui attribué à
+la personne habilitée.
+
+Les bouteilles et récipients portant ces capsules doivent être revêtus par le
+récoltant d'étiquettes mentionnant obligatoirement ses nom et adresse.

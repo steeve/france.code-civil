@@ -2,10 +2,12 @@ Article 200
 ----
 1. Ouvrent droit à une réduction d'impôt sur le revenu égale à 50 % de leur
 montant les sommes prises dans la limite de 6 % du revenu imposable qui
-correspondent à des dons et versements, effectués par les contribuables
-domiciliés en France au sens de l'article 4 B, au profit :
+correspondent à des dons et versements, y compris l'abandon exprès de revenus ou
+produits, effectués par les contribuables domiciliés en France au sens de
+l'article 4 B, au profit :
 
-a. De fondations ou associations reconnues d'utilité publique ;
+a. De fondations ou associations reconnues d'utilité publique répondant aux
+conditions fixées au b ;
 
 b. D'oeuvres ou d'organismes d'intérêt général ayant un caractère
 philanthropique, éducatif, scientifique, social, humanitaire, sportif, familial,
@@ -14,8 +16,9 @@ défense de l'environnement naturel ou à la diffusion de la culture, de la lang
 et des connaissances scientifiques françaises ;
 
 c. Des établissements d'enseignement supérieur ou d'enseignement artistique,
-publics ou privés, à but non lucratif, agréés par le ministre chargé de
-l'enseignement supérieur, ou par le ministre chargé de la culture ;
+publics ou privés, à but non lucratif, agréés par le ministre chargé du budget,
+ainsi que par le ministre chargé de l'enseignement supérieur, ou par le ministre
+chargé de la culture ;
 
 d. D'organismes visés au 4 de l'article 238 bis ;
 
@@ -80,6 +83,4 @@ cotisations d'un montant égal ou inférieur à 20 000 F ne mentionnent pas la
 dénomination du bénéficiaire. Un décret en Conseil d'Etat détermine les
 modalités d'application de cette disposition.
 
-6. Abrogé.
-
-7. Abrogé.
+6. et 7. Abrogés.

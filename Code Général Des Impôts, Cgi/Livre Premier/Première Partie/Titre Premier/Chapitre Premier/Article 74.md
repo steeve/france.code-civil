@@ -2,7 +2,7 @@ Article 74
 ----
 Le bénéfice imposable des exploitants placés sous le régime simplifié
 d'imposition d'après le bénéfice réel est déterminé conformément aux
-dispositions des articles 72 à 73 C sous réserve des simplifications suivantes :
+dispositions des articles 72 à 73 D sous réserve des simplifications suivantes :
 
 a. La comptabilité de l'exploitation n'enregistre journellement que les
 encaissements et les paiements ; les créances et les dettes sont constatées à la

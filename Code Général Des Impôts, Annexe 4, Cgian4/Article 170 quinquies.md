@@ -20,8 +20,6 @@ c. Pour les opérations liées à celles mentionnées aux a et b ;
 
 d. (Abrogé) ;
 
-2° Dans les autres cas, par le directeur régional des impôts dont dépend le lieu
-de situation de l'établissement (1).
-
-(1) Ces dispositions sont applicables aux demandes d'agrément déposées à compter
-du 1er janvier 1989.
+2° Dans les autres cas, par le directeur des services fiscaux du département au
+chef-lieu duquel est localisée la direction de contrôle fiscal dans le ressort
+de laquelle est situé l'établissement.

@@ -11,7 +11,7 @@ fiscale ,
 
 b. Soit à valider les titres de mouvement et autres documents de circulation
 prévus par les réglementations dont l'application incombe à l'administration des
-impôts ou à l'administration des douanes et droits indirects ;
+impôts.
 
 2° Sous le nom de "supports",les actes et écrits de toute nature soumis à un
 droit de timbre, les documents destinés à légitimer le transport des produits

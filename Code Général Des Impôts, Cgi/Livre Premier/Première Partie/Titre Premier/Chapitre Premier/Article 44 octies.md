@@ -40,8 +40,7 @@ b) produits correspondant aux subventions, libéralités et abandons de créance
 c) produits de créances et d'opérations financières pour le montant qui excède
 le montant des frais financiers engagés au cours du même exercice ou de la même
 année d'imposition, si le contribuable n'est pas un établissement de crédit visé
-à l'article 1er de la loi n° 84-46 du 24 janvier 1984 modifiée relative à
-l'activité et au contrôle des établissements de crédit ;
+à l'article L. 511-1 du code monétaire et financier ;
 
 d) produits tirés des droits de la propriété industrielle et commerciale,
 lorsque ces droits n'ont pas leur origine dans l'activité exercée dans l'une des

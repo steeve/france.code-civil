@@ -10,11 +10,11 @@ Un décret en Conseil d'Etat fixe les modalités de l'amortissement dégressif.
 Les taux d'amortissement dégressif sont obtenus en multipliant les taux
 d'amortissement linéaire par un coefficient fixé à :
 
-1,25 lorsque la durée normale d'utilisation est de trois ou quatre ans ;
+a. 1,25 lorsque la durée normale d'utilisation est de trois ou quatre ans ;
 
-1,75 lorsque cette durée normale est de cinq ou six ans ;
+b. 1,75 lorsque cette durée normale est de cinq ou six ans ;
 
-2,25 lorsque cette durée normale est supérieure à six ans.
+c. 2,25 lorsque cette durée normale est supérieure à six ans.
 
 L'amortissement dégressif s'applique annuellement, dans la limite des plafonds,
 à la valeur résiduelle du bien à amortir.

@@ -30,12 +30,10 @@ civile du transporteur des transports terrestres ;
 8° Les assurances des crédits à l'exportation ;
 
 9° Les contrats de garantie souscrits auprès des entreprises d'assurances en
-application de l'article 37 modifié de la loi n° 88-1201 du 23 décembre 1988
-relative aux organismes de placement collectif en valeurs mobilières et portant
-création des fonds communs de créances et de l'article 9 modifié du décret n°
-89-158 du 9 mars 1989 portant application des articles 26 et 34 à 42 de la loi
-n° 88-1201 du 23 décembre 1988 modifiée et relatif aux fonds communs de créances
-;
+application de l'article L214-47 du code monétaire et financier et de l'article
+9 modifié du décret n° 89-158 du 9 mars 1989 portant application des articles 26
+et 34 à 42 de la loi n° 88-1201 du 23 décembre 1988 modifiée et relatif aux
+fonds communs de créances ;
 
 10° Les contrats souscrits par le Centre national de transfusion sanguine pour
 le compte des centres de transfusion sanguine auprès du groupement d'assureurs
@@ -57,17 +55,15 @@ camionnettes, fourgonnettes à utilisations exclusivement utilitaires ;
 
 13° Les contrats d'assurance maladie complémentaire couvrant les personnes
 physiques ou morales qui exercent exclusivement ou principalement une des
-professions agricoles ou connexes à l'agriculture définies aux articles 1024,
-1025, 1060 et 1061 du code rural ainsi que leurs salariés et les membres de la
+professions agricoles ou connexes à l'agriculture définies aux articles L722-4,
+L722-9, au 1° de l'article L722-10 et aux articles L722-21, L722-28, L722-29,
+L731-25 et L741-2 du code rural ainsi que leurs salariés et les membres de la
 famille de ces personnes, lorsqu'ils vivent avec elles sur l'exploitation.
 
-14° Les contrats d'assurance-dépendance (3).
+14° (Dispositions devenues sans objet).
 
 (1) Ces dispositions s'appliquent à compter du 1er juillet 1990, sauf pour les
 opérations d'assurance sur la vie réalisées dans le cadre d'un plan d'épargne
-populaire pour lesquels la date d'application est fixée au 1er janvier 1990.
+populaire exonérées dès le 1er janvier 1990.
 
 (2) Cette exonération s'applique à compter du 1er janvier 1991.
-
-(3) Ces dispositions s'appliquent aux primes versées à compter du 1er janvier
-1997.

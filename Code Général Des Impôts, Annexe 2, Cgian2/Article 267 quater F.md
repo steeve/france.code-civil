@@ -6,19 +6,19 @@ général des impôts s'entend d'un poids net exprimé en kilogrammes.
 II. - Les espèces mentionnées au 3 du V de l'article 302 bis WA du code général
 des impôts sont les suivantes :
 
-- harengs de l'espèce Clupea harengus ;
+a. harengs de l'espèce Clupea harengus ;
 
-- sardines de l'espèce Sardina pilchardus ;
+b. sardines de l'espèce Sardina pilchardus ;
 
-- maquereaux de l'espèce Scomber scombrus ;
+c. maquereaux de l'espèce Scomber scombrus ;
 
-- maquereaux de l'espèce Scomber japonicus ;
+d. maquereaux de l'espèce Scomber japonicus ;
 
-- chinchards de l'espèce Trachurus spp ;
+e. chinchards de l'espèce Trachurus spp ;
 
-- anchois de l'espèce Engraulis spp ;
+f. anchois de l'espèce Engraulis spp ;
 
-- picarels de l'espèce Maena smaris.
+g. picarels de l'espèce Maena smaris.
 
 Pour l'application de ces dispositions, un lot s'entend de la quantité de
 poissons d'une ou plusieurs des espèces susmentionnées, déchargée du même

@@ -1,23 +1,32 @@
 Article 159 AS
 ----
-En application de l'article 363 FA de l'annexe II, le montant de la taxe
-parafiscale perçue sur les céréales au profit de l'Association nationale pour le
-développement agricole est fixé comme suit, pour la campagne 1998-1999 :
+I. - En application de l'article 363 FA de l'annexe II au code général des
+impôts, le montant de la taxe parafiscale sur les céréales perçue au profit de
+l'Association nationale pour le développement agricole est fixé comme suit pour
+la campagne 2000-2001 :
 
-a. Blé tendre : 3,10 F par tonne ;
+a) 2,90 F par tonne pour le blé tendre, le blé dur, l'orge, le maïs et le riz ;
 
-b. Blé dur : 2,85 F par tonne ;
+b) 1,55 F par tonne pour l'avoine, le seigle, le sorgho et le triticale.
 
-c. Orge : 3,10 F par tonne ;
+II. Les blés tendres retenus au titre de rémunération en nature par les meuniers
+et boulangers échangistes et livrés à un collecteur agréé supportent la somme
+prévue au I.
 
-d. Seigle : 1,65 F par tonne ;
+III. La taxe prévue par le présent article pour les céréales de qualité saine,
+loyale et marchande, est applicable aux céréales non saines, loyales et
+marchandes.
 
-e. Maïs : 2,85 F par tonne ;
+IV. La taxe assise sur les entrées est calculée par collecteur agréé ou
+producteur grainier sur le poids à la réception des céréales livrées aux
+collecteurs agréés, déduction faite :
 
-f. Avoine : 2,05 F par tonne ;
+a) De l'humidité excédant le taux de 15 % pour le blé tendre, l'orge, le seigle,
+le blé dur, le maïs, le sorgho et le riz. Pour l'application de cette
+disposition, l'Office national interprofessionnel des céréales établit les
+barèmes de conversion de poids des céréales présentant une humidité élevée ;
 
-g. Sorgho : 1,65 F par tonne ;
-
-h. Riz : 2,85 F par tonne ;
-
-i. Triticale : 1,65 F par tonne.
+b) Du pourcentage d'impuretés excédant 0,5 % pour le blé dur, 1 % pour le blé
+tendre, le seigle, l'orge, le maïs, le sorgho, le triticale et le riz dans la
+limite de 1 % pour le blé tendre, le blé dur, le seigle et le triticale, 2 %
+pour le maïs et le sorgho et 2,5 % pour le riz.

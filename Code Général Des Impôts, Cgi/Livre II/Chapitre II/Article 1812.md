@@ -12,19 +12,21 @@ Pour les personnes se livrant à la vente au détail, l'amende encourue est de 2
 Quiconque met les agents habilités à constater lesdites infractions dans
 l'impossibilité d'accomplir leurs fonctions soit en leur refusant l'entrée de
 ses locaux de fabrication, de dépôt ou de vente, soit de toute autre manière,
-est puni, indépendamment des peines prévues à l'article 1798, deuxième alinéa,
-des peines prévues à l'article L217-10 du code de la consommation.
+est puni, indépendamment des peines prévues au deuxième alinéa de l'article
+1798, des peines prévues à l'article L217-10 du code de la consommation.
 
 Les infractions sont recherchées et constatées à la diligence du ministère
 public, comme en matière de fraudes et de falsifications.
 
-2. Les infractions aux dispositions des décrets visés à l'article 514 bis sont
-constatées et poursuivies comme en matière de contributions indirectes.
+2. Ainsi qu'il est dit à l'article L. 3351-4 du code de la santé publique, le
+fait de passer outre les interdictions énoncées à l'article L. 3322-5 (1) est
+puni de six mois d'emprisonnement et de 25 000 F d'amende.
 
-Elles sont punies d'un emprisonnement de six mois et d'une amende de 25 000 F ou
-de l'une de ces deux peines seulement. En outre, la confiscation des
-marchandises et des moyens de transport est toujours prononcée.
+En outre, le tribunal prononce la confiscation des marchandises et des moyens de
+transport et la fermeture définitive de l'établissement.
 
-En cas de récidive, la peine d'emprisonnement est obligatoirement prononcée et
-l'amende est portée au double. En outre, le tribunal prononce la fermeture
-définitive de l'établissement.
+Les infractions sont poursuivies et constatées comme en matière de contributions
+indirectes.
+
+(1) Les dispositions de cet article sont reproduites sous l'article 514 bis du
+présent code.

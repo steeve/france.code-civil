@@ -1,15 +1,16 @@
 Article 1417
 ----
-I. - Pour les impositions établies au titre de 2000, les dispositions de
-l'article 1391, du 3 du II et du III de l'article 1411, des 2° et 3° du I de
-l'article 1414 sont applicables aux contribuables dont le montant des revenus de
-1999 n'excède pas la somme de 44 110 F, pour la première part de quotient
-familial, majorée de 11 790 F pour chaque demi-part supplémentaire, retenues
-pour le calcul de l'impôt sur le revenu au titre de 1999. Pour la Martinique, la
-Guadeloupe et la Réunion, les montants des revenus sont fixés à 52 200 F, pour
-la première part, majorée de 12 470 F pour la première demi-part et 11 790 F
-pour chaque demi-part supplémentaire à compter de la deuxième. Pour la Guyane,
-ces montants sont fixés respectivement à 54 570 F, 15 020 F et 11 790 F.
+I. - Pour les impositions établies au titre de 2000, les dispositions des
+articles 1391 et 1391 B, du 3 du II et du III de l'article 1411, des 2° et 3° du
+I de l'article 1414 sont applicables aux contribuables dont le montant des
+revenus de 1999 n'excède pas la somme de 44 110 F, pour la première part de
+quotient familial, majorée de 11 790 F pour chaque demi-part supplémentaire,
+retenues pour le calcul de l'impôt sur le revenu au titre de 1999. Pour la
+Martinique, la Guadeloupe et la Réunion, les montants des revenus sont fixés à
+52 200 F, pour la première part, majorée de 12 470 F pour la première demi-part
+et 11 790 F pour chaque demi-part supplémentaire à compter de la deuxième. Pour
+la Guyane, ces montants sont fixés respectivement à 54 570 F, 15 020 F et 11 790
+F.
 
 II. - Pour les impositions établies au titre de 2000, les dispositions de
 l'article 1414 A sont applicables aux contribuables dont le montant des revenus

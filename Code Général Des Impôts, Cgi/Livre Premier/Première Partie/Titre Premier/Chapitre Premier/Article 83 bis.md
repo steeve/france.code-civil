@@ -1,13 +1,12 @@
 Article 83 bis
 ----
-I Lorsqu'une société est créée dans les conditions prévues à l'article 220
+I. Lorsqu'une société est créée dans les conditions prévues à l'article 220
 quater, les dispositions du 2° quater de l'article 83 sont applicables aux
 emprunts contractés en vue de la souscription au capital de la société créée ou
-en vue d'acquisition des actions ou des parts de la société rachetée à la suite
-d'options consenties aux salariés, soit en vertu des articles 208-1 à 208-8,
-modifiés, de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales ,
-soit par des actionnaires ou porteurs de parts à un prix convenu lors de la
-promesse de vente.
+en vue de l'acquisition des actions ou des parts de la société rachetée à la
+suite d'options consenties aux salariés, soit en vertu des articles L. 225-177 à
+L. 225-184 du code de commerce, soit par des actionnaires ou porteurs de parts à
+un prix convenu lors de la promesse de vente.
 
 Pour l'acquisition de titres à la suite d'options, l'application des
 dispositions du premier alinéa est subordonnée aux conditions suivantes :
@@ -28,7 +27,7 @@ rachetée.
 Les conditions énoncées aux quatrième et cinquième alinéas du 2° quater de
 l'article 83 s'appliquent aux titres de la société créée (1).
 
-II Sont déductibles du montant brut des sommes payées, dans les conditions
+II. Sont déductibles du montant brut des sommes payées, dans les conditions
 prévues au II de l'article 220 quater A, les intérêts des emprunts contractés à
 compter du 15 avril 1987 par les salariés d'une entreprise pour la constitution
 du capital d'une société ayant pour objet exclusif de racheter tout ou partie du
@@ -40,9 +39,9 @@ mentionnés au deuxième alinéa du I de l'article 220 quater A (2).
 Ces intérêts restent déductibles si les titres de la société sont apportés à une
 société mentionnée au dernier alinéa du c du II de l'article 220 quater A.
 
-Les salariés d'une filiale dont le capital est détenu pour plus de 50% par cette
-entreprise peuvent, s'ils participent au rachat de cette dernière, bénéficier de
-la déduction dans les mêmes conditions.
+Les salariés d'une filiale dont le capital est détenu pour plus de 50 % par
+cette entreprise peuvent, s'ils participent au rachat de cette dernière,
+bénéficier de la déduction dans les mêmes conditions.
 
 La déduction ne peut excéder le montant brut du salaire versé à l'emprunteur par
 l'entreprise. Elle ne peut être supérieure à 150.000 F. Elle est limitée aux
@@ -50,28 +49,28 @@ intérêts afférents aux emprunts utilisés pour libérer le capital au cours d
 l'année de création de la société. Les sixième et septième alinéas du 2° quater
 de l'article 83 s'appliquent à cette déduction (3).
 
-La déduction des intérêts prévue au premier alinéa du présent n'est plus admise
-à compter de l'année au cours de laquelle une des conditions fixées par
+La déduction des intérêts prévue au premier alinéa du présent II n'est plus
+admise à compter de l'année au cours de laquelle une des conditions fixées par
 l'article 220 quater A cesse d'être satisfaite (4).
 
-III Les dispositions du II sont applicables aux intérêts des emprunts contractés
-par les salariés pour l'acquisition d'actions de la société rachetée en
-exécution d'options qui leur ont été consenties dans le cadre des dispositions
-des articles 208-1 à 208-8 de la loi n° 66-537 du 24 juillet 1966 sur les
-sociétés commerciales et si les conditions suivantes sont réunies :
+III. Les dispositions du II sont applicables aux intérêts des emprunts
+contractés par les salariés pour l'acquisition d'actions de la société rachetée
+en exécution d'options qui leur ont été consenties dans le cadre des
+dispositions des articles L. 225-177 à L. 225-184 du code de commerce et si les
+conditions suivantes sont réunies :
 
 1° Les options ont été consenties au cours des cinq années précédant la
-constitution de la société créée en vue du rachat;
+constitution de la société créée en vue du rachat ;
 
 2° Les options ont été levées au cours des deux mois précédant la constitution
-de la société créée en vue du rachat;
+de la société créée en vue du rachat ;
 
 3° Les salariés font apport des titres ainsi acquis à la société créée dès sa
 constitution (3).
 
-IV Lorsque le rachat d'une entreprise a été soumis à l'accord du ministre chargé
-des finances, prévu à l'article 220 quater B, le bénéfice des dispositions des
-II et III est subordonné à cet accord.
+IV. Lorsque le rachat d'une entreprise a été soumis à l'accord du ministre
+chargé des finances, prévu à l'article 220 quater B, le bénéfice des
+dispositions des II et III est subordonné à cet accord.
 
 (1) Annexe III, art. 38 septdecies A à 38 septdecies E.
 

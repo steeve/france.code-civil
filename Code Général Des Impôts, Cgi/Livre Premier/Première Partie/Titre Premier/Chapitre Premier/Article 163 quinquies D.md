@@ -1,8 +1,8 @@
 Article 163 quinquies D
 ----
 I. Les contribuables dont le domicile fiscal est situé en France peuvent ouvrir
-un plan d'épargne en actions [*PEA*] dans les conditions définies par la loi n°
-92-666 du 16 juillet 1992 modifiée.
+un plan d'épargne en actions dans les conditions définies par la loi n° 92-666
+du 16 juillet 1992 modifiée.
 
 Chaque contribuable ou chacun des époux soumis à imposition commune ne peut être
 titulaire que d'un plan. Un plan ne peut avoir qu'un titulaire.
@@ -20,9 +20,9 @@ bis.
 2. Les titres ou parts dont la souscription a permis au titulaire du plan de
 bénéficier des avantages fiscaux résultant des dispositions des 2° quater et 2°
 quinquies de l'article 83, des articles 83 ter, 150 U, 150 V, 163 quinquies B,
-163 septdecies, 199 undecies et 199 terdecies A, du I bis de l'article 163 bis
-C, du deuxième alinéa du II de l'article 726 ainsi que du III ter de l'article
-810 ne peuvent figurer dans le plan.
+163 septdecies, 199 undecies, 199 undecies A et 199 terdecies A, du I bis de
+l'article 163 bis C, du deuxième alinéa du II de l'article 726 ainsi que du III
+ter de l'article 810 ne peuvent figurer dans le plan.
 
 3. Le titulaire du plan, son conjoint et leurs ascendants et descendants ne
 doivent pas, pendant la durée du plan, détenir ensemble, directement ou

@@ -1,10 +1,23 @@
 Article 54-0 L
 ----
-Après impression du timbre visé à l'article 54-0 B, les feuilles métalliques
-sont déposées dans le magasin spécial prévu à l'article 54-0 J.
+Après confection, les marques fiscales sont déposées dans un magasin spécial.
 
-Elle sont prises en charge à un compte de magasin tenu par le service au vu
-d'une déclaration d'introduction indiquant en toutes lettres le nombre de
-feuilles et par destinataire et catégorie le nombre de capsules qu'elles
-représentent. Ce nombre est vérifié contradictoirement par le fabricant ou son
-préposé et l'agent de l'administration.
+Elles sont inscrites dans une comptabilité matières, tenue sur place, au fur et
+à mesure des mouvements. Sont repris dans cette comptabilité matières :
+
+a) En entrée, le nombre de marques fiscales déposées dans le magasin spécial et,
+par destinataire et catégorie (volume net exprimé en centilitres, couleur, pour
+les vins, vin tranquille ou vin mousseux, et, le cas échéant, titre
+alcoométrique volumique...), le nombre de capsules qu'elles représentent ;
+
+b) En sortie, par destinataire et par catégorie, le nombre de marques fiscales
+utilisées et expédiées, avec les références au document mentionné au I de
+l'article 302 M du code général des impôts.
+
+Cette comptabilité matières ainsi que les marques fiscales détenues par le
+fabricant sont tenues à la disposition des agents des douanes et droits
+indirects à fin de contrôle.
+
+Le fabricant effectue mensuellement la balance des entrées et sorties de la
+comptabilité matières et transmet ce document au service des douanes et droits
+indirects dont il dépend, au plus tard le cinquième jour du mois suivant.

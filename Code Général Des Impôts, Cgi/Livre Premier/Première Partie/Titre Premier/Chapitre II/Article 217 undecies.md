@@ -24,7 +24,7 @@ prévues au II du présent article et aux articles 199 undecies ou 199 undecies 
 
 La déduction prévue au premier alinéa s'applique aux investissements productifs
 réalisés dans le secteur de la maintenance au profit d'activités exercées dans
-l'un des secteurs mentionnés au premier et au quatrième alinéa et dans celui de
+l'un des secteurs mentionnés au premier et au quatrième alinéas et dans celui de
 la production et de la diffusion audiovisuelles et cinématographiques ainsi
 qu'aux travaux de rénovation d'hôtel et aux logiciels nécessaires à
 l'utilisation des investissements éligibles, lorsque ces travaux et logiciels
@@ -100,11 +100,10 @@ bien ou des titres de la société bailleresse sont rétrocédés à l'entrepris
 locataire sous forme de diminution du loyer et, le cas échéant, du prix de
 cession du bien à l'exploitant.
 
-Si l'une des conditions énumérées aux treizième à dix-huitième alinéas cesse
-d'être respectée dans le délai mentionné au quatorzième alinéa, les sommes
-déduites sont rapportées au résultat imposable de l'entreprise propriétaire de
-l'investissement au titre de l'exercice au cours duquel cet événement se
-réalise.
+Si l'une des conditions énumérées au onzième alinéa cesse d'être respectée dans
+le délai mentionné au 1° du onzième alinéa, les sommes déduites sont rapportées
+au résultat imposable de l'entreprise propriétaire de l'investissement au titre
+de l'exercice au cours duquel cet événement se réalise.
 
 II. Les entreprises mentionnées au I peuvent, d'autre part, déduire de leur
 revenu imposable une somme égale au montant total des souscriptions au capital
@@ -135,9 +134,9 @@ mentionné à la phrase qui précède pour la fraction du délai restant à cour
 La déduction prévue au premier alinéa s'applique aux souscriptions au capital de
 sociétés effectuant dans les départements d'outre-mer des investissements
 productifs dans le secteur de la maintenance au profit d'activités exercées dans
-l'un des secteurs mentionnés au premier et au quatrième alinéa et dans celui de
-la production et de la diffusion audiovisuelles et cinématographiques ainsi
-qu'aux travaux de rénovation d'hôtel et aux logiciels nécessaires à
+l'un des secteurs mentionnés au premier et au quatrième alinéas du I et dans
+celui de la production et de la diffusion audiovisuelles et cinématographiques
+ainsi qu'aux travaux de rénovation d'hôtel et aux logiciels nécessaires à
 l'utilisation des investissements éligibles, lorsque ces travaux et logiciels
 constituent des éléments de l'actif immobilisé.
 
@@ -169,7 +168,7 @@ b) (abrogé)
 
 c) (abrogé)
 
-d)- l'opération a reçu l'agrément préalable du ministre du budget dans les
+d) l'opération a reçu l'agrément préalable du ministre du budget dans les
 conditions prévues au III.
 
 II ter. La déduction prévue au premier alinéa du II s'applique aux souscriptions
@@ -177,7 +176,7 @@ au capital de sociétés soumises à l'impôt sur les sociétés et qui sont aff
 exclusivement à l'acquisition ou à la construction de logements neufs dans les
 départements d'outre-mer lorsque ces sociétés ont pour activité exclusive la
 location de tels logements dans les conditions mentionnées au cinquième alinéa
-du I du présent article.
+du I.
 
 Cette déduction s'applique sous les conditions et sanctions prévues au II, à
 l'exception de celle mentionnée à la troisième phrase du premier alinéa du même
@@ -200,7 +199,7 @@ dans les secteurs des transports, de la navigation de plaisance, de la
 production et de la diffusion audiovisuelles et cinématographiques, des services
 informatiques ainsi que les investissements portant sur la construction d'hôtels
 ou de résidences à vocation touristique ou parahôtelière ou la rénovation
-d'hôtel les investissements nécessaires à l'exploitation d'une concession de
+d'hôtel, les investissements nécessaires à l'exploitation d'une concession de
 service public local à caractère industriel et commercial et les souscriptions
 au capital des sociétés concessionnaires mentionnées au troisième alinéa du II
 doivent avoir reçu l'agrément préalable du ministre du budget. Il en est de même
@@ -221,21 +220,20 @@ Toutefois, les investissements mentionnés au I, dont le montant total n'excède
 pas 1 000 000 F par programme et par exercice, sont dispensés de la procédure
 d'agrément préalable, lorsqu'ils sont réalisés par une entreprise qui exerce son
 activité dans les départements visés au I depuis au moins deux ans, dans l'un
-des secteurs mentionnés au premier alinéa du présent III ter. Dans ce cas,
-l'entreprise joint à sa déclaration de résultat un état récapitulatif des
-investissements réalisés au cours de l'exercice et au titre desquels la
-déduction fiscale est pratiquée.
+des secteurs mentionnés au premier alinéa. Dans ce cas, l'entreprise joint à sa
+déclaration de résultat un état récapitulatif des investissements réalisés au
+cours de l'exercice et au titre desquels la déduction fiscale est pratiquée.
 
-III bis. (Abrogé).
+III bis (Abrogé).
 
-III ter. (transféré).
+III ter (transféré).
 
-III quater. (abrogé).
+III quater (abrogé).
 
 IV. En cas de cession dans le délai de cinq ans de tout ou partie des droits
 sociaux souscrits par les entreprises avec le bénéfice des déductions prévues
-aux II, II bis ou II ter les sommes déduites sont rapportées au résultat
-imposable de l'année de cession, dans la limite, de la totalité du prix de
+aux II, II bis ou II ter, les sommes déduites sont rapportées au résultat
+imposable de l'année de cession, dans la limite de la totalité du prix de
 cession.
 
 Toutefois, ces dispositions ne sont pas applicables dans le cas où, dans le
@@ -264,7 +262,7 @@ de l'exploitation des investissements ayant donné lieu à cette déduction et q
 sont acquis pendant le délai de cinq ans suivant leur réalisation ou leur durée
 normale d'utilisation si elle est inférieure.
 
-Si, avant l'expiration du délai visé à l'alinéa précédent l'un de ces
+Si, avant l'expiration du délai visé au premier alinéa, l'un de ces
 investissements est cédé ou cesse d'être affecté à l'exploitation de
 l'entreprise utilisatrice ou si l'acquéreur cesse son activité, l'avantage
 résultant de l'application du premier alinéa est rapporté au résultat imposable
@@ -298,7 +296,7 @@ préalable desquels une demande est parvenue à l'administration avant cette dat
 2° Des immeubles ayant fait l'objet avant cette date d'une déclaration
 d'ouverture de chantier à la mairie de la commune ;
 
-3° Des biens meubles corporels commandés, mais non encore livrés au 15 septembre
+3° De biens meubles corporels commandés, mais non encore livrés au 15 septembre
 1997, si la commande a été accompagnée du versement d'acomptes égaux à 50 % au
 moins de leur prix.
 

@@ -1,21 +1,22 @@
 Article 223 A
 ----
-Une société, l'impôt sur les sociétés dû sur l'ensemble des résultats du groupe
-formé par elle-même et les sociétés dont elle détient 95 p. 100 au moins du
-capital, de manière continue au cours de l'exercice, directement ou
-indirectement par l'intermédiaire de sociétés du groupe. Dans ce cas, elle est
-également redevable du précompte et de l'imposition forfaitaire annuelle dus par
-les sociétés du groupe. Le capital de la société mère ne doit pas être détenu à
-95 % au moins, directement ou indirectement, par une autre personne morale
-soumise à l'impôt sur les sociétés dans les conditions de droit commun ou selon
-les modalités prévues aux articles 214 et 217 bis.
+Une société peut se constituer seule redevable de l'impôt sur les sociétés dû
+sur l'ensemble des résultats du groupe formé par elle-même et les sociétés dont
+elle détient 95 p. 100 au moins du capital, de manière continue au cours de
+l'exercice, directement ou indirectement par l'intermédiaire de sociétés du
+groupe. Dans ce cas, elle est également redevable du précompte et de
+l'imposition forfaitaire annuelle dus par les sociétés du groupe. Le capital de
+la société mère ne doit pas être détenu à 95 % au moins, directement ou
+indirectement, par une autre personne morale soumise à l'impôt sur les sociétés
+dans les conditions de droit commun ou selon les modalités prévues aux articles
+214 et 217 bis.
 
 Si l'exercice d'options de souscription d'actions dans les conditions prévues à
-l'article 208-7 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés
-commerciales a pour effet, au cours d'un exercice, de réduire à moins de 95 p.
-100 la participation dans le capital d'une société filiale, ce capital est
-réputé avoir été détenu selon les modalités fixées au premier alinéa si le
-pourcentage de 95 p. 100 est à nouveau atteint à la clôture de l'exercice.
+l'article L. 225-183 du code de commerce a pour effet, au cours d'un exercice,
+de réduire à moins de 95 p. 100 la participation dans le capital d'une société
+filiale, ce capital est réputé avoir été détenu selon les modalités fixées au
+premier alinéa si le pourcentage de 95 p. 100 est à nouveau atteint à la clôture
+de l'exercice.
 
 Les sociétés du groupe restent soumises à l'obligation de déclarer leurs
 résultats qui peuvent être vérifiés dans les conditions prévues par les articles
@@ -29,7 +30,7 @@ dont les résultats sont soumis à l'impôt sur les sociétés dans les conditio
 droit commun ou selon les modalités prévues aux articles 214 et 217 bis.
 
 Les sociétés du groupe doivent ouvrir et clore leurs exercices aux mêmes dates ;
-Les exercices ont une durée de douze mois. L'option mentionnée au premier alinéa
+les exercices ont une durée de douze mois. L'option mentionnée au premier alinéa
 est notifiée avant la date d'ouverture de l'exercice au titre duquel le régime
 défini au présent article s'applique. Elle est valable pour une période de cinq
 exercices. Elle est renouvelée par tacite reconduction, sauf dénonciation avant

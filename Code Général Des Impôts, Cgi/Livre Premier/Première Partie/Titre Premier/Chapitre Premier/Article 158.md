@@ -30,18 +30,19 @@ suivants :
 
 3° Revenus correspondant à des dividendes d'actions émises en France. Toutefois,
 cet abattement ne peut être effectué sur le montant des revenus d'actions
-souscrites avec le bénéfice de la réduction d'impôt prévue à l'article 199
-undecies. Il s'applique aux revenus d'actions de sociétés françaises inscrites à
-la cote officielle ou au second marché des bourses françaises de valeurs ou qui,
-inscrites au hors-cote, font l'objet de transactions d'une importance et d'une
-fréquence qui sont fixées par décret lorsqu'ils sont encaissés par des personnes
-qui détiennent, directement ou indirectement, plus de 35 % des droits sociaux
-dans la société distributrice. Il ne s'applique pas aux revenus d'actions qui ne
-répondent pas aux conditions prévues par la première phrase du 1° de l'article
-163 octies lorsqu'ils sont encaissés par des personnes qui détiennent,
-directement ou indirectement, plus de 35 p. 100 des droits sociaux dans la
-société distributrice. Pour l'application de cette disposition, les droits
-sociaux appartenant au conjoint sont considérés comme détenus indirectement.
+souscrites avec le bénéfice des réductions d'impôt prévues aux articles 199
+undecies ou 199 undecies A. Il s'applique aux revenus d'actions de sociétés
+françaises inscrites à la cote officielle ou au second marché des bourses
+françaises de valeurs ou qui, inscrites au hors-cote, font l'objet de
+transactions d'une importance et d'une fréquence qui sont fixées par décret
+lorsqu'ils sont encaissés par des personnes qui détiennent, directement ou
+indirectement, plus de 35 % des droits sociaux dans la société distributrice. Il
+ne s'applique pas aux revenus d'actions qui ne répondent pas aux conditions
+prévues par la première phrase du 1° de l'article 163 octies lorsqu'ils sont
+encaissés par des personnes qui détiennent, directement ou indirectement, plus
+de 35 p. 100 des droits sociaux dans la société distributrice. Pour
+l'application de cette disposition, les droits sociaux appartenant au conjoint
+sont considérés comme détenus indirectement.
 
 4° (Dispositions abrogées) ;
 
@@ -61,6 +62,12 @@ fixées au I du même article.
 L'abattement prévu au troisième alinéa peut, le cas échéant, être utilisé, en
 tout ou partie, par les porteurs de parts de fonds communs de placement, lors de
 l'imposition en leur nom des produits répartis par le fonds.
+
+L'abattement prévu au troisième alinéa n'est pas opéré lorsque le revenu net
+imposable excède pour les contribuables célibataires, veufs ou divorcés le
+montant mentionné à la dernière tranche du barème de l'impôt sur le revenu fixé
+au 1 du I de l'article 197. Ce montant est doublé pour les contribuables mariés
+soumis à une imposition commune.
 
 4. Les bénéfices des professions industrielles, commerciales, artisanales et
 ceux de l'exploitation minière sont déterminés conformément aux dispositions des
@@ -96,15 +103,6 @@ fixée au cinquième alinéa du a du 5 ;
 La limitation du montant de l'abattement résultant de l'application du deuxième
 alinéa est opérée sur la totalité du revenu net professionnel déclaré par une
 même personne physique, dans une même catégorie de revenus ;
-
-Le taux de l'abattement est ramené à 10 % pour la fraction du bénéfice qui
-excède la limite fixée au cinquième alinéa du a du 5. Aucun abattement n'est
-appliqué sur la fraction du bénéfice qui excède la limite fixée au sixième
-alinéa du a du 5.
-
-Les limitations du montant de l'abattement résultant de l'application de
-l'alinéa précédent sont opérées sur la totalité du revenu net professionnel
-déclaré par une même personne physique, dans une même catégorie de revenus.
 
 Aucun abattement n'est appliqué à la partie des bénéfices résultant d'un
 redressement, sauf lorsque ce redressement fait suite à une déclaration

@@ -40,8 +40,8 @@ du premier cédant au titre de l'année de la revente des droits au tiers.
 II. - Les dispositions du I sont applicables :
 
 1. Au gain net retiré des cessions d'actions acquises par le bénéficiaire d'une
-option accordée dans les conditions prévues aux articles 208-1 à 208-8-2 de la
-loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales ;
+option accordée dans les conditions prévues aux articles L. 225-177 à L. 225-186
+du code de commerce ;
 
 2. Au gain net réalisé depuis l'ouverture du plan d'épargne en actions défini à
 l'article 163 quinquies D en cas de retrait de titres ou de liquidités ou de

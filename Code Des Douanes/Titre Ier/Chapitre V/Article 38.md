@@ -26,10 +26,11 @@ usage humain visés à l'article L. 5124-13 du code de la santé publique, aux
 marchandises présentées sous une marque contrefaite, ainsi qu'aux produits
 sanguins labiles définis par le code de la santé publique, aux organes, tissus,
 cellules ou gamètes issus du corps humain mentionnés aux articles L. 1235-1, L.
-1244-8 et L. 1245-4 du code de la santé publique, aux radioéléments artificiels
-définis à l'article L. 1333-3 du code de la santé publique et aux déchets
-relevant de la loi n° 75-633 du 15 juillet 1975 relative à l'élimination des
-déchets et à la récupération des matériaux et des textes pris pour son
+1244-8 et L. 1245-4 du code de la santé publique, aux sources artificielles et
+naturelles de radionucléides définies à l'article L. 1333-1 du code de la santé
+publique et relevant des articles L. 1333-2 et L. 1333-4 du même code et aux
+déchets relevant de la loi n° 75-633 du 15 juillet 1975 relative à l'élimination
+des déchets et à la récupération des matériaux et des textes pris pour son
 application. Les dispositions du présent article s'appliquent également aux
 objets de toute nature comportant des images ou des représentations d'un mineur
 à caractère pornographique visées par l'article 227-23 du code pénal.

@@ -20,12 +20,10 @@ b (Transféré sous le b de l'article 80 ter) ;
 sécurité sociale, l'aide à la famille pour l'emploi d'une assistante maternelle
 agréée ainsi que la majoration de cette aide et l'allocation de garde d'enfant à
 domicile visées respectivement aux articles L. 841-1 et L. 842-1 du même code,
-l'allocation de salaire unique, l'allocation de salaire unique, l'allocation de
-la mère au foyer et l'allocation pour frais de garde, maintenues dans le cadre
-des articles 12 et 13 de la loi n° 77-765 du 12 juillet 1977 instituant le
-complément familial, l'allocation aux adultes handicapés et les suppléments de
-revenu familial prévus par la loi n° 80-545 du 17 juillet 1980 portant diverses
-dispositions en vue d'améliorer la situation des familles nombreuses ;
+l'allocation de salaire unique, l'allocation de la mère au foyer et l'allocation
+pour frais de garde, maintenues dans le cadre des articles 12 et 13 de la loi n°
+77-765 du 12 juillet 1977 instituant le complément familial et l'allocation aux
+adultes handicapés ;
 
 2° bis L'allocation de logement prévue par les articles L831-1 à L831-7 du code
 de la sécurité sociale, ainsi que le montant de l'aide personnalisée au logement
@@ -78,9 +76,11 @@ des prestations familiales auxquelles aurait eu droit le parent décédé ;
 adultes handicapés, lorsqu'elles remplacent cette allocation en tout ou partie
 du fait de la loi ;
 
-14° ter L'indemnité prévue par l'article L209-15 du code de la santé publique ;
+14° ter L'indemnité prévue par l'article L. 1124-2 du code de la santé publique
+;
 
-15° Les prestations, visées aux articles L325-1 et L325-2 du code rural.
+15° Les prestations, visées aux articles L325-1 et L325-2 du code rural, dans le
+cadre de l'entraide entre agriculteurs.
 
 Ces dispositions pourront être étendues par décret en conseil d'Etat aux
 départements d'outre-mer ;
@@ -102,8 +102,7 @@ code du service national ;
 
 17° bis Le versement complémentaire de l'entreprise effectué à l'occasion de
 l'émission et de l'achat en bourse d'actions réservées aux salariés et mentionné
-aux articles 208-14 et 208-18 modifié de la loi n° 66-537 du 24 juillet 1966 sur
-les sociétés commerciales ;
+aux articles L. 225-192 et L. 225-196 du code de commerce ;
 
 17° ter Le versement complémentaire effectué par les sociétés coopératives
 ouvrières de production en application de l'article 40 de la loi n° 78-763 du 19
@@ -117,8 +116,8 @@ du code du travail ;
 18° bis Dans la limite d'un montant égal à la moitié du plafond annuel moyen
 retenu pour le calcul des cotisations de sécurité sociale, les sommes reçues au
 titre de l'intéressement et affectées à la réalisation de plans d'épargne
-constitués conformément aux dispositions du chapitre III du titre IV du livre IV
-du code du travail ;
+constitués conformément au chapitre III du titre IV du livre IV du code du
+travail ;
 
 L'exonération s'applique sous réserve du dépôt de l'accord d'intéressement, dans
 les conditions prévues au huitième alinéa de l'article L. 441-2 du code du
@@ -184,8 +183,7 @@ conditions fixées par l'article 51 de la loi n° 98-546 du 2 juillet 1998 porta
 diverses dispositions d'ordre économique et financier.
 
 26° L'indemnisation ou, le cas échéant, la valeur des actions attribuées à ce
-titre, prévue à l'article 79-1 du titre VI relatif aux sociétés anonymes à
-participation ouvrière de la loi modifiée du 24 juillet 1867 ;
+titre, prévue à l'article L. 225-270 du code de commerce ;
 
 27° L'allocation forfaitaire complémentaire, les aides spécifiques au logement
 et les aides spécifiques en faveur des conjoints survivants servies en
@@ -194,7 +192,7 @@ membres des formations supplétives et assimilés ou victimes de la captivité e
 Algérie ;
 
 28° Lorsqu'elle est prise en charge par l'employeur, la part salariale du
-complément de cotisation d'assurance vieillesse, prévue à l'article 1031-3 du
+complément de cotisation d'assurance vieillesse, prévue à l'article L. 741-24 du
 code rural ;
 
 29° Les vacations horaires et l'allocation de vétérance personnelle ou de
@@ -208,6 +206,12 @@ professionnalisation des armées (1).
 
 31° Les avantages résultant des opérations définies au 1° du 11 de l'article 39,
 dans la limite globale de 10 000 F par salarié, apprécié sur l'ensemble de la
-période couverte par l'accord mentionné au 2° du même article.
+période couverte par l'accord mentionné au 2° du même article (2).
+
+32° L'indemnité de cessation d'activité prévue au V de l'article 41 de la loi de
+financement de la sécurité sociale pour 1999 (n° 98-1194 du 23 décembre 1998).
 
 (1) Disposition applicable du 1er janvier 1997 au 31 décembre 2002.
+
+(2) Disposition applicable aux opérations effectuées dans le cadre d'accords
+conclus entre le 1er janvier 2001 et le 31 décembre 2002.

@@ -44,7 +44,7 @@ nécessaires tendant à prouver qu'elles fonctionnent conformément aux
 dispositions législatives et réglementaires relatives au statut juridique de la
 coopération agricole ;
 
-3° bis Lorsqu'elles fonctionnent conformément aux dispositions de la loi n°
+3° bis. Lorsqu'elles fonctionnent conformément aux dispositions de la loi n°
 83-657 du 20 juillet 1983 relative au développement de certaines activités
 d'économie sociale, les coopératives artisanales et leurs unions, les
 coopératives d'entreprises de transports, les coopératives artisanales de
@@ -57,15 +57,15 @@ d'habitations à loyer modéré régis par les articles L. 411-1 et suivants du 
 de la construction et de l'habitation, ainsi que les unions de ces offices et
 sociétés ;
 
-4° bis Les offices publics d'aménagement et de construction visés à l'article L
+4° bis. Les offices publics d'aménagement et de construction visés à l'article L
 421-1 du code de la construction et de l'habitation pour les opérations faites
 en application de la législation sur les habitations à loyer modéré ;
 
-4° ter Les sociétés anonymes de crédit immobilier qui exercent uniquement les
+4° ter. Les sociétés anonymes de crédit immobilier qui exercent uniquement les
 activités prévues au I et au II de l'article L. 422-4 du code de la construction
 et de l'habitation et qui accordent exclusivement :
 
-a) Des prêts visés aux articles R. 313-31, R. 331-32 et R. 313-34 du même code ;
+a) Des prêts visés aux articles R. 331-32, R. 313-31 et R. 313-34 du même code ;
 
 b) Des prêts à leurs filiales et aux organismes mentionnés au 4°. Le taux de
 rémunération de ces prêts ne doit pas excéder celui prévu au 3° du 1 de
@@ -74,7 +74,7 @@ l'article 39.
 c) Des avances remboursables ne portant pas intérêt prévues par l'article R.
 317-1 du code de la construction et de l'habitation. La fraction du bénéfice net
 provenant des avances accordées à compter du 1er janvier 2001 est soumise à
-l'impôt sur les sociétés (1).
+l'impôt sur les sociétés.
 
 5° Les bénéfices réalisés par des associations sans but lucratif régies par la
 loi du 1er juillet 1901 organisant, avec le concours des communes ou des
@@ -83,23 +83,23 @@ manifestations publiques, correspondant à l'objet défini par leurs statuts et
 présentant, du point de vue économique, un intérêt certain pour la commune ou la
 région ;
 
-5° bis. Les organismes sans but lucratif mentionnés à l'article 261-7-1°, pour
-les opérations à raison desquelles ils sont exonérés de la taxe sur la valeur
-ajoutée ;
+5° bis. Les organismes sans but lucratif mentionnés au 1° du 7 de l'article 261,
+pour les opérations à raison desquelles ils sont exonérés de la taxe sur la
+valeur ajoutée ;
 
 6° Les régions et les ententes interrégionales, les départements et les ententes
-interdépartementales, les communes, ((les établissements publics de coopération
-intercommunale à fiscalité propre)) (M) syndicats de communes et syndicats
-mixtes constitués exclusivement de collectivités territoriales ou de groupements
-de ces collectivités (2) ainsi que leurs régies de services publics ;
+interdépartementales, les communes, les établissements publics de coopération
+intercommunale à fiscalité propre, syndicats de communes et syndicats mixtes
+constitués exclusivement de collectivités territoriales ou de groupements de ces
+collectivités ainsi que leurs régies de services publics ;
 
-6° bis. Dans les conditions fixées par décret (3), les établissements publics et
-sociétés d'économie mixte concessionnaires d'opérations d'aménagement, en
-application du deuxième alinéa de l'article L. 300-4 du code de l'urbanisme,
-pour les résultats provenant des opérations réalisées dans le cadre des
-procédures suivantes :
+6° bis. Dans les conditions fixées par décret, les établissements publics et
+sociétés d'économie mixte chargés de l'aménagement par une convention
+contractée, en application du deuxième alinéa de l'article L. 300-4 du code de
+l'urbanisme, pour les résultats provenant des opérations réalisées dans le cadre
+des procédures suivantes :
 
-a.- zone d'aménagement concerté [*ZAC*] ;
+a.- zone d'aménagement concerté ;
 
 b.- lotissements ;
 
@@ -134,13 +134,13 @@ parts sociales peuvent donner lieu à rémunération.
 Les résultats sont déterminés selon les règles visées à l'article 209 avant
 déduction des ristournes.
 
-1 quater Pour les sociétés coopératives et leurs unions autres que celles qui
+1 quater. Pour les sociétés coopératives et leurs unions autres que celles qui
 sont mentionnées au 4° du 1, l'exonération prévue au 1 n'est pas applicable
 lorsque les associés non coopérateurs et les titulaires de certificats
 coopératifs d'investissement détiennent plus de 50 p. 100 du capital et que
 leurs parts sociales peuvent donner lieu à rémunération.
 
-1 quinquies Pour l'application des dispositions du 1 ter et du 1 quater, sont
+1 quinquies. Pour l'application des dispositions du 1 ter et du 1 quater, sont
 regardées comme associés non coopérateurs les personnes physiques ou morales qui
 n'ont pas vocation à recourir aux services de la coopérative ou dont celle-ci
 n'utilise pas le travail, mais qui entendent contribuer par l'apport de capitaux
@@ -149,14 +149,3 @@ n'utilise pas le travail, mais qui entendent contribuer par l'apport de capitaux
 2. (Abrogé)
 
 3. (Abrogé).
-
-(1) Les conditions prévues aux a et b s'appliquent aux opérations réalisées à
-compter du 1er juillet 1993. Les conditions prévues au c s'appliquent aux
-opérations réalisées à compter du 1er octobre 1995.
-
-(M) Modification.
-
-(2) Ces dispositions s'appliquent aux exercices ouverts à compter du 1er juillet
-1995.
-
-(3) Annexe III, art. 46 bis et 46 ter.

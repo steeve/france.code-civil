@@ -1,15 +1,16 @@
 Article 54 C
 ----
-Pour tenir lieu de titre de mouvement, des vignettes munies d'une marque fiscale
-doivent être apposées par les utilisateurs sur les factures.
+Lorsque les alcools et boissons alcooliques sont transportés dans des bouteilles
+et récipients revêtus de capsules représentatives de droits, par des
+professionnels ou pour leur compte, les produits circulent sous couvert d'un
+document commercial comportant l'identité de l'expéditeur, le nom et l'adresse
+du destinataire, le numéro de référence et la date d'établissement du document,
+la nature et la désignation des produits transportés avec leur dénomination et,
+le cas échéant, leur appellation d'origine, les quantités et, selon le cas, le
+titre alcoométrique volumique acquis des boissons. Ce document commercial est
+présenté aux agents des douanes à première réquisition.
 
-A cet effet, les utilisateurs déposent à la recette des douanes et droits
-indirects dont ils dépendent un timbre humide de forme ronde, mentionnant leurs
-nom, prénoms (ou raison sociale) et adresse complète.
-
-Après avoir été marquées du timbre, les vignettes sont délivrées par la recette
-des douanes et droits indirects contre reçu comportant engagement de dédommager
-l'administration en cas de perte ou de disparition. L'apposition des vignettes
-doit se faire dans l'ordre de leur numérotation. La présentation des vignettes
-fiscales confiées aux intéressés et non encore employées peut être exigée par
-l'administration.
+Le document commercial mentionné au premier alinéa n'est pas applicable pour les
+livraisons à destination des personnes situées hors du territoire fiscal de la
+France. Ces livraisons doivent être effectuées sous couvert des documents
+d'accompagnement mentionnés à l'article 302 M du code général des impôts.

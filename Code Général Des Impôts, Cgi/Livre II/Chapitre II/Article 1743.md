@@ -4,8 +4,8 @@ Est également puni des peines prévues à l'article 1741 (1) :
 
 1° Quiconque a sciemment omis de passer ou de faire passer des écritures ou a
 passé ou fait passer des écritures inexactes ou fictives au livre-journal et au
-livre d'inventaire, prévus par les articles 8 et 9 du code de commerce, ou dans
-les documents qui en tiennent lieu.
+livre d'inventaire, prévus par les articles L123-12 à L123-14 du code de
+commerce, ou dans les documents qui en tiennent lieu.
 
 La présente disposition ne met pas obstacle à l'application des peines de droit
 commun.

@@ -4,9 +4,9 @@ I. Sous réserve des dispositions de l'article 1466, les délibérations des
 collectivités locales et des organismes compétents relatives à la fiscalité
 directe locale, autres que celles fixant soit les taux, soit les produits des
 impositions, et que celles instituant la taxe d'enlèvement des ordures ménagères
-doivent être prises avant le 1er juillet pour être applicables l'année suivante.
-Elles sont soumises à la notification prévue à l'article 1639 A au plus tard
-quinze jours après la date limite prévue pour leur adoption.
+doivent être prises avant le 1er juillet (1) pour être applicables l'année
+suivante. Elles sont soumises à la notification prévue à l'article 1639 A au
+plus tard quinze jours après la date limite prévue pour leur adoption.
 
 Les délibérations prévues au premier alinéa du II de l'article 1609 quinquies C
 et à l'article 1609 quinquies B, ainsi que les délibérations fixant le périmètre
@@ -16,18 +16,31 @@ conditions prévues au premier alinéa.
 II. - 1. Les délibérations des communes et de leurs établissements publics de
 coopération intercommunale instituant la taxe d'enlèvement des ordures ménagères
 conformément aux articles 1520, 1609 bis, 1609 quater, 1609 quinquies, 1609
-quinquies C et 1609 nonies D doivent être prises avant le 15 octobre d'une année
-pour être applicables à compter de l'année suivante. Elles sont soumises à la
-notification prévue à l'article 1639 A au plus tard quinze jours après la date
-limite prévue pour leur adoption.
+quinquies C et 1609 nonies D et les décisions visées aux 1 et 2 du III de
+l'article 1521 doivent être prises avant le 15 octobre d'une année pour être
+applicables à compter de l'année suivante. Elles sont soumises à la notification
+prévue à l'article 1639 A au plus tard quinze jours après la date limite prévue
+pour leur adoption.
 
-2. Par exception aux dispositions du 1, les délibérations antérieures à la
-promulgation de la loi n° 99-586 du 12 juillet 1999 relative au renforcement et
-à la simplification de la coopération intercommunale ayant institué la taxe
-d'enlèvement des ordures ménagères, prises par les communes ou leurs
-établissements publics de coopération intercommunale conformément aux articles
-1520, 1609 bis, 1609 quater, 1609 quinquies, 1609 quinquies C et 1609 nonies D
-dans leur rédaction en vigueur avant l'adoption de cette loi, restent
+Toutefois, les établissements publics de coopération intercommunale à fiscalité
+propre ne résultant pas d'une substitution ou d'une transformation de groupement
+préexistant peuvent prendre les délibérations afférentes à la taxe d'enlèvement
+des ordures ménagères conformément aux articles 1609 bis, 1609 quinquies, 1609
+quinquies C et 1609 nonies D ainsi qu'aux 1 et 2 du III de l'article 1521
+jusqu'au 15 janvier de l'année qui suit celle de leur création. A défaut, les
+délibérations prises par les communes et par les établissements publics de
+coopération intercommunale dissous restent applicables l'année qui suit celle de
+la création ; dans ce cas, le nouvel établissement public de coopération
+intercommunale perçoit la taxe d'enlèvement des ordures ménagères aux lieu et
+place des établissements publics de coopération intercommunale dissous.
+
+2. Par exception aux dispositions du premier alinéa du 1, les délibérations
+antérieures à la promulgation de la loi n° 99-586 du 12 juillet 1999 relative au
+renforcement et à la simplification de la coopération intercommunale ayant
+institué la taxe d'enlèvement des ordures ménagères, prises par les communes ou
+leurs établissements publics de coopération intercommunale conformément aux
+articles 1520, 1609 bis, 1609 quater, 1609 quinquies, 1609 quinquies C et 1609
+nonies D dans leur rédaction en vigueur avant l'adoption de cette loi, restent
 applicables pour l'établissement des impositions afférentes à 2000, 2001 et
 2002, sous réserve des délibérations prises avant le 15 octobre 2001 pour
 percevoir la taxe dans les conditions prévues par cette même loi.

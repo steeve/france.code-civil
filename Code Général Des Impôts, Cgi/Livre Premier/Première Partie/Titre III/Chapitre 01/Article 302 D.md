@@ -103,7 +103,11 @@ consommation au cours du mois précédent transmise à l'administration.
 
 2. L'impôt est acquitté auprès de l'administration soit à la date de la
 liquidation, soit dans le délai d'un mois à compter de cette date, une caution
-garantissant le paiement de l'impôt dû est exigée dans l'un et l'autre cas.
+garantissant le paiement de l'impôt dû est exigée dans l'un et l'autre cas. Une
+dispense de caution peut être accordée aux entrepositaires agréés mentionnés à
+l'article 302 G dans les limites et conditions fixées par décret (1).
 
 3. Un arrêté du ministre chargé du budget fixe le modèle et le contenu de la
 déclaration mentionnée au 1.
+
+(1) Ces dispositions sont applicables à compter du 1er janvier 2000.

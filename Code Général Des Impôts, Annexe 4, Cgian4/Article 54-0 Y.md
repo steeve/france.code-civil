@@ -1,13 +1,10 @@
 Article 54-0 Y
 ----
-Les entrepositaires agréés sont comptables des droits et taxes représentés tant
-par les timbres imprimés sur les feuilles métalliques ou sur les capsules reçues
-dans leurs entrepôts que par les timbres insculpés ou imprimés dans les
-conditions prévues à l'article 54-0 V.
+Les entrepositaires agréés sont comptables des droits représentés par les
+capsules reçues.
 
-Ces timbres sont pris en charge, dans les conditions fixées par l'administration
-à un compte ouvert à cet effet. Ce compte est déchargé des quantités dont
-l'utilisation a été déclarée dans les conditions fixées par l'article 54-0 AD.
-
-Lors des inventaires, les manquants de timbres sont passibles des droits qu'ils
-représentent.
+Ils intègrent dans la comptabilité matières prévue aux articles 286 I et 286 J
+de l'annexe II au code général des impôts, ainsi que dans la déclaration
+mensuelle mentionnée auxdits articles, les mouvements des capsules qu'ils
+détiennent, reçoivent, utilisent et expédient avec les bouteilles et récipients
+sur lesquels elles sont apposées.

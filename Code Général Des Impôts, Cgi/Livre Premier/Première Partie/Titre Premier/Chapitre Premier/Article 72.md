@@ -1,6 +1,6 @@
 Article 72
 ----
-I. Sous réserve de l'application des articles 71 et 72 A à 73 C, le bénéfice
+I. Sous réserve de l'application des articles 71 et 72 A à 73 D, le bénéfice
 réel de l'exploitation agricole est déterminé et imposé selon les principes
 généraux applicables aux entreprises industrielles et commerciales, conformément
 à toutes les dispositions législatives et à leurs textes d'application, sans
@@ -18,7 +18,7 @@ coopératives et de SICA ;
 
 L'irrégularité importante des revenus.
 
-II. Des décrets précisent les adaptations résultant du I.. De même, les décrets
+II. Des décrets précisent les adaptations résultant du I. De même, les décrets
 précisent les règles particulières relatives aux dates de dépôt des déclarations
 que doivent souscrire les exploitants agricoles, ainsi qu'aux documents qu'ils
 doivent produire (1).

@@ -7,7 +7,7 @@ a. Aux compétitions relevant des activités sportives ci-après :
 
 athlétisme, aviron, natation, gymnastique et escrime ;
 
-b. Jusqu'au 31 décembre 2000 aux compétitions relevant des activités sportives
+b. Jusqu'au 31 décembre 2004 aux compétitions relevant des activités sportives
 ci-après : aïkido, badminton, balle au tambourin, ballon au poing, ball-trap,
 base-ball, boxe française, canne, canoë-kayak, char à voile, escalade, football
 américain, haltérophilie, handball, hockey sur gazon, javelot-tir sur cible, jeu

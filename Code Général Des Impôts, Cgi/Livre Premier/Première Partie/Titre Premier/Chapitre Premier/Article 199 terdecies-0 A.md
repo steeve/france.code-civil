@@ -13,8 +13,8 @@ sens du I de l'article 44 sexies, ou une activité agricole, ou une activité
 professionnelle au sens du 1 de l'article 92.
 
 b) En cas d'augmentation de capital, le chiffre d'affaires hors taxes de la
-société n'a pas excédé 260 millions (1) de francs ou le total du bilan n'a pas
-excédé 175 millions (1) millions de francs au cours de l'exercice précédent ;
+société n'a pas excédé 260 millions de francs ou le total du bilan n'a pas
+excédé 175 millions de francs au cours de l'exercice précédent ;
 
 c) Plus de 50 p. 100 des droits sociaux attachés aux actions ou parts de la
 société sont détenus directement, soit uniquement par des personnes physiques,
@@ -36,8 +36,8 @@ excéder ces limites.
 
 III. Les souscriptions donnant lieu aux déductions prévues au 2° quater de
 l'article 83, aux articles 83 bis, 83 ter et 163 septdecies ou aux réductions
-d'impôt prévues aux articles 199 undecies et 199 terdecies A n'ouvrent pas droit
-à la réduction d'impôt mentionnée au I.
+d'impôt prévues aux articles 199 undecies, 199 undecies A et 199 terdecies A
+n'ouvrent pas droit à la réduction d'impôt mentionnée au I.
 
 Les actions ou parts dont la souscription a ouvert droit à la réduction d'impôt
 ne peuvent pas figurer dans un plan d'épargne en actions défini à l'article 163
@@ -60,7 +60,7 @@ contribuable ou de l'un des époux soumis à une imposition commune.
 Lorsque le contribuable obtient sur sa demande, pour une souscription,
 l'application de la déduction prévue à l'article 163 octodecies A, une reprise
 des réductions d'impôt obtenues pour cette même souscription est pratiquée au
-titre de l'année de la déduction .
+titre de l'année de la déduction.
 
 V. Un décret fixe les modalités d'application du présent article, notamment les
 obligations déclaratives incombant aux contribuables et aux sociétés.
@@ -68,15 +68,13 @@ obligations déclaratives incombant aux contribuables et aux sociétés.
 VI. 1. A compter de l'imposition des revenus de 1997, la réduction d'impôt
 prévue au premier alinéa du I pour les contribuables fiscalement domiciliés en
 France s'applique en cas de souscription de parts de fonds communs de placement
-dans l'innovation mentionnés à l'article 22-1 de la loi n° 88-1201 du 23
-décembre 1988 modifiée relative aux organismes de placement collectif en valeurs
-mobilières et portant création des fonds communs de créances lorsque les
-conditions suivantes sont remplies :
+dans l'innovation mentionnés à l'article L. 214-41 du code monétaire et
+financier lorsque les conditions suivantes sont remplies :
 
-a les personnes physiques prennent l'engagement de conserver les parts de fonds,
-pendant cinq ans au moins à compter de leur souscription ;
+a. les personnes physiques prennent l'engagement de conserver les parts de
+fonds, pendant cinq ans au moins à compter de leur souscription ;
 
-b le porteur de parts, son conjoint et leurs ascendants et descendants ne
+b. le porteur de parts, son conjoint et leurs ascendants et descendants ne
 doivent pas détenir ensemble plus de 10 p. 100 des parts du fonds et,
 directement ou indirectement, plus de 25 p. 100 des droits dans les bénéfices
 des sociétés dont les titres figurent à l'actif du fonds ou avoir détenu ce
@@ -95,17 +93,14 @@ D.
 
 3. Les réductions d'impôt obtenues font l'objet d'une reprise au titre de
 l'année au cours de laquelle le fonds ou le contribuable cesse de remplir les
-conditions fixées à l'article 22-1 de la loi n° 88-1201 du 23 décembre 1988
-précitée et au 1. Cette disposition ne s'applique pas, pour les cessions de
-parts intervenues avant l'expiration du délai de conservation des parts prévu au
-1, en cas de licenciement, d'invalidité correspondant au classement dans la
-deuxième ou la troisième des catégories prévues à l'article L. 341-4 du code de
-la sécurité sociale ou de décès du contribuable ou de l'un des époux soumis à
-une imposition commune.
+conditions fixées à l'article L. 214-41 du code monétaire et financier et au 1.
+Cette disposition ne s'applique pas, pour les cessions de parts intervenues
+avant l'expiration du délai de conservation des parts prévu au 1, en cas de
+licenciement, d'invalidité correspondant au classement dans la deuxième ou la
+troisième des catégories prévues à l'article L. 341-4 du code de la sécurité
+sociale ou de décès du contribuable ou de l'un des époux soumis à une imposition
+commune.
 
 VII. Un décret fixe les modalités d'application du VI, notamment les obligations
 déclaratives incombant aux porteurs de parts ainsi qu'aux gérants et
 dépositaires des fonds.
-
-(1) Cette modification s'applique aux augmentations de capital intervenant à
-compter du 1er janvier 1999 : Loi 98-1266 1998-12-30 art. 94 I 2.

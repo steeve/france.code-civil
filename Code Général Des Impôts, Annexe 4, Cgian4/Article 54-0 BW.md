@@ -1,20 +1,40 @@
 Article 54-0 BW
 ----
-Pour être admis à recevoir détenir et utiliser des capsules dans les conditions
-définies par les articles 54-0 A à 54-0 AG, les viticulteurs et les coopératives
-viticoles doivent :
+La répartition des capsules collectives représentatives des droits destinées aux
+récoltants ne peut être réalisée que par les personnes habilitées après agrément
+du directeur régional des douanes et droits indirects territorialement
+compétent. Ne peuvent être habilités que les syndicats viticoles ou les
+groupements professionnels.
 
-Justifier de leur qualité d'assujetti à la taxe sur la valeur ajoutée ;
+Les personnes habilitées à détenir des capsules représentatives de droits sont
+comptables des droits représentés par les marques fiscales détenues. Elles
+fournissent un cautionnement garantissant le paiement des droits correspondant
+aux capsules détenues ainsi qu'aux droits sur les capsules expédiées aux
+récoltants sous le couvert du document mentionné au I de l'article 302 M du code
+général des impôts.
 
-Fournir un cautionnement spécial garantissant le paiement des droits
-correspondant aux capsules ou aux feuilles métalliques revêtues du timbre
-utilisées ou ressortant en manquants au compte de magasin ;
+Une personne habilitée peut être autorisée par le directeur régional des douanes
+et droits indirects à percevoir le droit de circulation et les taxes
+parafiscales lors de la répartition des capsules à ses seuls adhérents. Ces
+droits sont reversés mensuellement à la recette des douanes et droits indirects
+dont dépend la personne habilitée.
 
-Déclarer au bureau de déclarations de la direction générale des douanes et
-droits indirects la contenance des vaisseaux foudres et autres récipients d'une
-capacité supérieure à 10 hectolitres dont la contenance doit être vérifiée dans
-les conditions réglementaires et marqués sur chacun d'eux ;
+Ces personnes doivent tenir une comptabilité matières dans laquelle sont repris
+:
 
-S'engager par écrit à supporter sans formalités les visites et vérifications du
-service des douanes et droits indirects dans leurs magasins caves et celliers
-pour le contrôle de la régularité de leurs opérations.
+a) En entrée, avec les références au document mentionné au I de l'article 302 M
+du code général des impôts, le nombre de capsules reçues, par catégorie (volume
+net exprimé en centilitres, couleur, pour les vins, vin tranquille ou vin
+mousseux, et, le cas échéant, titre alcoométrique volumique ...) ;
+
+b) En sortie, par destinataire et par catégorie, le nombre de capsules expédiées
+ou livrées, avec les références, selon le cas, au document mentionné au I ou au
+II de l'article 302 M du code général des impôts.
+
+Cette comptabilité matières ainsi que les capsules détenues sont tenues à la
+disposition des agents des douanes et droits indirects à fin de contrôle.
+
+La personne habilitée effectue mensuellement la balance des entrées et sorties
+de la comptabilité matières et transmet ce document au service des douanes et
+droits indirects dont elle dépend au plus tard le cinquième jour du mois
+suivant.

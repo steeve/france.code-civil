@@ -31,7 +31,8 @@ versements exigés à ce titre excéderaient le montant des versements définis 
 
 Cet engagement doit être garanti par une caution solidaire donnée par un
 établissement de crédit ou une société de caution mutuelle constituée
-conformément aux dispositions de la loi modifiée du 13 mars 1917.
+conformément aux dispositions des articles L. 512-2, L. 512-20, L. 515-4 et L.
+515-13 du code monétaire et financier.
 
 A défaut de pouvoir fournir cette caution, l'intéressé doit constituer un
 cautionnement en numéraire dans un organisme habilité à cet effet et désigné
@@ -45,6 +46,7 @@ cessionnaire n'a intenté aucune action dans ce délai à l'encontre du cédant 
 
 d) La société de construction doit intervenir à l'acte de cession et justifier
 qu'elle bénéficie de l'engagement pris par un établissement de crédit ou une
-société de caution mutuelle constituée conformément aux dispositions de la loi
-modifiée du 13 mars 1917, de répondre aux appels de fonds de la société en cas
-de défaillance des associés.
+société de caution mutuelle constituée conformément aux dispositions des
+articles L. 512-2, L. 512-20, L. 515-4 et L. 515-13 du code monétaire et
+financier, de répondre aux appels de fonds de la société en cas de défaillance
+des associés.

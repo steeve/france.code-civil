@@ -1,13 +1,70 @@
 Article 1414 A
 ----
-Les contribuables qui occupent leur habitation principale dans les conditions
-prévues à l'article 1390 et dont le montant des revenus de l'année précédente
-n'excède pas la limite prévue à l'article 1417, sont dégrevés d'office de la
-taxe d'habitation y afférente, à concurrence du montant de l'imposition excédant
-1.563 F (1).
+I. - Les contribuables autres que ceux mentionnés à l'article 1414, dont le
+montant des revenus de l'année précédente n'excède pas la limite prévue au II de
+l'article 1417, sont dégrevés d'office de la taxe d'habitation afférente à leur
+habitation principale pour la fraction de leur cotisation qui excède 4,3 % de
+leur revenu au sens du IV de l'article 1417 diminué d'un abattement fixé à :
 
-Cette limite est révisée chaque année proportionnellement à la variation de la
-cotisation moyenne de taxe d'habitation constatée l'année précédente, au niveau
-national.
+a. 22 500 F pour la première part de quotient familial, majoré de 6 500 F pour
+les quatre premières demi-parts et de 11 500 F pour chaque demi-part
+supplémentaire à compter de la cinquième, en France métropolitaine ;
 
-(1) 2.189 F au titre de 1999, 2.131 F au titre de 1998.
+b. 27 000 F pour la première part de quotient familial, majoré de 6 500 F pour
+les deux premières demi-parts et de 11 500 F pour chaque demi-part
+supplémentaire à compter de la troisième, dans les départements de la
+Martinique, de la Guadeloupe et de la Réunion ;
+
+c. 30 000 F pour la première part de quotient familial, majoré de 5 000 F pour
+les deux premières demi-parts et de 12 000 F pour chaque demi-part
+supplémentaire à compter de la troisième, dans le département de la Guyane.
+
+Ces montants d'abattements sont, chaque année, indexés comme la limite
+supérieure de la première tranche du barème de l'impôt sur le revenu.
+
+II. - 1. Pour l'application du I :
+
+a. Le revenu s'entend du revenu du foyer fiscal du contribuable au nom duquel la
+taxe est établie ;
+
+b. Lorsque la taxe d'habitation est établie au nom de plusieurs personnes
+appartenant à des foyers fiscaux distincts, le revenu s'entend de la somme des
+revenus de chacun des foyers fiscaux de ces personnes ;
+
+c. Lorsque les personnes mentionnées aux a et b cohabitent avec des personnes
+qui ne font pas partie de leur foyer fiscal et pour lesquelles la résidence
+constitue leur habitation principale, le revenu s'entend de la somme des revenus
+de chacun des foyers fiscaux des personnes au nom desquelles l'imposition est
+établie ainsi que des revenus de chacun des foyers fiscaux des cohabitants dont
+les revenus, au sens du IV de l'article 1417, excèdent la limite prévue au I du
+même article ;
+
+d. L'abattement est déterminé en tenant compte de la somme des parts retenues
+pour l'établissement de l'impôt sur le revenu de chacun des foyers fiscaux dont
+le revenu est retenu pour le calcul du dégrèvement.
+
+2. Pour les impositions établies au titre de 2000 à 2004, le montant du
+dégrèvement calculé dans les conditions fixées au I ne peut être inférieur au
+montant du dégrèvement qui aurait été accordé conformément aux dispositions de
+l'article 1414 C dans sa rédaction en vigueur au titre de 2000 avant la
+publication de la loi de finances rectificative pour 2000 (n° 2000-656 du 13
+juillet 2000) ; toutefois, pour les impositions établies à compter de 2001, le
+pourcentage de 50 % mentionné à ce même article est réduit de dix points chaque
+année.
+
+III. - A compter de 2001, le montant du dégrèvement prévu au I est réduit d'un
+montant égal au produit de la base nette imposable au profit des collectivités
+locales et de leurs établissements publics de coopération intercommunale par la
+différence entre le taux global de taxe d'habitation constaté dans la commune au
+titre de l'année d'imposition et ce même taux global constaté en 2000.
+
+Pour l'application du premier alinéa :
+
+a. Lorsque les bases nettes imposables au profit de la commune, de
+l'établissement public de coopération intercommunale à fiscalité propre et du
+département sont différentes, la base la moins élevée est retenue ;
+
+b. Le taux global de taxe d'habitation comprend le taux des taxes spéciales
+d'équipement additionnelles à la taxe d'habitation ;
+
+c. La réduction n'est pas applicable si elle est inférieure à 100 F.

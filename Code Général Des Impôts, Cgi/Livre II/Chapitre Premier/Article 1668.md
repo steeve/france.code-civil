@@ -1,14 +1,18 @@
 Article 1668
 ----
-1. L'impôt sur les sociétés est payé au comptable du Trésor chargé du
-recouvrement des impôts directs en quatre termes déterminés provisoirement
-d'après le résultat du dernier exercice clos et calculé sur le bénéfice
-imposable et, en ce qui concerne les sociétés nouvellement créées, sur le
-produit évalué à 5 % du capital social. Le montant des acomptes est fixé à
-33,1/3 p. 100 du bénéfice de référence et à 19 % du résultat net de la
-concession de licences d'exploitation des éléments mentionnés au 1 de l'article
-39 terdecies. Le bénéfice de référence s'entend des bénéfices soumis aux taux
-fixés au deuxième alinéa et au f du I de l'article 219 (1) ;
+1. L'impôt sur les sociétés donne lieu au versement, au comptable du Trésor
+chargé du recouvrement des impôts directs, d'acomptes trimestriels déterminés à
+partir des résultats du dernier exercice clos. Le montant total de ces acomptes
+est égal à un montant d'impôt sur les sociétés calculé sur le résultat imposé au
+taux fixé au deuxième alinéa du I de l'article 219, sur le résultat imposé au
+taux fixé au b du I de l'article 219 diminué de sa fraction correspondant à la
+plus-value nette provenant de la cession des éléments d'actif et sur le résultat
+net de la concession de licences d'exploitation des éléments mentionnés au 1 de
+l'article 39 terdecies du dernier exercice pour sa fraction non imposée au taux
+fixé au b du I de l'article 219. Pour les sociétés nouvellement créées, ces
+acomptes sont déterminés d'après un impôt de référence calculé au taux fixé au
+deuxième alinéa du I de l'article 219 sur le produit évalué à 5 % du capital
+social.
 
 Les acomptes mentionnés au premier alinéa sont arrondis au franc ou à l'euro le
 plus proche. La fraction de franc ou d'euro égale à 0,50 est comptée pour 1.
@@ -39,22 +43,18 @@ dans les trente jours de la date de dépôt des bordereaux-avis de versement.
 
 4. (Dispositions devenues sans objet).
 
-4 bis. L'entreprise qui estime que le montant des acomptes déjà versés au titre
+4 bis L'entreprise qui estime que le montant des acomptes déjà versés au titre
 d'un exercice est égal ou supérieur à la cotisation totale d'impôt sur les
-sociétés dont elle serait redevable au titre de l'exercice concerné, déterminée
-selon les modalités prévues au premier alinéa du 1, prenant en compte l'impôt
-qui résulterait des cessions d'éléments d'actifs soumis au régime des
-plus-values et moins-values à long terme et avant imputation des crédits d'impôt
-et avoirs fiscaux, peut se dispenser de nouveaux versements d'acomptes en
-remettant au comptable du Trésor chargé du recouvrement des impôts directs,
-avant la date d'exigibilité du prochain versement à effectuer, une déclaration
-datée et signée (1).
+sociétés dont elle sera redevable au titre de l'exercice concerné, avant
+imputation des crédits d'impôt et avoirs fiscaux, peut se dispenser de nouveaux
+versements d'acomptes en remettant au comptable du Trésor chargé du recouvrement
+des impôts directs, avant la date d'exigibilité du prochain versement à
+effectuer, une déclaration datée et signée (1).
 
-4 ter. Abrogé.
+4 ter. Abrogé pour les acomptes échus au cours d'exercices ouverts à compter du
+1er janvier 1998.
 
-5. Les modalités d'application du présent article sont fixées par décret (2).
+5. Les modalités d'application du présent article sont fixées par décret.
 
-(1) Ces dispositions sont applicables aux acomptes échus au cours d'exercices
-ouverts à compter du 1er janvier 1998.
-
-(2) Voir annexe III art. 358 à 365 et 366.
+(1) Ces dispositions s'appliquent aux acomptes dus au titre d'exercices ouverts
+à compter du 1er janvier 2001.

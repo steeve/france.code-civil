@@ -6,3 +6,7 @@ promotion et de communication au profit de l'artisanat. Il est recouvré dans le
 mêmes conditions que la taxe pour frais de chambres de métiers. Les ressources
 de ce fonds sont gérées par un établissement public à caractère administratif
 créé à cet effet par décret en Conseil d'Etat.
+
+Le Fonds national de promotion et de communication de l'artisanat remet avant le
+1er mars de chaque année un rapport au Parlement précisant le montant des sommes
+perçues ainsi que leur affectation au titre du droit visé au premier alinéa.

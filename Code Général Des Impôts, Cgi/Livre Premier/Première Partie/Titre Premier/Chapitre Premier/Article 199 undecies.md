@@ -25,18 +25,18 @@ suivent la clôture de chaque souscription annuelle. Les souscripteurs doivent
 s'engager à conserver les parts ou actions pendant cinq ans au moins à compter
 de la date d'achèvement des immeubles ;
 
-c. Aux souscriptions au capital de sociétés civiles régies par la loi n° 70-1300
-du 31 décembre 1970 modifiée fixant le régime applicable aux sociétés civiles
-autorisées à faire appel publiquement à l'épargne, lorsque la société s'engage à
-affecter intégralement le produit de la souscription annuelle, dans les six mois
-qui suivent la clôture de celle-ci, à l'acquisition de logements neufs situés
-dans ces départements et affectés pour 90 p. 100 au moins à usage d'habitation.
-Les souscripteurs doivent s'engager à conserver les parts pendant cinq ans au
-moins à compter de la date de souscription. Ces sociétés doivent s'engager à les
-donner en location nue pendant cinq ans au moins à compter de leur achèvement,
-ou de leur acquisition si elle est postérieure à des locataires qui en font leur
-habitation principale. Ces dispositions s'appliquent aux souscriptions réalisées
-à compter du 1er juillet 1993 ;
+c. Aux souscriptions au capital de sociétés civiles régies par la section 3 du
+chapitre IV du titre premier du livre II du code monétaire et financier, lorsque
+la société s'engage à affecter intégralement le produit de la souscription
+annuelle, dans les six mois qui suivent la clôture de celle-ci, à l'acquisition
+de logements neufs situés dans ces départements et affectés pour 90 p. 100 au
+moins à usage d'habitation. Les souscripteurs doivent s'engager à conserver les
+parts pendant cinq ans au moins à compter de la date de souscription. Ces
+sociétés doivent s'engager à les donner en location nue pendant cinq ans au
+moins à compter de leur achèvement, ou de leur acquisition si elle est
+postérieure à des locataires qui en font leur habitation principale. Ces
+dispositions s'appliquent aux souscriptions réalisées à compter du 1er juillet
+1993 ;
 
 d. Au montant des souscriptions en numéraire au capital des sociétés de
 développement régional de ces départements ou de sociétés soumises à l'impôt sur
@@ -50,7 +50,7 @@ l'artisanat ;
 e. Au montant des souscriptions en numéraire au capital d'une société soumise à
 l'impôt sur les sociétés, mentionnée au II bis de l'article 217 undecies sous
 réserve de l'obtention d'un agrément préalable du ministre chargé du budget,
-délivré dans les conditions prévues au III du même article.
+délivré dans les conditions prévues au III du même article (1).
 
 Lorsque la société affecte tout ou partie de la souscription à la construction
 d'immeubles destinés à l'exercice d'une des activités visées ci-dessus, elle
@@ -66,7 +66,7 @@ investissements productifs dans le secteur de la maintenance au profit
 d'activités industrielles et dans celui de la production et de la diffusion
 audiovisuelles et cinématographiques.
 
-Un décret détermine les conditions d'application de l'alinéa précédent.
+Un décret détermine les conditions d'application de l'alinéa précédent (2).
 
 La réduction d'impôt prévue au premier alinéa s'applique aux souscriptions en
 numéraire au capital de sociétés mentionnées au troisième alinéa du II de
@@ -121,7 +121,7 @@ de souscription au capital de sociétés visées aux b et c du 1, le contribuabl
 s'engage à conserver ses parts ou actions pendant au moins six ans ;
 
 3° Le loyer et les ressources du locataire n'excèdent pas des plafonds fixés par
-décret.
+décret (3).
 
 4. En cas de non-respect des engagements mentionnés au 1, de cession de
 l'immeuble ou des parts et titres ou de non-respect de leur objet exclusif par
@@ -134,15 +134,16 @@ fait l'objet d'une fusion placée sous le régime de l'article 210 A, à la
 condition que la société bénéficiaire de l'apport, ou la société absorbante
 selon le cas, réponde aux conditions du 1 et s'engage dans l'acte d'apport ou de
 fusion à respecter les engagements mentionnés au troisième alinéa du 1 pour la
-fraction du délai restant à courir.
+fraction du délai restant à courir (4).
 
 Quand un contribuable pratique la réduction d'impôt définie au présent article,
 les dispositions du a du 1° du I de l'article 199 sexies et des articles 199
 nonies à 199 decies B ne sont pas applicables.
 
-La location d'un logement neuf consentie dans des conditions fixées par décret à
-un organisme public ou privé pour le logement à usage d'habitation principale de
-son personnel ne fait pas obstacle au bénéfice de la réduction d'impôt.
+La location d'un logement neuf consentie dans des conditions fixées par décret
+(5) à un organisme public ou privé pour le logement à usage d'habitation
+principale de son personnel ne fait pas obstacle au bénéfice de la réduction
+d'impôt.
 
 5. Les dispositions du présent article ne concernent pas les constructions
 commencées, les parts ou actions souscrites ou les immeubles acquis en l'état
@@ -153,3 +154,14 @@ conditions, aux territoires d'outre-mer et aux collectivités territoriales de
 Mayotte et Saint-Pierre-et-Miquelon.
 
 7. Les dispositions du 5 du I de l'article 197 sont applicables.
+
+(1) Voir également l'article 170 decies de l'annexe IV.
+
+(2) Voir l'article 46 quaterdecies BA de l'annexe III.
+
+(3) Voir l'article 46 AG decies de l'annexe III.
+
+(4) Les dispositions de la dernière phrase du présent alinéa sont applicables
+aux opérations intervenues à compter du 1er janvier 1994.
+
+(5) Voir les articles 46 AG sexies à 46 AG nonies de l'annexe III.

@@ -85,7 +85,11 @@ l'Etat, les collectivités territoriales, les organismes ou les établissements
 publics sans caractère industriel ou commercial, les organismes professionnels
 ainsi que les associations ou organismes privés sans but lucratif à caractère
 sanitaire, social, éducatif, sportif ou culturel et dans lesquels ils exercent
-leur activité.
+leur activité. A compter de la promulgation de la loi n° 2000-1208 du 13
+décembre 2000 relative à la solidarité et au renouvellement urbains, les
+communes des autres départements éligibles à la dotation de solidarité urbaine
+prévue à l'article L. 2334-15 du code général des collectivités territoriales
+sont réputées appartenir à la troisième circonscription.
 
 b. Pour les locaux commerciaux et de stockage, un tarif unique distinct au mètre
 carré est appliqué.
@@ -94,9 +98,9 @@ carré est appliqué.
 
 a. Pour les locaux à usage de bureaux :
 
-1re CIRCONSCRIPTION
+1ère CIRCONSCRIPTION
 
-Tarif normal (en francs : 74
+Tarif normal (en francs) : 74
 
 Tarif réduit (en francs) : 37
 

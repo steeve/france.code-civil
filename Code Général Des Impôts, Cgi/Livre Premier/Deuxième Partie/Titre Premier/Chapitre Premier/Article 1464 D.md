@@ -4,10 +4,11 @@ Par une délibération de portée générale prise dans les conditions prévues 
 l'article 1639 A bis, les collectivités territoriales ou leurs groupements dotés
 d'une fiscalité propre peuvent exonérer de la taxe professionnelle pendant les
 deux années qui suivent celle de leur établissement les médecins ainsi que les
-auxiliaires médicaux mentionnés au livre IV du code de la santé publique et
-soumis à l'impôt sur le revenu dans la catégorie des bénéfices non commerciaux
-qui, exerçant pour la première fois leur activité à titre libéral, s'établissent
-dans une commune de moins de deux mille habitants.
+auxiliaires médicaux mentionnés au livre Ier et au livre III de la quatrième
+partie du code de la santé publique et soumis à l'impôt sur le revenu dans la
+catégorie des bénéfices non commerciaux qui, exerçant pour la première fois leur
+activité à titre libéral, s'établissent dans une commune de moins de deux mille
+habitants.
 
 La délibération porte sur la totalité de la part revenant à chaque collectivité
 ou groupement. Les délibérations prises par les conseils municipaux s'appliquent

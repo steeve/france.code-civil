@@ -1,10 +1,10 @@
 Article 41 sexies
 ----
 I. Les modalités de dérogation prévues au deuxième alinéa du I de l'article 96 K
-de l'annexe III sont les suivantes :
+de l'annexe III au code général des impôts sont les suivantes :
 
-ne sont pas tenues d'utiliser les formulaires CERFA n° 30-2943 ou n° 30-2944
-pour satisfaire à leurs obligations en matière de déclaration d'échanges de
+Ne sont pas tenues d'utiliser les formulaires CERFA mentionnés audit article 96
+K pour satisfaire à leurs obligations en matière de déclaration d'échanges de
 biens les entreprises qui, au cours de l'année civile précédente, ont déclaré,
 pour chaque flux, moins de 100 lignes par mois en moyenne.
 

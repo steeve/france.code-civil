@@ -4,7 +4,7 @@ Article 64
 des exploitations situées en France est déterminé forfaitairement conformément
 aux prescriptions des 2 à 5.
 
-2. Le bénéfice forfaitaire est déterminé dans les conditions prévues aux
+2. Le bénéfice forfaitaire est déterminé, dans les conditions prévues aux
 articles L 1 à L 4 du livre des procédures fiscales, par hectare, pour chaque
 catégorie ou chaque nature d'exploitation, d'après la valeur des récoltes levées
 et des autres produits de la ferme réalisés au cours de l'année civile diminuée
@@ -41,7 +41,7 @@ L'évaluation du bénéfice forfaitaire à l'hectare doit être faite de telle f
 que les chiffres fixés dans un département correspondent à ceux établis dans un
 département voisin pour des terres de productivité semblable.
 
-3. Sous réserve du cas visé au 2, deuxième alinéa, le bénéfice forfaitaire de
+3. Sous réserve du cas visé au deuxième alinéa du 2, le bénéfice forfaitaire de
 chaque exploitation est obtenu en multipliant le bénéfice forfaitaire moyen à
 l'hectare correspondant à la catégorie ou à la nature de l'exploitation
 considérée par la superficie de cette exploitation.
@@ -59,12 +59,12 @@ en a été tenu compte pour la fixation du bénéfice forfaitaire moyen à l'hec
 
 4. En ce qui concerne les terres prises à ferme par l'exploitant, le bénéfice
 imposable est obtenu en retranchant du bénéfice déterminé conformément au 3 ou
-au 2, deuxième alinéa, le montant du fermage moyen correspondant à la catégorie
+deuxième alinéa du 2, le montant du fermage moyen correspondant à la catégorie
 ou à la nature de l'exploitation.
 
 Ce montant est déterminé défalcation faite des charges immobilières qui ont déjà
 été admises en déduction pour le calcul du bénéfice forfaitaire par application
-du 2, premier alinéa.
+du premier alinéa du 2.
 
 5. En cas de calamités telles que grêle, gelée, inondation, dégâts occasionnés
 par les rongeurs sur les récoltes en terre, mortalité du bétail, l'exploitant
@@ -76,4 +76,4 @@ et légalisé par la mairie s'il s'agit de pertes de bétail.
 
 Le tribunal peut prononcer la déchéance du bénéfice de la mesure prévue à
 l'alinéa qui précède à l'encontre des contrevenants aux dispositions des
-articles 234 à 239 du code rural.
+articles L223-18 à L223-22 du code rural.

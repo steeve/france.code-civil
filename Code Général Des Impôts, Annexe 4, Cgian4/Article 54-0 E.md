@@ -1,18 +1,4 @@
 Article 54-0 E
 ----
-Les inscriptions autres que celles prévues à l'article 54-0 D peuvent être
-imprimées en toutes couleurs, mais en aucun cas la couleur verte ne peut être
-employée sur les capsules apposées sur s des bouteilles contenant des vins ne
-bénéficiant pas d'une appellation d'origine contrôlée ou de l'appellation "Vin
-délimité de qualité supérieure".
-
-Pour les vins à appellation d'origine contrôlée et les vins délimités de qualité
-supérieure ces mentions doivent être apposées sur fond vert.
-
-Sur les capsules représentatives de droits les mentions prévues à l'article 54-0
-C peuvent être apposées par estampage ou être moulées s'il s'agit de capsules en
-matière plastique.
-
-L'indication desdites mentions doit figurer sur les capsules bandes ou
-récipients portant impression du timbre avant leur livraison au négociant
-utilisateur.
+A l'exception du blanc, les couleurs citées à l'article 54-0 D ne peuvent être
+employées pour les capsules et supports portant un timbre d'une autre couleur.

@@ -93,10 +93,9 @@ cinq années suivantes.
 sociaux, ou de titres assimilés sont imputables, dans les conditions mentionnées
 au 11, à compter de l'année au cours de laquelle intervient soit la réduction du
 capital de la société, en exécution d'un plan de redressement mentionné aux
-articles 69 et suivants de la loi n° 85-98 du 25 janvier 1985 relative au
-redressement et à la liquidation judiciaires des entreprises, soit la cession de
-l'entreprise ordonnée par le tribunal en application des articles 81 et suivants
-de la même loi, soit le jugement de clôture de la liquidation judiciaire.
+articles L. 621-70 et suivants du code de commerce, soit la cession de
+l'entreprise ordonnée par le tribunal en application des articles L. 621-83 et
+suivants de ce code, soit le jugement de clôture de la liquidation judiciaire.
 
 Ces dispositions ne s'appliquent pas :
 
@@ -108,8 +107,8 @@ quinquies D ;
 
 b. Aux pertes constatées par les personnes à l'encontre desquelles le tribunal a
 prononcé au titre des sociétés en cause l'une des condamnations mentionnées aux
-articles 180, 181, 182, 188, 189, 190, 192, 197 ou 201 de la loi n° 85-98 du 25
-janvier 1985 précitée.
+articles L. 624-3, L. 624-4, L. 624-5, L. 625-4, L. 625-5, L. 625-6, L. 625-8,
+L. 626-2 ou L. 626-6 du code de commerce.
 
 13. L'imputation des pertes mentionnées au 12 est opérée dans la limite du prix
 effectif d'acquisition des titres par le cédant ou, en cas d'acquisition à titre

@@ -44,7 +44,7 @@ facture de l'entreprise ayant réalisé les travaux ou, le cas échéant, pour l
 du coût de ces équipements figurant sur une attestation fournie par le vendeur
 du logement.
 
-Il est accordé sur présentation de l'attestation mentionnée à l'alinéa précédent
+Il est accordé sur présentation de l'attestation mentionnée au troisième alinéa
 ou des factures, autres que les factures d'acompte, des entreprises ayant
 réalisé les travaux et comportant, outre les mentions prévues à l'article 289,
 l'adresse de réalisation des travaux, leur nature ainsi que la désignation et le

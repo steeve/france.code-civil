@@ -2,30 +2,30 @@ Article 54-0 C
 ----
 Sur les capsules doivent figurer les mentions ci-après :
 
-a. Le nom du négociant utilisateur ou sa raison sociale, ainsi que le nom de la
-localité dans laquelle il exerce son activité. Toutes ces indications peuvent
-être remplacées par la marque de commerce du négociant suivie du numéro
-d'agrément de ce dernier ou par la mention "négociant" suivie du même numéro
-d'agrément.
+a) Le numéro d'agrément de la personne responsable de l'embouteillage du
+produit. Ce numéro d'agrément, délivré par le directeur régional des douanes et
+droits indirects territorialement compétent, se compose du mot "Récoltant" ou
+"Non récoltant", qui peut être remplacé respectivement par les lettres "R"
+(récoltant), ou "N" (non récoltant), encadré, à gauche, du numéro du département
+de la personne agréée et, à droite, d'un numéro d'ordre d'enregistrement de
+l'administration. Les récoltants dont les syndicats viticoles, les groupements
+professionnels, les caves coopératives et leurs unions embouteillant leur
+récolte pour leur compte ou pour leurs adhérents bénéficient du mot "Récoltant"
+ou de la lettre "R".
 
-Toutefois, lorsque les capsules sont apposées par des négociants qui
-embouteillent des boissons pour le compte de tiers, les indications à faire
-figurer sur les capsules sont celles qui se rapportent à ces tiers.
+b) La marque du fabricant des capsules.
 
-Ces indications doivent concorder avec celles figurant éventuellement soit sur
-les étiquettes apposées sur les bouteilles soit sur les bouteilles elles-mêmes.
+Les mentions indiquées au a sont apposées dans la couronne de la capsule décrite
+au 2° du II de l'article 164 AM. La mention indiquée au b est apposée, au choix
+du fabricant, sur la jupe ou la coiffe, ou dans cette couronne.
 
-Dans le cas où un négociant est autorisé à embouteiller les vins pour le compte
-d'un ou plusieurs autres entrepositaires agréés l'administration peut autoriser
-l'utilisation de capsules portant au lieu et place du nom, de la raison sociale,
-de la marque ou du numéro d'agrément de l'utilisateur, la mention "négociant",
-suivie du numéro d'agrément de l'embouteilleur. Les bouteilles portant de telles
-capsules doivent être revêtues, par les soins de l'embouteilleur, d'étiquettes
+Les indications reprises au a du premier alinéa doivent concorder avec celles
+figurant soit sur les étiquettes apposées sur les bouteilles ou récipients, soit
+sur les bouteilles ou récipients eux-mêmes. Ces indications doivent être
+apposées avant leur livraison à l'utilisateur.
+
+Dans le cas où un négociant est autorisé à embouteiller des boissons alcooliques
+pour le compte d'un ou plusieurs autres entrepositaires agréés, les bouteilles
+ou récipients doivent être revêtus, par le soin de l'embouteilleur, d'étiquettes
 mentionnant obligatoirement le nom et l'adresse de l'entrepositaire agréé pour
 le compte duquel l'embouteillage a été réalisé.
-
-b. La marque du fabricant des capsules ou le cas échéant celle du fabricant des
-feuilles imprimées servant à la fabrication des capsules.
-
-Les mentions visées au a doivent être apposées autour du timbre visé à l'article
-54-0 B, la mention visée au b doit être apposée sur la jupe des capsules.

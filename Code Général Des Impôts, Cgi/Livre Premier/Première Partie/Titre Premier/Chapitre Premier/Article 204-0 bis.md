@@ -1,9 +1,9 @@
 Article 204-0 bis
 ----
-I. ((L'indemnité de fonction perçue par l'élu local, définie dans le code
-général des collectivités territoriales et au titre III modifié de la loi n°
-92-108 du 3 février 1992 relative aux conditions d'exercice des mandats locaux))
-(M) est soumise à une retenue à la source libératoire de l'impôt sur le revenu.
+I. L'indemnité de fonction perçue par l'élu local, définie dans le code général
+des collectivités territoriales et au titre III modifié de la loi n° 92-108 du 3
+février 1992 relative aux conditions d'exercice des mandats locaux est soumise à
+une retenue à la source libératoire de l'impôt sur le revenu.
 
 La base de cette retenue est constituée par le montant net de l'indemnité,
 minorée de la fraction représentative de frais d'emploi.
@@ -18,9 +18,9 @@ la durée d'exercice du mandat pendant cette période.
 
 La fraction représentative des frais d'emploi est fixée forfaitairement. Cette
 fraction est égale à 100 p. 100 des indemnités versées pour les maires dans les
-communes de moins de 1 000 habitants. En cas de cumul de mandats, les fractions
+communes de moins de 500 habitants. En cas de cumul de mandats, les fractions
 sont cumulables dans la limite d'une fois et demie la fraction représentative
-des frais d'emploi pour un maire d'une commune de moins de 1 000 habitants.
+des frais d'emploi pour un maire d'une commune de moins de 500 habitants.
 
 La fraction représentative des frais d'emploi est revalorisée dans les mêmes
 proportions que l'indemnité de fonction.
@@ -49,5 +49,3 @@ décret.
 
 Cette disposition s'applique aux indemnités de fonction perçues à compter du 1er
 janvier 1994.
-
-(M) Modification de la loi.

@@ -1,10 +1,11 @@
 Article 54-0 H
 ----
-Avant le commencement de leurs travaux les fabricants agréés doivent remettre au
-service des douanes et droits indirects dont ils dépendent un état présentant la
-description sommaire des locaux et ateliers de leur usine et indiquant le nombre
-de presses à imprimer d'appareils à vernir et de machines à emboutir pouvant
-servir à la fabrication des capsules.
+Quel que soit le support, la marque fiscale ne peut être fabriquée qu'après
+déclaration de profession du fabricant.
 
-Ils doivent également fournir un cautionnement dont le montant sera fixé par
-l'administration d'après l'importance de leur production.
+Cette déclaration de profession est accompagnée d'un état présentant la
+description des locaux et indiquant le type et le nombre des machines pouvant
+servir à la fabrication des marques fiscales ou des capsules.
+
+Le fabricant doit fournir une caution garantissant le paiement des droits
+correspondant aux marques fiscales ou aux capsules produites.

@@ -1,7 +1,7 @@
 Article 1466 A
 ----
-I. Les communes peuvent, dans des parties de leur territoire dénommées zones
-urbaines sensibles caractérisées par la présence de grands ensembles ou de
+I. Les communes peuvent, dans des parties de leur territoire, dénommées zones
+urbaines sensibles, caractérisées par la présence de grands ensembles ou de
 quartiers d'habitat dégradé mentionnés au 3 de l'article 42 modifié de la loi n°
 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du
 territoire et par un déséquilibre accentué entre l'habitat et l'emploi,
@@ -14,18 +14,11 @@ statistique et des études économiques pour l'année de référence définie à
 l'article 1467 A. La délibération fixe le taux d'exonération ainsi que sa durée
 ; elle ne peut avoir pour effet de reporter de plus de cinq ans l'application du
 régime d'imposition de droit commun. Elle porte sur la totalité de la part
-revenant à chaque commune. Seuls les établissements employant moins de cent
-cinquante salariés peuvent bénéficier de cette mesure.
+revenant à chaque commune. Seuls les établissements employant moins de 150
+salariés peuvent bénéficier de cette mesure.
 
 Les délibérations des conseils municipaux s'appliquent à la cotisation de
 péréquation de la taxe professionnelle.
-
-La liste des zones urbaines sensibles prévue au premier alinéa du 3 de l'article
-42 modifié de la loi n° 95-115 du 4 février 1995 est actualisée au moins tous le
-cinq ans, de façon à tenir compte de l'évolution de la situation des grands
-ensembles et des quartiers d'habitat dégradé. Elle peut, à la même fin, être
-complétée entre deux actualisations. Elle est actualisée et complétée après avis
-du Conseil national des villes et du développement social urbain.
 
 La limite de base nette imposable visée au premier alinéa est fixée à 1 050 000
 F au titre de 1999 et, sous réserve de l'actualisation annuelle en fonction de
@@ -33,11 +26,11 @@ la variation des prix, à 990 000 F au titre de 2000 (996 000 F après
 actualisation), 910 000 F au titre de 2001 (920 000 F après actualisation), 815
 000 F au titre de 2002 et 745 000 F à compter de 2003.
 
-I bis. Sauf délibération contraire de la collectivité territoriale ou du
+I bis Sauf délibération contraire de la collectivité territoriale ou du
 groupement de collectivités territoriales, les créations et extensions
-d'établissement intervenues entre le 1er janvier 1995 et le 31 décembre 1996
+d'établissement intervenues entre le 1er janvier 1995 et le 31 décembre 1996,
 dans les communes éligibles au titre de l'année précédente à la dotation de
-solidarité urbaine mentionnée aux articles L. 2334-15 à L. 2334-18 du code
+solidarité urbaine mentionnée aux articles L. 2334-15 à L. 2334-18-3 du code
 général des collectivités territoriales, sont exonérées de taxe professionnelle
 lorsqu'elles sont réalisées dans les parties de leur territoire, dénommées zones
 de redynamisation urbaine, caractérisées par la présence de grands ensembles ou
@@ -51,11 +44,11 @@ reporter de plus de cinq ans l'application du régime d'imposition de droit
 commun. Seuls les établissements employant moins de cent cinquante salariés
 peuvent bénéficier de cette mesure.
 
-I ter. Sauf délibération contraire de la collectivité territoriale ou du
+I ter Sauf délibération contraire de la collectivité territoriale ou du
 groupement de collectivités territoriales, les créations, extensions
 d'établissement ou changements d'exploitant intervenus à compter du 1er janvier
 1997 dans les zones de redynamisation urbaine définies au A du 3 de l'article 42
-modifié de la loi n° 95-115 du 4 février 1995 précitée sont exonérés de taxe
+modifié de la loi n° 95-115 du 4 février 1995 sont exonérés de taxe
 professionnelle dans la limite du montant de base nette imposable fixé au I.
 
 Sauf délibération contraire de la collectivité territoriale ou du groupement de
@@ -63,8 +56,8 @@ collectivités territoriales, les établissements existant au 1er janvier 1997
 dans les zones de redynamisation urbaine visées au premier alinéa, quelle que
 soit la date de leur création, bénéficient, à compter du 1er janvier 1997, de
 l'exonération de taxe professionnelle dans les conditions prévues au quatrième
-alinéa et dans la limite d'un montant de base nette imposable fixé à 50 p. 100
-du montant prévu au I. Dans cette limite, la base exonérée comprend, le cas
+alinéa et dans la limite d'un montant de base nette imposable fixé à 50 % du
+montant prévu au I. Dans cette limite, la base exonérée comprend, le cas
 échéant, les éléments d'imposition correspondant aux extensions d'établissement
 intervenues en 1996.
 
@@ -89,7 +82,7 @@ salariés au plus au 1er janvier 1997 ou à la date de leur création, si elle e
 postérieure, bénéficient de l'exonération de taxe professionnelle à compter du
 1er janvier 1997 dans les conditions prévues au I ter, pour leurs établissements
 situés dans les zones franches urbaines définies au B du 3 de l'article 42
-modifié de la loi n° 95-115 du 4 février 1995 précitée.
+modifié de la loi n° 95-115 du 4 février 1995.
 
 Cette exonération qui s'applique, quelle que soit la date de création de
 l'établissement, est accordée dans la limite d'un montant de base nette
@@ -111,20 +104,21 @@ a) aux bases d'imposition de tous les établissements appartenant à des
 entreprises qui exercent leur activité dans les secteurs dont la liste définie
 selon la nomenclature des activités françaises est annexée à la loi n° 96-987 du
 14 novembre 1996 relative à la mise en oeuvre du pacte de relance pour la ville
-;
+modifiée par la loi n° 2000-1208 du 13 décembre 2000 relative à la solidarité et
+au renouvellement urbains ;
 
 b) pour les autres secteurs d'activité, aux bases d'imposition des
 établissements appartenant à des entreprises dont la part du chiffre d'affaires
 affèrent aux livraisons intracommunautaires et à l'exportation, réalisé au cours
 de la période du 1er janvier 1994, ou de la date de leur début d'activité si
-elle est postérieure, au 31 décembre 1996, n'excède pas 15 p. 100 du chiffre
+elle est postérieure, au 31 décembre 1996, n'excède pas 15 % du chiffre
 d'affaires total hors taxes réalisé pendant la même période ;
 
 c) quel que soit le secteur d'activité, aux bases d'imposition correspondant aux
 extensions réalisées à compter du 1er janvier 1997.
 
-Les conditions visées aux a) et b) du quatrième alinéa ne sont pas opposables
-aux établissements situés dans les zones franches urbaines des communes des
+Les conditions visées aux a et b du quatrième alinéa ne sont pas opposables aux
+établissements situés dans les zones franches urbaines des communes des
 départements d'outre-mer.
 
 L'exonération ne s'applique pas aux bases d'imposition afférentes au personnel
@@ -136,7 +130,7 @@ a) a donné lieu au versement de la prime d'aménagement du territoire ;
 
 b) ou a bénéficié, pour l'imposition des bases afférentes au personnel et aux
 biens transférés, de l'exonération prévue, selon le cas, à l'article 1465 A ou
-aux I bis ou I ter du présent article.
+aux I bis, I ter ou I quater du présent article.
 
 II. Pour bénéficier des exonérations prévues aux I, I bis, I ter et I quater,
 les contribuables déclarent, chaque année, dans les conditions prévues à
@@ -155,7 +149,7 @@ Pour l'application des I, I bis, I ter et I quater :
 
 a) Deux périodes d'exonération ne peuvent courir simultanément ;
 
-b) L'extension d'établissement s'entend de l'augmentation net te des bases par
+b) L'extension d'établissement s'entend de l'augmentation nette des bases par
 rapport à celles de l'année précédente multipliées par la variation des prix à
 la consommation hors tabac constatée par l'Institut national de la statistique
 et des études économiques pour l'année de référence définie à l'article 1467 A ;

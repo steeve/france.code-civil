@@ -11,7 +11,7 @@ La réduction d'impôt est égale à 25 % du montant des versements effectués
 conformément à la convention de divorce homologuée par le juge ou fixé par le
 jugement de divorce, en application de l'article 274 du code civil. Les sommes
 ouvrant droit à réduction d'impôt sont retenues dans la limite de 200 000 F sur
-la période mentionnée à l'alinéa précédent.
+la période mentionnée au premier alinéa.
 
 Lorsque les versements sont répartis sur l'année au cours de laquelle le
 jugement de divorce est passé en force de chose jugée et l'année suivante, le

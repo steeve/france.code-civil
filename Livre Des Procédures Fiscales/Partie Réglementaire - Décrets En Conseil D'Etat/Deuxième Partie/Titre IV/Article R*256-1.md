@@ -1,15 +1,12 @@
 Article R*256-1
 ----
-L'avis de mise en recouvrement individuel prévu à l'article L. 256 comporte :
+L'avis de mise en recouvrement prévu à l'article L. 256 indique pour chaque
+impôt ou taxe le montant global des droits, des pénalités et des intérêts de
+retard qui font l'objet de cet avis.
 
-1° Les indications nécessaires à la connaissance des droits, taxes, redevances,
-impositions ou autres sommes qui font l'objet de cet avis ;
-
-2° Les éléments du calcul et le montant des droits et des pénalités, indemnités
-ou intérêts de retard qui constituent la créance.
-
-Toutefois, les éléments du calcul peuvent être remplacés par le renvoi au
-document sur lequel ils figurent lorsque ce document a été établi ou signé par
-le contribuable ou son mandataire ou lui a été notifié antérieurement. De même,
-ils n'ont pas à être portés lorsque le contribuable n'a pas fait la déclaration
-nécessaire au calcul des droits.
+Lorsque l'avis de mise en recouvrement est consécutif à une procédure de
+redressement contradictoire, il fait référence soit à la notification prévue à
+l'article L. 57 et, le cas échéant, aux différentes pièces de procédure
+adressées par le service informant le contribuable d'une modification des
+rehaussements, soit au document adressé au contribuable qui comporte
+l'information prévue au premier alinéa de l'article L. 48.

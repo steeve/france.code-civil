@@ -18,7 +18,11 @@ III. Ainsi qu'il est dit à l'article L. 245-16 du code de la sécurité sociale
 
 1. Le taux des prélèvements sociaux mentionnés aux I et II est fixé à 2 %.
 
-2. Le produit des prélèvements mentionnés au 1 est versé pour la moitié de son
-montant à la Caisse nationale des allocations familiales et pour la moitié de
-son montant à la Caisse nationale d'assurance vieillesse des travailleurs
-salariés.
+2. Le produit des prélèvements mentionnés au 1 est ainsi réparti :
+
+20 % à la première section du Fonds de solidarité vieillesse, mentionnée à
+l'article L135-2 du code de la sécurité sociale ;
+
+50 % au fonds mentionné à l'article L135-6 du code précité ;
+
+30 % à la Caisse nationale d'assurance vieillesse des travailleurs salariés.

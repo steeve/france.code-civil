@@ -9,7 +9,7 @@ Ce crédit d'impôt est égal à 35 p. 100 :
 
 a) De la différence entre le montant des dépenses de formation mentionnées au
 livre IX du code du travail, exposées au cours de l'année, et celui des dépenses
-de même nature exposées au cours de l'année précédente, revalorisées en fonction
+de même nature exposées au cours de l'année précédente revalorisées en fonction
 de l'évolution des rémunérations, au sens du 1 de l'article 231, versées par
 l'entreprise ;
 
@@ -17,18 +17,18 @@ b) (Abrogé).
 
 c) Et du produit de la somme de 3 000 F par la différence entre le nombre
 d'élèves accueillis dans l'entreprise au cours de l'année et celui de l'année
-précédente en application de l'article 7 de la loi n° 89-486 du 10 juillet 1989
-d'orientation sur l'éducation ou en vue de la préparation du brevet de
-technicien supérieur prévu à l'article 35 du décret n° 59-57 du 6 janvier 1959
-portant réforme de l'enseignement public. Pour le décompte du nombre d'élèves,
-sont pris en compte les élèves des établissements d'enseignement public ou sous
-contrat d'association ayant conclu une convention avec une entreprise, qui sont
-accueillis pour une période de formation dans l'entreprise d'une durée au moins
-égale à huit semaines au cours de l'année considérée.
+précédente en application de l'article L. 331-4 du code de l'éducation ou en vue
+de la préparation du brevet de technicien supérieur prévu à l'article 35 du
+décret n° 59-57 du 6 janvier 1959 portant réforme de l'enseignement public. Pour
+le décompte du nombre d'élèves, sont pris en compte les élèves des
+établissements d'enseignement public ou sous contrat d'association ayant conclu
+une convention avec une entreprise, qui sont accueillis pour une période de
+formation dans l'entreprise d'une durée au moins égale à huit semaines au cours
+de l'année considérée.
 
 Le crédit d'impôt accordé aux entreprises nouvelles au titre de l'année de leur
 création ou aux entreprises qui exposent pour la première fois des dépenses de
-formation définies à l'alinéa précédent est égal à 25 p. 100 de ces dépenses
+formation définies à l'alinéa précédent est égal à 35 p. 100 de ces dépenses
 exposées au cours de l'année en cause.
 
 II. Le crédit d'impôt est plafonné pour chaque entreprise, y compris les
@@ -38,8 +38,8 @@ sociétés de personnes mentionnées aux articles 8, 238 bis L, 238 ter et 239 t
 et aux droits des membres de groupements mentionnés aux articles 239 quater, 239
 quater A, 239 quater B, 239 quater C et 239 quinquies.
 
-Ce plafond est majoré, dans la limite globale de 5 millions de francs, de la
-part du crédit d'impôt qui provient de l'augmentation des dépenses suivantes :
+Ce plafond est majoré, dans la limite globale de 5 millions de francs de la part
+du crédit d'impôt qui provient de l'augmentation des dépenses suivantes :
 
 a. Les dépenses exposées au profit des salariés occupant les emplois les moins
 qualifiés. Ces emplois sont ceux qui ne nécessitent pas un brevet d'études

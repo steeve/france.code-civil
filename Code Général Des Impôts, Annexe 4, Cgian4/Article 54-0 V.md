@@ -1,11 +1,12 @@
 Article 54-0 V
 ----
-Les capsules ou les feuilles métalliques, revêtues du timbre, sont fournies aux
-intéressés dans les conditions prévues à l'article 54-0 AB.
+Les capsules ou les feuilles métalliques ou en autres matières, revêtues de
+marques fiscales, sont fournies aux intéressés dans les conditions prévues à
+l'article 54-0 AB.
 
 Les entrepositaires agréés peuvent toutefois être autorisés à apposer eux-mêmes,
-sur les capsules qu'ils utilisent, le timbre et les mentions visées aux articles
-54-0 C et 54-0 D. Il est procédé à cette apposition par insculpation ou
-impression à l'aide de machines agréées par l'administration et munies de
-compteurs plombés enregistrant, par tarif d'imposition, le volume des boissons
-mises en bouteilles revêtues de capsules.
+sur les capsules qu'ils utilisent, la marque fiscale et les autres mentions
+visées au 2° du II de l'article 164 AM. Il est procédé à cette apposition par
+impression à l'aide de machines agréées par l'administration enregistrant, par
+tarif d'imposition, le volume et, le cas échéant, le titre alcoométrique
+volumique des boissons mises en bouteilles ou en récipients revêtus de capsules.

@@ -31,7 +31,10 @@ d'accéder à de nouvelles activités professionnelles ;
 connaissances. Elles ont pour objet d'offrir aux travailleurs, dans le cadre de
 l'éducation permanente, les moyens d'accéder à la culture, de maintenir ou de
 parfaire leur qualification et leur niveau culturel ainsi que d'assumer des
-responsabilités accrues dans la vie associative.
+responsabilités accrues dans la vie associative ;
+
+7. Les actions de formation continue relative à la radioprotection des personnes
+prévues à l'article L. 1333-11 du code de la santé publique.
 
 Entrent également dans le champ d'application des dispositions relatives à la
 formation professionnelle continue les actions permettant de réaliser un bilan

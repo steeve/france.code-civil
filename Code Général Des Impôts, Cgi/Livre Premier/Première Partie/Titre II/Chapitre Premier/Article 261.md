@@ -4,9 +4,7 @@ Sont exonérés de la taxe sur la valeur ajoutée :
 
 1. (Affaires ou opérations soumises à un autre impôt) :
 
-1° et 2° (Abrogés) ;
-
-3° (Abrogé).
+1° à 3° (Abrogés) ;
 
 4° Les opérations à terme sur marchandises réalisées sur un marché réglementé à
 l'exclusion de celles qui déterminent l'arrêt de la filière ;
@@ -32,13 +30,20 @@ frais par un procédé frigorifique) ;
 
 3. (Biens usagés. Déchets neufs d'industrie et matières de récupération) :
 
-1° a. Sous réserve, le cas échéant, des dispositions de l'article 257 13° et
-15°, les ventes de biens usagés faites par les personnes qui les ont utilisés
+1° a. Sous réserve, le cas échéant, des dispositions des 13° et 15° de l'article
+257, les ventes de biens usagés faites par les personnes qui les ont utilisés
 pour les besoins de leurs exploitations.
 
 Toutefois, l'exonération ne s'applique pas aux biens qui ont ouvert droit à
 déduction complète ou partielle de la taxe sur la valeur ajoutée lors de leur
 achat, acquisition intracommunautaire, importation ou livraison à soi-même.
+
+Les dispositions du deuxième alinéa ne s'appliquent ni aux biens cédés à des
+personnes qui ont souscrit un contrat de crédit-bail ou de location avec option
+d'achat avant le 8 septembre 1989, ni aux véhicules destinés à la location
+simple, inscrits à l'actif des entreprises de location avant le 8 septembre
+1989, si ces véhicules sont cédés à des personnes autres que des négociants en
+biens d'occasion (Loi n° 89-935 du 29 décembre 1989, art. 31-1-2 et 3) ;
 
 b. (Disposition périmée) ;
 
@@ -49,7 +54,7 @@ a. Par les entreprises qui ne disposent pas d'installation permanente ;
 
 b. Par les entreprises qui, disposant d'une installation permanente, ont réalisé
 au cours de l'année précédente un montant de chiffre d'affaires portant sur ces
-produits inférieur à 6.000.000 F ;
+produits inférieur à 6 000 000 F ;
 
 4. (Professions libérales et activités diverses) :
 
@@ -58,61 +63,60 @@ et paramédicales réglementées, et par les psychologues, psychanalystes et
 psychothérapeutes titulaires d'un des diplômes requis, à la date de sa
 délivrance, pour être recruté comme psychologue dans la fonction publique
 hospitalière ainsi que les travaux d'analyse de biologie médicale et les
-fournitures de prothèses dentaires par les dentistes et les prothésistes,
+fournitures de prothèses dentaires par les dentistes et les prothésistes ;
 
 1° bis les frais d'hospitalisation et de traitement, y compris les frais de mise
 à disposition d'une chambre individuelle, dans les établissements de santé
-privés titulaires de l'autorisation mentionnée à l'article L. 712-8 du code de
+privés titulaires de l'autorisation mentionnée à l'article L. 6122-1 du code de
 la santé publique ;
 
 1° ter Les soins dispensés par les établissements privés d'hébergement pour
-personnes âgées mentionnés au 5° de l'article 3 de la loi n° 75-535 du 30 juin
-1975 relative aux institutions sociales et médico-sociales, pris en charge par
-un forfait annuel global de soins en application de l'article L. 174-7 du code
-de la sécurité sociale ;
+personnes âgées mentionnés au 5° de l'article L. 312-1 du code de l'action
+sociale et des familles, pris en charge par un forfait annuel global de soins en
+application de l'article L. 174-7 du code de la sécurité sociale ;
 
 2° Les livraisons, commissions, courtages et façons portant sur les organes, le
 sang et le lait humains ;
 
 3° Le transport de malades ou de blessés à l'aide de véhicules spécialement
-aménagés à cet effet effectué par des personnes visées à l'article L. 51-2 du
+aménagés à cet effet effectué par des personnes visées à l'article L. 6312-2 du
 code de la santé publique ;
 
 4° a. Les prestations de services et les livraisons de biens qui leur sont
 étroitement liées, effectuées dans le cadre :
 
-De l'enseignement primaire, secondaire et supérieur dispensé dans les
-établissements publics et les établissements privés régis par les lois des 15
-mars 1850, 12 juillet 1875 et 30 octobre 1886 ;
+de l'enseignement primaire, secondaire et supérieur dispensé dans les
+établissements publics et les établissements privés régis par les articles L.
+151-3, L. 212-2, L. 441-1 à L. 441-9, L. 442-3, L. 424-1 à L. 424-4 et L. 731-1
+à L. 731-16 du code de l'éducation ;
 
-De l'enseignement universitaire dispensé dans les établissements publics et dans
-les établissements privés visés à l'article 5 de la loi n° 68-978 du 12 novembre
-1968 d'orientation de l'enseignement supérieur ;
+de l'enseignement universitaire dispensé dans les établissements publics et dans
+les établissements privés visés aux articles L. 613-7, L. 714-2, L. 719-10 et L.
+719-11 du code de l'éducation ;
 
-De l'enseignement technique ou professionnel réglementé par la loi du 25 juillet
-1919 et le décret du 14 septembre 1956 ;
+de l'enseignement technique ou professionnel réglementé par les articles L.
+441-10 à L. 441-13, L. 443-1 à L. 443-4 et L. 424-1 à L. 424-4 du code de
+l'éducation et le décret du 14 septembre 1956 ;
 
-De l'enseignement et de la formation professionnelle agricoles réglementés par
+de l'enseignement et de la formation professionnelle agricoles réglementés par
 la loi n° 60-791 du 2 août 1960 relative à l'enseignement et la formation
 professionnelle agricole ;
 
-De la formation professionnelle continue, telle qu'elle est définie par les
+de la formation professionnelle continue, telle qu'elle est définie par les
 dispositions législatives et réglementaires qui la régissent, assurée soit par
 des personnes morales de droit public, soit par des personnes de droit privé
 titulaires d'une attestation délivrée par l'autorité administrative compétente
 reconnaissant qu'elles remplissent les conditions fixées pour exercer leur
-activité dans le cadre de la formation professionnelle continue ;
+activité dans le cadre de la formation professionnelle continue.
 
 Un décret en Conseil d'Etat fixe les conditions d'application de cette
 disposition, notamment pour ce qui concerne les conditions de délivrance et de
-validité de l'attestation.
+validité de l'attestation ;
 
 De l'enseignement primaire, secondaire, supérieur ou technique à distance,
-dispensé par les organismes publics ou les organismes privés régis par la loi n°
-71-556 du 12 juillet 1971 relative à la création et au fonctionnement des
-organismes privés dispensant un enseignement à distance ainsi qu'à la publicité
-et au démarchage faits par les établissements d'enseignement, et les textes
-subséquents ;
+dispensé par les organismes publics ou les organismes privés régis par les
+articles L. 444-1 à L. 444-11 du code de l'éducation, et les textes subséquents
+;
 
 b. les cours ou leçons relevant de l'enseignement scolaire, universitaire,
 professionnel, artistique ou sportif, dispensés par des personnes physiques qui
@@ -155,12 +159,12 @@ c. (Devenu sans objet) ;
 
 d. Les opérations immobilières résultant de l'application des dispositions des
 articles L141-1 à L141-5 du code rural, réalisées par les sociétés d'aménagement
-foncier et d'établissement rural [*SAFER*] constituées en application de
-l'article L141-1 du même code et agréées par le ministre de l'agriculture et le
-ministre du budget ;
+foncier et d'établissement rural constituées en application de l'article L141-1
+du même code et agréées par le ministre de l'agriculture et le ministre du
+budget.
 
 Ces dispositions ne s'appliquent pas aux cessions d'immeubles acquis
-postérieurement à la date de publication de la loi n° 90-85 du 23 janvier 1990.
+postérieurement à la date de publication de la loi n° 90-85 du 23 janvier 1990 ;
 
 d bis. Toutes les cessions effectuées par les sociétés d'aménagement foncier et
 d'établissement rural au titre de l'article L. 141-1 du code rural, dont la
@@ -254,7 +258,7 @@ compte pour le calcul de la limite de 250 000 F.
 
 Lorsque la limite de 250 000 F est atteinte en cours d'année, l'organisme ne
 peut plus bénéficier de l'exonération prévue au deuxième alinéa à compter du
-premier jour du mois suivant celui au cours duquel cette limite a été dépassée.
+premier jour du mois suivant celui au cours duquel cette limite a été dépassée ;
 
 c. Les recettes de six manifestations de bienfaisance ou de soutien organisées
 dans l'année à leur profit exclusif par les organismes désignés au a et b ainsi

@@ -7,14 +7,14 @@ aux 1 et 3 de l'article 6, aux professions qu'ils exercent, aux traitements,
 salaires, pensions et rentes viagères dont ils jouissent ainsi qu'aux bénéfices
 de toutes opérations lucratives auxquelles ils se livrent, sous déduction :
 
-I. Du déficit constaté pour une année dans une catégorie de revenus ; si le
+I. du déficit constaté pour une année dans une catégorie de revenus ; si le
 revenu global n'est pas suffisant pour que l'imputation puisse être
 intégralement opérée, l'excédent du déficit est reporté successivement sur le
 revenu global des années suivantes jusqu'à la cinquième année inclusivement.
 
 Toutefois, n'est pas autorisée l'imputation :
 
-1° Des déficits provenant d'exploitations agricoles lorsque le total des revenus
+1° des déficits provenant d'exploitations agricoles lorsque le total des revenus
 nets d'autres sources excède 350 000 F ; ces déficits peuvent cependant être
 admis en déduction des bénéfices de même nature des années suivantes jusqu'à la
 cinquième inclusivement.
@@ -35,13 +35,13 @@ directement ou indirectement des locaux d'habitation meublés ou destinés à ê
 meublés.
 
 Toutefois, lorsque l'un des membres du foyer fiscal fait l'objet d'une procédure
-de liquidation judiciaire prévue par la loi n° 85-98 modifié du 25 janvier 1985
-relative au redressement et à la liquidation judiciaires des entreprises à
-raison de l'activité génératrice des déficits mentionnés au premier alinéa, les
-dispositions du premier alinéa du I sont applicables au montant de ces déficits
-restant à reporter à la date d'ouverture de la procédure, à la condition que les
-éléments d'actif affectés à cette activité cessent définitivement d'appartenir,
-directement ou indirectement, à l'un des membres du foyer fiscal.
+de liquidation judiciaire prévue par le titre II du livre VI du code de commerce
+à raison de l'activité génératrice des déficits mentionnés au premier alinéa,
+les dispositions du premier alinéa du I sont applicables au montant de ces
+déficits restant à reporter à la date d'ouverture de la procédure, à la
+condition que les éléments d'actif affectés à cette activité cessent
+définitivement d'appartenir, directement ou indirectement, à l'un des membres du
+foyer fiscal.
 
 Les dispositions du premier alinéa s'appliquent pour la détermination du revenu
 imposable au titre des années 1996 et suivantes aux déficits réalisés par les
@@ -86,7 +86,7 @@ semblables durant la même année ou les cinq années suivantes ;
 3° Des déficits fonciers, lesquels s'imputent exclusivement sur les revenus
 fonciers des dix années suivantes ; cette disposition n'est pas applicable aux
 propriétaires de monuments classés monuments historiques, inscrits à
-l'inventaire supplémentaire ou ayant fait l'objet d'un agrément ministériel ni
+l'inventaire supplémentaire ou ayant fait l'objet d'un agrément ministériel, ni
 aux nus-propriétaires pour le déficit foncier qui résulte des travaux qu'ils
 payent en application des dispositions de l'article 605 du code civil, lorsque
 le démembrement de propriété d'un immeuble bâti résulte de succession ou de
@@ -185,9 +185,9 @@ undecies A et imputer un déficit foncier sur le revenu global.
 4° (abrogé).
 
 5° Des pertes résultant d'opérations mentionnées aux articles 150 ter, 150
-octies, 150 nonies et 150 decies lorsque l'option prévue au 8° du I de l'article
-35 n'a pas été exercée ; ces pertes sont imputables exclusivement sur les
-profits de même nature réalisés au cours de la même année ou des cinq années
+octies, 150 nonies et 150 decies, lorsque l'option prévue au 8° du I de
+l'article 35 n'a pas été exercée ; ces pertes sont imputables exclusivement sur
+les profits de même nature réalisés au cours de la même année ou des cinq années
 suivantes ;
 
 6° Des pertes résultant d'opérations réalisées à l'étranger sur un marché à
@@ -197,15 +197,15 @@ réalisés dans les mêmes conditions au cours de la même année ou des cinq an
 suivantes.
 
 Ces dispositions s'appliquent aux pertes résultant d'opérations à terme sur
-marchandises réalisées à l'étranger.
+marchandises réalisées à l'étranger ;
 
-7° (abrogé)
+7° (abrogé) ;
 
 I bis. Du déficit correspondant aux frais exposés par un inventeur pour prendre
 un brevet ou en assurer la maintenance lorsqu'il ne perçoit pas de produits
 imposables ou perçoit des produits inférieurs à ces frais. Ce déficit est
 déductible du revenu global de l'année de prise du brevet et des neuf années
-suivantes.
+suivantes ;
 
 II. Des charges ci-après lorsqu'elles n'entrent pas en compte pour l'évaluation
 des revenus des différentes catégories :
@@ -222,7 +222,7 @@ ayant accédé à l'indépendance ;
 1° ter. Dans les conditions fixées par décret, les charges foncières afférentes
 aux immeubles classés monuments historiques ou inscrits à l'inventaire
 supplémentaire, ainsi qu'aux immeubles faisant partie du patrimoine national en
-raison de leur caractère historique ou artistique particulier ou en raison du
+raison de leur caractère historique ou artistique particulier, ou en raison du
 label délivré par la "Fondation du patrimoine" en application de l'article 2 de
 la loi n° 96-590 du 2 juillet 1996 relative à la "Fondation du patrimoine" si ce
 label a été accordé sur avis favorable du service départemental de
@@ -245,12 +245,12 @@ divorce, ou en cas d'instance en séparation de corps ou de divorce lorsque le
 conjoint fait l'objet d'une imposition séparée ; contribution aux charges du
 mariage définie à l'article 214 du code civil, lorsque son versement résulte
 d'une décision de justice et à condition que les époux fassent l'objet d'une
-imposition séparée ; dans la limite de 18.000 F et, dans les conditions fixées
+imposition séparée ; dans la limite de 18 000 F et, dans les conditions fixées
 par un décret en Conseil d'Etat, les versements destinés à constituer le capital
 de la rente prévue à l'article 294 du code civil.
 
 Le contribuable ne peut opérer de déduction pour ses descendants mineurs, sauf
-pour ses enfants dont il n'a pas la garde ;
+pour ses enfants dont il n'a pas la garde.
 
 La déduction est limitée, par enfant majeur, au montant fixé pour l'abattement
 prévu par l'article 196 B. Lorsque l'enfant est marié, cette limite est doublée
@@ -298,11 +298,12 @@ d. (sans objet).
 10° Les cotisations mentionnées à l'article L. 612-2 du code de la sécurité
 sociale. En ce qui concerne les cotisations instituées par application de
 l'article L. 612-13 du même code, un décret fixe, le cas échéant, dans quelle
-proportion elles sont admises en déduction;
+proportion elles sont admises en déduction ;
 
 11° Les primes ou cotisations des contrats d'assurances conclus en application
-des articles 1234-1 à 1234-18 du code rural relatifs à l'assurance obligatoire
-des personnes non salariées contre les accidents de la vie privée, les accidents
-du travail et les maladies professionnelles dans l'agriculture.
+des articles L. 752-1 à L. 752-21 du code rural relatifs à l'assurance
+obligatoire contre les accidents de la vie privée, les accidents du travail et
+les maladies professionnelles des personnes non salariées des professions
+agricoles.
 
 12° (sans objet).

@@ -1,7 +1,6 @@
 Article 164 Q
 ----
-La demande d'agrément est adressée à l'administration des impôts ou à
-l'administration des douanes et droits indirects, pour ce qui la concerne.
+La demande d'agrément est adressée à l'administration des impôts.
 
 Elle doit spécifier l'usage auquel l'appareil est destiné et être accompagnée
 d'une notice sur ses caractéristiques techniques.

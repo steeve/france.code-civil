@@ -14,11 +14,10 @@ paiement des produits de la participation.
 
 Si, à la date mentionnée au premier alinéa, la participation dans le capital de
 la société émettrice est réduite à moins de 5 p. 100 du fait de l'exercice
-d'options de souscription d'actions dans les conditions prévues à l'article 208
-7 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales, le
-régime des sociétés mères lui reste applicable si ce pourcentage est à nouveau
-atteint à la suite de la première augmentation de capital suivant cette date et
-au plus tard dans un délai de trois ans.
+d'options de souscription d'actions dans les conditions prévues à l'article L.
+225-183 du code de commerce, le régime des sociétés mères lui reste applicable
+si ce pourcentage est à nouveau atteint à la suite de la première augmentation
+de capital suivant cette date et au plus tard dans un délai de trois ans.
 
 c. Les titres de participation doivent avoir été souscrits à l'émission. A
 défaut, la personne morale participante doit avoir pris l'engagement de les
@@ -58,11 +57,12 @@ défini au présent article par les parties à l'opération de pension.
 a. Aux produits des actions de sociétés d'investissement, des sociétés de
 développement régional ;
 
-b. b bis. (Abrogés).
+b., b bis. (Abrogés).
 
-b. ter Aux produits des titres auxquels ne sont pas attachés des droits de vote.
+b. ter Aux produits des titres auxquels ne sont pas attachés des droits de vote
+;
 
-c. (Périmé)
+c. (Périmé) ;
 
 d. Aux dividendes distribués aux actionnaires des sociétés immobilières pour le
 commerce et l'industrie visés au cinquième alinéa du 3° quater de l'article 208
@@ -73,7 +73,7 @@ e. Aux dividendes distribués aux actionnaires des sociétés agréées pour le
 financement des télécommunications visées à l'article 1er de la loi n° 69-1160
 du 24 décembre 1969 et des sociétés qui redistribuent les dividendes d'une
 société immobilière pour le commerce et l'industrie en application du quatrième
-alinéa de l'article 208 3° quinquies.
+alinéa du 3° quinquies de l'article 208 ;
 
 f. (abrogé)
 
@@ -81,10 +81,10 @@ g. Aux produits et plus-values nets distribués par les sociétés de
 capital-risque exonérés en application du 3° septies de l'article 208.
 
 7. Le régime fiscal des sociétés mères ne peut s'appliquer aux produits des
-actions des sociétés immobilières d'investissement régies par l'article 33-I de
-la loi n° 63-254 du 15 mars 1963 et des sociétés immobilières de gestion régies
-par l'article 1er du décret n° 63-683 du 13 juillet 1963 que dans les cas et
-pendant les périodes ci-après :
+actions des sociétés immobilières d'investissement régies par le I de l'article
+33 de la loi n° 63-254 du 15 mars 1963 et des sociétés immobilières de gestion
+régies par l'article 1er du décret n° 63-683 du 13 juillet 1963 que dans les cas
+et pendant les périodes ci-après :
 
 1° Pendant vingt-cinq ans à compter de leur émission, pour les action souscrites
 en espèces et entièrement libérées par les sociétés participantes avant le 1er
@@ -98,7 +98,7 @@ libérées par les sociétés participantes avant la promulgation de la loi n°
 admises à bénéficier des dispositions de l'ordonnance n° 58-876 du 24 septembre
 1958.
 
-En ce qui concerne les actions visées aux 1°, aucun pourcentage minimal de
+En ce qui concerne les actions visées au 1°, aucun pourcentage minimal de
 participation n'est exigé pour l'application du régime défini au présent
 article.
 

@@ -1,35 +1,23 @@
 Article 159 septies
 ----
-Les montants de la taxe instituée par les articles 339 à 341 de l'annexe II au
-code général des impôts sont fixés comme suit :
+A compter du 1er janvier 2001, les montants de la taxe instituée par les
+articles 339 à 341 de l'annexe II au code général des impôts sont fixés ainsi
+qu'il suit :
 
-Désignation : Véhicules automobiles de transport de marchandises dont le PATC
-(1) est inférieur ou égal à 3,5 tonnes :
+1° Véhicules automobiles de transport de marchandises dont le poids total
+autorisé en charge est inférieur ou égal à 3,5 tonnes :
 
-Prix à compter du 1er mars 1999 : 173 F
+182 F ;
 
-Prix à compter du 1er janvier 2000 : 178 F
+2° Véhicules automobiles de transport de marchandises dont le poids total
+autorisé en charge est supérieur à 3,5 tonnes et inférieur à 6 tonnes : 746 F ;
 
-Désignation : Véhicules automobiles de transport de marchandises dont le PATC
-est supérieur à 3,5 tonnes et inférieur à 6 tonnes.
+3° Véhicules automobiles de transport de marchandises dont le poids total
+autorisé en charge est égal ou supérieur à 6 tonnes et inférieur à 11 tonnes : 1
+116 F ;
 
-Prix à compter du 1er mars 1999 : 710 F
+4° Véhicules automobiles de transport de marchandises dont le poids total
+autorisé en charge est égal ou supérieur à 11 tonnes, tracteurs routiers et
+véhicules de transport en commun de personnes :
 
-Prix à compter du 1er janvier 2000 : 731 F
-
-Désignation : Véhicules automobiles de transport de marchandises dont le PATC
-est égal ou supérieur à 6 tonnes et inférieur à 11 tonnes.
-
-Prix à compter du 1er mars 1999 : 1 066 F
-
-Prix à compter du 1er janvier 2000 : 1 094 F
-
-Désignation : Véhicules automobiles de transport de marchandises dont le PATC
-est égal ou supérieur à 11 tonnes, tracteurs routiers, véhicules de transport en
-commun de voyageurs.
-
-Prix à compter du 1er mars 1999 : 1 601 F
-
-Prix à compter du 1er janvier 2000 : 1 642 F
-
-(1) Poids total autorisé en charge.
+1 675 F.

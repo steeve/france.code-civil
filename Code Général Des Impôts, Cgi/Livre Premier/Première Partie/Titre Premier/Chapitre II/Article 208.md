@@ -14,9 +14,9 @@ bénéficier des dispositions du présent alinéa trois ans après leur créatio
 leurs actions ne sont pas admises aux négociations sur un marché réglementé
 avant ce délai ;
 
-1° bis A - Les sociétés d'investissement à capital variable [*SICAV*] régies par
-la loi n° 88-1201 du 23 décembre 1988 modifiée pour les bénéfices réalisés dans
-le cadre de leur objet légal ;
+1° bis A - Les sociétés d'investissement à capital variable régies par les
+articles L. 214-2 et suivants du code monétaire et financier pour les bénéfices
+réalisés dans le cadre de leur objet légal ;
 
 1° ter - Les sociétés de développement régional constituées et fonctionnant
 conformément aux dispositions du décret n° 55-876 du 30 juin 1955 et des textes
@@ -36,11 +36,11 @@ portefeuille ;
 
 3° et 3° bis (Abrogés) ;
 
-3° ter Les sociétés immobilières de gestion visées à l'article 1er du décret n°
-63-683 du 13 juillet 1963, pour la fraction de leur bénéfice net qui provient de
-la location de leurs immeubles ;
+3° ter - Les sociétés immobilières de gestion visées à l'article 1er du décret
+n° 63-683 du 13 juillet 1963, pour la fraction de leur bénéfice net qui provient
+de la location de leurs immeubles ;
 
-3° quater Les sociétés qui, à la date du 1er janvier 1991 étaient autorisées à
+3° quater - Les sociétés qui, à la date du 1er janvier 1991 étaient autorisées à
 porter la dénomination de société immobilière pour le commerce et l'industrie
 visée à l'article 5 de l'ordonnance n° 67-837 du 28 septembre 1967 relative aux
 opérations de crédit-bail et aux sociétés immobilières pour le commerce et
@@ -87,19 +87,19 @@ Les sommes qui sont investies, soit directement, soit par l'intermédiaire de
 filiales, dans des immobilisations à l'étranger sont soumises à l'impôt sur les
 sociétés en proportion des bénéfices et réserves exonérés par rapport au montant
 total des bénéfices, des réserves et du capital. Toutefois, elles sont exonérées
-lorsqu'elles proviennent de fonds d'emprunt.
+lorsqu'elles proviennent de fonds d'emprunt ;
 
-3° quinquies Les sociétés agréées pour le financement des télécommunications qui
-ont pour objet exclusif l'activité mentionnée au I de l'article 1er de la loi n°
-69-1160 du 24 décembre 1969, pour la partie des bénéfices provenant des contrats
-de crédit-bail conclus avec l'exploitant public avant le 1er janvier 1993 et
-pour les plus-values qu'elles réalisent à l'occasion des ces opérations, ainsi
-que pour la partie des bénéfices et des plus-values qu'elles réalisent en tant
-que société immobilière pour le commerce et l'industrie.
+3° quinquies - Les sociétés agréées pour le financement des télécommunications
+qui ont pour objet exclusif l'activité mentionnée au I de l'article 1er de la
+loi n° 69-1160 du 24 décembre 1969 pour la partie des bénéfices provenant des
+contrats de crédit-bail conclus avec l'exploitant public avant le 1er janvier
+1993 et pour les plus-values qu'elles réalisent à l'occasion des ces opérations
+ainsi que pour la partie des bénéfices et des plus-values qu'elles réalisent en
+tant que société immobilière pour le commerce et l'industrie.
 
 Les sociétés agréées pour le financement des télécommunications qui n'ont pas
 pour objet exclusif l'activité mentionnée au I de l'article 1er de la loi n°
-69-1160 du 24 décembre 1969, pour la partie des bénéfices provenant des contrats
+69-1160 du 24 décembre 1969 pour la partie des bénéfices provenant des contrats
 de crédit-bail conclus avec l'exploitant public avant le 1er janvier 1993, si
 elles apportent à une société immobilière pour le commerce et l'industrie la
 branche d'activité exercée au titre du e du I de l'article 1er de la loi n°
@@ -121,15 +121,23 @@ cet impôt à concurrence de :
 L'exonération totale ou partielle est subordonnée à la condition que les
 dividendes non soumis à l'impôt sur les sociétés provenant de la société
 immobilière pour le commerce et l'industrie soient redistribués par la société
-apporteuse avant la fin de l'exercice qui suit celui de leur encaissement.
+apporteuse avant la fin de l'exercice qui suit celui de leur encaissement ;
 
-3° sexies (supprimé)
+3° sexies (abrogé)
 
-3° septies Les sociétés de capital-risque qui fonctionnent dans les conditions
-prévues à l'article 1er de la loi n° 85-695 du 11 juillet 1985 modifiée sur les
+3° septies - Les sociétés de capital-risque qui fonctionnent dans les conditions
+prévues à l'article 1er de la loi n° 85-695 du 11 juillet 1985 modifiée, sur les
 produits et plus-values nets provenant de leur portefeuille ;
 
-3° octies Les fonds communs de créances pour les bénéfices réalisés dans le
+Les sociétés de capital-risque qui fonctionnent dans les conditions prévues à
+l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985 précitée, sur les
+produits et plus-values nets provenant de leur portefeuille autres que ceux
+afférents aux titres rémunérant l'apport de leurs activités qui ne relèvent pas
+de leur objet social ainsi que, pour les sociétés de capital-risque mentionnées
+à la deuxième phrase du 1° de l'article 1er-1 précité, sur les prestations de
+services accessoires qu'elles réalisent ;
+
+3° octies - Les fonds communs de créances pour les bénéfices réalisés dans le
 cadre de leur objet légal ;
 
 4° Les associations de mutilés de guerre et d'anciens combattants reconnues
@@ -145,7 +153,7 @@ rural, lorsque leur activité, considérée dans son ensemble, s'exerce dans des
 conditions telles qu'elle peut être tenue pour désintéressée.
 
 Toutefois, ces organismes demeurent éventuellement soumis à l'impôt dans les
-conditions prévues à l'article 206 5 ;
+conditions prévues au 5 de l'article 206 ;
 
 6° Les établissements publics pour leurs opérations de lotissement et de vente
 de terrains leur appartenant.

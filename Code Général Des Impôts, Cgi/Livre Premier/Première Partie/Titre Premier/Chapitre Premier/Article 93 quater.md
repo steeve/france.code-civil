@@ -8,8 +8,6 @@ définis à l'article 39 terdecies quelle que soit la qualité de leur bénéfic
 ainsi qu'aux produits des cessions de droits portant sur des logiciels originaux
 par leur auteur, personne physique.
 
-(Supprimé) ;
-
 I bis. Lorsqu'un inventeur, personne physique, concède une licence exclusive
 d'exploitation de brevets qu'il a déposés à une entreprise créée à cet effet à
 compter du 1er janvier 1984, les dispositions du 1 bis de l'article 39 terdecies
@@ -28,9 +26,9 @@ jusqu'à la date de la cession ou du rachat des droits sociaux reçus en
 rémunération de l'apport, si cette cession ou ce rachat intervient avant
 l'expiration de ce délai de report.
 
-Les dispositions du dernier alinéa (4) du II de l'article 151 octies sont
+Les dispositions du quatrième alinéa du II de l'article 151 octies sont
 applicables aux plus-values dont l'imposition est reportée en application du
-premier alinéa (1).
+premier alinéa.
 
 II. L'imposition de la plus-value constatée lors de l'apport par un associé de
 la clientèle ou des éléments d'actif affectés à l'exercice de sa profession, à
@@ -45,7 +43,7 @@ Toutefois, le report d'imposition prévu au premier alinéa est maintenu en cas
 d'opérations soumises aux dispositions du I de l'article 151 octies A ou de
 transformation de la société civile professionnelle en société d'exercice
 libéral jusqu'à la date de transmission, de rachat ou d'annulation des parts ou
-actions de l'associé. Les dispositions du dernier alinéa (4) du II de l'article
+actions de l'associé. Les dispositions du quatrième alinéa du II de l'article
 151 octies sont applicables à l'associé à compter de la réalisation des
 opérations soumises aux dispositions du I de l'article 151 octies A ou de la
 transformation de la société civile professionnelle en société d'exercice
@@ -56,10 +54,10 @@ constatées à l'occasion d'apports en sociétés visés aux I et II de l'articl
 octies.
 
 III. Pour l'application des dispositions du premier alinéa du I, les contrats de
-crédit-bail conclus dans les conditions prévues aux 1° et 2° de l'article 1er de
-la loi n° 66-455 du 2 juillet 1966 relative aux entreprises pratiquant le
-crédit-bail sont considérés comme des immobilisations lorsque les loyers versés
-ont été déduits pour la détermination du bénéfice non commercial.
+crédit-bail conclus dans les conditions prévues aux 1 et 2 de l'article L. 313-7
+du code monétaire et financier sont considérés comme des immobilisations lorsque
+les loyers versés ont été déduits pour la détermination du bénéfice non
+commercial.
 
 IV. 1. Pour l'application des dispositions du premier alinéa du I aux immeubles
 acquis dans les conditions prévues au 6 de l'article 93 et précédemment donnés
@@ -87,17 +85,5 @@ d'une scission de sociétés bénéficiant du régime prévu à l'article 210 B,
 lorsque ces droits sont affectés à l'exercice de la profession au sens de
 l'article 93.
 
-Les personnes placées sous le régime prévu à l'alinéa précédent sont soumises
-aux obligations définies à l'article 54 septies.(4)
-
-(1) La disposition s'applique aux apports réalisés à compter du 1er janvier
-1997.
-
-(2) Ces dispositions s'appliquent aux apports et aux transformations réalisés à
-compter du 1er janvier 1994.
-
-(3) Ces dispositions s'appliquent aux opérations réalisées à compter du 1er
-janvier 1997.
-
-(4) Ces dispositions s'appliquent aux opérations réalisées à compter du 1er
-janvier 2000.
+Les personnes placées sous le régime prévu au premier alinéa sont soumises aux
+obligations définies à l'article 54 septies.
