@@ -13,10 +13,10 @@ le ministre d'Etat de la principauté de Monaco ;
 territoires d'outre-mer et dans la collectivité territoriale de Mayotte, la
 commission de contrôle des assurances peut, sur proposition du représentant de
 l'Etat dans la collectivité concernée, consentir des dérogations aux règles de
-l'article R. 332-3. Il peut de même, à titre exceptionnel, accorder aux
+l'article R. 332-3. Elle peut de même, à titre exceptionnel, accorder aux
 entreprises des dérogations à la réglementation de contrôle ;
 
-3° La limitation prévue au 5° de l'article R. 332-3 pour les actifs immobiliers
+3° La limitation prévue au 2° de l'article R. 332-3 pour les actifs immobiliers
 est ramenée à 10 % pour la représentation des provisions techniques afférentes
 aux opérations tontinières, sauf dérogation accordée par la commission de
 contrôle des assurances ; cette même limitation ne s'applique pas pour la
