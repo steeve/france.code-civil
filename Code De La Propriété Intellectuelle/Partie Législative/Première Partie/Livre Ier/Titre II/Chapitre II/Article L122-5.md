@@ -8,7 +8,9 @@ cercle de famille ;
 2° Les copies ou reproductions strictement réservées à l'usage privé du copiste
 et non destinées à une utilisation collective, à l'exception des copies des
 oeuvres d'art destinées à être utilisées pour des fins identiques à celles pour
-lesquelles l'oeuvre originale a été créée ;
+lesquelles l'oeuvre originale a été créée et des copies d'un logiciel autres que
+la copie de sauvegarde établie dans les conditions prévues au II de l'article L.
+122-6-1 ;
 
 3° Sous réserve que soient indiqués clairement le nom de l'auteur et la source :
 
@@ -22,4 +24,6 @@ c) La diffusion, même intégrale, par la voie de presse ou de télédiffusion, 
 titre d'information d'actualité, des discours destinés au public prononcés dans
 les assemblées politiques, administratives, judiciaires ou académiques, ainsi
 que dans les réunions publiques d'ordre politique et les cérémonies officielles
-; 4° La parodie, le pastiche et la caricature, compte tenu des lois du genre.
+;
+
+4° La parodie, le pastiche et la caricature, compte tenu des lois du genre.
