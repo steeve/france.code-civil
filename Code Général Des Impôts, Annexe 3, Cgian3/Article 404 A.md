@@ -1,9 +1,8 @@
 Article 404 A
 ----
-I. Les garanties fournies en contrepartie du fractionnement prévu a l'article
-396-1° peuvent outre les formes énumérées à l'article 400, revêtir celle de
-l'hypothèque légale prévue à l'article 1929-2 du code général des impôts.
-
+I. Les garanties fournies en contrepartie du fractionnement prévu au 1° de
+l'article 396 peuvent outre les formes énumérées à l'article 400, revêtir celle
+de l'hypothèque légale prévue au 2 de l'article 1929 du code général des impôts.
 Les droits sont acquittés en plusieurs versements égaux dont le premier a lieu
 dans les conditions fixées à l'article 402 et le dernier au plus tard cinq ans
 après l'expiration du délai imparti pour souscrire la déclaration de succession.
@@ -22,27 +21,23 @@ nombre des versements est doublé sans pouvoir toutefois dépasser vingt lorsque
 l'actif héréditaire comprend à concurrence de 50 % au moins des biens non
 liquides énumérés ci-après :
 
-Brevets d'invention;
+Brevets d'invention ;
 
-Clientèles;
+Clientèles ;
 
-Créances non exigibles au décès;
+Créances non exigibles au décès ;
 
-Droits d'auteur;
+Droits d'auteur; Fonds de commerce y compris le matériel et les marchandises qui
+en dépendent ;
 
-Fonds de commerce y compris le matériel et les marchandises qui en dépendent;
+Immeubles ;
 
-Immeubles;
+Matériels agricoles, bestiaux et récoltes ;
 
-Matériels agricoles bestiaux et récoltes;
+Offices ministériels ;
 
-Offices ministériels;
-
-Parts d'intér ts dans des sociétés dont le capital n'est pas divisé en actions;
+Parts d'intérêts dans des sociétés dont le capital n'est pas divisé en actions ;
 
 Valeurs mobilières non cotées en Bourse.
 
-II. La possibilité d'étaler sur une période maximale de dix ans le paiement ds
-droits de succession prévue pour les héritiers en ligne directe par le quatrième
-alinéa du I est étendue, sous les mêmes conditions, à tous les héritiers et
-légataires pour les biens mentionnés à l'article 396-6°.
+II. (Abrogé).

@@ -23,10 +23,4 @@ prêts consentis dans le cadre des dispositions de l'article 686 du code rural a
 profit d'agriculteurs dont la qualité de migrant a été reconnue par le ministre
 de l'agriculture.
 
-6° Des donations d'entreprises portant :
-
-- soit sur l'ensemble des biens meubles et immeubles, corporels ou incorporels
-affectés à l'exploitation d'une entreprise individuelle;
-
-- soit sur les parts sociales ou les actions d'une société non cotée en bourse à
-la condition que le bénéficiaire reçoive la majorité du capital social.
+6° (Abrogé)
