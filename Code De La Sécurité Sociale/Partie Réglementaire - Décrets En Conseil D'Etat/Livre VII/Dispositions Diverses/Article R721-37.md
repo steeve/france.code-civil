@@ -9,5 +9,5 @@ La mise en demeure donne le détail des sommes réclamées au titre des
 cotisations, des pénalités et des majorations de retard.
 
 Elle précise que la dette peut être contestée dans un délai de quinze jours par
-une réclamation adressée à la commission de recours gracieux et accompagnée de
-la mise en demeure. Elle indique l'adresse de ladite commission.
+une réclamation adressée à la commission de recours amiable et accompagnée de la
+mise en demeure. Elle indique l'adresse de ladite commission.

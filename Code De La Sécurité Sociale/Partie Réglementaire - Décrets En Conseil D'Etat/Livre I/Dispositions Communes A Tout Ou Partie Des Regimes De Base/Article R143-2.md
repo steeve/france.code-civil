@@ -9,19 +9,14 @@ La compétence de cette commission porte sur les contestations relatives :
 assurances sociales et du régime d'assurance maladie, maternité et invalidité
 des exploitants agricoles et des membres non-salariés de leur famille ;
 
-2°) à l'état d'incapacité de travail des salariés agricoles pour l'application
-du bénéfice du classement en capacité professionnelle réduite en matière
-d'assurances sociales ;
+2°) à l'état d'inaptitude au travail pour l'application du régime agricole des
+assurances sociales, pour l'application du chapitre IV du titre II du livre VII
+du code rural et pour l'application aux membres des professions agricoles des
+chapitres Ier et V du livre VIII du présent code et des articles L. 652 à L. 663
+de l'ancien code de la sécurité sociale ;
 
-3°) à l'état d'inaptitude au travail pour l'application du régime agricole des
-assurances sociales, pour l'application des articles 1122, 1122-1, 1123 et du
-deuxième alinéa de l'article 1124 du code rural et pour l'application aux
-membres des professions agricoles des chapitres 1er, 2 et 5 du livre VIII du
-présent code et des articles L. 652 à L. 663 de l'ancien code de la sécurité
-sociale ;
-
-4°) à l'état d'incapacité de travail pour l'application des articles 1073 et
-1074 du code rural.
+3°) à l'état d'incapacité de travail pour bénéficier de l'exonération partielle
+des cotisations d'allocations familiales.
 
 Le ministre chargé de l'agriculture peut, par arrêté, répartir les compétences
 ci-dessus définies entre, d'une part, des commissions régionales d'invalidité,
