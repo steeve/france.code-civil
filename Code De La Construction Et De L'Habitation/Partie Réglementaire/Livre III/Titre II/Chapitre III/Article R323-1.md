@@ -4,25 +4,29 @@ Peuvent bénéficier d'une subvention de l'Etat, lorsqu'ils exécutent des trava
 d'amélioration dans les logements à usage locatif dont ils sont propriétaires ou
 gestionnaires :
 
-" 1° Les organismes d'habitations à loyer modéré ;
+1° Les organismes d'habitations à loyer modéré ;
 
-" 2° Les établissements publics à caractère administratif sous tutelle des
+2° Les établissements publics à caractère administratif sous tutelle des
 collectivités locales et gestionnaires de logements ;
 
-" 3° Les communes ne disposant pas d'établissements publics administratifs
-placés sous leur tutelle et gestionnaires de logements ;
+3° Les communes ne disposant pas d'établissements publics administratifs placés
+sous leur tutelle et gestionnaires de logements ;
 
-" 4° Les houillères de bassin ;
+4° Les houillères de bassin ;
 
-" 5° Les sociétés d'économie mixte ayant dans leur objet statutaire la
-réalisation de logements ;
+5° Les sociétés d'économie mixte ayant dans leur objet statutaire la réalisation
+de logements ;
 
-" 6° Les sociétés immobilières à participation majoritaire de la Caisse des
-dépôts et consignations ;
+6° Les sociétés immobilières à participation majoritaire de la Caisse des dépôts
+et consignations ;
 
-" 7° La société immobilière du chemin de fer ;
+7° La société immobilière du chemin de fer ;
 
-" 8° Les sociétés minières et immobilières gérant le patrimoine immobilier des
+8° Les sociétés minières et immobilières gérant le patrimoine immobilier des
 mines de fer ;
 
-" 9° Les personnes morales propriétaires de cités familiales.
+9° Les personnes morales propriétaires de cités familiales.
+
+10° Les organismes dont l'un des objets est de contribuer au logement des
+personnes défavorisées et agréés à cette fin par le représentant de l'Etat dans
+le département.
