@@ -1,10 +1,17 @@
 Article R*226-6
 ----
-Le financement des dépenses nécessaires à l'exécution du service public de
-l'équarrissage est assuré par le fonds institué en vertu de l'article 302 bis ZD
-du code général des impôts. Ces dépenses comprennent, outre celles qui sont
-engagées pour l'exécution des marchés passés en application des articles R.
-226-7 et R. 226-8 les dépenses exposées en vue de la passation de ces marchés,
-notamment les dépenses afférentes à la publicité et à l'étude des offres, ainsi
-que les dépenses nécessaires à la réalisation des opérations d'analyse et de
-contrôle réalisées en vue de l'attestation du service fait.
+L'élimination, par la personne chargée de l'exécution du service public de
+l'équarrissage, des déchets mentionnés à l'article L. 226-1 donne lieu aux
+contreparties suivantes :
+
+I. - Les propriétaires ou détenteurs de cadavres de porcs, volailles, lapins,
+ratites et gibiers d'élevage non ruminants acquittent une redevance dont le
+montant, fixé par arrêté conjoint des ministres chargés de l'agriculture et du
+budget, ne peut être inférieur à 25 % du coût de transformation et d'élimination
+de ces cadavres.
+
+II. - Les entreprises de commerce de boucherie acquittent une redevance dont le
+montant est égal à la part du coût du service excédant un montant annuel fixé
+par arrêté conjoint des ministres chargés de l'agriculture et du budget.
+
+III. - Les ateliers de découpe supportent l'intégralité du coût du service.
