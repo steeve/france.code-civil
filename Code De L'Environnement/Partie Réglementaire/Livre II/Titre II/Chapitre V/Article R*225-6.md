@@ -12,4 +12,4 @@ réparties, le cas échéant, par sexe ou catégories d'âge, afin d'assurer
 l'équilibre agro-sylvocynégétique.
 
 Ces propositions doivent s'inscrire, le cas échéant, dans les limites
-déterminées par l'arrêté ministériel fixant le plan de chasse départemental.
+déterminées par l'arrêté préfectoral fixant le plan de chasse départemental.
