@@ -5,7 +5,7 @@ La carte sanitaire détermine :
 1° Les limites des régions et des secteurs sanitaires ainsi que celles des
 secteurs psychiatriques mentionnés par l'article L. 326 ;
 
-2° La nature et l'importance :
+2° La nature et, le cas échéant, l'importance :
 
 a) Des installations nécessaires pour répondre aux besoins de la population, y
 compris les équipements matériels lourds et les structures de soins alternatives
@@ -19,7 +19,8 @@ La nature et l'importance des installations et activités de soins mentionnées 
 2° sont déterminées pour chaque zone sanitaire. Les zones sanitaires
 constituées, selon le cas, par un ou plusieurs secteurs sanitaires ou
 psychiatriques, par une région, par un groupe de régions ou par l'ensemble du
-territoire sont définies par voie réglementaire.
+territoire sont définies par voie réglementaire en tenant compte des bassins de
+santé.
 
 La liste des activités de soins mentionnées au b du 2° ainsi que les conditions
 d'implantation et les modalités de fonctionnement des installations où elles

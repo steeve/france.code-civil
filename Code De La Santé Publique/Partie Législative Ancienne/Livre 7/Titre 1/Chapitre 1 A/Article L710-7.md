@@ -10,6 +10,8 @@ la détermination de leurs ressources et à l'évaluation de la qualité des soi
 Les destinataires des informations mentionnées à l'alinéa précédent mettent en
 oeuvre, sous le contrôle de l'Etat au plan national et des agences au plan
 régional, un système commun d'informations respectant l'anonymat des patients,
+ou, à défaut, ne comportant ni leur nom, ni leur prénom, ni leur numéro
+d'inscription au Répertoire national d'identification des personnes physiques
 dont les conditions d'élaboration et d'accessibilité aux tiers, notamment aux
 établissements de santé publics et privés, sont définies par voie réglementaire
 dans le respect des dispositions du présent titre.

@@ -32,13 +32,14 @@ médicales ou pharmaceutiques ;
 de l'article L. 715-11 ;
 
 8° La constitution d'un réseau de soins mentionné à l'article L. 712-3-2, d'une
-communauté d'établissements de santé mentionnée à l'article L. 712-3-3, les
-actions de coopération visées aux sections II, III et IV du chapitre III du
-présent titre en ce qu'elles concernent la création d'un syndicat
-interhospitalier, d'un groupement de coopération sanitaire, d'un groupement
-d'intérêt public, d'un groupement d'intérêt économique, l'affiliation ou
-l'adhésion à ces structures ou le retrait de l'une d'elles, et les conventions
-concernant les actions de coopération internationale ;
+communauté d'établissements de santé mentionné à l'article L. 712-3-3, les
+actions de coopération visées aux sections 2 à 5 du chapitre III du présent
+titre en ce qu'elles concernent la création d'un syndicat interhospitalier, d'un
+groupement de coopération sanitaire, d'un groupement d'intérêt public, d'un
+groupement d'intérêt économique, l'affiliation ou l'adhésion à ces structures ou
+le retrait de l'une d'elles, ou la constitution d'une fédération médicale
+interhospitalière et les conventions concernant les actions de coopération
+internationale ;
 
 9° Le bilan social et les modalités d'une politique d'intéressement ;
 
@@ -65,4 +66,7 @@ réglementaires ;
 
 17° Les hommages publics ;
 
-18° La création d'une structure prévue à l'article L. 714-36.
+18° La création d'une structure prévue à l'article L. 714-36 ;
+
+19° La création avec un ou plusieurs établissements publics de santé d'un
+établissement public de santé interhospitalier.

@@ -1,21 +1,25 @@
 Article L721-2
 ----
-La gestion du régime institué par le présent chapitre et notamment le service de
-la pension et le recouvrement des cotisations sont assurés par une caisse
-nationale dénommée "caisse mutuelle d'assurance vieillesse des cultes".
+Il est institué un organisme de sécurité sociale à compétence nationale qui
+prend la dénomination de "Caisse d'assurance vieillesse, invalidité et maladie
+des cultes". Cet organisme est constitué et fonctionne, sous réserve des
+dispositions du présent chapitre, conformément aux dispositions applicables aux
+organismes visés au chapitre Ier du titre Ier du livre II. Il est chargé
+d'assurer le recouvrement des cotisations et le versement des prestations
+d'assurance maladie et maternité, d'assurance vieillesse et d'assurance
+invalidité. Il gère les cinq sections suivantes :
 
-La caisse mutuelle est dotée de la personnalité civile et de l'autonomie
-financière. Elle est soumise au contrôle des autorités compétentes de l'Etat qui
-sont représentées auprès d'elle par des commissaires du Gouvernement.
+assurance maladie et maternité, assurance vieillesse, assurance invalidité,
+action sanitaire et sociale et gestion administrative.
+
+La caisse d'assurance vieillesse, invalidité et maladie des cultes est soumise
+au contrôle des ministres chargés de la sécurité sociale et du budget qui sont
+représentés auprès d'elle par des commissaires du Gouvernement.
+
+Elle exerce, au bénéfice de ses ressortissants, une action sanitaire et sociale
+dont le financement est fixé, avant le début de chaque exercice, sur décision du
+conseil d'administration de la caisse.
 
 Un décret en Conseil d'Etat détermine la composition ainsi que le mode de
 désignation des membres du conseil d'administration, compte tenu notamment de la
-pluralité des cultes concernés par le présent chapitre.
-
-Les délibérations du conseil d'administration ne deviennent exécutoires que s'il
-n'y a pas opposition d'une des autorités mentionnées au deuxième alinéa dans un
-délai déterminé, dont le point de départ est la communication des délibérations
-à ces autorités.
-
-Les règles relatives aux agents de direction et à l'agent comptable et aux
-opérations financières et comptables sont fixées par décret.
+pluralité des cultes concernés.

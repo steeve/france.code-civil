@@ -18,6 +18,9 @@ l'acceptation et le refus des dons et legs.
 Le directeur général prend au nom de l'Etat les décisions qui relèvent de la
 compétence de l'agence.
 
+Le directeur général émet également les avis et recommandations qui relèvent de
+la compétence de l'agence.
+
 Un conseil scientifique, dont le président est désigné par les ministres chargés
 de la santé, de l'agriculture et de la consommation après avis dudit conseil,
 veille à la cohérence de la politique scientifique de l'agence.

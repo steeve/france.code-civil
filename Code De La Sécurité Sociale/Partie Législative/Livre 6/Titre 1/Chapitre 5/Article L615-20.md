@@ -22,11 +22,13 @@ remboursement des prestations de base, sans que cette participation puisse être
 inférieure à celle prévue à l'article L. 322-2.
 
 Par dérogation aux dispositions du premier alinéa, les prestations
-supplémentaires consistant en l'octroi d'indemnités journalières sont
-instituées, modifiées et supprimées sur proposition faite par l'assemblée des
-administrateurs des caisses mutuelles régionales représentant le groupe de
-professions intéressé à la majorité absolue des seuls membres élus par les
-affiliés.
+supplémentaires consistant en l'octroi d'indemnités journalières sont instituées
+et supprimées sur proposition faite par l'assemblée des administrateurs des
+caisses mutuelles régionales représentant le groupe de professions intéressé à
+la majorité absolue des seuls membres élus par les affiliés. Elles sont
+modifiées sur proposition faite par les seuls membres élus de la section
+professionnelle intéressée du conseil d'administration de la Caisse nationale
+d'assurance maladie et maternité des travailleurs non salariés.
 
 La charge des prestations supplémentaires est couverte par des cotisations
 supplémentaires, dans les conditions précisées à l'article L. 612-13.

@@ -34,12 +34,13 @@ financiers des activités médicales, odontologiques et pharmaceutiques ;
 
 6° Emet un avis sur la constitution d'un réseau de soins mentionné à l'article
 L. 712-3-2, d'une communauté d'établissements de santé mentionnée à l'article L.
-712-3-3 ainsi que sur les actions de coopération visées aux sections II, III et
-IV du chapitre III du présent titre en ce qu'elles concernent la création d'un
+712-3-3, ainsi que sur les actions de coopération visées aux sections 2 à 5 du
+chapitre III du présent titre en ce qu'elles concernent la création d'un
 syndicat interhospitalier, d'un groupement de coopération sanitaire, d'un
 groupement d'intérêt public, d'un groupement d'intérêt économique, l'affiliation
-ou l'adhésion à ces structures ou le retrait de l'une d'elles, et les
-conventions concernant les actions de coopération internationale ;
+ou l'adhésion à ces structures ou le retrait de l'une d'elles, ou la
+constitution d'une fédération médicale interhospitalière et les conventions
+concernant les actions de coopération internationale ;
 
 7° Emet un avis sur le fonctionnement des services autres que médicaux,
 odontologiques et pharmaceutiques, dans la mesure où ils intéressent la qualité
@@ -57,7 +58,10 @@ suppressions ou transformations d'emplois de praticiens hospitaliers ;
 
 11° Emet un avis sur les modalités de constitution des centres de responsabilité
 dans les conditions prévues à l'article L. 714-26-1 et sur la désignation des
-responsables de ces centres.
+responsables de ces centres ;
+
+12° Emet un avis sur la création avec un ou plusieurs établissements publics de
+santé d'un établissement public de santé interhospitalier.
 
 En outre, à la demande du président du conseil d'administration, du directeur de
 l'établissement, de son propre président, du tiers de ses membres, ou du chef de

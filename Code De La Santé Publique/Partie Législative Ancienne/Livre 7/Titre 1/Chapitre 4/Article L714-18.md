@@ -36,5 +36,9 @@ formation ;
 présent titre en ce qu'elles concernent la création d'un syndicat
 interhospitalier, l'affiliation ou le retrait d'un tel syndicat, la création ou
 l'adhésion à un groupement de coopération sanitaire, à un groupement d'intérêt
-public, à un groupement d'intérêt économique, les conventions concernant les
-actions de coopération internationale.
+public, à un groupement d'intérêt économique, ou la constitution d'une
+fédération médicale interhospitalière et les conventions concernant les actions
+de coopération internationale ;
+
+11° La création avec un ou plusieurs établissements publics de santé d'un
+établissement public de santé interhospitalier.

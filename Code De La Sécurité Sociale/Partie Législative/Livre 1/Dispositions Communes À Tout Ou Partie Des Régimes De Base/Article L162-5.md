@@ -102,3 +102,12 @@ d'exercice qui en résultent pour les intéressés.
 
 Pour la mise en oeuvre des 12° et 13°, il peut être fait application des
 dérogations mentionnées au II de l'article L. 162-31-1.
+
+14° Les objectifs et les modalités d'organisation de la formation
+professionnelle conventionnelle, le montant de la contribution annuelle des
+caisses nationales d'assurance maladie signataires assurant son financement, les
+conditions d'indemnisation des médecins participant à des actions de formation
+professionnelle conventionnelle agréées ainsi que la dotation allouée à ce titre
+par les caisses nationales d'assurance maladie signataires. La gestion des
+sommes affectées à ces opérations est confiée à l'organisme gestionnaire
+conventionnel mentionné à l'article L. 162-5-12.

@@ -36,36 +36,40 @@ plus une épreuve écrite sur la connaissance des lois médico-sociales affecté
 d'un coefficient égal à celui de la composition française. Elles pourront être
 retirées à tout moment.
 
-En outre, le ministre chargé de la santé publique peut, après avis d'une
-commission comprenant notamment des délégués des conseils nationaux des ordres
-et des organisations syndicales nationales des professions intéressées, choisis
-par ces organismes, autoriser individuellement à exercer :
+En outre, le ministre chargé de la santé peut, après avis d'une commission
+comprenant notamment des délégués des conseils nationaux des ordres et des
+organisations nationales des professions intéressées, choisis par ces
+organismes, autoriser individuellement à exercer les personnes françaises ou
+étrangères titulaires d'un diplôme, titre ou certificat de valeur scientifique
+attestée par le ministre chargé des universités. Ces personnes doivent avoir été
+classées en rang utile à des épreuves de vérification des connaissances qui, en
+ce qui concerne les médecins, sont organisées pour une ou plusieurs disciplines
+ou spécialités. La commission doit rendre un avis dans l'année suivant le dépôt
+de la candidature.
 
-- des personnes étrangères titulaires d'un diplôme, certificat ou autre titre
-mentionné à l'article L. 356-2 ;
+Les médecins doivent en outre avoir exercé pendant trois ans des fonctions
+hospitalières. Des dispositions réglementaires fixent les conditions
+d'organisation des épreuves de sélection et les modalités d'exercice des
+fonctions hospitalières.
 
-- des personnes françaises ou étrangères, titulaires d'un diplôme, titre ou
-certificat de valeur scientifique reconnue équivalente par le ministre chargé
-des universités à celle d'un diplôme français permettant l'exercice de la
-profession et qui ont subi avec succès des épreuves définies par voie
-réglementaire.
+Le ministre chargé de la santé peut également, après avis de ladite commission,
+autoriser individuellement à exercer des ressortissants d'un Etat autre que ceux
+membres de la Communauté européenne ou parties à l'accord sur l'Espace
+économique européen et titulaires d'un diplôme, certificat ou autre titre obtenu
+dans l'un de ces Etats.
 
-Le nombre maximum de ces autorisations est fixé chaque année par arrêté du
-ministre chargé de la santé, en accord avec la commission prévue ci-dessus et
-compte tenu du mode d'exercice de la profession.
+Le nombre maximum de candidats susceptibles d'être autorisés à exercer pour
+chaque profession et, en ce qui concerne les médecins, pour chaque discipline ou
+spécialité, est fixé par arrêté du ministre chargé de la santé, en accord avec
+la commission susmentionnée. En sus de ce nombre maximum, les réfugiés
+politiques, apatrides et bénéficiaires de l'asile territorial ainsi que les
+Français ayant regagné le territoire national à la demande des autorités
+françaises peuvent être autorisés à exercer par le ministre chargé de la santé
+après avis de la commission susmentionnée et après avis d'un jury de la
+discipline concernée dont les modalités d'organisation sont définies par arrêté.
 
-Lorsqu'un établissement hospitalier, établi sur le territoire français par un
-organisme étranger, a obtenu la reconnaissance d'utilité publique avant le 10
-juin 1949 [*date*], le ministre de la santé publique et de la population peut
-autoriser, par arrêté individuel, certains praticiens attachés à cet
-établissement à exercer leur art en France, par dérogation aux dispositions des
-paragraphes 1° et 2° du présent article et après avis des organisations
-nationales intéressées. Ces praticiens devront être inscrits au tableau de
-l'ordre intéressé. Le nombre maximum par établissement hospitalier de ces
-praticiens autorisés est fixé par arrêté conjoint du ministre de la santé
-publique et de la population et du ministre des affaires étrangères, et
-l'autorisation n'est valable que pour la période durant laquelle lesdits
-praticiens sont effectivement attachés à cet établissement ;
+Nul ne peut être candidat plus de deux fois aux épreuves de sélection et à
+l'autorisation d'exercice.
 
 3° Inscrit à un tableau de l'ordre des médecins, à un tableau de l'ordre des
 chirurgiens-dentistes ou à un tableau de l'ordre des sages-femmes ;

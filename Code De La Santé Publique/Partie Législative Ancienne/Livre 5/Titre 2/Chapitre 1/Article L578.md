@@ -1,5 +1,10 @@
 Article L578
 ----
-Les modalités de création et de transfert des officines ainsi que les conditions
-minimales d'installation auxquelles ces dernières doivent satisfaire sont fixées
-par décret en Conseil d'Etat.
+- les modalités de présentation et d'instruction des demandes de création,
+transfert et regroupement des officines de pharmacie,
+
+- les règles relatives à l'appréciation du droit de priorité et du droit
+d'antériorité,
+
+- les conditions minimales d'installation auxquelles doivent satisfaire les
+officines."

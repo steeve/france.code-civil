@@ -1,13 +1,15 @@
 Article L716-2
 ----
-Le Gouvernement pourra expérimenter, dans des conditions fixées par voie
-réglementaire, à compter du 1er janvier 1992 et pour une période n'excédant pas
-cinq ans :
+Le Gouvernement pourra expérimenter, à compter du 1er janvier 2000, et pour une
+période n'excédant pas cinq ans, de nouveaux modes de financement des
+établissements de santé publics ou privés, fondés sur une tarification à la
+pathologie.
 
-1° L'élaboration, l'exécution et la révision de budgets présentés en tout ou
-partie par objectifs tenant compte notamment des pathologies traitées ;
+Les expériences pourront être menées dans une zone géographique déterminée, pour
+tous les établissements de santé de la zone ou pour une partie d'entre eux,
+selon les modalités définies par voie réglementaire.
 
-2° L'établissement de tarifications tenant compte des pathologies traitées.
-
-Cette expérimentation peut avoir lieu dans les établissements de santé, publics
-ou privés, avec leur accord.
+Les dépenses mises à la charge de l'ensemble des régimes obligatoires de base
+d'assurance maladie qui résultent de ces expériences sont prises en compte dans
+l'objectif national de dépenses d'assurance maladie visé au 4° du I de l'article
+LO 111-3 du code de la sécurité sociale.

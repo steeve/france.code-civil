@@ -1,46 +1,37 @@
 Article L571
 ----
-Aucune création d'officine ne peut être accordée dans les villes où la licence a
-déjà été délivrée à [*numérus clausus*] :
+I. - Dans les communes d'une population égale ou supérieure à 30 000 habitants,
+une création d'officine ne peut être accordée que lorsque le nombre d'habitants
+par pharmacie est égal ou supérieur à 3 000.
 
-Une officine pour 3.000 [*nombre*] habitants dans les villes d'une population de
-30.000 habitants et au-dessus ;
+Dans ce cas, il ne peut être délivré qu'une licence par tranche entière de 3 000
+habitants recensés dans les limites de la commune.
 
-Une officine pour 2.500 habitants dans les villes d'une population égale ou
-supérieure à 5.000 habitants et inférieure à 30.000 habitants.
+II. - Dans les communes d'une population égale ou supérieure à 2 500 habitants
+et inférieure à 30 000 habitants, une création d'officine ne peut être accordée
+que lorsque le nombre d'habitants par pharmacie est égal ou supérieur à 2 500."
 
-Dans les communes d'une population inférieure à 5.000 habitants, il ne peut être
-délivré qu'une licence par tranche entière de 2.000 habitants recensés dans les
-limites de la commune.
+Dans ce cas, il ne peut être délivré qu'une licence par tranche entière de 2 500
+habitants recensés dans les limites de la commune.
 
-Une création d'officine peut, toutefois, être accordée dans une commune
-dépourvue d'officine et d'une population inférieure à 2 000 habitants lorsque
-les besoins de la population résidente et saisonnière sont insuffisamment
-couverts au regard de la carte départementale des officines de pharmacie.
+Dans ce cas, il ne peut être délivré qu'une licence par tranche entière de 2 500
+habitants recensés dans les limites de la commune.
 
-La population dont il est tenu compte pour l'application de l'article L. 571 du
-Code de la santé publique est la population municipale totale, telle qu'elle est
-définie par le décret ayant ordonné le dernier dénombrement général de la
-population [*dispositions réglementaires*].
+III. - Aucune création n'est possible dans les communes comportant une
+population inférieure à 2 500 habitants :
 
-Lorsque la création d'une officine ou son transfert en provenance d'une autre
-commune peut être autorisé en application des deuxième à quatrième alinéas du
-présent article, le préfet peut, en vue d'assurer une desserte satisfaisante de
-la population, désigner par arrêté le ou les secteurs de la commune dans
-lesquels l'officine devra être située.
+- lorsqu'elles disposent déjà d'au moins une officine ;
 
-Si les besoins réels de la population résidente et de la population saisonnière
-l'exigent, des dérogations à ces règles peuvent être accordées par le préfet
-après avis motivé du directeur régional des affaires sanitaires et sociales, du
-pharmacien inspecteur régional de la santé, du conseil régional de l'ordre des
-pharmaciens et des syndicats professionnels.
+- lorsqu'elles ne disposent d'aucune officine mais que leur population a déjà
+été prise en compte pour la création d'une officine dans une autre commune.
 
-Les besoins réels de la population résidente et de la population saisonnière
-mentionnés à l'alinéa précédent sont appréciés au regard, notamment, de
-l'importance de la population concernée, des conditions d'accès aux officines
-les plus proches et de la population que celles-ci resteraient appelées à
-desservir. Le préfet précise, dans sa décision, les populations prises en compte
-pour l'octroi des licences.
+IV. - Dans les communes de moins de 2 500 habitants dépourvues d'officine et
+dont la population n'a pas été ou n'est plus prise en compte pour une création
+d'officine dans une autre commune, une création peut être accordée dans une zone
+géographique constituée d'un ensemble de communes contiguës, si la totalité de
+la population de cette zone est au moins égale à 2 500 habitants.
 
-Dans tous les cas, le préfet peut imposer une distance minimum entre deux
-officines.
+Le représentant de l'Etat dans le département précise, dans sa décision, les
+communes prises en compte pour l'octroi de la licence. La totalité de la
+population de ces communes est considérée comme desservie par la nouvelle
+création.

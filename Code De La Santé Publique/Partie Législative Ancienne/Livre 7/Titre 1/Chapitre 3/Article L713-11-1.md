@@ -13,5 +13,5 @@ Le groupement, qui n'est pas un établissement de santé, est doté de la
 personnalité morale. Son but n'est pas de réaliser des bénéfices. Il n'est pas
 employeur.
 
-Le groupement peut détenir des autorisations d'équipements matériels lourds
-visées au 2° de l'article L. 712-8.
+Le groupement peut détenir des autorisations d'installations d'équipements
+matériels lourds et d'activités de soins visés à l'article L. 712-8.

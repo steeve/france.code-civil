@@ -28,6 +28,10 @@ de sièges supérieur à la catégorie mentionnée au 1°.
 La catégorie mentionnée au 5° comporte au moins un médecin et un représentant
 des professions paramédicales non hospitaliers.
 
+Dans les établissements interhospitaliers, les représentants des catégories
+mentionnées aux 1°, 5° et 6° sont désignés, en leur sein, par les conseils
+d'administration des établissements fondateurs.
+
 Le président et le vice-président de la commission médicale d'établissement sont
 membres de droit du conseil d'administration de l'établissement, au titre de la
 catégorie mentionnée au 2° ci-dessus.
@@ -53,8 +57,8 @@ d'empêchement.
 Les représentants mentionnés au 1° ci-dessus sont désignés par les assemblées
 des collectivités territoriales qu'ils représentent.
 
-Pour les établissements intercommunaux et interdépartementaux, l'acte de
-création désigne le président du conseil d'administration parmi les
+Pour les établissements intercommunaux, interdépartementaux et interhospitaliers
+l'acte de création désigne le président du conseil d'administration parmi les
 représentants des catégories mentionnées au 1° ou au 5° ci-dessus.
 
 Les modalités d'application du présent article sont définies par voie

@@ -1,16 +1,15 @@
 Article L712-3
 ----
-Le schéma d'organisation sanitaire détermine la répartition géographique des
-installations et activités de soins définies à l'article L. 712-2 qui
-permettrait d'assurer une satisfaction optimale des besoins de la population.
+Un schéma est établi pour chaque région sanitaire pour tout ou partie des moyens
+dont la nature est arrêtée par la carte sanitaire. Toutefois, des schémas
+nationaux ou interrégionaux peuvent être établis pour certaines installations ou
+activités de soins mentionnées à l'article L. 712-2.
 
-Un schéma est établi pour chaque région sanitaire pour tout ou partie de ces
-installations ou activités ; toutefois, des schémas nationaux ou interrégionaux
-peuvent être établis pour certaines de ces installations et de ces activités de
-soins.
+Le schéma d'organisation sanitaire vise à susciter les adaptations et les
+complémentarités de l'offre de soins, ainsi que les coopérations, notamment
+entre les établissements de santé.
 
-Le schéma régional d'organisation sanitaire fixe en particulier les objectifs
-permettant la mise en place d'une organisation optimale pour répondre aux
-besoins en matière de soins palliatifs. Ces objectifs sont mis en oeuvre au
-moyen des contrats mentionnés aux articles L. 710-16, L. 710-16-1 et L.
-710-16-2.
+Il détermine l'organisation territoriale des moyens de toute nature, compris ou
+non dans la carte sanitaire, qui permettra la réalisation des objectifs
+mentionnés à l'article L. 712-1. Il peut comporter des recommandations utiles à
+la réalisation de ces objectifs.
