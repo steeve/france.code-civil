@@ -11,7 +11,7 @@ signées par les candidats. Elles peuvent être individuelles ou collectives.
 Chaque candidat doit, à l'appui de sa candidature, déposer une déclaration
 écrite sur l'honneur qu'il remplit les conditions d'éligibilité fixées à
 l'article L. 932-31, qu'il n'est frappé d'aucune des incapacités, déchéances ou
-inéligibilités prévues à l'article 6 de la loi n° 87-550 du 16 juillet 1987 et à
+inéligibilités prévues aux articles L.713-1 à L. 713-3 du code de commerce et à
 l'article L. 932-31, qu'il ne fait pas l'objet d'une mesure de suspension prise
 en application de l'article L. 414-4 et qu'il n'est pas candidat dans un autre
 tribunal mixte de commerce.
