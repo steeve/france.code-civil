@@ -1,6 +1,6 @@
 Article R5211-3
 ----
-Pour l'application des dispositions de l'article L. 2123-3 relatif au crédit
+Pour l'application des dispositions de l'article L. 2123-2 relatif au crédit
 d'heures :
 
 1° Le président, les vice-présidents et les membres de l'organe délibérant de
