@@ -5,5 +5,5 @@ consentement personnel lorsque ce changement ne résulte pas de l'établissement
 ou d'une modification d'un lien de filiation.
 
 L'établissement ou la modification du lien de filiation n'emporte cependant le
-changement du patronyme des enfants majeurs que sous réserve de leur
+changement du nom de famille des enfants majeurs que sous réserve de leur
 consentement.

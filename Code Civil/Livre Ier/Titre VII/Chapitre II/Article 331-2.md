@@ -9,4 +9,4 @@ l'existence des enfants.
 
 La mention de la légitimation sur l'acte de naissance d'un enfant majeur est
 dépourvue d'effet sur son patronyme si l'acte ne comporte pas, en outre, la
-mention du consentement de l'intéressé à la modification de son patronyme.
+mention du consentement de l'intéressé à la modification de son nom de famille.
