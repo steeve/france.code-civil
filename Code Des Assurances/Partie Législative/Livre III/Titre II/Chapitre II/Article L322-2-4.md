@@ -12,4 +12,4 @@ obligatoirement une analyse des conditions dans lesquelles l'entreprise est en
 mesure, à moyen et long terme, de faire face à l'ensemble de ses engagements.
 
 Le rapport de solvabilité mentionné au précédent alinéa est communiqué aux
-commissaires aux comptes.
+commissaires aux comptes et à la Commission de contrôle des assurances.

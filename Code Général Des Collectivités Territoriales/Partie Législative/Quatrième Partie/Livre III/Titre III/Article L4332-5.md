@@ -21,7 +21,9 @@ totales.
 Le prélèvement cesse d'être opéré lorsque, dans une région, le taux de chômage
 de la pénultième année, tel qu'il est calculé par l'Institut national de la
 statistique et des études économiques, est supérieur au taux de chômage annuel
-moyen de l'ensemble des régions métropolitaines.
+moyen de l'ensemble des régions métropolitaines. Ces dispositions continuent à
+s'appliquer au-delà du 31 décembre 1999 pendant la période transitoire prévue au
+quatrième alinéa de l'article 67 de la loi n° 95-115 du 4 février 1995 précitée.
 
 Les dépenses réalisées en application de l'expérimentation prévue au troisième
 alinéa de l'article 67 de la loi n° 95-115 du 4 février 1995 d'orientation pour

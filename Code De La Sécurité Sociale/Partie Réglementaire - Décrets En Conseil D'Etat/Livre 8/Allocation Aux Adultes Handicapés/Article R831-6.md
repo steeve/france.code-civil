@@ -52,4 +52,6 @@ les ressources du ménage au titre de l'année de référence appréciées au se
 alinéas précédents sont inférieures à un montant fixé par arrêté conjoint des
 ministres chargés du logement, du budget, de la sécurité sociale et de
 l'agriculture, les ressources du demandeur ou du ménage sont réputées égales à
-ce montant.
+ce montant. Ce montant subit une minoration fixée par ledit arrêté lorsque le
+demandeur est titulaire d'une bourse de l'enseignement supérieur qui n'est pas
+assujettie à l'impôt sur le revenu.

@@ -1,14 +1,18 @@
 Article L324-5
 ----
-Le ministre de l'économie et des finances peut, faute d'un transfert amiable
-approuvé conformément aux dispositions de l'article L. 324-1, imposer à
-l'entreprise en cause, qui a décidé les rappels de prime ou de cotisation prévus
-à l'article L. 323-6, le transfert d'office, à une autre entreprise agréée et
-avec l'accord de cette dernière, de la totalité de son portefeuille de contrats
-d'assurance.
+Lorsqu'une entreprise fait l'objet d'une procédure de transfert d'office de
+portefeuille, la Commission de contrôle des assurances peut, si elle estime que
+les personnes physiques ou morales, autres que les mandataires et salariés
+d'entreprises d'assurance, par l'intermédiaire desquelles des contrats
+comportant la garantie de risques mentionnés à l'article L. 423-1 ont été
+présentés ou souscrits ont eu un comportement ayant contribué aux difficultés de
+cette entreprise, décider à l'issue d'une procédure contradictoire que les
+personnes susmentionnées doivent reverser au cessionnaire du portefeuille ou, à
+défaut, au fonds de garantie tout ou partie des commissions ou rémunérations de
+toutes natures, directes ou indirectes, encaissées à l'occasion de la
+présentation ou de la souscription de ces contrats, au cours des dix-huit mois
+précédant le mois au cours duquel la procédure de transfert de portefeuille est
+lancée.
 
-Ce transfert est prononcé par arrêté du ministre de l'économie et des finances
-qui rend le transfert opposable aux assurés, souscripteurs, bénéficiaires de
-contrats, ainsi qu'aux créanciers, et écarte l'application du droit de
-surenchère prévu à l'article 5 de la loi du 17 mars 1909 relative à la vente et
-au nantissement des fonds de commerce.
+Un décret en Conseil d'Etat détermine les modalités d'application du présent
+article.

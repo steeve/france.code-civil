@@ -9,13 +9,14 @@ la sauvegarde de l'intérêt des assurés.
 Elle peut, à ce titre, mettre l'entreprise sous surveillance spéciale.
 
 Elle peut aussi restreindre ou interdire la libre disposition de tout ou partie
-des actifs de l'entreprise ou désigner un administrateur provisoire à qui sont
-transférés les pouvoirs nécessaires à l'administration et à la direction de
-l'entreprise. Cette désignation est faite soit à la demande des dirigeants
-lorsqu'ils estiment ne plus être en mesure d'exercer normalement leurs
-fonctions, soit à l'initiative de la commission lorsque la gestion de
-l'établissement ne peut plus être assurée dans des conditions normales, ou
-lorsque a été prise la sanction prévue au 4° de l'article L. 310-18.
+des actifs de l'entreprise, limiter ou suspendre temporairement certaines
+opérations ou désigner un administrateur provisoire à qui sont transférés les
+pouvoirs nécessaires à l'administration et à la direction de l'entreprise. Cette
+désignation est faite soit à la demande des dirigeants lorsqu'ils estiment ne
+plus être en mesure d'exercer normalement leurs fonctions, soit à l'initiative
+de la commission lorsque la gestion de l'établissement ne peut plus être assurée
+dans des conditions normales, ou lorsque a été prise la sanction prévue au 4° de
+l'article L. 310-18.
 
 Les mesures mentionnées au troisième alinéa sont levées ou confirmées par la
 commission, après procédure contradictoire, dans un délai prévu par décret en

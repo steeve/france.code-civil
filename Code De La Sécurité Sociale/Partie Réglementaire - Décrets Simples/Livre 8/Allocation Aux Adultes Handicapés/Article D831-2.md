@@ -15,27 +15,27 @@ fixés en métropole et dans les départements mentionnés à l'article L. 751-1
 Le loyer mensuel payé par les personnes résidant dans un ensemble doté de
 services collectifs est défini dans les conditions suivantes :
 
-Pour les étudiants lorsqu'ils sont logés en résidence universitaire, le loyer
-mensuel est réputé égal à :
+1° Pour les étudiants, lorsqu'ils sont logés en résidence universitaire, le
+loyer mensuel est réputé égal à :
 
-441 F lorsqu'il s'agit d'une personne isolée ;
+445 F lorsqu'il s'agit d'une personne isolée.
 
-685 F lorsqu'il s'agit d'un ménage.
+692 F lorsqu'il s'agit d'un ménage
 
-Pour les personnes âgées d'au moins soixante-cinq ans ou d'au moins soixante ans
-en cas d'inaptitude au travail ainsi que pour les personnes infirmes, le loyer
-mensuel est réputé égal à :
+2° Pour les personnes âgées d'au moins soixante-cinq ans ou d'au moins soixante
+ans en cas d'inaptitude au travail, ainsi que pour les personnes infirmes, le
+loyer mensuel est réputé égal à :
 
-1 079 F lorsqu'il s'agit d'une personne isolée ;
+1 090 F lorsqu'il s'agit d'une personne isolée ;
 
-1 676 F lorsqu'il s'agit d'un ménage.
+1 693 F lorsqu'il s'agit d'un ménage.
 
-Pour les personnes autres que celles mentionnées ci-dessus, le loyer mensuel est
-réputé égal à :
+3° Pour les personnes autres que celles mentionnées ci-dessus, le loyer mensuel
+est réputé égal à :
 
-889 F lorsqu'il s'agit d'une personne isolée ;
+898 F lorsqu'il s'agit d'une personne isolée ;
 
-1 382 F lorsqu'il s'agit d'un ménage.
+1 396 F lorsqu'il s'agit d'un ménage.
 
 Ces montants sont augmentés de la majoration forfaitaire prévue à l'article D.
 542-21.

@@ -2,8 +2,10 @@ Article L327-2
 ----
 L'actif mobilier des entreprises françaises soumises au contrôle de l'Etat par
 l'article L. 310-1 est affecté par un privilège général au règlement de leurs
-engagements envers les assurés et bénéficiaires de contrats. Ce privilège prend
-rang après le 6° de l'article 2101 du code civil.
+engagements envers les assurés et bénéficiaires de contrats et au remboursement
+par préférence des primes payées par les personnes ayant exercé leur droit à
+renonciation en application de l'article L. 132-5-1. Ce privilège prend rang
+après le 6° de l'article 2101 du code civil.
 
 Il en est de même de l'actif immobilier. Ce privilège prend rang après le 2° de
 l'article 2104 du code civil.

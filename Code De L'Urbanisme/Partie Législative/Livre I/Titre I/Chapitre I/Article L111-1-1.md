@@ -17,15 +17,19 @@ orientations générales du schéma national mentionné à l'article 2 de la loi
 territoire.
 
 Les directives territoriales d'aménagement sont élaborées sous la responsabilité
-de l'Etat et à son initiative.
+de l'Etat, à son initiative ou, le cas échéant, sur la demande d'une région,
+après consultation du conseil économique et social régional.
 
 Les projets de directives sont élaborés en association avec les régions, les
 départements, les communes chefs-lieux d'arrondissement ainsi que les communes
 de plus de 20 000 habitants et les groupements de communes compétents en matière
 d'aménagement de l'espace ou d'urbanisme intéressés et les comités de massifs.
 Leur avis est réputé favorable s'il n'est pas intervenu dans un délai de trois
-mois à compter de leur saisine. Les directives éventuellement modifiées pour
-tenir compte de ces avis sont approuvées par décret en Conseil d'Etat.
+mois à compter de leur saisine. Les projets de directives territoriales
+d'aménagement assortis des avis des conseils régionaux et des conseils généraux
+intéressés sont mis à la disposition du public pendant deux mois. Les directives
+éventuellement modifiées pour tenir compte de ces avis sont approuvées par
+décret en Conseil d'Etat.
 
 Les schémas directeurs et les schémas de secteur doivent être compatibles avec
 les directives territoriales d'aménagement et, en l'absence de ces directives,

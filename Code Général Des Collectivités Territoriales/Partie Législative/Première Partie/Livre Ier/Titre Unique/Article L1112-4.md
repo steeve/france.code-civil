@@ -1,15 +1,13 @@
 Article L1112-4
 ----
-- Dans le cadre de la coopération transfrontalière, les collectivités
+Dans le cadre de la coopération transfrontalière, les collectivités
 territoriales et leurs groupements peuvent, dans les limites de leurs
 compétences et dans le respect des engagements internationaux de la France,
 adhérer à un organisme public de droit étranger ou participer au capital d'une
 personne morale de droit étranger auquel adhère ou participe au moins une
 collectivité territoriale ou un groupement de collectivités territoriales d'un
-Etat européen frontalier. L'objet exclusif de cet organisme ou de cette personne
-morale doit être d'exploiter un service public ou de réaliser un équipement
-local intéressant toutes les personnes publiques participantes. Cette adhésion
-ou cette participation est autorisée par décret en Conseil d'Etat.
+Etat européen frontalier ou d'un Etat membre de l'union européenne. Cette
+adhésion ou cette participation est autorisée par décret en Conseil d'Etat.
 
 Cette adhésion ou cette participation fait l'objet d'une convention avec
 l'ensemble des collectivités territoriales étrangères ou de leurs groupements
