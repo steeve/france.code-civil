@@ -1,6 +1,6 @@
 Article R148-3
 ----
-Jusqu'au 31 décembre 1991, l'aliénation des immeubles domaniaux reconnus
+Jusqu'au 31 décembre 1993, l'aliénation des immeubles domaniaux reconnus
 inutiles par le ministre de la défense a lieu par voie d'adjudication publique.
 
 Toutefois, la cession peut être consentie à l'amiable dans les cas suivants :
