@@ -14,6 +14,10 @@ II ou III du présent code (première partie).
 ce logement, des travaux d'amélioration et des travaux destinés à réduire les
 dépenses d'énergie [*économies*].
 
+3° En ce qui concerne les opérations mentionnées au 5° de l'article R.331-63,
+les personnes qui bénéficient de l'aide personnalisée au logement au titre du
+prêt faisant l'objet du remboursement anticipé.
+
 Ces bénéficiaires doivent destiner le logement à leur résidence principale,
 c'est-à-dire l'occupation personnelle du logement au moins huit mois par an,
 soit par elles-mêmes, soit par leur conjoint, soit par leurs ascendants,
