@@ -16,3 +16,8 @@ subrogatoires prévues aux articles L. 1142-14, L. 1142-15 et L. 1142-17.
 
 La commission saisit l'autorité compétente si elle constate des manquements
 susceptibles de donner lieu à des poursuites disciplinaires.
+
+Lorsque les dommages résultent d'une infection nosocomiale présentant le
+caractère de gravité prévu à l'article L. 1142-1-1, la commission signale sans
+délai cette infection nosocomiale à l'autorité compétente mentionnée à l'article
+L. 6115-3 ainsi qu'à l'office institué à l'article L. 1142-22.

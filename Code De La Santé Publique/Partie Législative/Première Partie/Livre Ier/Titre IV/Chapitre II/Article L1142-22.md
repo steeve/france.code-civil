@@ -4,11 +4,16 @@ L'Office national d'indemnisation des accidents médicaux, des affections
 iatrogènes et des infections nosocomiales est un établissement public à
 caractère administratif de l'Etat, placé sous la tutelle du ministre chargé de
 la santé. Il est chargé de l'indemnisation au titre de la solidarité nationale,
-dans les conditions définies au II de l'article L. 1142-1 et à l'article L.
-1142-17, des dommages occasionnés par la survenue d'un accident médical, d'une
-affection iatrogène ou d'une infection nosocomiale ainsi que des indemnisations
-qui lui incombent, le cas échéant, en application des articles L. 1142-15 et L.
-1142-18.
+dans les conditions définies au II de l'article L. 1142-1, à l'article L.
+1142-1-1 et à l'article L. 1142-17, des dommages occasionnés par la survenue
+d'un accident médical, d'une affection iatrogène ou d'une infection nosocomiale
+ainsi que des indemnisations qui lui incombent, le cas échéant, en application
+des articles L. 1142-15 et L. 1142-18.
+
+Les obligations de l'association France-Hypophyse nées de son rôle dans
+l'organisation du traitement des patients par l'hormone de croissance extractive
+entre 1973 et 1988 sont transférées à l'Office national d'indemnisation des
+accidents médicaux, des affections iatrogènes et des infections nosocomiales.
 
 L'office est administré par un conseil d'administration dont la composition est
 fixée par un décret en Conseil d'Etat. Il comprend, outre son président, pour

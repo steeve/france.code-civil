@@ -1,9 +1,10 @@
 Article L1142-17
 ----
 Lorsque la commission régionale estime que le dommage est indemnisable au titre
-du II de l'article L. 1142-1, l'office adresse à la victime ou à ses ayants
-droit, dans un délai de quatre mois suivant la réception de l'avis, une offre
-d'indemnisation visant à la réparation intégrale des préjudices subis.
+du II de l'article L. 1142-1, ou au titre de l'article L. 1142-1-1 l'office
+adresse à la victime ou à ses ayants droit, dans un délai de quatre mois suivant
+la réception de l'avis, une offre d'indemnisation visant à la réparation
+intégrale des préjudices subis.
 
 Cette offre indique l'évaluation retenue, le cas échéant à titre provisionnel,
 pour chaque chef de préjudice ainsi que le montant des indemnités qui reviennent
@@ -31,4 +32,8 @@ un caractère provisionnel ou définitif.
 Si l'office qui a transigé avec la victime estime que la responsabilité d'un
 professionnel, établissement, service, organisme ou producteur de produits de
 santé mentionnés au premier alinéa de l'article L. 1142-14 est engagée, il
-dispose d'une action subrogatoire contre celui-ci.
+dispose d'une action subrogatoire contre celui-ci. Cette action subrogatoire ne
+peut être exercée par l'office lorsque les dommages sont indemnisés au titre de
+l'article L. 1142-1-1, sauf en cas de faute établie de l'assuré à l'origine du
+dommage, notamment le manquement caractérisé aux obligations posées par la
+réglementation en matière de lutte contre les infections nosocomiales.
