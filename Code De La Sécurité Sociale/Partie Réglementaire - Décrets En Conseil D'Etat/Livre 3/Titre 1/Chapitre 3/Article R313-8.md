@@ -1,13 +1,13 @@
 Article R313-8
 ----
 Pour l'ouverture du droit aux prestations prévues par les articles R. 313-2 à R.
-313-7 ci-dessus et sans préjudice de l'application de l'article L. 311-5, est
-considérée comme équivalant à six heures de travail salarié ou six fois la
-valeur du salaire minimum de croissance au 1er janvier qui précède immédiatement
-la période de référence :
+313-6 ci-dessus, est considérée comme équivalant à six fois la valeur du salaire
+minimum de croissance au 1er janvier qui précède immédiatement la période de
+référence ou à six heures de travail salarié :
 
 1°) chaque journée indemnisée au titre de la maladie, de la maternité ou de
-l'invalidité ;
+l'invalidité à l'exclusion des journées indemnisées en application des articles
+L. 161-8 et L. 311-5 ;
 
 2°) chaque journée d'interruption de travail due à la maladie au titre de
 laquelle l'assuré n'a pas perçu l'indemnité journalière de l'assurance maladie
