@@ -17,9 +17,9 @@ ministre de l'intérieur ;
 l'achèvement d'une formation de conducteur de transport par route quand celui-ci
 est exigé en application de l'article R. 221-6.
 
-II. - En cas de perte ou de vol du permis de conduire le récépissé de
-déclaration de perte ou de vol tient lieu de permis pendant un délai de deux
-mois au plus.
+II. - En cas de perte ou de vol du titre justifiant de l'autorisation de
+conduire le récépissé de déclaration de perte ou de vol tient lieu de titre
+pendant un délai de deux mois au plus.
 
 III. - Le fait de ne pas présenter immédiatement aux agents de l'autorité
 compétente les autorisations et pièces administratives exigées par le présent
