@@ -1,6 +1,6 @@
 Article L431-5
 ----
-Un décret en Conseil d'Etat fixe les modalités d'application des articles L.
-431-3 et L. 431-4, notamment les conditions dans lesquelles sont établis les
-traités ou contrats et fixés les tarifs relatifs aux opérations mentionnées
-auxdits articles.
+La caisse centrale de réassurance, agissant avec la garantie de l'Etat, est
+chargée d'octroyer aux exploitants de navires et d'installations nucléaires les
+couvertures pour lesquelles des interventions de l'Etat sont prévues par les
+lois n° 65-956 du 12 novembre 1965 et n° 68-943 du 30 octobre 1968.
