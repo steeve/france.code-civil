@@ -22,7 +22,7 @@ II. - Des opérations peuvent bénéficier d'une subvention foncière lorsque la
 charge foncière en construction neuve ou le coût global de l'opération en
 acquisition-amélioration dépasse la valeur foncière de référence multipliée par
 la surface utile de l'opération. La valeur foncière de référence servant à fixer
-le seuil de déclenchement de la subvention foncière est exprimée en francs par
+le seuil de déclenchement de la subvention foncière est exprimée en euros par
 mètre carré de surface utile définie à l'article R. 331-10 du présent code pour
 les opérations de construction neuve et d'acquisition-amélioration. Une fraction
 du dépassement au moins égale à 20 p. 100 de son montant doit être prise en

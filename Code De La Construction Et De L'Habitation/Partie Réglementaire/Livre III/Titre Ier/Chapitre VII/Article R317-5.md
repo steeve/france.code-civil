@@ -1,7 +1,8 @@
 Article R317-5
 ----
 Pour l'application de l'article R. 317-1, sont considérés comme résidences
-principales les logements occupés au moins huit mois par an par les personnes
+principales les logements occupés au moins huit mois par an, sauf obligation
+professionnelle, raison de santé ou cas de force majeure, par les personnes
 accédant à la propriété, visées à l'article R. 317-3.
 
 Cette occupation doit être effective dans le délai maximum d'un an suivant, soit

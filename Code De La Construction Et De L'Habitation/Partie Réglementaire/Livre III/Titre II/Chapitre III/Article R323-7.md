@@ -4,6 +4,21 @@ Le taux de la subvention est au plus égal à 10 p. 100 du coût prévisionnel d
 travaux, sauf pour les opérations réalisées en Corse, où il est au plus égal à
 20 p. 100 du coût prévisionnel des travaux.
 
+Ce taux peut être porté à 15 % du coût prévisionnel des travaux, sauf pour les
+opérations réalisées en Corse où il est au plus égal à 25 % du coût prévisionnel
+des travaux, dans les limites susvisées :
+
+a) Pour les travaux d'installation de chauffe-eau solaires et de capteurs
+photovoltaïques ;
+
+b) Pour les travaux d'installation de vitres, de fenêtres ou de baies dont les
+caractéristiques thermiques permettent d'atteindre ou de dépasser des
+caractéristiques thermiques fixées par arrêté du ministre chargé du logement ;
+
+c) Pour le surcoût résultant de la réalisation de travaux d'installation sur les
+parois opaques de parois de doublage acoustique mince dont les caractéristiques
+techniques sont précisées par arrêté du ministre chargé du logement.
+
 Ce taux peut être porté au plus à 25 p. 100 du coût prévisionnel des travaux,
 sauf pour les opérations réalisées en Corse, où il est au plus égal à 30 p. 100
 du coût prévisionnel des travaux.
