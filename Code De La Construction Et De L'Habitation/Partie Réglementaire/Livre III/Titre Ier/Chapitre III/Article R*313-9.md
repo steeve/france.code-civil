@@ -17,17 +17,13 @@ b) A des organismes dotés d'un statut qui leur permet de concourir au
 financement de l'acquisition et l'aménagement de terrains destinés à la
 construction de logements sociaux, de la constructions de logements ou à
 l'acquisition, l'aménagement ou la remise en état de logements existants ; ces
-organismes sont désignés par un arrêté des ministres chargés de la construction
-et de l'habitation, du commerce, de l'artisanat et de l'industrie, qui fixe un
-minimum de sommes à recueillir pour le maintien du bénéfice de cette désignation
-;
+organismes sont définis par un arrêté des ministres intéressés ;
 
 c) A des organismes ayant pour objet l'acquisition et l'aménagement de terrains
 destinés à la construction de logements sociaux, la construction de logements ou
 l'acquisition, l'aménagement ou la remise en état de logements existants ; ces
-organismes sont autorisés par arrêté du ministre chargé de la construction et de
-l'habitation à recevoir ces versements dans les conditions fixées par cet arrêté
-[*organismes collecteurs*].
+organismes sont définis par le ministre chargé de la construction et de
+l'habitation.
 
 3. A titre exceptionnel, investissements par les employeurs dans la construction
 de logements dans les conditions fixées à l'article R. 313-15 (alinéa 3) ou les

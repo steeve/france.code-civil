@@ -67,14 +67,10 @@ ministre chargé des finances.
 
 4. Prêts :
 
-- à des sociétés ayant pour objet la construction de logements locatifs ou
-l'acquisition en vue de l'amélioration de logements existants destinés à la
-location ;
-
-- à des sociétés coopératives de construction régies par le livre II, titre Ier,
-chapitre III du présent code, première partie, ou à des sociétés immobilières
-suscitées par des sociétés de crédit immobilier ayant pour objet la construction
-de logements en vue de l'accession à la propriété.
+- à des sociétés ayant pour objet la construction de logements locatifs,
+l'acquisition en vue de l'amélioration de logements destinés à la location, la
+construction ou l'acquisition en vue de leur amélioration de logements destinés
+à des locations ouvrant au locataire une faculté d'accession à la propriété ;
 
 Ces sociétés doivent se soumettre au contrôle des organismes collecteurs. Les
 conditions de ces prêts, les modalités d'occupation des logeents ainsi que
