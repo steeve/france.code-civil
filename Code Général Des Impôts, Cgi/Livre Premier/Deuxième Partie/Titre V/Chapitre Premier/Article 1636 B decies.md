@@ -1,7 +1,9 @@
 Article 1636 B decies
 ----
 I. Les communes membres d'une communauté ou d'un syndicat d'agglomération
-nouvelle visés à l'article 1609 nonies B votent les taux des taxes foncières, de
+nouvelle mentionnés à l'article 1609 nonies B ou d'un établissement public de
+coopération intercommunale soumis, de plein droit ou après option, au régime
+fiscal prévu à l'article 1609 nonies C votent les taux des taxes foncières, de
 la taxe d'habitation, à l'exclusion de la taxe professionnelle, conformément aux
 dispositions applicables aux communes.
 
