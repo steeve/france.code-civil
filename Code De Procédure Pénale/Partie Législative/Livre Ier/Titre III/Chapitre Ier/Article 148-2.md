@@ -5,7 +5,10 @@ sur une demande de mainlevée totale ou partielle du contrôle judiciaire ou sur
 une demande de mise en liberté se prononce après audition du ministère public,
 du prévenu ou de son avocat ; le prévenu non détenu et son avocat sont
 convoqués, par lettre recommandée, quarante-huit heures au moins avant la date
-de l'audience.
+de l'audience. Si la personne a déjà comparu devant la juridiction moins de
+quatre mois auparavant, le président de cette juridiction peut en cas de demande
+de mise en liberté refuser la comparution personnelle de l'intéressé par une
+décision motivée qui n'est susceptible d'aucun recours.
 
 Lorsque la personne n'a pas encore été jugée en premier ressort, la juridiction
 saisie statue dans les dix jours ou les vingt jours de la réception de la

@@ -4,9 +4,12 @@ L'officier de police judiciaire peut appeler et entendre toutes les personnes
 susceptibles de fournir des renseignements sur les faits ou sur les objets et
 documents saisis.
 
-Les personnes convoquées par lui sont tenues de comparaître. Si elles ne
-satisfont pas à cette obligation, avis en est donné au procureur de la
-République, qui peut les contraindre à comparaître par la force publique.
+Les personnes convoquées par lui sont tenues de comparaître.L'officier de police
+judiciaire peut contraindre à comparaître par la force publique les personnes
+visées à l'article 61. Il peut également contraindre à comparaître par la force
+publique, avec l'autorisation préalable du procureur de la République, les
+personnes qui n'ont pas répondu à une convocation à comparaître ou dont on peut
+craindre qu'elles ne répondent pas à une telle convocation.
 
 Il dresse un procès-verbal de leurs déclarations. Les personnes entendues
 procèdent elles-mêmes à sa lecture, peuvent y faire consigner leurs observations

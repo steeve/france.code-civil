@@ -44,3 +44,8 @@ est constaté par procès-verbal.
 Les dispositions du précédent alinéa ne sont pas applicables lorsqu'il n'existe
 qu'un seul exemplaire d'un type de billets ou de pièces suspectés faux, tant que
 celui-ci est nécessaire à la manifestation de la vérité.
+
+Si elles sont susceptibles de fournir des renseignements sur les objets,
+documents et données informatiques saisis, les personnes présentes lors de la
+perquisition peuvent être retenues sur place par l'officier de police judiciaire
+le temps strictement nécessaire à l'accomplissement de ces opérations.

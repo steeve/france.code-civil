@@ -3,11 +3,14 @@ Article 706-22
 Toute ordonnance rendue sur le fondement de l'article 706-18 ou de l'article
 706-19 par laquelle un juge d'instruction statue sur son dessaisissement ou le
 juge d'instruction de Paris statue sur sa compétence peut, à l'exclusion de
-toute autre voie de recours, être déférée dans les cinq jours [*délai*] de sa
+toute autre voie de recours, être déférée dans les cinq jours de sa
 notification, à la requête du ministère public, des parties, à la chambre
 criminelle de la Cour de cassation qui désigne, dans les huit jours suivant la
 date de réception du dossier, le juge d'instruction chargé de poursuivre
-l'information.
+l'information. Le ministère public peut également saisir directement la chambre
+criminelle de la Cour de cassation lorsque le juge d'instruction n'a pas rendu
+son ordonnance dans le délai d'un mois prévu au premier alinéa de l'article
+706-18.
 
 La chambre criminelle qui constate que le juge d'instruction du tribunal de
 grande instance de Paris n'est pas compétent peut néanmoins, dans l'intérêt

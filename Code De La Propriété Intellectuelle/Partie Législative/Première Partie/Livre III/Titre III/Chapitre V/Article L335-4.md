@@ -1,6 +1,6 @@
 Article L335-4
 ----
-Est punie de deux ans d'emprisonnement et de 150000 euros d'amende toute
+Est punie de trois ans d'emprisonnement et de 300 000 euros d'amende toute
 fixation, reproduction, communication ou mise à disposition du public, à titre
 onéreux ou gratuit, ou toute télédiffusion d'une prestation, d'un phonogramme,
 d'un vidéogramme ou d'un programme, réalisée sans l'autorisation, lorsqu'elle
@@ -18,3 +18,6 @@ communication publique ainsi que de la télédiffusion des phonogrammes.
 
 Est puni de la peine d'amende prévue au premier alinéa le défaut de versement du
 prélèvement mentionné au troisième alinéa de l'article L. 133-3.
+
+Lorsque les délits prévus au présent article ont été commis en bande organisée,
+les peines sont portées à cinq ans d'emprisonnement et à 500 000 euros d'amende.

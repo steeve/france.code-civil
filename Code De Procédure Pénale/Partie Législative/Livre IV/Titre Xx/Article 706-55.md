@@ -3,7 +3,8 @@ Article 706-55
 Le fichier national automatisé des empreintes génétiques centralise les traces
 et empreintes génétiques concernant les infractions suivantes :
 
-1° Les infractions de nature sexuelle visées à l'article 706-47 ;
+1° Les infractions de nature sexuelle visées à l'article 706-47 du présent code
+ainsi que le délit prévu par l'article 222-32 du code pénal ;
 
 2° Les crimes contre l'humanité et les crimes et délits d'atteintes volontaires
 à la vie de la personne, de torture et actes de barbarie, de violences

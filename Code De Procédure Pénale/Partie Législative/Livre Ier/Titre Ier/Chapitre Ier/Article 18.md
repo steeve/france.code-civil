@@ -25,6 +25,11 @@ territorialement compétent si le magistrat dont ils tiennent la commission ou l
 réquisition le décide. Le procureur de la République territorialement compétent
 en est informé par le magistrat ayant prescrit l'opération.
 
+Avec l'accord des autorités compétentes de l'Etat concerné, les officiers de
+police judiciaire peuvent, sur commission rogatoire expresse du juge
+d'instruction ou sur réquisitions du procureur de la République, procéder à des
+auditions sur le territoire d'un Etat étranger.
+
 Ils peuvent, sur proposition des autorités administratives dont ils dépendent et
 par habilitation du procureur général, recevoir compétence dans les mêmes
 limites de compétence territoriale que celles des officiers de police judiciaire

@@ -1,26 +1,20 @@
 Article 164
 ----
-Les experts peuvent recevoir, à titre de renseignements et pour
-l'accomplissement strict de leur mission, les déclarations de personnes autres
-que la personne mise en examen.
+Les experts peuvent recevoir, à titre de renseignement et pour le seul
+accomplissement de leur mission, les déclarations de toute personne autre que la
+personne mise en examen, le témoin assisté ou la partie civile.
 
-S'ils estiment qu'il y a lieu d'interroger la personne mise en examen et sauf
-délégation motivée délivrée à titre exceptionnel par le magistrat, il est
-procédé à cet interrogatoire en leur présence par le juge d'instruction ou le
-magistrat désigné par la juridiction en observant dans tous les cas les formes
-et conditions prévues par les articles 114, premier et deuxième alinéa, et 119.
+Toutefois, si le juge d'instruction ou le magistrat désigné par la juridiction
+les y a autorisés, ils peuvent à cette fin recevoir, avec l'accord des
+intéressés, les déclarations de la personne mise en examen, du témoin assisté ou
+de la partie civile nécessaires à l'exécution de leur mission. Ces déclarations
+sont recueillies en présence de leur avocat ou celui-ci dûment convoqué dans les
+conditions prévues par le deuxième alinéa de l'article 114, sauf renonciation
+écrite remise aux experts. Ces déclarations peuvent être également recueillies à
+l'occasion d'un interrogatoire ou d'une déposition devant le juge d'instruction
+en présence de l'expert.
 
-La personne mise en examen peut, cependant, renoncer au bénéfice de cette
-disposition par déclaration expresse devant le juge d'instruction ou le
-magistrat désigné par la juridiction et fournir aux experts, en présence de son
-avocat, les explications nécessaires à l'exécution de leur mission. La personne
-mise en examen peut également, par déclaration écrite remise par elle aux
-experts et annexée par ceux-ci à leur rapport, renoncer à l'assistance de son
-avocat pour une ou plusieurs auditions.
-
-Toutefois, les médecins et les psychologues experts chargés d'examiner la
-personne mise en examen peuvent lui poser les questions nécessaires à
-l'accomplissement de leur mission, hors la présence du juge et des avocats.
-
-Les dispositions du présent article sont également applicables au témoin assisté
-et à la partie civile.
+Les médecins ou psychologues experts chargés d'examiner la personne mise en
+examen, le témoin assisté ou la partie civile peuvent dans tous les cas leur
+poser des questions pour l'accomplissement de leur mission hors la présence du
+juge et des avocats.

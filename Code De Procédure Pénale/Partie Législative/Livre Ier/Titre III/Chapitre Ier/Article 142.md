@@ -15,7 +15,14 @@ poursuivie pour le défaut de paiement de cette dette ;
 
 b) Des amendes.
 
-La décision du juge d'instruction détermine les sommes affectées à chacune des
-deux parties du cautionnement ou des sûretés. Le juge d'instruction peut
-toutefois décider que les sûretés garantiront dans leur totalité les droits des
-victimes.
+La décision du juge d'instruction ou du juge des libertés et de la détention,
+détermine les sommes affectées à chacune des deux parties du cautionnement ou
+des sûretés. Le juge d'instruction ou le juge des libertés et de la détention
+peut toutefois décider que les sûretés garantiront dans leur totalité le
+paiement des sommes prévues au 2° ou l'une ou l'autre de ces sommes.
+
+Lorsque les sûretés garantissent, en partie ou en totalité, les droits d'une ou
+plusieurs victimes qui ne sont pas encore identifiées ou qui ne sont pas encore
+constituées parties civiles, elles sont établies, dans des conditions précisées
+par décret en Conseil d'Etat, au nom d'un bénéficiaire provisoire agissant pour
+le compte de ces victimes et, le cas échéant, du Trésor.

@@ -7,4 +7,4 @@ la cour d'assises.
 
 Le nombre des jurés figurant sur cette liste, qui ne peut être inférieur à
 cinquante ni supérieur à sept cents, est fixé, pour chaque cour d'assises, par
-décret en Conseil d'Etat.
+arrêté du ministre de la Justice.

@@ -15,5 +15,4 @@ qu'aux condamnations prononcées pour des faits commis postérieurement à leur
 entrée en vigueur ;
 
 4° Lorsque les prescriptions ne sont pas acquises, les lois relatives à la
-prescription de l'action publique et à la prescription des peines, sauf quand
-elles auraient pour résultat d'aggraver la situation de l'intéressé.
+prescription de l'action publique et à la prescription des peines.

@@ -15,6 +15,7 @@ en vue de la collecte de fonds à des fins d'entraide humanitaire ou sociale ;
 
 4° Au préjudice d'une personne dont la particulière vulnérabilité, due à son
 âge, à une maladie, à une infirmité, à une déficience physique ou psychique ou à
-un état de grossesse, est apparente ou connue de son auteur ;
+un état de grossesse, est apparente ou connue de son auteur.
 
-5° En bande organisée.
+Les peines sont portées à dix ans d'emprisonnement et à 1 000 000 euros d'amende
+lorsque l'escroquerie est commise en bande organisée.

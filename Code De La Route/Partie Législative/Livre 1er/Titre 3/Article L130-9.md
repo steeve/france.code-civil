@@ -5,7 +5,8 @@ fait l'objet d'une homologation, les constatations relatives à la vitesse des
 véhicules, aux distances de sécurité entre véhicules, au franchissement par les
 véhicules d'une signalisation imposant leur arrêt, au non-paiement des péages ou
 à la présence de véhicules sur certaines voies et chaussées, font foi jusqu'à
-preuve du contraire.
+preuve du contraire. Ces constatations peuvent faire l'objet d'un procès-verbal
+revêtu d'une signature manuelle numérisée.
 
 Lorsque ces constatations font l'objet d'un traitement automatisé d'informations
 nominatives mis en oeuvre conformément aux dispositions de la loi n° 78-17 du 6

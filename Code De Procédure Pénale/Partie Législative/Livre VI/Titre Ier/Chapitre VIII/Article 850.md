@@ -9,3 +9,9 @@ de la sécurité en mer, de réglementation sur les débits de boissons ou l'ivr
 publique manifeste et d'écobuage, qui sont punies seulement d'une peine
 d'amende, l'action publique est éteinte par le paiement d'une amende forfaitaire
 qui est exclusive de l'application des règles de la récidive. "
+
+En Nouvelle-Calédonie, pour les contraventions des quatre premières classes à la
+réglementation applicable localement en matière de transport terrestre qui sont
+seulement punies d'une peine d'amende, l'action publique est éteinte par le
+paiement d'une amende forfaitaire qui est exclusive de l'application des règles
+de la récidive.

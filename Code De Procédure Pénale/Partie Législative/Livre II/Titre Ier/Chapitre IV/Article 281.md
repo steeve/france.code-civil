@@ -1,9 +1,9 @@
 Article 281
 ----
 Le ministère public et la partie civile signifient à l'accusé, l'accusé signifie
-au ministère public et, s'il y a lieu, à la partie civile, vingt-quatre heures
-au moins avant l'ouverture des débats, la liste des personnes qu'ils désirent
-faire entendre en qualité de témoins.
+au ministère public et, s'il y a lieu, à la partie civile, dès que possible et
+vingt-quatre heures au moins avant l'ouverture des débats, la liste des
+personnes qu'ils désirent faire entendre en qualité de témoins.
 
 Les noms des experts appelés à rendre compte des travaux dont ils ont été
 chargés au cours de l'information doivent être signifiés dans les mêmes

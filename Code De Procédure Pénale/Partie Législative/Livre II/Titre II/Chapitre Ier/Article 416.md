@@ -7,6 +7,5 @@ prévenu, éventuellement assisté de son avocat, sera entendu à son domicile o
 la maison d'arrêt dans laquelle il se trouve détenu, par un magistrat commis à
 cet effet, accompagné d'un greffier. Procès-verbal est dressé de cet
 interrogatoire. Le débat est repris après citation nouvelle du prévenu, et les
-dispositions de l'article 411, alinéas 1 et 2, sont applicables, quel que soit
-le taux de la peine encourue. Dans tous les cas, le prévenu est jugé
-contradictoirement.
+dispositions de l'article 411, alinéas 1 et 2, sont applicables. Dans tous les
+cas, le prévenu est jugé contradictoirement.

@@ -8,8 +8,8 @@ questions qu'il voudrait voir poser à l'expert.
 
 Lorsque le juge d'instruction estime ne pas devoir faire droit à une demande
 d'expertise, il doit rendre une ordonnance motivée au plus tard dans un délai
-d'un mois à compter de la réception de la demande. Les dispositions des neuvième
-et dixième alinéas de l'article 81 sont applicables.
+d'un mois à compter de la réception de la demande. Les dispositions des
+avant-dernier et dernier alinéas de l'article 81 sont applicables.
 
 Les experts procèdent à leur mission sous le contrôle du juge d'instruction ou
 du magistrat que doit désigner la juridiction ordonnant l'expertise.

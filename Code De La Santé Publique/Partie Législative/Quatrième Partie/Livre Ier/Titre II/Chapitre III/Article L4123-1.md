@@ -10,6 +10,11 @@ Il autorise le président de l'ordre à ester en justice, à accepter tous dons 
 legs à l'ordre, à transiger ou compromettre, à consentir toutes aliénations ou
 hypothèques et à contracter tous emprunts.
 
+Il peut, devant toutes les juridictions, exercer tous les droits réservés à la
+partie civile relativement aux faits portant un préjudice direct ou indirect à
+l'intérêt collectif de la profession médicale, y compris en cas de menaces ou de
+violences commises en raison de l'appartenance à l'une de ces professions.
+
 En aucun cas, il n'a à connaître des actes, des attitudes, des opinions
 politiques ou religieuses des membres de l'ordre.
 

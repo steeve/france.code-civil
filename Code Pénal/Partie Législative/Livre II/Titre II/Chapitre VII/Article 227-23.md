@@ -14,7 +14,11 @@ lorsqu'il a été utilisé, pour la diffusion de l'image ou de la représentatio
 mineur à destination d'un public non déterminé, un réseau de télécommunications.
 
 Le fait de détenir une telle image ou représentation est puni de deux ans
-d'emprisonnement et [*taux*] 30000 euros d'amende.
+d'emprisonnement et 30000 euros d'amende.
+
+Les infractions prévues aux deuxième, troisième et quatrième alinéas sont punies
+de dix ans d'emprisonnement et de 500 000 Euros d'amende lorsqu'elles sont
+commises en bande organisée.
 
 Les dispositions du présent article sont également applicables aux images
 pornographiques d'une personne dont l'aspect physique est celui d'un mineur,

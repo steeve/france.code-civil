@@ -22,15 +22,34 @@ judiciaire, du procureur de la République ou du juge d'instruction, aux
 opérations permettant l'enregistrement des empreintes dans le fichier national
 automatisé des empreintes génétiques.
 
+Lorsqu'il n'est pas possible de procéder à un prélèvement biologique sur une
+personne mentionnée au premier alinéa, l'identification de son empreinte
+génétique peut être réalisée à partir de matériel biologique qui se serait
+naturellement détaché du corps de l'intéressé.
+
+Lorsqu'il s'agit d'une personne condamnée pour crime ou pour un délit puni de
+dix ans d'emprisonnement, le prélèvement peut être effectué sans l'accord de
+l'intéressé sur réquisitions écrites du procureur de la République.
+
 II. - Le fait de refuser de se soumettre au prélèvement biologique prévu au
-premier alinéa du I est puni d'un an d'emprisonnement et de 15 000 Euros
+premier alinéa du I est puni d'un an d'emprisonnement et de 15 000 euros
 d'amende.
 
 Lorsque ces faits sont commis par une personne condamnée pour crime, la peine
-est de deux ans d'emprisonnement et de 30 000 Euros d'amende.
+est de deux ans d'emprisonnement et de 30 000 euros d'amende.
 
 Nonobstant les dispositions des articles 132-2 à 132-5 du code pénal, les peines
 prononcées pour les délits prévus au présent article se cumulent, sans
 possibilité de confusion, avec celles que la personne subissait ou celles
 prononcées pour l'infraction ayant fait l'objet de la procédure à l'occasion de
 laquelle les prélèvements devaient être effectués.
+
+Le fait, pour une personne faisant l'objet d'un prélèvement, de commettre ou de
+tenter de commettre des manoeuvres destinées à substituer à son propre matériel
+biologique le matériel biologique d'une tierce personne, avec ou sans son
+accord, est puni de trois ans d'emprisonnement et de 45 000 euros d'amende.
+
+III. - Lorsque les infractions prévues par le présent article sont commises par
+une personne condamnée, elles entraînent de plein droit le retrait de toutes les
+réductions de peine dont cette personne a pu bénéficier et interdisent l'octroi
+de nouvelles réductions de peine.

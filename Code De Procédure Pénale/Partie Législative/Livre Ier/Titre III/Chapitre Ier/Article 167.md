@@ -19,7 +19,12 @@ présenter des observations ou formuler une demande, notamment aux fins de
 complément d'expertise ou de contre-expertise. Cette demande doit être formée
 conformément aux dispositions du dixième alinéa de l'article 81. Pendant ce
 délai, le dossier de la procédure est mis à la disposition des conseils des
-parties.
+parties. Le délai fixé par le juge d'instruction, qui tient compte de la
+complexité de l'expertise, ne saurait être inférieur à quinze jours ou, s'il
+s'agit d'une expertise comptable ou financière, à un mois. Passé ce délai, il ne
+peut plus être formulé de demande de contre-expertise, de complément d'expertise
+ou de nouvelle expertise portant sur le même objet, y compris sur le fondement
+de l'article 82-1, sous réserve de la survenance d'un élément nouveau.
 
 Lorsqu'il rejette une demande, le juge d'instruction rend une décision motivée
 qui doit intervenir dans un délai d'un mois à compter de la réception de la

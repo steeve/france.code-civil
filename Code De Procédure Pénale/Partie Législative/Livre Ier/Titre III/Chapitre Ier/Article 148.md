@@ -16,7 +16,9 @@ fondement de cette décision par référence aux dispositions de l'article 144.
 Toutefois, lorsqu'il n'a pas encore été statué sur une précédente demande de
 mise en liberté ou sur l'appel d'une précédente ordonnance de refus de mise en
 liberté, les délais précités ne commencent à courir qu'à compter de la décision
-rendue par la juridiction compétente.
+rendue par la juridiction compétente. Lorsqu'il a été adressé plusieurs demandes
+de mise en liberté, il peut être répondu à ces différentes demandes dans les
+délais précités par une décision unique.
 
 La mise en liberté, lorsqu'elle est accordée, peut être assortie de mesures de
 contrôle judiciaire.

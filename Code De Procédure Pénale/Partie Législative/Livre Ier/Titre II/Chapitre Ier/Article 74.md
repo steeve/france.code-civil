@@ -16,3 +16,7 @@ la justice en leur honneur et en leur conscience.
 
 Le procureur de la République peut aussi requérir information pour recherche des
 causes de la mort.
+
+Les dispositions des trois premiers alinéas sont également applicables en cas de
+découverte d'une personne grièvement blessée lorsque la cause de ses blessures
+est inconnue ou suspecte.

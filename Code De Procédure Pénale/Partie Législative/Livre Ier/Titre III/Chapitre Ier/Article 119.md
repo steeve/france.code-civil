@@ -1,11 +1,9 @@
 Article 119
 ----
-Le procureur de la République peut assister aux interrogatoires et
-confrontations de la personne mise en examen et aux auditions de la partie
-civile.
+Le procureur de la République peut assister aux interrogatoires, auditions et
+confrontations de la personne mise en examen, de la partie civile et du témoin
+assisté.
 
-Chaque fois que le procureur de la République a fait connaître au juge
-d'instruction son intention d'y assister, le greffier du juge d'instruction
-doit, sous peine d'une amende civile de 1,5 euros prononcée par le président de
-la chambre de l'instruction, l'avertir par simple note, au plus tard,
-l'avant-veille de l'interrogatoire.
+Chaque fois qu'il a fait connaître au juge d'instruction son intention d'y
+assister, le greffier du juge d'instruction doit l'avertir par simple note, au
+plus tard l'avant-veille de l'interrogatoire.

@@ -5,7 +5,9 @@ qui, dans les dix jours, peut soit former opposition par déclaration au greffe
 du tribunal, soit en poursuivre l'exécution.
 
 Cette ordonnance est portée à la connaissance du prévenu par lettre recommandée
-avec demande d'avis de réception.
+avec demande d'avis de réception. Elle peut également être portée à la
+connaissance du prévenu par le procureur de la République, directement ou par
+l'intermédiaire d'une personne habilitée.
 
 Le prévenu est informé qu'il dispose d'un délai de quarante-cinq jours à compter
 de cette notification pour former opposition à l'ordonnance et que cette

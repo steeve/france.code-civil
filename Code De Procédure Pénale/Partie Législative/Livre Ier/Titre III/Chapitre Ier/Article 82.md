@@ -14,8 +14,12 @@ mise en examen, ses réquisitions doivent être écrites et motivées par réfé
 aux seules dispositions de l'article 144.
 
 Si le juge d'instruction ne suit pas les réquisitions du procureur de la
-République, il doit, sauf dans les cas prévus par le second alinéa de l'article
-137, rendre une ordonnance motivée dans les cinq jours de ces réquisitions.
+République, il doit, sans préjudice de l'application des dispositions de
+l'article 137-4, rendre une ordonnance motivée dans les cinq jours de ces
+réquisitions.
 
 A défaut d'ordonnance du juge d'instruction, le procureur de la République peut,
-dans les dix jours, saisir directement la chambre de l'instruction.
+dans les dix jours, saisir directement la chambre de l'instruction. Il en est de
+même si le juge des libertés et de la détention, saisi par le juge
+d'instruction, ne rend pas d'ordonnance dans le délai de dix jours à compter de
+sa saisine.

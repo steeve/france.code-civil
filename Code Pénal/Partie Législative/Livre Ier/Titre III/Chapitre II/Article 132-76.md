@@ -1,9 +1,9 @@
 Article 132-76
 ----
-Les peines encourues pour un crime ou un délit sont aggravées lorsque
-l'infraction est commise à raison de l'appartenance ou de la non-appartenance,
-vraie ou supposée, de la victime à une ethnie, une nation, une race ou une
-religion déterminée.
+Dans les cas prévus par la loi, les peines encourues pour un crime ou un délit
+sont aggravées lorsque l'infraction est commise à raison de l'appartenance ou de
+la non-appartenance, vraie ou supposée, de la victime à une ethnie, une nation,
+une race ou une religion déterminée.
 
 La circonstance aggravante définie au premier alinéa est constituée lorsque
 l'infraction est précédée, accompagnée ou suivie de propos, écrits, images,

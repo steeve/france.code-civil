@@ -14,3 +14,7 @@ indique son opinion ou ses réserves en les motivant.
 Le rapport et les scellés, ou leurs résidus, sont déposés entre les mains du
 greffier de la juridiction qui a ordonné l'expertise ; ce dépôt est constaté par
 procès-verbal.
+
+Avec l'accord du juge d'instruction, les experts peuvent, directement et par
+tout moyen, communiquer les conclusions de leur rapport aux officiers de police
+judiciaire chargés de l'exécution de la commission rogatoire.

@@ -1,7 +1,8 @@
 Article 102
 ----
-Ils sont entendus séparément, et hors la présence de la personne mise en examen,
-par le juge d'instruction assisté de son greffier ; il est dressé procès-verbal
+Les témoins sont entendus, soit séparément et hors la présence des parties, soit
+lors de confrontations réalisées entre eux ou avec l'une ou l'autre des parties,
+par le juge d'instruction, assisté de son greffier ; il est dressé procès-verbal
 de leurs déclarations.
 
 Le juge d'instruction peut faire appel à un interprète majeur, à l'exclusion de

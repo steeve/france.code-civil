@@ -7,6 +7,6 @@ contravention. Dans les cas prévus par l'article 529-10, cette requête doit ê
 accompagnée de l'un des documents exigés par cet article. Cette requête est
 transmise au ministère public.
 
-A défaut de paiement ou d'une requête présentée dans le délai de trente jours,
-l'amende forfaitaire est majorée de plein droit et recouvrée au profit du Trésor
-public en vertu d'un titre rendu exécutoire par le ministère public.
+A défaut de paiement ou d'une requête présentée dans le délai de quarante-cinq
+jours, l'amende forfaitaire est majorée de plein droit et recouvrée au profit du
+Trésor public en vertu d'un titre rendu exécutoire par le ministère public.

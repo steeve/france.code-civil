@@ -5,7 +5,7 @@ et, pour les autres ressorts de cour d'assises, un juré pour mille trois cents
 habitants, sans toutefois que le nombre des jurés puisse être inférieur à deux
 cents.
 
-Un décret en Conseil d'Etat peut, pour la liste annuelle de chaque cour
+Un arrêté du ministre de la justice peut, pour la liste annuelle de chaque cour
 d'assises, fixer un nombre de jurés plus élevé que celui résultant des
 dispositions du premier alinéa, si le nombre de sessions tenues chaque année par
 la cour d'assises le justifie.

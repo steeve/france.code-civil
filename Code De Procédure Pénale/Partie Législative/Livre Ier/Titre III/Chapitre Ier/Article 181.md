@@ -8,7 +8,8 @@ Il peut également saisir cette juridiction des infractions connexes.
 
 L'ordonnance de mise en accusation contient, à peine de nullité, l'exposé et la
 qualification légale des fait, objet de l'accusation, et précise l'identité de
-l'accusé.
+l'accusé. Elle précise également, s'il y a lieu, que l'accusé bénéficie des
+dispositions de l'article 132-78 du code pénal.
 
 Lorsqu'elle est devenue définitive, l'ordonnance de mise en accusation couvre,
 s'il en existe, les vices de la procédure.
@@ -20,9 +21,6 @@ La détention provisoire ou le contrôle judiciaire des personnes renvoyées pou
 délit connexe prend fin, sauf s'il est fait application des dispositions du
 troisième alinéa de l'article 179. Le délai prévu par le quatrième alinéa de
 l'article 179 est alors porté à six mois.
-
-L'ordonnance de mise en accusation ordonne également prise de corps contre
-l'accusé, et contre les personnes renvoyées pour délits connexes.
 
 Le juge d'instruction transmet le dossier avec son ordonnance au procureur de la
 République. Celui-ci est tenu de l'envoyer sans retard au greffe de la cour

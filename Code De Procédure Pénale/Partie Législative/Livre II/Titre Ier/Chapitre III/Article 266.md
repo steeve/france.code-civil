@@ -19,5 +19,4 @@ d'assises, ou leur délégué.
 
 Sont également remplacés sur la liste de session et sur la liste des jurés
 suppléants, dans le cas où ils sont tirés au sort, les noms des personnes qui,
-dans l'année, ont satisfait aux réquisitions prescrites par les alinéas 2 et 3
-de l'article 267.
+dans l'année, ont satisfait aux réquisitions prescrites par l'article 267.

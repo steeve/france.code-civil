@@ -17,7 +17,10 @@ n'est toutefois plus recevable à l'issue d'un délai de trois mois lorsque l'av
 d'amende forfaitaire majorée est envoyé par lettre recommandée à l'adresse
 figurant sur le certificat d'immatriculation du véhicule, sauf si le
 contrevenant justifie qu'il a, avant l'expiration de ce délai, déclaré son
-changement d'adresse au service d'immatriculation des véhicules.
+changement d'adresse au service d'immatriculation des véhicules ; dans ce
+dernier cas, le contrevenant n'est redevable que d'une somme égale au montant de
+l'amende forfaitaire s'il s'en acquitte dans un délai de quarante-cinq jours, ce
+qui a pour effet d'annuler le titre exécutoire pour le montant de la majoration.
 
 La réclamation doit être accompagnée de l'avis correspondant à l'amende
 considérée ainsi que, dans le cas prévu par l'article 529-10, de l'un des

@@ -3,8 +3,9 @@ Article 400
 Les audiences sont publiques.
 
 Néanmoins, le tribunal peut, en constatant dans son jugement que la publicité
-est dangereuse pour l'ordre ou les moeurs, ordonner, par jugement rendu en
-audience publique, que les débats auront lieu à huis clos.
+est dangereuse pour l'ordre, la sérénité des débats, la dignité de la personne
+ou les intérêts d'un tiers, ordonner, par jugement rendu en audience publique,
+que les débats auront lieu à huis clos.
 
 Lorsque le huis clos a été ordonné, celui-ci s'applique au prononcé des
 jugements séparés qui peuvent intervenir sur des incidents ou exceptions ainsi

@@ -10,7 +10,7 @@ ainsi qu'il est dit aux articles 194 et suivants. Après qu'elle a été saisie,
 chambre de l'instruction peut soit prononcer le renvoi devant la juridiction de
 jugement ou la mise en accusation devant la cour d'assises, soit déclarer qu'il
 n'y a pas lieu à suivre, soit évoquer et procéder dans les conditions prévues
-aux articles 201, 202 et 204, soit renvoyer le dossier de la procédure au même
+aux articles 201,202 et 204, soit renvoyer le dossier de la procédure au même
 juge d'instruction ou à tel autre, afin de poursuivre l'information.
 
 Dans la négative, il ordonne, par décision motivée, que le dossier de

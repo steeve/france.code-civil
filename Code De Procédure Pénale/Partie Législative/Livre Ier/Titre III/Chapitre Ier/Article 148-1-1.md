@@ -4,7 +4,7 @@ Lorsqu'une ordonnance de mise en liberté d'une personne placée en détention
 provisoire est rendue par le juge des libertés et de la détention ou le juge
 d'instruction contrairement aux réquisitions du procureur de la République,
 cette ordonnance est immédiatement notifiée à ce magistrat. Pendant un délai de
-quatre heures à compter de la notification de l'ordonnance du procureur de la
+quatre heures à compter la notification de l'ordonnance au procureur de la
 République, et sous réserve de l'application des dispositions du dernier alinéa
 du présent article, la personne mise en examen ne peut être remise en liberté et
 cette décision ne peut être adressée pour exécution au chef de l'établissement

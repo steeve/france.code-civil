@@ -1,14 +1,6 @@
 Article 221-5-1
 ----
-Les personnes morales peuvent être déclarées pénalement responsables dans les
-conditions prévues par l'article 121-2 des infractions définies à la présente
-section.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 ;
-
-2° Les peines mentionnées à l'article 131-39.
-
-L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans
-l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise.
+Le fait de faire à une personne des offres ou des promesses ou de lui proposer
+des dons, présents ou avantages quelconques afin qu'elle commette un assassinat
+ou un empoisonnement est puni, lorsque ce crime n'a été ni commis ni tenté, de
+dix ans d'emprisonnement et de 150 000 euros d'amende.

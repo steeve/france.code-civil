@@ -19,3 +19,10 @@ des contraventions au code de la route, la compétence territoriale des
 juridictions de proximité est celle des tribunaux de police, y compris des
 tribunaux d'instance ayant compétence exclusive en matière pénale en application
 des dispositions de l'article L. 623-2 du code de l'organisation judiciaire.
+
+Lorsque la juridiction de proximité constate que la qualification retenue dans
+l'acte qui la saisit concerne des faits relevant de la compétence du tribunal de
+police, elle renvoie l'affaire devant ce tribunal après s'être déclarée
+incompétente. Il en est de même lorsque le tribunal de police est saisi de faits
+relevant de la compétence de la juridiction de proximité. Ce renvoi peut le cas
+échéant se faire à une audience qui se tient le même jour.

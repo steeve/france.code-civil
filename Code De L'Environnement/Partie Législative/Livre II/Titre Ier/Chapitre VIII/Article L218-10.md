@@ -1,6 +1,6 @@
 Article L218-10
 ----
-I. - Est puni de quatre ans d'emprisonnement et de 600 000 euros d'amende le
+I. - Est puni de dix ans d'emprisonnement et de 1 000 000 euros d'amende le
 fait, pour tout capitaine d'un navire français soumis aux dispositions de la
 convention internationale pour la prévention de la pollution par les navires,
 faite à Londres le 2 novembre 1973, telle que modifiée par le protocole du 17
@@ -20,3 +20,7 @@ II. - Les pénalités prévues au présent article sont applicables au responsab
 bord de l'exploitation des plates-formes immatriculées en France pour les rejets
 en mer effectués en infraction aux règles 9 et 10 de l'annexe I de cette
 convention.
+
+III. - La peine d'amende prévue au I peut être portée, au-delà de ce montant, à
+une somme équivalente à la valeur du navire ou à quatre fois la valeur de la
+cargaison transportée ou du fret.

@@ -4,8 +4,9 @@ Le procureur de la République près un tribunal de grande instance autre que
 celui de Paris peut, pour les infractions entrant dans le champ d'application de
 l'article 706-16, requérir le juge d'instruction de se dessaisir au profit de la
 juridiction d'instruction de Paris. Les parties sont préalablement avisées et
-invitées à faire connaître leurs observations ; l'ordonnance est rendue huit
-jours au plus tôt après cet avis.
+invitées à faire connaître leurs observations par le juge d'instruction ;
+l'ordonnance est rendue huit jours au plus tôt et un mois au plus tard à compter
+de cet avis.
 
 L'ordonnance par laquelle le juge d'instruction se dessaisit ne prend effet qu'à
 compter du délai de cinq jours prévu par l'article 706-22 ; lorsqu'un recours

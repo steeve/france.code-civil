@@ -10,5 +10,6 @@ années révolues à compter du dernier acte. Il en est ainsi même à l'égard 
 personnes qui ne seraient pas impliquées dans cet acte d'instruction ou de
 poursuite.
 
-Le délai de prescription de l'action publique des crimes commis contre des
-mineurs ne commence à courir qu'à partir de la majorité de ces derniers.
+Le délai de prescription de l'action publique des crimes mentionnés à l'article
+706-47 et commis contre des mineurs est de vingt ans et ne commence à courir
+qu'à partir de la majorité de ces derniers.
