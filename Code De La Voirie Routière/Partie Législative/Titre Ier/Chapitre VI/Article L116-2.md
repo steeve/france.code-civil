@@ -5,8 +5,8 @@ fonctionnaires et agents par les lois et règlements en vigueur, peuvent
 constater les infractions à la police de la conservation du domaine public
 routier et établir les procès-verbaux concernant ces infractions :
 
-1° Sur les voies de toutes catégories, les gardes champêtres des communes et les
-gardes particuliers assermentés ;
+1° Sur les voies de toutes catégories, les agents de police municipale, les
+gardes champêtres des communes et les gardes particuliers assermentés ;
 
 2° Sur les voies publiques ressortissant à leurs attributions :
 

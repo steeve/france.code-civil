@@ -8,15 +8,15 @@ dans leurs annexes et dépendances, sauf s'ils constituent un domicile, où sont
 en cours des activités de construction, de production, de transformation, de
 réparation, de prestation de services ou de commercialisation, en vue :
 
-- de s'assurer que ces activités ont donné lieu à l'immatriculation au
-répertoire des métiers ou au registre du commerce et des sociétés lorsqu'elle
-est obligatoire, ainsi qu'aux déclarations exigées par les organismes de
-protection sociale et l'administration fiscale ;
+-de s'assurer que ces activités ont donné lieu à l'immatriculation au répertoire
+des métiers ou au registre du commerce et des sociétés lorsqu'elle est
+obligatoire, ainsi qu'aux déclarations exigées par les organismes de protection
+sociale et l'administration fiscale ;
 
-- de se faire présenter le registre unique du personnel et les documents
+-de se faire présenter le registre unique du personnel et les documents
 attestant que les déclarations préalables à l'embauche ont été effectuées ;
 
-- de contrôler l'identité des personnes occupées, dans le seul but de vérifier
+-de contrôler l'identité des personnes occupées, dans le seul but de vérifier
 qu'elles figurent sur le registre ou qu'elles ont fait l'objet des déclarations
 mentionnées à l'alinéa précédent.
 

@@ -6,9 +6,9 @@ susceptibles d'apporter des éléments de preuves intéressant l'enquête peuven
 sur autorisation du procureur de la République, déclarer comme domicile
 l'adresse du commissariat ou de la brigade de gendarmerie.
 
-Les fonctionnaires de la police nationale et les militaires de la gendarmerie
-nationale concourant à la procédure sont autorisés à déclarer comme domicile
-l'adresse du siège du service dont ils dépendent.
+Les personnels visés aux articles 16 à 29 concourant à la procédure sont
+autorisés à déclarer comme domicile l'adresse du siège du service dont ils
+dépendent.
 
 L'adresse des personnes ayant bénéficié des dispositions du premier alinéa est
 inscrite sur un registre coté, paraphé, ouvert à cet effet. Un décret en Conseil

@@ -6,7 +6,11 @@ de leurs attributions et sous son autorité, les tâches relevant de la compéte
 du maire que celui-ci leur confie en matière de prévention et de surveillance du
 bon ordre, de la tranquillité, de la sécurité et de la salubrité publiques.
 
-Ils sont chargés d'assurer l'exécution des arrêtés de police du maire.
+Ils sont chargés d'assurer l'exécution des arrêtés de police du maire et de
+constater par procès-verbaux les contraventions auxdits arrêtés. Sans préjudice
+des compétences qui leur sont dévolues par des lois spéciales, ils constatent
+également par procès-verbaux les contraventions aux dispositions du code de la
+route dont la liste est fixée par décret en Conseil d'Etat.
 
 Ils exercent leurs fonctions sur le territoire communal, dans les conditions
 prévues aux quatrième à septième alinéas de l'article 21 du code de procédure
