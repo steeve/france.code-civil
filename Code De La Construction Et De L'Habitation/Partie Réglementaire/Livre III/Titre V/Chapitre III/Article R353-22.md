@@ -1,5 +1,8 @@
 Article R353-22
 ----
-Le montant du cautionnement qui peut être demandé au locataire lors de l'entrée
-dans les lieux est au plus égal à un mois de loyer en principal, révisable en
-fonction de l'évolution de ce dernier.
+Pour l'exécution des travaux nécessitant l'évacuation temporaire des lieux, le
+bailleur doit mettre provisoirement à la disposition du locataire un logement
+répondant à des conditions définies par les conventions.
+
+Les travaux font l'objet d'une attestation d'exécution conforme établie par le
+préfet ou son représentant.

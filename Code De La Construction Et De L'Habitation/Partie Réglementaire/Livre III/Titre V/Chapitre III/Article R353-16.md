@@ -1,8 +1,6 @@
 Article R353-16
 ----
-Les conventions fixent les conditions d'occupation des logements, conformément à
-celles prévues par l'article R. 441-3.
-
-Au fur et à mesure des vacances, les logements sont loués à des personnes dont
-les ressources annuelles n'excèdent pas le plafond déterminé dans les conditions
-prévues par le titre III, chapitre unique, section I, du présent livre.
+Le loyer maximum applicable aux logements conventionnés dont la valeur est fixée
+au mètre carré de surface corrigée, telle que résultant des dispositions de
+l'article R. 422-1 et de l'article 4 du décret n. 60-1063 du 1er octobre 1960,
+ainsi que les conditions de son évolution, sont fixés par les conventions.

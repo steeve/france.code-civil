@@ -1,11 +1,7 @@
 Article R353-17
 ----
-Au moins quinze jours avant la date de signature du bail, en cas de vacance du
-logement, l'organisme bailleur adresse au candidat locataire une lettre portant
-réservation du logement pendant un délai minimum de quinze jours. Dans le cas où
-le logement est disponible à plus brève échéance, ce délai peut être ramené à
-huit jours francs.
-
-L'organisme bailleur est tenu [*obligation*] de proposer un bail conforme à la
-convention auquel sont annexés une copie de ladite convention, ainsi que les
-éléments du barème de l'aide personnalisée au logement.
+Les loyers pratiqués, dont la valeur est fixée au mètre carré de surface
+corrigée dans les conditions définies à l'article R. 353-16, peuvent être
+modifiés le 1er janvier et le 1er juillet de chaque année selon les modalités
+fixées par les conventions. Le nouveau loyer doit être notifié au locataire dans
+les conditions fixées par les conventions [*révision*].
