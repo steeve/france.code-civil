@@ -4,7 +4,7 @@ Sont exonérés de la taxe :
 
 1° Les véhicules ayant plus de vingt-cinq ans d'âge ;
 
-2° Les véhicules mentionnés à l'article R 105 du code de la route, qui sont
+2° Les véhicules mentionnés à l'article R. 317-24 du code de la route, qui sont
 destinés normalement au transport en commun de personnes ;
 
 3° Les véhicules affectés au transport des personnes, bénéficiaires d'une
