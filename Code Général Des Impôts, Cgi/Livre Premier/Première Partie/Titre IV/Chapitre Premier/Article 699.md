@@ -9,6 +9,5 @@ septembre 1954.
 
 Conformément aux dispositions de l'article 119-5 du code minier, les échanges
 prévus à l'alinéa ci-dessus ne pourront être réalisés qu'après autorisation
-donnée par décret en conseil d'Etat. Ce décret devra préciser que l'opération
-autorisée bénéficie du régime d'exonération fixé par le présent article; il sera
-contresigné par le ministre de l'économie et des finances.
+donnée par le ministre chargé des mines. Cette autorisation devra préciser que
+l'opération bénéficie du régime d'exonération fixé par le présent article.
