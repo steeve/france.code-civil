@@ -4,9 +4,9 @@ Article 223 O
 le montant de l'impôt sur les sociétés dont elle est redevable au titre de
 chaque exercice :
 
-a) Des avoirs fiscaux et crédits d'impôt attachés aux produits reçus par une
+a. Des avoirs fiscaux et crédits d'impôt attachés aux produits reçus par une
 société du groupe et qui n'ont pas ouvert droit à l'application du régime des
-sociétés mères visé aux articles 145 et 216 (1);
+sociétés mères visé aux articles 145 et 216 ;
 
 b. Des crédits d'impôt pour dépenses de recherche dégagés par chaque société du
 groupe en application de l'article 244 quater B. Le crédit d'impôt imputable par
@@ -30,23 +30,39 @@ deux années précédentes.
 Les dispositions de l'article 199 ter B s'appliquent au crédit d'impôt imputable
 par la société mère ainsi déterminé.
 
-c) Des crédits d'impôt pour dépenses de formation dégagés par chaque société du
+c. Des crédits d'impôt pour dépenses de formation dégagés par chaque société du
 groupe en application de l'article 244 quater C. Les dispositions du premier
 alinéa de l'article 199 ter C s'appliquent à la somme de ces crédits d'impôt.
 
-d) Des crédits d'impôt pour investissement dégagés par chaque société du groupe
+d. Des crédits d'impôt pour investissement dégagés par chaque société du groupe
 en application de l'article 244 quater E ; les dispositions de l'article 199 ter
 D s'appliquent à la somme de ces crédits d'impôts.
 
-e) Des réductions d'impôt dégagées par chaque société du groupe en application
+e. Des réductions d'impôt dégagées par chaque société du groupe en application
 de l'article 238 bis.
 
-f) Des crédits d'impôt dégagés par chaque société du groupe en application de
+f. Des crédits d'impôt dégagés par chaque société du groupe en application de
 l'article 244 quater F ; les dispositions de l'article 199 ter E s'appliquent à
 la somme de ces crédits d'impôt ;
 
-g) Des crédits d'impôt dégagés par chaque société du groupe en application de
+g. Des crédits d'impôt dégagés par chaque société du groupe en application de
 l'article 220 sexies ; les dispositions de l'article 220 F s'appliquent à la
 somme de ces crédits d'impôt.
+
+i. Des crédits d'impôt dégagés par chaque société du groupe en application de
+l'article 244 quater H ; les dispositions de l'article 220 I s'appliquent à la
+somme de ces crédits d'impôt (1) (2).
+
+j. Des crédits d'impôt dégagés par chaque société du groupe en application de
+l'article 244 quater I ; les dispositions de l'article 220 J s'appliquent à la
+somme de ces crédits d'impôt (1).
+
+k. Des crédits d'impôt dégagés par chaque société du groupe en application de
+l'article 244 quater J ; les dispositions de l'article 220 K s'appliquent à la
+somme de ces crédits d'impôt (3).
+
+l. Des crédits d'impôt dégagés par chaque société du groupe en application de
+l'article 244 quater K ; les dispositions de l'article 199 ter J s'appliquent à
+la somme de ces crédits d'impôt (4).
 
 2. abrogé

@@ -11,6 +11,9 @@ a. Le montant net des plus-values à long terme fait l'objet d'une imposition
 séparée au taux de 19 %, dans les conditions prévues au 1 du I de l'article 39
 quindecies et à l'article 209 quater.
 
+Pour les exercices ouverts à compter du 1er janvier 2005, le taux d'imposition
+visé à l'alinéa précédent est fixé à 15 %.
+
 L'excédent éventuel des moins-values à long terme ne peut être imputé que sur
 les plus-values à long terme réalisées au cours des dix exercices suivants.
 
@@ -19,7 +22,7 @@ exercices ouverts à compter du 1er janvier 1994 sont imputées sur les
 plus-values à long terme imposées au taux de 19 %. L'excédent des moins-values à
 long terme subies au cours d'un exercice ouvert à compter du 1er janvier 1994
 peut être déduit des bénéfices de l'exercice de liquidation d'une entreprise à
-raison des 19/33,33e de son montant (1).
+raison des 19/33,33e de son montant.
 
 a ter. Le régime des plus-values et moins-values à long terme cesse de
 s'appliquer au résultat de la cession de titres du portefeuille réalisée au
@@ -29,7 +32,7 @@ parts de fonds commun de placement à risques ou de société de capital risque 
 remplissent les conditions prévues au II de l'article 163 quinquies B ou aux
 articles 1er modifié ou 1er-1 de la loi n° 85-695 du 11 juillet 1985 portant
 diverses dispositions d'ordre économique et financier et qui sont détenues par
-l'entreprise depuis au moins cinq ans (2).
+l'entreprise depuis au moins cinq ans.
 
 Pour les exercices ouverts à compter de la même date, le régime des plus ou
 moins-values à long terme cesse également de s'appliquer en ce qui concerne les
@@ -132,16 +135,50 @@ les bénéfices imposables. Cette imputation n'est possible que dans la limite d
 gains nets retirés de la cession des éléments d'actifs exclus du régime des plus
 et moins-values à long terme en application du premier alinéa ;
 
+a quinquies. Pour les exercices ouverts à compter du 1er janvier 2006, le
+montant net des plus-values à long terme afférentes à des titres de
+participation fait l'objet d'une imposition séparée au taux de 8 %. Ce taux est
+fixé à 0 % pour les exercices ouverts à compter du 1er janvier 2007.
+
+Pour les exercices ouverts à compter du 1er janvier 2007, une quote-part de
+frais et charges égale à 5 % du résultat net des plus-values de cession est
+prise en compte pour la détermination du résultat imposable.
+
+Les titres de participation mentionnés au premier alinéa sont les titres de
+participation revêtant ce caractère sur le plan comptable, les actions acquises
+en exécution d'une offre publique d'achat ou d'échange par l'entreprise qui en
+est l'initiatrice et les titres ouvrant droit au régime des sociétés mères si
+ces actions ou titres sont inscrits en comptabilité au compte titres de
+participation ou à une subdivision spéciale d'un autre compte du bilan
+correspondant à leur qualification comptable, à l'exception des titres des
+sociétés à prépondérance immobilière.
+
+La fraction des moins-values à long terme existant à l'ouverture du premier des
+exercices ouverts à compter du 1er janvier 2006 afférente à des éléments exclus
+du bénéfice des taux définis au premier alinéa demeure imputable sur les
+plus-values à long terme imposées au taux visé au a, sous réserve de justifier
+la ou les cessions de ces éléments. Elle est majorée, le cas échéant, des
+provisions dotées au titre de ces mêmes éléments et non réintégrées à cette
+date, dans la limite des moins-values à long terme reportables à l'ouverture du
+premier des exercices ouverts à compter du 1er janvier 2006.
+
+La fraction des moins-values à long terme existant à l'ouverture du premier des
+exercices ouverts à compter du 1er janvier 2006, non imputable en vertu des
+dispositions de l'alinéa précédent, peut être déduite des plus-values à long
+terme afférentes aux titres de participation définis au troisième alinéa
+imposables au titre des seuls exercices ouverts en 2006. Le solde de cette
+fraction et l'excédent éventuel des moins-values à long terme afférentes aux
+titres de participation définis au troisième alinéa constaté au titre des
+exercices ouverts à compter du 1er janvier 2006 ne sont plus imputables ou
+reportables à partir des exercices ouverts à compter du 1er janvier 2007.
+
 b. Par exception au deuxième alinéa du présent I et au premier alinéa du a, pour
 les redevables ayant réalisé un chiffre d'affaires de moins de 7 630 000 euros
 au cours de l'exercice ou de la période d'imposition, ramené s'il y a lieu à
 douze mois, le taux de l'impôt applicable au bénéfice imposable est fixé, dans
 la limite de 38 120 euros de bénéfice imposable par période de douze mois, à 25
 % pour les exercices ouverts en 2001 et à 15 % pour les exercices ouverts à
-compter du 1er janvier 2002. Toutefois, pour les exercices ouverts en 2001, les
-résultats relevant du régime des plus values à long terme sont imposés au taux
-prévu au a et ne sont pas pris en compte pour l'appréciation de la limite de 38
-120 euros.
+compter du 1er janvier 2002.
 
 Pour la société mère d'un groupe mentionné à l'article 223 A, le chiffre
 d'affaires est apprécié en faisant la somme des chiffres d'affaires de chacune
@@ -268,8 +305,9 @@ opérations de construction correspondantes présentent un caractère accessoire
 pour la société intéressée.
 
 IV. - Le taux de l'impôt est fixé à 16,5 % en ce qui concerne les plus-values
-imposables en application du 2 de l'article 221 et du deuxième alinéa de
-l'article 223 F, relatives aux immeubles et parts des organismes mentionnés au
-dernier alinéa du II de l'article 208 C inscrits à l'actif des sociétés
-d'investissements immobiliers cotées et de leurs filiales qui ont opté pour le
-régime prévu à cet article.
+imposables en application du 2 de l'article 221, du deuxième alinéa de l'article
+223 F et de l'article 208 C ter, relatives aux immeubles, droits afférents à un
+contrat de crédit-bail et parts des organismes mentionnés au dernier alinéa du
+II de l'article 208 C inscrits à l'actif des sociétés d'investissements
+immobiliers cotées et de leurs filiales qui ont opté pour le régime prévu à cet
+article.

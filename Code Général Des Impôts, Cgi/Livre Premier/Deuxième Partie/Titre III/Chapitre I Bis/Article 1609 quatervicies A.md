@@ -25,9 +25,15 @@ caractéristiques acoustiques de l'appareil.
 
 Un décret précise les conditions d'application du présent III.
 
-IV. - Le produit de la taxe est affecté, pour l'aérodrome où se situe son fait
-générateur, au financement des aides aux riverains prévues aux articles L.
-571-14 à L. 571-16 du code de l'environnement.
+IV. - Le produit de la taxe est affecté, pour l'aérodrome où se situe le fait
+générateur, au financement des aides versées à des riverains en application des
+articles L. 571-14 à L. 571-16 du code de l'environnement et, le cas échéant,
+dans la limite de la moitié du produit annuel de la taxe, au remboursement à des
+personnes publiques des annuités des emprunts qu'elles ont contractés pour
+financer des travaux de réduction des nuisances sonores prévus par des
+conventions passées avec l'exploitant de l'aérodrome sur avis conformes de la
+commission prévue par l'article L. 571-16 du code de l'environnement et du
+ministre chargé de l'aviation civile.
 
 Le tarif de la taxe applicable sur chaque aérodrome est compris entre les
 valeurs inférieure et supérieure du groupe dont il relève, en fonction du besoin
@@ -39,8 +45,10 @@ prévisible des plans de gêne sonore et de celle des coûts d'insonorisation.
 Toulouse-Blagnac : de 10 Euros à 22 Euros ;
 
 2e groupe : aérodromes de Bordeaux-Mérignac, Lyon - Saint-Exupéry,
-Marseille-Provence, Nantes-Atlantique, Nice-Côte d'Azur, Strasbourg-Entzheim :
-de 4 Euros à 8 Euros.
+Marseille-Provence, Nantes-Atlantique, Nice-Côte d'Azur : de 4 Euros à 8 Euros.
+
+3e groupe : les autres aérodromes qui dépassent le seuil fixé au I du présent
+article : de 0,5 Euros à 3 Euros.
 
 Un arrêté, pris par les ministres chargés du budget, de l'aviation civile et de
 l'environnement, fixe le tarif de la taxe applicable pour chaque aérodrome.

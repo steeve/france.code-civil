@@ -25,6 +25,22 @@ d'activité ;
 d'assiette aux droits d'enregistrement exigibles en application des articles
 719, 720 ou 724 n'excède pas 300 000 euros.
 
+4° Le cédant ne doit pas être dans l'une, au moins, des situations suivantes :
+
+a) Le cédant, son conjoint, le partenaire auquel il est lié par un pacte civil
+de solidarité défini à l'article 515-1 du code civil, leurs ascendants et
+descendants, leurs frères et soeurs détiennent ensemble, directement ou
+indirectement, plus de 50 % des droits de vote ou des droits dans les bénéfices
+sociaux de la société, de la personne morale ou du groupement cessionnaire ;
+
+b) Le cédant exerce en droit ou en fait, directement ou indirectement, la
+direction effective de la société, de la personne morale ou du groupement
+cessionnaire.
+
+I bis. - L'exonération prévue au I est remise en cause si le cédant vient à se
+trouver dans l'une ou l'autre des situations visées au 4° du I à un moment
+quelconque au cours des trois années qui suivent la réalisation de la cession.
+
 II. - Par dérogation aux dispositions du I, les plus-values réalisées à
 l'occasion de la cession de biens immobiliers bâtis ou non bâtis, compris, le
 cas échéant, dans la branche complète d'activité cédée, demeurent imposables

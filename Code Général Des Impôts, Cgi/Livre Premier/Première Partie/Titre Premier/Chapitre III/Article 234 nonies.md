@@ -4,17 +4,13 @@ I. - Il est institué une contribution annuelle sur les revenus retirés de la
 location de locaux situés dans des immeubles achevés depuis quinze ans au moins
 au 1er janvier de l'année d'imposition, acquittée par les bailleurs.
 
-II. - La contribution est également applicable aux revenus tirés de la location
-de locaux mentionnés au I, lorsqu'ils ont fait l'objet de travaux
-d'agrandissement, de construction ou de reconstruction au sens du b du 1° du I
-de l'article 31, financés avec le concours de l'Agence nationale pour
-l'amélioration de l'habitat.
+II. - (Abrogé)
 
 III. - Sont exonérés de la contribution les revenus tirés de la location :
 
 1° dont le montant annuel n'excède pas 1 830 euros par local ;
 
-2° qui donne lieu au paiement de la taxe sur la valeur ajoutée :
+2° qui donne lieu au paiement de la taxe sur la valeur ajoutée ;
 
 3° consentie à l'Etat ou aux établissements publics nationaux scientifiques,
 d'enseignement, d'assistance ou de bienfaisance ;
@@ -39,12 +35,17 @@ cadre d'opérations confiées par les collectivités publiques, ainsi que de ceu
 appartenant aux houillères de bassin ;
 
 9° des immeubles faisant partie de villages de vacances ou de maisons familiales
-de vacances agréés.
+de vacances agréés ;
 
 10° Des logements appartenant aux organismes sans but lucratif qui les mettent à
 la disposition de personnes défavorisées mentionnées à l'article 1er de la loi
 n° 90-449 du 31 mai 1990 visant à la mise en oeuvre du droit au logement et qui
-ont été agréés à cet effet par le représentant de l'Etat dans le département
-(1).
+ont été agréés à cet effet par le représentant de l'Etat dans le département (1)
+;
+
+11° Des logements qui ont fait l'objet de travaux de réhabilitation définis par
+décret, lorsque ces travaux ont été financés à hauteur d'au moins 15 % de leur
+montant par une subvention versée par l'Agence nationale pour l'amélioration de
+l'habitat, pour les quinze années suivant celle de l'achèvement des travaux.
 
 IV. et V. (Abrogés).

@@ -1,6 +1,6 @@
 Article L2313-1
 ----
-- Les budgets de la commune restent déposés à la mairie et, le cas échéant, à la
+Les budgets de la commune restent déposés à la mairie et, le cas échéant, à la
 mairie annexe où ils sont mis sur place à la disposition du public dans les
 quinze jours qui suivent leur adoption ou éventuellement leur notification après
 règlement par le représentant de l'Etat dans le département.
@@ -43,6 +43,15 @@ partenariat prévus à l'article L. 1414-1 ;
 Dans ces mêmes communes de 3 500 habitants et plus, les documents visés au 1°
 font l'objet d'une insertion dans une publication locale diffusée dans la
 commune.
+
+Les communes et leurs groupements de 10 000 habitants et plus ayant institué la
+taxe d'enlèvement des ordures ménagères conformément aux articles 1520, 1609
+bis, 1609 quater, 1609 quinquies C, 1609 nonies A ter, 1609 nonies B et 1609
+nonies D du code général des impôts et qui assurent au moins la collecte des
+déchets ménagers retracent dans un état spécial annexé aux documents
+budgétaires, d'une part, le produit perçu de la taxe précitée, et d'autre part,
+les dépenses, directes et indirectes, afférentes à l'exercice de la compétence
+susmentionnée.
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent
 article.

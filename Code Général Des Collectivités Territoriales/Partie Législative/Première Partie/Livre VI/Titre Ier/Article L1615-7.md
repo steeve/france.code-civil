@@ -46,7 +46,13 @@ leurs immobilisations affectées à l'usage d'alpage.
 Par dérogation au premier alinéa, les collectivités territoriales et leurs
 groupements bénéficient des attributions du Fonds de compensation pour la taxe
 sur la valeur ajoutée au titre de leurs dépenses d'investissement réalisées sur
-la période 2003-2005, sous maîtrise d'ouvrage publique, en matière
+la période 2003-2006, sous maîtrise d'ouvrage publique, en matière
 d'infrastructures passives intégrant leur patrimoine dans le cadre du plan
 d'action relatif à l'extension de la couverture du territoire par les réseaux de
 téléphonie mobile.
+
+Lorsque les travaux sont effectués sur la base d'études préparatoires réalisées
+à compter de 2003, par une collectivité territoriale ou un établissement public
+de coopération intercommunale autre que celui ayant réalisé les études, les
+dépenses relatives aux études préalables sont éligibles au fonds de compensation
+pour la taxe sur la valeur ajoutée.
