@@ -9,8 +9,9 @@ Ce droit est de :
 1° 22 euros pour les ordonnances pénales en matière contraventionnelle ou
 correctionnelle ;
 
-2° 22 euros pour les autres décisions des tribunaux de police et celles des
-juridictions qui ne statuent pas sur le fond ;
+2° 22 euros pour les autres décisions des tribunaux de police et des
+juridictions de proximité (1) et celles des juridictions qui ne statuent pas sur
+le fond ;
 
 3° 90 euros pour les décisions des tribunaux correctionnels ;
 
