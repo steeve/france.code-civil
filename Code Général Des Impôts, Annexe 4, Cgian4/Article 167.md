@@ -6,8 +6,6 @@ L'office national de la navigation;
 
 La caisse nationale de prévoyance;
 
-La caisse nationale des marchés de l'Etat;
-
 La caisse nationale du crédit agricole;
 
 Les chambres de commerce et d'industrie et ports autonomes;
@@ -20,8 +18,6 @@ L'entreprise minière et chimique;
 
 Les régies municipales intercommunales et départementales exploitant des
 services à caractère industriel et commercial;
-
-Le service de l'exploitation industrielle des tabacs et des allumettes.
 
 2. Sont notamment soumis au régime prévu à l'article 165-2 :
 

@@ -21,8 +21,6 @@ La caisse générale de garantie des assurances sociales;
 
 La caisse de compensation pour la décentralisation de l'industrie aéronautique;
 
-La caisse nationale des marchés de l'Etat;
-
 Les chambres de commerce et d'industrie et ports autonomes;
 
 Les chambres d'agriculture;
