@@ -7,7 +7,7 @@ intervient à compter du soixantième anniversaire de l'intéressé ou
 ultérieurement, est subordonné à la cessation définitive de l'activité non
 salariée et, pour les assurés exerçant une activité salariée, à la rupture
 définitive de tout lien professionnel avec l'employeur. Cette condition cesse
-d'être appliquée à compter du 31 décembre 1993.
+d'être appliquée à compter du 31 décembre 1998.
 
 Le service d'une pension de retraite ou allocation liquidée par le régime
 d'assurance vieillesse des personnes non salariées des professions agricoles est
@@ -24,8 +24,8 @@ alinéa de l'article L. 161-22 du code de la sécurité sociale ou d'une pension
 vieillesse liquidée postérieurement au 30 juin 1984 dans un des régimes énumérés
 au premier alinéa de l'article L. 634-6 du code de la sécurité sociale.
 
-Elles ne font pas obstacle à l'exercice des activités énumérées aux 1°, 2° et 3°
-de l'article L. 161-22 du code de la sécurité sociale.
+Elles ne font pas obstacle à l'exercice des activités énumérées aux 1°, 2°, 3°,
+4° et 5° de l'article L. 161-22 du code de la sécurité sociale.
 
 Sous réserve des dispositions de l'article L. 815-2 du code de la sécurité
 sociale, le schéma directeur départemental des structures agricoles, fixé après
