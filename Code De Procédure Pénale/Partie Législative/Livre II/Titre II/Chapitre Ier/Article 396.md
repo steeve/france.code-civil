@@ -17,7 +17,7 @@ Il peut placer le prévenu en détention provisoire jusqu'à sa comparution deva
 le tribunal. L'ordonnance prescrivant la détention est rendue suivant les
 modalités prévues par les articles 135 et 145-1, quatrième alinéa, et doit
 comporter l'énoncé des considérations de droit et de fait qui constituent le
-fondement de la décision par référence aux dispositions des 1° et 2° de
+fondement de la décision par référence aux dispositions des 1°, 2° et 3° de
 l'article 144. Cette décision énonce les faits retenus et saisit le tribunal ;
 elle est notifiée verbalement au prévenu et mentionnée au procès-verbal dont
 copie lui est remise sur-le-champ. Le prévenu doit comparaître devant le
