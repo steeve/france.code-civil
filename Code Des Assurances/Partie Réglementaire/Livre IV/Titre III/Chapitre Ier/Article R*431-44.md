@@ -1,17 +1,19 @@
 Article R*431-44
 ----
-La commission consultative de garanties est réunie par son président sur son
-initiative ou à la demande soit du ministre de l'économie et des finances, soit
-du directeur général de la caisse centrale de réassurance.
+La Caisse centrale de réassurance constitue une provision spéciale pour charges
+exceptionnelles afférentes aux opérations garantissant les risques mentionnés à
+l'article L. 431-3, alinéa 1.
 
-Outre les questions dont elle connaît obligatoirement en vertu des articles R.
-431-38, R. 431-39 et R. 431-40, la commission peut-être consultée par le
-ministre de l'économie et des finances ou par le directeur général de la Caisse
-centrale de réassurance sur toutes questions sur lesquelles ils estiment
-souhaitable de recueillir son avis.
+Cette provision est alimentée par un prélèvement sur les primes égal à 0,10 % de
+l'estimation de la somme des valeurs garanties par la Caisse centrale de
+réassurance au cours de l'exercice considéré, sans que ce prélèvement puisse
+excéder le tiers du montant des primes nettes conservées correspondant aux
+opérations visées ci-dessus.
 
-En cas d'urgence, le directeur général de la caisse centrale de réassurance peut
-prendre, sur les questions soumises à l'avis de la commission consultative, en
-application de l'article R. 431-38, une décision sans lui demander son avis
-préalable. Dans ce cas, il doit avoir l'accord du ministre et informer
-préalablement le président de la commission.
+Ce prélèvement cesse d'être obligatoire lorsque la provision spéciale pour
+charges exceptionnelles atteint un montant égal à la moyenne des cinq risques
+les plus élevés garantis.
+
+Le montant de la provision inscrite dans le compte distinct ouvert dans les
+écritures de la Caisse centrale de réassurance, en application de l'article L.
+431-6, est affecté à la provision spéciale pour charges exceptionnelles.

@@ -1,6 +1,5 @@
 Article R*431-39
 ----
-Les polices d'assurance et les traités de réassurance doivent être conformes à
-des polices ou traités types dont les clauses sont arrêtées par le ministre de
-l'économie et des finances, après avis de la commission consultative des
-garanties.
+Les commissions qui peuvent être allouées aux intermédiaires et aux cédants sont
+fixées par la caisse centrale de réassurance sans pouvoir excéder les limites
+autorisées par le ministre de l'économie, des finances et du budget.
