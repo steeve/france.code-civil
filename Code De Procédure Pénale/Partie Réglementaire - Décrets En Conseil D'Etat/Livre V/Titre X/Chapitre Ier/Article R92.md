@@ -22,10 +22,8 @@ prévues aux articles R. 121 et R. 121-1 du présent code.
 application des articles R. 123 à R. 146 et aux parties civiles par application
 des articles 375-1 et 422.
 
-5° Les frais de saisie ou de mise sous séquestre ou en fourrière, les frais en
-matière de scellés et ceux de l'immobilisation décidée en application de
-l'article 43-3 (3° bis) du code pénal [* article(s) abrogé(s), cf. article(s)
-131-6, 131-7 et 131-9 du nouveau code pénal *].
+5° Les frais de saisie ou de mise sous séquestre ou en fourrière, ainsi que les
+frais en matière de scellés.
 
 6° Les frais d'enquête sociale et d'expertise engagés en matière d'exécution ou
 d'application des peines et en matière de grâces.
@@ -63,3 +61,15 @@ le cadre d'une procédure pénale.
 17° Les frais et dépens mis à la charge du Trésor public en cas de décision
 juridictionnelle rectifiant ou interprétant une précédente décision en matière
 pénale.
+
+18° Les frais de recherche et de délivrance de reproductions de tous documents
+imprimés ;
+
+19° Les frais de remise ou de mise en oeuvre des conventions secrètes de moyens
+ou prestations de cryptologie engagés à la demande des autorités judiciaires par
+les organismes agréés mentionnés à l'article 28 de la loi n° 90-1170 du 29
+décembre 1990 sur la réglementation des télécommunications ;
+
+20° Les indemnités et vacations qui peuvent être accordées aux membres
+titulaires et suppléants de la formation de jugement de la Cour de justice de la
+République selon les modalités prévues au décret n° 95-692 du 9 mai 1995.

@@ -39,14 +39,18 @@ décomposition avancée ... Cs 10
 6° Pour autopsie de cadavre de nouveau-né après exhumation ou autopsie de
 cadavre de nouveau-né en état de décomposition avancée ... Cs 5
 
-7° Pour une expertise psychologique comportant un ou plusieurs examens :
+7° Pour une expertise médico-psychologique comportant un ou plusieurs examens,
+pratiquée par un médecin ayant également la qualité de psychologue, intervenant
+en qualité d'expert unique :
 
-- pratiquée par un médecin ... K 36
+CNPSY 5 ;
 
-- pratiquée par un psychologue agréé ... 50 % du tarif ci-dessus
+8° Pour la partie médicale de l'expertise médico-psychologique pratiquée par un
+médecin et un psychologue mentionnée au 2° de l'article R. 120-2 : C 3,5 ;
 
-8° Pour une expertise médico-psychologique comportant un ou plusieurs examens
-... CNPSY 5
+9° Pour une expertise psychiatrique comportant un ou plusieurs examens : CNPSY 6
+;
 
-9° Pour une expertise psychiatrique comportant un ou plusieurs examens ... CNPSY
-5.
+10° Pour une expertise psychiatrique comportant un ou plusieurs examens et
+concernant une personne poursuivie ou condamnée pour infraction sexuelle : CNPSY
+6,5.
