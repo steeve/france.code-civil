@@ -14,8 +14,8 @@ l'article 119 bis du code général des impôts ;
 4° A la taxe forfaitaire sur les plus-values de liquidation de certaines
 sociétés prévue à l'article 239 bis B ;
 
-5° A la taxe sur les encours de crédit prévue à l'article 235 ter N du même code
-(1) ;
+5° (Disposition devenue sans objet : loi n° 88-1149 du 23 décembre 1988, art.
+23) ;
 
 6° A la taxe sur les salaires ;
 
