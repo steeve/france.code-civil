@@ -23,12 +23,12 @@ c) Trois représentants par établissement de plus de 750 lits.
 
 d) Six représentants par centre hospitalier régional.
 
-Toutefois, par application du second alinéa de l'article L. 713-6, aucun
+Toutefois, par application du second alinéa de l'article L. 6132-7, aucun
 établissement ne peut obtenir la majorité absolue des sièges.
 
 Pour l'application du troisième alinéa du présent article, il n'est pas tenu
 compte des lits qui ne sont pas affectés au service public hospitalier défini à
-l'article L. 711-3, ni des lits qui ne sont pas effectivement et régulièrement
+l'article L. 6112-1, ni des lits qui ne sont pas effectivement et régulièrement
 en service. Le nombre de lits de moyen ou de long séjour est compté pour moitié
 ; celui des lits et places de psychiatrie est compté pour les deux tiers. En cas
 de contestation, le nombre de lits qui doit être retenu est constaté par le

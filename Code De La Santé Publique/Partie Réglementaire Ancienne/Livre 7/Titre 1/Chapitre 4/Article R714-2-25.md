@@ -86,3 +86,30 @@ des consommateurs, des familles, des personnes âgées et des personnes
 handicapées et dont le directeur de l'agence estime que l'objet social
 correspond le mieux à l'orientation médicale et médico-sociale de
 l'établissement.
+
+III. - Les membres des conseils d'administration des établissements publics de
+santé interhospitaliers mentionnés à l'article R. 714-2-7-1, qui ne sont ni
+président ni membres de droit, sont désignés dans les conditions suivantes :
+
+1° Les représentants des collectivités territoriales, les personnalités
+qualifiées et les représentants des usagers sont respectivement désignés parmi
+les membres siégeant en ces qualités au sein des conseils d'administration des
+établissements fondateurs par l'ensemble des membres de ces conseils, dans la
+limite du nombre total de représentants attribué à chacun de ces établissements
+par l'acte de création conformément au III de l'article R. 714-2-7-1.
+
+A défaut d'accord entre les conseils d'administration des établissements
+fondateurs pour désigner leurs représentants, le directeur de l'agence régionale
+de l'hospitalisation indique à chaque établissement fondateur le nombre de
+représentants qu'il lui revient de désigner au titre de chacune des catégories
+mentionnées aux 1°, 6° et 7° des I ou II de l'article R. 714-2-7-1, dans la
+limite du nombre de représentants qui lui est attribué par l'acte de création
+conformément au III du même article. Les représentants sont alors élus parmi les
+membres siégeant au titre de chacune des catégories considérées au sein de
+chaque conseil d'administration des établissements fondateurs, par l'ensemble
+des membres de ce conseil ;
+
+2° Les représentants de la commission médicale d'établissement, le représentant
+de la commission du service de soins infirmiers et les représentants des
+personnels titulaires relevant du titre IV du statut général des fonctionnaires
+sont désignés dans les conditions prévues aux 2° et 3° du II ci-dessus.

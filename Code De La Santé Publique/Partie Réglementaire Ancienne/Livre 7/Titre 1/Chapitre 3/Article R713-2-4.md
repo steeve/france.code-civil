@@ -2,7 +2,7 @@ Article R713-2-4
 ----
 Le nombre de représentants au conseil d'administration des personnels médicaux
 du syndicat et celui des représentants de ses personnels non médicaux sont
-fixés, dans les limites prescrites au troisième alinéa de l'article L. 713-6,
+fixés, dans les limites prescrites au troisième alinéa de l'article L. 6132-7,
 par des décisions concordantes des conseils d'administration ou organes
 qualifiés des établissements publics et privés formant le syndicat et, pour ceux
 qui ne sont pas dotés de la personnalité morale, des collectivités publiques ou

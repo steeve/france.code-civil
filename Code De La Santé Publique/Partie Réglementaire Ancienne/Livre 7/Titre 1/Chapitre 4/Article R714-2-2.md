@@ -17,7 +17,7 @@ désigné par le conseil régional ;
 
 4° Les treize membres mentionnés aux 6° à 11° de l'article R. 714-2-1.
 
-Sous réserve des dispositions de l'avant-dernier alinéa de l'article L. 714-2,
+Sous réserve des dispositions de l'avant-dernier alinéa de l'article L. 6143-5,
 le président du conseil d'administration est élu par le conseil parmi les
 représentants des collectivités territoriales ou parmi les personnalités
 qualifiées.

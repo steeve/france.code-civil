@@ -2,7 +2,7 @@ Article R714-2-13
 ----
 Lorsque le président du conseil d'administration a été désigné par le maire ou
 le président du conseil général dans les conditions prévues au huitième alinéa
-de l'article L. 714-2, son mandat prend fin en même temps que le mandat électif
+de l'article L. 6143-5, son mandat prend fin en même temps que le mandat électif
 du maire ou du président du conseil général.
 
 Si le président du conseil d'administration désigné dans les conditions

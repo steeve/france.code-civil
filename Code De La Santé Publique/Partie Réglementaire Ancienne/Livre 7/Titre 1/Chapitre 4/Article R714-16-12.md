@@ -1,8 +1,9 @@
 Article R714-16-12
 ----
 La commission médicale d'établissement des syndicats inter-hospitaliers qui
-gèrent un ou des services médicaux, odontologiques ou pharmaceutiques est
-composée comme suit :
+gèrent un ou des services médicaux, odontologiques ou pharmaceutiques ou qui
+sont autorisés à exercer les missions d'un établissement de santé dans les
+conditions prévues à l'article L. 6132-2 est composée comme suit :
 
 1° L'ensemble des praticiens exerçant à titre permanent, dans les conditions
 prévues par l'acte constitutif, dans les services gérés par le syndicat, qu'ils
@@ -15,10 +16,9 @@ désignés :
 A. - Dans les établissements où elles existent, et en leur sein, par les
 commissions médicales dont, de droit, les présidents de ces commissions ;
 
-B. - Dans les autres structures ou organismes, par la conférence médicale ou, à
-défaut, par l'ensemble du personnel médical exerçant dans la structure ou
-l'organisme. Chacun des établissements adhérents doit bénéficier, à ce titre,
-d'au moins un siège.
+B. - Dans les autres structures ou organismes par l'ensemble du personnel
+médical exerçant dans la structure ou l'organisme. Chacun des établissements
+adhérents doit bénéficier, à ce titre, d'au moins un siège.
 
 Toutefois, lorsque le nombre d'établissements adhérant au syndicat est supérieur
 au nombre de praticiens appelés à siéger au titre du 1°, la commission médicale
