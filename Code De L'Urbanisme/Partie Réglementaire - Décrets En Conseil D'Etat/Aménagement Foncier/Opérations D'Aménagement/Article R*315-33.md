@@ -1,14 +1,17 @@
 Article R*315-33
 ----
 Par dérogation aux dispositions de l'article R. 315-32, l'arrêté d'autorisation
-de lotir ou un arrêté ultérieur peut prévoir la faculté pour le lotisseur de
-procéder à la vente ou à la location des lots avant l'exécution de tout ou
-partie des travaux prescrits, dans l'une ou l'autre des hypothèses suivantes :
+de lotir ou un arrêté ultérieur pris dans les conditions prévues au paragraphe 2
+ou 3 de la section IV du présent chapitre peut prévoir la faculté pour le
+lotisseur de procéder à la vente ou à la location des lots avant l'exécution de
+tout ou partie des travaux prescrits, dans l'une ou l'autre des hypothèses
+suivantes :
 
-a) Le lotisseur demande l'autorisation de différer, en vue d'éviter la
+a) Le demandeur sollicite l'autorisation de différer, en vue d'éviter la
 dégradation des voies pendant la construction des bâtiments, la réalisation du
-revêtement définitif desdites voies, l'aménagement des trottoirs et la pose de
-leurs bordures ainsi que les plantations prescrites.
+revêtement définitif desdites voies, l'aménagement des trottoirs, la pose de
+leurs bordures, la mise en place des équipements dépendants de ces trottoirs
+ainsi que les plantations prescrites.
 
 Dans ce cas, cette dérogation est subordonnée à l'engagement du demandeur de
 terminer les travaux dans les délais que fixe l'arrêté et, si le lotisseur n'est
