@@ -2,10 +2,10 @@ Article 92 B
 ----
 Sont considérés comme des bénéfices non commerciaux, les gains nets retirés des
 cessions à titre onéreux, effectuées directement ou par personne interposée, de
-valeurs mobilières inscrites à la cote officielle d'une bourse de valeurs ou
-négociées sur le marché hors cote, de droits portant sur ces valeurs ou de
-titres représentatifs de telles valeurs, lorsque le montant de ces cessions
-excède, par foyer fiscal, 150.000 F par an.
+valeurs mobilières inscrites à la cote officielle ou à la cote du second marché
+d'une bourse de de valeurs ou négociées sur le marché hors cote, de droits
+portant sur ces valeurs ou de titres représentatifs de telles valeurs, lorsque
+le montant de ces cessions excède, par foyer fiscal, 150.000 F par an.
 
 Toutefois, dans des cas et conditions fixés par décret en conseil d'Etat (1) et
 correspondant à l'intervention d'un évènement exceptionnel dans la situation
