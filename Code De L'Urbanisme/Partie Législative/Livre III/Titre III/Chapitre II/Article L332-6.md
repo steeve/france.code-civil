@@ -14,5 +14,3 @@ publics donnant lieu à la participation instituée dans les secteurs
 d'aménagement définis à l'article L. 332-9 ;
 
 3° La réalisation des équipements propres mentionnées à l'article L. 332-15.
-
-4° La participation à la diversité de l'habitat prévue à l'article L. 332-17.
