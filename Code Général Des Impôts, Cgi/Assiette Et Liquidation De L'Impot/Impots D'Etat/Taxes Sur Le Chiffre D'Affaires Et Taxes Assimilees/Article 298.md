@@ -70,7 +70,7 @@ sous réserve de ce qui est dit aux a, b et c.
 1° ter a. La taxe sur la valeur ajoutée afférente aux achats, importations,
 livraisons et services portant sur le gazole utilisé comme carburant est
 déductible à concurrence de 50 % de son montant, dans les conditions prévues aux
-articles 271 à 273 (1).
+articles 271 à 273.
 
 Ce pourcentage est limité à 10 % pour 1982, 20 % pour 1983, 30 % pour 1984 et 40
 % pour le premier semestre de 1985.
@@ -88,7 +88,16 @@ l'article 265 du code des douanes sous le numéro de tarif douanier 27-10 CI-c,
 indice d'identification 19.
 
 b. Les dispositions du a sont applicables au gaz de pétrole liquéfié (n° 27-11
-B-I-e du tarif des douanes) utilisé comme carburant routier.
+B-I-e du tarif des douanes) utilisé comme carburant routier (1) ;
+
+1° quater La taxe sur la valeur ajoutée afférente aux achats, importations,
+livraisons et services portant sur le fioul [*fuel*] domestique utilisé pour des
+usages agricoles est déductible à concurrence de 50 p. 100 de son montant, dans
+les conditions fixées aux articles 271 à 273, par les personnes visées à
+l'article 298 bis.
+
+Le fioul domestique visé au présent article s'entend du produit mentionné au
+tableau B de l'article 265 du code des douanes (2) ;
 
 2° La taxe sur la valeur ajoutée ayant grevé les biens ou les services utilisés
 pour l'extraction, la fabrication, le transport par pipe-line ou le stockage des
@@ -123,17 +132,12 @@ générale des impôts.
 
 6 Les dispositions du 4-1° et 2° ne s'appliquent pas en ce qui concerne les gaz
 de pétrole et autres hydrocarbures gazeux, repris au tableau B de l'article 265
-du code des douanes sous le numéro 27-11 B II (indices d'identification 6 et 7).
+du code des douanes sous le numéro 27-11 B II (indices d'identification 5 bis, 6
+et 7).
 
-7 Les personnes assujetties à la taxe sur la valeur ajoutée applicable aux
-produits repris aux tableaux B et C annexés à l'article 265 du code des douanes
-ne peuvent, pour l'ensemble de leurs opérations, opposer l'exception
-d'incompétence à l'encontre des agents de la direction générale des douanes et
-droits indirects ou de la direction générale des impôts qui contrôlent la
-régularité des déductions prévues par l'article 271 du code général des impôts
-et qui poursuivent la régularisation des déductions opérées indûment sur les
-taxes payées à l'une ou l'autre de ces administrations.
+7 (Transféré sous l'article L 45 C du livre des procédures fiscales).
 
-(1) Dispositions applicables aux achats, importations, livraisons et services
-pour lesquels le droit à déduction a pris naissance après le 30 juin 1982 (loi
-n° 82-540 du 28 juin 1982 art. 3 V).
+(1) Disposition applicable à compter du 1er janvier 1985.
+
+(2) Pour l'application de ces dispositions, les droits à déduction sont pris en
+compte à compter du 1er janvier 1986.

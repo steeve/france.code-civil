@@ -3,7 +3,7 @@ Article 219
 I. Pour le calcul de l'impôt, toute fraction du bénéfice imposable inférieure à
 10 F est négligée.
 
-Le taux de l'impôt est fixé à 50 %.
+Le taux de l'impôt est fixé à 45 % (1).
 
 Toutefois :
 
@@ -15,9 +15,8 @@ L'excédent éventuel des moins-values à long terme ne peut être imputé que s
 les plus-values à long terme réalisées au cours des dix exercices suivants.
 
 Toutefois, en cas de liquidation d'entreprise, cet excédent peut être déduit des
-bénéfices de l'exercice de liquidation à raison des trois dixièmes de son
-montant en ce qui concerne les moins-values subies au cours des exercices clos à
-compter du 1er décembre 1973.
+bénéfices de l'exercice de liquidation à raison des quinze quarante-cinquièmes
+de son montant (2).
 
 Le montant net des plus-values à long terme visées à l'article 39 quindecies-II
 fait l'objet d'une imposition séparée au taux de 25 % dans les conditions
@@ -41,7 +40,7 @@ profits réalisés à l'occasion de la cession d'immeubles ayant fait l'objet d'
 permis de construire délivré entre le 1er janvier 1966 et le 1er janvier 1972
 [*période*] ou pour lesquels aura été déposée, avant le 1er janvier 1972, la
 déclaration de construction visée à l'article L 430-3 du code de l'urbanisme
-(1).
+(3).
 
 Toutefois, en ce qui concerne ces profits :
 
@@ -51,5 +50,10 @@ b. L'application de ce taux réduit est subordonnée à la condition que les
 opérations de construction correspondantes présentent un caractère accessoire
 pour la société intéressée.
 
-(1) Dans sa rédaction antérieure à la loi n° 76-1285 du 31 décembre 1976 (J.O.
+(1) Taux applicable au bénéfice des exercices ouverts après le 31 décembre 1985.
+
+(2) Cette fraction s'applique aux cessations intervenues au cours d'un exercice
+ouvert aprés le 31 décembre 1985.
+
+(3) Dans sa rédaction antérieure à la loi n° 76-1285 du 31 décembre 1976 (J.O.
 du 1er janvier 1977).

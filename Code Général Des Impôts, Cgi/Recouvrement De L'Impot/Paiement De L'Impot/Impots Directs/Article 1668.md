@@ -2,9 +2,9 @@ Article 1668
 ----
 1 L'impôt sur les sociétés est payé au comptable du Trésor chargé du
 recouvrement des impôts directs en quatre termes déterminés provisoirement
-d'après le résultat du dernier exercice clos et calculé sur les neuf dixièmes du
-bénéfice imposable et, en ce qui concerne les sociétés nouvellement créées, sur
-le produit évalué à 5 % du capital social.
+d'après le résultat du dernier exercice clos et calculé sur le bénéfice
+imposable et, en ce qui concerne les sociétés nouvellement créées, sur le
+produit évalué à 5 % du capital social.
 
 Les paiements doivent être effectués dans les vingt premiers jours des mois de
 février, mai, août et novembre de chaque année [*date*].

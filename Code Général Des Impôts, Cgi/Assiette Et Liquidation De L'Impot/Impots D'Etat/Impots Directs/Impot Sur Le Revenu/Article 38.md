@@ -54,8 +54,18 @@ initialement comptabilisés sont déterminés à la clôture de chaque exercice 
 fonction du dernier cours de change et pris en compte pour la détermination du
 résultat imposable de l'exercice (2).
 
+5. Le profit ou la perte résultant de cessions de titres par un fonds commun de
+placement est compris dans le résultat de l'exercice au cours duquel les parts
+du fonds sont cédées par l'entreprise. Le profit ou la perte est déterminé par
+différence entre le prix de cession et la valeur des parts au bilan de
+l'entreprise (3).
+
 (1) En ce qui concerne les plus-values réalisées dans le cadre des opérations de
 nationalisation, voir art. 248 A.
 
 (2) Ces dispositions s'appliquent pour la détermination des résultats des
 exercices clos à compter du 31 décembre 1983.
+
+(3) Disposition applicable pour la détermination des résultats des exercices
+clos à compter du 16 avril 1986. Pour les exercices en cours à cette date, voir
+loi n°86-824 du 11 juillet 1986, art. 21-II.
