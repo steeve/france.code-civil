@@ -35,4 +35,7 @@ Seine-Saint-Denis ;
 
 6° La direction de la logistique de la préfecture de police dans les
 départements de Paris, des Hauts-de-Seine, du Val-de-Marne et de la
-Seine-Saint-Denis.
+Seine-Saint-Denis ;
+
+7° Les circonscriptions de sécurité publique dont la compétence couvre un
+département ainsi qu'une partie d'un ou plusieurs départements limitrophes.

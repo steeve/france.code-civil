@@ -25,6 +25,10 @@ en Conseil d'Etat.
 Chacune de ces formalités de publicité mentionne le ou les lieux où le dossier
 peut être consulté.
 
+L'acte qui institue ou qui supprime la limitation des droits à construire en cas
+de division d'un terrain bâti en application de l'article L. 123-1-1 est adressé
+au Conseil supérieur du notariat et à la chambre départementale des notaires.
+
 L'arrêté ou la délibération produit ses effets juridiques dès l'exécution de
 l'ensemble des formalités prévues au premier alinéa ci-dessus, la date à prendre
 en compte pour l'affichage étant celle du premier jour où il est effectué.

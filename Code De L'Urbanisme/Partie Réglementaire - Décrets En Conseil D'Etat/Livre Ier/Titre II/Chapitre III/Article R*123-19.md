@@ -20,11 +20,9 @@ Toutefois, le maire ou le président de l'établissement public exerce les
 compétences attribuées au préfet par les articles R. 11-14-2 à R. 11-14-5 et R.
 11-14-7 à R. 11-14-15 du même code.
 
-Le dossier est composé du rapport de présentation, du projet d'aménagement et de
-développement durable, du règlement ainsi que de leurs documents graphiques, des
-annexes et des avis émis par les collectivités ou organismes associés ou
-consultés. Il peut être complété par tout ou partie des documents mentionnés à
-l'article R. 121-1.
+Le dossier est composé des pièces mentionnées à l'article R. 123-1 et des avis
+émis par les collectivités ou organismes associés ou consultés. Il peut être
+complété par tout ou partie des documents mentionnés à l'article R. 121-1.
 
 L'approbation du plan local d'urbanisme dispense de l'enquête préalable aux
 classements et déclassements de voies et places publiques communales prévus à ce
