@@ -75,7 +75,7 @@ organisations patronales interprofessionnelles les plus représentatives ;
 - un salarié désigné par les organisations nationales les plus représentatives
 des ingénieurs et cadres supérieurs ;
 
-6° Les personnes désignées à l'article 1653 A-I-3° [*notaire*] et 4°.
+6° Les personnes désignées à l'article 1653 A-I-4° [*notaire*] et 5°.
 
 Pour chacune des catégories visées aux 2° à 5°, le nombre des membres suppléants
 est porté à seize pour la Ville de Paris.
@@ -101,7 +101,8 @@ locataires dans le département.
 
 Lorsqu'il existe plusieurs organismes représentatifs pour les propriétaires ou
 les locataires dans le département, et à défaut d'accord entre eux, les membres
-de la commission sont désignés par le préfet sur proposition de ces organismes.
+de la commission sont désignés par le commissaire de la République sur
+proposition de ces organismes.
 
 3. Les membres désignés par les chambres de commerce et d'industrie sont appelés
 à siéger à la commission lorsque le différend soumis à cette dernière porte soit
