@@ -8,11 +8,10 @@ nationale de l'assurance maladie des travailleurs salariés et présente les
 positions de chacune des caisses. Il est transmis au Parlement ainsi qu'aux
 ministres chargés de la sécurité sociale, de la santé, de l'agriculture, de
 l'économie et du budget dans un délai de cinquante jours à compter de la
-publication de la loi de financement de la sécurité sociale, accompagné des
-annexes mentionnées à l'article L. 162-15-2 et, le cas échéant, des mesures
-déterminées par la Caisse nationale de l'assurance maladie des travailleurs
-salariés et au moins une autre caisse nationale d'assurance maladie en
-application du dernier alinéa du I de cet article.
+publication de la loi de financement de la sécurité sociale, accompagné le cas
+échéant, des mesures déterminées par la Caisse nationale de l'assurance maladie
+des travailleurs salariés et au moins une autre caisse nationale d'assurance
+maladie.
 
 Ce rapport comporte les éléments permettant d'apprécier la compatibilité des
 annexes ou des mesures déterminées par les caisses nationales avec l'objectif de
@@ -38,30 +37,21 @@ sécurité sociale, le rapport est établi sous la responsabilité de la Caisse
 nationale de l'assurance maladie des travailleurs salariés et présente les
 positions de chacune des caisses. Il est transmis au Parlement ainsi qu'aux
 ministres chargés de la sécurité sociale, de la santé, de l'agriculture, de
-l'économie et du budget au plus tard respectivement les 15 juillet et 15
-novembre, accompagné, le cas échéant, des annexes modificatives mentionnées à
-l'article L. 162-15-2 et des mesures déterminées par la Caisse nationale de
-l'assurance maladie des travailleurs salariés et au moins une autre caisse
-nationale d'assurance maladie en application de l'avant-dernier alinéa du II de
-cet article.
+l'économie et du budget au plus tard le 15 juillet, accompagné, le cas échéant,
+des mesures déterminées par la Caisse nationale de l'assurance maladie des
+travailleurs salariés et au moins une autre caisse nationale d'assurance
+maladie.
 
 Le contenu du rapport est défini par un arrêté conjoint des ministres chargés de
 la sécurité sociale, de la santé, de l'agriculture, de l'économie et du budget.
-Le rapport transmis au plus tard le 15 novembre établit également un bilan des
-dépenses pour l'année en cours ainsi que des annexes modificatives et des
-mesures prises en vertu de l'article L. 162-15-2. Les annexes et, le cas
-échéant, les mesures accompagnant ce rapport tiennent compte de l'objectif
-national de dépenses d'assurance maladie visé au 4° du I de l'article LO 111-3
-proposé dans le projet de loi de financement de la sécurité sociale déposé pour
-l'année suivante à l'Assemblée nationale.
 
-III. - Les annexes et, le cas échéant, les mesures déterminées par la Caisse
-nationale de l'assurance maladie des travailleurs salariés et au moins une autre
-caisse nationale d'assurance maladie au titre de l'article L. 162-15-2 font
-l'objet d'une approbation unique des ministres chargés de la sécurité sociale,
-de la santé, de l'agriculture, de l'économie et du budget.
+III. - Les mesures déterminées par la Caisse nationale de l'assurance maladie
+des travailleurs salariés et au moins une autre caisse nationale d'assurance
+maladie au titre de l'article L. 162-15-2 font l'objet d'une approbation unique
+des ministres chargés de la sécurité sociale, de la santé, de l'agriculture, de
+l'économie et du budget.
 
-Ces annexes sont réputées approuvées si les ministres n'ont pas fait connaître à
+Ces mesures sont réputées approuvées si les ministres n'ont pas fait connaître à
 la Caisse nationale de l'assurance maladie des travailleurs salariés, dans le
 délai de quinze jours à compter de leur réception, qu'ils s'opposent à leur
 approbation du fait de leur non-conformité aux lois et règlements en vigueur ou
@@ -70,20 +60,14 @@ des risques que leur application ferait courir à la santé publique ou à un é
 accès aux soins.
 
 En cas d'opposition, la Caisse nationale de l'assurance maladie des travailleurs
-salariés dispose d'un délai de dix jours pour revoir le contenu des annexes et
+salariés dispose d'un délai de dix jours pour revoir le contenu des mesures et
 les présenter à nouveau, dans les conditions fixées au premier alinéa du I et au
 II ci-dessus, aux ministres compétents.
 
-IV. - En cas d'opposition du ministre aux nouvelles propositions de la caisse,
-un arrêté interministériel fixe :
+IV. - (Abrogé)
 
-1° Au plus tard le soixante-quinzième jour suivant la publication de la loi de
-financement de la sécurité sociale, les éléments des annexes annuelles ;
-
-2° Au plus tard les 31 juillet et 30 novembre, les tarifs liés aux ajustements
-prévus au II de l'article L. 162-15-2.
-
-V. - Les tarifs des honoraires, rémunérations et frais accessoires dus par les
-assurés sociaux aux professionnels de santé, en vigueur le 31 décembre de
-l'année précédente, sont prorogés jusqu'à l'entrée en vigueur de l'annexe ou
-d'un arrêté pris en application du présent article.
+V. - En l'absence de convention, les tarifs des honoraires, rémunérations et
+frais accessoires dus par les assurés sociaux aux professionnels concernés, en
+vigueur au 31 décembre de l'année précédente, sont prorogés jusqu'à l'entrée en
+vigueur des mesures fixées par les caisses nationales dans les conditions
+prévues à l'article L. 162-15-2.
