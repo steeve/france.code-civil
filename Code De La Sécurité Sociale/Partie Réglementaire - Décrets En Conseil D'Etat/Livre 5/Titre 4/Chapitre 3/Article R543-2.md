@@ -5,5 +5,5 @@ atteindra son sixième anniversaire avant le 1er février de l'année suivant ce
 de la rentrée scolaire.
 
 L'allocation reste due, lors de chaque rentrée scolaire, pour tout enfant qui
-n'a pas atteint l'âge de seize ans révolus au 15 septembre de l'année considérée
-.
+n'a pas atteint l'âge de dix-huit ans révolus au 15 septembre de l'année
+considérée.
