@@ -6,3 +6,7 @@ La commission organise ce contrôle et en définit les modalités ; à cette fin
 sont mis à sa disposition, en tant que de besoin, les membres de l'inspection
 générale des affaires sociales ainsi que les autres fonctionnaires commissionnés
 par elle qui sont nécessaires à l'exercice de sa mission.
+
+Pour le contrôle des institutions de prévoyance, sont également mis à la
+disposition de la commission, en tant que de besoin, les commissaires
+contrôleurs des assurances, dans des conditions définies par décret.

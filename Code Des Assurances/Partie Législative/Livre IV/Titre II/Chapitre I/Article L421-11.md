@@ -3,16 +3,9 @@ Article L421-11
 Le fonds de garantie est chargé de l'indemnisation des victimes d'accidents
 causés par les véhicules dont la circulation entraîne l'application d'une
 obligation d'assurance de la responsabilité civile et qui ont leur stationnement
-habituel en France métropolitaine ou à Monaco, lorsque ces accidents surviennent
-sur le territoire d'un des Etats membres de la Communauté économique européenne
-autres que la France, ainsi que sur le territoire des Etats suivants :
-Saint-Siège, Saint-Marin, Autriche, Finlande, Norvège, Suède, Suisse et
-Liechtenstein.
-
-L'Etat où le véhicule a son stationnement habituel est soit l'Etat
-d'immatriculation du véhicule, soit, à défaut d'obligation d'immatriculation,
-l'Etat sur le territoire duquel est domiciliée la personne qui a la garde du
-véhicule.
+habituel en France métropolitaine ou à Monaco lorsque ces accidents surviennent
+sur le territoire d'un Etat visé à l'article L. 211-4 à l'exception de la France
+et de Monaco.
 
 L'intervention du fonds de garantie est subordonnée aux conditions ci-après :
 
