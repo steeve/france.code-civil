@@ -2,8 +2,7 @@ Article L441-2
 ----
 Il est créé, dans chaque organisme d'habitations à loyer modéré, une commission
 d'attribution chargée d'attribuer nominativement chaque logement locatif
-composée de six membres qui élisent en leur sein un président qui dispose d'une
-voix prépondérante.
+composée de six membres qui élisent en leur sein un président.
 
 Dans les mêmes conditions, une commission d'attribution est créée sur demande
 d'un établissement public de coopération intercommunale compétent ou, le cas
@@ -12,7 +11,8 @@ de celle-ci, un même organisme dispose de plus de 2 000 logements locatifs
 sociaux.
 
 En outre, le maire de la commune où sont implantés les logements attribués, ou
-son représentant, est membre de droit des commissions d'attribution.
+son représentant, est membre de droit des commissions d'attribution. Il dispose
+d'une voix prépondérante en cas d'égalité des voix.
 
 Le représentant de l'Etat dans le département, ou l'un de ses représentants
 membre du corps préfectoral, assiste, sur sa demande, à toute réunion de la

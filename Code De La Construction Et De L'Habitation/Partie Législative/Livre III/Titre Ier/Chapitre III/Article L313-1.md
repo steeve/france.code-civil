@@ -11,9 +11,9 @@ des règles prévues aux chapitres Ier et II du titre IV du livre II du code de 
 sécurité sociale, des rémunérations versées par eux au cours de l'exercice
 écoulé au financement :
 
-a) De construction ou d'acquisition de logements, d'aménagement ou de remise en
-état de logements anciens, d'acquisition et d'aménagement de terrains destinés
-exclusivement à la construction de logements sociaux ;
+a) De construction, d'acquisition ou de démolition de logements, d'aménagement
+ou de remise en état de logements anciens, d'acquisition et d'aménagement de
+terrains destinés exclusivement à la construction de logements sociaux ;
 
 b) De prise en charge temporaire, en cas de difficultés exceptionnelles des
 emprunteurs, d'une partie des remboursements de prêts immobiliers destinés à
@@ -26,6 +26,8 @@ et charges apportées aux bailleurs ;
 d) De dépenses d'accompagnement social dans le domaine du logement ;
 
 e) D'aides à des organismes agréés d'information du public sur le logement.
+
+f) De subventions à l'Agence nationale pour la rénovation urbaine.
 
 Ces dispositions sont applicables aux établissements publics ayant un caractère
 industriel ou commercial, ainsi qu'aux organismes de l'Etat, des collectivités
@@ -57,5 +59,5 @@ entreprise ayant employé dix salariés ou plus au cours de l'une des trois ann�
 précédentes.
 
 Dans ce cas, l'obligation visée au premier alinéa du présent article est due
-dans les conditions de droit commun dés l'année au cours de laquelle l'effectif
+dans les conditions de droit commun dès l'année au cours de laquelle l'effectif
 de dix salariés est atteint ou dépassé.

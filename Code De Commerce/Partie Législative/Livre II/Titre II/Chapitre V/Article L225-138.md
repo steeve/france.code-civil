@@ -12,6 +12,17 @@ déterminés par l'assemblée générale extraordinaire sur rapport du conseil
 d'administration ou du directoire et sur rapport spécial du commissaire aux
 comptes.
 
+Lorsque l'assemblée générale extraordinaire supprime le droit préférentiel de
+souscription en faveur d'une ou plusieurs catégories de personnes répondant à
+des caractéristiques qu'elle fixe elle-même, elle peut déléguer au conseil
+d'administration ou au directoire, selon les cas, le soin de fixer la liste
+précise des bénéficiaires au sein de cette ou de ces catégories, le nombre de
+titres à attribuer à chacun d'eux et le prix de l'émission, dans les limites des
+plafonds prévus au troisième alinéa du III de l'article L. 225-129. Lorsqu'il
+fait usage de cette délégation, le conseil d'administration ou le directoire,
+selon les cas, établit un rapport complémentaire décrivant les conditions
+définitives de l'opération.
+
 III. - L'émission doit être réalisée dans un délai de deux ans à compter de
 l'assemblée générale qui l'a autorisée. Lorsqu'elle n'a pas été réalisée à la
 date de l'assemblée générale annuelle suivant la décision, les dispositions du

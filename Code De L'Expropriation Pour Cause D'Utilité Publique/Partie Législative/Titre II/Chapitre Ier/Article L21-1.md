@@ -11,23 +11,25 @@ lotissements destinés à l'habitation ou à l'industrie ;
 
 2° Les immeubles expropriés en vue :
 
-- de l'aménagement progressif et suivant des plans d'ensemble des zones
-affectées à l'habitation ou à des activités par des projets d'aménagement, des
-plans d'urbanisme approuvés ou par des plans d'occupation des sols rendus
-publics ou approuvés ;
+-de l'aménagement progressif et suivant des plans d'ensemble des zones affectées
+à l'habitation ou à des activités par des projets d'aménagement, des plans
+d'urbanisme approuvés ou par des plans d'occupation des sols rendus publics ou
+approuvés ;
 
-- d'opérations dans les zones d'aménagement concerté prévues à l'article L.
-311-1 du code de l'urbanisme ;
+-d'opérations dans les zones d'aménagement concerté prévues à l'article L. 311-1
+du code de l'urbanisme ;
 
-- d'opérations de résorption de l'habitat insalubre ainsi que d'opérations
-régies par les articles 25 et 26 de la loi n° 70-612 du 10 juillet 1970 ;
+-d'opérations de résorption de l'habitat insalubre ainsi que d'opérations régies
+par les articles 25 et 26 de la loi n° 70-612 du 10 juillet 1970 ;
 
 2° bis Les immeubles en état manifeste d'abandon expropriés en application de
 l'article L. 2243-4 du code général des collectivités territoriales, les
 immeubles expropriés et situés dans un ensemble immobilier faisant l'objet d'un
 plan de sauvegarde en application de l'article L. 615-1 du code de la
-construction et de l'habitation, les immeubles expropriés en vue de leur
-restauration en application de l'article L. 313-4-1 du code de l'urbanisme ;
+construction et de l'habitation ou pour lesquels l'état de carence a été déclaré
+en application de l'article L. 615-6 du même code, les immeubles expropriés en
+vue de leur restauration en application de l'article L. 313-4-1 du code de
+l'urbanisme ;
 
 3° Les immeubles expropriés en vue de l'épuration des eaux provenant d'un
 établissement industriel, commercial, artisanal ou agricole et, d'une façon
@@ -46,11 +48,11 @@ application de l'article L. 321-6 du code forestier et dans les périmètres de
 restauration des terrains en montagne créés en application de l'article L. 424-1
 du code forestier, les immeubles expropriés en application de ces dispositions.
 Les catégories de personnes auxquelles ces immeubles pourront être cédés de gré
-à gré sont fixées par règlement d'administration publique. Pour ces cessions de
-gré à gré, une priorité sera accordée aux anciens propriétaires expropriés et à
-leurs ascendants et, en cas de refus de leur part, aux collectivités locales.
+à gré sont fixées par décret en Conseil d'Etat. Pour ces cessions de gré à gré,
+une priorité sera accordée aux anciens propriétaires expropriés et à leurs
+ascendants et, en cas de refus de leur part, aux collectivités locales.
 
-Les propriétaires ayant cédés leur terrain à l'amiable et leurs descendants
+Les propriétaires ayant cédé leur terrain à l'amiable et leurs descendants
 bénéficient de la même priorité que les propriétaires expropriés ;
 
 6° Les immeubles expropriés pour la constitution de réserves foncières lorsque

@@ -1,11 +1,11 @@
 Article R923-2
 ----
-Sans préjudice des dispositions du premier alinéa de l'article L. 225-218 du
-code de commerce applicables aux sociétés anonymes, les dispensateurs de
-formation, personnes morales de droit privé, sont tenus de désigner au moins un
-commissaire aux comptes et un suppléant lorsqu'ils dépassent, à la fin de
-l'année civile ou à la clôture de l'exercice, les chiffres ci-dessous fixés pour
-deux des trois critères suivants :
+Sans préjudice des dispositions du premier alinéa de l'article L. 822-9 du code
+de commerce applicables aux sociétés anonymes, les dispensateurs de formation,
+personnes morales de droit privé, sont tenus de désigner au moins un commissaire
+aux comptes et un suppléant lorsqu'ils dépassent, à la fin de l'année civile ou
+à la clôture de l'exercice, les chiffres ci-dessous fixés pour deux des trois
+critères suivants :
 
 1° Trois pour le nombre des salariés ;
 

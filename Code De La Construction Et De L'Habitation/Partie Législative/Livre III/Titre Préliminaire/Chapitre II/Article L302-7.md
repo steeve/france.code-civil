@@ -6,16 +6,16 @@ de celles qui bénéficient de la dotation de solidarité urbaine prévue par
 l'article L. 2334-15 du code général des collectivités territoriales lorsque le
 nombre des logements sociaux y excède 15 % des résidences principales.
 
-Ce prélèvement est égal à 1 000 F multipliés par la différence entre 20 % des
-résidences principales au sens du I de l'article 1411 du code général des impôts
-et le nombre de logements sociaux existant dans la commune l'année précédente,
-comme il est dit à l'article L. 302-5, sans pouvoir excéder 5 % du montant des
-dépenses réelles de fonctionnement de la commune constatées dans le compte
-administratif afférent au pénultième exercice.
+Ce prélèvement est égal à 152,45 euros multipliés par la différence entre 20 %
+des résidences principales au sens du I de l'article 1411 du code général des
+impôts et le nombre de logements sociaux existant dans la commune l'année
+précédente, comme il est dit à l'article L. 302-5, sans pouvoir excéder 5 % du
+montant des dépenses réelles de fonctionnement de la commune constatées dans le
+compte administratif afférent au pénultième exercice.
 
 Pour toutes les communes dont le potentiel fiscal par habitant défini à
 l'article L. 2334-4 du code général des collectivités territoriales est
-supérieur à 5 000 F l'année de la promulgation de la loi n° 2000-1208 du 13
+supérieur à 762,25 euros l'année de la promulgation de la loi n° 2000-1208 du 13
 décembre 2000 relative à la solidarité et au renouvellement urbains, ce
 prélèvement est fixé à 20 % du potentiel fiscal par habitant multipliés par la
 différence entre 20 % des résidences principales au sens du I de l'article 1411
@@ -24,11 +24,12 @@ commune l'année précédente, comme il est dit à l'article L. 302-5, sans pouv
 excéder 5 % du montant des dépenses réelles de fonctionnement de la commune
 constatées dans le compte administratif afférent au pénultième exercice.
 
-Le seuil de 5 000 F est actualisé chaque année suivante en fonction du taux
+Le seuil de 762,25 euros est actualisé chaque année suivante en fonction du taux
 moyen de progression du potentiel fiscal par habitant de l'ensemble des communes
 de plus de 1 500 habitants.
 
-Le prélèvement n'est pas effectué s'il est inférieur à la somme de 25 000 F.
+Le prélèvement n'est pas effectué s'il est inférieur à la somme de 3 811,23
+euros.
 
 Le prélèvement est diminué du montant des dépenses exposées par la commune,
 pendant le pénultième exercice, au titre des subventions foncières mentionnées à
@@ -68,6 +69,7 @@ A défaut, et hors Ile-de-France, elle est versée à l'établissement public
 foncier créé en application de l'article L. 324-1 du code de l'urbanisme, si la
 commune appartient à un tel établissement.
 
-A défaut, elle est versée à un fonds d'aménagement urbain destiné aux communes
-et aux établissements publics de coopération intercommunale pour des actions
-foncières et immobilières en faveur du logement social.
+A défaut, elle est versée à un fonds d'aménagement urbain, institué dans chaque
+région, destiné aux communes et aux établissements publics de coopération
+intercommunale pour des actions foncières et immobilières en faveur du logement
+social.

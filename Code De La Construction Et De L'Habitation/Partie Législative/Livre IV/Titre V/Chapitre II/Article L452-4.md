@@ -5,13 +5,10 @@ modéré et les sociétés d'économie mixte versent, au premier trimestre de ch
 année, une cotisation à la Caisse de garantie du logement locatif social.
 
 La cotisation des organismes d'habitations à loyer modéré a pour assiette les
-loyers appelés au cours du dernier exercice clos pour les logements à usage
-locatif et les logements-foyers leur appartenant, construits, acquis ou
-améliorés avec le concours financier de l'Etat ou ayant bénéficié de prêts
-accordés en contrepartie de conditions de ressources des occupants ou faisant
-l'objet des conventions régies par le chapitre III du titre V du livre III. Pour
-les logements-foyers, la cotisation a pour assiette l'élément de la redevance
-équivalent au loyer.
+loyers ou redevances appelés au cours du dernier exercice à raison des logements
+à usage locatif et des logements-foyers sur lesquels ils sont titulaires d'un
+droit réel. Pour les logements-foyers, la cotisation a pour assiette l'élément
+de la redevance équivalent au loyer.
 
 La cotisation des sociétés d'économie mixte a pour assiette les loyers appelés
 au cours du dernier exercice clos pour les logements à usage locatif et les
@@ -29,7 +26,15 @@ logements et de logements-foyers situés dans les quartiers mentionnés au I de
 l'article 1466 A du code général des impôts. Ce nombre s'apprécie au 31 décembre
 du dernier exercice clos.
 
+La cotisation est également réduite d'un montant proportionnel au nombre des
+logements à usage locatif et des logements-foyers ayant fait l'objet au cours de
+l'année écoulée d'une première mise en service par l'organisme et d'une
+convention en application du 3° ou du 5° de l'article L. 351-2. Dans le cas des
+logements-foyers, le nombre retenu est celui des unités ouvrant droit à
+redevance.
+
 Le taux de la cotisation, qui ne peut excéder 1,5 %, le montant de la réduction
 par allocataire et celui de la réduction par logement ou logement-foyer situé
-dans les quartiers mentionnés au cinquième alinéa sont fixés par arrêtés des
-ministres chargés du logement, de l'économie et des finances.
+dans les quartiers mentionnés au cinquième alinéa ainsi que celui de la
+réduction par logement ou logement-foyer nouvellement conventionnés sont fixés
+par arrêtés des ministres chargés du logement, de l'économie et des finances.

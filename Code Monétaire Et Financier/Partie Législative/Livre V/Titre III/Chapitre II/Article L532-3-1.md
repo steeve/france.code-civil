@@ -5,7 +5,7 @@ Toute modification des conditions auxquelles était subordonné l'agrément dél
 ou plusieurs services d'investissement doit faire l'objet, selon les cas, d'une
 autorisation préalable du Comité des établissements de crédit et des entreprises
 d'investissement, d'une déclaration ou d'une notification, dans les conditions
-fixées par un règlement du Comité de la réglementation bancaire et financière.
+fixées par un arrêté du ministre chargé de l'économie.
 
 Dans les cas où une autorisation doit être délivrée, elle peut, elle-même, être
 assortie de conditions particulières répondant à la finalité mentionnée au

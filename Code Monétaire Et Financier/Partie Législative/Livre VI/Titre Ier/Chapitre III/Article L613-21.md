@@ -8,7 +8,7 @@ conditions particulières posées ou les engagements pris à l'occasion d'une
 demande d'agrément ou d'une autorisation ou dérogation prévue par les
 dispositions législatives ou réglementaires applicables aux établissements de
 crédit et aux entreprises d'investissement, la commission bancaire, sous réserve
-des compétences du conseil des marchés financiers, peut prononcer l'une des
+des compétences de l'Autorité des marchés financiers, peut prononcer l'une des
 sanctions disciplinaires suivantes :
 
 1. L'avertissement ;
@@ -44,7 +44,7 @@ personnes mentionnées au I.
 
 Lorsqu'elle prononce une des sanctions disciplinaires ci-dessus énumérées à
 l'encontre d'un prestataire de services d'investissement, la commission bancaire
-en informe le conseil des marchés financiers.
+en informe l'Autorité des marchés financiers.
 
 III. - La commission bancaire peut décider que les sanctions prises dans le
 cadre du présent article feront l'objet d'une publication aux frais de la

@@ -26,4 +26,5 @@ général des impôts ainsi que de la liste des actions nominatives de parrainag
 de mécénat ;
 
 6° De la liste et de l'objet des conventions portant sur des opérations
-courantes conclues à des conditions normales.
+courantes conclues à des conditions normales, établis conformément aux articles
+L. 225-39 et L. 225-87.

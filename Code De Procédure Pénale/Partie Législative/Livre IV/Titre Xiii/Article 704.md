@@ -31,9 +31,7 @@ et à la liquidation judiciaires des entreprises ;
 10° Délits prévus par la loi n° 84-46 du 24 janvier 1984 relative à l'activité
 et au contrôle des établissements de crédit ;
 
-11° Délits prévus par l'ordonnance n° 67-833 du 28 septembre 1967 instituant une
-commission des opérations de bourse et relative à l'information des porteurs de
-valeurs mobilières et à la publicité de certaines opérations de bourse ;
+11° Abrogé ;
 
 12° Délits prévus par la loi n° 83-628 du 12 juillet 1983 relative aux jeux de
 hasard ;

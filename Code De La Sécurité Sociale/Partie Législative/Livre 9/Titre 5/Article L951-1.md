@@ -1,21 +1,26 @@
 Article L951-1
 ----
-Il est institué une commission de contrôle des mutuelles et des institutions de
-prévoyance. Cette commission est chargée du contrôle des institutions, unions et
-groupements régis par le présent livre et par l'article L. 727-2 du code rural
-ainsi que du contrôle des mutuelles, unions et fédérations régies par le code de
-la mutualité.
+La Commission de contrôle des assurances, des mutuelles et des institutions de
+prévoyance instituée par l'article L. 310-12 du code des assurances est
+compétente pour assurer le contrôle des institutions, unions et groupements
+régis par le présent livre et par l'article L. 727-2 du code rural.
 
-Les opérations de retraite complémentaire réalisées par les institutions faisant
-l'objet d'une compensation interprofessionnelle et générale ne sont pas soumises
-au contrôle de la commission.
+Les opérations de retraite complémentaire réalisées par les institutions de
+retraite complémentaire relevant du titre II du livre IX faisant l'objet d'une
+compensation interprofessionnelle et générale ne sont pas soumises au contrôle
+de la commission.
 
-La commission bénéficie de l'autonomie financière. Ces ressources sont notamment
-constituées, dans les conditions fixées par la loi de finances, du produit d'une
-redevance à la charge des institutions régies par les titres III et IV du livre
-IX du présent code, des mutuelles, unions et fédérations régies par le code de
-la mutualité et des institutions de retraite complémentaire autres que celles
-mentionnées au deuxième alinéa du présent article.
+La commission de contrôle peut décider en outre de soumettre au contrôle toute
+personne physique ou morale ayant reçu d'un organisme mentionné au présent
+article un mandat de souscription ou de gestion, ou exerçant, à quelque titre
+que ce soit, le courtage d'assurance ou la présentation d'opérations
+d'assurance.
+
+Pour les organismes soumis au contrôle de la commission de contrôle en vertu de
+l'article L. 510-1 du code de la mutualité et du premier alinéa du présent
+article, et par dérogation aux dispositions de l'article L. 310-12-4 du code des
+assurances, la contribution mentionnée audit article est établie et recouvrée
+dans les conditions suivantes :
 
 L'assiette servant de base de calcul de cette contribution est constituée :
 
@@ -30,8 +35,6 @@ b) Pour les organismes mentionnés au titre IV du livre IX du présent code et a
 livre III du code de la mutualité, par les cotisations encaissées entre le 1er
 janvier et le 31 décembre de chaque année.
 
-Le taux de la redevance est fixé à 0,05 pour mille.
-
 Les sommes dues au titre de la contribution sont versées, au plus tard le 31
 mars de chaque année au titre des cotisations recouvrées au cours de l'année
 civile précédente aux organismes chargés du recouvrement des cotisations du
@@ -40,7 +43,7 @@ autre de ces organismes ou l'Agence centrale des organismes de sécurité social
 peuvent être désignés par arrêté ministériel pour exercer tout ou partie des
 missions de ces organismes.
 
-Les organismes mentionnés au cinquième alinéa communiquent, au plus tard à une
+Les organismes mentionnés au sixième alinéa communiquent, au plus tard à une
 date fixée par voie réglementaire, aux organismes chargés du recouvrement des
 cotisations du régime général les éléments nécessaires à la détermination de
 l'assiette de la contribution.

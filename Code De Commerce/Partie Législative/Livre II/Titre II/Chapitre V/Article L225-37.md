@@ -21,3 +21,11 @@ Les administrateurs, ainsi que toute personne appelée à assister aux réunions
 conseil d'administration, sont tenus à la discrétion à l'égard des informations
 présentant un caractère confidentiel et données comme telles par le président du
 conseil d'administration.
+
+Le président du conseil d'administration rend compte, dans un rapport joint au
+rapport mentionné aux articles L. 225-100, L. 225-102, L. 225-102-1 et L.
+233-26, des conditions de préparation et d'organisation des travaux du conseil
+ainsi que des procédures de contrôle interne mises en place par la société. Sans
+préjudice des dispositions de l'article L. 225-56, le rapport indique en outre
+les éventuelles limitations que le conseil d'administration apporte aux pouvoirs
+du directeur général. (1)

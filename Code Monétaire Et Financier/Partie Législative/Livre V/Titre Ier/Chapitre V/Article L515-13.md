@@ -23,8 +23,10 @@ de crédit foncier peuvent mobiliser, conformément aux articles L. 313-23 à L.
 313-34, l'ensemble des créances qu'elles détiennent, quelle que soit la nature,
 professionnelle ou non, de ces créances. Dans ce cas, les énonciations figurant
 au bordereau mentionné à l'article L. 313-23 sont déterminées par décret. Les
-créances ainsi mobilisées ne sont pas comptabilisées par ces sociétés au titre
-de l'article L. 515-20.
+sociétés de crédit foncier peuvent également procéder à des cessions temporaires
+de leurs titres dans les conditions fixées aux articles L. 432-6 à L. 432-19
+(1). Les créances ou titres ainsi mobilisés ou cédés ne sont pas comptabilisés
+par ces sociétés au titre de l'article L. 515-20.
 
 IV. - Les sociétés de crédit foncier peuvent acquérir et posséder tous biens
 immeubles ou meubles nécessaires à l'accomplissement de leur objet ou provenant

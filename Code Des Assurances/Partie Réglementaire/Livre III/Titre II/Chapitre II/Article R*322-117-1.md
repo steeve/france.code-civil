@@ -13,10 +13,11 @@ l'ensemble de leurs opérations, pour la constitution des garanties prévues par
 la réglementation des assurances et l'exécution des engagements d'assurance pris
 par les sociétés réassurées ;
 
-3° Elles ont obtenu de la commission de contrôle des assurances un accord
-préalable constatant explicitement la dispense d'agrément. Cet accord se fonde
-sur la conformité du traité et des statuts aux dispositions de la présente
-section et sur la situation financière de l'union.
+3° Elles ont obtenu de la commission de contrôle des assurances, des mutuelles
+et des institutions de prévoyance un accord préalable constatant explicitement
+la dispense d'agrément. Cet accord se fonde sur la conformité du traité et des
+statuts aux dispositions de la présente section et sur la situation financière
+de l'union.
 
 Les opérations effectuées en application dudit traité de réassurance par une
 union de mutuelles qui se substitue, dans les conditions définies au présent
@@ -31,7 +32,8 @@ union de mutuelles dans les conditions de l'alinéa précédent ne peut être
 inférieur à 2 000.
 
 Toute modification du traité de réassurance est soumise à autorisation préalable
-de la commission de contrôle des assurances.
+de la commission de contrôle des assurances, des mutuelles et des institutions
+de prévoyance.
 
 Les sociétés réassurées visées au premier alinéa du présent article sont
 dispensées de l'obligation de constituer un fonds d'établissement et une marge

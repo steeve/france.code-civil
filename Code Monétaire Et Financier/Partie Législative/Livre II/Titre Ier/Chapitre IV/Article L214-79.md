@@ -3,7 +3,7 @@ Article L214-79
 Le contrôle est exercé par un ou plusieurs commissaires aux comptes nommés par
 l'assemblée générale ordinaire pour la durée prévue à l'article L. 225-229 du
 code de commerce parmi les personnes figurant sur la liste prévue à l'article L.
-225-219 du code de commerce. Lors de la constitution de la société, les
+822-1 du code de commerce. Lors de la constitution de la société, les
 commissaires aux comptes sont nommés par l'assemblée générale constitutive.
 
 Les commissaires aux comptes, ainsi que les commissaires aux apports, sont
@@ -15,7 +15,7 @@ fonctions dans les sociétés possédant 10 % du capital de la société contrô
 par eux ou dont celle-ci possède 10 % du capital lors de la cessation des
 fonctions du commissaire.
 
-Les dispositions des articles L. 225-227, L. 225-228 (2e alinéa) et L. 225-233
+Les dispositions des articles L. 225-227, L. 225-228 (3e alinéa) et L. 225-233
 du code de commerce sont applicables.
 
 Si l'assemblée omet d'élire un commissaire aux comptes, tout associé peut en
@@ -47,8 +47,8 @@ Ils sont convoqués à la réunion des dirigeants de la société de gestion qui
 arrête les comptes de l'exercice écoulé, ainsi qu'à toutes les assemblées
 générales.
 
-Ils portent à la connaissance de l'assemblée générale, ainsi qu'à celle de la
-commission des opérations de bourse, les irrégularités et inexactitudes relevées
+Ils portent à la connaissance de l'assemblée générale, ainsi qu'à celle de
+l'Autorité des marchés financiers, les irrégularités et inexactitudes relevées
 par eux au cours de l'accomplissement de leur mission.
 
 En outre, ils révèlent au procureur de la République les faits délictueux dont
@@ -61,7 +61,7 @@ professionnel pour les faits, actes et renseignements dont ils ont pu avoir
 connaissance en raison de leurs fonctions.
 
 Leurs honoraires sont à la charge de la société. Ils sont fixés selon des
-modalités déterminées le décret en Conseil d'Etat pris pour l'application de
+modalités déterminées par le décret en Conseil d'Etat pris pour l'application de
 l'article L. 225-239 du code de commerce.
 
 Ils sont responsables dans les conditions prévues à l'article L. 225-241 du code

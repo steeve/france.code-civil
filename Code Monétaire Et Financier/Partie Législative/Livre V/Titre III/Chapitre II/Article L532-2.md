@@ -7,8 +7,7 @@ Pour délivrer l'agrément à une entreprise d'investissement, le comité des
 1. A son siège social et son administration centrale en France ;
 
 2. Dispose, compte tenu de la nature du service qu'elle souhaite fournir, d'un
-capital initial suffisant déterminé par le comité de la réglementation bancaire
-et financière ;
+capital initial suffisant déterminé par le ministre chargé de l'économie ;
 
 3. Fournit l'identité de ses actionnaires, directs ou indirects, personnes
 physiques ou morales, qui détiennent une participation qualifiée, ainsi que le
@@ -36,8 +35,3 @@ l'entreprise et d'autres personnes physiques ou morales, soit par l'existence de
 dispositions législatives ou réglementaires d'un Etat qui n'est pas partie à
 l'accord sur l'Espace économique européen et dont relèvent une ou plusieurs de
 ces personnes.
-
-Le comité des établissements de crédit et des entreprises d'investissement
-statue dans un délai de trois mois à compter de la transmission de la requête
-par le conseil des marchés financiers. Sa décision est motivée et notifiée au
-demandeur.

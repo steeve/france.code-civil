@@ -7,13 +7,14 @@ tarifaires d'ouverture, de fonctionnement et de clôture, sont précisées par u
 arrêté du ministre chargé de l'économie et des finances après avis du comité
 consultatif institué à l'article L. 614-6.
 
-Tout projet de modification du tarif des produits et services faisant l'objet de
-la convention doit être communiqué par écrit au client trois mois avant la date
-d'application envisagée. L'absence de contestation par le client dans un délai
-de deux mois après cette communication vaut acceptation du nouveau tarif.
+Tout projet de modification du tarif des produits et services faisant l'objet
+d'une convention de compte de dépôt doit être communiqué par écrit au client
+trois mois avant la date d'application envisagée. L'absence de contestation par
+le client dans un délai de deux mois après cette communication vaut acceptation
+du nouveau tarif.
 
-Aucun frais ne peut être prévu par la convention mentionnée au premier alinéa ni
-mise à la charge du client au titre de la clôture ou du transfert d'un compte
+Aucun frais ne peut être prévu par la convention mentionnée à l'alinéa précédent
+ni mise à la charge du client au titre de la clôture ou du transfert d'un compte
 opéré à la demande d'un client qui conteste une proposition de modification
 substantielle de cette convention.
 

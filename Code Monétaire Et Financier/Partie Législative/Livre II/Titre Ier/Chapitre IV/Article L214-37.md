@@ -2,11 +2,11 @@ Article L214-37
 ----
 La souscription et l'acquisition des parts de fonds communs de placement à
 risques bénéficiant d'une procédure allégée sont réservées aux investisseurs
-mentionnés à l'article L. 214-35 ainsi qu'à ceux, dirigeants, salariés ou
+mentionnés à l'article L. 214-35-1 ainsi qu'à ceux, dirigeants, salariés ou
 personnes physiques, agissant pour le compte de la société de gestion du fonds,
 ainsi qu'à la société de gestion elle-même. La constitution, la transformation,
 la fusion, la scission ou la liquidation du fonds n'est pas soumise à l'agrément
-de la commission des opérations de bourse mais doit lui être déclarée dans des
+de l'Autorité des marchés financiers mais doit lui être déclarée dans des
 conditions définies par un règlement de la commission, dans le mois qui suit sa
 réalisation.
 

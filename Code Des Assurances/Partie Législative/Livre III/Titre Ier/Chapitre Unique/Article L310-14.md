@@ -8,7 +8,11 @@ l'exercice de sa mission.
 
 Elle peut également leur demander la communication des rapports des commissaires
 aux comptes et, d'une manière générale, de tous documents comptables dont elle
-peut, en tant que de besoin, demander la certification.
+peut, en tant que de besoin, demander la certification. Elle peut demander
+communication des documents à caractère contractuel ou publicitaire. Elle peut
+exiger la modification ou décider le retrait de tout document contraire aux
+dispositions législatives ou réglementaires. Dans ce cas, elle statue dans les
+conditions prévues à l'article L. 310-18.
 
 Elle vérifie que les publications auxquelles sont astreintes les entreprises
 visées aux articles L. 310-1 et L. 310-1-1 et les sociétés de groupe d'assurance
@@ -22,12 +26,7 @@ La Commission de contrôle des assurances peut demander aux entreprises soumises
 données ou informations qui, nécessaires à l'exercice de cette surveillance,
 sont détenues par leurs entreprises apparentées. Si ces dernières entreprises ne
 fournissent pas ces données et informations, la Commission de contrôle peut leur
-demander directement. Toutefois, s'agissant d'une institution de prévoyance ou
-union régie par le titre III du livre IX du code de la sécurité sociale ou d'une
-mutuelle ou union régie par le livre II du code de la mutualité, cette
-Commission de contrôle adresse sa demande à la commission mentionnée aux
-articles L. 951-1 du code de la sécurité sociale et L. 510-1 du code de la
-mutualité.
+demander directement.
 
 Les entreprises soumises à une surveillance complémentaire et dont le siège
 social est situé en France transmettent les données ou informations nécessaires

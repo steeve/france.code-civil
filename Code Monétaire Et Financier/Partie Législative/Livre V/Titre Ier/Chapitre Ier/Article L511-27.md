@@ -3,8 +3,8 @@ Article L511-27
 Tout établissement de crédit ayant son siège social en France et désirant
 établir une succursale dans un autre Etat membre notifie son projet au comité
 des établissements de crédit et des entreprises d'investissement, assorti
-d'informations dont la nature est déterminée par le comité de la réglementation
-bancaire et financière.
+d'informations dont la nature est déterminée par le ministre chargé de
+l'économie.
 
 A moins que le comité des établissements de crédit et des entreprises
 d'investissement n'ait des raisons de douter, compte tenu de ce projet, de
@@ -24,8 +24,8 @@ exercer pour la première fois leurs activités sur le territoire d'un autre Eta
 membre en libre prestation de services sont tenus d'en faire la déclaration au
 comité des établissements de crédit et des entreprises d'investissement. Cette
 déclaration est assortie d'informations dont la nature est déterminée par le
-comité de la réglementation bancaire et financière.
+ministre chargé de l'économie.
 
-Le comité de la réglementation bancaire et financière détermine les conditions
-dans lesquelles les informations mentionnées aux alinéas précédents sont
-communiquées à l'autorité compétente de l'autre Etat membre.
+Le ministre chargé de l'économie détermine les conditions dans lesquelles les
+informations mentionnées aux alinéas précédents sont communiquées à l'autorité
+compétente de l'autre Etat membre.

@@ -27,3 +27,9 @@ documents visés au deuxième alinéa de l'article L. 225-100.
 Le conseil de surveillance présente à l'assemblée générale prévue à l'article L.
 225-100 ses observations sur le rapport du directoire ainsi que sur les comptes
 de l'exercice.
+
+Le président du conseil de surveillance rend compte, dans un rapport à
+l'assemblée générale joint au rapport mentionné à l'alinéa précédent et à
+l'article L. 233-26, des conditions de préparation et d'organisation des travaux
+du conseil ainsi que des procédures de contrôle interne mises en place par la
+société. (1)

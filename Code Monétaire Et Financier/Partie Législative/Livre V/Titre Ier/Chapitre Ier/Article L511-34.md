@@ -1,14 +1,29 @@
 Article L511-34
 ----
-Pour les besoins de la surveillance sur la base de la situation financière
-consolidée d'un ou plusieurs établissements de crédit ou entreprises
-d'investissement ayant leur siège social dans un Etat partie à l'accord sur
-l'Espace économique européen, les entreprises établies en France et qui font
-partie du groupe financier ou du groupe mixte auquel appartiennent ces
-établissements de crédit ou entreprises d'investissement sont tenues, nonobstant
-toutes dispositions législatives contraires, de transmettre les renseignements
-nécessaires à des entreprises du même groupe ayant leur siège social dans un
-Etat partie à l'accord sur l'Espace économique européen.
+Les entreprises établies en France et qui font partie d'un groupe financier ou
+d'un groupe mixte auquel appartiennent des établissements de crédit ou
+entreprises d'investissement ayant leur siège social dans un Etat membre de la
+Communauté européenne ou Etat partie à l'accord sur l'Espace économique européen
+ou dans un Etat où sont applicables les accords prévus à l'article L. 613-13
+sont tenues, nonobstant toutes dispositions contraires, de transmettre à des
+entreprises du même groupe ayant leur siège social dans l'un de ces Etats :
+
+1° Les renseignements relatifs à leur situation financière nécessaires à
+l'organisation de la surveillance sur base consolidée de ces établissements de
+crédit ou entreprises d'investissement ;
+
+2° Les informations nécessaires à l'organisation de la lutte contre le
+blanchiment des capitaux et contre le financement du terrorisme.
+
+Ces dernières informations ne peuvent être communiquées à des personnes
+extérieures au groupe, à l'exception des autorités compétentes des Etats visés
+au premier alinéa. Cette exception ne s'étend pas aux autorités des Etats ou
+territoires dont la législation est reconnue insuffisante ou dont les pratiques
+sont considérées comme faisant obstacle à la lutte contre le blanchiment des
+capitaux ou le financement du terrorisme par l'instance internationale de
+concertation et de coordination en matière de lutte contre le blanchiment
+d'argent dont la liste est mise à jour par arrêté du ministre chargé de
+l'économie.
 
 Les personnes recevant ces informations sont tenues au secret professionnel dans
 les conditions et sous les peines mentionnées à l'article L. 511-33, pour tous

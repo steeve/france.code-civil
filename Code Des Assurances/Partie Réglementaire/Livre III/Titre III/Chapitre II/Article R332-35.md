@@ -10,5 +10,6 @@ et le montant des provisions mathématiques qui seraient à inscrire si les
 chargements d'acquisition n'étaient pas pris en compte dans les engagements des
 assurés. Le montant de cet écart ainsi que le calcul des frais d'acquisition
 reportés doivent pouvoir être justifiés à tout moment auprès de la commission de
-contrôle des assurances. Les frais d'acquisition reportés sont admis en
-représentation des provisions techniques.
+contrôle des assurances, des mutuelles et des institutions de prévoyance. Les
+frais d'acquisition reportés sont admis en représentation des provisions
+techniques.

@@ -5,14 +5,15 @@ posséder un nombre d'actions représentant plus du vingtième, du dixième, du
 cinquième, du tiers, de la moitié ou des deux tiers du capital ou des droits de
 vote d'une société ayant son siège sur le territoire de la République et dont
 les actions sont admises aux négociations sur un marché réglementé informe cette
-société dans un délai de quinze jours à compter du franchissement du seuil de
-participation, du nombre total d'actions de celle-ci qu'elle possède.
+société dans un délai de cinq jours de bourse à compter du franchissement du
+seuil de participation, du nombre total d'actions et de droits de vote que
+celle-ci possède.
 
-Elle en informe également le Conseil des marchés financiers dans un délai de
+Elle en informe également l'Autorité des marchés financiers dans un délai de
 cinq jours de bourse à compter du franchissement du seuil de participation,
 lorsque les actions de la société sont admises aux négociations sur un marché
-réglementé. Le Conseil des marchés financiers porte cette information à la
-connaissance du public.
+réglementé. Cette information est portée à la connaissance du public dans les
+conditions fixées par le règlement général de l'Autorité des marchés financiers.
 
 Les informations mentionnées aux deux alinéas précédents sont également faites
 dans les mêmes délais lorsque la participation au capital devient inférieure aux
@@ -45,16 +46,10 @@ l'acquéreur agit seul ou de concert, s'il envisage d'arrêter ses achats ou de
 les poursuivre, d'acquérir ou non le contrôle de la société, de demander sa
 nomination ou celle d'une ou plusieurs personnes comme administrateur, membre du
 directoire ou du conseil de surveillance. Elle est adressée à la société dont
-les actions ont été acquises, au Conseil des marchés financiers, qui la publie,
-et à la Commission des opérations de bourse dans un délai de quinze jours à
-compter du franchissement de seuil. En cas de changement d'intention, lequel ne
-peut être motivé que par des modifications importantes dans l'environnement, la
-situation ou l'actionnariat des personnes concernées, une nouvelle déclaration
-doit être établie.
-
-L'intermédiaire inscrit comme détenteur de titres conformément au troisième
-alinéa de l'article L. 228-1 est tenu, sans préjudice des obligations des
-propriétaires des titres, d'effectuer les déclarations prévues au présent
-article, pour l'ensemble des actions de la société au titre desquelles il est
-inscrit en compte. La violation des obligations découlant du présent alinéa est
-sanctionnée conformément aux dispositions de l'article L. 228-3-3.
+les actions ont été acquises, à l'Autorité des marchés financiers dans un délai
+de dix jours de bourse. Cette information est portée à la connaissance du public
+dans les conditions fixées par le règlement général de l'Autorité des marchés
+financiers. En cas de changement d'intention, lequel ne peut être motivé que par
+des modifications importantes dans l'environnement, la situation ou
+l'actionnariat des personnes concernées, une nouvelle déclaration doit être
+établie et portée à la connaissance du public dans les mêmes conditions.

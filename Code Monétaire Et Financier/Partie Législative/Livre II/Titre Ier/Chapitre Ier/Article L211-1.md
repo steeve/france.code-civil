@@ -7,8 +7,9 @@ indirectement, au capital ou aux droits de vote, transmissibles par inscription
 en compte ou tradition ;
 
 2. Les titres de créance qui représentent chacun un droit de créance sur la
-personne morale qui les émet, transmissibles par inscription en compte ou
-tradition, à l'exclusion des effets de commerce et des bons de caisse ;
+personne morale ou le fonds commun de créances qui les émet, transmissibles par
+inscription en compte ou tradition, à l'exclusion des effets de commerce et des
+bons de caisse ;
 
 3. Les parts ou actions d'organismes de placements collectifs ;
 
@@ -27,7 +28,11 @@ espèces ;
 
 3. Les contrats d'échange ;
 
-4. Les contrats à terme sur toutes marchandises et denrées ;
+4. Les instruments financiers à terme sur toutes marchandises, soit lorsqu'ils
+font l'objet, en suite de négociation, d'un enregistrement par une chambre de
+compensation d'instruments financiers ou d'appels de couvertures périodiques,
+soit lorsqu'ils offrent la possibilité que les marchandises sous-jacentes ne
+soient pas livrées moyennant un règlement monétaire par le vendeur ;
 
 5. Les contrats d'options d'achat ou de vente d'instruments financiers ;
 

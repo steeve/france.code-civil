@@ -16,7 +16,7 @@ futur, en adéquation avec les engagements de l'entreprise.
 Sont assimilées à des liquidités détenues les actions des sociétés
 d'investissement à capital variable et parts de fonds communs de placement
 mentionnés aux 3° et 8° de l'article R. 332-2 et classés dans la catégorie des
-OPCVM monétaires, définie par la Commission des opérations de bourse.
+OPCVM monétaires, définie par l'Autorité des marchés financiers.
 
 Lorsque les liquidités sont à recevoir à une échéance supérieure à un an, les
 créances découlant de l'opération à terme doivent être intégralement garanties

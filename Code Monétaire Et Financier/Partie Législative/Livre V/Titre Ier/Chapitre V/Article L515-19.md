@@ -3,13 +3,13 @@ Article L515-19
 Nonobstant toutes dispositions législatives contraires, et notamment celles du
 titre Ier et du titre II du livre VI du code de commerce :
 
-1. Les sommes provenant de prêts, titres et valeurs mentionnés aux articles L.
-515-14 à L. 515-17 des instruments financiers mentionnés à l'article L. 515-18,
-le cas échéant après compensation, ainsi que les créances résultant des dépôts
-effectués par la société de crédit foncier auprès d'établissements de crédit,
-sont affectées par priorité au service du paiement des obligations foncières et
-des autres ressources privilégiées mentionnées au 2 du I de l'article L. 515-13
-;
+1. Les sommes provenant de prêts ou créances assimilées, titres et valeurs
+mentionnés aux articles L. 515-14 à L. 515-17 des instruments financiers
+mentionnés à l'article L. 515-18, le cas échéant après compensation, ainsi que
+les créances résultant des dépôts effectués par la société de crédit foncier
+auprès d'établissements de crédit, sont affectées par priorité au service du
+paiement des obligations foncières et des autres ressources privilégiées
+mentionnées au 2 du I de l'article L. 515-13 ;
 
 2. Lorsqu'une société de crédit foncier fait l'objet d'une procédure de
 redressement ou de liquidation judiciaires, ou de règlement amiable, les

@@ -9,5 +9,5 @@ départements d'outre-mer, établir des succursales pour fournir des services
 bancaires et intervenir en libre prestation de services dans les conditions
 définies à l'article L. 511-24, sous réserve que le comité des établissements de
 crédit et des entreprises d'investissement ait préalablement été informé par
-l'autorité compétente de l'Etat membre, dans des conditions fixées par le comité
-de la réglementation bancaire et financière.
+l'autorité compétente de l'Etat membre, dans des conditions fixées par le
+ministre chargé de l'économie.

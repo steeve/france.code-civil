@@ -8,8 +8,8 @@ l'Espace économique européen autre que la France à un cessionnaire établi da
 un des Etats parties à l'accord sur l'Espace économique européen est opposable
 aux assurés, souscripteurs, bénéficiaires de contrats et créanciers pour autant
 que les dispositions de la première phrase du deuxième alinéa de l'article L.
-324-1 ont été respectées et que le ministre chargé de l'économie et des finances
-n'a pas fait opposition au transfert projeté.
+324-1 ont été respectées et que le Comité des entreprises d'assurance n'a pas
+fait opposition au transfert projeté.
 
 Le transfert est opposable à partir du jour où la décision des autorités
 compétentes des Etats concernés l'autorisant a été rendue publique par un avis

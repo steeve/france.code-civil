@@ -19,5 +19,5 @@ des services d'investissement en France en libre établissement ou en libre
 prestation de services conformément aux dispositions du présent code.
 
 Le comité des établissement de crédit et des entreprises d'investissement
-communique, sans délai, l'ensemble de ces listes au conseil des marchés
-financiers et à la commission des opérations de bourse.
+communique, sans délai, l'ensemble de ces listes à l'Autorité des marchés
+financiers.

@@ -6,10 +6,20 @@ logement social. Elle est substituée de plein droit dans les droits et
 obligations de la Caisse de garantie du logement social visée à l'article L.
 431-1, à compter du 1er janvier 2001.
 
-S'agissant de leur activité locative sociale, elle contribue, notamment par des
-concours financiers, à la prévention des difficultés financières et au
-redressement des organismes d'habitations à loyer modéré et des sociétés
-d'économie mixte.
+Elle contribue, notamment par des concours financiers, à la prévention des
+difficultés financières et au redressement des organismes d'habitations à loyer
+modéré et des sociétés d'économie mixte pour ce qui concerne leur activité
+locative sociale, pour leur permettre en particulier d'assurer la qualité de
+l'habitat.
+
+Elle accorde également des concours financiers destinés à favoriser la
+réorganisation des organismes d'habitations à loyer modéré et leur regroupement.
+Elle finance des actions de formation ou de soutien technique au profit des
+organismes d'habitations à loyer modéré pour leur permettre de mener des actions
+ou opérations de renouvellement urbain.
+
+Elle contribue, dans les conditions prévues à l'article L. 452-4-1, au
+financement de l'Agence nationale pour la rénovation urbaine.
 
 Elle concourt, par ses participations aux frais de l'union et des fédérations
 groupant les organismes d'habitations à loyer modéré et aux frais de la

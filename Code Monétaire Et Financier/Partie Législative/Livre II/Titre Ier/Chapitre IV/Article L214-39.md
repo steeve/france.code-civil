@@ -43,8 +43,8 @@ peut agir en justice pour défendre ou faire valoir les droits ou intérêts des
 porteurs.
 
 Le conseil de surveillance adopte un rapport annuel mis à la disposition de
-chaque porteur de parts et dont le contenu est précisé par un règlement de la
-Commission des opérations de bourse.
+chaque porteur de parts et dont le contenu est précisé par un règlement de
+l'Autorité des marchés financiers.
 
 Le règlement peut prévoir que :
 
@@ -66,7 +66,7 @@ Le règlement précise, le cas échéant, les considérations sociales,
 environnementales ou éthiques que doit respecter la société de gestion dans
 l'achat ou la vente des titres, ainsi que dans l'exercice des droits qui leur
 sont attachés. Le rapport annuel du fonds rend compte de leur application, dans
-des conditions définies par la Commission des opérations de bourse.
+des conditions définies par l'Autorité des marchés financiers.
 
 Lorsque l'entreprise est régie par les dispositions de la loi n° 47-1775 du 10
 septembre 1947 portant statut de la coopération, le fonds commun de placement
@@ -76,9 +76,9 @@ souscription de ces titres par les salariés et dans les conditions fixées par
 décret.
 
 Les dispositions du présent article sont également applicables aux fonds
-solidaires qui peuvent être souscrits dans le cadre du plan partenarial
-d'épargne salariale volontaire mentionné à l'article L. 443-1-2 du même code.
-L'actif de ces fonds solidaires est composé :
+solidaires qui peuvent être souscrits dans le cadre du plan d'épargne pour la
+retraite collectif mentionné à l'article L. 443-1-2 du même code. L'actif de ces
+fonds solidaires est composé :
 
 a) Pour une part, comprise entre 5 et 10 %, de titres émis par des entreprises
 solidaires agréées en application de l'article L. 443-3-1 du code du travail ou
@@ -89,8 +89,13 @@ sous réserve que leur actif soit composé d'au moins 40 % de titres émis par d
 entreprises solidaires mentionnées à l'article L. 443-3-1 du code du travail ;
 
 b) Pour le surplus, de valeurs mobilières admises aux négociations sur un marché
-réglementé et, à titre accessoire, de liquidités.
+réglementé, de parts d'organismes de placement collectif en valeurs mobilières
+investies dans ces mêmes valeurs et, à titre accessoire, de liquidités.
 
-Ces fonds ne peuvent, par ailleurs, détenir plus de 10 % de titres de
-l'entreprise qui a mis en place le plan ou de sociétés qui lui sont liées au
-sens de l'article L. 444-3 du code du travail.
+Les fonds qui peuvent être souscrits dans le cadre d'un plan d'épargne pour la
+retraite collectif ne peuvent détenir plus de 5 % de titres non admis aux
+négociations sur un marché réglementé, sans préjudice des dispositions du a, ou
+plus de 5 % de titres de l'entreprise qui a mis en place le plan ou de sociétés
+qui lui sont liées au sens de l'article L. 444-3 du code du travail. Cette
+limitation ne s'applique pas aux parts et actions d'organismes de placement
+collectif en valeurs mobilières détenues par le fonds.

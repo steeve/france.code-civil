@@ -14,5 +14,6 @@ l'objet d'une évaluation distincte.
 
 Par dérogation aux dispositions du deuxième alinéa du présent article,
 l'entreprise peut, avec l'accord de la commission de contrôle des assurances,
-utiliser des méthodes statistiques pour l'estimation des sinistres survenus au
-cours des deux derniers exercices.
+des mutuelles et des institutions de prévoyance, utiliser des méthodes
+statistiques pour l'estimation des sinistres survenus au cours des deux derniers
+exercices.

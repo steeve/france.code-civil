@@ -17,12 +17,12 @@ entreprises agréées conformément aux dispositions de l'article L. 321-7.
 
 La demande de transfert est portée à la connaissance des créanciers par un avis
 publié au Journal officiel, qui leur impartit un délai de deux mois pour
-présenter leurs observations. Le ministre chargé de l'économie et des finances
-approuve le transfert par arrêté s'il lui apparaît que le transfert ne
-préjudicie pas aux intérêts des créanciers et des assurés.
+présenter leurs observations. Le Comité des entreprises d'assurance approuve le
+transfert s'il lui apparaît que le transfert ne préjudicie pas aux intérêts des
+créanciers et des assurés.
 
-Le ministre chargé de l'économie et des finances n'approuve le transfert que si
-les autorités de contrôle de l'Etat d'établissement de l'entreprise cessionnaire
+Le Comité des entreprises d'assurance n'approuve le transfert que si les
+autorités de contrôle de l'Etat d'établissement de l'entreprise cessionnaire
 attestent que celle-ci possède, compte tenu du transfert, la marge de
 solvabilité nécessaire. Toutefois, lorsque l'Etat d'origine de l'entreprise
 cessionnaire est partie à l'accord sur l'Espace économique européen,
@@ -30,13 +30,13 @@ l'attestation mentionnée au présent alinéa est donnée par les autorités de
 contrôle de cet Etat.
 
 Lorsque le cédant est une succursale située dans un Etat membre des Communautés
-européennes autre que la France, le ministre chargé de l'économie et des
-finances recueille préalablement l'avis de l'autorité de contrôle de l'Etat où
-est située la succursale.
+européennes autre que la France, le Comité des entreprises d'assurance recueille
+préalablement l'avis de l'autorité de contrôle de l'Etat où est située la
+succursale.
 
 Lorsque les risques ou les engagements transférés sont situés dans un Etat
-membre des Communautés européennes autre que la France, le ministre chargé de
-l'économie et des finances recueille préalablement l'accord des autorités de
+membre des Communautés européennes autre que la France, le Comité des
+entreprises d'assurance recueille préalablement l'accord des autorités de
 contrôle de l'Etat du risque ou de l'engagement.
 
 Pour les transferts concernant les entreprises d'assurance vie ou de
@@ -45,8 +45,8 @@ l'état prévues à l'article L. 344-1.
 
 L'approbation rend le transfert opposable aux assurés, souscripteurs et
 bénéficiaires de contrat ainsi qu'aux créanciers, et écarte l'application du
-droit de surenchère prévu par l'article 5 de la loi du 17 mars 1909 relative à
-la vente et au nantissement des fonds de commerce. Le transfert est opposable à
-partir de la date de publication au Journal officiel de l'arrêté mentionné au
-deuxième alinéa du présent article. Les assurés ont la faculté de résilier le
-contrat dans le délai d'un mois suivant la date de cette publication.
+droit de surenchère prévu par l'article L. 141-19 du code de commerce. Le
+transfert est opposable à partir de la date de publication au Journal officiel
+de la décision d'approbation mentionnée au deuxième alinéa du présent article.
+Les assurés ont la faculté de résilier le contrat dans le délai d'un mois
+suivant la date de cette publication.

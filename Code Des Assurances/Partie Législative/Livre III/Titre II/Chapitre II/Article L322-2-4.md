@@ -11,5 +11,12 @@ conformément à la réglementation applicable. Le rapport de solvabilité conti
 obligatoirement une analyse des conditions dans lesquelles l'entreprise est en
 mesure, à moyen et long terme, de faire face à l'ensemble de ses engagements.
 
-Le rapport de solvabilité mentionné au précédent alinéa est communiqué aux
-commissaires aux comptes et à la Commission de contrôle des assurances.
+Les dispositions du premier alinéa sont applicables aux entreprises mentionnées
+au 1° de l'article L. 310-2 et à l'article L. 310-1-1, ainsi qu'aux succursales
+des entreprises étrangères mentionnées aux 3° et 4° de l'article L. 310-2. Pour
+ces dernières, le rapport de solvabilité est établi par le mandataire général
+représentant la société.
+
+Le rapport de solvabilité mentionné au premier alinéa est communiqué aux
+commissaires aux comptes et à la Commission de contrôle des assurances, des
+mutuelles et des institutions de prévoyance.

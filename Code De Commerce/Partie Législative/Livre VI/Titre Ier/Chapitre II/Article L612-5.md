@@ -24,3 +24,7 @@ Une convention non approuvée produit néanmoins ses effets. Les conséquences
 préjudiciables à la personne morale résultant d'une telle convention peuvent
 être mises à la charge, individuellement ou solidairement selon le cas, de
 l'administrateur ou de la personne assurant le rôle de mandataire social.
+
+Les dispositions du présent article ne sont pas applicables aux conventions
+courantes conclues à des conditions normales qui, en raison de leur objet ou de
+leurs implications financières, ne sont significatives pour aucune des parties.

@@ -20,8 +20,8 @@ gouverneur de la Banque de France et au président du comité consultatif instit
 
 II. - Il est institué un comité de la médiation bancaire chargé d'examiner les
 rapports des médiateurs et d'établir chaque année un bilan de la médiation
-bancaire qu'il transmet au Conseil national du crédit et du titre. Ce comité est
-également chargé de préciser les modalités d'exercice de l'activité des
+bancaire qu'il transmet au Comité consultatif du secteur financier. Ce comité
+est également chargé de préciser les modalités d'exercice de l'activité des
 médiateurs, en veillant notamment à garantir leur indépendance. Il est informé
 des modalités et du montant des indemnités et dédommagements versés aux
 médiateurs par les établissements de crédit. Ce comité peut adresser des

@@ -1,10 +1,10 @@
 Article L363-2
 ----
 Sur demande justifiée de l'autorité de contrôle de l'Etat d'origine des
-entreprises, la Commission de contrôle des assurances restreint ou interdit la
-libre disposition de tout ou partie de ceux des actifs des entreprises
-d'assurance communautaires qui sont localisés sur le territoire de la République
-française.
+entreprises, la Commission de contrôle des assurances, des mutuelles et des
+institutions de prévoyance restreint ou interdit la libre disposition de tout ou
+partie de ceux des actifs des entreprises d'assurance communautaires qui sont
+localisés sur le territoire de la République française.
 
 Lorsqu'elle est informée qu'une entreprise d'assurance communautaire opérant en
 France en libre prestation de services ou en libre établissement a fait l'objet

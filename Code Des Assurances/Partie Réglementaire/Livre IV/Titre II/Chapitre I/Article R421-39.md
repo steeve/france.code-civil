@@ -14,5 +14,5 @@ leur charge. Toutefois ce taux est ramené à 5 % lorsque l'accident résulte d'
 opération de destruction des animaux nuisibles effectuée en vertu des articles
 393 à 395 du code rural ;
 
-Contribution des assurés : somme forfaitaire maximale de 2,50 F par personne
+Contribution des assurés : somme forfaitaire maximale de 0,38 euros par personne
 garantie.

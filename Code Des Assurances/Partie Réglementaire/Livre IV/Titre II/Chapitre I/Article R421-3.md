@@ -10,8 +10,7 @@ contre les accidents. Dans l'affirmative, il précise le nom et l'adresse de
 l'entreprise d'assurance ainsi que le numéro de la police.
 
 Toute omission volontaire de déclaration ou fausse déclaration faite de mauvaise
-foi sera punie de l'amende prévue pour les contraventions de troisième classe
-*sanctions*.
+foi sera punie de l'amende prévue pour les contraventions de troisième classe.
 
 Si un ou plusieurs des renseignements prévus au second alinéa sont ignorés de
 l'auteur de l'accident au moment de l'établissement du procès-verbal ou du

@@ -1,11 +1,26 @@
 Article L353-2
 ----
-Est puni d'une amende de 4500 euros, le fait, pour toute personne, de
-méconnaître les obligations prescrites au titre des opérations de banque à
-l'article L. 341-3, au deuxième alinéa de l'article L. 341-4 et au premier
-alinéa de l'article L. 341-5.
+Est puni des peines prévues à l'article 313-1 du code pénal :
 
-Est puni de la même peine le fait, pour le démarcheur, de ne pas restituer à
-l'établissement qui la lui a délivrée la carte d'emploi prévue à l'article L.
-341-4, dans les vingt-quatre heures de la demande qui lui est faite par lettre
-recommandée.
+1° Le fait, pour toute personne, de recourir à l'activité de démarchage bancaire
+ou financier définie à l'article L. 341-1 sans remplir les conditions prévues
+aux articles L. 341-3 et L. 341-4 ;
+
+2° Le fait, pour toute personne se livrant à l'activité de démarchage bancaire
+ou financier définie à l'article L. 341-1, de proposer des produits interdits de
+démarchage mentionnés à l'article L. 341-10 ;
+
+3° Le fait, pour toute personne, d'exercer ou de tenter d'exercer une activité
+de démarchage bancaire ou financier en violation de l'interdiction prévue à
+l'article L. 341-9 ;
+
+4° Le fait, pour toute personne se livrant à l'activité de démarchage bancaire
+ou financier, de proposer aux personnes démarchées des produits, instruments
+financiers et services autres que ceux pour lesquels elle a reçu des
+instructions expresses de la ou des personnes pour le compte de laquelle ou
+desquelles elle agit ;
+
+5° Le fait, pour toute personne se livrant à l'activité de démarchage bancaire
+ou financier, de recevoir des personnes démarchées des espèces, des effets de
+commerce, des valeurs ou chèques au porteur ou à son nom ou tout paieront par un
+autre moyen.

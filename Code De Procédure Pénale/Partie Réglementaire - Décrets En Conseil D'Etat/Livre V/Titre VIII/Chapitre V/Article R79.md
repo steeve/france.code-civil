@@ -70,7 +70,7 @@ française ;
 19° Aux établissements mentionnés à l'article L. 792 du Code de la santé
 publique lorsqu'ils sont saisis d'une demande d'emploi ;
 
-20° A la Commission des opérations de bourse, en ce qui concerne les dirigeants
+20° A l'Autorité des marchés financiers, en ce qui concerne les dirigeants
 d'entreprises faisant appel public à l'épargne lors de la nomination de ces
 dirigeants, lors d'une demande de visa formulée par ceux-ci ou du dépôt d'un
 document d'information en application de l'article 37 de la loi n° 83-1 du 3

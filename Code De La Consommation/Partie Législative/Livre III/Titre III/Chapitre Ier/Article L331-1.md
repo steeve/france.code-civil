@@ -15,3 +15,8 @@ proposition des associations familiales ou de consommateurs.
 
 Un suppléant de chacune de ces personnalités est désigné dans les mêmes
 conditions.
+
+Une personne justifiant d'une expérience dans le domaine de l'économie sociale
+et familiale ainsi qu'une personne justifiant d'un diplôme et d'une expérience
+dans le domaine juridique sont associées à l'instruction du dossier et assistent
+aux réunions de la commission de surendettement avec voix consultative.

@@ -8,8 +8,8 @@ Les organismes d'habitations à loyer modéré comprennent :
 
 - les sociétés anonymes d'habitations à loyer modéré ;
 
-- les sociétés anonymes coopératives de production d'habitations à loyer modéré
-;
+- les sociétés anonymes coopératives de production et les sociétés anonymes
+coopératives d'intérêt collectif d'habitations à loyer modéré ;
 
 - les sociétés anonymes de crédit immobilier ;
 

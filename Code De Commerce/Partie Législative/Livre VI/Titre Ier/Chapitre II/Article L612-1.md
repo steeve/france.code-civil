@@ -8,7 +8,7 @@ année un bilan, un compte de résultat et une annexe. Les modalités
 d'établissement de ces documents sont précisées par décret.
 
 Ces personnes morales sont tenues de nommer au moins un commissaire aux comptes
-et un suppléant choisis sur la liste mentionnée à l'article L. 225-219 qui
+et un suppléant choisis sur la liste mentionnée à l'article L. 822-1 qui
 exercent leurs fonctions dans les conditions prévues par le livre II, titres Ier
 et II, sous réserve des règles qui leur sont propres. Les dispositions de
 l'article L. 242-27 sont applicables.

@@ -1,18 +1,40 @@
 Article L341-4
 ----
-Les interdictions édictées à l'article L. 341-1 et aux 1, 2 et 4 du I de
-l'article L. 341-2 ne sont pas applicables aux établissements de crédit, sous
-réserve qu'ils agissent dans le cadre de la réglementation qui leur est propre
-et qu'ils ne s'adressent qu'à des personnes majeures.
+I. - Les personnes mentionnées à l'article L. 341-3 peuvent mandater des
+personnes physiques afin d'exercer pour leur compte une activité de démarchage
+bancaire ou financier. Les établissements et entreprises ou institutions
+mentionnés au 1° de cet article peuvent également mandater des personnes morales
+à cet effet. Dans ce cas, celles-ci peuvent à leur tour mandater des personnes
+physiques afin d'exercer cette activité pour leur compte.
 
-Toutefois, les démarcheurs qui interviennent pour le compte d'un établissement
-de crédit doivent, sous réserve des conventions internationales, être de
-nationalité française ou ressortissants d'un Etat membre de la Communauté
-européenne et porteurs d'une carte spéciale de démarchage délivrée par ledit
-établissement dans des conditions fixées par décret en Conseil d'Etat.
+II. - Dans tous les cas, le mandat est nominatif. Il mentionne la nature des
+produits et services qui en sont l'objet ainsi que les conditions dans
+lesquelles l'activité de démarchage peut être exercée. Sa durée est limitée à
+deux ans. Il peut être renouvelé.
 
-Les dispositions de l'article L. 341-1 ne dérogent pas aux prescriptions
-imposées aux notaires par les textes législatifs ou réglementaires en vigueur.
-De même, les dispositions de l'article L. 341-2 n'interdisent pas aux notaires
-la recherche de fonds dans les limites de l'exercice de leur profession et
-conformément à des règles fixées par décret.
+Une même personne physique ou morale peut recevoir des mandats émanant de
+plusieurs entreprises, institutions ou établissements mentionnés au 1° de
+l'article L. 341-3. Cette personne informe alors l'ensemble de ses mandants
+ainsi détenus.
+
+III. - Les personnes morales mentionnées à l'article L. 341-3 et celles
+mandatées en application du I du présent article sont civilement responsables du
+fait des démarcheurs, agissant en cette qualité, auxquels elles ont délivré un
+mandat. Les personnes morales mentionnées à l'article L. 341-3 demeurent
+responsables du fait des salariés des personnes morales qu'elles ont mandatées,
+dans la limite du mandat.
+
+IV. - Les démarcheurs personnes physiques et les personnes physiques ayant le
+pouvoir de gérer ou d'administrer les personnes morales mandatées en application
+du I doivent remplir des conditions d'âge, d'honorabilité et de compétence
+professionnelle fixées par décret. Il en va de même des salariés ou employés des
+personnes mentionnées à l'article L. 341-3, lorsqu'ils exercent des activités de
+démarchage, et de ceux des personnes morales mandatées en application du I du
+présent article.
+
+V. - Les règles fixées aux II et IV ne s'appliquent pas aux personnes physiques
+participant à l'envoi de documents nominatifs, sous réserve qu'elles n'aient
+aucun contact personnalisé permettant d'influencer le choix de la personne
+démarchée. Dans ce cas, les personnes morales mentionnées à l'article L. 341-3
+ou mandatées en application du I sont considérées comme exerçant directement
+l'activité de démarchage et sont tenues d'en appliquer les règles.

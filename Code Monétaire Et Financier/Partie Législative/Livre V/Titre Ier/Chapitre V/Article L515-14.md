@@ -34,6 +34,6 @@ III. - Le bien apporté en garantie ou le bien financé par un prêt cautionné 
 être situé dans l'Espace économique européen, dans les territoires d'outre-mer
 de la République, en Suisse, aux Etats- Unis d'Amérique, au Canada ou au Japon.
 Sa valeur est déterminée de manière prudente et exclut tout élément d'ordre
-spéculatif. Les modalités d'évaluation sont fixées par un règlement du comité de
-la réglementation bancaire et financière, qui prévoit notamment dans quels cas
-il doit être recouru à une expertise.
+spéculatif. Les modalités d'évaluation sont fixées par un arrêté du ministre
+chargé de l'économie, qui prévoit notamment dans quels cas il doit être recouru
+à une expertise.

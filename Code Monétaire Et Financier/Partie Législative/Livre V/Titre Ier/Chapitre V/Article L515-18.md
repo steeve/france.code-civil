@@ -6,8 +6,13 @@ ressources bénéficiant du privilège défini à l'article L. 515-19, les soci�
 de crédit foncier peuvent recourir à des instruments financiers à terme, tels
 que définis à l'article L. 211-1.
 
-Les sommes dues au titre de ces instruments financiers à terme, le cas échéant
-après compensation, bénéficient du privilège mentionné à l'article L. 515-19.
+Les sommes dues au titre des instruments financiers à terme conclus par les
+sociétés de crédit foncier pour la couverture de leurs éléments d'actif et de
+passif, le cas échéant après compensation, bénéficient du privilège mentionné à
+l'article L. 515-19 de même que les sommes dues au titre des instruments
+financiers à terme conclus par les sociétés de crédit foncier pour la gestion ou
+la couverture du risque global sur l'actif, le passif et le hors-bilan de ces
+sociétés.
 
 Les sommes dues au titre des instruments financiers à terme utilisés pour la
 couverture des opérations mentionnées au II de l'article L. 515-13 ne

@@ -6,7 +6,9 @@ social.
 
 Il indique également le montant des rémunérations et des avantages de toute
 nature que chacun de ces mandataires a reçu durant l'exercice de la part des
-sociétés contrôlées au sens de l'article L. 233-16.
+sociétés contrôlées au sens de l'article L. 233-16 ou de la société qui
+contrôle, au sens du même article, la société dans laquelle le mandat est
+exercé.
 
 Il comprend également la liste de l'ensemble des mandats et fonctions exercés
 dans toute société par chacun de ces mandataires durant l'exercice.
@@ -16,3 +18,8 @@ Conseil d'Etat, sur la manière dont la société prend en compte les conséquen
 sociales et environnementales de son activité. Le présent alinéa ne s'applique
 pas aux sociétés dont les titres ne sont pas admis aux négociations sur un
 marché réglementé.
+
+Les dispositions des premier et deuxième alinéas ne sont pas applicables aux
+sociétés dont les titres ne sont pas admis aux négociations sur un marché
+réglementé et qui ne sont pas contrôlées au sens de l'article L. 233-16 par une
+société dont les titres sont admis aux négociations sur un marché réglementé.

@@ -13,9 +13,15 @@ sociale. Les opérations de banque autres que la réception de fonds du public q
 l'entreprise a conclues ou s'est engagée à conclure avant la décision de retrait
 d'agrément peuvent être menées à leur terme.
 
-Tout établissement de crédit ayant décidé sa dissolution anticipée avant le
-terme de la période mentionnée à l'article L. 511-15 demeure soumis, jusqu'à la
-clôture de sa liquidation, au contrôle de la commission bancaire, qui peut
-prononcer les sanctions disciplinaires prévues à l'article L. 613-21, y compris
-la radiation. Il ne peut faire état de sa qualité d'établissement de crédit
-qu'en précisant qu'il est en liquidation.
+Par dérogation aux dispositions des 4° et 5° de l'article 1844-7 du code civil,
+la dissolution anticipée d'un établissement de crédit ne peut être prononcée
+qu'après obtention du retrait de son agrément par le Comité des établissements
+de crédit et des entreprises d'investissement. Par dérogation aux articles L.
+123-1 et L. 237-3 du code de commerce, la publication et l'inscription
+modificative au registre du commerce et des sociétés concernant le prononcé de
+cette dissolution doivent mentionner la date de la décision de retrait
+d'agrément par le Comité des établissements de crédit et des entreprises
+d'investissement. Jusqu'à la clôture de sa liquidation, l'établissement reste
+soumis au contrôle de la Commission bancaire, qui peut prononcer l'ensemble des
+sanctions prévues à l'article L. 613-21 du présent code. Il ne peut faire état
+de sa qualité d'établissement de crédit sans préciser qu'il est en liquidation.

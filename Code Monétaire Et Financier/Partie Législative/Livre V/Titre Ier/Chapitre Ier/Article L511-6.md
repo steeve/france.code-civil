@@ -3,10 +3,13 @@ Article L511-6
 Sans préjudice des dispositions particulières qui leur sont applicables, les
 interdictions définies à l'article L. 511-5 ne concernent ni les institutions et
 services énumérés à l'article L. 518-1, ni les entreprises régies par le code
-des assurances, ni les sociétés de réassurance, ni les entreprises
+des assurances, ni les sociétés de réassurance, ni les organismes agréés soumis
+aux dispositions du livre II du code de la mutualité pour les opérations visées
+au e du 1° de l'article L. 111-1 dudit code, ni les entreprises
 d'investissement, ni les organismes collecteurs de la participation des
 employeurs à l'effort de construction pour les opérations prévues par le code de
-la construction et de l'habitation, ni les fonds communs de créances.
+la construction et de l'habitation, ni les fonds communs de créances, ni les
+organismes de placement collectif en valeurs mobilières.
 
 L'interdiction relative aux opérations de crédit ne s'applique pas :
 

@@ -9,8 +9,8 @@ entreprises peuvent exiger d'elles et de leurs succursales établies en France
 communication de toutes informations utiles à l'exercice de ce contrôle.
 
 Sous la seule réserve d'en avoir préalablement informé la Commission de contrôle
-des assurances, les autorités de contrôle de l'Etat d'origine des entreprises
-peuvent procéder, par elles-mêmes ou par l'intermédiaire de personnes qu'elles
-mandatent à cet effet, à des contrôles sur place des succursales établies sur le
-territoire de la République française des entreprises d'assurance
-communautaires.
+des assurances, des mutuelles et des institutions de prévoyance, les autorités
+de contrôle de l'Etat d'origine des entreprises peuvent procéder, par
+elles-mêmes ou par l'intermédiaire de personnes qu'elles mandatent à cet effet,
+à des contrôles sur place des succursales établies sur le territoire de la
+République française des entreprises d'assurance communautaires.

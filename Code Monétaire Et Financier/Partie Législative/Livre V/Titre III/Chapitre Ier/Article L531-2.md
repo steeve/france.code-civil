@@ -37,9 +37,17 @@ f) Les personnes qui fournissent un service d'investissement, de manière
 accessoire à une activité professionnelle et dans la mesure où celle-ci est
 régie par des règles qui ne l'interdisent pas formellement ;
 
-g) Les personnes dont l'activité est régie par les chapitres Ier à III du titre
-IV du livre III ;
+g) Les personnes dont l'activité est régie par le chapitre Ier du titre IV du
+livre III à la condition qu'elles soient mandatées, conformément à l'article L.
+341-4, par des personnes habilitées à fournir les mêmes services
+d'investissement ;
 
-h) Les courtiers en marchandises qui ne fournissent un service d'investissement
-qu'à leurs contreparties et dans la mesure nécessaire à l'exercice de leur
-activité principale.
+h) Les intermédiaires en marchandises qui ne fournissent un service
+d'investissement qu'à leurs clients et dans la mesure nécessaire à l'exercice de
+leur activité principale ;
+
+i) Les entreprises qui, ayant pour activité principale la production, la
+transformation, la distribution ou la vente de marchandises, négocient les
+instruments mentionnés au 4 du II de l'article L. 211-1 pour les besoins normaux
+de leurs activités et dans la mesure où celles-ci sont régies par des règles qui
+ne l'interdisent pas formellement.

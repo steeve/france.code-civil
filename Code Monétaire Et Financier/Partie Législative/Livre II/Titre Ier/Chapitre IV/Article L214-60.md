@@ -5,5 +5,5 @@ reconstitution définie à l'article L. 214-78.
 
 Tout écart entre le prix de souscription et la valeur de reconstitution des
 parts supérieur à 10 % doit être justifié par la société de gestion et notifié à
-la commission des opérations de bourse dans des conditions fixées par arrêté du
+l'Autorité des marchés financiers dans des conditions fixées par arrêté du
 ministre chargé de l'économie.

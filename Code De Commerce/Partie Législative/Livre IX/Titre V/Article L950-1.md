@@ -16,7 +16,7 @@ Futuna :
 524-20 et L. 524-21 ;
 
 6° Le livre VI, à l'exception des articles L. 621-38, L. 621-132 et L. 628-1 à
-L. 628-3 ;
+L. 628-8 ;
 
 7° Le livre VII, à l'exception des articles L. 711-5, L. 711-9, L. 720-1 à L.
 730-17.

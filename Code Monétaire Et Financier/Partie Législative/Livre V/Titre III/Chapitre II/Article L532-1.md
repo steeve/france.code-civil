@@ -7,17 +7,13 @@ comité des établissements de crédit et des entreprises d'investissement. Il
 n'est pas requis pour le seul exercice d'un ou plusieurs des services mentionnés
 à l'article L. 321-2.
 
-Préalablement à la délivrance de cet agrément, les entreprises d'investissement
-et les établissements de crédit doivent obtenir l'approbation par le conseil des
-marchés financiers de leur programme d'activité. Cette approbation est
-nécessaire pour chacun des services d'investissement définis à l'article L.
-321-1.
+Préalablement à la délivrance d'un agrément portant sur le service mentionné au
+4 de l'article L. 321-1, les entreprises d'investissement et les établissements
+de crédit doivent obtenir l'approbation par l'Autorité des marchés financiers de
+leur programme d'activité.
 
-L'approbation du programme d'activité portant sur le service mentionné au 4 de
-l'article L. 321-1 est délivrée par la commission des opérations de bourse.
 Lorsque ce service a vocation à être exercé à titre principal, l'agrément de
-l'entreprise d'investissement est délivré par la Commission des opérations de
-bourse.
+l'entreprise d'investissement est délivré par l'Autorité des marchés financiers.
 
 Un décret en Conseil d'Etat détermine les modalités d'application du présent
 article. Il précise, notamment, les conditions dans lesquelles les décisions

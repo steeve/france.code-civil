@@ -6,5 +6,6 @@ services doit être en mesure de communiquer à tout moment tous documents et
 éléments d'information lui permettant de justifier qu'elle respecte les
 obligations qui s'imposent à elle en application du présent code. Elle est tenue
 de communiquer ces documents et informations à la Commission de contrôle des
-assurances, à la demande de celle-ci. Un arrêté précise, en tant que de besoin,
-les modalités d'application du présent article.
+assurances, des mutuelles et des institutions de prévoyance, à la demande de
+celle-ci. Un arrêté précise, en tant que de besoin, les modalités d'application
+du présent article.

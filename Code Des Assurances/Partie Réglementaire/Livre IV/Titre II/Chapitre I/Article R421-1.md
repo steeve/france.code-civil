@@ -3,8 +3,8 @@ Article R421-1
 Sont prises en charge par le fonds de garantie, conformément aux dispositions de
 la présente section, les indemnités dues aux victimes d'accidents mentionnés à
 l'article L. 421-1 ou à leurs ayants droit à la condition que ces accidents
-soient survenus en France métropolitaine, dans la collectivité territoriale de
-Mayotte ou dans les départements d'outre-mer.
+soient survenus en France métropolitaine, à Mayotte ou dans les départements
+d'outre-mer.
 
 Ne sont prises en charge par le fonds de garantie les indemnités dues aux
 victimes d'accidents dans lesquels sont impliqués des véhicules terrestres à

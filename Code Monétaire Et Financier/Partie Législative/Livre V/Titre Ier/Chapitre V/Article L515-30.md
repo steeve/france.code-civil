@@ -39,9 +39,14 @@ connaissance à raison de ses fonctions. Il est toutefois délié du secret
 professionnel à l'égard de la commission bancaire à laquelle il est tenu de
 signaler immédiatement tout fait ou toute décision dont il a eu connaissance
 dans l'exercice de sa mission et qui est de nature à porter atteinte aux
-conditions ou à la continuité d'exploitation de la société de crédit foncier. Il
-révèle au procureur de la République les faits délictueux dont il a eu
-connaissance, sans que sa responsabilité soit engagée par cette révélation.
+conditions ou à la continuité d'exploitation de la société de crédit foncier. Le
+secret professionnel est également levé, dans le cadre de leurs missions
+respectives, entre le contrôleur spécifique et les commissaires aux comptes de
+la société de crédit foncier et de toute société contrôlant, au sens de
+l'article L. 233-3 du code de commerce, la société de crédit foncier. Le
+contrôleur spécifique révèle au procureur de la République les faits délictueux
+dont il a eu connaissance, sans que sa responsabilité soit engagée par cette
+révélation.
 
 Il est responsable, tant à l'égard de la société que des tiers, des conséquences
 dommageables des fautes et négligences par lui commises dans l'exercice de ses
