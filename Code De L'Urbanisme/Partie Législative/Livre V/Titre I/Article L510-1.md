@@ -6,7 +6,7 @@ l'extension, le changement d'utilisateur ou d'utilisation de locaux ou
 installations ou de leurs annexes servant à des activités industrielles,
 commerciales, professionnelles, administratives, techniques, scientifiques ou
 d'enseignement ne relevant pas de l'Etat ou de son contrôle peuvent être soumis
-à un agrément du ministre chargé de l'urbanisme.
+à un agrément de l'autorité administrative.
 
 Les sanctions de l'article L. 480-4 sont applicables en cas de défaut d'agrément
 ou d'infractions aux conditions fixées par ledit décret ou par la décision
