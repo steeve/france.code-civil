@@ -1,28 +1,29 @@
 Article R162-32-2
 ----
-Pour les établissements mentionnés à l'article L. 6114-3 du code de la santé
-publique, les modalités de contrôle, par les agences régionales de
-l'hospitalisation mentionnées à l'article L. 6115-2 du même code, de l'exécution
-des obligations législatives, réglementaires ou contractuelles qui s'imposent
-aux établissements sont les suivantes :
+Les catégories de prestations pour exigences particulières du patient, sans
+fondement médical, mentionnées au 2° des articles L. 162-22-1 et L. 162-22-6,
+qui donnent lieu à facturation sans prise en charge par les régimes obligatoires
+de sécurité sociale, en sus des prestations mentionnées au 1° des mêmes
+articles, sont les suivantes :
 
-I. - L'agence régionale de l'hospitalisation peut recourir, pour des missions de
-contrôle, aux personnels des services de l'Etat et de l'assurance maladie qui
-concourent à son fonctionnement en vertu de la convention constitutive prévue à
-l'article L. 6115-2 du code de la santé publique, notamment aux médecins
-mentionnés à l'article L. 1112-1 du même code.
+1° L'installation dans une chambre particulière, en l'absence de prescription
+médicale imposant l'isolement, en cas d'hospitalisation avec l'hébergement ;
 
-II. - A l'occasion de ces contrôles, qui sont réalisés en présence du directeur
-de l'établissement ou de son représentant, l'établissement de santé donne toutes
-les facilités nécessaires à l'exercice de la mission.
+2° L'hébergement, ainsi que les repas et les boissons des personnes qui
+accompagnent la personne hospitalisée ;
 
-III. - Les agents chargés du contrôle présentent sur place les observations
-utiles à la direction de l'établissement. A l'issue du contrôle, ils
-établissent, dans un délai de deux mois à compter du dernier jour de contrôle,
-un rapport adressé, d'une part, à l'agence régionale de l'hospitalisation et,
-d'autre part, à l'établissement qui peut alors faire connaître ses observations
-dans le délai d'un mois.
+3° La mise à disposition du patient, à la chambre, de moyens d'émission et de
+réception d'ondes radioélectriques, notamment la télévision et le téléphone ;
 
-Lors de la visite, aucune observation ne doit être faite en présence du malade
-ou de sa famille, ou en présence d'un tiers, membre du personnel ou non, à
-l'exception du directeur ou de son représentant.
+4° Les interventions de chirurgie esthétique mentionnées à l'article L. 6322-1
+du code de la santé publique ;
+
+5° Les prestations exceptionnelles ayant fait l'objet d'une demande écrite, dans
+la mesure où ces prestations ne sont pas couvertes par les tarifs des
+prestations de l'établissement.
+
+Peut également donner lieu à une facturation sans prise en charge par les
+régimes obligatoires de sécurité sociale le maintien du corps du patient dans la
+chambre mortuaire de l'établissement, à la demande de la famille, au-delà du
+délai de trois jours suivant le décès prévu à l'article R. 2223-89 du code
+général des collectivités territoriales.

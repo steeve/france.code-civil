@@ -50,10 +50,10 @@ c) Des produits et prestations inscrits sur la liste prévue à l'article L. 165
 d) Des médicaments spécialisés, préparations magistrales ou fournitures
 pharmaceutiques mentionnés sur les listes de l'article L. 162-17 et, le cas
 échéant, du médicament prescrit auquel le pharmacien en a substitué un autre,
-conformément à la réglementation en vigueur ; lorsque la prescription est
-libellée en dénomination commune, au sens de l'article L. 5125-23 du code de la
-santé publique, le numéro de code du médicament délivré par le pharmacien est
-complété par la mention correspondante ;
+conformément à la réglementation en vigueur lorsque la prescription est libellée
+en dénomination commune, au sens de l'article L. 5125-23 du code de la santé
+publique, le numéro de code du médicament délivré par le pharmacien est complété
+par la mention correspondante ;
 
 e) Des produits sanguins labiles mentionnés à l'article L. 666-9 du code de la
 santé publique ;
@@ -89,15 +89,14 @@ dernière prestation présenté à remboursement ;
 11° Pour les bordereaux de facturation, tels que définis au deuxième alinéa de
 l'article R. 161-40 :
 
-a) Les frais afférents aux prestations mentionnées aux 1° à 5° du I et au II de
-l'article R. 162-31, y compris le cas échéant aux prestations servies par un
-autre établissement de santé au cours du séjour du patient, ainsi qu'à la
-fourniture des produits ou médicaments mentionnés aux c à f du 6° du I du même
-article ;
+a) Les frais afférents aux articles R. 162-31, R. 162-31-1 et R. 162-32, y
+compris le cas échéant aux prestations servies par un autre établissement de
+santé au cours du séjour du patient, ainsi qu'à la fourniture des produits ou
+médicaments mentionnés au 2° de l'article R. 162-31-2 et au 1° du R. 162-32-1 ;
 
-b) Les honoraires et frais mentionnés aux a et b du 6° du I de l'article R.
-162-31, correspondant aux actes effectués au cours du séjour du patient, quelle
-que soit la nature du lien existant entre le professionnel et l'établissement.
+b) mentionnés au 1° de l'article R. 162-31-2 et au 2° de l'article R. 162-32-1,
+correspondant aux actes effectués au cours du séjour du patient, quelle que soit
+la nature du lien existant entre le professionnel et l'établissement.
 
 Par dérogation au 10° du présent article, le point de départ du délai mentionné
 au I de l'article R. 161-47 est la date de fin d'hospitalisation du patient.

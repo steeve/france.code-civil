@@ -9,5 +9,5 @@ lieu.
 
 Les feuilles de soins nécessaires aux actes effectués et aux prestations
 servies, directement liés à une hospitalisation dans un établissement de santé
-privé régi par les dispositions de l'article L. 710-16-2 du code de la santé
-publique, sont appelées bordereaux de facturation.
+mentionné au d de l'article L. 162-22-6, sont appelées bordereaux de
+facturation.
