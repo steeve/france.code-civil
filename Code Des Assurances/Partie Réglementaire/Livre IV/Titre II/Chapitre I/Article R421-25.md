@@ -22,11 +22,11 @@ effectivement les opérations d'assurance chasse ;
 
 - six membres désignés par arrêté du ministre de l'économie et des finances,
 respectivement sur la proposition du directeur général de la Caisse des dépôts
-et consignations, de l'assemblée des présidents des chambres de commerce et
-d'industrie de France, de l'assemblée permanente des présidents des chambres
-d'agriculture de France, de la fédération française des clubs automobiles, de la
-fédération nationale des transporteurs routiers et de l'Office national de la
-chasse.
+et consignations, de l'assemblée des présidents des chambres françaises de
+commerce et d'industrie de France, de l'assemblée permanente des présidents des
+chambres d'agriculture de France, de la fédération française des clubs
+automobiles, de la fédération nationale des transporteurs routiers et de
+l'Office national de la chasse.
 
 Le conseil élit son président parmi ses membres.
 

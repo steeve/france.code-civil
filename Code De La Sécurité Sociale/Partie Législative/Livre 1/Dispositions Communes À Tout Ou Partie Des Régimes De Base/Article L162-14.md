@@ -2,39 +2,25 @@ Article L162-14
 ----
 Les rapports entre les caisses primaires d'assurance maladie et les directeurs
 de laboratoires privés d'analyses médicales sont définis par une convention
-nationale conclue entre la caisse nationale de l'assurance maladie des
-travailleurs salariés et une ou plusieurs des organisations syndicales
-nationales les plus représentatives de la profession.
+nationale conclue pour une durée au plus égale à cinq ans entre une ou plusieurs
+organisations syndicales membres du comité professionnel national de la biologie
+mentionné à l'article L. 162-14-1 et la Caisse nationale de l'assurance maladie
+des travailleurs salariés.
 
-Cette convention détermine [*contenu*] :
+Cette convention détermine notamment [*contenu*] :
 
-1°) les obligations respectives des caisses primaires d'assurance maladie et des
-directeurs de laboratoires privés d'analyses médicales ;
+1° Les obligations respectives des caisses primaires d'assurance maladie et des
+directeurs de laboratoires privés d'analyses médicales :
 
-2°) les tarifs des honoraires applicables aux analyses et les tarifs des frais
-accessoires dus à ces laboratoires.
+2° Les modalités du contrôle de l'exécution par les laboratoires des obligations
+qui découlent pour eux de l'application de la convention ;
 
-Elle peut également prévoir que les directeurs de laboratoires s'engagent à
-faire bénéficier la caisse nationale de l'assurance maladie des travailleurs
-salariés d'une remise assise sur le montant des analyses et frais accessoires
-qu'ils facturent.
+3° Les conditions dans lesquelles est organisée la formation continue des
+directeurs de laboratoires ;
 
-Elle n'entre en vigueur qu'après approbation par arrêté interministériel ; il en
-est de même de ses annexes et avenants.
+4° Le financement des instances et des actions nécessaires à la mise en oeuvre
+de l'accord mentionné à l'article L. 162-14-1 de la convention et de l'annexe
+mentionnée à l'article L. 162-14-2.
 
-Dès son approbation, la convention est applicable à l'ensemble des laboratoires
-privés d'analyses médicales ; toutefois ses dispositions ne sont pas applicables
-:
-
-1°) aux laboratoires dont, dans des conditions déterminées par la convention,
-les directeurs ont fait connaître à la caisse primaire d'assurance maladie
-qu'ils n'acceptent pas d'être régis par ses dispositions [*non conventionnés*] ;
-
-2°) aux laboratoires dont la caisse primaire d'assurance maladie a constaté
-qu'ils se sont placés hors de la convention par violation des engagements
-qu'elle prévoit ; cette décision doit être prononcée dans les conditions prévues
-par la convention.
-
-A défaut de convention nationale, les tarifs des analyses et frais accessoires
-dus aux laboratoires privés d'analyses médicales sont fixés par arrêté
-interministériel, après consultation de la profession.
+La convention définit les exigences particulières sans motif médical des
+patients donnant lieu à dépassement des tarifs.
