@@ -1,6 +1,5 @@
 Article R112-30
 ----
-L'indication du lot de fabrication des denrées alimentaires non préemballées
-figure sur l'emballage ou le récipient contenant la denrée alimentaire ou, à
-défaut, sur les documents commerciaux s'y référant selon les dispositions
-prévues aux articles R. 112-5 et R. 112-27.
+Des arrêtés du ministre chargé de la consommation, du ministre chargé de
+l'agriculture et, le cas échéant, des autres ministres intéressés fixent les
+modalités pratiques d'indication du lot de fabrication.
