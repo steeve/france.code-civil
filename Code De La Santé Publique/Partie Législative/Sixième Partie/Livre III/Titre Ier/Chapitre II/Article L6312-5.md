@@ -22,4 +22,8 @@ transports sanitaires ainsi que les modalités de son retrait ;
 
 - les obligations de ces personnes à l'égard du service de garde organisé par le
 représentant de l'Etat dans le département et à l'égard des centres de réception
-et de régulation des appels mentionnés à l'article L. 6112-5.
+et de régulation des appels mentionnés à l'article L. 6112-5 ;
+
+- les conditions dans lesquelles le représentant de l'Etat dans le département
+organise, après avis du comité mentionné à l'article L. 6313-1, la garde
+départementale assurant la permanence du transport sanitaire.

@@ -1,6 +1,6 @@
 Article L732-5
 ----
-Les dispositions des articles L. 315-1, L. 315-2 et L. 315-3 du code de la
+Les dispositions des articles L. 315-1, L. 315-2 et L. 315-2-1 du code de la
 sécurité sociale sont applicables au régime d'assurance maladie, invalidité et
 maternité des personnes non salariées des professions agricoles.
 

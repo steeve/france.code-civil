@@ -18,5 +18,5 @@ individualité et son statut propre pour tout ce qui concerne sa gestion.
 Ces contrats sont approuvés selon les modalités prévues à l'article L. 6122-10.
 
 Ces concessionnaires ne peuvent recevoir de subventions pour leurs équipements,
-à l'exception des subventions du fonds pour la modernisation des cliniques
-privées.
+à l'exception des subventions du Fonds pour la modernisation des établissements
+de santé publics et privés.

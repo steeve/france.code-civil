@@ -2,7 +2,7 @@ Article L131-10
 ----
 Les produits du fonds sont constituées par :
 
-1° Une fraction égale à 90,77 % du produit du droit de consommation visé à
+1° Une fraction égale à 84,45 % du produit du droit de consommation visé à
 l'article 575 du code général des impôts ;
 
 2° Le produit de la contribution sociale sur les bénéfices des sociétés visée

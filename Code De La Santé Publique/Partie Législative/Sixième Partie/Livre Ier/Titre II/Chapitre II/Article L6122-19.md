@@ -2,8 +2,10 @@ Article L6122-19
 ----
 Le Gouvernement peut expérimenter, à compter du 1er janvier 2000, et pour une
 période n'excédant pas cinq ans, de nouveaux modes de financement des
-établissements de santé publics ou privés, fondés sur une tarification à la
-pathologie.
+établissements de santé publics ou privés, fondés sur leurs activités et établis
+en fonction des informations qu'ils recueillent et transmettent en application
+des articles L. 6113-7 et L. 6113-8 du présent code et du 7° de l'article L.
+162-22-1 du code de la sécurité sociale.
 
 Les expériences pourront être menées dans une zone géographique déterminée, pour
 tous les établissements de santé de la zone ou pour une partie d'entre eux,

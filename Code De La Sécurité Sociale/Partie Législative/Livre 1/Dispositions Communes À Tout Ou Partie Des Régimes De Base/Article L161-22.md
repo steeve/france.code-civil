@@ -29,7 +29,16 @@ législatif ou réglementaire ;
 5°) activités d'hébergement en milieu rural réalisées avec des biens
 patrimoniaux ;
 
-6° Des activités de parrainage définies à l'article L. 811-2 du code du travail.
+6° Des activités de parrainage définies à l'article L. 811-2 du code du travail
+;
+
+7° Activités correspondant à des vacations accomplies dans des établissements de
+santé ou dans des établissements ou services sociaux et médico-sociaux et à leur
+demande par des médecins ou infirmiers en retraite, dans la limite d'une durée
+et d'un plafond prévus par décret en Conseil d'Etat. Le dépassement du plafond
+entraîne une réduction à due concurrence de la pension de retraite. Cette
+possibilité de cumul n'est ouverte qu'à compter de l'âge légal ou réglementaire
+de départ à la retraite.
 
 Les dispositions du premier alinéa ne sont pas opposables à l'assuré qui demande
 le bénéfice d'une pension au titre des articles L. 351-15, L. 634-3-1, L.

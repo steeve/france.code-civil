@@ -5,7 +5,9 @@ Conseil d'Etat, et notamment :
 
 1° Les critères scientifiques justifiant le cas échéant l'exonération des études
 de biodisponibilité des spécialités génériques définies au 5° de l'article L.
-5121-1 ;
+5121-1 et les modalités de création de groupes génériques en l'absence de
+spécialité de référence, ces groupes étant définis au 5° de l'article L. 5121-1
+;
 
 2° Les modalités d'application de l'article L. 5121-7 relatif aux bonnes
 pratiques de laboratoire ;

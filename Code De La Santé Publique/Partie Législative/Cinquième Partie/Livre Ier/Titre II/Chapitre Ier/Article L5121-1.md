@@ -33,9 +33,12 @@ celle qui a la même composition qualitative et quantitative en principe actif,
 la même forme pharmaceutique et dont la bioéquivalence avec la spécialité de
 référence est démontrée par des études de biodisponibilité appropriées. La
 spécialité de référence et les spécialités qui en sont génériques constituent un
-groupe générique. Pour l'application du présent 5°, les différentes formes
-pharmaceutiques orales à libération immédiate sont considérées comme une même
-forme pharmaceutique ;
+groupe générique. En l'absence de spécialité de référence, un groupe générique
+peut être constitué de spécialités ayant la même composition qualitative et
+quantitative en principe actif, la même forme pharmaceutique et dont le profil
+de sécurité et d'efficacité est équivalent. Pour l'application du présent 5°,
+les différentes formes pharmaceutiques orales à libération immédiate sont
+considérées comme une même forme pharmaceutique ;
 
 6° Médicament immunologique, tout médicament consistant en :
 
