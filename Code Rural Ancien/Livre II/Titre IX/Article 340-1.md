@@ -48,6 +48,9 @@ intervenant dans le cadre de leurs attributions sous l'autorité médicale d'un
 vétérinaire ou d'un docteur vétérinaire, pour la réalisation de constats de
 gestation, notamment par échographie, des femelles équines.
 
+9° Les fonctionnaires ou agents mentionnés à l'article 309-7-1 et intervenant
+dans les limites prévues par ledit article.
+
 b) Les castrations des animaux autres que les équidés et les carnivores
 domestiques ;
 

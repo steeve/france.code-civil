@@ -29,3 +29,7 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent
 article. Les collections déjà constituées doivent être déclarées dans un délai
 de six mois à compter de sa publication. Les dispositions du précédent alinéa
 leur sont applicables.
+
+Le présent article est applicable dans les territoires d'outre-mer et dans la
+collectivité territoriale de Mayotte. Pour son application dans les territoires
+d'outre-mer, les mots : au livre II bis du présent code et sont supprimés.
