@@ -1,8 +1,9 @@
 Article 199 decies B
 ----
 Le taux de la réduction d'impôt mentionnée à l'article 199 decies A est porté à
-15 p. 100 et la limite de 300.000 F est portée à 400.000 F et celle de 600.000 F
-à 800.000 F lorsque la location est effectuée dans les conditions suivantes :
+15 p. 100 et la limite de 300 000 F (3) est portée à 400 000 F (3) et celle de
+600 000 F (3) à 800 000 F (3) lorsque la location est effectuée dans les
+conditions suivantes :
 
 1° Le propriétaire s'engage à louer le logement nu à usage de résidence
 principale du locataire pendant six ans ;
@@ -22,19 +23,19 @@ développement du territoire.
 un descendant du contribuable (2).
 
 Ces dispositions s'appliquent également aux souscriptions au capital de sociétés
-civiles régies par la loi n° 70-1300 du 31 décembre 1970 modifiée fixant le
-régime applicable aux sociétés civiles autorisées à faire publiquement appel à
-l'épargne, réalisées à compter du 1er janvier 1993 lorsque la société s'engage à
-affecter intégralement le produit de la souscription annuelle, dans les six mois
-qui suivent la clôture de celle-ci, à l'acquisition de logements neufs loués
-dans les mêmes conditions. Le souscripteur doit s'engager à conserver les parts
-pendant une durée de six ans à compter de la date de l'achèvement des immeubles
-ou de leur acquisition par la société si elle est postérieure.
+civiles régies par la section 3 du chapitre IV du titre Ier du livre II du code
+monétaire et financier, réalisées à compter du 1er janvier 1993 lorsque la
+société s'engage à affecter intégralement le produit de la souscription
+annuelle, dans les six mois qui suivent la clôture de celle-ci, à l'acquisition
+de logements neufs loués dans les mêmes conditions. Le souscripteur doit
+s'engager à conserver les parts pendant une durée de six ans à compter de la
+date de l'achèvement des immeubles ou de leur acquisition par la société si elle
+est postérieure.
 
 La réduction d'impôt ne peut être opérée qu'une fois et est répartie sur quatre
 années au maximum. Elle est imputée la première année à raison du quart des
-limites de 60.000 F ou de 120.000 F, puis, le cas échéant, pour le solde les
-trois années suivantes dans les mêmes conditions.
+limites de 60 000 F (3) ou de 120 000 F (3), puis, le cas échéant, pour le solde
+les trois années suivantes dans les mêmes conditions.
 
 Les dispositions du présent article s'appliquent aux logements dont la
 construction a fait l'objet, après le 15 mars 1992, de la déclaration
@@ -53,3 +54,5 @@ modifié de la loi n° 95-115 du 4 février 1995 précitée.
 
 (2) Ces dispositions sont applicables aux locations conclues à compter du 1er
 janvier 1994.
+
+(3) Montant périmé au 1er janvier 2002.

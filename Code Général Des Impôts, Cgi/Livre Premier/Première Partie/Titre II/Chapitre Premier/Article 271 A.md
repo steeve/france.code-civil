@@ -52,10 +52,8 @@ n'est alors pas convertie en créance et elle n'est plus soumise aux disposition
 du 2.
 
 Cette créance n'est ni cessible ni négociable ; elle peut toutefois être donnée
-en nantissement ou cédée à titre de garantie dans les conditions prévues par la
-loi n° 81-1 du 2 janvier 1981 facilitant le crédit aux entreprises, modifiée par
-la loi n° 84-46 du 24 janvier 1984 modifiée relative à l'activité et au contrôle
-de établissements de crédit.
+en nantissement ou cédée à titre de garantie dans les conditions prévues par les
+articles L313-24 à L313-36 du code monétaire et financier.
 
 Elle est transférée en cas de fusion, scission, cession d'entreprise ou apport
 partiel d'actif.
@@ -65,14 +63,14 @@ demeure sans incidence pour la détermination du résultat imposable.
 
 Des décrets en Conseil d'Etat déterminent les conditions et modalités de
 remboursement, de gestion, de transfert et de nantissement des titres. Le
-remboursement des titres intervient à hauteur de 10 p. 100 au minimum pour
-l'année 1994 et pour les années suivantes de 5 p. 100 par an au minimum du
-montant de la créance constatée pour l'ensemble des redevables et dans un délai
-maximal de vingt ans, et en cas de cessation définitive d'activité.
+remboursement des titres intervient à hauteur de 10 % au minimum pour l'année
+1994 et pour les années suivantes de 5 % par an au minimum du montant de la
+créance constatée pour l'ensemble des redevables et dans un délai maximal de
+vingt ans, et en cas de cessation définitive d'activité.
 
 La créance porte intérêt à un taux fixé par arrêté du ministre du budget sans
-que ce taux puisse excéder 4,5 p. 100. Les modalités de paiement de ces intérêts
-sont fixées par arrêté conjoint des ministres de l'économie et du budget.
+que ce taux puisse excéder 4,5 %. Les modalités de paiement de ces intérêts sont
+fixées par arrêté conjoint des ministres de l'économie et du budget.
 
 4. Les redevables adressent au service des impôts dont ils relèvent un document
 conforme au modèle prescrit par l'administration et mentionnant le calcul et le
@@ -90,9 +88,9 @@ d'affaires au titre de la période de référence ou qui n'ont pas déposé le
 document prévu au premier alinéa ne peuvent bénéficier de la créance prévue au 3
 qu'après que leur situation a été régularisée.
 
-5. Lorsque le montant de la déduction de référence n'excède pas 10 000 F, les
-redevables qui sont placés sous le régime réel normal d'imposition de la taxe
-sur la valeur ajoutée ne sont pas tenus de soustraire cette déduction de
+5. Lorsque le montant de la déduction de référence n'excède pas 10 000 F (1),
+les redevables qui sont placés sous le régime réel normal d'imposition de la
+taxe sur la valeur ajoutée ne sont pas tenus de soustraire cette déduction de
 référence dans les conditions prévues au 1. Ces redevables adressent cependant
 au service des impôts dont ils relèvent le document prévu au 4.
 
@@ -114,9 +112,9 @@ une déclaration de régularisation déposée en 1993, un des acomptes versés e
 qu'immobilisations et des services du dernier mois de la période au titre de
 laquelle l'acompte est versé.
 
-Ces compléments de taxe déductible sont limités à 90 p. 100 de leur montant
-lorsque les redevables ont bénéficié des dispositions de l'article 3 du décret
-n° 93-117 du 28 janvier 1993.
+Ces compléments de taxe déductible sont limités à 90 % de leur montant lorsque
+les redevables ont bénéficié des dispositions de l'article 3 du décret n° 93-117
+du 28 janvier 1993.
 
 8. Pour les redevables qui relèvent du régime simplifié d'imposition et qui ont
 renoncé aux modalités simplifiées de liquidation des taxes sur le chiffre
@@ -133,8 +131,7 @@ déductible par le redevable est inférieur au montant qu'il aurait dû retenir,
 les rappels, assortis des pénalités prévues à l'article 1729, sont de montant
 égal à l'insuffisance constatée.
 
-Une pénalité supplémentaire s'élevant à 40 p. 100 de cette minoration est
-appliquée.
+Une pénalité supplémentaire s'élevant à 40 % de cette minoration est appliquée.
 
 Aucune pénalité n'est encourue lorsque l'insuffisance résulte d'une
 rectification, opérée à l'initiative de l'administration, du montant de la taxe
@@ -154,7 +151,7 @@ Les pénalités prévues à l'article 1729 sont applicables, sauf dans le cas o�
 rappel résulte de la rectification, opérée à l'initiative de l'administration,
 du montant de la taxe déductible de la période de référence.
 
-5° Lorsque la fréance est inférieure à la déduction de référence qui doit être
+5° Lorsque la créance est inférieure à la déduction de référence qui doit être
 soustraite de la taxe déductible, le dégrèvement de l'insuffisance constatée qui
 en résulte prend effet à la date de l'échéance du titre ou de la cessation
 définitive d'activité.
@@ -168,3 +165,5 @@ peuvent être rectifiées du fait de la prescription.
 s'appliquent aux achats, acquisitions intracommunautaires, importations,
 livraisons de biens et services pour lesquels le droit à déduction a pris
 naissance après le 30 juin 1993.
+
+(1) Montant périmé au 1er janvier 2002.

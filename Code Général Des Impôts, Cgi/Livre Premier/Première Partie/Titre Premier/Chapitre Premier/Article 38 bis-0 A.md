@@ -1,11 +1,9 @@
 Article 38 bis-0 A
 ----
 I 1. Les valeurs, titres ou effets mis en pension par une personne morale dans
-les conditions prévues à l'article 12 de la loi n° 93-1444 du 31 décembre 1993
-portant diverses dispositions relatives à la Banque de France, à l'assurance, au
-crédit et aux marchés financiers sont, pour l'application des dispositions du
-présent code, réputés ne pas avoir été cédés sous réserve des dispositions de
-l'article 12 mentionné ci-dessus.
+les conditions prévues aux articles L. 432-12 à L. 432-19 du code monétaire et
+financier sont, pour l'application des dispositions du présent code, réputés ne
+pas avoir été cédés sous réserve des dispositions des articles précités.
 
 2. Les valeurs, titres ou effets mis en pension sont maintenus à l'actif du
 bilan du cédant ; le montant de la dette vis-à-vis du cessionnaire est inscrit

@@ -6,9 +6,8 @@ chèque répondant aux caractéristiques de barrement d'avance et de
 non-transmissibilité par voie d'endossement mentionné à l'article L. 96 du livre
 des procédures fiscales, soit par tout autre moyen inscrivant le montant réglé
 au débit d'un compte tenu chez un établissement de crédit, une entreprise
-d'investissement ou une institution mentionnée à l'article 8 modifié de la loi
-n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des
-établissements de crédit. Toutefois, les dispositions du présent alinéa ne font
+d'investissement ou une institution mentionnée à l'article L. 518-1 du code
+monétaire et financier. Toutefois, les dispositions du présent alinéa ne font
 pas obstacle au paiement d'un acompte, réglé par tout moyen, dans la limite de 3
 000 F.
 

@@ -9,7 +9,7 @@ chambre syndicale des banques populaires ;
 adhérentes à la confédération nationale du crédit mutuel ;
 
 3° Aux opérations effectuées entre elles par les caisses de crédit agricole
-mentionnées à l'article 614 du code rural ;
+mentionnées à l'article L. 512-21 du code monétaire et financier ;
 
 3° bis aux opérations effectuées par les affiliés de la Caisse nationale des
 caisses d'épargne et de prévoyance, ainsi que leurs groupements, entre eux ou
@@ -18,9 +18,7 @@ avec la Caisse nationale des caisses d'épargne et de prévoyance ;
 4° Aux intérêts, agios, rémunérations de prêts de titres effectués dans les
 conditions du chapitre V modifié de la loi n° 87-416 du 17 juin 1987 sur
 l'épargne, aux profits tirés des pensions réalisées dans les conditions prévues
-par l'article 12 de la loi n° 93-1344 du 31 décembre 1993 portant diverses
-dispositions relatives à la Banque de France, à l'assurance, au crédit et aux
-marchés financiers ;
+par les articles L. 432-12 à L. 432-19 du code monétaire et financier ;
 
 5° Aux rémunérations assimilables à des intérêts ou agios dont la liste est
 établie par arrêté du ministre chargé des finances (1) ;
@@ -46,10 +44,8 @@ elles-mêmes soumises à la taxe sur la valeur ajoutée en régime intérieur ;
 11° Aux opérations visées aux d et g du 1° de l'article 261 C.
 
 12° Aux commissions perçues lors de l'émission et du placement d'emprunts
-obligataires (2).
+obligataires.
 
 13° Abrogé.
 
 (1) Annexe IV, art. 23 O.
-
-(2) Ces dispositions s'appliquent à compter du 1er janvier 1994.

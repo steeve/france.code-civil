@@ -1,9 +1,9 @@
 Article 38 bis C
 ----
 Par exception aux dispositions de l'article 38, les contrats d'échange de taux
-d'intérêt ou de devises conclus par les établissements de crédit ((ou les
-entreprises d'investissement)) (M) (1) mentionnés à l'article 38 bis A et qui
-sont affectés à la couverture d'instruments financiers évalués à leur valeur de
+d'intérêt ou de devises conclus par les établissements de crédit ou les
+entreprises d'investissement mentionnés à l'article 38 bis A et qui sont
+affectés à la couverture d'instruments financiers évalués à leur valeur de
 marché ou à la gestion spécialisée d'une activité de transaction, sont évalués à
 leur valeur de marché à la clôture de chaque exercice ou à la date à laquelle
 ils cessent de remplir les conditions pour être soumis à cette règle
@@ -22,16 +22,15 @@ Pour l'application des dispositions du premier alinéa, la valeur de marché du
 contrat est déterminée, à la clôture de l'exercice, par actualisation des flux
 de trésorerie futurs en fonction du taux d'intérêt du marché correspondant ;
 cette valeur est corrigée afin de tenir compte des risques de contrepartie et de
-la valeur actualisée des charges afférentes au contrat. ((Le taux d'intérêt est
+la valeur actualisée des charges afférentes au contrat. Le taux d'intérêt est
 pour chaque marché égal à la moyenne des cotations retenues, selon les cas, par
 les établissements de crédit et les entreprises d'investissement visés à
 l'article 38 bis A ou les établissements ou entreprises comparables établis à
 l'étranger, qui exercent leur activité d'une manière significative sur le marché
-concerné. La commission instituée par l'article 37 de la loi n° 84-46 du 24
-janvier 1984 modifiée relative à l'activité et au contrôle des établissements de
-crédit publie chaque année pour chaque marché la liste des établissements et
+concerné. La commission instituée par l'article L. 613-1 du code monétaire et
+financier publie chaque année pour chaque marché la liste des établissements et
 entreprises dont les cotations doivent être retenues pour le calcul du taux
-d'intérêt du marché)) (M).
+d'intérêt du marché.
 
 Les provisions pour pertes afférentes à des contrats d'échange de taux d'intérêt
 ou de devises non soumis aux dispositions du premier alinéa ne sont pas
@@ -63,8 +62,3 @@ Les dispositions du présent article s'appliquent pour la détermination des
 résultats des exercices clos à compter du 31 décembre 1991.
 
 Un décret fixe les modalités d'application du présent article.
-
-(M) Modification.
-
-(1) Dispositions applicables aux exercices ouverts à compter du 1er janvier 1998
-pour les entreprises d'investissement.

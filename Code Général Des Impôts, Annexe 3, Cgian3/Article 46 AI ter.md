@@ -16,7 +16,7 @@ soumis aux obligations définies aux articles 41 sexdecies A à 41 sexdecies F,
 III. En cas de cession ou de rachat de parts, de dissolution du fonds ou de
 distribution d'une partie de ses avoirs, la société de gestion du fonds ou le
 dépositaire des actifs de ce fonds est soumis aux obligations définies aux
-articles 39 quater et 39 quinquies.
+articles 41 duovicies F et 41 duovicies G.
 
 IV. La société de gestion du fonds ou le dépositaire des actifs de ce fonds
 adresse, à la direction des services fiscaux désignée au I, un état de chacun
@@ -40,11 +40,9 @@ c) L'identité et l'adresse du souscripteur ;
 
 d) Le nombre de parts souscrites, le montant et la date de leur souscription.
 
-Cet état précise que les conditions mentionnées à l'article 22-1 de la loi n°
-88-1201 du 23 décembre 1988 modifiée relative aux organismes de placement
-collectif en valeurs mobilières et portant création des fonds communs de
-créances et au 1 du VI de l'article 199 terdecies-0 A du code général des impôts
-sont remplies.
+Cet état précise que les conditions mentionnées à l'article L. 214-41 du code
+monétaire et financier et au 1 du VI de l'article 199 terdecies-0 A du code
+général des impôts sont remplies.
 
 VI. La société de gestion du fonds ou le dépositaire des actifs de ce fonds
 isole dans un compte spécial les parts dont la souscription ouvre droit au
@@ -53,7 +51,7 @@ cinquième année qui suit celle de la souscription.
 
 VII. Lorsque, au cours des cinq années qui suivent leur souscription, les parts
 du fonds sont cédées ou rachetées ou lorsque, dans ce même délai, l'une des
-conditions prévues à l'article 22-1 de la loi du 23 décembre 1988 susvisée cesse
+conditions prévues à l'article L. 214-41 du code monétaire et financier cesse
 d'être remplie, la société de gestion du fonds ou le dépositaire des actifs de
 ce fonds adresse, au souscripteur et à la direction des services fiscaux
 désignée au I, un état individuel qui comprend, outre les informations indiquées
@@ -63,4 +61,4 @@ cesse d'être remplie.
 
 Cet état doit être délivré avant le 16 février de l'année qui suit celle de la
 cession ou du rachat des parts ou du non-respect de l'une des conditions prévues
-à l'article 22-1 de la loi du 23 décembre 1988 susvisée.
+à l'article L. 214-41 du code monétaire et financier.

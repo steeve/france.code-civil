@@ -1,10 +1,10 @@
 Article 38 quindecies E
 ----
 Le locataire d'un fonds de commerce, d'un fonds artisanal ou de l'un de leurs
-éléments incorporels non amortissables loué dans les conditions prévues au 3° de
-l'article 1er de la loi n° 66-445 du 2 juillet 1966 modifiée doit joindre une
-attestation délivrée par l'entreprise bailleresse à la déclaration de résultat
-de l'exercice au cours duquel le contrat de crédit-bail a été conclu.
+éléments incorporels non amortissables loué dans les conditions prévues au 3 de
+l'article L. 313-7 du code monétaire et financier doit joindre une attestation
+délivrée par l'entreprise bailleresse à la déclaration de résultat de l'exercice
+au cours duquel le contrat de crédit-bail a été conclu.
 
 Cette attestation comporte les renseignements suivants :
 

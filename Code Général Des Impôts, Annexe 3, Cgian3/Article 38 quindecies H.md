@@ -1,13 +1,12 @@
 Article 38 quindecies H
 ----
 I. Les entreprises qui donnent en location des biens immobiliers dans les
-conditions prévues au 2° de l'article 1er de la loi n° 66-455 du 2 juillet 1966
-relative aux entreprises pratiquant le crédit-bail doivent, pour chaque
-opération réalisée, conserver à l'appui de leur comptabilité pendant toute la
-durée du contrat un état récapitulant les conditions générales et un tableau
-faisant apparaître, pour chaque loyer, la quote-part de ce dernier prise en
-compte pour la fixation du prix de cession éventuelle de l'immeuble à l'issue du
-contrat.
+conditions prévues au 2 de l'article L. 313-7 du code monétaire et financier
+doivent, pour chaque opération réalisée, conserver à l'appui de leur
+comptabilité pendant toute la durée du contrat un état récapitulant les
+conditions générales et un tableau faisant apparaître, pour chaque loyer, la
+quote-part de ce dernier prise en compte pour la fixation du prix de cession
+éventuelle de l'immeuble à l'issue du contrat.
 
 II. L'état récapitulatif visé au I comporte les renseignements suivants :
 

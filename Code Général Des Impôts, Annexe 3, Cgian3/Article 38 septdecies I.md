@@ -23,10 +23,9 @@ de l'article 83 ter du code général des impôts, la déclaration des revenus e
 accompagnée d'une note précisant sa situation.
 
 3. Lorsque les titres de la société nouvelle sont apportés à une société civile
-ou à un fonds commun de placement d'entreprise mentionné à l'article 21 modifié
-de la loi n° 88-1201 du 23 décembre 1988 relative aux organismes de placement
-collectif en valeurs mobilières, la société nouvelle est tenue aux obligations
-du 2 en cas de cession par un salarié de tout ou partie de ses parts dans la
+ou à un fonds commun de placement d'entreprise mentionné à l'article L. 214-40
+du code monétaire et financier, la société nouvelle est tenue aux obligations du
+2 en cas de cession par un salarié de tout ou partie de ses parts dans la
 société civile ou dans le fonds commun de placement d'entreprise. Il en est de
 même en cas de cession des titres de la société nouvelle par la société civile
 ou par le fonds commun de placement.
