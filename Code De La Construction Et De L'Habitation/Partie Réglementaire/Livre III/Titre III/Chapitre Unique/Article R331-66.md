@@ -25,8 +25,9 @@ L. 312-1 est accordée à ces derniers.
 
 Ces bénéficiaires doivent destiner le logement à leur résidence principale,
 c'est-à-dire l'occupation personnelle du logement au moins huit mois par an,
-soit par elles-mêmes, soit par leur conjoint, soit par leurs ascendants,
-descendants ou ceux de leur conjoint.
+sauf obligation professionnelle, raison de santé ou cas de force majeure, soit
+par elles-mêmes, soit par leur conjoint, soit par leurs ascendants, descendants
+ou ceux de leur conjoint.
 
 Cette occupation doit être effective dans le délai maximum d'un an suivant soit
 la déclaration d'achèvement des travaux, soit l'acquisition des logements si
@@ -35,16 +36,15 @@ ans lorsque le logement est destiné à être occupé par le bénéficiaire du p
 dès sa mise à la retraite ou dès son retour d'un département ou territoire
 d'outre-mer ou de l'étranger.
 
-Toutefois, lorsque les bénéficiaires de prêts conventionnés ne peuvent plus,
-pour des raisons professionnelles ou familiales, destiner le logement à leur
-résidence principale, ils peuvent être autorisés à le louer dans des conditions
-fixées par arrêté conjoint du ministre chargé des finances et du ministre chargé
-de la construction et de l'habitation.
+Toutefois, lorsque les bénéficiaires de prêts conventionnés ne peuvent plus
+destiner le logement à leur résidence principale, ils peuvent le donner en
+location pour une période maximale de six ans. Ils informent l'établissement de
+crédit de ce changement de destination et, le cas échéant, l'organisme payeur de
+l'aide personnalisée au logement.
 
 Les personnes physiques accédant à la propriété au moyen d'un prêt conventionné
-peuvent passer un contrat conforme à l'article 6 de la loi n° 89-475 du 10
-juillet 1989 relative à l'accueil par des particuliers à leur domicile, à titre
-onéreux, de personnes âgées ou handicapées adultes.
+peuvent passer un contrat conforme à l'article L. 443-1 du code de l'action
+sociale et des familles.
 
 Peuvent également bénéficier de ces prêts : les syndicats de copropriétaires qui
 réalisent les travaux visés au 4° de l'article R. 331-63 dans des immeubles où
