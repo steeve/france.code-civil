@@ -1,15 +1,26 @@
 Article R351-50
 ----
-Les recours contre les décisions [*des organismes payeurs*] mentionnées à
-l'article R. 351-49 sont adressés à la [*commission départementale*] section des
-aides publiques au logement du conseil départemental de l'habitat dans le
-ressort de laquelle est situé le logement au titre duquel la décision est prise,
-par lettre recommandée avec demande d'avis de réception [*condition de forme*],
-ou déposés, contre récépissé, au secrétariat de ladite commission.
+Lorsqu'elle est saisie d'une demande gracieuse de remise de dettes ou d'un
+recours administratif contestant une décision d'un organisme ou service chargé
+du paiement de l'aide personnalisée au logement ou de la prime de déménagement,
+la section des aides publiques au logement en accuse réception, soit par la
+délivrance d'un récépissé, soit par lettre dans les quinze jours, en indiquant
+les délais et voies de recours.
 
-Ils sont rédigés sur papier libre et accompagnés d'un exemplaire de la décision
-contestée ; ils comportent un exposé sommaire des motifs invoqués à leur appui.
+La section notifie sa décision à la personne intéressée dans un délai de deux
+mois par lettre recommandée avec demande d'avis de réception. La notification
+comporte l'indication de la possibilité d'un recours contentieux devant le
+tribunal administratif dans le ressort duquel est situé le logement ayant donné
+lieu à la décision et du délai dans lequel ce recours contentieux doit être
+exercé.
 
-La commission départementale doit être saisie dans le délai de deux mois à
-compter de la notification de la décision contre laquelle l'intéressé entend
-former sa réclamation.
+Lorsque la décision de la section des aides publiques au logement n'a pas été
+portée à la connaissance de l'intéressé dans ce délai de deux mois, l'intéressé
+peut considérer sa demande gracieuse ou son recours administratif comme rejeté
+tacitement et se pourvoir devant le tribunal administratif.
+
+Le délai de deux mois prévu aux alinéas précédents court à compter de la
+réception de la demande gracieuse ou du recours administratif par la section des
+aides publiques au logement. Toutefois, si un document est produit par
+l'intéressé après le dépôt de sa demande gracieuse ou de son recours
+administratif, le délai ne court qu'à dater de la réception de ce document.
