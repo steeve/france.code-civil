@@ -1,5 +1,5 @@
 Article D122-15
 ----
-Les documents produits par l'institution et conservés provisoirement au
-secrétariat-greffe lui sont restitués sur sa demande dès l'opposition ou au
-moment où l'ordonnance est revêtue de la formule exécutoire [*date*].
+Si aucune des parties ne se présente [*non*], le tribunal constate l'extinction
+de l'instance. Celle-ci rend non avenue l'ordonnance portant injonction de
+payer.

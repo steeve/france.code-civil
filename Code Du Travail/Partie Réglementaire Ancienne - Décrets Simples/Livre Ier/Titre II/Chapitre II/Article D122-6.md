@@ -1,13 +1,18 @@
 Article D122-6
 ----
-L'employeur peut s'opposer à l'ordonnance portant injonction de payer, en
-formant opposition devant le tribunal d'instance qui a rendu l'ordonnance
-[*juridiction compétente*].
+Lorsqu'un conseil de prud'hommes a ordonné d'office le remboursement des
+allocations de chômage dans les conditions prévues au deuxième alinéa de
+l'article L. 122-14-4 du code du travail, le secretaire-greffier [*greffier*] du
+conseil de prud'hommes, à l'expiration du délai d'appel, adresse à l'organisme
+concerné une copie certifiée conforme du jugement en précisant si ce dernier a
+fait ou non l'objet d'un appel.
 
-L'opposition est formée dans le mois qui suit la notification de l'ordonnance
-[*délai*].
+La copie certifiée conforme du jugement est adressée par lettre simple à
+l'institution qui a versé les indemnités de chômage si celle-ci est désignée
+dans les pièces de la procédure ou, à défaut, à l'institution du lieu où demeure
+le salarié.
 
-Toutefois, si la notification n'a pas été faite à personne, l'opposition est
-recevable jusqu'à l'expiration du délai d'un mois suivant le premier acte
-signifié à personne ou, à défaut, suivant la première mesure d'exécution ayant
-pour effet de rendre indisponibles en tout ou partie les biens de l'employeur.
+Lorsque le remboursement des allocations de chômage a été ordonné d'office par
+une cour d'appel, le secrétaire-greffier [*greffier*] de cette juridiction
+adresse à l'organisme concerné, selon les formes prévues à l'alinéa précédent,
+une copie certifiée conforme de la décision.

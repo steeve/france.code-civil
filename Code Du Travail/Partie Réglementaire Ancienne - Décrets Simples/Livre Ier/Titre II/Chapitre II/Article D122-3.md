@@ -1,14 +1,17 @@
 Article D122-3
 ----
-La demande est formée par simple requête remise ou adressée au
-secrétariat-greffe.
+Les listes de personnes qui peuvent assister les salariés [*lors de l'entretien
+préalable*] sont préparées pour chaque département par le directeur
+départemental du travail et de l'emploi [*autorité compétente*] après
+consultation des organisations de salariés et d'employeurs les plus
+représentatives sur le plan national siégeant à la Commission nationale de la
+négociation collective, dont les observations doivent être présentées dans le
+délai d'un mois.
 
-Elle indique la dénomination, la forme et le siège social de l'institution et de
-l'employeur si ce dernier est une personne morale, ainsi que l'organe qui les
-représente légalement ; si l'employeur est une personne physique, elle indique
-ses nom, prénoms, profession et adresse [*mentions obligatoires*].
+Ces personnes sont choisies en fonction de leur expérience des relations
+professionnelles et de leurs connaissances du droit social.
 
-Elle précise le montant des allocations dont le remboursement a été ordonné.
-
-La copie certifiée conforme de la décision et un relevé de compte individuel de
-l'allocataire sont joints à la demande.
+Chaque liste est arrêtée par le préfet du département et publiée au recueil des
+actes administratifs du département. Elle est tenue à la disposition des
+salariés dans chaque section d'inspection du travail et dans chaque mairie
+[*information, publicité*].

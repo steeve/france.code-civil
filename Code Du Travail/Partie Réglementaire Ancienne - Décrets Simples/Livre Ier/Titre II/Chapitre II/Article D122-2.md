@@ -1,5 +1,5 @@
 Article D122-2
 ----
-La demande en recouvrement est portée devant le tribunal d'instance du lieu où
-demeure l'employeur [*ressort*]. Tout autre juge doit se déclarer d'office
-incompétent.
+La personne qui intervient [*lors d'un entretien préalable*] dans les conditions
+fixées à la deuxième phrase du deuxième alinéa de l'article L. 122-14 assiste et
+conseille le salarié. Elle exerce ces fonctions à titre gratuit.

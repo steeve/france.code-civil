@@ -1,28 +1,17 @@
 Article D122-12
 ----
-Si, dans son opposition, l'employeur prétend que le remboursement des indemnités
-de chômage a été ordonné dans un cas où cette mesure est exclue par la loi, le
-tribunal d'instance renvoie l'affaire à la juridiction qui a statué aux fins
-d'une rétractation éventuelle du jugement sur ce point. La rétractation ne peut
-en aucun cas remettre en question la chose jugée entre l'employeur et le
-travailleur licencié, ni l'appréciation portée par la juridiction sur l'absence
-de cause réelle et sérieuse du licenciement.
+A peine de nullité, l'acte de notification de l'ordonnance informe l'employeur
+qu'il doit payer à l'institution le montant des allocations versées sauf à
+former opposition s'il a à faire valoir des moyens de défense [*mentions
+obligatoires*].
 
-Le secrétaire-greffier [*greffier*] du tribunal d'instance transmet aussitôt le
-dossier de l'affaire à cette juridiction.
+Sous la même sanction, l'acte de notification [*contenu*] :
 
-Le secrétaire-greffier [*greffier*] de la juridiction qui a statué convoque
-l'institution et l'employeur, selon le cas, devant le bureau de jugement du
-conseil de prud'hommes ou devant la chambre sociale de la cour d'appel, quinze
-jours au moins à l'avance [*délai*], par lettre recommandée avec demande d'avis
-de réception [*condition de forme*].
+Indique le délai dans lequel l'opposition doit être formée, le tribunal devant
+lequel elle doit être portée et les formes selon lesquelles elle doit être faite
+;
 
-La juridiction qui a statué se prononce sur l'ensemble du litige résultant de
-l'opposition et est habilitée à liquider la somme due par l'employeur à
-l'institution.
-
-La décision qui se prononce sur la demande de rétractation est mentionnée sur la
-minute et sur les expéditions du jugement.
-
-L'auteur d'une demande dilatoire ou abusive de rétractation peut être condamné à
-une amende civile de 100 F à 10.000 F [*montant*].
+Avertit l'employeur qu'il peut prendre connaissance au greffe des documents
+produits par l'institution, et qu'à défaut d'opposition dans le délai indiqué il
+ne peut plus contester la créance et peut être contraint de la payer par toutes
+voies de droit.

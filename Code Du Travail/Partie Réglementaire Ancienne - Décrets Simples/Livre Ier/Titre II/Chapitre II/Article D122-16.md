@@ -1,7 +1,8 @@
 Article D122-16
 ----
-En cas de pourvoi en cassation dirigé contre une décision qui a condamné un
-employeur pour licenciement sans cause réelle et sérieuse en application des
-dispositions de l'article L. 122-14-4 du code du travail, la cassation du chef
-de décision qui emporte condamnation au profit du salarié atteint le chef de la
-décision qui ordonne d'office le remboursement des indemnités de chômage.
+Le tribunal d'instance [*juridiction compétente*] statue sur l'opposition quel
+que soit le montant des allocations dont le remboursement a été réclamé. Le
+jugement du tribunal se substitue à l'ordonnance portant injonction de payer.
+
+Le tribunal statue à charge d'appel lorsque le montant de la demande excède le
+taux de sa compétence en dernier ressort.

@@ -1,8 +1,13 @@
 Article D122-11
 ----
-Le tribunal d'instance [*juridiction compétente*] statue sur l'opposition quel
-que soit le montant des allocations dont le remboursement a été réclamé. Le
-jugement du tribunal se substitue à l'ordonnance portant injonction de payer.
+L'employeur peut s'opposer à l'ordonnance portant injonction de payer, en
+formant opposition devant le tribunal d'instance qui a rendu l'ordonnance
+[*juridiction compétente*].
 
-Le tribunal statue à charge d'appel lorsque le montant de la demande excède le
-taux de sa compétence en dernier ressort.
+L'opposition est formée dans le mois qui suit la notification de l'ordonnance
+[*délai*].
+
+Toutefois, si la notification n'a pas été faite à personne, l'opposition est
+recevable jusqu'à l'expiration du délai d'un mois suivant le premier acte
+signifié à personne ou, à défaut, suivant la première mesure d'exécution ayant
+pour effet de rendre indisponibles en tout ou partie les biens de l'employeur.

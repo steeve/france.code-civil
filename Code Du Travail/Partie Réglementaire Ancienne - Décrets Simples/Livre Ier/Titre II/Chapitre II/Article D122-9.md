@@ -1,5 +1,8 @@
 Article D122-9
 ----
-Le secrétaire-greffier [*greffier*] convoque l'employeur et l'institution par
-lettre recommandée avec demande d'avis de réception, quinze jours au moins avant
-la date de l'audience [*délai*].
+Au vu de ces documents, le juge rend une ordonnance portant injonction de payer.
+La requête et l'ordonnance sont conservées au secrétariat-greffe, à titre de
+minute.
+
+Les documents produits sont provisoirement conservés au secrétariat-greffe
+[*lieu*].
