@@ -6,24 +6,24 @@ quinze premiers jours du mois suivant à la caisse du comptable du Trésor du li
 du domicile de la personne ou du siège de l'établissement ou du bureau qui a
 payé les rémunérations soumises à la taxe sur les salaires.
 
-Lorsque le montant mensuel total de ces sommes n'excède pas 1000 F, le versement
-peut n'être effectué que dans les quinze premiers jours de chaque trimestre
-civil pour le trimestre écoulé. Si le montant mensuel desdites sommes vient à
-excéder 1000 F, les sommes dues depuis le début du trimestre en cours doivent
-être versées dans les quinze premiers jours du mois suivant.
+Lorsque le montant mensuel total de ces sommes n'excède pas 150 euros, le
+versement peut n'être effectué que dans les quinze premiers jours de chaque
+trimestre civil pour le trimestre écoulé. Si le montant mensuel desdites sommes
+vient à excéder 150 euros, les sommes dues depuis le début du trimestre en cours
+doivent être versées dans les quinze premiers jours du mois suivant.
 
-Dans le cas de transfert de domicile d'établissement ou de bureau hors du
-ressort de la circonscription de la perception ainsi que dans le cas de cession
+Dans le cas de transfert de domicile, d'établissement ou de bureau hors du
+ressort de la circonscription de la perception, ainsi que dans le cas de cession
 ou de cessation d'entreprise, le versement doit être immédiatement effectué.
 
-En cas de décès de l'employeur ce versement doit être effectué dans les quinze
+En cas de décès de l'employeur, ce versement doit être effectué dans les quinze
 premiers jours du mois suivant le décès.
 
 2. (Abrogé).
 
 3. Chaque versement est accompagné d'un bordereau-avis fourni par
 l'administration daté et signé par la partie versante, et indiquant notamment la
-désignation, la profession et l'adresse de la personne association ou organisme
+désignation, la profession et l'adresse de la personne, association ou organisme
 à qui incombe le versement, la période à laquelle s'applique ce versement, le
 montant des rémunérations payées au cours de cette période et le montant de la
 taxe sur les salaires versés.

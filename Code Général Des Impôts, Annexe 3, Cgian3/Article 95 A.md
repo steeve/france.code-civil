@@ -18,11 +18,11 @@ sur la valeur ajoutée dans un autre Etat membre de la Communauté européenne ;
 
 b) La nature du bien et le montant de l'opération qui aurait dû être soumise à
 la taxe sur la valeur ajoutée lors de la sortie du bien de l'entrepôt, et la
-contre-valeur en francs lorsque ce montant est exprimé en devises ;
+contre-valeur en euros lorsque ce montant est exprimé en devises ;
 
 c) Le montant de la livraison exonérée en vertu du I de l'article 262 ter du
 code général des impôts ou de l'exportation avec, dans ce dernier cas, la
-référence de la déclaration d'exportation et la contre-valeur en francs lorsque
+référence de la déclaration d'exportation et la contre-valeur en euros lorsque
 ce montant est exprimé en devises ;
 
 3. Pour les opérations visées au 4° du III de l'article 291 du code général des
@@ -32,12 +32,12 @@ a) Le nom ou la dénomination, l'adresse et le numéro d'identification à la ta
 sur la valeur ajoutée dans un autre Etat membre de la Communauté européenne de
 la personne qui a désigné le représentant ;
 
-b) La nature du bien, le montant de l'importation et la contre-valeur en francs
+b) La nature du bien, le montant de l'importation et la contre-valeur en euros
 lorsque ce montant est exprimé en devises, et la référence de la déclaration
 d'importation ;
 
 c) La nature du bien et le montant de la livraison exonérée en vertu du I de
-l'article 262 ter du code général des impôts, et la contre-valeur en francs
+l'article 262 ter du code général des impôts, et la contre-valeur en euros
 lorsque ce montant est exprimé en devises.
 
 II. - L'état mentionné au I est souscrit par le représentant, pour l'ensemble
