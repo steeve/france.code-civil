@@ -1,6 +1,6 @@
 Article D121-1
 ----
-I - En application de l'article L. 122-2, des contrats à durée déterminée
+I. - En application de l'article L. 122-2, des contrats à durée déterminée
 peuvent être conclus lorsque l'employeur s'engage à assurer un complément de
 formation professionnelle aux salariés des catégories ci-après :
 
@@ -21,10 +21,10 @@ dispositions de l'article L. 323-15 du présent code ou des textes relatifs à l
 rééducation professionnelle des victimes d'accidents du travail et des assurés
 sociaux.
 
-II - La durée maximale du contrat [*à durée déterminée*] ne peut être supérieure
-à un an pour les catégories visées aux a et b ci-dessus. Toutefois, dans le cas
-visé au b, lorsque la durée du stage est fixée par voie réglementaire, le
-contrat peut être conclu pour cette durée.
+II. - La durée maximale du contrat ne peut être supérieure à un an pour les
+catégories visées aux a et b ci-dessus. Toutefois, dans le cas visé au b,
+lorsque la durée du stage est fixée par voie réglementaire, le contrat peut être
+conclu pour cette durée.
 
 La durée maximale du contrat est également d'un an pour les étrangers visés au c
 lorsqu'ils ne sont pas soumis au régime de l'autorisation de travail prévue à
