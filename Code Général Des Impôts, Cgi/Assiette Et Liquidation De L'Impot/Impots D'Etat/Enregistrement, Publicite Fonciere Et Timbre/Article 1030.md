@@ -8,5 +8,6 @@ Sous réserve des dispositions de l'article 1020, ils sont également exonérés
 tous droits d'enregistrement.
 
 Les moulins coopératifs, les coopératives agricoles de meunerie et de
-meunerie-boulangerie créés et fonctionnant sous le régime prévu par le décret n°
-59-286 du 4 février 1959 modifié sont considérés comme coopératives de blé.
+meunerie-boulangerie créés et fonctionnant sous le régime prévu par le titre II
+du livre V (nouveau) du code rural, relatif aux sociétés coopératives agricoles
+sont considérés comme coopératives de blé.
