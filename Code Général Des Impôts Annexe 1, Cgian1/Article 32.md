@@ -16,18 +16,16 @@ Les scellements doivent être représentés intacts. Sauf le cas prévu ci-aprè
 ils ne peuvent être enlevés qu'en présence des agents.
 
 Les demandes de descellement énoncent les motifs pour lesquels les agents sont
-requis de procéder à cette opération. Elles sont faites au bureau de
-déclarations de la direction générale des douanes et droits indirects au moins
-trois jours à l'avance. Si les agents ne sont pas intervenus pour rompre les
-scellés, trois heures après celle fixée par le déclarant, celui-ci peut les
-briser, sauf à remettre les plombs auxdits agents lors de leur plus prochaine
-visite.
+requis de procéder à cette opération. Elles sont transmises au service des
+douanes et droits indirects au moins trois jours à l'avance. Si les agents ne
+sont pas intervenus pour rompre les scellés, trois heures après celle fixée par
+le déclarant, celui-ci peut les briser, sauf à remettre les plombs auxdits
+agents lors de leur plus prochaine visite.
 
 Dès l'achèvement des travaux ou la cessation des causes qui avaient motivé le
-descellement, les détenteurs doivent faire au bureau de déclarations de la
-direction générale des douanes et droits indirects une déclaration pour que
-leurs appareils et portions d'appareils soient replacés sous scellés. Ils
-cessent d'être soumis aux visites de nuit le lendemain du jour où leur
-déclaration a été faite si, par le fait des agents, les scellés n'ont pas été
-apposés. Le délai est prorogé de vingt-quatre heures lorsque la déclaration
-précède un jour de fête légale.
+descellement, les détenteurs doivent demander, au service des douanes et droits
+indirects que leurs appareils et portions d'appareils soient replacés sous
+scellés. Ils cessent d'être soumis aux visites de nuit le lendemain du jour où
+leur demande a été faite si, par le fait des agents, les scellés n'ont pas été
+apposés. Le délai est prorogé de vingt-quatre heures lorsque la demande précède
+un jour de fête légale.

@@ -25,11 +25,3 @@ Les agents du service peuvent fixer un scellé sur l'entrée des cadenas.
 Les appareils et récipients reçoivent un numéro d'ordre qui est gravé ou peint
 sur chacun d'eux, avec l'indication de sa contenance, en caractères d'au moins 5
 centimètres de hauteur, par les soins et aux frais des industriels.
-
-Il ne peut être procédé à des opérations de dénaturation que si les
-installations ou les modifications intervenues ont été agréées par ((le
-directeur régional des douanes et droits indirects)) (M). Celui-ci peut
-astreindre les dénaturateurs à prendre les mesures nécessaires pour assurer la
-sécurité de ses agents.
-
-(M) Modification.

@@ -9,24 +9,28 @@ des dispositions du I de l'article 401 du code général des impôts.
 
 Pour l'application de ce règlement :
 
-Les distilleries s'entendent des établissements dans l'enceinte desquels sont
+a) Les distilleries s'entendent des établissements dans l'enceinte desquels sont
 installés les appareils propres aux opérations visées au premier alinéa et, dans
 la mesure où, sauf dérogation accordée par l'administration, ils ne sont pas
 séparés des précédents par la voie publique, des lieux utilisés pour
 l'entreposage des matières à traiter ou de l'alcool obtenu ;
 
-La campagne de distillation s'entend de la période allant du 1er septembre au 31
-août de l'année suivante.
+b) La campagne de distillation s'entend de la période allant du 1er septembre au
+31 août de l'année suivante ou, sur demande des exploitants de distilleries, de
+la période correspondant à l'exercice social.
 
 Le règlement institue un régime général applicable aux distilleries dans
-lesquelles la prise en charge de l'alcool obtenu est effectuée au moyen de
-compteurs agréés ((par le directeur régional des douanes et droits indirects))
-(M) apposés sur les appareils de distillation en application des dispositions
-des articles 314 et 341 du code général des impôts.
+lesquelles les inscriptions dans la comptabilité matières sont effectuées
+notamment selon les indications fournies par les compteurs agréés et vérifiés
+par un organisme de droit public ou privé, agréé par l'administration et apposés
+sur les appareils de distillation en application des dispositions de l'article
+314 du code général des impôts et de l'article L. 32 du livre des procédures
+fiscales. Le régime général s'applique également aux distilleries dans
+lesquelles existe un dispositif inviolable ou une procédure de contrôle de la
+production d'alcool offrant des garanties comparables de fiabilité à celles des
+compteurs agréés.
 
-Il établit un régime spécial applicable, sous réserve des dispositions de
-l'article 78 ci-après, aux distilleries dans lesquelles les conditions
-techniques existantes amènent à différer provisoirement l'installation de tels
-compteurs.
-
-(M) Modification.
+Il établit un régime spécial applicable aux distilleries dans lesquelles les
+conditions techniques existantes amènent à différer provisoirement
+l'installation de tels compteurs ou dans lesquelles n'existe aucun dispositif
+inviolable ou aucune procédure fiable de contrôle de la production d'alcool.

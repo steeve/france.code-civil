@@ -8,8 +8,7 @@ Lorsqu'une ou plusieurs portions d'un appareil poinçonné sont remplacées ou o
 subi des réparations ou des transformations ayant fait disparaître la marque,
 cette marque est réapposée.
 
-Le détenteur d'un appareil réparé ou transformé doit requérir, par une
-déclaration au bureau de déclarations de la direction générale des douanes et
-droits indirects, l'apposition de la marque dès la réception de cet appareil, ou
-dans le délai de cinq jours après l'achèvement des travaux de réparation ou de
-transformation.
+Le détenteur d'un appareil réparé ou transformé doit demander au service des
+douanes et droits indirects territorialement compétent, l'apposition de la
+marque dès la réception de cet appareil, ou dans le délai de cinq jours après
+l'achèvement des travaux de réparation ou de transformation.

@@ -7,12 +7,10 @@ impôts :
 
 1° Les dates de leurs fabrications et de leurs réceptions successives, avec la
 désignation de la nature et de la capacité ou des dimensions des appareils ou
-portions d'appareils et, s'il y a lieu, les mentions figurant sur les
-acquits-à-caution ;
+portions d'appareils ;
 
-2° Les dates des livraisons, les mentions des expéditions soumissionnées pour la
-mise en circulation des appareils et portions d'appareils, ainsi que la
-désignation de la nature et de la capacité ou des dimensions de ces objets.
+2° Les dates des livraisons ainsi que la désignation de la nature et de la
+capacité ou des dimensions de ces objets.
 
 Ces inscriptions ont lieu au fur et à mesure de l'achèvement, de la réception ou
 de la livraison des appareils et portions d'appareils.

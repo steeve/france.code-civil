@@ -1,9 +1,9 @@
 Article 48
 ----
 Aucune distillation ne peut être effectuée en atelier public pour le compte de
-bouilleurs de cru qu'après une déclaration faite trois jours au moins à l'avance
-au directeur régional des douanes et droits indirects territorialement compétent
-pour la circonscription.
+bouilleurs de cru qu'après dépôt ou transmission d'une déclaration, trois jours
+au moins à l'avance, au service des douanes et droits indirects territorialement
+compétent.
 
 Si l'atelier de distillation est établi dans des locaux ou sur des emplacements
 clos, il ne peut avoir aucune communication intérieure avec des locaux non

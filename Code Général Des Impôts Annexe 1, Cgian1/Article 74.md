@@ -1,7 +1,7 @@
 Article 74
 ----
-Tout accident entraînant une perte de produits suivis en compte doit être
-signalé au service des douanes et droits indirects dans des délais lui
+Tout accident entraînant une perte de produits suivis en comptabilité matières
+doit être signalé au service des douanes et droits indirects dans des délais lui
 permettant de constater par lui-même la réalité et l'importance de la perte.
 
 Si, malgré la diligence apportée à tenter de prévenir le service des douanes et

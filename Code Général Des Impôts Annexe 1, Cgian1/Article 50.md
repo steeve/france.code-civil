@@ -7,11 +7,11 @@ l'exploitant demande à commencer les travaux, ainsi que leur durée
 approximative.
 
 L'exploitant doit, au fur et à mesure de la réception des matières premières à
-distiller, inscrire, sans rature ni surcharge, sur un registre-journal, coté et
-paraphé par le service, et conforme au modèle donné par l'administration, les
-espèces et quantités des matières premières qui lui sont livrées, le nom et
-l'adresse des récoltants à qui elles appartiennent et l'analyse des expéditions
-qui ont accompagné les matières à distiller.
+distiller, inscrire dans la comptabilité matières qu'il doit tenir en
+application des dispositions du III de l'article 302 G du code général des
+impôts, les espèces et quantités des matières premières qui lui sont livrées, le
+nom et l'adresse des récoltants à qui elles appartiennent et les documents
+d'accompagnement couvrant les matières à distiller.
 
 S'il s'agit de bouilleurs de cru produisant plus de cinquante litres d'alcool
 pur ou dont les matières ne peuvent être distillées en totalité dans la journée
@@ -27,9 +27,6 @@ quantités versées dans l'alambic ;
 2° Le résultat de chaque chauffe ou repasse (volume et titre alcoométrique
 volumique des produits obtenus en cas d'emploi d'alambics à marche continue).
 
-L'exploitant est tenu de déposer au bureau de déclarations de la direction
-générale des douanes et droits indirects le lendemain au plus tard du jour où
-les travaux ont pris fin, pour chaque récoltant, les acquits-à-caution utilisés
-pour le transport des matières premières et une ampliation, dûment signée, des
-inscriptions faites pour ce récoltant sur le registre prévu au présent article.
-Il remet au récoltant une ampliation semblable.
+L'exploitant est tenu de déposer ou de transmettre au service des douanes et
+droits indirects, le lendemain au plus tard du jour où les travaux ont pris fin,
+pour chaque récoltant, un exemplaire des documents mentionnés à l'article 49.
