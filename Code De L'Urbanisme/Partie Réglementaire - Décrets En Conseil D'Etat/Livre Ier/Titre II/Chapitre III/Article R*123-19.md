@@ -17,11 +17,8 @@ application de l'article L. 430-1 e) à l'intérieur desquelles la démolition d
 immeubles est subordonnée à la délivrance d'un permis de démolir ;
 
 c) Les périmètres à l'intérieur desquels s'applique le droit de préemption
-urbain défini par les articles L. 211-1 et suivants et R. 211-1 et suivants ,
-ainsi que les périmètres provisoires ou définitifs des zones d'aménagement
-différé créees avant l'entrée en vigueur de l'article 7 de la loi n° 85-729 du
-18 juillet 1985 relative à la définition et à la mise en oeuvre de principes
-d'aménagement ;
+urbain défini par les articles L. 211-1 et suivants, ainsi que les périmètres
+provisoires ou définitifs des zones d'aménagement différé ;
 
 d) (alinéa supprimé) ;
 
@@ -56,4 +53,4 @@ statuer sur les demandes d'autorisation en application de l'article L. 111-10 ;
 m) Le périmètre des secteurs dans lesquels un programme d'aménagement d'ensemble
 a été approuvé en application de l'article L. 332-9.
 
-2° Les zones à urbaniser en priorité ainsi que les zones d'aménagement concerté.
+2° Les zones d'aménagement concerté.

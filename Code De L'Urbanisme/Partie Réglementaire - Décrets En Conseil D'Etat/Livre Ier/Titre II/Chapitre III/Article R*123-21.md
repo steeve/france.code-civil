@@ -39,7 +39,10 @@ e) Fixer le ou les coefficients d'occupation des sols de chaque zone ou partie
 de zone et les conditions dans lesquelles ces coefficients peuvent être
 éventuellement dépassés en application des articles L. 123-1 et L. 332-1.
 
-f) Edicter les prescriptions relatives aux équipements et aménagement qui
+f) Fixer la destination principale des îlots ou immeubles à restaurer ou à
+réhabiliter ;.
+
+g) Edicter les prescriptions relatives aux équipements et aménagement qui
 peuvent être autorisés dans les zones qui sont ou peuvent être aménagées en vue
 de la pratique du ski et les secteurs réservés aux remontées mécaniques.
 

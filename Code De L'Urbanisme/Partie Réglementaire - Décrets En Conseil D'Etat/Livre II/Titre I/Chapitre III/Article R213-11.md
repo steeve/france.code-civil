@@ -9,6 +9,11 @@ de préemption est jointe à la lettre adressée au secrétariat de la juridicti
 Le propriétaire doit en être informé simultanément.
 
 Il est ensuite procédé comme il est dit aux articles R. 13-22 et suivants du
-code de l'expropriation pour cause d'utilité publique. A défaut de saisine de la
-juridiction dans le délai fixé par le présent article, le titulaire du droit de
-préemption est réputé avoir renoncé à l'exercice de son droit.
+code de l'expropriation pour cause d'utilité publique.
+
+A défaut de saisine de la juridiction dans le délai fixé par le présent article,
+le titulaire du droit de préemption est réputé avoir renoncé à l'exercice de son
+droit.
+
+En cas d'application de l'article L. 213-4-1, copie du récépissé de la
+consignation doit être adressée au propriétaire et à la juridiction.
