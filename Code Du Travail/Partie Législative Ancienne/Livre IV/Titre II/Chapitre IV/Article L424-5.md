@@ -1,13 +1,19 @@
 Article L424-5
 ----
-Sauf circonstances exceptionnelles, les délégués remettent au chef
-d'établissement, deux jours avant la date où ils doivent être reçus [*délai,
-réunions*] une note écrite exposant sommairement l'objet de leur demande [*ordre
-du jour*]. Copie de cette note est transcrite par les soins du chef
-d'établissement sur un registre spécial sur lequel doit être également
-mentionnée, dans un délai n'excédant pas six jours, la réponse à cette note.
+Sauf circonstances exceptionnelles, les délégués du personnel remettent au chef
+d'établissement, deux jours ouvrables avant la date où ils doivent être reçus,
+une note écrite exposant l'objet des demandes présentées.
 
-Ce registre doit être tenu pendant un jour ouvrable par quinzaine et en dehors
-des heures de travail, à la disposition des salariés de l'établissement qui
-désirent en prendre connaissance. Il doit être tenu à la disposition de
-l'inspecteur du travail.
+L'employeur répond par écrit à ces demandes au plus tard dans les six jours
+ouvrables suivant la réunion.
+
+Les demandes des délégués et les réponses motivées de l'employeur sont, soit
+transcrites sur un registre spécial, soit annexées à ce registre.
+
+Ce registre ainsi que les documents qui y sont annexés doivent être tenus,
+pendant [*durée*] un jour ouvrable par quinzaine et en dehors de leur temps de
+travail, à la disposition des salariés de l'établissement qui désirent en
+prendre connaissance.
+
+Ils sont également tenus à la disposition de l'inspecteur du travail et des
+délégués du personnel.

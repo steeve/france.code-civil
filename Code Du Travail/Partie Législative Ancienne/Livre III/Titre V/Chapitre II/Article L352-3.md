@@ -1,13 +1,13 @@
 Article L352-3
 ----
-Les prestations mentionnées aux articles L. 351-3, L. 351-9 et L. 351-10 sont
-insaisissables et incessibles dans les conditions fixées aux articles L. 145-1 à
-L. 145-3 du présent code. Elles sont exonérées du versement forfaitaire sur les
-salaires et des cotisations de sécurité sociale sous réserve de l'application de
-l'article 13 de l'ordonnance n° 67-706 du 21 août 1967, de l'article L. 3-2 du
-code de la sécurité sociale, de l'article 1031 du code rural et de l'article 6
-de la loi n° 82-1 du 4 janvier 1982 ; les règles fixées à l'article 158-5 du
-code général des impôts sont applicables.
+Les prestations mentionnées aux articles L. 351-3, L. 351-9, L. 351-10, L.
+351-25 et au dernier alinéa du présent article sont cessibles et saisissables
+dans les mêmes conditions et limites que les salaires. Elles sont exonérées du
+versement forfaitaire sur les salaires et des cotisations de sécurité sociale
+sous réserve de l'application de l'article 13 de l'ordonnance n° 67-706 du 21
+août 1967, de l'article L. 3-2 du code de la sécurité sociale, de l'article 1031
+du code rural et de l'article 6 de la loi n° 82-1 du 4 janvier 1982 ; les règles
+fixées à l'article 158-5 du code général des impôts sont applicables.
 
 Les contributions des employeurs prévues à l'article L. 351-3 ne sont passibles
 ni du versement forfaitaire sur les salaires ni des cotisations de sécurité

@@ -31,4 +31,9 @@ Les centres de formation professionnelle et de promotion agricoles publics et
 les centres privés apportent leur concours, en liaison avec les divers
 départements ministériels intéressés, à la formation des pluriactifs nécessaires
 au maintien des exploitations agricoles, à l'équilibre économique et à
-l'animation du milieu rural.
+l'animation du milieu rural. Les centres ci-dessus mentionnés apportent à leurs
+programmes de formation, lorsqu'ils s'adressent à des personnes appelées à
+travailler en zone de montagne, les adaptations nécessaires pour tenir compte
+des situations et des besoins particuliers de cette zone liés à l'exercice de la
+pluriactivité, des différentes activités saisonnières et des métiers spécifiques
+de la montagne.

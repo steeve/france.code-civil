@@ -33,11 +33,11 @@ refusée, l'employeur doit proposer au salarié un emploi similaire assorti d'un
 rémunération équivalente dans un autre établissement ou une autre partie de
 l'entreprise.
 
-La durée fixée au quatrième alinéa est également de six mois pour les candidats
-aux fonctions de délégués du personnel à partir de la publication des
-candidatures [*délai de protection*]. La durée de six mois court à partir de
-l'envoi, par lettre recommandée à l'employeur, des listes de candidatures
-[*point de départ*].
+La durée fixée au quatrième alinéa est également de six mois pour les candidats,
+au premier comme au second tour, aux fonctions de délégués du personnel à partir
+de la publication des candidatures [*délai de protection*]. La durée de six mois
+court à partir de l'envoi, par lettre recommandée à l'employeur, des listes de
+candidatures [*point de départ*].
 
 Afin de faciliter la mise en place de l'institution des délégués, les salariés
 qui ont demandé à l'employeur d'organiser les élections de délégués du

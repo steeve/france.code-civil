@@ -46,7 +46,5 @@ d'adaptations fixées par voie réglementaire.
 Le versement des cotisations est suspendu pendant la période du service national
 ou en cas d'appel sous les drapeaux.
 
-Le ministre de l'agriculture fixe par arrêté le taux des cotisations
-forfaitaires pour certaines catégories de travailleurs occasionnels et notamment
-pour les exploitants agricoles qui occupent occasionnellement un emploi salarié
-chez un autre exploitant agricole.
+Des cotisations forfaitaires peuvent être fixées par arrêté interministériels
+pour certaines catégories de travailleurs salariés ou assimilés.

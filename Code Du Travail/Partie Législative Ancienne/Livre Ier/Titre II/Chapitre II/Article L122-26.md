@@ -5,14 +5,14 @@ qui commence six semaines avant la date présumée de l'accouchement et se termi
 dix semaines après la date de celui-ci. Cette période commence huit semaines
 avant la date présumée de l'accouchement et se termine dix-huit semaines après
 la date de celui-ci lorsque, avant l'accouchement, la salariée elle-même ou le
-ménage assume déjà la charge de deux enfants au moins dans les conditions
-prévues aux articles L. 519 à L. 529 *L. 526,L. 527, L.528, L. 529 abrogés* du
-code de la sécurité sociale ou lorsque la salariée a déjà mis au monde au moins
-deux enfants nés viables *dispositions en faveur du troisième enfant*. La
-période de huit semaines de suspension du contrat de travail antérieure à la
-date présumée de l'accouchement peut être augmentée d'une durée maximale de deux
-semaines ; la période de dix-huit semaines de suspension du contrat de travail
-postérieure à la date de l'accouchement est alors réduite d'autant.
+ménage assume déjà la charge de deux enfants *nombre* au moins dans les
+conditions prévues aux articles L. 519 à L. 529 du code de la sécurité sociale
+ou lorsque la salariée a déjà mis au monde au moins deux enfants nés viables
+*dispositions en faveur du troisième enfant*. La période de huit semaines de
+suspension du contrat de travail antérieure à la date présumée de l'accouchement
+peut être augmentée d'une durée maximale de deux semaines ; la période de
+dix-huit semaines de suspension du contrat de travail postérieure à la date de
+l'accouchement est alors réduite d'autant.
 
 En cas de naissances multiples, la période pendant laquelle la salariée peut
 suspendre le contrat de travail postérieurement à l'accouchement est prolongée
@@ -42,11 +42,12 @@ dater de l'arrivée de l'enfant au foyer, douze semaines en cas d'adoptions
 multiples. Cette période est portée à dix-huit semaines, vingt semaines en cas
 d'adoptions multiples, si l'adoption a pour effet de porter à trois ou plus le
 nombre d'enfants dont la salariée ou le ménage assume la charge dans les
-conditions prévues aux articles L. 519 à L. 529 *L. 526, L. 527, L. 528, L. 529
-abrogés* du code de la sécurité sociale. Toutefois, lorsque les deux conjoints
-assurés travaillent, ce droit est ouvert dans les mêmes conditions à celui qui
-bénéficie des dispositions de l'article L. 298-3 du code de la sécurité sociale
-*indemnité journalière de repos*.
+conditions prévues aux articles L. 519 à L. 529 du code de la sécurité sociale.
+Toutefois, lorsque les deux conjoints assurés travaillent, ce droit est ouvert
+dans les mêmes conditions à celui qui bénéficie des dispositions de l'article L.
+298-3 du code de la sécurité sociale *indemnité journalière de repos*. Le père
+salarié bénéficie alors de la protection *contre le licenciement* instituée à
+l'article L. 122-25-2.
 
 La femme devra avertir [*obligation*] l'employeur du motif de son absence et de
 la date à laquelle elle entend remettre en vigueur son contrat de travail.

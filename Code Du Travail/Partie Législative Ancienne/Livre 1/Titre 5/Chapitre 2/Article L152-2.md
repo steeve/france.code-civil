@@ -26,10 +26,10 @@ l'article L. 124-8 ;
 
 2° Tout utilisateur qui aura :
 
-a) Recouru à un salarié temporaire pour d'autres cas que ceux qui sont prévus à
-l'article L. 124-2 ou enfreint les dispositions de l'article L. 124-2-1 ou
-n'aura pas respecté les durées de mission maximales prévues aux articles L.
-124-2-2 et L. 124-2-3 ;
+a) Recouru à un salarié temporaire pour d'autres cas que ceux prévus par les
+articles L. 124-2, L. 124-2-1 et L. 124-2-2 ou enfreint les dispositions des
+articles L. 124-2-1 et L. 124-2-3 ou n'aura pas respecté les durées de missions
+maximales prévues aux articles L. 124-2, L. 124-2-1 et L. 124-2-2.
 
 b) Recouru à un salarié temporaire sans avoir conclu avec un entrepreneur de
 travail temporaire dans le délai prévu à l'article L. 124-3 un contrat écrit de
