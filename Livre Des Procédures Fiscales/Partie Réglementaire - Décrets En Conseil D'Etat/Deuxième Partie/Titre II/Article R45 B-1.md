@@ -2,9 +2,9 @@ Article R45 B-1
 ----
 La réalité de l'affectation à la recherche des dépenses prises en compte pour la
 détermination du crédit d'impôt mentionné à l'article L. 45 B peut être vérifiée
-par des agents dûment mandatés par le directeur du développement scientifique et
-technologique et de l'innovation du ministère chargé de la recherche et de la
-technologie.
+soit par des agents dûment mandatés par le directeur de la technologie, soit par
+les délégués régionaux à la recherche et à la technologie ou par des agents
+dûment mandatés par ces derniers.
 
 A cet effet, ils peuvent se rendre dans les entreprises après envoi d'un avis de
 visite pour, notamment :
