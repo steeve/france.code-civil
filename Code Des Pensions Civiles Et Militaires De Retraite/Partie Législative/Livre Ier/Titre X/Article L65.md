@@ -2,8 +2,7 @@ Article L65
 ----
 Le fonctionnaire civil ou le militaire qui vient à quitter le service, pour
 quelque cause que ce soit, sans pouvoir obtenir une pension ou une solde de
-réforme ou qui a renoncé à cette dernière dans les conditions prévues au 1° de
-l'article L. 7, est rétabli, en ce qui concerne l'assurance vieillesse, dans la
+réforme, est rétabli, en ce qui concerne l'assurance vieillesse, dans la
 situation qu'il aurait eue s'il avait été affilié au régime général des
 assurances sociales et à l'institution de retraite complémentaire des agents non
 titulaires de l'Etat et des collectivités locales (Ircantec) pendant la période
@@ -17,5 +16,4 @@ retenues subies d'une manière effective sur son traitement ou sa solde.
 Les mêmes dispositions sont applicables au fonctionnaire civil ou militaire qui,
 après avoir quitté le service, reprend un emploi relevant du régime institué par
 le présent code, sans pouvoir obtenir une pension ou une solde de réforme au
-titre dudit emploi ou qui a renoncé à cette dernière dans les conditions prévues
-au 1° de l'article L. 7 .
+titre dudit emploi.

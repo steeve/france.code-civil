@@ -1,10 +1,8 @@
 Article L49
 ----
 Les ayants cause des militaires visés à l'article L. 7 qui sont décédés
-titulaires d'une solde de réforme bénéficient, s'ils satisfont aux conditions
-prévues à l'article L. 47, a ou b, selon que la radiation des cadres n'a pas ou
-a été prononcée pour infirmité, d'une allocation temporaire égale à 50 p. 100 de
-ladite solde. La jouissance de cette allocation est limitée à la date
+titulaires d'une solde de réforme bénéficient d'une allocation temporaire égale
+à 50 % de ladite solde. La jouissance de cette allocation est limitée à la date
 d'expiration initialement prévue de la solde de réforme de l'ancien militaire.
 
 Les ayants cause des militaires servant sous contrat au-delà de la durée légale

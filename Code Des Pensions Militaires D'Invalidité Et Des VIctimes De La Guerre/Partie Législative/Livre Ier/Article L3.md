@@ -9,8 +9,8 @@ condition :
 militaire dans ses foyers ;
 
 2° S'il s'agit d'une maladie, qu'elle n'ait été constatée qu'après le
-quatre-vingt-dixième jour de service effectif et avant le trentième jour suivant
-le retour du militaire dans ses foyers [*délai*] ;
+quatre-vingt-dixième jour de service effectif et avant le soixantième jour
+suivant le retour du militaire dans ses foyers ;
 
 3° En tout état de cause, que soit établie, médicalement, la filiation entre la
 blessure ou la maladie ayant fait l'objet de la constatation et l'infirmité

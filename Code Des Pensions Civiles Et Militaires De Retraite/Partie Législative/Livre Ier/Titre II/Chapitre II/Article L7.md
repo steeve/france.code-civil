@@ -1,13 +1,5 @@
 Article L7
 ----
-Le droit à la solde de réforme est acquis :
-
-1° S'ils sont réformés définitivement pour infirmités, aux militaires non
-officiers servant par contrat au-delà de la durée légale et qui ne peuvent
-prétendre au bénéfice des dispositions de l'article L. 6 (3° et 4°) .Toutefois,
-ils ont la faculté de renoncer à la solde de réforme afin de bénéficier des
-dispositions de l'article L. 65. L'option formulée par ces militaires le jour de
-la radiation des cadres est définitive.
-
-2° Aux officiers et aux sous-officiers de carrière comptant moins de quinze ans
-de services civils et militaires radiés des cadres par mesure disciplinaire.
+Le droit à solde de réforme est acquis aux officiers et aux sous-officiers de
+carrière comptant moins de quinze ans de services civils et militaires radiés
+des cadres par mesure disciplinaire.

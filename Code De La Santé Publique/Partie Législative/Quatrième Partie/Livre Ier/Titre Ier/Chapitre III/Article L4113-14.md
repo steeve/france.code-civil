@@ -43,5 +43,5 @@ Les modalités d'application du présent article sont définies par décret en
 Conseil d'Etat.
 
 Le présent article n'est pas applicable aux médecins, chirurgiens-dentistes et
-sages-femmes qui relèvent des dispositions de la loi n° 72-662 du 13 juillet
-1972 portant statut général des militaires.
+sages-femmes qui relèvent des dispositions de la loi n° 2005-270 du 24 mars 2005
+portant statut général des militaires.
