@@ -1,7 +1,9 @@
 Article L212-14
 ----
-Les dispositions des articles L. 212-10 et L. 212-11 sont applicables aux
-adolescents mentionnés à l'article L. 212-13.
-
-Aucune période de travail effectif ininterrompu ne peut excéder une durée
-maximale de quatre heures et demie.
+Lorsque le temps de travail quotidien est supérieur à quatre heures et demie,
+les jeunes travailleurs de moins de dix-huit ans ainsi que les jeunes de moins
+de dix-huit ans qui accomplissent des stages d'initiation ou d'application en
+milieu professionnel dans le cadre d'un enseignement alterné ou du déroulement
+de leur scolarité doivent bénéficier d'un temps de pause d'au moins trente
+minutes consécutives. Aucune période de travail effectif ininterrompue ne peut
+excéder une durée maximale de quatre heures et demie.

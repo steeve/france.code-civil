@@ -4,33 +4,46 @@ Les conditions dans lesquelles les élèves peuvent effectuer des périodes de
 formation en alternance dans les entreprises sont fixées par les dispositions de
 l'article L. 211-1 du code du travail, ci-après reproduites :
 
-" Art. L. 211-1. - Sous réserve de ce qui est dit à l'article L. 117-3 (1er
-alinéa, 2e phrase), les enfants de l'un et l'autre sexe ne peuvent être ni
-employés ni admis à aucun titre dans les établissements mentionnés au 1er alinéa
-de l'article L. 200-1 avant d'être régulièrement libérés de l'obligation
-scolaire.
+"Art. L. 211-1. - I. - Sous réserve des dispositions de la deuxième phrase de
+l'article L. 117-3, les mineurs de moins de seize ans ne peuvent être admis ou
+employés dans les établissements et professions mentionnés au premier alinéa de
+l'article L. 200-1 que dans les cas suivants :
 
-Les dispositions de l'alinéa précédent ne font pas obstacle à ce que les élèves
-qui suivent un enseignement alterné accomplissent des stages d'initiation ou
-d'application en milieu professionnel durant les deux dernières années de leur
-scolarité obligatoire.
+1° Les élèves de l'enseignement général peuvent faire des visites d'information
+organisées par leurs enseignants ou, durant les deux dernières années de leur
+scolarité obligatoire, suivre des séquences d'observation selon des modalités
+déterminées par décret ;
 
-Ces stages ne peuvent être effectués qu'auprès d'entreprises commerciales ou
-artisanales ou de petites ou moyennes entreprises ayant fait l'objet d'un
-agrément.
+2° Les élèves qui suivent un enseignement alterné ou un enseignement
+professionnel peuvent accomplir, durant les deux dernières années de leur
+scolarité obligatoire, des stages d'initiation, d'application ou des périodes de
+formation en milieu professionnel selon des modalités déterminées par décret.
 
-Ces dispositions ne font pas non plus obstacle à ce que les adolescents de plus
-de quatorze ans effectuent des travaux légers pendant leurs vacances scolaires à
-condition que soit assuré aux intéressés un repos effectif d'une durée au moins
-égale à la moitié de chaque période de congé. Les employeurs sont tenus
-d'adresser une déclaration préalable à l'inspecteur du travail qui dispose d'un
-délai de huit jours pour notifier son désaccord éventuel.
+Dans tous les cas mentionnés ci-dessus, une convention est passée entre
+l'établissement d'enseignement dont relève l'élève et l'entreprise. Aucune
+convention ne peut être conclue avec une entreprise aux fins d'admettre ou
+d'employer un élève dans un établissement où il a été établi par les services de
+contrôle que les conditions de travail sont de nature à porter atteinte à la
+sécurité, à la santé ou à l'intégrité physique ou morale des personnes qui y
+sont présentes.
 
-Des décrets régleront les modalités d'application de l'alinéa précédent,
-notamment la nature des travaux, la durée de la période pendant laquelle ils
-pourront être effectués ainsi que, en tant que de besoin, les conditions
-particulières dans lesquelles sera assurée la couverture en matière de sécurité
-sociale des jeunes gens concernés par ledit alinéa.
+Ces dispositions ne font pas obstacle à ce que ces mineurs, lorsqu'ils ont plus
+de quatorze ans, se livrent à des travaux adaptés à leur âge pendant leurs
+vacances scolaires, à condition que leur soit assuré un repos effectif d'une
+durée au moins égale à la moitié de chaque période de congés. Les employeurs
+sont tenus d'adresser une déclaration préalable à l'inspecteur du travail qui
+dispose d'un délai de huit jours pour s'y opposer.
 
-Les dispositions du premier alinéa ci-dessus ne sont pas applicables dans les
-établissements mentionnés au deuxième alinéa de l'article L. 200-1. "
+Les modalités d'application de l'alinéa précédent, notamment la nature des
+travaux, la durée de la période pendant laquelle ils peuvent être faits, les
+conditions dans lesquelles l'inspecteur du travail peut s'y opposer, ainsi que,
+en tant que de besoin, les conditions particulières dans lesquelles est assurée
+la couverture en matière de sécurité sociale des jeunes gens concernés par ledit
+alinéa, sont déterminées par décret.
+
+II. - Les dispositions prévues au I ci-dessus ne sont pas applicables dans les
+établissements mentionnés au deuxième alinéa de l'article L. 200-1, sous réserve
+qu'il s'agisse de travaux occasionnels ou de courte durée, qui ne puissent être
+considérés comme étant nuisibles, préjudiciables ou dangereux. Un décret en
+Conseil d'Etat fixe la liste des travaux considérés comme étant nuisibles,
+préjudiciables ou dangereux".
