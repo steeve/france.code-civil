@@ -1,7 +1,7 @@
-Article R5214-1
+Article R5215-2-1
 ----
 Les indemnités maximales votées, en application de l'article L. 5211-12, par les
-organes délibérants des communautés de communes pour l'exercice effectif des
+organes délibérants des communautés urbaines pour l'exercice effectif des
 fonctions de président ou de vice-président sont déterminées en appliquant au
 montant du traitement mensuel correspondant à l'indice brut terminal de
 l'échelle indiciaire de la fonction publique les barèmes suivants :
@@ -17,64 +17,29 @@ Président
 Vice-président
 
 
-Moins de 500
-
-12,75
-
-4,95
-
-
-De 500 à 999
-
-23,25
-
-6,19
-
-
-De 1 000 à 3 499
-
-32,25
-
-12,37
-
-
-De 3 500 à 9 999
-
-41,25
-
-16,50
-
-
-De 10 000 à 19 999
-
-48,75
-
-20,63
-
-
 De 20 000 à 49 999
 
-67,50
+90
 
-24,73
+33
 
 
 De 50 000 à 99 999
 
-82,49
+110
 
-33,00
+44
 
 
 De 100 000 à 199 999
 
-108,75
+145
 
-49,50
+66
 
 
 Plus de 200 000
 
-108,75
+145
 
-54,37
+72,50
