@@ -1,7 +1,7 @@
 Article R951-2-5
 ----
-Lors de l'audition, le rapporteur, choisi parmi les fonctionnaires prévus à
-l'article L. 951-4, présente l'affaire.
+En matière disciplinaire, lors de l'audition, le rapporteur, choisi parmi les
+fonctionnaires prévus à l'article L. 951-4, présente l'affaire.
 
 Le président peut faire entendre toute personne dont il estime l'audition utile.
 
