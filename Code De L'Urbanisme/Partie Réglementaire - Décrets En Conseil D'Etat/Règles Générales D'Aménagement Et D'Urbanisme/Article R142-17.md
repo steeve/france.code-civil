@@ -21,12 +21,10 @@ supérieure au prix de l'adjudication. La saisine préalable de la juridiction
 précitée est toujours obligatoire et la valeur du terrain est appréciée à la
 date de cette saisine.
 
-/M/L'action du préfet se prescrit par dix ans à partir de la date de l'acte ou
-de l'adjudication./M/DECR.0558 : L'action que le préfet peut exercer au nom du
-département se prescrit par cinq ans à compter [*délai point de départ*] de la
-date de l'acte ou de l'adjudication.
+L'action que le préfet peut exercer au nom du département se prescrit par cinq
+ans à compter [*point de départ délai*] de la date de l'acte ou de
+l'adjudication.
 
-Les dispositions qui précèdent sont applicables, le cas échéant, au
-conservatoire de l'espace littoral et des rivages lacustres, qui peut exercer
-l'action en nullité de la vente intervenue et se faire déclarer acquéreur de
-l'immeuble//.
+Les dispositions qui précèdent sont applicables, le cas échéant, au titulaire du
+droit de substitution, qui peut exercer l'action en nullité de la vente
+intervenue.
