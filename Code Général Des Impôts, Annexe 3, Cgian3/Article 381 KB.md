@@ -10,16 +10,16 @@ développement industriel (Codevi) ;
 2° A chaque échéance des intérêts de ces obligations, l'établissement émetteur
 compare les termes suivants :
 
-- le nombre de ces obligations au titre desquelles les versements d'acomptes de
+Le nombre de ces obligations au titre desquelles les versements d'acomptes de
 retenue à la source ont été suspendus ;
 
-- le nombre de ces obligations qui font effectivement l'objet d'une gestion
+Le nombre de ces obligations qui font effectivement l'objet d'une gestion
 collective.
 
 Lorsque le premier terme est supérieur au second, l'établissement émetteur verse
 la retenue à la source afférente aux obligations excédentaires à la recette des
-impôts dont il dépend dans les vingt jours qui suivent le trimestre civil au
-cours duquel les intérêts ont été payés.
+impôts dont il dépend dans les quinze jours qui suivent le mois civil au cours
+duquel les intérêts ont été payés (1).
 
 Dans le cas contraire, la retenue à la source afférente au surplus d'obligations
 gérées collectivement est restituée à l'établissement émetteur ;
