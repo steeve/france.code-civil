@@ -14,18 +14,21 @@ remplacement.
 
 La décision est notifiée au demandeur par lettre recommandée accompagnée,
 lorsque la décision est négative ou assortie de prescriptions, d'une demande
-d'avis de réception postal [*conditions de forme*].
+d'avis de réception postal.
 
-L'autorisation est valable deux ans [*durée, péremption*]. Elle peut toutefois,
-si la coupe ou l'abattage n'ont pu être pratiqués au cours des années pour
-lesquelles l'autorisation a été donnée, être prolongée d'une année.
+L'autorisation est valable deux ans. Elle peut toutefois, si la coupe ou
+l'abattage n'ont pu être pratiqués au cours des années pour lesquelles
+l'autorisation a été donnée, être prolongée d'une année.
 
 Les coupes rases doivent être suivies dans les cinq ans de travaux de
-reboisement, à défaut de régénération naturelle [*delai*]. L'autorisation est
-publiée par voie d'affichage à la mairie pendant deux mois [*durée*]. Dans les
-zones urbaines, elle est en outre préalablement portée à la connaissance du
-public, [*publicité*] par apposition de la décision de l'autorité compétente sur
-un panneau implanté à la limite du terrain boisé concerné et visible d'une voie
-ouverte au public. " Un arrêté du ministre chargé de l'urbanisme règle les
-formes de l'affichage et fixe la liste des pièces du dossier dont tout intéressé
-peut prendre connaissance. "
+reboisement, à défaut de régénération naturelle.
+
+L'autorisation est publiée par voie d'affichage à la mairie pendant deux mois.
+Dans les zones urbaines, elle est en outre préalablement portée à la
+connaissance du public, par apposition de la décision de l'autorité compétente
+sur un panneau implanté à la limite du terrain boisé concerné et visible d'une
+voie ouverte au public.
+
+Un arrêté du ministre chargé de l'urbanisme règle le contenu et les formes de
+l'affichage et fixe la liste des pièces du dossier dont tout intéressé peut
+prendre connaissance.
