@@ -1,12 +1,15 @@
 Article L116-2
 ----
 La création [*procédure*] des centres de formation d'apprentis fait l'objet de
-conventions passées avec l'Etat, dans le cas des centres à recrutement national,
-ou la région, dans tous les autres cas, par les collectivités locales, les
-établissements publics, les compagnies consulaires, les chambres des métiers,
-les chambres d'agriculture, les établissements d'enseignement privés sous
-contrat, les organisations professionnelles, les associations, les entreprises
-ou toute autre personne physique ou morale.
+conventions conclues avec l'Etat, dans le cas des centres à recrutement
+national, ou conclues avec la région, dans tous les autres cas, par les
+organismes de formation gérés paritairement par les organisations
+professionnelles d'employeurs et les syndicats de salariés, les collectivités
+locales, les établissements publics, les chambres de commerce et d'industrie,
+les chambres des métiers, les chambres d'agriculture, les établissements
+d'enseignement privés sous contrat, les organisations professionnelles ou
+interprofessionnelles représentatives d'employeurs, les associations, les
+entreprises ou leurs groupements, ou toute autre personne physique ou morale.
 
 La demande de convention doit donner lieu à une décision dans un délai de six
 mois à compter du dépôt de la demande. En cas de réponse négative ou de
@@ -33,3 +36,7 @@ conformes à une convention type établie par la région, sous réserve des clau
 à caractère obligatoire fixées par le décret prévu à l'article L. 119-4. Les
 conventions types sont définies après avis, selon le cas, de la commission
 permanente ou du comité régional mentionnés au deuxième alinéa ci-dessus.
+
+Les conventions créant les centres de formation d'apprentis prévoient
+l'institution d'un conseil de perfectionnement dont la composition, le rôle et
+les attributions sont fixés par le décret prévu à l'article L. 119-4.

@@ -8,7 +8,10 @@ les exonérations mentionnées aux articles 231bis C à 231 bis N du code géné
 des impôts ne sont pas prises en compte pour l'établissement du montant de la
 contribution définie ci-dessus. Ce pourcentage est porté à 1,4 p. 100 à compter
 du 1er janvier 1992 et à 1,5 p. 100 à compter du 1er janvier 1993. Pour les
-entreprises de travail temporaire, le taux est fixé à 2 p. 100.
+entreprises de travail temporaire, le taux est fixé à 2 p. 100 ; dans ce dernier
+cas, il s'applique, à compter du 1er janvier 1992, aux salaires payés pendant
+l'année en cours, quelles que soient la nature et la date de la conclusion des
+contrats de travail.
 
 Dans le cadre de l'obligation définie à l'alinéa précédent :
 
@@ -16,7 +19,7 @@ Dans le cadre de l'obligation définie à l'alinéa précédent :
 salaires de l'année de référence à un organisme paritaire agréé par l'Etat au
 titre du congé individuel de formation. Ce pourcentage est porté à 0,20 p. 100 à
 compter du 1er janvier 1993 ; pour les entreprises de travail temporaire, le
-taux est fixé à 0,25 p. 100 ;
+taux est porté à 0,30 p. 100 à compter du 1er janvier 1992 ;
 
 2° Les employeurs consacrent 0,30 p. 100 des salaires de l'année précédente
 majorés du taux d'évolution du salaire moyen par tête aux contrats d'insertion
