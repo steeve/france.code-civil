@@ -1,7 +1,7 @@
 Article R351-13
 ----
-Pour bénéficier de l'allocation de solidarité spécifique, les personnes relevant
-de l'article précédent doivent [*conditions*] :
+Pour bénéficier de l'allocation de solidarité spécifique, les personnes
+mentionnées à l'article L. 351-10 doivent [*conditions*] :
 
 1° Justifier de cinq ans d'activité salariée dans les dix ans précédant la fin
 du contrat de travail à partir de laquelle ont été ouverts leurs droits aux
