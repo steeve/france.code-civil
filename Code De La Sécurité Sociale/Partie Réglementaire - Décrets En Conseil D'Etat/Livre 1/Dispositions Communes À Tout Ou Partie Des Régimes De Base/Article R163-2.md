@@ -20,3 +20,6 @@ médicaments susceptibles d'être utilisés à des fins non thérapeutiques, êt
 assortie d'une clause précisant qu'ils ne sont remboursés ou pris en charge par
 les caisses et organismes d'assurance maladie que si leur emploi est prescrit en
 vue du traitement d'un état pathologique.
+
+L'inscription sur la liste des médicaments remboursables est prononcée pour une
+durée de trois ans renouvelable.
