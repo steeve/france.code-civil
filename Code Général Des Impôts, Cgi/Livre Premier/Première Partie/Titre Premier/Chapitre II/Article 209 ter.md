@@ -12,10 +12,13 @@ organismes assimilés visés aux articles 207-2, 208-1° ter, 1° quater et 1°
 quinquies ;
 
 3° Par les sociétés immobilières pour le commerce et l'industrie [*SICOMI*]
-visées à l'article 5 de l'ordonnance n° 67-837 du 28 septembre 1967 ;
+visées à l'article 5 de l'ordonnance n° 67-837 du 28 septembre 1967, sous
+réserve des dispositions du 3ème alinéa du 3° quater de l'article 208 ;
 
-4° Par les sociétés agréées pour le financement des télécommunications visées à
-l'article 1er de la loi n° 69-1160 du 24 décembre 1969 ;
+4° Par les sociétés agréées pour le financement des télécommunications
+lorsqu'ils sont prélevés sur les résultats exonérés en application des premier
+et deuxième alinéas de l'article 208 3° quinquies ou lorsqu'ils sont distribués
+en application du quatrième alinéa du même article ;
 
 5° Par les sociétés agréées pour le financement des économies d'énergie
 (SOFERGIE) et résultant de l'exercice des activités exonérées en application du

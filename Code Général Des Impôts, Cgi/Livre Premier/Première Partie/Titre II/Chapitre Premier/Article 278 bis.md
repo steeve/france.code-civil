@@ -1,7 +1,7 @@
 Article 278 bis
 ----
-La taxe sur la valeur ajoutée est perçue au taux super réduit de 5,50 % en ce
-qui concerne les opérations d'achat, d'importation, de vente, de livraison, de
+La taxe sur la valeur ajoutée est perçue au taux réduit de 5,50 % en ce qui
+concerne les opérations d'achat, d'importation, de vente, de livraison, de
 commission, de courtage ou de façon portant sur les produits suivants :
 
 1° Eau et boissons non alcooliques (1) ;

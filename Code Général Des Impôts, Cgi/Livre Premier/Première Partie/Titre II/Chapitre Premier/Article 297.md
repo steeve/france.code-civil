@@ -6,15 +6,14 @@ perçue au taux de :
 1° O,90 % [*pourcentage*] pour les opérations visées aux articles 281 quater et
 281 sexies ;
 
-2° 2,10 % pour les opérations visées à l'article 278 bis portant sur des
-produits livrés en Corse ;
+2° 2,10 % en ce qui concerne :
 
-3° 3,15 % en ce qui concerne :
+Les opérations visées à l'article 278 bis et aux c, d et e de l'article 279
+portant sur des produits livrés en Corse ;
 
-a. Les opérations visées au 13° du c et aux d et e de l'article 279 portant sur
-des produits livrés en Corse ;
+Les prestations de services visées aux a à b decies de l'article 279 ;
 
-b. Les prestations de services visées aux a à b nonies de l'article 279 ;
+3° (Disposition devenue sans objet) ;
 
 4° 5,5 %pour les opérations visées à l'article 281 quinquies (1) ;
 
@@ -42,21 +41,24 @@ immatriculées en Corse ;
 b. Les ventes de produits pétroliers énumérés au tableau B de l'article 265 du
 code des douanes et livrés en Corse ;
 
-7° 25 p. 100 pour les ventes de tabacs manufacturés.
+7° 21 % en ce qui concerne :
 
-8° 21 p. 100 [*taux applicable*] pour les ventes de voitures automobiles conçues
-pour le transport de personnes, immatriculées en Corse, sous réserve des
-dispositions du a du 6°.
+Les ventes de tabacs manufacturés (3) ;
 
-b. Les ventes de tabacs manufacturés.
+Les ventes de voitures automobiles conçues pour le transport de personnes
+immatriculées en Corse, sous réserve des dispositions du a du 6°.
+
+8° (Disposition devenue sans objet).
 
 2. Les mêmes dispositions sont applicables aux importations en Corse et aux
 expéditions de France continentale à destination de la Corse, des produits qui
-sont visés au 1.. II (abrogé) (3). III (dispositions périmées).
+sont visés au 1.. II (abrogé) (4). III (dispositions périmées).
 
 (1) Voir annexe II, art. 267 quater CB.
 
 (2) Annexe IV, art. 50 duodecies A.
 
-(3) En ce qui concerne les transports entre la France continentale et la Corse,
+(3) Disposition applicable à compter du 2 janvier 1989.
+
+(4) En ce qui concerne les transports entre la France continentale et la Corse,
 voir article 262-II-11°.

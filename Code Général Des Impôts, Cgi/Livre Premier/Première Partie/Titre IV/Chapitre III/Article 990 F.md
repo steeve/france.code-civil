@@ -9,8 +9,7 @@ budget (1).
 
 La taxe est recouvrée selon les règles et sous les sanctions et garanties
 applicables aux droits d'enregistrement. Sont également applicables à la taxe
-les dispositions de l'article 223 quinquies A ainsi que celles de l'article L.
-76 B du livre des procédures fiscales.
+les dispositions de l'article 223 quinquies A.
 
 En cas de cession de l'immeuble, le représentant visé à l'article 244 bis A-I
 est responsable du paiement de la taxe restant due à cette date.
