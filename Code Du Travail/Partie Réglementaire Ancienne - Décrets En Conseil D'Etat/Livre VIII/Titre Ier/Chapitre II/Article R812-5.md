@@ -6,8 +6,8 @@ L'effectif pris en compte est celui de l'ensemble des établissements de
 l'entreprise situés dans le département d'outre-mer, ou dans la collectivité de
 Saint-Pierre-et-Miquelon et employé durant l'année civile précédente.
 
-Pour la détermination du plafond de cent jours par an dans la même entreprise
-prévu au cinquième alinéa de l'article L. 812-1, il est tenu compte de chaque
+Pour la détermination de la limite de cent jours par an dans la même entreprise
+prévue au quatrième alinéa de l'article L. 812-1, il est tenu compte de chaque
 jour calendaire travaillé dans l'un quelconque des établissements de
 l'entreprise ou de l'organisme situé dans le département concerné, ou à
 Saint-Pierre-et-Miquelon et quel que soit le nombre d'heures de travail

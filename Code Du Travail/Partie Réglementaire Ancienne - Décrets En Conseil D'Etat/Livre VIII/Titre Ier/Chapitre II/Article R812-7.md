@@ -14,4 +14,5 @@ L. 351-2, et de retraite complémentaire.
 
 Ils délivrent également aux particuliers employeurs une attestation annuelle
 leur permettant de justifier du droit à la réduction d'impôt prévue par
-l'article 199 sexdecies du code général des impôts.
+l'article 199 sexdecies du code général des impôts ou par les dispositions
+fiscales particulières applicables à Saint-Pierre-et-Miquelon.

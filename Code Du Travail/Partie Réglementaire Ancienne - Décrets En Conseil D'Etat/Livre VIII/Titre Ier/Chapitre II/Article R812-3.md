@@ -34,7 +34,9 @@ naissance ;
 
 - option retenue pour le calcul des cotisations sociales :
 
-assiette forfaitaire ou réelle.
+assiette forfaitaire ou réelle dans le cas où l'activité du salarié n'a pas
+excédé cent jours, consécutifs ou non, dans l'entreprise au cours de l'année
+civile.
 
 4° Date de paiement du salaire et signature de l'employeur.
 
