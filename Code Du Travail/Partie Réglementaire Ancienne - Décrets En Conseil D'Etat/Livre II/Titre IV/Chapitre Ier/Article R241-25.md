@@ -16,8 +16,10 @@ surveillance clinique des salariés, le personnel du service médical, le nombre
 et la catégorie des salariés à surveiller, les risques professionnels auxquels
 ils sont exposés, les réunions du comité d'hygiène, de sécurité et des
 conditions de travail, le temps dont le ou les médecins disposent pour remplir
-leurs fonctions. Un arrêté du ministre chargé du travail précise les indications
-qui doivent figurer dans ce document.
+leurs fonctions. Il indique également les dispositions essentielles des plans
+d'activité en milieu de travail prévus à l'article R. 241-41-1. Un arrêté du
+ministre chargé du travail précise les indications qui doivent figurer dans ce
+document.
 
 En cas de contestation de l'une des instances consultées sur le nombre et la
 catégorie des salariés à surveiller ou les risques professionnels auxquels ils
