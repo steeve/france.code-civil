@@ -11,7 +11,13 @@ espèces animales ou végétales, soit la protection des espaces naturels, des
 paysages ou des sites ou leur mise en valeur à des fins esthétiques,
 écologiques, agricoles, forestières ou touristiques.
 
-" Ces dispositions ne s'appliquent pas aux véhicules utilisés pour assurer une
+Dans ces secteurs, le représentant de l'Etat dans le département peut, en outre,
+dans les conditions prévues au premier alinéa, soumettre à des prescriptions
+particulières relatives aux conditions d'horaires et d'accès à certains lieux et
+aux niveaux sonores admissibles les activités s'exerçant sur la voie publique, à
+l'exception de celles qui relèvent d'une mission de service public.
+
+Ces dispositions ne s'appliquent pas aux véhicules utilisés pour assurer une
 mission de service public et ne peuvent s'appliquer d'une façon permanente aux
 véhicules utilisés à des fins professionnelles de recherche, d'exploitation ou
-d'entretien des espaces naturels. "
+d'entretien des espaces naturels.

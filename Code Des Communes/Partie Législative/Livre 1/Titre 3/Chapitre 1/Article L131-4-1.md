@@ -8,7 +8,13 @@ animales ou végétales, soit la protection des espaces naturels, des paysages o
 des sites ou leur mise en valeur à des fins esthétiques, écologiques, agricoles,
 forestières ou touristiques.
 
-" Ces dispositions ne s'appliquent pas aux véhicules utilisés pour assurer une
+Ces dispositions ne s'appliquent pas aux véhicules utilisés pour assurer une
 mission de service public et ne peuvent s'appliquer d'une façon permanente aux
 véhicules utilisés à des fins professionnelles de recherche, d'exploitation ou
-d'entretien des espaces naturels. "
+d'entretien des espaces naturels.
+
+Dans ces secteurs, le maire peut, en outre, par arrêté motivé, soumettre à des
+prescriptions particulières relatives aux conditions d'horaires et d'accès à
+certains lieux et aux niveaux sonores admissibles les activités s'exerçant sur
+la voie publique, à l'exception de celles qui relèvent d'une mission de service
+public.

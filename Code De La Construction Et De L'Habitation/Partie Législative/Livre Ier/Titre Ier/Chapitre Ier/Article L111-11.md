@@ -9,5 +9,5 @@ parfait achèvement visée à l'article 1792-6 du code civil reproduit à l'arti
 L. 111-19.
 
 Le vendeur ou le promoteur immobilier est garant, à l'égard du premier occupant
-de chaque logement, de la conformité à ces exigences pendant six mois [*délai*]
-à compter de sa prise de possession.
+de chaque logement, de la conformité à ces exigences pendant un an à compter de
+la prise de possession.
