@@ -8,7 +8,6 @@ comprend au moins 12 lits.
 L'unité de néonatologie est située dans le même bâtiment ou à proximité
 immédiate sur le même site que l'unité d'obstétrique.
 
-En cas de création d'une nouvelle unité, de reconstruction ou de réaménagement
-d'une unité existante, les locaux qui composent l'unité de néonatologie doivent
-être implantés dans le même bâtiment et être contigus avec le secteur de
-naissance de l'unité d'obstétrique.
+En cas de création d'une unité de néonatologie, de reconstruction ou de
+réaménagement d'une unité existante, les locaux qui composent cette unité sont
+implantés dans le même bâtiment, à proximité de l'unité d'obstétrique.

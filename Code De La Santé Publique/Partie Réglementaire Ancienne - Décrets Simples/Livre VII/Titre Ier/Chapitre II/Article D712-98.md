@@ -8,5 +8,5 @@ intensifs. L'unité de réanimation néonatale est située dans le même bâtime
 d'obstétrique. En cas de création d'une unité de réanimation néonatale, de
 reconstruction ou de réaménagement d'une unité existante, les locaux qui
 composent cette unité sont implantés dans le même bâtiment, à proximité
-immédiate du secteur de naissance de l'unité d'obstétrique et de l'unité de
-néonatologie.
+immédiate du secteur de naissance de l'unité d'obstétrique et à proximité de
+l'unité de néonatologie.
