@@ -22,4 +22,7 @@ commission de garantie de bonne fin d'opérations immobilières;
 frais de gestion réglementés perçus par les sociétés de crédit différé;
 
 perceptions forfaitaires prévues à l'article 1er troisième alinéa de la loi n°
-66-1010 du 28 décembre 1966.
+66-1010 du 28 décembre 1966 ;
+
+rémunération perçue par l'intermédiaire placeur d'emprunts émis par voie
+d'adjudication.
