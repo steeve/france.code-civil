@@ -87,7 +87,4 @@ II. Les dispositions du I ne sont pas applicables aux revenus visés au 3
 s'agissant des seuls contrats en unités de comptes et aux 5 à 9, lorsque ces
 revenus entrent dans le champ d'application de l'article 1600-0 G.
 
-III. Les revenus de placement visés au I, acquis ou en ce qui concerne les
-placements visés du 3 au 9 du même I, constatés à la date du 31 janvier 2014 et
-pour lesquels la contribution n'est pas encore exigible sont soumis à cette date
-à la contribution.
+III. (sans objet).

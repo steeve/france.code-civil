@@ -4,11 +4,10 @@ Article 1600-0 H
 dans les conditions et selon les modalités prévues aux I et II de cet article :
 
 1. Les revenus d'activité et de remplacement de source étrangère perçus à
-compter du 1er février 1996 et jusqu'au 31 janvier 2014 et soumis en France à
-l'impôt sur le revenu. Pour l'application de ces dispositions, le 3° de
-l'article 83 et le a du 5 de l'article 158 ne sont pas applicables. La
-déclaration prévue à l'article 170 mentionne distinctement les revenus concernés
-;
+compter du 1er février 1996 et soumis en France à l'impôt sur le revenu. Pour
+l'application de ces dispositions, le 3° de l'article 83 et le a du 5 de
+l'article 158 ne sont pas applicables. La déclaration prévue à l'article 170
+mentionne distinctement les revenus concernés ;
 
 2. Les sommes soumises à l'impôt sur le revenu en application de l'article L. 69
 du livre des procédures fiscales au titre des années visées au I de l'article
