@@ -18,8 +18,8 @@ ou artistiques à caractère désintéressé et qui sont agréés à cet effet p
 ministre de l'économie et des finances;
 
 4° Les dons et legs faits aux établissements publics charitables autres que ceux
-visés à l'article 794-I, aux sociétés mutualistes et à toutes autres sociétés
-reconnues d'utilité publique dont les ressources sont affectées à des oeuvres
+visés à l'article 794-I, aux mutuelles et à toutes autres sociétés reconnues
+d'utilité publique dont les ressources sont affectées à des oeuvres
 d'assistance.
 
 Il est statué sur le caractère de bienfaisance de la disposition par le décret
@@ -40,9 +40,7 @@ publique, ou à l'entretien d'une collection publique;
 7° Les dons et legs faits aux organismes d'habitations à loyer modéré ou à leurs
 unions;
 
-8° Les dons et legs faits aux sociétés civiles visées au premier alinéa de
-l'article 44 de la loi du 5 avril 1928 qui ont été autorisées à continuer leurs
-opérations en exécution des dispositions dudit alinéa;
+8° (Périmé).
 
 9° Les dons et legs faits à l'office national des anciens combattants et
 victimes de guerre;

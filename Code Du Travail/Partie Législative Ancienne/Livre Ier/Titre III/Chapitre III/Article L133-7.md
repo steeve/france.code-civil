@@ -23,3 +23,5 @@ indemnités de déplacement ;
 6° Les procédures conventionnelles d'arbitrage suivant lesquelles seront ou
 pourront être réglés les conflits collectifs de travail susceptibles de survenir
 entre les employeurs et les salariés liés par la convention.
+
+7° Les conditions d'exercice des responsabilités mutualistes.
