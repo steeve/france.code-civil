@@ -12,8 +12,8 @@ nature - quels que soient l'importance des rémunérations et le lieu du domicil
 des bénéficiaires.
 
 Ces rémunérations sont comprises dans la base de calcul de la taxe pour leur
-montant brut, avant déduction de la cotisation ouvrière de sécurité sociale et
-des retenues pour la retraite.
+montant brut, avant déduction des retenues, cotisations et contributions visées
+à l'article 83-1° à 2° ter du code général des impôts.
 
 Toutefois, en ce qui concerne les salariés appartenant aux catégories de
 professions qui bénéficient, en vertu de l'article 5 de l'annexe IV au code

@@ -10,8 +10,8 @@ Sont exclues de ce montant les sommes définies à l'article 81 et aux articles
 231 bis C à 231 bis J du code général des impôts.
 
 2. Les sommes prévues au 1 sont comprises dans la base de calcul de la
-participation pour leur montant brut, avant déduction de la cotisation ouvrière
-de sécurité sociale et des retenues pour la retraite.
+participation pour leur montant brut, avant déduction des retenues, cotisations
+et contributions visées à l'article 83-1° à 2° ter du code général des impôts.
 
 Toutefois, en ce qui concerne les salariés appartenant aux catégories de
 professions qui bénéficient, en vertu de l'article 83-3o, troisième alinéa, du
