@@ -51,8 +51,6 @@ utilisation clinique ;
 
 12. Appareil de destruction transpariétale des calculs ;
 
-13. Réseau informatisé de transmission et d'archivage de l'imagerie médicale.
-
 Sont considérés comme équipements matériels lourds au sens de l'article L.
 712-19 les éléments dont l'adjonction ou la juxtaposition conduit à réaliser
 l'un des appareillages mentionnés ci-dessus.
@@ -81,7 +79,6 @@ scellées ;
 
 10. Traitement de l'insuffisance rénale chronique ;
 
-11. Activités cliniques de procréation médicalement assistée et diagnostic
-prénatal ;
+11. Activités de procréation médicalement assistée et diagnostic prénatal ;
 
 12. Réadaptation fonctionnelle.
