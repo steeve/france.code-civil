@@ -47,12 +47,11 @@ obligation, soit, en fonction des modalités retenues par l'entreprise :
 fonds de développement pour l'insertion professionnelle des travailleurs
 handicapés ;
 
-4° S'il y a lieu, la liste des contrats conclus au cours de l'année écoulée avec
-des ateliers protégés, des centres de distribution du travail à domicile ou des
-centres d'aide par le travail ainsi que toutes justifications permettant de
-calculer le nombre d'heures de travail consacrées par des travailleurs
-handicapés à l'excécution de ces contrats et celui des heures qu'aurait requises
-l'exécution de ces contrats dans les conditions ordinaires de production.
+4° S'il y a lieu, la liste de contrats conclus au cours de l'année écoulée avec
+des ateliers protégés, des centres de distribution de travail à domicile ou des
+centres d'aide par le travail, ainsi que toutes justifications permettant de
+calculer, selon les dispositions de l'article R. 323-2, l'exonération partielle
+de l'obligation d'emploi.
 
 En outre, une déclaration globale est envoyée au commissaire de la République du
 département du siège de l'entreprise lorsque celle-ci comprend des
