@@ -25,9 +25,9 @@ f) Les recettes diverses.
 
 Il comprend, en dépenses :
 
-a) Les dépenses effectuées sous forme d'avances, de prêts, de garanties, de
-subventions, en vertu des décisions prises en application de l'article R. 684-14
-;
+a) Les dépenses effectuées sous forme d'avances, d'achats, de prêts, de
+garanties, de subventions, en vertu des décisions prises en application de
+l'article R. 684-14 ;
 
 b) Les dépenses éventuelles résultant de l'application des conventions prévues à
 l'article R. 684-11 ;
