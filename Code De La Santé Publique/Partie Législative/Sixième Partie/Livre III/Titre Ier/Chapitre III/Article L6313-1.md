@@ -1,10 +1,13 @@
 Article L6313-1
 ----
-Dans chaque département, un comité de l'aide médicale urgente, de la permanence
-des soins et des transports sanitaires a pour mission de veiller à la qualité de
-la distribution de l'aide médicale urgente, à l'organisation de la permanence
-des soins et à son ajustement aux besoins de la population.
+Est puni de 3750 euros d'amende le fait :
 
-Il s'assure de la coopération des personnes physiques et morales participant à
-l'aide médicale urgente, au dispositif de la permanence des soins et aux
-transports sanitaires.
+1° D'effectuer un transport sanitaire sans agrément ou malgré le retrait
+d'agrément ;
+
+2° De mettre ou de maintenir en service un véhicule affecté aux transports
+sanitaires terrestres sans l'autorisation prévue à l'article L. 6312-4.
+
+Les personnes physiques coupables de l'infraction mentionnée à l'alinéa
+précédent encourent la peine complémentaire d'interdiction d'effectuer des
+transports sanitaires pendant un an.

@@ -1,6 +1,7 @@
 Article L222-2
 ----
-Les conseils départementaux d'hygiène et les représentants des organismes agréés
+Les commissions départementales compétentes en matière d'environnement, de
+risques sanitaires et technologiques et les représentants des organismes agréés
 prévus à l'article L. 221-3 sont associés à l'élaboration du plan régional pour
 la qualité de l'air.
 

@@ -25,5 +25,4 @@ représentant de l'Etat dans le département et à l'égard des centres de réce
 et de régulation des appels mentionnés à l'article L. 6112-5 ;
 
 - les conditions dans lesquelles le représentant de l'Etat dans le département
-organise, après avis du comité mentionné à l'article L. 6313-1, la garde
-départementale assurant la permanence du transport sanitaire.
+organise la garde départementale assurant la permanence du transport sanitaire.

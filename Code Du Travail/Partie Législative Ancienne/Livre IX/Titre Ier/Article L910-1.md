@@ -28,12 +28,11 @@ missions, notamment de contrôle, ainsi que ses modalités de fonctionnement et 
 compte rendu de son activité, sont fixées par décret.
 
 Sont institués des comités de coordination régionaux de l'emploi et de la
-formation professionnelle et des comités départementaux de l'emploi.
+formation professionnelle.
 
 Dans chacune des régions d'outre-mer, le comité de coordination régional de
 l'emploi et de la formation professionnelle exerce l'ensemble des attributions
-dévolues au comité de coordination régional et au comité départemental de
-l'emploi.
+dévolues au comité de coordination régional.
 
 Le comité de coordination régional a pour mission de favoriser la concertation
 entre les divers acteurs afin d'assurer une meilleure coordination des
@@ -74,8 +73,7 @@ l'affectation des sommes ainsi collectées.
 Dans la collectivité locale de Saint-Pierre-et-Miquelon, le comité de
 coordination de l'emploi et de la formation professionnelle exerce l'ensemble
 des attributions dévolues au comité de coordination régional de l'emploi et de
-la formation professionnelle et au comité départemental de l'emploi et de la
-formation professionnelle.
+la formation professionnelle.
 
 Dans des conditions définies par décret, les comités de coordination régionaux
 de l'emploi et de la formation professionnelle sont consultés sur les programmes
@@ -102,17 +100,6 @@ précédent précisent les conditions dans lesquelles l'Association nationale po
 la formation professionnelle des adultes apporte un concours technique aux
 interventions des associations régionales pour la formation professionnelle des
 adultes.
-
-Les comités départementaux de l'emploi comprennent des représentants élus des
-collectivités territoriales et les parlementaires du département. Ces comités se
-réunissent au moins une fois par an sous la présidence du préfet du département
-qui, à cette occasion, présente le bilan de la politique de l'emploi et de la
-formation professionnelle dans le département.
-
-Les membres non fonctionnaires des comités visés au troisième alinéa bénéficient
-pendant les heures qu'ils consacrent à leur mission d'une rémunération, dans le
-cas où elle n'est pas prévue par ailleurs, et perçoivent le remboursement de
-leurs frais de déplacement.
 
 Les modalités d'organisation et de fonctionnement des comités mentionnés aux
 alinéas précédents sont déterminées par décret.

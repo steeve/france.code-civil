@@ -11,6 +11,7 @@ des associations agréées de protection de l'environnement.
 
 Par dérogation aux articles L. 541-13 et L. 541-14 du code de l'environnement,
 les projets de plan qui, à l'initiative de l'Assemblée de Corse, peuvent être
-réunis en un seul document sont, après avis des conseils départementaux
-d'hygiène et du conseil économique, social et culturel de Corse, soumis à
-enquête publique puis approuvés par l'Assemblée de Corse.
+réunis en un seul document sont, après avis des commissions départementales
+compétentes en matière d'environnement, de risques sanitaires et technologiques
+et du conseil économique, social et culturel de Corse, soumis à enquête publique
+puis approuvés par l'Assemblée de Corse.

@@ -15,8 +15,9 @@ ni le longer.
 
 Toutefois, les dispositions des deuxième, troisième et quatrième alinéas ne
 s'appliquent pas en cas de contraintes liées à la configuration des lieux ou, le
-cas échéant, à l'insularité. La commission départementale des sites est alors
-consultée sur l'impact de l'implantation de ces nouvelles routes sur la nature.
+cas échéant, à l'insularité. La commission départementale compétente en matière
+de nature, de paysages et de sites est alors consultée sur l'impact de
+l'implantation de ces nouvelles routes sur la nature.
 
 En outre, l'aménagement des routes dans la bande littorale définie à l'article
 L. 146-4 est possible dans les espaces urbanisés ou lorsqu'elles sont

@@ -18,13 +18,14 @@ la loi n° 73-1193 du 27 décembre 1973 d'orientation du commerce et de
 l'artisanat.
 
 Il peut être dérogé aux dispositions des deux alinéas précédents soit avec
-l'accord du préfet donné après avis de la commission départementale des sites et
-de la chambre d'agriculture, soit, lorsque le périmètre d'un schéma de cohérence
-territoriale incluant la commune a été arrêté, avec l'accord de l'établissement
-public prévu à l'article L. 122-4. La dérogation ne peut être refusée que si les
-inconvénients éventuels de l'urbanisation envisagée pour les communes voisines,
-pour l'environnement ou pour les activités agricoles sont excessifs au regard de
-l'intérêt que représente pour la commune la modification ou la révision du plan.
+l'accord du préfet donné après avis de la commission départementale compétente
+en matière de nature, de paysages et de sites et de la chambre d'agriculture,
+soit, lorsque le périmètre d'un schéma de cohérence territoriale incluant la
+commune a été arrêté, avec l'accord de l'établissement public prévu à l'article
+L. 122-4. La dérogation ne peut être refusée que si les inconvénients éventuels
+de l'urbanisation envisagée pour les communes voisines, pour l'environnement ou
+pour les activités agricoles sont excessifs au regard de l'intérêt que
+représente pour la commune la modification ou la révision du plan.
 
 Le préfet peut, par arrêté motivé pris après avis de la commission de
 conciliation, constater l'existence d'une rupture géographique due à des

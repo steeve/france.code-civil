@@ -48,8 +48,3 @@ ainsi que les modalités des aides de l'Etat mentionnées ci-dessus ; il fixe
 au III ainsi que les conditions d'exécution, de suivi, de renouvellement et de
 contrôle des conventions mentionnées au I et les modalités de leur suspension ou
 de leur dénonciation.
-
-Un décret en Conseil d'Etat fixe les modalités selon lesquelles le conseil
-départemental de l'insertion par l'activité économique est informé des modalités
-de rémunérations des personnels des entreprises d'insertion ou des associations
-intermédiaires.

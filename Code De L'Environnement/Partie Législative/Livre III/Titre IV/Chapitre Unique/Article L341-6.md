@@ -2,9 +2,8 @@ Article L341-6
 ----
 Le monument naturel ou le site appartenant à toute autre personne que celles
 énumérées aux articles L. 341-4 et L. 341-5 est classé par arrêté du ministre
-chargé des sites, après avis de la commission départementale des sites,
-perspectives et paysages, s'il y a consentement du propriétaire. L'arrêté
-détermine les conditions du classement.
+chargé des sites s'il y a consentement du propriétaire. L'arrêté détermine les
+conditions du classement.
 
 A défaut du consentement du propriétaire, le classement est prononcé, après avis
 de la commission supérieure, par décret en Conseil d'Etat. Le classement peut

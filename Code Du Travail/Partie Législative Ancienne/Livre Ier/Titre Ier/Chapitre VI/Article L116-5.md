@@ -12,9 +12,10 @@ professionnels ou organismes de formation d'apprentis publics ou privés
 existants, qui ne satisferont pas aux règles définies ci-dessus mais aux
 qualifications exigées avant le 1er juillet 1972, seront admis à exercer leurs
 fonctions dans les centres de formation issus des cours professionnels. Ce droit
-leur sera conféré par le comité départemental de l'emploi, sous réserve, le cas
-échéant, d'avoir à accomplir un stage de recyclage et de perfectionnement
-pédagogique organisé sous le contrôle des ministères compétents.
+leur sera conféré par le comité de coordination régional de l'emploi et de la
+formation professionnelle, sous réserve, le cas échéant, d'avoir à accomplir un
+stage de recyclage et de perfectionnement pédagogique organisé sous le contrôle
+des ministères compétents.
 
 Des fonctionnaires et spécialement ceux des corps de l'enseignement public
 peuvent être détachés à temps plein dans des centres de formation d'apprentis.

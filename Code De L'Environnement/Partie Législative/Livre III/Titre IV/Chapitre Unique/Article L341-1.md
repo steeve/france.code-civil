@@ -5,11 +5,6 @@ sites dont la conservation ou la préservation présente, au point de vue
 artistique, historique, scientifique, légendaire ou pittoresque, un intérêt
 général.
 
-La commission départementale des sites, perspectives et paysages prend
-l'initiative des inscriptions qu'elle juge utiles et donne son avis sur les
-propositions d'inscription qui lui sont soumises, après en avoir informé le
-conseil municipal de la commune intéressée et avoir obtenu son avis.
-
 L'inscription sur la liste est prononcée par arrêté du ministre chargé des sites
 et, en Corse, par délibération de l'Assemblée de Corse après avis du
 représentant de l'Etat. Un décret en Conseil d'Etat fixe la procédure selon

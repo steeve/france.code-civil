@@ -7,5 +7,4 @@ locales en matière d'insertion par l'activité économique, dans des conditions
 déterminées par décret.
 
 Ce fonds est géré par le représentant de l'Etat dans le département. Celui-ci
-arrête le montant des aides accordées par le fonds, après avis du conseil
-départemental de l'insertion par l'activité économique.
+arrête le montant des aides accordées par le fonds.

@@ -8,7 +8,8 @@ la loi n° 86-2 du 3 janvier 1986 précitée, une commune ou, le cas échéant, 
 schéma d'aménagement.
 
 Ce schéma est approuvé, après enquête publique, par décret en Conseil d'Etat,
-après avis de la commission des sites.
+après avis de la commission départementale compétente en matière de nature, de
+paysages et de sites.
 
 Afin de réduire les nuisances ou dégradations mentionnées au premier alinéa et
 d'améliorer les conditions d'accès au domaine public maritime, il peut, à titre
