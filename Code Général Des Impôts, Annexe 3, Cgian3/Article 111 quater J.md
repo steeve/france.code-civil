@@ -1,10 +1,9 @@
 Article 111 quater J
 ----
-A l'importation en provenance des pays autres que ceux appartenant à la
-Communauté économique européenne, la redevance sanitaire d'abattage est perçue,
-dans les conditions prévues à l'article 111 quater K sur les viandes reprises au
-tableau ci-dessous, déclarées pour la mise à la consommation dans le territoire
-douanier :
+A l'importation, la redevance sanitaire d'abattage est perçue, dans les
+conditions prévues à l'article 111 quater K sur les viandes reprises au tableau
+ci-dessous, déclarées pour la mise à la consommation dans le territoire douanier
+:
 
 NUMÉROS du tarif des douanes : Ex 02-01
 
