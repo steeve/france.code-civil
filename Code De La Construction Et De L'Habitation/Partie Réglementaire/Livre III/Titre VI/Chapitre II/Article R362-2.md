@@ -26,6 +26,8 @@ logement sont mises en oeuvre dans le département ;
 g) Sur toute modification intervenant dans les compétences des organismes
 d'habitations à loyer modéré exerçant leur activité dans le département.
 
+h) Sur les programmes locaux de l'habitat et leur réalisation.
+
 Il exerce la compétence prévue à l'article L. 351-14 du code de la construction
 et de l'habitation en matière d'aide personnalisée au logement dans les
 conditions fixées à l'article R. 362-7. " La commission spécialisée des rapports
