@@ -1,7 +1,29 @@
 Article R143-9
 ----
-Le tribunal se réunit au siège de la direction régionale des affaires sanitaires
-et sociales ou des services régionaux de l'inspection du travail, de l'emploi et
-de la politique sociale agricoles. Toutefois, si le nombre des affaires le
-justifie, elle peut se réunir en tout autre lieu, notamment au chef-lieu de
-chacun des départements compris dans son ressort.
+Le secrétaire du tribunal convoque les parties par lettre recommandée avec
+demande d'avis de réception ou par la remise de l'acte au destinataire contre
+émargement ou récépissé, quinze jours au moins avant la date de l'audience ;
+copie de la convocation est envoyée le même jour par lettre simple. Toutefois,
+les organismes de sécurité sociale peuvent en toutes circonstances être
+convoqués par lettre simple.
+
+La convocation doit contenir les nom, prénoms, profession et adresse du
+réclamant, l'objet de la demande ainsi que la date et l'heure de l'audience.
+
+La convocation est réputée faite à personne lorsque l'avis de réception est
+signé par son destinataire ou son mandataire.
+
+En cas de retour au secrétariat du tribunal de la lettre recommandée qui n'a pu
+être remise à son destinataire, le tribunal ordonne :
+
+- soit une nouvelle convocation par lettre recommandée avec demande d'avis de
+réception lorsqu'il apparaît que la première lettre recommandée n'a pas été
+réclamée par son destinataire ;
+
+- soit une nouvelle convocation par acte d'huissier de justice lorsqu'il
+apparaît que le destinataire n'habite pas à l'adresse indiquée ou que le
+destinataire n'a pas retiré la deuxième convocation.
+
+Dans le cas où une audience n'a pu se tenir, la partie présente est convoquée
+verbalement à une nouvelle audience avec émargement au dossier et remise, par le
+greffe, d'un bulletin mentionnant la date et l'heure de l'audience.

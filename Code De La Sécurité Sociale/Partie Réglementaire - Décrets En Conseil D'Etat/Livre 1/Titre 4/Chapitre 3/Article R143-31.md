@@ -6,7 +6,7 @@ délai de forclusion avec indication de l'organisme compétent pour recevoir la
 requête.
 
 Elle ne peut être opposée lorsque la réclamation ou l'appel a été introduit dans
-les délais prévus respectivement aux articles R. 143-6 et R. 143-23, soit auprès
+les délais prévus respectivement aux articles R. 143-7 et R. 143-23, soit auprès
 d'un service ou d'un organisme de sécurité sociale ou de mutualité sociale
 agricole, soit auprès d'une juridiction du contentieux général de la sécurité
 sociale.

@@ -12,8 +12,8 @@ interministériel des prestations sanitaires ;
 
 2° Pour répondre à une convocation du contrôle médical ;
 
-3° Pour répondre à la convocation de la commission régionale d'invalidité
-mentionnée à l'article R. 143-1 ;
+3° Pour répondre à la convocation d'un médecin expert désigné par un tribunal du
+contentieux de l'incapacité mentionnée à l'article R. 143-1 ;
 
 4° Pour se rendre à la consultation d'un expert désigné en application des
 articles R. 141-1 et R. 143-34.

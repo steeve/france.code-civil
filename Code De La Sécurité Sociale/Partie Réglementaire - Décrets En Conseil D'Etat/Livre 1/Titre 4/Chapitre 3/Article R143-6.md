@@ -1,32 +1,5 @@
 Article R143-6
 ----
-La réclamation contre la décision de la caisse doit être présentée dans le délai
-de deux mois à compter de la date de la notification de cette décision.
-Toutefois, en cas de recours amiable, ce délai est interrompu. Il court à
-nouveau à compter soit du jour de la notification au requérant de la décision de
-la commission de recours amiable, soit à l'expiration du délai d'un mois prévu à
-l'article R. 143-1. La réclamation est faite par lettre recommandée avec demande
-d'avis de réception adressée au secrétariat du tribunal. Cette lettre précise le
-nom du médecin désigné par le requérant pour siéger à le tribunal.
-
-La décision de la caisse est exécutoire par provision, nonobstant la réclamation
-formée à son encontre.
-
-La réclamation doit mentionner les nom, prénoms, profession et adresse du
-requérant et être accompagnée d'une copie de la décision de la caisse dont la
-décision est contestée.
-
-Dans les huit jours suivant la réception de la réclamation, le secrétariat du
-tribunal en adresse copie à la caisse intéressée et l'invite à présenter ses
-observations écrites dans un délai de dix jours ; il invite les autres
-organismes intéressés à faire connaître le médecin qu'ils désignent pour siéger
-au tribunal. Dans le délai de dix jours prévu ci-dessus, la caisse est tenue de
-transmettre au secrétariat le dossier médical en lui faisant connaître le
-médecin qu'elle désigne pour siéger au tribunal.
-
-Dans les cas mentionnés au troisième alinéa de l'article R. 143-1, le secrétaire
-du tribunal invite la caisse primaire d'assurance maladie à présenter ses
-observations écrites dans un délai de dix jours.
-
-Les observations de la caisse sont rédigées en double exemplaire, dont l'un est
-remis ou adressé à l'assuré et l'autre au secrétariat de la juridiction.
+La procédure devant le tribunal du contentieux de l'incapacité est régie par les
+dispositions du livre Ier du nouveau code de procédure civile sous réserve des
+dispositions de la présente sous-section.

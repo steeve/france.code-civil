@@ -1,41 +1,20 @@
 Article R143-4
 ----
-Les tribunaux du contentieux de l'incapacité sont présidés, suivant le cas, par
-le directeur régional des affaires sanitaires et sociales ou par le chef du
-service régional de l'inspection du travail, de l'emploi et de la politique
-sociale agricoles.
+Dans les quinze jours suivant leur désignation, les présidents des tribunaux du
+contentieux de l'incapacité qui ne sont pas des magistrats honoraires, les
+assesseurs titulaires et les assesseurs suppléants qui n'ont pas encore exercé
+de fonctions judiciaires sont invités, par le procureur général près la cour
+d'appel dans le ressort de laquelle le tribunal du contentieux de l'incapacité a
+son siège, à se présenter devant la cour pour prêter serment.
 
-Le directeur régional des affaires sanitaires et sociales ou le chef du service
-régional de l'inspection du travail, de l'emploi et de la politique sociale
-agricoles peuvent se faire remplacer à cette présidence par un fonctionnaire, en
-activité ou honoraire, de la direction régionale des affaires sanitaires et
-sociales ou du service régional de l'inspection du travail, de l'emploi et de la
-politique sociale agricoles, selon le cas.
+Le premier président de la cour d'appel ou le magistrat délégué par lui,
+siégeant en audience publique et en présence du procureur général, reçoit les
+prestations de serment.
 
-Les tribunaux du contentieux de l'incapacité comprennent en outre :
+Au cours de leur réception, les présidents des tribunaux du contentieux de
+l'incapacité qui ne sont pas des magistrats honoraires, les assesseurs
+titulaires ou suppléants prêtent individuellement le serment suivant : "Je jure
+de remplir mes devoirs avec zèle et intégrité et de garder le secret des
+délibérations".
 
-1°) un médecin expert désigné par le directeur régional des affaires sanitaires
-et sociales ou par le chef du service régional de l'inspection du travail, de
-l'emploi et de la politique sociale agricoles parmi les médecins inscrits sous
-la rubrique Experts spécialisés en matière de sécurité sociale, sur les listes
-mentionnées à l'article R. 141-1 ;
-
-2°) un médecin désigné par le requérant et dans le cas où celui-ci n'est pas la
-personne dont l'état est contesté, un médecin désigné par l'intéressé ;
-
-3°) un médecin désigné par la caisse ou par l'organisme dont la décision est
-contestée ou, en matière d'assurance maladie, invalidité et maternité des
-exploitants agricoles, par la caisse de mutualité sociale agricole
-territorialement compétente ;
-
-4°) un représentant du directeur régional du travail et de l'emploi dans la
-circonscription duquel se trouve le siège du tribunal ;
-
-5°) un assesseur représentant les employeurs ou les travailleurs indépendants et
-un assesseur représentant les travailleurs salariés choisis sur la liste des
-titulaires et des suppléants établie, sur proposition des organisations
-professionnelles, par le directeur régional des affaires sanitaires et sociales
-pour les affaires intéressant les professions non agricoles et par le chef du
-service régional de l'inspection du travail, de l'emploi et de la politique
-sociale agricoles pour l'application des législations de mutualité sociale
-agricole.
+Il est dressé procès-verbal de la réception du serment.

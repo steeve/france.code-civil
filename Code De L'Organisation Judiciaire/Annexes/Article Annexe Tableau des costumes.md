@@ -109,6 +109,15 @@ Comme ci-dessus.
 
 Comme ci-dessus.
 
+Magistrats du tribunal supérieur d'appel et membres du parquet près ledit
+tribunal
+
+Président du tribunal supérieur d'appel et procureur de la République près cette
+juridiction, même costume que celui, respectivement, des conseillers de la cour
+d'appel et des substituts généraux. Vice-présidents, juges au tribunal supérieur
+d'appel et substituts du procureur de la République près cette juridiction, même
+costume que celui des magistrats du tribunal de grande instance et du tribunal
+d'instance et des membres du parquet près le tribunal de grande instance.
 Magistrats du tribunal de grande instance et du tribunal d'instance et membres
 du parquet près le tribunal de grande instance
 
@@ -207,26 +216,37 @@ Noire avec un galon d'argent (deux galons pour le président).
 
 Blanche plissée.
 
+Membre des tribunaux des juridictions de sécurité sociale (Décret n° 2003-614 du
+3 juillet 2003, art. 16)
 
-Membre des commissions de première instance de sécurité sociale
+Les assesseurs des juridictions de sécurité sociale portent, soit à l'audience,
+soit dans les cérémonies publiques, suspendue à un ruban, en sautoir, une
+médaille signe de leurs fonctions. Cette médaille est en métal vert et noir.
+D'un module de 45 mm sur 65 mm, elle porte à l'avers la mention République
+française » et la mention du nom de la juridiction à laquelle ils appartiennent
+entourant le motif d'une balance. La médaille est suspendue à un ruban d'une
+largeur de 35 mm, divisé dans le sens vertical en deux parties égales, noire et
+verte.
 
-Insigne métallique, dont les caractéristiques sont fixées par le garde des
-sceaux, ministre de la justice, et le ministre chargé de la sécurité sociale.
+Les présidents de tribunal du contentieux de l'incapacité, lorsqu'ils ne sont
+pas magistrats, portent cette médaille suspendue à un ruban d'une largeur de 35
+mm de couleur verte.
 
-Membres des conseils de prud'hommes (Art. R. 514-3 du code du travail)
+Membres des conseils de prud'hommes (Art. R. 512-12 du code du travail) (Ancien
+art. R. 514-3 du code du travail)
 
-"Les membres du conseil de prud'hommes portent, soit à l'audience, soit dans les
-cérémonies publiques, suspendue à un ruban, en sautoir, une médaille signe de
-leurs fonctions. Cette médaille est en vermeil pour le président du conseil de
+(Décret n° 79-1022 du 23 novembre 1979, art. 1 er et 11.) - Les membres du
+conseil de prud'hommes portent, soit à l'audience, soit dans les cérémonies
+publiques, suspendue à un ruban, en sautoir, une médaille signe de leurs
+fonctions. Cette médaille est en bronze doré pour le président du conseil de
 prud'hommes et, à l'audience, pour le président du bureau de jugement ; elle est
-en argente pour les autres conseillers. D'un module de 65 millimètres, elle
-porte à l'avers une tête symbolisant la République, placée de profil, tournée à
-droite et entourée de la mention "République française".
+en bronze argenté pour les autres conseillers. D'un module de 65 mm, elle porte
+à l'avers la mention "République française" et une tête symbolisant la
+République, placée de profil, tournée à droite.
 
-Au moyen d'une attache d'une largeur de 75 millimètres portant des rameaux de
-laurier et d'olivier, la médaille est suspendue à un ruban d'une largeur de 75
-millimètres, divisé dans le sens vertical en deux parties égales, rouge et
-bleue."
+Au moyen d'une attache d'une largeur de 75 mm portant un rameau d'olivier, la
+médaille est suspendue à un ruban d'une largeur de 75 mm, divisé dans le sens
+vertical en deux parties égales, rouge et bleue.
 
 Greffiers en chef, greffiers et secrétaires-greffiers
 

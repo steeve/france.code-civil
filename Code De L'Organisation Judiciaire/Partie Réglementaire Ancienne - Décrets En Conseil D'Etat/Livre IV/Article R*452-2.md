@@ -1,5 +1,6 @@
 Article R*452-2
 ----
-Les règles relatives à la compétence, à l'organisation et au fonctionnement de
-la commission nationale technique de sécurité sociale sont fixées par les
-articles 38 à 40 et 50 du décret n° 58-1291 du 22 décembre 1958.
+Les règles concernant la compétence, l'organisation et le fonctionnement de la
+Cour nationale de l'incapacité et de la tarification de l'assurance des
+accidents du travail sont fixées par les articles R. 143-15 à R. 143-20 du code
+de la sécurité sociale.

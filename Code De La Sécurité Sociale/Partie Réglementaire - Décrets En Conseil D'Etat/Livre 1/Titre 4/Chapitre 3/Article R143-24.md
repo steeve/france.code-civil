@@ -17,5 +17,3 @@ secrétariat général de la Cour nationale de l'incapacité et de la tarificati
 de l'assurance des accidents du travail l'intégralité du dossier de l'affaire
 avec copie du jugement, de la déclaration de l'appelant et de la lettre avisant
 la partie adverse.
-
-Les parties sont dispensées du ministère d'avoué ou d'avocat.

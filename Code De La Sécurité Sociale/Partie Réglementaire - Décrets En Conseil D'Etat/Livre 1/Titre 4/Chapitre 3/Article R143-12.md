@@ -1,5 +1,4 @@
 Article R143-12
 ----
-Si le médecin désigné par le requérant pour siéger au tribunal n'a pas assisté à
-la séance, le secrétariat adresse à ce praticien, dans le même délai, une copie
-de la décision prise.
+Le tribunal tranche les difficultés relatives à la communication des pièces et
+procède aux jonctions et disjonctions d'instance.

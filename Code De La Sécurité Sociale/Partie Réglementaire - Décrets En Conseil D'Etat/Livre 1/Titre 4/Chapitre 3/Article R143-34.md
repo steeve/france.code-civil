@@ -1,13 +1,12 @@
 Article R143-34
 ----
-Dans le cas où une expertise ou un examen complémentaire est ordonné par les
-tribunaux du contentieux de l'incapacité ou par la Cour nationale de
-l'incapacité et de la tarification de l'assurance des accidents du travail :
+Dans le cas où une consultation ou une expertise est ordonnée par les tribunaux
+du contentieux de l'incapacité ou par la Cour nationale de l'incapacité et de la
+tarification de l'assurance des accidents du travail :
 
-1°) les frais de déplacement du malade ou de la victime, ainsi que les
-honoraires et les frais de déplacement du médecin expert, sont réglés dans les
-conditions prévues respectivement au premier et au deuxième alinéa de l'article
-R. 141-7 ;
+1°) Les frais de consultation et d'expertise sont réglés, sans consignation
+préalable de provision, dans les conditions prévues aux articles L. 144-2 et R.
+144-7-3 ;
 
 2°) les fonctions d'expert ne peuvent être remplies par le médecin qui a soigné
 le malade ou la victime, un médecin attaché à l'entreprise, un médecin

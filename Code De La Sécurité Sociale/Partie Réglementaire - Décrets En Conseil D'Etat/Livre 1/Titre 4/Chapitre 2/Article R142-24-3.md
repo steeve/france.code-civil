@@ -25,8 +25,3 @@ Les articles 11, 12 et 13 du décret du 31 décembre 1974 précité ne sont pas
 applicables. Lors de l'examen annuel prévu à l'article 15 dudit décret, les
 autorités sur proposition desquelles a lieu la désignation sont consultées ; en
 cas d'opposition de l'une d'elles, l'expert n'est pas réinscrit.
-
-Les honoraires dus à l'expert au titre de l'expertise effectuée en application
-du 2° du deuxième alinéa de l'article R. 142-22 ainsi que les frais de
-déplacement sont réglés d'après le tarif fixé par l'arrêté mentionné à l'article
-R. 141-7.

@@ -1,13 +1,13 @@
 Article R143-21
 ----
-Le recours de l'employeur mentionné au premier alinéa de l'article L. 242-5, à
-l'article L. 242-7 et au cinquième alinéa de l'article L. 452-2, est introduit
+Le recours de l'employeur mentionné au deuxième alinéa de l'article L. 242-5, à
+l'article L. 242-7 et au sixième alinéa de l'article L. 452-2, est introduit
 dans le délai de deux mois à compter de la date de réception de la notification
 par la caisse régionale d'assurance maladie de sa décision concernant les taux
 d'accident du travail, les ristournes, les cotisations supplémentaires et la
 contribution prévue à l'article L. 437-1.
 
-Le recours du directeur régional mentionné au premier alinéa de l'article L.
+Le recours du directeur régional mentionné au deuxième alinéa de l'article L.
 242-5 et à l'article L. 242-7 est introduit dans le même délai à compter du jour
 de la décision.
 

@@ -1,6 +1,9 @@
 Article R143-19
 ----
-Le ministre chargé de la sécurité sociale ou son représentant, ainsi que le
-ministre chargé de l'agriculture ou son représentant, peuvent présenter, devant
-la Cour nationale de l'incapacité et de la tarification de l'assurance des
-accidents du travail, des observations écrites ou orales.
+Le président de la Cour nationale de l'incapacité et de la tarification de
+l'assurance des accidents du travail répartit les affaires entre les sections.
+
+Il peut, pour l'examen d'une affaire, réunir plusieurs sections sous sa
+présidence.
+
+Il préside une des sections de la cour nationale quand il l'estime convenable.

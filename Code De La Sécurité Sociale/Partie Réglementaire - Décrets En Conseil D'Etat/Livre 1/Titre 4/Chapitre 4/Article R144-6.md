@@ -18,14 +18,14 @@ succombe, soit en première instance, soit en appel, est condamné au paiement
 d'une amende au taux prévu à l'article 559 du nouveau code de procédure civile
 et, le cas échéant, au règlement des frais de la procédure, et notamment des
 frais résultant des enquêtes, consultations et expertises ordonnées en
-application des articles R. 142-22, R. 142-24, R. 143-10 et R. 143-28. Les frais
+application des articles R. 142-22, R. 142-24, R. 143-13 et R. 143-27. Les frais
 provoqués par la faute d'une partie peuvent être dans tous les cas mis à sa
 charge.
 
 Toutefois, à l'occasion des litiges qui portent sur le recouvrement de
 cotisations ou de majorations de retard et lorsque la procédure est jugée
 dilatoire ou abusive, l'amende est fixée à 6 p. 100 des sommes dues, en vertu du
-jugement rendu, avec minimum de 1000 F par instance.
+jugement rendu, avec minimum de 150 euros par instance.
 
 Les dispositions de l'alinéa précédent sont applicables aux procédures
 mentionnées aux articles R. 133-3, R. 243-6 à R. 243-22, R. 243-24, R. 243-25 et
