@@ -38,28 +38,23 @@ l'exploitation des navires éligibles est déterminé par application à chacun 
 ces navires, par jour et par tranche de jauge nette de 100 unités du système de
 jaugeage universel (UMS), du barème suivant :
 
-TONNAGE (en unités du système de jaugeage universel)
+TONNAGE (en unités du système de jaugeage universel) : jusqu'à 1 000
 
-JUSQU'A 1 000
+Montant (en euros) : 0,93 euros
 
-0,93 euros
+TONNAGE (en unités du système de jaugeage universel) : de 1 000 à 10 000
 
+Montant (en euros) : 0,71 euros
 
-DE 1 000 à 10 000
+TONNAGE (en unités du système de jaugeage universel) : de 10 000 à 25 000
 
-0,71 euros
+Montant (en euros) : 0,47 euros
 
+TONNAGE (en unités du système de jaugeage universel) : plus de 25 000
 
-De 10 000 à 25 000
+Montant (en euros) : 0,24 euros
 
-0,47 euros
-
-
-PLUS DE 25 000
-
-0,24 euros
-
-Pour l'application de l'alinéa précédent, la jauge nette de chaque navire est
+Pour l'application du premier alinéa, la jauge nette de chaque navire est
 arrondie à la centaine supérieure.
 
 Le barème s'applique également pendant les périodes d'indisponibilité des
@@ -143,6 +138,6 @@ En cas de réalisation de l'un des événements mentionnés au 2 de l'article 22
 avant le terme de la période décennale prévue au III, à l'exception des apports
 et des opérations de fusion et de scission placées sous le régime prévu à
 l'article 210 A, le résultat de l'exercice en cours à la date de cet événement
-est majoré de la somme définie à l'alinéa précédent.
+est majoré de la somme définie au premier alinéa.
 
 Un décret fixe les modalités d'option et les obligations déclaratives.
