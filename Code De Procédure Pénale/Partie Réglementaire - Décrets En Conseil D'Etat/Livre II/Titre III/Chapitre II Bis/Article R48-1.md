@@ -97,3 +97,6 @@ du chapitre III du titre II du livre II du code rural, et relatifs à
 l'application des articles L. 211-14 et L. 211-16 du code rural prévoyant la
 déclaration en mairie, la vaccination, la stérilisation, l'assurance et les
 conditions de circulation de certains chiens.
+
+5° Contraventions réprimées par le code des postes et télécommunications prévues
+par les articles R. 10-1, R. 10-2, R. 10-4 et R. 10-9.
