@@ -1,5 +1,16 @@
 Article R5212-4
 ----
-Le distributeur perçoit la taxe en même temps que les sommes qui lui sont dues
-au titre de la fourniture d'énergie électrique. Le montant des taxes apparaît
-distinctement sur les factures.
+Pour un consommateur final n'ayant pas conclu un contrat d'accès au réseau, la
+taxe est perçue par le fournisseur en même temps que les sommes dues pour
+l'acheminement et la fourniture d'électricité.
+
+Pour un consommateur final éligible ayant conclu lui-même un contrat d'accès au
+réseau, la taxe est perçue par le gestionnaire de réseau en même temps que les
+sommes dues au titre de l'acheminement d'électricité et par le fournisseur en
+même temps que les sommes dues pour la fourniture d'électricité.
+
+Le montant des taxes apparaît distinctement sur les factures.
+
+En cas de changement de taux de la taxe au cours d'une période de facturation,
+une répartition proportionnelle au nombre de jours de chaque période est
+effectuée.
