@@ -18,8 +18,9 @@ du ministre chargé du logement ;
 3° L'acquisition de logements faisant l'objet d'un contrat régi par les
 dispositions de la loi n° 84-595 du 12 juillet 1984 définissant la
 location-accession à la propriété immobilière, prévoyant un paiement fractionné
-du prix et dont la durée n'excède pas huit ans. Dans ce cas, l'avance est versée
-à la date de la levée d'option.
+du prix et dont la durée n'excède pas huit ans lorsque cette acquisition porte
+sur des opérations mentionnées au 1° ou au 2° du présent article. Dans ce cas,
+l'avance est versée à la date de la levée d'option.
 
 Ces opérations comprennent la construction ou l'acquisition simultanée des
 dépendances de ces logements, dans des limites fixées par arrêté du ministre
