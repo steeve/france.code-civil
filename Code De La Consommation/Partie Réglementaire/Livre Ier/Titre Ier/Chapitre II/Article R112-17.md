@@ -17,7 +17,7 @@ caractériser la denrée alimentaire et la distinguer des produits avec lesquels
 elle pourrait être confondue en raison de sa dénomination ou de son aspect.
 
 La mention prévue à l'alinéa précédent figure soit dans la dénomination de vente
-de la denrée alimentaire, soit à proximité immédiate de cette dénonciation, soit
+de la denrée alimentaire, soit à proximité immédiate de cette dénomination, soit
 dans la liste des ingrédients.
 
 La quantité mentionnée, exprimée en pourcentage, correspond à la quantité du ou
@@ -25,3 +25,25 @@ des ingrédients au moment de leur mise en oeuvre. Des arrêtés du ministre cha
 de la consommation, du ministre chargé de l'agriculture et des autres ministres
 intéressés peuvent prévoir des dérogations à ce principe pour certaines denrées
 alimentaires.
+
+Lorsqu'une denrée alimentaire a subi une perte d'humidité à la suite d'un
+traitement thermique ou autre, cette quantité correspond au rapport exprimé en
+pourcentage entre la quantité du ou des ingrédients mis en oeuvre et celle du
+produit fini.
+
+Toutefois, lorsque la quantité d'un ingrédient ou la quantité totale de tous les
+ingrédients exprimée dans l'étiquetage dépasse 100 % de la quantité totale du
+produit fini après perte d'humidité, le pourcentage est remplacé par
+l'indication du poids du ou des ingrédients utilisés pour la préparation de 100
+grammes de produit fini.
+
+La quantité des ingrédients volatils est indiquée en fonction de leur importance
+pondérale dans le produit fini.
+
+La quantité des ingrédients utilisés sous une forme concentrée ou déshydratée et
+reconstitués pendant la fabrication peut être indiquée en fonction de leur
+importance pondérale avant la concentration ou la déshydratation.
+
+Lorsqu'il s'agit d'aliments concentrés ou déshydratés auxquels il faut ajouter
+de l'eau, la quantité des ingrédients peut s'exprimer en fonction de leur
+importance pondérale dans le produit reconstitué.

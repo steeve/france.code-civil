@@ -5,8 +5,8 @@ antérieur à la vente au consommateur final ou lorsqu'elles sont destinées à 
 livrées aux restaurants, hôpitaux, cantines et autres collectivités similaires,
 ci-après dénommés "collectivités", pour y être préparées, transformées,
 fractionnées ou débitées, les mentions prévues à l'article R. 112-9, à
-l'exception de l'indication du lot de fabrication, et celles prévues à l'article
-R. 112-9-1 peuvent ne figurer que sur les fiches, bons de livraison ou documents
+l'exception de l'indication du lot, et celles prévues à l'article R. 112-9-1
+peuvent ne figurer que sur les fiches, bons de livraison ou documents
 commerciaux lorsque ceux-ci accompagnent les denrées alimentaires auxquelles ils
 se rapportent ou lorsqu'ils ont été envoyés avant la livraison ou en même temps
 qu'elle. Ces documents doivent être détenus sur les lieux d'utilisation ou de
