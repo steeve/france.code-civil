@@ -1,7 +1,10 @@
 Article L346
 ----
 Une déclaration de candidature est obligatoire pour chaque liste de candidats
-avant chaque tour de scrutin.
+avant chaque tour de scrutin. Sur chacune des listes, l'écart entre le nombre
+des candidats de chaque sexe ne peut être supérieur à un. Au sein de chaque
+groupe entier de six candidats dans l'ordre de présentation de la liste doit
+figurer un nombre égal de candidats de chaque sexe.
 
 [Dispositions déclarées non conformes à la Constitution par décision du Conseil
 constitutionnel n° 98-407 DC du 14 janvier 1999.]

@@ -1,8 +1,10 @@
 Article L210-1
 ----
-Tout candidat à l'élection au conseil général doit obligatoirement, avant le
-premier tour, souscrire une déclaration de candidature dans les conditions
-prévues par un décret en Conseil d'Etat.
+Tout candidat à l'élection au conseil général doit obligatoirement, avant chaque
+tour de scrutin, souscrire une déclaration de candidature dans les conditions
+prévues par un décret en Conseil d'Etat. Cette déclaration, revêtue de la
+signature du candidat, énonce les nom, prénoms, sexe, date et lieu de naissance,
+domicile et profession.
 
 A cette déclaration sont jointes les pièces propres à prouver que le candidat
 répond aux conditions d'éligibilité prévues par l'article L. 194.

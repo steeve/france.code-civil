@@ -2,7 +2,9 @@ Article L300
 ----
 Dans les départements où les élections ont lieu à la représentation
 proportionnelle, la liste des candidats doit comporter autant de noms qu'il y a
-de sièges à pourvoir.
+de sièges à pourvoir. Sur chacune des listes, l'écart entre le nombre des
+candidats de chaque sexe ne peut être supérieur à un. Chaque liste est composée
+alternativement d'un candidat de chaque sexe.
 
 Outre les renseignements mentionnés à l'article L. 298, la déclaration doit
 indiquer le titre de la liste et l'ordre de présentation des candidats.

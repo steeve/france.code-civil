@@ -14,7 +14,8 @@ candidats qui y figurent. La liste déposée indique expressément.
 
 1° Le titre de la liste présentée;
 
-2° Les nom, prénoms, date et lieu de naissance de chacun des candidats.
+2° Les nom, prénoms, sexe, date et lieu de naissance, domicile et profession de
+chacun des candidats.
 
 Pour chaque tour de scrutin, cette déclaration comporte la signature de chaque
 candidat, sauf le droit pour tout candidat de compléter la déclaration

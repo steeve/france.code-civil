@@ -3,7 +3,11 @@ Article L331-2
 Nul ne peut être candidat dans plus d'une circonscription électorale, ni sur
 plus d'une liste.
 
-Une déclaration de candidature est obligatoire pour chaque tour de scrutin.
+Une déclaration de candidature est obligatoire pour chaque tour de scrutin. Sur
+chacune des listes, l'écart entre le nombre des candidats de chaque sexe ne peut
+être supérieur à un. Au sein de chaque groupe entier de six candidats dans
+l'ordre de présentation de la liste doit figurer un nombre égal de candidats de
+chaque sexe.
 
 Seules peuvent se présenter au second tour les listes ayant obtenu au premier
 tour un nombre de suffrages au moins égal à dix pour cent du total des suffrages
