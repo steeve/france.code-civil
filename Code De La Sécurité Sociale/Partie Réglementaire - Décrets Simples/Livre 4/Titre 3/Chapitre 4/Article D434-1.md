@@ -1,34 +1,44 @@
 Article D434-1
 ----
-Le montant de l'indemnité en capital [*versé à la victime d'un accident du
-travail*] mentionnée à l'article L. 434-1 est fixé selon le barème suivant :
+Le montant de l'indemnité en capital mentionnée à l'article L. 434-1 est fixé
+selon le barème suivant :
 
-:-------------------:-------------:
+TAUX D'INCAPACITÉ PERMANENTE (en pourcentage)
 
-: Taux d'incapacité : Montant de :
+MONTANT DE L'INDEMNITÉ (en euros)
 
-: permanente : l'indemnité :
+1
 
-: (en pourcentage) : (en francs) :
+342,94
 
-:-------------------:-------------:
+2
 
-: 1 : 2001 :
+557,34
 
-: 2 : 3252 :
+3
 
-: 3 : 4752 :
+814,41
 
-: 4 : 7500 :
+4
 
-: 5 : 9501 :
+1 285,37
 
-: 6 : 11751 :
+5
 
-: 7 : 14250 :
+1 628,31
 
-: 8 : 17001 :
+6
 
-: 9 : 20001 :
+2 013,92
 
-:-------------------:-------------:
+7
+
+2 442,21
+
+8
+
+2 913,69
+
+9
+
+3 427,84
