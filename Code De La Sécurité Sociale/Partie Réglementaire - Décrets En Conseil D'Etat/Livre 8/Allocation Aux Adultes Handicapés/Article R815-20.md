@@ -2,7 +2,7 @@ Article R815-20
 ----
 L'organisme ou le service qui a été chargé, dans les conditions des articles
 précédents, de la liquidation de l'allocation supplémentaire, reste compétent
-pour l'application des articles L. 815-1 et suivants en ce qui concerne
+pour l'application des articles L. 815-2 et suivants en ce qui concerne
 l'intéressé, quelles que soient les modifications survenues dans le montant ou
 le nombre des avantages de vieillesse dont il bénéficie.
 
