@@ -21,7 +21,10 @@ qualité de la victime est apparente ou connue de l'auteur ;
 
 5° Sur un témoin, une victime ou une partie civile, soit pour l'empêcher de
 dénoncer les faits, de porter plainte ou de déposer en justice, soit en raison
-de sa dénonciation, de sa plainte ou de sa déposition.
+de sa dénonciation, de sa plainte ou de sa déposition ;
+
+6° A raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de
+la victime à une ethnie, une nation, une race ou une religion déterminée.
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté
 sont applicables aux infractions prévues par le présent article. Toutefois,

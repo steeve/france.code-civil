@@ -1,33 +1,36 @@
 Article L235-1
 ----
-Les officiers ou agents de police judiciaire font procéder sur tout conducteur
-d'un véhicule impliqué dans un accident mortel de la circulation à des épreuves
-de dépistage et, lorsqu'elles se révèlent positives ou sont impossibles, ou
-lorsque le conducteur refuse de les subir, à des analyses et examens médicaux,
-cliniques et biologiques, en vue d'établir s'il conduisait sous l'influence de
-substances ou plantes classées comme stupéfiants.
+I. - Toute personne qui conduit un véhicule ou qui accompagne un élève
+conducteur alors qu'il résulte d'une analyse sanguine qu'elle a fait usage de
+substances ou plantes classées comme stupéfiants est punie de deux ans
+d'emprisonnement et de 4 500 Euros d'amende.
 
-Les officiers de police judiciaire peuvent également faire procéder sur tout
-conducteur d'un véhicule impliqué dans un accident corporel de la circulation à
-des épreuves de dépistage et, lorsqu'elles se révèlent positives ou sont
-impossibles ou lorsque le conducteur refuse de les subir, à des analyses ou
-examens médicaux, cliniques et biologiques, en vue d'établir s'il conduisait
-sous l'influence de substances ou plantes classées comme stupéfiants.
+Si la personne se trouvait également sous l'empire d'un état alcoolique
+caractérisé par une concentration d'alcool dans le sang ou dans l'air expiré
+égale ou supérieure aux taux fixés par les dispositions législatives ou
+réglementaires du présent code, les peines sont portées à trois ans
+d'emprisonnement et 9 000 Euros d'amende.
 
-Les résultats de ce ces analyses sont transmis au procureur de la République du
-lieu de l'accident.
+II. - Toute personne coupable des délits prévus par le présent article encourt
+également les peines complémentaires suivantes :
 
-Le fait de refuser de se soumettre aux analyses et examens médicaux, cliniques
-et biologiques prévus par le présent article est puni de deux ans
-d'emprisonnement et de 4 500 euros d'amende.
+1° La suspension pour une durée de trois ans au plus du permis de conduire ;
+cette suspension peut être limitée à la conduite en dehors de l'activité
+professionnelle ; elle ne peut être assortie du sursis, même partiellement ;
 
-Toute personne coupable de ce délit encourt également la peine complémentaire de
-suspension, pour une durée de trois ans au plus, du permis de conduire, cette
-suspension pouvant être limitée à la conduite en dehors de l'activité
-professionnelle.
+2° L'annulation du permis de conduire avec interdiction de solliciter la
+délivrance d'un nouveau permis pendant trois ans au plus ;
 
-Ce délit donne lieu de plein droit à la réduction de la moitié du nombre de
-points initial du permis de conduire.
+3° La peine de travail d'intérêt général selon les modalités prévues à l'article
+131-8 du code pénal et selon les conditions prévues aux articles 131-22 à 131-24
+du même code et à l'article 20-5 de l'ordonnance n° 45-174 du 2 février 1945
+relative à l'enfance délinquante ;
 
-Un décret en Conseil d'Etat détermine les conditions d'application du présent
-article.
+4° La peine de jours-amende dans les conditions fixées aux articles 131-5 et
+131-25 du code pénal.
+
+III. - L'immobilisation du véhicule peut être prescrite dans les conditions
+prévues aux articles L. 325-1 à L. 325-3.
+
+IV. - Les délits prévus par le présent article donnent lieu de plein droit à la
+réduction de la moitié du nombre de points initial du permis de conduire.
