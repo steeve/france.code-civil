@@ -37,8 +37,8 @@ des emprunts contractés dans les conditions prévues au II du même article pou
 l'acquisition d'une résidence secondaire ;
 
 des frais de voirie, réseaux et distribution imposés par les collectivités
-locales ou leurs groupements dans le cadre du plan d'occupation des sols, en ce
-qui concerne les terrains à bâtir ;
+locales ou leurs groupements dans le cadre du plan d'occupation des sols ou du
+plan local d'urbanisme, en ce qui concerne les terrains à bâtir ;
 
 du montant des honoraires ayant rémunéré les consultations fiscales demandées
 par les assujettis à l'occasion d'une cession donnant lieu à l'imposition
