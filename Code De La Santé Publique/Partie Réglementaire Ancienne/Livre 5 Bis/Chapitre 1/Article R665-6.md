@@ -1,0 +1,14 @@
+Article R665-6
+----
+Pour l'application des dispositions du présent livre, les dispositifs médicaux
+autres que les dispositifs implantables actifs sont répartis entre quatre
+classes dénommées classe I, classe II a, classe II b et classe III.
+
+L'appartenance d'un dispositif à l'une ou l'autre de ces classes est déterminée
+conformément aux règles de classification définies par l'annexe IX du présent
+livre.
+
+En cas de litige sur l'application des règles de classification entre le
+fabricant d'un dispositif et un organisme habilité intervenant dans les
+procédures de certification de conformité prévues au présent livre, le ministre
+chargé de la santé détermine la classe dont relève le dispositif en cause.
