@@ -20,17 +20,17 @@ un rapport d'ensemble écrit sur l'activité de l'entreprise, le chiffre
 d'affaires, les bénéfices ou pertes constatés, les résultats globaux de la
 production en valeur et en volume, les transferts de capitaux importants entre
 la société mère et les filiales, la situation de la sous-traitance,
-l'affectation des bénéfices réalisés, les aides ou avantages financiers
-notamment les aides à l'emploi, en particulier celles créées par l'article 3 de
-la loi n° 98-461 du 13 juin 1998 d'orientation et d'incitation relative à la
-réduction du temps de travail et l'article 19 de la loi n° 2000-37 du 19 janvier
-2000 relative à la réduction négociée du temps de travail consentis à
-l'entreprise par l'Etat, les régions et les collectivités locales et leur
-emploi, les investissements, l'évolution de la structure et du montant des
-salaires. Dans les entreprises d'au moins trois cents salariés [*effectif*], ce
-rapport retrace en outre l'évolution de la productivité et le taux d'utilisation
-des capacités de production, quand ces éléments sont mesurables dans
-l'entreprise.
+l'affectation des bénéfices réalisés, les aides européennes et les aides ou
+avantages financiers notamment les aides à l'emploi, en particulier celles
+créées par l'article 3 de la loi n° 98-461 du 13 juin 1998 d'orientation et
+d'incitation relative à la réduction du temps de travail et l'article 19 de la
+loi n° 2000-37 du 19 janvier 2000 relative à la réduction négociée du temps de
+travail consentis à l'entreprise par l'Etat, les régions et les collectivités
+locales et leur emploi, les investissements, l'évolution de la structure et du
+montant des salaires. Dans les entreprises d'au moins trois cents salariés
+[*effectif*], ce rapport retrace en outre l'évolution de la productivité et le
+taux d'utilisation des capacités de production, quand ces éléments sont
+mesurables dans l'entreprise.
 
 Le chef d'entreprise soumet, à cette occasion, un état faisant ressortir
 l'évolution de la rémunération moyenne horaire et mensuelle par sexe, par
@@ -89,8 +89,8 @@ dues aux organismes assureurs mentionnés à l'article premier de la loi n°
 89-1009 du 31 décembre 1989 renforçant les garanties offertes aux personnes
 assurées contre certains risques au titre des garanties collectives mentionnées
 à l'article L. 911-2 du code de la sécurité sociale. Chaque trimestre dans les
-entreprises d'au moins trois cents salariés et chaque semestre dans les autres,
-le chef d'entreprise informe également le comité des mesures envisagées en ce
-qui concerne l'amélioration, le renouvellement ou la transformation de
-l'équipement ou des méthodes de production et d'exploitation et de leurs
-incidences sur les conditions de travail et d'emploi.
+entreprises d'au moins trois cents salariés [*effectif*] et chaque semestre dans
+les autres, le chef d'entreprise informe également le comité des mesures
+envisagées en ce qui concerne l'amélioration, le renouvellement ou la
+transformation de l'équipement ou des méthodes de production et d'exploitation
+et de leurs incidences sur les conditions de travail et d'emploi.

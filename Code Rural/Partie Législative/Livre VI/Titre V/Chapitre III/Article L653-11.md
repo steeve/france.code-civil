@@ -1,9 +1,8 @@
 Article L653-11
 ----
 Dans chaque département, groupe de départements ou région naturelle voués à
-l'élevage, un établissement de l'élevage agréé après avis du Conseil supérieur
-de l'élevage reçoit mission d'améliorer la qualité et la productivité du
-cheptel.
+l'élevage, un établissement de l'élevage agréé reçoit mission d'améliorer la
+qualité et la productivité du cheptel.
 
 Il oriente, coordonne, contrôle et peut exécuter directement les actions
 collectives de développement concernant l'élevage dans les conditions fixées par

@@ -18,16 +18,26 @@ accordés.
 
 4. Au titre des dispositions dérogatoires prévues à l'article 2 bis, les
 dispositions du présent article sont applicables aux marchandises relevant des
-articles 2, 3, 4, 5, 16, 17 et 19 de la loi n° 92-1477 du 31 décembre 1992
-relative aux produits soumis à certaines restrictions de circulation et à la
-complémentarité entre les services de police, de gendarmerie et de douane, aux
+articles 2, 3, 4, 5 et 19 de la loi n° 92-1477 du 31 décembre 1992 relative aux
+produits soumis à certaines restrictions de circulation et à la complémentarité
+entre les services de police, de gendarmerie et de douane, aux marchandises
+visées à l'article L. 5132-9 du code de la santé publique, aux médicaments à
+usage humain visés à l'article L. 5124-13 du code de la santé publique, aux
 marchandises présentées sous une marque contrefaite, ainsi qu'aux produits
 sanguins labiles définis par le code de la santé publique, aux organes, tissus,
-cellules ou gamètes issus du corps humain mentionnés à l'article 18 de la loi
-précitée, aux radio-éléments artificiels définis à l'article L. 631 du code de
-la santé publique et aux déchets relevant de la loi n° 75-633 du 15 juillet 1975
-relative à l'élimination des déchets et à la récupération des matériaux et des
-textes pris pour son application. Les dispositions du présent article
-s'appliquent également aux objets de toute nature comportant des images ou des
-représentations d'un mineur à caractère pornographique visées par l'article
-227-23 du code pénal.
+cellules ou gamètes issus du corps humain mentionnés aux articles L. 1235-1, L.
+1244-8 et L. 1245-4 du code de la santé publique, aux radioéléments artificiels
+définis à l'article L. 1333-3 du code de la santé publique et aux déchets
+relevant de la loi n° 75-633 du 15 juillet 1975 relative à l'élimination des
+déchets et à la récupération des matériaux et des textes pris pour son
+application. Les dispositions du présent article s'appliquent également aux
+objets de toute nature comportant des images ou des représentations d'un mineur
+à caractère pornographique visées par l'article 227-23 du code pénal.
+
+5. Au titre des dispositions dérogatoires prévues à l'article 2 bis, les
+dispositions du présent article sont également applicables aux marchandises
+soumises à des restrictions de circulation prévues soit par la réglementation
+communautaire, soit par les lois et règlements en vigueur, applicables aux
+échanges de certaines marchandises communautaires avec les autres Etats membres
+de la Communauté européenne. La liste des marchandises concernées est fixée par
+arrêté conjoint du ministre chargé des douanes et du ou des ministres concernés.

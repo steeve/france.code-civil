@@ -30,6 +30,13 @@ garde de tels animaux, de détenir sans justification une substance ou
 composition relevant de l'article L. 5144-1 du code de la santé publique qui ne
 bénéficie pas d'autorisation au titre des réglementations relatives aux
 médicaments vétérinaires ou aux substances destinées à l'alimentation animale.
+Il est également interdit d'administrer à de tels animaux des médicaments
+vétérinaires qui ne bénéficient pas d'une autorisation au titre du code de la
+santé publique, des prémélanges médicamenteux qui n'ont pas été préalablement
+incorporés dans un aliment médicamenteux, ainsi que des additifs qui ne
+bénéficient pas d'une autorisation au titre de la réglementation relative aux
+substances destinées à l'alimentation animale ou qui ne sont pas utilisés selon
+les conditions prévues par l'autorisation.
 
 V. - Par arrêtés pris après avis de l'Agence française de sécurité sanitaire des
 aliments, et, en ce qui concerne les médicaments à usage humain, après avis de
@@ -37,4 +44,13 @@ l'Agence française de sécurité sanitaire des produits de santé, le ministre 
 l'agriculture et le ministre chargé de la santé peuvent, pour des motifs de
 santé publique ou de santé animale, interdire ou restreindre la prescription et
 la délivrance de médicaments en vue d'une administration à des animaux, ainsi
-que l'administration de médicaments à des animaux.
+que l'administration de médicaments à des animaux. Ces arrêtés peuvent notamment
+fixer les temps d'attente minimaux à appliquer pour la prescription de
+médicaments destinés à des animaux des espèces dont la chair ou les produits
+sont destinés à l'alimentation humaine, en dehors des indications prévues par
+leur autorisation.
+
+VI. - Des dérogations aux II et IV peuvent être accordées par le ministre de
+l'agriculture, après avis de l'Agence française de sécurité sanitaire des
+aliments, pour des animaux dont la chair ou les produits ne sont en aucun cas
+destinés à l'alimentation humaine ou animale.
