@@ -24,9 +24,9 @@ général des impôts et au quatrième alinéa du 5 (a) de l'article 158 du mêm
 code, l'indemnité journalière mentionnée au 2° de l'article L. 431-1.
 
 Est toutefois exclue du décompte des ressources l'allocation mentionnée à
-l'article 4 de la loi n° 88-1088 du 1er décembre 1988 relative au revenu minimum
-d'insertion et servie soit à l'allocataire ou à son conjoint ou concubin, soit
-aux personnes définies à l'article D. 542-9.
+l'article L. 262-3 du code de l'action sociale et des familles et servie soit à
+l'allocataire ou à son conjoint ou concubin, soit aux personnes définies à
+l'article D. 542-9.
 
 Il est fait abstraction des déductions opérées en vertu de l'article 156-1 du
 code général des impôts au titre des reports des déficits constatés au cours
@@ -48,7 +48,7 @@ de revenus au cours de l'année civile de référence et que chacun des deux
 revenus correspondants a été au moins égal à douze fois la base mensuelle de
 calcul des allocations familiales en vigueur au 1er juillet de ladite année.
 
-Cet abattement est fixé à 76,22 Euro.
+Cet abattement est fixé à 76 euros.
 
 Un abattement est opéré sur les ressources de la personne seule qui assume la
 charge d'un ou plusieurs enfants ou d'une ou plusieurs personnes au sens de
@@ -57,10 +57,10 @@ l'article D. 542-5.
 
 Cet abattement est fixé à :
 
-707,97 Euro pour les personnes seules assumant la charge d'un ou de deux enfants
+708 euros pour les personnes seules assumant la charge d'un ou de deux enfants
 ou personnes au sens de l'article L. 542-1 ;
 
-1 061,35 Euro pour les personnes seules assumant la charge d'au moins trois
+1 061 euros pour les personnes seules assumant la charge d'au moins trois
 enfants ou personnes au sens de l'article L. 542-1.
 
 Lors de l'ouverture du droit ou en début de période de paiement, lorsque le

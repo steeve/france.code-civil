@@ -15,8 +15,8 @@ bénéficiaire diminuées, dans la limite du montant desdites ressources, d'un
 montant fixé forfaitairement. Ce forfait est calculé dans les conditions fixées
 par arrêté conjoint des ministres chargés du logement, du budget, de la sécurité
 sociale et de l'agriculture sur la base du montant mensuel du revenu minimum
-d'insertion, fixé en application de l'article 3 de la loi n° 88-1088 du 1er
-décembre 1988 relative au revenu minimum d'insertion.
+d'insertion, fixé en application de l'article L. 262-2 du code de l'action
+sociale et des familles.
 
 Dans le cas du calcul de l'allocation de logement des colocataires, le loyer
 principal retenu représente le quotient du loyer effectivement payé par le
@@ -27,7 +27,7 @@ celui qui correspond à la situation familiale de chacune des personnes ou
 ménages concernés.
 
 Les ressources du bénéficiaire sont appréciées conformément aux articles D.
-542-8 à D. 542-12 et arrondies aux 76,22 Euro supérieurs.
+542-8 à D. 542-12 et arrondies aux 100 euros supérieurs.
 
 Le taux de participation susvisé est obtenu par l'addition :
 
@@ -49,23 +49,12 @@ Dans laquelle :
 1°) AL représente le montant de l'allocation de logement ;
 
 2° K représente le coefficient de prise en charge déterminé, pour chaque
-intervalle de ressources de 500 F et de 76,22 Euro à compter du 1er janvier
-2002, par la formule :
+intervalle de ressources de 100 Euros, par la formule :
 
-K = 0,9 - R/108 683 x N
+K = 0,9 - R/16 833,72 x N
 
-Le coefficient multiplicateur de 108 683 s'applique pour la période du 1er
-juillet 2001 au 31 décembre 2001 ; il est fixé à 16 568,62 à compter du 1er
-janvier 2002.
-
-Dans laquelle :
-
-R représente la limite supérieure de l'intervalle dans lequel se situent les
-ressources appréciées conformément à l'article D. 542-10 ;
-
-N représente le nombre de parts déterminé dans les conditions prévues au 5° ;
-
-Le coefficient K est arrondi à deux décimales par défaut ;
+dans laquelle : R représente la limite supérieure de l'intervalle dans lequel se
+situent les ressources appréciées conformément à l'article D. 542-10.
 
 3°) L représente selon le cas :
 
@@ -78,34 +67,26 @@ D. 542-28, et éventuellement ramenée au plafond mentionné à l'article D. 542
 
 4°) C représente une majoration forfaitaire au titre des charges ;
 
-5°) Lo représente le loyer minimum ; ce loyer minimum est la part de loyer L tel
-que défini ci-dessus qui doit rester à la charge de l'allocataire, compte tenu
-des ressources du foyer définies aux articles D. 542-8 à D. 542-11 et de la
-composition de la famille ; ce loyer minimum est déterminé pour chaque
-intervalle de ressources de 500 F mentionné au 2° ci-dessus et de 76,22 Euro à
-compter du 1er janvier 2002 ; il est obtenu par l'application, à la limite
-supérieure de l'intervalle dans lequel se situent les ressources du foyer, de
-pourcentages fixés comme suit :
+5° Lo représente le loyer minimum. Ce loyer minimum est la part de loyer L tel
+que défini au 3° qui doit rester à la charge de l'allocataire compte tenu des
+ressources du foyer définies aux articles D. 542-8 à D. 542-11 et de la
+composition de la famille. Ce loyer minimum est déterminé pour chaque intervalle
+de ressources de 100 Euros mentionné au 2°. Il est obtenu par l'application, à
+la limite supérieure de l'intervalle dans lequel se situent les ressources du
+foyer, de pourcentages fixés comme suit :
 
-0 % pour la tranche de ressources inférieure ou égale à 7 220 F pour la période
-du 1er juillet 2001 au 31 décembre 2001, et à 1 100,68 Euro à compter du 1er
-janvier 2002 ;
+0 % pour la tranche de ressources inférieure ou égale à 1 118,29 Euros ;
 
-3 % pour la tranche de ressources comprise entre 7 220 F et 10 389 F, pour la
-période du 1er juillet 2001 au 31 décembre 2001, et entre 1 100,68 Euro et 1
-583,79 Euro à compter du 1er janvier 2002 ;
+3 % pour la tranche de ressources comprise entre 1 118,29 Euros et 1 609,13
+Euros ;
 
-26 % pour la tranche de ressources comprise entre 10 389 F et 13 343 F pour la
-période du 1er juillet 2001 au 31 décembre 2001, et entre 1 583,79 Euro et 2
-034,13 Euro à compter du 1er janvier 2002 ;
+26 % pour la tranche de ressources comprise entre 1 609,13 Euros et 2 066,68
+Euros ;
 
-29 % pour la tranche de ressources comprise entre 13 343 F et 20 777 F pour la
-période du 1er juillet 2001 au 31 décembre 2001, et entre 2 034,13 Euro et 3
-167,43 Euro à compter du 1er janvier 2002 ;
+29 % pour la tranche de ressources comprise entre 2 066,68 Euros et 3 218,11
+Euros ;
 
-41 % pour la tranche de ressources supérieure à 20 777 F pour la période du 1er
-juillet 2001 au 31 décembre 2001, et à 3 167,43 Euro à compter du 1er janvier
-2002.
+41 % pour la tranche de ressources supérieure à 3 218,11 Euros.
 
 Les limites inférieures et supérieures de chacune de ces tranches sont affectées
 des coefficients (ou nombre de parts) ci-après :
@@ -123,4 +104,4 @@ des coefficients (ou nombre de parts) ci-après :
 Ce dernier coefficient est majoré de 0,5 par enfant ou par personne à charge
 supplémentaire.
 
-Le loyer minimum ainsi obtenu est majoré d'un montant égal à 73,79 EUR.
+Le loyer minimum ainsi obtenu est majoré d'un montant égal à 74,97 euros.
