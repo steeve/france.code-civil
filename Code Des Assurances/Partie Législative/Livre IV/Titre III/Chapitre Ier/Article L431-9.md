@@ -1,9 +1,8 @@
 Article L431-9
 ----
-La gestion comptable et financière du fonds national de garantie des calamités
-agricoles mentionné à l'article L. 442-1 est assurée par la caisse centrale de
-réassurance dans un compte distinct de ceux qui retracent les autres opérations
-pratiquées par cet établissement.
+La caisse centrale de réassurance est habilitée à pratiquer des opérations de
+réassurance des risques résultant de catastrophes naturelles, avec la garantie
+de l'Etat, dans des conditions fixées par décret en Conseil d'Etat.
 
-Les frais exposés par la caisse centrale de réassurance pour la gestion du fonds
-lui sont remboursés dans des conditions fixées par décret en Conseil d'Etat.
+Les dispositions du présent article ne sont pas applicables aux départements
+d'outre-mer.
