@@ -8,5 +8,5 @@ médecine.
 
 Des décrets déterminent également les sanctions disciplinaires applicables aux
 étudiants et élèves de l'enseignement supérieur en cas d'infraction aux
-dispositions de l'article 191 ci-dessus [*examens médicaux périodiques
+dispositions de l'article L. 191 ci-dessus [*examens médicaux périodiques
 obligatoires*].

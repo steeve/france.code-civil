@@ -1,13 +1,18 @@
 Article L163
 ----
-Tout enfant est pourvu d'un carnet de santé délivré gratuitement par le maire
-lors de la déclaration de la naissance. Les enfants présentés dans les
-consultations de nourrissons et dans les centres de protection maternelle et
-infantile, s'ils n'ont pas encore reçu ce carnet, en sont pourvus par les soins
-de ces organismes.
+Lors de la déclaration de naissance, il est délivré gratuitement pour tout
+enfant un carnet de santé. Ce carnet est remis par l'officier d'état civil ; à
+défaut, il peut être demandé au service départemental de protection maternelle
+et infantile.
 
-Un arrêté du ministre de la Santé publique et de la Population détermine la
-forme et le mode d'utilisation de ce carnet où seront mentionnés obligatoirement
-les résultats de ces examens préventifs prescrits par le présent titre et où
-seront également notées, au fur et à mesure, toutes les consultations
-importantes concernant la santé de l'enfant.
+Un arrêté ministériel détermine le modèle et le mode d'utilisation de ce carnet
+où sont mentionnés obligatoirement les résultats des examens médicaux prévus à
+l'article L. 164 et où doivent être notées, au fur et à mesure, toutes les
+constatations importantes concernant la santé de l'enfant.
+
+Le carnet est établi au nom de l'enfant. Il est remis aux parents ou aux
+personnes titulaires de l'exercice de l'autorité parentale ou aux personnes ou
+aux services à qui l'enfant a été confié. Ils doivent être informés que nul
+autre qu'eux ne peut en exiger la communication et que toute personne appelée,
+de par sa profession, à prendre connaissance des renseignements qui y sont
+inscrits est astreinte au secret professionnel.

@@ -5,8 +5,10 @@ sauf contre-indications médicales reconnues dans les conditions fixées par
 décret en Conseil d'Etat prévu à l'article L. 217-3 ci-après, les personnes
 comprises dans les catégories de la population ci-après :
 
-1° Les enfants du premier âge et du deuxième âge placés en maisons maternelles,
-crèches, pouponnières ou en nourrice ;
+1° Les enfants de moins de six ans accueillis dans des maisons maternelles, des
+pouponnières, des maisons d'enfants à caractère sanitaire, des écoles
+maternelles ainsi que chez des assistantes maternelles et dans des services et
+établissements visés à l'article L. 180 du présent code ;
 
 2° Les enfants vivant dans un foyer où vit également un tuberculeux recevant, à
 ce titre, des prestations des collectivités publiques ou des organismes de

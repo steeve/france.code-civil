@@ -26,7 +26,10 @@ soins et de cure, publics ou privés ;
 9°) des frais de vaccination obligatoire pour les enfants d'un âge déterminé ;
 
 10°) des frais de transport dans les conditions prévues par le 2° de l'article
-L. 321-1. Font également partie des prestations de base :
+L. 321-1.11°) des frais afférents aux examens médicaux [*prénuptiaux*] prescrits
+en application de l'article L. 153 du code de la santé publique.
+
+Font également partie des prestations de base :
 
 1°) la couverture des médicaments, produits et objets contraceptifs, ainsi que
 les frais d'analyses et d'examens de laboratoire ordonnés en vue de

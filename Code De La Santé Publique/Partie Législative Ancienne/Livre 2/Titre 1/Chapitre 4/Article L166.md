@@ -1,17 +1,19 @@
 Article L166
 ----
-Chaque fois qu'il est constaté, soit à la consultation de nourrissons, soit à
-l'occasion de la visite à domicile, que la santé de l'enfant est déficiente,
-l'assistante sociale doit engager la famille ou la personne à laquelle incombe
-la garde de l'enfant, à faire appel à un médecin et, le cas échéant, faire
-appuyer son avis par un médecin agréé par le service de la protection de
-l'enfance.
+Les personnes titulaires de l'exercice de l'autorité parentale ou celles à qui
+un enfant a été confié sont informées, dans le respect des règles
+déontologiques, lorsqu'un handicap a été suspecté, décelé ou signalé chez ce
+dernier, notamment au cours des examens médicaux prévus à l'article L. 164, de
+la nature du handicap et de la possibilité pour l'enfant d'être accueilli dans
+des centres spécialisés, notamment, dans des centres d'action médico-sociale
+précoce, en vue de prévenir ou de réduire l'aggravation de ce handicap.
 
-De même, si la santé de l'enfant est compromise par l'absence de soins
-convenables, par de mauvais traitements ou de mauvais exemples, l'assistante
-sociale en rend compte simultanément et sans délai au médecin chef du centre de
-protection maternelle et infantile de la circonscription intéressée et au
-directeur départemental de la Santé [*autorités compétentes*]. Ce dernier
-provoque d'urgence toutes les mesures appropriées en vue de sauvegarder la santé
-ou la vie de l'enfant et, notamment, fait constater l'état de ce dernier par un
-médecin agréé par le service de protection de la maternité ou de l'enfance.
+Dans les centres d'action médico-sociale précoce, la prise en charge s'effectue
+sous forme de cure ambulatoire comportant l'intervention d'une équipe
+pluridisciplinaire. Elle comporte une action de conseil et de soutien de la
+famille ou des personnes auxquelles l'enfant a été confié. Elle est assurée,
+s'il y a lieu, en liaison avec les institutions d'éducation préscolaires et les
+établissements et services mentionnés à l'article L. 180.
+
+Le financement de ces centres est assuré dans les conditions définies à
+l'article L. 187.

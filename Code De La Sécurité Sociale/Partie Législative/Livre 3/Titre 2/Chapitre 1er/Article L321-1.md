@@ -39,4 +39,7 @@ reprendre le travail ; l'incapacité peut être également constatée par la
 sage-femme dans la limite de sa compétence professionnelle et pour une durée
 fixée par décret ; toutefois, les arrêts de travail prescrits à l'occasion d'une
 cure thermale ne donnent pas lieu à indemnité journalière, sauf lorsque la
-situation de l'intéressé le justifie suivant des conditions fixées par décret.
+situation de l'intéressé le justifie suivant des conditions fixées par décret ;
+
+6°) les frais afférents aux examens prescrits en application de l'article L. 153
+du code de la santé publique.
