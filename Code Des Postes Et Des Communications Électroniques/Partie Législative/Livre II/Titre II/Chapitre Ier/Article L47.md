@@ -1,11 +1,37 @@
 Article L47
 ----
-L'exploitant public peut exécuter sur le sol ou le sous-sol des chemins publics
-et de leurs dépendances tous travaux nécessaires à la construction et à
-l'entretien des lignes de télécommunications.
+L'occupation du domaine routier fait l'objet d'une permission de voirie,
+délivrée par l'autorité compétente, suivant la nature de la voie empruntée, dans
+les conditions fixées par le code de la voirie routière. La permission peut
+préciser les prescriptions d'implantation et d'exploitation nécessaires à la
+circulation publique et à la conservation de la voirie.
 
-Dans le cas des voies des départements et des communes, les conditions de
-réalisation de ces travaux sont soumises aux dispositions prévues par les
-articles 119 à 122 de la loi n° 83-663 du 22 juillet 1983 complétant la loi n°
-83-8 du 7 janvier 1983 relative à la répartition de compétences entre les
-communes, les départements, les régions et l'Etat.
+L'autorité mentionnée à l'alinéa précédent doit prendre toutes dispositions
+utiles pour permettre l'accomplissement de l'obligation d'assurer le service
+universel des télécommunications. Elle ne peut faire obstacle au droit de
+passage des opérateurs autorisés qu'en vue d'assurer, dans les limites de ses
+compétences, le respect des exigences essentielles.
+
+Lorsqu'il est constaté que le droit de passage de l'opérateur peut être assuré,
+dans des conditions équivalentes à celles qui résulteraient d'une occupation
+autorisée, par l'utilisation des installations existantes d'un autre occupant du
+domaine public et que cette utilisation ne compromettrait pas la mission propre
+de service public de cet occupant, l'autorité mentionnée au premier alinéa peut
+inviter les deux parties à se rapprocher pour convenir des conditions techniques
+et financières d'une utilisation partagée des installations en cause. Dans ce
+cas, et sauf accord contraire, le propriétaire des installations accueillant
+l'opérateur autorisé assume, dans la limite du contrat conclu entre les parties,
+l'entretien des infrastructures et des équipements qui empruntent ses
+installations et qui sont placés sous sa responsabilité, moyennant paiement
+d'une contribution négociée avec l'opérateur. En cas de litige entre opérateurs,
+l'Autorité de régulation des télécommunications peut être saisie, dans les
+conditions fixées à l'article L. 36-8.
+
+La permission de voirie ne peut contenir des dispositions relatives aux
+conditions commerciales de l'exploitation. Elle donne lieu à versement de
+redevances dues à la collectivité publique concernée pour l'occupation de son
+domaine public dans le respect du principe d'égalité entre tous les opérateurs.
+
+Un décret en Conseil d'Etat détermine les modalités d'application du présent
+article et notamment le montant maximum de la redevance mentionnée à l'alinéa
+ci-dessus.

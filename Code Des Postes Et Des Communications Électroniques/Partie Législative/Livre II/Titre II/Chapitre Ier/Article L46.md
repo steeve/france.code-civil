@@ -1,5 +1,9 @@
 Article L46
 ----
-Les opérations relatives à l'établissement et à l'entretien par l'exploitant
-public des lignes des réseaux publics de télécommunications sont effectuées dans
-les conditions indiquées ci-après.
+Les exploitants autorisés à établir les réseaux ouverts au public peuvent
+occuper le domaine public routier, en y implantant des ouvrages dans la mesure
+où cette occupation n'est pas incompatible avec son affectation.
+
+Les travaux nécessaires à l'établissement et à l'entretien des réseaux sont
+effectués conformément aux règlements de voirie, et notamment aux dispositions
+de l'article L. 115-1 du code de la voirie routière.

@@ -14,20 +14,10 @@ l'acheminement de signaux de télécommunications ainsi que l'échange des
 informations de commande et de gestion qui y est associé, entre les points de
 terminaison de ce réseau.
 
-3° Points de terminaison.
+3° Réseau ouvert au public.
 
-On entend par points de terminaison les points de connexion physique répondant à
-des spécifications techniques nécessaires pour avoir accès au réseau et
-communiquer efficacement par son intermédiaire. Ils font partie intégrante de ce
-réseau.
-
-Lorsqu'un réseau de télécommunications est connecté à un réseau étranger, les
-points de connexion à ce réseau sont considérés comme des points de terminaison.
-
-Lorsqu'un réseau de télécommunications est destiné à transmettre des signaux
-vers des installations mentionnées aux articles 10 et 34 de la loi n° 86-1067 du
-30 septembre 1986 relative à la liberté de communication, les points de
-connexion à ces installations sont considérés comme des points de terminaison.
+On entend par réseau ouvert au public tout réseau de télécommunications établi
+ou utilisé pour la fourniture au public de services de télécommunications.
 
 4° Réseau indépendant.
 
@@ -58,28 +48,29 @@ par des procédés de télécommunication. Ne sont pas visés les services de
 communication audiovisuelle en tant qu'ils sont régis par la loi n° 86-1067 du
 30 septembre 1986 précitée.
 
-7° Service téléphonique.
+7° Service téléphonique au public.
 
-On entend par service téléphonique l'exploitation commerciale du transfert
-direct de la voix en temps réel entre des utilisateurs raccordés aux points de
-terminaison d'un réseau de télécommunications.
+On entend par service téléphonique au public l'exploitation commerciale pour le
+public du transfert direct de la voix en temps réel au départ et à destination
+de réseaux ouverts au public commutés, entre utilisateurs fixes ou mobiles.
 
 8° Service télex.
 
 On entend par service télex l'exploitation commerciale du transfert direct, en
-temps réel, par échange de signaux de nature
+temps réel, par échange de signaux de nature télégraphique, de messages
+dactylographiés entre des utilisateurs raccordés aux points de terminaison d'un
+réseau de télécommunications.
 
-télégraphique, de messages dactylographiés entre des utilisateurs raccordés aux
-points de terminaison d'un réseau de télécommunications.
+9° Interconnexion.
 
-9° Service-support.
+On entend par interconnexion les prestations réciproques offertes par deux
+exploitants de réseaux ouverts au public qui permettent à l'ensemble des
+utilisateurs de communiquer librement entre eux, quels que soient le réseaux
+auxquels ils sont raccordés ou les services qu'ils utilisent.
 
-On entend par service-support l'exploitation commerciale du simple transport de
-données, c'est-à-dire d'un service dont l'objet est soit de transmettre, soit de
-transmettre et d'acheminer des signaux entre les points de terminaison d'un
-réseau de télécommunications, sans faire subir à ces signaux de traitements
-autres que ceux nécessaires à leur transmission, à leur acheminement et au
-contrôle de ces fonctions.
+On entend également par interconnexion les prestations d'accès au réseau
+offertes dans le même objet par un exploitant de réseau ouvert au public à un
+prestataire de service téléphonique au public.
 
 10° Equipement terminal.
 
@@ -91,7 +82,7 @@ audiovisuelle diffusés par voie hertzienne ou distribués par câble, sauf dans
 les cas où ils permettent d'accéder également à des services de
 télécommunications.
 
-11° Réseau, installation ou équipement terminal radio-électrique.
+11° Réseau, installation ou équipement terminal radioélectrique.
 
 Un réseau, une installation ou un équipement terminal sont qualifiés de
 radioélectriques lorsqu'ils utilisent des fréquences hertziennes pour la
@@ -107,8 +98,9 @@ dans l'intérêt général, la sécurité des usagers et du personnel des exploi
 de réseaux de télécommunications, la protection des réseaux et notamment des
 échanges d'informations de commande et de gestion qui y sont associés, le cas
 échéant la bonne utilisation du spectre radioélectrique ainsi que, dans les cas
-justifiés, l'interopérabilité des services et celle des équipements terminaux et
-la protection des données.
+justifiés, l'interopérabilité des services et celle des équipements terminaux,
+la protection des données, la protection de l'environnement et la prise en
+compte des contraintes d'urbanisme et d'aménagement du territoire.
 
 On entend par interopérabilité des équipements terminaux l'aptitude de ces
 équipements à fonctionner, d'une part, avec le réseau et, d'autre part, avec les
@@ -125,3 +117,9 @@ télécommunications.
 
 On entend par réseau public l'ensemble des réseaux de télécommunications établis
 ou utilisés par l'exploitant public pour les besoins du public.
+
+15° Opérateur :
+
+On entend par opérateur toute personne physique ou morale exploitant un réseau
+de télécommunications ouvert au public ou fournissant au public un service de
+télécommunications.
