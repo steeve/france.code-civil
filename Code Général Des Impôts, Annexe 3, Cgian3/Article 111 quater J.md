@@ -1,68 +1,90 @@
 Article 111 quater J
 ----
-A l'importation, la taxe de protection sanitaire et d'organisation des marchés
-des viandes est perçue dans les conditions prévues à l'article 111 quater K sur
-les viandes reprises au tableau ci-dessous, déclarées pour la mise à la
-consommation dans le territoire douanier :
+A l'importation en provenance des pays autres que ceux appartenant à la
+Communauté économique européenne, la redevance sanitaire d'abattage est perçue,
+dans les conditions prévues à l'article 111 quater K sur les viandes reprises au
+tableau ci-dessous, déclarées pour la mise à la consommation dans le territoire
+douanier :
 
------------------------------------------------------------------- : NUMEROS : :
+NUMÉROS du tarif des douanes : Ex 02-01
 
-: du tarif : DESIGNATION DES MARCHANDISES :
+DÉSIGNATION DES MARCHANDISES :
 
-: des douanes : :
+Viandes des animaux domestiques de l'espèce bovine fraîches ou réfrigérées.
 
-:--------------:-------------------------------------------------:
+NUMÉROS du tarif des douanes : Ex 02-02
 
-: 02-01 ex A : Viandes comestibles des animaux domestiques :
+DÉSIGNATION DES MARCHANDISES :
 
-: : repris aux numéros 01-01 à 01-04 inclus, :
+Viandes des animaux domestiques de l'espèce bovine congelées.
 
-: : fraîches, réfrigérées ou congelées. :
+NUMÉROS du tarif des douanes : Ex 02-03
 
-: : :
+DÉSIGNATION DES MARCHANDISES :
 
-: 02-02 A et B : Volailles mortes de basse-cour, comestibles, :
+Viandes des animaux domestiques de l'espèce porcine fraîches , réfrigérées ou
+congelées.
 
-: : fraîches, réfrigérées ou congelées. :
+NUMÉROS du tarif des douanes : Ex 02-04
 
-: : :
+DÉSIGNATION DES MARCHANDISES :
 
-: 02-05 : Lards, graisse de porc et graisse de volaille :
+Viandes des animaux domestiques des espèces ovine, caprine, fraîches,
+réfrigérées ou congelées.
 
-: : non pressées ni fondues, ni extraites, à :
+NUMÉROS du tarif des douanes : Ex 02-05-00-00
 
-: : l'aide de solvants, frais, réfrigérés, congelés :
+DÉSIGNATION DES MARCHANDISES :
 
-: : salés ou en saumure, séchés ou fumés. :
+Viandes des animaux domestiques des espèces chevaline, asine, mulassière,
+fraîches, réfrigérées ou congelées.
 
-: : :
+NUMÉROS du tarif des douanes : Ex 02-07
 
-: Ex 02-06 : Viandes comestibles des animaux domestiques :
+DÉSIGNATION DES MARCHANDISES :
 
-: : repris aux numéros 01-01 à 01-05 inclus, salées :
+Viandes fraîches, réfrigérées ou congelées des volailles du numéro 01-05.
 
-: : ou en saumure, séchées ou fumées. :
+NUMÉROS du tarif des douanes : Ex 02-09
 
-: : :
+DÉSIGNATION DES MARCHANDISES :
 
-: 15-01 : Saindoux, autres graisses de porc et graisses :
+Lard sans parties maigres, graisse de porc et graisse de volailles non fondues,
+frais, réfrigérés, congelés, salés ou en saumure, séchés ou fumés.
 
-: : de volailles, pressés ou fondus ou extraits à :
+NUMÉROS du tarif des douanes : Ex 02-10
 
-: : l'aide de solvants. :
+DÉSIGNATION DES MARCHANDISES :
 
-: : :
+Viandes comestibles des animaux domestiques repris aux numéros 01-01 à 01-05
+inclus, salées ou en saumure, séchées ou fumées.
 
-: Ex 16-01 : Saucisses, saucissons et similaires, de viandes :
+NUMÉROS du tarif des douanes : 15-01
 
-: : d'animaux domestiques repris aux numéros 01-01 :
+DÉSIGNATION DES MARCHANDISES :
 
-: : à 01-05 inclus. :
+Saindoux ; autres graisses de porc et graisses de volailles, fondues, même
+pressées ou extraites à l'aide de solvants.
 
-: 16-02 B ex I : Autres préparations et conserves de viandes :
+NUMÉROS du tarif des douanes : Ex 16-01
 
-: et ex III : d'animaux domestiques repris aux numéros 01-01 :
+DÉSIGNATION DES MARCHANDISES :
 
-: : à 01-05 inclus. :
+Saucisses, saucissons et produits similaires de viandes d'animaux domestiques
+repris aux numéros 01-01 à 01-05 inclus et préparations alimentaires à base de
+ces produits.
 
-==================================================================
+NUMÉROS du tarif des douanes : Ex 16-02
+
+DÉSIGNATION DES MARCHANDISES :
+
+Autres préparations et conserves de viandes d'animaux domestiques repris aux
+numéros 01-01 à 01-05 inclus.
+
+NUMÉROS du tarif des douanes : Ex 19-02-20-30
+
+DÉSIGNATION DES MARCHANDISES :
+
+Pâtes alimentaires farcies contenant en poids plus de vingt pour cent de
+saucisses, saucissons et produits similaires de viandes d'animaux domestiques
+repris aux numéros 01-01 à 01-05 inclus.
