@@ -10,11 +10,12 @@ sur la valeur ajoutée, par l'administration chargée de les percevoir :
 
 5° et 6° (Abrogés);
 
-7° Taxe sur les betteraves (art. 1617); cette taxe est, toutefois, acquittée les
-31 mars et 30 septembre de chaque année;
+7° Taxe sur les betteraves [**](art. 1609 octodecies)[**] ; cette taxe est,
+toutefois, acquittée les 31 mars et 30 septembre de chaque année;
 
 8° et 9° (Abrogés);
 
-10° Cotisation incluse dans la taxe sur la valeur ajoutée (art. 1614).
+10° Cotisation incluse dans la taxe sur la valeur ajoutée (art. [**]1609
+septdecies[**]).
 
 11° La taxe spéciale sur le prix des places de spectacles cinématographiques.
