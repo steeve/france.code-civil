@@ -1,6 +1,7 @@
 Article L514-2
 ----
-Le conseiller prud'homme élu qui refuse de se faire installer donne sa démission
-ou est déclaré démissionnaire en vertu de l'article L. 514-1 est inéligible
-pendant un délai de trois ans à partir de son refus, de sa démission ou de la
-décision du tribunal qui le déclare démissionnaire [*point de départ*] .
+Le licenciement d'un conseiller prud'homme salarié en fonction ou ayant cessé
+l'exercice de ses fonctions depuis moins de six mois ne peut intervenir que sur
+décision du bureau de jugement présidé par le président du tribunal de grande
+instance [*condition*] //LOI 0004 05-01-1980 : dans le ressort duquel est situé
+le siège du conseil de prud'hommes//.

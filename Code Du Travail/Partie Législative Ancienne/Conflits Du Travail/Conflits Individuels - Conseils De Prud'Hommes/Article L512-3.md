@@ -1,8 +1,8 @@
 Article L512-3
 ----
-Le renouvellement triennal doit porter sur la moitié des membres salariés et sur
-la moitié des membres employeurs compris dans chaque catégorie du conseil. Dans
-chacune de ces catégories le sort désigne les prud'hommes qui sont remplacés la
-première fois.
+Plusieurs chambres peuvent être constituées au sein d'une même section de
+conseil de prud'hommes. Chaque chambre comprend au moins quatre conseillers
+employeurs et quatre conseillers salariés.
 
-Les prud'hommes sortant sont rééligibles.
+La constitution des chambres est décidée par le premier président de la cour
+d'appel, sur proposition de l'assemblée générale du conseil de prud'hommes.

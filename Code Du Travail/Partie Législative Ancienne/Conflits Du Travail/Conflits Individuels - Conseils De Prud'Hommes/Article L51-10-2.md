@@ -1,25 +1,35 @@
 Article L51-10-2
 ----
-Les dépenses obligatoires pour les communes comprises dans la circonscription
-d'un conseil de prud'hommes sont les suivantes :
+Les dépenses de personnel et de fonctionnement des conseils de prud'hommes sont
+à la charge de l'Etat.
 
-1. Frais de premier établissement ;
+Elles comprennent notamment :
 
-2. Achat des insignes ;
+1. Les frais d'entretien des locaux, de chauffage, d'éclairage, de sanitaire et
+de gardiennage ;
 
-3. Chauffage ;
+2. Les frais d'élection et, dans des conditions fixées par décret, certains
+frais de campagne électorale ;
 
-4. Eclairage ;
+3. Les vacations versées aux conseillers prud'hommes et dont le taux est fixé
+par décret ; ce taux devra tenir compte, pour le temps passé par les salariés
+aux différentes séances du conseil et des commissions en dépendant, de la perte
+de rémunération subie par les intéressés ;
 
-5. Frais d'élection ;
+4. L'achat des médailles ;
 
-6. Rétribution du ou des secrétaires et du ou des secrétaires adjoints, attachés
-au conseil, y compris les sommes nécessaires à la constitution de leur pension
-de retraite ;
+5. Les frais de matériel, de documentation, de fournitures de bureau,
+d'installation, d'entretien et d'abonnement téléphonique ;
 
-7. Frais de matériel, fournitures de bureau et dépenses diverses de secrétariat,
-à l'exception des frais d'établissement des rôles d'expédition de jugements ;
+6. Les frais de déplacement des conseillers prud'hommes appelés à prêter serment
+;
 
-8. Vacations aux conseillers prud'hommes dont le montant minimum, fixé par
-décret, peut être relevé par arrêté préfectoral après avis des conseils
-municipaux intéressés.
+7. Les frais de déplacement des conseillers prud'hommes lorsque le siège du
+conseil est situé à plus de cinq kilomètres de leur domicile ;
+
+8. Les frais de déplacement du juge du tribunal d'instance agissant en vertu de
+l'article L. 515-3 lorsque le siège du conseil de prud'hommes est situé à plus
+de cinq kilomètres du siège du tribunal ;
+
+9. Les frais de déplacement des conseillers rapporteurs pour l'exercice de leur
+mission.

@@ -1,4 +1,5 @@
 Article L513-7
 ----
-Les élections ont lieu au scrutin de liste majoritaire et par catégorie
-[*modalités*] .
+Tout membre élu à la suite d'une vacance survenant en cours de mandat ne demeure
+en fonctions que pendant la durée du mandat qui avait été confié à son
+prédécesseur.
