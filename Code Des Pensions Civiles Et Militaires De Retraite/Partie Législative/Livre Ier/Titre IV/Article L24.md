@@ -49,6 +49,20 @@ II. - La liquidation de la pension militaire intervient :
 durée de services, ou par suite d'infirmités, ou encore s'il réunit, à la date
 de son admission à la retraite, vingt-cinq ans de services effectifs ;
 
+1° bis Lorsqu'un officier est parent de trois enfants vivants, ou décédés par
+fait de guerre, ou d'un enfant vivant de plus d'un an et atteint d'une
+invalidité égale ou supérieure à 80 %, à condition qu'il ait, pour chaque
+enfant, interrompu son activité dans des conditions fixées par décret en Conseil
+d'Etat.
+
+Sont assimilées à l'interruption d'activité mentionnée à l'alinéa précédent les
+périodes n'ayant pas donné lieu à cotisation obligatoire dans un régime de
+retraite de base, dans des conditions fixées par décret en Conseil d'Etat.
+
+Sont assimilés aux enfants mentionnés au premier alinéa les enfants énumérés au
+II de l'article L. 18 que l'intéressé a élevés dans les conditions prévues au
+III dudit article ;
+
 2° Lorsqu'un militaire non officier est radié des cadres par limite d'âge ou par
 limite de durée de services, ou par suite d'infirmités, ou encore s'il réunit, à
 la date de son admission à la retraite, quinze ans de services effectifs ;
