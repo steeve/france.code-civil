@@ -1,13 +1,11 @@
 Article D242-8
 ----
-Dans les mêmes zones et sous réserve des dispositions de l'article D. 242-10,
-l'établissement de plantations, remblais et obstacles de toute nature non soumis
-au permis de construire et ne relevant pas de la loi du 15 juin 1906 sur les
-distributions d'énergie est soumis à l'autorisation de l'ingénieur en chef du
-service des bases aériennes compétent.
+Par dérogation à l'article D. 242-7, le préfet peut autoriser, dans les mêmes
+zones, des installations et équipements concourant à la sécurité de la
+navigation aérienne et du transport aérien public, après avis préalable de la
+Commission centrale des servitudes aéronautiques et sous réserve qu'une étude
+technique démontre que la sécurité et la régularité de l'exploitation des
+aéronefs ne sont pas affectées.
 
-La demande est adressée au maire qui en délivre récépissé. Elle donne les
-précisions utiles sur la nature et l'emplacement des obstacles ainsi que les
-hauteurs qu'ils sont susceptibles d'atteindre.
-
-Le maire la transmet sans délai à l'ingénieur en chef.
+Cette autorisation, qui est annexée au plan de servitudes aéronautiques, est
+transmise au maire de la commune concernée.
