@@ -3,7 +3,7 @@ Article 953
 I. La durée de validité des passeports ordinaires délivrés en France est fixée à
 dix ans. Leur délivrance est soumise à un droit de timbre dont le tarif est fixé
 à 60 euros, y compris les frais de papier et de timbre et tous frais
-d'expédition (2).
+d'expédition.
 
 Par dérogation aux dispositions du premier alinéa, la durée de validité des
 passeports délivrés à un mineur ou portant inscription d'un mineur de moins de
@@ -13,7 +13,7 @@ passeports délivrés à un mineur.
 Par dérogation aux dispositions du premier alinéa, la durée de validité des
 passeports délivrés à titre exceptionnel et pour un motif d'urgence dûment
 justifié ou délivrés par une autorité qui n'est pas celle du lieu de résidence
-ou de domicile du demandeur est de six mois. Le tarif applicable est fixé à 30
+ou de domicile du demandeur est d'un an. Le tarif applicable est fixé à 30
 euros.
 
 Le renouvellement du passeport jusqu'à concurrence de la durée de validité fixée

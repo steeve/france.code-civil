@@ -4,6 +4,12 @@ Les personnes affiliées au régime général en application de l'article L. 382
 relèvent des régimes complémentaires d'assurance vieillesse institués en
 application de l'article L. 644-1.
 
+Lorsque la cotisation à un régime relevant du présent article est due au titre
+de droits perçus en application du contrat visé à l'article L. 132-24 du code de
+la propriété intellectuelle, cette cotisation est précomptée et versée par le
+producteur mentionné à l'article L. 132-23 du même code. Une fraction,
+déterminée par décret, est à la charge du producteur.
+
 Pour les catégories de personnes mentionnées au premier alinéa qui, à la date
 d'entrée en vigueur de la loi n° 2003-517 du 18 juin 2003 relative à la
 rémunération au titre du prêt en bibliothèque et renforçant la protection
