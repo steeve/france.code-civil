@@ -27,7 +27,7 @@ d) Pour faciliter les travaux d'entretien intérieur et notamment pour :
 
 - le ravalement des halls de grande hauteur ;
 
-- les accès aux cabines d'ascenseurs ;
+- les accès aux machineries d'ascenseurs ;
 
 - les accès aux canalisations en galerie technique, ou en vide sanitaire.
 
@@ -35,4 +35,5 @@ Ce dossier indique, lorsqu'ils ont été aménagés à cet effet, les locaux
 techniques de nettoyage et les locaux sanitaires pouvant être mis à disposition
 du personnel chargé des travaux d'entretien.
 
-Ce dossier est tenu à la disposition de l'inspecteur du travail.
+Ce dossier est tenu à la disposition de l'inspecteur du travail et des agents
+des services de prévention des organismes de sécurité sociale.
