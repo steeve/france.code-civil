@@ -9,4 +9,4 @@ de la base mensuelle prévue à l'article L. 551-1 à :
 
 La majoration des allocations familiales prévue à l'article L. 521-3 est fixée à
 9 p. 100 de la base mensuelle de calcul des prestations familiales à partir de
-dix ans et à 16 p. 100 à partir de quinze ans.
+onze ans et à 16 p. 100 à partir de seize ans.
