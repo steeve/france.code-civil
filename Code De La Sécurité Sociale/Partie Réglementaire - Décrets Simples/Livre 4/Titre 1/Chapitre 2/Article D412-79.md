@@ -195,20 +195,25 @@ sanatoriums publics de postcure (décrets n° 48-864 du 24 mai 1948, articles 16
 et 18 ; n° 48-865, articles 13 et 15 ; n° 48-866, article 1er ; décret n° 50-21
 du 6 janvier 1950, article 22).
 
-G. - En ce qui concerne les institutions sociales et médico-sociales (loi n°
-75-535 du 30 juin 1975) :
+G. - En ce qui concerne les institutions sociales et médico-sociales :
 
-1°) membres des conseils d'administration, commissions ou comités fonctionnant
-au sein des organismes gérant des organismes mentionnés à l'article premier de
-la loi n° 75-535 du 30 juin 1975 ;
+1° Membres des conseils d'administration, commissions ou comités fonctionnant au
+sein des organismes gérant des établissements et services sociaux et
+médico-sociaux mentionnés à l'article L. 312-1 du code de l'action sociale et
+des familles ;
 
-2°) membres actifs de ces organismes dûment mandatés pour assurer de manière
-régulière les missions à but social et médico-social définies à l'article
-premier de la loi n° 75-535 du 30 juin 1975 ;
+2° Membres actifs de ces organismes dûment mandatés pour assurer de manière
+régulière les missions à but social et médico-social définies à l'article L.
+311-1 du code de l'action sociale et des familles ;
 
-3°) membres du comité national et des comités régionaux de l'organisation
-sanitaire et sociale institués par l'article L. 712-6 du code de la santé
-publique.
+3° Membres du Comité national de l'organisation sanitaire et sociale mentionné à
+l'article L. 6121-7 du code de la santé publique, membres des comités régionaux
+de l'organisation sanitaire et sociale et membres des comités régionaux de
+l'organisation sociale et médico-sociale institués par l'article L. 312-3 du
+code de l'action sociale et des familles ;
+
+4° Personnes qualifiées mentionnées à l'article L. 311-5 du code de l'action
+sociale et des familles.
 
 Sont exclus du champ d'application du G les membres des conseils
 d'administration, commissions ou comités fonctionnant au sein des organismes
