@@ -10,4 +10,5 @@ Des taux particuliers de cotisations d'assurance maladie, maternité, invalidit�
 et décès à la charge des assurés sont applicables aux revenus d'activité et de
 remplacement perçus par les personnes qui ne remplissent pas les conditions de
 résidence définies à l'article L. 136-1 et qui relèvent à titre obligatoire d'un
-régime français d'assurance maladie.
+régime français d'assurance maladie ou qui sont soumises au second alinéa de
+l'article L. 161-25-3.
