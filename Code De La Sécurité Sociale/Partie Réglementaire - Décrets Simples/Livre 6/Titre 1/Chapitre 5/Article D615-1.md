@@ -21,11 +21,13 @@ frais autres que ceux mentionnés au 1° du présent article.
 Toutefois, cette participation est supprimée lorsque le bénéficiaire est atteint
 d'une desdites affections pour les frais pharmaceutiques, sauf lorsque les frais
 concernent des médicaments visés à l'article R. 322-1 (5°) du code de la
-sécurité sociale. Elle est également supprimée pour le même bénéficiaire, pour
-les frais de traitements roentgenthérapique, curiethérapique ou par les isotopes
-radioactifs, à la condition, en ce qui concerne les traitements dont il s'agit,
-que le nombre de séances, d'un coefficient total au moins égal à Z 50, ait fait
-l'objet d'un accord préalable de la caisse après avis du contrôle médical ;
+sécurité sociale pour lesquels la participation de l'assuré est fixée à 50 p.
+100 des tarifs servant de base aux remboursement. Elle est également supprimée
+pour le même bénéficiaire, pour les frais de traitements roentgenthérapique,
+curiethérapique ou par les isotopes radioactifs, à la condition, en ce qui
+concerne les traitements dont il s'agit, que le nombre de séances, d'un
+coefficient total au moins égal à Z 50, ait fait l'objet d'un accord préalable
+de la caisse après avis du contrôle médical ;
 
 3°) la participation de l'assuré est supprimée en ce qui concerne les frais de
 fourniture d'appareils d'orthopédie mentionnés au 2° de l'article L. 322-3 ;
