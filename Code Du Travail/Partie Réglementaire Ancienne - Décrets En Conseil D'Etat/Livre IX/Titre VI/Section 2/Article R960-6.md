@@ -1,7 +1,8 @@
 Article R960-6
 ----
 La rémunération due aux stagiaires ayant la qualité de salarié privé d'emploi ou
-de demandeur d'emploi est déterminée dans les conditions ci-après :
+de demandeur d'emploi [*chômeur*] est déterminée, sur une base mensuelle, dans
+les conditions suivantes :
 
 1. La rémunération due aux travailleurs privés d'emploi ayant exercé une
 activité salariée pendant trois mois est établie sur la base du salaire perçu
@@ -20,9 +21,6 @@ emploi est, lorsque l'interruption du travail est antérieure de plus d'un an à
 l'entrée en stage, affecté d'un coefficient de revalorisation correspondant aux
 majorations du salaire minimum de croissance au cours de la période considérée.
 
-2. La rémunération versée au demandeurs d'emploi qui n'entrent pas dans la
-catégorie définie au 1er ci-dessus est calculée en fonction du salaire minimum
-de croissance.
-
-Dans ce cas, le nombre d'heures à retenir pour calculer les sommes dues aux
-stagiaires est celui que détermine l'article L. 212-1.
+2. Les demandeurs d'emploi qui n'entrent pas dans la catégorie définie au 1°
+ci-dessus reçoivent une rémunération déterminée par le décret prévu à l'article
+L. 960-12 (II, 3°).

@@ -15,7 +15,7 @@ Les rémunérations dues aux stagiaires à plein temps sont payées mensuellemen
 ouvrant droit à rémunération à la charge de l'Etat, ces stagiaires perçoivent au
 moins un acompte dont le montant est fixé par décret.
 
-Lorsque le montant de la rémunération est calculé en fonction d'un pourcentage
-du salaire minimum de croissance notifié à l'organisme payeur par le ou les
-ministres compétents, le paiement peut être effectué par cet organisme sous sa
-responsabilité avant réception de la décision susmentionnée.
+Lorsque la rémunération du stagiaire est déterminée par décret en application
+des articles L. 960-3, L. 960-5 et L. 960-6, son paiement peut être opéré, sous
+sa responsabilité, par la personne ou l'organisme mentionné au premier alinéa
+ci-dessus avant réception de la décision mentionnée à l'article R. 960-10.
