@@ -19,3 +19,10 @@ d'appel.
 
 L'arrêté mentionné à l'alinéa précédent désigne le remplaçant du président dans
 le cas où celui-ci se trouverait dans l'impossibilité de poursuivre sa mission.
+
+Des correcteurs adjoints peuvent être désignés par arrêté du vice-président du
+Conseil d'Etat pour participer, avec les membres du jury, à la correction des
+épreuves écrites.
+
+Ces correcteurs assistent aux délibérations du jury avec voix consultative pour
+l'attribution des notes se rapportant aux épreuves qu'ils ont corrigées.
