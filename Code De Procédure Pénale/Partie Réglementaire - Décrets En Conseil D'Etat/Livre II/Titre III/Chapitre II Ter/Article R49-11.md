@@ -12,6 +12,6 @@ verbalisateur dans les délais prévus par l'article 529-8, soit par l'envoi dan
 ces mêmes délais au comptable du Trésor d'un chèque joint à la carte de
 paiement.
 
-Un arrêté du ministre chargé du budget fixe la liste des départements dans
-lesquels les amendes forfaitaires minorées peuvent être acquittées au moyen d'un
-chèque libellé à l'ordre du Trésor public.
+Un arrêté du ministre du budget fixe les conditions dans lesquelles les amendes
+forfaitaires minorées peuvent être acquittées au moyen d'un chèque libellé à
+l'ordre du Trésor public.
