@@ -6,6 +6,5 @@ de garantie du titre des lingots, apprêts ou composants entrant dans leurs
 fabrications, est fixée, par opération, à 250 F pour l'or et le platine et à 100
 F pour l'argent.
 
-La rémunération est perçue par la recette divisionnaire de la garantie et des
-services industriels ; les recettes correspondantes sont comptabilisées aux
-produits divers du budget.
+La rémunération est perçue par les bureaux de douane ; les recettes
+correspondantes sont comptabilisées aux produits divers du budget.
