@@ -1,11 +1,8 @@
 Article R351-20
 ----
-Au vu du dossier transmis par la section locale compétente de l'Agence nationale
-pour l'emploi [*ANPE*], le préfet statue sur proposition du directeur
-départemental du travail et de la main-d'oeuvre sur la demande d'admission à
-l'aide publique.
-
-//DECR.0321 28-03-1977 : Lorsque la demande est présentée par un détenu libéré,
-le préfet doit au préalable se faire communiquer un bulletin n. 2 du casier
-judiciaire de l'intéressé et recueillir l'avis de la commission de l'application
-des peines ou, s'il s'agit d'un prévenu, du ministère public//.
+En cas de fermeture d'un établissement pour mise en congé annuel du personnel,
+les travailleurs qui ne remplissent pas les conditions requises pour bénéficier
+de la totalité de ce congé peuvent prétendre individuellement aux allocations
+pour privation partielle d'emploi, compte tenu des journées ou des indemnités
+compensatrices de congés payés dont ils auraient pu bénéficier pendant la
+période de référence.

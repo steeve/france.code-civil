@@ -1,12 +1,18 @@
 Article R351-18
 ----
-Les opérations de contrôle de la qualité de bénéficiaire de l'aide publique sont
-effectuées par les sections locales de l'Agence nationale pour l'emploi [*ANPE*]
-qui peuvent :
+Les allocations prévues par l'article L. 351-19 sont attribuées par le préfet
+[*autorité compétente*] sur proposition du directeur départemental du travail et
+de l'emploi.
 
-- adresser toute convocation utile aux allocataires ;
+Ces allocations peuvent être attribuées, en cas de réduction ou de suspension
+d'activité imputables à la conjoncture économique, à des difficultés
+d'approvisionnement en matières premières ou en énergie, à un sinistre, à des
+intempéries de caractère exceptionnel, à une transformation, restructuration ou
+modernisation de l'entreprise ou à toute autre circonstance de caractère
+exceptionnel.
 
-- prescrire à ceux-ci de se présenter à des jours et heures déterminés pour
-communication d'offre d'emploi, vérification de la situation d'inactivité ;
-
-- procéder ou faire procéder à des enquêtes.
+Toutefois, ces allocations sont attribuées dans la limite de contingents annuels
+d'heures indemnisables [*condition*] fixés pour les différentes branches
+professionnelles par arrêté du ministre chargé du travail. Cette limite ne peut
+être dépassée que dans des cas exceptionnels par décision conjointe du ministre
+chargé du travail et du ministre chargé du budget.

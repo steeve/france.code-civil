@@ -1,9 +1,6 @@
 Article R351-6
 ----
-Si un allocataire trouve occasionnellement une occupation rémunérée de courte
-durée, il doit en faire la déclaration au chef de la section en précisant le
-montant des rémunérations perçues. Le préfet [*autorité compétente*], sur
-proposition du directeur départemental du travail et de la main-d'oeuvre
-apprécie, d'après la nature et l'importance du travail occasionnel auquel se
-livre l'intéressé, si l'allocataire doit continuer à percevoir les allocations
-d'aide publique.
+Sans préjudice de l'application des dispositions de l'article L. 351-21 (dernier
+alinéa), les agents publics chargés des opérations de contrôle peuvent se faire
+communiquer par l'Agence nationale pour l'emploi tous documents et informations
+nécessaires à l'accomplissement de leur mission de contrôle.

@@ -2,11 +2,10 @@ Article R*431-33
 ----
 La caisse est administrée par un conseil d'administration de neuf membres
 désignés par arrêté du ministre chargé des finances et du ministre chargé de la
-construction et de l'habitation. Ce conseil d'administration comprend :
-[*composition*] - un conseiller d'Etat ou un conseiller maître à la Cour des
-comptes, président ;
+construction et de l'habitation. Ce conseil d'administration comprend
+[*composition*] :
 
-- un inspecteur général des finances ou un inspecteur des finances ;
+- un conseiller général des finances ou un inspecteur des finances ;
 
 - deux représentants du ministre de l'économie et des finances ;
 
@@ -16,12 +15,17 @@ comptes, président ;
 représentant ;
 
 - deux représentants des organismes d'habitations à loyer modéré dont l'un ayant
-la qualité de représentant de collectivités locales. Le conseil d'administration
-délibère notamment sur le budget de la caisse, sur son compte financier ainsi
-que sur ses opérations financières.
+la qualité de représentant de collectivités locales.
+
+- Un représentant des sociétés d'économie mixte suceptibles de bénéficier des
+prêts de la caisse.
+
+Le conseil d'administration délibère notamment sur le budget de la caisse, sur
+son compte financier ainsi que sur ses opérations financières.
 
 Il se réunit au moins deux fois par an sur convocation de son président.
 
 Il peut désigner en son sein une commission permanente comprenant au moins un
-représentant des organismes d'habitations à loyer modéré et lui déléguer une
-partie de ses pouvoirs.
+représentant des organismes d'habitations à loyer modéré et un représentant des
+sociétés d'économie mixte mentionnées à l'alinéa 1er et déléguer à cette
+commission une partie de ses pouvoirs.

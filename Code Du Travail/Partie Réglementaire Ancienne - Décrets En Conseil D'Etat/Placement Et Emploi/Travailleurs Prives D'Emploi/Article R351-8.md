@@ -1,7 +1,4 @@
 Article R351-8
 ----
-Un décret fixe les taux de l'allocation principale d'aide publique et ceux des
-majorations pour personnes ou enfants à charge.
-
-Ce décret peut prévoir des taux majorés pour les trois premiers mois [*période*]
-d'admission à l'aide publique.
+Les maires sont tenus de faciliter aux agents chargés du contrôle
+l'accomplissement des missions prévues à l'article R. 351-5.
