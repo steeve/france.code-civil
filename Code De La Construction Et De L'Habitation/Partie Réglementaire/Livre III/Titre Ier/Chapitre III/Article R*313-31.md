@@ -91,9 +91,9 @@ au c du 2° de l'article R. 313-9 selon les modalités fixées par l'article R.
 313-35.
 
 10° Prêts à des collectivités territoriales en vue de la participation au
-financement d'acquisitions de logements locatifs suivies, le cas échéant, de
-travaux d'amélioration, en application du 3° du premier alinéa de l'article R.
-331-14.
+financement d'opérations de construction, d'acquisition,
+d'acquisition-amélioration ou d'amélioration, en application du 3° du premier
+alinéa de l'article R. 331-14.
 
 11° Prêts à des personnes morales pour le financement d'opérations mentionnées
 au II de l'article R. 313-17 et portant sur des logements occupés ou destinés à
@@ -105,6 +105,15 @@ l'effort de construction.
 
 13° Prêts à d'autres personnes morales pour la réalisation de logements de
 catégorie intermédiaire, mentionnés au d du 2° du I de l'article R. 313-17.
+
+14° Versements au fonds d'intervention de l'Union d'économie sociale du logement
+mentionné à l'article L. 313-20 en application de conventions conclues avec
+l'Etat.
+
+15° Prêt de tout ou partie de la trésorerie au fonds d'intervention de l'Union
+d'économie sociale du logement.
+
+16° Souscription au capital social de l'Union d'économie sociale du logement.
 
 II. - Lorsqu'il s'agit d'opérations d'aménagement de logements destinés à des
 handicapés physiques, la participation peut être investie sous forme de

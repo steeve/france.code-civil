@@ -5,7 +5,7 @@ effectuées par des personnes physiques :
 
 a) D'acquisition et d'aménagement de terrains en vue de la construction de
 logements, à la condition que la construction intervienne dans les délais et
-conditions fixés par l'article 691-II du code général des impôts ;
+conditions fixés par l'article 691 II du code général des impôts ;
 
 b) De construction de logements ;
 
@@ -77,7 +77,7 @@ c) Le financement intervient dans les trois mois suivant l'acquisition.
 B. - La participation des employeurs peut être investie dans l'acquisition, non
 suivie d'amélioration, d'un logement, dans les cas suivants :
 
-1° Lors du transfert de propriété d'un logement dont l'occupant, bénéficiaire de
+1° Lors du transfert de propriété d'un logement dontl'occupant, bénéficiaire de
 l'option d'achat mentionnée au 2° du A ci-dessus, ne s'est pas porté acquéreur ;
 
 2° Lorsque l'acquéreur bénéficie des dispositions des articles L. 443-7 à L.
@@ -90,6 +90,14 @@ lorsque les emprunteurs ont contracté leur prêt avant le 31 janvier 1985 ou
 lorsque qu'ils bénéficient des dispositifs d'aide aux accédants en difficulté
 figurant sur une liste définie par arrêté conjoint des ministres chargés du
 logement et de l'économie.
+
+Dans le cadre de conventions conclues en application du 2° de l'article L.
+313-19, peuvent également être refinancés, en tout ou partie, les prêts accordés
+en application des articles R. 331-32 ou R. 331-63 ou les prêts conventionnés
+garantis par l'Etat en application de l'article R. 312-3-1 ou les prêts
+complémentaires auxdits prêts ou les prêts accompagnant l'avance mentionnée à
+l'article R. 317-1, lorsque l'emprunteur est en situation de déséquilibre
+financier.
 
 V. - Pour l'application du présent article, les plafonds ou les quotités de
 financement, les normes minimales d'habitabilité ainsi que, s'il y a lieu, les
