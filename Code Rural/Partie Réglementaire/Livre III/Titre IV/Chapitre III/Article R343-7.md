@@ -12,10 +12,10 @@ l'installation.
 
 Pour chaque département, ces références et normes sont arrêtées par le préfet de
 région, au vu des propositions du préfet de département après avis de la
-commission mixte départementale, dans les formes et conditions prévues par un
-arrêté ministériel ; les arrêtés sont notifiés en même temps qu'au préfet du
-département au ministre de l'agriculture, qui peut demander un nouvel examen de
-ces références et normes à échéance d'une année.
+commission départementale d'orientation de l'agriculture , dans les formes et
+conditions prévues par un arrêté ministériel ; les arrêtés sont notifiés en même
+temps qu'au préfet du département au ministre de l'agriculture, qui peut
+demander un nouvel examen de ces références et normes à échéance d'une année.
 
 L'arrêté ministériel prévu au précédent alinéa définit les productions pour
 lesquelles les références relèvent d'un agrément ministériel en raison de leur

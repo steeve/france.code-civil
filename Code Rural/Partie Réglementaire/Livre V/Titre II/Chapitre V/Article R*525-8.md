@@ -2,10 +2,10 @@ Article R*525-8
 ----
 La décision de refus d'agrément mentionnée au quatrième alinéa de l'article L.
 525-1 est prise, selon les cas, par le préfet de la région après avis des
-commissions départementales des structures agricoles ou par le préfet du
-département après avis de la commission départementale des structures agricoles.
-La composition et les attributions de ce conseil et de ces commissions font
-l'objet des dispositions du chapitre VIII du présent titre.
+commissions départementales d'orientation de l'agriculture ou par le préfet du
+département après avis de la commission départementale d'orientation de
+l'agriculture. La composition et les attributions de ce conseil et de ces
+commissions font l'objet des dispositions du chapitre VIII du présent titre.
 
 L'agrément ne peut être refusé que dans le cas d'irrégularité des formalités de
 constitution, de maintien de statuts non conformes aux statuts types élaborés

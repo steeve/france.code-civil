@@ -13,8 +13,8 @@ est susceptible de compromettre la structure des exploitations agricoles, elle
 peut demander au préfet du département concerné de proposer la liste des
 communes constituant le périmètre mentionné au 3° de l'article L. 142-5. Le
 préfet constitue cette liste après avis de la chambre d'agriculture et de la
-commission départementale des structures en tenant compte notamment de
-l'importance et de la localisation de l'ouvrage, du nombre et des
+commission départementale d'orientation de l'agriculture en tenant compte
+notamment de l'importance et de la localisation de l'ouvrage, du nombre et des
 caractéristiques des exploitations dont la structure est susceptible d'être
 compromise et de la situation du marché foncier du secteur considéré. Au vu de
 ces propositions, les ministres chargés de l'agriculture, de l'économie et des

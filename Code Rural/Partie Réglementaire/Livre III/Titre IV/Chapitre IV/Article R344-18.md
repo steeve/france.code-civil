@@ -6,5 +6,5 @@ situe le siège de l'exploitation.
 
 L'instruction du dossier est effectuée par un organisme agréé par le préfet, sur
 proposition conjointe de la chambre d'agriculture et des organisations
-professionnelles représentées dans la commission mixte départementale définie à
-l'article R. 344-19.
+syndicales d'exploitants agricoles représentées dans la commission
+départementale d'orientation de l'agriculture définie à l'article R. 313-1.

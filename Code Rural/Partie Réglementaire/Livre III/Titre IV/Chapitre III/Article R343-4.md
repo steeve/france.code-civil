@@ -67,8 +67,8 @@ ou un titre mentionné au 4° ci-dessus dans un délai qui ne peut excéder la d
 de l'étude prévisionnelle d'installation présentée à l'appui de sa demande
 conformément à l'article R. 343-5.
 
-L'avis de la commission mixte départementale porte en particulier sur les
-justifications présentées à l'appui de la demande.
+L'avis de la commission départementale d'orientation de l'agriculture porte en
+particulier sur les justifications présentées à l'appui de la demande.
 
 La moitié de la dotation d'installation mentionnée à l'article R. 343-9 est
 réservée. Cette part conditionnelle est libérée par le préfet lorsque le

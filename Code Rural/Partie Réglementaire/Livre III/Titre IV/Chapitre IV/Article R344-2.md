@@ -86,13 +86,13 @@ ans et en fournir annuellement les résultats au préfet.
 Lorsque le montant total des investissements prévus dans le plan n'excède pas un
 montant fixé par arrêté du ministre de l'agriculture, cette comptabilité peut ne
 comporter, sauf décision contraire du préfet prise après avis de la commission
-mixte définie à l'article R. 344-19, qu'un enregistrement des recettes et des
-dépenses et l'établissement d'un bilan annuel concernant l'état des actifs et
-des passifs de l'exploitation. Dans les autres cas, l'exploitant doit s'engager
-à tenir une comptabilité de gestion. Cette comptabilité de gestion doit
-notamment permettre, lorsque l'exploitation agricole est sélectionnée par le
-réseau d'information comptable agricole, la fourniture de tous les éléments de
-comptabilité nécessaires à ce réseau ;
+départementale d'orientation de l'agriculture définie à l'article R. 313-1,
+qu'un enregistrement des recettes et des dépenses et l'établissement d'un bilan
+annuel concernant l'état des actifs et des passifs de l'exploitation. Dans les
+autres cas, l'exploitant doit s'engager à tenir une comptabilité de gestion.
+Cette comptabilité de gestion doit notamment permettre, lorsque l'exploitation
+agricole est sélectionnée par le réseau d'information comptable agricole, la
+fourniture de tous les éléments de comptabilité nécessaires à ce réseau ;
 
 9° Opter, lorsqu'il n'y est pas déjà assujetti, au 1er janvier suivant
 l'agrément du plan d'amélioration matérielle, pour l'ensemble des activités de
