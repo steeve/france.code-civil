@@ -1,6 +1,6 @@
 Article D242-34
 ----
-Le taux modifié ne peut varier d'une année sur l'autre :
+Le taux notifié ne peut varier d'une année sur l'autre :
 
 1° Soit en augmentation de plus de 33,33 p. 100 si le taux de l'année précédente
 est supérieur à 3, ou de plus d'un point si le taux de l'année précédente est
