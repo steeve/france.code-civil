@@ -14,8 +14,16 @@ président.
 
 Les fonctions d'ordonnateur des dépenses sont exercées par le président qui
 peut, avec l'agrément du bureau, les déléguer à un vice-président. Celles de
-comptable sont exercées par le trésorier qui peut, avec l'agrément du bureau,
-les déléguer au trésorier adjoint.
+comptables sont exercées par le trésorier qui peut, avec l'agrément du bureau,
+les déléguer au trésorier adjoint. Une assemblée générale extraordinaire,
+éventuellement réunie à l'initiative du préfet, procède, si cela se révèle
+nécessaire, à la désignation des membres du bureau appelés à remplacer
+temporairement l'ordonnateur ou le comptable dans le cas où ils se trouveraient
+empêchés d'exercer leurs fonctions. A défaut pour l'assemblée générale d'y avoir
+pourvu, le préfet désigne, parmi les membres de la chambre, les personnes
+appelées à exercer temporairement ces fonctions jusqu'à ce que soit constaté que
+l'empêchement a pris fin ou que l'assemblée générale a régulièrement procédé au
+remplacement de l'ordonnateur ou du comptable empêché.
 
 Les membres du bureau qui se sont abstenus, sans motif légitime, d'assister à
 trois séances consécutives auxquelles ils étaient régulièrement convoqués sont
@@ -27,14 +35,12 @@ sont rééligibles.
 La démission du président ou des autres membres du bureau est adressée au
 préfet. Elle devient définitive par l'acceptation expresse de celui-ci ou, à
 défaut, un mois après un nouvel envoi de la démission par lettre recommandée
-avec demande d'avis de réception.
+avec demande d'avis de réception. Le président et les autres membres du bureau
+peuvent être suspendus ou déclarés démissionnaires d'office par arrêté motivé du
+ministre de l'industrie pour faute grave dans l'exercice de leurs fonctions.
 
-Le président et les autres membres du bureau peuvent être suspendus ou déclarés
-démissionnaires d'office par arrêté motivé du ministre de l'industrie pour faute
-grave dans l'exercice de leurs fonctions.
-
-En cas de décès ou de démission volontaire ou d'office d'un membre du bureau, il
-est pourvu à son remplacement au cours de la première réunion de l'assemblée
+En cas de décès ou de démissions volontaire ou d'office d'un membre du bureau,
+il est pourvu à son remplacement au cours de la première réunion de l'assemblée
 générale de la chambre qui suit la vacance. En cas d'urgence, la chambre peut
 être convoquée extraordinairement par son président, son vice-président ou à
 défaut par le préfet dans le délai d'un mois pour élire le remplaçant.
