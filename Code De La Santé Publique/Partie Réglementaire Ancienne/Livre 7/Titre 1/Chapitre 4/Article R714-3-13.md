@@ -24,9 +24,9 @@ a) En dépenses, selon une présentation identique à celle du budget général.
 
 b) En recettes :
 
-- groupe 1 : forfait global de soins ;
+- groupe 1 : produits afférents aux soins ;
 
-- groupe 2 : forfaits journaliers de soins ;
+- groupe 2 : produits afférents à la dépendance ;
 
 - groupe 3 : produits de l'hébergement ;
 
