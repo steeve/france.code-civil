@@ -21,13 +21,13 @@ Ces taux sont déterminés conformément au barème ci-après :
 
 : : : : :
 
-: Marins (cas général) : 17,70 : 10 : 27,70 :
+: Marins (cas général) : 17,70 : 10,7 : 28,40 :
 
 : : : : :
 
 : Etrangers admis à : : : :
 
-: concourir à pension : 17,70 : 10 : 27,70 :
+: concourir à pension : 17,70 : 10,7 : 28,40 :
 
 : : : : :
 
@@ -47,11 +47,11 @@ Ces taux sont déterminés conformément au barème ci-après :
 
 : à concourir à : : : :
 
-: pension : 27,70 : Néant : 27,70 :
+: pension : 28,40 : Néant : 28,40 :
 
 ============================================================== Lorsqu'il est
 établi, par un rapport de l'autorité consulaire annexé au rôle d'équipage, que
 l'embarquement d'étrangers hors d'un port français a été motivé par l'absence de
 marins français au port d'embarquement, la contribution patronale est ramenée de
-27,70 p. 100 [*pourcentage*] à 17,70 p. 100 jusqu'au jour où le navire touche un
+28,40 p. 100 [*pourcentage*] à 17,70 p. 100 jusqu'au jour où le navire touche un
 port français.
