@@ -4,12 +4,11 @@ Pendant la période qui suit l'expiration du congé de maternité ou d'adoption
 prévu par l'article L. 122-26 ou par une convention ou un accord collectif, tout
 salarié qui justifie d'une ancienneté minimale d'une année à la date de
 naissance de son enfant ou de l'arrivée au foyer d'un enfant de moins de trois
-ans confié en vue de son adoption a le droit, sous réserve des dispositions de
-l'article L. 122-28-4, soit de bénéficier d'un congé parental d'éducation durant
-lequel le contrat de travail est suspendu, soit de réduire sa durée de travail
-d'au moins un cinquième de celle qui est applicable à l'établissement sans que
-cette activité à temps partiel puisse être inférieure à seize heures
-hebdomadaires.
+ans confié en vue de son adoption a le droit soit de bénéficier d'un congé
+parental d'éducation durant lequel le contrat de travail est suspendu, soit de
+réduire sa durée de travail d'au moins un cinquième de celle qui est applicable
+à l'établissement sans que cette activité à temps partiel puisse être inférieure
+à seize heures hebdomadaires.
 
 Le congé parental et la période d'activité à temps partiel prennent fin au plus
 tard au troisième anniversaire de l'enfant ou, en cas d'adoption, à l'expiration
@@ -18,6 +17,12 @@ parental et la période d'activité à temps partiel ont une durée initiale d'u
 au plus ; ils peuvent être prolongés deux fois pour prendre fin au plus tard au
 terme des périodes définies ci-dessus, quelle que soit la date de leur début.
 Cette possibilité est ouverte au père et à la mère, ainsi qu'aux adoptants.
+
+En cas de maladie, d'accident ou de handicap graves de l'enfant appréciés selon
+des modalités définies par décret en Conseil d'Etat, le congé parental et la
+période d'activité à temps partiel prennent fin au plus tard une année après les
+dates limites définies à l'alinéa ci-dessus, quelle que soit la date de leur
+début.
 
 Le salarié doit informer son employeur, par lettre recommandée avec demande
 d'avis de réception, du point de départ et de la durée de la période pendant
