@@ -1,9 +1,15 @@
 Article R351-17-4
 ----
-Sous réserve d'un montant minimal fixé par arrêté conjoint des ministres chargés
-du logement, du budget, de la sécurité sociale et de l'agriculture, la
-participation personnelle du bénéficiaire est obtenue par l'application d'un
-taux de participation aux ressources du bénéficiaire appréciées conformément à
-l'article R. 351-5.
+La participation personnelle est la somme d'une participation minimale et du
+résultat de l'application d'un taux de participation aux ressources du
+bénéficiaire diminuées, dans la limite du montant desdites ressources, d'un
+montant fixé forfaitairement. Ce forfait est calculé, dans les conditions fixées
+par arrêté conjoint des ministres chargés du logement, du budget, de la sécurité
+sociale et de l'agriculture, sur la base du montant mensuel du revenu minimum
+d'insertion, fixé en application de l'article 3 de la loi n° 88-1088 du 1er
+décembre 1988 relative au revenu minimum d'insertion.
 
-Les ressources sont arrondies aux 500 F supérieurs.
+La participation minimale est définie par le même arrêté.
+
+Les ressources sont appréciées conformément à l'article R. 351-5 et arrondies
+aux 500 F supérieurs.
