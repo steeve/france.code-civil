@@ -111,7 +111,8 @@ exploitations minières et assimilées prévu par le décret n. 46-1433 du 14 ju
 1946 modifié, dans les conditions fixées par arrêté du ministre chargé de la
 construction et de l'habitation et du ministre chargé des finances.
 
-12. Versements à l'organisme visé à l'article R. 313-36 (alinéa 2).
+" 12. Versements à l'agence nationale pour la participation des employeurs à
+l'effort de construction. "
 
 13. Prêts à des personnes morales qui réalisent, dans les grandes
 agglomérations, des opérations de logements locatifs à usage d'habitation
