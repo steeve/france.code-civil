@@ -1,8 +1,9 @@
 Article 275 ter
 ----
-Les organismes de contrôle agréés prévus à l'article 530 bis du code général des
-impôts ont en France leur siège social, s'ils ont la forme de personnes morales,
-et leur établissement, s'ils sont des personnes physiques. Ils y disposent des
-moyens d'exécution des opérations de contrôle préalables à la délivrance de la
-garantie publique. Ils sont en mesure d'agir sur tout le territoire national.
-Ils ne peuvent sous-traiter d'activité à l'étranger.
+Les organismes de contrôle mentionnés au II de l'article 535 du code général des
+impôts doivent obtenir un agrément pour pouvoir apposer le poinçon de garantie
+français sur les ouvrages en métaux précieux dépourvus d'un tel poinçon ou d'un
+poinçon de titre apposé dans un autre Etat membre de l'Union européenne, dans un
+autre Etat partie à l'accord instituant l'Espace économique européen ou en
+Turquie, par un organisme indépendant selon des normes offrant des garanties
+suffisantes d'information du consommateur.
