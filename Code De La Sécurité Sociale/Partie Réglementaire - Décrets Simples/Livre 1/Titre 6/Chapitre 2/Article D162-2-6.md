@@ -4,17 +4,15 @@ Le comité économique des produits de santé élabore son règlement intérieur
 secrétariat du comité est placé auprès de la direction de la sécurité sociale.
 
 Le président peut confier l'instruction des dossiers étudiés par le comité à des
-rapporteurs désignés conjointement par les ministres chargés de la sécurité
-sociale, de la santé et de l'économie, sur proposition du comité.
+rapporteurs désignés par le comité.
 
 Les membres du comité économique des produits de santé ainsi que les rapporteurs
 adressent au président du comité une déclaration mentionnant les liens directs
 ou indirects qu'ils peuvent avoir avec les entreprises dont les produits sont
 susceptibles de faire l'objet d'un examen devant le comité ou avec les
 organismes professionnels ou les sociétés de conseil intervenant dans ce
-secteur. Le président et les vice-présidents du comité adressent la même
-déclaration aux ministres chargés de la sécurité sociale, de la santé et de
-l'économie.
+secteur. Le président adresse la même déclaration au ministre chargé de la
+sécurité sociale.
 
 Le président et les vice-présidents du comité, les autres membres et les
 rapporteurs s'engagent à signaler toute modification concernant ces liens. Ces
