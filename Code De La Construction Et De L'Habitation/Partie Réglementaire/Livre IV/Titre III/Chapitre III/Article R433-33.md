@@ -46,3 +46,8 @@ concours aux conditions résultant de ce concours.
 
 La possibilité de recours à cette procédure et les limites et conditions de son
 utilisation doivent être indiqués dans le programme du concours.
+
+Peuvent être traités de gré à gré les travaux dont la valeur n'exèdent pas, pour
+le montant total de l'opération, des seuils fixés par arrêté conjoint du
+ministre chargé des finances et du ministre chargé de la construction et de
+l'habitation
