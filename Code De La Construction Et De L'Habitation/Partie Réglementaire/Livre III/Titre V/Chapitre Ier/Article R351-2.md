@@ -2,20 +2,24 @@ Article R351-2
 ----
 L'aide personnalisée est accordée au propriétaire qui est titulaire de l'un des
 prêts définis par les articles R. 331-32 et suivants et qui supporte les charges
-afférentes à ce prêt [*bénéficiaire*].
+afférentes à ce prêt :
 
-Le droit à l'aide personnalisée est ouvert :
+Sous réserve des dispositions prévues au dernier alinéa de l'article L. 351-3-1,
+le droit à l'aide personnalisée est ouvert :
 
-Soit, si le propriétaire n'occupe pas le logement à la date de signature du
-contrat de prêt, à compter du mois au cours duquel se situe son entrée dans les
-lieux ;
+- soit, si le propriétaire occupe le logement à la date de la première échéance
+due au titre de ce prêt :
 
-Soit, si le propriétaire occupe le logement à la date de signature du contrat de
-prêt, à compter du mois au cours duquel se situe cette date.
+- en cas de périodicité mensuelle, à compter du premier jour du mois civil
+suivant celui de ladite échéance ;
 
-L'aide personnalisée est versée à compter de la première échéance due au titre
-de ce prêt et postérieure à la date d'entrée dans les lieux ou de signature du
-contrat de prêt, si le propriétaire est déjà dans les lieux.
+- en cas de périodicité supérieure au mois, à compter du premier jour du mois
+civil suivant le premier mois de la période couverte par ladite échéance ;
+
+- soit, si le propriétaire n'occupe pas le logement à la date de la première
+échéance due au titre de ce prêt ou si l'entrée dans les lieux se situe au cours
+de la période couverte par ladite échéance, à compter du premier jour du mois
+civil suivant celui au cours duquel se situe l'entrée dans les lieux.
 
 Sont pris en considération pour le calcul de l'aide personnalisée :
 

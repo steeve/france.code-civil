@@ -5,18 +5,23 @@ location-accession lorsque le vendeur est titulaire d'un prêt défini par les
 articles R. 331-59-8 et suivants ou d'un prêt défini par les articles R331-76-1
 et suivants et supporte les charges afférentes à ce prêt [*bénéficiaire*].
 
-Le droit à l'aide personnalisée est ouvert :
+Sous réserve des dispositions prévues au dernier alinéa de l'article L. 351-3-1,
+le droit à l'aide personnalisée est ouvert :
 
-Soit, si l'accédant n'occupe pas le logement à la date de signature du contrat
-de location-accession, à compter du mois au cours duquel se situe son entrée
-dans les lieux ;
+- soit, si l'accédant occupe le logement à la date de la première échéance due
+au titre du contrat de location-accession :
 
-Soit, si l'accédant occupe le logement à la date de signature du contrat de
-location-accession, à compter du mois au cours duquel se situe cette date.
+- en cas de périodicité mensuelle, à compter du premier jour du mois civil
+suivant celui de ladite échéance ;
 
-L'aide personnalisée est versée à compter de la première échéance due au titre
-de ce contrat et postérieure à la date d'entrée dans les lieux ou de signature
-du contrat si l'accédant est déjà dans les lieux.
+- en cas de périodicité supérieure au mois, à compter du premier jour du mois
+civil suivant le premier mois de la période couverte par ladite échéance ;
+
+- soit, si l'accédant n'occupe pas le logement à la date de la première échéance
+due au titre du contrat de location-accession ou si l'entrée dans les lieux se
+situe au cours de la période couverte par ladite échéance, à compter du premier
+jour du mois civil suivant celui au cours duquel se situe l'entrée dans les
+lieux.
 
 Est pris en considération pour le calcul de l'aide personnalisée le montant de
 la redevance telle que définie au premier alinéa de l'article R. 331-59-16 du

@@ -25,9 +25,10 @@ II - Les dépenses sont les suivantes :
 2. Les dépenses de gestion exposées pour liquider et payer les prestations pour
 le compte du fonds national de l'habitation ;
 
-3. Les dépenses du conseil national de l'aide personnalisée au logement ;
+3. Les dépenses du conseil national de l'habitat;
 
-4. Les frais de fonctionnement du fonds national de l'habitation ; 5. Les frais
-de procédure ;
+4. Les frais de fonctionnement du fonds national de l'habitation ;
+
+5. Les frais de procédure ;
 
 6. Les dépenses accidentelles et diverses.

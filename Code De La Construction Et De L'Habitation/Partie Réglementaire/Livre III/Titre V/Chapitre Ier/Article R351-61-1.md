@@ -1,9 +1,11 @@
 Article R351-61-1
 ----
-Pour les logements-foyers de jeunes travailleurs conventionnés à compter de la
-parution du présent décret, en application du 5° de l'article L. 351-2, à
-l'exception de ceux mentionnés aux 2° et 3° de l'article R. 351-56, le
-coefficient K est déterminé par la formule :
+Pour les logements-foyers de jeunes travailleurs conventionnés à compter du 1er
+octobre 1990 et pour les logements-foyers denommés résidences sociales et
+mentionnés aux articles R.331-1 et R.351-55 conventionnés à compter du 1er
+janvier 1995 , en application du 5° de l'article L. 351-2, à l'exception de ceux
+mentionnés aux 2° et 3° de l'article R. 351-56, le coefficient K est déterminé
+par la formule :
 
 " K = 0,9 -( R /(CM X N))
 
@@ -18,4 +20,4 @@ chargés du logement, du budget, de la sécurité sociale et de l'agriculture ;
 1,5 s'il s'agit d'un ménage sans personne à charge, 2,3 si le ménage ou la
 personne isolée a une personne à charge.
 
-" Le coefficient K est arrondi à deux décimales par défaut. "
+Le coefficient K est arrondi à deux décimales par défaut.
