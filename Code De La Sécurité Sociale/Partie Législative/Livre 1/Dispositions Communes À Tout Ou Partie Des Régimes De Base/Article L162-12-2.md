@@ -1,11 +1,12 @@
 Article L162-12-2
 ----
-Les rapports entre les caisses primaires d'assurance maladie et les infirmiers
-sont définis, dans le respect des règles déontologiques fixées par le code de la
+Les rapports entre les organismes d'assurance maladie et les infirmiers sont
+définis, dans le respect des règles déontologiques fixées par le code de la
 santé publique, par une convention nationale conclue pour une durée au plus
 égale à cinq ans entre une ou plusieurs organisations syndicales les plus
 représentatives des infirmiers et la Caisse nationale de l'assurance maladie des
-travailleurs salariés.
+travailleurs salariés et au moins une autre caisse nationale d'assurance
+maladie.
 
 Cette convention détermine notamment :
 
@@ -28,7 +29,6 @@ leur profession et au suivi d'actions de formation ;
 et de ses annexes annuelles ;
 
 5° Les mesures que les partenaires conventionnels jugent appropriées pour
-garantir la qualité des soins infirmiers dispensés aux assurés sociaux.
-
-Les dispositions de l'article L. 162-7 sont applicables à la convention prévue
-par le présent article.
+garantir la qualité des soins infirmiers dispensés aux assurés sociaux et
+notamment la sélection des thèmes des références professionnelles,
+l'opposabilité de ces références et ses conditions d'application.

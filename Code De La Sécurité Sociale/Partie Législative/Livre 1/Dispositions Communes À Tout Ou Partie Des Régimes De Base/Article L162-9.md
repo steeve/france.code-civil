@@ -1,10 +1,11 @@
 Article L162-9
 ----
-Les rapports entre les caisses primaires d'assurance maladie et les
+Les rapports entre les organismes d'assurance maladie et les
 chirurgiens-dentistes, les sages-femmes et les auxiliaires médicaux sont définis
-par des conventions nationales conclues entre la caisse nationale de l'assurance
-maladie des travailleurs salariés et une ou plusieurs des organisations
-syndicales nationales les plus représentatives de chacune de ces professions.
+par des conventions nationales conclues entre la Caisse nationale de l'assurance
+maladie des travailleurs salariés et au moins une autre caisse nationale
+d'assurance maladie et une ou plusieurs des organisations syndicales nationales
+les plus représentatives de chacune de ces professions.
 
 Ces conventions déterminent [*contenu*] :
 
@@ -13,7 +14,23 @@ chirurgiens-dentistes, des sages-femmes et des auxiliaires médicaux ;
 
 2°) les tarifs des honoraires et frais accessoires dus aux
 chirurgiens-dentistes, sages-femmes et auxiliaires médicaux en dehors des cas de
-dépassement autorisés par la convention.
+dépassement autorisés par la convention ;
+
+3°) Les mesures que les partenaires conventionnels jugent appropriées pour
+garantir la qualité des soins dispensés aux assurés sociaux par les
+chirurgiens-dentistes, les sages-femmes ou les auxiliaires médicaux et notamment
+la sélection des thèmes des références professionnelles, l'opposabilité de ces
+références et ses conditions d'application ;
+
+4°) La possibilité de mettre à la charge du chirurgien-dentiste, de la
+sage-femme ou de l'auxiliaire médical qui ne respecte pas les mesures prévues au
+3° du présent article, tout ou partie des cotisations mentionnées aux articles
+L. 722-4 et L. 645-2, ou une partie de la dépense des régimes d'assurance
+maladie, correspondant aux honoraires perçus au titre des soins dispensés dans
+des conditions ne respectant pas ces mesures.
+
+Elles fixent également les modalités d'application du 4°, et notamment les
+conditions dans lesquelles le professionnel concerné présente ses observations.
 
 Elles n'entrent en vigueur lors de leur conclusion ou lors d'une tacite
 reconduction qu'après approbation par arrêtés interministériels ; il en est de

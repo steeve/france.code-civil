@@ -1,5 +1,7 @@
 Article L162-4
 ----
-Les médecins sont tenus, dans toutes leurs prescriptions, d'observer, dans le
-cadre de la législation et de la réglementation en vigueur, la plus stricte
-économie compatible avec l'efficacité du traitement.
+Les médecins qui prescrivent une spécialité pharmaceutique en dehors des
+indications thérapeutiques ouvrant droit au remboursement ou à la prise en
+charge par l'assurance maladie, telles qu'elles figurent sur la liste mentionnée
+à l'article L. 162-17, sont tenus de le signaler sur l'ordonnance, support de la
+prescription.
