@@ -1,11 +1,11 @@
-Article L4253-2
+Article L3231-4-1
 ----
 Les dispositions des deuxième, troisième et quatrième alinéas de l'article L.
-4253-1 ne sont pas applicables aux garanties d'emprunts ou aux cautionnements
-accordés par une région :
+3231-4 ne sont pas applicables aux garanties d'emprunts ou aux cautionnements
+accordés par un département :
 
 1° Pour les opérations de construction, d'acquisition ou d'amélioration de
-logements réalisées par les organismes d'habitations à loyer modéré ou les
+logements réalisés par les organismes d'habitations à loyer modéré ou les
 sociétés d'économie mixte ;
 
 2° Pour les opérations de construction, d'acquisition ou d'amélioration de

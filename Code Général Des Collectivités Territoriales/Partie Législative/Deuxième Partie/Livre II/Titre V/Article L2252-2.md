@@ -1,7 +1,8 @@
 Article L2252-2
 ----
-- Les dispositions de l'article L. 2252-1 ne sont pas applicables aux garanties
-d'emprunts ou aux cautionnements accordés par une commune :
+Les dispositions des deuxième, troisième et quatrième alinéas de l'article L.
+2252-1 ne sont pas applicables aux garanties d'emprunts ou aux cautionnements
+accordés par une commune :
 
 1° Pour les opérations de construction, d'acquisition ou d'amélioration de
 logements réalisées par les organismes d'habitations à loyer modéré ou les

@@ -36,11 +36,14 @@ d'Etat.
 
 Les employeurs qui, en raison de l'accroissement de leur effectif atteignent ou
 dépassent l'effectif de dix salariés, sont dispensés pendant trois ans du
-paiement de la cotisation relative à la participation. Le montant de la
-participation est réduit de 75 p. 100 la quatrième année, de 50 p. 100 la
-cinquième année, de 25 p. 100 la sixième année.
+paiement de la cotisation relative à la participation. Le montant de leur
+participation est réduit de 75 p. 100, 50 p. 100 et 25 p. 100, respectivement
+chacune des trois années suivant la dernière année de dispense. Les employeurs
+qui sont dispensés en 1996 du paiement de la cotisation relative à la
+participation en application du présent alinéa bénéficient de cette dispense
+jusqu'au 31 décembre 1999.
 
-Les dispositions de l'alinéa précédent ne sont applicables pas lorsque
+Les dispositions de l'alinéa précédent ne sont pas applicables lorsque
 l'accroissement de l'effectif résulte de la reprise ou de l'absorption d'une
 entreprise ayant employé dix salariés ou plus au cours de l'une des trois années
 précédentes.

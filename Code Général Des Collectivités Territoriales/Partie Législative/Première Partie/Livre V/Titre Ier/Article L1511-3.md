@@ -10,4 +10,10 @@ charges de rénovation de bâtiments industriels anciens suivant les règles de
 plafond et de zone prévues par le décret mentionné au premier alinéa de
 l'article L. 1511-2.
 
+Les commissions dues par les bénéficiaires de garanties d'emprunt accordées par
+les établissements de crédit peuvent être prises en charge, totalement ou
+partiellement, dans des conditions fixées par décret en Conseil d'Etat. Cette
+aide ne peut pas être cumulée, pour un même emprunt, avec la garantie ou le
+cautionnement accordé par une collectivité ou un groupement. "
+
 Les autres aides indirectes sont libres.

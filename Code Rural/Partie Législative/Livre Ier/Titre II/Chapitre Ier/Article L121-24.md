@@ -1,12 +1,14 @@
 Article L121-24
 ----
-Des parcelles, incluses dans le périmètre d'un aménagement foncier visé aux 1°,
-2°, 5° ou 6° de l'article L. 121-1, d'une superficie inférieure à un seuil fixé
-par la commission départementale d'aménagement foncier par nature de culture
-dans la limite d'un hectare, d'une valeur inférieure au montant fixé à l'article
-704 du code général des impôts et ne faisant pas partie des catégories
-d'immeubles visés aux articles L. 123-2 et L. 123-3, peuvent faire l'objet d'une
-cession à titre onéreux dans les conditions ci-après définies.
+Lorsqu'un propriétaire ne possède, au sein du périmètre d'un aménagement foncier
+visé aux 1°, 2°, 5° ou 6° de l'article L. 121-1, qu'une parcelle ou un ensemble
+de parcelles de même nature de culture d'une superficie totale inférieure à un
+seuil fixé par la commission départementale d'aménagement foncier dans la limite
+d'un hectare et demi et d'une valeur inférieure à 1,5 fois le montant fixé à
+l'article 704 du code général des impôts et que cette parcelle ou cet ensemble
+de parcelles ne fait pas partie des catégories d'immeubles visées aux articles
+L. 123-2 et L. 123-3, ce propriétaire peut vendre cette parcelle ou cet ensemble
+de parcelles dans les conditions définies ci-après.
 
 Le projet de cession, passé par acte sous seing privé, est adressé pour
 autorisation à la commission communale ou intercommunale qui s'assure que la

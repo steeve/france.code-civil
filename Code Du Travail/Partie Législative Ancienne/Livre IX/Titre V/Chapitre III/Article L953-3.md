@@ -1,12 +1,13 @@
 Article L953-3
 ----
-Pour les chefs d'exploitation ou d'entreprise agricoles, la contribution prévue
-à l'article L. 953-1 est calculée en pourcentage des revenus professionnels ou
-de l'assiette forfaitaire déterminés à l'article 1003-12 du code rural. Son taux
-ne peut être inférieur à 0,20 p. 100 pour l'année 1993 et 0,30 p. 100 pour
-l'année 1994, dans la limite d'une somme dont le montant minimal et maximal est
-fixé par décret par référence au montant prévu au troisième alinéa de l'article
-L. 953-1.
+Les chefs d'exploitation et d'entreprise agricoles bénéficient personnellement
+du droit à la formation professionnelle continue. A cette fin, ils consacrent
+chaque année au financement des actions définies à l'article L. 950-1 une
+contribution calculée en pourcentage des revenus professionnels ou de l'assiette
+forfaitaire déterminés à l'article 1003-12 du code rural. Son taux ne peut être
+inférieur à 0,30 p. 100, dans la limite d'une somme dont le montant minimal et
+maximal est fixé par décret par référence au montant annuel du plafond de la
+sécurité sociale.
 
 Pour les conjoints et les membres de la famille des chefs d'exploitation ou
 d'entreprise agricoles, mentionnés à l'article 1122-1 du code rural, la
