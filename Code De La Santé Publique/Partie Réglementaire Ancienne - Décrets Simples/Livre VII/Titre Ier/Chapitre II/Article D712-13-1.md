@@ -7,24 +7,33 @@ discipline en cause, la réduction des moyens d'hospitalisation prévue par
 l'article L. 712-10 est opérée dans les conditions suivantes :
 
 I. - Dans le cas d'une structure pratiquant l'anesthésie ou la chirurgie
-ambulatoires, la réduction s'effectue :
+ambulatoires, la réduction en lits de chirurgie s'effectue :
 
-a) Soit dans le cadre d'un contrat conclu en application de l'article L. 712-4,
-lorsqu'un schéma régional d'organisation sanitaire a été arrêté par le préfet de
-région. Ce contrat précise notamment, outre le nombre de lits de chirurgie
-supprimés, les modalités de compensation des dépenses d'assurance maladie
-afférentes à la structure autorisée et les modalités d'évaluation de son
-activité ;
+a) Soit dans le cadre d'un engagement pris lors du dépôt de la demande
+d'autorisation de maintenir ou de développer une activité de chirurgie
+ambulatoire alternative à l'hospitalisation complète.
 
-b) Soit dans les limites ci-après, qu'il existe ou non un schéma régional
-d'organisation sanitaire ;
+La réduction du nombre de lits est fonction de la proportion de séjours dans la
+structure ambulatoire considérée que le demandeur s'engage à réaliser au titre
+d'une activité de chirurgie ambulatoire alternative à l'hospitalisation
+complète. Les taux de réduction ainsi que les indicateurs retenus pour apprécier
+cette proportion sont fixés par un arrêté du ministre chargé de la santé.
 
-1° Si l'excédent de moyens est inférieur à 25 p. 100 des besoins théoriques de
-la zone sanitaire en chirurgie : fermeture de deux lits de chirurgie à temps
-complet pour la création d'une place d'anesthésie ou de chirurgie ambulatoires ;
+En cas de non-respect de l'engagement, constaté à l'occasion du renouvellement
+de l'autorisation prévu à l'article L. 712-15, une réduction supplémentaire en
+lits de chirurgie est appliquée, correspondant à la différence entre la
+réduction initiale et la réduction qui aurait été exigée à défaut d'engagement,
+dans les conditions prévues ci-dessous.
 
-2° Si l'excédent est supérieur à 25 p. 100 : fermeture de 2,25 lits de chirurgie
-pour la création d'une place.
+b) Soit, en cas d'absence de l'engagement prévu, dans les limites ci-après :
+
+1° Si l'excédent de moyens est inférieur à 25 % des besoins théoriques de la
+zone sanitaire en chirurgie : la réduction est de 3 lits de chirurgie pour la
+création d'une place ;
+
+2° Si l'excédent de moyens est supérieur à 25 % des besoins théoriques de la
+zone sanitaire en chirurgie : la réduction est de 3,25 lits de chirurgie pour la
+création d'une place.
 
 II. - Dans le cas de structures d'hospitalisation à temps partiel ou
 d'hospitalisation à domicile :
