@@ -12,3 +12,7 @@ commune.
 
 Son contrôle et son recouvrement sont effectués selon les règles, sous les
 garanties et sanctions générales prévues en matière de contributions indirectes.
+((Elle n'est pas perçue sur les débits de deuxième catégorie lorsque son montant
+n'excède pas 50 F)) (M).
+
+(M) Modification.

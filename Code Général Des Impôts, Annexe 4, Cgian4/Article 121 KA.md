@@ -7,12 +7,8 @@ sous-préfectures.
 
 Peuvent notamment être timbrés par ce procédé :
 
-1° Les cartes d'identité professionnelle des voyageurs ou représentants de
-commerce [*VRP*] et autres cartes d'identité, les cartes de séjour de
-ressortissant d'un Etat membre de la communauté européenne, les certificats de
-résidence prévus à l'article 7 bis de l'accord du 27 septembre 1968 modifié,
-publié par les décrets n° 69-243 du 18 mars 1969 et n° 86-320 du 7 mars 1986
-(art. 947 et 948 du code général des impôts) ;
+((1° Les cartes d'identité professionnelle des voyageurs ou représentants de
+commerce [*VRP*] (art. 947 du code général des impôts) (M) ;))
 
 2° Les cartes de séjour des étrangers, les cartes spéciales délivrées aux
 étrangers exerçant une profession commerciale industrielle, artisanale ou
@@ -33,3 +29,5 @@ terdecies du code général des impôts) ;
 7° Les certificats d'immatriculation des véhicules automobiles et de tous autres
 véhicules à moteur (cartes grises) (art. 1599 quindecies du code général des
 impôts et art. 339 à 341 de l'annexe II à ce code).
+
+(M) Modification.

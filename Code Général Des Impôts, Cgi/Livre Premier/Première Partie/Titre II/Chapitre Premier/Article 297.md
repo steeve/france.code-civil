@@ -1,7 +1,7 @@
 Article 297
 ----
-I. 1. Dans les départements de Corse, la taxe sur la valeur ajoutée [*TVA*] est
-perçue au taux de :
+I. 1. Dans les départements de Corse, la taxe sur la valeur ajoutée est perçue
+au taux de :
 
 1° O,90 % pour les opérations visées aux articles 281 quater et 281 sexies ;
 
@@ -10,7 +10,7 @@ perçue au taux de :
 Les opérations visées à l'article 278 bis portant sur des produits livrés en
 Corse ;
 
-Les prestations de services visées aux ((a à b nonies de l'article 279)) (M) ;
+Les prestations de services visées aux a à b decies de l'article 279 ;
 
 3° (Disposition devenue sans objet) ;
 
@@ -22,7 +22,7 @@ a. Les travaux immobiliers ainsi que les opérations visées au 7° de l'article
 257 ;
 
 b. Les ventes de matériels agricoles livrés en Corse et dont la liste est fixée
-par arrêté du ministre de l'économie et des finances (1) ;
+par arrêté du ministre de l'économie et des finances ;
 
 c. Les fournitures de logement en meublé ou en garni autres que celles visées au
 a de l'article 279 ;
@@ -39,7 +39,7 @@ a. (Abrogé à compter du 13 avril 1992) ;
 b. Les ventes de produits pétroliers énumérés au tableau B de l'article 265 du
 code des douanes et livrés en Corse ;
 
-7° (Abrogé) (2).
+7° (Abrogé).
 
 8° (Disposition devenue sans objet).
 
@@ -47,17 +47,6 @@ code des douanes et livrés en Corse ;
 intracommunautaires en Corse et aux expéditions de France continentale à
 destination de la Corse, des produits qui sont visés au 1.
 
-II (abrogé) (3).
+II (Abrogé).
 
-III (dispositions périmées).
-
-(M) Modification.
-
-(1) Annexe IV, art. 50 duodecies A.
-
-(2) Abrogation à compter du 13 avril 1992 en ce qui concerne les ventes de
-voitures automobiles conçues pour le transport des personnes immatriculées en
-Corse et à compter du 18 janvier 1993 pour les ventes de tabacs manufacturés).
-
-(3) En ce qui concerne les transports entre la France continentale et la Corse,
-voir article 262 II 11°.
+III (Dispositions périmées).

@@ -8,3 +8,7 @@ articles 1641 à 1644. Il ne peut se cumuler avec la réduction prévue à l'art
 1647 B quinquies.
 
 Seul l'avantage le plus élevé est pris en compte.
+
+La diminution des bases résultant du I du A de l'article 44 de la loi de
+finances pour 1999 (n° 98-1266 du 30 décembre 1998) n'est pas prise en compte
+pour l'application du présent article.

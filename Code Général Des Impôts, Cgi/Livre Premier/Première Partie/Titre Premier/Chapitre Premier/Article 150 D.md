@@ -12,7 +12,7 @@ cession de parts de ces mêmes groupements n'excèdent pas au mètre carré un
 chiffre fixé par décret compte tenu notamment de la nature des cultures. Ce
 chiffre ne peut être inférieur à 26 F pour les vignobles à appellation contrôlée
 et les cultures florales, à 9 F pour les cultures fruitières ou maraîchères et à
-4 F pour les autres terrains agricoles ou forestiers (1) (2);
+4 F pour les autres terrains agricoles ou forestiers (1) (2) ;
 
 3° Aux peuplements forestiers ;
 
@@ -34,8 +34,8 @@ lots remembrés ;
 assujettis à l'impôt sur le revenu.
 
 7° Aux plus-values réalisées lors de la cession de terrains et biens assimilés
-visés à l'article 691 situés dans les départements d'outre-mer, à condition que
-:
+visés au A de l'article 1594-0 G situés dans les départements d'outre-mer, à
+condition que :
 
 a) Le terrain cédé soit destiné à la création d'équipements neufs réalisés dans
 les secteurs d'activité du tourisme et de l'hôtellerie ;

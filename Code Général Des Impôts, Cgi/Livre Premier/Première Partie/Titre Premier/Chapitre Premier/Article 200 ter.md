@@ -16,6 +16,11 @@ enfant et à 1 000 F par enfant à partir du troisième.
 
 Le crédit d'impôt est égal à 15 % du montant de ces dépenses.
 
+((Pour les dépenses payées à compter du 15 octobre 1998, les montants mentionnés
+au deuxième alinéa sont doublés et le pourcentage mentionné au troisième alinéa
+est porté à 20 %. Toutefois, le montant des dépenses ouvrant droit à crédit
+d'impôt en 1998 ne pourra excéder les montants prévus au présent alinéa.)) (M)
+
 Il est accordé sur présentation des factures des entreprises ayant réalisé les
 travaux et mentionnant l'adresse de réalisation des travaux, leur nature et leur
 montant.
@@ -28,3 +33,5 @@ l'impôt dû, l'excédent est restitué.
 
 II. Pour les mêmes travaux, les dispositions du I sont exclusives de
 l'application des dispositions des articles 199 sexies et 199 sexies D.
+
+(M) Modification.

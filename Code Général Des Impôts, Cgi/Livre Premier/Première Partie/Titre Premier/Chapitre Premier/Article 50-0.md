@@ -1,55 +1,98 @@
 Article 50-0
 ----
-1. Les entreprises dont le chiffre d'affaires annuel n'excède pas ((100 000 F))
-(M) (1) (1') hors taxes, ajusté le cas échéant au prorata du temps
-d'exploitation au cours de l'année civile, sont soumises au régime défini au
-présent article pour l'imposition de leurs bénéfices.
+1. Les entreprises dont le chiffre d'affaires annuel, ajusté s'il y a lieu au
+prorata du temps d'exploitation au cours de l'année civile, n'excède pas 500 000
+F hors taxes s'il s'agit d'entreprises dont le commerce principal est de vendre
+des marchandises, objets, fournitures et denrées à emporter ou à consommer sur
+place, ou de fournir le logement, ou 175 000 F hors taxes s'il s'agit d'autres
+entreprises, sont soumises au régime défini au présent article pour l'imposition
+de leurs bénéfices.
 
-Le bénéfice imposable est égal au montant du chiffre d'affaires hors taxes
-diminué d'un abattement de 50 p. 100 qui ne peut être inférieur à 2 000 F.
+Lorsque l'activité d'une entreprise se rattache aux deux catégories définies au
+premier alinéa, le régime défini au présent article n'est applicable que si son
+chiffre d'affaires hors taxes global annuel n'excède pas 500 000 F et si le
+chiffre d'affaires hors taxes annuel afférent aux activités de la 2e catégorie
+ne dépasse pas 175 000 F.
 
-Ce régime demeure applicable pour l'établissement de l'imposition due au titre
-de la première année au cours de laquelle le chiffre d'affaires limite est
-dépassé sans toutefois qu'il excède ((120 000 F)) (M) (1) (1').
+Le résultat imposable, avant prise en compte des plus ou moins-values provenant
+de la cession des biens affectés à l'exploitation, est égal au montant du
+chiffre d'affaires hors taxes diminué d'un abattement de 70 % pour le chiffre
+d'affaires provenant d'activités de la 1re catégorie et d'un abattement de 50 %
+pour le chiffre d'affaires provenant d'activités de la 2e catégorie. Ces
+abattements ne peuvent être inférieurs à 2 000 F.
 
-2. Sont exclus du régime :
+Les plus ou moins-values mentionnées au troisième alinéa sont déterminées et
+imposées dans les conditions prévues aux articles 39 duodecies à 39 quindecies,
+sous réserve des dispositions de l'article 151 septies. Pour l'application de la
+phrase précédente, les abattements mentionnés au troisième alinéa sont réputés
+tenir compte des amortissements pratiqués selon le mode linéaire.
 
-Les personnes morales et opérations visées au 2 de l'article 302 ter ;
+Sous réserve des dispositions du b du 2, ce régime demeure applicable pour
+l'établissement de l'imposition due au titre de la première année au cours de
+laquelle les chiffres d'affaires limites mentionnés aux premier et deuxième
+alinéas sont dépassés. En ce cas, le montant de chiffre d'affaires excédant ces
+limites ne fait l'objet d'aucun abattement.
 
-Les contribuables qui ne bénéficient pas des dispositions des I et II de
+Les dispositions du cinquième alinéa ne sont pas applicables en cas de
+changement d'activité.
+
+2. Sont exclus de ce régime :
+
+a. Les contribuables qui exploitent plusieurs entreprises dont le total des
+chiffres d'affaires excède les limites mentionnées au premier alinéa du 1,
+appréciées, s'il y a lieu, dans les conditions prévues au deuxième alinéa de ce
+même 1 ;
+
+b. Les contribuables qui ne bénéficient pas des dispositions des I et II de
 l'article 293 B. Cette exclusion prend effet à compter du 1er janvier de l'année
-de leur assujettissement à la taxe sur la valeur ajoutée.
+de leur assujettissement à la taxe sur la valeur ajoutée ;
+
+c. Les sociétés ou organismes dont les résultats sont imposés selon le régime
+des sociétés de personnes défini à l'article 8 ;
+
+d. Les personnes morales passibles de l'impôt sur les sociétés ;
+
+e. Les opérations portant sur des immeubles, des fonds de commerce ou des
+actions ou parts de sociétés immobilières et dont les résultats doivent être
+compris dans les bases de l'impôt sur le revenu au titre des bénéfices
+industriels et commerciaux ;
+
+f. Les opérations de location de matériels ou de biens de consommation durable,
+sauf lorsqu'elles présentent un caractère accessoire et connexe pour une
+entreprise industrielle et commerciale ;
+
+g. Les opérations visées au 8° du I de l'article 35.
 
 3. Les contribuables concernés portent directement le montant du chiffre
-d'affaires annuel sur la déclaration prévue à l'article 170.
+d'affaires annuel et des plus ou moins-values réalisées ou subies au cours de
+cette même année sur la déclaration prévue à l'article 170. Ils joignent à cette
+déclaration un état conforme au modèle fourni par l'administration. Un décret en
+Conseil d'Etat précise le contenu de cet état.
 
-4. Les entreprises visées au 1 qui n'ont pas exercé l'option visée au 5 doivent
-tenir et présenter, sur demande de l'administration, un livre mentionnant le
-montant et l'origine des recettes qu'elles perçoivent au titre de leur activité
-professionnelle. Un décret fixe les conditions dans lesquelles ce livre est tenu
-(2).
+4. Les entreprises placées dans le champ d'application du présent article ou
+soumises au titre de l'année 1998 à un régime forfaitaire d'imposition peuvent
+opter pour un régime réel d'imposition. Cette option doit être exercée avant le
+1er février de la première année au titre de laquelle le contribuable souhaite
+bénéficier de ce régime. Toutefois, les entreprises soumises de plein droit à un
+régime réel d'imposition l'année précédant celle au titre de laquelle elles sont
+placées dans le champ d'application du présent article exercent leur option
+l'année suivante, avant le 1er février. Cette dernière option est valable pour
+l'année précédant celle au cours de laquelle elle est exercée. En cas de
+création, l'option peut être exercée sur la déclaration visée au 1° du I de
+l'article 286.
 
-5. Les entreprises placées dans le champ d'application du présent article
-peuvent opter pour le régime forfaitaire prévu à l'article 302 ter dans les
-délais prévus pour le dépôt de la déclaration visée à l'article 302 sexies, ou
-pour le régime simplifié d'imposition prévu à l'article 302 septies A bis. Cette
-dernière option doit être exercée avant le 1er février de la première année au
-titre de laquelle le contribuable souhaite bénéficier de ce régime.
+Les options mentionnées au premier alinéa sont valables cinq ans tant que
+l'entreprise reste de manière continue dans le champ d'application du présent
+article. Elles sont reconduites tacitement par période de cinq ans. Les
+entreprises qui désirent renoncer à leur option pour un régime réel d'imposition
+doivent notifier leur choix à l'administration avant le 1er février de l'année
+suivant la période pour laquelle l'option a été exercée ou reconduite
+tacitement.
 
-Les entreprises dont le chiffre d'affaires d'une année est inférieur à 100 000
-F, qui ont opté au titre de l'année précédente pour l'un des régimes visés à
-l'alinéa ci-dessus, ne peuvent bénéficier du régime défini au présent article.
+5. Les entreprises qui n'ont pas exercé l'option visée au 4 doivent tenir et
+présenter, sur demande de l'administration, un registre récapitulé par année,
+présentant le détail de leurs achats et un livre-journal servi au jour le jour
+et présentant le détail de leurs recettes professionnelles, appuyés des factures
+et de toutes autres pièces justificatives (1).
 
-6. Les dispositions des 1 à 3 et 5 ci-dessus sont applicables pour la
-détermination des bénéfices des années 1992 et suivantes.
-
-(M) Modification de la loi 96-314.
-
-(1) Ces dispositions sont applicables à l'impôt sur le revenu dû au titre de
-1996 et des années suivantes.
-
-(1') [*Cf. Instruction 1997-01-02 3F-1-97, Instructions 1997-01-02 5G-1-97,
-1997-01-02 4Q-1-97*].
-
-(2) Modification de la loi 94-126. Voir l'article 38 C de l'annexe III. [*Cf.
-Instruction 1996-08-20 4G-3-96*].
+(1) Dispositions applicables pour les résultats des années 1999 et suivantes.

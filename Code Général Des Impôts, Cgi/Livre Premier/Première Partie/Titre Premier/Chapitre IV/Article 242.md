@@ -4,7 +4,7 @@ Article 242
 participation et les sociétés de copropriétaires de navires qui n'ont pas opté
 pour le régime fiscal des sociétés de capitaux, sont tenues de fournir à
 l'administration, en même temps que la déclaration annuelle prévue par les
-articles 53 A, 97 et 101, un état indiquant les conditions dans lesquelles leurs
+articles 53 A et 97 un état indiquant les conditions dans lesquelles leurs
 bénéfices sont répartis ou ont été distribués entre les associés et
 coparticipants.
 

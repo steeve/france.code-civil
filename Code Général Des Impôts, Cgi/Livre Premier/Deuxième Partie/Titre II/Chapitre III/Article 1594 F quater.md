@@ -1,12 +1,12 @@
 Article 1594 F quater
 ----
 I. Les conseils généraux peuvent, sur délibération, réduire à 3,60 p. 100 le
-taux de la taxe départementale de publicité foncière ou du droit départemental
-d'enregistrement applicable aux acquisitions d'immeubles ou de fractions
-d'immeubles mentionnés aux articles 710 et 711, situés dans les zones
-d'aménagement du territoire, dans les territoires ruraux de développement
-prioritaire et dans les zones de redynamisation urbaine, définis au premier
-alinéa de l'article 1465 et au I bis de l'article 1466 A, à la condition :
+taux de la taxe de publicité foncière ou du droit d'enregistrement applicable
+aux acquisitions de biens visés aux a et b du premier alinéa de l'article 1594 F
+ter situés dans les zones d'aménagement du territoire, dans les territoires
+ruraux de développement prioritaire et dans les zones de redynamisation urbaine,
+définis au premier alinéa de l'article 1465 et au I bis de l'article 1466 A, à
+la condition :
 
 1) Que l'acquisition résulte d'un changement de domicile ou de résidence de
 l'acquéreur, consécutif au déplacement de l'entreprise avec laquelle il est lié

@@ -30,6 +30,4 @@ immeubles affectés à l'exercice public du culte et des locaux annexes
 nécessaires à cette activité ;
 
 b) Aux travaux immobiliers réalisés par les redevables inscrits au répertoire
-des métiers susceptibles de bénéficier du régime prévu au 3 de l'article 282 du
-code général des impôts ou placés par option sous le régime simplifié
-d'imposition.
+des métiers placés par option sous le régime simplifié d'imposition.

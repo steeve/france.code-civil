@@ -39,8 +39,9 @@ internationale en matière d'impôt sur les revenus ; ce montant est
 éventuellement ventilé comme il est dit au 3° ;
 
 5° Le montant des avoirs fiscaux attachés aux dividendes de sociétés françaises
-dont l'utilisation n'est pas admise en vertu de la limitation prévue aux
-articles 158 bis, troisième alinéa et 209 bis du code général des impôts ;
+dont l'utilisation n'est pas admise en vertu de la limitation prévue au
+troisième alinéa du I de l'article 158 bis et à l'article 209 bis du code
+général des impôts ;
 
 6° La fraction des avoirs fiscaux et crédits d'impôt attachés aux produits
 encaissés par le fonds commun au cours de l'exercice, qui n'a pu être transférée

@@ -6,6 +6,10 @@ date de la transmission, d'après la déclaration détaillée et estimative des
 parties, sans distraction des charges, sauf, en ce qui concerne celles-ci, ce
 qui est dit aux articles 767 et suivants.
 
+Pour les immeubles dont le propriétaire a l'usage à la date de la transmission,
+la valeur vénale réelle mentionnée au premier alinéa est réputée égale à la
+valeur libre de toute occupation.
+
 Néanmoins, si, dans les deux années qui ont précédé ou suivi, soit l'acte de
 donation, soit le point de départ des délais pour souscrire la déclaration de
 succession, les immeubles transmis ont fait l'objet d'une adjudication, soit par

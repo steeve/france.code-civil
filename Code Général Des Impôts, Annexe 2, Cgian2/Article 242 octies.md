@@ -16,12 +16,12 @@ sur la déclaration afférente aux opérations du dernier mois ou du dernier
 trimestre.
 
 Les organismes qui ne réalisent des opérations imposables qu'à titre occasionnel
-sont dispensés de souscrire les déclarations prévues aux 1° et 2° de l'article
-286 du code général des impôts. Ils souscrivent les déclarations prescrites par
-l'article 287 de ce code, dans les trente jours suivant la réalisation des
-opérations imposables, auprès du service des impôts dont dépend leur siège. En
-ce qui concerne les ventes qu'ils consentent à leurs membres, les règles du
-troisième alinéa sont applicables.
+sont dispensés de souscrire les déclarations prévues aux 1° et 2° du I de
+l'article 286 du code général des impôts. Ils souscrivent les déclarations
+prescrites par l'article 287 de ce code, dans les trente jours suivant la
+réalisation des opérations imposables, auprès du service des impôts dont dépend
+leur siège. En ce qui concerne les ventes qu'ils consentent à leurs membres, les
+règles du troisième alinéa sont applicables.
 
 Lorsqu'ils organisent une manifestation de bienfaisance ou de soutien pour
 laquelle ils entendent bénéficier de l'exonération prévue au c du 1° du 7 de

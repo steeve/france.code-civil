@@ -4,14 +4,14 @@ Par l'engagement prévu à l'article 371 X, les ordres et organisations mentionn
 à l'article précité s'obligent notamment à faire à leurs ressortissants les
 recommandations suivantes :
 
-1° Tenir les documents prévus aux articles 99 et 101 bis du code général des
-impôts conformément à l'un des plans comptables professionnels agréés par le
-ministre de l'économie et des finances ;
+1° Tenir les documents prévus à l'article 99 du code général des impôts
+conformément à l'un des plans comptables professionnels agréés par le ministre
+de l'économie et des finances ;
 
-2° En ce qui concerne les adhérents non soumis au secret professionnel ((en
-application des articles 226-13 et 226-14 du code pénal)) (M), mentionner, outre
-les indications prévues par l'article 1649 quater G du code général des impots,
-la nature des prestations fournies ;
+2° En ce qui concerne les adhérents non soumis au secret professionnel en
+application des articles 226-13 et 226-14 du code pénal, mentionner, outre les
+indications prévues par l'article 1649 quater G du code général des impots, la
+nature des prestations fournies ;
 
 3° Accepter le règlement des honoraires par chèques libellés dans tous les cas à
 leur ordre et ne pas endosser ces chèques, sauf pour remise directe à
@@ -28,7 +28,10 @@ des procédures fiscales et du décret n° 72-480 du 12 juin 1972, l'intégralit
 des honoraires effectivement perçus même s'ils ne peuvent que partiellement
 donner lieu à remboursement pour les assurés.
 
-(M) Modification.
+A l'égard des organismes tenus d'établir des relevés récapitulatifs par
+praticien en application de l'article L97 du livre des procédures fiscales, le
+droit de communication ne peut, en ce qui concerne la nature des prestations
+fournies, porter que sur les mentions correspondant à la nomenclature générale
+des actes professionnels.
 
-[*Cf. Ordonnance 96-267 1996-03-28 art. 14, art. 15 JO du 31 mars.*] (1) Annexe
-IV, art. 164 F quaterdecies à 164 F octovicies.
+(1) Annexe IV, art. 164 F quaterdecies à 164 F octovicies.

@@ -4,7 +4,7 @@ Article 48
 le régime fiscal des sociétés de capitaux et les sociétés ou groupements
 exercant une activité libérale non passibles de l'impôt sur les sociétés sont
 tenus de fournir au service des impôts, en même temps que la déclaration
-annuelle prévue aux articles 53 A, 97 ou 101 du code général des impôts, un état
+annuelle prévue aux articles 53 A ou 97 du code général des impôts, un état
 indiquant :
 
 1° Les noms, prénoms et domiciles des associés ;

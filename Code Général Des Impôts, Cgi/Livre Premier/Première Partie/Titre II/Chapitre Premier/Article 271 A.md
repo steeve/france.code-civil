@@ -49,13 +49,13 @@ sur le chiffre d'affaires souscrite au titre des opérations du mois de décembr
 déduction de référence soustrait au 31 décembre 1994 conformément aux règles
 définies aux 1 et 2. La quote-part de la déduction de référence non soustraite
 n'est alors pas convertie en créance et elle n'est plus soumise aux dispositions
-du 2 (1).
+du 2.
 
 Cette créance n'est ni cessible ni négociable ; elle peut toutefois être donnée
 en nantissement ou cédée à titre de garantie dans les conditions prévues par la
 loi n° 81-1 du 2 janvier 1981 facilitant le crédit aux entreprises, modifiée par
-la loi n° 84-46 du 24 janvier 1984 ((modifiée)) (M) relative à l'activité et au
-contrôle de établissements de crédit.
+la loi n° 84-46 du 24 janvier 1984 modifiée relative à l'activité et au contrôle
+de établissements de crédit.
 
 Elle est transférée en cas de fusion, scission, cession d'entreprise ou apport
 partiel d'actif.
@@ -68,7 +68,7 @@ remboursement, de gestion, de transfert et de nantissement des titres. Le
 remboursement des titres intervient à hauteur de 10 p. 100 au minimum pour
 l'année 1994 et pour les années suivantes de 5 p. 100 par an au minimum du
 montant de la créance constatée pour l'ensemble des redevables et dans un délai
-maximal de vingt ans, et en cas de cessation définitive d'activité (2).
+maximal de vingt ans, et en cas de cessation définitive d'activité.
 
 La créance porte intérêt à un taux fixé par arrêté du ministre du budget sans
 que ce taux puisse excéder 4,5 p. 100. Les modalités de paiement de ces intérêts
@@ -83,7 +83,7 @@ est soustraite la déduction de référence. Dans le cas visé au troisième ali
 du 3, ce document mentionne le montant de la déduction de référence soustrait au
 31 décembre 1994. Il est joint à la déclaration de taxes sur le chiffre
 d'affaires comprenant les opérations de décembre 1994 ou du quatrième trimestre
-de l'année 1994. (1)
+de l'année 1994.
 
 Les redevables qui n'ont pas déposé leurs déclarations de taxes sur le chiffre
 d'affaires au titre de la période de référence ou qui n'ont pas déposé le
@@ -96,11 +96,7 @@ sur la valeur ajoutée ne sont pas tenus de soustraire cette déduction de
 référence dans les conditions prévues au 1. Ces redevables adressent cependant
 au service des impôts dont ils relèvent le document prévu au 4.
 
-6. Les dispositions du 1 ne s'appliquent pas aux redevables qui sont placés sous
-le régime d'imposition du forfait. Le forfait de la taxe sur la valeur ajoutée
-fixé au titre de 1993 tient compte d'un complément de taxe déductible égal à un
-douzième de la taxe grevant les services et les biens ne constituant pas des
-immobilisations acquis au cours de cette année.
+6. (abrogé).
 
 7. Les dispositions du 1 ne s'appliquent pas non plus aux redevables qui
 relèvent du régime simplifié d'imposition. Le complément de taxe déductible
@@ -172,10 +168,3 @@ peuvent être rectifiées du fait de la prescription.
 s'appliquent aux achats, acquisitions intracommunautaires, importations,
 livraisons de biens et services pour lesquels le droit à déduction a pris
 naissance après le 30 juin 1993.
-
-(1) Cf. Instruction 1995-01-11 3D-2-95.
-
-(M) Modification.
-
-(2) Cf. Arrêté 1994-04-13 JORF 23 avril 1994, Décret 94-296 1994-04-06 JORF 16
-avril 1994.

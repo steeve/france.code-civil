@@ -13,4 +13,4 @@ s'appliquent qu'à la fraction du retrait ou de l'arrérage de pension qui
 bénéficie des abattements prévus au a du 5 de l'article 158 ; la fraction de
 prélèvement qui correspond à la partie du retrait ou de l'arrérage de pension
 qui ne bénéficie pas de ces abattements constitue un crédit d'impôt régi par les
-dispositions des deux derniers alinéas de l'article 158 bis.
+dispositions des deux derniers alinéas du I de l'article 158 bis.

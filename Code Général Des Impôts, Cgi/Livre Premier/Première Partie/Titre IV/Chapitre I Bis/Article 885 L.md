@@ -7,4 +7,6 @@ Ne sont pas considérées comme placements financiers les actions ou parts
 détenues par ces personnes dans une société ou personne morale dont l'actif est
 principalement constitué d'immeubles ou de droits immobiliers situés sur le
 territoire français, et ce à proportion de la valeur de ces biens par rapport à
-l'actif total de la société.
+l'actif total de la société. Il en est de même pour les actions, parts ou droits
+détenus par ces personnes dans les personnes morales ou organismes mentionnés au
+deuxième alinéa du 2° de l'article 750 ter.

@@ -5,8 +5,7 @@ La direction générale des douanes et droits indirects reçoit :
 1° La déclaration et les renseignements mentionnés à l'article 303 du code
 général des impôts ;
 
-2° La déclaration prévue à l'article 344 ter du code général des impôts et
-exerce les compétences prévues à cet article ;
+2° (Sans objet) (M) ;
 
 3° Les déclarations prévues au premier alinéa de l'article 413 et au deuxième
 alinéa de l'article 481 du code général des impôts ainsi qu'aux articles 312,

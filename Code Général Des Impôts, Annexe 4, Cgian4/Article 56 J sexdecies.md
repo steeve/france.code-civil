@@ -21,9 +21,9 @@ des ouvrages et des matières confiées telle qu'énoncée à l'article 56 J
 quindecies ;
 
 b. Ou une comptabilité conforme, suivant le cas, aux prescriptions des articles
-8 à 11 du code de commerce ou aux spécifications du 3° de l'article 286 du code
-général des impôts si les documents prévus à cet article sont accompagnés de
-fiches de stock ou d'un inventaire permanent ;
+8 à 11 du code de commerce ou aux spécifications du 3° du I de l'article 286 du
+code général des impôts si les documents prévus à cet article sont accompagnés
+de fiches de stock ou d'un inventaire permanent ;
 
 c. Ou un registre établi au moyen d'un logiciel assurant une gestion permanente
 des stocks, par référence de produits, permettant l'identification des ouvrages
@@ -37,7 +37,7 @@ compétente ;
 b. Ou le registre prévu à l'article 321-7 du code pénal sur lequel les ouvrages
 contenant des métaux précieux doivent être portés individuellement, quelle que
 soit leur valeur, avec une encre de couleur différente de celle utilisée pour
-les autres objets (1) ;
+les autres objets ;
 
 c. Ou le registre établi au moyen du logiciel assurant la gestion permanente des
 stocks prévu au c du 1 du présent article, sous réserve que les enregistrements
@@ -52,5 +52,3 @@ Outre les mentions énoncées à l'article 56 J quindecies, le registre doit
 comporter, pour chacun des ouvrages d'occasion en métal précieux acheté, confié
 pour la vente ou mis en dépôt, l'indication de sa provenance ainsi que de sa
 date d'entrée et de sortie.
-
-(1) Cf. Ordonnance 96-267 1996-03-28 art. 14, art. 15 JO du 31 mars.

@@ -6,11 +6,7 @@ dont le défunt a disposé pendant l'année de son décès et des bénéfices
 industriels et commerciaux réalisés depuis la fin du dernier exercice taxé.
 L'impôt porte également sur les revenus dont la distribution ou le versement
 résulte du décès, s'ils n'ont pas été précédemment imposés et sur ceux que le
-défunt a acquis sans avoir la disposition antérieurement à son décès. En ce qui
-concerne les revenus évalués forfaitairement, il est fait application, s'il y a
-lieu, des dispositions des premier et deuxième alinéas de l'article 201 ; le
-montant du bénéfice forfaitaire retenu est réduit au prorata du temps
-effectivement écoulé entre le 1er janvier et la date du décès.
+défunt a acquis sans avoir la disposition antérieurement à son décès.
 
 Toutefois, les revenus dont la disposition résulte du décès ou que le défunt a
 acquis sans en avoir la disposition avant son décès font l'objet d'une

@@ -4,7 +4,7 @@ Les échanges de biens immeubles sont assujettis à une taxe de publicité fonci
 ou à un droit d'enregistrement de 8,60 %.
 
 La taxe ou le droit sont perçus sur la valeur d'une des parts lorsqu'il n'y a
-aucun retour. S'il y a retour, la taxe, ou le droit, est payée à raison de 8,60
+aucun retour. S'il y a retour, la taxe, ou le droit, est payée à raison de 4,80
 % sur la moindre portion, et comme pour vente sur le retour ou la plus-value.
 Les retours sont assujettis à l'imposition prévue à l'article 683.
 

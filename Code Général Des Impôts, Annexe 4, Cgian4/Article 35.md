@@ -1,6 +1,6 @@
 Article 35
 ----
-Les déclarations prévues aux 1° et 2° de l'article 286 du code général des
+Les déclarations prévues aux 1° et 2° du I de l'article 286 du code général des
 impôts doivent être souscrites par les redevables de la taxe sur la valeur
 ajoutée lors de toute modification substantielle des conditions d'exercice de
 leur activité.

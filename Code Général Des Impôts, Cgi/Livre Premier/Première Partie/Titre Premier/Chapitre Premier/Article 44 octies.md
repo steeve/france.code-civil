@@ -25,9 +25,8 @@ prime d'aménagement du territoire.
 
 II. Le bénéfice exonéré au titre d'un exercice ou d'une année d'imposition est
 celui déclaré selon les modalités prévues aux articles 50-0, 53 A, 96 à 100, 102
-ter et 103, ou fixé conformément à l'article 50, ou évalué conformément aux
-articles 101, 101 bis et 102, diminué des produits bruts ci-après qui restent
-imposables dans les conditions de droit commun :
+ter et 103, diminué des produits bruts ci-après qui restent imposables dans les
+conditions de droit commun :
 
 a) produits des actions ou parts de sociétés, résultats de sociétés ou
 organismes soumis au régime prévu à l'article 8, lorsqu'ils ne proviennent pas
@@ -39,8 +38,8 @@ b) produits correspondant aux subventions, libéralités et abandons de créance
 c) produits de créances et d'opérations financières pour le montant qui excède
 le montant des frais financiers engagés au cours du même exercice ou de la même
 année d'imposition, si le contribuable n'est pas un établissement de crédit visé
-à l'article 1er de la loi n° 84-46 du 24 janvier 1984 relative à l'activité et
-au contrôle des établissements de crédit ;
+à l'article 1er de la loi n° 84-46 du 24 janvier 1984 ((modifiée)) (M) relative
+à l'activité et au contrôle des établissements de crédit ;
 
 d) produits tirés des droits de la propriété industrielle et commerciale,
 lorsque ces droits n'ont pas leur origine dans l'activité exercée dans l'une des
@@ -84,8 +83,9 @@ régime prévu à l'article 44 sexies et du régime prévu au présent article, 
 contribuable peut opter pour ce dernier régime dans les six mois qui suivent
 celui de la délimitation de la zone s'il y exerce déjà son activité ou, dans le
 cas contraire, dans les six mois suivant celui du début d'activité. L'option est
-irrévocable (1). IV. Les obligations déclaratives des personnes et organismes
-concernés par l'exonération sont fixées par décret.
+irrévocable.
 
-(1) Les obligations déclaratives des personnes et organismes concernés par les
-exonérations prévues au présent article sont fixées par décret.
+IV. Les obligations déclaratives des personnes et organismes concernés par
+l'exonération sont fixées par décret.
+
+(M) Modification.

@@ -26,35 +26,13 @@ exploitations ;
 - lorsqu'il s'agit de la cessation d'entreprises, du jour de la fermeture
 définitive des établissements.
 
-2. Pour les contribuables soumis au régime du forfait qui cessent leur activité
-au cours de la première année de la période biennale ou, en cas de reconduction
-tacite, au cours de l'année suivant celle couverte par cette reconduction, le
-forfait de bénéfice est obligatoirement fixé au montant du forfait établi pour
-l'année précédente, ajusté au prorata du temps écoulé du 1er janvier jusqu'au
-jour où la cessation est devenue effective.
+2. (abrogé).
 
-Lorsque la cessation intervient au cours de la deuxième année de la période
-biennale, le forfait de bénéfice à retenir est celui qui est fixé pour l'année
-considérée, réduit au prorata du temps écoulé dans les conditions visées à
-l'alinéa précédent.
-
-Lorsque la cession ou la cessation du fonds intervient moins de cinq ans après
-la création ou l'acquisition de ce dernier, le bénéfice restant à taxer est
-augmenté, le cas échéant, du montant des plus-values provenant de la cession des
-stocks. Les plus-values provenant de la cession des éléments de l'actif
-immobilisé sont imposées dans les conditions prévues à l'article 151 septies.
-
-Pour l'application de cette disposition, les redevables de cette catégorie sont
+3. Les contribuables ((assujettis à un régime réel d'imposition)) (M) (1) sont
 tenus de faire parvenir à l'administration, dans le délai de soixante jours
 déterminé comme indiqué au 1, outre les renseignements visés audit paragraphe,
-une déclaration indiquant le montant net des plus-values visées à l'alinéa
-précédent et de produire, à l'appui de cette déclaration, toutes justifications
-utiles.
-
-3. Les contribuables non assujettis au forfait sont tenus de faire parvenir à
-l'administration, dans le délai de soixante jours déterminé comme indiqué au 1,
-outre les renseignements visés audit paragraphe, la déclaration de leur bénéfice
-réel accompagnée d'un résumé de leur compte de résultat.
+la déclaration de leur bénéfice réel accompagnée d'un résumé de leur compte de
+résultat.
 
 Pour la détermination du bénéfice réel, il est fait application des dispositions
 des articles 39 duodecies, 39 terdecies 1 et 2, et 39 quaterdecies à 39
@@ -67,7 +45,17 @@ bénéfice réel les justifications nécessaires, ils s'abstiennent de les donne
 dans les trente jours qui suivent la réception de l'avis qui leur est adressé à
 cet effet, les bases d'imposition sont arrêtées d'office.
 
-4. A l'exception des troisième et quatrième alinéas du 2, les dispositions du
-présent article sont applicables dans le cas de décès de l'exploitant. Dans ce
-cas, les ayants droit du défunt doivent produire les renseignements nécessaires
-pour l'établissement de l'impôt dans les six mois de la date du décès.
+((3 bis. Les contribuables soumis au régime défini à l'article 50-0 qui cessent
+leur activité en cours d'année sont tenus de faire parvenir à l'administration,
+dans le délai de soixante jours déterminé comme indiqué au 1, la déclaration et
+l'état mentionnés au 3 de l'article 50-0)) (M) (1).
+
+4. Les dispositions du présent article sont applicables dans le cas de décès de
+l'exploitant. Dans ce cas, les ayants droit du défunt doivent produire les
+renseignements nécessaires pour l'établissement de l'impôt dans les six mois de
+la date du décès.
+
+(M) Modification.
+
+(1) Ces dispositions sont applicables pour la détermination des résultats des
+années 1999 et suivantes.

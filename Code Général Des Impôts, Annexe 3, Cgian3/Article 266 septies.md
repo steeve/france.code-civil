@@ -1,10 +1,9 @@
 Article 266 septies
 ----
-I. Le bénéfice de la réduction à 3,60 p. 100 du taux de la taxe départementale
-de publicité foncière ou du droit départemental d'enregistrement, prévue au I de
-l'article 1594 F quater du code général des impôts, est subordonné, lors de la
-présentation de l'acte d'acquisition à la formalité de l'enregistrement, à la
-production :
+I. Le bénéfice de la réduction à 3,60 p. 100 du taux de la taxe de publicité
+foncière ou du droit d'enregistrement, prévue au I de l'article 1594 F quater du
+code général des impôts, est subordonné, lors de la présentation de l'acte
+d'acquisition à la formalité de l'enregistrement, à la production :
 
 1. D'un document établi par l'employeur de l'acquéreur attestant :
 

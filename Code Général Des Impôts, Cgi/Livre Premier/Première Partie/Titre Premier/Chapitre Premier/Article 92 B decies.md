@@ -25,9 +25,9 @@ fonctions énumérées au 1° de l'article 885 O bis ;
 
 b) Le produit de la cession doit être investi dans la souscription en numéraire
 au capital initial ou dans l'augmentation de capital en numéraire d'une société
-créée depuis moins de sept ans à la date de l'apport. Les droits sociaux émis en
-contrepartie de l'apport doivent être intégralement libérés lors de leur
-souscription ;
+créée depuis moins de ((quinze ans)) (M) à la date de l'apport. Les droits
+sociaux émis en contrepartie de l'apport doivent être intégralement libérés lors
+de leur souscription ;
 
 c) La société bénéficiaire de l'apport doit exercer une activité autre que
 celles mentionnées au deuxième alinéa du 2 du I de l'article 44 sexies et, sans
@@ -85,3 +85,5 @@ lors de cet échange soit elle-même reportée.
 
 7. Un décret précise les modalités d'application du présent article, notamment
 les obligations déclaratives des contribuables.
+
+(M) Modification. Cette modification s'applique à compter du 1er septembre 1998.

@@ -22,7 +22,8 @@ titulaire de la charge ou de l'office ou du jour de la cessation effective si
 elle est postérieure à cette publication.
 
 2. Les contribuables sont tenus de faire parvenir à l'administration dans le
-délai prévu au 1, la déclaration visée à l'article 97 ou à l'article 101.
+délai prévu au 1 la déclaration visée à l'article 97 ou au 2 de l'article 102
+ter (1).
 
 Si les contribuables ne produisent pas la déclaration visée au premier alinéa,
 les bases d'imposition sont arrêtées d'office.
@@ -32,6 +33,7 @@ contribuable. Dans ce cas, les renseignements nécessaires pour l'établissement
 de l'impôt sont produits par les ayants droit du défunt dans les six mois de la
 date du décès.
 
-((4. Transféré sous l'article 1663 bis)) (M).
+4. Transféré sous l'article 1663 bis.
 
-(M) Modification.
+(1) Ces dispositions sont applicables pour la détermination des résultats des
+années 1999 et suivantes.

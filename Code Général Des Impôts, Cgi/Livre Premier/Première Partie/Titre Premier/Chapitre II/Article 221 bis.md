@@ -13,7 +13,10 @@ Toutefois, les plus-values dégagées à l'occasion de la cession de tout ou par
 des éléments de l'actif immobilisé existant à la date de la transformation, dans
 la mesure où elles étaient acquises à cette date par le ou les éléments cédés,
 sont imposables dans les conditions prévues aux articles 39 duodecies, 39
-terdecies-1, 39 quaterdecies et 39 quindecies, si, au moment de la cession, les
-recettes de cette société n'excèdent pas le double de la limite du forfait ou de
-l'évaluation administrative. En ce cas, les dispositions de l'article 151
-septies ne sont pas applicables.
+terdecies 1, 39 quaterdecies et 39 quindecies, si, au moment de la cession, les
+recettes de cette société n'excèdent pas le double de la limite du forfait
+((prévu aux articles 64 à 65 A ou des régimes définis aux articles 50-0 et 102
+ter, appréciée toutes taxes comprises)) (M). En ce cas, les dispositions de
+l'article 151 septies ne sont pas applicables.
+
+(M) Modification.

@@ -1,10 +1,8 @@
 Article 683
 ----
-I. Les adjudications, ventes, reventes, cessions, rétrocessions et tous autres
-actes civils et judiciaires translatifs de propriété ou d'usufruit de biens
-immeubles à titre onéreux sont assujettis à une taxe de publicité foncière ou à
-un droit d'enregistrement de 13,80 %, sous réserve des dispositions de l'article
-1594 D.
+I. Les actes civils et judiciaires translatifs de propriété ou d'usufruit de
+biens immeubles à titre onéreux sont assujettis à une taxe de publicité foncière
+ou à un droit d'enregistrement au taux prévu à l'article 1594 D.
 
 La taxe ou le droit sont liquidés sur le prix exprimé, en y ajoutant toutes les
 charges en capital ainsi que toutes les indemnités stipulées au profit du

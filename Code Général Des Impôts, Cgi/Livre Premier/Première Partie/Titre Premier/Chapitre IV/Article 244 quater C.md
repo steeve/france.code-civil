@@ -13,7 +13,7 @@ de même nature exposées au cours de l'année précédente, revalorisées en fo
 de l'évolution des rémunérations, au sens du 1 de l'article 231, versées par
 l'entreprise ;
 
-b) (Abrogé par la loi 96-314.
+b) (Abrogé).
 
 c) Et du produit de la somme de 3.000 F par la différence entre le nombre
 d'élèves accueillis dans l'entreprise au cours de l'année et celui de l'année
@@ -76,15 +76,21 @@ qui n'en ont jamais bénéficié, sur option irrévocable jusq'au terme de cette
 période. L'option doit être exercée au titre de 1994, au titre de l'année de
 création de l'entreprise, ou au titre de la première année au cours de laquelle
 elle réalise ses premières dépenses de formation éligibles au crédit d'impôt
-formation (1).
+formation.
 
 IV bis. Les entreprises doivent joindre à leur déclaration de résultats une
 attestation visée par l'inspection de l'éducation nationale ou l'inspection de
 l'enseignement agricole qui précise pour chaque élève accueilli l'établissement
 scolaire et la durée de la formation au cours de l'année.
 
-V. Un décret fixe les conditions d'application du présent article (2).
+((IV 0 bis. Les dispositions du présent article s'appliquent également aux
+dépenses de formation exposées au cours des années 1999 à 2001 par les
+entreprises qui ont fait application du crédit d'impôt formation au titre de
+l'année 1998 ou par celles qui n'en ont jamais bénéficié, sur option irrévocable
+jusqu'au terme de cette période. L'option doit être exercée au titre de 1999 ou
+au titre de la première année au cours de laquelle l'entreprise réalise ses
+premières dépenses de formation éligibles au crédit d'impôt formation.)) (M)
 
-(1) Voir CGI, législation applicable au 15 juin 1990.
+V. Un décret fixe les conditions d'application du présent article.
 
-(2) Voir annexe 3, art. 49 septies P à 49 septies U.
+(M) Modification.

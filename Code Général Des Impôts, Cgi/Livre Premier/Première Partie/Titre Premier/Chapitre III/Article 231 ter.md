@@ -1,74 +1,128 @@
 Article 231 ter
 ----
-I. Il est perçu à compter du 1er janvier 1990 dans la région Ile-de-France
-définie par l'article 1er de la loi n° 76-394 du 6 mai 1976 portant création et
-organisation de la région d'Ile-de-France, une taxe annuelle sur les locaux à
-usage de bureaux (0).
+I. - Une taxe annuelle sur les locaux à usage de bureaux, les locaux commerciaux
+et les locaux de stockage est perçue, dans les limites territoriales de la
+région d'Ile-de-France, composée de Paris et des départements de l'Essonne, des
+Hauts-de-Seine, de la Seine-et-Marne, de la Seine-Saint-Denis, du Val-de-Marne,
+du Val-d'Oise et des Yvelines.
 
-II. Les locaux à usage de bureaux s'entendent des locaux commerciaux ou à usage
-professionnel ainsi que des locaux utilisés par les administrations publiques à
-l'exception, d'une part, des magasins, boutiques, ateliers, hangars, garages et
-locaux de stockage et, d'autre part, des locaux spécialement aménagés pour
-l'exercice d'une activité de caractère sanitaire, social, éducatif, sportif ou
-culturel.
+II. - Sont soumises à la taxe les personnes privées ou publiques qui sont
+propriétaires de locaux imposables ou titulaires d'un droit réel portant sur de
+tels locaux.
 
-III. Sont exonérés de la taxe les locaux appartenant aux fondations et aux
-associations, reconnues d'utilité publique, dans lesquels elles exercent leur
-activité.
+La taxe est acquittée par le propriétaire, l'usufruitier, le preneur à bail à
+construction, l'emphytéote ou le titulaire d'une autorisation d'occupation
+temporaire du domaine public constitutive d'un droit réel qui dispose, au 1er
+janvier de l'année d'imposition, d'un local taxable.
 
-Les locaux d'une superficie totale inférieure à 100 mètres carrés sont exonérés
-de la taxe. Pour l'application de cette disposition, il est tenu compte de tous
-les locaux à usage de bureaux qu'un propriétaire possède à une même adresse ou,
-en cas de pluralité d'adresses, dans un même groupement topographique.
+III. - La taxe est due :
 
-IV. La taxe est due par les personnes privées ou publique qui, au 1er janvier de
-l'année d'imposition, sont propriétaires de locaux imposables.
+1° Pour les locaux à usage de bureaux, qui s'entendent, d'une part, des bureaux
+proprement dits et de leurs dépendances immédiates et indispensables destinés à
+l'exercice d'une activité, de quelque nature que ce soit, par des personnes
+physiques ou morales privées, ou utilisés par l'Etat, les collectivités
+territoriales, les établissements ou organismes publics et les organismes
+professionnels, et, d'autre part, des locaux professionnels destinés à
+l'exercice d'activités libérales ou utilisés par des associations ou organismes
+privés poursuivant ou non un but lucratif ;
 
-V. Les tarifs de la taxe sont fixés à :
+2° Pour les locaux commerciaux, qui s'entendent des locaux destinés à l'exercice
+d'une activité de commerce de détail ou de gros et de prestations de services à
+caractère commercial ou artisanal ainsi que de leurs réserves attenantes
+couvertes ou non et des emplacements attenants affectés en permanence à la vente
+;
 
-1° 60 F par mètre carré dans les 1er, 2e, 3e, 4e, 6e, 7e, 8e, 9e, 14e, 15e, 16e
-et 17e arrondissements de Paris et dans les arrondissements de Nanterre et de
-Boulogne-Billancourt du département des Hauts-de-Seine (1) ;
+3° Pour les locaux de stockage, qui s'entendent des locaux ou aires couvertes
+destinés à l'entreposage de produits, de marchandises ou de biens et qui ne sont
+pas intégrés topographiquement à un établissement de production.
 
-2° 36 F par mètre carré dans les autres arrondissements de Paris, dans
-l'arrondissement d'Antony, du département des Hauts-de-Seine ainsi que dans les
-départements de Seine-Saint-Denis et du Val-de-Marne (2) ;
+IV. - Pour le calcul des surfaces visées au 3° du V et au VI, il est tenu compte
+de tous les locaux de même nature, hors parties communes, qu'une personne privée
+ou publique possède à une même adresse ou, en cas de pluralité d'adresses, dans
+un même groupement topographique.
 
-3° 18 F par mètre carré dans les départements de Seine-et-Marne des Yvelines, de
-l'Essonne et du Val-d'Oise (3).
+V. - Sont exonérés de la taxe :
 
-Les limites des circonscriptions visées aux 1°, 2° et 3° ci-dessus sont celles
-qui existent à la date de promulgation de ((la loi de finances rectificative
-pour 1989 (n° 89-936 du 29 décembre 1989)) (M)
+1° Les locaux à usage de bureaux, les locaux commerciaux et les locaux de
+stockage, situés dans une zone de redynamisation urbaine ou dans une zone
+franche urbaine, telle que définie par les A et B du 3 de l'article 42 de la loi
+n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement
+du territoire ;
 
-Toutefois, le tarif de la taxe est fixé à respectivement 30 F, 22 F et 16 F par
-mètre carré pour les circonscriptions définies aux 1°, 2° et 3° du présent
-article pour les locaux dont les collectivités publiques et leurs établissements
-publics sans caractère industriel ou commercial, les organismes sans but
-lucratif à caractère sanitaire, social, éducatif, sportif ou culturel ou les
-organismes professionnels sont propriétaires et dans lesquels ils exercent leur
-activité (4).
+2° Les locaux appartenant aux fondations et aux associations, reconnues
+d'utilité publique, dans lesquels elles exercent leur activité, ainsi que les
+locaux spécialement aménagés pour l'archivage administratif et pour l'exercice
+d'activités de recherche ou à caractère sanitaire, social, éducatif ou culturel
+;
 
-Les tarifs sont révisés chaque année en fonction de l'évolution annuelle de
-l'indice du coût de la construction.
+3° Les locaux à usage de bureaux d'une superficie inférieure à 100 mètres
+carrés, les locaux commerciaux d'une superficie inférieure à 2 500 mètres
+carrés, les locaux de stockage d'une superficie inférieure à 5 000 mètres carrés
+;
 
-VI. Les redevables sont tenus de déposer une déclaration accompagnée du paiement
-de l'impôt, avant le 1er mars de chaque année, auprès du comptable du Trésor du
-lieu de situation des locaux imposables.
+4° Les locaux de stockage appartenant aux sociétés coopératives agricoles ou à
+leurs unions.
 
-VII. 1 Le contrôle, le recouvrement, le contentieux, les garantie et les
-sanctions relatifs à cette taxe sont régis par les règles applicables en matière
-de taxe sur les salaires.
+VI. - Les tarifs sont applicables dans les conditions suivantes :
 
-2 Le privilège prévu au 1° du 2 de l'article 1920 peut être exercé pour le
-recouvrement de la taxe annuelle sur les locaux à usage de bureaux.
+1. a. Pour les locaux à usage de bureaux, un tarif distinct au mètre carré est
+appliqué par circonscription, telle que définie ci-après :
 
-(1) 61,50 F pour 1995, arrêté du 19 décembre 1994, JO du 22).
+1°) première circonscription : 1er, 2e, 3e, 4e, 6e, 7e, 8e, 9e, 14e, 15e, 16e,
+17e arrondissements de Paris et arrondissements de Nanterre et de
+Boulogne-Billancourt du département des Hauts-de-Seine ;
 
-(2) 38,60 F pour 1995, arrêté du 19 décembre 1994, JO du 22).
+2°) deuxième circonscription : 5e, 10e, 11e, 12e, 13e, 18e, 19e, 20e
+arrondissements de Paris et arrondissement d'Antony du département des
+Hauts-de-Seine ainsi que les départements de la Seine-Saint-Denis et du
+Val-de-Marne ;
 
-(3) 18,30 F pour 1995, arrêté du 19 décembre 1994, JO du 22).
+3°) troisième circonscription : départements de la Seine-et-Marne, des Yvelines,
+de l'Essonne et du Val-d'Oise.
 
-(M) Modification.
+Dans chaque circonscription, ce tarif est réduit pour les locaux possédés par
+l'Etat, les collectivités territoriales, les organismes ou les établissements
+publics sans caractère industriel ou commercial, les organismes professionnels
+ainsi que les associations ou organismes privés sans but lucratif à caractère
+sanitaire, social, éducatif, sportif ou culturel et dans lesquels ils exercent
+leur activité.
 
-(4) 30,70 F, 22,50 F e 16,20 F pour 1995, arrêté du 19 décembre 1994, JO du 22).
+b. Pour les locaux commerciaux et de stockage, un tarif unique distinct au mètre
+carré est appliqué.
+
+2. Les tarifs au mètre carré sont fixés à :
+
+a. Pour les locaux à usage de bureaux :
+
+1re CIRCONSCRIPTION
+
+Tarif normal (en francs : 74
+
+Tarif réduit (en francs) : 37
+
+2e CIRCONSCRIPTION
+
+Tarif normal (en francs) : 44
+
+Tarif réduit (en francs) : 26
+
+3e CIRCONSCRIPTION
+
+Tarif normal (en francs) : 21
+
+Tarif réduit (en francs) : 19
+
+b. Pour les locaux commerciaux, 12 F ;
+
+c. Pour les locaux de stockage, 6 F.
+
+VII. - Les redevables sont tenus de déposer une déclaration accompagnée du
+paiement de la taxe, avant le 1er mars de chaque année, auprès du comptable du
+Trésor du lieu de situation des locaux imposables.
+
+VIII. - Le contrôle, le recouvrement, le contentieux, les garanties et les
+sanctions relatifs à la taxe sont régis par les règles applicables en matière de
+taxe sur les salaires.
+
+Le privilège prévu au 1° du 2 de l'article 1920 peut être exercé pour le
+recouvrement de la taxe.

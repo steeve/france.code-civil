@@ -7,7 +7,3 @@ représenter, sous peine de saisie, et les décharges d'après les titres de
 mouvement délivrés au vu de leurs déclarations d'enlèvement et d'après les
 déclarations d'utilisation de capsules, empreintes ou vignettes représentatives
 de droits indirects sur l'alcool, le vin et le cidre.
-
-Le compte d'entrée et de sortie des redevables du droit de fabrication peut être
-chargé et déchargé au vu des déclarations de fabrication des produits soumis à
-ce droit.

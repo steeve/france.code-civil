@@ -16,8 +16,5 @@ exercé cette option ont bénéficié d'un remboursement de taxe sur la valeur
 ajoutée prévu à l'article 271.
 
 III. L'option et sa dénonciation sont déclarées au service des impôts dans les
-conditions et selon les mêmes modalités que celles prévues au 1° de l'article
-286.
-
-(1) [*Cf. Instructions 1997-01-02 3F-1-97, 1997-01-02 5G-1-97, 1997-01-02
-4Q-1-97*].
+conditions et selon les mêmes modalités que celles prévues au 1° du I de
+l'article 286.

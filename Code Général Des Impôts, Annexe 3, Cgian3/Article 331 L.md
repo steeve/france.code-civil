@@ -19,12 +19,10 @@ représentant agréé.
 
 La redevance est liquidée et acquittée semestriellement en même temps que les
 taxes sur le chiffre d'affaires afférentes aux opérations de juin et décembre ou
-s'il y a lieu du deuxième et du quatrième trimestres. Pour les redevables placés
-sous le régime du forfait elle est acquittée à la date prévue pour le paiement
-des échéances afférentes aux mêmes périodes.
+s'il y a lieu du deuxième et du quatrième trimestres.
 
-A l'importation, elle est assise et recouvrée par le service des douanes dans
+A l'importation, elle est assise et recouvrée par le service des douanes, dans
 les conditions définies par l'article 66 bis du code des douanes et par l'arrêté
 du directeur général des douanes et droits indirects en date du 5 septembre 1969
-modifié par l'arrêté du 23 décembre 1975 comme en matière de taxe sur la valeur
+modifié par l'arrêté du 23 décembre 1975, comme en matière de taxe sur la valeur
 ajoutée perçue à l'importation.

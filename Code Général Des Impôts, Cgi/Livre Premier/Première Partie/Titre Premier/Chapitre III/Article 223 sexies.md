@@ -4,9 +4,12 @@ Article 223 sexies
 les produits distribués par une société sont prélevés sur des sommes à raison
 desquelles elle n'a pas été soumise à l'impôt sur les sociétés au taux normal
 prévu au deuxième alinéa du I de l'article 219, cette société est tenue
-d'acquitter un précompte égal au montant du crédit prévu à l'article 158 bis et
-attaché à ces distributions. Ce précompte est dû quels que soient les
-bénéficiaires des distributions.
+d'acquitter un précompte égal au ((crédit d'impôt calculé dans les conditions
+prévues au I de l'article 158 bis. Toutefois, le précompte est égal au crédit
+d'impôt calculé dans les conditions prévues au II de l'article 158 bis lorsque
+la société justifie qu'il est susceptible d'être utilisé. Le précompte est dû au
+titre des distributions ouvrant droit au crédit d'impôt prévu à l'article 158
+bis quels qu'en soient les bénéficiaires)) (M).
 
 Il est également exigible lorsque les produits distribués sont prélevés sur les
 résultats d'exercice clos depuis plus de cinq ans ou depuis une date antérieure
@@ -71,6 +74,9 @@ leur bénéfice comptable hors plus-values.
 
 Toutefois, l'exonération de précompte ne s'applique que pour la partie de la
 distribution qui provient des dividendes de ces participations (2).
+
+(M) Modification - Ces dispositions s'appliquent aux distributions mises en
+paiement à compter du 1er janvier 1999.
 
 (1) Annexe III, art. 46 quater-0 C à 46 quater-0 F et 381 T.
 

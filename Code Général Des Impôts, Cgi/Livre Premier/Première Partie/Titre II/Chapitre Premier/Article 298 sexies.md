@@ -23,8 +23,8 @@ suivant la première mise en service ou qui ont, respectivement, navigué moins 
 100 heures, ou volé moins de 40 heures ;
 
 b. les véhicules terrestres dont la livraison est effectuée dans les six mois
-suivant la première mise en service ou qui ont parcouru moins de 6000 kilomètres
-(1).
+suivant la première mise en service ou qui ont parcouru moins de 6 000
+kilomètres.
 
 IV. Est considérée comme assujettie toute personne qui effectue à titre
 occasionnel la livraison d'un moyen de transport neuf expédié ou transporté sur
@@ -41,7 +41,7 @@ l'acquisition intracommunautaire de ce moyen de transport neuf. Le remboursement
 ne peut excéder le montant de la taxe sur la valeur ajoutée qui serait due si la
 livraison n'était pas exonérée.
 
-((V bis. Tout assujetti ou personne morale non assujettie, autre qu'une personne
+V bis. Tout assujetti ou personne morale non assujettie, autre qu'une personne
 bénéficiant du régime dérogatoire prévu au 2° du I de l'article 256 bis, qui
 réalise des acquisitions intracommunautaires de moyens de transport mentionnés
 au 1 du III est tenu, pour obtenir le certificat fiscal avant d'acquitter
@@ -49,24 +49,28 @@ effectivement la taxe, de présenter une caution solvable qui s'engage,
 solidairement avec l'assujetti ou la personne morale non assujettie, à acquitter
 la taxe sur la valeur ajoutée due au titre de l'acquisition intracommunautaire.
 
-((L'assujetti ou la personne morale non assujettie mentionné au premier alinéa
+L'assujetti ou la personne morale non assujettie mentionné au premier alinéa
 peut cependant demander à être dispensé de l'obligation de présentation s'il
 offre des garanties suffisantes de solvabilité. Il est statué sur la demande de
 dispense dans un délai de trente jours.
 
-((Dans le cas où l'assujetti ou la personne morale non assujettie n'a pas
-présenté une caution solvable ni offert des garanties suffisantes de
-solvabilité, le certificat fiscal ne lui est délivré qu'au moment où la taxe est
-effectivement acquittée)) (M).
+Dans le cas où l'assujetti ou la personne morale non assujettie n'a pas présenté
+une caution solvable ni offert des garanties suffisantes de solvabilité, le
+certificat fiscal ne lui est délivré qu'au moment où la taxe est effectivement
+acquittée.
+
+V ter-Le règlement de la taxe sur la valeur ajoutée due au titre de
+l'acquisition intracommunautaire, par une personne physique non assujettie, d'un
+moyen de transport neuf mentionné au 2 du III, doit être effectué auprès du
+Trésor public, ou par un chèque libellé à l'ordre du Trésor public, par
+l'acquéreur. En cas de recours à un mandataire, celui-ci est tenu d'informer le
+mandant de cette obligation, par écrit, à la signature du contrat, sous peine de
+nullité de ce dernier, dans des conditions fixées par décret.
 
 VI. Les dispositions de l'article 297 A ne sont pas applicables aux livraisons
-de moyens de transport neufs visées au II (1).
+de moyens de transport neufs visées au II.
 
 VII. Un décret en Conseil d'Etat fixe les conditions d'application des
 dispositions du présent article et, notamment, en tant que de besoin, les
 mesures permettant, en vue d'en assurer le contrôle, l'identification des moyens
 de transport neufs.
-
-(M) Modification.
-
-(1) Ces dispositions entrent en vigueur à compter du 1er janvier 1995.

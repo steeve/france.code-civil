@@ -28,8 +28,8 @@ est renouvelable par tacite reconduction.
 
 Lorsqu'il existe dans un même département plusieurs organisations ou organismes
 ayant vocation à désigner des membres, et à défaut d'accord entre eux, les
-représentants des contribuables sont désignés par le commissaire de la
-République au vu des propositions de ces organisations ou organismes.
+représentants des contribuables sont désignés par le préfet au vu des
+propositions de ces organisations ou organismes.
 
 En cas de retard, d'empêchement ou d'absence de désignation des représentants
 des contribuables, la commission est valablement constituée.
@@ -38,7 +38,7 @@ des contribuables, la commission est valablement constituée.
 interprofessionnelles avant d'établir la liste des représentants qu'ils
 désignent.
 
-II. 1. Pour l'application du deuxième alinéa de l'article 1651 A, les
+II. 1. Pour l'application du deuxième alinéa du I de l'article 1651 A, les
 représentants des contribuables sont choisis parmi les propriétaires ruraux et
 exploitants agricoles, passibles de l'impôt sur le revenu au titre des bénéfices
 de l'exploitation agricole.
@@ -70,15 +70,12 @@ coefficients d'actualisation des valeurs locatives des bois et forêts, un des
 représentants des contribuables doit être propriétaire de bois et forêts ; il
 est appelé à siéger.
 
-III ((Il est désigné deux suppléants pour un titulaire. Le nombre de suppléants
+III. Il est désigné deux suppléants pour un titulaire. Le nombre de suppléants
 peut toutefois être modifié dans les conditions et limites fixées par arrêté du
-ministre chargé du budget)) (M).
+ministre chargé du budget.
 
 IV. Lorsqu'en matière de taxes sur le chiffre d'affaires la commission est
 saisie d'un litige intéressant un contribuable qui relève de l'administration
 des douanes et des droits indirects au regard desdites taxes, l'un des
 représentants de la direction générale des impôts peut être remplacé par un
 fonctionnaire de la direction générale des douanes et des droits indirects.
-
-(M) Modification qui entrera en vigueur pour les désignations des représentants
-appelés à siéger en 1998.
