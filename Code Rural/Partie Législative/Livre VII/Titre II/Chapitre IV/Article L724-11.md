@@ -25,7 +25,8 @@ contrôle de la prévention et les agents chargés de procéder aux enquêtes vi
 
 Les fonctionnaires et agents de contrôle mentionnés au premier alinéa doivent
 communiquer, le cas échéant, leurs observations à l'employeur en l'invitant à y
-répondre dans un délai déterminé.
+répondre dans un délai déterminé. Ils peuvent consigner ces observations sur le
+livre de paie.
 
 A l'expiration de ce délai, ils transmettent au directeur de la caisse de
 mutualité sociale agricole leurs observations accompagnées de la réponse

@@ -29,17 +29,16 @@ participant à sa mise en valeur comme non-salariés ;
 retraite prévue à l'article L. 732-18, ainsi qu'aux titulaires de la pension de
 retraite forfaitaire prévue à l'article L. 732-34 ;
 
-4° a) Aux conjoints des personnes visées aux 1°, 2°, 3°, 5° et 6° du présent
+4° a) Aux conjoints des personnes visées aux 1°, 2°, 3°, 5°, 6° et 7° du présent
 article, sous réserve qu'ils ne soient pas couverts à titre personnel par un
 régime obligatoire d'assurance maladie, maternité ;
 
 b) Aux enfants de moins de seize ans à la charge des personnes visées aux 1°,
-2°, 3°, 5° et 6° du présent article ou de leur conjoint, qu'ils soient
+2°, 3°, 5°, 6° et 7° du présent article ou de leur conjoint, qu'ils soient
 légitimes, naturels reconnus ou non, recueillis, adoptifs ou pupilles de la
 nation dont l'assuré est le tuteur.
 
-Pour l'application du présent paragraphe 2, sont assimilés aux enfants de moins
-de seize ans :
+Sont assimilés aux enfants de moins de seize ans :
 
 - ceux de moins de vingt ans qui poursuivent leurs études, cette limite d'âge
 pouvant être reculée dans des conditions fixées par voie réglementaire pour les
@@ -58,4 +57,7 @@ la société, à une exploitation ou entreprise agricole située sur le territoi
 métropolitain, lesdites sociétés étant assimilées, pour l'application du présent
 régime, aux chefs d'exploitation ou d'entreprise mentionnés au 1° ;
 
-6° Aux titulaires des pensions d'invalidité prévues à l'article L. 752-4.
+6° Aux titulaires des pensions d'invalidité versées aux victimes d'accidents
+survenus ou de maladies professionnelles constatées avant le 1er avril 2002 ;
+
+7° Aux titulaires des rentes mentionnées à l'article L. 752-6.

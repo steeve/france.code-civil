@@ -13,8 +13,7 @@ application de l'article L. 722-10 ;
 
 c) Accidents des titulaires de pension de retraite ou d'allocations de
 vieillesse agricole mentionnés au 3° de l'article L. 722-10 et des assujettis
-visés au 6° du même article ainsi que de leurs conjoints, lorsque les uns et les
-autres n'exercent pas d'activité professionnelle ;
+visés au 6° du même article ainsi que de leurs conjoints ;
 
 d) Rechutes consécutives aux accidents du travail survenus aux assujettis
 mentionnés aux 1° à 5° inclus de l'article L. 722-10, antérieurement à la date
@@ -40,6 +39,10 @@ du présent code ;
 h) Accidents survenus en service ou à l'occasion du service aux personnes
 mentionnées à l'article L. 722-10, qui ont la qualité de sapeur-pompier
 volontaire ;
+
+i) Accidents survenus aux personnes visées aux 1°, 2°, 4°, 5°, 6° et 7° de
+l'article L. 722-10, lorsque ces accidents ne sont pas pris en charge en
+application du chapitre II du titre V du présent livre ;
 
 2° Invalidité ;
 

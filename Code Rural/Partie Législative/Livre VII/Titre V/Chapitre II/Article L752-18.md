@@ -1,12 +1,7 @@
 Article L752-18
 ----
-Les pièces relatives à l'application de la présente section sont dispensées du
-droit de timbre et d'enregistrement.
-
-Les jugements ou arrêts, ainsi que les extraits, copies ou expéditions revêtues
-ou non de la formule exécutoire qui en sont délivrés et, généralement, tous les
-actes de procédure auxquels donne lieu l'application de la présente section,
-sont également dispensés des formalités de timbre et d'enregistrement.
-
-Les pièces ou actes visés aux deux alinéas précédents doivent porter une mention
-expresse se référant au présent article.
+La Caisse centrale de la mutualité sociale agricole gère un fonds de réserve
+destiné à financer les rentes mentionnées au 3° de l'article L. 752-3 et
+alimenté par une fraction des cotisations mentionnées à l'article L. 752-16,
+fixée par arrêté du ministre chargé de l'agriculture. La caisse centrale rend
+compte annuellement de la gestion de ce fonds à un comité de gestion.

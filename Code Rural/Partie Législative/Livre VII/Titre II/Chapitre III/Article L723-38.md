@@ -11,7 +11,6 @@ L'agent comptable est tenu, sous sa responsabilité, de procéder à l'exécutio
 la dépense ou au recouvrement de la recette.
 
 En cas de désaccord constaté entre le conseil d'administration et un comité de
-la protection sociale dans chacune des matières énoncées aux 1° à 5° de
-l'article L. 723-35 ainsi qu'au dernier alinéa de ce même article, l'autorité
-administrative compétente peut, à l'expiration d'un délai déterminé, prendre les
-décisions y afférentes.
+la protection sociale dans chacune des matières énoncées aux 1° à 5° et aux a à
+c de l'article L. 723-35, l'autorité administrative compétente peut, à
+l'expiration d'un délai déterminé, prendre les décisions y afférentes.
