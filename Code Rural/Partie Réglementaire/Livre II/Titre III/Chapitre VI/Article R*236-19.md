@@ -12,8 +12,8 @@ lever du soleil jusqu'à deux heures après son coucher dans les eaux mentionné
 
 3° De l'anguille à toute heure ;
 
-4° Des aloses et des lamproies à toute heure dans les parties non salées des
-cours d'eau et des canaux mentionnés à l'alinéa 2 de l'article L. 236-10 ;
+4° Des aloses et des lamproies à toute heure dans la zone mentionnée au premier
+alinéa de l'article L. 436-10 du code de l'environnement ;
 
 5° De la carpe à toute heure dans les parties de cours d'eau ou les plans d'eau
 de 2e catégorie et pendant une période qu'il détermine.

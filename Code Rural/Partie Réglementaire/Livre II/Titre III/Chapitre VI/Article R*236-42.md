@@ -20,11 +20,18 @@ civelle, de matériel de plongée subaquatique ;
 
 4° De pêcher à l'aide d'un trimmer ou d'un engin similaire ;
 
-5° De détenir sur un bateau, en même temps que des moyens de pêche, ou
-d'utiliser des appareils de sondage par ondes ; sauf dans la zone mixte de
-l'estuaire de la Loire ;
+5° (alinéa abrogé) ;
 
 6° D'utiliser des lignes de traîne en dehors des conditions fixées aux articles
 R. 236-32 et R. 236-34 ;
 
 7° De pêcher aux engins et aux filets dans les zones inondées.
+
+Lorsque les caractéristiques locales du milieu aquatique justifient des mesures
+particulières de protection du patrimoine piscicole, le préfet peut, par arrêté
+motivé, interdire la pêche en marchant dans l'eau dans les cours d'eau et les
+plans d'eau qu'il désigne.
+
+Le préfet peut également interdire toute pêche dans les parties de cours d'eau,
+de canaux ou de plan d'eau dont le niveau est naturellement abaissé, en fixant
+par arrêté motivé, le cas échéant, les conditions de récupération des poissons.

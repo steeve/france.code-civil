@@ -32,3 +32,9 @@ En outre, le préfet peut autoriser l'emploi d'un carrelet d'un mètre carré de
 superficie au plus et de lignes de fond munies pour l'ensemble de dix-huit
 hameçons au plus, dans les cours d'eau et les plans d'eau de 2e catégorie qu'il
 désigne.
+
+Dans certaines parties de cours d'eau ou de plans d'eau et à titre exceptionnel,
+le préfet peut, par arrêté motivé, interdire l'emploi de certains modes ou
+procédés de pêche, limiter l'emploi des lignes mentionnées au 1° ci-dessus à des
+techniques particulières de pêche ou exiger de tout pêcheur qu'il remette
+immédiatement à l'eau le poisson qu'il capture.

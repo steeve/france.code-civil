@@ -1,6 +1,8 @@
 Article R*236-86
 ----
-Toute pêche est interdite à partir des écluses et barrages établis dans les eaux
-où le droit de pêche appartient à l'Etat, ainsi qu'en aval de l'extrémité de
-ceux-ci sur une distance de 50 mètres pour la pêche aux lignes et une distance
-de 200 mètres pour la pêche aux engins et aux filets.
+Toute pêche est interdite à partir des barrages et des écluses ainsi que sur une
+distance de 50 mètres en aval de l'extrémité de ceux-ci, à l'exception de la
+pêche à l'aide d'une ligne.
+
+En outre, la pêche aux engins et aux filets est interdite sur une distance de
+200 mètres en aval de l'extrémité de tout barrage et de toute écluse.

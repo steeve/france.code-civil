@@ -1,8 +1,8 @@
 Article R*236-45
 ----
 Pendant la période d'interdiction spécifique de la pêche du brochet, la pêche au
-vif, au poisson mort ou artificiel, à la cuiller et autres leurres à l'exception
-de la mouche artificielle, est interdite dans les eaux classées dans la 2e
+vif, au poisson mort ou artificiel et aux leurres susceptibles de capturer ce
+poisson de manière non accidentelle est interdite dans les eaux classées en 2e
 catégorie. Cette interdiction ne s'applique pas :
 
 1° A la pêche du saumon dans les cours d'eau ou parties de cours d'eau classés
