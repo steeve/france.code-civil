@@ -10,4 +10,4 @@ s'étend le port.
 
 Lorsque le port abrite de façon régulière des navires de pêche maritime, le
 conseil portuaire est complété par un représentant désigné en son sein par le
-conseil général et un représentant des pêcheurs désignés par le maire.
+conseil général et un représentant des pêcheurs désigné par le maire.

@@ -22,7 +22,7 @@ département appartenant aux services chargés des ports ;
 
 b) Un membre du personnel du concessionnaire ou de chacun des concessionnaires ;
 
-c) Dans les ports où il existe un bureau central de la main d'oeuvre, un membre
+c) Dans les ports où il existe un bureau central de la main-d'oeuvre, un membre
 représentant les ouvriers dockers du port.
 
 Les représentants des personnels et des ouvriers dockers du port sont désignés
@@ -32,14 +32,14 @@ les plus représentatives des personnels concernés au plan local ;
 5° a) Dans les ports de commerce :
 
 Six membres représentant des usagers du port choisis parmi les catégories
-d'usagers mentionnées à l'article R. 142-5 1°, à raison de trois membres
+d'usagers mentionnées à l'article R. *142-5 1°, à raison de trois membres
 désignés par la chambre de commerce et d'industrie et trois membres désignés par
-le président du conseil général.
+le président du conseil général ;
 
 b) Dans les ports de pêche :
 
 Six membres représentant les usagers du port choisis parmi les catégories
-d'usagers mentionnées à l'article R. 142-5 2°, à raison de quatre membres
+d'usagers mentionnées à l'article R. *142-5 2°, à raison de quatre membres
 désignés par le comité local des pêches et deux membres désignés par le
 président du conseil général.
 

@@ -9,4 +9,4 @@ superficie du plan d'eau abrité.
 
 Lorsque la création ou l'extension d'un port comporte la réalisation de travaux,
 le dossier de proposition de création ou d'extension présenté au préfet est
-accompagné des résultats de l'instruction prévue par l'article R. 611-2.
+accompagné des résultats de l'instruction prévue par l'article R. *611-2.
