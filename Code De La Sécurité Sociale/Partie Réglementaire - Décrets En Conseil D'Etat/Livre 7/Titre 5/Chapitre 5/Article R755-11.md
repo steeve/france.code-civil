@@ -1,4 +1,4 @@
-Article R531-14
+Article R755-11
 ----
 I. - Il est procédé à une évaluation forfaitaire des ressources de la personne
 et de son conjoint ou concubin, conformément au II ci-dessous, dès lors que l'un
@@ -8,12 +8,12 @@ d'insertion :
 
 a) Lors de l'ouverture du droit, si le total des ressources de la personne ou du
 ménage perçues au titre de l'année civile de référence et appréciées selon les
-dispositions de l'article R. 531-10 sont au plus égales à 812 fois le salaire
+dispositions de l'article R. 755-4 sont au plus égales à 812 fois le salaire
 minimum de croissance horaire en vigueur au 31 décembre de ladite année ;
 
 b) Au renouvellement du droit, au 1er juillet, sous réserve des dispositions du
 III, si ni le bénéficiaire ni son conjoint ou concubin n'a disposé de ressources
-appréciées conformément à l'article R. 531-10 pendant l'année civile de
+appréciées conformément à l'article R. 755-4 pendant l'année civile de
 référence.
 
 II. - L'évaluation forfaitaire correspond :
@@ -29,7 +29,7 @@ b) S'il s'agit d'une personne exerçant une activité professionnelle non salari
 qui précède l'ouverture ou le renouvellement du droit.
 
 Le montant des ressources ainsi déterminé est affecté des déductions et
-abattements prévus au premier alinéa de l'article R. 531-10.
+abattements prévus au premier alinéa de l'article R. 755-4.
 
 III. - Lorsque les ressources, lors de l'ouverture du droit, ont été déterminées
 sur la base d'une évaluation forfaitaire, les mêmes ressources sont prises en
