@@ -21,12 +21,13 @@ hypothèque légale qui prend rang du jour de son inscription à la conservation
 des hypothèques sur tout ou partie de ces biens dans la forme et de la manière
 prescrite par la loi.
 
-En cas de cession à l'Etat d'un bois ou d'une forêt grevé de l'hypothèque
-légale, celle-ci s'éteint de plein droit. Lorsque la sûreté a été cantonnée sur
-le bien cédé, les droits complémentaires et supplémentaires correspondant à
-d'autres biens deviennent exigibles et sont colloqués sur le prix de vente au
-rang de l'inscription si l'hypothèque légale n'a pu être inscrite en rang utile
-sur ces autres biens préalablement à la cession.
+En cas de cession à l'Etat ou aux collectivités et organismes mentionnés au I de
+l'article 1042 d'un bois ou d'une forêt grevé de l'hypothèque légale, celle-ci
+s'éteint de plein droit. Lorsque la sûreté a été cantonnée sur le bien cédé, les
+droits complémentaires et supplémentaires correspondant à d'autres biens
+deviennent exigibles et sont colloqués sur le prix de vente au rang de
+l'inscription si l'hypothèque légale n'a pu être inscrite en rang utile sur ces
+autres biens préalablement à la cession.
 
 4. Sont tenus solidairement au paiement de la taxe locale d'équipement :
 
@@ -36,5 +37,5 @@ de l'achèvement de la construction ;
 b. Les titulaires successifs de l'autorisation de construire ainsi que leurs
 ayants cause autres que les personnes qui ont acquis les droits sur l'immeuble à
 construire en vertu d'un contrat régi par le titre VI du livre II de la première
-partie du code de la construction et de l'habitation [*art. L.261-1 à L.261-22
-et art. R.261-1 à R.261-33*] relatif aux ventes d'immeubles à construire.
+partie du code de la construction et de l'habitation relatif aux ventes
+d'immeubles à construire.
