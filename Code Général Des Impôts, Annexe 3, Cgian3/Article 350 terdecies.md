@@ -3,8 +3,8 @@ Article 350 terdecies
 I. Sous réserve des dispositions des articles 409 et 410 de l'annexe II au code
 général des impôts, seuls les fonctionnaires de la direction générale des impôts
 appartenant à des corps des catégories A et B peuvent fixer les bases
-d'imposition et liquider les impôts, taxes et redevances ainsi que notifier les
-redressements.
+d'imposition et liquider les impôts, taxes et redevances ainsi que proposer les
+rectifications.
 
 Les fonctionnaires mentionnés au premier alinéa peuvent se faire assister pour
 les opérations de contrôle par des fonctionnaires stagiaires et par tout autre
