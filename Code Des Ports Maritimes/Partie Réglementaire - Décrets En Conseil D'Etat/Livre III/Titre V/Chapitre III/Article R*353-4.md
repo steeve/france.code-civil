@@ -1,6 +1,6 @@
 Article R*353-4
 ----
-Sont punies de l'amende prévue pour la contravention de la 5e classe les
+Sont punies de l'amende prévue pour la contravention de la 5è classe les
 infractions aux règlements de police des ports maritimes de commerce, de pêche
 et de plaisance concernant :
 

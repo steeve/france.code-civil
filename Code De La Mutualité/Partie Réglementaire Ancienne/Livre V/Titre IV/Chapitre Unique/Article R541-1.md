@@ -1,7 +1,7 @@
 Article R541-1
 ----
 Sont punis de la peine d'amende prévue pour les contraventions de la cinquième
-classe :
+classe [*(1) montant*] :
 
 1° Toute personne qui, à quelque titre que ce soit, participe à l'administration
 ou à la direction d'un groupement soumis aux dispositions du présent code et

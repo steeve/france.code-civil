@@ -2,14 +2,13 @@ Article R156-1
 ----
 I. - Tout employeur qui contrevient aux dispositions des articles L. 140-1 et L.
 140-2 [*égalité entre les hommes et les femmes*] est passible de l'amende prévue
-pour les contraventions de la 5e classe.
+pour les contraventions de la 5e classe [*(1) montant*].
 
 L'amende sera appliquée autant de fois qu'il y aura de travailleurs rémunérés
 dans des conditions illégales.
 
 En cas de récidive dans le délai d'un an, la peine d'amende sera celle prévue
-pour les contraventions de la 5e classe en récidive et une peine
-d'emprisonnement de un mois à deux mois [*durée*] pourra être prononcée.
+pour les contraventions de la 5e classe en récidive.
 
 En cas de condamnation, le tribunal peut ordonner l'affichage du jugement,
 conformément aux dispositions de l'article 471 du code pénal.

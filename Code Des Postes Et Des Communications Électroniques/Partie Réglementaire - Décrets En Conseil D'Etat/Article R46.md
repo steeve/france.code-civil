@@ -1,7 +1,7 @@
 Article R46
 ----
-Est puni [*sanction*] d'une amende de 3 000 à 6 000 F [*taux résultant du décret
-89-989 du 29 décembre 1989*] :
+Est puni [*sanction*] de l'amende prévue pour les contraventions de la 5° classe
+:
 
 1° Le capitaine d'un bâtiment qui, occupé à la réparation ou à la pose d'un
 câble sous-marin, n'observe pas les règles sur les signaux adoptés en vue de

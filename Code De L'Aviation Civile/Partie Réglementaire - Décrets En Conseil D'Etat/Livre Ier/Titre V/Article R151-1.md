@@ -1,6 +1,7 @@
 Article R151-1
 ----
-Seront punis des peines applicables aux contraventions de la 5e classe :
+Seront punis des peines prévues par le 5° de l'article 131-13 du code pénal pour
+les contraventions de la cinquième classe :
 
 " 1° Le pilote qui n'aura pas tenu son carnet de vol ou le carnet de route de
 l'aéronef lorsque ce document est exigé par la réglementation en vigueur ;

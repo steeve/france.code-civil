@@ -1,7 +1,7 @@
 Article R49
 ----
-Est punie d'une amende de 3 000 à 6 000 F et peut être punie d'un emprisonnement
-de dix jours à un mois :
+Est punie [*sanction*] dd l'amende prévue pour les contraventions de la 5°
+classe :
 
 1° Toute personne qui fabrique, détient hors de son domicile, met en vente,
 embarque ou fait embarquer des instruments ou engins servant exclusivement à

@@ -9,6 +9,6 @@ qu'il soit, revêtu de vignettes, de timbres, d'empreintes ou de mentions lui
 donnant faussement l'apparence d'objet de correspondance ayant transité par le
 service postal.
 
-Toute infraction aux dispositions de deux alinéas précédents est punie
-[*sanction*] d'une amende de 600 à 1 300 F [*taux résultant du décret 89-989 du
-29 décembre 1989*] par formule utilisée ou par document mis en distribution.
+Toute infraction aux dispositions de deux alinéas précédents est punie de
+l'amende prévue pour les contraventions de la 3e classe par formule utilisée ou
+par document mis en distribution.

@@ -1,10 +1,9 @@
 Article R3
 ----
-Sera punie [*sanction*] d'une amende de 3 000 à 6 000 F [*taux résultant du
-décret 89-989 du 29 décembre 1989*] :
+Sera punie de l'amende prévue pour les contraventions de la 5e classe :
 
 1° L'insertion de billets de banque français ou étrangers ou d'autres valeurs au
-porteur dans les envois ordinaires ou simplement recommandés [*infraction*].
+porteur dans les envois ordinaires ou simplement recommandés *infraction*.
 
 La peine ne sera pas encourue lorsque l'insertion de tels billets et valeurs
 dans les lettres recommandées n'excède pas le montant maximum de l'indemnité

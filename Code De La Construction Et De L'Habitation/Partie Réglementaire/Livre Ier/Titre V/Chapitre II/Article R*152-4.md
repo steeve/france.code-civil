@@ -5,8 +5,8 @@ notamment aux articles L. 480-2 à L. 480-9 du code de l'urbanisme et L. 152-2 �
 L. 152-9 du présent code, tout constructeur, propriétaire, exploitant d'un
 établissement soumis aux dispositions du présent chapitre qui contrevient aux
 dispositions des articles R. 123-21, 3e alinéa, R. 123-23, R. 123-25, R. 123-43
-et R. 123-44, est puni d'une amende de 3000 à 6000 F et, en cas de récidive,
-d'un emprisonnement de un à deux mois.
+et R. 123-44, est puni de l'amende prévue pour les contraventions de la
+cinquième classe.
 
 Est puni des mêmes peines tout constructeur, propriétaire, exploitant qui ouvre
 un établissement au public sans les visites de contrôle prévues à l'article R.

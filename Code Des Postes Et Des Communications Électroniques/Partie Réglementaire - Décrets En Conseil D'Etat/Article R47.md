@@ -1,7 +1,7 @@
 Article R47
 ----
-Est puni d'une amende de 3 000 à 6 000 F et peut être puni d'un emprisonnement
-de dix jours à un mois :
+Est puni [*sanction*] de l'amende prévue pour les contraventions de la 5° classe
+:
 
 1° Le capitaine ou patron de tout bâtiment qui a jeté l'ancre à moins d'un quart
 de mille nautique d'un câble sous-marin, dont il est en mesure de connaître la
