@@ -27,14 +27,20 @@ définie par le niveau ou le coefficient hiérarchique qui lui est attribué ;
 en distinguant, s'il y a lieu, les heures qui sont payées au taux normal et
 celles qui comportent une majoration pour heures supplémentaires ou pour toute
 autre cause et en mentionnant le ou les taux appliqués aux heures
-correspondantes ; en outre, lorsque les cotisations de sécurité sociale sont
-calculées sur la base d'un salaire forfaitaire par journée ou demi-journée de
-travail, l'indication du nombre de journées ou demi-journées correspondant à la
-durée du travail ; lorsque, par exception, la base de calcul du salaire n'est
-pas la durée du travail, l'indication de la nature de cette base ;
+correspondantes :
 
-6° La nature et le montant des accessoires de salaire soumis aux cotisations
-mentionnées aux 9° et 10° ;
+- la nature et le volume du forfait auquel se rapporte le salaire des salariés
+dont la rémunération est déterminée sur la base d'un forfait hebdomadaire ou
+mensuel en heures, d'un forfait annuel en heures ou en jours ;
+
+- l'indication de la nature de la base de calcul du salaire lorsque, par
+exception, cette base de calcul n'est pas la durée du travail ;
+
+6° Le montant du complément différentiel de salaire mentionné par l'article 32
+de la loi n° 2000-37 du 19 janvier 2000 relative à la réduction négociée du
+temps de travail, s'il y a lieu, ainsi que la nature et le montant des
+accessoires de salaire soumis aux cotisations mentionnées au 9° et au deuxième
+alinéa du présent article ;
 
 7° Le montant de la rémunération brute du salarié ;
 
@@ -45,27 +51,27 @@ le remboursement de la dette sociale ;
 rémunération brute en application de dispositions législatives, réglementaires
 ou conventionnelles ;
 
-10° La nature et le montant des cotisations patronales de sécurité sociale
-d'origine législative, réglementaire ou conventionnelle assises sur cette
-rémunération brute, ainsi que le montant de la réduction prévue à l'article L.
-241-13 du code de la sécurité sociale ; toutefois, les employeurs de
-main-d'oeuvre agricole auxquels le montant des cotisations est notifié
-trimestriellement auront la faculté de mentionner ces cotisations et cette
-réduction après le paiement des cotisations patronales, en précisant la période
-sur laquelle elles portent ;
-
-11° La nature et le montant des autres déductions éventuellement effectuées sur
+10° La nature et le montant des autres déductions éventuellement effectuées sur
 la rémunération ;
 
-12° La nature et le montant des sommes s'ajoutant à la rémunération et non
-soumises aux cotisations mentionnées aux 9° et 10° ;
+11° La nature et le montant des sommes s'ajoutant à la rémunération et non
+soumises aux cotisations mentionnées au 9° et au deuxième alinéa du présent
+article ;
 
-13° Le montant de la somme effectivement reçue par le salarié ;
+12° Le montant de la somme effectivement reçue par le salarié ;
 
-14° La date de paiement de ladite somme ;
+13° La date de paiement de ladite somme ;
 
-15° Les dates de congé et le montant de l'indemnité correspondante, lorsqu'une
+14° Les dates de congé et le montant de l'indemnité correspondante, lorsqu'une
 période de congé annuel est comprise dans la période de paie considérée.
+
+Le bulletin de paie ou le récapitulatif annuel remis au salarié mentionne la
+nature et le montant des cotisations patronales de sécurité sociale d'origine
+législative, réglementaire ou conventionnelle assises sur cette rémunération
+brute. Les employeurs de main-d'oeuvre agricoles auxquels le montant de
+cotisations est notifié trimestriellement ont la faculté de mentionner ces
+cotisations après le paiement des cotisations patronales, en précisant la
+période sur laquelle elles portent.
 
 Il ne doit être fait mention ni de l'exercice du droit de grève ni de l'activité
 de représentation des salariés. La nature et le montant de la rémunération de
@@ -75,13 +81,3 @@ d'établir et de fournir au salarié.
 
 Le bulletin de paie doit comporter en caractères apparents une mention incitant
 le salarié à le conserver sans limitation de durée.
-
-Le livre de paie prévu à l'article L. 143-5 est tenu par ordre de date, sans
-blancs, lacunes, ratures, surcharges, ni apostilles. Il est coté, paraphé et
-visé dans la forme ordinaire et sans frais, soit par le juge du tribunal
-d'instance [*compétence*] ou par un des juges du tribunal de commerce dans le
-ressort duquel se trouve le lieu où l'employeur exerce sa profession, soit par
-le maire ou un adjoint.
-
-L'employeur est tenu [*obligation*] de conserver ce livre pendant cinq ans
-[*durée*] à dater de sa clôture.
