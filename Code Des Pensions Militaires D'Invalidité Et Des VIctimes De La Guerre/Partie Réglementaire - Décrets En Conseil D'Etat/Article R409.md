@@ -5,7 +5,7 @@ L'examen commun de première catégorie comprend les épreuves suivantes :
 A. - Compositions écrites.
 
 1° Une composition française rédigée en quatre heures sur un sujet général
-(coefficient : 4) ;
+(coefficient : 3) ;
 
 2° Une note rédigée en deux heures sur des éléments de droit administratif, de
 législation financière et de droit civil (coefficient : 2) ;
@@ -16,11 +16,10 @@ posées par l'application de ce texte. Cette épreuve ne devra pas faire appel �
 des connaissances administratives ou juridiques autres que celles figurant au
 programme de l'examen (coefficient : 1) ;
 
-4° Des épreuves facultatives comportant la traduction effectuée sans
-dictionnaire d'un ou de deux textes rédigés dans des langues étrangères figurant
-sur une liste dressée par l'arrêté prévu à l'article R. 451 (coefficient : 2).
-Il est accordé deux heures pour chaque traduction aux candidats désirant subir
-ces épreuves facultatives.
+4° Une épreuve facultative comportant la traduction effectuée sans dictionnaire
+d'un texte rédigé dans une des langues étrangères figurant sur une liste dressée
+par l'arrêté prévu à l'article R. 451 (coefficient : 2). La durée de l'épreuve
+est de deux heures.
 
 Les épreuves ont un caractère anonyme.
 
