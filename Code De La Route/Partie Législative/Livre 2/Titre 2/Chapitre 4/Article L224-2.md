@@ -18,3 +18,7 @@ A défaut de décision de suspension dans le délai de soixante-douze heures pr�
 par l'alinéa précédent, le permis de conduire est remis à la disposition de
 l'intéressé, sans préjudice de l'application ultérieure des articles L. 224-7 à
 L. 224-9.
+
+Lorsque le dépassement de 40 km/h ou plus de la vitesse maximale autorisée est
+établi au moyen d'un appareil homologué et lorsque le véhicule est intercepté,
+les dispositions du présent article sont applicables au conducteur.

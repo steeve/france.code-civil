@@ -22,8 +22,9 @@ seules fins d'identifier les auteurs de ces infractions ;
 6° Aux préfets, pour l'exercice de leurs compétences en matière de circulation
 des véhicules ;
 
-7° Aux services du ministre chargé de l'industrie et du ministre chargé des
-transports pour l'exercice de leurs compétences ;
+7° Aux services du ministre de l'intérieur, du ministre de la défense, du
+ministre chargé de l'industrie et du ministre chargé des transports pour
+l'exercice de leurs compétences ;
 
 8° Aux entreprises d'assurances garantissant les dommages subis par des tiers
 résultant d'atteintes aux personnes ou aux biens dans la réalisation desquels un

@@ -19,29 +19,30 @@ définies par les articles 431-13 à 431-17 et les infractions définies par les
 articles 434-6 et 441-2 à 441-5 ;
 
 4° La fabrication ou la détention de machines, engins meurtriers ou explosifs,
-définies à l'article 3 de la loi du 19 juin 1871 qui abroge le décret du 4
-septembre 1870 sur la fabrication des armes de guerre ;
+définies à l'article L. 2353-4 du code de la défense ;
 
 - la production, la vente, l'importation ou l'exportation de substances
-explosives, définies à l'article 6 de la loi n° 70-575 du 3 juillet 1970 portant
-réforme du régime des poudres et substances explosives ;
+explosives, définies aux articles L. 2353-1, L. 2353-5 à L. 2353-8 du code de la
+défense ;
 
 - l'acquisition, la détention, le transport ou le port illégitime de substances
 explosives ou d'engins fabriqués à l'aide desdites substances, définis à
-l'article 38 du décret-loi du 18 avril 1939 fixant le régime des matériels de
-guerre, armes et munitions ;
+l'article L. 2353-13 du code de la défense ;
 
 - la détention, le port et le transport d'armes et de munitions des première et
-quatrième catégories, définis aux articles 24, 28, 31 et 32 du décret-loi
-précité ;
+quatrième catégories, définis aux articles L. 2339-2, L. 2339-5, L. 2339-8 et L.
+2339-9 du code précité.
 
-- les infractions définies aux articles 1er et 4 de la loi n° 72-467 du 9 juin
-1972 interdisant la mise au point, la fabrication, la détention, le stockage,
-l'acquisition et la cession d'armes biologiques ou à base de toxines ;
+- les infractions définies aux articles L. 2341-1 et L. 2341-4 du code de la
+défense ;
 
-- les infractions prévues par les articles 58 et 63 de la loi n° 98-467 du 17
-juin 1998 relative à l'application de la convention du 13 janvier 1993 sur
-l'interdiction de la mise au point, de la fabrication, du stockage et de
-l'emploi des armes chimiques et sur leur destruction ;
+- les infractions prévues par les articles L. 2342-57 à L. 2342-62 du code de la
+défense ;
 
-5° Le recel du produit de l'une des infractions prévues aux 1° à 4° ci-dessus.
+5° Le recel du produit de l'une des infractions prévues aux 1° à 4° ci-dessus ;
+
+6° Les infractions de blanchiment prévues au chapitre IV du titre II du livre
+III du présent code ;
+
+7° Les délits d'initié prévus à l'article L. 465-1 du code monétaire et
+financier.

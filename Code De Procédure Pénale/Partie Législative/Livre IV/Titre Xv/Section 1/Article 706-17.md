@@ -16,3 +16,10 @@ Lorsqu'ils sont compétents pour la poursuite et l'instruction des infractions
 entrant dans le champ d'application de l'article 706-16, le procureur de la
 République et le juge d'instruction de Paris exercent leurs attributions sur
 toute l'étendue du territoire national.
+
+L'instruction des actes de terrorisme définis aux 5° à 7° de l'article 421-1 du
+code pénal et à l'article 421-2-2 du même code peut être confiée, le cas échéant
+dans les conditions prévues au deuxième alinéa de l'article 83, à un magistrat
+du tribunal de grande instance de Paris affecté aux formations d'instruction
+spécialisées en matière économique et financière en application des dispositions
+du dernier alinéa de l'article 704.

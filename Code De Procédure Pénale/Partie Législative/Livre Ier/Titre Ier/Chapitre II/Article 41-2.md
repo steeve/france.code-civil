@@ -3,7 +3,7 @@ Article 41-2
 Le procureur de la République, tant que l'action publique n'a pas été mise en
 mouvement, peut proposer, directement ou par l'intermédiaire d'une personne
 habilitée, une composition pénale à une personne majeure qui reconnaît avoir
-commis un ou plusieurs délits prévus par les articles 222-11, 222-13 (1° à 10°),
+commis un ou plusieurs délits prévus par les articles 222-11, 222-13 (1° à 11°),
 222-16, 222-17, 222-18 (premier alinéa), 227-3 à 227-7, 227-9 à 227-11, 311-3,
 313-5, 314-5, 314-6, 322-1, 322-2, 322-12 à 322-14, 433-5 à 433-7 et 521-1 du
 code pénal, par les articles 28 et 32 du décret-loi du 18 avril 1939 fixant le
