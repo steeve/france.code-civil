@@ -1,6 +1,7 @@
 Article D814-26
 ----
-Le fonds spécial rembourse annuellement à la Caisse nationale d'assurance
-vieillesse des travailleurs salariés, dans les conditions prévues par un arrêté
-conjoint du ministre chargé de la sécurité sociale et du ministre chargé du
-budget, les dépenses exposées pour l'application de l'article D. 814-5.
+Le service de l'allocation spéciale vieillesse rembourse annuellement à la
+Caisse nationale d'assurance vieillesse des travailleurs salariés, selon les
+tarifs des honoraires et frais accessoires servant de base aux remboursements
+prévus à l'article L. 162-6 (2°), les dépenses exposées pour l'application de
+l'article D. 814-5.

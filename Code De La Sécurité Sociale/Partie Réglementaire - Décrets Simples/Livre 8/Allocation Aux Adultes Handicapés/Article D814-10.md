@@ -6,8 +6,8 @@ virement à un compte ouvert au nom du bénéficiaire ou de son représentant l�
 dans un centre de chèques postaux, dans une banque, dans une caisse d'épargne ou
 chez un comptable du Trésor.
 
-Les frais de paiement des arrérages sont à la charge [*financière*] du fonds
-spécial.
+Les frais de paiement des arrérages sont à la charge [*financière*] du service
+de l'allocation spéciale vieillesse.
 
 Dans le cas où l'allocataire ne jouit pas de sa capacité civile, le paiement est
 effectué, après justification de l'existence de l'allocataire, à son

@@ -1,7 +1,8 @@
 Article D814-21
 ----
-Le fonds spécial rembourse à la Caisse des dépôts et consignations le montant
-des dépenses de toute nature exposées pour sa gestion.
+Le service de l'allocation spéciale vieillesse rembourse à la Caisse des dépôts
+et consignations le montant des dépenses de toute nature exposées pour sa
+gestion.
 
 Il rembourse en outre, dans des conditions fixées par arrêté du ministre chargé
 de la sécurité sociale, du ministre chargé du budget, du ministre de

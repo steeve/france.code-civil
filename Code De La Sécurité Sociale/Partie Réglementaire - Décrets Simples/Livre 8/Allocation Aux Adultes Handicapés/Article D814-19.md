@@ -1,8 +1,8 @@
 Article D814-19
 ----
-Les recettes du fonds spécial sont les suivantes :
+Les recettes du service de l'allocation spéciale vieillesse sont les suivantes :
 
-1°) le produit des contributions mentionnées à l'article L. 814-5 ;
+1°) les remboursements du fonds institué par l'article L. 135-1 ;
 
 2°) le montant des avances que le ministre chargé du budget serait autorisé à
 lui accorder ;
