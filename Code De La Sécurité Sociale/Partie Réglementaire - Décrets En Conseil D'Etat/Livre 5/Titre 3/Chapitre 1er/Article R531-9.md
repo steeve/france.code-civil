@@ -1,10 +1,9 @@
 Article R531-9
 ----
-Le montant des ressources dont le ménage ou la personne assumant la charge des
+Le montant des ressources, dont le ménage ou la personne assumant la charge des
 enfants a disposé durant l'année civile précédant le début de la période au
 cours de laquelle le droit à l'allocation pour jeune enfant est ouvert ou
-maintenu ou le montant des ressources appréciées dans les conditions prévues à
-l'article R. 531-14 ne doit pas dépasser un plafond annuel.
+maintenu, ne doit pas dépasser un plafond annuel.
 
 Ce plafond est majoré de 25 p. 100 par enfant à charge à partir du premier et de
 30 p. 100 par enfant à partir du troisième enfant à charge.
