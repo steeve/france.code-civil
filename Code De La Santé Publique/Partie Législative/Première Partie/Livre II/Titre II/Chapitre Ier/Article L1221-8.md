@@ -13,10 +13,8 @@ République française ;
 médicaments dérivés du sang et qui sont régis par les dispositions du livre Ier
 de la partie V ;
 
-3° Des réactifs de laboratoire, dont les caractéristiques et les conditions
-particulières de mise sur le marché, de contrôle, d'évaluation et d'utilisation
-sont fixées par l'arrêté prévu à l'article L. 5133-2. Cet arrêté fixe, en outre,
-les caractéristiques et les conditions de préparation de ces réactifs ;
+3° Des réactifs de laboratoire dont les conditions de mise sur le marché sont
+fixées par le titre II du livre II de la cinquième partie ;
 
 4° Des préparations cellulaires réalisées à partir du prélèvement de cellules
 souches hématopoïétiques et de cellules somatiques mononucléées, par des
