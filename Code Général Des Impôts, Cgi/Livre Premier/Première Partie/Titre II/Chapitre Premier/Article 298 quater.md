@@ -8,10 +8,12 @@ I bis. A partir du 1er janvier 1969 et jusqu'à la date à laquelle les taux de 
 taxe sur la valeur ajoutée seraient modifiés, le taux du remboursement
 forfaitaire est fixé, sous réserve des dispositions du I ter :
 
-1° A 3,65 % pour les ventes d'oeufs, d'animaux de basse-cour, d'animaux de
+1° A 3,65 % pour les ventes d'oeufs, d'animaux de basse-cour ;
+
+2° A 3,75 % pour les ventes faites à compter du 1er janvier 1990 d'animaux de
 boucherie et de charcuterie définis par décret (1) ;
 
-2° A 2,55 % pour les ventes d'autres produits.
+3° A 2,55 % pour les ventes d'autres produits.
 
 I ter. 1. Lorsque les produits sont commercialisés par l'intermédiaire de
 groupements de producteurs constitués pour la réalisation des objectifs définis
@@ -25,7 +27,7 @@ bis sont portés à :
 l'horticulture et des pépinières faites du 1er janvier 1986 au 31 décembre 1991
 ;
 
-2. Le taux prévu au 2° du I bis est porté à 3,65 % pour les ventes de lait
+2. Le taux prévu au 3° du I bis est porté à 3,65 % pour les ventes de lait
 effectuées du 1er janvier 1986 au 31 décembre 1991.
 
 II. Des décrets en Conseil d'Etat (2) fixent, en tant que de besoin, les

@@ -1,12 +1,10 @@
 Article 406 ter
 ----
-(Devenu sans objet) Les redevables tenus solidairement au paiement de la taxe
-locale d'équipement en vertu de l'article 1929-4 du code général des impôts sont
-recherchés en paiement soit par voie d'avis de mise en recouvrement collectif
-soit par voie de mise en demeure dans les conditions fixées au titre IV du livre
-des procédures fiscales pour les impôts recouvrés par les comptables de la
-direction générale des impôts.
+Les redevables tenus solidairement au paiement de la taxe locale d'équipement en
+vertu du 4 de l'article 1929 du code général de impôts sont recherchés en
+paiement dans les conditions fixées au titre IV du livre des procédures fiscales
+pour les impôts recouvrés par les comptables du Trésor.
 
 Lorsque l'autorité administrative autorise le transfert d'un permis de
 construire qui a rendu exigible la taxe locale d'équipement, elle doit en
-informer sans délai le directeur des services fiscaux.
+informer sans délai le préfet pour émission d'un nouveau titre.

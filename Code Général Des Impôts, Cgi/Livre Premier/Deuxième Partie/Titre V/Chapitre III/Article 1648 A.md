@@ -5,7 +5,8 @@ par le nombre d'habitants, excèdent deux fois la moyenne des bases de taxe
 professionnelle par habitant constatée au niveau national, il est perçu
 directement, au profit d'un fonds départemental de la taxe professionnelle, un
 prélèvement égal au produit du montant des bases excédentaires par le taux en
-vigueur dans la commune.
+vigueur dans la commune. Le seuil d'écrêtement résultant de cette disposition
+est, pour 1991, divisé par 0,960.
 
 (Périmé).
 

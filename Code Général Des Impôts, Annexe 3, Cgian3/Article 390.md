@@ -1,6 +1,6 @@
 Article 390
 ----
-Dans les autres cas que ceux visés aux articles 385 à 389, ainsi que pour les
+Dans les autres cas que ceux visés aux articles 385 à 388, ainsi que pour les
 années ou périodes pour lesquelles dans les cas visés à l'article 388,
 l'intermédiaire n'est pas tenu au paiement de la taxe la taxe est versée par
 l'assuré à la recette des impôts du lieu de son domicile ou de sa résidence ou

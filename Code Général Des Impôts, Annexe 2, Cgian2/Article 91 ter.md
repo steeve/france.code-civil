@@ -2,7 +2,7 @@ Article 91 ter
 ----
 Les cas dans lesquels il peut être exceptionnellement disposé des actions avant
 l'expiration du délai fixé à l'article 163 bis C-I du code général des impôts,
-sans perte du bénéfice de l'exonération prévue audit article, sont les suivants
+sans perte du bénéfice des dispositions prévues audit article, sont les suivants
 :
 
 - licenciement du titulaire ;

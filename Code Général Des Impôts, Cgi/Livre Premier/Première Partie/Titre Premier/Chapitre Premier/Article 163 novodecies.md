@@ -1,13 +1,14 @@
 Article 163 novodecies
 ----
-Les titulaires d'un plan d'épargne en vue de la retraite ouvert en application
-de la loi n° 87-416 du 17 juin 1987 sur l'épargne peuvent y effectuer des
-versements en numéraire dans une limite globale de 8 000 F par an pour les
-contribuables célibataires, veufs ou divorcés et de 16 000 F par an pour les
-contribuables mariés soumis à imposition commune. Les limites sont majorées de 4
-000 F pour les contribuables ayant au moins trois enfants à charge au sens de
-l'article 196. Ces limites évoluent chaque année comme la limite supérieure de
-la septième tranche du barème de l'impôt sur le revenu de l'année précédente.
+I. Les titulaires d'un plan d'épargne en vue de la retraite ouvert en
+application de la loi n° 87-416 du 17 juin 1987 sur l'épargne peuvent y
+effectuer des versements en numéraire dans une limite globale de 8 000 F par an
+pour les contribuables célibataires, veufs ou divorcés et de 16 000 F par an
+pour les contribuables mariés soumis à imposition commune. Les limites sont
+majorées de 4 000 F pour les contribuables ayant au moins trois enfants à charge
+au sens de l'article 196. Ces limites évoluent chaque année comme la limite
+supérieure de la septième tranche du barème de l'impôt sur le revenu de l'année
+précédente.
 
 Ces versements sont déductibles du revenu imposable de leur auteur.
 
@@ -21,3 +22,7 @@ primes ainsi prises en compte s'imputent sur la limite de déduction prévue au 
 
 IV. Un décret fixe les modalités d'application des I à III ainsi que les
 obligations déclaratives des contribuables ou des intermédiaires.
+
+V. A compter du 1er janvier 1990, les plans d'épargne en vue de la retraite
+mentionnés au I ne peuvent plus être souscrits et aucun versement nouveau ne
+peut être effectué sur les plans déjà souscrits.

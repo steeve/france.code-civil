@@ -8,12 +8,7 @@ bénéfice d'ensemble ou, le cas échéant, sur le bénéfice que la société m
 déclaré au titre des exercices précédant l'application du régime défini à la
 présente section, dans les conditions prévues à l'article 220 quinquies ;
 
-b) L'investissement net et le total des amortissements pratiqués visés au
-sixième alinéa du paragraphe I de l'article 220 quinquies, s'entendent
-respectivement du montant total des investissements nets en biens amortissables
-et de celui des amortissements pratiqués par les sociétés du groupe, à
-l'exclusion de ceux afférents aux immobilisations transférées entre des sociétés
-du groupe.
+b) (Sans objet).
 
 2. Une société filiale du groupe ne peut pas exercer l'option prévue au
 paragraphe I de l'article 220 quinquies.

@@ -1,9 +1,11 @@
 Article 1414 B
 ----
-A compter des impositions de taxe d'habitation établies au titre de l'année
-1989, le dégrèvement prévu à l'article 1414 A est applicable, dans les mêmes
-conditions, aux contribuables dont la cotisation d'impôt sur le revenu au titre
-de l'année précédente n'excède pas 1500 F. Toutefois, le pourcentage prévu à cet
-article est, pour ces contribuables, fixé à 15 %. La limite de 1500 F est
-indexée chaque année comme la septième tranche du barème de l'impôt sur le
-revenu.
+Les contribuables qui occupent leur habitation principale dans les conditions
+prévues à l'article 1390 et dont la cotisation d'impôt sur le revenu, au titre
+de l'année précédente, n'excède pas 1 550 F sont dégrevés d'office de la taxe
+d'habitation y afférente à concurrence de 50 p. 100 du montant de l'imposition
+qui excède 1 370 F. Il n'est pas effectué de dégrèvement inférieur à 30 F. La
+limite de 1 550 F est indexée, chaque année, comme la septième tranche du barème
+de l'impôt sur le revenu. La limite de 1 370 F est révisée, chaque année,
+proportionnellement à la variation de la cotisation moyenne de taxe d'habitation
+constatée, l'année précédente, au niveau national.

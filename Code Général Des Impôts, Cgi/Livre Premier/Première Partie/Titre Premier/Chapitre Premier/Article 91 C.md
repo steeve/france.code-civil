@@ -17,4 +17,7 @@ d) De cessation de l'activité non salariée exercée par le contribuable ou l'u
 des époux soumis à imposition commune, qui a fait l'objet, après cinquante-cinq
 ans, d'un jugement de liquidation judiciaires en application des dispositions de
 la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation
-judiciaires des entreprises.
+judiciaires des entreprises ;
+
+e) De retraits ou de versements de pension effectués à compter du 1er janvier
+1990.

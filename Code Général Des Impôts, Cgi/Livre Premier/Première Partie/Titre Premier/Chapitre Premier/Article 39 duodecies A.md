@@ -28,4 +28,8 @@ crédit-bail, la plus-value réalisée est considérée comme une plus-value à 
 terme à hauteur des amortissements pratiqués sur le prix de revient du bien
 augmentés des amortissements que l'entreprise aurait pu pratiquer comme il est
 indiqué au 1 pendant la période au cours de laquelle elle a été titulaire du
-contrat.
+contrat. 5. Les dispositions du 4 s'appliquent aux cessions de biens intervenues
+à compter du 1er octobre 1989.
+
+Un décret fixe les modalités d'application des dispositions du présent article
+ainsi que les obligations déclaratives.

@@ -10,7 +10,9 @@ nu-propriétaire suivant les proportions fixées par l'article 762 dans les cas
 soit ni vendu, ni cédé à titre gratuit par son titulaire :
 
 a. Lorsque la constitution de l'usufruit résulte de l'application des articles
-767, 1094 ou 1098 du code civil ;
+767, 1094 ou 1098 du code civil. Les biens dont la propriété est démembrée en
+application d'autres dispositions, et notamment de l'article 1094-1 du code
+civil, ne peuvent faire l'objet de cette imposition répartie (1).
 
 b. Lorsque le démembrement de propriété résulte de la vente d'un bien dont le
 vendeur s'est réservé l'usufruit, le droit d'usage ou d'habitation et que
@@ -21,3 +23,6 @@ donateur d'un bien ayant fait l'objet d'un don ou legs à l'Etat, aux
 départements, aux communes ou syndicats de communes et à leurs établissements
 publics, aux établissements publics nationaux à caractère administratif et aux
 associations reconnues d'utilité publique.
+
+(1) Cette disposition a un caractère interprétatif pour l'application de l'impôt
+de solidarité sur la fortune et de l'impôt sur les grandes fortunes.

@@ -1,12 +1,8 @@
 Article 1000
 ----
-Sont exonérés de la taxe spéciale :
-
-1° Les contrats d'assurances sur la vie ou de rentes viagères souscrits par des
-personnes n'ayant pas en France leur domicile fiscal;
-
-2° Tous autres contrats si et dans la mesure où le risque se trouve situé hors
-de France [*à l'étranger*] ou ne se rapporte pas à un établissement industriel,
+Sont exonérés de la taxe spéciale les contrats d'assurances dont le risque se
+trouve situé hors de France souscrits par des personnes n'ayant pas en France
+leur domicile fiscal ou ne se rapporte pas à un établissement industriel,
 commercial ou agricole sis en France; à défaut de situation matérielle certaine
 ou de rapport certain avec un établissement industriel, commercial ou agricole,
 les risques sont réputés situés au lieu du domicile ou du principal
@@ -24,5 +20,5 @@ Toutefois, pour les contrats afférents à ces risques situés ou réputés situ
 dans les territoires d'outre-mer, la formalité est donnée gratis [*gratuité*],
 si l'assureur est français, ou au tarif réduit de moitié, dans le cas contraire.
 
-Les réassurances de risques visés aux 1° et 2° sont soumises aux dispositions du
+Les réassurances de risques visés ci-dessus sont soumises aux dispositions du
 présent article.

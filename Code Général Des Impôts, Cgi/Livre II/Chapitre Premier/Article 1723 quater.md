@@ -1,9 +1,9 @@
 Article 1723 quater
 ----
-I La taxe locale d'équipement visée à l'article 1585 A est due par le
+I. La taxe locale d'équipement visée à l'article 1585 A est due par le
 bénéficiaire de l'autorisation de construire.
 
-Elle doit être versée à la recette des impôts de la situation des biens en deux
+Elle doit être versée au comptable du Trésor de la situation des biens en deux
 fractions égales.
 
 Le premier versement est exigible à l'expiration d'un délai de dix-huit mois à
@@ -14,7 +14,7 @@ compter de la même date.
 
 Toutefois, la taxe due pour la constrution, par tranches, de logements destinés
 à l'habitation principale, dans les conditions définies par décret en Conseil
-d'Etat, doit être versée à la recette des impôts en trois versements échelonnés
+d'Etat, doit être versée au comptable du Trésor en trois versements échelonnés
 de dix-huit mois en dix-huit mois à compter de la date de délivrance du permis
 de construire ou de la date à laquelle l'autorisation de construire est réputée
 avoir été tacitement accordée.
@@ -27,21 +27,21 @@ En cas de modification apportée au permis de construire ou à l'autorisation
 tacite de construire, le complément de taxe éventuellement exigible doit être
 acquitté dans le délai d'un an à compter de la modification.
 
-II En cas de construction sans autorisation ou en infraction aux obligations
+II. En cas de construction sans autorisation ou en infraction aux obligations
 résultant de l'autorisation, la base de la taxe ou du complément de taxe
-éventuellement exigibles est notifiée au service des impôts par le directeur
-départemental de l'équipement ou par le maire.
+éventuellement exigibles est notifiée au trésorier payeur général par le
+directeur départemental de l'équipement ou par le maire.
 
 Le recouvrement de la taxe ou du complément de taxe, augmenté de l'amende
 fiscale prévue à l'article 1836, est immédiatement poursuivi contre le
 constructeur.
 
-III A défaut de paiement de la taxe dans les délais impartis au I, le
+III. A défaut de paiement de la taxe dans les délais impartis au I, le
 recouvrement de cette taxe et de l'intérêt de retard et la majoration prévus à
-l'article 1731, premier alinéa, est poursuivi par les comptables de la direction
-générale des impôts dans les conditions fixées au titre IV du livre des
-procédures fiscales. Il en est de même du recouvrement de la taxe ou du
-complément de taxe et de l'amende fiscale dans l'hypothèse visée au II.
+l'article 1731, premier alinéa, est poursuivi par les comptables du Trésor dans
+les conditions fixées au titre IV du livre des procédures fiscales. Il en est de
+même du recouvrement de la taxe ou du complément de taxe et de l'amende fiscale
+dans l'hypothèse visée au II.
 
-IV Le recouvrement de la taxe est garanti par le privilège prévu à l'article
+IV. Le recouvrement de la taxe est garanti par le privilège prévu à l'article
 1929-1.
