@@ -8,11 +8,7 @@ survivant de l'assuré mentionné au quatrième alinéa de l'article L. 356-1 ;
 
 2°) être âgé de moins de cinquante-cinq ans ;
 
-3°) a. soit assumer la charge d'au moins un enfant au sens de l'article L. 313-3
-;
-
-b. soit avoir élevé au moins un enfant pendant au moins neuf ans avant son
-seizième anniversaire ;
+3°) (Paragraphe abrogé)
 
 4°) ne pas avoir disposé au cours des trois mois civils précédents de ressources
 personnelles, telles que définies en application du deuxième alinéa de l'article
