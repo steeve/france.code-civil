@@ -26,4 +26,18 @@ N représente le nombre de parts déterminé par les coefficients suivants :
 
 2,50.
 
+- bénéficiaire isolé ou ménage ayant deux personnes à charge :
+
+3 ;
+
+- bénéficiaire isolé ou ménage ayant trois personnes à charge :
+
+3,7 ;
+
+- bénéficiaire isolé ou ménage ayant quatre personnes à charge :
+
+4,3.
+
+Ce dernier coefficient est majoré de 0,50 par personne à charge supplémentaire.
+
 Le coefficient K est arrondi à deux décimales par défaut.

@@ -1,6 +1,6 @@
 Article R351-21
 ----
-Le loyer minimum Lo est obtenu par l'application de pourcentages à des tranches
+Le loyer minimal Lo est obtenu par l'application de pourcentages à des tranches
 de ressources dont les limites inférieures et supérieures sont affectées du
 coefficient N prévu à l'article R. 351-19.
 
@@ -10,10 +10,9 @@ logement en distinguant :
 
 - les logements construits, ou agrandis, ou aménagés à partir de locaux non
 destinés à l'habitation, ou acquis et améliorés, occupés par leur propriétaire
-ou par l'accédant titulaire d'un contrat de location-accession;
+ou par l'accédant titulaire d'un contrat de location-accession ;
 
-- les logements existants améliorés et occupés par leur propriétaire et les
-logements locatifs.
+- les logements existants améliorés et occupés par leur propriétaire.
 
 Dans le second cas, le loyer minimum ainsi obtenu est majoré d'un montant égal
 au produit d'une valeur numérique fixée par arrêté conjoint des ministres
