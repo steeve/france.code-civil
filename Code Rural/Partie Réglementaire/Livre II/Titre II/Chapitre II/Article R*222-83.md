@@ -1,6 +1,7 @@
 Article R*222-83
 ----
-Pour l'application du présent titre à la chasse maritime, les prolongements en
-mer des limites des départements côtiers et des communes limitrophes sont
-établis, s'il y a lieu, dans les conditions prévues à l'article R. 112-2 du code
-des communes.
+La réserve peut être instituée sur demande du détenteur du droit de chasse.
+
+Un arrêté du ministre chargé de la chasse fixe les formes de la demande.
+
+La décision de refus doit être motivée.
