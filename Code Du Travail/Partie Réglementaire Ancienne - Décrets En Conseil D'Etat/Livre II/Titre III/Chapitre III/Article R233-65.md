@@ -1,12 +1,12 @@
 Article R233-65
 ----
-I. - Lorsqu'une machine visée à l'article R. 233-57 est fabriquée conformément à
-une ou des normes visées au 1° du IV de l'article L. 233-5 et que la ou les
-normes auxquelles il est fait référence sont réputées satisfaire toutes les
-règles techniques applicables à la machine concernée, le fabricant ou
-l'importateur peut, le cas échéant, ne pas appliquer la procédure d'examen CE de
-type définie par les articles R. 233-54 à R. 233-63 et appliquer la procédure
-simplifiée définie ci-après ;
+I. - Lorsqu'une machine ou un composant de sécurité visé à l'article R. 233-57
+est fabriqué conformément à une ou des normes visées au 1° du IV de l'article L.
+233-5 et que la ou les normes auxquelles il est fait référence sont réputées
+satisfaire toutes les règles techniques applicables à la machine ou au composant
+de sécurité concerné, le fabricant ou l'importateur peut, le cas échéant, ne pas
+appliquer la procédure d'examen CE de type définie par les articles R. 233-54 à
+R. 233-63 et appliquer la procédure simplifiée définie ci-après ;
 
 II. - Dans ce cas, l'établissement et la signature par le fabricant ou
 l'importateur de la déclaration CE de conformité prévue par l'article R. 233-73
@@ -30,10 +30,11 @@ conditions prévues à l'article R. 233-63.
 
 Lorsque le fabricant ou l'importateur communique dans l'une ou l'autre des
 conditions susvisées une documentation technique à un organisme habilité, il
-doit informer cet organisme de toutes les modifications du modèle de machine
-faisant l'objet de la communication. L'article R. 233-62 est applicable, en cas
-de modification du modèle de machine, aux attestations d'adéquation de la
-documentation prévues au b ci-dessus.
+doit informer cet organisme de toutes les modifications du modèle de machine ou
+de composant de sécurité faisant l'objet de la communication. L'article R.
+233-62 est applicable, en cas de modification du modèle de machine ou de
+composant de sécurité, aux attestations d'adéquation de la documentation prévues
+au b ci-dessus.
 
 Lorsque l'organisme habilité a son siège en France, la documentation technique
 et la correspondance afférente sont rédigées en français ou dans une langue de

@@ -16,7 +16,7 @@ indépendante en l'état, destinés à être incorporés dans une machine ou à 
 assemblés avec d'autres machines solidaires dans leur fonctionnement, à
 condition de faire l'objet d'une déclaration du fabricant ou de l'importateur
 dont le contenu est déterminé par un arrêté du ministre chargé du travail et du
-ministre chargé de l'agriculture. L'absence d'un moteur, d'un ou plusieurs
+ministre chargé de l'agriculture. L'absence de moteur, d'un ou plusieurs
 éléments amovibles aisément incorporables ou dispositifs de protection, ou d'un
 équipement interchangeable, ne répond pas à la condition relative à
 l'impossibilité de fonctionner de façon indépendante en l'état ;
@@ -32,12 +32,40 @@ mentionnés au 1° de l'article R. 233-83 ;
 V. - Les machines spécialement conçues et construites pour les forces armées ou
 les forces de maintien de l'ordre et les armes à feu ;
 
+V bis. - Les pistolets de scellement ;
+
 VI. - Les machines spécifiques pour fêtes foraines et parcs d'attraction ;
 
-VII. - Les installations à câble pour le transport public ou non de personnes ;
+VII. - Les installations à câbles, y compris les funiculaires pour le transport
+public ou non de personnes ;
 
-VIII. - Les ascenseurs installés à demeure, et leurs composants ;
+VIII. - Les ascenseurs, définis comme des appareils qui desservent des niveaux
+définis à l'aide d'une cabine qui se déplace le long de guides rigides et dont
+l'inclinaison sur l'horizontale est supérieure à 15 degrés ; la cabine est
+destinée au transport :
 
-IX. - Les appareils de levage conçus et construits pour l'élévation de personnes
-éventuellement accompagnées de charges, avec déplacement ou non, à l'exception
-des chariots automoteurs de manutention à poste de conduite élevable.
+- de personnes ;
+
+ou
+
+- de personnes et d'objets ;
+
+ou
+
+- d'objets uniquement. La cabine doit être accessible, c'est-à-dire telle qu'une
+personne puisse y pénétrer sans difficulté, et être équipée d'éléments de
+commande situés à l'intérieur de ladite cabine ou à portée d'une personne qui
+s'y trouve.
+
+Sont également considérés comme tels les ascenseurs qui se déplacent selon une
+course parfaitement fixée dans l'espace, même s'ils ne se déplacent pas le long
+de guides rigides, par exemple les ascenseurs guidés par des ciseaux ;
+
+IX. - Les moyens de transport de personnes utilisant des véhicules à crémaillère
+;
+
+X. - Les ascenseurs équipant les puits de mines ;
+
+XI. - Les élévateurs de machinerie de théâtre ;
+
+XII. - Les ascenseurs de chantier.

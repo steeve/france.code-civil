@@ -10,9 +10,15 @@ Le chef d'établissement ou le responsable de l'opération visée au II de
 l'article L. 233-5 choisit l'organisme agréé sur une liste dressée par arrêté
 des ministres chargés du travail et de l'agriculture.
 
-Toutefois, lorsque l'examen CE de type a été effectué par un organisme habilité
-sis sur le territoire français, les vérifications effectuées dans le cadre des
-articles L. 233-5-2 et R. 233-80 sont faites par ledit organisme habilité.
+Lorsque l'équipement de travail ou moyen de protection en cause était soumis, à
+l'état neuf, à la procédure d'examen CE de type, les vérifications effectuées
+dans le cadre des articles L. 233-5-2 et R.233-80 sont faites par un des
+organismes habilités conformément à l'article R. 233-51, compétent pour
+l'équipement de travail ou moyen de protection concerné, au choix du responsable
+de la vérification. Toutefois, lorsque l'examen CE de type a été effectué par un
+organisme habilité sis sur le territoire français, les vérifications effectuées
+dans le cadre des articles L. 233-5-2 et R. 233-30 sont faites par ledit
+organisme habilité.
 
 Le chef d'établissement ou le responsable de l'opération mentionnée au II de
 l'article L. 233-5 justifie qu'il a saisi l'organisme agréé dans les quinze
