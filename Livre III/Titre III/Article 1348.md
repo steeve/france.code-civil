@@ -1,20 +1,12 @@
 Article 1348
 ----
-Elles reçoivent encore exception toutes les fois qu'il n'a pas été possible au
-créancier de se procurer une preuve littérale de l'obligation qui a été
-contractée envers lui.
+Les règles ci-dessus reçoivent encore exception lorsque l'obligation est née
+d'un quasi-contrat, d'un délit ou d'un quasi-délit, ou lorsque l'une des
+parties, soit n'a pas eu la possibilité matérielle ou morale de se procurer une
+preuve littérale de l'acte juridique, soit a perdu le titre qui lui servait de
+preuve littérale, par suite d'un cas fortuit ou d'une force majeure.
 
-Cette seconde exception s'applique :
-
-1° Aux obligations qui naissent des quasi-contrats et des délits ou quasi-délits
-;
-
-2° Aux dépôts nécessaires faits en cas d'incendie, tumulte ou naufrage, et à
-ceux faits par les voyageurs en logeant dans une hôtellerie, le tout suivant la
-qualité des personnes et les circonstances du fait ;
-
-3° Aux obligations contractées en cas d'accidents imprévus, où l'on ne pourrait
-pas avoir fait des actes par écrit ;
-
-4° Au cas où le créancier a perdu le titre qui lui servait de preuve littérale,
-par suite d'un cas fortuit, imprévu et résultant d'une force majeure.
+Elles reçoivent aussi exception lorsqu'une partie ou le dépositaire n'a pas
+conservé le titre original et présente une copie qui en est la reproduction non
+seulement fidèle mais aussi durable. Est réputée durable toute reproduction
+indélébile de l'original qui entraîne une modification irréversible du support.
