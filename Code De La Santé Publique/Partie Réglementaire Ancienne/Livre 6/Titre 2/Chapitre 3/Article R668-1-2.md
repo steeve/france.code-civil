@@ -1,6 +1,7 @@
 Article R668-1-2
 ----
-En vue d'être agréés par l'Agence française du sang en qualité d'établissement
+En vue d'être agréés par l'Agence française de sécurité sanitaire des produits
+de santé à la demande de l'Agence française du sang en qualité d'établissement
 de transfusion sanguine, des groupements d'intérêt public dotés de la
 personnalité morale et de l'autonomie financière peuvent être constitués entre
 des établissements publics de santé, ou entre, d'une part, un ou plusieurs

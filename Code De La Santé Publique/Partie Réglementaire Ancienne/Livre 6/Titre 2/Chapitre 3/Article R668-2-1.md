@@ -1,10 +1,11 @@
 Article R668-2-1
 ----
-L'agrément en qualité d'établissement de transfusion sanguine est accordé par le
-président de l'Agence française du sang aux associations et groupements
-d'intérêt public qui, outre les conditions fixées en vertu de l'article L.
-668-1, remplissent les conditions techniques sanitaires et médicales définies
-par la présente section.
+L'agrément en qualité d'établissement de transfusion sanguine est accordé, à la
+demande du président de l'Agence française du sang, par le directeur général de
+l'Agence française de sécurité sanitaire des produits de santé aux associations
+et groupements d'intérêt public qui, outre les conditions fixées en vertu de
+l'article L. 668-1, remplissent les conditions techniques sanitaires et
+médicales définies par la présente section.
 
 Pour obtenir l'agrément, les structures mentionnées au deuxième alinéa de
 l'article L. 716-3 doivent remplir les conditions définies par la présente

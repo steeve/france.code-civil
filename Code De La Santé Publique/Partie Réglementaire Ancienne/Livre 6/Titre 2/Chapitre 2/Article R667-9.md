@@ -49,8 +49,8 @@ moyens de transfusion sanguine ;
 
 6° La coopération internationale ;
 
-7° L'hémovigilance ainsi que le recueil des informations nécessaires à la
-surveillance de l'activité des établissements de transfusion sanguine ;
+7° Le recueil des informations nécessaires à la surveillance de l'activité des
+établissements de transfusion sanguine ;
 
 8° Les principes d'attribution des crédits du fonds d'orientation et le suivi de
 leur utilisation.

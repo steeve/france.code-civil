@@ -1,8 +1,14 @@
 Article R668-2-25
 ----
-Le renouvellement de l'agrément doit être demandé par l'établissement de
-transfusion sanguine à l'Agence française du sang trois mois au plus tard avant
-l'expiration de la durée de validité fixée à l'article R. 668-2-1.
+Dans un délai de deux mois à compter de la réception des demandes mentionnées à
+l'article R. 668-2-24 ci-dessus, le président de l'Agence française du sang les
+transmet à l'Agence française de sécurité sanitaire des produits de santé.
 
-La demande de renouvellement est établie et adressée dans les formes et
-conditions fixées à l'article R. 668-2-24.
+Toutefois, le président de l'Agence française du sang peut décider de ne pas
+transmettre la demande pour des raisons tenant à l'organisation du service
+public de la transfusion sanguine, notamment en ce qui concerne la répartition
+géographique des activités transfusionnelles. Dans ce cas, il notifie, dans le
+délai prévu au premier alinéa du présent article, à l'établissement de
+transfusion sanguine demandeur, par lettre recommandée avec demande d'avis
+d'accusé de réception, sa décision de ne pas procéder à cette transmission, avec
+l'indication des motifs de droit et de fait de sa décision.
