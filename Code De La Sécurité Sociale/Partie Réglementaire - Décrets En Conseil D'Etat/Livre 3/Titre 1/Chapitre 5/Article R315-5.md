@@ -1,8 +1,10 @@
 Article R315-5
 ----
-Le médecin conseil national et les deux médecins conseils nationaux adjoints
-sont nommés par arrêtés du ministre chargé de la sécurité sociale [*autorité
-compétente*] après consultation du haut comité médical de la sécurité sociale.
+Le médecin-conseil national est nommé par le directeur de la Caisse nationale de
+l'assurance maladie des travailleurs salariés. Les deux médecins-conseils
+nationaux adjoints sont nommés par le directeur de la Caisse nationale de
+l'assurance maladie des travailleurs salariés, après avis du médecin-conseil
+national.
 
 Les médecins conseils régionaux et les médecins conseils régionaux adjoints sont
 nommés par le directeur de la caisse nationale de l'assurance maladie sur la
