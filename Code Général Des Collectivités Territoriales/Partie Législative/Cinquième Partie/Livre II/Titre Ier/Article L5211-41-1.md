@@ -8,7 +8,7 @@ nécessaires au développement d'une communauté d'agglomération et à son évo
 en pôle urbain de développement ou au développement d'une communauté urbaine et
 à son évolution en métropole régionale selon le cas. Il ne peut toutefois
 inclure, sans leur accord, les communes membres d'une communauté de communes
-dont l'éligibilité à la dotation prévue au neuvième alinéa de l'article L.
+dont l'éligibilité à la dotation prévue au onzième alinéa de l'article L.
 5211-29 a été constatée dans les conditions fixées à l'article L. 5214-23-1.
 
 Le projet d'extension du périmètre de l'établissement public est arrêté par le

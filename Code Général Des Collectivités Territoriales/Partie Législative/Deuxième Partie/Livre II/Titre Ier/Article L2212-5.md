@@ -16,8 +16,7 @@ Ils peuvent également constater par rapport le délit prévu par l'article L.
 126-3 du code de la construction et de l'habitation.
 
 Ils exercent leurs fonctions sur le territoire communal, dans les conditions
-prévues aux quatrième à septième alinéas de l'article 21 du code de procédure
-pénale.
+prévues au 2° de l'article 21 du code de procédure pénale.
 
 A la demande des maires de plusieurs communes appartenant à un même
 établissement public de coopération intercommunale à fiscalité propre, celui-ci

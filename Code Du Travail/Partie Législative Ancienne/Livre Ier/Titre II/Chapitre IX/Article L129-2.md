@@ -16,7 +16,7 @@ Pour les emplois dont la durée de travail n'excède pas huit heures par semaine
 ou ne dépasse pas quatre semaines consécutives dans l'année, l'employeur et le
 salarié qui utilisent le chèque-service sont réputés satisfaire aux obligations
 mises à la charge de l'un ou l'autre par les articles L. 122-3-1 et L. 212-4-3
-du présent code ou par les articles 1031 et 1061 du code rural.
+du présent code ou par les articles L. 741-9 et L. 741-2 du code rural.
 
 Pour les emplois dont la durée dépasse celles définies ci-dessus, un contrat de
 travail doit être établi par écrit.
@@ -25,9 +25,16 @@ La rémunération portée sur le chèque inclut une indemnité de congés payés
 le montant est égal à un dixième de la rémunération.
 
 Les chèques-service sont émis et délivrés par les établissements de crédit, ou
-par les institutions ou services énumérés à l'article 8 de la loi n° 84-46 du 24
-janvier 1984 relative à l'activité et au contrôle des établissements de crédit,
-qui ont passé convention avec l'Etat.
+par les institutions ou services énumérés à l'article L. 518-1 du code monétaire
+et financier, qui ont passé convention avec l'Etat. Toutefois, l'employeur peut
+faire sa déclaration par voie électronique dans les conditions prévues à
+l'article L. 133-5 du code de la sécurité sociale.
 
 Les mentions figurant sur le chèque-service ainsi que ses modalités
 d'utilisation sont fixées par décret.
+
+L'organisme chargé de recevoir et traiter le "chèque-service" est habilité à
+poursuivre le recouvrement par voie contentieuse des sommes restant dues, pour
+le compte de l'ensemble des régimes concernés sous les garanties et sanctions
+applicables au recouvrement des cotisations du régime général de sécurité
+sociale assises sur les salaires.

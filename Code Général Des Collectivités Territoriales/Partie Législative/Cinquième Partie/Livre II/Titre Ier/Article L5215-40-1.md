@@ -8,7 +8,7 @@ assurer la cohérence spatiale et économique ainsi que la solidarité financiè
 et sociale qui sont nécessaires au développement de la communauté urbaine et à
 son évolution en métropole régionale. Il ne peut toutefois inclure, sans leur
 accord, les communes membres d'une communauté de communes dont l'éligibilité à
-la dotation prévue au neuvième alinéa de l'article L. 5211-29 a été constatée
+la dotation prévue au onzième alinéa de l'article L. 5211-29 a été constatée
 dans les conditions fixées à l'article L. 5214-23-1.
 
 Le projet d'extension du périmètre communautaire est arrêté par le représentant

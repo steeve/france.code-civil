@@ -1,8 +1,7 @@
 Article L774-2
 ----
 Dans les dix jours qui suivent la rédaction d'un procès-verbal de contravention,
-et son affirmation quand elle est exigée, le préfet fait faire au contrevenant
-notification de la copie du procès-verbal ainsi que de l'affirmation.
+le préfet fait faire au contrevenant notification de la copie du procès-verbal .
 
 La notification est faite dans la forme administrative, mais elle peut également
 être effectuée par lettre recommandée avec demande d'avis de réception.

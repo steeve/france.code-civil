@@ -1,14 +1,14 @@
 Article L2253-7
 ----
-- Par dérogation aux dispositions de l'article L. 2253-1, une commune, seule ou
+Par dérogation aux dispositions de l'article L. 2253-1, une commune, seule ou
 avec d'autres collectivités territoriales, peut participer au capital d'un
-établissement de crédit revêtant la forme de société anonyme régie par la loi n°
-66-537 du 24 juillet 1966 sur les sociétés commerciales et ayant pour objet
-exclusif de garantir les concours financiers accordés à des personnes morales de
-droit privé, et notamment celles qui exploitent des entreprises nouvellement
-créées, dès lors qu'une ou plusieurs sociétés commerciales, dont au moins un
-établissement régi par la loi n° 84-46 du 24 janvier 1984 relative à l'activité
-et au contrôle des établissements de crédit, participent également au capital de
+établissement de crédit revêtant la forme de société anonyme régie par les
+dispositions du livre II du code de commerce et ayant pour objet exclusif de
+garantir les concours financiers accordés à des personnes morales de droit
+privé, et notamment celles qui exploitent des entreprises nouvellement créées,
+dès lors qu'une ou plusieurs sociétés commerciales, dont au moins un
+établissement de crédit régi par les dispositions du chapitre Ier du titre Ier
+du livre V du code monétaire et financier, participent également au capital de
 cet établissement de crédit.
 
 La commune peut participer par versement de subventions à la constitution de

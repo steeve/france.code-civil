@@ -6,10 +6,9 @@ Article L2331-4
 terrains de camping, de la redevance spéciale ou de la redevance pour enlèvement
 des ordures, déchets et résidus ;
 
-2° Le produit de la redevance de raccordement des effluents privés aux réseaux
-d'assainissement ou aux installations d'épuration, prévue à l'article 18 de la
-loi n° 64-1245 du 16 décembre 1964 relative au régime et à la répartition des
-eaux et à la lutte contre leur pollution ;
+2° Le produit des redevances de raccordement des effluents privés aux réseaux
+d'assainissement ou aux installations d'épuration, prévues à l'article L.
+1331-14 du code de la santé publique ;
 
 3° Le produit des péages communaux, des droits de pesage, mesurage et jaugeage ;
 
@@ -28,9 +27,7 @@ propriétaires en cas de dégradation de la voie publique ;
 sur les rivières, ports et quais fluviaux et autres lieux publics ;
 
 9° Le produit des droits de port perçus conformément aux dispositions du livre
-II du code des ports maritimes relatif aux droits de port et de navigation à
-l'exception du produit de la taxe sur les passagers prévue à l'article L. 211-2
-du code des ports maritimes ;
+II du code des ports maritimes relatif aux droits de port et de navigation ;
 
 10° Le produit des droits de voirie et autres droits légalement établis ;
 

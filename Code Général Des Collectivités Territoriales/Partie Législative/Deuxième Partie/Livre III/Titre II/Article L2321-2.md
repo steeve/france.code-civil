@@ -44,14 +44,13 @@ liquidées et approuvées ;
 
 9° Les dépenses dont elle a la charge en matière d'éducation nationale ;
 
-10° Les dépenses résultant de l'application de l'article L. 521-1 du code de la
-mutualité ;
+10° Abrogé ;
 
 11° Abrogé ;
 
 12° Les dépenses des services communaux de désinfection et des services
-communaux d'hygiène et de santé dans les conditions prévues par le titre Ier du
-livre Ier du code de la santé publique ;
+communaux d'hygiène et de santé dans les conditions prévues par l'article L.
+1422-1 du code de la santé publique ;
 
 13° Les frais de livrets de famille ;
 

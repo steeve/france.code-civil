@@ -18,7 +18,10 @@ celles-ci procèdent ouvrent droit à exonération du paiement des cotisations
 patronales au titre des assurances sociales, des accidents du travail et des
 allocations familiales dans la limite des cotisations afférentes à la
 rémunération ou la partie de la rémunération égale au salaire minimum de
-croissance.
+croissance. Les embauches réalisées à compter du 1er juillet 2005 par les
+entreprises d'insertion mentionnées à l'article L. 322-4-16-1 et par les
+entreprises de travail temporaire d'insertion mentionnées à l'article L.
+322-4-16-2 n'ouvrent pas droit à cette exonération.
 
 III. - Lorsque ces conventions sont conclues avec des personnes morales de droit
 public ou de droit privé à but non lucratif dans le cadre d'activités présentant

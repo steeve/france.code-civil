@@ -8,7 +8,7 @@ assurer la cohérence spatiale et économique ainsi que la solidarité financiè
 et sociale qui sont nécessaires au développement de la communauté
 d'agglomération. Il ne peut toutefois inclure, sans leur accord, les communes
 membres d'une communauté de communes dont l'éligibilité à la dotation prévue au
-neuvième alinéa de l'article L. 5211-29 a été constatée dans les conditions
+onzième alinéa de l'article L. 5211-29 a été constatée dans les conditions
 fixées à l'article L. 5214-23-1.
 
 Le projet d'extension du périmètre communautaire est arrêté par le représentant
@@ -25,7 +25,7 @@ ou de la moitié au moins des conseils municipaux de ces communes représentant
 les deux tiers de la population. Cette majorité doit nécessairement comprendre
 le conseil municipal de la commune dont la population est supérieure à la moitié
 de la population totale concernée ou, à défaut, de la commune dont la population
-est la plus importante. A défaut de délibération dans le délai de trois mois à
+est la plus importante.A défaut de délibération dans le délai de trois mois à
 compter de la notification du projet d'extension du périmètre, l'accord est
 réputé donné.
 

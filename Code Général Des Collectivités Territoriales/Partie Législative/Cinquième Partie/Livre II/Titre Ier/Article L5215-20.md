@@ -15,17 +15,17 @@ c) Construction ou aménagement, entretien, gestion et animation d'équipements,
 de réseaux d'équipements ou d'établissements culturels, socioculturels,
 socio-éducatifs, sportifs, lorsqu'ils sont d'intérêt communautaire ;
 
-d) Lycées et collèges dans les conditions fixées au chapitre Ier de la section 2
-du titre II de la loi n° 83-663 du 22 juillet 1983 complétant la loi n° 83-8 du
-7 janvier 1983 relative à la répartition de compétences entre les communes, les
-départements, les régions et l'Etat ;
+d) Lycées et collèges dans les conditions fixées au titre Ier du livre II et au
+chapitre Ier du titre II du livre IV ainsi qu'à l'article L. 521-3 du code de
+l'éducation ;
 
 2° En matière d'aménagement de l'espace communautaire :
 
-a) Schéma directeur et schéma de secteur ; plan d'occupation des sols et
-documents d'urbanisme en tenant lieu ; création et réalisation de zones
-d'aménagement concerté d'intérêt communautaire ; et après avis des conseils
-municipaux, constitution de réserves foncières d'intérêt communautaire ;
+a) Schéma de cohérence territoriale et schéma de secteur ; plan local
+d'urbanisme et documents d'urbanisme en tenant lieu ; création et réalisation de
+zones d'aménagement concerté d'intérêt communautaire ; et après avis des
+conseils municipaux, constitution de réserves foncières d'intérêt communautaire
+;
 
 b) Organisation des transports urbains au sens du chapitre II du titre II de la
 loi n° 82-1153 du 30 décembre 1982 d'orientation des transports intérieurs, sous

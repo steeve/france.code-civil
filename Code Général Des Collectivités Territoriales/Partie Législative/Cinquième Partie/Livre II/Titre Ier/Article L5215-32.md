@@ -1,6 +1,6 @@
 Article L5215-32
 ----
-- Les recettes du budget de la communauté urbaine comprennent :
+Les recettes du budget de la communauté urbaine comprennent :
 
 1° Le produit des impôts directs mentionnés au 1° du a de l'article L. 2331-3
 et, le cas échéant, aux articles 1609 quinquies C ou 1609 nonies C du code
@@ -18,10 +18,9 @@ redevance d'enlèvement des ordures ménagères sur les terrains de camping, de 
 redevance spéciale, soit le produit de la redevance pour enlèvement des ordures,
 déchets et résidus ;
 
-3° Le produit de la redevance de raccordement des effluents privés aux réseaux
-d'assainissement ou aux installations d'épuration, prévue à l'article 18 de la
-loi n° 64-1245 du 16 décembre 1964 relative au régime et à la répartition des
-eaux et à la lutte contre leur pollution ;
+3° Le produit des redevances de raccordement des effluents privés aux réseaux
+d'assainissement ou aux installations d'épuration, prévues à l'article L.
+1331-14 du code de la santé publique ;
 
 4° Les attributions imputées sur la dotation globale de fonctionnement ;
 
@@ -55,4 +54,4 @@ et des syndicats mixtes ;
 vertu des dispositions de l'article L. 332-9 du code de l'urbanisme.
 
 15° Le produit du versement destiné aux transports en commun prévu à l'article
-L. 2333-34.
+L. 2333-64.
