@@ -13,7 +13,16 @@ reversées en totalité à l'Etat ou, selon le cas, à la région lorsque le
 stagiaire abandonne sans motif légitime le stage avant la fin de ce dernier ou
 fait l'objet d'un renvoi pour faute lourde.
 
-A titre exceptionnel, une remise partielle de dette peut être accordée, suivant
-le cas, par le commissaire de la République du département, le président du
-conseil régional ou par le centre national pour l'aménagement des structures des
-exploitations agricoles.
+Le recouvrement des sommes indûment versées est opéré, suivant le cas, soit par
+le préfet de département lorsque le reversement n'a pu être obtenu par
+l'organisme auquel a été confiée la gestion de la rémunération, soit par le
+Centre national pour l'aménagement des structures des exploitations agricoles,
+soit par le président du conseil régional.
+
+A titre exceptionnel, une remise partielle ou totale de dette peut être
+accordée, suivant le cas, soit par le préfet de département, soit par le Centre
+national pour l'aménagement des structures des exploitations agricoles, soit par
+le président du conseil régional.
+
+Pour l'application des dispositions qui précèdent, le préfet de département
+compétent est celui qui est mentionné à l'article R. 961-10.
