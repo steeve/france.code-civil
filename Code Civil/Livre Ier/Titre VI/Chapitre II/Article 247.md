@@ -11,7 +11,8 @@ peut renvoyer l'affaire en l'état à une audience collégiale. Ce renvoi est de
 droit à la demande d'une partie.
 
 Il est également seul compétent, après le prononcé du divorce, quelle qu'en soit
-la cause, pour statuer sur les modalités de l'exercice de l'autorité parentale
-et sur la modification de la pension alimentaire, ainsi que pour décider de
-confier les enfants à un tiers. Il statue alors sans formalité et peut être
+la cause, pour statuer sur les modalités de l'exercice de l'autorité parentale,
+sur la modification de la pension alimentaire et sur la révision de la
+prestation compensatoire ou de ses modalités de paiement, ainsi que pour décider
+de confier les enfants à un tiers. Il statue alors sans formalité et peut être
 saisi par les parties intéressées sur simple requête.

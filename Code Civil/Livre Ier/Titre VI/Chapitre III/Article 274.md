@@ -1,4 +1,4 @@
 Article 274
 ----
-Lorsque la consistance des biens de l'époux débiteur de la prestation
-compensatoire le permet, celle-ci prend la forme d'un capital.
+La prestation compensatoire prend la forme d'un capital dont le montant est fixé
+par le juge.
