@@ -1,18 +1,12 @@
 Article R*252-17
 ----
 La décision d'agrément est publiée au Journal officiel de la République
-française lorsqu'elle est prise par les ministres mentionnés à l'article R.
-252-13, et au recueil des actes administratifs lorsqu'elle émane du préfet.
+française lorsqu'elle est prise au plan national et au Recueil des actes
+administratifs de la préfecture dans les autres cas. Le préfet de chaque
+département concerné en adresse copie aux greffes des tribunaux d'instance et de
+grande instance intéressés.
 
-Dans ce dernier cas, le préfet en adresse copie aux greffes des tribunaux
-d'instance et de grande instance intéressés.
-
-Il en est de même d'une copie de l'attestation prévue au premier alinéa de
-l'article R. 252-16 lorsque aucune décision n'a été prise à l'égard de la
-demande d'agrément dans l'un ou l'autre des délais mentionnés à l'article R.
-252-14.
-
-Dans chaque département, le préfet publie annuellement au recueil des actes
-administratifs la liste des associations qui ont été agréées par décision
-préfectorale expresse ou tacite dans un cadre géographique relevant en tout ou
-en partie de sa compétence.
+Le ministre chargé de l'environnement publie annuellement la liste des
+associations bénéficiant d'un agrément national. Le préfet publie annuellement
+au Recueil des actes administratifs la liste des associations qui ont été
+agréées dans un cadre géographique relevant de tout ou partie de sa compétence.

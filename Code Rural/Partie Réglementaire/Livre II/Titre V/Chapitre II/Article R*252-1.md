@@ -1,14 +1,10 @@
 Article R*252-1
 ----
 Les dispositions du présent chapitre sont applicables aux associations qui
-sollicitent l'agrément prévu :
-
-a) A l'article L. 252-1 relatif aux associations exerçant leurs activités
-statutaires dans le domaine de la protection de la nature et de l'environnement
-;
-
-b) A l'article L. 121-8 du code de l'urbanisme relatif aux associations locales
-d'usagers ;
-
-c) A l'article L. 160-1 du code de l'urbanisme relatif aux associations de
-protection et d'amélioration du cadre de vie et de l'environnement.
+sollicitent l'agrément prévu à l'article L. 252-1 relatif aux associations
+agréées pour la protection de l'environnement, ou qui en bénéficient. Les
+associations agréées antérieurement au 3 février 1995, y compris celles agréées
+en qualité d'association reconnue d'utilité publique qui sont réputées agréées
+en application de l'article L. 252-1 du code rural, n'ont pas à présenter de
+nouvelle demande d'agrément. Elles sont pour le surplus soumises aux
+dispositions du présent chapitre.
