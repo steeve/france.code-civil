@@ -28,3 +28,7 @@ Si la suspension d'activité se poursuit au-delà de trois mois, le préfet du
 département décide, compte tenu de la situation de l'entreprise, si les salariés
 peuvent encore être considérés comme étant à la recherche d'un emploi. Cette
 décision est prise pour une durée limitée.
+
+5° Les salariés dont la durée du travail est fixée en application des
+dispositions des II et III de l'article L. 212-15-3 en cas de réduction de
+l'horaire de travail.
