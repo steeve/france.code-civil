@@ -6,8 +6,7 @@ est délivré par le directeur des services fiscaux du département au chef-lieu
 duquel est localisée la direction de contrôle fiscal dans le ressort de laquelle
 est situé l'immeuble concerné. Si la demande présente des difficultés
 particulières tenant notamment à la nature de l'immeuble ou aux conditions de
-son occupation, la décision est prise par le ministre de l'économie, des
-finances et du budget.
+son occupation, la décision est prise par le ministre chargé du budget.
 
 L'agrément est délivré pour la région d'Ile-de-France par le directeur chargé de
 la direction spécialisée des impôts pour la région d'Ile-de-France et pour Paris
