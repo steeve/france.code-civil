@@ -12,8 +12,7 @@ Pour les affaires dans lesquelles des agents de l'administration des douanes ont
 été requis en application des I et II de l'article 28-1 du code de procédure
 pénale, le ministère public exerce l'action publique et l'action pour
 l'application des sanctions fiscales. Dans ce cas, les dispositions de l'article
-L. 248 du présent livre relatives au droit de transaction ne sont pas
-applicables.
+L. 248 relatives au droit de transaction ne sont pas applicables.
 
 Dans ces mêmes procédures, l'administration des douanes exerce l'action en
 paiement des droits et taxes compromis ou éludés, prévue par l'article 1804 B du

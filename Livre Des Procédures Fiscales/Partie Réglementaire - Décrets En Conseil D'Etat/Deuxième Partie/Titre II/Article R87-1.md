@@ -10,8 +10,8 @@ b. Un relevé des valeurs liquidatives dégagées au cours des six dernières
 années.
 
 c. La liste des personnes pour lesquelles ils sont tenus de remplir les
-obligations prévues à l'article 41 sexdecies F au cours des six dernières
-années.
+obligations prévues à l'article 41 sexdecies F de l'annexe III au code général
+des impôts au cours des six dernières années.
 
 Dans le cadre de ses obligations fiscales, le gérant doit tenir à la disposition
 de l'administration toutes justifications de nature à prouver la conformité du

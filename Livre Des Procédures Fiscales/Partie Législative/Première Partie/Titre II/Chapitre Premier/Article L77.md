@@ -29,9 +29,10 @@ Lorsque les associés ou actionnaires sont domiciliés ou ont leur siège hors d
 France, la retenue à la source sur le revenu des capitaux mobiliers due en
 raison de cette distribution par application des dispositions du 2 de l'article
 119 bis du code précité, est, à la demande des entreprises, établie sur le
-montant du redressement soumis à l'impôt sur les sociétés, diminué du montant de
-ce dernier impôt. En outre, le montant de cette retenue à la source constitue un
-crédit d'impôt déductible de l'impôt sur le revenu dû par les bénéficiaires.
+montant de la rectification soumis à l'impôt sur les sociétés, diminué du
+montant de ce dernier impôt. En outre, le montant de cette retenue à la source
+constitue un crédit d'impôt déductible de l'impôt sur le revenu dû par les
+bénéficiaires.
 
 Les demandes que les contribuables peuvent présenter au titre des troisième et
 quatrième alinéas doivent être faites au plus tard dans le délai de trente jours
