@@ -1,18 +1,9 @@
 Article L322-4-14
 ----
-En vue de faciliter l'insertion sociale par l'exercice d'une activité
-professionnelle de personnes sans emploi rencontrant des difficultés
-particulières d'insertion, notamment des jeunes de moins de vingt-six ans, des
-chômeurs de longue durée, des personnes prises en charge au titre de l'aide
-sociale ou au titre de la protection judiciaire de la jeunesse, des
-bénéficiaires du revenu minimum d'insertion, l'Etat peut conclure des
-conventions avec des employeurs dont l'activité a spécifiquement cet objet.
-
-Les contrats passés par ces employeurs avec leurs salariés qui relèvent des
-catégories susmentionnées sont des contrats à durée déterminée conclus en
-application de l'article L. 122-2 dont la durée ne peut excéder vingt-quatre
-mois et qui, dans ce cas, peuvent être renouvelés deux fois dans la limite de
-cette durée.
-
-Les conventions peuvent prévoir des aides de l'Etat dont le montant et les
-modalités sont fixés par décret.
+Les bénéficiaires des contrats emploi-solidarité et des contrats locaux
+d'orientation ne sont pas pris en compte, pendant toute la durée du contrat,
+dans le calcul de l'effectif du personnel des organismes dont ils relèvent pour
+l'application à ces organismes des dispositions législatives et réglementaires
+qui se réfèrent à une condition d'effectif minimum de salariés, exception faite
+de celles qui concernent la tarification des risques d'accidents du travail et
+des maladies professionnelles.

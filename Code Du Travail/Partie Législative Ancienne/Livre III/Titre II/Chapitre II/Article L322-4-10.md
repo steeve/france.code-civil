@@ -1,14 +1,18 @@
 Article L322-4-10
 ----
-En application des conventions prévues à l'article L. 322-4-7, l'Etat prend en
-charge tout ou partie de la rémunération versée aux personnes recrutées par un
-contrat emploi-solidarité. Cette aide est versée à l'organisme employeur et ne
-donne lieu à aucune charge fiscale ou parafiscale. L'Etat peut également prendre
-en charge tout ou partie des frais engagés pour dispenser aux intéressés une
-formation complémentaire.
+Par dérogation aux dispositions de l'article L. 122-3-8, les contrats
+emploi-solidarité et les contrats locaux d'orientation peuvent être rompus avant
+leur terme, à l'initiative du salarié lorsque la rupture du contrat a pour objet
+de permettre au salarié d'occuper un autre emploi ou de suivre une formation
+conduisant à une qualification visée aux quatre premiers alinéas de l'article L.
+900-3.
 
-La part de la rémunération prise en charge par l'Etat est calculée sur la base
-du salaire minimum de croissance. Cette part de la rémunération est majorée en
-fonction de la durée antérieure du chômage, de l'âge, de la situation au regard
-de l'allocation de revenu minimum d'insertion des bénéficiaires du contrat
-emploi-solidarité, dans les conditions fixées par un décret en Conseil d'Etat.
+Le contrat emploi-solidarité et le contrat local d'orientation ne peuvent se
+cumuler [*non-cumul*] avec une activité professionnelle ou une formation
+professionnelle rémunérées.
+
+En cas de dénonciation de la convention par les services du ministère chargé de
+l'emploi en raison d'une des situations prévues à l'alinéa précédent, le contrat
+emploi-solidarité et le contrat local d'orientation peuvent être rompus avant
+leur terme à l'initiative de l'employeur, sans qu'il y ait lieu à dommages et
+intérêts tels que prévus par l'article L. 122-3-8.

@@ -3,7 +3,8 @@ Article L900-3
 Tout travailleur engagé dans la vie active ou toute personne qui s'y engage a
 droit à la qualification professionnelle et doit pouvoir suivre, à son
 initiative, une formation lui permettant, quel que soit son statut, d'acquérir
-une telle qualification :
+une qualification correspondant aux besoins de l'économie prévisibles à court ou
+moyen terme :
 
 - soit entrant dans le champ d'application de l'article 8 de la loi n° 71-577 du
 16 juillet 1971 d'orientation sur l'enseignement technologique ;
