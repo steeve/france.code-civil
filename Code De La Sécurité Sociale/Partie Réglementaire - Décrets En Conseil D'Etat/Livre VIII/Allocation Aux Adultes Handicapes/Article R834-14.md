@@ -1,19 +1,16 @@
 Article R834-14
 ----
-La liquidation du droit à l'allocation de logement et à la prime de déménagement
-prévues aux articles L. 831-1 et suivants, ainsi que le service de ces
-prestations sont assurés par les caisses d'allocations familiales, sous réserve
-des alinéas suivants.
+La liquidation et le service de l'allocation de logement prévue aux articles L.
+831-1 et suivants ainsi que le service de ces prestations sont assurés par les
+caisses d'allocations familiales, sous réserve des alinéas suivants.
 
 Lorsqu'une caisse de mutualité sociale agricole est compétente pour verser à un
 allocataire les prestations familiales dont il bénéficie ou serait susceptible
 de bénéficier, la liquidation du droit et le service des prestations sont
-assurés par cet organisme.
-
-Pour les personnes âgées de moins de vingt-cinq ans et mentionnées au 4° de
-l'article L. 831-2, la liquidation et le service de l'allocation de logement et
-de la prime de déménagement sont assurés par l'employeur si les intéressés ont
-la qualité de fonctionnaires ou d'agents des administrations, services,
+assurés par cet organisme. Pour les personnes âgées de moins de vingt-cinq ans
+et mentionnées au 4° de l'article L. 831-2, la liquidation et le service de
+l'allocation de logement sont assurés par l'employeur si les intéressés ont la
+qualité de fonctionnaires ou d'agents des administrations, services,
 établissements publics et offices de l'Etat ne présentant pas un caractère
 industriel ou commercial, à l'exclusion des personnes rétribuées sur la base des
 salaires pratiqués dans le commerce et l'industrie.

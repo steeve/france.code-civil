@@ -1,7 +1,7 @@
 Article D381-1
 ----
 Sont affiliées obligatoirement à l'assurance vieillesse du régime général de
-sécurité sociale, les personnes isolées bénéficiaires soit de l'allocation au
+sécurité sociale, les personnes isolées bénéficiaires soit de l'allocation pour
 jeune enfant sous condition de ressources, soit du complément familial, soit de
 l'allocation parentale d'éducation, qui ont à charge au moins un enfant de moins
 de trois ans ou au moins trois enfants et dont les ressources ne dépassent pas

@@ -1,8 +1,8 @@
 Article D755-15
 ----
 Pour la mise en oeuvre de la condition de ressources prévue aux articles L.
-542-2 et L. 542-5, il est fait application des articles D. 542-8, D. 542-9, D.
-542-11 et D. 542-12.
+542-2 et L. 542-5, il est fait application des articles D. 542-8, D. 542-9 et D.
+542-12 ainsi que des premier et deuxième alinéas de l'article D. 542-11.
 
 Le loyer minimum annuel qui doit rester à la charge de l'allocataire est calculé
 en fonction de la composition de la famille et en fonction des ressources
