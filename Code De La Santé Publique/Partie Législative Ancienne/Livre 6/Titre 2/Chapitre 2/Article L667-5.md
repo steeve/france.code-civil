@@ -1,74 +1,52 @@
 Article L667-5
 ----
-L'Agence française du sang a pour objet [*buts*] de contribuer à la définition
-et à l'application de la politique de transfusion sanguine, de coordonner et de
-contrôler l'activité et la gestion des établissements de transfusion sanguine et
-d'assurer des missions d'intérêt général afin de garantir à la fois la plus
-grande sécurité possible et la satisfaction des besoins en matière de
-transfusion sanguine et de favoriser l'adaptation de l'activité transfusionnelle
-aux évolutions médicales, scientifiques et technologiques, dans le respect des
-principes éthiques.
+Il est créé un établissement public de l'Etat, placé sous la tutelle du ministre
+chargé de la santé, dénommé "Etablissement français du sang". Cet établissement
+veille à la satisfaction des besoins en matière de produits sanguins labiles et
+à l'adaptation de l'activité transfusionnelle aux évolutions médicales,
+scientifiques et technologiques dans le respect des principes éthiques. Il
+organise sur l'ensemble du territoire national les activités de collecte du
+sang, de préparation et de qualification des produits sanguins labiles, ainsi
+que leur distribution aux établissements de santé.
 
-A cette fin, elle est notamment chargée [*attributions*] :
+Il est notamment chargé :
 
-1° Au titre de la contribution à la définition et à l'application de la
-politique de transfusion sanguine :
+1° De gérer le service public transfusionnel et ses activités annexes, dans le
+respect des conditions de sécurité définies par le présent code ;
 
-a) De promouvoir le don du sang et les conditions de sa bonne utilisation ainsi
-que de veiller au strict respect des principes éthiques par l'ensemble de la
-chaîne transfusionnelle ;
+2° De promouvoir le don du sang, les conditions de sa bonne utilisation et de
+veiller au strict respect des principes éthiques par l'ensemble de la chaîne
+transfusionnelle ;
 
-b) De donner aux autorités compétentes de l'Etat des avis sur les conditions
-techniques, sanitaires, médicales et de gestion auxquelles sont soumis les
-établissements de transfusion sanguine, sur les tarifs de cession des produits
-sanguins labiles ainsi que sur toute mesure concernant l'organisation de la
-transfusion sanguine, la distribution et l'utilisation des produits sanguins ;
+3° D'assurer la qualité au sein des établissements de transfusion sanguine, et
+notamment de mettre en oeuvre les bonnes pratiques mentionnées à l'article L.
+668-3, en conformité avec les dispositions législatives et réglementaires
+relatives aux activités transfusionnelles ;
 
-c) D'établir et de soumettre à l'homologation du ministre chargé de la santé les
-règlements mentionnés au 1° de l'article L. 666-8 et à l'article L. 668-3 et de
-veiller à leur application ;
+4° Dans le cadre du réseau d'hémovigilance, d'assurer la transmission des
+données relatives à la sécurité sanitaire des produits sanguins à l'Agence
+française de sécurité sanitaire des produits de santé et des données
+épidémiologiques à l'Institut de veille sanitaire ;
 
-d) De préparer les projets des schémas d'organisation de la transfusion sanguine
-prévus au chapitre IV ci-après et de veiller à leur application ;
+5° D'élaborer, d'actualiser et de mettre en oeuvre les schémas d'organisation de
+la transfusion sanguine ;
 
-e) De recueillir ou faire recueillir toutes données sur l'activité de
-transfusion sanguine, notamment en vue des actions d'hémovigilance ;
-
-2° Au titre du contrôle et de la coordination de l'activité des établissements
-de transfusion sanguine :
-
-a) De prendre les décisions d'agrément ou d'approbation, d'autorisation, de
-retrait ou de suspension prévues aux articles L. 668-1, L. 668-4, L. 668-5, L.
-668-8 et L. 668-11 ;
-
-b) De veiller au respect des dispositions législatives et réglementaires
-applicables aux établissements de transfusion sanguine ainsi que des conditions
-auxquelles sont subordonnés les agréments et autorisations dont ils bénéficient
+6° De favoriser, en liaison avec les organismes de recherche et d'évaluation,
+l'activité de recherche en transfusion sanguine et de promouvoir la diffusion
+des connaissances scientifiques et techniques en matière de transfusion sanguine
 ;
 
-c) De gérer le fonds d'orientation de la transfusion sanguine ;
+7° De tenir un fichier national des donneurs et des receveurs de groupes rares
+et une banque de sangs rares, et de coordonner l'activité des laboratoires liés
+à ces activités ;
 
-d) De participer à la formation des personnels des établissements de transfusion
-sanguine ;
-
-e) De favoriser et de coordonner, en liaison avec les organismes de recherche,
-l'activité de recherche des établissements de transfusion sanguine et de
-promouvoir la diffusion des connaissances scientifiques et techniques dans
-l'activité transfusionnelle ;
-
-3° Au titre des missions d'intérêt national relatives à l'activité de
-transfusion sanguine ;
-
-a) De tenir un fichier national des donneurs de groupes rares et de coordonner
-l'activité des laboratoires de référence ;
-
-b) De procéder à des expertises techniques et des actions d'évaluation de
-l'activité de transfusion sanguine ;
-
-c) De participer à l'organisation et à l'acheminement des secours en cas de
+8° De participer à l'organisation et à l'acheminement des secours en cas de
 catastrophe nationale ou internationale nécessitant de recourir aux moyens de
 transfusion sanguine, dans le cadre des lois et règlements applicables à ces
-événements.
+événements ;
 
-L'agence remet chaque année au Gouvernement un rapport sur l'activité de
-transfusion sanguine. Ce rapport est rendu public.
+9° De participer à la coopération scientifique et technique européenne et
+internationale de la France.
+
+L'Etablissement français du sang établit chaque année un rapport d'activité qui
+est remis au Gouvernement. Ce rapport est rendu public.

@@ -1,25 +1,22 @@
 Article L667-8
 ----
-Le personnel de l'agence comprend, outre des agents régis par le statut général
-de la fonction publique, des agents contractuels qui peuvent être recrutés, le
-cas échéant sous contrat à durée indéterminée, par dérogation à l'article 3 de
-la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des
-fonctionnaires.
+Le personnel de l'Etablissement français du sang comprend :
 
-Les agents contractuels sont tenus au secret professionnel et à la discrétion
-professionnelle dans les mêmes conditions que celles définies à l'article 26 de
-la loi n° 83-634 du 13 juillet 1983 précitée.
+1° Des agents régis par les titre II, III ou IV du statut général des
+fonctionnaires, des personnels mentionnés aux 2° et 3° de l'article L. 714-27 ou
+des agents publics régis par des statuts particuliers, en position de
+détachement ou de mise à disposition ;
 
-Ils ne peuvent, par eux-mêmes ou par personne interposée, avoir, dans les
-établissements contrôlés par l'agence ou en relation avec elle, aucun intérêt
-susceptible de compromettre leur indépendance.
+2° Des personnels régis par le code du travail.
 
-Un décret en Conseil d'Etat définit les activités privées qu'en raison de leur
-nature, les agents contractuels de l'agence ayant définitivement cessé leurs
-fonctions ne peuvent exercer, le cas échéant, pendant une durée limitée.
+Les conditions d'emploi des personnels de l'Etablissement français du sang
+mentionnés au 2° ci-dessus sont déterminées par une convention collective de
+travail. Cette convention collective de travail, ses annexes et avenants
+n'entrent en application qu'après approbation par le ministre chargé de la
+santé.
 
-Les autres personnes collaborant aux travaux de l'agence ne peuvent, sous les
-peines prévues à l'article 175-1 du code pénal, prêter leur concours à une
-mission relative à une affaire dans laquelle elles auraient un intérêt direct ou
-indirect ; elles sont soumises aux obligations énoncées au deuxième alinéa du
-présent article.
+Un décret en Conseil d'Etat fixe les qualifications des personnels de
+l'Etablissement français du sang pour les catégories qu'il détermine.
+
+Les personnels de l'Etablissement français du sang sont soumis aux dispositions
+de l'article L. 793-8.

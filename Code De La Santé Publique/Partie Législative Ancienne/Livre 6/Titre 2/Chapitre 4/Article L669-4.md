@@ -25,13 +25,7 @@ sanguine comprenant [*composition*] :
 10° Des représentants des organismes d'assurance maladie.
 
 La commission est consultée sur le projet de schéma d'organisation de la
-transfusion sanguine et ses modifications, sur la délivrance et le retrait des
-agréments et autorisations visés aux articles L. 668-1, L. 668-4 et L. 668-5,
-ainsi que sur l'attribution des subventions prévues à l'article L. 667-11.
-
-Lorsque le président de l'Agence française du sang prend une décision
-d'autorisation en application de l'article L. 668-5, il en informe la commission
-d'organisation de la transfusion sanguine dans un délai de quinze jours.
+transfusion sanguine et ses modifications.
 
 La commission peut être également consultée par l'Agence française du sang sur
 toute autre question concernant l'activité de transfusion sanguine dans le
