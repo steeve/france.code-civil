@@ -1,11 +1,11 @@
 Article L3312-3
 ----
-- Le conseil général entend les comptes d'administration concernant les recettes
-et les dépenses du budget départemental qui lui sont présentés par le président
-du conseil général et en débat sous la présidence de l'un de ses membres élu à
-cet effet.
+Les crédits sont votés par chapitre et, si le conseil général en décide ainsi,
+par article.
 
-Dans ce cas, le président du conseil général peut, même s'il n'est plus en
-fonction, assister à la discussion ; mais il doit se retirer au moment du vote.
+Dans ces deux cas, le conseil général peut cependant spécifier que certains
+crédits sont spécialisés par article.
 
-Les comptes sont arrêtés par le conseil général.
+En cas de vote par article, le président du conseil général peut effectuer, par
+décision expresse, des virements d'article à article à l'intérieur du même
+chapitre à l'exclusion des articles dont les crédits sont spécialisés.

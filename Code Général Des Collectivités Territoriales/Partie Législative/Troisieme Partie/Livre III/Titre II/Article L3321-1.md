@@ -1,6 +1,6 @@
 Article L3321-1
 ----
-- Sont obligatoires pour le département :
+Sont obligatoires pour le département :
 
 1° Les dépenses relatives au fonctionnement des organes délibérants et à
 l'entretien de l'hôtel du département ;
@@ -48,3 +48,12 @@ de pêche ;
 17° Les dépenses de remboursement de la dette en capital ;
 
 18° Les dettes exigibles.
+
+19° Les dotations aux amortissements ;
+
+20° Les dotations aux provisions ;
+
+21° La reprise des subventions d'équipement reçues.
+
+Un décret détermine les modalités d'application des dispositions des 19°, 20° et
+21°.

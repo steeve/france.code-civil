@@ -1,17 +1,18 @@
 Article L24
 ----
-I. - La jouissance de la pension civile est immédiate :
+I. - La liquidation de la pension intervient :
 
-1° Pour les fonctionnaires civils radiés des cadres par limite d'âge ainsi que
-pour ceux qui ont atteint, à la date de radiation des cadres, l'âge de soixante
-ans ou, s'ils ont accompli au moins quinze ans de services actifs ou de la
-catégorie B, l'âge de cinquante-cinq ans.
+1° Lorsque le fonctionnaire civil est radié des cadres par limite d'âge, ou s'il
+a atteint, à la date de l'admission à la retraite, l'âge de soixante ans, ou de
+cinquante-cinq ans s'il a accompli au moins quinze ans de services dans des
+emplois classés dans la catégorie active.
 
-Sont rangés dans la catégorie B les emplois présentant un risque particulier ou
-des fatigues exceptionnelles. La nomenclature en est établie par décrets en
-Conseil d'Etat ;
+Sont classés dans la catégorie active les emplois présentant un risque
+particulier ou des fatigues exceptionnelles. La nomenclature en est établie par
+décret en Conseil d'Etat ;
 
-2° Pour les fonctionnaires civils mis à la retraite pour invalidité ;
+2° Lorsque le fonctionnaire est mis à la retraite pour invalidité et qu'il n'a
+pas pu être reclassé dans un emploi compatible avec son état de santé ;
 
 3° Pour les femmes fonctionnaires :
 
@@ -23,22 +24,28 @@ Sont assimilés aux enfants visés à l'alinéa précédent les enfants énumér
 paragraphe II de l'article L. 18 que les intéressées ont élevés dans les
 conditions prévues au paragraphe III dudit article.
 
-b) Soit lorsqu'il est justifié, dans les formes prévues à l'article L. 31 :
+b) Abrogé.
 
-Qu'elles sont atteintes d'une infirmité ou d'une maladie incurable les plaçant
-dans l'impossibilité d'exercer leurs anciennes fonctions ;
+4° Lorsque le fonctionnaire ou son conjoint est atteint d'une infirmité ou d'une
+maladie incurable le plaçant dans l'impossibilité d'exercer une quelconque
+profession, dans les conditions prévues à l'article L. 31 et sous réserve que le
+fonctionnaire ait accompli au moins quinze ans de services.
 
-Ou que leur conjoint est atteint d'une infirmité ou d'une maladie incurable le
-plaçant dans l'impossibilité d'exercer une profession quelconque.
+II. - La liquidation de la pension militaire intervient :
 
-II. - La jouissance de la pension militaire est immédiate :
+1° Lorsqu'un officier est radié des cadres par limite d'âge ou par limite de
+durée de services, ou par suite d'infirmités, ou encore s'il réunit, à la date
+de son admission à la retraite, vingt-cinq ans de services effectifs ;
 
-1° Pour les officiers radiés des cadres par limite d'âge ainsi que pour ceux
-réunissant, à la date de leur radiation des cadres, vingt-cinq ans de services
-effectifs ou qui ont été radiés des cadres par suite d'infirmités ;
+2° Lorsqu'un militaire non officier est radié des cadres par limite d'âge ou par
+limite de durée de services, ou par suite d'infirmités, ou encore s'il réunit, à
+la date de son admission à la retraite, quinze ans de services effectifs ;
 
-2° Pour les militaires non officiers.
+3° Pour un militaire, lorsque son conjoint est atteint d'une infirmité ou d'une
+maladie incurable le plaçant dans l'impossibilité d'exercer une quelconque
+profession, et sous réserve que le militaire ait accompli au moins quinze ans de
+services.
 
-III. - La jouissance de la solde de réforme est immédiate. Toutefois, cette
-solde n'est perçue que pendant un temps égal à la durée des services
-effectivement accomplis par son bénéficiaire.
+III. - La liquidation de la solde de réforme intervient immédiatement.
+Toutefois, cette solde n'est perçue que pendant un temps égal à la durée des
+services effectivement accomplis par son bénéficiaire.

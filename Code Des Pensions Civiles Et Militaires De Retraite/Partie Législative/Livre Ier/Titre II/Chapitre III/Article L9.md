@@ -1,16 +1,36 @@
 Article L9
 ----
-Le temps passé dans toutes positions statutaires ne comportant pas
-l'accomplissement de services effectifs ne peut entrer en compte dans la
-constitution du droit à pension, sauf, d'une part, dans le cas où le
-fonctionnaire ou le militaire se trouve placé en position régulière d'absence
-pour cause de maladie et, d'autre part, dans les cas exceptionnels prévus par
-une loi ou par un règlement d'administration publique.
+Le temps passé dans une position statutaire ne comportant pas l'accomplissement
+de services effectifs au sens de l'article L. 5 ne peut entrer en compte dans la
+constitution du droit à pension, sauf :
+
+1° Dans la limite de trois ans par enfant légitime, naturel ou adoptif, né ou
+adopté à partir du 1er janvier 2004, sous réserve que le titulaire de la pension
+ait bénéficié :
+
+a) D'un temps partiel de droit pour élever un enfant ;
+
+b) D'un congé parental ;
+
+c) D'un congé de présence parentale ;
+
+d) Ou d'une disponibilité pour élever un enfant de moins de huit ans.
+
+Les modalités de prise en compte de ces périodes d'interruption ou de réduction
+d'activité prévues par les articles 37 bis, 54 et 54 bis de la loi n° 84-16 du
+11 janvier 1984 précitée, par l'article 47 du décret n° 85-986 du 16 septembre
+1985 relatif au régime particulier de certaines positions des fonctionnaires de
+l'Etat et à certaines modalités de cessation définitive de fonctions et par la
+loi n° 72-662 du 13 juillet 1972 portant statut général des militaires sont
+précisées par décret en Conseil d'Etat ;
+
+2° Dans les cas exceptionnels prévus par une loi ou par un décret en Conseil
+d'Etat.
 
 En ce qui concerne les fonctionnaires civils, et hormis les positions prévues
 aux articles 34 et 45 de la loi n° 84-16 du 11 janvier 1984 précitée, le temps
-passé dans toute position ne comportant pas l'accomplissement de services
-effectifs et prévue par les textes visés à l'alinéa précédent n'est compté comme
-service effectif que dans la limite maximum de cinq ans et sous réserve que les
-bénéficiaires subissent pendant ce temps, sur leur dernier traitement
-d'activité, les retenues prescrites par le présent code.
+passé dans une position ne comportant pas l'accomplissement de services
+effectifs n'est compté comme service effectif que dans la limite de cinq ans et
+sous réserve que les bénéficiaires subissent pendant ce temps, sur leur dernier
+traitement d'activité, les retenues prescrites par le présent code. Ces
+dispositions ne sont pas applicables aux cas prévus au 1°.

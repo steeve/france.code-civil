@@ -11,4 +11,9 @@ directeur composé de représentants de l'Etat et d'élus des départements
 d'outre-mer, dans la collectivité départementale de Mayotte et de la
 collectivité territoriale de Saint-Pierre-et-Miquelon.
 
+Le président du conseil d'administration de l'agence d'insertion fournit
+annuellement au comité directeur du fonds un rapport sur l'activité de
+l'établissement et sur l'emploi des crédits qui lui ont été alloués par le fonds
+l'année précédente.
+
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article.

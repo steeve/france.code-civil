@@ -3,7 +3,8 @@ Article R322-2
 Un certificat d'immatriculation, dit "carte grise", établi dans les conditions
 fixées par le ministre chargé des transports, après avis du ministre de
 l'intérieur, est remis au propriétaire ; ce certificat indique le numéro
-d'immatriculation assigné au véhicule.
+d'immatriculation assigné au véhicule. Le certificat d'immatriculation peut
+comporter un coupon détachable.
 
 Dans le cas de véhicules de transport exceptionnel dont les dimensions ou le
 poids excèdent les limites réglementaires, la carte grise doit porter un signe

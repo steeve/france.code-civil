@@ -6,18 +6,21 @@ pendant le délai de trente jours à compter du premier versement.
 
 La proposition d'assurance ou de contrat doit comprendre un projet de lettre
 destiné à faciliter l'exercice de cette faculté de renonciation. Elle doit
-indiquer notamment, pour les contrats qui en comportent, les valeurs de rachat
-au terme de chacune des huit premières années au moins. L'entreprise d'assurance
-ou de capitalisation doit, en outre, remettre, contre récépissé, une note
-d'information sur les dispositions essentielles du contrat, sur les conditions
-d'exercice de la faculté de renonciation, ainsi que sur le sort de la garantie
-décès en cas d'exercice de cette faculté de renonciation. Le défaut de remise
-des documents et informations énumérés au présent alinéa entraîne de plein droit
-la prorogation du délai prévu au premier alinéa jusqu'au trentième jour suivant
-la date de remise effective de ces documents. Un nouveau délai de trente jours
-court à compter de la date de reception du contrat, lorsque celui-ci apporte des
-réserves ou des modifications essentielles à l'offre originelle, ou à compter de
-l'acceptation écrite, par le souscripteur, de ces réserves ou modifications.
+indiquer notamment, pour les plans d'épargne individuelle pour la retraite créés
+à l'article 108 de la loi n° 2003-775 du 21 août 2003 portant réforme des
+retraites, les valeurs de transfert ou pour les contrats qui en comportent, les
+valeurs de rachat au terme de chacune des huit premières années au moins.
+L'entreprise d'assurance ou de capitalisation doit, en outre, remettre, contre
+récépissé, une note d'information sur les dispositions essentielles du contrat,
+sur les conditions d'exercice de la faculté de renonciation, ainsi que sur le
+sort de la garantie décès en cas d'exercice de cette faculté de renonciation. Le
+défaut de remise des documents et informations énumérés au présent alinéa
+entraîne de plein droit la prorogation du délai prévu au premier alinéa jusqu'au
+trentième jour suivant la date de remise effective de ces documents. Un nouveau
+délai de trente jours court à compter de la date de reception du contrat,
+lorsque celui-ci apporte des réserves ou des modifications essentielles à
+l'offre originelle, ou à compter de l'acceptation écrite, par le souscripteur,
+de ces réserves ou modifications.
 
 La renonciation entraîne la restitution par l'entreprise d'assurance ou de
 capitalisation de l'intégralité des sommes versées par le contractant, dans le

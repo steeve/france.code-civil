@@ -8,11 +8,9 @@ ascendants ou descendants ou leurs conjoints respectifs, ou à leurs frères ou
 soeurs, et que le bien soit utilisé par le preneur dans l'exercice de sa
 profession principale.
 
-2° Il est complété par deux alinéas ainsi rédigés :
-
 Les biens ruraux donnés à bail, dans les conditions prévues aux articles du code
 rural précités, à une société à objet principalement agricole contrôlée à plus
-de 50 % par les personnes visées à l'alinéa précédent, sont considérés comme des
+de 50 % par les personnes visées au premier alinéa, sont considérés comme des
 biens professionnels à concurrence de la participation détenue dans la société
 locataire par celles des personnes précitées qui y exercent leur activité
 professionnelle principale.

@@ -10,7 +10,7 @@ mai, août, novembre et février.
 
 b. Pour les taxes dues, selon le cas, au titre du mois ou du trimestre par les
 redevables placés sous le régime de la déclaration et dont le lieu d'imposition
-est situé à Paris ainsi que dans les départements des Hauts-de-Seine de la
+est situé à Paris ainsi que dans les départements des Hauts-de-Seine, de la
 Seine-Saint-Denis et du Val-de-Marne :
 
 Entreprises individuelles selon que le nom patronymique de l'exploitant commence
@@ -69,9 +69,8 @@ cours de ces mois sont ceux prévus aux b et c.
 
 2° (périmé).
 
-3° La date limite visée au présent article est reportée au premier jour ouvrable
-suivant lorsqu'elle coïncide avec un jour férié ou réputé férié à l'égard des
-recettes des impôts.
+3° La date limite mentionnée au présent article est reportée dans les conditions
+prévues par l'article 199-0.
 
 4° En cas d'utilisation de la voie postale, le cachet de la poste fait foi de la
 date d'expédition.

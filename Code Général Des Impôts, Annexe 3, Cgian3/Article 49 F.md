@@ -22,8 +22,8 @@ deviennent imposables à l'impôt sur le revenu.
 
 Les revenus des placements visés au troisième alinéa doivent également être
 mentionnés séparément, lorsque la contribution sociale généralisée leur a déjà
-été appliquée sur le fondement du II de l'article 1600-0 D du code général des
-impôts.
+été appliquée sur le fondement du II de l'article L. 136-7 du code de la
+sécurité sociale.
 
 2. Lorsque les revenus ou les gains sont libérés de l'impôt sur le revenu par
 application d'un prélèvement, la déclaration comporte l'indication de celui-ci

@@ -1,6 +1,6 @@
 Article R831-6
 ----
-Sous réserve des dispositions des articles R. 531-11 à R. 531-14 et des alinéas
+Sous réserve des dispositions des articles R. 532-4 à R. 532-8 et des alinéas
 suivants du présent article, les ressources prises en considération s'entendent
 du total des revenus nets catégoriels retenus pour l'établissement de l'impôt
 sur le revenu d'après le barème des revenus taxés à un taux proportionnel ou
@@ -24,9 +24,9 @@ général des impôts et au quatrième alinéa du 5 (a) de l'article 158 du mêm
 code, l'indemnité journalière mentionnée au 2° de l'article L. 431-1.
 
 Est toutefois exclue du décompte des ressources l'allocation de revenu minimum
-d'insertion mentionnée à l'article 4 de la loi n° 88-1088 du 1er décembre 1988
-et servie soit à l'allocataire ou à son conjoint ou concubin, soit aux personnes
-définies à l'article R. 831-5.
+d'insertion mentionnée à l'article L. 262-3 du code de l'action sociale et des
+familles et servie soit à l'allocataire ou à son conjoint ou concubin, soit aux
+personnes définies à l'article R. 831-5.
 
 En application des dispositions de l'article L. 832-1, sont exclus également du
 décompte des ressources les ressources les arrérages des rentes viagères

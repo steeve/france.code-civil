@@ -14,17 +14,17 @@ janvier 2004 qui remplissent les conditions mentionnées au III de l'article 44
 sexies et dont le capital est entièrement libéré et détenu de manière continue à
 50 % au moins :
 
--par des personnes physiques ;
+a.-par des personnes physiques ;
 
--ou par une société dont le capital est détenu pour 50 % au moins par des
+b.-ou par une société dont le capital est détenu pour 50 % au moins par des
 personnes physiques ;
 
--ou par des sociétés de capital-risque, des fonds communs de placement à risques
-des sociétés de développement régional, des sociétés financières d'innovation ou
-des sociétés unipersonnelles d'investissement à risque à la condition qu'il
-n'existe pas de lien de dépendance au sens des deuxième à quatrième alinéas du
-12 de l'article 39 entre la société en cause et ces dernières sociétés ou ces
-fonds.
+c.-ou par des sociétés de capital-risque, des fonds communs de placement à
+risques des sociétés de développement régional, des sociétés financières
+d'innovation ou des sociétés unipersonnelles d'investissement à risque à la
+condition qu'il n'existe pas de lien de dépendance au sens des deuxième à
+quatrième alinéas du 12 de l'article 39 entre la société en cause et ces
+dernières sociétés ou ces fonds.
 
 La créance est inaliénable et incessible, sauf dans les conditions prévues par
 la loi n° 81-1 du 2 janvier 1981 facilitant le crédit aux entreprises.

@@ -1,11 +1,24 @@
 Article L643-1
 ----
-L'allocation de vieillesse du régime des professions libérales est liquidée et
-calculée en fonction du montant de l'allocation aux vieux travailleurs salariés
-mentionnée au chapitre Ier du titre I du livre VIII compte tenu de la durée
-d'assurance de l'assuré ou périodes assimilées dans la limite d'un maximum.
+Le montant de la pension servie par le régime d'assurance vieillesse de base des
+professions libérales est obtenu par le produit du nombre total de points porté
+au compte de l'intéressé par la valeur de service du point.
 
-L'allocation est, le cas échéant, portée au montant de l'allocation aux vieux
-travailleurs salariés [*AVTS*] en ajoutant aux périodes d'assurances les
+La valeur de service du point est fixée par décret, après avis de la Caisse
+nationale d'assurance vieillesse des professions libérales, en fonction de
+l'équilibre des produits et des charges du régime.
+
+Les femmes ayant accouché au cours d'une année civile d'affiliation au régime
+d'assurance vieillesse des professions libérales bénéficient de points
+supplémentaires au titre du trimestre civil au cours duquel survient
+l'accouchement, dans des conditions fixées par décret.
+
+Les personnes ayant exercé leur activité libérale en étant atteintes d'une
+invalidité entraînant pour elles l'obligation d'avoir recours à l'assistance
+d'une tierce personne pour effectuer les actes ordinaires de la vie bénéficient
+de points supplémentaires, dans des conditions fixées par décret.
+
+La pension de retraite est, le cas échéant, portée au montant de l'allocation
+aux vieux travailleurs salariés en ajoutant aux périodes d'assurance les
 périodes d'exercice de l'activité libérale antérieures à l'obligation de
-cotiser, sous réserve de l'application de l'article L. 643-6.
+cotiser, dans des conditions fixées par décret.

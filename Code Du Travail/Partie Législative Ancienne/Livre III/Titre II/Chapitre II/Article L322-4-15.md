@@ -1,5 +1,8 @@
 Article L322-4-15
 ----
-Les jeunes de dix-huit à moins de vingt-six ans bénéficiaires du
-crédit-formation défini à l'article L. 900-3 du présent code peuvent souscrire
-dans ce cadre un contrat emploi-solidarité [*bénéficiaires*].
+Il est institué un contrat de travail dénommé "contrat insertion-revenu minimum
+d'activité" destiné à faciliter l'insertion sociale et professionnelle des
+personnes bénéficiaires de l'allocation de revenu minimum d'insertion
+rencontrant des difficultés particulières d'accès à l'emploi. Ce contrat
+s'inscrit dans le cadre du parcours d'insertion visé à l'article L. 262-38 du
+code de l'action sociale et des familles.

@@ -15,13 +15,13 @@ avec les administrations. Il en est également ainsi lorsque l'entrée en
 jouissance de la pension est différée en application de l'article L. 25 du
 présent code.
 
-Le montant de la rente d'invalidité est fixé à la fraction des émoluments de
-base visés à l'article L. 15 égale au pourcentage d'invalidité. Si le montant de
-ces émoluments de base dépasse le triple du traitement brut afférent à l'indice
-100 prévu par l'article 1er du décret n° 48-1108 du 10 juillet 1948 et les
-textes subséquents, la fraction dépassant cette limite n'est comptée que pour le
-tiers. Toutefois, il n'est pas tenu compte de la fraction excédant dix fois ce
-traitement brut.
+Le montant de la rente d'invalidité est fixé à la fraction du traitement ou de
+la solde de base définis à l'article L. 15 égale au pourcentage d'invalidité. Si
+le montant de ce traitement ou de cette solde de base dépasse un montant
+correspondant à la valeur de l'indice majoré 681 au 1er janvier 2004, revalorisé
+dans les conditions prévues à l'article L. 16, la fraction dépassant cette
+limite n'est comptée que pour le tiers. Toutefois, il n'est pas tenu compte de
+la fraction excédant dix fois ce montant brut.
 
 Le taux d'invalidité est déterminé compte tenu d'un barème indicatif fixé par
 décret.

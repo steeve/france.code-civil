@@ -19,8 +19,9 @@ fin sous l'une de ces formes, à condition :
 a. Que les sociétés bénéficiaires des apports soient toutes de nationalité
 française ; toutefois, pour l'application de ces dispositions, sont assimilées
 aux sociétés de nationalité française les sociétés constituées dans les termes
-de la loi française et ayant leur siège social dans les Etats, départements et
-territoires d'outre-mer de la Communauté ;
+de la loi française et ayant leur siège social dans les départements
+d'outre-mer, en Polynésie française, à Saint-Pierre-et-Miquelon, aux îles Wallis
+et Futuna et dans les Terres australes et antarctiques françaises.
 
 b. Que les apports résultent de conventions prenant effet à la même date pour
 les différentes sociétés qui en sont bénéficiaires et entraînent, dès leur

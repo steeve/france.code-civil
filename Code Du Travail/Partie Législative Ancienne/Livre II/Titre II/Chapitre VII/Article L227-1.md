@@ -6,13 +6,15 @@ d'entreprise ou d'établissement n'ayant pas fait l'objet de l'opposition prévu
 profit des salariés.
 
 Le compte épargne-temps a pour objet de permettre au salarié qui le désire
-d'accumuler des droits à congé rémunéré ou de se constituer une épargne. Le
-congé doit être pris avant l'expiration d'un délai de cinq ans à compter de la
-date à laquelle le salarié a accumulé un nombre de jours de congé égal à la
-durée minimale définie au neuvième alinéa du présent article. Lorsque le salarié
-a un enfant âgé de moins de seize ans à l'expiration de ce délai et lorsque l'un
-des parents du salarié est dépendant ou âgé de plus de soixante-quinze ans, la
-période dans laquelle il doit utiliser ses droits à congés est portée à dix ans.
+d'accumuler des droits à congé rémunéré ou de se constituer une épargne,
+notamment en vue de la mise en oeuvre des dispositions de l'article L. 351-14-1
+du code de la sécurité sociale. Le congé doit être pris avant l'expiration d'un
+délai de cinq ans à compter de la date à laquelle le salarié a accumulé un
+nombre de jours de congé égal à la durée minimale définie au neuvième alinéa du
+présent article. Lorsque le salarié a un enfant âgé de moins de seize ans à
+l'expiration de ce délai et lorsque l'un des parents du salarié est dépendant ou
+âgé de plus de soixante-quinze ans, la période dans laquelle il doit utiliser
+ses droits à congés est portée à dix ans.
 
 Le compte épargne-temps peut être alimenté, par dérogation à l'article L. 223-1,
 par le report des congés payés annuels dans la limite de dix jours par an. Le

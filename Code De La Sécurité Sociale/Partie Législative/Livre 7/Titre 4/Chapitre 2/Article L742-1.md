@@ -10,7 +10,9 @@ recevoir de rémunération, remplissent effectivement les fonctions et obligatio
 de la tierce personne auprès de leur conjoint ou d'un membre de leur famille
 infirme ou invalide médicalement reconnu être dans l'obligation d'avoir recours,
 pour accomplir les actes ordinaires de la vie, à l'assistance constante d'une
-tierce personne, dans des conditions fixées par décret en Conseil d'Etat.
+tierce personne, dans des conditions fixées par décret en Conseil d'Etat,
+lorsqu'elles ne peuvent prétendre au bénéfice des dispositions du 2° de
+l'article L. 381-1.
 
 Il en est de même pour le risque vieillesse en ce qui concerne :
 

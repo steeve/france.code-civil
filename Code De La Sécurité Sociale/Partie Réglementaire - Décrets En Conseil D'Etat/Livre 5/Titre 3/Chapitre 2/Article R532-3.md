@@ -1,27 +1,49 @@
 Article R532-3
 ----
-I. - Lorsque l'allocation est attribuée au titre d'un deuxième enfant, sont
-assimilées à de l'activité professionnelle :
+Sous réserve des dispositions des articles R. 532-4 à R. 532-8 et des alinéas
+suivants du présent article, les ressources prises en considération s'entendent
+du total des revenus nets catégoriels retenus pour l'établissement de l'impôt
+sur le revenu d'après le barème des revenus taxés à un taux proportionnel ou
+soumis à un prélèvement libératoire de l'impôt sur le revenu, ainsi que les
+revenus perçus hors de France ou versés par une organisation internationale, à
+l'exclusion des revenus des enfants ayant fait l'objet d'une imposition commune
+et après :
 
-1° Les périodes de perception d'indemnités journalières de maladie, maternité,
-accident du travail, appréciées selon les modalités prévues aux 1°, 2° et 5° de
-l'article R. 351-12 ;
+a) La déduction au titre des créances alimentaires mentionnée au 2° du II de
+l'article 156 du code général des impôts ;
 
-2° Les périodes de perception d'indemnités journalières de repos pour adoption
-pour une durée d'un trimestre par enfant ;
+b) L'abattement mentionné à l'article 157 bis du code général des impôts en
+faveur des personnes âgées ou invalides ;
 
-3° Les périodes de perception de l'allocation de remplacement pour maternité
-prévue aux articles L. 615-19 et L. 722-8 du présent code et à l'article
-1106-3-1 du code rural, pour une durée d'un trimestre par enfant ;
+c) Une déduction représentative des frais de garde des enfants à charge, dont le
+montant maximum est fixé par arrêté du ministre chargé de la sécurité sociale.
 
-4° Les périodes de chômage indemnisé appréciées selon les modalités prévues au
-4° de l'article R. 351-12 ;
+Est également prise en considération, après application des déductions
+correspondant à celles visées au deuxième alinéa du 3° de l'article 83 du code
+général des impôts et au quatrième alinéa du 5 (a) de l'article 158 du même
+code, l'indemnité journalière mentionnée au 2° de l'article L. 431-1.
 
-5° Les périodes de formation professionnelle rémunérée au sens du livre IX du
-code du travail, appréciées selon les modalités prévues au dernier alinéa de
-l'article R. 351-9.
+Est toutefois exclue du décompte des ressources l'allocation de revenu minimum
+d'insertion mentionnée à l'article L. 262-3 du code de l'action sociale et des
+familles.
 
-II. - Lorsque l'allocation est demandée au titre d'un troisième enfant ou plus,
-sont assimilées à de l'activité professionnelle les situations prévues aux 1° à
-3° du I du présent article ainsi que les périodes pendant lesquelles
-l'allocation parentale d'éducation a été attribuée.
+Sont également exclus du décompte des ressources les arrérages des rentes
+viagères constituées en faveur d'une personne handicapée et mentionnées à
+l'article 199 septies (2°) du code général des impôts.
+
+Il est fait abstraction des déductions opérées en vertu de l'article 156-I du
+code général des impôts au titre des reports des déficits constatés au cours
+d'une année antérieure à celle qui est prise en considération.
+
+Lorsque les ressources de l'année de référence de l'allocataire ou de son
+conjoint ou concubin ne proviennent pas d'une activité salariée et que ces
+ressources ne sont pas connues au moment de la demande ou du réexamen des
+droits, il est tenu compte des dernières ressources connues et déterminées dans
+les conditions prévues aux alinéas précédents. Ces ressources sont revalorisées
+par application du taux d'évolution en moyenne annuelle de l'indice général des
+prix à la consommation des ménages pour l'année civile de référence figurant
+dans le rapport économique et financier annexé au projet de loi de finances.
+
+En cas de concubinage, il est tenu compte du total des ressources perçues par
+chacun des concubins durant l'année de référence ; ces ressources sont
+déterminées dans les conditions prévues aux alinéas précédents.

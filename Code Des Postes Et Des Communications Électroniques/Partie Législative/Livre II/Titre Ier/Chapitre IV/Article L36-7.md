@@ -18,10 +18,10 @@ du présent code et des autorisations dont ils bénéficient et sanctionne les
 manquements constatés dans les conditions prévues aux articles L. 36-10 et L.
 36-11 ;
 
-4° Propose au ministre chargé des télécommunications, selon les principes et les
-méthodes élaborés dans les conditions prévues à l'article L. 35-3, les montants
-des contributions au financement des obligations de service universel et assure
-la surveillance des mécanismes de ce financement ;
+4° Détermine, selon les principes et les méthodes élaborés dans les conditions
+prévues à l'article L. 35-3, les montants des contributions au financement des
+obligations de service universel et assure la surveillance des mécanismes de ce
+financement ;
 
 5° Emet un avis public sur les tarifs et les objectifs tarifaires pluriannuels
 du service universel ainsi que sur les tarifs des services pour lesquels il

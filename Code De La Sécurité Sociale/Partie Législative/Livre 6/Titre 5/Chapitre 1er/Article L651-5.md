@@ -32,11 +32,7 @@ telles qu'elles ressortent du compte d'exploitation générale, résultant des
 dispositions relatives à la comptabilité des entreprises d'assurances et de
 capitalisation.
 
-Le contrôle de ces renseignements est effectué dans les conditions prévues aux
-articles L. 113 et L. 161 du livre des procédures fiscales.
-
-Quiconque n'aura pas fourni, dans les conditions fixées par décret, la
-déclaration prévue à l'alinéa ci-dessus ou aura fourni sciemment des
-renseignements inexacts ou incomplets dans cette déclaration, sera puni d'un
-emprisonnement de deux ans et d'une amende de 60 000 F (1) ou de l'une de ces
-deux peines seulement . (1) Amende applicable depuis le 23 décembre 1985.
+Par dérogation au premier alinéa, les entreprises dont le chiffre d'affaires,
+calculé selon les modalités prévues aux alinéas précédents, est inférieur au
+seuil mentionné par le premier alinéa de l'article L. 651-3 ne sont pas tenues
+de souscrire une déclaration au titre de la contribution sociale de solidarité.

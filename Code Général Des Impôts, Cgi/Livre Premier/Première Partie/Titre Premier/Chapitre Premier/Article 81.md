@@ -17,15 +17,12 @@ lieu à aucune vérification de la part de l'administration ;
 b (Transféré sous le b de l'article 80 ter) ;
 
 2° Les prestations familiales énumérées par l'article L. 511-1 du code de la
-sécurité sociale, l'aide à la famille pour l'emploi d'une assistante maternelle
-agréée ainsi que la majoration de cette aide et l'allocation de garde d'enfant à
-domicile visées respectivement aux articles L. 841-1 et L. 842-1 du même code,
-l'allocation de salaire unique, l'allocation de la mère au foyer et l'allocation
-pour frais de garde, maintenues dans le cadre des articles 12 et 13 de la loi n°
-77-765 du 12 juillet 1977 instituant le complément familial, l'allocation aux
-adultes handicapés et l'allocation personnalisée d'autonomie prévue par le
-chapitre II du titre III du livre II du code de l'action sociale et des familles
-;
+sécurité sociale, l'allocation de salaire unique, l'allocation de la mère au
+foyer et l'allocation pour frais de garde, maintenues dans le cadre des articles
+12 et 13 de la loi n° 77-765 du 12 juillet 1977 instituant le complément
+familial, l'allocation aux adultes handicapés et l'allocation personnalisée
+d'autonomie prévue par le chapitre II du titre III du livre II du code de
+l'action sociale et des familles ;
 
 2° bis L'allocation de logement prévue par les articles L. 831-1 à L. 831-7 du
 code de la sécurité sociale, ainsi que le montant de l'aide personnalisée au
@@ -227,7 +224,8 @@ l'amiante admis au bénéfice d'une allocation de cessation anticipée d'activit
 visée au 9° de l'article L. 12 du code des pensions de retraite des marins
 français du commerce, de pêche ou de plaisance.
 
-34° ...
+34° La rémunération versée aux bénéficiaires d'un contrat insertion-revenu
+minimum d'activité institué à l'article L. 322-4-15 du code du travail ;
 
 35° L'aide financière de l'Etat mentionnée à l'article L. 351-24 du code du
-travail.(1)
+travail.

@@ -13,14 +13,12 @@ ascendants ou descendants ou leurs conjoints respectifs, ou à leurs frères ou
 soeurs, et que le bien loué soit utilisé par le preneur dans l'exercice de sa
 profession principale.
 
-2° Il est complété par deux alinéas ainsi rédigés :
-
 Lorsque les baux à long terme répondant aux conditions prévues à l'article 885 P
 ont été consentis à une société à objet principalement agricole contrôlée à plus
-de 50 % par les personnes visées à l'alinéa précédent, les parts du groupement
-sont considérées comme des biens professionnels à concurrence de la
-participation détenue dans la société locataire par celles des personnes
-précitées qui y exercent leur activité professionnelle principale.
+de 50 % par les personnes visées au premier alinéa, les parts du groupement sont
+considérées comme des biens professionnels à concurrence de la participation
+détenue dans la société locataire par celles des personnes précitées qui y
+exercent leur activité professionnelle principale.
 
 Lorsque les biens ruraux donnés à bail dans les conditions prévues au premier
 alinéa sont mis à la disposition d'une société mentionnée au deuxième alinéa ou

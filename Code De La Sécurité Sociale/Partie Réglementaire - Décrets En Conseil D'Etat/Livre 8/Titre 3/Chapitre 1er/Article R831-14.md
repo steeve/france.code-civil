@@ -14,7 +14,7 @@ Hors le cas prévu à l'alinéa précédent, l'allocation de logement ne peut ê
 révisée au cours de la période de douze mois prévue ci-dessus que lorsque la
 composition de la famille est modifiée ou que l'allocataire s'installe dans un
 nouveau logement ou, sur demande des intéressés, dans les cas mentionnés à
-l'article R. 531-13 pour le chômage total ou partiel.
+l'article R. 532-7 pour le chômage total ou partiel.
 
 Dans ce dernier cas l'allocation de logement est calculée ou révisée soit sur la
 base du loyer principal effectivement payé pour le premier mois de location du

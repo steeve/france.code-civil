@@ -27,11 +27,4 @@ l'article 257 est tenue au paiement du complément d'impôt lorsque l'immeuble
 n'est pas affecté à la location dans les conditions prévues au 3° ou au 5° de
 l'article L. 351-2 du code de la construction et de l'habitation.
 
-V. - Toute personne qui a bénéficié du remboursement mentionné à l'article 279
-ter est tenue à sa restitution lorsque l'immeuble n'est pas affecté à la
-location dans les conditions prévues au 4° de l'article L. 351-2 du code de la
-construction et de l'habitation.
-
-L'Agence nationale pour l'amélioration de l'habitat communique à la direction
-générale des impôts les éléments permettant d'établir qu'il y a lieu de faire
-procéder à la restitution des sommes indûment remboursées.
+V. - (périmé)

@@ -2,15 +2,15 @@ Article 31 bis
 ----
 L'associé d'une société civile de placement immobilier, régie par les articles
 L. 214-50 et suivants du code monétaire et financier, dont la quote-part de
-revenu est, en application de l'article 8 du présent code, soumise en son nom à
-l'impôt sur le revenu dans la catégorie des revenus fonciers, peut pratiquer,
-sur option irrévocable exercée lors du dépôt de la déclaration des revenus de
-l'année de la souscription, une déduction au titre de l'amortissement. Cette
-déduction est égale à 8 % pour les cinq premières années et à 2,5 % pour les
-quatre années suivantes de 95 % du montant de la souscription en numéraire au
-capital initial ou aux augmentations de capital de cette société réalisée à
-compter du 3 avril 2003. La période d'amortissement a pour point de départ le
-premier jour du mois qui suit celui de la souscription.
+revenu est, en application de l'article 8, soumise en son nom à l'impôt sur le
+revenu dans la catégorie des revenus fonciers, peut pratiquer, sur option
+irrévocable exercée lors du dépôt de la déclaration des revenus de l'année de la
+souscription, une déduction au titre de l'amortissement. Cette déduction est
+égale à 8 % pour les cinq premières années et à 2,5 % pour les quatre années
+suivantes de 95 % du montant de la souscription en numéraire au capital initial
+ou aux augmentations de capital de cette société réalisée à compter du 3 avril
+2003. La période d'amortissement a pour point de départ le premier jour du mois
+qui suit celui de la souscription.
 
 Cette déduction, qui n'est pas applicable aux revenus des titres dont le droit
 de propriété est démembré, est subordonnée à la condition que 95 % de la

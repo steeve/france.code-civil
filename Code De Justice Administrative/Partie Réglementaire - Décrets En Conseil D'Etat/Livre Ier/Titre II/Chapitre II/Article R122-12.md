@@ -10,8 +10,7 @@ juridiction administrative ;
 3° Constater qu'il n'y a pas lieu de statuer sur une requête ;
 
 4° Rejeter les requêtes irrecevables pour défaut d'avocat, pour défaut de
-production de la décision attaquée, pour défaut d'acquittement du droit de
-timbre prévu à l'article L. 411-1, ainsi que celles qui sont entachées d'une
+production de la décision attaquée, ainsi que celles qui sont entachées d'une
 irrecevabilité manifeste non susceptible d'être couverte en cours d'instance ;
 
 5° Statuer sur les requêtes qui ne présentent plus à juger de questions autres

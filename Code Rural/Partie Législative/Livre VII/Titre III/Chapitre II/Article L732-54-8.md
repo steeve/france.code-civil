@@ -5,10 +5,10 @@ effet postérieurement au 31 décembre 2001 bénéficient d'une majoration de le
 pension, exprimée en points de retraite proportionnelle, lorsqu'elles justifient
 dans un ou plusieurs régimes obligatoires d'une durée d'assurance et de périodes
 équivalentes au moins égale à celle requise en application de l'article L. 351-1
-du code de la sécurité sociale pour ouvrir droit à une pension à taux plein du
-régime général de la sécurité sociale et qu'elles remplissent des conditions
-fixées par décret, de durées minimales d'activité non salariée agricole
-accomplie à titre exclusif ou principal.
+du code de la sécurité sociale à la date d'effet de la pension de retraite pour
+ouvrir droit à une pension à taux plein du régime général de la sécurité sociale
+et qu'elles remplissent des conditions fixées par décret, de durées minimales
+d'activité non salariée agricole accomplie à titre exclusif ou principal.
 
 II. - Cette majoration a pour but de porter la pension de retraite de
 l'intéressé à un montant minimum. Ce montant minimum tient compte de sa durée

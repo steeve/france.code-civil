@@ -32,3 +32,17 @@ vigueur, en particulier :
 3° La taxe départementale sur les remontées mécaniques des zones de montagne.
 
 4° La taxe départementale des espaces naturels sensibles.
+
+5° Le droit de consommation sur les tabacs prévu à l'article 575 E bis du code
+général des impôts pour les départements mentionnés à l'article L. 3431-2 du
+présent code et à l'article 575 E du code général des impôts pour les
+départements mentionnés à l'article L. 3441-1 du présent code.
+
+6° L'octroi de mer perçu par le département de la Guyane en application de la
+loi n° 92-676 du 17 juillet 1992 relative à l'octroi de mer et portant mise en
+oeuvre de la décision du Conseil des ministres des Communautés européennes n°
+89-688 du 22 décembre 1989 ;
+
+7° La taxe sur les carburants prévue par l'article 266 quater du code des
+douanes et répartie dans les conditions prévues par l'article L. 4434-3 du
+présent code.

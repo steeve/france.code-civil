@@ -2,7 +2,7 @@ Article L381-1
 ----
 La personne isolée et, pour un couple, l'un ou l'autre de ses membres n'exerçant
 pas d'activité professionnelle, bénéficiaire du complément familial, de
-l'allocation pour jeune enfant ou de l'allocation parentale d'éducation , est
+l'allocation pour jeune enfant ou de l'allocation parentale d'éducation, est
 affilié obligatoirement à l'assurance vieillesse du régime général de sécurité
 sociale sous réserve que ses ressources ou celles du ménage soient inférieures à
 un plafond fixé par décret et que les enfants dont il assume la charge
@@ -40,7 +40,9 @@ n'a pas atteint l'âge limite d'attribution de l'allocation d'éducation spécia
 2°) ou assumant, au foyer familial, la charge d'un handicapé adulte dont
 l'incapacité permanente est au moins égale au taux ci-dessus rappelé et dont le
 maintien au foyer est reconnu souhaitable par la commission prévue à l'article
-L. 323-11 du code du travail. Les différends auxquels peut donner lieu
+L. 323-11 du code du travail, dès lors que ledit handicapé est son conjoint,
+ascendant, descendant ou collatéral ou l'ascendant, descendant ou collatéral
+d'un des membres du couple. Les différends auxquels peut donner lieu
 l'application du présent alinéa relèvent du contentieux technique de la sécurité
 sociale mentionné à l'article L. 143-1 du présent code.
 

@@ -7,12 +7,14 @@ trente jours à compter du premier versement.
 
 Le bulletin d'adhésion ou le contrat doit comporter un projet de lettre destiné
 à faciliter l'exercice de cette faculté de renonciation. Il doit indiquer,
-notamment, pour les garanties qui en comportent, les valeurs de rachat au terme
-de chacune des huit premières années au moins. La mutuelle ou l'union doit, en
-outre, remettre, contre récépissé, une note d'information sur les dispositions
-essentielles des règlements, sur les conditions d'exercice de la faculté de
-renonciation, ainsi que sur le sort de la garantie décès en cas d'exercice de
-cette faculté de renonciation.
+notamment, pour les garanties qui en comportent, les valeurs de rachat ou, pour
+les plans d'épargne individuelle pour la retraite créés à l'article 108 de la
+loi n° 2003-775 du 21 août 2003 portant réforme des retraites, les valeurs de
+transfert au terme de chacune des huit premières années au moins. La mutuelle ou
+l'union doit, en outre, remettre, contre récépissé, une note d'information sur
+les dispositions essentielles des règlements, sur les conditions d'exercice de
+la faculté de renonciation, ainsi que sur le sort de la garantie décès en cas
+d'exercice de cette faculté de renonciation.
 
 Le défaut de remise des documents et informations énumérés au précédent alinéa
 entraîne de plein droit la prorogation du délai prévu au premier alinéa jusqu'au

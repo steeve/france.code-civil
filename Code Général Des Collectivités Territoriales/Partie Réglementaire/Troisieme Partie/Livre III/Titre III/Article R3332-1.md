@@ -1,4 +1,4 @@
 Article R3332-1
 ----
-Les recettes de la section de fonctionnement comprennent toutes les recettes
-annuelles et permanentes du département.
+Les rétributions à percevoir pour frais d'analyses et d'essais dans les
+laboratoires départementaux sont fixées par le conseil général.

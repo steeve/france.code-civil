@@ -8,7 +8,7 @@ dépassé la limite du forfait.
 L'exonération prévue au premier alinéa est subordonnée à la condition que
 l'activité ait été exercée à titre principal pendant au moins cinq ans et que le
 bien cédé n'entre pas dans le champ d'application du A de l'article 1594-0 G du
-code général des impôts. A défaut, les dispositions des articles 150 A à 150 S
+code général des impôts. A défaut, les dispositions des articles 150 U à 150 VH
 du même code sont applicables.
 
 Les terrains expropriés qui ne remplissent pas les conditions mentionnées aux a
@@ -18,4 +18,4 @@ d'application du A de l'article 1594-0 G du code général des impôts.
 
 2. Si le bien cédé a figuré pendant une partie du temps écoulé depuis
 l'acquisition, dans le patrimoine privé du contribuable, il est fait application
-de l'article 151 septies du code général des impôts.
+de l'article 151 sexies du code général des impôts.

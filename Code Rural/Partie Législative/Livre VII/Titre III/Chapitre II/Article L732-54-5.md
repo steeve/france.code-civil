@@ -14,10 +14,10 @@ cas échéant, bénéficier d'une majoration de leur pension de réversion servi
 application des articles L. 732-41 à L. 732-44 lorsqu'elles justifient dans un
 ou plusieurs régimes obligatoires d'une durée d'assurance et de périodes
 équivalentes au moins égale à celle requise en application de l'article L. 351-1
-du code de la sécurité sociale pour ouvrir droit à une pension à taux plein du
-régime général de la sécurité sociale et qu'elles remplissent des conditions
-fixées par décret de durée minimale d'activité non salariée agricole accomplie à
-titre exclusif ou principal.
+du code de la sécurité sociale à la date d'effet de la pension de retraite pour
+ouvrir droit à une pension à taux plein du régime général de la sécurité sociale
+et qu'elles remplissent des conditions fixées par décret de durée minimale
+d'activité non salariée agricole accomplie à titre exclusif ou principal.
 
 Cette majoration a pour objet de porter le total de leurs droits propres et
 dérivés, servis par le régime d'assurance vieillesse des personnes non salariées

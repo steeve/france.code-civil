@@ -10,17 +10,14 @@ b. Des droits, taxes, redevances et autres impositions visés au II de l'article
 
 Le taux de ce prélèvement est fixé à 4 % du montant des recouvrements.
 
-II. Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement sur
-le produit de la cotisation incluse dans la taxe sur la valeur ajoutée en vertu
-de l'article 1609 septdecies. Le taux de ce prélèvement et les modalités de
-remboursement sont fixés par le ministre de l'économie et des finances.
+II. (Sans objet).
 
 III. Pour frais de recouvrement, l'Etat effectue un prélèvement sur les
-cotisations perçues au profit des organismes de sécurité sociale soumis au
-contrôle de la cour des comptes, dans les conditions déterminées par les
-articles L. 154-1 et L. 154-2 du code de la sécurité sociale. Le taux de ce
-prélèvement et les modalités de remboursement sont fixés par arrêté du ministre
-de l'économie et des finances (1).
+cotisations perçues au profit de sécurité sociale soumis au contrôle de la cour
+des comptes, dans les conditions déterminées par les articles L. 154-1 et L.
+154-2 du code de la sécurité sociale. Le taux de ce prélèvement et les modalités
+de remboursement sont fixés par arrêté du ministre de l'économie et des
+finances.
 
 IV. (Sans objet).
 
@@ -38,8 +35,7 @@ prélèvement est perçu dans les conditions fixées à l'article 1599 I et au
 deuxième alinéa de l'article 1599 nonies.
 
 VI. Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement de
-1 p. 100 sur le montant des taxes mentionnées aux articles 302 bis ZA et 302 bis
-ZB.
+1 p. 100 sur le montant de la taxe mentionnée à l'article 302 bis ZB.
 
 VII. Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement de
 1,5 % sur le montant de la taxe mentionnée à l'article 302 bis KB.
@@ -50,3 +46,7 @@ sexvicies et 1635 bis M.
 
 IX. - Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement
 de 2,5 % sur le montant de la taxe mentionnée à l'article 302 bis KE.
+
+X. - Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement de
+1,5 % sur le montant de la redevance d'archéologie préventive prévue à l'article
+9 de la loi n° 2001-44 du 17 janvier 2001 relative à l'archéologie préventive.

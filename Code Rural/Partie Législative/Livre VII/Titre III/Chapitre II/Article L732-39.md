@@ -41,5 +41,5 @@ précédent, cette superficie est fixée par voie réglementaire.
 
 Les dispositions des trois premiers alinéas du présent article ne sont pas
 opposables à l'assuré qui demande le bénéfice d'une pension au titre de
-l'article L. 732-29 du présent code et des articles L. 351-15, L. 634-3-1 et L.
-643-8-1 du code de la sécurité sociale.
+l'article L. 732-29 du présent code et des articles L. 351-15 et L. 634-3-1 du
+code de la sécurité sociale.
