@@ -1,7 +1,12 @@
 Article R112-52
 ----
-Il est créé auprès du Premier ministre un comité interministériel chargé de
-définir, d'animer et de coordonner la politique du Gouvernement en matière
-d'adaptation et d'aménagement des secteurs ruraux en difficulté et de décider
-notamment l'affectation des crédits du fonds interministériel de développement
-et d'aménagement rural.
+Un décret fixe, pour une période maximale de trois ans :
+
+- la part relative de chacune des trois sections du fonds ;
+
+- pour la deuxième section, les parts affectées au titre des a, b et c du 2° de
+l'article R. 112-51 ;
+
+- pour la troisième section, les parts affectées au titre des a et b du 3° de
+l'article R. 112-51 ainsi que les coefficients de pondération dont sont affectés
+les éléments mentionnés au b du 3° du même article.
