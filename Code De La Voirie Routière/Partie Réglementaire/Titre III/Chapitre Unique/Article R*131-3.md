@@ -1,11 +1,19 @@
 Article R*131-3
 ----
-Lorsque les travaux relatifs à la voirie départementale doivent donner lieu à
-enquête publique en application de la loi du 12 juillet 1983 et du décret n°
-85-453 du 23 avril 1985, cette enquête est organisée par le président du conseil
-général conformément aux dispositions des chapitres Ier et II dudit décret.
+L'enquête publique prévue au deuxième alinéa de l'article L. 131-4 s'effectue
+dans les conditions fixées par la présente section.
 
-Toutefois, lorsque ces travaux doivent donner lieu à déclaration d'utilité
-publique, l'enquête est organisée par le préfet conformément aux dispositions
-des articles R. 11-14-1 à R. 11-14-15 du code de l'expropriation pour cause
-d'utilité publique.
+Un arrêté du président du conseil général désigne un commissaire enquêteur ou
+une commission d'enquête dont il nomme le président. Les membres de la
+commission d'enquête sont en nombre impair. Le commissaire enquêteur ou les
+membres de la commission d'enquête sont choisis sur une liste départementale
+établie annuellement en application de l'article R. 11-5 du code de
+l'expropriation.
+
+Le même arrêté précise :
+
+1° L'objet de l'enquête, la date à laquelle celle-ci sera ouverte et sa durée
+qui ne peut être inférieure à quinze jours ni supérieure à deux mois ;
+
+2° Les heures et lieux où le public pourra prendre connaissance du dossier et
+formuler ses observations.
