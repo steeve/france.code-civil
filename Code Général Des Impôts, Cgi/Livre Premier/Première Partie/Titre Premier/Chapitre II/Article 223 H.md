@@ -15,24 +15,13 @@ Les bénéfices d'une société filiale compris dans le résultat d'ensemble ne
 constituent pas des bénéfices soumis à l'impôt sur les sociétés au taux normal
 pour la liquidation du précompte dû par cette société.
 
-Les sommes distribuées par une société du groupe à une autre société du groupe
-ne sont pas soumises au supplément d'impôt mentionné au c du paragraphe I de
-l'article 219 dans la limite de la somme algébrique des résultats comptables des
-exercices au cours desquels elle est membre du groupe diminuée des distributions
-antérieures de même nature. Cette disposition s'applique à la fraction de ces
-distributions ainsi limitées qui excède le montant des distributions exonérées
-en application du d du paragraphe I de l'article 219. Les résultats comptables
-sont retenus en proportion de la participation détenue par la société mère dans
-le capital de la société distributrice.
-
 Les dispositions du premier alinéa s'appliquent aux dividendes mis en paiement
 par une société du groupe au cours du premier exercice dont le résultat n'est
 pas pris en compte dans le résultat d'ensemble, si cette distribution a lieu
-avant l'événement qui entraîne sa sortie du groupe. ((Elles s'appliquent
+avant l'événement qui entraîne sa sortie du groupe. Elles s'appliquent
 également, lorsque intervient une opération visée au c du 6 de l'article 223 L,
 aux dividendes prélevés sur les résultats du groupe ayant cessé du fait de cette
 opération et distribués entre les sociétés du nouveau groupe pendant les deux
 premiers exercices ; il en est de même, dans la situation définie au d du 6 du
 même article, des dividendes prélevés sur les résultats du groupe ayant cessé et
-distribués entre les sociétés du nouveau groupe pendant le premier exercice.))
-(Modification de la loi 93-1352).
+distribués entre les sociétés du nouveau groupe pendant le premier exercice.
