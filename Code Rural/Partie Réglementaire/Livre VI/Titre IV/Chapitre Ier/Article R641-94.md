@@ -7,6 +7,13 @@ examens analytique et organoleptique tels que définis ci-après. Les vins
 présentés à ces examens doivent avoir été élaborés conformément aux conditions
 de production de l'appellation d'origine contrôlée revendiquée.
 
+Toutefois, les vins tranquilles figurant sur une liste proposée par l'Institut
+national des appellations d'origine et homologuée par arrêté conjoint du
+ministre chargé des finances et du ministre chargé de l'agriculture ainsi que
+les vins mousseux et pétillants bénéficiant d'un certificat d'aptitude peuvent
+être mis en circulation entre entrepositaires agréés à l'intérieur de la région
+déterminée.
+
 La durée de validité du certificat d'agrément peut être limitée dans le temps
 pour les vins non conditionnés et non commercialisés, dans les conditions
 prévues dans le décret définissant l'appellation revendiquée.

@@ -1,44 +1,42 @@
 Article L174-1-1
 ----
-Chaque année, les ministres chargés de la santé, de la sécurité sociale, du
-budget et de l'économie déterminent, en fonction de l'objectif national
-d'évolution des dépenses d'assurance maladie voté par le Parlement, l'objectif
-prévisionnel d'évolution des dépenses des établissements visés à l'article L.
-174-1 prises en charge par les régimes d'assurance maladie et, corrélativement,
-le montant total annuel des dépenses hospitalières prises en compte pour le
-calcul de la dotation globale et des tarifs de prestations des établissements
-susvisés.
+Chaque année est défini un objectif des dépenses d'assurance maladie constitué
+des activités suivantes :
 
-Ce montant total annuel est fixé par application d'un taux d'évolution aux
-dépenses de l'année précédente, au plus tard dans les quinze jours qui suivent
-la publication de la loi de financement de la sécurité sociale. Certaines des
-dépenses incluses dans l'objectif national mentionnées au premier alinéa peuvent
-ne pas être incluses dans ces dotations régionales.
+1° Les activités de psychiatrie et de soins de suite ou de réadaptation exercées
+par les établissements de santé mentionnés à l'article L. 174-1 ;
 
-Le montant total annuel ainsi calculé des dépenses hospitalières autorisées est
-constitué, après imputation de la part mentionnée à l'article L. 162-43, en
-dotations régionales. Le montant des dotations régionales, qui présente un
-caractère limitatif, est fixé par les ministres chargés de la santé et de la
-sécurité sociale, en fonction des besoins de la population, des orientations des
-schémas d'organisation sanitaire et des priorités nationales ou locales, en
-matière de politique sanitaire, en tenant compte de l'activité et des coûts des
-établissements appréciés selon les modalités prévues aux articles L. 710-6 et L.
-710-7 du code de la santé publique, et en ayant pour objectif la réduction
-progressive des inégalités de ressources entre régions et établissements.
+2° L'ensemble des activités des établissements mentionnés à l'article L.
+162-22-16 ;
 
-Le montant des dotations régionales peut être minoré à concurrence des
-financements affectés au fonctionnement des structures régies par les articles
-L. 174-7 à L. 174-10.
+3° Les activités des unités de soins de longue durée ;
 
-Le montant des dotations régionales peut également être majoré ou minoré en
-cours d'année pour prendre en compte les évolutions de toute nature à l'issue
-desquelles des établissements de santé, ou des services et activités de ces
-établissements :
+4° Les activités de soins dispensés par le service de santé des armées et
+l'Institution nationale des invalides ;
 
-a) Se trouvent placés, pour tout ou partie, sous le régime de financement prévu
-par l'article L. 174-1 du code de la sécurité sociale alors qu'ils étaient
-auparavant régis par l'article L. 710-16-2 du code de la santé publique ;
+5° Les activités de soins dispensés par l'établissement public territorial de
+Saint-Pierre-et-Miquelon ;
 
-b) Se trouvent placés, pour tout ou partie, sous le régime de financement prévu
-par l'article L. 710-16-2 du code de la santé publique, alors qu'ils étaient
-auparavant régis par l'article L. 174-1 du code de la sécurité sociale.
+6° Les activités de soins dispensés par l'établissement public de santé de
+Mayotte.
+
+Cet objectif est constitué du montant total des charges supportées par les
+régimes obligatoires d'assurance maladie au titre des dotations annuelles de
+financement fixées en application des articles L. 162-22-16, L. 174-1, L. 174-5
+et L. 174-15 et de celles fixées en application des articles L. 6147-5 et L.
+6416-1 du code de la santé publique.
+
+Le montant de cet objectif est arrêté par l'Etat en fonction de l'objectif
+national de dépenses d'assurance maladie. Ce montant prend en compte, outre la
+part mentionnée à l'article L. 162-43, les évolutions de toute nature à l'issue
+desquelles des établissements de santé ou des services ou des activités de ces
+établissements se trouvent placés pour tout ou partie sous un régime juridique
+ou de financement différent de celui sous lequel ils étaient placés auparavant.
+
+Le montant de cet objectif est constitué, après imputation de la part mentionnée
+à l'article L. 162-43, en dotations régionales. Certaines des dépenses incluses
+dans l'objectif mentionné au premier alinéa peuvent ne pas être incluses dans
+ces dotations régionales. Le montant des dotations régionales, qui présente un
+caractère limitatif, est fixé par l'Etat en tenant compte de l'activité des
+établissements, des orientations des schémas d'organisation sanitaire et des
+priorités nationales ou locales en matière de politique sanitaire.
