@@ -47,14 +47,24 @@ charretons, voitures à bras, etc.
 Personnel masculin de moins de dix-huit ans et personnel féminin de dix-huit ans
 et plus : 130 kg (véhicule compris).
 
-6. Transport sur tricycles porteurs à pédales. Personnel masculin de moins de
-seize ans : 50 kg (véhicules compris) ; Personnel masculin de seize ou dix-sept
-ans : 75 kg (véhicules compris) ;
+6. Transport sur tricycles porteurs à pédales est interdit aux femmes de moins
+de dix-huit ans.
 
-Les modes de transports énoncés aux 3. et 5. ci-dessus sont interdits aux femmes
+Personnel de moins de seize ans : 50 kg (véhicule compris).
+
+Personnel de seize ou dix-sept ans et personnel féminin de dix-huit ans et plus
+: 75 kg (véhicule compris).
+
+7. Transport sur diables et cabrouets.
+
+Le transport sur diables ou cabrouets est interdit au personnel de moins de
+dix-huit ans.
+
+Personnel féminin de dix-huit ans et plus : 40 kg (véhicule compris).
+
+Les modes de transport énumérés aux 3. et 5. ci-dessus sont interdits aux femmes
 de moins de dix-huit ans.
 
-Le transport sur tricycles porteurs à pédales est interdit aux femmes.
-
-Le transport sur diables ou cabrouets est interdit au personnel masculin de
-moins de dix-huit ans et aux femmes.
+Les modes de transport énumérés aux 6. et 7. ci-dessus sont interdits aux femmes
+qui se sont déclarées enceintes ainsi qu'aux femmes pour lesquelles le médecin
+du travail estime nécessaire cette interdiction.
