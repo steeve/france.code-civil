@@ -10,9 +10,12 @@ conjoint du ministre chargé des finances et du ministre chargé de la
 construction et de l'habitation peut étendre ces participations à d'autres
 organismes.
 
-" Les souscriptions, acquisitions et cessions d'actions doivent être autorisées
-par le conseil d'administration. "
+Les souscriptions, acquisitions et cessions d'actions doivent être autorisées
+par le conseil d'administration.
 
-" Les souscriptions ou acquisitions d'actions de sociétés anonymes d'habitations
-à loyer modéré ne peuvent être effectuées qu'après accord de la collectivité
-locale de rattachement de l'office. "
+Les participations détenues par un office dans une société d'habitations à loyer
+modéré doivent représenter plus de 50 p. 100 du capital de cette société.
+
+Les souscriptions ou acquisitions d'actions de sociétés anonymes d'habitations à
+loyer modéré ne peuvent être effectuées qu'après accord de la collectivité
+locale de rattachement de l'office.
