@@ -1,5 +1,8 @@
 Article L234-16
 ----
-Une dotation, destinée à couvrir les frais de fonctionnement du comité des
-finances locales et le coût des travaux qui lui sont nécessaires, est prélevée
-sur les ressources prévues pour les concours particuliers.
+La dotation forfaitaire et la dotation perçue par les groupements à fiscalité
+propre font l'objet de versements mensuels.
+
+La dotation de solidarité urbaine et la dotation de solidarité rurale font
+l'objet d'un versement annuel, avant la fin du troisième trimestre de l'exercice
+au titre duquel elle est versée.
