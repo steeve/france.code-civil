@@ -1,8 +1,6 @@
 Article R780-4
 ----
-Le conseil supérieur comprend cinq sections :
-
-- la section de l'alimentation et de la nutrition ;
+Le conseil supérieur comprend quatre sections :
 
 - la section des eaux ;
 

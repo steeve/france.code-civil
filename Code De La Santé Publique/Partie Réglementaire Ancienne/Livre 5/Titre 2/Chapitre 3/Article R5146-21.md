@@ -5,8 +5,8 @@ concerne la nature des produits essayés, les essais eux-mêmes et leurs
 résultats.
 
 Ils ne peuvent donner de renseignements relatifs à leurs travaux qu'au
-fabricant, responsable de la mise sur le marché au directeur général du Centre
-national d'études vétérinaires et alimentaires et aux ministres chargés de
+fabricant, responsable de la mise sur le marché au directeur général de l'Agence
+française de sécurité sanitaire des aliments et aux ministres chargés de
 l'agriculture et de la santé.
 
 Aucune publication relative à l'expérimentation d'un médicament ne peut être

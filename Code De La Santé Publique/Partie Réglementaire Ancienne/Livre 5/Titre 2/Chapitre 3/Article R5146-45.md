@@ -29,5 +29,5 @@ Lorsqu'une notice est jointe au conditionnement d'un médicament vétérinaire,
 elle ne doit concerner que ce médicament.
 
 Les textes et documents publicitaires doivent obligatoirement faire l'objet d'un
-dépôt auprès du directeur général du Centre national d'études vétérinaires et
-alimentaires, par envoi recommandé, préalablement à leur diffusion.
+dépôt auprès du directeur général de l'Agence française de sécurité sanitaire
+des aliments, par envoi recommandé, préalablement à leur diffusion.

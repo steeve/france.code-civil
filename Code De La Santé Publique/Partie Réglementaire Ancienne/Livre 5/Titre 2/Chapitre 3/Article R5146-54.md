@@ -6,5 +6,5 @@ la fabrication ou l'importation de médicaments vétérinaires définis en a et 
 L'article L. 617-6 feront l'objet, au moins une fois l'an [*périodicité*], d'une
 visite concertée de la part d'un inspecteur de la pharmacie et d'un vétérinaire
 inspecteur. Le compte rendu de cette inspection, signé des deux agents, sera
-transmis au directeur général du Centre national d'études vétérinaires et
-alimentaires.
+transmis au directeur général de l'Agence française de sécurité sanitaire des
+aliments.

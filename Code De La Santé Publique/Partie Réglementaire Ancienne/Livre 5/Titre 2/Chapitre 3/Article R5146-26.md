@@ -2,7 +2,7 @@ Article R5146-26
 ----
 Toute demande d'autorisation de mise sur le marché d'un des médicaments
 vétérinaires mentionnés à l'article L. 607 doit être adressée au directeur
-général du Centre national d'études vétérinaires et alimentaires.
+général de l'Agence française de sécurité sanitaire des aliments.
 
 Lors du dépôt de la demande, des échantillons du produit fini du lot ayant servi
 aux essais sont remis au Centre national d'études vétérinaires et alimentaires,

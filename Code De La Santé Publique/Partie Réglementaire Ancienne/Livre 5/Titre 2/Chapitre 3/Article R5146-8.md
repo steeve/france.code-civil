@@ -29,4 +29,4 @@ santé et le directeur départemental des services vétérinaires.
 Les expertises doivent être exécutées en conformité avec les bonnes pratiques de
 laboratoire dont les principes sont fixés par un arrêté du ministre chargé de la
 santé et du ministre chargé de l'agriculture pris sur proposition du directeur
-général du Centre national d'études vétérinaires et alimentaires.
+général de l'Agence française de sécurité sanitaire des aliments.

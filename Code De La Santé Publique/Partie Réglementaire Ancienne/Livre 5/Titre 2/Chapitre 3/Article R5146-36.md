@@ -1,8 +1,8 @@
 Article R5146-36
 ----
 Tout changement du titulaire de l'autorisation de mise sur le marché est
-subordonné à une décision du directeur général du Centre national d'études
-vétérinaires et alimentaires [*autorité compétente*].
+subordonné à une décision du directeur général de l'Agence française de sécurité
+sanitaire des aliments [*autorité compétente*].
 
 La demande comprend, outre les mentions prévues aux points a, j et n de
 l'article R. 5146-26 :
@@ -20,7 +20,7 @@ avant que la fusion ou l'apport ne soit définitivement réalisé. Elles
 fournissent, à l'appui de leur demande, le protocole d'accord de principe
 concernant la fusion ou l'apport. Le transfert est accordé sous la condition
 suspensive de sa réalisation définitive qui doit être notifiée au directeur
-général du Centre national d'études vétérinaires et alimentaires.
+général de l'Agence française de sécurité sanitaire des aliments.
 
 En cas de silence du directeur général du centre, le transfert est réputé être
 autorisé à l'expiration d'un délai de deux mois [*accord tacite*].

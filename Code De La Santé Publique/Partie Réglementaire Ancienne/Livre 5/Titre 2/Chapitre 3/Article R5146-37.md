@@ -1,6 +1,6 @@
 Article R5146-37
 ----
-Le directeur général du Centre national d'études vétérinaires et alimentaires
+Le directeur général de l'Agence française de sécurité sanitaire des aliments
 peut, par décision motivée, suspendre pour une période ne pouvant excéder un an
 [*durée*], ou supprimer une autorisation de mise sur le marché.
 

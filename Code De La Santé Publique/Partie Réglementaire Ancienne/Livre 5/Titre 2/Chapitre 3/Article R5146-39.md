@@ -10,9 +10,9 @@ ou son représentant ;
 b) Le directeur général de la santé au ministère chargé de la santé, ou son
 représentant ;
 
-c) Le directeur général du Centre national d'études vétérinaires et
-alimentaires, ayant comme suppléant le directeur de l'Agence nationale du
-médicament vétérinaire ;
+c) Le directeur général de l'Agence française de sécurité sanitaire des
+aliments, ayant comme suppléant le directeur de l'Agence nationale du médicament
+vétérinaire ;
 
 d) Le directeur général de l'Agence française de sécurité sanitaire des produits
 de santé, ou son représentant.

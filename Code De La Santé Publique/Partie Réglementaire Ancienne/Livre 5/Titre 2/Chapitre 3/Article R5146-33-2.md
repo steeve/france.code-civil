@@ -4,7 +4,7 @@ Toute demande d'autorisation de mise sur le marché présentée pour des
 médicaments de haute technologie issus de certains procédés biotechnologiques
 figurant sur une liste A fixée par arrêté conjoint des ministres chargés de la
 santé, de l'industrie et de l'agriculture sur proposition du directeur général
-du Centre national d'études vétérinaires et alimentaires est soumise pour avis
+de l'Agence française de sécurité sanitaire des aliments est soumise pour avis
 au comité des médicaments vétérinaires [*autorité compétente*] mentionné à
 l'article R. 5146-33-1.
 
@@ -23,6 +23,6 @@ d'autorisation de mise sur le marché d'un produit contenant le ou les mêmes
 principes actifs issus du ou des mêmes procédés de synthèse sont adressées aux
 autorités compétentes des autres Etats membres par le responsable de la mise sur
 le marché de la spécialité pharmaceutique déjà autorisée ou avec son
-consentement, ce dernier en informe le directeur général du Centre national
-d'études vétérinaires et alimentaires qui saisit pour avis le comité des
+consentement, ce dernier en informe le directeur général de l'Agence française
+de sécurité sanitaire des aliments qui saisit pour avis le comité des
 médicaments vétérinaires [*autorité compétente*].

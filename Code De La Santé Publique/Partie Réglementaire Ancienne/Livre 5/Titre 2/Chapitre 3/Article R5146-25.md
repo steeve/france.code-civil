@@ -6,14 +6,14 @@ la présente section.
 
 Si l'expert justifie que le protocole prévu à l'article R. 5146-18 est
 inapplicable en l'espèce, le responsable de la mise sur le marché est tenu de
-communiquer au directeur général du Centre national d'études vétérinaires et
-alimentaires le programme de l'expertise retenu, préalablement à la mise en
-oeuvre de celle-ci.
+communiquer au directeur général de l'Agence française de sécurité sanitaire des
+aliments le programme de l'expertise retenu, préalablement à la mise en oeuvre
+de celle-ci.
 
 Avant tout essai relatif aux recherches des effets thérapeutiques d'un
 médicament vétérinaire sur les animaux, le responsable de la mise sur le marché
-signale au directeur général du Centre national d'études vétérinaires et
-alimentaires [*information*] :
+signale au directeur général de l'Agence française de sécurité sanitaire des
+aliments [*information*] :
 
 a) L'objet de l'essai ;
 
@@ -25,9 +25,9 @@ d) Le ou les lieux où il sera réalisé.
 
 Dans le délai d'un mois à compter de la réception des communications ci-dessus
 indiquées, relatives à des modifications de protocoles expérimentaux ou à des
-essais thérapeutiques sur les élevages, le directeur général du Centre national
-d'études vétérinaires et alimentaires peut s'opposer à la mise en oeuvre de ces
-essais.
+essais thérapeutiques sur les élevages, le directeur général de l'Agence
+française de sécurité sanitaire des aliments peut s'opposer à la mise en oeuvre
+de ces essais.
 
 Si aucune objection n'est formulée dans ce délai d'un mois [*accord tacite*], le
 programme peut être mis à exécution.

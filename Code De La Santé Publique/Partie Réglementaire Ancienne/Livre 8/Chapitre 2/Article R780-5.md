@@ -30,9 +30,9 @@ chargé de la santé ;
 ingénieur exerçant ses fonctions dans les services déconcentrés du ministère
 chargé de l'environnement ;
 
-- dans les sections de l'alimentation et de la nutrition et des maladies
-transmissibles, un vétérinaire inspecteur exerçant ses fonctions dans les
-services déconcentrés du ministère chargé de l'agriculture.
+- dans la section des maladies transmissibles, un vétérinaire inspecteur
+exerçant ses fonctions dans les services déconcentrés du ministère chargé de
+l'agriculture.
 
 II. - Les représentants des ministres concernés par les questions relevant du
 domaine de compétence de la section assistent, avec voix consultative, aux

@@ -8,6 +8,6 @@ que le produit faisant l'objet d'une demande d'autorisation de mise sur le
 marché possède des propriétés définies au 1° de l'article L. 617-2.
 
 Un arrêté des ministres chargés de l'agriculture et de la santé fixe, sur
-proposition du directeur général du Centre national d'études vétérinaires et
-alimentaires, les protocoles déterminant les normes et méthodes applicables à
+proposition du directeur général de l'Agence française de sécurité sanitaire des
+aliments, les protocoles déterminant les normes et méthodes applicables à
 l'expérimentation des médicaments.

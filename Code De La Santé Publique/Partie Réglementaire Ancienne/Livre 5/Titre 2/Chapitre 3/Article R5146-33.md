@@ -1,7 +1,7 @@
 Article R5146-33
 ----
-L'autorisation de mise sur le marché est accordée par le directeur général du
-Centre national d'études vétérinaires et alimentaires [*autorité compétente*].
+L'autorisation de mise sur le marché est accordée par le directeur général de
+l'Agence française de sécurité sanitaire des aliments [*autorité compétente*].
 La décision précise si le médicament vétérinaire relève des dispositions
 combinées des articles L. 611 et L. 617-6.
 
