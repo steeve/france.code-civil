@@ -1,10 +1,9 @@
 Article 1635 A
 ----
 I. Il est institué une taxe additionnelle au droit de bail prévu par l'article
-736, perçue au profit de l'agence nationale pour l'amélioration de l'habitat
-[*ANAH*].
+736, perçue au profit de l'agence nationale pour l'amélioration de l'habitat.
 
-Cette taxe est applicable [*champ d'application*] :
+Cette taxe est applicable :
 
 1° Aux locaux loués affectés à usage d'habitation ou à l'exercice d'une
 profession et compris dans des immeubles achevés avant le 1er septembre 1948 ;
@@ -26,11 +25,17 @@ immeubles achevés entre le 1er septembre 1948 et le 31 décembre 1975 ;
 d'habitation, sont transformés en locaux à usage commercial postérieurement à la
 promulgation de la loi n° 80-30 du 18 janvier 1980.
 
+I ter. La taxe additionnelle au droit de bail est également applicable aux
+locaux mentionnés aux I et I bis, aux taux prévus au III, lorsque ces locaux ont
+fait l'objet de travaux d'agrandissement, de construction ou de reconstruction
+au sens du b du 1° du I de l'article 31 financés avec le concours de l'agence
+nationale pour l'amélioration de l'habitat.
+
 II. En sont exonérés :
 
 - les immeubles appartenant à l'Etat, aux collectivités territoriales, aux
 établissements publics qui en dépendent et aux organismes d'habitations à loyer
-modéré [*HLM*] ;
+modéré ;
 
 - les locaux d'habitation qui font partie d'une exploitation agricole ou sont
 annexés à celle-ci, ainsi que les locaux dont les propriétaires ont procédé au
@@ -57,6 +62,6 @@ prescriptions.
 
 V. La taxe est à la charge du propriétaire ou du bailleur. Toutefois,
 lorsqu'elle est due en vertu du I-2°, elle est, sauf convention contraire,
-supportée à concurrence de la moitié par le locataire [*redevable*].
+supportée à concurrence de la moitié par le locataire.
 
 (1) Dispositions applicables aux loyers courus à compter du 1er octobre 1979.

@@ -8,14 +8,17 @@ au cours de l'année précédente.
 
 Le crédit d'impôt accordé aux entreprises nouvelles au titre de l'année de leur
 création est égal à 25 % des dépenses de recherche exposées au cours de cette
-période, sous réserve que ces entreprises satisfassent aux conditions prévues à
-l'article 44 bis-II-1° et 3°, et III.
+période.
 
 Le crédit d'impôt est plafonné pour chaque entreprise à 3 millions de francs
 [*montant limite*].
 
 Le crédit d'impôt afférent aux années 1985 et suivantes est porté à 50 p. 100 :
 son montant est plafonné pour chaque entreprise à 5 millions de francs.
+
+Pour le calcul du crédit d'impôt attribué au titre des années 1986 et suivantes,
+le crédit est égal à 50 % des dépenses de recherche de la première année au
+cours de laquelle l'entreprise expose des dépenses de cette nature.
 
 II. Les dépenses de recherche ouvrant droit au crédit d'impôt sont [*champ
 d'application*] (1) :
