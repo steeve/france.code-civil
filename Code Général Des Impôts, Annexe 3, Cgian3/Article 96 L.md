@@ -18,23 +18,20 @@ et le numéro d'agrément de la tierce personne mentionnée à l'article 96 K ;
 
 f) Le régime de l'opération ;
 
-2 Au titre des livraisons de biens et des expéditions de biens en vue de leur
-façonnage, quelle que soit leur valeur :
+2 ((Au titre des livraisons de biens quelle que soit leur valeur)) (M) :
 
-a) Le numéro d'identification à la T.V.A. de l'acquéreur pour les livraisons de
-biens exonérées en application du I de l'article 262 ter du code général des
-impôts, y compris la délivrance d'un travail à façon et pour les régularisations
-effectuées en application du 1 de l'article 272 du code général des impôts ;
+a) ((Le numéro d'identification à la T.V.A. de l'acquéreur pour les livraisons
+de biens exonérées en application du I de l'article 262 ter du code général des
+impôts)) (M) et pour les régularisations effectuées en application du 1 de
+l'article 272 du code général des impôts ;
 
 b) En cas de transfert des biens pour les besoins de l'entreprise dans un autre
 Etat membre où leur affectation est taxable, le numéro d'identification à la
 T.V.A. délivré à cette entreprise par cet Etat ;
 
-c) En cas d'expédition de biens en vue de leur façonnage, le numéro d'asujetti à
-la T.V.A. du donneur d'ouvrage et du façonnier ;
+c) Abrogé (M) ;
 
-d) La valeur fiscale en francs des livraisons de biens effectuées, sauf pour les
-donneurs d'ouvrage à façon ;
+d)((La valeur fiscale en francs des livraisons de biens effectuées)) (M) ;
 
 e) S'il y a lieu, le montant des régularisations commerciales effectuées en
 application du 1 de l'article 272 du code général des impôts ;
@@ -80,13 +77,13 @@ c) De plus, pour les opérateurs soumis à la déclaration détaillée visée au
 dont le montant annuel des échanges intracommunautaires excède un seuil fixé par
 arrêté :
 
-((d) Les opérateurs ont la possibilité de regrouper, sous une position globale
-de la nomenclature combinée, les transactions dont le montant en valeur est
+d) Les opérateurs ont la possibilité de regrouper, sous une position globale de
+la nomenclature combinée, les transactions dont le montant en valeur est
 inférieur à un seuil fixé par arrêté du directeur général des douanes et droits
 indirects. Dans ce cas, les informations visées au b ne sont pas renseignées.
 
-((Pour chaque redevable de la déclaration d'échanges de biens, le montant
-mensuel total repris sous la position globale de la nomenclature combinée ne
-peut cependant pas excéder une valeur fixée par ledit arrêté)) (M).
+Pour chaque redevable de la déclaration d'échanges de biens, le montant mensuel
+total repris sous la position globale de la nomenclature combinée ne peut
+cependant pas excéder une valeur fixée par ledit arrêté.
 
-(M) Modification.
+(M) Modifications du décret.
