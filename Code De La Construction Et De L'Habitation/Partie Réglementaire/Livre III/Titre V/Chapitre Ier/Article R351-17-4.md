@@ -6,8 +6,8 @@ bénéficiaire diminuées, dans la limite du montant desdites ressources, d'un
 montant fixé forfaitairement. Ce forfait est calculé, dans les conditions fixées
 par arrêté conjoint des ministres chargés du logement, du budget, de la sécurité
 sociale et de l'agriculture, sur la base du montant mensuel du revenu minimum
-d'insertion, fixé en application de l'article 3 de la loi n° 88-1088 du 1er
-décembre 1988 relative au revenu minimum d'insertion.
+d'insertion, fixé en application de l'article L. 262-2 du code de l'action
+sociale et des familles.
 
 La participation minimale est définie par le même arrêté.
 

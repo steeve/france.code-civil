@@ -5,8 +5,7 @@ est présidée par le préfet ou son représentant.
 
 Elle est composée du trésorier-payeur général, du directeur départemental de
 l'équipement, du chef du service régional du travail, de l'emploi et de la
-politique sociale agricoles compétent, du directeur régional des affaires
-sanitaires et sociales compétent, du directeur départemental des affaires
+politique sociale agricoles compétent, du directeur départemental des affaires
 sanitaires et sociales, du président du conseil d'administration de la caisse
 d'allocations familiales concernée, du président du conseil d'administration de
 la caisse de mutualité sociale agricole compétente ou de leurs représentants
