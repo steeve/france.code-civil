@@ -15,8 +15,10 @@ personnalisée au logement et le propriétaire peut demander une révision de se
 engagements conventionnels ou le report de leurs effets jusqu'à l'expiration du
 bail.
 
-Pour les logements mentionnés à l'article R. 353-90 (1°), le bail prend effet à
-compter de la date d'acceptation par le locataire.
+Le bail entre en vigueur :
 
-Pour les autres logements faisant l'objet de travaux d'amélioration, le bail
-prend effet à la date d'achèvement des travaux.
+- à compter de la date d'achèvement des travaux si la convention en prévoit ;
+
+- en l'absence de travaux, à la date de son acceptation par le locataire ou
+l'occupant de bonne foi, après publication de la convention au fichier
+immobilier ou son inscription au livre foncier.
