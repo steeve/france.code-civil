@@ -1,9 +1,10 @@
 Article D231-1
 ----
 L'autorité compétente pour la désignation des personnes qualifiées au sein des
-conseils d'administration des caisses primaires et régionales d'assurance
-maladie, des caisses régionales d'assurance maladie de l'Ile-de-France et de
-Strasbourg, de la caisse régionale d'assurance vieillesse de Strasbourg, des
-caisses d'allocations familiales, de la caisse nationale de l'assurance maladie,
-de la caisse nationale d'assurance vieillesse et de la caisse nationale des
-allocations familiales est le ministre chargé de la sécurité sociale.
+conseils d'administration des caisses nationales et de l'Agence centrale des
+organismes de sécurité sociale est le ministre chargé de la sécurité sociale.
+
+L'autorité compétente pour la désignation des personnes qualifiées au sein des
+conseils d'administration des organismes visés aux articles L. 211-2, L. 212-2,
+L. 213-2, L. 215-2, L. 215-3, L. 215-7, L. 752-6 et L. 752-9 est le préfet de la
+région dans laquelle l'organisme a son siège.
