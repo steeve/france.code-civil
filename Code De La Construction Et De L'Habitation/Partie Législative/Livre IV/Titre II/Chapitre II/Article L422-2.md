@@ -12,7 +12,16 @@ l'accord de la ou des collectivités locales concernées, soit pour le compte de
 tiers lorsqu'elles ont été agréées à cet effet. Dans le cas où elles
 interviennent pour le compte de tiers, les dispositions de l'article L. 443-14
 du présent code ne sont pas applicables aux cessions de terrains non bâtis
-rendues nécessaires par la réalisation de ces opérations ;
+rendues nécessaires par la réalisation de ces opérations. Lorsqu'elles se voient
+confier par convention la réalisation d'une opération de restructuration
+urbaine, celle-ci comprend toutes opérations ou actions ou tous aménagements ou
+équipements de nature à favoriser une politique de développement social urbain
+telle que définie à l'article 1er de la loi n° 96-987 du 14 novembre 1996
+relative à la mise en oeuvre du pacte de relance pour la ville ; dans ce cas, la
+convention peut inclure des actions d'insertion professionnelle et sociale en
+faveur des habitants des grands ensembles ou des quartiers d'habitat dégradé
+mentionnés au 3 de l'article 42 de la loi n° 95-115 du 4 février 1995
+d'orientation pour l'aménagement et le développement du territoire ;
 
 - de réaliser pour le compte d'autres organismes d'habitations à loyer modéré
 des prestations de services pour des missions rentrant dans l'objet social et la
