@@ -1,11 +1,12 @@
 Article R950-23
 ----
-Les agents mentionnés à l'article L. 950-8 du code du travail sont commissionnés
-par le ministre chargé de la formation professionnelle [*autorité compétente*]
-lorsque ces agents ont vocation d'intervenir sur l'ensemble du territoire et par
-les commissaires de la République de la région lorsque ces agents
-n'interviennent que dans les limites d'une région. Ils sont habilités à exercer
-le contrôle des dépenses effectuées tant par l'entreprise elle-même que par des
-organismes formateurs pour l'exécution des conventions conclues conformément aux
-dispositions des articles L. 920-1 à L. 920-11 et L. 940-1 et à effectuer les
-opérations prévues à l'article l. 950-8.
+Outre les clauses prévues au troisième alinéa de l'article L. 951-5,
+l'engagement de développement de la formation détermine, sous réserve des
+dispositions de l'article R. 950-33, la fraction de la participation instituée
+par l'article L. 951-1 dont les employeurs entrant dans le champ d'application
+de cet engagement sont réputés s'acquitter ; il fixe les règles suivant
+lesquelles il peut être modifié, dénoncé ou résilié ; il définit les conditions
+dans lesquelles les parties signataires procèdent à l'examen annuel d'exécution
+de leurs obligations ainsi que les modalités selon lesquelles y sont associées
+les institutions représentatives du personnel des entreprises contractantes
+[*mentions, contenu*].
