@@ -9,10 +9,9 @@ correspond au mois pris en considération pour le calcul de l'allocation de
 logement ; ou, selon les cas, les pièces prévues au 1° (b et c) de l'article D.
 755-22 du présent code ;
 
-b) Les justifications prévues au 2°, 3° et 4° de l'article D. 755-22.
-
-En cas de non-présentation de ces justifications, le paiement de l'allocation de
-logement peut être suspendu.
+b) Les justifications prévues au 2°, 3° et 4° de l'article D. 755-22. En cas de
+non-présentation de ces justifications, le paiement de l'allocation de logement
+peut être suspendu sous réserve des dispositions de l'article D. 755-31 ;
 
 Les changements dans les conditions de peuplement des locaux doivent être
 déclarés dans un délai d'un mois.
