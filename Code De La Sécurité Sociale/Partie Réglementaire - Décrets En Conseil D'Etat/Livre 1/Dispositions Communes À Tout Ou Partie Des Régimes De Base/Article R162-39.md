@@ -1,6 +1,6 @@
 Article R162-39
 ----
-La commission nationale paritaire comprend en nombre égal, d'une part, des
+La commission paritaire nationale comprend en nombre égal, d'une part, des
 représentants de la caisse nationale de l'assurance maladie des travailleurs
 salariés, de la caisse nationale d'assurance maladie et maternité des
 travailleurs non-salariés des professions non-agricoles, de la caisse centrale
