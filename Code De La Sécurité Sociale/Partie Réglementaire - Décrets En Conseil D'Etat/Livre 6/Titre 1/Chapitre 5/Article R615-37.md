@@ -30,6 +30,11 @@ l'indication de leur acquit.
 Les feuilles de soins sont envoyées à l'organisme d'affiliation de l'assuré dans
 les trente jours suivant l'expiration de leur période de validité.
 
+Les prescriptions de soins relatives au traitement, au sens de l'article R.
+615-67, de l'affection de longue durée dont le malade est reconnu atteint sont
+portées sur une ordonnance conforme à un modèle fixé par arrêté des ministres
+chargés de la sécurité sociale, du budget et de la santé.
+
 L'ouverture du droit au remboursement est obligatoirement subordonnée à la
 production de feuilles de soins conformes aux modèles types et dûment remplies
 et à la production, s'il y a lieu, de la prescription du médecin.

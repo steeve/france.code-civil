@@ -30,6 +30,11 @@ nomenclature des actes de biologie médicale.
 de la facture du pharmacien, du laboratoire, ou du fournisseur ainsi que
 l'indication de leur acquit.
 
+Les prescriptions de soins relatives au traitement, au sens de l'article L.
+324-1, de l'affection de longue durée dont le malade est reconnu atteint sont
+portées sur une ordonnance conforme à un modèle fixé par arrêté des ministres
+chargés de la sécurité sociale, du budget, de l'agriculture et de la santé.
+
 L'ouverture du droit au remboursement est obligatoirement surbordonnée à la
 production de feuilles de soins conformes aux modèles types et dûment remplies
 et à la production, s'il y a lieu, de la prescription du médecin.
