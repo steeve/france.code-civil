@@ -1,15 +1,28 @@
 Article L226-5
 ----
-Sous réserve des dispositions de l'article L. 226-3, le ou les cadavres
-d'animaux mentionnés à l'article L. 226-4 doivent être enlevés dans un délai de
-vingt-quatre heures après réception de l'avis du propriétaire ou du détenteur.
-Si, dans ce délai, il n'a pas été procédé à l'enlèvement, les propriétaires ou
-détenteurs sont tenus d'en aviser l'autorité administrative. Dans ce cas, ou
-lorsque le propriétaire de cadavres d'animaux reste inconnu à l'expiration d'un
-délai de douze heures après leur découverte, il est procédé à l'enlèvement de
-ces cadavres dans des conditions déterminées par voie réglementaire.
+La fédération départementale des chasseurs instruit les demandes d'indemnisation
+et propose une indemnité aux réclamants selon un barème départemental
+d'indemnisation. Ce barème est fixé par une commission départementale
+d'indemnisation des dégâts de gibier qui fixe également le montant de
+l'indemnité en cas de désaccord entre le réclamant et la fédération
+départementale des chasseurs. Une Commission nationale d'indemnisation des
+dégâts de gibier coordonne la fixation des barèmes départementaux
+d'indemnisation et peut être saisie en appel des décisions des commissions
+départementales.
 
-Dans les cas visés au deuxième alinéa du I de l'article L. 226-2, le délai
-d'enlèvement est de quarante-huit heures. Toutefois, il peut être porté à cinq
-jours lorsque l'entreposage répond à des conditions, définies par voie
-réglementaire, propres à protéger, pendant ce délai, les intérêts sanitaires.
+La composition de la Commission nationale d'indemnisation des dégâts de gibier
+et des commissions départementales d'indemnisation des dégâts de gibier, dont
+l'Office national de la chasse et de la faune sauvage assure le secrétariat,
+assure la représentation de l'Etat et, notamment, de l'Office national de la
+chasse et de la faune sauvage, des chasseurs et des intérêts agricoles et
+forestiers dans des conditions déterminées par un décret en Conseil d'Etat.
+
+Lorsque le produit des taxes mentionnées à l'article L. 225-4 ne suffit pas à
+couvrir le montant des dégâts indemnisables, la fédération départementale des
+chasseurs prend à sa charge le surplus de l'indemnisation. Elle en répartit le
+montant entre ses adhérents et elle peut notamment exiger une participation
+personnelle des chasseurs de grand gibier et de sanglier et une participation
+pour chaque dispositif de marquage du gibier.
+
+Un décret en Conseil d'Etat précise les conditions d'application des articles L.
+226-1 à L. 226-4 et du présent article.
