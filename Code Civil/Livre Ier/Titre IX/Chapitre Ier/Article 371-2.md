@@ -1,6 +1,7 @@
 Article 371-2
 ----
-L'autorité appartient aux père et mère pour protéger l'enfant dans sa sécurité,
-sa santé et sa moralité.
+Chacun des parents contribue à l'entretien et à l'éducation des enfants à
+proportion de ses ressources, de celles de l'autre parent, ainsi que des besoins
+de l'enfant.
 
-Ils ont à son égard droit et devoir de garde, de surveillance et d'éducation.
+Cette obligation ne cesse pas de plein droit lorsque l'enfant est majeur.

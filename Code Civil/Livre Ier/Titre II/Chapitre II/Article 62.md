@@ -17,3 +17,6 @@ naissance s'il en existe un.
 Dans les circonstances prévues à l'article 59, la déclaration de reconnaissance
 pourra être reçue par les officiers instrumentaires désignés en cet article et
 dans les formes qui y sont indiquées.
+
+Lors de l'établissement de l'acte de reconnaissance, il sera fait lecture à son
+auteur des articles 371-1 et 371-2.

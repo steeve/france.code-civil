@@ -13,7 +13,7 @@ dont il est responsable.
 Cette disposition ne s'applique pas aux rapports entre propriétaires et
 locataires, qui demeurent régis par les articles 1733 et 1734 du code civil.
 
-Le père et la mère, en tant qu'ils exercent le droit de garde, sont
+Le père et la mère, en tant qu'ils exercent l'autorité parentale, sont
 solidairement responsables du dommage causé par leurs enfants mineurs habitant
 avec eux.
 

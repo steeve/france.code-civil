@@ -1,11 +1,13 @@
 Article 372
 ----
-L'autorité parentale est exercée en commun par les deux parents s'ils sont
-mariés.
+Les père et mère exercent en commun l'autorité parentale.
 
-Elle est également exercée en commun si les parents d'un enfant naturel, l'ayant
-tous deux reconnu avant qu'il ait atteint l'âge d'un an, vivent en commun au
-moment de la reconnaissance concomitante ou de la seconde reconnaissance.
+Toutefois, lorsque la filiation est établie à l'égard de l'un d'entre eux plus
+d'un an après la naissance d'un enfant dont la filiation est déjà établie à
+l'égard de l'autre, celui-ci reste seul investi de l'exercice de l'autorité
+parentale. Il en est de même lorsque la filiation est judiciairement déclarée à
+l'égard du second parent de l'enfant.
 
-Les dispositions de l'alinéa précédent ne font pas obstacle à celles des
-troisième et quatrième alinéas de l'article 374.
+L'autorité parentale pourra néanmoins être exercée en commun en cas de
+déclaration conjointe des père et mère devant le greffier en chef du tribunal de
+grande instance ou sur décision du juge aux affaires familiales.
