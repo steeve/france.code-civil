@@ -19,17 +19,16 @@ en Conseil d'Etat (2) ;
 géographique du débit;
 
 6° Utiliser pour chaque livraison à un débitant un document revêtu de la marque
-du monopole de vente au détail, conforme au modèle fixé par l'administration des
-impôts, et fournir périodiquement à celle-ci des relevés récapitulatifs des
-livraisons;
+du monopole de vente au détail, conforme au modèle fixé par l'administration, et
+fournir périodiquement à celle-ci des relevés récapitulatifs des livraisons;
 
-7° Présenter au service des douanes pour obtenir la mainlevée des tabacs
-importés, soit un titre de mouvement à destination d'un entrepôt, soit le
-document mentionné au 6° en cas d'expédition à un débitant;
+7° Présenter à l'administration pour obtenir la mainlevée des tabacs importés,
+soit un titre de mouvement à destination d'un entrepôt, soit le document
+mentionné au 6° en cas d'expédition à un débitant;
 
 8° Lorsque les tabacs transitent par des entrepôts autres que douaniers :
 
-- soumettre ces entrepôts au contrôle de l'administration des impôts;
+- soumettre ces entrepôts au contrôle de l'administration ;
 
 - y tenir une comptabilité-matières qui doit être représentée à toute
 réquisition de l'administration;

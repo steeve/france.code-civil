@@ -1,0 +1,71 @@
+Article 256 bis
+----
+I. - 1° Sont également soumises à la taxe sur la valeur ajoutée [*TVA*] les
+acquisitions intracommunautaires de biens meubles corporels effectuées à titre
+onéreux par un assujetti agissant en tant que tel ou par une personne morale non
+assujettie lorsque le vendeur est un assujetti agissant en tant que tel et qui
+ne bénéficie pas dans son Etat du régime particulier de franchise des petites
+entreprises.
+
+" 2° Sous réserve de ne pas excéder le seuil ci-après indiqué, ne sont pas
+soumises à la taxe sur la valeur ajoutée les acquisitions de biens autres que
+des moyens de transport neufs, des alcools, des boissons alcooliques, des huiles
+minérales et des tabacs manufacturés effectuées :
+
+" a) Par une personne morale non assujettie ;
+
+" b) Par un assujetti qui ne réalise que des opérations n'ouvrant pas droit à
+déduction ;
+
+" c) Par un exploitant agricole placé sous le régime du remboursement
+forfaitaire prévu aux articles 298 quater et 298 quinquies.
+
+" Ces dispositions ne sont applicables que lorsque le montant des acquisitions
+réalisées par les personnes mentionnées ci-dessus n'a pas excédé, au cours de
+l'année civile précédente, ou n'excède pas, pendant l'année civile en cours au
+moment de l'acquisition, le seuil de 70 000 F.
+
+" Ce montant est égal à la somme, hors taxe sur la valeur ajoutée, des
+acquisitions de biens, autres que des moyens de transport neufs, les alcools,
+les boissons alcooliques, les huiles minérales et les tabacs manufacturés, ayant
+donné lieu à une livraison de biens située dans un autre Etat membre de la
+Communauté économique européenne, en application des dispositions de la
+législation de cet Etat prise pour la mise en oeuvre de l'article 8 et du B de
+l'article 28 ter de la directive C.E.E. n° 77-388 du 17 mai 1977 du Conseil des
+communautés européennes.
+
+" 3° Est considérée comme acquisition intracommunautaire [*définition*]
+l'obtention du pouvoir de disposer comme un propriétaire d'un bien meuble
+corporel expédié ou transporté en France par le vendeur, par l'acquéreur ou pour
+leur compte, à destination de l'acquéreur à partir d'un autre Etat membre de la
+Communauté économique européenne.
+
+" II. - Est assimilée à une acquisition intracommunautaire :
+
+" 1° La réception en France par un assujetti d'un travail à façon exécuté dans
+un autre Etat membre, à condition que les matériaux utilisés par l'entrepreneur
+de l'ouvrage aient été expédiés ou transportés à partir de France par
+l'assujetti ou pour son compte.
+
+" 2° L'affectation en France par un assujetti pour les besoins de son entreprise
+d'un bien de son entreprise expédié ou transporté à partir d'un autre Etat
+membre, à l'exception d'un bien qui, en France, est destiné :
+
+" a) A être utilisé temporairement pour les besoins de prestations de services
+effectuées par l'assujetti ou dans des conditions qui lui ouvriraient droit,
+s'il était importé, au bénéfice de l'admission temporaire en exonération totale
+de droits ;
+
+" b) A faire l'objet d'une délivrance de travail à façon ou de travaux, à
+condition que le bien soit réexpédié ou transporté à destination de l'assujetti
+dans l'Etat membre de l'expédition ou du transport ;
+
+" c) A faire l'objet d'une installation ou d'un montage.
+
+" 3° La réception en France, par une personne morale non assujettie, d'un bien
+qu'elle a importé sur le territoire d'un autre Etat membre de la Communauté
+économique européenne.
+
+" III. - Un assujetti, agissant en son nom propre mais pour le compte d'autrui,
+qui s'entremet dans une acquisition intracommunautaire, est réputé avoir
+personnellement acquis et livré le bien.

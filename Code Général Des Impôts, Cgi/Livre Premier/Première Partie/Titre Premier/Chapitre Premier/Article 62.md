@@ -24,7 +24,7 @@ supportés par les bénéficiaires dans l'exercice de leurs fonctions ainsi que 
 intérêts des emprunts visés aux 2° quater et 2° quinquies de l'article 83 dans
 les conditions et limites énoncées à cet article. Le revenu net ainsi obtenu est
 retenu dans les bases de l'impôt sur le revenu après application d'un abattement
-calculé dans les conditions prévues aux quatrième, cinquième et sixième alinéas
-du a du 5 de l'article 158 (1).
+calculé dans les conditions prévues aux quatrième, cinquième, sixième et
+septième alinéas du a du 5 de l'article 158 (1).
 
 (1) Disposition applicable à compter de l'imposition des revenus de 1988.

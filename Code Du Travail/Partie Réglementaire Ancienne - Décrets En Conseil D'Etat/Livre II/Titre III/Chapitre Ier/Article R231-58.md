@@ -1,11 +1,15 @@
 Article R231-58
 ----
-Dans un délai d'un mois à compter de la date à laquelle le dossier a été reconnu
-recevable l'organisme agréé adresse [*obligation*] au ministre chargé du travail
-avec son avis préliminaire un exemplaire du dossier ou des compléments fournis
-par le fabricant ou l'importateur.
+Lorsque l'inspecteur du travail met le chef d'établissement en demeure de faire
+procéder à des analyses en application de l'article L. 231-7 (7e alinéa), il
+fixe le délai dans lequel les résultats de ces analyses devront lui être
+adressés par le chef d'établissement.
 
-S'il apparaît que la substance ou la préparation est susceptible de présenter un
-danger grave pour les travailleurs, le ministre [*autorité compétente*] peut
-prendre toutes dispositions conservatoires dans les formes prévues à l'article
-R. 231-48.
+Le chef d'établissement choisit un organisme compétent sur la liste prévue à
+l'article R. 231-55-3 ci-dessus. Le prélèvement des échantillons de produits à
+analyser et leur expédition à l'organisme agréé choisi sont effectués sous le
+contrôle de l'inspecteur du travail.
+
+Les résultats des analyses sont adressés par le chef d'établissement à
+l'inspecteur du travail, qui en transmet copie au médecin inspecteur du travail
+et à l'organisme désigné en application de l'article R. 231-52-15.

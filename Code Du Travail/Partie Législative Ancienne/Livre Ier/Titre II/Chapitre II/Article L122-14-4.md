@@ -24,7 +24,9 @@ du jugement est adressée par le secrétariat du tribunal à ces organismes. Sur
 fondement de ce jugement et lorsque celui-ci est exécutoire, les institutions
 qui versent les allocations de chômage peuvent poursuivre le recouvrement des
 indemnités devant le tribunal d'instance du domicile de l'employeur et selon une
-procédure fixée par décret.
+procédure fixée par décret. Dans les mêmes conditions, lorsque le licenciement
+est jugé comme ne résultant pas d'une faute grave ou lourde, une copie du
+jugement est transmise à ces organismes.
 
 Lorsque le salarié est inclus dans un licenciement collectif pour motif
 économique et que la procédure requise à l'article L. 321-2 n'a pas été

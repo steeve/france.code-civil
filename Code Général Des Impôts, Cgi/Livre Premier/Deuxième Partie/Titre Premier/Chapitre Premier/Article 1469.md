@@ -3,67 +3,77 @@ Article 1469
 La valeur locative est déterminée comme suit (1) :
 
 1° Pour les biens passibles d'une taxe foncière, elle est calculée suivant les
-règles fixées pour l'établissement de cette taxe (2);
+règles fixées pour l'établissement de cette taxe (2) ;
 
 Toutefois, les biens exonérés de taxe foncière sur les propriétés bâties en
 vertu du 11° de l'article 1382 sont évalués et imposés dans les mêmes conditions
-que les biens et équipements mobiliers désignés aux 2° et 3° (3) ;
+que les biens et équipements mobiliers désignés aux 2° et 3° ;
 
 Les immobilisations destinées à la fourniture et à la distribution de l'eau sont
 exonérées de taxe professionnelle lorsqu'elles sont utilisées pour l'irrigation
-pour les neuf dixièmes au moins de leur capacité;
+pour les neuf dixièmes au moins de leur capacité ;
 
 Les locaux donnés en location à des redevables de la taxe professionnelle sont
 imposés au nom du locataire; toutefois, la valeur locative des entrepôts et
 magasins généraux n'est retenue que dans les bases d'imposition de l'exploitant
-de ces entrepôts ou magasins;
+de ces entrepôts ou magasins ;
 
 2° Les équipements et biens mobiliers dont la durée d'amortissement est au moins
 égale à trente ans sont évalués suivant les règles applicables aux bâtiments
 industriels; toutefois, les lignes, câbles et canalisations extérieurs aux
 établissements sont exonérés ainsi que leurs supports; les équipements et biens
 mobiliers destinés à l'irrigation sont exonérés dans les mêmes conditions qu'au
-1°;
+1° ;
 
 3° Pour les autres biens, lorsqu'ils appartiennent au redevable, lui sont
 concédés ou font l'objet d'un contrat de crédit-bail mobilier, la valeur
-locative est égale à 16 % [*pourcentage*] du prix de revient;
+locative est égale à 16 % du prix de revient ;&lt;RL Lorsque ces biens sont pris
+en location, la valeur locative est égale au montant du loyer au cours de
+l'exercice sans pouvoir différer de plus de 20 % de celle résultant des règles
+fixées à l'alinéa précédent ; les biens donnés en location sont imposés au nom
+du propriétaire lorsque la période de location est inférieure à six mois; il en
+est de même si le locataire n'est pas passible de la taxe professionnelle ou n'a
+pas la disposition exclusive des biens loués ;
 
-Lorsque ces biens sont pris en location, la valeur locative est égale au montant
-du loyer au cours de l'exercice sans pouvoir différer de plus de 20 % de celle
-résultant des règles fixées à l'alinéa précédent; les biens donnés en location
-sont imposés au nom du propriétaire lorsque la période de location est
-inférieure à six mois; il en est de même si le locataire n'est pas passible de
-la taxe professionnelle ou n'a pas la disposition exclusive des biens loués;
+La valeur locative des biens pris en crédit-bail mobilier n'est pas modifiée
+lorsque, à l'expiration du contrat, les biens sont acquis par le locataire.
+
+Lorsqu'un contribuable dispose, en vertu d'un contrat de crédit-bail ou de
+location conclu après le 1er janvier 1991, d'équipements et biens mobiliers dont
+il était précédemment propriétaire, la valeur locative de ces équipements et
+biens mobiliers ne peut, pour les impositions établies au titre de 1993 et des
+années suivantes, être inférieure à celle retenue au titre de l'année de leur
+cession.
+
+Les entreprises concernées sont tenues de souscrire avant le 1er mai 1993 des
+déclarations rectificatives pour les impositions complémentaires à établir au
+titre de l'année 1993.
 
 3° bis La valeur locative des matériels agricoles utilisés exclusivement à des
 travaux saisonniers effectués pour le compte d'exploitants agricoles est
 diminuée d'un tiers. La liste des travaux et matériels agricoles concernés est
-fixée par arreté du ministre chargé du budget (4);
+fixée par arreté du ministre chargé du budget (3) ;
 
 4° Il n'est pas tenu compte de la valeur locative définie aux 2e et 3° pour
 l'imposition des redevables sédentaires dont les recettes annuelles n'excèdent
-pas 400.000 F [*montant plafond*] s'il s'agit de prestataires de services ou de
-membres de professions libérales et un million de francs dans les autres cas;
-pour les redevables sédentaires ne remplissant pas ces conditions, cette valeur
-locative est réduite d'un montant fixé à 25.000 F (5); les limites prévues
-seront réévaluées lors du vote de chaque loi de finances. Ces dispositions
-s'appliquent également aux redevables sédentaires qui réalisent une partie de
-leur chiffre d'affaires par des ventes ambulantes lorsque leur principal
-établissement est situé dans une commune dont la population est inférieure à 3
-000 habitants (6).
+pas 400.000 F s'il s'agit de prestataires de services ou de membres de
+professions libérales et un million de francs dans les autres cas; pour les
+redevables sédentaires ne remplissant pas ces conditions, cette valeur locative
+est réduite d'un montant fixé à 25.000 F (4) ; les limites prévues seront
+réévaluées lors du vote de chaque loi de finances.
+
+Ces dispositions s'appliquent également aux redevables sédentaires qui réalisent
+une partie de leur chiffre d'affaires par des ventes ambulantes lorsque leur
+principal établissement est situé dans une commune dont la population est
+inférieure à 3 000 habitants (5).
 
 (1) Annexe II, art. 310 HF.
 
 (2) Voir art. 1494 à 1518 B.
 
-(3) Les impositions dues au titre des années antérieures au 1er janvier 1987
-sont réputées régulières en conséquence, sous réserve des décisions de justice
-passées en force de chose jugée.
+(3) Dispositions applicables à compter du 1er janvier 1987.
 
-(4) Dispositions applicables à compter du 1er janvier 1987.
+(4) Voir également art. 1469 B.
 
-(5) Voir également art. 1469 B.
-
-(6) Ces dispositions sont applicables pour la détermination des bases de la taxe
+(5) Ces dispositions sont applicables pour la détermination des bases de la taxe
 professionnelle due pour l'année 1991 et les années suivantes.

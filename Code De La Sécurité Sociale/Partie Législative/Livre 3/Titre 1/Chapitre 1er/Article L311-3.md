@@ -98,3 +98,7 @@ du commerce ou au registre des métiers.
 d'actions d'une société d'exercice libéral constituée pour l'exercice de leur
 profession, sauf pour les risques gérés par la Caisse nationale des barreaux
 français visée à l'article L. 723-1 à l'exception des risques invalidité-décès.
+
+20° les vendeurs à domicile visés au I de l'article 3 de la loi n° 93-121 du 27
+janvier 1993 portant diverses mesures d'ordre social, non immatriculés au
+registre du commerce ou au registre spécial des agents commerciaux.

@@ -16,6 +16,7 @@ Les modalités de l'agrément sont fixées par arrêté des ministres chargés d
 travail et de l'agriculture.
 
 II. - Les prescriptions des articles R. 232-8 à R. 232-8-6 donnent lieu à
-l'application de la procédure de mise en demeure prévue à l'article L. 231-4. Le
-délai minimum d'exécution est fixé à quinze jours pour l'article R. 232-8-3 et à
-un mois pour les autres articles.
+l'application de la procédure de mise en demeure prévue à l'article L. 231-4.
+Nonobstant les dispositions de l'article R. 232-14, le délai d'exécution est
+fixé à quinze jours pour l'article R. 232-8-3 et à un mois pour les autres
+articles de la présente sous-section.

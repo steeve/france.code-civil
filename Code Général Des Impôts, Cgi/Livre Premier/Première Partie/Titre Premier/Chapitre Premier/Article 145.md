@@ -6,17 +6,16 @@ sociétés au taux normal qui détiennent des participations satisfaisant aux
 conditions ci-après :
 
 a. Les titres de participations doivent revêtir la forme nominative ou être
-déposés dans un établissement désigné par l'administration ; b. Lorsque le prix
-de revient de la participation détenue dans la société émettrice est inférieur à
-150 millions de francs, les titres de participation doivent représenter au moins
-10 p. 100 du capital de la société émettrice ; ce prix de revient et ce
-pourcentage s'apprécient à la date de mise en paiement des produits de la
-participation. Aucun pourcentage minimal n'est exigé pour les titres reçus en
-rémunération d'apports partiels admis au régime fiscal des fusions ou d'apports
-consentis à des groupements d'emprunt professionnels créés pour faciliter le
-financement des investissements dans certains secteurs de l'économie ; Si, à la
-date mentionnée à l'alinéa précédent, la participation dans le capital de la
-société émettrice est réduite à moins de 10 p. 100 du fait de l'exercice
+déposés dans un établissement désigné par l'administration ;
+
+b. Lorsque le prix de revient de la participation détenue dans la société
+émettrice est inférieur à 150 millions de francs, les titres de participation
+doivent représenter au moins 10 p. 100 du capital de la société émettrice ; ce
+prix de revient et ce pourcentage s'apprécient à la date de mise en paiement des
+produits de la participation.
+
+Si, à la date mentionnée à l'alinéa précédent, la participation dans le capital
+de la société émettrice est réduite à moins de 10 p. 100 du fait de l'exercice
 d'options de souscription d'actions dans les conditions prévues à l'article
 208-7 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales, le
 régime des sociétés mères lui reste applicable si ce pourcentage est à nouveau
@@ -25,36 +24,13 @@ au plus tard dans un délai de trois ans.
 
 c. Les titres de participation doivent avoir été souscrits à l'émission. A
 défaut, la personne morale participante doit avoir pris l'engagement de les
-conserver pendant un délai de deux ans. Les titres prêtés dans les conditions du
-chapitre V de la loi n° 87-416 du 17 juin 1987 sur l'épargne ne peuvent être
-pris en compte par les parties au contrat de prêt pour l'application du régime
-fiscal des sociétés mères.
+conserver pendant un délai de deux ans.
 
-2. Le régime fiscal des sociétés mères s'applique également aux sociétés
-françaises par actions ou à responsabilité limitée qui ont souscrit à l'émission
-et conservé sous la forme nominative, quel qu'en soit le nombre, des obligations
-de la société nationale des chemins de fer français [*SNCF*] , lorsque ces
-obligations proviennent de la conversion effectuée en vertu de la loi du 2
-décembre 1941 d'obligations, souscrites elles-mêmes à l'émission, des anciens
-grands réseaux français de chemins de fer d'intérêt général ou des chemins de
-fer de grande ceinture de Paris.
+Les titres prêtés dans les conditions du chapitre V de la loi n° 87-416 du 17
+juin 1987 sur l'épargne ne peuvent être pris en compte par les parties au
+contrat de prêt pour l'application du régime fiscal des sociétés mères.
 
-3. Le même régime s'applique également lorsqu'une société propriétaire de Kuxes
-de Gewerkschaften a reçu des actions nouvelles en échange des Kuxes de
-Gewerkschaften transformées en exécution de l'article 3, deuxième alinéa, de la
-loi du 9 février 1935, relative à l'introduction de la législation minière
-française dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle.
-
-4. En cas d'absorption par une tierce société d'une société détenant une
-participation satisfaisant aux conditions exigées par le présent article, le
-bénéfice du régime fiscal des sociétés mères est transporté de plein droit de la
-société absorbée à la société absorbante ou nouvelle. De même, une société
-participante demeure fondée à se prévaloir du régime de faveur lorsque la
-société dont elle détient les actions ou parts absorbe une tierce société ou est
-absorbée par celle-ci, sous réserve que la fusion ne soit pas réalisée pour
-faire échec aux conditions susvisées et sans que la participation puisse
-bénéficier d'un traitement plus favorable que si l'opération n'avait pas eu
-lieu.
+2. 3. 4. (Abrogés).
 
 4 bis (Abrogé).
 
@@ -68,33 +44,29 @@ développement régional, des sociétés financières pour le développement
 d'exploitation des gisements d'hydrocarbures liquides ou gazeux et des sociétés
 sahariennes de développement ;
 
-b. Aux dividendes alloués aux actions émises à l'occasion de constitutions ou
-d'augmentations de capital de sociétés ayant reçu l'agrément prévu à l'article
-96 de l'annexe II au présent code, dans la mesure où ces dividendes ont été
-déduits, en vertu du même article, pour la détermination du bénéfice imposable
-desdites sociétés ;
+b. b bis. (Abrogés).
 
-b bis. Aux dividendes déduits, en application des dispositions de l'article 214
-A, du bénéfice imposable des sociétés distributrices (1) ;
+b ter. Aux produits des titres auxquels ne sont pas attachés des droits de vote.
 
-b ter. Aux produits des actions à dividende prioritaire sans droit de vote
-prévues par l'article 177-1 de la loi n° 66-537 du 24 juillet 1966 (2).
+c. (Périmé)
 
-c. (Périmé) d. Aux dividendes distribués aux actionnaires des sociétés
-immobilières pour le commerce et l'industrie visés au cinquième alinéa du 3°
-quater de l'article 208 et prélevés sur les bénéfices exonérés visés au
-quatrième alinéa du 3° quater du même article. "
+d. Aux dividendes distribués aux actionnaires des sociétés immobilières pour le
+commerce et l'industrie visés au cinquième alinéa du 3° quater de l'article 208
+et prélevés sur les bénéfices exonérés visés au quatrième alinéa du 3° quater du
+même article.
 
 e. Aux dividendes distribués aux actionnaires des sociétés agréées pour le
 financement des télécommunications visées à l'article 1er de la loi n° 69-1160
 du 24 décembre 1969 et des sociétés qui redistribuent les dividendes d'une
 société immobilière pour le commerce et l'industrie en application du quatrième
-alinéa de l'article 208-3° quinquies.RL&gt; f. Aux produits distribués aux
-associés des sociétés agréées pour le financement des économies d'énergie
-(Sofergie) et résultant de l'exercice des activités exonérées en application du
-3° sexies de l'article 208 ; g. Aux produits et plus-values nets distribués par
-les sociétés de capital-risque exonérés en application du 3° septies de
-l'article 208.
+alinéa de l'article 208-3° quinquies.
+
+f. Aux produits distribués aux associés des sociétés agréées pour le financement
+des économies d'énergie (Sofergie) et résultant de l'exercice des activités
+exonérées en application du 3° sexies de l'article 208 ;
+
+g. Aux produits et plus-values nets distribués par les sociétés de
+capital-risque exonérés en application du 3° septies de l'article 208.
 
 7. Le régime fiscal des sociétés mères ne peut s'appliquer aux produits des
 actions des sociétés immobilières d'investissement régies par l'article 33-I de
@@ -122,6 +94,6 @@ En ce qui concerne les actions visées aux 1° et 2°, aucun pourcentage minimal
 participation n'est exigé pour l'application du régime défini au présent
 article.
 
-8. (Transféré sous le paragraphe 6-d du ci-dessus). (1) Annexe II, art. 102 F.
+8. (Transféré sous le paragraphe 6 d ci-dessus).
 
-(2) Cf. Loi n° 78-741 du 13 juillet 1978, art. 16 et suivants.
+(1) Annexe II, art. 102 F.

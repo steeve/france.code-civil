@@ -1,10 +1,12 @@
 Article R233-54
 ----
-Lorsqu'un matériel soumis à la procédure d'homologation n'est pas et ne peut pas
-être rendu entièrement conforme aux prescriptions des règlements techniques qui
-lui sont applicables, en raison de sa nouveauté et de certaines de ses
-caractéristiques fondamentales, le ministre chargé du travail, après avis du
-Conseil supérieur de la prévention des risques professionnels [*autorités
-compétentes*], peut néanmoins l'homologuer pour une durée limitée, sous réserve
-que soient assurées des conditions d'hygiène et de sécurité au moins
-équivalentes.
+La procédure dite "examen CE de type" est la procédure par laquelle
+[*définition*] un organisme habilité constate et atteste qu'un modèle de machine
+visée au 1° de l'article R. 233-83 ou d'équipement de protection individuelle
+visé à l'article R. 233-83-3, soumis à ladite procédure, satisfait aux règles
+techniques le concernant.
+
+La demande d'examen CE de type ne peut être introduite par le fabricant ou
+l'importateur qu'auprès d'un seul organisme habilité dans la Communauté
+économique européenne pour un modèle de machine ou d'équipement de protection
+individuelle.

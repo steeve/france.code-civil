@@ -1,12 +1,24 @@
 Article R233-60
 ----
-Toute modification faite par le constructeur ou l'importateur d'un élément du
-matériel tel qu'il est décrit dans le dossier qui a été fourni à l'appui d'une
-demande d'homologation ou d'attestation d'examen de type d'un appareil, machine,
-élément de machine, doit faire l'objet d'une nouvelle demande d'homologation ou
-d'attestation d'examen de type.
+Les décisions portant délivrance d'une attestation d'examen CE de type et les
+décisions portant refus de délivrance d'une telle attestation peuvent,
+lorsqu'elles sont prises par un organisme habilité sis sur le territoire
+français, faire l'objet d'une réclamation devant le ministre chargé du travail,
+au plus tard dans les deux mois qui suivent la notification de la décision au
+demandeur de l'attestation d'examen CE de type.
 
-Toutefois, lorsque la modification n'a aucune incidence défavorable sur
-l'hygiène ou la sécurité des travailleurs, le constructeur ou l'importateur peut
-se borner à porter ladite modification à la connaissance, suivant le cas, du
-ministre chargé du travail ou de l'organisme désigné.
+Si la décision de l'organisme habilité n'apparaît pas justifiée, le ministre
+chargé du travail peut la réformer après avis du Conseil supérieur de la
+prévention des risques professionnels, après que le réclamant, le demandeur de
+l'attestation d'examen CE de type s'il est différent du réclamant et l'organisme
+habilité en cause ont été invités à présenter leurs observations. Il doit
+statuer dans le délai de deux mois. En cas de non-réponse dans ce délai, la
+réclamation est considérée comme rejetée.
+
+Lorsque l'organisme habilité n'a pas fait connaître sa décision dans le délai
+prévu au dernier alinéa de l'article R. 233-59, le demandeur peut saisir le
+ministre chargé du travail d'une réclamation, au plus tard dans les trente jours
+qui suivent l'expiration du délai sus-mentionné. Le ministre chargé du travail
+peut, si le dépassement de délai est injustifié, autoriser le demandeur de
+l'attestation d'examen CE de type à s'adresser à un autre organisme. Il est
+statué dans les conditions définies à l'alinéa précédent.

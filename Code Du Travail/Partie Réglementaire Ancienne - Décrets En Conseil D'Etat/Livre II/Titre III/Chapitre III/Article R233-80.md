@@ -1,6 +1,9 @@
 Article R233-80
 ----
-Dans tous les cas où a été pris un arrêté [*d'interdiction*] pour application
-des articles R. 233-78 et R. 233-79, le constructeur, le fabricant,
-l'importateur, le cédant ou le vendeur sont tenus de prendre [*obligatoirement*]
-toutes dispositions pour informer les utilisateurs.
+L'inspecteur ou le contrôleur du travail peut demander que les équipements de
+travail et moyens de protection d'occasion soumis à la procédure de
+certification de conformité prévue par l'article R. 233-77, faisant l'objet
+d'une des opérations mentionnées au II de l'article L. 233-5, soient soumis à
+une vérification, opérée par un organisme agréé dans les conditions prévues à la
+sous-section 10 ci-après, de leur état de conformité avec les dispositions
+techniques qui leur sont applicables.

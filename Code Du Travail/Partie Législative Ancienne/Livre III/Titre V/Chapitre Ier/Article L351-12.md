@@ -1,6 +1,6 @@
 Article L351-12
 ----
-Ont droit aux allocations d'assurance dans les conditions prévues à l'article L.
+Ont droit à l'allocation d'assurance dans les conditions prévues à l'article L.
 351-3 :
 
 1° Les agents non fonctionnaires de l'Etat et de ses établissements publics

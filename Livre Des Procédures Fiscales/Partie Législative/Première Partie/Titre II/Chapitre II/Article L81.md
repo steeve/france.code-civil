@@ -1,6 +1,6 @@
 Article L81
 ----
-Le droit de communication permet aux agents de l'administration des impôts, pour
+Le droit de communication permet aux agents de l'administration, pour
 l'établissement de l'assiette et le contrôle des impôts, d'avoir connaissance
 des documents et des renseignements mentionnés aux articles du présent chapitre
 dans les conditions qui y sont précisées.

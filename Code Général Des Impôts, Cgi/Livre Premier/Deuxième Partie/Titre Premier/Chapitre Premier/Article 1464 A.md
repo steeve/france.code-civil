@@ -9,12 +9,17 @@ premières catégories définies à l'article premier de l'ordonnance n° 45-233
 13 octobre 1945 relative aux spectacles à l'exclusion :
 
 a. Pour la cinquième catégorie, des établissements où il est d'usage de
-consommer pendant les séances ; b. Des entreprises qui donnent des
-représentations visées à l'article 281 bis B. La délibération peut porter sur
-une ou plusieurs catégories ; 2° Dans la limite de 50 p. 100, les établissements
-de spectacles cinématographiques situés dans les communes de 70 000 habitants au
-plus qui, quel que soit le nombre de leurs salles, réalisent, en moyenne
-hebdomadaire, moins de 1 200 entrées et moins de 20 000 F de recettes (1) ;
+consommer pendant les séances ;
+
+b. Des entreprises qui donnent des représentations visées au 2° de l'article 279
+bis.
+
+La délibération peut porter sur une ou plusieurs catégories ;
+
+2° Dans la limite de 50 p. 100, les établissements de spectacles
+cinématographiques situés dans les communes de 70 000 habitants au plus qui,
+quel que soit le nombre de leurs salles, réalisent, en moyenne hebdomadaire,
+moins de 1 200 entrées et moins de 20 000 F de recettes (1) ;
 
 3° Dans la limite de 66 p. 100, les établissements de spectacles
 cinématographiques situés dans les communes de moins de 100 000 habitants qui,
@@ -23,7 +28,7 @@ de 2 000 entrées ; dans la limite de 33 p. 100, les autres établissements de
 spectacles cinématographiques (2).
 
 Les exonérations prévues aux 2° et 3° ne s'appliquent pas aux établissements
-spécialisés dans la projection de films visés à l'article 281 bis A.
+spécialisés dans la projection de films visés au 3° de l'article 279 bis (1).
 
 (1) Disposition abrogée à compter de 1989.
 

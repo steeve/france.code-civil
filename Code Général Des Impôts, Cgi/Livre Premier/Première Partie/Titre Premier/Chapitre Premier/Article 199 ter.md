@@ -44,8 +44,8 @@ Le montant à imputer est ajouté pour l'assiette de l'impôt sur le revenu au
 revenu net perçu par l'actionnaire.
 
 Lorsque les sociétés d'investissement admises au bénéfice du régime prévu à
-l'article 208-1° à 1° bis A ne peuvent transférer à leurs actionnaires tout ou
-partie des crédits d'impôt et avoirs fiscaux attachés aux produits de leur
+l'article 208 1° bis et 1° bis A ne peuvent transférer à leurs actionnaires tout
+ou partie des crédits d'impôt et avoirs fiscaux attachés aux produits de leur
 portefeuille encaissés au cours d'un exercice, les crédits et avoirs non
 utilisés sont susceptibles d'être reportés sur les quatre exercices suivants.
 Cette disposition est applicable aux crédits d'impôt et avoirs fiscaux afférents

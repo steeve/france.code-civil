@@ -1,12 +1,27 @@
 Article R233-72
 ----
-Les modifications apportées à un matériel usagé mentionné au 1° de l'article R.
-233-70 ayant fait l'objet d'une certification de conformité aux matériels ayant
-obtenu une homologation ou une attestation d'examen de type, obligent
-l'employeur qui les a réalisées ou fait réaliser à en informer l'inspecteur du
-travail.
+L'organisme habilité mentionné à l'article R. 233-71 contrôle, par surveillance,
+que le fabricant remplit correctement les obligations qui découlent du système
+d'assurance qualité approuvé.
 
-L'inspecteur du travail peut lui imposer de faire vérifier par un organisme
-agréé, en application du troisième alinéa de l'article L. 233-1, l'état de
-conformité du matériel avec les dispositions des règlements qui leur sont
-applicables .
+Aux fins d'exercice de cette surveillance, le fabricant autorise l'organisme
+habilité à accéder aux lieux d'inspection, d'essais et de stockage des
+équipements de protection individuelle et fournit toute information nécessaire
+dont, notamment :
+
+a) La documentation sur le système d'assurance qualité ;
+
+b) La documentation technique ;
+
+c) Les manuels de qualité.
+
+L'organisme procède périodiquement à des enquêtes et contrôles pour s'assurer
+que le fabricant maintient et applique le système d'assurance qualité approuvé,
+et il fournit un rapport d'expertise au fabricant.
+
+L'organisme peut procéder à des visites inopinées chez le fabricant. A ces
+occasions, il fournit un rapport de visite au fabricant et, le cas échéant, un
+rapport d'expertise.
+
+Les rapports mentionnés aux deux alinéas précédents doivent être adressés au
+fabricant dans les conditions fixées par les articles R. 233-68 et R. 233-68-1.

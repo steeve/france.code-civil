@@ -2,9 +2,8 @@ Article 207
 ----
 1. Sont exonérés de l'impôt sur les sociétés :
 
-1° (Disposition devenue sans objet).
-
-code rural, autres que celles définies à l'article 206-6 ;
+1° (Disposition devenue sans objet : loi n° 84-1208 du 29 décembre 1984, art.
+85) ;
 
 2° Sauf pour les opérations effectuées avec des non-sociétaires et à condition
 qu'elle fonctionnent conformément aux dispositions qui les régissent :
@@ -53,14 +52,24 @@ transport fluvial ainsi que les coopératives maritimes et leurs unions, visées
 au chapitre Ier du titre III de la même loi, sauf pour les affaires effectuées
 avec des non-sociétaires ;
 
-4° Les offices publics d'habitations à loyer modéré [*HLM*], les sociétés
-d'habitations à loyer modéré et les sociétés anonymes de crédit immobilier régis
-par les articles L 411-1 et suivants du code de la construction et de
-l'habitation, ainsi que les unions de ces offices et sociétés ;
+4° Les offices publics d'habitations à loyer modéré et les sociétés
+d'habitations à loyer modéré régis par les articles L. 411-1 et suivants du code
+de la construction et de l'habitation, ainsi que les unions de ces offices et
+sociétés ;
 
-4° bis. Les offices publics d'aménagement et de construction visés à l'article L
+4° bis Les offices publics d'aménagement et de construction visés à l'article L
 421-1 du code de la construction et de l'habitation pour les opérations faites
 en application de la législation sur les habitations à loyer modéré ;
+
+4° ter Les sociétés anonymes de crédit immobilier qui exercent uniquement les
+activités prévues au I et au II de l'article L. 422-4 du code de la construction
+et de l'habitation et qui accordent exclusivement :
+
+a) Des prêts visés aux articles R. 313-31, R. 331-32 et R. 313-34 du même code ;
+
+b) Des prêts à leurs filiales et aux organismes mentionnés au 4°. Le taux de
+rémunération de ces prêts ne doit pas excéder celui prévu au 3° du 1 de
+l'article 39 .
 
 5° Les bénéfices réalisés par des associations sans but lucratif régies par la
 loi du 1er juillet 1901 organisant, avec le concours des communes ou des
@@ -100,7 +109,7 @@ effectuent des apports de travail ;
 
 8° Les sociétés coopératives de construction désignées à l'article 1378 sexies.
 
-1 bis Lorsque les sociétés coopératives agricoles ou leurs unions émettent des
+1 bis. Lorsque les sociétés coopératives agricoles ou leurs unions émettent des
 certificats coopératifs d'investissement, l'exonération visée au 1 n'est pas
 applicable à la fraction des résultats correspondant à la part du montant
 nominal des certificats coopératifs dans le capital social.
@@ -108,63 +117,7 @@ nominal des certificats coopératifs dans le capital social.
 Les résultats sont déterminés selon les règles fixées par l'article 209, avant
 déduction des ristournes.
 
-2. Les sociétés anonymes françaises de financement de recherches et
-d'exploitation des gisements d'hydrocarbures liquides ou gazeux, dont la
-constitution est approuvée par arrêté du ministre de l'économie et des finances
-et du ministre de l'industrie, sont exonérées de l'impôt sur les sociétés pour
-la partie des bénéfices provenant des produits nets de leur portefeuille ou des
-plus-values qu'elles réalisent sur la vente des titres ou parts sociales faisant
-partie de ce portefeuille, lorsqu'elles se conforment aux dispositions ci-après
-: [*conditions*] a. Ces sociétés doivent avoir pour objet exclusif toutes
-opérations se rattachant à la gestion d'un portefeuille de valeurs mobilières et
-de parts sociales émises par les sociétés qui se livrent à la recherche et à
-l'exploitation des gisements d'hydrocarbures liquides ou gazeux, au raffinage,
-au stockage, au transport ou à la distribution des hydrocarbures liquides ou
-gazeux ainsi qu'à la pétroléo-chimie.
-
-Chaque société ne peut consacrer au financement des sociétés autres que celles
-qui se livrent à la recherche ou à l'exploitation des gisements d'hydrocarbures
-dans les pays faisant partie de la zone franc à la date de publication du décret
-n° 62-1025 du 18 août 1962 plus de 25 % du total des sommes placées et des
-sommes disponibles pour le placement.
-
-b. Leur capital social doit s'élever au minimum à 7.500.000 F [*montant*]
-entièrement versés. La dispense cessera de s'appliquer si les actions de la
-société n'ont pas été introduites à la cote officielle ou à la cote du second
-marché d'une bourse de valeurs avant l'expiration d'un délai de trois ans à
-compter de la date à partir de laquelle la société remplit les conditions
-requises pour en bénéficier.
-
-c. Lesdites sociétés ne peuvent posséder plus de 10 % des titres ou parts
-sociales, évalués à leur valeur nominale, ou du nombre des titres sans valeur
-nominale, émis par une même société, ni disposer de plus d'un dixième des droits
-de vote dans une même société, ni employer en titres d'une même société plus de
-15 % [*pourcentage*] du total des sommes placées et des sommes disponibles pour
-le placement. A cet égard, les placements sont évalués à leur prix de revient
-d'acquisition ou à leur valeur d'apport.
-
-Le ministre de l'économie et des finances et le ministre de l'industrie peuvent,
-par des décisions particulières prises conjointement, accorder des dérogations
-temporaires à l'application des pourcentages maximaux fixés à l'alinéa
-précédent.
-
-d. Elles doivent, dans les six mois suivant la clôture de chaque exercice,
-publier au bulletin des annonces légales obligatoires et insérer dans le rapport
-annuel du conseil d'administration la composition intégrale des valeurs de
-l'actif à la date de clôture de l'exercice avec l'indication du prix
-d'acquisition et, en outre, pour les valeurs du portefeuille, du cours du jour
-de l'inventaire. La publication au bulletin des annonces légales obligatoires
-doit comprendre également le bilan annuel et le compte de pertes et profits.
-
-e. Leurs administrateurs doivent être de nationalité française, ainsi que le
-directeur général. Il en est de même de toutes personnes ayant la signature
-sociale.
-
-f. Leurs statuts doivent prévoir que, dans les assemblées générales ordinaires
-ou extraordinaires, aucun actionnaire ne peut disposer, tant en son nom
-personnel que comme mandataire, d'un nombre de voix supérieur à 5 % du nombre
-total des voix attachées aux actions effectivement représentées à ladite
-assemblée.
+2. (Abrogé)
 
 3. (Abrogé).
 

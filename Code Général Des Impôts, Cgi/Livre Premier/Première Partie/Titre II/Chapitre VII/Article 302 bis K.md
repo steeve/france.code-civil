@@ -7,7 +7,7 @@ public aérien. Elle est ajoutée aux prix demandés aux passagers.
 La taxe est exigible pour chaque vol commercial. Elle est assise sur le nombre
 de passagers embarquant en France selon le tarif suivant :
 
-15 F par passager embarqué à destination d'un territoire étranger ;
+17 F par passager embarqué à destination d'un territoire étranger ;
 
 10 F par passager embarqué vers d'autres destinations.
 

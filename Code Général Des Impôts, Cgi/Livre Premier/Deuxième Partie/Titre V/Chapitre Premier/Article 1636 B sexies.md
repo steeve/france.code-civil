@@ -10,15 +10,23 @@ professionnelle. Ils peuvent :
 a) Soit faire varier dans une même proportion les taux des quatre taxes
 appliqués l'année précédente ;
 
-b) Soit faire varier librement entre eux les taux des quatre taxes, sous la
-réserve que celui de la taxe professionnelle ne peut excéder celui de l'année
-précédente corrigé de la variation du taux de la taxe d'habitation ou, si elle
-est moins élevée, de la variation du taux moyen de la taxe d'habitation et des
-taxes foncières, pondéré par l'importance relative des bases de ces trois taxes
-pour l'année d'imposition. Dans ce cas, et jusqu'à la date de la prochaine
-révision, le taux de la taxe foncière sur les propriétés non bâties ne peut
-lui-même excéder celui de l'année précédente corrigé de la variation du taux de
-la taxe d'habitation.
+b) Soit faire varier librement entre eux les taux des quatre taxes. Dans ce cas,
+le taux de taxe professionnelle :
+
+- ne peut, par rapport à l'année précédente, être augmenté dans une proportion
+supérieure à l'augmentation du taux de la taxe d'habitation ou, si elle est
+moins élevée, à celle du taux moyen de la taxe d'habitation et des taxes
+foncières, pondéré par l'importance relative des bases de ces trois taxes pour
+l'année d'imposition ;
+
+- ou doit être diminué, par rapport à l'année précédente, dans une proportion au
+moins égale, soit à la diminution du taux de la taxe d'habitation ou à celle du
+taux moyen pondéré de la taxe d'habitation et des taxes foncières, soit à la
+plus importante de ces diminutions lorsque ces deux taux sont en baisse.
+
+Jusqu'à la date de la prochaine révision, le taux de la taxe foncière sur les
+propriétés non bâties ne peut augmenter plus ou diminuer moins que le taux de la
+taxe d'habitation.
 
 2 Toutefois, le taux de la taxe d'habitation, le taux de la taxe foncière sur
 les propriétés bâties ou le taux de la taxe foncière sur les propriétés non

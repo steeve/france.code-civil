@@ -123,7 +123,7 @@ conditions et limites aux dividendes des actions de travail attribuées aux
 salariés des sociétés anonymes à participation ouvrière régies par la loi du 26
 avril 1917, à compter du 1er janvier 1991 ;
 
-19° Dans la limite de 21,50 F [*montant*] par titre (2), le complément de
+19° Dans la limite de 25 F [*montant*] par titre (2), le complément de
 rémunération résultant de la contribution de l'employeur à l'acquisition par le
 salarié des titres-restaurant émis conformément aux dispositions du titre III de
 l'ordonnance n° 67-830 du 27 septembre 1967, lorsque cette contribution est

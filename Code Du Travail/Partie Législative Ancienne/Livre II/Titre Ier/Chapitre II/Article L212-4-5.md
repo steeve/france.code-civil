@@ -21,8 +21,10 @@ contestation du refus.
 Le chef d'entreprise communique au moins une fois par an [*périodicité*] au
 comité d'entreprise ou, à défaut, aux délégués du personnel un bilan du travail
 à temps partiel réalisé dans l'entreprise portant notamment sur le nombre, le
-sexe et la qualification des salariés concernés. Lors de la réunion où est
-discuté ce bilan, le chef d'entreprise explique les raisons qui l'ont amené à
-refuser à des salariés à temps complet de passer à temps partiel et à des
-salariés à temps partiel de travailler à temps complet. Ce bilan est également
-communiqué aux délégués syndicaux de l'entreprise.
+sexe et la qualification des salariés concernés, ainsi que les horaires de
+travail à temps partiel pratiqués et le nombre de contrats de travail à temps
+partiel ouvrant droit à l'abattement prévu à l'article L. 322-12. Lors de la
+réunion où est discuté ce bilan, le chef d'entreprise explique les raisons qui
+l'ont amené à refuser à des salariés à temps complet de passer à temps partiel
+et à des salariés à temps partiel de travailler à temps complet. Ce bilan est
+également communiqué aux délégués syndicaux de l'entreprise.

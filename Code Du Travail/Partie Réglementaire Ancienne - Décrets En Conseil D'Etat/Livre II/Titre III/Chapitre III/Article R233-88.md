@@ -1,5 +1,6 @@
 Article R233-88
 ----
-Les éléments de machines ou d'appareils normalement accessibles ne doivent
-comporter, dans la mesure où leur fonction le permet, ni arêtes vives, ni angles
-aigus susceptibles de blesser.
+Les structures de protection en cas de retournement et les structures de
+protection contre les chutes d'objets, neuves ou considérées comme neuves,
+visées aux 1° et 2° de l'article R. 233-83-2, sont soumises à la procédure
+d'autocertification CE définie par l'article R. 233-53.

@@ -1,10 +1,20 @@
 Article R233-74
 ----
-Avant l'exposition, la vente, la mise en vente, l'importation, la location, la
-cession, à quelque titre que ce soit, de matériels usagés soumis aux
-dispositions des règlements prévus à l'article L. 233-5, les matériels désignés
-au 2° de l'article R. 233-70 doivent être mis en conformité, s'il y a lieu, avec
-les dispositions qui leur sont applicables. Le détail des mesures prises sur
-chaque matériel est tenu à la disposition de l'inspecteur du travail et remis au
-preneur avec les documents prévus à l'article R. 233-77 ci-après
-[*information*].
+Un marquage de conformité doit être apposé de manière distincte, lisible et
+indélébile :
+
+a) Pour les équipements de travail et moyens de protection neufs ou considérés
+comme neufs mentionnés au deuxième alinéa de l'article R. 233-73, sur chaque
+exemplaire ;
+
+b) Pour les équipements de protection individuelle neufs ou considérés comme
+neufs sur chaque exemplaire et sur leur emballage.
+
+Le marquage de conformité est constitué par le sigle " CE ", assorti d'autres
+indications fixées, en tant que de besoin, par les arrêtés prévus au premier
+alinéa de l'article R. 233-76.
+
+Le marquage CE est apposé par le fabricant, ou l'importateur, ou le responsable
+de la mise sur le marché, qui atteste ainsi que l'exemplaire d'équipement de
+travail ou de moyen de protection concerné est conforme aux règles techniques et
+satisfait aux procédures de certification qui lui sont applicables.

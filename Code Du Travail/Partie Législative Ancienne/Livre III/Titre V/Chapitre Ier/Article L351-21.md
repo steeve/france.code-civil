@@ -1,7 +1,7 @@
 Article L351-21
 ----
 Les parties signataires de l'accord prévu à l'article L. 351-8 confient le
-service des allocations d'assurance et le recouvrement des contributions
+service de l'allocation d'assurance et le recouvrement des contributions
 mentionnées à l'article L. 351-3 à un ou des organismes de droit privé de leur
 choix.
 

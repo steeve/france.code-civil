@@ -1,5 +1,4 @@
 Article R235-3
 ----
-Les locaux destinés à être affectés au travail doivent comporter à hauteur des
-yeux des baies transparentes donnant sur l'extérieur, sauf en cas
-d'incompatibilité avec la nature des activités envisagées.
+Les lieux de travail régis par les dispositions de la présente section sont ceux
+définis à l'article R. 232-1.

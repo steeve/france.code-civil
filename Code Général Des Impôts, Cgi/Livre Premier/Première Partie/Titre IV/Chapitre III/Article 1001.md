@@ -39,11 +39,8 @@ maritime ou fluviale des bateaux de sport ou de plaisance ;
 
 5° (Abrogé) ;
 
-5° bis Pour les assurances contre les risques de toute nature relatifs aux
-véhicules terrestres à moteur :
-
-A 18 %. Ce taux est réduit à 5 p. 100 pour les contrats relatifs aux véhicules
-utilitaires d'un poids total autorisé en charge supérieur à 3,5 tonnes (1) ;
+5° bis A 18 % pour les assurances contre les risques de toute nature relatifs
+aux véhicules terrestres à moteur.
 
 6° Pour toutes autres assurances :
 
@@ -53,5 +50,3 @@ Les risques d'incendie couverts par des assurances ayant pour objet des risques
 de transport sont compris dans les risques désignés sous le 3° ou sous le 6°,
 suivant qu'il s'agit de transports par eau et par air ou de transports
 terrestres.
-
-(1) Ces dispositions sont applicables à compter du 1er juillet 1992.

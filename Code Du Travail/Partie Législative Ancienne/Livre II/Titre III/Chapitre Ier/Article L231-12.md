@@ -6,9 +6,10 @@ salarié ne s'est pas retiré de la situation de travail définie à l'article L
 d'un défaut de protection contre les chutes de hauteur, soit de l'absence de
 dispositifs de nature à éviter les risques d'ensevelissement constituant une
 infraction aux obligations des règlements pris en application de l'article L.
-231-2, l'inspecteur du travail peut prendre toutes mesures utiles visant à
-soustraire immédiatement le salarié de cette situation, notamment en prescrivant
-l'arr^et temporaire de la partie des travaux en cause.
+231-2, l'inspecteur du travail ou le contrôleur du travail, par délégation de
+l'inspecteur du travail dont il relève et sous son autorité peut prendre toutes
+mesures utiles visant à soustraire immédiatement le salarié de cette situation,
+notamment en prescrivant l'arr^et temporaire de la partie des travaux en cause.
 
 Lorsque toutes les mesures ont été prises pour faire cesser la situation de
 danger grave et imminent, l'employeur ou son représentant avise l'inspecteur du

@@ -1,31 +1,92 @@
 Article R231-51
 ----
-Sans préjudice de la déclaration prévue à l'article 3 de la loi n° 77-771 du 12
-juillet 1977 sur le contrôle des produits chimiques, tout fabricant ou
-importateur d'une substance chimique qui n'a pas fait l'objet d'une mise sur le
-marché d'un Etat membre des Communautés européennes avant le 18 septembre 1981
-[*date limite*] doit fournir à un organisme agréé par le ministre chargé du
-travail les informations mentionnées au troisième alinéa de l'article L. 231-7
-avant de mettre cette substance sur le marché soit en l'état, soit au sein d'une
-préparation lorsque cette substance ou cette préparation est susceptible d'être
-utilisée dans les établissements soumis aux dispositions du titre III du livre
-II du présent code. Toute importation en provenance d'un Etat extérieur aux
-Communautés européennes est considérée comme une mise sur le marché.
+Au sens de la présente section, on entend par " substances " [*définition*] les
+éléments chimiques et leurs composés tels qu'ils se présentent à l'état naturel
+ou tels qu'ils sont obtenus par tout procédé de production contenant
+éventuellement tout additif nécessaire pour préserver la stabilité du produit et
+toute impureté résultant du procédé, à l'exclusion de tout solvant pouvant être
+séparé sans affecter la stabilité de la substance ni modifier sa composition.
 
-Tout importateur d'une substance déjà mise sur le marché d'un Etat membre des
-Communautés européennes doit être en mesure de justifier que cette substance a
-fait l'objet, dans cet Etat, d'une déclaration conforme aux règles qui y ont été
-édictées pour l'application de directives du Conseil des Communautés
-européennes.
+On entend par " préparations " les mélanges ou solutions composés de deux
+substances ou plus.
 
-L'obligation définie au troisième alinéa de l'article L. 231-7 [*d'informer*]
-s'impose pour toute préparation destinée à être mise pour la première fois sur
-le marché et contenant l'une au moins des substances [*vénéneuses*] classées en
-application du livre V, titre III, chapitre Ier, du code de la santé publique
-(2è partie) ou des substances désignées par arrêté du ministre chargé du
-travail.
+Sont considérées comme " dangereuses " au sens de la présente section les
+substances et préparations correspondant aux catégories suivantes :
 
-Toutefois, le ministre chargé du travail peut, par arrêté, fixer les seuils pour
-les substances contenues dans ces préparations au-dessous desquels les
-fabricants, les importateurs et les vendeurs seront dispensés de ladite
-obligation.
+a) Explosibles : substances et préparations solides, liquides, pâteuses ou
+gélatineuses qui, même sans intervention d'oxygène atmosphérique, peuvent
+présenter une réaction exothermique avec développement rapide de gaz et qui,
+dans des conditions d'essais déterminées, détonent, déflagrent rapidement ou,
+sous l'effet de la chaleur, explosent en cas de confinement partiel ;
+
+b) Comburantes : substances et préparations qui, au contact d'autres substances,
+notamment inflammables, présentent une réaction fortement exothermique ;
+
+c) Extrêmement inflammables : substances et préparations liquides dont le point
+d'éclair est extrêmement bas et le point d'ébullition bas, ainsi que substances
+et préparations gazeuses qui, à température et pression ambiantes, sont
+inflammables à l'air ;
+
+d) Facilement inflammables : substances et préparations :
+
+- qui peuvent s'échauffer au point de s'enflammer à l'air à température ambiante
+sans apport d'énergie ;
+
+- à l'état solide, qui peuvent s'enflammer facilement par une brève action d'une
+source d'inflammation et continuer à brûler ou à se consumer après l'éloignement
+de cette source ;
+
+- à l'état liquide, dont le point d'éclair est très bas ;
+
+- ou qui, au contact de l'eau ou de l'air humide, produisent des gaz extrêmement
+inflammables en quantités dangereuses ;
+
+e) Inflammables : substances et préparations liquides, dont le point d'éclair
+est bas ;
+
+f) Très toxiques : substances et préparations qui, par inhalation, ingestion ou
+pénétration cutanée en très petites quantités, entraînent la mort ou des risques
+aigus ou chroniques ;
+
+g) Toxiques : substances et préparations qui, par inhalation, ingestion ou
+pénétration cutanée en petites quantités, entraînent la mort ou des risques
+aigus ou chroniques ;
+
+h) Nocives : substances et préparations qui, par inhalation, ingestion ou
+pénétration cutanée, peuvent entraîner la mort ou des risques aigus ou
+chroniques ;
+
+i) Corrosives : substances et préparations qui, en contact avec des tissus
+vivants, peuvent exercer une action destructrice sur ces derniers ;
+
+j) Irritantes : substances et préparations non corrosives qui, par contact
+immédiat, prolongé ou répété avec la peau ou les muqueuses, peuvent provoquer
+une réaction inflammatoire ;
+
+k) Sensibilisantes : substances et préparations qui, par inhalation ou
+pénétration cutanée, peuvent donner lieu à une réaction d'hypersensibilité telle
+qu'une exposition ultérieure à la substance ou à la préparation produit des
+effets indésirables caractéristiques ;
+
+l) Cancérogènes : substances et préparations qui, par inhalation, ingestion ou
+pénétration cutanée, peuvent produire le cancer ou en augmenter la fréquence ;
+
+m) Mutagènes : substances et préparations qui, par inhalation, ingestion ou
+pénétration cutanée, peuvent produire des défauts génétiques héréditaires ou en
+augmenter la fréquence ;
+
+n) Toxiques vis-à-vis de la reproduction : substances et préparations qui, par
+inhalation, ingestion ou pénétration cutanée, peuvent produire ou augmenter la
+fréquence d'effets indésirables non héréditaires dans la progéniture ou porter
+atteinte aux fonctions ou capacités reproductives ;
+
+o) Dangereuses pour l'environnement : substances et préparations qui
+présenteraient ou pourraient présenter un risque immédiat ou différé pour une ou
+plusieurs composantes de l'environnement.
+
+Des arrêtés des ministres chargés du travail et de l'agriculture fixent les
+modalités et les critères de classement des substances et des préparations dans
+les catégories mentionnées ci-dessus et déterminent le classement, le symbole
+d'identification et l'indication du danger de chacune de ces catégories ainsi
+que les phrases types mentionnant les risques particuliers et les conseils de
+prudence.

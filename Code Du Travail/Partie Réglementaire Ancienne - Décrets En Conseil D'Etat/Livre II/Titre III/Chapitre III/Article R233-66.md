@@ -1,10 +1,11 @@
 Article R233-66
 ----
-S'agissant d'appareils, machines, éléments de machines, protecteurs de machines,
-dispositifs, équipements et produits de protection ayant obtenu une homologation
-ou une attestation d'examen de type, le ministre chargé du travail peut demander
-à un constructeur, un importateur, un cédant, un vendeur ou un loueur de faire
-procéder par un organisme agréé à des vérifications de conformité au modèle
-approuvé sur les exemplaires de matériels neufs ou en cours de fabrication,
-fabriqués ou détenus en vue de la mise en vente, de la vente, de la location ou
-de la cession à quelque titre que ce soit.
+La présente sous-section est applicable à certains équipements de protection
+individuelle neufs ou considérés comme neufs visés à l'article R. 233-83-3,
+soumis à la procédure d'examen CE de type.
+
+Le fabricant a le choix entre les deux procédures complémentaires de
+certification de la qualité de sa production définies ci-après :
+
+système de garantie de qualité CE et système d'assurance qualité CE de la
+production avec surveillance.

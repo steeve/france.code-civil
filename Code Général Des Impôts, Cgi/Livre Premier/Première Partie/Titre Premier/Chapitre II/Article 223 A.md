@@ -30,12 +30,14 @@ dont les résultats sont soumis à l'impôt sur les sociétés dans les conditio
 droit commun ou selon les modalités prévues aux articles 214 et 217 bis.
 
 Les sociétés du groupe doivent ouvrir et clore leurs exercices aux mêmes dates ;
-les exercices ont une durée de douze mois. L'option mentionnée au premier alinéa
-est notifiée avant la date d'ouverture de l'exercice au titre duquel le régime
-défini au présent article s'applique. Toutefois, l'option produit immédiatement
-effet, pour les exercices ouverts au cours des six premiers mois de l'année
-1988, si elle est formulée avant le 1er juillet 1988. L'option est valable cinq
-ans.
+les exercices ont une durée de douze mois. En cas de renouvellement de l'option
+mentionnée au premier alinéa, la durée du premier exercice peut être inférieure
+à douze mois. Cette option est notifiée avant la date d'ouverture de l'exercice
+au titre duquel le régime défini au présent article s'applique ; elle comporte
+l'indication de la durée du premier exercice mentionné à la phrase qui précède.
+Toutefois, l'option produit immédiatement effet, pour les exercices ouverts au
+cours des six premiers mois de l'année 1988, si elle est formulée avant le 1er
+juillet 1988. L'option est valable pour cinq exercices.
 
 Chaque société du groupe est tenue solidairement au paiement de l'impôt sur les
 sociétés, de l'imposition forfaitaire annuelle et du précompte et, le cas

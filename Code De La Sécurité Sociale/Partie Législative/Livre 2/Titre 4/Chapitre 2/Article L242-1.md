@@ -22,3 +22,7 @@ Les contributions des employeurs destinées au financement des prestations
 complémentaires de retraite et de prévoyance sont exclues de l'assiette des
 cotisations mentionnées au premier alinéa ci-dessus pour la partie inférieure à
 un montant fixé par décret.
+
+Les personnes visées au 20° de l'article L. 311-3 qui procèdent par achat et
+revente de produits ou de services sont tenues de communiquer le pourcentage de
+leur marge bénéficiaire à l'entreprise avec laquelle elles sont liées.

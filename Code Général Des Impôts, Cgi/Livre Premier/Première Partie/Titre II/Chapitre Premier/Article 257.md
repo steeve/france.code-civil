@@ -79,7 +79,7 @@ par maison ou la superficie minimale exigée par la législation sur le permis d
 construire lorsqu'elle est supérieure ;
 
 b) Est subordonnée à la condition que l'acquisition nouvelle soit effectuée
-moins de deux ans après l'achèvement de la construction.
+moins de deux ans après l'achèvement de la construction (2).
 
 8° Les prélèvements, utilisations, affectations de biens achetés, importés,
 extraits, fabriqués ou transformés par les assujettis ainsi que les prestations
@@ -88,14 +88,18 @@ besoins autres que ceux de l'entreprise et, notamment pour les besoins de ses
 dirigeants, de son personnel ou de tiers, pour les besoins d'une activité non
 imposable ou pour les besoins d'une activité imposable si le droit à déduction
 de la taxe afférente au bien ou au service peut faire l'objet d'une exclusion,
-d'une limitation ou d'une régularisation.
+d'une limitation ou d'une régularisation. Toutefois, ne sont pas visés les
+prélèvements effectués pour les besoins de l'entreprise afin de donner des
+cadeaux de faible valeur et des échantillons. Le montant à retenir pour mettre
+en oeuvre la présente disposition est fixé par arrêté . Cette limite s'applique
+par objet et par an pour un même bénéficiaire (3).
 
-Un décret en Conseil d'Etat (2) définit les opérations désignées ci-dessus ainsi
+Un décret en Conseil d'Etat (4) définit les opérations désignées ci-dessus ainsi
 que le moment où la taxe devient exigible;
 
 9° Les livraisons qu'un non-assujetti à la taxe sur la valeur ajoutée se fait à
 lui-même et qui portent sur les viandes des animaux de boucherie et de
-charcuterie tels qu'ils sont définis par décret (3) [*livraison à soi-même*] ;
+charcuterie tels qu'ils sont définis par décret (5) [*livraison à soi-même*] ;
 
 10° Les achats à des non-assujettis à la taxe sur la valeur ajoutée :
 
@@ -119,14 +123,14 @@ déductions et soumises aux droits indirects;
 navigation aérienne mentionnées à l'article 262-II-4° à d'autres compagnies ne
 remplissant pas les conditions fixées à cet article. Les modalités d'application
 de cette disposition sont fixées, en tant que de besoin, par des arrêtés du
-ministre de l'économie et des finances (4);
+ministre de l'économie et des finances (6);
 
 14° (Abrogé);
 
 15° Les biens et produits mentionnés à l'article 262-II-2° et 3° lorsqu'ils
 cessent d'être utilisés dans les conditions prévues par cet article. Les
 modalités d'application de cette disposition sont fixées, en tant que de besoin,
-par des arrêtés du ministre de l'économie et des finances (5);
+par des arrêtés du ministre de l'économie et des finances (7);
 
 16° et 17° (Abrogés);
 
@@ -140,10 +144,16 @@ propriétaires.
 
 (1) Voir Annexe II, art. 243 à 259.
 
-(2) Annexe II, art. 178 A à 178 C.
+(2) Voir Annexe II, art. 255.
 
-(3) Annexe III, art. 65 A.
+(3) Voir Annexe IV, art. 23 N.
 
-(4) Annexe IV, art. 45.
+Arrêté 1993-01-26 art. 1er : "La limite visée au premier alinéa du 8° de
+l'article 257 du CGI est fixée à 200 F toutes taxes comprises". (4) Annexe II,
+art. 173 à 175.
 
-(5) Annexe IV, art. 42 à 46.
+(5) Annexe III, art. 65 A.
+
+(6) Annexe IV, art. 45.
+
+(7) Annexe IV, art. 42 à 46.

@@ -1,15 +1,21 @@
 Article R233-55
 ----
-Les décisions du ministre chargé du travail, prises en application des articles
-R. 233-53 et R. 233-54, sont notifiées au constructeur ou à l'importateur par
-lettre recommandée avec demande d'avis de réception [*condition de forme*] dans
-un délai de deux mois à compter de la date du dépôt du dossier complet ; la
-non-réponse dans ce délai vaut rejet de la demande [*tacitement*].
+la demande d'examen CE de type doit comporter [*mentions obligatoires*] :
 
-En cas de rejet de son dossier, l'intéressé peut demander dans le délai d'un
-mois son examen par le conseil supérieur de la prévention des risques
-professionnels.
+a) Les nom et adresse du fabricant ou de l'importateur ainsi que le lieu de
+fabrication de la machine ou de l'équipement de protection individuelle ;
 
-Lorsque le ministre chargé du travail soumet le dossier à l'avis du conseil
-supérieur de la prévention des risques professionnels, le délai de deux mois est
-porté à quatre mois et le constructeur ou l'importateur en est avisé.
+b) La documentation technique prévue par l'article R. 233-75.
+
+Lorsqu'il s'agit d'une machine visée au 1° de l'article R. 233-83, la demande
+est accompagnée d'un exemplaire du modèle ou de l'indication du lieu où le
+modèle peut être examiné.
+
+Lorsqu'il s'agit d'un équipement de protection individuelle visé à l'article R.
+233-83-3, la demande est accompagnée du nombre d'exemplaires du modèle
+nécessaires à l'examen.
+
+Lorsque l'organisme habilité a son siège en France, la correspondance relative à
+la demande d'examen CE de type et la documentation technique sont rédigées en
+français ou dans une langue de la Communauté économique européenne acceptée par
+l'organisme habilité.

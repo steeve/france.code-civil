@@ -1,8 +1,5 @@
 Article R233-81-2
 ----
-Dès notification à la République française de leur agrément, les organismes
-agréés pour les examens et essais prévus dans la présente section en application
-d'une directive du Conseil des communautés européennes applicable en France sont
-réputés constituer des organismes habilités pour l'application des articles R.
-233-51-3, deuxième et quatrième alinéa, R. 233-53, deuxième alinéa, R. 233-56,
-deuxième et quatrième alinéa et R. 233-69-1, premier alinéa.
+Dans les conditions définies à l'article R. 233-81-1, les ministres mentionnés
+audit article peuvent demander au fabricant communication des rapports de
+l'organisme habilité prévus par les articles R. 233-68 et R. 233-72.

@@ -8,10 +8,13 @@ but lucratif.
 Toutefois, ce taux est fixé à 10% en ce qui concerne :
 
 a. Les produits des titres de créances mentionnés au 1° bis du III bis de
-l'article 125 A ; b. Les revenus des titres émis à compter du 1er janvier 1987
-tels qu'ils sont définis aux articles 118, 119, 238 septies A et B ; c. Les
-dividendes mentionnés au d du 5 de l'article 206. Les dispositions des premier
-et deuxième alinéas ne s'appliquent pas aux revenus de l'espèce qui se
+l'article 125 A ;
+
+b. Les revenus des titres émis à compter du 1er janvier 1987 tels qu'ils sont
+définis aux articles 118, 119, 238 septies A , 238 septies B et 238 septies E.
+
+c. Les dividendes mentionnés au d du 5 de l'article 206. Les dispositions des
+premier et deuxième alinéas ne s'appliquent pas aux revenus de l'espèce qui se
 rattachent à une exploitation commerciale, industrielle ou non commerciale.
 L'impôt correspondant aux revenus taxés conformément aux dispositions des
 premier et deuxième alinéas est établi, le cas échéant, sous une cote distincte.

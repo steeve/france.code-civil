@@ -1,15 +1,10 @@
 Article R233-67
 ----
-Les décisions d'homologation et de délivrance d'attestation d'examen de type
-peuvent être retirées par le ministre chargé du travail après que le titulaire
-de l'homologation, de l'attestation d'examen de type a été appelé à présenter
-ses observations et après avis du conseil supérieur de la prévention des risques
-professionnels ainsi que, le cas échéant, de l'organisme ayant délivré
-l'attestation d'examen de type si les prescriptions règlementaires applicables
-sont méconnues ou lorsqu'il est constaté à l'usage que le matériel présente un
-défaut, notamment de conception ou de construction, susceptible de compromettre
-l'hygiène ou la sécurité des travailleurs.
-
-La décision de retrait doit être motivée. Elle est notifiée à l'intéressé par
-lettre recommandée avec demande d'avis de réception [*condition de forme*]. Elle
-est publiée au Journal officiel de la République française.
+Le "système de garantie de qualité CE" est la procédure par laquelle
+[*définition*] un organisme habilité atteste que le fabricant a pris toutes
+mesures nécessaires pour que le procédé de fabrication, y compris l'inspection
+finale et les essais des équipements de protection individuelle, assure
+l'homogénéité de sa production et la conformité de chaque exemplaire
+d'équipement de protection individuelle soumis à ladite procédure avec le modèle
+ayant fait l'objet de l'attestation d'examen CE de type et avec les règles
+techniques qui lui sont applicables.

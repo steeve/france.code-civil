@@ -1,17 +1,14 @@
 Article R233-53
 ----
-Le constructeur ou l'importateur d'un matériel soumis à la procédure
-d'homologation adresse au ministre chargé du travail une demande accompagnée
-d'un dossier dont le contenu est fixé par un arrêté du ministre chargé du
-travail.
+La procédure dite "autocertification CE" est la procédure par laquelle
+[*définition*] le fabricant ou l'importateur déclare, sous sa responsabilité,
+que l'exemplaire neuf d'équipement de travail ou de moyen de protection soumis à
+ladite procédure est conforme aux règles techniques qui lui sont applicables.
 
-Lorsque les règlements techniques prévoient l'examen ou l'essai du matériel par
-un organisme spécialement habilité, le constructeur ou l'importateur joint
-également à la demande les procès-verbaux d'examen ou d'essai.
+Les dispositions réglementaires concernant les équipements de travail ou moyens
+de protection auxquels s'applique la présente sous-section peuvent rendre
+obligatoires des essais.
 
-En outre le ministre chargé du travail demande, le cas échéant, au constructeur
-ou à l'importateur ayant présenté la demande de lui fournir tout renseignement
-nécessaire et éventuellement de faire procéder à d'autres essais.
-
-Au vu du dossier complet, l'homologation est décidée par le ministre chargé du
-travail [*autorité compétente*].
+Le fabricant ou l'importateur soumis à la procédure d'autocertification CE doit
+en tout état de cause être en mesure de présenter la documentation technique
+prévue par l'article R. 233-75.

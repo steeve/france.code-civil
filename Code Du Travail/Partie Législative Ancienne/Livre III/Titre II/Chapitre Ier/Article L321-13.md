@@ -1,8 +1,8 @@
 Article L321-13
 ----
 Toute rupture du contrat de travail d'un salarié d'un âge déterminé par décret
-ouvrant droit au versement de l'allocation de base prévue à l'article L. 351-3
-entraîne l'obligation pour l'employeur de verser aux organismes visés à
+ouvrant droit au versement de l'allocation d'assurance prévue à l'article L.
+351-3 entraîne l'obligation pour l'employeur de verser aux organismes visés à
 l'article L. 351-21 une cotisation dont le montant est fixé par décret dans la
 limite de douze mois de salaire brut calculé sur la moyenne mensuelle des
 salaires versés au cours des douze derniers mois travaillés. Ce montant peut
@@ -27,7 +27,11 @@ conjoint, résultant d'un changement d'emploi de ce dernier ;
 
 7° Rupture du contrat de travail d'un salarié qui était, lors de son embauche,
 âgé de plus de cinquante ans et inscrit depuis plus de trois mois comme
-demandeur d'emploi, laquelle embauche est intervenue après le 9 juin 1992.
+demandeur d'emploi, laquelle embauche est intervenue après le 9 juin 1992 ;
+
+8° Première rupture d'un contrat de travail intervenant au cours d'une même
+période de douze mois dans une entreprise employant habituellement moins de
+vingt salariés [*effectifs*].
 
 Toutefois, lorsque l'un des salariés visés à l'alinéa précédent est reclassé
 sous contrat à durée indéterminée dans les trois mois suivant l'expiration du

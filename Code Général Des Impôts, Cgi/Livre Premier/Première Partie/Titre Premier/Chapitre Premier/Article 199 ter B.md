@@ -2,8 +2,21 @@ Article 199 ter B
 ----
 I. Le crédit d'impôt pour dépenses de recherche défini à l'article 244 quater B
 est imputé sur l'impôt sur le revenu dû par le contribuable au titre de l'année
-au cours de laquelle il a accru ses dépenses de recherche. S'il excède l'impôt
-dû, l'excédent est restitué (1).
+au cours de laquelle il a accru ses dépenses de recherche. L'excédent est imputé
+sur l'impôt sur le revenu des trois années suivantes et, s'il y a lieu, restitué
+à l'expiration de cette période. Toutefois, cet excédent est immédiatement
+restituable pour les entreprises dont les résultats bénéficient, en tout ou
+partie, de l'exonération prévue à la première phrase du I de l'article 44
+sexies.
+
+En cas de fusion ou opération assimilée intervenant au cours de la période visée
+à l'alinéa précédent, la fraction de l'excédent qui n'a pas encore été imputée
+par la société apporteuse ou absorbée est transférée à la société bénéficiant de
+l'apport ou absorbante (1).
+
+La fraction du crédit d'impôt recherche correspondant aux parts des personnes
+physiques autres que celles mentionnées au I de l'article 151 nonies n'est ni
+imputable ni restituable.
 
 II. Lorsque les dépenses de recherche exposées au cours d'une année sont
 inférieures à la moyenne de celles exposées au cours des deux années précédentes
@@ -18,4 +31,5 @@ lorsque les dépenses de recherche exposées au cours d'une année sont inférie
 aux dépenses exposées en 1987 revalorisées comme prévu à cet article, les
 crédits d'impôt obtenus sont restitués.
 
-(1) Annexe III, art. 49 septies L
+(1) Ces dispositions sont applicables pour le crédit d'impôt recherche des
+années 1992 à 1995.

@@ -6,11 +6,6 @@ résidence du requérant, soit auprès de la caisse de mutualité sociale agrico
 compétente pour lui verser les prestations familiales dont il bénéficie ou
 serait susceptible de bénéficier.
 
-Lorsqu'il s'agit de personnes de moins de vingt-cinq ans mentionnées aux
-troisième et quatrième alinéas de l'article R. 834-14, la demande doit être
-adressée aux administrations, services, offices, établissements publics ou
-entreprises qui rémunèrent les intéressés.
-
 Lorsque l'allocation de logement est versée en application du premier alinéa de
 l'article L. 835-2, après accord de l'allocataire, entre les mains du bailleur
 ou du prêteur, celui-ci la déduit du montant du loyer et des dépenses

@@ -32,10 +32,15 @@ réduction est effectuée.
 
 En cas de non-respect de l'engagement ou de cession du logement, la réduction
 pratiquée fait l'objet d'une reprise au titre de l'année de la rupture de
-l'engagement ou de celle de la cession.
+l'engagement ou de celle de la cession. Il en est de même en cas de violation
+des conditions de la location.
 
-Les dispositions de l'article 199 sexies A-II s'appliquent à cette réduction
+Les dispositions du 7° de l'article 199 undecies s'appliquent à cette réduction
 d'impôt.
+
+Les locations conclues à compter du 1er janvier 1993 avec des membres du foyer
+fiscal du contribuable, ses ascendants ou descendants n'ouvrent pas droit au
+bénéfice de la réduction d'impôt.
 
 II. Le taux de la réduction d'impôt prévue au I est porté à 10 p. 100 et la
 durée de l'engagement de location est ramenée à six années pour les logements
