@@ -1,23 +1,25 @@
 Article 1379
 ----
-I Les communes perçoivent, dans les conditions déterminées par le présent
-chapitre :
+I. Les communes perçoivent, dans les conditions déterminées par le présent
+chapitre [*art. 1379 à art. 1528*] :
 
-1° La taxe foncière sur les propriétés bâties;
+1° La taxe foncière sur les propriétés bâties ;
 
-2° La taxe foncière sur les propriétés non bâties;
+2° La taxe foncière sur les propriétés non bâties ;
 
-3° La taxe d'habitation;
+3° La taxe d'habitation ;
 
-4° La taxe professionnelle;
+4° La taxe professionnelle ;
 
-5° La redevance des mines.
+5° La redevance des mines ;
 
-II Elles peuvent, en outre, instituer les taxes suivantes :
+6° L'imposition forfaitaire sur les pylônes.
 
-1° Taxe d'enlèvement des ordures ménagères;
+II. Elles peuvent, en outre, instituer les taxes suivantes :
 
-2° (Abrogé);
+1° Taxe d'enlèvement des ordures ménagères ;
+
+2° (Abrogé) ;
 
 3° Taxe de balayage, lorsqu'elles assurent le balayage de la superficie des
 voies livrées à la circulation publique qui incombe aux propriétaires riverains.

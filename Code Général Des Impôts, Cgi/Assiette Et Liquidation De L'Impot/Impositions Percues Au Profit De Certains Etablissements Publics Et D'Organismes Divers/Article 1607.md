@@ -4,9 +4,9 @@ Il est institué une taxe spéciale d'équipement destinée à financer des trav
 figurant aux programmes d'équipement de la région d'Ile-de-France.
 
 Le montant de cette taxe est arrêté chaque année, pour l'année suivante, par le
-conseil régional et notifié au ministre de l'économie et des finances. Il ne
-peut être inférieur à 250 millions de francs ni supérieur à 350 millions de
-francs.
+conseil régional [*autorité compétente*] et notifié au ministre de l'économie et
+des finances. Il ne peut être inférieur à 250 millions de francs ni supérieur à
+350 millions de francs.
 
 Toutefois, le montant de la taxe arrêté par le conseil régional de même que les
 montants minimum et maximum prévus ci-dessus, sont majorés de plein droit chaque
@@ -27,7 +27,8 @@ la taxe foncière sur les propriétés non bâties, la taxe d'habitation et la t
 professionnelle dans les communes comprises dans les limites de la région.
 
 Le montant de la taxe spéciale d'équipement est réparti entre les contribuables
-conformément aux dispositions de l'article 1636 C.
+conformément aux dispositions des articles 1636 B quinquies, 1636 B octies-II et
+1636 C.
 
 Toutefois, les bases devront être affectées de coefficients d'adaptation tenant
 compte de la situation géographique des communes à l'intérieur de la région par
@@ -41,4 +42,4 @@ dispositions ci-dessus.
 Les cotisations sont établies et recouvrées, les réclamations sont présentées et
 jugées comme en matière de contributions directes (1).
 
-Voir annexe II, art. 324.
+(1) Voir annexe II, art. 324.

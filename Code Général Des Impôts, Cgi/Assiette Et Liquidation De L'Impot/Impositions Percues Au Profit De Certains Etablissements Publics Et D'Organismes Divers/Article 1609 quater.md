@@ -3,8 +3,8 @@ Article 1609 quater
 Le comité d'un syndicat de communes peut décider, dans les conditions prévues à
 l'article L 251-4 du code des communes, de lever les impositions mentionnées à
 l'article 1379-I-1° à 4° en remplacement de la contribution des communes
-associées; la répartition de ces impositions s'effectue suivant les modalités
-définies à l'article 1636 B bis.
+associées ; la répartition de ces impositions s'effectue suivant les modalités
+définies aux articles 1636 B quinquies et 1636 B octies-IV.
 
 Ces dispositions sont applicables aux syndicats mixtes ne comprenant d'autres
 personnes morales que des communes, des syndicats de communes ou des districts.

@@ -1,7 +1,7 @@
 Article 1609 quinquies
 ----
-Les dispositions des articles 1609 quater, 1636 B bis et 1636 B ter sont
-applicables aux districts. Toutefois, lorsque la décision en est prise par
+Les dispositions des articles 1609 quater, 1636 B quinquies et 1636 B octies-IV
+sont applicables aux districts. Toutefois, lorsque la décision en est prise par
 délibération du conseil de district statuant à la majorité des deux tiers, il
 est fait application de l'article 1609 bis-1°.
 
