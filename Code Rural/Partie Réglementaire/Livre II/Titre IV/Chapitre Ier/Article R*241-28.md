@@ -12,7 +12,8 @@ reçoit, au titre des participations de l'Etat, des crédits spécialement affec
 
 2° Les droits et redevances que l'établissement aura été autorisé à percevoir et
 celles afférentes à l'utilisation des biens meubles ou immeubles lui appartenant
-ou dont il a la gestion ;
+ou dont il a la gestion ainsi que le produit de la taxe sur les passagers
+maritimes prévue à l'article 285 quater du code des douanes ;
 
 3° Les sommes versées en rémunération de toutes activités auxquelles
 l'établissement se livre et de tous services rendus par lui ;
