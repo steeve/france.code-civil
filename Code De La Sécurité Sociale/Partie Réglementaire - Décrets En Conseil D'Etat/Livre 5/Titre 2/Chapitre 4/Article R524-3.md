@@ -7,22 +7,24 @@ R. 524-5.
 
 Toutefois, pour l'application de l'alinéa précédent, il n'est pas tenu compte :
 
-1° De l'allocation d'éducation spéciale et de son complément, de l'allocation
-pour jeune enfant attribuée au titre du 1° de l'article L. 531-1, de
-l'allocation de rentrée scolaire et du montant des allocations de logement,
-visées aux articles L. 542-1, L. 755-21, L. 831-1 du présent code et à l'article
-L. 351-1 du code de la construction et de l'habitation, excédant le montant
-forfaitaire fixé en application du deuxième alinéa de l'article L. 524-1 ;
+1° De l'allocation d'éducation spéciale et de son complément, de la prime à la
+naissance ou à l'adoption mentionnée à l'article L. 531-2, de l'allocation de
+base, mentionnée à l'article L. 531-3, jusqu'au dernier jour du mois civil au
+cours duquel l'enfant atteint l'âge de trois mois, de l'allocation de rentrée
+scolaire et du montant des allocations de logement, visées aux articles L.
+542-1, L. 755-21, L. 831-1 du présent code et à l'article L. 351-1 du code de la
+construction et de l'habitation, excédant le montant forfaitaire fixé en
+application du deuxième alinéa de l'article L. 524-1 ;
 
 2°) des prestations en nature dues au titre de l'assurance maladie, maternité,
 invalidité ou de l'assurance accident du travail ;
 
 3°) du capital décès servi par un régime de sécurité sociale ;
 
-4°) de l'aide à la famille pour l'emploi d'une assistante maternelle agréée et
-de sa majoration ;
+4°) du complément de libre choix du mode de garde mentionné aux articles L.
+531-5 à L. 531-9 ;
 
-5° Des rémunérations issues d'une activité professionnelle ou d'une formation,
+5°) des rémunérations issues d'une activité professionnelle ou d'une formation,
 perçues pendant le trimestre de référence, lorsqu'il est justifié, à la date de
 l'appréciation des ressources, que la perception de celles-ci est interrompue de
 manière certaine et que l'intéressé ne peut prétendre à un revenu de
