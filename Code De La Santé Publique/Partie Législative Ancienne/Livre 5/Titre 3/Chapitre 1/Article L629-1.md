@@ -1,12 +1,12 @@
 Article L629-1
 ----
-En cas de poursuites exercées pour l'un des délits prévus aux articles L. 627 et
-L. 628 [*opérations ou usage illicite de stupéfiants*], le juge d'instruction
-pourra ordonner à titre provisoire, pour une durée de trois mois au plus, la
-fermeture de tout hôtel, maison meublée, pension, débit de boissons, restaurant,
-club, cercle, dancing, lieu de spectacle ou leurs annexes, ou lieu quelconque
-ouvert au public ou utilisé par le public, où ont été commis ces délits par
-l'exploitant ou avec sa complicité.
+En cas de poursuites pour l'un des délits prévus par les articles L. 627, L.
+627-2 et L. 628 [*opérations ou usage illicite de stupéfiants*], le juge
+d'instruction pourra ordonner à titre provisoire, pour une durée de six mois au
+plus, la fermeture de tout hôtel, maison meublée, pension, débit de boissons,
+restaurant, club, cercle, dancing, lieu de spectacle ou leurs annexes, ou lieu
+quelconque ouvert au public ou utilisé par le public, où ont été commis ces
+délits par l'exploitant ou avec sa complicité.
 
 Cette fermeture pourra, quelle qu'en ait été la durée, faire l'objet de
 renouvellement dans les mêmes formes pour une durée de trois mois au plus

@@ -1,18 +1,25 @@
 Article L627
 ----
-Seront punis d'un emprisonnement de deux ans à dix ans et d'une amende de 5.000
-F à 50.000.000 F, ou de l'une de ces deux peines seulement, ceux qui auront
-contrevenu aux dispositions des règlements d'administration publique prévus à
-l'article précédent et concernant les substances ou plantes vénéneuses classées
-comme stupéfiants par voie réglementaire. Lorsque le délit aura consisté dans
-l'importation, la fabrication, ou l'exportation illicite desdites substances ou
-plantes, la peine d'emprisonnement sera de dix à vingt ans.
+Seront punis d'un emprisonnement de deux ans à dix ans [*durée*] et d'une amende
+de 5.000 F à 50.000.000 F [*montant*], ou de l'une de ces deux peines seulement,
+ceux qui auront contrevenu aux dispositions des règlements d'administration
+publique prévus à l'article précédent et concernant les substances ou plantes
+vénéneuses classées comme stupéfiants par voie réglementaire. Lorsque le délit
+aura consisté dans l'importation, la fabrication, ou l'exportation illicite
+desdites substances ou plantes, la peine d'emprisonnement sera de dix à vingt
+ans.
 
 La tentative d'une des infractions réprimées par l'alinéa précédent sera punie
 comme le délit consommé. Il en sera de même de l'association ou de l'entente en
-vue de commettre ces infractions.
+vue de commettre ces infractions. Seront punis d'un emprisonnement de deux à dix
+ans et d'une amende de 5 000 F à 500 000 F ou de l'une de ces deux peines
+seulement ceux qui, par tout moyen frauduleux, auront facilité ou tenté de
+faciliter la justification mensongère de l'origine des ressources ou des biens
+de l'auteur de l'une des infractions mentionnées au premier alinéa du présent
+article ou ceux qui auront sciemment apporté leur concours à toute opération de
+placement, de dissimulation ou de conversion du produit d'une telle infraction.
 
-Les peines prévues aux deux alinéas précédents pourront être prononcées alors
+Les peines prévues aux trois alinéas précédents pourront être prononcées alors
 même que les divers actes qui constituent les éléments de l'infraction auront
 été accomplis dans des pays différents [*à l'étranger*].
 
