@@ -15,8 +15,8 @@ bâties et les taxes additionnelles à ces impôts, les bases d'imposition sont
 
 2° En ce qui concerne la taxe professionnelle :
 
-a) La base d'imposition est établie conformément au I de l'article 1447 (1), au
-1° de l'article 1467, à l'article 1467 A, aux 1°, 2° et 3 de l'article 1469, à
+a) La base d'imposition est établie conformément au I de l'article 1447, au 1°
+de l'article 1467, à l'article 1467 A, aux 1°, 2° et 3 de l'article 1469, à
 l'article 1472 A bis, au I de l'article 1478 et à l'article 1647 B sexies.
 
 Au titre de 1999, la base d'imposition est réduite de 25 % du montant qui excède
@@ -67,13 +67,11 @@ professionnelle visé à l'article 1648 A bis ;
 
 La fraction du produit des impositions visées au I afférente aux taxes
 mentionnées aux articles 1520 et 1528 est répartie, selon des critères fixés par
-le comité des finances locales, entre les communes qui ont institué ces taxes et
-sur le territoire desquelles sont implantés des établissements de La Poste et de
-France Télécom ;
+le comité des finances locales, entre les communes ou leurs établissements
+publics de coopération intercommunale qui ont institué ces taxes et sur le
+territoire desquels sont implantés des établissements de La Poste et de France
+Télécom ;
 
 Un décret en Conseil d'Etat fixe, en tant que de besoin, les conditions
 d'application du présent article, après consultation du comité des finances
 locales.
-
-(1) dispositions applicables pour les impositions établies au titre de l'an 2000
-et des années suivantes.
