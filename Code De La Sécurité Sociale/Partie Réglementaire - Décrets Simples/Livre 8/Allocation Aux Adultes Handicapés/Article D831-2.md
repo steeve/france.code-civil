@@ -18,24 +18,24 @@ services collectifs est défini dans les conditions suivantes :
 Pour les étudiants lorsqu'ils sont logés en résidence universitaire, le loyer
 mensuel est réputé égal à :
 
-431 F lorsqu'il s'agit d'une personne isolée ;
+441 F lorsqu'il s'agit d'une personne isolée ;
 
-669 F lorsqu'il s'agit d'un ménage.
+685 F lorsqu'il s'agit d'un ménage.
 
 Pour les personnes âgées d'au moins soixante-cinq ans ou d'au moins soixante ans
-en cas d'inaptitude au travail, ainsi que pour les personnes infirmes, le loyer
+en cas d'inaptitude au travail ainsi que pour les personnes infirmes, le loyer
 mensuel est réputé égal à :
 
-1 054 F lorsqu'il s'agit d'une personne isolée ;
+1 079 F lorsqu'il s'agit d'une personne isolée ;
 
-1 637 F lorsqu'il s'agit d'un ménage.
+1 676 F lorsqu'il s'agit d'un ménage.
 
 Pour les personnes autres que celles mentionnées ci-dessus, le loyer mensuel est
 réputé égal à :
 
-868 F lorsqu'il s'agit d'une personne isolée ;
+889 F lorsqu'il s'agit d'une personne isolée ;
 
-1 350 F lorsqu'il s'agit d'un ménage.
+1 382 F lorsqu'il s'agit d'un ménage.
 
 Ces montants sont augmentés de la majoration forfaitaire prévue à l'article D.
 542-21.

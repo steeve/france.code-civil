@@ -56,10 +56,10 @@ l'article L. 542-1.
 
 Cet abattement est fixé à :
 
-4 593 F pour les personnes seules assumant la charge d'un ou de deux enfants ou
+4 644 F pour les personnes seules assumant la charge d'un ou de deux enfants ou
 personnes au sens de l'article L. 542-1 ;
 
-6 886 F pour les personnes seules assumant la charge d'au moins trois enfants ou
+6 962 F pour les personnes seules assumant la charge d'au moins trois enfants ou
 personnes au sens de l'article L. 542-1.
 
 Lors de l'ouverture du droit ou en début de période de paiement, lorsque le
