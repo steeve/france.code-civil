@@ -23,19 +23,19 @@ grande instance statuant commercialement ou au greffe du tribunal de grande
 instance dans le ressort duquel se trouve le principal établissement du
 redevable.
 
-2. Lorsque la publicité est faite à titre obligatoire, en application de
-l'article 1929 quater-1 du code général des impôts, l'inscription des sommes
+2. Lorsque la publicité est faite à titre obligatoire, en application du 4 de
+l'article 1929 quater du code général des impôts, l'inscription des sommes
 déterminées dans les conditions fixées au 3 dudit article doit être requise au
 plus tard :
 
-- Le 28 ou 29 février pour les sommes dues au 31 décembre de l'année précédente
+a. Le 28 ou 29 février pour les sommes dues au 31 décembre de l'année précédente
 ;
 
-- Le 31 mai pour les sommes dues au 31 mars de l'année courante ;
+b. Le 31 mai pour les sommes dues au 31 mars de l'année courante ;
 
-- Le 31 août pour les sommes dues au 30 juin de l'année courante ;
+c. Le 31 août pour les sommes dues au 30 juin de l'année courante ;
 
-- Le 30 novembre pour les sommes dues au 30 septembre de l'année courante.
+d. Le 30 novembre pour les sommes dues au 30 septembre de l'année courante.
 
 L'octroi de délais de paiement ne fait pas obstacle à l'application des
 dispositions du présent article.
@@ -89,7 +89,9 @@ requis l'inscription. Une radiation partielle ne peut être faite que pour une
 somme au moins égale au montant minimum prévu pour l'inscription.
 
 Toute radiation consécutive à un dégrèvement est faite à l'initiative du
-comptable qui avait requis l'inscription.
+comptable qui avait requis l'inscription. Il est de même procédé à radiation sur
+l'initiative du comptable en cas d'erreur commise par celui-ci sur le montant
+des sommes privilégiées ou sur l'identité du redevable.
 
 Le greffier mentionne les radiations en marge de l'inscription correspondante.
 
