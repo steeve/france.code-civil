@@ -1,6 +1,6 @@
 Article D752-6
 ----
-Pour l'application du 1° du II de l'article L. 752-3-1, lorsque l'effectif
+Pour l'application du 1° du I de l'article L. 752-3-1 lorsque l'effectif
 employé, calculé sur la moyenne des six derniers mois, passe en dessous de onze
 salariés, suite à une réduction d'effectif ou à une restructuration de
 l'entreprise, celle-ci adresse au directeur de l'organisme chargé du
