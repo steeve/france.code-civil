@@ -1,15 +1,16 @@
 Article 1465
 ----
 Dans les zones définies par l'autorité compétente où l'aménagement du territoire
-le rend utile, les collectivités locales et les communautés urbaines peuvent,
-par une délibération de portée générale, exonérer de la taxe professionnelle en
-totalité ou en partie les entreprises qui procèdent sur leur territoire, soit à
-des décentralisations, extensions ou créations d'activités industrielles ou de
-recherche scientifique et technique, ou de services de direction, d'études,
-d'ingénierie et d'informatique, soit à une reconversion d'activité, soit à la
-reprise d'établissements en difficulté. Cette délibération ne peut avoir pour
-effet de reporter l'application du régime d'imposition de droit commun au-delà
-du 1er janvier de la cinquième année suivant celle au cours de laquelle sont
+le rend utile, les collectivités locales et les communautés urbaines ainsi que
+les établissements publics régionaux peuvent, par une délibération de portée
+générale, exonérer de la taxe professionnelle en totalité ou en partie les
+entreprises qui procèdent sur leur territoire, soit à des décentralisations,
+extensions ou créations d'activités industrielles ou de recherche scientifique
+et technique, ou de services de direction, d'études, d'ingénierie et
+d'informatique, soit à une reconversion d'activité, soit à la reprise
+d'établissements en difficulté. Cette délibération ne peut avoir pour effet de
+reporter l'application du régime d'imposition de droit commun au-delà du 1er
+janvier de la cinquième année suivant celle au cours de laquelle sont
 intervenues la décentralisation, la création, l'extension, la reconversion
 d'activité ou la reprise d'établissements [*délai*].
 
@@ -46,10 +47,8 @@ période l'entreprise ne remplit plus les conditions exigées pour l'obtention d
 cette exonération.
 
 Pour l'application du présent article, les délibérations prises par les conseils
-généraux s'appliquent aux impositions perçues au profit des établissements
-publics régionaux, celles prises par les conseils municipaux s'appliquent aux
-impositions perçues au profit des groupements de communes autres que les
-communautés urbaines.
+municipaux s'appliquent aux impositions perçues au profit des groupements de
+communes autres que les communautés urbaines.
 
 Lorsque tout ou partie de la part communale de la taxe professionnelle acquittée
 par les entreprises implantées sur une zone d'activités économiques créée ou
