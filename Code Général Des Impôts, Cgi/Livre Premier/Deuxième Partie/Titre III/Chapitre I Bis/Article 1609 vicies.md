@@ -1,9 +1,9 @@
 Article 1609 vicies
 ----
-I Il est institué au profit du budget annexe des prestations sociales agricoles,
-en France continentale et en Corse, une taxe spéciale sur les huiles végétales,
-fluides ou concrètes, effectivement destinées, en l'état ou après incorporation
-dans tous produits alimentaires, à l'alimentation humaine.
+I Il est institué au profit du budget annexe des prestations sociales agricoles
+[*BAPSA*], en France continentale et en Corse, une taxe spéciale sur les huiles
+végétales, fluides ou concrètes, effectivement destinées, en l'état ou après
+incorporation dans tous produits alimentaires, à l'alimentation humaine.
 
 Cette taxe est due :
 
@@ -19,25 +19,23 @@ l'acquisition.
 
 II ((Les taux de la taxe sont fixés comme suit :
 
-((PAR KILOGRAMME (en francs) / PAR LITRE (en francs)
+((Huile d'olive, 0,917 F/Kg, 0,826 F/litre
 
-((Huile d'olive, 0,902, 0,812
+((Huiles d'arachide et de maïs, 0,826 F/Kg, 0,752 F/Litre
 
-((Huiles d'arachide et de maïs, 0,812, 0,739
+((Huiles de colza et de pépins de raisin, 0,423 F/Kg, 0,385 F/litre
 
-((Huiles de colza et de pépins de raisin, 0,416, 0,379
+((Autres huiles végétales fluides et huiles d'animaux marins dont le commerce et
+l'utilisation ne sont pas soumis aux règles internationales ou nationales
+relatives aux espèces protégées, 0,720 F/Kg, 0,629 F/litre
 
-((Autres huiles végétales fluides et huiles d'animaux marins dont le ((commerce
-et l'utilisation ne sont pas soumis aux règles ((internationales ou nationales
-relatives aux espèces protégées, ((0,708, 0,618
+((Huiles de coprah et de palmiste, 0,550F/Kg, 0,629 F / litre
 
-((Huiles de coprah et de palmiste, 0,541, 0,618
+((Huile de palme, 0,503 F/Kg, 0,629 F/litre
 
-((Huile de palme, 0,495, 0,618
-
-((Huiles d'animaux marins dont le commerce et l'utilisation sont ((soumis aux
-règles internationales ou nationales relatives aux ((espèces protégées, 0,902,
-0,618)) (Modification de la loi 93-1352).
+((Huiles d'animaux marins dont le commerce et l'utilisation sont soumis aux
+règles internationales ou nationales relatives aux espèces protégées, 0,917F
+F/Kg, 0,629 F/litre)) (M).
 
 Pour les produits alimentaires importés ou qui font l'objet d'une acquisition
 intracommunautaire incorporant des huiles imposables, la taxation est effectuée
@@ -52,8 +50,8 @@ III Les huiles, y compris celles qui sont contenues dans l es produits
 alimentaires visés ci-dessus, exportées de France continentale et de Corse, qui
 font l'objet d'une livraison exonérée en vertu du I de l'article 262 ter ou
 d'une livraison dans un lieu situé dans un autre Etat membre de la Communauté
-économique européenne en application de l'article 258 A, ne sont pas soumises à
-la taxe spéciale.
+européenne en application de l'article 258 A, ne sont pas soumises à la taxe
+spéciale.
 
 IV La taxe spéciale est établie et recouvrée selon les modalités, ainsi que sous
 les sûretés, garanties et sanctions applicables aux taxes sur le chiffre
@@ -65,4 +63,6 @@ les huiles effectivement destinées à l'alimentation humaine, pour qu'elle ne
 soit perçue qu'une seule fois, et pour qu'elle ne soit pas supportée en cas
 d'exportation, de livraison exonérée en vertu du I de l'article 262 ter ou de
 livraison dans un lieu situé dans un autre Etat membre de la Communauté
-économique européenne en application de l'article 258 A.
+européenne en application de l'article 258 A.
+
+(M) Modification de la loi 94-1162. [*Cf. Instruction 1995-03-23 3P-6-95.*]

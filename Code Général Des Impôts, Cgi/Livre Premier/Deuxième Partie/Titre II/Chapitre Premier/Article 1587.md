@@ -8,10 +8,18 @@ combustibles. Cette redevance est applicable aux charbons extraits sous
 territoire étranger et amenés au jour par des puits et installations sis en
 France.
 
-II. 1° A compter du 1er janvier 1981 [*date point de départ*], les taux de la
-redevance départementale des mines sont fixés à (1) :
+((Cette redevance ne s'applique pas aux hydrocarbures extraits de gisements
+situés au-delà de 1 mille marin des lignes de base définies à l'article 1er de
+la loi n° 71-1060 du 24 décembre 1971 relative à la délimitation des eaux
+territoriales françaises.
 
-1,32 F [*montant*] par tonne nette extraite pour le charbon ;
+((Lorsqu'il existe plusieurs lignes de base, celle qui est la plus proche de la
+côte est utilisée)) (M) .
+
+II. 1° A compter du 1er janvier 1981, les taux de la redevance départementale
+des mines sont fixés à (1) :
+
+1,32 F par tonne nette extraite pour le charbon ;
 
 16,70 F par kilogramme d'or contenu pour les minerais aurifères ;
 
@@ -57,16 +65,30 @@ les taux de la redevance départementale des mines sont fixés à (2) :
 
 14,60 F par tonne nette extraite pour le pétrole brut.
 
+((1° quater. Pour les gisements en mer situés jusqu'à une limite de 1 mille
+marin au-delà des lignes de base définies à l'article 1er de la loi n° 71-1060
+du 24 décembre 1971 relative à la délimitation des eaux territoriales
+françaises, le taux de la redevance départementale des mines est fixé à :
+
+((2,09 F par 1 000 mètres cubes extraits pour le gaz naturel ;
+
+((7,30 F par tonne nette extraite pour le pétrole brut.
+
+((Lorsqu'il existe plusieurs lignes de base, celle qui est la plus proche de la
+côte est utilisée)) (M).
+
 2° Les taux de la redevance départementale des mines applicables, à partir du
 1er janvier 1954, aux substances minérales concédées autres que celles
 mentionnées au 1° et au 1° bis, sont fixés dans les conditions prévues à
 l'article 1519-II pour la redevance communale (2).
 
-III Les taux visés aux 1°, 1° bis et 2° du II varient dans les conditions
+III. Les taux visés aux 1°, 1° bis et 2° du II varient dans les conditions
 prévues au premier alinéa du IV de l'article 1519.
 
 Les taux visés au 1° ter du II varient dans les conditions prévues au deuxième
 alinéa du IV de l'article 1519.
+
+(M) Texte inséré par la loi.
 
 (1) Taux à majorer des perceptions prévues aux articles 1641 et 1644.
 

@@ -1,8 +1,8 @@
 Article 10 C
 ----
-La provision constituée à la clôture d'un exercice doit, dans le délai de cinq
-ans ou d'un an prévu à l'article 39 ter-1, troisième alinéa, du code général des
-impôts être utilisée :
+La provision constituée à la clôture d'un exercice doit, dans l'un des délais
+prévus au troisième alinéa du 1 de l'article 39 ter du code général des impôts,
+être utilisée :
 
 a) Soit à tous travaux ou immobilisations nécessaires aux recherches
 d'hydrocarbures entreprises dans la France métropolitaine, dans les départements
@@ -30,5 +30,3 @@ b) Les sommes avancées, sans intérêt, à ces sociétés et organismes en
 contrepartie soit d'une participation ultérieure au capital desdites sociétés ou
 desdits organismes, soit d'une participation en nature ou en espèces à leur
 production d'hydrocarbures.
-
-(1) Annexe IV, art. 4 A et 4 B.

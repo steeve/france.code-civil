@@ -8,8 +8,16 @@ combustibles. Cette redevance est applicable aux charbons extraits sous
 territoire étranger et amenés au jour par des puits et installations sis en
 France.
 
-II. 1° A compter du 1er janvier 1981 [*date point de départ*], les taux de la
-redevance communale des mines sont fixés à :
+((Cette redevance ne s'applique pas aux hydrocarbures extraits de gisements
+situés au-delà de 1 mille marin des lignes de base définies à l'article 1er de
+la loi n° 71-1060 du 24 décembre 1971 relative à la délimitation des eaux
+territoriales françaises.
+
+((Lorsqu'il existe plusieurs lignes de base, celle qui est la plus proche de la
+côte est utilisée)) (M).
+
+II. 1° A compter du 1er janvier 1981, les taux de la redevance communale des
+mines sont fixés à :
 
 84,80 F par kilogramme d'or contenu pour les minerais aurifères ;
 
@@ -57,6 +65,18 @@ taux de la redevance communale des mines sont fixés à :
 
 11,30 F par tonne nette extraite pour le pétrole brut.
 
+((1° quater. Pour les gisements en mer situés jusqu'à une limite de 1 mille
+marin au-delà des lignes de base définies à l'article 1er de la loi n° 71-1060
+du 24 décembre 1971 relative à la délimitation des eaux territoriales
+françaises, le taux de la redevance communale des mines est fixé à :
+
+((1,66 F par 1 000 mètres cubes extraits pour le gaz naturel ;
+
+((5,65 F par tonne nette extraite pour le pétrole brut.
+
+((Lorsqu'il existe plusieurs lignes de base, celle qui est la plus proche de la
+côte est utilisée)) (M).
+
 2° Les taux de la redevance applicables à partir du 1er janvier 1954 aux
 substances minérales concédées autres que celles mentionnées au 1° et au 1° bis
 sont fixés, compte tenu de la valeur de la substance minérale concédée, par
@@ -93,6 +113,8 @@ Toutefois, le conseil délibérant du groupement de communes peut, par
 délibération prise à la majorité des deux tiers de ses membres, réduire la part
 de la redevance qui lui est directement affectée en application du premier
 alinéa.
+
+(M) Texte inséré par la loi.
 
 (1) Taux à majorer des perceptions prévues aux articles 1641 et 1644.
 

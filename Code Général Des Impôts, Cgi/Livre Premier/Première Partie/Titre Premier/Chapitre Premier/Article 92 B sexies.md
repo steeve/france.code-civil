@@ -16,7 +16,7 @@ cédées à titre onéreux avant l'expiration d'un délai de cinq ans à compter
 réalisation de l'apport ;
 
 3° La société ne doit procéder à aucune réduction de capital non motivée par des
-pertes ni à aucun prélèvement sur le compte " primes d'émission " pendant une
+pertes ni à aucun prélèvement sur le compte "primes d'émission" pendant une
 période commençant le 1er octobre 1993 et s'achevant cinq ans après la
 réalisation de l'apport.
 
@@ -42,3 +42,5 @@ cet impôt aurait dû être acquitté.
 
 IV Un décret précise les modalités d'application du présent article, notamment
 les obligations déclaratives des contribuables et des intermédiaires.
+
+V Les exonérations prévues aux I et II s'appliquent jusqu'au 31 décembre 1994.

@@ -4,8 +4,7 @@ Article 39 quaterdecies
 égales sur l'année de leur réalisation et sur les deux années suivantes.
 
 Il s'entend de l'excédent de ces plus-values sur les moins-values de même nature
-qui ont été effectivement subies au cours du même exercice [*définition du
-montant net des plus-values à court terme*].
+qui ont été effectivement subies au cours du même exercice.
 
 Ces dispositions ne sont pas applicables aux plus-values nettes à court terme
 réalisées par les entreprises soumises à l'impôt sur les sociétés au cours des
@@ -18,16 +17,17 @@ aux articles 1465 et 1466 peut être étalée sur dix ans [*délai*], sans que l
 somme rattachée aux bénéfices de chaque année puisse être inférieure au dixième
 de ce montant.
 
-1 ter Par dérogation aux dispositions du 1, la plus-value nette à court terme
-réalisée à la suite de la perception d'indemnités d'assurances ou de
-l'expropriation d'immeubles figurant à l'actif, peut être répartie, par parts
-égales, sur l'année de sa réalisation et sur les neuf années suivantes, dans la
-mesure où elle provient, soit d'éléments amortissables selon le mode linéaire
-sur une période supérieure à cinq ans, soit d'éléments amortissables selon le
-mode dégressif sur une période supérieure à huit ans.
+((1 ter. Par dérogation aux dispositions du 1, la plus-value nette à court terme
+afférente à des biens amortissables, réalisée à la suite de la perception
+d'indemnités d'assurances ou de l'expropriation d'immeubles figurant à l'actif,
+peut être répartie, par fractions égales, sur plusieurs exercices à compter de
+celui suivant la réalisation de la plus-value.
 
-La plus-value nette à court terme visée à l'alinéa précédent ne peut pas excéder
-le montant global de la plus-value nette à court terme de l'exercice.
+((Chaque fraction est égale au rapport du montant de cette plus-value nette,
+dans la limite du montant global de la plus-value nette à court terme de
+l'exercice au cours duquel elle est réalisée, à la durée moyenne d'amortissement
+déjà pratiquée sur les biens détruits ou expropriés, pondérée en fonction du
+prix d'acquisition de ces biens et limitée à quinze ans)) (M).
 
 2 En cas de cession ou de cessation totale d'entreprise, les plus-values dont
 l'imposition a été différée en application des dispositions qui précèdent sont
@@ -43,3 +43,7 @@ faire l'entreprise apporteuse.
 
 3 Le cas échéant, l'excédent des moins-values à court terme constaté au cours
 d'un exercice est déduit des bénéfices de cet exercice.
+
+(M) Modification de la loi. Ces dispositions s'appliquent pour les sinistres ou
+expropriations intervenus au cours des exercices clos à compter du 31 décembre
+1994. [*Cf. Instruction 1995-02-17 4B-2-95.*]

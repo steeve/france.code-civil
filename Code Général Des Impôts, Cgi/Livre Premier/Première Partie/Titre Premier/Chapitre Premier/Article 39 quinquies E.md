@@ -14,6 +14,8 @@ avant le 31 décembre 1990 [*date*] à condition qu'elles s'incorporent à des
 installations de production existant au 31 décembre 1980.
 
 Les constructions répondant aux critères définis au premier alinéa et achevées
-entre le 1er janvier 1990 et le 31 décembre 1994 peuvent faire l'objet d'un
-amortissement exceptionnel sur douze mois à condition qu'elles s'incorporent à
-des installations de production.
+entre le 1er janvier 1990 et le 31 décembre (( 1995 )) (M) peuvent faire l'objet
+d'un amortissement exceptionnel sur douze mois à condition qu'elles
+s'incorporent à des installations de production.
+
+(M) Modification de la loi.
