@@ -20,3 +20,6 @@ M. ou au bénéfice des primes à la construction ;
 b. soit qu'elles aient souscrit un contrat de location-vente ou un bail à
 construction qui leur confère un droit de propriété sur les constructions
 existantes ou édifiées.
+
+Le logement mis à la disposition d'un requérant par un des ascendants ou de ses
+descendants n'ouvre pas droit au bénéfice de l'allocation.

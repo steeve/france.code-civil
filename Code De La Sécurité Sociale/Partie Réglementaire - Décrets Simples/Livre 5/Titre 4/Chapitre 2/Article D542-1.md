@@ -5,3 +5,6 @@ doivent pas avoir atteint l'âge de quarante ans lorsque le mariage a été cél
 .
 
 La durée pendant laquelle l'allocation est due est fixée à cinq ans.
+
+Le logement mis à la disposition d'un requérant par un des ascendants ou de ses
+descendants n'ouvre pas droit au bénéfice de l'allocation.

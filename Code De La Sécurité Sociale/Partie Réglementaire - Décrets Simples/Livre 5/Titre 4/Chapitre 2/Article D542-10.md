@@ -42,26 +42,18 @@ de revenus au cours de l'année civile de référence et que chacun des deux
 revenus correspondants a été au moins égal à douze fois la base mensuelle de
 calcul des allocations familiales en vigueur au 1er juillet de ladite année.
 
-Cet abattement est fixé à [*montant*] :
-
-1 441 F pour les ménages sans enfants ou personnes à charge ;
-
-2 882 F pour les ménages assumant la charge d'un ou de deux enfants ou personnes
-au sens de l'article L. 542-1 ;
-
-4 323 F pour les ménages assumant la charge d'au moins trois enfants ou
-personnes au sens de l'article L. 542-1.
+Cet abattement est fixé à 500 F.
 
 Un abattement est opéré sur les ressources de la personne seule qui assume la
 charge d'un ou plusieurs enfants ou d'une ou plusieurs personnes au sens de
 l'article L. 542-1.
 
-Cet abattement est fixé à :
+Cet abattement est fixé à [*montant*] :
 
-4 323 F pour les personnes seules assumant la charge d'un ou de deux enfants ou
+4 440 F pour les personnes seules assumant la charge d'un ou de deux enfants ou
 personnes au sens de l'article L. 542-1 ;
 
-6 483 F pour les personnes seules assumant la charge d'au moins trois enfants ou
+6 658 F pour les personnes seules assumant la charge d'au moins trois enfants ou
 personnes au sens de l'article L. 542-1.
 
 Lors de l'ouverture du droit ou en début de période de paiement, lorsque le
@@ -71,3 +63,12 @@ alinéas précédents sont inférieures à un montant fixé par arrêté conjoin
 ministres chargés du logement, du budget, de la sécurité sociale et de
 l'agriculture, les ressources du demandeur ou du ménage sont réputées égales à
 ce montant.
+
+En cas d'accession à la propriété, lorsque le prêt est accordé postérieurement
+au 30 septembre 1992, si les ressources du bénéficiaire et de son conjoint,
+déterminées en application des alinéas précédents et des articles R. 531-14 et
+D. 542-11 sont inférieures à un montant fixé par arrêté conjoint des ministres
+chargés du logement, du budget, de la sécurité sociale et de l'agriculture, les
+ressources du bénéficiaire et de son conjoint sont réputées égales à ce montant
+sauf lorsqu'il y a lieu d'appliquer les dispositions des articles R. 531-11 à R.
+531-13.
