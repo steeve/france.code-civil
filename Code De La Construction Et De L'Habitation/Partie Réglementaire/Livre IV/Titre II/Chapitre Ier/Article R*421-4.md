@@ -8,10 +8,14 @@ moyen des formes spécifiques d'aides de l'Etat et de prêts accordés par l'Eta
 dans les cas prévus à l'article L. 351-2 et assurer la gestion des immeubles,
 acquis, construits ou aménagés aux mêmes fins, notamment en qualité de syndic ;
 
-2° Gérer des immeubles à usage principal d'habitation, appartenant à l'Etat, aux
-collectivités locales, à d'autres organismes d'habitations à loyer modéré sous
-réserve s'il y a lieu, de l'application de l'article L. 442-9, à des sociétés
-d'économie mixte ou à des organismes à but non lucratif ;
+2° Gérer des immeubles appartenant à d'autres organismes d'habitations à loyer
+modéré ou des immeubles à usage principal d'habitation appartenant à l'Etat, à
+une collectivité territoriale ou à un groupement de collectivités territoriales,
+à une société d'économie mixte de construction et de gestion de logements
+sociaux, à des organismes à but non lucratif, à l'association agréée mentionnée
+à l'article 116 de la loi de finances pour 2002 (n° 2001-1275 du 28 décembre
+2001) ou aux sociétés civiles immobilières dont les parts sont détenues à au
+moins 99 % par cette association ;
 
 3° Réaliser, soit directement après accord de la ou des collectivités locales
 intéressées, soit en vertu d'une convention ou d'un traité de concession passé
