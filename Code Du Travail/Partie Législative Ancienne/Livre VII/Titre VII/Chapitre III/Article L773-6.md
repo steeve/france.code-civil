@@ -2,8 +2,8 @@ Article L773-6
 ----
 Les assistantes maternelles perçoivent une indemnité représentative du congé
 annuel payé qui est égale au dixième du total formé par la rémunération reçue en
-application des articles L. 773-3, L. 773-5 et L. 773-10 et par l'indemnité de
-congé payé de l'année précédente.
+application des articles L. 773-3, L. 773-3-1, L. 773-5 et L. 773-10 et par
+l'indemnité de congé payé de l'année précédente.
 
 Lorsque le contrat de travail est résilié avant que le salarié ait pu bénéficier
 de la totalité du congé auquel il avait droit, il reçoit, pour la fraction de

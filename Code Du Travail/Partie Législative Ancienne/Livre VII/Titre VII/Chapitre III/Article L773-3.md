@@ -1,8 +1,8 @@
 Article L773-3
 ----
-Sans préjudice des sommes et des fournitures qui leur sont remises pour
-l'entretien des enfants, les personnes visées au présent chapitre perçoivent une
-rémunération dont le montant minimal, par enfant présent et par unité de temps,
-est déterminé par décret en référence au salaire minimum interprofessionnel de
-croissance [*SMIC*]. Cette rémunération est versée au moins une fois par mois
+Sans préjudice des indemnités et fournitures qui leur sont remises pour
+l'entretien des enfants, les assistantes maternelles accueillant des mineurs à
+titre non permanent perçoivent une rémunération dont le montant minimal, par
+enfant présent et par jour, est déterminé par décret en référence au salaire
+minimum de croissance. Cette rémunération est versée au moins une fois par mois
 [*périodicité*].
