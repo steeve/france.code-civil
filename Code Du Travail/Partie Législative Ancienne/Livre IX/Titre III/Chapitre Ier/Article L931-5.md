@@ -6,5 +6,4 @@ de stages constituant un cycle pédagogique comportant des enseignements
 discontinus ou à temps partiel.
 
 Les dispositions de l'alinéa précédent ne font pas obstacle à la conclusion
-d'accords [*dérogatoires*] stipulant des durées plus longues pour les congés
-concernant des stages agréés conformément à l'article L. 961-3.
+d'accords [*dérogatoires*] stipulant des durées plus longues pour les congés.
