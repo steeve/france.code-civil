@@ -11,8 +11,8 @@ Clause h.
 
 La clause h du cahier des charges des opérateurs décrit les conditions
 d'utilisation des bandes de fréquences allouées à l'opérateur et précise la
-méthode et les montants unitaires permettant de calculer les redevances de mise
-à disposition et de gestion des fréquences dues au titre de l'utilisation, de la
+méthode et les montants permettant de déterminer les redevances de mise à
+disposition et de gestion des fréquences dues au titre de l'utilisation, de la
 gestion et du contrôle des fréquences allouées.
 
 Dans les canaux qui lui ont été attribués, l'opérateur demande l'accord de
