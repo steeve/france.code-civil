@@ -1,7 +1,8 @@
 Article R*234-14
 ----
-Les techniciens et les gardes-pêche sont commissionnés par le ministre chargé de
-la pêche en eau douce.
+Les techniciens et les agents techniques de l'environnement de la spécialité
+milieux aquatiques ainsi que les techniciens et les gardes-pêche sont
+commissionnés par le ministre chargé de la pêche en eau douce.
 
 Ils exercent les missions qui leur sont confiées par la loi.
 
